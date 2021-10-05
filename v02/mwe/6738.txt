@@ -1,0 +1,7 @@
+<L>6738<pc>151-b<k1>currency<k2>currency
+<div n="lb"/>CURRENCY¦, {%s.%} (Circulation, general reception) {#प्रचारः, प्रचरः,#}
+<div n="lb"/>{#प्रचलनं, चलनं, हस्ताद्धस्तं चलनं, व्यवहारः, सर्व्वसाधारणव्यवहारः,#}
+<div n="lb"/>{#सर्व्वग्रहणं, सर्व्वसम्मानं#}. — (Continuous flow or course) {#प्रवाहः,#}
+<div n="lb"/>{#प्रसरः#}. — (Easiness of utterance) {#सुखोच्चारणं, सुखोच्चार्य्यता#}. — 
+<div n="lb"/>(Current coin) {#प्रचलमुद्रा, प्रचारितमुद्रा#}.
+<LEND>

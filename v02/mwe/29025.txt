@@ -1,0 +1,5 @@
+<L>29025<pc>793-b<k1>symptom<k2>symptom
+<div n="lb"/>SYMPTOM¦, {%s.%} {#लक्षणं, पूर्व्वलक्षणं, चिह्नं, पूर्व्वचिह्नं, सूचना, प्रज्ञानं, कान्तारं#}
+<div n="lb"/>{%see%} INDICATION, SIGN; ‘of disease,’ {#रोगलक्षणं, लक्षणं, विमू-#}
+<div n="lb"/>{#चिका;#} ‘secondary symptom,’ {#अनुबन्धः#}.
+<LEND>

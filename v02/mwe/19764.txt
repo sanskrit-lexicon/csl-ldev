@@ -1,0 +1,18 @@
+<L>19764<pc>513-a<k1>month<k2>month
+<div n="lb"/>MONTH¦, {%s.%} {#मासः, मास्#} {%m.,%} {#पक्षद्वयं, पक्षयुगं, नाक्षत्रं, यव्यः, वर्षांशः,#}
+<div n="lb"/>{#वर्षाङ्गः#}. The following are the twelve Hindu months,
+<div n="lb"/>1. {#चैत्रः,#} corresponding to the last half of March and the
+<div n="lb"/>first half of April, 2. {#वैशाखः,#} April, May, 3. {#ज्येष्टः,#} May,
+<div n="lb"/>June, 4. {#आषाढः,#} June, July, 5. {#श्रावणः,#} July, August, 6. {#भाद्रः#}
+<div n="lb"/>or {#भाद्रपदः,#} August, September, 7. {#आश्विनः#} or {#आश्वयुजः,#}
+<div n="lb"/>September, October, 8. {#कार्त्तिकः,#} October, November, 9. {#मार्ग-#}
+<div n="lb"/>{#शीर्षः,#} November, December, 10. {#पौषः,#} December, January,
+<div n="lb"/>11. {#माघः,#} January, February, 12. {#फाल्गुनः,#} February, March.
+<div n="lb"/> — (Lunar month) {#चान्द्रमासः;#} ‘half of a lunar month,’ {#पक्षः;#}
+<div n="lb"/>‘light or first half of the month,’ {#शुक्लपक्षः, शुद्धपक्षः, सितपक्षः,#}
+<div n="lb"/>{#पूर्वपक्षः, प्रथमपक्षः, देवपक्षः;#} ‘dark or second half of the
+<div n="lb"/>month,’ {#कृष्णपक्षः, तमिस्रः, तमिस्रपक्षः, उत्तरपक्षः, अपरपक्षः, बहुलः;#}
+<div n="lb"/>‘last day of the half-month,’ {#पक्षान्तः, पक्षावसरः#}. — (Solar
+<div n="lb"/>month) {#सौरमासः, सौरः;#} ‘a month old,’ {#मासजातः -ता -तं,#}
+<div n="lb"/>{#मासीनः -ना -नं#}.
+<LEND>

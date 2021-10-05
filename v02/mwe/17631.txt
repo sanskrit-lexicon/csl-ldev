@@ -1,0 +1,4 @@
+<L>17631<pc>444-b<k1>leather-seller<k2>leather-seller
+<div n="lb"/>LEATHER-SELLER¦, {%s.%} {#चर्म्मविक्रेता#} {%m.%} {#(तृ), चर्म्मविक्रयी#} {%m.%} {#(न्), चर्म्मवि-#}
+<div n="lb"/>{#क्रयोपजीवी#} {%m.%}
+<LEND>

@@ -1,0 +1,4 @@
+<L>19325<pc>500-b<k1>military<k2>military
+<div n="lb"/>MILITARY¦, {%s.%} (The body of soldiers) {#सैनिकवर्गः, सैन्यवर्गः, सैनि-#}
+<div n="lb"/>{#कजातिः#} {%f.,%} {#क्षत्रं, क्षत्रियजातिः#} {%f.,%} {#क्षत्रवर्णः#}.
+<LEND>

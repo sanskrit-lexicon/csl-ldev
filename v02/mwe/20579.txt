@@ -1,0 +1,12 @@
+<L>20579<pc>538-a<k1>noun<k2>noun
+<div n="lb"/>NOUN¦, {%s.%} {#नाम#} {%n.%} {#(न्), विशेष्यं, संज्ञा, सत्त्वं, द्रव्यवाचकः, पदार्थवाचकः,#}
+<div n="lb"/>{#आख्या, शब्दः, सङ्केतशब्दः;#} ‘noun of action,’ {#कारकः, क्रिया;#}
+<div n="lb"/>of agency, {#कर्त्तृवाच्यं;#} ‘animate,’ {#प्राणिवाचकः;#} ‘abstract,’
+<div n="lb"/>{#भाववाचकः;#} ‘collective,’ {#सङ्घवाचकः;#} ‘communicative,’ {#अपा-#}
+<div n="lb"/>{#दानवाच्यं;#} ‘denominative,’ {#क्रियावाचकः;#} ‘ending in a vowel,’
+<div n="lb"/>{#अजन्तः;#} ‘gentile,’ {#जातिवाचकः;#} ‘inanimate,’ {#अप्राणिवाचकः;#}
+<div n="lb"/>‘instrumental,’ {#कारणवाच्यं;#} ‘inflected, or of any case,’ {#कारकं;#}
+<div n="lb"/>‘passive,’ {#कर्म्मवाचकः, कर्म्मणिवाच्यशब्दः, सम्प्रदानवाच्यं;#} ‘posses-
+<div n="lb"/>sive,’ {#अधिकरणवाच्यं;#} ‘proper,’ {#नामवाचकः;#} ‘simple,’ {#भाववाच्यं,#}
+<div n="lb"/>{#लिङ्गं;#} ‘verbal,’ {#क्रियावाचकः#}.
+<LEND>

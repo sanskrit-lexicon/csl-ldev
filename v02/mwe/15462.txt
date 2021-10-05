@@ -1,0 +1,4 @@
+<L>15462<pc>375-a<k1>income<k2>income
+<div n="lb"/>INCOME¦, {%s.%} {#आयः, आगमः, धनागमः, अर्थागमः, उदयः, धनोदयः, उत्पन्नं,#}
+<div n="lb"/>{#प्राप्तिः#} {%f.;%} ‘income and expenditure,’ {#आयव्ययौ#} {%m.%} du.
+<LEND>

@@ -1,0 +1,5 @@
+<L>20568<pc>537-b<k1>notification<k2>notification
+<div n="lb"/>NOTIFICATION¦, {%s.%} {#घोषणं -णा, विघोषणं -णा, विज्ञापनं -ना, विज्ञप्तिः#} {%f.,%}
+<div n="lb"/>{#ज्ञप्तिः#} {%f.,%} {#ज्ञापनं, ख्यापनं, निवेदनं, आवेदनं, बोधनं, सूचनं -ना#}. — 
+<div n="lb"/>(Written notice). {%See%} under NOTICE.
+<LEND>

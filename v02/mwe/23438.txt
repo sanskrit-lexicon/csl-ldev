@@ -1,0 +1,7 @@
+<L>23438<pc>624-a<k1>price<k2>price
+<div n="lb"/>PRICE¦, {%s.%} (Value set or paid) {#मूल्यं, अर्घः, अवक्रयः, वस्नः, भाटकः,#}
+<div n="lb"/>{#पण्यं, पणता;#} ‘high price,’ {#बहुमूल्यं, महामूल्यं, दुर्मूल्यं, महार्घः, मा-#}
+<div n="lb"/>{#हार्घ्यं;#} ‘low price,’ {#अल्पमूल्यं, सुमूल्यं;#} ‘what is the price?’
+<div n="lb"/>{#कियता मूल्येन विक्रीयते;#} ‘I will not give such a price,’ {#एता-#}
+<div n="lb"/>{#वन् मूल्यं न दित्सामि#}. — (Reward, recompense) {#फलं, वेतनं#}.
+<LEND>

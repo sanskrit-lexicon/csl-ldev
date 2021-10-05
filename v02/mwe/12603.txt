@@ -1,0 +1,5 @@
+<L>12603<pc>303-b<k1>gender<k2>gender
+<div n="lb"/>GENDER¦, {%s.%} {#लिङ्गं, प्रकृतिः#} {%f.;%} ‘masculine gender,’ {#युंलिङ्गं, पुरुषः;#}
+<div n="lb"/>‘feminine gender,’ {#स्त्रीलिङ्गं;#} ‘a noun of invariable gender,’
+<div n="lb"/>{#अजहल्लिङ्गः#}
+<LEND>

@@ -1,0 +1,15 @@
+<L>29011<pc>793-a<k1>syllogism<k2>syllogism
+<div n="lb"/>SYLLOGISM¦, {%s.%} {#न्यायः, अवयवी#} {%m.%} {#(न्), अवयवघटितवाक्यं, अवयवयुक्त-#}
+<div n="lb"/>{#वाक्यं, अवयवोपेतवाक्यं, आनुपूर्व्वं#}. A syllogism has five mem-
+<div n="lb"/>bers or {#अवयवाः,#} according to the Nyāya system, viz.
+<div n="lb"/>1. The proposition or assertion to be proved, {#प्रतिज्ञा;#} 2. the
+<div n="lb"/>reason given, {#हेतुः;#} 3. the example or illustration, {#उदाहरणं;#}
+<div n="lb"/>4. the application, {#उपनयः;#} 5. the conclusion, {#निगमनं#}. Thus,
+<div n="lb"/>1. ‘The hill is fiery,’ {#पर्व्वतो वह्निमान्#}. 2. ‘Because it smokes,’
+<div n="lb"/>{#धूमवत्त्वात्#}. 3. ‘Whatever smokes is fiery, like a culinary
+<div n="lb"/>hearth,’ {#यो यो धूमवान् स वह्निमान् यथा महानसः#}. 4. ‘This (hill)
+<div n="lb"/>has smoke which is always accompanied with fire,’ {#वह्नि-#}
+<div n="lb"/>{#व्याप्यधूमवान् अयं#}. 5. ‘Therefore it is fiery,’ {#तस्माद् वह्निमान्#}.
+<div n="lb"/>According to the Mīmānsā school, a syllogism has only
+<div n="lb"/>the last three members.
+<LEND>

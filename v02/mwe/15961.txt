@@ -1,0 +1,5 @@
+<L>15961<pc>390-b<k1>ingredient<k2>ingredient
+<div n="lb"/>INGREDIENT¦, {%s.%} {#भागः, अंशः, द्रव्यं, साधनद्रव्यं, उपकरणं, अङ्गं, वस्तु;#}
+<div n="lb"/>‘any thing mixed as an ingredient in drugs in the
+<div n="lb"/>course of decoction,’ {#प्रक्षिप्तं, भावितं#}.
+<LEND>

@@ -1,0 +1,6 @@
+<L>30783<pc>827-b<k1>vehicle<k2>vehicle
+<div n="lb"/>VEHICLE¦, {%s.%} (Carriage) {#वाहनं, यानं, वाहः, वाह्यं, रथः, विमानं#}
+<div n="lb"/>{#दण्डारः, पत्रं, धारणं,#} {%see%} CARRIAGE; ‘a mediate one, as a
+<div n="lb"/>horse dragging a carriage,’ {#वैनीतकः -कं#}. — (Medium) {#द्वारं#}.
+<div n="lb"/> — (Fluid in which medicine is taken) {#अनुपानं#}.
+<LEND>
