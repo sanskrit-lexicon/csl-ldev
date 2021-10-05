@@ -1,0 +1,127 @@
+<L>1266<pc>1-342<k1>दशन्<k2>दशन्
+{@Daśan,@}¦ ‘ten,’ forms the basis of the numerical system of the
+<div n="lb"/>Vedic Indians, as it does of the Āryan people generally. But
+<div n="lb"/>it is characteristic of India<sup>1</sup> that there should be found at a
+<div n="lb"/>very early period long series of names for very high numerals,
+<div n="lb"/>whereas the Āryan knowledge did not go beyond 1,000. In
+<div n="lb"/>the Vājasaneyi Saṃhitā<sup>2</sup> the list is 1; 10; 100; 1,000; 10,000
+<div n="lb"/>({%ayuta%}); 100,000 ({%niyuta%}); 1,000,000 ({%prayuta%}); 10,000,000 ({%arbuda%});
+<div n="lb"/>100,000,000 ({%nyarbuda%}); 1,000,000,000 ({%samudra%}); 10,000,000,000
+<div n="lb"/>({%madhya%}); 100,000,000,000 ({%anta%}); 1,000,000,000,000 ({%parārdha%}).
+<div n="lb"/>In the Kāṭhaka Saṃhitā<sup>3</sup> the list is the same, but {%niyuta%} and
+<div n="lb"/>{%prayuta%} exchange places, and after {%nyarbuda%} a new figure
+<div n="lb"/>({%badva%}) intervenes, thus increasing {%samudra%} to 10,000,000,000,
+<div n="lb"/>and so on. The Taittirīya Saṃhitā has in two places<sup>4</sup> exactly
+<div n="lb"/>the same list as the Vājasaneyi Saṃhitā. The Maitrāyaṇī
+<div n="lb"/>Saṃhitā<sup>5</sup> has the list {%ayuta, prayuta,%} then {%ayuta%} again, {%arbuda,%}
+<div n="lb"/>{%nyarbuda, samudra, madhya, anta, parārdha.%} The Pañcaviṃśa
+<div n="lb"/>Brāhmaṇa<sup>6</sup> has the Vājasaneyi list up to {%nyarbuda%} inclusive,
+<div n="lb"/>then follow {%nikharvaka, badva, akṣita,%} and apparently {%go%} =
+<div n="lb"/>1,000,000,000,000. The Jaiminīya Upaniṣad Brāhmaṇa<sup>7</sup> list
+[Page1-343+ 58]
+<div n="lb"/>replaces {%nikharvaka%} by {%nikharva, badva%} by {%padma,%} and ends
+<div n="lb"/>with {%akṣitir vyomāntaḥ.%} The Śāṅkhāyana Śrauta Sūtra<sup>8</sup> con-
+<div n="lb"/>tinues the series after {%nyarbuda%} with {%nikharvāda, samudra,%}
+<div n="lb"/>{%salila, antya, ananta%} (= 10 billions).
+<div n="P"/>But beyond {%ayuta%}<sup>9</sup> none of these numbers has any vitality.
+<div n="lb"/>{%Badva,%} indeed, occurs in the Aitareya Brāhmaṇa,<sup>10</sup> but it
+<div n="lb"/>cannot there have any precise numerical sense;<sup>11</sup> and later on
+<div n="lb"/>the names of these high numerals are very much confused.
+<div n="P"/>An arithmetical progression of some interest is found in the
+<div n="lb"/>Pañcaviṃśa Brāhmaṇa,<sup>12</sup> where occurs a list of sacrificial gifts
+<div n="lb"/>in which each successive figure doubles the amount of the
+<div n="lb"/>preceding one. It begins with {%dvādaśa-mānaṃ hiraṇyam,%} ‘gold
+<div n="lb"/>to the value of 12’ (the unit being uncertain, but probably the
+<div n="lb"/>{@Kṛṣṇala@}),<sup>13</sup> followed by ‘to the value of 24, 48, 96, 192, 384,
+<div n="lb"/>768, 1,536, 3072,’ then {%dve aṣṭāviṃśati-śata-māne,%} which must
+<div n="lb"/>mean 2×128×24 (the last unit being not a single {%māna,%} but
+<div n="lb"/>a number of 24 {%mānas%}) = 6,144, then 12,288, 24,576, 49,152,
+<div n="lb"/>98,304, 196,608, 393, 216. With these large numbers may be
+<div n="lb"/>compared the minute theoretical subdivision of time found
+<div n="lb"/>in the Śatapatha Brāhmaṇa,<sup>14</sup> where a day is divided into
+<div n="lb"/>15 {%muhūrtas%} — 1 {%muhūrta%} = 15 {%kṣipras,%} 1 {%kṣipra%} = 15 {%etarhis,%}
+<div n="lb"/>1 {%etarhi%} = 15 {%idānis,%} 1 {%idāni%} = 15 {%prāṇas.%} The Śāṅkhāyana Śrauta
+<div n="lb"/>Sūtra<sup>15</sup> has a decimal division of the day into 15 {%muhūrtas%} — 
+<div n="lb"/>1 {%muhūrta%} = 10 {%nimeṣas,%} 1 {%nimeṣa%} = 10 {%dhvaṃsis.%}
+<div n="P"/>Few fractions are mentioned in Vedic literature. {%Ardha,%}
+<div n="lb"/>{%pāda, śapha,%} and {%kalā%} denote (1/2), (1/4), (1/8), (1/16) respectively, but only
+[Page1-344+ 61]
+<div n="lb"/>the first two are common. {%Tṛtīya%} denotes the third part.<sup>16</sup>
+<div n="lb"/>In the Rigveda<sup>17</sup> Indra and Viṣṇu are said to have divided
+<div n="lb"/>1,000 by 3, though how they did so is uncertain. {%Tri-pād%}
+<div n="lb"/>denotes ‘three-fourths.’<sup>18</sup>
+<div n="P"/>There is no clear evidence that the Indians of the Vedic
+<div n="lb"/>period had any knowledge of numerical figures, though it is
+<div n="lb"/>perfectly possible.<sup>19</sup>
+<F>1) Thibaut, {%Astronomie, Astrologie und%}
+<div n="lb"/>{%Mathematik,%} 70.</F>
+<F>2) xvii. 2 {%et seq. Cf.%} xxii. 34; Śata-
+<div n="lb"/>patha Brāhmaṇa, ix. 1, 2, 16.</F>
+<F>3) xxxix. 6. In xvii. 10 the number
+<div n="lb"/>{%badva%} disappears, and the list corre-
+<div n="lb"/>sponds with that of the Vājasaneyi
+<div n="lb"/>Saṃhitā, except for the fact that {%niyuta%}
+<div n="lb"/>and {%prayuta%} change places.</F>
+<F>4) iv. 4, 11, 4; vii. 2, 20, 1.</F>
+<F>5) ii. 8, 14.</F>
+<F>6) xvii. 14, 2.</F>
+<F>7) i. 10, 28, 29. {%Cf.%} Aitareya Āraṇyaka,
+<div n="lb"/>v. 3, 2; Hopkins, {%Transactions of the%}
+<div n="lb"/>{%Connecticut Academy of Arts and Sciences,%}
+<div n="lb"/>15, 30, n. 2; Keith, {%Aitareya Āraṇyaka%}
+<div n="lb"/>293, 294.</F>
+<F>8) xv. 11, 7.</F>
+<F>9) {%Cf.%} Rv. iii. 6, 15; viii. 1, 5; 2, 41,
+<div n="lb"/>21, 18; 34, 15; 46, 22; Av. viii. 2, 21;
+<div n="lb"/>8, 7; x. 8, 24; Pañcaviṃśa Brāhmaṇa,
+<div n="lb"/>xix. 13, 6; xxi. 18, 3, etc. Zimmer,
+<div n="lb"/>{%Altindisches Leben,%} 348, considers that
+<div n="lb"/>it has not any definite sense in the
+<div n="lb"/>Rigveda; this cannot be either proved
+<div n="lb"/>or disproved. The Rv. has the phrase
+<div n="lb"/>{%śatā sahasrāṇi%} several times (iv. 32,
+<div n="lb"/>18; viii. 32, 18, etc.) = 100,000; and
+<div n="lb"/>{%ayuta%} may easily have been already
+<div n="lb"/>specialized, though it may also have
+<div n="lb"/>retained a vague sense.</F>
+<F>10) vii. 21. 23.</F>
+<F>11) Weber, {%Indische Streifen,%} 1, 96.</F>
+<F>12) xviii. 3. {%Cf.%} Lāṭyāyana Śrauta
+<div n="lb"/>Sūtra, viii. 10, 1 {%et seq.;%} Kātyāyana
+<div n="lb"/>Śrauta Sūtra, xxii. 9, 1-6.</F>
+<F>13) {%Cf.%} Kātyāyana Śrauta Sūtra, xxii. 9,
+<div n="lb"/>1; Weber, {%op. cit.,%} 102, 103.</F>
+<F>14) xii. 3, 2, 1 {%et seq. Cf.%} also Taittirīya
+<div n="lb"/>Brāhmaṇa, iii. 10, 1, 1, where a series
+<div n="lb"/>of names of the divisions of the {%muhūrta%}
+<div n="lb"/>is given, apparently as alternatives, not
+<div n="lb"/>as successive stages ({%idānīm, tadānīm,%}
+<div n="lb"/>{%etarhi, kṣipram, ajiram, āśuḥ (? āśu), nime-%}
+<div n="lb"/>{%ṣaḥ, phaṇaḥ, dravan, atidravan, tvaran,%}
+<div n="lb"/>{%tvaramāṇaḥ, āśuḥ, āśīyān, javaḥ%}). See
+<div n="lb"/>Weber, {%op. cit.,%} 92-94.</F>
+<F>15) xiv. 75 {%et seq. Cf.%} Śāṅkhāyana
+<div n="lb"/>Araṇyaka, vii. 20.</F>
+<F>16) Taittirīya Saṃhitā, ii. 5, 1, 4;
+<div n="lb"/>v. 2, 6, 2; Taittirīya Brāhmaṇa, i. 1,
+<div n="lb"/>6, 1; 7, 1, 2; Śatapatha Brāhmaṇa,
+<div n="lb"/>iii. 8, 4, 4, etc.</F>
+<F>17) vi. 69, 8 = Av. vii. 44, 1 = Tait-
+<div n="lb"/>tirīya Saṃhitā, iii. 2, 11, 2; Aitareya
+<div n="lb"/>Brāhmaṇa, vi. 15; Śatapatha Brāh-
+<div n="lb"/>maṇa, iii. 3, 1, 13.</F>
+<F>18) Rv. x. 90, 4.</F>
+<F>19) If {%aṣṭa-karṇī%} means in Rv. x. 62, 7,
+<div n="lb"/>having the figure 8 marked on the
+<div n="lb"/>ears' of cattle, then the mention of
+<div n="lb"/>numerical signs would be certain. {%Cf.%}
+<div n="lb"/>Zimmer, {%Altindisches Leben,%} 234, 235,
+<div n="lb"/>348. But this is doubtful. See Mac-
+<div n="lb"/>donell, {%Vedic Grammar,%} p. 309, n. 10.
+<div n="P"/>{%Cf.%} Macdonell, {%Vedic Grammar,%} p. 308;
+<div n="lb"/>Weber, {%Indische Streifen,%} 1, 90-103;
+<div n="lb"/>Schrader, {%Prehistoric Antiquities,%} 349;
+<div n="lb"/>Kaegi, {%Rigveda,%} n. 65; Hopkins, {%Journal%}
+<div n="lb"/>{%of the American Oriental Society,%} 16, 275
+<div n="lb"/>{%et seq.%}</F>
+<LEND>
