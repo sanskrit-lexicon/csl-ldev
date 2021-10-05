@@ -1,0 +1,25 @@
+<L>110355<pc>560,1<k1>निवृत्<k2>नि-वृत्<h>a<e>1
+<s>नि-√ वृत्</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-वर्तते</s> (<ab>ind.p.</ab> <s>-वृत्य</s>, <ls>AV.</ls>; infin. <s>-वर्तितुम्</s>, <ls>MBh.</ls>; rarely <ab>P.</ab> <ab>e.g.</ab> <ab>Pot.</ab> <s>-वर्तेत्</s>, <ls>MBh.</ls>; <ls>Hariv.</ls>; <ab>impf.</ab> or subj. <s>-वर्तत्</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>-वावृतुर्</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>-वर्तिष्यति</s>, <ls>MBh.</ls>; <s>-वर्त्स्यन्</s>, <ls>Bhaṭṭ.</ls>; <ab>aor.</ab> <s>-अवृतत्</s>, <ls>ib.</ls>), 
+<div n="to"/>to turn back, stop (trans. and intrans.), <ls>RV.</ls> &c.;
+<div n="to"/>to return from (<ab>abl.</ab>) to (<ab>acc.</ab> with or without <s>प्रति</s>, or <ab>dat.</ab>);
+<div n="to"/>to return into life, revive, be born again, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to turn away, retreat, flee, escape, abstain or desist from, get rid of (<ab>abl.</ab>), <ls>ib.</ls>;
+<div n="to"/>to fall back, rebound, <ls>R.</ls>;
+<div n="to"/>to leave off (<s>सामि</s>, in the midst or when anything is half finished, <ls>ŚBr.</ls>), cease, end, disappear, vanish, <ls>TS.</ls>; <ls>ŚBr.</ls>; <ls>Up.</ls> &c.;
+<div n="to"/>to be withheld from, not belong to (<ab>abl.</ab>);
+<div n="to"/>to be omitted, not to occur, <ls>Lāṭy.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls>;
+<div n="to"/>to be ineffective or useless, <ls>MBh.</ls>; <ls>Kathās.</ls>;
+<div n="to"/>to be wanting, not to exist (<s>यतो वाचो निवर्तन्ते</s>, for which there are no words), <ls>TUp.</ls>;
+<div n="to"/>to pass over to (<ab>loc.</ab>), <ls>MBh.</ls>;
+<div n="to"/>to be turned upon (<ab>loc.</ab> or <s>तत्र</s>), <ls>ib.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-वर्तयति</s>, <s>°ते</s> (<ab>Ā.</ab> <ab>Pot.</ab> <s>-वर्तयीत</s>, <ls>ĀśvŚr.</ls>; <ab>Pass.</ab> <s>-वर्त्यते</s>, <ls>Ragh.</ls>), 
+<div n="to"/>to turn downwards, let sink (the head), <ls>TBr.</ls>;
+<div n="to"/>to turn back <ab>i.e.</ab> shorten (the hair), <ls>Br.</ls>;
+<div n="to"/>to lead or bring back, reconduct, return, <ls>AV.</ls> &c. &c.;
+<div n="to"/>to turn away, avert or keep back from (<ab>abl.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to give up, abandon, suppress, withhold, refuse, deny;
+<div n="to"/>to annul, remove, destroy, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>Pur.</ls>;
+<div n="to"/>to bring to an end <ab>i.e.</ab> perform, accomplish (a sacrifice &c.), <ls>R.</ls>; <ls>BhP.</ls>;
+<div n="to"/>to procure, bestow, <ls>Hariv.</ls>; <ls>MārkP.</ls>;
+<div n="to"/>to desist from (<ab>abl.</ab>), <ls>MBh.</ls>; <ls>R.</ls><info verb="pre" cp="PĀ" parse="ni+vft"/>
+<LEND>

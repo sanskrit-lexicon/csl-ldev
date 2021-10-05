@@ -1,0 +1,32 @@
+<L>151348<pc>759,2<k1>भुज्<k2>भुज्<h>3<e>1
+<hom>3.</hom> <s>भुज्</s> ¦ <ab>cl.</ab> 7. <ab>P.</ab><ab>Ā.</ab> (<ls>Dhātup. xxix, 17</ls>) <s>भुन/क्ति</s>, <s>भुङ्क्ते/</s> 
+(rarely <ab>cl.</ab> 6. <ab>P.</ab> <ab>Ā.</ab> <s>भुञ्जति</s>, <s>°ते</s>, <ls>Up.</ls>; <ls>MBh.</ls>;
+3. <ab>pl.</ab> <ab>Ā.</ab> <s>भुञ्जते/</s>, <ls>RV.</ls>;
+<ab>Pot.</ab> <ab>P.</ab> <s>भुञ्जीयात्</s>, <ls>Gobh.</ls>;
+<ab>pf.</ab> <ab>Ā.</ab> <s>बुभुजे/</s>, <s>°ज्म/हे</s>, <s>°ज्रिरे/</s>, <ls>RV.;
+3</ls> <ab>pl.</ab> <ab>P.</ab> <s>°जुः</s>, <ls>MBh.</ls>;
+<ab>aor.</ab> <s>अभौक्षीत्</s>, <s>अभ्न्क्त</s> <ab>Gr.</ab>;
+<s>भो/जम्</s>, <s>भो/जते</s>, <s>भुजेम</s>, <ls>RV.</ls>;
+<s>भुक्षिषीय</s>, <ls>Br.</ls>;
+<ab>fut.</ab> <s>भोक्ष्यति</s>, <s>°ते</s>, <ls>MBh.</ls> &c.;
+<s>भोक्ता</s>, <ls>R.</ls>;
+<ab>inf.</ab> <s>भो/जसे</s>, <s>भु/जम्</s>, <s>भुजे</s>, <ls>RV.</ls> : <s>भोक्तुम्</s>, <ls>MBh.</ls> &c.;
+<ab>ind.p.</ab> <s>भुक्त्वा</s> or <s>भुङ्क्त्वा</s>, <ls>ib.</ls>), 
+<div n="to"/>to enjoy, use, possess, (<ab>esp.</ab>) enjoy a meal, eat, eat and drink, consume (mostly <ab>Ā.</ab>; in <ab>Ved.</ab> generally with <ab>instr.</ab>, later with <ab>acc.</ab>), <ls>RV.</ls> &c. &c. <pb n="759,3"/>;
+<div n="to"/>to enjoy (carnally), <ls>Gṛhyās.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls>;
+<div n="to"/>to make use of, utilize, exploit, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/> (with <s>पृथिवीम्</s>, <s>महीम्</s> &c.) to take possession of, rule, govern, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to suffer, experience, undergo, be requited or rewarded for (<ab>acc.</ab>) or at the hands of (<ab>gen.</ab>), <ls>RV.</ls> &c. &c.;
+<div n="to"/> (<ab>P.</ab>) to be of use or service to (<ab>acc.</ab>), <ls>RV.</ls>; <ls>TS.</ls>; <ls>Br.</ls>; <ls>Up.</ls>;
+<div n="to"/>to pass, live through, last (a time), <ls>Rājat.</ls>; <ls>BhP.</ls>;
+<div n="to"/> (in <ab>astron.</ab>) to pass through, fulfil, <ls>Sūryas.</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>भुज्यते</s> (<ab>aor.</ab> <s>अभोजि</s>), to be enjoyed or eaten or possessed or made use of <ls>Br.</ls>; <ls>MBh.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>भोजयति</s> (<s>ते°</s>, <ab>mc.</ab>; <ab>cf.</ab> <ls>Pāṇ. 1-3, 87</ls>; once <s>भुञ्जापयति</s>, <ls>Pañcat. ii, 49</ls> <ab>v.l.</ab>; <ab>aor.</ab> <s>अबूभुजत्</s>, <s>°जत</s> <ab>Gr.</ab>), 
+<div n="to"/>to cause to enjoy or eat, feed with (two <ab>acc.</ab> or <ab>acc.</ab> of <ab>pers.</ab> and <ab>instr.</ab> of thing; <ab>cf.</ab> <ls>Pāṇ. 1-4, 52</ls>), <ls>AV.</ls> &c.;
+<div n="vp"/> &c.;
+<div n="to"/>to use as food, <ls>Car.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>बुभुक्षति</s> (once), <s>°ते</s>, to wish to eat, be hungry, <ls>MBh.</ls>; <ls>BhP.</ls>;
+<div n="to"/>to wish to enjoy or partake of <ls>Naiṣ.</ls> (<ab>cf.</ab> <s>बुभुक्षा</s>, <s>°क्षित</s>, <s>°क्षु</s>) :
+<div n="vp"/><ab>Intens.</ab> <s>बोभुज्यते</s>, to be eaten frequently, <ls>VarBṛS.</ls>;
+<div n="to"/> <s>बोभोक्ति</s> and <s>बोभुजीति</s>, to eat or enjoy frequently <ab>Gr.</ab> <info westergaard="Buja,29.17,07.0022"/><info whitneyroots="Buj2,112"/><info verb="genuineroot" cp="7P,7Ā,6P,6Ā"/>
+<LEND>

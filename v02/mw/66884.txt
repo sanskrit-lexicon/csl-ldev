@@ -1,0 +1,14 @@
+<L>66884<pc>363,3<k1>गो<k2>गो/<e>1
+<s>गो/</s> ¦ <s>गौ/स्</s> (<ab>acc.</ab> <s>गा/म्</s> <ab>instr.</ab> <s>ग/वा</s> <ab>dat.</ab> <s>ग/वे</s>, <ab>gen.</ab> <ab>abl.</ab> <s>गो/स्</s> <ab>loc.</ab> <s>ग/वि</s>;
+<ab>du.</ab> <s>गा/वा</s> [Ved.], <s>गा/वौ</s>;
+<ab>pl.</ab> <ab>nom.</ab> <s>गा/वस्</s> <ab>acc.</ab> <s>गा/स्</s> [rarely <s>गा/वस्</s>, <ls>TBr. iii</ls>;
+<ls>TUp.</ls>;
+<ls>MBh. iv, 1506</ls>;
+<ls>R. ii</ls>] <ab>instr.</ab> <s>गो/भिस्</s> <ab>dat.</ab> <ab>abl.</ab> <s>गो/भ्यस्</s>, <ab>gen.</ab> <s>ग/वाम्</s> [once at the end of a <s1 slp1="pAda">Pāda</s1>, <ls>RV. iv, 1, 19</ls>] and [in, <ls>RV.</ls> at the end of <s1 slp1="pAda">Pāda</s1>s only <ab>cf.</ab> <ls>Pāṇ. 7-1, 57</ls>] <s>गो/नाम्</s> <ab>loc.</ab> <s>गो/षु</s>) <lex>m.</lex> an ox <lex type="hw">f.</lex> a cow, (<ab>pl.</ab>) cattle, kine, herd of cattle, <ls>RV.</ls> &c. (in <ab>comp.</ab> before vowels [<ab>cf.</ab> <ls>Pāṇ. 6-1, 122 ff.</ls>] <s>गव्</s>, <s>गव</s>, <ab>qq.vv.</ab>;
+<ab>cf.</ab> also <s>गवाम्</s>, <s>गवि</s>, <s>गां</s> <ab>ss.vv.</ab>;
+<s>गवां व्रत</s> <ab>N.</ab> of a <s1 slp1="sAman">Sāman</s1>;
+<s>गवां तीर्थ</s> See <s>गो त्°</s>;
+<s>गो/षु-√ गम्</s>, to set out for a battle [to conquer cows] <ls>RV. ii, 25, 4;
+v, 45, 9;
+viii, 71, 5</ls>)<info lex="m:f"/>
+<LEND>

@@ -1,0 +1,21 @@
+<L>18389<pc>105,3<k1>अवस्था<k2>अव-स्था<h>a<e>1
+<s>अव-√ स्था</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-तिष्ठति</s> (<ab>impf.</ab> <s>-अतिष्ठत्</s>; <ab>aor.</ab> <ab>Subj.</ab> <s>-स्थात्</s>; <ab>perf.</ab> <ab>Ā.</ab> 3. <ab>sg.</ab> <s>-तस्थे</s>; <ab>perf.</ab> <ab>p.</ab> <ab>P.</ab> <s>-तस्थिव/स्</s>) 
+<div n="to"/>to go down into (<ab>acc.</ab>), reach down to (<ab>acc.</ab>), <ls>RV.</ls>; <ls>ŚBr.</ls>;
+<div n="to"/> (<ab>aor.</ab> <ab>Subj.</ab> 2. <ab>pl.</ab> <s>-स्थात</s>), to go away from (<ab>abl.</ab>), <ls>RV. v, 53, 8</ls>;
+<div n="to"/> (<ab>aor.</ab> <ab>Subj.</ab> 1. <ab>sg.</ab> <s>-स्थाम्</s>) to be separated from or deprived of (<ab>abl.</ab>), <ls>RV. ii, 27, 17</ls> : <ab>Ā.</ab> (<ls>Pāṇ. 1-3, 22</ls>; rarely <ab>P.</ab> <ab>e.g.</ab> <ls>Bhag. xiv, 23</ls>; <ls>BhP.</ls> &c.) 
+<div n="to"/>to take one's stand, remain standing, <ls>ĀśvGṛ.</ls> &c.;
+<div n="to"/>to stay, abide, stop at any place (<ab>loc.</ab>), <ls>MBh.</ls> &c.;
+<div n="to"/>to abide in a state or condition (<ab>instr.</ab>), <ls>MBh. i, 5080</ls>; <ls>BhP.</ls> &c.;
+<div n="to"/> (with <ab>ind.p.</ab>) to remain or continue (doing anything), <ls>MBh. i, 5770; iii, 187 (<ab>ed.</ab> <ab>Bomb.</ab>)</ls>, &c.;
+<div n="to"/>to be found, exist, be present, <ls>MBh.</ls>; <ls>Yājñ. i, 272,</ls> &c.;
+<div n="to"/> (<ab>perf.</ab> 1. <ab>sg.</ab> <s>-तस्थे</s>) to fall to, fall into the possession of (<ab>dat.</ab>), <ls>RV. x, 48, 5</ls>;
+<div n="to"/>to enter, be absorbed in (<ab>loc.</ab>), <ls>Mn. vi, 81</ls> <pb n="106,1"/>;
+<div n="to"/>to penetrate (as sound or as fame), <ls>MBh. xiii, 1 845</ls> :
+<div n="to"/><ab>Pass.</ab> <s>-स्थीयते</s>, to be settled or fixed or chosen, <ls>Śak.</ls> :
+<div n="to"/><ab>Caus.</ab> (generally <ab>ind.p.</ab> <s>-स्थाप्य</s>) to cause to stand or stop (as a carriage or an army &c.), let behind, <ls>MBh.</ls> &c.;
+<div n="to"/>to place upon (<ab>loc.</ab>), fix, set, array, <ls>ĀśvGṛ.</ls> &c.;
+<div n="to"/>to cause to enter or be absorbed in (<ab>loc.</ab>), <ls>MBh. iii, 12502</ls>;
+<div n="to"/>to render solid or firm, <ls>R. v, 35, 36</ls>;
+<div n="to"/>to establish (by arguments) <ab>Comm.</ab> on <ls>Nyāyad.</ls> :
+<div n="to"/><ab>Pass.</ab> <ab>Caus.</ab> <s>-स्थाप्यते</s>, to be kept firm [‘to be separated’ <ls>BR.</ls>] <ls>BhP.</ls><info verb="pre" cp="PĀ" parse="ava+sTA"/>
+<LEND>

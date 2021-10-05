@@ -1,0 +1,7 @@
+<L>110221<pc>559,1<k1>निवस्<k2>नि-वस्<h>a<e>1
+<hom>a.</hom> <s>नि-</s>√ <hom>4.</hom> <s>वस्</s> ¦ <ab>Ā.</ab> <s>-वस्ते</s>, to put on over another garment, <ls>KātyŚr.</ls>;
+<div n="to"/>to gird round (as a sword), <ls>MBh.</ls>; <ls>R.</ls> (<ab>ind.p.</ab> <s>-वस्य</s>);
+<div n="to"/>to clothe or dress one's self (<ab>aor.</ab> <s>-अवसिष्ट</s> <ab>Impv.</ab> <s>-वद्ध्वम्</s>), <ls>Bhaṭṭ.</ls>;
+<div n="to"/>to change one's clothes, <ls>MW.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-वासयति</s>, to put on (a garment), dress, clothe, <ls>MBh.</ls>; <ls>R.</ls><info verb="pre" cp="Ā" parse="ni+vas"/>
+<LEND>

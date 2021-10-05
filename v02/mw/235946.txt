@@ -1,0 +1,8 @@
+<L>235946<pc>1171,3<k1>सम्पत्<k2>सम्-पत्<h>a<e>1
+<s>सम्-√ पत्</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-पतति</s>, to fly or rush together (in a friendly or hostile manner), encounter, meet any one (<ab>acc.</ab>), meet with (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to fly along, fly to, hasten towards, arrive at, reach (<ab>acc.</ab> or <ab>loc.</ab>), <ls>AitBr.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to fly or fall down, alight on (<ab>loc.</ab>), <ls>MBh.</ls>;
+<div n="to"/>to go or roam about, <ls>R.</ls>; <ls>VarBṛS.</ls>;
+<div n="to"/>to come to pass, take place, happen, occur, <ls>MBh.</ls>; <ls>Hariv.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-पातयति</s>, to cause to fly or fall, throw or hurl down, <ls>R.</ls>; <ls>BhP.</ls><info verb="pre" cp="P" parse="sam+pat"/>
+<LEND>

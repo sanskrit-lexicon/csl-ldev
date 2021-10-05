@@ -1,0 +1,5 @@
+<L>136988<pc>692,1<k1>प्रविद्<k2>प्र-विद्<h>a<e>1
+<hom>a.</hom> <s>प्र-</s>√ <hom>1.</hom> <s>विद्</s> ¦ <ab>P.</ab> <s>-वेत्ति</s>, to know, understand, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-वेदयति</s>, <s>°ते</s>, to make known, communicate, relate, <ls>TUp.</ls>; <ls>MBh.</ls>;
+<div n="to"/> (<ab>P.</ab>) to know or understand right, <ls>MuṇḍUp.</ls><info verb="pre" cp="P" parse="pra+vid"/>
+<LEND>

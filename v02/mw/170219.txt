@@ -1,0 +1,15 @@
+<L>170219<pc>844,3<k1>यदि<k2>य/दि<e>2
+<s>य/दि</s> ¦ <lex>ind.</lex> (in <s1 slp1="veda">Veda</s1> also <s>य/दी</s>, sometimes <s>यदि चित्</s>, <s>यदि ह वै</s>, <s>य/दी/<srs/>त्</s>, <s>य/द्य् उ</s>, <s>यद्य् उ वै</s>) if, in case that, <ls>RV.</ls> &c. &c. In the earlier language <s>यदि</s> may be joined with <ab>Indic.</ab> <ab>Subj.</ab> or <s1 slp1="lew">Leṭ</s1> <ab>Pot.</ab>, or <ab>Fut.</ab>, the consequent clause of the conditional sentence being generally without any particle. In the later language <s>यदि</s> may be joined with <ab>Pres.</ab> (followed in <ab n="consequent">cons°</ab> <ab n="clause">cl°</ab> by another <ab>Pres.</ab> <ab>e.g.</ab> <s>यदि जीवति भद्राणि पश्यति</s>, ‘if he lives he beholds prosperity’, or by <ab>fut.</ab> or by <ab>Impv.</ab> or by <ab>Pot.</ab> or by no verb) <pb n="845,1"/>;
+or it may be joined with <ab>Pot.</ab> (<ab>e.g.</ab> <s>यदि राजा दण्डं न प्रणयेत्</s>, ‘if the king were not to inflict punishment’, followed by another <ab>Pot.</ab> or by <ab>Cond.</ab> or by <ab>Pres.</ab> or by <ab>Impv.</ab> or by <ab>fut.</ab> or by no verb);
+or it may be joined with <ab>fut.</ab> (<ab>e.g.</ab> <s>यदि न करिष्यन्ति तत्</s>, ‘if they will not do that’, followed by another <ab>fut.</ab> or by <ab>Pres.</ab> or by <ab>Impv.</ab> or by no verb);
+or it may be joined with <ab>Cond.</ab> (<ab>e.g.</ab> <s>यद्य् अनुज्ञाम् अदास्यत्</s>, ‘if he should give permission’, followed by another <ab>Cond.</ab> or by <ab>Pot.</ab> or by <ab>aor.</ab>);
+or it may be joined with <ab>aor.</ab> (<ab>e.g.</ab> <s>यदि प्रजा-पतिर् न वपुर् अर्स्राक्षीत्</s>, ‘if the Creator had not created the body’, followed by <ab>Cond.</ab> or by <ab>Pot.</ab> or by <ab>pf.</ab>);
+or it may be joined with <ab>Impv.</ab> or even with <ab>pf.</ab> (<ab>e.g.</ab> <s>यद्य् आह</s>, ‘if he had said’). There may be other constructions, and in the consequent clauses some one of the following may be used: <s>अथ</s>, <s>अत्र</s>, <s>तद्</s>, <s>तेन</s>, <s>ततस्</s>, <s>ततः परम्</s>, <s>तदा</s>, <s>तर्हि</s>, <s>तदानीम्</s>. Observe that <s>यदि</s> may sometimes = ‘as sure as’ (<ab>esp.</ab> in asseverations, followed by <ab>Impv.</ab> with or without <s>तथा</s> or <s>तेन</s> or followed by <ab>Pot.</ab> with <s>तद्</s>), <ls>MBh.</ls>;
+<ls>Kāv.</ls> &c.;
+or it may = ‘whether’ (followed by <ab>Pres.</ab> or <ab>Pot.</ab> or no verb <ab>e.g.</ab> <s>यदि-न वा</s>, ‘whether-or not’, and sometimes <s>किम्</s> is added), <ls>ib.</ls>;
+or it may = ‘that’ (after verbs of ‘not believing’ or ‘doubting’, with <ab>Pres.</ab> or <ab>Pot.</ab> <ab>e.g.</ab> <s>ना<srs/>शंसे यदि जीवन्ति</s>, ‘I do not expect that they are alive’ <ab>cf.</ab> <ls>Pāṇ. 3-3, 147</ls> <ab>Sch.</ab>);
+or if placed after <s>दुष्करं</s> or <s>कथं चिद्</s> it may = ‘hardly’, ‘scarcely’ <ls>MBh.</ls>;
+<ls>R.</ls>;
+or it may = ‘if perchance’, ‘perhaps’ (with <ab>Pot.</ab> with or without <s>इति</s>, or with <ab>fut.</ab> or <ab>pres.</ab>), <ls>MBh.</ls>;
+<ls>Kāv.</ls> &c. The following are other combinations: <s>यदि तावत्</s>, ‘how would it be if’ (with <ab>Pres.</ab> or <ab>Impv.</ab>)<info lex="ind"/>
+<LEND>

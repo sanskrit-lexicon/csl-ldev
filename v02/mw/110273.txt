@@ -1,0 +1,9 @@
+<L>110273<pc>559,2<k1>निविद्<k2>नि-विद्<h>a<e>1
+<hom>a.</hom> <s>नि-</s>√ <hom>1.</hom> <s>विद्</s> ¦ (<ab>aor.</ab> <s>-अवेदिषुर्</s>, <ls>BhP.</ls>; <ab>inf.</ab> <s>-वेदितुम्</s>, with <ab>v.l.</ab> <s>°दयितुम्</s>, <ls>Śāk.</ls>), 
+<div n="to"/>to tell, communicate, proclaim, report, relate:
+<div n="vp"/><ab>Caus.</ab> <s>-वेदयति</s>, <s>°ते</s> (<ab>pf.</ab> <s>-वेदयाम् आस</s> <ab>ind.p.</ab> <s>°दयित्वा</s>, or <s>°द्य</s>) <ab>id.</ab> (with <ab>dat.</ab> <ab>gen.</ab> or <ab>loc.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to offer, present, give, deliver, <ls>Br.</ls>; <ls>GṛS.</ls> &c.;
+<div n="to"/> (with <s>आत्मानम्</s>), to offer or present one's self (as a slave &c.), <ls>ŚBr.</ls>; <ls>Mn.</ls> &c.;
+<div n="to"/>to proclaim <ab>i.e.</ab> introduce one's self, <ls>R.</ls>; <ls>Śak.</ls>; <ls>Kathās.</ls>;
+<div n="to"/> (with <s>दोषम्</s>) to throw the blame upon (<ab>dat.</ab>), <ls>Pañc.</ls> (<ab>B.</ab>), <ls>iii, 163</ls>.<info verb="pre" cp="" parse="ni+vid"/>
+<LEND>

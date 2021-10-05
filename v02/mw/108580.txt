@@ -1,0 +1,25 @@
+<L>108580<pc>548,2<k1>निधा<k2>नि-धा<h>a<e>1
+<hom>a.</hom> <s>नि-</s>√ <hom>1.</hom> <s>धा</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-दधाति</s>, <s>-धत्ते</s>, to put or lay down, deposit, lay up, preserve (<ab>Ā.</ab> for one's self);
+<div n="to"/>to intrust, commit, present to (<ab>dat.</ab> or <ab>loc.</ab>);
+<div n="vp"/> put into, fix in (<ab>loc.</ab>, or <ab>loc.</ab> with <s>अन्त/र्</s>, or <s>अन्तर्</s> <ab>ifc.</ab>), <ls>RV.</ls> &c. &c.;
+<div n="vp"/> put or lay before a person (<ab>dat.</ab>), <ls>KenUp.</ls>;
+<div n="to"/> (with <s>भूमौ</s> [<ls>Hit.</ls>] or <s>अवटे</s> [<ls>R.</ls>]) to bury;
+<div n="to"/> (with <s>शिरसि</s>, rarely <s>°सा</s>) to esteem highly, <ls>R.</ls>; <ls>Kālid.</ls>; <ls>Pañc.</ls>;
+<div n="to"/> (with <s>दृशम्</s>) to fix the eyes upon (<ab>loc.</ab>), <ls>Kathās.</ls>;
+<div n="to"/> (with <s>मनस्</s>) to fix or direct the thoughts upon or towards <ab>i.e.</ab> resolve, determine to (<ab>dat.</ab>), <ls>Hariv.</ls>;
+<div n="to"/> (with <s>मनसि</s>, <s>°सा</s>, or <s>हृदये</s>) to keep in mind, bear in mind, remember, lay to heart, <ls>Kāv.</ls>; <ls>Pur.</ls>;
+<div n="to"/> (with <s>हृदयम्</s>) to give one's heart to (<ab>loc.</ab>);
+<div n="to"/> (with <s>आत्मानम्</s>) to intrust one's self to (<ab>loc.</ab>), <ls>Kathās.</ls>;
+<div n="to"/> (with <s>क्रियाम्</s>) to take pains with (<ab>loc.</ab>), <ls>Hit.</ls>;
+<div n="to"/> (with <s>कर्मणि</s>) to appoint a person to a work, <ls>Rājat.</ls>;
+<div n="to"/>to keep down, restrain, <ls>Kāv.</ls>; <ls>Pur.</ls>;
+<div n="to"/>to end, close, <ls>ŚBr.</ls> :
+<div n="to"/><ab>Pass.</ab> <s>-धीयते</s>, to be put or laid down &c.;
+<div n="to"/>to be contained or situated or absorbed in, to rest in (<ab>loc.</ab>), <ls>RV.</ls>; <ls>AV.</ls> &c. &c.:
+<div n="to"/><ab>Caus.</ab> <s>-धापयति</s>, to cause to be put or laid down &c., <ls>Vait.</ls>; <ls>R.</ls>; <ls>Hcat.</ls> <pb n="548,3"/>;
+<div n="to"/>to cause to be deposited or preserved, <ls>Mn. viii, 30</ls>;
+<div n="to"/>to lay up, preserve, <ls>Car.</ls>;
+<div n="to"/>to appoint, <ls>BhP.</ls> :
+<div n="to"/><ab>Desid.</ab> <s>-धित्सते</s>, to intend to put down &c., <ls>Naiṣ.</ls> :
+<div n="vp"/><ab>Intens.</ab> <s>नि/देध्यत्</s> (?), to settle down, <ls>VS.</ls>; <ls>MaitrS.</ls><info verb="pre" cp="PĀ" parse="ni+DA"/>
+<LEND>

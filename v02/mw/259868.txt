@@ -1,0 +1,11 @@
+<L>259868<pc>1285,1<k1>स्वृ<k2>स्वृ<e>1
+<s>स्वृ</s> ¦ (also written <s>स्वर्</s>) <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xxii, 34</ls>) <s>स्व/रति</s> (<ab>pf.</ab> <s>सस्वार</s>; 3. <ab>sg.</ab> <ab>Subj.</ab> [?] <s>सस्व/र्</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>अस्वार्</s>, <s>अस्वार्ष्टाम्</s>, <ls>ib.</ls>; <s>अस्वारीः</s>, <ls>JaimBr.</ls>; <s>अस्वारीत्</s> and <s>अस्वार्षीत्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>स्वरिता</s>, <s>स्वर्ता</s>, <s>स्वरिष्यति</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>स्वरितोस्</s>, <ls>JaimBr.</ls>; <s>स्वरितुम्</s>, <s>स्वर्तुम्</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>-स्वारम्</s>, <ls>ŚāṅkhŚr.</ls>), 
+<div n="to"/>to utter a sound, sound, resound, <ls>RV.</ls>; <ls>JaimBr.</ls>; <ls>ChUp.</ls>;
+<div n="to"/>to make (<ab>acc.</ab>) resound, <ls>RV.</ls>;
+<div n="to"/>to sing, praise, <ls>RV.</ls>;
+<div n="to"/>to shine, <ls>Kauś.</ls>; <ls>ChUp.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>स्वरयति</s> (<ab>aor.</ab> <s>असिस्रवत्</s>; <ab>Pass.</ab> <s>स्वर्यते</s>), 
+<div n="to"/>to pronounce or mark with the <s1 slp1="svarita">Svarita</s1> accent, <ls>Prāt.</ls>; <ls>Lāṭy.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>सिस्वरिषति</s>, <s>सुस्वूर्षति</s> <ab>Gr.</ab>:
+<div n="vp"/><ab>Intens.</ab> <s>सास्वर्यते</s>, <s>सास्वर्ति</s> <ls>ib.</ls> <info westergaard="svf,22.34,01.0654"/><info whitneyroots="svar,201"/><info verb="genuineroot" cp="1P"/>
+<LEND>

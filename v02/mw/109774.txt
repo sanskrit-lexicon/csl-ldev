@@ -1,0 +1,14 @@
+<L>109774<pc>556,2<k1>निर्मा<k2>निर्-मा<h>a<e>1
+<s>निर्-√ मा</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-मिमीते</s>, <ls>TS.</ls> : <ls>AV.</ls>; <ls>Br.</ls>;
+<div n="vp"/> <s>-माति</s>, <ls>Kāv.</ls>; <ls>Pur.</ls> (<ab>pf.</ab> <s>-ममे</s>, <ls>Mn.</ls>; <ls>MBh.</ls>; <ab>ind.p.</ab> <s>-माय</s>, <ls>Prab.</ls>; <ab>inf.</ab> <s>-मातुम्</s>, <ls>Rājat.</ls>);
+<div n="to"/>to mete out, measure, <ls>AV.</ls>;
+<div n="to"/>to build, make out of (<ab>abl.</ab>), form, fabricate, produce, create, <ls>TS.</ls>; <ls>Br.</ls>; <ls>Mn.</ls> &c.;
+<div n="to"/> (with <s>चित्रम्</s>) to paint, <ls>Śak.</ls>; <ls>Daś.</ls>;
+<div n="to"/> (with <s>कोशम्</s>) to compose or write, <ls>Cat.</ls>;
+<div n="to"/> (with <s>गिरम्</s>) to utter, <ls>Kull.</ls>;
+<div n="to"/> (with <s>नीतिम्</s>) to show, betray, <ls>MBh.</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>-मीयते</s> (<ab>pf.</ab> <s>-ममे</s>, <ls>Rājat. v, 425</ls>; <ab>aor.</ab> <s>-अमायि</s>, <ls>Cat.</ls>), 
+<div n="to"/>to be measured out &c.:
+<div n="vp"/><ab>Caus.</ab> <s>-मापयति</s>, to cause to be made or built, <ls>Rājat.</ls>; <ls>Kathās.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>-मित्सति</s>, to wish to make or build, <ls>Naiṣ.</ls><info verb="pre" cp="Ā" parse="nir+mA"/>
+<LEND>

@@ -1,0 +1,6 @@
+<L>109947<pc>557,2<k1>निर्वस्<k2>निर्-वस्<e>1
+<s>निर्-</s>√ <hom>5.</hom> <s>वस्</s> ¦ <ab>P.</ab> <s>-वसति</s>, to dwell, finish dwelling (with <s>वासम्</s> &c.), <ls>MBh.</ls>;
+<div n="to"/>to dwell abroad, <ls>MW.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-वासयति</s>, to expel from (<ab>abl.</ab>), banish, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to dismiss, <ls>BhP.</ls><info verb="pre" cp="P" parse="nir+vas"/>
+<LEND>

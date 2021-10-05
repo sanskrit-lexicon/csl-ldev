@@ -1,0 +1,36 @@
+<L>195626<pc>963,2<k1>विद्<k2>विद्<h>1<e>1
+<hom>1.</hom> <s>विद्</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 56</ls>) <s>वेत्ति</s> 
+(<s>विद्महे</s>, <ls>Br.</ls>;
+<s>वेदति</s>, <s>°ते</s>, <ls>Up.</ls>; <ls>MBh.</ls>;
+<s>विद/ति</s>, <s>°ते</s>, <ls>AV.</ls> &c.;
+<s>विन्दति</s>, <s>°ते</s>, <ls>MBh.</ls> &c.;
+<ab>Impv.</ab> <s>विदां-करोतु</s>, <ls>Pañcat.</ls> [<ab>cf.</ab> <ls>Pāṇ. 3-1, 41</ls>];
+1. <ab>sg.</ab> <ab>impf.</ab> <s>अवेदम्</s>, 2. <ab>sg.</ab> <s>अवेत्</s> or <s>अवेस्</s> [<ls>Pāṇ. 8-2, 75</ls>] <ls>RV.</ls> &c. &c.;
+3. <ab>pl.</ab> <s>अविदुस्</s>, <ls>Br.</ls> [<ab>cf.</ab> <ls>Pāṇ. 3-4, 109</ls>];
+<s>अविदन्</s>, <ls>MBh.</ls> &c.;
+<ab>pf.</ab> <s>वे/द</s> [often substituted for <ab>pr.</ab> <s>वेत्ति</s> <ab>cf.</ab> <ls>Pāṇ. 3-4, 83</ls>], 3. <ab>pl.</ab> <s>विदु/स्</s> or <s>विद्रे</s>, <ls>RV.</ls>;
+<s>विवेद</s>, <ls>MBh.</ls> &c.;
+<s>विदांचका/र</s>, <ls>Br.</ls> &c. [<ab>cf.</ab> <ls>Pāṇ. 3-1, 38</ls>;
+<ab>accord.</ab> to <ls>Vop.</ls> also <s>विदाम्-बभूव</s>];
+<ab>aor.</ab> <s>अवेदीत्</s>, <ls>ib.</ls>;
+<s>विदाम्-अक्रन्</s>, <ls>TBr.</ls>;
+<ab>fut.</ab> <s>वेदिता/</s>, <ls>ŚBr.</ls>;
+<s>वेत्ता</s>, <ls>MBh.</ls> <ab>fut.</ab> <s>वेदिष्यति</s>, <s>°ते</s>, <ls>Br.</ls>; <ls>Up.</ls>;
+<s>वेत्स्यति</s>, <s>°ते</s>, <ls>MBh.</ls> &c.;
+<ab>inf.</ab> <s>वे/दितुम्</s>, <s>°तोस्</s>, <ls>Br.</ls>;
+<s>वेत्तुम्</s>, <ls>MBh.</ls> &c.;
+<ab>ind.p.</ab> <s>विदित्वा/</s>, <ls>Br.</ls> &c.), 
+<div n="to"/>to know, understand, perceive, learn, become or be acquainted with, be conscious of, have a correct notion of (with <ab>acc.</ab>, in older, language also with <ab>gen.</ab>; with <ab>inf.</ab> = to know how to), <ls>RV.</ls> &c. &c. (<s>विद्धि यथा</s>, ‘know that’; <s>विद्यात्</s>, ‘one should know’, ‘it should be understood’; <s>य एवम् वेद</s> [in, <ls>Br.</ls>], ‘who knows thus’, ‘who has this knowledge’);
+<div n="to"/>to know or regard or consider as, take for, declare to be, call (<ab>esp.</ab> in 3. <ab>pl.</ab> <s>विदुस्</s>, with two <ab>acc.</ab> or with <ab>acc.</ab> and <ab>nom.</ab> with <s>इति</s>, <ab>e.g.</ab> <s>तं स्थविरं विदुः</s>, ‘they consider or call him aged’; <s>राजर्षिर् इति मां विदुः</s>, ‘they consider me a <s1 slp1="rAjarzi">Rājarṣi</s1>’), <ls>Up.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to mind, notice, observe, remember (with <ab>gen.</ab> or <ab>acc.</ab>), <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>;
+<div n="to"/>to experience, feel (<ab>acc.</ab> or <ab>gen.</ab>), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to wish to know, inquire about (<ab>acc.</ab>), <ls>ŚBr.</ls>; <ls>MBh.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>वेद/यते</s> (rarely <s>°ति</s>; <ab>aor.</ab> <s>अवीविदत्</s>; <ab>Pass.</ab> <s>वेद्यते</s>), 
+<div n="to"/>to make known, announce, report, tell, <ls>ŚBr.</ls> &c. &c.;
+<div n="to"/>to teach, explain, <ls>ŚāṅkhŚr.</ls>; <ls>Nir.</ls>;
+<div n="to"/>to recognize or regard as, take for (two <ab>acc.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to feel, experience, <ls>ŚBr.</ls>; <ls>Mn.</ls> &c.:
+<div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> in <s>विवेदयिषु</s> <ab>q.v.</ab>:
+<div n="vp"/><ab>Desid.</ab> <s>विविदिषति</s> or <s>विवित्सति</s>, to wish to know or learn, inquire about (acc), <ls>ŚBr.</ls>; &c. :
+<div n="vp"/><ab>Intens.</ab> <s>वेविद्यते</s>, <s>वेवेत्ति</s> <ab>Gr.</ab> <info westergaard="vida,24.56,02.0069"/><info whitneyroots="vid1,159"/><info verb="genuineroot" cp="2P"/>
+<LEND>

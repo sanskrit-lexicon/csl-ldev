@@ -1,0 +1,35 @@
+<L>169114<pc>838,3<k1>यज्<k2>यज्<h>1<e>1
+<hom>1.</hom> <s>यज्</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxiii, 33</ls>) <s>य/जति</s>, <s>°ते</s> 
+(1. <ab>sg.</ab> <s>यजसे</s>, <ls>RV. viii, 25, 1</ls>;
+<ab>Ved.</ab> <ab>Impv.</ab> <s>य/क्षि</s> or <s>°ष्व</s>;
+<ab>pf.</ab> <s>इयाज</s>, <ls>MBh.</ls>;
+<s>ईजे/</s>, <ls>RV.</ls>;
+<s>येजे/</s> [?] <ls>AV.</ls> <ab>cf.</ab> <ls>Kāś.</ls> on <ls>Pāṇ. 6-4, 120</ls>;
+<ab>Ved.</ab> <ab>aor.</ab> <s>अयाक्षीत्</s> or <s>अयाट्</s>;
+<s>अयष्ट</s>;
+<ab>Subj.</ab> <s>यक्षत्</s>, <s>यक्षति</s>, <s>°ते</s>;
+3. <ab>sg.</ab> <s>अयक्षत</s>, <ls>ĀśvGṛ.</ls>;
+<ab>Prec.</ab> <s>इज्यात्</s>, <ls>Pāṇ. 3-4, 104</ls>;
+<s>यक्षीय</s>, <ls>MaitrS.</ls>;
+<ab>fut.</ab> <s>यष्टा</s>, <ls>Br.</ls>;
+<s>यक्ष्यति</s>, <s>°य/ते</s>, <ls>RV.</ls> &c. &c.;
+<ab>inf.</ab> <s>य/ष्टुम्</s>, <s>ईजितुम्</s>, <ls>MBh.</ls>;
+<ab>Ved.</ab> <s>°टवे</s>;
+<s>य/जध्यै</s> or <s>यज/ध्यै</s>;
+<ab>p.p.</ab> <s>इष्ट</s> <ab>ind.p.</ab> <s>इष्ट्वा/</s>, <ls>AV.</ls>;
+<s>इष्ट्वीनम्</s>, <ls>Pāṇ. 7-1, 48</ls>;
+<s>-इज्य</s> <ab>Gr.</ab>;
+<s>या/जम्</s>, <ls>AV.</ls>), 
+<div n="to"/>to worship, adore, honour (<ab>esp.</ab> with sacrifice or oblations);
+<div n="to"/>to consecrate, hallow, offer (with <ab>acc.</ab>, rarely <ab>dat.</ab> <ab>loc.</ab> or <s>प्रति</s>, of the deity or person to whom; <ab>dat.</ab> of the person for whom, or the thing for which; and <ab>instr.</ab> of the means by which the sacrifice is performed; in older language generally <ab>P.</ab> of <s1 slp1="agni">Agni</s1> or any other mediator, and <ab>Ā.</ab> of one who makes an offering on his own account <ab>cf.</ab> <s>य/ज-मान</s>; later properly <ab>P.</ab> when used with reference to the officiating priest, and <ab>Ā.</ab> when referring to the institutor of the sacrifice), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to offer <ab>i.e.</ab> to present, grant, yield, bestow, <ls>MBh.</ls>; <ls>BhP.</ls>;
+<div n="to"/> (<ab>Ā.</ab>) to sacrifice with a view to (<ab>acc.</ab>), <ls>RV.</ls>;
+<div n="to"/>to invite to sacrifice by the <s1 slp1="yAjyA">Yājyā</s1> verses, <ls>ŚBr.</ls>; <ls>ŚāṅkhŚr.</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>इज्यते</s> (<ab>p.</ab> <ab>Ved.</ab> <s>इज्यमान</s> or <s>यज्यमान</s>, <ls>Pat.</ls> on <ls>Pāṇ. 6-1, 108</ls> <pb n="839,1"/>; <ab>ep.</ab> also <ab>pr. p.</ab> <s>इज्यत्</s>), 
+<div n="to"/>to be sacrificed or worshipped, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
+<div n="vp"/><ab>Caus.</ab> <s>याज/यति</s> (<ab>ep.</ab> also <s>°ते</s>; <ab>aor.</ab> <s>अयीयजत्</s>), 
+<div n="to"/>to assist any one (<ab>acc.</ab>) as a priest at a sacrifice (<ab>instr.</ab>), <ls>TS.</ls>; <ls>Br.</ls>;
+<div n="to"/>to cause any one (<ab>acc.</ab>) to sacrifice anything (<ab>acc.</ab>) or by means of any one (<ab>instr.</ab>), <ls>MBh.</ls>; <ls>R.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>यि/यक्षति</s>, <s>°ते</s> (<ab>cf.</ab> <s>इ/यक्षति</s>), to desire to sacrifice or worship, <ls>MBh.</ls>; <ls>R.</ls> :
+<div n="vp"/><ab>Intens.</ab> <s>यायज्यते</s>, <s>यायजीति</s>, <s>यायष्टि</s>, <ls>Pāṇ. 7-4, 83</ls> <ab>Sch.</ab> <info westergaard="yaja,23.33,01.0724"/><info whitneyroots="yaj,129"/><info verb="genuineroot" cp="1P,1Ā"/>
+<LEND>

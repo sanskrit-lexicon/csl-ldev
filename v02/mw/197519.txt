@@ -1,0 +1,8 @@
+<L>197519<pc>973,1<k1>विपच्<k2>वि-पच्<e>1
+<s>वि-√ पच्</s> ¦ <ab>P.</ab> <s>-पचति</s>, to cook thoroughly, dissolve by cooking or boiling, <ls>KātyŚr.</ls>; <ls>Suśr.</ls> <pb n="973,2"/>;
+<div n="to"/> <ab>Pass.</ab> <s>-पच्यते</s>, to be cooked or baked or roasted, <ls>MBh.</ls>;
+<div n="to"/>to be digested, <ls>ib.</ls>;
+<div n="to"/>to be completely matured or ripened or developed, <ls>Ragh.</ls>; <ls>Suśr.</ls>;
+<div n="to"/>to bear fruit, develop consequences, <ls>VarBṛS.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-पाचयति</s>, to cook thoroughly, dissolve by cooking, melt, liquefy, <ls>Suśr.</ls><info verb="pre" cp="P" parse="vi+pac"/>
+<LEND>

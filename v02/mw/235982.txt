@@ -1,0 +1,24 @@
+<L>235982<pc>1171,3<k1>सम्पद्<k2>सम्-पद्<h>a<e>1
+<s>सम्-√ पद्</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-पद्यते</s> (in some forms also <ab>P.</ab>; <ab>ind.p.</ab> <s>-पादम्</s> <ab>q.v.</ab>), 
+<div n="to"/>to fall or happen well, turn out well, succeed, prosper, accrue to (<ab>dat.</ab> or <ab>gen.</ab>), <ls>AV.</ls> &c. &c.;
+<div n="to"/>to become full or complete (as a number), amount to, <ls>Br.</ls>; <ls>ChUp.</ls>; <ls>Hariv.</ls>;
+<div n="to"/>to fall together, meet or unite with, obtain, get into, partake of (<ab>instr.</ab> or <ab>acc.</ab>), <ls>Br.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to enter into, be absorbed in (<ab>acc.</ab> or <ab>loc.</ab>), <ls>ChUp.</ls>; <ls>BhP.</ls>;
+<div n="to"/>to be produced, be brought forth, be born, arise, <ls>MBh.</ls>; <ls>R.</ls>;
+<div n="to"/>to become, prove, turn into (<ab>nom.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to be conducive to, produce (<ab>dat.</ab>), <ls>Pañcat.</ls>, <ab>Vārtt.</ab> on <ls>Pāṇ. 2-3, 13</ls>;
+<div n="to"/> (with <ab>adv.</ab> in <s>सात्</s>) to become thoroughly, <ls>Pāṇ. 5-4, 53</ls>;
+<div n="to"/>to fall into a person's power, <ls>ib. 54</ls>;
+<div n="to"/> (with <ab>adv.</ab> in <s>त्र</s>) to fall to a person's share, <ls>ib. 55</ls>;
+<div n="to"/>to produce a <ab>partic.</ab> sound (as that expressed by an onomatopoetic word in <s>आ</s>), <ls>Vop. vii, 88</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>-पादयति</s> (rarely <s>°ते</s>), to cause to succeed, cause to arise, bring about, produce, effect, accomplish (with <s>शुश्रूषाम्</s> and <ab>gen.</ab>, ‘to obey’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to make full, complete, <ls>ŚBr.</ls>; <ls>BhP.</ls>;
+<div n="to"/>to transform, make or turn into (<ab>acc.</ab>), <ls>Kathās.</ls>;
+<div n="to"/>to provide or furnish with (<ab>instr.</ab>; with <s>क्रियया</s>, ‘to charge or entrust a person with a business’), <ls>ŚBr.</ls>; <ls>MBh.</ls> <pb n="1172,1"/> <ls>SaddhP.</ls>;
+<div n="to"/>to afford to, procure for (<ab>dat.</ab> or <ab>gen.</ab>), <ls>AitBr.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to attain, obtain, acquire, <ls>AV.</ls>; <ls>R.</ls> &c.;
+<div n="to"/>to ponder on, deliberate, <ls>MBh.</ls>;
+<div n="to"/>to consent, agree, <ls>Br.</ls>; <ls>ChUp.</ls> :
+<div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>-पिपादयिषति</s> (See <s>सम्-पिपादयिषा</s> &c., <ab>col.</ab> 2) :
+<div n="vp"/><ab>Intens.</ab> <s>-पनीपद्यते</s>, to fit well, <ls>Sarvad.</ls><info verb="pre" cp="PĀ" parse="sam+pad"/>
+<LEND>

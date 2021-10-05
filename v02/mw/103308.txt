@@ -1,0 +1,12 @@
+<L>103308<pc>526,1<k1>नद्<k2>नद्<e>1
+<s>नद्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. iii, 17</ls>) <s>न/दति</s> (<ab>ep.</ab> also <s>°ते</s>; <ab>pf.</ab> <s>ननाद</s>, <s>नेदुर्</s>, <s>नेदिरे</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>अना<shortlong/>दीत्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>नदिष्यति</s>, <s>°दिता</s>, <ls>ib.</ls>) 
+<div n="to"/>to sound, thunder, roar, cry, howl &c. (also with <s>नाद/म्</s>, <s>शब्दम्</s>, <s>स्वनम्</s> &c.), <ls>AV.</ls> &c. &c.:
+<div n="vp"/><ab>Pass.</ab> <s>नद्यते</s>, <ls>MBh.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>नद/यति</s>, <s>°ते</s>, to make resound or vibrate, <ls>RV.</ls>;
+<div n="to"/> <s>नादयति</s>, <s>°ते</s>, to make resonant, fill with noises or cries, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="vp"/> <ab>aor.</ab> <s>अनीनदत्</s> <ab>Gr.</ab>;
+<div n="vp"/> <ab>Pass.</ab> <s>नाद्यते</s>, <ls>MBh.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>निनदिषति</s> <ab>Gr.</ab>:
+<div n="vp"/><ab>Intens.</ab> 3. <ab>pl.</ab> <s>ना/नदति</s>, <ab>p.</ab> <s>ना/नदत्</s>, <ls>RV.</ls>;
+<div n="vp"/> 3. <ab>sg.</ab> <s>नानद्यते</s>, <ab>p.</ab> <s>°द्यमान</s>, <ls>Br.</ls>; <ls>MBh.</ls> to vibrate or sound violently, to roar, howl, cry, neigh &c.<info westergaard="Rada,3.17,01.0046"/><info whitneyroots="nad,87"/><info verb="genuineroot" cp="1P"/>
+<LEND>

@@ -1,0 +1,16 @@
+<L>209054<pc>1033,3<k1>व्यवस्था<k2>व्य्-अव-स्था<h>a<e>1
+<s>व्य्-अव-√ स्था</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-तिष्ठते</s>, to go apart, separate from (<ab>abl.</ab>), <ls>ŚāṅkhŚr.</ls>;
+<div n="to"/>to differ respectively, <ls>Śaṃk.</ls>;
+<div n="to"/>to halt, stop, stay, <ls>R.</ls>;
+<div n="to"/>to prepare or make ready for (<ab>dat.</ab>), <ls>ib.</ls>;
+<div n="to"/>to be settled, be (logically) true or tenable, <ls>MBh.</ls>; <ls>Sarvad.</ls>;
+<div n="to"/>to appear as (<ab>nom.</ab>), <ls>Nir.</ls>; <ls>Sāṃkhyak.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-स्थापयति</s>, to put down, place, <ls>VarBṛS.</ls>; <ls>Vās.</ls>;
+<div n="to"/>to fix on, direct towards (<ab>loc.</ab>), <ls>Kum.</ls>;
+<div n="to"/>to charge with, appoint to (<s>अर्थम्</s>), <ls>Hit.</ls>;
+<div n="to"/>to stop, hold up, prevent from falling, <ls>MBh.</ls>; <ls>Rājat.</ls>;
+<div n="to"/>to restore, re-establish, <ls>Kum.</ls>; <ls>Jātakam.</ls>;
+<div n="to"/>to settle, arrange, establish, determine, prove to be (logically) tenable, <ls>Daś.</ls>; <ls>Sarvad.</ls>;
+<div n="to"/>to give a name, <ls>Divyâv.</ls>;
+<div n="to"/>to perform, <ls>MW.</ls><info verb="pre" cp="Ā" parse="vi+ava+sTA"/>
+<LEND>

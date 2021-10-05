@@ -1,0 +1,6 @@
+<L>17704<pc>101,2<k1>अवबुध्<k2>अव-बुध्<e>1
+<s>अव-√ बुध्</s> ¦ <s>बुध्यते</s> (<ab>fut.</ab> 3. <ab>pl.</ab> <s>-भोत्स्यन्ते</s>, <ls>MBh. iii, 1363</ls>, rarely <ab>P.</ab> <ab>e.g.</ab> <s>-बुध्यति</s>, <ls>Hariv. 10385</ls>; 2. <ab>sg.</ab> <s>-बुध्यसि</s>, <ls>MBh. vi, 2921</ls>) 
+<div n="to"/>to become sensible or aware of, perceive, know <ab>Caus.</ab> (<ab>impf.</ab> <s>-बोधयत्</s>) to make one aware of, remind of <ls>MBh. i, 5811,</ls> &c.;
+<div n="to"/>to cause to know, inform, explain, <ls>Bālar.</ls> &c.:
+<div n="vp"/><ab>Pass.</ab> <s>-बुध्यते</s>, to be learnt by (<ab>instr.</ab>), <ls>BhP.</ls><info verb="pre" cp="P" parse="ava+buD"/>
+<LEND>

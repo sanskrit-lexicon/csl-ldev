@@ -1,0 +1,24 @@
+<L>101481<pc>517,3<k1>धू<k2>धू<h>1<e>1
+<hom>1.</hom> <s>धू</s> ¦ <ab>cl.</ab> 5. <ab>Ā.</ab> <ab>P.</ab> <s>धूनो/ति</s>, <s>°नुते/</s>, <ls>RV.</ls>; <ls>AV.</ls>;
+<div n="vp"/> <s>धुनोति</s>, <s>°नुते</s>, <ls>Br.</ls> &c. &c.;
+<div n="vp"/> <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxvii, 9</ls>) <s>धुवति</s>, <ls>AV.</ls>; <ls>Br.</ls> (<ab>cf.</ab> <s>नि-</s>; <ab>Pot.</ab> <s>धूवेत्</s>, <ls>Kāṭh.</ls>);
+<div n="vp"/> <ab>cl.</ab> 9. <ab>Ā.</ab> <ab>P.</ab> (<ls>xxxi, 17</ls>) <ab>Pot.</ab> <s>धुनीयात्</s>, <ls>Suśr.</ls>;
+<div n="vp"/> <ab>p.</ab> <ab>Ā.</ab> <s>धुनान</s>, <ls>BhP.</ls>;
+<div n="vp"/> <ab>cl.</ab> 1. <ab>P.</ab> (<ls>xxxiv, 29</ls>) <s>धवति</s>;
+<div n="vp"/> <ab>cl.</ab> 2. <ab>Ā.</ab>, 3. <ab>pl.</ab> <s>धुवते</s> (<s>धुन्व/ते</s>?), <ls>ŚBr.</ls>;
+<div n="vp"/> <ab>p.</ab> <s>धुवान/</s>, <ls>TS.</ls> (<ab>pf.</ab> <s>दुधाव</s>, <ls>MBh.</ls>, <s>°धुवे</s>, <ls>AV.</ls>; <s>दुधुवीत</s> and <s>दूधोत्</s>, <ls>RV.</ls> : <ab>aor.</ab> <s>अधूष्ट</s>, 3. <ab>pl.</ab> <s>°षत</s>, <ls>ib.</ls>; <s>अधोष्ट</s>, <s>अधविष्ट</s>; <s>अधौषीत्</s>, <s>अधावीत्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>धविष्यति</s>, <s>°ते</s>, <ls>Br.</ls> &c.; <s>धोष्यति</s>, <s>°ते</s>, <s>धोता</s> & <s>धविता</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>धूत्वा</s>, <ls>AitBr.</ls>, <s>-धू/य</s>, <ls>AV.</ls> &c.; <ab>inf.</ab> <s>धवितुम्</s> <ab>Gr.</ab>) 
+<div n="to"/>to shake, agitate, cause to tremble, <ls>RV.</ls> &c. &c.;
+<div n="to"/>to shake down from (<ab>e.g.</ab> fruits [<ab>acc.</ab>] from a tree [<ab>acc.</ab>]), <ls>RV. ix, 97, 53</ls>;
+<div n="to"/> (oftener <ab>Ā.</ab>) to shake off, remove, liberate one's self from (<ab>acc.</ab>), <ls>Br.</ls>; <ls>Up.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to fan, kindle (a fire), <ls>KātyŚr.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to treat roughly, hurt, injure, destroy, <ls>Kāv.</ls>; <ls>Pur.</ls>;
+<div n="to"/>to strive against, resist, <ls>Pañc. i, 42</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>धूय/ते</s>, <ls>AV.</ls> &c. (<ab>p.</ab> <s>धूयत्</s>, <ls>MBh.</ls>) :
+<div n="vp"/><ab>Caus.</ab> <s>धावयति</s> (<ls>Dhātup. xxxiv, 29</ls>) and <s>धूनयति</s> (See <s>धून</s>) :
+<div n="vp"/><ab>Desid.</ab> <s>दुधूषति</s>, <s>°ते</s> <ab>Gr.</ab>;
+<div n="vp"/> <ab>Intens.</ab> <s>दोधवीति</s>, <ls>RV.</ls>; <ls>MBh.</ls> (<ab>p.</ab> <s>दो<srs/>धुवत् द/विध्वत्</s>, <ls>RV.</ls>);
+<div n="vp"/> <s>दोधूयते</s>, <ab>p.</ab> <s>°यमान</s> and <s>°यत्</s>, <ls>MBh.</ls>;
+<div n="vp"/> so shake or move violently (trans. and intr.);
+<div n="to"/>to shake off or down;
+<div n="to"/>to fan or kindle. [<ab>cf.</ab> √ <s>धव्</s> and <s>धाव्</s>; <ab>Gk.</ab> <lang n="greek">θύω</lang>, <lang n="greek">θύνω</lang>, <lang n="greek">θυμός</lang>.]<info westergaard="DUY,27.9,05.0009;DUY,34.29,10.0227"/><info whitneyroots="DU,84"/><info verb="genuineroot" cp="5P,5Ā,6P,9P,9Ā,1P,2Ā"/>
+<LEND>

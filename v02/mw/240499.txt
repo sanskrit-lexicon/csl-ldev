@@ -1,0 +1,15 @@
+<L>240499<pc>1195,2<k1>सहस्र<k2>सह/स्र<h>b<e>1
+<s>सह/स्र</s> <hom>b</hom> ¦ <lex>n.</lex> (rarely) <lex type="hw">m.</lex> (perhaps <ab>fr.</ab> 7, <s>स + हस्र</s> = <ab>Gk.</ab> <lang n="greek">χίλιοι</lang> for <lang n="greek">χεσλοι</lang>;
+<ab>cf.</ab> <ab>Pers.</ab> <etym>hazār</etym>) a thousand (with the counted object in the same case <ab>sg.</ab> or <ab>pl.</ab> <ab>e.g.</ab> <s>सहस्रेण बाहुना</s>, ‘with a thousand arms’ <ls>Hariv.</ls>;
+<s>सहस्रं भिषजः</s>, ‘a thousand drugs’ <ls>RV.</ls>;
+or in the <ab>gen.</ab> <ab>e.g.</ab> <s>द्वे सहस्रे सुवर्णस्य</s>, ‘two <ab n="thousand">th°</ab> pieces of gold’ <ls>Rājat.</ls>;
+<s>चत्वारि सहस्राणि वर्षाणाम्</s>, ‘four <ab n="thousand">th°</ab> years’ <ls>Mn.</ls>;
+sometimes in <ab>comp.</ab>, either <ab>ibc.</ab> <ab>e.g.</ab> <s>युग-सहस्रम्</s>, ‘a <ab n="thousand">th°</ab> ages’ <ls>Mn.</ls>, or <ab>ifc.</ab> <ab>e.g.</ab> <s>सहस्रा<srs/>श्वेन</s>, ‘with a <ab n="thousand">th°</ab> horses’;
+<s>सहस्रम्</s> may also be used as an <lex type="phw">ind.</lex> <ab>e.g.</ab> <s>सहस्रम् ऋषिभिः</s>, ‘with a <ab n="thousand">th°</ab> <s1 slp1="fzi">Ṛṣi</s1>s’ <ls>RV.</ls>;
+with other numerals it is used thus, <s>एका<srs/>धिकं सहस्रम्</s>, or <s>एक-सहस्रम्</s>, ‘a <ab n="thousand">th°</ab> one’, 1001;
+<s>द्व्यधिकं स्°</s>, ‘a <ab n="thousand">th°</ab> two’, 1002;
+<s>एकादशा<srs/>धिकम् स्°सहस्रम्</s> or <s>एकादशं स्°</s> or <s>एकादश-स्°</s>, ‘a <ab n="thousand">th°</ab> eleven’ or ‘a <ab n="thousand">th°</ab> having eleven’, 1011;
+<s>विंशत्य्-अधिकं स्°</s> or <s>विमं स्°</s>, ‘a <ab n="thousand">th°</ab> twenty’, 1020;
+<s>द्वे सहस्रे</s> or <s>द्वि-सहच्रम्</s>, ‘two <ab n="thousand">th°</ab>’;
+<s>त्रीणि सहस्राणि</s> or <s>त्रि-सहस्रम्</s>, ‘three <ab n="thousand">th°</ab>’ &c.), <ls>RV.</ls> &c. &c.<info phwchild="240502.1"/><info lexcat="LEXID=card,STEM=sahasra"/>
+<LEND>

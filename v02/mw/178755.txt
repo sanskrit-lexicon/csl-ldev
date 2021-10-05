@@ -1,0 +1,47 @@
+<L>178755<pc>884,1<k1>रुध्<k2>रुध्<h>2<e>1
+<hom>2.</hom> <s>रुध्</s> ¦ <ab>cl.</ab> 7. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxix, 1</ls>) <s>रुण/द्धि</s>, <s>रुन्द्धे/</s> 
+(1. <ab>pl.</ab> <s>-रुध्मस्</s>, <ls>AV.</ls>;
+<s>रुन्धति</s>, <s>°ते</s>, <ls>Br.</ls> &c.;
+<s>रोधति</s>, <ls>MBh.</ls> <ab>pf.</ab> <s>रुरोध</s>, <s>रुरुधे</s>, <ls>RV.</ls> &c. &c.;
+<s>रुरुन्धतुः</s>, <ls>MBh.</ls>;
+<ab>aor.</ab> <s>अरौत्</s>, <ls>AV.</ls>;
+<s>अरौत्सीत्</s>, <ls>Br.</ls> &c.;
+<s>रोत्सीस्</s>, <ls>Up.</ls>;
+<s>अरुत्सि</s>, <s>अरुद्ध</s>, <ls>Br.</ls>; <ls>Up.</ls>;
+<s>अरौत्सि</s>, <ls>AitBr.</ls>;
+<s>अरोधम्</s>, <ls>RV.</ls>;
+<s>अरुध्म</s>, <ls>MaitrS.</ls>;
+<ab>p.</ab> <s>रुध/त्</s> <ab>cf.</ab> √ <hom>1.</hom> <s>रुध्</s>;
+<s>अरुधत्</s>, <ls>RV.</ls> &c. &c.;
+<ab>Prec.</ab> <s>रुध्यात्</s>, <ls>Kāv.</ls>;
+<ab>fut.</ab> <s>रोद्धा</s> <ab>Gr.</ab>;
+<s>रोत्स्यति</s>, <s>°ते</s>, <ls>Br.</ls> &c. <ab>inf.</ab> <s>रोद्धुम्</s> or <s>रोधितुम्</s>, <ls>MBh.</ls>;
+<s>रोद्धोस्</s>, <ls>Br.</ls>;
+<ab>ind.p.</ab> <s>रुद्ध्वा</s>, <ls>MBh.</ls> &c.;
+<s>-रु/ध्य</s>, <ls>RV.</ls> &c. &c.;
+<s>-रुन्ध्य</s>, <ls>MBh.</ls>;
+<s>-रु/धम्</s>, <ls>AV.</ls>; <ls>Br.</ls>;
+<s>-रु/न्धम्</s>, <ls>Br.</ls>;
+<s>-रो<srs/>धम्</s>, <ls>ib.</ls>), 
+<div n="to"/>to obstruct, check, arrest, stop, restrain, prevent, keep back, withhold, <ls>RV.</ls> (always with <s>न</s>), &c. &c.;
+<div n="to"/>to avert, keep off, repel, <ls>Bhaṭṭ.</ls> (<ab>cf.</ab> <s>रुधत्</s> under √ <hom>1.</hom> <s>रुध्</s>);
+<div n="to"/>to shut, lock up, confine in (<ab>loc.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c. (<ab>accord.</ab> to <ls>Vop.</ls> also with double <ab>acc.</ab>);
+<div n="to"/>to besiege, blockade, invest, <ls>Pat.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to close, block up (a path), <ls>R.</ls>;
+<div n="to"/>to cover, conceal, veil, obscure, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to stop up, fill, <ls>ib.</ls>;
+<div n="to"/>to lay (dust), <ls>Ragh.</ls>;
+<div n="to"/>to touch, move (the heart), <ls>Bālar.</ls>;
+<div n="to"/>to torment, harass, <ls>R.</ls>;
+<div n="to"/>to lose, be deprived of (<ab>acc.</ab>), <ls>TS.</ls>; <ls>ŚBr.</ls>;
+<div n="to"/>to tear, rend asunder (?), <ls>AV. xix, 29, 3</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>रोधयति</s> (<ab>ep.</ab> also <s>°ते</s> and <s>रुन्धयति</s> <pb n="884,2"/>; <ab>aor.</ab> <s>अरूरुधत्</s>; <ab>Pass.</ab> <s>रोध्यते</s>), 
+<div n="to"/>to stop, arrest, <ls>MBh.</ls>;
+<div n="to"/>to cause to be confined by (<ab>acc.</ab>), <ls>Pañcar.</ls>;
+<div n="to"/>to cause to be besieged by (<ab>instr.</ab>), <ls>Ragh.</ls>;
+<div n="to"/>to close (with a cover or lid), <ls>Bhpr.</ls>;
+<div n="to"/>to fetter, enchain, influence, <ls>BhP.</ls>;
+<div n="to"/>to oppress, torment, harass, <ls>MBh.</ls>; <ls>R.</ls> :
+<div n="to"/><ab>Desid.</ab> <s>रोरुत्सते</s> (<ls>Br.</ls>), <s>°ति</s> (<ls>MBh.</ls>), to wish to obstruct &c.:
+<div n="vp"/><ab>Intens.</ab> <s>रोरुध्यते</s>, <s>रोरोद्धि</s>, to obstruct intensely or repeatedly &c. <ab>Gr.</ab> (only <s>रोरुधः</s>, <ls>MBh.</ls>)<info westergaard="ruDir,29.1,07.0001"/><info whitneyroots="ruD2,143"/><info verb="genuineroot" cp="7P,7Ā"/>
+<LEND>

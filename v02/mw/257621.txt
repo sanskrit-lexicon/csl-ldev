@@ -1,0 +1,18 @@
+<L>257621<pc>1274,2<k1>स्रु<k2>स्रु<e>1
+<s>स्रु</s> ¦ (incorrectly written <s>श्रु</s>; <ab>cf.</ab> √ <hom>2.</hom> <s>श्रु</s>) <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xxii, 42</ls>) <s>स्र/वति</s> (<ab>ep.</ab> and <ab>mc.</ab> also <s>°ते</s>; <ab>pf.</ab> <s>सुस्राव</s>, <s>सुस्रुवुः</s>, <ls>AV.</ls> &c.; <s>सुस्रुवे</s>, <ls>MBh.</ls> &c.; <ab>aor.</ab> <s>अ/सुस्रोत्</s>, <ls>AV.</ls>; <ls>Br.</ls>; <s>अस्रावीत्</s>, <ls>JaimBr.</ls>; <s>अस्रौषीत्</s> [?] <ls>ŚBr.</ls>; <ab>fut.</ab> <s>स्रोता</s> <ab>Gr.</ab>; <s>स्रोष्यति</s>, <ls>ib.</ls>; <s>स्रविष्यति</s>, <ls>MBh.</ls>; <ab>inf.</ab> <s>स्रोतुम्</s> <ab>Gr.</ab>; <s>स्र/वितवे</s>, <s>स्र/वितवै/</s>, <ls>RV.</ls>), 
+<div n="to"/>to flow, stream, gush forth, issue from (<ab>abl.</ab>, rarely <ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to flow with, shed, emit, drop, distil (<ab>acc.</ab>), <ls>ChUp.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to leak, trickle, <ls>RV.</ls>; <ls>Br.</ls>; <ls>GṛŚrS.</ls>; <ls>Kathās.</ls>;
+<div n="to"/>to fail, not turn out well, <ls>TS.</ls>; <ls>Br.</ls>;
+<div n="to"/>to waste away, perish, disappear, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to slip or issue out before the right time (said of a fetus), <ls>TBr.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls>;
+<div n="to"/> (with <s>गर्भम्</s>) to bring forth prematurely, miscarry, <ls>ĀpŚr.</ls>;
+<div n="to"/>to issue, arise or come from (<ab>abl.</ab>);
+<div n="to"/>to come in, accrue (as interest), <ls>Nār.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>स्रावयति</s> (in later language also <s>स्रवयति</s>; <ab>aor.</ab> <s>असुस्रवत्</s>, or <s>असिस्रवत्</s>), 
+<div n="to"/>to cause to flow, shed, spill, <ls>AV.</ls>; <ls>Mn.</ls>; <ls>Suśr.</ls>;
+<div n="to"/>to set in motion, stir up, arouse, <ls>Kāṭh.</ls> :
+<div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>सुस्रावयिषति</s> or <s>सिस्रावयिषति</s> <ab>Gr.</ab>:
+<div n="vp"/><ab>Desid.</ab> <s>सुस्रूषति</s>, <ls>ib.</ls> :
+<div n="vp"/><ab>Intens.</ab> <s>सोस्रूयते</s>, <s>सोस्रोति</s> <ls>ib.</ls> <info westergaard="sru,22.42,01.0660"/><info whitneyroots="sru,200"/><info verb="genuineroot" cp="1P"/>
+<LEND>

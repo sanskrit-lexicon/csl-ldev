@@ -1,0 +1,5 @@
+<L>132838<pc>668,3<k1>प्रतिभू<k2>प्रति-भू<h>a<e>1
+<s>प्रति-√ भू</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-भवति</s>, to be equal to or on a par with (<ab>acc.</ab>), <ls>ŚBr.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-भावयति</s>, to observe, become acquainted with (<ab>acc.</ab>), <ls>MBh.</ls> :
+<div n="to"/><ab>Pass.</ab> <s>-भाव्यते</s>, to be considered as, pass for (<ab>nom.</ab>), <ls>Rājat.</ls><info verb="pre" cp="P" parse="prati+BU"/>
+<LEND>

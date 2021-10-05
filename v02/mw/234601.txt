@@ -1,0 +1,5 @@
+<L>234601<pc>1162,2<k1>समावस्<k2>सम्-आ-वस्<e>1
+<s>सम्-आ-</s>√ <hom>5.</hom> <s>वस्</s> ¦ <ab>P.</ab> <s>-वसति</s>, to dwell or settle in, inhabit (<ab>acc.</ab>), <ls>R.</ls>; <ls>Kām.</ls>; <ls>BhP.</ls>;
+<div n="to"/>to halt, encamp (for the night), <ls>Kathās.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-वासयति</s>, to pitch a camp, halt, settle down, <ls>Hit.</ls><info verb="pre" cp="P" parse="sam+A+vas"/>
+<LEND>

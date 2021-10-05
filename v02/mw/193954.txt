@@ -1,0 +1,7 @@
+<L>193954<pc>954,2<k1>विकरण<k2>वि-करण<h>2<e>2
+<hom>2.</hom> <s>वि-करण</s> ¦ <lex>m.</lex> (for <hom>1.</hom> See <pcol>p. 950, col. 1</pcol>) ‘producing a change.’ (in gram.) a term for the affix or conjugational characteristic which is placed between the root and terminations, the inserted conjugational affix (according to <s1 slp1="pARini">Pāṇini</s1> these affixes are <s>शप्</s>, <s>शपो लुक्</s>, <s>श्लु</s>, <s>श्यन्</s>, <s>श्नु</s>, <s>श</s>, <s>श्नम्</s>, <s>उ</s>, <s>श्ना</s>, <s>यक्</s>, and <s>च्लि</s> [with its substitutes], <s>तासि</s>, <s>स्य</s>, <s>सिप्</s>, the first nine of which are added in the <ab>Pres.</ab>, <ab>Impf.</ab>, Imperative, and Potential, and before a <s1 slp1="kft">Kṛt</s1> which contains a mute palatal <s>श्</s>, in the case of Active verbs;
+<s>यक्</s> is added in the case of the <s1 slp1="karman">Karman</s1> or <s1 slp1="BAva">Bhāva</s1> <ab>i.e.</ab> Passives or Neuters;
+<s>च्लि</s> is added in the Aorist, <s>तासि</s> in the 1st Future, <s>स्य</s> in the 2nd Future and Conditional, and <s>सिप्</s> before <s1 slp1="lew">Leṭ</s1>.;
+<s>लुग्-विकरण</s>, ‘having <s>लुक्</s> for its <ab n="Vikaraṇa" slp1="vikaraRa">Vik°</ab>’ [said of roots of cl. 2.];
+<s>आख्यात-पद-विकरणाः</s>, ‘words which modify the finite verb’ <ab>i.e.</ab> make it accented)<info lex="m"/>
+<LEND>

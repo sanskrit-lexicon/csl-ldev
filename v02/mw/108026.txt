@@ -1,0 +1,9 @@
+<L>108026<pc>545,3<k1>निगद्<k2>नि-गद्<e>1
+<s>नि-√ गद्</s> ¦ <ab>P.</ab> <s>-गदति</s>, (<ab>aor.</ab> <s>न्य्-अगदीत्</s>, <ls>Bhaṭṭ.</ls>), to recite, proclaim, announce, declare, tell, speak, <ls>ŚrS.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c.;
+<div n="to"/>to speak to, address (<ab>acc.</ab>), 
+<div n="to"/>to say anything (<ab>acc.</ab>) to (<ab>acc.</ab>), <ls>Kāv.</ls>;
+<div n="to"/>to enumerate, cite, quote, <ls>Suśr.</ls>;
+<div n="to"/>to call (<ab>esp.</ab> <ab>Pass.</ab> <s>-गद्यते</s>, to be called or named), <ls>MBh.</ls>; <ls>Kāv.</ls>; <ls>Suśr.</ls> &c.:
+<div n="to"/><ab>Caus.</ab> <s>-गादयति</s>, to cause to recite, <ls>ŚāṅkhŚr.</ls> :
+<div n="vp"/><ab>Intens.</ab> <s>-जागद्यते</s>, (with <ab>pass.</ab> meaning) to assert firmly or repeatedly, <ls>Sarvad.</ls><info verb="pre" cp="P" parse="ni+gad"/>
+<LEND>

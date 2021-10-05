@@ -1,0 +1,15 @@
+<L>130829<pc>658,2<k1>प्रजन्<k2>प्र-जन्<e>1
+<s>प्र-√ जन्</s> ¦ <ab>Ā.</ab> <s>-जायते</s> (<ab>ep.</ab> also <ab>P.</ab> <s>°ति</s>), to be born or produced, spring up from (<ab>abl.</ab>) be begotten (by [<ab>instr.</ab> or <ab>abl.</ab>]; from [<ab>abl.</ab>]; or with [<ab>loc.</ab>]; in [<ab>loc.</ab> or <s>अधि</s>]), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to become an embryo, <ls>ŚBr.</ls>;
+<div n="to"/>to be born again, <ls>MBh.</ls>;
+<div n="to"/>to propagate offspring with or by (<ab>instr.</ab>), <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>Mn.</ls>;
+<div n="to"/>to bring forth, generate, bear, procreate (<ab>acc.</ab>);
+<div n="vp"/> beget on (<ab>loc.</ab> or <ab>instr.</ab>), <ls>MBh.</ls>;
+<div n="to"/>to cause to be reproduced, <ls>ŚBr.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-जनयति</s>, to cause any one (<ab>acc.</ab>) 
+<div n="to"/>to propagate offspring (<ab>instr.</ab>), <ls>RV.</ls>;
+<div n="to"/>to beget, procreate, <ls>MaitrS.</ls> (<ab>aor.</ab> <s>प्रजनयाम् अकः</s>; <ab>cf.</ab> <ls>Pāṇ. 3-1, 42</ls>), <ls>AV.</ls>; <ls>ŚBr.</ls>;
+<div n="to"/>to cause to be reproduced, <ls>ŚBr.</ls> :
+<div n="to"/><ab>Desid.</ab> <s>-जिजनिषते</s>, to wish to be born, <ls>ŚBr.</ls> :
+<div n="to"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>-जिजनयिषति</s>, to wish to cause to be conceived or born, <ls>ib.</ls><info verb="pre" cp="PĀ" parse="pra+jan"/>
+<LEND>

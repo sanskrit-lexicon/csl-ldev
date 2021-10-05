@@ -1,0 +1,10 @@
+<L>236343<pc>1174,2<k1>सम्प्रतिपद्<k2>सम्-प्रति-पद्<e>1
+<s>सम्-प्रति-√ पद्</s> ¦ <ab>Ā.</ab> <s>-पद्यते</s>, to go towards together, go near to, approach, arrive at (<ab>acc.</ab>), <ls>Gaut.</ls>; <ls>Suśr.</ls>;
+<div n="to"/>to addict one's self to, indulge in (<ab>acc.</ab>), <ls>Pañcat.</ls>;
+<div n="to"/>to attain to, obtain, recover, <ls>R.</ls>; <ls>Hariv.</ls>;
+<div n="to"/>to be fully agreed about, agree upon, assent to (<ab>acc.</ab> or <ab>loc.</ab>), <ls>MBh.</ls>; <ls>R.</ls>;
+<div n="to"/>to consider, regard as (two <ab>acc.</ab>), <ls>Kum.</ls>;
+<div n="to"/>to come to pass, arise, <ls>MW.</ls>;
+<div n="to"/>to bring about, perform, accomplish, <ls>MBh.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-पादयति</s>, to cause to come to or receive, bestow, grant, give over to (<ab>gen.</ab> or <ab>loc.</ab>), <ls>MBh.</ls>; <ls>BhP.</ls><info verb="pre" cp="Ā" parse="sam+prati+pad"/>
+<LEND>

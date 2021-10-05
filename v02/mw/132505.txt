@@ -1,0 +1,31 @@
+<L>132505<pc>667,1<k1>प्रतिपद्<k2>प्रति-पद्<h>b<e>1
+<s>प्रति-√ पद्</s> <hom>b</hom> ¦ <ab>Ā.</ab> <s>-पद्यते</s> (<ab>ep.</ab> <ab>fut.</ab> also <s>-पत्स्यति</s>), to set foot upon, enter, go or resort to, arrive at, reach, attain, <ls>VS.</ls> &c. &c.;
+<div n="to"/>to walk, wander, roam, <ls>ChUp.</ls>;
+<div n="to"/>to come back to (<ab>acc.</ab>), return, <ls>MBh.</ls>;
+<div n="to"/>to happen, occur, take place, <ls>PārGṛ.</ls>; <ls>MBh.</ls>;
+<div n="to"/>to get into (<ab>acc.</ab>), meet, with, find, obtain, receive, take in or upon one's self, <ls>ŚBr.</ls> &c. &c.;
+<div n="to"/>to receive back, recover, <ls>AitBr.</ls>; <ls>Śak.</ls>;
+<div n="to"/>to restore to favour, <ls>Ragh.</ls>;
+<div n="to"/>to undertake, begin (<ab>acc.</ab> <ab>dat.</ab> or <ab>inf.</ab>), practise, perform, accomplish, <ls>Nir.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to do anything to any person, act or proceed or behave towards or against (<ab>loc.</ab> <ab>gen.</ab> or <ab>acc.</ab>), <ls>MBh.</ls>; <ls>Hariv.</ls>; <ls>R.</ls>;
+<div n="to"/>to make, render, <ls>MBh.</ls>;
+<div n="to"/>to fall to a person's (<ab>acc.</ab>) lot or share, <ls>PārGṛ.</ls>;
+<div n="to"/>to let a person (<ab>dat.</ab>) have anything, <ls>Āpast.</ls>;
+<div n="to"/>to give back, restore, <ls>Mn. viii, 183</ls>;
+<div n="to"/>to perceive, find out, discover, become aware of or acquainted with, understand, learn, <ls>MBh.</ls>; <ls>R.</ls> &c.;
+<div n="to"/>to deem, consider, regard, <ls>Śaṃk.</ls>; <ls>Sāh.</ls>;
+<div n="to"/>to answer affirmatively say yes (with or <ab>scil.</ab> <s>तथा</s>, or <s>तथे<srs/>ति</s>), acknowledge, assent, agree, promise, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to begin to speak, commence (with <ab>acc.</ab> or <ab>instr.</ab>), <ls>RV.</ls>; <ls>Br.</ls>;
+<div n="to"/>to answer, <ls>ChUp.</ls> (also with <s>उत्तरम्</s>, <ls>R.</ls>) :
+<div n="to"/><ab>Caus.</ab> <s>-पादयति</s>, to convey or lead to, procure, cause to partake of (2 <ab>acc.</ab>). give a present to, bestow on (<ab>loc.</ab> <ab>dat.</ab> or <ab>gen.</ab>), <ls>Kauś.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to give in marriage, <ls>Āpast.</ls>;
+<div n="to"/>to spend, <ls>ib.</ls>;
+<div n="to"/>to present with (<ab>instr.</ab>), <ls>Kāraṇḍ.</ls>;
+<div n="to"/>to put in, appoint to (<ab>loc.</ab>), <ls>R.</ls>;
+<div n="to"/>to produce, cause, effect, <ls>MBh.</ls>; <ls>R.</ls> &c.;
+<div n="to"/>to establish, substantiate, prove, set forth, explain, teach, impart, <ls>MBh.</ls>; <ls>R.</ls> &c.;
+<div n="to"/>to deem, consider, regard as (2 <ab>acc.</ab>), <ls>Pañcat.</ls> (<ab>v.l.</ab> <s>-वदसि</s> for <s>-पादयसि</s>) :
+<div n="vp"/><ab>Desid.</ab> <s>-पित्सते</s> (<ls>Pāṇ. 7-4, 54</ls>), to wish to attain, <ls>Śaṃk.</ls>;
+<div n="to"/>to wish to know, <ls>Bhām.</ls> :
+<div n="to"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>-पिपादयिषति</s>, to wish or intend to explain or analyze, <ls>Śaṃk.</ls><info verb="pre" cp="Ā" parse="prati+pad"/>
+<LEND>

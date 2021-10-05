@@ -1,0 +1,8 @@
+<L>200038<pc>987,2<k1>विवस्<k2>वि-वस्<h>c<e>1
+<hom>c.</hom> <s>वि-</s>√ <hom>5.</hom> <s>वस्</s> ¦ <ab>P.</ab> <s>-वसति</s>, to change an abode, depart from (<ab>abl.</ab>), <ls>BhP.</ls>;
+<div n="to"/> (with <s>ब्रह्मचर्यम्</s>), to enter upon an apprenticeship, become a pupil, <ls>ChUp.</ls>;
+<div n="to"/>to abide, dwell, live, <ls>MBh.</ls>; <ls>R.</ls>;
+<div n="to"/>to pass, spend (time), <ls>ib.</ls> &c.:
+<div n="to"/><ab>Caus.</ab> <s>-वासयति</s>, to cause to dwell apart, banish, expel, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to send forth, dismiss, <ls>MBh.</ls><info verb="pre" cp="P" parse="vi+vas"/>
+<LEND>

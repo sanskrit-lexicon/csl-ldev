@@ -1,0 +1,10 @@
+<L>234571<pc>1162,1<k1>समालम्ब्<k2>सम्-आ-लम्ब्<e>1
+<s>सम्-आ-√ लम्ब्</s> ¦ <ab>Ā.</ab> <s>-लम्बते</s>, to hang on, cling to (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>Rājat.</ls>;
+<div n="to"/>to lean on, depend on, trust to (<ab>acc.</ab>), <ls>Kathās.</ls>;
+<div n="to"/>to take to (<ab>acc.</ab>), <ls>Cat.</ls>;
+<div n="to"/>to take hold of. seize, grasp, <ls>Kum.</ls>; <ls>Kathās.</ls>;
+<div n="to"/>to have recourse to, assume, <ls>R.</ls>; <ls>Mṛcch.</ls>; <ls>Bhaṭṭ.</ls>;
+<div n="to"/>to acquire, obtain, appropriate, <ls>Hit.</ls> (<ab>v.l.</ab>);
+<div n="to"/>to fall to the lot of (<ab>loc.</ab>), <ls>ib.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>लम्बयति</s>, to cause to hang or rest, suspend to (<ab>loc.</ab>), <ls>Pañcat.</ls><info verb="pre" cp="Ā" parse="sam+A+lamb"/>
+<LEND>

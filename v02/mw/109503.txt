@@ -1,0 +1,10 @@
+<L>109503<pc>554,2<k1>निर्गम्<k2>निर्-गम्<e>1
+<s>निर्-√ गम्</s> ¦ <ab>P.</ab> <s>-गच्छति</s> (<ab>Subj.</ab> <s>-गमाणि</s> <ab>pf.</ab> <ab>p.</ab> <s>-जगन्वान्</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>-गत्य</s>, <ls>MBh.</ls> &c., <s>-गम्य</s>, <ls>MārkP.</ls>), 
+<div n="to"/>to go out, come forth (often with <s>बहिस्</s>), depart from (<ab>abl.</ab>), set out, start, <ls>RV.</ls> &c. &c.;
+<div n="to"/>to come out or appear (as a bud), <ls>Śak.</ls>;
+<div n="to"/>to go away, disappear, <ls>Rājat.</ls>; <ls>Pañc.</ls>;
+<div n="to"/>to enter into any state, undergo (<ab>acc.</ab>), <ls>MBh.</ls>;
+<div n="vp"/> (with <s>निद्राम्</s>) to fall asleep, <ls>Kathās.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-गमयति</s>, to cause or order to set out, <ls>BhP.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>-जिगमिषते</s>, to wish to set out, <ls>ib.</ls><info verb="pre" cp="P" parse="nir+gam"/>
+<LEND>

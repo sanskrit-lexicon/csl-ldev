@@ -1,0 +1,13 @@
+<L>205937<pc>1016,3<k1>वेदाङ्ग<k2>वेदाङ्ग<h>b<e>2
+<s>वेदा<srs/>ङ्ग</s> <hom>b</hom> ¦ <lex>n.</lex> ‘a limb (for preserving the body) of the <s1 slp1="veda">Veda</s1>’, <ab>N.</ab> of certain works or classes of works regarded as auxiliary to and even in some sense as part of the <s1 slp1="veda">Veda</s1>, 
+(six are usually enumerated [and mostly written in the <s1 slp1="sUtra">Sūtra</s1> or aphoristic style];
+1. <s>शिक्षा</s>, ‘the science of proper articulation and pronunciation’, comprising the knowledge of letters, accents, quantity, the use of the organs of pronunciation, and phonetics generally, but especially the laws of euphony peculiar to the <s1 slp1="veda">Veda</s1> [many short treatises and a chapter of the <s1 slp1="tEttirIya-AraRyaka">Taittirīya-āraṇyaka</s1> are regarded as the representatives of this subject;
+but other works on Vedic phonetics may be included under it See <s>प्रातिशाख्य</s>] :
+2. <s>छन्दस्</s>, ‘metre’ [represented by a treatise ascribed to <s1 slp1="piNgala-nAga">Piṅgala-nāga</s1>, which, however, treats of <ns>Prākṛt</ns> as well as <ns>Saṉskṛt</ns> metres, and includes only a few of the leading Vedic metres] :
+3. <s>व्याकरण</s>, ‘linguistic analysis or grammar’ [represented by <s1 slp1="pARini">Pāṇini</s1>'s celebrated <s1 slp1="sUtra">Sūtra</s1>s] :
+4. <s>निरुक्त</s>, ‘explanation of difficult Vedic words’ [<ab>cf.</ab> <s>यास्क</s>] :
+5. <s>ज्योतिष</s>, ‘astronomy’, or rather the Vedic calendar [represented by a small tract, the object of which is to fix the most auspicious days for sacrifices] :
+6. <s>कल्प</s>, ‘ceremonial’, represented by a large number of <s1 slp1="sUtra">Sūtra</s1> works [<ab>cf.</ab> <s>सूत्र</s>] :
+the first and second of these <s1 slp1="vedANga">Vedâṅga</s1>s are said to be intended to secure the correct reading or recitation of the <s1 slp1="veda">Veda</s1>, the third and fourth the understanding of it, and the fifth and sixth its proper employment at sacrifices:
+the <s1 slp1="vedANga">Vedâṅga</s1>s are alluded to by <s1 slp1="manu">Manu</s1>, who calls them, in <ls>iii, 184</ls>, <s1 slp1="pravacana">Pravacana</s1>s, ‘expositions’, a term which is said to be also applied to the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s), <ls>IW. 145</ls> &c.<info lex="n"/>
+<LEND>

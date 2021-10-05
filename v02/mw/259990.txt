@@ -1,0 +1,8 @@
+<L>259990<pc>1285,3<k1>स्वरित<k2>स्वरित<e>2B
+<s>स्वरित</s> ¦ <lex>m.</lex> <lex type="hw">n.</lex> the <s1 slp1="svarita">Svarita</s1> accent (a kind of mixed tone, produced by a combination of high and low tone, and therefore named in <ls>Pāṇ. 1-2, 31</ls> <s>सम्-आहार</s>, the high and low tones being called <s>उद्-आत्त</s>, ‘raised’ or ‘acute’, and <s>अन्-उदात्त</s>, ‘low’ or ‘grave’;
+the <ab n="Svarita" slp1="svarita">Sv°</ab> corresponds to the Greek circumflex and is of four kinds, <ab>viz.</ab> <s>क्षैप्र</s> [as in <s>व्य्-आ/प्त</s> for <s>वि/-आप्त</s>], <s>जात्य</s> [as in <s>क्व/</s> for <s>कु/अ</s>], <s>प्रश्लिष्ट</s> [as in <s>दिवी/व</s> for <s>दिवि/ इव</s>], or <s>अभिनिहित</s> [as in <s>ते/ ऽब्रुवन्</s> for <s>ते/ अब्रुवन्</s>];
+it is marked in <ls>RV.</ls> by a small upright stroke above a syllable;
+and when produced by an <s>उदात्त</s> immediately preceding is sometimes called ‘a dependent <s1 slp1="svarita">Svarita</s1>’, and, when it properly belongs to a word, an ‘independent <s1 slp1="svarita">Svarita</s1>’), <ls>ĀśvŚr.</ls>;
+<ls>Prāt.</ls>;
+<ls>Pāṇ.</ls><info lex="m:n"/>
+<LEND>

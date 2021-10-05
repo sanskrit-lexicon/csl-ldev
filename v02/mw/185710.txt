@@ -1,0 +1,14 @@
+<L>185710<pc>917,2<k1>वन्<k2>वन्<h>1<e>1
+<hom>1.</hom> <s>वन्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xiii, 19; 20; xix, 42</ls>) <s>व/नति</s> (<ab>Ved.</ab> also <s>°ते</s>, and <s>वन/ति</s>);
+<div n="vp"/> <ab>cl.</ab> 8. <ab>Ā.</ab> <ab>P.</ab> (<ls>xxx, 8</ls>) <s>वनो/ति</s>, <s>वनुते/</s> (<ab>pf.</ab> <s>वावा/न</s>, <s>वाव/न्थ</s>, <s>ववन्म/</s>, <s>वव्ने/</s>; <ab>p.</ab> <s>ववन्व/स्</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>वन्त</s>, <s>व/ंस्व</s>, <ls>ib.</ls>; <s>वंसत्</s>, <s>°सते</s>, <ls>ib.</ls>; <s>वनिषत्</s>, <ls>AV.</ls>; <s>°षन्त</s>, <ls>TS.</ls>; <s>वनुषन्त</s>, <ls>RV.</ls>; <ab>Pot.</ab> <s>वंसीमहि</s>, <s>वसीमहि</s>, <ls>ib.</ls>; <ab>Prec.</ab> <s>वनिषीष्ट</s>, <ls>RV.</ls> <s>वंसिषीय</s>, <ls>AV.</ls>; <ab>fut.</ab> <s>वनिता</s> <ab>Gr.</ab>; <s>वनिष्यते</s>, <ls>ŚāṅkhŚr.</ls>; <ab>inf.</ab> <s>वनितुम्</s> <ab>Gr.</ab>; <s>-वन्तवे</s>, <ls>RV.</ls>), 
+<div n="to"/>to like, love, wish, desire, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>Kāṭh.</ls>; <ls>ŚāṅkhŚr.</ls>;
+<div n="to"/>to gain, acquire, procure (for one's self or others), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls>;
+<div n="to"/>to conquer, win, become master of, possess, <ls>RV.</ls>; <ls>AV.</ls>;
+<div n="to"/>to prepare, make ready for, aim at, attack, <ls>RV.</ls>;
+<div n="to"/>to hurt, injure, <ls>MW.</ls> (<ls>Dhātup.</ls> also ‘to sound’; ‘to serve, honour, worship, help, aid’) :
+<div n="vp"/><ab>Caus.</ab> <s>वनयति</s> or <s>वानयति</s>, <ls>Dhātup. xix, 68</ls>;
+<div n="vp"/> <ls>xxxix, 33</ls> <ab>v.l.</ab> (<ab>cf.</ab> <s>सं-√ वन्</s>) :
+<div n="to"/><ab>Desid.</ab> <s>वि/वासति</s>, <s>°ते</s>, to attract, seek to win over, <ls>RV.</ls> :
+<div n="vp"/><ab>Intens.</ab> (only <s>वाव/नः</s> and <s>वावन्धि/</s>; but <ab>cf.</ab> <s>वनीवन्</s>) 
+<div n="to"/>to love, like, <ls>RV.</ls><info westergaard="vana,13.19,01.0305;vana,13.20,01.0306;vanu,19.42,01.0528"/><info whitneyroots="van,153"/><info verb="genuineroot" cp="1P,8P,8Ā"/>
+<LEND>

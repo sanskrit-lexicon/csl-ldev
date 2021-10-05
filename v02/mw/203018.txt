@@ -1,0 +1,6 @@
+<L>203018<pc>1002,2<k1>विस्मृ<k2>वि-स्मृ<e>1
+<s>वि-√ स्मृ</s> ¦ <ab>P.</ab> <s>-स्मरति</s> (<ab>mc.</ab> also <ab>Ā.</ab>), to forget, be unmindful of (<ab>acc.</ab> or <ab>gen.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
+<div n="to"/><ab>Pass.</ab> <s>-स्मर्यते</s> (<ab>aor.</ab> <s>व्य्-अस्मारि</s>), to be forgotten, <ls>Rājat.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-स्मारयति</s> (<ab>fut.</ab> <s>-स्मारयिष्यते</s>), to cause to forget, <ls>Vikr. iii, 18</ls> :
+<div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> See <s>वि-सिस्मारयिषु</s>.<info verb="pre" cp="PĀ" parse="vi+smf"/>
+<LEND>

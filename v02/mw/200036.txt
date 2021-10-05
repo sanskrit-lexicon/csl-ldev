@@ -1,0 +1,5 @@
+<L>200036<pc>987,2<k1>विवस्<k2>वि-वस्<h>b<e>1
+<hom>b.</hom> <s>वि-</s>√ <hom>4.</hom> <s>वस्</s> ¦ <ab>Ā.</ab> <s>-वस्ते</s>, to change clothes, <ls>TS.</ls>; <ls>ĀśvŚr.</ls>;
+<div n="to"/>to put on, don, <ls>Bhaṭṭ.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-वासयति</s> (<ab>Pass.</ab> <s>-वास्यते</s>), to put on, don, <ls>MBh.</ls><info verb="pre" cp="Ā" parse="vi+vas"/>
+<LEND>

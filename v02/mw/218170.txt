@@ -1,0 +1,29 @@
+<L>218170<pc>1077,1<k1>शी<k2>शी<h>1<e>1
+<hom>1.</hom> <s>शी</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> (<ls>Dhātup. xxiv, 22</ls>) <s>शे/ते</s> 
+(with <s1 slp1="guRa">Guṇa</s1> throughout the <ab>pr.</ab> stem : thus, <s>श/ये</s> [in, <ls>RV.</ls> also 3. <ab>sg.</ab>], <s>शे/षे</s> &c., 3. <ab>pl.</ab> <s>शे/रते</s> [in, <ls>AV.</ls> also <s>शे/रे</s> and Class. <s>शयिरे</s>];
+<ab>Pot.</ab> <s>श/यीत</s>, <ls>RV.</ls> &c.;
+<ab>Impv.</ab> <s>-शेताम्</s> and <s>शयाम्</s>, <ls>AV.</ls>;
+<ab>impf.</ab> <s>अशेत</s>, <ls>ŚBr.</ls> &c., 3. <ab>pl.</ab> <s>अशेरत</s> [in, <ls>RV.</ls> also <s>अ/शेरन्</s>], <ab>p.</ab> <s>श/यान</s>, <ls>RV.</ls> &c.;
+<ab>ved.</ab> and <ab>ep.</ab> also <ab>cl.</ab> 1. <s>श/यते</s>, <s>°ति</s>;
+<ab>impf.</ab> <s>अ/शयत्</s> and <s>अशायत</s>, <ls>RV.</ls>;
+<ab>pf.</ab> <s>शिश्ये</s>, <s>शिश्यिरे</s>, <ls>Br.</ls>;
+<ab>p.</ab> <ab>ved.</ab> <s>शशयान/</s>, Class. <s>शिश्यान</s>;
+<ab>aor.</ab> <s>अशयिष्ट</s> <ab>Subj.</ab> <s>शे/षन्</s>, <ls>RV.</ls>;
+<ab>fut.</ab> <s>शयिता</s>, <ls>Up., 2.</ls> <ab>sg.</ab> <s>°ता/से</s>, <ls>ŚBr.</ls>;
+<s>शयिष्यते</s>, <s>°ति</s>, <ls>Br.</ls>;
+<s>शेष्यते</s>, <s>°ति</s>, <ls>MBh.</ls>;
+<ab>inf.</ab> <s>शय/ध्यै</s>, <ls>RV.</ls>;
+<s>शयितुम्</s>, <ls>MBh.</ls>;
+<ab>ind.p.</ab> <s>शयित्वा</s>, <ls>Up.</ls> &c.;
+<s>-शय्य</s>, <ls>Kāv.</ls>), 
+<div n="to"/>to lie, lie down, recline, rest, repose, <ls>RV.</ls> &c. &c.;
+<div n="to"/>to remain unused (as <s1 slp1="soma">Soma</s1>), <ls>TS.</ls>;
+<div n="to"/>to lie down to sleep, fall asleep, sleep, <ls>GṛŚrS.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/> (with <s>पत्ये</s>) to lie down to a husband (for sexual intercourse), <ls>Pat.</ls>;
+<div n="vp"/> (<s>मदनेन-√ शी</s> = ‘to be impotent’), <ls>VarBṛS.</ls> :
+<div n="vp"/><ab>Pass.</ab> <s>शय्यते</s> <ab>Gr.</ab> (<ab>aor.</ab> <s>अशायि</s>, <ls>ib.</ls>, <ab>pr.p.</ab> once in <ls>MBh.</ls> <s>शीयत्</s>) :
+<div n="vp"/><ab>Caus.</ab> <s>शाययति</s>, <s>°ते</s> (<ab>aor.</ab> <s>अशीशयत्</s>), to cause to lie down, lay down, put, throw, fix on or in (<ab>loc.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to cause to lie down, allow to rest or sleep, <ls>Bhaṭṭ.</ls>; <ls>Rājat.</ls>; <ls>BhP.</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>शिशयिषते</s>, to wish to rest or sleep, <ls>Daś.</ls> :
+<div n="vp"/><ab>Intens.</ab> <s>शाशय्यते</s>, <s>शेशयीति</s>, <s>शेशेति</s> <ab>Gr.</ab> ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κεῖσθαι</lang>, ‘to lie’; <lang n="greek">κοίτη</lang>, ‘a bed.’])<info westergaard="SIN,24.22,02.0026"/><info whitneyroots="SI2,174"/><info verb="genuineroot" cp="2Ā,1"/>
+<LEND>

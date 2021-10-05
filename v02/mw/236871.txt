@@ -1,0 +1,12 @@
+<L>236871<pc>1178,2<k1>सम्भाष्<k2>सम्-भाष्<e>1
+<s>सम्-√ भाष्</s> ¦ <ab>Ā.</ab> <s>-भाषते</s> (<ab>pr. p.</ab> in <ls>MBh.</ls> also <s>-भाषत्</s>), to speak together, converse with (<ab>instr.</ab> with or without <s>सह</s>), <ls>Gaut.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to speak to (<ab>acc.</ab>), address, greet, salute, <ls>KauṣUp.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to join in a conversation, <ls>Vait.</ls>;
+<div n="to"/>to agree, consent, enter into an engagement, <ls>R.</ls>;
+<div n="to"/>to talk over, persuade, <ls>Hit.</ls>;
+<div n="to"/>to speak, say, recite, <ls>Hariv.</ls>;
+<div n="to"/>to have sexual intercourse with, <ls>MW.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>-भाषयति</s> (<ab>ind.p.</ab> <s>-भाषित्वा</s> <ab>v.l.</ab> in <ab>B.</ab> for <s>-भाषयित्वा</s>), to converse with (<ab>instr.</ab>), <ls>Hariv.</ls>;
+<div n="to"/>to speak to, address (<ab>acc.</ab>), <ls>R.</ls>;
+<div n="to"/>to persuade, prevail upon (<ab>v.l.</ab> for <s>-भावयति</s>), <ls>MBh.</ls><info verb="pre" cp="Ā" parse="sam+BAz"/>
+<LEND>
