@@ -1,0 +1,41 @@
+<L>2878<pc>0374<k1>ख्या<k2>ख्या
+{@khyā,@}¦ Grundbed. „schauen” oder „scheinen”.
+<div n="P">Mit {@áti@} 1) {%übersehen, vernachlässigen;%} 2) jemand [<ab>A.</ab>], einem [D.] {%überlassen, überliefern;%} <lbinfo n="10"/> 3) {%überschauen%} <lbinfo n="9"/> [<ab>A.</ab>].
+<div n="P1">{@ánu,@} {%nachblicken%} [<ab>A.</ab>].
+<div n="P1">{@antár,@} {%den Blicken entziehen, <lbinfo n="7"/> verbergen.%}
+<div n="P1">{@abhí@} 1) {%erblicken;%} 2) erblicken={%erfahren;%} 3) {%beschauen%} (abhikhyātṛ́); <lbinfo n="9"/> 4) {%gnädig ansehen%} (abhikhyā́); 5) = {%in Obhut nehmen;%} <lbinfo n="6"/> 6) {%entgegenstrahlen,%} <lbinfo n="11"/> in abhikhyā́ (Lichtschein).
+<div n="P1">{@áva@} 1) {%herabschauen%} (ohne Obj.); 2) {%erblicken.%} <lbinfo n="10"/>
+<div n="P1">{@ā́,@} {%anschauen.%}
+<div n="P1">{@pári@} 1) {%umherschauen%} (o. Obj.); 2) {%übersehen, <lbinfo n="6"/> vernachlässigen%} <lbinfo n="5"/> [<ab>G.</ab>].
+<div n="P1">{@prá,@} {%sehen%} (o. Obj.).
+<div n="P1">{@práti,@} {%erblicken.%}
+<div n="P1">{@ví@} 1) {%sehen, aufblicken%} (o. Obj.); 2) {%sich umsehen%} <lbinfo n="7"/> nach [<ab>A.</ab>]; 3) {%erblicken;%} 4) {%beschauen;%} <lbinfo n="10"/> 5) {%aufleuchten%} <lbinfo n="5"/> (o. Obj.); 6) {%erleuchten;%} <lbinfo n="11"/> 7) einem [D.] etwas [<ab>A.</ab>] {%sichtbar <lbinfo n="3"/> machen,%} es ihm {%schenken.%}
+<div n="P1">{@sám,@} {%erscheinen%} mit [<ab>I.</ab>], {%zusammengehören%} <lbinfo n="5"/> mit [<ab>I.</ab>].
+[Page375]
+<div n="H">Stamm {@khyá:@}
+<div n="P1">-am [<ab>C.</ab>] {@abhí@} 2) mṛḍīkám <lbinfo n="5"/> {602,2}.
+<div n="P1">-ás {@antár:@} védas ádāśuṣām <lbinfo n="5"/> {81,9}. — {@abhí@} 4) práyāṃsi {456,15}.
+<div n="P1">-as {@áti@} 1) mā́ nas {4,3}. — 3) víśvān aryás {674,9}. — {@abhí@} 5) nas pṛ́tanāsu {489,19}.
+<div n="P1">-át {@abhí@} 4) práyāṃsi {879,2}.
+<div n="P1">-at {@pári@} 2) mā́ nas {552,7}. — {@prá:@} andhás {688,2}.
+<div n="P1">-atam {@áti@} 1) mā́ nas {682,15}. — 2) mā́ nas ripáve {642,14}. — {@pári@} 2) mā́ maghónas, asmā́kam {419,6}.
+<div n="P1">-áta {@áva@} 1) ā́dityās … ádhi kū́lāt iva spáśas {667,11}.
+<div n="P1">-án {@ví@} 4) sukṛ́tas {265,12}.
+<div n="P1">-an {@pári@} 1) urviyā́ {836,2}. — 2) mā́ nas {162,1}; {609,8}.
+<div n="H"><ab>Imperf.</ab> {@ákhya:@}
+<div n="P1">-am {@ví@} 2) jñāsás, sajātā́n {109,1}. — 3) vīríam {1024,1}.
+<div n="P1">-as {@ví@} 6) bhúvanā {529,3} (agne).
+<div n="P1">-at {@ava@} 2) camasā́n {161,4}; samáraṇam {853,3}. — {@abhí@} 3) ājím {320,8}. — {@antár:@} dhéne {384,9}.
+<div n="H">{@akhya@} [<ab>dass.</ab>]:
+<div n="P1">-am {@práti:@} rītím, paraśós <lbinfo n="3"/> ánīkam {402,4}.
+<div n="P1">-at {@ā́:@} yūthā́ {298,18}. — {@práti:@} uṣásām ágram {309,1} (agnís). — {@ví@} 1) andhás {315,9}. — 5) agnís {46,10}; uṣā́s {123,2}; rā́trī {953,1}. — 6) antárikṣāṇi {35,7} (suparṇás); <lbinfo n="8"/> kakúbhas {35,8} (savitā́); nā́kam {435,2} (savitā́); ródasī {813,7} (sómas); īm (ródasī) {871,4} (agnís); dívam {1015,2} (mahiṣás). <lbinfo n="5"/> — 7) nas rāyás {113,4}.
+<div n="P1">-ata [2. <ab>p.</ab>] {@ví@} 4) idám {161,13}.
+<div n="P1">-an {@ví@} 5) (uṣásas) {297,18}. — 6) jánān {35,5} (śitipā́das).
+<div n="P1">-ata [2. <ab>s.</ab> <ab>med.</ab>] {@sám:@} ādityébhis {773,7}.
+<div n="H"><ab>Perf.</ab> {@cakhyā@} ({@cakhy@}):
+<div n="P1">-yathus {@ánu:@} pū́rvāṇi yugā́ni {586,4}.
+<div n="H">Absolutiv {@khyā́ya:@}
+<div n="P1">-a {@abhi@} 1) (erg. krámaṇe) {155,5}; (erg. tám) {221,9}.
+<div n="H"><ab>Inf.</ab> {@khyā́:@}
+<div n="P1">-aí [D.] {@pra@} {597,4}. — {@vi@} 1) {984,4}.
+<LEND>

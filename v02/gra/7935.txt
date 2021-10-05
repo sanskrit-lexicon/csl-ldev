@@ -1,0 +1,34 @@
+<L>7935<pc>1262<k1>वाश्<k2>वाश्
+{@vāś,@}¦ 1) {%brüllen, blöken%} vom Rinde; 2) {%donnern;%} <lbinfo n="7"/> 3) {%rauschen%} von Gebeten, Strömen; 4) <ab>Intens.</ab> {%laut blöken%} vom Rinde; 5) <ab>Caus.</ab> {%ertönen machen%} [<ab>A.</ab>]; 6) <ab>Caus.</ab> {%donnern machen;%} 7) <ab>Caus.</ab> {%sich laut hören lassen, laut rauschen.%} <lbinfo n="8"/>
+<div n="P">Mit {@abhí@} jemand [<ab>A.</ab>] {%brüllend, rauschend begrüssen, ihm entgegentönen.%} <lbinfo n="13"/>
+<div n="P1">{@práti@} jemandem [<ab>A.</ab>] {%zublöken,%} ihn {%blökend begrüssen.%}
+<div n="P1">{@sám@} 1) {%zusammen rauschen;%} <lbinfo n="8"/> 2) mit jemandem <lbinfo n="3"/> [<ab>I.</ab>] {%zusammen blöken, rauschen, sich hören lassen.%}
+<div n="H">Stamm {@vā́śa:@}
+<div n="P1">-ati 2) tritás {408,2}.
+<div n="H"><ab>Perf.</ab> {@vavāś:@}
+<div n="P1">-śire {@abhí@} tvā náktīs uṣásas vatsám ná dhenávas <lbinfo n="3"/> {193,2}.
+<div n="H">{@vāvaś:@}
+<div n="P1">-śre {@abhí@} índum dhíyas gā́vas ná {806,2}.
+<div n="H">Stamm des <ab>Intens.</ab> {@vā́vaś@} (siehe <ab>Partic.</ab>).
+<div n="H"><ab>Impf.</ab> des Int. {@avāvaś:@}
+<div n="P1">-śītām [3. <ab>du.</ab> <ab>me.</ab>] {@sám@} 1) ihá‿iha jātā́ {181,4}.
+<div n="H"><ab>Aor.</ab> des <ab>Intens.</ab> {@ávāvaśa@} (tonlos {802,2}):
+<div n="P1">-anta 3) dhītáyas {731,4}; {778,11}. — {@abhí@} vṛ́ṣaṇam <lbinfo n="3"/> {802,2} (vā́ṇīs).
+<div n="H">{@vāvaśa:@}
+<div n="P1">-anta {@práti@} uṣásam {591,7} (gā́vas). — {@sám@} 2) usríyābhis {62,3} (náras).
+<div n="H"><ab>Impf.</ab> des <ab>Caus.</ab> {@avāśaya:@}
+<div n="P1">-as 6) dyā́m mánave {31,4}.
+<div n="H"><ab>Aor.</ab> des <ab>Caus.</ab> {@ávīvaśa@} (betont nur {890,15}):
+<div n="P">at 5) matím {744,3} (haṃsás <lbinfo n="3"/> yáthā gaṇám);
+[Page1263]
+dhītím {788,4}; síndhūnām <lbinfo n="3"/> kaláśān {798,19} (SV. acíkradat); mandánās <lbinfo n="5"/> gā́s {819,26}; dhenū́s <lbinfo n="4"/> {746,6}.
+<div n="P1">-an 7) sómās {733,7}.
+<div n="P1">-anta 7) manīṣíṇas {890,15} (matíbhis).
+<div n="H"><ab>Part.</ab> <ab>Perf.</ab> {@vāvaśāná:@}
+<div n="P1">-ás {@sám@} 2) mātṛ́bhis {202,8}; {805,2}; síndhubhis <lbinfo n="4"/> {808,14} (usríyābhis). <lbinfo n="6"/>
+<div n="P1">-ám 3) ukṣáṇam (sómam) {807,4}.
+<div n="P1">-ā́s [<ab>N.</ab> <ab>p.</ab> <ab>f.</ab>] 1) dhenávas <lbinfo n="3"/> {73,6}; {291,3}; {809,35}; gā́vas {809,22}. — 3) matáyas {809,34}; dhītáyas {798,31}; harítas, <lbinfo n="6"/> giras {521,5}; yaśásas <lbinfo n="5"/> (síndhavas) {552,6}. — {@abhí@} samānám (vatsám) {949,3} (mātáras). <lbinfo n="7"/>
+<div n="P1">-ā́s [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] 3) apás {322,2}.
+<div n="H"><ab>Part.</ab> des Int. {@vā́vaśat:@}
+<div n="P1">-atīs [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] 4) usríyās {346,5}.
+<LEND>

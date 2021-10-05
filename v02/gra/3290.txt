@@ -1,0 +1,148 @@
+<L>3290<pc>0447<k1>चित्<k2>चित्
+{@cit,@}¦ aus 2. ci erweitert (<ab>s.</ab> dort), 1) etwas [<ab>A.</ab>, <ab>G.</ab>] {%erblicken, wahrnehmen;%} 2) {%beschauen, beachten, Acht haben%} auf [<ab>A.</ab>, <ab>G.</ab>]; 3) etwas [<ab>A.</ab>, D., D. des <ab>Inf.</ab>] {%im Auge haben, beabsichtigen;%} <lbinfo n="12"/> 4) etwas [<ab>A.</ab>, <ab>G.</ab>] {%erkennen, wissen;%} 5) zu thun [<ab>Inf.</ab>] {%verstehen,%} auch ohne <ab>Inf.</ab> in gleichem Sinne; 6) {%erglänzen, erscheinen;%} 7) {%sich zeigen, sich zeigen%} als [<ab>N.</ab>]; 8) {%sich auszeichnen;%} 9) jemandem [D.] etwas [<ab>A.</ab>] {%erweisen.%}
+<div n="P">Causativ: 1) {%aufmerksam machen%} [<ab>A.</ab>]; 1 a) jemand [<ab>A.</ab>] wozu [D.] {%anreizen;%} 2) jemanden [<ab>A.</ab>] {%lehren, unterweisen;%} 3) jemanden <lbinfo n="3"/> [D.] etwas [<ab>A.</ab>] {%lehren;%} 4) {%sehen, bemerken;%} <lbinfo n="9"/> 5) {%aufmerken;%} 6) es {%absehen%} auf [D.]; 7) {%scheinen, glänzen, strahlen;%} 8) sich {%auszeichnen, hervorleuchten.%}
+<div n="H">Desiderativ: {%sich zeigen wollen.%}
+<div n="P">Mit {@áti,@} caus. {%überstrahlen.%} <lbinfo n="11"/>
+<div n="P1">{@ánu@} 1) {%beschauen%} oder {%achten%} auf [<ab>A.</ab>]; 2) {%gedenken%} an [<ab>A.</ab>]; 3) jemandem [D.] etwas [<ab>A.</ab>] {%zuerkennen, zudenken.%} <lbinfo n="9"/>
+<div n="P1">{@ā́@} 1) {%beachten%} [<ab>A.</ab>]; 2) {%begreifen%} [<ab>A.</ab>]; 3) {%ersinnen%} <lbinfo n="8"/> [<ab>A.</ab>]; 4) {%erscheinen, <lbinfo n="9"/> erglänzen;%} 5) {%sich auszeichnen;%} 6) desid. {%zu begreifen suchen.%}
+<div n="P1">{@prá@} 1) {%erscheinen, kundwerden;%} <lbinfo n="9"/> 2) sich {%auszeichnen;%} <lbinfo n="11"/> 3) caus. {%erleuchten, erhellen;%} 4) caus. {%kundmachen;%} 5) caus. <ab>med.</ab> {%erscheinen, <lbinfo n="4"/> sich zeigen;%} 6) desid. {%zeigen.%}
+<div n="P1">{@áti prá,@} {%sich auszeichnen.%} <lbinfo n="6"/>
+<div n="P1">{@ví@} 1) {%sehen%} (ohne Obj.); 2) {%kennen, erkennen%} [<ab>A.</ab>]; 3) {%strahlen;%} 4) {%erscheinen;%} 5) {%beachten;%} <lbinfo n="6"/> 6) desid. {%wahrzunehmen <lbinfo n="8"/> suchen.%}
+<div n="P1">{@sám@} 1) {%überschauen, überblicken;%} 2) {%zusammen <lbinfo n="6"/> erscheinen;%} 3) {%einmüthig sein.%}
+[Page448]
+<div n="H">Stamm {@I. cit@} [<ab>s.</ab> <ab>Part.</ab>]:
+<div n="P1">-té [3. <ab>s.</ab> <ab>med.</ab>] 7) rātís {969,4}.
+<div n="H"><ab>Imperf.</ab> (oder <ab>Aor.</ab>) {@acit, acait:@}
+<div n="P1">-ait [3. <ab>s.</ab>] 7) {485,7} (índras).
+<div n="H">Stamm {@II. céta:@}
+<div n="P1">-ati 2) jánmanas {562,2}. — 7) índras {652,28}; yás
+... somapā́tamas {632,1}.
+<div n="P1">-ante 8) kṛtā́ni
+... kártuā <lbinfo n="3"/> {759,2}.
+<div n="H">{@ceta@} [<ab>dass.</ab> unbetont]:
+<div n="P1">-ati 1) ártham {10,2}. — 2) yajñásya {128,4}; jaítrasya {818,2}. — 6) agnís {245,3}; todás {453,3} (neben adyaut). — 7) tád.. yahvám {633,20}; sárasvatī
+... ákavārī {612,3}; sómas.. <lbinfo n="5"/> pávamānas {774,10}; agnís.. ghṛ́ṇīvān {1002,3}.
+<div n="P1">-athas [2. d.] 1) sutā́nām {2,5}. — {@ánu@} 1) pathás {341,6}.
+<div n="P1">-atha [-athā] 6) naras (marutas) {413,3}.
+<div n="P1">-at [<ab>C.</ab>] {@ā́@} 5) vṛ́ṣaṇvatī eṣu {677,18}. — {@ví@} 1) andhás {164,16} (ná).
+<div n="P1">-atām [3. d. <ab>Impv.</ab>] 2) ápas {861,1}.
+<div n="H"><ab>Imperf.</ab> {@aceta:@}
+<div n="P1">-at 7) sárasvatī
+... śúcis yatī́ {611,2}.
+<div n="H">Stamm {@III. cikit,@} stark {@cíket:@}
+<div n="P1">-itas [2. <ab>s.</ab> <ab>C.</ab>] {@prá@} 2) tuám manīṣā́ {91,1}.
+<div n="P1">-iddhi [<ab>Impv.</ab>] 2) sumatím <lbinfo n="5"/> {234,3}; ṛtám {366,2}; vácasas {300,11}; {376,4}. — {@ā́@} 1) sumatím {355,10}; idám {854,4}. — {@prá@} 1) {659,3} (agne devéṣu).
+<div n="P1">-eta [cíketa 3. <ab>s.</ab> <ab>C.</ab> <ab>med.</ab> für cíket-ta] 2) suṣṭutīnáam <lbinfo n="6"/> {852,2}; rayīṇaam <lbinfo n="4"/> {814,4}.
+<div n="H">Stamm {@IV. cíketa:@}
+<div n="P1">-asi 3) hántave mṛ́dhas {131,6}.
+<div n="P1">-ati 2) nas {43,3}; nṛpā́yiam <lbinfo n="7"/> {646,14}. — 3) yudháye {864,3}; mádam {973,4}; pā́tram {82,4}.
+<div n="P1">-athas 1) vṛtrám {629,4}.
+<div n="P1">-at 2) rájasas {503,9}. — 4) tád {35,6}. — 5) īm (ótum) {450,3}; dā́tum {390,1}. — 7) agnís sáṃjñātarūpas {69,9}. — {@ā@} 4) átithis {558,4}.
+<div n="H">{@ciketa:@}
+<div n="P1">-ati 2) vásunas {621,31}; yuvós {427,6}. — 4) asyá {500,5}.
+<div n="P1">-am {@ā́@} 2) etád {854,5}.
+<div n="P1">-at {@ví@} 2) etád {152,2}.
+<div n="H"><ab>Perf.</ab> {@cikit,@} stark {@cikét@} [oft präsentisch, z. B. 4) habe erkannt = {%weiss, kenne;%} {5,6}) {%bin sichtbar%}]:
+<div n="P1">-eta [1. <ab>s.</ab>] 3) stómam {622,17}. — 4) dítsantam <lbinfo n="3"/> {205,10}; devásya {905,4}.
+<div n="P1">-éta [3. <ab>s.</ab>] 3) yád {881,6}. — 4) {419,1}; bhávantam <lbinfo n="6"/> {67,7}.
+<div n="P1">-eta [3. <ab>s.</ab>] 2) víśvāni {885,3}. — 4) {35,7}; tád {164,48}; niṇiā́ {572,4}. — 7) bíbhratī
+... mandrā́ <lbinfo n="4"/> {100,16}; kṛsṇáadhvā <lbinfo n="4"/>
+... raṇvás {195,6}. — 8) agnís citréṇa kármaṇā {659,5}. — {@ā́@} 1) manyúm {577,1}; ukthám {622,14}. — 2) niṇiám {95,4}; tád {152,3}; īm {164,16}. — 3) stómam {629,7}. — prá 1) vavrís {373,1} (vavrés). <lbinfo n="6"/>
+<div n="P1">-itus 3) apapitvám {287,24}. — {@prá@} 1) vásūni {527,3}.
+<div n="P1">-ité [3. <ab>s.</ab>] 4) ā́yus {539,2}.
+<div n="P1">-ite 6) sá (agnís) {195,5} (citréṇa bhāsā́); citrám <lbinfo n="4"/> {319,2}. — 7) vájras
+... hitás {51,7}. — {@vi@} 4) dakṣiṇā́, savyā́
+[Page449]
+{218,11} — passivisch: 1) sā́yakasya {287,23}. — 5) váyas {71,7} (jāmíbhis). <lbinfo n="8"/>
+<div n="P1">-itré [3. <ab>p.</ab>] {@prá@} 2) (marútas) <lbinfo n="6"/> mahinā́ [<ab>I.</ab>] {186,9}.
+<div n="P1">-itre 6) aktávas {829,4}; śríyas {917,5}. — {@ā́@} 4) raśmáyas {917,4}. — {@sám@} {856,6} (neben sám jānate).
+<div n="P1">-itrire {@ā́@} 5) náras daṃsánais <lbinfo n="6"/> {166,13}. — {@sám@} 2) {918,4. 10}.
+<div n="H">3. <ab>s.</ab> <ab>Aor.</ab> <ab>Med.</ab> {@áceti:@}
+<div n="P1">-i 6) {139,4} (es wurde hell); citrā́ (uṣā́s) {113,4}; ketús uṣásas {583,2}; divás duhitā́ {594,4}; agnís cikitús {1025,5}. — 7) índras
+... pátis {900,6}.
+<div n="H">{@aceti:@}
+<div n="P1">-i 7) etád tiád ná yójanam … {88,5}; etád tiád te indriyám … {468,4}.
+<div n="H">{@céti:@}
+<div n="P1">-i 7) tád vīríam {93,4}. — {@ví@} 4) amṛ́tasya várpas {312,14}.
+<div n="H">{@ceti:@}
+<div n="P1">-i 6) sū́ryasya raśmíbhis {92,12}. — 7) vām ávas {119,4}; vām yā́nam {339,6}. — {@ánu@} 3) pass.: agriyám vas {333,4}. — {@prá@} 1) vām vīríam {246,9}. — {@ví@} 2) pánthām {351,4}.
+<div n="H">Stamm des <ab>Intens.</ab> {@cékit@} (die Bedeutung fast unmerklich steigernd):
+<div n="P1">-ite [3. <ab>s.</ab> für -it-te] {@prá@} 2) yā́ mahimnā́ {502,13}.
+<div n="H">{@cekit:@}
+<div n="P1">-ite 7) vásu {53,3}; ráthas {119,3}; citrám vas yā́ma {225,10}. — {@áti prá:@} vīríeṇa {55,3}.
+<div n="H">Stamm I. des <ab>Caus.</ab> {@citáya:@}
+<div n="P1">-ema {@áti:@} anyā́n {332,9} (vā́jena).
+<div n="P1">-ante 7) yé (marútas) dūredṛ́śas {413,2}. — 8) usrā́s {171,5}.
+<div n="H">{@citaya:@}
+<div n="P1">-anti 2) acetásam {576,6}.
+<div n="P1">-at 1) yuvā́m {180,8}. — 7) (agnís) dyaús ná stṛ́bhis {193,5}.
+<div n="P1">-ema [-emā] {@áti:@} jánān bráhmaṇā {193,10}.
+<div n="P1">-anta [<ab>C.</ab> <ab>me.</ab>] vernehmen <lbinfo n="3"/> lassen, māyúm {921,3}. — 7) (marútas) dyā́vas ná stṛ́bhis {225,2}. — 1 a) bhojā́n rādhodéyāya <lbinfo n="9"/> {347,3}.
+<div n="H">Stamm II. des <ab>Caus.</ab> {@cetáya:@}
+<div n="P1">-adhvam 5) {287,11}.
+<div n="H">{@cetaya:@}
+<div n="P1">-ati {@prá@} 3) árṇas ketúnā {3,12}.
+<div n="P1">-at [<ab>C.</ab>] 2) mánuṣas {297,9}.
+<div n="P1">-ate {@prá@} 5) mádas {798,42}.
+<div n="P1">-ethām [2. d. <ab>Impv.</ab>] 5) aśvinā {629,10}.
+<div n="H"><ab>Imperf.</ab> {@ácetaya:@}
+<div n="P1">-at 2) acítas {602,7}. — 3) … dhíyas imā́s jaritré {268,5}.
+<div n="H"><ab>Aor.</ab> des <ab>Caus.</ab> {@acikita:@}
+<div n="P1">-at {@prá@} 4) sū́riam, yajñám, agním {596,2} uṣā́s.
+<div n="H">Stamm des <ab>Desid.</ab> {@cikitsa:@}
+<div n="P1">-āmas {@ā́:@} tvā (sómam) {700,3}.
+<div n="P1">-at [<ab>C.</ab>] {@ví:@} vām {312,10}.
+<div n="P1">-a [-ā] {@prá:@} jaritré pánthām <lbinfo n="4"/> {488,20}; ubháyebhyas <lbinfo n="7"/> {91,23}.
+[Page450]
+<div n="H"><ab>Part.</ab> {@citát@} [Stamm I.]:
+<div n="P1">-ántiā {129,7} hótrayā; in Versmass und Sinn passt besser cetáyantiā (erinnernd, aufmerksam <lbinfo n="3"/> machend).
+<div n="H">{@cítāna:@}
+<div n="P1">-ās 6) (sómāsas) {813,11}.
+<div n="H">{@cétat@} [Stamm II.]:
+<div n="P1">-ate 2) túbhyam {248,2} (aufmerkend).
+<div n="P1">-atas [<ab>G.</ab>] 2) mitrásya {301,4} (aufmerkend, Acht habend).
+<div n="P1">-antī 2) sumatīnáam {3,11}; rāyás, bhúvanasya <lbinfo n="3"/> {611,2}.
+<div n="H">{@cikitāná@} [Stamm III.]:
+<div n="P1">-a [V.] 2) aufmerkend marta {420,1}.
+<div n="P1">-as 1) sehend acíttān {252,2}.
+<div n="H">{@cékitat@} [Stamm des <ab>Intens.</ab>]:
+<div n="P1">-at [<ab>m.</ab>] 6) ráthas {823,3}.
+<div n="H">{@cékitāna@} [Stamm des <ab>Intens.</ab>]:
+<div n="P1">-a 6) babhro vṛṣabha {224,15} (rudra).
+<div n="P1">-as 6) agnís {239,1}; {263,7}. — 8) índras váyasā <lbinfo n="4"/> {477,5}. — {@ví@} 3) sū́rias raśmíbhis {310,2}.
+<div n="P1">-am 6) tvā {1009,1}, parallel <lbinfo n="6"/> dī́dhiānām.
+<div n="P1">-ā [<ab>f.</ab>] (uṣā́s) {113,15} (citrám <lbinfo n="4"/> ketúm kṛṇute); {310,3} (citrā́ raśmíbhis). <lbinfo n="6"/>
+<div n="H"><ab>Part.</ab> <ab>Perf.</ab> {@cikitvás,@} schwach {@cikitús:@}
+<div n="P1">-vas [V.] stets von Agni 1) (sehend) {357,9} (abhí cakṣase nas). — 2) ṛtám {366,2}; aufmerkend <lbinfo n="7"/> {70,6}. — 4) wissend {830,4}. — 5) dich auf den Opferdienst <lbinfo n="6"/> verstehend {251,5}; {259,1}; {263,16}; {356,7}; {197,8}. — 6) strahlend <lbinfo n="4"/> {357,7}; {446,3}.
+<div n="P1">-vā́n in deutlich perfectischer <lbinfo n="7"/> Bedeutung: 1) bemerkt habend, pṛśanías {71,5}; tám {125,1}; marútām {169,1}; in präsentischer Bedeutung: 2) aufmerkend, <lbinfo n="8"/> váruṇas {25,11}; índras {325,2}; {626,29}. — 4) wissend, kennend, weise, und zwar a) von Menschen: <lbinfo n="6"/> {308,1}; agním {72,4}; devasumatím {924,5}; b) von Indra: {278,2}; c) sonst stets von Agni: {71,7}; {145,1}; {299,8}; {301,12}; {356,5}; daíviāni vratā́ {70,2}; dūtíam {304,4}; daíviam jánam {493,12}; {664,9}; páruṣas {879,1}. — 5) sich aufs Opferwerk <lbinfo n="4"/> verstehend, von Agni: {251,2}; {838,2}; {924,2}; {936,1}. — 6) strahlend, glänzend, von Indra: {925,1}; sonst stets von Agni: {68,6}; {77,5}; {241,3. 9}; {263,3. 8}. — {@sam@} 1) von Agni als dem Boten zwischen beiden <lbinfo n="3"/> Welten {303,8}.
+<div n="P1">-vā́ṃsam 5) hótāram (agním) {303,5}.
+<div n="P1">-úṣā 4) verständig {502,13}.
+<div n="P1">-úṣe 2) aufmerkend {507,1}; asuríāya {312,2}; jánāya {620,12}; {710,15}. — 3) rāyé {395,11} (bhágāya); ráṇāya {482,4} (índrāya). <lbinfo n="7"/>
+<div n="P1">-úṣas [<ab>G.</ab>] 4) wissend śā́sus {73,1}.
+<div n="P1">-vā́ṃsas 4) weise {576,7}.
+<div n="P1">-úṣas [<ab>A.</ab> <ab>p.</ab>] 4) wissend, weise {602,3}; kavī́n {164,6}.
+<div n="P1">-úṣī [<ab>N.</ab> <ab>s.</ab> <ab>f.</ab>] 4) wissend, weise, ahám (vā́c) {951,3}.
+<div n="H"><ab>Part.</ab> des <ab>Caus.</ab> {@citáyat@} [Stamm I.]:
+<div n="P1">-an 6) rāyé {369,5}.
+<div n="P1">-antam 4) patarám {193,4} (akṣábhis). — 7) citrám (rayím) {447,7}.
+[Page451]
+<div n="P1">-at 5) bráhma {225,7}.
+<div n="P1">-antas 1) índram {131,2}. — 5) {33,6}; {94,4}. — 6) rāyé {442,2}. — 7) {373,2}.
+<div n="P1">-adbhis 7) arkaís {395,7}.
+<div n="P1">-antiā 7) kṛpā́ {456,5}.
+<div n="H"><ab>Part.</ab> des <ab>Caus.</ab> {@cetáyat@} [Stamm II.]:
+<div n="P1">-an {@pra@} 4) vā́cam {809,13}.
+<div n="P1">-antī 5) íḍā {936,8}.
+<div n="H"><ab>Part.</ab> des <ab>Desid.</ab> {@cíkitsat:@}
+<div n="P1">-antī mā́nuṣāya kṣáyāya {123,1}.
+<div n="H"><ab>Part.</ab> {@II. cittá:@}
+<div n="P1">-ás 1) sichtbar (sómas) {777,12}.
+<div n="P1">-ám [<ab>n.</ab>] Verstand {163,11}; {361,9}; {929,12}; Plan, Absicht {170,1}; {954,6}; {992,4}; {1017,3}.
+<div n="P1">-ā́ni tirás cittā́ni, unbemerkt <lbinfo n="7"/> {575,8}.
+<div n="H"><ab>Part.</ab> {@III. céttṛ@} (als <ab>Subst.</ab> <ab>s.</ab> bes.):
+<div n="P1">-ā 4) padám {22,5}.
+<div n="H"><ab>Part.</ab> {@IV. cétia:@}
+<div n="P1">-as 1) (wahrnehmbar) tuám {442,5} (bhūs).
+<div n="H">Verbale {@cít@}
+<div n="P">enthalten mit der Bedeutung wissend, worauf sinnend in a-, manaś-, vipaś-, huraś-cít, mit substantivischer Bedeutung (Verstand, die cít selbst in VS. <ab>u. s. w.</ab> hat) in sa-cít (<ab>vgl.</ab> sácetas), <lbinfo n="7"/> ā-cít, Achtsamkeit [von cit mit ā́], mit der Bedeutung „glänzend” zu Grunde liegend im Superl. cétiṣṭha.
+<LEND>

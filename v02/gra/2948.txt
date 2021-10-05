@@ -1,0 +1,38 @@
+<L>2948<pc>0393<k1>गा<k2>गा<h>2
+2. {@gā,@}¦ {%singen;%} 2) ein Lied [<ab>A.</ab>] {%singen;%} 3) jemandem <lbinfo n="6"/> [D.] {%singen%} (zu seinem Lobe); 4) jemandem ein Loblied [<ab>A.</ab>] {%singen;%} 5) jemanden <lbinfo n="6"/> [<ab>A.</ab>] {%besingen;%} 6) {%ertönen, schallen.%}
+<div n="P">Mit {@ácha,@} jemanden [<ab>A.</ab>] {%herbeisingen,%} d. h. ihn durch Singen herbeischaffen.
+<div n="P1">{@abhí,@} jemanden [<ab>A.</ab>] {%besingen,%} ihm zusingen. <lbinfo n="7"/>
+<div n="P1">{@ā́,@} <ab>dass.</ab>
+<div n="P1">{@úd,@} {%den Gesang anstimmen%} <lbinfo n="9"/> (<ab>s.</ab> udgātṛ́).
+<div n="P1">{@úpa,@} jemandem [<ab>A.</ab>, D., <ab>L.</ab>] {%zusingen,%} ihn {%besingen.%} <lbinfo n="9"/>
+<div n="P1">{@prá@} 1) {%anheben zu singen,%} <lbinfo n="6"/> oder 2) jemandem ein Lied zu {%singen%} oder 3) ihn zu {%besingen;%} <lbinfo n="9"/> 4) {%ertönen.%}
+<div n="P1">{@abhí prá,@} {%anheben%} jemand <lbinfo n="4"/> [<ab>A.</ab>] zu {%besingen.%} <lbinfo n="9"/>
+<div n="H">Stamm {@gā́ya:@}
+<div n="P1">-at [<ab>C.</ab>] 4) {167,6} gāthá, <lbinfo n="4"/> vas. — 6) sā́ma {173,1}.
+<div n="P1">-a 2) gāyatrám {38,14}. — 3) vedháse {457,22}; índrāya {653,4}. — {@abhí:@} pāvakā́n {640,19}.
+<div n="P1">-e [1. <ab>s.</ab> <ab>med.</ab>] 5) tvā {666,17}.
+<div n="H">{@gāya:@}
+<div n="P1">-asi 2) sā́ma {234,2}. — 4) práyas agnáye {639,22}.
+<div n="P1">-ati 2) gāyatrám {897,11}. — 3) áśvāya {701,25}.
+<div n="P1">-anti 5) tvā {10,1}.
+<div n="P1">-a 4) tád vas {486,22}. — {@abhí:@} vīrám {666,14}. — {@prá@} 1) {481,1}.
+<div n="P1">-ata 3) índrāya {4,10}; {5,4}; pávamānāya {798,44}. — 4) índrāya: sā́ma {707,1}; bṛhát {698,1}; stotrám {665,21}. — 5) tā́ (indrāgnī́) {21,2}. — {@abhí:@} índram {652,13}; punānám {817,1}. — {@úpa:@} pánye {652,17}; asmai {723,1}. — {@prá@} 1) {809,4}; sómāya {777,7}; mitrā́ya {422,1}; bráhmavāhase {486,4}; parjányāya {618,1}; agnáye {712,8}; punānā́ya <lbinfo n="5"/> {816,1}. — 2) mitrā́ya <lbinfo n="6"/> vácas {710,5}; śárdhāya bráhma {37,4}; índrāya mā́danam {547,1}; ugrā́ya bráhma <lbinfo n="3"/> {652,27}. — 3) índum {772,1}. — {@abhí prá:@} śárdhas mā́rutam <lbinfo n="3"/> {37,1}; índram {5,1}; {635,1}; {701,1}; vípram <lbinfo n="4"/> (sómam) {725,2}.
+<div n="H"><ab>Imperf.</ab> {@agāya:@}
+<div n="P1">-at {@úd@} {893,3}.
+<div n="H"><ab>Aor.</ab> {@gās:@}
+<div n="P1">-si [1. <ab>s.</ab> <ab>med.</ab>] {@ácha:@} agním {379,1}. — {@ā́:@} paśúm, <lbinfo n="4"/> pṛthivī́m <ab>u. s. w.</ab> {647,2}.
+<div n="H"><ab>Aor.</ab> {@agāsiṣ:@}
+<div n="P1">-ṣus {@prá@} 4) gāyatrā́s {621,7}.
+<div n="H">{@gāsiṣ:@}
+<div n="P1">-ṣat [Co.] {@úpa@} {690,5}.
+[Page394]
+<div n="H"><ab>Part.</ab> {@gā́yat:@}
+<div n="P1">-antas 1) {675,1}. — 5) índram {670,8}.
+<div n="H"><ab>Part.</ab> <ab>Pass.</ab> {@gīyámāna:@}
+<div n="P1">-am [<ab>n.</ab>] 2) gāyatrám {622,14}; sā́ma {690,5}.
+<div n="P1">-āsas 2) stómāsas {510,2}.
+<div n="H"><ab>Part.</ab> {@II. gīta:@}
+<div n="P1">-as {@abhí:@} índus {808,23}.
+<div n="H">Verbale {@gā́@}
+<div n="P">in sāma-gā́.
+<LEND>

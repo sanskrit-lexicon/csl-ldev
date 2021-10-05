@@ -1,0 +1,54 @@
+<L>7355<pc>1154<k1>रा<k2>रा<h>1
+1. {@rā,@}¦ 1) jemandem [D.] etwas [<ab>A.</ab>] {%geben, verleihen, <lbinfo n="7"/> schenken;%} insbesondere 2) den Göttern [D.] etwas [<ab>A.</ab>] {%geben, darbringen, weihen;%} 3) etw. [<ab>A.</ab>] {%geben, darreichen;%} 4) Wunsch <ab>od.</ab> Bitte [<ab>A.</ab>] {%gewähren;%} 5) {%gewähren%} <ab>od.</ab> {%geben,%} dass [<ab>Inf.</ab>]; 6) jemandem [D.] {%gewähren, zu Willen sein;%} auch 7) ohne <ab>Dat.</ab> {%willig sein;%} 8) den Göttern [D.] {%spenden, opfern;%} 10) jemandem [D.] etwas [<ab>A.</ab>] {%überlassen;%} 11) jemand, etwas [<ab>A.</ab>] einem Zustande [D.] oder einer Person [D.] {%überliefern, preisgeben.%}
+<div n="P">Mit {@sám@} 1) jemandem [D.] etwas [<ab>A.</ab>] {%gewähren, <lbinfo n="4"/> zutheilen;%} 2) {%gewähren, willig sein.%}
+<div n="H">Stamm {@I. rarā:@}
+<div n="P1">-īthās [2. <ab>s.</ab> Co.] 11) mā́ jásvane nas {485,11}.
+<div n="P1">-āthām [2. <ab>du.</ab>] 1) asmé rayím {117,23}.
+<div n="P1">-īdhvam 1) divás nas vṛṣṭím {437,6}.
+<div n="H">{@rirī@} (aus rarī assimilirt):
+<div n="P1">-īhi 1) rayím gṛṇaté {506,6}; rayím nas {723,9}; divás nas vṛṣṭím {924,10}; tā́s (gā́s) asmábhyam {995,3}. — 3) gā́s <ab>u. s. w.</ab> {480,5}. — 5) jiók nas sū́ryam dṛśáye … {803,6}. — {@sám@} 1) asmábhyam tád {487,8}.
+<div n="H">Stamm {@II. rára:@}
+<div n="P1">-ate 2) nā́satyābhyām cániṣṭham pitvás {431,4}; asmai sómam {651,2}.
+<div n="H"><ab>Perf.</ab> schwach {@rar:@}
+<div n="P1">-rimā́ (Prāt. 522) 8) te {248,5} (kā́mam); {622,1}; {266,2} = {269,1} = {397,3} (mádāya). — 9) {196,7}.
+<div n="P1">-ré [1. <ab>s.</ab>] 2) vas havyā́ {575,5}; vām stómam {615,6}. — 3) havyám {555,6}. — 11) ā́riam nā́ma dásyave {875,3}.
+<div n="P1">-riṣe 3) suáśviam {192,5}.
+<div n="P1">-rāthe [2. <ab>du.</ab>] 3) tárutram <lbinfo n="4"/> {513,5}.
+<div n="H">Aorist {@árā:@}
+<div n="P1">-ādhuam 1) yásmai śárma {667,7}. — 6) yásmai {575,4}; {166,12} (jánāya sukṛ́te).
+<div n="H">{@rā́:@}
+<div n="P1">-ā́si 1) kṣáyam, mitrám asmé, śárdhas mā́rutam <lbinfo n="3"/> nas {202,14}.
+<div n="P1">-āsi 1) asmé rayím {202,13}; stuvaté vā́jān {611,6}; gṛṇaté sumnám {445,8}; bheṣajā́ asmé {224,12}; ráthāya nā́vam <lbinfo n="3"/> {140,12}. — 3) sumatím <lbinfo n="5"/> {238,1}; gā́m áśvam <lbinfo n="4"/> {721,9}.
+<div n="P1">-ā́sva (-ā́svā, Prāt. {483,484}) 1) nas martabhójanam <lbinfo n="8"/> {114,6}; sumnám <lbinfo n="4"/> asmé {114,9}; asmábhyam sumatím {291,6}; rátnāni dāśúṣe {296,4}; nas dítim {298,11}; rayím nas {669,11}; nas havyádātim {833,7}. — 3) rāyás {624,16}; suvī́riam {755,6}; yáśas <lbinfo n="3"/> {773,26}; … vā́jā‿ utá vaṃsua {489,4}. — 6) stotré {669,6}. — 4) tád yád tuā‿ī́mahe {532,4}.
+<div n="P1">-āsva 1) nas vásu {247,7}; nas suvī́riam {367,5}; {707,12}; rā́dhas asmábhyam <lbinfo n="8"/> {595,4}; nas rayím {643,12}; tád nas mánma {307,2}. — 3) tád martabhójanam {597,5}. — 5) śatám nas … śarádas vicákṣe {218,10}.
+[Page1155]
+<div n="H"><ab>Aor.</ab> {@árās@} (unbetont {287,13}):
+<div n="P1">-sata [3. <ab>pl.</ab> <ab>me.</ab>] 1) yásmai rāyás póṣam {166,3}; nas rā́dhāṃsi {433,6}; yásmai … kṣáyam jīvā́tum <lbinfo n="3"/> ca {667,4}. — 2) bráhma índrāya {287,13}.
+<div n="H">{@rās:@}
+<div n="P1">-sāthām [2. <ab>du.</ab> Co.] 1) asmé íṣam {46,6}.
+<div n="P1">-sīya [1. <ab>s.</ab> Opt.] 11) stotā́ram <lbinfo n="6"/> pāpatvā́ya {548,18} (wo SV. die metrische <lbinfo n="4"/> Correctur raṃsiṣam <lbinfo n="3"/> hat, fehlerhaft); tvā abhíśastaye {639,26}.
+<div n="H"><ab>Aor.</ab> {@rāsa@} (betont {556,6}):
+<div n="P1">-at 1) nas śurúdhas {490,8}.
+<div n="P1">-an 1) nas vásūni {550,22}. — 3) yád rātiṣā́cas <lbinfo n="3"/> ca … {556,6}.
+<div n="P1">-ate [3. <ab>s.</ab>] 1) íṣam nas, dīrghám ā́yus {96,8}; martabhójanam nas {561,3}; vā́riā mártāya dāśúṣe {621,22}; tā́ni asmábhyam {351,8}. — 3) śurúdhas {948,1}.
+<div n="P1">-atām [3. <ab>s.</ab> <ab>Iv.</ab>] 1) nas dīrghám ā́yus {862,14}.
+<div n="P1">-antām 1) nas urugāyám <lbinfo n="3"/> {551,15}; {891,15}. — 6) nas {891,3} (maháye). <lbinfo n="6"/>
+<div n="H"><ab>Part.</ab> {@rárāṇa@} (von Stamm I.):
+<div n="P1">-as 1) máhyam etā́s (gā́s) {995,4}. — 3) vṛṣṭivánim <lbinfo n="3"/> {924,7}; prajā́m, rayím {1009,1} (ihá). — 7) {887,12}; (agnís) {235,22}; {297,5}; {298,10}; (tváṣṭā) {397,13}. — 9) (ahám) {395,8}. — 10) nas puroḍā́śam {464,7} (bodhi).
+<div n="P1">-ā [<ab>du.</ab>] 6) vṛktábarhise {887,15} (aśvínā). — 7) aśvínā {117,24}.
+<div n="P1">-ās [<ab>m.</ab>] 3) prajā́m, rayím <lbinfo n="3"/> {332,9} (ihá); passivisch <lbinfo n="7"/> śyétāsas {387,8}.
+<div n="P1">-ā [<ab>f.</ab>] 3) sahasrapoṣám {223,5}.
+<div n="H"><ab>Part.</ab> <ab>Perf.</ab> {@rarivás@} (<ab>vgl.</ab> á-rarivas):
+<div n="P1">-ā́n 7) (pūṣā́) {138,4}.
+<div n="H">{@rarāṇá:@}
+<div n="P1">-ás 7) (tváṣṭā) {238,9}. — sam 2) yamás {841,8}; nas pitúm ā́ bhara … ávikṣitam {652,8}.
+<div n="P1">-é [<ab>du.</ab> <ab>f.</ab>] {@sam@} 7) ródasī <lbinfo n="4"/> {511,6}.
+<div n="H"><ab>Part.</ab> {@II. rātá:@}
+<div n="P1">-ás 1) nidhís asmé {583,7}.
+<div n="P1">-ám [<ab>m.</ab>] 3) sutám {652,21}.
+<div n="P1">-ám [<ab>n.</ab>] 2) devébhyas tád {162,11}; havís túbhyam <lbinfo n="5"/> {942,7}.
+<div n="P1">-ásya 3) mádhvas {625,14}.
+<div n="P1">-ā́ni 2) índrāya sávanāni {131,1}.
+<div n="P1">-ā́ [<ab>n.</ab>] 2) túbhyam hávīṃṣi <lbinfo n="5"/> {269,7}.
+<div n="P1">-átamā [<ab>n.</ab>] 2) índrāya bráhmāṇi {61,1}.
+<LEND>

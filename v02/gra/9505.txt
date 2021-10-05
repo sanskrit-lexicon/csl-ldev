@@ -1,0 +1,103 @@
+<L>9505<pc>1495<k1>सह्<k2>सह्
+{@sah,@}¦ die ursprünglichere Form sagh hat die Bedeutung des gr.
+<lang n="greek">ἴσχον, ἴσχω</lang> <ab>u. s. w.</ab> bewahrt, während die Form sah an die Bedeutung des <ab>goth.</ab> sigis sich anschmiegt [<ab>vgl.</ab> <ab>Cu.</ab> 170; <ab>Fi.</ab> unter sagh]. 1) {%bewältigen, überwältigen%} [<ab>A.</ab>]; insbesondere 2) Feinde [<ab>A.</ab>] {%besiegen;%} 3) {%bewältigen, <lbinfo n="9"/> überwältigen%} (ohne Obj.); 4) {%siegen, siegreich sein;%} 5) {%erringen%} [<ab>A.</ab>]; 6) {%vermögen%} (etwas zu thun); Desiderativ {%zu bezwingen bereit sein%} [<ab>A.</ab>].
+<div n="P">Mit {@abhí@} 1) {%besiegen%} [<ab>A.</ab>]; 2) {%erringen%} [<ab>A.</ab>].
+<div n="P1">{@nís@} {%siegen,%} <ab>vgl.</ab> niṣ-ṣáh.
+<div n="P1">{@prá@} 1) {%bewältigen, besiegen%} <lbinfo n="8"/> [<ab>A.</ab>]; 2) {%siegen,%} <lbinfo n="6"/> <ab>vgl.</ab> prā-sáh.
+<div n="P1">{@abhí prá@} {%besiegen%} [<ab>A.</ab>].
+<div n="P1">{@ví@} {%siegen,%} <ab>vgl.</ab> vi-ṣāsahí. <lbinfo n="5"/>
+<div n="H">Stamm {@I. sáha:@}
+<div n="P1">-as 1) nábhas {174,8}.
+<div n="P1">-ante 1) sáhāṃsi {507,9} (sáhasā). — 4) {576,10} (apīśíena sáhasā).
+<div n="P1">-asva 2) pṛ́tanās {258,1}; rákṣas {264,16}; abhímātim <lbinfo n="5"/> {910,3}.
+<div n="H">{@saha:@}
+<div n="P1">-ate 2) índram {488,1} (ná kás cana āhavéṣu); <lbinfo n="4"/> pṛtanyatás {869,6}. — {@prá@} 1) ádevīs māyā́s {356,9}.
+<div n="P1">-ante 2) hástavantam {860,9} (ahastā́sas).
+<div n="P1">-asva 4) manyo {910,2}.
+<div n="P1">-āvahai 1) sapátnīm {971,5}.
+<div n="P1">-adhvam 2) tád (śatám sénās) {929,2}.
+[Page1496]
+<div n="H"><ab>Impf.</ab> {@ásaha:@}
+<div n="P1">-anta 2) dásyūn {263,9}.
+<div n="H"><ab>Perf.</ab> stark {@sāsā́h,@} schwach {@sāsah@} (P. sa-, Prāt. {569,587}):
+<div n="P1">-ā́ha [3. <ab>s.</ab>] 4) {379,6} (yudhā́ nṛ́bhis).
+<div n="P1">-āha [3. <ab>s.</ab>] 2) pṛtanyatás <lbinfo n="3"/> {695,5}.
+<div n="P1">-áhas [Co.] 4) {639,20} (samátsu).
+<div n="P1">-áhat 2) amítrān {474,1}; atríṇam {639,15}. — {@abhí@} 1) carṣaṇī́s {377,1}.
+<div n="P1">-ahyāt [Opt.] 2) dásyūn, nṝ́n {361,10}.
+<div n="P1">-ahyā́ma 2) pṛtanyatás {8,4}; {660,7}; {773,29}.
+<div n="P1">-ahyāma 2) pṛtanyatás {132,1}.
+<div n="P1">-ahīṣṭhā́s (Opt., Prec.) {@abhí@} 1) spṛ́dhas {486,18}.
+<div n="H"><ab>Perf.</ab> schwach {@sasāh@} (Pad. sasah, Prāt. {589,580}; {587,582}):
+<div n="P1">-hiṣe {@prá@} 1) śátrūn {1006,1}.
+<div n="P1">-hé [3. <ab>s.</ab>] 2) pṛ́tanās {930,10}.
+<div n="P1">-he 2) víśas ádevīs {705,15}.
+<div n="H"><ab>Perf.</ab> schwach {@seh@} (siehe <ab>Part.</ab>).
+<div n="H">Aorist {@sah:@}
+<div n="P1">-kṣi {@abhí prá@} jánān {387,2}.
+<div n="P1">-hyās [2. <ab>s.</ab> Opt. (Prec.)] 2) dā́sīs víśas {202,4}; {974,2}.
+<div n="P1">-hyās [3. <ab>s.</ab>] 4) asmā́kam bráhma pṛ́tanāsu … {152,7}.
+<div n="P1">-hyus 5) víśvam ā́yus {606,6} (pṛ́tanāsu).
+<div n="H">{@sā́h, sāh:@}
+<div n="P1">-āhyā́ma [Pad. -ahyā́ma Prat. 589] 2) dā́sam ā́riam {909,1}.
+<div n="P1">-ā́kṣva 4) abhímātiṣu {271,7}.
+<div n="H"><ab>Aor.</ab> {@asāks:@}
+<div n="P1">-ṣi [1. <ab>s.</ab> <ab>me.</ab>] {@abhí@} 2) pátim {985,1}.
+<div n="H">{@sā́kṣ@} (betont {614,4}):
+<div n="P1">-ṣāma 2) tā́n śā́śadānān {614,4}.
+<div n="P1">-ṣi [1. <ab>s.</ab> <ab>me.</ab>] 2) áyajvanas <lbinfo n="3"/> {875,1}.
+<div n="P1">-ṣate {@prá@} 1) pratimā́nāni <lbinfo n="4"/> {946,6}.
+<div n="H">{@sakṣ:@}
+<div n="P1">-at {@prá@} 1) māyínam {384,6} (māyā́bhis).
+<div n="H">{@ásahis:@}
+<div n="P1">-ṣṭa [3. <ab>s.</ab> <ab>me.</ab>] 1) ádevīs māyā́s {614,5}.
+<div n="H">{@sāhis@} (P. sahis, Prāt. 588):
+<div n="P1">-ṣīmáhi [Opt., Prec.] 1) dṛḍhā́ vīḍú cid {660,1}.
+<div n="H">Stamm des Desider. {@sī́kṣa:@}
+<div n="P1">-anta 1) manyúm aryás {576,11}.
+<div n="H"><ab>Part.</ab> {@sáhat:@}
+<div n="P1">-antam 3) rayím {377,1}. — 4) bhujyúm {666,20}.
+<div n="P1">-antā 6) (indrāgnī́) {660,1}.
+<div n="P1">-antas 4) (marútas) {441,5}.
+<div n="P1">-antī 4) sā́ víṭ {572,5}.
+<div n="H">{@sā́hat@} (Pad. sáhat, Prāt. 585):
+<div n="P1">-an 2) amítrān {514,2} (pṛtsú).
+<div n="H">{@sáhamāna:@}
+<div n="P1">-as 2) anyā́n {280,2}; abhímātīs {296,15}; pṛtanyū́n <lbinfo n="7"/> {822,12}. — 4) (índras) {929,5}. — {@nis@} (agnís) {127,3} (yamate). <lbinfo n="4"/>
+<div n="P1">-am 4) (índram) {459,1}.
+[Page1497]
+<div n="P1">-āya 4) índrāya {212,2}; rudrā́ya {562,1}.
+<div n="P1">-ās [<ab>m.</ab>] 3) te arcáyas {302,10}.
+<div n="P1">-ā [<ab>f.</ab>] 3) ahám {971,5}.
+<div n="P1">-ām 3) (óṣadhim) {971,6}.
+<div n="H"><ab>Part.</ab> des Doppelstammes {@sahasāná@} (siehe für sich).
+<div n="H"><ab>Part.</ab> <ab>Perf.</ab> {@sāsahvás@} (Pad. sa-, Prāt. 569):
+<div n="P1">-vā́n 2) śátrūn {822,12}.
+<div n="P1">-uā́n 2) amítrān {100,5}.
+<div n="P1">-vā́ṃsam 2) amítrān {636,10}. — 4) índram {666,16}.
+<div n="P1">-vā́ṃsas 2) amítrān {608,4} (yudhā́ nṛ́bhis).
+<div n="H">{@sāsahāná@} (Pad. sa-, Prāt. 569):
+<div n="P1">-ás 4) (índras) {131,4} (purás ava‿átiras).
+<div n="H">{@sehāná:@}
+<div n="P1">-ás 2) pṛ́tanās {656,1}. — {@abhí@} 1) pṛ́tanās drúhas <lbinfo n="3"/> {657,2}.
+<div n="P1">-āyās [<ab>G.</ab>] 4) máma {985,2}.
+<div n="H">{@sāhvás@} (Pad. sahvás, Prāt. {586,583}):
+<div n="P1">-vā́n 1) víśvā duritā́ni {528,2}. — 2) abhiyújas <lbinfo n="3"/> {245,6}; śátrūn {802,3}. — 3) váṃsagas {58,5} (yūthé áva vāti); śúṣmas <lbinfo n="4"/> {509,7}; krátus {317,2}. — 4) índras {211,6}; (índus) {817,6}. — {@abhí@} 1) víśvās spṛ́dhas {732,1}.
+<div n="P1">-vā́ṃsas 2) dásyum {753,2} (SV. unrichtig sāhyā́ma). <lbinfo n="8"/>
+<div n="H"><ab>Part.</ab> <ab>Aor.</ab> {@sákṣat:@}
+<div n="P1">-at [<ab>n.</ab>] {@pra@} 2) {308,1} (abhí astu).
+<div n="H">{@sahāná:@}
+<div n="P1">-ás {@pra@} 1) māyā́s {925,2}.
+<div n="H"><ab>Part.</ab> {@II. sāḍha@} (in á-ṣāḍha).
+<div n="H"><ab>Part.</ab> {@III. sā́ḍhṛ:@}
+<div n="P1">-ā 4) índras {572,23} (pṛ́tanāsu).
+<div n="H"><ab>Part.</ab> {@IV. sahya@} (in asahyá).
+<div n="H"><ab>Part.</ab> des <ab>Desid.</ab> {@sī́kṣat:@}
+<div n="P1">-antas avratám {455,3} (vrataís) neben tū́rvantas dásyum.
+<div n="H">Absolutiv {@sáhya:@}
+<div n="P1">-a {@vi@} índras maghā́ni dayate … {537,7}.
+<div n="H"><ab>Infin.</ab> {@sáhadhi:@}
+<div n="P1">-yai 1) víśvasmai sáhase … {442,1}. — 4) índram rā́jānām dadhire … {547,12}.
+<div n="H">Verbale {@sáh, sā́h:@}
+<div n="P">in Verbindung mit den Richtungswörtern nis, pra und ferner in nṛ-ṣáh, carṣaṇī-ṣáh, dyumnā-, <lbinfo n="5"/> dhanvā-, rathā-, vibhvā-, viśvā-, sadāsáh; <lbinfo n="4"/> vergl. sáhīyas, sáhiṣṭha, und das folgende.
+<LEND>

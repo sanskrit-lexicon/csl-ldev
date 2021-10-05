@@ -1,0 +1,41 @@
+<L>7661<pc>1212<k1>वप्<k2>वप्<h>2
+2. {@vap,@}¦ 1) Samen [<ab>A.</ab>] {%ausstreuen, hinwerfen;%} 2) bildlich Regen [<ab>A.</ab>] {%aussäen, ausstreuen;%} 3) {%hinwerfen%} [<ab>A.</ab>] auf [<ab>L.</ab>]; 4) {%säen%} o. Obj.
+<div n="P">Mit {@ádhi@} {%sich umwerfen, sich zum Schmucke anlegen%} [<ab>A.</ab>].
+<div n="P1">{@ánu@} pass. {%sich%} jemandem <lbinfo n="3"/> [<ab>A.</ab>] {%nachwerfen,%} d. h. ihm {%nachgehen, nacheilen.%}
+<div n="P1">{@ápa@} {%zerstreuen, verjagen%} <lbinfo n="5"/> [<ab>A.</ab>].
+<div n="P1">{@abhí@} {%bestreuen, bedecken%} <lbinfo n="8"/> [<ab>A.</ab>] mit [<ab>I.</ab>].
+<div n="P1">{@ā́@} Gut [<ab>A.</ab>] {%ausstreuen, vertheilen.%}
+<div n="P1">{@úd@} 1) jemand, etwas [<ab>A.</ab>] {%herausholen%} aus [Ab.]; 2) etwas [<ab>A.</ab>] {%herausholen, herausgraben;%} <lbinfo n="9"/> 3) jemandem [D.] etwas [<ab>A.</ab>] {%herausschütten, <lbinfo n="12"/> reichlich <lbinfo n="4"/> zutheilen.%}
+<div n="P1">{@ní@} 1) jemand [<ab>A.</ab>] {%zu Boden werfen;%} 2) Würfel [<ab>A.</ab>] {%niederwerfen.%} <lbinfo n="9"/>
+<div n="P1">{@nís@} {%herausschütten%} [<ab>A.</ab>].
+<div n="P1">{@prá@} {%ausstreuen, ausspritzen%} <lbinfo n="10"/> [<ab>A.</ab>].
+<div n="H">Stamm {@vápa:@}
+<div n="P1">-ati {@úd@} 3) vásu dāśúṣe {675,4}.
+<div n="P1">-anti 1) bī́jam {911,37} (yásyām manūṣíās). — 2) míham {627,4} (marútas). <lbinfo n="7"/>
+<div n="H">{@vapa:@}
+<div n="P1">-as {@ápa@} tā́n {705,9} (Pad. falsch vapa). — {@ní@} 1) kṛṣṇā́ sahásrā {312,13}.
+<div n="P1">-ata 1) bī́jam {927,3} (kṛté <lbinfo n="2"/> yónau).
+<div n="P1">-antu {@ní@} 1) anyám asmát <lbinfo n="4"/> {224,11} (te sénās). <lbinfo n="5"/>
+<div n="P1">-ate {164,44} (saṃvatsaré) <lbinfo n="3"/> [Sāy. zu 1. vap]. — {@ádhi@} péśāṃsi {92,4} (nṛtū́s iva).
+<div n="P1">-anta {@abhí@} mithás svapū́bhis <lbinfo n="7"/> {572,3}.
+<div n="H"><ab>Impf.</ab> {@ávapa@} (tonlos nur {899,5}):
+<div n="P1">-as {@apa@} yā́sām (yātumátīnām) <lbinfo n="8"/> tisrás {133,4}.
+<div n="P1">-at 3) sahásram (vīrā́n) bhū́myās upásthe {205,7}. — {@apa@} varcínas śatám sahásram {205,6}. — {@prá@} míhas tamrā́s <lbinfo n="4"/> {899,5}.
+<div n="H">Schwaches <ab>Perf.</ab> {@ūp:@}
+<div n="P1">-páthus {@úd@} 3) nidhím vandanāya {116,11}.
+<div n="P1">-pathus {@úd@} 1) vándanam <lbinfo n="3"/> ṛśyadā́t {865,8}. —
+[Page1213]
+2) híraṇyasya kaláśam <lbinfo n="3"/> níkhātam {117,12}. — 3) rukmám níkhātam <lbinfo n="3"/> vándanāya {117,5}.
+<div n="P1">-iṣe ā́ vásu víśvam {31,9}.
+<div n="P1">-e [3. <ab>s.</ab>] {@nís@} gā́s yávam <lbinfo n="3"/> iva sthivíbhyas {894,3}.
+<div n="H">Stamm des <ab>Pass.</ab> {@upyá:@}
+<div n="P1">-áte {@ánu@} {176,2} svadhā́ índram, yávam ná cárkṛṣat <lbinfo n="3"/> vṛ́ṣā.
+<div n="H"><ab>Part.</ab> {@vápat:@}
+<div n="P1">-antam {@pra@} arṇavám {941,3} (índum).
+<div n="P1">-antā 1) yávam vṛ́keṇa {117,21}.
+<div n="P1">-antas 1) bī́jam {920,13} (dhāniākṛ́tas).
+<div n="H"><ab>Part.</ab> {@II. upta:@}
+<div n="P1">-ās {@ní@} 2) akṣā́s {853,17}; babhrávas (akṣā́s) {860,5. 9}.
+<div n="H">Absolutiv {@úpya:@}
+<div n="P1">-ā {@abhi@} svapnéna … cúmurim dhúnim ca {206,9}.
+<LEND>

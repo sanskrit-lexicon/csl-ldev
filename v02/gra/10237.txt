@@ -1,0 +1,125 @@
+<L>10237<pc>1590<k1>स्तु<k2>स्तु
+{@stu,@}¦ 1) {%loben%} [<ab>A.</ab>]; namentlich 2) einen Gott oder seine Thaten <ab>u. s. w.</ab> {%loben, preisen;%} 3) einen Gott [<ab>A.</ab>] um etwas [D.] {%anrufen;%} 4) ein Lobgebet [<ab>A.</ab>] {%sprechen;%} 5) {%preisend verkünden%} mit wörtlicher durch íti abgeschlossener <lbinfo n="11"/> Rede; 6) etwas [<ab>A.</ab>] {%loben%} = {%gut finden, sich gefallen lassen;%} 7) {%lobpreisen%} ohne Object; 8) einer Sache oder Person [D., <ab>G.</ab> ?] {%Beifall geben;%} 9) einem Gotte [D.] {%Lob aussprechen, lobsingen;%} 10) {%Lob verdienen%} <lbinfo n="8"/> ({62,1}).
+<div n="P1">{@Mit ánu@} wie früher (pūrváthā) <lbinfo n="6"/> {%preisen%} [<ab>A.</ab>]; 2) {%preisen%} in ánuṣṭuti). <lbinfo n="4"/>
+<div n="P1">{@abhí@} {%preisen, besingen%} [<ab>A.</ab>].
+<div n="P1">{@úpa@} {%preisen%} [<ab>A.</ab>]; 2) {%anrufen%} in úpastut.
+<div n="P1">{@prá@} 1) {%preisen%} [<ab>A.</ab>]; 2) etwas [<ab>A.</ab>] (gutes, ruhmreiches) {%unternehmen;%} <lbinfo n="9"/> 3) {%Löbliches, Ruhmreiches unternehmen%} <lbinfo n="8"/> ohne Object. (<ab>Vgl.</ab><ab>BR.</ab> unter prá stu 3).
+<div n="H">Stamm I. {@stu:@}
+<div n="P1">-oṣi 6) adhvanas {848,4}.
+<div n="P1">-umási 2) tvā {974,1}. — 7) {464,5}.
+<div n="P1">-uvanti {@ánu@} asya mahimā́nam <lbinfo n="6"/> {623,8}; tád te {635,6}.
+<div n="P1">-aut 2) agním {558,6}.
+<div n="P1">-avatha [Co.] 2) tásya vṛ́ṣṇiāni {317,2}.
+<div n="P1">-avā [1. <ab>s.</ab>] 2) índram {915,1}; kṛtā́ni, vájram, hárī {202,6} (-ávā).
+<div n="P1">-avat 2) īm (índram) {488,15}; vām {500,4} (-ávat). <lbinfo n="5"/> — {@úpa@} vām {695,2}.
+<div n="P1">-ávāma 2) tvā {16,9}; índram <lbinfo n="4"/> {644,19}; {690,4}; {704,7}.
+<div n="P1">-avāma 2) te kṛtā́ni {202,6}; dadhikrā́m {335,1}; índram {317,4}; {671,12}; {704,6}; {705,6}. — {@abhí@} kám {709,3}.
+<div n="P1">-uhí 2) śrutám {224,11} (rudrám); {633,10} (índram); <lbinfo n="6"/> parjányam {437,1}; índram {644,22}; bhojā́n {407,16}; agním {712,10}. — 4) suṣṭutím {705,12}. — 7) {621,30}.
+<div n="P1">-uhi 2) índram {173,5}; {459,1} (tám) = {486,16}; {285,3} (abhimātihánam); <lbinfo n="5"/> agním {257,3}; {711,10}; rudrám {396,11}; aśvínā {646,10}. — 5) {407,3}. — {@abhí@} índram {54,2}. — {@úpa@} agním
+[Page1591]
+{12,7} ídram agním {136,6}; yógān agnés {199,1}; ratnadheyám, bṛ́haspátim {396,7}; pṛ́ṣadaśvān <lbinfo n="8"/> {396,15}; marútas <lbinfo n="5"/> {640,14}; daśamám <lbinfo n="3"/> návam {644,23}; vasudā́m {708,4}; savitā́ram <lbinfo n="6"/> ávase {22,6}.
+<div n="P1">-utam {@prá@} 3) {655,11} (aśvinā).
+<div n="P1">-autā (Prāt. 502) 2) índram <lbinfo n="4"/> {621,1}. — {@prá@} 1) índram {636,1}.
+<div n="P1">-uṣe [2. <ab>s.</ab> <ab>me.</ab>] 8) sá ca … maghónaam {919,9} (?).
+<div n="P1">-uvītá [3. <ab>s.</ab> Opt. <ab>me.</ab>] 7) in passivem Sinne impersonal {351,6}.
+<div n="P1">-uvīmahi prá 1) vām {642,6}.
+<div n="H"><ab>Imperf.</ab> {@astau:@}
+<div n="P1">-aut 7) dúrmitras {931,11}. — {@prá@} 4) ṛṣvaújas {931,6}; bṛ́haspátis {893,3} (neben agāyat).
+<div n="H">Stamm II. {@stáva:@}
+<div n="P1">-ase 8) nas {364,7}.
+<div n="P1">-ate 8) nas sákhā táva {215,1}.
+<div n="P1">-ate [passivisch] 2) vīrás <lbinfo n="3"/> sadā́vṛdhas {644,16}.
+<div n="P1">-āmahe 9) mīḍhúṣe, {666,17}.
+<div n="P1">-ante [passivisch] 1) tváyā <lbinfo n="2"/> vīrā́s {467,7}.
+<div n="P1">-e [3. <ab>s.</ab> pass.] 2) indras <lbinfo n="4"/> {848,2}; tád vām kṛtám {427,4} (viśvā vām ánu).
+<div n="P1">-anta [3. <ab>p.</ab> Co.] 8) yé te {546,4} (dádatas maghā́ni). <lbinfo n="8"/>
+<div n="P1">-ai [1. <ab>s.</ab> <ab>Iv.</ab>] 2) índram {266,14}. — 7) {765,2} (ábibhyuṣā hṛdā́). — 9) sahásradakṣiṇe {859,5}.
+<div n="H">{@stava:@}
+<div n="P1">-ase [passivisch] 2) indra <lbinfo n="3"/> {169,8}; {974,5} (arkaís). <lbinfo n="6"/>
+<div n="P1">-ate {@prá@} 2) tád víṣṇus … vīríeṇa {154,2}.
+<div n="P1">-ate [passivisch] 4) śáṃsas <lbinfo n="3"/> {178,4}.
+<div n="P1">-e [3. <ab>s.</ab> passivisch] 2) divás duhitā́ {92,7} (gótamebhis); <lbinfo n="10"/> agnís {453,4} (śūsaís); {528,2}; {941,7} (nṛ́bhis).
+<div n="P1">-ante 8) devā́s mánuṣāya <lbinfo n="4"/> {891,4}. — {@prá@} 3) pūrávas {461,10} (yajñaís). <lbinfo n="7"/>
+<div n="P1">-anta 8) te {318,7} (devī́s svásāras).
+<div n="P1">-eta [3. <ab>s.</ab> Opt. <ab>me.</ab>, passivisch] <lbinfo n="8"/> 2) agnís {372,1}.
+<div n="H">III.Doppelstamm {@stuṣa:@}
+<div n="P1">-ṣé [1. <ab>s.</ab>] 2) vām aśvinā {46,1}; vām (pṛthivi) {222,5}; jánam suvratám <lbinfo n="3"/> {490,1}; ṛtásya gopā́n <lbinfo n="4"/> {492,3}; gaṇám mā́rutam <lbinfo n="5"/> {412,1}; aśvínā {503,1}; {625,4}; agním {627,32}; {683,1}; {693,1}; índram {641,9}; asya paúṃsiam {672,3}. — 7) {674,5} (neben gṛṇīṣé). — 8) pajrā́ya sā́m(a)ne {624,17}. — 9) nṛ́tamāya <lbinfo n="2"/> {644,1}.
+<div n="P1">-ṣe 2) {122,8}; índram {211,4} (neben gṛṇīṣe); {462,2}; (pūṣáṇam) {489,14}; agním {643,2. 7}. — {@prá@} 1) dyā́vā pṛthivī́ {159,1}; aryás dā́nam {387,6}.
+<div n="P1">-ṣé [3. <ab>s.</ab>] 2) passivisch sā́ vām rātís {122,7}.
+<div n="H">Futur. {@staviṣyá:@}
+<div n="P1">-ā́mi 2) tuā́m {44,5}.
+<div n="P1">-ase [passivisch] 2) (indra) <lbinfo n="4"/> {679,14} (ṛ́ṣibhis).
+<div n="H"><ab>Perf.</ab> {@tuṣṭu:@}
+<div n="P1">-uvús 2) tvā́m {626,12}; tvā {626,18}.
+<div n="H">Aorist {@ástoṣ@} [betont nur {124,13}; {82,2}]:
+<div n="P1">-ṣi [1. <ab>s.</ab> <ab>m.</ab>] 2) marútas <lbinfo n="3"/> {122,1}; agním {659,1}; gaṇám (mā́rutam) {903,1}; vṛ́ṣṇas gárbham <lbinfo n="4"/> {395,10}.
+<div n="P1">-ṣṭa [3.s.] 2) passivisch:
+[Page1592]
+agnís {77,5} (víprebhis).
+<div n="P1">-ḍhuam 2) passivisch: uṣāsas {124,13}.
+<div n="P1">-ṣata [3. <ab>pl.</ab>] 7) víprās {82,2}.
+<div n="H">{@stoṣ:@}
+<div n="P1">-ṣam 2) pitúm {187,1}.
+<div n="P1">-ṣat 2) tvā {390,3}. — {@prá@} 3) {690,5}.
+<div n="P1">-ṣāma 2) tuā́m {53,11}; {941,8}. — úpa pūṣáṇam <lbinfo n="3"/> {496,4}; nárāśáṃsasya <lbinfo n="5"/> mahimā́nam {518,2}.
+<div n="P1">-ṣāni [1. <ab>s.</ab> <ab>Iv.</ab>] 2) agním {914,3}.
+<div n="H">{@átuṣṭava@} (oder Plusqu.):
+<div n="P1">-am 2) ródasī, índram {287,12}.
+<div n="H">{@tuṣṭáva@} (oder <ab>Conj.</ab>Perf.):
+<div n="P1">-at 3) vām sumnā́ya {628,16}.
+<div n="H"><ab>Aor.</ab>Med. (<ab>Pass.</ab>) {@ástāv@} (tonlos nur {464,10}):
+<div n="P1">-vi [3. <ab>s.</ab>] 2) agnís {141,13}; {871,12}; índras {464,10}; jánas diviás {889,17}. — 4) mánma {1021,9}.
+<div n="H">Stamm des <ab>Pass.</ab> {@stūya:@}
+<div n="P1">-ase 2) jātavedas {256,1}.
+<div n="H"><ab>Part.</ab> {@stuvát@} [von Stamm I.]:
+<div n="P1">-án 7) {347,7} (neben śáṃsan). <lbinfo n="5"/>
+<div n="P1">-ántam 7) {147,5}; {211,3}.
+<div n="P1">-até 7) {213,3}; {313,18}; {317,7. 9}; {604,6}; {611,6}; {627,35}; {697,3} (mā́vate); <lbinfo n="6"/> {872,10}; neben śáṃsate {396,7}; {503,5}; {672,12}; neben sun- vaté {621,22}; {1019,1}; pajriyā́ya {116,7}; kṛṣṇiyā́ya <lbinfo n="8"/> {116,23}; {117,7}; kīráye {464,3}; {613,10}; víprāya {694,5}. — 10) ṛgmiyā́ya (índrā́ -ya) {62,1}.
+<div n="P1">-atás [<ab>G.</ab>] 7) vásiṣṭhasya <lbinfo n="3"/> {549,5}; víprasya {639,12}; aśviásya {644,14}; jaritúr {694,4}; asya <lbinfo n="3"/> {407,16}; substantivisch: <lbinfo n="8"/> śáṃsam {33,7}; hávam {623,14}; avitā́ {633,26}; gṛhám {694,6}.
+<div n="P1">-ántas 7) náras {470,4} (neben śáṃsantas); (vayám) {316,10}; {623,14}.
+<div n="P1">-atás [<ab>A.</ab>] 7) mártān {534,18}.
+<div n="P1">-atā́m 7) asmā́kam {495,6}.
+<div n="H">{@stuvāná:@}
+<div n="P1">-ā́ [<ab>f.</ab>] pass. 2) sárasvatī {612,3} (neben gṛṇānā́).
+<div n="H">{@stávāna:@}
+<div n="P1">-a 2) pass. viśpate {274,3}.
+<div n="P1">-as 7) vamrás {51,9}; rebhás <lbinfo n="4"/> {113,17}.
+<div n="P1">-as [passivisch] 2) (agís) <lbinfo n="4"/> {12,11}; {31,8}; {307,2}; {364,7}; {449,7}; {643,5}; (índras) {130,10} (divodāsébhis); <lbinfo n="12"/> {491,6}; {644,3}; (rudrás) {224,11}; {552,5} (nṛ́bhis); índus {809,5} (nṛ́bhis).
+<div n="P1">-ā [<ab>du.</ab> <ab>m.</ab>, passivisch] 2) (índrāvíṣṇū) {351,4}.
+<div n="P1">-ās [<ab>m.</ab>, passivisch] 2) váruṇas mitrás agnís {578,3}.
+<div n="P1">-ebhis [passivisch] 2) devaís {169,8}.
+<div n="H">{@stavāná:@}
+<div n="P1">-ás [passivisch] 2) índras {487,2}.
+<div n="H">{@stávamāna@} [von Stamm II.]:
+<div n="P1">-a [passivisch] 2) agne {147,5}.
+<div n="P1">-as [passivisch] 2) (índras) <lbinfo n="5"/> {139,6}; {535,11}; {644,4}.
+<div n="P1">-ebhis (pass.) 4) arkaís {62,7}.
+<div n="H"><ab>Part.</ab> <ab>Perf.</ab> {@tuṣṭuvás:@}
+<div n="P1">-vā́ṃsas 4) (vayám) {89,8}; {219,2}; vásiṣṭhās {592,6}.
+<div n="H">{@tuṣṭuvāná:@}
+<div n="P1">-ā́s [<ab>m.</ab>, pass.] 2) devā́s {567,3}.
+[Page1593]
+<div n="H"><ab>Part.</ab> des <ab>Pass.</ab> {@stūyámāna:@}
+<div n="P1">-ās 2) devā́s {107,2}.
+<div n="H"><ab>Part.</ab> II. {@stutá@} (<ab>vgl.</ab> ari-ṣṭutá <ab>u. s. w.</ab>):
+<div n="P1">-ás 2) índras {177,1}; {313,19}; {317,1}; {876,2}; {82,3}; {171,3}; {312,21}; {325,1}; {328,8}; {387,1}; {465,2}; {539,6}; {634,4}; {926,1}; bṛ́haspátis {190,8}; rudrás {919,4}; {224,12}; agnís {239,9}; {252,4}; {364,7}; {524,5}; savitā́ {554,3}; índus {774,15}; rā́jā {887,16}.
+<div n="P1">-ásya 4) yádi … marutas <lbinfo n="3"/> adhīthá {572,15}.
+<div n="P1">-ā́s [<ab>m.</ab>] 2) (ṛbhávas) {333,7}; (marútas) {406,14}. — 4) mántrās {491,14}.
+<div n="P1">-ā́sas [<ab>m.</ab>] 2) víśve (devā́s) <lbinfo n="5"/> {491,15}; (devā́s) {650,2}; marútas {171,3}; {573,6. 7}.
+<div n="H">{@stuta:@}
+<div n="P1">-as {@abhí@} sómas {715,6}; {779,19. 20}; {739,1} (kavís). <lbinfo n="5"/> — {@úpa@} índras {543,3}; {922,5}.
+<div n="P1">-am {@úpa@} jánam {886,1}.
+<div n="P1">-au {@úpa@} (aśvínau) {181,7}.
+<div n="P1">-ā [<ab>du.</ab>] {@úpa@} aśvínā {430,2}; samrā́jā {136,1}.
+<div n="P1">-ās [<ab>m.</ab>] {@úpa@} ṛbhávas {110,5}.
+<div n="P1">-e [<ab>du.</ab> <ab>f.</ab>] {@abhí@} ródasī {555,7}. — {@úpa@} (dyā́vāpṛthivī́) <lbinfo n="11"/> {223,1}.
+<div n="H"><ab>Part.</ab> IV. {@stútya@} (<ab>s.</ab> upastútya):
+<div n="P1">-am [<ab>n.</ab>] {@upa@} váyas {136,2}.
+<div n="P1">-ā [<ab>f.</ab>] {@upa@} sárasvatī {502,13}.
+<div n="H"><ab>Inf.</ab> {@stavádhi:@}
+<div n="P1">-yai 2) (in passivem Sinne) {553,1. 8}.
+<div n="H">{@stótu:@}
+<div n="P1">-ave 2) (tvā) {624,17}; ambíam {681,5}.
+<div n="H">Verbale {@stút:@}
+<div n="P">in upa-, deva-, iṣaḥ-stút, und als selbständiges Nomen.
+<LEND>

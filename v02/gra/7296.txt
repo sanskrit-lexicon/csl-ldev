@@ -1,0 +1,55 @@
+<L>7296<pc>1144<k1>रन्<k2>रन्
+{@ran,@}¦ ({@raṇ@}) [mit ram verwandt], 1) {%sich%} an etwas [<ab>L.</ab>, {372,1}; {428,3}] <ab>od.</ab> <ab>I.</ab> ({171,1})] {%erlaben, gütlich thun,%} oder etwas [<ab>A.</ab>] {%gerne annehmen.%} 2) an jemand [<ab>L.</ab>] {%Gefallen finden, gerne bei ihm sein,%} auch mit dem <ab>L.</ab> hṛdí; 3) {%sich ergötzen.%} Das Causale und Intensiv zeigen dieselben Bedeutungen und ausserdem 4) jemand <lbinfo n="4"/> [<ab>A.</ab>] {%sich%} woran [<ab>L.</ab>] {%erlaben lassen;%} 5) wodurch [<ab>I.</ab>] {%erquicken.%}
+<div n="P">Mit {@ni@} <ab>Pass.</ab> {%ergötzt werden%} durch [<ab>I.</ab>].
+<div n="P1">{@ví@} {%aufhören%} <ab>vgl.</ab> á-viraṇa. <lbinfo n="5"/>
+<div n="H">Stamm {@1. ráṇa:@}
+<div n="P1">-anti 1) yátra (yásmin sā́man) {823,2}; yásmin (suté) {701,20}.
+<div n="P1">-an 1) ātithyé {329,7}; gā́vas ná yávase {407,16}; {851,1} (te sakhyé).
+<div n="P1">-ā (Pad. -a Prāt. {465,19}) {719,7} … yás asya dhármabhis; <lbinfo n="7"/> es scheint ráṇe (= ramate Sāy.) gelesen werden zu müssen.
+<div n="H">{@raṇa:@}
+<div n="P1">-anti 1) bradhnásya śā́sane <lbinfo n="4"/> {241,5}.
+<div n="P1">-at 1) suté sácā {702,20}.
+<div n="P1">-a 1) suté {405,8}; {632,17}; {633,9}.
+<div n="P1">-anta 1) kṛté {573,5}.
+<div n="H">Stamm {@II. ráṇya:@}
+<div n="P1">-asi 1) ukthé {632,18}.
+<div n="P1">-ati 1) havyā́ {372,1}; śāstré anyásya {653,16}; sávaneṣu {869,6}.
+<div n="P1">-anti 2) yásmin (índre) {636,2} (ukthā́ni).
+<div n="H">{@raṇya:@}
+<div n="P1">-ati 1) tásya (grāvṇás) abhipitvéṣu {83,6}. — 2) devéṣu {819,18} (sómas). <lbinfo n="5"/>
+<div n="P1">-athas 1) kásya bráhmāṇi <lbinfo n="4"/> {428,3}.
+<div n="P1">-anti 3) kúa {38,2} (vas gā́vas).
+<div n="H"><ab>Perf.</ab> {@rāran@} [Pad. raran]:
+<div n="P1">-ṇa [1. <ab>s.</ab>] 1) táva sakhyé {819,19}. — 3) ná‿ ahám … sákhyus vṛṣā́kapes ṛté {912,12}..
+<div n="H">{@rarāṇa:@}
+<div n="P1">-átā [2. <ab>p.</ab> Co.; auch Pad. hat ā], 1) vediā́bhis {171,1}. Nur versuchsweise ist diese seltsame Form hierhergestellt.
+<div n="H"><ab>Aor.</ab> {@arāṇis:@}
+<div n="P1">-ṣus 2) índre víśas {633,16}.
+<div n="H">{@ráṇis:@}
+<div n="P1">-ṣṭana 3) {227,3} (barhíṣi).
+<div n="H">Stamm des <ab>Pass.</ab> {@raṇyá:@}
+<div n="P1">-áthas {@ni@} yā́bhis {112,18}.
+[Page1145]
+<div n="H">Stamm des <ab>Caus.</ab> {@raṇáya:@}
+<div n="P1">-antu 2) asmé {469,1}.
+<div n="P1">-anta 1) sā́man {147,1}; asyām {291,2}; ṛtásya dhā́man {303,7}. — 5) sómais {974,3}.
+<div n="H">{@raṇaya:@}
+<div n="P1">-āmasi 4) tvā ukthéṣu {701,12} (gā́vas ná yávaseṣu <lbinfo n="6"/> ā́).
+<div n="P1">-an 4) tám śū́rasātau {100,7} (ūtáyas).
+<div n="P1">-ā 1) ukthéṣu {654,11}.
+<div n="P1">-anta 1) te sáṃdṛṣṭau {442,4}.
+<div n="H"><ab>Impf.</ab> des <ab>Caus.</ab> {@áraṇaya:@}
+<div n="P1">-an 1) sakhyé asya {914,2}.
+<div n="H">Stamm des Int. {@rārán, rāran@} [<ab>vgl.</ab> radh]:
+<div n="P1">-áṇas [Co.] 1) suté {652,6}.
+<div n="P1">-áṇat 1) sutéṣu sakhiéṣu ca {10,5}; sakhié táva {91,14}.
+<div n="P1">-án [3. <ab>s.</ab> Co.] 1) yéṣu (dyumnéṣu) {122,12} (vasútātis).
+<div n="P1">-andhí 1) sávaneṣu {275,4}. — 1) <ab>u.</ab> 2) nas hṛdí gā́vas ná yávaseṣu ā́ {91,13}. — 4) nas sū́riasya <lbinfo n="6"/> saṃdṛ́śi {885,5}.
+<div n="P1">-antu [3. <ab>s.</ab>] 2) te hṛdí {276,8}.
+<div n="H"><ab>Impf.</ab> des Int. {@arāran:@}
+<div n="P1">-ṇus 1) me abhipitvé {624,21} (Pad. araraṇus).
+<div n="H"><ab>Part.</ab> {@III. ráṇitṛ:@}
+<div n="P1">-ā 1) … yás sutéṣu {705,19}.
+<div n="H">Verbale {@rán@}
+<div n="P">siehe d. folg.
+<LEND>

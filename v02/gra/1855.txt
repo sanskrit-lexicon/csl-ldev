@@ -1,0 +1,30 @@
+<L>1855<pc>0244<k1>उक्ष्<k2>उक्ष्<h>1
+1. {@ukṣ@}¦ (vakṣ), träufeln, beträufeln, befeuchten. Es führt auf eine einfachere Form *uj, *vaj zurück, welche im griechischen
+<lang n="greek">ὑγ-ρό-ς</lang> im lateinischen ūveo (für ugveo) <ab>u. s. w.</ab> enthalten <lbinfo n="6"/> ist [<ab>Cu.</ab> 158]; 1) eine Flüssigkeit [<ab>A.</ab>] {%träufeln lassen, ausspritzen;%} 2) etwas [<ab>A.</ab>] womit [<ab>I.</ab>] {%beträufeln, besprengen,%} namentlich ghṛténa {157,2}; {578,5}; {580,4}; ghṛtaís {243,9}; {296,16}; {581,4}; {625,6}; {878,6}; páyasā {166,3}; {417,5}; síndhubhis {918,5}; 3) etwas [<ab>A.</ab>] womit [<ab>I.</ab>] {%salben%} oder {%schmücken,%} z. B. mit ánu und prá: śriyā́ {507,4}; vidyútā {396,14}; 4) intransitiv: <lbinfo n="10"/> {%träufeln%} (nur im Medium). Die Richtungswörter bewirken nur geringfügige Schattirungen der Bedeutung:
+<div n="P1">{@ánu@} 2) {%beträufeln%} [<ab>A.</ab>].
+<div n="P1">{@abhí@} 2) {%besprühen%} [<ab>A.</ab>].
+<div n="P1">{@ā́@} 2) {%beträufeln%} [<ab>A.</ab>].
+<div n="P1">{@prá@} 3) {%schmücken%} [<ab>A.</ab>]. mit [<ab>I.</ab>].
+<div n="P1">{@ví,@} 2) {%beträufeln%} [<ab>A.</ab>].
+<div n="P1">{@sám@} 1) {%ausgiessen%} [<ab>A.</ab>].
+<div n="H">Stamm {@ukṣá:@}
+<div n="P1">-ánti 2) rájāṃsi {166,3}.
+<div n="P1">-an {297,10}, wol verderbte <lbinfo n="6"/> Lesart.
+<div n="P1">-atam [2. d. <ab>Impv.</ab>] 2) kṣatrám {157,2} (bildlich); <lbinfo n="6"/> gávyūtím {625,6}; nas {417,5}. — {@ā́@} gávyūtim {296,16}; {578,5}; {581,4}.
+<div n="P1">-ata [-atā, 2. <ab>p.</ab>] 1) ghṛtám <lbinfo n="3"/> {87,2}.
+<div n="P1">-áte [3. <ab>s.</ab> <ab>med.</ab>] {@ví@} 2) víśvam {918,5}.
+<div n="P1">-ánte 3) áśvān {413,1}; {225,3} (átiān iva‿ ājíṣu).
+<div n="P1">-éthām [2. d. <ab>Impv.</ab>] 2) sukṣitī́s {580,4}.
+<div n="H"><ab>Imperf.</ab> {@aúkṣa-@} (tonlos in {916,7}):
+<div n="P1">-an 2) (barhís) {243,9}. — {@prá@} 3) {916,7} yajñám.
+<div n="H"><ab>Perf.</ab> {@vavakṣ@} [<ab>vgl.</ab> vakṣ]:
+<div n="P1">-kṣe {@abhi@} 2) ene {146,2} (ukṣā́ d. h. agnís).
+<div n="H"><ab>Part.</ab> {@ukṣámāṇa@} [<ab>vgl.</ab> 2. ukṣ]:
+<div n="P1">-as {@prá@} 3) ródasī {396,14}.
+<div n="P1">-am 4) sómam {811,5}.
+<div n="P1">-ās [<ab>m.</ab>] {@ánu@} 2) tanúam {507,4}.
+<div n="P1">-e [d. <ab>f.</ab>] 4) (dyā́vāpṛthivī́) <lbinfo n="7"/> {352,2}.
+<div n="P1">-ās [<ab>A.</ab> <ab>p.</ab> <ab>f.</ab>] 4) apás {338,4}.
+<div n="H"><ab>Part.</ab> II. {@ukṣita:@}
+<div n="P1">-am {@sám@} 1) sutám sómam {294,5}; ánnam {624,12} (tásya piba); -ānaam marútām stómais {410,5}.
+<LEND>

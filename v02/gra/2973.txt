@@ -1,0 +1,58 @@
+<L>2973<pc>0397<k1>गिर्<k2>गिर्<h>1
+1. {@gir,@}¦ {%preisen, ehren;%} der sinnliche Grundbegriff <lbinfo n="7"/> scheint „erhöhen, erheben” zu sein [<ab>vgl.</ab> giri, garútmat, gárta], nicht „tönen” oder „reden”, da nie in diesem transitiven Verb die Rede als das Object erscheint und viele Bedeutungen sich nur sehr gezwungen oder gar nicht an den Begriff des Anredens oder Beredens anknüpfen lassen. Es berührt sich also mit gur, welches den Begriffsübergang <lbinfo n="4"/> („erheben” zu „billigen” <ab>u. s. w.</ab>) nachweist, <lbinfo n="6"/> indem beide aus älterm *gar entsprungen <lbinfo n="8"/> sind. Am häufigsten steht es mit stu parallel. 1) jemand [<ab>A.</ab>] {%preisen, loben, erheben,%} namentlich die Götter, häufig mit dem Zusatze gīrbhís und ähnlichen; 2) ohne Object nur im Particip gṛṇát; 3) jemand [<ab>A.</ab>] {%rühmen%} als [<ab>A.</ab>], besonders in passiver Wendung, <lbinfo n="5"/> alsdann mit doppeltem Nominativ; 4) einen Gegenstand [<ab>A.</ab>] {%preisen, rühmen,%} namentlich Eigenschaften oder Thaten der Götter; 5) jemandem [D.] etwas [<ab>A.</ab>] {%anpreisen,%} <lbinfo n="10"/> z. B. den Göttern Opfergaben; 6) jemanden, etwas [<ab>A.</ab>] {%verherrlichen, erfreuen,%} oft mit dem <ab>Instr.</ab> (wodurch), <ab>vgl.</ab> 1; 7) jemand <lbinfo n="4"/> [<ab>A.</ab>] {%auffordern,%} etwas zu thun [<ab>Dat.</ab> des <ab>Inf.</ab>] ({680,15}); 8) einer Sache Anbetung (námas) {%weihen%} ({684,10}); 9) das <ab>Part.</ab> gṛnát oft substantivisch: {%Lobsänger.%}
+<div n="P">Mit {@ánu,@} {%loben%} (ohne Object).
+<div n="P1">{@abhí@} 1) jemanden [<ab>A.</ab>] {%preisen;%} 2) ohne Object; <lbinfo n="5"/> 3) etwas [<ab>A.</ab>] {%preisen, rühmen;%} 4) jemandem [D.] etwas [<ab>A.</ab>] {%anpreisen%} oder ihm {%genehm machen;%} 5) etwas [<ab>A.</ab>] {%wohlgefällig <lbinfo n="8"/> aufnehmen,%} z. B. Götter die Gaben, <lbinfo n="4"/> Gebete der Menschen <lbinfo n="5"/> (ursprünglich billigen, ehren); 6) jemanden [<ab>A.</ab>] oder etwas [<ab>A.</ab>] wodurch [<ab>I.</ab>] {%ehren%} oder {%belohnen,%} <lbinfo n="9"/> jemandem [<ab>A.</ab>] {%gewogen sein.%}
+<div n="P1">{@ā́,@} {%preisen%} [<ab>A.</ab>].
+<div n="P1">{@úpa,@} {%ehren, verehren%} [<ab>A.</ab>].
+<div n="P1">{@prá,@} jemandem [<ab>L.</ab>] etwas [<ab>A.</ab>] {%anpreisen.%}
+<div n="P1">{@práti@} 1) {%preisend begrüssen%} <lbinfo n="9"/> [<ab>A.</ab>]; 2) {%preisend <lbinfo n="4"/> antworten%} jemandem <lbinfo n="6"/> [D.].
+<div n="P1">{@ví,@} jemanden {%preisen%} als, im <ab>Pass.</ab> mit doppeltem Nominativ ({476,5}).
+<div n="P1">{@sám,@} {%sich%} auf Freundschaft <lbinfo n="6"/> (sakhyám) mit jemand [<ab>I.</ab>] {%einlassen,%} eigentlich sie billigen, genehmigen.
+<div n="H">Stamm {@gṛṇā́,@} schwach {@gṛṇī:@}
+<div n="P1">-āmi 1) tvā {616,5}.
+<div n="P1">-ā́ti {@abhí@} 5) savám {554,4}. — 6) gíras yukténa {381,3}; ukthā́ rā́dhasā {54,7}.
+<div n="P1">-āti 1) índram {542,5}; tuā́m {635,9}. — 4) nā́ma {48,4}. — {@ánu@} {147,2}.
+<div n="P1">-ītás [3. d.] {@abhí@} 5) yajñám {240,10}.
+<div n="P1">-īmási 4) nā́ma {224,8}.
+<div n="P1">-īmasi 1) tám (índram) {53,2}; rudrásya sūnúm {64,12}; sváyaśasam gīrbhís {918,14}. — 4) paúṃsiam {155,4}; {849,5}; nā́ma {910,5}. — 5) te mádam {635,4}. — 7) agním yótavaí {680,15}. — {@úpa@} (tā́n) {225,14}.
+[Page398]
+<div n="P1">-ánti 1) tvá {48,11}; gírvaṇasam <lbinfo n="7"/> {475,3}. — 4) dhíyas {14,2}; rātím {330,10}; vīríam gīrbhís {1023,1}. — 5) te gotrā́ {506,5}. — 8) námas ójase {684,10}. — {@abhí@} 1) tvā stómais {433,4}. — {@ā́:@} yám (savitā́ram) {554,3}; yám (jātávedasam) <lbinfo n="6"/> {832,5}; mahimā́nam <lbinfo n="6"/> gīrbhís {666,3}.
+<div n="P1">-anti 1) bṛbúm {486,33}; marútas {703,3}; índram <lbinfo n="4"/> ná {534,24}. — 4) tā́ni ukthébhis {268,7}; paúṃsiā {328,11}. — {@abhí@} 2) {234,1}. — 3) víśvā tā́ {875,11}. — 4) te ukthám, rā́dhas {100,17}. — 5) savám {554,4}. — 6) rā́dhas góbhis, áśvais {833,2}.
+<div n="P1">-īhí 1) śuṣmínam {711,12}.
+<div n="P1">-īhi 1) kāmínas girā́ {407,16}; índrāváruṇā śūṣaís {509,3}. — 6) daíviam <lbinfo n="4"/> jánam {796,1} (soma). — {@abhí@} 5) (stómān) {10,4}; yajñám {15,3}. — 6) stómān rā́dhasā {48,14}; deṣṇám <lbinfo n="4"/> śruṣṭī́ {200,4}. — {@práti@} 2) me {287,3}.
+<div n="P1">-ätu {@abhí@} 5) tád {965,5}. — 7) nas {395,19}.
+<div n="P1">-ītām [3. d.] {@abhí@} 5) {@tád@} {873,8}.
+<div n="P1">-īta [2. <ab>p.</ab>] {@abhí@} 5) yajñám <lbinfo n="4"/> {841,6}.
+<div n="P1">-e [1. <ab>s.</ab> <ab>med.</ab>] 1) tám ayā́ dhiyā́ {143,6}; tám ayā́ vācā́ {643,7}; tuā́m dhiyā́ {976,3}. — 6) agním samidhā́, girā́ {456,7}.
+<div n="P1">-īṣé [2. <ab>s.</ab> <ab>med.</ab> in passivem <lbinfo n="5"/> Sinne] 3) indra mahā́n <ab>u. s. w.</ab> {674,5}. — {@ví:@} agnís dúras {476,5}.
+<div n="P1">-īté [3. <ab>s.</ab> <ab>med.</ab> in passivem <lbinfo n="5"/> Sinne] 1) agnís śū́ṣais {395,10}.
+<div n="P1">-īte [<ab>dass.</ab>] 3) agnís hótā ukthías {79,12}.
+<div n="P1">-īte [<ab>dass.</ab> in medialem Sinne] {@sám:@} sakhyám ásunvatā {321,7}.
+<div n="P1">-é [3. <ab>s.</ab> in passivem Sinne] 3) yás vásus {360,2}; yás vṛtrahā́ {647,8}; {679,1}; yás sukrátus <lbinfo n="6"/> {653,5}. — 4) śávas {671,8}.
+<div n="P1">-e [<ab>dass.</ab>] 3) mahimā́ satyás {623,4}.
+<div n="P1">-anta 1) pū́rviam {623,7}.
+<div n="P">Präsent. <ab>Aor.</ab> {@gṛṇīṣá@} (aus dem Präsensstamme gebildet):
+<div n="P1">-é [1. <ab>s.</ab> <ab>med.</ab> im Sinne des Präs. <ab>Ind.</ab>, betont nur {485,4}] 1) tám (índram) {211,4}; áhim ukthaís {550,16}. — 3) agním trimūrdhā́nam <ab>u. s. w.</ab> {146,1}; agním átithim {186,3}; {948,1}; sátpatim dātā́ram {224,12}; śátrim upamā́m ketúm aryás {388,9}; índram áprahaṇam śávasas pátim {485,4}; agním ī́śānam vásvas {522,4}. — 6) bráhmaṇaspátim <lbinfo n="11"/> námasā, havírbhis {613,3}.
+<div n="H"><ab>Part.</ab> {@gṛṇát:@}
+<div n="P1">-ántam 2) vípram {325,4}. — 9) {58,8. 9}; {254,4}; {429,8}; {467,4}; {573,2}.
+<div n="P1">-até 2) bharádvāyāya {472,4}; mā́rutāya {507,9}. — 9) {44,6}; {58,9}; {94,9}; {113,17}; {293,5}; {307,2}; {320,1}; {447,7}; {452,3}; {480,1. 5}; {481,1}; {490,7}; {503,5. 11}; {506,6}; {552,9}; {593,4}; {781,10}; {801,6}; {856,12}; {875,1}; {913,11}; daneben sūribhyas {195,9}; {445,8}; sákhibhyas <lbinfo n="5"/> {264,15}; stotṛ́bhyas <lbinfo n="5"/> {519,10}.
+<div n="P1">-atás [<ab>G.</ab>] 2) víprasya {755,6}. — 9) stómam {295,1}; hávam {464,4}; {465,2}; varasyā́m {490,11}.
+<div n="P1">-ántas 1) agním {251,4}; tuā́m {362,4}. — 2) wir: {177,5} = {466,9} = {915,17} (ávasā); {306,4} (gīrbhís); <lbinfo n="6"/> {474,5}; {647,13} (dhiyā́); kaváyas {569,1}; víprāsas {594,2}; kārávas {741,2}; vásiṣṭhās <lbinfo n="7"/> {948,8}. — 4) śárdhas {509,8}. — 9) {312,3}; {325,5}; {576,1}; {623,13}; {625,27}; {930,4}. — {@prá:@} mitré dhā́ma {152,5}.
+[Page399]
+<div n="P1">-atás [<ab>A.</ab>] 2) karún {387,7}. — 9) daneben sūrī́n <lbinfo n="4"/> {941,5. 9}; maghónas {313,5}; {528,2}; {848,15}; stī́n {974,4}.
+<div n="P1">-ádbhias 9) {449,5}.
+<div n="P1">-atā́m 2) ṛ́ṣīṇam {485,13}; {915,16}. — 9) āpís {486,17}.
+<div n="P1">-átsu 9) daneben sūríṣu {440,6}; sūríbhyas {633,12}.
+<div n="H"><ab>Part.</ab> {@gṛṇāná@} (in medialem Sinne):
+<div n="P1">-ás 1) vām varivasyā́ {181,9}. — 5) (vas) rātím {572,18}.
+<div n="H">{@gṛṇāná@} (<ab>dass.</ab> in passivem Sinne):
+<div n="P1">-ás 1) von Agni: {35,10}; {189,6}; {358,9}; {370,5}; {457,10}; {524,5}; von Indra: {312,1. 21}; {313,18}; {458,1}; {459,14}; {473,2}; {477,4}; {480,5}; {491,6}; {702,10}; {964,4}; {973,5}; mit áṅgirobhis {62,5}; {206,8}; {312,8}; {937,4}; vom Soma: {809,49}; mit jamádagninā <lbinfo n="5"/> {774,24}. — 6) adbhís {887,26}; āṅgūṣébhis <lbinfo n="6"/> {325,1}; dhībhís {930,3}.
+<div n="P1">-ā́ [d.] 1) aśvínā {117,11}; {504,2}; {710,8} (jamádagninā); <lbinfo n="11"/> índrāváruṇā <lbinfo n="6"/> {509,8}; mitrā́váruṇā <lbinfo n="6"/> {296,18} (jamádagninā). <lbinfo n="9"/>
+<div n="P1">-ā́s [<ab>m.</ab>] 1) (hárayas) {284,3}; (ṛbhávas) {330,5}; marútas {413,8}; {409,10}; sómās {725,3}; {774,22}.
+<div n="P1">-ā́ [<ab>f.</ab>] 1) urváśī {395,19}; uṣā́s {591,5}; {595,4}; sárasvatī {612,3}.
+<div n="P1">-é [d. <ab>f.</ab>] 1) (dyā́vāpṛthivī́) <lbinfo n="7"/> {160,5}.
+<div n="H"><ab>Inf.</ab> des präsent. <ab>Aor.</ab> {@gṛṇīṣán:@}
+<div n="P1">-áṇi 1) devám-devam {632,19}; átithim {456,6}.
+<div n="H">Verbale {@gír@}
+<div n="P">in saṃ-gír und in dem <ab>Adj.</ab> und <ab>Subst.</ab> gír.
+<LEND>

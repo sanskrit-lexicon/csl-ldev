@@ -1,0 +1,31 @@
+<L>5080<pc>0747<k1>नुद्<k2>नुद्
+{@nud,@}¦ 1) {%fortstossen, wegtreiben%} [<ab>A.</ab>]; 2) jemand, <lbinfo n="5"/> etwas [<ab>A.</ab>] nach einer Richtung {%hinstossen,%} <lbinfo n="10"/> wobei die Richtung durch ein dem ersten <ab>Acc.</ab> zugeordnetes Adjectiv (ūrdhvám, jihmám, arvā́ñcam) ausgedrückt wird.
+<div n="P">Mit {@ápa@} {%hinwegstossen, verscheuchen%} [<ab>A.</ab>].
+<div n="P1">{@párā@} 1) {%fortstossen, zurücktreiben%} <lbinfo n="13"/> [<ab>A.</ab>]; 2) {%von der Stelle rücken%} [<ab>A.</ab>].
+<div n="P1">{@prá@} 1) {%fortstossen%} [<ab>A.</ab>]; 2) {%in Bewegung setzen%} [<ab>A.</ab>].
+<div n="P1">{@práti@} {%zurückstossen, abwehren%} <lbinfo n="8"/> [<ab>A.</ab>].
+<div n="P1">{@ví@} {%auseinandertreiben, vertreiben%} [<ab>A.</ab>].
+<div n="H">Stamm {@nudá:@}
+<div n="P1">-ata [2. <ab>pl.</ab> <ab>Impv.</ab>] 1) kapótam {991,5} (praṇódham). <lbinfo n="8"/>
+<div n="P1">-anta [3. <ab>pl.</ab> Co.] {@ápa@} rodasī́ {167,4}.
+<div n="P1">-ásva 1) yā́s parispṛ́dhas <lbinfo n="4"/> {765,1}; ádevayum <lbinfo n="3"/> jánam {775,24}.
+<div n="P1">-asva {@ápa@} mṛ́dhas {281,2}; tā́,462,7; amítrān {957,1}. — {@párā@} 1) amítrān <lbinfo n="6"/> {548,25}. — {@ví@} mṛ́dhas {910,2}; {1006,2}.
+<div n="P1">-éthām [2. <ab>du.</ab>] 1) atríṇas <lbinfo n="3"/> {620,1}.
+<div n="H"><ab>Impf.</ab> {@anuda:@}
+<div n="P1">-as {@ápa@} jánam amitrayántam <lbinfo n="6"/> {1006,3}.
+<div n="P1">-ethām [2. <ab>du.</ab> <ab>me.</ab>] {@párā@} 2) avatám {116,9}.
+<div n="H"><ab>Perf.</ab> {@nunud:@}
+<div n="P1">-dé (3.s.) 1) vívācas {268,10}.
+<div n="P1">-de 2) valám arvā́ñcam {634,8}. — {@párā@} 1) śárdhantam {534,16} (abhí kṣā́m). — {@prá@} 2) nā́kam {602,1}.
+<div n="P1">-dre 2) avatám ūrdhvám, jihmám {85,10. 11}; utsadhím ūrdhvám {88,4} (píbadhyai).
+<div n="H"><ab>Aor.</ab> {@nud:@}
+<div n="P">-tthás [2. <ab>s.</ab> Co. <ab>me.</ab>] 1) ácyutam {458,5} (sádasas pári svā́t).
+<div n="H"><ab>Part.</ab> {@nudát:@}
+<div n="P1">-án {@prati@} manyúm páreṣām {954,6}.
+<div n="H"><ab>Part.</ab> II. {@nutta@}
+<div n="P">enthalten in ánutta.
+<div n="H"><ab>Inf.</ab> {@nóda:@}
+<div n="P1">-am pra (praṇódam) 1) (kapótam) {991,5}.
+<div n="H">Verbale {@núd@} als <ab>Inf.</ab>:
+<div n="P1">-úde {@parā@} 1) in aktivem Sinne {39,2} sthirā́ vas santu ā́yudhā parāṇúde. — 2) in passivem Sinne sthirā́ṇi ná {634,9}.
+<LEND>
