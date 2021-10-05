@@ -1,8 +1,8 @@
 # This Python file uses the following encoding: utf-8
 """
 Usage:
-python lnum_to_csldevanagari.py dictId lnum
-python lnum_to_csldevanagari.py skd 15140
+python ldev_to_csldevanagari.py dictId lnum
+python ldev_to_csldevanagari.py skd 15140
 """
 from __future__ import print_function
 import re
