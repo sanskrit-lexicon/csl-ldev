@@ -1,0 +1,8 @@
+<L>1116<pc>039<k1>arrow<k2>arrow
+<div n="lb"/>{@ARROW:@}¦ <div n="1">(1) {#शरः;#} </div><div n="1">(2) {#बाणः;#} </div><div n="1">(3) {#इषुः;#} </div><div n="1">(4)
+<div n="lb"/>{#सायकः#} <div n="xe">{%or%}</div> <div n="xs">{#शायकः;#}</div> </div><div n="1">(5) {#मार्गणः;#} </div><div n="1">(6) {#शिलीमुखः;#}</div>
+<div n="lb"/><div n="1">(7) {#आशुगः;#} </div><div n="1">(8) {#पत्री;#} </div><div n="1">(9) {#पृषत्कः;#} </div><div n="1">(10) {#विशिखः#}
+<div n="lb"/><div n="xe">{%A shower of a. s%}</div> <div n="xs">{#शरवर्षः।#}</div> {%To discharge, shoot a. s%}
+<div n="lb"/>{#शरं निरस्यति#} ({#अस्,#} c. 4), {#क्षिपति#} ({#क्षिप्,#} c. 6),
+<div n="lb"/>Ki.</div>
+<LEND>

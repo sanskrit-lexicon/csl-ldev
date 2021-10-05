@@ -1,0 +1,3 @@
+<L>16054<pc>494<k1>outdoor<k2>outdoor
+<div n="lb"/>{@OUTDOOR:@}¦ Ph.: <div n="xe">{%o. exercise:%}</div> <div n="xs">{#प्रकाशव्यायामः#}</div> (?).
+<LEND>

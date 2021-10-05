@@ -1,0 +1,5 @@
+<L>20949<pc>659<k1>solar<k2>solar
+<div n="lb"/>{@SOLAR:@}¦ <div n="1">(1) by comp., <div n="xe">{%s. dynasty:%}</div> <div n="xs">{#सूर्यवंशः;#}</div>
+<div n="lb"/><div n="xe">{%s. day:%}</div> <div n="xs">{#सूर्याहः,#}</div> Gan.; <div n="xe">{%s. rays:%}</div> <div n="xs">{#अर्ककिरणाः,#}</div> Vi.;</div>
+<div n="lb"/><div n="1">(2) {#सौर#} (f. {#री#}); </div><div n="1">(3) {#सावन#} (f. {#नी#}).</div>
+<LEND>

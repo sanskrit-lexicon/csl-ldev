@@ -1,0 +1,7 @@
+<L>22860<pc>721<k1>triangle<k2>triangle
+<div n="lb"/>{@TRIANGLE:@}¦ <div n="1">(1) {#त्रिभुजम्,#} <div n="xe">{%right-angled t.:%}</div> <div n="xs">{#कोटिमत्#}</div>
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#ऋजुभुजं त्रिभुजम्,#}</div> Li. 125. ({#समकोणत्रिभुजम्#}),
+<div n="lb"/>K. d.; <div n="xe">{%acute-a. t.:%}</div> <div n="xs">{#अन्तर्लम्बं त्रिभुजम्;#}</div> <div n="xe">{%obtuse-a.%}
+<div n="lb"/>{%t.:%}</div> <div n="xs">{#बहिर्लम्बं त्रिभुजम्;#}</div> <div n="xe">{%base of a t.:%}</div> <div n="xs">{#भुः, भूमिः, #}
+<div n="lb"/>{# क्ष्मा,#}</div> etc.; </div><div n="1">(2) {#त्र्यस्रम्;#} </div><div n="1">(3) {#त्रिबाहुकम्।#}</div>
+<LEND>

@@ -1,0 +1,8 @@
+<L>5038<pc>162<k1>creature<k2>creature
+<div n="lb"/>{@CREATURE;@}¦ <div n="I">I A created being: {#सृष्टपदार्थः।#}
+<div n="lb"/><div n="xe">{%Living c.:%}</div> <div n="xs">{#प्राणिन्#}</div> (m.).: v. Animal. </div><div n="I">II A
+<div n="lb"/>term of contempt: {#जन्तुः।#} </div><div n="I">III A term of
+<div n="lb"/>endearment: {#जातः#} ({#ता, तं#}), D. </div><div n="I">IV A tool,
+<div n="lb"/>dependant: q. v.: {#आश्रितः#} ({#ता, तं#}). Ph.:
+<div n="lb"/><div n="xe">{%being my c.:%}</div> <div n="xs">{#मत्तो लब्धोदयः#}</div> ({#या, यं#}), M. n.</div>
+<LEND>

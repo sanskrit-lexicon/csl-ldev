@@ -1,0 +1,9 @@
+<L>3071<pc>103<k1>card<k2>card
+<div n="lb"/>{@CARD@}¦ (subs.): <div n="I">I A playing c.: {#*तासम्,#} <div n="xe">{%to play%}
+<div n="lb"/>{%with c. s%}</div> <div n="xs">{#*तासैः क्रीडति;#}</div> <div n="xe">{%knave of c. s:%}</div> <div n="xs">{#*दासः,#}</div>
+<div n="lb"/>{%Diamond, heart, club and spade%} ({%of cards%}) {#*रक्तं, #}
+<div n="lb"/>{# पीतं, श्यामं, कृष्णम्।#} </div><div n="I">II A visiting c. {#*नामपत्रम्।#}</div>
+<div n="lb"/><div n="I">III A paper on which the points of a
+<div n="lb"/>compass are marked: {#*दिग्भागपत्रम्।#} </div><div n="I">IV An
+<div n="lb"/>instrument for combing wool: {#उर्णामार्जनी।#}</div>
+<LEND>

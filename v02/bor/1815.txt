@@ -1,0 +1,4 @@
+<L>1815<pc>063<k1>beef<k2>beef
+<div n="lb"/>{@BEEF.@}¦ {#गोमांसम्।#} <div n="xe">{%Roast b.%}</div> <div n="xs">{#*शूल्यगोमांसम्,#}</div> {%Salt b.%}
+<div n="lb"/>{#*लावणगोमांसम्।#} <div n="xe">{%A b. -steak%}</div> <div n="xs">{#भृष्टगोमांसखण्डम्।#}</div>
+<LEND>

@@ -1,0 +1,5 @@
+<L>23028<pc>725<k1>twenty<k2>twenty
+<div n="lb"/>{@TWENTY:@}¦ {#विंशतिः,#} <div n="xe">{%with t. arrows:%}</div> <div n="xs">{#विंशत्या शरैः;#}</div>
+<div n="lb"/><div n="xe">{%three hundred and t.:%}</div> <div n="xs">{#शतत्रयं विंशतिश्च,#}</div> Li. {%or%}
+<div n="lb"/>gen.: {#विंशत्यधिकत्रिशतम्,#} Mah.
+<LEND>

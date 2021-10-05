@@ -1,0 +1,6 @@
+<L>16694<pc>512<k1>penance<k2>penance
+<div n="lb"/>{@PENANCE:@}¦ <div n="I">I Voluntary: </div><div n="1">(1) {#तपस्#} (n.), <div n="xe">{%to%}
+<div n="lb"/>{%perform p.s:%}</div> <div n="xs">{#तपस्तप्तुम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#चरितुम्;#}</div> </div><div n="1">(2) {#तपस्या।#}</div>
+<div n="lb"/><div n="I">II Imposed: {#प्रायश्चित्तम्,#} <div n="xe">{%to do p.:%}</div> <div n="xs">{#प्रायश्वित्तं #}
+<div n="lb"/>{# करोति।#}</div></div>
+<LEND>

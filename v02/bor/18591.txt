@@ -1,0 +1,8 @@
+<L>18591<pc>572<k1>rate<k2>rate
+<div n="lb"/>{@RATE@}¦ (subs.): <div n="I">I Price, value: q. v.: {#मूल्यम्।#}
+<div n="lb"/>Ph.: <div n="xe">{%market r.:%}</div> <div n="xs">{#आपणिकः;#}</div> <div n="xe">{%r. s.:%}</div> <div n="xs">{#अर्थबलाबलम्,#}</div>
+<div n="lb"/><ls>M.</ls> </div><div n="I">II. Tax: q. v.: {#करः।#} </div><div n="I">III Of interest:
+<div n="lb"/>expr. by circumlo.: v. Interest. </div><div n="I">IV Of
+<div n="lb"/>velocity: {#वेगः।#} Ph.: <div n="xe">{%at any r.:%}</div> <div n="xs">{#अन्ततः,#}</div> Da.
+<div n="lb"/>com.</div>
+<LEND>

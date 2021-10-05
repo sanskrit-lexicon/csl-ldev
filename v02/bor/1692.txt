@@ -1,0 +1,6 @@
+<L>1692<pc>058<k1>bath<k2>bath
+<div n="lb"/>{@BATH:@}¦ <div n="I">I A receptacle for bathing: {#*स्नान-#}
+<div n="lb"/>{# पात्रम्,#} <div n="xe">{%is the b. ready%}</div> <div n="xs">{#*अपि प्रस्तुतं स्नानपात्रम्।#}</div> </div><div n="I">II
+<div n="lb"/>Public b. s: {#स्नानशाला।#} Ph.: <div n="xe">{%to take a cold%}
+<div n="lb"/>{%shower b.%}</div> <div n="xs">{#*शीतलासारोदकैः स्नाति#}</div> ({#स्ना,#} c. 2).</div>
+<LEND>

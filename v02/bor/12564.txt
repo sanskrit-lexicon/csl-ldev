@@ -1,0 +1,4 @@
+<L>12564<pc>390<k1>intestate<k2>intestate
+<div n="lb"/>{@INTESTATE:@}¦ <div n="xe">{%he died i.:%}</div> <div n="xs">{#*इच्छापत्रमकृत्वा ममार;#}</div> <div n="xe">{%this%}
+<div n="lb"/>{%estate is i.:%}</div> <div n="xs">{#*एतत्सम्पत्तिविषयकमिच्छापत्रं न कृतम्।#}</div>
+<LEND>

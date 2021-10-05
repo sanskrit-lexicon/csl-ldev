@@ -1,0 +1,4 @@
+<L>21404<pc>674<k1>statistics<k2>statistics
+<div n="lb"/>{@STATISTICS:@}¦ {#*संख्यानम्,#} <div n="xe">{%s. of crime:%}</div> <div n="xs">{#अपराधसंख्यानम्#}</div>
+<div n="lb"/>(?).
+<LEND>

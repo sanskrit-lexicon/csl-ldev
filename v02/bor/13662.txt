@@ -1,0 +1,5 @@
+<L>13662<pc>420<k1>literary<k2>literary
+<div n="lb"/>{@LITERARY:@}¦ <div n="xe">{%L. conversation:%}</div> <div n="xs">{#शास्त्रालापः;#}</div> <div n="xe">{%l. his-%}
+<div n="lb"/>{%tory:%}</div> <div n="xs">{#*शास्त्राणामितिहासः;#}</div> <div n="xe">{%l. man:%}</div> <div n="xs">{#पण्डितः;#}</div> <div n="xe">{%l.%}
+<div n="lb"/>{%fame:%}</div> <div n="xs">{#पाण्डित्ययशस्;#}</div> etc.
+<LEND>

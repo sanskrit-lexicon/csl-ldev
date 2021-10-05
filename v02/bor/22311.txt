@@ -1,0 +1,4 @@
+<L>22311<pc>703<k1>tenancy<k2>tenancy
+<div n="lb"/>{@TENANCY:@}¦ {#भूम्यधिवासित्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#गृहाधिवासित्वम्#}</div> (?),
+<div n="lb"/><div n="xe">{%a right of t.:%}</div> <div n="xs">{#भूम्यधिवासाधिकारः#}</div> (?).
+<LEND>

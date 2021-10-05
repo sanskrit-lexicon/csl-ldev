@@ -1,0 +1,6 @@
+<L>10210<pc>322<k1>grass<k2>grass
+<div n="lb"/>{@GRASS:@}¦ {#तृणम्।#} {%young g.:%} <div n="1">(1) {#बालतृणम्;#} </div><div n="1">(2) {#शष्पम्;#}</div>
+<div n="lb"/><div n="1">(3) {#शादः।#} {%Meadow g.:%} </div><div n="1">(1) {#घासः;#} </div><div n="1">(2) {#यवसः।#}
+<div n="lb"/>{%The ‘Sacrificial g.’:%} </div><div n="1">(1) {#कुश#} (mn.); </div><div n="1">(2) {#दर्भः।#}
+<div n="lb"/><div n="xe">{%The Dūrvā g.:%}</div> <div n="xs">{#दूर्वा।#}</div></div>
+<LEND>

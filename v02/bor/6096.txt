@@ -1,0 +1,5 @@
+<L>6096<pc>196<k1>dialogue<k2>dialogue
+<div n="lb"/>{@DIALOGUE:@}¦ <div n="I">I Conversation: q. v.: {#कथोप-#}
+<div n="lb"/>{#कथनम्।#} </div><div n="I">II Conversational composition:</div>
+<div n="lb"/><div n="1">(1) {#प्रश्नोत्तरमय्युक्तिः,#} Raj.; </div><div n="1">(2) {#प्रश्नोत्तरमयः प्रबन्धः।#}</div>
+<LEND>

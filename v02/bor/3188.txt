@@ -1,0 +1,8 @@
+<L>3188<pc>106<k1>caste<k2>caste
+<div n="lb"/>{@CASTE:@}¦ <div n="1">(1) {#वर्णः,#} <div n="xe">{%of the same c.%}</div> <div n="xs">{#सवर्णः#}</div> ({#र्णा, र्णं#})
+<div n="lb"/><div n="xe">{%low c.%}</div> <div n="xs">{#हीनवर्णः,#}</div> <div n="xe">{%high c.%}</div> <div n="xs">{#उत्तमवर्णः,#}</div> Da.; {%mixed c.%}
+<div n="lb"/>{#वर्णसङ्करः#} (m.): </div><div n="1">(2) {#जातिः,#} <div n="xe">{%of high c.%}</div> <div n="xs">{#उत्कृष्टजातीयः#}</div>
+<div n="lb"/>({#या, यं#}), K. b.; <div n="xe">{%low c.%}</div> <div n="xs">{#निकृष्टजातिः,#}</div> D.; <div n="xe">{%voice%}
+<div n="lb"/>{%of c.%}</div> <div n="xs">{#जातिहीनः#}</div> ({#ना, नं#}), Ki. Ph. {%a low c. man%}
+<div n="lb"/>{#अन्त्यजः,#} M.</div>
+<LEND>

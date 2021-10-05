@@ -1,0 +1,5 @@
+<L>16607<pc>510<k1>pay for<k2>pay for
+<div n="lb"/>{@PAY FOR:@}¦ Ph.: <div n="xe">{%I have paid f. it:%}</div> <div n="xs">{#अस्य भूल्यं #}
+<div n="lb"/>{# मया दत्तम्;#}</div> <div n="xe">{%you will p. your life f. it:%}</div> <div n="xs">{#*एतन्निमित्तं #}
+<div n="lb"/>{# जीवनं हारयसि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#जीवनदानेनास्य निष्कृतिं गमिष्यसि।#}</div>
+<LEND>

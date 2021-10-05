@@ -1,0 +1,6 @@
+<L>20986<pc>660<k1>solvent<k2>solvent
+<div n="lb"/>{@SOLVENT:@}¦ <div n="1">(1) Able to pay claims: </div><div n="1">(1) {#वित्त-#}
+<div n="lb"/>{#वत्#} (f. {#ती#} = rich), <div n="xe">{%if a surety is s.:%}</div> <div n="xs">{#प्रतिभूर्यदि #}
+<div n="lb"/>{# वित्तवान्,#}</div> Mit.; </div><div n="1">(2) {#समृद्ध#} (f. {#द्धा#} = affluent).</div>
+<div n="lb"/><div n="I">II Capable of dissolving: {#द्रावण#} (f. {#णा#}).</div>
+<LEND>

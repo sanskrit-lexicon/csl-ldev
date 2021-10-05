@@ -1,0 +1,4 @@
+<L>4853<pc>156<k1>costume<k2>costume
+<div n="lb"/>{@COSTUME:@}¦ {#वेशः#} <div n="xe">{%or%}</div> <div n="xs">{#वेषः,#}</div> <div n="xe">{%riding costume:%}</div> <div n="xs">{#तुरङ्गाधि-#}</div>
+<div n="lb"/>{# -रोहणोचितो वेशः,#} K.: v. Dress.
+<LEND>

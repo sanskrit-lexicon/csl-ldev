@@ -1,0 +1,5 @@
+<L>6375<pc>204<k1>disenchant<k2>disenchant
+<div n="lb"/>{@DISENCHANT:@}¦ Ph.: <div n="xe">{%d. this place:%}</div> <div n="xs">{#*अत्रस्थां मायां #}
+<div n="lb"/>{# नाशय#}</div> <div n="xe">{%or%}</div> <div n="xs">{#निर्धूनय,#}</div> etc.: <div n="xe">{%I will d. you:%}</div> <div n="xs">{#*तव मोहं #}
+<div n="lb"/>{# दूरीकरोमि।#}</div>
+<LEND>

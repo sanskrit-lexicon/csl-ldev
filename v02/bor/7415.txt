@@ -1,0 +1,4 @@
+<L>7415<pc>234<k1>embarkation<k2>embarkation
+<div n="lb"/>{@EMBARKATION:@}¦ {#नौकारोहणम्#} (going) <div n="xe">{%or%}</div> <div n="xs">{#नोकारोपणम्#}</div>
+<div n="lb"/>(putting on board); {#प्रस्थानम्#} (= departure).
+<LEND>

@@ -1,0 +1,4 @@
+<L>14629<pc>448<k1>million<k2>million
+<div n="lb"/>{@MILLION:@}¦ {#नियुतम्#} <div n="xe">{%or%}</div> <div n="xs">{#प्रयुतम्।#}</div> <div n="xe">{%Ten m. s:%}</div> <div n="xs">{#कोटिः।#}</div> <div n="xe">{%By%}
+<div n="lb"/>{%m. s:%}</div> <div n="xs">{#कोटिशः।#}</div> <div n="xe">{%M.-th:%}</div> <div n="xs">{#नियुततमः#}</div> ({#मी, मं#}) (rare).
+<LEND>

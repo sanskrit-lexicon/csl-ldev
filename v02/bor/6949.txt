@@ -1,0 +1,6 @@
+<L>6949<pc>221<k1>drink<k2>drink
+<div n="lb"/>{@DRINK@}¦ (subs.): <div n="1">(1) {#पानीयम्;#} </div><div n="1">(2) {#पेयम्;#} </div><div n="1">(3)
+<div n="lb"/>{#पानम्,#} <div n="xe">{%bring me d. quick:%}</div> <div n="xs">{#पानमाहर मे क्षिप्रम्,#}</div>
+<div n="lb"/>Mah. <div n="xe">{%D. -money:%}</div> <div n="xs">{#सुरामूल्यम्,#}</div> Sa. vi. <div n="xe">{%To take%}
+<div n="lb"/>{%to d.%}</div> <div n="xs">{#आसवम् आसेवते,#}</div> D.</div>
+<LEND>

@@ -1,0 +1,10 @@
+<L>136<pc>006<k1>accidental<k2>accidental
+<div n="lb"/>{@ACCIDENTAL:@}¦ <div n="I">I Casual, fortuitous: q. v.</div>
+<div n="lb"/><div n="1">(1) {#दैविकः#} ({#की, कं#}) <div n="xe">{%if a. there is no punish-%}
+<div n="lb"/>{%ment%}</div> <div n="xs">{#दैविके नास्ति निग्रहः,#}</div> M. viii. 409; </div><div n="1">(2)
+<div n="lb"/>{#यादृच्छिकः#} ({#की, कं#}) {%not approving of a. union%}
+<div n="lb"/>{#यादृच्छिकीं सम्पत्तिमनभिसमीक्ष्य,#} <ls>D.</ls> vi.; <div n="xe">{%even a.%}
+<div n="lb"/>{%union%}</div> <div n="xs">{#यदृच्छयापि योगः,#}</div> Ki., </div><div n="I">II Non-essential</div>
+<div n="lb"/><div n="1">(1) {#असमवायिन्#} (f. {#नी#}); </div><div n="1">(2) {#आहार्यः#} ({#र्या, र्यं#});</div>
+<div n="lb"/><div n="1">(3) {#असहजः#} ({#जा, जं#}).</div>
+<LEND>

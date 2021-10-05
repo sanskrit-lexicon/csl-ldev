@@ -1,0 +1,5 @@
+<L>20145<pc>627<k1>seniority<k2>seniority
+<div n="lb"/>{@SENIORITY:@}¦ {#ज्येष्ठता, -त्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#ज्यैष्ठ्यम्,#}</div> {%s. in age:%}
+<div n="lb"/>{#वयोज्यैष्ठ्यम्;#} <div n="xe">{%according to s.:%}</div> <div n="xs">{#अनुज्यैष्ठ्यम्:#}</div> v. Also
+<div n="lb"/>superiority.
+<LEND>

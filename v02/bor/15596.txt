@@ -1,0 +1,5 @@
+<L>15596<pc>478<k1>numerator<k2>numerator
+<div n="lb"/>{@NUMERATOR:@}¦ {#अंशः,#} {%multiply the n.s with the%}
+<div n="lb"/>{%denominators of other%} ({%fractions%}): {#तत्तदंशं परेषां #}
+<div n="lb"/>{# छेदैर्गुणितं कुर्यात्,#} A. c.
+<LEND>

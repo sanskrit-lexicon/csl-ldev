@@ -1,0 +1,11 @@
+<L>15520<pc>475<k1>north-east<k2>north-east
+<div n="lb"/>{@NORTH-EAST:@}¦ <div n="I">I Adj.: </div><div n="1">(1) {#पूर्वोत्तरः#} ({#रा, रं#}),
+<div n="lb"/><div n="xe">{%the n. wind:%}</div> <div n="xs">{#पूर्वोत्तरो वायुः,#}</div> Mah.; <div n="xe">{%to the n. of%}
+<div n="lb"/>{%Kailāsa:%}</div> <div n="xs">{#प्रागुत्तरेण कैलासात्,#}</div> Mat.; </div><div n="1">(2) {#उत्तरपूर्वः#}
+<div n="lb"/>({#र्वा, र्वं#}); </div><div n="1">(3) {#प्रागुदीच्य#} (f. {#च्या#}) <div n="xe">{%or%}</div> <div n="xs">{#-चीनः#}</div>
+<div n="lb"/>({#ना, नं#}). </div><div n="I">II Subs.: </div><div n="1">(1) {#पूर्वोत्तरा#} <div n="xe">{%or%}</div> <div n="xs">{#उत्तरपूर्वा#}</div>
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#ऐशानी दिश्#}</div> (f.), <div n="xe">{%towards the n.:%}</div> <div n="xs">{#ऐशानीं दिशं #}
+<div n="lb"/>{# प्रति,#}</div> V.; </div><div n="1">(2) {#पूर्वोत्तरो दिग्भागः,#} <div n="xe">{%to the n. of the%}
+<div n="lb"/>{%mount Kailāsa:%}</div> <div n="xs">{#कैलासशिखरिणः पूर्वोत्तरे दिग्भागे,#}</div>
+<div n="lb"/>R.; </div><div n="1">(3) {#प्रागुदीची।#}</div>
+<LEND>

@@ -1,0 +1,4 @@
+<L>3839<pc>125<k1>clock<k2>clock
+<div n="lb"/>{@CLOCK:@}¦ {#*घटिका;#} <div n="xe">{%sidereal-c.:%}</div> <div n="xs">{#*नाक्षत्रघटिका;#}</div>
+<div n="lb"/><div n="xe">{%what o'c. is it?%}</div> <div n="xs">{#*कियतो घटिका?#}</div>
+<LEND>

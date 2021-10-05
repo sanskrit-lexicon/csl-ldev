@@ -1,0 +1,5 @@
+<L>13543<pc>416<k1>lieu<k2>lieu
+<div n="lb"/>{@LIEU:@}¦ Ph.: <div n="xe">{%in l. of:%}</div> <div n="xs">{#स्थाने#}</div> {%or%} {#स्थले#} (with gen.).
+<div n="lb"/>Ph.: {%read%} {#यावत्#} {%in l. of%} {#तावत् #} {#: यावदित्यत्र तावदिति #}
+<div n="lb"/>{# पठ।#}
+<LEND>

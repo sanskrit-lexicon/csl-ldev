@@ -1,0 +1,5 @@
+<L>2655<pc>090<k1>broken<k2>broken
+<div n="lb"/>{@BROKEN:@}¦ v. Break. Ph. <div n="xe">{%b. number%}</div> <div n="xs">{#भग्नांशः;#}</div> <div n="xe">{%b. -%}
+<div n="lb"/>{%winded%}</div> <div n="xs">{#अल्पश्वासः#}</div> ({#सा, सं#}); <div n="xe">{%b.-hearted%}</div> <div n="xs">{#भग्नाशः#}</div>
+<div n="lb"/>({#शा, शं#}) <div n="xe">{%or%}</div> <div n="xs">{#भग्नमानसः#}</div> ({#सा, सं#}), Mah.
+<LEND>

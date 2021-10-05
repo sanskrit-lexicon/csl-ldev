@@ -1,0 +1,10 @@
+<L>8666<pc>275<k1>fever<k2>fever
+<div n="lb"/>{@FEVER:@}¦ <div n="I">I Lit. {#ज्वरः,#} {%acute%} ({%lit. new%}) <div n="xe">{%f.:%}</div> <div n="xs">{#नव-#}
+<div n="lb"/>{#ज्वरः;#}</div> {%chronic%} ({%lit. old%}) <div n="xe">{%f.:%}</div> <div n="xs">{#जीर्णज्वरः,#}</div> Bha.;
+<div n="lb"/><div n="xe">{%inflammatory f.:%}</div> <div n="xs">{#दाहज्वरः;#}</div> <div n="xe">{%cold f.:%}</div> <div n="xs">{#शीतज्वरः;#}</div>
+<div n="lb"/><div n="xe">{%typhoid f.:%}</div> <div n="xs">{#सन्निपातज्वरः#}</div> (?); {%he will have f. again:%}
+<div n="lb"/>{#अस्य पुनरेव भवेज्ज्वरः;#} Sr.; <div n="xe">{%recovered from f.:%}</div> <div n="xs">{#जरो-#}
+<div n="lb"/>{#त्सृष्टः#}</div> ({#ष्टा, ष्टं#}), Sr, <div n="xe">{%or%}</div> <div n="xs">{#ज्वरमुक्तः#}</div> ({#क्ता, क्तं#}), Bha.</div>
+<div n="lb"/><div n="I">II Fig.: {#ज्वरः,#} <div n="xe">{%speak it without f.:%}</div> <div n="xs">{#तद्ब्रूत विगत-#}
+<div n="lb"/>{#ज्वराः,#}</div> Mat.: v. Excitement.</div>
+<LEND>

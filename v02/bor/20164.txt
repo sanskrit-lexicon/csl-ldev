@@ -1,0 +1,5 @@
+<L>20164<pc>628<k1>sentiment<k2>sentiment
+<div n="lb"/>{@SENTIMENT:@}¦ <div n="I">I Thought, opinion: q. v.:
+<div n="lb"/>{#मतम्।#} </div><div n="I">II Feeling, passion: {#रसः,#} {%s. of love:%}
+<div n="lb"/>{#शृङ्गाररसः।#} </div><div n="I">III Sense: q. v.: {#भावः।#}</div>
+<LEND>

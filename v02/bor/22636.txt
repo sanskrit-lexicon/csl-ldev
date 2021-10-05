@@ -1,0 +1,4 @@
+<L>22636<pc>714<k1>today<k2>today
+<div n="lb"/>{@TODAY:@}¦ {#अद्य,#} <div n="xe">{%of t.:%}</div> <div n="xs">{#अद्यतनः#}</div> ({#नी, नं#}), {#तल्लिख्यता-#}
+<div n="lb"/>{#मद्यतनो दिवसः।#} P.: v. Also now.
+<LEND>

@@ -1,0 +1,4 @@
+<L>3273<pc>109<k1>cautery<k2>cautery
+<div n="lb"/>{@CAUTERY:@}¦ {#दाहः#} <div n="xe">{%or%}</div> <div n="xs">{#दहनम्।#}</div> <div n="xe">{%Actual c.%}</div> <div n="xs">{#*यथार्थदाहः;#}</div>
+<div n="lb"/><div n="xe">{%potential c.%}</div> <div n="xs">{#*तेजोदाहः।#}</div>
+<LEND>

@@ -1,0 +1,16 @@
+<L>24556<pc>770<k1>year<k2>year
+<div n="lb"/>{@YEAR:@}¦ <div n="1">(1) {#वर्षम्,#} <div n="xe">{%in three y. s.:%}</div> <div n="xs">{#वर्षत्रयेण,#}</div> K.; <div n="xe">{%for%}
+<div n="lb"/>{%twelve y. s:%}</div> <div n="xs">{#द्वादशवर्षाणि,#}</div> D. vi.; <div n="xe">{%became ten y. s%}
+<div n="lb"/>{%old:%}</div> <div n="xs">{#बभूव दशवार्षिकः,#}</div> D. b. vii. 15. 44.; <div n="xe">{%lasting%}
+<div n="lb"/>{%twelve y. s:%}</div> <div n="xs">{#द्वादशवार्षिकः#}</div> ({#की, कं#}), U. ii.; </div><div n="1">(2)
+<div n="lb"/>{#वत्सरः, सं-,#} Li. 50.; </div><div n="1">(3) {#अब्दः,#} <div n="xe">{%in the 8th. y. from%}
+<div n="lb"/>{%conception:%}</div> <div n="xs">{#गर्भाष्टमेऽब्दे,#}</div> M. ii. 36.; </div><div n="1">(4) {#हायनः,#} ({%a%}
+<div n="lb"/>{%cow%}) <div n="xe">{%four, three y. s old:%}</div> <div n="xs">{#चतुष्त्रिहायणी,#}</div> H. c. i.
+<div n="lb"/>4. 338.; </div><div n="1">(5) {#समा#} (mostly in pl.), 14 y. s:
+<div n="lb"/>{#चतुर्दश समाः,#} Vi. iv. 41.; {%for%} 100 <div n="xe">{%y. s:%}</div> <div n="xs">{#सहस्र-#}
+<div n="lb"/>{#समम्,#}</div> B. p. 4.; </div><div n="1">(6) {#शरद्,#} (= autumn): v.
+<div n="lb"/>Winter. Ph.: <div n="xe">{%last y.:%}</div> <div n="xs">{#परुत्,#}</div> A.; {%of last y.:%}
+<div n="lb"/>{#परुत्र#} (f. {#त्री#}) (rare); <div n="xe">{%this y.:%}</div> <div n="xs">{#ऐषमस्,#}</div> A.; <div n="xe">{%y.%}
+<div n="lb"/>{%before last:%}</div> <div n="xs">{#परारि#}</div> (inde.), A.: <div n="xe">{%of y. before%}
+<div n="lb"/>{%last:%}</div> <div n="xs">{#परारित्र#}</div> (f. {#त्री#}) (rare).</div>
+<LEND>

@@ -1,0 +1,5 @@
+<L>767<pc>027<k1>angle<k2>angle
+<div n="lb"/>{@ANGLE@}¦ (subs): (I) {#कोणः#}; <div n="1">(2) {#अस्नः।#} {%Right a.%}
+<div n="lb"/>{#समकोणः;#} <div n="xe">{%obtuse a.%}</div> <div n="xs">{#*विषमकोणः;#}</div> <div n="xe">{%acute a.%}</div> <div n="xs">{#समोन-#}
+<div n="lb"/>{#कोणः, सूक्ष्मकोणः;#}</div> <div n="xe">{%alternate a.%}</div> <div n="xs">{#विपर्यस्तकोणः।#}</div></div>
+<LEND>

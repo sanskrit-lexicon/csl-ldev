@@ -1,0 +1,4 @@
+<L>15396<pc>471<k1>newspaper<k2>newspaper
+<div n="lb"/>{@NEWSPAPER:@}¦ {#संवादपत्रिका,#} <div n="xe">{%Weekly n.:%}</div> <div n="xs">{#साप्ता-#}
+<div n="lb"/>{#हिकपत्रिका।#}</div>
+<LEND>

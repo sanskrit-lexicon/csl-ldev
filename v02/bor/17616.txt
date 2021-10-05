@@ -1,0 +1,4 @@
+<L>17616<pc>539<k1>prefecture<k2>prefecture
+<div n="lb"/>{@PREFECTURE:@}¦ {#नायकता, -त्वम्#} (?: the office);
+<div n="lb"/>{#नायकाधिकारः#} (?: the jurisdiction).
+<LEND>

@@ -1,0 +1,7 @@
+<L>15251<pc>466<k1>nation<k2>nation
+<div n="lb"/>{@NATION:@}¦ no equiv.: {#जातिः#} is used, but very
+<div n="lb"/>ambiguous: better expr. with {#देशीयाः#}
+<div n="lb"/>(= natives) <div n="xe">{%or%}</div> <div n="xs">{#लोकाः#}</div> (= people), {%all other n.s:%}
+<div n="lb"/>{#*अपरापरदेशीयाः;#} {%a n. is the unity of a people:%}
+<div n="lb"/>{#*प्रजानामैक्यं देशीयत्वम्।#}
+<LEND>

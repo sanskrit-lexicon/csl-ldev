@@ -1,0 +1,4 @@
+<L>18633<pc>573<k1>razor<k2>razor
+<div n="lb"/>{@RAZOR:@}¦ <div n="I">I For shaving: {#क्षुरः,#} <div n="xe">{%r. case:%}</div> <div n="xs">{#क्षुर-#}
+<div n="lb"/>{#भाण्डम्,#}</div> <ls>H.</ls> </div><div n="I">II. A fish: {#मत्स्यविशेषः।#}</div>
+<LEND>

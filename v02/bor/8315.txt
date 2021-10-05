@@ -1,0 +1,4 @@
+<L>8315<pc>263<k1>faction<k2>faction
+<div n="lb"/>{@FACTION:@}¦ <div n="I">I A body of combatants: {#दलम्।#} </div><div n="I">II
+<div n="lb"/>A party: q.v.: {#दलम्।#} </div><div n="I">III Discord: q.v.: {#भेदः।#}</div>
+<LEND>

@@ -1,0 +1,27 @@
+<L>15572<pc>477<k1>now<k2>now
+<div n="lb"/>{@NOW:@}¦ <div n="I">I At the present time: </div><div n="1">(1) {#इदानीम्,#}
+<div n="lb"/><div n="xe">{%just n.:%}</div> <div n="xs">{#इदानीमेब;#}</div> <div n="xe">{%enmity of n.:%}</div> <div n="xs">{#इदानीन्तनं वैरम्,#}</div>
+<div n="lb"/>A. r.; </div><div n="1">(2) {#सम्प्रति#} <div n="xe">{%or%}</div> <div n="xs">{#साम्प्रतम्,#}</div> <div n="xe">{%but n. my only%}
+<div n="lb"/>{%wish is:%}</div> <div n="xs">{#साम्प्रतं पुनर्मम मनोरथ एष एव,#}</div> Ma.; </div><div n="1">(3)
+<div n="lb"/>{#अधुना,#} <div n="xe">{%where are you going now:%}</div> <div n="xs">{#क्वाघुना गम्यते,#}</div>
+<div n="lb"/>Vi.; </div><div n="1">(4) {#अद्य#} (= today), <div n="xe">{%even n.:%}</div> <div n="xs">{#अद्यापि,#}</div>
+<div n="lb"/>U. i. </div><div n="I">II As correl.; now.. now: </div><div n="1">(1)
+<div n="lb"/>{#अन्तरा #} {#। अन्तरा#} (= at intervals), <div n="xe">{%conversing n.%}
+<div n="lb"/>{%about his father, n. about his mother, n. about%}
+<div n="lb"/>{%Śukanāsa:%}</div> <div n="xs">{#अन्तरा पितृसक्तमन्तरा मातृसम्बद्धमन्तरा #}
+<div n="lb"/>{# शुकनासमयं कुर्वन्नालापम्,#}</div> K.; </div><div n="1">(2) {#कदाचित् #} {#। कदाचित्#}
+<div n="lb"/>(= at one time . at another time), K.;</div>
+<div n="lb"/><div n="1">(3) {#क्वचित् #} {#। क्वचित्#} (= 2), {%n.%} ({%in the region%}) <div n="xe">{%of%}
+<div n="lb"/>{%the clouds and n. of birds:%}</div> <div n="xs">{#क्वचिद्घनानां पततां क्वचिच्च,#}</div>
+<div n="lb"/><ls>R.</ls> </div><div n="I">III. As particle of transition: </div><div n="1">(1) {#अथ#}
+<div n="lb"/>(or commonly) {#अथातः,#} <div n="xe">{%n. we will describe%}
+<div n="lb"/>{%penances:%}</div> <div n="xs">{#अथातो प्रायश्चित्तानि व्याख्यास्यामः,#}</div> At.;</div>
+<div n="lb"/><div n="1">(2) {#अतः परम्#} <div n="xe">{%or%}</div> <div n="xs">{#अत ऊर्द्धम्#}</div> (= after this), <div n="xe">{%n. I will%}
+<div n="lb"/>{%tell you:%}</div> <div n="xs">{#अतः परं॥ युष्माकं सम्प्रवक्ष्यामि,#}</div> Pa.; </div><div n="1">(3)
+<div n="lb"/>{#इदानीम्,#} <div n="xe">{%it n. remains:%}</div> <div n="xs">{#इदमिदानीमवशिष्टम्,#}</div> S. iv. i.;</div>
+<div n="lb"/><div n="1">(4) {#सम्प्रति,#} S. iv. = but: q.v.: {#तु#} <div n="xe">{%“n. Barab-%}
+<div n="lb"/>{%bas was a robber”:%}</div> <div n="xs">{#बरब्बास्तु दस्युरासीत्।#}</div> Ph.:
+<div n="lb"/>{%n. and then:%} </div><div n="1">(1) {#समये समये#} (= at times); </div><div n="1">(2)
+<div n="lb"/>{#कदाचित्:#} v. Sometimes; <div n="xe">{%n. and n.:%}</div> <div n="xs">{#तदा तदा,#}</div>
+<div n="lb"/>D. iii.</div>
+<LEND>

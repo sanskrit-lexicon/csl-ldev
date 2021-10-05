@@ -1,0 +1,5 @@
+<L>7912<pc>250<k1>event<k2>event
+<div n="lb"/>{@EVENT:@}¦ <div n="I">I An occurrence: </div><div n="1">(1) {#घटना;#} </div><div n="1">(2)
+<div n="lb"/>{#वृत्तम्।#} Ph.: <div n="xe">{%at all e. s:%}</div> <div n="xs">{#अन्ततः;#}</div> <div n="xe">{%in the e. of:%}</div> <div n="xs">{#यदि:#}</div>
+<div n="lb"/>v. If. </div><div n="I">II Issue, end: q. v.</div>
+<LEND>

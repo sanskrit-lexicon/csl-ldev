@@ -1,0 +1,5 @@
+<L>24568<pc>770<k1>yesterday<k2>yesterday
+<div n="lb"/>{@YESTERDAY:@}¦ <div n="1">(1) {#ह्यस्,#} <div n="xe">{%of y.:%}</div> <div n="xs">{#ह्यस्तन#}</div> (f. {#नी#});</div>
+<div n="lb"/><div n="1">(2) {#पूर्वेद्यूः#} (= on the previous day); </div><div n="1">(3) {#कल्यम्#}
+<div n="lb"/>(= day gone by as well as day coming).</div>
+<LEND>

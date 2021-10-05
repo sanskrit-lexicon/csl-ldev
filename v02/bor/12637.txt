@@ -1,0 +1,4 @@
+<L>12637<pc>391<k1>inventive<k2>inventive
+<div n="lb"/>{@INVENTIVE:@}¦ Ph.: <div n="xe">{%i. power:%}</div> <div n="xs">{#उद्भ्रावन-#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उत्पादन-#}
+<div n="lb"/>{#शक्तिः।#}</div>
+<LEND>

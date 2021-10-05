@@ -1,0 +1,4 @@
+<L>18213<pc>558<k1>purchase-money<k2>purchase-money
+<div n="lb"/>{@PURCHASE-MONEY:@}¦ <div n="1">(1) {#क्रयमूल्यम्;#} </div><div n="1">(2) {#मूल्यम्:#}
+<div n="lb"/>v. Price.</div>
+<LEND>

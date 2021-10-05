@@ -1,0 +1,21 @@
+<L>11475<pc>359<k1>if<k2>if
+<div n="lb"/>{@IF:@}¦ <div n="1">(1) {#यदि,#} <div n="xe">{%if you are not delighted with the%}
+<div n="lb"/>{%tremulous glances.......:%}</div> <div n="xs">{#लोलापाङ्गैर्यदि न रमसे,#}</div> Me.;
+<div n="lb"/><div n="xe">{%if so, I am fortunate:%}</div> <div n="xs">{#यद्येवं दद्धन्योऽहम्,#}</div> P.; <div n="xe">{%or if you%}
+<div n="lb"/>{%again get your place:%}</div> <div n="xs">{#त्वयाथवा यदि लब्धं पुनरात्मनः #}
+<div n="lb"/>{# पदम्,#}</div> Ki.; <div n="xe">{%even if his union was doubtful:%}</div> <div n="xs">{#सन्दि-#}
+<div n="lb"/>{#ग्धोऽप्यस्य समागमो यदि स्यात्,#}</div> K.; {%if%} ({%he%}) <div n="xe">{%had not%}
+<div n="lb"/>{%wagered:%}</div> <div n="xs">{#यदि पणं नाकरिष्यत्,#}</div> V.; {%then again if%}
+<div n="lb"/>.....: {#पुनरपरं यदि,#} K.; </div><div n="1">(2) {#चेत्#} (never at the
+<div n="lb"/>beginning of a sentence), <div n="xe">{%if not:%}</div> <div n="xs">{#नो चेत्,#}</div> H.
+<div n="lb"/>v. Otherwise; <div n="xe">{%if on the other hand, you are%}
+<div n="lb"/>{%waiting for time:%}</div> <div n="xs">{#अथ चेदवधिः प्रतीक्ष्यते,#}</div> Ki.; <div n="xe">{%but%}
+<div n="lb"/>{%if I could not find out some means here:%}</div> <div n="xs">{#अपि तु न #}
+<div n="lb"/>{# चेदिह कमप्युपायमुद्भावयितुं शक्नुयाम्,#}</div> D. N.B. Note
+<div n="lb"/>the use of {#विधिलिङ्#} {%when the sentence implies%}
+<div n="lb"/>{%that something may or might happen%} and of {#ऌङ्#}
+<div n="lb"/><div n="xe">{%when it implies that something would have happe-%}
+<div n="lb"/>{%ned.%}</div> <div n="xs">{#लट्, लुट्#}</div> and {#ऌट्#} are used when it deals
+<div n="lb"/>{%with facts actual or assumed, the first with%}
+<div n="lb"/>{%present and the last two with future facts.%}</div>
+<LEND>

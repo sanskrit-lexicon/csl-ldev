@@ -1,0 +1,4 @@
+<L>23608<pc>740<k1>urine<k2>urine
+<div n="lb"/>{@URINE:@}¦ <div n="1">(1) {#मूत्रम्,#} <div n="xe">{%to void u.:%}</div> <div n="xs">{#मूत्रम् उत्सृजति#}</div> {%or%}
+<div n="lb"/>{#विसृजति, मूत्रोच्चारं करोति,#} etc.; </div><div n="1">(2) {#प्रस्रावः।#}</div>
+<LEND>

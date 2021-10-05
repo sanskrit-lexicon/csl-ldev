@@ -1,0 +1,7 @@
+<L>3460<pc>115<k1>chariot<k2>chariot
+<div n="lb"/>{@CHARIOT:@}¦ <div n="1">(1) {#रथः,#} <div n="xe">{%to step a c.%}</div> <div n="xs">{#रथं स्थापयति,#}</div> v.;</div>
+<div n="lb"/><div n="1">(2) {#स्यन्दनः,#} <div n="xe">{%to drive a c.%}</div> <div n="xs">{#स्यन्दनं वाहयति,#}</div> Ku.:
+<div n="lb"/>v. Carriage. <div n="xe">{%One who fights from a c.%}</div> <div n="xs">{#रथिन्#}</div>
+<div n="lb"/>(m.), Mah; <div n="xe">{%c. -race:%}</div> <div n="xs">{#रथचर्या#}</div> (?), K.; <div n="xe">{%divine%}
+<div n="lb"/>{%c.%}</div> <div n="xs">{#विमान#}</div> (mn.), Vi.</div>
+<LEND>

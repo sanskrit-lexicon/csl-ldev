@@ -1,0 +1,8 @@
+<L>142<pc>006<k1>accommodation<k2>accommodation
+<div n="lb"/>{@ACCOMMODATION:@}¦ <div n="I">I Adaptation: q. v.:
+<div n="lb"/>{#उपयोगिता।#} </div><div n="I">II Reconciliation: q. v. </div><div n="I">III
+<div n="lb"/>Conveniences: Ph.: <div n="xe">{%we received every a.%}
+<div n="lb"/>{%in the inn.%}</div> <div n="xs">{#सर्वोपकरणान्यस्माभिः पथिकाश्रमे समधिगतानि।#}</div></div>
+<div n="lb"/><div n="I">IV A loan of money: Ph. <div n="xe">{%a. bill%}</div> <div n="xs">{#*उपकरण-#}
+<div n="lb"/>{#पत्रम्।#}</div></div>
+<LEND>

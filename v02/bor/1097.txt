@@ -1,0 +1,3 @@
+<L>1097<pc>038<k1>arrack<k2>arrack
+<div n="lb"/>{@ARRACK:@}¦ <div n="1">(1) {#ताली;#} </div><div n="1">(2) {#ताडिः#} <div n="xe">{%or%}</div> <div n="xs">{#ताडी।#}</div></div>
+<LEND>

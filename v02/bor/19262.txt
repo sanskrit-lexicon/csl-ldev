@@ -1,0 +1,8 @@
+<L>19262<pc>597<k1>review<k2>review
+<div n="lb"/>{@REVIEW@}¦ (subs.): <div n="I">I Inspection: {#परिदर्शनम्।#} </div><div n="I">II
+<div n="lb"/>Of books: {#पर्यालोचना#} (?); {#दोषगुणविचारः#} (?).</div>
+<div n="lb"/><div n="I">III In law: {#पुनर्दर्शनम्,#} {%a r.%} ({%should be made%})
+<div n="lb"/><div n="xe">{%if objections are raised against witnesses or%}
+<div n="lb"/>{%assessors by losing parties:%}</div> <div n="xs">{#साक्षिसभ्यावसन्नानां #}
+<div n="lb"/>{# दूषणे दर्शनं पुनः,#}</div> N. s.</div>
+<LEND>

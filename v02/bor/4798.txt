@@ -1,0 +1,5 @@
+<L>4798<pc>155<k1>corporate<k2>corporate
+<div n="lb"/>{@CORPORATE:@}¦ Ph.: {%c. body:%} v. Corporation;
+<div n="lb"/>{%c. town:%} v. Municipality; <div n="xe">{%c. property%}</div> <div n="xs">{#*सम-#}
+<div n="lb"/>{#वायस्य सम्पत्तिः।#}</div>
+<LEND>

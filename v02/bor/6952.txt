@@ -1,0 +1,6 @@
+<L>6952<pc>221<k1>drinking<k2>drinking
+<div n="lb"/>{@DRINKING:@}¦ {#पानम्,#} <div n="xe">{%excessive d.:%}</div> <div n="xs">{#अतिपानम्,#}</div> Ki.;
+<div n="lb"/><div n="xe">{%great d. began:%}</div> <div n="xs">{#प्रावर्तत महापानम्,#}</div> Mah. <div n="xe">{%D.%}
+<div n="lb"/>{%vessel:%}</div> <div n="xs">{#पानपात्रम्#}</div> and sim. comp.s. {%D. assembly:%}
+<div n="lb"/>{#पानगोष्ठी,#} D. <div n="xe">{%D. -place%}</div> <div n="xs">{#प्रपा,#}</div> Mah.
+<LEND>

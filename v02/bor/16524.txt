@@ -1,0 +1,8 @@
+<L>16524<pc>507<k1>passive<k2>passive
+<div n="lb"/>{@PASSIVE:@}¦ <div n="I">I In gram: <div n="xe">{%p. voice:%}</div> <div n="xs">{#कर्मवाच्यम्;#}</div> <div n="xe">{%in%}
+<div n="lb"/>{%the p. voice:%}</div> <div n="xs">{#कर्मणि;#}</div> <div n="xe">{%on p. verbs:%}</div> <div n="xs">{#कर्मतिङ्प्रक्रिया,#}</div>
+<div n="lb"/>S. k.; <div n="xe">{%in the reflective p. voice:%}</div> <div n="xs">{#कर्मकर्तरि,#}</div> S. k.</div>
+<div n="lb"/><div n="I">II Not active: expr. by {#सहते#} ({#सह्,#} c. 1.
+<div n="lb"/>= to bear) <div n="xe">{%or%}</div> <div n="xs">{#क्रियते#}</div> (pass. of {#कृ#}); {%p. agent:%}
+<div n="lb"/>{#कर्माधारः#} (?).</div>
+<LEND>

@@ -1,0 +1,7 @@
+<L>18992<pc>587<k1>renew<k2>renew
+<div n="lb"/>{@RENEW:@}¦ <div n="I">I To make again: {#पुनः करोति#} <div n="xe">{%or%}</div> <div n="xs">{#पुनः#}</div>
+<div n="lb"/>and the corresponding verb, {%r. a fight:%}
+<div n="lb"/>{#पुनर्युद्धं करोति#} <div n="xe">{%or%}</div> <div n="xs">{#युध्यते;#}</div> <div n="xe">{%r. studies:%}</div> <div n="xs">{#पुनरध्यनं करोति#}</div>
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#अधीते;#}</div> <div n="xe">{%r. an application:%}</div> <div n="xs">{#पुनः प्रार्थनां करोति#}</div> {%or%}
+<div n="lb"/>{#प्रार्थयते,#} etc. </div><div n="I">II To make new: {#नवीकरोति।#}</div>
+<LEND>

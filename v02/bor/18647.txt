@@ -1,0 +1,12 @@
+<L>18647<pc>574<k1>reading<k2>reading
+<div n="lb"/>{@READING:@}¦ <div n="I">I Perusal: {#पठनम्#} <div n="xe">{%or%}</div> <div n="xs">{#पाठः,#}</div> <div n="xe">{%incessant%}
+<div n="lb"/>{%r. of the Vedas:%}</div> <div n="xs">{#अश्रान्तश्रुतिपाठः,#}</div> N.; {%r. -room:%}
+<div n="lb"/>{#पाठशाला।#} </div><div n="I">II Studying: {#अध्ययनम्,#} <div n="xe">{%r. with%}
+<div n="lb"/>{%Yājnavalkya:%}</div> <div n="xs">{#योगीश्वरादध्यनम्,#}</div> An.; <div n="xe">{%r., teaching%}
+<div n="lb"/>{%sacrificing:%}</div> <div n="xs">{#अध्ययनमध्यापनं यजनम्,#}</div> Vas. </div><div n="I">III. R.
+<div n="lb"/>out as letters: {#वाचनम्, निर्-।#} </div><div n="I">IV Scholar-
+<div n="lb"/>-ship, learning: q. v. V. A. lecture or
+<div n="lb"/>recital: {#पाठः,#} <div n="xe">{%morning r.:%}</div> <div n="xs">{#प्राभातिकपाठः,#}</div> C. ii.</div>
+<div n="lb"/><div n="I">VI Section, version: {#पाठः,#} {%an erroneous r.:%}
+<div n="lb"/>{#भ्रममूलकः पाठः,#} Va. com.</div>
+<LEND>

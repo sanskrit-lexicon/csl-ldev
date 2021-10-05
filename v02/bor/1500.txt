@@ -1,0 +1,6 @@
+<L>1500<pc>053<k1>backwards<k2>backwards
+<div n="lb"/>{@BACKWARDS:@}¦ <div n="I">I Towards the back: {#पृष्ठभागे#}
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#पृष्ठदेशे।#}</div> </div><div n="I">II On the back: <div n="xe">{%to fall b.%}</div> <div n="xs">{#अवमूर्ध-#}
+<div n="lb"/>{#पातं पतति।#}</div> </div><div n="I">III In a reversed direction:
+<div n="lb"/>{#प्रतीपम्।#} Ph. {%to go b.%} (fig.) {#क्रमशोऽवनतिं गच्छति।#}</div>
+<LEND>

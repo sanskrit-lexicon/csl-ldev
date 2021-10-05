@@ -1,0 +1,6 @@
+<L>21066<pc>663<k1>south-west<k2>south-west
+<div n="lb"/>{@SOUTH-WEST,@}¦ {@SOUTH-WESTERN@} (adj.): <div n="1">(1) {#दक्षिण-#}
+<div n="lb"/>{#पश्चिमः#} ({#मा, मं#}), <div n="xe">{%s. wind:%}</div> <div n="xs">{#वातो दक्षिणपश्चिमः,#}</div>
+<div n="lb"/>Mah.; </div><div n="1">(2) {#नैरृ तः#} ({#ती, तं#}), <div n="xe">{%s. wind:%}</div> <div n="xs">{#नैरृ तो #}
+<div n="lb"/>{# वायुः,#}</div> V. m. 27. 4.</div>
+<LEND>

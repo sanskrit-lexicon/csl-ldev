@@ -1,0 +1,8 @@
+<L>14720<pc>450<k1>mischief<k2>mischief
+<div n="lb"/>{@MISCHIEF:@}¦ <div n="I">I Harm, injury: </div><div n="1">(1) {#अपकारः;#}</div>
+<div n="lb"/><div n="1">(2) {#हिंसा#} (in old writers): <div n="xe">{%if cattle commit m.%}
+<div n="lb"/>{%to crops:%}</div> <div n="xs">{#धान्यं विहिंस्युः पशवो यदि,#}</div> M. Ph.:
+<div n="lb"/>{%m. to%} ({%lit. destruction of%}) {%crops by cattle, etc.:%}
+<div n="lb"/>{#शस्यघातो गवादिमिः,#} N.s. </div><div n="I">II Damage, loss:
+<div n="lb"/>q. v.: {#हानिः।#}</div>
+<LEND>

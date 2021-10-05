@@ -1,0 +1,3 @@
+<L>12775<pc>395<k1>item<k2>item
+<div n="lb"/>{@ITEM:@}¦ <div n="1">(1) {#पदम्;#} </div><div n="1">(2) {#विषयः#} (= subject).</div>
+<LEND>

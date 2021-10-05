@@ -1,0 +1,5 @@
+<L>8643<pc>274<k1>fervid<k2>fervid
+<div n="lb"/>{@FERVID:@}¦ <div n="I">I Very hot: {#प्रचण्डः#} ({#ण्डा, ण्डं#}), <div n="xe">{%when%}
+<div n="lb"/>{%the sun is f.:%}</div> <div n="xs">{#प्रचण्डसूर्यः,#}</div> <div n="xe">{%f. heat:%}</div> <div n="xs">{#प्रचण्डतापः,#}</div> Rit.</div>
+<div n="lb"/><div n="I">II Vehement: q.v.: {#प्रचण्ड#} (f. {#ण्डा#}).</div>
+<LEND>

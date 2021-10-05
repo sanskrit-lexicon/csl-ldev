@@ -1,0 +1,4 @@
+<L>23012<pc>725<k1>turret<k2>turret
+<div n="lb"/>{@TURRET:@}¦ <div n="1">(1) {#तल्पः;#} </div><div n="1">(2) {#शिरोगृहम्;#} </div><div n="1">(3) {#प्रासाद-#}
+<div n="lb"/>{#शृङ्गम्।#}</div>
+<LEND>

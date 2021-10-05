@@ -1,0 +1,8 @@
+<L>20255<pc>632<k1>seventy<k2>seventy
+<div n="lb"/>{@SEVENTY:@}¦ {#सप्ततिः,#} <div n="xe">{%s. -nine:%}</div> <div n="xs">{#ऊनाशीतिः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#एकोनाशीतिः#}</div>
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#नवसप्ततिः;#}</div> <div n="xe">{%s. -first:%}</div> <div n="xs">{#एकसप्ततितमः#}</div> ({#मी, मं#}) {%or%}
+<div n="lb"/>(rarely) {#एकसप्ततः#} ({#ती, तं#}) (after S. k.); <div n="xe">{%s.-%}
+<div n="lb"/>{%fold:%}</div> <div n="xs">{#सप्ततिगुण#}</div> (f. {#णा#}); <div n="xe">{%seven hundred and s.-%}
+<div n="lb"/>{%five slokas:%}</div> <div n="xs">{#श्लोकसप्तशती चापि पञ्चसप्ततिसंयुता,#}</div>
+<div n="lb"/>Mah. i. 2. 304.
+<LEND>

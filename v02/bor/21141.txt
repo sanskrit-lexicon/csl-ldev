@@ -1,0 +1,8 @@
+<L>21141<pc>666<k1>speed<k2>speed
+<div n="lb"/>{@SPEED:@}¦ <div n="1">(1) {#वेगः,#} <div n="xe">{%motion at full s.:%}</div> <div n="xs">{#पूर्णवेगा गतिः,#}</div>
+<div n="lb"/>M. n.; </div><div n="1">(2) {#जवः,#} <div n="xe">{%by the s. of the current:%}</div> <div n="xs">{#स्रोतो-#}
+<div n="lb"/>{#जवेन,#}</div> Mah.; </div><div n="1">(3) {#रंहस्#} (n.), <div n="xe">{%s. of wind:%}</div> <div n="xs">{#मारुतस्य #}
+<div n="lb"/>{# रंहः,#}</div> R. ii. 34.; </div><div n="1">(4) {#त्वरा:#} v. Haste; </div><div n="1">(5)
+<div n="lb"/>{#शीघ्रता:#} v. Quickness. Ph.: <div n="xe">{%may you have%}
+<div n="lb"/>{%god s. on your way:%}</div> <div n="xs">{#तव वर्त्मनि वर्ततां शिवम्,#}</div> N.</div>
+<LEND>

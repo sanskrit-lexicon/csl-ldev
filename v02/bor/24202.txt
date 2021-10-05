@@ -1,0 +1,4 @@
+<L>24202<pc>757<k1>week<k2>week
+<div n="lb"/>{@WEEK:@}¦ {#सप्ताहम्,#} <div n="xe">{%every w.:%}</div> <div n="xs">{#सप्तहात् सप्ताहात्,#}</div> Sr; <div n="xe">{%w.%}
+<div n="lb"/>{%day:%}</div> <div n="xs">{#वारः।#}</div>
+<LEND>

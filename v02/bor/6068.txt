@@ -1,0 +1,6 @@
+<L>6068<pc>195<k1>devotion<k2>devotion
+<div n="lb"/>{@DEVOTION:@}¦ <div n="I">I Consecration: {#उत्सर्गः।#} </div><div n="I">II
+<div n="lb"/>Addiction: </div><div n="1">(1) {#आसक्तिः;#} </div><div n="1">(2) {#निरतिः,#} Ki. </div><div n="I">III
+<div n="lb"/>Religious or respectful: {#भक्तिः,#} <div n="xe">{%d. to your%}
+<div n="lb"/>{%preceptor:%}</div> <div n="xs">{#गुरौ भक्तिः,#}</div> R. </div><div n="I">IV A. gift: {#दानम।#}</div>
+<LEND>

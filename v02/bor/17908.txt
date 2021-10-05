@@ -1,0 +1,9 @@
+<L>17908<pc>549<k1>progression<k2>progression
+<div n="lb"/>{@PROGRESSION:@}¦ <div n="xe">{%a. p.:%}</div> <div n="xs">{#श्रेढीव्यवहारः;#}</div> {%first term:%}
+<div n="lb"/>{#मुखम्, वदनम्, आदिः;#} <div n="xe">{%common difference:%}</div> <div n="xs">{#चयः;#}</div>
+<div n="lb"/><div n="xe">{%number of terms.:%}</div> <div n="xs">{#गुच्छः;#}</div> <div n="xe">{%sum:%}</div> <div n="xs">{#श्रेढीफलम्:;#}</div> <div n="xe">{%com-%}
+<div n="lb"/>{%mon ratio:%}</div> <div n="xs">{#चयो गुणः;#}</div> <div n="xe">{%geometrical mean:%}</div> <div n="xs">{#उत्तरो #}
+<div n="lb"/>{# गुणः,#}</div> Li. <div n="xe">{%Terms are in harmonic p. whose reci-%}
+<div n="lb"/>{%procals are in arithmetic p.:%}</div> <div n="xs">{#येषांश्छेदाश्चयान्तरास्ते #}
+<div n="lb"/>{# विषमचयान्तराः।#}</div>
+<LEND>

@@ -1,0 +1,7 @@
+<L>5961<pc>191<k1>despatch<k2>despatch
+<div n="lb"/>{@DESPATCH@}¦ (subs.): <div n="I">I The act of sending:</div>
+<div n="lb"/><div n="1">(1) {#प्रेरणम्;#} </div><div n="1">(2) {#प्रेषणम्।#} </div><div n="I">II Dismissal: {#विसर्जनम्।#} [Page192]</div>
+<div n="lb"/><div n="I">III Hasty execution: q. v.: <div n="xe">{%with d.:%}</div> <div n="xs">{#त्वरितम्#}</div>
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#क्षिप्रम्।#}</div> </div><div n="I">IV A message: </div><div n="1">(1) {#पत्रम्#} (=letter);</div>
+<div n="lb"/><div n="1">(2) {#सन्देशः।#} <div n="xe">{%D. -box:%}</div> <div n="xs">{#सन्देशपे टिका#}</div> (?).</div>
+<LEND>

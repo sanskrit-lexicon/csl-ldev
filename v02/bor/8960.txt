@@ -1,0 +1,4 @@
+<L>8960<pc>283<k1>flesh-meat<k2>flesh-meat
+<div n="lb"/>{@FLESH-MEAT:@}¦ <div n="xe">{%to take f.:%}</div> <div n="xs">{#मांसाहारं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आमिषभोजनं #}
+<div n="lb"/>{# करोति।#}</div>
+<LEND>

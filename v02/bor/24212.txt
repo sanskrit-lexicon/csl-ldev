@@ -1,0 +1,7 @@
+<L>24212<pc>757<k1>weight<k2>weight
+<div n="lb"/>{@WEIGHT:@}¦ <div n="I">I For measuring: {#मानम्, उत्-,#} <div n="xe">{%true%}
+<div n="lb"/>{%and false w. s:%}</div> <div n="xs">{#पूर्णापूर्णे माने,#}</div> P.; {%names of w. s:%}
+<div n="lb"/>{#मानपरिभाषा।#} </div><div n="I">II Heaviness, burden: q. v.:
+<div n="lb"/>{#भारः,#} <div n="xe">{%w. of iron:%}</div> <div n="xs">{#लोहभारः,#}</div> P. </div><div n="I">III Impor-
+<div n="lb"/>-tance: q. v.: {#गुरुत्वम्।#}</div>
+<LEND>

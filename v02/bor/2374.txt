@@ -1,0 +1,4 @@
+<L>2374<pc>082<k1>borrower<k2>borrower
+<div n="lb"/>{@BORROWER:@}¦ <div n="1">(1) {#ऋणकर्ता;#} </div><div n="1">(2) {#ऋणग्रहीता;#} </div><div n="1">(3)
+<div n="lb"/>{#ऋणग्राही;#} </div><div n="1">(4) {#खादकः।#}</div>
+<LEND>

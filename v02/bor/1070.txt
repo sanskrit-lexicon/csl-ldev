@@ -1,0 +1,5 @@
+<L>1070<pc>037<k1>aristocratic<k2>aristocratic
+<div n="lb"/>{@ARISTOCRATIC:@}¦ Ph. <div n="xe">{%a. government%}</div> <div n="xs">{#*कुलीनशास-#}
+<div n="lb"/>{#नम्;#}</div> <div n="xe">{%a. pride%}</div> <div n="xs">{#कुलाभिमानः;#}</div> <div n="xe">{%of a. family%}</div> <div n="xs">{#कुलीनः#}</div>
+<div n="lb"/>({#ना, नं#}) <div n="xe">{%or%}</div> <div n="xs">{#अभिजातः#}</div> ({#ता, तं#}).
+<LEND>

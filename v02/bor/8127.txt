@@ -1,0 +1,6 @@
+<L>8127<pc>257<k1>expense<k2>expense
+<div n="lb"/>{@EXPENSE:@}¦ {#व्ययः, परि-,#} <div n="xe">{%e. s connected with commo-%}
+<div n="lb"/>{%dities:%}</div> <div n="xs">{#व्ययः पण्यसमुद्भवः,#}</div> Y.; <div n="xe">{%and who have e. s%}
+<div n="lb"/>{%and no income:%}</div> <div n="xs">{#निराया व्ययवन्तश्च,#}</div> Y.; <div n="xe">{%at the e. of%}
+<div n="lb"/>{%food:%}</div> <div n="xs">{#भक्तव्ययेन,#}</div> K. b.
+<LEND>

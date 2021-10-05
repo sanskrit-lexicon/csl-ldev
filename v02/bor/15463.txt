@@ -1,0 +1,5 @@
+<L>15463<pc>473<k1>node<k2>node
+<div n="lb"/>{@NODE:@}¦ {#पातः।#} <div n="xe">{%Ascending n.:%}</div> <div n="xs">{#प्रथमः सम्पातः,#}</div> Go.;
+<div n="lb"/>{#पूर्वार्द्धपातः।#} <div n="xe">{%Descending n.:%}</div> <div n="xs">{#द्वितीयः सम्पातः,#}</div> Go.;
+<div n="lb"/>{#परार्द्धपातः।#}
+<LEND>

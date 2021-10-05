@@ -1,0 +1,4 @@
+<L>5315<pc>170<k1>customer<k2>customer
+<div n="lb"/>{@CUSTOMER:@}¦ {#ग्राहकः,#} <div n="xe">{%a known c.:%}</div> <div n="xs">{#परिचितग्राहकः,#}</div>
+<div n="lb"/>P. i. l.: v. Buyer.
+<LEND>

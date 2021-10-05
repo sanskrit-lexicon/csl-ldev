@@ -1,0 +1,6 @@
+<L>17865<pc>547<k1>production<k2>production
+<div n="lb"/>{@PRODUCTION:@}¦ <div n="I">I Producing: </div><div n="1">(1) {#उत्पादनम्;#}</div>
+<div n="lb"/><div n="1">(2) {#प्र-जननम्।#} </div><div n="I">II Exhibition: q. v.: {#दर्शनम्, प्र-,#}</div>
+<div n="lb"/><div n="I">III Produce: q. v.: {#उत्पन्नम्।#} </div><div n="I">IV Work:
+<div n="lb"/>q. v.: {#कर्मन्।#}</div>
+<LEND>

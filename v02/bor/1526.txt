@@ -1,0 +1,12 @@
+<L>1526<pc>054<k1>balance<k2>balance
+<div n="lb"/>{@BALANCE@}¦ (subs.): <div n="I">I A pair of scales: </div><div n="1">(1)
+<div n="lb"/>{#तुला;#} </div><div n="1">(2) {#मापनः#} (?). <div n="xe">{%The beam of a b.%}</div> <div n="xs">{#तुलादण्डः;#}</div>
+<div n="lb"/><div n="xe">{%the string by which it is suspended%}</div> <div n="xs">{#प्रग्रहः#}</div> {%or%}
+<div n="lb"/>{#प्रग्राहः;#} <div n="xe">{%the cup of a b.%}</div> <div n="xs">{#घटः;#}</div> <div n="xe">{%assay b.%}</div> <div n="xs">{#नाराची।#}</div></div>
+<div n="lb"/><div n="I">II Of an account: </div><div n="1">(1) {#शेषः#} (=remainder:
+<div n="lb"/>q. v.), <div n="xe">{%he asked for the b. of money%}</div> <div n="xs">{#गृहीतशेषं दातुं #}
+<div n="lb"/>{# स धनं प्रार्थयताथ तं,#}</div> Raj.; </div><div n="1">(2) {#अन्तरम्#} (differ-
+<div n="lb"/>-ence: q. v.), <div n="xe">{%gives the whole b.%}</div> <div n="xs">{#दीयतां सकलान्तरम्,#}</div>
+<div n="lb"/>Raj. </div><div n="I">III Counterpoise: q. v. </div><div n="I">IV Com-
+<div n="lb"/>-parison, estimate: q. v. {#तुलना।#}</div>
+<LEND>

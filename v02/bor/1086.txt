@@ -1,0 +1,5 @@
+<L>1086<pc>038<k1>armour<k2>armour
+<div n="lb"/>{@ARMOUR:@}¦ <div n="1">(1) {#वर्मन्#} (n).; </div><div n="1">(2) {#कवच#} (mn.); </div><div n="1">(3)
+<div n="lb"/>{#वारबाणः;#} </div><div n="1">(4) {#संनाहः;#} </div><div n="1">(5) {#कञ्चुकः;#} </div><div n="1">(6) {#तनुत्रम्।#}
+<div n="lb"/><div n="xe">{%Chain a.%}</div> <div n="xs">{#जालिका#}</div> (rare).</div>
+<LEND>

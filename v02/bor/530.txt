@@ -1,0 +1,4 @@
+<L>530<pc>020<k1>album<k2>album
+<div n="lb"/>{@ALBUM:@}¦ <div n="xe">{%photographic a.%}</div> <div n="xs">{#*आलेख्यपुस्तकम्;#}</div> <div n="xe">{%a. for%}
+<div n="lb"/>{%inserting quotations%}</div> <div n="xs">{#*वचननिवेशः।#}</div>
+<LEND>

@@ -1,0 +1,6 @@
+<L>3456<pc>115<k1>chargeable<k2>chargeable
+<div n="lb"/>{@CHARGEABLE:@}¦ <div n="I">I Subject to be accused:
+<div n="lb"/>{#अभियोज्यः#} ({#ज्या, ज्यं#}). </div><div n="I">II S. to a claim: <div n="xe">{%c.%}
+<div n="lb"/>{%with taxes:%}</div> <div n="xs">{#देयशुल्कः#}</div> ({#ल्का, ल्कं#}) (?). </div><div n="I">III Attri-
+<div n="lb"/>-butable: q. v. </div><div n="I">IV Burdensome: q. v.</div>
+<LEND>

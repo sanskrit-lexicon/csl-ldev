@@ -1,0 +1,6 @@
+<L>21839<pc>689<k1>sugar-cane<k2>sugar-cane
+<div n="lb"/>{@SUGAR-CANE:@}¦ {#इक्षुः#} <div n="xe">{%“plant s.”:%}</div> <div n="xs">{#बाल इक्षुः;#}</div> <div n="xe">{%ripe s.%}
+<div n="lb"/>{%juice:%}</div> <div n="xs">{#पक्वेक्षुरसः;#}</div> <div n="xe">{%scorched s.:%}</div> <div n="xs">{#पौण्ड्रः, -कः;#}</div>
+<div n="lb"/><div n="xe">{%red s.:%}</div> <div n="xs">{#कोषकारः;#}</div> <div n="xe">{%bamboo s.:%}</div> <div n="xs">{#वंशकः;#}</div> {%juicy s.:%}
+<div n="lb"/>{#कान्तारः, -कः;#} etc., Bha.
+<LEND>

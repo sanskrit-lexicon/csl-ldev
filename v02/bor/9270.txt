@@ -1,0 +1,5 @@
+<L>9270<pc>294<k1>fortnight<k2>fortnight
+<div n="lb"/>{@FORTNIGHT:@}¦ <div n="1">(1) {#पक्षः,#} <div n="xe">{%in three f.s:%}</div> <div n="xs">{#पक्षत्रये,#}</div> L.s.;
+<div n="lb"/><div n="xe">{%the dark f.:%}</div> <div n="xs">{#कृष्णपक्षः;#}</div> <div n="xe">{%the light f.:%}</div> <div n="xs">{#शुक्लपक्षः;#}</div> </div><div n="1">(2)
+<div n="lb"/>{#मासार्द्धम्#} (= half a month).</div>
+<LEND>

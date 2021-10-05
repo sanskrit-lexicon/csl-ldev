@@ -1,0 +1,4 @@
+<L>19668<pc>611<k1>salary<k2>salary
+<div n="lb"/>{@SALARY:@}¦ <div n="1">(1) {#वेतनम्,#} <div n="xe">{%s. as arranged:%}</div> <div n="xs">{#यथाकृतं #}
+<div n="lb"/>{# वेतनम्,#}</div> N.s.: v. Pay.</div>
+<LEND>

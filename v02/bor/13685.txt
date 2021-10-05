@@ -1,0 +1,8 @@
+<L>13685<pc>421<k1>livelihood<k2>livelihood
+<div n="lb"/>{@LIVELIHOOD:@}¦ <div n="1">(1) {#जीविका, आ-, उप-,#} {%to get l.:%}
+<div n="lb"/>{#जीविकां प्राप्नोति,#} S. k.; ({%it%}) <div n="xe">{%has become my l.%}
+<div n="lb"/>{%now:%}</div> <div n="xs">{#आजीविकेदानीं संवृत्ता,#}</div> Mr.; </div><div n="1">(2) {#आजीवः, #}
+<div n="lb"/>{# -नम्,#} <div n="xe">{%pure l.:%}</div> <div n="xs">{#विशुद्ध आजीवः,#}</div> Sa.; </div><div n="1">(3) {#वृत्तिः,#}
+<div n="lb"/>(rarely {#वर्तनम्#}), <div n="xe">{%for l.:%}</div> <div n="xs">{#वृत्त्यर्थम्,#}</div> H.; </div><div n="1">(4) {#जीवनम्#}
+<div n="lb"/>(rare), <div n="xe">{%means of l.:%}</div> <div n="xs">{#जीवनोपायः,#}</div> D.s.</div>
+<LEND>

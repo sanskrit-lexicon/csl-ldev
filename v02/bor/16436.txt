@@ -1,0 +1,4 @@
+<L>16436<pc>504<k1>parliament<k2>parliament
+<div n="lb"/>{@PARLIAMENT:@}¦ {#*महासभा,#} <div n="xe">{%members of p.:%}</div> <div n="xs">{#*महा-#}
+<div n="lb"/>{#सभाधिष्ठिताः।#}</div>
+<LEND>

@@ -1,0 +1,6 @@
+<L>7090<pc>225<k1>duration<k2>duration
+<div n="lb"/>{@DURATION:@}¦ <div n="I">I Durability: {#स्थितिः, अव-, व्यव-।#}</div>
+<div n="lb"/><div n="I">II Abidingness: {#स्थायित्वम्।#} Ph.: {%of long d.:%}
+<div n="lb"/>{#दीर्घस्थायिन्#} (f. {#नी#}); <div n="xe">{%of short d.:%}</div> <div n="xs">{#अचिरस्थायिन्#}</div>
+<div n="lb"/>(f. {#नी#}).</div>
+<LEND>

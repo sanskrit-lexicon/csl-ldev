@@ -1,0 +1,5 @@
+<L>4003<pc>130<k1>collation<k2>collation
+<div n="lb"/>{@COLLATION.@}¦ <div n="I">I Comparison: </div><div n="1">(1) {#परीक्षा;#} </div><div n="1">(2)
+<div n="lb"/>{#समवलोकनम्।#} </div><div n="I">II Presentation to a benefice:
+<div n="lb"/>{#नियोगः#} <div n="xe">{%or%}</div> <div n="xs">{#विनियोगः।#}</div> </div><div n="I">III Cold repast: {#कल्यवर्तः।#}</div>
+<LEND>

@@ -1,0 +1,4 @@
+<L>14680<pc>449<k1>minutely<k2>minutely
+<div n="lb"/>{@MINUTELY:@}¦ <div n="I">I Nicely: </div><div n="1">(1) {#सूक्ष्मम्;#} </div><div n="1">(2) {#पुंखानु-#}
+<div n="lb"/>{#पुंखम्।#} </div><div n="I">II Every minute: {#प्रतिक्षणम्।#}</div>
+<LEND>

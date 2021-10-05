@@ -1,0 +1,7 @@
+<L>18942<pc>585<k1>remainder<k2>remainder
+<div n="lb"/>{@REMAINDER:@}¦ expr. by adj. <div n="xe">{%if this is deducted%}
+<div n="lb"/>{%from three, the r. is:%}</div> <div n="xs">{#अथैतैर्विवर्जितानां त्रयाणां शेषम्,#}</div>
+<div n="lb"/>Li. 8.; {%and who%} ({%spent%}) {%two-ninths of the r. at%} [Page586]
+<div n="lb"/><div n="xe">{%Kāsi:%}</div> <div n="xs">{#नवलवयुगलं योऽवशेषाच्च काश्याम्,#}</div> Li. 25.:
+<div n="lb"/>v. Also rest.
+<LEND>

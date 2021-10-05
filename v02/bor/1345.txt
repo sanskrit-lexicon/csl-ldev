@@ -1,0 +1,6 @@
+<L>1345<pc>048<k1>attorney<k2>attorney
+<div n="lb"/>{@ATTORNEY:@}¦ {#*व्यवहारप्रतिनिधिः; मोक्तारः।#} <div n="xe">{%A power%}
+<div n="lb"/>{%of a.%}</div> <div n="xs">{#*व्यवहारप्रतिनिधिपत्रम्।#}</div> <div n="xe">{%A general%}</div> <div n="xs">{#*व्यवहार-#}
+<div n="lb"/>{#सचिवः, विचारादिकार्येषु राजपक्षसमर्थको राजकीय-#}
+<div n="lb"/>{#प्रधानोपदेष्टा।#}</div>
+<LEND>

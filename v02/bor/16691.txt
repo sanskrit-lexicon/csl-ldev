@@ -1,0 +1,7 @@
+<L>16691<pc>512<k1>pen<k2>pen
+<div n="lb"/>{@PEN@}¦ (subs.): <div n="I">I For writing: </div><div n="1">(1) {#लेखनी,#} <div n="xe">{%if%}
+<div n="lb"/>{%my p. does not cease to write for a moment:%}</div> <div n="xs">{#यदि#}</div>
+<div n="lb"/>{#मे लेखनी क्षणं लिखतो नावतिष्ठेत,#} Mah.; </div><div n="1">(2) {#कलमः#}
+<div n="lb"/>(reed-p.). </div><div n="I">II For cattle: <div n="xe">{%cow-p.:%}</div> <div n="xs">{#गोशाला, #}
+<div n="lb"/>{# गोकुलम्,#}</div> etc.</div>
+<LEND>

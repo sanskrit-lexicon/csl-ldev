@@ -1,0 +1,6 @@
+<L>12233<pc>381<k1>inhalation<k2>inhalation
+<div n="lb"/>{@INHALATION:@}¦ <div n="xe">{%the external air inhaled by spirit%}
+<div n="lb"/>{%is i., the internal air exhaled is exhalation:%}</div> <div n="xs">{#प्राणो #}
+<div n="lb"/>{# यद्वाह्यं वायुमाचामति स श्वासः, यत्कौष्ठ्यं वायुं निःसार-#}
+<div n="lb"/>{#यति स प्रश्वासः,#}</div> P. d.
+<LEND>

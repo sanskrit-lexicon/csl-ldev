@@ -1,0 +1,4 @@
+<L>6717<pc>215<k1>documentary<k2>documentary
+<div n="lb"/>{@DOCUMENTARY:@}¦ Ph.: <div n="xe">{%d. evidence:%}</div> <div n="xs">{#लेख्यप्रमाणम्;#}</div>
+<div n="lb"/><div n="xe">{%d. debt:%}</div> <div n="xs">{#लेख्यकृतमृणम्,#}</div> Y.
+<LEND>

@@ -1,0 +1,7 @@
+<L>12080<pc>376<k1>industry<k2>industry
+<div n="lb"/>{@INDUSTRY:@}¦ <div n="1">(1) {#व्यवसायः#} <div n="xe">{%or%}</div> <div n="xs">{#अध्यवसायः,#}</div> <div n="xe">{%no work%}
+<div n="lb"/>{%bears fruit without: i.:%}</div> <div n="xs">{#व्यवसायं विना कर्म न फलति,#}</div>
+<div n="lb"/>P. ii. 5.; </div><div n="1">(2) {#परिश्रमः#} (= labour); </div><div n="1">(3) {#उद्योगः#}
+<div n="lb"/>(= effort); </div><div n="1">(4) {#अभियोगः#} (=diligence); </div><div n="1">(5)
+<div n="lb"/>{#कर्मिष्ठता।#}</div>
+<LEND>

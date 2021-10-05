@@ -1,0 +1,7 @@
+<L>1704<pc>059<k1>battery<k2>battery
+<div n="lb"/>{@BATTERY:@}¦ <div n="I">I Assault: </div><div n="1">(1) {#ताडनम्;#} </div><div n="1">(2) {#प्रहारः।#}</div>
+<div n="lb"/><div n="I">II The act of battering </div><div n="1">(1) {#मर्दनम्;#} </div><div n="1">(2)
+<div n="lb"/>{#विमर्दनम्;#} </div><div n="1">(3) {#मन्थनम्;#} </div><div n="1">(4) {#भञ्जनम्।#} </div><div n="I">III A line of
+<div n="lb"/>cannon: {#*कामानचक्रम्।#} </div><div n="I">IV Galvanic b.:
+<div n="lb"/>{#*प्रचलविदुज्जननी घटश्रेणी।#}</div>
+<LEND>

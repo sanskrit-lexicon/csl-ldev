@@ -1,0 +1,4 @@
+<L>2506<pc>085<k1>bread-fruit<k2>bread-fruit
+<div n="lb"/>{@BREAD-FRUIT:@}¦ <div n="1">(1) {#कण्ट#}- <div n="xe">{%or%}</div> <div n="xs">{#कण्टक#}</div>- <div n="xe">{%or%}</div> <div n="xs">{#कण्टकिफलम्;#}</div></div>
+<div n="lb"/><div n="1">(2) {#पनसं#} <div n="xe">{%or%}</div> <div n="xs">{#पनसफलम्।#}</div></div>
+<LEND>

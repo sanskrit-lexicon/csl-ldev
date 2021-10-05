@@ -1,0 +1,5 @@
+<L>9336<pc>296<k1>fragrance<k2>fragrance
+<div n="lb"/>{@FRAGRANCE,@}¦ {@FRAGRANCY:@} <div n="1">(1) {#सौरभम्#} <div n="xe">{%or%}</div> <div n="xs">{#सौरम्यम्;#}</div></div>
+<div n="lb"/><div n="1">(2) {#परिमलः;#} </div><div n="1">(3) {#आमोदः;#} </div><div n="1">(4) {#सुगन्धिः, सुगन्धः#}
+<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#सौगन्ध्यम्।#}</div></div>
+<LEND>

@@ -1,0 +1,3 @@
+<L>21988<pc>693<k1>surplus<k2>surplus
+<div n="lb"/>{@SURPLUS:@}¦ {#उद्वृत्तम्,#} <div n="xe">{%s. amount:%}</div> <div n="xs">{#उद्वृत्तं धनम्।#}</div>
+<LEND>

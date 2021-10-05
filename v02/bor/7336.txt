@@ -1,0 +1,4 @@
+<L>7336<pc>232<k1>elective<k2>elective
+<div n="lb"/>{@ELECTIVE:@}¦ Ph.: <div n="xe">{%e. franchise:%}</div> <div n="xs">{#*निर्वाचनाधिकारः;#}</div>
+<div n="lb"/><div n="xe">{%e. office%}</div> <div n="xs">{#*निर्वाचनीयपदम्।#}</div>
+<LEND>

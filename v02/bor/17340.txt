@@ -1,0 +1,6 @@
+<L>17340<pc>531<k1>political<k2>political
+<div n="lb"/>{@POLITICAL:@}¦ <div n="xe">{%p. science:%}</div> <div n="xs">{#नीतिशास्त्रम्;#}</div> {%p. economy:%}
+<div n="lb"/>{#अर्थविज्ञानम्;#} <div n="xe">{%p. affairs:%}</div> <div n="xs">{#राजकार्याणि;#}</div> <div n="xe">{%to lead a p.%}
+<div n="lb"/>{%life:%}</div> <div n="xs">{#*राजकार्येषु जीवनमतिवाहयति;#}</div> {%p. institutions:%}
+<div n="lb"/>{#राज्यतन्त्राणि#} (??).
+<LEND>

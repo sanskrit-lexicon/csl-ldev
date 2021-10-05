@@ -1,0 +1,4 @@
+<L>500<pc>019<k1>ailment<k2>ailment
+<div n="lb"/>{@AILMENT:@}¦ <div n="1">(1) {#पीडा;#} </div><div n="1">(2) {#बाघा;#} </div><div n="1">(3) {#व्यथा;#} </div><div n="1">(4)
+<div n="lb"/>{#आतङ्कः।#}</div>
+<LEND>

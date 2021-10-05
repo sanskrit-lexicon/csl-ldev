@@ -1,0 +1,13 @@
+<L>12390<pc>384<k1>instance<k2>instance
+<div n="lb"/>{@INSTANCE@}¦ (subs.): <div n="I">I Importance: {#गुरुत्वम्।#}</div>
+<div n="lb"/><div n="I">II Solicitation: {#प्रर्थना।#} </div><div n="I">III Example:
+<div n="lb"/>q.v.: {#उदाहरणम्,#} <div n="xe">{%for i.:%}</div> <div n="xs">{#तथाहि;#}</div> <div n="xe">{%for i. Purūravas%}
+<div n="lb"/>{%met destruction from a thirst after Brāhmin's%}
+<div n="lb"/>{%money:%}</div> <div n="xs">{#तथाहि पुरूरवा ब्राह्मणधनतृष्णया विननाश,#}</div> Va.
+<div n="lb"/><div n="xe">{%As for i.:%}</div> <div n="xs">{#तद्यथा;#}</div> <div n="xe">{%as for i., in the entirety of%}
+<div n="lb"/>{%the family etc. one attributes to himself “I am%}
+<div n="lb"/>{%entire”:%}</div> <div n="xs">{#तद्यथा पुत्रमार्यादिषु सकलेष्वहमेव सकल #}
+<div n="lb"/>{# इत्यात्मन्यध्यस्यति,#}</div> S., Ph.: <div n="xe">{%in the first i.:%}</div> <div n="xs">{#प्रथमतः;#}</div>
+<div n="lb"/><div n="xe">{%Visva Prakāśa in the three i. s.:%}</div> <div n="xs">{#त्रिषु विश्वप्रकाशः,#}</div>
+<div n="lb"/>Va. com.</div>
+<LEND>

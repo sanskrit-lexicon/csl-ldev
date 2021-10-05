@@ -1,0 +1,7 @@
+<L>24171<pc>756<k1>weapon<k2>weapon
+<div n="lb"/>{@WEAPON:@}¦ <div n="1">(1) {#शस्त्रम्,#} <div n="xe">{%when victory was not inter-%}
+<div n="lb"/>{%cepted by w. s.:%}</div> <div n="xs">{#शस्त्रैरव्यधीयमानविजयः,#}</div> Vi. v. 51.;</div>
+<div n="lb"/><div n="1">(2) {#अस्त्रम्#} (properly a missile), {%various w.:%}
+<div n="lb"/>{#विविधमस्त्रम्,#} Ki. xviii. 46.; </div><div n="1">(3) {#आयुधम्;#} </div><div n="1">(4)
+<div n="lb"/>{#प्रहरणम्;#} </div><div n="1">(5) {#हेतिः#} (rare).</div>
+<LEND>
