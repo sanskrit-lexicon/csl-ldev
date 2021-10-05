@@ -26,7 +26,7 @@ if __name__ == "__main__":
             end = False
             result = lin
             lnum = re.match('<L>(.*?)<', lin).group(1)
-            if int(lnum.split('.')[0]) % 1000 == 0:
+            if int(lnum.split('.')[0]) % 10000 == 0:
                 print(lnum)
         elif start and (not end):
             result += lin
