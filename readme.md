@@ -26,7 +26,7 @@
 1. `txt_to_ldev.py` - This script generates ldev wise entries from given dictcode. e.g. `python3 txt_to_ldev.py mw` will generate ldev wise entries in the csl-ldev/v02/mw repository.
 2. `redo_all.sh` - This script will regenerate all dictionaries based on latest data at csl-devanagari repository. `bash redo_all.sh`.
 3. `ldev_to_csldevanagari.py` - This script takes two arguments `dictId` and `lnum`. This script is used to carry the changes made in csl-lnum repository by a user to csl-devanagari repository. Usage - `python3 ldev_to_csldevanagari.py skd 15140` will take the file csl-ldev/v02/skd/15140.txt and integrate that data to csl-devanagari/v02/skd/skd.txt. 
-
+4. After the changes are transferred to csl-devanagari repository, go to `csl-devanagari/scripts/` and transfer the changes by `python3 to_slp1.py dictId` and `cp ../slp1/$dict.txt ../../csl-orig/v02/dictId/dicdId.txt`. This would transfer the changes from csl-devanagari to csl-orig (original data of Cologne).
 
 # Danger
 
