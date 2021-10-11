@@ -59,4 +59,4 @@ if __name__ == "__main__":
             tfout.close()
             shutil.copy(tempfile, cslfile)
             os.remove(tempfile)
-            print('Changes incorporated in csl-orig repository.')
+            print('Changes incorporated in csl-devanagari repository.')
