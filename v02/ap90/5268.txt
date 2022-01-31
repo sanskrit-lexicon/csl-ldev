@@ -1,13 +1,13 @@
 <L>5268<pc>0201-b<k1>अशुभ<k2>अशुभ
 {#अशुभ#}¦ {%<ab>a.</ab>%} {@1@} Inauspicious. {@--2@} <lbinfo n="Im+pure"/>
-<>Impure, dirty, foul (<ab>opp.</ab> {#शुभ#});  <lbinfo n="SuBe#nASuBena"/>
-<>{#शुभेनाशुभेन वोपायेन#} <ls>K. 158</ls> by any
-<>means, fair or foul. {@--3@} Unlucky,
-<>unfortunate. {#--भं#} {@1@} <lbinfo n="Inauspicious+ness"/>
-<>Inauspiciousness. {@--2@} Sin, a shameful deed. {@--3@}
-<>Misfortune, calamity; {#नाथे#} <lbinfo n="kutastva#yyaSuBaM"/>
-<>{#कुतस्त्वय्यशुभं प्रजानां#} <ls>R. 5. 13</ls>; {#प्रायः शुभं#}
-<>{#विदधात्यशुभं च जंतोः#} <ls>Māl. 1. 23.</ls>
-<>{@--Comp.@} {#--उदयः#} an inauspicious
-<>omen.
+Impure, dirty, foul (<ab>opp.</ab> {#शुभ#});  <lbinfo n="SuBe#nASuBena"/>
+{#शुभेनाशुभेन वोपायेन#} <ls>K. 158</ls> by any
+means, fair or foul. {@--3@} Unlucky,
+unfortunate. {#--भं#} {@1@} <lbinfo n="Inauspicious+ness"/>
+Inauspiciousness. {@--2@} Sin, a shameful deed. {@--3@}
+Misfortune, calamity; {#नाथे#} <lbinfo n="kutastva#yyaSuBaM"/>
+{#कुतस्त्वय्यशुभं प्रजानां#} <ls>R. 5. 13</ls>; {#प्रायः शुभं#}
+{#विदधात्यशुभं च जंतोः#} <ls>Māl. 1. 23.</ls>
+{@--Comp.@} {#--उदयः#} an inauspicious
+omen.
 <LEND>

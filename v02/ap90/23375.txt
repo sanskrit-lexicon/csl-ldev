@@ -1,10 +1,10 @@
 <L>23375<pc>0875-a<k1>मूल्य<k2>मूल्य
 {#मूल्य#}¦ {%<ab>a.</ab>%} {@1@} To be eradicated. {@--2@}
-<>Being at the root. {@--3@} Purchasable.
-<>{#--ल्यं#} {@1@} Price, worth, cost; {#क्रीणंति#}
-<>{#स्म प्राणमूल्यैर्यशांसि#} <ls>Śi. 18. 15</ls>, <lbinfo n="ls:Śānti.+1"/>
-<><ls>Śānti. 1. 12.</ls> {@--2@} Wages, hire, salary. {@--3@}
-<>Gain. {@--4@} Capital, principal. {@--5@} <lbinfo n="Ori+ginal"/>
-<>Original value. {@--6@} An article <lbinfo n="purchas+ed"/>
-<>purchased.
+Being at the root. {@--3@} Purchasable.
+{#--ल्यं#} {@1@} Price, worth, cost; {#क्रीणंति#}
+{#स्म प्राणमूल्यैर्यशांसि#} <ls>Śi. 18. 15</ls>, <lbinfo n="ls:Śānti.+1"/>
+<ls>Śānti. 1. 12.</ls> {@--2@} Wages, hire, salary. {@--3@}
+Gain. {@--4@} Capital, principal. {@--5@} <lbinfo n="Ori+ginal"/>
+Original value. {@--6@} An article <lbinfo n="purchas+ed"/>
+purchased.
 <LEND>

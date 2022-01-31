@@ -1,18 +1,18 @@
 <L>5849<pc>0225-b<k1>आख्या<k2>आख्या
 {#आख्या#}¦ {c2c} <ab>P.</ab> {@1@} ({%a%}) To tell, say,
-<>inform, communicate, narrate
-<>(usually with <ab>dat.</ab> of person); {#ते#} <lbinfo n="rAmA#ya"/>
-<>{#रामाय वधोपायमाचख्युर्विबुधद्विषः#} <ls>R. 15. 5</ls>,
-<><ls n="R. 15.">41</ls>, <ls n="R. 15.">71</ls>, <ls n="R. 15.">93</ls>; <ls n="R.">12. 42</ls>, <ls n="R. 12.">91</ls>; <ls>Bg. 11. 31</ls>,
-<><ls n="Bg.">18. 63</ls>; <ls>Me. 100</ls>; <ls>Ms. 8. 224</ls>, <ls n="Ms.">9. 73</ls>,
-<><ls>Y. 1. 66</ls>, <ls n="Y.">2. 65</ls>; sometimes with <ab>gen.</ab>
-<>of person; {#आख्याहि भद्रे प्रियदर्शनस्य#}  <lbinfo n="ls:Pt.+ 4. 15"/>
-<><ls>Pt. 4. 15</ls>; {#केनाहं तवाख्यातः#} <ls>Mb.</ls> ({%b%}) To
-<>declare, announce, signify; <ls>R. 2. 11.</ls>
-<>{@--2@} To call, denominate, name;  <lbinfo n="suvarRa#biMdurityAKyAyate"/>
-<>{#सुवर्णबिंदुरित्याख्यायते#} <ls>Māl. 9</ls>; <ls>R. 10. 21</ls>,
-<><ls>Ms. 4. 6.</ls> {@--3@} To look at, count; to
-<>recite (<ab>Ved.</ab>). {%--<ab>Caus.</ab>%} ({#ख्यापयति#}) {@1@}
-<>To cause to tell or narrate. {@--2@} To
-<>declare.
+inform, communicate, narrate
+(usually with <ab>dat.</ab> of person); {#ते#} <lbinfo n="rAmA#ya"/>
+{#रामाय वधोपायमाचख्युर्विबुधद्विषः#} <ls>R. 15. 5</ls>,
+<ls n="R. 15.">41</ls>, <ls n="R. 15.">71</ls>, <ls n="R. 15.">93</ls>; <ls n="R.">12. 42</ls>, <ls n="R. 12.">91</ls>; <ls>Bg. 11. 31</ls>,
+<ls n="Bg.">18. 63</ls>; <ls>Me. 100</ls>; <ls>Ms. 8. 224</ls>, <ls n="Ms.">9. 73</ls>,
+<ls>Y. 1. 66</ls>, <ls n="Y.">2. 65</ls>; sometimes with <ab>gen.</ab>
+of person; {#आख्याहि भद्रे प्रियदर्शनस्य#}  <lbinfo n="ls:Pt.+ 4. 15"/>
+<ls>Pt. 4. 15</ls>; {#केनाहं तवाख्यातः#} <ls>Mb.</ls> ({%b%}) To
+declare, announce, signify; <ls>R. 2. 11.</ls>
+{@--2@} To call, denominate, name;  <lbinfo n="suvarRa#biMdurityAKyAyate"/>
+{#सुवर्णबिंदुरित्याख्यायते#} <ls>Māl. 9</ls>; <ls>R. 10. 21</ls>,
+<ls>Ms. 4. 6.</ls> {@--3@} To look at, count; to
+recite (<ab>Ved.</ab>). {%--<ab>Caus.</ab>%} ({#ख्यापयति#}) {@1@}
+To cause to tell or narrate. {@--2@} To
+declare.
 <LEND>

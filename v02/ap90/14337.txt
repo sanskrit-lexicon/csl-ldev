@@ -1,57 +1,57 @@
 <L>14337<pc>0527-a<k1>तथा<k2>तथा
 {#तथा#}¦ [{#तद् प्रकारे थाल् विभक्तित्वात्#}]
-<>{%<ab>ind.</ab>%} {@1@} So, thus, in that manner; {#तथा#}
-<>{#मां वंचयित्वा#} <ls>Ś. 5</ls>; {#सूतस्तथा करोति#}
-<><ls>V. 1.</ls> {@--2@} And also, so also, as well
-<>as; {#अनागतविधाता च प्रत्युत्पन्नमतिस्तथा#}
-<><ls>Pt. 1. 318</ls>; <ls>R. 3. 21.</ls> {@--3@} True,
-<>just so, exactly so; {#यदात्थ राजन्यकुमार#}
-<>{#तत्तथा#} <ls>R. 3. 48</ls>; <ls>Ms. 1. 42.</ls> {@--4@}
-<>(In forms of adjuration) As <lbinfo n="sure+ly"/>
-<>surely as (preceded by {#यथा#}); see {#यथा#}.
-<>(For some of the meanings of {#तथा#}
-<>as a correlative of {#यथा#}, see under
-<>{#यथा#}). {#तथापि#} (<ab>oft.</ab> corr. of {#यद्यपि#})
-<>‘even then,’ ‘still’, ‘yet’,
-<>‘never-the-less’, {#प्रथित दुष्यंतस्य चरितं#}
-<>{#तथापीदं न लक्षये#} <ls>Ś. 5</ls>; {#वरं महत्या#}
-<>{#म्रियते पिपासया तथापि नान्यस्य#} <lbinfo n="karotyu#pAsanA"/>
-<>{#करोत्युपासना#} <ls>Chāt. 2. 6</ls>; {#वपुःप्रकर्षादजयद्रुरुं#}
-<>{#रघुस्तथापि नीचैर्विनयाददृश्यत#}  <lbinfo n="ls:R. 3.+ 34"/>
-<><ls>R. 3. 34</ls>, <ls n="R. 3.">62.</ls> {#तथेति#} shows ‘assent’ or
-<>‘promise’; {#तथेति शेषामिव#} <lbinfo n="BarturAjYAmA#dAya"/>
-<>{#भर्तुराज्ञामादाय मूर्ध्ना मदनः प्रतस्थे#} <ls>Ku. 3. 22</ls>;
-<><ls>R. 1. 92</ls>, <ls n="R.">3. 67</ls>; <ls>Ku. 6. 3</ls>;
-<>{#तथेति निष्क्रांतः#} (in dramas). {#तथैव#};
-<>‘even so’, ‘just so’; ‘exactly so’;
-<>{#तथैव च#} ‘in like manner’; {#तथा च#}
-<>‘and also’, ‘and likewise’, ‘in
-<>like manner’, ‘so it has
-<>been said’; {#तथाहि#} ‘for so’ ‘as
-<>for instance’, ‘for this (it
-<>has been said)’; {#तं वेधा विदधे नूनं#} <lbinfo n="ma#hABUtasamADinA"/>
-<>{#महाभूतसमाधिना । तथाहि वर्से तस्यासम्#} <lbinfo n="pa#rArTEkaPalA"/>
-<>{#परार्थैकफला गुणाः ॥#} <ls>R. 1. 29</ls>;  <lbinfo n="ls:Ś. 1.+ 32."/>
-<><ls>Ś. 1. 32.</ls> {@--Comp.@} {#--कृत#} {%<ab>a.</ab>%} thus done. 
+{%<ab>ind.</ab>%} {@1@} So, thus, in that manner; {#तथा#}
+{#मां वंचयित्वा#} <ls>Ś. 5</ls>; {#सूतस्तथा करोति#}
+<ls>V. 1.</ls> {@--2@} And also, so also, as well
+as; {#अनागतविधाता च प्रत्युत्पन्नमतिस्तथा#}
+<ls>Pt. 1. 318</ls>; <ls>R. 3. 21.</ls> {@--3@} True,
+just so, exactly so; {#यदात्थ राजन्यकुमार#}
+{#तत्तथा#} <ls>R. 3. 48</ls>; <ls>Ms. 1. 42.</ls> {@--4@}
+(In forms of adjuration) As <lbinfo n="sure+ly"/>
+surely as (preceded by {#यथा#}); see {#यथा#}.
+(For some of the meanings of {#तथा#}
+as a correlative of {#यथा#}, see under
+{#यथा#}). {#तथापि#} (<ab>oft.</ab> corr. of {#यद्यपि#})
+‘even then,’ ‘still’, ‘yet’,
+‘never-the-less’, {#प्रथित दुष्यंतस्य चरितं#}
+{#तथापीदं न लक्षये#} <ls>Ś. 5</ls>; {#वरं महत्या#}
+{#म्रियते पिपासया तथापि नान्यस्य#} <lbinfo n="karotyu#pAsanA"/>
+{#करोत्युपासना#} <ls>Chāt. 2. 6</ls>; {#वपुःप्रकर्षादजयद्रुरुं#}
+{#रघुस्तथापि नीचैर्विनयाददृश्यत#}  <lbinfo n="ls:R. 3.+ 34"/>
+<ls>R. 3. 34</ls>, <ls n="R. 3.">62.</ls> {#तथेति#} shows ‘assent’ or
+‘promise’; {#तथेति शेषामिव#} <lbinfo n="BarturAjYAmA#dAya"/>
+{#भर्तुराज्ञामादाय मूर्ध्ना मदनः प्रतस्थे#} <ls>Ku. 3. 22</ls>;
+<ls>R. 1. 92</ls>, <ls n="R.">3. 67</ls>; <ls>Ku. 6. 3</ls>;
+{#तथेति निष्क्रांतः#} (in dramas). {#तथैव#};
+‘even so’, ‘just so’; ‘exactly so’;
+{#तथैव च#} ‘in like manner’; {#तथा च#}
+‘and also’, ‘and likewise’, ‘in
+like manner’, ‘so it has
+been said’; {#तथाहि#} ‘for so’ ‘as
+for instance’, ‘for this (it
+has been said)’; {#तं वेधा विदधे नूनं#} <lbinfo n="ma#hABUtasamADinA"/>
+{#महाभूतसमाधिना । तथाहि वर्से तस्यासम्#} <lbinfo n="pa#rArTEkaPalA"/>
+{#परार्थैकफला गुणाः ॥#} <ls>R. 1. 29</ls>;  <lbinfo n="ls:Ś. 1.+ 32."/>
+<ls>Ś. 1. 32.</ls> {@--Comp.@} {#--कृत#} {%<ab>a.</ab>%} thus done. 
 [Page0527-b+ 57]
-<>{#--गत#} {%<ab>a.</ab>%} {1} being in such a state
-<>or condition; {#तथागतायां परिहासपूर्वं#}
-<><ls>R. 6. 82.</ls> {2} of such a quality.
-<>({#--तः#}) {1} Buddha; {#काले मितं#} <lbinfo n="vAkya#mudarkapaSyaM"/>
-<>{#वाक्यमुदर्कपश्यं तथागतस्येव जनः सुचेताः#}  <lbinfo n="ls:Śi.+ 20. 81."/>
-<><ls>Śi. 20. 81.</ls> {2} a Jina. {#--गुण#} {%<ab>a.</ab>%} <lbinfo n="en+dowed"/>
-<>endowed with such qualities. {#--भावः#}
-<>{1} that state or condition. {2}
-<>reality; <ls>Māl. 1. 31.</ls> {#--भूत#} {%<ab>a.</ab>%} {1} of
-<>such qualities or nature. {2} so
-<>circumstanced, in that condition;
-<>{#तथाभूतां दृष्ट्वा नृपसदसि पांचालतनयां#}
-<><ls>Ve. 1. 11.</ls> {#--राजः#} an epithet of
-<>Buddha. {#--रूप, --रूपिन्#} {%<ab>a.</ab>%} thus
-<>shaped, looking thus. {#--विध#} {%<ab>a.</ab>%} of
-<>such a sort, of such qualities or
-<>nature; {#तथाविधस्तावदशेषमस्तु सः#}
-<><ls>Ku. 5. 82</ls>, <ls>R. 3. 4.</ls> {#--विधं#} {%<ab>ind.</ab>%} {1}
-<>thus, in this manner. {2} likewise.
-<>equally. {#--विधेय#} {%<ab>a.</ab>%} of such a sort.
+{#--गत#} {%<ab>a.</ab>%} {1} being in such a state
+or condition; {#तथागतायां परिहासपूर्वं#}
+<ls>R. 6. 82.</ls> {2} of such a quality.
+({#--तः#}) {1} Buddha; {#काले मितं#} <lbinfo n="vAkya#mudarkapaSyaM"/>
+{#वाक्यमुदर्कपश्यं तथागतस्येव जनः सुचेताः#}  <lbinfo n="ls:Śi.+ 20. 81."/>
+<ls>Śi. 20. 81.</ls> {2} a Jina. {#--गुण#} {%<ab>a.</ab>%} <lbinfo n="en+dowed"/>
+endowed with such qualities. {#--भावः#}
+{1} that state or condition. {2}
+reality; <ls>Māl. 1. 31.</ls> {#--भूत#} {%<ab>a.</ab>%} {1} of
+such qualities or nature. {2} so
+circumstanced, in that condition;
+{#तथाभूतां दृष्ट्वा नृपसदसि पांचालतनयां#}
+<ls>Ve. 1. 11.</ls> {#--राजः#} an epithet of
+Buddha. {#--रूप, --रूपिन्#} {%<ab>a.</ab>%} thus
+shaped, looking thus. {#--विध#} {%<ab>a.</ab>%} of
+such a sort, of such qualities or
+nature; {#तथाविधस्तावदशेषमस्तु सः#}
+<ls>Ku. 5. 82</ls>, <ls>R. 3. 4.</ls> {#--विधं#} {%<ab>ind.</ab>%} {1}
+thus, in this manner. {2} likewise.
+equally. {#--विधेय#} {%<ab>a.</ab>%} of such a sort.
 <LEND>

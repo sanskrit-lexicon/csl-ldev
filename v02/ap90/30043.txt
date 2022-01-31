@@ -1,10 +1,10 @@
 <L>30043<pc>1115-b<k1>साधित<k2>साधित
 {#साधित#}¦ {%<ab>p. p.</ab>%} {@1@} Accomplished <lbinfo n="effect+ed"/>
-<>effected, achieved. {@--2@} Completed, <lbinfo n="finish+ed"/>
-<>finished. {@--3@} Proved, demonstrated. {@--4@}
-<>Obtained, secured. {@--5@} Discharged.
-<>{@--6@} Overcome, subdued. {@--7@} Made
-<>good, recovered. {@--8@} Fined. {@--9@} Made
-<>to pay. {@--10@} Awarded (as fine or
-<>punishment).
+effected, achieved. {@--2@} Completed, <lbinfo n="finish+ed"/>
+finished. {@--3@} Proved, demonstrated. {@--4@}
+Obtained, secured. {@--5@} Discharged.
+{@--6@} Overcome, subdued. {@--7@} Made
+good, recovered. {@--8@} Fined. {@--9@} Made
+to pay. {@--10@} Awarded (as fine or
+punishment).
 <LEND>

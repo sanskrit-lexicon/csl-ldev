@@ -1,6 +1,6 @@
 <L>29488<pc>1099-b<k1>समीकरणं<k2>समीकरणं --क्रिया
 {#समीकरणं --क्रिया#}¦ {@1@} Equalizing, <lbinfo n="level+ling"/>
-<>levelling. {@--2@} Assimilation. {@--3@} An equation.
-<>{@--4@} (In arith.) Reduction of <lbinfo n="frac+tions"/>
-<>fractions to a common denominator.
+levelling. {@--2@} Assimilation. {@--3@} An equation.
+{@--4@} (In arith.) Reduction of <lbinfo n="frac+tions"/>
+fractions to a common denominator.
 <LEND>

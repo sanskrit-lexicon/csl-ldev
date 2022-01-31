@@ -1,21 +1,21 @@
 <L>25762<pc>0969-c<k1>विचारः<k2>विचारः
 {#विचारः#}¦ {@1@} Reflection, <lbinfo n="delibera+tion"/>
-<>deliberation, thought, consideration;
-<>{#विचारमार्गप्रहितेन चक्षुषा#}  <lbinfo n="ls:Ku. 5.+ 42."/>
-<><ls>Ku. 5. 42.</ls> {@--2@} Examination, discussion,
-<>investigation; {#तत्वार्थविचार#}. {@--3@} Trial,
-<>(of a case);  <lbinfo n="vizasalilatulAgniprArTi#te"/>
-<>{#विषसलिलतुलाग्निप्रार्थिते मे विचारे#} <ls>Mk. 9. 43.</ls> {@--4@} Judgment,
-<>discrimination, discernment, <lbinfo n="exer+cise"/>
-<>exercise of reason; {#विचारमूढः प्रतिभासि मे#}
-<>{#त्वं#} <ls>R. 2. 47.</ls> {@--5@} Decision, <lbinfo n="deter+mination"/>
-<>determination. {@--6@} Selection. {@--7@} Doubt,
-<>hesitation. {@--8@} Prudence, <lbinfo n="circum+spection"/>
-<>circumspection. {@--Comp.@} {#--ज्ञ#} {%<ab>a.</ab>%} able to
-<>decide, a judge. {#--भूः#} {%<ab>f.</ab>%} {1} a <lbinfo n="tri+bunal"/>
-<>tribunal, seat of justice. {2} <lbinfo n="particu+larly"/>
-<>particularly, the judgment-seat of Yama.
-<>{#--शील#} {%<ab>a.</ab>%} thoughtful, considerate,
-<>prudent. {#--स्थलं#} {1} a tribunal. {2}
-<>logical discussion.
+deliberation, thought, consideration;
+{#विचारमार्गप्रहितेन चक्षुषा#}  <lbinfo n="ls:Ku. 5.+ 42."/>
+<ls>Ku. 5. 42.</ls> {@--2@} Examination, discussion,
+investigation; {#तत्वार्थविचार#}. {@--3@} Trial,
+(of a case);  <lbinfo n="vizasalilatulAgniprArTi#te"/>
+{#विषसलिलतुलाग्निप्रार्थिते मे विचारे#} <ls>Mk. 9. 43.</ls> {@--4@} Judgment,
+discrimination, discernment, <lbinfo n="exer+cise"/>
+exercise of reason; {#विचारमूढः प्रतिभासि मे#}
+{#त्वं#} <ls>R. 2. 47.</ls> {@--5@} Decision, <lbinfo n="deter+mination"/>
+determination. {@--6@} Selection. {@--7@} Doubt,
+hesitation. {@--8@} Prudence, <lbinfo n="circum+spection"/>
+circumspection. {@--Comp.@} {#--ज्ञ#} {%<ab>a.</ab>%} able to
+decide, a judge. {#--भूः#} {%<ab>f.</ab>%} {1} a <lbinfo n="tri+bunal"/>
+tribunal, seat of justice. {2} <lbinfo n="particu+larly"/>
+particularly, the judgment-seat of Yama.
+{#--शील#} {%<ab>a.</ab>%} thoughtful, considerate,
+prudent. {#--स्थलं#} {1} a tribunal. {2}
+logical discussion.
 <LEND>

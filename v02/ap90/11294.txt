@@ -1,15 +1,15 @@
 <L>11294<pc>0414-c<k1>कुसीद<k2>कुसी(सि)द
 {#कुसी(सि)द#}¦ {%<ab>a.</ab>%} Lazy, slothful.
-<>{#--दः#} (also written as {#कुशी-षी-द#}) A
-<>money-lender, usurer. {#--दं#} {@1@} Any
-<>loan or thing lent to be repaid
-<>with interest. {@--2@} Lending money,
-<>usury, the profession of usury;
-<>{#कुसीदाद् दारिद्र्यं परकरगतग्रंथिशमनात्#}  <lbinfo n="ls:Pt.+ 1. 11"/>
-<><ls>Pt. 1. 11</ls>; <ls>Ms. 1. 90</ls>; <ls n="Ms.">8. 410</ls>;  <lbinfo n="ls:Y. 1.+ 119."/>
-<><ls>Y. 1. 119.</ls> {@--Comp.@} {#--पथः#} usury, usurious
-<>interest; any interest exceeding {5}
-<>per cent. {#--वृद्धिः#} {%<ab>f.</ab>%} interest on
-<>money; {#कुसीदवृद्धिर्द्वैगुण्यं नात्येति#} <lbinfo n="sakf#dAhftA"/>
-<>{#सकृदाहृता#} <ls>Ms. 8. 151.</ls>
+{#--दः#} (also written as {#कुशी-षी-द#}) A
+money-lender, usurer. {#--दं#} {@1@} Any
+loan or thing lent to be repaid
+with interest. {@--2@} Lending money,
+usury, the profession of usury;
+{#कुसीदाद् दारिद्र्यं परकरगतग्रंथिशमनात्#}  <lbinfo n="ls:Pt.+ 1. 11"/>
+<ls>Pt. 1. 11</ls>; <ls>Ms. 1. 90</ls>; <ls n="Ms.">8. 410</ls>;  <lbinfo n="ls:Y. 1.+ 119."/>
+<ls>Y. 1. 119.</ls> {@--Comp.@} {#--पथः#} usury, usurious
+interest; any interest exceeding {5}
+per cent. {#--वृद्धिः#} {%<ab>f.</ab>%} interest on
+money; {#कुसीदवृद्धिर्द्वैगुण्यं नात्येति#} <lbinfo n="sakf#dAhftA"/>
+{#सकृदाहृता#} <ls>Ms. 8. 151.</ls>
 <LEND>

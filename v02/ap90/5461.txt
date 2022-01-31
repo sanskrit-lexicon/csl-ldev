@@ -1,20 +1,20 @@
 <L>5461<pc>0211-a<k1>असम<k2>असम
 {#असम#}¦ {%<ab>a.</ab>%} {@1@} Uneven, odd (as a
-<>number); {#असमशीलाः खलु मृगाः#}  <lbinfo n="ls:Bv.+ 1. 2"/>
-<><ls>Bv. 1. 2</ls> mean, contemptible. {@--2@} Unequal
-<>(in space, number or dignity);
-<>{#असमैः समीयमानः#} <ls>Pt. 1. 74.</ls> {@--3@}
-<>Unequalled, matchless, unsurpassed;
-<>{#समवतारसमैरसमैस्तटैः#} <ls>Ki. 5. 7</ls>;  <lbinfo n="vAdya#viSezARAmasamaH"/>
-<>{#वाद्यविशेषाणामसमः श्रोता#} <ls>K. 12</ls>;  <lbinfo n="ls:Ms.+ 10. 73."/>
-<><ls>Ms. 10. 73.</ls> {@--4@} Uneven, not level (as
-<>ground). {#--मः#} <ab>N.</ab> of Buddha.
-<>{@--Comp.@} {#--इषुः, --बाणः, --सायकः#} ‘having
-<>an odd number of arrows,’ epithets
-<>of Cupid who has five arrows.  <lbinfo n="--na#yana"/>
-<>{#--नयन, --नेत्र, --लोचन#} {%<ab>a.</ab>%} ‘having an odd
-<>number of eyes’, epithets of Śiva,
-<>who has three eyes. {#--वृत्तं#} a metre
-<>in which the {%ganas%} are not the
-<>same in all lines.
+number); {#असमशीलाः खलु मृगाः#}  <lbinfo n="ls:Bv.+ 1. 2"/>
+<ls>Bv. 1. 2</ls> mean, contemptible. {@--2@} Unequal
+(in space, number or dignity);
+{#असमैः समीयमानः#} <ls>Pt. 1. 74.</ls> {@--3@}
+Unequalled, matchless, unsurpassed;
+{#समवतारसमैरसमैस्तटैः#} <ls>Ki. 5. 7</ls>;  <lbinfo n="vAdya#viSezARAmasamaH"/>
+{#वाद्यविशेषाणामसमः श्रोता#} <ls>K. 12</ls>;  <lbinfo n="ls:Ms.+ 10. 73."/>
+<ls>Ms. 10. 73.</ls> {@--4@} Uneven, not level (as
+ground). {#--मः#} <ab>N.</ab> of Buddha.
+{@--Comp.@} {#--इषुः, --बाणः, --सायकः#} ‘having
+an odd number of arrows,’ epithets
+of Cupid who has five arrows.  <lbinfo n="--na#yana"/>
+{#--नयन, --नेत्र, --लोचन#} {%<ab>a.</ab>%} ‘having an odd
+number of eyes’, epithets of Śiva,
+who has three eyes. {#--वृत्तं#} a metre
+in which the {%ganas%} are not the
+same in all lines.
 <LEND>

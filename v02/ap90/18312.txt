@@ -1,6 +1,6 @@
 <L>18312<pc>0682-b<k1>परिसंख्यानं<k2>परिसंख्यानं
 {#परिसंख्यानं#}¦ {@1@} Enumeration, total,
-<>number. {@--2@} Exclusive specification.
-<>{@--3@} Correct judgment, proper <lbinfo n="esti+mate"/>
-<>estimate.
+number. {@--2@} Exclusive specification.
+{@--3@} Correct judgment, proper <lbinfo n="esti+mate"/>
+estimate.
 <LEND>

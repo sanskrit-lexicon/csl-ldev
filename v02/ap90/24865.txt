@@ -1,38 +1,38 @@
 <L>24865<pc>0938-c<k1>वचनं<k2>वचनं
 {#वचनं#}¦ [{#वच्-ल्युट्#}] {@1@} The act of
-<>speaking, uttering, saying. {@--2@}
-<>Speech, an utterance, words
-<>(spoken), sentence; {#ननु#} <lbinfo n="vaktfviSeza#niHspfhA"/>
-<>{#वक्तृविशेषनिःस्पृहा गुणगृह्या वचने विपश्चितः#}  <lbinfo n="ls:Ki. 2.+ 5"/>
-<><ls>Ki. 2. 5</ls>; {#प्रीतः प्रीतिप्रमुखवचनं स्वागतं#} <lbinfo n="vyAja#hAra"/>
-<>{#व्याजहार#} <ls>Me. 4.</ls> {@--3@} Repeating, recitation.
-<>{@--4@} A text, dictum, rule, precept, a
-<>passage of a sacred book; {#शास्त्रवचनं#},
-<>{#श्रुतिवचनं, स्मृतिवचनं#} &c. {@--5@} An
-<>order, a command, direction;  <lbinfo n="madva#canAt"/>
-<>{#मद्वचनात्#} ‘in my name,’ ‘by my order.’
-<>{@--6@} Advice, counsel, instruction.
-<>{@--7@} Declaration, affirmation. {@--8@} <lbinfo n="Pro+nunciation"/>
-<>Pronunciation (of a letter) (in <ab>gram.</ab>).
-<>{@--9@} The signification or meaning of
-<>a word; {#अत्र पयोधरशब्दः मेघवचनः#}.
-<>{@--10@} Number (in <ab>gram.</ab>); (there
-<>are three numbers, singular, dual
-<>and plural). {@--11@} Dry ginger. {@--Comp.@}
-<>{#--उपक्रमः#} introduction, exordium.
-<>{#--कर#} {%<ab>a.</ab>%} obedient, doing what is
-<>ordered. ({#--रः#}) the author or <lbinfo n="enun+ciator"/>
-<>enunciator of a rule or precept.  <lbinfo n="--kA#rin"/>
-<>{#--कारिन्#} {%<ab>a.</ab>%} obeying orders, obedient.
-<>{#--क्रमः#} discourse. {#--ग्राहिन्#} {%<ab>a.</ab>%} <lbinfo n="obedi+ent"/>
-<>obedient, compliant, submissive. {#--पटु#}
-<>{%<ab>a.</ab>%} eloquent. {#--मात्रं#} mere words, <lbinfo n="un+supported"/>
-<>unsupported assertion. {#--विरोधः#} <lbinfo n="in+consistency"/>
-<>inconsistency of precepts, <lbinfo n="contradic+tion"/>
-<>contradiction or incongruity of texts. {#--शतं#}
-<>a hundred speeches, {%<ab>i. e.</ab>%} repeated
-<>declaration, reiterated assertion.
-<>{#--सहायः#} a companion in <lbinfo n="conversa+tion"/>
-<>conversation. {#--स्थित#} {%<ab>a.</ab>%} ({#वचनेस्थित#} also)
-<>obedient, compliant.
+speaking, uttering, saying. {@--2@}
+Speech, an utterance, words
+(spoken), sentence; {#ननु#} <lbinfo n="vaktfviSeza#niHspfhA"/>
+{#वक्तृविशेषनिःस्पृहा गुणगृह्या वचने विपश्चितः#}  <lbinfo n="ls:Ki. 2.+ 5"/>
+<ls>Ki. 2. 5</ls>; {#प्रीतः प्रीतिप्रमुखवचनं स्वागतं#} <lbinfo n="vyAja#hAra"/>
+{#व्याजहार#} <ls>Me. 4.</ls> {@--3@} Repeating, recitation.
+{@--4@} A text, dictum, rule, precept, a
+passage of a sacred book; {#शास्त्रवचनं#},
+{#श्रुतिवचनं, स्मृतिवचनं#} &c. {@--5@} An
+order, a command, direction;  <lbinfo n="madva#canAt"/>
+{#मद्वचनात्#} ‘in my name,’ ‘by my order.’
+{@--6@} Advice, counsel, instruction.
+{@--7@} Declaration, affirmation. {@--8@} <lbinfo n="Pro+nunciation"/>
+Pronunciation (of a letter) (in <ab>gram.</ab>).
+{@--9@} The signification or meaning of
+a word; {#अत्र पयोधरशब्दः मेघवचनः#}.
+{@--10@} Number (in <ab>gram.</ab>); (there
+are three numbers, singular, dual
+and plural). {@--11@} Dry ginger. {@--Comp.@}
+{#--उपक्रमः#} introduction, exordium.
+{#--कर#} {%<ab>a.</ab>%} obedient, doing what is
+ordered. ({#--रः#}) the author or <lbinfo n="enun+ciator"/>
+enunciator of a rule or precept.  <lbinfo n="--kA#rin"/>
+{#--कारिन्#} {%<ab>a.</ab>%} obeying orders, obedient.
+{#--क्रमः#} discourse. {#--ग्राहिन्#} {%<ab>a.</ab>%} <lbinfo n="obedi+ent"/>
+obedient, compliant, submissive. {#--पटु#}
+{%<ab>a.</ab>%} eloquent. {#--मात्रं#} mere words, <lbinfo n="un+supported"/>
+unsupported assertion. {#--विरोधः#} <lbinfo n="in+consistency"/>
+inconsistency of precepts, <lbinfo n="contradic+tion"/>
+contradiction or incongruity of texts. {#--शतं#}
+a hundred speeches, {%<ab>i. e.</ab>%} repeated
+declaration, reiterated assertion.
+{#--सहायः#} a companion in <lbinfo n="conversa+tion"/>
+conversation. {#--स्थित#} {%<ab>a.</ab>%} ({#वचनेस्थित#} also)
+obedient, compliant.
 <LEND>

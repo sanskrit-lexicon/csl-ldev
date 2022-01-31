@@ -1,13 +1,13 @@
 <L>11361<pc>0417-a<k1>कूलं<k2>कूलं
 {#कूलं#}¦ {@1@} A shore, bank;  <lbinfo n="rADAmADavayorjayaM#ti"/>
-<>{#राधामाधवयोर्जयंति यमुनाकूले रहःकेलयः#} <ls>Gīt. 1</ls>;  <lbinfo n="nadIvoBa#vakUlaBAk"/>
-<>{#नदीवोभवकूलभाक्#} <ls>R. 12. 35</ls>, <ls n="R. 12.">68.</ls> {@--2@} A slope,
-<>declivity. {@--3@} Skirt, edge, border,
-<>proximity; {#कुलायकूलेषु विलुव्य तेषु ते#}
-<><ls>N. 1. 141.</ls> {@--4@} A pond. {@--5@} The rear
-<>of an army. {@--6@} A heap, mound.
-<>{@--Comp.@} {#--चर#} {%<ab>a.</ab>%} frequenting or
-<>grazing on the banks of a river.
-<>{#--भूः#} {%<ab>f.</ab>%} the land on a bank. {#--हंडकः#}
-<>{#--हंडकः#} an eddy.
+{#राधामाधवयोर्जयंति यमुनाकूले रहःकेलयः#} <ls>Gīt. 1</ls>;  <lbinfo n="nadIvoBa#vakUlaBAk"/>
+{#नदीवोभवकूलभाक्#} <ls>R. 12. 35</ls>, <ls n="R. 12.">68.</ls> {@--2@} A slope,
+declivity. {@--3@} Skirt, edge, border,
+proximity; {#कुलायकूलेषु विलुव्य तेषु ते#}
+<ls>N. 1. 141.</ls> {@--4@} A pond. {@--5@} The rear
+of an army. {@--6@} A heap, mound.
+{@--Comp.@} {#--चर#} {%<ab>a.</ab>%} frequenting or
+grazing on the banks of a river.
+{#--भूः#} {%<ab>f.</ab>%} the land on a bank. {#--हंडकः#}
+{#--हंडकः#} an eddy.
 <LEND>

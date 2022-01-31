@@ -1,13 +1,13 @@
 <L>7598<pc>0287-a<k1>उच्चारणं<k2>उच्चारणं
 {#उच्चारणं#}¦ {@1@} Pronunciation, <lbinfo n="utter+ance"/>
-<>utterance; {#वाचः#} <ls>Śik. 2</ls>; {#वेद°#}. {@--2@} <lbinfo n="Declara+tion"/>
-<>Declaration, announcement, enunciation.
-<>{@--Comp.@} {#--अर्थ#} {%<ab>a.</ab>%} {1} useful for
-<>pronunciation. {2} necessary for
-<>pronunciation, such as a redundant
-<>letter only used to facilitate <lbinfo n="pro+nunciation"/>
-<>pronunciation. {#--ज्ञः#} a linguist.
-<>{#--स्थानं#} the part of the throat from
-<>which certain sounds (such as
-<>nasals, gutturals &c.) issue.
+utterance; {#वाचः#} <ls>Śik. 2</ls>; {#वेद°#}. {@--2@} <lbinfo n="Declara+tion"/>
+Declaration, announcement, enunciation.
+{@--Comp.@} {#--अर्थ#} {%<ab>a.</ab>%} {1} useful for
+pronunciation. {2} necessary for
+pronunciation, such as a redundant
+letter only used to facilitate <lbinfo n="pro+nunciation"/>
+pronunciation. {#--ज्ञः#} a linguist.
+{#--स्थानं#} the part of the throat from
+which certain sounds (such as
+nasals, gutturals &c.) issue.
 <LEND>

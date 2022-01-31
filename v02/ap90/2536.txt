@@ -1,8 +1,8 @@
 <L>2536<pc>0112-b<k1>अपवर्तः<k2>अपवर्तः
 {#अपवर्तः#}¦ {@1@} Taking away, removing.
-<>{@--2@} (<ab>Math.</ab>) The (common) <lbinfo n="divi+sor"/>
-<>divisor which is applied to both or
-<>either of the quantities of an <lbinfo n="equa+tion"/>
-<>equation. {@--3@} Reduction to a common
-<>measure.
+{@--2@} (<ab>Math.</ab>) The (common) <lbinfo n="divi+sor"/>
+divisor which is applied to both or
+either of the quantities of an <lbinfo n="equa+tion"/>
+equation. {@--3@} Reduction to a common
+measure.
 <LEND>

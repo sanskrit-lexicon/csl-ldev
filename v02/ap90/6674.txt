@@ -1,18 +1,18 @@
 <L>6674<pc>0252-b<k1>आयुधः<k2>आयुधः, --धं
 {#आयुधः, --धं#}¦ [{#आयुध् घञर्थेक#}] {@1@} A <lbinfo n="wea+pon"/>
-<>weapon, shield &c.; it is of {3} kinds (1)
-<>{#प्रहरण#}, {%<ab>e. g.</ab>%} a sword; (2) {#हस्तमुक्त#}, {%<ab>e. g.</ab>%}
-<>a disc; (3) {#यंत्रमुक्त#}, {%<ab>e. g.</ab>%} an arrow;
-<>{#न मेत्वदन्येन विसोढनायुधं#} <ls>R. 3. 63.</ls> {@--2@}
-<>A vessel (<ab>Ved.</ab>). {#--धं#} {@1@} Gold used
-<>for ornaments. {@--2@} (<ab>pl.</ab>) Water (<ab>Ved.</ab>).
-<>{@--Comp.@} {#(--अ) आगारं#} an armoury,
-<>arsenal; {#अहमप्यायुधागारं#} <lbinfo n="praviSyAyuDa#sahAyo"/>
-<>{#प्रविश्यायुधसहायो भवामि#} <ls>Ve. 1</ls>; <ls>Ms. 9. 280</ls>
-<>{#--जीविन्#} {%<ab>a.</ab>%} living by one's weapon.
-<>({%--<ab>m.</ab>%}) a warrior, soldier. {#--धर्मिणी#} the
-<>tree called {#जयंती#} ({#रोगनाशने तस्या#} <lbinfo n="AyuDa#DarBatvAt"/>
-<>{#आयुधधर्भत्वात्#}). {#--पिशाचिका#} ‘devil of arms,’
-<>devilish warlike spirit; <ls>Mv. 3</ls>;  <lbinfo n="ls:A. R.+ 4"/>
-<><ls>A. R. 4</ls>; <ls>B. R. 4.</ls>
+weapon, shield &c.; it is of {3} kinds (1)
+{#प्रहरण#}, {%<ab>e. g.</ab>%} a sword; (2) {#हस्तमुक्त#}, {%<ab>e. g.</ab>%}
+a disc; (3) {#यंत्रमुक्त#}, {%<ab>e. g.</ab>%} an arrow;
+{#न मेत्वदन्येन विसोढनायुधं#} <ls>R. 3. 63.</ls> {@--2@}
+A vessel (<ab>Ved.</ab>). {#--धं#} {@1@} Gold used
+for ornaments. {@--2@} (<ab>pl.</ab>) Water (<ab>Ved.</ab>).
+{@--Comp.@} {#(--अ) आगारं#} an armoury,
+arsenal; {#अहमप्यायुधागारं#} <lbinfo n="praviSyAyuDa#sahAyo"/>
+{#प्रविश्यायुधसहायो भवामि#} <ls>Ve. 1</ls>; <ls>Ms. 9. 280</ls>
+{#--जीविन्#} {%<ab>a.</ab>%} living by one's weapon.
+({%--<ab>m.</ab>%}) a warrior, soldier. {#--धर्मिणी#} the
+tree called {#जयंती#} ({#रोगनाशने तस्या#} <lbinfo n="AyuDa#DarBatvAt"/>
+{#आयुधधर्भत्वात्#}). {#--पिशाचिका#} ‘devil of arms,’
+devilish warlike spirit; <ls>Mv. 3</ls>;  <lbinfo n="ls:A. R.+ 4"/>
+<ls>A. R. 4</ls>; <ls>B. R. 4.</ls>
 <LEND>

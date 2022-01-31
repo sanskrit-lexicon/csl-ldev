@@ -1,12 +1,12 @@
 <L>15259<pc>0559-b<k1>दवः<k2>दवः
 {#दवः#}¦ {@1@} A wood, forest. {@--2@} Wild
-<>fire, forest-conflagration; {#वितर#} <lbinfo n="vAri#da"/>
-<>{#वारिद वारि दवातुरे#} <ls>Subhāṣ.</ls> {@--3@} Fire,
-<>heat. {@--4@} Fever, pain. {@--Comp.@} {#--अग्निः#},
-<>{#--दहनः#} a forest-conflagration; {#यस्य#}
-<>{#न सविधे दयिता#} <lbinfo n="davadahanastuhinadIDitista#sya"/>
-<>{#दवदहनस्तुहिनदीधितिस्तस्य । यस्य च सविधे दयिता#} <lbinfo n="davadahanastu#hinadIDitistasya"/>
-<>{#दवदहनस्तुहिनदीधितिस्तस्य ॥#} <ls>K. P. 9</ls>;  <lbinfo n="ls:Bv. 1.+ 36"/>
-<><ls>Bv. 1. 36</ls>; <ls>Me. 53</ls>; {#शशाम वृष्ट्यापि विना दवाग्निः#}
-<><ls>R. 2. 14.</ls>
+fire, forest-conflagration; {#वितर#} <lbinfo n="vAri#da"/>
+{#वारिद वारि दवातुरे#} <ls>Subhāṣ.</ls> {@--3@} Fire,
+heat. {@--4@} Fever, pain. {@--Comp.@} {#--अग्निः#},
+{#--दहनः#} a forest-conflagration; {#यस्य#}
+{#न सविधे दयिता#} <lbinfo n="davadahanastuhinadIDitista#sya"/>
+{#दवदहनस्तुहिनदीधितिस्तस्य । यस्य च सविधे दयिता#} <lbinfo n="davadahanastu#hinadIDitistasya"/>
+{#दवदहनस्तुहिनदीधितिस्तस्य ॥#} <ls>K. P. 9</ls>;  <lbinfo n="ls:Bv. 1.+ 36"/>
+<ls>Bv. 1. 36</ls>; <ls>Me. 53</ls>; {#शशाम वृष्ट्यापि विना दवाग्निः#}
+<ls>R. 2. 14.</ls>
 <LEND>

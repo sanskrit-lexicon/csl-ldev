@@ -1,14 +1,14 @@
 <L>15634<pc>0580-a<k1>देवनः<k2>देवनः
 {#देवनः#}¦ [{#दीव्यत्यनेन दिव् करणे ल्युट्#}] A
-<>die. {#--नं#} {@1@} Beauty, splendour,
-<>lustre. {@--2@} Gaming, gambling, a
-<>game at dice. {@--3@} Play, sport, <lbinfo n="pa+stime"/>
-<>pastime. {@--4@} A pleasure-ground, a
-<>garden. {@--5@} A lotus. {@--6@} <lbinfo n="Emula+tion"/>
-<>Emulation, desire to excel. {@--7@} Affair,
-<>business. {@--8@} Praise. {@--9@} Going,
-<>motion. {@--10@} Grief, lamentation,
-<>sorrow. {#--ना#} {@1@} Gambling, a game
-<>at dice. {@--2@} Sport, pastime. {@--3@}
-<>Lamentation.
+die. {#--नं#} {@1@} Beauty, splendour,
+lustre. {@--2@} Gaming, gambling, a
+game at dice. {@--3@} Play, sport, <lbinfo n="pa+stime"/>
+pastime. {@--4@} A pleasure-ground, a
+garden. {@--5@} A lotus. {@--6@} <lbinfo n="Emula+tion"/>
+Emulation, desire to excel. {@--7@} Affair,
+business. {@--8@} Praise. {@--9@} Going,
+motion. {@--10@} Grief, lamentation,
+sorrow. {#--ना#} {@1@} Gambling, a game
+at dice. {@--2@} Sport, pastime. {@--3@}
+Lamentation.
 <LEND>

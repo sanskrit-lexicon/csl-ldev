@@ -1,28 +1,28 @@
 <L>26908<pc>1009-b<k1>वेगः<k2>वेगः
 {#वेगः#}¦ [{#विज्-घञ्#}] {@1@} Impulse, <lbinfo n="im+petus"/>
-<>impetus. {@--2@} Speed, velocity, rapidity.
-<>{@--3@} Agitation. {@--4@} Impetuosity,
-<>violence, force. {@--5@} A stream, <lbinfo n="cur+rent"/>
-<>current; as in {#अंबुवेगः#}. {@--6@} Energy, <lbinfo n="ac+tivity"/>
-<>activity, determination. {@--7@} Power,
-<>strength; {#मदनज्वरस्य वेगात्#} <ls>K.</ls> {@--8@}
-<>Circulation, working, effect (as of
-<>poison); <ls>U. 2. 26</ls>, <ls>V. 5. 18.</ls> {@--9@}
-<>Haste, rashness, sudden impulse;
-<><ls>Pt. 1. 109.</ls> {@--10@} The flight of an
-<>arrow; <ls>Ki. 13. 24.</ls> {@--11@} Love, <lbinfo n="pas+sion"/>
-<>passion. {@--12@} The external <lbinfo n="manifesta+tion"/>
-<>manifestation of an internal emotion. {@--13@}
-<>Delight, pleasure. {@--14@} Evacuation
-<>of the feces. {@--15@} Semen virile. {@--16@}
-<>Pleasure, delight. {@--Comp.@}  <lbinfo n="--ani#laH"/>
-<>{#--अनिलः#} {1} blast caused by speed;  <lbinfo n="ls:V. 1.+ 4."/>
-<><ls>V. 1. 4.</ls> {2} a strong or violent wind.  <lbinfo n="--A#GAtaH"/>
-<>{#--आघातः#} {1} sudden arresting of <lbinfo n="velo+city"/>
-<>velocity, check of speed. {2} <lbinfo n="obstruc+tion"/>
-<>obstruction of excretion, constipation.  <lbinfo n="--nA#SanaH"/>
-<>{#--नाशनः#} the phlegmatic humour. {#--रोधः#}
-<>= {#°आघातः#} <ab>q. v.</ab> {#--वाहिन्#} {%<ab>a.</ab>%} swift.
-<>{#--विधारणं#} checking of speed. {#--सरः#}
-<>a mule.
+impetus. {@--2@} Speed, velocity, rapidity.
+{@--3@} Agitation. {@--4@} Impetuosity,
+violence, force. {@--5@} A stream, <lbinfo n="cur+rent"/>
+current; as in {#अंबुवेगः#}. {@--6@} Energy, <lbinfo n="ac+tivity"/>
+activity, determination. {@--7@} Power,
+strength; {#मदनज्वरस्य वेगात्#} <ls>K.</ls> {@--8@}
+Circulation, working, effect (as of
+poison); <ls>U. 2. 26</ls>, <ls>V. 5. 18.</ls> {@--9@}
+Haste, rashness, sudden impulse;
+<ls>Pt. 1. 109.</ls> {@--10@} The flight of an
+arrow; <ls>Ki. 13. 24.</ls> {@--11@} Love, <lbinfo n="pas+sion"/>
+passion. {@--12@} The external <lbinfo n="manifesta+tion"/>
+manifestation of an internal emotion. {@--13@}
+Delight, pleasure. {@--14@} Evacuation
+of the feces. {@--15@} Semen virile. {@--16@}
+Pleasure, delight. {@--Comp.@}  <lbinfo n="--ani#laH"/>
+{#--अनिलः#} {1} blast caused by speed;  <lbinfo n="ls:V. 1.+ 4."/>
+<ls>V. 1. 4.</ls> {2} a strong or violent wind.  <lbinfo n="--A#GAtaH"/>
+{#--आघातः#} {1} sudden arresting of <lbinfo n="velo+city"/>
+velocity, check of speed. {2} <lbinfo n="obstruc+tion"/>
+obstruction of excretion, constipation.  <lbinfo n="--nA#SanaH"/>
+{#--नाशनः#} the phlegmatic humour. {#--रोधः#}
+= {#°आघातः#} <ab>q. v.</ab> {#--वाहिन्#} {%<ab>a.</ab>%} swift.
+{#--विधारणं#} checking of speed. {#--सरः#}
+a mule.
 <LEND>

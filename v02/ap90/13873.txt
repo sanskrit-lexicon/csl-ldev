@@ -1,17 +1,17 @@
 <L>13873<pc>0511-c<k1>जातु<k2>जातु
 {#जातु#}¦ {%<ab>ind.</ab>%} A particle meaning:
-<>{@1@} At all, ever, at any time, possibly;
-<>{#किं तेन जातु जातेन मातुर्यौवनहारिणा#}  <lbinfo n="ls:Pt.+ 1. 26"/>
-<><ls>Pt. 1. 26</ls>; {#न जातु कामः कामानामुपभोगेन#}
-<>{#शाम्यति#} <ls>Ms. 2. 94</ls>; <ls>Ku. 5. 55.</ls> {@--2@}
-<>Perhaps, sometimes; <ls>R. 19. 7.</ls> {@--3@}
-<>Once, once upon a time, sometime,
-<>at some day. {@--4@} Used with the <lbinfo n="po+tential"/>
-<>potential mood {#जातु#} has the sense of
-<>‘not allowing or putting up with’;
-<>{#जातु तत्रभवान्वृषलं याजयेन्नावकल्पयामि#}
-<>({#न मर्षयामि#}) <ls>Sk.</ls> {@--5@} Used with a <lbinfo n="pre+sent"/>
-<>present indicative it denotes censure
-<>({#गर्हा#}); {#जातु तत्रभवान् वृषलं याजयति#}
-<>{%<ab>ibid.</ab>%}
+{@1@} At all, ever, at any time, possibly;
+{#किं तेन जातु जातेन मातुर्यौवनहारिणा#}  <lbinfo n="ls:Pt.+ 1. 26"/>
+<ls>Pt. 1. 26</ls>; {#न जातु कामः कामानामुपभोगेन#}
+{#शाम्यति#} <ls>Ms. 2. 94</ls>; <ls>Ku. 5. 55.</ls> {@--2@}
+Perhaps, sometimes; <ls>R. 19. 7.</ls> {@--3@}
+Once, once upon a time, sometime,
+at some day. {@--4@} Used with the <lbinfo n="po+tential"/>
+potential mood {#जातु#} has the sense of
+‘not allowing or putting up with’;
+{#जातु तत्रभवान्वृषलं याजयेन्नावकल्पयामि#}
+({#न मर्षयामि#}) <ls>Sk.</ls> {@--5@} Used with a <lbinfo n="pre+sent"/>
+present indicative it denotes censure
+({#गर्हा#}); {#जातु तत्रभवान् वृषलं याजयति#}
+{%<ab>ibid.</ab>%}
 <LEND>

@@ -1,5 +1,5 @@
 <L>28410<pc>1061-b<k1>श्रेढी<k2>श्रेढी
 {#श्रेढी#}¦ A progression (in math).
-<>{@--Comp.@} {#--फलं#} the sum of a <lbinfo n="pro+gression"/>
-<>progression.
+{@--Comp.@} {#--फलं#} the sum of a <lbinfo n="pro+gression"/>
+progression.
 <LEND>

@@ -1,75 +1,75 @@
 <L>10168<pc>0373-c<k1>कथा<k2>कथा
 {#कथा#}¦ [{#कथ् नि° अ#}] {@1@} A tale, story;
-<>{#°प्रावीण्यं#} <ls>U. 4</ls> historical <lbinfo n="know+ledge"/>
-<>knowledge. {@--2@} A fable, feigned story;
-<>{#कथाच्छलेन बालानां नीतिस्तदिह कथ्यते#}
-<><ls>H. Pr. 8</ls> {@--3@} An account, allusion,
-<>mention; {#कथापि खलु#} <lbinfo n="pApAnAmalamaSreya#se"/>
-<>{#पापानामलमश्रेयसे यतः#} <ls>Śi. 2. 40.</ls> {@--4@} Talk, <lbinfo n="conver+sation"/>
-<>conversation, speech; {#प्रथमं कृतां कथां#}  <lbinfo n="ls:Ś. 4.+ 1."/>
-<><ls>Ś. 4. 1.</ls> {@--5@} A variety of prose <lbinfo n="composi+tion"/>
-<>composition, often distinguished from  <lbinfo n="AKyA#yikA"/>
-<>{#आख्यायिका#}; ({#प्रबंधकल्पनां स्तोकसत्यां प्राज्ञाः कथां#}
-<>{#विदुः । परंपराश्रया या स्यात् सा मताख्यायिका#}
-<>{#बुधैः ॥#}); see under {#आख्यायिका#}
-<>also. {@--6@} (In <ab>phil.</ab>) Disputation.
-<>{#का कथा#} or {#कथा#} with {#प्रति#} (what <lbinfo n="men+tion"/>
-<>mention) is often used in the sense of
-<>‘what need one say of’, ‘not to
-<>mention’, ‘to say nothing of’, ‘how
-<>much more’, or ‘how much less’;
-<>{#का कथा बाणसंधाने ज्याशब्देनैव दूरतः ।#}
-<>{#हुंकारेणेव धनुषः स हि विघ्नानपोहति#}  <lbinfo n="ls:Ś.+ 3. 1"/>
-<><ls>Ś. 3. 1</ls>; {#अभितप्तमयोपि मार्दवं भजते कैव#}
-<>{#कथा शरीरिषु#} <ls>R. 8. 43</ls>;  <lbinfo n="AptavAganumA#nAByAM"/>
-<>{#आप्तवागनुमानाभ्यां साध्यं त्वां प्रति का कथा#} <ls n="R.">10. 28</ls>;
-<><ls>Ve. 2. 25.</ls> {@--Comp.@} {#--अनुरागः#} <lbinfo n="tak+ing"/>
-<>taking pleasure in conversation, <lbinfo n="atten+tion"/>
-<>attention. {#--अंतरं#} {1} the course of <lbinfo n="con+versation"/>
-<>conversation; {#स्मर्तव्योस्मि कथांतरेषु भवता#}
-<><ls>Mk. 7. 7.</ls> {2} another tale. {#--अवशेष#}
-<>or {#कथाशेष#} {%<ab>a.</ab>%} one of whom only the
-<>narrative remains, {%<ab>i. e.</ab>%} deceased,
-<>dead. {#--आक्रमः#} the commencement
-<>of a conversation. {#--आरंभः#} <lbinfo n="com+mencement"/>
-<>commencement of a tale. {#--आरामः#} <lbinfo n="gar+den"/>
-<>garden of fable. {#--आलापः#} speech, <lbinfo n="con+versation"/>
-<>conversation. {#--उदयः#} the beginning
-<>of a tale. {#--उद्धातः#} {1} the second
-<>of the five kinds of {#प्रस्तावना#}, where
-<>the first character enters the stage
-<>after over-hearing and repeating
-<>either the words of the manager ( <lbinfo n="sUtra#DAra"/>
-<>{#सूत्रधार#}) or their sense; see <ls>S. D. 290</ls>;
-<>{%<ab>e. g.</ab>%} in <ls>Ratn.</ls>, <ls>Ve.</ls> or Mudrārākṣasa.
-<>{2} commencement of a tale or <lbinfo n="nar+ration"/>
-<>narration; {#आकुमारकथोद्धातं शालिगोप्यो#}
-<>{#जगुर्यशः#} <ls>R. 4. 20.</ls> {#--उपकथ#} <lbinfo n="upA#KyAnaM"/>
-<>{#--उपाख्यानं#} narration, relation, telling a
-<>story. {#--छलं#} {1} the guise of a fable.
-<>{2} giving a false account. {#--नायकः#},
-<>{#पुरुषः#} the hero or leading character
-<>of a story; {#रामायण°#} <ls>U. 4</ls>, <ls n="U.">6.</ls>
-<>{#--पठिं#} {1} the introductory part of a
-<>tale or story. {2} <ab>N.</ab> of the first {#लंबक#}
-<>or book of the {#कथासरित्सागर#}. {#--प्रबंधः#} 
+{#°प्रावीण्यं#} <ls>U. 4</ls> historical <lbinfo n="know+ledge"/>
+knowledge. {@--2@} A fable, feigned story;
+{#कथाच्छलेन बालानां नीतिस्तदिह कथ्यते#}
+<ls>H. Pr. 8</ls> {@--3@} An account, allusion,
+mention; {#कथापि खलु#} <lbinfo n="pApAnAmalamaSreya#se"/>
+{#पापानामलमश्रेयसे यतः#} <ls>Śi. 2. 40.</ls> {@--4@} Talk, <lbinfo n="conver+sation"/>
+conversation, speech; {#प्रथमं कृतां कथां#}  <lbinfo n="ls:Ś. 4.+ 1."/>
+<ls>Ś. 4. 1.</ls> {@--5@} A variety of prose <lbinfo n="composi+tion"/>
+composition, often distinguished from  <lbinfo n="AKyA#yikA"/>
+{#आख्यायिका#}; ({#प्रबंधकल्पनां स्तोकसत्यां प्राज्ञाः कथां#}
+{#विदुः । परंपराश्रया या स्यात् सा मताख्यायिका#}
+{#बुधैः ॥#}); see under {#आख्यायिका#}
+also. {@--6@} (In <ab>phil.</ab>) Disputation.
+{#का कथा#} or {#कथा#} with {#प्रति#} (what <lbinfo n="men+tion"/>
+mention) is often used in the sense of
+‘what need one say of’, ‘not to
+mention’, ‘to say nothing of’, ‘how
+much more’, or ‘how much less’;
+{#का कथा बाणसंधाने ज्याशब्देनैव दूरतः ।#}
+{#हुंकारेणेव धनुषः स हि विघ्नानपोहति#}  <lbinfo n="ls:Ś.+ 3. 1"/>
+<ls>Ś. 3. 1</ls>; {#अभितप्तमयोपि मार्दवं भजते कैव#}
+{#कथा शरीरिषु#} <ls>R. 8. 43</ls>;  <lbinfo n="AptavAganumA#nAByAM"/>
+{#आप्तवागनुमानाभ्यां साध्यं त्वां प्रति का कथा#} <ls n="R.">10. 28</ls>;
+<ls>Ve. 2. 25.</ls> {@--Comp.@} {#--अनुरागः#} <lbinfo n="tak+ing"/>
+taking pleasure in conversation, <lbinfo n="atten+tion"/>
+attention. {#--अंतरं#} {1} the course of <lbinfo n="con+versation"/>
+conversation; {#स्मर्तव्योस्मि कथांतरेषु भवता#}
+<ls>Mk. 7. 7.</ls> {2} another tale. {#--अवशेष#}
+or {#कथाशेष#} {%<ab>a.</ab>%} one of whom only the
+narrative remains, {%<ab>i. e.</ab>%} deceased,
+dead. {#--आक्रमः#} the commencement
+of a conversation. {#--आरंभः#} <lbinfo n="com+mencement"/>
+commencement of a tale. {#--आरामः#} <lbinfo n="gar+den"/>
+garden of fable. {#--आलापः#} speech, <lbinfo n="con+versation"/>
+conversation. {#--उदयः#} the beginning
+of a tale. {#--उद्धातः#} {1} the second
+of the five kinds of {#प्रस्तावना#}, where
+the first character enters the stage
+after over-hearing and repeating
+either the words of the manager ( <lbinfo n="sUtra#DAra"/>
+{#सूत्रधार#}) or their sense; see <ls>S. D. 290</ls>;
+{%<ab>e. g.</ab>%} in <ls>Ratn.</ls>, <ls>Ve.</ls> or Mudrārākṣasa.
+{2} commencement of a tale or <lbinfo n="nar+ration"/>
+narration; {#आकुमारकथोद्धातं शालिगोप्यो#}
+{#जगुर्यशः#} <ls>R. 4. 20.</ls> {#--उपकथ#} <lbinfo n="upA#KyAnaM"/>
+{#--उपाख्यानं#} narration, relation, telling a
+story. {#--छलं#} {1} the guise of a fable.
+{2} giving a false account. {#--नायकः#},
+{#पुरुषः#} the hero or leading character
+of a story; {#रामायण°#} <ls>U. 4</ls>, <ls n="U.">6.</ls>
+{#--पठिं#} {1} the introductory part of a
+tale or story. {2} <ab>N.</ab> of the first {#लंबक#}
+or book of the {#कथासरित्सागर#}. {#--प्रबंधः#} 
 [Page0374-a+ 56]
-<>a tale, fiction, fable. {#--प्रसंग#} {%<ab>a.</ab>%} {1}
-<>talkative, talking much and foolishly.
-<>{2} mad, foolish. ({#--गः#}) {1} <lbinfo n="conversa+tion"/>
-<>conversation, talk or course of conversation;
-<>{#नानाकथाप्रसंगावस्थितः#} <ls>H. 1</ls>;  <lbinfo n="kaTAprasaM#gena"/>
-<>{#कथाप्रसंगेन विवादं किल चक्रतुः#}  <lbinfo n="ls:Ks. 22.+ 181"/>
-<><ls>Ks. 22. 181</ls>; <ls>N. 1. 35.</ls> {2} a curer of
-<>poisons ({#विषवैद्य#}); {#कथाप्रसंगेन#} <lbinfo n="janE#rudAhftAt"/>
-<>{#जनैरुदाहृतात्#} <ls>Ki. 1. 24</ls> (where the
-<>word is used in sense 1 also). {#--प्राणः#}
-<>{1} an actor. {2} a professional <lbinfo n="story+teller"/>
-<>storyteller. {#--मुखं#} the introductory <lbinfo n="por+tion"/>
-<>portion of a story; <ls>Pt. 1.</ls> {#--योगः#}
-<>course of conversation, talk, <lbinfo n="dis+course"/>
-<>discourse. {#--विपर्यासः#} changing the
-<>course of a story. {#--विरक्त#} {%<ab>a.</ab>%} <lbinfo n="re+served"/>
-<>reserved, taciturn, disliking <lbinfo n="conversa+tion"/>
-<>conversation. {#--शेष#} {%<ab>a.</ab>%} see {#कथावशेष#}.
+a tale, fiction, fable. {#--प्रसंग#} {%<ab>a.</ab>%} {1}
+talkative, talking much and foolishly.
+{2} mad, foolish. ({#--गः#}) {1} <lbinfo n="conversa+tion"/>
+conversation, talk or course of conversation;
+{#नानाकथाप्रसंगावस्थितः#} <ls>H. 1</ls>;  <lbinfo n="kaTAprasaM#gena"/>
+{#कथाप्रसंगेन विवादं किल चक्रतुः#}  <lbinfo n="ls:Ks. 22.+ 181"/>
+<ls>Ks. 22. 181</ls>; <ls>N. 1. 35.</ls> {2} a curer of
+poisons ({#विषवैद्य#}); {#कथाप्रसंगेन#} <lbinfo n="janE#rudAhftAt"/>
+{#जनैरुदाहृतात्#} <ls>Ki. 1. 24</ls> (where the
+word is used in sense 1 also). {#--प्राणः#}
+{1} an actor. {2} a professional <lbinfo n="story+teller"/>
+storyteller. {#--मुखं#} the introductory <lbinfo n="por+tion"/>
+portion of a story; <ls>Pt. 1.</ls> {#--योगः#}
+course of conversation, talk, <lbinfo n="dis+course"/>
+discourse. {#--विपर्यासः#} changing the
+course of a story. {#--विरक्त#} {%<ab>a.</ab>%} <lbinfo n="re+served"/>
+reserved, taciturn, disliking <lbinfo n="conversa+tion"/>
+conversation. {#--शेष#} {%<ab>a.</ab>%} see {#कथावशेष#}.
 <LEND>

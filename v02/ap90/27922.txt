@@ -1,20 +1,20 @@
 <L>27922<pc>1043-b<k1>शिक्षा<k2>शिक्षा
 {#शिक्षा#}¦ [{#शिक्ष्-भाबे अ#}] {@1@} Learning,
-<>study, acquisition of knowledge;
-<>{#शिक्षाविशेषलघुहस्ततया निमेषात्#}  <lbinfo n="ls:R. 9.+ 63."/>
-<><ls>R. 9. 63.</ls> {@--2@} Desire of being able to do
-<>anything, wish to prevail;  <lbinfo n="ls:Ki. 15.+ 37."/>
-<><ls>Ki. 15. 37.</ls> {@--3@} Teaching, instruction, <lbinfo n="train+ing"/>
-<>training; {#काव्यजशिक्षयाऽब्यासः#} <ls>K. P. 1</ls>;
-<>{#अभूच्च नम्रः प्रणिपातशिक्षया#} <ls>R. 3. 25</ls>;
-<><ls>M. 4. 9.</ls> {@--4@} One of the six <lbinfo n="Vedān+gas"/>
-<>Vedāngas, the science which teaches the
-<>proper pronunciation of words and
-<>laws of euphony. {@--5@} Modesty, <lbinfo n="hu+mility"/>
-<>humility. {@--6@} Science; {#रणशिक्षा#} <lbinfo n="‘mili+tary"/>
-<>‘military science'. {@--7@} Giving, bestowing
-<>(<ab>Ved.</ab>) {@--Comp.@} {#--करः#} {1} a teacher,
-<>an instructor. {2} <ab>N.</ab> of Vyāsa. {#--गुरुः#}
-<>a religious preceptor. {#--नरः#} an <lbinfo n="epi+thet"/>
-<>epithet of Indra. {#--शक्तिः#} {%<ab>f.</ab>%} skill.
+study, acquisition of knowledge;
+{#शिक्षाविशेषलघुहस्ततया निमेषात्#}  <lbinfo n="ls:R. 9.+ 63."/>
+<ls>R. 9. 63.</ls> {@--2@} Desire of being able to do
+anything, wish to prevail;  <lbinfo n="ls:Ki. 15.+ 37."/>
+<ls>Ki. 15. 37.</ls> {@--3@} Teaching, instruction, <lbinfo n="train+ing"/>
+training; {#काव्यजशिक्षयाऽब्यासः#} <ls>K. P. 1</ls>;
+{#अभूच्च नम्रः प्रणिपातशिक्षया#} <ls>R. 3. 25</ls>;
+<ls>M. 4. 9.</ls> {@--4@} One of the six <lbinfo n="Vedān+gas"/>
+Vedāngas, the science which teaches the
+proper pronunciation of words and
+laws of euphony. {@--5@} Modesty, <lbinfo n="hu+mility"/>
+humility. {@--6@} Science; {#रणशिक्षा#} <lbinfo n="‘mili+tary"/>
+‘military science'. {@--7@} Giving, bestowing
+(<ab>Ved.</ab>) {@--Comp.@} {#--करः#} {1} a teacher,
+an instructor. {2} <ab>N.</ab> of Vyāsa. {#--गुरुः#}
+a religious preceptor. {#--नरः#} an <lbinfo n="epi+thet"/>
+epithet of Indra. {#--शक्तिः#} {%<ab>f.</ab>%} skill.
 <LEND>

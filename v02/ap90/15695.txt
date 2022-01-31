@@ -1,14 +1,14 @@
 <L>15695<pc>0582-b<k1>दोला<k2>दोला, दोलिका
 {#दोला, दोलिका#}¦ {@1@} A litter, palanquin.
-<>{@--2@} A swing, hammock (<ab>fig.</ab> also);
-<>{#आसीत्स दोलाचलचित्तवृत्तिः#} <ls>R. 14. 34</ls>;
-<><ls n="R.">9. 46</ls>; <ls n="R.">19. 44</ls>; {#संदेहदोलामारोप्यते#}  <lbinfo n="ls:K.+ 207."/>
-<><ls>K. 207.</ls> {@--3@} Swinging, fluctuation. {@--4@}
-<>Doubt, uncertainty. {@--5@} The Indigo
-<>plant. {@--Comp.@} {#--अधिरूढ, --आरूढ#} {%<ab>a.</ab>%}
-<>(<ab>lit.</ab>) mounted on a swing; (<ab>fig.</ab>)
-<>uncertain, irresolute, disquieted.
-<>{#--युद्धं#} uncertainty of success, a
-<>fight with varying success;  <lbinfo n="ls:Śi. 18.+ 80."/>
-<><ls>Śi. 18. 80.</ls>
+{@--2@} A swing, hammock (<ab>fig.</ab> also);
+{#आसीत्स दोलाचलचित्तवृत्तिः#} <ls>R. 14. 34</ls>;
+<ls n="R.">9. 46</ls>; <ls n="R.">19. 44</ls>; {#संदेहदोलामारोप्यते#}  <lbinfo n="ls:K.+ 207."/>
+<ls>K. 207.</ls> {@--3@} Swinging, fluctuation. {@--4@}
+Doubt, uncertainty. {@--5@} The Indigo
+plant. {@--Comp.@} {#--अधिरूढ, --आरूढ#} {%<ab>a.</ab>%}
+(<ab>lit.</ab>) mounted on a swing; (<ab>fig.</ab>)
+uncertain, irresolute, disquieted.
+{#--युद्धं#} uncertainty of success, a
+fight with varying success;  <lbinfo n="ls:Śi. 18.+ 80."/>
+<ls>Śi. 18. 80.</ls>
 <LEND>

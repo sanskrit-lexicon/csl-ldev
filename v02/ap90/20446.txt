@@ -1,22 +1,22 @@
 <L>20446<pc>0752-a<k1>प्रबंधः<k2>प्रबंधः
 {#प्रबंधः#}¦ {@1@} A bond, tie. {@--2@} <lbinfo n="Uninter+ruptedness"/>
-<>Uninterruptedness, continuance, <lbinfo n="continui+ty"/>
-<>continuity, uninterrupted series or <lbinfo n="succes+sion"/>
-<>succession; {#विच्छेदमाप भुवि यस्तु कथाप्रबंधः#}
-<><ls>K. 239</ls>; {#क्रियाप्रबंधादयमध्वराणां#}  <lbinfo n="ls:R. 6.+ 23"/>
-<><ls>R. 6. 23</ls>; <ls n="R.">3. 58</ls>; <ls>Māl. 6. 3.</ls> {@--3@} A <lbinfo n="continu+ed"/>
-<>continued or connected narrative or <lbinfo n="dis+course"/>
-<>discourse; {#अनुज्झितार्थसंबंधः प्रबंधो#} <lbinfo n="duru#dAharaH"/>
-<>{#दुरुदाहरः#} <ls>Śi. 2. 73.</ls> {@--4@} Any literary
-<>work or composition; {#प्रथितयशसां#} <lbinfo n="BA#sakavisOmilla"/>
-<>{#भासकविसौमिल्ल कविमिश्रादीनां#} <lbinfo n="prabaMDAnatikra#mya"/>
-<>{#प्रबंधानतिक्रम्य#} <ls>M. 1</ls>; {#प्रत्यक्षरश्लेषमयप्रबंध#} &c. <ls>Vās.</ls>
-<>{@--5@} Arrangement, plan, scheme; as
-<>in {#कपटप्रबंधः#} {@--Comp.@} {#--अर्थः#} the <lbinfo n="sub+ject"/>
-<>subject-matter of a composition or
-<>treatise. {#--कल्पना#} a feigned story,
-<>a work of imagination founded on
-<>a substratum of fact, {#प्रबंधकल्पनां#} <lbinfo n="sto#kasatyAM"/>
-<>{#स्तोकसत्यां प्राज्ञाः कथां विदुः#}. {#--वर्षः#} <lbinfo n="con+tinuous"/>
-<>continuous or incessant rain.
+Uninterruptedness, continuance, <lbinfo n="continui+ty"/>
+continuity, uninterrupted series or <lbinfo n="succes+sion"/>
+succession; {#विच्छेदमाप भुवि यस्तु कथाप्रबंधः#}
+<ls>K. 239</ls>; {#क्रियाप्रबंधादयमध्वराणां#}  <lbinfo n="ls:R. 6.+ 23"/>
+<ls>R. 6. 23</ls>; <ls n="R.">3. 58</ls>; <ls>Māl. 6. 3.</ls> {@--3@} A <lbinfo n="continu+ed"/>
+continued or connected narrative or <lbinfo n="dis+course"/>
+discourse; {#अनुज्झितार्थसंबंधः प्रबंधो#} <lbinfo n="duru#dAharaH"/>
+{#दुरुदाहरः#} <ls>Śi. 2. 73.</ls> {@--4@} Any literary
+work or composition; {#प्रथितयशसां#} <lbinfo n="BA#sakavisOmilla"/>
+{#भासकविसौमिल्ल कविमिश्रादीनां#} <lbinfo n="prabaMDAnatikra#mya"/>
+{#प्रबंधानतिक्रम्य#} <ls>M. 1</ls>; {#प्रत्यक्षरश्लेषमयप्रबंध#} &c. <ls>Vās.</ls>
+{@--5@} Arrangement, plan, scheme; as
+in {#कपटप्रबंधः#} {@--Comp.@} {#--अर्थः#} the <lbinfo n="sub+ject"/>
+subject-matter of a composition or
+treatise. {#--कल्पना#} a feigned story,
+a work of imagination founded on
+a substratum of fact, {#प्रबंधकल्पनां#} <lbinfo n="sto#kasatyAM"/>
+{#स्तोकसत्यां प्राज्ञाः कथां विदुः#}. {#--वर्षः#} <lbinfo n="con+tinuous"/>
+continuous or incessant rain.
 <LEND>

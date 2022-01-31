@@ -1,10 +1,10 @@
 <L>20858<pc>0764-a<k1>प्रसज्य<k2>प्रसज्य
 {#प्रसज्य#}¦ {%<ab>a.</ab>%} {@1@} To be attached to. {@--2@}
-<>Applicable, holding good. {@--3@} <lbinfo n="Con+tingent"/>
-<>Contingent, possible. {@--Comp.@} {#--प्रतिषेधः#}
-<>{1} negation of a possible case or <lbinfo n="con+tingeny"/>
-<>contingeny. {2} a simple prohibition of
-<>the particular matter specified <lbinfo n="with+out"/>
-<>without mentioning what is different
-<>(from it).
+Applicable, holding good. {@--3@} <lbinfo n="Con+tingent"/>
+Contingent, possible. {@--Comp.@} {#--प्रतिषेधः#}
+{1} negation of a possible case or <lbinfo n="con+tingeny"/>
+contingeny. {2} a simple prohibition of
+the particular matter specified <lbinfo n="with+out"/>
+without mentioning what is different
+(from it).
 <LEND>

@@ -1,8 +1,8 @@
 <L>30634<pc>1140-c<k1>सौदामनी<k2>सौदामनी;
 {#सौदामनी, सौदामिनी, सौदाम्नी#}¦ {@1@}
-<>Lightning; {#सौदामन्या#} <lbinfo n="kanakanikazasni#gDayA"/>
-<>{#कनकनिकषस्निग्धया दर्शर्योवीं#} <ls>Me. 37</ls>; {#सौदामिनीव#} <lbinfo n="ja#ladodarasaMDilInA"/>
-<>{#जलदोदरसंधिलीना#} <ls>Mk. 1. 35</ls>;  <lbinfo n="ls:Māl. 8.+ 14."/>
-<><ls>Māl. 8. 14.</ls> {@--2@} The female of Indra's <lbinfo n="ele+phant"/>
-<>elephant.
+Lightning; {#सौदामन्या#} <lbinfo n="kanakanikazasni#gDayA"/>
+{#कनकनिकषस्निग्धया दर्शर्योवीं#} <ls>Me. 37</ls>; {#सौदामिनीव#} <lbinfo n="ja#ladodarasaMDilInA"/>
+{#जलदोदरसंधिलीना#} <ls>Mk. 1. 35</ls>;  <lbinfo n="ls:Māl. 8.+ 14."/>
+<ls>Māl. 8. 14.</ls> {@--2@} The female of Indra's <lbinfo n="ele+phant"/>
+elephant.
 <LEND>

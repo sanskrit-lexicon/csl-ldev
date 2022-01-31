@@ -1,29 +1,29 @@
 <L>30049<pc>1115-c<k1>साधारण<k2>साधारण
 {#साधारण#}¦ {%<ab>a.</ab>%} ({#णा#} or {#णी#} {%<ab>f.</ab>%}) {@1@} <lbinfo n="Com+mon"/>
-<>Common (to two or more), joint;  <lbinfo n="sADAra#Ro"/>
-<>{#साधारणोऽयं प्रणयः#} <ls>Ś. 3</ls>; {#साधारणो#} <lbinfo n="BUzaRaBUzya#BAvaH"/>
-<>{#भूषणभूष्यभावः#} <ls>Ku. 1. 42</ls>; <ls>R. 16. 5</ls>, <ls>V. 2. 16.</ls> {@--2@}
-<>Ordinary, common; {#साधारणी न खलु#}
-<>{#बाधा भवस्य#} <ls>Aśvad. 10.</ls> {@--3@} General,
-<>universal. {@--4@} Mingled, mixed with,
-<>in common with; {#उत्कंठासाधारणं#} <lbinfo n="pari#tozamanuBavAmi"/>
-<>{#परितोषमनुभवामि#} <ls>Ś. 4</ls>; {#वीज्यते स हि संसुप्तः#}
-<>{#श्वाससाधारणानिलैः#} <ls>Ku. 2. 42.</ls> {@--5@}
-<>Equal, similar, like. {@--6@} (In logic)
-<>Belonging to more than one <lbinfo n="in+stance"/>
-<>instance alleged, one of the three <lbinfo n="divi+sions"/>
-<>divisions of the fallacy called {#अनैकांतिक#}
-<>q.v. {#--णं#} {@1@} A common or general rule,
-<>a rule or precept generally <lbinfo n="applic+able"/>
-<>applicable. {@--2@} A generic property. {@--Comp.@}
-<>{#--देशः#} a wild marshy country.
-<>{#--धनं#} joint property. {#--धर्मः#} {1} a
-<>common or universal duty; ({#अहिंसा#}
-<>{#सत्यमस्तेयं शौचमिंद्रियनिग्रहः । दंभः#} <lbinfo n="kzamA#rjavaM"/>
-<>{#क्षमार्जवं दानं धर्मं साधारणं विदुः ॥#}) {2} the
-<>common duty of procreation; ( <lbinfo n="praja#nArTaM"/>
-<>{#प्रजनार्थं स्त्रियः सृष्ठाः संतानार्थं च मानवाः ।#} <lbinfo n="tasmA#tsADAraRo"/>
-<>{#तस्मात्साधारणो धर्मः श्रुतौ पत्न्या सहोदितः ॥#}).
-<>{#--स्त्री#} a common woman, harlot,
-<>prostitute.
+Common (to two or more), joint;  <lbinfo n="sADAra#Ro"/>
+{#साधारणोऽयं प्रणयः#} <ls>Ś. 3</ls>; {#साधारणो#} <lbinfo n="BUzaRaBUzya#BAvaH"/>
+{#भूषणभूष्यभावः#} <ls>Ku. 1. 42</ls>; <ls>R. 16. 5</ls>, <ls>V. 2. 16.</ls> {@--2@}
+Ordinary, common; {#साधारणी न खलु#}
+{#बाधा भवस्य#} <ls>Aśvad. 10.</ls> {@--3@} General,
+universal. {@--4@} Mingled, mixed with,
+in common with; {#उत्कंठासाधारणं#} <lbinfo n="pari#tozamanuBavAmi"/>
+{#परितोषमनुभवामि#} <ls>Ś. 4</ls>; {#वीज्यते स हि संसुप्तः#}
+{#श्वाससाधारणानिलैः#} <ls>Ku. 2. 42.</ls> {@--5@}
+Equal, similar, like. {@--6@} (In logic)
+Belonging to more than one <lbinfo n="in+stance"/>
+instance alleged, one of the three <lbinfo n="divi+sions"/>
+divisions of the fallacy called {#अनैकांतिक#}
+q.v. {#--णं#} {@1@} A common or general rule,
+a rule or precept generally <lbinfo n="applic+able"/>
+applicable. {@--2@} A generic property. {@--Comp.@}
+{#--देशः#} a wild marshy country.
+{#--धनं#} joint property. {#--धर्मः#} {1} a
+common or universal duty; ({#अहिंसा#}
+{#सत्यमस्तेयं शौचमिंद्रियनिग्रहः । दंभः#} <lbinfo n="kzamA#rjavaM"/>
+{#क्षमार्जवं दानं धर्मं साधारणं विदुः ॥#}) {2} the
+common duty of procreation; ( <lbinfo n="praja#nArTaM"/>
+{#प्रजनार्थं स्त्रियः सृष्ठाः संतानार्थं च मानवाः ।#} <lbinfo n="tasmA#tsADAraRo"/>
+{#तस्मात्साधारणो धर्मः श्रुतौ पत्न्या सहोदितः ॥#}).
+{#--स्त्री#} a common woman, harlot,
+prostitute.
 <LEND>

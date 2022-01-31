@@ -1,12 +1,12 @@
 <L>29170<pc>1087-c<k1>संदेशः<k2>संदेशः
 {#संदेशः#}¦ {@1@} Information, news, <lbinfo n="tid+ings"/>
-<>tidings. {@--2@} A message, an errand;  <lbinfo n="saM#deSaM"/>
-<>{#संदेशं मे हर धनपतिक्रोधविश्लेषितस्य#}
-<><ls>Me. 7</ls>, <ls n="Me.">13</ls>; <ls>R. 12. 63</ls>;  <lbinfo n="ls:Ku. 6.+ 2."/>
-<><ls>Ku. 6. 2.</ls> {@--3@} Commission, command;  <lbinfo n="anu#zWito"/>
-<>{#अनुष्ठितो गुरोः संदेशः#} <ls>Ś. 5.</ls> {@--Comp.@} {#--अर्थः#}
-<>the subject of a message; <ls>Me. 5.</ls>
-<>{#--वाच्#} {%<ab>f.</ab>%} a message. {#--हरः, --हारकः#}
-<>{1} a news-bearer, messenger. {2} an
-<>envoy, ambassador.
+tidings. {@--2@} A message, an errand;  <lbinfo n="saM#deSaM"/>
+{#संदेशं मे हर धनपतिक्रोधविश्लेषितस्य#}
+<ls>Me. 7</ls>, <ls n="Me.">13</ls>; <ls>R. 12. 63</ls>;  <lbinfo n="ls:Ku. 6.+ 2."/>
+<ls>Ku. 6. 2.</ls> {@--3@} Commission, command;  <lbinfo n="anu#zWito"/>
+{#अनुष्ठितो गुरोः संदेशः#} <ls>Ś. 5.</ls> {@--Comp.@} {#--अर्थः#}
+the subject of a message; <ls>Me. 5.</ls>
+{#--वाच्#} {%<ab>f.</ab>%} a message. {#--हरः, --हारकः#}
+{1} a news-bearer, messenger. {2} an
+envoy, ambassador.
 <LEND>

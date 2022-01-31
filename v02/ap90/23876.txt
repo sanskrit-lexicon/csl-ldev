@@ -1,14 +1,14 @@
 <L>23876<pc>0898-a<k1>योग्यता<k2>योग्यता
 {#योग्यता#}¦ {@1@} Ability, capability;
-<>{#न युद्धयोग्यतामस्य पश्यामि सह राक्षसैः#}
-<><ls>Rām.</ls> {@--2@} Fitness, propriety. {@--3@} <lbinfo n="Ap+propriateness"/>
-<>Appropriateness. {@--4@} (In Nyāya <ab>phil.</ab>)
-<>Fitness or compatibility of sense,
-<>the absence of absurdity in the <lbinfo n="mu+tual"/>
-<>mutual connection of the things <lbinfo n="signi+fied"/>
-<>signified by the words; {%<ab>e. g.</ab>%} in {#अग्निना#}
-<>{#सिंचति#} there is no {#योग्यता#}; it is thus
-<>defined: --{#एकपदार्थेऽपरपदार्थसंसर्गो#} <lbinfo n="yo#gyatA"/>
-<>{#योग्यता#} <ls>Tarka K.</ls>; or {#पदार्थानां#} <lbinfo n="paraspara#saMbaMDe"/>
-<>{#परस्परसंबंधे बाधाभावः#} <ls>S. D. 2.</ls>
+{#न युद्धयोग्यतामस्य पश्यामि सह राक्षसैः#}
+<ls>Rām.</ls> {@--2@} Fitness, propriety. {@--3@} <lbinfo n="Ap+propriateness"/>
+Appropriateness. {@--4@} (In Nyāya <ab>phil.</ab>)
+Fitness or compatibility of sense,
+the absence of absurdity in the <lbinfo n="mu+tual"/>
+mutual connection of the things <lbinfo n="signi+fied"/>
+signified by the words; {%<ab>e. g.</ab>%} in {#अग्निना#}
+{#सिंचति#} there is no {#योग्यता#}; it is thus
+defined: --{#एकपदार्थेऽपरपदार्थसंसर्गो#} <lbinfo n="yo#gyatA"/>
+{#योग्यता#} <ls>Tarka K.</ls>; or {#पदार्थानां#} <lbinfo n="paraspara#saMbaMDe"/>
+{#परस्परसंबंधे बाधाभावः#} <ls>S. D. 2.</ls>
 <LEND>

@@ -1,32 +1,32 @@
 <L>22148<pc>0815-c<k1>भाषा<k2>भाषा
 {#भाषा#}¦ [{#भास्-अ#}] {@1@} Speech, talk; as
-<>in {#चारुभाषः#}. {@--2@} Language, tongue;
-<><ls>Ms. 8. 164.</ls> {@--3@} A common or <lbinfo n="ver+nacular"/>
-<>vernacular dialect; ({%a%}) the {%spoken%}
-<>Sanskrit language (opp {#छंदस्#} or
-<>{#वेद#}); {#विभाषा भाषायां#} <ls>P. VI. 1. 181</ls>;
-<>({%b%}) any Prākṛta dialect (<ab>opp.</ab>
-<>{#संस्कृत#}); <ls>Ms. 9. 332.</ls> {@--4@} Definition,
-<>description; {#स्थितप्रज्ञस्य का भाषा#}  <lbinfo n="ls:Bg.+ 2. 54."/>
-<><ls>Bg. 2. 54.</ls> {@--5@} An epithet of Sarasvatī,
-<>the goddess of speech. {@--6@} (In law)
-<>The first of the four stages of a
-<>law-suit; the plaint, charge or <lbinfo n="ac+cusation"/>
-<>accusation. {@--Comp.@} {#--अंतरं#} {1} another
-<>dialect or language. {2} translation
-<>(?). {#--पादः#} a charge, plaint; see {#भाषां#}
-<>(6) above. {#--समः#} a figure of speech,
-<>which consists in so arranging the
-<>words of a sentence that it may be
-<>considered and read either as <lbinfo n="Sans+krit"/>
-<>Sanskrit or Prākṛta (one or more of
-<>its varieties); {%<ab>e. g.</ab>%} {#मंजुलमणिमंजीरे#} <lbinfo n="ka#lagaMBIre"/>
-<>{#कलगंभीरे विहारसरसीतीरे । विरसासि केलिकीरे#}
-<>{#किमालि धीरे च गंधसारसमीरे ॥#} <ls>S. D. 642</ls>
-<>({#एष श्लोकः#} <lbinfo n="saMskftaprAkftaSOrasenIprAcyAvaMtInA#garApaBraMSezvekaviDa"/>
-<>{#संस्कृतप्राकृतशौरसेनीप्राच्यावंतीनागरापभ्रंशेष्वेकविध एव#}); {#किं त्वां भणामि#} <lbinfo n="vi#cCedadAruRAyAsakAriRi"/>
-<>{#विच्छेददारुणायासकारिणि । कामं कुरु वरारोहे#} <lbinfo n="de#hi"/>
-<>{#देहि मे परिरंभणं#} <ls>Māl. 6. 11</ls> (which
-<>is in Sanskrit or Śaurasenī); so
-<><ls n="Māl.">6. 10</ls>.
+in {#चारुभाषः#}. {@--2@} Language, tongue;
+<ls>Ms. 8. 164.</ls> {@--3@} A common or <lbinfo n="ver+nacular"/>
+vernacular dialect; ({%a%}) the {%spoken%}
+Sanskrit language (opp {#छंदस्#} or
+{#वेद#}); {#विभाषा भाषायां#} <ls>P. VI. 1. 181</ls>;
+({%b%}) any Prākṛta dialect (<ab>opp.</ab>
+{#संस्कृत#}); <ls>Ms. 9. 332.</ls> {@--4@} Definition,
+description; {#स्थितप्रज्ञस्य का भाषा#}  <lbinfo n="ls:Bg.+ 2. 54."/>
+<ls>Bg. 2. 54.</ls> {@--5@} An epithet of Sarasvatī,
+the goddess of speech. {@--6@} (In law)
+The first of the four stages of a
+law-suit; the plaint, charge or <lbinfo n="ac+cusation"/>
+accusation. {@--Comp.@} {#--अंतरं#} {1} another
+dialect or language. {2} translation
+(?). {#--पादः#} a charge, plaint; see {#भाषां#}
+(6) above. {#--समः#} a figure of speech,
+which consists in so arranging the
+words of a sentence that it may be
+considered and read either as <lbinfo n="Sans+krit"/>
+Sanskrit or Prākṛta (one or more of
+its varieties); {%<ab>e. g.</ab>%} {#मंजुलमणिमंजीरे#} <lbinfo n="ka#lagaMBIre"/>
+{#कलगंभीरे विहारसरसीतीरे । विरसासि केलिकीरे#}
+{#किमालि धीरे च गंधसारसमीरे ॥#} <ls>S. D. 642</ls>
+({#एष श्लोकः#} <lbinfo n="saMskftaprAkftaSOrasenIprAcyAvaMtInA#garApaBraMSezvekaviDa"/>
+{#संस्कृतप्राकृतशौरसेनीप्राच्यावंतीनागरापभ्रंशेष्वेकविध एव#}); {#किं त्वां भणामि#} <lbinfo n="vi#cCedadAruRAyAsakAriRi"/>
+{#विच्छेददारुणायासकारिणि । कामं कुरु वरारोहे#} <lbinfo n="de#hi"/>
+{#देहि मे परिरंभणं#} <ls>Māl. 6. 11</ls> (which
+is in Sanskrit or Śaurasenī); so
+<ls n="Māl.">6. 10</ls>.
 <LEND>

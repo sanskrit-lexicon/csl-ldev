@@ -1,20 +1,20 @@
 <L>15439<pc>0566-a<k1>दिश्<k2>दिश्
 {#दिश्#}¦ {c6c} <ab>U.</ab> ({#दिशति-ते, दिष्ट#}; {%<ab>desid.</ab>%}
-<>{#दिदिक्षति-ते#}) {@1@} To point out, show,
-<>exhibit, produce (as a witness);
-<>{#साक्षिणः संति मेत्युक्त्वा दिशेत्युक्तो#} <lbinfo n="di#Senna"/>
-<>{#दिशेन्न यः#} <ls>Ms. 8. 57</ls>, <ls n="Ms. 8.">52</ls>, <ls n="Ms. 8.">53.</ls> {@--2@} To
-<>assign, allot; {#इष्टां गतिं तस्य सुरा#} <lbinfo n="di#SAMti"/>
-<>{#दिशांति#} <ls>Mb.</ls> {@--3@} To give, grant, bestow
-<>upon, deliver or make over to;
-<>{#बाणमत्रभवते निजं दिशन्#} <ls>Ki. 13. 68</ls>;
-<><ls>R. 5. 30</ls>, <ls n="R. 5.">11</ls>, <ls n="R. 5.">2</ls>, <ls n="R.">16. 72.</ls> {@--4@} To pay
-<>(as tribute). {@--5@} To consent to;  <lbinfo n="ls:R.+ 11. 49."/>
-<><ls>R. 11. 49.</ls> {@--6@} To direct, order, <lbinfo n="com+mand"/>
-<>command. {@--7@} To allow, permit; {#स्मर्तुं#} <lbinfo n="di#SaMti"/>
-<>{#दिशंति न दिवः सुरसुंदरीभ्यः#} <ls>Ki. 5. 28.</ls>
-<>{%--<ab>Caus.</ab>%} ({#देशयति-ते#}) {@1@} To show,
-<>point out, allot, assign. {@--2@} To teach,
-<>communicate, tell, inform. {@--3@} To
-<>direct, order. {@--4@} To confer, bestow.
+{#दिदिक्षति-ते#}) {@1@} To point out, show,
+exhibit, produce (as a witness);
+{#साक्षिणः संति मेत्युक्त्वा दिशेत्युक्तो#} <lbinfo n="di#Senna"/>
+{#दिशेन्न यः#} <ls>Ms. 8. 57</ls>, <ls n="Ms. 8.">52</ls>, <ls n="Ms. 8.">53.</ls> {@--2@} To
+assign, allot; {#इष्टां गतिं तस्य सुरा#} <lbinfo n="di#SAMti"/>
+{#दिशांति#} <ls>Mb.</ls> {@--3@} To give, grant, bestow
+upon, deliver or make over to;
+{#बाणमत्रभवते निजं दिशन्#} <ls>Ki. 13. 68</ls>;
+<ls>R. 5. 30</ls>, <ls n="R. 5.">11</ls>, <ls n="R. 5.">2</ls>, <ls n="R.">16. 72.</ls> {@--4@} To pay
+(as tribute). {@--5@} To consent to;  <lbinfo n="ls:R.+ 11. 49."/>
+<ls>R. 11. 49.</ls> {@--6@} To direct, order, <lbinfo n="com+mand"/>
+command. {@--7@} To allow, permit; {#स्मर्तुं#} <lbinfo n="di#SaMti"/>
+{#दिशंति न दिवः सुरसुंदरीभ्यः#} <ls>Ki. 5. 28.</ls>
+{%--<ab>Caus.</ab>%} ({#देशयति-ते#}) {@1@} To show,
+point out, allot, assign. {@--2@} To teach,
+communicate, tell, inform. {@--3@} To
+direct, order. {@--4@} To confer, bestow.
 <LEND>

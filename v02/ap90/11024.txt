@@ -1,11 +1,11 @@
 <L>11024<pc>0407-a<k1>कुटः<k2>कुटः, --टं
 {#कुटः, --टं#}¦ [{#कुट्-कं#}] A <lbinfo n="water+pot"/>
-<>waterpot, a jar, pitcher. {#--टः#} {@1@} A fort,
-<>strong-hold. {@--2@} A hammer. {@--3@} A
-<>tree. {@--4@} A house. {@--5@} A mountain.
-<>{@--Comp.@} {#--जः#} {1} <ab>N.</ab> of a tree;  <lbinfo n="ls:Māl. 9.+ 15"/>
-<><ls>Māl. 9. 15</ls>; <ls>Me. 4</ls>; <ls>R. 19. 37</ls>; <ls>Rs. 3. 13</ls>;
-<><ls>Bh. 1. 35.</ls> {2} <ab>N.</ab> of Agastya. {3}
-<><ab>N.</ab> of Droṇa. {#--हारिका#} a female
-<>servant.
+waterpot, a jar, pitcher. {#--टः#} {@1@} A fort,
+strong-hold. {@--2@} A hammer. {@--3@} A
+tree. {@--4@} A house. {@--5@} A mountain.
+{@--Comp.@} {#--जः#} {1} <ab>N.</ab> of a tree;  <lbinfo n="ls:Māl. 9.+ 15"/>
+<ls>Māl. 9. 15</ls>; <ls>Me. 4</ls>; <ls>R. 19. 37</ls>; <ls>Rs. 3. 13</ls>;
+<ls>Bh. 1. 35.</ls> {2} <ab>N.</ab> of Agastya. {3}
+<ab>N.</ab> of Droṇa. {#--हारिका#} a female
+servant.
 <LEND>

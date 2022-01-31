@@ -1,25 +1,25 @@
 <L>15435<pc>0565-c<k1>दिवा<k2>दिवा
 {#दिवा#}¦ {%<ab>ind.</ab>%} By day, in the <lbinfo n="day+time"/>
-<>daytime; {#दिवाभू#} ‘to become day.’ {@--Comp.@}
-<>{#--अटनः#} a crow. {#--अंध#} {%<ab>a.</ab>%} blind by
-<>day. ({#--धः#}) an owl. {#--अंधकी#}, <lbinfo n="aMDi#kA"/>
-<>{#--अंधिका#} a musk-rat. {#--अवसानं#} ‘close of
-<>day’, evening. {#--करः#} {1} the sun;
-<><ls>Ku. 1. 12</ls>, <ls n="Ku.">5. 48.</ls> {2} a crow. {3} the
-<>sun-flower. {#--कीर्तिः#} {1} a Cāṇḍāla,
-<>a man of low caste. {2} a barber. {3}
-<>an owl. {#--चरः#} {1} a Cāṇḍāla. {2} a
-<>kind of bird ({#श्यामा#}). {#--निशं#} {%<ab>ind.</ab>%}
-<>day and night. {#--पुष्टः, --मणिः#} the
-<>sun. {#--प्रदीपः#} ‘a lamp by day’, an
-<>obscure man. {#--भीतः, --भीतिः#} {1} an
-<>owl; {#दिवाकराद्रक्षति यो गुहासु लीनं#} <lbinfo n="di#vABItamivAMDakAraM"/>
-<>{#दिवाभीतमिवांधकारं#} <ls>Ku. 1. 12.</ls> {2} a
-<>white lotus (opening at night).
-<>{3} a thief, house-breaker. {#--मध्यं#}
-<>midday. {#--रात्रं#} {%<ab>ind.</ab>%} day and night.
-<>{#--वसुः#} the sun. {#--शय#} {%<ab>a.</ab>%} sleeping by
-<>day; <ls>R. 19. 34.</ls> {#--स्वप्नः, --स्वापः#}
-<>sleep during day-time. ({#--पः#}) an
-<>owl.
+daytime; {#दिवाभू#} ‘to become day.’ {@--Comp.@}
+{#--अटनः#} a crow. {#--अंध#} {%<ab>a.</ab>%} blind by
+day. ({#--धः#}) an owl. {#--अंधकी#}, <lbinfo n="aMDi#kA"/>
+{#--अंधिका#} a musk-rat. {#--अवसानं#} ‘close of
+day’, evening. {#--करः#} {1} the sun;
+<ls>Ku. 1. 12</ls>, <ls n="Ku.">5. 48.</ls> {2} a crow. {3} the
+sun-flower. {#--कीर्तिः#} {1} a Cāṇḍāla,
+a man of low caste. {2} a barber. {3}
+an owl. {#--चरः#} {1} a Cāṇḍāla. {2} a
+kind of bird ({#श्यामा#}). {#--निशं#} {%<ab>ind.</ab>%}
+day and night. {#--पुष्टः, --मणिः#} the
+sun. {#--प्रदीपः#} ‘a lamp by day’, an
+obscure man. {#--भीतः, --भीतिः#} {1} an
+owl; {#दिवाकराद्रक्षति यो गुहासु लीनं#} <lbinfo n="di#vABItamivAMDakAraM"/>
+{#दिवाभीतमिवांधकारं#} <ls>Ku. 1. 12.</ls> {2} a
+white lotus (opening at night).
+{3} a thief, house-breaker. {#--मध्यं#}
+midday. {#--रात्रं#} {%<ab>ind.</ab>%} day and night.
+{#--वसुः#} the sun. {#--शय#} {%<ab>a.</ab>%} sleeping by
+day; <ls>R. 19. 34.</ls> {#--स्वप्नः, --स्वापः#}
+sleep during day-time. ({#--पः#}) an
+owl.
 <LEND>

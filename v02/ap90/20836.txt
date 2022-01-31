@@ -1,20 +1,20 @@
 <L>20836<pc>0763-a<k1>प्रश्नः<k2>प्रश्नः
 {#प्रश्नः#}¦ [{#प्रच्छ्-भावे नङ्#}] {@1@} A <lbinfo n="ques+tion"/>
-<>question, query; an inquiry, <lbinfo n="interroga+tion"/>
-<>interrogation ({#अविज्ञातप्रवचनं प्रश्न इत्यभिधीयते#});
-<>{#अनामयप्रश्नपूर्वकं#} <ls>Ś. 5</ls> ‘with an <lbinfo n="in+quiry"/>
-<>inquiry about (your) well-being or
-<>health’. {@--2@} A judicial inquiry or
-<>investigation. {@--3@} A point at issue,
-<>a subject of controversy, <lbinfo n="controver+ted"/>
-<>controverted or disputed point; {#इति प्रश्न#} <lbinfo n="u#pasTitaH"/>
-<>{#उपस्थितः#}. {@--4@} A problem for solution
-<>or calculation; {#अहं ते प्रश्नं दास्यामि#}
-<><ls>Mk. 5.</ls> {@--5@} Inquiry into the future.
-<>{@--6@} A short section of a work. {@--7@}
-<>Basket-work. {@--Comp.@} {#--उपनिषद्#} {%<ab>n.</ab>%}
-<><ab>N.</ab> of an Upaniṣad consisting of
-<>six questions and six answers.  <lbinfo n="--dU#tiH"/>
-<>{#--दूतिः -ती#} {%<ab>f.</ab>%} a riddle, an enigma.
-<>{#--विवाकः#} an arbitrator, umpire. 
+question, query; an inquiry, <lbinfo n="interroga+tion"/>
+interrogation ({#अविज्ञातप्रवचनं प्रश्न इत्यभिधीयते#});
+{#अनामयप्रश्नपूर्वकं#} <ls>Ś. 5</ls> ‘with an <lbinfo n="in+quiry"/>
+inquiry about (your) well-being or
+health’. {@--2@} A judicial inquiry or
+investigation. {@--3@} A point at issue,
+a subject of controversy, <lbinfo n="controver+ted"/>
+controverted or disputed point; {#इति प्रश्न#} <lbinfo n="u#pasTitaH"/>
+{#उपस्थितः#}. {@--4@} A problem for solution
+or calculation; {#अहं ते प्रश्नं दास्यामि#}
+<ls>Mk. 5.</ls> {@--5@} Inquiry into the future.
+{@--6@} A short section of a work. {@--7@}
+Basket-work. {@--Comp.@} {#--उपनिषद्#} {%<ab>n.</ab>%}
+<ab>N.</ab> of an Upaniṣad consisting of
+six questions and six answers.  <lbinfo n="--dU#tiH"/>
+{#--दूतिः -ती#} {%<ab>f.</ab>%} a riddle, an enigma.
+{#--विवाकः#} an arbitrator, umpire. 
 <LEND>

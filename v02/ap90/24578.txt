@@ -1,17 +1,17 @@
 <L>24578<pc>0927-c<k1>लाभः<k2>लाभः
 {#लाभः#}¦ [{#लभ्-भावे घञ्#}] {@1@} Gaining,
-<>obtaining, acquirement, acquisition;
-<>{#शरीरत्यागमात्रेण शुद्धिलाभममन्यत#}  <lbinfo n="ls:R. 12.+ 10"/>
-<><ls>R. 12. 10</ls>; {#स्त्रीरत्नलाभं#} <ls n="R.">7. 34</ls>, <ls n="R.">11. 92</ls>;  <lbinfo n="kzaRama#pyavatizWate"/>
-<>{#क्षणमप्यवतिष्ठते श्वसन्यदि जंतुर्ननु लाभवानसौ#}
-<><ls>R. 8. 87.</ls> {@--2@} Gain, profit, advantage;
-<>{#सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ#}
-<><ls>Bg. 2. 38</ls>; <ls>Y. 2. 259.</ls> {@--3@} <lbinfo n="Enjoy+ment"/>
-<>Enjoyment. {@--4@} Capture, conquest. {@--5@}
-<>Perception, knowledge, <lbinfo n="apprehen+sion"/>
-<>apprehension. {@--Comp.@} {#--कर, --कृत्#} {%<ab>a.</ab>%} <lbinfo n="profit+able"/>
-<>profitable, advantageous. {#--लिप्सा#} desire
-<>of gain, avarice, covetousness.  <lbinfo n="--li#psu"/>
-<>{#--लिप्सु#} {%<ab>a.</ab>%} {1} greedy, covetous. {2}
-<>desirous of gain.
+obtaining, acquirement, acquisition;
+{#शरीरत्यागमात्रेण शुद्धिलाभममन्यत#}  <lbinfo n="ls:R. 12.+ 10"/>
+<ls>R. 12. 10</ls>; {#स्त्रीरत्नलाभं#} <ls n="R.">7. 34</ls>, <ls n="R.">11. 92</ls>;  <lbinfo n="kzaRama#pyavatizWate"/>
+{#क्षणमप्यवतिष्ठते श्वसन्यदि जंतुर्ननु लाभवानसौ#}
+<ls>R. 8. 87.</ls> {@--2@} Gain, profit, advantage;
+{#सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ#}
+<ls>Bg. 2. 38</ls>; <ls>Y. 2. 259.</ls> {@--3@} <lbinfo n="Enjoy+ment"/>
+Enjoyment. {@--4@} Capture, conquest. {@--5@}
+Perception, knowledge, <lbinfo n="apprehen+sion"/>
+apprehension. {@--Comp.@} {#--कर, --कृत्#} {%<ab>a.</ab>%} <lbinfo n="profit+able"/>
+profitable, advantageous. {#--लिप्सा#} desire
+of gain, avarice, covetousness.  <lbinfo n="--li#psu"/>
+{#--लिप्सु#} {%<ab>a.</ab>%} {1} greedy, covetous. {2}
+desirous of gain.
 <LEND>

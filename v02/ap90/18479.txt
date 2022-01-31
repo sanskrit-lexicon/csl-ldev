@@ -1,13 +1,13 @@
 <L>18479<pc>0687-a<k1>पलः<k2>पलः
 {#पलः#}¦ [{#पल्-अच्#}] Straw, husk
-<>{#--लं#} {@1@} Flesh, meat. {@--2@} A particular
-<>weight equal to four {%karshas%}. {@--3@} A
-<>particular measure of fluids. {@--4@}
-<>A particular measure of time.
-<>{@--Comp.@} {#--अग्निः#} bile. {#--अंगः#} a <lbinfo n="tor+toise"/>
-<>tortoise. {#--अदः, --अशनः#} a demon,
-<>Rākṣasa. {#--क्षारः#} blood. {#--गंडः#} a
-<>plasterer, mason. {#--प्रियः#} {1} a demon.
-<>{2} a raven. {#--भा#} the equinoctial
-<>shadow at midday.
+{#--लं#} {@1@} Flesh, meat. {@--2@} A particular
+weight equal to four {%karshas%}. {@--3@} A
+particular measure of fluids. {@--4@}
+A particular measure of time.
+{@--Comp.@} {#--अग्निः#} bile. {#--अंगः#} a <lbinfo n="tor+toise"/>
+tortoise. {#--अदः, --अशनः#} a demon,
+Rākṣasa. {#--क्षारः#} blood. {#--गंडः#} a
+plasterer, mason. {#--प्रियः#} {1} a demon.
+{2} a raven. {#--भा#} the equinoctial
+shadow at midday.
 <LEND>

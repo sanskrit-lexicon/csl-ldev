@@ -1,13 +1,13 @@
 <L>23932<pc>0900-b<k1>रक्षस्<k2>रक्षस्
 {#रक्षस्#}¦ {%<ab>n.</ab>%} [{#रक्ष्यते हविरस्मात्, रक्स्-असुन्#}]
-<>{@1@} An evil spirit, a demon, an imp,
-<>a goblin; {#चतुर्दशसहस्राणि रक्षसां#} <lbinfo n="BIma#karmaRAm"/>
-<>{#भीमकर्मणाम् । त्रयश्च दूषणखरत्रिमूधार्नो रणे#}
-<>{#हताः ॥#} <ls>U. 2. 15.</ls> {@--2@} <ab>Ved.</ab> Hurt,
-<>injury. {@--Comp.@} {#--ईशः, --नाथः#} an <lbinfo n="epi+thet"/>
-<>epithet of Rāvaṇa. {#--घ्नः#} white <lbinfo n="mus+tard"/>
-<>mustard. ({#--घ्नं#}) sour rice-gruel. {#--जननी#}
-<>night. {#--पाशः#} a contemptible <lbinfo n="de+mon"/>
-<>demon. {#--सभं#} an assembly of <lbinfo n="de+mons"/>
-<>demons.
+{@1@} An evil spirit, a demon, an imp,
+a goblin; {#चतुर्दशसहस्राणि रक्षसां#} <lbinfo n="BIma#karmaRAm"/>
+{#भीमकर्मणाम् । त्रयश्च दूषणखरत्रिमूधार्नो रणे#}
+{#हताः ॥#} <ls>U. 2. 15.</ls> {@--2@} <ab>Ved.</ab> Hurt,
+injury. {@--Comp.@} {#--ईशः, --नाथः#} an <lbinfo n="epi+thet"/>
+epithet of Rāvaṇa. {#--घ्नः#} white <lbinfo n="mus+tard"/>
+mustard. ({#--घ्नं#}) sour rice-gruel. {#--जननी#}
+night. {#--पाशः#} a contemptible <lbinfo n="de+mon"/>
+demon. {#--सभं#} an assembly of <lbinfo n="de+mons"/>
+demons.
 <LEND>

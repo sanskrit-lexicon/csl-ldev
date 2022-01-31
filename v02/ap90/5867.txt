@@ -1,70 +1,70 @@
 <L>5867<pc>0226-b<k1>आगमः<k2>आगमः
 {#आगमः#}¦ {@1@} Coming, arrival, approach,
-<>appearance; {#लतायां पूर्वलूनायां#} <lbinfo n="prasUnasyA#gamaH"/>
-<>{#प्रसूनस्यागमः कुतः#} <ls>U. 5. 20</ls>; <ls>Śi. 1. 30</ls>;  <lbinfo n="avya#ktAd"/>
-<>{#अव्यक्ताद् व्यक्तयः सर्वाः प्रभवंत्यहरागमे ।#} <lbinfo n="rA#tryAgame"/>
-<>{#रात्र्यागमे प्रलीयंते#} <ls>Bg. 8. 18</ls>; <ls>R. 14. 80</ls>;
-<><ls>Pt. 3. 48</ls>; <ls>Ms. 8. 401</ls>; so {#व्यसन°#}, <lbinfo n="aMDa#kAra"/>
-<>{#अंधकार°#} &c. {@--2@} Acquisition; {#एषोऽस्या#}
-<>{#मुद्राया आगमः#} <ls>Mu. 1</ls>; <ls>Ś. 6</ls> this
-<>is how I came by this ring;
-<><ls>Dk. 139</ls>; {#वेदानामागमः#} <ls>K. 18</ls>;
-<>{#विद्यागमनिमित्तं#} <ls>V. 5.</ls> {@--3@} Birth, origin,
-<>source; {#आगमापायिनोऽ#} <lbinfo n="nityAstAMstitikza#sva"/>
-<>{#नित्यास्तांस्तितिक्षस्व भारत#} <ls>Bg. 2. 14</ls> coming and going,
-<>of short birth or duration, transient;
-<>{#आगमः काव्यामृतरसानां#} <ls>K. 5.</ls> {@--4@} <lbinfo n="Ad+dition"/>
-<>Addition, accumulation, acquisition
-<>(of wealth); {#अर्थ°, धन°#} &c. {@--5@} Flow,
-<>course, current (of water);  <lbinfo n="ls:Ms. 8.+ 252"/>
-<><ls>Ms. 8. 252</ls>, <ls n="Ms.">9. 281</ls>; {#रक्त°, फेण°#}. {@--6@} A
-<>voucher or written testimony; see
-<>{#अनागम#}. {@--7@} Knowledge;  <lbinfo n="SizyapradeyAga#mAH"/>
-<>{#शिष्यप्रदेयागमाः#} <ls>Bh. 2. 15</ls>; {#प्रज्ञया सदृशागमः#}
-<>{#आगमैः सदृशारंभः#} <ls>R. 1. 15</ls>; {#यस्यागमः#}
-<>{#केवलजीविकायै#} <ls>M. 1. 17</ls>; <ls>Y. 2. 212</ls>,
-<><ls n="Y. 2.">92.</ls> {@--8@} Supply of money, income,
-<>revenue. {@--9@} Lawful acquisition of
-<>anything; {#आगमोपे बलं नैव भुक्तिः#}
-<>{#स्तोकापि यत्र नो#} <ls>Y. 2. 27</ls>, <ls n="Y. 2.">28.</ls> {@--10@} <lbinfo n="In+crease"/>
-<>Increase of property. {@--11@} A traditional
-<>doctrine or precept, a sacred writing
-<>or scripture, Śāstra; {#अनुमानेन न चागमः#}
-<>{#क्षतः#} <ls>Ki. 2. 28</ls>, <ls n="Ki.">5. 18</ls>; {#परिशुद्ध आगमः#}
-<><ls n="Ki.">2. 33</ls>; <ls>K. 55</ls>, <ls n="K.">337.</ls> {@--12@} The study
-<>of Śāstras, sacred knowledge or
-<>learning. {@--13@} Science, a system of
-<>philosophy; {#सांख्यागमेनेव#} <lbinfo n="praDAnapuruzo#petena"/>
-<>{#प्रधानपुरुषोपेतेन#} <ls>K. 51</ls>; {#बहुधाप्यागमैर्भिन्नाः#} <lbinfo n="paMTA#naH"/>
-<>{#पंथानः सिद्धिहेतवः#} <ls>R. 10. 26.</ls> {@--14@} The 
+appearance; {#लतायां पूर्वलूनायां#} <lbinfo n="prasUnasyA#gamaH"/>
+{#प्रसूनस्यागमः कुतः#} <ls>U. 5. 20</ls>; <ls>Śi. 1. 30</ls>;  <lbinfo n="avya#ktAd"/>
+{#अव्यक्ताद् व्यक्तयः सर्वाः प्रभवंत्यहरागमे ।#} <lbinfo n="rA#tryAgame"/>
+{#रात्र्यागमे प्रलीयंते#} <ls>Bg. 8. 18</ls>; <ls>R. 14. 80</ls>;
+<ls>Pt. 3. 48</ls>; <ls>Ms. 8. 401</ls>; so {#व्यसन°#}, <lbinfo n="aMDa#kAra"/>
+{#अंधकार°#} &c. {@--2@} Acquisition; {#एषोऽस्या#}
+{#मुद्राया आगमः#} <ls>Mu. 1</ls>; <ls>Ś. 6</ls> this
+is how I came by this ring;
+<ls>Dk. 139</ls>; {#वेदानामागमः#} <ls>K. 18</ls>;
+{#विद्यागमनिमित्तं#} <ls>V. 5.</ls> {@--3@} Birth, origin,
+source; {#आगमापायिनोऽ#} <lbinfo n="nityAstAMstitikza#sva"/>
+{#नित्यास्तांस्तितिक्षस्व भारत#} <ls>Bg. 2. 14</ls> coming and going,
+of short birth or duration, transient;
+{#आगमः काव्यामृतरसानां#} <ls>K. 5.</ls> {@--4@} <lbinfo n="Ad+dition"/>
+Addition, accumulation, acquisition
+(of wealth); {#अर्थ°, धन°#} &c. {@--5@} Flow,
+course, current (of water);  <lbinfo n="ls:Ms. 8.+ 252"/>
+<ls>Ms. 8. 252</ls>, <ls n="Ms.">9. 281</ls>; {#रक्त°, फेण°#}. {@--6@} A
+voucher or written testimony; see
+{#अनागम#}. {@--7@} Knowledge;  <lbinfo n="SizyapradeyAga#mAH"/>
+{#शिष्यप्रदेयागमाः#} <ls>Bh. 2. 15</ls>; {#प्रज्ञया सदृशागमः#}
+{#आगमैः सदृशारंभः#} <ls>R. 1. 15</ls>; {#यस्यागमः#}
+{#केवलजीविकायै#} <ls>M. 1. 17</ls>; <ls>Y. 2. 212</ls>,
+<ls n="Y. 2.">92.</ls> {@--8@} Supply of money, income,
+revenue. {@--9@} Lawful acquisition of
+anything; {#आगमोपे बलं नैव भुक्तिः#}
+{#स्तोकापि यत्र नो#} <ls>Y. 2. 27</ls>, <ls n="Y. 2.">28.</ls> {@--10@} <lbinfo n="In+crease"/>
+Increase of property. {@--11@} A traditional
+doctrine or precept, a sacred writing
+or scripture, Śāstra; {#अनुमानेन न चागमः#}
+{#क्षतः#} <ls>Ki. 2. 28</ls>, <ls n="Ki.">5. 18</ls>; {#परिशुद्ध आगमः#}
+<ls n="Ki.">2. 33</ls>; <ls>K. 55</ls>, <ls n="K.">337.</ls> {@--12@} The study
+of Śāstras, sacred knowledge or
+learning. {@--13@} Science, a system of
+philosophy; {#सांख्यागमेनेव#} <lbinfo n="praDAnapuruzo#petena"/>
+{#प्रधानपुरुषोपेतेन#} <ls>K. 51</ls>; {#बहुधाप्यागमैर्भिन्नाः#} <lbinfo n="paMTA#naH"/>
+{#पंथानः सिद्धिहेतवः#} <ls>R. 10. 26.</ls> {@--14@} The 
 [Page0226-c+ 57]
-<>Vedas, the sacred scripture;
-<>{#न्यायनिर्णीतसारत्वान्निरपेक्षमिवागमे#}  <lbinfo n="ls:Ki.+ 11. 39."/>
-<><ls>Ki. 11. 39.</ls> {@--15@} The last of the
-<>four kinds of proof, recognized
-<>by the Naiyāyikas (also called {#शब्द#}
-<>or {#आप्तवाक्य#}, the Vedas being so <lbinfo n="re+garded"/>
-<>regarded). {@--16@} An affix or suffix. {@--17@}
-<>The addition or insertion of a letter;
-<>{#भवेद्वर्णागमाद्धंसः#} <ls>Sk.</ls> {@--18@} An <lbinfo n="aug+ment"/>
-<>augment; {#इडागमः#}. {@--19@} Theory (<ab>opp.</ab>
-<>{#प्रयोग#}); {#चतुःषष्टिकलागमप्रयोगचतुरः#}
-<><ls>Dk. 120.</ls> {@--20@} ({#--मः, --मं#}) A work <lbinfo n="in+culcating"/>
-<>inculcating the mystical worship of
-<>{#शिव#} and {#शक्ति#}, a Tantra; {#आगतं#} <lbinfo n="paMca#vaktrAttu"/>
-<>{#पंचवक्त्रात्तु गतं च गिरिजानने । मतं च#} <lbinfo n="vAsude#vasya"/>
-<>{#वासुदेवस्य तस्मादागममुच्यते ॥#} <ls>Śabdak.</ls> {@--21@}
-<>The mouth of a river. {@--Comp.@}
-<>{#--आवर्ता#} <ab>N.</ab> of the plant Targia <lbinfo n="In+volucrata"/>
-<>Involucrata Lin. ({#वृश्चिकाली#}). {#--निरपेक्ष#}
-<>{%<ab>a.</ab>%} independent of a voucher. {#--नीत#}
-<>{%<ab>a.</ab>%} studied, read, examined. {#--रहित#}
-<>{%<ab>a.</ab>%} {1} without a voucher. {2} devoid
-<>of Śāstras. {#--वृद्ध#} {%<ab>a.</ab>%} advanced in
-<>knowledge, a very learned man; {#प्रतीप#}
-<>{#इत्यागमवृद्धसेवी#} <ls>R. 6. 41.</ls> {#--वेदिन्#}
-<>{%<ab>a.</ab>%} {1} knowing the Vedas. {2} learned
-<>in Śāstras. ({%--<ab>m.</ab>%}) an epithet of <lbinfo n="Śan+karāchārya"/>
-<>Śankarāchārya's preceptor Gauḍapāda.
-<>{#--साक्षेप#} {%<ab>a.</ab>%} supposed by a voucher.
+Vedas, the sacred scripture;
+{#न्यायनिर्णीतसारत्वान्निरपेक्षमिवागमे#}  <lbinfo n="ls:Ki.+ 11. 39."/>
+<ls>Ki. 11. 39.</ls> {@--15@} The last of the
+four kinds of proof, recognized
+by the Naiyāyikas (also called {#शब्द#}
+or {#आप्तवाक्य#}, the Vedas being so <lbinfo n="re+garded"/>
+regarded). {@--16@} An affix or suffix. {@--17@}
+The addition or insertion of a letter;
+{#भवेद्वर्णागमाद्धंसः#} <ls>Sk.</ls> {@--18@} An <lbinfo n="aug+ment"/>
+augment; {#इडागमः#}. {@--19@} Theory (<ab>opp.</ab>
+{#प्रयोग#}); {#चतुःषष्टिकलागमप्रयोगचतुरः#}
+<ls>Dk. 120.</ls> {@--20@} ({#--मः, --मं#}) A work <lbinfo n="in+culcating"/>
+inculcating the mystical worship of
+{#शिव#} and {#शक्ति#}, a Tantra; {#आगतं#} <lbinfo n="paMca#vaktrAttu"/>
+{#पंचवक्त्रात्तु गतं च गिरिजानने । मतं च#} <lbinfo n="vAsude#vasya"/>
+{#वासुदेवस्य तस्मादागममुच्यते ॥#} <ls>Śabdak.</ls> {@--21@}
+The mouth of a river. {@--Comp.@}
+{#--आवर्ता#} <ab>N.</ab> of the plant Targia <lbinfo n="In+volucrata"/>
+Involucrata Lin. ({#वृश्चिकाली#}). {#--निरपेक्ष#}
+{%<ab>a.</ab>%} independent of a voucher. {#--नीत#}
+{%<ab>a.</ab>%} studied, read, examined. {#--रहित#}
+{%<ab>a.</ab>%} {1} without a voucher. {2} devoid
+of Śāstras. {#--वृद्ध#} {%<ab>a.</ab>%} advanced in
+knowledge, a very learned man; {#प्रतीप#}
+{#इत्यागमवृद्धसेवी#} <ls>R. 6. 41.</ls> {#--वेदिन्#}
+{%<ab>a.</ab>%} {1} knowing the Vedas. {2} learned
+in Śāstras. ({%--<ab>m.</ab>%}) an epithet of <lbinfo n="Śan+karāchārya"/>
+Śankarāchārya's preceptor Gauḍapāda.
+{#--साक्षेप#} {%<ab>a.</ab>%} supposed by a voucher.
 <LEND>

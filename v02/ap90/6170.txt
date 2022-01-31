@@ -1,18 +1,18 @@
 <L>6170<pc>0238-a<k1>आदेशः<k2>आदेशः
 {#आदेशः#}¦ {@1@} An order, command;
-<>{#भ्रातुरादेशमादाय#} <ls>Rām.</ls>; {#आदेशं#} <lbinfo n="deSakAla#jYaH"/>
-<>{#देशकालज्ञः प्रतिजग्राह#} <ls>R. 1. 92</ls>;  <lbinfo n="rAjadvizwAdeSa#kftaH"/>
-<>{#राजद्विष्टादेशकृतः#} <ls>Y. 2. 304</ls> doing acts forbidden
-<>by the king. {@--2@} Advice, <lbinfo n="instruc+tion"/>
-<>instruction, precept, rule; {#आदित्यो#} <lbinfo n="brahmetyA#deSaH"/>
-<>{#ब्रह्मेत्यादेशः#} <ls>Ch. Up.</ls> {@--3@} Account, <lbinfo n="informa+tion"/>
-<>information, relation, pointing out, <lbinfo n="indica+tion"/>
-<>indication. {@--4@} A prediction, prophecy;
-<>{#विप्रश्निकादेशवचनानि#} <ls>K. 64</ls>; see  <lbinfo n="si#dDAdeSa"/>
-<>{#सिद्धादेश#} also. {@--5@} (Gram.) A <lbinfo n="substi+tute"/>
-<>substitute; {#धातोः स्थान इवादेशं सुग्रीवं#} <lbinfo n="saMnyave#Sayat"/>
-<>{#संन्यवेशयत्#} <ls>R. 12. 58.</ls> {@--6@} (In astrology)
-<>Event, result, consequence of the
-<>conjunction of stars. {@--Comp.@}  <lbinfo n="--kA#rin"/>
-<>{#--कारिन्#} {%<ab>a.</ab>%} obedient.
+{#भ्रातुरादेशमादाय#} <ls>Rām.</ls>; {#आदेशं#} <lbinfo n="deSakAla#jYaH"/>
+{#देशकालज्ञः प्रतिजग्राह#} <ls>R. 1. 92</ls>;  <lbinfo n="rAjadvizwAdeSa#kftaH"/>
+{#राजद्विष्टादेशकृतः#} <ls>Y. 2. 304</ls> doing acts forbidden
+by the king. {@--2@} Advice, <lbinfo n="instruc+tion"/>
+instruction, precept, rule; {#आदित्यो#} <lbinfo n="brahmetyA#deSaH"/>
+{#ब्रह्मेत्यादेशः#} <ls>Ch. Up.</ls> {@--3@} Account, <lbinfo n="informa+tion"/>
+information, relation, pointing out, <lbinfo n="indica+tion"/>
+indication. {@--4@} A prediction, prophecy;
+{#विप्रश्निकादेशवचनानि#} <ls>K. 64</ls>; see  <lbinfo n="si#dDAdeSa"/>
+{#सिद्धादेश#} also. {@--5@} (Gram.) A <lbinfo n="substi+tute"/>
+substitute; {#धातोः स्थान इवादेशं सुग्रीवं#} <lbinfo n="saMnyave#Sayat"/>
+{#संन्यवेशयत्#} <ls>R. 12. 58.</ls> {@--6@} (In astrology)
+Event, result, consequence of the
+conjunction of stars. {@--Comp.@}  <lbinfo n="--kA#rin"/>
+{#--कारिन्#} {%<ab>a.</ab>%} obedient.
 <LEND>

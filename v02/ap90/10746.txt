@@ -1,28 +1,28 @@
 <L>10746<pc>0396-b<k1>कारक<k2>कारक
 {#कारक#}¦ {%<ab>a.</ab>%} ({#रिका#} {%<ab>f.</ab>%}) [{#कृ-ण्वुल्#}] <lbinfo n="(Usual+ly"/>
-<>(Usually at the end of <ab>comp.</ab>) {@1@} <lbinfo n="Mak+ing"/>
-<>Making, acting, doing, performing,
-<>creating, doer &c.; {#स्वप्नस्य कारकः#}  <lbinfo n="ls:Y.+ 3. 150"/>
-<><ls>Y. 3. 150</ls>; <ls n="Y.">2. 156</ls>; {#वर्णसंकरकारकैः#}  <lbinfo n="ls:Bg.+ 1. 42"/>
-<><ls>Bg. 1. 42</ls>; <ls>Ms. 7. 204</ls>; <ls>Pt. 5. 36.</ls> {@--2@}
-<>An agent. {@--3@} Intending to act or
-<>do. {#--कं#} {@1@} (In <ab>gram.</ab>) The <lbinfo n="rela+tion"/>
-<>relation subsisting between a noun and
-<>a verb in a sentence, (or between a
-<>noun and other words governing it);
-<>there are six such Kārakas, <lbinfo n="belong+ing"/>
-<>belonging to the first seven cases, except
-<>the genitive: (1) {#कर्तृ#}; (2) {#कर्मन्#}; (3); {#करण#};
-<>(4) {#संप्रदान#}; (5) {#अपादान#}; (6)  <lbinfo n="aDikara#Ra"/>
-<>{#अधिकरण#}. {@--2@} That part of grammar which
-<>treats of these relations; {%<ab>i. e.</ab>%} syntax.
-<>{@--3@} Water produced from hail. {@--Comp.@}
-<>{#--दीपकं#} (in <ab>Rhet.</ab>) a figure of speech
-<>in which the same Kāraka is <lbinfo n="con+nected"/>
-<>connected with several verbs in <lbinfo n="succes+sion"/>
-<>succession; {%<ab>e. g.</ab>%} {#खिद्यति कूणति वेल्लति विचलति#}
-<>{#निमिषति विलोकयति तिर्यक् । अंतर्नंदति#} <lbinfo n="cuMbi#tumicCati"/>
-<>{#चुंबितुमिच्छति नवपरिणया वधूः शयने ॥#}  <lbinfo n="ls:K. P.+ 10."/>
-<><ls>K. P. 10.</ls> {#--हेतुः#} the active or efficient
-<>cause (<ab>opp.</ab> {#ज्ञापकहेतु#}).
+(Usually at the end of <ab>comp.</ab>) {@1@} <lbinfo n="Mak+ing"/>
+Making, acting, doing, performing,
+creating, doer &c.; {#स्वप्नस्य कारकः#}  <lbinfo n="ls:Y.+ 3. 150"/>
+<ls>Y. 3. 150</ls>; <ls n="Y.">2. 156</ls>; {#वर्णसंकरकारकैः#}  <lbinfo n="ls:Bg.+ 1. 42"/>
+<ls>Bg. 1. 42</ls>; <ls>Ms. 7. 204</ls>; <ls>Pt. 5. 36.</ls> {@--2@}
+An agent. {@--3@} Intending to act or
+do. {#--कं#} {@1@} (In <ab>gram.</ab>) The <lbinfo n="rela+tion"/>
+relation subsisting between a noun and
+a verb in a sentence, (or between a
+noun and other words governing it);
+there are six such Kārakas, <lbinfo n="belong+ing"/>
+belonging to the first seven cases, except
+the genitive: (1) {#कर्तृ#}; (2) {#कर्मन्#}; (3); {#करण#};
+(4) {#संप्रदान#}; (5) {#अपादान#}; (6)  <lbinfo n="aDikara#Ra"/>
+{#अधिकरण#}. {@--2@} That part of grammar which
+treats of these relations; {%<ab>i. e.</ab>%} syntax.
+{@--3@} Water produced from hail. {@--Comp.@}
+{#--दीपकं#} (in <ab>Rhet.</ab>) a figure of speech
+in which the same Kāraka is <lbinfo n="con+nected"/>
+connected with several verbs in <lbinfo n="succes+sion"/>
+succession; {%<ab>e. g.</ab>%} {#खिद्यति कूणति वेल्लति विचलति#}
+{#निमिषति विलोकयति तिर्यक् । अंतर्नंदति#} <lbinfo n="cuMbi#tumicCati"/>
+{#चुंबितुमिच्छति नवपरिणया वधूः शयने ॥#}  <lbinfo n="ls:K. P.+ 10."/>
+<ls>K. P. 10.</ls> {#--हेतुः#} the active or efficient
+cause (<ab>opp.</ab> {#ज्ञापकहेतु#}).
 <LEND>

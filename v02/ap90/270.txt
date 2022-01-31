@@ -1,20 +1,20 @@
 <L>270<pc>0018-a<k1>अंग<k2>अंग
 {#अंग#}¦ {%<ab>ind.</ab>%} A vocative particle <lbinfo n="mean+ing"/>
-<>meaning ‘well,’ ‘well, sir,’ ‘indeed,’ ‘true;’
-<>‘assent’ (as in {#अंगीकृ#}); {#अंग कच्चित्कुशली#}
-<>{#तातः#} <ls>K. 221</ls>; {#प्रभुरपि जनकानामंग भो#} <lbinfo n="yA#cakaste"/>
-<>{#याचकस्ते#} <ls>Mv. 3. 5</ls>; {#अंग अस्ति#} <lbinfo n="kaScidvima#rdako"/>
-<>{#कश्चिद्विमर्दको नामात्रभवतः#} <ls>Dk. 59</ls>; {#अंग कुरु अंग#}
-<>{#पच#} <ls>P. VIII. 1. 33</ls> Sk; {#अंगाधीष्व भक्तं#}
-<>{#तव दास्यामि#} <ls>P. VIII. 2. 96</ls> <ls>Sk.</ls>; {#समनद्ध#}
-<>{#किमंग भूपतिः#} <ls>Śi. 16. 34</ls>, <ls n="Śi.">2. 12</ls>;  <lbinfo n="ls:Ki. 10.+ 55"/>
-<><ls>Ki. 10. 55</ls>, <ls n="Ki.">13. 65</ls>; used with {#किं#} in the sense
-<>of ‘how much less’, or ‘how much
-<>more;’ {#शक्तिरस्ति कस्यचिद्विदेहराजस्य#}
-<>{#छायामप्यवस्कंदितुं किमंग जामातरं#} <ls>Mv. 3</ls>;
-<>{#तृणेन कार्यं भवतीश्वराणां किमंग#} <lbinfo n="vAGastava#tA"/>
-<>{#वाघस्तवता नरेण#} <ls>Pt. 1. 71.</ls> Lexicographers
-<>give the following senses of {#अंगः#} -  <lbinfo n="kzi#pre"/>
-<>{#क्षिप्रे च पुनरर्थे च संगमासूययोस्तथा । हर्षे#} <lbinfo n="saMbo#Dane"/>
-<>{#संबोधने चैव ह्यंगशब्दः प्रयुज्यते ॥#}
+meaning ‘well,’ ‘well, sir,’ ‘indeed,’ ‘true;’
+‘assent’ (as in {#अंगीकृ#}); {#अंग कच्चित्कुशली#}
+{#तातः#} <ls>K. 221</ls>; {#प्रभुरपि जनकानामंग भो#} <lbinfo n="yA#cakaste"/>
+{#याचकस्ते#} <ls>Mv. 3. 5</ls>; {#अंग अस्ति#} <lbinfo n="kaScidvima#rdako"/>
+{#कश्चिद्विमर्दको नामात्रभवतः#} <ls>Dk. 59</ls>; {#अंग कुरु अंग#}
+{#पच#} <ls>P. VIII. 1. 33</ls> Sk; {#अंगाधीष्व भक्तं#}
+{#तव दास्यामि#} <ls>P. VIII. 2. 96</ls> <ls>Sk.</ls>; {#समनद्ध#}
+{#किमंग भूपतिः#} <ls>Śi. 16. 34</ls>, <ls n="Śi.">2. 12</ls>;  <lbinfo n="ls:Ki. 10.+ 55"/>
+<ls>Ki. 10. 55</ls>, <ls n="Ki.">13. 65</ls>; used with {#किं#} in the sense
+of ‘how much less’, or ‘how much
+more;’ {#शक्तिरस्ति कस्यचिद्विदेहराजस्य#}
+{#छायामप्यवस्कंदितुं किमंग जामातरं#} <ls>Mv. 3</ls>;
+{#तृणेन कार्यं भवतीश्वराणां किमंग#} <lbinfo n="vAGastava#tA"/>
+{#वाघस्तवता नरेण#} <ls>Pt. 1. 71.</ls> Lexicographers
+give the following senses of {#अंगः#} -  <lbinfo n="kzi#pre"/>
+{#क्षिप्रे च पुनरर्थे च संगमासूययोस्तथा । हर्षे#} <lbinfo n="saMbo#Dane"/>
+{#संबोधने चैव ह्यंगशब्दः प्रयुज्यते ॥#}
 <LEND>

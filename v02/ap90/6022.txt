@@ -1,22 +1,22 @@
 <L>6022<pc>0231-a<k1>आज्ञा<k2>आज्ञा
 {#आज्ञा#}¦ [{#आ-ज्ञा-अङ्#}] {@1@} An order,
-<>command; {#तथेति शेषामिव भर्तुराज्ञां#}  <lbinfo n="ls:Ku.+ 3. 22."/>
-<><ls>Ku. 3. 22.</ls> {@--2@} Permission, allowance.
-<>{@--Comp.@} {#--अनुग, --अनुगामिन्#}, <lbinfo n="anuyAyi#n"/>
-<>{#--अनुयायिन्, --अनुवर्तिन्, --अनुसारिन्, --संपादक, --वह#} {%<ab>a.</ab>%}
-<>obedient, submissive. {#--कर, --कारिन्#} {%<ab>a.</ab>%}
-<>obeying or executing orders, <lbinfo n="obe+dient"/>
-<>obedient. ({#--रः#}) a servent;  <lbinfo n="°karatvamaDi#gamya"/>
-<>{#°करत्वमधिगम्य#} <ls>V. 3. 19</ls> being the obedient
-<>servant; {#कार्याणां गतयो विधेरपि#} <lbinfo n="nayaM#tyAjYAkaratvaM"/>
-<>{#नयंत्याज्ञाकरत्वं चिरात्#} <ls>Mu. 7. 16</ls> <lbinfo n="subjec+tion"/>
-<>subjection. {#--करणं, --पालनं#} obedience, <lbinfo n="execu+tion"/>
-<>execution of commands. {#--चक्रं#} a mystical
-<>circle or diagram; one of the six
-<>described in Tantras. {#--पत्रं#} an edict,
-<>written order. {#--प्रतिघातः, --भंगः#} {1}
-<>disobedience, insubordination,  <lbinfo n="nAjYA#BaMgaM"/>
-<>{#नाज्ञाभंगं सहंते नृवर नृपतयस्त्वादृशाः#} <lbinfo n="sArvaBO#mAH"/>
-<>{#सार्वभौमाः#} <ls>Mu. 3. 22.</ls> {2} rebellion, <lbinfo n="disloyal+ty"/>
-<>disloyalty. {#--विधेय#} {%<ab>a.</ab>%} obedient to commands.
+command; {#तथेति शेषामिव भर्तुराज्ञां#}  <lbinfo n="ls:Ku.+ 3. 22."/>
+<ls>Ku. 3. 22.</ls> {@--2@} Permission, allowance.
+{@--Comp.@} {#--अनुग, --अनुगामिन्#}, <lbinfo n="anuyAyi#n"/>
+{#--अनुयायिन्, --अनुवर्तिन्, --अनुसारिन्, --संपादक, --वह#} {%<ab>a.</ab>%}
+obedient, submissive. {#--कर, --कारिन्#} {%<ab>a.</ab>%}
+obeying or executing orders, <lbinfo n="obe+dient"/>
+obedient. ({#--रः#}) a servent;  <lbinfo n="°karatvamaDi#gamya"/>
+{#°करत्वमधिगम्य#} <ls>V. 3. 19</ls> being the obedient
+servant; {#कार्याणां गतयो विधेरपि#} <lbinfo n="nayaM#tyAjYAkaratvaM"/>
+{#नयंत्याज्ञाकरत्वं चिरात्#} <ls>Mu. 7. 16</ls> <lbinfo n="subjec+tion"/>
+subjection. {#--करणं, --पालनं#} obedience, <lbinfo n="execu+tion"/>
+execution of commands. {#--चक्रं#} a mystical
+circle or diagram; one of the six
+described in Tantras. {#--पत्रं#} an edict,
+written order. {#--प्रतिघातः, --भंगः#} {1}
+disobedience, insubordination,  <lbinfo n="nAjYA#BaMgaM"/>
+{#नाज्ञाभंगं सहंते नृवर नृपतयस्त्वादृशाः#} <lbinfo n="sArvaBO#mAH"/>
+{#सार्वभौमाः#} <ls>Mu. 3. 22.</ls> {2} rebellion, <lbinfo n="disloyal+ty"/>
+disloyalty. {#--विधेय#} {%<ab>a.</ab>%} obedient to commands.
 <LEND>

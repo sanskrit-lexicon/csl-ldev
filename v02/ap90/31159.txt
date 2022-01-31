@@ -1,21 +1,21 @@
 <L>31159<pc>1161-b<k1>स्वर्णं<k2>स्वर्णं
 {#स्वर्णं#}¦ [{#सुष्ठु अर्णो वर्णो यस्य#}] {@1@} Gold.
-<>{@--2@} A golden coin. {@--Comp.@} {#--अंगः#}
-<>the Āragvadha tree. {#--अरिः#} sulphur.
-<>{#--कणः, --कणिका#} a grain of gold.
-<>{#--काय#} {%<ab>a.</ab>%} golden-bodied. ({#--यः#}) <ab>N.</ab>
-<>of Garuḍa. {#--कारः, --कृत्#} a goldsmith.
-<>{#--गैरिकं#} a kind of red chalk. {#--चूडः#}
-<>{1} the blue jay. {2} a cock. {#--जं#}
-<>tin. {#--दीधितिः#} fire. {#--पक्षः#} <ab>N.</ab> of
-<>Garuḍa. {#--पद्मा#} the celestial Ganges.
-<>{#--पाठकः#} borax. {#--पुष्पः#} the  <lbinfo n="Cam+paka"/>
-<>{%Campaka%} tree. {#--बंधः#} a deposit of gold.
-<>{#--बिंदुः#} <ab>N.</ab> of Viṣṇu. {#--भृंगारः#} a
-<>golden vase. {#--माक्षिकं#} a kind of
-<>mineral substance. {#--यूथी --यूथिका#}
-<>yellow jasmine. {#--रेखा, --लेखा#} a
-<>streak of gold. {#--वणिज्#} {%<ab>m.</ab>%} {1} a <lbinfo n="gold+merchant"/>
-<>goldmerchant. {2} a money-changer. {#--वर्णा#}
-<>turmeric.
+{@--2@} A golden coin. {@--Comp.@} {#--अंगः#}
+the Āragvadha tree. {#--अरिः#} sulphur.
+{#--कणः, --कणिका#} a grain of gold.
+{#--काय#} {%<ab>a.</ab>%} golden-bodied. ({#--यः#}) <ab>N.</ab>
+of Garuḍa. {#--कारः, --कृत्#} a goldsmith.
+{#--गैरिकं#} a kind of red chalk. {#--चूडः#}
+{1} the blue jay. {2} a cock. {#--जं#}
+tin. {#--दीधितिः#} fire. {#--पक्षः#} <ab>N.</ab> of
+Garuḍa. {#--पद्मा#} the celestial Ganges.
+{#--पाठकः#} borax. {#--पुष्पः#} the  <lbinfo n="Cam+paka"/>
+{%Campaka%} tree. {#--बंधः#} a deposit of gold.
+{#--बिंदुः#} <ab>N.</ab> of Viṣṇu. {#--भृंगारः#} a
+golden vase. {#--माक्षिकं#} a kind of
+mineral substance. {#--यूथी --यूथिका#}
+yellow jasmine. {#--रेखा, --लेखा#} a
+streak of gold. {#--वणिज्#} {%<ab>m.</ab>%} {1} a <lbinfo n="gold+merchant"/>
+goldmerchant. {2} a money-changer. {#--वर्णा#}
+turmeric.
 <LEND>

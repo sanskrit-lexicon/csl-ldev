@@ -1,8 +1,8 @@
 <L>19213<pc>0714-b<k1>पुस्तं<k2>पुस्तं
 {#पुस्तं#}¦ {@1@} Plastering, painting, <lbinfo n="a+nointing"/>
-<>anointing. {@--2@} Working in clay, <lbinfo n="mo+delling"/>
-<>modelling. {@--3@} Anything made of clay,
-<>wood or metal. {@--4@} A book, <lbinfo n="manu+script"/>
-<>manuscript. {@--Comp.@} {#--कर्मन्#} {%<ab>n.</ab>%} plastering,
-<>painting.
+anointing. {@--2@} Working in clay, <lbinfo n="mo+delling"/>
+modelling. {@--3@} Anything made of clay,
+wood or metal. {@--4@} A book, <lbinfo n="manu+script"/>
+manuscript. {@--Comp.@} {#--कर्मन्#} {%<ab>n.</ab>%} plastering,
+painting.
 <LEND>

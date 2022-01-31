@@ -1,13 +1,13 @@
 <L>24806<pc>0936-c<k1>लौह<k2>लौह
 {#लौह#}¦ {%<ab>a.</ab>%} ({#ही#} {%<ab>f.</ab>%}) [{#लोहमेव लोहस्य#}
-<>{#विकारः अण्#}] {@1@} Made of iron, iron. {@--2@}
-<>Coppery. {@--3@} Metallic. {@--4@} <lbinfo n="Copper+coloured"/>
-<>Coppercoloured, red. {#--हं#} Iron;  <lbinfo n="ls:Bk. 15.+ 54."/>
-<><ls>Bk. 15. 54.</ls> {#--हा#} A kettle. {@--Comp.@}  <lbinfo n="--Atma#n"/>
-<>{#--आत्मन्#} {%<ab>m.</ab>%}, {#--भूः#} {%<ab>f.</ab>%} a boiler, kettle, <lbinfo n="cal+dron"/>
-<>caldron. {#--कारः#} a blacksmith. {#--जं#}
-<>rust of iron. {#--बंधः --धं#} an iron
-<>fetter, irons. {#--भांडं#} an iron vessel.
-<>{#--मलं#} rust of iron. {#--शंकुः#} an iron
-<>spike.
+{#विकारः अण्#}] {@1@} Made of iron, iron. {@--2@}
+Coppery. {@--3@} Metallic. {@--4@} <lbinfo n="Copper+coloured"/>
+Coppercoloured, red. {#--हं#} Iron;  <lbinfo n="ls:Bk. 15.+ 54."/>
+<ls>Bk. 15. 54.</ls> {#--हा#} A kettle. {@--Comp.@}  <lbinfo n="--Atma#n"/>
+{#--आत्मन्#} {%<ab>m.</ab>%}, {#--भूः#} {%<ab>f.</ab>%} a boiler, kettle, <lbinfo n="cal+dron"/>
+caldron. {#--कारः#} a blacksmith. {#--जं#}
+rust of iron. {#--बंधः --धं#} an iron
+fetter, irons. {#--भांडं#} an iron vessel.
+{#--मलं#} rust of iron. {#--शंकुः#} an iron
+spike.
 <LEND>

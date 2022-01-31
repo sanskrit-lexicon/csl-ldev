@@ -1,21 +1,21 @@
 <L>30548<pc>1138-a<k1>सेवा<k2>सेवा
 {#सेवा#}¦ [{#सेव्-अ#}] {@1@} Service, servitude,
-<>dependence; attendance; {#सेवां#} <lbinfo n="lA#GavakAriRIM"/>
-<>{#लाघवकारिणीं कृतधियः स्थाने श्ववृत्तिं विदुः#}
-<><ls>Mu. 3. 14</ls>; {#हनिसेवा न कर्तव्या#}  <lbinfo n="ls:H.+ 3. 11."/>
-<><ls>H. 3. 11.</ls> {@--2@} Worship, homage, <lbinfo n="honour+ing"/>
-<>honouring {@--3@} Addiction or devotion to,
-<>fondness for. {@--4@} Use, practice, <lbinfo n="em+ployment"/>
-<>employment, exercise. {@--5@} Frequenting,
-<>resorting to. {@--6@} Flattery, coaxing
-<>or flattering words; {#अलं सेवया#} <lbinfo n="ma#DyasTatAM"/>
-<>{#मध्यस्थतां गृहीत्वा भण#} <ls>M. 3.</ls> {@--Comp.@}
-<>{#--आकार#} {%<ab>a.</ab>%} in the form of servitude;
-<><ls>V. 3. 1.</ls> {#--काकुः#} change of voice in
-<>service; (this is a variant in  <lbinfo n="ls:V.+ 3. 1"/>
-<><ls>V. 3. 1</ls> for {#सेवाकारा#}). {#--धर्मः#} {1} the duty
-<>of service; {#सेवाधर्मः परमगहनो#} <lbinfo n="yogi#nAmapyagamyaH"/>
-<>{#योगिनामप्यगम्यः#} <ls>Pt. 1. 285.</ls> {2} the <lbinfo n="obli+gations"/>
-<>obligations of service. {#--व्यवहारः#} the
-<>practice or law of service.
+dependence; attendance; {#सेवां#} <lbinfo n="lA#GavakAriRIM"/>
+{#लाघवकारिणीं कृतधियः स्थाने श्ववृत्तिं विदुः#}
+<ls>Mu. 3. 14</ls>; {#हनिसेवा न कर्तव्या#}  <lbinfo n="ls:H.+ 3. 11."/>
+<ls>H. 3. 11.</ls> {@--2@} Worship, homage, <lbinfo n="honour+ing"/>
+honouring {@--3@} Addiction or devotion to,
+fondness for. {@--4@} Use, practice, <lbinfo n="em+ployment"/>
+employment, exercise. {@--5@} Frequenting,
+resorting to. {@--6@} Flattery, coaxing
+or flattering words; {#अलं सेवया#} <lbinfo n="ma#DyasTatAM"/>
+{#मध्यस्थतां गृहीत्वा भण#} <ls>M. 3.</ls> {@--Comp.@}
+{#--आकार#} {%<ab>a.</ab>%} in the form of servitude;
+<ls>V. 3. 1.</ls> {#--काकुः#} change of voice in
+service; (this is a variant in  <lbinfo n="ls:V.+ 3. 1"/>
+<ls>V. 3. 1</ls> for {#सेवाकारा#}). {#--धर्मः#} {1} the duty
+of service; {#सेवाधर्मः परमगहनो#} <lbinfo n="yogi#nAmapyagamyaH"/>
+{#योगिनामप्यगम्यः#} <ls>Pt. 1. 285.</ls> {2} the <lbinfo n="obli+gations"/>
+obligations of service. {#--व्यवहारः#} the
+practice or law of service.
 <LEND>

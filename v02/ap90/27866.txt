@@ -1,16 +1,16 @@
 <L>27866<pc>1041-c<k1>शाला<k2>शाला
 {#शाला#}¦ [{#शाल्-अच्#}] {@1@} An <lbinfo n="apart+ment"/>
-<>apartment, a room, saloon, hall;  <lbinfo n="gfhErvi#SAlErapi"/>
-<>{#गृहैर्विशालैरपि भूरिशालैः#} <ls>Śi. 3. 50</ls>; so  <lbinfo n="saMgIta#SAlA"/>
-<>{#संगीतशाला, रंगशाला#} &c. {@--2@} A house, an
-<>abode; <ls>R. 16. 41.</ls> {@--3@} The upper
-<>or main branch of a tree. {@--4@} The
-<>trunk of a tree. {@--5@} A stable, stall; as
-<>in {#वाजिशाला, गर्दभशाला#} &c. {@--Comp.@}
-<>{#--अजिरः --रं#} a hollow earthen cup.
-<>{#--मृगः#} a jackal. {#--वृकः#} {1} a dog;
-<>{#सिंहानां च सुखेन मूर्घसु पदं धास्यंति#} <lbinfo n="SA#lAvfkAH"/>
-<>{#शालावृकाः#} <ls>Bv. 1. 72.</ls> {2} a wolf. {3}
-<>a deer. {4} a cat. {5} a jackal. {6}
-<>a monkey.
+apartment, a room, saloon, hall;  <lbinfo n="gfhErvi#SAlErapi"/>
+{#गृहैर्विशालैरपि भूरिशालैः#} <ls>Śi. 3. 50</ls>; so  <lbinfo n="saMgIta#SAlA"/>
+{#संगीतशाला, रंगशाला#} &c. {@--2@} A house, an
+abode; <ls>R. 16. 41.</ls> {@--3@} The upper
+or main branch of a tree. {@--4@} The
+trunk of a tree. {@--5@} A stable, stall; as
+in {#वाजिशाला, गर्दभशाला#} &c. {@--Comp.@}
+{#--अजिरः --रं#} a hollow earthen cup.
+{#--मृगः#} a jackal. {#--वृकः#} {1} a dog;
+{#सिंहानां च सुखेन मूर्घसु पदं धास्यंति#} <lbinfo n="SA#lAvfkAH"/>
+{#शालावृकाः#} <ls>Bv. 1. 72.</ls> {2} a wolf. {3}
+a deer. {4} a cat. {5} a jackal. {6}
+a monkey.
 <LEND>

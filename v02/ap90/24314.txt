@@ -1,21 +1,21 @@
 <L>24314<pc>0917-c<k1>रोगः<k2>रोगः
 {#रोगः#}¦ [{#रुज्-घञ्#}] A disease, <lbinfo n="sick+ness"/>
-<>sickness, malady, distemper, infirmity;
-<>{#संतापयंति कमपथ्यभुजं न रोगाः#}  <lbinfo n="ls:H. 3.+ 117"/>
-<><ls>H. 3. 117</ls>; {#भोगे रोगभयं#} <ls>Bh. 3. 35.</ls> {@--Comp.@}
-<>{#--अंतकः, --हृत्#} {%<ab>m.</ab>%} a physician.  <lbinfo n="--A#yatanaM"/>
-<>{#--आयतनं#} the body. {#--आर्त, --अन्वित, --ग्रस्त#},
-<>{#--भाज्#} {%<ab>a.</ab>%} afflicted with disease, sick.
-<>{#--उपशमः#} cure or alleviation of <lbinfo n="dis+ease"/>
-<>disease. {#--घ्न#} {%<ab>a.</ab>%} curative, medicinal.
-<>{#--घ्नं#} {1} a medicine. {2} the science
-<>of medicine. {#--भूः#} {%<ab>f.</ab>%} the body.
-<>{#--राजः#} consumption. {#--लक्षणं#} the
-<>symptoms of a disease. {#--शांतकः#} a
-<>physician. {#--शांतिः#} {%<ab>f.</ab>%} alleviation or
-<>cure of a disease. {#--शिला#} red arsenic.
-<>{#--श्रेष्ठः#} fever. {#--हं#} a drug. {#--हन्#} {%<ab>m.</ab>%}
-<>a physician. {#--हर#} {%<ab>a.</ab>%} curative. ({#--रं#})
-<>a medicine. {#--हारिन्#} {%<ab>a.</ab>%} curative.
-<>({%--<ab>m.</ab>%}) a physician.
+sickness, malady, distemper, infirmity;
+{#संतापयंति कमपथ्यभुजं न रोगाः#}  <lbinfo n="ls:H. 3.+ 117"/>
+<ls>H. 3. 117</ls>; {#भोगे रोगभयं#} <ls>Bh. 3. 35.</ls> {@--Comp.@}
+{#--अंतकः, --हृत्#} {%<ab>m.</ab>%} a physician.  <lbinfo n="--A#yatanaM"/>
+{#--आयतनं#} the body. {#--आर्त, --अन्वित, --ग्रस्त#},
+{#--भाज्#} {%<ab>a.</ab>%} afflicted with disease, sick.
+{#--उपशमः#} cure or alleviation of <lbinfo n="dis+ease"/>
+disease. {#--घ्न#} {%<ab>a.</ab>%} curative, medicinal.
+{#--घ्नं#} {1} a medicine. {2} the science
+of medicine. {#--भूः#} {%<ab>f.</ab>%} the body.
+{#--राजः#} consumption. {#--लक्षणं#} the
+symptoms of a disease. {#--शांतकः#} a
+physician. {#--शांतिः#} {%<ab>f.</ab>%} alleviation or
+cure of a disease. {#--शिला#} red arsenic.
+{#--श्रेष्ठः#} fever. {#--हं#} a drug. {#--हन्#} {%<ab>m.</ab>%}
+a physician. {#--हर#} {%<ab>a.</ab>%} curative. ({#--रं#})
+a medicine. {#--हारिन्#} {%<ab>a.</ab>%} curative.
+({%--<ab>m.</ab>%}) a physician.
 <LEND>

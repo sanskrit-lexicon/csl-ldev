@@ -1,18 +1,18 @@
 <L>13615<pc>0501-c<k1>छिद्<k2>छिद्
 {#छिद्#}¦ {c7c} <ab>U.</ab> ({#छिनत्ति, छिंत्ते, चिच्छेद#},
-<>{#अच्छिदत्, अच्छैत्सीत्, अच्छित्त, छेत्तुं, छिन्न#})
-<>{@1@} To cut, cut or lop off, hew, mow,
-<>tear, pierce, break asunder, rend,
-<>split, divide; {#नैनं छिंदंति शस्त्राणि#}  <lbinfo n="ls:Bg.+ 2. 23"/>
-<><ls>Bg. 2. 23</ls>; <ls>R. 12. 80</ls>; <ls>Ms. 4. 69</ls>, <ls n="Ms. 4.">70</ls>;  <lbinfo n="ls:9.+276"/>
-<><ls n="Ms.">9. 276</ls>; <ls>Y. 2. 302.</ls> {@--2@} To disturb, <lbinfo n="in+terrupt"/>
-<>interrupt (as sleep). {@--3@} To remove,
-<>drive off, destroy, quell, annihilate;
-<>{#तृष्णां छिंद्धि#} <ls>Bh. 2. 77</ls>; {#एतन्मे संशयं#}
-<>{#छिंद्धि मतिर्मे संप्रमुह्यति#} Mb; {#राघवो#} <lbinfo n="raTama#prAptAM"/>
-<>{#रथमप्राप्तां तामाशां च सुरद्विषां ।#} <lbinfo n="arDacaMdramuKErbA#REScicCeda"/>
-<>{#अर्धचंद्रमुखैर्बाणैश्चिच्छेद कदलीसुखं ॥#} <ls>R. 12. 96</ls>;  <lbinfo n="ls:Ku.+ 7. 16."/>
-<><ls>Ku. 7. 16.</ls> {@--4@} To take away, remove, <lbinfo n="de+prive"/>
-<>deprive of; {#न नः किंचिद् छिद्यते#} <ls>Ś. B.</ls> we
-<>do not lose anything [<ab>cf.</ab> <ab>L.</ab> {%scindo%}].
+{#अच्छिदत्, अच्छैत्सीत्, अच्छित्त, छेत्तुं, छिन्न#})
+{@1@} To cut, cut or lop off, hew, mow,
+tear, pierce, break asunder, rend,
+split, divide; {#नैनं छिंदंति शस्त्राणि#}  <lbinfo n="ls:Bg.+ 2. 23"/>
+<ls>Bg. 2. 23</ls>; <ls>R. 12. 80</ls>; <ls>Ms. 4. 69</ls>, <ls n="Ms. 4.">70</ls>;  <lbinfo n="ls:9.+276"/>
+<ls n="Ms.">9. 276</ls>; <ls>Y. 2. 302.</ls> {@--2@} To disturb, <lbinfo n="in+terrupt"/>
+interrupt (as sleep). {@--3@} To remove,
+drive off, destroy, quell, annihilate;
+{#तृष्णां छिंद्धि#} <ls>Bh. 2. 77</ls>; {#एतन्मे संशयं#}
+{#छिंद्धि मतिर्मे संप्रमुह्यति#} Mb; {#राघवो#} <lbinfo n="raTama#prAptAM"/>
+{#रथमप्राप्तां तामाशां च सुरद्विषां ।#} <lbinfo n="arDacaMdramuKErbA#REScicCeda"/>
+{#अर्धचंद्रमुखैर्बाणैश्चिच्छेद कदलीसुखं ॥#} <ls>R. 12. 96</ls>;  <lbinfo n="ls:Ku.+ 7. 16."/>
+<ls>Ku. 7. 16.</ls> {@--4@} To take away, remove, <lbinfo n="de+prive"/>
+deprive of; {#न नः किंचिद् छिद्यते#} <ls>Ś. B.</ls> we
+do not lose anything [<ab>cf.</ab> <ab>L.</ab> {%scindo%}].
 <LEND>

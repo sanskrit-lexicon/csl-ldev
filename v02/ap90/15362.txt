@@ -1,34 +1,34 @@
 <L>15362<pc>0563-b<k1>दायः<k2>दायः
 {#दायः#}¦ [{#दा भावे-घञ्#}] {@1@} A gift, <lbinfo n="pre+sent"/>
-<>present, donation; {#रहसि रमते प्रीत्या दायं#}
-<>{#ददात्यनुवर्तते#} <ls>Māl. 3. 2</ls>; {#प्रीतिदायः#}  <lbinfo n="ls:Māl.+4"/>
+present, donation; {#रहसि रमते प्रीत्या दायं#}
+{#ददात्यनुवर्तते#} <ls>Māl. 3. 2</ls>; {#प्रीतिदायः#}  <lbinfo n="ls:Māl.+4"/>
 <ls>Māl. 4</ls>; <ls>Ms. 8. 199.</ls> {@--2@} A nuptial present
-<>(given to the bride or the <lbinfo n="bride+groom"/>
-<>bridegroom). {@--3@} Share, portion, <lbinfo n="inheri+tance"/>
-<>inheritance, patrimony; {#अनपत्यस्य पुत्रस्य#}
-<>{#माता दायमवाप्तुयात्#} <ls>Ms. 9. 217</ls>, <ls n="Ms. 9.">77</ls>,
-<><ls n="Ms. 9.">164</ls>, <ls n="Ms. 9.">203.</ls> {@--4@} A part or share in <lbinfo n="ge+neral"/>
-<>general. {@--5@} Delivering, handing over.
-<>{@--6@} Dividing, distributing. {@--7@} Loss,
-<>destruction. {@--8@} Irony. {@--9@} Site,
-<>place. {@--10@} Alms given to a <lbinfo n="stu+dent"/>
-<>student at his initiation, &c. {@--Comp.@}
-<>{#--अपवर्तनं#} forfeiture of inheritance;
-<><ls>Ms. 9. 79.</ls> {#--अर्ह#} {%<ab>a.</ab>%} claiming <lbinfo n="in+heritance"/>
-<>inheritance. {#--आदः#} [{#दायमादत्ते, आदा-क#}]
-<>{1} one entitled to a share of <lbinfo n="patri+mony"/>
-<>patrimony, an heir; {#पुमान्दायादोऽदायादा#}
-<>{#स्त्री#} <ls>Nir.</ls>; <ls>Y. 2. 118</ls>; <ls>Ms. 8. 160.</ls>
-<>{2} a son. {3} a relative, kinsman
-<>near or remote, a distant <lbinfo n="descend+ant"/>
-<>descendant. {4} a claimant or pretender in
-<>general; {#गवां गोषु वा दायादः#} <ls>Sk.</ls>
-<>{#--आदा, --दी#} {1} an heiress. {2} a
-<>daughter. {#--आद्यं#} {1} inheritance. {2}
-<>the state of being an inheritor.  <lbinfo n="--kA#laH"/>
-<>{#--कालः#} the time of the partition of an
-<>inheritance. {#--बंधुः#} {1} a partner in
-<>the inheritance. {2} a brother. {#--भागः#}
-<>division of property among heirs,
-<>partition (of inheritance).
+(given to the bride or the <lbinfo n="bride+groom"/>
+bridegroom). {@--3@} Share, portion, <lbinfo n="inheri+tance"/>
+inheritance, patrimony; {#अनपत्यस्य पुत्रस्य#}
+{#माता दायमवाप्तुयात्#} <ls>Ms. 9. 217</ls>, <ls n="Ms. 9.">77</ls>,
+<ls n="Ms. 9.">164</ls>, <ls n="Ms. 9.">203.</ls> {@--4@} A part or share in <lbinfo n="ge+neral"/>
+general. {@--5@} Delivering, handing over.
+{@--6@} Dividing, distributing. {@--7@} Loss,
+destruction. {@--8@} Irony. {@--9@} Site,
+place. {@--10@} Alms given to a <lbinfo n="stu+dent"/>
+student at his initiation, &c. {@--Comp.@}
+{#--अपवर्तनं#} forfeiture of inheritance;
+<ls>Ms. 9. 79.</ls> {#--अर्ह#} {%<ab>a.</ab>%} claiming <lbinfo n="in+heritance"/>
+inheritance. {#--आदः#} [{#दायमादत्ते, आदा-क#}]
+{1} one entitled to a share of <lbinfo n="patri+mony"/>
+patrimony, an heir; {#पुमान्दायादोऽदायादा#}
+{#स्त्री#} <ls>Nir.</ls>; <ls>Y. 2. 118</ls>; <ls>Ms. 8. 160.</ls>
+{2} a son. {3} a relative, kinsman
+near or remote, a distant <lbinfo n="descend+ant"/>
+descendant. {4} a claimant or pretender in
+general; {#गवां गोषु वा दायादः#} <ls>Sk.</ls>
+{#--आदा, --दी#} {1} an heiress. {2} a
+daughter. {#--आद्यं#} {1} inheritance. {2}
+the state of being an inheritor.  <lbinfo n="--kA#laH"/>
+{#--कालः#} the time of the partition of an
+inheritance. {#--बंधुः#} {1} a partner in
+the inheritance. {2} a brother. {#--भागः#}
+division of property among heirs,
+partition (of inheritance).
 <LEND>

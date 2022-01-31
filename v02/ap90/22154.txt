@@ -1,16 +1,16 @@
 <L>22154<pc>0816-a<k1>भास्<k2>भास्
 {#भास्#}¦ {c1c} <ab>A.</ab> ({#भासते, भासित#}) {@1@} To
-<>shine, glitter, be bright;  <lbinfo n="tAvatkAma#nfpAtapatrasuzamaM"/>
-<>{#तावत्कामनृपातपत्रसुषमं बिंबं बभासे विधोः#}  <lbinfo n="ls:Bv. 2.+ 74"/>
-<><ls>Bv. 2. 74</ls>; <ls n="Bv.">4. 18</ls>; <ls>Ku. 6. 11</ls>;  <lbinfo n="ls:Bk. 10.+ 61."/>
-<><ls>Bk. 10. 61.</ls> {@--2@} To become clear or evident,
-<>come into the mind; {#त्वदंगमार्दवे दृष्टं#}
-<>{#कस्य चित्ते न भासते ।#} <lbinfo n="mAlatISaSaBflle#KAkadalInAM"/>
-<>{#मालतीशशभृल्लेखाकदलीनां कठोरता#} <ls>Chandr. 5. 42.</ls>
-<>{@--3@} To appear. {%--<ab>Caus.</ab>%} ({#भासयति-ते#})
-<>{@1@} To brighten, irradiate, illuminate;
-<> <lbinfo n="aDivasaMstanumaDvaradIkzitAmasamaBAsamaBAsa#yadISvaraH"/>
-<>{#अधिवसंस्तनुमध्वरदीक्षितामसमभासमभासयदीश्वरः#} <ls>R. 9. 21</ls>; <ls>Bg. 15. 6.</ls> {@--2@}
-<>To show, make clear or evident,
-<>manifest; <ls>Bk. 15. 42.</ls>
+shine, glitter, be bright;  <lbinfo n="tAvatkAma#nfpAtapatrasuzamaM"/>
+{#तावत्कामनृपातपत्रसुषमं बिंबं बभासे विधोः#}  <lbinfo n="ls:Bv. 2.+ 74"/>
+<ls>Bv. 2. 74</ls>; <ls n="Bv.">4. 18</ls>; <ls>Ku. 6. 11</ls>;  <lbinfo n="ls:Bk. 10.+ 61."/>
+<ls>Bk. 10. 61.</ls> {@--2@} To become clear or evident,
+come into the mind; {#त्वदंगमार्दवे दृष्टं#}
+{#कस्य चित्ते न भासते ।#} <lbinfo n="mAlatISaSaBflle#KAkadalInAM"/>
+{#मालतीशशभृल्लेखाकदलीनां कठोरता#} <ls>Chandr. 5. 42.</ls>
+{@--3@} To appear. {%--<ab>Caus.</ab>%} ({#भासयति-ते#})
+{@1@} To brighten, irradiate, illuminate;
+ <lbinfo n="aDivasaMstanumaDvaradIkzitAmasamaBAsamaBAsa#yadISvaraH"/>
+{#अधिवसंस्तनुमध्वरदीक्षितामसमभासमभासयदीश्वरः#} <ls>R. 9. 21</ls>; <ls>Bg. 15. 6.</ls> {@--2@}
+To show, make clear or evident,
+manifest; <ls>Bk. 15. 42.</ls>
 <LEND>

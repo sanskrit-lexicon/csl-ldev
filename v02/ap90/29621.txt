@@ -1,33 +1,33 @@
 <L>29621<pc>1102-b<k1>संपद्<k2>संपद्
 {#संपद्#}¦ {c4c} <ab>A.</ab> {@1@} To turn out well,
-<>succeed, prosper, be accomplished or
-<>fulfilled; {#संपत्स्यते वः कामोऽयं कालः#}
-<>{#काश्चित्प्रतीक्ष्यतां#} <ls>Ku. 2. 54</ls>;  <lbinfo n="ls:R. 14.+ 76"/>
-<><ls>R. 14. 76</ls>; <ls>Ms. 3. 254</ls>; <ls n="Ms.">6. 69.</ls> {@--2@} To be
-<>completed, to amount to (as a <lbinfo n="num+ber"/>
-<>number); {#त्र्याहताः पंच पंचदश संपद्यंते#}.
-<>{@--3@} To turn out to be, become;  <lbinfo n="saMpa#tsyaMte"/>
-<>{#संपत्स्यंते नभसि भवतो राजहंसाः सहायाः#}
-<><ls>Me. 11</ls>, <ls n="Me.">23</ls>; {#संपेदे श्रमसलिलोद्गमो#} <lbinfo n="vi#BUzA"/>
-<>{#विभूषा#} <ls>Ki. 7. 5.</ls> {@--4@} To arise, be born
-<>or produced. {@--5@} To fall or come <lbinfo n="to+gether"/>
-<>together, unite. {@--6@} To be provided or
-<>furnished with, be possessed of;
-<>{#अशोक यदि सद्य एव कुसुमैर्न संपत्स्यसे#}
-<><ls>M. 3. 16</ls>; see {#संपन्न#}. {@--7@} To tend
-<>to, bring about, produce (with <ab>dat.</ab>);
-<>{#साधोः शिक्षा गुणाय संपद्यते नासाधोः#}
-<><ls>Pt. 1</ls>; <ls>Mu. 3. 32.</ls> {@--8@} To obtain, <lbinfo n="at+tain"/>
-<>attain to, acquire, get. {@--9@} To enter <lbinfo n="in+to"/>
-<>into, be absorbed in (with <ab>loc.</ab>).
-<>{%--<ab>Caus.</ab>%} {@1@} To cause to happen,
-<>bring about, produce, accomplish,
-<>fulfil, effect; {#इति स्वसुर्भोजकुलप्रदीपः#}
-<>{#संपाद्य पाणिग्रहणं स राजा#} <ls>R. 7. 29.</ls>
-<>{@--2@} To procure, obtain, make ready,
-<>prepare. {@--3@} To obtain, acquire,
-<>attain to. {@--4@} To furnish, provide,
-<>endow with. {@--5@} To change or <lbinfo n="trans+form"/>
-<>transform into. {@--6@} To make an <lbinfo n="agree+ment"/>
-<>agreement.
+succeed, prosper, be accomplished or
+fulfilled; {#संपत्स्यते वः कामोऽयं कालः#}
+{#काश्चित्प्रतीक्ष्यतां#} <ls>Ku. 2. 54</ls>;  <lbinfo n="ls:R. 14.+ 76"/>
+<ls>R. 14. 76</ls>; <ls>Ms. 3. 254</ls>; <ls n="Ms.">6. 69.</ls> {@--2@} To be
+completed, to amount to (as a <lbinfo n="num+ber"/>
+number); {#त्र्याहताः पंच पंचदश संपद्यंते#}.
+{@--3@} To turn out to be, become;  <lbinfo n="saMpa#tsyaMte"/>
+{#संपत्स्यंते नभसि भवतो राजहंसाः सहायाः#}
+<ls>Me. 11</ls>, <ls n="Me.">23</ls>; {#संपेदे श्रमसलिलोद्गमो#} <lbinfo n="vi#BUzA"/>
+{#विभूषा#} <ls>Ki. 7. 5.</ls> {@--4@} To arise, be born
+or produced. {@--5@} To fall or come <lbinfo n="to+gether"/>
+together, unite. {@--6@} To be provided or
+furnished with, be possessed of;
+{#अशोक यदि सद्य एव कुसुमैर्न संपत्स्यसे#}
+<ls>M. 3. 16</ls>; see {#संपन्न#}. {@--7@} To tend
+to, bring about, produce (with <ab>dat.</ab>);
+{#साधोः शिक्षा गुणाय संपद्यते नासाधोः#}
+<ls>Pt. 1</ls>; <ls>Mu. 3. 32.</ls> {@--8@} To obtain, <lbinfo n="at+tain"/>
+attain to, acquire, get. {@--9@} To enter <lbinfo n="in+to"/>
+into, be absorbed in (with <ab>loc.</ab>).
+{%--<ab>Caus.</ab>%} {@1@} To cause to happen,
+bring about, produce, accomplish,
+fulfil, effect; {#इति स्वसुर्भोजकुलप्रदीपः#}
+{#संपाद्य पाणिग्रहणं स राजा#} <ls>R. 7. 29.</ls>
+{@--2@} To procure, obtain, make ready,
+prepare. {@--3@} To obtain, acquire,
+attain to. {@--4@} To furnish, provide,
+endow with. {@--5@} To change or <lbinfo n="trans+form"/>
+transform into. {@--6@} To make an <lbinfo n="agree+ment"/>
+agreement.
 <LEND>
