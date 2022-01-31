@@ -1,9 +1,9 @@
 <L>7255<pc>0461-a<k1>नवतितम<k2>नवतितम
 {#नवतितम#}¦ {%navati + tama,%} ordinal
-<div n="lb">number, Ninetieth, <ls>MBh.</ls> 1, <ab>adhy.</ab> 90.
-<div n="lb">{@ -- <ab>Comp.</ab>@} {%Eka-, dvi-, tri-, catur-, pañ-%}
-<div n="lb">{%can-, ṣaṣ-, saptan-, aṣṭan-,%} ninety-
-<div n="lb">first, second, third, fourth, etc., <ls>Rām.</ls>
-<div n="lb">2, <ab>adhy.</ab> 91 sqq. {%Navan-,%} ninety-ninth,
-<div n="lb">6, <ab>adhy.</ab> 99.
+number, Ninetieth, <ls>MBh.</ls> 1, <ab>adhy.</ab> 90.
+{@ -- <ab>Comp.</ab>@} {%Eka-, dvi-, tri-, catur-, pañ-%}
+{%can-, ṣaṣ-, saptan-, aṣṭan-,%} ninety-
+first, second, third, fourth, etc., <ls>Rām.</ls>
+2, <ab>adhy.</ab> 91 sqq. {%Navan-,%} ninety-ninth,
+6, <ab>adhy.</ab> 99.
 <LEND>

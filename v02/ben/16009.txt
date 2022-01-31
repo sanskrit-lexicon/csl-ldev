@@ -1,13 +1,13 @@
 <L>16009<pc>1034-b<k1>साध्वस<k2>साध्वस
 {#साध्वस#}¦ {%sādhvasa,%} probably {%sa-dhvaṃs%}
-<div n="lb">{%+ a + a,%} <ab>n.</ab> {@1.@} Fear, terror, <ls>Vikr.</ls> <ab>d.</ab> 56;
-<div n="lb"><ls>Mālav.</ls> 20, 9; 53, 21; <ls>Śāk.</ls> 12, 21. {@2.@}
-<div n="lb">Perturbation, <ls>Bhāg. P.</ls> 1, 11, 19. {@3.@}
-<div n="lb">Torpor, <ls>Utt. Rāmac.</ls> 80, 10. {@ -- <ab>Comp.</ab>@}
-<div n="lb">{%Ati-,%} <ab>m.</ab> too great fear, <ls>Hit.</ls> iii. <ab>d.</ab> 123.
-<div n="lb">{%Niḥsādhvasa,%} <ab>i. e.</ab> {%nis-,%} <ab>adj.</ab> 1. fearless,
-<div n="lb"><ls>Hariv.</ls> 8709. 2. bold, <ls>Rām.</ls> 1, 64, 16
-<div n="lb"><ls>Gorr.</ls> {%Sa-,%} <ab>adj.</ab>, <ab>f.</ab> {%sā,%} alarmed, fright-
-<div n="lb">ened, timid, <ls>Vikr.</ls> 28, 10. {%°sam,%} <ab>adv.</ab>, 28,
-<div n="lb">14.
+{%+ a + a,%} <ab>n.</ab> {@1.@} Fear, terror, <ls>Vikr.</ls> <ab>d.</ab> 56;
+<ls>Mālav.</ls> 20, 9; 53, 21; <ls>Śāk.</ls> 12, 21. {@2.@}
+Perturbation, <ls>Bhāg. P.</ls> 1, 11, 19. {@3.@}
+Torpor, <ls>Utt. Rāmac.</ls> 80, 10. {@ -- <ab>Comp.</ab>@}
+{%Ati-,%} <ab>m.</ab> too great fear, <ls>Hit.</ls> iii. <ab>d.</ab> 123.
+{%Niḥsādhvasa,%} <ab>i. e.</ab> {%nis-,%} <ab>adj.</ab> 1. fearless,
+<ls>Hariv.</ls> 8709. 2. bold, <ls>Rām.</ls> 1, 64, 16
+<ls>Gorr.</ls> {%Sa-,%} <ab>adj.</ab>, <ab>f.</ab> {%sā,%} alarmed, fright-
+ened, timid, <ls>Vikr.</ls> 28, 10. {%°sam,%} <ab>adv.</ab>, 28,
+14.
 <LEND>

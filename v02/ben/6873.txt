@@ -1,10 +1,10 @@
 <L>6873<pc>0426-b<k1>द्वि<k2>द्वि
 {#द्वि#}¦ {%dvi,%} the base of the declension is
-<div n="lb">{%dva,%} <ab>m.</ab> n; {%dvā,%} <ab>f.</ab>; <ab>du.</ab> numeral, {@1.@} Two.
-<div n="lb">{@2.@} Both, <ls>Rām.</ls> 6, 95, 44. -- <ab>Cf.</ab> <lang n="greek"></lang>
-<div n="lb">etc., <lang n="greek"></lang> <ab>Lat.</ab>
-<div n="lb">duo, bi-farius, dubius, duellum, bellum,
-<div n="lb">dis-; <ab>Goth.</ab> tvai; <ab>A.S.</ab> tvá, twi-,
-<div n="lb">tweogan; <ab>Goth.</ab> tveifljan, tvi-standan,
-<div n="lb">dis-dailjan.
+{%dva,%} <ab>m.</ab> n; {%dvā,%} <ab>f.</ab>; <ab>du.</ab> numeral, {@1.@} Two.
+{@2.@} Both, <ls>Rām.</ls> 6, 95, 44. -- <ab>Cf.</ab> <lang n="greek"></lang>
+etc., <lang n="greek"></lang> <ab>Lat.</ab>
+duo, bi-farius, dubius, duellum, bellum,
+dis-; <ab>Goth.</ab> tvai; <ab>A.S.</ab> tvá, twi-,
+tweogan; <ab>Goth.</ab> tveifljan, tvi-standan,
+dis-dailjan.
 <LEND>
