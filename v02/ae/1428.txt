@@ -1,12 +1,12 @@
 <L>1428<pc>048<k1>capable<k2>capable
 {@Capable,@}¦ {%a.%} {#समर्थ, शक्त, क्षम, योग्य, उचित;#}
-<div n="lb"/>gen. ex. by {#शक्य#} with inf., or pot.
-<div n="lb"/>pass. part.; ‘c. of being defeated’
-<div n="lb"/>{#पराजेतुं शक्यः, पराजेतव्यः,#} ‘Rāma is not
-<div n="lb"/>c. of such atrocity’ {#नेदृशं नृशंसचरितं#}
-<div n="lb"/>{#रामेण कर्तुं शक्यते, रामे संभाव्यते;#} ‘c.
-<div n="lb"/>person’ {#पात्रं, गुणवत्#}. ‘to be c.’ {#शक्#}
-<div n="lb"/>5 P, {#उत्सह्#} 1 A, {#कॢप्#} 1 A (with dat.).
-<div n="lb"/>{@-Capablity,@} {%s.%} {#सामर्थ्यं, शक्ति#} {%f.,%} {#पात्रता,#}
-<div n="lb"/>{#योग्यता#}.
+gen. ex. by {#शक्य#} with inf., or pot.
+pass. part.; ‘c. of being defeated’
+{#पराजेतुं शक्यः, पराजेतव्यः,#} ‘Rāma is not
+c. of such atrocity’ {#नेदृशं नृशंसचरितं#}
+{#रामेण कर्तुं शक्यते, रामे संभाव्यते;#} ‘c.
+person’ {#पात्रं, गुणवत्#}. ‘to be c.’ {#शक्#}
+5 P, {#उत्सह्#} 1 A, {#कॢप्#} 1 A (with dat.).
+{@-Capablity,@} {%s.%} {#सामर्थ्यं, शक्ति#} {%f.,%} {#पात्रता,#}
+{#योग्यता#}.
 <LEND>

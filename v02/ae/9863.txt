@@ -1,4 +1,4 @@
 <L>9863<pc>446<k1>steed<k2>steed
 {@Steed,@}¦ {%s.%} {#अश्वः, तुरगः, वाजिन्#} {%m.; See%}
-<div n="lb"/>{@Horse.@}
+{@Horse.@}
 <LEND>

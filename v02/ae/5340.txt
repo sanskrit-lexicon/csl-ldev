@@ -1,6 +1,6 @@
 <L>5340<pc>222<k1>inconstant<k2>inconstant
 {@Inconstant,@}¦ {%a.%} {#अस्थिर, अदृढ; चल, चंचल;#}
-<div n="lb"/>{#तरल, लोलमति, चलचित्त#}. {@-Inconstancy,@}
-<div n="lb"/>{%s.%} {#अस्थैर्यं, तरलता, चंचलत्वं;#} {%See%} {@Fickle.@}
-<div n="lb"/>{@-ness.@}
+{#तरल, लोलमति, चलचित्त#}. {@-Inconstancy,@}
+{%s.%} {#अस्थैर्यं, तरलता, चंचलत्वं;#} {%See%} {@Fickle.@}
+{@-ness.@}
 <LEND>

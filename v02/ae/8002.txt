@@ -1,7 +1,7 @@
 <L>8002<pc>345<k1>planet<k2>planet
 {@Planet,@}¦ {%s.%} {#ग्रहः, ज्योतिस्#} {%n.;%} ‘minor p.’
-<div n="lb"/>{#उपग्रहः;#} ‘passage of a p.’ {#संक्रमः,#}
-<div n="lb"/>{#संक्रांति#} {%f.;%} ‘aspect of a p.’ {#ग्रहदशा;#}
-<div n="lb"/>‘influence of a p.’ {#ग्रहावेशः#}. {@-ary,@} {%a.%}
-<div n="lb"/>{#ग्रह#} in comp.
+{#उपग्रहः;#} ‘passage of a p.’ {#संक्रमः,#}
+{#संक्रांति#} {%f.;%} ‘aspect of a p.’ {#ग्रहदशा;#}
+‘influence of a p.’ {#ग्रहावेशः#}. {@-ary,@} {%a.%}
+{#ग्रह#} in comp.
 <LEND>

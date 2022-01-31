@@ -1,7 +1,7 @@
 <L>5046<pc>210<k1>hundred<k2>hundred
 {@Hundred,@}¦ {%a.%} {#शतं; शतसंख्यक;#} ‘by h. s’
-<div n="lb"/>{#शतशः;#} ‘in h. ways’ {#शतधा;#} ‘h.-fold’
-<div n="lb"/>{#शतगुण#} {%a.;%} ‘the life of man extends
-<div n="lb"/>to h. years’ {#शतायुर्वै पुरुषः#}. {%-s.%} {#शतं#}.
-<div n="lb"/>{@-th,@} {%s.%} {#शततम (मी#} {%f.%}).
+{#शतशः;#} ‘in h. ways’ {#शतधा;#} ‘h.-fold’
+{#शतगुण#} {%a.;%} ‘the life of man extends
+to h. years’ {#शतायुर्वै पुरुषः#}. {%-s.%} {#शतं#}.
+{@-th,@} {%s.%} {#शततम (मी#} {%f.%}).
 <LEND>

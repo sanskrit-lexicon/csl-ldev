@@ -1,5 +1,5 @@
 <L>1763<pc>058<k1>circumrotation<k2>circumrotation
 {@Circumrotation,@}¦ {%s.%} {#चक्रावर्तः, परिवर्तः,#}
-<div n="lb"/>{#आवृत्ति#} {%f.%} {@-Circumrotatory,@} {%a.%} {#आवर्त-#}
-<div n="lb"/>{#-मान, परिवर्तिन्#}.
+{#आवृत्ति#} {%f.%} {@-Circumrotatory,@} {%a.%} {#आवर्त-#}
+{#-मान, परिवर्तिन्#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>7722<pc>334<k1>patronymic<k2>patronymic
 {@Patronymic,@}¦ {%s.%} {#पैतृकनामन्#} {%n.,%} {#गोत्रनाम,#}
-<div n="lb"/>{#अपत्यवाचकः;#} ‘chapter treating of
-<div n="lb"/>Taddhita p. terminations’ {#तद्धिताप-#}
-<div n="lb"/>{#-त्याधिकारप्रकरणं#}.
+{#अपत्यवाचकः;#} ‘chapter treating of
+Taddhita p. terminations’ {#तद्धिताप-#}
+{#-त्याधिकारप्रकरणं#}.
 <LEND>

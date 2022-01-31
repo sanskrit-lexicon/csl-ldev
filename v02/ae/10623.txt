@@ -1,7 +1,7 @@
 <L>10623<pc>476<k1>truce<k2>truce
 {@Truce,@}¦ {%s.%} {#युद्धविश्रामः, युद्धनिवृत्ति#} {%f.,%} {#अव-#}
-<div n="lb"/>{#-हारः;#} ‘t. to’ ex. by {#विरम्#} 1 P, {#अलं#}
-<div n="lb"/>(with instr.); ‘t. to your jest’ {#अलं परि-#}
-<div n="lb"/>{#-हासेन#} ‘t. to your impadence’ {#विरमाति-#}
-<div n="lb"/>{#-प्रसंगात्#} (U 5).
+{#-हारः;#} ‘t. to’ ex. by {#विरम्#} 1 P, {#अलं#}
+(with instr.); ‘t. to your jest’ {#अलं परि-#}
+{#-हासेन#} ‘t. to your impadence’ {#विरमाति-#}
+{#-प्रसंगात्#} (U 5).
 <LEND>

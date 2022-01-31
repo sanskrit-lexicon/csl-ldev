@@ -1,5 +1,5 @@
 <L>4435<pc>179<k1>gastronome<k2>gastronome
 {@Gastronome,@}¦ {%s.%} {#औदरिकः, उदरंभरिः, कुक्षिं-#}
-<div n="lb"/>{#-भरिः, उदरपरायणः;#} {%See%} {@Glutton, -Gas-@}
-<div n="lb"/>{@-tronomy,@} {%s.%} {#उदरपरायणता, उदरसेवा#}.
+{#-भरिः, उदरपरायणः;#} {%See%} {@Glutton, -Gas-@}
+{@-tronomy,@} {%s.%} {#उदरपरायणता, उदरसेवा#}.
 <LEND>

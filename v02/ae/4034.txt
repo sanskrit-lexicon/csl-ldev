@@ -1,7 +1,7 @@
 <L>4034<pc>161<k1>finance<k2>finance
 {@Finance,@}¦ {@-s,@} {%s.%} {#आयः, करः, बलिः, धनागमः,#}
-<div n="lb"/>{#शुल्कं, राजस्वं;#} ‘his financial condition
-<div n="lb"/>is prosperous’; {#परिस्फीतं तस्य कोशजातं#}.
-<div n="lb"/>{@-Financier,@} {%s.%} {#कोशाध्यक्षः, धनाधिका-#}
-<div n="lb"/>{#-रिन्#} {%m.%}
+{#शुल्कं, राजस्वं;#} ‘his financial condition
+is prosperous’; {#परिस्फीतं तस्य कोशजातं#}.
+{@-Financier,@} {%s.%} {#कोशाध्यक्षः, धनाधिका-#}
+{#-रिन्#} {%m.%}
 <LEND>

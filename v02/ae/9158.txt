@@ -1,4 +1,4 @@
 <L>9158<pc>408<k1>savant<k2>savant
 {@Savant,@}¦ {%s.%} {#बुधजनः, पंडितः, विद्वज्जनः;#} {%See%}
-<div n="lb"/>{@Learned.@}
+{@Learned.@}
 <LEND>

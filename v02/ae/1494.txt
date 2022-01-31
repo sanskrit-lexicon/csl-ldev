@@ -1,4 +1,4 @@
 <L>1494<pc>050<k1>cartilage<k2>cartilage
 {@Cartilage,@}¦ {%s.%} {#कोमलास्थि#} {%n.%} {@-Cartila-@}
-<div n="lb"/>{@-ginous,@} {%a.%} {#तरुणास्थिविशिष्ट#}.
+{@-ginous,@} {%a.%} {#तरुणास्थिविशिष्ट#}.
 <LEND>

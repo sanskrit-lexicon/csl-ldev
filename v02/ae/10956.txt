@@ -1,4 +1,4 @@
 <L>10956<pc>485<k1>vassal<k2>vassal
 {@Vassal,@}¦ {%s.%} {#प्रजा, वशवर्तिन्#} {%m.,%} {#आयत्तः, पर-#}
-<div n="lb"/>{#-तंत्रः;#} {%See%} {@Dependent.@}
+{#-तंत्रः;#} {%See%} {@Dependent.@}
 <LEND>

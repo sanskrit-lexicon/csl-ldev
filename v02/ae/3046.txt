@@ -1,4 +1,4 @@
 <L>3046<pc>114<k1>dispensary<k2>dispensary
 {@Dispensary,@}¦ {%s.%} {#औषधशाला, रोगचिकित्सा-#}
-<div n="lb"/>{#-स्थानं#}.
+{#-स्थानं#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>10374<pc>468<k1>thousand<k2>thousand
 {@Thousand,@}¦ {%a., s.%} {#सहस्रं, दशशतं;#} ‘t. s of
-<div n="lb"/>times’ {#सहस्रशः-वारं;#} ‘in a t. ways
-<div n="lb"/>or parts’ {#सहस्रधा;#} ‘ten t.’ {#अयुतं;#}
-<div n="lb"/>‘hundred t.’ {#लक्षं;#} ‘by t. s.’ {#सहस्रशः#}.
-<div n="lb"/>{@-th,@} {%a.%} {#सहस्रतप्त#} ({#मी#} {%f.%}).
+times’ {#सहस्रशः-वारं;#} ‘in a t. ways
+or parts’ {#सहस्रधा;#} ‘ten t.’ {#अयुतं;#}
+‘hundred t.’ {#लक्षं;#} ‘by t. s.’ {#सहस्रशः#}.
+{@-th,@} {%a.%} {#सहस्रतप्त#} ({#मी#} {%f.%}).
 <LEND>

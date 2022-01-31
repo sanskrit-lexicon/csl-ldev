@@ -1,5 +1,5 @@
 <L>1953<pc>065<k1>columbarium<k2>columbarium
 {@Columbarium, Columbary,@}¦ {%s.%} {#कपोतागारं,#}
-<div n="lb"/>{#विटंकः#} {@-Columbine,@} {%a.%} {#कपोतसदृश, क-#}
-<div n="lb"/>{#-पोतीय#}.
+{#विटंकः#} {@-Columbine,@} {%a.%} {#कपोतसदृश, क-#}
+{#-पोतीय#}.
 <LEND>

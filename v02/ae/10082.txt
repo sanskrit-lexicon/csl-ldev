@@ -1,4 +1,4 @@
 <L>10082<pc>457<k1>superstructure<k2>superstructure
 {@Superstructure,@}¦ {%s.%} {#भवनं, मंदिरं;#} {%See%}
-<div n="lb"/>{@Building.@}
+{@Building.@}
 <LEND>

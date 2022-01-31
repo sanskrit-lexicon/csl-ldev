@@ -1,6 +1,6 @@
 <L>2004<pc>068<k1>compatible<k2>compatible
 {@Compatible,@}¦ {%a.%} {#अनुगुण, अनुरूप, अविरुद्ध,#}
-<div n="lb"/>{#उपयुक्त;#} {%See%} {@Consistent. -Compati-@}
-<div n="lb"/>{@-bility,@} {%s.%} {#अविरोधः, योग्यता, अनुरूपता,#}
-<div n="lb"/>{#अविसंवादः#}.
+{#उपयुक्त;#} {%See%} {@Consistent. -Compati-@}
+{@-bility,@} {%s.%} {#अविरोधः, योग्यता, अनुरूपता,#}
+{#अविसंवादः#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>10741<pc>480<k1>uncommon<k2>uncommon
 {@Uncommon,@}¦ {%a.%} {#असामान्य, अपूर्व, अ#}
-<div n="lb"/>{#लौकिक#} ({#की#} {%f.%}). {@-ly,@} {%adv.%} {#अपूर्वं;#} {%See%}
-<div n="lb"/>{@Exceedingly.@}
+{#लौकिक#} ({#की#} {%f.%}). {@-ly,@} {%adv.%} {#अपूर्वं;#} {%See%}
+{@Exceedingly.@}
 <LEND>

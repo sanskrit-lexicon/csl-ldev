@@ -1,12 +1,12 @@
 <L>195<pc>009<k1>against<k2>against
 {@Against,@}¦ {%prep.%} {#प्रति-आभि#} pr. to nouns;
-<div n="lb"/>{#प्रतिवातं#} ‘a. the wind’ &c. {@2@} {#अभिमुखं,#}
-<div n="lb"/>{#प्रतिमुखं, संमुखं,#} in comp. or with gen. {@3@}
-<div n="lb"/>{#विरुद्धं, प्रतिकूलं,#} or by {#अतिक्रम्य;#} ‘a. my
-<div n="lb"/>order’ {#मम शासनस्य विरुद्धं, शासनमति-#}
-<div n="lb"/>{#-क्रम्य-उल्लंघ्य;#} ‘assist him a. his bro-
-<div n="lb"/>-ther’ {#भ्रातरि बद्धवैरस्य तस्य साहाय्यं कुरु#}.
-<div n="lb"/>{@4@} {#अर्थे, अर्थं; आपदर्थे धनं रक्षेत्#} ‘should
-<div n="lb"/>lay by wealth a. (as a provision for)
-<div n="lb"/>calamities.’
+{#प्रतिवातं#} ‘a. the wind’ &c. {@2@} {#अभिमुखं,#}
+{#प्रतिमुखं, संमुखं,#} in comp. or with gen. {@3@}
+{#विरुद्धं, प्रतिकूलं,#} or by {#अतिक्रम्य;#} ‘a. my
+order’ {#मम शासनस्य विरुद्धं, शासनमति-#}
+{#-क्रम्य-उल्लंघ्य;#} ‘assist him a. his bro-
+-ther’ {#भ्रातरि बद्धवैरस्य तस्य साहाय्यं कुरु#}.
+{@4@} {#अर्थे, अर्थं; आपदर्थे धनं रक्षेत्#} ‘should
+lay by wealth a. (as a provision for)
+calamities.’
 <LEND>

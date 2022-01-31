@@ -1,6 +1,6 @@
 <L>9096<pc>406<k1>saliva<k2>saliva
 {@Saliva,@}¦ {%s.%} {#लाला, सृणि (णी) का, स्यंदिनी;#}
-<div n="lb"/>‘his mouth emits c.’ {#वक्त्रं लालायते#}.
-<div n="lb"/>{@-Salivary, -Salival,@} {%a.%} {#लालास्राविन्#}.
-<div n="lb"/>{@-Salivate,@} {%v. t.%} {#लालां स्रु#} c. or {#निःसृ#} c.
+‘his mouth emits c.’ {#वक्त्रं लालायते#}.
+{@-Salivary, -Salival,@} {%a.%} {#लालास्राविन्#}.
+{@-Salivate,@} {%v. t.%} {#लालां स्रु#} c. or {#निःसृ#} c.
 <LEND>

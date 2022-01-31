@@ -1,5 +1,5 @@
 <L>8200<pc>355<k1>precipice<k2>precipice
 {@Precipice,@}¦ {%s.%} {#प्रपातः, भृगुः, अतटः#}.
-<div n="lb"/>{@-Precipitous,@} {%a.%} {#पातुक, विषम, प्रवण,#}
-<div n="lb"/>{#अवसर्पिन्#}. {@2 Rash,@} q. v.
+{@-Precipitous,@} {%a.%} {#पातुक, विषम, प्रवण,#}
+{#अवसर्पिन्#}. {@2 Rash,@} q. v.
 <LEND>

@@ -1,7 +1,7 @@
 <L>8424<pc>368<k1>puberty<k2>puberty
 {@Puberty,@}¦ {%s.%} {#यौवनं, वयस्#} {%n.,%} {#तारुण्यं, यौ-#}
-<div n="lb"/>{#-वनदशा-अवस्था, प्रौढदशा;#} ‘a woman
-<div n="lb"/>attained to p.’ {#स्त्रीधर्मिणी, उदक्या;#} {%See%}
-<div n="lb"/>under {@Menstrual. -Pubescent,@} {%a.%}
-<div n="lb"/>{#प्राप्तयौवन, प्रौढ, तरुण#}.
+{#-वनदशा-अवस्था, प्रौढदशा;#} ‘a woman
+attained to p.’ {#स्त्रीधर्मिणी, उदक्या;#} {%See%}
+under {@Menstrual. -Pubescent,@} {%a.%}
+{#प्राप्तयौवन, प्रौढ, तरुण#}.
 <LEND>

@@ -1,4 +1,4 @@
 <L>4818<pc>198<k1>hauteur<k2>hauteur
 {@Hauteur,@}¦ {%s.%} {#दर्पः, गर्वः, आटोपः,#} {%See%}
-<div n="lb"/>{@Haughtiness.@}
+{@Haughtiness.@}
 <LEND>

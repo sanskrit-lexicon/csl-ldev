@@ -1,7 +1,7 @@
 <L>3626<pc>139<k1>equinox<k2>equinox
 {@Equinox,@}¦ {%s.%} {#विषुवं, विषुवत्#} {%n.;%} ‘the
-<div n="lb"/>vernal e.’ {#महाविषुवं, हरिपदं;#} ‘the
-<div n="lb"/>autumnal e.’ {#विषुपदं, जलविषुवं;#}
-<div n="lb"/>{@-Equinoctial,@} {%a.%} {#विषुवीय;#} ‘e. line’
-<div n="lb"/>{#विषुवद्वृत्तं, विषुमंडलं;#} ‘e. point’ {#अयनं#}.
+vernal e.’ {#महाविषुवं, हरिपदं;#} ‘the
+autumnal e.’ {#विषुपदं, जलविषुवं;#}
+{@-Equinoctial,@} {%a.%} {#विषुवीय;#} ‘e. line’
+{#विषुवद्वृत्तं, विषुमंडलं;#} ‘e. point’ {#अयनं#}.
 <LEND>

@@ -1,4 +1,4 @@
 <L>5879<pc>244<k1>jolthead<k2>jolthead
 {@Jolthead,@}¦ {%s.%} {#स्थूलबुद्धिः, मूर्खः, मूढः;#} {%See%}
-<div n="lb"/>{@Fool.@}
+{@Fool.@}
 <LEND>

@@ -1,4 +1,4 @@
 <L>6421<pc>275<k1>malady<k2>malady
 {@Malady,@}¦ {%s.%} {#रोगः, व्याधिः, आमयः, विकारः,#}
-<div n="lb"/>{#रुजा, गदः;#} {%See%} {@Disease.@}
+{#रुजा, गदः;#} {%See%} {@Disease.@}
 <LEND>

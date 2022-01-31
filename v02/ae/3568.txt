@@ -1,9 +1,9 @@
 <L>3568<pc>138<k1>entitle<k2>entitle
 {@Entitle,@}¦ {%v. i.%} {#नाम कृ#} 8 U, {#अभिधा#} 3 U;
-<div n="lb"/>{%See%} {@Call 2@} {#अधिकारं दा#} 3 P; {#अधिकृ#} 8 U;
-<div n="lb"/>ex. by {#अर्ह्#} 1 P, or pot. pass. part.;
-<div n="lb"/>‘he is e. ed te respect’ {#मानमर्हति, मान्यः,#}
-<div n="lb"/>{#पूज्यः;#} ‘persons e. -ed to a share’ {#अंशा-#}
-<div n="lb"/>{#-धिकारिणः, अंशभाजः, अंशार्हाः;#} ‘e. ed to
-<div n="lb"/>praise’ {#प्रशंसार्ह, प्रशंसापात्रं#}.
+{%See%} {@Call 2@} {#अधिकारं दा#} 3 P; {#अधिकृ#} 8 U;
+ex. by {#अर्ह्#} 1 P, or pot. pass. part.;
+‘he is e. ed te respect’ {#मानमर्हति, मान्यः,#}
+{#पूज्यः;#} ‘persons e. -ed to a share’ {#अंशा-#}
+{#-धिकारिणः, अंशभाजः, अंशार्हाः;#} ‘e. ed to
+praise’ {#प्रशंसार्ह, प्रशंसापात्रं#}.
 <LEND>

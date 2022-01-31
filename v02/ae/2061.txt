@@ -1,4 +1,4 @@
 <L>2061<pc>071<k1>concrement<k2>concrement
 {@Concrement,@}¦ {%s.%} {#पिंडः, राशिः, घनता, संहति#}
-<div n="lb"/>{%f.,%} {#संघातः#}.
+{%f.,%} {#संघातः#}.
 <LEND>

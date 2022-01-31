@@ -1,5 +1,5 @@
 <L>7793<pc>337<k1>pennant<k2>pennant
 {@Pennant, Pennon,@}¦ {%s.%} {#ध्वजः, पताका, केतु-#}
-<div n="lb"/>{#-वसनं;#} {%See%} {@Banner, -Pennate,@} {%a.%}
-<div n="lb"/>{#सपक्ष, पक्षयुक्त#}.
+{#-वसनं;#} {%See%} {@Banner, -Pennate,@} {%a.%}
+{#सपक्ष, पक्षयुक्त#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>1511<pc>051<k1>castle<k2>castle
 {@Castle,@}¦ {%s.%} {#दुर्गं, कोटः,#} ‘c. in the air (in
-<div n="lb"/>Spain), {#मनोराज्यं#}. {@-Castellan,@} {%s.%} {#दुर्गा-#}
-<div n="lb"/>{#-धिपतिः#} {@-Castellated,@} {%a.%} {#दुर्गाकार#}.
+Spain), {#मनोराज्यं#}. {@-Castellan,@} {%s.%} {#दुर्गा-#}
+{#-धिपतिः#} {@-Castellated,@} {%a.%} {#दुर्गाकार#}.
 <LEND>

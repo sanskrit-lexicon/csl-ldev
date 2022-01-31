@@ -1,5 +1,5 @@
 <L>8438<pc>369<k1>puissant<k2>puissant
 {@Puissant,@}¦ {%a.%} {#शूर, विक्रांत, वीर्यवत्, प्रबल#}.
-<div n="lb"/>{@-Puissance,@} {%s.%} {#शौर्यं, वि-परा-क्रमः, वीर्य;#}
-<div n="lb"/>{%See%} {@Bravery.@}
+{@-Puissance,@} {%s.%} {#शौर्यं, वि-परा-क्रमः, वीर्य;#}
+{%See%} {@Bravery.@}
 <LEND>

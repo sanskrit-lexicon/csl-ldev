@@ -1,4 +1,4 @@
 <L>7663<pc>331<k1>parliament<k2>parliament
 {@Parliament,@}¦ {%s.%} {#विचार-मंत्रण-सभा, प्रतिनिधि-#}
-<div n="lb"/>{#-सभा#}.
+{#-सभा#}.
 <LEND>

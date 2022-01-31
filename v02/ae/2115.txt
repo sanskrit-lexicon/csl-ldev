@@ -1,10 +1,10 @@
 <L>2115<pc>074<k1>congruous<k2>congruous
 {@Congruous,@}¦ {%a.%} {#योग्य, उचित, संगत, अविरुद्ध,#}
-<div n="lb"/>{#अनुगुण, अनुरूप, सदृश#} ({#शी#} {%f.%}), {#संबद्ध#}.
-<div n="lb"/>{@-ly,@} {%adv.%} {#युक्तं, अनुरूपं, संगतं#}. {@-Congruity,@}
-<div n="lb"/>{@Congruence,@} {%s.%} {#संगतता, अनुरूपता, यु-#}
-<div n="lb"/>{#-क्तता, सादृश्यं;#} oft. ex. by {#क्व-क्व;#} ‘what
-<div n="lb"/>c. is there between this (youthful),
-<div n="lb"/>age and this restraint of passions’
-<div n="lb"/>{#क्वेदं वयः क्वेयमिंद्रियाणामुपशांतिः#} (Ka. 135)
+{#अनुगुण, अनुरूप, सदृश#} ({#शी#} {%f.%}), {#संबद्ध#}.
+{@-ly,@} {%adv.%} {#युक्तं, अनुरूपं, संगतं#}. {@-Congruity,@}
+{@Congruence,@} {%s.%} {#संगतता, अनुरूपता, यु-#}
+{#-क्तता, सादृश्यं;#} oft. ex. by {#क्व-क्व;#} ‘what
+c. is there between this (youthful),
+age and this restraint of passions’
+{#क्वेदं वयः क्वेयमिंद्रियाणामुपशांतिः#} (Ka. 135)
 <LEND>

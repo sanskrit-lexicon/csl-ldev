@@ -1,4 +1,4 @@
 <L>8013<pc>345<k1>plateau<k2>plateau
 {@Plateau,@}¦ {%s.%} {#समस्थली, अधित्यका;#} {%See%}
-<div n="lb"/>{@Level.@}
+{@Level.@}
 <LEND>

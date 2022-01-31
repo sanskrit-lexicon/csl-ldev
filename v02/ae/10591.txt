@@ -1,4 +1,4 @@
 <L>10591<pc>476<k1>trinket<k2>trinket
 {@Trinket,@}¦ {%s.%} {#कंकणः-णं; अलंकारः;#} {%See%}
-<div n="lb"/>{@Ornament.@}
+{@Ornament.@}
 <LEND>

@@ -1,4 +1,4 @@
 <L>8698<pc>382<k1>rectangle<k2>rectangle
 {@Rectangle,@}¦ {%s.%} {#समकोणः, समचतुरस्रं#}. {@-Rec-@}
-<div n="lb"/>{@-tangular,@} {%a.%} {#समकोण, समचतुरस्र#}.
+{@-tangular,@} {%a.%} {#समकोण, समचतुरस्र#}.
 <LEND>

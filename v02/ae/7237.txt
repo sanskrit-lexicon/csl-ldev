@@ -1,5 +1,5 @@
 <L>7237<pc>313<k1>obloquy<k2>obloquy
 {@Obloquy,@}¦ {%s.%} {#निंदा, परि#} ({#री#}) {#वादः, अपवादः;#}
-<div n="lb"/>{#वाच्यता, भर्त्सना, गर्हा;#} {%See%} {@Censure,@}
-<div n="lb"/>{@Calumny.@}
+{#वाच्यता, भर्त्सना, गर्हा;#} {%See%} {@Censure,@}
+{@Calumny.@}
 <LEND>

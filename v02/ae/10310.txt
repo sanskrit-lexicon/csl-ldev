@@ -1,4 +1,4 @@
 <L>10310<pc>465<k1>territory<k2>territory
 {@Territory,@}¦ {%s.%} {#प्र-, देशः, राष्ट्रं, राज्यं, भूमि#} {%f.%}
-<div n="lb"/>{@-ial,@} {%a.%} {#राष्ट्रीय;#} by ({%s.%}) in comp.
+{@-ial,@} {%a.%} {#राष्ट्रीय;#} by ({%s.%}) in comp.
 <LEND>

@@ -1,17 +1,17 @@
 <L>10468<pc>471<k1>tooth<k2>tooth
 {@Tooth,@}¦ {%s.%} {#दंतः, दशनः, रदः, रदनः, दंशः#}.
-<div n="lb"/>{#दंष्ट्रा, द्विजः, जंभः;#} ‘two middle fore-
-<div n="lb"/>-teeth’ {#राजदंतौ;#} ‘double teeth’ {#माढि-#}
-<div n="lb"/>{%f.%} {@2@} (Of a saw) {#दंतः;#} ‘t.-picker’ {#दं-#}
-<div n="lb"/>{#-तस्य निष्कोषणं, दंतोल्लेखनी; शोधनी, निर्घ-#}
-<div n="lb"/>{#-र्षणकं;#} ‘t.-powder’ {#दंतशोधन चूर्णं, दंत#}
-<div n="lb"/>{#पवनं;#} ‘t.-brush’ {#दंतपवनं, -कूर्चकं;#} ‘hav-
-<div n="lb"/>-ing good teeth’ {#सुदत्;#} ‘in the teeth
-<div n="lb"/>of’ {#अनादृत्य#} (with acc.) or by abs.
-<div n="lb"/>constr.; {%See%} ‘In spite of’ under
-<div n="lb"/>{@Spite,@} ‘in the teeth of the Vedas’ {#वेदेषु#}
-<div n="lb"/>{#जागरूकेषु सत्सु आप#}. {@-ed,@} {%a.%} {#दंत, दत्#} in
-<div n="lb"/>comp. {@-less,@} {%a.%} {#दंतहीन, गलितदंत, निर्दंत-#}
-<div n="lb"/>{#-नीरद, भग्न-उद्धृत-दंष्ट्र#}. {@-some,@} {%a.%} {#स्वादु,#}
-<div n="lb"/>{@-Teething,@} {%s.%} {#दंतोद्भेदः, दंतोद्गमः#}.
+{#दंष्ट्रा, द्विजः, जंभः;#} ‘two middle fore-
+-teeth’ {#राजदंतौ;#} ‘double teeth’ {#माढि-#}
+{%f.%} {@2@} (Of a saw) {#दंतः;#} ‘t.-picker’ {#दं-#}
+{#-तस्य निष्कोषणं, दंतोल्लेखनी; शोधनी, निर्घ-#}
+{#-र्षणकं;#} ‘t.-powder’ {#दंतशोधन चूर्णं, दंत#}
+{#पवनं;#} ‘t.-brush’ {#दंतपवनं, -कूर्चकं;#} ‘hav-
+-ing good teeth’ {#सुदत्;#} ‘in the teeth
+of’ {#अनादृत्य#} (with acc.) or by abs.
+constr.; {%See%} ‘In spite of’ under
+{@Spite,@} ‘in the teeth of the Vedas’ {#वेदेषु#}
+{#जागरूकेषु सत्सु आप#}. {@-ed,@} {%a.%} {#दंत, दत्#} in
+comp. {@-less,@} {%a.%} {#दंतहीन, गलितदंत, निर्दंत-#}
+{#-नीरद, भग्न-उद्धृत-दंष्ट्र#}. {@-some,@} {%a.%} {#स्वादु,#}
+{@-Teething,@} {%s.%} {#दंतोद्भेदः, दंतोद्गमः#}.
 <LEND>

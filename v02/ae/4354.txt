@@ -1,5 +1,5 @@
 <L>4354<pc>177<k1>furnace<k2>furnace
 {@Furnace,@}¦ {%s.%} {#अग्निकुंडं, अधिश्रयणी, अंति#}
-<div n="lb"/>({#दि#}) {#का, उध्मानं;#} ‘a portable f.’ {%See%}
-<div n="lb"/>{@Hearth.@}
+({#दि#}) {#का, उध्मानं;#} ‘a portable f.’ {%See%}
+{@Hearth.@}
 <LEND>

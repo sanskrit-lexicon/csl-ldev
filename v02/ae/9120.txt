@@ -1,6 +1,6 @@
 <L>9120<pc>407<k1>sanders<k2>sanders
 {@Sanders,@}¦ {%s.%} (Yellow) {#पीतद्रुमः, काली#}-
-<div n="lb"/>-{#(ले) यकः, हरिद्रुः, दार्वी, पचंपचा, दारुह-#}
-<div n="lb"/>{#-रिद्रा, पर्जनी#}. {@2@} (Red) {%See%} ‘red sandal’
-<div n="lb"/>under {@Sandal.@}
+-{#(ले) यकः, हरिद्रुः, दार्वी, पचंपचा, दारुह-#}
+{#-रिद्रा, पर्जनी#}. {@2@} (Red) {%See%} ‘red sandal’
+under {@Sandal.@}
 <LEND>

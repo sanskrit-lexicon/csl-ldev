@@ -1,13 +1,13 @@
 <L>1<pc>001<k1>a<k2>a
 {@A, An@}¦ (As an article) not ex.; ‘a man’
-<div n="lb"/>{#नरः#}. {@2@} (One) {#एक#}. {@3@} (Indefinite) {#किं#}
-<div n="lb"/>with {#चित्, चन#} or {#अपि#}. {@4@} With part.,
-<div n="lb"/>ex. by dat. or inf.; ‘set out a hunting’
-<div n="lb"/>{#मृगयायै#} or {#मृगयां कर्तुं प्रतस्थे;#} ‘fell a-weep-
-<div n="lb"/>-ing’ {#क्रंदितुं प्रवृत्तः#}. {@5@} (Every) {#प्रति#} in
-<div n="lb"/>comp., or by repetition of word;
-<div n="lb"/>‘100 Rs. a day’ {#प्रतिदिनं#} or {#दिने दिने#}
-<div n="lb"/>{#शतरूपकं#}. {@6@} (Species) {#विशेषः, भेदः,#}
-<div n="lb"/>in comp.; ‘dog is an animal’ {#श्वा#}
-<div n="lb"/>{#प्राणिविशेषः#}.
+{#नरः#}. {@2@} (One) {#एक#}. {@3@} (Indefinite) {#किं#}
+with {#चित्, चन#} or {#अपि#}. {@4@} With part.,
+ex. by dat. or inf.; ‘set out a hunting’
+{#मृगयायै#} or {#मृगयां कर्तुं प्रतस्थे;#} ‘fell a-weep-
+-ing’ {#क्रंदितुं प्रवृत्तः#}. {@5@} (Every) {#प्रति#} in
+comp., or by repetition of word;
+‘100 Rs. a day’ {#प्रतिदिनं#} or {#दिने दिने#}
+{#शतरूपकं#}. {@6@} (Species) {#विशेषः, भेदः,#}
+in comp.; ‘dog is an animal’ {#श्वा#}
+{#प्राणिविशेषः#}.
 <LEND>

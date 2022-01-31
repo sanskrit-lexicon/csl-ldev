@@ -1,18 +1,18 @@
 <L>8139<pc>352<k1>possible<k2>possible
 {@Possible,@}¦ {%a.%} {#शक्य, साध्य, संभाव्य;#} gen. ex.
-<div n="lb"/>by pot. pass. part.; ‘not p. to be
-<div n="lb"/>united’ {#दुःसंधेय;#} ‘p. to be done’ {#कर-#}
-<div n="lb"/>{#-णीय, संपाद्य, साध्य;#} oft. by {#शक्#} pass.;
-<div n="lb"/>‘to be p.’ {#संभू#} 1 P, ({#सर्वं सौदामिन्यां#}
-<div n="lb"/>{#संभाव्यते#} Mal. 1), {#उपपद्#} 4 A, {#घट्#} 1 A;
-<div n="lb"/>{#उभयथापि घटते#} (V. 3) ‘it is p. in both
-<div n="lb"/>ways’ (both sides are p.); ‘as far
-<div n="lb"/>as p.’ {#यावच्छक्यं, यथाशक्ति#}. {@-Possibility,@}
-<div n="lb"/>{%s.%} {#संभवः, शक्यता, संभाव्यता, उपपत्ति#} {%f.,%}
-<div n="lb"/>{#घटना, संगति#} {%f.%} {@Possibly,@} {%adv.%} Ex. by
-<div n="lb"/>{#शक्यं#} or {#शक्#} pass. {@2@} {#कदाचित्, कदापि,#}
-<div n="lb"/>{#नाम,#} by pot. mood; {%See%} {@Perhaps. 3@}
-<div n="lb"/>(In questions) {#इव, नाम, वा;#} ‘who p.
-<div n="lb"/>that is dead, is not born again’ {#मृतः#}
-<div n="lb"/>{#को वा न जायते#} (P. I. 1).
+by pot. pass. part.; ‘not p. to be
+united’ {#दुःसंधेय;#} ‘p. to be done’ {#कर-#}
+{#-णीय, संपाद्य, साध्य;#} oft. by {#शक्#} pass.;
+‘to be p.’ {#संभू#} 1 P, ({#सर्वं सौदामिन्यां#}
+{#संभाव्यते#} Mal. 1), {#उपपद्#} 4 A, {#घट्#} 1 A;
+{#उभयथापि घटते#} (V. 3) ‘it is p. in both
+ways’ (both sides are p.); ‘as far
+as p.’ {#यावच्छक्यं, यथाशक्ति#}. {@-Possibility,@}
+{%s.%} {#संभवः, शक्यता, संभाव्यता, उपपत्ति#} {%f.,%}
+{#घटना, संगति#} {%f.%} {@Possibly,@} {%adv.%} Ex. by
+{#शक्यं#} or {#शक्#} pass. {@2@} {#कदाचित्, कदापि,#}
+{#नाम,#} by pot. mood; {%See%} {@Perhaps. 3@}
+(In questions) {#इव, नाम, वा;#} ‘who p.
+that is dead, is not born again’ {#मृतः#}
+{#को वा न जायते#} (P. I. 1).
 <LEND>
