@@ -1,8 +1,8 @@
 <L>2483<pc>0133-b<k1>ऊधन्<k2>ऊधन्
 {#ऊधन्#}¦ {%ūdhan,%} and, with {%r%} for {%n,%}
-<div n="lb">{#ऊधर्#} {%ūdhar,%} and {#ऊधस्#} {%ūdhas,%}
-<div n="lb">based on original {%*vad-dhant%} (<ab>cf.</ab> {%udan,%}
-<div n="lb"><ab>vb.</ab> {%dhā,%} and {%payodhas%}), <ab>n.</ab> An udder.
-<div n="lb"> -- <ab>Cf.</ab> <lang n="greek"></lang>, uber; <ab>O.H.G.</ab> ūtar; <ab>A.S.</ab>
-<div n="lb">uder.
+{#ऊधर्#} {%ūdhar,%} and {#ऊधस्#} {%ūdhas,%}
+based on original {%*vad-dhant%} (<ab>cf.</ab> {%udan,%}
+<ab>vb.</ab> {%dhā,%} and {%payodhas%}), <ab>n.</ab> An udder.
+ -- <ab>Cf.</ab> <lang n="greek"></lang>, uber; <ab>O.H.G.</ab> ūtar; <ab>A.S.</ab>
+uder.
 <LEND>

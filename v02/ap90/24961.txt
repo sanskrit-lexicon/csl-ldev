@@ -1,16 +1,16 @@
 <L>24961<pc>0942-a<k1>वध्य<k2>वध्य
 {#वध्य#}¦ {%<ab>a.</ab>%} {@1@} To be killed or slain.
-<>{@--2@} Sentenced to be killed. {@--3@} <lbinfo n="Vul+nerable"/>
-<>Vulnerable. {@--4@} To be subjected to <lbinfo n="cor+poreal"/>
-<>corporeal punishment, to be <lbinfo n="corporeal+ly"/>
-<>corporeally punished. {#--ध्यः#} {@1@} A victim, one
-<>seeking his doom; <ls>Mu. 1. 9.</ls> {@--2@}
-<>An enemy. {@--Comp.@} {#--पटहः#} a
-<>drum beaten at the time of <lbinfo n="execu+tion"/>
-<>execution. {#--भूः, --भूमिः#} {%<ab>f.</ab>%}, {#--स्थलं, --स्थानं#} a
-<>place of execution. {#--माला#} a garland
-<>of flowers placed on a person who is
-<>about to be executed. {#--शिला#} {1} an
-<>executioner's block, scaffold. {2} a
-<>slaughter-house.
+{@--2@} Sentenced to be killed. {@--3@} <lbinfo n="Vul+nerable"/>
+Vulnerable. {@--4@} To be subjected to <lbinfo n="cor+poreal"/>
+corporeal punishment, to be <lbinfo n="corporeal+ly"/>
+corporeally punished. {#--ध्यः#} {@1@} A victim, one
+seeking his doom; <ls>Mu. 1. 9.</ls> {@--2@}
+An enemy. {@--Comp.@} {#--पटहः#} a
+drum beaten at the time of <lbinfo n="execu+tion"/>
+execution. {#--भूः, --भूमिः#} {%<ab>f.</ab>%}, {#--स्थलं, --स्थानं#} a
+place of execution. {#--माला#} a garland
+of flowers placed on a person who is
+about to be executed. {#--शिला#} {1} an
+executioner's block, scaffold. {2} a
+slaughter-house.
 <LEND>

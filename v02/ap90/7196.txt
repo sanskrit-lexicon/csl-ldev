@@ -1,20 +1,20 @@
 <L>7196<pc>0270-b<k1>आस्पदं<k2>आस्पदं
 {#आस्पदं#}¦ [{#आ-पद्-घ सुट्च#}] {@1@} A place,
-<>site, seat, room; {#तस्यास्पदं#} <lbinfo n="SrIryuvarAja#saMjYitaM"/>
-<>{#श्रीर्युवराजसंज्ञितं#} <ls>R. 3. 36</ls>; {#ध्यानास्पदं#} <lbinfo n="BUta#paterviveSa"/>
-<>{#भूतपतेर्विवेश#} <ls>Ku. 3. 43</ls>, <ls n="Ku.">5. 10</ls>, <ls n="Ku. 5.">48</ls>, <ls n="Ku. 5.">69</ls>;
-<>{#कथं तादृशानां गिरि वैतथ्यमास्पदं कुर्यात्#}
-<><ls>K. 174</ls>; {#राजन्यास्पदमलभत#} <ls>Dk. 160</ls>
-<>obtained a hold on the king. {@--2@}
-<>(Fig.) An abode, subject, receptacle;
-<>{#निधनता सर्वापदामास्पदं#} <ls>Mk. 1. 14</ls>;  <lbinfo n="ka#riRyaH"/>
-<>{#करिण्यः कारुण्यास्पदं#} <ls>Bv. 1. 2</ls>; {#आस्पदं#}
-<>{#त्वमसि सर्वसंपदां#} <ls>Ki. 13. 39</ls>; so {#दोष°#},
-<>{#उपहास°#} &c. {@--3@} Rank, position,
-<>station; {#काव्यार्थभावनेनायमपि#} <lbinfo n="saByapadA#spadaM"/>
-<>{#सभ्यपदास्पदं#} <ls>S. D.</ls> {@--4@} Dignity, authority,
-<>office; {#लब्धास्पदोस्मीति विवादभीरोः#}  <lbinfo n="ls:M.+ 1. 17."/>
-<><ls>M. 1. 17.</ls> {@--5@} Business, affair. {@--6@} Prop, <lbinfo n="sup+port"/>
-<>support. {@--7@} The tenth place from the
-<>{#लग्न#} <ab>q. v.</ab>
+site, seat, room; {#तस्यास्पदं#} <lbinfo n="SrIryuvarAja#saMjYitaM"/>
+{#श्रीर्युवराजसंज्ञितं#} <ls>R. 3. 36</ls>; {#ध्यानास्पदं#} <lbinfo n="BUta#paterviveSa"/>
+{#भूतपतेर्विवेश#} <ls>Ku. 3. 43</ls>, <ls n="Ku.">5. 10</ls>, <ls n="Ku. 5.">48</ls>, <ls n="Ku. 5.">69</ls>;
+{#कथं तादृशानां गिरि वैतथ्यमास्पदं कुर्यात्#}
+<ls>K. 174</ls>; {#राजन्यास्पदमलभत#} <ls>Dk. 160</ls>
+obtained a hold on the king. {@--2@}
+(Fig.) An abode, subject, receptacle;
+{#निधनता सर्वापदामास्पदं#} <ls>Mk. 1. 14</ls>;  <lbinfo n="ka#riRyaH"/>
+{#करिण्यः कारुण्यास्पदं#} <ls>Bv. 1. 2</ls>; {#आस्पदं#}
+{#त्वमसि सर्वसंपदां#} <ls>Ki. 13. 39</ls>; so {#दोष°#},
+{#उपहास°#} &c. {@--3@} Rank, position,
+station; {#काव्यार्थभावनेनायमपि#} <lbinfo n="saByapadA#spadaM"/>
+{#सभ्यपदास्पदं#} <ls>S. D.</ls> {@--4@} Dignity, authority,
+office; {#लब्धास्पदोस्मीति विवादभीरोः#}  <lbinfo n="ls:M.+ 1. 17."/>
+<ls>M. 1. 17.</ls> {@--5@} Business, affair. {@--6@} Prop, <lbinfo n="sup+port"/>
+support. {@--7@} The tenth place from the
+{#लग्न#} <ab>q. v.</ab>
 <LEND>

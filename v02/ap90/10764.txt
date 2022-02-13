@@ -1,14 +1,14 @@
 <L>10764<pc>0397-a<k1>कारा<k2>कारा
 {#कारा#}¦ {@1@} Imprisonment, <lbinfo n="confine+ment"/>
-<>confinement. {@--2@} A prison-house, a jail. {@--3@}
-<>Part of a lute below the neck. {@--4@}
-<>Pain, affliction. {@--5@} A female <lbinfo n="mes+senger"/>
-<>messenger. {@--6@} A female worker in gold.
-<>{@--7@} A sound. {@--8@} An instrument for
-<>drowning the sound of the lute.
-<>{@--Comp.@} {#--अगारं, --गृहं, --वेश्मन्#} {%<ab>n.</ab>%} a prison
-<>house, a jail; {#कारागृहे निर्जितवासवेन#} <lbinfo n="laM#keSvaraRozitamA"/>
-<>{#लंकेश्वरणोषितमा प्रसादात्#} <ls>R. 6. 40</ls>,  <lbinfo n="ls:Śānti.+4"/>
-<><ls>Śānti. 4. 10</ls>. {#--गुप्तः#} a prisoner. {#--पालः#} a
-<>guard of a prison, jailor.
+confinement. {@--2@} A prison-house, a jail. {@--3@}
+Part of a lute below the neck. {@--4@}
+Pain, affliction. {@--5@} A female <lbinfo n="mes+senger"/>
+messenger. {@--6@} A female worker in gold.
+{@--7@} A sound. {@--8@} An instrument for
+drowning the sound of the lute.
+{@--Comp.@} {#--अगारं, --गृहं, --वेश्मन्#} {%<ab>n.</ab>%} a prison
+house, a jail; {#कारागृहे निर्जितवासवेन#} <lbinfo n="laM#keSvaraRozitamA"/>
+{#लंकेश्वरणोषितमा प्रसादात्#} <ls>R. 6. 40</ls>,  <lbinfo n="ls:Śānti.+4"/>
+<ls>Śānti. 4. 10</ls>. {#--गुप्तः#} a prisoner. {#--पालः#} a
+guard of a prison, jailor.
 <LEND>

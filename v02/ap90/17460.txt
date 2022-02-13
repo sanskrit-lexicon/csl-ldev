@@ -1,20 +1,20 @@
 <L>17460<pc>0650-b<k1>नौ<k2>नौ
 {#नौ#}¦ {%<ab>f.</ab>%} {@1@} A ship, boat, vessel;
-<>{#महत पुण्यपण्येन क्रीतेयं कायनौस्त्वया#}
-<><ls>Śānti. 3. 1.</ls> {@--2@} <ab>N.</ab> of a <lbinfo n="constella+tion"/>
-<>constellation. {@--Comp.@} {#--आरोहः#} ({#नावारोहः#})
-<>{1} a passenger on board a ship. {2}
-<>a sailor. {#--कर्णधारः#} a helmsman,
-<>pilot. {#--कर्मन्#} {%<ab>n.</ab>%} the occupation of
-<>a sailor; <ls>Ms. 10. 34.</ls> {#--चरः#}, <lbinfo n="upa#jIvanaH"/>
-<>{#--उपजीवनः, --जीविकः#} a sailor, boatman;
-<><ls>R. 17. 81.</ls> {#--तार्य#} {%<ab>a.</ab>%} navigable, to be
-<>traversed in a ship. {#--दंडः#} an oar.
-<>{#--यानं#} navigation. {#--यायिन्#} {%<ab>a.</ab>%} going
-<>in a boat, a passenger; <ls>Ms. 8. 409.</ls>
-<>{#--वाहः#} a steersman, pilot, captain.
-<>{#--व्यसनं#} shipwreck, naufrage;  <lbinfo n="nO#vyasane"/>
-<>{#नौव्यसने विपन्नः#} <ls>Ś. 6.</ls> {#--साधनं#} fleet;
-<>navy,; {#वंगानुत्खाय तरसा नेता#} <lbinfo n="nOsADa#nodyatAn"/>
-<>{#नौसाधनोद्यतान्#} <ls>R. 4. 36.</ls>
+{#महत पुण्यपण्येन क्रीतेयं कायनौस्त्वया#}
+<ls>Śānti. 3. 1.</ls> {@--2@} <ab>N.</ab> of a <lbinfo n="constella+tion"/>
+constellation. {@--Comp.@} {#--आरोहः#} ({#नावारोहः#})
+{1} a passenger on board a ship. {2}
+a sailor. {#--कर्णधारः#} a helmsman,
+pilot. {#--कर्मन्#} {%<ab>n.</ab>%} the occupation of
+a sailor; <ls>Ms. 10. 34.</ls> {#--चरः#}, <lbinfo n="upa#jIvanaH"/>
+{#--उपजीवनः, --जीविकः#} a sailor, boatman;
+<ls>R. 17. 81.</ls> {#--तार्य#} {%<ab>a.</ab>%} navigable, to be
+traversed in a ship. {#--दंडः#} an oar.
+{#--यानं#} navigation. {#--यायिन्#} {%<ab>a.</ab>%} going
+in a boat, a passenger; <ls>Ms. 8. 409.</ls>
+{#--वाहः#} a steersman, pilot, captain.
+{#--व्यसनं#} shipwreck, naufrage;  <lbinfo n="nO#vyasane"/>
+{#नौव्यसने विपन्नः#} <ls>Ś. 6.</ls> {#--साधनं#} fleet;
+navy,; {#वंगानुत्खाय तरसा नेता#} <lbinfo n="nOsADa#nodyatAn"/>
+{#नौसाधनोद्यतान्#} <ls>R. 4. 36.</ls>
 <LEND>

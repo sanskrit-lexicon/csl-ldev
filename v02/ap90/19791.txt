@@ -1,11 +1,11 @@
 <L>19791<pc>0733-b<k1>प्रतापः<k2>प्रतापः
 {#प्रतापः#}¦ {@1@} Heat, warmth;  <lbinfo n="ls:Pt. 1.+ 107."/>
-<><ls>Pt. 1. 107.</ls> {@--2@} Radiance, glowing heat;
-<><ls>Ku. 2. 24.</ls> {@--3@} Splendour, brilliancy.
-<>{@--4@} Dignity, majesty, glory;  <lbinfo n="ls:Mv.+ 2. 4."/>
-<><ls>Mv. 2. 4.</ls> {@--5@} Courage, valour, heroism;
-<>{#प्रतापस्तस्य भानोश्च युगपद् व्यानशे दिशः#}
-<><ls>R. 4. 15</ls> (where {#प्रताप#} means ‘heat’
-<>also); <ls n="R.">4. 30.</ls> {@--6@} Spirit, vigour, <lbinfo n="en+ergy"/>
-<>energy. {@--7@} Ardour, zeal.
+<ls>Pt. 1. 107.</ls> {@--2@} Radiance, glowing heat;
+<ls>Ku. 2. 24.</ls> {@--3@} Splendour, brilliancy.
+{@--4@} Dignity, majesty, glory;  <lbinfo n="ls:Mv.+ 2. 4."/>
+<ls>Mv. 2. 4.</ls> {@--5@} Courage, valour, heroism;
+{#प्रतापस्तस्य भानोश्च युगपद् व्यानशे दिशः#}
+<ls>R. 4. 15</ls> (where {#प्रताप#} means ‘heat’
+also); <ls n="R.">4. 30.</ls> {@--6@} Spirit, vigour, <lbinfo n="en+ergy"/>
+energy. {@--7@} Ardour, zeal.
 <LEND>

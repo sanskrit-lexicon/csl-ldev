@@ -1,6 +1,6 @@
 <L>16804<pc>0624-a<k1>निमंत्रणं<k2>निमंत्रणं
 {#निमंत्रणं#}¦ {@1@} Invitation. {@--2@} <lbinfo n="Summon+ing"/>
-<>Summoning, calling. {@--3@} A summons. {@--Comp.@}
-<>{#--पत्रं#} {1} an invitation card or note.
-<>{2} a summons.
+Summoning, calling. {@--3@} A summons. {@--Comp.@}
+{#--पत्रं#} {1} an invitation card or note.
+{2} a summons.
 <LEND>

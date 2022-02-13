@@ -1,11 +1,11 @@
 <L>1997<pc>067<k1>companion<k2>companion
 {@Companion,@}¦ {%s.%} {#सखि#} {%m.,%} {#सहचरः, मित्रं#}
-<div n="lb"/>{#वयस्यः, सहायः; सजुस्#} {%m.;%} ‘with
-<div n="lb"/>Madhu for a c.’ {#मधुसहायः, मधुद्वितीयः;#}
-<div n="lb"/>‘c. of the king’ (in love matters)
-<div n="lb"/>{#नर्मसुहृद्-सचिवः;#} ‘c. of youth’ {#बाल-#}
-<div n="lb"/>{#-सहचरः;#} ‘c. at school’ {#सहाध्यायिन्#} {%m.,%}
-<div n="lb"/>‘c. in arms’ {#सहयोद्धृ#} {%m.%} ‘c. in joy and
-<div n="lb"/>sorrow’ {#समदुःखसुखः;#} {@-ship,@} {%s.%} {#साह-#}
-<div n="lb"/>{#-चर्यं, साहाय्यं, संसर्गः, संगति#} {%f.%}
+{#वयस्यः, सहायः; सजुस्#} {%m.;%} ‘with
+Madhu for a c.’ {#मधुसहायः, मधुद्वितीयः;#}
+‘c. of the king’ (in love matters)
+{#नर्मसुहृद्-सचिवः;#} ‘c. of youth’ {#बाल-#}
+{#-सहचरः;#} ‘c. at school’ {#सहाध्यायिन्#} {%m.,%}
+‘c. in arms’ {#सहयोद्धृ#} {%m.%} ‘c. in joy and
+sorrow’ {#समदुःखसुखः;#} {@-ship,@} {%s.%} {#साह-#}
+{#-चर्यं, साहाय्यं, संसर्गः, संगति#} {%f.%}
 <LEND>

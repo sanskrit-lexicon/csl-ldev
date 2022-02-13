@@ -1,44 +1,44 @@
 <L>20170<pc>0744-c<k1>प्रत्यक्ष<k2>प्रत्यक्ष
 {#प्रत्यक्ष#}¦ {%<ab>a.</ab>%} [{#अक्ष्णः प्रति#}] {@1@} Perceptible
-<>(to the eye), visible; {#प्रत्यक्षाभिः#} <lbinfo n="prapanna#stanuBiravatu"/>
-<>{#प्रपन्नस्तनुभिरवतु वस्ताभिरष्टाभिरीशः#} <ls>Ś. 1. 1.</ls> {@--2@}
-<>Present, in sight, before the eye {@--3@}
-<>Cognizable by any organ of sense.
-<>{@--4@} Distinct, evident, clear. {@--5@} Direct,
-<>immediate. {@--6@} Explicit, express. {@--7@}
-<>Corporeal. {#--क्षं#} {@1@} Perception, ocular
-<>evidence, apprehension by the senses,
-<>considered as a {#प्रमाण#} or mode of
-<>proof; {#इंद्रियार्थसन्निकर्षजन्यं ज्ञानं#} <lbinfo n="tya#kzaM"/>
-<>{#त्यक्षं#} <ls>T. S.</ls> {@--2@} Explicitness, <lbinfo n="distinct+ness"/>
-<>distinctness. (The forms {#प्रत्यक्षं, प्रत्यक्षेण#}, <lbinfo n="pra#tyakzataH"/>
-<>{#प्रत्यक्षतः, प्रत्यक्षात्#} are used <lbinfo n="adverbial+ly"/>
-<>adverbially in the sense of {@1@} Before, in the
-<>presence of, in the sight of. {@--2@} <lbinfo n="Open+ly"/>
-<>Openly, publicly. {@--3@} Directly, <lbinfo n="immediate+ly"/>
-<>immediately. {@--4@} Personally. {@--5@} At sight. {@--6@}
-<>Explicitly. {@--7@} Distinctly, clearly. {@--8@}
-<>Literally. so {#प्रत्यक्षे#} in the sight of
-<>before the eyes of). {@--Comp.@} {#--कृता#}
-<>({%<ab>i. e.</ab>%} {#ऋ क्#}) a hymn in which a deity is
-<>directly addressed. {#--ज्ञानं#} ocular <lbinfo n="evi+dence"/>
-<>evidence, knowledge obtained by direct
-<>perception. {#--दर्शनं#} ocular evidence.
-<>direct proof. {#--दर्शनः, --दर्शिन्#} {%<ab>m.</ab>%} an
-<>eye-witness. {#--दृष्ट#} {%<ab>a.</ab>%} personally seen.
-<>{#--परीक्षणं#} personal examination.  <lbinfo n="--pra#ma"/>
-<>{#--प्रम#} correct or certain knowledge, such
-<>as is obtained by direct perception
-<>through the senses. {#--प्रमाणं#} {1} ocular
-<>proof, evidence of the senses. {2} an
-<>organ of perception. {#--फल#} {%<ab>a.</ab>%} having
-<>evident or visible consequences.  <lbinfo n="--BU#ta"/>
-<>{#--भूत#} {%<ab>a.</ab>%} manifested. {#--भोगः#} enjoyment
-<>of anything with the knowledge of
-<>the owner. {#--वादिन्#} {%<ab>m.</ab>%} a Buddhist
-<>who admits no other evidence than
-<>ocular proof or perception. {#--विहित#}
-<>{%<ab>a.</ab>%} directly or explicitly enjoined.
-<>{#--सिद्ध#} {%<ab>a.</ab>%} determined by ocular
-<>proof. 
+(to the eye), visible; {#प्रत्यक्षाभिः#} <lbinfo n="prapanna#stanuBiravatu"/>
+{#प्रपन्नस्तनुभिरवतु वस्ताभिरष्टाभिरीशः#} <ls>Ś. 1. 1.</ls> {@--2@}
+Present, in sight, before the eye {@--3@}
+Cognizable by any organ of sense.
+{@--4@} Distinct, evident, clear. {@--5@} Direct,
+immediate. {@--6@} Explicit, express. {@--7@}
+Corporeal. {#--क्षं#} {@1@} Perception, ocular
+evidence, apprehension by the senses,
+considered as a {#प्रमाण#} or mode of
+proof; {#इंद्रियार्थसन्निकर्षजन्यं ज्ञानं#} <lbinfo n="tya#kzaM"/>
+{#त्यक्षं#} <ls>T. S.</ls> {@--2@} Explicitness, <lbinfo n="distinct+ness"/>
+distinctness. (The forms {#प्रत्यक्षं, प्रत्यक्षेण#}, <lbinfo n="pra#tyakzataH"/>
+{#प्रत्यक्षतः, प्रत्यक्षात्#} are used <lbinfo n="adverbial+ly"/>
+adverbially in the sense of {@1@} Before, in the
+presence of, in the sight of. {@--2@} <lbinfo n="Open+ly"/>
+Openly, publicly. {@--3@} Directly, <lbinfo n="immediate+ly"/>
+immediately. {@--4@} Personally. {@--5@} At sight. {@--6@}
+Explicitly. {@--7@} Distinctly, clearly. {@--8@}
+Literally. so {#प्रत्यक्षे#} in the sight of
+before the eyes of). {@--Comp.@} {#--कृता#}
+({%<ab>i. e.</ab>%} {#ऋ क्#}) a hymn in which a deity is
+directly addressed. {#--ज्ञानं#} ocular <lbinfo n="evi+dence"/>
+evidence, knowledge obtained by direct
+perception. {#--दर्शनं#} ocular evidence.
+direct proof. {#--दर्शनः, --दर्शिन्#} {%<ab>m.</ab>%} an
+eye-witness. {#--दृष्ट#} {%<ab>a.</ab>%} personally seen.
+{#--परीक्षणं#} personal examination.  <lbinfo n="--pra#ma"/>
+{#--प्रम#} correct or certain knowledge, such
+as is obtained by direct perception
+through the senses. {#--प्रमाणं#} {1} ocular
+proof, evidence of the senses. {2} an
+organ of perception. {#--फल#} {%<ab>a.</ab>%} having
+evident or visible consequences.  <lbinfo n="--BU#ta"/>
+{#--भूत#} {%<ab>a.</ab>%} manifested. {#--भोगः#} enjoyment
+of anything with the knowledge of
+the owner. {#--वादिन्#} {%<ab>m.</ab>%} a Buddhist
+who admits no other evidence than
+ocular proof or perception. {#--विहित#}
+{%<ab>a.</ab>%} directly or explicitly enjoined.
+{#--सिद्ध#} {%<ab>a.</ab>%} determined by ocular
+proof. 
 <LEND>

@@ -1,15 +1,15 @@
 <L>30777<pc>1145-b<k1>स्तुति<k2>स्तुति
 {#स्तुति#}¦ {%<ab>f.</ab>%} [{#स्तु-क्तिन्#}] {@1@} Praise, <lbinfo n="eulo+gy"/>
-<>eulogy, commendation, laudation,  <lbinfo n="stuti#Byo"/>
-<>{#स्तुतिभ्यो व्यतिरिच्यंते दूराणि चरितानि ते#}  <lbinfo n="ls:R.+ 10. 30."/>
-<><ls>R. 10. 30.</ls> {@--2@} A hymn of praise, <lbinfo n="pane+gyric"/>
-<>panegyric; <ls>R. 4. 6.</ls> {@--3@} Adulation;
-<>flattery, empty or false praise;  <lbinfo n="BUtA#rTavyAhftiH"/>
-<>{#भूतार्थव्याहृतिः सा हि न स्तुतिः परमोष्ठिनः#}  <lbinfo n="ls:R.+ 10. 33."/>
-<><ls>R. 10. 33.</ls> {@--4@} <ab>N.</ab> of Durgā. {@--Comp.@}
-<>{#--गीतं#} a panegyric, hymn. {#--पदं#} an
-<>object of praise. {#--पाठकः#} a panegyrist,
-<>an encomiast, a minstrel, bard,
-<>herald. {#--वादः#} a laudatory speech,
-<>panegyric. {#--व्रतः#} a bard.
+eulogy, commendation, laudation,  <lbinfo n="stuti#Byo"/>
+{#स्तुतिभ्यो व्यतिरिच्यंते दूराणि चरितानि ते#}  <lbinfo n="ls:R.+ 10. 30."/>
+<ls>R. 10. 30.</ls> {@--2@} A hymn of praise, <lbinfo n="pane+gyric"/>
+panegyric; <ls>R. 4. 6.</ls> {@--3@} Adulation;
+flattery, empty or false praise;  <lbinfo n="BUtA#rTavyAhftiH"/>
+{#भूतार्थव्याहृतिः सा हि न स्तुतिः परमोष्ठिनः#}  <lbinfo n="ls:R.+ 10. 33."/>
+<ls>R. 10. 33.</ls> {@--4@} <ab>N.</ab> of Durgā. {@--Comp.@}
+{#--गीतं#} a panegyric, hymn. {#--पदं#} an
+object of praise. {#--पाठकः#} a panegyrist,
+an encomiast, a minstrel, bard,
+herald. {#--वादः#} a laudatory speech,
+panegyric. {#--व्रतः#} a bard.
 <LEND>

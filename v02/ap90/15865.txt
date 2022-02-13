@@ -1,27 +1,27 @@
 <L>15865<pc>0587-b<k1>द्वारं<k2>द्वारं
 {#द्वारं#}¦ [{#द्वृ-णिच्-अच्#} <ls>Tv.</ls>] {@1@} A door,
-<>gateway, gate. {@--2@} A passage, <lbinfo n="en+trance"/>
-<>entrance, ingress, opening; {#अथवा#}
-<>{#कृतवाग्द्वारे वंशेऽस्मिन्#} <ls>R. 1. 4</ls>;  <lbinfo n="ls:11."/>
-<><ls n="R.">11. 18.</ls> {@--3@} An aperture of the <lbinfo n="hu+man"/>
-<>human body; (they are nine); see
-<>{#खं#} and <ls>Ku. 3. 50</ls>, <ls>Bg. 8. 12</ls>,
-<>and <ls>Ms. 6. 48</ls> also. {@--4@} Way, medium,
-<>means ({#द्वारेण#} ‘through’ ‘by means of’;
-<><ls>Pt. 1.</ls>). {#--री#} A door. {@--Comp.@} {#--अधिपः#}
-<>a porter, door-keeper. {#--कंटकः#} the
-<>bolt of a door. {#--कपाटः, --टं#} the leaf
-<>or panel of a door. {#--गोपः, --नायकः#}
-<>{#--पः, --पालः, --पालकः#} a door keeper,
-<>porter, warder. ({#--पः#}) <ab>N.</ab> of Viṣṇu.
-<>{#--दर्शिन्#} {%<ab>m.</ab>%} a door-keeper. {#--दारुः#}
-<>teak-wood. {#--पट्टः#} {1} the panel of a
-<>door. {2} the curtain of a door.
-<>{#--पिंडी#} the threshold of a door.
-<>{#--पिधानः#} the bolt of a door.
-<>{#--बलिभुज्#} {%<ab>m.</ab>%} {1} a crow. {2} a sparrow.
-<>{#--बाहुः#} a door-post, jamb. {#--यंत्रं#} a
-<>lock, bolt. {#--वृत्तं#} black-pepper.
-<>{#--शाखा#} the leaf of a door. {#--स्थः#} a
-<>door-keeper.
+gateway, gate. {@--2@} A passage, <lbinfo n="en+trance"/>
+entrance, ingress, opening; {#अथवा#}
+{#कृतवाग्द्वारे वंशेऽस्मिन्#} <ls>R. 1. 4</ls>;  <lbinfo n="ls:11."/>
+<ls n="R.">11. 18.</ls> {@--3@} An aperture of the <lbinfo n="hu+man"/>
+human body; (they are nine); see
+{#खं#} and <ls>Ku. 3. 50</ls>, <ls>Bg. 8. 12</ls>,
+and <ls>Ms. 6. 48</ls> also. {@--4@} Way, medium,
+means ({#द्वारेण#} ‘through’ ‘by means of’;
+<ls>Pt. 1.</ls>). {#--री#} A door. {@--Comp.@} {#--अधिपः#}
+a porter, door-keeper. {#--कंटकः#} the
+bolt of a door. {#--कपाटः, --टं#} the leaf
+or panel of a door. {#--गोपः, --नायकः#}
+{#--पः, --पालः, --पालकः#} a door keeper,
+porter, warder. ({#--पः#}) <ab>N.</ab> of Viṣṇu.
+{#--दर्शिन्#} {%<ab>m.</ab>%} a door-keeper. {#--दारुः#}
+teak-wood. {#--पट्टः#} {1} the panel of a
+door. {2} the curtain of a door.
+{#--पिंडी#} the threshold of a door.
+{#--पिधानः#} the bolt of a door.
+{#--बलिभुज्#} {%<ab>m.</ab>%} {1} a crow. {2} a sparrow.
+{#--बाहुः#} a door-post, jamb. {#--यंत्रं#} a
+lock, bolt. {#--वृत्तं#} black-pepper.
+{#--शाखा#} the leaf of a door. {#--स्थः#} a
+door-keeper.
 <LEND>

@@ -1,32 +1,32 @@
 <L>23083<pc>0863-b<k1>माला<k2>माला
 {#माला#}¦ [{#मल् संज्ञायां कर्तरि घञ्#}] {@1@} A
-<>garland, wreath, chaplet;  <lbinfo n="anaDigatapa#rimalApi"/>
-<>{#अनधिगतपरिमलापि हि हरति दृशं मालतीमाला#} <ls>Vās.</ls>
-<>{@--2@} A row, line, series, succession;
-<>{#गंडोड्डीनालिमाला#} <ls>Māl. 1. 1</ls>;  <lbinfo n="AbadDamA#lAH"/>
-<>{#आबद्धमालाः#} <ls>Me. 9.</ls> {@--3@} A group, cluster,
-<>collection. {@--4@} A string, <lbinfo n="neck+lace"/>
-<>necklace; as in {#रत्नमाला#}. {@--5@} A
-<>rosary, chain; as in {#अक्षमाला#}. {@--6@} A
-<>streak; as in {#तडिन्माला, विद्युन्माला#}. {@--7@}
-<>A series of epithets. {@--8@} (In dramas)
-<>The offering of several things to
-<>obtain a wish. {@--Comp.@} {#--उपमा#} a <lbinfo n="va+riety"/>
-<>variety of Upamā or simile, in which 
+garland, wreath, chaplet;  <lbinfo n="anaDigatapa#rimalApi"/>
+{#अनधिगतपरिमलापि हि हरति दृशं मालतीमाला#} <ls>Vās.</ls>
+{@--2@} A row, line, series, succession;
+{#गंडोड्डीनालिमाला#} <ls>Māl. 1. 1</ls>;  <lbinfo n="AbadDamA#lAH"/>
+{#आबद्धमालाः#} <ls>Me. 9.</ls> {@--3@} A group, cluster,
+collection. {@--4@} A string, <lbinfo n="neck+lace"/>
+necklace; as in {#रत्नमाला#}. {@--5@} A
+rosary, chain; as in {#अक्षमाला#}. {@--6@} A
+streak; as in {#तडिन्माला, विद्युन्माला#}. {@--7@}
+A series of epithets. {@--8@} (In dramas)
+The offering of several things to
+obtain a wish. {@--Comp.@} {#--उपमा#} a <lbinfo n="va+riety"/>
+variety of Upamā or simile, in which 
 [Page0863-c+ 57]
-<>one {%Upameya%} is compared to several
-<>{%Upamānas%}; {%<ab>e. g.</ab>%} {#अनयेनेव#} <lbinfo n="rAjyaSrI#dEnyaneva"/>
-<>{#राज्यश्रीदैन्यनेव मनस्विता । मम्लौ साथ विषादेन#} <lbinfo n="pa#dminIva"/>
-<>{#पद्मिनीव हिमांभसा#} <ls>K. P. 10.</ls> {#--कंटः#} <ab>N.</ab>
-<>of a plant ({#अपामार्ग#}). {#--करः, --कारः#}
-<>{1} a garland-maker, florist, gardener;
-<>{#कृती मालाकारो बकुलभुपि कुत्रापि निदधे#}
-<><ls>Bv. 1. 54</ls>; <ls>Pt. 1. 220.</ls> {2} the tribe
-<>of gardeners. {#--गुणः#} a necklace.
-<>{#--तृणं#} a kind of fragrant grass.
-<>{#--दीपकं#} a variety of {#दीपक#}; Mammaṭa
-<>thus defines it: {#--मालादीपकमाद्यं#} <lbinfo n="ce#dyaTottaraguRAvaham"/>
-<>{#चेद्यथोत्तरगुणावहम्#} <ls>K. P. 10</ls>; see the <lbinfo n="ex+ample"/>
-<>example given {%ad loc.%} {#--धर#} {%<ab>a.</ab>%} <lbinfo n="wear+ing"/>
-<>wearing a garland.
+one {%Upameya%} is compared to several
+{%Upamānas%}; {%<ab>e. g.</ab>%} {#अनयेनेव#} <lbinfo n="rAjyaSrI#dEnyaneva"/>
+{#राज्यश्रीदैन्यनेव मनस्विता । मम्लौ साथ विषादेन#} <lbinfo n="pa#dminIva"/>
+{#पद्मिनीव हिमांभसा#} <ls>K. P. 10.</ls> {#--कंटः#} <ab>N.</ab>
+of a plant ({#अपामार्ग#}). {#--करः, --कारः#}
+{1} a garland-maker, florist, gardener;
+{#कृती मालाकारो बकुलभुपि कुत्रापि निदधे#}
+<ls>Bv. 1. 54</ls>; <ls>Pt. 1. 220.</ls> {2} the tribe
+of gardeners. {#--गुणः#} a necklace.
+{#--तृणं#} a kind of fragrant grass.
+{#--दीपकं#} a variety of {#दीपक#}; Mammaṭa
+thus defines it: {#--मालादीपकमाद्यं#} <lbinfo n="ce#dyaTottaraguRAvaham"/>
+{#चेद्यथोत्तरगुणावहम्#} <ls>K. P. 10</ls>; see the <lbinfo n="ex+ample"/>
+example given {%ad loc.%} {#--धर#} {%<ab>a.</ab>%} <lbinfo n="wear+ing"/>
+wearing a garland.
 <LEND>

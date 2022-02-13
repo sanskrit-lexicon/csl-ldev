@@ -1,6 +1,3 @@
 <L>3114<pc>118<k1>diuretic<k2>diuretic
 {@Diuretic,@}¦ {%a.%} {#मूत्रवर्धक#}.
-<div n="lb"/>
-<div n="lb"/>{@Diurnal,@} {%a.%} {#आह्निक-दैनिक#} ({#की#} {%f.%}), {#दैनं-#}
-<div n="lb"/>{#-दिन#} ({#नी#} {%f.%}); {%See%} {@Daily.@}
 <LEND>

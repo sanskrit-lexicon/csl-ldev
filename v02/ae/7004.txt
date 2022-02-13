@@ -1,6 +1,6 @@
 <L>7004<pc>302<k1>mystic<k2>mystic
 {@Mystic,-al,@}¦ {%a.%} {#गूढ, गुप्त, गहन;#} {%See%}
-<div n="lb"/>{@Mysterious. -ally,@} {%adv.%} {#गूढं, गहनं#}.
-<div n="lb"/>{@-ism,-ness.@} {%s.%} {#गूढता, गहनता#}. {@-Mystify,@}
-<div n="lb"/>{%v. t.%} {#गहनीकृ#} 8 U, {#गूढीकृ#}.
+{@Mysterious. -ally,@} {%adv.%} {#गूढं, गहनं#}.
+{@-ism,-ness.@} {%s.%} {#गूढता, गहनता#}. {@-Mystify,@}
+{%v. t.%} {#गहनीकृ#} 8 U, {#गूढीकृ#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>10338<pc>466<k1>theatre<k2>theatre
 {@Theatre,@}¦ {%s.%} {#रंगः, -भूमि#} {%f.,%} {#-शाला, नृत्य-नाट्य-#}
-<div n="lb"/>{#-शाला, नाटकगृहं#}. {@-Theatrical,@} {%a.%} {#नाटक,#}
-<div n="lb"/>{#नाट्य#} in comp.; ‘t. performance’
-<div n="lb"/>{#नाटकप्रयोगः#}.
+{#-शाला, नाटकगृहं#}. {@-Theatrical,@} {%a.%} {#नाटक,#}
+{#नाट्य#} in comp.; ‘t. performance’
+{#नाटकप्रयोगः#}.
 <LEND>

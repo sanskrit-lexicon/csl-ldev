@@ -1,5 +1,5 @@
 <L>3136<pc>119<k1>document<k2>document
 {@Document,@}¦ {%s.%} {#लेख्यं, लेखः, पत्रं, पत्रकं,#}
-<div n="lb"/>{#लेख्यपत्रं#}. {@-ary@} {%a.%} ({%s%}.) in comp.; ‘d.
-<div n="lb"/>evidence’ {#लेख्यप्रमाणं#}.
+{#लेख्यपत्रं#}. {@-ary@} {%a.%} ({%s%}.) in comp.; ‘d.
+evidence’ {#लेख्यप्रमाणं#}.
 <LEND>

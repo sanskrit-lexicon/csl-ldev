@@ -1,12 +1,12 @@
 <L>21688<pc>0794-b<k1>बांधवः<k2>बांधवः
 {#बांधवः#}¦ [{#बंधु स्वार्थे इदमर्थे वाऽण्#}] {@1@}
-<>A relation, kinsman (in general);
-<>{#यस्यार्थास्तस्य बांधवाः#} <ls>H. 1</ls>;  <lbinfo n="ls:Ms. 5.+ 74"/>
-<><ls>Ms. 5. 74</ls>, <ls n="Ms. 5.">101</ls>; <ls n="Ms.">4. 179.</ls> {@--2@} A maternal <lbinfo n="re+lation"/>
-<>relation. {@--3@} A friend; {#धतेभ्यः परो#} <lbinfo n="bAM#Davo"/>
-<>{#बांधवो नास्ति लोके#} <ls>Subhāṣ.</ls> {@--4@} A <lbinfo n="bro+ther"/>
-<>brother. {@--Comp.@} {#--जनः#} relatives, <lbinfo n="kins+men"/>
-<>kinsmen (taken collectively);  <lbinfo n="dAridryAtpu#ruzasya"/>
-<>{#दारिद्र्यात्पुरुषस्य बांधवजनो वाक्ये न संतिष्ठते#}  <lbinfo n="ls:Mk.+ 1. 36"/>
-<><ls>Mk. 1. 36</ls>; <ls>Pt. 4. 78.</ls>
+A relation, kinsman (in general);
+{#यस्यार्थास्तस्य बांधवाः#} <ls>H. 1</ls>;  <lbinfo n="ls:Ms. 5.+ 74"/>
+<ls>Ms. 5. 74</ls>, <ls n="Ms. 5.">101</ls>; <ls n="Ms.">4. 179.</ls> {@--2@} A maternal <lbinfo n="re+lation"/>
+relation. {@--3@} A friend; {#धतेभ्यः परो#} <lbinfo n="bAM#Davo"/>
+{#बांधवो नास्ति लोके#} <ls>Subhāṣ.</ls> {@--4@} A <lbinfo n="bro+ther"/>
+brother. {@--Comp.@} {#--जनः#} relatives, <lbinfo n="kins+men"/>
+kinsmen (taken collectively);  <lbinfo n="dAridryAtpu#ruzasya"/>
+{#दारिद्र्यात्पुरुषस्य बांधवजनो वाक्ये न संतिष्ठते#}  <lbinfo n="ls:Mk.+ 1. 36"/>
+<ls>Mk. 1. 36</ls>; <ls>Pt. 4. 78.</ls>
 <LEND>

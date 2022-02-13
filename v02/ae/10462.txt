@@ -1,6 +1,6 @@
 <L>10462<pc>471<k1>tongue<k2>tongue
 {@Tongue,@}¦ {%s.%} {#जिह्वा, रस(श)ना, रसज्ञा;#}
-<div n="lb"/>‘hold the t.’ {%See%} {@Hold;@} ‘t. of a bell’
-<div n="lb"/>{#लोला#}. {@2@} {#वाणी, भाषा;#} {%See%} {@Language;@}
-<div n="lb"/>‘t.-tied’ {#बद्ध-नियंत्रित-जिह्व#}.
+‘hold the t.’ {%See%} {@Hold;@} ‘t. of a bell’
+{#लोला#}. {@2@} {#वाणी, भाषा;#} {%See%} {@Language;@}
+‘t.-tied’ {#बद्ध-नियंत्रित-जिह्व#}.
 <LEND>

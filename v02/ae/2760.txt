@@ -1,14 +1,14 @@
 <L>2760<pc>101<k1>deprive<k2>deprive
 {@Deprive,@}¦ {%v. t.%} {#अपनी#} 1 P, {#अपहृ#} 1 P,
-<div n="lb"/>(with gen. of person); {#भ्रंश्#} c., {#च्यु#} c.
-<div n="lb"/>(with abl.); {#वियुज्#} 7 A, 10, {#विनाकृ#}
-<div n="lb"/>8 U, (with instr. of the object
-<div n="lb"/>deprived). {@-ation,@} {%s.%} {#हरणं, अपचयः,#}
-<div n="lb"/>{#क्षयः, लोपः, हानि#} {%f.,%} {#नाशः#}. {@-ed,@} {%a.%} {#हृत,#}
-<div n="lb"/>{#अपहृत, हीन, वियुक्त, भ्रष्ट, विरहित, विना-#}
-<div n="lb"/>{#-कृत#} (gen. in comp.); {#वीत-लुप्त निर्#} in
-<div n="lb"/>comp.; ‘d. of wealth’ {#निर्धन, लुप्तवित्त;#}
-<div n="lb"/>‘d. of authority’ {#भ्रष्टाधिकार, पदभ्रष्ट;#}
-<div n="lb"/>‘to be d.’ {#हा#} pass.; {#परिहा, वियुज्#}
-<div n="lb"/>pass.
+(with gen. of person); {#भ्रंश्#} c., {#च्यु#} c.
+(with abl.); {#वियुज्#} 7 A, 10, {#विनाकृ#}
+8 U, (with instr. of the object
+deprived). {@-ation,@} {%s.%} {#हरणं, अपचयः,#}
+{#क्षयः, लोपः, हानि#} {%f.,%} {#नाशः#}. {@-ed,@} {%a.%} {#हृत,#}
+{#अपहृत, हीन, वियुक्त, भ्रष्ट, विरहित, विना-#}
+{#-कृत#} (gen. in comp.); {#वीत-लुप्त निर्#} in
+comp.; ‘d. of wealth’ {#निर्धन, लुप्तवित्त;#}
+‘d. of authority’ {#भ्रष्टाधिकार, पदभ्रष्ट;#}
+‘to be d.’ {#हा#} pass.; {#परिहा, वियुज्#}
+pass.
 <LEND>

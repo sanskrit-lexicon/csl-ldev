@@ -1,8 +1,8 @@
 <L>14914<pc>0545-c<k1>तरंडः<k2>तरंडः, --डा, --डी, --डं
 {#तरंडः, --डा, --डी, --डं#}¦ [{#तॄ-अंडच्#}] A boat.
-<>{#--डः, --डं#} {@1@} A raft or float made of
-<>bamboos tied together and floated
-<>on jars or inverted hollow gourds.
-<>{@--2@} The float of a fishing line. {@--3@}
-<>An oar. {@--Comp.@} {#--पादा#} a kind of boat.
+{#--डः, --डं#} {@1@} A raft or float made of
+bamboos tied together and floated
+on jars or inverted hollow gourds.
+{@--2@} The float of a fishing line. {@--3@}
+An oar. {@--Comp.@} {#--पादा#} a kind of boat.
 <LEND>

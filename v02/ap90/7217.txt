@@ -1,13 +1,13 @@
 <L>7217<pc>0271-a<k1>आस्वाद<k2>आस्वाद
 {#आस्वाद#}¦ {%<ab>a.</ab>%} Tasting, eating. {#--दः#} {@1@}
-<>Tasting, eating;  <lbinfo n="cUtAMkurAsvAdakazAya#kaMWaH"/>
-<>{#चूतांकुरास्वादकषायकंठः#} <ls>Ku. 3. 32</ls>; {#काव्यामृतरसास्वादः#}
-<><ls>H. 1. 152</ls>; {#मूखास्वादः#} <ls>Y. 3. 229</ls> <lbinfo n="kis+sing"/>
-<>kissing. {@--2@} Relish, flavour, taste;  <lbinfo n="jYAtA#svAdo"/>
-<>{#ज्ञातास्वादो विवृतजघनां को विहातुं समर्थः#}  <lbinfo n="ls:Me.+ 41"/>
-<><ls>Me. 41</ls>; {#सुखास्वादपरः#} <ls>H. 4. 76</ls>;  <lbinfo n="citrAsvA#dakaTErBftyEH"/>
-<>{#चित्रास्वादकथैर्भृत्यैः#} <ls>Pt. 1.</ls> {@--3@} Enjoying, <lbinfo n="ex+periencing"/>
-<>experiencing; {#°वत्#} {%<ab>a.</ab>%} delicious in <lbinfo n="fla+vour"/>
-<>flavour, palatable; {#आस्वादवद्भिः#} <lbinfo n="kavalEstf#RAnAM"/>
-<>{#कवलैस्तृणानां#} <ls>R. 2. 5.</ls>
+Tasting, eating;  <lbinfo n="cUtAMkurAsvAdakazAya#kaMWaH"/>
+{#चूतांकुरास्वादकषायकंठः#} <ls>Ku. 3. 32</ls>; {#काव्यामृतरसास्वादः#}
+<ls>H. 1. 152</ls>; {#मूखास्वादः#} <ls>Y. 3. 229</ls> <lbinfo n="kis+sing"/>
+kissing. {@--2@} Relish, flavour, taste;  <lbinfo n="jYAtA#svAdo"/>
+{#ज्ञातास्वादो विवृतजघनां को विहातुं समर्थः#}  <lbinfo n="ls:Me.+ 41"/>
+<ls>Me. 41</ls>; {#सुखास्वादपरः#} <ls>H. 4. 76</ls>;  <lbinfo n="citrAsvA#dakaTErBftyEH"/>
+{#चित्रास्वादकथैर्भृत्यैः#} <ls>Pt. 1.</ls> {@--3@} Enjoying, <lbinfo n="ex+periencing"/>
+experiencing; {#°वत्#} {%<ab>a.</ab>%} delicious in <lbinfo n="fla+vour"/>
+flavour, palatable; {#आस्वादवद्भिः#} <lbinfo n="kavalEstf#RAnAM"/>
+{#कवलैस्तृणानां#} <ls>R. 2. 5.</ls>
 <LEND>

@@ -4,12 +4,12 @@
 <HI1><symbol n="C.">C.</symbol> by Karavindasvāmin. {%delete%} this.
 <HI1><symbol n="C.">C.</symbol> by Dhūrtasvāmin. {%add%} Oppert II, 8741. 8867.
 <HI1><symbol n="CC.">CC.</symbol> by Kauśikarāma. {%add%} L. 1233 (fr.). Bik.
-<>165. SB. 282. {%delete%} L. 1231. 1232. Khn. 6.
+165. SB. 282. {%delete%} L. 1231. 1232. Khn. 6.
 <HI1><symbol n="CC.">CC.</symbol> Vedārthasārasaṃgraha etc. {%delete%} this.
 <HI1>2) Gṛhyasūtra. {%add%} Rice 40. SB. 99.
 <HI1><symbol n="C.">C.</symbol> by Haradatta. {%add%} Ben. 7. Oppert 2277.
 <HI1><symbol n="C.">C.</symbol> by Sudarśanācārya. {%add%} Bik. 111, and the
-<>mss. given under Gṛhyatātparyadarśana.
+mss. given under Gṛhyatātparyadarśana.
 <HI1>Antyeṣṭividhi. {%read%} B. 1, 146.
 <HI1>Cayanaprayoga. {%add%} Oppert II, 7179.
 <HI1>Paśubandha. {%read%} B. 1, 148.
@@ -19,12 +19,12 @@
 <HI1><symbol n="C.">C.</symbol> by Kapardisvāmin. {%add%} Brl. 22.
 <HI1><symbol n="C.">C.</symbol> by Karavindasvāmin. {%add%} Burnell 15^b.
 <HI1><symbol n="C.">C.</symbol> Śulbapradīpa by Sundararāja. {%add%} Khn. 84.
-<>K. 112.
+K. 112.
 <HI1><symbol n="CC.">CC.</symbol> Śulbapradīpavivaraṇa by the same. L. 1459.
 <HI1>Saṃdhyā. {%read%} B. 1, 150.
 <HI1>Sāmayācārikasūtra. {%add%} Oppert I, 256. 5062.
-<>{%delete%} L. 1521 which contains some Sāmā-
-<>nyasūtra.
+{%delete%} L. 1521 which contains some Sāmā-
+nyasūtra.
 <HI1><symbol n="C.">C.</symbol> by Haradatta. {%add%} K. 166. SB. 90.
 <HI1>Sāmānyasūtravṛtti by Dhūrtasvāmin. {%add%} K. 12.
 <LEND>

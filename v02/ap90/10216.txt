@@ -1,10 +1,10 @@
 <L>10216<pc>0375-c<k1>कंथा<k2>कंथा
 {#कंथा#}¦ {@1@} A patched garment, <lbinfo n="wal+let"/>
-<>wallet (worn by ascetics); {#जीर्णा कंथा#}
-<>{#ततः किं#} <ls>Bh. 3. 74</ls>, <ls n="Bh.">19. 86</ls>;  <lbinfo n="ls:Śānti.+4"/>
-<><ls>Śānti. 4. 4</ls>, <ls n="Śānti. 4.">19.</ls> {@--2@} A wall. {@--3@} A town.
-<>{@--Comp.@} {#--धारणं#} wearing a patched
-<>garment, as practised by some <lbinfo n="Yo+gins"/>
-<>Yogins. {#--धारिन्#} {%<ab>m.</ab>%} a religious <lbinfo n="men+dicant"/>
-<>mendicant, Yogin.
+wallet (worn by ascetics); {#जीर्णा कंथा#}
+{#ततः किं#} <ls>Bh. 3. 74</ls>, <ls n="Bh.">19. 86</ls>;  <lbinfo n="ls:Śānti.+4"/>
+<ls>Śānti. 4. 4</ls>, <ls n="Śānti. 4.">19.</ls> {@--2@} A wall. {@--3@} A town.
+{@--Comp.@} {#--धारणं#} wearing a patched
+garment, as practised by some <lbinfo n="Yo+gins"/>
+Yogins. {#--धारिन्#} {%<ab>m.</ab>%} a religious <lbinfo n="men+dicant"/>
+mendicant, Yogin.
 <LEND>

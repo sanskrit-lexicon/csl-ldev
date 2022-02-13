@@ -1,12 +1,12 @@
 <L>2590<pc>094<k1>debt<k2>debt
 {@Debt,@}¦ {%s.%} {#ऋणं;#} ‘pay off or discharge a d.’
-<div n="lb"/>{#ऋणं दा#} 3 U or {#शुध्#} c., {#अनृणतां-आनृण्यं#}
-<div n="lb"/>{#गम्#} 1 P; ‘he paid off the d. of his
-<div n="lb"/>master by his life’ {#स्वासुभिर्भर्तुरानृण्यं#}
-<div n="lb"/>{#गतः#} (M. 5); ‘discharge of d.’ {#ऋण-#}
-<div n="lb"/>{#-शोधनं-निस्तारः, ऋणमोक्षः;#} ‘involved in
-<div n="lb"/>d.’ {#ऋणग्रस्त, ऋणिन्;#} ‘run into or
-<div n="lb"/>incur d.’ {#ऋणं कृ, ऋणं ग्रह्#} 9 P; ‘free
-<div n="lb"/>from d.’ {#अनृण#}. {@-or,@} {%s.%} {#ऋणिन्#} {%m.,%}
-<div n="lb"/>{#अधमर्णः#}.
+{#ऋणं दा#} 3 U or {#शुध्#} c., {#अनृणतां-आनृण्यं#}
+{#गम्#} 1 P; ‘he paid off the d. of his
+master by his life’ {#स्वासुभिर्भर्तुरानृण्यं#}
+{#गतः#} (M. 5); ‘discharge of d.’ {#ऋण-#}
+{#-शोधनं-निस्तारः, ऋणमोक्षः;#} ‘involved in
+d.’ {#ऋणग्रस्त, ऋणिन्;#} ‘run into or
+incur d.’ {#ऋणं कृ, ऋणं ग्रह्#} 9 P; ‘free
+from d.’ {#अनृण#}. {@-or,@} {%s.%} {#ऋणिन्#} {%m.,%}
+{#अधमर्णः#}.
 <LEND>

@@ -1,9 +1,9 @@
 <L>4625<pc>0275-a<k1>ग्रन्थ<k2>ग्रन्थ
 {#ग्रन्थ#}¦ {%granth + a,%} <ab>m.</ab> {@1.@} A literary
-<div n="lb">composition, a book, <ls>Rām.</ls> 2, 108, 16;
-<div n="lb"><ls>MBh.</ls> 12, 11340. {@2.@} Wealth, <ls>Pañc.</ls> i.
-<div n="lb"><ab>d.</ab> 12. {@ -- <ab>Comp.</ab>@} {%Tarka-,%} <ab>m.</ab> a compendium
-<div n="lb">of logic, <ls>Suśr.</ls> 2, 360, 13. {%Nis-,%} <ab>adj.</ab> free
-<div n="lb">from every worldly tie or interest,
-<div n="lb"><ls>Bhāg. P.</ls> 1, 7, 10.
+composition, a book, <ls>Rām.</ls> 2, 108, 16;
+<ls>MBh.</ls> 12, 11340. {@2.@} Wealth, <ls>Pañc.</ls> i.
+<ab>d.</ab> 12. {@ -- <ab>Comp.</ab>@} {%Tarka-,%} <ab>m.</ab> a compendium
+of logic, <ls>Suśr.</ls> 2, 360, 13. {%Nis-,%} <ab>adj.</ab> free
+from every worldly tie or interest,
+<ls>Bhāg. P.</ls> 1, 7, 10.
 <LEND>

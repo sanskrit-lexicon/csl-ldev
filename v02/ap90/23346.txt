@@ -1,26 +1,26 @@
 <L>23346<pc>0873-b<k1>मूत्रं<k2>मूत्रं
 {#मूत्रं#}¦ Urine; {#नाप्सु मूत्रं समूत्सृजेत्#}
-<><ls>Ms. 4. 56</ls>; {#मूत्रं चकार#} ‘made water’.
-<>{@--Comp.@} {#--आघातः#} a urinary disease.
-<>{#--आशयः#} the lower belly. {#--उत्संग#}
-<>see {#मूत्रसंग --कृच्छ्र#} painful discharge
-<>of urine, strangury. {#--कोशः#} the
-<>scrotum. {#--क्षयः#} insufficient <lbinfo n="secre+tion"/>
-<>secretion of urine. {#--ग्रथिः#} a knot or <lbinfo n="in+duration"/>
-<>induration on the neck of the <lbinfo n="blad+der"/>
-<>bladder. {#--जठरः --रं#} the swelling of the
-<>belly caused by retention of urine.
-<>{#--दोषः#} a urinary disease. {#--निरोधः#}
-<>retention of urine. {#--पतनः#} a <lbinfo n="civet+cat"/>
-<>civetcat. {#--पथः#} the urinary passage.
-<>{#--परीक्षा#} uroscopy or examination
-<>of urine. {#--पुटं#} the lewer belly
-<>{#--मार्गः, --प्रसेकः#} the urethra. {#--वर्धक#}
-<>{%<ab>a.</ab>%} diuretic. {#--वृद्धिः#} {%<ab>f.</ab>%} copious <lbinfo n="se+cretion"/>
-<>secretion of urine. {#--शकृत्#} {%<ab>n.</ab>%} urine
-<>and excrement. {#--शुक्रं#} a disease in
-<>which semen is discharged along
-<>with urine. {#--शूलः --लं#} urinary colic.
-<>{#--संगः#} urinary obstruction, a <lbinfo n="pain+ful"/>
-<>painful and bloody discharge of urine.
+<ls>Ms. 4. 56</ls>; {#मूत्रं चकार#} ‘made water’.
+{@--Comp.@} {#--आघातः#} a urinary disease.
+{#--आशयः#} the lower belly. {#--उत्संग#}
+see {#मूत्रसंग --कृच्छ्र#} painful discharge
+of urine, strangury. {#--कोशः#} the
+scrotum. {#--क्षयः#} insufficient <lbinfo n="secre+tion"/>
+secretion of urine. {#--ग्रथिः#} a knot or <lbinfo n="in+duration"/>
+induration on the neck of the <lbinfo n="blad+der"/>
+bladder. {#--जठरः --रं#} the swelling of the
+belly caused by retention of urine.
+{#--दोषः#} a urinary disease. {#--निरोधः#}
+retention of urine. {#--पतनः#} a <lbinfo n="civet+cat"/>
+civetcat. {#--पथः#} the urinary passage.
+{#--परीक्षा#} uroscopy or examination
+of urine. {#--पुटं#} the lewer belly
+{#--मार्गः, --प्रसेकः#} the urethra. {#--वर्धक#}
+{%<ab>a.</ab>%} diuretic. {#--वृद्धिः#} {%<ab>f.</ab>%} copious <lbinfo n="se+cretion"/>
+secretion of urine. {#--शकृत्#} {%<ab>n.</ab>%} urine
+and excrement. {#--शुक्रं#} a disease in
+which semen is discharged along
+with urine. {#--शूलः --लं#} urinary colic.
+{#--संगः#} urinary obstruction, a <lbinfo n="pain+ful"/>
+painful and bloody discharge of urine.
 <LEND>

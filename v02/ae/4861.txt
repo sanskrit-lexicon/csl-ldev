@@ -1,6 +1,6 @@
 <L>4861<pc>201<k1>helm<k2>helm
 {@Helm,@}¦ {%s.%} {#कर्णः, केनिपातः-तकः, अरित्रं#}. {@2@}
-<div n="lb"/>{@Helmet,@} q. v.; ‘placed at the h. of
-<div n="lb"/>(royal) affairs’ {#राज्यधुरायां स्थापित#}.
-<div n="lb"/>{@-Helmsman,@} {%s.%} {#कर्णधारः, नाविकः#}.
+{@Helmet,@} q. v.; ‘placed at the h. of
+(royal) affairs’ {#राज्यधुरायां स्थापित#}.
+{@-Helmsman,@} {%s.%} {#कर्णधारः, नाविकः#}.
 <LEND>

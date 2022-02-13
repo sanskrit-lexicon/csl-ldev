@@ -1,22 +1,22 @@
 <L>23103<pc>0864-b<k1>मासः<k2>मासः, --सं
 {#मासः, --सं#}¦ [{#मा एव अण्#}] {@1@} A month;
-<>(it may be {#चांद्र, सौर, सावन, नाक्षत्र#} or
-<>{#बार्हस्पत्य#}); {#न मासे प्रतिपत्तासे मां#} <lbinfo n="cenma#rtAsi"/>
-<>{#चेन्मर्तासि मैथिलि#} <ls>Bk. 8. 95.</ls> {@--2@} The moon
-<>(<ab>Ved.</ab>). {@--3@} The number ‘twelve’.
-<>{@--Comp.@} {#--अनुमासिक#} {%<ab>a.</ab>%} monthly.
-<>{#--अंतः#} the day of new moon.  <lbinfo n="--a#vaDika"/>
-<>{#--अवधिक#} {%<ab>a.</ab>%} lasting for or occurring in
-<>a month. {#--आहार#} {%<ab>a.</ab>%} eating only
-<>once a month. {#--उपवासिनी#} {1} a
-<>woman who fasts for a whole
-<>month. {2} a procuress, a lascivious
-<>or lewd woman (ironically).  <lbinfo n="--kA#lika"/>
-<>{#--कालिक#} {%<ab>a.</ab>%} monthly, lasting for a
-<>month. {#--जात#} {%<ab>a.</ab>%} a month old,
-<>born a month ago. {#--ज्ञः#} a kind of
-<>gallinule. {#--देय#} {%<ab>a.</ab>%} to be paid in a
-<>month. {#--प्रमितः#} the new-moon,
-<>{#--प्रवेशः#} the beginning of a month
-<>{#--मानः#} a year.
+(it may be {#चांद्र, सौर, सावन, नाक्षत्र#} or
+{#बार्हस्पत्य#}); {#न मासे प्रतिपत्तासे मां#} <lbinfo n="cenma#rtAsi"/>
+{#चेन्मर्तासि मैथिलि#} <ls>Bk. 8. 95.</ls> {@--2@} The moon
+(<ab>Ved.</ab>). {@--3@} The number ‘twelve’.
+{@--Comp.@} {#--अनुमासिक#} {%<ab>a.</ab>%} monthly.
+{#--अंतः#} the day of new moon.  <lbinfo n="--a#vaDika"/>
+{#--अवधिक#} {%<ab>a.</ab>%} lasting for or occurring in
+a month. {#--आहार#} {%<ab>a.</ab>%} eating only
+once a month. {#--उपवासिनी#} {1} a
+woman who fasts for a whole
+month. {2} a procuress, a lascivious
+or lewd woman (ironically).  <lbinfo n="--kA#lika"/>
+{#--कालिक#} {%<ab>a.</ab>%} monthly, lasting for a
+month. {#--जात#} {%<ab>a.</ab>%} a month old,
+born a month ago. {#--ज्ञः#} a kind of
+gallinule. {#--देय#} {%<ab>a.</ab>%} to be paid in a
+month. {#--प्रमितः#} the new-moon,
+{#--प्रवेशः#} the beginning of a month
+{#--मानः#} a year.
 <LEND>

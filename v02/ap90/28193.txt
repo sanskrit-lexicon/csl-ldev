@@ -1,7 +1,7 @@
 <L>28193<pc>1054-a<k1>शृंगी<k2>शृंगी
 {#शृंगी#}¦ {@1@} Gold used for ornaments.
-<>{@--2@} A kind of medicinal root. {@--3@} A
-<>kind of poison. {@--4@} The sheat-fish.
-<>{@--Comp.@} {#--कनकं#} gold used for <lbinfo n="orna+ments"/>
-<>ornaments.
+{@--2@} A kind of medicinal root. {@--3@} A
+kind of poison. {@--4@} The sheat-fish.
+{@--Comp.@} {#--कनकं#} gold used for <lbinfo n="orna+ments"/>
+ornaments.
 <LEND>

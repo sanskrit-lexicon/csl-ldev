@@ -1,14 +1,14 @@
 <L>1645<pc>0084-b<k1>आयुस्<k2>आयुस्
 {#आयुस्#}¦ {%āyus,%} <ab>n.</ab> Life, <ls>Man.</ls> 1, 84. {@ --@}
-<div n="lb">{@<ab>Comp.</ab>@} {%Alpa-,%} <ab>adj.</ab> short-lived, <ls>Man.</ls> 4,
-<div n="lb">157. {%Kṣīṇa-%} (<ab>vb.</ab> {%kṣi%}), <ab>adj.</ab> lifeless,
-<div n="lb"><ls>Sāv.</ls> 2, 23. {%Gata-,%} <ab>adj.</ab> 1. lifeless,
-<div n="lb"><ls>Pañc.</ls> 101, 23. 2. whose life is forfeited,
-<div n="lb"><ls>Rām.</ls> 6, 1, 10. {%Dīrgha-,%} <ab>adj.</ab> 1. long.
-<div n="lb">lived, <ls>Rām.</ls> 1, 6, 18. 2. wished to be
-<div n="lb">long-lived, <ls>Rām.</ls> 3, 1, 11. {%Pari-mita-%}
-<div n="lb">(<ab>vb.</ab> {%mā%}), <ab>adj.</ab> short-lived, <ls>Rām.</ls> 3, 55,
-<div n="lb">20. {%Śata-,%} <ab>m.</ab> a man a hundred years
-<div n="lb">old, <ls>Lass.</ls> 32, 18; an old man. <ab>Cf.</ab> <lang n="greek"></lang>
+{@<ab>Comp.</ab>@} {%Alpa-,%} <ab>adj.</ab> short-lived, <ls>Man.</ls> 4,
+157. {%Kṣīṇa-%} (<ab>vb.</ab> {%kṣi%}), <ab>adj.</ab> lifeless,
+<ls>Sāv.</ls> 2, 23. {%Gata-,%} <ab>adj.</ab> 1. lifeless,
+<ls>Pañc.</ls> 101, 23. 2. whose life is forfeited,
+<ls>Rām.</ls> 6, 1, 10. {%Dīrgha-,%} <ab>adj.</ab> 1. long.
+lived, <ls>Rām.</ls> 1, 6, 18. 2. wished to be
+long-lived, <ls>Rām.</ls> 3, 1, 11. {%Pari-mita-%}
+(<ab>vb.</ab> {%mā%}), <ab>adj.</ab> short-lived, <ls>Rām.</ls> 3, 55,
+20. {%Śata-,%} <ab>m.</ab> a man a hundred years
+old, <ls>Lass.</ls> 32, 18; an old man. <ab>Cf.</ab> <lang n="greek"></lang>
 <lang n="greek"></lang> <ab>Lat.</ab> aevum, <ab>Goth.</ab> aivs.
 <LEND>

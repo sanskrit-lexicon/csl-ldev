@@ -1,6 +1,6 @@
 <L>21346<pc>0780-a<k1>प्रेषणं<k2>प्रेषणं, --णा
 {#प्रेषणं, --णा#}¦ {@1@} Sending, despatching.
-<>{@--2@} Sending on a mission, directing,
-<>commissioning. {@--3@} Executing a <lbinfo n="com+mission"/>
-<>commission.
+{@--2@} Sending on a mission, directing,
+commissioning. {@--3@} Executing a <lbinfo n="com+mission"/>
+commission.
 <LEND>

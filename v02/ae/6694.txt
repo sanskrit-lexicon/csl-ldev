@@ -1,6 +1,6 @@
 <L>6694<pc>288<k1>millennium<k2>millennium
 {@Millennium, Millenary,@}¦ {%s.%} {#सहस्रवर्षं,#}
-<div n="lb"/>{#सहस्रसंवत्सरं#}. {@-Millennial, -Mille-@}
-<div n="lb"/>{@-narian,@} {%a.%} {#सहस्रवर्षीय-ण, सहस्रवार्षिक#}
-<div n="lb"/>({#की#} {%f.%}).
+{#सहस्रसंवत्सरं#}. {@-Millennial, -Mille-@}
+{@-narian,@} {%a.%} {#सहस्रवर्षीय-ण, सहस्रवार्षिक#}
+({#की#} {%f.%}).
 <LEND>

@@ -1,9 +1,9 @@
 <L>4418<pc>179<k1>garland<k2>garland
 {@Garland,@}¦ {%s.%} {#माला, स्रज्#} {%f.,%} {#माल्यं, आपीडः;#}
-<div n="lb"/>{#शेखरः, हारः;#} ‘g. worn in the hair’ {#ग-#}
-<div n="lb"/>{#-र्भकः;#} ‘g. hanging from the crest’ {#प्र-#}
-<div n="lb"/>{#-भ्रष्टकं, शिखालंबि माल्यं;#} ‘g. worn straight’
-<div n="lb"/>{#प्रालंबः-बिका;#} ‘g. worn sideways’ {#वैक-#}
-<div n="lb"/>{#-क्षिकं;#} ‘g. of pearls’ {#हारः, मुक्तावली,#}
-<div n="lb"/>{#मौक्तिकसरः#}.
+{#शेखरः, हारः;#} ‘g. worn in the hair’ {#ग-#}
+{#-र्भकः;#} ‘g. hanging from the crest’ {#प्र-#}
+{#-भ्रष्टकं, शिखालंबि माल्यं;#} ‘g. worn straight’
+{#प्रालंबः-बिका;#} ‘g. worn sideways’ {#वैक-#}
+{#-क्षिकं;#} ‘g. of pearls’ {#हारः, मुक्तावली,#}
+{#मौक्तिकसरः#}.
 <LEND>

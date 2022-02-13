@@ -1,8 +1,8 @@
 <L>7214<pc>0271-a<k1>आस्राव<k2>आस्राव
 {#आस्राव#}¦ {%<ab>a.</ab>%} Flowing, running. {#--वः#}
-<>{@1@} A wound. {@--2@} Flow, issue, <lbinfo n="dis+charge"/>
-<>discharge. {@--3@} Spittle, saliva. {@--4@} Pain,
-<>affliction. {@--5@} A disease of the body.
-<>{@--Comp.@} {#--भेषजं#} medicament, <lbinfo n="medi+cine"/>
-<>medicine.
+{@1@} A wound. {@--2@} Flow, issue, <lbinfo n="dis+charge"/>
+discharge. {@--3@} Spittle, saliva. {@--4@} Pain,
+affliction. {@--5@} A disease of the body.
+{@--Comp.@} {#--भेषजं#} medicament, <lbinfo n="medi+cine"/>
+medicine.
 <LEND>

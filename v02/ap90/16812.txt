@@ -1,29 +1,29 @@
 <L>16812<pc>0624-b<k1>निमित्तं<k2>निमित्तं
 {#निमित्तं#}¦ [{#नि-मिद्-क्त#} <ls>Tv.</ls>] {@1@} A
-<>cause, motive, ground, reason;  <lbinfo n="ni#mittanEmittikayorayaM"/>
-<>{#निमित्तनैमित्तिकयोरयं क्रमः#} <ls>Ś. 7. 30.</ls> {@--2@}
-<>The instrumental or efficient cause
-<>(<ab>opp.</ab> {#उपादान#}). {@--3@} Any apparent
-<>cause, pretext; {#निमित्तमात्रं भव#} <lbinfo n="savya#sAcin"/>
-<>{#सव्यसाचिन्#} <ls>Bg. 11. 33</ls>; {#निमित्तमात्रेण#} <lbinfo n="pAMqa#vakroDena"/>
-<>{#पांडवक्रोधेन भवितव्यं#} <ls>Ve. 1.</ls> {@--4@} A mark,
-<>sign, token. {@--5@} A butt, mark, target
-<>--{#निमित्तादपराद्धेषोर्धानुष्कस्येव वल्गितं#}  <lbinfo n="ls:Śi.+ 2. 27."/>
-<><ls>Śi. 2. 27.</ls> {@--6@} An omen, prognostic (good
-<>or bad); {#निमित्तं सूचयित्वा#} <ls>Ś. 1</ls>;  <lbinfo n="nimi#ttAni"/>
-<>{#निमित्तानि च पश्यामि विपरीतानि केशव#}  <lbinfo n="ls:Bg.+ 1. 31"/>
-<><ls>Bg. 1. 31</ls>; <ls>R. 1. 86</ls>; <ls>Ms. 6. 50</ls>;  <lbinfo n="ls:Y. 1.+ 203"/>
-<><ls>Y. 1. 203</ls>, <ls n="Y.">3. 171.</ls> ({#निमित्त#} is used at the
-<>end of <ab>comp.</ab> in the sense of ‘caused
-<>or occasioned by’; {#किन्निमित्तोयमातंकः#}
-<><ls>Ś. 3.</ls> {#निमित्तं, निमित्तेन, निनित्तान्#}
-<>‘because of’, ‘on account of.).
-<>{@--Comp.@} {#--अर्थः#} the infinitive mood
-<>(in <ab>gram.</ab>). {#--आवृत्तिः#} {%<ab>f.</ab>%} dependence
-<>on a special cause. {#--कारणं, --हेतुः#} an
-<>instrumental or efficient cause.  <lbinfo n="--kA#laH"/>
-<>{#--कालः#} a specific time. {#--कृत्#} {%<ab>m.</ab>%} a crow.
-<>{#--धर्मः#} {1} expiation. {2} an occasional
-<>rite. {#--विद्#} {%<ab>a.</ab>%} knowing good or bad
-<>omens. ({%--<ab>m.</ab>%}) an astrologer.
+cause, motive, ground, reason;  <lbinfo n="ni#mittanEmittikayorayaM"/>
+{#निमित्तनैमित्तिकयोरयं क्रमः#} <ls>Ś. 7. 30.</ls> {@--2@}
+The instrumental or efficient cause
+(<ab>opp.</ab> {#उपादान#}). {@--3@} Any apparent
+cause, pretext; {#निमित्तमात्रं भव#} <lbinfo n="savya#sAcin"/>
+{#सव्यसाचिन्#} <ls>Bg. 11. 33</ls>; {#निमित्तमात्रेण#} <lbinfo n="pAMqa#vakroDena"/>
+{#पांडवक्रोधेन भवितव्यं#} <ls>Ve. 1.</ls> {@--4@} A mark,
+sign, token. {@--5@} A butt, mark, target
+--{#निमित्तादपराद्धेषोर्धानुष्कस्येव वल्गितं#}  <lbinfo n="ls:Śi.+ 2. 27."/>
+<ls>Śi. 2. 27.</ls> {@--6@} An omen, prognostic (good
+or bad); {#निमित्तं सूचयित्वा#} <ls>Ś. 1</ls>;  <lbinfo n="nimi#ttAni"/>
+{#निमित्तानि च पश्यामि विपरीतानि केशव#}  <lbinfo n="ls:Bg.+ 1. 31"/>
+<ls>Bg. 1. 31</ls>; <ls>R. 1. 86</ls>; <ls>Ms. 6. 50</ls>;  <lbinfo n="ls:Y. 1.+ 203"/>
+<ls>Y. 1. 203</ls>, <ls n="Y.">3. 171.</ls> ({#निमित्त#} is used at the
+end of <ab>comp.</ab> in the sense of ‘caused
+or occasioned by’; {#किन्निमित्तोयमातंकः#}
+<ls>Ś. 3.</ls> {#निमित्तं, निमित्तेन, निनित्तान्#}
+‘because of’, ‘on account of.).
+{@--Comp.@} {#--अर्थः#} the infinitive mood
+(in <ab>gram.</ab>). {#--आवृत्तिः#} {%<ab>f.</ab>%} dependence
+on a special cause. {#--कारणं, --हेतुः#} an
+instrumental or efficient cause.  <lbinfo n="--kA#laH"/>
+{#--कालः#} a specific time. {#--कृत्#} {%<ab>m.</ab>%} a crow.
+{#--धर्मः#} {1} expiation. {2} an occasional
+rite. {#--विद्#} {%<ab>a.</ab>%} knowing good or bad
+omens. ({%--<ab>m.</ab>%}) an astrologer.
 <LEND>

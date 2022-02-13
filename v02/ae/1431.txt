@@ -1,12 +1,12 @@
 <L>1431<pc>048<k1>capacity<k2>capacity
 {@Capacity,@}¦ {%s.%} {#धारणशक्ति#} {%f.,%} {#ग्रहणसामर्थ्यं#}
-<div n="lb"/>(lit. &c fig.); ‘c. for all knowledge’
-<div n="lb"/>{#अशेषविद्याग्रहणसामर्थ्यं#}. {@2@} {#बलं, शक्ति#} {%f.,%}
-<div n="lb"/>{#सामर्थ्यं, पात्रता, योग्यता#}. {@3@} {#परिणामं, वि-#}
-<div n="lb"/>{#-स्तारः#}. {@4@} (Relation) gen. ex. by {#इति#}
-<div n="lb"/>or {#रूपेण;#} ‘he served the king in the c.
-<div n="lb"/>of a servant’ {#सेवकरूपेण राजानं सिषेवे;#}
-<div n="lb"/>{#अवस्था, भावः, वृत्ति#} {%f.,%} {#विषयः; विधेयविषये#}
-<div n="lb"/>{#सभवान्नियुंक्ते#} (Mal. 1) ‘employs me
-<div n="lb"/>in the c. of a servant.’
+(lit. &c fig.); ‘c. for all knowledge’
+{#अशेषविद्याग्रहणसामर्थ्यं#}. {@2@} {#बलं, शक्ति#} {%f.,%}
+{#सामर्थ्यं, पात्रता, योग्यता#}. {@3@} {#परिणामं, वि-#}
+{#-स्तारः#}. {@4@} (Relation) gen. ex. by {#इति#}
+or {#रूपेण;#} ‘he served the king in the c.
+of a servant’ {#सेवकरूपेण राजानं सिषेवे;#}
+{#अवस्था, भावः, वृत्ति#} {%f.,%} {#विषयः; विधेयविषये#}
+{#सभवान्नियुंक्ते#} (Mal. 1) ‘employs me
+in the c. of a servant.’
 <LEND>

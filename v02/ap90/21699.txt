@@ -1,13 +1,13 @@
 <L>21699<pc>0795-a<k1>बालक<k2>बालक
 {#बालक#}¦ {%<ab>a.</ab>%} ({#लिका#} {%<ab>f.</ab>%}) [{#बाल स्वार्थे क#}]
-<>{@1@} Childlike, young, not yet <lbinfo n="full+grown"/>
-<>fullgrown. {@--2@} Ignorant. {#--कः#} {@1@} A
-<>child, boy. {@--2@} A minor (in law).
-<>{@--3@} A finger-ring. {@--4@} A fool or <lbinfo n="block+head"/>
-<>blockhead. {@--5@} A bracelet. {@--6@} The tail
-<>of a horse or elephant. {@--7@} Hair.
-<>{#--कं#} {@1@} A finger-ring. {@--2@} A bracelet.
-<>{@--Comp.@} {#--प्रिय#} {%<ab>a.</ab>%} fond of children.
-<>({#--या#}) colocynth or plantain.  <lbinfo n="--ha#tyA"/>
-<>{#--हत्या#} infanticide.
+{@1@} Childlike, young, not yet <lbinfo n="full+grown"/>
+fullgrown. {@--2@} Ignorant. {#--कः#} {@1@} A
+child, boy. {@--2@} A minor (in law).
+{@--3@} A finger-ring. {@--4@} A fool or <lbinfo n="block+head"/>
+blockhead. {@--5@} A bracelet. {@--6@} The tail
+of a horse or elephant. {@--7@} Hair.
+{#--कं#} {@1@} A finger-ring. {@--2@} A bracelet.
+{@--Comp.@} {#--प्रिय#} {%<ab>a.</ab>%} fond of children.
+({#--या#}) colocynth or plantain.  <lbinfo n="--ha#tyA"/>
+{#--हत्या#} infanticide.
 <LEND>

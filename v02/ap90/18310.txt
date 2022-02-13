@@ -1,33 +1,33 @@
 <L>18310<pc>0682-b<k1>परिसंख्या<k2>परिसंख्या
 {#परिसंख्या#}¦ {@1@} Enumeration, <lbinfo n="com+putation"/>
-<>computation. {@--2@} Sum, total, number;
-<>{#वित्तस्य विद्यापरिसंख्यया मे#} <ls>R. 5. 21.</ls>
-<>{@--3@} (In <ls>Mīm.</ls> <ab>phil.</ab>) Exclusion,
-<>specification, limitation to that which
-<>is enumerated or expressly <lbinfo n="men+tioned"/>
-<>mentioned, so that everything else is
-<>excluded; ({#परिसंख्या#} is opposed to
-<>{#विधि#} which lays down a rule for the
-<>first time, and to {#नियम#} which restricts
-<>the choice to an alternative which
-<>is expressly stated when several
-<>such alternatives are possible);  <lbinfo n="vi#DiratyaMtamaprAptO"/>
-<>{#विधिरत्यंतमप्राप्तौ नियमः पाक्षिके सति ।#} <lbinfo n="ta#tra"/>
-<>{#तत्र चान्यत्र च प्राप्तौ परिसंख्येति#} <lbinfo n="gIya#te"/>
-<>{#गीयते ॥#} {%<ab>e. g.</ab>%} {#पंच पंचनखा भक्ष्याः#} <lbinfo n="usu+ally"/>
-<>usually quoted by the Mīmāṃsakas;
-<>{#अयं नियमविधिर्न तु परिसंख्या#} <ls>Kull.</ls>
-<>on <ls>Ms. 3. 45.</ls> {@--4@} (In <ab>Rhet.</ab>) <lbinfo n="Spe+cial"/>
-<>Special mention or exclusive <lbinfo n="speci+fication"/>
-<>specification, {%<ab>i. e.</ab>%} where with or <lbinfo n="with+out"/>
-<>without a query something is affirmed
-<>for the denial, expressed or <lbinfo n="un+derstood"/>
-<>understood, of something else <lbinfo n="simi+lar"/>
-<>similar to it; (this figure is <lbinfo n="particu+larly"/>
-<>particularly striking when it is based on
-<>a {#श्लेष#} or pun); {#यस्मिन् महीं शासति#} <lbinfo n="ci#trakarmasu"/>
-<>{#चित्रकर्मसु वर्णसंकराश्चापेषु गुणच्छेदाः#} &c. or
-<>{#यस्य नूपुरेषु मुखरता विवाहेषु करग्रहणं तुरंगेषु#}
-<>{#कशाभिघातः#} &c. K; for other examples
-<>see <ls>S. D. 735.</ls> {@--5@} Recapitueation.
+computation. {@--2@} Sum, total, number;
+{#वित्तस्य विद्यापरिसंख्यया मे#} <ls>R. 5. 21.</ls>
+{@--3@} (In <ls>Mīm.</ls> <ab>phil.</ab>) Exclusion,
+specification, limitation to that which
+is enumerated or expressly <lbinfo n="men+tioned"/>
+mentioned, so that everything else is
+excluded; ({#परिसंख्या#} is opposed to
+{#विधि#} which lays down a rule for the
+first time, and to {#नियम#} which restricts
+the choice to an alternative which
+is expressly stated when several
+such alternatives are possible);  <lbinfo n="vi#DiratyaMtamaprAptO"/>
+{#विधिरत्यंतमप्राप्तौ नियमः पाक्षिके सति ।#} <lbinfo n="ta#tra"/>
+{#तत्र चान्यत्र च प्राप्तौ परिसंख्येति#} <lbinfo n="gIya#te"/>
+{#गीयते ॥#} {%<ab>e. g.</ab>%} {#पंच पंचनखा भक्ष्याः#} <lbinfo n="usu+ally"/>
+usually quoted by the Mīmāṃsakas;
+{#अयं नियमविधिर्न तु परिसंख्या#} <ls>Kull.</ls>
+on <ls>Ms. 3. 45.</ls> {@--4@} (In <ab>Rhet.</ab>) <lbinfo n="Spe+cial"/>
+Special mention or exclusive <lbinfo n="speci+fication"/>
+specification, {%<ab>i. e.</ab>%} where with or <lbinfo n="with+out"/>
+without a query something is affirmed
+for the denial, expressed or <lbinfo n="un+derstood"/>
+understood, of something else <lbinfo n="simi+lar"/>
+similar to it; (this figure is <lbinfo n="particu+larly"/>
+particularly striking when it is based on
+a {#श्लेष#} or pun); {#यस्मिन् महीं शासति#} <lbinfo n="ci#trakarmasu"/>
+{#चित्रकर्मसु वर्णसंकराश्चापेषु गुणच्छेदाः#} &c. or
+{#यस्य नूपुरेषु मुखरता विवाहेषु करग्रहणं तुरंगेषु#}
+{#कशाभिघातः#} &c. K; for other examples
+see <ls>S. D. 735.</ls> {@--5@} Recapitueation.
 <LEND>

@@ -1,25 +1,25 @@
 <L>8592<pc>0321-b<k1>उपदिश्<k2>उपदिश्
 {#उपदिश्#}¦ {c6c} <ab>U.</ab> {@1@} To instruct,
-<>teach, explain, advise;  <lbinfo n="yadyatprayoga#vizaye"/>
-<>{#यद्यत्प्रयोगविषये भाविकमुपदिश्यते मया तस्य…#} <lbinfo n="tatta#tpratyupadiSatIva"/>
-<>{#तत्तत्प्रत्युपदिशतीव मे बाला#} <ls>M. 1. 5</ls>;  <lbinfo n="su#KamupadiSyate"/>
-<>{#सुखमुपदिश्यते परस्य#} <ls>K. 156</ls> it is easy
-<>to advise others; {#ज्ञानमुपदिश्#}  <lbinfo n="ls:Bg.+ 4. 34"/>
-<><ls>Bg. 4. 34</ls>; <ls>R. 16. 43.</ls> {@--2@} To point, <lbinfo n="indi+cate"/>
-<>indicate, refer to; {#गुणशेषामुपदिश्य#} <lbinfo n="BA#minIM"/>
-<>{#भामिनीं#} <ls>R. 8. 73</ls>; {#सुवर्णपुरमार्गमुपदेक्ष्यति#}
-<><ls>K. 120</ls>, <ls n="K.">92</ls> point out or tell. {@--3@} To
-<>assign the right place to a thing, <lbinfo n="ar+range"/>
-<>arrange. {@--4@} ({%a%}) To mention, specify,
-<>tell; {#किं कुलेनोपदिष्टेन शीलमेवात्र कारणं#}
-<><ls>Mk. 9. 7</ls>; {#पृषोदरादीनि यथोपदिष्टं#}  <lbinfo n="ls:P. VI. 3.+109"/>
-<><ls>P. VI. 3. 109.</ls> ({%b%}) To inform, announce. {@--5@} To
-<>prescribe, settle, sanction, lay
-<>down; {#न द्वितीयश्च साध्वीनां#} <lbinfo n="kvacidBartopa#diSyate"/>
-<>{#क्वचिद्भर्तोपदिश्यते#} <ls>Ms. 5. 162</ls>, <ls n="Ms.">2. 190</ls>, <ls n="Ms.">3. 14</ls>,
-<><ls n="Ms. 3.">43</ls>; {#पृषोदरादीनि यथोपदिष्टं#}  <lbinfo n="ls:P. VI. 3.+109"/>
-<><ls>P. VI. 3. 109.</ls> {@--6@} To rule over, govern,
-<>command. {@--7@} To name, call;  <lbinfo n="druta#vilaMbitamityupadiSyate"/>
-<>{#द्रुतविलंबितमित्युपदिश्यते#} <ls>Śrut. 28</ls>;  <lbinfo n="ls:Ms.+ 12. 89."/>
-<><ls>Ms. 12. 89.</ls>
+teach, explain, advise;  <lbinfo n="yadyatprayoga#vizaye"/>
+{#यद्यत्प्रयोगविषये भाविकमुपदिश्यते मया तस्य…#} <lbinfo n="tatta#tpratyupadiSatIva"/>
+{#तत्तत्प्रत्युपदिशतीव मे बाला#} <ls>M. 1. 5</ls>;  <lbinfo n="su#KamupadiSyate"/>
+{#सुखमुपदिश्यते परस्य#} <ls>K. 156</ls> it is easy
+to advise others; {#ज्ञानमुपदिश्#}  <lbinfo n="ls:Bg.+ 4. 34"/>
+<ls>Bg. 4. 34</ls>; <ls>R. 16. 43.</ls> {@--2@} To point, <lbinfo n="indi+cate"/>
+indicate, refer to; {#गुणशेषामुपदिश्य#} <lbinfo n="BA#minIM"/>
+{#भामिनीं#} <ls>R. 8. 73</ls>; {#सुवर्णपुरमार्गमुपदेक्ष्यति#}
+<ls>K. 120</ls>, <ls n="K.">92</ls> point out or tell. {@--3@} To
+assign the right place to a thing, <lbinfo n="ar+range"/>
+arrange. {@--4@} ({%a%}) To mention, specify,
+tell; {#किं कुलेनोपदिष्टेन शीलमेवात्र कारणं#}
+<ls>Mk. 9. 7</ls>; {#पृषोदरादीनि यथोपदिष्टं#}  <lbinfo n="ls:P. VI. 3.+109"/>
+<ls>P. VI. 3. 109.</ls> ({%b%}) To inform, announce. {@--5@} To
+prescribe, settle, sanction, lay
+down; {#न द्वितीयश्च साध्वीनां#} <lbinfo n="kvacidBartopa#diSyate"/>
+{#क्वचिद्भर्तोपदिश्यते#} <ls>Ms. 5. 162</ls>, <ls n="Ms.">2. 190</ls>, <ls n="Ms.">3. 14</ls>,
+<ls n="Ms. 3.">43</ls>; {#पृषोदरादीनि यथोपदिष्टं#}  <lbinfo n="ls:P. VI. 3.+109"/>
+<ls>P. VI. 3. 109.</ls> {@--6@} To rule over, govern,
+command. {@--7@} To name, call;  <lbinfo n="druta#vilaMbitamityupadiSyate"/>
+{#द्रुतविलंबितमित्युपदिश्यते#} <ls>Śrut. 28</ls>;  <lbinfo n="ls:Ms.+ 12. 89."/>
+<ls>Ms. 12. 89.</ls>
 <LEND>

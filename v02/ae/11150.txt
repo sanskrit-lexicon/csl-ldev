@@ -1,5 +1,5 @@
 <L>11150<pc>491<k1>warrior<k2>warrior
 {@Warrior,@}¦ {%s.%} {#भटः, योधः, योद्धृ#} {%m.,%} {#वीरः,#}
-<div n="lb"/>{#रथिन्#} {%m.,%} {#विक्रांतः;#} {%See%} {@Hero, Soldier;@}
-<div n="lb"/>‘w. s on the enemy's side’ {#प्रतिभटाः#}.
+{#रथिन्#} {%m.,%} {#विक्रांतः;#} {%See%} {@Hero, Soldier;@}
+‘w. s on the enemy's side’ {#प्रतिभटाः#}.
 <LEND>

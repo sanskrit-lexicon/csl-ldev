@@ -1,19 +1,19 @@
 <L>24710<pc>0932-a<k1>लेखः<k2>लेखः
 {#लेखः#}¦ [{#लिख्-भावे घञ्#}] {@1@} A <lbinfo n="writ+ing"/>
-<>writing, document, written document
-<>(of any kind), a letter; {#लेखोयं न#}
-<>{#ममेति नोत्तरमिदं मुद्रा मदीया यतः#}  <lbinfo n="ls:Mu.+ 5. 18"/>
-<><ls>Mu. 5. 18</ls>; {#निर्धारितेऽर्थे लेखेन खलूक्त्वा खलु#}
-<>{#वाचिकं#} <ls>Śi. 2. 70</ls>; {#अनंगलेख#}  <lbinfo n="ls:Ku. 1.+ 7"/>
-<><ls>Ku. 1. 7</ls>; {#मन्मथलेख#} <ls>Ś. 3. 26.</ls> {@--2@} A god,
-<>deity. {@--Comp.@} {#--अक्षरं#} writing (<ab>opp.</ab>
-<>{#आलेख्य#}). {#--आधिकारिन्#} {%<ab>m.</ab>%} one in
-<>charge of writing letters, the <lbinfo n="secre+tary"/>
-<>secretary (of a king &c.). {#--अर्हः#} a kind
-<>of palm tree. {#--ऋषभः#} <ab>N.</ab> of Indra.
-<>{#--पत्रं, --पत्रिका#} {1} an epistle, a letter,
-<>writing in general. {2} a deed,
-<>document (legal). {#--संदेशः#} a <lbinfo n="writ+ten"/>
-<>written message. {#--हारः, --हारिन्#} {%<ab>m.</ab>%} a <lbinfo n="let+ter"/>
-<>letter-carrier.
+writing, document, written document
+(of any kind), a letter; {#लेखोयं न#}
+{#ममेति नोत्तरमिदं मुद्रा मदीया यतः#}  <lbinfo n="ls:Mu.+ 5. 18"/>
+<ls>Mu. 5. 18</ls>; {#निर्धारितेऽर्थे लेखेन खलूक्त्वा खलु#}
+{#वाचिकं#} <ls>Śi. 2. 70</ls>; {#अनंगलेख#}  <lbinfo n="ls:Ku. 1.+ 7"/>
+<ls>Ku. 1. 7</ls>; {#मन्मथलेख#} <ls>Ś. 3. 26.</ls> {@--2@} A god,
+deity. {@--Comp.@} {#--अक्षरं#} writing (<ab>opp.</ab>
+{#आलेख्य#}). {#--आधिकारिन्#} {%<ab>m.</ab>%} one in
+charge of writing letters, the <lbinfo n="secre+tary"/>
+secretary (of a king &c.). {#--अर्हः#} a kind
+of palm tree. {#--ऋषभः#} <ab>N.</ab> of Indra.
+{#--पत्रं, --पत्रिका#} {1} an epistle, a letter,
+writing in general. {2} a deed,
+document (legal). {#--संदेशः#} a <lbinfo n="writ+ten"/>
+written message. {#--हारः, --हारिन्#} {%<ab>m.</ab>%} a <lbinfo n="let+ter"/>
+letter-carrier.
 <LEND>

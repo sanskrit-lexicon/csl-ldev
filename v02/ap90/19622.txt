@@ -1,7 +1,7 @@
 <L>19622<pc>0728-b<k1>प्रग्रीवः<k2>प्रग्रीवः --वम्
 {#प्रग्रीवः --वम्#}¦ {@1@} A painted turret.
-<>{@--2@} A wooden fence round a <lbinfo n="build+ing"/>
-<>building. {@--3@} A window. {@--4@} A stable. {@--5@}
-<>The top of a tree. {@--6@} A <lbinfo n="pleasure+house"/>
-<>pleasurehouse.
+{@--2@} A wooden fence round a <lbinfo n="build+ing"/>
+building. {@--3@} A window. {@--4@} A stable. {@--5@}
+The top of a tree. {@--6@} A <lbinfo n="pleasure+house"/>
+pleasurehouse.
 <LEND>

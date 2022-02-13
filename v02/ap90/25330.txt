@@ -1,39 +1,39 @@
 <L>25330<pc>0955-b<k1>वाक्यं<k2>वाक्यं
 {#वाक्यं#}¦ [{#वच्-ण्यत् चस्य कः#}] {@1@} Speech,
-<>words, a sentence, saying, what is
-<>spoken; {#शृणु मे वाक्यं#} ‘here my
-<>words’, ‘hear me’; {#वाक्ये न#} <lbinfo n="saMti#zWate"/>
-<>{#संतिष्ठते#} ‘does not obey’; <ls>Śi. 2. 24.</ls>
-<>{@--2@} A sentence, period (complete
-<>utterance of a thought); {#वाक्यं#} <lbinfo n="syA#dyogyatAkAMkzAsattiyuktaH"/>
-<>{#स्याद्योग्यताकांक्षासत्तियुक्तः पदोच्चयः#} <ls>S. D. 6</ls>;
-<>{#पदसमूहो वाक्यं#} <ls>Tarka K.</ls>; {#श्रौत्यार्थी च#}
-<>{#भवेद्वाक्ये समासे तद्धिते तथा#} <ls>K. P. 10.</ls> 
+words, a sentence, saying, what is
+spoken; {#शृणु मे वाक्यं#} ‘here my
+words’, ‘hear me’; {#वाक्ये न#} <lbinfo n="saMti#zWate"/>
+{#संतिष्ठते#} ‘does not obey’; <ls>Śi. 2. 24.</ls>
+{@--2@} A sentence, period (complete
+utterance of a thought); {#वाक्यं#} <lbinfo n="syA#dyogyatAkAMkzAsattiyuktaH"/>
+{#स्याद्योग्यताकांक्षासत्तियुक्तः पदोच्चयः#} <ls>S. D. 6</ls>;
+{#पदसमूहो वाक्यं#} <ls>Tarka K.</ls>; {#श्रौत्यार्थी च#}
+{#भवेद्वाक्ये समासे तद्धिते तथा#} <ls>K. P. 10.</ls> 
 [Page0955-c+ 57]
-<>{@--3@} An argument or syllogism (in
-<>logic). {@--4@} A precept, rule, an
-<>aphorism. {@--5@} (In <ab>astr.</ab>) The solar
-<>process for all astronomical <lbinfo n="com+putations"/>
-<>computations. {@--Comp.@} {#--अर्थः#} the <lbinfo n="mean+ing"/>
-<>meaning of a sentence. {#°उपमा#} a variety
-<>of Upamā according to Daṇḍin; see
-<><ls>Kāv. 2. 43.</ls> {#--आलापः#} conversation, <lbinfo n="dis+course"/>
-<>discourse. {#--खंडनं#} refutation of an <lbinfo n="as+sertion"/>
-<>assertion or argument. {#--पदं#} a word
-<>in a sentence. {#--पदीयं#} <ab>N.</ab> of a work
-<>attributed to Bhartṛhari. {#--पद्धतिः#}
-<>{%<ab>f.</ab>%} the manner of composing <lbinfo n="senten+ces"/>
-<>sentences, diction, style. {#--प्रबंधः#} {1} a
-<>treatise, connected composition. {2}
-<>the flow of sentences. {#--प्रयोगः#} <lbinfo n="em+ployment"/>
-<>employment of speech, use of language.
-<>{#--भेदः#} a different assertion, a <lbinfo n="diver+gent"/>
-<>divergent statement; {#वाक्यभेदान्बहूनगमत्#}
-<><ls>Mu. 2.</ls> {#--रचना, --विन्यासः#} <lbinfo n="arrange+ment"/>
-<>arrangement of words in a sentence, syntax.
-<>{#--विशारद#} {%<ab>a.</ab>%} eloquent, skilled in
-<>speech. {#--शेषः#} {1} the remainder of a
-<>speech, an unfinished or incomplete
-<>sentence; {#सदोषावकाश इव ते#} <lbinfo n="vAkyaSe#zaH"/>
-<>{#वाक्यशेषः#} <ls>V. 3.</ls> {2} an elliptical sentence.
+{@--3@} An argument or syllogism (in
+logic). {@--4@} A precept, rule, an
+aphorism. {@--5@} (In <ab>astr.</ab>) The solar
+process for all astronomical <lbinfo n="com+putations"/>
+computations. {@--Comp.@} {#--अर्थः#} the <lbinfo n="mean+ing"/>
+meaning of a sentence. {#°उपमा#} a variety
+of Upamā according to Daṇḍin; see
+<ls>Kāv. 2. 43.</ls> {#--आलापः#} conversation, <lbinfo n="dis+course"/>
+discourse. {#--खंडनं#} refutation of an <lbinfo n="as+sertion"/>
+assertion or argument. {#--पदं#} a word
+in a sentence. {#--पदीयं#} <ab>N.</ab> of a work
+attributed to Bhartṛhari. {#--पद्धतिः#}
+{%<ab>f.</ab>%} the manner of composing <lbinfo n="senten+ces"/>
+sentences, diction, style. {#--प्रबंधः#} {1} a
+treatise, connected composition. {2}
+the flow of sentences. {#--प्रयोगः#} <lbinfo n="em+ployment"/>
+employment of speech, use of language.
+{#--भेदः#} a different assertion, a <lbinfo n="diver+gent"/>
+divergent statement; {#वाक्यभेदान्बहूनगमत्#}
+<ls>Mu. 2.</ls> {#--रचना, --विन्यासः#} <lbinfo n="arrange+ment"/>
+arrangement of words in a sentence, syntax.
+{#--विशारद#} {%<ab>a.</ab>%} eloquent, skilled in
+speech. {#--शेषः#} {1} the remainder of a
+speech, an unfinished or incomplete
+sentence; {#सदोषावकाश इव ते#} <lbinfo n="vAkyaSe#zaH"/>
+{#वाक्यशेषः#} <ls>V. 3.</ls> {2} an elliptical sentence.
 <LEND>

@@ -1,8 +1,8 @@
 <L>11475<pc>0423-a<k1>केंद्रं<k2>केंद्रं
 {#केंद्रं#}¦ {@1@} The centre of a circle. {@--2@}
-<>The argument of a circle. {@--3@} The
-<>argument of an equation. {@--4@} <lbinfo n="Dis+tance"/>
-<>Distance of a planet from the first
-<>point of its orbit in the 4th, 7th or
-<>10th degree. 
+The argument of a circle. {@--3@} The
+argument of an equation. {@--4@} <lbinfo n="Dis+tance"/>
+Distance of a planet from the first
+point of its orbit in the 4th, 7th or
+10th degree. 
 <LEND>

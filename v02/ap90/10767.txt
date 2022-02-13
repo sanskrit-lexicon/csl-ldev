@@ -1,10 +1,10 @@
 <L>10767<pc>0397-a<k1>कारिका<k2>कारिका
 {#कारिका#}¦ {@1@} A female dancer.
-<>{@--2@} A business, or trade. {@--3@} A
-<>memorial verse, or a collection
-<>of such verses, on grammatical,
-<>philosophical, or scientific subjects;
-<>{%<ab>e. g.</ab>%} Bhartṛhari's Kārikās on <lbinfo n="gram+mar"/>
-<>grammar; {#सांख्यकारिका#}. {@--4@} Torment, <lbinfo n="tor+ture"/>
-<>torture. {@--5@} Interest.
+{@--2@} A business, or trade. {@--3@} A
+memorial verse, or a collection
+of such verses, on grammatical,
+philosophical, or scientific subjects;
+{%<ab>e. g.</ab>%} Bhartṛhari's Kārikās on <lbinfo n="gram+mar"/>
+grammar; {#सांख्यकारिका#}. {@--4@} Torment, <lbinfo n="tor+ture"/>
+torture. {@--5@} Interest.
 <LEND>

@@ -1,27 +1,27 @@
 <L>16103<pc>0599-a<k1>धू<k2>धू
 {#धू#}¦ {c6c} <ab>P.</ab>, {c1c} {c5c} {c9c} {c10c} <ab>U.</ab> ({#धुवति#}, <lbinfo n="Dava#ti"/>
-<>{#धवति-ते, धुनोति, धूनुते, धूनाति, धुनीते#}, <lbinfo n="DUnayati#te"/>
-<>{#धूनयतिते, धूत- धून#}) {@1@} To shake, agitate,
-<>cause to move or tremble; {#धुन्वंति#}
-<>{#पक्षपवनैर्न नभो बलाकाः#} <ls>Rs. 3. 12</ls>;  <lbinfo n="Du#nvan"/>
-<>{#धुन्वन् कल्पद्रुमकिसलयानि#} <ls>Me. 62</ls>;  <lbinfo n="ls:Ku.+ 7. 49"/>
-<><ls>Ku. 7. 49</ls>; <ls>R. 4. 67</ls>; <ls>Bk. 5. 101</ls>, <ls n="Bk.">9. 7</ls>;
-<><ls n="Bk.">10. 22.</ls> {@--2@} To shake off, remove,
-<>throw off; {#स्रजमपि शिरस्यंधः क्षिप्तां#} <lbinfo n="Du#notyahiSaMkayA"/>
-<>{#धुनोत्यहिशंकया#} <ls>Ś. 7. 24.</ls> {@--3@} To blow <lbinfo n="a+way"/>
-<>away, destroy. {@--4@} To kindle, excite,
-<>fan (as fire); {#वायुना धूयमानो हि वनं#}
-<>{#दहति पावकः#} <ls>Mb.</ls>; {#पवनधूतः…अग्निः#}  <lbinfo n="ls:Rs.+ 1. 26."/>
-<><ls>Rs. 1. 26.</ls> {@--5@} To treat roughly, hurt, <lbinfo n="in+jure"/>
-<>injure; {#मा न धावीररिं रणे#} <ls>Bk. 9. 50</ls>;
-<><ls n="Bk.">15. 61.</ls> {@--6@} To shake off from oneself,
-<>free oneself from; {#(सेवकाः) आरोहंति#}
-<>{#शनैः पश्चाद्धुन्वंतमपि पार्थिवं#} <ls>Pt. 1. 36.</ls>
-<>{@--7@} To strive against, resist, oppose.
-<>(The following stanza from <lbinfo n="Kavira+hasya"/>
-<><ls>Kavirahasya</ls> illustrates the root in its <lbinfo n="dif+ferent"/>
-<>different conjugations: {#--धूनोति#} <lbinfo n="caMpakava#nAni"/>
-<>{#चंपकवनानि धुनोत्यशोकं चूतं धुनाति धुवति#} <lbinfo n="sPuwitA#timuktaM"/>
-<>{#स्फुटितातिमुक्तं । वायुर्विधूनयति चंपकपुष्परेणून्#} <lbinfo n="yatkA#nane"/>
-<>{#यत्कानने धवति चंदनमंजरीश्च ॥#}).
+{#धवति-ते, धुनोति, धूनुते, धूनाति, धुनीते#}, <lbinfo n="DUnayati#te"/>
+{#धूनयतिते, धूत- धून#}) {@1@} To shake, agitate,
+cause to move or tremble; {#धुन्वंति#}
+{#पक्षपवनैर्न नभो बलाकाः#} <ls>Rs. 3. 12</ls>;  <lbinfo n="Du#nvan"/>
+{#धुन्वन् कल्पद्रुमकिसलयानि#} <ls>Me. 62</ls>;  <lbinfo n="ls:Ku.+ 7. 49"/>
+<ls>Ku. 7. 49</ls>; <ls>R. 4. 67</ls>; <ls>Bk. 5. 101</ls>, <ls n="Bk.">9. 7</ls>;
+<ls n="Bk.">10. 22.</ls> {@--2@} To shake off, remove,
+throw off; {#स्रजमपि शिरस्यंधः क्षिप्तां#} <lbinfo n="Du#notyahiSaMkayA"/>
+{#धुनोत्यहिशंकया#} <ls>Ś. 7. 24.</ls> {@--3@} To blow <lbinfo n="a+way"/>
+away, destroy. {@--4@} To kindle, excite,
+fan (as fire); {#वायुना धूयमानो हि वनं#}
+{#दहति पावकः#} <ls>Mb.</ls>; {#पवनधूतः…अग्निः#}  <lbinfo n="ls:Rs.+ 1. 26."/>
+<ls>Rs. 1. 26.</ls> {@--5@} To treat roughly, hurt, <lbinfo n="in+jure"/>
+injure; {#मा न धावीररिं रणे#} <ls>Bk. 9. 50</ls>;
+<ls n="Bk.">15. 61.</ls> {@--6@} To shake off from oneself,
+free oneself from; {#(सेवकाः) आरोहंति#}
+{#शनैः पश्चाद्धुन्वंतमपि पार्थिवं#} <ls>Pt. 1. 36.</ls>
+{@--7@} To strive against, resist, oppose.
+(The following stanza from <lbinfo n="Kavira+hasya"/>
+<ls>Kavirahasya</ls> illustrates the root in its <lbinfo n="dif+ferent"/>
+different conjugations: {#--धूनोति#} <lbinfo n="caMpakava#nAni"/>
+{#चंपकवनानि धुनोत्यशोकं चूतं धुनाति धुवति#} <lbinfo n="sPuwitA#timuktaM"/>
+{#स्फुटितातिमुक्तं । वायुर्विधूनयति चंपकपुष्परेणून्#} <lbinfo n="yatkA#nane"/>
+{#यत्कानने धवति चंदनमंजरीश्च ॥#}).
 <LEND>

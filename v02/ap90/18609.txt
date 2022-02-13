@@ -1,20 +1,20 @@
 <L>18609<pc>0691-a<k1>पाठः<k2>पाठः
 {#पाठः#}¦ [{#पठ्-भावे घञ्#}] {@1@} Reciting
-<>recitation, repeating. {@--2@} Reading,
-<>perusal, study. {@--3@} Studying or <lbinfo n="re+citing"/>
-<>reciting the Vedas ({#ब्रह्मयज्ञ#}), one of
-<>the five daily Yajñas or sacrifices to
-<>be performed by Brāhmaṇas {@--4@} The
-<>text of a book, a reading. variant;
-<>{#अत्र गंधवद्गंधमादनं इति आगंतुकः पाठः ।#}
-<>{#प्राचीनपाठस्तु सुगंधिर्गंधमादनः इति#} <lbinfo n="pulliM#gAMtaH"/>
-<>{#पुल्लिंगांतः#} <ls>Malli.</ls> on <ls>Ku. 6. 46.</ls> {@--Comp.@}
-<>{#--अंतरं#} another reading, a variant
-<>(<ab>v. l.</ab>). {#--छेदः#} a pause, cæsura.
-<>{#--दोषः#} a false reading. {#--निश्चयः#} <lbinfo n="de+termining"/>
-<>determining the text of a passage.
-<>{#--भूः#} {%<ab>f.</ab>%} a place where the Vedas
-<>are learnt. {#--मंजरी, --शालिनी#} the <lbinfo n="Sā+rikā"/>
-<>Sārikā bird. {#--शाला#} a school, college,
-<>seminary. {#--शालिन्#} {%<ab>m.</ab>%} a pupil.
+recitation, repeating. {@--2@} Reading,
+perusal, study. {@--3@} Studying or <lbinfo n="re+citing"/>
+reciting the Vedas ({#ब्रह्मयज्ञ#}), one of
+the five daily Yajñas or sacrifices to
+be performed by Brāhmaṇas {@--4@} The
+text of a book, a reading. variant;
+{#अत्र गंधवद्गंधमादनं इति आगंतुकः पाठः ।#}
+{#प्राचीनपाठस्तु सुगंधिर्गंधमादनः इति#} <lbinfo n="pulliM#gAMtaH"/>
+{#पुल्लिंगांतः#} <ls>Malli.</ls> on <ls>Ku. 6. 46.</ls> {@--Comp.@}
+{#--अंतरं#} another reading, a variant
+(<ab>v. l.</ab>). {#--छेदः#} a pause, cæsura.
+{#--दोषः#} a false reading. {#--निश्चयः#} <lbinfo n="de+termining"/>
+determining the text of a passage.
+{#--भूः#} {%<ab>f.</ab>%} a place where the Vedas
+are learnt. {#--मंजरी, --शालिनी#} the <lbinfo n="Sā+rikā"/>
+Sārikā bird. {#--शाला#} a school, college,
+seminary. {#--शालिन्#} {%<ab>m.</ab>%} a pupil.
 <LEND>

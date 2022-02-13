@@ -1,4 +1,4 @@
 <L>6711<pc>289<k1>minion<k2>minion
 {@Minion,@}¦ {%s.%} {#वल्लभः, प्रियः, नृप-राज-वल्लभः;#}
-<div n="lb"/>{%See%} {@Favourite.@}
+{%See%} {@Favourite.@}
 <LEND>

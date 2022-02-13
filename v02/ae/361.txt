@@ -1,6 +1,6 @@
 <L>361<pc>014<k1>anarchy<k2>anarchy
 {@Anarchy,@}¦ {%s.%} {#अशासनं, अनीश्वरता, राजवि-#}
-<div n="lb"/>{#-प्लवः, अराजकता;#} ‘when the country is
-<div n="lb"/>in a.’ {#अराजके जनपदे#}. {@Anarch, Anar-@}
-<div n="lb"/>{@-chist,@} {%a.%} {#अराजकताप्रतिपादक#}
+{#-प्लवः, अराजकता;#} ‘when the country is
+in a.’ {#अराजके जनपदे#}. {@Anarch, Anar-@}
+{@-chist,@} {%a.%} {#अराजकताप्रतिपादक#}
 <LEND>

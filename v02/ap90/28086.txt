@@ -1,8 +1,8 @@
 <L>28086<pc>1050-a<k1>शुंडा<k2>शुंडा
 {#शुंडा#}¦ {@1@} An elephant's trunk. {@--2@}
-<>Spirituous liquor. {@--3@} A tavern, <lbinfo n="dram+shop"/>
-<>dramshop. {@--4@} The stalk of the lotus. {@--5@}
-<>A courtezan, harlot. {@--6@} A bawd, <lbinfo n="pro+curess"/>
-<>procuress. {@--Comp.@} {#--पानं#} a tavern,
-<>dram-shop.
+Spirituous liquor. {@--3@} A tavern, <lbinfo n="dram+shop"/>
+dramshop. {@--4@} The stalk of the lotus. {@--5@}
+A courtezan, harlot. {@--6@} A bawd, <lbinfo n="pro+curess"/>
+procuress. {@--Comp.@} {#--पानं#} a tavern,
+dram-shop.
 <LEND>

@@ -1,16 +1,16 @@
 <L>26707<pc>1001-c<k1>विस्तरः<k2>विस्तरः
 {#विस्तरः#}¦ {@1@} Extension, expansion.
-<>{@--2@} Minute details, detailed <lbinfo n="descrip+tion"/>
-<>description, minute particulars;  <lbinfo n="saMkziptasyA#pyato"/>
-<>{#संक्षिप्तस्याप्यतोऽस्यैव वाक्यस्यार्थगरीयसः ।#} <lbinfo n="suvi#staratarA"/>
-<>{#सुविस्तरतरा वाचो भाष्यभूता भवंतु मे#}  <lbinfo n="ls:Śi. 4.+ 24"/>
-<><ls>Śi. 4. 24</ls>; ({#विस्तरणे, विस्तरतः, विस्तरशः#} ‘in
-<>detail, at length, fully, with minute
-<>details, with full particulars’;  <lbinfo n="aMgu#limudraDigamaM"/>
-<>{#अंगुलिमुद्रधिगमं विस्तरेण श्रोतुमिच्छामि#}
-<><ls>Mu. 1</ls>; <ls>Bg. 10. 18</ls>). {@--3@} Prolixity,
-<>diffuseness; {#अलं विस्तरेण#}. {@--4@} <lbinfo n="Abun+dance"/>
-<>Abundance, quantity, multitude, <lbinfo n="num+ber"/>
-<>number. {@--5@} A bed, layer. {@--6@} A seat,
-<>stool. {@--7@} Affectionate solicitation.
+{@--2@} Minute details, detailed <lbinfo n="descrip+tion"/>
+description, minute particulars;  <lbinfo n="saMkziptasyA#pyato"/>
+{#संक्षिप्तस्याप्यतोऽस्यैव वाक्यस्यार्थगरीयसः ।#} <lbinfo n="suvi#staratarA"/>
+{#सुविस्तरतरा वाचो भाष्यभूता भवंतु मे#}  <lbinfo n="ls:Śi. 4.+ 24"/>
+<ls>Śi. 4. 24</ls>; ({#विस्तरणे, विस्तरतः, विस्तरशः#} ‘in
+detail, at length, fully, with minute
+details, with full particulars’;  <lbinfo n="aMgu#limudraDigamaM"/>
+{#अंगुलिमुद्रधिगमं विस्तरेण श्रोतुमिच्छामि#}
+<ls>Mu. 1</ls>; <ls>Bg. 10. 18</ls>). {@--3@} Prolixity,
+diffuseness; {#अलं विस्तरेण#}. {@--4@} <lbinfo n="Abun+dance"/>
+Abundance, quantity, multitude, <lbinfo n="num+ber"/>
+number. {@--5@} A bed, layer. {@--6@} A seat,
+stool. {@--7@} Affectionate solicitation.
 <LEND>

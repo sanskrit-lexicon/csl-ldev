@@ -1,19 +1,19 @@
 <L>22992<pc>0860-b<k1>मानव<k2>मानव
 {#मानव#}¦ {%<ab>a.</ab>%} ({#वी#} {%<ab>f.</ab>%}) [{#मनोरपत्यं अण्#}]
-<>{@1@} Relating to or descended from
-<>Manu; {#मानवस्य राजर्षिवंशस्य#} <lbinfo n="prasavitA#raM"/>
-<>{#प्रसवितारं सवितारं#} <ls>U. 3</ls>; <ls>Ms. 12. 107.</ls> {@--2@}
-<>Human. {#--वः#} {@1@} A man, human
-<>being; {#मनोर्वंशो मानवानां ततोयं#} <lbinfo n="praTi#no"/>
-<>{#प्रथिनोऽभवत् । ब्रह्मक्षत्रादयस्तस्मान्मनोर्जातास्तु#}
-<>{#मानवाः#} <ls>Mb.</ls>; <ls>Ms. 2. 9</ls>; <ls n="Ms.">5. 35.</ls> {@--2@}
-<>A lad, boy. {@--3@} Mankind (<ab>pl.</ab>). {@--4@}
-<>The subjects of a king (<ab>pl.</ab>). {#--वी#}
-<>A woman. {#--वं#} A particular fine.
-<>{@--Comp.@} {#--इंद्रः, --देवः --पतिः#} a lord of
-<>men, king, sovereign; <ls>R. 14. 32.</ls>
-<>{#--धर्मशास्त्रं#} the institutes of Manu.
-<>{#--राक्षसः#} a demon or fiend in the
-<>form of a man; {#तेऽमी मानवराक्षसाः#}
-<>{#परहितं स्वार्थाय निघ्नंति ये#} <ls>Bh. 2. 74.</ls>
+{@1@} Relating to or descended from
+Manu; {#मानवस्य राजर्षिवंशस्य#} <lbinfo n="prasavitA#raM"/>
+{#प्रसवितारं सवितारं#} <ls>U. 3</ls>; <ls>Ms. 12. 107.</ls> {@--2@}
+Human. {#--वः#} {@1@} A man, human
+being; {#मनोर्वंशो मानवानां ततोयं#} <lbinfo n="praTi#no"/>
+{#प्रथिनोऽभवत् । ब्रह्मक्षत्रादयस्तस्मान्मनोर्जातास्तु#}
+{#मानवाः#} <ls>Mb.</ls>; <ls>Ms. 2. 9</ls>; <ls n="Ms.">5. 35.</ls> {@--2@}
+A lad, boy. {@--3@} Mankind (<ab>pl.</ab>). {@--4@}
+The subjects of a king (<ab>pl.</ab>). {#--वी#}
+A woman. {#--वं#} A particular fine.
+{@--Comp.@} {#--इंद्रः, --देवः --पतिः#} a lord of
+men, king, sovereign; <ls>R. 14. 32.</ls>
+{#--धर्मशास्त्रं#} the institutes of Manu.
+{#--राक्षसः#} a demon or fiend in the
+form of a man; {#तेऽमी मानवराक्षसाः#}
+{#परहितं स्वार्थाय निघ्नंति ये#} <ls>Bh. 2. 74.</ls>
 <LEND>

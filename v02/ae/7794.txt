@@ -1,4 +1,4 @@
 <L>7794<pc>337<k1>penny<k2>penny
 {@Penny,@}¦ {%s.%} {#मुद्रा#}. {@-Penniless,@} {%a.%} {#अकिंचन,#}
-<div n="lb"/>{#निर्धन;#} {%See%} {@Poor.@}
+{#निर्धन;#} {%See%} {@Poor.@}
 <LEND>

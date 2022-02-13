@@ -1,15 +1,15 @@
 <L>108<pc>0005-b<k1>अक्रम<k2>अक्रम
 {#अक्रम#}¦ {%<ab>a.</ab>%} [{#नास्ति क्रमः पादः क्रमणं वा#}
-<>{#यस्य#}] {@1@} Devoid of order, confused.
-<>{@--2@} Without the power of going or
-<>moving ({#पादशून्य, आक्रमणशून्य#}). {#--मः#}
-<>{@1@} Want of order, confusion, <lbinfo n="irre+gularity"/>
-<>irregularity ({#क्रमाभावः#}) {@--2@} Absence of
-<>motion or movement. {@--3@} Breach of
-<>propriety or decorum; {#कमक्रमं#} <lbinfo n="kartuma#BUdapekzA"/>
-<>{#कर्तुमभूदपेक्षा वैलक्ष्यभाजां न महीपतीनां#}  <lbinfo n="ls:Vikr.+ 10. 3"/>
-<><ls>Vikr. 10. 3</ls>; {#कन्यांतःपुरमक्रमात् प्रविशता#}
-<><ls>Mv. 2. 50</ls> indecently, immodestly;
-<>{#वलीमुखचक्रमक्रममुच्चलितं#} <ls>Mv. 6.</ls> in
-<>disorder.
+{#यस्य#}] {@1@} Devoid of order, confused.
+{@--2@} Without the power of going or
+moving ({#पादशून्य, आक्रमणशून्य#}). {#--मः#}
+{@1@} Want of order, confusion, <lbinfo n="irre+gularity"/>
+irregularity ({#क्रमाभावः#}) {@--2@} Absence of
+motion or movement. {@--3@} Breach of
+propriety or decorum; {#कमक्रमं#} <lbinfo n="kartuma#BUdapekzA"/>
+{#कर्तुमभूदपेक्षा वैलक्ष्यभाजां न महीपतीनां#}  <lbinfo n="ls:Vikr.+ 10. 3"/>
+<ls>Vikr. 10. 3</ls>; {#कन्यांतःपुरमक्रमात् प्रविशता#}
+<ls>Mv. 2. 50</ls> indecently, immodestly;
+{#वलीमुखचक्रमक्रममुच्चलितं#} <ls>Mv. 6.</ls> in
+disorder.
 <LEND>

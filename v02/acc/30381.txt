@@ -3,10 +3,10 @@
 <HI1>Śrautasūtra. {%delete%} Oxf. 382^a.
 <HI1><symbol n="C.">C.</symbol> Saṃkṣiptabhāṣya. W. p. 50.
 <HI1><symbol n="C.">C.</symbol> by Karka. {%read%} B. 170 instead of 178, and
-<>B. 13 instead of 3.
+B. 13 instead of 3.
 <HI1><symbol n="CC.">CC.</symbol> Bhāvaviśodhinī by Ātmārāma. L. 866.
 <HI1><symbol n="C.">C.</symbol> by Yājñikadeva. {%read%} IO. 753 ABCD. {%add%}
-<>Ben. 7. {%delete%} IO. 1552 B.
+Ben. 7. {%delete%} IO. 1552 B.
 <HI1><symbol n="C.">C.</symbol> Śrautasūtrapaddhati. {%add%} Mack. 8.
 <HI1><symbol n="C.">C.</symbol> by Harihara. {%delete%} this line.
 <HI1>Pariśiṣṭa. {%read%} Oxf. 382^a.

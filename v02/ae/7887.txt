@@ -1,6 +1,6 @@
 <L>7887<pc>341<k1>petticoat<k2>petticoat
 {@Petticoat,@}¦ {%s.%} {#शाटी, शाटकः, चंडातकं, अर्धो-#}
-<div n="lb"/>{#-रुकं#} (girl's); ‘p. government’ {#स्त्री-#}
-<div n="lb"/>{#-शासनं;#} ‘under p. government’ {#स्त्रीजितः,#}
-<div n="lb"/>{#स्त्रीवशः#}.
+{#-रुकं#} (girl's); ‘p. government’ {#स्त्री-#}
+{#-शासनं;#} ‘under p. government’ {#स्त्रीजितः,#}
+{#स्त्रीवशः#}.
 <LEND>

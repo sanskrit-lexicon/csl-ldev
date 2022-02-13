@@ -1,4 +1,4 @@
 <L>693<pc>025<k1>aviation<k2>aviation
 {@Aviation,@}¦ {%s.%} {#आकाशगमनं#}. {@-Aviator,@} {%s.%}
-<div n="lb"/>{#आकाशगामिन्#} {%m.%}
+{#आकाशगामिन्#} {%m.%}
 <LEND>

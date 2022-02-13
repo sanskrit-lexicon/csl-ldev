@@ -1,8 +1,8 @@
 <L>6376<pc>272<k1>lute<k2>lute
 {@Lute,@}¦ {%s.%} {#वीणा, वल्लकी, विपंची-चिका,#}
-<div n="lb"/>{#तंत्रीः, परिवादिनी#} (seven-stringed);
-<div n="lb"/>‘bow of a l.’ {#कोणः, शारिकः, रणः;#}
-<div n="lb"/>‘play on a l.’ {#वीणां वद्#} c. {@-Lutanist,@}
-<div n="lb"/>{@Luter, Lutist,@} {%s.%} {#वीणावादः-दकः,#}
-<div n="lb"/>{#वैणिकः#}.
+{#तंत्रीः, परिवादिनी#} (seven-stringed);
+‘bow of a l.’ {#कोणः, शारिकः, रणः;#}
+‘play on a l.’ {#वीणां वद्#} c. {@-Lutanist,@}
+{@Luter, Lutist,@} {%s.%} {#वीणावादः-दकः,#}
+{#वैणिकः#}.
 <LEND>

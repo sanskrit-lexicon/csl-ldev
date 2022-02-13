@@ -1,22 +1,22 @@
 <L>10411<pc>0641-a<k1>भञ्ज्<k2>भञ्ज्
 {#भञ्ज्#}¦ {%BHAÑJ,%} ii. 7, {%bhanaj, bhañj,%}
-<div n="lb"><ab>Par.</ab> {@1.@} To split, <ls>Rām.</ls> 1, 67, 17. {@2.@}
-<div n="lb">To break, <ls>Pañc.</ls> i. <ab>d.</ab> 148; to destroy,
-<div n="lb"><ls>MBh.</ls> 3, 10990. <ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab>
-<div n="lb">{%bhagna.%} {@1.@} Broken, <ls>Pañc.</ls> 36, 12;
-<div n="lb">torn. {@2.@} Defeated, <ls>Bhartṛ.</ls> 2, 85;
-<div n="lb"><ls>Rājat.</ls> 5, 340. {@3.@} Disheartened, <ls>Chr.</ls> 5,
-<div n="lb">23; <ls>Pañc.</ls> iv. <ab>d.</ab> 43. {@4.@} Disappointed,
-<div n="lb"><ls>Bhartṛ.</ls> 2, 82. {@5.@} Extinct, <ls>Man.</ls> 8, 148.
-<div n="lb">{@6.@} Disregarded, humbled; † i. 10, <ab>Par.</ab>
-<div n="lb">To speak, to shine. -- With the <ab>prep.</ab>
-<div n="lb">{#अव#} {%ava,%} To break down, <ls>MBh.</ls> 1, 7081. --
-<div n="lb">With {#नि#} {%ni,%} To break, <ls>Bhaṭṭ.</ls> 15, 117.
-<div n="lb"> -- With {#विनिस्#} {%vi-nis, vinirbhagna,%}
-<div n="lb">Broken down, <ls>MBh.</ls> 3, 12477. -- With
-<div n="lb">{#प्र#} {%pra,%} To break down, <ls>MBh.</ls> 3, 11121.
-<div n="lb">The original form has been probably
-<div n="lb">{%bhrañj.%} -- <ab>Cf.</ab> <ab>Lat.</ab> frango; <ab>Goth.</ab> brikan;
-<div n="lb"><ab>A.S.</ab> bracan, brecan; <lang n="greek"></lang>
+<ab>Par.</ab> {@1.@} To split, <ls>Rām.</ls> 1, 67, 17. {@2.@}
+To break, <ls>Pañc.</ls> i. <ab>d.</ab> 148; to destroy,
+<ls>MBh.</ls> 3, 10990. <ab>Ptcple.</ab> of the <ab>pf.</ab> <ab>pass.</ab>
+{%bhagna.%} {@1.@} Broken, <ls>Pañc.</ls> 36, 12;
+torn. {@2.@} Defeated, <ls>Bhartṛ.</ls> 2, 85;
+<ls>Rājat.</ls> 5, 340. {@3.@} Disheartened, <ls>Chr.</ls> 5,
+23; <ls>Pañc.</ls> iv. <ab>d.</ab> 43. {@4.@} Disappointed,
+<ls>Bhartṛ.</ls> 2, 82. {@5.@} Extinct, <ls>Man.</ls> 8, 148.
+{@6.@} Disregarded, humbled; † i. 10, <ab>Par.</ab>
+To speak, to shine. -- With the <ab>prep.</ab>
+{#अव#} {%ava,%} To break down, <ls>MBh.</ls> 1, 7081. --
+With {#नि#} {%ni,%} To break, <ls>Bhaṭṭ.</ls> 15, 117.
+ -- With {#विनिस्#} {%vi-nis, vinirbhagna,%}
+Broken down, <ls>MBh.</ls> 3, 12477. -- With
+{#प्र#} {%pra,%} To break down, <ls>MBh.</ls> 3, 11121.
+The original form has been probably
+{%bhrañj.%} -- <ab>Cf.</ab> <ab>Lat.</ab> frango; <ab>Goth.</ab> brikan;
+<ab>A.S.</ab> bracan, brecan; <lang n="greek"></lang>
 <lang n="greek"></lang>
 <LEND>

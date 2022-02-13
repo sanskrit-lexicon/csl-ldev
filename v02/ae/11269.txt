@@ -1,12 +1,12 @@
 <L>11269<pc>496<k1>within<k2>within
 {@Within,@}¦ {%adv.%} {#अंतर्#} in comp.; {#अंतर्वर्तिन्#}. {@2@}
-<div n="lb"/>{#चित्तोद्भूत, आंतर#} ({%a.%}) {%-prep.%} {#अंतरे, अ-#}
-<div n="lb"/>{#-भ्यंतरे, मध्ये, अंतर्#} in comp.; ‘w. the
-<div n="lb"/>house’ {#गृहाभ्यंतरे, अंतर्गृहं#} &c.; ‘w. six
-<div n="lb"/>months’ {#षण्मासाभ्यंतरे, षण्मासमध्ये;#}
-<div n="lb"/>{#अर्वाक्#} (with abl.) {@2@} (In the reach of)
-<div n="lb"/>{#गोचर, विषय, ग्राह्य,#} in comp.; ‘w. hear-
-<div n="lb"/>-ing’ {#कर्णगोचरीभूत;#} ‘w. the reach of
-<div n="lb"/>eyes’ {#नयनगोचरे, नयनविषये#} &c.; ‘w.
-<div n="lb"/>the reach of the hand’ {#हस्तप्राप्य-ग्राह्य#}.
+{#चित्तोद्भूत, आंतर#} ({%a.%}) {%-prep.%} {#अंतरे, अ-#}
+{#-भ्यंतरे, मध्ये, अंतर्#} in comp.; ‘w. the
+house’ {#गृहाभ्यंतरे, अंतर्गृहं#} &c.; ‘w. six
+months’ {#षण्मासाभ्यंतरे, षण्मासमध्ये;#}
+{#अर्वाक्#} (with abl.) {@2@} (In the reach of)
+{#गोचर, विषय, ग्राह्य,#} in comp.; ‘w. hear-
+-ing’ {#कर्णगोचरीभूत;#} ‘w. the reach of
+eyes’ {#नयनगोचरे, नयनविषये#} &c.; ‘w.
+the reach of the hand’ {#हस्तप्राप्य-ग्राह्य#}.
 <LEND>

@@ -1,28 +1,28 @@
 <L>1805<pc>0077-b<k1>अनुमानं<k2>अनुमानं
 {#अनुमानं#}¦ {@1@} Inferring as the <lbinfo n="instru+ment"/>
-<>instrument of an {#अनुमिति#}, conclusion from
-<>given premises; an inference, <lbinfo n="conclu+sion"/>
-<>conclusion; one of the four means of <lbinfo n="ob+taining"/>
-<>obtaining knowledge according to the
-<>Nyāya system; ({#अनुमितिकरणमनुमानं तच्च#}
-<>{#धूमो वह्निव्याप्य इति व्याप्तिज्ञानं#}. It is of two
-<>kinds {#स्वार्थानुमानं & परार्थानुमानं#}); {#प्रत्यक्षं#}
-<>{#चानुमानं च शास्त्रं च विविधागमं । त्रयं#} <lbinfo n="su#viditaM"/>
-<>{#सुविदितं कार्यं धर्मशुद्धिमभीप्सता ॥#}  <lbinfo n="ls:Ms. 12.+ 105."/>
-<><ls>Ms. 12. 105.</ls> {@--2@} A guess, conjecture, sign to
-<>know; {#इंगितैरनुमानैश्च मया ज्ञेया भविष्यति#}
-<><ls>Rām.</ls> {@--3@} Analogy, similarity; {#आत्मनो#}
-<>{#हृदयानुमानेन प्रेक्षसे#} <ls>Ś. 5</ls> you judge (of
-<>others) by the analogy of your own
-<>heart; {#स्वानुमानात्कादंबरीमुत्प्रेक्ष्य#}  <lbinfo n="ls:K.+ 305."/>
-<><ls>K. 305.</ls> {@--4@} (In <ab>Rhet.</ab>) A figure which
-<>consists in a notion, expressed
-<>in a peculiarly striking manner,
-<>of a thing established by proof;
-<><ls>S. D. 711</ls>; {#यत्र पतत्यबलानां दृष्टिर्निशिताः#}
-<>{#पतंति तत्र शराः । तच्चापरोपितशरो धावत्यासां#} 
+instrument of an {#अनुमिति#}, conclusion from
+given premises; an inference, <lbinfo n="conclu+sion"/>
+conclusion; one of the four means of <lbinfo n="ob+taining"/>
+obtaining knowledge according to the
+Nyāya system; ({#अनुमितिकरणमनुमानं तच्च#}
+{#धूमो वह्निव्याप्य इति व्याप्तिज्ञानं#}. It is of two
+kinds {#स्वार्थानुमानं & परार्थानुमानं#}); {#प्रत्यक्षं#}
+{#चानुमानं च शास्त्रं च विविधागमं । त्रयं#} <lbinfo n="su#viditaM"/>
+{#सुविदितं कार्यं धर्मशुद्धिमभीप्सता ॥#}  <lbinfo n="ls:Ms. 12.+ 105."/>
+<ls>Ms. 12. 105.</ls> {@--2@} A guess, conjecture, sign to
+know; {#इंगितैरनुमानैश्च मया ज्ञेया भविष्यति#}
+<ls>Rām.</ls> {@--3@} Analogy, similarity; {#आत्मनो#}
+{#हृदयानुमानेन प्रेक्षसे#} <ls>Ś. 5</ls> you judge (of
+others) by the analogy of your own
+heart; {#स्वानुमानात्कादंबरीमुत्प्रेक्ष्य#}  <lbinfo n="ls:K.+ 305."/>
+<ls>K. 305.</ls> {@--4@} (In <ab>Rhet.</ab>) A figure which
+consists in a notion, expressed
+in a peculiarly striking manner,
+of a thing established by proof;
+<ls>S. D. 711</ls>; {#यत्र पतत्यबलानां दृष्टिर्निशिताः#}
+{#पतंति तत्र शराः । तच्चापरोपितशरो धावत्यासां#} 
 [Page0077-c+ 56]
-<>{#पुरः स्मरो मन्ये ॥ अनुमानं तदुक्तं#} <lbinfo n="yatsADyasADa#nayorvacaH"/>
-<>{#यत्साध्यसाधनयोर्वचः#} <ls>K. P. 10.</ls> {@--Comp.@} {#--उक्ति#} {%<ab>f.</ab>%}
-<>reasoning; logical inference.
+{#पुरः स्मरो मन्ये ॥ अनुमानं तदुक्तं#} <lbinfo n="yatsADyasADa#nayorvacaH"/>
+{#यत्साध्यसाधनयोर्वचः#} <ls>K. P. 10.</ls> {@--Comp.@} {#--उक्ति#} {%<ab>f.</ab>%}
+reasoning; logical inference.
 <LEND>

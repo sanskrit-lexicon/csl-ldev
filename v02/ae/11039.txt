@@ -1,7 +1,7 @@
 <L>11039<pc>487<k1>vile<k2>vile
 {@Vile,@}¦ {%a.%} {#अधम, नीच, जघन्य, नि-अप-कृष्ट#}.
-<div n="lb"/>{@-ness,@} {%s.%} {#नीचता#} &c.: {%See%} {@Mean,@} &c.
-<div n="lb"/>{@-Vilify,@} {%v. t.%} {#परि-वद्#} 1 A, {#कुत्स्#} 10, {#आ-#}
-<div n="lb"/>{#-क्षर्#} c.; {%See%} {@Traduce, Libel. -er,@}
-<div n="lb"/>{@-ication:@} {%See%} {@Calumny.@}
+{@-ness,@} {%s.%} {#नीचता#} &c.: {%See%} {@Mean,@} &c.
+{@-Vilify,@} {%v. t.%} {#परि-वद्#} 1 A, {#कुत्स्#} 10, {#आ-#}
+{#-क्षर्#} c.; {%See%} {@Traduce, Libel. -er,@}
+{@-ication:@} {%See%} {@Calumny.@}
 <LEND>

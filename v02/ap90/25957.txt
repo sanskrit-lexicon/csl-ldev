@@ -1,55 +1,55 @@
 <L>25957<pc>0975-b<k1>विद्या<k2>विद्या
 {#विद्या#}¦ [{#विद्-क्यप्#}] {@1@} Knowledge,
-<>learning, lore, science; ({#तां#}) <lbinfo n="vidyA#maByasaneneva"/>
-<>{#विद्यामभ्यसनेनेव प्रसादयितुमर्हसि#} <ls>R. 1. 88</ls>;
-<>{#विद्या नाम नरस्य रूपमधिकं प्रच्छन्नगुप्तं#} 
+learning, lore, science; ({#तां#}) <lbinfo n="vidyA#maByasaneneva"/>
+{#विद्यामभ्यसनेनेव प्रसादयितुमर्हसि#} <ls>R. 1. 88</ls>;
+{#विद्या नाम नरस्य रूपमधिकं प्रच्छन्नगुप्तं#} 
 [Page0975-c+ 57]
-<>{#धनं#} &c. <ls>Bh. 2. 20.</ls> (According to
-<>some {%Vidyās%} are four: {#--आन्वीक्षिकी#}
-<>{#त्रयी वार्ता दंडनीतिश्च शाश्वती#} <ls>Kāmandaka</ls>);
-<>{#चतसृष्वपि ते विवेकिनी नृप विद्यासु#} <lbinfo n="nirU#QimAgatA"/>
-<>{#निरूढिमागता#} <ls>Ki. 2. 6</ls>; to these four
-<>Manu adds a fifth {#आत्मविद्या#}; see  <lbinfo n="ls:Ms.+ 7. 43."/>
-<><ls>Ms. 7. 43.</ls> But the usual number of
-<>{%Vidyās%} is stated to be fourteen, {%<ab>i. e.</ab>%}
-<>the four {%Vedas%}, the six {%Aṅgas%},
-<>{%Dharma%}, {%Mīmāṃsā%}, {%Tarka%} or  <lbinfo n="Nyā+ya"/>
-<>{%Nyāya%} and the {%Purāṇas%}; see {#चतुर्दशविद्या#}
-<>under {#चतुर्#}; and <ls>N. 1. 4</ls>. {@--2@} Right
-<>knowledge, spiritual knowledge;  <lbinfo n="ls:U.+ 6. 6"/>
-<><ls>U. 6. 6</ls>; <ab>cf.</ab> {#अविद्या#}. {@--3@} A spell, an <lbinfo n="in+cantation"/>
-<>incantation. {@--4@} The goddess Durgā.
-<>{@--5@} Magical skill. {@--Comp.@}  <lbinfo n="--a#nupAlin"/>
-<>{#--अनुपालिन्, --अनुसेविन्#} {%<ab>a.</ab>%} acquiring
-<>knowledge. {#--अभ्यासः, --अर्जनं#}, <lbinfo n="A#gamaH"/>
-<>{#--आगमः#} acquisition of knowledge, <lbinfo n="pur+suit"/>
-<>pursuit of learning, study. {#--अर्थः#} <lbinfo n="seek+ing"/>
-<>seeking for knowledge. {#--अर्थिन्#} {%<ab>m.</ab>%} a
-<>student, scholar, pupil. {#--आधारः#} a
-<>receptacle of learning; <ls>Māl. 2. 11.</ls>
-<>{#--आरंभः#} introduction of a boy to
-<>learning. {#--आलयः#} a school, college,
-<>any place of learning. {#--उपार्जनं#} =  <lbinfo n="vi#dyArjanaM"/>
-<>{#विद्यार्जनं#} <ab>q. v.</ab> {#--करः#} a learned man.
-<>{#--चण, --चंचु#} {%<ab>a.</ab>%} famous for one's
-<>learning. {#--दलः#} the Bhūrja tree.
-<>{#--दातृ#} {%<ab>m.</ab>%} a teacher, an instructor.
-<>{#--दानं#} teaching, imparting <lbinfo n="instruc+tion"/>
-<>instruction. {#--देवी#} the goddess of learning.
-<>{#--धनं#} {1} wealth in the form of <lbinfo n="learn+ing"/>
-<>learning. {2} wealth acquired by <lbinfo n="learn+ing"/>
-<>learning. {#--धरः#}, ({#--री#} {%<ab>f.</ab>%}) a class of <lbinfo n="de+migods"/>
-<>demigods or semi-divine beings;  <lbinfo n="vidyA#DarADyuzitacAruSilAtalAni"/>
-<>{#विद्याधराध्युषितचारुशिलातलानि स्थानानि#}  <lbinfo n="ls:Bh.+ 3. 70."/>
-<><ls>Bh. 3. 70.</ls> {#--प्राप्तिः#} = {#विद्यार्जन#} <ab>q. v.</ab> {#--लाभः#}
-<>{1} acquisition of learning. {2}
-<>wealth or any other acquisition made
-<>by learning. {#--विशिष्ट#} {%<ab>a.</ab>%} <lbinfo n="distinguish+ed"/>
-<>distinguished by learning. {#--विहीन#} {%<ab>a.</ab>%} illiterate,
-<>ignorant; <ls>Pt. 1. 35.</ls> {#--वृद्ध#} {%<ab>a.</ab>%} old
-<>in knowledge, advanced in learning.
-<>{#--व्यसनं, --व्यवसायः#} pursuit of <lbinfo n="know+ledge"/>
-<>knowledge. {#--व्रतस्नातक, --स्नातकः#} a <lbinfo n="Brāh+maṇa"/>
-<>Brāhmaṇa who has finished his course of
-<>religious studentship ({#ब्रह्मचारिव्रत#}).
+{#धनं#} &c. <ls>Bh. 2. 20.</ls> (According to
+some {%Vidyās%} are four: {#--आन्वीक्षिकी#}
+{#त्रयी वार्ता दंडनीतिश्च शाश्वती#} <ls>Kāmandaka</ls>);
+{#चतसृष्वपि ते विवेकिनी नृप विद्यासु#} <lbinfo n="nirU#QimAgatA"/>
+{#निरूढिमागता#} <ls>Ki. 2. 6</ls>; to these four
+Manu adds a fifth {#आत्मविद्या#}; see  <lbinfo n="ls:Ms.+ 7. 43."/>
+<ls>Ms. 7. 43.</ls> But the usual number of
+{%Vidyās%} is stated to be fourteen, {%<ab>i. e.</ab>%}
+the four {%Vedas%}, the six {%Aṅgas%},
+{%Dharma%}, {%Mīmāṃsā%}, {%Tarka%} or  <lbinfo n="Nyā+ya"/>
+{%Nyāya%} and the {%Purāṇas%}; see {#चतुर्दशविद्या#}
+under {#चतुर्#}; and <ls>N. 1. 4</ls>. {@--2@} Right
+knowledge, spiritual knowledge;  <lbinfo n="ls:U.+ 6. 6"/>
+<ls>U. 6. 6</ls>; <ab>cf.</ab> {#अविद्या#}. {@--3@} A spell, an <lbinfo n="in+cantation"/>
+incantation. {@--4@} The goddess Durgā.
+{@--5@} Magical skill. {@--Comp.@}  <lbinfo n="--a#nupAlin"/>
+{#--अनुपालिन्, --अनुसेविन्#} {%<ab>a.</ab>%} acquiring
+knowledge. {#--अभ्यासः, --अर्जनं#}, <lbinfo n="A#gamaH"/>
+{#--आगमः#} acquisition of knowledge, <lbinfo n="pur+suit"/>
+pursuit of learning, study. {#--अर्थः#} <lbinfo n="seek+ing"/>
+seeking for knowledge. {#--अर्थिन्#} {%<ab>m.</ab>%} a
+student, scholar, pupil. {#--आधारः#} a
+receptacle of learning; <ls>Māl. 2. 11.</ls>
+{#--आरंभः#} introduction of a boy to
+learning. {#--आलयः#} a school, college,
+any place of learning. {#--उपार्जनं#} =  <lbinfo n="vi#dyArjanaM"/>
+{#विद्यार्जनं#} <ab>q. v.</ab> {#--करः#} a learned man.
+{#--चण, --चंचु#} {%<ab>a.</ab>%} famous for one's
+learning. {#--दलः#} the Bhūrja tree.
+{#--दातृ#} {%<ab>m.</ab>%} a teacher, an instructor.
+{#--दानं#} teaching, imparting <lbinfo n="instruc+tion"/>
+instruction. {#--देवी#} the goddess of learning.
+{#--धनं#} {1} wealth in the form of <lbinfo n="learn+ing"/>
+learning. {2} wealth acquired by <lbinfo n="learn+ing"/>
+learning. {#--धरः#}, ({#--री#} {%<ab>f.</ab>%}) a class of <lbinfo n="de+migods"/>
+demigods or semi-divine beings;  <lbinfo n="vidyA#DarADyuzitacAruSilAtalAni"/>
+{#विद्याधराध्युषितचारुशिलातलानि स्थानानि#}  <lbinfo n="ls:Bh.+ 3. 70."/>
+<ls>Bh. 3. 70.</ls> {#--प्राप्तिः#} = {#विद्यार्जन#} <ab>q. v.</ab> {#--लाभः#}
+{1} acquisition of learning. {2}
+wealth or any other acquisition made
+by learning. {#--विशिष्ट#} {%<ab>a.</ab>%} <lbinfo n="distinguish+ed"/>
+distinguished by learning. {#--विहीन#} {%<ab>a.</ab>%} illiterate,
+ignorant; <ls>Pt. 1. 35.</ls> {#--वृद्ध#} {%<ab>a.</ab>%} old
+in knowledge, advanced in learning.
+{#--व्यसनं, --व्यवसायः#} pursuit of <lbinfo n="know+ledge"/>
+knowledge. {#--व्रतस्नातक, --स्नातकः#} a <lbinfo n="Brāh+maṇa"/>
+Brāhmaṇa who has finished his course of
+religious studentship ({#ब्रह्मचारिव्रत#}).
 <LEND>

@@ -1,16 +1,16 @@
 <L>17371<pc>0648-b<k1>नेपथ्यं<k2>नेपथ्यं
 {#नेपथ्यं#}¦ {@1@} Decoration, an ornament.
-<>{@--2@} Dress, apparel, costume, attire;
-<>{#उदारनेपथ्यभृत्#} <ls>R. 6. 6</ls>;  <lbinfo n="rAjeMdranepaTyavi#DAnaSoBA"/>
-<>{#राजेंद्रनेपथ्यविधानशोभा#} <ls n="R.">14. 9</ls>; {#उज्ज्वलनेपथ्यविरचना#}
-<><ls>Māl. 1</ls>; <ls>Ku. 7. 7</ls>; <ls>V. 5.</ls> {@--3@} <lbinfo n="Parti+cularly"/>
-<>Particularly, the costume of an actor;  <lbinfo n="vi#ralanepaTyayoH"/>
-<>{#विरलनेपथ्ययोः पात्रयोः प्रवेशोस्तु#} <ls>M. 1.</ls> {@--4@}
-<>The tiring-room, the space where
-<>the actors attire themselves (which
-<>is always behind the curtain), the
-<>postscenium; {#नेपथ्ये#} ‘behind the
-<>scenes’. {@--Comp.@} {#--विधानं#} arrangements
-<>of the tiring-room; {#यदि#} <lbinfo n="nepaTyaviDAna#mavasitaM"/>
-<>{#नेपथ्यविधानमवसितं#} <ls>Ś. 1.</ls>
+{@--2@} Dress, apparel, costume, attire;
+{#उदारनेपथ्यभृत्#} <ls>R. 6. 6</ls>;  <lbinfo n="rAjeMdranepaTyavi#DAnaSoBA"/>
+{#राजेंद्रनेपथ्यविधानशोभा#} <ls n="R.">14. 9</ls>; {#उज्ज्वलनेपथ्यविरचना#}
+<ls>Māl. 1</ls>; <ls>Ku. 7. 7</ls>; <ls>V. 5.</ls> {@--3@} <lbinfo n="Parti+cularly"/>
+Particularly, the costume of an actor;  <lbinfo n="vi#ralanepaTyayoH"/>
+{#विरलनेपथ्ययोः पात्रयोः प्रवेशोस्तु#} <ls>M. 1.</ls> {@--4@}
+The tiring-room, the space where
+the actors attire themselves (which
+is always behind the curtain), the
+postscenium; {#नेपथ्ये#} ‘behind the
+scenes’. {@--Comp.@} {#--विधानं#} arrangements
+of the tiring-room; {#यदि#} <lbinfo n="nepaTyaviDAna#mavasitaM"/>
+{#नेपथ्यविधानमवसितं#} <ls>Ś. 1.</ls>
 <LEND>

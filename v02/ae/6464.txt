@@ -1,10 +1,10 @@
 <L>6464<pc>277<k1>manes<k2>manes
 {@Manes,@}¦ {%s.%} {#पितरः, स्वधा-श्राद्ध-भुजः; पिंडभाजः,#}
-<div n="lb"/>{#पिंडाशाः#} (all pl.) {#पितृगणः-वर्गः-लोकः-#}
-<div n="lb"/>{#-जनः;#} ‘offering oblations to the m.’
-<div n="lb"/>{#पितृ-कर्म-कार्यं-क्रिया-यज्ञः-मेधः, श्राद्धकर्म-#}
-<div n="lb"/>{#-क्रिया;#} ‘oblations to the m.’ {#पिंडः,#}
-<div n="lb"/>{#स्वधा, कव्यं, श्राद्धं;#} ‘gifts in honour of
-<div n="lb"/>the m.’ {#पितृदानं-तर्पणं;#} ‘a day sacred
-<div n="lb"/>to the m.’ {#पितृतिथि#} {%m. f.%}
+{#पिंडाशाः#} (all pl.) {#पितृगणः-वर्गः-लोकः-#}
+{#-जनः;#} ‘offering oblations to the m.’
+{#पितृ-कर्म-कार्यं-क्रिया-यज्ञः-मेधः, श्राद्धकर्म-#}
+{#-क्रिया;#} ‘oblations to the m.’ {#पिंडः,#}
+{#स्वधा, कव्यं, श्राद्धं;#} ‘gifts in honour of
+the m.’ {#पितृदानं-तर्पणं;#} ‘a day sacred
+to the m.’ {#पितृतिथि#} {%m. f.%}
 <LEND>

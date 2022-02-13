@@ -1,4 +1,4 @@
 <L>2527<pc>091<k1>cylinder<k2>cylinder
 {@Cylinder,@}¦ {%s.%} {#गोलः, वर्तुलं#}. {@-Cylindrical,@}
-<div n="lb"/>{%a.%} {#वर्तुल, गोलाकार#}.
+{%a.%} {#वर्तुल, गोलाकार#}.
 <LEND>

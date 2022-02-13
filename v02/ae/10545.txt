@@ -1,5 +1,5 @@
 <L>10545<pc>474<k1>trappings<k2>trappings
 {@Trappings,@}¦ {%s.%} {#सज्जा, भूषा, परिकर्मन्#} {%a.,%}
-<div n="lb"/>{#परिच्छदः;#} ‘t. of an elephant’ {#परिष्टोमः,#}
-<div n="lb"/>{#आदानं;#} {%See%} {@Housings.@}
+{#परिच्छदः;#} ‘t. of an elephant’ {#परिष्टोमः,#}
+{#आदानं;#} {%See%} {@Housings.@}
 <LEND>

@@ -1,5 +1,5 @@
 <L>337<pc>013<k1>amiss<k2>amiss
 {@Amiss,@}¦ {%a.%} {#दोषिन्, अपराधिन्#}. {@2@} {#अनुचित,#}
-<div n="lb"/>{#अयोग्य#}. {%-adv.%} {#अनुचितं, अयुक्तं;#} ‘take a.’
-<div n="lb"/>{%See%} {@Misunderstand.@}
+{#अयोग्य#}. {%-adv.%} {#अनुचितं, अयुक्तं;#} ‘take a.’
+{%See%} {@Misunderstand.@}
 <LEND>

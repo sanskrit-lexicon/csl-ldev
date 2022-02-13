@@ -1,4 +1,4 @@
 <L>8599<pc>376<k1>rampart<k2>rampart
 {@Rampart,@}¦ {%s.%} {#प्राकारः, वप्रः-प्रं, वरणः, सालः;#}
-<div n="lb"/>{%See%} {@Fence.@}
+{%See%} {@Fence.@}
 <LEND>

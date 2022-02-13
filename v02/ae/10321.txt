@@ -1,4 +1,4 @@
 <L>10321<pc>465<k1>testimony<k2>testimony
 {@Testimony,@}¦ {%s.%} {#साक्ष्यं, प्रमाणं, प्रामाण्यं#}
-<div n="lb"/>{@-Testimonial,@} {%s.%} {#प्रमाणपत्रं-लेखः#}.
+{@-Testimonial,@} {%s.%} {#प्रमाणपत्रं-लेखः#}.
 <LEND>

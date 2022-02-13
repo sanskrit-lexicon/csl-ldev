@@ -1,54 +1,54 @@
 <L>25991<pc>0977-a<k1>विधिः<k2>विधिः
 {#विधिः#}¦ [{#विधा-कि#}] {@1@} Doing, <lbinfo n="per+formance"/>
-<>performance, practice, an act or action;
-<>{#ब्रह्मध्यानाभ्यसनविधिना योगनिद्रां गतस्य#}
-<><ls>Bh. 3. 41</ls>; {#योगविधि#} <ls>R. 8. 22</ls>; {#अस्याः#}
-<>{#सर्गविधौ#} <ls>V. 1. 8</ls>; {#लेत्वाविधि#}  <lbinfo n="ls:Māl. 1.+ 35."/>
-<><ls>Māl. 1. 35.</ls> {@--2@} Method, manner, way, means,
-<>mode; <ls>Pt. 1. 376.</ls> {@--3@} A rule, <lbinfo n="com+mandment"/>
-<>commandment, any precept which <lbinfo n="en+joins"/>
-<>enjoins something for the first time
-<>(as distinguished from {#नियम#} and  <lbinfo n="pa#risaMKyA"/>
-<>{#परिसंख्या#} q. <ab>q. v.</ab> v.); {#विधिरत्यंतमप्राप्तौ#};
-<>{#चि कीर्षाकृतिसाध्यत्वहेतुधीविषयो विधिः#}, <lbinfo n="va#hati"/>
-<>{#वहति विधिहुतं या हविः#} <ls>Ś. 1. 1.</ls> {@--4@} A sacred
-<>precept or rule, ordinance, injunction,
-<>law, a sacred command, religious <lbinfo n="com+mandment"/>
-<>commandment (<ab>opp.</ab> {#अर्थवाद#} which means
-<>‘an explanatory statement coupled
-<>with legends and illustrations’; see
-<>{#अर्थवाद#}); {#प्रवृत्तिपरं वाक्यं विधिः#}, as  <lbinfo n="jyo#tizwomena"/>
-<>{#ज्योतिष्टोमेन स्वर्गकामो यजेत#}; {#श्रद्धा वित्तं#} <lbinfo n="viDi#Sceti"/>
-<>{#विधिश्चेति त्रितयं तत्समागतं#} <ls>Ś. 7. 29</ls>;  <lbinfo n="ls:R. 2.+ 16."/>
-<><ls>R. 2. 16.</ls> {@--5@} Any religious act or <lbinfo n="cere+mony"/>
-<>ceremony, a rite, ceremony; {#स चेत् स्वयं#}
-<>{#कर्मसु धर्मचारिणां त्वमंतरायो भवसि च्युतो#}
-<>{#विधिः#} <ls>R. 3. 45</ls>, <ls n="R.">1. 34.</ls> {@--6@} Behaviour,
-<>conduct. {@--7@} Condition; <ls>V. 4.</ls> {@--8@}
-<>Creation, formation; {#सामग्र्यविधौ#}
-<><ls>Ku. 3. 28</ls>; {#कल्याणी विधिषु विचित्रता#}
-<>{#विधातुः#} <ls>Ki. 7. 7.</ls> {@--9@} The creator. {@--10@}
-<>Fate, destiny, luck; {#विधौ वामारंभे#}
-<>{#मन समुचितैषा परिणतिः#} <ls>Māl. 4. 4.</ls> {@--11@} 
+performance, practice, an act or action;
+{#ब्रह्मध्यानाभ्यसनविधिना योगनिद्रां गतस्य#}
+<ls>Bh. 3. 41</ls>; {#योगविधि#} <ls>R. 8. 22</ls>; {#अस्याः#}
+{#सर्गविधौ#} <ls>V. 1. 8</ls>; {#लेत्वाविधि#}  <lbinfo n="ls:Māl. 1.+ 35."/>
+<ls>Māl. 1. 35.</ls> {@--2@} Method, manner, way, means,
+mode; <ls>Pt. 1. 376.</ls> {@--3@} A rule, <lbinfo n="com+mandment"/>
+commandment, any precept which <lbinfo n="en+joins"/>
+enjoins something for the first time
+(as distinguished from {#नियम#} and  <lbinfo n="pa#risaMKyA"/>
+{#परिसंख्या#} q. <ab>q. v.</ab> v.); {#विधिरत्यंतमप्राप्तौ#};
+{#चि कीर्षाकृतिसाध्यत्वहेतुधीविषयो विधिः#}, <lbinfo n="va#hati"/>
+{#वहति विधिहुतं या हविः#} <ls>Ś. 1. 1.</ls> {@--4@} A sacred
+precept or rule, ordinance, injunction,
+law, a sacred command, religious <lbinfo n="com+mandment"/>
+commandment (<ab>opp.</ab> {#अर्थवाद#} which means
+‘an explanatory statement coupled
+with legends and illustrations’; see
+{#अर्थवाद#}); {#प्रवृत्तिपरं वाक्यं विधिः#}, as  <lbinfo n="jyo#tizwomena"/>
+{#ज्योतिष्टोमेन स्वर्गकामो यजेत#}; {#श्रद्धा वित्तं#} <lbinfo n="viDi#Sceti"/>
+{#विधिश्चेति त्रितयं तत्समागतं#} <ls>Ś. 7. 29</ls>;  <lbinfo n="ls:R. 2.+ 16."/>
+<ls>R. 2. 16.</ls> {@--5@} Any religious act or <lbinfo n="cere+mony"/>
+ceremony, a rite, ceremony; {#स चेत् स्वयं#}
+{#कर्मसु धर्मचारिणां त्वमंतरायो भवसि च्युतो#}
+{#विधिः#} <ls>R. 3. 45</ls>, <ls n="R.">1. 34.</ls> {@--6@} Behaviour,
+conduct. {@--7@} Condition; <ls>V. 4.</ls> {@--8@}
+Creation, formation; {#सामग्र्यविधौ#}
+<ls>Ku. 3. 28</ls>; {#कल्याणी विधिषु विचित्रता#}
+{#विधातुः#} <ls>Ki. 7. 7.</ls> {@--9@} The creator. {@--10@}
+Fate, destiny, luck; {#विधौ वामारंभे#}
+{#मन समुचितैषा परिणतिः#} <ls>Māl. 4. 4.</ls> {@--11@} 
 [Page0977-b+ 57]
-<>The food of elephants. {@--12@} Time.
-<>{@--13@} A physician. {@--14@} <ab>N.</ab> of Viṣṇu.
-<>{@--Comp.@} {#--घ्न#} {%<ab>a.</ab>%} disregarding <lbinfo n="pre+scribed"/>
-<>prescribed rites or rules. {#--ज्ञ#} {%<ab>a.</ab>%} <lbinfo n="know+ing"/>
-<>knowing the ritual. ({#--ज्ञः#}) a Brāhmaṇa
-<>versed in the ritual, a ritualist.
-<>{#--दर्शकः#} a priest at a sacrifice who
-<>sees that everything is done <lbinfo n="accord+ing"/>
-<>according to the precepts, and corrects
-<>any deviation from them. {#--दुष्ट#}, <lbinfo n="vi#hita"/>
-<>{#--विहित#} {%<ab>a.</ab>%} prescribed by rule, enjoined
-<>by law. {#--देशकः#} {1} = {#विधिदर्शक#} above.
-<>{2} a preceptor, teacher. {#--द्वैधं#} <lbinfo n="diver+sity"/>
-<>diversity of rules, variance of precept or
-<>commandment. {#--पूर्वकं#} {%<ab>ind.</ab>%} <lbinfo n="accord+ing"/>
-<>according to rule. {#--प्रयोगः#} application of a
-<>rule. {#--योगः#} the force or influence
-<>of fate. {#--वधूः#} {%<ab>f.</ab>%} an epithet of <lbinfo n="Sa+rasvatī"/>
-<>Sarasvatī. {#--हीन#} {%<ab>a.</ab>%} devoid of rule, <lbinfo n="un+authorised"/>
-<>unauthorised, irregular.
+The food of elephants. {@--12@} Time.
+{@--13@} A physician. {@--14@} <ab>N.</ab> of Viṣṇu.
+{@--Comp.@} {#--घ्न#} {%<ab>a.</ab>%} disregarding <lbinfo n="pre+scribed"/>
+prescribed rites or rules. {#--ज्ञ#} {%<ab>a.</ab>%} <lbinfo n="know+ing"/>
+knowing the ritual. ({#--ज्ञः#}) a Brāhmaṇa
+versed in the ritual, a ritualist.
+{#--दर्शकः#} a priest at a sacrifice who
+sees that everything is done <lbinfo n="accord+ing"/>
+according to the precepts, and corrects
+any deviation from them. {#--दुष्ट#}, <lbinfo n="vi#hita"/>
+{#--विहित#} {%<ab>a.</ab>%} prescribed by rule, enjoined
+by law. {#--देशकः#} {1} = {#विधिदर्शक#} above.
+{2} a preceptor, teacher. {#--द्वैधं#} <lbinfo n="diver+sity"/>
+diversity of rules, variance of precept or
+commandment. {#--पूर्वकं#} {%<ab>ind.</ab>%} <lbinfo n="accord+ing"/>
+according to rule. {#--प्रयोगः#} application of a
+rule. {#--योगः#} the force or influence
+of fate. {#--वधूः#} {%<ab>f.</ab>%} an epithet of <lbinfo n="Sa+rasvatī"/>
+Sarasvatī. {#--हीन#} {%<ab>a.</ab>%} devoid of rule, <lbinfo n="un+authorised"/>
+unauthorised, irregular.
 <LEND>

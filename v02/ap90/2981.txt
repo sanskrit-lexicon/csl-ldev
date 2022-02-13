@@ -1,16 +1,16 @@
 <L>2981<pc>0126-b<k1>अभवत्<k2>अभवत्
 {#अभवत्#}¦ {%<ab>a.</ab>%} Not existing. {@--Comp.@}
-<>{#--अभवन्मतयोगः, --संयोगः#} (in <ab>Rhet.</ab>)
-<>a defect in composition; {#अभवन्#} <lbinfo n="asaM#Bavannapi"/>
-<>{#असंभवन्नपि मतः इष्टः योगः संबंधः यत्र#}  <lbinfo n="ls:K. P.+ 7"/>
-<><ls>K. P. 7</ls>; the ‘failure of an intended <lbinfo n="con+nection"/>
-<>connection’, or want of harmony <lbinfo n="be+tween"/>
-<>between the ideas to be expressed
-<>and the words expressing them;
-<>{%<ab>e. g.</ab>%} {#ईक्षसे यत्कटाक्षेण तदा धन्वी मनोभवः#},
-<>here the word {#यत्#} can have no  <lbinfo n="cor+relation"/>
-<>{%correlation%} with {#तदा#} though intended
-<>by the poet. The proper reading
-<>would be {#ईक्षसे चेत्#} &c.; for other
-<>examples see <ls>S. D. 575</ls> {%ad loc.%}
+{#--अभवन्मतयोगः, --संयोगः#} (in <ab>Rhet.</ab>)
+a defect in composition; {#अभवन्#} <lbinfo n="asaM#Bavannapi"/>
+{#असंभवन्नपि मतः इष्टः योगः संबंधः यत्र#}  <lbinfo n="ls:K. P.+ 7"/>
+<ls>K. P. 7</ls>; the ‘failure of an intended <lbinfo n="con+nection"/>
+connection’, or want of harmony <lbinfo n="be+tween"/>
+between the ideas to be expressed
+and the words expressing them;
+{%<ab>e. g.</ab>%} {#ईक्षसे यत्कटाक्षेण तदा धन्वी मनोभवः#},
+here the word {#यत्#} can have no  <lbinfo n="cor+relation"/>
+{%correlation%} with {#तदा#} though intended
+by the poet. The proper reading
+would be {#ईक्षसे चेत्#} &c.; for other
+examples see <ls>S. D. 575</ls> {%ad loc.%}
 <LEND>

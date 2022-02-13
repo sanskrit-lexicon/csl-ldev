@@ -1,43 +1,43 @@
 <L>17560<pc>0655-a<k1>पंक्तिः<k2>पंक्तिः
 {#पंक्तिः#}¦ {%<ab>f.</ab>%} [{#पंच् विस्तरे क्तिव्#}] {@1@} A
-<>line, row, range, series; {#दृश्येत#} <lbinfo n="cArupa#dapaMktiralaktakAMkA"/>
-<>{#चारुपदपंक्तिरलक्तकांका#} <ls>V. 4. 6</ls>; {#पक्ष्मपंक्तिः#}  <lbinfo n="ls:R.+2. 19"/>
+line, row, range, series; {#दृश्येत#} <lbinfo n="cArupa#dapaMktiralaktakAMkA"/>
+{#चारुपदपंक्तिरलक्तकांका#} <ls>V. 4. 6</ls>; {#पक्ष्मपंक्तिः#}  <lbinfo n="ls:R.+2. 19"/>
 [Page0655-b+ 56]
 <ls>R. 2. 19</ls>; {#अलिपंक्तिः#} <ls>Ku. 4. 15</ls>; <ls>R. 6. 5.</ls>
-<>{@--2@} A group, collection, flock, troop.
-<>{@--3@} A row of people (of the same caste)
-<>sitting down to a meal, a company
-<>or party at dinner of the same caste;
-<><ab>cf.</ab> {#पंक्तिपावन#} below. {@--4@} The living
-<>generation. {@--5@} The earth. {@--6@} Fame,
-<>celebrity. {@--7@} A collection of five, or
-<>the number ‘five’. {@--8@} The number ‘ten’
-<>as in {#पंक्तिरथ, पंक्तिग्रीव#}. {@--9@} Cooking,
-<>maturing, {@--10@} A company of <lbinfo n="per+sons"/>
-<>persons of the same tribe. {@--Comp.@}
-<>{#--कंटकः#} = {#पंक्तिदूषक#} <ab>q. v.</ab> {#--ग्रीवः#} an <lbinfo n="epi+thet"/>
-<>epithet of Rāvaṇa. {#--चरः#} an osprey. {#--दूषः#}
-<>{#--दूषकः#} a person defiling a society
-<>of persons, one with whom it is <lbinfo n="im+proper"/>
-<>improper to associate at dinner-time.
-<>{#--पांवनः#} a respectable or eminent <lbinfo n="per+son"/>
-<>person; especially, a respectable <lbinfo n="Brāh+maṇa"/>
-<>Brāhmaṇa who, being very learned, <lbinfo n="al+ways"/>
-<>always gets the seat of honour at <lbinfo n="din+ner"/>
-<>dinner parties, or who purifies by his <lbinfo n="pre+ence"/>
-<>preence the {#पंक्ति#} or persons who sit in
-<>the same row to dine with him;  <lbinfo n="paMkti#pAvanAH"/>
-<>{#पंक्तिपावनाः पंचाग्नयः#} <ls>Māl. 1</ls>, where <lbinfo n="Jaga+ddhara"/>
-<><ls>Jagaddhara</ls> says: {#--पंक्तिपावनाः पंक्तौ#} <lbinfo n="BojanAdi#gozWyAM"/>
-<>{#भोजनादिगोष्ठ्यां पावनाः । अग्रभोजिनः पवित्रा वा । यद्वा ।#}
-<>{#यजुषां पारगो यस्तु साम्नां यश्चापि पारगः ।#} <lbinfo n="aTarva#Siraso"/>
-<>{#अथर्वशिरसोऽध्येता ब्राह्मणः पंक्तिपावनः ॥#} or {#अग्र्याः#}
-<>{#सर्वेषु वेदेषु सर्वंप्रवचेनषु च । यावदेते प्रपश्यंति#}
-<>{#पंक्त्यां तावत्पुनंति च ॥ ततो हि पावनात्पंक्त्या#}
-<>{#उच्यंते पंक्तिपावनाः#}. Manu explains the
-<>word thus. --{#अपांक्त्योपहता पंक्तिः पाव्यते#}
-<>{#यैर्द्विजोत्तभैः । तान्निबोधत कार्त्स्न्येन द्विजाग्र्यान्#}
-<>{#पंक्तिपावनान्#} <ls>Ms. 3. 183</ls>; see <ls n="Ms.">3. 184</ls>,
-<><ls n="Ms. 3.">186</ls> also. {#--रथः#} <ab>N.</ab> of Daśaratha;
-<><ls>R. 9. 74.</ls>
+{@--2@} A group, collection, flock, troop.
+{@--3@} A row of people (of the same caste)
+sitting down to a meal, a company
+or party at dinner of the same caste;
+<ab>cf.</ab> {#पंक्तिपावन#} below. {@--4@} The living
+generation. {@--5@} The earth. {@--6@} Fame,
+celebrity. {@--7@} A collection of five, or
+the number ‘five’. {@--8@} The number ‘ten’
+as in {#पंक्तिरथ, पंक्तिग्रीव#}. {@--9@} Cooking,
+maturing, {@--10@} A company of <lbinfo n="per+sons"/>
+persons of the same tribe. {@--Comp.@}
+{#--कंटकः#} = {#पंक्तिदूषक#} <ab>q. v.</ab> {#--ग्रीवः#} an <lbinfo n="epi+thet"/>
+epithet of Rāvaṇa. {#--चरः#} an osprey. {#--दूषः#}
+{#--दूषकः#} a person defiling a society
+of persons, one with whom it is <lbinfo n="im+proper"/>
+improper to associate at dinner-time.
+{#--पांवनः#} a respectable or eminent <lbinfo n="per+son"/>
+person; especially, a respectable <lbinfo n="Brāh+maṇa"/>
+Brāhmaṇa who, being very learned, <lbinfo n="al+ways"/>
+always gets the seat of honour at <lbinfo n="din+ner"/>
+dinner parties, or who purifies by his <lbinfo n="pre+ence"/>
+preence the {#पंक्ति#} or persons who sit in
+the same row to dine with him;  <lbinfo n="paMkti#pAvanAH"/>
+{#पंक्तिपावनाः पंचाग्नयः#} <ls>Māl. 1</ls>, where <lbinfo n="Jaga+ddhara"/>
+<ls>Jagaddhara</ls> says: {#--पंक्तिपावनाः पंक्तौ#} <lbinfo n="BojanAdi#gozWyAM"/>
+{#भोजनादिगोष्ठ्यां पावनाः । अग्रभोजिनः पवित्रा वा । यद्वा ।#}
+{#यजुषां पारगो यस्तु साम्नां यश्चापि पारगः ।#} <lbinfo n="aTarva#Siraso"/>
+{#अथर्वशिरसोऽध्येता ब्राह्मणः पंक्तिपावनः ॥#} or {#अग्र्याः#}
+{#सर्वेषु वेदेषु सर्वंप्रवचेनषु च । यावदेते प्रपश्यंति#}
+{#पंक्त्यां तावत्पुनंति च ॥ ततो हि पावनात्पंक्त्या#}
+{#उच्यंते पंक्तिपावनाः#}. Manu explains the
+word thus. --{#अपांक्त्योपहता पंक्तिः पाव्यते#}
+{#यैर्द्विजोत्तभैः । तान्निबोधत कार्त्स्न्येन द्विजाग्र्यान्#}
+{#पंक्तिपावनान्#} <ls>Ms. 3. 183</ls>; see <ls n="Ms.">3. 184</ls>,
+<ls n="Ms. 3.">186</ls> also. {#--रथः#} <ab>N.</ab> of Daśaratha;
+<ls>R. 9. 74.</ls>
 <LEND>

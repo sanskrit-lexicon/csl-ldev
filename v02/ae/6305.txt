@@ -1,6 +1,6 @@
 <L>6305<pc>267<k1>longitude<k2>longitude
 {@Longitude,@}¦ {%s.%} {#ध्रुवकः, द्राघिमन्#} {%m.%} {@2@}
-<div n="lb"/>{#रेखांशः;#} (of heavenly objects) {#भोगः;#}
-<div n="lb"/>‘circle of l.’ {#रेखांशवृत्तं#}. {@-Longitudinal,@}
-<div n="lb"/>{%a.%} {#अनुदैर्घ्य, अन्वायाम#}.
+{#रेखांशः;#} (of heavenly objects) {#भोगः;#}
+‘circle of l.’ {#रेखांशवृत्तं#}. {@-Longitudinal,@}
+{%a.%} {#अनुदैर्घ्य, अन्वायाम#}.
 <LEND>

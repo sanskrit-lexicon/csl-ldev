@@ -1,204 +1,204 @@
 <L>21648<pc>0791-c<k1>बहु<k2>बहु
 {#बहु#}¦ {%<ab>a.</ab>%} ({#हु#} or {#ह्वी#} {%<ab>f.</ab>%}; <ab>compar.</ab> {#भूयस्#};
-<><ab>superl.</ab> {#भूयिष्ठ#}) {@1@} Much, plentiful,
-<>abundant, great; {#तस्मिन्बहु एतदपि#} <lbinfo n="ls:Ś.+4"/>
-<><ls>Ś. 4</ls> ‘even this was much for him’
-<>(was too much to be expected of
-<>him); {#बहु प्रष्टव्यमत्र#} <ls>Mu. 3</ls>; {#अल्पस्य#}
-<>{#हेतोर्बहु हातुमिच्छन्#} <ls>R. 2. 47.</ls> {@--2@} Many,
-<>numerous; as in {#बह्वक्षर, बहुप्रकार#}.
-<>{@--3@} Frequented, repeated. {@--4@} Large,
-<>great. {@--5@} Abounding or rich in
-<>(as first member of <ab>comp.</ab>);  <lbinfo n="bahukaMwa#ko"/>
-<>{#बहुकंटको देशः#} &c. {%--<ab>ind.</ab>%} {@1@} Much, <lbinfo n="abund+antly"/>
-<>abundantly, very much, exceedingly,
-<>greatly, in a high degree. <lbinfo n="Some+what"/>
-<>{@--2@} Somewhat, nearly, almost; as in {#बहुतृण#}.
-<>({#किं बहुना#} ‘why say much’, ‘in
-<>short’; {#बहु मन्#} to think or esteem
-<>highly, rate high, prize, value;  <lbinfo n="tvatsaM#BAvitamAtmAnaM"/>
-<>{#त्वत्संभावितमात्मानं बहु मन्यामहे वयं#}  <lbinfo n="ls:Ku. 6.+ 20"/>
-<><ls>Ku. 6. 20</ls>; {#ययातेरिव शर्मिष्ठा भर्तुर्बहुमता भव#}  <lbinfo n="ls:Ś.+ 4. 6"/>
-<><ls>Ś. 4. 6</ls>; <ls n="Ś.">7. 1</ls>; <ls>R. 12. 89</ls>; <ls>Bg. 2. 35</ls>
-<><ls>Bk. 3. 53</ls>; <ls n="Bk.">5. 84.</ls> <ls n="Bk.">8. 12</ls>). {@--Comp.@}
-<>{#--अक्षर#} {%<ab>a.</ab>%} having many syllables,
-<>polysyllabic (as a word). {#--अच्#},
-<>{#अच्क#} {%<ab>a.</ab>%} having many vowels, <lbinfo n="poly+syllabic"/>
-<>polysyllabic. {#--अनर्थ#} {%<ab>a.</ab>%} fraught with
-<>many evils. {#--अप्, --अप#} {%<ab>a.</ab>%} watery.
-<>{#--अपत्य#} {%<ab>a.</ab>%} {1} having a numerous
-<>progeny. {2} (in <ab>astrol.</ab>) <lbinfo n="promis+ing"/>
-<>promising a numerous progeny. ({#--त्यः#})
-<>{1} a hog. {2} a mouse, rat. ({#--त्या#}) 
+<ab>superl.</ab> {#भूयिष्ठ#}) {@1@} Much, plentiful,
+abundant, great; {#तस्मिन्बहु एतदपि#} <lbinfo n="ls:Ś.+4"/>
+<ls>Ś. 4</ls> ‘even this was much for him’
+(was too much to be expected of
+him); {#बहु प्रष्टव्यमत्र#} <ls>Mu. 3</ls>; {#अल्पस्य#}
+{#हेतोर्बहु हातुमिच्छन्#} <ls>R. 2. 47.</ls> {@--2@} Many,
+numerous; as in {#बह्वक्षर, बहुप्रकार#}.
+{@--3@} Frequented, repeated. {@--4@} Large,
+great. {@--5@} Abounding or rich in
+(as first member of <ab>comp.</ab>);  <lbinfo n="bahukaMwa#ko"/>
+{#बहुकंटको देशः#} &c. {%--<ab>ind.</ab>%} {@1@} Much, <lbinfo n="abund+antly"/>
+abundantly, very much, exceedingly,
+greatly, in a high degree. <lbinfo n="Some+what"/>
+{@--2@} Somewhat, nearly, almost; as in {#बहुतृण#}.
+({#किं बहुना#} ‘why say much’, ‘in
+short’; {#बहु मन्#} to think or esteem
+highly, rate high, prize, value;  <lbinfo n="tvatsaM#BAvitamAtmAnaM"/>
+{#त्वत्संभावितमात्मानं बहु मन्यामहे वयं#}  <lbinfo n="ls:Ku. 6.+ 20"/>
+<ls>Ku. 6. 20</ls>; {#ययातेरिव शर्मिष्ठा भर्तुर्बहुमता भव#}  <lbinfo n="ls:Ś.+ 4. 6"/>
+<ls>Ś. 4. 6</ls>; <ls n="Ś.">7. 1</ls>; <ls>R. 12. 89</ls>; <ls>Bg. 2. 35</ls>
+<ls>Bk. 3. 53</ls>; <ls n="Bk.">5. 84.</ls> <ls n="Bk.">8. 12</ls>). {@--Comp.@}
+{#--अक्षर#} {%<ab>a.</ab>%} having many syllables,
+polysyllabic (as a word). {#--अच्#},
+{#अच्क#} {%<ab>a.</ab>%} having many vowels, <lbinfo n="poly+syllabic"/>
+polysyllabic. {#--अनर्थ#} {%<ab>a.</ab>%} fraught with
+many evils. {#--अप्, --अप#} {%<ab>a.</ab>%} watery.
+{#--अपत्य#} {%<ab>a.</ab>%} {1} having a numerous
+progeny. {2} (in <ab>astrol.</ab>) <lbinfo n="promis+ing"/>
+promising a numerous progeny. ({#--त्यः#})
+{1} a hog. {2} a mouse, rat. ({#--त्या#}) 
 [Page0792-a+ 57]
-<>a cow that has often calved. {#--अपाय#}
-<>{%<ab>a.</ab>%} exposed to many risks;  <lbinfo n="ls:Pt. 2.+ 166."/>
-<><ls>Pt. 2. 166.</ls> {#--अर्थ#} {%<ab>a.</ab>%} {1} having many
-<>senses. {2} having many objects.
-<>{3} important. {#--आशिन्#} {%<ab>a.</ab>%} <lbinfo n="vora+cious"/>
-<>voracious, gluttonous. {#--उदकः#} a kind
-<>of mendicant who lives in a
-<>strange town and maintains <lbinfo n="him+self"/>
-<>himself with alms got by begging
-<>from door to door; <ab>cf.</ab> {#कुटीचक#}.
-<>{#--उपाय#} {%<ab>a.</ab>%} effective. {#--ऋच्#} {%<ab>a.</ab>%} having
-<>many verses. ({%--<ab>f.</ab>%}) a term applied to
-<>the Ṛgveda. {#--ऋच#} {%<ab>a.</ab>%} having many
-<>verses. ({#-चः#}) one conversant with
-<>the Ṛgveda. {#--एनस्#} {%<ab>a.</ab>%} very sinful.
-<>{#--कर#} {%<ab>a.</ab>%} {1} doing much, busy, <lbinfo n="in+dustrious"/>
-<>industrious. {2} useful in many ways.
-<>({#--रः#}) {1} a sweeper, cleaner. {2} a
-<>camel. ({#--री#}) a broom. {#--कालं#} {%<ab>ind.</ab>%}
-<>for a long time. {#--कालनि#} {%<ab>a.</ab>%} of a
-<>long standing, old, ancient. {#--कूर्चः#}
-<>a kind of cocoa-nut tree. {#--क्रमः#} a
-<>Krama of more than three words;
-<><ab>cf.</ab> {#क्रम#}. {#--क्षम#} {%<ab>a.</ab>%} patient;  <lbinfo n="ls:Ku. 5.+ 40."/>
-<><ls>Ku. 5. 40.</ls> ({#--मः#}) {1} a Buddha. {2} a Jaina
-<>deified saint. {#--गंध#} {%<ab>a.</ab>%} <lbinfo n="strong-scent+ed"/>
-<>strong-scented. ({#--धं#}) cinnamon. {#--गंधदा#} musk.
-<>{#--गंधा#} {1} the Yūthikā creeper. {2} a
-<>bud of the Campaka tree. {#--गुण#} {%<ab>a.</ab>%}
-<>having many threads or qualities.
-<>{#--जल्प#} {%<ab>a.</ab>%} garrulous, talkative, <lbinfo n="lo+quacious"/>
-<>loquacious. {#--ज्ञ#} {%<ab>a.</ab>%} knowing much, <lbinfo n="well+informed"/>
-<>wellinformed, possessed of great <lbinfo n="know+ledge"/>
-<>knowledge. {#--तंत्रीक#} {%<ab>a.</ab>%} many-stringed.  <lbinfo n="--tf#RaM"/>
-<>{#--तृणं#} anything much like grass; (hence)
-<>what is unimportant or contemptible;
-<>{#निदर्शनमसाराणां लघुर्बहुतृणं नरः#}  <lbinfo n="ls:Śi. 2.+ 50."/>
-<><ls>Śi. 2. 50.</ls> {#--त्वक्कः, त्वच्#} {%<ab>m.</ab>%} a kind of birch
-<>tree. {#--द#} {%<ab>a.</ab>%} liberal, generous.  <lbinfo n="--da#kziRa"/>
-<>{#--दक्षिण#} {%<ab>a.</ab>%} {1} attended with many gifts
-<>or donations. {2} liberal, munificent.
-<>{#--दर्शक, --दार्शिन्#} {%<ab>a.</ab>%} prudent, <lbinfo n="circum+spect"/>
-<>circumspect. {#--दायिन्#} {%<ab>a.</ab>%} liberal, munificent,
-<>a liberal donor. {#--दुग्ध#} {%<ab>a.</ab>%} yielding
-<>much milk. ({#--ग्धः#}) wheat. ({#--ग्धा#}) a
-<>cow yielding much milk. {#--दृश्वन्#} {%<ab>a.</ab>%}
-<>greatly experienced, a great <lbinfo n="obser+ver"/>
-<>observer. {#--दृष्ट#} {%<ab>a.</ab>%} very experienced.
-<>{#--दोष#} {%<ab>a.</ab>%} {1} having many faults or
-<>defects, very wicked or sinful. {2}
-<>full of crimes or dangers; {#बहुदोषा हि#}
-<>{#शर्वरी#} <ls>Mk. 1. 58.</ls> {#--धन#} {%<ab>a.</ab>%} very rich,
-<>wealthy. {#--धारं#} the thunderbolt of <lbinfo n="In+dra"/>
-<>Indra. {#--धेनुकं#} a great number of <lbinfo n="milch+cows"/>
-<>milchcows. {#--नादः#} a conch-shell.  <lbinfo n="--patnIka#tA"/>
-<>{#--पत्नीकता#} polygamy {#--पत्रः#} an onion. ({#--त्रं#})
-<>talc. ({#--त्री#}) the holy basil. {#--पद्, --पाद्#}, 
+a cow that has often calved. {#--अपाय#}
+{%<ab>a.</ab>%} exposed to many risks;  <lbinfo n="ls:Pt. 2.+ 166."/>
+<ls>Pt. 2. 166.</ls> {#--अर्थ#} {%<ab>a.</ab>%} {1} having many
+senses. {2} having many objects.
+{3} important. {#--आशिन्#} {%<ab>a.</ab>%} <lbinfo n="vora+cious"/>
+voracious, gluttonous. {#--उदकः#} a kind
+of mendicant who lives in a
+strange town and maintains <lbinfo n="him+self"/>
+himself with alms got by begging
+from door to door; <ab>cf.</ab> {#कुटीचक#}.
+{#--उपाय#} {%<ab>a.</ab>%} effective. {#--ऋच्#} {%<ab>a.</ab>%} having
+many verses. ({%--<ab>f.</ab>%}) a term applied to
+the Ṛgveda. {#--ऋच#} {%<ab>a.</ab>%} having many
+verses. ({#-चः#}) one conversant with
+the Ṛgveda. {#--एनस्#} {%<ab>a.</ab>%} very sinful.
+{#--कर#} {%<ab>a.</ab>%} {1} doing much, busy, <lbinfo n="in+dustrious"/>
+industrious. {2} useful in many ways.
+({#--रः#}) {1} a sweeper, cleaner. {2} a
+camel. ({#--री#}) a broom. {#--कालं#} {%<ab>ind.</ab>%}
+for a long time. {#--कालनि#} {%<ab>a.</ab>%} of a
+long standing, old, ancient. {#--कूर्चः#}
+a kind of cocoa-nut tree. {#--क्रमः#} a
+Krama of more than three words;
+<ab>cf.</ab> {#क्रम#}. {#--क्षम#} {%<ab>a.</ab>%} patient;  <lbinfo n="ls:Ku. 5.+ 40."/>
+<ls>Ku. 5. 40.</ls> ({#--मः#}) {1} a Buddha. {2} a Jaina
+deified saint. {#--गंध#} {%<ab>a.</ab>%} <lbinfo n="strong-scent+ed"/>
+strong-scented. ({#--धं#}) cinnamon. {#--गंधदा#} musk.
+{#--गंधा#} {1} the Yūthikā creeper. {2} a
+bud of the Campaka tree. {#--गुण#} {%<ab>a.</ab>%}
+having many threads or qualities.
+{#--जल्प#} {%<ab>a.</ab>%} garrulous, talkative, <lbinfo n="lo+quacious"/>
+loquacious. {#--ज्ञ#} {%<ab>a.</ab>%} knowing much, <lbinfo n="well+informed"/>
+wellinformed, possessed of great <lbinfo n="know+ledge"/>
+knowledge. {#--तंत्रीक#} {%<ab>a.</ab>%} many-stringed.  <lbinfo n="--tf#RaM"/>
+{#--तृणं#} anything much like grass; (hence)
+what is unimportant or contemptible;
+{#निदर्शनमसाराणां लघुर्बहुतृणं नरः#}  <lbinfo n="ls:Śi. 2.+ 50."/>
+<ls>Śi. 2. 50.</ls> {#--त्वक्कः, त्वच्#} {%<ab>m.</ab>%} a kind of birch
+tree. {#--द#} {%<ab>a.</ab>%} liberal, generous.  <lbinfo n="--da#kziRa"/>
+{#--दक्षिण#} {%<ab>a.</ab>%} {1} attended with many gifts
+or donations. {2} liberal, munificent.
+{#--दर्शक, --दार्शिन्#} {%<ab>a.</ab>%} prudent, <lbinfo n="circum+spect"/>
+circumspect. {#--दायिन्#} {%<ab>a.</ab>%} liberal, munificent,
+a liberal donor. {#--दुग्ध#} {%<ab>a.</ab>%} yielding
+much milk. ({#--ग्धः#}) wheat. ({#--ग्धा#}) a
+cow yielding much milk. {#--दृश्वन्#} {%<ab>a.</ab>%}
+greatly experienced, a great <lbinfo n="obser+ver"/>
+observer. {#--दृष्ट#} {%<ab>a.</ab>%} very experienced.
+{#--दोष#} {%<ab>a.</ab>%} {1} having many faults or
+defects, very wicked or sinful. {2}
+full of crimes or dangers; {#बहुदोषा हि#}
+{#शर्वरी#} <ls>Mk. 1. 58.</ls> {#--धन#} {%<ab>a.</ab>%} very rich,
+wealthy. {#--धारं#} the thunderbolt of <lbinfo n="In+dra"/>
+Indra. {#--धेनुकं#} a great number of <lbinfo n="milch+cows"/>
+milchcows. {#--नादः#} a conch-shell.  <lbinfo n="--patnIka#tA"/>
+{#--पत्नीकता#} polygamy {#--पत्रः#} an onion. ({#--त्रं#})
+talc. ({#--त्री#}) the holy basil. {#--पद्, --पाद्#}, 
 [Page0792-b+ 56]
-<>{#--पाद#} {%<ab>m.</ab>%} the fig-tree. {#--पुष्पः#} {1} the
-<>coral tree. {2} the Nimba tree.  <lbinfo n="--pra#kAra"/>
-<>{#--प्रकार#} {%<ab>a.</ab>%} of many kinds, various,
-<>manifold. ({#--रं#}) {%<ab>ind.</ab>%} in many ways,
-<>manifoldly. {#--प्रज#} {%<ab>a.</ab>%} having many
-<>children, prolific. ({#--जः#}) {1} a hog.
-<>{2} the {%munja%} grass. {#--प्रतिज्ञ#} {%<ab>a.</ab>%} {1}
-<>comprising many statements or <lbinfo n="as+sertions"/>
-<>assertions, complicated. {2} (in law)
-<>involving many counts, as a plaint.
-<>{#--प्रद#} {%<ab>a.</ab>%} exceedingly liberal, a <lbinfo n="muni+ficent"/>
-<>munificent donor. {#--प्रसूः#} the mother of
-<>many children. {#--प्रेयसी#} {%<ab>a.</ab>%} having
-<>many loved ones. {#--फल#} {%<ab>a.</ab>%} rich in
-<>fruits. ({#--लः#}) the Kadamba tree.
-<>({#--ली#}) the opposite-leaved fig-tree.
-<>{#--बलः#} a lion. {#--भाग्य#} {%<ab>a.</ab>%} very lucky
-<>or fortunate. {#--भाषिन्#} {%<ab>a.</ab>%} garrulous,
-<>talkative. {#--भुजा#} an epithet of <lbinfo n="Dur+gā"/>
-<>Durgā. {#--मंजरी#} the holy basil. {#--मत#} {%<ab>a.</ab>%}
-<>{1} highly esteemed or prized, <lbinfo n="va+lued"/>
-<>valued, respected. {2} having many
-<>different opinions. {#--मतिः#} {%<ab>f.</ab>%} great
-<>value or estimation; <ls>Ki. 7. 15.</ls>
-<>{#--मलं#} lead. {#--मानः#} great respect or
-<>regard, high esteem; {#पुरुषबहुमानो#} <lbinfo n="vi#galitaH"/>
-<>{#विगलितः#} <ls>Bh. 3. 9</ls>; {#वर्तमानकवेः#} <lbinfo n="kAlidA#sasya"/>
-<>{#कालिदासस्य क्रियायां कथं परिषदो बहुमानः#}  <lbinfo n="ls:M.+1"/>
+{#--पाद#} {%<ab>m.</ab>%} the fig-tree. {#--पुष्पः#} {1} the
+coral tree. {2} the Nimba tree.  <lbinfo n="--pra#kAra"/>
+{#--प्रकार#} {%<ab>a.</ab>%} of many kinds, various,
+manifold. ({#--रं#}) {%<ab>ind.</ab>%} in many ways,
+manifoldly. {#--प्रज#} {%<ab>a.</ab>%} having many
+children, prolific. ({#--जः#}) {1} a hog.
+{2} the {%munja%} grass. {#--प्रतिज्ञ#} {%<ab>a.</ab>%} {1}
+comprising many statements or <lbinfo n="as+sertions"/>
+assertions, complicated. {2} (in law)
+involving many counts, as a plaint.
+{#--प्रद#} {%<ab>a.</ab>%} exceedingly liberal, a <lbinfo n="muni+ficent"/>
+munificent donor. {#--प्रसूः#} the mother of
+many children. {#--प्रेयसी#} {%<ab>a.</ab>%} having
+many loved ones. {#--फल#} {%<ab>a.</ab>%} rich in
+fruits. ({#--लः#}) the Kadamba tree.
+({#--ली#}) the opposite-leaved fig-tree.
+{#--बलः#} a lion. {#--भाग्य#} {%<ab>a.</ab>%} very lucky
+or fortunate. {#--भाषिन्#} {%<ab>a.</ab>%} garrulous,
+talkative. {#--भुजा#} an epithet of <lbinfo n="Dur+gā"/>
+Durgā. {#--मंजरी#} the holy basil. {#--मत#} {%<ab>a.</ab>%}
+{1} highly esteemed or prized, <lbinfo n="va+lued"/>
+valued, respected. {2} having many
+different opinions. {#--मतिः#} {%<ab>f.</ab>%} great
+value or estimation; <ls>Ki. 7. 15.</ls>
+{#--मलं#} lead. {#--मानः#} great respect or
+regard, high esteem; {#पुरुषबहुमानो#} <lbinfo n="vi#galitaH"/>
+{#विगलितः#} <ls>Bh. 3. 9</ls>; {#वर्तमानकवेः#} <lbinfo n="kAlidA#sasya"/>
+{#कालिदासस्य क्रियायां कथं परिषदो बहुमानः#}  <lbinfo n="ls:M.+1"/>
 <ls>M. 1</ls>; <ls>V. 1. 2</ls>; <ls>Ku. 5. 31.</ls> ({#--नं#} a)
-<>gift given by a superior to an <lbinfo n="in+ferior"/>
-<>inferior. {#--मान्य#} {%<ab>a.</ab>%} respectable, <lbinfo n="es+teemable"/>
-<>esteemable. {#--माय#} {%<ab>a.</ab>%} artful, deceitful,
-<>treacherous; <ls>Pt. 1. 321.</ls> {#--मार्गः#}
-<>a place where many roads meet.
-<>{#--मार्गगा#} {1} <ab>N.</ab> of the river Ganges;
-<><ls>Ratn. 1. 3.</ls> {2} a wanton or <lbinfo n="un+chaste"/>
-<>unchaste woman. {#--मार्गी#} a place where
-<>several roads meet. {#--मुख#} {%<ab>a.</ab>%} much,
-<>excessive; {#अस्या भर्तुर्बहुमुखमनुरागं#} <ls>Ś. 6.</ls>
-<>{#--मूत्र#} {%<ab>a.</ab>%} suffering from diabetes.
-<>{#--मूर्ति#} {%<ab>a.</ab>%} multiform, variously <lbinfo n="shap+ed"/>
-<>shaped. ({#--र्तिः#} {%<ab>f.</ab>%}) the wild cotton-shrub.
-<>{#--मूर्धन्#} {%<ab>m.</ab>%} an epithet of Viṣṇu.
-<>{#--मूल्य#} {%<ab>a.</ab>%} costly, high-priced. ({#--ल्यं#})
-<>a large sum of money, heavy or
-<>costly price. {#--मृग#} {%<ab>a.</ab>%} abounding in
-<>deer. {#--रत्न#} {%<ab>a.</ab>%} rich in jewels. {#--रस#}
-<>{%<ab>a.</ab>%} juicy, succulent. {#--राशि#} {%<ab>a.</ab>%} (in
-<>arith.) consisting of many terms.
-<>{#--रूप#} {%<ab>a.</ab>%} {1} many-formed, multiform,
-<>manifold. {2} variegated, spotted,
-<>chequered. ({#--पः#}) {1} a lizard, <lbinfo n="cha+meleon"/>
-<>chameleon. {2} hair. {3} the sun. {4}
-<><ab>N.</ab> of Śiva. {5} of Viṣṇu. {6} of
-<>Brahmā. {7} of the god of love.
-<>{#--रूपक#} {%<ab>a.</ab>%} multiform, manifold 
+gift given by a superior to an <lbinfo n="in+ferior"/>
+inferior. {#--मान्य#} {%<ab>a.</ab>%} respectable, <lbinfo n="es+teemable"/>
+esteemable. {#--माय#} {%<ab>a.</ab>%} artful, deceitful,
+treacherous; <ls>Pt. 1. 321.</ls> {#--मार्गः#}
+a place where many roads meet.
+{#--मार्गगा#} {1} <ab>N.</ab> of the river Ganges;
+<ls>Ratn. 1. 3.</ls> {2} a wanton or <lbinfo n="un+chaste"/>
+unchaste woman. {#--मार्गी#} a place where
+several roads meet. {#--मुख#} {%<ab>a.</ab>%} much,
+excessive; {#अस्या भर्तुर्बहुमुखमनुरागं#} <ls>Ś. 6.</ls>
+{#--मूत्र#} {%<ab>a.</ab>%} suffering from diabetes.
+{#--मूर्ति#} {%<ab>a.</ab>%} multiform, variously <lbinfo n="shap+ed"/>
+shaped. ({#--र्तिः#} {%<ab>f.</ab>%}) the wild cotton-shrub.
+{#--मूर्धन्#} {%<ab>m.</ab>%} an epithet of Viṣṇu.
+{#--मूल्य#} {%<ab>a.</ab>%} costly, high-priced. ({#--ल्यं#})
+a large sum of money, heavy or
+costly price. {#--मृग#} {%<ab>a.</ab>%} abounding in
+deer. {#--रत्न#} {%<ab>a.</ab>%} rich in jewels. {#--रस#}
+{%<ab>a.</ab>%} juicy, succulent. {#--राशि#} {%<ab>a.</ab>%} (in
+arith.) consisting of many terms.
+{#--रूप#} {%<ab>a.</ab>%} {1} many-formed, multiform,
+manifold. {2} variegated, spotted,
+chequered. ({#--पः#}) {1} a lizard, <lbinfo n="cha+meleon"/>
+chameleon. {2} hair. {3} the sun. {4}
+<ab>N.</ab> of Śiva. {5} of Viṣṇu. {6} of
+Brahmā. {7} of the god of love.
+{#--रूपक#} {%<ab>a.</ab>%} multiform, manifold 
 [Page0792-c+ 57]
-<>{#--रेतस्#} {%<ab>m.</ab>%} an epithet of Brahmā.
-<>{#--रोमन्#} {%<ab>a.</ab>%} hairy, shaggy. ({%--<ab>m.</ab>%}) a
-<>sheep. {#--लवणं#} a soil impregnated
-<>with salt. {#--वचनं#} the plural number
-<>(in <ab>gram.</ab>). {#--वर्ण#} {%<ab>a.</ab>%} <lbinfo n="many-colour+ed"/>
-<>many-coloured. {#--वारं#} {%<ab>ind.</ab>%} many times, often.
-<>{#--वार्षिक#} {%<ab>a.</ab>%} lasting for many years.
-<>{#--विक्रम#} {%<ab>a.</ab>%} very powerful, heroic,
-<>a great warrior. {#--विध्न#} {%<ab>a.</ab>%} <lbinfo n="present+ing"/>
-<>presenting many difficulties, attended with
-<>many dangers. {#--विध#} {%<ab>a.</ab>%} of many
-<>kinds, manifold, diverse. {#--वी#} ({#बी#})
-<>{#जं#} the custard apple. {#--व्ययिन्#} {%<ab>a.</ab>%}
-<>lavish, prodigal, spendthrift. {#--व्रीहि#}
-<>{%<ab>a.</ab>%} possessing much rice; {#तत्पुरुष#}
-<>{#कर्मधारय येनाहं स्यां बहुव्रीहिः#} <ls>Udb.</ls>
-<>(where it is also the name of the
-<>compound). ({#--हिः#}) one of the four
-<>principal kinds of compounds in
-<>Sanskrit. In it, two or more nouns
-<>in apposition to each other are
-<>compounded, the attributive <lbinfo n="mem+ber"/>
-<>member (whether a noun or an <lbinfo n="adjec+tive"/>
-<>adjective) being placed first, and made
-<>to qualify another substantive, and
-<>neither of the two members <lbinfo n="sepa+rately"/>
-<>separately, but the sense of the whole
-<>compound, qualifies that <lbinfo n="substan+tive"/>
-<>substantive. This compound is adjectival
-<>in character, but there are several
-<>instances of Bahuvrīhi compounds
-<>which have come to be regarded
-<>and used as nouns (their <lbinfo n="applica+tion"/>
-<>application being restricted by usage to
-<>particular individuals); {%<ab>i. e.</ab>%} {#चक्रपाणि#},
-<>{#शशिशेखर, पीतांबर, चतुर्मुख, त्रिनेत्र#}, <lbinfo n="kusumaSa#ra"/>
-<>{#कुसुमशर#} &c. {#--शत्रुः#} a sparrow. {#--शल्यः#} a
-<>species of Khadira. {#--शाख#} {%<ab>a.</ab>%} <lbinfo n="hav+ing"/>
-<>having many branches or ramifications.
-<>{#--शिख#} {%<ab>a.</ab>%} having many points.
-<>{#--शृंगः#} an epithet of Viṣṇu. {#--श्रुत#}
-<>{%<ab>a.</ab>%} {1} well-informed, very learned;
-<><ls>H. 1. 1</ls>; <ls>Pt. 2. 1</ls>;  <lbinfo n="ls:R. 15.+ 36."/>
-<><ls>R. 15. 36.</ls> {2} well-versed in the Vedas;
-<><ls>Ms. 8. 350.</ls> {#--संतति#} {%<ab>a.</ab>%} having a
-<>numerous progeny. ({#--तिः#}) a kind
-<>of bamboo. {#--सार#} {%<ab>a.</ab>%} possessed of
-<>great pith or essence, substantial.
-<>({#--रः#}) the Khadira tree. {#--सूः#} {1}
-<>a mother of many children. {2} a
-<>sow. {#--सूतिः#} {%<ab>f.</ab>%} {1} a mother of many
-<>children. {2} a cow that often
-<>calves. {#--स्वन#} {%<ab>a.</ab>%} vociferous. ({#--नः#})
-<>an owl. {#--स्वामिक#} {%<ab>a.</ab>%} owned by
-<>many.
+{#--रेतस्#} {%<ab>m.</ab>%} an epithet of Brahmā.
+{#--रोमन्#} {%<ab>a.</ab>%} hairy, shaggy. ({%--<ab>m.</ab>%}) a
+sheep. {#--लवणं#} a soil impregnated
+with salt. {#--वचनं#} the plural number
+(in <ab>gram.</ab>). {#--वर्ण#} {%<ab>a.</ab>%} <lbinfo n="many-colour+ed"/>
+many-coloured. {#--वारं#} {%<ab>ind.</ab>%} many times, often.
+{#--वार्षिक#} {%<ab>a.</ab>%} lasting for many years.
+{#--विक्रम#} {%<ab>a.</ab>%} very powerful, heroic,
+a great warrior. {#--विध्न#} {%<ab>a.</ab>%} <lbinfo n="present+ing"/>
+presenting many difficulties, attended with
+many dangers. {#--विध#} {%<ab>a.</ab>%} of many
+kinds, manifold, diverse. {#--वी#} ({#बी#})
+{#जं#} the custard apple. {#--व्ययिन्#} {%<ab>a.</ab>%}
+lavish, prodigal, spendthrift. {#--व्रीहि#}
+{%<ab>a.</ab>%} possessing much rice; {#तत्पुरुष#}
+{#कर्मधारय येनाहं स्यां बहुव्रीहिः#} <ls>Udb.</ls>
+(where it is also the name of the
+compound). ({#--हिः#}) one of the four
+principal kinds of compounds in
+Sanskrit. In it, two or more nouns
+in apposition to each other are
+compounded, the attributive <lbinfo n="mem+ber"/>
+member (whether a noun or an <lbinfo n="adjec+tive"/>
+adjective) being placed first, and made
+to qualify another substantive, and
+neither of the two members <lbinfo n="sepa+rately"/>
+separately, but the sense of the whole
+compound, qualifies that <lbinfo n="substan+tive"/>
+substantive. This compound is adjectival
+in character, but there are several
+instances of Bahuvrīhi compounds
+which have come to be regarded
+and used as nouns (their <lbinfo n="applica+tion"/>
+application being restricted by usage to
+particular individuals); {%<ab>i. e.</ab>%} {#चक्रपाणि#},
+{#शशिशेखर, पीतांबर, चतुर्मुख, त्रिनेत्र#}, <lbinfo n="kusumaSa#ra"/>
+{#कुसुमशर#} &c. {#--शत्रुः#} a sparrow. {#--शल्यः#} a
+species of Khadira. {#--शाख#} {%<ab>a.</ab>%} <lbinfo n="hav+ing"/>
+having many branches or ramifications.
+{#--शिख#} {%<ab>a.</ab>%} having many points.
+{#--शृंगः#} an epithet of Viṣṇu. {#--श्रुत#}
+{%<ab>a.</ab>%} {1} well-informed, very learned;
+<ls>H. 1. 1</ls>; <ls>Pt. 2. 1</ls>;  <lbinfo n="ls:R. 15.+ 36."/>
+<ls>R. 15. 36.</ls> {2} well-versed in the Vedas;
+<ls>Ms. 8. 350.</ls> {#--संतति#} {%<ab>a.</ab>%} having a
+numerous progeny. ({#--तिः#}) a kind
+of bamboo. {#--सार#} {%<ab>a.</ab>%} possessed of
+great pith or essence, substantial.
+({#--रः#}) the Khadira tree. {#--सूः#} {1}
+a mother of many children. {2} a
+sow. {#--सूतिः#} {%<ab>f.</ab>%} {1} a mother of many
+children. {2} a cow that often
+calves. {#--स्वन#} {%<ab>a.</ab>%} vociferous. ({#--नः#})
+an owl. {#--स्वामिक#} {%<ab>a.</ab>%} owned by
+many.
 <LEND>

@@ -1,49 +1,49 @@
 <L>21972<pc>0808-c<k1>भयं<k2>भयं
 {#भयं#}¦ [{#बिभेत्यस्मात्, भी-अपादाने अच्#}]
-<>{@1@} Fear, alarm, dread, apprehension.
-<>(<ab>oft.</ab> with <ab>abl.</ab>); {#भोगे रोगभयं कुले#}
-<>{#च्युतिभयं वित्ते नृपालाद्भयं#} <ls>Bh. 3. 35</ls>;
-<>{#यदि समरमपास्य नास्ति मृत्योर्भयं#} <ls>Ve. 3. 4.</ls>
-<>{@--2@} Fright, terror; {#जगद्भयं#} &c. {@--3@}
-<>A danger, risk, hazard; {#तावद्भयस्य#}
-<>{#भेतव्यं यावद्भयमनागतं । आगतं तु भयं#}
-<>{#वीक्ष्य नरः कुर्याद्यथोचितं#} <ls>H. 1. 57.</ls> {@--4@}
-<>The sentiment of fear; see {#भयानक#}
-<>below; {#रौद्रशक्त्या तु जनितं#} <lbinfo n="cittavEkalya#jaM"/>
-<>{#चित्तवैकल्यजं भयं#} <ls>S. D. 6.</ls> {#--यः#} Sickness, <lbinfo n="dis+ease"/>
-<>disease. {@--Comp.@} {#--अन्वित, --आक्रांत#} {%<ab>a.</ab>%}
-<>overcome with fear. {#--अपह#} {%<ab>a.</ab>%}
-<>warding off or removing fear. ({#--हः#})
-<>{1} <ab>N.</ab> of Viṣṇu. {2} a king.  <lbinfo n="--Atu#ra"/>
-<>{#--आतुर, --आर्त#} {%<ab>a.</ab>%} afraid, alarmed, <lbinfo n="frighten+ed"/>
-<>frightened. {#--आवह#} {%<ab>a.</ab>%} {1} causing fear, <lbinfo n="for+midable"/>
-<>formidable. {2} risky; {#स्वधर्मे निधनं श्रेयः#}
-<>{#परधर्मो भयावहः#} <ls>Bg. 3. 35.</ls> {#--उत्तर#} {%<ab>a.</ab>%}
-<>attended with or succeeded by fear.
-<>{#--एकप्रवण#} {%<ab>a.</ab>%} wholly overpowered by
-<>fear. {#--कंपः#} tremour of fear. {#--कर#}
-<>(also {#भयंकर#}) {%<ab>a.</ab>%} {1} frightening,
-<>terrible, fearful. {2} dangerous, <lbinfo n="peri+lous"/>
-<>perilous; so {#भयकारक, भयकृत्#}. {#--कृत्#} {%<ab>m.</ab>%}
-<><ab>N.</ab> of Viṣṇu. {#--डिंडिमः#} a drum
-<>used in battle. {#--त्रातृ#} {%<ab>a.</ab>%} a deliverer
-<>from fear. {#--दर्शिन्#} {%<ab>a.</ab>%} {1} fearful. {2}
-<>intimidating. {#--द्रुत#} {%<ab>a.</ab>%} fleeing from
-<>fear, routed, put to flight. {#--नाशन#}
-<>removing fear. ({#--नः#}) <ab>N.</ab> of Viṣṇu.
-<>{#--प्रतीकारः#} warding off or removal
-<>of fears. {#--प्रद#} {%<ab>a.</ab>%} inspiring fear,
-<>fearful, terrible. {#--प्रस्तावः#} an <lbinfo n="occa+sion"/>
-<>occasion of fear. {#--ब्राह्मणः#} a timid <lbinfo n="Brā+hmaṇa"/>
-<>Brāhmaṇa, a Brāhmaṇa who, to save
-<>himself from danger, declares his 
+{@1@} Fear, alarm, dread, apprehension.
+(<ab>oft.</ab> with <ab>abl.</ab>); {#भोगे रोगभयं कुले#}
+{#च्युतिभयं वित्ते नृपालाद्भयं#} <ls>Bh. 3. 35</ls>;
+{#यदि समरमपास्य नास्ति मृत्योर्भयं#} <ls>Ve. 3. 4.</ls>
+{@--2@} Fright, terror; {#जगद्भयं#} &c. {@--3@}
+A danger, risk, hazard; {#तावद्भयस्य#}
+{#भेतव्यं यावद्भयमनागतं । आगतं तु भयं#}
+{#वीक्ष्य नरः कुर्याद्यथोचितं#} <ls>H. 1. 57.</ls> {@--4@}
+The sentiment of fear; see {#भयानक#}
+below; {#रौद्रशक्त्या तु जनितं#} <lbinfo n="cittavEkalya#jaM"/>
+{#चित्तवैकल्यजं भयं#} <ls>S. D. 6.</ls> {#--यः#} Sickness, <lbinfo n="dis+ease"/>
+disease. {@--Comp.@} {#--अन्वित, --आक्रांत#} {%<ab>a.</ab>%}
+overcome with fear. {#--अपह#} {%<ab>a.</ab>%}
+warding off or removing fear. ({#--हः#})
+{1} <ab>N.</ab> of Viṣṇu. {2} a king.  <lbinfo n="--Atu#ra"/>
+{#--आतुर, --आर्त#} {%<ab>a.</ab>%} afraid, alarmed, <lbinfo n="frighten+ed"/>
+frightened. {#--आवह#} {%<ab>a.</ab>%} {1} causing fear, <lbinfo n="for+midable"/>
+formidable. {2} risky; {#स्वधर्मे निधनं श्रेयः#}
+{#परधर्मो भयावहः#} <ls>Bg. 3. 35.</ls> {#--उत्तर#} {%<ab>a.</ab>%}
+attended with or succeeded by fear.
+{#--एकप्रवण#} {%<ab>a.</ab>%} wholly overpowered by
+fear. {#--कंपः#} tremour of fear. {#--कर#}
+(also {#भयंकर#}) {%<ab>a.</ab>%} {1} frightening,
+terrible, fearful. {2} dangerous, <lbinfo n="peri+lous"/>
+perilous; so {#भयकारक, भयकृत्#}. {#--कृत्#} {%<ab>m.</ab>%}
+<ab>N.</ab> of Viṣṇu. {#--डिंडिमः#} a drum
+used in battle. {#--त्रातृ#} {%<ab>a.</ab>%} a deliverer
+from fear. {#--दर्शिन्#} {%<ab>a.</ab>%} {1} fearful. {2}
+intimidating. {#--द्रुत#} {%<ab>a.</ab>%} fleeing from
+fear, routed, put to flight. {#--नाशन#}
+removing fear. ({#--नः#}) <ab>N.</ab> of Viṣṇu.
+{#--प्रतीकारः#} warding off or removal
+of fears. {#--प्रद#} {%<ab>a.</ab>%} inspiring fear,
+fearful, terrible. {#--प्रस्तावः#} an <lbinfo n="occa+sion"/>
+occasion of fear. {#--ब्राह्मणः#} a timid <lbinfo n="Brā+hmaṇa"/>
+Brāhmaṇa, a Brāhmaṇa who, to save
+himself from danger, declares his 
 [Page0809-a+ 56]
-<>caste relying on the inviolability
-<>of a Brāhmaṇa. {#--भ्रष्ट#} {%<ab>a.</ab>%} put to
-<>flight. {#--विप्लुत#} {%<ab>a.</ab>%} panic-struck.  <lbinfo n="--vyU#haH"/>
-<>{#--व्यूहः#} a particular array of troops when
-<>they are threatened with danger.
-<>{#--शील#} {%<ab>a.</ab>%} timid. {#--स्थानं, --हेतुः#} a cause
-<>of fear. {#--हर्तृ, हारिन्#} {%<ab>a.</ab>%} removing
-<>fear, dispelling alarm.
+caste relying on the inviolability
+of a Brāhmaṇa. {#--भ्रष्ट#} {%<ab>a.</ab>%} put to
+flight. {#--विप्लुत#} {%<ab>a.</ab>%} panic-struck.  <lbinfo n="--vyU#haH"/>
+{#--व्यूहः#} a particular array of troops when
+they are threatened with danger.
+{#--शील#} {%<ab>a.</ab>%} timid. {#--स्थानं, --हेतुः#} a cause
+of fear. {#--हर्तृ, हारिन्#} {%<ab>a.</ab>%} removing
+fear, dispelling alarm.
 <LEND>

@@ -1,4 +1,4 @@
 <L>7859<pc>339<k1>perquisite<k2>perquisite
 {@Perquisite,@}¦ {%s.%} {#अधिकलाभः, पुरस्कारः;#} {%See%}
-<div n="lb"/>{@Gift.@}
+{@Gift.@}
 <LEND>

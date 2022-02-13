@@ -1,20 +1,20 @@
 <L>8790<pc>388<k1>remain<k2>remain
 {@Remain,@}¦ {%v. i.%} {#अव-स्था#} 1 A, {#स्था#} 1 P,
-<div n="lb"/>{#आस्#} 2 A, {#वृत्#} 1 A; {%See%} {@Continue. 2@}
-<div n="lb"/>{#नि-, वस्#} 1 P, {#स्था, अधि-ष्ठा#}. {@3@} {#शिष्#} pass.,
-<div n="lb"/>{#अव-परि-उत्°-, उद्-वृत्;#} ‘he r. ed only’
-<div n="lb"/>in memory (his name only r. ed)
-<div n="lb"/>{#स्मर्तव्यशेषं नीतः;#} ‘r. ing after what is
-<div n="lb"/>eaten’ {#भुक्तावशिष्टं, भूक्तशेषं#} ({#अन्नं#});
-<div n="lb"/>‘those who r. ed alive’ {#हतशेषाः#}. {@-ing,@}
-<div n="lb"/>{%a.%} {#अव-, शिष्ट-शेषा, उद्वृत्त;#} ‘pass the r.
-<div n="lb"/>months’ {#शेषान्मासान्गमय;#} ‘during
-<div n="lb"/>the r. part of his life’ {#आयुःशेषे#}. {@-Re-@}
-<div n="lb"/>{@-mains.@} {%s.%} {#अस्थ्यादिशेषः, अस्थीनि#}.
-<div n="lb"/>{@-Remainder,@} {%s.%} {#अव-, शेषः-षं-शिष्टं, उद्वर्तः,#}
-<div n="lb"/>{#शेषभागः;#} (in arithmetic) {#शेषं, अंतरं;#}
-<div n="lb"/>(of men) ex. by {#अन्य, इतर;#} {%See%} {@Other;@}
-<div n="lb"/>‘substracting 4 from 10 the r. is 6’
-<div n="lb"/>{#दशसु चतुर्भिर्विवर्जितेषु षट् शेषं#} or {#षड्#}
-<div n="lb"/>{#अवशिष्यंते#}.
+{#आस्#} 2 A, {#वृत्#} 1 A; {%See%} {@Continue. 2@}
+{#नि-, वस्#} 1 P, {#स्था, अधि-ष्ठा#}. {@3@} {#शिष्#} pass.,
+{#अव-परि-उत्°-, उद्-वृत्;#} ‘he r. ed only’
+in memory (his name only r. ed)
+{#स्मर्तव्यशेषं नीतः;#} ‘r. ing after what is
+eaten’ {#भुक्तावशिष्टं, भूक्तशेषं#} ({#अन्नं#});
+‘those who r. ed alive’ {#हतशेषाः#}. {@-ing,@}
+{%a.%} {#अव-, शिष्ट-शेषा, उद्वृत्त;#} ‘pass the r.
+months’ {#शेषान्मासान्गमय;#} ‘during
+the r. part of his life’ {#आयुःशेषे#}. {@-Re-@}
+{@-mains.@} {%s.%} {#अस्थ्यादिशेषः, अस्थीनि#}.
+{@-Remainder,@} {%s.%} {#अव-, शेषः-षं-शिष्टं, उद्वर्तः,#}
+{#शेषभागः;#} (in arithmetic) {#शेषं, अंतरं;#}
+(of men) ex. by {#अन्य, इतर;#} {%See%} {@Other;@}
+‘substracting 4 from 10 the r. is 6’
+{#दशसु चतुर्भिर्विवर्जितेषु षट् शेषं#} or {#षड्#}
+{#अवशिष्यंते#}.
 <LEND>

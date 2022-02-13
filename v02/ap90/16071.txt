@@ -1,29 +1,29 @@
 <L>16071<pc>0597-c<k1>धीः<k2>धीः
 {#धीः#}¦ {%<ab>f.</ab>%} [{#ध्यै भावे क्विप् संप्रसारणं च#}]
-<>{@1@} ({%a%}) Intellect, understanding;
-<>{#धियः समग्रैः स गुणैरुदारधीः#}  <lbinfo n="ls:R. 3.+ 30"/>
-<><ls>R. 3. 30</ls>; <ab>cf.</ab> {#कुधी, सुधी#} &c. ({%b%})
-<>Mind; {#दुष्टधी#} wicked-minded;  <lbinfo n="ls:Bg.+ 2. 54"/>
-<><ls>Bg. 2. 54</ls>; <ls>R. 3. 30.</ls> {@--2@} Idea, <lbinfo n="imagina+tion"/>
-<>imagination, fancy, conception; {#न धियां पथि#}
-<>{#वर्तसे#} <ls>Ku. 6. 22</ls>; <ls>Pt. 1. 136.</ls> {@--3@} A
-<>thought, intention, purpose, <lbinfo n="pro+pensity"/>
-<>propensity; <ls>Ki. 1. 37.</ls> {@--4@} Devotion,
-<>prayer. {@--5@} A sacrifice. {@--6@} <lbinfo n="Know+ledge"/>
-<>Knowledge, science. {@--Comp.@} {#--इंद्रियं#} an
-<>organ of perception (= {#ज्ञानेंद्रिय#}
-<><ab>q. v.</ab>); {#मनः कर्णस्तथा नेत्रं रसना चत्वचा सह ।#}
-<>{#नासिका चेति षट् तानि धींद्रियाणि प्रचक्षते ॥#}.
-<>{#--गुणाः#} (<ab>pl.</ab>) intellectual qualities:
-<>they are: --{#शुश्रूषा श्रवणं चैव ग्रहणं धारणं#}
-<>{#तथा । ऊहापोहोर्थविज्ञानं तत्वज्ञानं च धीगुणाः ॥#}
-<><ls>Kāmandaka</ls>. {#--पतिः#} ({#धियांपतिः#}) <lbinfo n="Bṛ+haspati"/>
-<>Bṛhaspati, the preceptor of the gods.
-<>{#--मंत्रिन्#} {%<ab>m.</ab>%}, {#--सचिवः#} {1} a minister
-<>for counsel (<ab>opp.</ab> {#कर्मसचिव#} ‘a <lbinfo n="minis+ter"/>
-<>minister for action or execution’). {2} a
-<>wise or prudent adviser. {#--शक्तिः#}
-<>{%<ab>f.</ab>%} intellectual quality or faculty.
-<>{#--सखः#} a counsellor, adviser, <lbinfo n="minis+ter"/>
-<>minister.
+{@1@} ({%a%}) Intellect, understanding;
+{#धियः समग्रैः स गुणैरुदारधीः#}  <lbinfo n="ls:R. 3.+ 30"/>
+<ls>R. 3. 30</ls>; <ab>cf.</ab> {#कुधी, सुधी#} &c. ({%b%})
+Mind; {#दुष्टधी#} wicked-minded;  <lbinfo n="ls:Bg.+ 2. 54"/>
+<ls>Bg. 2. 54</ls>; <ls>R. 3. 30.</ls> {@--2@} Idea, <lbinfo n="imagina+tion"/>
+imagination, fancy, conception; {#न धियां पथि#}
+{#वर्तसे#} <ls>Ku. 6. 22</ls>; <ls>Pt. 1. 136.</ls> {@--3@} A
+thought, intention, purpose, <lbinfo n="pro+pensity"/>
+propensity; <ls>Ki. 1. 37.</ls> {@--4@} Devotion,
+prayer. {@--5@} A sacrifice. {@--6@} <lbinfo n="Know+ledge"/>
+Knowledge, science. {@--Comp.@} {#--इंद्रियं#} an
+organ of perception (= {#ज्ञानेंद्रिय#}
+<ab>q. v.</ab>); {#मनः कर्णस्तथा नेत्रं रसना चत्वचा सह ।#}
+{#नासिका चेति षट् तानि धींद्रियाणि प्रचक्षते ॥#}.
+{#--गुणाः#} (<ab>pl.</ab>) intellectual qualities:
+they are: --{#शुश्रूषा श्रवणं चैव ग्रहणं धारणं#}
+{#तथा । ऊहापोहोर्थविज्ञानं तत्वज्ञानं च धीगुणाः ॥#}
+<ls>Kāmandaka</ls>. {#--पतिः#} ({#धियांपतिः#}) <lbinfo n="Bṛ+haspati"/>
+Bṛhaspati, the preceptor of the gods.
+{#--मंत्रिन्#} {%<ab>m.</ab>%}, {#--सचिवः#} {1} a minister
+for counsel (<ab>opp.</ab> {#कर्मसचिव#} ‘a <lbinfo n="minis+ter"/>
+minister for action or execution’). {2} a
+wise or prudent adviser. {#--शक्तिः#}
+{%<ab>f.</ab>%} intellectual quality or faculty.
+{#--सखः#} a counsellor, adviser, <lbinfo n="minis+ter"/>
+minister.
 <LEND>

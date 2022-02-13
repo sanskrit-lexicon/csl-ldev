@@ -1,30 +1,30 @@
 <L>24792<pc>0935-c<k1>लोह<k2>लोह
 {#लोह#}¦ {%<ab>a.</ab>%} {@1@} Red, reddish. {@--2@} Made
-<>of copper, coppery. {@--3@} Made of
-<>iron. {#--हः, --हं#} {@1@} Copper. {@--2@} Iron.
-<>{@--3@} Steel. {@--4@} Any metal. {@--5@} Gold.
-<>{@--6@} Blood. {@--7@} A weapon;  <lbinfo n="ls:Ms. 9.+ 321."/>
-<><ls>Ms. 9. 321.</ls> {@--8@} A fish-hook. {#--हः#} The red
-<>goat. {#--हं#} Aloe-wood. {@--Comp.@} {#--अजः#}
-<>the red goat. {#--अभिसारः, --अभिहारः#}
-<><ab>N.</ab> of a military ceremony <lbinfo n="resem+bling"/>
-<>resembling {#नीराजन#} <ab>q. v.</ab> {#--आमिषः#} the
-<>flesh of the red-haired goat. {#--उत्तमं#}
-<>gold. {#--कांतः#} a loadstone, magnet.
-<>{#--कारः#} a blacksmith. {#--किट्टं#} rust of
-<>iron. {#--घातकः#} a blacksmith. {#--चूर्णं#}
-<>iron-filings, rust of iron. {#--जं#} {1}
-<>bell-metal. {2} iron-filings. {#--जांलं#} a
-<>coat of mail. {#--जित्#} {%<ab>m.</ab>%} a diamond.
-<>{#--द्राविन्#} {%<ab>m.</ab>%} borax. {#--नालः#} an iron
-<>arrow. {#--पृष्ठः#} a heron. {#--प्रतिमा#} {1} an
-<>anvil. {2} an iron image. {#--वद्ध#} {%<ab>a.</ab>%}
-<>tipped or studded with iron.  <lbinfo n="--mAra#ka"/>
-<>{#--मारक#} {%<ab>a.</ab>%} calcining a metal. {#--मुक्तिका#}
-<>red pearl. {#--रजस्#} {%<ab>n.</ab>%} rust of iron.
-<>{#--राजकं#} silver. {#--लिंगं#} a boil filled
-<>with blood. {#--वरं#} gold. {#--वर्मन्#} {%<ab>n.</ab>%}
-<>iron-armour, mail. {#--शंकुः#} an iron
-<>spike. {#--श्लेषणः#} borax. {#--संकरं#} blue
-<>steel.
+of copper, coppery. {@--3@} Made of
+iron. {#--हः, --हं#} {@1@} Copper. {@--2@} Iron.
+{@--3@} Steel. {@--4@} Any metal. {@--5@} Gold.
+{@--6@} Blood. {@--7@} A weapon;  <lbinfo n="ls:Ms. 9.+ 321."/>
+<ls>Ms. 9. 321.</ls> {@--8@} A fish-hook. {#--हः#} The red
+goat. {#--हं#} Aloe-wood. {@--Comp.@} {#--अजः#}
+the red goat. {#--अभिसारः, --अभिहारः#}
+<ab>N.</ab> of a military ceremony <lbinfo n="resem+bling"/>
+resembling {#नीराजन#} <ab>q. v.</ab> {#--आमिषः#} the
+flesh of the red-haired goat. {#--उत्तमं#}
+gold. {#--कांतः#} a loadstone, magnet.
+{#--कारः#} a blacksmith. {#--किट्टं#} rust of
+iron. {#--घातकः#} a blacksmith. {#--चूर्णं#}
+iron-filings, rust of iron. {#--जं#} {1}
+bell-metal. {2} iron-filings. {#--जांलं#} a
+coat of mail. {#--जित्#} {%<ab>m.</ab>%} a diamond.
+{#--द्राविन्#} {%<ab>m.</ab>%} borax. {#--नालः#} an iron
+arrow. {#--पृष्ठः#} a heron. {#--प्रतिमा#} {1} an
+anvil. {2} an iron image. {#--वद्ध#} {%<ab>a.</ab>%}
+tipped or studded with iron.  <lbinfo n="--mAra#ka"/>
+{#--मारक#} {%<ab>a.</ab>%} calcining a metal. {#--मुक्तिका#}
+red pearl. {#--रजस्#} {%<ab>n.</ab>%} rust of iron.
+{#--राजकं#} silver. {#--लिंगं#} a boil filled
+with blood. {#--वरं#} gold. {#--वर्मन्#} {%<ab>n.</ab>%}
+iron-armour, mail. {#--शंकुः#} an iron
+spike. {#--श्लेषणः#} borax. {#--संकरं#} blue
+steel.
 <LEND>

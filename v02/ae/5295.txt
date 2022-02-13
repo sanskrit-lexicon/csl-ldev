@@ -1,4 +1,4 @@
 <L>5295<pc>220<k1>incendiary<k2>incendiary
 {@Incendiary,@}¦ {%s.%} {#गृह-अगार-दाहिन्#} {%m.%} {@-Incen-@}
-<div n="lb"/>{@-diarism,@} {%s.%} {#गृहदाहः#}.
+{@-diarism,@} {%s.%} {#गृहदाहः#}.
 <LEND>

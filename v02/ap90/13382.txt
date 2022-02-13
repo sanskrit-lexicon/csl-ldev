@@ -1,13 +1,13 @@
 <L>13382<pc>0495-c<k1>चिह्नं<k2>चिह्नं
 {#चिह्नं#}¦ {@1@} Mark, spot, stamp, <lbinfo n="sym+bol"/>
-<>symbol; emblem, badge, symptom;  <lbinfo n="grAme#zu"/>
-<>{#ग्रामेषु यूपचिह्नेषु#} <ls>R. 1. 44</ls>; <ls n="R.">3. 55</ls>;  <lbinfo n="saMni#pAtasya"/>
-<>{#संनिपातस्य चिह्नानि#} <ls>Pt. 1. 177.</ls> {@--2@} A sign,
-<>indication; {#प्रसादचिह्नानि पुरःफलानि#}  <lbinfo n="ls:R.+ 2. 22"/>
-<><ls>R. 2. 22</ls>; {#प्रहर्षचिह्न#} <ls n="R.">2. 68.</ls> {@--3@} A sign
-<>of the zodiac. {@--4@} Stamp, print, <lbinfo n="im+pression"/>
-<>impression; {#पद°#}. {@--5@} Aim, direction.
-<>{@--Comp.@} {#--कारिन्#} {%<ab>a.</ab>%} {1} marking,
-<>spotting. {2} striking, wounding,
-<>killing. {3} frightful, hideous.
+symbol; emblem, badge, symptom;  <lbinfo n="grAme#zu"/>
+{#ग्रामेषु यूपचिह्नेषु#} <ls>R. 1. 44</ls>; <ls n="R.">3. 55</ls>;  <lbinfo n="saMni#pAtasya"/>
+{#संनिपातस्य चिह्नानि#} <ls>Pt. 1. 177.</ls> {@--2@} A sign,
+indication; {#प्रसादचिह्नानि पुरःफलानि#}  <lbinfo n="ls:R.+ 2. 22"/>
+<ls>R. 2. 22</ls>; {#प्रहर्षचिह्न#} <ls n="R.">2. 68.</ls> {@--3@} A sign
+of the zodiac. {@--4@} Stamp, print, <lbinfo n="im+pression"/>
+impression; {#पद°#}. {@--5@} Aim, direction.
+{@--Comp.@} {#--कारिन्#} {%<ab>a.</ab>%} {1} marking,
+spotting. {2} striking, wounding,
+killing. {3} frightful, hideous.
 <LEND>

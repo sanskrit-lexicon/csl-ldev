@@ -1,18 +1,18 @@
 <L>21681<pc>0794-a<k1>बाधः<k2>बाधः --धा
 {#बाधः --धा#}¦ [{#बाध्-भावे घञ्#}] {@1@} Pain,
-<>suffering, affliction, torment;  <lbinfo n="raja#nyA"/>
-<>{#रजन्या सह जृंभते मदनबाधा#} <ls>V. 3.</ls> {@--2@} <lbinfo n="Dis+turbance"/>
-<>Disturbance, molestation, annoyance;
-<>{#इति भ्रमरबाधां निरूपयति#} <ls>Ś. 1.</ls> {@--3@} Harm,
-<>injury, damage, hurt; {#चरणस्य बाधा#}
-<><ls>M. 4</ls>; <ls>Y. 2. 156.</ls> {@--4@} Danger, peril.
-<>{@--5@} Resistance, opposition. {@--6@} An <lbinfo n="ob+jection"/>
-<>objection. {@--7@} Contradiction, <lbinfo n="refuta+tion"/>
-<>refutation. {@--8@} Suspension, annulment. {@--9@}
-<>A flaw in a syllogism, one of the
-<>five forms of {#हेत्वाभास#} or fallacious
-<>middle term; see {#बधित#} below. {@--10@}
-<>Violation, infraction. {#--धा#} <lbinfo n="Refuta+tion"/>
-<>Refutation. {@--Comp.@} {#--अपवादः#} denial of an
-<>exception.
+suffering, affliction, torment;  <lbinfo n="raja#nyA"/>
+{#रजन्या सह जृंभते मदनबाधा#} <ls>V. 3.</ls> {@--2@} <lbinfo n="Dis+turbance"/>
+Disturbance, molestation, annoyance;
+{#इति भ्रमरबाधां निरूपयति#} <ls>Ś. 1.</ls> {@--3@} Harm,
+injury, damage, hurt; {#चरणस्य बाधा#}
+<ls>M. 4</ls>; <ls>Y. 2. 156.</ls> {@--4@} Danger, peril.
+{@--5@} Resistance, opposition. {@--6@} An <lbinfo n="ob+jection"/>
+objection. {@--7@} Contradiction, <lbinfo n="refuta+tion"/>
+refutation. {@--8@} Suspension, annulment. {@--9@}
+A flaw in a syllogism, one of the
+five forms of {#हेत्वाभास#} or fallacious
+middle term; see {#बधित#} below. {@--10@}
+Violation, infraction. {#--धा#} <lbinfo n="Refuta+tion"/>
+Refutation. {@--Comp.@} {#--अपवादः#} denial of an
+exception.
 <LEND>

@@ -1,7 +1,7 @@
 <L>5242<pc>0200-c<k1>अशस्त्र<k2>अशस्त्र
 {#अशस्त्र#}¦ {%<ab>a.</ab>%} Having no <lbinfo n="weapons+unarmed"/>
-<>weaponsunarmed. {#--स्त्रं#} Not a weapon;  <lbinfo n="°vi#hito"/>
-<>{#°विहितो वधः#} <ls>H. 2. 85</ls>; {#°पूतं#} <lbinfo n="maraRamupadiSA#mi"/>
-<>{#मरणमुपदिशामि#} <ls>Ve. 2</ls> ({#आत्मघातित्वेन शस्त्रेण न पूतं#});
-<>{#अशस्त्रपूतं#} <ls>Māl. 5. 12.</ls>
+weaponsunarmed. {#--स्त्रं#} Not a weapon;  <lbinfo n="°vi#hito"/>
+{#°विहितो वधः#} <ls>H. 2. 85</ls>; {#°पूतं#} <lbinfo n="maraRamupadiSA#mi"/>
+{#मरणमुपदिशामि#} <ls>Ve. 2</ls> ({#आत्मघातित्वेन शस्त्रेण न पूतं#});
+{#अशस्त्रपूतं#} <ls>Māl. 5. 12.</ls>
 <LEND>

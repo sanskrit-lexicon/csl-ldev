@@ -1,9 +1,9 @@
 <L>6541<pc>0248-b<k1>आम्<k2>आम्
 {#आम्#}¦ {%<ab>ind.</ab>%} An interjection of({%a%})
-<>assent, acceptance, ‘oh’, ‘yes’; {#आं कुर्मः#}
-<><ls>M. 1</ls>; ({%b%}) recollection; {#आं#} <lbinfo n="tasminnurva#SyA"/>
-<>{#तस्मिन्नुर्वश्या वचनं स्खलितमासीत्#} <ls>V. 3</ls>; {#आं#} <lbinfo n="jYA#tam"/>
-<>{#ज्ञातम्#} <ls>Ś. 3</ls>, Oh, I see it now; <ls>M. 3</ls>;
-<>({%c%}) determination, ‘surely,’ ‘verily’,
-<>{#आं चिरस्य खलु प्रतिबुद्धोस्मि#}; ({%d%}) reply.
+assent, acceptance, ‘oh’, ‘yes’; {#आं कुर्मः#}
+<ls>M. 1</ls>; ({%b%}) recollection; {#आं#} <lbinfo n="tasminnurva#SyA"/>
+{#तस्मिन्नुर्वश्या वचनं स्खलितमासीत्#} <ls>V. 3</ls>; {#आं#} <lbinfo n="jYA#tam"/>
+{#ज्ञातम्#} <ls>Ś. 3</ls>, Oh, I see it now; <ls>M. 3</ls>;
+({%c%}) determination, ‘surely,’ ‘verily’,
+{#आं चिरस्य खलु प्रतिबुद्धोस्मि#}; ({%d%}) reply.
 <LEND>

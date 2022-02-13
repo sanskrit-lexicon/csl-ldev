@@ -1,6 +1,6 @@
 <L>8907<pc>396<k1>retrieve<k2>retrieve
 {@Retrieve,@}¦ {%v. t.%} {#पुनः प्राप्#} 5 P or {#लभ्#} 1 A,
-<div n="lb"/>{#प्रत्याहृ#} 1 P, {#उद्धृ#} 1 P, {#प्रति-, समा-धा#} 3 U;
-<div n="lb"/>{%See%} {@Recover,@} ‘irretrievably gone’
-<div n="lb"/>{#असन्निवृत्तये गतं#}.
+{#प्रत्याहृ#} 1 P, {#उद्धृ#} 1 P, {#प्रति-, समा-धा#} 3 U;
+{%See%} {@Recover,@} ‘irretrievably gone’
+{#असन्निवृत्तये गतं#}.
 <LEND>
