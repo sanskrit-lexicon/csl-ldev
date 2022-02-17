@@ -1,5 +1,5 @@
-<L>12733<pc>1-1020<k1>ऊरु<k2>ऊरु/
-{#ऊरु/#}¦ <lex>m.</lex> 
+<L>12733<pc>1-1020<k1>ऊरु<k2>ऊरु꣡
+{#ऊरु꣡#}¦ <lex>m.</lex> 
 <div n="1"> 1) {%Schenkel%} 
 <ls>Uṇ. 1, 30.</ls> 
 <ls>AK. 2, 6, 2, 24.</ls> 
@@ -15,10 +15,10 @@
 <ls>55, 27</ls> ({#ऊर्वोः#}). 
 <ls>5, 27, 28.</ls> <ls>RAGH. 12, 88.</ls> <ls>MEGH. 94.</ls> <ls>VET. 16, 20.</ls> {#जङ्घोर्वोः संधाने जानु नाम#} 
 <ls>SUŚR. 1, 348, 16.</ls> {#ऊरू गजकरोपमौ#} 
-<ls>R. 3, 52, 32.</ls> {#ऊर्वष्ठीव/#} 
-(<ls>P. 5, 4, 77.</ls> <ls>VOP. 6, 8.</ls>) n. du. <ls>VS. 18, 23.</ls> pl. <ls>ŚAT. BR. 8, 3, 4, 5. 4, 3, 11.</ls> sg. <ls>P. 5, 4, 77</ls>, <ls>Sch.</ls> {#ऊर्वस्थ/#} <lex>n.</lex> 
-<ls>ŚAT. BR. 8, 7, 2, 17.</ls> {#ऊरुबलि/न्#} 
-(<ls>P. 5, 2, 135</ls>, <is>Vārtt</is>. 1) <ls n="ŚAT. BR.">13, 2, 2, 8.</ls> Am Ende eines <lex>adj.</lex> comp. in einigen Fällen <lex>f.</lex> {#ऊरु#}, in andern {#ऊरू/#} 
+<ls>R. 3, 52, 32.</ls> {#ऊर्वष्ठीव꣡#} 
+(<ls>P. 5, 4, 77.</ls> <ls>VOP. 6, 8.</ls>) n. du. <ls>VS. 18, 23.</ls> pl. <ls>ŚAT. BR. 8, 3, 4, 5. 4, 3, 11.</ls> sg. <ls>P. 5, 4, 77</ls>, <ls>Sch.</ls> {#ऊर्वस्थ꣡#} <lex>n.</lex> 
+<ls>ŚAT. BR. 8, 7, 2, 17.</ls> {#ऊरुबलि꣡न्#} 
+(<ls>P. 5, 2, 135</ls>, <is>Vārtt</is>. 1) <ls n="ŚAT. BR.">13, 2, 2, 8.</ls> Am Ende eines <lex>adj.</lex> comp. in einigen Fällen <lex>f.</lex> {#ऊरु#}, in andern {#ऊरू꣡#} 
 <ls>P. 4, 1, 69. 70.</ls> 
 <ls>VOP. 4, 30.</ls> {#वामोरुः#} 
 <ls>MBH. 1, 2988.</ls> {#रम्भोरुम्#} 

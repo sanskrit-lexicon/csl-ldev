@@ -1,7 +1,7 @@
-<L>232431<pc>1149,1<k1>सप्तन्<k2>सप्त/न्<e>1
-<s>सप्त/न्</s> ¦ <ab>sg.</ab> and <ab>pl.</ab> (<ab>nom.</ab> <ab>acc.</ab> <s>सप्त/</s>;
-<ab>instr.</ab> <s>°त/भिस्</s>;
-<ab>dat.</ab> <ab>abl.</ab> <s>°त/भ्यस्</s>;
-<ab>gen.</ab> <s>°ताना/म्</s> <ab>loc.</ab> <s>°त/सु</s>) seven (a favourite number with the <ns>Hindūs</ns>, and regarded as sacred, often used to express an indefinite plurality [in the same manner as ‘three’, by which it is sometimes multiplied] <pb n="1149,2"/>;
+<L>232431<pc>1149,1<k1>सप्तन्<k2>सप्त꣡न्<e>1
+<s>सप्त꣡न्</s> ¦ <ab>sg.</ab> and <ab>pl.</ab> (<ab>nom.</ab> <ab>acc.</ab> <s>सप्त꣡</s>;
+<ab>instr.</ab> <s>°त꣡भिस्</s>;
+<ab>dat.</ab> <ab>abl.</ab> <s>°त꣡भ्यस्</s>;
+<ab>gen.</ab> <s>°ताना꣡म्</s> <ab>loc.</ab> <s>°त꣡सु</s>) seven (a favourite number with the <ns>Hindūs</ns>, and regarded as sacred, often used to express an indefinite plurality [in the same manner as ‘three’, by which it is sometimes multiplied] <pb n="1149,2"/>;
 hence 7 <s1 slp1="mAtf">Mātṛ</s1>s, 7 streams, 7 oceans, 7 cities [<ls>RV. i, 63, 7</ls>], 7 divisions of the world, 7 ranges of mountains, 7 <s1 slp1="fzi">Ṛṣi</s1>s, 7 <s1 slp1="vipra">Vipra</s1>s [<ls>RV. i, 62, 4</ls>], 7 <s1 slp1="Aditya">Āditya</s1>s, 7 <s1 slp1="dAnava">Dānava</s1>s, 7 horses of the Sun, 7 flames of fire, 7 <s1 slp1="yoni">Yoni</s1>s of fire, 7 steps round the fire at marriage, 7 <s1 slp1="samiD">Samidh</s1>s, 7 tones, 7 sacrificial rites, 7 <s1 slp1="maryAdA">Maryādā</s1>s, thrice 7 <s1 slp1="padAni">Padāni</s1> or mystical steps to heaven [<ls>RV. i, 72, 6</ls>], thrice 7 cows &c.), <ls>RV.</ls> &c.;<info lexcat="LEXID=card,STEM=saptan"/>
 <LEND>

@@ -1,6 +1,6 @@
-<L>123785<pc>7112-3<k1>साधु<k2>साधु/<e>100
-{#साधु/#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#साध्वी/#})
+<L>123785<pc>7112-3<k1>साधु<k2>साधु꣡<e>100
+{#साधु꣡#}¦
+<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#साध्वी꣡#})
 <div n="2">— a) {%gerade zum Ziel führend , richtig , richtig treffend.%}
 <div n="2">— b) {%schlicht , geschlichtet%} , so v.a. {%nicht verworren%} (Fäden).
 <div n="2">— c) {%sich fügend , willfährig , gefällig , gehorsam.%}
@@ -26,9 +26,9 @@
 <div n="1">— 4) <lex>n.</lex>
 <div n="2">— a) {%das Gerade , Ehrliche , Rechte , Gute , etwas Gutes , ein gutes Wort.%} Mit {#अस्#} so v.a. {%Jmd%} (<ab>Dat.</ab>) {%wohlergehen%} <ls>ĀPAST. 2,6,2.</ls> <ab>Acc.</ab> mit {#मन्#} {%für etwas Gutes halten , gutheissen , billigen.%} Ausnahmsweise in dieser Verbindung auch als <lex>Adj.</lex> (also {#साधुम्#}) mit einem Masc.) behandelt.
 <div n="2">— b) {%Güte , Milde , Wohlwollen.%}
-<div n="1">— 5) <ab>Adv.</ab> {#साधु/#}
+<div n="1">— 5) <ab>Adv.</ab> {#साधु꣡#}
 <div n="2">— a) {%geradeaus , regelmässig , richtig.%}
-<div n="2">— b) {%gut , wohl , recht , gehörig. angenehm.%} Mit {#वर्त्#} {%gut verfahren gegen%} (<ab>Loc.</ab>) ; mit {#कर्#} {#सा/धु#} <ls>ṚV. 8,32,10</ls>) {%richtig — , fertig — , gut machen%} ; mit {#आस्#} {%sich wohlbefinden.%} Als Ausruf (auch widerholt) {%gut schön ! bravo!%}
+<div n="2">— b) {%gut , wohl , recht , gehörig. angenehm.%} Mit {#वर्त्#} {%gut verfahren gegen%} (<ab>Loc.</ab>) ; mit {#कर्#} {#सा꣡धु#} <ls>ṚV. 8,32,10</ls>) {%richtig — , fertig — , gut machen%} ; mit {#आस्#} {%sich wohlbefinden.%} Als Ausruf (auch widerholt) {%gut schön ! bravo!%}
 <div n="2">— c) {%gut%} , so v.a. {%sehr , in hohem Grade%} (auch einen Tadel verstärkend) <ls>Spr. 7832.</ls>
 <div n="2">— d) {%gut%} , so v.a. {%abgemacht , genug%} ; mit <ab>Instr.</ab>
 <div n="2">— e) {%wohlan%} , in Verbindung mit einem Imperat. oder einer ersten Person Praes.

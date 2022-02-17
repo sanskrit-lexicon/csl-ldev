@@ -1,10 +1,10 @@
 <L>96281<pc>6-1438<k1>व्यध्<k2>व्यध्
-{#व्यध्#}¦, {#वि/ध्यति#} 
+{#व्यध्#}¦, {#वि꣡ध्यति#} 
 <ls>DHĀTUP. 26, 72</ls> ({#ताडने#}). 
 <ls>P. 6, 1, 16.</ls> {#विव्याध#} 
 <ls>17.</ls> <ls>VOP. 8, 124. 11, 3.</ls> {#विविधतुस्#} 
-<ls>11, 3.</ls> {#विविध्वंस्, अव्यात्सीत्, (उप) विध/न्, वेत्स्यामि#} (vgl. <is>Kār</is>. 
-<ls>4</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>), {#वेद्धा, विद्ध्वा, विध्य, वेद्धुम्#}; pass. {#विध्यते, विद्ध/#} . Hier und da aus metrischen Rücksichten auch med. 
+<ls>11, 3.</ls> {#विविध्वंस्, अव्यात्सीत्, (उप) विध꣡न्, वेत्स्यामि#} (vgl. <is>Kār</is>. 
+<ls>4</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>), {#वेद्धा, विद्ध्वा, विध्य, वेद्धुम्#}; pass. {#विध्यते, विद्ध꣡#} . Hier und da aus metrischen Rücksichten auch med. 
 <div n="1"> 1) {%durchbohren, durchstechen; erschiessen, treffen%} (mit einem) Geschosse 
 <ls>ṚV. 1, 61, 7.</ls> <ls n="ṚV. 1,">86, 9.</ls> {#तपु\षाश्ना^#} 
 <ls n="ṚV.">2, 30, 4.</ls> <ls n="ṚV. 2, 30,">9.</ls> <ls n="ṚV.">4, 4, 1.</ls> {#तमस्ता^ विध्या\ शर्वा\ शिशा^नः#} 
@@ -42,7 +42,7 @@
 <ls>SUŚR. 1, 54, 13.</ls> 
 <ls>KATHĀS. 40, 12.</ls> 
 <ls>AK. 3, 3, 36.</ls> {#विध्यमान#} 
-<ls>BHAṬṬ. 5, 102. 9, 66.</ls> {#विद्ध/#} {%durchbohrt, durchschossen, verwundet, getroffen%} 
+<ls>BHAṬṬ. 5, 102. 9, 66.</ls> {#विद्ध꣡#} {%durchbohrt, durchschossen, verwundet, getroffen%} 
 <ls>AK. 3, 2, 49.</ls> 
 <ls>H. 1486.</ls> 
 <ls>an. 2, 249.</ls> 
@@ -405,7 +405,7 @@ Hierher {#आविद्ध#} {%gewunden, sich in Windungen bewegend, gekrümmt
 <ls>ṚV. 4, 4, 5.</ls> {#स च तान्प्रतिविव्याध द्वाभ्यां द्वाभ्याम्#} 
 <ls>MBH. 1, 4103.</ls> <ls n="MBH. 1,">6567.</ls> <ls n="MBH. 1,">6570.</ls> <ls n="MBH.">3, 11960.</ls> <ls n="MBH. 3,">12124.</ls> <ls n="MBH.">6, 1703.</ls> 
 <ls>BHĀG. P. 10, 77, 2.</ls> med. <ls>MBH. 3, 14994.</ls> <ls n="MBH.">4, 1852.</ls> <ls n="MBH. 4,">1998.</ls> <ls>R. 5, 41, 35. 6, 86, 36. 7, 28, 11.</ls> {#°विद्ध#} 
-<ls>MBH. 4, 2209.</ls> {#अ/प्रतिविद्ध#} <is>Agni</is> 
+<ls>MBH. 4, 2209.</ls> {#अ꣡प्रतिविद्ध#} <is>Agni</is> 
 <ls>TS. 1, 5, 10, 1.</ls> {%treffen in%}: {#स्तनान्तरे#} 
 <ls>MBH. 4, 1989.</ls> 
 <ls>R. 3, 34, 26.</ls> med. <ls>6, 75, 64. 78, 12.</ls> 

@@ -1,5 +1,5 @@
-<L>22561<pc>2-0755<k1>गुण<k2>गुण/
-{#गुण/#}¦ 
+<L>22561<pc>2-0755<k1>गुण<k2>गुण꣡
+{#गुण꣡#}¦ 
 <div n="1"> 1) <lex>m.</lex> 
 <div n="2"> a) {%der einzelne Faden einer Schnur; Schnur, Strick%} überh. 
 <ls>AK. 2, 10, 27.</ls> 
@@ -32,7 +32,7 @@
 <lang n="greek">πλοος</lang> (urspr. {%aus so und so vielen Fäden%} d. i. {%Theilen bestehend%}). Diese Bed. ist mit {#आवृत्ति#} {%Wiederholung%} 
 <ls>MED.</ls> und <ls>VAIG.</ls> gemeint. {#रज्जू त्रिगुणे#} {%dreifach%} 
 <ls>ŚĀṄKH. ŚR. 17, 2, 3.</ls> 
-<ls>KĀTY. ŚR. 6, 3, 15. 22, 4, 26.</ls> {#(वासः) द्वि/गुणं वा च/तुर्गुणं वा#} {%zweifach oder vierfach zusammengelegt%} 
+<ls>KĀTY. ŚR. 6, 3, 15. 22, 4, 26.</ls> {#(वासः) द्वि꣡गुणं वा च꣡तुर्गुणं वा#} {%zweifach oder vierfach zusammengelegt%} 
 <ls>ŚAT. BR. 3, 3, 2, 9.</ls> {#तस्मादयमात्मा द्विगुणो बहुलतर इव#} {%doppelt so dick%} 
 <ls>8, 7, 2, 10.</ls> {#द्विगुणान्कुशान्#} {%zusammengefaltete%} <is>Kuśa</is> - {%Halme%} 
 <ls>YĀJÑ. 1, 232.</ls> {#द्विगुणा दक्षिणा#} {%doppelt%} 
@@ -54,7 +54,7 @@
 <ls>57, 15.</ls> nom. abstr.: {#तृष्णा ततः प्रभृति मे द्विगुणत्वमेति#} {%verdoppelt sich%} 
 <ls>AMAR. 68.</ls> In Verbind. mit {#भू#} und {#कर्: शतगुणीभूत#} {%verhundertfacht%} 
 <ls>VID. 303.</ls> {#द्विगुणीकृत#} 
-<ls>ŚIŚ. 1, 63.</ls> {#द्विगुणा/कर्#} {%zwei Mal pflügen%} 
+<ls>ŚIŚ. 1, 63.</ls> {#द्विगुणा꣡कर्#} {%zwei Mal pflügen%} 
 <ls>P. 5, 4, 59.</ls> Ausnahmsweise erscheint {#गुण#} in dieser Bed. auch ausserhalb des comp.: {#द्वौ गुणौ क्षीरस्यैकस्तैलस्य#} {%zwei Theile Milch, ein Theil Oel%} 
 <ls>P. 5, 2, 47,</ls> 
 <ls>Sch.</ls> {#पुण्डरी^क\ं नव^द्वारं त्रि\भिर्गु\णेभि\रावृ^तम्#} {%dreifach verhüllt%} 

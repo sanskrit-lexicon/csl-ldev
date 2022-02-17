@@ -1,15 +1,15 @@
 <L>82108<pc>6-0138<k1>यु<k2>यु<h>2
-2. {#यु#}¦, {#यौ/ति#} 
+2. {#यु#}¦, {#यौ꣡ति#} 
 <ls>DHĀTUP. 24, 23</ls> ({#मिश्रणे#} und {#अमिश्रणे#}; vgl. 3. {#यु#}). 
 <ls>P. 7, 3, 89,</ls> 
-<ls>Sch.</ls> {#युना/ति, युनीते#} 
+<ls>Sch.</ls> {#युना꣡ति, युनीते#} 
 <ls>DHĀTUP. 31, 9</ls> ({#बन्धने#}). erhält den Bindevocal {#इ#} 
 <ls><is>Kār</is>. 1. 9</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>VOP. 8, 60.</ls> {#युयविथ#} 
 <ls>P. 6, 4, 126,</ls> 
 <ls>Sch.</ls> {#यविता#} 
 <ls>VOP. 9, 11.</ls> {#युत्वा#} 
 <ls>P. 7, 2, 11,</ls> 
-<ls>Sch.</ls> In der klassischen Sprache haben wir keine Form des verbi finiti angetroffen; in der älteren Sprache erscheinen folgende Formen: {#यौमि, युव/ते, युवासे, युव/स्व, अयुवत, युते, युवते#} 3 pl., {#युताम्#} 3. sg., {#(नि)युयोतम्, युय/वत्, युयुवे/, युविता/#} fut.; {#(नि)यूय#}, partic. {#युत#} . 
+<ls>Sch.</ls> In der klassischen Sprache haben wir keine Form des verbi finiti angetroffen; in der älteren Sprache erscheinen folgende Formen: {#यौमि, युव꣡ते, युवासे, युव꣡स्व, अयुवत, युते, युवते#} 3 pl., {#युताम्#} 3. sg., {#(नि)युयोतम्, युय꣡वत्, युयुवे꣡, युविता꣡#} fut.; {#(नि)यूय#}, partic. {#युत#} . 
 <div n="1"> 1) {%anziehend, anspannen; anbinden, festhalten%}: {#योक्त्र^ं युते#} 
 <ls>TBR. 3, 3, 3, 3.</ls> {#यु\क्ष्वा हि त्वं र^था\सहा^ यु\वस्व\ पोष्या^ वसो#} 
 <ls>ṚV. 8, 26, 20.</ls> {#वायो^ श\तं हरी^णां यु\वस्व\ पोष्या^णाम्#} 
@@ -171,7 +171,7 @@
 
 <div n="p">— {#प्र#} {%umrühren, mengen%}: {#पा\र्श्वेन^ वसाहो\मं प्रयौ^ति#} 
 <ls>TS. 6, 3, 11, 1.</ls> <ls>auch</ls> <ls>ŚAT. BR. 3, 8, 3, 24</ls>, wo damit in Verbindung gesetzt ist {#प्रयु^त\ं द्वेष^ः#} 
-<ls>VS. 6, 18</ls>; etwa durch {%verstört%} wiederzugeben. Hierher das <lex>adj.</lex> {#प्रयु/त्#} in {#प्र\युतो^ न पातारः#} (irrig betont) {%Menger%} oder {%Verstörer%} (des <is>Soma</is>), {%nicht Trinker%}, von den Steinen gesagt. {#प्रयुवती गच्छति#} {%mengend%} 
+<ls>VS. 6, 18</ls>; etwa durch {%verstört%} wiederzugeben. Hierher das <lex>adj.</lex> {#प्रयु꣡त्#} in {#प्र\युतो^ न पातारः#} (irrig betont) {%Menger%} oder {%Verstörer%} (des <is>Soma</is>), {%nicht Trinker%}, von den Steinen gesagt. {#प्रयुवती गच्छति#} {%mengend%} 
 <ls>NIR. 9, 26.</ls> {#युवा प्रयौति कर्माणि#} {%vermengt, stört%} 
 <ls>4, 19.</ls> {#प्रयुवतीमिव शरमयीमिषुम्#} {%zerstörend%} 
 <ls>10, 29.</ls> 
@@ -223,7 +223,7 @@
 <ls>HARIV. 7855.</ls> {#ग्रामे चाण्डालसंयुते#} 
 <ls>KAUŚ. 141.</ls> {#देशे पाण्डवसंयुते#} 
 <ls>MBH. 4, 938.</ls> 
-<ls>Spr. 4118.</ls> {#मृत्यु/संयुत#} 
+<ls>Spr. 4118.</ls> {#मृत्यु꣡संयुत#} 
 <ls>TS. 1, 5, 9, 4.</ls> {#तपोनियमसंयुताः#} ({#दिवौकसः#}) 
 <ls>MBH. 1, 1108.</ls> <ls n="MBH.">5, 7479.</ls> {#शमसंयुता#} ({#गौतमी#}) 
 <ls>13, 17.</ls> {#मुखवैवर्ण्य°#} 

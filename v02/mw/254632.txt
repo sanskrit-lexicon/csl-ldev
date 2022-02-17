@@ -1,26 +1,26 @@
 <L>254632<pc>1259,1<k1>स्तु<k2>स्तु<h>1<e>1
-<hom>1.</hom> <s>स्तु</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxiv, 34</ls>; <ab>cf.</ab> <ls>Pāṇ. vii, 3, 95</ls>) <s>स्तौ/ति</s> or <s>स्तवीति</s>, <s>स्तुते</s> or <s>स्तुवीते</s> 
-(in, <ls>RV.</ls> also <s>स्त/वते</s>, 3. <ab>sg.</ab> <s>स्तवे</s> [with <ab>pass.</ab> sense], 1. 3. <ab>sg.</ab> <s>स्तुषे/</s> <ab>Impv.</ab> <s>स्तोषि</s>, <ab>p.</ab> [mostly with <ab>pass.</ab> sense] <s>स्तुवान/</s>, <s>स्त/वान</s> or <s>स्तवान/</s>, <s>स्त/वमान</s>;
+<hom>1.</hom> <s>स्तु</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxiv, 34</ls>; <ab>cf.</ab> <ls>Pāṇ. vii, 3, 95</ls>) <s>स्तौ꣡ति</s> or <s>स्तवीति</s>, <s>स्तुते</s> or <s>स्तुवीते</s> 
+(in, <ls>RV.</ls> also <s>स्त꣡वते</s>, 3. <ab>sg.</ab> <s>स्तवे</s> [with <ab>pass.</ab> sense], 1. 3. <ab>sg.</ab> <s>स्तुषे꣡</s> <ab>Impv.</ab> <s>स्तोषि</s>, <ab>p.</ab> [mostly with <ab>pass.</ab> sense] <s>स्तुवान꣡</s>, <s>स्त꣡वान</s> or <s>स्तवान꣡</s>, <s>स्त꣡वमान</s>;
 in <ls>BhP.</ls> <s>स्तुन्वन्ति</s>, in <ls>Up.</ls> <ab>p.</ab> <s>स्तुन्वान</s>;
-<ab>pf.</ab> <s>तुष्टाव</s>, <s>तुष्टुवु/स्</s>, <s>तुष्टुवे/</s>, <ls>RV.</ls> &c. &c.;
+<ab>pf.</ab> <s>तुष्टाव</s>, <s>तुष्टुवु꣡स्</s>, <s>तुष्टुवे꣡</s>, <ls>RV.</ls> &c. &c.;
 <ab>aor.</ab> <s>अस्तावीत्</s> or <s>अस्तौषीत्</s>, <ls>Br.</ls> &c.;
 <s>स्तोषत्</s>, <s>स्तोषाणि</s>, <ls>RV.</ls>;
-<s>अ/स्तोष्ट</s>, <ls>ib.</ls> &c.;
+<s>अ꣡स्तोष्ट</s>, <ls>ib.</ls> &c.;
 <ab>Prec.</ab> <s>स्तूयात्</s> <ab>Gr.</ab>;
 <ab>fut.</ab> <s>स्तविता</s> or <s>स्तोता</s>, <ls>Vop.</ls>;
-<ab>fut.</ab> <s>स्तविष्य/ति</s>, <s>°ते</s>, <ls>RV.</ls>;
+<ab>fut.</ab> <s>स्तविष्य꣡ति</s>, <s>°ते</s>, <ls>RV.</ls>;
 <s>स्तोष्यति</s>, <s>°ते</s>, <ls>Br.</ls> &c.;
 <ab>Cond.</ab> <s>अस्तोष्यत्</s>, <ls>Bhaṭṭ.</ls>;
 <ab>inf.</ab> <s>स्तोतुम्</s>, <ls>ib.</ls> &c.;
 <s>स्तवितुम्</s>, <ls>Vop.</ls>;
-<s>स्तो/तवे</s>, <s>स्तव/ध्यै</s>, <ls>RV.</ls>;
-<ab>ind.p.</ab> <s>स्तुत्वा/</s>, <ls>AV.</ls> &c.;
-<s>-स्तु/त्य</s>, <ls>Br.</ls> &c.;
+<s>स्तो꣡तवे</s>, <s>स्तव꣡ध्यै</s>, <ls>RV.</ls>;
+<ab>ind.p.</ab> <s>स्तुत्वा꣡</s>, <ls>AV.</ls> &c.;
+<s>-स्तु꣡त्य</s>, <ls>Br.</ls> &c.;
 <s>-स्तूय</s>, <ls>MBh.</ls> &c.), 
 <div n="to"/>to praise, laud, eulogize, extol, celebrate in song or hymns (in ritual, ‘to chant’, with <ab>loc.</ab> of the text from which the <s1 slp1="sAman">Sāman</s1> comes), <ls>RV.</ls> &c. &c.:
-<div n="vp"/><ab>Pass.</ab> <s>स्तूय/ते</s> (<ab>aor.</ab> <s>अस्तावि</s>), to be praised or celebrated;
-<div n="vp"/> <s>स्ता<स्होर्त्लोन्ग्/>यमान</s> <lex type="part">mfn.</lex> being praised, <ls>ib.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>स्ता<स्होर्त्लोन्ग्/>वयति</s> (<ab>aor.</ab> <s>अतुष्टवत्</s>, <ls>RV.</ls>; <s>°टुवत्</s>, <ls>JaimBr.</ls>), 
+<div n="vp"/><ab>Pass.</ab> <s>स्तूय꣡ते</s> (<ab>aor.</ab> <s>अस्तावि</s>), to be praised or celebrated;
+<div n="vp"/> <s>स्ता<स्होर्त्लोन्ग्꣡>यमान</s> <lex type="part">mfn.</lex> being praised, <ls>ib.</ls> :
+<div n="vp"/><ab>Caus.</ab> <s>स्ता<स्होर्त्लोन्ग्꣡>वयति</s> (<ab>aor.</ab> <s>अतुष्टवत्</s>, <ls>RV.</ls>; <s>°टुवत्</s>, <ls>JaimBr.</ls>), 
 <div n="to"/>to praise, celebrate;
 <div n="to"/> (<s>स्तावयते</s>), to cause to praise or celebrate, <ls>BhP.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>तुष्टूषति</s>, <s>°ते</s> (<ab>p.p.</ab> <s>तुष्टूषित</s>), to wish to celebrate, <ls>Śaṃk.</ls> :

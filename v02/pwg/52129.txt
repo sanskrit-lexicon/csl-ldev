@@ -1,5 +1,5 @@
-<L>52129<pc>5-0047<k1>बहु<k2>बहु/
-{#बहु/#}¦ (von {#बह्, बंह्)#} 
+<L>52129<pc>5-0047<k1>बहु<k2>बहु꣡
+{#बहु꣡#}¦ (von {#बह्, बंह्)#} 
 <ls>UṆĀDIS. 1, 30.</ls> <lex>adj.</lex> <lex>f.</lex> {#बहु#} und {#बह्वी#} 
 <ls>P. 4, 1, 45.</ls> 
 <ls>VOP. 4, 28.</ls> Accent eines mit {#बहु#} anlautenden <lex>adj.</lex> comp. 
@@ -51,7 +51,7 @@
 <ls>M. 2, 149.</ls> {%reich an%} (intr.): {#प्र\जयै^नं ब\हुं कृ^धि#} 
 <ls>VS. 17, 50.</ls> 
 <ls>ŚAT. BR. 1, 8, 1, 9.</ls> {#द्यौर्बह्वी नक्षत्रैः#} 
-<ls>2, 1, 4, 28. 10, 6, 1, 6.</ls> {#बहुगू/, बह्वश्वा/, बह्वजाविका/#} u. andere compp. 
+<ls>2, 1, 4, 28. 10, 6, 1, 6.</ls> {#बहुगू꣡, बह्वश्वा꣡, बह्वजाविका꣡#} u. andere compp. 
 <ls>TBR. 3, 8, 5, 3.</ls> {#बहुपुष्पफलोपग#} 
 <ls>M. 1, 46.</ls> 
 <ls>INDR. 5, 14.</ls> 
@@ -86,7 +86,7 @@
 <ls>MBH. 3, 12842.</ls> {#°चित्र#} 
 <ls>Spr. 3161.</ls> {#°निर्वेदवान्#} 
 <ls>PAÑCAT. III, 188.</ls> {#°सदृश#} {%sehr ähnlich, - passend%} 
-<ls>75, 15.</ls> Nach <ls>P. 5, 3, 68</ls> und <ls>VOP. 7, 64</ls> vor adjj. {%beinahe, ziemlich%} (vgl. {#°तृण, °त्रिवर्ष): बहु/पटु#} <ls>Sch.</ls> {#बहु#} (könnte auch als acc. neutr. gefasst werden) {#मन्#} {%Jmd%} oder {%Etwas für viel halten, zu schätzen wissen, hoch anschlagen%}: {#वि\त्ते र^मस्व ब\हु मन्य^मानः#} 
+<ls>75, 15.</ls> Nach <ls>P. 5, 3, 68</ls> und <ls>VOP. 7, 64</ls> vor adjj. {%beinahe, ziemlich%} (vgl. {#°तृण, °त्रिवर्ष): बहु꣡पटु#} <ls>Sch.</ls> {#बहु#} (könnte auch als acc. neutr. gefasst werden) {#मन्#} {%Jmd%} oder {%Etwas für viel halten, zu schätzen wissen, hoch anschlagen%}: {#वि\त्ते र^मस्व ब\हु मन्य^मानः#} 
 <ls>ṚV. 10, 34, 13.</ls> {#न पु\ष्टं ब\हु म^न्यते#} 
 <ls>VS. 23, 31.</ls> 
 <ls>ŚAT. BR. 14, 6, 8, 12.</ls> 

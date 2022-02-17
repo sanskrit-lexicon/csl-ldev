@@ -1,11 +1,11 @@
-<L>55955<pc>3169-1<k1>ध्रुव<k2>ध्रुव/<e>100
-{#ध्रुव/#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ/#})
+<L>55955<pc>3169-1<k1>ध्रुव<k2>ध्रुव꣡<e>100
+{#ध्रुव꣡#}¦
+<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ꣡#})
 <div n="2">— a) {%am Orte verharrend , stille haltend , bleibend bei%} (<ab>Loc.</ab>) , {%feststehend , unbeweglich , bleibend , dauernd , beständig , unveränderlich.%} {#ध्रुवाणि नक्षत्राणि#} heissen {%die Mondhäuser <is>Rohiṇī</is> und die mit%} {#उत्तर#} {%zusammengesetzten.%} {#स्मृति#} <lex>f.</lex> {%ein festes , starkes Gedächtniss.%}
 <div n="2">— b) {%bestimmt , festgesetzt.%}
 <div n="2">— c) {%feststehend%} , so v.a. {%sicher , gewiss.%}
 <div n="2">— d) * = {#पाप#}. Am Ende eines Comp. einen Tadel ausdrückend.
-<div n="1">— 2) {#ध्रुव/म्#} <ab>Adv.</ab>
+<div n="1">— 2) {#ध्रुव꣡म्#} <ab>Adv.</ab>
 <div n="2">— a) {%bleibend , für die Dauer.%}
 <div n="2">— b) {%bestimmt , sicherlich , gewiss , jedenfalls.%}
 <div n="1">— 3) {#ध्रुवाय#} <ab>Dat.</ab> {%auf die Dauer.%}
@@ -33,7 +33,7 @@
 
 <div n="3">— β) eines <is>Vasu</is>.
 <div n="3">— γ) verschiedener Männer.
-<div n="1">— 5) <lex>f.</lex> {#आ/#}
+<div n="1">— 5) <lex>f.</lex> {#आ꣡#}
 <div n="2">— a) {%der grösste unter den drei Opferlöffeln.%}
 <div n="2">— b) {%*Desmodium gangeticum.%}
 <div n="2">— c) {%*<bot>Sanseviera ceylanica</bot>.%}

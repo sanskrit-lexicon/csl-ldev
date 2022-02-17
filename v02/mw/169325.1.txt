@@ -1,3 +1,3 @@
-<L>169325.1<pc>840,1<k1>यज्ञभागेश्वर<k2>यज्ञ/—भागेश्वर<e>4
-<s>यज्ञ/—भागे<स्र्स्/>श्वर</s> ¦ <lex>m.</lex>, ‘lord of the gods’, <ab>N.</ab> of <s1 slp1="indra">Indra</s1>, <ls>Śak.</ls><info phwparent="169325,yajYaBAga"/><info lex="m"/>
+<L>169325.1<pc>840,1<k1>यज्ञभागेश्वर<k2>यज्ञ꣡—भागेश्वर<e>4
+<s>यज्ञ꣡—भागे<स्र्स्꣡>श्वर</s> ¦ <lex>m.</lex>, ‘lord of the gods’, <ab>N.</ab> of <s1 slp1="indra">Indra</s1>, <ls>Śak.</ls><info phwparent="169325,yajYaBAga"/><info lex="m"/>
 <LEND>

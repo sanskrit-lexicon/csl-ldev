@@ -1,12 +1,12 @@
 <L>178244<pc>881,3<k1>रुच्<k2>रुच्<h>1<e>1
-<hom>1.</hom> <s>रुच्</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. xviii, 5</ls>) <s>रोचते</s> (<ab>Ved.</ab> and <ab>ep.</ab> also <s>°ति</s>; <ab>pf.</ab> <s>रुरोच</s>, <s>रुरुचे/</s>, <ls>RV.</ls> &c. &c.; <ab>Subj.</ab> <s>रुरुचन्त</s> <ab>Pot.</ab> <s>रुरुच्यास्</s>, <ls>RV.</ls>; <ab>p.</ab> <s>रुरुक्व/स्</s>, <s>रुरुचान/</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अरुचत्</s>, <ls>Rājat.</ls>; <s>अरोचिष्ट</s>, <ls>Br.</ls> &c.; <s>अरुक्त</s>, <ls>TĀr.</ls>; <ab>p.</ab> <s>रुचान/</s>, <ls>RV.</ls>; <ab>aor.</ab> <ab>Pass.</ab> <s>अरोचि</s>, <ls>RV.</ls>; <ab>Prec.</ab> <s>रुचीय</s>, <ls>TĀr.</ls>; <s>रोचिषीय</s>, <ls>Br.</ls>; <s>रुचिषीय</s>, <ls>AV.</ls>; <ab>fut.</ab> <s>रोचिता</s> <ab>Gr.</ab>; <s>रोचिष्यते</s>, <ls>MBh.</ls>; <ab>inf.</ab> <s>रोचितुम्</s>, <ls>ib.</ls>; <s>रुचे/</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>रुचित्वा</s> or <s>रोचित्वा</s>, <ls>Pāṇ. i, 2, 26</ls>), 
+<hom>1.</hom> <s>रुच्</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> (<ls>Dhātup. xviii, 5</ls>) <s>रोचते</s> (<ab>Ved.</ab> and <ab>ep.</ab> also <s>°ति</s>; <ab>pf.</ab> <s>रुरोच</s>, <s>रुरुचे꣡</s>, <ls>RV.</ls> &c. &c.; <ab>Subj.</ab> <s>रुरुचन्त</s> <ab>Pot.</ab> <s>रुरुच्यास्</s>, <ls>RV.</ls>; <ab>p.</ab> <s>रुरुक्व꣡स्</s>, <s>रुरुचान꣡</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अरुचत्</s>, <ls>Rājat.</ls>; <s>अरोचिष्ट</s>, <ls>Br.</ls> &c.; <s>अरुक्त</s>, <ls>TĀr.</ls>; <ab>p.</ab> <s>रुचान꣡</s>, <ls>RV.</ls>; <ab>aor.</ab> <ab>Pass.</ab> <s>अरोचि</s>, <ls>RV.</ls>; <ab>Prec.</ab> <s>रुचीय</s>, <ls>TĀr.</ls>; <s>रोचिषीय</s>, <ls>Br.</ls>; <s>रुचिषीय</s>, <ls>AV.</ls>; <ab>fut.</ab> <s>रोचिता</s> <ab>Gr.</ab>; <s>रोचिष्यते</s>, <ls>MBh.</ls>; <ab>inf.</ab> <s>रोचितुम्</s>, <ls>ib.</ls>; <s>रुचे꣡</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>रुचित्वा</s> or <s>रोचित्वा</s>, <ls>Pāṇ. i, 2, 26</ls>), 
 <div n="to"/>to shine, be bright or radiant or resplendent, <ls>RV.</ls> &c. &c.;
 <div n="to"/> (only in <ab>pf.</ab> <ab>P.</ab>) to make bright or resplendent, <ls>RV.</ls>;
 <div n="to"/>to be splendid or beautiful or good, <ls>AV.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to be agreeable to, please (<ab>dat.</ab> or <ab>gen.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to be pleased with, like (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>R.</ls>;
 <div n="to"/>to be desirous of, long for (<ab>dat.</ab>), <ls>Hariv.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>रोच/यति</s>, <s>°ते</s> (<ab>aor.</ab> <s>अ/रूरुचत्</s>, <s>°चत</s>; <ab>Pass.</ab> <s>रोच्यते</s>), 
+<div n="vp"/><ab>Caus.</ab> <s>रोच꣡यति</s>, <s>°ते</s> (<ab>aor.</ab> <s>अ꣡रूरुचत्</s>, <s>°चत</s>; <ab>Pass.</ab> <s>रोच्यते</s>), 
 <div n="to"/>to cause to shine, <ls>RV.</ls>;
 <div n="to"/>to enlighten, illuminate, make bright, <ls>ib.</ls>; <ls>ŚBr.</ls>; <ls>BhP.</ls>;
 <div n="vp"/> to make pleasant or beautiful, <ls>AV.</ls>; <ls>AitBr.</ls>; <ls>Kum.</ls> <pb n="882,1"/>;
@@ -16,5 +16,5 @@
 <div n="to"/>to purpose, intend, <ls>Hariv.</ls>;
 <div n="to"/> (<ab>Pass.</ab>) to be pleasant or agreeable to (<ab>dat.</ab>), <ls>R.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>रुरुचिषते</s> or <s>रुरोचिषते</s> <ab>Gr.</ab>:
-<div n="vp"/><ab>Intens.</ab> (only <ab>p.</ab> <s>रो/रुचान</s>) to shine bright, <ls>RV.</ls> <info westergaard="ruca,18.5,01.0482"/><info whitneyroots="ruc,141"/><info verb="genuineroot" cp="1Ā,1P"/>
+<div n="vp"/><ab>Intens.</ab> (only <ab>p.</ab> <s>रो꣡रुचान</s>) to shine bright, <ls>RV.</ls> <info westergaard="ruca,18.5,01.0482"/><info whitneyroots="ruc,141"/><info verb="genuineroot" cp="1Ā,1P"/>
 <LEND>

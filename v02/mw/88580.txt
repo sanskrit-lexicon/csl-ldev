@@ -1,5 +1,5 @@
-<L>88580<pc>461,3<k1>त्रित<k2>त्रित/<e>2
-<s>त्रित/</s> ¦ <lex>m.</lex> ‘third’ (<lang n="greek">τρίτος</lang>), <ab>N.</ab> of a Vedic deity (associated with the <s1 slp1="marut">Marut</s1>s, <s1 slp1="vAyu">Vāyu</s1>, and <s1 slp1="indra">Indra</s1>;
+<L>88580<pc>461,3<k1>त्रित<k2>त्रित꣡<e>2
+<s>त्रित꣡</s> ¦ <lex>m.</lex> ‘third’ (<lang n="greek">τρίτος</lang>), <ab>N.</ab> of a Vedic deity (associated with the <s1 slp1="marut">Marut</s1>s, <s1 slp1="vAyu">Vāyu</s1>, and <s1 slp1="indra">Indra</s1>;
 fighting like the latter with <s1 slp1="trita">Trita</s1>, <s1 slp1="vftra">Vṛtra</s1>, and other demons;
 called <s1 slp1="Aptya">Āptya</s1> [<ab>q.v.</ab>], ‘water-deity’, and supposed to reside in the remotest regions of the world, whence [<ls>RV. viii, 47, 13-15</ls>;
 <ls>AV.</ls>] the idea of wishing to remove calamity to <ab n="Trita" slp1="trita">T°</ab>, and the view of the <s1 slp1="trita">Trita</s1>s being the keepers of nectar [<ls>RV. vi, 44, 23</ls>], similarly, <ls>L.</ls> [<ls>RV. ii, 34, 10</ls>; <ls>TS. i</ls>; <ls>TBr. i</ls>] 
@@ -12,7 +12,7 @@ and described in <ls>MBh. ix, 2095</ls>;
 also, <ls>Nir. iv, 6</ls> makes him a <s1 slp1="fzi">Ṛṣi</s1>, and he is the supposed author of <ls>RV. i, 105; viii, 36; ix, 33 f. and 102; x, 1-7</ls>;
 in epic legends [<ls>MBh. ix, xii f.</ls>] <s1 slp1="ekata">Ekata</s1>, <s1 slp1="dvita">Dvita</s1>, and <ab n="Trita" slp1="trita">T°</ab> are described as 3 brothers, sons of <s1 slp1="gOtama">Gautama</s1> or of <s1 slp1="prajA-pati">Prajā-pati</s1> or <s1 slp1="brahmA">Brahmā</s1>;
 elsewhere <ab n="Trita" slp1="trita">T°</ab> is one of the 12 sons of <s1 slp1="manu">Manu</s1> <s1 slp1="cAkzuza">Cākṣuṣa</s1> by <s1 slp1="naqvalA">Naḍvalā</s1>, <ls>BhP. iv, 13, 16</ls>;
-<ab>cf.</ab> <s>त्रैतन/</s>;
+<ab>cf.</ab> <s>त्रैतन꣡</s>;
 <ab>Zd.</ab> <etym>Thrita</etym>;
 <lang n="greek">Τρίτων</lang>, <lang n="greek">τριτο-γενής</lang>, &c.)<info lex="m"/>
 <LEND>

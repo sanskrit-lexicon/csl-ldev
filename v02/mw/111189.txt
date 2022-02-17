@@ -1,24 +1,24 @@
 <L>111189<pc>565,1<k1>नी<k2>नी<h>2<e>1
 <hom>2.</hom> <s>नी</s> ¦ (for <hom>1.</hom> See <pcol>p. 543, col. 3</pcol>) <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxii. 5</ls>) <s>नयति</s>, <s>°ते</s> 
 (<ab>pf.</ab> <ab>P.</ab> <s>निनाय</s>, 2. <ab>sg.</ab> <s>निनेथ</s>, <ls>RV., 1.</ls> <ab>pl.</ab> <s>नीनिम</s>, <ls>TS.</ls>;
-<ab>Subj.</ab> <s>निनीथ/स्</s> <ab>Pot.</ab> <s>निनीयात्</s>, <ls>RV.</ls>;
+<ab>Subj.</ab> <s>निनीथ꣡स्</s> <ab>Pot.</ab> <s>निनीयात्</s>, <ls>RV.</ls>;
 <ab>Impv.</ab> <s>निनेतु</s>, <ls>MaitrS.</ls>;
 <ab>Ā.</ab> <s>निन्ये</s>, <ls>Br.</ls> &c.;
 <s>-नयाम् आस</s>, <ls>MBh.</ls>;
 <s>-नयां चक्रे</s>, <ls>R.</ls>;
-<ab>aor.</ab> <ab>P.</ab> 3. <ab>du.</ab> <s>अनीताम्</s> <ab>Subj.</ab> <s>ने/षि</s>, <s>नेथा/</s>, <ls>RV.</ls>;
+<ab>aor.</ab> <ab>P.</ab> 3. <ab>du.</ab> <s>अनीताम्</s> <ab>Subj.</ab> <s>ने꣡षि</s>, <s>नेथा꣡</s>, <ls>RV.</ls>;
 <s>अनैषीत्</s> <ab>Subj.</ab> <s>नेषति</s>, <s>°षत्</s>, 3. <ab>pl.</ab> <ab>Ā.</ab> <s>अनेषत</s>, <ls>ib.</ls>;
 <s>अनयीत्</s>, <ls>AV.</ls>;
 <ab>fut.</ab> <s>नेष्यति</s>, <ls>AV.</ls>;
 <s>°ते</s>, <ls>Br.</ls>;
 <s>नयिष्यति</s>, <s>°ते</s>, <ls>MBh.</ls>; <ls>R.</ls>;
-<s>ने/ता</s>, <s>नयिता</s>, <ls>ib.</ls>;
+<s>ने꣡ता</s>, <s>नयिता</s>, <ls>ib.</ls>;
 <ab>ind.p.</ab> <s>नीत्वा</s>, <ls>Br.</ls> &c.;
 <s>नयित्वा</s>, <ls>MBh.</ls>;
-<s>नी/य</s>, <ls>AV.</ls> &c.;
-<ab>inf.</ab> <s>नेष/णि</s>, <ls>RV.</ls>;
-<s>ने/तवै</s>, <s>°तोस्</s> and <s>नयितुम्</s>, <ls>Br.</ls>;
-<s>ने/तुम्</s>, <ls>ib.</ls> &c. &c.), 
+<s>नी꣡य</s>, <ls>AV.</ls> &c.;
+<ab>inf.</ab> <s>नेष꣡णि</s>, <ls>RV.</ls>;
+<s>ने꣡तवै</s>, <s>°तोस्</s> and <s>नयितुम्</s>, <ls>Br.</ls>;
+<s>ने꣡तुम्</s>, <ls>ib.</ls> &c. &c.), 
 <div n="to"/>to lead, guide, conduct, direct, govern (also with <s>अग्रम्</s> and <ab>gen.</ab>; <ab>cf.</ab> <s>अग्र-णी</s>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to lead &c. towards or to (<ab>acc.</ab> with or without <s>प्रति</s> <ab>dat.</ab>, <ab>loc.</ab> or <s>अर्थम्</s> <ab>ifc.</ab>), <ls>ib.</ls>;
 <div n="to"/>to lead or keep away, exclude from (<ab>abl.</ab>), <ls>AitBr.</ls>;
@@ -33,10 +33,10 @@
 <div n="to"/> (<ab>Ā.</ab>) to be foremost or chief, <ls>Pāṇ. i, 3, 36</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>नाययति</s>, <s>°ते</s>, to cause to lead &c.;
 <div n="to"/>to cause to be led by (<ab>instr.</ab>), <ls>Mn. v, 104</ls> (<ab>cf.</ab> <ls>Pāṇ. i, 4, 52</ls>, <ab>Vārtt.</ab> 5, <ls>Pat.</ls>) :
-<div n="vp"/><ab>Desid.</ab> <s>नि/नीषति</s>, <s>ते</s> (<ls>AV. xix, 50, 5</ls>, w. r. <s>निनेषति</s>), to wish to lead or bring or carry to or into (<ab>acc.</ab> or <ab>dat.</ab>), <ls>AV.</ls>; <ls>Up.</ls>; <ls>MBh.</ls> &c.;
+<div n="vp"/><ab>Desid.</ab> <s>नि꣡नीषति</s>, <s>ते</s> (<ls>AV. xix, 50, 5</ls>, w. r. <s>निनेषति</s>), to wish to lead or bring or carry to or into (<ab>acc.</ab> or <ab>dat.</ab>), <ls>AV.</ls>; <ls>Up.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to wish to carry away, <ls>R.</ls>;
 <div n="to"/>to wish to spend or pass (time), <ls>Naiṣ.</ls>;
 <div n="to"/>to wish to exclude from (<ab>abl.</ab>), <ls>AitBr.</ls>;
 <div n="to"/>to wish to find out or ascertain, investigate, <ls>MBh.</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>नेनीय/ते</s> to lead as a captive, have in one's power, rule, govern, <ls>TS.</ls>; <ls>VS.</ls>; <ls>MBh.</ls><info whitneyroots="nI,90"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>नेनीय꣡ते</s> to lead as a captive, have in one's power, rule, govern, <ls>TS.</ls>; <ls>VS.</ls>; <ls>MBh.</ls><info whitneyroots="nI,90"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

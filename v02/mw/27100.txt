@@ -1,5 +1,5 @@
 <L>27100<pc>155,2<k1>आविद्<k2>आ-विद्<h>3<e>1
-<hom>3.</hom> <s>आ-</s>√ <hom>3.</hom> <s>विद्</s> ¦ <ab>P.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>आ/-विदम्</s>, <ls>RV. ii, 27, 17</ls>; <ab>Inf.</ab> <s>-वि/दे</s>, <ls>RV. x, 113, 3</ls>) <ab>Ā.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>आ/-विदे</s>, <ls>RV. viii, 45, 36</ls>; <ab>aor.</ab> 1. <ab>sg.</ab> <s>आ/<स्र्स्/>वित्सि</s>, <ls>RV. x, 15, 3; 97, 7</ls>) 
+<hom>3.</hom> <s>आ-</s>√ <hom>3.</hom> <s>विद्</s> ¦ <ab>P.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>आ꣡-विदम्</s>, <ls>RV. ii, 27, 17</ls>; <ab>Inf.</ab> <s>-वि꣡दे</s>, <ls>RV. x, 113, 3</ls>) <ab>Ā.</ab> (<ab>Subj.</ab> 1. <ab>sg.</ab> <s>आ꣡-विदे</s>, <ls>RV. viii, 45, 36</ls>; <ab>aor.</ab> 1. <ab>sg.</ab> <s>आ꣡<स्र्स्꣡>वित्सि</s>, <ls>RV. x, 15, 3; 97, 7</ls>) 
 <div n="to"/>to reach, obtain;
 <div n="to"/>to get into:
 <div n="to"/><ab>Pass.</ab> <s>-विद्यते</s>, to exist, <ls>RV. iii, 54, 4.</ls> <info n="rev" pc="1320,2"/><info verb="pre" cp="PĀ" parse="A+vid"/>

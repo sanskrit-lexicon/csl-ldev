@@ -1,6 +1,6 @@
-<L>42966<pc>2269-3<k1>जीव<k2>जीव/<e>100
-{#जीव/#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ/#})
+<L>42966<pc>2269-3<k1>जीव<k2>जीव꣡<e>100
+{#जीव꣡#}¦
+<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ꣡#})
 <div n="2">— a) {%lebend , lebendig.%}
 <div n="2">— b) von Blut so v.a. {%gesund%} <ls>CARAKA. 8,6.</ls>
 <div n="2">— c) am Ende eines Comp. {%lebend von.%}

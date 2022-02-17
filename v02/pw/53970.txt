@@ -1,8 +1,8 @@
-<L>53970<pc>3136-1<k1>द्विपद्<k2>द्विप/द्<e>100
-{#द्विप/द्#}¦ und {#द्वि/पद्#} (stark {#°पाद्#})
+<L>53970<pc>3136-1<k1>द्विपद्<k2>द्विप꣡द्<e>100
+{#द्विप꣡द्#}¦ und {#द्वि꣡पद्#} (stark {#°पाद्#})
 <div n="1">— 1) <lex>Adj.</lex>
-<div n="2">— a) {%zweifüssig%} ; <lex>m.</lex> {%der Zweifüssige , der Mensch%} ; <lex>n.</lex> (<ab>Acc.</ab> {#द्विपा/द्#}) {%das Geschlecht der Zweifüssigen , die Menschen.%}
-<div n="2">— b) <lex>Adj.</lex> (<lex>f.</lex> {#द्विपाद्#} und {#द्विप/दी#}) {%zweistollig.%}
+<div n="2">— a) {%zweifüssig%} ; <lex>m.</lex> {%der Zweifüssige , der Mensch%} ; <lex>n.</lex> (<ab>Acc.</ab> {#द्विपा꣡द्#}) {%das Geschlecht der Zweifüssigen , die Menschen.%}
+<div n="2">— b) <lex>Adj.</lex> (<lex>f.</lex> {#द्विपाद्#} und {#द्विप꣡दी#}) {%zweistollig.%}
 <div n="1">— 2) <lex>m.</lex> {%ein Metrum von zwei <is>Pada</is>.%}
 <div n="1">— 3) <lex>f.</lex> {#द्विपदी#}
 <div n="2">— a) {%ein best. Metrum.%}

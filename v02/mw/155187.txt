@@ -1,6 +1,6 @@
 <L>155187<pc>777,1<k1>मथ्<k2>मथ्<h>1<e>1
-<hom>1.</hom> <s>मथ्</s> ¦ or <s>मन्थ्</s> (<ab>q.v.</ab>) <ab>cl.</ab> 1. 9. <ab>P.</ab> (<ls>Dhātup. xx, 18; iii, 5 and xxxi, 40</ls>) <s>म/थति</s>, <s>म/न्थति</s>, <s>मथ्ना/ति</s> 
-(<ab>Ved.</ab> and <ab>ep.</ab> also <ab>Ā.</ab> <s>म/थते</s>, <s>म/न्थते</s> and <s>मथ्नीते</s>;
+<hom>1.</hom> <s>मथ्</s> ¦ or <s>मन्थ्</s> (<ab>q.v.</ab>) <ab>cl.</ab> 1. 9. <ab>P.</ab> (<ls>Dhātup. xx, 18; iii, 5 and xxxi, 40</ls>) <s>म꣡थति</s>, <s>म꣡न्थति</s>, <s>मथ्ना꣡ति</s> 
+(<ab>Ved.</ab> and <ab>ep.</ab> also <ab>Ā.</ab> <s>म꣡थते</s>, <s>म꣡न्थते</s> and <s>मथ्नीते</s>;
 <ab>Impv.</ab> <s>मथ्नध्वम्</s>, <ls>MBh.</ls>;
 <ab>pf.</ab> <s>ममाथ</s>, <ls>AV.</ls>;
 3. <ab>pl.</ab> <s>ममथुः</s>, <ls>Vop.</ls>;
@@ -13,8 +13,8 @@
 <s>मथिता</s>, <ls>MBh.</ls>;
 <ab>inf.</ab> <s>मथितुम्</s>, <ls>MBh.</ls> &c.;
 <s>°तोस्</s>, <ls>Br.</ls>;
-<s>म/न्थितवै/</s>, <ls>MaitrS.</ls>;
-<ab>ind.p.</ab> <s>मथित्वा/</s>, <s>-म/थ्य</s>, <ls>Br.</ls> &c.;
+<s>म꣡न्थितवै꣡</s>, <ls>MaitrS.</ls>;
+<ab>ind.p.</ab> <s>मथित्वा꣡</s>, <s>-म꣡थ्य</s>, <ls>Br.</ls> &c.;
 <s>मन्थित्वा</s>, <ls>Pāṇ. i, 2, 33</ls>;
 <s>-मन्थ्य</s> and <s>-माथम्</s>, <ls>MBh.</ls> &c.), 
 <div n="to"/>to stir or whirl round, <ls>RV.</ls> &c. &c.;
@@ -24,8 +24,8 @@
 <div n="to"/>to churn (milk into butter), produce by churning, <ls>TS.</ls> &c. &c. (also with two <ab>acc.</ab> <ab>e.g.</ab> <s>सुधां क्षीर-निधिम् मथ्नाति</s>, ‘he churns nectar out of the ocean of milk’ <ls>Siddh.</ls> on <ls>Pāṇ. i, 4, 51</ls>);
 <div n="to"/>to mix, mingle, <ls>Suśr.</ls>;
 <div n="to"/>to stir up, shake, agitate, trouble disturb, afflict, distress, hurt, destroy, <ls>AV.</ls> &c. &c.:
-<div n="vp"/><ab>Pass.</ab> <s>मथ्य/ते</s> (<ab>ep.</ab> also <s>°ति</s>), to be stirred up or churned &c., <ls>RV.</ls> &c. &c.:
-<div n="to"/><ab>Caus.</ab> <s>मन्थयति</s> (<ls>Lāṭy.</ls>), <s>मा<स्होर्त्लोन्ग्/>थयति</s> (<ls>MBh.</ls>), to cause to be stirred up or churned &c.:
+<div n="vp"/><ab>Pass.</ab> <s>मथ्य꣡ते</s> (<ab>ep.</ab> also <s>°ति</s>), to be stirred up or churned &c., <ls>RV.</ls> &c. &c.:
+<div n="to"/><ab>Caus.</ab> <s>मन्थयति</s> (<ls>Lāṭy.</ls>), <s>मा<स्होर्त्लोन्ग्꣡>थयति</s> (<ls>MBh.</ls>), to cause to be stirred up or churned &c.:
 <div n="vp"/><ab>Desid.</ab> <s>मिमथिषति</s>, <s>मिमन्थिषति</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Intens.</ab> <s>मामथ्यते</s>, <s>मामन्त्ति</s> &c., <ls>ib.</ls> 
 <info or="155187,maT;155187.1,manT"/><info westergaard="maTe,20.18,01.0574;manTa,3.5,01.0037;manTa,31.40,09.0046"/><info whitneyroots="maT,117"/><info verb="genuineroot" cp="1,9P,9Ā"/>

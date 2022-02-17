@@ -1,5 +1,5 @@
 <L>75258<pc>403,2<k1>च्यु<k2>च्यु<h>2<e>1
-<hom>2.</hom> <s>च्यु</s> ¦ <ab>cl.</ab> 1. <s>च्य/वते</s> (<ab>ep.</ab> also <s>°ति</s>; <ab>Subj.</ab> 1. <ab>sg.</ab> <s>च्य/वम्</s>, <ls>RV. i, 165, 10</ls>; 3. <ab>pl.</ab> <s>च्यवन्त</s>, <ls>48, 2</ls> <ab>fut.</ab> <s>च्योष्यते</s>, <ls>AitBr. ii, 22</ls>; <ab>aor.</ab> 2. <ab>pl.</ab> <s>अच्योढ्वम्</s> [<ab>Subj.</ab> <s>च्य्°</s>, <ls>MahānārUp.</ls>] and <ab>Prec.</ab> <s>च्योषीढ्वम्</s>, <ls>Pāṇ. viii, 3, 78</ls>; <ls>Kāś.</ls>) to move to and fro, shake about, <ls>RV. i, 167, 8</ls>;
+<hom>2.</hom> <s>च्यु</s> ¦ <ab>cl.</ab> 1. <s>च्य꣡वते</s> (<ab>ep.</ab> also <s>°ति</s>; <ab>Subj.</ab> 1. <ab>sg.</ab> <s>च्य꣡वम्</s>, <ls>RV. i, 165, 10</ls>; 3. <ab>pl.</ab> <s>च्यवन्त</s>, <ls>48, 2</ls> <ab>fut.</ab> <s>च्योष्यते</s>, <ls>AitBr. ii, 22</ls>; <ab>aor.</ab> 2. <ab>pl.</ab> <s>अच्योढ्वम्</s> [<ab>Subj.</ab> <s>च्य्°</s>, <ls>MahānārUp.</ls>] and <ab>Prec.</ab> <s>च्योषीढ्वम्</s>, <ls>Pāṇ. viii, 3, 78</ls>; <ls>Kāś.</ls>) to move to and fro, shake about, <ls>RV. i, 167, 8</ls>;
 <div n="to"/>to stir, move from one's place, go away, retire from (<ab>abl.</ab>), turn off; <ls>vi, 62, 7</ls>;
 <div n="vp"/> <ls>x</ls>; <ls>BhP. ix, 14, 20</ls>;
 <div n="to"/>to deviate from (<ab>abl.</ab>), abandon (duty &c. <ab>abl.</ab>; exceptionally <ab>gen.</ab> <ls>MBh. xv, 463 [<ab>C</ab>]</ls><ab>inf.</ab> <s>च्यवितुम्</s>), <ls>Mn. vii, 98</ls>; <ls>MBh. iii</ls>;
@@ -13,13 +13,13 @@
 <div n="to"/>to sink down, sink (<ab>lit.</ab> and <ab>fig.</ab>), <ls>MuṇḍUp. i, 2, 9</ls>;
 <div n="vp"/> (in the series of re-births), <ls>Bhag. ix, 24</ls>;
 <div n="to"/>to decrease (with <ab>instr.</ab>), <ls>MBh. iii, 14141</ls>;
-<div n="to"/>to bring about, create, make, <ls>RV. i, 48, 2; iv, 30, 22</ls> (<ab>pf.</ab> 2. <ab>sg.</ab> <s>चिच्युषे/</s> <ab>cf.</ab> <ls>Pāṇ. vi, 1, 36</ls>); <ls>8-45, 25</ls> (<ab>pf.</ab> <s>चुच्युवे/</s>);
+<div n="to"/>to bring about, create, make, <ls>RV. i, 48, 2; iv, 30, 22</ls> (<ab>pf.</ab> 2. <ab>sg.</ab> <s>चिच्युषे꣡</s> <ab>cf.</ab> <ls>Pāṇ. vi, 1, 36</ls>); <ls>8-45, 25</ls> (<ab>pf.</ab> <s>चुच्युवे꣡</s>);
 <div n="to"/>to cause to go away, make forget, <ls>MahānārUp.</ls>;
-<div n="vp"/> <ab>Caus.</ab> <s>च्याव/यति</s> (once <s>च्यव्°</s>, <ls>ŚāṅkhBr. xii, 5</ls>; <ls>Padap.</ls> always <s>च्यव्°</s>, <ab>p.</ab> <s>च्याव/यत्</s>, <ls>RV. iii, 30, 4</ls>; <ab>impf.</ab> <s>अचुच्यवुर्</s>, <ls>i, 166, 5 and 168, 4</ls>; <ab>pf.</ab> <s>च्यावयाम् आस</s>, <ls>MBh. iii, 15920</ls>) <ab>P.</ab> to cause to move, shake, agitate, <ls>RV. i;iii, 30, 4</ls>; <ls>AV. x, xii</ls>;
+<div n="vp"/> <ab>Caus.</ab> <s>च्याव꣡यति</s> (once <s>च्यव्°</s>, <ls>ŚāṅkhBr. xii, 5</ls>; <ls>Padap.</ls> always <s>च्यव्°</s>, <ab>p.</ab> <s>च्याव꣡यत्</s>, <ls>RV. iii, 30, 4</ls>; <ab>impf.</ab> <s>अचुच्यवुर्</s>, <ls>i, 166, 5 and 168, 4</ls>; <ab>pf.</ab> <s>च्यावयाम् आस</s>, <ls>MBh. iii, 15920</ls>) <ab>P.</ab> to cause to move, shake, agitate, <ls>RV. i;iii, 30, 4</ls>; <ls>AV. x, xii</ls>;
 <div n="vp"/> <ab>Ā.</ab> to be moved or shaken, <ls>RV. vi, 31, 2</ls>;
 <div n="vp"/> <ab>P.</ab> to loosen, <ls>i, 168, 6</ls>;
 <div n="to"/>to remove from a place, drive away from (<ab>abl.</ab>), <ls>TS. ii, 2, 7, 5</ls>; <ls>ŚBr. i, x</ls>; <ls>MBh.</ls>; <ls>R.</ls>;
-<div n="to"/>to cause (rain, <s>वृ/ष्टिम्</s>) to fall, <ls>TS. iii, 3, 4, 1</ls>; <ls>TāṇḍyaBr. xiii, 5, 13</ls>; <ls>ŚāṅkhBr. xii, 5</ls>;
+<div n="to"/>to cause (rain, <s>वृ꣡ष्टिम्</s>) to fall, <ls>TS. iii, 3, 4, 1</ls>; <ls>TāṇḍyaBr. xiii, 5, 13</ls>; <ls>ŚāṅkhBr. xii, 5</ls>;
 <div n="to"/>to deprive any one (<ab>acc.</ab>) of (<ab>acc.</ab>), <ls>R. ii, 53, 7</ls>;
 <div n="to"/> <ab>Intens.</ab> (<ab>impf.</ab> 2. <ab>pl.</ab> <s>अचुच्यवीतन</s>) to shake, <ls>RV. i, 37, i 2</ls> :
 <div n="vp"/><ab>Caus.</ab> <ab>Desid.</ab> <s>चिच्यावयिषति</s> or <s>चुच्य्°</s>, <ls>Pāṇ. vii, 4, 81.</ls><info whitneyroots="cyu,49"/><info verb="root" cp="1P,1Ā"/>

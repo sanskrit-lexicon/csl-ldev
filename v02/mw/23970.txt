@@ -1,5 +1,5 @@
 <L>23970<pc>137,2<k1>आदिश्<k2>आ-दिश्<h>1<e>1
-<hom>1.</hom> <s>आ-√ दिश्</s> ¦ <ab>P.</ab> <s>-दिदे/ष्टि</s> ([<ab>Subj.</ab> 3. <ab>sg.</ab> <s>-दिदेशति</s>, <ls>AV. vi, 6, 2,</ls> &c.]), <s>-दिश/ति</s> ([3. <ab>pl.</ab> <s>-दिशन्ति</s> <ab>Impv.</ab> 2. <ab>sg.</ab> <s>-दिश</s> <ab>impf.</ab> 1. <ab>sg.</ab> <s>आ<स्र्स्/>दिशम्</s>, &c.]), rarely <s>-दिशते</s> ([<ls>BhP. viii, 24, 51</ls>]) <ab>inf.</ab> <s>-दि/शे</s> ([<ls>RV. ix, 21, 5</ls>]) and <s>-देष्टुम्</s> (<ab>aor.</ab> 3. <ab>sg.</ab> <s>आ<स्र्स्/>दिक्षत्</s> [<ls>Bhaṭṭ. iii, 3</ls> See <ls>Pāṇ. iii, 1, 45</ls>] <ab>fut.</ab> 1. <ab>pl.</ab> <s>-देक्ष्यामः</s>, <ab>perf.</ab> <s>-दिदेश</s>) to aim at, have in view;
+<hom>1.</hom> <s>आ-√ दिश्</s> ¦ <ab>P.</ab> <s>-दिदे꣡ष्टि</s> ([<ab>Subj.</ab> 3. <ab>sg.</ab> <s>-दिदेशति</s>, <ls>AV. vi, 6, 2,</ls> &c.]), <s>-दिश꣡ति</s> ([3. <ab>pl.</ab> <s>-दिशन्ति</s> <ab>Impv.</ab> 2. <ab>sg.</ab> <s>-दिश</s> <ab>impf.</ab> 1. <ab>sg.</ab> <s>आ<स्र्स्꣡>दिशम्</s>, &c.]), rarely <s>-दिशते</s> ([<ls>BhP. viii, 24, 51</ls>]) <ab>inf.</ab> <s>-दि꣡शे</s> ([<ls>RV. ix, 21, 5</ls>]) and <s>-देष्टुम्</s> (<ab>aor.</ab> 3. <ab>sg.</ab> <s>आ<स्र्स्꣡>दिक्षत्</s> [<ls>Bhaṭṭ. iii, 3</ls> See <ls>Pāṇ. iii, 1, 45</ls>] <ab>fut.</ab> 1. <ab>pl.</ab> <s>-देक्ष्यामः</s>, <ab>perf.</ab> <s>-दिदेश</s>) to aim at, have in view;
 <div n="to"/>to threaten, <ls>RV. ix, 21, 5,</ls> &c.; <ls>AV.</ls> <pb n="137,3"/>;
 <div n="to"/>to hit, <ls>RV. ix, 56, 1</ls>;
 <div n="to"/>to assign, <ls>RV. ii, 41, 17,</ls> &c.; <ls>AV.</ls>; <ls>BhP.</ls>; <ls>R.</ls>; <ls>Ragh.</ls> &c.;
@@ -13,5 +13,5 @@
 <div n="to"/>to undertake, try, <ls>MBh.</ls>;
 <div n="to"/>to profess as one's aim or duty, <ls>RV.</ls>; <ls>Yājñ.</ls> :
 <div n="to"/><ab>Caus.</ab> <s>-देशयति</s>, to show, indicate, announce, <ls>Ratnāv.</ls>; <ls>MBh.</ls>; <ls>Śak.</ls>; <ls>Mṛcch.</ls> :
-<div n="to"/><ab>Intens.</ab> (<ab>p.</ab> <s>-दे/दिशान</s>) to have in view, aim at (<ab>acc.</ab>), <ls>RV. ix, 70, 5.</ls><info verb="pre" cp="P" parse="A+diS"/>
+<div n="to"/><ab>Intens.</ab> (<ab>p.</ab> <s>-दे꣡दिशान</s>) to have in view, aim at (<ab>acc.</ab>), <ls>RV. ix, 70, 5.</ls><info verb="pre" cp="P" parse="A+diS"/>
 <LEND>

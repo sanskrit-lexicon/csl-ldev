@@ -1,6 +1,6 @@
-<L>118198<pc>7029-1<k1>सत्य<k2>सत्य/<e>100
-{#सत्य/#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ/#}) {%wirklich , in Wirklichkeit vorhanden , wahrhaft , ernstlich , wahr , echt , zutreffend , eintreffend , von Erfolg begleitet , in Erfüllung gehend , zuverlässig , treu , auf den%} oder {%worauf man sich verlassen kann , gültig%}. {#सत्यं कर्#} {%Etwas wahr machen , erfüllen%} <ls>325,2.</ls> {#सत्य/म्#} <ab>Adv.</ab> {%in Wirklichkeit , in Wahrheit , in der That , wirklich , fürwahr , wahrlich , gewiss , mit Recht , recht gut%} (in zustimmender Antwort) , {%so ist es recht%} (einräumend ; auch mit folgenden) {#तु#} {#किं#} {#तु#} oder {#तथापि#} {%aber , jedoch , dennoch). {#यत्सत्यम्#} in der That , fürwahr%} <ls>MṚCCH. 44,16. 129,15. 143,3.</ls> {#जं#} {#सच्चं#} im <is n="1">Prākrit</is> 23 , 25. 68 , 21. 70 , 14. 71 , 24. 122 , 17. 165. 13
+<L>118198<pc>7029-1<k1>सत्य<k2>सत्य꣡<e>100
+{#सत्य꣡#}¦
+<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ꣡#}) {%wirklich , in Wirklichkeit vorhanden , wahrhaft , ernstlich , wahr , echt , zutreffend , eintreffend , von Erfolg begleitet , in Erfüllung gehend , zuverlässig , treu , auf den%} oder {%worauf man sich verlassen kann , gültig%}. {#सत्यं कर्#} {%Etwas wahr machen , erfüllen%} <ls>325,2.</ls> {#सत्य꣡म्#} <ab>Adv.</ab> {%in Wirklichkeit , in Wahrheit , in der That , wirklich , fürwahr , wahrlich , gewiss , mit Recht , recht gut%} (in zustimmender Antwort) , {%so ist es recht%} (einräumend ; auch mit folgenden) {#तु#} {#किं#} {#तु#} oder {#तथापि#} {%aber , jedoch , dennoch). {#यत्सत्यम्#} in der That , fürwahr%} <ls>MṚCCH. 44,16. 129,15. 143,3.</ls> {#जं#} {#सच्चं#} im <is n="1">Prākrit</is> 23 , 25. 68 , 21. 70 , 14. 71 , 24. 122 , 17. 165. 13
 <div n="1">— 2) <lex>m.</lex>
 <div n="2">— a) {%<bot>Ficus religiosa</bot>%} <ls>RĀJAN. 11,115.</ls>
 <div n="2">— b) {%die unter den Welten am höchsten gelegene%} ; <ab>Vgl.</ab> 4)f).
@@ -27,7 +27,7 @@
 [Page7029-2]
 anderer Frauen.
 <div n="1">— 4) <lex>n.</lex>
-<div n="2">— a) {%das Wirkliche ; Wirklichkeit. Wahrheit.%} {#पुरा/#} {#सत्या/त्#} so v.a. {%damit es keinen Erfolg habe%} ; {#क/स्मात्सत्या/त्#} {%in Folge welches Sachverhalts%} , so v.a. {%wie kommt es , dass%} ; {#ते/न सत्ये/न#} {%auf Grund hiervon%} ; {#सत्यं च ते ज्ञात्वा#} so v.a. {%und erfahren habend , dass du wirklich so bist.%} <ab>Instr.</ab> {%der Wahrheit gemäss , in Wirklichkeit%} ; {#तेन सत्येन#} {%so wahr dieses ist%} ; {#यथा#} — {#तेन#} {#सत्येन#} {#तेन#} {#सत्येन#} {#यथा#} {#यथा#} {#एवं#} {#सत्येन#} {%so wahr — eben so gewiss.%} Vier {%Wahrheiten%} bei den Buddhisten.
+<div n="2">— a) {%das Wirkliche ; Wirklichkeit. Wahrheit.%} {#पुरा꣡#} {#सत्या꣡त्#} so v.a. {%damit es keinen Erfolg habe%} ; {#क꣡स्मात्सत्या꣡त्#} {%in Folge welches Sachverhalts%} , so v.a. {%wie kommt es , dass%} ; {#ते꣡न सत्ये꣡न#} {%auf Grund hiervon%} ; {#सत्यं च ते ज्ञात्वा#} so v.a. {%und erfahren habend , dass du wirklich so bist.%} <ab>Instr.</ab> {%der Wahrheit gemäss , in Wirklichkeit%} ; {#तेन सत्येन#} {%so wahr dieses ist%} ; {#यथा#} — {#तेन#} {#सत्येन#} {#तेन#} {#सत्येन#} {#यथा#} {#यथा#} {#एवं#} {#सत्येन#} {%so wahr — eben so gewiss.%} Vier {%Wahrheiten%} bei den Buddhisten.
 <div n="2">— b) {%Wahrhaftigkeit , das Reden der Wahrheit.%}
 <div n="2">— c) {%Gelöbniss , Versprechen , Eid , Schwur.%} {#सत्यं#} {#चिकीर्षमाणः#} {%das gegebene Wort zu halten wünschend.%}
 <div n="2">— d) {%das erste Weltalter ,%} = {#कृत#}.

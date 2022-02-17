@@ -1,11 +1,11 @@
-<L>245331<pc>1219,3<k1>सु<k2>सु/<h>5<e>1
-<hom>5.</hom> <s>सु/</s> ¦ <lex>ind.</lex> (<ab>opp.</ab> to <s>दुस्</s> and corresponding in sense to <ab>Gk.</ab> <lang n="greek">εὖ</lang>;
-perhaps connected with <hom>1.</hom> <s>व/सु</s>, and, <ab>accord.</ab> to some, with <ab>pron.</ab> base <s>स</s>, as <s>कु</s> with <s>क</s>;
-in <s1 slp1="veda">Veda</s1> also <s>सू/</s> and liable to become <s>षु</s> or <s>षू</s> and to lengthen a preceding vowel, while a following <s>न</s> may become <s>ण</s>;
+<L>245331<pc>1219,3<k1>सु<k2>सु꣡<h>5<e>1
+<hom>5.</hom> <s>सु꣡</s> ¦ <lex>ind.</lex> (<ab>opp.</ab> to <s>दुस्</s> and corresponding in sense to <ab>Gk.</ab> <lang n="greek">εὖ</lang>;
+perhaps connected with <hom>1.</hom> <s>व꣡सु</s>, and, <ab>accord.</ab> to some, with <ab>pron.</ab> base <s>स</s>, as <s>कु</s> with <s>क</s>;
+in <s1 slp1="veda">Veda</s1> also <s>सू꣡</s> and liable to become <s>षु</s> or <s>षू</s> and to lengthen a preceding vowel, while a following <s>न</s> may become <s>ण</s>;
 it may be used as an <ab>adj.</ab> or <ab>adv.</ab>), good, excellent, right, virtuous, beautiful, easy, well, rightly, much, greatly, very, any, easily, willingly, quickly (in older language often with other particles;
 <ab>esp.</ab> with <s>उ</s>, = ‘forthwith, immediately’;
-with <s>मो<स्र्स्/></s> <ab>i.e.</ab> <s>मा उ</s>, = ‘never, by no means’ <pb n="1220,1"/>;
-<s>सु/ कम्</s> often emphatically with an <ab>Impv.</ab> <ab>e.g.</ab> <s>ति/ष्ठा सु/ कम् मघवन् मा/ परा गाः</s>, ‘do tarry O <s1 slp1="maGavan">Maghavan</s1>, go not past’ <ls>RV. iii, 53, 2</ls>;
+with <s>मो<स्र्स्꣡></s> <ab>i.e.</ab> <s>मा उ</s>, = ‘never, by no means’ <pb n="1220,1"/>;
+<s>सु꣡ कम्</s> often emphatically with an <ab>Impv.</ab> <ab>e.g.</ab> <s>ति꣡ष्ठा सु꣡ कम् मघवन् मा꣡ परा गाः</s>, ‘do tarry O <s1 slp1="maGavan">Maghavan</s1>, go not past’ <ls>RV. iii, 53, 2</ls>;
 <s>सु</s> always qualifies the meaning of a verb and is never used independently at the beginning of a verse;
 in later language it is rarely a separate word, but is mostly prefixed to substantives, adjectives, adverbs and participles, exceptionally also to an <ab>ind.p.</ab> <ab>e.g.</ab> <s>सु-बद्ध्वा</s>, ‘having well bound’ <ls>Mṛcch. x, 50</ls>;
 or even to a finite verb <ab>e.g.</ab> <s>सु-निर्ववौ</s>, <ls>Śiś. vi, 58</ls>), <ls>RV.</ls> &c.;<info lex="ind"/>

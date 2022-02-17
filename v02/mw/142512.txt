@@ -1,16 +1,16 @@
 <L>142512<pc>720,1<k1>बन्ध्<k2>बन्ध्<e>1
-<s>बन्ध्</s> ¦ <ab>cl.</ab> 9. <ab>P.</ab> (<ls>Dhātup. xxxi, 37</ls>) <s>बध्ना/ति</s> 
-(rarely <ab>Ā.</ab> <s>बध्नीते/</s>;
+<s>बन्ध्</s> ¦ <ab>cl.</ab> 9. <ab>P.</ab> (<ls>Dhātup. xxxi, 37</ls>) <s>बध्ना꣡ति</s> 
+(rarely <ab>Ā.</ab> <s>बध्नीते꣡</s>;
 <ab>cl.</ab> 1. <ab>P.</ab> <ab>Ā.</ab> <s>बन्धति</s>, <s>°ते</s>, <ls>MBh.</ls>;
 <ab>cl.</ab> 4. <ab>P.</ab> <s>बध्यति</s>, <ls>Hariv.</ls>;
 <ab>Impv.</ab> <s>बधान</s>, <ls>AV.</ls>, <s>बन्धान</s>, <ls>MBh.</ls>, <s>-बध्नीहि</s>, <ls>BhP.</ls>, <s>बन्ध</s>, <ls>R.</ls>;
-<ab>pf.</ab> <ab>P.</ab> <s>बब/न्ध</s>, 3. <ab>pl.</ab> <s>बेधु/स्</s>, <ls>AV.</ls>, <s>बबन्धुस्</s>, <ls>MBh.</ls>;
-<ab>Ā.</ab> <s>बेधे/</s>, <s>°धिरे/</s>, <ls>AV.</ls>, <s>बबन्धे</s> <ab>Gr.</ab>;
+<ab>pf.</ab> <ab>P.</ab> <s>बब꣡न्ध</s>, 3. <ab>pl.</ab> <s>बेधु꣡स्</s>, <ls>AV.</ls>, <s>बबन्धुस्</s>, <ls>MBh.</ls>;
+<ab>Ā.</ab> <s>बेधे꣡</s>, <s>°धिरे꣡</s>, <ls>AV.</ls>, <s>बबन्धे</s> <ab>Gr.</ab>;
 <ab>fut.</ab> <s>भन्त्स्यति</s>, <ls>Br.</ls> &c., <s>बन्धिष्यति</s>, <s>°ते</s>, <ls>MBh.</ls>;
 <s>बन्द्धा</s> <ab>Gr.</ab>;
 <ab>aor.</ab> <s>अभान्त्सीत्</s> <ab>Gr.</ab>;
 <ab>Prec.</ab> <s>बध्यात्</s>, <ls>ib.</ls>;
-<ab>inf.</ab> <s>बन्द्धुम्</s>, or <s>बन्धितुम्</s>, <ls>R.</ls>, <s>ब/धे</s>, <ls>AV.</ls> <ab>ind.p.</ab> <s>बद्ध्वा/</s>, <ls>AV.</ls>, <s>°ध्वा/य</s>, <ls>Br.</ls>, <s>-बध्य</s>, <ls>ib.</ls>;
+<ab>inf.</ab> <s>बन्द्धुम्</s>, or <s>बन्धितुम्</s>, <ls>R.</ls>, <s>ब꣡धे</s>, <ls>AV.</ls> <ab>ind.p.</ab> <s>बद्ध्वा꣡</s>, <ls>AV.</ls>, <s>°ध्वा꣡य</s>, <ls>Br.</ls>, <s>-बध्य</s>, <ls>ib.</ls>;
 <s>-बन्धम्</s>, <ls>Pāṇ. iii, 4, 41</ls> <ab>Sch.</ab>), 
 <div n="to"/>to bind, tie, fix, fasten, chain, fetter, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to bind round, put on (<ab>Ā.</ab>; later also <ab>P.</ab> ‘on one's self’), <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.;
@@ -22,7 +22,7 @@
 <div n="to"/>to join, unite, put together or produce anything in this way, <ab>e.g.</ab> fold (the hands), clench (the fist), knit or bend (the eyebrows), arrange, assume (a posture), set up (a limit), construct (a dam or a bridge), span, bridge over (a river), conceive or contract (friendship or enmity), compose, construct (a poem or verse), <ls>MBh.</ls>; <ls>Kāv.</ls> &c. <pb n="720,2"/>;
 <div n="to"/>to form or produce in any way, cause, effect, do, make, bear (fruit), strike (roots), take up (one's abode), <ls>ib.</ls>;
 <div n="to"/>to entertain, cherish, show, exhibit, betray (joy, resolution &c.), <ls>ib.</ls> :
-<div n="to"/><ab>Pass.</ab> <s>बध्य/ते</s> (<s>°ति</s>, <ls>Hariv.</ls>), to be bound &c. &c.;
+<div n="to"/><ab>Pass.</ab> <s>बध्य꣡ते</s> (<s>°ति</s>, <ls>Hariv.</ls>), to be bound &c. &c.;
 <div n="to"/> (<ab>esp.</ab>) to be bound by the fetters of existence or evil, sin again, <ls>Mn.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to be affected by <ab>i.e.</ab> experience, suffer (<ab>instr.</ab>), <ls>Pañcat.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>बन्धयति</s> (<ab>aor.</ab> <s>अबबन्धत्</s>), to cause to bind or catch or capture, imprison, <ls>ŚBr.</ls> &c. &c.;

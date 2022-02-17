@@ -1,9 +1,9 @@
 <L>75907<pc>406,2<k1>छिद्<k2>छिद्<h>1<e>1
-<hom>1.</hom> <s>छिद्</s> ¦ <ab>cl.</ab> 7. <s>छिन/त्ति</s>, <s>छिन्त्ते</s> 
-(<ab>Impv.</ab> <s>°न/त्तु</s>;
-2. <ab>sg.</ab> <s>°न्धि/</s> [<ab>cf.</ab> <ls>Pāṇ. vi, 4, 101</ls>];
-2. <ab>du.</ab> <s>°न्त/म्</s>;
-<ab>Subj.</ab> 1. <ab>sg.</ab> <s>°न/दै</s>;
+<hom>1.</hom> <s>छिद्</s> ¦ <ab>cl.</ab> 7. <s>छिन꣡त्ति</s>, <s>छिन्त्ते</s> 
+(<ab>Impv.</ab> <s>°न꣡त्तु</s>;
+2. <ab>sg.</ab> <s>°न्धि꣡</s> [<ab>cf.</ab> <ls>Pāṇ. vi, 4, 101</ls>];
+2. <ab>du.</ab> <s>°न्त꣡म्</s>;
+<ab>Subj.</ab> 1. <ab>sg.</ab> <s>°न꣡दै</s>;
 <ab>Pot.</ab> <s>°न्देत्</s>, <ls>KṣurUp.</ls>;
 <ab>cl.</ab> 9. 1. <ab>sg.</ab> <s>छिन्नामि</s>, <ls>Divyâv. xxvii</ls>;
 <ab>impf.</ab> 2. <ab>sg.</ab> <s>अछिनद्</s>, or <s>°नस्</s>, <ls>Pāṇ. viii, 2, 75</ls>;
@@ -16,8 +16,8 @@
 <ab>fut.</ab> <s>छेत्स्यति</s>, <ls>vii, 2, 10</ls>; <ls>Kār.</ls>;
 <ab>ind.p.</ab> <s>छित्त्वा</s> <ab>inf.</ab> <s>छेत्तुम्</s>;
 <ab>Pass.</ab> <s>छिद्यते</s>;
-<ls>p.</ls> See <s>अ/-च्छिद्यमान</s>;
-<ab>aor.</ab> <s>अ/च्छेदि</s> and <s>छेदि</s>, <ls>RV.</ls>) 
+<ls>p.</ls> See <s>अ꣡-च्छिद्यमान</s>;
+<ab>aor.</ab> <s>अ꣡च्छेदि</s> and <s>छेदि</s>, <ls>RV.</ls>) 
 <div n="to"/>to cut off, amputate, cut through, hew, chop, split, pierce, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls> &c.;
 <div n="to"/>to divide, separate from (<ab>abl.</ab>; exceptionally <ab>instr.</ab> <ls>ŚBr. xiv, 9, 4, 23</ls>), <ls>AV.</ls>; <ls>ŚBr. xiv</ls>; <ls>ŚāṅkhŚr.</ls>;
 <div n="to"/>to destroy, annihilate, efface, blot out, <ls>ŚBr. x, 5, 2, 5</ls>; <ls>MuṇḍUp.</ls>; <ls>MBh.</ls> &c.;

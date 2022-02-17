@@ -1,3 +1,3 @@
-<L>16496<pc>93,3<k1>अर्हत्<k2>अ/र्हत्<e>2B
-<s>अ/र्हत्</s> ¦ <lex>m.</lex> (<s>अन्</s>) a <s1 slp1="budDa">Buddha</s1> who is still a candidate for <s1 slp1="nirvARa">Nirvāṇa</s1><info lexcat="LEXID=prap,STEM=arhat,ROOTCLASS=arh-1"/>
+<L>16496<pc>93,3<k1>अर्हत्<k2>अ꣡र्हत्<e>2B
+<s>अ꣡र्हत्</s> ¦ <lex>m.</lex> (<s>अन्</s>) a <s1 slp1="budDa">Buddha</s1> who is still a candidate for <s1 slp1="nirvARa">Nirvāṇa</s1><info lexcat="LEXID=prap,STEM=arhat,ROOTCLASS=arh-1"/>
 <LEND>

@@ -1,7 +1,7 @@
-<L>17132<pc>301-1<k1>भद्र<k2>भद्र/
-{#भद्र/#}¦ gut, schön, glücklich, heilvoll, erfreulich. <lbinfo n="9"/>
+<L>17132<pc>301-1<k1>भद्र<k2>भद्र꣡
+{#भद्र꣡#}¦ gut, schön, glücklich, heilvoll, erfreulich. <lbinfo n="9"/>
 {%Voc.%} {#भद्र#} {%u.%} {#भद्रे#} Bester, Beste!
-{#भद्र/म्#} {%u.%} {#भद्र/या#} {%adv.%} glücklicherweise.
+{#भद्र꣡म्#} {%u.%} {#भद्र꣡या#} {%adv.%} glücklicherweise.
 {%n.%} Glück, Heil, Segen, {%oft als Wunsch%}
 {#भद्रं ते, °वाम्#} {%o.%} {#°वः#} {%(auch nur explet.).%}
 <LEND>

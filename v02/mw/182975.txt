@@ -1,3 +1,3 @@
 <L>182975<pc>904,3<k1>लुप्ताहतविसर्ग<k2>लुप्ताहत-विसर्ग<e>3
-<s>लुप्ता<स्र्स्/>हत-विसर्ग</s> ¦ <lex>mfn.</lex> having <s1 slp1="visarga">Visarga</s1> dropped or coalesced (with a preceding a) into <s>ओ</s> (<s>-ता</s> <lex type="phw">f.</lex>), <ls>Sāh.</ls><info phwchild="182975.1"/><info lex="m:f:n"/>
+<s>लुप्ता<स्र्स्꣡>हत-विसर्ग</s> ¦ <lex>mfn.</lex> having <s1 slp1="visarga">Visarga</s1> dropped or coalesced (with a preceding a) into <s>ओ</s> (<s>-ता</s> <lex type="phw">f.</lex>), <ls>Sāh.</ls><info phwchild="182975.1"/><info lex="m:f:n"/>
 <LEND>

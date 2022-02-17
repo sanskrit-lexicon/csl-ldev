@@ -1,5 +1,5 @@
 <L>153524<pc>769,2<k1>भ्रम्<k2>भ्रम्<e>1
-<s>भ्रम्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xx, 20</ls>) <s>भ्रमति</s> (<ab>ep.</ab> also <s>°ते</s>) and <ab>cl.</ab> 4. <ab>P.</ab> (<ls>xxvi, 96</ls>), <s>भ्रा<स्होर्त्लोन्ग्/>म्यति</s> (<ab>Pot.</ab> <s>भ्रम्यात्</s>, <ls>PārGṛ.</ls>; <ab>pf.</ab> <s>बभ्राम</s>, 3. <ab>pl.</ab> <s>बभ्रमुः</s> or <s>भ्रेमुः</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>fut.</ab> <s>भ्रमिता</s> <ab>Gr.</ab>; <s>भ्रमिष्यति</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>अभ्रमीत्</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>भ्रमितुम्</s> or <s>भ्रान्तुम्</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>ind.p.</ab> <s>भ्रमित्वा</s>, <s>भ्रान्त्वा</s>, <s>-भ्रा<स्होर्त्लोन्ग्/>म्य</s>, <ls>ib.</ls>), 
+<s>भ्रम्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xx, 20</ls>) <s>भ्रमति</s> (<ab>ep.</ab> also <s>°ते</s>) and <ab>cl.</ab> 4. <ab>P.</ab> (<ls>xxvi, 96</ls>), <s>भ्रा<स्होर्त्लोन्ग्꣡>म्यति</s> (<ab>Pot.</ab> <s>भ्रम्यात्</s>, <ls>PārGṛ.</ls>; <ab>pf.</ab> <s>बभ्राम</s>, 3. <ab>pl.</ab> <s>बभ्रमुः</s> or <s>भ्रेमुः</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>fut.</ab> <s>भ्रमिता</s> <ab>Gr.</ab>; <s>भ्रमिष्यति</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>अभ्रमीत्</s>, <ls>ib.</ls>; <ab>inf.</ab> <s>भ्रमितुम्</s> or <s>भ्रान्तुम्</s>, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.; <ab>ind.p.</ab> <s>भ्रमित्वा</s>, <s>भ्रान्त्वा</s>, <s>-भ्रा<स्होर्त्लोन्ग्꣡>म्य</s>, <ls>ib.</ls>), 
 <div n="to"/>to wander or roam about, rove, ramble (with <s>देशम्</s>, to wander through or over a country; with <s>भिक्षाम्</s>, go about begging), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to fly about (as bees), <ls>Kāv.</ls>; <ls>Var.</ls>;
 <div n="to"/>to roll about (as the eyes), <ls>Kāvyâd.</ls>;
@@ -10,8 +10,8 @@
 <div n="to"/>to spread, be current (as news), <ls>Daś.</ls>;
 <div n="to"/>to waver, be perplexed, doubt, err, <ls>Bhag.</ls>; <ls>Pur.</ls>; <ls>Siddh.</ls> :
 <div n="vp"/><ab>Pass.</ab> <ab>aor.</ab> <s>अभ्रामि</s> (<ab>impers.</ab>, with <s>ते</s>, ‘you have wandered or roamed about’), <ls>R.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>भ्रा<स्होर्त्लोन्ग्/>मयति</s> (<ab>mc.</ab> also <s>°ते</s>; <ab>aor.</ab> <s>अबिभ्रमत्</s>:
-<div n="to"/><ab>Pass.</ab> <s>भ्रा<स्होर्त्लोन्ग्/>म्यते</s>), to cause to wander or roam, drive or move about, agitate, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="vp"/><ab>Caus.</ab> <s>भ्रा<स्होर्त्लोन्ग्꣡>मयति</s> (<ab>mc.</ab> also <s>°ते</s>; <ab>aor.</ab> <s>अबिभ्रमत्</s>:
+<div n="to"/><ab>Pass.</ab> <s>भ्रा<स्होर्त्लोन्ग्꣡>म्यते</s>), to cause to wander or roam, drive or move about, agitate, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/> (with <s>पटहम्</s> or <s>°ह-घोषणाम्</s>), to move a drum about, proclaim by beat of drum, <ls>Kathās.</ls>;
 <div n="to"/>to cause to move or turn round or revolve, swing, brandish, <ls>Up.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to drive through (<ab>acc.</ab>) in a chariot, <ls>Cat.</ls>;

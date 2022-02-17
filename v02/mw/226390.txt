@@ -1,5 +1,5 @@
 <L>226390<pc>1116,2<k1>संवृत्<k2>सं-वृत्<h>2<e>1
-<hom>2.</hom> <s>सं-√ वृत्</s> ¦ <ab>Ā.</ab> <s>-वर्तते</s> (<ab>pf.</ab> <ab>p.</ab> <s>-ववृत्व/स्</s> <ab>q.v.</ab>; <ab>Ved.</ab> <ab>inf.</ab> <s>-वृ/तस्</s>; <ab>ind.</ab> <s>-वर्तम्</s>), 
+<hom>2.</hom> <s>सं-√ वृत्</s> ¦ <ab>Ā.</ab> <s>-वर्तते</s> (<ab>pf.</ab> <ab>p.</ab> <s>-ववृत्व꣡स्</s> <ab>q.v.</ab>; <ab>Ved.</ab> <ab>inf.</ab> <s>-वृ꣡तस्</s>; <ab>ind.</ab> <s>-वर्तम्</s>), 
 <div n="to"/>to turn or go towards, approach near to, arrive at, <ls>RV.</ls>; <ls>AV.</ls>; <ls>R.</ls>;
 <div n="to"/>to go against, attack (<ab>acc.</ab>), <ls>MBh.</ls>;
 <div n="to"/>to meet, encounter (as foes), <ls>RV. iv, 24, 4</ls>;
@@ -20,5 +20,5 @@
 <div n="to"/>to bring about, accomplish, perform, execute, <ls>Hariv.</ls>; <ls>R.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to fulfil, satisfy (a wish), <ls>R.</ls>;
 <div n="to"/>to think of. find out (a remedy), <ls>Car.</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>-वि/वृत्सति</s>, to wish to have sexual intercourse with (<ab>acc.</ab>), <ls>AV.</ls><info verb="pre" cp="Ā" parse="sam+vft"/>
+<div n="vp"/><ab>Desid.</ab> <s>-वि꣡वृत्सति</s>, to wish to have sexual intercourse with (<ab>acc.</ab>), <ls>AV.</ls><info verb="pre" cp="Ā" parse="sam+vft"/>
 <LEND>

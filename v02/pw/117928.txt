@@ -1,5 +1,5 @@
 <L>117928<pc>7024-1<k1>सञ्ज्<k2>सञ्ज्<e>500
-{#सञ्ज्#}¦ , {#सज्#} , {#स/जति#} (Perf. {#ससञ्च#})
+{#सञ्ज्#}¦ , {#सज्#} , {#स꣡जति#} (Perf. {#ससञ्च#})
 <div n="1">— 1) <ab>Act.</ab>
 <div n="2">— a) {%anhängen , zusammenhängen%} ; <ab>Med.</ab> {%sich hängen an%} (<ab>Acc.</ab>)
 <div n="2">— b) {%hängen bleiben , sich anheften an%} (<ab>Loc.</ab>).
@@ -9,7 +9,7 @@
 <div n="2">— a) {%an Etwas%} (<ab>Loc.</ab>) {%gehängt — , geheftet werden , hängen — , stecken bleiben.%} Von Pfeilen mit {#न#} {%nicht stecken bleiben an%} , so v.a. {%durchbohrend , hindurchfliegen.%}
 <div n="2">— b) {%stecken bleiben%} , so v.a. {%anstehen , zögern.%}
 <div n="2">— c) {%geheftet sein auf , hängen an%} , so v.a. {%sich hingeben , sich beschäftigen mit , mit den Gedanken — , mit dem Herzen bei Jmd%} oder {%Etwas%} (<ab>Loc.</ab>) {%sein.%}
-<div n="1">— 4) {#सक्त/#}
+<div n="1">— 4) {#सक्त꣡#}
 <div n="2">— a) {%anhängend , anhaftend , — an , steckend in%} , auch so v.a. {%behaftet mit%} ; die Ergänzung im <ab>Loc.</ab> oder im Comp. vorangehend. {#सक्तः#} und {#भित्तिसक्तः#} {#स्था#} so v.a. {%wie angenagelt dastehen%} ; {#सक्तवैर#} <lex>Adj.</lex> so v.a. {%im Streit befindlich mit%} (<ab>Instr.</ab>). Mit <ab>Gen.</ab> so v.a. {%Jmd gehörig.%} <ls>PAÑCAD. 41,3</ls> ( {#एते#} sc. {#छगणास्#}). <ls>53,1.</ls>
 <div n="2">— b) {%geheftet an%} (im Comp. vorangehend) , so v.a. {%übertragen , anvertraut.%}
 <div n="2">— c) {%geheftet auf%} , so v.a. {%gerichtet auf , hingegeben , abliegend , beschäftigt%}
@@ -24,13 +24,13 @@
 <div n="2">— c) {%verkuppeln.%}
 <div n="m">— <ab>Vgl.</ab> auch {#सज्जय्#} ,
 <div n="m">— <ab>Desid.</ab> {#सिसङ्घति#} Simplex nicht zu belegen.
-<div n="p">— Mit {#अति#} , {#अ/तिषक्त#}
+<div n="p">— Mit {#अति#} , {#अ꣡तिषक्त#}
 <div n="1">— 1) {%zusammenhängend mit%} (<ab>Instr.</ab>).
 <div n="1">— 2) {%heftig hängend an%} (im Comp. vorangehend).
 <div n="p">— Mit {#व्यति#} ( {#°षजति#})
 <div n="1">— 1) {%an entgegengesetzten Orten verbinden , verschränken , verschlingen , mit einander in Verbindung setzen.%} {#व्यतिषज्य#} {%sich gegenseitig bei der Hand fassend.%}
 <div n="1">— 2) {%Jmd in Etwas hineinziehen , verwickeln.%}
-<div n="1">— 3) {#व्य/तिषक्त#} {%in entgegengesetzter Weise verbunden , verschränkt , verschlungen , verflochten , untereinandergemischt%} <ls>ŚULBAS. 3,93. 101. 167.</ls> <ls>MBH. 6,52,5. 56,19.</ls>
+<div n="1">— 3) {#व्य꣡तिषक्त#} {%in entgegengesetzter Weise verbunden , verschränkt , verschlungen , verflochten , untereinandergemischt%} <ls>ŚULBAS. 3,93. 101. 167.</ls> <ls>MBH. 6,52,5. 56,19.</ls>
 <div n="m">— <ab>Caus.</ab> {#व्यतिषञ्जित#} = {#व्यतिषक्त#} <ab>Comm.</ab> zu <ls>ŚIŚ. 7,16.</ls>
 <div n="p">— Mit {#अनु#}
 <div n="1">— 1) <ab>Act.</ab>
@@ -43,7 +43,7 @@
 <div n="1">— 3) {#अनुषज्जेते#}
 <div n="2">— a) {%sich Jmd%} (<ab>Acc.</ab>) {%anschliessen%} , so v.a. {%auf dem Fusse folgen.%}
 <div n="2">— b) {%hängen an%} , so v.a. {%sich hingeben , sich beschäftigen mit , mit den Gedanken — , mit dem Herzen bei Etwas%} (<ab>Loc.</ab>) {%sein.%}
-<div n="1">— 4) {#अ/नुषक्त#}
+<div n="1">— 4) {#अ꣡नुषक्त#}
 <div n="2">— a) {%haftend an%} (<ab>Loc.</ab>).
 <div n="2">— b) {%hängend an%} , so v.a. {%auf dem Fusse folgend.%}
 <div n="2">— c) {%gekettet an , in naher Verbindung stehend mit%} (<ab>Gen.</ab>).
@@ -76,7 +76,7 @@
 <div n="2">— f) {%sich hängen an%} , so v.a. {%Jmd%} (<ab>Acc.</ab>) {%auf der Ferse folgen.%}
 <div n="1">— 2) <ab>Pass.</ab> {#आसज्यते#} {%angehängt werden , hängen bleiben an , sich heften auf%} (<ab>Loc.</ab>).
 <div n="1">— 3) pass. {#आसज्जते#} {%Jmd%} (<ab>Acc.</ab>). {%auf der Ferse folgen.%} {#आसज्ज#} <ls>MBH. 7,79</ls> fehlerhaft für {#आसज्य#} {%sich (sibi) anhängend , anlegend%} ; <ls>MBH. ed. Vardh. 7,228</ls> {#आसज्ज्य#}.
-<div n="1">— 4) {#आ/सक्त#}
+<div n="1">— 4) {#आ꣡सक्त#}
 <div n="2">— a) {%angehängt , aufgehängt , hängend — , geheftet an , gelegt an%} oder {%auf , geheftet — , gerichtet auf%} (<ab>Loc.</ab> , [ausnahmsweise <ab>Instr.</ab>] oder im Comp. vorangehend). {#पादासक्त#} {%Jmd auf Schritt und Tritt folgend oder zu Füssen liegend.%} {#आसक्तौ#} so v.a. {#परस्परासकौ#} ; {#आसक्तम्#} <ab>Adv.</ab> wohl so v.a. {%sich anschmiegend.%}
 <div n="2">— b) {%hängend an%} , so v.a. {%gewöhnt an.%} {#गृहासक्त#} von Hausthieren gesagt.
 <div n="2">— c) am Ende eines Comp. {%enthalten in.%}
@@ -122,7 +122,7 @@
 <div n="1">— 1) <ab>Med.</ab>
 <div n="2">— a) {%sich (sibi) Etwas anhängen.%}
 <div n="2">— b) {%hängen , herabhängen.%}
-<div n="1">— 2) {#नि/षक्त#}
+<div n="1">— 2) {#नि꣡षक्त#}
 <div n="2">— a) {%angehängt , geheftet — , hängend an , geheftet — , gerichtet auf%} (<ab>Loc.</ab> oder im Comp. vorangehend).
 <div n="2">— b) {%fest sitzen in%} (<ab>Loc.</ab>).
 <div n="p">— Mit {#परि#}
@@ -151,7 +151,7 @@
 <div n="2">— c) {%behaftet — , versehen mit%} (im Comp. vorangehend).
 <div n="2">— d) {%als Folge sich herausstellend , aus etwas Vorhergehendem folgend , zur Geltung gelangt.%}
 <div n="2">— e) {%anhaltend , fortwährend , dauernd.%} {#प्रसक्तम्#} und {#प्रसक्त°#} <ab>Adv.</ab>
-<div n="2">— f) {#प्रसक्त/#} <ls>AV. 7,40,3.</ls> fehlerhaft für {#प्रसत्त/#} des <ls>ṚV.</ls>
+<div n="2">— f) {#प्रसक्त꣡#} <ls>AV. 7,40,3.</ls> fehlerhaft für {#प्रसत्त꣡#} des <ls>ṚV.</ls>
 <div n="m">— <ab>Caus.</ab>
 <div n="1">— 1) {#प्रसञ्जयति#}
 [Page7025-2]
@@ -169,7 +169,7 @@
 <div n="1">— 2) {#विषज्जते#}
 <div n="2">— a) {%geheftet — , gerichtet sein auf , mit den Gedanken — , mit dem Herzen hängen an%} (<ab>Loc.</ab>). Ohne Ergänzung {%an der Welt hängen%} und {%it Liebe an Jmd hängen.%}
 <div n="2">— b) {%auf dem Fusse verfolgt werden von%} (<ab>Instr.</ab> ).
-<div n="1">— 3) {#वि/षक्त#}
+<div n="1">— 3) {#वि꣡षक्त#}
 <div n="2">— a) {%aufgehängt , angehängt , hängend an oder in%} (<ab>Loc.</ab> <ls>76,17</ls>), {%stecken geblieben in%} (loc. <ls>MBH. 5,179,29</ls>), {%hängen — , stehen geblieben ; geheftet — , gerichtet auf%} (<ab>Loc.</ab> oder im Comp. vorangehend) ; {%ausgebreitet über%} (<ab>Loc.</ab>) <ls>JĀTAKAM. 13.</ls>
 <div n="2">— b) {%hängend an%} , so v.a. {%abhängig von%} (im Comp. vorangehend).
 <div n="2">— c) {%eingepflanzt , eingeprägt.%}

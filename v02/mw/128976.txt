@@ -1,3 +1,3 @@
-<L>128976<pc>648,3<k1>पेरु<k2>पे/रु<e>1B
-<s>पे/रु</s> ¦ <lex>m.</lex> seed, germ, off-spring (with <s>अपा/म्</s> = <s1 slp1="soma">Soma</s1>), <ls>ib.</ls>; <ls>VS.</ls>; <ls>TS.</ls>; <ls>MaitrS.</ls><info lex="m"/>
+<L>128976<pc>648,3<k1>पेरु<k2>पे꣡रु<e>1B
+<s>पे꣡रु</s> ¦ <lex>m.</lex> seed, germ, off-spring (with <s>अपा꣡म्</s> = <s1 slp1="soma">Soma</s1>), <ls>ib.</ls>; <ls>VS.</ls>; <ls>TS.</ls>; <ls>MaitrS.</ls><info lex="m"/>
 <LEND>

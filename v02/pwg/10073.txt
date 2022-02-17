@@ -1,12 +1,12 @@
-<L>10073<pc>1-0794<k1>इदम्<k2>इद/म्<h>1
-1. {#इद/म्#}¦ 
+<L>10073<pc>1-0794<k1>इदम्<k2>इद꣡म्<h>1
+1. {#इद꣡म्#}¦ 
 <ls>Uṇ. 4, 158.</ls> <is>gaṇa</is> {#सर्वादि#} zu 
 <ls>P. 1, 1, 27.</ls> 
-<ls>VOP. 3, 9. 56. 126-132. 163.</ls> nom. acc. sg. neutr., zusammeng. aus {#इद् + अम्#}; erscheint in dieser Form auch am Anfange einiger compp. und im deriv. {#इदम्मय#} . Der nom. fem. {#इयम्#} geht ebenfalls auf den Stamm {#इ#} zurück; alle übrigen casus, mit Ausnahme des acc. aller Zahlen und des nom. du. und pl., werden im <is>Veda</is> von {#अ#} gebildet. Während nämlich in der klass. Sprache der instr. sg. und der gen.-loc. du. auf einen Stamm {#अन (अ + न?)#} zurückgehen, bildet der <is>Veda</is> diesen casus aus {#अ#}; so lautet der instr. sg. <lex>m.</lex> und <lex>n.</lex> {#ए\न\#} und {#एना/ः ए\नाङ्गू\षेण^#} 
+<ls>VOP. 3, 9. 56. 126-132. 163.</ls> nom. acc. sg. neutr., zusammeng. aus {#इद् + अम्#}; erscheint in dieser Form auch am Anfange einiger compp. und im deriv. {#इदम्मय#} . Der nom. fem. {#इयम्#} geht ebenfalls auf den Stamm {#इ#} zurück; alle übrigen casus, mit Ausnahme des acc. aller Zahlen und des nom. du. und pl., werden im <is>Veda</is> von {#अ#} gebildet. Während nämlich in der klass. Sprache der instr. sg. und der gen.-loc. du. auf einen Stamm {#अन (अ + न?)#} zurückgehen, bildet der <is>Veda</is> diesen casus aus {#अ#}; so lautet der instr. sg. <lex>m.</lex> und <lex>n.</lex> {#ए\न\#} und {#एनाः꣡ ए\नाङ्गू\षेण^#} 
 <ls>ṚV. 1, 105, 19.</ls> {#ए\ना नम^सा#} 
 <ls n="ṚV. 1,">171, 1.</ls> <ls n="ṚV.">2, 6, 2.</ls> <ls n="ṚV. 2,">9, 6.</ls> <ls n="ṚV.">5, 19, 3.</ls> <ls n="ṚV.">6, 44, 17.</ls> <ls n="ṚV.">7, 16, 1.</ls> wo es enklitisch steht, nimmt <is>Padap</is>. {#एन#} als Grundform an, 
 <ls n="ṚV.">5, 2, 11.</ls> <ls n="ṚV.">10, 108, 3.</ls> mit kurzer Endsilbe am Schluss eines <is>Pāda</is>: {#असा^म\ यथा^ सुष\खाय^ एन#} 
-<ls n="ṚV.">1, 173, 9.</ls> Vgl. auch unter {#एना#} adv. — instr. sg. <lex>f.</lex> {#अया/#} (neben seltenem {#अन/या#} 
+<ls n="ṚV.">1, 173, 9.</ls> Vgl. auch unter {#एना#} adv. — instr. sg. <lex>f.</lex> {#अया꣡#} (neben seltenem {#अन꣡या#} 
 <ls n="ṚV.">9, 65, 27.</ls>; vgl. auch im Folg.): {#अ\या कृ\पा न जू^र्यति#} 
 <ls n="ṚV.">1, 128, 2.</ls> {#तम\या धि\या गृ^णे#} 
 <ls n="ṚV. 1,">143, 6.</ls> <ls n="ṚV.">2, 24, 1.</ls> {#अ\या चि\त्तो वि\पानया\ हरि^ः पवस्व\ धार^या#} 
@@ -83,7 +83,7 @@ u.s.w. <ls>P. 2, 4, 34. S.</ls> u. {#एन#} . — {%Dieser (er, sie, es%}), au
 <ls>HIT. 18, 11.</ls> {#को ऽयमाचरत्यविनयम्#} 
 <ls>ŚĀK. 24.</ls> {#कतमो ऽयं सानुमानालोक्यते#} 
 <ls>ŚĀK. 99, 15.</ls> {#अहमयम्#} 
-<ls>ŚAT. BR. 14, 4, 2, 1. 6, 11, 6</ls> (= <ls>BṚH. ĀR. UP. 1, 4, 1. 4, 2, 4).</ls> <ls>AIT. BR. 1, 28.</ls> {#इदंप्रथम/, इदंद्वितीय/#} {%der dieses zum ersten, zweiten Male thut%} 
+<ls>ŚAT. BR. 14, 4, 2, 1. 6, 11, 6</ls> (= <ls>BṚH. ĀR. UP. 1, 4, 1. 4, 2, 4).</ls> <ls>AIT. BR. 1, 28.</ls> {#इदंप्रथम꣡, इदंद्वितीय꣡#} {%der dieses zum ersten, zweiten Male thut%} 
 <ls>P. 6, 2, 162.</ls> in der Bedeutung {#अनेन प्रथमः#} oder {#अयं प्रथमः#} (d. i. {#प्रधानम्) एषाम्#} hat das comp. eine andere Betonung, 
 <ls>Sch.</ls> ebend. {#इदमादीनि त्रीणि सूक्तानि#} 
 <ls>SĀY.</ls> in der Einl. 

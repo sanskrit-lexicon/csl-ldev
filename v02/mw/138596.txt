@@ -1,5 +1,5 @@
 <L>138596<pc>700,3<k1>प्रहि<k2>प्र-हि<h>1<e>1
-<hom>1.</hom> <s>प्र-√ हि</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-हिणोति</s>, <s>-हिणुते</s>: <s>-हिण्वति</s>, <s>-हिण्वते</s> (<ab>cf.</ab> <ls>Pāṇ. viii, 4, 15</ls>; <ab>pf.</ab> <s>-जिघाय</s>, <ls>KauṣUp.</ls>; 1. <ab>sg.</ab> <ab>pr.</ab> <ab>Ā.</ab> <s>-हिषे</s>, <ls>RV.</ls>; <ab>Aor.</ab><ab>P.</ab> <s>प्रा/<स्र्स्/>हैत्</s>, <ls>AV.</ls>; <ab>Impv.</ab> <s>प्र/-हेल</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>प्र-ह्ये/</s>, <ls>ib.</ls>), 
+<hom>1.</hom> <s>प्र-√ हि</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-हिणोति</s>, <s>-हिणुते</s>: <s>-हिण्वति</s>, <s>-हिण्वते</s> (<ab>cf.</ab> <ls>Pāṇ. viii, 4, 15</ls>; <ab>pf.</ab> <s>-जिघाय</s>, <ls>KauṣUp.</ls>; 1. <ab>sg.</ab> <ab>pr.</ab> <ab>Ā.</ab> <s>-हिषे</s>, <ls>RV.</ls>; <ab>Aor.</ab><ab>P.</ab> <s>प्रा꣡<स्र्स्꣡>हैत्</s>, <ls>AV.</ls>; <ab>Impv.</ab> <s>प्र꣡-हेल</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>प्र-ह्ये꣡</s>, <ls>ib.</ls>), 
 <div n="to"/>to urge on, incite, <ls>RV.</ls>;
 <div n="to"/>to direct, command, <ls>Lāṭy.</ls>; <ls>KauṣUp.</ls> <pb n="701,1"/>;
 <div n="to"/>to convey or send to, furnish, procure. bestow on (<ab>dat.</ab>), <ls>RV.</ls> &c. &c.;
@@ -8,6 +8,6 @@
 <div n="to"/>to dispatch (messengers), drive away, dismiss, send to (<ab>acc.</ab> with or without <s>प्रति</s> <ab>dat.</ab> <ab>gen.</ab> with or without <s>अन्तिकम्</s> or <s>पार्श्वम्</s>) or in order to (<ab>dat.</ab> or <ab>inf.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/> (<ab>Ā.</ab>) to rush on <ls>RV.</ls>;
 <div n="to"/>to forsake (= <s>प्र</s>. √ <hom>3.</hom> <s>हा</s>), <ls>BhP.</ls> :
-<div n="vp"/><ab>Caus.</ab> <ab>aor.</ab> <s>प्रा<स्र्स्/>जीहयत्</s>, <ls>Pat.</ls> :
+<div n="vp"/><ab>Caus.</ab> <ab>aor.</ab> <s>प्रा<स्र्स्꣡>जीहयत्</s>, <ls>Pat.</ls> :
 <div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>प्र-जिघाययिषति</s>, <ls>ib.</ls><info verb="pre" cp="PĀ" parse="pra+hi"/>
 <LEND>

@@ -1,6 +1,6 @@
-<L>211813<pc>1048,3<k1>शत<k2>शत/<e>1
-<s>शत/</s> ¦ <lex>n.</lex> (rarely <lex type="hwalt">m.</lex>;
-<ab>ifc.</ab> <lex type="hwifc">f(<s>ई</s>). </lex>) a hundred (used with other numerals thus, <s>एका<स्र्स्/>धिकं शतम्</s>, or <s>एक-श्°</s>, a <ab n="hundred">h°</ab> + one, 101 <s>विंशत्य्-अधिकं शतम्</s> or <s>विंशं श्°</s>, a <ab n="hundred">h°</ab> + twenty, 120;
+<L>211813<pc>1048,3<k1>शत<k2>शत꣡<e>1
+<s>शत꣡</s> ¦ <lex>n.</lex> (rarely <lex type="hwalt">m.</lex>;
+<ab>ifc.</ab> <lex type="hwifc">f(<s>ई</s>). </lex>) a hundred (used with other numerals thus, <s>एका<स्र्स्꣡>धिकं शतम्</s>, or <s>एक-श्°</s>, a <ab n="hundred">h°</ab> + one, 101 <s>विंशत्य्-अधिकं शतम्</s> or <s>विंशं श्°</s>, a <ab n="hundred">h°</ab> + twenty, 120;
 <s>शते</s> or <s>द्वे शते</s> or <s>द्वि-शतम्</s> or <s>शत-द्वयम्</s>, 200;
 <s>त्रीणि शतानि</s> or <s>त्रि-शतानि</s> or <s>शत-त्रयम्</s>, 300;
 <s>षट्-शतम्</s>, 600;
@@ -9,7 +9,7 @@ or the <ab>comp.</ab> becomes an ordinal <ab>e.g.</ab> <s>द्वि-शत</s
 <s>शतात्पर</s>, ‘beyond a <ab n="hundred">h°</ab>, exceeding 100’;
 the counted object is added either in the <ab>gen.</ab>, or in the same case as <s>शत</s>, or <ab>ibc.</ab> <ab>e.g.</ab> <s>शतम् पितरः</s> or, <s>शतम् पितॄणाम्</s> or <s>पितृ-शतम्</s> ‘a <ab n="hundred">h°</ab> ancestors’;
 sometimes also <ab>ifc.</ab> See <ab>comp.</ab> below;
-rarely <s>शतम्</s> is used as an <ab n="indeclinable">indecl.</ab> with an <ab>instr.</ab> <ab>e.g.</ab> <s>शत/ं र/थेभिः</s>, ‘with a <ab n="hundred">h°</ab> chariots’ <ls>RV. i, 48, 7</ls>;
+rarely <s>शतम्</s> is used as an <ab n="indeclinable">indecl.</ab> with an <ab>instr.</ab> <ab>e.g.</ab> <s>शतं꣡ र꣡थेभिः</s>, ‘with a <ab n="hundred">h°</ab> chariots’ <ls>RV. i, 48, 7</ls>;
 rarely occurs a masc. form in <ab>pl.</ab> <ab>e.g.</ab> <s>पञ्च-शता</s>, <s>रथान्</s>, <ls>MBh. iv, 1057</ls>;
 and <s>शत</s> <lex type="hwifc">n.</lex> rarely in <ab>comp.</ab> of the following kind, <s>चतुर्-वर्ष-शतम्</s> or <s>°तानि</s>, ‘400 years’), <ls>RV.</ls> &c.;<info lexcat="LEXID=card,STEM=Sata"/>
 <LEND>

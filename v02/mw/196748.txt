@@ -1,6 +1,6 @@
 <L>196748<pc>968,3<k1>विधृ<k2>वि-धृ<e>1
 <s>वि-√ धृ</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-धरति</s>, <s>°ते</s> (only <ab>pf.</ab> <s>-दधार</s>), to hold, bear, carry, <ls>BhP.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>-धारयति</s> (rarely <s>°ते</s>; <ab>Ved.</ab> <ab>inf.</ab> <s>-धर्त/रि</s>), 
+<div n="vp"/><ab>Caus.</ab> <s>-धारयति</s> (rarely <s>°ते</s>; <ab>Ved.</ab> <ab>inf.</ab> <s>-धर्त꣡रि</s>), 
 <div n="to"/>to keep asunder or apart, separate, divide, distribute, <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>Kauś.</ls>;
 <div n="to"/>to arrange, manage, contrive, <ls>MBh.</ls>;
 <div n="to"/>to keep off, withhold from (<ab>abl.</ab>), <ls>TĀr.</ls>; <ls>Hariv.</ls>; <ls>R.</ls>;
@@ -10,5 +10,5 @@
 <div n="to"/> (with <s>वपूंषि</s>) to possess or have bodies, <ls>MBh.</ls>;
 <div n="to"/> (with <s>मनस्</s>) to keep the mind fixed upon (<ab>loc.</ab>), <ls>BhP.</ls>;
 <div n="to"/>to preserve, take care of <ls>BhP.</ls> :
-<div n="to"/><ab>Intens.</ab> (only <ab>impf.</ab> <s>व्य्-अ/दर्धर्</s>) to divide, separate, <ls>RV.</ls><info verb="pre" cp="PĀ" parse="vi+Df"/>
+<div n="to"/><ab>Intens.</ab> (only <ab>impf.</ab> <s>व्य्-अ꣡दर्धर्</s>) to divide, separate, <ls>RV.</ls><info verb="pre" cp="PĀ" parse="vi+Df"/>
 <LEND>

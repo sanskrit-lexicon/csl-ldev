@@ -1,10 +1,10 @@
 <L>90246<pc>5127-3<k1>यम्<k2>यम्<e>500
-{#यम्#}¦ , {#य/मति#} , {#यमते#} , {#य/च्छति#} , {#°ते#} ; {#यत/#} <ab>Partic.</ab>
+{#यम्#}¦ , {#य꣡मति#} , {#यमते#} , {#य꣡च्छति#} , {#°ते#} ; {#यत꣡#} <ab>Partic.</ab>
 <div n="1">— 1) {%halten , festhalten , tragen , sustentare%} ; <ab>Med.</ab> {%sustentari , sich stützen auf%} (<ab>Loc.</ab>).
 <div n="1">— 2) {%erheben , schwingen%} (in der Hand) ; <ab>Med.</ab> mit den Waffen (<ab>Instr.</ab>) {%auslangen.%}
 <div n="1">— 3) {%aufrichten , errichten , über Jmd%} (<ab>Dat.</ab>) {%halten%} (ein Obdach , einen Schirm u.s.w.) ; <ab>Med.</ab> {%sich vor Jmd%} (<ab>Dat.</ab>) {%ausbreiten%} ( {#शर्मवत्#} {%wie ein Schirm%} ) <ls>AIT. BR. 2,40,3.</ls>
 <div n="1">— 4) {%in die Höhe treiben%} (die andere Wagschale) so v.a. {%ziehen , mehr wiegen.%}
-<div n="1">— 5) {%ausbreiten , hinstrecken.%} {#दत/स्#} so v.a. {%die Zähne zeigen.%}
+<div n="1">— 5) {%ausbreiten , hinstrecken.%} {#दत꣡स्#} so v.a. {%die Zähne zeigen.%}
 <div n="1">— 6) {%zusammenhalten , cobibere , zügeln , bändigen%} (auch den Sinn , die Sinnesorgane , Leidenschaften) , {%zurückhalten , an sich halten%} (den Athem , die Stimme) , {%anziehen%} (die Zügel).
 <div n="1">— 7) {%Jmd%} (<ab>Dat.</ab> oder <ab>Loc.</ab>) {%darreichen , darbieten , verleihen , gewähren , hingeben.%} {#मार्गम्#} {%Jmd%}
 [Page5128-1]
@@ -15,7 +15,7 @@
 <div n="1">— 11) <ab>Med.</ab> {%Stand halten.%}
 <div n="1">— 12) <ab>Med.</ab> {%Stille halten , sich fügen , gehorchen , treu bleiben%} ; mit <ab>Dat.</ab>
 <div n="1">— 13) <ab>Med.</ab> {%Feuer fangen%} <ls>TBR. 2,1,10,1</ls> ; im <ab>Comm.</ab> S.406 zu lesen ; {#युपो#} {#ज्यं#} {#नि°#}.
-<div n="m">— <ab>Caus.</ab> {#यम/यति#} , {#यमयते#} (metrisch) , {#*यामयति#}
+<div n="m">— <ab>Caus.</ab> {#यम꣡यति#} , {#यमयते#} (metrisch) , {#*यामयति#}
 <div n="1">— 1) {%in Schranken halten.%}
 <div n="1">— 2) {%einhalten%} (die Stimme).
 <div n="1">— 3) {%in Ordnung bringen.%}
@@ -27,7 +27,7 @@
 <div n="1">— 1) {%lenken , richten.%}
 <div n="1">— 2) <ab>Med.</ab> {%sich richten nach , nachfolgen%} ; mit <ab>Acc.</ab>
 <div n="1">— 3) <ab>Act.</ab> etwa {%anordnen , aneinander reihen.%}
-<div n="1">— 4) {#अ/नुयत#} {%verfolgt von%} (Geschossen , <ab>Instr.</ab>).
+<div n="1">— 4) {#अ꣡नुयत#} {%verfolgt von%} (Geschossen , <ab>Instr.</ab>).
 <div n="p">— Mit {#अन्तर्#} {%anhalten , Einhalt thun%} ; {%drinnen halten.%}
 <div n="p">— Mit {#आ#}
 <div n="1">— 1) {%anspannen , aufziehen%} (ein Gewebe u.s.w.) , {%dehnen , ziehen%} (eine Linie u.s.w.) , {%ausstrecken%} ( {#अनु#} {%zu — hin%} <ls>ŚULBAS. 3,157</ls>), {%verlängern%} ; <ab>Med.</ab>
@@ -42,12 +42,12 @@
 <div n="1">— 7) {%hinziehen%} (den Ton.).
 <div n="1">— 8) {%herbeiziehen , — bringen , hinbringen.%}
 <div n="1">— 9) {%ausbreiten , an den Tag legen%} <ls>BHAṬṬ.</ls>
-<div n="1">— 10) {#आ/यत#}
+<div n="1">— 10) {#आ꣡यत#}
 <div n="2">— a) {%angelegt%} (Pfeil).
 <div n="2">— b) {%gezogen — , sich ausdehnend — , sich erstreckend nach%} (im Comp. vorangehend).
 <div n="2">— c) {%gestreckt , gedehnt , lang%} (auch in der Zeit) ; von der Stirn so v.a. {%breit%} <ls>KĀD. 32,22.</ls>
 <div n="2">— d) {%hingezogen zu , gerichtet auf%} (<ab>Loc.</ab>).
-<div n="m">— <ab>Vgl.</ab> auch {#आ/यत#}.
+<div n="m">— <ab>Vgl.</ab> auch {#आ꣡यत#}.
 <div n="m">— <ab>Caus.</ab> {#°यामयति#} (Padap. {#°यमयति#}
 <div n="1">— 1) {%hinbringen zu , versetzen in%} (<ab>Loc.</ab>)
 <div n="1">— 2) {%strecken.%}
@@ -115,7 +115,7 @@
 <div n="p">— Mit {#उपोद्#} {%aufstellen%} mittels einer Unterlage oder dgl. <ls>MĀN. ŚR. 1,5,3.</ls>
 <div n="p">— Mit {#प्रोद्#}
 <div n="1">— 1) {%erheben.%} {#प्रोद्यत#} {%erhoben.%}
-<div n="1">— 2) {#प्र/ - उ/द्यत#} {%erhoben%} (von der Stimme).
+<div n="1">— 2) {#प्र꣡ - उ꣡द्यत#} {%erhoben%} (von der Stimme).
 <div n="1">— 3) {#प्रोद्यत#} {%im Begriff stehend zu%} (<ab>Infin.</ab>).
 <div n="p">— Mit {#प्रत्युद्#}
 <div n="1">— 1) {%Jmd%} (<ab>Acc.</ab>) {%das Gleichgewicht halten , aufwiegen.%}
@@ -143,7 +143,7 @@
 <div n="p">— Mit {#नि#}
 <div n="1">— 1) {%anhalten%} (einen Wagen u.s.w.) , — {%bei Jmd%} (<ab>Loc.</ab>) , {%festhalten , zum Stehen bringen%} ; <ab>Med.</ab> {%sich aufhalten , bleiben.%}
 <div n="1">— 2) {%einfangen.%}
-<div n="1">— 3) {%befestigen — , festbinden an%} (<ab>Loc.</ab>) , {%aufbinden%} (die Haare) {#नि/यत#} {%festgebunden an%} (<ab>Loc.</ab>) ; {%zusammengelegt%} {#(अञ्जलि) ; #} {%gebunden an , verbunden mit , abhängend von%} (<ab>Loc.</ab>).
+<div n="1">— 3) {%befestigen — , festbinden an%} (<ab>Loc.</ab>) , {%aufbinden%} (die Haare) {#नि꣡यत#} {%festgebunden an%} (<ab>Loc.</ab>) ; {%zusammengelegt%} {#(अञ्जलि) ; #} {%gebunden an , verbunden mit , abhängend von%} (<ab>Loc.</ab>).
 <div n="1">— 4) {%über Jmd halten%} (einen Schutz , ein Obdach).
 <div n="1">— 5) {%nach unten kehren%} (die Hand).
 <div n="1">— 6) {%festhalten , herbeiziehen.%}
@@ -182,12 +182,12 @@
 <div n="p">— Mit {#परि#} {%zielen%} mit einem Geschosse (<ab>Instr.</ab>).
 <div n="m">— <ab>Caus.</ab> {#°यमयति#} {%ministrare.%}
 <div n="p">— Mit {#प्र#}
-<div n="1">— 1) {%strecken , vorstrecken.%} {#प्र/यत#} {%vorgestreckt , langgestreckt , weit reichend.%}
+<div n="1">— 1) {%strecken , vorstrecken.%} {#प्र꣡यत#} {%vorgestreckt , langgestreckt , weit reichend.%}
 <div n="1">— 2) {%über Jmd halten%} (ein Obdach).
-<div n="1">— 3) {%stellen — , setzen auf%} (<ab>Loc.</ab>) <ls>56,8.</ls> {#प्र/यत#} {%gesetzt auf%} (<ab>Loc.</ab>).
+<div n="1">— 3) {%stellen — , setzen auf%} (<ab>Loc.</ab>) <ls>56,8.</ls> {#प्र꣡यत#} {%gesetzt auf%} (<ab>Loc.</ab>).
 <div n="1">— 4) die Augen {%richten auf%} {#(अभि)#}.
 <div n="1">— 5) {%absenden%} (Boten) {%zu%} (<ab>Dat.</ab>).
-<div n="1">— 6) {%darreichen , anbieten , darbringen , geben , hergeben , übergeben , dahingeben , verleihen , bringen%} (so v.a. {%bewirken , verursachen.%}) {#विक्रयैण#} so v.a. {%verkaufen%} ; {#उत्तरम्#} {%eine Antwort geben , beantworten%} (<ls>HEMĀDRI 1,583,10</ls>); {#शापम्#} so v.a. {%über Jmd%} (<ab>Gen.</ab>) {%einen Fluch aussprechen%} ; {#युद्धम्#} {%Jmd%} (<ab>Gen.</ab>) {%einen Kampf gewähren%} , so v.a. {%mit Jmd kämpfen%} ; {#बुद्धौ#} so v.a. {%dem Geiste vorführen.%} {#प्र/यत#} {%dargebracht%} u.s.w.
+<div n="1">— 6) {%darreichen , anbieten , darbringen , geben , hergeben , übergeben , dahingeben , verleihen , bringen%} (so v.a. {%bewirken , verursachen.%}) {#विक्रयैण#} so v.a. {%verkaufen%} ; {#उत्तरम्#} {%eine Antwort geben , beantworten%} (<ls>HEMĀDRI 1,583,10</ls>); {#शापम्#} so v.a. {%über Jmd%} (<ab>Gen.</ab>) {%einen Fluch aussprechen%} ; {#युद्धम्#} {%Jmd%} (<ab>Gen.</ab>) {%einen Kampf gewähren%} , so v.a. {%mit Jmd kämpfen%} ; {#बुद्धौ#} so v.a. {%dem Geiste vorführen.%} {#प्र꣡यत#} {%dargebracht%} u.s.w.
 <div n="1">— 7) {%abliefern , herausgeben , zurückgeben.%} {#ऋणम्#} {%eine Schuld abtragen%} ; {#कृतम्#} {%eine Wohlthat erwiedern.%}
 <div n="1">— 8) {%in die Ehe geben%} (vom Vater , der die Tochter verheirathet).
 <div n="1">— 9) {#प्रयत#} {%eine dem Ernst des Augenblicks%}
@@ -209,12 +209,12 @@
 <div n="p">— Mit {#वि#}
 <div n="1">— 1) {%aufrichten , ausbreiten%} (einen Schutz , ein Obdach u.s.w.).
 <div n="1">— 2) {%ausgreifen%} (von Rossen im Lauf).
-<div n="1">— 3) {%ausspreizen , ausstrecken , auseinanderhalten.%} {#वि/यत#} {%ausgestreckt , ausgebreitet.%} {#वियतम्#} <ab>Adv.</ab> {%auseinandergehalten , in Absätzen.%}
+<div n="1">— 3) {%ausspreizen , ausstrecken , auseinanderhalten.%} {#वि꣡यत#} {%ausgestreckt , ausgebreitet.%} {#वियतम्#} <ab>Adv.</ab> {%auseinandergehalten , in Absätzen.%}
 <div n="p">— Mit {#सम्#}
 <div n="1">— 1) {%zusammenhalten , — ziehen , anziehen%} (die Zügel) , {%festhalten , zügeln , in der Gewalt haben , lenken%} (Rosse). {#संयत#} {%festgehalten , gezügelt , in der Gewalt gehalten ; der sich zügelt , — beherrscht , — in der Gewalt hat , — in Bezug auf%} (<ab>Loc.</ab> , <ab>Instr.</ab> oder im Comp. vorangehend <ls>GAUT.</ls>) ; in der Bed. {%sich zügelnd%} auch {#संयतवन्त्#}.
 <div n="1">— 2) {%zusammenbinden , aufbinden%} auch {#संयत#} {%zusammengebunden , aufgebunden , gebunden , angebunden , gefesselt , gefangen.%}
 <div n="1">— 3) andrücken.
-<div n="1">— 4) {%schliessen.%} {#स/ंयत#} {%geschlossen.%}
+<div n="1">— 4) {%schliessen.%} {#सं꣡यत#} {%geschlossen.%}
 <div n="1">— 5) {%in Ordnung halten%} ; nur {#संयत#} {%gehalten.%}
 <div n="1">— 6) {%einschränken.%}
 <div n="1">— 7) {%hemmen , unterdrücken , unterlassen.%} {#संयत#} {%gehemmt , unterdrückt.%}

@@ -1,6 +1,6 @@
 <L>44959<pc>3017-3<k1>तर्प्<k2>तर्प्<e>500
 {#तर्प्#}¦
-<div n="1">— 1) {#तृप/ति , तृम्प/ति , तृप्णो/ति , तृप्नोति , तृप्यति#} und {#°ते#} (metrisch) ; <ab>Partic.</ab> Perf. {#तातृपाण/#}. {%sich sättigen , satt — , befriedigt werden%} ; mit <ab>Gen.</ab> , <ab>Instr.</ab> oder <ab>Loc.</ab> {#तृप्त/#} {%satt , befriedigt%} ; die Ergänzung im <ab>Gen.</ab> , <ab>Instr.</ab> oder im Comp. vorangehend. {#तृप्तम्#} <ab>Adv.</ab> {%satt , befriedigt.%}
+<div n="1">— 1) {#तृप꣡ति , तृम्प꣡ति , तृप्णो꣡ति , तृप्नोति , तृप्यति#} und {#°ते#} (metrisch) ; <ab>Partic.</ab> Perf. {#तातृपाण꣡#}. {%sich sättigen , satt — , befriedigt werden%} ; mit <ab>Gen.</ab> , <ab>Instr.</ab> oder <ab>Loc.</ab> {#तृप्त꣡#} {%satt , befriedigt%} ; die Ergänzung im <ab>Gen.</ab> , <ab>Instr.</ab> oder im Comp. vorangehend. {#तृप्तम्#} <ab>Adv.</ab> {%satt , befriedigt.%}
 <div n="2">— b) {%geniessen von%} (<ab>Abl.</ab>).
 <div n="2">— c) {%*sättigen , laben , erfreuen.%}
 <div n="1">— 2) {#तर्पति#}
@@ -10,7 +10,7 @@
 <div n="1">— 1) {%sättigen , laben , befriedigen , durch Labungsmittel stärken%} (einen Kranken) <ls>CARAKA. 6,5.</ls>
 <div n="1">— 2) <ab>Med.</ab> {%sich sättigen , Befriedigung erhalten.%}
 <div n="1">— 3) {#*संदीपने#}.
-<div n="m">— <ab>Desid.</ab> {#ति/तृप्सति#} {%sich zu sättigen verlangen an%} (<ab>Acc.</ab>).
+<div n="m">— <ab>Desid.</ab> {#ति꣡तृप्सति#} {%sich zu sättigen verlangen an%} (<ab>Acc.</ab>).
 <div n="m">— <ab>Desid.</ab> vom <ab>Caus.</ab> {#तितर्पयिषति#} {%zu sättigen — , zu laben — , zu befriedigen verlangen.%}
 <div n="p">— Mit {#अति#} ( {#°तृप्यति#}) {%sich vollständig sättigen an%} (<ab>Instr.</ab>).
 <div n="p">— Mit {#अनु#} ( {#°तृप्यते#}) {%durch Jmd%} (<ab>Abl.</ab>) {%satt — , befriedigt werden.%}
@@ -18,14 +18,14 @@
 <div n="p">— Mit {#अभि#}, {#°तृप्त#} {%satt , befriedigt , gelabt%} ; die Ergänzung im <ab>Instr.</ab> oder im Comp. vorangehend.
 <div n="m">— <ab>Caus.</ab> {%sättigen , laben , erquicken.%}
 <div n="p">— Mit {#अव#} in {#°तर्पण#}.
-<div n="p">— Mit {#आ#} ( {#तृप/ति#}) {%satt — , befriedigt werden.%}
+<div n="p">— Mit {#आ#} ( {#तृप꣡ति#}) {%satt — , befriedigt werden.%}
 <div n="m">— <ab>Caus.</ab> {%sättigen.%}
-<div n="p">— Mit {#नि#}{#/#} ( {#तृम्पति#} <ls>ṚV. 8,70,10.</ls> Vielleicht ist {#न/#} st. {#नि#}{#/#} zu lesen.
+<div n="p">— Mit {#नि#}{#꣡#} ( {#तृम्पति#} <ls>ṚV. 8,70,10.</ls> Vielleicht ist {#न꣡#} st. {#नि#}{#꣡#} zu lesen.
 <div n="p">— Mit {#परि#}, {#°तृप्त#} {%vollkommen befriedigt.%}
 <div n="m">— <ab>Caus.</ab> {%vollkommen sättigen , — laben.%}
 <div n="p">— Mit {#प्र#} <ab>Caus.</ab> {%sättigen , laben , stärken.%}
 <div n="p">— Mit {#वि#} ( {#°तृप्यति#}) {%satt — , befriedigt werden%} ; mit <ab>Loc.</ab> {#°तृप्त#} {%gesättigt durch%} (<ab>Instr.</ab>).
-<div n="p">— Mit {#सम्#} ( {#°तृप्णो/ति#} und {#°तृप्यति#}) {%zusammen sich sättigen an , sich laben an%} (<ab>Gen.</ab>).
+<div n="p">— Mit {#सम्#} ( {#°तृप्णो꣡ति#} und {#°तृप्यति#}) {%zusammen sich sättigen an , sich laben an%} (<ab>Gen.</ab>).
 <div n="m">— <ab>Caus.</ab>
 <div n="1">— 1) {%sättigen , befriedigen , erquicken , laben , erfreuen.%}
 <div n="1">— 2) {%sich nähren von%} (<ab>Instr.</ab>) <ls>CARAKA. 1,23.</ls>

@@ -1,3 +1,3 @@
-<L>230027<pc>1136,2<k1>सत्यवाक्य<k2>सत्य/—वाक्य<e>3B
-<s>सत्य/—वाक्य</s> ¦ <lex>mfn.</lex> true in speech (<s>-ता</s> <lex type="phw">f.</lex>), <ls>MBh.</ls>; <ls>R.</ls>; <ls>MārkP.</ls><info phwchild="230027.1"/><info lex="m:f:n"/>
+<L>230027<pc>1136,2<k1>सत्यवाक्य<k2>सत्य꣡—वाक्य<e>3B
+<s>सत्य꣡—वाक्य</s> ¦ <lex>mfn.</lex> true in speech (<s>-ता</s> <lex type="phw">f.</lex>), <ls>MBh.</ls>; <ls>R.</ls>; <ls>MārkP.</ls><info phwchild="230027.1"/><info lex="m:f:n"/>
 <LEND>

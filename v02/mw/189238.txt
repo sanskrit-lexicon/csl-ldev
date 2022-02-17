@@ -1,20 +1,20 @@
 <L>189238<pc>933,2<k1>वह्<k2>वह्<h>1<e>1
-<hom>1.</hom> <s>वह्</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxiii, 35</ls>) <s>व/हति</s>, <s>°ते</s> 
+<hom>1.</hom> <s>वह्</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> (<ls>Dhātup. xxiii, 35</ls>) <s>व꣡हति</s>, <s>°ते</s> 
 (in later language <ab>Ā.</ab> only <ab>mc.</ab>;
-Vedic forms which may partly belong to the <ab>aor.</ab> are <s>व/क्षि</s>, <s>वोढम्</s>, <s>°ढा/म्</s> or <s>वो|अम्</s>, <s>°|आ/म्</s>, <s>उहीत</s>, <s>व/क्ष्व</s>, <s>वोढ्वम्</s>, <s>ऊढ्वम्</s>, <s>उ/हान</s>;
-<ab>pf.</ab> <s>उवाह</s>, <s>ऊहु/ः</s>;
-<s>ऊहे/</s>, <ls>RV.</ls> &c. &c.;
+Vedic forms which may partly belong to the <ab>aor.</ab> are <s>व꣡क्षि</s>, <s>वोढम्</s>, <s>°ढा꣡म्</s> or <s>वो|अम्</s>, <s>°|आ꣡म्</s>, <s>उहीत</s>, <s>व꣡क्ष्व</s>, <s>वोढ्वम्</s>, <s>ऊढ्वम्</s>, <s>उ꣡हान</s>;
+<ab>pf.</ab> <s>उवाह</s>, <s>ऊहुः꣡</s>;
+<s>ऊहे꣡</s>, <ls>RV.</ls> &c. &c.;
 <s>ववाह</s>, <s>°हतुः</s>, <ls>MBh.</ls>;
-<ab>aor.</ab> <ab>Ved.</ab> <s>अ/वाक्षीत्</s> or <s>अ/वाट्</s> <ab>Subj.</ab> <s>व/क्षत्</s>, <s>°अति</s>, <ab>Prec.</ab> <s>उह्यात्</s>;
+<ab>aor.</ab> <ab>Ved.</ab> <s>अ꣡वाक्षीत्</s> or <s>अ꣡वाट्</s> <ab>Subj.</ab> <s>व꣡क्षत्</s>, <s>°अति</s>, <ab>Prec.</ab> <s>उह्यात्</s>;
 <s>अवक्षि</s>, <s>अवोढ</s> <ab>Gr.</ab>;
-<ab>fut.</ab> <s>वोढा/</s>, <ls>Br.</ls>;
-<s>वक्ष्य/ति</s>, <s>°ते</s>, <ls>AV.</ls> &c.;
+<ab>fut.</ab> <s>वोढा꣡</s>, <ls>Br.</ls>;
+<s>वक्ष्य꣡ति</s>, <s>°ते</s>, <ls>AV.</ls> &c.;
 <s>वहिष्यति</s>, <ls>MBh.</ls> &c.;
 <ab>inf.</ab> <s>वोढुम्</s>, <ls>RV.</ls> &c. &c. [<ab>Ved.</ab> also <s>°ढवे</s> and <s>°ढवै</s>];
 <s>वाहे</s>, <ls>RV.</ls>;
-<s>व/हध्यै</s>, <ls>ib.</ls>;
+<s>व꣡हध्यै</s>, <ls>ib.</ls>;
 <ab>ind.p.</ab> <s>ऊढ्वा</s>, <ls>Br.</ls>;
-<s>-उ/ह्य</s>, <ls>AV.</ls> &c. &c.;
+<s>-उ꣡ह्य</s>, <ls>AV.</ls> &c. &c.;
 <ab>cf.</ab> √ <hom>1.</hom> <s>ऊह्</s>), 
 <div n="to"/>to carry, transport, convey (with <ab>instr.</ab> of vehicle), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to lead, conduct (<ab>esp.</ab> offerings to the gods, said of <s1 slp1="agni">Agni</s1>), <ls>ib.</ls>;
@@ -44,7 +44,7 @@ Vedic forms which may partly belong to the <ab>aor.</ab> are <s>व/क्षि
 <div n="to"/>to draw (<ab>scil.</ab> a carriage, said of a horse), <ls>Mn. viii, 146</ls>;
 <div n="to"/>to blow (as wind), <ls>Kāv.</ls>; <ls>Sāh.</ls>;
 <div n="to"/>to pass away, elapse, <ls>Hcar.</ls> :
-<div n="vp"/><ab>Pass.</ab> <s>उह्य/ते</s> (<ab>ep.</ab> also <s>°ति</s>; <ab>aor.</ab> <s>अवाहि</s>), 
+<div n="vp"/><ab>Pass.</ab> <s>उह्य꣡ते</s> (<ab>ep.</ab> also <s>°ति</s>; <ab>aor.</ab> <s>अवाहि</s>), 
 <div n="to"/>to be carried (<s>उह्यमान</s>, ‘being <ab n="carried">c°</ab>’) &c.;
 <div n="to"/>to be drawn or borne by (<ab>instr.</ab>) or along or off, <ls>RV.</ls> &c. &c.:
 <div n="vp"/><ab>Caus.</ab> <s>वाहयति</s> (<ab>mc.</ab> also <s>°ते</s>; <ab>aor.</ab> <s>अवीवहत्</s>; <ab>Pass.</ab> <s>वाह्यते</s>), 
@@ -59,7 +59,7 @@ Vedic forms which may partly belong to the <ab>aor.</ab> are <s>व/क्षि
 <div n="to"/>to give, administer (See <s>वाहित</s>);
 <div n="to"/>to take in, deceive (See <ab>id.</ab>) :
 <div n="vp"/><ab>Desid.</ab> <s>विवक्षति</s>, <s>°ते</s> <ab>Gr.</ab>:
-<div n="vp"/><ab>Intens.</ab> <s>वनीवाह्य/ते</s>, to carry hither and thither (<ab>cf.</ab> <s>वनीवा/हन</s> and <s>वनीवाहित/</s>);
+<div n="vp"/><ab>Intens.</ab> <s>वनीवाह्य꣡ते</s>, to carry hither and thither (<ab>cf.</ab> <s>वनीवा꣡हन</s> and <s>वनीवाहित꣡</s>);
 <div n="to"/> <s>वावहीति</s>, to bear (a burden), <ls>Subh.</ls>;
 <div n="vp"/> <s>वावह्यते</s>, <s>वावोढि</s> <ab>Gr.</ab> <info westergaard="vaha,23.35,01.0726"/><info whitneyroots="vah,157"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

@@ -1,13 +1,13 @@
-<L>28801<pc>165,2<k1>इदम्<k2>इद/म्<h>1<e>1
-<s>इद/म्</s> <hom>1</hom> ¦ <s>अय/म्</s>, <s>इय/म्</s>, <s>इद/म्</s> (<ab>fr.</ab> <s>इद्</s>, <ls>Uṇ. iv, 156</ls>;
-<ab>g.</ab> <s>सर्वा<स्र्स्/>दि</s>, <ls>Pāṇ. i, 1, 27</ls>;
+<L>28801<pc>165,2<k1>इदम्<k2>इद꣡म्<h>1<e>1
+<s>इद꣡म्</s> <hom>1</hom> ¦ <s>अय꣡म्</s>, <s>इय꣡म्</s>, <s>इद꣡म्</s> (<ab>fr.</ab> <s>इद्</s>, <ls>Uṇ. iv, 156</ls>;
+<ab>g.</ab> <s>सर्वा<स्र्स्꣡>दि</s>, <ls>Pāṇ. i, 1, 27</ls>;
 <ls>Vop.</ls>;
 a kind of neut. of the <ab>pronom.</ab> base 3. <s>इ</s> with <s>अम्</s> [<ab>cf.</ab> <ab>Lat.</ab> <etym>is</etym>, <etym>ea</etym>, <etym>id</etym>, and <etym>idem</etym>];
 the regular forms are partly derived from the <ab>pronom.</ab> base <s>अ</s>;
 See <ab>Gr.</ab> 224;
-the <s1 slp1="veda">Veda</s1> exhibits various irregular formations <ab>e.g.</ab> <ab>fr.</ab> <ab>pronom.</ab> base <s>अ</s>, an <ab>inst.</ab> <s>एना/</s>, <s>अया/</s> [used in general adverbially], and <ab>gen.</ab> <ab>loc.</ab> <ab>du.</ab> <s>अयो/स्</s>, and perhaps also <s>अवो/स्</s>, in <ls>RV. vi, 67, 11; vii, 67, 4; x, 132, 5</ls> [<ls>BRD.</ls>];
-<ab>fr.</ab> the base <s>इम</s>, a <ab>gen.</ab> <ab>sing.</ab> <s>इम/स्य</s>, only, <ls>RV.</ls>;
-the <ls>RV.</ls> has in a few instances the irregular accentuation <s>अ/स्मै</s>, <ls>v, 39, 5,</ls> &c.;
-<s>अ/स्य</s>, <ls>iv, 15, 5,</ls> &c.;
-<s>आ/भिस्</s>, <ls>vi, 25, 2,</ls> &c. : the forms derived <ab>fr.</ab> <s>अ</s> are used enclitically if they take the place of the third personal pronoun, do not stand at the beginning of a verse or period, and have no peculiar stress laid upon them), this, this here, referring to something near the speaker<info lexcat="LEXID=pron,STEM=idam"/>
+the <s1 slp1="veda">Veda</s1> exhibits various irregular formations <ab>e.g.</ab> <ab>fr.</ab> <ab>pronom.</ab> base <s>अ</s>, an <ab>inst.</ab> <s>एना꣡</s>, <s>अया꣡</s> [used in general adverbially], and <ab>gen.</ab> <ab>loc.</ab> <ab>du.</ab> <s>अयो꣡स्</s>, and perhaps also <s>अवो꣡स्</s>, in <ls>RV. vi, 67, 11; vii, 67, 4; x, 132, 5</ls> [<ls>BRD.</ls>];
+<ab>fr.</ab> the base <s>इम</s>, a <ab>gen.</ab> <ab>sing.</ab> <s>इम꣡स्य</s>, only, <ls>RV.</ls>;
+the <ls>RV.</ls> has in a few instances the irregular accentuation <s>अ꣡स्मै</s>, <ls>v, 39, 5,</ls> &c.;
+<s>अ꣡स्य</s>, <ls>iv, 15, 5,</ls> &c.;
+<s>आ꣡भिस्</s>, <ls>vi, 25, 2,</ls> &c. : the forms derived <ab>fr.</ab> <s>अ</s> are used enclitically if they take the place of the third personal pronoun, do not stand at the beginning of a verse or period, and have no peculiar stress laid upon them), this, this here, referring to something near the speaker<info lexcat="LEXID=pron,STEM=idam"/>
 <LEND>

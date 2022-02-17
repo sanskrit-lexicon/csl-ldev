@@ -1,27 +1,27 @@
 <L>184615<pc>912,1<k1>वच्<k2>वच्<e>1
 <s>वच्</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 55</ls>) <s>वक्ति</s> 
 (occurs only in <ab>sg.</ab> <s>वच्मि</s>, <s>वक्षि</s>, <s>वक्ति</s>, and <ab>Impv.</ab> <s>वक्तु</s>;
-<ab>Ved.</ab> also <ab>cl.</ab> 3. <ab>P.</ab> <s>वि/वक्ति</s>;
-<ab>pf.</ab> <s>उवा/च</s>, <s>ऊज्</s>, <ls>RV.</ls> &c. &c.;
-<s>उव/क्थ</s>, <ls>AV.</ls>;
-<s>ववाच</s>, <s>ववक्षे/</s>, <ls>RV.</ls>;
+<ab>Ved.</ab> also <ab>cl.</ab> 3. <ab>P.</ab> <s>वि꣡वक्ति</s>;
+<ab>pf.</ab> <s>उवा꣡च</s>, <s>ऊज्</s>, <ls>RV.</ls> &c. &c.;
+<s>उव꣡क्थ</s>, <ls>AV.</ls>;
+<s>ववाच</s>, <s>ववक्षे꣡</s>, <ls>RV.</ls>;
 <ab>aor.</ab> <s>अवोचत्</s>, <s>°चत</s>, <ls>RV.</ls> &c. &c.;
 in <s1 slp1="veda">Veda</s1> also <ab>Subj.</ab> <s>वोचति</s>, <s>°ते</s>, <s>वेचाति</s>;
-<ab>Pot.</ab> <s>वोचे/त्</s>, <s>°चेत</s>;
+<ab>Pot.</ab> <s>वोचे꣡त्</s>, <s>°चेत</s>;
 <ab>Impv.</ab> <s>वोचतु</s>;
 <ab>Prec.</ab> <s>उच्यासम्</s>, <ls>Br.</ls>;
-<ab>fut.</ab> <s>वक्ता/</s>, <ls>ib.</ls> &c.;
-<s>वक्ष्य/ति</s>, <ls>RV.</ls> &c. &c.;
+<ab>fut.</ab> <s>वक्ता꣡</s>, <ls>ib.</ls> &c.;
+<s>वक्ष्य꣡ति</s>, <ls>RV.</ls> &c. &c.;
 <s>°ते</s>, <ls>MBh.</ls>;
 <ab>Cond.</ab> <s>अवक्ष्यत्</s>, <ls>Br.</ls>; <ls>Up.</ls>;
-<ab>inf.</ab> <s>व/क्तुम्</s>, <ls>Br.</ls> &c.;
+<ab>inf.</ab> <s>व꣡क्तुम्</s>, <ls>Br.</ls> &c.;
 <s>°तवे</s>, <ls>RV.</ls>;
 <s>°तोस्</s>, <ls>Br.</ls>;
-<ab>ind.p.</ab> <s>उक्त्वा/</s>, <ls>Br.</ls> &c.;
-<s>-उ/च्य</s>, <ls>ib.</ls>), 
+<ab>ind.p.</ab> <s>उक्त्वा꣡</s>, <ls>Br.</ls> &c.;
+<s>-उ꣡च्य</s>, <ls>ib.</ls>), 
 <div n="to"/>to speak, say, tell, utter, announce, declare, mention, proclaim, recite, describe (with <ab>acc.</ab> with or without <s>प्रति</s> <ab>dat.</ab> or <ab>gen.</ab> of <ab>pers.</ab>, and <ab>acc.</ab> of thing; often with double <ab>acc.</ab> <ab>e.g.</ab> <s>तम् इदं वाक्यम् उवाच</s>, ‘he spoke this speech to him’; with double <ab>acc.</ab> also ‘to name, call,’ <ab>Ā.</ab> with <ab>nom.</ab> ‘one's self’; with <s>पुनर्</s>, ‘to speak again, repeat’; or ‘to answer, reply’), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to reproach, revile (<ab>acc.</ab>), <ls>Hariv.</ls>; <ls>R.</ls> :
-<div n="vp"/><ab>Pass.</ab> <s>उच्य/ते</s> (<ab>aor.</ab> <s>अवाचि</s>, or in later language <s>अवोचि</s>), to be spoken or said or told or uttered &c., <ls>RV.</ls> &c. &c. (<s>यद् उच्यते</s>, ‘what the saying is’);
+<div n="vp"/><ab>Pass.</ab> <s>उच्य꣡ते</s> (<ab>aor.</ab> <s>अवाचि</s>, or in later language <s>अवोचि</s>), to be spoken or said or told or uttered &c., <ls>RV.</ls> &c. &c. (<s>यद् उच्यते</s>, ‘what the saying is’);
 <div n="to"/>to resound, <ls>RV.</ls>;
 <div n="to"/>to be called or accounted, be regarded as, pass for (<ab>nom.</ab> <ls>L.</ls> also <ab>loc.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
 <div n="vp"/><ab>Caus.</ab> <s>वाचयति</s>, <s>°ते</s> (<ab>Pot.</ab> <s>वाचयीत</s>, <ls>ĀśvGṛ.</ls>; <ab>aor.</ab> <s>अवीवचत्</s>; <ab>Pass.</ab> <s>वाच्यते</s>), 
@@ -31,5 +31,5 @@ in <s1 slp1="veda">Veda</s1> also <ab>Subj.</ab> <s>वोचति</s>, <s>°�
 <div n="to"/>to promise, <ls>MBh.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>विवक्षति</s>, <s>°ते</s> (<ab>Pass.</ab> <s>विवक्ष्यते</s>), to desire to say or speak or recite or proclaim or declare, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/> (<ab>Pass.</ab>) to be meant, <ls>Śaṃk.</ls>; <ls>Sarvad.</ls> :
-<div n="vp"/><ab>Intens.</ab> (only <s>अ/वावचीत्</s>) to call or cry aloud, <ls>RV. x, 102, 6.</ls> <info westergaard="vaca,24.55,02.0066;vaca,34.35,10.0233"/><info whitneyroots="vac,151"/><info verb="genuineroot" cp="2P,3P,3Ā"/>
+<div n="vp"/><ab>Intens.</ab> (only <s>अ꣡वावचीत्</s>) to call or cry aloud, <ls>RV. x, 102, 6.</ls> <info westergaard="vaca,24.55,02.0066;vaca,34.35,10.0233"/><info whitneyroots="vac,151"/><info verb="genuineroot" cp="2P,3P,3Ā"/>
 <LEND>

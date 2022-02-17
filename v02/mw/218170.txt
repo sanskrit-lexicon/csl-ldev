@@ -1,18 +1,18 @@
 <L>218170<pc>1077,1<k1>शी<k2>शी<h>1<e>1
-<hom>1.</hom> <s>शी</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> (<ls>Dhātup. xxiv, 22</ls>) <s>शे/ते</s> 
-(with <s1 slp1="guRa">Guṇa</s1> throughout the <ab>pr.</ab> stem : thus, <s>श/ये</s> [in, <ls>RV.</ls> also 3. <ab>sg.</ab>], <s>शे/षे</s> &c., 3. <ab>pl.</ab> <s>शे/रते</s> [in, <ls>AV.</ls> also <s>शे/रे</s> and <ab>Class.</ab> <s>शयिरे</s>];
-<ab>Pot.</ab> <s>श/यीत</s>, <ls>RV.</ls> &c.;
+<hom>1.</hom> <s>शी</s> ¦ <ab>cl.</ab> 2. <ab>Ā.</ab> (<ls>Dhātup. xxiv, 22</ls>) <s>शे꣡ते</s> 
+(with <s1 slp1="guRa">Guṇa</s1> throughout the <ab>pr.</ab> stem : thus, <s>श꣡ये</s> [in, <ls>RV.</ls> also 3. <ab>sg.</ab>], <s>शे꣡षे</s> &c., 3. <ab>pl.</ab> <s>शे꣡रते</s> [in, <ls>AV.</ls> also <s>शे꣡रे</s> and <ab>Class.</ab> <s>शयिरे</s>];
+<ab>Pot.</ab> <s>श꣡यीत</s>, <ls>RV.</ls> &c.;
 <ab>Impv.</ab> <s>-शेताम्</s> and <s>शयाम्</s>, <ls>AV.</ls>;
-<ab>impf.</ab> <s>अशेत</s>, <ls>ŚBr.</ls> &c., 3. <ab>pl.</ab> <s>अशेरत</s> [in, <ls>RV.</ls> also <s>अ/शेरन्</s>], <ab>p.</ab> <s>श/यान</s>, <ls>RV.</ls> &c.;
-<ab>ved.</ab> and <ab>ep.</ab> also <ab>cl.</ab> 1. <s>श/यते</s>, <s>°ति</s>;
-<ab>impf.</ab> <s>अ/शयत्</s> and <s>अशायत</s>, <ls>RV.</ls>;
+<ab>impf.</ab> <s>अशेत</s>, <ls>ŚBr.</ls> &c., 3. <ab>pl.</ab> <s>अशेरत</s> [in, <ls>RV.</ls> also <s>अ꣡शेरन्</s>], <ab>p.</ab> <s>श꣡यान</s>, <ls>RV.</ls> &c.;
+<ab>ved.</ab> and <ab>ep.</ab> also <ab>cl.</ab> 1. <s>श꣡यते</s>, <s>°ति</s>;
+<ab>impf.</ab> <s>अ꣡शयत्</s> and <s>अशायत</s>, <ls>RV.</ls>;
 <ab>pf.</ab> <s>शिश्ये</s>, <s>शिश्यिरे</s>, <ls>Br.</ls>;
-<ab>p.</ab> <ab>ved.</ab> <s>शशयान/</s>, <ab>Class.</ab> <s>शिश्यान</s>;
-<ab>aor.</ab> <s>अशयिष्ट</s> <ab>Subj.</ab> <s>शे/षन्</s>, <ls>RV.</ls>;
-<ab>fut.</ab> <s>शयिता</s>, <ls>Up., 2.</ls> <ab>sg.</ab> <s>°ता/से</s>, <ls>ŚBr.</ls>;
+<ab>p.</ab> <ab>ved.</ab> <s>शशयान꣡</s>, <ab>Class.</ab> <s>शिश्यान</s>;
+<ab>aor.</ab> <s>अशयिष्ट</s> <ab>Subj.</ab> <s>शे꣡षन्</s>, <ls>RV.</ls>;
+<ab>fut.</ab> <s>शयिता</s>, <ls>Up., 2.</ls> <ab>sg.</ab> <s>°ता꣡से</s>, <ls>ŚBr.</ls>;
 <s>शयिष्यते</s>, <s>°ति</s>, <ls>Br.</ls>;
 <s>शेष्यते</s>, <s>°ति</s>, <ls>MBh.</ls>;
-<ab>inf.</ab> <s>शय/ध्यै</s>, <ls>RV.</ls>;
+<ab>inf.</ab> <s>शय꣡ध्यै</s>, <ls>RV.</ls>;
 <s>शयितुम्</s>, <ls>MBh.</ls>;
 <ab>ind.p.</ab> <s>शयित्वा</s>, <ls>Up.</ls> &c.;
 <s>-शय्य</s>, <ls>Kāv.</ls>), 

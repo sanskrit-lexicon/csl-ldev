@@ -1,7 +1,7 @@
 <L>86816<pc>454,2<k1>तृह्<k2>तृह्<e>1
-<s>तृह्</s> ¦ <ab>cl.</ab> 7. (<ab>Impv.</ab> <s>तृणे/ढु</s>; <ab>Subj.</ab> <ab>pl.</ab> <s>तृण/हान्</s>; <ab>aor.</ab> <s>अतृहम्</s>, <ls>AV.</ls>; <s>अतर्हीत्</s>, <ls>Bhaṭṭ.</ls>; <s>अतृक्षत्</s>, <ls>Durgād.</ls>; <ab>pf.</ab> <s>ततर्ह</s>, <ls>AV.</ls>; <ab>pr. p.</ab> <ab>nom.</ab> <lex type="part">m.</lex> <s>तृंह/त्</s>, <ls>RV. x, 102, 4</ls>; <lex type="part">f.</lex> <ab>du.</ab> <s>°हती/</s>, <ls>ŚBr. xii, 2, 2, 2</ls>; <ab>ind.p.</ab> <s>तृढ्वा/</s> <ab>Pass.</ab> <ab>pl.</ab> <s>तृह्य/न्ते</s>, <ab>p.</ab> <s>°ह्य/माण</s>, <ls>AV.</ls>; <ab>cl.</ab> 6. <s>तृहति</s>, <s>तृंह्°</s>, <ls>Dhātup.</ls>) 
+<s>तृह्</s> ¦ <ab>cl.</ab> 7. (<ab>Impv.</ab> <s>तृणे꣡ढु</s>; <ab>Subj.</ab> <ab>pl.</ab> <s>तृण꣡हान्</s>; <ab>aor.</ab> <s>अतृहम्</s>, <ls>AV.</ls>; <s>अतर्हीत्</s>, <ls>Bhaṭṭ.</ls>; <s>अतृक्षत्</s>, <ls>Durgād.</ls>; <ab>pf.</ab> <s>ततर्ह</s>, <ls>AV.</ls>; <ab>pr. p.</ab> <ab>nom.</ab> <lex type="part">m.</lex> <s>तृंह꣡त्</s>, <ls>RV. x, 102, 4</ls>; <lex type="part">f.</lex> <ab>du.</ab> <s>°हती꣡</s>, <ls>ŚBr. xii, 2, 2, 2</ls>; <ab>ind.p.</ab> <s>तृढ्वा꣡</s> <ab>Pass.</ab> <ab>pl.</ab> <s>तृह्य꣡न्ते</s>, <ab>p.</ab> <s>°ह्य꣡माण</s>, <ls>AV.</ls>; <ab>cl.</ab> 6. <s>तृहति</s>, <s>तृंह्°</s>, <ls>Dhātup.</ls>) 
 <div n="to"/>to crush, bruise, <ls>RV.</ls>; <ls>AV.</ls>; <ls>TS. i, 5, 7, 6</ls>; <ls>ŚBr.</ls>; <ls>Bhaṭṭ.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>तितृक्षति</s>, <s>तितृंहिषति</s>, <ls>Pāṇ. i, 2, 10</ls>; <ls>Siddh.</ls>;
 <div n="vp"/> <ab>cf.</ab> <s>वि-</s>;
-<div n="vp"/> <s>त/र्हण</s>, <s>तृंहण</s>, <s>तृढ/</s>.<info whitneyroots="tfh,66"/><info verb="root" cp="7,6"/>
+<div n="vp"/> <s>त꣡र्हण</s>, <s>तृंहण</s>, <s>तृढ꣡</s>.<info whitneyroots="tfh,66"/><info verb="root" cp="7,6"/>
 <LEND>

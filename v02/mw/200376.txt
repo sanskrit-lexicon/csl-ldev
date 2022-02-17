@@ -1,5 +1,5 @@
 <L>200376<pc>989,1<k1>विश्<k2>विश्<h>1<e>1
-<hom>1.</hom> <s>विश्</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxviii, 130</ls>) <s>विश/ति</s> (rarely, in later language mostly <ab>mc.</ab> also <ab>Ā.</ab> <s>विशते</s> <pb n="989,2"/>; <ab>pf.</ab> <s>विवे/श</s>, <s>विविशे</s>, <ls>RV.</ls> &c. &c. [<s>विवेशिथ</s>, <s>विवेशुः</s>, <ls>RV.</ls>; <s>विविश्यास्</s>, <ls>ib.</ls>; <ab>p.</ab> <s>-विशिव/स्</s>, <ls>AV.</ls>; <s>विविशिवस्</s> or <s>विविश्वस्</s>, <ls>Pāṇ. vii, 2, 68</ls>; <s>अविवेशीस्</s>, <ls>RV.</ls>]; <ab>aor.</ab> <s>अ/विश्रन्</s>, <s>अ/विक्ष्महि</s>, <s>वेशीत्</s>, <ls>RV.</ls>; <s>अविक्षत्</s>, <ls>Br.</ls> &c.; <s>अविक्षत</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>विश्यात्</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>वेष्टा</s>, <ls>MBh.</ls>; <s>वेक्ष्यति</s>, <s>°ते</s>, <ls>Br.</ls> &c.; <ab>inf.</ab> <s>वेष्टुम्</s>, <ls>MBh.</ls> &c.; <s>वेष्टवै</s>, <ls>Br.</ls>; <s>विशम्</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>-विश्य</s>, <ls>AV.</ls> &c. &c.), 
+<hom>1.</hom> <s>विश्</s> ¦ <ab>cl.</ab> 6. <ab>P.</ab> (<ls>Dhātup. xxviii, 130</ls>) <s>विश꣡ति</s> (rarely, in later language mostly <ab>mc.</ab> also <ab>Ā.</ab> <s>विशते</s> <pb n="989,2"/>; <ab>pf.</ab> <s>विवे꣡श</s>, <s>विविशे</s>, <ls>RV.</ls> &c. &c. [<s>विवेशिथ</s>, <s>विवेशुः</s>, <ls>RV.</ls>; <s>विविश्यास्</s>, <ls>ib.</ls>; <ab>p.</ab> <s>-विशिव꣡स्</s>, <ls>AV.</ls>; <s>विविशिवस्</s> or <s>विविश्वस्</s>, <ls>Pāṇ. vii, 2, 68</ls>; <s>अविवेशीस्</s>, <ls>RV.</ls>]; <ab>aor.</ab> <s>अ꣡विश्रन्</s>, <s>अ꣡विक्ष्महि</s>, <s>वेशीत्</s>, <ls>RV.</ls>; <s>अविक्षत्</s>, <ls>Br.</ls> &c.; <s>अविक्षत</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>विश्यात्</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>वेष्टा</s>, <ls>MBh.</ls>; <s>वेक्ष्यति</s>, <s>°ते</s>, <ls>Br.</ls> &c.; <ab>inf.</ab> <s>वेष्टुम्</s>, <ls>MBh.</ls> &c.; <s>वेष्टवै</s>, <ls>Br.</ls>; <s>विशम्</s>, <ls>RV.</ls>; <ab>ind.p.</ab> <s>-विश्य</s>, <ls>AV.</ls> &c. &c.), 
 <div n="to"/>to enter, enter in or settle down on, go into (<ab>acc.</ab> <ab>loc.</ab>, or <s>अन्तर्</s> with <ab>gen.</ab>), pervade, <ls>RV.</ls> &c. &c. (with <s>पुनर्</s> or <s>भूयस्</s>, to re-enter, return, come back);
 <div n="to"/>to be absorbed into (<ab>acc.</ab>), <ls>Bhag.</ls>;
 <div n="to"/> (in <ab>astron.</ab>) to come into conjunction with (<ab>acc.</ab>), <ls>VarBṛS.</ls>;
@@ -18,7 +18,7 @@
 <div n="to"/>to fall or get into any state or condition (<ab>acc.</ab>), <ls>R.</ls>; <ls>Śāntiś.</ls>;
 <div n="to"/>to enter upon, undertake, begin, <ls>R.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to mind (any business), attend to (<ab>dat.</ab>), <ls>MBh. xii, 6955</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>वेश/यति</s>, <s>°ते</s> (<ab>aor.</ab> <s>अवीविशत्</s>; <ab>Pass.</ab> <s>वेश्यते</s>), 
+<div n="vp"/><ab>Caus.</ab> <s>वेश꣡यति</s>, <s>°ते</s> (<ab>aor.</ab> <s>अवीविशत्</s>; <ab>Pass.</ab> <s>वेश्यते</s>), 
 <div n="to"/>to cause to enter into (<ab>acc.</ab>), <ls>AV.</ls>;
 <div n="to"/>to cause to sit down on (<ab>loc.</ab>), <ls>BhP.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>विविक्षति</s>, to wish to enter (<ab>acc.</ab>), <ls>BhP.</ls>;

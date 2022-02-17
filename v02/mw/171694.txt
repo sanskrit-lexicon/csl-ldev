@@ -1,5 +1,5 @@
 <L>171694<pc>853,1<k1>यु<k2>यु<h>2<e>1
-<hom>2.</hom> <s>यु</s> ¦ (<ab>cf.</ab> √ <s>युज्</s>) <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 23</ls>) <s>यौति</s> (<ab>Ved.</ab> also <ab>Ā.</ab> <s>युते/</s> and <ab>cl.</ab> 6. <s>युव/ति</s>, <s>°ते</s>; <ab>accord.</ab> to <ls>Dhātup. xxxi, 9</ls> also <ab>cl.</ab> 9. <s>युनाति</s>, <s>युनीते</s>; <ab>pf.</ab> <s>युयाव</s>, 2. <ab>sg.</ab> <s>युयविथ</s>, <ls>Pāṇ. vi, 4, 126</ls> <ab>Sch.</ab>; <s>युयुवे/</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>-याविष्टम्</s> (?), <ls>ib.</ls>; <s>अयविष्ट</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>यूयात्</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>युविता</s>, <ls>ŚBr.</ls>; <s>यविता</s>, <s>यविष्यति</s>, <s>°ते</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>युत्वा</s>, <ls>Pāṇ. vii, 2, 11</ls> <ab>Sch.</ab>; <s>-यूय</s>, <ls>RV.</ls>; <s>-युत्य</s>, <ls>GṛŚrS.</ls>), 
+<hom>2.</hom> <s>यु</s> ¦ (<ab>cf.</ab> √ <s>युज्</s>) <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 23</ls>) <s>यौति</s> (<ab>Ved.</ab> also <ab>Ā.</ab> <s>युते꣡</s> and <ab>cl.</ab> 6. <s>युव꣡ति</s>, <s>°ते</s>; <ab>accord.</ab> to <ls>Dhātup. xxxi, 9</ls> also <ab>cl.</ab> 9. <s>युनाति</s>, <s>युनीते</s>; <ab>pf.</ab> <s>युयाव</s>, 2. <ab>sg.</ab> <s>युयविथ</s>, <ls>Pāṇ. vi, 4, 126</ls> <ab>Sch.</ab>; <s>युयुवे꣡</s>, <ls>RV.</ls>; <ab>aor.</ab> <s>-याविष्टम्</s> (?), <ls>ib.</ls>; <s>अयविष्ट</s> <ab>Gr.</ab>; <ab>Prec.</ab> <s>यूयात्</s>, <ls>ib.</ls>; <ab>fut.</ab> <s>युविता</s>, <ls>ŚBr.</ls>; <s>यविता</s>, <s>यविष्यति</s>, <s>°ते</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>युत्वा</s>, <ls>Pāṇ. vii, 2, 11</ls> <ab>Sch.</ab>; <s>-यूय</s>, <ls>RV.</ls>; <s>-युत्य</s>, <ls>GṛŚrS.</ls>), 
 <div n="to"/>to unite, attach, harness, yoke, bind, fasten, <ls>RV.</ls>;
 <div n="to"/>to draw towards one's self, take hold or gain possession of, hold fast, <ls>AV.</ls>; <ls>TS.</ls>; <ls>ŚBr.</ls>;
 <div n="to"/>to push on towards (<ab>acc.</ab>), <ls>AV.</ls>;
@@ -8,6 +8,6 @@
 <div n="vp"/><ab>Pass.</ab> <s>यूयते</s> (<ab>aor.</ab> <s>अयावि</s>) <ab>Gr.</ab>:
 <div n="vp"/><ab>Caus.</ab> <s>यावयति</s> (<ab>aor.</ab> <s>अयीयवत्</s>), <ls>ib.</ls> :
 <div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>यियावयिषति</s>, <ls>ib.</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>यु/यूषति</s> (<ls>RV.</ls>), <s>यियविषति</s> (<ab>Gr.</ab>), to wish to unite or hold fast:
+<div n="vp"/><ab>Desid.</ab> <s>यु꣡यूषति</s> (<ls>RV.</ls>), <s>यियविषति</s> (<ab>Gr.</ab>), to wish to unite or hold fast:
 <div n="vp"/><ab>Intens.</ab> <s>योयूयते</s>, <s>योयोति</s>, <s>योयवीति</s> &c. (See <s>आ-</s>, <s>नि-√ यु</s>). <info westergaard="yu,24.23,02.0028;yuY,31.9,09.0007"/><info whitneyroots="yu1,131"/><info verb="genuineroot" cp="2P,2Ā,6,9"/>
 <LEND>

@@ -1,12 +1,12 @@
-<L>40240<pc>2232-1<k1>चिर<k2>चिर/<e>100
-{#चिर/#}¦
+<L>40240<pc>2232-1<k1>चिर<k2>चिर꣡<e>100
+{#चिर꣡#}¦
 <div n="1">— 1) <lex>Adj.</lex> {%lang%} (von der Zeit) , {%langwährend , von lange her bestehend , der alten Zeit angehörig.%}
 <div n="1">— 2) <lex>n.</lex> {%Verzögerung , das Zögern.%} {#किं चिरेण#} {%wozu das Zögern? wozu Zeit verlieren?%}
-<div n="1">— 3) {#चिर/म्#} {%lange , langsam , vor langer Zeit.%} {#चिर/ं त/न्मेने य/द्#} mit Condit. {%es schien ihm zu lange , wenn zuvor%} <ls>29,29.</ls> {#चिर/ं कर्#} {%lange machen , säumen , zögern.%} {#चिरतरम्#} {%recht lange.%}
+<div n="1">— 3) {#चिर꣡म्#} {%lange , langsam , vor langer Zeit.%} {#चिरं꣡ त꣡न्मेने य꣡द्#} mit Condit. {%es schien ihm zu lange , wenn zuvor%} <ls>29,29.</ls> {#चिरं꣡ कर्#} {%lange machen , säumen , zögern.%} {#चिरतरम्#} {%recht lange.%}
 <div n="1">— 4) {#चिरेण#} {%nach langer Zeit , spät , nicht gleich ; lange , seit langer Zeit ; langsam%} , {#चिरतरेण#} {%langsamer%} , {#चिरतमेन#} {%am langsamsten.%}
 <div n="1">— 5) {#चिराय#} {%lange ; nach langer Zeit , endlich , schliesslich ; allzuspät.%}
 <div n="1">— 6) {#चिरात्#} {%nach langer Zeit , spät , so spät , erst jetzt%} (<ls>117,2</ls>), {%endlich ; seit langer Zeit.%} {#चिरात्प्रभृति#} <ab>dass.</ab>
 <div n="1">— 7) {#चिरस्य#} {%nach langer Zeit , nicht bald%} (43 , 1) , {%spät , endlich ; seit langer Zeit.%}
-<div n="1">— 8) {#चिरे/#} {%nach langer Zeit , nicht gleich darauf.%}
+<div n="1">— 8) {#चिरे꣡#} {%nach langer Zeit , nicht gleich darauf.%}
 <div n="1">— 9) {#चिर°#} {%lange , vor langer Zeit , nach l. Z. , spät.%}
 <LEND>

@@ -1,9 +1,9 @@
-<L>62458<pc>4015-1<k1>पतंग<k2>पतंग/<e>100
-{#पतंग/#}¦
+<L>62458<pc>4015-1<k1>पतंग<k2>पतंग꣡<e>100
+{#पतंग꣡#}¦
 <div n="1">— 1) <lex>Adj.</lex> {%fliegend.%}
 <div n="1">— 2) <lex>m.</lex>
 <div n="2">— a) {%Vogel.%}
-<div n="2">— b) {%ein geflügeltes Insect , Heuschrecke , Schmetterling%} , insbes. {%Lichtmotte.%} {#प/तंग#} <ls>ŚAT. BR.</ls> <ab>Nom.abstr.</ab> {#पतंगता#} <lex>f.</lex> <ls>PRASANNAR. 9,15.</ls>
+<div n="2">— b) {%ein geflügeltes Insect , Heuschrecke , Schmetterling%} , insbes. {%Lichtmotte.%} {#प꣡तंग#} <ls>ŚAT. BR.</ls> <ab>Nom.abstr.</ab> {#पतंगता#} <lex>f.</lex> <ls>PRASANNAR. 9,15.</ls>
 <div n="2">— c) {%die Sonne.%}
 <div n="2">— d) {%eine der sieben Sonnen.%}
 <div n="2">— e) {%Spielball.%}

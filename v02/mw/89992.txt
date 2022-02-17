@@ -1,11 +1,11 @@
-<L>89992<pc>468,2<k1>दध्यच्<k2>दध्य्—अ/च्<h>a<e>3
-<s>दध्य्—अ/च्</s> <hom>a</hom> ¦ <lex>m.</lex> (<ab>nom.</ab> <s>-अ/ङ्</s> <ab>acc.</ab> <s>-अ/ञ्चम्</s>;
-<ab>dat.</ab> <s>°धीचे/</s> <ab>gen.</ab> <s>°धीच/स्</s>;
-<ab>cf.</ab> <ls>Pāṇ. vi, 1, 170</ls>) ‘sprinkling <s>द/धि</s>’ (<ab>cf.</ab> <s>°धि-क्रा/</s> and <s>घृता/<स्र्स्/>ची</s>) <ab>N.</ab> of a mythical <s1 slp1="fzi">Ṛṣi</s1> or sacrificer (<ls>RV. i, 80, 16</ls> and [called <s1 slp1="aNgiras">Aṅgiras</s1>] <ls>139, 9</ls> [<s>आङ्गिरस</s>] <ls>TāṇḍyaBr. xii, 8</ls>;
-son of <s1 slp1="aTarvan">Atharvan</s1> [<ab>cf.</ab> <s>आथर्वण/</s>] <ls>RV. vi, 16, 14</ls>;
+<L>89992<pc>468,2<k1>दध्यच्<k2>दध्य्—अ꣡च्<h>a<e>3
+<s>दध्य्—अ꣡च्</s> <hom>a</hom> ¦ <lex>m.</lex> (<ab>nom.</ab> <s>-अ꣡ङ्</s> <ab>acc.</ab> <s>-अ꣡ञ्चम्</s>;
+<ab>dat.</ab> <s>°धीचे꣡</s> <ab>gen.</ab> <s>°धीच꣡स्</s>;
+<ab>cf.</ab> <ls>Pāṇ. vi, 1, 170</ls>) ‘sprinkling <s>द꣡धि</s>’ (<ab>cf.</ab> <s>°धि-क्रा꣡</s> and <s>घृता꣡<स्र्स्꣡>ची</s>) <ab>N.</ab> of a mythical <s1 slp1="fzi">Ṛṣi</s1> or sacrificer (<ls>RV. i, 80, 16</ls> and [called <s1 slp1="aNgiras">Aṅgiras</s1>] <ls>139, 9</ls> [<s>आङ्गिरस</s>] <ls>TāṇḍyaBr. xii, 8</ls>;
+son of <s1 slp1="aTarvan">Atharvan</s1> [<ab>cf.</ab> <s>आथर्वण꣡</s>] <ls>RV. vi, 16, 14</ls>;
 <ls>BhP. iv, 1, 42</ls>;
-having the head of a horse and teaching the <s1 slp1="aSvin">Aśvin</s1>s to find in <s1 slp1="tvazwf">Tvaṣṭṛ</s1>'s house the <s>म/धु</s> or <s1 slp1="soma">Soma</s1>, <ls>RV. i, 116 f. and 119; ix, 108, 4</ls>;
+having the head of a horse and teaching the <s1 slp1="aSvin">Aśvin</s1>s to find in <s1 slp1="tvazwf">Tvaṣṭṛ</s1>'s house the <s>म꣡धु</s> or <s1 slp1="soma">Soma</s1>, <ls>RV. i, 116 f. and 119; ix, 108, 4</ls>;
 favoured by <s1 slp1="indra">Indra</s1> [<ls>x, 48, 2</ls>] who slays 99 <s1 slp1="vftra">Vṛtra</s1>s or foes with a thunderbolt made of his bones, <ls>i. 84, 13</ls>; <ls>BhP. vi, 11, 20; viii, 20, 7</ls>;
-propounder of the <s1 slp1="brAhmaRa">Brāhmaṇa</s1> called <s>म/धु</s>, <ls>ŚBr. iv, xiv</ls>; <ls>BhP. vi, 9, 50ff.</ls>)
+propounder of the <s1 slp1="brAhmaRa">Brāhmaṇa</s1> called <s>म꣡धु</s>, <ls>ŚBr. iv, xiv</ls>; <ls>BhP. vi, 9, 50ff.</ls>)
 <info lex="m"/>
 <LEND>

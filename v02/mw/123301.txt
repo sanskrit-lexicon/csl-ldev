@@ -1,3 +1,3 @@
-<L>123301<pc>623,2<k1>पावमान<k2>पावमान/<e>2
-<s>पावमान/</s> ¦ <lex>mf(<s>ई</s>)n.</lex> (<ab>fr.</ab> <s>पवमान</s>) relating to <s1 slp1="soma">Soma</s1> juice (while being purified by a strainer) or to <s1 slp1="agni">Agni</s1> <s1 slp1="pavamAna">Pavamāna</s1>, <ls>TS.</ls>; <ls>AV.</ls>; <ls>TāṇḍBr.</ls>; <ls>Gobh.</ls><info lex="m:f#I:n"/>
+<L>123301<pc>623,2<k1>पावमान<k2>पावमान꣡<e>2
+<s>पावमान꣡</s> ¦ <lex>mf(<s>ई</s>)n.</lex> (<ab>fr.</ab> <s>पवमान</s>) relating to <s1 slp1="soma">Soma</s1> juice (while being purified by a strainer) or to <s1 slp1="agni">Agni</s1> <s1 slp1="pavamAna">Pavamāna</s1>, <ls>TS.</ls>; <ls>AV.</ls>; <ls>TāṇḍBr.</ls>; <ls>Gobh.</ls><info lex="m:f#I:n"/>
 <LEND>

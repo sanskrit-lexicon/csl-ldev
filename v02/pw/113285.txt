@@ -1,5 +1,5 @@
-<L>113285<pc>6247-1<k1>शुक्ल<k2>शुक्ल/<e>100
-{#शुक्ल/#}¦
+<L>113285<pc>6247-1<k1>शुक्ल<k2>शुक्ल꣡<e>100
+{#शुक्ल꣡#}¦
 <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ#})
 <div n="2">— a) {%licht , hell.%} {#पक्ष#} <lex>m.</lex> {%die lichte Hälfte eines Monats , die Zeit des zunehmenden Mondes.%}
 <div n="2">— b) {%weiss , weisslich.%}
@@ -8,7 +8,7 @@
 <div n="2">— a) {%die lichte Hälfte eines Monats%} <ls>BAUDH. 3,8,2. 4,5,3. 24. 26.</ls>
 <div n="2">— b) {%der Monat <is>Vaiśākha</is>.%}
 <div n="2">— c) {%*die weisse Farbe.%}
-<div n="2">— d) {%Auswurf , Schleim , Rotz.%} {#शुक्ल/ं#} {#कर्#} so v.a. {%Jmd%} (<ab>Dat.</ab>) {%anspeien%} <ls>AV. 3,29,3.</ls> Anders <ls>Ind. St. 17,304.</ls>
+<div n="2">— d) {%Auswurf , Schleim , Rotz.%} {#शुक्लं꣡#} {#कर्#} so v.a. {%Jmd%} (<ab>Dat.</ab>) {%anspeien%} <ls>AV. 3,29,3.</ls> Anders <ls>Ind. St. 17,304.</ls>
 <div n="2">— e) {%*Ricinus oder weiser Ricinus%} <ls>RĀJAN. 8,56.</ls>
 <div n="2">— f) {%*<bot>Mimusops hexandra</bot>%} <ls>RĀJAN. 11,72.</ls>
 <div n="2">— g) {%das dritte Jahr im 60jährigen Jupitercyclus.%}

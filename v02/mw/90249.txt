@@ -1,3 +1,3 @@
-<L>90249<pc>469,2<k1>दम<k2>द/म<e>2
-<s>द/म</s> ¦ <lex>m.</lex> (or <lex type="hwalt">n.</lex>) house, home (<lang n="greek">δόμος</lang>, <ab>Lat.</ab> <etym>domus</etym>), <ls>RV.</ls>; <ls>AV. vii</ls> (also <s>पुरु-द/म</s> <ab>q.v.</ab>), <ls>VS. viii, 24</ls><info lex="m:n"/>
+<L>90249<pc>469,2<k1>दम<k2>द꣡म<e>2
+<s>द꣡म</s> ¦ <lex>m.</lex> (or <lex type="hwalt">n.</lex>) house, home (<lang n="greek">δόμος</lang>, <ab>Lat.</ab> <etym>domus</etym>), <ls>RV.</ls>; <ls>AV. vii</ls> (also <s>पुरु-द꣡म</s> <ab>q.v.</ab>), <ls>VS. viii, 24</ls><info lex="m:n"/>
 <LEND>

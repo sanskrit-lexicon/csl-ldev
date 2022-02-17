@@ -1,7 +1,7 @@
 <L>124299<pc>627,3<k1>पिन्व्<k2>पिन्व्<e>1
-<s>पिन्व्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xv, 79</ls>) <s>पि/न्वति</s> (<ab>p.</ab> <s>पि/न्वत्</s>, <ls>RV.</ls>; <s>पिन्व/त्</s>, <ls>AV.</ls>; <ab>pf.</ab> <s>पिपिन्व</s>, <ls>RV.</ls>; <ab>Ā.</ab> 3. <ab>pl.</ab> <s>पिन्विरे/</s>; <ab>p.</ab> <s>पिन्वान/</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अपिन्वीत्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>पिन्विष्यति</s>, <s>°विता</s>, <ls>ib.</ls>), 
+<s>पिन्व्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. xv, 79</ls>) <s>पि꣡न्वति</s> (<ab>p.</ab> <s>पि꣡न्वत्</s>, <ls>RV.</ls>; <s>पिन्व꣡त्</s>, <ls>AV.</ls>; <ab>pf.</ab> <s>पिपिन्व</s>, <ls>RV.</ls>; <ab>Ā.</ab> 3. <ab>pl.</ab> <s>पिन्विरे꣡</s>; <ab>p.</ab> <s>पिन्वान꣡</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अपिन्वीत्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>पिन्विष्यति</s>, <s>°विता</s>, <ls>ib.</ls>), 
 <div n="to"/>to cause to swell, distend;
 <div n="to"/>to cause to overflow or abound, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ls>GṛŚrS.</ls>;
-<div n="to"/> <ab>Ā.</ab> <s>पि/न्वते</s>, to swell, be distended, abound, overflow, <ls>ib.</ls> (also <ab>Ā.</ab> <ab>P.</ab> and in <ls>ŚBr.</ls> <ab>P.</ab> for <ab>Ā.</ab>) :
-<div n="vp"/><ab>Caus.</ab> <s>पिन्व/यति</s> = <ab>P.</ab> <s>पिन्वति</s>, <ls>ŚBr.</ls><info westergaard="pivi,15.79,01.0379"/><info whitneyroots="pinv,97"/><info verb="root" cp="1P,1Ā"/>
+<div n="to"/> <ab>Ā.</ab> <s>पि꣡न्वते</s>, to swell, be distended, abound, overflow, <ls>ib.</ls> (also <ab>Ā.</ab> <ab>P.</ab> and in <ls>ŚBr.</ls> <ab>P.</ab> for <ab>Ā.</ab>) :
+<div n="vp"/><ab>Caus.</ab> <s>पिन्व꣡यति</s> = <ab>P.</ab> <s>पिन्वति</s>, <ls>ŚBr.</ls><info westergaard="pivi,15.79,01.0379"/><info whitneyroots="pinv,97"/><info verb="root" cp="1P,1Ā"/>
 <LEND>

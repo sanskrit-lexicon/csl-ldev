@@ -1,5 +1,5 @@
-<L>119889<pc>7054-2<k1>समन्त<k2>स/मन्त<e>100
-{#स/मन्त#}¦
+<L>119889<pc>7054-2<k1>समन्त<k2>स꣡मन्त<e>100
+{#स꣡मन्त#}¦
 <div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ#})
 <div n="2">— a) {%angrenzend , benachbart.%}
 <div n="2">— b) {%sämmtlich , vollständig.%}
@@ -10,8 +10,8 @@
 <div n="2">— a) Name verschiedener <is>Sāman</is>.
 <div n="2">— b) *<ab>N.pr.</ab> eines Reichs. Könnte auch <lex>m.</lex> sein.
 <div n="1">— 4) <ab>Adv.</ab>
-<div n="2">— a) {#स/मन्तम्#} {%in der Nähe von , vereint mit%} (<ab>Instr.</ab>).
-<div n="2">— b) {#समन्त/म्#} {%auf allen Seiten , ringsum ; vollständig%} ; Am anfange eines Comp. {#समन्त°#}.
+<div n="2">— a) {#स꣡मन्तम्#} {%in der Nähe von , vereint mit%} (<ab>Instr.</ab>).
+<div n="2">— b) {#समन्त꣡म्#} {%auf allen Seiten , ringsum ; vollständig%} ; Am anfange eines Comp. {#समन्त°#}.
 <div n="2">— c) {#समन्तात्#} {%von — , auf — , nach allen Seiten , allerwärts ; ringsum , im Umkreis von%} (<ab>Gen.</ab>) ; {%vollständig , gründlich.%}
 <div n="2">— d) {#समन्ततस्#} <ab>dass.</ab> mit <ab>Acc.</ab> {%rings um%}
 <div n="2">— e) {#समन्तेन#} {%ringsum.%} Mit einer Negation so v.a. {%nirgends.%}

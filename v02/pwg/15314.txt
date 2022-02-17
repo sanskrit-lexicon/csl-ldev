@@ -1,5 +1,5 @@
-<L>15314<pc>2-0121<k1>कर्ण<k2>क/र्ण<h>1
-1. {#क/र्ण#}¦ <lex>m.</lex> 
+<L>15314<pc>2-0121<k1>कर्ण<k2>क꣡र्ण<h>1
+1. {#क꣡र्ण#}¦ <lex>m.</lex> 
 <ls>Uṇ. 3, 10.</ls> 
 <ls>ŚĀNT. 2, 6.</ls> 
 <div n="1"> 1) {%Ohr%} 
@@ -10,9 +10,9 @@
 <ls>an. 2, 134.</ls> 
 <ls>MED. ṇ. 4.</ls> {#एष्टा^ नरा\ निचे^तारा च\ कर्णै^ः#} 
 <ls>ṚV. 1, 184, 2.</ls> <ls n="ṚV.">2, 39, 6.</ls> <ls n="ṚV.">4, 23, 8.</ls> {#श्रा\वयेद^स्य कर्णा^ वाज\यध्यै^#} 
-<ls n="ṚV. 4,">29, 3.</ls> <ls n="ṚV. 4, 29,">6.</ls> <ls n="ṚV. 4,">9, 6.</ls> <ls n="ṚV.">10, 106, 9.</ls> <ls>AV. 10, 2, 6.</ls> {#कर्णगृ/ह्य#} {%am Ohr fassend%} 
-<ls>ṚV. 8, 59, 15.</ls> {#कर्णगृहीत/#} 
-<ls>TS. 6, 1, 7, 6.</ls> {#कर्णत/स्#} {%aus dem Ohre weg%} 
+<ls n="ṚV. 4,">29, 3.</ls> <ls n="ṚV. 4, 29,">6.</ls> <ls n="ṚV. 4,">9, 6.</ls> <ls n="ṚV.">10, 106, 9.</ls> <ls>AV. 10, 2, 6.</ls> {#कर्णगृ꣡ह्य#} {%am Ohr fassend%} 
+<ls>ṚV. 8, 59, 15.</ls> {#कर्णगृहीत꣡#} 
+<ls>TS. 6, 1, 7, 6.</ls> {#कर्णत꣡स्#} {%aus dem Ohre weg%} 
 <ls>AV. 9, 8, 3.</ls> {#भद्राय कर्णः क्रोशतु#} 
 <ls>KAUŚ. 58.</ls> 
 <ls>M. 8, 125. 234.</ls> 
@@ -36,8 +36,8 @@
 <ls>R. 3, 24, 22.</ls> {#षट्कर्णो#} ({%woran sechs Ohren Theil genommen haben%}) {#भिद्यते मन्त्रश्चतुष्कर्णः स्थिरो भवेत् । द्विकर्णस्य तु मन्त्रस्य ब्रह्माप्यन्तं न गच्छति ॥#} 
 <ls>VET. 3, 10. 11.</ls> Adj. compp. auf {#कर्ण#} sind paroxytona, wenn das vorangehende Wort eine Farbe oder ein am Ohr angebrachtes Merkmal (beim Viehe; der Auslaut eines solchen Wortes häufig verlängert 
 <ls>P. 6, 3, 115</ls>) ist; so auch bei Vergleichungen und wenn das comp. ein nomen appell. oder propr. ist 
-<ls>P. 6, 2, 112. 113.</ls> {#शुक्लक/र्ण, शङ्कुक/र्ण, गोक/र्ण, मणिक/र्ण#} 
-<ls>Sch.</ls> Das <lex>f.</lex> der <lex>adj.</lex> compp. geht bald auf {#आ#}, bald auf {#ई/#} aus 
+<ls>P. 6, 2, 112. 113.</ls> {#शुक्लक꣡र्ण, शङ्कुक꣡र्ण, गोक꣡र्ण, मणिक꣡र्ण#} 
+<ls>Sch.</ls> Das <lex>f.</lex> der <lex>adj.</lex> compp. geht bald auf {#आ#}, bald auf {#ई꣡#} aus 
 <ls>P. 4, 1, 55, 64.</ls> {#शङ्कुकर्णा (गो)#} 
 <ls>MBH. 1, 6662.</ls> {#(राक्षसीः) त्रिकर्णीः शङ्कुकर्णीश्च लम्बकर्णीः - एककर्णीश्च#} 
 <ls>R. 5, 17, 24.</ls> Vgl. {#आविद्धकर्णा, °कर्णी, आखुकर्णी, पूतिकर्ण, प्लीहाकर्ण, विकर्ण, हिरण्यकर्ण#} . 

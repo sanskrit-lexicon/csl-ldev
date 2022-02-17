@@ -1,3 +1,3 @@
-<L>162876<pc>809,3<k1>मानव<k2>मानव/<e>1
-<s>मानव/</s> ¦ <lex>mf(<s>ई/</s>)n.</lex> (<ab>fr.</ab> <s>म/नु</s>) descended from or belonging to man or <s1 slp1="manu">Manu</s1>, human, <ls>RV.</ls> &c. &c.<info lex="m:f#I:n"/>
+<L>162876<pc>809,3<k1>मानव<k2>मानव꣡<e>1
+<s>मानव꣡</s> ¦ <lex>mf(<s>ई꣡</s>)n.</lex> (<ab>fr.</ab> <s>म꣡नु</s>) descended from or belonging to man or <s1 slp1="manu">Manu</s1>, human, <ls>RV.</ls> &c. &c.<info lex="m:f#I:n"/>
 <LEND>

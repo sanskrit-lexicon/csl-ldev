@@ -1,3 +1,3 @@
-<L>123203<pc>623,1<k1>पालाशखण्ड<k2>पा/लाश—खण्ड<e>3
-<s>पा/लाश—खण्ड</s> and <s>पा/लाश—षण्ड</s>, <lex>m.</lex> <ab>N.</ab> of <s1 slp1="magaDa">Magadha</s1>, <ls>L.</ls><info and="123203,pAlASaKaRqa;123204,pAlASazaRqa"/><info lex="m"/>
+<L>123203<pc>623,1<k1>पालाशखण्ड<k2>पा꣡लाश—खण्ड<e>3
+<s>पा꣡लाश—खण्ड</s> and <s>पा꣡लाश—षण्ड</s>, <lex>m.</lex> <ab>N.</ab> of <s1 slp1="magaDa">Magadha</s1>, <ls>L.</ls><info and="123203,pAlASaKaRqa;123204,pAlASazaRqa"/><info lex="m"/>
 <LEND>

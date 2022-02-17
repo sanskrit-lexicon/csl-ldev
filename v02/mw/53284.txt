@@ -1,3 +1,3 @@
-<L>53284<pc>296,3<k1>कुविद्<k2>कुवि/द्<e>2
-<s>कुवि/द्</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> <hom>1.</hom> <s>कु</s> and <s>इद्</s>; <ab>g.</ab> <s>चा<स्र्स्/>दि</s>), if, whether (a particle of interrogation used in direct and indirect questions), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls><info lex="ind"/>
+<L>53284<pc>296,3<k1>कुविद्<k2>कुवि꣡द्<e>2
+<s>कुवि꣡द्</s> ¦ <lex>ind.</lex> (<ab>fr.</ab> <hom>1.</hom> <s>कु</s> and <s>इद्</s>; <ab>g.</ab> <s>चा<स्र्स्꣡>दि</s>), if, whether (a particle of interrogation used in direct and indirect questions), <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls><info lex="ind"/>
 <LEND>

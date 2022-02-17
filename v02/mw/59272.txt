@@ -1,11 +1,11 @@
 <L>59272<pc>327,3<k1>क्षि<k2>क्षि<h>2<e>1
-<hom>2.</hom> <s>क्षि</s> ¦ <ab>cl.</ab> 2. 6.<ab>P.</ab> <s>क्षे/ति</s>, <s>क्षिय/ति</s>;
-<div n="vp"/> (3. <ab>du.</ab> <s>क्षित/स्</s>, 3. <ab>pl.</ab> <s>क्षियन्ति</s>; <ab>Subj.</ab> 2. <ab>sg.</ab> <s>क्षयत्</s>, 2. <ab>sg.</ab> <s>क्ष/यस्</s>, 3. <ab>du.</ab> <s>क्षयतस्</s>, 1. <ab>pl.</ab> <s>क्ष/याम</s>; <ab>pr. p.</ab> <s>क्षिय/त्</s>; <ab>aor.</ab> <ab>Subj.</ab> <s>क्षेषत्</s>; <ab>fut.</ab> <ab>p.</ab> <s>क्षेष्य/त्</s>), 
+<hom>2.</hom> <s>क्षि</s> ¦ <ab>cl.</ab> 2. 6.<ab>P.</ab> <s>क्षे꣡ति</s>, <s>क्षिय꣡ति</s>;
+<div n="vp"/> (3. <ab>du.</ab> <s>क्षित꣡स्</s>, 3. <ab>pl.</ab> <s>क्षियन्ति</s>; <ab>Subj.</ab> 2. <ab>sg.</ab> <s>क्षयत्</s>, 2. <ab>sg.</ab> <s>क्ष꣡यस्</s>, 3. <ab>du.</ab> <s>क्षयतस्</s>, 1. <ab>pl.</ab> <s>क्ष꣡याम</s>; <ab>pr. p.</ab> <s>क्षिय꣡त्</s>; <ab>aor.</ab> <ab>Subj.</ab> <s>क्षेषत्</s>; <ab>fut.</ab> <ab>p.</ab> <s>क्षेष्य꣡त्</s>), 
 <div n="to"/>to abide, stay, dwell, reside (used especially of an undisturbed or secret residence), <ls>RV.</ls>;
 <div n="to"/>to remain, be quiet, <ls>AV.</ls>; <ls>ŚBr.</ls>;
 <div n="to"/>to inhabit, <ls>TBr. iii</ls>;
-<div n="to"/>to go, move (<s>क्षि/यति</s>), <ls>Naigh. ii, 14</ls>; <ls>Dhātup.</ls> :
-<div n="vp"/><ab>Caus.</ab> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>क्षय/या</s>; <ab>Subj.</ab> <s>क्षेपयत्</s>) 
+<div n="to"/>to go, move (<s>क्षि꣡यति</s>), <ls>Naigh. ii, 14</ls>; <ls>Dhātup.</ls> :
+<div n="vp"/><ab>Caus.</ab> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>क्षय꣡या</s>; <ab>Subj.</ab> <s>क्षेपयत्</s>) 
 <div n="to"/>to make a person live quietly, <ls>RV. iii, 46, 2 and v, 9, 7</ls>;
 <div n="vp"/> ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">κτίζω</lang>.])<info verb="genuineroot" cp="2,6P"/>
 <LEND>

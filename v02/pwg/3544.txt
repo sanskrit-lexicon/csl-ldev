@@ -1,11 +1,11 @@
-<L>3544<pc>1-0264<k1>अन्यतस्<k2>अन्य/तस्
-{#अन्य/तस्#}¦ (von {#अन्य#}) adv. 
+<L>3544<pc>1-0264<k1>अन्यतस्<k2>अन्य꣡तस्
+{#अन्य꣡तस्#}¦ (von {#अन्य#}) adv. 
 <div n="1"> 1) = {#अन्यस्मात्#} {%von einem Andern%}: {#राजतो धनमन्विच्छेत् - न त्वन्यतः#} 
 <ls>M. 4, 33.</ls> {#या नियुक्तान्यतः पुत्रं देवराद्वाप्यवाप्नुयात्#} 
 <ls>9, 147.</ls> <ls>RAGH. 2, 4.</ls> <ls>KATHĀS. 4, 95.</ls> 
 <div n="1">— 2) {%aus einem andern Grunde%} 
 <ls>AMAR. 45.</ls> 
-<div n="1">— 3) {%auf der einen Seite%}: {#अन्य/तोमुख#} <lex>adj.</lex> 
+<div n="1">— 3) {%auf der einen Seite%}: {#अन्य꣡तोमुख#} <lex>adj.</lex> 
 <ls>ŚAT. BR. 2, 6, 3, 16.</ls> {#अन्यतः - अन्यतः#} {%auf der einen - auf der andern Seite%}: {#बृ\हद\न्यत^ः प\क्ष आसी^द्रथंत\रम\न्यत^ः#} 
 <ls>AV. 13, 3, 12.</ls> 
 <div n="1">— 4) {%anderwärts, in einem andern Falle%}: {#मोक्षे ज्ञानं विज्ञानमन्यतः#} 
@@ -16,7 +16,7 @@
 <ls>PAÑCAT. I, 109.</ls>
 [Page1-0265]
 
-<div n="1">— 6) {%nach einer Seite hin%}: {#अन्यतोघाति/न्#} {%schlagend%} 
+<div n="1">— 6) {%nach einer Seite hin%}: {#अन्यतोघाति꣡न्#} {%schlagend%} 
 <ls>ŚAT. BR. 1, 6, 3, 33.</ls> 
 <div n="1">— 7) {%anderswohin%}: {#निर\न्यत^श्चिदारत#} 
 <ls>ṚV. 1, 4, 5.</ls> {#गन्तव्यं वा ततो ऽन्यतः#} 

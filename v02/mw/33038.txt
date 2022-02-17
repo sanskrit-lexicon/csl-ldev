@@ -1,5 +1,5 @@
 <L>33038<pc>188,2<k1>उद्द्युत्<k2>उद्-द्युत्<e>1
 <s>उद्-</s>√ <hom>1.</hom> <s>द्युत्</s> ¦ <ab>P.</ab> <ab>Ved.</ab> (<ab>impf.</ab> <s>-अद्यौत्</s>) <ab>Ā.</ab> <s>-द्योतते</s>, to blaze up, shine, shine forth, <ls>RV. iii, 5, 9</ls>; <ls>Hariv.</ls>;
 <div n="to"/> <ab>Caus.</ab> <ab>P.</ab> <s>-द्योतयति</s>, to cause to shine or shine forth, <ls>Prab.</ls>; <ls>Ragh.</ls> :
-<div n="to"/><ab>Intens.</ab> <ab>Ved.</ab> (<ab>Subj.</ab> <s>-द/विद्युतत्</s>) to shine intensely, <ls>RV. vi, 16, 45.</ls><info verb="pre" cp="PĀ" parse="ud+dyut"/>
+<div n="to"/><ab>Intens.</ab> <ab>Ved.</ab> (<ab>Subj.</ab> <s>-द꣡विद्युतत्</s>) to shine intensely, <ls>RV. vi, 16, 45.</ls><info verb="pre" cp="PĀ" parse="ud+dyut"/>
 <LEND>

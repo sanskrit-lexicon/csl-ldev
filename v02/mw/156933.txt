@@ -1,3 +1,3 @@
-<L>156933<pc>784,3<k1>मनुष्यगन्धर्व<k2>मनुष्य/—गन्धर्व<e>3
-<s>मनुष्य/—गन्धर्व</s> ¦ <lex>m. <ab>pl.</ab></lex> the human <s1 slp1="ganDarva">Gandharva</s1>s (inferior to the <s1 slp1="deva">Deva</s1>-<s1 slp1="ganDa">gandha</s1>), <ls>TUp.</ls>,<info lex="m"/>
+<L>156933<pc>784,3<k1>मनुष्यगन्धर्व<k2>मनुष्य꣡—गन्धर्व<e>3
+<s>मनुष्य꣡—गन्धर्व</s> ¦ <lex>m. <ab>pl.</ab></lex> the human <s1 slp1="ganDarva">Gandharva</s1>s (inferior to the <s1 slp1="deva">Deva</s1>-<s1 slp1="ganDa">gandha</s1>), <ls>TUp.</ls>,<info lex="m"/>
 <LEND>

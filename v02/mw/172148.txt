@@ -1,3 +1,3 @@
-<L>172148<pc>855,2<k1>युव<k2>युव/<h>1<e>1
-<s>युव/</s> <hom>1</hom> ¦ actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the dual number (from which the forms <s>युवा/म्</s>, <s>युवा/भ्याम्</s>, <s>युव/योस्</s>; <ab>ved.</ab> also <s>युव/म्</s>, <s>युव/भ्याम्</s>, <s>युव/त्</s>, <s>युवो/स्</s>, are derived). <info lexcat="LEXID=pron,STEM=yuzmad"/>
+<L>172148<pc>855,2<k1>युव<k2>युव꣡<h>1<e>1
+<s>युव꣡</s> <hom>1</hom> ¦ actual base of the 2nd <ab>pers.</ab> <ab>pron.</ab> in the dual number (from which the forms <s>युवा꣡म्</s>, <s>युवा꣡भ्याम्</s>, <s>युव꣡योस्</s>; <ab>ved.</ab> also <s>युव꣡म्</s>, <s>युव꣡भ्याम्</s>, <s>युव꣡त्</s>, <s>युवो꣡स्</s>, are derived). <info lexcat="LEXID=pron,STEM=yuzmad"/>
 <LEND>

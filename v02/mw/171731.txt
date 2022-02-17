@@ -1,20 +1,20 @@
 <L>171731<pc>853,2<k1>युज्<k2>युज्<h>1<e>1
-<hom>1.</hom> <s>युज्</s> ¦ (<ab>cf.</ab> √ <hom>2.</hom> <s>यु</s>) <ab>cl.</ab> 7. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxix, 7</ls>) <s>युन/क्ति</s>, <s>युङ्क्ते/</s> 
+<hom>1.</hom> <s>युज्</s> ¦ (<ab>cf.</ab> √ <hom>2.</hom> <s>यु</s>) <ab>cl.</ab> 7. <ab>P.</ab> <ab>Ā.</ab> (<ls>Dhātup. xxix, 7</ls>) <s>युन꣡क्ति</s>, <s>युङ्क्ते꣡</s> 
 (<ab>ep.</ab> also <s>युञ्जति</s>, <s>°ते</s>;
 <ab>Ved.</ab> <s>योजति</s>, <s>°ते</s>;
-<s>युजे</s>, <s>युज्महे</s>, 3. <ab>pl.</ab> <s>युजत</s> <ab>Impv.</ab> <s>युक्ष्व/</s>;
+<s>युजे</s>, <s>युज्महे</s>, 3. <ab>pl.</ab> <s>युजत</s> <ab>Impv.</ab> <s>युक्ष्व꣡</s>;
 <ab>Pot.</ab> <s>युञ्जीयात्</s>, <ls>R.</ls>;
-<ab>pf.</ab> <s>युयो/ज</s>, <s>युयुजे/</s>, <ls>RV.</ls> &c. &c., 3. <ab>sg.</ab> <s>युयोजते</s>, <ls>RV. viii, 70, 7</ls>;
+<ab>pf.</ab> <s>युयो꣡ज</s>, <s>युयुजे꣡</s>, <ls>RV.</ls> &c. &c., 3. <ab>sg.</ab> <s>युयोजते</s>, <ls>RV. viii, 70, 7</ls>;
 <ab>aor.</ab> <ab>Class.</ab> <ab>P.</ab> <s>अयोक्षीत्</s>, <s>अयौक्षीत्</s> or <s>अयुजत्</s>;
-<ab>Ved.</ab> also <ab>Ā.</ab> <s>अ/युजि</s>;
+<ab>Ved.</ab> also <ab>Ā.</ab> <s>अ꣡युजि</s>;
 <ab>Ved.</ab> and <ab>Class.</ab> <s>अयुक्षि</s>, <s>अयुक्त</s>;
-<ab>fut.</ab> <s>योक्ता/</s>, <ls>Br.</ls>;
+<ab>fut.</ab> <s>योक्ता꣡</s>, <ls>Br.</ls>;
 <s>योक्ष्यति</s>, <ls>ib.</ls>;
 <s>°ते</s>, <ls>AV.</ls> &c. &c.;
 <ab>inf.</ab> <s>योक्तुम्</s>, <ls>Br.</ls>;
-<s>युजे/</s>, <ls>RV.</ls>;
-<ab>ind.p.</ab> <s>युक्त्वा/</s>, <ls>ib.</ls> &c. &c.;
-<s>युक्त्वा/य</s>, <ls>RV.</ls>; <ls>Br.</ls>;
+<s>युजे꣡</s>, <ls>RV.</ls>;
+<ab>ind.p.</ab> <s>युक्त्वा꣡</s>, <ls>ib.</ls> &c. &c.;
+<s>युक्त्वा꣡य</s>, <ls>RV.</ls>; <ls>Br.</ls>;
 <s>-युज्य</s>, <ls>MBh.</ls> &c.), 
 <div n="to"/>to yoke or join or fasten or harness (horses or a chariot), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to make ready, prepare, arrange, fit out, set to work, use, employ, apply, <ls>ib.</ls>;
@@ -32,7 +32,7 @@
 <div n="to"/>to bring into possession of, furnish or endow with (<ab>instr.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>R.</ls> &c.;
 <div n="to"/>to join one's self to (<ab>acc.</ab>), <ls>RV.</ls>;
 <div n="to"/> (in <ab>astron.</ab>) to come into union or conjunction with (<ab>acc.</ab>), <ls>VarBṛS.</ls> :
-<div n="vp"/><ab>Pass.</ab> <s>युज्य/ते</s> (<ab>ep.</ab> also <s>°ति</s>; <ab>aor.</ab> <s>अ/योजि</s>), 
+<div n="vp"/><ab>Pass.</ab> <s>युज्य꣡ते</s> (<ab>ep.</ab> also <s>°ति</s>; <ab>aor.</ab> <s>अ꣡योजि</s>), 
 <div n="to"/>to be yoked or harnessed or joined &c., <ls>RV.</ls> &c. &c.;
 <div n="to"/>to attach one's self to (<ab>loc.</ab>), <ls>Hit.</ls>;
 <div n="to"/>to be made ready or prepared for (<ab>dat.</ab>), <ls>Bhag.</ls>;

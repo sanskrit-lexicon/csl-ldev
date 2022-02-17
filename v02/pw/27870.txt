@@ -1,16 +1,16 @@
-<L>27870<pc>2065-2<k1>किम्<k2>कि/म्<e>100
-{#कि/म्#}¦
+<L>27870<pc>2065-2<k1>किम्<k2>कि꣡म्<e>100
+{#कि꣡म्#}¦
 <div n="1">— 1) <ab>Nom.</ab> <ab>Acc.</ab> <lex>n.</lex> von 1. {#क#}.
 <div n="1">— 2) <ab>Adv.</ab>
 <div n="2">— a) {%woher? warum? weshalb? wozu?%}
 <div n="2">— b) blosses Fragewort , {%num , an.%} In Doppelfragen an zweiter Stelle {#किम्#} <ls>166,32. 171,28. 248,25.</ls> {#किमुत#} <ls>129,9.</ls> {#किमु वा#} <ls>116,29.</ls> {#किं नु वा#} <ls>120,5.</ls> {#किं वा , अथ वा#} (<ls>183,30</ls>), {#आहो स्विद् , उत , उत वा , वा#} (<ls>156,24. 185,19</ls>) und {#वापि#}. Bei einer dreifachen Frage an zweiter und dritter Stelle {#किं वा#} — {#किं वा , अथ वा#} — {#उत , उत#} — {#उत , उत#} — {#अथ वा#} und {#उत - आहो स्विद्#}. Bei einer vierfachen an zweiter und den folgenden Stellen {#किमु - किम् - किं वा#} (<ls>Spr. 8728</ls>) und {#किम् - वा - अथ#}.
 <div n="2">— c) *mit einem Verbum fin. einen Tadel ausdrückend.
 <div n="2">— d) in Verbindung mit nachfolgenden Partikeln:
-<div n="3">— α) {#अङ्ग/#} 1) {%warum doch? warum sonst?%} 2) {%wie viel mehr%} <ls>Spr. 2706.</ls>
+<div n="3">— α) {#अङ्ग꣡#} 1) {%warum doch? warum sonst?%} 2) {%wie viel mehr%} <ls>Spr. 2706.</ls>
 <div n="3">— β) {#अपि#} (erst bei <ls>KĀLIDĀSA</ls>) 1) {%sehr , gehörig , heftig , stark%} <ls>Spr. 7620.</ls> <ls n="Spr.">7658.</ls> <ls n="Spr.">7715.</ls> Mit einer Negation {%durchaus nicht%} <ls>7828.</ls> <ls>RAGH. 2,57</ls> 2) {%noch mehr , ja sogar.%}
 <div n="3">— γ) {#इति#} 1) {%woher? warum? weshalb?%} 2) ungenau für {#इति किम्#} <ls>173,12.</ls>
 <div n="3">— δ) {#इव#} {%wozu?%} <ls>Spr. 1170.</ls>
-<div n="3">— ε) {#उ#} <ab>s.u.</ab> 2. {#उ#} 6). {#कि/मु-कि/म्#} <ls>ṚV. 1,161,1.</ls> {#किमु - अथ#} <ls>Chr. 177,5.</ls> {#किम् - किमु वा#} <ls>116,29.</ls>
+<div n="3">— ε) {#उ#} <ab>s.u.</ab> 2. {#उ#} 6). {#कि꣡मु-कि꣡म्#} <ls>ṚV. 1,161,1.</ls> {#किमु - अथ#} <ls>Chr. 177,5.</ls> {#किम् - किमु वा#} <ls>116,29.</ls>
 <div n="3">— ζ) {#उत#} s. 2. {#उत#} 2) und 3).
 <div n="3">— η) {#*किल#} und Fut. {%dass nach nicht für möglich halten , nicht leiden%} <ls>P. 3,3,146.</ls>
 <div n="3">— θ) {#च#} {%und auch , — noch , ferner , weiter%} <ls>43,13.</ls>

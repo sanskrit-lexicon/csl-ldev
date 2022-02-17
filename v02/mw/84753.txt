@@ -1,11 +1,11 @@
 <L>84753<pc>446,1<k1>तिज्<k2>तिज्<e>1
-<s>तिज्</s> ¦ <ab>cl.</ab> 1. <s>ते/जते</s> (<s>°ति</s>, <ls>Dhātup. xxiii, 2</ls>; <ab>p.</ab> <s>ते/जमान</s>; <ab>Ved.</ab> <ab>inf.</ab> <s>ते/जसे</s>) 
-<div n="to"/>to be or become sharp, <ls>RV. i, 55, 1; iii, 2, 10 and 8, 11</ls> (<s>ते/तिजान</s>, ‘sharp’ <ls>VS. v, 43</ls>);
+<s>तिज्</s> ¦ <ab>cl.</ab> 1. <s>ते꣡जते</s> (<s>°ति</s>, <ls>Dhātup. xxiii, 2</ls>; <ab>p.</ab> <s>ते꣡जमान</s>; <ab>Ved.</ab> <ab>inf.</ab> <s>ते꣡जसे</s>) 
+<div n="to"/>to be or become sharp, <ls>RV. i, 55, 1; iii, 2, 10 and 8, 11</ls> (<s>ते꣡तिजान</s>, ‘sharp’ <ls>VS. v, 43</ls>);
 <div n="to"/>to sharpen, <ls>x, 138, 5</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>तेजयति</s> <ab>id.</ab>, <ls>Dhātup. xxxii, 109</ls>;
 <div n="to"/>to stir up, excite, <ls>R. iii, 31, 36</ls>; <ls>Ragh. ix, 38</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>ति/तिक्षते</s> (<ls>Pāṇ. iii, 1, 5</ls>; 1. <ab>pl.</ab> <s>°क्ष्महे</s>, <ls>MBh. v, 3427</ls>; <ab>fut.</ab> <s>°क्षिष्यते</s>, <ls>ŚBr. iii</ls>; <ab>ep.</ab> also <ab>P.</ab> <ab>e.g.</ab> <ab>p.</ab> <s>°क्षत्</s>, <ls>BhP. iii</ls>) ‘to desire to become sharp or firm’, to bear with firmness, suffer with courage or patience, endure, <ls>RV. ii, 13, 3; iii, 30, 1</ls>; <ls>AV. viii</ls> &c.:
-<div n="vp"/><ab>Intens.</ab> <s>ते/तिक्ते</s> (<ls>Pāṇ. vii, 4, 65</ls>; <ab>p.</ab> <s>°तिजान</s> See above) 
+<div n="vp"/><ab>Desid.</ab> <s>ति꣡तिक्षते</s> (<ls>Pāṇ. iii, 1, 5</ls>; 1. <ab>pl.</ab> <s>°क्ष्महे</s>, <ls>MBh. v, 3427</ls>; <ab>fut.</ab> <s>°क्षिष्यते</s>, <ls>ŚBr. iii</ls>; <ab>ep.</ab> also <ab>P.</ab> <ab>e.g.</ab> <ab>p.</ab> <s>°क्षत्</s>, <ls>BhP. iii</ls>) ‘to desire to become sharp or firm’, to bear with firmness, suffer with courage or patience, endure, <ls>RV. ii, 13, 3; iii, 30, 1</ls>; <ls>AV. viii</ls> &c.:
+<div n="vp"/><ab>Intens.</ab> <s>ते꣡तिक्ते</s> (<ls>Pāṇ. vii, 4, 65</ls>; <ab>p.</ab> <s>°तिजान</s> See above) 
 <div n="to"/>to sharpen, <ls>RV. iv, 2 3, 7</ls>;
 <div n="vp"/> <info westergaard="tija,23.2,01.0689;tija,32.109,10.0101"/><info whitneyroots="tij,62"/><info verb="genuineroot" cp="1P"/>
 <LEND>

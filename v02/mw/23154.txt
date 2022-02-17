@@ -1,7 +1,7 @@
 <L>23154<pc>133,2<k1>आज्ञा<k2>आ-ज्ञा<h>1<e>1
-<hom>1.</hom> <s>आ-√ ज्ञा</s> ¦ <s>-जानाति</s> (<ab>Impv.</ab> 2. <ab>pl.</ab> <s>-जानीत</s>; <ab>perf.</ab> <s>-जज्ञौ</s>; <ab>p.</ab> <s>जान/त्</s>) 
+<hom>1.</hom> <s>आ-√ ज्ञा</s> ¦ <s>-जानाति</s> (<ab>Impv.</ab> 2. <ab>pl.</ab> <s>-जानीत</s>; <ab>perf.</ab> <s>-जज्ञौ</s>; <ab>p.</ab> <s>जान꣡त्</s>) 
 <div n="to"/>to mind, perceive, notice, understand, <ls>RV. i, 94, 8; 156, 3</ls>; <ls>ŚBr.</ls>; <ls>TāṇḍyaBr.</ls>;
-<div n="vp"/> (<ab>cf.</ab> <s>अ/न्-आजानत्</s>) :
+<div n="vp"/> (<ab>cf.</ab> <s>अ꣡न्-आजानत्</s>) :
 <div n="to"/><ab>Caus.</ab> <s>-ज्ञापयति</s>, <s>°ते</s> (<ab>Inf.</ab> <s>-ज्ञप्तुम्</s>, <ls>R. iv, 40, 8</ls>) to order, command, direct, <ls>MBh.</ls> &c.;
 <div n="to"/>to assure, <ls>R. vi, 103, 10.</ls><info verb="pre" cp="" parse="A+jYA"/>
 <LEND>

@@ -1,7 +1,7 @@
 <L>132776<pc>668,2<k1>प्रतिभा<k2>प्रति-भा<h>a<e>1
 <s>प्रति-√ भा</s> <hom>a</hom> ¦ <ab>P.</ab> <s>-भाति</s>, to shine upon (<ab>acc.</ab>), <ls>Lāṭy.</ls>;
 <div n="to"/>to come in sight, present or offer one's self to (<ab>gen.</ab> or <ab>acc.</ab>), <ls>MBh.</ls>; <ls>R.</ls> &c. <pb n="668,3"/>;
-<div n="to"/>to appear to the mind (also with <s>मनसि</s>), flash upon the thoughts, become clear or manifest, occur to (<ab>acc.</ab> or <ab>gen.</ab>), <ls>Up.</ls>; <ls>MBh.</ls> &c. (<s>नो/त्तरम् प्रतिभातिमे</s>, ‘no answer occurs to me’ <ls>Hariv.</ls>);
+<div n="to"/>to appear to the mind (also with <s>मनसि</s>), flash upon the thoughts, become clear or manifest, occur to (<ab>acc.</ab> or <ab>gen.</ab>), <ls>Up.</ls>; <ls>MBh.</ls> &c. (<s>नो꣡त्तरम् प्रतिभातिमे</s>, ‘no answer occurs to me’ <ls>Hariv.</ls>);
 <div n="to"/>to seem or appear to (<ab>gen.</ab> <ab>acc.</ab> with or without <s>प्रति</s>) as or like (<ab>nom.</ab> with or without <s>इव</s>, or <s>यथा</s>, or <s>-वत्</s> <lex type="nhw">ind.</lex>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c. (<s>इति प्रतिभाति मे मनः</s>, ‘so it seems to my mind’ <ls>MBh.</ls>);
 <div n="to"/>to seem fit, appear good, please to (<ab>gen.</ab>or <ab>acc.</ab>), <ls>Vikr.</ls>; <ls>Pañcat.</ls> &c. (<s>सा भार्या प्रतिभाति मे</s>, ‘this one would please me as a wife’ <ls>Kathās.</ls>)<info verb="pre" cp="P" parse="prati+BA"/>
 <LEND>

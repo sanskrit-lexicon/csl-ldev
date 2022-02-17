@@ -1,27 +1,27 @@
 <L>263443<pc>1300,3<k1>हु<k2>हु<h>1<e>1
-<hom>1.</hom> <s>हु</s> ¦ <ab>cl.</ab> 3. <ab>P.</ab> (<ls>Dhātup. xxv, 1</ls>) <s>जुहो/ति</s> 
-(<ab>Ved.</ab> and <ab>ep.</ab> also <ab>Ā.</ab> <s>जुहुते/</s> 3. <ab>pl.</ab> <ab>pr.</ab> <s>जु/ह्</s> 3. <ab>pl.</ab> <ab>pr.</ab> <s>जु/ह्वति</s>, <s>°ते</s>, <ls>RV.</ls> &c. <pb n="1301,1"/>;
-2. <ab>sg.</ab> <ab>Impv.</ab> <s>जुहुधि/</s>, <ls>Br.</ls> &c.;
+<hom>1.</hom> <s>हु</s> ¦ <ab>cl.</ab> 3. <ab>P.</ab> (<ls>Dhātup. xxv, 1</ls>) <s>जुहो꣡ति</s> 
+(<ab>Ved.</ab> and <ab>ep.</ab> also <ab>Ā.</ab> <s>जुहुते꣡</s> 3. <ab>pl.</ab> <ab>pr.</ab> <s>जु꣡ह्</s> 3. <ab>pl.</ab> <ab>pr.</ab> <s>जु꣡ह्वति</s>, <s>°ते</s>, <ls>RV.</ls> &c. <pb n="1301,1"/>;
+2. <ab>sg.</ab> <ab>Impv.</ab> <s>जुहुधि꣡</s>, <ls>Br.</ls> &c.;
 <s>होषि</s>, <ls>RV.</ls>;
-<ab>p.</ab> <ab>P.</ab> <s>जु/ह्वत्</s>;
-<ab>Ā.</ab> <s>जु/ह्वान</s> [also with <ab>pass.</ab> sense];
-3. <ab>pl.</ab> <ab>impf.</ab> <s>अ/जुहवुः</s>, <ls>ib.</ls>;
+<ab>p.</ab> <ab>P.</ab> <s>जु꣡ह्वत्</s>;
+<ab>Ā.</ab> <s>जु꣡ह्वान</s> [also with <ab>pass.</ab> sense];
+3. <ab>pl.</ab> <ab>impf.</ab> <s>अ꣡जुहवुः</s>, <ls>ib.</ls>;
 <ab>pf.</ab> <ab>P.</ab> <s>जुहाव</s>, <s>जुहुवुः</s>, <ls>MBh.</ls>;
 <ab>Ā.</ab> <s>जुहुवे</s>, <ls>R.</ls>;
-<s>जुह्वे/</s>, <s>जुहुरे/</s>, <ls>RV.</ls>;
+<s>जुह्वे꣡</s>, <s>जुहुरे꣡</s>, <ls>RV.</ls>;
 <s>जुह्विरे</s>, <ls>Br.</ls>;
 <s>जुहवां-चकार</s>, <ls>ib.</ls>; <ls>Up.</ls>;
 <s>जुहवाम्-आस</s>, <ls>Vop.</ls>;
 <ab>aor.</ab> <s>अहौषीत्</s>, <ls>Br.</ls> &c.;
 <ab>Prec.</ab> <s>हूयात्</s> <ab>Gr.</ab>;
 <ab>fut.</ab> <s>होता</s>, <ls>ib.</ls>;
-<s>होष्य/ति</s>, <s>°ते</s>, <ls>AV.</ls> &c.;
+<s>होष्य꣡ति</s>, <s>°ते</s>, <ls>AV.</ls> &c.;
 <ab>Cond.</ab> <s>अहोष्यत्</s>, <ls>Br.</ls>;
-<ab>inf.</ab> <s>हो/तुम्</s>, <s>°तोस्</s>, <s>°तवै/</s>, and <ab>ind.p.</ab> <s>हुत्वा</s>, <ls>ib.</ls> &c.), 
+<ab>inf.</ab> <s>हो꣡तुम्</s>, <s>°तोस्</s>, <s>°तवै꣡</s>, and <ab>ind.p.</ab> <s>हुत्वा</s>, <ls>ib.</ls> &c.), 
 <div n="to"/>to sacrifice (<ab>esp.</ab> pour butter into the fire), offer or present an oblation (<ab>acc.</ab> or <ab>gen.</ab>) to (<ab>dat.</ab>) or in (<ab>loc.</ab>), sacrifice to, worship or honour (<ab>acc.</ab>) with (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to sprinkle on (<ab>loc.</ab>), <ls>Yājñ.</ls>;
 <div n="to"/>to eat, <ls>Vop.</ls> :
-<div n="vp"/><ab>Pass.</ab> <s>हूय/ते</s> (<ab>aor.</ab> <s>अ/हावि</s>), to be offered or sacrificed, <ls>RV.</ls> &c. &c.:
+<div n="vp"/><ab>Pass.</ab> <s>हूय꣡ते</s> (<ab>aor.</ab> <s>अ꣡हावि</s>), to be offered or sacrificed, <ls>RV.</ls> &c. &c.:
 <div n="vp"/><ab>Caus.</ab> <s>हावयति</s> (<ab>aor.</ab> <s>अजूहवत्</s>), to cause to sacrifice or to be sacrificed or to be honoured with sacrifice, <ls>GṛŚrS.</ls> &c.:
 <div n="vp"/><ab>Desid.</ab> <s>जुहूषति</s>, to wish to sacrifice, <ls>MBh.</ls>; <ls>R.</ls> :
 <div n="vp"/><ab>Intens.</ab> <s>जोहवीति</s> (<ab>impf.</ab> <s>अजोहवीत्</s> or <s>अजुहवीत्</s>, <ls>BhP.</ls>), <s>जोहूयते</s>, <s>जोहोति</s> (<ab>Gr.</ab>), to offer oblations repeatedly or abundantly. <info westergaard="hu,25.1,03.0001"/><info whitneyroots="hu,206"/><info verb="genuineroot" cp="3P,3Ā"/>

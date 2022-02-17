@@ -1,5 +1,5 @@
-<L>38737<pc>225,1<k1>ऋग्वेद<k2>ऋग्—वेद/<e>3
-<s>ऋग्—वेद/</s> ¦ <lex>m.</lex> ‘Hymn - <s1 slp1="veda">Veda</s1>’ or ‘<s1 slp1="veda">Veda</s1> of praise’, the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1>, or most ancient sacred book of the <ns>Hindūs</ns> (that is, the collective body of sacred verses called <s1 slp1="fca">Ṛca</s1>s [see below], consisting of 1017 hymns [or with the <s1 slp1="vAlaKilya">Vālakhilya</s1>s 1028] arranged in eight <s1 slp1="azwaka">Aṣṭaka</s1>s or in ten <s1 slp1="maRqala">Maṇḍala</s1>s;
+<L>38737<pc>225,1<k1>ऋग्वेद<k2>ऋग्—वेद꣡<e>3
+<s>ऋग्—वेद꣡</s> ¦ <lex>m.</lex> ‘Hymn - <s1 slp1="veda">Veda</s1>’ or ‘<s1 slp1="veda">Veda</s1> of praise’, the <s1 slp1="fg">Ṛg</s1>-<s1 slp1="veda">veda</s1>, or most ancient sacred book of the <ns>Hindūs</ns> (that is, the collective body of sacred verses called <s1 slp1="fca">Ṛca</s1>s [see below], consisting of 1017 hymns [or with the <s1 slp1="vAlaKilya">Vālakhilya</s1>s 1028] arranged in eight <s1 slp1="azwaka">Aṣṭaka</s1>s or in ten <s1 slp1="maRqala">Maṇḍala</s1>s;
 <s1 slp1="maRqala">Maṇḍala</s1>s 2-8 contain groups of hymns, each group ascribed to one author or to the members of one family;
 the ninth book contains the hymns sung at the <s1 slp1="soma">Soma</s1> ceremonies;
 the first and tenth contain hymns of a different character, some comparatively modern, composed by a greater variety of individual authors;

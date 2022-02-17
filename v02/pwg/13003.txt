@@ -1,5 +1,5 @@
-<L>13003<pc>1-1046<k1>ऋत<k2>ऋत/
-{#ऋत/#}¦ (von einer Wurzel {#अर्#} in derselben Richtung der Bedeutung wie {#अरम्#}) lat. {%ratus.%} 
+<L>13003<pc>1-1046<k1>ऋत<k2>ऋत꣡
+{#ऋत꣡#}¦ (von einer Wurzel {#अर्#} in derselben Richtung der Bedeutung wie {#अरम्#}) lat. {%ratus.%} 
 <div n="1"> 1) <lex>adj.</lex> mit einem instr. compon. {#सुखेन ऋतः = सुखार्त#} (sic) 
 <ls>P. 6, 1, 89, <is>Vārtt</is>. 5.</ls> 
 <ls>VOP. 2, 8</ls> (mit {#आर्त#} verwechselt). 
@@ -26,7 +26,7 @@
 <div n="2">— d) {%geehrt%} ({#पूजित#}). 
 <div n="2">— e) {%glänzend%} ({#दीप्त#}) 
 <ls>H. an.</ls> <ls>MED. t. 6.</ls> — Davon 
-<div n="1"> 2) {#ऋत/म्#} adv. <is>gaṇa</is> {#चादि#} zu 
+<div n="1"> 2) {#ऋत꣡म्#} adv. <is>gaṇa</is> {#चादि#} zu 
 <ls>P. 1, 4, 57.</ls> {%recht, richtig; gehörig, nachdrücklich%}: {#ऋ\तम^र्षन्ति\ सिन्ध^वः स\त्यं ता^तान\ सूर्य^ः#} 
 <ls>ṚV. 1, 105, 12.</ls> {#ऋ\तं सा^साह\ महि^ चित्पृतन्य\तः#} 
 <ls n="ṚV.">8, 75, 5.</ls> {#ऋ\तं स^पन्तो अ\मृत\मेवैः#} 
@@ -140,7 +140,7 @@
 <ls n="ṚV. 10,">85, 1.</ls> {#ऋ\तेन^ मित्रावरुणा सचेथे#} 
 <ls n="ṚV.">1, 152, 1.</ls> <ls n="ṚV. 1, 152,">3.</ls> {#ऋ\तं च^ स\त्यं च^#} 
 <ls n="ṚV.">10, 190, 1.</ls> <ls>AV. 9, 5, 21.</ls> {#स\त्यं बृ\हदृ\तमु\ग्रम्#} 
-<ls>12, 1, 1.</ls> <ls>VS. 11, 47.</ls> <ls>AV. 7, 1, 1.</ls> <ls>TS. 3, 2, 7, 1.</ls> <ls>ŚAT. BR. 11, 2, 7, 9. 13, 3, 1, 18.</ls> <ls>KAUŚ. 90.</ls> {#ऋतसत्ये/#} 
+<ls>12, 1, 1.</ls> <ls>VS. 11, 47.</ls> <ls>AV. 7, 1, 1.</ls> <ls>TS. 3, 2, 7, 1.</ls> <ls>ŚAT. BR. 11, 2, 7, 9. 13, 3, 1, 18.</ls> <ls>KAUŚ. 90.</ls> {#ऋतसत्ये꣡#} 
 <ls>ŚAT. BR. 11, 2, 7, 9.</ls> {#त्वामेव प्रत्यक्षं ब्रह्म वदिष्यामि । ऋतं व° । सत्यं व°#} 
 <ls>TAITT. UP. 1, 1. 9.</ls> {#प\थ्या^#} oder {#पन्था^ ऋ\तस्य^#} {%der rechte Weg%}, sowohl eigentlich als vom {%rechtschaffenen Wandel%}: {#ऋ\तस्य^ प\था स\रमा^ विद\द्गाः#} 
 <ls>ṚV. 5, 45, 8.</ls> ({#उषाः#}) {#ऋ\तस्य\ पन्था\मन्वे^ति सा\धु#} 
@@ -174,7 +174,7 @@
 <ls>NAIGH. 2, 10</ls> nur in der einen Recension. — Auffallenderweise wird {#ऋत#} unter den Bezeichnungen für {#यज्ञ#} 
 <ls>NAIGH. 3, 17</ls> nicht aufgezählt, während es von den Commentatoren als synonym behandelt wird. Vgl. über {#ऋत#} ausserdem noch 
 <ls>NIR. 2, 25. 3, 4. 4, 19. 6, 22. 8, 6. 19.</ls> 
-<div n="1">— 5) {#ऋते/न#} instr. als adv. 
+<div n="1">— 5) {#ऋते꣡न#} instr. als adv. 
 <div n="2"> a) {%nach der Ordnung, gehörig, richtig; regelmässig, rite%}: {#ऋ\तेन\ स्थूणा\मधि^ रोह वंश#} 
 <ls>AV. 3, 12, 6.</ls> {#ऋ\तेन\ ये च^म\सानैर^यन्त#} 
 <ls>6, 47, 3.</ls> <ls>ṚV. 3, 31, 21.</ls> {#सु\युग्व^हन्ति\ प्रति^ वामृ\तेन^#} 

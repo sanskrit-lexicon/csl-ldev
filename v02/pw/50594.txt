@@ -1,8 +1,8 @@
-<L>50594<pc>3095-1<k1>दीर्घ<k2>दीर्घ/<e>100
-{#दीर्घ/#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ/#})
-<div n="2">— a) {%lang , weitreichend%} (im Raume). {#दीर्घ/म्#} <ab>Adv.</ab>
-<div n="2">— b) {%lang , lange dauernd.%} {#दीर्घ/म्#} und {#दीर्घतमम्#} <ab>Adv.</ab>
+<L>50594<pc>3095-1<k1>दीर्घ<k2>दीर्घ꣡<e>100
+{#दीर्घ꣡#}¦
+<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ꣡#})
+<div n="2">— a) {%lang , weitreichend%} (im Raume). {#दीर्घ꣡म्#} <ab>Adv.</ab>
+<div n="2">— b) {%lang , lange dauernd.%} {#दीर्घ꣡म्#} und {#दीर्घतमम्#} <ab>Adv.</ab>
 <div n="2">— c) {%prosodisch lang.%}
 <div n="1">— 2) <lex>m.</lex>
 <div n="2">— a) {%*Kamel%} <ls>RĀJAN. 19,21.</ls>

@@ -1,6 +1,6 @@
-<L>74060<pc>4183-1<k1>प्राञ्च्<k2>प्रा/ञ्च्<e>100
-{#प्रा/ञ्च्#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#प्रा/ची#})
+<L>74060<pc>4183-1<k1>प्राञ्च्<k2>प्रा꣡ञ्च्<e>100
+{#प्रा꣡ञ्च्#}¦
+<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#प्रा꣡ची#})
 <div n="2">— a) {%vorwärts gewandt , vorn befindlich , von vorn kommend , zugewandt.%}
 <div n="2">— b) <ab>Acc.</ab> mit {#कर्#}
 <div n="3">— α) {%herbeibringen , herbeischaffen , herzuwenden.%}
@@ -13,7 +13,7 @@
 <div n="2">— f) {%geneigt.%}
 <div n="2">— g) {%geneigt%} , so v.a. {%bereitwillig , gern Etwas thuend.%}
 <div n="2">— h) {%vormalig , der frühere.%}
-<div n="1">— 2) <ab>Adv.</ab> {#प्रा/क् (प्राङ्)#} <ls>LĀṬY. 6,8,15.</ls> <ls>KĀTY. ŚR. 2,3,24. 7,9,18.</ls> ; <ab>vgl.</ab> auch {#प्रङायत#} fggl.)
+<div n="1">— 2) <ab>Adv.</ab> {#प्रा꣡क् (प्राङ्)#} <ls>LĀṬY. 6,8,15.</ls> <ls>KĀTY. ŚR. 2,3,24. 7,9,18.</ls> ; <ab>vgl.</ab> auch {#प्रङायत#} fggl.)
 <div n="2">— a) {%vorn , voran , vor%} (im Raume , mit <ab>Abl.</ab>).
 <div n="2">— b) {%im Osten , östlich von%} (<ab>Abl.</ab>) <ls>LĀṬY. 6,8,45.</ls>
 <div n="2">— c) {%vor%} (in der Reihenfolge , mit <ab>Abl.</ab>).
@@ -24,10 +24,10 @@
 <div n="2">— h) {%*dazwischen.%}
 <div n="2">— i) {%*am frühen Morgen.%}
 <div n="2">— k) fehlerhaft für {#द्राक्#} <ls>MBH. 5,5145.</ls> <ls>MBH. ed. Bomb. 5,124,24</ls> <ls>ed. Vardh. 5,124,23.</ls>
-<div n="1">— 3) <ab>Instr.</ab> {#प्राचा/#} {%vorwärts.%}
-<div n="1">— 4) <ab>Abl.</ab> {#प्राच/स्#} {%von vorn.%}
+<div n="1">— 3) <ab>Instr.</ab> {#प्राचा꣡#} {%vorwärts.%}
+<div n="1">— 4) <ab>Abl.</ab> {#प्राच꣡स्#} {%von vorn.%}
 <div n="1">— 5) <lex>m.</lex> <ab>Pl.</ab> {%die Bewohner des Ostens , die Lehrer im Ostlande.%}
-<div n="1">— 6) <lex>f.</lex> {#प्रा/ची#}
+<div n="1">— 6) <lex>f.</lex> {#प्रा꣡ची#}
 <div n="2">— a) {%Länge , die lange Seite%} <ls>ŚULBAS. 1,31.</ls>
 <div n="2">— b) {%Osten.%} Auch {#°दिश्#}.
 <div n="2">— c) {%*der Pfosten , an den ein Elephant gebunden wird.%}

@@ -1,11 +1,11 @@
 <L>85813<pc>450,1<k1>तुज्<k2>तुज्<h>2<e>1
-<hom>2.</hom> <s>तुज्</s> ¦ <ab>cl.</ab> 6. (3.<ab>du.</ab> <ab>Ā.</ab> <s>°जेते</s>; <ab>p.</ab> <ab>P.</ab> <s>°ज/त्</s>; <ab>inf.</ab> <s>ज/से</s> and <s>तु/जे</s>; <ab>Pass.</ab> <ab>p.</ab> <s>°ज्य/मान</s>), and <s>तुञ्ज्</s> (3. <ab>pl.</ab> <ab>P.</ab> <s>°ज/न्ति</s> <ab>Ā.</ab> <s>°ज/ते</s>; <ab>p.</ab> <s>°जान/</s>, <s>तु/ञ्जान</s>, and <s>तु/ञ्जमान</s>), 
+<hom>2.</hom> <s>तुज्</s> ¦ <ab>cl.</ab> 6. (3.<ab>du.</ab> <ab>Ā.</ab> <s>°जेते</s>; <ab>p.</ab> <ab>P.</ab> <s>°ज꣡त्</s>; <ab>inf.</ab> <s>ज꣡से</s> and <s>तु꣡जे</s>; <ab>Pass.</ab> <ab>p.</ab> <s>°ज्य꣡मान</s>), and <s>तुञ्ज्</s> (3. <ab>pl.</ab> <ab>P.</ab> <s>°ज꣡न्ति</s> <ab>Ā.</ab> <s>°ज꣡ते</s>; <ab>p.</ab> <s>°जान꣡</s>, <s>तु꣡ञ्जान</s>, and <s>तु꣡ञ्जमान</s>), 
 <div n="to"/>to strike, hit, push, <ls>RV.</ls>;
-<div n="to"/>to press out (‘<s>तु/ञ्जति</s>, to give’ <ls>Naigh.</ls>; <ls>Nir.</ls>), <ls>RV. i, ix</ls>;
+<div n="to"/>to press out (‘<s>तु꣡ञ्जति</s>, to give’ <ls>Naigh.</ls>; <ls>Nir.</ls>), <ls>RV. i, ix</ls>;
 <div n="vp"/> <ab>Ā.</ab> to flow forth, <ls>iii, 1, 16</ls>;
 <div n="to"/>to instigate, incite, <ls>i, iii</ls>;
 <div n="vp"/> <ab>Pass.</ab> to be vexed, <ls>i, 11, 5</ls>: <ab>cl.</ab> 1. <s>तोजति</s>, to hurt, <ls>Dhātup. vii, 70</ls>:
-<div n="vp"/><ab>Caus.</ab> (<ab>p.</ab> <s>तुज/यत्</s>; <ab>aor.</ab> <ab>Pot.</ab> <s>तुतुज्या/त्</s>, <ab>p.</ab> <s>तू/तुजान</s> <ab>q.v.</ab>) 
+<div n="vp"/><ab>Caus.</ab> (<ab>p.</ab> <s>तुज꣡यत्</s>; <ab>aor.</ab> <ab>Pot.</ab> <s>तुतुज्या꣡त्</s>, <ab>p.</ab> <s>तू꣡तुजान</s> <ab>q.v.</ab>) 
 <div n="to"/>to promote, <ls>RV. i, 143, 6</ls>;
 <div n="to"/>to move quickly, <ls>vii, 104, 7</ls>;
 <div n="vp"/> <s>तुञ्जयति</s>, ‘to speak’ or ‘to shine’ <ls>Dhātup. xxxiii, 82</ls>;
@@ -13,5 +13,5 @@
 <div n="to"/>to be strong, <ls>ib.</ls>;
 <div n="to"/>to give or take, <ls>ib.</ls>;
 <div n="to"/>to abide, <ls>ib.</ls>;
-<div n="vp"/> <ab>cf.</ab> <s>आ-तुजि/</s>. 3.<info westergaard="tuja,7.70,01.0153;tuji,33.82,10.0195"/><info whitneyroots="tuj,63"/><info verb="genuineroot" cp="6Ā,6P,1"/>
+<div n="vp"/> <ab>cf.</ab> <s>आ-तुजि꣡</s>. 3.<info westergaard="tuja,7.70,01.0153;tuji,33.82,10.0195"/><info whitneyroots="tuj,63"/><info verb="genuineroot" cp="6Ā,6P,1"/>
 <LEND>

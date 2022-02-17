@@ -1,5 +1,5 @@
 <L>28539<pc>163,3<k1>इ<k2>इ<h>5<e>1
-<hom>5.</hom> <s>इ</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> <s>ए/ति</s> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>इहि/</s>) and 1. <ab>Ā.</ab> <ab>P.</ab> <s>अ/यति</s>, <s>अयते</s> ([<ab>cf.</ab> √ <s>अय्</s>]), (<ab>pf.</ab> <s>इयाय</s> [2. <ab>sg.</ab> <s>इय/थ</s>, <ls>AV. viii, 1, 10</ls>, and <s>इये/थ</s>, <ls>RV.</ls>] <ab>fut.</ab> <s>एष्यति</s>; <ab>aor.</ab> <s>ऐषीत्</s>; <ab>inf.</ab> <s>एतुम्</s>, <s>ए/तवे</s>, <ls>RV.</ls> and, <ls>AV.</ls>, <s>ए/तवै/</s>, <ls>RV.</ls> <s>ए/तोस्</s>, <ls>RV.</ls> <s>इत्यै/</s>, <ls>RV. i, 113, 6, 124, 1</ls>) 
+<hom>5.</hom> <s>इ</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> <s>ए꣡ति</s> (<ab>Impv.</ab> 2. <ab>sg.</ab> <s>इहि꣡</s>) and 1. <ab>Ā.</ab> <ab>P.</ab> <s>अ꣡यति</s>, <s>अयते</s> ([<ab>cf.</ab> √ <s>अय्</s>]), (<ab>pf.</ab> <s>इयाय</s> [2. <ab>sg.</ab> <s>इय꣡थ</s>, <ls>AV. viii, 1, 10</ls>, and <s>इये꣡थ</s>, <ls>RV.</ls>] <ab>fut.</ab> <s>एष्यति</s>; <ab>aor.</ab> <s>ऐषीत्</s>; <ab>inf.</ab> <s>एतुम्</s>, <s>ए꣡तवे</s>, <ls>RV.</ls> and, <ls>AV.</ls>, <s>ए꣡तवै꣡</s>, <ls>RV.</ls> <s>ए꣡तोस्</s>, <ls>RV.</ls> <s>इत्यै꣡</s>, <ls>RV. i, 113, 6, 124, 1</ls>) 
 <div n="to"/>to go, walk;
 <div n="to"/>to flow;
 <div n="to"/>to blow;
@@ -14,14 +14,14 @@
 <div n="to"/>to fall into, come to;
 <div n="to"/>to approach with prayers, gain by asking (<ab>cf.</ab> <s>इत</s>);
 <div n="to"/>to undertake anything (with <ab>acc.</ab>);
-<div n="to"/>to be employed in, go on with, continue in any condition or relation (with a <ab>part.</ab> or <ab>instr.</ab> <ab>e.g.</ab> <s>असुर-रक्षसानि मृद्यमानानि यन्ति</s>, ‘the <s1 slp1="asura">Asura</s1>s and Rakshases are being continually crushed’ <ls>ŚBr. i, 1, 4, 14</ls>; <s>गवामयनेने<स्र्स्/>युः</s>, ‘they, were engaged in the [festival called] <s1 slp1="gavAmayana">Gavāmayana</s1>’ <ls>KātyŚr. xxv, 5, 2</ls>);
+<div n="to"/>to be employed in, go on with, continue in any condition or relation (with a <ab>part.</ab> or <ab>instr.</ab> <ab>e.g.</ab> <s>असुर-रक्षसानि मृद्यमानानि यन्ति</s>, ‘the <s1 slp1="asura">Asura</s1>s and Rakshases are being continually crushed’ <ls>ŚBr. i, 1, 4, 14</ls>; <s>गवामयनेने<स्र्स्꣡>युः</s>, ‘they, were engaged in the [festival called] <s1 slp1="gavAmayana">Gavāmayana</s1>’ <ls>KātyŚr. xxv, 5, 2</ls>);
 <div n="to"/>to appear, be, <ls>KaṭhUp.</ls> :
-<div n="vp"/><ab>Intens.</ab> <ab>Ā.</ab> <s>ई/यते</s> (<ls>RV. i, 30, 18</ls>; <ab>p.</ab> <s>इयान/</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>इय/ध्यै</s>, <ls>RV. vi, 20, 8</ls>) 
+<div n="vp"/><ab>Intens.</ab> <ab>Ā.</ab> <s>ई꣡यते</s> (<ls>RV. i, 30, 18</ls>; <ab>p.</ab> <s>इयान꣡</s>, <ls>RV.</ls>; <ab>inf.</ab> <s>इय꣡ध्यै</s>, <ls>RV. vi, 20, 8</ls>) 
 <div n="to"/>to go quickly or repeatedly;
 <div n="to"/>to come, wander, run, spread, get about, <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>;
 <div n="to"/>to appear, make one's appearance, <ls>RV.</ls>; <ls>AV.</ls>; <ls>BṛĀrUp.</ls>;
 <div n="to"/>to approach any one with requests (with two <ab>acc.</ab>), ask, request, <ls>RV.</ls>; <ls>AV.</ls>:
-<div n="vp"/><ab>Pass.</ab> <s>ई/यते</s>, to be asked or requested, <ls>RV.</ls>:
+<div n="vp"/><ab>Pass.</ab> <s>ई꣡यते</s>, to be asked or requested, <ls>RV.</ls>:
 <div n="vp"/><ab>Caus.</ab> <s>आययति</s>, to cause to go or escape, <ls>Vop.</ls>;
 <div n="vp"/> <info whitneyroots="i1,7"/><info verb="genuineroot" cp="2P,2Ā"/>
 <LEND>

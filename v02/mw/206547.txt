@@ -1,10 +1,10 @@
-<L>206547<pc>1019,3<k1>वै<k2>वै/<h>2<e>1
-<hom>2.</hom> <s>वै/</s> ¦ <lex>ind.</lex> a particle of emphasis and affirmation, generally placed <i>after</i> a word and laying stress on it (it is usually translatable by ‘indeed’, ‘truly’, ‘certainly’, ‘verily’, ‘just’ &c.;
+<L>206547<pc>1019,3<k1>वै<k2>वै꣡<h>2<e>1
+<hom>2.</hom> <s>वै꣡</s> ¦ <lex>ind.</lex> a particle of emphasis and affirmation, generally placed <i>after</i> a word and laying stress on it (it is usually translatable by ‘indeed’, ‘truly’, ‘certainly’, ‘verily’, ‘just’ &c.;
 it is very rare in the <ls>RV.</ls>;
 more frequent in the <ls>AV.</ls>, and very common in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s and in works that imitate their style;
 in the <s1 slp1="sUtra">Sūtra</s1>s it is less frequent and almost restricted to the combination <s>यद्य् उ वै</s>;
-in <s1 slp1="manu">Manu</s1>, <ls>MBh.</ls> and the <s1 slp1="kAvya">Kāvya</s1>s it mostly appears at the end of a line, and as a mere expletive. In <ls>RV.</ls> it is frequently followed by <s>उ</s> in the combination <s>वा/ उ</s> [both particles are separated, <ls>v, 18, 3</ls>] <pb n="1020,1"/>;
-it is also preceded by <s>उ</s> and various other particles <ab>e.g.</ab> by <s>इ/द्</s>, <s>अ/ह</s>, <s>उत/</s>;
+in <s1 slp1="manu">Manu</s1>, <ls>MBh.</ls> and the <s1 slp1="kAvya">Kāvya</s1>s it mostly appears at the end of a line, and as a mere expletive. In <ls>RV.</ls> it is frequently followed by <s>उ</s> in the combination <s>वा꣡ उ</s> [both particles are separated, <ls>v, 18, 3</ls>] <pb n="1020,1"/>;
+it is also preceded by <s>उ</s> and various other particles <ab>e.g.</ab> by <s>इ꣡द्</s>, <s>अ꣡ह</s>, <s>उत꣡</s>;
 in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s it often follows <s>ह</s>, <s>ह स्म</s>, <s>एव</s>;
 in later language <s>अपि</s> and <s>तु</s>. <ab n="According">Accord.</ab> to some it is also a vocative particle). <info lex="ind"/>
 <LEND>

@@ -1,8 +1,8 @@
 <L>80523<pc>426,3<k1>ज्या<k2>ज्या<h>1<e>1
-<hom>1.</hom> <s>ज्या</s> ¦ (<ab>cf.</ab> √ <s>जि</s>) <ab>cl.</ab> 9. <ab>P.</ab> <s>जिना/ति</s> (<ab>Pot.</ab> <s>°नीया/त्</s>; <ab>p.</ab> <s>°न/त्</s>; <ab>pf.</ab> <s>जिज्यौ/</s>; <ab>fut.</ab> <s>ज्यास्यति</s>, <ls>Pāṇ. vi, 1, 16 f.</ls>; <ab>ind.p.</ab> <s>-ज्याय</s>, <ls>42</ls>) <ab>Ved.</ab> to overpower, oppress, deprive any one (<ab>acc.</ab>) of property (<ab>acc.</ab>), <ls>RV.</ls>; <ls>AV.</ls> &c.;
-<div n="to"/> (derived <ab>fr.</ab> <s>ज्या/यस्</s>, ‘senior’) to become old, <ls>Dhātup. xxxi, 29</ls> : <ab>cl.</ab> 4. <ab>Ā.</ab> <s>जी/यते</s> or <ab>Pass.</ab> <s>°य/ते</s>, <ab>Ved.</ab> to be oppressed or treated badly, be deprived of property (or everything, <s>सर्व-ज्यानि/म्</s>, <ls>TS. vii</ls>), <ls>RV.</ls> &c.:
+<hom>1.</hom> <s>ज्या</s> ¦ (<ab>cf.</ab> √ <s>जि</s>) <ab>cl.</ab> 9. <ab>P.</ab> <s>जिना꣡ति</s> (<ab>Pot.</ab> <s>°नीया꣡त्</s>; <ab>p.</ab> <s>°न꣡त्</s>; <ab>pf.</ab> <s>जिज्यौ꣡</s>; <ab>fut.</ab> <s>ज्यास्यति</s>, <ls>Pāṇ. vi, 1, 16 f.</ls>; <ab>ind.p.</ab> <s>-ज्याय</s>, <ls>42</ls>) <ab>Ved.</ab> to overpower, oppress, deprive any one (<ab>acc.</ab>) of property (<ab>acc.</ab>), <ls>RV.</ls>; <ls>AV.</ls> &c.;
+<div n="to"/> (derived <ab>fr.</ab> <s>ज्या꣡यस्</s>, ‘senior’) to become old, <ls>Dhātup. xxxi, 29</ls> : <ab>cl.</ab> 4. <ab>Ā.</ab> <s>जी꣡यते</s> or <ab>Pass.</ab> <s>°य꣡ते</s>, <ab>Ved.</ab> to be oppressed or treated badly, be deprived of property (or everything, <s>सर्व-ज्यानि꣡म्</s>, <ls>TS. vii</ls>), <ls>RV.</ls> &c.:
 <div n="to"/><ab>Caus.</ab> <s>ज्यापयति</s>, to call any one old, <ls>Pāṇ. iii, 1, 21</ls>; <ls>Siddh. 46</ls> :
-<div n="to"/><ab>Desid.</ab> (<ab>p.</ab> <s>जि/ज्यासत्</s>) to wish to overpower, <ls>RV. x, 152, 5</ls> :
+<div n="to"/><ab>Desid.</ab> (<ab>p.</ab> <s>जि꣡ज्यासत्</s>) to wish to overpower, <ls>RV. x, 152, 5</ls> :
 <div n="vp"/><ab>Intens.</ab> <s>जेजीयते</s>, <ls>Pāṇ. vi, 1, 16</ls>; <ls>Kāś.</ls>;
 <div n="vp"/> <ab>cf.</ab> <s>परि-</s>;
 <div n="vp"/> <lang n="greek">βιάω</lang>.<info westergaard="jyA,31.29,09.0031"/><info whitneyroots="jyA,56"/><info verb="genuineroot" cp="9P,4Ā"/>
