@@ -1,6 +1,6 @@
 <L>3729<pc>122<k1>civil<k2>civil
-<div n="lb"/>{@CIVIL:@}¦ <div n="I">I Polite: q. v. </div><div n="I">II Civic: </div><div n="1">(1) {#पौरः#}
-<div n="lb"/>({#री, रं#}); </div><div n="1">(2) {#नागरः#} ({#री, रं#}). Ph.: {%c. war:%}
-<div n="lb"/>{#*अन्तर्यूद्धम्#} {%or%} sim. {#युद्धम्#} (when the sense is
-<div n="lb"/>clear); <div n="xe">{%c. death:%}</div> <div n="xs">{#*वैधमृत्युः।#}</div></div>
+{@CIVIL:@}¦ <div n="I">I Polite: q. v. </div><div n="I">II Civic: </div><div n="1">(1) {#पौरः#}
+({#री, रं#}); </div><div n="1">(2) {#नागरः#} ({#री, रं#}). Ph.: {%c. war:%}
+{#*अन्तर्यूद्धम्#} {%or%} sim. {#युद्धम्#} (when the sense is
+clear); <div n="xe">{%c. death:%}</div> <div n="xs">{#*वैधमृत्युः।#}</div></div>
 <LEND>

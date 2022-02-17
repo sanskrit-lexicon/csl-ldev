@@ -1,5 +1,5 @@
 <L>5680<pc>182<k1>definite<k2>definite
-<div n="lb"/>{@DEFINITE:@}¦ <div n="1">(1) {#निश्चितः#} ({#ता, तं#}): v. Certain;</div>
-<div n="lb"/><div n="1">(2) {#स्थिथरः#} ({#रा, रं#}): v. Fixed. Ph.: <div n="xe">{%the d.%}
-<div n="lb"/>{%article:%}</div> <div n="xs">{#*विशेष्यनिर्द्धारकमव्ययम्।#}</div></div>
+{@DEFINITE:@}¦ <div n="1">(1) {#निश्चितः#} ({#ता, तं#}): v. Certain;</div>
+<div n="1">(2) {#स्थिथरः#} ({#रा, रं#}): v. Fixed. Ph.: <div n="xe">{%the d.%}
+{%article:%}</div> <div n="xs">{#*विशेष्यनिर्द्धारकमव्ययम्।#}</div></div>
 <LEND>

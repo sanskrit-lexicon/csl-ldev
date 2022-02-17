@@ -1,6 +1,6 @@
 <L>4290<pc>139<k1>concern<k2>concern
-<div n="lb"/>{@CONCERN@}¦ (subs.): <div n="I">I Affairs, business: q. v.:
-<div n="lb"/>{#व्यापारः#} </div><div n="I">II Care, anxiety: q. v.: {#चिन्ता।#}
-<div n="lb"/>Ph.: <div n="xe">{%with much c.:%}</div> <div n="xs">{#सोद्वेगम्,#}</div> Mu. </div><div n="I">III A firm:
-<div n="lb"/>{#सम्प्रदायः#} (?)</div>
+{@CONCERN@}¦ (subs.): <div n="I">I Affairs, business: q. v.:
+{#व्यापारः#} </div><div n="I">II Care, anxiety: q. v.: {#चिन्ता।#}
+Ph.: <div n="xe">{%with much c.:%}</div> <div n="xs">{#सोद्वेगम्,#}</div> Mu. </div><div n="I">III A firm:
+{#सम्प्रदायः#} (?)</div>
 <LEND>

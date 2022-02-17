@@ -1,4 +1,4 @@
 <L>20135<pc>627<k1>senatorial<k2>senatorial
-<div n="lb"/>{@SENATORIAL:@}¦ expr. by comp., <div n="xe">{%s. robe:%}</div> <div n="xs">{#सचिव-#}
-<div n="lb"/>{#वेषः#}</div> (?).
+{@SENATORIAL:@}¦ expr. by comp., <div n="xe">{%s. robe:%}</div> <div n="xs">{#सचिव-#}
+{#वेषः#}</div> (?).
 <LEND>

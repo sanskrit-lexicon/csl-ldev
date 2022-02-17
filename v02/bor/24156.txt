@@ -1,23 +1,23 @@
 <L>24156<pc>755<k1>way<k2>way
-<div n="lb"/>{@WAY:@}¦ <div n="I">I Road: </div><div n="1">(1) {#मार्गः,#} <div n="xe">{%to give w.:%}</div> <div n="xs">{#मार्गं #}
-<div n="lb"/>{# ददाति,#}</div> Mr. x.; <div n="xe">{%to lead the w.:%}</div> <div n="xs">{#मार्गमादिशति,#}</div>
-<div n="lb"/>Sa. v.; </div><div n="1">(2) {#पन्थाः,#} <div n="xe">{%tell me the w. which leads to%}
-<div n="lb"/>{%the hermitage of Agastya:%}</div> <div n="xs">{#अगस्त्याश्रमस्य पन्थानं ब्रूहि,#}</div>
-<div n="lb"/>U. ii.; <div n="xe">{%tread in improper w. s.:%}</div> <div n="xs">{#अपथे पदमर्पयन्ति,#}</div>
-<div n="lb"/>R. ix. 74.; </div><div n="1">(3) {#अध्वन्#} (m.), {%going a little w.:%}
-<div n="lb"/>{#गत्वा कञ्चिदध्वानम्,#} K.; {%accidentally in the w.:%}
-<div n="lb"/>{#अध्वनि दैवयोगात्,#} R. v. 60.; </div><div n="1">(4) {#वर्त्मन्#} (n.), <div n="xe">{%one%}
-<div n="lb"/>{%who has lost his w.:%}</div> <div n="xs">{#प्रनष्टवर्त्मन्#}</div> (mfn.), K.;
-<div n="lb"/><div n="xe">{%women go the w. of their husbands:%}</div> <div n="xs">{#प्रमदाः पति-#}</div> [Page756]
-<div n="lb"/>{#वर्त्मगाः,#} Ku. iv. 33. Ph.: <div n="xe">{%I have come such a%}
-<div n="lb"/>{%long w.:%}</div> <div n="xs">{#एतावतीं भूमिभायातः,#}</div> K.; <div n="xe">{%this w. your%}
-<div n="lb"/>{%majesty:%}</div> <div n="xs">{#इतो इतो देवी,#}</div> V. ii.; {%did you not see%}
-<div n="lb"/>({%meet%}) <div n="xe">{%the Queen on the w.:%}</div> <div n="xs">{#न खल्वन्तरे त्वया #}
-<div n="lb"/>{# दृष्टा देवी,#}</div> Sa. vi.; <div n="xe">{%make w.:%}</div> <div n="xs">{#अन्तरमन्तरम्,#}</div> Mr.
-<div n="lb"/>x.; <div n="xe">{%which w. is the wretch gone:%}</div> <div n="xs">{#कतमेन दिग्वि-#}
-<div n="lb"/>{#भागेन गतः स जाल्मः ?#}</div> V. i.; <div n="xe">{%right of w.:%}</div> <div n="xs">{#गमनाधि-#}
-<div n="lb"/>{#कारः।#}</div> </div><div n="I">II Device: q. v.: {#उपायः।#} </div><div n="I">III Manner,
-<div n="lb"/>method: q. v.: {#प्रकारः।#} Miscell.: <div n="xe">{%in two,%}
-<div n="lb"/>{%three, many w. s:%}</div> <div n="xs">{#द्विधा, त्रिधा, बहुधा;#}</div> <div n="xe">{%by w. of%}
-<div n="lb"/>{%illustration:%}</div> <div n="xs">{#निदर्शनरूपेण।#}</div></div>
+{@WAY:@}¦ <div n="I">I Road: </div><div n="1">(1) {#मार्गः,#} <div n="xe">{%to give w.:%}</div> <div n="xs">{#मार्गं #}
+{# ददाति,#}</div> Mr. x.; <div n="xe">{%to lead the w.:%}</div> <div n="xs">{#मार्गमादिशति,#}</div>
+Sa. v.; </div><div n="1">(2) {#पन्थाः,#} <div n="xe">{%tell me the w. which leads to%}
+{%the hermitage of Agastya:%}</div> <div n="xs">{#अगस्त्याश्रमस्य पन्थानं ब्रूहि,#}</div>
+U. ii.; <div n="xe">{%tread in improper w. s.:%}</div> <div n="xs">{#अपथे पदमर्पयन्ति,#}</div>
+R. ix. 74.; </div><div n="1">(3) {#अध्वन्#} (m.), {%going a little w.:%}
+{#गत्वा कञ्चिदध्वानम्,#} K.; {%accidentally in the w.:%}
+{#अध्वनि दैवयोगात्,#} R. v. 60.; </div><div n="1">(4) {#वर्त्मन्#} (n.), <div n="xe">{%one%}
+{%who has lost his w.:%}</div> <div n="xs">{#प्रनष्टवर्त्मन्#}</div> (mfn.), K.;
+<div n="xe">{%women go the w. of their husbands:%}</div> <div n="xs">{#प्रमदाः पति-#}</div> [Page756]
+{#वर्त्मगाः,#} Ku. iv. 33. Ph.: <div n="xe">{%I have come such a%}
+{%long w.:%}</div> <div n="xs">{#एतावतीं भूमिभायातः,#}</div> K.; <div n="xe">{%this w. your%}
+{%majesty:%}</div> <div n="xs">{#इतो इतो देवी,#}</div> V. ii.; {%did you not see%}
+({%meet%}) <div n="xe">{%the Queen on the w.:%}</div> <div n="xs">{#न खल्वन्तरे त्वया #}
+{# दृष्टा देवी,#}</div> Sa. vi.; <div n="xe">{%make w.:%}</div> <div n="xs">{#अन्तरमन्तरम्,#}</div> Mr.
+x.; <div n="xe">{%which w. is the wretch gone:%}</div> <div n="xs">{#कतमेन दिग्वि-#}
+{#भागेन गतः स जाल्मः ?#}</div> V. i.; <div n="xe">{%right of w.:%}</div> <div n="xs">{#गमनाधि-#}
+{#कारः।#}</div> </div><div n="I">II Device: q. v.: {#उपायः।#} </div><div n="I">III Manner,
+method: q. v.: {#प्रकारः।#} Miscell.: <div n="xe">{%in two,%}
+{%three, many w. s:%}</div> <div n="xs">{#द्विधा, त्रिधा, बहुधा;#}</div> <div n="xe">{%by w. of%}
+{%illustration:%}</div> <div n="xs">{#निदर्शनरूपेण।#}</div></div>
 <LEND>

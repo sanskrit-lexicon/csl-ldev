@@ -1,5 +1,5 @@
 <L>7544<pc>238<k1>encroachment<k2>encroachment
-<div n="lb"/>{@ENCROACHMENT:@}¦ <div n="1">(1) {#ग्रहणम्#} (= seizing); </div><div n="1">(2)
-<div n="lb"/>{#अन्यायप्रवेशः#} (= unlawful entry). Ph.: <div n="xe">{%e. of a%}
-<div n="lb"/>{%river:%}</div> <div n="xs">{#नदीसञ्चारः,#}</div> Viv.</div>
+{@ENCROACHMENT:@}¦ <div n="1">(1) {#ग्रहणम्#} (= seizing); </div><div n="1">(2)
+{#अन्यायप्रवेशः#} (= unlawful entry). Ph.: <div n="xe">{%e. of a%}
+{%river:%}</div> <div n="xs">{#नदीसञ्चारः,#}</div> Viv.</div>
 <LEND>

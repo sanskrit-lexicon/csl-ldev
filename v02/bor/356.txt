@@ -1,7 +1,7 @@
 <L>356<pc>014<k1>advert to<k2>advert to
-<div n="lb"/>{@ADVERT TO:@}¦ <div n="1">(1) {#उदाहरति#} ({#हृ,#} c. 1.): <div n="xe">{%if in%}
-<div n="lb"/>{%course of conversation, people were to a. your%}
-<div n="lb"/>{%name%}</div> <div n="xs">{#कथाप्रसङ्गे न जनैरुदाहृतात् तवाभिधानात्,#}</div> Ki. i.
-<div n="lb"/>24; </div><div n="1">(2) {#उत्-लिखति#} ({#लिख्,#} c. 6): v. To
-<div n="lb"/>notice, allude.</div>
+{@ADVERT TO:@}¦ <div n="1">(1) {#उदाहरति#} ({#हृ,#} c. 1.): <div n="xe">{%if in%}
+{%course of conversation, people were to a. your%}
+{%name%}</div> <div n="xs">{#कथाप्रसङ्गे न जनैरुदाहृतात् तवाभिधानात्,#}</div> Ki. i.
+24; </div><div n="1">(2) {#उत्-लिखति#} ({#लिख्,#} c. 6): v. To
+notice, allude.</div>
 <LEND>

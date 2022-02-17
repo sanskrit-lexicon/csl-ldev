@@ -1,5 +1,5 @@
 <L>10594<pc>333<k1>handwriting<k2>handwriting
-<div n="lb"/>{@HANDWRITING:@}¦ <div n="1">(1) {#हस्ताक्षरम्;#} </div><div n="1">(2) {#हस्तलिखितम्।#}
-<div n="lb"/><div n="xe">{%Agreement of h.:%}</div> <div n="xs">{#हस्तसंवादः,#}</div> Mu. <div n="xe">{%v. Is this the h.%}
-<div n="lb"/>{%of Śakaṭa Dāsa:%}</div> <div n="xs">{#किं शकटदासेन लिखितम्#}</div> (?), Mu.</div>
+{@HANDWRITING:@}¦ <div n="1">(1) {#हस्ताक्षरम्;#} </div><div n="1">(2) {#हस्तलिखितम्।#}
+<div n="xe">{%Agreement of h.:%}</div> <div n="xs">{#हस्तसंवादः,#}</div> Mu. <div n="xe">{%v. Is this the h.%}
+{%of Śakaṭa Dāsa:%}</div> <div n="xs">{#किं शकटदासेन लिखितम्#}</div> (?), Mu.</div>
 <LEND>

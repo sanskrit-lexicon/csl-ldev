@@ -1,13 +1,13 @@
 <L>5112<pc>110-a<k1>command<k2>command
-<div n="lb"/>COMMAND¦, {%s.%} (Order) {#आज्ञा, आदेशः, आज्ञप्तिः, निदेशः, निर्देशः, नियोगः,#}
-<div n="lb"/>{#शासनं, शास्तिः#} {%f.,%} {#शिष्टिः#} {%f.,%} {#चोदनं, वचनं, प्रयुक्तिः#} {%f.,%} {#नियमः, प्रेरणं#}
-<div n="lb"/>{#-णा, मतं, अववादः;#} ‘obedient to commands,’ {#आज्ञाकरः -री -रं;#}
-<div n="lb"/>‘word of command,’ {#निदेशः#}. — (Authority, power, right of
-<div n="lb"/>commanding) {#अधिकारः, अधिकारित्वं, प्रभावः, प्रभुत्वं, आधिपत्यं,#}
-<div n="lb"/>{#अध्यक्षता, अधिष्ठातृत्वं#}. — (Subjection) {#वशं, अधीनता#}. — (Command
-<div n="lb"/>of an army) {#सैनापत्यं;#} ‘under one's command,’ {#वशीकृतः#}
-<div n="lb"/>{#-ता -तं, वशीभूतः -ता -तं, वशङ्गतः -ता -तं, स्वाधीनः -ना -नं;#} ‘to
-<div n="lb"/>bring any thing under one's command,’ {#आत्मवशं नेतुं;#}
-<div n="lb"/>‘self-command,’ {#आत्मसंयमः, अन्तर्यमनं#}. Particles of com-
-<div n="lb"/>mand, {#परं, परमं#}.
+COMMAND¦, {%s.%} (Order) {#आज्ञा, आदेशः, आज्ञप्तिः, निदेशः, निर्देशः, नियोगः,#}
+{#शासनं, शास्तिः#} {%f.,%} {#शिष्टिः#} {%f.,%} {#चोदनं, वचनं, प्रयुक्तिः#} {%f.,%} {#नियमः, प्रेरणं#}
+{#-णा, मतं, अववादः;#} ‘obedient to commands,’ {#आज्ञाकरः -री -रं;#}
+‘word of command,’ {#निदेशः#}. — (Authority, power, right of
+commanding) {#अधिकारः, अधिकारित्वं, प्रभावः, प्रभुत्वं, आधिपत्यं,#}
+{#अध्यक्षता, अधिष्ठातृत्वं#}. — (Subjection) {#वशं, अधीनता#}. — (Command
+of an army) {#सैनापत्यं;#} ‘under one's command,’ {#वशीकृतः#}
+{#-ता -तं, वशीभूतः -ता -तं, वशङ्गतः -ता -तं, स्वाधीनः -ना -नं;#} ‘to
+bring any thing under one's command,’ {#आत्मवशं नेतुं;#}
+‘self-command,’ {#आत्मसंयमः, अन्तर्यमनं#}. Particles of com-
+mand, {#परं, परमं#}.
 <LEND>

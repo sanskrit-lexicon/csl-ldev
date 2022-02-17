@@ -12,12 +12,12 @@
 <ls>MED. bh. 9.</ls> <ls>HALĀY. 2, 410. 5, 27. 74.</ls> <ls>TS. 3, 3, 2, 2.</ls> {#शोभार्थम्#} 
 <ls>MBH. 2, 70.</ls> {#न शोभार्थाविमौ बाहू#} 
 <ls>R. 2, 23, 31.</ls> {#चक्रे शोभां पराम्#} 
-<ls>R. GORR. 2, 5, 10.</ls> <ls>MEGH. 53. 60.</ls> <ls>RAGH. 2, 27. 16, 59.</ls> <ls>ŚĀK. 18.</ls> <ls>Spr. (II) 1592. 3790.</ls> <ls>KATHĀS. 25, 171. 34, 15. 43, 215. 46, 175.</ls> <ls>RĀJA-TAR. 5, 346.</ls> <ls>PAÑCAR. 1, 1, 78</ls> ({#शोभा#} vom Folgenden zu trennen). 
+<ls>R. GORR. 2, 5, 10.</ls> <ls>MEGH. 53. 60.</ls> <ls>RAGH. 2, 27. 16, 59.</ls> <ls>ŚĀK. 18.</ls> <ls>Spr. (II) 1592.</ls> <ls n="Spr. (II)">3790.</ls> <ls>KATHĀS. 25, 171. 34, 15. 43, 215. 46, 175.</ls> <ls>RĀJA-TAR. 5, 346.</ls> <ls>PAÑCAR. 1, 1, 78</ls> ({#शोभा#} vom Folgenden zu trennen). 
 <ls>2, 6, 23.</ls> <ls>BHAṬṬ. 2, 14.</ls> {#शोभां न बिभर्ति#} von einem Argument so v. a. {%sich übel ausnehmen%} 
 <ls>SARVADARŚANAS. 130, 10.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) 
 <ls>R. 2, 71, 36.</ls> 
 <ls>RAGH. 9, 80.</ls> 
-<ls>Spr. (II) 347. 4896.</ls> 
+<ls>Spr. (II) 347.</ls> <ls n="Spr. (II)">4896.</ls> 
 <ls>VARĀH. BṚH. S. 24, 17.</ls> 
 <ls>KATHĀS. 24, 72.</ls> 
 <ls>RĀJA-TAR. 4, 111.</ls> 
@@ -38,8 +38,8 @@
 <ls>VARĀH. BṚH. S. 52, 2.</ls> 
 <div n="2">— c) {%Wunsch%} ({#इच्छा#}) 
 <ls>MED.</ls> 
-<div n="2">— d) {%ein best. Metrum: 4 Mal%} ˘ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ˘ ¯, ¯ ˘ ¯ ¯ ˘ ¯ ¯  
-<ls>COLEBR. Misc. Ess. 2, 163</ls> <ls>?(XV, 3). CHANDOM. 111.</ls> 
+<div n="2">— d) {%ein best. Metrum: 4 Mal%} ˘ ¯ ¯ ¯ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ˘ ¯, ¯ ˘ ¯ ¯ ˘ ¯ ¯ 
+<ls>COLEBR. Misc. Ess. 2, 163</ls> (<ls>XV, 3).</ls> <ls>CHANDOM. 111.</ls> 
 <div n="2">— e) {%Gelbwurz%} und = {#गोरोचना#} ({%ein gelbes Pigment%}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— f) N. pr. einer Hirtin 

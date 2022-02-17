@@ -1,5 +1,5 @@
 <L>8947<pc>283<k1>fleet<k2>fleet
-<div n="lb"/>{@FLEET@}¦ (v.): <div n="I">I To fly swiftly: {#जवेन#} <div n="xe">{%or%}</div> <div n="xs">{#द्रुतं प्रसर्पति#}</div>
-<div n="lb"/>({#सृप्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#चलति#}</div> ({#चल्,#} c. 1.) etc. </div><div n="I">II To
-<div n="lb"/>skim: q.v.</div>
+{@FLEET@}¦ (v.): <div n="I">I To fly swiftly: {#जवेन#} <div n="xe">{%or%}</div> <div n="xs">{#द्रुतं प्रसर्पति#}</div>
+({#सृप्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#चलति#}</div> ({#चल्,#} c. 1.) etc. </div><div n="I">II To
+skim: q.v.</div>
 <LEND>

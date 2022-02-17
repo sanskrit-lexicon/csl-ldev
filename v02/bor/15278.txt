@@ -1,5 +1,5 @@
 <L>15278<pc>467<k1>navigable<k2>navigable
-<div n="lb"/>{@NAVIGABLE:@}¦ <div n="1">(1) {#नाव्यः#} ({#व्या, व्यं#}) <div n="xe">{%made n.%}
-<div n="lb"/>{%rivers fordable:%}</div> <div n="xs">{#नाव्या नदीः सुप्रतराश्चकार,#}</div> R. iv.
-<div n="lb"/>31.; </div><div n="1">(2) {#नौतार्य#} (f. {#र्या#}), <ls>A.</ls></div>
+{@NAVIGABLE:@}¦ <div n="1">(1) {#नाव्यः#} ({#व्या, व्यं#}) <div n="xe">{%made n.%}
+{%rivers fordable:%}</div> <div n="xs">{#नाव्या नदीः सुप्रतराश्चकार,#}</div> R. iv.
+31.; </div><div n="1">(2) {#नौतार्य#} (f. {#र्या#}), <ls>A.</ls></div>
 <LEND>

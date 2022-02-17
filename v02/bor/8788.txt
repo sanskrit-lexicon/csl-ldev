@@ -1,5 +1,5 @@
 <L>8788<pc>278<k1>finite<k2>finite
-<div n="lb"/>{@FINITE:@}¦ <div n="1">(1) {#परिच्छेद्य#} (f. {#द्या#}); </div><div n="1">(2) {#प्रमेयः#} ({#या, #}
-<div n="lb"/>{# यं#}) (-measurable); </div><div n="1">(3) {#निरूपणीयः#} ({#या, यं#})
-<div n="lb"/>(what can be ascertained).</div>
+{@FINITE:@}¦ <div n="1">(1) {#परिच्छेद्य#} (f. {#द्या#}); </div><div n="1">(2) {#प्रमेयः#} ({#या, #}
+{# यं#}) (-measurable); </div><div n="1">(3) {#निरूपणीयः#} ({#या, यं#})
+(what can be ascertained).</div>
 <LEND>

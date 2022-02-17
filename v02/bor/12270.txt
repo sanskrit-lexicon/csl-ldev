@@ -1,8 +1,8 @@
 <L>12270<pc>381<k1>injure<k2>injure
-<div n="lb"/>{@INJURE:@}¦ <div n="1">(1) {#अपकरोति#} ({#कृ,#} c. 8.); </div><div n="1">(2) {#क्षतं #}
-<div n="lb"/>{# करोति,#} Kat.; </div><div n="1">(3) {#पीडयति#} ({#पीड्,#} c. 10.), <div n="xe">{%who%}
-<div n="lb"/>{%i. their own nest-trees:%}</div> <div n="xs">{#निजनीडद्रुमपीडिनः,#}</div> N.; </div><div n="1">(4)
-<div n="lb"/>{#हिनस्ति#} ({#हिंस्,#} c. 7.) (a much stronger
-<div n="lb"/>term: often = to kill), <div n="xe">{%he i. s all enemies of%}
-<div n="lb"/>{%the Vedas:%}</div> <div n="xs">{#ब्रह्मद्विषो ह्ये ष हिनस्ति सर्वान्,#}</div> Vi. i. 62.</div>
+{@INJURE:@}¦ <div n="1">(1) {#अपकरोति#} ({#कृ,#} c. 8.); </div><div n="1">(2) {#क्षतं #}
+{# करोति,#} Kat.; </div><div n="1">(3) {#पीडयति#} ({#पीड्,#} c. 10.), <div n="xe">{%who%}
+{%i. their own nest-trees:%}</div> <div n="xs">{#निजनीडद्रुमपीडिनः,#}</div> N.; </div><div n="1">(4)
+{#हिनस्ति#} ({#हिंस्,#} c. 7.) (a much stronger
+term: often = to kill), <div n="xe">{%he i. s all enemies of%}
+{%the Vedas:%}</div> <div n="xs">{#ब्रह्मद्विषो ह्ये ष हिनस्ति सर्वान्,#}</div> Vi. i. 62.</div>
 <LEND>

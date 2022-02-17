@@ -1,14 +1,14 @@
 <L>6222<pc>200<k1>direction<k2>direction
-<div n="lb"/>{@DIRECTION:@}¦ <div n="I">I Management, guidance,
-<div n="lb"/>command: q. v. </div><div n="I">II Order, prescription:
-<div n="lb"/>q. v.: {#नियोगः,#} {%by the d. of%} ({%her%}) <div n="xe">{%superior:%}</div> <div n="xs">{#गुरो-#}
-<div n="lb"/>{#र्नियोगात्,#}</div> Ku. </div><div n="I">III Line of motion: {#दिश्#} (f.),
-<div n="lb"/><div n="xe">{%in whichever d. the eye is thrown:%}</div> <div n="xs">{#यस्यां यस्यां #}
-<div n="lb"/>{# दिशि विक्षिप्यते चक्षुः,#}</div> K.; <div n="xe">{%in whatever d. the%}
-<div n="lb"/>{%will of Providence runs:%}</div> <div n="xs">{#यया दिशा धावति #}
-<div n="lb"/>{# वेधसः स्पृहा,#}</div> N.; <div n="xe">{%in every d.:%}</div> <div n="xs">{#प्रतिदिशम्,#}</div> Ki.;
-<div n="lb"/><div n="xe">{%cast his eyes in that d.:%}</div> <div n="xs">{#तामेव दिशं चक्षुः प्राहिणोत्,#}</div>
-<div n="lb"/>K.: </div><div n="I">IV The name and residence of a
-<div n="lb"/>person: {#नामधामनी#} (n. du.). A board of
-<div n="lb"/>directors: {#नायकवर्गः#} (?).</div>
+{@DIRECTION:@}¦ <div n="I">I Management, guidance,
+command: q. v. </div><div n="I">II Order, prescription:
+q. v.: {#नियोगः,#} {%by the d. of%} ({%her%}) <div n="xe">{%superior:%}</div> <div n="xs">{#गुरो-#}
+{#र्नियोगात्,#}</div> Ku. </div><div n="I">III Line of motion: {#दिश्#} (f.),
+<div n="xe">{%in whichever d. the eye is thrown:%}</div> <div n="xs">{#यस्यां यस्यां #}
+{# दिशि विक्षिप्यते चक्षुः,#}</div> K.; <div n="xe">{%in whatever d. the%}
+{%will of Providence runs:%}</div> <div n="xs">{#यया दिशा धावति #}
+{# वेधसः स्पृहा,#}</div> N.; <div n="xe">{%in every d.:%}</div> <div n="xs">{#प्रतिदिशम्,#}</div> Ki.;
+<div n="xe">{%cast his eyes in that d.:%}</div> <div n="xs">{#तामेव दिशं चक्षुः प्राहिणोत्,#}</div>
+K.: </div><div n="I">IV The name and residence of a
+person: {#नामधामनी#} (n. du.). A board of
+directors: {#नायकवर्गः#} (?).</div>
 <LEND>

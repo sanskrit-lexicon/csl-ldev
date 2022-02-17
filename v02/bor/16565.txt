@@ -1,4 +1,4 @@
 <L>16565<pc>508<k1>patience<k2>patience
-<div n="lb"/>{@PATIENCE:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#क्षमा;#} </div><div n="1">(2) {#तितिक्षा;#}</div>
-<div n="lb"/><div n="1">(3) {#सहिष्णुता।#} </div><div n="I">II Perseverance: {#अभियोगः।#}</div>
+{@PATIENCE:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#क्षमा;#} </div><div n="1">(2) {#तितिक्षा;#}</div>
+<div n="1">(3) {#सहिष्णुता।#} </div><div n="I">II Perseverance: {#अभियोगः।#}</div>
 <LEND>

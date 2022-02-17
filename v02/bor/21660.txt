@@ -1,7 +1,7 @@
 <L>21660<pc>682<k1>strive<k2>strive
-<div n="lb"/>{@STRIVE:@}¦ <div n="I">I To endeavour, attempt: q. v.:
-<div n="lb"/>{#यतते, प्र-#} ({#यत्,#} c. 1.), {%some s. s after success:%}
-<div n="lb"/>{#कश्चिद् यतति सिद्धये,#} G. vii. 3. </div><div n="I">II With {%against:%}
-<div n="lb"/>{#प्रतिकूलयति#} (nomi.): v. To oppose (II). </div><div n="I">III
-<div n="lb"/>To vie: q. v.: {#स्पर्द्धते#} ({#स्पर्द्ध्,#} c. 1.).</div>
+{@STRIVE:@}¦ <div n="I">I To endeavour, attempt: q. v.:
+{#यतते, प्र-#} ({#यत्,#} c. 1.), {%some s. s after success:%}
+{#कश्चिद् यतति सिद्धये,#} G. vii. 3. </div><div n="I">II With {%against:%}
+{#प्रतिकूलयति#} (nomi.): v. To oppose (II). </div><div n="I">III
+To vie: q. v.: {#स्पर्द्धते#} ({#स्पर्द्ध्,#} c. 1.).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>9884<pc>312<k1>ginger<k2>ginger
-<div n="lb"/>{@GINGER:@}¦ <div n="1">(1) {#आर्द्रकम्;#} </div><div n="1">(2) {#शृङ्गवेरम्,#} {%A. Dry g.:%}
-<div n="lb"/>{#शुण्ठिः।#} <div n="xe">{%G.-bread:%}</div> <div n="xs">{#आर्द्रकरसवासितपिष्टकविशेषः।#}</div> <div n="xe">{%G.%}
-<div n="lb"/>{%beer, pop, or wine:%}</div> <div n="xs">{#*आर्द्रकासवः।#}</div></div>
+{@GINGER:@}¦ <div n="1">(1) {#आर्द्रकम्;#} </div><div n="1">(2) {#शृङ्गवेरम्,#} {%A. Dry g.:%}
+{#शुण्ठिः।#} <div n="xe">{%G.-bread:%}</div> <div n="xs">{#आर्द्रकरसवासितपिष्टकविशेषः।#}</div> <div n="xe">{%G.%}
+{%beer, pop, or wine:%}</div> <div n="xs">{#*आर्द्रकासवः।#}</div></div>
 <LEND>

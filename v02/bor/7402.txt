@@ -1,7 +1,7 @@
 <L>7402<pc>234<k1>emancipate<k2>emancipate
-<div n="lb"/>{@EMANCIPATE:@}¦ {#मोचयति#} <div n="xe">{%or%}</div> <div n="xs">{#मोक्षयति, वि-,#}</div> ({#मुच्#} {%or%}
-<div n="lb"/>{#मोक्ष्#} c. 10.), <div n="xe">{%you will be e. d from the bond of%}
-<div n="lb"/>{%the world:%}</div> <div n="xs">{#भवबन्घाद्विमोक्ष्यसे,#}</div> V. c.; <div n="xe">{%they should%}
-<div n="lb"/>{%be e. d by the king:%}</div> <div n="xs">{#राज्ञा मोचयितव्यास्ते,#}</div> M. p.:
-<div n="lb"/>v. To liberate, free.
+{@EMANCIPATE:@}¦ {#मोचयति#} <div n="xe">{%or%}</div> <div n="xs">{#मोक्षयति, वि-,#}</div> ({#मुच्#} {%or%}
+{#मोक्ष्#} c. 10.), <div n="xe">{%you will be e. d from the bond of%}
+{%the world:%}</div> <div n="xs">{#भवबन्घाद्विमोक्ष्यसे,#}</div> V. c.; <div n="xe">{%they should%}
+{%be e. d by the king:%}</div> <div n="xs">{#राज्ञा मोचयितव्यास्ते,#}</div> M. p.:
+v. To liberate, free.
 <LEND>

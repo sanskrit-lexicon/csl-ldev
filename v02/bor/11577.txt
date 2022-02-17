@@ -1,5 +1,5 @@
 <L>11577<pc>362<k1>immemorial<k2>immemorial
-<div n="lb"/>{@IMMEMORIAL:@}¦ <div n="xe">{%i. time:%}</div> <div n="xs">{#अस्मार्तकालः,#}</div> Mi.; <div n="xe">{%i.%}
-<div n="lb"/>{%custom:%}</div> <div n="xs">{#शश्वतः#}</div> ({%or%} {#पारम्पर्यागतः,#} K. b.) {#आचारः।#} M.
-<div n="lb"/>i. 107.
+{@IMMEMORIAL:@}¦ <div n="xe">{%i. time:%}</div> <div n="xs">{#अस्मार्तकालः,#}</div> Mi.; <div n="xe">{%i.%}
+{%custom:%}</div> <div n="xs">{#शश्वतः#}</div> ({%or%} {#पारम्पर्यागतः,#} K. b.) {#आचारः।#} M.
+i. 107.
 <LEND>

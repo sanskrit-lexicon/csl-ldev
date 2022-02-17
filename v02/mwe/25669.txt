@@ -1,25 +1,25 @@
 <L>25669<pc>697-a<k1>root<k2>root
-<div n="lb"/>ROOT¦ {%s.%} (That part of a plant or tree which enters the earth)
-<div n="lb"/>{#मूलं, अंघ्रिः#} {%m.,%} {#अंह्रिः#} {%m.,%} {#ब्रध्नः, व्रघ्नः, पादः, चरणः -णं, पदं, वृक्षमूलं,#}
-<div n="lb"/>{#वृक्षांघ्रिः#} {%m.;%} ‘firm roots,’ {#दृढमूलं, धरणमूलं;#} ‘having firm
-<div n="lb"/>roots,’ {#दृढमूलः -ला -लं, बद्धमूलः#} &c.; ‘to the roots, by the
-<div n="lb"/>roots,’ {#आमूलं, समूलं, मूलतस्;#} ‘to pluck up by the roots,’
-<div n="lb"/>{#उन्मूल्#} (c. 10. {#-मूलयति -यितुं#}), {#समूलं#} or {#आमूलम् उत्पट्;#} ‘from root
-<div n="lb"/>to top,’ {#आमूलशिखरं, आमूलचूडं;#} ‘to take root,’ {#मूलं बन्ध्;#}
-<div n="lb"/>‘fibrous root,’ {#शिफा, जटा;#} ‘from a radicant branch,’ {#अव-#}
-<div n="lb"/>{#रोहः;#} ‘bulbous root,’ {#कन्दः -न्दं;#} ‘root-digger,’ {#मूलोत्पाटजीवी#} {%m.%}
-<div n="lb"/> — (Lower part of any thing) {#अधोभागः, अधमभागः, जाहः;#}
-<div n="lb"/>the latter is only applied to parts of the body of animals;
-<div n="lb"/>as, ‘the root of the tail,’ {#पुच्छजाहः;#} ‘of the hair,’ {#केशजाहः#}.
-<div n="lb"/> — (Original, source, first cause) {#मूलं, वीजं, योनिः#} {%m. f.,%}
-<div n="lb"/>{#आदिः#} {%m.,%} {#हेतुः#} {%m.,%} {#मूलहेतुः#} {%m.,%} {#प्रथमहेतुः#} {%m.,%} {#निदानं, कारणं, मूल-#}
-<div n="lb"/>{#कारणं, आदिकारणं, आदिहेतुः#} {%m.,%} {#गर्भः;#} ‘having for its root,’
-<div n="lb"/>{#मूल#} or {#मूलक#} in comp.; as, ‘happiness, having its root
-<div n="lb"/>in contentment,’ {#सन्तोषमूलकं सुखं;#} ‘strife having its root
-<div n="lb"/>in avarice,’ {#लोभमूलः कलहः#}. — (Root of a word, radical word)
-<div n="lb"/>[Page697-b+ 51]
-<div n="lb"/>{#शब्दयोनिः#} {%f.,%} {#प्रकृतिः#} {%f.;%} ‘relation of a root to its ramifica-
-<div n="lb"/>tion,’ {#प्रकृतिविकृतिभावः#}. — (Of a number) {#मूलं#}. — (Of a square
-<div n="lb"/>or cube) {#पदं, मूलं;#} ‘square root,’ {#वर्गमूलं, वर्गपदं;#} ‘cube-
-<div n="lb"/>root,’ {#घनमूलं, घनपदं#}.
+ROOT¦ {%s.%} (That part of a plant or tree which enters the earth)
+{#मूलं, अंघ्रिः#} {%m.,%} {#अंह्रिः#} {%m.,%} {#ब्रध्नः, व्रघ्नः, पादः, चरणः -णं, पदं, वृक्षमूलं,#}
+{#वृक्षांघ्रिः#} {%m.;%} ‘firm roots,’ {#दृढमूलं, धरणमूलं;#} ‘having firm
+roots,’ {#दृढमूलः -ला -लं, बद्धमूलः#} &c.; ‘to the roots, by the
+roots,’ {#आमूलं, समूलं, मूलतस्;#} ‘to pluck up by the roots,’
+{#उन्मूल्#} (c. 10. {#-मूलयति -यितुं#}), {#समूलं#} or {#आमूलम् उत्पट्;#} ‘from root
+to top,’ {#आमूलशिखरं, आमूलचूडं;#} ‘to take root,’ {#मूलं बन्ध्;#}
+‘fibrous root,’ {#शिफा, जटा;#} ‘from a radicant branch,’ {#अव-#}
+{#रोहः;#} ‘bulbous root,’ {#कन्दः -न्दं;#} ‘root-digger,’ {#मूलोत्पाटजीवी#} {%m.%}
+ — (Lower part of any thing) {#अधोभागः, अधमभागः, जाहः;#}
+the latter is only applied to parts of the body of animals;
+as, ‘the root of the tail,’ {#पुच्छजाहः;#} ‘of the hair,’ {#केशजाहः#}.
+ — (Original, source, first cause) {#मूलं, वीजं, योनिः#} {%m. f.,%}
+{#आदिः#} {%m.,%} {#हेतुः#} {%m.,%} {#मूलहेतुः#} {%m.,%} {#प्रथमहेतुः#} {%m.,%} {#निदानं, कारणं, मूल-#}
+{#कारणं, आदिकारणं, आदिहेतुः#} {%m.,%} {#गर्भः;#} ‘having for its root,’
+{#मूल#} or {#मूलक#} in comp.; as, ‘happiness, having its root
+in contentment,’ {#सन्तोषमूलकं सुखं;#} ‘strife having its root
+in avarice,’ {#लोभमूलः कलहः#}. — (Root of a word, radical word)
+[Page697-b+ 51]
+{#शब्दयोनिः#} {%f.,%} {#प्रकृतिः#} {%f.;%} ‘relation of a root to its ramifica-
+tion,’ {#प्रकृतिविकृतिभावः#}. — (Of a number) {#मूलं#}. — (Of a square
+or cube) {#पदं, मूलं;#} ‘square root,’ {#वर्गमूलं, वर्गपदं;#} ‘cube-
+root,’ {#घनमूलं, घनपदं#}.
 <LEND>

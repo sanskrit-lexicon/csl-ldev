@@ -1,4 +1,4 @@
 <L>1540<pc>054<k1>ballad<k2>ballad
-<div n="lb"/>{@BALLAD:@}¦ {#गाथा।#} {%b. singer;%} <div n="1">(1) {#गाथिकः;#} </div><div n="1">(2)
-<div n="lb"/>{#गाथाकारः।#}</div>
+{@BALLAD:@}¦ {#गाथा।#} {%b. singer;%} <div n="1">(1) {#गाथिकः;#} </div><div n="1">(2)
+{#गाथाकारः।#}</div>
 <LEND>

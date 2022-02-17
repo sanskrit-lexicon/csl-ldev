@@ -1,4 +1,4 @@
 <L>7446<pc>235<k1>embroider<k2>embroider
-<div n="lb"/>{@EMBROIDER:@}¦ Ph.: <div n="xe">{%e. ed cloth:%}</div> <div n="xs">{#कार्मिकवस्त्रम्;#}</div> <div n="xe">{%he%}
-<div n="lb"/>{%knows how to e. cloth:%}</div> <div n="xs">{#वस्त्रोपरि कर्म कर्तुं जानाति।#}</div>
+{@EMBROIDER:@}¦ Ph.: <div n="xe">{%e. ed cloth:%}</div> <div n="xs">{#कार्मिकवस्त्रम्;#}</div> <div n="xe">{%he%}
+{%knows how to e. cloth:%}</div> <div n="xs">{#वस्त्रोपरि कर्म कर्तुं जानाति।#}</div>
 <LEND>

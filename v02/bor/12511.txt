@@ -1,4 +1,4 @@
 <L>12511<pc>388<k1>interlocutor<k2>interlocutor
-<div n="lb"/>{@INTERLOCUTOR:@}¦ <div n="1">(1) {#संवादकः;#} </div><div n="1">(2) {#संवादिन्#} (m.).</div>
-<div n="lb"/><div n="1">(3) {#संवादकारकः।#}</div>
+{@INTERLOCUTOR:@}¦ <div n="1">(1) {#संवादकः;#} </div><div n="1">(2) {#संवादिन्#} (m.).</div>
+<div n="1">(3) {#संवादकारकः।#}</div>
 <LEND>

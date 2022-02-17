@@ -1,5 +1,5 @@
 <L>19079<pc>590<k1>repulse<k2>repulse
-<div n="lb"/>{@REPULSE:@}¦ <div n="I">I Verb: {#निराकरोति#} ({#कृ,#} c. 8.): v.
-<div n="lb"/>To drive away. </div><div n="I">II Subs.: {#निराकृतिः#} <div n="xe">{%or%}</div> <div n="xs">{#निरा-#}
-<div n="lb"/>{#क्रिया#}</div>: v. Rejection.</div>
+{@REPULSE:@}¦ <div n="I">I Verb: {#निराकरोति#} ({#कृ,#} c. 8.): v.
+To drive away. </div><div n="I">II Subs.: {#निराकृतिः#} <div n="xe">{%or%}</div> <div n="xs">{#निरा-#}
+{#क्रिया#}</div>: v. Rejection.</div>
 <LEND>

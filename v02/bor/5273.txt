@@ -1,5 +1,5 @@
 <L>5273<pc>169<k1>currant<k2>currant
-<div n="lb"/>{@CURRANT:@}¦ <div n="I">I The tree: {#*करण्टः।#} </div><div n="I">II Its fruit:
-<div n="lb"/>{#करण्टम्#} <div n="xe">{%or%}</div> <div n="xs">{#करण्टफलम्।#}</div> </div><div n="I">III A kind of dried
-<div n="lb"/>grape: perh. {#शुष्कद्राक्षा।#}</div>
+{@CURRANT:@}¦ <div n="I">I The tree: {#*करण्टः।#} </div><div n="I">II Its fruit:
+{#करण्टम्#} <div n="xe">{%or%}</div> <div n="xs">{#करण्टफलम्।#}</div> </div><div n="I">III A kind of dried
+grape: perh. {#शुष्कद्राक्षा।#}</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>4253<pc>138<k1>comprehend<k2>comprehend
-<div n="lb"/>{@COMPREHEND@}¦ (v. t.): <div n="I">I To comprise,
-<div n="lb"/>include: q. v. </div><div n="I">II To understand, grasp
-<div n="lb"/>mentally: </div><div n="1">(1) {#गृह्वाति, परि-,#} ({#ग्रह्,#} c. 9.), <div n="xe">{%you%}
-<div n="lb"/>{%have well c. ed my meaning:%}</div> <div n="xs">{#सम्यग्गृहीतवानसि #}
-<div n="lb"/>{# मदाशयम्,#}</div> Mu. iii.; </div><div n="1">(2) {#वेत्ति#} ({#विद्,#} c. 2.), <div n="xe">{%who%}
-<div n="lb"/>{%c. s your real nature:%}</div> <div n="xs">{#याथार्थ्यं वेद कस्तव,#}</div> R.: v.
-<div n="lb"/>To understand.</div>
+{@COMPREHEND@}¦ (v. t.): <div n="I">I To comprise,
+include: q. v. </div><div n="I">II To understand, grasp
+mentally: </div><div n="1">(1) {#गृह्वाति, परि-,#} ({#ग्रह्,#} c. 9.), <div n="xe">{%you%}
+{%have well c. ed my meaning:%}</div> <div n="xs">{#सम्यग्गृहीतवानसि #}
+{# मदाशयम्,#}</div> Mu. iii.; </div><div n="1">(2) {#वेत्ति#} ({#विद्,#} c. 2.), <div n="xe">{%who%}
+{%c. s your real nature:%}</div> <div n="xs">{#याथार्थ्यं वेद कस्तव,#}</div> R.: v.
+To understand.</div>
 <LEND>

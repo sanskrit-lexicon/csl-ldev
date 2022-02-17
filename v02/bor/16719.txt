@@ -1,3 +1,3 @@
 <L>16719<pc>513<k1>penny<k2>penny
-<div n="lb"/>{@PENNY:@}¦ {#ताम्रमुद्राविशेषः।#} <div n="xe">{%P. weight:%}</div> <div n="xs">{#मानविशेषः।#}</div>
+{@PENNY:@}¦ {#ताम्रमुद्राविशेषः।#} <div n="xe">{%P. weight:%}</div> <div n="xs">{#मानविशेषः।#}</div>
 <LEND>

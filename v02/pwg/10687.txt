@@ -3,9 +3,9 @@
 <ls>AK. 1, 1, 1, 41.</ls> 
 <ls>TRIK. 1, 1, 60.</ls> 
 <ls>H. 176.</ls> 
-<ls>MBH. 1, 366. 1094. fgg. 1190. fgg.</ls> 
+<ls>MBH. 1, 366.</ls> <ls n="MBH. 1,">1094. fgg.</ls> <ls n="MBH. 1,">1190. fgg.</ls> 
 <ls>BHAG. 10, 27.</ls> 
-<ls>HARIV. 268. 8220. 8924. 12188.</ls> 
+<ls>HARIV. 268.</ls> <ls n="HARIV.">8220.</ls> <ls n="HARIV.">8924.</ls> <ls n="HARIV.">12188.</ls> 
 <ls>R. 1, 45, 39.</ls> 
 <ls>SUŚR. 2, 92, 2.</ls> 
 <ls>KUMĀRAS. 2, 47.</ls> 

@@ -1,28 +1,28 @@
 <L>14221<pc>436<k1>marry<k2>marry
-<div n="lb"/>{@MARRY@}¦ (v.): <div n="I">I To take a wife: </div><div n="1">(1) {#उत्-#}
-<div n="lb"/>{#वहति, वि-, समुत्-#} ({#वह्,#} c. l.), <div n="xe">{%who m. ies such a%}
-<div n="lb"/>{%girl:%}</div> <div n="xs">{#यस्तां समुद्वहेत् कन्याम्,#}</div> Ph.: </div><div n="1">(2) {#परिणयति,#}
-<div n="lb"/>({#नी,#} c. l.), {%when%} ({%Śiva%}) {%will m. Pārvatī:%}
-<div n="lb"/>{#परिणेष्यति पार्वतीं यदा,#} Ku.; </div><div n="1">(3) {#उपयच्छते#} ({#यम्,#}
-<div n="lb"/>c. l.), <div n="xe">{%m. ed according to rite and took the%}
-<div n="lb"/>{%girl:%}</div> <div n="xs">{#विधिवदुपयम्य कन्यां निन्ये,#}</div> <ls>D.</ls> ; </div><div n="1">(4) {#पाणिं #}
-<div n="lb"/>{# गृह्नाति#} ({#ग्रह्,#} c. 9.), (with gen.); </div><div n="1">(5) by
-<div n="lb"/>subs., {%at the time of m. ing another woman:%}
-<div n="lb"/>{#स्त्र्यन्तरविवाहकाले,#} Mit. </div><div n="I">II To take a
-<div n="lb"/>husband: </div><div n="1">(1) {#पाणिं ग्राहयति#} (c. of {#ग्रह्#}), <div n="xe">{%with-%}
-<div n="lb"/>{%out considering this how could I m.:%}</div> <div n="xs">{#अविगणय्यैतत् #}
-<div n="lb"/>{# कथं पाणिं ग्राहयिष्यामि,#}</div> <ls>K.</ls> ; </div><div n="1">(2) {#पतिं गृह्णाति, परि-, #}
-<div n="lb"/>{# प्रति-,#} ({#ग्रह्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#याति, उप-,#}</div> ({#या,#} c. 2.), {%or%}
-<div n="lb"/>{#भर्तारं सम्भावयति#} (c. of {#भू#}), R. etc.; </div><div n="1">(3) {#वृणीते#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#वरयति#}</div> ({#वृ,#} c. 9. and 10 (to select).</div>
-<div n="lb"/><div n="I">III To cause to m. </div><div n="1">(1) {#योजयति, सं-#} ({#युज्,#}
-<div n="lb"/>c. 10.), {%m. ed Rājavāhana with Avantisundarī:%}
-<div n="lb"/>{#राजवाहनेनावन्तिसुन्दरीं संयोजयामास,#} <ls>D.</ls> ; </div><div n="1">(2) {#पाणि-#}
-<div n="lb"/>{#ग्रहणं सम्पादयति#} (c. of {#पद्#}) (with gen.), <ls>R.</ls> ;</div>
-<div n="lb"/><div n="1">(3) {#विवाहं कारयति#} (c. of {#कृ#}) (with gen.),
-<div n="lb"/>M. n.; etc. </div><div n="I">IV To give away in [Page437]
-<div n="lb"/>marriage: </div><div n="1">(1) {#ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#यच्छति, प्र-,#}</div> ({#दा,#} c.
-<div n="lb"/>3. and l.): v. To give; </div><div n="1">(2) {#ग्राहयति#} (c.
-<div n="lb"/>of {#ग्रह्#}), <div n="xe">{%could not m. his daughter to the god of%}
-<div n="lb"/>{%gods:%}</div> <div n="xs">{#देवदेवं सुतां ग्राहयितुं न शशाक,#}</div> Ku.</div>
+{@MARRY@}¦ (v.): <div n="I">I To take a wife: </div><div n="1">(1) {#उत्-#}
+{#वहति, वि-, समुत्-#} ({#वह्,#} c. l.), <div n="xe">{%who m. ies such a%}
+{%girl:%}</div> <div n="xs">{#यस्तां समुद्वहेत् कन्याम्,#}</div> Ph.: </div><div n="1">(2) {#परिणयति,#}
+({#नी,#} c. l.), {%when%} ({%Śiva%}) {%will m. Pārvatī:%}
+{#परिणेष्यति पार्वतीं यदा,#} Ku.; </div><div n="1">(3) {#उपयच्छते#} ({#यम्,#}
+c. l.), <div n="xe">{%m. ed according to rite and took the%}
+{%girl:%}</div> <div n="xs">{#विधिवदुपयम्य कन्यां निन्ये,#}</div> <ls>D.</ls> ; </div><div n="1">(4) {#पाणिं #}
+{# गृह्नाति#} ({#ग्रह्,#} c. 9.), (with gen.); </div><div n="1">(5) by
+subs., {%at the time of m. ing another woman:%}
+{#स्त्र्यन्तरविवाहकाले,#} Mit. </div><div n="I">II To take a
+husband: </div><div n="1">(1) {#पाणिं ग्राहयति#} (c. of {#ग्रह्#}), <div n="xe">{%with-%}
+{%out considering this how could I m.:%}</div> <div n="xs">{#अविगणय्यैतत् #}
+{# कथं पाणिं ग्राहयिष्यामि,#}</div> <ls>K.</ls> ; </div><div n="1">(2) {#पतिं गृह्णाति, परि-, #}
+{# प्रति-,#} ({#ग्रह्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#याति, उप-,#}</div> ({#या,#} c. 2.), {%or%}
+{#भर्तारं सम्भावयति#} (c. of {#भू#}), R. etc.; </div><div n="1">(3) {#वृणीते#}
+<div n="xe">{%or%}</div> <div n="xs">{#वरयति#}</div> ({#वृ,#} c. 9. and 10 (to select).</div>
+<div n="I">III To cause to m. </div><div n="1">(1) {#योजयति, सं-#} ({#युज्,#}
+c. 10.), {%m. ed Rājavāhana with Avantisundarī:%}
+{#राजवाहनेनावन्तिसुन्दरीं संयोजयामास,#} <ls>D.</ls> ; </div><div n="1">(2) {#पाणि-#}
+{#ग्रहणं सम्पादयति#} (c. of {#पद्#}) (with gen.), <ls>R.</ls> ;</div>
+<div n="1">(3) {#विवाहं कारयति#} (c. of {#कृ#}) (with gen.),
+M. n.; etc. </div><div n="I">IV To give away in [Page437]
+marriage: </div><div n="1">(1) {#ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#यच्छति, प्र-,#}</div> ({#दा,#} c.
+3. and l.): v. To give; </div><div n="1">(2) {#ग्राहयति#} (c.
+of {#ग्रह्#}), <div n="xe">{%could not m. his daughter to the god of%}
+{%gods:%}</div> <div n="xs">{#देवदेवं सुतां ग्राहयितुं न शशाक,#}</div> Ku.</div>
 <LEND>

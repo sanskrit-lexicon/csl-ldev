@@ -1,5 +1,5 @@
 <L>20960<pc>659<k1>solemnity<k2>solemnity
-<div n="lb"/>{@SOLEMNITY:@}¦ <div n="I">I Ceremony, rite: q. v.: {#क्रिया।#}</div>
-<div n="lb"/><div n="I">II Gravity: q. v.: {#गाम्मीर्यम्।#} </div><div n="I">III Sacred-
-<div n="lb"/>-ness: q. v.: {#पवित्रता।#} </div><div n="I">IV Pomp: {#डम्बरः, आ-।#}</div>
+{@SOLEMNITY:@}¦ <div n="I">I Ceremony, rite: q. v.: {#क्रिया।#}</div>
+<div n="I">II Gravity: q. v.: {#गाम्मीर्यम्।#} </div><div n="I">III Sacred-
+-ness: q. v.: {#पवित्रता।#} </div><div n="I">IV Pomp: {#डम्बरः, आ-।#}</div>
 <LEND>

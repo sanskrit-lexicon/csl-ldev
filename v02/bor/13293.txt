@@ -1,4 +1,4 @@
 <L>13293<pc>409<k1>lawyer<k2>lawyer
-<div n="lb"/>{@LAWYER:@}¦ <div n="1">(1) {#विधिज्ञः#} (?): v. Jurist; </div><div n="1">(2) {#व्यव-#}
-<div n="lb"/>{#हारिकः#} (?) (= practising 1.).</div>
+{@LAWYER:@}¦ <div n="1">(1) {#विधिज्ञः#} (?): v. Jurist; </div><div n="1">(2) {#व्यव-#}
+{#हारिकः#} (?) (= practising 1.).</div>
 <LEND>

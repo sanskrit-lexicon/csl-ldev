@@ -1,5 +1,5 @@
 <L>555<pc>021<k1>alienation<k2>alienation
-<div n="lb"/>{@ALIENATION:@}¦ <div n="I">I Of property: {#हस्तान्तरीकरणम्#}
-<div n="lb"/>(?). </div><div n="I">II Of affection: </div><div n="1">(1) {#विघटनम्#} (?);</div>
-<div n="lb"/><div n="1">(2) {#विश्लेषणम्#} (?). </div><div n="I">III Of mind: {#उन्मादः।#}</div>
+{@ALIENATION:@}¦ <div n="I">I Of property: {#हस्तान्तरीकरणम्#}
+(?). </div><div n="I">II Of affection: </div><div n="1">(1) {#विघटनम्#} (?);</div>
+<div n="1">(2) {#विश्लेषणम्#} (?). </div><div n="I">III Of mind: {#उन्मादः।#}</div>
 <LEND>

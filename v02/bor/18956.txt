@@ -1,11 +1,11 @@
 <L>18956<pc>586<k1>remember<k2>remember
-<div n="lb"/>{@REMEMBER:@}¦ <div n="I">I To recollect: {#स्मरति, सं-, अनु-,#}
-<div n="lb"/>({#स्मृ,#} c. l.: with acc. or gen.), <div n="xe">{%I do not r.%}
-<div n="lb"/>{%having accepted this lady:%}</div> <div n="xs">{#न खलु स्वीकरणमत्रभवत्याः #}
-<div n="lb"/>{# स्मरामि,#}</div> Sa. v.; {%r. ing the powers of the son of%}
-<div n="lb"/><div n="xe">{%Indra:%}</div> <div n="xs">{#अनुस्मृताखण्डलसूनुविक्रमः,#}</div> Ki. i. 24.: v.
-<div n="lb"/>Also to think of. </div><div n="I">II To keep in mind:</div>
-<div n="lb"/><div n="1">(1) {#स्मरति,#} <div n="xe">{%r. what you say:%}</div> <div n="xs">{#स्मरसि खल्वेतदात्मनो #}
-<div n="lb"/>{# वचनम्,#}</div> V. i.; </div><div n="1">(2) {#हृदये निदधाति#} ({#धा,#} c. 3.) and
-<div n="lb"/>sim. expr. s, N. ii. 47. </div><div n="I">III To remind: q. v.</div>
+{@REMEMBER:@}¦ <div n="I">I To recollect: {#स्मरति, सं-, अनु-,#}
+({#स्मृ,#} c. l.: with acc. or gen.), <div n="xe">{%I do not r.%}
+{%having accepted this lady:%}</div> <div n="xs">{#न खलु स्वीकरणमत्रभवत्याः #}
+{# स्मरामि,#}</div> Sa. v.; {%r. ing the powers of the son of%}
+<div n="xe">{%Indra:%}</div> <div n="xs">{#अनुस्मृताखण्डलसूनुविक्रमः,#}</div> Ki. i. 24.: v.
+Also to think of. </div><div n="I">II To keep in mind:</div>
+<div n="1">(1) {#स्मरति,#} <div n="xe">{%r. what you say:%}</div> <div n="xs">{#स्मरसि खल्वेतदात्मनो #}
+{# वचनम्,#}</div> V. i.; </div><div n="1">(2) {#हृदये निदधाति#} ({#धा,#} c. 3.) and
+sim. expr. s, N. ii. 47. </div><div n="I">III To remind: q. v.</div>
 <LEND>

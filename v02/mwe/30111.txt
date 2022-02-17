@@ -1,7 +1,7 @@
 <L>30111<pc>816-a<k1>udder<k2>udder
-<div n="lb"/>UDDER¦, {%s.%} {#ऊधस्#} {%n.,%} {#उधस्#} {%n.,%} {#ओधस्#} {%n.,%} {#ओधः, ऊधसं, उधसं, आपीनं,#}
-<div n="lb"/>{#वाणः, वामः;#} ‘of a cow,’ {#गोस्तनः;#} ‘of a bitch,’ {#शुनीस्तनः,#}
-<div n="lb"/>{#सुनारः#}. Obs. {#ऊधस्#} becomes {#ऊपन्#} in comp.; as, ‘a cow
-<div n="lb"/>with a full udder,’ {#पीनोध्नी, पीवरस्तनी;#} ‘with an udder like
-<div n="lb"/>a well,’ {#कुण्डोध्नी#}.
+UDDER¦, {%s.%} {#ऊधस्#} {%n.,%} {#उधस्#} {%n.,%} {#ओधस्#} {%n.,%} {#ओधः, ऊधसं, उधसं, आपीनं,#}
+{#वाणः, वामः;#} ‘of a cow,’ {#गोस्तनः;#} ‘of a bitch,’ {#शुनीस्तनः,#}
+{#सुनारः#}. Obs. {#ऊधस्#} becomes {#ऊपन्#} in comp.; as, ‘a cow
+with a full udder,’ {#पीनोध्नी, पीवरस्तनी;#} ‘with an udder like
+a well,’ {#कुण्डोध्नी#}.
 <LEND>

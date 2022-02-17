@@ -1,5 +1,5 @@
 <L>11684<pc>365<k1>implement<k2>implement
-<div n="lb"/>{@IMPLEMENT:@}¦ {#उपकरणम्,#} <div n="xe">{%i. of exercise:%}</div> <div n="xs">{#व्यायामोप-#}
-<div n="lb"/>{#करणम्,#}</div> R.; <div n="xe">{%whatever is one's i.:%}</div> <div n="xs">{#यद्यस्योपकरणम्,#}</div>
-<div n="lb"/>Mit.: v. Tool.
+{@IMPLEMENT:@}¦ {#उपकरणम्,#} <div n="xe">{%i. of exercise:%}</div> <div n="xs">{#व्यायामोप-#}
+{#करणम्,#}</div> R.; <div n="xe">{%whatever is one's i.:%}</div> <div n="xs">{#यद्यस्योपकरणम्,#}</div>
+Mit.: v. Tool.
 <LEND>

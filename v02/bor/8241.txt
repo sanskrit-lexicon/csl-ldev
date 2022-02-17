@@ -1,6 +1,6 @@
 <L>8241<pc>260<k1>extract<k2>extract
-<div n="lb"/>{@EXTRACT@}¦ (subs.): <div n="I">I That which is e. ed: expr.
-<div n="lb"/>by verb. </div><div n="I">II Essence: </div><div n="1">(1) {#रसः;#} </div><div n="1">(2) {#निर्यासः;#}</div>
-<div n="lb"/><div n="1">(3) {#निर्यूहः।#} </div><div n="I">III A citation, quotation: expr.
-<div n="lb"/>by {#उद्धृतः#} ({#ता, तं#}). </div><div n="I">IV Descent: q. v.</div>
+{@EXTRACT@}¦ (subs.): <div n="I">I That which is e. ed: expr.
+by verb. </div><div n="I">II Essence: </div><div n="1">(1) {#रसः;#} </div><div n="1">(2) {#निर्यासः;#}</div>
+<div n="1">(3) {#निर्यूहः।#} </div><div n="I">III A citation, quotation: expr.
+by {#उद्धृतः#} ({#ता, तं#}). </div><div n="I">IV Descent: q. v.</div>
 <LEND>

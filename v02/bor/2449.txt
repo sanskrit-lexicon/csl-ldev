@@ -1,5 +1,5 @@
 <L>2449<pc>084<k1>bracket<k2>bracket
-<div n="lb"/>{@BRACKET@}¦ (subs.): <div n="I">I A support: </div><div n="1">(1) {#निर्यूहः;#}</div>
-<div n="lb"/><div n="1">(2) {#नागदन्तः।#} </div><div n="I">II A mark in printing: {#*अर्ध-#}
-<div n="lb"/>{#चन्द्रद्वयम्, चिह्नविशेषः।#}</div>
+{@BRACKET@}¦ (subs.): <div n="I">I A support: </div><div n="1">(1) {#निर्यूहः;#}</div>
+<div n="1">(2) {#नागदन्तः।#} </div><div n="I">II A mark in printing: {#*अर्ध-#}
+{#चन्द्रद्वयम्, चिह्नविशेषः।#}</div>
 <LEND>

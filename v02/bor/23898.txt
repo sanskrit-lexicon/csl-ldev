@@ -1,5 +1,5 @@
 <L>23898<pc>748<k1>violently<k2>violently
-<div n="lb"/>{@VIOLENTLY:@}¦ {#चण्डम्:#} v. Vehemently; <div n="1">(2)
-<div n="lb"/>{#प्रचण्डम्;#} </div><div n="1">(3) {#प्रसभम्;#} </div><div n="1">(4) {#उग्रम्:#} v. Sharply;</div>
-<div n="lb"/><div n="1">(5) {#अतीव;#} v. Exceedingly.</div>
+{@VIOLENTLY:@}¦ {#चण्डम्:#} v. Vehemently; <div n="1">(2)
+{#प्रचण्डम्;#} </div><div n="1">(3) {#प्रसभम्;#} </div><div n="1">(4) {#उग्रम्:#} v. Sharply;</div>
+<div n="1">(5) {#अतीव;#} v. Exceedingly.</div>
 <LEND>

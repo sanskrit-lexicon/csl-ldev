@@ -1,4 +1,4 @@
 <L>9243<pc>293<k1>formally<k2>formally
-<div n="lb"/>{@FORMALLY:@}¦ <div n="I">I With due ceremony: {#यथोपचारम्।#}</div>
-<div n="lb"/><div n="I">II Of behaviour: {#अत्यादरेण; सोपचारम्।#}</div>
+{@FORMALLY:@}¦ <div n="I">I With due ceremony: {#यथोपचारम्।#}</div>
+<div n="I">II Of behaviour: {#अत्यादरेण; सोपचारम्।#}</div>
 <LEND>

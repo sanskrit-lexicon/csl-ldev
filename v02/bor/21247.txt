@@ -1,8 +1,8 @@
 <L>21247<pc>669<k1>spread<k2>spread
-<div n="lb"/>{@SPREAD@}¦ (v. i.): <div n="1">(1) {#प्रसर्पति, वि-#} ({#सृप्,#} c. 1.), <div n="xe">{%and the%}
-<div n="lb"/>{%rumour s. on all sides:%}</div> <div n="xs">{#प्रतिदिशञ्च लोकवादः प्रासर्पत्,#}</div>
-<div n="lb"/>D.; </div><div n="1">(2) {#प्रसरति वि-#} ({#सृ,#} c. 1.). <div n="xe">{%the burning of the%}
-<div n="lb"/>{%body is s. ing:%}</div> <div n="xs">{#प्रसरति देहदाहः,#}</div> Ma.; </div><div n="1">(3) {#विस्तीर्यते,#}
-<div n="lb"/>(pass. of {#स्तॄ#}); </div><div n="1">(4) {#वितन्यते#} (pass. of
-<div n="lb"/>{#तन्#}).</div>
+{@SPREAD@}¦ (v. i.): <div n="1">(1) {#प्रसर्पति, वि-#} ({#सृप्,#} c. 1.), <div n="xe">{%and the%}
+{%rumour s. on all sides:%}</div> <div n="xs">{#प्रतिदिशञ्च लोकवादः प्रासर्पत्,#}</div>
+D.; </div><div n="1">(2) {#प्रसरति वि-#} ({#सृ,#} c. 1.). <div n="xe">{%the burning of the%}
+{%body is s. ing:%}</div> <div n="xs">{#प्रसरति देहदाहः,#}</div> Ma.; </div><div n="1">(3) {#विस्तीर्यते,#}
+(pass. of {#स्तॄ#}); </div><div n="1">(4) {#वितन्यते#} (pass. of
+{#तन्#}).</div>
 <LEND>

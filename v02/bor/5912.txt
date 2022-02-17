@@ -1,14 +1,14 @@
 <L>5912<pc>190<k1>decend<k2>decend
-<div n="lb"/>{@DECEND:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अवतरति#} ({#तॄ,#} c. l) (=to
-<div n="lb"/>d. wilfully), <div n="xe">{%d. ed from the sky:%}</div> <div n="xs">{#ज्योतिष्पथादव-#}
-<div n="lb"/>{#ततार,#}</div> R. xii. 68.; </div><div n="1">(2) {#अवरोहति#} ({#रुह्,#} c. l.)
-<div n="lb"/>(={#अवतरति#}), <div n="xe">{%as if d. ing from the summits of%}
-<div n="lb"/>{%mountains:%}</div> <div n="xs">{#शैलानामवरोहतीव शिखरात्,#}</div> Sa. vii. 8.;</div>
-<div n="lb"/><div n="1">(3) {#अवपतति#} ({#पत्,#} c. l.) (=to d. irrespective
-<div n="lb"/>of one's own will), {%caught the d. ing%} ({%ball%}) <div n="xe">{%in%}
-<div n="lb"/>{%the air:%}</div> <div n="xs">{#अवपतन्तमाकाश एवाग्रहीत्,#}</div> D. vi. </div><div n="I">II Fig.:
-<div n="lb"/>{#अवतरति,#} <div n="xe">{%then why d. ing into the considera-%}
-<div n="lb"/>{%tion of..%}</div> <div n="xs">{#तत्र कुतो॥।चिन्तावतारः,#}</div> S. </div><div n="I">III To
-<div n="lb"/>make an attack: v. Descent (II). </div><div n="I">IV To
-<div n="lb"/>come down: {#आगच्छति#} ({#गम्,#} c. l.).</div>
+{@DECEND:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अवतरति#} ({#तॄ,#} c. l) (=to
+d. wilfully), <div n="xe">{%d. ed from the sky:%}</div> <div n="xs">{#ज्योतिष्पथादव-#}
+{#ततार,#}</div> R. xii. 68.; </div><div n="1">(2) {#अवरोहति#} ({#रुह्,#} c. l.)
+(={#अवतरति#}), <div n="xe">{%as if d. ing from the summits of%}
+{%mountains:%}</div> <div n="xs">{#शैलानामवरोहतीव शिखरात्,#}</div> Sa. vii. 8.;</div>
+<div n="1">(3) {#अवपतति#} ({#पत्,#} c. l.) (=to d. irrespective
+of one's own will), {%caught the d. ing%} ({%ball%}) <div n="xe">{%in%}
+{%the air:%}</div> <div n="xs">{#अवपतन्तमाकाश एवाग्रहीत्,#}</div> D. vi. </div><div n="I">II Fig.:
+{#अवतरति,#} <div n="xe">{%then why d. ing into the considera-%}
+{%tion of..%}</div> <div n="xs">{#तत्र कुतो॥।चिन्तावतारः,#}</div> S. </div><div n="I">III To
+make an attack: v. Descent (II). </div><div n="I">IV To
+come down: {#आगच्छति#} ({#गम्,#} c. l.).</div>
 <LEND>

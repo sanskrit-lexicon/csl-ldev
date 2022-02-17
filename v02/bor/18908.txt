@@ -1,13 +1,13 @@
 <L>18908<pc>584<k1>relate<k2>relate
-<div n="lb"/>{@RELATE@}¦ (v. t.): <div n="1">(1) {#आख्याति, समा-, उपा-, अभि-,#}
-<div n="lb"/>({#ख्या,#} c. 2.), <div n="xe">{%please r. it to me:%}</div> <div n="xs">{#तन्ममाख्या-#}
-<div n="lb"/>{#तुमर्हसि,#}</div> Mah. iii. 52. 59.; </div><div n="1">(2) {#वर्णयति, उप-, #}
-<div n="lb"/>{# सम्-, अनु-,#} ({#वर्ण्,#} c. 10. = to describe: q. v.);</div>
-<div n="lb"/><div n="1">(3) {#आ-चष्टे, सम्-,#} ({#चक्ष्,#} c. 2.), {%please r. this%}
-<div n="lb"/>{%to%} ({%me%}) {%asking%} ({%about it%}): {#एतदाचक्ष्व पृच्छतः,#}
-<div n="lb"/>Mah. iii. 99. 40.; </div><div n="1">(4) {#वक्ति, प्र-,#} ({#वच्,#} c. 2.),
-<div n="lb"/><div n="xe">{%I will r. all this:%}</div> <div n="xs">{#एतत्सर्वं प्रवक्ष्यामि,#}</div> Mah. iii.
-<div n="lb"/>107. 46.: v. To say.; </div><div n="1">(5) {#कथयति#} ({#कथ्,#}
-<div n="lb"/>c. 10.).: v. To tell; </div><div n="1">(6) {#श्रावयति, अनु-,#} (c. of
-<div n="lb"/>{#श्रु#} = to cause to hear: with double acc.).</div>
+{@RELATE@}¦ (v. t.): <div n="1">(1) {#आख्याति, समा-, उपा-, अभि-,#}
+({#ख्या,#} c. 2.), <div n="xe">{%please r. it to me:%}</div> <div n="xs">{#तन्ममाख्या-#}
+{#तुमर्हसि,#}</div> Mah. iii. 52. 59.; </div><div n="1">(2) {#वर्णयति, उप-, #}
+{# सम्-, अनु-,#} ({#वर्ण्,#} c. 10. = to describe: q. v.);</div>
+<div n="1">(3) {#आ-चष्टे, सम्-,#} ({#चक्ष्,#} c. 2.), {%please r. this%}
+{%to%} ({%me%}) {%asking%} ({%about it%}): {#एतदाचक्ष्व पृच्छतः,#}
+Mah. iii. 99. 40.; </div><div n="1">(4) {#वक्ति, प्र-,#} ({#वच्,#} c. 2.),
+<div n="xe">{%I will r. all this:%}</div> <div n="xs">{#एतत्सर्वं प्रवक्ष्यामि,#}</div> Mah. iii.
+107. 46.: v. To say.; </div><div n="1">(5) {#कथयति#} ({#कथ्,#}
+c. 10.).: v. To tell; </div><div n="1">(6) {#श्रावयति, अनु-,#} (c. of
+{#श्रु#} = to cause to hear: with double acc.).</div>
 <LEND>

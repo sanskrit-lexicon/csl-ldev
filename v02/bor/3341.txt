@@ -1,8 +1,8 @@
 <L>3341<pc>111<k1>centre<k2>centre
-<div n="lb"/>{@CENTRE@}¦ (subs.): <div n="I">I In geo.: </div><div n="1">(1) {#केन्द्रम्;#} </div><div n="1">(2)
-<div n="lb"/>{#मध्यबिन्दुः,#} Su., Ph. <div n="xe">{%c. of gravity%}</div> <div n="xs">{#*आकर्षणकेन्द्रम्;#}</div>
-<div n="lb"/><div n="xe">{%c. of motion%}</div> <div n="xs">{#*अयनकेन्द्रम्।#}</div> </div><div n="I">II In gen.: {#मध्यम्,#}
-<div n="lb"/><div n="xe">{%a staff passing through its c.%}</div> <div n="xs">{#तन्मध्यगो दण्डः,#}</div> Su.,
-<div n="lb"/><div n="xe">{%plunging into the c.%}</div> <div n="xs">{#विगाह्य मध्यम्,#}</div> Ki. xvi.
-<div n="lb"/>13.</div>
+{@CENTRE@}¦ (subs.): <div n="I">I In geo.: </div><div n="1">(1) {#केन्द्रम्;#} </div><div n="1">(2)
+{#मध्यबिन्दुः,#} Su., Ph. <div n="xe">{%c. of gravity%}</div> <div n="xs">{#*आकर्षणकेन्द्रम्;#}</div>
+<div n="xe">{%c. of motion%}</div> <div n="xs">{#*अयनकेन्द्रम्।#}</div> </div><div n="I">II In gen.: {#मध्यम्,#}
+<div n="xe">{%a staff passing through its c.%}</div> <div n="xs">{#तन्मध्यगो दण्डः,#}</div> Su.,
+<div n="xe">{%plunging into the c.%}</div> <div n="xs">{#विगाह्य मध्यम्,#}</div> Ki. xvi.
+13.</div>
 <LEND>

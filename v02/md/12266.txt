@@ -1,24 +1,24 @@
 <L>12266<pc>180-3<k1>प्रलघु<k2>प्रलघु
 {#प्रलघु#}¦pra-laghu, {%a.%} very small {%or%} insignificant 
 [Page181-1]
-<>({%retinue%}): {@-tā,@} {%f.%} excessive smallness; {@-lap-@}
-<>{@-ana,@} {%n.%} prattling, chattering; {@-lapita,@} {%pp.%} 
-<>√ lap; {%n.%} prattle, chatter; lament; {@-lab-@}
-<>{@-dhavya,@} {%fp.%} to be made sport of, to be deceived; <lbinfo n="2"/>
-<> {@-lamba,@} {%a.%} hanging down, pendulous; 
-<>stooping; {%m. N. of a Daitya slain by Baladeva %}<lbinfo n="4"/>
-<>{% or Kṛṣṇa%}: {@-tā,@} {%f.%} pendulousness, 
-<>{@-bāhu,@} {%a.%} having pendulous arms, {@-bhuja@}, 
-<>{%a. id.%}; {@-lambin,@} {%a.%} pendulous; {@-lambha,@} {%m.%} 
-<>obtainment; deception; {@-lambhana,@} {%n.%} 
-<>taking in, deceiving; {@-laya,@} {%m.%} dissolution, 
-<>destruction, death; annihilation {%or%} end of the 
-<>world; setting ({%of stars%}); cause of dissolution; <lbinfo n="7"/>
-<> swoon: {@-ghana,@} {%m.%} cloud {%producing%} 
-<>the dissolution of the world, {@-ṃ kara@}, {%a.%} ({@ī@}) 
-<>causing destruction, {@-tā,@} {%f.%} dissolution: {@-ṃ @}
-<>{@gam@}, be annihilated, {@-tva,@} {%n. id.%}: {@-ā-ya kḷp@}, 
-<>go to ruin, {@-dahana,@} {%m.%} conflagration {%causing%} 
-<>the destruction of the world, {@-anta-ga,@} {%a.%} 
-<>perishing {%only%} at the end of the world ({%sun%}).
+({%retinue%}): {@-tā,@} {%f.%} excessive smallness; {@-lap-@}
+{@-ana,@} {%n.%} prattling, chattering; {@-lapita,@} {%pp.%} 
+√ lap; {%n.%} prattle, chatter; lament; {@-lab-@}
+{@-dhavya,@} {%fp.%} to be made sport of, to be deceived; <lbinfo n="2"/>
+ {@-lamba,@} {%a.%} hanging down, pendulous; 
+stooping; {%m. N. of a Daitya slain by Baladeva %}<lbinfo n="4"/>
+{% or Kṛṣṇa%}: {@-tā,@} {%f.%} pendulousness, 
+{@-bāhu,@} {%a.%} having pendulous arms, {@-bhuja@}, 
+{%a. id.%}; {@-lambin,@} {%a.%} pendulous; {@-lambha,@} {%m.%} 
+obtainment; deception; {@-lambhana,@} {%n.%} 
+taking in, deceiving; {@-laya,@} {%m.%} dissolution, 
+destruction, death; annihilation {%or%} end of the 
+world; setting ({%of stars%}); cause of dissolution; <lbinfo n="7"/>
+ swoon: {@-ghana,@} {%m.%} cloud {%producing%} 
+the dissolution of the world, {@-ṃ kara@}, {%a.%} ({@ī@}) 
+causing destruction, {@-tā,@} {%f.%} dissolution: {@-ṃ @}
+{@gam@}, be annihilated, {@-tva,@} {%n. id.%}: {@-ā-ya kḷp@}, 
+go to ruin, {@-dahana,@} {%m.%} conflagration {%causing%} 
+the destruction of the world, {@-anta-ga,@} {%a.%} 
+perishing {%only%} at the end of the world ({%sun%}).
 <LEND>

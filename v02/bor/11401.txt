@@ -1,4 +1,4 @@
 <L>11401<pc>357<k1>hydrometer<k2>hydrometer
-<div n="lb"/>{@HYDROMETER:@}¦ {#*क्लोदमापः#} <div n="xe">{%Dunell's h.:%}</div> <div n="xs">{#*दानिल-#}
-<div n="lb"/>{#क्लोदमापः।#}</div>
+{@HYDROMETER:@}¦ {#*क्लोदमापः#} <div n="xe">{%Dunell's h.:%}</div> <div n="xs">{#*दानिल-#}
+{#क्लोदमापः।#}</div>
 <LEND>

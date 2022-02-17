@@ -1,5 +1,5 @@
 <L>19409<pc>603<k1>roar<k2>roar
-<div n="lb"/>{@ROAR, -ING@}¦ (subs.): <div n="1">(1) {#गर्जनम्#} <div n="xe">{%or%}</div> <div n="xs">{#गर्जितम्, परि-;#}</div></div>
-<div n="lb"/><div n="1">(2) {#स्तनितम्;#} </div><div n="1">(3) {#हुंकारः, -कृतिः#}({#तं#}): v. Also
-<div n="lb"/>cry, noise, scream.</div>
+{@ROAR, -ING@}¦ (subs.): <div n="1">(1) {#गर्जनम्#} <div n="xe">{%or%}</div> <div n="xs">{#गर्जितम्, परि-;#}</div></div>
+<div n="1">(2) {#स्तनितम्;#} </div><div n="1">(3) {#हुंकारः, -कृतिः#}({#तं#}): v. Also
+cry, noise, scream.</div>
 <LEND>

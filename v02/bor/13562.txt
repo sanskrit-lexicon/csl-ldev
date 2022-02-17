@@ -1,6 +1,6 @@
 <L>13562<pc>417<k1>lighted<k2>lighted
-<div n="lb"/>{@LIGHTED,@}¦ {@BE:@} <div n="1">(1) {#दीप्यते, प्र-, सं-#} ({#दीप्,#} c. 4.),
-<div n="lb"/><div n="xe">{%when the lights were being l.:%}</div> <div n="xs">{#प्रदीप्यमानेषु प्रदीपेषु,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#ज्वलति, प्र-#} ({#ज्वल्,#} c. 1 (= to burn),
-<div n="lb"/><div n="xe">{%l. lamp:%}</div> <div n="xs">{#प्रज्वलितदीपिका,#}</div> K.</div>
+{@LIGHTED,@}¦ {@BE:@} <div n="1">(1) {#दीप्यते, प्र-, सं-#} ({#दीप्,#} c. 4.),
+<div n="xe">{%when the lights were being l.:%}</div> <div n="xs">{#प्रदीप्यमानेषु प्रदीपेषु,#}</div>
+K.; </div><div n="1">(2) {#ज्वलति, प्र-#} ({#ज्वल्,#} c. 1 (= to burn),
+<div n="xe">{%l. lamp:%}</div> <div n="xs">{#प्रज्वलितदीपिका,#}</div> K.</div>
 <LEND>

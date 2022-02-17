@@ -1,8 +1,8 @@
 <L>1091<pc>038<k1>army<k2>army
-<div n="lb"/>{@ARMY:@}¦ <div n="1">(1) {#सैन्यम्;#} </div><div n="1">(2) {#बलम्;#} </div><div n="1">(3) {#दण्डचक्रम्;#} </div><div n="1">(4)
-<div n="lb"/>{#पताकिनी;#} </div><div n="1">(5) {#चमूः;#} </div><div n="1">(6) {#व्यूहः#} (an a. in battle
-<div n="lb"/>array); </div><div n="1">(7) {#चतुरङ्गबलम्#} (an a. comprising the
-<div n="lb"/>four complements, elephants, cars, horse
-<div n="lb"/>and foot). N. B. {#सैन्यम्#} and {#बलम्#} are also used
-<div n="lb"/>in the plural in the ‘singular’ sense.</div>
+{@ARMY:@}¦ <div n="1">(1) {#सैन्यम्;#} </div><div n="1">(2) {#बलम्;#} </div><div n="1">(3) {#दण्डचक्रम्;#} </div><div n="1">(4)
+{#पताकिनी;#} </div><div n="1">(5) {#चमूः;#} </div><div n="1">(6) {#व्यूहः#} (an a. in battle
+array); </div><div n="1">(7) {#चतुरङ्गबलम्#} (an a. comprising the
+four complements, elephants, cars, horse
+and foot). N. B. {#सैन्यम्#} and {#बलम्#} are also used
+in the plural in the ‘singular’ sense.</div>
 <LEND>

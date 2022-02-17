@@ -1,4 +1,4 @@
 <L>21623<pc>681<k1>stress<k2>stress
-<div n="lb"/>{@STRESS:@}¦ <div n="I">I Pressure: {#भारः।#} </div><div n="I">II Emphasis:
-<div n="lb"/>{#गुरुत्वम्।#}</div>
+{@STRESS:@}¦ <div n="I">I Pressure: {#भारः।#} </div><div n="I">II Emphasis:
+{#गुरुत्वम्।#}</div>
 <LEND>

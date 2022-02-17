@@ -1,8 +1,8 @@
 <L>26435<pc>721-b<k1>secretion<k2>secretion
-<div n="lb"/>SECRETION¦, {%s.%} (Act of producing) {#उत्पादनं#}. — (Matter secreted)
-<div n="lb"/>{#मलं, धातुः#} {%m.,%} {#उत्पादितमलं, शरीरमलं, शरीरोत्पादितमलं, शरीररसः;#}
-<div n="lb"/>‘of the nose,’ {#नासोत्पादितमलं, नासामलं;#} ‘of the throat,’ {#कफा-#}
-<div n="lb"/>{#दिमलं, श्लेष्मादिमलं, कफः, श्लेष्मा#} {%m.%} ({#न्#}); ‘of the bowels,’ {#मलं,#}
-<div n="lb"/>{#अन्त्रमलं, उदरमलं, पुरीषं;#} ‘promoting the animal secretions,’
-<div n="lb"/>{#धातुभृत्, धातुवर्धकः -का -कं#}.
+SECRETION¦, {%s.%} (Act of producing) {#उत्पादनं#}. — (Matter secreted)
+{#मलं, धातुः#} {%m.,%} {#उत्पादितमलं, शरीरमलं, शरीरोत्पादितमलं, शरीररसः;#}
+‘of the nose,’ {#नासोत्पादितमलं, नासामलं;#} ‘of the throat,’ {#कफा-#}
+{#दिमलं, श्लेष्मादिमलं, कफः, श्लेष्मा#} {%m.%} ({#न्#}); ‘of the bowels,’ {#मलं,#}
+{#अन्त्रमलं, उदरमलं, पुरीषं;#} ‘promoting the animal secretions,’
+{#धातुभृत्, धातुवर्धकः -का -कं#}.
 <LEND>

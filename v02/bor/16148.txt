@@ -1,8 +1,8 @@
 <L>16148<pc>496<k1>overlay<k2>overlay
-<div n="lb"/>{@OVERLAY:@}¦ <div n="I">I To cover, set: q. v.: {#आवृणोति#}
-<div n="lb"/>({#वृ,#} c. 5.), <div n="xe">{%o. id with specks of gold:%}</div> <div n="xs">{#हेमबिन्दु-#}
-<div n="lb"/>{#भिरावृतः#}</div> ({#ता, तं#}), Mah. iv. 42. 16. </div><div n="I">II To
-<div n="lb"/>o. another by laying upon: expr. with
-<div n="lb"/>{#उपरि#} and a verb, {%she o. id the child and it died:%}
-<div n="lb"/>{#*उपरिशयनेन शिशुर्ममार।#}</div>
+{@OVERLAY:@}¦ <div n="I">I To cover, set: q. v.: {#आवृणोति#}
+({#वृ,#} c. 5.), <div n="xe">{%o. id with specks of gold:%}</div> <div n="xs">{#हेमबिन्दु-#}
+{#भिरावृतः#}</div> ({#ता, तं#}), Mah. iv. 42. 16. </div><div n="I">II To
+o. another by laying upon: expr. with
+{#उपरि#} and a verb, {%she o. id the child and it died:%}
+{#*उपरिशयनेन शिशुर्ममार।#}</div>
 <LEND>

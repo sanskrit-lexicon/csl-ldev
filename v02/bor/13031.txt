@@ -1,5 +1,5 @@
 <L>13031<pc>402<k1>king<k2>king
-<div n="lb"/>{@KING:@}¦ <div n="1">(1) {#राजन्#} (m.), <div n="xe">{%great k.:%}</div> <div n="xs">{#महाराजः, अधिराजः;#}</div>
-<div n="lb"/>{%k. of k.s%} (gen. Kuvera): {#राजराजः;#} </div><div n="1">(2) {#नृपः, #}
-<div n="lb"/>{# भूपतिः, महीपालः,#} and sim. comp.s.</div>
+{@KING:@}¦ <div n="1">(1) {#राजन्#} (m.), <div n="xe">{%great k.:%}</div> <div n="xs">{#महाराजः, अधिराजः;#}</div>
+{%k. of k.s%} (gen. Kuvera): {#राजराजः;#} </div><div n="1">(2) {#नृपः, #}
+{# भूपतिः, महीपालः,#} and sim. comp.s.</div>
 <LEND>

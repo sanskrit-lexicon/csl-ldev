@@ -1,7 +1,7 @@
 <L>16829<pc>516<k1>perpetual<k2>perpetual
-<div n="lb"/>{@PERPETUAL:@}¦ <div n="1">(1) {#नित्य#} (f. {#त्या#}), <div n="xe">{%and considering%}
-<div n="lb"/>{%that nothing was p.:%}</div> <div n="xs">{#भावयित्वा चानित्यतां सर्व-#}
-<div n="lb"/>{#भावानाम्,#}</div> K.; </div><div n="1">(2) {#शाश्वत#} (f. {#ती#}): v. Eternal;</div>
-<div n="lb"/><div n="1">(3) {#सतत#} (f. {#ता#}): v. Continuous, inces-
-<div n="lb"/>-sant.</div>
+{@PERPETUAL:@}¦ <div n="1">(1) {#नित्य#} (f. {#त्या#}), <div n="xe">{%and considering%}
+{%that nothing was p.:%}</div> <div n="xs">{#भावयित्वा चानित्यतां सर्व-#}
+{#भावानाम्,#}</div> K.; </div><div n="1">(2) {#शाश्वत#} (f. {#ती#}): v. Eternal;</div>
+<div n="1">(3) {#सतत#} (f. {#ता#}): v. Continuous, inces-
+-sant.</div>
 <LEND>

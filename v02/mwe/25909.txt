@@ -1,7 +1,7 @@
 <L>25909<pc>706-a<k1>sake<k2>sake
-<div n="lb"/>SAKE¦ {%s.%} {#कारण, हेतुः#} {%m.,%} {#निमित्तं, प्रयोजनं;#} ‘for the sake of,’ {#अर्थं#}
-<div n="lb"/>or {#अर्थे#} in comp., {#हेतोः, हेतौ, कारणात्, कृते, निमित्ते#} with the
-<div n="lb"/>gen. c. or crude form; ‘for one's own sake,’ {#आत्मार्थं;#}
-<div n="lb"/>‘for my sake,’ {#मदर्थं -र्थे;#} ‘for his sake,’ {#तदर्थं, तस्य हेतोः;#}
-<div n="lb"/>‘for the sake of happiness,’ {#सुखार्थं, सुखहेतोः#}.
+SAKE¦ {%s.%} {#कारण, हेतुः#} {%m.,%} {#निमित्तं, प्रयोजनं;#} ‘for the sake of,’ {#अर्थं#}
+or {#अर्थे#} in comp., {#हेतोः, हेतौ, कारणात्, कृते, निमित्ते#} with the
+gen. c. or crude form; ‘for one's own sake,’ {#आत्मार्थं;#}
+‘for my sake,’ {#मदर्थं -र्थे;#} ‘for his sake,’ {#तदर्थं, तस्य हेतोः;#}
+‘for the sake of happiness,’ {#सुखार्थं, सुखहेतोः#}.
 <LEND>

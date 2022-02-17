@@ -20,14 +20,14 @@ u.s.w. <ls>ṚV. 10, 14, 10.</ls> <ls>AV. 8, 1, 9.</ls> <ls>VS. 24, 10.</ls> <ls
 <ls>9, 1511.</ls> {#अन्धकारं गिरिगह्वराणां दंष्ट्रामयूखैः शबलं प्रकुर्वन्#} 
 <ls>RAGH. 2, 46, v. l.</ls> ({#देशः#}) {#महापद्मसरोजलैः । कूलिनीभिश्च शबलः#} 
 <ls>RĀJA-TAR. 5, 68.</ls> {#पुष्प° (किंशुक, रक्ताशोक, तरु, प्रस्तर)#} 
-<ls>MBH. 6, 1683. 2216. 4691. 9, 1415.</ls> 
+<ls>MBH. 6, 1683.</ls> <ls n="MBH. 6,">2216.</ls> <ls n="MBH. 6,">4691.</ls> <ls n="MBH.">9, 1415.</ls> 
 <ls>R. 5, 83, 9. 7, 42, 12. 15</ls> {#यूथिकाशबलकेशी#} 
 <ls>VIKR. 109.</ls> {#प्रवालपत्त्र° (पादप)#} 
 <ls>HARIV. 4028.</ls> {#सतडित्पताकशबलैर्मेघैः#} 
 <ls>MṚCCH. 84, 1.</ls> {#मलतैलपङ्कशबलैर्वेणीपदैः#} 
 <ls>Spr. (II) 112.</ls> {#केशास्थिशकलशबला (वसुधा)#} 
 <ls>4300.</ls> {#छायामम्भोजिनीनामलिकुलशबलाम्#} 
-<ls>(I) 2013.</ls> {#लूतापटाङ्ग°#} 
+(<ls>I) 2013.</ls> {#लूतापटाङ्ग°#} 
 <ls>VARĀH. BṚH. S. 46, 79.</ls> 
 <div n="2">— b) {%bunt durch Etwas%} so v. a. {%gemischt —, versehen mit Etwas%} (schon mehrere Stellen unter 
 <div n="2"> a) könnten hierher gezogen werden): {#कुसुमशबलैर्विष्वग्वातैः#} 
@@ -36,7 +36,7 @@ u.s.w. <ls>ṚV. 10, 14, 10.</ls> <ls>AV. 8, 1, 9.</ls> <ls>VS. 24, 10.</ls> <ls
 <ls>MĀLATĪM. 145, 12.</ls> {#प्राणिनः सुखिन एव सृजेदीश्वरः न दुःखशबलान्#} 
 <ls>SARVADARŚANAS. 120, 22. 121, 1.</ls> {#अविद्याशबलं ब्रह्म#} 
 <ls>WEBER, RĀMAT. UP. 335.</ls> <ls>COWELL,</ls> <ls>KAUṢ. UP. S. 149.</ls> {#न केवलं जडमुपादानकारणं किं तु स्वयंप्रकाशं ब्रह्म शबलम्#} 24. {#परमात्मनः पञ्च रूपाणि शुद्धशबलविराड्विष्णुदेवतासंज्ञानि#} 
-<ls>Verz. d. Oxf. H. 300</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 300,a,</ls> 
 <ls>No. 737.</ls> 
 <div n="2">— c) {%entstellt, verändert%}: {#संशब्द#} 
 <ls>BHĀG. P. 5, 3, 6.</ls> {#चिन्तया मुखम्#} 
@@ -47,7 +47,7 @@ u.s.w. <ls>ṚV. 10, 14, 10.</ls> <ls>AV. 8, 1, 9.</ls> <ls>VS. 24, 10.</ls> <ls
 <div n="2"> a) eines Schlangendämons 
 <ls>MBH. 1, 1552.</ls> 
 <div n="2">— b) eines Mannes 
-<ls>Verz. d. Oxf. H. 250</ls>, {%b%}, 19 (aber {#शबर#} 7). 
+<ls>Verz. d. Oxf. H. 250,b,19</ls> (aber {#शबर#} 7). 
 <div n="1">— 3) <lex>f.</lex> {#आ#} {%eine scheckige Kuh%} 
 <ls>BHAR.</ls> zu <ls>AK.</ls> nach <ls>ŚKDR.</ls> als N. pr. einer Kuh 
 <ls>R. 1, 52, 21 (53, 23 GORR.). 7, 53, 12.</ls> 
@@ -57,6 +57,6 @@ u.s.w. <ls>ṚV. 10, 14, 10.</ls> <ls>AV. 8, 1, 9.</ls> <ls>VS. 24, 10.</ls> <ls
 <ls>TS. 4, 3, 11, 5.</ls> 
 <ls>PAÑCAV. BR. 21, 1, 5. 3, 1.</ls> {#°होम#} {%ein best. Opfer%} 
 <ls>5.</ls> <ls>LĀṬY. 9, 8, 1.</ls> <ls>Ind. St. 5, 437. fgg.</ls> — Wird häufig (aber nie in den Bomb. Ausgg.) {#शवल#} geschrieben. Vgl. {#भाव°#} ({#भावशबलता#} dass. 
-<ls>PRATĀPAR. 59</ls>, {%a%}, 
+<ls>PRATĀPAR. 59,a,</ls> 
 <ls>6. 8</ls>), {#लोहित°, शाबलीय, शाबल्य#} .
 <LEND>

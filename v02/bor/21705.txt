@@ -1,9 +1,9 @@
 <L>21705<pc>684<k1>stupefy<k2>stupefy
-<div n="lb"/>{@STUPEFY:@}¦ <div n="1">(1) {#जडयति#} (nomi.), {%s. ies the mind:%}
-<div n="lb"/>{#अन्तर्जडयति,#} Ma. i. 31.; {%make even masters of%}
-<div n="lb"/>{%speech dumb (i. e. s. them%}): {#वागीशाश्नपि मूकान् कूर्वते#}
-<div n="lb"/>({#जडयन्तीत्यर्थः#}), M n. on Si. ii. 25.; </div><div n="1">(2)
-<div n="lb"/>{#जडीकरोति,#} <div n="xe">{%s. ied by the sight of Shiva:%}</div> <div n="xs">{#जडीकृत-#}
-<div n="lb"/>{#स्त्रयम्बकवीक्षणेन,#}</div> R. ii. 42.; </div><div n="1">(3) {#निष्पन्दीकरोति,#}
-<div n="lb"/>M.n.</div>
+{@STUPEFY:@}¦ <div n="1">(1) {#जडयति#} (nomi.), {%s. ies the mind:%}
+{#अन्तर्जडयति,#} Ma. i. 31.; {%make even masters of%}
+{%speech dumb (i. e. s. them%}): {#वागीशाश्नपि मूकान् कूर्वते#}
+({#जडयन्तीत्यर्थः#}), M n. on Si. ii. 25.; </div><div n="1">(2)
+{#जडीकरोति,#} <div n="xe">{%s. ied by the sight of Shiva:%}</div> <div n="xs">{#जडीकृत-#}
+{#स्त्रयम्बकवीक्षणेन,#}</div> R. ii. 42.; </div><div n="1">(3) {#निष्पन्दीकरोति,#}
+M.n.</div>
 <LEND>

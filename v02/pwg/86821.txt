@@ -18,15 +18,15 @@
 <ls>MBH. 12, 4417.</ls> {#यज्ञादिक्रियाणाम्#} 
 <ls>PAÑCAT. ed. orn. 57, 2.</ls> {#स्मृतेः#} 
 <ls>MĀRK. P. 39, 52.</ls> {#विष्वग्लोप#} {%allgemeine Störung%} 
-<ls>MBH. 12, 461. 2550.</ls> {#अर्थ°#} {%Verlust%} 
+<ls>MBH. 12, 461.</ls> <ls n="MBH. 12,">2550.</ls> {#अर्थ°#} {%Verlust%} 
 <ls>MBH. 3, 17241.</ls> {#स्मृति°#} 
-<ls>?12, 10140. ŚĀK. 191, v. l. MĀRK. P. 10, 40.</ls> {#क्रिया°#} {%Unterlassung, Verletzung%} 
+<ls>12, 10140.</ls> <ls>ŚĀK. 191, v. l.</ls> <ls>MĀRK. P. 10, 40.</ls> {#क्रिया°#} {%Unterlassung, Verletzung%} 
 <ls>M. 3, 63. 9, 180. 10, 43.</ls> 
 <ls>MĀRK. P. 62, 24.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 55, 16.</ls> {#धर्म°#} 
-<ls>MBH. 1, 1884. 1886. fg. 7773. 6, 5829.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 20, 6. 30. 4, 13, 38. 5, 14, 56.</ls> 
+<ls>BRAHMA-P. in LA. (III) 55, 16.</ls> {#धर्म°#} 
+<ls>MBH. 1, 1884.</ls> <ls n="MBH. 1,">1886. fg.</ls> <ls n="MBH. 1,">7773.</ls> <ls n="MBH.">6, 5829.</ls> 
+
+<ls>R. GORR. 2, 20, 6. 30. 4, 13, 38. 5, 14, 56.</ls> 
 <ls>RAGH. 1, 76.</ls> {#धर्मक्रिया°#} 
 <ls>KĀM. NĪTIS. 14, 44.</ls> {#यज्ञक्रिया°#} 
 <ls>KATHĀS. 82, 9.</ls> {#व्रत°#} 

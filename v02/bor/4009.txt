@@ -1,7 +1,7 @@
 <L>4009<pc>130<k1>collection<k2>collection
-<div n="lb"/>{@COLLECTION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#संग्रहः;#} </div><div n="1">(2)
-<div n="lb"/>{#समाहारः#} (rare). </div><div n="I">II Assemblage, crowd:
-<div n="lb"/>q. v.: {#सङ्घः।#} </div><div n="I">III Money collected. Ph.:
-<div n="lb"/><div n="xe">{%pay your c. s%}</div> <div n="xs">{#*यद्धनं त्वया समाहृतं तद्देहि।#}</div> </div><div n="I">IV Con-
-<div n="lb"/>-clusion: q. v.</div>
+{@COLLECTION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#संग्रहः;#} </div><div n="1">(2)
+{#समाहारः#} (rare). </div><div n="I">II Assemblage, crowd:
+q. v.: {#सङ्घः।#} </div><div n="I">III Money collected. Ph.:
+<div n="xe">{%pay your c. s%}</div> <div n="xs">{#*यद्धनं त्वया समाहृतं तद्देहि।#}</div> </div><div n="I">IV Con-
+-clusion: q. v.</div>
 <LEND>

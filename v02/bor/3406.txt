@@ -1,4 +1,4 @@
 <L>3406<pc>113<k1>chamfer<k2>chamfer
-<div n="lb"/>{@CHAMFER:@}¦ <div n="I">I Verb: v. To groove, channel.</div>
-<div n="lb"/><div n="I">II Subs.: v. Groove.</div>
+{@CHAMFER:@}¦ <div n="I">I Verb: v. To groove, channel.</div>
+<div n="I">II Subs.: v. Groove.</div>
 <LEND>

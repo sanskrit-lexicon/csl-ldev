@@ -1,9 +1,9 @@
 <L>925<pc>032<k1>appeal<k2>appeal
-<div n="lb"/>{@APPEAL@}¦ (subs.): <div n="I">I Leg. t. t.: {#*पुनर्विचारप्रार्थना।#}
-<div n="lb"/><div n="xe">{%A court of a.%}</div> <div n="xs">{#*ये प्राड्विवाकाः पुनर्विचारप्रार्थनां #}
-<div n="lb"/>{# श्रोतुमर्हन्ति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शृण्वन्ति।#}</div> </div><div n="I">II Reference to some
-<div n="lb"/>one as an authority or witness: Ph. to
-<div n="lb"/>make an a. to {#प्रमाणयति#} (nomi.). </div><div n="I">III Resort,
-<div n="lb"/>recourse: q. v. </div><div n="I">IV An address of entreaty:
-<div n="lb"/>{#प्रार्थना।#}</div>
+{@APPEAL@}¦ (subs.): <div n="I">I Leg. t. t.: {#*पुनर्विचारप्रार्थना।#}
+<div n="xe">{%A court of a.%}</div> <div n="xs">{#*ये प्राड्विवाकाः पुनर्विचारप्रार्थनां #}
+{# श्रोतुमर्हन्ति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शृण्वन्ति।#}</div> </div><div n="I">II Reference to some
+one as an authority or witness: Ph. to
+make an a. to {#प्रमाणयति#} (nomi.). </div><div n="I">III Resort,
+recourse: q. v. </div><div n="I">IV An address of entreaty:
+{#प्रार्थना।#}</div>
 <LEND>

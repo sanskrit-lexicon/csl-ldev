@@ -1,6 +1,6 @@
 <L>4125<pc>134<k1>commercial<k2>commercial
-<div n="lb"/>{@COMMERCIAL:@}¦ <div n="1">(1) comp. with {#वाणिज्य-;#} </div><div n="1">(2)
-<div n="lb"/>{#वाणिज्यविषयकः#} ({#का, कं#}). <div n="xe">{%C.-treaty%}</div> <div n="xs">{#*वाणिज्य-#}
-<div n="lb"/>{#द्रव्याणामागमनिर्गमविषयकः सन्धिः;#}</div> {%a c. nation%}
-<div n="lb"/>{#*वाणिज्यपरायणा जातिः।#}</div>
+{@COMMERCIAL:@}¦ <div n="1">(1) comp. with {#वाणिज्य-;#} </div><div n="1">(2)
+{#वाणिज्यविषयकः#} ({#का, कं#}). <div n="xe">{%C.-treaty%}</div> <div n="xs">{#*वाणिज्य-#}
+{#द्रव्याणामागमनिर्गमविषयकः सन्धिः;#}</div> {%a c. nation%}
+{#*वाणिज्यपरायणा जातिः।#}</div>
 <LEND>

@@ -3,8 +3,8 @@
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%fahrend, ziehend%}: {#त्वद्बन्धुजनवाहिनो हयाः#} 
 <ls>R. 2, 52, 43.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 51, 10.</ls> 
+
+<ls>R. GORR. 2, 51, 10.</ls> 
 <div n="2">— b) {%dahinfahrend%} (vom Wagen): {#शीघ्रैरश्वैर्वाहिना स्यन्दनेन#} 
 <ls>MBH. 3, 245.</ls> {#शीघ्र°#} 
 <ls>Spr. 4423.</ls> 
@@ -23,8 +23,8 @@
 <ls>3, 14274.</ls> {#पुष्पसंचय°#} 
 <ls>HARIV. 12018.</ls> 
 <ls>R. 1, 36, 22.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 54, 39. 65, 15. 3, 59, 20.</ls> 
+
+<ls>R. GORR. 2, 54, 39. 65, 15. 3, 59, 20.</ls> 
 <ls>RĀJA-TAR. 1, 260.</ls> 
 <ls>BHĀG. P. 5, 26, 22.</ls> 
 <ls>MĀRK. P. 59, 24.</ls> {#धमनी शब्दवाहिनी#} 
@@ -81,7 +81,7 @@
 <ls>H. 1080.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 3, 17141. 6, 341.</ls> 
+<ls>MBH. 3, 17141.</ls> <ls n="MBH.">6, 341.</ls> 
 <ls>R. 2, 71, 13. 89, 3.</ls> 
 <ls>RĀJA-TAR. 4, 303.</ls> {%Fluss%} und zugleich {%Heer%} 
 <ls>134.</ls> <ls>MBH. 6, 2337.</ls> <ls>VĀSAVAD. 13, 3.</ls> 

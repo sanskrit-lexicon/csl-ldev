@@ -1,5 +1,5 @@
 <L>16593<pc>509<k1>pauperism<k2>pauperism
-<div n="lb"/>{@PAUPERISM:@}¦ <div n="1">(1) {#दारिद्र्यम्#} ( poverty): </div><div n="1">(2)
-<div n="lb"/>{#भिक्षावृत्तिः#} (= begging); </div><div n="1">(3) {#अनाथता#} (= with-
-<div n="lb"/>-out protection).</div>
+{@PAUPERISM:@}¦ <div n="1">(1) {#दारिद्र्यम्#} ( poverty): </div><div n="1">(2)
+{#भिक्षावृत्तिः#} (= begging); </div><div n="1">(3) {#अनाथता#} (= with-
+-out protection).</div>
 <LEND>

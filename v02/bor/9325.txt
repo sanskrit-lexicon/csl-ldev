@@ -1,4 +1,4 @@
 <L>9325<pc>295<k1>fox<k2>fox
-<div n="lb"/>{@FOX:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#खिखिः#} <div n="xe">{%or%}</div> <div n="xs">{#किखिः;#}</div> </div><div n="1">(2) {#खिङ्गिरः।#}</div>
-<div n="lb"/><div n="I">II Fig.: a sly rogue: {#धूर्तः।#}</div>
+{@FOX:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#खिखिः#} <div n="xe">{%or%}</div> <div n="xs">{#किखिः;#}</div> </div><div n="1">(2) {#खिङ्गिरः।#}</div>
+<div n="I">II Fig.: a sly rogue: {#धूर्तः।#}</div>
 <LEND>

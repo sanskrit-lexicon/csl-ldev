@@ -1,4 +1,4 @@
 <L>11971<pc>373<k1>indeclinable<k2>indeclinable
-<div n="lb"/>{@INDECLINABLE:@}¦ <div n="xe">{%i. word:%}</div> <div n="xs">{#अव्ययम्;#}</div> {%i. compound:%}
-<div n="lb"/>{#अव्ययीमावः।#}
+{@INDECLINABLE:@}¦ <div n="xe">{%i. word:%}</div> <div n="xs">{#अव्ययम्;#}</div> {%i. compound:%}
+{#अव्ययीमावः।#}
 <LEND>

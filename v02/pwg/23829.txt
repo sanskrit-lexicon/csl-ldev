@@ -19,14 +19,14 @@
 <div n="2">— e) {%zu sammeln, zu lesen%}: {#न ग्राह्यं फलमूलं च तस्मिन्देशे प्लवंगमैः#} 
 <ls>R. 4, 43, 29.</ls> 
 <div n="2">— f) {%zu erhalten, zu gewinnen, zu empfangen, anzunehmen%}: {#विषादप्यमृतं ग्राह्यं बालादपि सुभाषितम् । अमित्रादपि सद्वृत्तममेध्यादपि काञ्चनम् ॥#} {%zu gewinnen, zu vernehmen, anzunehmen, entgegenzunehmen%} 
-<ls>M. 2, 239</ls> <ls>?(vgl. CĀṆ. 16).</ls> {#सारं ततो ग्राह्यम्#} 
+<ls>M. 2, 239</ls> (vgl. <ls>CĀṆ. 16).</ls> {#सारं ततो ग्राह्यम्#} 
 <ls>PAÑCAT. Pr. 10.</ls> {#गोपालेन प्रजाधेनोर्वित्तदुग्धं शनैः शनैः । पालनात्पोषणाद्ग्राह्यम्#} 
 <ls>I, 249.</ls> {#ग्रामादिषु स्वामिग्राह्यो भाग आयः#} 
 <ls>P. 5, 1, 47,</ls> 
 <ls>Sch.</ls> {#(भिक्षाम्) मेने प्रजापतिर्ग्राह्यामपि दुष्कृतकर्मणः#} 
 <ls>M. 4, 248.</ls> 
 <ls>YĀJÑ. 1, 202. 215.</ls> 
-<ls>MBH. 3, 13506. 13, 4436.</ls> 
+<ls>MBH. 3, 13506.</ls> <ls n="MBH.">13, 4436.</ls> 
 <ls>R. 4, 34, 9.</ls> 
 <ls>MĀRK. P. 24, 24.</ls> 
 <div n="2">— g) {%zu ehelichen%}: {#अपरा पतिता चैव न ग्राह्या भूतिमिच्छता#} 
@@ -42,8 +42,8 @@
 <ls>MBH. 13, 1045.</ls> 
 <ls>BHAG. 6, 21.</ls> {#मनो°#} 
 <ls>BHĀṢĀP. 56.</ls> {#अग्राह्यं हृदयं तथैव वदनं यद्दर्पणान्तर्गतम्#} {%erkennbar%} und {%greifbar%} 
-<ls>BHARTṚ.</ls> <ls>Suppl. 15.</ls> {#अग्राह्यवीर्य#} {%nicht wahrnehmbar%} 
-<ls>R. 3, 22, 20. -</ls> <ls>ŚVETĀŚV. UP. 5, 14.</ls> <ls>MUṆḌ. UP. 1, 1, 6.</ls> <ls>MĀṆḌ. UP. 7.</ls> <ls>MBH. 3, 13931. 14, 1457. fgg.</ls> 
+<ls>BHARTṚ. Suppl. 15.</ls> {#अग्राह्यवीर्य#} {%nicht wahrnehmbar%} 
+<ls>R. 3, 22, 20.</ls> - <ls>ŚVETĀŚV. UP. 5, 14.</ls> <ls>MUṆḌ. UP. 1, 1, 6.</ls> <ls>MĀṆḌ. UP. 7.</ls> <ls>MBH. 3, 13931.</ls> <ls n="MBH.">14, 1457. fgg.</ls> 
 <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 4.</ls> {#श्रोत्रेन्द्रियाग्राह्यत्वात्#} 
 <ls>Sch.</ls> zu <ls>JAIM. 1, 3, 22.</ls> subst. {%die Objecte der Sinne%}: {#ग्रहीतृग्रहणग्राह्येषु#} 
 <ls>YOGAS. 1, 41.</ls> 

@@ -1,7 +1,7 @@
 <L>20116<pc>626<k1>self<k2>self
-<div n="lb"/>{@SELF:@}¦ <div n="1">(1) {#आत्मन्#} (m.), <div n="xe">{%s.-born:%}</div> <div n="xs">{#आत्मभूः#}</div> (n. {#भु#});
-<div n="lb"/><div n="xe">{%s. -destroyer:%}</div> <div n="xs">{#आत्मघातिन्#}</div> (f. {#नी#}); {%s. -interest:%}
-<div n="lb"/>{#आत्महितम्;#} <div n="xe">{%good for s.:%}</div> <div n="xs">{#आत्मनीन#}</div> (f. {#ना#}): v.
-<div n="lb"/>Also myself, himself, etc.; </div><div n="1">(2) {#स्वयम्#} (= </div><div n="I">I
-<div n="lb"/>myself, you yourself, etc.).</div>
+{@SELF:@}¦ <div n="1">(1) {#आत्मन्#} (m.), <div n="xe">{%s.-born:%}</div> <div n="xs">{#आत्मभूः#}</div> (n. {#भु#});
+<div n="xe">{%s. -destroyer:%}</div> <div n="xs">{#आत्मघातिन्#}</div> (f. {#नी#}); {%s. -interest:%}
+{#आत्महितम्;#} <div n="xe">{%good for s.:%}</div> <div n="xs">{#आत्मनीन#}</div> (f. {#ना#}): v.
+Also myself, himself, etc.; </div><div n="1">(2) {#स्वयम्#} (= </div><div n="I">I
+myself, you yourself, etc.).</div>
 <LEND>

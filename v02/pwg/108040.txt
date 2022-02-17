@@ -4,10 +4,10 @@
 <div n="2"> a) {%ein Mann, der das pro und contra genau erwägt%} oder {%ein Anhänger der aufzählenden philosophischen Methode%} d. h. {%der%} <is>Sāṃkhya</is>-{%Lehre%} (Gegens. {#योगिन्, योग#}) 
 <ls>H. 862.</ls> 
 <ls>CŪLIKOP.</ls> in <ls>Ind. St. 9, 16</ls> (wir lesen {#सांख्या अ°)#}.{# त्वं गतिः सर्वसांख्यानां योगिनां त्वं परायणम्#} 
-<ls>MBH. 3, 167. 12741. 12, 1642. 7889. 8685. 11038.</ls> {#प्रत्यक्षहेतवो योगाः सांख्याः शास्त्रविनिश्चयाः#} 
+<ls>MBH. 3, 167.</ls> <ls n="MBH. 3,">12741.</ls> <ls n="MBH.">12, 1642.</ls> <ls n="MBH. 12,">7889.</ls> <ls n="MBH. 12,">8685.</ls> <ls n="MBH. 12,">11038.</ls> {#प्रत्यक्षहेतवो योगाः सांख्याः शास्त्रविनिश्चयाः#} 
 <ls>11043.</ls> {#सांख्यानां कपिलो ह्यसि#} 
 <ls>13, 916. 1040. 1079.</ls> <ls>HARIV. 14922. fg.</ls> <ls>BHAG. 3, 3. 5, 5.</ls> {#सांख्यैः संख्यातसंख्येयैः सहासीनं पुनर्वसुम्#} 
-<ls>CARAKA 1, 13.</ls> <ls>WEBER, RĀMAT. UP. 335.</ls> <ls>Verz. d. Oxf. H. 113</ls>, {%b%}, 
+<ls>CARAKA 1, 13.</ls> <ls>WEBER, RĀMAT. UP. 335.</ls> <ls>Verz. d. Oxf. H. 113,b,</ls> 
 <ls>46.</ls> <ls>Ind. St. 1, 13, 9. 23, 20.</ls> <ls>ŚATR. 2, 383.</ls> <ls>SARVADARŚANAS. 85. 3. 131, 19. 147, 11.</ls> <ls>KUSUM. 13, 5.</ls> <is>Viṣṇu</is> 
 <ls>MBH. 13, 901.</ls> <is>Śiva</is> 
 <ls>12, 10388.</ls> {#°मुख्य#} ebend. {#°शास्त्र#} 
@@ -15,7 +15,7 @@
 <ls>153, 22.</ls> 
 <div n="2">— b) N. pr. eines Mannes 
 <ls>CARAKA 1, 1</ls> (nach dem Comm. Beiw. von <is>Gautama</is>). 
-<ls>BHĀVAPR.</ls> <ls>?(= CARAKA) in Verz. d. Oxf. H. 310</ls>, {%a%}, 25. {#°योगौ#} (so ed. Bomb.) 
+<ls>BHĀVAPR.</ls> (= <ls>CARAKA)</ls> in <ls>Verz. d. Oxf. H. 310,a,25.</ls> {#°योगौ#} (so ed. Bomb.) 
 <ls>MBH. 13, 7123.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%die auf der genauen Erwägung des pro und contra beruhende Lehre%} oder {%die aufzählende philosophische Methode%} d. h. {%die auf%} <is>Kapila</is> {%zurückgeführte%} <is>Sāṃkhya</is>-{%Lehre%} (Gegens. {#योग#}) 
 <ls>TRIK. 3, 2, 13.</ls> 
@@ -23,7 +23,7 @@
 <ls>ŚVETĀŚV. UP. 6, 13.</ls> {#°योगविभागज्ञ#} 
 <ls>MBH. 2, 141.</ls> {#परम#} 
 <ls>7, 8857.</ls> {#योगं यो वेद चात्मनः । यः सांख्यमात्मनो वेद#} 
-<ls>8, 1439. 12, 11038. 11041. 13, 470. 1542. 7075.</ls> <ls>BHAG. 2, 39. 5, 4. 5. 13, 24. 18, 13.</ls> <ls>PRAB. 86, 10.</ls> <ls>BHĀG. P. 1, 3, 10. 2, 1, 6. 3, 3, 19. 7, 30. 25, 31. 10, 47, 34</ls> (=  {#आत्मानात्मविवेक#} Comm.). pl. 
+<ls>8, 1439. 12, 11038. 11041. 13, 470. 1542. 7075.</ls> <ls>BHAG. 2, 39. 5, 4. 5. 13, 24. 18, 13.</ls> <ls>PRAB. 86, 10.</ls> <ls>BHĀG. P. 1, 3, 10. 2, 1, 6. 3, 3, 19. 7, 30. 25, 31. 10, 47, 34</ls> (= {#आत्मानात्मविवेक#} Comm.). pl. 
 <ls>3, 29, 2.</ls> {#सांख्यात्मन्#} 
 <ls>MBH. 12, 1642.</ls> {#°ज्ञान#} 
 <ls>1, 3132.</ls> {#°योगप्रवर्तिन्#} 
@@ -46,7 +46,7 @@
 <ls>HALL</ls> in der Bibl. ind. <ls>SARVADARŚANAS. 154. 2.</ls> {#°वृत्ति#} 
 <ls>HALL 8.</ls> {#°वृत्तिप्रकाश#} 6. {#°वृत्तिसार#} 
 <ls>1. 3.</ls> {#°सार#} 
-<ls>Verz. d. Oxf. H. 232</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 232,a,</ls> 
 <ls>No. 562.</ls> {#°सारविवेक#} 
 <ls>HALL 7.</ls> {#°सिद्धान्त#} 
 <ls>Verz. d. Oxf. H. 113</ls>

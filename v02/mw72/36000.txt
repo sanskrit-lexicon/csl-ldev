@@ -1,13 +1,13 @@
 <L>36000<pc>0726-c<k1>म<k2>म<h>3
 {#म#} 3¦. {%ma,%} the singular base in all the cases
-<div n="lb"/>except the nom. of the first personal pronoun and
-<div n="lb"/>related to the verbal termination in the first person
-<div n="lb"/>singular, (nom. {%aham,%} 1; acc. {%mām%} or {%mā,%} me;
-<div n="lb"/>inst. {%mayā;%} dat. {%mahyam%} or {%me;%} abl. {%mat%} or
-<div n="lb"/>{%mad;%} gen. {%mama%} or {%me;%} loc. {%mayi%}); at the
-<div n="lb"/>beginning of a comp. the form {%mad%} is used for the
-<div n="lb"/>base, see 1. {%mad;%} [cf. {%aham:%} Zend {%ma:%} Gr. <lang n="greek">ἐμέ,</lang>
-<div n="lb"/><lang n="greek">ἐμ-ό-ς:</lang> Lat. <nsi>me, me-u-s, mihi</nsi> = Umbr. <nsi>me-he:</nsi>
-<div n="lb"/>Goth. <nsi>mi-s,</nsi> ‘to me;’ <nsi>mi-k,</nsi> acc. ‘me:’ Slav. <nsi>me,</nsi>
-<div n="lb"/>acc. ‘me:’ Lith. <nsi>ma-n,</nsi> ‘to me.’]
+except the nom. of the first personal pronoun and
+related to the verbal termination in the first person
+singular, (nom. {%aham,%} 1; acc. {%mām%} or {%mā,%} me;
+inst. {%mayā;%} dat. {%mahyam%} or {%me;%} abl. {%mat%} or
+{%mad;%} gen. {%mama%} or {%me;%} loc. {%mayi%}); at the
+beginning of a comp. the form {%mad%} is used for the
+base, see 1. {%mad;%} [cf. {%aham:%} Zend {%ma:%} Gr. <lang n="greek">ἐμέ,</lang>
+<lang n="greek">ἐμ-ό-ς:</lang> Lat. <nsi>me, me-u-s, mihi</nsi> = Umbr. <nsi>me-he:</nsi>
+Goth. <nsi>mi-s,</nsi> ‘to me;’ <nsi>mi-k,</nsi> acc. ‘me:’ Slav. <nsi>me,</nsi>
+acc. ‘me:’ Lith. <nsi>ma-n,</nsi> ‘to me.’]
 <LEND>

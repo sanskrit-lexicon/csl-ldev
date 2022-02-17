@@ -1,8 +1,8 @@
 <L>10295<pc>325<k1>grief<k2>grief
-<div n="lb"/>{@GRIEF:@}¦ <div n="1">(1) {#शोकः,#} <div n="xe">{%broken-hearted from g. on%}
-<div n="lb"/>{%account of me:%}</div> <div n="xs">{#ममैव शोकेन विदीर्णवक्षसा,#}</div> N. i.
-<div n="lb"/>140.; </div><div n="1">(2) {#दुःखम्#} (= pain), <div n="xe">{%g. at a son's loss%}
-<div n="lb"/>{%dries up the heart, body and mind:%}</div> <div n="xs">{#हृच्छरीरमनःशोषि #}
-<div n="lb"/>{# दुःखं पुत्रवियोगजम्,#}</div> Ram. ii. 76. 28.: v. Also
-<div n="lb"/>sorrow, distress.</div>
+{@GRIEF:@}¦ <div n="1">(1) {#शोकः,#} <div n="xe">{%broken-hearted from g. on%}
+{%account of me:%}</div> <div n="xs">{#ममैव शोकेन विदीर्णवक्षसा,#}</div> N. i.
+140.; </div><div n="1">(2) {#दुःखम्#} (= pain), <div n="xe">{%g. at a son's loss%}
+{%dries up the heart, body and mind:%}</div> <div n="xs">{#हृच्छरीरमनःशोषि #}
+{# दुःखं पुत्रवियोगजम्,#}</div> Ram. ii. 76. 28.: v. Also
+sorrow, distress.</div>
 <LEND>

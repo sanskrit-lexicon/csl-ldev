@@ -1,5 +1,5 @@
 <L>17680<pc>541<k1>prescribe<k2>prescribe
-<div n="lb"/>{@PRESCRIBE:@}¦ <div n="I">I To dictate, direct: q. v.:
-<div n="lb"/>{#निर्दिशति#} ({#दिश्,#} c. 6.). </div><div n="I">II Medically: {#औषधं#}
-<div n="lb"/>(= medicine) <div n="xe">{%or%}</div> <div n="xs">{#अन्नं#}</div> (= food) {#निर्दिशति।#}</div>
+{@PRESCRIBE:@}¦ <div n="I">I To dictate, direct: q. v.:
+{#निर्दिशति#} ({#दिश्,#} c. 6.). </div><div n="I">II Medically: {#औषधं#}
+(= medicine) <div n="xe">{%or%}</div> <div n="xs">{#अन्नं#}</div> (= food) {#निर्दिशति।#}</div>
 <LEND>

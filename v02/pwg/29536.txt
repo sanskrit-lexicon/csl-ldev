@@ -10,7 +10,7 @@
 <ls>75, 7. 2, 545, 18.</ls> {#अम्ल°#} 
 <ls>19.</ls> {#लवण°#} 
 <ls>1, 75, 9. 2, 546, 1.</ls> {#कटु°#} 
-<ls>4. -</ls> <ls>MBH. 12, 9814. 14, 1280.</ls> Cit. beim Schol. zu 
+<ls>4.</ls> - <ls>MBH. 12, 9814.</ls> <ls n="MBH.">14, 1280.</ls> Cit. beim Schol. zu 
 <ls>ŚĀK. 20, 9.</ls> 
 <ls>VARĀH. BṚH. S. 16, 34. 47, 7. 50, 32. 75, 12.</ls> 
 <div n="2">— b) {%wohlriechend%} 
@@ -21,7 +21,7 @@
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) N. verschiedener Pflanzen: {%Wrightia antidysenterica R. Br.%} ({#कुटज#}) 
 <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> {%Capparis trifoliata Roxb.%} ({#वरुण#}) 
-<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> {%Agathotes Chirayta%} ({#किराततिक्त#}) {%Don.; Melia Azadirachta Lin.; Terminalia Catappa%} {#(इङ्गुदी)#}; {%eine bittere Gurkenart (Trichosanthes cucumerina Lin.?%}) 
+<ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> {%Agathotes Chirayta%} ({#किराततिक्त#}) {%Don.; Melia Azadirachta Lin.; Terminalia Catappa%} ({#इङ्गुदी#}); {%eine bittere Gurkenart (Trichosanthes cucumerina Lin.?%}) 
 <ls>NIGH. PR.</ls> 
 <div n="v">— Vgl. {#अनार्यतिक्त, किराततिक्त, चिर°#} . 
 <div n="2">— b) {%eine Art Salz%} ({#विड्लवण#}) 
@@ -30,7 +30,7 @@
 <ls>H. an.</ls> <ls>MED.</ls> <ls>NIGH. PR.</ls> {%Clypea hernandifolia W. u. A.%} ({#पाठा#}) 
 <ls>RATNAM. 14.</ls> = {#यवतिक्ता#} und {#षड्भुजा#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> {%Artemisia sternutatoria Roxb.%} ({#छिक्कनी#}) 
-<ls>BHĀVAPR.</ls> im <ls>ŚKDR. -</ls> <ls>SUŚR. 2, 40, 2.</ls> Vgl. {#काकतिक्ता#} . 
+<ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> - <ls>SUŚR. 2, 40, 2.</ls> Vgl. {#काकतिक्ता#} . 
 <div n="1">— 4) <lex>n.</lex> {%eine best. officinelle Pflanze%} (s. {#पर्पट#}) 
 <ls>H. an.</ls> <ls>MED.</ls>
 <LEND>

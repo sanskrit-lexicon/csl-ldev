@@ -1,8 +1,8 @@
 <L>9310<pc>295<k1>four<k2>four
-<div n="lb"/>{@FOUR:@}¦ {#चतुर्#} (mfn.), <div n="xe">{%f. times:%}</div> <div n="xs">{#चतुः;#}</div> {%of f. kinds:%}
-<div n="lb"/>{#चतुर्विधः#} ({#धा, धं#}), <div n="xe">{%aggregate of f.:%}</div> <div n="xs">{#चतुष्टयम्;#}</div> <div n="xe">{%in f.%}
-<div n="lb"/>{%ways:%}</div> <div n="xs">{#चतुर्धा;#}</div> <div n="xe">{%f. hundred:%}</div> <div n="xs">{#चतुःशतम्;#}</div> {%the f. objects%}
-<div n="lb"/>{%of human pursuit (virtue, wealth, love, and sal-%}
-<div n="lb"/>{%vation%}): {#चतुर्वर्गः;#} <div n="xe">{%an army complete in its four%}
-<div n="lb"/>{%parts-horse, foot, car and elephants:%}</div> <div n="xs">{#चतुरङ्गबलम्।#}</div>
+{@FOUR:@}¦ {#चतुर्#} (mfn.), <div n="xe">{%f. times:%}</div> <div n="xs">{#चतुः;#}</div> {%of f. kinds:%}
+{#चतुर्विधः#} ({#धा, धं#}), <div n="xe">{%aggregate of f.:%}</div> <div n="xs">{#चतुष्टयम्;#}</div> <div n="xe">{%in f.%}
+{%ways:%}</div> <div n="xs">{#चतुर्धा;#}</div> <div n="xe">{%f. hundred:%}</div> <div n="xs">{#चतुःशतम्;#}</div> {%the f. objects%}
+{%of human pursuit (virtue, wealth, love, and sal-%}
+{%vation%}): {#चतुर्वर्गः;#} <div n="xe">{%an army complete in its four%}
+{%parts-horse, foot, car and elephants:%}</div> <div n="xs">{#चतुरङ्गबलम्।#}</div>
 <LEND>

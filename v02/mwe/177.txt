@@ -1,4 +1,4 @@
 <L>177<pc>005-a<k1>achievement<k2>achievement
-<div n="lb"/>ACHIEVEMENT¦, {%s.%} (A noble exploit) {#प्रशंसनीयकर्म्म#} {%n.%} {#(न्), चेष्टितं,#}
-<div n="lb"/>{#चरित्रं#}. — (In heraldry) {#पदचिह्नं#}.
+ACHIEVEMENT¦, {%s.%} (A noble exploit) {#प्रशंसनीयकर्म्म#} {%n.%} {#(न्), चेष्टितं,#}
+{#चरित्रं#}. — (In heraldry) {#पदचिह्नं#}.
 <LEND>

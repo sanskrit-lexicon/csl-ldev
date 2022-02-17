@@ -1,5 +1,5 @@
 <L>22799<pc>719<k1>transportation<k2>transportation
-<div n="lb"/>{@TRANSPORTATION:@}¦ <div n="I">I Conveyance: {#वाहनम्।#}</div>
-<div n="lb"/><div n="I">II Banishment: {#द्वीपान्तरविवासनम्#} and sim.
-<div n="lb"/>comp. s.</div>
+{@TRANSPORTATION:@}¦ <div n="I">I Conveyance: {#वाहनम्।#}</div>
+<div n="I">II Banishment: {#द्वीपान्तरविवासनम्#} and sim.
+comp. s.</div>
 <LEND>

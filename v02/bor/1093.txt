@@ -1,4 +1,4 @@
 <L>1093<pc>038<k1>aromatic<k2>aromatic
-<div n="lb"/>{@AROMATIC:@}¦ <div n="1">(1) {#सुगन्धि#} (mfn.); </div><div n="1">(2) {#सुगन्धः#}
-<div n="lb"/>({#न्धा, न्धं#}); </div><div n="1">(3) {#सुरभि#} (mfn.): v. Fragrant.</div>
+{@AROMATIC:@}¦ <div n="1">(1) {#सुगन्धि#} (mfn.); </div><div n="1">(2) {#सुगन्धः#}
+({#न्धा, न्धं#}); </div><div n="1">(3) {#सुरभि#} (mfn.): v. Fragrant.</div>
 <LEND>

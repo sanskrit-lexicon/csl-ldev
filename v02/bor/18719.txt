@@ -1,8 +1,8 @@
 <L>18719<pc>576<k1>reckoning<k2>reckoning
-<div n="lb"/>{@RECKONING@}¦ (subs.): <div n="I">I The act: </div><div n="1">(1) {#गणनम्, #}
-<div n="lb"/>{# -ना, वि-, परि-;#} </div><div n="1">(2) {#संख्यानम्, परि-, प्र-।#} </div><div n="I">II
-<div n="lb"/>Thinking, consideration: </div><div n="1">(1) {#गणना;#} </div><div n="1">(2) [Page577]
-<div n="lb"/>{#वितर्कः#} (= guess). </div><div n="I">III A statement: perh.
-<div n="lb"/>{#गणना(न)पत्रम्।#} Ph.: {%dead r.%} ({%at sea%}): perh.
-<div n="lb"/>{#गतिगणना।#}</div>
+{@RECKONING@}¦ (subs.): <div n="I">I The act: </div><div n="1">(1) {#गणनम्, #}
+{# -ना, वि-, परि-;#} </div><div n="1">(2) {#संख्यानम्, परि-, प्र-।#} </div><div n="I">II
+Thinking, consideration: </div><div n="1">(1) {#गणना;#} </div><div n="1">(2) [Page577]
+{#वितर्कः#} (= guess). </div><div n="I">III A statement: perh.
+{#गणना(न)पत्रम्।#} Ph.: {%dead r.%} ({%at sea%}): perh.
+{#गतिगणना।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>43618<pc>4-0585<k1>पर्वन्<k2>प/र्वन्
-{#प/र्वन्#}¦ (=  {#परुस्#}) <lex>n.</lex> 
+{#प/र्वन्#}¦ (= {#परुस्#}) <lex>n.</lex> 
 <ls>NIR. 1, 20.</ls> 
 <ls>UṆĀDIS. 4, 112.</ls> 
 <div n="1"> 1) {%Knoten am Rohr und an Pflanzen überh.%} 
@@ -17,7 +17,7 @@
 <ls>VARĀH. BṚH. S. 80 (79), 2.</ls> am Stiel eines <is>Cāmara</is> 
 <ls>70, 5.</ls> eines Sonnenschirms 
 <ls>71, 2.</ls> am Pfeilschaft: {#शराणां नतपर्वणाम्#} 
-<ls>MBH. 5, 7143. 14, 2151.</ls> 
+<ls>MBH. 5, 7143.</ls> <ls n="MBH.">14, 2151.</ls> 
 <ls>ŚĀK. 162</ls> (wo {#अधुना नत°#} zu trennen ist). {#बाणेनानतपर्वणा#} (d. i. {#आनत#}) 
 <ls>MBH. 1, 1667.</ls> 
 <ls>R. 1, 1, 64.</ls> {#पञ्च°#} 
@@ -86,7 +86,7 @@
 <ls>M. 4, 150. 153.</ls> 
 <ls>SĀV. 1, 25.</ls> {#पर्वणि तं यज्ञं यजमानस्य#} 
 <ls>R. 1, 40, 7.</ls> {#य इमं शुचिरध्यायं पठेत्पर्वणि पर्वणि#} 
-<ls>MBH. 1, 262. 3, 13626. 4, 435.</ls> 
+<ls>MBH. 1, 262.</ls> <ls n="MBH.">3, 13626.</ls> <ls n="MBH.">4, 435.</ls> 
 <ls>YĀJÑ. 3, 334.</ls> 
 <ls>VP. 312.</ls> {#पर्ववर्जं व्रजेच्चैनाम् (भार्याम्)#} 
 <ls>M. 3, 45.</ls> 
@@ -97,7 +97,7 @@
 <ls>RAGH. 7, 30.</ls> {#दर्शमस्कन्दयन्पर्व पौर्णमासं च योगतः#} 
 <ls>M. 6, 9.</ls> {#मम चैतत्समारब्धं पर्व#} {%das beim Mondwechsel übliche Opfer%} 
 <ls>R. 3, 42, 14.</ls> {#प्रविद्धो रक्षसां भागः पर्वणीवाहिताग्निना#} 
-<ls>R.</ls> <ls>SCHL. 2, 43, 5.</ls> {%die Zeit, da der Mond bei seiner Conjunction oder Opposition durch den Knoten geht%} (Sonnenfinsterniss oder Mondfinsterniss): {#सतमस्कं पर्व विना त्वष्टा नामार्कमण्डलं कुरुते#} 
+<ls>R. SCHL. 2, 43, 5.</ls> {%die Zeit, da der Mond bei seiner Conjunction oder Opposition durch den Knoten geht%} (Sonnenfinsterniss oder Mondfinsterniss): {#सतमस्कं पर्व विना त्वष्टा नामार्कमण्डलं कुरुते#} 
 <ls>VARĀH. BṚH. S. 3, 6. 5, 23. fgg.</ls> 
 <ls>SŪRYAS. 4, 8. 5, 3. 14, 15.</ls> {#पीडाकरं फाल्गुणमासि पर्व#} 
 <ls>VARĀH. BṚH. S. 5, 73.</ls> {#आषाढपर्वणि#} 77. {#द्वावेव ग्रसते दिनेश्वरनिशाप्राणेश्वरौ भासुरौ भ्रान्तः पर्वणि पश्य दानवपतिः शीर्षावशेषीकृतः#} 

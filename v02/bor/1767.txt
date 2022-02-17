@@ -1,5 +1,5 @@
 <L>1767<pc>061<k1>beaten<k2>beaten
-<div n="lb"/>{@BEATEN@}¦ (adj.): <div n="1">(1) {#क्षुण्णः#} ({#ण्णा, ण्णं#}) <div n="xe">{%from the b.%}
-<div n="lb"/>{%track%}</div> <div n="xs">{#क्षुण्णाद्वर्त्मनः,#}</div> R. i. 17.; </div><div n="1">(2) {#प्रहतः#} ({#ता, तं#})
-<div n="lb"/>M. n.</div>
+{@BEATEN@}¦ (adj.): <div n="1">(1) {#क्षुण्णः#} ({#ण्णा, ण्णं#}) <div n="xe">{%from the b.%}
+{%track%}</div> <div n="xs">{#क्षुण्णाद्वर्त्मनः,#}</div> R. i. 17.; </div><div n="1">(2) {#प्रहतः#} ({#ता, तं#})
+M. n.</div>
 <LEND>

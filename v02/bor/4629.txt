@@ -1,6 +1,6 @@
 <L>4629<pc>150<k1>contradictory<k2>contradictory
-<div n="lb"/>{@CONTRADICTORY:@}¦ <div n="I">I Opposing in terms:</div>
-<div n="lb"/><div n="1">(1) {#विरुद्धः#} ({#द्धा, द्धं#}); </div><div n="1">(2) {#विरोधिन्#} (f. {#नी#}), <div n="xe">{%these%}
-<div n="lb"/>{%two assertions are c.:%}</div> <div n="xs">{#परस्परविरोधिनी वचने,#}</div> Mu. i.</div>
-<div n="lb"/><div n="I">II Repugnant, inconsistent: q. v.</div>
+{@CONTRADICTORY:@}¦ <div n="I">I Opposing in terms:</div>
+<div n="1">(1) {#विरुद्धः#} ({#द्धा, द्धं#}); </div><div n="1">(2) {#विरोधिन्#} (f. {#नी#}), <div n="xe">{%these%}
+{%two assertions are c.:%}</div> <div n="xs">{#परस्परविरोधिनी वचने,#}</div> Mu. i.</div>
+<div n="I">II Repugnant, inconsistent: q. v.</div>
 <LEND>

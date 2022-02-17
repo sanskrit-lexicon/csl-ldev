@@ -8,10 +8,10 @@
 <ls>SUND. 3, 30.</ls> 
 <ls>BRĀHMAṆ. 1, 29.</ls> 
 <ls>N. 2, 11. 12. 3, 17. 4, 6. 8, 17. 11, 18.</ls> 
-<ls>MBH. 1, 6017. 5, 6011.</ls> 
+<ls>MBH. 1, 6017.</ls> <ls n="MBH.">5, 6011.</ls> 
 <ls>R. 1, 1, 76. 3, 8. 8, 1. 51, 25. 60, 33. 2, 45, 1.</ls> 
 <ls>Spr. 305. 364. 1336. 1735. 2107</ls> (Gegens. {#दुरात्मन्)#} . 
-<ls>?2146. 2825. 5010. KĀM. NĪTIS. 3, 11. 36. KATHĀS. 28, 34 (voc.). 65, 84. 66, 168 (voc.). BRAHMA-P. in LA. 53, 5. 56, 4. SĀH. D. 2, 15. HIT. I, 8. WEBER, RĀMAT. UP. 354. <is>Śiva</is> MBH. 13, 1149.</ls> {#सूर्य#} 
+<ls n="Spr.">2146. 2825. 5010.</ls> <ls>KĀM. NĪTIS. 3, 11. 36.</ls> <ls>KATHĀS. 28, 34</ls> (voc.). <ls n="KATHĀS.">65, 84. 66, 168</ls> (voc.). <ls>BRAHMA-P. in LA. 53, 5. 56, 4.</ls> <ls>SĀH. D. 2, 15.</ls> <ls>HIT. I, 8.</ls> <ls>WEBER, RĀMAT. UP. 354.</ls> <is>Śiva</is> <ls>MBH. 13, 1149.</ls> {#सूर्य#} 
 <ls>R. 4, 40, 62.</ls> 
 <div n="2">— b) {%einen grossen Geist habend%} so v. a. {%hochbegabt, überaus klug%}: {#बुद्धिर्महात्मनाम्#} 
 <ls>Spr. 584.</ls> 

@@ -1,4 +1,4 @@
 <L>6911<pc>220<k1>drawing-room<k2>drawing-room
-<div n="lb"/>{@DRAWING-ROOM:@}¦ {#सभाजनकोष्ठः#} (?). Ph.: <div n="xe">{%to hold%}
-<div n="lb"/>{%a d.%}</div> <div n="xs">{#*सभाजनकोष्ठं करोति।#}</div>
+{@DRAWING-ROOM:@}¦ {#सभाजनकोष्ठः#} (?). Ph.: <div n="xe">{%to hold%}
+{%a d.%}</div> <div n="xs">{#*सभाजनकोष्ठं करोति।#}</div>
 <LEND>

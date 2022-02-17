@@ -1,11 +1,11 @@
 <L>4454<pc>144<k1>connection<k2>connection
-<div n="lb"/>{@CONNECTION, CONNEXION:@}¦ <div n="1">(1) {#सभ्बन्धः#} (best
-<div n="lb"/>equiv.), <div n="xe">{%an enviable c.:%}</div> <div n="xs">{#श्लाध्यसम्बन्धः,#}</div> R.; <div n="xe">{%the%}
-<div n="lb"/>{%c. between the families of Fanaka and Raghu%}</div>
-<div n="lb"/><div n="xs">{#जनकानाञ्च रघूणाञ्च सम्बन्धः,#}</div> Vi.; </div><div n="1">(2) {#सम्पर्कः,#} <div n="xe">{%to%}
-<div n="lb"/>{%disallow c.:%}</div> <div n="xs">{#सम्पर्कम् नानुजानाति,#}</div> Mal.; </div><div n="1">(3) {#सङ्गः#}
-<div n="lb"/>(=being together), <div n="xe">{%with your c.:%}</div> <div n="xs">{#सङ्गेन वः,#}</div>
-<div n="lb"/>Ku.: v. Association; </div><div n="1">(4) {#प्रबन्धः#} (=connec-
-<div n="lb"/>-tedness, as of a discourse), Ki.; </div><div n="1">(5) {#सङ्गमः#}
-<div n="lb"/>(sp. sexual c.).</div>
+{@CONNECTION, CONNEXION:@}¦ <div n="1">(1) {#सभ्बन्धः#} (best
+equiv.), <div n="xe">{%an enviable c.:%}</div> <div n="xs">{#श्लाध्यसम्बन्धः,#}</div> R.; <div n="xe">{%the%}
+{%c. between the families of Fanaka and Raghu%}</div>
+<div n="xs">{#जनकानाञ्च रघूणाञ्च सम्बन्धः,#}</div> Vi.; </div><div n="1">(2) {#सम्पर्कः,#} <div n="xe">{%to%}
+{%disallow c.:%}</div> <div n="xs">{#सम्पर्कम् नानुजानाति,#}</div> Mal.; </div><div n="1">(3) {#सङ्गः#}
+(=being together), <div n="xe">{%with your c.:%}</div> <div n="xs">{#सङ्गेन वः,#}</div>
+Ku.: v. Association; </div><div n="1">(4) {#प्रबन्धः#} (=connec-
+-tedness, as of a discourse), Ki.; </div><div n="1">(5) {#सङ्गमः#}
+(sp. sexual c.).</div>
 <LEND>

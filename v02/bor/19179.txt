@@ -1,6 +1,6 @@
 <L>19179<pc>594<k1>result<k2>result
-<div n="lb"/>{@RESULT@}¦ (subs.): <div n="1">(1) {#परिणामः,#} <div n="xe">{%this is the unfor-%}
-<div n="lb"/>{%tunate r. of my quietude:%}</div> <div n="xs">{#एष मे प्रशमस्य कर्कशः #}
-<div n="lb"/>{# परिणामः,#}</div> Vi. iii.; </div><div n="1">(2) {#फलम्#}: v. Consequence,
-<div n="lb"/>fruit; </div><div n="1">(3) {#सिद्धान्तः#} (r. of reasoning).</div>
+{@RESULT@}¦ (subs.): <div n="1">(1) {#परिणामः,#} <div n="xe">{%this is the unfor-%}
+{%tunate r. of my quietude:%}</div> <div n="xs">{#एष मे प्रशमस्य कर्कशः #}
+{# परिणामः,#}</div> Vi. iii.; </div><div n="1">(2) {#फलम्#}: v. Consequence,
+fruit; </div><div n="1">(3) {#सिद्धान्तः#} (r. of reasoning).</div>
 <LEND>

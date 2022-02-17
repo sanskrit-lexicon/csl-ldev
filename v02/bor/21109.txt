@@ -1,27 +1,27 @@
 <L>21109<pc>665<k1>speak<k2>speak
-<div n="lb"/>{@SPEAK:@}¦ <div n="1">(1) {#वक्ति, प्र-,#} ({#वच्,#} c. 2.), <div n="xe">{%I spoke to%}
-<div n="lb"/>{%the sun of this immutable doctrine:%}</div> <div n="xs">{#इमं विवस्वते #}
-<div n="lb"/>{# योगं प्रोक्तवानहमव्ययम्,#}</div> G. iv. 1.: v. To say;</div>
-<div n="lb"/><div n="1">(2) {#ब्रवीति#} <div n="xe">{%or%}</div> <div n="xs">{#ब्रूते#}</div> ({#ब्रू,#} c. 2.), <div n="xe">{%for good men s. of%}
-<div n="lb"/>{%their usefulness by results and not by words:%}</div>
-<div n="lb"/><div n="xs">{#ब्रवते हि फलेन साधवो न तु कण्ठेन निजोपयोगिताम्,#}</div> N.
-<div n="lb"/>ii. 48.; <div n="xe">{%Manu spoke to Ikṣvāku:%}</div> <div n="xs">{#मनुरिक्षा-#}
-<div n="lb"/>{#कवेऽब्रवीत्,#}</div> G. iv. 1.; </div><div n="1">(3) {#कथयति#} ({#कथ्,#} c. 10.)
-<div n="lb"/>=to tell), {%this s. s of the king's excellences that:%}
-<div n="lb"/>{#अनेन कथिता राज्ञो गुणा यत्॥।,#} R. x. 53.; <div n="xe">{%which%}
-<div n="lb"/>{%he was s. ing thus:%}</div> <div n="xs">{#इति कथयति तत्र,#}</div> Ki. iii. 37.;</div>
-<div n="lb"/><div n="1">(4) {#वदति#} ({#वद्,#} c. 1. = {%s.%} to), <div n="xe">{%given way to rage,%}
-<div n="lb"/>{%he spoke as follows in very bitter and plain lan-%}
-<div n="lb"/>{%guage:%}</div> <div n="xs">{#वाचमवददिति रोषवशादतिमात्रनिष्ठुरस्फुटतराक्ष-#}
-<div n="lb"/>{#रामसौ,#}</div> Si. xv. 13.; </div><div n="1">(5) {#गदति, नि-#} ({#गद्,#} c. 1.
-<div n="lb"/>=4.), {%the lion spoke to him in human tongue:%}
-<div n="lb"/>{#तं मनुष्यवाचा निजगाद सिंहः,#} R. ii. 33.; <div n="xe">{%the general%}
-<div n="lb"/>{%spoke to them:%}</div> <div n="xs">{#सेनान्या ते जगदिरे,#}</div> Ki. xv. 7.;</div>
-<div n="lb"/><div n="1">(6) {#भाषते#} ({#भाष्,#} c. 1. = to say, utter), <div n="xe">{%as if%}
-<div n="lb"/>{%spoke the same thing again:%}</div> <div n="xs">{#तमेवार्थमभाषतेव,#}</div> R.
-<div n="lb"/>ii. 51.; </div><div n="1">(7) {#वाचम्#} <div n="xe">{%or%}</div> <div n="xs">{#गिरम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#गाम् उदीरयति, #}
-<div n="lb"/>{# उदगिरति, विसृजति,#}</div> etc. (=make a speech).
-<div n="lb"/>Ph.: (a) <div n="xe">{%s. out plainly:%}</div> <div n="xs">{#भिन्नार्थमभिधीयताम्,#}</div> Sa.
-<div n="lb"/>vi.; (b) {%formerly they also could s. like men:%}
-<div n="lb"/>{#एतेषामपि पुरा पुरुषाणामिव वागासीत्,#} K.</div>
+{@SPEAK:@}¦ <div n="1">(1) {#वक्ति, प्र-,#} ({#वच्,#} c. 2.), <div n="xe">{%I spoke to%}
+{%the sun of this immutable doctrine:%}</div> <div n="xs">{#इमं विवस्वते #}
+{# योगं प्रोक्तवानहमव्ययम्,#}</div> G. iv. 1.: v. To say;</div>
+<div n="1">(2) {#ब्रवीति#} <div n="xe">{%or%}</div> <div n="xs">{#ब्रूते#}</div> ({#ब्रू,#} c. 2.), <div n="xe">{%for good men s. of%}
+{%their usefulness by results and not by words:%}</div>
+<div n="xs">{#ब्रवते हि फलेन साधवो न तु कण्ठेन निजोपयोगिताम्,#}</div> N.
+ii. 48.; <div n="xe">{%Manu spoke to Ikṣvāku:%}</div> <div n="xs">{#मनुरिक्षा-#}
+{#कवेऽब्रवीत्,#}</div> G. iv. 1.; </div><div n="1">(3) {#कथयति#} ({#कथ्,#} c. 10.)
+=to tell), {%this s. s of the king's excellences that:%}
+{#अनेन कथिता राज्ञो गुणा यत्॥।,#} R. x. 53.; <div n="xe">{%which%}
+{%he was s. ing thus:%}</div> <div n="xs">{#इति कथयति तत्र,#}</div> Ki. iii. 37.;</div>
+<div n="1">(4) {#वदति#} ({#वद्,#} c. 1. = {%s.%} to), <div n="xe">{%given way to rage,%}
+{%he spoke as follows in very bitter and plain lan-%}
+{%guage:%}</div> <div n="xs">{#वाचमवददिति रोषवशादतिमात्रनिष्ठुरस्फुटतराक्ष-#}
+{#रामसौ,#}</div> Si. xv. 13.; </div><div n="1">(5) {#गदति, नि-#} ({#गद्,#} c. 1.
+=4.), {%the lion spoke to him in human tongue:%}
+{#तं मनुष्यवाचा निजगाद सिंहः,#} R. ii. 33.; <div n="xe">{%the general%}
+{%spoke to them:%}</div> <div n="xs">{#सेनान्या ते जगदिरे,#}</div> Ki. xv. 7.;</div>
+<div n="1">(6) {#भाषते#} ({#भाष्,#} c. 1. = to say, utter), <div n="xe">{%as if%}
+{%spoke the same thing again:%}</div> <div n="xs">{#तमेवार्थमभाषतेव,#}</div> R.
+ii. 51.; </div><div n="1">(7) {#वाचम्#} <div n="xe">{%or%}</div> <div n="xs">{#गिरम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#गाम् उदीरयति, #}
+{# उदगिरति, विसृजति,#}</div> etc. (=make a speech).
+Ph.: (a) <div n="xe">{%s. out plainly:%}</div> <div n="xs">{#भिन्नार्थमभिधीयताम्,#}</div> Sa.
+vi.; (b) {%formerly they also could s. like men:%}
+{#एतेषामपि पुरा पुरुषाणामिव वागासीत्,#} K.</div>
 <LEND>

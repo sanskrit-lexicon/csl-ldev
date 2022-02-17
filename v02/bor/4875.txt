@@ -1,8 +1,8 @@
 <L>4875<pc>157<k1>countenance<k2>countenance
-<div n="lb"/>{@COUNTENANCE@}¦ (subs.): <div n="I">I Face: q. v.: {#आननम्,#}
-<div n="lb"/>“{%out of c.%}”: {#नताननः#} ({#ना, नं#}) (?). </div><div n="I">II Look,
-<div n="lb"/>appearance: </div><div n="1">(1) {#आकारः;#} </div><div n="1">(2) {#आकृतिः।#} </div><div n="I">III
-<div n="lb"/>Favour, encouragement: q. v.: <div n="xe">{%To give c.%}
-<div n="lb"/>{%to:%}</div> <div n="xs">{#अनुकूलयति#}</div> (nomi.). </div><div n="I">IV Show, pretence:
-<div n="lb"/>q. v.</div>
+{@COUNTENANCE@}¦ (subs.): <div n="I">I Face: q. v.: {#आननम्,#}
+“{%out of c.%}”: {#नताननः#} ({#ना, नं#}) (?). </div><div n="I">II Look,
+appearance: </div><div n="1">(1) {#आकारः;#} </div><div n="1">(2) {#आकृतिः।#} </div><div n="I">III
+Favour, encouragement: q. v.: <div n="xe">{%To give c.%}
+{%to:%}</div> <div n="xs">{#अनुकूलयति#}</div> (nomi.). </div><div n="I">IV Show, pretence:
+q. v.</div>
 <LEND>

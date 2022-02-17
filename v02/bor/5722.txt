@@ -1,5 +1,5 @@
 <L>5722<pc>183<k1>delay<k2>delay
-<div n="lb"/>{@DELAY@}¦ (v. i.): <div n="1">(1) {#विलम्बते#} ({#लम्ब्,#} c. l); </div><div n="1">(2)
-<div n="lb"/>{#चिरयति#} <div n="xe">{%or%}</div> <div n="xs">{#चिरायते#}</div> (nomi.), <div n="xe">{%why my men are d.%}
-<div n="lb"/>{%ing:%}</div> <div n="xs">{#किमिति चिरायते मे जनः,#}</div> P.</div>
+{@DELAY@}¦ (v. i.): <div n="1">(1) {#विलम्बते#} ({#लम्ब्,#} c. l); </div><div n="1">(2)
+{#चिरयति#} <div n="xe">{%or%}</div> <div n="xs">{#चिरायते#}</div> (nomi.), <div n="xe">{%why my men are d.%}
+{%ing:%}</div> <div n="xs">{#किमिति चिरायते मे जनः,#}</div> P.</div>
 <LEND>

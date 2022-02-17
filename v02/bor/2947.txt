@@ -1,6 +1,6 @@
 <L>2947<pc>099<k1>calumny<k2>calumny
-<div n="lb"/>{@CALUMNY:@}¦ <div n="1">(1) {#परिवादः,#} <div n="xe">{%not before acquainted%}
-<div n="lb"/>{%with c. s%}</div> <div n="xs">{#परिवादगोचरमयातपूर्वः#}</div> ({#र्वा, वं#}), Ki.; </div><div n="1">(2)
-<div n="lb"/>{#परिभाषणम्#} (rare); </div><div n="1">(3) {#पिशुनवाक्यम्#} (=evil
-<div n="lb"/>speech): v. Slander, detraction.</div>
+{@CALUMNY:@}¦ <div n="1">(1) {#परिवादः,#} <div n="xe">{%not before acquainted%}
+{%with c. s%}</div> <div n="xs">{#परिवादगोचरमयातपूर्वः#}</div> ({#र्वा, वं#}), Ki.; </div><div n="1">(2)
+{#परिभाषणम्#} (rare); </div><div n="1">(3) {#पिशुनवाक्यम्#} (=evil
+speech): v. Slander, detraction.</div>
 <LEND>

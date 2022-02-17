@@ -1,4 +1,4 @@
 <L>13784<pc>424<k1>look up<k2>look up
-<div n="lb"/>{@LOOK UP:@}¦ <div n="1">(1) {#उद्वीक्षते;#} </div><div n="1">(2) {#उत्पश्यति;#} </div><div n="1">(3) {#उदी-#}
-<div n="lb"/>{#क्षते।#} These verbs take an acc.</div>
+{@LOOK UP:@}¦ <div n="1">(1) {#उद्वीक्षते;#} </div><div n="1">(2) {#उत्पश्यति;#} </div><div n="1">(3) {#उदी-#}
+{#क्षते।#} These verbs take an acc.</div>
 <LEND>

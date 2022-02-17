@@ -1,12 +1,12 @@
 <L>20259<pc>632<k1>severe<k2>severe
-<div n="lb"/>{@SEVERE:@}¦ <div n="I">I Of persons: </div><div n="1">(1) {#खर#} (f. {#रा#}), {#प्र-,#}
-<div n="lb"/><div n="xe">{%was neither s. nor very mild:%}</div> <div n="xs">{#न खरो न च भूयसा #}
-<div n="lb"/>{# मृदुः,#}</div> R. viii. 9.; </div><div n="1">(2) {#तोक्ष्ण#} (f. {#क्ष्णा#}), Ka.;</div>
-<div n="lb"/><div n="1">(3) {#निष्ठुर#} (f. {#रा#}): v. Cruel; </div><div n="1">(4) {#परुष#} (f. {#षा#})
-<div n="lb"/>: v. Rough, harsh. </div><div n="I">II Of things etc. </div><div n="1">(1)
-<div n="lb"/>{#तीव्र#} (f. {#व्रा#}), <div n="xe">{%s. affliction:%}</div> <div n="xs">{#तीव्रामिषङ्गः,#}</div> Ku. iii.
-<div n="lb"/>73.; </div><div n="1">(2) {#चण्ड#} (f. {#ण्डा#}), {#प्र-,#} <div n="xe">{%s. heat:%}</div> <div n="xs">{#प्रचण्डातपः,#}</div>
-<div n="lb"/>Ri. i. 10.; </div><div n="1">(3) {#उग्र#} (f. {#ग्रा#}), <div n="xe">{%s. penances:%}</div> <div n="xs">{#उग्रं #}
-<div n="lb"/>{# तपस्#}</div> Vi. iii. 44.; </div><div n="1">(4) {#खर#} (f. {#रा#}), {#प्र-:#} v.
-<div n="lb"/>Also fierce, unbearable.</div>
+{@SEVERE:@}¦ <div n="I">I Of persons: </div><div n="1">(1) {#खर#} (f. {#रा#}), {#प्र-,#}
+<div n="xe">{%was neither s. nor very mild:%}</div> <div n="xs">{#न खरो न च भूयसा #}
+{# मृदुः,#}</div> R. viii. 9.; </div><div n="1">(2) {#तोक्ष्ण#} (f. {#क्ष्णा#}), Ka.;</div>
+<div n="1">(3) {#निष्ठुर#} (f. {#रा#}): v. Cruel; </div><div n="1">(4) {#परुष#} (f. {#षा#})
+: v. Rough, harsh. </div><div n="I">II Of things etc. </div><div n="1">(1)
+{#तीव्र#} (f. {#व्रा#}), <div n="xe">{%s. affliction:%}</div> <div n="xs">{#तीव्रामिषङ्गः,#}</div> Ku. iii.
+73.; </div><div n="1">(2) {#चण्ड#} (f. {#ण्डा#}), {#प्र-,#} <div n="xe">{%s. heat:%}</div> <div n="xs">{#प्रचण्डातपः,#}</div>
+Ri. i. 10.; </div><div n="1">(3) {#उग्र#} (f. {#ग्रा#}), <div n="xe">{%s. penances:%}</div> <div n="xs">{#उग्रं #}
+{# तपस्#}</div> Vi. iii. 44.; </div><div n="1">(4) {#खर#} (f. {#रा#}), {#प्र-:#} v.
+Also fierce, unbearable.</div>
 <LEND>

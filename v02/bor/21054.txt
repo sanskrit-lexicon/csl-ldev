@@ -1,6 +1,6 @@
 <L>21054<pc>663<k1>sour<k2>sour
-<div n="lb"/>{@SOUR@}¦ (adj.): <div n="I">I Acid: <div n="xe">{%unripe mango is s. but%}
-<div n="lb"/>{%tasty:%}</div> <div n="xs">{#आम्रमाममम्लं स्वादु,#}</div> Bha.; <div n="xe">{%somewhat s.%}
-<div n="lb"/>{%and sweet:%}</div> <div n="xs">{#ईषदम्लञ्च मधुरम्,#}</div> Bha. </div><div n="I">III Fig.,
-<div n="lb"/>harsh, bitter: q. v.: {#कर्कश#} (f. {#शा#}).</div>
+{@SOUR@}¦ (adj.): <div n="I">I Acid: <div n="xe">{%unripe mango is s. but%}
+{%tasty:%}</div> <div n="xs">{#आम्रमाममम्लं स्वादु,#}</div> Bha.; <div n="xe">{%somewhat s.%}
+{%and sweet:%}</div> <div n="xs">{#ईषदम्लञ्च मधुरम्,#}</div> Bha. </div><div n="I">III Fig.,
+harsh, bitter: q. v.: {#कर्कश#} (f. {#शा#}).</div>
 <LEND>

@@ -4,8 +4,8 @@
 <ls>KAUŚ. 111. 127.</ls> 
 <ls>M. 9, 46.</ls> 
 <ls>YĀJÑ. 2, 182.</ls> 
-<ls>MBH. 3, 13298. 13, 2673. 14, 2653. 2665.</ls> 
-<ls>HARIV. 7166. 7242. 7697. fg. 7788.</ls> 
+<ls>MBH. 3, 13298.</ls> <ls n="MBH.">13, 2673.</ls> <ls n="MBH.">14, 2653.</ls> <ls n="MBH. 14,">2665.</ls> 
+<ls>HARIV. 7166.</ls> <ls n="HARIV.">7242.</ls> <ls n="HARIV.">7697. fg.</ls> <ls n="HARIV.">7788.</ls> 
 <ls>R. 1, 13, 51.</ls> 
 <ls>MṚCCH. 60, 8. 87, 7.</ls> 
 <ls>RAGH. 2, 55. 5, 22. 15, 55.</ls> 

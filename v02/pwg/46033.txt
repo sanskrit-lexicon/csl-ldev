@@ -23,12 +23,12 @@
 <ls>ŚVETĀŚV. UP. 4, 18.</ls> {#यज्ञ#} 
 <ls>M. 5, 23.</ls> {#निधि#} 
 <ls>8, 38. 39.</ls> {#उपनिषद्#} 
-<ls>MBH. 1, 3629. 5, 1566. 13, 3512.</ls> 
+<ls>MBH. 1, 3629.</ls> <ls n="MBH.">5, 1566.</ls> <ls n="MBH.">13, 3512.</ls> 
 <ls>BHAG. 2, 20. 15, 4.</ls> 
 <ls>R. 1, 25, 15. 48, 10.</ls> 
 <ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. No. 95, Z. 13.</ls> {#पुरुष#} 
 <ls>PRAB. 16, 4.</ls> von <is>Viṣṇu</is> (vgl. {#पुराणपुरुष#}) 
-<ls>VARĀH. BṚH. S. 42 (43),</ls> <ls>?54; vgl. HARIV. 12562, wo LANGLOIS</ls> {#पुराणश्च#} gelesen zu haben scheint. {#पुराणमित्येव न साधु सर्वम्#} 
+<ls>VARĀH. BṚH. S. 42 (43), 54</ls>; vgl. <ls>HARIV. 12562</ls>, wo <ls>LANGLOIS</ls> {#पुराणश्च#} gelesen zu haben scheint. {#पुराणमित्येव न साधु सर्वम्#} 
 <ls>MĀLAV. 4, 2.</ls> {#°कूप#} 
 <ls>MṚCCH. 110, 24.</ls> {#व्रीहयः#} 
 <ls>ŚAT. BR. 2, 4, 3, 7.</ls> {#अनड्वान्#} 
@@ -51,7 +51,7 @@
 <ls>ĀŚV. GṚHY. 4, 6.</ls> {#इतिहासः पुराणं विद्या उपनिषदः#} 
 <ls>ŚAT. BR. 14, 5, 4, 10. 7, 3, 11.</ls> 
 <ls>M. 3, 232.</ls> 
-<ls>MBH. 1. 235</ls> <ls>?= 246. 468. 649. 852. 863. fg. 1438. fg. 5, 7073. 12, 7370. fg. 7571. 13, 3990. 4304. HARIV. 2214. R. 1, 8, 5. 4, 61, 4.</ls> {#मात्स्यकं नाम पुराणम्#} 
+<ls>MBH. 1, 235</ls> = <ls n="MBH. 1,">246.</ls> <ls n="MBH. 1,">468.</ls> <ls n="MBH. 1,">649.</ls> <ls n="MBH. 1,">852.</ls> <ls n="MBH. 1,">863. fg.</ls> <ls n="MBH. 1,">1438. fg.</ls> <ls n="MBH.">5, 7073.</ls> <ls n="MBH.">12, 7370. fg.</ls> <ls n="MBH. 12,">7571.</ls> <ls n="MBH.">13, 3990.</ls> <ls n="MBH. 13,">4304.</ls> <ls>HARIV. 2214.</ls> <ls>R. 1, 8, 5. 4, 61, 4.</ls> {#मात्स्यकं नाम पुराणम्#} 
 <ls>MATSYOP. 56.</ls> 
 <ls>LALIT. ed. Calc. 179, 3.</ls> {#इदं वा अग्रे नैव किंचनासीन्न द्यौरासीदित्यादिकं जगतः प्रागवस्थानमुपक्रम्य सर्गप्रतिपादकं वाक्यजातं पुराणम्#} 
 <ls>SĀY.</ls> in der Einl. zu <ls>AIT. BR.</ls>; vgl. <ls>BURNOUF</ls> in der Einl. zu <ls>BHĀG. P. I, X.</ls> {#पुराणेषु#} 
@@ -70,7 +70,7 @@
 <ls>TRIK.</ls> und <ls>ŚABDAR.</ls> <lex>m.</lex> <lex>n.</lex>) {%eine Münze von einem best. Gewicht%} 
 <ls>BURN. Intr. 597. fg.</ls> = {#कार्षापण#} 
 <ls>TRIK.</ls> <ls>ŚABDAR.</ls> = {#पण#} 
-<ls>MED.</ls> <ls>?= 16 <is>Paṇa</is> H. an.</ls> {#ते (रौप्यमाषकाः) षोडश स्याद्धरणं पुराणश्चैव राजतः#} 
+<ls>MED.</ls> = <ls>16 <is>Paṇa</is></ls> <ls>H. an.</ls> {#ते (रौप्यमाषकाः) षोडश स्याद्धरणं पुराणश्चैव राजतः#} 
 <ls>M. 8, 136.</ls> {#पञ्चभिर्याति दासत्वं पुराणैः को ऽपि मानवः#} 
 <ls>Spr. 1666.</ls> 
 <ls>PĀṂŚUPRAD.</ls> bei <ls>BURN. Intr. 146.</ls> {#षट्त्रिंशन्मते धेनुः पञ्चभिराद्यानां मध्यानां त्रिपुराणिकाः द्वात्रिंशत्कृष्णलपरिमितं#} (sic) {#रजतपुराणः#} . 

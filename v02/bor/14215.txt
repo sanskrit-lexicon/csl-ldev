@@ -1,15 +1,15 @@
 <L>14215<pc>436<k1>marriage<k2>marriage
-<div n="lb"/>{@MARRIAGE:@}¦ <div n="1">(1) {#विवाहः,#} <div n="xe">{%m. dress:%}</div> <div n="xs">{#विवाहवेषः,#}</div> R.
-<div n="lb"/>vi. 10.; <div n="xe">{%bad m.:%}</div> <div n="xs">{#कुविवाहः,#}</div> M. iii. 63.; <div n="xe">{%after%}
-<div n="lb"/>{%celebrating the m. of his after-born sister:%}</div>
-<div n="lb"/><div n="xs">{#अनुष्ठितानन्तरजाविवाहः,#}</div> <ls>R.</ls> ; <div n="xe">{%and making him the%}
-<div n="lb"/>{%m. witness:%}</div> <div n="xs">{#तमेव चाधाय विवाहसाक्ष्ये,#}</div> <ls>R.</ls> ; </div><div n="1">(2)
-<div n="lb"/>{#उद्वाहः,#} <div n="xe">{%m. time:%}</div> <div n="xs">{#उद्वाहकालः,#}</div> Vas.; {%m.-gift:%}
-<div n="lb"/>{#औद्वाहिकम्,#} <ls>M.</ls> ; </div><div n="1">(3) {#परिणयः,#} <div n="xe">{%recent m.:%}</div> <div n="xs">{#नव-#}
-<div n="lb"/>{#परिणयः,#}</div> Ku. vii. 95.; <div n="xe">{%seeing this m.:%}</div> <div n="xs">{#अनयोः #}
-<div n="lb"/>{# परिणयमवलोक्य,#}</div> N. xvi. 130.; </div><div n="1">(4) {#उपय(या)मः#}
-<div n="lb"/>(rare); </div><div n="1">(5) {#पाणिग्रहः, -णम्, दारपरिग्रहः,#} etc.
-<div n="lb"/>(= taking a wife). <div n="xe">{%M.-chamber:%}</div> <div n="xs">{#कौतुकागारम्,#}</div>
-<div n="lb"/>Ku. {%M.-string:%} </div><div n="1">(1) {#मङ्गलसूत्रम्;#} </div><div n="1">(2) {#कौतुकम्,#} <ls>R.</ls> ;</div>
-<div n="lb"/><div n="1">(3) {#कङ्कणम्,#} Vi.</div>
+{@MARRIAGE:@}¦ <div n="1">(1) {#विवाहः,#} <div n="xe">{%m. dress:%}</div> <div n="xs">{#विवाहवेषः,#}</div> R.
+vi. 10.; <div n="xe">{%bad m.:%}</div> <div n="xs">{#कुविवाहः,#}</div> M. iii. 63.; <div n="xe">{%after%}
+{%celebrating the m. of his after-born sister:%}</div>
+<div n="xs">{#अनुष्ठितानन्तरजाविवाहः,#}</div> <ls>R.</ls> ; <div n="xe">{%and making him the%}
+{%m. witness:%}</div> <div n="xs">{#तमेव चाधाय विवाहसाक्ष्ये,#}</div> <ls>R.</ls> ; </div><div n="1">(2)
+{#उद्वाहः,#} <div n="xe">{%m. time:%}</div> <div n="xs">{#उद्वाहकालः,#}</div> Vas.; {%m.-gift:%}
+{#औद्वाहिकम्,#} <ls>M.</ls> ; </div><div n="1">(3) {#परिणयः,#} <div n="xe">{%recent m.:%}</div> <div n="xs">{#नव-#}
+{#परिणयः,#}</div> Ku. vii. 95.; <div n="xe">{%seeing this m.:%}</div> <div n="xs">{#अनयोः #}
+{# परिणयमवलोक्य,#}</div> N. xvi. 130.; </div><div n="1">(4) {#उपय(या)मः#}
+(rare); </div><div n="1">(5) {#पाणिग्रहः, -णम्, दारपरिग्रहः,#} etc.
+(= taking a wife). <div n="xe">{%M.-chamber:%}</div> <div n="xs">{#कौतुकागारम्,#}</div>
+Ku. {%M.-string:%} </div><div n="1">(1) {#मङ्गलसूत्रम्;#} </div><div n="1">(2) {#कौतुकम्,#} <ls>R.</ls> ;</div>
+<div n="1">(3) {#कङ्कणम्,#} Vi.</div>
 <LEND>

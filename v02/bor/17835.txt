@@ -1,7 +1,7 @@
 <L>17835<pc>546<k1>process<k2>process
-<div n="lb"/>{@PROCESS:@}¦ <div n="I">I Going on: {%in p. of time:%}
-<div n="lb"/>{#कालक्रमेण,#} Ku. </div><div n="I">II Plan, means: q. v.:
-<div n="lb"/>{#उपायः।#} </div><div n="I">III Legal: perh. {#आह्वानपत्रम्।#} </div><div n="I">IV
-<div n="lb"/>In ana.: expr. with {#निर्गत#} (f. {#ता#}) <div n="xe">{%or%}</div> <div n="xs">{#उत्थित#}</div>
-<div n="lb"/>(f. {#ता#}).</div>
+{@PROCESS:@}¦ <div n="I">I Going on: {%in p. of time:%}
+{#कालक्रमेण,#} Ku. </div><div n="I">II Plan, means: q. v.:
+{#उपायः।#} </div><div n="I">III Legal: perh. {#आह्वानपत्रम्।#} </div><div n="I">IV
+In ana.: expr. with {#निर्गत#} (f. {#ता#}) <div n="xe">{%or%}</div> <div n="xs">{#उत्थित#}</div>
+(f. {#ता#}).</div>
 <LEND>

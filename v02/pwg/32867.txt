@@ -5,7 +5,7 @@
 <ls>N. 3, 5. 7, 14.</ls> 
 <ls>SĀV. 5, 109.</ls> 
 <ls>INDR. 1, 13.</ls> 
-<ls>MBH. 1, 14. 2879. 15, 866.</ls> 
+<ls>MBH. 1, 14.</ls> <ls n="MBH. 1,">2879.</ls> <ls n="MBH.">15, 866.</ls> 
 <ls>R. 1, 1, 69. 44, 21.</ls> 
 <ls>RAGH. 11, 85.</ls> 
 <ls>KATHĀS. 10, 168.</ls> 

@@ -1,12 +1,12 @@
 <L>1827<pc>063<k1>before<k2>before
-<div n="lb"/>{@BEFORE@}¦ (adv.): <div n="I">I Of space: </div><div n="1">(1) {#पुरस्,#} {%from b.%}
-<div n="lb"/>{#पुरस्तात्,#} K.: </div><div n="1">(2) {#पुरतः;#} </div><div n="1">(3) {#अग्रतः;#} </div><div n="1">(4) {#अग्रे।#} </div><div n="I">II
-<div n="lb"/>Of time: </div><div n="1">(1) {#पुरा#} (=formerly: q. v.):</div>
-<div n="lb"/><div n="1">(2) {#पूर्वम्#} <div n="xe">{%not seen or known or felt b.%}</div> <div n="xs">{#अपूर्वः#}</div> ({#र्वा, #}
-<div n="lb"/>{# र्वं#}); <div n="xe">{%not heard b.%}</div> <div n="xs">{#अश्रुतपूर्वः#}</div> ({#र्वा, र्वं#}). N.B. Ob-
-<div n="lb"/>-serve the cons. of {#यावत् न॥।तावत्॥#} {%b. the%}
-<div n="lb"/>{%Demons laughed in this way, his%} ({%step%}) <div n="xe">{%found%}
-<div n="lb"/>{%measure in the sky%}</div> <div n="xs">{#यावदित्थमहसन्न दानवास्तावदस्य न #}
-<div n="lb"/>{# ममौ नभस्तले,#}</div> Si. xiv. 75.; see also B. xii. 4.,
-<div n="lb"/>Si. i. 12.</div>
+{@BEFORE@}¦ (adv.): <div n="I">I Of space: </div><div n="1">(1) {#पुरस्,#} {%from b.%}
+{#पुरस्तात्,#} K.: </div><div n="1">(2) {#पुरतः;#} </div><div n="1">(3) {#अग्रतः;#} </div><div n="1">(4) {#अग्रे।#} </div><div n="I">II
+Of time: </div><div n="1">(1) {#पुरा#} (=formerly: q. v.):</div>
+<div n="1">(2) {#पूर्वम्#} <div n="xe">{%not seen or known or felt b.%}</div> <div n="xs">{#अपूर्वः#}</div> ({#र्वा, #}
+{# र्वं#}); <div n="xe">{%not heard b.%}</div> <div n="xs">{#अश्रुतपूर्वः#}</div> ({#र्वा, र्वं#}). N.B. Ob-
+-serve the cons. of {#यावत् न॥।तावत्॥#} {%b. the%}
+{%Demons laughed in this way, his%} ({%step%}) <div n="xe">{%found%}
+{%measure in the sky%}</div> <div n="xs">{#यावदित्थमहसन्न दानवास्तावदस्य न #}
+{# ममौ नभस्तले,#}</div> Si. xiv. 75.; see also B. xii. 4.,
+Si. i. 12.</div>
 <LEND>

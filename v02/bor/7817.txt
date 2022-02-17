@@ -1,5 +1,5 @@
 <L>7817<pc>247<k1>eruption<k2>eruption
-<div n="lb"/>{@ERUPTION:@}¦ <div n="I">I A bursting forth: </div><div n="1">(1) {#निःसरणम्;#}</div>
-<div n="lb"/><div n="1">(2) {#निर्गमः।#} </div><div n="I">II Of the skin: {%what are these e.s:%}
-<div n="lb"/>{#*किं निर्गतमङ्गे:#} v. Pimple, itch.</div>
+{@ERUPTION:@}¦ <div n="I">I A bursting forth: </div><div n="1">(1) {#निःसरणम्;#}</div>
+<div n="1">(2) {#निर्गमः।#} </div><div n="I">II Of the skin: {%what are these e.s:%}
+{#*किं निर्गतमङ्गे:#} v. Pimple, itch.</div>
 <LEND>

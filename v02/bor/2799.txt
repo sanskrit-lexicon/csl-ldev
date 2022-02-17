@@ -1,7 +1,7 @@
 <L>2799<pc>094<k1>burning<k2>burning
-<div n="lb"/>{@BURNING@}¦ (adj.): <div n="I">I Active: expr. by a comp.
-<div n="lb"/>with {#दाहः#} <div n="xe">{%b. power%}</div> <div n="xs">{#दाहतक्तिः;#}</div> <div n="xe">{%b. fever,%}</div> <div n="xs">{#दाहज्वरः।#}</div></div>
-<div n="lb"/><div n="I">II Passive: {#ज्वलत्#} (f. {#न्ती#}): v. Burn (v. i.)</div>
-<div n="lb"/><div n="I">III Scorching, hot: q. v. Ph. {%b. scent:%}
-<div n="lb"/>{#उग्रगन्धः।#}</div>
+{@BURNING@}¦ (adj.): <div n="I">I Active: expr. by a comp.
+with {#दाहः#} <div n="xe">{%b. power%}</div> <div n="xs">{#दाहतक्तिः;#}</div> <div n="xe">{%b. fever,%}</div> <div n="xs">{#दाहज्वरः।#}</div></div>
+<div n="I">II Passive: {#ज्वलत्#} (f. {#न्ती#}): v. Burn (v. i.)</div>
+<div n="I">III Scorching, hot: q. v. Ph. {%b. scent:%}
+{#उग्रगन्धः।#}</div>
 <LEND>

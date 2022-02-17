@@ -1,7 +1,7 @@
 <L>8260<pc>261<k1>extremity<k2>extremity
-<div n="lb"/>{@EXTREMITY:@}¦ <div n="I">I Highest degree: {#परा कोटिः:#}
-<div n="lb"/>v. Acme. </div><div n="I">II End: q.v.: {#अन्तः,#} {%e. of nail:%}
-<div n="lb"/>{#नखान्तः,#} At. </div><div n="I">III Utmost limit: {#अवधिः,#} <div n="xe">{%e. of%}
-<div n="lb"/>{%the delightful:%}</div> <div n="xs">{#आह्लादनीयानामवधिः,#}</div> K. </div><div n="I">IV
-<div n="lb"/>Greatest need: {#अतिकृच्छ्रम्#} <div n="xe">{%or%}</div> <div n="xs">{#महत् कृच्छ्रम्।#}</div></div>
+{@EXTREMITY:@}¦ <div n="I">I Highest degree: {#परा कोटिः:#}
+v. Acme. </div><div n="I">II End: q.v.: {#अन्तः,#} {%e. of nail:%}
+{#नखान्तः,#} At. </div><div n="I">III Utmost limit: {#अवधिः,#} <div n="xe">{%e. of%}
+{%the delightful:%}</div> <div n="xs">{#आह्लादनीयानामवधिः,#}</div> K. </div><div n="I">IV
+Greatest need: {#अतिकृच्छ्रम्#} <div n="xe">{%or%}</div> <div n="xs">{#महत् कृच्छ्रम्।#}</div></div>
 <LEND>

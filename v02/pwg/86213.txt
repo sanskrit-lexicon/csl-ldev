@@ -9,11 +9,11 @@
 <ls>an. 3, 681.</ls> 
 <ls>MED. l. 127. fg.</ls> <ls>HALĀY. 2, 420.</ls> <ls>ṚV. 4, 57, 4.</ls> <ls>AV. 2, 8, 4.</ls> <ls>VS. 12, 71.</ls> <ls>TS. 6, 6, 7, 4.</ls> <ls>KĀTY. ŚR. 22, 3, 48.</ls> <ls>KAUŚ. 20. 93. 106.</ls> {#°योजन#} 
 <ls>PĀR. GṚHY. 2, 13.</ls> 
-<ls>MBH. 3, 332. 15289. 5, 4427. 9, 3348. 12, 5656.</ls> 
+<ls>MBH. 3, 332.</ls> <ls n="MBH. 3,">15289.</ls> <ls n="MBH.">5, 4427.</ls> <ls n="MBH.">9, 3348.</ls> <ls n="MBH.">12, 5656.</ls> 
 <ls>HARIV. 4438.</ls> 
 <ls>R. 1, 66, 14.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 76, 24. 3, 4, 12. 7, 7, 47.</ls> 
+
+<ls>R. GORR. 2, 76, 24. 3, 4, 12. 7, 7, 47.</ls> 
 <ls>VARĀH. BṚH. S. 33, 9. 46, 63.</ls> 
 <ls>BṚH. 27, 5.</ls> {#नख°#} 
 <ls>Verz. d. Oxf. H. 82,a, No. 138, Z. 7.</ls> <ls>BHĀG. P. 10,68,41.</ls> {#कर्षन्तो लाङ्गलैः#} 
@@ -52,7 +52,7 @@ v. l. für {#जाङ्गल#}
 <ls>MED.</ls> {%Hemionitis cordifolia%} 
 <ls>RATNAM. 10.</ls> = {#रास्ना#} 
 <ls>49.</ls> {%Rubia Munjista%} und {%Hedysarum lagopodioides%} 
-<ls>DHANV.</ls> in <ls>NIGH. PR. -</ls> <ls>PAÑCAR. 1, 10, 51.</ls> {#°कल्क#} 
+<ls>DHANV.</ls> in <ls>NIGH. PR.</ls> - <ls>PAÑCAR. 1, 10, 51.</ls> {#°कल्क#} 
 <ls>SUŚR. 1, 370, 11. 2, 49, 12. 150, 21.</ls> Nach den Erklärern zu <ls>AK. 2, 4, 5, 34</ls> auch = {#लाङ्गलिन्#} {%Cocosnussbaum.%} 
 <div n="2">— b) N. pr. eines Flusses 
 <ls>MBH. 2, 374.</ls> 

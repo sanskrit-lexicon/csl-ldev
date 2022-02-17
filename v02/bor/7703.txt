@@ -1,6 +1,6 @@
 <L>7703<pc>244<k1>enumerate<k2>enumerate
-<div n="lb"/>{@ENUMERATE:@}¦ <div n="I">I To count: {#संख्याति#} ({#ख्या,#} c.
-<div n="lb"/>2.). </div><div n="I">II To recount, mention: q. v. {#आख्याति#}
-<div n="lb"/>({#ख्या,#} c. 2.), <div n="xe">{%e. the kings of England:%}</div> <div n="xs">{#*इंलण्डे-#}
-<div n="lb"/>{#श्वराणां नामानि कथय।#}</div></div>
+{@ENUMERATE:@}¦ <div n="I">I To count: {#संख्याति#} ({#ख्या,#} c.
+2.). </div><div n="I">II To recount, mention: q. v. {#आख्याति#}
+({#ख्या,#} c. 2.), <div n="xe">{%e. the kings of England:%}</div> <div n="xs">{#*इंलण्डे-#}
+{#श्वराणां नामानि कथय।#}</div></div>
 <LEND>

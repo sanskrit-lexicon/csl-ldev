@@ -1,4 +1,4 @@
 <L>2575<pc>088<k1>brickmaker<k2>brickmaker
-<div n="lb"/>{@BRICKMAKER:@}¦ <div n="1">(1) {#इष्टकापाचकः#} (?); </div><div n="1">(2) {#इष्टका-#}
-<div n="lb"/>{#कारः#} (?).</div>
+{@BRICKMAKER:@}¦ <div n="1">(1) {#इष्टकापाचकः#} (?); </div><div n="1">(2) {#इष्टका-#}
+{#कारः#} (?).</div>
 <LEND>

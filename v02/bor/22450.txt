@@ -1,5 +1,5 @@
 <L>22450<pc>708<k1>thinness<k2>thinness
-<div n="lb"/>{@THINNESS:@}¦ <div n="1">(1) {#तनुता:#} v. Slenderness; </div><div n="1">(2)
-<div n="lb"/>{#सूक्ष्मता:#} v. Fineness; </div><div n="1">(3) {#विरलता#} <div n="xe">{%or%}</div> <div n="xs">{#वैरल्यम्#}</div>
-<div n="lb"/>(= scarcity).</div>
+{@THINNESS:@}¦ <div n="1">(1) {#तनुता:#} v. Slenderness; </div><div n="1">(2)
+{#सूक्ष्मता:#} v. Fineness; </div><div n="1">(3) {#विरलता#} <div n="xe">{%or%}</div> <div n="xs">{#वैरल्यम्#}</div>
+(= scarcity).</div>
 <LEND>

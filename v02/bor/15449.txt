@@ -1,12 +1,12 @@
 <L>15449<pc>473<k1>no<k2>no
-<div n="lb"/>{@NO@}¦ (adv.): {#न,#} <div n="xe">{%no, no, become the ornament of%}
-<div n="lb"/>{%my lap:%}</div> <div n="xs">{#न न मदुत्सङ्गविभूषणं भव,#}</div> N. ix. 114.;
-<div n="lb"/><div n="xe">{%and to say ‘no, no’ to one like you would be%}
-<div n="lb"/>{%rebuking:%}</div> <div n="xs">{#न नेति च त्वादृशि वाग् विगर्हृणा,#}</div> N. ix.
-<div n="lb"/>25.; <div n="xe">{%to this we say ‘no’:%}</div> <div n="xs">{#अत्रोच्यते ‘न’,#}</div> S.;
-<div n="lb"/><div n="xe">{%there is no greater fault than this:%}</div> <div n="xs">{#नातः परतरो #}
-<div n="lb"/>{# दोषः,#}</div> H. N.B. Use {%‘yes’%} in Sanskrit for {%‘no’%}
-<div n="lb"/>after negative interrogation, <div n="xe">{%‘has not this%}
-<div n="lb"/>{%come to Chandragupta's ears? No, Sir:%}</div> <div n="xs">{#न खलु #}
-<div n="lb"/>{# वृषलस्य श्रवणमुपगतोऽयं॥आर्य, अय किम्,#}</div> Mu. iii.
+{@NO@}¦ (adv.): {#न,#} <div n="xe">{%no, no, become the ornament of%}
+{%my lap:%}</div> <div n="xs">{#न न मदुत्सङ्गविभूषणं भव,#}</div> N. ix. 114.;
+<div n="xe">{%and to say ‘no, no’ to one like you would be%}
+{%rebuking:%}</div> <div n="xs">{#न नेति च त्वादृशि वाग् विगर्हृणा,#}</div> N. ix.
+25.; <div n="xe">{%to this we say ‘no’:%}</div> <div n="xs">{#अत्रोच्यते ‘न’,#}</div> S.;
+<div n="xe">{%there is no greater fault than this:%}</div> <div n="xs">{#नातः परतरो #}
+{# दोषः,#}</div> H. N.B. Use {%‘yes’%} in Sanskrit for {%‘no’%}
+after negative interrogation, <div n="xe">{%‘has not this%}
+{%come to Chandragupta's ears? No, Sir:%}</div> <div n="xs">{#न खलु #}
+{# वृषलस्य श्रवणमुपगतोऽयं॥आर्य, अय किम्,#}</div> Mu. iii.
 <LEND>

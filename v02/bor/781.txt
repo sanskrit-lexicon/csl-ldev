@@ -1,7 +1,7 @@
 <L>781<pc>028<k1>animal<k2>animal
-<div n="lb"/>{@ANIMAL:@}¦ <div n="I">I Any living creature: </div><div n="1">(1) {#प्राणिन्#}
-<div n="lb"/>(m); </div><div n="1">(2) {#जीवः;#} </div><div n="1">(3) {#चेतनः।#} (=a rational a.)
-<div n="lb"/>; </div><div n="1">(4) {#जन्तुः#} (usually applied to lower a. s
-<div n="lb"/>only); </div><div n="1">(5) {#जन्मिन्#} (m); </div><div n="1">(6) {#जन्मवत्#} (m.) </div><div n="I">II.
-<div n="lb"/>A beast: q. v.: </div><div n="1">(1) {#भृगः;#} </div><div n="1">(2) {#पशुः।#}</div>
+{@ANIMAL:@}¦ <div n="I">I Any living creature: </div><div n="1">(1) {#प्राणिन्#}
+(m); </div><div n="1">(2) {#जीवः;#} </div><div n="1">(3) {#चेतनः।#} (=a rational a.)
+; </div><div n="1">(4) {#जन्तुः#} (usually applied to lower a. s
+only); </div><div n="1">(5) {#जन्मिन्#} (m); </div><div n="1">(6) {#जन्मवत्#} (m.) </div><div n="I">II.
+A beast: q. v.: </div><div n="1">(1) {#भृगः;#} </div><div n="1">(2) {#पशुः।#}</div>
 <LEND>

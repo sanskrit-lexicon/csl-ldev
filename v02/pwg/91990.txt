@@ -10,14 +10,14 @@
 <ls>MBH. 13, 317.</ls> {#पौरास्ते राघवं विना । शोकोपहतनिश्चेष्टा बभूवुर्हतचेतसः ॥#} {%ohne%} <is>Rāma</is> so v. a. {%weil er nicht da war%} 
 <ls>R. 2, 47, 1. 1, 19, 22. 5, 26, 25.</ls> 
 <ls>ŚĀK. 146, v. l.</ls> 
-<ls>Spr. (II) 667. 1710. (I) 1459.</ls> {#न विश्वासं विना शत्रुर्देवानामपि सिध्यति#} 
+<ls>Spr. (II) 667.</ls> <ls n="Spr. (II)">1710.</ls> <ls n="Spr.">(I) 1459.</ls> {#न विश्वासं विना शत्रुर्देवानामपि सिध्यति#} 
 <ls>1468. 2614. 2821.</ls> {#स्वजातीयं विना वैरी न जय्यः#} 
-<ls>?3325. 4148. PAÑCAT. 250, 5. ŚUK. in LA. (III) 35, 15. 38, 2. H. 529. SARVADARŚANAS. 81, 11.</ls> {#आरण्यानां च सर्वेषां मृगाणां माहिषं विना । स्त्रीक्षीरं चैव वर्ज्यानि#} {%mit Ausnahme von%} 
+<ls>3325. 4148.</ls> <ls>PAÑCAT. 250, 5.</ls> <ls>ŚUK.</ls> in <ls>LA. (III) 35, 15. 38, 2.</ls> <ls>H. 529.</ls> <ls>SARVADARŚANAS. 81, 11.</ls> {#आरण्यानां च सर्वेषां मृगाणां माहिषं विना । स्त्रीक्षीरं चैव वर्ज्यानि#} {%mit Ausnahme von%} 
 <ls>M. 5, 9.</ls> {#स्वस्ति स्यादपि वैदेह्या रक्षोभ्यो रक्षणं विना#} 
 <ls>R. 3, 64, 4.</ls> {#सेवावृत्तिविदां चैव नाश्रयः पार्थिवं विना#} 
 <ls>Spr. 2799.</ls> 
 <ls>VARĀH. BṚH. S. 3, 6. 48, 82.</ls> {#स्थानं विनान्त्यम्#} 
-<ls>?77, 22. BHĀG. P. 4, 24, 55. H. 946. P. 1, 1, 20, Schol.</ls> {#त्वयापि कर्तव्यो नासंतोषो युधं विना#} so v. a. {%wenn es nicht zum Kampfe kommt%} 
+<ls>77, 22.</ls> <ls>BHĀG. P. 4, 24, 55.</ls> <ls>H. 946.</ls> <ls>P. 1, 1, 20, Schol.</ls> {#त्वयापि कर्तव्यो नासंतोषो युधं विना#} so v. a. {%wenn es nicht zum Kampfe kommt%} 
 <ls>KATHĀS. 27, 144.</ls> {#प्रशान्तम् । विनोपसर्पत्यपरम्#} so v. a. {%einen Andern als%} 
 <ls>BHĀG. P. 6, 9, 21.</ls> {#तान्प्रदेशमात्रं विना परिलिखन्ति#} {%bis auf die Entfernung eines%} <ab n="?">Pr.</ab>, {%so dass der Zwischenraum eines%} <ab n="?">Pr.</ab> {%bleibt%} 
 <ls>ŚAT. BR. 3, 5, 4, 5.</ls> 
@@ -67,7 +67,7 @@
 <ls>VARĀH. BṚH. S. 44, 17. 74, 2.</ls> 
 <ls>BHĀG. P. 6, 12, 11.</ls> {#विनाप्यस्मत्#} 
 <ls>ŚIŚ. 2, 9.</ls> {#आगमो ऽभ्यधिको भोगाद्विना पूर्वक्रमागतात्#} {%Erwerb gilt mehr als Genuss, ausser wenn dieser schon von den Vorfahren stammt%} 
-<ls>?(STENZLER) YĀJÑ. 2, 27.</ls> {#न च स्नायाद्विना ततः#} {%bevor dieses geschehen ist%} 
+(<ls>STENZLER</ls>) <ls>YĀJÑ. 2, 27.</ls> {#न च स्नायाद्विना ततः#} {%bevor dieses geschehen ist%} 
 <ls>M. 4, 82.</ls> 
 <div n="1">— 7) mit der Ergänzung componirt: {#सत्य°, गति°#} 
 u.s.w. <ls>Spr. 2614.</ls> <ls>SUBHĀṢ. 155, 26.</ls> 

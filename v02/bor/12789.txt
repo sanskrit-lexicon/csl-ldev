@@ -1,4 +1,4 @@
 <L>12789<pc>395<k1>jackal<k2>jackal
-<div n="lb"/>{@JACKAL:@}¦ <div n="1">(1) {#शृगालः;#} </div><div n="1">(2) {#गोमायुः;#} </div><div n="1">(3) {#जम्बुकः;#}</div>
-<div n="lb"/><div n="1">(4) {#फेरुः#} <div n="xe">{%or%}</div> <div n="xs">{#फेरवः।#}</div></div>
+{@JACKAL:@}¦ <div n="1">(1) {#शृगालः;#} </div><div n="1">(2) {#गोमायुः;#} </div><div n="1">(3) {#जम्बुकः;#}</div>
+<div n="1">(4) {#फेरुः#} <div n="xe">{%or%}</div> <div n="xs">{#फेरवः।#}</div></div>
 <LEND>

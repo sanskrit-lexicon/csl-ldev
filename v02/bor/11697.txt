@@ -1,4 +1,4 @@
 <L>11697<pc>365<k1>imponderable<k2>imponderable
-<div n="lb"/>{@IMPONDERABLE:@}¦ <div n="1">(1) {#मारहीनः#} ({#ना, नं#}) (?);</div>
-<div n="lb"/><div n="1">(2) {#अमरः#} ({#रा, रं#}) (?); etc.</div>
+{@IMPONDERABLE:@}¦ <div n="1">(1) {#मारहीनः#} ({#ना, नं#}) (?);</div>
+<div n="1">(2) {#अमरः#} ({#रा, रं#}) (?); etc.</div>
 <LEND>

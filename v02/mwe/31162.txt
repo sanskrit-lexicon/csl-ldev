@@ -1,7 +1,7 @@
 <L>31162<pc>835-b<k1>watch<k2>watch
-<div n="lb"/>WATCH¦, {%s.%} (Guard) {#रक्षा, रक्षणं#}. — (Person watching) {#रक्षकः,#}
-<div n="lb"/>{#रक्षी#} {%m.%} {#(न्), रक्षिता#} {%m.%} {#(तृ);#} ‘body of watchmen,’ {#रक्षकज-#}
-<div n="lb"/>{#नाः#} {%m. pl.,%} {#रक्षकगणः, रक्षिगणः#}. — (Eighth part of the day, or
-<div n="lb"/>three hours) {#प्रहरः, यामः;#} ‘last watch of the night,’ {#अपर-#}
-<div n="lb"/>{#रात्रः#}. — (Small time-piece) {#कालमापनी, कालमापनयन्त्रं#}.
+WATCH¦, {%s.%} (Guard) {#रक्षा, रक्षणं#}. — (Person watching) {#रक्षकः,#}
+{#रक्षी#} {%m.%} {#(न्), रक्षिता#} {%m.%} {#(तृ);#} ‘body of watchmen,’ {#रक्षकज-#}
+{#नाः#} {%m. pl.,%} {#रक्षकगणः, रक्षिगणः#}. — (Eighth part of the day, or
+three hours) {#प्रहरः, यामः;#} ‘last watch of the night,’ {#अपर-#}
+{#रात्रः#}. — (Small time-piece) {#कालमापनी, कालमापनयन्त्रं#}.
 <LEND>

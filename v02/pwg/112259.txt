@@ -11,7 +11,7 @@
 <ls>TRIK. 3, 3, 192.</ls> 
 <ls>H. 264.</ls> 
 <ls>an. 3, 314. fg.</ls> 
-<ls>MED. t. 173.</ls> <ls>HALĀY. 1, 141.</ls> <ls>YĀJÑ. 1, 109.</ls> <ls>MBH. 13, 349.</ls> <ls>Spr. (II) 824. 2589. 2752. 6019. 7161.</ls> <ls>RAGH. 1, 93.</ls> <ls>ŚĀK. 13, 1.</ls> <ls>UTTARAR. 101, 9 (135, 4).</ls> <ls>BHĀG. P. 1, 19, 31. 8, 19, 2.</ls> {#सामाख्यं सूनृतं सत्यं प्रियं स्तोत्रं च कीर्त्यते#} 
+<ls>MED. t. 173.</ls> <ls>HALĀY. 1, 141.</ls> <ls>YĀJÑ. 1, 109.</ls> <ls>MBH. 13, 349.</ls> <ls>Spr. (II) 824.</ls> <ls n="Spr. (II)">2589.</ls> <ls n="Spr. (II)">2752.</ls> <ls n="Spr. (II)">6019.</ls> <ls n="Spr. (II)">7161.</ls> <ls>RAGH. 1, 93.</ls> <ls>ŚĀK. 13, 1.</ls> <ls>UTTARAR. 101, 9 (135, 4).</ls> <ls>BHĀG. P. 1, 19, 31. 8, 19, 2.</ls> {#सामाख्यं सूनृतं सत्यं प्रियं स्तोत्रं च कीर्त्यते#} 
 <ls>KĀM. NĪTIS. 17, 16.</ls> {#भाषते सूनृतं स्निग्धम्#} 
 <ls>SĀH. D. 60, 11.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} 
@@ -39,7 +39,7 @@
 <ls>8, 19, 1.</ls> 
 <div n="2">— c) personificirt: {#दे\वी#} 
 <ls>ṚV. 1, 40, 3.</ls> <ls n="ṚV. 1,">141, 2.</ls> {#वै\श्वा\न\री#} 
-<ls>AV. 6, 62, 2</ls> <ls>?(VS. und TBR. v. l.). BHĀG. P. 8, 13, 30.</ls> als Gattin <is>Dharma's</is> 
+<ls>AV. 6, 62, 2</ls> (<ls>VS.</ls> und <ls>TBR. v. l.).</ls> <ls>BHĀG. P. 8, 13, 30.</ls> als Gattin <is>Dharma's</is> 
 <ls>1, 25.</ls> als Tochter <is>Dharma's</is> und Gattin <is>Uttānapāda's</is> 
 <ls>HARIV. 61.</ls> 
 <ls>VP. 86,</ls> 

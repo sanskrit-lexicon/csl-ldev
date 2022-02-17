@@ -1,5 +1,5 @@
 <L>7546<pc>238<k1>encumber<k2>encumber
-<div n="lb"/>{@ENCUMBER:@}¦ <div n="xe">{%thus e. ed by you on all sides:%}</div> <div n="xs">{#आर्येणैवं #}
-<div n="lb"/>{# सर्वतो निरुद्धचेष्टाप्रसरस्य,#}</div> Mu.; <div n="xe">{%e. ed estate:%}</div> <div n="xs">{#ऋणग्रस्ता #}
-<div n="lb"/>{# सम्पत्तिः:#}</div> v. To burden.
+{@ENCUMBER:@}¦ <div n="xe">{%thus e. ed by you on all sides:%}</div> <div n="xs">{#आर्येणैवं #}
+{# सर्वतो निरुद्धचेष्टाप्रसरस्य,#}</div> Mu.; <div n="xe">{%e. ed estate:%}</div> <div n="xs">{#ऋणग्रस्ता #}
+{# सम्पत्तिः:#}</div> v. To burden.
 <LEND>

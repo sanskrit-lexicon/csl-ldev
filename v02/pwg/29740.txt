@@ -5,7 +5,7 @@
 <ls>AK. 2, 4, 2, 20.</ls> 
 <ls>TRIK. 3, 3, 25.</ls> 
 <ls>H. an. 3, 49.</ls> 
-<ls>MED. k. 99.</ls> <ls>MBH. 1, 4868. 3, 10043.</ls> <ls>HARIV. 12673.</ls> <ls>R. 2, 91, 48. 94, 9. 3, 7, 10. 21, 16. 76, 13. 5, 39, 2.</ls> {#(प्रमदया) आलिङ्गितस्तिलक उत्कलितो भवति#} ad 
+<ls>MED. k. 99.</ls> <ls>MBH. 1, 4868.</ls> <ls n="MBH.">3, 10043.</ls> <ls>HARIV. 12673.</ls> <ls>R. 2, 91, 48. 94, 9. 3, 7, 10. 21, 16. 76, 13. 5, 39, 2.</ls> {#(प्रमदया) आलिङ्गितस्तिलक उत्कलितो भवति#} ad 
 <ls>KUMĀRAS. 3, 26.</ls> 
 <ls>VARĀH. BṚH. S. 28, 6. 53, 37. 50.</ls> {%eine best. am Wasser wachsende Pflanze%} 
 <ls>54, 21.</ls> = {#मरुवक#} 
@@ -30,14 +30,14 @@
 <ls>RAGH. 9, 40.</ls> 
 <ls>MĀLAV. 40.</ls> 
 <ls>KUMĀRAS. 3, 30</ls> (zugleich Bed. 
-<ls>?1). 7, 24. KATHĀS. 9, 81. 16, 31. fg. VARĀH. BṚH. S. 104, 28. SĀH. D. 56, 4. 60, 1.</ls> {#विहीनतिलकेव स्त्री नोत्तरा दिक्प्रकाशते#} (ohne Sonne) 
+<ls>1). 7, 24.</ls> <ls>KATHĀS. 9, 81. 16, 31. fg.</ls> <ls>VARĀH. BṚH. S. 104, 28.</ls> <ls>SĀH. D. 56, 4. 60, 1.</ls> {#विहीनतिलकेव स्त्री नोत्तरा दिक्प्रकाशते#} (ohne Sonne) 
 <ls>R. 3, 22, 8.</ls> 
 <ls>KATHĀS. 6, 112. 20, 50.</ls> 
 <ls>ŚRUT. 44.</ls> {#निर्मलमलयजतिलकनिवेश#} (bei <is>Kṛṣṇa</is>) 
 <ls>GĪT. 11, 29.</ls> 
 <ls>BHĀG. P. 5, 9, 16.</ls> {#द्वादशतिलकयुक्तः#} (als frommer Mann) 
 <ls>PAÑCAT. 165, 16.</ls> 
-<ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 32</ls>, {%a%}, 
+<ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 32,a,</ls> 
 <ls>25.</ls> {#आदित्यस्य सदा पूजां तिलकं स्वामिनस्तथा । महागणपतेश्चैव कुर्वन्सिद्धिमवाप्नुयात् ॥#} 
 <ls>YĀJÑ. 1, 293.</ls> {#°विधि#} 
 <ls>Verz. d. B. H. No. 1022.</ls> 
@@ -76,7 +76,7 @@
 <ls>RĀJA-TAR. t. I, p. 23. 131. 183. 212. 215. 223. 227. 236. 264. 281. 287. ed. Calc. p. 118. 127. 128. 133. 159.</ls>
 [Page3-0338]
 Vgl. oben 5. 
-<div n="2">— d) {%ein best. Metrum%} (4 Mal  ˘ ˘ ¯ ˘ ˘ ¯) 
-<ls>COLEBR. Misc. Ess. II, 159</ls> <ls>(I, 5).</ls> 
+<div n="2">— d) {%ein best. Metrum%} (4 Mal ˘ ˘ ¯ ˘ ˘ ¯) 
+<ls>COLEBR. Misc. Ess. II, 159</ls> (<ls>I, 5).</ls> 
 <div n="v">— Vgl. {#ऊर्ध्वतिलकिन्, एणतिलक, ख°, वसन्त°#}.
 <LEND>

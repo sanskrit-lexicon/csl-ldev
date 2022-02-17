@@ -1,6 +1,6 @@
 <L>5290<pc>114-b<k1>complexion<k2>complexion
-<div n="lb"/>COMPLEXION¦, {%s.%} (Colour of the face) {#मुखरागः, कपोलरागः, वदनवर्णः;#}
-<div n="lb"/>‘having a pale complexion,’ {#विवर्णवदनः -ना -नं, पाण्डुवर्णः#}
-<div n="lb"/>{#-र्णा -र्णं#}. — (Temperament) {#भावः, प्रकृतिः#} {%f.,%} {#देहस्वभावः, शरीरभावः,#}
-<div n="lb"/>{#शरीरस्थितिः#} {%f.%}
+COMPLEXION¦, {%s.%} (Colour of the face) {#मुखरागः, कपोलरागः, वदनवर्णः;#}
+‘having a pale complexion,’ {#विवर्णवदनः -ना -नं, पाण्डुवर्णः#}
+{#-र्णा -र्णं#}. — (Temperament) {#भावः, प्रकृतिः#} {%f.,%} {#देहस्वभावः, शरीरभावः,#}
+{#शरीरस्थितिः#} {%f.%}
 <LEND>

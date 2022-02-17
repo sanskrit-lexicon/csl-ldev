@@ -1,13 +1,13 @@
 <L>10143<pc>320<k1>government<k2>government
-<div n="lb"/>{@GOVERNMENT:@}¦ The act: <div n="1">(1) {#शासनम्, प्र-, अनु-,#}
-<div n="lb"/><div n="xe">{%good g.:%}</div> <div n="xs">{#सुशासनम्;#}</div> </div><div n="1">(2) {#परिपालनम्#} (= protection),
-<div n="lb"/><div n="xe">{%g. of people:%}</div> <div n="xs">{#प्रजानां परिपालनम्,#}</div> M. </div><div n="I">II Supreme
-<div n="lb"/>power: </div><div n="1">(1) {#राज्यम्;#} v. Kingdom; </div><div n="1">(2) {#प्रभुत्वम्;#}
-<div n="lb"/>v. Supremacy. </div><div n="I">III Form of g.: {#तन्त्रम्#}
-<div n="lb"/>(?). </div><div n="I">IV The ruling power: </div><div n="1">(1) {#राजन्#}
-<div n="lb"/>(= monarch: q.v.): </div><div n="1">(2) {#प्रभवः#} (m. pl.)
-<div n="lb"/>(= masters.) V. A state: {#राष्ट्रम्,#} <div n="xe">{%hearing that%}
-<div n="lb"/>{%the g. was thoroughly occupied by the sons of%}
-<div n="lb"/>{%Samhāravarman:%}</div> <div n="xs">{#संहारवर्मणः सुतैर्व्याप्तं राष्ट्रमाकर्ण्य,#}</div>
-<div n="lb"/>D. iii.</div>
+{@GOVERNMENT:@}¦ The act: <div n="1">(1) {#शासनम्, प्र-, अनु-,#}
+<div n="xe">{%good g.:%}</div> <div n="xs">{#सुशासनम्;#}</div> </div><div n="1">(2) {#परिपालनम्#} (= protection),
+<div n="xe">{%g. of people:%}</div> <div n="xs">{#प्रजानां परिपालनम्,#}</div> M. </div><div n="I">II Supreme
+power: </div><div n="1">(1) {#राज्यम्;#} v. Kingdom; </div><div n="1">(2) {#प्रभुत्वम्;#}
+v. Supremacy. </div><div n="I">III Form of g.: {#तन्त्रम्#}
+(?). </div><div n="I">IV The ruling power: </div><div n="1">(1) {#राजन्#}
+(= monarch: q.v.): </div><div n="1">(2) {#प्रभवः#} (m. pl.)
+(= masters.) V. A state: {#राष्ट्रम्,#} <div n="xe">{%hearing that%}
+{%the g. was thoroughly occupied by the sons of%}
+{%Samhāravarman:%}</div> <div n="xs">{#संहारवर्मणः सुतैर्व्याप्तं राष्ट्रमाकर्ण्य,#}</div>
+D. iii.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>13570<pc>418<k1>lightly<k2>lightly
-<div n="lb"/>{@LIGHTLY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#लघु,#} {%even rising l.:%}
-<div n="lb"/>{#लघु लघूत्थितापि,#} Sa. iv.; </div><div n="1">(2) {#लाघवेन।#} </div><div n="I">II Cheer-
-<div n="lb"/>-fully: </div><div n="1">(1) {#सोल्लासम्;#} </div><div n="1">(2) {#प्रफुल्लम्।#}</div>
+{@LIGHTLY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#लघु,#} {%even rising l.:%}
+{#लघु लघूत्थितापि,#} Sa. iv.; </div><div n="1">(2) {#लाघवेन।#} </div><div n="I">II Cheer-
+-fully: </div><div n="1">(1) {#सोल्लासम्;#} </div><div n="1">(2) {#प्रफुल्लम्।#}</div>
 <LEND>

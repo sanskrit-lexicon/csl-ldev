@@ -1,5 +1,5 @@
 <L>10462<pc>329<k1>gust<k2>gust
-<div n="lb"/>{@GUST:@}¦ <div n="I">I Of wind: {#चण्डवातः#} and sim. comp.s.</div>
-<div n="lb"/><div n="I">II Enjoyment: {#सम्भोगः।#} </div><div n="I">III Relish:
-<div n="lb"/>{#स्वादः।#}</div>
+{@GUST:@}¦ <div n="I">I Of wind: {#चण्डवातः#} and sim. comp.s.</div>
+<div n="I">II Enjoyment: {#सम्भोगः।#} </div><div n="I">III Relish:
+{#स्वादः।#}</div>
 <LEND>

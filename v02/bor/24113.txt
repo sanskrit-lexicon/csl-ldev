@@ -1,6 +1,6 @@
 <L>24113<pc>754<k1>waste<k2>waste
-<div n="lb"/>{@WASTE@}¦ (adj.): Of lands: ({%land%}) <div n="xe">{%that lies w.%}
-<div n="lb"/>{%for one year is half-w.:%}</div> <div n="xs">{#एकवर्षपतितमर्धखिलम्,#}</div>
-<div n="lb"/>Viv.: v. Waste (subs.: II.). <div n="I">II Desolate,
-<div n="lb"/>empty, desert: q. v.</div>
+{@WASTE@}¦ (adj.): Of lands: ({%land%}) <div n="xe">{%that lies w.%}
+{%for one year is half-w.:%}</div> <div n="xs">{#एकवर्षपतितमर्धखिलम्,#}</div>
+Viv.: v. Waste (subs.: II.). <div n="I">II Desolate,
+empty, desert: q. v.</div>
 <LEND>

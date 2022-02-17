@@ -1,4 +1,4 @@
 <L>23661<pc>741<k1>vague<k2>vague
-<div n="lb"/>{@VAGUE:@}¦ <div n="1">(1) {#अनिश्चित#} (f. {#ता#}): v. Uncertain;</div>
-<div n="lb"/><div n="1">(2) {#सन्दिग्ध#} (f. {#ग्धा#}): v. Doubtful.</div>
+{@VAGUE:@}¦ <div n="1">(1) {#अनिश्चित#} (f. {#ता#}): v. Uncertain;</div>
+<div n="1">(2) {#सन्दिग्ध#} (f. {#ग्धा#}): v. Doubtful.</div>
 <LEND>

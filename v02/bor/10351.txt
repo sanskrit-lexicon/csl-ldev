@@ -1,5 +1,5 @@
 <L>10351<pc>326<k1>ground<k2>ground
-<div n="lb"/>{@GROUND@}¦ (v. t.): <div n="I">I Lit.: {#भूमौ लगयति#} (c. of
-<div n="lb"/>{#लग्#}) (?) </div><div n="I">II To establish: q.v.: expr.
-<div n="lb"/>by {#मूलः#} ({#ला, लं#}), <div n="xe">{%g. ed in love:%}</div> <div n="xs">{#प्रेममूलः#}</div> ({#ला, लं#}).</div>
+{@GROUND@}¦ (v. t.): <div n="I">I Lit.: {#भूमौ लगयति#} (c. of
+{#लग्#}) (?) </div><div n="I">II To establish: q.v.: expr.
+by {#मूलः#} ({#ला, लं#}), <div n="xe">{%g. ed in love:%}</div> <div n="xs">{#प्रेममूलः#}</div> ({#ला, लं#}).</div>
 <LEND>

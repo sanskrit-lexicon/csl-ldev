@@ -1,23 +1,33 @@
 <L>4647<pc>343-1<k1>इन्द्रप्रस्थ<k2>इन्द्रप्रस्थ
-{@Indraprastha,@}¦ the capital of the Pāṇḍavas. § 4 (Anukram.):
+{@Indraprastha@},¦ the capital of the Pāṇḍavas. § 4 (Anukram.):
 [Page343-b+ 62]
-<div n="lb">I, {@1,@} †149.—§ 244 (Rājyalābhap.): I, {@207,@} 7580 ({%Tripi-%}
-<div n="lb">{%ṣṭapasaṅkāśaṃ,%} description).—§ 245 (do.): I, {@208,@} 7596.—
-<div n="lb">§ 252 (Subhadrāharaṇap.): I, {@219,@} 7930.—§ 253 (Haraṇā-
-<div n="lb">haraṇap.): I, {@221,@} 7987.—§ 254 (Khāṇḍavadahanap.): I,
-<div n="lb">{@222,@} 8050.—§ 272 (Rājasūyārambhap.): II, {@13,@} 554, 555.—
-<div n="lb">§ 277 (Jarāsandhavadhap.): II, {@24,@} 968.—§ 285 (Nakula):
-<div n="lb">II, {@32,@} 1201.—§ 301 (Dyūtap.): II, {@73,@} 2451 {%(purottamaṃ).%}
-<div n="lb">—§ 342 (Indralokābhigamanap.): III, {@51,@} 1987.—§ 510
-<div n="lb">(Draupadī-Satyabhāmasaṃv.): III, {@233,@} 14698 {%(°nivāsinaḥ).%}
-<div n="lb">—§ 512 (Ghoṣayātrāp.): III, {@237,@} 14776.—§ 551 (Kīcaka-
-<div n="lb">vadhap.): IV, {@18,@} 538, 548.—§ 552 (Goharaṇap.): IV, {@50,@}
-<div n="lb">1565.—§ 556 (Sañjayayānap.): V, {@26,@} †766.—§ 561
-<div n="lb">(Yānasandhip.): V, {@55,@} 2146.—§ 562 (Bhagavadyānap.):
-<div n="lb">V, {@95,@} 3440.—§ 588 (Bhīṣmavadhap.): VI, {@121,@} †5813.—
-<div n="lb">§ 641 (Rājadh.): XII, {@124,@} 4553.—§ 781 (Aśvamedhikap.):
-<div n="lb">XIV, {@15,@} 376.—§ 793 (Mausalap.): XVI, {@7,@} 181, 248
-<div n="lb">(Vajra [the son of Aniruddha] was installed as king of the
-<div n="lb">Yādavas in {%I.%}).
+I, {@1@}, †149.—§ 244 (Rājyalābhap.): I, {@207@}, 7580 ({%Tripi-%}
+{%ṣṭapasaṅkāśaṃ%}, description).—§ 245 (do.): I, {@208@}, 7596.—
+§ 252 (Subhadrāharaṇap.): I, {@219@}, 7930.—§ 253 (Haraṇā-
+haraṇap.): I, {@221@}, 7987.—§ 254 (Khāṇḍavadahanap.): I,
+{@222@}, 8050.—§ 272 (Rājasūyārambhap.): II, {@13@}, 554, 555.—
+§ 277 (Jarāsandhavadhap.): II, {@24@}, 968.—§ 285 (Nakula):
+II, {@32@}, 1201.—§ 301 (Dyūtap.): II, {@73@}, 2451 ({%purottamaṃ%}).
+—§ 342 (Indralokābhigamanap.): III, {@51@}, 1987.—§ 510
+(Draupadī-Satyabhāmasaṃv.): III, {@233@}, 14698 ({%°nivāsinaḥ%}).
+—§ 512 (Ghoṣayātrāp.): III, {@237@}, 14776.—§ 551 (Kīcaka-
+vadhap.): IV, {@18@}, 538, 548.—§ 552 (Goharaṇap.): IV, {@50@},
+1565.—§ 556 (Sañjayayānap.): V, {@26@}, †766.—§ 561
+(Yānasandhip.): V, {@55@}, 2146.—§ 562 (Bhagavadyānap.):
+V, {@95@}, 3440.—§ 588 (Bhīṣmavadhap.): VI, {@121@}, †5813.—
+§ 641 (Rājadh.): XII, {@124@}, 4553.—§ 781 (Aśvamedhikap.):
+XIV, {@15@}, 376.—§ 793 (Mausalap.): XVI, {@7@}, 181, 248
+(Vajra [the son of Aniruddha] was installed as king of the
+Yādavas in {%I%}.).
 <div n="P">Cf. also the following synonyms:—
+<div n="P">{@Śakraprastha@}: I, 8023; II, 1057; XVI, 186, 187
+(there the rest of the Yādavas settled, ruled by Vajra);
+XVII, 9.
+<div n="P">{@Śakrapurī@}: V, †915.
+<div n="P">{@Śatakratuprastha@}: III, †913.
+<div n="P">{@Khāṇḍavaprastha@}: I, 394, 2262, 2263, 2264
+({%nagaraṃ%}), 7568, 7569, 7571, 7593 ({%°vāsinaḥ%}), 7600, 7748,
+7976, 7993, 7995; II, 21, 993 ({%°madhyasthaḥ%}, sc. Yudhi-
+ṣṭhira), 1184, 1783, 2448; III, †15606; IV, 1189 (? = the
+Khāṇḍava forest?); V, 4175 (do.).
 <LEND>

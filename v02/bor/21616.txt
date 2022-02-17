@@ -1,10 +1,10 @@
 <L>21616<pc>680<k1>street<k2>street
-<div n="lb"/>{@STREET:@}¦ <div n="1">(1) {#राजपथ:#} and sim. comp.s.
-<div n="lb"/>(=royal s.), <div n="xe">{%the high s. is frequented by%}
-<div n="lb"/>{%jackals:%}</div> <div n="xs">{#स वाह्यते राजपथः शिवाभिः,#}</div> R. xvi. 12.;</div>
-<div n="lb"/><div n="1">(2) {#महापथः#} and sim. comp.s. (= big road),
-<div n="lb"/><div n="xe">{%its s. s were strewed with coral flowers:%}</div> <div n="xs">{#सन्तान-#}
-<div n="lb"/>{#काकीर्णमहापथं तत्,#}</div> Ku. vii. 3.; </div><div n="1">(3) {#रथ्या#}
-<div n="lb"/>(= carriage road), <div n="xe">{%in every s.:%}</div> <div n="xs">{#प्रतिरथ्यम्,#}</div> Si.
-<div n="lb"/>31. iii.: v. Road, way.</div>
+{@STREET:@}¦ <div n="1">(1) {#राजपथ:#} and sim. comp.s.
+(=royal s.), <div n="xe">{%the high s. is frequented by%}
+{%jackals:%}</div> <div n="xs">{#स वाह्यते राजपथः शिवाभिः,#}</div> R. xvi. 12.;</div>
+<div n="1">(2) {#महापथः#} and sim. comp.s. (= big road),
+<div n="xe">{%its s. s were strewed with coral flowers:%}</div> <div n="xs">{#सन्तान-#}
+{#काकीर्णमहापथं तत्,#}</div> Ku. vii. 3.; </div><div n="1">(3) {#रथ्या#}
+(= carriage road), <div n="xe">{%in every s.:%}</div> <div n="xs">{#प्रतिरथ्यम्,#}</div> Si.
+31. iii.: v. Road, way.</div>
 <LEND>

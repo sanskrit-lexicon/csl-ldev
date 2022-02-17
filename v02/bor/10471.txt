@@ -1,4 +1,4 @@
 <L>10471<pc>330<k1>gymnasium<k2>gymnasium
-<div n="lb"/>{@GYMNASIUM:@}¦ {#व्यायामशाला,#} <div n="xe">{%school of g.:%}</div> <div n="xs">{#व्यायाम-#}
-<div n="lb"/>{#शिक्षाशाला।#}</div>
+{@GYMNASIUM:@}¦ {#व्यायामशाला,#} <div n="xe">{%school of g.:%}</div> <div n="xs">{#व्यायाम-#}
+{#शिक्षाशाला।#}</div>
 <LEND>

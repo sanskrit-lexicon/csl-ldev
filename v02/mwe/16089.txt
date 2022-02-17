@@ -1,5 +1,5 @@
 <L>16089<pc>394-b<k1>inquest<k2>inquest
-<div n="lb"/>INQUEST¦, {%s.%} (Judicial inquiry) {#विचारः -रणं -णा, व्यवहारपरीक्षा,#}
-<div n="lb"/>{#व्यवहारदर्शनं#}. — (Inquiry into the cause of a sudden death)
-<div n="lb"/>{#अपमृत्युपरीक्षा, अपमृत्युकारणविचारः, अपमृत्युवृत्तान्तविचारः#}.
+INQUEST¦, {%s.%} (Judicial inquiry) {#विचारः -रणं -णा, व्यवहारपरीक्षा,#}
+{#व्यवहारदर्शनं#}. — (Inquiry into the cause of a sudden death)
+{#अपमृत्युपरीक्षा, अपमृत्युकारणविचारः, अपमृत्युवृत्तान्तविचारः#}.
 <LEND>

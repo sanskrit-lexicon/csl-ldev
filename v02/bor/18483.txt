@@ -1,9 +1,9 @@
 <L>18483<pc>568<k1>rack<k2>rack
-<div n="lb"/>{@RACK@}¦ (subs.): <div n="I">I For torture: no equiv.:
-<div n="lb"/>{#*सम्पीडनी#} <div n="xe">{%or%}</div> <div n="xs">{#सम्पीडनयन्त्रम्।#}</div> {%To put to r.:%} i. e. to
-<div n="lb"/>torment: q. v. </div><div n="I">II Extreme pain: q. v.:
-<div n="lb"/>{#यातना।#} <div n="xe">{%R. and ruin:%}</div> <div n="xs">{#उच्छेदः:#}</div> v. Annihilation;
-<div n="lb"/><div n="xe">{%go to r.:%}</div> <div n="xs">{#विनश्यति#}</div>: v. To perish. </div><div n="I">III A
-<div n="lb"/>framework: <div n="xe">{%clothes -r.:%}</div> <div n="xs">{#*वस्त्रधारणी#}</div> etc. </div><div n="I">IV
-<div n="lb"/>Vapour or thin broken clouds: q. v.</div>
+{@RACK@}¦ (subs.): <div n="I">I For torture: no equiv.:
+{#*सम्पीडनी#} <div n="xe">{%or%}</div> <div n="xs">{#सम्पीडनयन्त्रम्।#}</div> {%To put to r.:%} i. e. to
+torment: q. v. </div><div n="I">II Extreme pain: q. v.:
+{#यातना।#} <div n="xe">{%R. and ruin:%}</div> <div n="xs">{#उच्छेदः:#}</div> v. Annihilation;
+<div n="xe">{%go to r.:%}</div> <div n="xs">{#विनश्यति#}</div>: v. To perish. </div><div n="I">III A
+framework: <div n="xe">{%clothes -r.:%}</div> <div n="xs">{#*वस्त्रधारणी#}</div> etc. </div><div n="I">IV
+Vapour or thin broken clouds: q. v.</div>
 <LEND>

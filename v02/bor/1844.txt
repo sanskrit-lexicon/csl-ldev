@@ -1,13 +1,13 @@
 <L>1844<pc>064<k1>beginning<k2>beginning
-<div n="lb"/>{@BEGINNING@}¦ (subs.): <div n="I">I Commencement: </div><div n="1">(1)
-<div n="lb"/>{#आरम्भः;#} </div><div n="1">(2) {#प्रारम्भः;#} </div><div n="1">(3) {#समारम्मः।#} </div><div n="I">II The
-<div n="lb"/>first cause: {#आदिः,#} <div n="xe">{%you are the b. of the world%}
-<div n="lb"/>{%but you yourself have no b., you are the end of%}
-<div n="lb"/>{%the world, but you yourself have no end%}</div> <div n="xs">{#जगदादि-#}
-<div n="lb"/>{#रनादिस्त्वं जगदन्तो निरन्तकः,#}</div> Ku. ii. 9.: v.
-<div n="lb"/>Cause, origin. </div><div n="I">III The first state: {#आदिः,#}
-<div n="lb"/>{%in the b.%} ({%God%}) <div n="xe">{%created water%}</div> <div n="xs">{#अप एव ससर्जादौ,#}</div>
-<div n="lb"/>M. i. 8.; <div n="xe">{%I want to hear from the b.%}</div> <div n="xs">{#आदितः#}</div>
-<div n="lb"/>{#श्रोतुमिच्छामि,#} Mu. ii.; {%from the b. to the end%}
-<div n="lb"/>{#आद्यन्तः#} ({#न्ता, न्तं#}). </div><div n="I">IV Rudiments: q. v.</div>
+{@BEGINNING@}¦ (subs.): <div n="I">I Commencement: </div><div n="1">(1)
+{#आरम्भः;#} </div><div n="1">(2) {#प्रारम्भः;#} </div><div n="1">(3) {#समारम्मः।#} </div><div n="I">II The
+first cause: {#आदिः,#} <div n="xe">{%you are the b. of the world%}
+{%but you yourself have no b., you are the end of%}
+{%the world, but you yourself have no end%}</div> <div n="xs">{#जगदादि-#}
+{#रनादिस्त्वं जगदन्तो निरन्तकः,#}</div> Ku. ii. 9.: v.
+Cause, origin. </div><div n="I">III The first state: {#आदिः,#}
+{%in the b.%} ({%God%}) <div n="xe">{%created water%}</div> <div n="xs">{#अप एव ससर्जादौ,#}</div>
+M. i. 8.; <div n="xe">{%I want to hear from the b.%}</div> <div n="xs">{#आदितः#}</div>
+{#श्रोतुमिच्छामि,#} Mu. ii.; {%from the b. to the end%}
+{#आद्यन्तः#} ({#न्ता, न्तं#}). </div><div n="I">IV Rudiments: q. v.</div>
 <LEND>

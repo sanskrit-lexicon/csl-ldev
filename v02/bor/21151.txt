@@ -1,6 +1,6 @@
 <L>21151<pc>666<k1>sphere<k2>sphere
-<div n="lb"/>{@SPHERE:@}¦ <div n="I">I A globe: {#गोलः,#} <div n="xe">{%celestial s.:%}</div> <div n="xs">{#खगोलः,#}</div>
-<div n="lb"/>Go.; <div n="xe">{%lunar s.:%}</div> <div n="xs">{#चन्द्राधिष्ठानगोलः,#}</div> Su. com. </div><div n="I">II
-<div n="lb"/>Province, department: expr. by {#कर्म#}
-<div n="lb"/>(=work) <div n="xe">{%or%}</div> <div n="xs">{#क्षेत्रम्#}</div> (= field).</div>
+{@SPHERE:@}¦ <div n="I">I A globe: {#गोलः,#} <div n="xe">{%celestial s.:%}</div> <div n="xs">{#खगोलः,#}</div>
+Go.; <div n="xe">{%lunar s.:%}</div> <div n="xs">{#चन्द्राधिष्ठानगोलः,#}</div> Su. com. </div><div n="I">II
+Province, department: expr. by {#कर्म#}
+(=work) <div n="xe">{%or%}</div> <div n="xs">{#क्षेत्रम्#}</div> (= field).</div>
 <LEND>

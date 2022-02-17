@@ -1,5 +1,5 @@
 <L>939<pc>033<k1>appendage<k2>appendage
-<div n="lb"/>{@APPENDAGE:@}¦ Ph. <div n="xe">{%a house with its a. s%}</div> <div n="xs">{#*सोपकरणं #}
-<div n="lb"/>{# गृहं;#}</div> <div n="xe">{%virtue is an a. of belief in God%}</div> <div n="xs">{#*सदाचार #}
-<div n="lb"/>{# आस्तिक्यबुद्धिमनुबध्नातिः,#}</div> v. Concomitant.
+{@APPENDAGE:@}¦ Ph. <div n="xe">{%a house with its a. s%}</div> <div n="xs">{#*सोपकरणं #}
+{# गृहं;#}</div> <div n="xe">{%virtue is an a. of belief in God%}</div> <div n="xs">{#*सदाचार #}
+{# आस्तिक्यबुद्धिमनुबध्नातिः,#}</div> v. Concomitant.
 <LEND>

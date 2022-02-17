@@ -1,3 +1,3 @@
 <L>14269<pc>438<k1>mastication<k2>mastication
-<div n="lb"/>{@MASTICATION:@}¦ {#चर्वणम्।#} <div n="xe">{%Food requiring m.:%}</div> <div n="xs">{#चर्व्यम्।#}</div>
+{@MASTICATION:@}¦ {#चर्वणम्।#} <div n="xe">{%Food requiring m.:%}</div> <div n="xs">{#चर्व्यम्।#}</div>
 <LEND>

@@ -29,7 +29,7 @@ Bez. eines best. Fluges der Vögel
 <div n="2">— b) {%leicht%} d. i. {%nicht schwer%} 
 <ls>H. an.</ls> <ls>MED.</ls> {#गु\रुर्भा\रो ल\घुर्भ^व#} 
 <ls>AV. 9, 3, 24.</ls> {#प\र्णाल्लघी^यसी भव#} 
-<ls>10, 1, 29.</ls> <ls>MBH. 3, 2615. 10943. 12, 6856.</ls> <ls>R. GORR. 2, 31, 25. 4, 9, 95.</ls> <ls>SUŚR. 1, 20, 16. 116, 16.</ls> <ls>RAGH. 9, 62.</ls> <ls>MEGH. 20</ls> (zugleich {%gering geachtet%}). 
+<ls>10, 1, 29.</ls> <ls>MBH. 3, 2615.</ls> <ls n="MBH. 3,">10943.</ls> <ls n="MBH.">12, 6856.</ls> <ls>R. GORR. 2, 31, 25. 4, 9, 95.</ls> <ls>SUŚR. 1, 20, 16. 116, 16.</ls> <ls>RAGH. 9, 62.</ls> <ls>MEGH. 20</ls> (zugleich {%gering geachtet%}). 
 <ls>VṚDDHA-CĀṆ. 15,19.</ls> <ls>VARĀH. BṚH. S. 81,5. 6.</ls> <ls>RĀJA-TAR.3,128.</ls> <ls>Verz. d. Oxf. H. 231,a,44.</ls> <ls>BHĀG. P.2,10,23.8,12,23.</ls> <ls>PAÑCAT. 76,17. fg. 253,13.</ls> {#°कोष्ठ#} <lex>adj.</lex> {%einen leichten Unterleib —, nicht viel im Magen habend%} 
 <ls>KĀM. NĪTIS. 7, 36.</ls> {%leicht zu verdauen, nicht schwer im Magen liegend%} 
 <ls>SUŚR. 1, 149, 16. 18.</ls> {#उदक#} 
@@ -73,7 +73,7 @@ Bez. eines best. Fluges der Vögel
 <ls>ŚAT. BR. 12, 2, 2, 10.</ls> 
 <ls>LĀṬY. 6, 10, 20.</ls> 
 <ls>GOBH. 3, 3, 28.</ls> {#नातिलघुविपुलरचनाभिः#} 
-<ls>VARĀH. BṚH. S.1,2.</ls> <ls>BṚH. 28</ls> <ls>?(26),7. BHĀG. P.3,16,14. Verz. d. Oxf. H. 177,b, No. 403. 252,b, No. 626. SARVADARŚANAS. 90,19.</ls> {#°प्रमाण#} 
+<ls>VARĀH. BṚH. S.1,2.</ls> <ls>BṚH. 28</ls> (<ls>26),7.</ls> <ls>BHĀG. P.3,16,14.</ls> <ls>Verz. d. Oxf. H. 177,b, No. 403. 252,b, No. 626.</ls> <ls>SARVADARŚANAS. 90,19.</ls> {#°प्रमाण#} 
 <ls>VARĀH. BṚH. S. 70, 14.</ls> {#सर्षप#} 
 <ls>Spr. 113.</ls> {#दर्पणे करिणः#} 
 <ls>3733.</ls> {#शशक#} 
@@ -96,7 +96,7 @@ Bez. eines best. Fluges der Vögel
 <ls>R. 6, 16, 29. 85, 8. 101, 16.</ls> 
 <ls>MEGH. 20.</ls> 
 <ls>Spr. 113. 440. 1129. 1461. 3490. 3794. 3936. 4074. 4142</ls> (Gegens. {#साधु#}). 
-<ls>?5385, v. l. VARĀH. BṚH. S. 104, 58. PRAB. 31, 14. PAÑCAT. 68, 6.</ls> {#°संदेशपदा सरस्वती#} {%wenig%} 
+<ls>5385, v. l.</ls> <ls>VARĀH. BṚH. S. 104, 58.</ls> <ls>PRAB. 31, 14.</ls> <ls>PAÑCAT. 68, 6.</ls> {#°संदेशपदा सरस्वती#} {%wenig%} 
 <ls>RAGH. 8, 76.</ls> {#अलघुसंचारा गतिः#} 
 <ls>MṚCCH. 110, 4</ls> (vgl. die Adnn.). {#बलैरलघुद्विपैः#} 
 <ls>RĀJA-TAR. 4, 513.</ls> {#°सिराल#} 
@@ -105,7 +105,7 @@ Bez. eines best. Fluges der Vögel
 
 <ls>ŚĀK. 160.</ls> 
 <ls>Spr. 1738.</ls> {#लघीयंस्#} 
-<ls>MBH. 2, 2211. 3, 10622.</ls> {#जन्मिन्, तृण#} 
+<ls>MBH. 2, 2211.</ls> <ls n="MBH.">3, 10622.</ls> {#जन्मिन्, तृण#} 
 <ls>Spr. 2927.</ls> {#लघुतर#} 
 <ls>PAÑCAT. 55, 9. 16.</ls> {#बंहीयसीं लघिष्ठां वा गिरं निर्मान्ति वाग्मिनः#} {%lang oder kurz%} Cit. bei 
 <ls>KULL.</ls> zu <ls>M. 5, 64.</ls> {#लघिष्ठ = अल्प#} und {#भेलक#} 

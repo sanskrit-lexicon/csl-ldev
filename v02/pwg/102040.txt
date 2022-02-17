@@ -2,14 +2,14 @@
 2. {#श्लिष्#}¦, {#श्लि/ष्यति#} (auch {#°ते; श्लिषति#} s. u. {#आ#}) = 1. {#श्रिष्#} 
 <ls>DHĀTUP. 26, 77</ls> und <ls>SUŚR. 1, 77, 9</ls> ({#आलिङ्गने#}, nach 
 <ls>VOP.</ls> {#श्लेषे)#}.{# शिश्लेष, श्लेक्ष्यति#} (<is>Kār</is>. 
-<ls>?6. 8 aus SIDDH. K. zu P. 7, 2, 10</ls>); aor. {#अश्लिषत्#} und {#अश्लिक्षत्#} (nur in der Bed. {#आलिङ्गने#}) 
+<ls>6. 8</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>); aor. {#अश्लिषत्#} und {#अश्लिक्षत्#} (nur in der Bed. {#आलिङ्गने#}) 
 <ls>P. 3, 1, 46.</ls> 
 <ls>VOP. 8, 78. 11, 3.</ls> {#श्लिष्ट्वा, °श्लिष्य, श्लेष्टुम्#} . 
 <div n="1"> 1) {%sich anhängen sich halten —, sich klammern an%}; mit loc.: {#दोषाः श्लिष्यन्ति वर्त्मसु#} 
 <ls>SUŚR. 2, 189, 9.</ls> {#यथा पुष्करपलाश आपो न श्लिष्यन्त एवमेवंविदि पापं कर्म न श्लिष्यते#} 
 <ls>CHĀND. UP. 4, 14, 3.</ls> impers.: {#नाप्युत्तरे#} ({#कर्मणि#}) {#श्लिष्यताम्#} 
 <ls>Spr. (II) 1402.</ls> mit acc.: {#नाधर्मः श्लिष्यते प्राज्ञं पयः पुष्करपर्णवत् । अप्राज्ञमधिकं पापं श्लिष्यते जतु काष्ठवत्#} 
-<ls>MBH. 12. 10948.</ls> 
+<ls>MBH. 12, 10948.</ls> 
 <div n="1">— 2) {%umfangen, umarmen%}: {#श्लिष्यति कामपि चुम्बति कामपि#} 
 <ls>GĪT. 1, 44. 6, 7.</ls> {#बाहुभिः#} 
 <ls>BHĀG. P. 10, 43, 21.</ls> 
@@ -90,9 +90,9 @@
 <ls>PAÑCAR. 1, 4, 44. 2, 3, 30.</ls> {#राममाश्लिषत्#} 
 <ls>R. 2, 96, 22 (105, 21 GORR.).</ls> <ls>BHĀG. P. 10, 60, 27.</ls> {#पितुराश्लिष्यते ऽङ्गानि#} 
 <ls>Spr. (II) 4230.</ls> {#पुत्रमाश्लिष्य#} 
-<ls>MBH. 1, 4468. 3, 11997. 12177.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 123, 7.</ls> 
+<ls>MBH. 1, 4468.</ls> <ls n="MBH.">3, 11997.</ls> <ls n="MBH. 3,">12177.</ls> 
+
+<ls>R. GORR. 2, 123, 7.</ls> 
 <ls>ŚĀK. 48, 10. 56, 11.</ls> 
 <ls>KATHĀS. 37, 185. 39, 218. 41, 50. 45, 139.</ls> 
 <ls>SĀH. D. 59, 20.</ls> 
@@ -138,8 +138,8 @@
 <ls>Spr. 3179.</ls> {#°श्लिषत्#} 
 <ls>MBH. 3, 10043.</ls> {#°श्लिक्षत्#} 
 <ls>BHAṬṬ. 15, 62.</ls> {#°श्लिष्य#} 
-<ls>MBH. 1, 5418. 6021.</ls> {#अङ्गमङ्गैः#} 
-<ls>?2,901.4,755. HARIV. 14838. Verz. d. Oxf. H.9,b,22. RĀJA-TAR.4,435. partic.</ls> {#°श्लिष्ट#} {%umfangen%} 
+<ls>MBH. 1, 5418.</ls> <ls n="MBH. 1,">6021.</ls> {#अङ्गमङ्गैः#} 
+<ls n="MBH.">2, 901.</ls> <ls n="MBH.">4, 755.</ls> <ls>HARIV. 14838.</ls> <ls>Verz. d. Oxf. H. 9,b,22.</ls> <ls>RĀJA-TAR. 4,435.</ls> partic. {#°श्लिष्ट#} {%umfangen%} 
 <ls>Spr. 5174.</ls> {#°श्लिष्टावन्योऽन्यम्#} 
 <ls>MBH. 4, 1838.</ls> 
 <div n="v">— Vgl. {#समाश्लेष#} . — caus. {%verbinden, vereinigen%} 
@@ -175,7 +175,7 @@
 <ls>KATHĀS. 32, 140. 188.</ls> pass.: {#एषा राज्ञो विश्लिष्यते#} 
 <ls>145.</ls> Vielleicht ist überall {#विश्ले°#} zu lesen. — partic. {#°श्लिष्ट#} {%getrennt%} 
 <ls>AIT. BR. 5, 32.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 22.</ls> {#तौ चिरविश्लिष्टसंश्लिष्टौ#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 22.</ls> {#तौ चिरविश्लिष्टसंश्लिष्टौ#} 
 <ls>KATHĀS. 74, 320.</ls> {#विश्लिष्टमेघनादास्त्रबन्धन#} {%gelöst%} 
 <ls>RAGH. 12, 76.</ls> {#करयोरुभयोरेव विश्लिष्टतरशाखयोः#} {%weit auseinanderstehend%} 
 <ls>Verz. d. Oxf. H. 202,b,17.</ls> {%der sich von seiner Partei getrennt hat%} 
@@ -183,7 +183,7 @@
 <ls>SUŚR. 1, 182, 7. 300, 9. 13. 2, 28, 4.</ls> 
 <div n="v">— Vgl. {#विश्लेष#} fgg. — caus. {%trennen%}: {#संहतान्#} 
 <ls>Spr. (II) 1171.</ls> {#संजीवकं प्रभोः#} 
-<ls>PAÑCAT. 42, 7</ls> <ls>?(ed. orn. 38, 3).</ls> {#बुद्ध्या विश्लेषयन्ति तम्#} so v. a. {%bringen ihn um seinen Verstand%} 
+<ls>PAÑCAT. 42, 7</ls> (<ls>ed. orn. 38, 3).</ls> {#बुद्ध्या विश्लेषयन्ति तम्#} so v. a. {%bringen ihn um seinen Verstand%} 
 <ls>Spr. (II) 3304.</ls> partic. {#°श्लेषित#} {%getrennt%} 
 <ls>MEGH. 7.</ls> 
 <ls>KATHĀS. 73, 441.</ls> {#गगणं वायुना#} {%auseinandergerissen%} 
@@ -209,7 +209,7 @@
 <div n="1"> 1) {%angeschmiegt, fest anliegend, sich unmittelbar berührend, verbunden, vereinigt, zusammenhängend%} 
 <ls>ŚAT. BR. 3, 3, 3, 14.</ls> {#संश्लि^ष्टा अ\ङ्गुल^यो जायेरन्#} 
 <ls>TS. 6, 1, 9, 5.</ls> 
-<ls>KĀṬH. 34, 9</ls> {#(अ°)#}.{# संश्लिष्टाङ्गौ स्थितौ#} 
+<ls>KĀṬH. 34, 9</ls> ({#अ°#}).{# संश्लिष्टाङ्गौ स्थितौ#} 
 <ls>MBH. 7, 1312.</ls> {#पद्मकोशकरौ कृत्वा संश्लिष्टौ#} 
 <ls>KATHĀS. 65, 197.</ls> {#उरसा °सर्पत्वचा#} 
 <ls>ŚĀK. 170, v. l.</ls> 
@@ -219,7 +219,7 @@
 <ls>SUŚR. 1, 338, 11.</ls> {#तौ चिरविश्लिष्टसंश्लिष्टौ#} {%lange getrennt und nun vereinigt%} 
 <ls>KATHĀS. 74, 320.</ls> {#रजतं च सुवर्णं च संश्लिष्टे#} 
 <ls>H. 1047.</ls> {#पृथिव्यग्निद्वयं नित्यसंश्लिष्टमृक्सामनी इव#} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>?S. 59. KULL. zu M. 2, 125.</ls> Comm. zu <ls>TS. PRĀT. 2, 12</ls> ({#अति°#}). 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 59.</ls> <ls>KULL.</ls> zu <ls>M. 2, 125.</ls> Comm. zu <ls>TS. PRĀT. 2, 12</ls> ({#अति°#}). 
 <ls>17, 4.</ls> {#वनौकसां °शरीरकारिणाम्#} wohl so v. a. {%sich zusammenthuend, zusammen wohnend%} ({#संश्लिष्टमस्थिचर्ममात्रसंश्लेषवत् तच्च तच्छरीरं च तस्य कारिणां शरीरशोषकाणामित्यर्थः#} 
 <ls>NĪLAK.</ls>) <ls>MBH. 12, 8883.</ls> mit {#सह#} verbunden: {#(असित्सरुः) पाणिना सह संश्लिष्ट एकीभूत इव#} 
 <ls>10, 462.</ls> mit einem blossen instr.: {#पात्रं संश्लिष्टं वेदतृणैः#} 
@@ -227,9 +227,9 @@
 <ls>R. 5, 73, 48.</ls> {#किंचिज्जीविताशया#} so v. a. {%ein wenig Hoffnung schöpfend%} 
 <ls>PAÑCAT. 143, 8.</ls> mit acc.: {#पृथगात्मान आत्मानं संश्लिष्टा जतु काष्ठवत्#} 
 <ls>MBH. 12, 11949.</ls> häufig in comp. mit der Ergänzung: {#नदीं चाश्रमसंश्लिष्टाम्#} 
-<ls>1, 2867. 4, 2071.</ls> <ls>R. 5, 5, 12.</ls> <ls>HARIV. 2501. 6551</ls> ({#संसृष्ट#} die neuere Ausg.). 
+<ls>1, 2867. 4, 2071.</ls> <ls>R. 5, 5, 12.</ls> <ls>HARIV. 2501.</ls> <ls n="HARIV.">6551</ls> ({#संसृष्ट#} die neuere Ausg.). 
 <ls>KATHĀS. 38, 44.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 22, 13, v. l.</ls> {#सर्व° (स हि#} st. {#सर्व#} ed. Calc.) so v. a. {%in Allem enthalten%} 
+<ls>VET. in LA. (III) 22, 13, v. l.</ls> {#सर्व° (स हि#} st. {#सर्व#} ed. Calc.) so v. a. {%in Allem enthalten%} 
 <ls>MBH. 13, 6812.</ls> 
 <ls>PAÑCAR. 4, 3, 23.</ls> {#सु°#} von einer Rede so v. a. {%wohl gefügt%} 
 <ls>R. 3, 48, 3.</ls> {#संश्लिष्ट#} <lex>n.</lex> {%Anhäufung%}: {#इदं फलानां संश्लिष्टम्#} {%hier sind Früchte aufgehäuft%} 

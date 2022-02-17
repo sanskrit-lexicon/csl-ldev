@@ -1,6 +1,6 @@
 <L>16807<pc>515<k1>perjure<k2>perjure
-<div n="lb"/>{@PERJURE:@}¦ {%A p. d witness i. e. who p. s himself:%}
-<div n="lb"/>{#साक्ष्येऽनृतं वदन् साक्षी, साक्षी साक्ष्यं मृषा ब्रुवन्,#} etc.
-<div n="lb"/>Mit.: v. Falsely, to say. Ph.: {%p. d oath:%}
-<div n="lb"/>{#मिथ्याशपथः।#}
+{@PERJURE:@}¦ {%A p. d witness i. e. who p. s himself:%}
+{#साक्ष्येऽनृतं वदन् साक्षी, साक्षी साक्ष्यं मृषा ब्रुवन्,#} etc.
+Mit.: v. Falsely, to say. Ph.: {%p. d oath:%}
+{#मिथ्याशपथः।#}
 <LEND>

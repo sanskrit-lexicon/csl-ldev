@@ -8,8 +8,8 @@
 <ls>an. 2, 381.</ls> 
 <ls>MED. y. 54.</ls> {#हिमवद्विन्ध्ययोर्मध्यं यत्प्राग्विनशनादपि । प्रत्यगेव प्रयागाच्च मध्यदेशः प्रकीर्तितः ॥#} 
 <ls>M. 2, 21.</ls> 
-<ls>MBH. 1, 7625. 7716. 3, 2318. 14, 1173.</ls> 
-<ls>HARIV. 3261. 3275. 5211. 9499. 11448. 12008. 12399.</ls> 
+<ls>MBH. 1, 7625.</ls> <ls n="MBH. 1,">7716.</ls> <ls n="MBH.">3, 2318.</ls> <ls n="MBH.">14, 1173.</ls> 
+<ls>HARIV. 3261.</ls> <ls n="HARIV.">3275.</ls> <ls n="HARIV.">5211.</ls> <ls n="HARIV.">9499.</ls> <ls n="HARIV.">11448.</ls> <ls n="HARIV.">12008.</ls> <ls n="HARIV.">12399.</ls> 
 <ls>R. 4, 2, 12. 41, 10.</ls> 
 <ls>SUŚR. 1, 172, 6. 2, 169, 3.</ls> 
 <ls>ŚĀRṄG. SAṂH. 1, 1, 38.</ls> {#विन्ध्यस्तरेत्सागरम्#} 
@@ -25,7 +25,7 @@
 <ls>VARĀH. BṚH. S. 16, 12.</ls> 
 <ls>KATHĀS. 12, 8.</ls> 
 <ls>RĀJA-TAR. 4, 153. 161.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 31, 5. 6.</ls> {#विन्ध्याद्रिनिवासिनः#} 
+<ls>VET. in LA. (III) 31, 5. 6.</ls> {#विन्ध्याद्रिनिवासिनः#} 
 <ls>Verz. d. Oxf. H. 82,a, No. 138, Z. 10.</ls> {#विन्ध्याचल#} 
 <ls>VARĀH. BṚH. S. 12,</ls> Anf. {#°वन#} 
 <ls>R. 4, 48, 2.</ls> {#विन्ध्याटवी#} 
@@ -35,7 +35,7 @@
 <ls>RĀJA-TAR. 3, 240.</ls> {#विन्ध्यनिवासिनः#} (so ist zu lesen) 
 <ls>MĀRK. P. 57, 52.</ls> {#विन्ध्यान्तवासिनः#} {%die Bewohner des inneren%} <is>Vindhya</is> 
 <ls>VARĀH. BṚH. S. 14, 9.</ls> Der <is>Vindhya</is>, eifersüchtig auf den <is>Meru</is>, weil die Sonne um diesen sich bewegt, erhebt sich um der Sonne den Weg zu versperren, 
-<ls>MBH.3,8781. fgg.</ls> <ls>Verz. d. Oxf. H. 69,a,7. fgg.</ls> 
+<ls>MBH. 3, 8781. fgg.</ls> <ls>Verz. d. Oxf. H. 69,a,7. fgg.</ls> 
 <div n="2">— b) = {#व्याध#} {%Jäger%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} 

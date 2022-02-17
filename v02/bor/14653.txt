@@ -1,4 +1,4 @@
 <L>14653<pc>448<k1>miniature<k2>miniature
-<div n="lb"/>{@MINIATURE:@}¦ expr. with: {#ह्रस्व#} (f. {#स्वा#}) (= short)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#सूक्ष्म#}</div> (f. {#क्ष्मा#}) (= minute, fine).
+{@MINIATURE:@}¦ expr. with: {#ह्रस्व#} (f. {#स्वा#}) (= short)
+<div n="xe">{%or%}</div> <div n="xs">{#सूक्ष्म#}</div> (f. {#क्ष्मा#}) (= minute, fine).
 <LEND>

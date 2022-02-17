@@ -1,4 +1,4 @@
 <L>20423<pc>639<k1>shorthand<k2>shorthand
-<div n="lb"/>{@SHORTHAND:@}¦ i. e. s. writing: {#*संक्षिप्तलिपिः।#} <div n="xe">{%S.%}
-<div n="lb"/>{%writer:%}</div> <div n="xs">{#*संक्षिप्तलिपिकरः।#}</div>
+{@SHORTHAND:@}¦ i. e. s. writing: {#*संक्षिप्तलिपिः।#} <div n="xe">{%S.%}
+{%writer:%}</div> <div n="xs">{#*संक्षिप्तलिपिकरः।#}</div>
 <LEND>

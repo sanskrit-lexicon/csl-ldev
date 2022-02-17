@@ -1,12 +1,12 @@
 <L>24126<pc>755<k1>water<k2>water
-<div n="lb"/>{@WATER@}¦ (v. t.): <div n="I">I To wet with w.: ({#जलेन, #}
-<div n="lb"/>{# सलिलेन,#} etc.) {#सिञ्चति, अभि-, प्र-,#} ({#सिच्,#} c. 6.), <div n="xe">{%is%}
-<div n="lb"/>{%w. ing the Mādhavi plant:%}</div> <div n="xs">{#माधवीलतां सिञ्चति,#}</div> Sa.
-<div n="lb"/>i.; <div n="xe">{%richly w. ed with tears:%}</div> <div n="xs">{#आप्यायिता नेत्रजलप्रसेकैः,#}</div>
-<div n="lb"/>B. xi. 5.; <div n="xe">{%these trees have been w. ed:%}</div> <div n="xs">{#उदकं #}
-<div n="lb"/>{# लम्भिता एते वृक्षाः,#}</div> Sa. i. </div><div n="I">II To give w.: {#जलम्#}
-<div n="lb"/>etc. {#पाययति#} (c. of {#पा#}); {%he w. ed the horses:%}
-<div n="lb"/>{#हयान् पाययामास वारि सः,#} Mah. vii. 100. 15.;
-<div n="lb"/><div n="xe">{%place for w. ing horse:%}</div> <div n="xs">{#अश्वानामुदपानम्,#}</div> Mah. vii.
-<div n="lb"/>99. 58.</div>
+{@WATER@}¦ (v. t.): <div n="I">I To wet with w.: ({#जलेन, #}
+{# सलिलेन,#} etc.) {#सिञ्चति, अभि-, प्र-,#} ({#सिच्,#} c. 6.), <div n="xe">{%is%}
+{%w. ing the Mādhavi plant:%}</div> <div n="xs">{#माधवीलतां सिञ्चति,#}</div> Sa.
+i.; <div n="xe">{%richly w. ed with tears:%}</div> <div n="xs">{#आप्यायिता नेत्रजलप्रसेकैः,#}</div>
+B. xi. 5.; <div n="xe">{%these trees have been w. ed:%}</div> <div n="xs">{#उदकं #}
+{# लम्भिता एते वृक्षाः,#}</div> Sa. i. </div><div n="I">II To give w.: {#जलम्#}
+etc. {#पाययति#} (c. of {#पा#}); {%he w. ed the horses:%}
+{#हयान् पाययामास वारि सः,#} Mah. vii. 100. 15.;
+<div n="xe">{%place for w. ing horse:%}</div> <div n="xs">{#अश्वानामुदपानम्,#}</div> Mah. vii.
+99. 58.</div>
 <LEND>

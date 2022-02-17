@@ -1,5 +1,5 @@
 <L>17929<pc>549<k1>promenade<k2>promenade
-<div n="lb"/>{@PROMENADE@}¦ (subs.): <div n="I">I A walk: </div><div n="1">(1) {#विहारः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#विहरणम्#}</div> (= amusing); </div><div n="1">(2) {#विचरणम्।#} </div><div n="I">II A
-<div n="lb"/>place: no equiv.: {#विहारप्रदेशः#} (?).</div>
+{@PROMENADE@}¦ (subs.): <div n="I">I A walk: </div><div n="1">(1) {#विहारः#}
+<div n="xe">{%or%}</div> <div n="xs">{#विहरणम्#}</div> (= amusing); </div><div n="1">(2) {#विचरणम्।#} </div><div n="I">II A
+place: no equiv.: {#विहारप्रदेशः#} (?).</div>
 <LEND>

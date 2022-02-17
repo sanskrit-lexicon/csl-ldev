@@ -1,9 +1,9 @@
 <L>21546<pc>678<k1>stop<k2>stop
-<div n="lb"/>{@STOP@}¦ (subs.): <div n="I">I Obstruction, hindrance:
-<div n="lb"/>q. v.: {#स्तम्भः, प्रति-।#} Ph.: <div n="xe">{%to put a s. to:%}</div> <div n="xs">{#प्रतिष्ट-#}
-<div n="lb"/>{#म्भयति#}</div> (c. of {#स्तम्भ्#}): v. To stop. </div><div n="I">II Pause,
-<div n="lb"/>cessation: q. v.: </div><div n="1">(1) {#स्थितिः;#} </div><div n="1">(2) {#अवस्थितिः;#}</div>
-<div n="lb"/><div n="1">(3) {#प्रशान्तिः;#} </div><div n="1">(4) {#विश्रान्तिः।#} </div><div n="I">III In punctua-
-<div n="lb"/>-tion: {#विरामः, बिन्दुः#} (?). </div><div n="I">IV In music; {#नाहः#}
-<div n="lb"/>(?) </div><div n="I">V Of an organ: {#दण्डः#} (?).</div>
+{@STOP@}¦ (subs.): <div n="I">I Obstruction, hindrance:
+q. v.: {#स्तम्भः, प्रति-।#} Ph.: <div n="xe">{%to put a s. to:%}</div> <div n="xs">{#प्रतिष्ट-#}
+{#म्भयति#}</div> (c. of {#स्तम्भ्#}): v. To stop. </div><div n="I">II Pause,
+cessation: q. v.: </div><div n="1">(1) {#स्थितिः;#} </div><div n="1">(2) {#अवस्थितिः;#}</div>
+<div n="1">(3) {#प्रशान्तिः;#} </div><div n="1">(4) {#विश्रान्तिः।#} </div><div n="I">III In punctua-
+-tion: {#विरामः, बिन्दुः#} (?). </div><div n="I">IV In music; {#नाहः#}
+(?) </div><div n="I">V Of an organ: {#दण्डः#} (?).</div>
 <LEND>

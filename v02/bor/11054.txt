@@ -1,6 +1,6 @@
 <L>11054<pc>347<k1>hoary<k2>hoary
-<div n="lb"/>{@HOARY:@}¦ expr. by words given under white,
-<div n="lb"/><div n="xe">{%become h. with age:%}</div> <div n="xs">{#जराधवलितः#}</div> ({#ता, तं#}), K.;
-<div n="lb"/><div n="xe">{%with h. hair:%}</div> <div n="xs">{#सितैः केशैः,#}</div> Ki. xi. 3.; {%h. brows:%}
-<div n="lb"/>{#विशदभ्रूयुगम्,#} Ki.
+{@HOARY:@}¦ expr. by words given under white,
+<div n="xe">{%become h. with age:%}</div> <div n="xs">{#जराधवलितः#}</div> ({#ता, तं#}), K.;
+<div n="xe">{%with h. hair:%}</div> <div n="xs">{#सितैः केशैः,#}</div> Ki. xi. 3.; {%h. brows:%}
+{#विशदभ्रूयुगम्,#} Ki.
 <LEND>

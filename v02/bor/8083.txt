@@ -1,6 +1,6 @@
 <L>8083<pc>256<k1>exigence<k2>exigence
-<div n="lb"/>{@EXIGENCE,@}¦ {@EXIGENCY:@} <div n="xe">{%e. of business:%}</div> <div n="xs">{#कार्यगौरवम्;#}</div>
-<div n="lb"/><div n="xe">{%“in the present e. of affairs:”%}</div> <div n="xs">{#वर्तमाने कार्यसंकटे;#}</div> <div n="xe">{%in%}
-<div n="lb"/>{%this e.:%}</div> <div n="xs">{#अस्मिन् कृच्छे:#}</div> v. Urgency, import-
-<div n="lb"/>-ance, crisis.
+{@EXIGENCE,@}¦ {@EXIGENCY:@} <div n="xe">{%e. of business:%}</div> <div n="xs">{#कार्यगौरवम्;#}</div>
+<div n="xe">{%“in the present e. of affairs:”%}</div> <div n="xs">{#वर्तमाने कार्यसंकटे;#}</div> <div n="xe">{%in%}
+{%this e.:%}</div> <div n="xs">{#अस्मिन् कृच्छे:#}</div> v. Urgency, import-
+-ance, crisis.
 <LEND>

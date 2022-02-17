@@ -8,7 +8,7 @@
 <div n="1"> 1) {#बा|ए/#} {%laut, stark%}: {#अस^र्जि वा\ं स्थवि^रा वेधसा\ गीर्बा\|ए अ^श्विना#} 
 <ls>ṚV. 1, 181, 7.</ls> 
 <div n="1">— 2) {#बाढम्#} (fast immer {#वाढम्#} geschr.) = {#दृढम्, भृशम्#} 
-u.s.w. <ls>AK. 1, 1, 1, 62. 3, 4, 12, 47.</ls> <ls>H. 1505.</ls> <ls>an. 2, 130.</ls> <ls>MED. ḍh. 3.</ls> <ls>HALĀY. 5, 50.</ls> = {#प्रतिज्ञायाम्#} 
+u.s.w. <ls>AK. 1, 1, 1, 62. 3, 4, 12, 47.</ls> <ls>H. 1505. an. 2, 130.</ls> <ls>MED. ḍh. 3.</ls> <ls>HALĀY. 5, 50.</ls> = {#प्रतिज्ञायाम्#} 
 <ls>AK. 3, 4, 12, 47.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> = {#अवश्यम्#} 
@@ -18,10 +18,10 @@ u.s.w. <ls>AK. 1, 1, 1, 62. 3, 4, 12, 47.</ls> <ls>H. 1505.</ls> <ls>an. 2, 130.
 <ls>RAGH. 19, 52.</ls> 
 <ls>PRAB. 15, 8.</ls> Gewöhnlich als Partikel der Einwilligung, Bestätigung oder Bejahung nach einer Aufforderung, einer Behauptung oder einer Frage: {%einverstanden, gut, so geschehe es, so ist es, ja%} 
 <ls>N. 17, 21.</ls> 
-<ls>MBH. 1, 764. 13, 1485. 2969.</ls> 
+<ls>MBH. 1, 764.</ls> <ls n="MBH.">13, 1485.</ls> <ls n="MBH. 13,">2969.</ls> 
 <ls>R. 1, 30, 9. 37, 13. 52, 19. 60, 32. 67, 15. 2, 98, 18.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 15, 16.</ls> 
+
+<ls>R. GORR. 1, 15, 16.</ls> 
 <ls>MṚCCH. 123, 11.</ls> 
 <ls>KATHĀS. 24, 68. 26, 162. 45, 110.</ls> 
 <ls>SOM. NALA 135.</ls> <ls>BHĀG. P. 3, 12, 20. 22, 15. 5, 1, 5, 20.</ls> <ls>PAÑCAT. 24, 11. 122, 9.</ls> <ls>PRAB. 12, 7.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 92.</ls>

@@ -1,8 +1,8 @@
 <L>19172<pc>496-b<k1>meridian<k2>meridian
-<div n="lb"/>MERIDIAN¦, {%s.%} (Midday, noon) {#मध्याह्नः, मध्याह्नकालः, मध्यन्दिनं, दिन-#}
-<div n="lb"/>{#मध्यं#}. — (Meridian of the place in geography and astronomy)
-<div n="lb"/>{#याम्योत्तरवृत्तं, खमध्यं;#} ‘meridians of right ascension,’ {#क्रान्ति-#}
-<div n="lb"/>{#सूत्राणि#} {%n. pl.;%} ‘distance from the first meridian,’ {#रेखान्तरं,#}
-<div n="lb"/>{#देशान्तरं;#} ‘distance between the meridians,’ {#स्पष्टपरिधिः#} {%m.%}
-<div n="lb"/> — (Height, highest point) {#उच्चता, उच्चपदं, अग्रं, मध्यं#}.
+MERIDIAN¦, {%s.%} (Midday, noon) {#मध्याह्नः, मध्याह्नकालः, मध्यन्दिनं, दिन-#}
+{#मध्यं#}. — (Meridian of the place in geography and astronomy)
+{#याम्योत्तरवृत्तं, खमध्यं;#} ‘meridians of right ascension,’ {#क्रान्ति-#}
+{#सूत्राणि#} {%n. pl.;%} ‘distance from the first meridian,’ {#रेखान्तरं,#}
+{#देशान्तरं;#} ‘distance between the meridians,’ {#स्पष्टपरिधिः#} {%m.%}
+ — (Height, highest point) {#उच्चता, उच्चपदं, अग्रं, मध्यं#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>1032<pc>036<k1>arched<k2>arched
-<div n="lb"/>{@ARCHED:@}¦ <div n="I">I Covered with an arch: {#न्यस्ततोरणः#}
-<div n="lb"/>({#णा, णं#}) (?), <div n="xe">{%an a. gateway%}</div> <div n="xs">{#तोरणम्।#}</div> </div><div n="I">II In the
-<div n="lb"/>form of an arch, curved: </div><div n="1">(1) {#भुग्नः#} ({#ग्ना, ग्नं#});</div>
-<div n="lb"/><div n="1">(2) {#कुञ्चितः#} ({#ता, तं#}).</div>
+{@ARCHED:@}¦ <div n="I">I Covered with an arch: {#न्यस्ततोरणः#}
+({#णा, णं#}) (?), <div n="xe">{%an a. gateway%}</div> <div n="xs">{#तोरणम्।#}</div> </div><div n="I">II In the
+form of an arch, curved: </div><div n="1">(1) {#भुग्नः#} ({#ग्ना, ग्नं#});</div>
+<div n="1">(2) {#कुञ्चितः#} ({#ता, तं#}).</div>
 <LEND>

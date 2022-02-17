@@ -1,14 +1,14 @@
 <L>5189<pc>167<k1>cry<k2>cry
-<div n="lb"/>{@CRY@}¦ (subs.): <div n="I">I Of lower animals: {#रवः#} {%or%}
-<div n="lb"/>{#विरावः,#} <div n="xe">{%very loud cries were also uttered by the%}
-<div n="lb"/>{%elephants:%}</div> <div n="xs">{#मुक्तो विरावः सुमहान् कुञ्जरैरपि,#}</div> Mah.:
-<div n="lb"/>v. Noise, sound. </div><div n="I">II Clamour: {#उत्क्रोशः#} {%or%}
-<div n="lb"/>{#आक्रोशः,#} <div n="xe">{%by the c. s of the disputants:%}</div> <div n="xs">{#विवदमानानां #}
-<div n="lb"/>{# प्रजानामाक्रोशैः,#}</div> D.: v. Noise. </div><div n="I">III Of distress:</div>
-<div n="lb"/><div n="1">(1) {#आर्तनादः, आर्तरवः,#} and sim. comp. <div n="xe">{%s, by the%}
-<div n="lb"/>{%piteous cries of the attendants:%}</div> <div n="xs">{#परिजनानां करुण-#}
-<div n="lb"/>{#स्वनेन,#}</div> M. n.; </div><div n="1">(2) {#क्रन्दनम्#} <div n="xe">{%or%}</div> <div n="xs">{#आक्रन्दितम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आक्रन्दः#}</div>
-<div n="lb"/>(=loud c. of grief); </div><div n="1">(3) {#रुदितम्:#} v. Weep-
-<div n="lb"/>-ing. </div><div n="I">IV Of crier: perh. {#आक्रोशः:#} v. Pro-
-<div n="lb"/>-clamation.</div>
+{@CRY@}¦ (subs.): <div n="I">I Of lower animals: {#रवः#} {%or%}
+{#विरावः,#} <div n="xe">{%very loud cries were also uttered by the%}
+{%elephants:%}</div> <div n="xs">{#मुक्तो विरावः सुमहान् कुञ्जरैरपि,#}</div> Mah.:
+v. Noise, sound. </div><div n="I">II Clamour: {#उत्क्रोशः#} {%or%}
+{#आक्रोशः,#} <div n="xe">{%by the c. s of the disputants:%}</div> <div n="xs">{#विवदमानानां #}
+{# प्रजानामाक्रोशैः,#}</div> D.: v. Noise. </div><div n="I">III Of distress:</div>
+<div n="1">(1) {#आर्तनादः, आर्तरवः,#} and sim. comp. <div n="xe">{%s, by the%}
+{%piteous cries of the attendants:%}</div> <div n="xs">{#परिजनानां करुण-#}
+{#स्वनेन,#}</div> M. n.; </div><div n="1">(2) {#क्रन्दनम्#} <div n="xe">{%or%}</div> <div n="xs">{#आक्रन्दितम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आक्रन्दः#}</div>
+(=loud c. of grief); </div><div n="1">(3) {#रुदितम्:#} v. Weep-
+-ing. </div><div n="I">IV Of crier: perh. {#आक्रोशः:#} v. Pro-
+-clamation.</div>
 <LEND>

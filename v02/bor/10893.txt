@@ -1,4 +1,4 @@
 <L>10893<pc>343<k1>herbaceous<k2>herbaceous
-<div n="lb"/>{@HERBACEOUS:@}¦ expr. by comp.s. or gen., <div n="xe">{%h.%}
-<div n="lb"/>{%plant:%}</div> <div n="xs">{#ओषधिः।#}</div>
+{@HERBACEOUS:@}¦ expr. by comp.s. or gen., <div n="xe">{%h.%}
+{%plant:%}</div> <div n="xs">{#ओषधिः।#}</div>
 <LEND>

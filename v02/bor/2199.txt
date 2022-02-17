@@ -1,6 +1,6 @@
 <L>2199<pc>076<k1>blood<k2>blood
-<div n="lb"/>{@BLOOD@}¦ (v. t.): <div n="I">I To bleed: q. v. </div><div n="I">II To stain
-<div n="lb"/>with blood: {#रुधिरेण लिम्पति#} (v. To. annoint)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#कलुषयति#}</div> (v. To stain): Ph. <div n="xe">{%b. ed scimi-%}
-<div n="lb"/>{%tars%}</div> <div n="xs">{#खङ्गाः शोणितसन्दिग्धाः,#}</div> Ku.</div>
+{@BLOOD@}¦ (v. t.): <div n="I">I To bleed: q. v. </div><div n="I">II To stain
+with blood: {#रुधिरेण लिम्पति#} (v. To. annoint)
+<div n="xe">{%or%}</div> <div n="xs">{#कलुषयति#}</div> (v. To stain): Ph. <div n="xe">{%b. ed scimi-%}
+{%tars%}</div> <div n="xs">{#खङ्गाः शोणितसन्दिग्धाः,#}</div> Ku.</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>979<pc>034<k1>approaching<k2>approaching
-<div n="lb"/>{@APPROACHING@}¦ (part. adj.): <div n="1">(1) {#आसन्नः#} ({#न्ना, न्नं#}),
-<div n="lb"/><div n="xe">{%whose death was a.%}</div> <div n="xs">{#आसन्नशरीरपातः,#}</div> Ku. iii. 44;</div>
-<div n="lb"/><div n="1">(2) {#अभ्यर्णः#} ({#र्णा, र्णं#}), <div n="xe">{%a. separation,%}</div> <div n="xs">{#अभ्यर्णविरह-,#}</div>
-<div n="lb"/>K.; </div><div n="1">(3) {#उपोढः#} ({#ढा, ढं#}), Ki. xvii. 54.;</div>
-<div n="lb"/><div n="1">(4) {#सन्निकृष्टः#} ({#ष्टा, ष्टं#}).</div>
+{@APPROACHING@}¦ (part. adj.): <div n="1">(1) {#आसन्नः#} ({#न्ना, न्नं#}),
+<div n="xe">{%whose death was a.%}</div> <div n="xs">{#आसन्नशरीरपातः,#}</div> Ku. iii. 44;</div>
+<div n="1">(2) {#अभ्यर्णः#} ({#र्णा, र्णं#}), <div n="xe">{%a. separation,%}</div> <div n="xs">{#अभ्यर्णविरह-,#}</div>
+K.; </div><div n="1">(3) {#उपोढः#} ({#ढा, ढं#}), Ki. xvii. 54.;</div>
+<div n="1">(4) {#सन्निकृष्टः#} ({#ष्टा, ष्टं#}).</div>
 <LEND>

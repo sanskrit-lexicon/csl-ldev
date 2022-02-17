@@ -1,6 +1,6 @@
 <L>2883<pc>097<k1>cadence<k2>cadence
-<div n="lb"/>{@CADENCE:@}¦ <div n="I">I Lit.: v. Fall. </div><div n="I">II Musical:</div>
-<div n="lb"/><div n="1">(1) {#स्वरसंक्रमः#} (=modulation of voice), Mr.
-<div n="lb"/>iii. 5.; </div><div n="1">(2) {#स्वरावरोहः#} (=fall of voice.),
-<div n="lb"/>M. n.; </div><div n="1">(3) {#विरामः#} (=pause).</div>
+{@CADENCE:@}¦ <div n="I">I Lit.: v. Fall. </div><div n="I">II Musical:</div>
+<div n="1">(1) {#स्वरसंक्रमः#} (=modulation of voice), Mr.
+iii. 5.; </div><div n="1">(2) {#स्वरावरोहः#} (=fall of voice.),
+M. n.; </div><div n="1">(3) {#विरामः#} (=pause).</div>
 <LEND>

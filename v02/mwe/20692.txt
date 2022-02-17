@@ -1,13 +1,13 @@
 <L>20692<pc>540-b<k1>obeisance<k2>obeisance
-<div n="lb"/>OBEISANCE¦, {%s.%} {#नमस्कारः, प्रणामः, प्रणतिः#} {%f.,%} {#प्रणिपातः, प्रणिपतनं, नमस्#}
-<div n="lb"/>indecl., {#नमस्या, सन्नतिः#} {%f.,%} {#नतिः#} {%f.,%} {#नमनं, विनयः, विनीतिः#} {%f.,%}
-<div n="lb"/>{#उपसङ्ग्रहः;#} ‘from inferiors to superiors,’ {#अञ्जलिः#} {%m.,%} {#अञ्जलि-#}
-<div n="lb"/>{#कर्म्म#} {%n.%} {#(न्), अञ्जलिबन्धनं, वन्दनं;#} ‘from a Brahman,’ {#आशी-#}
-<div n="lb"/>{#र्वादः;#} ‘from an inferior to a religious preceptor, Guru,
-<div n="lb"/>&c.,’ {#अभिवादनं, अभिवन्दनं;#} ‘from Hindūs of inferior caste,’
-<div n="lb"/>{#दण्डवत्;#} ‘to an idol, &c.,’ {#वन्दनं#}. — (Profound obeisance with
-<div n="lb"/>all the members of the body) {#साष्टाङ्गप्रणामः, साष्टाङ्गनमस्कारः,#}
-<div n="lb"/>{#अष्टाङ्गपातः, अष्टाङ्गप्रणामः;#} ‘to make obeisance,’ {#नमस्कृ, प्रणम्#}
-<div n="lb"/>(c. 1. {#-णमति -णन्तुं#}), {#शिरसा प्रणम्, कायं प्रणम्, प्रणिपत्#} (c. 1. {#-पतति#}
-<div n="lb"/>{#-तितुं#}), {#साष्टाङ्गपातं प्रणिपत्;#} ‘having made obeisance,’ {#प्रणम्य#}.
+OBEISANCE¦, {%s.%} {#नमस्कारः, प्रणामः, प्रणतिः#} {%f.,%} {#प्रणिपातः, प्रणिपतनं, नमस्#}
+indecl., {#नमस्या, सन्नतिः#} {%f.,%} {#नतिः#} {%f.,%} {#नमनं, विनयः, विनीतिः#} {%f.,%}
+{#उपसङ्ग्रहः;#} ‘from inferiors to superiors,’ {#अञ्जलिः#} {%m.,%} {#अञ्जलि-#}
+{#कर्म्म#} {%n.%} {#(न्), अञ्जलिबन्धनं, वन्दनं;#} ‘from a Brahman,’ {#आशी-#}
+{#र्वादः;#} ‘from an inferior to a religious preceptor, Guru,
+&c.,’ {#अभिवादनं, अभिवन्दनं;#} ‘from Hindūs of inferior caste,’
+{#दण्डवत्;#} ‘to an idol, &c.,’ {#वन्दनं#}. — (Profound obeisance with
+all the members of the body) {#साष्टाङ्गप्रणामः, साष्टाङ्गनमस्कारः,#}
+{#अष्टाङ्गपातः, अष्टाङ्गप्रणामः;#} ‘to make obeisance,’ {#नमस्कृ, प्रणम्#}
+(c. 1. {#-णमति -णन्तुं#}), {#शिरसा प्रणम्, कायं प्रणम्, प्रणिपत्#} (c. 1. {#-पतति#}
+{#-तितुं#}), {#साष्टाङ्गपातं प्रणिपत्;#} ‘having made obeisance,’ {#प्रणम्य#}.
 <LEND>

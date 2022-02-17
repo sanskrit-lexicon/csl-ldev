@@ -1,7 +1,7 @@
 <L>1750<pc>037-b<k1>bank<k2>bank
-<div n="lb"/>BANK¦, {%s.%} (Of a river) {#तीरं, तटं -टः, कूलं, प्रतीरं, कच्छः, रोधः#} {%n.%}
-<div n="lb"/>({#स्#}); ‘the opposite bank,’ {#पारं, तीरान्तरं;#} ‘the near bank,’
-<div n="lb"/>{#अवारं#}. — (Any heap) {#चयः, कूलं, पिण्डनः, वप्रः;#} ‘sand-bank,’ {#सैकतं#}.
-<div n="lb"/> — (A place where money is laid up) {#धनागारं, मुद्रागारं,#}
-<div n="lb"/>{#निक्षिप्तधनागारं, टङ्कागारं#}.
+BANK¦, {%s.%} (Of a river) {#तीरं, तटं -टः, कूलं, प्रतीरं, कच्छः, रोधः#} {%n.%}
+({#स्#}); ‘the opposite bank,’ {#पारं, तीरान्तरं;#} ‘the near bank,’
+{#अवारं#}. — (Any heap) {#चयः, कूलं, पिण्डनः, वप्रः;#} ‘sand-bank,’ {#सैकतं#}.
+ — (A place where money is laid up) {#धनागारं, मुद्रागारं,#}
+{#निक्षिप्तधनागारं, टङ्कागारं#}.
 <LEND>

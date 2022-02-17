@@ -1,10 +1,10 @@
 <L>19853<pc>617<k1>scent<k2>scent
-<div n="lb"/>{@SCENT@}¦ (subs.): <div n="I">I The sense of smell: {#घ्राणम्#}
-<div n="lb"/>: v. Smell. </div><div n="I">II Smell, odour: </div><div n="1">(1)
-<div n="lb"/>{#गन्धः,#} <div n="xe">{%with the mere s.:%}</div> <div n="xs">{#गन्धमात्रेण,#}</div> Sa. iii.;
-<div n="lb"/><div n="xe">{%sweet s. ed:%}</div> <div n="xs">{#सुगन्धिन्#}</div> (mfn.), Bha.; <div n="xe">{%therefore%}
-<div n="lb"/>{%it is not consonant to implicate here even the s.%}
-<div n="lb"/>{%of action:%}</div> <div n="xs">{#तस्मात् क्रियाया गन्धमात्रस्याप्यनुप्रवेश इह #}
-<div n="lb"/>{# नोप्पद्यते,#}</div> S.; </div><div n="1">(2) {#सौरभम्#} (= fragrance: q. v.),
-<div n="lb"/><div n="xe">{%of uncommon s.:%}</div> <div n="xs">{#असाधारणसौरभः#}</div> ({#भा, भं#}), K.</div>
+{@SCENT@}¦ (subs.): <div n="I">I The sense of smell: {#घ्राणम्#}
+: v. Smell. </div><div n="I">II Smell, odour: </div><div n="1">(1)
+{#गन्धः,#} <div n="xe">{%with the mere s.:%}</div> <div n="xs">{#गन्धमात्रेण,#}</div> Sa. iii.;
+<div n="xe">{%sweet s. ed:%}</div> <div n="xs">{#सुगन्धिन्#}</div> (mfn.), Bha.; <div n="xe">{%therefore%}
+{%it is not consonant to implicate here even the s.%}
+{%of action:%}</div> <div n="xs">{#तस्मात् क्रियाया गन्धमात्रस्याप्यनुप्रवेश इह #}
+{# नोप्पद्यते,#}</div> S.; </div><div n="1">(2) {#सौरभम्#} (= fragrance: q. v.),
+<div n="xe">{%of uncommon s.:%}</div> <div n="xs">{#असाधारणसौरभः#}</div> ({#भा, भं#}), K.</div>
 <LEND>

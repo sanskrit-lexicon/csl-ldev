@@ -1,6 +1,6 @@
 <L>14818<pc>453<k1>mixture<k2>mixture
-<div n="lb"/>{@MIXTURE:@}¦ <div n="I">I Mixing: </div><div n="1">(1) {#मिश्रणम्, सम्-;#} </div><div n="1">(2)
-<div n="lb"/>{#संयोगः#} (= union: q. v.). </div><div n="I">II The compound:</div>
-<div n="lb"/><div n="1">(1) {#मिश्रम्;#} </div><div n="1">(2) {#सं-मिश्रेण जातः#} ({#ता, तं#}). </div><div n="I">III A
-<div n="lb"/>medley: </div><div n="1">(1) {#सङ्करः;#} </div><div n="1">(2) {#सन्निपातः।#}</div>
+{@MIXTURE:@}¦ <div n="I">I Mixing: </div><div n="1">(1) {#मिश्रणम्, सम्-;#} </div><div n="1">(2)
+{#संयोगः#} (= union: q. v.). </div><div n="I">II The compound:</div>
+<div n="1">(1) {#मिश्रम्;#} </div><div n="1">(2) {#सं-मिश्रेण जातः#} ({#ता, तं#}). </div><div n="I">III A
+medley: </div><div n="1">(1) {#सङ्करः;#} </div><div n="1">(2) {#सन्निपातः।#}</div>
 <LEND>

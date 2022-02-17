@@ -1,9 +1,9 @@
 <L>5433<pc>174<k1>dash<k2>dash
-<div n="lb"/>{@DASH@}¦ (subs.): <div n="I">I Collision: </div><div n="1">(1) {#सङ्घट्टः;#} </div><div n="1">(2)
-<div n="lb"/>{#समाघातः।#} </div><div n="I">II A check: q. v. </div><div n="I">III An
-<div n="lb"/>admixture: Ph.: {%wine with a d. of water;%}
-<div n="lb"/>{#जलसिक्तं मद्यम्#} (?); <div n="xe">{%with a d. of white:%}</div> <div n="xs">{#ईषद्धवलाभः#}</div>
-<div n="lb"/>({#भा, भं#}). </div><div n="I">IV An onset, a blow: q. v. V.
-<div n="lb"/>Capacity for bold movements: {#प्रागल्भ्यम्।#}</div>
-<div n="lb"/><div n="I">VI A line: {#रेखा।#}</div>
+{@DASH@}¦ (subs.): <div n="I">I Collision: </div><div n="1">(1) {#सङ्घट्टः;#} </div><div n="1">(2)
+{#समाघातः।#} </div><div n="I">II A check: q. v. </div><div n="I">III An
+admixture: Ph.: {%wine with a d. of water;%}
+{#जलसिक्तं मद्यम्#} (?); <div n="xe">{%with a d. of white:%}</div> <div n="xs">{#ईषद्धवलाभः#}</div>
+({#भा, भं#}). </div><div n="I">IV An onset, a blow: q. v. V.
+Capacity for bold movements: {#प्रागल्भ्यम्।#}</div>
+<div n="I">VI A line: {#रेखा।#}</div>
 <LEND>

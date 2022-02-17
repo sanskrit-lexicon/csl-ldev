@@ -1,5 +1,5 @@
 <L>24258<pc>759<k1>wheel<k2>wheel
-<div n="lb"/>{@WHEEL@}¦ (subs.): <div n="1">(1) {#चक्रम्,#} {%two-w.ed carriage:%}
-<div n="lb"/>{#द्विचक्रं यानम्;#} <div n="xe">{%potter's w.:%}</div> <div n="xs">{#कुलालचक्रम्;#}</div> </div><div n="1">(2) {#रथाङ्गम्#}
-<div n="lb"/>(poet.).</div>
+{@WHEEL@}¦ (subs.): <div n="1">(1) {#चक्रम्,#} {%two-w.ed carriage:%}
+{#द्विचक्रं यानम्;#} <div n="xe">{%potter's w.:%}</div> <div n="xs">{#कुलालचक्रम्;#}</div> </div><div n="1">(2) {#रथाङ्गम्#}
+(poet.).</div>
 <LEND>

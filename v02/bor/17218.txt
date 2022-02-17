@@ -1,7 +1,7 @@
 <L>17218<pc>527<k1>pleasantness<k2>pleasantness
-<div n="lb"/>{@PLEASANTNESS:@}¦ <div n="I">I Agreeableness: </div><div n="1">(1) {#मनोज्ञता;#}</div>
-<div n="lb"/><div n="1">(2) {#हृद्यता;#} </div><div n="1">(3) {#अभिरामता;#} </div><div n="1">(4) {#रम्यता;#} </div><div n="1">(5)
-<div n="lb"/>{#रमणीयता;#} </div><div n="1">(6) {#रुचिरता;#} </div><div n="1">(7) {#काम्यता;#} </div><div n="1">(8) {#कमनीयता।#}</div>
-<div n="lb"/><div n="I">II Sweetness: q. v.: {#मधुरता।#} </div><div n="I">III Pleasur-
-<div n="lb"/>-ableness: {#सुखावहता#} and sim. comp.s.</div>
+{@PLEASANTNESS:@}¦ <div n="I">I Agreeableness: </div><div n="1">(1) {#मनोज्ञता;#}</div>
+<div n="1">(2) {#हृद्यता;#} </div><div n="1">(3) {#अभिरामता;#} </div><div n="1">(4) {#रम्यता;#} </div><div n="1">(5)
+{#रमणीयता;#} </div><div n="1">(6) {#रुचिरता;#} </div><div n="1">(7) {#काम्यता;#} </div><div n="1">(8) {#कमनीयता।#}</div>
+<div n="I">II Sweetness: q. v.: {#मधुरता।#} </div><div n="I">III Pleasur-
+-ableness: {#सुखावहता#} and sim. comp.s.</div>
 <LEND>

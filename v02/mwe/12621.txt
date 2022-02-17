@@ -1,9 +1,9 @@
 <L>12621<pc>304-a<k1>generation<k2>generation
-<div n="lb"/>GENERATION¦, {%s.%} (Production) {#जननं, प्रजननं, जन्म#} {%n.%} {#(न्), उत्पादनं,#}
-<div n="lb"/>{#उत्पत्तिः#} {%f.,%} {#प्रसूतिः#} {%f.,%} {#प्रसवः, सम्भवः, उद्भवः, प्रभवः#}. — (Race) {#जातिः#} {%f.,%}
-<div n="lb"/>{#वंशः, सन्तानः, सन्ततिः#} {%f.,%} {#कुलं, अन्वयः, प्रवरं#}. — (The people living
-<div n="lb"/>at the same time) {#समवयस्काः#} or {#समकालजीविनः पुरुषाः#} {%m. pl.%}
-<div n="lb"/> — (Series of descendants) {#वंशावली, वंशपरम्परा, वंशश्रेणी;#}
-<div n="lb"/>‘extending to seven generations,’ {#साप्तपौरुषः -षी -षं;#} ‘organ
-<div n="lb"/>of generation,’ {#उपस्थः#}.
+GENERATION¦, {%s.%} (Production) {#जननं, प्रजननं, जन्म#} {%n.%} {#(न्), उत्पादनं,#}
+{#उत्पत्तिः#} {%f.,%} {#प्रसूतिः#} {%f.,%} {#प्रसवः, सम्भवः, उद्भवः, प्रभवः#}. — (Race) {#जातिः#} {%f.,%}
+{#वंशः, सन्तानः, सन्ततिः#} {%f.,%} {#कुलं, अन्वयः, प्रवरं#}. — (The people living
+at the same time) {#समवयस्काः#} or {#समकालजीविनः पुरुषाः#} {%m. pl.%}
+ — (Series of descendants) {#वंशावली, वंशपरम्परा, वंशश्रेणी;#}
+‘extending to seven generations,’ {#साप्तपौरुषः -षी -षं;#} ‘organ
+of generation,’ {#उपस्थः#}.
 <LEND>

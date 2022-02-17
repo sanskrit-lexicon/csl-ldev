@@ -1,8 +1,8 @@
 <L>7826<pc>247<k1>escheat<k2>escheat
-<div n="lb"/>{@ESCHEAT@}¦ (v. i.): <div n="I">I To the crown: </div><div n="1">(1) {#राजस्वताम् #}
-<div n="lb"/>{# आपद्यते#} ({#पद्,#} c. 4.), Sa. vi.; </div><div n="1">(2) {#राजसात् #}
-<div n="lb"/>{# गच्छति#} ({#गम्,#} c. 1.), <div n="xe">{%all these accumulated silver,%}
-<div n="lb"/>{%base metal, etc. e. ed to the crown:%}</div> <div n="xs">{#सञ्चितं रौप्य-#}
-<div n="lb"/>{#कुप्यादि सर्वं तद्राजसादगात्,#}</div> Raj. </div><div n="I">II To a lord:
-<div n="lb"/>by ana: {#स्वामिसात् गच्छति।#}</div>
+{@ESCHEAT@}¦ (v. i.): <div n="I">I To the crown: </div><div n="1">(1) {#राजस्वताम् #}
+{# आपद्यते#} ({#पद्,#} c. 4.), Sa. vi.; </div><div n="1">(2) {#राजसात् #}
+{# गच्छति#} ({#गम्,#} c. 1.), <div n="xe">{%all these accumulated silver,%}
+{%base metal, etc. e. ed to the crown:%}</div> <div n="xs">{#सञ्चितं रौप्य-#}
+{#कुप्यादि सर्वं तद्राजसादगात्,#}</div> Raj. </div><div n="I">II To a lord:
+by ana: {#स्वामिसात् गच्छति।#}</div>
 <LEND>

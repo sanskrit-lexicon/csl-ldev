@@ -1,5 +1,5 @@
 <L>3233<pc>107<k1>catechise<k2>catechise
-<div n="lb"/>{@CATECHISE, CATECHIZE:@}¦ <div n="I">I To instruct:
-<div n="lb"/>({#प्रश्नोत्तरैः#}) {#शिक्षयति#} (c. of {#शिक्ष्#}). </div><div n="I">II To
-<div n="lb"/>interrogate: q. v.</div>
+{@CATECHISE, CATECHIZE:@}¦ <div n="I">I To instruct:
+({#प्रश्नोत्तरैः#}) {#शिक्षयति#} (c. of {#शिक्ष्#}). </div><div n="I">II To
+interrogate: q. v.</div>
 <LEND>

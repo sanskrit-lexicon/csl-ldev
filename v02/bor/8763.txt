@@ -1,5 +1,5 @@
 <L>8763<pc>277<k1>financial<k2>financial
-<div n="lb"/>{@FINANCIAL:@}¦ {#आयव्ययसम्बन्धिन्#} (f. {#नी#}). Ph.: <div n="xe">{%to%}
-<div n="lb"/>{%improve the f. condition:%}</div> <div n="xs">{#कोषवृद्धिं करोति,#}</div> Nil.; <div n="xe">{%his%}
-<div n="lb"/>{%f. condition is bad:%}</div> <div n="xs">{#न स्फीतस्तस्यायः।#}</div>
+{@FINANCIAL:@}¦ {#आयव्ययसम्बन्धिन्#} (f. {#नी#}). Ph.: <div n="xe">{%to%}
+{%improve the f. condition:%}</div> <div n="xs">{#कोषवृद्धिं करोति,#}</div> Nil.; <div n="xe">{%his%}
+{%f. condition is bad:%}</div> <div n="xs">{#न स्फीतस्तस्यायः।#}</div>
 <LEND>

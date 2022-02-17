@@ -1,8 +1,8 @@
 <L>16609<pc>510<k1>pay<k2>pay
-<div n="lb"/>{@PAY@}¦ (subs.): <div n="1">(1) {#वेतनम्,#} <div n="xe">{%after taking p.:%}</div> <div n="xs">{#गृहीत-#}
-<div n="lb"/>{#वेतनः,#}</div> Vri.; <div n="xe">{%the p. settled:%}</div> <div n="xs">{#कृतवेतनम्,#}</div> Viv.;</div>
-<div n="lb"/><div n="1">(2) {#भृतिः#} (prop. maintenance), <div n="xe">{%he is entitled%}
-<div n="lb"/>{%to half the p.:%}</div> <div n="xs">{#भृतेरर्धं लभेत सः,#}</div> Vriddha Manu;</div>
-<div n="lb"/><div n="1">(3) {#मूल्यम्#} (prop. price), <div n="xe">{%shall p. his whole%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#सर्वमेव मूल्यं दद्यात्,#}</div> Viṣṇu.</div>
+{@PAY@}¦ (subs.): <div n="1">(1) {#वेतनम्,#} <div n="xe">{%after taking p.:%}</div> <div n="xs">{#गृहीत-#}
+{#वेतनः,#}</div> Vri.; <div n="xe">{%the p. settled:%}</div> <div n="xs">{#कृतवेतनम्,#}</div> Viv.;</div>
+<div n="1">(2) {#भृतिः#} (prop. maintenance), <div n="xe">{%he is entitled%}
+{%to half the p.:%}</div> <div n="xs">{#भृतेरर्धं लभेत सः,#}</div> Vriddha Manu;</div>
+<div n="1">(3) {#मूल्यम्#} (prop. price), <div n="xe">{%shall p. his whole%}
+{%p.:%}</div> <div n="xs">{#सर्वमेव मूल्यं दद्यात्,#}</div> Viṣṇu.</div>
 <LEND>

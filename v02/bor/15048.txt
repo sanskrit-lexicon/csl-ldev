@@ -1,20 +1,20 @@
 <L>15048<pc>460<k1>mouth<k2>mouth
-<div n="lb"/>{@MOUTH@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#मुखम्,#} <div n="xe">{%from the%}
-<div n="lb"/>{%m. of Vasantaka:%}</div> <div n="xs">{#वसन्तकस्य मुखात्,#}</div> K.s.; <div n="xe">{%of%}
-<div n="lb"/>{%unchecked m.:%}</div> <div n="xs">{#अयन्त्रितमुखः#}</div> ({#खा, खं#}), D. viii.;
-<div n="lb"/>{%honey in m.,%} ({%but%}) <div n="xe">{%poison in heart:%}</div> <div n="xs">{#मुखमधुर्हृ दय-#}
-<div n="lb"/>{#विषः,#}</div> Sa. v.; </div><div n="1">(2) {#वक्त्रम्;#} </div><div n="1">(3) {#आस्यम्;#} </div><div n="1">(4)
-<div n="lb"/>{#आननम्;#} </div><div n="1">(5) {#वदनम्।#} N.B. These words also
-<div n="lb"/>mean face and when the meaning is
-<div n="lb"/>doubtful, {#रन्घ्र#} should be added, as {#वक्त्ररन्ध्रम्,#}
-<div n="lb"/>R. ix. 63. </div><div n="I">II Of things: </div><div n="1">(1) {#मुखम्,#} <div n="xe">{%pots%}
-<div n="lb"/>{%with closed m.s.:%}</div> <div n="xs">{#अपिनद्धमुखा घटाः,#}</div> Ve. iii.;
-<div n="lb"/><div n="xe">{%rising from the m.s of caves:%}</div> <div n="xs">{#दरीमुखोत्थः,#}</div> Ku.
-<div n="lb"/>i. 8.; </div><div n="1">(2) {#वक्त्रम्,#} <div n="xe">{%the m. of a quiver:%}</div> <div n="xs">{#निषङ्गवक्त्रम्,#}</div>
-<div n="lb"/>Ki. xvii. 36.; <div n="xe">{%hundred-m.ed hole:%}</div> <div n="xs">{#शतमुखं #}
-<div n="lb"/>{# बिलम्,#}</div> Mah.: v. Also orifice. </div><div n="I">III Of a
-<div n="lb"/>river: {#मुखम्,#} <div n="xe">{%waters at the m. of a river:%}</div> <div n="xs">{#नदी-#}
-<div n="lb"/>{#मुखाम्भः,#}</div> R. xiii. 10. </div><div n="I">IV Fig.: {#मुखम्,#} <div n="xe">{%grammar,%}
-<div n="lb"/>{%the m. of all learning:%}</div> <div n="xs">{#सर्वविद्यानां मुखं व्याकरणम्,#}</div>
-<div n="lb"/>K. s. vi. 144.</div>
+{@MOUTH@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#मुखम्,#} <div n="xe">{%from the%}
+{%m. of Vasantaka:%}</div> <div n="xs">{#वसन्तकस्य मुखात्,#}</div> K.s.; <div n="xe">{%of%}
+{%unchecked m.:%}</div> <div n="xs">{#अयन्त्रितमुखः#}</div> ({#खा, खं#}), D. viii.;
+{%honey in m.,%} ({%but%}) <div n="xe">{%poison in heart:%}</div> <div n="xs">{#मुखमधुर्हृ दय-#}
+{#विषः,#}</div> Sa. v.; </div><div n="1">(2) {#वक्त्रम्;#} </div><div n="1">(3) {#आस्यम्;#} </div><div n="1">(4)
+{#आननम्;#} </div><div n="1">(5) {#वदनम्।#} N.B. These words also
+mean face and when the meaning is
+doubtful, {#रन्घ्र#} should be added, as {#वक्त्ररन्ध्रम्,#}
+R. ix. 63. </div><div n="I">II Of things: </div><div n="1">(1) {#मुखम्,#} <div n="xe">{%pots%}
+{%with closed m.s.:%}</div> <div n="xs">{#अपिनद्धमुखा घटाः,#}</div> Ve. iii.;
+<div n="xe">{%rising from the m.s of caves:%}</div> <div n="xs">{#दरीमुखोत्थः,#}</div> Ku.
+i. 8.; </div><div n="1">(2) {#वक्त्रम्,#} <div n="xe">{%the m. of a quiver:%}</div> <div n="xs">{#निषङ्गवक्त्रम्,#}</div>
+Ki. xvii. 36.; <div n="xe">{%hundred-m.ed hole:%}</div> <div n="xs">{#शतमुखं #}
+{# बिलम्,#}</div> Mah.: v. Also orifice. </div><div n="I">III Of a
+river: {#मुखम्,#} <div n="xe">{%waters at the m. of a river:%}</div> <div n="xs">{#नदी-#}
+{#मुखाम्भः,#}</div> R. xiii. 10. </div><div n="I">IV Fig.: {#मुखम्,#} <div n="xe">{%grammar,%}
+{%the m. of all learning:%}</div> <div n="xs">{#सर्वविद्यानां मुखं व्याकरणम्,#}</div>
+K. s. vi. 144.</div>
 <LEND>

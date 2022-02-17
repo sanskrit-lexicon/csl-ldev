@@ -1,11 +1,11 @@
 <L>1075<pc>037<k1>arm<k2>arm
-<div n="lb"/>{@ARM@}¦ (subs.): <div n="I">I Of the human body: </div><div n="1">(1)
-<div n="lb"/>{#भुजः;#} </div><div n="1">(2) {#बाहुः;#} </div><div n="1">(3) {#दोस्;#} (m); </div><div n="1">(4) {#प्रवेष्टः।#} <div n="xe">{%A.%}
-<div n="lb"/>{%The fore a.%}</div> <div n="xs">{#प्रकोष्ठः।#}</div> <div n="xe">{%The upper a.%}</div> <div n="xs">{#प्रगण्डः।#}</div> </div><div n="I">II
-<div n="lb"/>any object analogous to an arm: (a) of a
-<div n="lb"/>tree {#शाखा।#} v. Bough. (b) of a chair: {#*बाहुः।#}
-<div n="lb"/>(c) of the sea or of a river: </div><div n="1">(1) {#वङ्कः;#} </div><div n="1">(2)
-<div n="lb"/>{#वक्रम्।#} (d) of the polypi: v. Feelers. </div><div n="I">III
-<div n="lb"/>A weapon: v. Arms. </div><div n="I">IV A branch of the
-<div n="lb"/>military service: {#अङ्गम्।#} v. Power: q. v.</div>
+{@ARM@}¦ (subs.): <div n="I">I Of the human body: </div><div n="1">(1)
+{#भुजः;#} </div><div n="1">(2) {#बाहुः;#} </div><div n="1">(3) {#दोस्;#} (m); </div><div n="1">(4) {#प्रवेष्टः।#} <div n="xe">{%A.%}
+{%The fore a.%}</div> <div n="xs">{#प्रकोष्ठः।#}</div> <div n="xe">{%The upper a.%}</div> <div n="xs">{#प्रगण्डः।#}</div> </div><div n="I">II
+any object analogous to an arm: (a) of a
+tree {#शाखा।#} v. Bough. (b) of a chair: {#*बाहुः।#}
+(c) of the sea or of a river: </div><div n="1">(1) {#वङ्कः;#} </div><div n="1">(2)
+{#वक्रम्।#} (d) of the polypi: v. Feelers. </div><div n="I">III
+A weapon: v. Arms. </div><div n="I">IV A branch of the
+military service: {#अङ्गम्।#} v. Power: q. v.</div>
 <LEND>

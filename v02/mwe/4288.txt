@@ -1,5 +1,5 @@
 <L>4288<pc>093-a<k1>chieftain<k2>chieftain
-<div n="lb"/>CHIEFTAIN¦, {%s.%} (Leader) {#मुखरः, पुरोगः, अग्रगः, नायकः, पतिः#} {%m.,%}
-<div n="lb"/>{#ईश्वरः#}. — (Commander) {#सेनापतिः, सेनानीः#} {%m.%} — (Head of a clan)
-<div n="lb"/>{#गणपतिः, सामन्तः#}.
+CHIEFTAIN¦, {%s.%} (Leader) {#मुखरः, पुरोगः, अग्रगः, नायकः, पतिः#} {%m.,%}
+{#ईश्वरः#}. — (Commander) {#सेनापतिः, सेनानीः#} {%m.%} — (Head of a clan)
+{#गणपतिः, सामन्तः#}.
 <LEND>

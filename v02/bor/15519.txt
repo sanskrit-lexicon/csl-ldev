@@ -1,8 +1,8 @@
 <L>15519<pc>475<k1>north<k2>north
-<div n="lb"/>{@NORTH@}¦ (adj.): {#उत्तरः#} ({#रा, रं#}), {%the n. Kurus:%}
-<div n="lb"/>{#उत्तरान् कुरून्,,#} Ki.; {%what is n. of the ocean:%}
-<div n="lb"/>{#उत्तरं यत् समुद्रस्य,#} V. p.; <div n="xe">{%n. wind:%}</div> <div n="xs">{#उत्तरो वायुः,#}</div>
-<div n="lb"/>V. m.; (rarely) {#उदीचीनः#} ({#ना, नं#}) <div n="xe">{%or%}</div> <div n="xs">{#उदीच्य#}</div>
-<div n="lb"/>(f. {#च्या#}) <div n="xe">{%or%}</div> <div n="xs">{#कौवेरः#}</div> ({#री, रं#}), {%the n. quarter:%}
-<div n="lb"/>{#कौवेरदिग्भागः,#} Si. <div n="xe">{%N. star.:%}</div> <div n="xs">{#ध्रुवः।#}</div>
+{@NORTH@}¦ (adj.): {#उत्तरः#} ({#रा, रं#}), {%the n. Kurus:%}
+{#उत्तरान् कुरून्,,#} Ki.; {%what is n. of the ocean:%}
+{#उत्तरं यत् समुद्रस्य,#} V. p.; <div n="xe">{%n. wind:%}</div> <div n="xs">{#उत्तरो वायुः,#}</div>
+V. m.; (rarely) {#उदीचीनः#} ({#ना, नं#}) <div n="xe">{%or%}</div> <div n="xs">{#उदीच्य#}</div>
+(f. {#च्या#}) <div n="xe">{%or%}</div> <div n="xs">{#कौवेरः#}</div> ({#री, रं#}), {%the n. quarter:%}
+{#कौवेरदिग्भागः,#} Si. <div n="xe">{%N. star.:%}</div> <div n="xs">{#ध्रुवः।#}</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>8440<pc>267<k1>fare<k2>fare
-<div n="lb"/>{@FARE@}¦ (v.i.): <div n="I">I To go, pass: q.v.: {#व्रजति#} ({#व्रज्,#}
-<div n="lb"/>c. 1.). </div><div n="I">II To be in any state: <div n="xe">{%how does%}
-<div n="lb"/>{%Sāgarikā f.:%}</div> <div n="xs">{#सागरिकायाः किं वर्तते,#}</div> Ra,; <div n="xe">{%he f. s.%}
-<div n="lb"/>{%well, ill:%}</div> <div n="xs">{#तस्य प्रियं, अप्रियं वर्तते:#}</div> v. To happen.</div>
-<div n="lb"/><div n="I">III To feed: q.v.: {#भोजनं करोति।#}</div>
+{@FARE@}¦ (v.i.): <div n="I">I To go, pass: q.v.: {#व्रजति#} ({#व्रज्,#}
+c. 1.). </div><div n="I">II To be in any state: <div n="xe">{%how does%}
+{%Sāgarikā f.:%}</div> <div n="xs">{#सागरिकायाः किं वर्तते,#}</div> Ra,; <div n="xe">{%he f. s.%}
+{%well, ill:%}</div> <div n="xs">{#तस्य प्रियं, अप्रियं वर्तते:#}</div> v. To happen.</div>
+<div n="I">III To feed: q.v.: {#भोजनं करोति।#}</div>
 <LEND>

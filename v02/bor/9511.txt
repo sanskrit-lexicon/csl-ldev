@@ -1,4 +1,4 @@
 <L>9511<pc>302<k1>fudge<k2>fudge
-<div n="lb"/>{@FUDGE:@}¦ an exclamation: <div n="1">(1) {#हलम्;#} </div><div n="1">(2) {#कम्;#}</div>
-<div n="lb"/><div n="1">(3) {#फस्#} (?).</div>
+{@FUDGE:@}¦ an exclamation: <div n="1">(1) {#हलम्;#} </div><div n="1">(2) {#कम्;#}</div>
+<div n="1">(3) {#फस्#} (?).</div>
 <LEND>

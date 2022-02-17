@@ -1,9 +1,9 @@
 <L>9342<pc>296<k1>frame<k2>frame
-<div n="lb"/>{@FRAME@}¦ (subs.): <div n="I">I A fabric: {#निर्माणम्।#} </div><div n="I">II A
-<div n="lb"/>case: {#आधारः,#} <div n="xe">{%door -f.:%}</div> <div n="xs">{#द्वारस्याधारदारु,#}</div> M.n. </div><div n="I">III
-<div n="lb"/>Body: q.v.: {#वपुः,#} <div n="xe">{%surely (her) f. was made%}
-<div n="lb"/>{%of golden lotuses:%}</div> <div n="xs">{#ध्रुवं वपुः काञ्चनपद्मनिर्मितम्,#}</div> Ku.</div>
-<div n="lb"/><div n="I">IV Humour: {#भावः;#} oftenn ot expr., <div n="xe">{%in a%}
-<div n="lb"/>{%happy f. of mind:%}</div> <div n="xs">{#निर्वृतमनस्#}</div> (mfn.). </div><div n="I">V System:
-<div n="lb"/>{#प्रकारः।#}</div>
+{@FRAME@}¦ (subs.): <div n="I">I A fabric: {#निर्माणम्।#} </div><div n="I">II A
+case: {#आधारः,#} <div n="xe">{%door -f.:%}</div> <div n="xs">{#द्वारस्याधारदारु,#}</div> M.n. </div><div n="I">III
+Body: q.v.: {#वपुः,#} <div n="xe">{%surely (her) f. was made%}
+{%of golden lotuses:%}</div> <div n="xs">{#ध्रुवं वपुः काञ्चनपद्मनिर्मितम्,#}</div> Ku.</div>
+<div n="I">IV Humour: {#भावः;#} oftenn ot expr., <div n="xe">{%in a%}
+{%happy f. of mind:%}</div> <div n="xs">{#निर्वृतमनस्#}</div> (mfn.). </div><div n="I">V System:
+{#प्रकारः।#}</div>
 <LEND>

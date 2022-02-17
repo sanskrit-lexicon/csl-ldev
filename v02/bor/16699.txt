@@ -1,5 +1,5 @@
 <L>16699<pc>512<k1>pending<k2>pending
-<div n="lb"/>{@PENDING:@}¦ <div n="I">I Adj.: <div n="xe">{%the case is p.:%}</div> <div n="xs">{#अनिर्णीतोऽयं #}
-<div n="lb"/>{# व्यवहारः।#}</div> </div><div n="I">II Prep. <div n="xe">{%p. the trial:%}</div> <div n="xs">{#यावन्न निर्णीयते #}
-<div n="lb"/>{# व्यवहारः।#}</div></div>
+{@PENDING:@}¦ <div n="I">I Adj.: <div n="xe">{%the case is p.:%}</div> <div n="xs">{#अनिर्णीतोऽयं #}
+{# व्यवहारः।#}</div> </div><div n="I">II Prep. <div n="xe">{%p. the trial:%}</div> <div n="xs">{#यावन्न निर्णीयते #}
+{# व्यवहारः।#}</div></div>
 <LEND>

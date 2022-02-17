@@ -1,11 +1,11 @@
 <L>7957<pc>251<k1>exalt<k2>exalt
-<div n="lb"/>{@EXALT:@}¦ <div n="I">I Lit.: {#उन्नमयति#} (c. of {#नम्#}), <div n="xe">{%e. ed by%}
-<div n="lb"/>{%the echoes:%}</div> <div n="xs">{#प्रतिस्वनैरुन्नमितः#}</div> ({#ता, तं#}), Ki.: v.
-<div n="lb"/>To lift. </div><div n="I">II Fig., to elevate: </div><div n="1">(1) {#उन्नमयति, #}
-<div n="lb"/>{# सम्-#} <div n="xe">{%or%}</div> <div n="xs">{#उन्नतिं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#समुन्नतिं नयति#}</div> ({#नी,#} c. 1.), {#प्रापयति#}
-<div n="lb"/>(c. of {#आप्#}) etc., <div n="xe">{%e. s some:%}</div> <div n="xs">{#कांश्चिन्नयत्युन्नतिम्,#}</div> Mr.;</div>
-<div n="lb"/><div n="1">(2) {#उच्छ्राययति, सम्-,#} (c. of {#श्रि#}), {%e. ing%} ({%his%})
-<div n="lb"/><div n="xe">{%prowess by arms:%}</div> <div n="xs">{#अस्त्रैर्वीर्यमुच्छ्राययिष्यन्,#}</div> Vi. </div><div n="I">III
-<div n="lb"/>To elate: {#उल्लासयति#} (c. of {#लस्#}), {%e. s Daśaratha:%}
-<div n="lb"/>{#दशरथमुल्लासयति,#} An.</div>
+{@EXALT:@}¦ <div n="I">I Lit.: {#उन्नमयति#} (c. of {#नम्#}), <div n="xe">{%e. ed by%}
+{%the echoes:%}</div> <div n="xs">{#प्रतिस्वनैरुन्नमितः#}</div> ({#ता, तं#}), Ki.: v.
+To lift. </div><div n="I">II Fig., to elevate: </div><div n="1">(1) {#उन्नमयति, #}
+{# सम्-#} <div n="xe">{%or%}</div> <div n="xs">{#उन्नतिं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#समुन्नतिं नयति#}</div> ({#नी,#} c. 1.), {#प्रापयति#}
+(c. of {#आप्#}) etc., <div n="xe">{%e. s some:%}</div> <div n="xs">{#कांश्चिन्नयत्युन्नतिम्,#}</div> Mr.;</div>
+<div n="1">(2) {#उच्छ्राययति, सम्-,#} (c. of {#श्रि#}), {%e. ing%} ({%his%})
+<div n="xe">{%prowess by arms:%}</div> <div n="xs">{#अस्त्रैर्वीर्यमुच्छ्राययिष्यन्,#}</div> Vi. </div><div n="I">III
+To elate: {#उल्लासयति#} (c. of {#लस्#}), {%e. s Daśaratha:%}
+{#दशरथमुल्लासयति,#} An.</div>
 <LEND>

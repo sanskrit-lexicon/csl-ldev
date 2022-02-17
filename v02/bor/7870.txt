@@ -1,4 +1,4 @@
 <L>7870<pc>249<k1>ether<k2>ether
-<div n="lb"/>{@ETHER:@}¦ <div n="I">I A medium: {#*तेजोवहः।#} </div><div n="I">II A fluid:
-<div n="lb"/>{#*हिमद्रवः।#}</div>
+{@ETHER:@}¦ <div n="I">I A medium: {#*तेजोवहः।#} </div><div n="I">II A fluid:
+{#*हिमद्रवः।#}</div>
 <LEND>

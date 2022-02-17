@@ -1,6 +1,6 @@
 <L>6610<pc>211<k1>distinctly<k2>distinctly
-<div n="lb"/>{@DISTINCTLY:@}¦ <div n="I">I Separately: q.v. </div><div n="I">II Clearly:
-<div n="lb"/>q. v.: {#सविशेषम्#} <div n="xe">{%or%}</div> <div n="xs">{#विशेषेण,#}</div> <div n="xe">{%d. appears to me:%}</div> <div n="xs">{#सविशेषं #}
-<div n="lb"/>{# मे प्रतिभाति,#}</div> Ku. v. 35. </div><div n="I">III In distinct words:
-<div n="lb"/>{#भिन्नार्थम्,#} Sa.</div>
+{@DISTINCTLY:@}¦ <div n="I">I Separately: q.v. </div><div n="I">II Clearly:
+q. v.: {#सविशेषम्#} <div n="xe">{%or%}</div> <div n="xs">{#विशेषेण,#}</div> <div n="xe">{%d. appears to me:%}</div> <div n="xs">{#सविशेषं #}
+{# मे प्रतिभाति,#}</div> Ku. v. 35. </div><div n="I">III In distinct words:
+{#भिन्नार्थम्,#} Sa.</div>
 <LEND>

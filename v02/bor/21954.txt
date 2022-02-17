@@ -1,8 +1,8 @@
 <L>21954<pc>692<k1>suppose<k2>suppose
-<div n="lb"/>{@SUPPOSE:@}¦ <div n="I">I To assume to be true: expr.
-<div n="lb"/>by {#विधिलिङ्#} <div n="xe">{%or%}</div> <div n="xs">{#लोट्,#}</div> <div n="xe">{%s. he is entirely so:%}</div> <div n="xs">{#तथाविध-#}
-<div n="lb"/>{#स्तावदशेषमस्तु सः,#}</div> Ku. v. 82. </div><div n="I">II To imagine:</div>
-<div n="lb"/><div n="1">(1) {#तर्कयति#} ({#तर्क्,#} c. 10.); </div><div n="1">(2) {#सम्भावयति#} (c.
-<div n="lb"/>of {#भू#}); </div><div n="1">(3) {#मन्यते#} ({#मन्,#} c. 4.=think): v.
-<div n="lb"/>Also to suspect, guess.</div>
+{@SUPPOSE:@}¦ <div n="I">I To assume to be true: expr.
+by {#विधिलिङ्#} <div n="xe">{%or%}</div> <div n="xs">{#लोट्,#}</div> <div n="xe">{%s. he is entirely so:%}</div> <div n="xs">{#तथाविध-#}
+{#स्तावदशेषमस्तु सः,#}</div> Ku. v. 82. </div><div n="I">II To imagine:</div>
+<div n="1">(1) {#तर्कयति#} ({#तर्क्,#} c. 10.); </div><div n="1">(2) {#सम्भावयति#} (c.
+of {#भू#}); </div><div n="1">(3) {#मन्यते#} ({#मन्,#} c. 4.=think): v.
+Also to suspect, guess.</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>245<pc>010<k1>addition<k2>addition
-<div n="lb"/>{@ADDITION:@}¦ <div n="I">I The process of adding </div><div n="1">(1)
-<div n="lb"/>{#सङ्कलनम्;#} </div><div n="1">(2) {#सङ्कलितम्;#} <div n="xe">{%a. of fractions%}</div> <div n="xs">{#भिन्न-#}
-<div n="lb"/>{#सङ्कलितम्,#}</div> Li. </div><div n="I">II The act of adding </div><div n="1">(1)
-<div n="lb"/>{#योगः;#} </div><div n="1">(2) {#संयोगः;#} </div><div n="1">(3) {#समायोगः;#} </div><div n="1">(4) {#सङ्कनम्#}</div>
-<div n="lb"/><div n="I">III Anything added {#योगः:#} v. Increase.</div>
+{@ADDITION:@}¦ <div n="I">I The process of adding </div><div n="1">(1)
+{#सङ्कलनम्;#} </div><div n="1">(2) {#सङ्कलितम्;#} <div n="xe">{%a. of fractions%}</div> <div n="xs">{#भिन्न-#}
+{#सङ्कलितम्,#}</div> Li. </div><div n="I">II The act of adding </div><div n="1">(1)
+{#योगः;#} </div><div n="1">(2) {#संयोगः;#} </div><div n="1">(3) {#समायोगः;#} </div><div n="1">(4) {#सङ्कनम्#}</div>
+<div n="I">III Anything added {#योगः:#} v. Increase.</div>
 <LEND>

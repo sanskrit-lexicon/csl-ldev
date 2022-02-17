@@ -1,18 +1,18 @@
 <L>15286<pc>468<k1>near<k2>near
-<div n="lb"/>{@NEAR@}¦ (adj.): <div n="I">I In time: {#आसन्न#} (f. {#न्ना#}), <div n="xe">{%“n.%}
-<div n="lb"/>{%death”:%}</div> <div n="xs">{#आसन्नमृत्यु#}</div> (mfn.), M. n.: v. Approa-
-<div n="lb"/>-ching. </div><div n="I">II In place: </div><div n="1">(1) {#निकटस्थ#} (f. {#स्था#});</div>
-<div n="lb"/><div n="1">(2) {#समीपवर्तिन्#} (f. {#नी#}), <div n="xe">{%very n. the fire of heart-%}
-<div n="lb"/>{%ache:%}</div> <div n="xs">{#*समीपतरवर्ति हृदयशोकाग्नेः,#}</div> K.; </div><div n="1">(3) {#आसन्न#}
-<div n="lb"/>(f. {#न्ना#}), {#प्रति-,#} <div n="xe">{%at heart, yet not n.:%}</div> <div n="xs">{#हृदयस्थमना-#}
-<div n="lb"/>{#सन्नम,#}</div> R.; </div><div n="1">(4) {#सन्निहितः#} ({#ता, तं#}), {%and here%} ({%her%})
-<div n="lb"/><div n="xe">{%superior is not n.:%}</div> <div n="xs">{#न च सन्निहितोऽत्र गुरुजनः,#}</div> Sa.;</div>
-<div n="lb"/><div n="1">(5) {#सन्निकृष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(6) {#अभ्यर्ण#} (f. {#र्णा#})
-<div n="lb"/>(rare); </div><div n="1">(7) {#उपोढ#} (f. {#ढा#}) (rare). </div><div n="I">III Inti-
-<div n="lb"/>-mate, dear: q. v.: {#आसन्न#} (f. {#न्ना#}) (?), <div n="xe">{%does%}
-<div n="lb"/>{%not admit me in n. concerns:%}</div> <div n="xs">{#न मामासन्नकार्येष्व-#}
-<div n="lb"/>{#भ्यन्तरीकरोति,#}</div> D. viii. </div><div n="I">IV Of roads: perh.
-<div n="lb"/>{#आसन्न#} (f. {#न्ना#}); {#सन्निहित#} (f. {#ता#}): v. Straight.</div>
-<div n="lb"/><div n="I">V Of relation: {#निकटः#} ({#टा, टं#}), {%n. relation:%}
-<div n="lb"/>{#निकटबन्धुः।#} </div><div n="I">VI Close-fisted: q. v.</div>
+{@NEAR@}¦ (adj.): <div n="I">I In time: {#आसन्न#} (f. {#न्ना#}), <div n="xe">{%“n.%}
+{%death”:%}</div> <div n="xs">{#आसन्नमृत्यु#}</div> (mfn.), M. n.: v. Approa-
+-ching. </div><div n="I">II In place: </div><div n="1">(1) {#निकटस्थ#} (f. {#स्था#});</div>
+<div n="1">(2) {#समीपवर्तिन्#} (f. {#नी#}), <div n="xe">{%very n. the fire of heart-%}
+{%ache:%}</div> <div n="xs">{#*समीपतरवर्ति हृदयशोकाग्नेः,#}</div> K.; </div><div n="1">(3) {#आसन्न#}
+(f. {#न्ना#}), {#प्रति-,#} <div n="xe">{%at heart, yet not n.:%}</div> <div n="xs">{#हृदयस्थमना-#}
+{#सन्नम,#}</div> R.; </div><div n="1">(4) {#सन्निहितः#} ({#ता, तं#}), {%and here%} ({%her%})
+<div n="xe">{%superior is not n.:%}</div> <div n="xs">{#न च सन्निहितोऽत्र गुरुजनः,#}</div> Sa.;</div>
+<div n="1">(5) {#सन्निकृष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(6) {#अभ्यर्ण#} (f. {#र्णा#})
+(rare); </div><div n="1">(7) {#उपोढ#} (f. {#ढा#}) (rare). </div><div n="I">III Inti-
+-mate, dear: q. v.: {#आसन्न#} (f. {#न्ना#}) (?), <div n="xe">{%does%}
+{%not admit me in n. concerns:%}</div> <div n="xs">{#न मामासन्नकार्येष्व-#}
+{#भ्यन्तरीकरोति,#}</div> D. viii. </div><div n="I">IV Of roads: perh.
+{#आसन्न#} (f. {#न्ना#}); {#सन्निहित#} (f. {#ता#}): v. Straight.</div>
+<div n="I">V Of relation: {#निकटः#} ({#टा, टं#}), {%n. relation:%}
+{#निकटबन्धुः।#} </div><div n="I">VI Close-fisted: q. v.</div>
 <LEND>

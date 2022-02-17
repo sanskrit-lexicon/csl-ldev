@@ -1,4 +1,4 @@
 <L>3336<pc>111<k1>centipede<k2>centipede
-<div n="lb"/>{@CENTIPEDE:@}¦ An insect; <div n="1">(1) {#शतपदी#} <div n="xe">{%or%}</div> <div n="xs">{#शतपादिका;#}</div></div>
-<div n="lb"/><div n="1">(2) {#कर्णजलौकस्#} (f.).</div>
+{@CENTIPEDE:@}¦ An insect; <div n="1">(1) {#शतपदी#} <div n="xe">{%or%}</div> <div n="xs">{#शतपादिका;#}</div></div>
+<div n="1">(2) {#कर्णजलौकस्#} (f.).</div>
 <LEND>

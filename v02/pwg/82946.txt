@@ -17,7 +17,7 @@
 <ls>HALĀY. 1, 97.</ls> = {#नृत्ययुद्भुवोः#} (ist wohl {#नृत्यभू#} und {#युद्भू#}) 
 <ls>H. an.</ls> = {#नृत्ये रणक्षितौ#} 
 <ls>MED.</ls> = {#नृत्य, रण, खल#} 
-<ls>TRIK. -</ls> <ls>MBH. 1, 152. 4415. 4417. 5347. 3, 2193. 2198. 4, 341. 345. 6, 3528. 7, 3932.</ls> <ls>HARIV. 4211. 4532.</ls> {#यथाचार्योपदेशेन रङ्गशोभी भवेन्नटः#} 
+<ls>TRIK.</ls> - <ls>MBH. 1, 152.</ls> <ls n="MBH. 1,">4415.</ls> <ls n="MBH. 1,">4417.</ls> <ls n="MBH. 1,">5347.</ls> <ls n="MBH.">3, 2193.</ls> <ls n="MBH. 3,">2198.</ls> <ls n="MBH.">4, 341.</ls> <ls n="MBH. 4,">345.</ls> <ls n="MBH.">6, 3528.</ls> <ls n="MBH.">7, 3932.</ls> <ls>HARIV. 4211.</ls> <ls n="HARIV.">4532.</ls> {#यथाचार्योपदेशेन रङ्गशोभी भवेन्नटः#} 
 <ls>BHAR.</ls> <ls>NĀṬYAŚ. 34, 82.</ls> {#रङ्गाद्बहिस्तु नेपथ्यम्#} 
 <ls>BHAR.</ls> beim Schol. zu <ls>ŚĀK. 3, 6.</ls> {#°प्रवेश#} 
 <ls>MṚCCH. 17, 11. 82, 23.</ls> 
@@ -30,7 +30,7 @@
 <ls>ŚRUT. 34.</ls> {%Theater%} so v. a. {%die Zuschauer%} 
 <ls>SĀṂKHYAK. 59.</ls> {#अहो रागबद्धचित्तवृत्तिरालिखित इव सर्वतो रङ्गः#} 
 <ls>ŚĀK. 4, 12. fg.</ls> {#रङ्गं प्रसाद्य मधुरैः श्लोकैः#} 
-<ls>DAŚAR. 3, 4</ls> <ls>?= SĀH. D. 284.</ls> {#°प्रसादन (°प्रसाधन#} gedr.) 
+<ls>DAŚAR. 3, 4</ls> = <ls>SĀH. D. 284.</ls> {#°प्रसादन (°प्रसाधन#} gedr.) 
 <ls>PRATĀPAR. 25,a,9.</ls> 
 <div n="2">— d) {%Borax.%} 
 <div n="2">— e) {%der aus der Acacia Catechu gewonnene Catechu-Extract%} 

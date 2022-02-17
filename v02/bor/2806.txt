@@ -1,6 +1,6 @@
 <L>2806<pc>094<k1>burrow<k2>burrow
-<div n="lb"/>{@BURROW@}¦ (v. i): <div n="I">I Excavate a hole: {#विवरं#} {%or%}
-<div n="lb"/>{#बिलं करोति#} ({#कृ,#} c. 8.). </div><div n="I">II To live in it: {#विवर#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#बिलं कृत्वा निवसति#}</div> ({#वस्,#} c. l.). <div n="xe">{%Any b. ing%}
-<div n="lb"/>{%animal:%}</div> <div n="xs">{#बिलेशयः।#}</div></div>
+{@BURROW@}¦ (v. i): <div n="I">I Excavate a hole: {#विवरं#} {%or%}
+{#बिलं करोति#} ({#कृ,#} c. 8.). </div><div n="I">II To live in it: {#विवर#}
+<div n="xe">{%or%}</div> <div n="xs">{#बिलं कृत्वा निवसति#}</div> ({#वस्,#} c. l.). <div n="xe">{%Any b. ing%}
+{%animal:%}</div> <div n="xs">{#बिलेशयः।#}</div></div>
 <LEND>

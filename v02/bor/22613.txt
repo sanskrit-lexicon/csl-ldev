@@ -1,5 +1,5 @@
 <L>22613<pc>714<k1>tiptoe<k2>tiptoe
-<div n="lb"/>{@TIPTOE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#पादाग्रम्;#} </div><div n="1">(2) {#प्रपदम्।#} </div><div n="I">II
-<div n="lb"/>Fig.: <div n="xe">{%t. mirth:%}</div> <div n="xs">{#आपादमस्तकं हर्षः;#}</div> <div n="xe">{%t. of expec-%}
-<div n="lb"/>{%tation:%}</div> <div n="xs">{#आनखान्ता आशा।#}</div></div>
+{@TIPTOE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#पादाग्रम्;#} </div><div n="1">(2) {#प्रपदम्।#} </div><div n="I">II
+Fig.: <div n="xe">{%t. mirth:%}</div> <div n="xs">{#आपादमस्तकं हर्षः;#}</div> <div n="xe">{%t. of expec-%}
+{%tation:%}</div> <div n="xs">{#आनखान्ता आशा।#}</div></div>
 <LEND>

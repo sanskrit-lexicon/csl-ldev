@@ -1,4 +1,4 @@
 <L>16540<pc>508<k1>pastry<k2>pastry
-<div n="lb"/>{@PASTRY:@}¦ <div n="1">(1) {#पिष्टकाः#} (m. pl.); </div><div n="1">(2) {#आपूपिकम्;#}</div>
-<div n="lb"/><div n="1">(3) {#मिष्टान्नम्#} (= sweetmeats)</div>
+{@PASTRY:@}¦ <div n="1">(1) {#पिष्टकाः#} (m. pl.); </div><div n="1">(2) {#आपूपिकम्;#}</div>
+<div n="1">(3) {#मिष्टान्नम्#} (= sweetmeats)</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>20169<pc>628<k1>separable<k2>separable
-<div n="lb"/>{@SEPARABLE:@}¦ <div n="1">(1) {#विमाज्य#} (f. {#ज्या#} = divisible);</div>
-<div n="lb"/><div n="1">(2) {#वियोजनीय#} (f. {#या#}); </div><div n="1">(3) {#विश्लेष्य#} (f. {#ष्या#});</div>
-<div n="lb"/><div n="1">(4) {#वियोगसह#} (f. {#हा#}); etc.: v. To sepa-
-<div n="lb"/>-rate.</div>
+{@SEPARABLE:@}¦ <div n="1">(1) {#विमाज्य#} (f. {#ज्या#} = divisible);</div>
+<div n="1">(2) {#वियोजनीय#} (f. {#या#}); </div><div n="1">(3) {#विश्लेष्य#} (f. {#ष्या#});</div>
+<div n="1">(4) {#वियोगसह#} (f. {#हा#}); etc.: v. To sepa-
+-rate.</div>
 <LEND>

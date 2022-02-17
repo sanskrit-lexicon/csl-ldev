@@ -1,5 +1,5 @@
 <L>9604<pc>304<k1>futurity<k2>futurity
-<div n="lb"/>{@FUTURITY:@}¦ <div n="1">(1) {#आयतिः;#} </div><div n="1">(2) {#उदर्कः;#} </div><div n="1">(3) {#उत्तर-#}
-<div n="lb"/>{#कालः#} and sim comp.s. {%F.%} ({%as opposed to this%}
-<div n="lb"/>{%world%}): {#परकालः।#}</div>
+{@FUTURITY:@}¦ <div n="1">(1) {#आयतिः;#} </div><div n="1">(2) {#उदर्कः;#} </div><div n="1">(3) {#उत्तर-#}
+{#कालः#} and sim comp.s. {%F.%} ({%as opposed to this%}
+{%world%}): {#परकालः।#}</div>
 <LEND>

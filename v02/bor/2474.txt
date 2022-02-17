@@ -1,6 +1,6 @@
 <L>2474<pc>085<k1>brand<k2>brand
-<div n="lb"/>{@BRAND@}¦ (v. t.): <div n="I">I With a hot iron: ({#तप्तलोहेन#})
-<div n="lb"/>{#चिह्नयति#} ({#चिह्र,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#अङ्कयति#}</div> ({#अङ्क्,#} c. 10.).</div>
-<div n="lb"/><div n="I">II To stigmatize: q. v.: Ph. <div n="xe">{%b. ed with%}
-<div n="lb"/>{%infamy,%}</div> <div n="xs">{#अयशसाङ्कितः#}</div> ({#ता, तं#}).</div>
+{@BRAND@}¦ (v. t.): <div n="I">I With a hot iron: ({#तप्तलोहेन#})
+{#चिह्नयति#} ({#चिह्र,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#अङ्कयति#}</div> ({#अङ्क्,#} c. 10.).</div>
+<div n="I">II To stigmatize: q. v.: Ph. <div n="xe">{%b. ed with%}
+{%infamy,%}</div> <div n="xs">{#अयशसाङ्कितः#}</div> ({#ता, तं#}).</div>
 <LEND>

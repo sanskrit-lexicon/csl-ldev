@@ -10,7 +10,7 @@
 <ls>AV. 7, 50, 8.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Feuer%} (vgl. das erste Beispiel u. 1 und {#धनंजयस्याग्नेः#} 
-<ls>KĀṬH. 38, 12</ls> in <ls>Ind. St. 3, 458</ls>) <ls>AK. 1, 1, 1, 48.</ls> <ls>TRIK. 3, 3, 314.</ls> <ls>H. 1097.</ls> <ls>an. 4, 223. fg.</ls> <ls>MED. y. 119.</ls> 
+<ls>KĀṬH. 38, 12</ls> in <ls>Ind. St. 3, 458</ls>) <ls>AK. 1, 1, 1, 48.</ls> <ls>TRIK. 3, 3, 314.</ls> <ls>H. 1097. an. 4, 223. fg.</ls> <ls>MED. y. 119.</ls> 
 <div n="2">— b) (als N. des {%Feuers) ein best. Wind des Körpers, welcher Fett erzeugen soll%}, 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VEDĀNTAS. (Allah.) No. 55.</ls> <ls>SĀY.</ls> zu <ls>ŚĀṄKH. BR. 29, 8.</ls> 
 <div n="2">— c) (als N. des {%Feuers%}; vgl. 
@@ -25,7 +25,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>MBH. 1, 2444.</ls> {#सर्वाञ्जनपदाञ्जित्वा वित्तमादाय केवलम् । मध्ये धनस्य तिष्ठामि तेनाहुर्मां धनंजयम् ॥#} 
-<ls>4, 1380.</ls> <ls>HARIV. 1828. 1933.</ls> 
+<ls>4, 1380.</ls> <ls>HARIV. 1828.</ls> <ls n="HARIV.">1933.</ls> 
 <div n="2">— f) (als Syn. von <is>Arjuna</is>) {%Terminalia Arjuna W. u. A.%} 
 <ls>H. an.</ls> 
 <div n="2">— g) N. pr. eines Schlangendämons 
@@ -33,8 +33,8 @@
 <ls>Sch.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 1, 1550. 2, 361. 5, 3625.</ls> 
-<ls>HARIV. 228. 12821.</ls> 
+<ls>MBH. 1, 1550.</ls> <ls n="MBH.">2, 361.</ls> <ls n="MBH.">5, 3625.</ls> 
+<ls>HARIV. 228.</ls> <ls n="HARIV.">12821.</ls> 
 <ls>VP. 149.</ls> 
 <ls>BHĀG. P. 5, 24, 31.</ls> 
 <div n="2">— h) N. pr. eines <is>Vyāsa</is> 
@@ -42,7 +42,7 @@
 <ls>DEVĪBHĀG. P.</ls> in <ls>Verz. d. Oxf. H. 80,a,13.</ls> eines Königs von <is>Kaliṅga</is> 
 <ls>KATHĀRṆ. ebend. 154,a,43.</ls> von <is>Kausthalapura</is> 
 <ls>LIA. II, 955.</ls> eines Kaufmanns 
-<ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 69</ls>, {%b%}, Kap. 30. eines Lexicographen 
+<ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 69,b,</ls> Kap. 30. eines Lexicographen 
 <ls>PRAUḌHAMANOR. ebend. 162,b.</ls> <ls>MACK. Coll. II, 61.</ls> <ls>COLEBR. Misc. Ess. II, 20.</ls> Verfassers des <is>Dharmapradīpa</is> 
 <ls>ŚKDR.</ls> u. {#गोत्र#} .
 <LEND>

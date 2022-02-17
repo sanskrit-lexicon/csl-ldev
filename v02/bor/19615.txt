@@ -1,4 +1,4 @@
 <L>19615<pc>609<k1>sacrament<k2>sacrament
-<div n="lb"/>{@SACRAMENT:@}¦ perh. {#संस्कारः,#} <div n="xe">{%s. of baptism%}</div> <div n="xs">{#*जल-#}
-<div n="lb"/>{#संस्कारः।#}</div>
+{@SACRAMENT:@}¦ perh. {#संस्कारः,#} <div n="xe">{%s. of baptism%}</div> <div n="xs">{#*जल-#}
+{#संस्कारः।#}</div>
 <LEND>

@@ -1,13 +1,13 @@
 <L>24354<pc>762<k1>wild<k2>wild
-<div n="lb"/>{@WILD:@}¦ <div n="I">I Lit.: </div><div n="1">(1) by comp., {%by w. plants:%}
-<div n="lb"/>{#वनलताभिः,#} Sa.; <div n="xe">{%w. mountain scenery:%}</div> <div n="xs">{#अरण्य-#}
-<div n="lb"/>{#गिरिभूमिः,#}</div> Vi.; </div><div n="1">(2) {#वन्य#} (f. {#न्या#}), <div n="xe">{%w. instru-%}
-<div n="lb"/>{%ment of sustenance:%}</div> <div n="xs">{#वन्यं स्थितिसाधनम्,#}</div> R. v. 9.;</div>
-<div n="lb"/><div n="1">(3) {#आरण्य#} (f. {#ण्या#}), {#-क#} (f. {#का#}), {%w. animal:%}
-<div n="lb"/>{#आरण्यो मृगः,#} M. v. 9.; </div><div n="1">(4) {#वनजात#} (f. {#ता#}) and
-<div n="lb"/>sim. comp.s; <div n="xe">{%w. animal:%}</div> <div n="xs">{#वनजं सत्त्वम्,#}</div> Ki.
-<div n="lb"/>xiii. 8; <div n="xe">{%marshy and w.:%}</div> <div n="xs">{#अनूपोत्थं वनोत्थं च,#}</div> Mat.
-<div n="lb"/>117. 45. </div><div n="I">II Fig.: v. Savage, rude. </div><div n="I">III
-<div n="lb"/>Violent, unrestrained: q. v.: {#दुर्दान्त#} (f. {#न्ता#}).</div>
-<div n="lb"/><div n="I">IV Bewildered, mad: q. v.</div>
+{@WILD:@}¦ <div n="I">I Lit.: </div><div n="1">(1) by comp., {%by w. plants:%}
+{#वनलताभिः,#} Sa.; <div n="xe">{%w. mountain scenery:%}</div> <div n="xs">{#अरण्य-#}
+{#गिरिभूमिः,#}</div> Vi.; </div><div n="1">(2) {#वन्य#} (f. {#न्या#}), <div n="xe">{%w. instru-%}
+{%ment of sustenance:%}</div> <div n="xs">{#वन्यं स्थितिसाधनम्,#}</div> R. v. 9.;</div>
+<div n="1">(3) {#आरण्य#} (f. {#ण्या#}), {#-क#} (f. {#का#}), {%w. animal:%}
+{#आरण्यो मृगः,#} M. v. 9.; </div><div n="1">(4) {#वनजात#} (f. {#ता#}) and
+sim. comp.s; <div n="xe">{%w. animal:%}</div> <div n="xs">{#वनजं सत्त्वम्,#}</div> Ki.
+xiii. 8; <div n="xe">{%marshy and w.:%}</div> <div n="xs">{#अनूपोत्थं वनोत्थं च,#}</div> Mat.
+117. 45. </div><div n="I">II Fig.: v. Savage, rude. </div><div n="I">III
+Violent, unrestrained: q. v.: {#दुर्दान्त#} (f. {#न्ता#}).</div>
+<div n="I">IV Bewildered, mad: q. v.</div>
 <LEND>

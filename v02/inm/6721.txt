@@ -1,45 +1,45 @@
 <L>6721<pc>453-2<k1>महाभारत<k2>महाभारत
-{@Mahābhārata,@}¦ the poem of Vyāsa. § 1 (Anukram.): I, {@1,@}
-<div n="lb">11 {%(°saṃśritāḥ kathāḥ).%} The {%M.%} had been composed by Vyāsa
-<div n="lb">and was originally recited by Vaiśampāyana to Janamejaya,
-<div n="lb">afterwards by Ugraśravas to Śaunaka).—§ 7 (do.): I, {@1,@}
-<div n="lb">265, 266 (etymology).—§ 11 (Parvasaṅgr.): I, {@2,@} 656
-<div n="lb">{%(°m ākhyāya),%} 657 (do.).—§ 70 (Ādivaṃśāvatāraṇap.): I,
-<div n="lb">{@59,@} 2203 ({%ākhyānaṃ,%} recited at the sacrifice of Janamejaya);
-<div n="lb">2206 (recited by Sauti, i.e. Ugraśravas).—§ 72 (do.): I, {@62,@}
-<div n="lb">2283 {%(ākhyānaṃ),%} 2319 {%(°ākhyānaṃ),%} 2320 (etymology),
-<div n="lb">2322, 2333 {%(tribhir varṣair…Kṛṣṇa-Dvaipāyane…%}
-<div n="lb">{%M°m ākhyānaṃ kṛtavān).%}—§ 78 (Vyāsa): I, {@63,@} 2418
-<div n="lb">(Vyāsa taught his disciples {%Vedān M°pañcamān%}).—§ 717{%b%}
-<div n="lb">(Nārāyaṇīya): XII, {@341,@} 13027 (do. do.); {@347,@} 13438
-<div n="lb">({%°kṛt,%} i.e. Vyāsa).—§ 795{%c%} (Svargārohaṇap.): Sauti said:
-<div n="lb">“The race of the {%Bharatas%} is the topic [of the {%M.%}]. Therefore
+{@Mahābhārata@},¦ the poem of Vyāsa. § 1 (Anukram.): I, {@1@},
+11 ({%°saṃśritāḥ kathāḥ%}). The {%M%}. had been composed by Vyāsa
+and was originally recited by Vaiśampāyana to Janamejaya,
+afterwards by Ugraśravas to Śaunaka).—§ 7 (do.): I, {@1@},
+265, 266 (etymology).—§ 11 (Parvasaṅgr.): I, {@2@}, 656
+({%°m ākhyāya%}), 657 (do.).—§ 70 (Ādivaṃśāvatāraṇap.): I,
+{@59@}, 2203 ({%ākhyānaṃ%}, recited at the sacrifice of Janamejaya);
+2206 (recited by Sauti, i.e. Ugraśravas).—§ 72 (do.): I, {@62@},
+2283 ({%ākhyānaṃ%}), 2319 ({%°ākhyānaṃ%}), 2320 (etymology),
+2322, 2333 ({%tribhir varṣair…Kṛṣṇa-Dvaipāyane…%}
+{%M°m ākhyānaṃ kṛtavān%}).—§ 78 (Vyāsa): I, {@63@}, 2418
+(Vyāsa taught his disciples {%Vedān M°pañcamān%}).—§ 717{%b%}
+(Nārāyaṇīya): XII, {@341@}, 13027 (do. do.); {@347@}, 13438
+({%°kṛt%}, i.e. Vyāsa).—§ 795{%c%} (Svargārohaṇap.): Sauti said:
+“The race of the {%Bharatas%} is the topic [of the {%M%}.]. Therefore
 [Page454-a+ 63]
-<div n="lb">it is called Bhārata, and on account of this and of its greatness
-<div n="lb">it is called {%M.%} (v. 192); this history is called Jaya, it should
-<div n="lb">be heard by everyone who desires emancipation,” etc.
-<div n="lb">Blessing to the reader. {%Vyāsa%} made an abstract of the {%Bhārata%}
-<div n="lb">from love of righteousness; he made another compilation
-<div n="lb">{%(saṃhitāṃ)%} of six millions of verses; three millions of these
-<div n="lb">verses are placed in {%Devaloka,%} 1,500,000 among the Pitṛs,
-<div n="lb">1,400,000 among the Yakṣas, and 100,000 among men.
-<div n="lb">{%Nārada%} recited it to the gods, {%Asita Devala%} to the {%Pitṛs,%}
-<div n="lb">{%Śuka%} to the {%Rākṣasas%} and {%Yakṣas; Vaiśampāyana%} to men;
-<div n="lb">it is equal to the {%Vedas;%} blessing to the reader; the {%Sāvitrī%}
-<div n="lb">of the {%Bhārata%} (i.e. vv. 203{%b%}—207) is quoted; “what need
-<div n="lb">has that man of a sprinkling of the waters of Puṣkara who
-<div n="lb">attentively listens to this Bhārata…?” (v. 211 + one
-<div n="lb">verse in {%B.%}) (XVII, {@5@})—Asked by {%Janamejaya%} according
-<div n="lb">to what rites one should listen to the Bhārata, etc., Vaiśam-
-<div n="lb">pāyana expounded what gods, etc., are found in the Mahā-
-<div n="lb">bhārata (<lang n="greek"></lang>); śrāddha offerings should be made after the
-<div n="lb">hearing of it, likewise gifts to the brahmans (specification);
-<div n="lb">one should appoint as reciter one who is pure, etc.; the
-<div n="lb">reciter, seated at his ease, free from all bodily complaints,
-<div n="lb">with rapt attention should recite the text without too much
-<div n="lb">slowness, etc.; (<lang n="greek"></lang>) the merit won at the conclusion of each
-<div n="lb">{%pāraṇa%} (<lang n="greek"></lang>); the gifts that should be made at the conclusion
-<div n="lb">of each parvan (<lang n="greek"></lang>), its topic (<lang n="greek"></lang>) and fruits (<lang n="greek"></lang>) (XVIII, {@6@}):
-<div n="lb">XVIII, {@5,@} 190, 191, 192 (etymology); {@6,@} 299 {%(°ākhyanaṃ).%}
-<div n="lb">Cf. Bhārata<sup>18</sup>, Jaya<sup>14</sup>.
+it is called Bhārata, and on account of this and of its greatness
+it is called {%M%}. (v. 192); this history is called Jaya, it should
+be heard by everyone who desires emancipation,” etc.
+Blessing to the reader. {%Vyāsa%} made an abstract of the {%Bhārata%}
+from love of righteousness; he made another compilation
+({%saṃhitāṃ%}) of six millions of verses; three millions of these
+verses are placed in {%Devaloka%}, 1,500,000 among the Pitṛs,
+1,400,000 among the Yakṣas, and 100,000 among men.
+{%Nārada%} recited it to the gods, {%Asita Devala%} to the {%Pitṛs%},
+{%Śuka%} to the {%Rākṣasas%} and {%Yakṣas; Vaiśampāyana%} to men;
+it is equal to the {%Vedas%}; blessing to the reader; the {%Sāvitrī%}
+of the {%Bhārata%} (i.e. vv. 203{%b%}—207) is quoted; “what need
+has that man of a sprinkling of the waters of Puṣkara who
+attentively listens to this Bhārata…?” (v. 211 + one
+verse in {%B%}.) (XVII, {@5@})—Asked by {%Janamejaya%} according
+to what rites one should listen to the Bhārata, etc., Vaiśam-
+pāyana expounded what gods, etc., are found in the Mahā-
+bhārata (<lang n="greek">ξ</lang>); śrāddha offerings should be made after the
+hearing of it, likewise gifts to the brahmans (specification);
+one should appoint as reciter one who is pure, etc.; the
+reciter, seated at his ease, free from all bodily complaints,
+with rapt attention should recite the text without too much
+slowness, etc.; (<lang n="greek">ο</lang>) the merit won at the conclusion of each
+{%pāraṇa%} (<lang n="greek">π</lang>); the gifts that should be made at the conclusion
+of each parvan (<lang n="greek">ρ</lang>), its topic (<lang n="greek">σ</lang>) and fruits (<lang n="greek">τ</lang>) (XVIII, {@6@}):
+XVIII, {@5@}, 190, 191, 192 (etymology); {@6@}, 299 ({%°ākhyanaṃ%}).
+Cf. Bhārata<sup>18</sup>, Jaya<sup>14</sup>.
 <LEND>

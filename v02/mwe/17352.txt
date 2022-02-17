@@ -1,15 +1,15 @@
 <L>17352<pc>436-a<k1>land<k2>land
-<div n="lb"/>LAND¦, {%s.%} (Country, region) {#देशः, प्रदेशः, विषयः, राष्ट्रं#}. — (As op-
-<div n="lb"/>posed to water) {#स्थलं -ली;#} ‘land and water,’ {#स्थलजलं,#}
-<div n="lb"/>{#जलस्थलं;#} ‘relating to dry land,’ {#धन्व#} {%n.%} {#(न्), स्थलीयः -या#}
-<div n="lb"/>{#-यं;#} ‘produced on it,’ {#स्थलजः -जा -जं;#} ‘confusion of land
-<div n="lb"/>and water through inundation,’ {#जलस्थलभ्रमः;#} ‘the way by
-<div n="lb"/>land,’ {#स्थलमार्गः;#} ‘by land,’ {#स्थलमार्गेण#}. — (Ground, soil, earth)
-<div n="lb"/>{#भूमिः#} {%f.,%} {#भूः#} {%f.,%} {#क्षेत्रं, मृत्#} {%f.,%} {#मृत्तिका;#} ‘arable land,’ {#क्षेत्रभूमिः#} {%f.;%}
-<div n="lb"/>‘ploughed land,’ {#कृष्टं, कृष्टभूमिः#} {%f.,%} {#फालकृष्टं, सीत्यभूमिः;#} ‘barren
-<div n="lb"/>land,’ {#मरुः#} {%m.,%} {#मरुस्थलं -ली, धन्वा#} {%m.%} {#(न्), भूर्णिः#} {%f.,%} {#ऊषः -षरः;#}
-<div n="lb"/>‘marshy land,’ {#कच्छभूः#} {%f.,%} {#अनूपभूमिः#} {%f.;%} ‘waste land,’ {#खिलः;#}
-<div n="lb"/>‘fallow land,’ {#अप्रहतभूमिः;#} ‘table land,’ {#सानुः#} {%m.,%} {#प्रस्थः, स्नुः#} {%m.%}
-<div n="lb"/> — (Estate, lands) {#क्षेत्रं, भूमिः, स्थावरं;#} ‘paternal lands,’ {#पैतृक-#}
-<div n="lb"/>{#भूमिः;#} ‘gift of lands,’ {#भूमिदानं#}.
+LAND¦, {%s.%} (Country, region) {#देशः, प्रदेशः, विषयः, राष्ट्रं#}. — (As op-
+posed to water) {#स्थलं -ली;#} ‘land and water,’ {#स्थलजलं,#}
+{#जलस्थलं;#} ‘relating to dry land,’ {#धन्व#} {%n.%} {#(न्), स्थलीयः -या#}
+{#-यं;#} ‘produced on it,’ {#स्थलजः -जा -जं;#} ‘confusion of land
+and water through inundation,’ {#जलस्थलभ्रमः;#} ‘the way by
+land,’ {#स्थलमार्गः;#} ‘by land,’ {#स्थलमार्गेण#}. — (Ground, soil, earth)
+{#भूमिः#} {%f.,%} {#भूः#} {%f.,%} {#क्षेत्रं, मृत्#} {%f.,%} {#मृत्तिका;#} ‘arable land,’ {#क्षेत्रभूमिः#} {%f.;%}
+‘ploughed land,’ {#कृष्टं, कृष्टभूमिः#} {%f.,%} {#फालकृष्टं, सीत्यभूमिः;#} ‘barren
+land,’ {#मरुः#} {%m.,%} {#मरुस्थलं -ली, धन्वा#} {%m.%} {#(न्), भूर्णिः#} {%f.,%} {#ऊषः -षरः;#}
+‘marshy land,’ {#कच्छभूः#} {%f.,%} {#अनूपभूमिः#} {%f.;%} ‘waste land,’ {#खिलः;#}
+‘fallow land,’ {#अप्रहतभूमिः;#} ‘table land,’ {#सानुः#} {%m.,%} {#प्रस्थः, स्नुः#} {%m.%}
+ — (Estate, lands) {#क्षेत्रं, भूमिः, स्थावरं;#} ‘paternal lands,’ {#पैतृक-#}
+{#भूमिः;#} ‘gift of lands,’ {#भूमिदानं#}.
 <LEND>

@@ -1,13 +1,13 @@
 <L>20509<pc>377-3<k1>हि<k2>हि
 {#हि#}¦hí, {%pcl.%} ({%never at beg. of a sentence, but %}
-<>{%gnly. following the first word%}; {%also in other %}
-<>{%positions after the emphatic word%}; {%the vb. of %}
-<>{%the sentence is always accented%}), {%V., C.%}: for, 
-<>because ({%aften after demonstratives, relatives, %}
-<>{%interrogatives%}); just, pray ({%with impv. or pot.%}; 
-<>{%sts. ind., e. g.%} paśyāmo hi, we will just see); 
-<>verily, surely, indeed; {%C.%}: {%often mere verse-filler, %}<lbinfo n="5"/>
-<>{% esp. to avoid the hiatus or to obtain a %}
-<>{%long vowel, sts. even twice in the same sentence%}; 
-<>hi -- tu, hi -- punar, it is true -- but. 
+{%gnly. following the first word%}; {%also in other %}
+{%positions after the emphatic word%}; {%the vb. of %}
+{%the sentence is always accented%}), {%V., C.%}: for, 
+because ({%aften after demonstratives, relatives, %}
+{%interrogatives%}); just, pray ({%with impv. or pot.%}; 
+{%sts. ind., e. g.%} paśyāmo hi, we will just see); 
+verily, surely, indeed; {%C.%}: {%often mere verse-filler, %}<lbinfo n="5"/>
+{% esp. to avoid the hiatus or to obtain a %}
+{%long vowel, sts. even twice in the same sentence%}; 
+hi -- tu, hi -- punar, it is true -- but. 
 <LEND>

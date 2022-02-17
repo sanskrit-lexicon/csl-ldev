@@ -1,5 +1,5 @@
 <L>5000<pc>161<k1>crane<k2>crane
-<div n="lb"/>{@CRANE:@}¦ <div n="I">I The bird: </div><div n="1">(1) {#सारसः#} (the Indian
-<div n="lb"/>c.); </div><div n="1">(2) {#कर्करेटुः#} (the Numidian c.). </div><div n="I">II A
-<div n="lb"/>Machine for hoisting: {#*उत्तोलनयन्त्रम्।#}</div>
+{@CRANE:@}¦ <div n="I">I The bird: </div><div n="1">(1) {#सारसः#} (the Indian
+c.); </div><div n="1">(2) {#कर्करेटुः#} (the Numidian c.). </div><div n="I">II A
+Machine for hoisting: {#*उत्तोलनयन्त्रम्।#}</div>
 <LEND>

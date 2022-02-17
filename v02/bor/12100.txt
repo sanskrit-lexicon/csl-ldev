@@ -1,4 +1,4 @@
 <L>12100<pc>377<k1>inept<k2>inept
-<div n="lb"/>{@INEPT:@}¦ <div n="I">I Improper: q.v.: {#अनुचितः#} ({#ता, तं#}).</div>
-<div n="lb"/><div n="I">II Foolish, useless: q.v.: expr. by {#मूर्खता।#}</div>
+{@INEPT:@}¦ <div n="I">I Improper: q.v.: {#अनुचितः#} ({#ता, तं#}).</div>
+<div n="I">II Foolish, useless: q.v.: expr. by {#मूर्खता।#}</div>
 <LEND>

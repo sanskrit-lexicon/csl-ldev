@@ -1,18 +1,18 @@
 <L>2643<pc>090<k1>broad<k2>broad
-<div n="lb"/>{@BROAD:@}¦ <div n="I">I Wide (in measurement): q. v.:</div>
-<div n="lb"/><div n="1">(1) {#विस्तृतः#} ({#ता, तं#}); </div><div n="1">(2) expr. by a comp.
-<div n="lb"/>with the words given under {%breadth%} (I) or
-<div n="lb"/>by adj. formed with any of those words
-<div n="lb"/>and the affix {#वत्:#} <div n="xe">{%seven cubits long and one%}
-<div n="lb"/>{%cubit b.%}</div> <div n="xs">{#सप्तहस्तदीर्घा एकहस्तविस्ताराः:#}</div> Ph.: <div n="xe">{%a b.%}
-<div n="lb"/>{%road%}</div> <div n="xs">{#सुविस्तारवान्मार्गः#}</div> (?) (not {#विशालमार्गः#}): <div n="xe">{%one%}
-<div n="lb"/>{%who has a b. chest%}</div> <div n="xs">{#विशालवक्षस्#}</div> (mfn.), R.; <div n="xe">{%a%}
-<div n="lb"/>{%breast beautiful and b. as the leaf of a door%}</div> <div n="xs">{#कपाट#}</div>-
-<div n="lb"/>-{#विस्तीर्णमनोरमोरः,#} Si. iii. 13. </div><div n="I">II Extensive,
-<div n="lb"/>vast: q. v.: {#विस्तीर्णः#} ({#र्णा, र्णं#}). Ph.: {%b. jokes%}
-<div n="lb"/>{#ग्राम्यपरिहासाः#} (m. pl.); <div n="xe">{%b. nonsense%}</div> <div n="xs">{#*स्पष्टनिरर्थक-#}
-<div n="lb"/>{#भाषितम्;#}</div> <div n="xe">{%thefts are not rare here even in b. day-%}
-<div n="lb"/>{%light%}</div> <div n="xs">{#*देदीप्यमाने सूर्योऽप्यत्र चौर्याणि न विरलानि;#}</div> {%it%}
-<div n="lb"/>{%is as b. as long,%} i. e. (it makes no difference)
-<div n="lb"/>{#अत्र को विशेषः।#}</div>
+{@BROAD:@}¦ <div n="I">I Wide (in measurement): q. v.:</div>
+<div n="1">(1) {#विस्तृतः#} ({#ता, तं#}); </div><div n="1">(2) expr. by a comp.
+with the words given under {%breadth%} (I) or
+by adj. formed with any of those words
+and the affix {#वत्:#} <div n="xe">{%seven cubits long and one%}
+{%cubit b.%}</div> <div n="xs">{#सप्तहस्तदीर्घा एकहस्तविस्ताराः:#}</div> Ph.: <div n="xe">{%a b.%}
+{%road%}</div> <div n="xs">{#सुविस्तारवान्मार्गः#}</div> (?) (not {#विशालमार्गः#}): <div n="xe">{%one%}
+{%who has a b. chest%}</div> <div n="xs">{#विशालवक्षस्#}</div> (mfn.), R.; <div n="xe">{%a%}
+{%breast beautiful and b. as the leaf of a door%}</div> <div n="xs">{#कपाट#}</div>-
+-{#विस्तीर्णमनोरमोरः,#} Si. iii. 13. </div><div n="I">II Extensive,
+vast: q. v.: {#विस्तीर्णः#} ({#र्णा, र्णं#}). Ph.: {%b. jokes%}
+{#ग्राम्यपरिहासाः#} (m. pl.); <div n="xe">{%b. nonsense%}</div> <div n="xs">{#*स्पष्टनिरर्थक-#}
+{#भाषितम्;#}</div> <div n="xe">{%thefts are not rare here even in b. day-%}
+{%light%}</div> <div n="xs">{#*देदीप्यमाने सूर्योऽप्यत्र चौर्याणि न विरलानि;#}</div> {%it%}
+{%is as b. as long,%} i. e. (it makes no difference)
+{#अत्र को विशेषः।#}</div>
 <LEND>

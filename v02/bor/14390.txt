@@ -1,7 +1,7 @@
 <L>14390<pc>441<k1>meditate<k2>meditate
-<div n="lb"/>{@MEDITATE:@}¦ <div n="I">I To cogitate: {#ध्यायति, अनु-, सं-,#} [Page442]
-<div n="lb"/>{#अभि-, प्र-,#} ({#ध्यै,#} c. l.): v. To think. </div><div n="I">II To
-<div n="lb"/>contrive: intend: </div><div n="1">(1) {#संकल्पयति#} ({#कॢप्,#} c.
-<div n="lb"/>10.); </div><div n="1">(2) {#ध्यायति#} (?), <div n="xe">{%m. it:%}</div> <div n="xs">{#तद् ध्यायस्व,#}</div> Mah.
-<div n="lb"/>8. 59. 27.</div>
+{@MEDITATE:@}¦ <div n="I">I To cogitate: {#ध्यायति, अनु-, सं-,#} [Page442]
+{#अभि-, प्र-,#} ({#ध्यै,#} c. l.): v. To think. </div><div n="I">II To
+contrive: intend: </div><div n="1">(1) {#संकल्पयति#} ({#कॢप्,#} c.
+10.); </div><div n="1">(2) {#ध्यायति#} (?), <div n="xe">{%m. it:%}</div> <div n="xs">{#तद् ध्यायस्व,#}</div> Mah.
+8. 59. 27.</div>
 <LEND>

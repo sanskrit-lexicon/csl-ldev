@@ -2,7 +2,7 @@
 {#रु/चि#}¦ (wie eben) 
 <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 119.</ls> 
 <div n="1"> 1) <lex>f.</lex> 
-<ls>SIDDH. K.247,b,1 v. u.</ls> 
+<ls>SIDDH. K.247,b,1</ls> v. u. 
 <div n="2"> a) {%Licht, Glanz%} 
 <ls>AK. 1, 1. 2, 35. 3, 4, 5, 30.</ls> 
 <ls>H. 99.</ls> 
@@ -10,13 +10,13 @@
 <ls>MED. c. 8.</ls> <ls>HALĀY. 1, 38.</ls> <ls>VAIJ.</ls> beim Schol. zu <ls>KIR. 10, 62</ls> (lies {#कान्तिरुचोर्भासि#}). 
 <ls>AV. 13, 2, 30. 17, 1, 21.</ls> {#रुचिरग्नौ यथा#} 
 <ls>HARIV. 7088.</ls> {#गौर्याः#} 
-<ls>RĀJA-TAR. 1,</ls> <ls>?29.PRAB. 15, 7.</ls>
+<ls>RĀJA-TAR. 1,</ls> <ls>29.PRAB. 15, 7.</ls>
 [Page6-0380]
 {#(राज्ञः पुत्राः) रुच्या प्रोष्ठपदोपमाः#} 
 <ls>R. 1, 19, 9.</ls> 
 <div n="2">— b) {%Pracht, Schönheit%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VAIJ.</ls> {#त्वदानन°#} 
-<ls>RAGH. 5, 67.</ls> <ls>?ad ŚĀK. 19.</ls> 
+<ls>RAGH. 5, 67.</ls> ad <ls>ŚĀK. 19.</ls> 
 <div n="2">— c) {%Farbe%}: {#भ्रमरपक्षरुचौ सुदीर्घे केशे#} 
 <ls>MṚCCH. 149, 15.</ls> 
 <ls>MEGH. 15.</ls> {#असितोत्पलस्य#} 
@@ -45,18 +45,18 @@
 <ls>MBH. 3, 10041.</ls> {#तस्याः - न स क्षितीशो रुचये बभूव#} so v. a. {%gefiel ihr nicht%} 
 <ls>RAGH. 6, 44.</ls> {#रुचिमावहते सतां क्रियायै#} {%macht Lust zu%} 
 <ls>VIKR. 48.</ls> {#रुच्या#} {%nach Gefallen, nach Belieben, nach Wunsch%} 
-<ls>YĀJÑ.2,96.</ls> <ls>Verz. d. Oxf. H. 200,a,6 v. u.</ls> {#यः कश्चिदर्थो निष्णातः स्वरुच्या तु परस्परम्#} 
+<ls>YĀJÑ.2,96.</ls> <ls>Verz. d. Oxf. H. 200,a,6</ls> v. u. {#यः कश्चिदर्थो निष्णातः स्वरुच्या तु परस्परम्#} 
 <ls>YĀJÑ. 2, 84.</ls> 
 <ls>KULL.</ls> zu <ls>M. 3, 222.</ls> Häufig am Ende eines <lex>adj.</lex> comp.: {#सत्यधर्म°#} {%Gefallen findend an%} 
 <ls>R. 3, 46, 4.</ls> {#अधर्म°#} 
-<ls>MBH. 1, 4341. 3, 487. 8489.</ls> 
+<ls>MBH. 1, 4341.</ls> <ls n="MBH.">3, 487.</ls> <ls n="MBH. 3,">8489.</ls> 
 <ls>BHĀG. P. 11, 7, 5.</ls> {#दण्ड°#} 
 <ls>MBH. 3, 13043.</ls> 
 <ls>PAÑCAT. 91, 18.</ls> {#प्रतिग्रह°#} 
 <ls>M. 4, 190.</ls> 
 <ls>YĀJÑ. 1, 112.</ls> 
-<ls>MBH. 14, 2781. 15, 198.</ls> 
-<ls>HARIV. 3108. 4848. 12355.</ls> 
+<ls>MBH. 14, 2781.</ls> <ls n="MBH.">15, 198.</ls> 
+<ls>HARIV. 3108.</ls> <ls n="HARIV.">4848.</ls> <ls n="HARIV.">12355.</ls> 
 <ls>R. 2, 1, 13. 5, 3, 72. 30, 3.</ls> 
 <ls>Spr. 772. 954. 1069. 1555. 3159.</ls> 
 <ls>MĀLATĪM. 84, 14.</ls> <ls>VARĀH. BṚH. S. 2, 9. 12, 11. 17, 3. 19, 5.</ls> {#मांस°#} {%begierig nach%} 

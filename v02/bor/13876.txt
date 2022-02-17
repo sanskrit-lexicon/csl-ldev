@@ -1,4 +1,4 @@
 <L>13876<pc>427<k1>lucky<k2>lucky
-<div n="lb"/>{@LUCKY:@}¦ <div n="I">I Fortunate: q. v.: {#भाग्यवत्#} (f. {#ती#}).</div>
-<div n="lb"/><div n="I">II Auspicious: q. v.: {#शुभः#} ({#भा, भं#}).</div>
+{@LUCKY:@}¦ <div n="I">I Fortunate: q. v.: {#भाग्यवत्#} (f. {#ती#}).</div>
+<div n="I">II Auspicious: q. v.: {#शुभः#} ({#भा, भं#}).</div>
 <LEND>

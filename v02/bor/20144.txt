@@ -1,6 +1,6 @@
 <L>20144<pc>627<k1>senior<k2>senior
-<div n="lb"/>{@SENIOR:@}¦ <div n="1">(1) {#ज्येष्ठ#} (f. {#ष्ठा#}): v. Elder; </div><div n="1">(2)
-<div n="lb"/>{#वरिष्ठ#} (f. {#ष्ठा#}): v. Superior; </div><div n="1">(3) {#गुरुः, -जनः#}
-<div n="lb"/>(= respectable person), {%you are%} ({%my%}) {%s.:%}
-<div n="lb"/>{#गुरवो यूयम्,#} Vi. iv.</div>
+{@SENIOR:@}¦ <div n="1">(1) {#ज्येष्ठ#} (f. {#ष्ठा#}): v. Elder; </div><div n="1">(2)
+{#वरिष्ठ#} (f. {#ष्ठा#}): v. Superior; </div><div n="1">(3) {#गुरुः, -जनः#}
+(= respectable person), {%you are%} ({%my%}) {%s.:%}
+{#गुरवो यूयम्,#} Vi. iv.</div>
 <LEND>

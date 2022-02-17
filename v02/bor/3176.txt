@@ -1,14 +1,14 @@
 <L>3176<pc>106<k1>cast<k2>cast
-<div n="lb"/>{@CAST@}¦ (v. t.): <div n="I">I To throw: q. v.: {#क्षिपति#} ({#क्षिप्,#}
-<div n="lb"/>c. 6), <div n="xe">{%c. this man into the ocean%}</div> <div n="xs">{#प्रक्षिपैनं सागरे,#}</div> <ls>D.</ls>
-<div n="lb"/>vi.; <div n="xe">{%to c. on the ground%}</div> <div n="xs">{#अवनौ क्षिपति,#}</div> Ki.; <div n="xe">{%to%}
-<div n="lb"/>{%c. lustre%}</div> <div n="xs">{#रुचं क्षिपति,#}</div> Ki. v. 48; <div n="xe">{%to c. eyes%}</div> <div n="xs">{#दृशं #}
-<div n="lb"/>{# क्षिपति,#}</div> D. vii. Ph.: <div n="xe">{%to c. skin%}</div> <div n="xs">{#कञ्चुकं वि-मुञ्चति#}</div>
-<div n="lb"/>({#मुच्,#} c. 6), M. n.; <div n="xe">{%c. ing vote%}</div> <div n="xs">{#*सञ्चितमतम्।#}</div></div>
-<div n="lb"/><div n="I">II To condemn: q. v. Ph. {%c.%} ({%in a suit%})
-<div n="lb"/>{#पराजितः#} ({#ता, तं#}), K. b.; {#हीनः#} ({#ना, नं#}), M.
-<div n="lb"/>viii. 57. </div><div n="I">III To found: {#सं-दधाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div>
-<div n="lb"/>({#धा,#} c. 3) (?), <div n="xe">{%to c. cannon%}</div> <div n="xs">{#*कामानं संदधाति।#}</div></div>
-<div n="lb"/><div n="I">IV To distribute: q. v. V. To calculate,
-<div n="lb"/>contrive: q. v.</div>
+{@CAST@}¦ (v. t.): <div n="I">I To throw: q. v.: {#क्षिपति#} ({#क्षिप्,#}
+c. 6), <div n="xe">{%c. this man into the ocean%}</div> <div n="xs">{#प्रक्षिपैनं सागरे,#}</div> <ls>D.</ls>
+vi.; <div n="xe">{%to c. on the ground%}</div> <div n="xs">{#अवनौ क्षिपति,#}</div> Ki.; <div n="xe">{%to%}
+{%c. lustre%}</div> <div n="xs">{#रुचं क्षिपति,#}</div> Ki. v. 48; <div n="xe">{%to c. eyes%}</div> <div n="xs">{#दृशं #}
+{# क्षिपति,#}</div> D. vii. Ph.: <div n="xe">{%to c. skin%}</div> <div n="xs">{#कञ्चुकं वि-मुञ्चति#}</div>
+({#मुच्,#} c. 6), M. n.; <div n="xe">{%c. ing vote%}</div> <div n="xs">{#*सञ्चितमतम्।#}</div></div>
+<div n="I">II To condemn: q. v. Ph. {%c.%} ({%in a suit%})
+{#पराजितः#} ({#ता, तं#}), K. b.; {#हीनः#} ({#ना, नं#}), M.
+viii. 57. </div><div n="I">III To found: {#सं-दधाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div>
+({#धा,#} c. 3) (?), <div n="xe">{%to c. cannon%}</div> <div n="xs">{#*कामानं संदधाति।#}</div></div>
+<div n="I">IV To distribute: q. v. V. To calculate,
+contrive: q. v.</div>
 <LEND>

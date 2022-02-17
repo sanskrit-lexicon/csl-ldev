@@ -1,15 +1,15 @@
 <L>18717<pc>576<k1>reckon<k2>reckon
-<div n="lb"/>{@RECKON:@}¦ <div n="I">I To count: </div><div n="1">(1) {#गणयति, परि-, वि-, #}
-<div n="lb"/>{# प्र-,#} ({#गण्,#} c. 10.), <div n="xe">{%then all his excellencies might%}
-<div n="lb"/>{%be r. ed:%}</div> <div n="xs">{#गणेयनिःशेषगुणोऽपि स स्यात्,#}</div> N. iii. 40.;</div>
-<div n="lb"/><div n="1">(2) {#संख्याति परि-, प्र-,#} ({#ख्या,#} c. 2.), <div n="xe">{%cannot be r.%}
-<div n="lb"/>{%ed:%}</div> <div n="xs">{#न शक्यं परिसंख्यातुम्,#}</div> Mah. </div><div n="I">II To think,
-<div n="lb"/>consider: q. v.: </div><div n="1">(1) {#गणयति, वि-, परि-,#} <div n="xe">{%r. your%}
-<div n="lb"/>{%success is not distant:%}</div> <div n="xs">{#अदूरवर्तिनीमात्मनः सिद्धिं #}
-<div n="lb"/>{# विगणय,#}</div> R. i. 87.; </div><div n="1">(2) {#मन्यते#} ({#मन्,#} c. 4.). </div><div n="I">III
-<div n="lb"/>To r. on or upon i. e. to depend on: </div><div n="1">(1)
-<div n="lb"/>{#गणयति, वि-, परि-;#} </div><div n="1">(2) {#सम्भावयति#} (c. of {#भू#}): v.
-<div n="lb"/>To believe, rely on. </div><div n="I">IV To r. for, i. e. to
-<div n="lb"/>be answerable for: expr. with {#दायिन्#} (f.
-<div n="lb"/>{#नी#}: ?).</div>
+{@RECKON:@}¦ <div n="I">I To count: </div><div n="1">(1) {#गणयति, परि-, वि-, #}
+{# प्र-,#} ({#गण्,#} c. 10.), <div n="xe">{%then all his excellencies might%}
+{%be r. ed:%}</div> <div n="xs">{#गणेयनिःशेषगुणोऽपि स स्यात्,#}</div> N. iii. 40.;</div>
+<div n="1">(2) {#संख्याति परि-, प्र-,#} ({#ख्या,#} c. 2.), <div n="xe">{%cannot be r.%}
+{%ed:%}</div> <div n="xs">{#न शक्यं परिसंख्यातुम्,#}</div> Mah. </div><div n="I">II To think,
+consider: q. v.: </div><div n="1">(1) {#गणयति, वि-, परि-,#} <div n="xe">{%r. your%}
+{%success is not distant:%}</div> <div n="xs">{#अदूरवर्तिनीमात्मनः सिद्धिं #}
+{# विगणय,#}</div> R. i. 87.; </div><div n="1">(2) {#मन्यते#} ({#मन्,#} c. 4.). </div><div n="I">III
+To r. on or upon i. e. to depend on: </div><div n="1">(1)
+{#गणयति, वि-, परि-;#} </div><div n="1">(2) {#सम्भावयति#} (c. of {#भू#}): v.
+To believe, rely on. </div><div n="I">IV To r. for, i. e. to
+be answerable for: expr. with {#दायिन्#} (f.
+{#नी#}: ?).</div>
 <LEND>

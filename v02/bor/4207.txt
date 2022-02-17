@@ -1,7 +1,7 @@
 <L>4207<pc>136<k1>compile<k2>compile
-<div n="lb"/>{@COMPILE@}¦ (v. t.): Ph.: <div n="xe">{%a Sanskrit dictionary c. d%}
-<div n="lb"/>{%by Tārānāth Bhaṭṭāchārya%}</div> <div n="xs">{#श्रीतारानाथमट्टाचार्येण #}
-<div n="lb"/>{# सङ्कलितं#}</div> ({#कल्#} c. l. and 10.) {#संस्कृताभिधानम्;#}
-<div n="lb"/><div n="xe">{%c. d. from the works of the elders:%}</div> <div n="xs">{#पूर्वेषां #}
-<div n="lb"/>{# शास्त्राण्यालोड्योपन्यास्थत्#}</div> ({#अस,#} c. 4.), D. s.
+{@COMPILE@}¦ (v. t.): Ph.: <div n="xe">{%a Sanskrit dictionary c. d%}
+{%by Tārānāth Bhaṭṭāchārya%}</div> <div n="xs">{#श्रीतारानाथमट्टाचार्येण #}
+{# सङ्कलितं#}</div> ({#कल्#} c. l. and 10.) {#संस्कृताभिधानम्;#}
+<div n="xe">{%c. d. from the works of the elders:%}</div> <div n="xs">{#पूर्वेषां #}
+{# शास्त्राण्यालोड्योपन्यास्थत्#}</div> ({#अस,#} c. 4.), D. s.
 <LEND>

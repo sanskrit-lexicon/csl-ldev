@@ -1,5 +1,5 @@
 <L>22899<pc>722<k1>trisyllable<k2>trisyllable
-<div n="lb"/>{@TRISYLLABLE:@}¦ <div n="1">(1) {#त्र्यक्षरम्;#} </div><div n="1">(2) {#त्रिकम्, ‘म’#} <div n="xe">{%is the%}
-<div n="lb"/>{%technical name of a t. whose every syllable is long:%}</div>
-<div n="lb"/><div n="xs">{#सर्वगुरोस्त्रिकस्य मसंज्ञा परिभाष्यते,#}</div> P. h.</div>
+{@TRISYLLABLE:@}¦ <div n="1">(1) {#त्र्यक्षरम्;#} </div><div n="1">(2) {#त्रिकम्, ‘म’#} <div n="xe">{%is the%}
+{%technical name of a t. whose every syllable is long:%}</div>
+<div n="xs">{#सर्वगुरोस्त्रिकस्य मसंज्ञा परिभाष्यते,#}</div> P. h.</div>
 <LEND>

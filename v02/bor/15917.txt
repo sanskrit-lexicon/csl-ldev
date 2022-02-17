@@ -1,12 +1,12 @@
 <L>15917<pc>489<k1>oppose<k2>oppose
-<div n="lb"/>{@OPPOSE@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#संमुखयति;#} </div><div n="1">(2) {#संमुखी-#}
-<div n="lb"/>{#करोति।#} </div><div n="I">II In gen.: </div><div n="1">(1) {#निरूणद्धि#} ({#रूध्,#} c. 7.)
-<div n="lb"/>(= to check), <div n="xe">{%to o. his progress:%}</div> <div n="xs">{#तत्प्रसरं #}
-<div n="lb"/>{# निरोद्धुम्,#}</div> Vi. iv. 6.; </div><div n="1">(2) {#प्रतिकूलयति#} (nomi.)
-<div n="lb"/>(= to act adversely), {%and it%} ({%passion%}) <div n="xe">{%cannot%}
-<div n="lb"/>{%be o.d by any one:%}</div> <div n="xs">{#न चायं केनापि प्रतिकूलयितुं #}
-<div n="lb"/>{# शक्यते,#}</div> K.; </div><div n="1">(3) {#प्रतिक्षिपति (क्षिप्,#} c. 6.) (= to
-<div n="lb"/>refute: as of opinion), D. s.; {#प्रतियोधयति#}
-<div n="lb"/>(c. of {#युध्#}) (in fighting), D.; </div><div n="1">(4) {#निवारयति#}
-<div n="lb"/>({#वृ,#} c. 10 (= to prevent).</div>
+{@OPPOSE@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#संमुखयति;#} </div><div n="1">(2) {#संमुखी-#}
+{#करोति।#} </div><div n="I">II In gen.: </div><div n="1">(1) {#निरूणद्धि#} ({#रूध्,#} c. 7.)
+(= to check), <div n="xe">{%to o. his progress:%}</div> <div n="xs">{#तत्प्रसरं #}
+{# निरोद्धुम्,#}</div> Vi. iv. 6.; </div><div n="1">(2) {#प्रतिकूलयति#} (nomi.)
+(= to act adversely), {%and it%} ({%passion%}) <div n="xe">{%cannot%}
+{%be o.d by any one:%}</div> <div n="xs">{#न चायं केनापि प्रतिकूलयितुं #}
+{# शक्यते,#}</div> K.; </div><div n="1">(3) {#प्रतिक्षिपति (क्षिप्,#} c. 6.) (= to
+refute: as of opinion), D. s.; {#प्रतियोधयति#}
+(c. of {#युध्#}) (in fighting), D.; </div><div n="1">(4) {#निवारयति#}
+({#वृ,#} c. 10 (= to prevent).</div>
 <LEND>

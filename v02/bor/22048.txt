@@ -1,4 +1,4 @@
 <L>22048<pc>696<k1>sweeten<k2>sweeten
-<div n="lb"/>{@SWEETEN:@}¦ <div n="I">I Trans.: </div><div n="1">(1) {#मधुरयति;#} </div><div n="1">(2) {#मधुरी-#}
-<div n="lb"/>{#करोति।#} </div><div n="I">II Intrans.: {#मधुरीभवति।#}</div>
+{@SWEETEN:@}¦ <div n="I">I Trans.: </div><div n="1">(1) {#मधुरयति;#} </div><div n="1">(2) {#मधुरी-#}
+{#करोति।#} </div><div n="I">II Intrans.: {#मधुरीभवति।#}</div>
 <LEND>

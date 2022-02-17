@@ -1,7 +1,7 @@
 <L>14038<pc>431<k1>maintenance<k2>maintenance
-<div n="lb"/>{@MAINTENANCE:@}¦ <div n="I">I Holding: {#धारणम्, -सं।#} </div><div n="I">II
-<div n="lb"/>Defence: {#रक्षा।#} </div><div n="I">III Support: </div><div n="1">(1) {#भरणम्;#}</div>
-<div n="lb"/><div n="1">(2) {#भृतिः।#} </div><div n="I">III Means of support: </div><div n="1">(1) {#वृत्तिः;#}</div>
-<div n="lb"/><div n="1">(2) {#ग्रासाच्छादनम्#} (= food and clothing: as
-<div n="lb"/>for wives), Da.</div>
+{@MAINTENANCE:@}¦ <div n="I">I Holding: {#धारणम्, -सं।#} </div><div n="I">II
+Defence: {#रक्षा।#} </div><div n="I">III Support: </div><div n="1">(1) {#भरणम्;#}</div>
+<div n="1">(2) {#भृतिः।#} </div><div n="I">III Means of support: </div><div n="1">(1) {#वृत्तिः;#}</div>
+<div n="1">(2) {#ग्रासाच्छादनम्#} (= food and clothing: as
+for wives), Da.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>14408<pc>442<k1>meeting<k2>meeting
-<div n="lb"/>{@MEETING@}¦ (subs.): <div n="I">I Coming together:
-<div n="lb"/>{#समागमः:#} v. Also concourse. </div><div n="I">II An
-<div n="lb"/>assembly: q. v.: </div><div n="1">(1) {#मेला;#} </div><div n="1">(2) {#समितिः।#}</div>
+{@MEETING@}¦ (subs.): <div n="I">I Coming together:
+{#समागमः:#} v. Also concourse. </div><div n="I">II An
+assembly: q. v.: </div><div n="1">(1) {#मेला;#} </div><div n="1">(2) {#समितिः।#}</div>
 <LEND>

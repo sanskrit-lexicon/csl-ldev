@@ -1,4 +1,4 @@
 <L>22913<pc>722<k1>trophy<k2>trophy
-<div n="lb"/>{@TROPHY:@}¦ <div n="1">(1) {#जयस्तम्भः#} (column); </div><div n="1">(2) {#विजय-#}
-<div n="lb"/>{#लिङ्गम्#} (mark); etc.</div>
+{@TROPHY:@}¦ <div n="1">(1) {#जयस्तम्भः#} (column); </div><div n="1">(2) {#विजय-#}
+{#लिङ्गम्#} (mark); etc.</div>
 <LEND>

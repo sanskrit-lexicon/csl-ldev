@@ -1,7 +1,7 @@
 <L>4574<pc>148<k1>contempt<k2>contempt
-<div n="lb"/>{@CONTEMPT:@}¦ <div n="1">(1) {#अवज्ञा,#} {%was turned out with c.:%}
-<div n="lb"/>{#अवज्ञया निःसारितः,#} P.: </div><div n="1">(2) {#अवमानम्,#} <div n="xe">{%c. of each%}
-<div n="lb"/>{%other:%}</div> <div n="xs">{#अन्योन्यावमानम्,#}</div> D.; </div><div n="1">(3) {#अनादरः,#} Ki.;</div>
-<div n="lb"/><div n="1">(4) {#अवगणना,#} M. n. Ph.: {%to treat with c.:%}
-<div n="lb"/>{#अवजानाति#} ({#ज्ञा,#} c. 9.): v. To despise.</div>
+{@CONTEMPT:@}¦ <div n="1">(1) {#अवज्ञा,#} {%was turned out with c.:%}
+{#अवज्ञया निःसारितः,#} P.: </div><div n="1">(2) {#अवमानम्,#} <div n="xe">{%c. of each%}
+{%other:%}</div> <div n="xs">{#अन्योन्यावमानम्,#}</div> D.; </div><div n="1">(3) {#अनादरः,#} Ki.;</div>
+<div n="1">(4) {#अवगणना,#} M. n. Ph.: {%to treat with c.:%}
+{#अवजानाति#} ({#ज्ञा,#} c. 9.): v. To despise.</div>
 <LEND>

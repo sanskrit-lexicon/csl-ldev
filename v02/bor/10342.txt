@@ -1,6 +1,6 @@
 <L>10342<pc>326<k1>gross<k2>gross
-<div n="lb"/>{@GROSS:@}¦ <div n="I">I Bulky: {#स्थूलः#} ({#ला, लं#}). </div><div n="I">II Coarse:
-<div n="lb"/>{#स्थूलः#} ({#ला, लं#}) </div><div n="I">III Stupid: {#स्थूलः#} ({#ला, लं#}).</div>
-<div n="lb"/><div n="I">IV Obscene: q.v. </div><div n="I">V Great, as g. injus-
-<div n="lb"/>-tice: {#महत्#} (f. {#ती#}). </div><div n="I">VI Whole, total: q.v.</div>
+{@GROSS:@}¦ <div n="I">I Bulky: {#स्थूलः#} ({#ला, लं#}). </div><div n="I">II Coarse:
+{#स्थूलः#} ({#ला, लं#}) </div><div n="I">III Stupid: {#स्थूलः#} ({#ला, लं#}).</div>
+<div n="I">IV Obscene: q.v. </div><div n="I">V Great, as g. injus-
+-tice: {#महत्#} (f. {#ती#}). </div><div n="I">VI Whole, total: q.v.</div>
 <LEND>

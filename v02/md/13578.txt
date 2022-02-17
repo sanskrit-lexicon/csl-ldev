@@ -1,10 +1,10 @@
 <L>13578<pc>214-1<k1>मतिमत्<k2>मतिमत्
 {#मतिमत्#}¦mati-mat, {%a.%} intelligent, wise, sensible; <lbinfo n="5"/>
-<> {@-vardhana,@} {%m. N. of a commentator%}; 
-<>{@-vid,@} {%a.%} knowing {%one's%} devotion {%or%} mind; 
-<>{@-viparyaya,@} {%m.%} erroneous opinion, illusion; 
-<>{@-vibhrama,@} {%m.%} mental confusion; infatuation; <lbinfo n="7"/>
-<> {@-śālin@}, {%a.%} possessed of understanding, 
-<>sensible, wise; {@-hīna,@} {%pp.%} destitute of understanding, <lbinfo n="5"/>
-<> witless, stupid.
+ {@-vardhana,@} {%m. N. of a commentator%}; 
+{@-vid,@} {%a.%} knowing {%one's%} devotion {%or%} mind; 
+{@-viparyaya,@} {%m.%} erroneous opinion, illusion; 
+{@-vibhrama,@} {%m.%} mental confusion; infatuation; <lbinfo n="7"/>
+ {@-śālin@}, {%a.%} possessed of understanding, 
+sensible, wise; {@-hīna,@} {%pp.%} destitute of understanding, <lbinfo n="5"/>
+ witless, stupid.
 <LEND>

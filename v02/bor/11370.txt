@@ -1,9 +1,9 @@
 <L>11370<pc>357<k1>husband<k2>husband
-<div n="lb"/>{@HUSBAND@}¦ (subs.): <div n="1">(1) {#पतिः,#} <div n="xe">{%get a h. who will%}
-<div n="lb"/>{%not take to others:%}</div> <div n="xs">{#अनन्यभाजं पतिमाप्नुहि,#}</div> Ku.
-<div n="lb"/>iii. 63.; <div n="xe">{%who had h. s and children:%}</div> <div n="xs">{#याः पतिपुत्रवत्यः,#}</div>
-<div n="lb"/>Ku. viii. 6.; </div><div n="1">(2) {#भर्तृ#} (m.), <div n="xe">{%will choose a%}
-<div n="lb"/>{%second h.:%}</div> <div n="xs">{#भर्तारं द्वितीयं वरयिष्यति,#}</div> Mah.; </div><div n="1">(3)
-<div n="lb"/>{#स्वामिन्#} (m.), {%but you%} ({%are my%}) <div n="xe">{%h.:%}</div> <div n="xs">{#किन्तु स्वामी त्वम्,#}</div>
-<div n="lb"/>H.; </div><div n="1">(4) {#परिणेतृ#} (m.), Sa; </div><div n="1">(5) {#उपयन्तृ#} (m.), R.</div>
+{@HUSBAND@}¦ (subs.): <div n="1">(1) {#पतिः,#} <div n="xe">{%get a h. who will%}
+{%not take to others:%}</div> <div n="xs">{#अनन्यभाजं पतिमाप्नुहि,#}</div> Ku.
+iii. 63.; <div n="xe">{%who had h. s and children:%}</div> <div n="xs">{#याः पतिपुत्रवत्यः,#}</div>
+Ku. viii. 6.; </div><div n="1">(2) {#भर्तृ#} (m.), <div n="xe">{%will choose a%}
+{%second h.:%}</div> <div n="xs">{#भर्तारं द्वितीयं वरयिष्यति,#}</div> Mah.; </div><div n="1">(3)
+{#स्वामिन्#} (m.), {%but you%} ({%are my%}) <div n="xe">{%h.:%}</div> <div n="xs">{#किन्तु स्वामी त्वम्,#}</div>
+H.; </div><div n="1">(4) {#परिणेतृ#} (m.), Sa; </div><div n="1">(5) {#उपयन्तृ#} (m.), R.</div>
 <LEND>

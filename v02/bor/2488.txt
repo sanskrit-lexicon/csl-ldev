@@ -1,4 +1,4 @@
 <L>2488<pc>085<k1>bravo<k2>bravo
-<div n="lb"/>{@BRAVO:@}¦ <div n="I">I Interjec.: {#साधु।#} <div n="xe">{%or%}</div> <div n="xs">{#साधु साधु।#}</div> </div><div n="I">II
-<div n="lb"/>Subs.: v. Assassin.</div>
+{@BRAVO:@}¦ <div n="I">I Interjec.: {#साधु।#} <div n="xe">{%or%}</div> <div n="xs">{#साधु साधु।#}</div> </div><div n="I">II
+Subs.: v. Assassin.</div>
 <LEND>

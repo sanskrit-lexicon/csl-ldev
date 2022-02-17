@@ -1,13 +1,13 @@
 <L>26724<pc>730-b<k1>sesame<k2>sesame
-<div n="lb"/>SESAME¦, SESAMUM, {%s.%} (The plant or seed) {#तिलः, सारालः, सुबन्धः,#}
-<div n="lb"/>{#दलाढकः, पूतधान्यं, हौम्यधान्यं;#} ‘its blossom,’ {#वज्रपुष्पं;#} ‘barren
-<div n="lb"/>sesamum, bearing no blossom, &c.,’ {#तिलपिञ्जः, तिलपेजः;#}
-<div n="lb"/>‘sown with sesamum, as a field. &c.,’ {#तिल्यः -ल्या -ल्यं, तैलीनः#}
-<div n="lb"/>{#-नी -नं;#} ‘oil of sesamum,’ {#तिलतैलं, तिलरसः, तिलस्रेहः, तैलं;#}
-<div n="lb"/>‘ground sesamum,’ {#तिलचूर्णं, तिलकल्कं, तिलकटः;#} ‘sediment
-<div n="lb"/>after the oil is expressed,’ {#तिलकिट्टं;#} ‘burnt offering of
-<div n="lb"/>sesamum,’ {#तिलहोमं;#} ‘sesamum made up in the shape of
-<div n="lb"/>a cow,’ {#तिलधेनुः#} {%f.;%} ‘sesamum seeds with water,’ {#तिलोदकं;#}
-<div n="lb"/>‘with milk and rice,’ {#तिलौदनं;#} ‘made of sesamum,’ {#तिल-#}
-<div n="lb"/>{#मयः -यी -यं#}.
+SESAME¦, SESAMUM, {%s.%} (The plant or seed) {#तिलः, सारालः, सुबन्धः,#}
+{#दलाढकः, पूतधान्यं, हौम्यधान्यं;#} ‘its blossom,’ {#वज्रपुष्पं;#} ‘barren
+sesamum, bearing no blossom, &c.,’ {#तिलपिञ्जः, तिलपेजः;#}
+‘sown with sesamum, as a field. &c.,’ {#तिल्यः -ल्या -ल्यं, तैलीनः#}
+{#-नी -नं;#} ‘oil of sesamum,’ {#तिलतैलं, तिलरसः, तिलस्रेहः, तैलं;#}
+‘ground sesamum,’ {#तिलचूर्णं, तिलकल्कं, तिलकटः;#} ‘sediment
+after the oil is expressed,’ {#तिलकिट्टं;#} ‘burnt offering of
+sesamum,’ {#तिलहोमं;#} ‘sesamum made up in the shape of
+a cow,’ {#तिलधेनुः#} {%f.;%} ‘sesamum seeds with water,’ {#तिलोदकं;#}
+‘with milk and rice,’ {#तिलौदनं;#} ‘made of sesamum,’ {#तिल-#}
+{#मयः -यी -यं#}.
 <LEND>

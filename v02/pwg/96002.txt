@@ -4,12 +4,12 @@
 <ls>R. 6, 99, 44.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%ein Sohn%} <is>Vivasvant's</is>: 
 <div n="2"> a) patron. <is>Yama's</is> 
-<ls>AK. 1,1,  1, 54.</ls> 
+<ls>AK. 1,1, 1, 54.</ls> 
 <ls>HALĀY. 1, 71.</ls> 
 <ls>ṚV. 9, 113, 8.</ls> <ls n="ṚV.">10, 14, 1.</ls> <ls n="ṚV. 10,">57, 7.</ls> <ls n="ṚV. 10,">60, 10.</ls> <ls n="ṚV. 10,">164, 2.</ls> 
 <ls>AV. 6, 116, 1. 2. 8, 2, 11. 18, 3, 13.</ls> 
 <ls>ĀŚV. ŚR. 10, 7, 2.</ls> 
-<ls>GṚHY., ed. STENZLER S. 47.</ls> <ls>KAṬHOP. 1, 7.</ls> <ls>Spr. 2404</ls> (<ls>M.</ls>). <ls>MBH. 3, 11996. 5, 519. 13, 3500.</ls> <ls>HARIV. 1003. 4921. 4923. 13133.</ls> <ls>R. 2, 64, 37.</ls> <ls>R. GORR. 2, 66, 38. 4, 16, 39. 41, 67. 6, 5, 11.</ls> <ls>RAGH. 15, 45. 57.</ls> <ls>Spr. (II) 1974.</ls> <ls>VARĀH. BṚH. S. 43, 52.</ls> <ls>RĀJA-TAR. 4, 150.</ls> <ls>BHĀG. P. 5, 26, 6.</ls>
+<ls>GṚHY., ed.</ls> <ls>STENZLER S. 47.</ls> <ls>KAṬHOP. 1, 7.</ls> <ls>Spr. 2404</ls> (<ls>M.</ls>). <ls>MBH. 3, 11996.</ls> <ls n="MBH.">5, 519.</ls> <ls n="MBH.">13, 3500.</ls> <ls>HARIV. 1003.</ls> <ls n="HARIV.">4921.</ls> <ls n="HARIV.">4923.</ls> <ls n="HARIV.">13133.</ls> <ls>R. 2, 64, 37.</ls> <ls>R. GORR. 2, 66, 38. 4, 16, 39. 41, 67. 6, 5, 11.</ls> <ls>RAGH. 15, 45. 57.</ls> <ls>Spr. (II) 1974.</ls> <ls>VARĀH. BṚH. S. 43, 52.</ls> <ls>RĀJA-TAR. 4, 150.</ls> <ls>BHĀG. P. 5, 26, 6.</ls>
 [Page6-1414]
 {#वैवस्वतस्य सदनम्#} 
 <ls>MBH. 1, 1710.</ls> {#वैवस्वतस्यालयमभ्युपैति#} 
@@ -23,7 +23,7 @@
 <ls>ŚAT. BR. 13, 4, 3, 3.</ls> 
 <ls>ĀŚV. ŚR. 10, 7, 1.</ls> 
 <ls>MBH. 3, 12755.</ls> 
-<ls>HARIV. 410. 442. 542. 552</ls> ({#मनुर्वैव°#} mit der neueren Ausg. zu lesen). 
+<ls>HARIV. 410.</ls> <ls n="HARIV.">442.</ls> <ls n="HARIV.">542.</ls> <ls n="HARIV.">552</ls> ({#मनुर्वैव°#} mit der neueren Ausg. zu lesen). 
 <ls>R. 1, 70, 20.</ls> 
 <ls>RAGH. 1, 11.</ls> 
 <ls>VP. 264. 266. 348.</ls> 
@@ -39,8 +39,8 @@
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) {%eine Tochter des Sonnengottes%} 
 <ls>VYUTP. 107.</ls> {#तपती#} 
-<ls>MBH. 1, 3791. 6632.</ls> {#श्रद्धा वैवस्वती सेयं सूर्यस्य दुहिता#} 
-<ls>?12, 9449; vgl. ŚAT. BR. 12, 7, 3, 11.</ls> 
+<ls>MBH. 1, 3791.</ls> <ls n="MBH. 1,">6632.</ls> {#श्रद्धा वैवस्वती सेयं सूर्यस्य दुहिता#} 
+<ls>12, 9449</ls>; vgl. <ls>ŚAT. BR. 12, 7, 3, 11.</ls> 
 <div n="1">— 4) <lex>adj.</lex> (f. {#ई#}) 
 <div n="2"> a) <is>Yama</is> <is>Vaivasvata</is> {%gehörig, zu ihm in Beziehung stehend%} 
 <ls>KAUŚ. 82. 86.</ls> 
@@ -49,6 +49,6 @@
 <ls>15, 903.</ls> 
 <div n="2">— b) {%zu%} <is>Manu</is> <is>Vaivasvata</is> {%in Beziehung stehend%}: {#अन्तर, मन्वन्तर#} 
 <ls>MBH. 12, 12808.</ls> 
-<ls>HARIV. 171. 177.</ls> 
+<ls>HARIV. 171.</ls> <ls n="HARIV.">177.</ls> 
 <ls>VP.</ls> bei <ls>MUIR, ST. 4, 104. fg. 118.</ls> <ls>MĀRK. P. 100, 37.</ls>
 <LEND>

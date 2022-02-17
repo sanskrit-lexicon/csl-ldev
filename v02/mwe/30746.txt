@@ -1,5 +1,5 @@
 <L>30746<pc>826-b<k1>vapour<k2>vapour
-<div n="lb"/>VAPOUR¦, {%s.%} {#वाष्पः, स्वेदः, धूमः -मिका, फेनः -नता, खवाष्पः;#} ‘hot
-<div n="lb"/>vapour,’ {#उष्णवाष्पः;#} ‘sultry vapour,’ {#मृगतृष्णा,#} {%see%} MIRAGE;
-<div n="lb"/>‘vapour-bath,’ {#उप्मस्वेदः, उष्णस्वेदः#}.
+VAPOUR¦, {%s.%} {#वाष्पः, स्वेदः, धूमः -मिका, फेनः -नता, खवाष्पः;#} ‘hot
+vapour,’ {#उष्णवाष्पः;#} ‘sultry vapour,’ {#मृगतृष्णा,#} {%see%} MIRAGE;
+‘vapour-bath,’ {#उप्मस्वेदः, उष्णस्वेदः#}.
 <LEND>

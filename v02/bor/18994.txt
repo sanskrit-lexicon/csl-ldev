@@ -1,6 +1,6 @@
 <L>18994<pc>587<k1>renounce<k2>renounce
-<div n="lb"/>{@RENOUNCE:@}¦ <div n="I">I Not to own: </div><div n="1">(1) {#प्रत्याख्याति#}
-<div n="lb"/>({#ख्या,#} c. 2.); </div><div n="1">(2) {#न स्वीकरोति, अङ्गीकरोति,#} etc.</div>
-<div n="lb"/><div n="I">II To forsake, abandon: q. v.: {#त्यजति, #}
-<div n="lb"/>{# परि-, सं-#} ({#त्यज्,#} c. 1.).</div>
+{@RENOUNCE:@}¦ <div n="I">I Not to own: </div><div n="1">(1) {#प्रत्याख्याति#}
+({#ख्या,#} c. 2.); </div><div n="1">(2) {#न स्वीकरोति, अङ्गीकरोति,#} etc.</div>
+<div n="I">II To forsake, abandon: q. v.: {#त्यजति, #}
+{# परि-, सं-#} ({#त्यज्,#} c. 1.).</div>
 <LEND>

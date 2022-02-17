@@ -1,5 +1,5 @@
 <L>8835<pc>280<k1>fish<k2>fish
-<div n="lb"/>{@FISH@}¦ (v.): <div n="I">I Lit.: {#मत्स्यान् बध्नाति#} ({#बन्ध्,#} c. 9.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#गृह्णाति#}</div> ({#ग्रह्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#धारयति#}</div> ({#धृ,#} c. 10.). </div><div n="I">II
-<div n="lb"/>Fig.: v. To search.</div>
+{@FISH@}¦ (v.): <div n="I">I Lit.: {#मत्स्यान् बध्नाति#} ({#बन्ध्,#} c. 9.)
+<div n="xe">{%or%}</div> <div n="xs">{#गृह्णाति#}</div> ({#ग्रह्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#धारयति#}</div> ({#धृ,#} c. 10.). </div><div n="I">II
+Fig.: v. To search.</div>
 <LEND>

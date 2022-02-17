@@ -2,14 +2,14 @@
 {#निव/र्तन#}¦ (wie eben) 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) ({%zurücktretend) aufhörend, zu bestehen aufhörend%}: {#मृत्युं कृत्वा निवर्तनम्#} von Helden gesagt, die in ihrer aufgeregten Stimmung {%vergessen, dass es einen Tod giebt%}, 
-<ls>MBH. 6, 2427. 7, 1506. 7785.</ls> Vgl. {#कृत्वा मृत्युनिवर्तनम्#} u. 2,b. 
+<ls>MBH. 6, 2427.</ls> <ls n="MBH.">7, 1506.</ls> <ls n="MBH. 7,">7785.</ls> Vgl. {#कृत्वा मृत्युनिवर्तनम्#} u. 2,b. 
 <div n="2">— b) {%umkehren machend%}: {#आ नि^वर्तन वर्तय\ नि नि^वर्तन वर्तय#} 
 <ls>ṚV. 10, 19, 8.</ls> 
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) {%das Zurückgehen, Rückkehr, Umkehr%}: {#गतीर्दश समापन्नौ प्रवर्तननिवर्तनैः#} 
 <ls>R. 6, 92, 4.</ls> 
 <ls>AV. 3, 6, 7.</ls> 
-<ls>MBH. 4, 2129. 13, 5222. 18, 56.</ls> 
+<ls>MBH. 4, 2129.</ls> <ls n="MBH.">13, 5222.</ls> <ls n="MBH.">18, 56.</ls> 
 <ls>R. 1, 3, 13 (8 GORR.) 2, 22, 15. 28, 2. 45, 28. 82, 23. 83, 26. 109, 38.</ls> <ls>VIKR. 82, 20.</ls> <ls>ŚĀNTIŚ. 3, 2.</ls> {#पन्थानमनिवर्तनम्#} {%auf dem keine Rückkehr stattfindet%} 
 <ls>BHĀG. P. 6, 5, 21.</ls> An mehreren Stellen wäre auch die caus. Bed. {%das Zurückbringen%} zulässig. 
 <div n="2">— b) {%das Aufhören, Unterbleiben, Nichtgeschehen, Gehemmtwerden%}: {#वायोः#} 
@@ -17,9 +17,9 @@
 <ls>RĀJA-TAR. 4, 318.</ls> {#सर्पसत्त्र°#} 
 <ls>MBH. 1, 2177.</ls> {#संयुगस्य#} 
 <ls>HARIV. 1096.</ls> {#स्वयंवर°#} 
-<ls>6187.</ls> {#सामर्थ्यं च न पश्यामि भविष्यस्य निवर्तने#} 
-<ls>11107.</ls> {#तोयप्रवर्तनात्खेयो (सेतुः) बन्ध्यः स्यात्तन्निवर्तनात्#} 
-<ls>MIT. 244, 5 v. u.</ls> {#कृत्वा मृत्युनिवर्तनम्#} {%machend, dass der Tod aufhört%} so v. a. {%vergessend, dass es einen Tod giebt%}, 
+<ls n="HARIV.">6187.</ls> {#सामर्थ्यं च न पश्यामि भविष्यस्य निवर्तने#} 
+<ls n="HARIV.">11107.</ls> {#तोयप्रवर्तनात्खेयो (सेतुः) बन्ध्यः स्यात्तन्निवर्तनात्#} 
+<ls>MIT. 244, 5</ls> v. u. {#कृत्वा मृत्युनिवर्तनम्#} {%machend, dass der Tod aufhört%} so v. a. {%vergessend, dass es einen Tod giebt%}, 
 <ls>MBH. 7, 9296</ls>; vgl. {#मृत्युं कृत्वा निवर्तनम्#} u. 1,a. Auch hier wäre an mehreren Stellen die entsprechende causative Bedeutung am Platze. 
 <div n="2">— c) {%das Abstehen von, sich-Enthalten von%}; mit dem abl.: {#निवर्तनाद्धि सर्वतो न वेत्ति दुःखमण्वपि#} 
 <ls>MBH. 5, 1273.</ls> {#राज्यान्निवर्तनं तस्य ब्रह्मचर्यव्रते स्थितिः#} 
@@ -30,9 +30,9 @@
 <ls>KĀM. NĪTIS. 1, 28.</ls> 
 <div n="2">— e) {%das rückkehren-Machen, Zurückbringen%}: {#गवाम्#} 
 <ls>AMAR. 84.</ls> {#(अस्त्रम्) सप्रयोगनिवर्तनम्#} {%das Abschiessen und Wiederzurückkehrenlassen von Waffen%} 
-<ls>MBH. 1, 5306. 3, 1655. 1693. 12, 76.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 31, 3. 11.</ls> 
+<ls>MBH. 1, 5306.</ls> <ls n="MBH.">3, 1655.</ls> <ls n="MBH. 3,">1693.</ls> <ls n="MBH.">12, 76.</ls> 
+
+<ls>R. GORR. 1, 31, 3. 11.</ls> 
 <div n="2">— f) {%Mittel zur Rückkehr%}: {#न तत्ते^ अग्ने प्र\मृषे^ नि\वर्त^नं यद्दू\रे सन्नि\हाभ^वः#} 
 <ls>ṚV. 3, 9, 2.</ls> <ls n="ṚV.">10, 19, 8.</ls> {#प\रा\य\तो नि^वर्तनम्#} 
 <ls>AV. 7, 38, 1.</ls> 

@@ -1,4 +1,4 @@
 <L>7879<pc>249<k1>eulogist<k2>eulogist
-<div n="lb"/>{@EULOGIST:@}¦ <div n="1">(1) {#प्रशंसकः;#} </div><div n="1">(2) {#स्तुतिपाठकः#} (who
-<div n="lb"/>sings eulogies).</div>
+{@EULOGIST:@}¦ <div n="1">(1) {#प्रशंसकः;#} </div><div n="1">(2) {#स्तुतिपाठकः#} (who
+sings eulogies).</div>
 <LEND>

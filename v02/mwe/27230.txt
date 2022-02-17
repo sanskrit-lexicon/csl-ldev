@@ -1,10 +1,10 @@
 <L>27230<pc>748-a<k1>six<k2>six
-<div n="lb"/>SIX¦, {%a.%} {#षट्#} {%m. f. n. pl.%} {#(षष्), षट्संख्यकः -का -कं, षट्कः -ट्का -ट्कं;#}
-<div n="lb"/>‘six months,’ {#षण्मासाः#} {%m. pl.,%} {#षण्मासं;#} ‘the six seasons,’
-<div n="lb"/>{#षडृतवः#} {%m. pl.;%} ‘of six months standing,’ {#षाण्मासिकः -की -कं,#}
-<div n="lb"/>{#षण्मास्यः -स्या -स्यं;#} ‘six-fingered,’ {#षडङ्गुलिः -लिः -लि;#} ‘six-
-<div n="lb"/>angled,’ {#षट्कोणः -णा -णं;#} ‘six-limbed,’ {#षडङ्गः -ङ्गा -ङ्गं;#} ‘six-
-<div n="lb"/>armed,’ {#षड्भुजः -जा -जं;#} ‘six-faced,’ {#षण्मुखः -खा -खं;#} ‘a yoke
-<div n="lb"/>of six oxen,’ {#षङ्गवं;#} ‘having six feet,’ {#षट्पदः -दा -दं;#} ‘in
-<div n="lb"/>six ways,’ {#षड्धा;#} ‘the aggregate of six,’ {#षट्कं#}.
+SIX¦, {%a.%} {#षट्#} {%m. f. n. pl.%} {#(षष्), षट्संख्यकः -का -कं, षट्कः -ट्का -ट्कं;#}
+‘six months,’ {#षण्मासाः#} {%m. pl.,%} {#षण्मासं;#} ‘the six seasons,’
+{#षडृतवः#} {%m. pl.;%} ‘of six months standing,’ {#षाण्मासिकः -की -कं,#}
+{#षण्मास्यः -स्या -स्यं;#} ‘six-fingered,’ {#षडङ्गुलिः -लिः -लि;#} ‘six-
+angled,’ {#षट्कोणः -णा -णं;#} ‘six-limbed,’ {#षडङ्गः -ङ्गा -ङ्गं;#} ‘six-
+armed,’ {#षड्भुजः -जा -जं;#} ‘six-faced,’ {#षण्मुखः -खा -खं;#} ‘a yoke
+of six oxen,’ {#षङ्गवं;#} ‘having six feet,’ {#षट्पदः -दा -दं;#} ‘in
+six ways,’ {#षड्धा;#} ‘the aggregate of six,’ {#षट्कं#}.
 <LEND>

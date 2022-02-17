@@ -1,11 +1,11 @@
 <L>19210<pc>497-b<k1>metal<k2>metal
-<div n="lb"/>METAL¦, {%s.%} {#धातुः#} {%m.,%} {#लोहः, तैजसं, सुवर्णरूप्यादि#} {%n.;%} ‘base metal,’
-<div n="lb"/>{#कुप्यं;#} ‘factitious metal,’ {#कृत्रिमधातुः#} {%m.;%} ‘fused,’ {#रसधातुः#} {%m.,%}
-<div n="lb"/>{#रसः;#} ‘inferior,’ {#उपधातुः#} {%m.;%} ‘melting metals together,’
-<div n="lb"/>{#आवर्त्तन;#} ‘the metals collectively,’ {#धातुजातं, अष्टधातु#} {%n.%} The
-<div n="lb"/>eight metals are, ‘gold,’ {#सुवर्णं;#} ‘silver,’ {#रूप्यं;#} ‘copper,’
-<div n="lb"/>{#ताम्रं;#} ‘brass,’ {#पित्तलं;#} ‘bell-metal, or a kind of pewter,’
-<div n="lb"/>{#कांस्यं;#} ‘tin,’ {#त्रपु;#} ‘lead,’ {#सीसकं;#} ‘iron,’ {#लोहः#}. Some
-<div n="lb"/>make ‘steel,’ {#तीक्ष्णायसं,#} one of the eight metals, instead
-<div n="lb"/>of {#कांस्यं#}.
+METAL¦, {%s.%} {#धातुः#} {%m.,%} {#लोहः, तैजसं, सुवर्णरूप्यादि#} {%n.;%} ‘base metal,’
+{#कुप्यं;#} ‘factitious metal,’ {#कृत्रिमधातुः#} {%m.;%} ‘fused,’ {#रसधातुः#} {%m.,%}
+{#रसः;#} ‘inferior,’ {#उपधातुः#} {%m.;%} ‘melting metals together,’
+{#आवर्त्तन;#} ‘the metals collectively,’ {#धातुजातं, अष्टधातु#} {%n.%} The
+eight metals are, ‘gold,’ {#सुवर्णं;#} ‘silver,’ {#रूप्यं;#} ‘copper,’
+{#ताम्रं;#} ‘brass,’ {#पित्तलं;#} ‘bell-metal, or a kind of pewter,’
+{#कांस्यं;#} ‘tin,’ {#त्रपु;#} ‘lead,’ {#सीसकं;#} ‘iron,’ {#लोहः#}. Some
+make ‘steel,’ {#तीक्ष्णायसं,#} one of the eight metals, instead
+of {#कांस्यं#}.
 <LEND>

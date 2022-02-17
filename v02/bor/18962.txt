@@ -1,5 +1,5 @@
 <L>18962<pc>586<k1>remission<k2>remission
-<div n="lb"/>{@REMISSION:@}¦ <div n="I">I Abatement, cessation: q. v.:
-<div n="lb"/>{#उपशमः।#} </div><div n="I">II Release, discharge: q. v.: {#मोक्षः।#}</div>
-<div n="lb"/><div n="I">III Pardon, forgiveness: q. v.: {#क्षमा।#}</div>
+{@REMISSION:@}¦ <div n="I">I Abatement, cessation: q. v.:
+{#उपशमः।#} </div><div n="I">II Release, discharge: q. v.: {#मोक्षः।#}</div>
+<div n="I">III Pardon, forgiveness: q. v.: {#क्षमा।#}</div>
 <LEND>

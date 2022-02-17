@@ -1,6 +1,6 @@
 <L>10620<pc>334<k1>harbour<k2>harbour
-<div n="lb"/>{@HARBOUR@}¦ (v.): <div n="I">I To shelter, protect: q.v.</div>
-<div n="lb"/><div n="I">II To take shelter: {#वसति#} ({#वस्,#} c. 1.), <div n="xe">{%I.%}
-<div n="lb"/>{%will h. here one night:%}</div> <div n="xs">{#अत्रैकां रजनीं वसामि,#}</div> K. s.
-<div n="lb"/>18. 225.: v. To stay, reside.</div>
+{@HARBOUR@}¦ (v.): <div n="I">I To shelter, protect: q.v.</div>
+<div n="I">II To take shelter: {#वसति#} ({#वस्,#} c. 1.), <div n="xe">{%I.%}
+{%will h. here one night:%}</div> <div n="xs">{#अत्रैकां रजनीं वसामि,#}</div> K. s.
+18. 225.: v. To stay, reside.</div>
 <LEND>

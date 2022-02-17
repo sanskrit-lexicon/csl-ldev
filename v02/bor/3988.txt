@@ -1,14 +1,14 @@
 <L>3988<pc>129<k1>cold<k2>cold
-<div n="lb"/>{@COLD@}¦ (adj.): <div n="I">I Lit: </div><div n="1">(1) {#शीतः#} ({#ता, तं#}), <div n="xe">{%c.%}
-<div n="lb"/>{%weather:%}</div> <div n="xs">{#शीतकालः,#}</div> Ri. vi. 7.; </div><div n="1">(2) {#शीतलः#} ({#ला, #}
-<div n="lb"/>{# लं#}) (gen. = cool), <div n="xe">{%c. nights:%}</div> <div n="xs">{#शीतला रात्रयः,#}</div> Ri.
-<div n="lb"/>V. 4.; </div><div n="1">(3) {#शिशिरः#} ({#रा, रं#}), <div n="xe">{%c. as ice:%}</div> <div n="xs">{#तुषार-#}
-<div n="lb"/>{#शिशिरः#}</div> ({#रा, रं#}) K.; </div><div n="1">(4) {#हिमः#} ({#मा, मं#}) (rare);</div>
-<div n="lb"/><div n="1">(5) {#तुषारः#} ({#रा, रं#}) (rare); </div><div n="1">(6) {#निरुष्णः#} ({#ष्णा, ष्णं#}),
-<div n="lb"/>{#अघर्मः#} ({#र्मा। र्मं#}) etc. (poet). {%C. season:%} </div><div n="1">(1) {#हेमन्त#}
-<div n="lb"/>(mn.) (from about the middle of November
-<div n="lb"/>to about the m. of January); </div><div n="1">(2) {#शिशिर#} (mn.)
-<div n="lb"/>(from a. the m. of J. to a. the m. of March).
-<div n="lb"/>Ph. <div n="xe">{%I am c.%}</div> <div n="xs">{#शीतं मे,#}</div> P. iii. 7. </div><div n="I">III Fig.: in-
-<div n="lb"/>-different, reserved: q. v.</div>
+{@COLD@}¦ (adj.): <div n="I">I Lit: </div><div n="1">(1) {#शीतः#} ({#ता, तं#}), <div n="xe">{%c.%}
+{%weather:%}</div> <div n="xs">{#शीतकालः,#}</div> Ri. vi. 7.; </div><div n="1">(2) {#शीतलः#} ({#ला, #}
+{# लं#}) (gen. = cool), <div n="xe">{%c. nights:%}</div> <div n="xs">{#शीतला रात्रयः,#}</div> Ri.
+V. 4.; </div><div n="1">(3) {#शिशिरः#} ({#रा, रं#}), <div n="xe">{%c. as ice:%}</div> <div n="xs">{#तुषार-#}
+{#शिशिरः#}</div> ({#रा, रं#}) K.; </div><div n="1">(4) {#हिमः#} ({#मा, मं#}) (rare);</div>
+<div n="1">(5) {#तुषारः#} ({#रा, रं#}) (rare); </div><div n="1">(6) {#निरुष्णः#} ({#ष्णा, ष्णं#}),
+{#अघर्मः#} ({#र्मा। र्मं#}) etc. (poet). {%C. season:%} </div><div n="1">(1) {#हेमन्त#}
+(mn.) (from about the middle of November
+to about the m. of January); </div><div n="1">(2) {#शिशिर#} (mn.)
+(from a. the m. of J. to a. the m. of March).
+Ph. <div n="xe">{%I am c.%}</div> <div n="xs">{#शीतं मे,#}</div> P. iii. 7. </div><div n="I">III Fig.: in-
+-different, reserved: q. v.</div>
 <LEND>

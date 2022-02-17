@@ -25,7 +25,7 @@
 <ls>24, 25. 34. 37.</ls> <ls>ŚAT. BR. 6, 1, 2, 35. 14, 6, 3, 2.</ls> <ls>TS. 7, 5, 8, 5.</ls> <ls>ŚĀṄKH. BR. 18, 4.</ls> {#यक्षरक्षःपिशाचांश्च गन्धर्वाप्सरसो ऽसुरान् । नागान्सर्पान्सुपर्णांश्च पितॄणां च पृथग्गणान् #}.. 
 <ls>M. 1, 37. 3, 196. 12, 46.</ls> 
 <ls>MBH. 3, 11646.</ls> {#सुपर्णानां पक्षिणां पन्नगाशिनाम्#} 
-<ls>5, 3586. 7, 2572. 12, 1315. 13, 1373. 16, 62.</ls> <ls>HARIV. 225. 11850.</ls> <ls>R. 1, 39, 14. 2, 25, 31.</ls> <ls>R. GORR. 2, 25, 27. 117, 9. 3, 33, 20. 35, 91. 39, 15. 29. 43, 20. 44, 18. 4, 18, 23. 5, 22, 29.</ls> <ls>RAGH. 10, 62.</ls> <ls>VP. 149.</ls> <ls>MĀRK. P. 22, 50.</ls> <ls>BHĀG. P. 3, 1, 39. 3, 3</ls> (so v. a. {%wie ein zweiter%} <is>Garuḍa</is>). 
+<ls>5, 3586. 7, 2572. 12, 1315. 13, 1373. 16, 62.</ls> <ls>HARIV. 225.</ls> <ls n="HARIV.">11850.</ls> <ls>R. 1, 39, 14. 2, 25, 31.</ls> <ls>R. GORR. 2, 25, 27. 117, 9. 3, 33, 20. 35, 91. 39, 15. 29. 43, 20. 44, 18. 4, 18, 23. 5, 22, 29.</ls> <ls>RAGH. 10, 62.</ls> <ls>VP. 149.</ls> <ls>MĀRK. P. 22, 50.</ls> <ls>BHĀG. P. 3, 1, 39. 3, 3</ls> (so v. a. {%wie ein zweiter%} <is>Garuḍa</is>). 
 <ls>5, 40. 21, 22. 28, 24. 4, 1, 24. 18, 24. 5, 24, 6. 8, 4, 19. 5, 29. 18, 9. 10, 17, 1. 11, 11, 6.</ls> so heissen die <is>Aśvin</is> 
 <ls>ṚV. 4, 43, 3.</ls> 
 <ls>MBH. 1, 722.</ls> Bildlich insbesondere 
@@ -53,7 +53,7 @@
 <ls>MBH. 12, 13566. fgg.</ls> Verfasser von 
 <ls>VĀLAKH. 11.</ls> mit dem patron. <is>Tārkṣyaputra</is> Verfasser von 
 <ls>ṚV. 10, 144.</ls> unter den <is>Devagandharva</is> 
-<ls>MBH. 1, 2550. 2555.</ls> ein <is>Asura</is> 
+<ls>MBH. 1, 2550.</ls> <ls n="MBH. 1,">2555.</ls> ein <is>Asura</is> 
 <ls>2672.</ls> 
 <div n="2">— d) N. pr. eines Berges 
 <ls>BHĀG. P. 5, 20, 4.</ls> 
@@ -80,7 +80,7 @@
 [Page7-1077]
 {%best. Schlingpflanze%}, = {#पलाशी#} 
 <ls>RĀJAN. 3, 133.</ls> = {#रेणुका#} (vgl. {#सुपर्णिका#}) 
-<ls>6, 114 </ls> (v. l. {#सपर्णी#}). 
+<ls>6, 114</ls> (v. l. {#सपर्णी#}). 
 <div n="1">— 4) <lex>n.</lex> {%ein best. Abschnitt vedischer Verse%} (103 an Zahl) 
 <ls>ŚĀṄKH. ŚR. 9, 20, 14.</ls> {#स°#} 
 <ls>Ind. St. 3, 276.</ls> N. eines <is>Sāman</is> 

@@ -1,7 +1,7 @@
 <L>15452<pc>473<k1>nobility<k2>nobility
-<div n="lb"/>{@NOBILITY:@}¦ <div n="I">I Of rank or birth: no equiv.:
-<div n="lb"/>{#कौलीन्यम्#} may occasionally do; {#महत्त्वम्#}
-<div n="lb"/>(= greatness). </div><div n="I">II Noblemen collectively:
-<div n="lb"/>{#*अनुराजवर्गः; नायकसम्प्रदायः।#} </div><div n="I">III Greatness:
-<div n="lb"/>eminence: {#महत्त्वम्।#}</div>
+{@NOBILITY:@}¦ <div n="I">I Of rank or birth: no equiv.:
+{#कौलीन्यम्#} may occasionally do; {#महत्त्वम्#}
+(= greatness). </div><div n="I">II Noblemen collectively:
+{#*अनुराजवर्गः; नायकसम्प्रदायः।#} </div><div n="I">III Greatness:
+eminence: {#महत्त्वम्।#}</div>
 <LEND>

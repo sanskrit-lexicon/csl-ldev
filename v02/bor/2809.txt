@@ -1,16 +1,16 @@
 <L>2809<pc>094<k1>burst<k2>burst
-<div n="lb"/>{@BURST@}¦ (v. i.): {#स्फुटति#} ({#स्फुट्,#} c. 6.), <div n="xe">{%my heart i%}
-<div n="lb"/>{%b. ing%}</div> <div n="xs">{#स्फुटति हृदयम्,#}</div> U. iii.; <div n="1">(2) {#विदलति#} ({#दल्#}
-<div n="lb"/>c. l.) (=split), M. n.; </div><div n="1">(3) {#विशीर्यते#} (pass
-<div n="lb"/>of {#शॄ#}) (=to split), <div n="xe">{%a b. ing rock%}</div> <div n="xs">{#विशीर्यभानाश्म।#}</div>
-<div n="lb"/>Ki. xvi. 51.; </div><div n="1">(4) {#दीर्यते, वि-,#} (pass. of {#दॄ#} [Page095]
-<div n="lb"/>(to rend), <div n="xe">{%my heart b.%}</div> <div n="xs">{#ममादीर्यत हृदयम्,#}</div> <div n="xe">{%to b.%}
-<div n="lb"/>{%into tears%}</div> <div n="xs">{#रोदितुमारभते#}</div> ({#रभ्,#} c. l.), K.; <div n="xe">{%to b.%}
-<div n="lb"/>{%with laughter or b. out laughing%}</div> <div n="xs">{#प्रहसितुम् आरभते;#}</div>
-<div n="lb"/>{%to b. forth%} (Lit.): {#निष्क्रामति#} ({#क्रम्,#} c. l.) {%or%}
-<div n="lb"/>{#निर्गच्छति#} ({#गम्,#} c. l.); {%to b. forth%} (=to break
-<div n="lb"/>out): {#उद्भिनत्ति#} ({#भिद्#} c. l.); <div n="xe">{%tears b.%}
-<div n="lb"/>{%forth%}</div> <div n="xs">{#अश्रुधारा प्रावर्तत#}</div> ({#वृत्#} c. l.) <div n="xe">{%or%}</div> <div n="xs">{#अश्रूणि निरगच्छन्;#}</div>
-<div n="lb"/>{%to b. open:%} v. To break open. {%To b. upon:%}
-<div n="lb"/>{#आक्रामति#} (=to attack).</div>
+{@BURST@}¦ (v. i.): {#स्फुटति#} ({#स्फुट्,#} c. 6.), <div n="xe">{%my heart i%}
+{%b. ing%}</div> <div n="xs">{#स्फुटति हृदयम्,#}</div> U. iii.; <div n="1">(2) {#विदलति#} ({#दल्#}
+c. l.) (=split), M. n.; </div><div n="1">(3) {#विशीर्यते#} (pass
+of {#शॄ#}) (=to split), <div n="xe">{%a b. ing rock%}</div> <div n="xs">{#विशीर्यभानाश्म।#}</div>
+Ki. xvi. 51.; </div><div n="1">(4) {#दीर्यते, वि-,#} (pass. of {#दॄ#} [Page095]
+(to rend), <div n="xe">{%my heart b.%}</div> <div n="xs">{#ममादीर्यत हृदयम्,#}</div> <div n="xe">{%to b.%}
+{%into tears%}</div> <div n="xs">{#रोदितुमारभते#}</div> ({#रभ्,#} c. l.), K.; <div n="xe">{%to b.%}
+{%with laughter or b. out laughing%}</div> <div n="xs">{#प्रहसितुम् आरभते;#}</div>
+{%to b. forth%} (Lit.): {#निष्क्रामति#} ({#क्रम्,#} c. l.) {%or%}
+{#निर्गच्छति#} ({#गम्,#} c. l.); {%to b. forth%} (=to break
+out): {#उद्भिनत्ति#} ({#भिद्#} c. l.); <div n="xe">{%tears b.%}
+{%forth%}</div> <div n="xs">{#अश्रुधारा प्रावर्तत#}</div> ({#वृत्#} c. l.) <div n="xe">{%or%}</div> <div n="xs">{#अश्रूणि निरगच्छन्;#}</div>
+{%to b. open:%} v. To break open. {%To b. upon:%}
+{#आक्रामति#} (=to attack).</div>
 <LEND>

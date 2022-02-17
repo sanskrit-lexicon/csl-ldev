@@ -27,7 +27,7 @@
 <ls>AK. 2, 7, 39.</ls> {#एष वै प्रथमः कल्पः प्रदाने हव्यकव्ययोः । अनुकल्पस्त्वयं ज्ञेयः#} 
 <ls>M. 3, 147.</ls> {#प्रभुः प्रथमकल्पस्य यो ऽनुकल्पेन वर्तते । न सांपरायिकं तस्य दुर्मतेर्विद्यते फलम् ॥#} 
 <ls>11, 30.</ls> {#हविषा प्रथमः कल्पो द्वितीयश्चौषधीरसैः#} 
-<ls>MBH. 13, 4728. 3726.</ls> 
+<ls>MBH. 13, 4728.</ls> <ls n="MBH. 13,">3726.</ls> 
 <ls>ŚĀK. 67, 18</ls> (v. l. für {#उदारः कल्पः#}). 
 <ls>99, 23.</ls> <ls>MĀLAV. 12, 2.</ls> {#तत्र नः प्रथमः कल्पो यद्वयं ते च - श्रियं तामश्नुवीमहि#} {%dafür haben wir zunächst zu sorgen, dass%} 
 <ls>MBH. 5, 2622.</ls> 
@@ -49,7 +49,7 @@
 <ls>3, 6.</ls> {#आचार्य°, विवाह°#} u. s. w. 
 <ls>KAUŚ. 92. 140.</ls> {#श्राद्ध°#} 
 <ls>M. 1, 112.</ls> 
-<ls>MBH. 13, 4241. 4335.</ls> {#स्नातकव्रत°#} 
+<ls>MBH. 13, 4241.</ls> <ls n="MBH. 13,">4335.</ls> {#स्नातकव्रत°#} 
 <ls>M. 4, 259.</ls> {#शौच°#} 
 <ls>5, 140.</ls> {#आपत्कल्प#} {%die im Unglück geltende Regel%} 
 <ls>11, 28.</ls> {#दान°#} 
@@ -58,7 +58,7 @@
 <ls>VP.</ls> in <ls>BHĀG. P. I, XXXVII. fg.</ls> {#कल्पान्गाथा नाराशंसीः#} {%Regeln%}
 [Page2-0174]
 {%über die Gebräuche%} 
-<ls>TAITT. ĀR. 2, 9. 10.</ls> sg. <ls>P. 4, 2, 60, <is>Vārtt</is>. 3. 4. 3, 66, <is>Vārtt</is>. 3. 4, 1, 19, <is>Vārtt</is>. 2, Sch. 4, 2, 66</ls>, <ls>Sch.</ls> <ls>BHĀG. P. 2, 6, 25.</ls> <ls>Ind. St. 1, 44. u.s.w.</ls> {#कल्पप्रयोगे चोत्पन्ने ज्योतिषे च परं गतः#} 
+<ls>TAITT. ĀR. 2, 9. 10.</ls> sg. <ls>P. 4, 2, 60, <is>Vārtt</is>. 3. 4. 3, 66, <is>Vārtt</is>. 3. 4, 1, 19, <is>Vārtt</is>. 2, Sch. 4, 2, 66</ls>, <ls>Sch.</ls> <ls>BHĀG. P. 2, 6, 25.</ls> <ls>Ind. St. 1, 44.</ls> u.s.w. {#कल्पप्रयोगे चोत्पन्ने ज्योतिषे च परं गतः#} 
 <ls>MBH. 13, 470.</ls> {#न कल्पमात्रे#} {%nicht bloss nach den äussern Regeln, nach der äussern Form%} (den <is>Veda</is> studiren) 
 <ls>PĀR. GṚHY.</ls> in <ls>Z. d. d. m. G. 7, 537.</ls> {#कल्प#} sg. {%die Gesammtheit der Vorschriften über Ritual%}, eines der 6 <is>Vedāṅga</is>, 
 <ls>TRIK.</ls> <ls>H. 250.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MUṆḌ. UP. 1, 1, 5.</ls> <ls>ŚIKṢĀ 41.</ls> <ls>P. 4, 3, 105.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 13.</ls> {#सम्यगधीतस्य परिज्ञातच्छन्दसो ऽमुष्मिन्कर्मणि विनियोग इति कल्प आद्रियते#} 
@@ -91,7 +91,7 @@
 <ls>P. 5, 3, 67.</ls> 
 <ls>VOP. 7, 63.</ls> Ein vorangehendes {#स्#} geht nicht in den <is>Vasarga</is> über 
 <ls>P. 8, 3, 38. 39</ls> (vgl. 
-<ls>KĀŚ.</ls> und <ls><is>Vārtt</is>.);</ls> ein vorangeh. fem auf {#ई#} und {#ऊ#} wird verkürzt 
+<ls>KĀŚ.</ls> und <ls><is>Vārtt</is>.)</ls>; ein vorangeh. fem auf {#ई#} und {#ऊ#} wird verkürzt 
 <ls>6, 3, 43. fgg.</ls> <ls>VOP. 7, 49.</ls> Wird auch mit einem verb. fin. verbunden, welches in diesem Falle den Ton hat, wenn es nicht mit einer praep. u. s. w. verbunden ist: {#दे\वः पच^तिकल्पम्#} {%kocht ziemlich gut%} 
 <ls>P. 8, 1, 57,</ls> 
 <ls>Sch.</ls> 
@@ -104,7 +104,7 @@
 <ls>H. 160.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>HARIV. 520. 522.</ls> 
+<ls>HARIV. 520.</ls> <ls n="HARIV.">522.</ls> 
 <ls>VP. 270. 631. 24,</ls> 
 <ls>N. 6. 26,</ls> 
 <ls>N. 9.</ls> 
@@ -125,7 +125,7 @@
 <ls>H. 161.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> Ueber den {#कल्प#} bei den Buddhisten s. 
-<ls>BURN. Lot. de la b. l. 324. fgg.</ls> 
+<ls>BURN.</ls> <ls>Lot. de la b. l. 324. fgg.</ls> 
 <div n="2">— e) med. {%die Lehre von den Giften und Gegengiften%} ({#कल्पस्थान#}) 
 <ls>SUŚR. 1, 8, 5. 12, 5. 122, 9. 2, 134, 11. 243, 1.</ls> {#मूषिककल्प#} 
 <ls>277, 18.</ls> 

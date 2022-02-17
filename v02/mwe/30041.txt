@@ -1,18 +1,18 @@
 <L>30041<pc>814-b<k1>turn<k2>turn
-<div n="lb"/>{%To%} TURN¦, {%v. a.%} (Cause to revolve) {#आवृत्#} (c. 10. {#-वर्त्तयति -यितुं#}), {#परि-#}
-<div n="lb"/>{#वृत्, विवृत्, वृत्#} &c., {%see To%} REVOLVE, {%v. a.,%} ROLL, {%v. a.%} — 
-<div n="lb"/>(Change) {#परिवृत्#} in caus. — (Bend) {#साचीकृ,#} {%see To%} BEND,
-<div n="lb"/>{%v. a.%} — (Make acid) {#अम्लीकृ#}. — (Form on a lathe) {#भ्रमेण#} or
-<div n="lb"/>{#चक्रयन्त्रेण निर्मा#} or {#घट्#} or {#रच्#}. — (Make giddy) {#भ्रम्,#} {%see To%}
-<div n="lb"/>INFATUATE. — (In the mind), {%see To%} REVOLVE. — (Dissuade)
-<div n="lb"/>{#निवृत्#} in caus. — (Turn away the face) {#मुखं परिवृत्#} in caus.
-<div n="lb"/> — (Turn away, turn off) {#अपास्;#} ‘to turn away an old
-<div n="lb"/>servant,’ {#मूलभृत्यम् अपास्,#} {%see To%} DISMISS, REJECT, AVERT. — 
-<div n="lb"/>(Turn back) {#परावृत्#} in caus. — (Turn down), {%see To%} FOLD.
-<div n="lb"/> — (Turn off) {%see To%} DIVERT. — (Turn out) {#वहिष्कृ,#} {%see To%}
-<div n="lb"/>OUST. — (Turn over) {#परिवृत्#} in caus., {%see To%} OVERTURN. — 
-<div n="lb"/>(Turn the back) {#पलाय्, पराङ्मुखः -खा -खं भू, विमुखः#} &c. {#भू#}. — 
-<div n="lb"/>(Turn the mind to) {#मनः कृ, मतिं कृ#} or {#प्रकृ#}. — (Turn to),
-<div n="lb"/>{%see To%} RESORT. ‘To turn’ may often be expressed by
-<div n="lb"/>{#कृ#} in comp.; as, ‘to turn a thing black,’ {#द्रव्यं कृष्णीकृ#}.
+{%To%} TURN¦, {%v. a.%} (Cause to revolve) {#आवृत्#} (c. 10. {#-वर्त्तयति -यितुं#}), {#परि-#}
+{#वृत्, विवृत्, वृत्#} &c., {%see To%} REVOLVE, {%v. a.,%} ROLL, {%v. a.%} — 
+(Change) {#परिवृत्#} in caus. — (Bend) {#साचीकृ,#} {%see To%} BEND,
+{%v. a.%} — (Make acid) {#अम्लीकृ#}. — (Form on a lathe) {#भ्रमेण#} or
+{#चक्रयन्त्रेण निर्मा#} or {#घट्#} or {#रच्#}. — (Make giddy) {#भ्रम्,#} {%see To%}
+INFATUATE. — (In the mind), {%see To%} REVOLVE. — (Dissuade)
+{#निवृत्#} in caus. — (Turn away the face) {#मुखं परिवृत्#} in caus.
+ — (Turn away, turn off) {#अपास्;#} ‘to turn away an old
+servant,’ {#मूलभृत्यम् अपास्,#} {%see To%} DISMISS, REJECT, AVERT. — 
+(Turn back) {#परावृत्#} in caus. — (Turn down), {%see To%} FOLD.
+ — (Turn off) {%see To%} DIVERT. — (Turn out) {#वहिष्कृ,#} {%see To%}
+OUST. — (Turn over) {#परिवृत्#} in caus., {%see To%} OVERTURN. — 
+(Turn the back) {#पलाय्, पराङ्मुखः -खा -खं भू, विमुखः#} &c. {#भू#}. — 
+(Turn the mind to) {#मनः कृ, मतिं कृ#} or {#प्रकृ#}. — (Turn to),
+{%see To%} RESORT. ‘To turn’ may often be expressed by
+{#कृ#} in comp.; as, ‘to turn a thing black,’ {#द्रव्यं कृष्णीकृ#}.
 <LEND>

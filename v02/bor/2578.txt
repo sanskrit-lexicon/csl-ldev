@@ -1,5 +1,5 @@
 <L>2578<pc>088<k1>bridal<k2>bridal
-<div n="lb"/>{@BRIDAL@}¦ (adj.): {#वैवाहिकः#} ({#की, कं#}). {%B. procession%}
-<div n="lb"/>(of the bridegroom) {#वरयात्रा#} N. xvi. 4.;
-<div n="lb"/><div n="xe">{%b. string%}</div> <div n="xs">{#कौतुकम्;#}</div> <div n="xe">{%b. chamber%}</div> <div n="xs">{#कौतुकागारम्।#}</div> Ku.
+{@BRIDAL@}¦ (adj.): {#वैवाहिकः#} ({#की, कं#}). {%B. procession%}
+(of the bridegroom) {#वरयात्रा#} N. xvi. 4.;
+<div n="xe">{%b. string%}</div> <div n="xs">{#कौतुकम्;#}</div> <div n="xe">{%b. chamber%}</div> <div n="xs">{#कौतुकागारम्।#}</div> Ku.
 <LEND>

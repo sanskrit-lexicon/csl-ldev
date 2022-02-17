@@ -1,8 +1,8 @@
 <L>24199<pc>757<k1>weed<k2>weed
-<div n="lb"/>{@WEED@}¦ (subs.): <div n="I">I A noxious plant: </div><div n="1">(1) {#कक्षः,#}
-<div n="lb"/><div n="xe">{%to take up w. s:%}</div> <div n="xs">{#कक्षमुद्धरति,#}</div> M. vii. 110.; </div><div n="1">(2)
-<div n="lb"/>{#तृणादिकम्,#} R. t.; </div><div n="1">(3) perh. {#अगच्छः।#} (comp.
-<div n="lb"/>Bengalee {#आगाछा#}). </div><div n="I">II Widow's dress:
-<div n="lb"/>perh. {#क्लिष्टनिबसनम्,#} D. v.; {#चीरम्#} <div n="xe">{%or%}</div> <div n="xs">{#चीवरम्#}</div> (prop.
-<div n="lb"/>rag).</div>
+{@WEED@}¦ (subs.): <div n="I">I A noxious plant: </div><div n="1">(1) {#कक्षः,#}
+<div n="xe">{%to take up w. s:%}</div> <div n="xs">{#कक्षमुद्धरति,#}</div> M. vii. 110.; </div><div n="1">(2)
+{#तृणादिकम्,#} R. t.; </div><div n="1">(3) perh. {#अगच्छः।#} (comp.
+Bengalee {#आगाछा#}). </div><div n="I">II Widow's dress:
+perh. {#क्लिष्टनिबसनम्,#} D. v.; {#चीरम्#} <div n="xe">{%or%}</div> <div n="xs">{#चीवरम्#}</div> (prop.
+rag).</div>
 <LEND>

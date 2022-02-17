@@ -1,25 +1,25 @@
 <L>1<pc>001<k1>a<k2>a
-<div n="lb"/>{@A@}¦ {%or%} (before vowels) AN: <div n="I">I This article
-<div n="lb"/>has no equiv. in Sanskrit and is expressed
-<div n="lb"/>by the singular number alone: <div n="xe">{%there is a%}
-<div n="lb"/>{%large silk-cotton tree on the banks of the Godavari%}</div>
-<div n="lb"/><div n="xs">{#अस्ति गोदावरीतीरे विशालः शाल्मलीतरुः#}</div> <ls>H.</ls> i.; <div n="xe">{%there%}
-<div n="lb"/>{%was a king named Cintamani%}</div> <div n="xs">{#अभूद्राजा चिन्तामणि-#}
-<div n="lb"/>{#र्नाम#}</div> Va. </div><div n="I">II But {#कश्चित्#} ({#काचित्, किञ्चित्#})
-<div n="lb"/>should be added when special attention
-<div n="lb"/>is directed to the object: {%a%} (certain)
-<div n="lb"/><div n="xe">{%Yaksha%}</div> <div n="xs">{#कश्चिद् यक्षः,#}</div> Me. I 1.; {%A%} (certain)
-<div n="lb"/><div n="xe">{%saint named Marichi%}</div> <div n="xs">{#कश्चिन्मरीचिर्नाभ भहर्षिः,#}</div> <ls>D.</ls>
-<div n="lb"/>iii. </div><div n="I">III When it means a species of, {#विशेषः, #}
-<div n="lb"/>{# भेदः,#} etc. should be added: {%Asoka is a tree%}
-<div n="lb"/>{#अशोको वृक्षविशेषः।#} </div><div n="I">IV When used distribu-
-<div n="lb"/>-tively, (a) expr. by avy. comp. with {#प्रति,#}
-<div n="lb"/>{%or,%} by the repetition of the word in proper
-<div n="lb"/>agreement with the verb: {%give%} ({%me%}) <div n="xe">{%500%}
-<div n="lb"/>{%sovereign a day%}</div> <div n="xs">{#प्रत्यहं सुवर्णपञ्चशतानि देहि,#}</div> <ls>H.</ls>
-<div n="lb"/>iii; (b) the simple gen. may be used in
-<div n="lb"/>connection with num. adverbs: <div n="xe">{%dinner%}
-<div n="lb"/>{%twice a day%}</div> <div n="xs">{#द्विरह्नो भोजनम्,#}</div> V. In O. E. some-
-<div n="lb"/>-times=on, in, for: q. v.: <div n="xe">{%the world runs%}
-<div n="lb"/>{%awheel%}</div> <div n="xs">{#*चक्रैर्जगद्धावति।#}</div></div>
+{@A@}¦ {%or%} (before vowels) AN: <div n="I">I This article
+has no equiv. in Sanskrit and is expressed
+by the singular number alone: <div n="xe">{%there is a%}
+{%large silk-cotton tree on the banks of the Godavari%}</div>
+<div n="xs">{#अस्ति गोदावरीतीरे विशालः शाल्मलीतरुः#}</div> <ls>H.</ls> i.; <div n="xe">{%there%}
+{%was a king named Cintamani%}</div> <div n="xs">{#अभूद्राजा चिन्तामणि-#}
+{#र्नाम#}</div> Va. </div><div n="I">II But {#कश्चित्#} ({#काचित्, किञ्चित्#})
+should be added when special attention
+is directed to the object: {%a%} (certain)
+<div n="xe">{%Yaksha%}</div> <div n="xs">{#कश्चिद् यक्षः,#}</div> Me. I 1.; {%A%} (certain)
+<div n="xe">{%saint named Marichi%}</div> <div n="xs">{#कश्चिन्मरीचिर्नाभ भहर्षिः,#}</div> <ls>D.</ls>
+iii. </div><div n="I">III When it means a species of, {#विशेषः, #}
+{# भेदः,#} etc. should be added: {%Asoka is a tree%}
+{#अशोको वृक्षविशेषः।#} </div><div n="I">IV When used distribu-
+-tively, (a) expr. by avy. comp. with {#प्रति,#}
+{%or,%} by the repetition of the word in proper
+agreement with the verb: {%give%} ({%me%}) <div n="xe">{%500%}
+{%sovereign a day%}</div> <div n="xs">{#प्रत्यहं सुवर्णपञ्चशतानि देहि,#}</div> <ls>H.</ls>
+iii; (b) the simple gen. may be used in
+connection with num. adverbs: <div n="xe">{%dinner%}
+{%twice a day%}</div> <div n="xs">{#द्विरह्नो भोजनम्,#}</div> V. In O. E. some-
+-times=on, in, for: q. v.: <div n="xe">{%the world runs%}
+{%awheel%}</div> <div n="xs">{#*चक्रैर्जगद्धावति।#}</div></div>
 <LEND>

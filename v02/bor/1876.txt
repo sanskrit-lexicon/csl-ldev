@@ -1,9 +1,9 @@
 <L>1876<pc>065<k1>believe<k2>believe
-<div n="lb"/>{@BELIEVE@}¦ (v. i.): <div n="I">I To have faith in: </div><div n="1">(1)
-<div n="lb"/>{#विश्वसिति#} ({#श्वस्,#} c. 2.) (with loc.) <div n="xe">{%when does a%}
-<div n="lb"/>{%virgin b. in man%}</div> <div n="xs">{#पुंसि विश्वसिति कुत्र कुमारी,#}</div> N. v.
-<div n="lb"/>100. </div><div n="1">(2) {#प्रत्येति#} ({#इ,#} c. 2.) (with acc.) <div n="xe">{%every%}
-<div n="lb"/>{%body b. s in the existence of his self%}</div> <div n="xs">{#सर्वो #}
-<div n="lb"/>{# ह्यात्मास्तित्वं प्रत्येति,#}</div> S. </div><div n="I">II To think, suppose:
-<div n="lb"/>q. v.: </div><div n="1">(1) {#सम्भावयति;#} </div><div n="1">(2) {#मन्यते#} ({#मन्,#} c. 4.).</div>
+{@BELIEVE@}¦ (v. i.): <div n="I">I To have faith in: </div><div n="1">(1)
+{#विश्वसिति#} ({#श्वस्,#} c. 2.) (with loc.) <div n="xe">{%when does a%}
+{%virgin b. in man%}</div> <div n="xs">{#पुंसि विश्वसिति कुत्र कुमारी,#}</div> N. v.
+100. </div><div n="1">(2) {#प्रत्येति#} ({#इ,#} c. 2.) (with acc.) <div n="xe">{%every%}
+{%body b. s in the existence of his self%}</div> <div n="xs">{#सर्वो #}
+{# ह्यात्मास्तित्वं प्रत्येति,#}</div> S. </div><div n="I">II To think, suppose:
+q. v.: </div><div n="1">(1) {#सम्भावयति;#} </div><div n="1">(2) {#मन्यते#} ({#मन्,#} c. 4.).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>13690<pc>421<k1>livery<k2>livery
-<div n="lb"/>{@LIVERY:@}¦ <div n="I">I Delivery, deliverance: q. v. </div><div n="I">II
-<div n="lb"/>Dress: q. v.: {#वेषः।#} Ph.: <div n="xe">{%l. -stable:%}</div> <div n="xs">{#*भाटकाश्व-#}
-<div n="lb"/>{#शाला।#}</div></div>
+{@LIVERY:@}¦ <div n="I">I Delivery, deliverance: q. v. </div><div n="I">II
+Dress: q. v.: {#वेषः।#} Ph.: <div n="xe">{%l. -stable:%}</div> <div n="xs">{#*भाटकाश्व-#}
+{#शाला।#}</div></div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>14050<pc>432<k1>make up<k2>make up
-<div n="lb"/>{@MAKE UP:@}¦ <div n="I">I To collect: {#सङ्कलयति#} ({#कल्,#} c.
-<div n="lb"/>10.). </div><div n="I">II To complete: {#पूरयति#} ({#पूर्,#} c. 10.).</div>
-<div n="lb"/><div n="I">III To compensate for: {#पूरयति।#} </div><div n="I">IV To
-<div n="lb"/>determine: q. v.: <div n="xe">{%one who has made up his%}
-<div n="lb"/>{%mind:%}</div> <div n="xs">{#कृतमति#}</div> (mfn.). </div><div n="I">V To reconcile:
-<div n="lb"/>{#सं-दधाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.).</div>
+{@MAKE UP:@}¦ <div n="I">I To collect: {#सङ्कलयति#} ({#कल्,#} c.
+10.). </div><div n="I">II To complete: {#पूरयति#} ({#पूर्,#} c. 10.).</div>
+<div n="I">III To compensate for: {#पूरयति।#} </div><div n="I">IV To
+determine: q. v.: <div n="xe">{%one who has made up his%}
+{%mind:%}</div> <div n="xs">{#कृतमति#}</div> (mfn.). </div><div n="I">V To reconcile:
+{#सं-दधाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.).</div>
 <LEND>

@@ -3,9 +3,9 @@
 <div n="1"> 1) {%Heerführer%} 
 <ls>AK. 2, 8, 2, 30.</ls> 
 <ls>HALĀY. 2, 278.</ls> 
-<ls>MBH. 4, 702. 834. 2160. 6, 1982.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 109, 28. 3, 29, 16. 4, 7, 24. 5, 73, 30. 89, 71.</ls> 
+<ls>MBH. 4, 702.</ls> <ls n="MBH. 4,">834.</ls> <ls n="MBH. 4,">2160.</ls> <ls n="MBH.">6, 1982.</ls> 
+
+<ls>R. GORR. 2, 109, 28. 3, 29, 16. 4, 7, 24. 5, 73, 30. 89, 71.</ls> 
 <ls>BHĀG. P. 9, 12, 10.</ls> 
 <div n="1">— 2) N. pr. oder Bein. eines Dichters 
 <ls>Verz. d. Tüb. H. 13.</ls>

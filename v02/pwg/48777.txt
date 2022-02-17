@@ -10,9 +10,9 @@
 <ls>HALĀY. 4, 58.</ls> {#पवन#} 
 <ls>RAGH. 11, 62.</ls> {#नाद#} {%Widerhall%} 
 <ls>KATHĀS. 19, 112.</ls> {#बाणान्#} 
-<ls>MBH. 5, 1864. 8, 2534.</ls> 
+<ls>MBH. 5, 1864.</ls> <ls n="MBH.">8, 2534.</ls> 
 <ls>VARĀH. BṚH. S. 18, 8.</ls> {#प्रतीपा भवतां जिह्वा भवित्री#} {%verkehrt%} 
-<ls>MBH. 13, 4050. 4053.</ls> {#तत्प्रतीपे कृते#} 
+<ls>MBH. 13, 4050.</ls> <ls n="MBH. 13,">4053.</ls> {#तत्प्रतीपे कृते#} 
 <ls>R. GORR. 2, 20, 16.</ls> {%verkehrt%} so v. a. {%in Unordnung befindlich%} 
 <ls>SUŚR. 2, 429, 13.</ls> 
 <ls>VARĀH. BṚH. S. 31, 25. 45, 44.</ls> {%unangenehm%}: {#प्रतीपमेतद्देवानाम्#} 
@@ -53,7 +53,7 @@
 <ls>R. GORR. 2, 20, 9. 23. 24. 27. 32.</ls> {#प्रतीपमेते जायन्ते#} {%in verkehrter Ordnung%} 
 <ls>M. 10, 17.</ls> Vgl. {#निष्प्रतीप, प्रातीपिक#} . 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Fürsten, des Vaters von <is>Śāṃtanu</is> 
-<ls>MBH. 1, 3749. fg. 3797. 13, 7683.</ls> 
+<ls>MBH. 1, 3749. fg.</ls> <ls n="MBH. 1,">3797.</ls> <ls n="MBH.">13, 7683.</ls> 
 <ls>HARIV. 1819.</ls> 
 <ls>RAGH. 6, 41.</ls> 
 <ls>VP. 457.</ls> 

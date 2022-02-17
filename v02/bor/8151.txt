@@ -1,16 +1,16 @@
 <L>8151<pc>257<k1>explain<k2>explain
-<div n="lb"/>{@EXPLAIN@}¦ (v. t.): <div n="1">(1) {#व्याख्याति#} ({#ख्या,#} c. 2.) (best
-<div n="lb"/>equiv.), {%I will briefly e. these mantras:%} [{#एतान्#}]
-<div n="lb"/>{#मन्त्रान् संक्षेपतो व्याख्यास्यामः,#} Up.; </div><div n="1">(2) {#विवृणोति,#}
-<div n="lb"/>({#वृ,#} c. 5.), <div n="xe">{%the meaning e. d by sages:%}</div> <div n="xs">{#मुनिभि- #}</div> [Page258]
-<div n="lb"/>{# -र्विवृतमर्थम्,#} K. b.; </div><div n="1">(3) {#स्फुटीकरोति#} (to make
-<div n="lb"/>clear), ({%I%}) <div n="xe">{%have already e. d its meaning:%}</div> <div n="xs">{#अस्यार्थः #}
-<div n="lb"/>{# प्रागेव स्फुटीकृतः,#}</div> Sah.; </div><div n="1">(4) {#स्पष्टीकरोति#} (3),
-<div n="lb"/><div n="xe">{%this has been e. ed in another Smriti:%}</div> <div n="xs">{#स्पष्टीकृत-#}
-<div n="lb"/>{#श्चायमर्थः स्मृत्यन्तरे,#}</div> Mit.; </div><div n="1">(5) {#विशदीकरोति#} (= 3):
-<div n="lb"/><div n="xe">{%let me e. the aphorisms:%}</div> <div n="xs">{#कारिकावलीं विशदीकरवाणि,#}</div>
-<div n="lb"/>Par.; </div><div n="1">(6) {#व्याकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#कुरुते#}</div> ({#कृ,#} c. 8.), <div n="xe">{%shew%}
-<div n="lb"/>{%the bow, the gentle Rāma will e.:%}</div> <div n="xs">{#कार्मुकं दर्शय, #}
-<div n="lb"/>{# रामभद्र एव व्याकरोतु,#}</div> An.; </div><div n="1">(7) {#व्याचष्टे#} ({#चक्ष,#} c.
-<div n="lb"/>2.), <div n="xe">{%e. s the three poems:%}</div> <div n="xs">{#काव्यत्रयं व्याचष्टे,#}</div> M. n.</div>
+{@EXPLAIN@}¦ (v. t.): <div n="1">(1) {#व्याख्याति#} ({#ख्या,#} c. 2.) (best
+equiv.), {%I will briefly e. these mantras:%} [{#एतान्#}]
+{#मन्त्रान् संक्षेपतो व्याख्यास्यामः,#} Up.; </div><div n="1">(2) {#विवृणोति,#}
+({#वृ,#} c. 5.), <div n="xe">{%the meaning e. d by sages:%}</div> <div n="xs">{#मुनिभि- #}</div> [Page258]
+{# -र्विवृतमर्थम्,#} K. b.; </div><div n="1">(3) {#स्फुटीकरोति#} (to make
+clear), ({%I%}) <div n="xe">{%have already e. d its meaning:%}</div> <div n="xs">{#अस्यार्थः #}
+{# प्रागेव स्फुटीकृतः,#}</div> Sah.; </div><div n="1">(4) {#स्पष्टीकरोति#} (3),
+<div n="xe">{%this has been e. ed in another Smriti:%}</div> <div n="xs">{#स्पष्टीकृत-#}
+{#श्चायमर्थः स्मृत्यन्तरे,#}</div> Mit.; </div><div n="1">(5) {#विशदीकरोति#} (= 3):
+<div n="xe">{%let me e. the aphorisms:%}</div> <div n="xs">{#कारिकावलीं विशदीकरवाणि,#}</div>
+Par.; </div><div n="1">(6) {#व्याकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#कुरुते#}</div> ({#कृ,#} c. 8.), <div n="xe">{%shew%}
+{%the bow, the gentle Rāma will e.:%}</div> <div n="xs">{#कार्मुकं दर्शय, #}
+{# रामभद्र एव व्याकरोतु,#}</div> An.; </div><div n="1">(7) {#व्याचष्टे#} ({#चक्ष,#} c.
+2.), <div n="xe">{%e. s the three poems:%}</div> <div n="xs">{#काव्यत्रयं व्याचष्टे,#}</div> M. n.</div>
 <LEND>

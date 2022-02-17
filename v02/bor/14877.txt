@@ -1,4 +1,4 @@
 <L>14877<pc>454<k1>momentarily<k2>momentarily
-<div n="lb"/>{@MOMENTARILY:@}¦ <div n="1">(1) {#अनुक्षणम्;#} </div><div n="1">(2) {#प्रतिक्षणम्;#}</div>
-<div n="lb"/><div n="1">(3) {#प्रतिमुहूर्तम्।#}</div>
+{@MOMENTARILY:@}¦ <div n="1">(1) {#अनुक्षणम्;#} </div><div n="1">(2) {#प्रतिक्षणम्;#}</div>
+<div n="1">(3) {#प्रतिमुहूर्तम्।#}</div>
 <LEND>

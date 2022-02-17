@@ -1,4 +1,4 @@
 <L>392<pc>015<k1>affectionately<k2>affectionately
-<div n="lb"/>{@AFFECTIONATELY:@}¦ <div n="1">(1) {#स्निग्धभ्;#} </div><div n="1">(2) {#सानुरागम्;#}</div>
-<div n="lb"/><div n="1">(3) {#प्रीत्या।#}</div>
+{@AFFECTIONATELY:@}¦ <div n="1">(1) {#स्निग्धभ्;#} </div><div n="1">(2) {#सानुरागम्;#}</div>
+<div n="1">(3) {#प्रीत्या।#}</div>
 <LEND>

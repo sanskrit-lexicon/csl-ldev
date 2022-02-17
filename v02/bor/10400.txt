@@ -1,8 +1,8 @@
 <L>10400<pc>328<k1>guardian<k2>guardian
-<div n="lb"/>{@GUARDIAN:@}¦ <div n="I">I Protector: q.v.: </div><div n="1">(1) {#रक्षकः;#}</div>
-<div n="lb"/><div n="1">(2) {#रक्षितृ#} (m.); </div><div n="1">(3) {#गोप्तृ#} (m.); </div><div n="1">(4) {#गोपायकः,#}
-<div n="lb"/><div n="xe">{%of the g. s of the three worlds:%}</div> <div n="xs">{#गोपायकानां भुवनत्रयस्य,#}</div>
-<div n="lb"/>Ki. </div><div n="I">II Of a minor or female: {#रक्षकः,#} {%the%}
-<div n="lb"/>{%husband is the g. of a married woman%} (lit. in
-<div n="lb"/>youth): {#भर्ता रक्षति यौवने,#} H.</div>
+{@GUARDIAN:@}¦ <div n="I">I Protector: q.v.: </div><div n="1">(1) {#रक्षकः;#}</div>
+<div n="1">(2) {#रक्षितृ#} (m.); </div><div n="1">(3) {#गोप्तृ#} (m.); </div><div n="1">(4) {#गोपायकः,#}
+<div n="xe">{%of the g. s of the three worlds:%}</div> <div n="xs">{#गोपायकानां भुवनत्रयस्य,#}</div>
+Ki. </div><div n="I">II Of a minor or female: {#रक्षकः,#} {%the%}
+{%husband is the g. of a married woman%} (lit. in
+youth): {#भर्ता रक्षति यौवने,#} H.</div>
 <LEND>

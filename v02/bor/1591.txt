@@ -1,4 +1,4 @@
 <L>1591<pc>056<k1>baptism<k2>baptism
-<div n="lb"/>{@BAPTISM:@}¦ {#*अभिषेकः,#} <div n="xe">{%a certificate of b.%}</div> <div n="xs">{#*अभिषेक-#}
-<div n="lb"/>{#निदर्शनम्।#}</div>
+{@BAPTISM:@}¦ {#*अभिषेकः,#} <div n="xe">{%a certificate of b.%}</div> <div n="xs">{#*अभिषेक-#}
+{#निदर्शनम्।#}</div>
 <LEND>

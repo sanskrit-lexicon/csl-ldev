@@ -26,7 +26,7 @@
 <ls>PAÑCAT. 182, 24.</ls> {#कालविद्#} 
 <ls>R. 4, 32, 13.</ls> {#कालं गच्छति#} {%er gelangt zum Endpunkt%} (beim coitus) 
 <ls>CHĀND. UP. 2, 13, 1.</ls> {%die zu Etwas bestimmte —, geeignete Zeit%}; die Ergänz. im gen., dat., loc., im comp. vorang., im inf. oder im potent. mit {#यद्#} 
-<ls>?(P. 3, 3, 167. 168):</ls> {#संप्रतिष्ठामहे कालः प्रस्थानस्य#} 
+(<ls>P. 3, 3, 167. 168</ls>): {#संप्रतिष्ठामहे कालः प्रस्थानस्य#} 
 <ls>R. 2, 56, 2.</ls> {#तस्य कालो ऽयमागतः#} {%dazu ist jetzt die Zeit gekommen%} 
 <ls>VIŚV. 12, 9.</ls> {#एष द्वैधीभावस्य कालः#} 
 <ls>PAÑCAT. 155, 9. 143, 12.</ls> 
@@ -73,7 +73,7 @@
 <ls>VIKR. 20.</ls> {#षष्ठान्नकाल#} {%der nur die sechste Esszeit hat%} d. i. {%der 5 Mahlzeiten vorübergehen lässt und erst am Abend des 3ten Tages seine Mahlzeit hält%}; davon nom. abstr. {#षष्ठान्नकालता#} 
 <ls>M. 11, 200.</ls> Gewöhnlich mit Weglassung von {#अन्न#} {%Speise%}: {#चतुर्थकालम्#} {%zur vierten Esszeit%} d. i. {%am Abend des zweiten Tages%} 
 <ls>109.</ls> {#षष्ठे काले#} {%am Abend des dritten Tages%} 
-<ls>MBH. 13, 5175. 14, 1663. 1665.</ls> {#कदाचिद्द्वादशे काले कदाचिदपि षोडशे । आहारमकरोद्राजा मूलानि च फलानि च ॥#} 
+<ls>MBH. 13, 5175.</ls> <ls n="MBH.">14, 1663.</ls> <ls n="MBH. 14,">1665.</ls> {#कदाचिद्द्वादशे काले कदाचिदपि षोडशे । आहारमकरोद्राजा मूलानि च फलानि च ॥#} 
 <ls>1, 8118.</ls> Vgl. {#चतुर्थकालिक#} und {#अष्टमकालिक#} adjj. {%der erst am Abend des zweiten%} und {%vierten Tages seine Mahlzeit hält%} 
 <ls>M. 6, 19.</ls> {#ऋतुकाल#} {%die Zeit der monatlichen Reinigung%} 
 <ls>NIR. 1, 19.</ls> 
@@ -154,8 +154,8 @@
 <ls>PAÑCAT. II, 21.</ls> {#उपेत्य मुनिवेषो ऽथ कालः प्रोवाच राघवम्#} 
 <ls>RAGH. 15, 92.</ls> {#पितॄणां (पतिं) सर्वनिधनं कालं वैश्वानरं प्रभुम्#} 
 <ls>HARIV. 12492.</ls> {#कालायाः कालकल्पस्तु गणः परमदारुणः#} 
-<ls>12465.</ls> {#प्रह्रादस्तु - युयुधे सह कालेन रणे काल इव स्थितः#} 
-<ls>13191.</ls> {#(निवातकवचाः) कालरूपाः#} 
+<ls n="HARIV.">12465.</ls> {#प्रह्रादस्तु - युयुधे सह कालेन रणे काल इव स्थितः#} 
+<ls n="HARIV.">13191.</ls> {#(निवातकवचाः) कालरूपाः#} 
 <ls>MBH. 3, 12107.</ls> 
 <ls>ARJ. 7, 5.</ls> {#स्वं रूपं कालरूपाभं भेजे वैश्रवणानुजः#} 
 <ls>R. 3, 55, 3.</ls> {#कालरूपिन्#} 
@@ -189,9 +189,9 @@
 [Page2-0251]
 <is>Devarṣi</is> in <is>Indra's</is> {#सभा#} 
 <ls>295.</ls> <is>Kāla</is> ein Sohn <is>Dhruva's</is>, {%des Polarsterns%}: {#ध्रुवस्य पुत्रो भगवान्कालो लोकप्रकालनः#} (vgl. oben 
-<ls>HARIV. 374) 1, 2585.</ls> <ls>HARIV. 154.</ls> <ls>VP. 120.</ls> {#काल = माठर#} im Gefolge des Sonnengottes 
+<ls>HARIV. 374</ls>) <ls n="MBH.">1, 2585.</ls> <ls>HARIV. 154.</ls> <ls>VP. 120.</ls> {#काल = माठर#} im Gefolge des Sonnengottes 
 <ls>VYĀḌI</ls> zu <ls>H. 103.</ls> 
-<div n="1">— 4) {%Zeitalter, Weltalter%} (=  {#युग): तूर्ये काले#} 
+<div n="1">— 4) {%Zeitalter, Weltalter%} (= {#युग): तूर्ये काले#} 
 <ls>RĀJA-TAR. 5, 73.</ls> 
 <div n="1">— 5) {%Zeit%} so v. a. {%Zeitmaass; Prosodie%}: {#एकादशिद्वादशिनोर्लघावष्टममक्षरम् (प्लबते) । उदये संहिताकाले#} 
 <ls>ṚV. PRĀT. 8, 21.</ls> {#ह्रस्वो दीर्घः प्लुत इति कालतो नियमा ऋचि#} 

@@ -1,4 +1,4 @@
 <L>433<pc>017<k1>after-noon<k2>after-noon
-<div n="lb"/>{@AFTER-NOON@}¦ (subs): <div n="1">(1) {#पराह्णः;#} </div><div n="1">(2) {#उपराह्णः;#}</div>
-<div n="lb"/><div n="1">(3) {#वैकालः।#}</div>
+{@AFTER-NOON@}¦ (subs): <div n="1">(1) {#पराह्णः;#} </div><div n="1">(2) {#उपराह्णः;#}</div>
+<div n="1">(3) {#वैकालः।#}</div>
 <LEND>

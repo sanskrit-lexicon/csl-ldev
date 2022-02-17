@@ -1,13 +1,13 @@
 <L>14446<pc>443<k1>memory<k2>memory
-<div n="lb"/>{@MEMORY:@}¦ <div n="I">I The faculty: </div><div n="1">(1) {#स्मृतिः,#} <div n="xe">{%to cover%}
-<div n="lb"/>{%the m.:%}</div> <div n="xs">{#स्मृतिमारोहति,#}</div> N. ii. 44.; </div><div n="1">(2) {#मेधा#}
-<div n="lb"/>(= retentive m.), <div n="xe">{%is very skilful and has a%}
-<div n="lb"/>{%good m.:%}</div> <div n="xs">{#परमनिपुणा मेधाविनी च,#}</div> Mal. Ph.:
-<div n="lb"/><div n="xe">{%committed to m.:%}</div> <div n="xs">{#कण्ठस्थ#}</div> (f. {#स्था#}), Bha.; <div n="xe">{%to%}
-<div n="lb"/>{%consign to m.:%}</div> <div n="xs">{#हृदये निदधाति,#}</div> <ls>N.</ls> </div><div n="I">II. Remem-
-<div n="lb"/>-brance: q. v.: {#स्मृतिः,#} <div n="xe">{%held in the m.:%}</div> <div n="xs">{#स्मृति-#}
-<div n="lb"/>{#धृतः#}</div> ({#ता, तं#}), N. v. 134.; <div n="xe">{%loss of m.:%}</div> <div n="xs">{#स्मृति-#}
-<div n="lb"/>{#लोपः,#}</div> Sa. vii. </div><div n="I">III The time that can be
-<div n="lb"/>remembered: {#स्मार्तकालः,#} {%within, beyond m.:%}
-<div n="lb"/>{#स्मार्ते, अस्मार्ते काले,#} Mi.</div>
+{@MEMORY:@}¦ <div n="I">I The faculty: </div><div n="1">(1) {#स्मृतिः,#} <div n="xe">{%to cover%}
+{%the m.:%}</div> <div n="xs">{#स्मृतिमारोहति,#}</div> N. ii. 44.; </div><div n="1">(2) {#मेधा#}
+(= retentive m.), <div n="xe">{%is very skilful and has a%}
+{%good m.:%}</div> <div n="xs">{#परमनिपुणा मेधाविनी च,#}</div> Mal. Ph.:
+<div n="xe">{%committed to m.:%}</div> <div n="xs">{#कण्ठस्थ#}</div> (f. {#स्था#}), Bha.; <div n="xe">{%to%}
+{%consign to m.:%}</div> <div n="xs">{#हृदये निदधाति,#}</div> <ls>N.</ls> </div><div n="I">II. Remem-
+-brance: q. v.: {#स्मृतिः,#} <div n="xe">{%held in the m.:%}</div> <div n="xs">{#स्मृति-#}
+{#धृतः#}</div> ({#ता, तं#}), N. v. 134.; <div n="xe">{%loss of m.:%}</div> <div n="xs">{#स्मृति-#}
+{#लोपः,#}</div> Sa. vii. </div><div n="I">III The time that can be
+remembered: {#स्मार्तकालः,#} {%within, beyond m.:%}
+{#स्मार्ते, अस्मार्ते काले,#} Mi.</div>
 <LEND>

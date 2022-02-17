@@ -1,4 +1,4 @@
 <L>23340<pc>733<k1>unhappily<k2>unhappily
-<div n="lb"/>{@UNHAPPILY:@}¦ <div n="I">I Unfortunately: q. v.: {#दुर्दैवात्।#}</div>
-<div n="lb"/><div n="I">II Miserably: q. v.</div>
+{@UNHAPPILY:@}¦ <div n="I">I Unfortunately: q. v.: {#दुर्दैवात्।#}</div>
+<div n="I">II Miserably: q. v.</div>
 <LEND>

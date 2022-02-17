@@ -1,5 +1,5 @@
 <L>13873<pc>427<k1>luck<k2>luck
-<div n="lb"/>{@LUCK:@}¦ <div n="I">I Chance, accident: q. v.: {#दैवम्।#}</div>
-<div n="lb"/><div n="I">II Fortune: q. v.: {#दैवम्।#} Ph.: <div n="xe">{%I wish your%}
-<div n="lb"/>{%good l.:%}</div> <div n="xs">{#शुभमस्तु भवतः।#}</div></div>
+{@LUCK:@}¦ <div n="I">I Chance, accident: q. v.: {#दैवम्।#}</div>
+<div n="I">II Fortune: q. v.: {#दैवम्।#} Ph.: <div n="xe">{%I wish your%}
+{%good l.:%}</div> <div n="xs">{#शुभमस्तु भवतः।#}</div></div>
 <LEND>

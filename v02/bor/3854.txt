@@ -1,5 +1,5 @@
 <L>3854<pc>126<k1>close<k2>close
-<div n="lb"/>{@CLOSE@}¦ (subs.): <div n="I">I An enclosure: q. v.: {#वृतिः।#} </div><div n="I">II
-<div n="lb"/>End, termination: q. v.: {#अवसानम्,#} <div n="xe">{%c. of the%}
-<div n="lb"/>{%day:%}</div> <div n="xs">{#दिवावसानम्,#}</div> R. </div><div n="I">III Junction: q. v.</div>
+{@CLOSE@}¦ (subs.): <div n="I">I An enclosure: q. v.: {#वृतिः।#} </div><div n="I">II
+End, termination: q. v.: {#अवसानम्,#} <div n="xe">{%c. of the%}
+{%day:%}</div> <div n="xs">{#दिवावसानम्,#}</div> R. </div><div n="I">III Junction: q. v.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>4062<pc>132<k1>come after<k2>come after
-<div n="lb"/>{@COME AFTER:@}¦ <div n="I">I To go after, follow: q. v.:
-<div n="lb"/>{#अनुगच्छति#} ({#गम्,#} c. l). </div><div n="I">II To come for: Ph.:
-<div n="lb"/><div n="xe">{%he came after a book:%}</div> <div n="xs">{#*स पुस्तकार्थमाजगाम।#}</div></div>
+{@COME AFTER:@}¦ <div n="I">I To go after, follow: q. v.:
+{#अनुगच्छति#} ({#गम्,#} c. l). </div><div n="I">II To come for: Ph.:
+<div n="xe">{%he came after a book:%}</div> <div n="xs">{#*स पुस्तकार्थमाजगाम।#}</div></div>
 <LEND>

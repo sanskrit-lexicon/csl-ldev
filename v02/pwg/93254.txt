@@ -28,7 +28,7 @@
 <ls>47, 17.</ls> {#तडिद्रसनैर्विशालैः#} 
 <ls>24, 13.</ls> {#विद्युत्कुटिलविशाला#} 
 <ls>33, 5.</ls> {#यूप#} 
-<ls>TS. 2, 1, 8, 5.</ls> Baum u.s.w. <ls>MBH. 13, 4862. 14, 1329.</ls> <ls>HIT. 9, 3. 80, 14.</ls> <ls>BHĀG. P. 8, 2, 19.</ls> {#मूल#} 
+<ls>TS. 2, 1, 8, 5.</ls> Baum u.s.w. <ls>MBH. 13, 4862.</ls> <ls n="MBH.">14, 1329.</ls> <ls>HIT. 9, 3. 80, 14.</ls> <ls>BHĀG. P. 8, 2, 19.</ls> {#मूल#} 
 <ls>HARIV. 3612.</ls> 
 <ls>SUŚR. 1, 63, 12.</ls> {#नौ#} 
 <ls>BHĀG. P. 8, 24, 33.</ls> {#वर्मन्#} 
@@ -48,13 +48,13 @@
 <ls>SUŚR. 1, 15, 10.</ls> {#बल#} {%Armee%} 
 <ls>RĀJA-TAR. 8, 1624.</ls> {#छन्दस्#} 
 <ls>VS. 14, 9.</ls> {#कुल, वंश#} {%grosses, vornehmes Geschlecht%} 
-<ls>Spr. (II) 1466. 1734. (I) 2637.</ls> <ls>KĀM. NĪTIS. 1, 2.</ls> {#तृष्णा#} 
+<ls>Spr. (II) 1466.</ls> <ls n="Spr. (II)">1734.</ls> <ls n="Spr.">(I) 2637.</ls> <ls>KĀM. NĪTIS. 1, 2.</ls> {#तृष्णा#} 
 <ls>Spr. 1946 (II). 2722.</ls> {#बुद्धिरविशाला#} 
 <ls>KĪCAKAVADHA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 117.</ls> Am Ende eines comp. {%voll von%}: {#सत्त्व°, रजो°, तमो°#} 
 <ls>SĀṂKHYAK. 54.</ls> {#विशालम्#} adv. 
 <ls>PAÑCAV. BR. 12, 13, 11.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%ein best. Thier%} {#(मृग)#} . 
+<div n="2"> a) {%ein best. Thier%} ({#मृग#}) . 
 <div n="2">— b) {%ein best. Vogel%} 
 <ls>MED.</ls> 
 <div n="2">— c) {%eine best. Pflanze%} 
@@ -65,8 +65,8 @@
 <div n="2">— e) N. pr. des Vaters des <is>Mahidāsa</is> <is>Aitareya</is> 
 <ls>COLEBR. Misc. Ess. I, 46</ls> ({#विशल#} gedr.). eines Sohnes des <is>Ikṣvāku</is> und Gründers der Stadt <is>Viśālā</is> (<is>Vaiśālī</is>) 
 <ls>R. 1, 47, 12. fg.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 46, 10. 12. 48, 14.fg.</ls> Sohn <is>Tṛṇabindu's</is> 
+
+<ls>R. GORR. 1, 46, 10. 12. 48, 14.fg.</ls> Sohn <is>Tṛṇabindu's</is> 
 <ls>VP. 353.</ls> 
 <ls>BHĀG. P. 9, 2, 33.</ls> Fürst von <is>Vaidiśa</is> 
 <ls>MĀRK. P. 70, 4. 123, 20. 124, 20. 125, 4.</ls> ein <is>Asura</is> 
@@ -82,12 +82,12 @@
 <ls>SUŚR. 2, 65, 3. 77, 14.</ls> {%Basella cordifolia Lam.%} und = {#महेन्द्रवारुणी#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) N. pr. eines Flusses und einer daran gelegenen Einsiedelei, nach den Comm. = {#बदरी#} 
-<ls>MBH. 9, 2189. 12, 13390. 13, 1730.</ls> 
+<ls>MBH. 9, 2189.</ls> <ls n="MBH.">12, 13390.</ls> <ls n="MBH.">13, 1730.</ls> 
 <ls>R. 1, 61, 3.</ls> 
 <ls>BHĀG. P. 4, 12, 16. 5, 4, 5. 11, 29, 47.</ls> 
 <div n="2">— c) ein N. der Stadt <is>Ujjayinī</is> (auch N. pr. einer anderen Stadt; s. 
 <ls>UJJVAL. a. a. O.</ls>) <ls>TRIK. 2, 1, 16.</ls> <ls>H. 976.</ls> <ls>MED.</ls> <ls>R. 1, 45, 9. fgg. 47, 13</ls> ({#वैशाली#} 
-<ls>GORR.</ls><ls>?). MEGH. 31. KATHĀS. 95, 3. 104, 22.</ls> 
+<ls>GORR.</ls>). <ls>MEGH. 31.</ls> <ls>KATHĀS. 95, 3. 104, 22.</ls> 
 <div n="2">— d) N. pr. einer Gattin <is>Ajamīḍha's</is> 
 <ls>MBH. 1, 3790.</ls> einer Tochter <is>Dakṣa's</is> und Gattin <is>Ariṣṭanemi's</is> 
 <ls>GĀRUḌA-P. 6</ls> im <ls>ŚKDR.</ls> 

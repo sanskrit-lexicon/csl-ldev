@@ -1,5 +1,5 @@
 <L>11124<pc>349<k1>homicide<k2>homicide
-<div n="lb"/>{@HOMICIDE:@}¦ <div n="I">I The deed: {#नृहत्या#} and sim.
-<div n="lb"/>comp.s.: v. Murder. </div><div n="I">II The slayer:</div>
-<div n="lb"/><div n="1">(1) {#नरहत्याकारिन्#} (f. {#णी#}); </div><div n="1">(2) {#मनुष्यघातिन्#} (f. {#नी#}).</div>
+{@HOMICIDE:@}¦ <div n="I">I The deed: {#नृहत्या#} and sim.
+comp.s.: v. Murder. </div><div n="I">II The slayer:</div>
+<div n="1">(1) {#नरहत्याकारिन्#} (f. {#णी#}); </div><div n="1">(2) {#मनुष्यघातिन्#} (f. {#नी#}).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>9548<pc>303<k1>fund<k2>fund
-<div n="lb"/>{@FUND@}¦ (subs.): <div n="I">I Stock, capital: q.v.: {#सार-#}
-<div n="lb"/>{#धनम्।#} </div><div n="I">II A store, supply: {#कोषः,#} <div n="xe">{%“an inex-%}
-<div n="lb"/>{%haustible f. of stories”:%}</div> <div n="xs">{#अक्षय्यकथाकोपः।#}</div> </div><div n="I">III In pl.,
-<div n="lb"/><div n="xe">{%public f. s:%}</div> <div n="xs">{#*राजर्णम्; राष्ट्रर्णम्।#}</div> Ph.: {%sinking f.:%}
-<div n="lb"/>{#*शोधनमूलम्।#}</div>
+{@FUND@}¦ (subs.): <div n="I">I Stock, capital: q.v.: {#सार-#}
+{#धनम्।#} </div><div n="I">II A store, supply: {#कोषः,#} <div n="xe">{%“an inex-%}
+{%haustible f. of stories”:%}</div> <div n="xs">{#अक्षय्यकथाकोपः।#}</div> </div><div n="I">III In pl.,
+<div n="xe">{%public f. s:%}</div> <div n="xs">{#*राजर्णम्; राष्ट्रर्णम्।#}</div> Ph.: {%sinking f.:%}
+{#*शोधनमूलम्।#}</div>
 <LEND>

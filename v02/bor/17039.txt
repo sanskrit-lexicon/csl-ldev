@@ -1,9 +1,9 @@
 <L>17039<pc>521<k1>pile<k2>pile
-<div n="lb"/>{@PILE@}¦ (subs.): <div n="I">I A heap: q. v.: {#राशिः।#} </div><div n="I">II
-<div n="lb"/>Funeral: {#चिता#} (rarely {#चित्या#} and {#चितिः#}),
-<div n="lb"/><div n="xe">{%make a p., I will follow my lord:%}</div> <div n="xs">{#विरचय #}
-<div n="lb"/>{# चितामनुसरामि जीवितेश्वरम्,#}</div> K.; <div n="xe">{%make a p. for%}
-<div n="lb"/>{%me:%}</div> <div n="xs">{#कुरु मे चिताम्,#}</div> Ku. iv. 35. </div><div n="I">III Edifice:
-<div n="lb"/>q. v.: {#हर्भ्यम्।#} </div><div n="I">IV A timber: {#स्थूणा।#} V. Hair:
-<div n="lb"/>{#बालः।#}</div>
+{@PILE@}¦ (subs.): <div n="I">I A heap: q. v.: {#राशिः।#} </div><div n="I">II
+Funeral: {#चिता#} (rarely {#चित्या#} and {#चितिः#}),
+<div n="xe">{%make a p., I will follow my lord:%}</div> <div n="xs">{#विरचय #}
+{# चितामनुसरामि जीवितेश्वरम्,#}</div> K.; <div n="xe">{%make a p. for%}
+{%me:%}</div> <div n="xs">{#कुरु मे चिताम्,#}</div> Ku. iv. 35. </div><div n="I">III Edifice:
+q. v.: {#हर्भ्यम्।#} </div><div n="I">IV A timber: {#स्थूणा।#} V. Hair:
+{#बालः।#}</div>
 <LEND>

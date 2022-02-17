@@ -1,4 +1,4 @@
 <L>22368<pc>705<k1>testament<k2>testament
-<div n="lb"/>{@TESTAMENT:@}¦ <div n="I">I A will: {#*इच्छापत्रम।#} </div><div n="I">II Of
-<div n="lb"/>the Bible: {#संहिता,#} <div n="xe">{%old:%}</div> <div n="xs">{#प्राचीनसंहिता।#}</div></div>
+{@TESTAMENT:@}¦ <div n="I">I A will: {#*इच्छापत्रम।#} </div><div n="I">II Of
+the Bible: {#संहिता,#} <div n="xe">{%old:%}</div> <div n="xs">{#प्राचीनसंहिता।#}</div></div>
 <LEND>

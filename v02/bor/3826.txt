@@ -1,8 +1,8 @@
 <L>3826<pc>125<k1>climber<k2>climber
-<div n="lb"/>{@CLIMBER:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#भारोहिन्#} <div n="xe">{%or%}</div> <div n="xs">{#अधिरोहिन्#}</div>
-<div n="lb"/>(f. {#णी#}); </div><div n="1">(2) {#आरोढ्ट#} (f. {#ढ्री#}). </div><div n="I">II A climbing
-<div n="lb"/>plant: </div><div n="1">(1) {#व्रतती;#} </div><div n="1">(2) {#वल्लरी।#} The supporting
-<div n="lb"/>tree on which a climber rises: </div><div n="1">(1) {#संश्रयद्रुमः,#}
-<div n="lb"/>Ku.; </div><div n="1">(2) {#उपध्नतरुः,#} R. </div><div n="I">III A climbing bird:
-<div n="lb"/>{#आरोहिन्#} (f. {#णी#}).</div>
+{@CLIMBER:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#भारोहिन्#} <div n="xe">{%or%}</div> <div n="xs">{#अधिरोहिन्#}</div>
+(f. {#णी#}); </div><div n="1">(2) {#आरोढ्ट#} (f. {#ढ्री#}). </div><div n="I">II A climbing
+plant: </div><div n="1">(1) {#व्रतती;#} </div><div n="1">(2) {#वल्लरी।#} The supporting
+tree on which a climber rises: </div><div n="1">(1) {#संश्रयद्रुमः,#}
+Ku.; </div><div n="1">(2) {#उपध्नतरुः,#} R. </div><div n="I">III A climbing bird:
+{#आरोहिन्#} (f. {#णी#}).</div>
 <LEND>

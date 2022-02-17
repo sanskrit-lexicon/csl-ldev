@@ -1,6 +1,6 @@
 <L>17276<pc>529<k1>plural<k2>plural
-<div n="lb"/>{@PLURAL:@}¦ {#बहुवचनम्,#} {%this%} ({%word%}) {%is generally p.:%}
-<div n="lb"/>{#अयं प्रायेण बहुवचनान्तः,#} S. k.; ({%the words%}) {#दार, #}
-<div n="lb"/>{# लाज,#} <div n="xe">{%and%}</div> <div n="xs">{#असु#}</div> {%are%} ({%used in%}) <div n="xe">{%the p.:%}</div> <div n="xs">{#दारलाजासूनां #}
-<div n="lb"/>{# बहुत्वम्,#}</div> S. k.
+{@PLURAL:@}¦ {#बहुवचनम्,#} {%this%} ({%word%}) {%is generally p.:%}
+{#अयं प्रायेण बहुवचनान्तः,#} S. k.; ({%the words%}) {#दार, #}
+{# लाज,#} <div n="xe">{%and%}</div> <div n="xs">{#असु#}</div> {%are%} ({%used in%}) <div n="xe">{%the p.:%}</div> <div n="xs">{#दारलाजासूनां #}
+{# बहुत्वम्,#}</div> S. k.
 <LEND>

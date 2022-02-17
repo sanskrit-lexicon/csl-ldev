@@ -24,8 +24,8 @@
 <ls>R. 2, 31, 36.</ls> 
 <ls>KATHĀS. 40, 47. 42, 89.</ls> im gen.: {#भक्तो ऽसि मे सखा च#} 
 <ls>BHAG. 4, 3. 9, 31.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 109, 10. 6, 97, 17.</ls> {#ते पुत्रा ये पितुर्भक्ताः#} 
+
+<ls>R. GORR. 2, 109, 10. 6, 97, 17.</ls> {#ते पुत्रा ये पितुर्भक्ताः#} 
 <ls>Spr. 1059.</ls> {#पाषण्डानां नास्तिकानां च भक्तः (राजा)#} 
 <ls>VARĀH. BṚH. S. 46, 76.</ls> {#भक्ता सा हि मम#} 
 <ls>KATHĀS. 50, 126. 32, 190.</ls> im acc.: {#भक्ता नारायणं देवम्#} 
@@ -40,7 +40,7 @@
 <ls>Spr. 4708.</ls> {#अभक्त#} 
 <ls>1976. 5156.</ls> Vgl. {#एक°#} . 
 <div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) Bez. einer <is>Śiva</is>itischen Secte {%(die Frommen)%} 
+<div n="2"> a) Bez. einer <is>Śiva</is>itischen Secte ({%die Frommen%}) 
 <ls>Verz. d. Oxf. H. 248,a,7.</ls> Vgl. 2. {#भाक्त#} . 
 <div n="2">— b) Bez. einer <is>Viṣṇu</is>itischen Secte 
 <ls>Verz. d. Oxf. H. 248,a,14.</ls> Vgl. 2. {#भाक्त#} . 
@@ -56,7 +56,7 @@
 <ls>P. 6, 2, 71.</ls> 
 <ls>M. 7, 127.</ls> {#यस्य त्रैवार्षिकं भक्तं पर्याप्तं भृत्यवृत्तये#} 
 <ls>11, 7.</ls> {#भक्तं च वेतनं च#} 
-<ls>MBH. 2, 182. fg. 186.</ls> 
+<ls>MBH. 2, 182. fg.</ls> <ls n="MBH. 2,">186.</ls> 
 <ls>YĀJÑ. 2, 182. 276.</ls> 
 <ls>SUŚR. 1, 122, 7. 2, 38, 6. 165, 4.</ls> 
 <ls>Spr. 3363. 4647.</ls> {#°द#} 

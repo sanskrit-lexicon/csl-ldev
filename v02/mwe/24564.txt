@@ -1,13 +1,13 @@
 <L>24564<pc>659-a<k1>reading<k2>reading
-<div n="lb"/>READING¦, {%s.%} (Act of reading, perusal) {#अध्ययनं, पठनं, पाठः -ठनं,#}
-<div n="lb"/>{#अधीतिः#} {%f.,%} {#अध्यायः, अध्ययः, प्राध्ययनं, निपाठः, निपठः, पठिः#} {%f.,%} {#नि-#}
-<div n="lb"/>{#पठितिः#} {%f.,%} {#अधिगमः -मनं;#} ‘reading through,’ {#पारायणं, पारगमनं;#}
-<div n="lb"/>‘reading to one's self,’ {#स्वाध्यायः, स्वाध्ययनं;#} ‘ignorant of
-<div n="lb"/>reading and writing,’ {#अलिपिज्ञः#}. — (Reading out, causing
-<div n="lb"/>to be heard) {#वाचनं, अनुवाचनं, श्रावणं#}. — (Committing to
-<div n="lb"/>memory upon reading) {#पाठः, अभ्यासः#}. — (Suspension of read-
-<div n="lb"/>ing) {#अनध्यायः;#} ‘day on which it is suspended,’ {#अनध्याय-#}
-<div n="lb"/>{#दिवसः#}. — (Matter read) {#अध्ययनं, पाठः#}. — (Variation in reading,
-<div n="lb"/>in a copy or edition) {#पाठान्तरं, पाठभेदः, द्विरूपपाठः, द्विरूपः,#}
-<div n="lb"/>{#पाठः;#} ‘false reading,’ {#अपपाठः#}.
+READING¦, {%s.%} (Act of reading, perusal) {#अध्ययनं, पठनं, पाठः -ठनं,#}
+{#अधीतिः#} {%f.,%} {#अध्यायः, अध्ययः, प्राध्ययनं, निपाठः, निपठः, पठिः#} {%f.,%} {#नि-#}
+{#पठितिः#} {%f.,%} {#अधिगमः -मनं;#} ‘reading through,’ {#पारायणं, पारगमनं;#}
+‘reading to one's self,’ {#स्वाध्यायः, स्वाध्ययनं;#} ‘ignorant of
+reading and writing,’ {#अलिपिज्ञः#}. — (Reading out, causing
+to be heard) {#वाचनं, अनुवाचनं, श्रावणं#}. — (Committing to
+memory upon reading) {#पाठः, अभ्यासः#}. — (Suspension of read-
+ing) {#अनध्यायः;#} ‘day on which it is suspended,’ {#अनध्याय-#}
+{#दिवसः#}. — (Matter read) {#अध्ययनं, पाठः#}. — (Variation in reading,
+in a copy or edition) {#पाठान्तरं, पाठभेदः, द्विरूपपाठः, द्विरूपः,#}
+{#पाठः;#} ‘false reading,’ {#अपपाठः#}.
 <LEND>

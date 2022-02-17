@@ -1,7 +1,7 @@
 <L>6238<pc>200<k1>disable<k2>disable
-<div n="lb"/>{@DISABLE@}¦ (v.): {#अवसादयति#} (c. of {#सद्#}), <div n="xe">{%of d. d%}
-<div n="lb"/>{%sight:%}</div> <div n="xs">{#अवसन्नदृश्#}</div> (mfn.), R.: v. To weaken,
-<div n="lb"/>unfit. Ph.: {%an outcaste is d. d from inheri-%}
-<div n="lb"/>{%tance,%} ({%funeral%}) <div n="xe">{%cake and water:%}</div> <div n="xs">{#अपपात्रितस्य #}
-<div n="lb"/>{# रिक्थपिण्डोदकानि निवर्तन्ते,#}</div> Sha.
+{@DISABLE@}¦ (v.): {#अवसादयति#} (c. of {#सद्#}), <div n="xe">{%of d. d%}
+{%sight:%}</div> <div n="xs">{#अवसन्नदृश्#}</div> (mfn.), R.: v. To weaken,
+unfit. Ph.: {%an outcaste is d. d from inheri-%}
+{%tance,%} ({%funeral%}) <div n="xe">{%cake and water:%}</div> <div n="xs">{#अपपात्रितस्य #}
+{# रिक्थपिण्डोदकानि निवर्तन्ते,#}</div> Sha.
 <LEND>

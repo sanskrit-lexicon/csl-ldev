@@ -1,6 +1,6 @@
 <L>19925<pc>519-a<k1>mover<k2>mover
-<div n="lb"/>MOVER¦, {%s.%} (That which gives motion) {#चालकः, सारकः, सञ्चारकः#}.
-<div n="lb"/> — (That which moves) {#चरः, चलः, चलनः#}. — (Proposer)
-<div n="lb"/>{#उपन्यासकृत्, कर्त्तव्योपन्यासकृत्, कर्त्तव्योपस्थापकः#}. — (One who impels
-<div n="lb"/>to action) {#प्रवर्त्तयिता#} {%m.%} {#(तृ), प्रवर्त्तकः, प्रयोजकः, प्रेरकः#}.
+MOVER¦, {%s.%} (That which gives motion) {#चालकः, सारकः, सञ्चारकः#}.
+ — (That which moves) {#चरः, चलः, चलनः#}. — (Proposer)
+{#उपन्यासकृत्, कर्त्तव्योपन्यासकृत्, कर्त्तव्योपस्थापकः#}. — (One who impels
+to action) {#प्रवर्त्तयिता#} {%m.%} {#(तृ), प्रवर्त्तकः, प्रयोजकः, प्रेरकः#}.
 <LEND>

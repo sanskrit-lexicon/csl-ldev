@@ -1,5 +1,5 @@
 <L>2032<pc>071<k1>bigamist<k2>bigamist
-<div n="lb"/>{@BIGAMIST:@}¦ <div n="I">I The man: </div><div n="1">(1) {#द्विभार्यः;#} </div><div n="1">(2)
-<div n="lb"/>{#द्विपत्नीकः।#} </div><div n="I">II The woman {#*द्विभर्तृका; वर्तमाने #}
-<div n="lb"/>{# पत्यौ या स्त्री पुनर्विवाहं करोति।#}</div>
+{@BIGAMIST:@}¦ <div n="I">I The man: </div><div n="1">(1) {#द्विभार्यः;#} </div><div n="1">(2)
+{#द्विपत्नीकः।#} </div><div n="I">II The woman {#*द्विभर्तृका; वर्तमाने #}
+{# पत्यौ या स्त्री पुनर्विवाहं करोति।#}</div>
 <LEND>

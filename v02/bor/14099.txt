@@ -1,6 +1,6 @@
 <L>14099<pc>433<k1>manage<k2>manage
-<div n="lb"/>{@MANAGE:@}¦ <div n="I">I To administer: {#निर्वाहयति#} (c.
-<div n="lb"/>of {#वह्#}). </div><div n="I">II To direct, control: </div><div n="1">(1) {#विनयति#}
-<div n="lb"/>({#नी,#} c. 1 (?); </div><div n="1">(2) {#चालयति#} (c. of {#चल्#}) (?).</div>
-<div n="lb"/><div n="I">III To train: {#विनयति।#}</div>
+{@MANAGE:@}¦ <div n="I">I To administer: {#निर्वाहयति#} (c.
+of {#वह्#}). </div><div n="I">II To direct, control: </div><div n="1">(1) {#विनयति#}
+({#नी,#} c. 1 (?); </div><div n="1">(2) {#चालयति#} (c. of {#चल्#}) (?).</div>
+<div n="I">III To train: {#विनयति।#}</div>
 <LEND>

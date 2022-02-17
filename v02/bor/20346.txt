@@ -1,3 +1,3 @@
 <L>20346<pc>636<k1>shed<k2>shed
-<div n="lb"/>{@SHED@}¦ (subs.): {#शाला,#} <div n="xe">{%cow-s.:%}</div> <div n="xs">{#गोशाला#}</div> <div n="xe">{%or%}</div> <div n="xs">{#गोष्ठम्।#}</div>
+{@SHED@}¦ (subs.): {#शाला,#} <div n="xe">{%cow-s.:%}</div> <div n="xs">{#गोशाला#}</div> <div n="xe">{%or%}</div> <div n="xs">{#गोष्ठम्।#}</div>
 <LEND>

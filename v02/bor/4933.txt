@@ -1,10 +1,10 @@
 <L>4933<pc>159<k1>courtesy<k2>courtesy
-<div n="lb"/>{@COURTESY:@}¦ <div n="I">I Courteousness: </div><div n="1">(1) {#दाक्षिण्यम्,#} <div n="xe">{%by%}
-<div n="lb"/>{%her politeness, c., and affability:%}</div> <div n="xs">{#तस्या विनयेन #}
-<div n="lb"/>{# दाक्षिण्येन मधुरालापितया।#}</div> K.; </div><div n="1">(2) {#विनयः;#} </div><div n="1">(3)
-<div n="lb"/>{#प्रश्रयः,#} <div n="xe">{%accepted with c.:%}</div> <div n="xs">{#सप्रश्रयं प्रतिजग्राह,#}</div> K.;</div>
-<div n="lb"/><div n="1">(4) {#सौजन्यम्।#} {%c., agreeable as free from arrogance:%}
-<div n="lb"/>{#अपगताभिमानमधुरा सुजनता।#} K. </div><div n="I">II An act of c.:
-<div n="lb"/>{#उपचारः,#} <div n="xe">{%by c. s to the invited ladies:%}</div> <div n="xs">{#उपचारेण #}
-<div n="lb"/>{# निमन्त्रितस्त्रीषु,#}</div> C. </div><div n="I">III A bow: {#प्रणामः,#} R. vi. 25.</div>
+{@COURTESY:@}¦ <div n="I">I Courteousness: </div><div n="1">(1) {#दाक्षिण्यम्,#} <div n="xe">{%by%}
+{%her politeness, c., and affability:%}</div> <div n="xs">{#तस्या विनयेन #}
+{# दाक्षिण्येन मधुरालापितया।#}</div> K.; </div><div n="1">(2) {#विनयः;#} </div><div n="1">(3)
+{#प्रश्रयः,#} <div n="xe">{%accepted with c.:%}</div> <div n="xs">{#सप्रश्रयं प्रतिजग्राह,#}</div> K.;</div>
+<div n="1">(4) {#सौजन्यम्।#} {%c., agreeable as free from arrogance:%}
+{#अपगताभिमानमधुरा सुजनता।#} K. </div><div n="I">II An act of c.:
+{#उपचारः,#} <div n="xe">{%by c. s to the invited ladies:%}</div> <div n="xs">{#उपचारेण #}
+{# निमन्त्रितस्त्रीषु,#}</div> C. </div><div n="I">III A bow: {#प्रणामः,#} R. vi. 25.</div>
 <LEND>

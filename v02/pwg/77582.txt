@@ -8,9 +8,9 @@
 <ls>985.</ls> <ls>KATHĀS. 58, 73.</ls> 
 <div n="1">— 4) am Ende, {#भस्मसान्नीतः#} 
 <ls>MBH. 15, 951.</ls> 
-<ls>HARIV. 3662. 5950.</ls> 
+<ls>HARIV. 3662.</ls> <ls n="HARIV.">5950.</ls> 
 <div n="1">— 12) {#अन्यथा#} {%anders auslegen%} 
-<ls>LA. (II) 91, 7. - Z. 3</ls> vom Schluss, die ed. Bomb. liest 
+<ls>LA. (II) 91, 7.</ls> - Z. 3 vom Schluss, die ed. Bomb. liest 
 <ls>MBH. 7, 9557</ls> {#भेत्तुं#} st. {#नेतुं#} .
 
 <div n="p">— {#अनु#} 
@@ -27,7 +27,7 @@
 <ls>BHĀG. P. 10, 85, 32.</ls> 
 <div n="1">— 5) {#मित्राणि शत्रुत्वमिवानयन्ती मित्रत्वमप्यर्थवशाच्च शत्रून्#} 
 <ls>Spr. 4722.</ls> — caus. 
-<ls>LA. (II) 91, 12. Z. 5</ls> die ed. Bomb. 
+<ls>LA. (II) 91, 12.</ls> Z. 5 die ed. Bomb. 
 <ls>R. 2, 14, 21</ls> {#आनाययितुम्#}; 
 <ls>GILD.</ls> in <ls>LA. (III) 102, N.</ls>: {#आनापितुं#} (wohl Druckfehler für {#आनापयितुं)#} lectio est codicum, qui 
 <ls>RAGHUNĀTHAM</ls> sequuntur; libri scholiis 
@@ -38,7 +38,7 @@
 <div n="1"> 1) {#मधुपर्कमुपानीय#} 
 <ls>BHĀG. P. 10, 53, 33.</ls> 
 <div n="1">— 2) 
-<ls>?Z. 3. fg. NĪLAK. zu MBH. 5, 1339</ls> : {#असतो दुष्टस्य सत्त्वं साधुत्वं असतः मृषार्थस्य सत्त्वं सत्यत्वं वा उपानयीत समर्थयते#} .
+Z. 3. fg. <ls>NĪLAK.</ls> zu <ls>MBH. 5, 1339</ls> : {#असतो दुष्टस्य सत्त्वं साधुत्वं असतः मृषार्थस्य सत्त्वं सत्यत्वं वा उपानयीत समर्थयते#} .
 
 <div n="p">— {#प्रत्या#} 
 <div n="1"> 1) {#°नय सुरेन्द्रस्य त्रैलोक्यमिदमव्ययम्#} {%wiederverschaffen%} 
@@ -70,7 +70,7 @@
 
 <div n="p">— {#परि#} 
 <div n="1"> 2) {#परिणीतभर्तर्#} 
-<ls>VET.</ls> in <ls>LA. (II) 19, 12. 21, 16</ls> scheint {%den nur angetrauten Gatten, der seine Frau noch nicht heimgeführt hat%}, zu bezeichnen. 
+<ls>VET. in LA. (II) 19, 12. 21, 16</ls> scheint {%den nur angetrauten Gatten, der seine Frau noch nicht heimgeführt hat%}, zu bezeichnen. 
 <ls>UTTARARĀMAC. 29, 15 (39, 3)</ls> fasst der 
 <ls>Schol.</ls> {#परिणीतम्#} als nom. act. {%Heirath.%} — 
 <ls>Z. 15</ls> des Artikels ist 
@@ -82,7 +82,7 @@
 <div n="p">— {#प्र#} 
 <div n="1"> 2) 
 <ls>Sp. 278, Z. 6</ls> füge hinzu: {#प्रणीता आपो मन्त्रसंस्कृता आहवनीयस्योत्तरतो निहिताः#} Comm. zu 
-<ls>ĀŚV. ŚR. 1, 1, 4.</ls> {#प्रणीत#} heisst {%eine Begehung, bei welcher kein geweihtes Wasser%} {#(प्रणीताः)#} {%gebraucht wird%}, 
+<ls>ĀŚV. ŚR. 1, 1, 4.</ls> {#प्रणीत#} heisst {%eine Begehung, bei welcher kein geweihtes Wasser%} ({#प्रणीताः#}) {%gebraucht wird%}, 
 <ls>ĀŚV. ŚR. 1, 1, 5.</ls> <ls>Z. 8 lies 11, 2, 6, 1 st. 11, 26, 1.</ls> 
 <div n="1">— 6) {#न लङ्घयति को ऽपि विधिप्रणीतम्#} {%was das Schicksal bestimmt hat%} 
 <ls>Spr. 3655.</ls> {#नैतद्धि सम्यक्कविभिः प्रणीतम्#} {%gelehrt, ausgesprochen%} 
@@ -93,7 +93,7 @@
 <ls>127, 8. 129, 1.</ls>
 
 <div n="p">— {#वि#} 
-<div n="1"> 1) {%verscheuchen%} {#(शोकम्)#}, 
+<div n="1"> 1) {%verscheuchen%} ({#शोकम्#}), 
 <div n="1"> 6) {%lenken%} und 
 <div n="1"> 7) {%unterrichten, unterweisen%} 
 <ls>R. 7, 52, 13.</ls>

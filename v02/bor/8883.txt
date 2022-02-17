@@ -1,4 +1,4 @@
 <L>8883<pc>281<k1>flagging<k2>flagging
-<div n="lb"/>{@FLAGGING:@}¦ <div n="I">I A pavement: {#समशिला भूमिः#} (?).</div>
-<div n="lb"/><div n="I">II Flags: {#समशिला#} (?).</div>
+{@FLAGGING:@}¦ <div n="I">I A pavement: {#समशिला भूमिः#} (?).</div>
+<div n="I">II Flags: {#समशिला#} (?).</div>
 <LEND>

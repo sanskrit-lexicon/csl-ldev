@@ -1,5 +1,5 @@
 <L>1049<pc>037<k1>ardour<k2>ardour
-<div n="lb"/>{@ARDOUR:@}¦ <div n="I">I Heat: q. v. {#उत्तापः।#} </div><div n="I">II Warmth,
-<div n="lb"/>eagerness: {#उत्साहः;#} <div n="xe">{%with a.%}</div> <div n="xs">{#सोत्साहं।#}</div> Ph. <div n="xe">{%the%}
-<div n="lb"/>{%a. of his love%}</div> <div n="xs">{#तस्य निरतिशयानुरागः।#}</div></div>
+{@ARDOUR:@}¦ <div n="I">I Heat: q. v. {#उत्तापः।#} </div><div n="I">II Warmth,
+eagerness: {#उत्साहः;#} <div n="xe">{%with a.%}</div> <div n="xs">{#सोत्साहं।#}</div> Ph. <div n="xe">{%the%}
+{%a. of his love%}</div> <div n="xs">{#तस्य निरतिशयानुरागः।#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>8053<pc>255<k1>exempt<k2>exempt
-<div n="lb"/>{@EXEMPT@}¦ (adj.): expr. by {#निर्#} <div n="xe">{%or%}</div> <div n="xs">{#वीत#}</div> pref. d,
-<div n="lb"/><div n="xe">{%e. from birth and decrepitude:%}</div> <div n="xs">{#वीतजन्मजरस्#}</div> (mfn.),
-<div n="lb"/>Ki. v. 22.: v. Free from, devoid of.
+{@EXEMPT@}¦ (adj.): expr. by {#निर्#} <div n="xe">{%or%}</div> <div n="xs">{#वीत#}</div> pref. d,
+<div n="xe">{%e. from birth and decrepitude:%}</div> <div n="xs">{#वीतजन्मजरस्#}</div> (mfn.),
+Ki. v. 22.: v. Free from, devoid of.
 <LEND>

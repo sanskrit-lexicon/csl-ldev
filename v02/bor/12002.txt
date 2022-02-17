@@ -1,4 +1,4 @@
 <L>12002<pc>374<k1>indeterminate<k2>indeterminate
-<div n="lb"/>{@INDETERMINATE:@}¦ v. Indefinite. Ph.: <div n="xe">{%i. equa-%}
-<div n="lb"/>{%tion:%}</div> <div n="xs">{#*बहुफलसमीकरणम्।#}</div>
+{@INDETERMINATE:@}¦ v. Indefinite. Ph.: <div n="xe">{%i. equa-%}
+{%tion:%}</div> <div n="xs">{#*बहुफलसमीकरणम्।#}</div>
 <LEND>

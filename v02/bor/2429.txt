@@ -1,5 +1,5 @@
 <L>2429<pc>083<k1>bowels<k2>bowels
-<div n="lb"/>{@BOWELS:@}¦ <div n="I">I The intestines: {#अन्त्राणि#} (n. pl.).</div>
-<div n="lb"/><div n="I">II The interior of any thing, {#गर्भः।#} </div><div n="I">III
-<div n="lb"/>Fig., compassion, pity: q. v.</div>
+{@BOWELS:@}¦ <div n="I">I The intestines: {#अन्त्राणि#} (n. pl.).</div>
+<div n="I">II The interior of any thing, {#गर्भः।#} </div><div n="I">III
+Fig., compassion, pity: q. v.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>59021<pc>5-0658<k1>महाशङ्ख<k2>महाशङ्ख
-{#महाशङ्ख#}¦ {#(म° + शङ्ख)#} 
+{#महाशङ्ख#}¦ ({#म° + शङ्ख#}) 
 <div n="1"> 1) <lex>m.</lex> {%eine grosse Muschel%} 
 <ls>MBH. 2, 65.</ls> 
 <ls>BHAG. 1, 15.</ls> 
@@ -9,7 +9,7 @@
 <ls>H. an. 4, 44.</ls> 
 <ls>MED.</ls> 
 <div n="1">— 3) <lex>m.</lex> {%eine best. hohe Zahl%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>?= 10</ls> <is>Nikharva</is> 
+<ls>H. an.</ls> <ls>MED.</ls> = <ls>10</ls> <is>Nikharva</is> 
 <ls>ŚKDR.</ls> 
 <div n="1">— 4) <lex>m.</lex> {%ein best. Schatz%} 
 <ls>H. an.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> 

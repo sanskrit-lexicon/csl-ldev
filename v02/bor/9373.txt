@@ -1,8 +1,8 @@
 <L>9373<pc>297<k1>free from<k2>free from
-<div n="lb"/>{@FREE FROM:@}¦ <div n="1">(1) by {#निर्#} <div n="xe">{%or%}</div> <div n="xs">{#अ#}</div> pref., {%f. f. all care:%}
-<div n="lb"/>{#निश्चिन्तः#} ({#न्ता, न्तं#}), <div n="xe">{%f. f. debt:%}</div> <div n="xs">{#अनृणः#}</div> ({#णा, णं#});</div>
-<div n="lb"/><div n="1">(2) {#गतः, विगतः, वीतः,#} etc. pref., <div n="xe">{%f. f. desire:%}</div> <div n="xs">{#गत-#}
-<div n="lb"/>{#स्पृहः#}</div> ({#हा, हं#}), Si.; </div><div n="1">(3) {#वर्जितः#} ({#ता, तं#}), {#वि-,#} {%f.%}
-<div n="lb"/><div n="xe">{%f. the possession of pride:%}</div> <div n="xs">{#स्मयावेशविवर्जितः#}</div> ({#ता, तं#}),
-<div n="lb"/>R.: v. Also devoid of.</div>
+{@FREE FROM:@}¦ <div n="1">(1) by {#निर्#} <div n="xe">{%or%}</div> <div n="xs">{#अ#}</div> pref., {%f. f. all care:%}
+{#निश्चिन्तः#} ({#न्ता, न्तं#}), <div n="xe">{%f. f. debt:%}</div> <div n="xs">{#अनृणः#}</div> ({#णा, णं#});</div>
+<div n="1">(2) {#गतः, विगतः, वीतः,#} etc. pref., <div n="xe">{%f. f. desire:%}</div> <div n="xs">{#गत-#}
+{#स्पृहः#}</div> ({#हा, हं#}), Si.; </div><div n="1">(3) {#वर्जितः#} ({#ता, तं#}), {#वि-,#} {%f.%}
+<div n="xe">{%f. the possession of pride:%}</div> <div n="xs">{#स्मयावेशविवर्जितः#}</div> ({#ता, तं#}),
+R.: v. Also devoid of.</div>
 <LEND>

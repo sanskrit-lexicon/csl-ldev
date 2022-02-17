@@ -1,9 +1,9 @@
 <L>1901<pc>066<k1>bemoan<k2>bemoan
-<div n="lb"/>{@BEMOAN@}¦ (v. t.): <div n="1">(1) {#वि- लपति#} ({#लप्,#} c. l.), <div n="xe">{%b. s.%}
-<div n="lb"/>{%the loss of his son%}</div> <div n="xs">{#पुत्रशोकेन विलपति;#}</div> <div n="xe">{%b. s. the%}
-<div n="lb"/>{%death of his brother%}</div> <div n="xs">{#भ्रातृमरणात् विलपति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भातृ-#}
-<div n="lb"/>{#मरणशोकेन विलपति;#}</div> </div><div n="1">(2) {#अनुशोचति#} ({#शुच्,#} c. l.)
-<div n="lb"/>(rare) <div n="xe">{%I b. my fate%}</div> <div n="xs">{#भाग्यमनुशोचामि;#}</div> </div><div n="1">(3) {#परिदेवयति#}
-<div n="lb"/>({#देव्,#} c. 10.) (rare) v. To lament, bewail. N.B.
-<div n="lb"/>Observe that only </div><div n="1">(2) takes a direct object.</div>
+{@BEMOAN@}¦ (v. t.): <div n="1">(1) {#वि- लपति#} ({#लप्,#} c. l.), <div n="xe">{%b. s.%}
+{%the loss of his son%}</div> <div n="xs">{#पुत्रशोकेन विलपति;#}</div> <div n="xe">{%b. s. the%}
+{%death of his brother%}</div> <div n="xs">{#भ्रातृमरणात् विलपति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भातृ-#}
+{#मरणशोकेन विलपति;#}</div> </div><div n="1">(2) {#अनुशोचति#} ({#शुच्,#} c. l.)
+(rare) <div n="xe">{%I b. my fate%}</div> <div n="xs">{#भाग्यमनुशोचामि;#}</div> </div><div n="1">(3) {#परिदेवयति#}
+({#देव्,#} c. 10.) (rare) v. To lament, bewail. N.B.
+Observe that only </div><div n="1">(2) takes a direct object.</div>
 <LEND>

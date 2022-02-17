@@ -1,5 +1,5 @@
 <L>16042<pc>494<k1>ounce<k2>ounce
-<div n="lb"/>{@OUNCE:@}¦ <div n="I">I A weight = {#टङ्कद्वयम्#} (in Troy
-<div n="lb"/>weight); = {#पणार्द्धम्#} (of gold, silver, etc.).</div>
-<div n="lb"/><div n="I">II An animal: {#द्वीपिन्#} (m.).</div>
+{@OUNCE:@}¦ <div n="I">I A weight = {#टङ्कद्वयम्#} (in Troy
+weight); = {#पणार्द्धम्#} (of gold, silver, etc.).</div>
+<div n="I">II An animal: {#द्वीपिन्#} (m.).</div>
 <LEND>

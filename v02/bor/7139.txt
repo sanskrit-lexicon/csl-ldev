@@ -1,15 +1,15 @@
 <L>7139<pc>226<k1>ear<k2>ear
-<div n="lb"/>{@EAR@}¦ (subs.): <div n="I">I Of animals: </div><div n="1">(1) {#कर्णः,#} <div n="xe">{%to come%}
-<div n="lb"/>{%to one's e.s:%}</div> <div n="xs">{#कर्णपथम् आयाति,#}</div> Sa.; {%to shut the e.:%}
-<div n="lb"/>{#कर्णौ पिदधाति,#} M.; <div n="xe">{%to lend an e.:%}</div> <div n="xs">{#कर्णं ददाति,#}</div>
-<div n="lb"/>Sa.; <div n="xe">{%to whisper into one's e:%}</div> <div n="xs">{#कर्णे कथयति,#}</div> Mu.;
-<div n="lb"/>{%the boring of the e. s%} (a religious ceremony)
-<div n="lb"/>{#कर्णवेधः;#} <div n="xe">{%the root of an e.:%}</div> <div n="xs">{#कर्णमूलम्,#}</div> R., <div n="xe">{%or%}</div> <div n="xs">{#कर्णान्तः।#}</div>
-<div n="lb"/>R., <div n="xe">{%or%}</div> <div n="xs">{#कर्णजाहम्,#}</div> B.; <div n="xe">{%the middle e. or drum of the%}
-<div n="lb"/>{%e.:%}</div> <div n="xs">{#कर्णकूपः,#}</div> N.; </div><div n="1">(2) {#श्रोत्रम्,#} <div n="xe">{%e. -enchanting:%}</div> <div n="xs">{#श्रोत्र-#}
-<div n="lb"/>{#हारिन्#}</div> (f. {#णी#}), K.; </div><div n="1">(3) {#श्रुतिः,#} <div n="xe">{%being of the same%}
-<div n="lb"/>{%name to the e.:%}</div> <div n="xs">{#श्रुतेः सनाम्नः,#}</div> Mu. Ph.: <div n="xe">{%the tip%}
-<div n="lb"/>{%of an e.:%}</div> <div n="xs">{#पालिः;#}</div> <div n="xe">{%the outer e.:%}</div> <div n="xs">{#शष्कुली,#}</div> C. s. [Page227]</div>
-<div n="lb"/><div n="I">II Of other objects: perh. {#कर्णः।#} </div><div n="I">III Of
-<div n="lb"/>corn: </div><div n="1">(1) {#कणिश#} (mn.); </div><div n="1">(2) {#शस्यमञ्जरी।#}</div>
+{@EAR@}¦ (subs.): <div n="I">I Of animals: </div><div n="1">(1) {#कर्णः,#} <div n="xe">{%to come%}
+{%to one's e.s:%}</div> <div n="xs">{#कर्णपथम् आयाति,#}</div> Sa.; {%to shut the e.:%}
+{#कर्णौ पिदधाति,#} M.; <div n="xe">{%to lend an e.:%}</div> <div n="xs">{#कर्णं ददाति,#}</div>
+Sa.; <div n="xe">{%to whisper into one's e:%}</div> <div n="xs">{#कर्णे कथयति,#}</div> Mu.;
+{%the boring of the e. s%} (a religious ceremony)
+{#कर्णवेधः;#} <div n="xe">{%the root of an e.:%}</div> <div n="xs">{#कर्णमूलम्,#}</div> R., <div n="xe">{%or%}</div> <div n="xs">{#कर्णान्तः।#}</div>
+R., <div n="xe">{%or%}</div> <div n="xs">{#कर्णजाहम्,#}</div> B.; <div n="xe">{%the middle e. or drum of the%}
+{%e.:%}</div> <div n="xs">{#कर्णकूपः,#}</div> N.; </div><div n="1">(2) {#श्रोत्रम्,#} <div n="xe">{%e. -enchanting:%}</div> <div n="xs">{#श्रोत्र-#}
+{#हारिन्#}</div> (f. {#णी#}), K.; </div><div n="1">(3) {#श्रुतिः,#} <div n="xe">{%being of the same%}
+{%name to the e.:%}</div> <div n="xs">{#श्रुतेः सनाम्नः,#}</div> Mu. Ph.: <div n="xe">{%the tip%}
+{%of an e.:%}</div> <div n="xs">{#पालिः;#}</div> <div n="xe">{%the outer e.:%}</div> <div n="xs">{#शष्कुली,#}</div> C. s. [Page227]</div>
+<div n="I">II Of other objects: perh. {#कर्णः।#} </div><div n="I">III Of
+corn: </div><div n="1">(1) {#कणिश#} (mn.); </div><div n="1">(2) {#शस्यमञ्जरी।#}</div>
 <LEND>

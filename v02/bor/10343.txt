@@ -1,4 +1,4 @@
 <L>10343<pc>326<k1>grossly<k2>grossly
-<div n="lb"/>{@GROSSLY:@}¦ <div n="I">I Greatly: {#भृशम्।#} </div><div n="I">II Indecently:
-<div n="lb"/>{#अश्लीलम्।#}</div>
+{@GROSSLY:@}¦ <div n="I">I Greatly: {#भृशम्।#} </div><div n="I">II Indecently:
+{#अश्लीलम्।#}</div>
 <LEND>

@@ -36,7 +36,7 @@
 <ls>N. 16, 13.</ls> 
 <ls>R. 3, 28, 19. 58, 25.</ls> 
 <ls>PRAB. 95, 1.</ls> 
-<ls>VET.</ls> in <ls>LA. 5, 9.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 186, 14.</ls> {#नेत्र#} 
+<ls>VET. in LA. 5, 9.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 186, 14.</ls> {#नेत्र#} 
 <ls>DHŪRTAS. 91, 14.</ls> {#पक्ष्मन्#} 
 <ls>BHARTṚ. 1, 59.</ls> {#मूर्धजाः#} 
 <ls>VARĀH. BṚH. S. 74, 4.</ls> 
@@ -68,9 +68,9 @@
 <ls>MED.</ls> 
 <div n="2">— f) N. pr. eines Mannes <is>gaṇa</is> {#तिकादि#} zu 
 <ls>P. 4, 1, 154.</ls> Fürst von <is>Māhiṣmati</is> 
-<ls>MBH. 1, 2697. 6990. 2, 1124. 3, 15250. 5, 79. 592.</ls> {#अनूपाधिपतिश्चैव नीलः#} 
+<ls>MBH. 1, 2697.</ls> <ls n="MBH. 1,">6990.</ls> <ls n="MBH.">2, 1124.</ls> <ls n="MBH.">3, 15250.</ls> <ls n="MBH.">5, 79.</ls> <ls n="MBH. 5,">592.</ls> {#अनूपाधिपतिश्चैव नीलः#} 
 <ls>6, 4153.</ls> <ls>HARIV. 8019.</ls> {#नीलं चापि नदीसुतम्#} 8098. ein Sohn <is>Yadu's</is> 
-<ls>?1843. VP. 416, N. 2. <is>Ajamīḍha's</is> 453. BHĀG. P. 9, 21, 30. <is>Bhuvanarāja's</is> RĀJA-TAR. 7, 253. - LIA. II, 955. fg.</ls> Geschichtschreiber von <is>Kāśmīra</is> 
+<ls n="HARIV.">1843.</ls> <ls>VP. 416, N. 2.</ls> <is>Ajamīḍha's</is> <ls>453.</ls> <ls>BHĀG. P. 9, 21, 30.</ls> <is>Bhuvanarāja's</is> <ls>RĀJA-TAR. 7, 253.</ls> - <ls>LIA. II, 955. fg.</ls> Geschichtschreiber von <is>Kāśmīra</is> 
 <ls>RĀJA-TAR. 1, 14.16.</ls>
 [Page4-0289]
 
@@ -88,8 +88,8 @@
 <ls>MED.</ls> {#अन्तरा निषधं नीलं च विदेहाः#} 
 <ls>H. 1538,</ls> 
 <ls>Sch.</ls> 
-<ls>MBH.3,12918.6,198. 247. 13,1700. 7658. 14,1174.</ls> 
-<ls>HARIV. 9736. 11447.</ls> 
+<ls>MBH. 3, 12918.</ls> <ls n="MBH.">6, 198.</ls> <ls n="MBH. 6,">247.</ls> <ls n="MBH.">13, 1700.</ls> <ls n="MBH. 13,">7658.</ls> <ls n="MBH.">14, 1174.</ls> 
+<ls>HARIV. 9736.</ls> <ls n="HARIV.">11447.</ls> 
 <ls>VP. 167. 180,</ls> 
 <ls>N. 3.</ls> 
 <ls>BHĀG. P.5,16,8. 19,16.</ls> <ls>Verz. d. Oxf. H. 148,b,16.</ls> Vgl. {#नीलाद्रि#}. 
@@ -137,8 +137,8 @@
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— g) {%eine best. Stellung beim Tanze%}, {#नृत्याङ्गाष्टोत्तरशतकरणान्तर्गतकरणविशेषः#} 
 <ls>SAṂGĪTAD.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— h) {%ein best. Metrum, 4 Mal%}  ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯  
-<ls>COLEBR. Misc. Ess. II, 162</ls> <ls>(XI, 6).</ls> Das Geschlecht ist nicht angegeben, doch ist das <lex>n.</lex> wahrscheinlicher. — Nach 
+<div n="2">— h) {%ein best. Metrum, 4 Mal%} ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ 
+<ls>COLEBR. Misc. Ess. II, 162</ls> (<ls>XI, 6).</ls> Das Geschlecht ist nicht angegeben, doch ist das <lex>n.</lex> wahrscheinlicher. — Nach 
 <ls>H. an.</ls> giebt <ls>WILSON</ls> für das <lex>n.</lex> auch die Bedeutung {%a mark, a characteristick sign%} und {%a medical plant, apparently distinct from the Indigofera.%} Beide Bedeutungen kommen aber dem <lex>f.</lex> {#नीला#} zu. Die ganze Stelle lautet: {#नीलवर्णे#} (lies {#नीलो व°) मणौ शैले निधिवानरभेदयोः । नीलौषध्यां#} (d. i. {#नीला ओ°) लाञ्छने च ॥#} 
 <div n="v">— Vgl. {#कांस्य°, काकनीला#}.
 <LEND>

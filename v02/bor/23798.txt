@@ -1,4 +1,4 @@
 <L>23798<pc>745<k1>version<k2>version
-<div n="lb"/>{@VERSION:@}¦ authorized <div n="xe">{%v.:%}</div> <div n="xs">{#*परिनिष्ठितव्यावृतिः:#}</div> v.
-<div n="lb"/>Translation.
+{@VERSION:@}¦ authorized <div n="xe">{%v.:%}</div> <div n="xs">{#*परिनिष्ठितव्यावृतिः:#}</div> v.
+Translation.
 <LEND>

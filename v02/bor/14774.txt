@@ -1,13 +1,13 @@
 <L>14774<pc>452<k1>miss<k2>miss
-<div n="lb"/>{@MISS@}¦ (v.): <div n="I">I Not to hit: </div><div n="1">(1) {#मोघीभवति#} (= be
-<div n="lb"/>frustrated: q. v.); </div><div n="1">(2) with {#न पतति#} ({#पत्,#} c.
-<div n="lb"/>1 (= not to fall). </div><div n="I">II Not to attain:
-<div n="lb"/>q. v.: {#न लभते#} ({#लभ्,#} c. 1.). </div><div n="I">III To omit, pass
-<div n="lb"/>by: expr. with {#जहाति#} ({#हा,#} c. 2.); etc. (= to
-<div n="lb"/>abandon), <div n="xe">{%to m. an opportunity:%}</div> <div n="xs">{#अवसरं जहाति#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#क्षिपति#}</div> (= throw away). </div><div n="I">IV To lose:
-<div n="lb"/>q. v. </div><div n="I">V To feel the want of: expr. by
-<div n="lb"/>circumlo., <div n="xe">{%I m. him very much:%}</div> <div n="xs">{#*तस्य विप्रयोग-#}
-<div n="lb"/>{#दुःखं नितरामनुभवामिः#}</div> v. Also anxious. </div><div n="I">VI
-<div n="lb"/>To err: q. v.</div>
+{@MISS@}¦ (v.): <div n="I">I Not to hit: </div><div n="1">(1) {#मोघीभवति#} (= be
+frustrated: q. v.); </div><div n="1">(2) with {#न पतति#} ({#पत्,#} c.
+1 (= not to fall). </div><div n="I">II Not to attain:
+q. v.: {#न लभते#} ({#लभ्,#} c. 1.). </div><div n="I">III To omit, pass
+by: expr. with {#जहाति#} ({#हा,#} c. 2.); etc. (= to
+abandon), <div n="xe">{%to m. an opportunity:%}</div> <div n="xs">{#अवसरं जहाति#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#क्षिपति#}</div> (= throw away). </div><div n="I">IV To lose:
+q. v. </div><div n="I">V To feel the want of: expr. by
+circumlo., <div n="xe">{%I m. him very much:%}</div> <div n="xs">{#*तस्य विप्रयोग-#}
+{#दुःखं नितरामनुभवामिः#}</div> v. Also anxious. </div><div n="I">VI
+To err: q. v.</div>
 <LEND>

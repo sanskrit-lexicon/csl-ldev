@@ -1,6 +1,6 @@
 <L>1313<pc>046<k1>attack<k2>attack
-<div n="lb"/>{@ATTACK@}¦ (subs): <div n="1">(1) {#आक्रमः;#} </div><div n="1">(2) {#आक्रमणम्;#} </div><div n="1">(3)
-<div n="lb"/>{#अभिक्रमः;#} </div><div n="1">(4) {#अभियोगः;#} </div><div n="1">(5) {#अभिग्रहः;#} </div><div n="1">(6)
-<div n="lb"/>{#अवस्कन्दः#} <div n="xe">{%or%}</div> <div n="xs">{#अवस्कन्दनम्#}</div> (=storming). <div n="xe">{%A. of any%}
-<div n="lb"/>{%disease:%}</div> <div n="xs">{#आक्रमः, -णम्।#}</div></div>
+{@ATTACK@}¦ (subs): <div n="1">(1) {#आक्रमः;#} </div><div n="1">(2) {#आक्रमणम्;#} </div><div n="1">(3)
+{#अभिक्रमः;#} </div><div n="1">(4) {#अभियोगः;#} </div><div n="1">(5) {#अभिग्रहः;#} </div><div n="1">(6)
+{#अवस्कन्दः#} <div n="xe">{%or%}</div> <div n="xs">{#अवस्कन्दनम्#}</div> (=storming). <div n="xe">{%A. of any%}
+{%disease:%}</div> <div n="xs">{#आक्रमः, -णम्।#}</div></div>
 <LEND>

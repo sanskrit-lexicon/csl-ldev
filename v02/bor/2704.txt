@@ -1,4 +1,4 @@
 <L>2704<pc>092<k1>buck<k2>buck
-<div n="lb"/>{@BUCK:@}¦ <div n="1">(1) {#मृगः#} (of deer); </div><div n="1">(2) {#अजः#} (of goats);</div>
-<div n="lb"/><div n="1">(3) {#शशकः#} (of hare).</div>
+{@BUCK:@}¦ <div n="1">(1) {#मृगः#} (of deer); </div><div n="1">(2) {#अजः#} (of goats);</div>
+<div n="1">(3) {#शशकः#} (of hare).</div>
 <LEND>

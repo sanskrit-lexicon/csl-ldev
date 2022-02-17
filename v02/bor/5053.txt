@@ -1,7 +1,7 @@
 <L>5053<pc>163<k1>creep<k2>creep
-<div n="lb"/>{@CREEP:@}¦ <div n="I">I To crawl: q. v. </div><div n="I">II To move
-<div n="lb"/>slowly: {#मन्दं मन्दं सर्पति#} ({#सृप्,#} c. l.). </div><div n="I">III Of
-<div n="lb"/>plants: </div><div n="1">(1) {#विसर्पति;#} </div><div n="1">(2) {#चरति#} ({#चर्,#} c. l.),
-<div n="lb"/><div n="xe">{%c. ing on the ground:%}</div> <div n="xs">{#भूचरः,#}</div> Nil. </div><div n="I">IV To fawn:
-<div n="lb"/>q. v. Ph.: <div n="xe">{%to c. into the mind:%}</div> <div n="xs">{#मनसि आविर्भवति।#}</div></div>
+{@CREEP:@}¦ <div n="I">I To crawl: q. v. </div><div n="I">II To move
+slowly: {#मन्दं मन्दं सर्पति#} ({#सृप्,#} c. l.). </div><div n="I">III Of
+plants: </div><div n="1">(1) {#विसर्पति;#} </div><div n="1">(2) {#चरति#} ({#चर्,#} c. l.),
+<div n="xe">{%c. ing on the ground:%}</div> <div n="xs">{#भूचरः,#}</div> Nil. </div><div n="I">IV To fawn:
+q. v. Ph.: <div n="xe">{%to c. into the mind:%}</div> <div n="xs">{#मनसि आविर्भवति।#}</div></div>
 <LEND>

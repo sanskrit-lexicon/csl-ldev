@@ -54,7 +54,7 @@
 <ls n="ṚV.">2, 1, 12.</ls> <ls n="ṚV. 2,">4, 8.</ls> {#इन्द्रिय#} 
 <ls n="ṚV.">8, 15, 7.</ls> <ls>VS. 38, 27.</ls> {#असुर्य#} 
 <ls>ṚV. 6, 30, 2.</ls> {#वयस्#} 
-<ls>?1, 125, 2. 136, 2 und oft.</ls> {#क्रतु#} 
+<ls>1, 125, 2. 136, 2</ls> und oft. {#क्रतु#} 
 <ls n="ṚV.">3, 52, 4.</ls> {#मद#} 
 <ls n="ṚV.">5, 43, 5.</ls> {#ऊति#} 
 <ls n="ṚV.">4, 41, 11.</ls> {#नमस्#} 
@@ -67,12 +67,12 @@
 <ls>5, 80, 1. 2. 10, 36, 1.</ls> <ls>VS. 20, 41.</ls> <is>Soma</is> 
 <ls>ŚAT. BR. 14, 5, 1, 3. <is>Vāsudeva</is></ls> 
 <ls>BHĀG. P. 9, 19, 29.</ls> {#बृहदर्हद्भगवतः#} Inschr. in Journ. of the Am. Or. 
-<ls>S. 6, 538, 2 v. u.</ls> {#यं बृहन्तं बृहत्युक्थे (गायन्ति)#} 
+<ls>S. 6, 538, 2</ls> v. u. {#यं बृहन्तं बृहत्युक्थे (गायन्ति)#} 
 <ls>MBH. 12, 1629.</ls> {#क्षोदीयान् - बृहत्सहायः#} 
 <ls>Spr. 1985.</ls> {#बृहच्छोको लोकः#} 
 <ls>3035.</ls> {#व्रतानि#} 
-<ls>BHĀG. P. 4, 22, 12. - 3, 12, 42. 6, 4, 32. 7, 15, 41.</ls> {#बृहद्वध#} {%ein an einem Grossen, Hochstehenden verübter Mord%} (=  {#ब्राह्मणवध#} 
-<ls>Schol.</ls><ls>) 6, 13, 4.</ls> {%vielfacher Mord%} 
+<ls>BHĀG. P. 4, 22, 12. - 3, 12, 42. 6, 4, 32. 7, 15, 41.</ls> {#बृहद्वध#} {%ein an einem Grossen, Hochstehenden verübter Mord%} (= {#ब्राह्मणवध#} 
+<ls>Schol.</ls>) <ls>6, 13, 4.</ls> {%vielfacher Mord%} 
 <ls>4, 29, 49.</ls> {#जरासंधो बृहद्वाक्यं बृहस्पतिरिवाददे#} {%ein grosses, bedeutendes Wort%} 
 <ls>HARIV. 5485.</ls> {#प्राह वचो बृहत्तरम्#} 
 <ls>MBH. 8, 3591.</ls> {%ausführlich%}: {#बृहत्सर्वानुक्रमणी#} 
@@ -122,7 +122,7 @@
 <ls>HARIV. 1754</ls> (wo {#बृहन्#} für {#बृहत्#} zu lesen ist). Vgl. {#बृहन्त#} . 
 <div n="1">— 4) <lex>f.</lex> {#बृहती#} 
 <div n="2"> a) N. eines best. Metrums von 36 Silben (
-<ls>?8 + 8 + 12 + 8</ls>) und später {%jedes Metrum von 36 Silben%} 
+8 + 8 + 12 + 8) und später {%jedes Metrum von 36 Silben%} 
 <ls>AK. 3, 4. 14, 77.</ls> 
 <ls>H. an. 3, 304.</ls> 
 <ls>MED. t. 136.</ls> fg. <ls>ṚV. PRĀT. 16, 1.</ls> <ls n="ṚV. PRĀT. 16,">30.</ls> fgg. <ls>Ind. St. 8, 17</ls> u.s.w. {#बृह\स्पते^र्बृह\ती वाच^मावत्#} 
@@ -150,7 +150,7 @@
 <div n="2">— d) {%Ueberwurf, Mantel%} (vgl. {#बृहतिका)#} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— e) {%Wasserbehälter%} diess. 
-<div n="2">— f) {%Rede%} {#(वाच्)#} diess. Aus Stellen wie {#वाग्वै बृहती#} 
+<div n="2">— f) {%Rede%} ({#वाच्#}) diess. Aus Stellen wie {#वाग्वै बृहती#} 
 <ls>ŚAT. BR. 14, 4, 1, 22.</ls> 
 <ls>CHĀND. UP. 1, 2, 11</ls> gefolgert. 
 <div n="2">— g) <is>Nārada's</is> {%Laute%}, = {#महती#} 
@@ -162,7 +162,7 @@
 <div n="2">— h) Titel eines Commentars 
 <ls>HALL 180.</ls> 
 <div n="2">— i) N. pr. einer Gattin des <is>Ripu</is> 
-<ls>HARIV. 69.</ls> des <is>Gada</is> <ls>9192.</ls> des <is>Devahotra</is> 
+<ls>HARIV. 69.</ls> des <is>Gada</is> <ls n="HARIV.">9192.</ls> des <is>Devahotra</is> 
 <ls>BHĀG. P. 8, 13, 33.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) (mit oder ohne {#सामन्)#} Bez. {%eines%} <is>Sāman</is>, {%welches die metrische Form der%} <is>Bṛhatī</is> {%hat%}, 
@@ -174,7 +174,7 @@
 <ls>CHĀND. UP. 2, 14, 1. 2.</ls> {#बृहत्साम#} (so ist mit 
 <ls>MBH. 6, 1239</ls> zu lesen) {#तथा साम्नां गायत्री छन्दसामहम्#} 
 <ls>BHAG. 10,35.</ls> 
-<ls>MBH.3,14162. 12,1633. 13,4896.</ls> 
+<ls>MBH. 3, 14162.</ls> <ls n="MBH.">12, 1633.</ls> <ls n="MBH.">13, 4896.</ls> 
 <ls>VP. 42.</ls> 
 <ls>MĀRK. P. 48,32.</ls> <ls>Verz. d. Oxf. H. 56,b,29.</ls> <ls>Ind. St.3,226</ls> werden {#बृहत्, बृहदाग्नेयम्, बृहद्देवस्थानम्, बृहद्भारद्वाजम्, बृहद्रथं तरम्, बृहद्वामदेव्यं, बृहत्साम#}.{# बृहत्सौरम्#} und {#बृहतः कौमुदस्य साम#} als Namen von <is>Sāman</is> aufgeführt. 
 <div n="2">— b) {%das%} <is>Brahman</is>: {#बृहध्यायन्#} 

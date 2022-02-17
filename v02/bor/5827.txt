@@ -1,4 +1,4 @@
 <L>5827<pc>187<k1>density<k2>density
-<div n="lb"/>{@DENSITY:@}¦ <div n="1">(1) {#घनत्वम्;#} </div><div n="1">(2) {#निविडता;#} </div><div n="1">(3) {#सान्द्रता,#}
-<div n="lb"/>etc.</div>
+{@DENSITY:@}¦ <div n="1">(1) {#घनत्वम्;#} </div><div n="1">(2) {#निविडता;#} </div><div n="1">(3) {#सान्द्रता,#}
+etc.</div>
 <LEND>

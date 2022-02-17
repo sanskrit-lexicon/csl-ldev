@@ -1,12 +1,12 @@
 <L>13808<pc>219-2<k1>मर्त्य<k2>मर्त्य
 {#मर्त्य#}¦márt-ya, {%a.%} [relating to mortals], mortal; <lbinfo n="3"/>
-<> {%m.%} mortal, man; world of mortals, earth; 
-<>{%n.%} mortal coil, body: {@-tā,@} {%f.%} mortality; human <lbinfo n="2"/>
-<> condition; {@-tva,@} {%n.%} human condition; 
-<>{@-dharma,@} {%m. pl.%} laws {%or%} condition of human 
-<>life; {@-dharman,@} {%m.%} mortal, human being; 
-<>{@-bhāva,@} {%m.%} human nature; {@-bhuvana,@} {%n.%} 
-<>world of mortals, earth; {@-maṇḍala@}, {%n. id.%}; 
-<>{@-loka,@} {%m. id.%}; {@-amṛta@}, {%n.%} immortality of a 
-<>mortal.
+ {%m.%} mortal, man; world of mortals, earth; 
+{%n.%} mortal coil, body: {@-tā,@} {%f.%} mortality; human <lbinfo n="2"/>
+ condition; {@-tva,@} {%n.%} human condition; 
+{@-dharma,@} {%m. pl.%} laws {%or%} condition of human 
+life; {@-dharman,@} {%m.%} mortal, human being; 
+{@-bhāva,@} {%m.%} human nature; {@-bhuvana,@} {%n.%} 
+world of mortals, earth; {@-maṇḍala@}, {%n. id.%}; 
+{@-loka,@} {%m. id.%}; {@-amṛta@}, {%n.%} immortality of a 
+mortal.
 <LEND>

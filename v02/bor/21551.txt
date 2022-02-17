@@ -1,8 +1,8 @@
 <L>21551<pc>679<k1>store<k2>store
-<div n="lb"/>{@STORE@}¦ (v.): <div n="1">(1) {#संभरति#} ({#भृ,#} c. 1.), <div n="xe">{%s. ing money%}
-<div n="lb"/>{%for spending:%}</div> <div n="xs">{#त्यागाय संभृतार्थानाम्,#}</div> R. i. 7.; </div><div n="1">(2)
-<div n="lb"/>{#संचिनोति#} ({#चि,#} c. 5.), <div n="xe">{%how much blood have%}
-<div n="lb"/>{%you s. d up:%}</div> <div n="xs">{#अथ कियत्प्रभूतं त्वया सञ्चितं रुधिरम्,#}</div>
-<div n="lb"/>Ve. iii.; ({#हृ,#} c. 1.): v. To collect; </div><div n="1">(4)
-<div n="lb"/>{#परिपूरयति#} ({#पूर्,#} c. 10.: v. To fill up).</div>
+{@STORE@}¦ (v.): <div n="1">(1) {#संभरति#} ({#भृ,#} c. 1.), <div n="xe">{%s. ing money%}
+{%for spending:%}</div> <div n="xs">{#त्यागाय संभृतार्थानाम्,#}</div> R. i. 7.; </div><div n="1">(2)
+{#संचिनोति#} ({#चि,#} c. 5.), <div n="xe">{%how much blood have%}
+{%you s. d up:%}</div> <div n="xs">{#अथ कियत्प्रभूतं त्वया सञ्चितं रुधिरम्,#}</div>
+Ve. iii.; ({#हृ,#} c. 1.): v. To collect; </div><div n="1">(4)
+{#परिपूरयति#} ({#पूर्,#} c. 10.: v. To fill up).</div>
 <LEND>

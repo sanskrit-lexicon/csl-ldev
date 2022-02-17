@@ -1,6 +1,6 @@
 <L>2292<pc>079<k1>boil<k2>boil
-<div n="lb"/>{@BOIL@}¦ (v. t.): <div n="1">(1) {#क्वाथयति#} (c. of {#क्वथ्#}), <div n="xe">{%to b. in%}
-<div n="lb"/>{%oil%}</div> <div n="xs">{#तैलमध्ये क्वाथयति,#}</div> V. p. </div><div n="1">(2) {#पचति#} ({#पच्,#} c.
-<div n="lb"/>1) (=to cook), <div n="xe">{%much b. ed milk%}</div> <div n="xs">{#अतिपक्वं #}
-<div n="lb"/>{# दुग्धम्,#}</div> Bha.</div>
+{@BOIL@}¦ (v. t.): <div n="1">(1) {#क्वाथयति#} (c. of {#क्वथ्#}), <div n="xe">{%to b. in%}
+{%oil%}</div> <div n="xs">{#तैलमध्ये क्वाथयति,#}</div> V. p. </div><div n="1">(2) {#पचति#} ({#पच्,#} c.
+1) (=to cook), <div n="xe">{%much b. ed milk%}</div> <div n="xs">{#अतिपक्वं #}
+{# दुग्धम्,#}</div> Bha.</div>
 <LEND>

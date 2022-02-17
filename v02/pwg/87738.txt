@@ -24,9 +24,9 @@
 <ls>R. 1, 63, 9.</ls> 
 <ls>Spr. 3887.</ls> {#भुजतरु°#} 
 <ls>MEGH. 37.</ls> {#उद्यान°#} 
-<ls>VET.</ls> in <ls>LA. (III) 5, 1.</ls> Nicht nur von Bäumen, sondern auch von einjährigen Pflanzen, Rohrarten und sogar Lotusblüthen wird das Wort {#वन#} gebraucht. 
+<ls>VET. in LA. (III) 5, 1.</ls> Nicht nur von Bäumen, sondern auch von einjährigen Pflanzen, Rohrarten und sogar Lotusblüthen wird das Wort {#वन#} gebraucht. 
 <ls>P. 8, 4, 6.</ls> {#नल°#} 
-<ls>MBH. 6,4898.</ls>
+<ls>MBH. 6, 4898.</ls>
 [Page6-0667]
 {#कीचकवेणूनाम्#} 
 <ls>KATHĀS. 46, 98.</ls> {#पद्म°#} 
@@ -34,7 +34,7 @@
 <ls>RAGH. 16, 16.</ls> 
 <ls>Spr. 4173.</ls> 
 <ls>KATHĀS. 46, 169.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 51, 13.</ls> {#पङ्कज°#} 
+<ls>BRAHMA-P. in LA. (III) 51, 13.</ls> {#पङ्कज°#} 
 <ls>R. GORR. 2, 57, 5.</ls> {#उत्पल°#} 
 <ls>4, 44, 89. 91.</ls> {#कुमुद°#} 
 <ls>RAGH. 6, 86.</ls> {#नीरज°#} 
@@ -45,7 +45,7 @@
 <ls>VARĀH. BṚH. S. 43, 5.</ls> {%Menge%} überh.: {#लतागृहवनोपेता#} ({#नदी#}) 
 <ls>R. 5, 16, 28.</ls> {#लूनबाहुवन#} <lex>adj.</lex> 
 <ls>KATHĀS. 27, 143.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
-<ls>MBH. 1, 1293. 3, 16215.</ls> 
+<ls>MBH. 1, 1293.</ls> <ls n="MBH.">3, 16215.</ls> 
 <ls>R. 1, 41, 14. 2, 57, 5. 4, 2, 12.</ls> Wann im comp. das {#न#} zu {#ण#} wird 
 <ls>P. 8, 4, 4. fgg.</ls> Accent eines auf {#वन#} ausgehenden und mit einer Präp. anlautenden comp. 
 <ls>6, 2, 178. fg.</ls> {#वन#} als <lex>m.</lex> 
@@ -88,7 +88,7 @@
 <ls>RAGH. 9, 18.</ls> 
 <div n="2">— g) {%Aufenthaltsort%} 
 <ls>H. an.</ls> ({#गेह#}) und 
-<ls>MED.</ls> {#(निवास, आलय)#}.{# बहुमांसादन°#} 
+<ls>MED.</ls> ({#निवास, आलय#}).{# बहुमांसादन°#} 
 <ls>NALOD. 3, 22.</ls> 
 <div n="2">— h) {%Aufenthalt in der Fremde (im Walde?), Abwesenheit vom Hause%} ({#प्रवास#}) 
 <ls>H. an.</ls> 
@@ -103,7 +103,7 @@
 <div n="2"> a) N. pr. eines Sohnes des <is>Uśīnara</is> 
 <ls>BHĀG. P. 9, 23, 2.</ls> 
 <div n="2">— b) N. eines der zehn auf Schüler <is>Śaṃkarākārya's</is> zurückgeführten Bettelorden, dessen Mitglieder ihren Namen das Wort {#वन#} {%anfügen%} (vgl. {#रामेन्द्र°#}) 
-<ls>Verz. d. Oxf. H. 277,b,15.</ls> <ls>WILSON, Sel. Works</ls> <ls>?I,202.</ls> 
+<ls>Verz. d. Oxf. H. 277,b,15.</ls> <ls>WILSON, Sel. Works I,202.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} {%das Reibholz%} (personificirt): {#वना^ जजान सु\भगा\ विरू^पम्#} (d. i. {#अग्निम्#}) 
 <ls>ṚV. 3, 1, 13.</ls> 
 <div n="1">— 4) <lex>f.</lex> {#ई#} {%Wald%} 

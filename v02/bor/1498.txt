@@ -1,4 +1,4 @@
 <L>1498<pc>053<k1>back-slider<k2>back-slider
-<div n="lb"/>{@BACK-SLIDER:@}¦ <div n="1">(1) {#घर्मभ्रष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(2) {#घर्मच्युतः#}
-<div n="lb"/>({#ता, तं#}): v. Apostate</div>
+{@BACK-SLIDER:@}¦ <div n="1">(1) {#घर्मभ्रष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(2) {#घर्मच्युतः#}
+({#ता, तं#}): v. Apostate</div>
 <LEND>

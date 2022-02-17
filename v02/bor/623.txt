@@ -1,4 +1,4 @@
 <L>623<pc>023<k1>alphabet<k2>alphabet
-<div n="lb"/>{@ALPHABET:@}¦ {#वर्णमाला।#} {%a. ically:%} <div n="1">(1) {#वर्णक्रमेण;#}</div>
-<div n="lb"/><div n="1">(2) {#वर्णानुसारेण।#}</div>
+{@ALPHABET:@}¦ {#वर्णमाला।#} {%a. ically:%} <div n="1">(1) {#वर्णक्रमेण;#}</div>
+<div n="1">(2) {#वर्णानुसारेण।#}</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>5870<pc>188<k1>deposition<k2>deposition
-<div n="lb"/>{@DEPOSITION:@}¦ <div n="I">I The act of dethroning:
-<div n="lb"/>{#राज्यात्पातनम्#} <div n="xe">{%or%}</div> <div n="xs">{#अवरोपणम्।#}</div> </div><div n="I">II The state of
-<div n="lb"/>being dethroned: {#राज्यभ्रंशः, राज्यच्युतिः।#} </div><div n="I">III
-<div n="lb"/>Dismissal: q. v. </div><div n="I">IV Testimony: </div><div n="1">(1) {#उक्तिः#}
-<div n="lb"/>(=saying); </div><div n="1">(2) {#साक्ष्यम्#} (=evidence). V.
-<div n="lb"/>Depositing: </div><div n="1">(1) {#निक्षेपः, -णम्;#} </div><div n="1">(2) {#न्यासः#} {%or%}
-<div n="lb"/>{#न्यसनम्।#} </div><div n="I">VI Presentation: q. v.</div>
+{@DEPOSITION:@}¦ <div n="I">I The act of dethroning:
+{#राज्यात्पातनम्#} <div n="xe">{%or%}</div> <div n="xs">{#अवरोपणम्।#}</div> </div><div n="I">II The state of
+being dethroned: {#राज्यभ्रंशः, राज्यच्युतिः।#} </div><div n="I">III
+Dismissal: q. v. </div><div n="I">IV Testimony: </div><div n="1">(1) {#उक्तिः#}
+(=saying); </div><div n="1">(2) {#साक्ष्यम्#} (=evidence). V.
+Depositing: </div><div n="1">(1) {#निक्षेपः, -णम्;#} </div><div n="1">(2) {#न्यासः#} {%or%}
+{#न्यसनम्।#} </div><div n="I">VI Presentation: q. v.</div>
 <LEND>

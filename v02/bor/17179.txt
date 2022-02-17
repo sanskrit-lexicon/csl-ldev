@@ -1,5 +1,5 @@
 <L>17179<pc>525<k1>plantation<k2>plantation
-<div n="lb"/>{@PLANTATION:@}¦ <div n="I">I The act: {#रोपः, -णम्, आ-।#} </div><div n="I">II
-<div n="lb"/>The place: </div><div n="1">(1) {#क्षेत्रम्#} (= field), {%sugarcane p.:%}
-<div n="lb"/>{#इक्षुक्षेत्रम्;#} </div><div n="1">(2) {#वृक्षवाटिका#} (= garden: q. v.).</div>
+{@PLANTATION:@}¦ <div n="I">I The act: {#रोपः, -णम्, आ-।#} </div><div n="I">II
+The place: </div><div n="1">(1) {#क्षेत्रम्#} (= field), {%sugarcane p.:%}
+{#इक्षुक्षेत्रम्;#} </div><div n="1">(2) {#वृक्षवाटिका#} (= garden: q. v.).</div>
 <LEND>

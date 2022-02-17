@@ -1,9 +1,9 @@
 <L>23377<pc>734<k1>unite<k2>unite
-<div n="lb"/>{@UNITE:@}¦ <div n="I">I Trans.: </div><div n="1">(1) {#योजयति, सं-, समा-#} ({#युज्,#}
-<div n="lb"/>c. 10.): v. To join; </div><div n="1">(2) {#संहन्ति#} ({#हन्,#} c. 2:
-<div n="lb"/>as in a work), <div n="xe">{%they u dly:%}</div> <div n="xs">{#एते संहताः,#}</div> H. i.
-<div n="lb"/>36.; </div><div n="1">(3) {#संघटयति#} (c. of {#घट्#} = to couple), <div n="xe">{%to u.%}
-<div n="lb"/>{%Bhaimī with him:%}</div> <div n="xs">{#अनेन भैमीं घटयिष्यन्,#}</div> N. i. 46.</div>
-<div n="lb"/><div n="I">II Intrans.: </div><div n="1">(1) {#संयुज्यते।#} (pass. of {#युज्#});</div>
-<div n="lb"/><div n="1">(2) better by part. s.</div>
+{@UNITE:@}¦ <div n="I">I Trans.: </div><div n="1">(1) {#योजयति, सं-, समा-#} ({#युज्,#}
+c. 10.): v. To join; </div><div n="1">(2) {#संहन्ति#} ({#हन्,#} c. 2:
+as in a work), <div n="xe">{%they u dly:%}</div> <div n="xs">{#एते संहताः,#}</div> H. i.
+36.; </div><div n="1">(3) {#संघटयति#} (c. of {#घट्#} = to couple), <div n="xe">{%to u.%}
+{%Bhaimī with him:%}</div> <div n="xs">{#अनेन भैमीं घटयिष्यन्,#}</div> N. i. 46.</div>
+<div n="I">II Intrans.: </div><div n="1">(1) {#संयुज्यते।#} (pass. of {#युज्#});</div>
+<div n="1">(2) better by part. s.</div>
 <LEND>

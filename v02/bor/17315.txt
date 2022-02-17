@@ -1,13 +1,13 @@
 <L>17315<pc>530<k1>poison<k2>poison
-<div n="lb"/>{@POISON@}¦ (v.): <div n="I">I To infect with p.: {#विषेण दूषयति#}
-<div n="lb"/>(c. of {#दुष्#}) <div n="xe">{%or%}</div> <div n="xs">{#मिश्रयति#}</div> ({#मिश्र,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#देग्धि#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#दिग्धे, उप-,#}</div> ({#दिह्,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#अनक्ति, अभि-,#}</div>
-<div n="lb"/>({#अञ्ज्,#} c. 7.), <div n="xe">{%p. ed water:%}</div> <div n="xs">{#विषदूषितं पयः;#}</div> <div n="xe">{%p. ed%}
-<div n="lb"/>{%food:%}</div> <div n="xs">{#विषदिग्धमन्नम्;#}</div> <div n="xe">{%by p. ing:%}</div> <div n="xs">{#विषोपदेहात्,#}</div> Ka.
-<div n="lb"/>vii. 20-2., 16.; <div n="xe">{%p. ed medicine:%}</div> <div n="xs">{#विषचूर्णमिश्र-#}
-<div n="lb"/>{#मौषधम्,#}</div> Mu. ii. </div><div n="I">II To give p.: {#विषं ददाति#}
-<div n="lb"/>({#दा,#} c. 3: with dat.), Mah. </div><div n="I">III To kill
-<div n="lb"/>by p.: {#विषेण हन्ति#} ({#हन्,#} c. 2.), etc. <div n="xe">{%I will p.%}
-<div n="lb"/>{%myself:%}</div> <div n="xs">{#विषेणात्मानमुत्स्रक्ष्यामि,#}</div> K. </div><div n="I">IV Fig.:
-<div n="lb"/>{#नाशयति,#} (c. of {#नश्#}).</div>
+{@POISON@}¦ (v.): <div n="I">I To infect with p.: {#विषेण दूषयति#}
+(c. of {#दुष्#}) <div n="xe">{%or%}</div> <div n="xs">{#मिश्रयति#}</div> ({#मिश्र,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#देग्धि#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#दिग्धे, उप-,#}</div> ({#दिह्,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#अनक्ति, अभि-,#}</div>
+({#अञ्ज्,#} c. 7.), <div n="xe">{%p. ed water:%}</div> <div n="xs">{#विषदूषितं पयः;#}</div> <div n="xe">{%p. ed%}
+{%food:%}</div> <div n="xs">{#विषदिग्धमन्नम्;#}</div> <div n="xe">{%by p. ing:%}</div> <div n="xs">{#विषोपदेहात्,#}</div> Ka.
+vii. 20-2., 16.; <div n="xe">{%p. ed medicine:%}</div> <div n="xs">{#विषचूर्णमिश्र-#}
+{#मौषधम्,#}</div> Mu. ii. </div><div n="I">II To give p.: {#विषं ददाति#}
+({#दा,#} c. 3: with dat.), Mah. </div><div n="I">III To kill
+by p.: {#विषेण हन्ति#} ({#हन्,#} c. 2.), etc. <div n="xe">{%I will p.%}
+{%myself:%}</div> <div n="xs">{#विषेणात्मानमुत्स्रक्ष्यामि,#}</div> K. </div><div n="I">IV Fig.:
+{#नाशयति,#} (c. of {#नश्#}).</div>
 <LEND>

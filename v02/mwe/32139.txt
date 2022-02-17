@@ -1,7 +1,7 @@
 <L>32139<pc>856-a<k1>direction<k2>direction
-<div n="lb"/>DIRECTION¦, {%s.%} (Line or course in which a body moves) {#दिक्#} {%f.%}
-<div n="lb"/>({#श्#}); ‘in the direction,’ {#दिशि;#} ‘a line is straight which
-<div n="lb"/>goes in one direction, and curved which goes continually
-<div n="lb"/>in a different direction,’ {#या रेखा एकां दिशं गच्छेत् सा सरला या#}
-<div n="lb"/>{#च प्रतिपदं भिन्नदिशं गच्छेत् सा वक्रा#}.
+DIRECTION¦, {%s.%} (Line or course in which a body moves) {#दिक्#} {%f.%}
+({#श्#}); ‘in the direction,’ {#दिशि;#} ‘a line is straight which
+goes in one direction, and curved which goes continually
+in a different direction,’ {#या रेखा एकां दिशं गच्छेत् सा सरला या#}
+{#च प्रतिपदं भिन्नदिशं गच्छेत् सा वक्रा#}.
 <LEND>

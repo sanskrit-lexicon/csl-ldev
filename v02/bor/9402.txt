@@ -1,5 +1,5 @@
 <L>9402<pc>298<k1>frequency<k2>frequency
-<div n="lb"/>{@FREQUENCY:@}¦ <div n="1">(1) {#पौनःपुन्यम्;#} </div><div n="1">(2) {#अभीक्ष्णता#} {%or%}
-<div n="lb"/>{#आभीक्ष्ण्यम्;#} </div><div n="1">(3) {#समभिहारः,#} <div n="xe">{%by f. of acts:%}</div> <div n="xs">{#क्रियासमभि-#}
-<div n="lb"/>{#हारेण,#}</div> Si. ii. 43.</div>
+{@FREQUENCY:@}¦ <div n="1">(1) {#पौनःपुन्यम्;#} </div><div n="1">(2) {#अभीक्ष्णता#} {%or%}
+{#आभीक्ष्ण्यम्;#} </div><div n="1">(3) {#समभिहारः,#} <div n="xe">{%by f. of acts:%}</div> <div n="xs">{#क्रियासमभि-#}
+{#हारेण,#}</div> Si. ii. 43.</div>
 <LEND>

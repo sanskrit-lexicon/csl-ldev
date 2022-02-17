@@ -23,11 +23,11 @@ zu <ls>P. 3, 2, 180, <is>Vārtt</is>. 1.</ls> <ls>VOP. 26, 168.</ls>
 <ls>TRIK. 1, 1, 44.</ls> 
 <ls>H. 195.</ls> 
 <ls>an. 2, 312.</ls> 
-<ls>MED. bh. 8.</ls> <ls>HALĀY. 1, 11.</ls> <ls>MBH. 13, 588.</ls> <ls>HARIV. 7425. 11494.</ls> <ls>MEGH. 51. 61.</ls> <ls>Spr. (II) 164. 1399. 2154. (I) 2957. 3074.</ls> <ls>VARĀH. BṚH. S. 48, 55. 58, 43. 60, 19.</ls> <ls>KATHĀS. 4, 24. 21, 35.</ls> <ls>RĀJA-TAR. 3, 274. fg. 365.</ls> <ls>MĀRK. P. 56, 10.</ls> <ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. 4, 36.</ls> <ls>BHĀG. P. 4, 7, 60. 6, 3, 20.</ls> <ls>COLEBR. Misc. Ess. 2, 271. fg.</ls> <ls>WILSON, Sel. Works</ls> 
-<ls>1, 264.</ls> <ls>Verz. d. Oxf. H. 129</ls>, {%b%}, 
+<ls>MED. bh. 8.</ls> <ls>HALĀY. 1, 11.</ls> <ls>MBH. 13, 588.</ls> <ls>HARIV. 7425.</ls> <ls n="HARIV.">11494.</ls> <ls>MEGH. 51. 61.</ls> <ls>Spr. (II) 164.</ls> <ls n="Spr. (II)">1399.</ls> <ls n="Spr. (II)">2154.</ls> <ls n="Spr.">(I) 2957. 3074.</ls> <ls>VARĀH. BṚH. S. 48, 55. 58, 43. 60, 19.</ls> <ls>KATHĀS. 4, 24. 21, 35.</ls> <ls>RĀJA-TAR. 3, 274. fg. 365.</ls> <ls>MĀRK. P. 56, 10.</ls> <ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. 4, 36.</ls> <ls>BHĀG. P. 4, 7, 60. 6, 3, 20.</ls> <ls>COLEBR. Misc. Ess. 2, 271. fg.</ls> <ls>WILSON, Sel. Works</ls> 
+<ls>1, 264.</ls> <ls>Verz. d. Oxf. H. 129,b,</ls> 
 <ls>No. 234.</ls> 
 <div n="2">— b) N. pr. einer der 11 <is>Rudra</is> 
-<ls>MBH. 13,7091.</ls> 
+<ls>MBH. 13, 7091.</ls> 
 <ls>HARIV. 166.</ls> 
 <ls>MIT. 142,6.</ls> 
 <ls>VP.1,15,123.</ls> <ls>WEBER, RĀMAT. UP. 304. 312.</ls> <ls>Verz. d. Oxf. H. 82,b,26.</ls> 
@@ -57,14 +57,14 @@ zu <ls>P. 3, 2, 180, <is>Vārtt</is>. 1.</ls> <ls>VOP. 26, 168.</ls>
 <div n="2">— i) N. pr. eines Mannes 
 <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 58, 34.</ls> eines Sohnes des <is>Śuka</is> 
 <ls>HARIV. 981.</ls> eines Fürsten 5091 ({#शङ्कु#} die neuere Ausg.). 
-<ls>MBH. 1, 228. 13, 5668.</ls> eines Sohnes des <is>Ambarīṣa</is> 
+<ls>MBH. 1, 228.</ls> <ls n="MBH.">13, 5668.</ls> eines Sohnes des <is>Ambarīṣa</is> 
 <ls>BHĀG. P. 9, 6, 1.</ls> eines Lehrers 
 <ls>Verz. d. Oxf. H. 110,a, No. 173.</ls> eines Autors 
 <ls>270,b,51. 279,b,13. 286,a, No. 670.</ls> 
 <div n="2">— k) {%eine Art Asclepias%} ({#श्वेतार्क#}) 
 <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— i) {%ein best. Metrum: 4 Mal 25 Längen%} 
-<ls>COLEBR. Misc. Ess. 2, 164</ls> <ls>(XX, 2).</ls> 
+<ls>COLEBR. Misc. Ess. 2, 164</ls> (<ls>XX, 2).</ls> 
 <div n="1">— 3) <lex>f.</lex> {#शंभु#} N. pr. der Gattin <is>Dhruva's</is> 
 <ls>HARIV. 67.</ls> 
 <ls>VP. 1, 13, 1.</ls> 

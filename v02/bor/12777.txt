@@ -1,4 +1,4 @@
 <L>12777<pc>395<k1>iteration<k2>iteration
-<div n="lb"/>{@ITERATION:@}¦ <div n="I">I Repetition: {#पुनरुक्तिः।#} </div><div n="I">II Doing
-<div n="lb"/>again: {#पुनःक्रिया।#}</div>
+{@ITERATION:@}¦ <div n="I">I Repetition: {#पुनरुक्तिः।#} </div><div n="I">II Doing
+again: {#पुनःक्रिया।#}</div>
 <LEND>

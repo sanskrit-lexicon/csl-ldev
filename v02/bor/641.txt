@@ -1,5 +1,5 @@
 <L>641<pc>024<k1>altogether<k2>altogether
-<div n="lb"/>{@ALTOGETHER:@}¦ <div n="I">I Wholly, completely,: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#सर्वथा;#} </div><div n="1">(2) {#अशेषतः#} </div><div n="I">II Conjointly: q. v.:
-<div n="lb"/>{#समम्।#}</div>
+{@ALTOGETHER:@}¦ <div n="I">I Wholly, completely,: q. v.:</div>
+<div n="1">(1) {#सर्वथा;#} </div><div n="1">(2) {#अशेषतः#} </div><div n="I">II Conjointly: q. v.:
+{#समम्।#}</div>
 <LEND>

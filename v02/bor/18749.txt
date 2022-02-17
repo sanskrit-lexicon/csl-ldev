@@ -1,11 +1,11 @@
 <L>18749<pc>578<k1>recover<k2>recover
-<div n="lb"/>{@RECOVER@}¦ (v. t.): <div n="I">I To regain: </div><div n="1">(1) {#लभते#} ({#लभ्,#}
-<div n="lb"/>c. 1. = to gain: q. v.), <div n="xe">{%spoke to her when she%}
-<div n="lb"/>{%r. ed her consciousness:%}</div> <div n="xs">{#लब्धचेतानामवादीत्,#}</div> K.;
-<div n="lb"/><div n="xe">{%let him r. his eye-sight:%}</div> <div n="xs">{#स लब्धचक्षुर्भवेत्,#}</div> Mah.
-<div n="lb"/>iii. 297. 27.; <div n="xe">{%if you r. your possession:%}</div> <div n="xs">{#यदि #}
-<div n="lb"/>{# लब्धा पुनरात्मनः पदम्,#}</div> Ki. ii. 17.; </div><div n="1">(2) {#अश्नुते, #}
-<div n="lb"/>{# सम्-,#} ({#अश्,#} c. 5.: rare), {%if%} ({%one%}) <div n="xe">{%r. s his%}
-<div n="lb"/>{%health:%}</div> <div n="xs">{#यद्यरोगितां समश्नुते,#}</div> Si. xiv. 13. </div><div n="I">II To
-<div n="lb"/>cure: q. v.</div>
+{@RECOVER@}¦ (v. t.): <div n="I">I To regain: </div><div n="1">(1) {#लभते#} ({#लभ्,#}
+c. 1. = to gain: q. v.), <div n="xe">{%spoke to her when she%}
+{%r. ed her consciousness:%}</div> <div n="xs">{#लब्धचेतानामवादीत्,#}</div> K.;
+<div n="xe">{%let him r. his eye-sight:%}</div> <div n="xs">{#स लब्धचक्षुर्भवेत्,#}</div> Mah.
+iii. 297. 27.; <div n="xe">{%if you r. your possession:%}</div> <div n="xs">{#यदि #}
+{# लब्धा पुनरात्मनः पदम्,#}</div> Ki. ii. 17.; </div><div n="1">(2) {#अश्नुते, #}
+{# सम्-,#} ({#अश्,#} c. 5.: rare), {%if%} ({%one%}) <div n="xe">{%r. s his%}
+{%health:%}</div> <div n="xs">{#यद्यरोगितां समश्नुते,#}</div> Si. xiv. 13. </div><div n="I">II To
+cure: q. v.</div>
 <LEND>

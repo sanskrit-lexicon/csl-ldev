@@ -1,5 +1,5 @@
 <L>10697<pc>336<k1>hatefully<k2>hatefully
-<div n="lb"/>{@HATEFULLY:@}¦ <div n="I">I With hate: </div><div n="1">(1) {#सद्वेषम्;#} </div><div n="1">(2) {#द्वेष-#}
-<div n="lb"/>{#भावेन;#} </div><div n="I">II Odiously: </div><div n="1">(1) {#घृणितम्;#} </div><div n="1">(2) {#गर्हितम्;#}</div>
-<div n="lb"/><div n="1">(3) {#जुगुप्सितम्।#}</div>
+{@HATEFULLY:@}¦ <div n="I">I With hate: </div><div n="1">(1) {#सद्वेषम्;#} </div><div n="1">(2) {#द्वेष-#}
+{#भावेन;#} </div><div n="I">II Odiously: </div><div n="1">(1) {#घृणितम्;#} </div><div n="1">(2) {#गर्हितम्;#}</div>
+<div n="1">(3) {#जुगुप्सितम्।#}</div>
 <LEND>

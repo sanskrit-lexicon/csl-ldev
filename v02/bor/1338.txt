@@ -1,7 +1,7 @@
 <L>1338<pc>048<k1>attest<k2>attest
-<div n="lb"/>{@ATTEST:@}¦ <div n="I">I To a deed: {#*पत्रस्य विशुद्धिप्रदर्शनाय #}
-<div n="lb"/>{# साक्षी भवति#} <div n="xe">{%or%}</div> <div n="xs">{#स्वनाम पत्रे लिखति:#}</div> Ph. <div n="xe">{%the will is%}
-<div n="lb"/>{%a. ed by three witnesses%}</div> <div n="xs">{#*अस्येच्छापत्रस्य विशुद्धिप्रदर्शका-#}
-<div n="lb"/>{#स्त्रयः साक्षिणः सन्ति।#}</div> </div><div n="I">II To manifest: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#प्रकटीकरोति;#} </div><div n="1">(2) {#व्यनक्ति#} ({#अञ्ज्,#} c. 7.).</div>
+{@ATTEST:@}¦ <div n="I">I To a deed: {#*पत्रस्य विशुद्धिप्रदर्शनाय #}
+{# साक्षी भवति#} <div n="xe">{%or%}</div> <div n="xs">{#स्वनाम पत्रे लिखति:#}</div> Ph. <div n="xe">{%the will is%}
+{%a. ed by three witnesses%}</div> <div n="xs">{#*अस्येच्छापत्रस्य विशुद्धिप्रदर्शका-#}
+{#स्त्रयः साक्षिणः सन्ति।#}</div> </div><div n="I">II To manifest: q. v.:</div>
+<div n="1">(1) {#प्रकटीकरोति;#} </div><div n="1">(2) {#व्यनक्ति#} ({#अञ्ज्,#} c. 7.).</div>
 <LEND>

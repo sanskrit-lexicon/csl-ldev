@@ -1,4 +1,4 @@
 <L>2632<pc>090<k1>brisket<k2>brisket
-<div n="lb"/>{@BRISKET:@}¦ Ph. <div n="xe">{%b. of beef%}</div> <div n="xs">{#*गोवक्षोमांसम्;#}</div> <div n="xe">{%b. of%}
-<div n="lb"/>{%mutton%}</div> <div n="xs">{#मेषवक्षोमांसम्।#}</div>
+{@BRISKET:@}¦ Ph. <div n="xe">{%b. of beef%}</div> <div n="xs">{#*गोवक्षोमांसम्;#}</div> <div n="xe">{%b. of%}
+{%mutton%}</div> <div n="xs">{#मेषवक्षोमांसम्।#}</div>
 <LEND>

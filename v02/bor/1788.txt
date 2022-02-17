@@ -1,17 +1,17 @@
 <L>1788<pc>062<k1>become<k2>become
-<div n="lb"/>{@BECOME@}¦ (v. i.): {#भवति#} ({#भू,#} c. 1), {%what in the%}
-<div n="lb"/>{%forest became of the deer-eyed%} ({%damsel%}) {#किममवत् #}
-<div n="lb"/>{# विपिने हरिणीदृशः,#} U. iii. <div n="1">(2) {#सम्पद्यते#} ({#पद्,#} c. 4).
-<div n="lb"/>(rare) Me. i. 16. N.B. This verb in conne-
-<div n="lb"/>-xion with adj. s, is (a) often expr. by verbs
-<div n="lb"/>of motion with corres. sub. s.: <div n="xe">{%became very%}
-<div n="lb"/>{%sorry%}</div> <div n="xs">{#परं विषादमगमत्।#}</div> P. i. 2.; <div n="xe">{%b. s an object%}
-<div n="lb"/>{%of hatred to the people%}</div> <div n="xs">{#द्वेष्यतां याति लोके,#}</div> P. i. 3.;
-<div n="lb"/><div n="xe">{%b. s of no use%}</div> <div n="xs">{#व्रजति व्यर्थकताम्,#}</div> Si. xvi. 43. (b)
-<div n="lb"/>and by verbs meaning to produce: <div n="xe">{%b. ing%}
-<div n="lb"/>{%very sorry%}</div> <div n="xs">{#समुपजातशोका,#}</div> K. ({%his%}) <div n="xe">{%face became%}
-<div n="lb"/>{%terrible%}</div> <div n="xs">{#आननं क्रूरमजनि,#}</div> Si. xv. 8. (c) and
-<div n="lb"/>sometimes by verbs meaning to obtain:
-<div n="lb"/><div n="xe">{%became surprised%}</div> <div n="xs">{#विस्मयमापेदे,#}</div> K. (d) by incep-
-<div n="lb"/>-tive verbs: <div n="xe">{%to b. congealed%}</div> <div n="xs">{#घनीभवति।#}</div></div>
+{@BECOME@}¦ (v. i.): {#भवति#} ({#भू,#} c. 1), {%what in the%}
+{%forest became of the deer-eyed%} ({%damsel%}) {#किममवत् #}
+{# विपिने हरिणीदृशः,#} U. iii. <div n="1">(2) {#सम्पद्यते#} ({#पद्,#} c. 4).
+(rare) Me. i. 16. N.B. This verb in conne-
+-xion with adj. s, is (a) often expr. by verbs
+of motion with corres. sub. s.: <div n="xe">{%became very%}
+{%sorry%}</div> <div n="xs">{#परं विषादमगमत्।#}</div> P. i. 2.; <div n="xe">{%b. s an object%}
+{%of hatred to the people%}</div> <div n="xs">{#द्वेष्यतां याति लोके,#}</div> P. i. 3.;
+<div n="xe">{%b. s of no use%}</div> <div n="xs">{#व्रजति व्यर्थकताम्,#}</div> Si. xvi. 43. (b)
+and by verbs meaning to produce: <div n="xe">{%b. ing%}
+{%very sorry%}</div> <div n="xs">{#समुपजातशोका,#}</div> K. ({%his%}) <div n="xe">{%face became%}
+{%terrible%}</div> <div n="xs">{#आननं क्रूरमजनि,#}</div> Si. xv. 8. (c) and
+sometimes by verbs meaning to obtain:
+<div n="xe">{%became surprised%}</div> <div n="xs">{#विस्मयमापेदे,#}</div> K. (d) by incep-
+-tive verbs: <div n="xe">{%to b. congealed%}</div> <div n="xs">{#घनीभवति।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>3146<pc>105<k1>carte-blanche<k2>carte-blanche
-<div n="lb"/>{@CARTE-BLANCHE:@}¦ Ph. {%I have c. to go there%}
-<div n="lb"/>{#स्वेच्छया गन्तुमनुमतोऽस्मि।#}
+{@CARTE-BLANCHE:@}¦ Ph. {%I have c. to go there%}
+{#स्वेच्छया गन्तुमनुमतोऽस्मि।#}
 <LEND>

@@ -1,7 +1,7 @@
 <L>8324<pc>263<k1>fade<k2>fade
-<div n="lb"/>{@FADE@}¦ (v.i.): <div n="I">I To decay, droop: q.v.: {#अव-#}
-<div n="lb"/>{#सीदति#} ({#सद्,#} c. 1.). </div><div n="I">II To lose freshness:</div>
-<div n="lb"/><div n="1">(1) {#म्लायति, परि-,#} ({#म्लै,#} c. 1.), <div n="xe">{%with f. d beauty%}
-<div n="lb"/>{%of faces:%}</div> <div n="xs">{#परिम्लानमुखश्रियाम्,#}</div> Ku.; </div><div n="1">(2) {#मलिनीभवति,#}
-<div n="lb"/><div n="xe">{%the f. ing garland:%}</div> <div n="xs">{#मालां मलिनीभवन्तीम्,#}</div> N.</div>
+{@FADE@}¦ (v.i.): <div n="I">I To decay, droop: q.v.: {#अव-#}
+{#सीदति#} ({#सद्,#} c. 1.). </div><div n="I">II To lose freshness:</div>
+<div n="1">(1) {#म्लायति, परि-,#} ({#म्लै,#} c. 1.), <div n="xe">{%with f. d beauty%}
+{%of faces:%}</div> <div n="xs">{#परिम्लानमुखश्रियाम्,#}</div> Ku.; </div><div n="1">(2) {#मलिनीभवति,#}
+<div n="xe">{%the f. ing garland:%}</div> <div n="xs">{#मालां मलिनीभवन्तीम्,#}</div> N.</div>
 <LEND>

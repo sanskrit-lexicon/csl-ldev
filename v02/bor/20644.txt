@@ -1,5 +1,5 @@
 <L>20644<pc>647<k1>skeleton<k2>skeleton
-<div n="lb"/>{@SKELETON:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#कङ्कालः,#} <div n="xe">{%mules reduced%}
-<div n="lb"/>{%to s.:%}</div> <div n="xs">{#कङ्कालशेषाः खराः,#}</div> U. iii. 42.; </div><div n="1">(2) {#अस्थिपञ्जरः,#}
-<div n="lb"/>A. </div><div n="I">II Fig., outline: {#गठनम्#} (??).</div>
+{@SKELETON:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#कङ्कालः,#} <div n="xe">{%mules reduced%}
+{%to s.:%}</div> <div n="xs">{#कङ्कालशेषाः खराः,#}</div> U. iii. 42.; </div><div n="1">(2) {#अस्थिपञ्जरः,#}
+A. </div><div n="I">II Fig., outline: {#गठनम्#} (??).</div>
 <LEND>

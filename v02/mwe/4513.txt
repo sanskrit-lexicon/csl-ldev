@@ -1,10 +1,10 @@
 <L>4513<pc>096-b<k1>circumstance<k2>circumstance
-<div n="lb"/>CIRCUMSTANCE¦, {%s.%} (Something adjunct to a fact) {#सम्बन्धः, अनुबन्धः#}.
-<div n="lb"/> — (A thing. fact) {#विषयः, वस्तु#} {%n.,%} {#भूतं, विषयकत्वं#}. — (Incident,
-<div n="lb"/>event) {#वृत्तं, वृत्तान्तः, सम्भवः#}. — (Condition, state) {#अवस्था, दशा,#}
-<div n="lb"/>{#स्थितिः#} {%f.,%} {#संस्थितिः#} {%f.,%} {#भावः, वृत्तिः#} {%f.;%} {#गतिः#} {%f.;%} ‘he related all
-<div n="lb"/>the circumstances as they occurred,’ {#सकलवृत्तान्तं यथावृत्तं#}
-<div n="lb"/>{#न्यवेदयत्;#} ‘according to circumstances,’ {#यथासम्भवं, यथास्थितं;#}
-<div n="lb"/>‘in good circumstances,’ {#सुस्थितः -ता -तं, सुस्थः -स्था -स्थं;#} ‘in
-<div n="lb"/>bad circumstances,’ {#दुःस्थः -स्था -स्थं, दुर्गतः -ता -तं#}.
+CIRCUMSTANCE¦, {%s.%} (Something adjunct to a fact) {#सम्बन्धः, अनुबन्धः#}.
+ — (A thing. fact) {#विषयः, वस्तु#} {%n.,%} {#भूतं, विषयकत्वं#}. — (Incident,
+event) {#वृत्तं, वृत्तान्तः, सम्भवः#}. — (Condition, state) {#अवस्था, दशा,#}
+{#स्थितिः#} {%f.,%} {#संस्थितिः#} {%f.,%} {#भावः, वृत्तिः#} {%f.;%} {#गतिः#} {%f.;%} ‘he related all
+the circumstances as they occurred,’ {#सकलवृत्तान्तं यथावृत्तं#}
+{#न्यवेदयत्;#} ‘according to circumstances,’ {#यथासम्भवं, यथास्थितं;#}
+‘in good circumstances,’ {#सुस्थितः -ता -तं, सुस्थः -स्था -स्थं;#} ‘in
+bad circumstances,’ {#दुःस्थः -स्था -स्थं, दुर्गतः -ता -तं#}.
 <LEND>

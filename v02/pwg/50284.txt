@@ -5,11 +5,11 @@ subst. {%ein guter Kämpfer%}
 <ls>NIR. 5, 12.</ls> 
 <ls>DRAUP. 8, 9.</ls> 
 <ls>ARJ. 7, 5.</ls> 
-<ls>MBH. 1, 2542. 5341. 2, 87. 4, 1016. 5, 784.</ls> 
-<ls>HARIV. 5027. 6887.</ls> 
+<ls>MBH. 1, 2542.</ls> <ls n="MBH. 1,">5341.</ls> <ls n="MBH.">2, 87.</ls> <ls n="MBH.">4, 1016.</ls> <ls n="MBH.">5, 784.</ls> 
+<ls>HARIV. 5027.</ls> <ls n="HARIV.">6887.</ls> 
 <ls>R. 3, 25, 26.</ls> 
 <ls>MĀLAV. 69, 5.</ls> ein Elephant 
-<ls>MBH. 5, 3046. 6, 4154.</ls> {#राक्षसानाम्#} {%Bekämpfer der%} <is>Rākṣasa</is> 
+<ls>MBH. 5, 3046.</ls> <ls n="MBH.">6, 4154.</ls> {#राक्षसानाम्#} {%Bekämpfer der%} <is>Rākṣasa</is> 
 <ls>R. 3, 31, 19.</ls> {#वानरेन्द्र°#} {%bekämpfend, kämpfend gegen%} 
 <ls>6, 18, 3.</ls> {#रन्ध्र°#} {%gegen Blössen kämpfend, eine schwache Seite angreifend%} 
 <ls>RAGH. 15, 17.</ls> 

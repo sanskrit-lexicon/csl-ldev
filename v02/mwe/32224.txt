@@ -1,5 +1,5 @@
 <L>32224<pc>857-b<k1>fraction<k2>fraction
-<div n="lb"/>FRACTION¦, {%s.%} {#अपूर्णाङ्कः;#} ‘vulgar f.,’ {#शुद्धापूर्णाङ्कः;#} ‘common mea-
-<div n="lb"/>sure of a f.,’ {#अपवर्त्तः -र्त्तकः;#} ‘reduction of a fraction to a
-<div n="lb"/>common denominator,’ {#सवर्णनं, अंशसवर्णनं#}.
+FRACTION¦, {%s.%} {#अपूर्णाङ्कः;#} ‘vulgar f.,’ {#शुद्धापूर्णाङ्कः;#} ‘common mea-
+sure of a f.,’ {#अपवर्त्तः -र्त्तकः;#} ‘reduction of a fraction to a
+common denominator,’ {#सवर्णनं, अंशसवर्णनं#}.
 <LEND>

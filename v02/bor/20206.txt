@@ -1,16 +1,16 @@
 <L>20206<pc>629<k1>servant<k2>servant
-<div n="lb"/>{@SERVANT:@}¦ <div n="1">(1) {#भृत्यः,#} <div n="xe">{%engages a s. without fixing%}
-<div n="lb"/>{%his wages:%}</div> <div n="xs">{#वेतनपरिच्छेदमकृत्वैव भृत्यं कारयति,#}</div>
-<div n="lb"/>Mit.; {%you%} ({%are our%}) {%master, we%} ({%are%}) <div n="xe">{%s. s:%}</div> <div n="xs">{#वयं #}
-<div n="lb"/>{# भृत्या भवान् स्वामी,#}</div> M.p.; </div><div n="1">(2) {#भृतः, -कः#} (rare),
-<div n="lb"/>{%if a s. does not do his work after receiving pay:%}
-<div n="lb"/>{#गृहीतवेतनः कर्म न करोति यथा भृतः,#} Vri.; {%s. s are of%}
-<div n="lb"/>{%three kinds — superior, inferior%} (menial), {%and%}
-<div n="lb"/>{%mean%} (agricultural): {#भृतकस्त्रिविधो ज्ञेयः उत्तमाधम-#}
-<div n="lb"/>{#मध्यमः,#} N. s.; <div n="xe">{%a s. paid in money:%}</div> <div n="xs">{#अर्थभृतः;#}</div> <div n="xe">{%in%}
-<div n="lb"/>{%kind:%}</div> <div n="xs">{#भोगभृतः,#}</div> N. s.; </div><div n="1">(3) {#सेवकः,#} {%with her s.:%}
-<div n="lb"/>{#स्वसेवकेन सह,#} H. iv.; </div><div n="1">(4) {#दासः:#} v. Slave;</div>
-<div n="lb"/><div n="1">(5) {#चेटः#} (= page); </div><div n="1">(6) {#किङ्करः#} (= domestic
-<div n="lb"/>s.), <div n="xe">{%by many disguised s. s:%}</div> <div n="xs">{#अनेकच्छन्नकिङ्करैः,#}</div>
-<div n="lb"/>D. viii.</div>
+{@SERVANT:@}¦ <div n="1">(1) {#भृत्यः,#} <div n="xe">{%engages a s. without fixing%}
+{%his wages:%}</div> <div n="xs">{#वेतनपरिच्छेदमकृत्वैव भृत्यं कारयति,#}</div>
+Mit.; {%you%} ({%are our%}) {%master, we%} ({%are%}) <div n="xe">{%s. s:%}</div> <div n="xs">{#वयं #}
+{# भृत्या भवान् स्वामी,#}</div> M.p.; </div><div n="1">(2) {#भृतः, -कः#} (rare),
+{%if a s. does not do his work after receiving pay:%}
+{#गृहीतवेतनः कर्म न करोति यथा भृतः,#} Vri.; {%s. s are of%}
+{%three kinds — superior, inferior%} (menial), {%and%}
+{%mean%} (agricultural): {#भृतकस्त्रिविधो ज्ञेयः उत्तमाधम-#}
+{#मध्यमः,#} N. s.; <div n="xe">{%a s. paid in money:%}</div> <div n="xs">{#अर्थभृतः;#}</div> <div n="xe">{%in%}
+{%kind:%}</div> <div n="xs">{#भोगभृतः,#}</div> N. s.; </div><div n="1">(3) {#सेवकः,#} {%with her s.:%}
+{#स्वसेवकेन सह,#} H. iv.; </div><div n="1">(4) {#दासः:#} v. Slave;</div>
+<div n="1">(5) {#चेटः#} (= page); </div><div n="1">(6) {#किङ्करः#} (= domestic
+s.), <div n="xe">{%by many disguised s. s:%}</div> <div n="xs">{#अनेकच्छन्नकिङ्करैः,#}</div>
+D. viii.</div>
 <LEND>

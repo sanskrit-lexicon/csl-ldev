@@ -1,7 +1,7 @@
 <L>3367<pc>112<k1>cessation<k2>cessation
-<div n="lb"/>{@CESSATION:@}¦ <div n="1">(1) {#विरामः;#} </div><div n="1">(2) {#विरतिः;#} </div><div n="1">(3) {#शमः, #}
-<div n="lb"/>{# प्र-, उप-,#} (=being over); </div><div n="1">(4) {#विश्रामः#} {%or%}
-<div n="lb"/>{#विश्रान्तिः#} (for a time); {#निवृत्तिः#} (=ending).
-<div n="lb"/><div n="xe">{%C. of arms.%}</div> <div n="xs">{#अवहारः।#}</div> <div n="xe">{%Without c.:%}</div> <div n="xs">{#अविरतः#}</div> ({#ता,#}
-<div n="lb"/>): v. Incessant, -ly.</div>
+{@CESSATION:@}¦ <div n="1">(1) {#विरामः;#} </div><div n="1">(2) {#विरतिः;#} </div><div n="1">(3) {#शमः, #}
+{# प्र-, उप-,#} (=being over); </div><div n="1">(4) {#विश्रामः#} {%or%}
+{#विश्रान्तिः#} (for a time); {#निवृत्तिः#} (=ending).
+<div n="xe">{%C. of arms.%}</div> <div n="xs">{#अवहारः।#}</div> <div n="xe">{%Without c.:%}</div> <div n="xs">{#अविरतः#}</div> ({#ता,#}
+): v. Incessant, -ly.</div>
 <LEND>

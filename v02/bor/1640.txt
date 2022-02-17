@@ -1,4 +1,4 @@
 <L>1640<pc>057<k1>baronage<k2>baronage
-<div n="lb"/>{@BARONAGE:@}¦ <div n="I">I The whole body of barons:
-<div n="lb"/>{#*बेरणवर्गः।#} </div><div n="I">II The rank of a baron {#*बेरणपदम्।#}</div>
+{@BARONAGE:@}¦ <div n="I">I The whole body of barons:
+{#*बेरणवर्गः।#} </div><div n="I">II The rank of a baron {#*बेरणपदम्।#}</div>
 <LEND>

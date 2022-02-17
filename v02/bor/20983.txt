@@ -1,7 +1,7 @@
 <L>20983<pc>660<k1>solution<k2>solution
-<div n="lb"/>{@SOLUTION:@}¦ <div n="I">I Dissolution: {#द्रावणम्;#} </div><div n="1">(2) {#विल-#}
-<div n="lb"/>{#यनम्;#} </div><div n="1">(3) {#गालनम्।#} </div><div n="I">II </div><div n="1">(1) {#क्वाथः#} (= decoction),
-<div n="lb"/><div n="xe">{%s. of Vāsaka:%}</div> <div n="xs">{#वासकः क्वाथः,#}</div> Śāraṅgadhara;</div>
-<div n="lb"/><div n="1">(2) {#रसः,#} {#“गृहीत्वा तं रसं पूतं गव्येन पयसा सह,”#} C. s.</div>
-<div n="lb"/><div n="I">III Explanation, exposition: q. v.: {#साधनम्।#}</div>
+{@SOLUTION:@}¦ <div n="I">I Dissolution: {#द्रावणम्;#} </div><div n="1">(2) {#विल-#}
+{#यनम्;#} </div><div n="1">(3) {#गालनम्।#} </div><div n="I">II </div><div n="1">(1) {#क्वाथः#} (= decoction),
+<div n="xe">{%s. of Vāsaka:%}</div> <div n="xs">{#वासकः क्वाथः,#}</div> Śāraṅgadhara;</div>
+<div n="1">(2) {#रसः,#} {#“गृहीत्वा तं रसं पूतं गव्येन पयसा सह,”#} C. s.</div>
+<div n="I">III Explanation, exposition: q. v.: {#साधनम्।#}</div>
 <LEND>

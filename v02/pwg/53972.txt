@@ -10,7 +10,7 @@
 <F>*. Unter den auf {#द#} auslautenden Wörtern!</F> 
 <ls>442.</ls> <ls>MED. d. 11</ls>
 <F>*. Unter den auf {#द#} auslautenden Wörtern!</F> 
-<ls>?r. 71.</ls> <ls>HALĀY. 1, 122.</ls> {#भ\द्रा त^ इन्द्र सुम\तिः#} 
+<ls>r. 71.</ls> <ls>HALĀY. 1, 122.</ls> {#भ\द्रा त^ इन्द्र सुम\तिः#} 
 <ls>ṚV. 3, 30, 7.</ls> {#सौमनस#} 
 <ls n="ṚV. 3,">1, 21.</ls> {#हस्ता^#} 
 <ls n="ṚV.">4, 21, 9.</ls> {#म\रुता\ं नाम^#} 
@@ -70,13 +70,13 @@
 <ls>SUND. 3, 20.</ls> 
 <ls>HIḌ. 2, 37.</ls> 
 <ls>N. 3, 25. 12, 51. 13, 39.</ls> 
-<ls>MBH. 3, 2891. 5, 6025. 6045.</ls> 
+<ls>MBH. 3, 2891.</ls> <ls n="MBH.">5, 6025.</ls> <ls n="MBH. 5,">6045.</ls> 
 <ls>Spr. 2348. 2936.</ls> 
 <ls>ŚĀK. 16, 20. 38, 7. 15. 69, 8.</ls> 
 <ls>KATHĀS. 4, 16.</ls> 
 <ls>PAÑCAT. 199, 24.</ls> 
 <ls>HIT. 72, 9.</ls> 
-<ls>VET.</ls> in <ls>LA. (II) 26, 20.</ls> {#भद्र सेनापते#} 
+<ls>VET. in LA. (II) 26, 20.</ls> {#भद्र सेनापते#} 
 <ls>ŚĀK. 23, 23.</ls> {#भद्र करट्क#} 
 <ls>PAÑCAT. 9, 21.</ls> {#भद्र#} (die bessere Lesart) {#मृग कुशलं ते#} 
 <ls>HIT. 38, 12.</ls> {#अथ कलेर्भद्रमव्याहतम्#} {%ungestörtes Glück, - Wohlbefinden%} 
@@ -96,11 +96,11 @@
 <ls>SĀV. 2, 32.</ls> Häufig werden {#भद्रं ते#} und {#भद्रं वः#} als Höflichkeitsformeln mitten in die Rede eingeschoben: {#शीघ्रं गच्छाम भद्रं ते न नो विद्यात्सुयोधनः#} 
 <ls>HIḌ. 4, 58.</ls> 
 <ls>N. 15, 5. 26, 6.</ls> 
-<ls>MBH. 1, 5582. 5, 7303.</ls> 
+<ls>MBH. 1, 5582.</ls> <ls n="MBH.">5, 7303.</ls> 
 <ls>HARIV. 8660.</ls> 
 <ls>R. 1, 9, 34. 13, 20. 28, 30. 60, 29. 63, 2. 64, 5. 3, 51, 19. 52, 37. 53, 2.</ls> 
 <ls>HIT. 27, 9, v. l.</ls> 
-<ls>MBH. 1, 5573. 5, 6034.</ls> 
+<ls>MBH. 1, 5573.</ls> <ls n="MBH.">5, 6034.</ls> 
 <ls>R. 1, 57, 17. 60, 26.</ls> {#चत्वारि भद्राण्यवाप्नोति कीर्तिमायुर्यशो बलम्#} 
 <ls>MBH. 13, 5657.</ls> {#धर्मज्ञानवैराग्यैश्वर्याणि चत्वारि भद्राणि । धर्मार्थकामबलानीत्यन्ये#} 
 <ls>Schol.</ls> zu <ls>MBH. 7, 2182.</ls> {#चतुर्भद्र#} <lex>n.</lex> = {#धर्म, काम, अर्थ, बल#} 
@@ -108,7 +108,7 @@
 <ls>H. 1382.</ls> {#दानं प्रियवाक्सहितं ज्ञानमगर्वं क्षमान्वितं शौर्यम् । त्यागसहितं च वित्तं दुर्लभमेतच्चतुर्भद्रम् ॥#} {%diese vier löblichen%} oder {%schönen Erscheinungen%} 
 <ls>Spr. 1133.</ls> {#वित्तं दानसमेतं ज्ञानमगर्वं क्षमान्वितं शौर्यम् । भोगः सङ्गविहीनो दुर्लभमेतच्चतुर्भद्रम् ॥#} Cit. beim Schol. zu 
 <ls>MBH. 7, 2182.</ls> {#चतुर्भद्रतर#} <lex>adj.</lex> {%glücklicher%}, mit dem instr. 
-<ls>MBH. 7, 2182. 2194. 2207. 2449.</ls> {#भद्रशताधिक#} ebend. {#भद्रम्#} adv.: {#भ\द्रं कर्णे^भिः शृणुयाम देवा भ\द्रं प^श्येमा\क्षभि^ः#} 
+<ls>MBH. 7, 2182.</ls> <ls n="MBH. 7,">2194.</ls> <ls n="MBH. 7,">2207.</ls> <ls n="MBH. 7,">2449.</ls> {#भद्रशताधिक#} ebend. {#भद्रम्#} adv.: {#भ\द्रं कर्णे^भिः शृणुयाम देवा भ\द्रं प^श्येमा\क्षभि^ः#} 
 <ls>ṚV. 1, 89, 8.</ls> {#भ\द्रं भ^वाति नः पु\रः#} 
 <ls n="ṚV.">2, 41, 11.</ls> {#स\र्वतो^ नः शकुने भ\द्रमा व^द#} 
 <ls n="ṚV. 2,">43, 2.</ls> {#भ\द्रं जीव^न्तो जर\णामशीमहि#} 
@@ -135,7 +135,7 @@
 <ls>KĀVYAPR. 166, 9.</ls> {#शालवन#} (vgl. {#भद्रसालवन)#} 
 <ls>R. GORR. 2, 73, 10.</ls> {#गौः#} 
 <ls>HALĀY. 2, 115.</ls> {#भद्राः#} unter den {#लोककण्टकाः#} aufgeführt 
-<ls>M. 9,</ls> <ls>?258; nach KULL.</ls> = {#कल्याणाचारप्रच्छन्नपापाः#}, etwa {%die von aussen Glatten, - Feinen.%} 
+<ls>M. 9,</ls> <ls>258</ls>; nach <ls>KULL.</ls> = {#कल्याणाचारप्रच्छन्नपापाः#}, etwa {%die von aussen Glatten, - Feinen.%} 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Stier%} 
 <ls>AK. 2, 9, 59.</ls> 
@@ -153,8 +153,8 @@
 <div n="2">— c) {%Bachstelze%} 
 <ls>MED.</ls> <ls>VARĀH. BṚH. S. 45, 2.</ls> Vgl. {#भद्रनामन्#} . 
 <div n="2">— d) {%Nauclea Cadamba Roxb.%} 
-<ls>H. an.</ls> <ls>MED.</ls> (<ls>WILSON</ls>None fasst hier {#कदम्बक#} in der Bed. von {%Menge). Tithymalus antiquorum Moench.%} {#(स्नुही)#} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR. -</ls> <ls>HIOUEN-THSANG I, 91.</ls> 
+<ls>H. an.</ls> <ls>MED.</ls> (<ls>WILSON</ls>None fasst hier {#कदम्बक#} in der Bed. von {%Menge). Tithymalus antiquorum Moench.%} ({#स्नुही#}) 
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> - <ls>HIOUEN-THSANG I, 91.</ls> 
 <div n="2">— e) Bein. <is>Śiva's</is> 
 <ls>TRIK. 1, 1, 48.</ls> 
 <ls>H. an.</ls> 
@@ -172,8 +172,8 @@
 <div n="2">— k) N. pr. eines Sohnes des <is>Vasudeva</is> von der <is>Pauravī</is> 
 <ls>BHĀG. P. 9, 24, 46.</ls> von der <is>Devakī</is> 
 <ls>53.</ls> eines Sohnes des <is>Upakārumant</is> 
-<ls>SCHIEFNER,</ls> <ls>Lebensb. 232 (2).</ls> N. pr. eines Schauspielers 
-<ls>HARIV. 8575. fgg. 8665. fgg.</ls> eines Gefährten des <is>Bāṇa</is> 
+<ls>SCHIEFNER, Lebensb. 232 (2).</ls> N. pr. eines Schauspielers 
+<ls>HARIV. 8575. fgg.</ls> <ls n="HARIV.">8665. fgg.</ls> eines Gefährten des <is>Bāṇa</is> 
 <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 50.</ls> - <ls>WASSILJEW 30. 47. 58.</ls> Hist. de la vie de 
 <ls>HIOUEN-THSANG 332.</ls> 
 <div n="2">— l) Bein. des Berges <is>Meru</is> 
@@ -190,7 +190,7 @@
 <ls>MED.</ls> = {#जीवन्ती, अपराजिता, नीली, वला, शमी, वचा, दन्ती, हरिद्रा, श्वेतरूर्वा, काश्मरी, सारिवाविशेषः#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#काकोडुम्बरिका#} 
 <ls>RATNAM.</ls> im <ls>ŚKDR.</ls> {%Gmelina arborea%} 
-<ls>RATNAM. 1. -</ls> <ls>SUŚR. 2, 66, 13. 223, 15.</ls> <ls>VARĀH. BṚH. S. 48, 40.</ls> 
+<ls>RATNAM. 1.</ls> - <ls>SUŚR. 2, 66, 13. 223, 15.</ls> <ls>VARĀH. BṚH. S. 48, 40.</ls> 
 <div n="2">— c) {%ein best. Metrum, a, c%}: {Ç}, {%b, d%}: {Ç} u. s. w. 
 <ls>HALL</ls> in <ls>Journ. of the Am. Or. S. 6, 514.</ls> 
 <div n="2">— d) Bez. {%eines best. Tages%}; = {#विष्टि#} (s. u. {#करण#} 3,m.) 
@@ -230,6 +230,6 @@
 <div n="2">— e) N. {%eines best.%} <is>Karaṇa</is> (s. {#करण#} 3,m.) 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— f) N. verschiedener <is>Sāman</is> 
-<ls>Ind. St. 3, 226. -</ls> <ls>PAÑCAV. BR. 13, 12, 6.</ls> <ls>LĀṬY. 7, 7, 17.</ls> <ls>KAUṢ. UP. 1, 5.</ls> 
+<ls>Ind. St. 3, 226.</ls> - <ls>PAÑCAV. BR. 13, 12, 6.</ls> <ls>LĀṬY. 7, 7, 17.</ls> <ls>KAUṢ. UP. 1, 5.</ls> 
 <div n="v">— Vgl. {#अहं°, उदयि°, चातुर्भद्र, जनक°, तथागत°, तुङ्ग°, पञ्च°, पुत्रभद्रा, पुष्प°, पूर्णभद्र, पृश्नि°, प्र°, बल°, बहु°, बुद्ध°, बोधि°, ब्रह्मभद्रा, रामभद्र, राहुल°, भाद्र#} .
 <LEND>

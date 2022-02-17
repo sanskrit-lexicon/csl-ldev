@@ -1,6 +1,6 @@
 <L>20880<pc>656<k1>snivel<k2>snivel
-<div n="lb"/>{@SNIVEL@}¦ (v.): <div n="I">I To run at the nose: expr.
-<div n="lb"/>by {#मलं स्रवति#} ({#स्रु,#} c. 1.: with abl. of nose),
-<div n="lb"/><div n="xe">{%s. ing:%}</div> <div n="xs">{#नासास्रवः,#}</div> Sr. </div><div n="I">II Whine: {#क्रन्दति#} ({#क्रन्द्,#}
-<div n="lb"/>c. 1.): v. To cry.</div>
+{@SNIVEL@}¦ (v.): <div n="I">I To run at the nose: expr.
+by {#मलं स्रवति#} ({#स्रु,#} c. 1.: with abl. of nose),
+<div n="xe">{%s. ing:%}</div> <div n="xs">{#नासास्रवः,#}</div> Sr. </div><div n="I">II Whine: {#क्रन्दति#} ({#क्रन्द्,#}
+c. 1.): v. To cry.</div>
 <LEND>

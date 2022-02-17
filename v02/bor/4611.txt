@@ -1,7 +1,7 @@
 <L>4611<pc>150<k1>continue<k2>continue
-<div n="lb"/>{@CONTINUE@}¦ (v. t.): expr. by {%adv.,%} or by {%not%}
-<div n="lb"/>and <div n="xe">{%cease, by c. d calls:%}</div> <div n="xs">{#नित्यविहितोपहूतिषु,#}</div> Si.;
-<div n="lb"/><div n="xe">{%c. d to quarrel:%}</div> <div n="xs">{#कलहं कुर्वाणा न विश्राम्यति,#}</div> P.;
-<div n="lb"/><div n="xe">{%and c. d the journey day and night:%}</div> <div n="xs">{#दिवारात्रौ #}
-<div n="lb"/>{# चावहत्,#}</div> K.
+{@CONTINUE@}¦ (v. t.): expr. by {%adv.,%} or by {%not%}
+and <div n="xe">{%cease, by c. d calls:%}</div> <div n="xs">{#नित्यविहितोपहूतिषु,#}</div> Si.;
+<div n="xe">{%c. d to quarrel:%}</div> <div n="xs">{#कलहं कुर्वाणा न विश्राम्यति,#}</div> P.;
+<div n="xe">{%and c. d the journey day and night:%}</div> <div n="xs">{#दिवारात्रौ #}
+{# चावहत्,#}</div> K.
 <LEND>

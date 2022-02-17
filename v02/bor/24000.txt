@@ -1,5 +1,5 @@
 <L>24000<pc>751<k1>vouch<k2>vouch
-<div n="lb"/>{@VOUCH:@}¦ <div n="I">I To call upon to witness: {#साक्षी-#}
-<div n="lb"/>{#करोति।#} </div><div n="I">II To attest, confirm: q. v.: {#द्रढयति#}
-<div n="lb"/>(nomi.).</div>
+{@VOUCH:@}¦ <div n="I">I To call upon to witness: {#साक्षी-#}
+{#करोति।#} </div><div n="I">II To attest, confirm: q. v.: {#द्रढयति#}
+(nomi.).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>14721<pc>450<k1>mischief-maker<k2>mischief-maker
-<div n="lb"/>{@MISCHIEF-MAKER:@}¦ expr. by circumlo. with:
-<div n="lb"/>{#भेदः#} (= separation), {#विवादः#} (= dispute) {%or%}
-<div n="lb"/>{#अनर्थः#} (= evil), <div n="xe">{%he was the m.:%}</div> <div n="xs">{#*स भेदं जनयामास।#}</div>
+{@MISCHIEF-MAKER:@}¦ expr. by circumlo. with:
+{#भेदः#} (= separation), {#विवादः#} (= dispute) {%or%}
+{#अनर्थः#} (= evil), <div n="xe">{%he was the m.:%}</div> <div n="xs">{#*स भेदं जनयामास।#}</div>
 <LEND>

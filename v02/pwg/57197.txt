@@ -1,5 +1,5 @@
 <L>57197<pc>5-0505<k1>मध्यस्थ<k2>मध्यस्थ
-{#मध्यस्थ#}¦ {#(म° + स्थ)#} <lex>adj.</lex> <lex>f.</lex> {#आ#} 
+{#मध्यस्थ#}¦ ({#म° + स्थ#}) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
 <div n="1"> 1) = {#निसृष्ट#} 
 <ls>TRIK. 3, 1, 16.</ls> {%in der Mitte%} d. h. {%im Luftraum befindlich%} 
 <ls>ŚĀṄKH. BR. 5, 4.</ls> {%in der Mitte befindlich%}
@@ -32,9 +32,9 @@
 <ls>MBH. 2, 1592.</ls> {#मध्यस्थः सततं भीष्मो द्रोणपुत्रो मयि स्थितः#} 
 <ls>1, 5691. 13, 1681.</ls> <ls>YĀJÑ. 2, 44.</ls> <ls>Spr. 472.</ls> {#धर्म#} 
 <ls>R. 3, 41, 18.</ls> {#कालः सर्वस्य मध्यस्थः प्रियस्यैवाप्रियस्य च#} 
-<ls>?4, 18, 29. Spr. 3562. 4224. ŚĀK. 63, 19. MĀLAV. 9, 2. 13, 19. DHŪRTAS. in LA. 92, 4.</ls> {#सुहृद्, मित्र, अरि, उदासीन, मध्यस्थ, द्वेष्य, बन्धु#} 
+<ls>4, 18, 29.</ls> <ls>Spr. 3562. 4224.</ls> <ls>ŚĀK. 63, 19.</ls> <ls>MĀLAV. 9, 2. 13, 19.</ls> <ls>DHŪRTAS.</ls> in <ls>LA. 92, 4.</ls> {#सुहृद्, मित्र, अरि, उदासीन, मध्यस्थ, द्वेष्य, बन्धु#} 
 <ls>BHAG. 6, 9.</ls> 
-<ls>MBH. 13, 4313. 15, 214.</ls> 
+<ls>MBH. 13, 4313.</ls> <ls n="MBH.">15, 214.</ls> 
 <ls>Spr. 1664. 5055.</ls> 
 <ls>BHĀG. P. 6, 16, 5.</ls> Beiw. <is>Śiva's</is> <ls>ŚIV.</ls> 
 <div n="2">— d) {%in der Mitte stehend%} so v. a. {%Keinem angehörend%} oder {%beiden Theilen angehörig%}: {#°स्थान#} {%ein neutraler Boden%} 

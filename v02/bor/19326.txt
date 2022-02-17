@@ -1,5 +1,5 @@
 <L>19326<pc>599<k1>ride<k2>ride
-<div n="lb"/>{@RIDE@}¦ (subs.): <div n="I">I The act: <div n="xe">{%to take a r.:%}</div> <div n="xs">{#अश्वेन #}
-<div n="lb"/>{# सञ्चरते#}</div> ({#चर्,#} c. l.) <div n="xe">{%or%}</div> <div n="xs">{#विहरति#}</div> ({#हृ,#} c. l.): v.
-<div n="lb"/>Also R. ing. </div><div n="I">II A road: perh. {#वीथिः,#} M. n.</div>
+{@RIDE@}¦ (subs.): <div n="I">I The act: <div n="xe">{%to take a r.:%}</div> <div n="xs">{#अश्वेन #}
+{# सञ्चरते#}</div> ({#चर्,#} c. l.) <div n="xe">{%or%}</div> <div n="xs">{#विहरति#}</div> ({#हृ,#} c. l.): v.
+Also R. ing. </div><div n="I">II A road: perh. {#वीथिः,#} M. n.</div>
 <LEND>

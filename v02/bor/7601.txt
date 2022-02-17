@@ -1,6 +1,6 @@
 <L>7601<pc>240<k1>engrave<k2>engrave
-<div n="lb"/>{@ENGRAVE:@}¦ <div n="1">(1) {#मुद्रयति#} ({#मुद्र्,#} c. 10.), <div n="xe">{%with my%}
-<div n="lb"/>{%name e. d on it:%}</div> <div n="xs">{#मन्नामाक्षरमुद्रितः#}</div> ({#ता, तं#}), A. r.;</div>
-<div n="lb"/><div n="1">(2) {#उत्किरति#} ({#कृ,#} c. 6.), <div n="xe">{%with name e. d. on the%}
-<div n="lb"/>{%bezel:%}</div> <div n="xs">{#मणिबन्धनोत्कीर्णनामघेयः#}</div> ({#या, यं#}), Sa.</div>
+{@ENGRAVE:@}¦ <div n="1">(1) {#मुद्रयति#} ({#मुद्र्,#} c. 10.), <div n="xe">{%with my%}
+{%name e. d on it:%}</div> <div n="xs">{#मन्नामाक्षरमुद्रितः#}</div> ({#ता, तं#}), A. r.;</div>
+<div n="1">(2) {#उत्किरति#} ({#कृ,#} c. 6.), <div n="xe">{%with name e. d. on the%}
+{%bezel:%}</div> <div n="xs">{#मणिबन्धनोत्कीर्णनामघेयः#}</div> ({#या, यं#}), Sa.</div>
 <LEND>

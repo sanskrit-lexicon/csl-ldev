@@ -1,5 +1,5 @@
 <L>20875<pc>656<k1>sneeze<k2>sneeze
-<div n="lb"/>{@SNEEZE,@}¦ {@SNEEZING@} (subs.): <div n="1">(1) {#क्षुतम्,#} <div n="xe">{%s. -pro-%}
-<div n="lb"/>{%ducer:%}</div> <div n="xs">{#क्षुताभिजननः,#}</div> A.; </div><div n="1">(2) {#क्षवः, -थुः,#} Sr.;</div>
-<div n="lb"/><div n="1">(3) {#क्षुत्#} (f.); </div><div n="1">(4) {#छिक्का;#} </div><div n="1">(5) {#हञ्जिः।#}</div>
+{@SNEEZE,@}¦ {@SNEEZING@} (subs.): <div n="1">(1) {#क्षुतम्,#} <div n="xe">{%s. -pro-%}
+{%ducer:%}</div> <div n="xs">{#क्षुताभिजननः,#}</div> A.; </div><div n="1">(2) {#क्षवः, -थुः,#} Sr.;</div>
+<div n="1">(3) {#क्षुत्#} (f.); </div><div n="1">(4) {#छिक्का;#} </div><div n="1">(5) {#हञ्जिः।#}</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>104292<pc>7-0606<k1>सदस्य<k2>सदस्य^
 {#सदस्य^#}¦ (von {#सदस्#}) <lex>adj.</lex> {%im%} <is>Sadas</is> {%befindlich, dazu gehörig, Theilnehmer an einer Versammlung%} (insbes. bei einem Opfer); speciell <lex>m.</lex> sg. {%ein im%} <is>Sadas</is>, {%damit es nicht leer stehe, sitzender%} <is>Ṛtvij</is>, {%der siebenzehnte, der nur zuschaut%} 
-<ls>?(ĀŚV. GṚHY.1,23,5. Verz. d. Oxf. H. 267,a,25. HARIV. 1335) AK.2,7,15. H. 480. VS.7,45. 38,18. ŚAT. BR.4,2,1,29.</ls> {#याव^न्तो\ वै स^द\स्या^स्ते सर्वे^ दक्षि\ण्या^ः#} 
+(<ls>ĀŚV. GṚHY.1,23,5.</ls> <ls>Verz. d. Oxf. H. 267,a,25.</ls> <ls>HARIV. 1335</ls>) <ls>AK. 2,7,15.</ls> <ls>H. 480.</ls> <ls>VS. 7,45. 38,18.</ls> <ls>ŚAT. BR. 4,2,1,29.</ls> {#याव^न्तो\ वै स^द\स्या^स्ते सर्वे^ दक्षि\ण्या^ः#} 
 <ls>TS. 3, 2, 8, 3. 6, 1, 9, 6. 5, 1, 5. 7, 3, 13, 1.</ls> {#अग्नयः#} 
 <ls>AIT. BR. 2, 36. 7, 1.</ls> 
 <ls>ŚĀṄKH. BR. 17, 7. 26, 4.</ls> 
 <ls>LĀṬY. 2, 3, 6. 4, 10. 5, 12, 8. 8, 11, 15.</ls> {#स सदस्यैः सहासीनः श्रावयामास भारतम्#} 
-<ls>MBH. 1, 98. 862. 2042. 2215. 4, 552. 14, 266. 286. 2628.</ls> 
-<ls>HARIV. 1336. 2204.</ls> 
+<ls>MBH. 1, 98.</ls> <ls n="MBH. 1,">862.</ls> <ls n="MBH. 1,">2042.</ls> <ls n="MBH. 1,">2215.</ls> <ls n="MBH.">4, 552.</ls> <ls n="MBH.">14, 266.</ls> <ls n="MBH. 14,">286.</ls> <ls n="MBH. 14,">2628.</ls> 
+<ls>HARIV. 1336.</ls> <ls n="HARIV.">2204.</ls> 
 <ls>R. 1, 13, 23 (21 GORR.). 62, 24 (64, 24 GORR.). 2, 89, 23. 104, 30.</ls> <ls>R. GORR. 1, 67, 25. 7, 36, 56.</ls> <ls>ŚĀK. 32, 11.</ls> <ls>BHĀG. P. 4, 2, 6. 19. 5, 7. 13, 29. 8, 18, 22. 20, 22.</ls>
 <LEND>

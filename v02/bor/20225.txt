@@ -1,17 +1,17 @@
 <L>20225<pc>631<k1>set<k2>set
-<div n="lb"/>{@SET@}¦ (v. i.): <div n="I">I Of heavenly bodies: </div><div n="1">(1) {#अस्तं #}
-<div n="lb"/>{# गच्छति#} ({#गम्,#} c. 1.), {#याति#} ({#या,#} c. 2.), {#व्रजति#}
-<div n="lb"/>({#व्रज्,#} c. 1.), <div n="xe">{%when the sun was s. ting:%}</div> <div n="xs">{#सूर्येऽस्त-#}
-<div n="lb"/>{#मुपगच्छति;#}</div> <div n="xe">{%when the sun had s.:%}</div> <div n="xs">{#अस्तमिते सूर्ये,#}</div>
-<div n="lb"/>Mah. vi.; </div><div n="1">(2) {#अस्तगिरिम् आरोहति#} ({#रुह्,#} c. 1.),
-<div n="lb"/>{#प्राप्नोति#} ({#आप्,#} c. 5.), etc. (with ref. to the
-<div n="lb"/>fabulous mount); <div n="xe">{%the sun is s.ting:%}</div> <div n="xs">{#गिरिमस्तं #}
-<div n="lb"/>{# भानुमान् प्रतिपद्यते;#}</div> <div n="xe">{%then when the sun had s.:%}</div> <div n="xs">{#अस्तं #}
-<div n="lb"/>{# गिरिमथारूढे भास्करे,#}</div> Mah. vi.; </div><div n="1">(3) {#पतति#} (fall),
-<div n="lb"/>{#मज्जति#} (= sink), etc, (poet), {%about to s.:%}
-<div n="lb"/>{#पतिष्यत्,#} Si. ix. 6.; <div n="xe">{%with the half-s. sun:%}</div> <div n="xs">{#सामि #}
-<div n="lb"/>{# मज्जति रवौ,#}</div> Ki. ix. 5.; </div><div n="1">(4) {#अभिनिम्लोचति#} ({#म्लुच्,#}
-<div n="lb"/>c. 1.) (rare). Ph.: <div n="xe">{%s. ting time:%}</div> <div n="xs">{#अस्तगमनवेला#}</div>
-<div n="lb"/>and sim. comp.s. </div><div n="I">II To undertake: q. v.:
-<div n="lb"/>{#व्यवस्यति#} ({#अस्,#} c. 4.).</div>
+{@SET@}¦ (v. i.): <div n="I">I Of heavenly bodies: </div><div n="1">(1) {#अस्तं #}
+{# गच्छति#} ({#गम्,#} c. 1.), {#याति#} ({#या,#} c. 2.), {#व्रजति#}
+({#व्रज्,#} c. 1.), <div n="xe">{%when the sun was s. ting:%}</div> <div n="xs">{#सूर्येऽस्त-#}
+{#मुपगच्छति;#}</div> <div n="xe">{%when the sun had s.:%}</div> <div n="xs">{#अस्तमिते सूर्ये,#}</div>
+Mah. vi.; </div><div n="1">(2) {#अस्तगिरिम् आरोहति#} ({#रुह्,#} c. 1.),
+{#प्राप्नोति#} ({#आप्,#} c. 5.), etc. (with ref. to the
+fabulous mount); <div n="xe">{%the sun is s.ting:%}</div> <div n="xs">{#गिरिमस्तं #}
+{# भानुमान् प्रतिपद्यते;#}</div> <div n="xe">{%then when the sun had s.:%}</div> <div n="xs">{#अस्तं #}
+{# गिरिमथारूढे भास्करे,#}</div> Mah. vi.; </div><div n="1">(3) {#पतति#} (fall),
+{#मज्जति#} (= sink), etc, (poet), {%about to s.:%}
+{#पतिष्यत्,#} Si. ix. 6.; <div n="xe">{%with the half-s. sun:%}</div> <div n="xs">{#सामि #}
+{# मज्जति रवौ,#}</div> Ki. ix. 5.; </div><div n="1">(4) {#अभिनिम्लोचति#} ({#म्लुच्,#}
+c. 1.) (rare). Ph.: <div n="xe">{%s. ting time:%}</div> <div n="xs">{#अस्तगमनवेला#}</div>
+and sim. comp.s. </div><div n="I">II To undertake: q. v.:
+{#व्यवस्यति#} ({#अस्,#} c. 4.).</div>
 <LEND>

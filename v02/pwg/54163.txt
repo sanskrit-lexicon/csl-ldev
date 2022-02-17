@@ -6,7 +6,7 @@
 <ls>ŚAT. BR. 1, 4, 2, 2. 5, 1, 8.</ls> 
 <ls>KAUŚ. 71.</ls> {#भ\र\तमुद्ध^रे\मनु^षिञ्च#} 
 <ls>TBR. 3, 7, 5, 5.</ls> <lex>m.</lex> Bez. eines best. <is>Agni</is> 
-<ls>MBH. 3, 14135. 14176.</ls> {#भरत्येष प्रजाः सर्वास्ततो भरत उच्यते#} 
+<ls>MBH. 3, 14135.</ls> <ls n="MBH. 3,">14176.</ls> {#भरत्येष प्रजाः सर्वास्ततो भरत उच्यते#} 
 <ls>14177.</ls> er hat einen Sohn <is>Bharata</is> und eine Tochter <is>Bharatī</is> 
 <ls>14136. fg.</ls>
 [Page5-0212]
@@ -43,8 +43,8 @@ Vgl. {#भरथ#} .
 <ls>H. 702.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>ṚV.</ls> 
-<ls>ANUKR.</ls> <ls>AIT. BR. 8, 23.</ls> <ls>ŚAT. BR. 13, 5, 4, 11. fgg.</ls> <ls>MAITRYUP. 1, 4.</ls> <ls>MBH. 1, 3106. 3118. fgg. 3785. 7, 2377. fgg.</ls> <ls>HARIV. 1722. fgg.</ls> <ls>KAP. 4, 8.</ls> <ls>ŚĀK. 192.</ls> <ls>VP. 449.</ls> ein Sohn <is>Dhruvasaṃdhi's</is> und Vater <is>Asita's</is> 
+<ls>ṚV. ANUKR.</ls> 
+<ls>AIT. BR. 8, 23.</ls> <ls>ŚAT. BR. 13, 5, 4, 11. fgg.</ls> <ls>MAITRYUP. 1, 4.</ls> <ls>MBH. 1, 3106.</ls> <ls n="MBH. 1,">3118. fgg.</ls> <ls n="MBH. 1,">3785.</ls> <ls n="MBH.">7, 2377. fgg.</ls> <ls>HARIV. 1722. fgg.</ls> <ls>KAP. 4, 8.</ls> <ls>ŚĀK. 192.</ls> <ls>VP. 449.</ls> ein Sohn <is>Dhruvasaṃdhi's</is> und Vater <is>Asita's</is> 
 <ls>R. 1, 70, 26. 27. 2, 110, 15.</ls> ein Sohn <is>Daśaratha's</is> und jüngerer Bruder <is>Rāma's</is> 
 <ls>TRIK. 3, 3, 174.</ls> 
 <ls>H. an.</ls> 
@@ -61,9 +61,9 @@ Vgl. {#भरथ#} .
 <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 53.</ls> ein alter <is>Muni</is>, der zum Autor eines <is>Gāndharvaveda</is> (eines <is>Alaṃkāraśāstra</is>) gemacht wird, 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#मुनिना भरतेन यः प्रयोगो भवतीष्वष्टरसाश्रयो निबद्धः#} 
 <ls>VIKR. 36. 35, 1.</ls> 
-<ls>VP. 284.</ls> <ls>Schol.</ls> zu <ls>ŚĀK. 3, 6. 52, 3.</ls> <ls>SĀH. D. 96, 15.</ls> <ls>VET.</ls> in <ls>LA. (II) 20, 16.</ls> <ls>Verz. d. Oxf. H. 113</ls>, {%b%}, 1. 31. 200, {%a%}, 4. fgg. 
-<ls>?202,a,37.b,3. No. 259. 412. 484. Schol. zu H. 297. 529.</ls> {#भरत#} so v. a. <is>Bharata's</is> {%Lehre%}: {#°ज्ञ#} (=  {#नाट्यशास्त्रज्ञ#} Schol.; {#भरत = नाट्यशास्त्र#} und {#शास्त्र#} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls><ls>?). ŚIŚ. 20, 44. DHŪRTAS. 67, 5.</ls> Vgl. u. {#नटनारायण#} und oben die Bed. {%Schauspieler.%} {#भरत = भरतसेन#} 
+<ls>VP. 284.</ls> <ls>Schol.</ls> zu <ls>ŚĀK. 3, 6. 52, 3.</ls> <ls>SĀH. D. 96, 15.</ls> <ls>VET. in LA. (II) 20, 16.</ls> <ls>Verz. d. Oxf. H. 113,b,1. 31. 200,a,4</ls> fgg. 
+<ls>202,a,37.b,3. No. 259. 412. 484.</ls> Schol. zu <ls>H. 297. 529.</ls> {#भरत#} so v. a. <is>Bharata's</is> {%Lehre%}: {#°ज्ञ#} (= {#नाट्यशास्त्रज्ञ#} Schol.; {#भरत = नाट्यशास्त्र#} und {#शास्त्र#} 
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>). <ls>ŚIŚ. 20, 44.</ls> <ls>DHŪRTAS. 67, 5.</ls> Vgl. u. {#नटनारायण#} und oben die Bed. {%Schauspieler.%} {#भरत = भरतसेन#} 
 <ls>Verz. d. Oxf. H. No. 218.</ls> Vgl. {#जड°#} . 
 <div n="1">— 8) <lex>m.</lex> pl. N. eines Stammes, {%die Nachkommen des%} <is>Bharata</is>, <is>gaṇa</is> {#यौधेयादि#} zu 
 <ls>P. 5, 3, 117.</ls> 
@@ -73,17 +73,17 @@ Vgl. {#भरथ#} .
 <ls>15, 5, 24.</ls> <ls>AIT. BR. 3, 18.</ls> {#भरतऋषभ#} <is>Viśvāmitra</is>
 [Page5-0213]
 
-<ls>?7,17. - MBH.1,367. HARIV. 1896. VARĀH. BṚH. S. 16,21. Verz. d. Oxf. H. 258,b,18.</ls> {#प्राच्यभरतेषु#} 
+<ls>7,17.</ls> - <ls>MBH. 1, 367.</ls> <ls>HARIV. 1896.</ls> <ls>VARĀH. BṚH. S. 16,21.</ls> <ls>Verz. d. Oxf. H. 258,b,18.</ls> {#प्राच्यभरतेषु#} 
 <ls>P. 2, 4, 66. 4, 2, 113. 8, 3, 75.</ls> {#भरतवाक्य#} {%der Ausspruch der Bharatiden (des%} <is>Muni</is> <is>Bharata</is> 
 <ls>MON. WILL.</ls>) 
 <ls>ŚĀK. 113, 6.</ls> {#भरतर्षभ#} 
 <ls>N. 24, 6.</ls> 
 <ls>HIḌ. 1, 17. 2, 16.</ls> 
-<ls>MBH. 5, 7097. 7106.</ls> {#भरतशार्दूल#} 
+<ls>MBH. 5, 7097.</ls> <ls n="MBH. 5,">7106.</ls> {#भरतशार्दूल#} 
 <ls>7272.</ls> {#भरतश्रेष्ठ#} 
-<ls>7295. N. 17, 22.</ls> {#भरतसत्तम#} 
-<ls>MBH. 3, 14137. 5, 7104.</ls> Hierher vielleicht: {#द्यु\मद्वि भा^ति भर\तेभ्य\ः शुचि^ः#} 
-<ls>ṚV. 5, 11, 1</ls>? ; nach <ls>SĀY. und MAHĪDH.</ls> = {#ऋत्विज्#} . <lex>n.</lex> pl. Bez. eines <is>Varṣa</is>. {#भरतान्यैरावतानि विदेहाश्च कुरून्विना । वर्षाणि कर्मभूम्यः स्युः#} 
+<ls>7295.</ls> <ls>N. 17, 22.</ls> {#भरतसत्तम#} 
+<ls>MBH. 3, 14137.</ls> <ls n="MBH.">5, 7104.</ls> Hierher vielleicht: {#द्यु\मद्वि भा^ति भर\तेभ्य\ः शुचि^ः#} 
+<ls>ṚV. 5, 11, 1</ls>? ; nach <ls>SĀY.</ls> und <ls>MAHĪDH.</ls> = {#ऋत्विज्#} . <lex>n.</lex> pl. Bez. eines <is>Varṣa</is>. {#भरतान्यैरावतानि विदेहाश्च कुरून्विना । वर्षाणि कर्मभूम्यः स्युः#} 
 <ls>H. 946</ls>; vgl. die Scholien. {#भरत#} zwischen {#मथुरा#} und {#सौवीर#} 
 <ls>Verz. d. Oxf. H. 339,b,1.</ls> Nach <ls>H. an.</ls> und <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> bezeichnet {#भरत#} auch {%einen Wilden%} ({#शवर#}) und nach 
 <ls>H. an.</ls> ein {#क्षेत्र#} . 

@@ -1,5 +1,5 @@
 <L>5180<pc>111-b<k1>commodity<k2>commodity
-<div n="lb"/>COMMODITY¦, {%s.%} (Ware, merchandise) {#पण्यं, पणः, पणसः, द्रव्यं, भाण्डं;#}
-<div n="lb"/>‘price of a commodity,’ {#पण्यमूल्यं#}. — (Profit, advantage)
-<div n="lb"/>{#वृद्धिः#} {%f.,%} {#विवृद्धिः#} {%f.,%} {#अर्थः, लाभः, फलं, फलोदयः, प्राप्तिः#} {%f.,%} {#योगक्षेमः#}.
+COMMODITY¦, {%s.%} (Ware, merchandise) {#पण्यं, पणः, पणसः, द्रव्यं, भाण्डं;#}
+‘price of a commodity,’ {#पण्यमूल्यं#}. — (Profit, advantage)
+{#वृद्धिः#} {%f.,%} {#विवृद्धिः#} {%f.,%} {#अर्थः, लाभः, फलं, फलोदयः, प्राप्तिः#} {%f.,%} {#योगक्षेमः#}.
 <LEND>

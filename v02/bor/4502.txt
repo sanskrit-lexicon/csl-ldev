@@ -1,13 +1,13 @@
 <L>4502<pc>146<k1>consist<k2>consist
-<div n="lb"/>{@CONSIST:@}¦ <div n="I">I To subsist: q. v. </div><div n="I">II To be con-
-<div n="lb"/>-sistent: v. Consistent. </div><div n="I">III To c. of: Ph.:
-<div n="lb"/><div n="xe">{%on what it stands and of what it c. s of%}</div> <div n="xs">{#यदाधारं #}
-<div n="lb"/>{# यदात्मकम्,#}</div> V. p; <div n="xe">{%the science of astronomy c. s%}
-<div n="lb"/>{%of three branches%}</div> <div n="xs">{#ज्योतिःशास्त्रं स्कन्धत्रयाधिष्ठितम्,#}</div>
-<div n="lb"/>V. m.; {%the Gāyatri%} ({%metre%}) {%c. s of 24 syllables%}
-<div n="lb"/>{#चतुर्विशत्यक्षरा गायत्री,#} Up.: v. C. ing of. </div><div n="I">IV
-<div n="lb"/>To c. in.: Ph.: <div n="xe">{%perspicuity c. s in clearness of%}
-<div n="lb"/>{%meaning:%}</div> <div n="xs">{#अर्थवैमल्यात्मा प्रसादः,#}</div> Kav.; <div n="xe">{%grace c. s%}
-<div n="lb"/>{%in picturesqueness of language:%}</div> <div n="xs">{#उक्तिवैचित्र्यरूपं #}
-<div n="lb"/>{# माधुर्यम्,#}</div> Kav.</div>
+{@CONSIST:@}¦ <div n="I">I To subsist: q. v. </div><div n="I">II To be con-
+-sistent: v. Consistent. </div><div n="I">III To c. of: Ph.:
+<div n="xe">{%on what it stands and of what it c. s of%}</div> <div n="xs">{#यदाधारं #}
+{# यदात्मकम्,#}</div> V. p; <div n="xe">{%the science of astronomy c. s%}
+{%of three branches%}</div> <div n="xs">{#ज्योतिःशास्त्रं स्कन्धत्रयाधिष्ठितम्,#}</div>
+V. m.; {%the Gāyatri%} ({%metre%}) {%c. s of 24 syllables%}
+{#चतुर्विशत्यक्षरा गायत्री,#} Up.: v. C. ing of. </div><div n="I">IV
+To c. in.: Ph.: <div n="xe">{%perspicuity c. s in clearness of%}
+{%meaning:%}</div> <div n="xs">{#अर्थवैमल्यात्मा प्रसादः,#}</div> Kav.; <div n="xe">{%grace c. s%}
+{%in picturesqueness of language:%}</div> <div n="xs">{#उक्तिवैचित्र्यरूपं #}
+{# माधुर्यम्,#}</div> Kav.</div>
 <LEND>

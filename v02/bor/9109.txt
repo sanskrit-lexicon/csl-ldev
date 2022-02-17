@@ -1,9 +1,9 @@
 <L>9109<pc>288<k1>fool<k2>fool
-<div n="lb"/>{@FOOL@}¦ (subs.): <div n="1">(1) {#मूर्खः,#} <div n="xe">{%there is no medicine for%}
-<div n="lb"/>{%a f.:%}</div> <div n="xs">{#मूर्खस्य नास्त्यौषधम्,#}</div> J.; </div><div n="1">(2) {#निर्बुद्धिः#} <div n="xe">{%or%}</div> <div n="xs">{#अबुद्धिः,#}</div>
-<div n="lb"/><div n="xe">{%what has been done by me a f.:%}</div> <div n="xs">{#किं मया कृतमबुद्धिना,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(3) {#अविद्वान्,#} <div n="xe">{%f. s bow down to fate:%}</div> <div n="xs">{#दैवम-#}
-<div n="lb"/>{#विद्वांसः प्रमाणयन्ति,#}</div> Mu. Ph.: {%to make a f. of:%}
-<div n="lb"/>{#अवहासास्पदं करोति;#} <div n="xe">{%to play the f.:%}</div> <div n="xs">{#मूर्खवद् व्यवहरति#}</div>
-<div n="lb"/>({#हृ,#} c. 1.); <div n="xe">{%f.'s errand:%}</div> <div n="xs">{#मूर्खचेष्टितम्।#}</div></div>
+{@FOOL@}¦ (subs.): <div n="1">(1) {#मूर्खः,#} <div n="xe">{%there is no medicine for%}
+{%a f.:%}</div> <div n="xs">{#मूर्खस्य नास्त्यौषधम्,#}</div> J.; </div><div n="1">(2) {#निर्बुद्धिः#} <div n="xe">{%or%}</div> <div n="xs">{#अबुद्धिः,#}</div>
+<div n="xe">{%what has been done by me a f.:%}</div> <div n="xs">{#किं मया कृतमबुद्धिना,#}</div>
+Mah.; </div><div n="1">(3) {#अविद्वान्,#} <div n="xe">{%f. s bow down to fate:%}</div> <div n="xs">{#दैवम-#}
+{#विद्वांसः प्रमाणयन्ति,#}</div> Mu. Ph.: {%to make a f. of:%}
+{#अवहासास्पदं करोति;#} <div n="xe">{%to play the f.:%}</div> <div n="xs">{#मूर्खवद् व्यवहरति#}</div>
+({#हृ,#} c. 1.); <div n="xe">{%f.'s errand:%}</div> <div n="xs">{#मूर्खचेष्टितम्।#}</div></div>
 <LEND>

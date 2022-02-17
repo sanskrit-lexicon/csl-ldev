@@ -1,5 +1,5 @@
 <L>9546<pc>303<k1>function<k2>function
-<div n="lb"/>{@FUNCTION:@}¦ <div n="I">I Work: q.v.: {#व्यापारः।#} </div><div n="I">II
-<div n="lb"/>Action: q.v.: {#वृत्तिः,#} <div n="xe">{%f. of the heart:%}</div> <div n="xs">{#हृदयवृत्तिः।#}</div></div>
-<div n="lb"/><div n="I">III Math. t.t.: {#वृत्तिः,#} <div n="xe">{%f. of x:%}</div> <div n="xs">{#*शस्य वृत्तिः;(श)वृं।#}</div></div>
+{@FUNCTION:@}¦ <div n="I">I Work: q.v.: {#व्यापारः।#} </div><div n="I">II
+Action: q.v.: {#वृत्तिः,#} <div n="xe">{%f. of the heart:%}</div> <div n="xs">{#हृदयवृत्तिः।#}</div></div>
+<div n="I">III Math. t.t.: {#वृत्तिः,#} <div n="xe">{%f. of x:%}</div> <div n="xs">{#*शस्य वृत्तिः;(श)वृं।#}</div></div>
 <LEND>

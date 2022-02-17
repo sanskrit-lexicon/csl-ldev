@@ -1,4 +1,4 @@
 <L>3291<pc>109<k1>cavity<k2>cavity
-<div n="lb"/>{@CAVITY:@}¦ <div n="1">(1) {#छिद्रम्;#} </div><div n="1">(2) {#रन्ध्रम्;#} </div><div n="1">(3) {#गर्तः#}
-<div n="lb"/>(=hole).</div>
+{@CAVITY:@}¦ <div n="1">(1) {#छिद्रम्;#} </div><div n="1">(2) {#रन्ध्रम्;#} </div><div n="1">(3) {#गर्तः#}
+(=hole).</div>
 <LEND>

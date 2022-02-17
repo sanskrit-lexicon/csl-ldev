@@ -1,7 +1,7 @@
 <L>6162<pc>198<k1>dignity<k2>dignity
-<div n="lb"/>{@DIGNITY:@}¦ <div n="I">I Honourableness: </div><div n="1">(1) {#महिमन्#} (m.),
-<div n="lb"/><div n="xe">{%royal d.:%}</div> <div n="xs">{#राजमहिमा,#}</div> Mal.; </div><div n="1">(2) {#अनुभावः,#} {%high d.:%}
-<div n="lb"/>{#महानुभावः,#} Ki. </div><div n="I">II Of style: {#बोजस्#} (n.), Ki.;</div>
-<div n="lb"/><div n="I">III {%High position:%} </div><div n="1">(1) {#उच्चपदम्;#} </div><div n="1">(2) {#प्रतिष्ठा:#} v.
-<div n="lb"/>Honour.</div>
+{@DIGNITY:@}¦ <div n="I">I Honourableness: </div><div n="1">(1) {#महिमन्#} (m.),
+<div n="xe">{%royal d.:%}</div> <div n="xs">{#राजमहिमा,#}</div> Mal.; </div><div n="1">(2) {#अनुभावः,#} {%high d.:%}
+{#महानुभावः,#} Ki. </div><div n="I">II Of style: {#बोजस्#} (n.), Ki.;</div>
+<div n="I">III {%High position:%} </div><div n="1">(1) {#उच्चपदम्;#} </div><div n="1">(2) {#प्रतिष्ठा:#} v.
+Honour.</div>
 <LEND>

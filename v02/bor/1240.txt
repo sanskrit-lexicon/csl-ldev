@@ -1,4 +1,4 @@
 <L>1240<pc>044<k1>assimilation<k2>assimilation
-<div n="lb"/>{@ASSIMILATION:@}¦ <div n="I">I A making like: {#सदृशीकरणम्।#}</div>
-<div n="lb"/><div n="I">II Of food: {#पाकः:#} v. Digestion.</div>
+{@ASSIMILATION:@}¦ <div n="I">I A making like: {#सदृशीकरणम्।#}</div>
+<div n="I">II Of food: {#पाकः:#} v. Digestion.</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>20047<pc>522-a<k1>musician<k2>musician
-<div n="lb"/>MUSICIAN¦, {%s.%} (One that plays on an instrument) {#वादकः, वाद्य-#}
-<div n="lb"/>{#वादकः, वादित्रवादकः, भाण्डवादकः, वादनकर्त्ता#} {%m.%} {#(र्त्तृ), भाण्डिकः#}. — 
-<div n="lb"/>(Singer) {#गाथकः, गाथिकः, गायकः, गाता#} {%m.%} {#(तृ), गाथाकारः#}. — 
-<div n="lb"/>(One skilled in music) {#वादनकुशलः, वादित्रकुशलः, सुस्वरविद्याज्ञः,#}
-<div n="lb"/>{#सङ्गीतविद्यातत्त्वज्ञः, गान्धर्वतत्त्वज्ञः;#} ‘celestial musician,’ {#गन्धर्बः,#}
-<div n="lb"/>names for some of these are {#तुम्बुरुः#} {%m.,%} {#विश्वावसुः, चित्ररथः;#}
-<div n="lb"/>the last is their chief. {%See%} GANDHARBA.
+MUSICIAN¦, {%s.%} (One that plays on an instrument) {#वादकः, वाद्य-#}
+{#वादकः, वादित्रवादकः, भाण्डवादकः, वादनकर्त्ता#} {%m.%} {#(र्त्तृ), भाण्डिकः#}. — 
+(Singer) {#गाथकः, गाथिकः, गायकः, गाता#} {%m.%} {#(तृ), गाथाकारः#}. — 
+(One skilled in music) {#वादनकुशलः, वादित्रकुशलः, सुस्वरविद्याज्ञः,#}
+{#सङ्गीतविद्यातत्त्वज्ञः, गान्धर्वतत्त्वज्ञः;#} ‘celestial musician,’ {#गन्धर्बः,#}
+names for some of these are {#तुम्बुरुः#} {%m.,%} {#विश्वावसुः, चित्ररथः;#}
+the last is their chief. {%See%} GANDHARBA.
 <LEND>

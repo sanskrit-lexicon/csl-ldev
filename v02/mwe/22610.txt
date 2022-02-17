@@ -1,7 +1,7 @@
 <L>22610<pc>598-a<k1>plantain<k2>plantain
-<div n="lb"/>PLANTAIN¦, {%s.%} (Tree) {#कदली -लः, कदलकः, रम्भा, तृणसारा, गुच्छफला,#}
-<div n="lb"/>{#ततपत्री, मोचा, मोचकः, अंशुमत्फला, काष्ठीला, वारणबुषा, वारणबुसा,#}
-<div n="lb"/>{#वारणवल्लभा, वारबुषा;#} ‘the fruit,’ {#कदलीफलं, मोचं, मोचाटः, रम्भा;#}
-<div n="lb"/>‘wild plantain tree,’ {#काष्ठकदली;#} ‘mixture of sugar and
-<div n="lb"/>milk with plantains and spices,’ {#शिखरिणी#}.
+PLANTAIN¦, {%s.%} (Tree) {#कदली -लः, कदलकः, रम्भा, तृणसारा, गुच्छफला,#}
+{#ततपत्री, मोचा, मोचकः, अंशुमत्फला, काष्ठीला, वारणबुषा, वारणबुसा,#}
+{#वारणवल्लभा, वारबुषा;#} ‘the fruit,’ {#कदलीफलं, मोचं, मोचाटः, रम्भा;#}
+‘wild plantain tree,’ {#काष्ठकदली;#} ‘mixture of sugar and
+milk with plantains and spices,’ {#शिखरिणी#}.
 <LEND>

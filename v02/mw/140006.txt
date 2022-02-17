@@ -1,16 +1,16 @@
 <L>140006<pc>707,2<k1>प्राप्<k2>प्राप्<e>1
-<s>प्रा<srs/>प्</s> ¦ (<s>प्र-√ आप्</s>) <ab>P.</ab> <ab>Ā.</ab> <s>प्रा<srs/>प्नोति</s> (irreg. <ab>Pot.</ab> <s>प्रा<srs/>पेयम्</s>), to attain to;
+<s>प्रा<स्र्स्/>प्</s> ¦ (<s>प्र-√ आप्</s>) <ab>P.</ab> <ab>Ā.</ab> <s>प्रा<स्र्स्/>प्नोति</s> (<ab>irreg.</ab> <ab>Pot.</ab> <s>प्रा<स्र्स्/>पेयम्</s>), to attain to;
 <div n="vp"/> reach, arrive at, meet with, find, <ls>AV.</ls> &c. &c.;
 <div n="to"/>to obtain, receive (also as a husband or wife), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to incur (a fine), <ls>Mn. viii, 225</ls>;
 <div n="to"/>to suffer (capital punishment), <ls>ib. 364</ls>;
 <div n="to"/> (with <s>दिशः</s>) to flee in all directions, <ls>Bhaṭṭ.</ls>;
-<div n="to"/>to extend, stretch, reach to (<ab>Ā.</ab>), <ls>Pāṇ. 5-2, 8</ls>;
+<div n="to"/>to extend, stretch, reach to (<ab>Ā.</ab>), <ls>Pāṇ. v, 2, 8</ls>;
 <div n="to"/>to be present or at hand, <ls>AV.</ls>;
-<div n="to"/> (in gram.) to pass or be changed into (<ab>acc.</ab>), <ls>Siddh.</ls> : to result (from a rule), be in force, obtain (also <ab>Pass.</ab>), <ls>Kāś.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>प्रा<srs/>पयति</s>, <s>°ते</s> (<ab>ind.p.</ab> <s>प्रा<srs/>पय्य</s>, or <s>प्रा<srs/>प्य</s>, <ls>Pāṇ. 6-4, 57</ls> <ab>Sch.</ab>), to cause to reach or attain (2 <ab>acc.</ab>), advance, promote, further (<ab>P.</ab> <ls>ChUp.</ls>; <ls>MBh.</ls> &c.; <ab>Ā.</ab> <ls>TBr.</ls>; <ls>MBh.</ls>);
+<div n="to"/> (in <ab>gram.</ab>) to pass or be changed into (<ab>acc.</ab>), <ls>Siddh.</ls> : to result (from a rule), be in force, obtain (also <ab>Pass.</ab>), <ls>Kāś.</ls> :
+<div n="to"/><ab>Caus.</ab> <s>प्रा<स्र्स्/>पयति</s>, <s>°ते</s> (<ab>ind.p.</ab> <s>प्रा<स्र्स्/>पय्य</s>, or <s>प्रा<स्र्स्/>प्य</s>, <ls>Pāṇ. vi, 4, 57</ls> <ab>Sch.</ab>), to cause to reach or attain (2 <ab>acc.</ab>), advance, promote, further (<ab>P.</ab> <ls>ChUp.</ls>; <ls>MBh.</ls> &c.; <ab>Ā.</ab> <ls>TBr.</ls>; <ls>MBh.</ls>);
 <div n="to"/>to lead or bring to (<ab>dat.</ab>), <ls>VP.</ls>;
 <div n="to"/>to impart, communicate, announce, relate, <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to meet with, obtain, <ls>R.</ls> :
-<div n="to"/><ab>Desid.</ab> <s>प्रे<srs/>प्सति</s>, to try to attain, strive to reach, <ls>ŚBr.</ls><info verb="pre" cp="PĀ" parse="pra+Ap"/>
+<div n="to"/><ab>Desid.</ab> <s>प्रे<स्र्स्/>प्सति</s>, to try to attain, strive to reach, <ls>ŚBr.</ls><info verb="pre" cp="PĀ" parse="pra+Ap"/>
 <LEND>

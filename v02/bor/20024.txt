@@ -1,6 +1,6 @@
 <L>20024<pc>623<k1>secluded<k2>secluded
-<div n="lb"/>{@SECLUDED@}¦ (adj.): <div n="1">(1) {#विविक्त#} (f. {#क्ता#}), <div n="xe">{%in a s.%}
-<div n="lb"/>{%spot:%}</div> <div n="xs">{#विविक्तप्रदेशे,#}</div> P. i. 4.; </div><div n="1">(2) {#विजन#} (f. {#ना#})
-<div n="lb"/>v. Lonely, solitary; </div><div n="1">(3) {#निभृत#} (f. {#ता#}):
-<div n="lb"/>v. Quiet.</div>
+{@SECLUDED@}¦ (adj.): <div n="1">(1) {#विविक्त#} (f. {#क्ता#}), <div n="xe">{%in a s.%}
+{%spot:%}</div> <div n="xs">{#विविक्तप्रदेशे,#}</div> P. i. 4.; </div><div n="1">(2) {#विजन#} (f. {#ना#})
+v. Lonely, solitary; </div><div n="1">(3) {#निभृत#} (f. {#ता#}):
+v. Quiet.</div>
 <LEND>

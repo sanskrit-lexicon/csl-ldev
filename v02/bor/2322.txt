@@ -1,4 +1,4 @@
 <L>2322<pc>080<k1>bone<k2>bone
-<div n="lb"/>{@BONE@}¦ (subs.): <div n="1">(1) {#अस्थि#} (n.); </div><div n="1">(2) {#कीकसम्#} (rare);</div>
-<div n="lb"/><div n="1">(3) {#कुल्यम्#} (rare).</div>
+{@BONE@}¦ (subs.): <div n="1">(1) {#अस्थि#} (n.); </div><div n="1">(2) {#कीकसम्#} (rare);</div>
+<div n="1">(3) {#कुल्यम्#} (rare).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>16802<pc>515<k1>perishableness<k2>perishableness
-<div n="lb"/>{@PERISHABLENESS:@}¦ <div n="1">(1) {#नश्वरता, वि-;#} </div><div n="1">(2) {#भङ्गुरता,#}
-<div n="lb"/><div n="xe">{%the sudden p. of all pleasures:%}</div> <div n="xs">{#अकाण्डभङ्गुरता सर्व-#}
-<div n="lb"/>{#सुखानाम्,#}</div> K.</div>
+{@PERISHABLENESS:@}¦ <div n="1">(1) {#नश्वरता, वि-;#} </div><div n="1">(2) {#भङ्गुरता,#}
+<div n="xe">{%the sudden p. of all pleasures:%}</div> <div n="xs">{#अकाण्डभङ्गुरता सर्व-#}
+{#सुखानाम्,#}</div> K.</div>
 <LEND>

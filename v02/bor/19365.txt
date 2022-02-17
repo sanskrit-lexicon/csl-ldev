@@ -1,10 +1,10 @@
 <L>19365<pc>600<k1>ring<k2>ring
-<div n="lb"/>{@RING@}¦ (subs.): <div n="I">I A circle: q. v.: {#मण्डलम्,#}
-<div n="lb"/><div n="xe">{%dancing in a r.:%}</div> <div n="xs">{#मण्डलनृत्यम्।#}</div> </div><div n="I">II For fingers:
-<div n="lb"/>{#अङ्गुली#} ({#री#}) {#यम्, -कम्,#} <div n="xe">{%interchange of r. s:%}</div> <div n="xs">{#अङ्गुलीयक-#}
-<div n="lb"/>{#विनिमयः,#}</div> D. ii.; <div n="xe">{%r. -finger:%}</div> <div n="xs">{#अनामिका#}</div> (but
-<div n="lb"/>{#मध्यमा,#} i. e. the middle finger is the Hindoo
-<div n="lb"/>r. -f. Hence {#मध्यमोपलः,#} Ki. ix. 2.); {%bezel of%} [Page601]
-<div n="lb"/><div n="xe">{%a r.:%}</div> <div n="xs">{#मणिबन्धः।, -नम्,#}</div> Sa. v. </div><div n="I">III A circular
-<div n="lb"/>area: {#मण्डलम्, वीथिः#} (?).</div>
+{@RING@}¦ (subs.): <div n="I">I A circle: q. v.: {#मण्डलम्,#}
+<div n="xe">{%dancing in a r.:%}</div> <div n="xs">{#मण्डलनृत्यम्।#}</div> </div><div n="I">II For fingers:
+{#अङ्गुली#} ({#री#}) {#यम्, -कम्,#} <div n="xe">{%interchange of r. s:%}</div> <div n="xs">{#अङ्गुलीयक-#}
+{#विनिमयः,#}</div> D. ii.; <div n="xe">{%r. -finger:%}</div> <div n="xs">{#अनामिका#}</div> (but
+{#मध्यमा,#} i. e. the middle finger is the Hindoo
+r. -f. Hence {#मध्यमोपलः,#} Ki. ix. 2.); {%bezel of%} [Page601]
+<div n="xe">{%a r.:%}</div> <div n="xs">{#मणिबन्धः।, -नम्,#}</div> Sa. v. </div><div n="I">III A circular
+area: {#मण्डलम्, वीथिः#} (?).</div>
 <LEND>

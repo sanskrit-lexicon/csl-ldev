@@ -1,8 +1,8 @@
 <L>15007<pc>458<k1>mother<k2>mother
-<div n="lb"/>{@MOTHER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#माता,#} <div n="xe">{%m. -queen:%}</div> <div n="xs">{#राजमाता;#}</div>
-<div n="lb"/><div n="xe">{%m. -tongue:%}</div> <div n="xs">{#भातृभाषा;#}</div> {%his father m.ed him:%}
-<div n="lb"/>{#पितैवास्य मातृतामकरोत्,#} C. i.; </div><div n="1">(2) {#जननी,#} <div n="xe">{%I am%}
-<div n="lb"/>{%your m:%}</div> <div n="xs">{#साऽहमस्मि वो जननी,#}</div> D. v. </div><div n="I">II Fig., [Page459]
-<div n="lb"/>parent, source: q. v.: </div><div n="1">(1) {#प्रसवित्री;#} </div><div n="1">(2) {#प्रसूः;#}</div>
-<div n="lb"/><div n="1">(3) {#प्रसूतिः#} (rare).</div>
+{@MOTHER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#माता,#} <div n="xe">{%m. -queen:%}</div> <div n="xs">{#राजमाता;#}</div>
+<div n="xe">{%m. -tongue:%}</div> <div n="xs">{#भातृभाषा;#}</div> {%his father m.ed him:%}
+{#पितैवास्य मातृतामकरोत्,#} C. i.; </div><div n="1">(2) {#जननी,#} <div n="xe">{%I am%}
+{%your m:%}</div> <div n="xs">{#साऽहमस्मि वो जननी,#}</div> D. v. </div><div n="I">II Fig., [Page459]
+parent, source: q. v.: </div><div n="1">(1) {#प्रसवित्री;#} </div><div n="1">(2) {#प्रसूः;#}</div>
+<div n="1">(3) {#प्रसूतिः#} (rare).</div>
 <LEND>

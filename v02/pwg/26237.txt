@@ -104,7 +104,7 @@
 
 <div n="p">— caus. {#छेदयति#} 
 <div n="1"> 1) {%abschneiden, abhauen%} 
-<ls>DHĀTUP. 35, 80</ls> {#(छेद्)#}.{# मूले#} 
+<ls>DHĀTUP. 35, 80</ls> ({#छेद्#}).{# मूले#} 
 <ls>ŚĀṄKH. ŚR. 17, 1, 8. 15.</ls> 
 <ls>GOBH. 4, 2, 9.</ls> {#नाभिनाडीम्#} 
 <ls>SUŚR. 1, 369, 1.</ls> {#यन्मे बाहुमचिच्छिदः#} 
@@ -198,7 +198,7 @@
 <ls>HARIV. 4836.</ls> {#(हव्यम्) जातवेदोमुखान्मायी मिषतामाच्छिनत्ति नः#} 
 <ls>KUMĀRAS. 2, 46.</ls> {#राजपुत्रीरिमाः शतम् । आच्छिद्य राज्ञां गेहेभ्यः परिवारं न्यधान्मम ॥#} 
 <ls>KATHĀS. 11, 54.</ls> {#आच्छिद्य सर्वं च धनं कुरुभ्यः#} 
-<ls>MBH. 4, 2147. 2159. 2240. 1489. 3, 1392. 5, 4924. 12, 2580. 13, 3180.</ls> 
+<ls>MBH. 4, 2147.</ls> <ls n="MBH. 4,">2159.</ls> <ls n="MBH. 4,">2240.</ls> <ls n="MBH. 4,">1489.</ls> <ls n="MBH.">3, 1392.</ls> <ls n="MBH.">5, 4924.</ls> <ls n="MBH.">12, 2580.</ls> <ls n="MBH.">13, 3180.</ls> 
 <ls>MṚCCH. 165, 7.</ls> 
 <ls>PAÑCAT. 222, 4.</ls> 
 <ls>BHĀG. P. 6, 7, 39. 8, 19, 32.</ls> 
@@ -220,11 +220,11 @@
 <ls>MBH. 7, 139.</ls> 
 <div n="1">— 2) {%ausrotten, zu Grunde richten, vernichten, Jmd den Untergang bereiten%} 
 <ls>AV. 7, 113, 1.</ls> {#उच्छिद्यमानेषु भृगुषु#} 
-<ls>MBH. 1, 6811. 16, 20.</ls> {#किं वा रिपूंस्तव गुरुः स्वयमुच्छिनत्ति#} 
+<ls>MBH. 1, 6811.</ls> <ls n="MBH.">16, 20.</ls> {#किं वा रिपूंस्तव गुरुः स्वयमुच्छिनत्ति#} 
 <ls>RAGH. 5, 71. 2, 23.</ls> 
 <ls>PAÑCAT. 155, 12.</ls> {#उच्छिद्यमानं रामेण भरतं त्रातुमर्हसि#} 
 <ls>R. GORR. 2, 7, 30.</ls> <ls>MBH. 12, 2612.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 197, 15.</ls> {#दुःखत्रयम्#} 
-<ls>Sch.</ls> in <ls>WILS. SĀṂKHYAK. S. 10.</ls> {#उच्छेत्तुं प्रभवति यन्न सप्तसप्तिस्तन्नैशं तिमिरमपाकरोति चन्द्रः#} 
+<ls>Sch.</ls> in <ls>WILS.</ls> <ls>SĀṂKHYAK. S. 10.</ls> {#उच्छेत्तुं प्रभवति यन्न सप्तसप्तिस्तन्नैशं तिमिरमपाकरोति चन्द्रः#} 
 <ls>ŚĀK. 157.</ls> {#उच्छिन्न#} (neben {#विनष्ट#}) {%zu Grunde gegangen, verworfen, erbärmlich%} 
 <ls>MṚCCH. 34, 15.</ls> 
 <div n="1">— 3) {%störend in Etwas eingreifen, hemmen, unterbrechen%}: {#तमुच्छिन्द्यामस्य कामं कथं नु यमसादने#} 
@@ -255,8 +255,8 @@
 [Page2-1093]
 {# (वासन#} {%Kleid%} und {#वासना = मिथ्याज्ञान#}) 
 <ls>PRAB. 50, 12.</ls> {%ausreissen%} und zugleich {%zu Grunde richten%}: {#संघातवान्यथा वेणुर्निविडो वेणुभिर्वृतः । न शक्यः स समुच्छेत्तुं दुर्बलो ऽपि तथा नृपः ॥#} 
-<ls>PAÑCAT. III, 57</ls> <ls>?(vgl. HIT. IV, 26).</ls> {%ausrotten, vernichten%}: {#ये समुच्चिच्छिदुर्ज्ञातीन्#} 
-<ls>MBH. 5, 2727. 12, 3797.</ls>
+<ls>PAÑCAT. III, 57</ls> (vgl. <ls>HIT. IV, 26).</ls> {%ausrotten, vernichten%}: {#ये समुच्चिच्छिदुर्ज्ञातीन्#} 
+<ls>MBH. 5, 2727.</ls> <ls n="MBH.">12, 3797.</ls>
 
 <div n="p">— {#परि#} 
 <div n="1"> 1) {%auf beiden Seiten abschneiden, beschneiden%}: {#अमूलं वा उभयतः परिच्छिन्नं रक्षः#} 
@@ -279,7 +279,7 @@
 <ls>15, 51.</ls> {#विश्वं वै ब्रह्मतन्मात्रं संस्थितं विष्णुमायया । ईश्वरेण परिच्छिन्नं कालेनाव्यक्तमूर्तिना ॥#} 
 <ls>BHĀG. P. 3, 10, 12</ls> (<ls>BURN.</ls>: {%apparaît â l'existence avec ses divisions, par la volonté de l'Être suprême%}). {#परिच्छिन्न#} {%begrenzt, beschränkt%}: {#परिच्छिन्नं न सर्वोपादानम्#} 
 <ls>KAP. 1, 77.</ls> 
-<ls>Sch.</ls> zu <ls>KAP. 1, 28. 49. 50.</ls> <ls>VEDĀNTAS. (Allah.)</ls> <ls>No. 36.</ls> 
+<ls>Sch.</ls> zu <ls>KAP. 1, 28. 49. 50.</ls> <ls>VEDĀNTAS. (Allah.) No. 36.</ls> 
 <div n="v">— Vgl. {#परिच्छित्ति#} u. s. w.
 
 <div n="p">— {#विपरि#} {%ringsherum abschneiden, beschneiden, zerschneiden%}: {#विपरिच्छिन्नमूलो ऽपि न विषीदेत्#} 

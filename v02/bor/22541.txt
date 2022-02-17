@@ -1,6 +1,6 @@
 <L>22541<pc>712<k1>thunderbolt<k2>thunderbolt
-<div n="lb"/>{@THUNDERBOLT:@}¦ <div n="1">(1) {#वज्रम्,#} {%about to hurl t.:%}
-<div n="lb"/>{#वज्रं मुमुक्षन्,#} R. ii. 42.; </div><div n="1">(2) {#कुलिशम्,#} {%t. -holder:%}
-<div n="lb"/>{#कुलिशभृत्#} (m.), Ki. x. 16.; </div><div n="1">(3) {#अशनिः,#} <div n="xe">{%struck%}
-<div n="lb"/>{%with t.:%}</div> <div n="xs">{#अशनिहत#}</div> (f. {#ता#}), K.</div>
+{@THUNDERBOLT:@}¦ <div n="1">(1) {#वज्रम्,#} {%about to hurl t.:%}
+{#वज्रं मुमुक्षन्,#} R. ii. 42.; </div><div n="1">(2) {#कुलिशम्,#} {%t. -holder:%}
+{#कुलिशभृत्#} (m.), Ki. x. 16.; </div><div n="1">(3) {#अशनिः,#} <div n="xe">{%struck%}
+{%with t.:%}</div> <div n="xs">{#अशनिहत#}</div> (f. {#ता#}), K.</div>
 <LEND>

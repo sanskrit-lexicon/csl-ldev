@@ -1,12 +1,12 @@
 <L>19766<pc>614<k1>satisfaction<k2>satisfaction
-<div n="lb"/>{@SATISFACTION:@}¦ <div n="I">I Gratification, content-
-<div n="lb"/>-ment. </div><div n="1">(1) {#सन्तोषः#} <div n="xe">{%or%}</div> <div n="xs">{#परितोषः,#}</div> <div n="xe">{%the old husband%}
-<div n="lb"/>{%could not give her s.:%}</div> <div n="xs">{#स वृद्धपतिस्तस्याः सन्तोषाय #}
-<div n="lb"/>{# नाभवत्,#}</div> H. i.; </div><div n="1">(2) {#तुष्टिः, सं-, परि-,#} <div n="xe">{%deriving s.%}
-<div n="lb"/>{%at night:%}</div> <div n="xs">{#तुष्टिमुपेयुषां निशि,#}</div> N. xvi. 111.; </div><div n="1">(3)
-<div n="lb"/>{#तृप्तिः, सं-, परि-,#} <div n="xe">{%great men do not get s. even with%}
-<div n="lb"/>{%the greatest greatness:%}</div> <div n="xs">{#तृप्तियोगः परेणापि महिम्ना न #}
-<div n="lb"/>{# महात्मनाम्,#}</div> Si. ii. 31. </div><div n="I">II As of hunger:</div>
-<div n="lb"/><div n="1">(1) {#शान्तिः:#} v. Mitigation; </div><div n="1">(2) {#निराकरणम्:#} v.
-<div n="lb"/>Removal. </div><div n="I">III As of debts.: {#शोधः, -नम्, परि-।#}</div>
+{@SATISFACTION:@}¦ <div n="I">I Gratification, content-
+-ment. </div><div n="1">(1) {#सन्तोषः#} <div n="xe">{%or%}</div> <div n="xs">{#परितोषः,#}</div> <div n="xe">{%the old husband%}
+{%could not give her s.:%}</div> <div n="xs">{#स वृद्धपतिस्तस्याः सन्तोषाय #}
+{# नाभवत्,#}</div> H. i.; </div><div n="1">(2) {#तुष्टिः, सं-, परि-,#} <div n="xe">{%deriving s.%}
+{%at night:%}</div> <div n="xs">{#तुष्टिमुपेयुषां निशि,#}</div> N. xvi. 111.; </div><div n="1">(3)
+{#तृप्तिः, सं-, परि-,#} <div n="xe">{%great men do not get s. even with%}
+{%the greatest greatness:%}</div> <div n="xs">{#तृप्तियोगः परेणापि महिम्ना न #}
+{# महात्मनाम्,#}</div> Si. ii. 31. </div><div n="I">II As of hunger:</div>
+<div n="1">(1) {#शान्तिः:#} v. Mitigation; </div><div n="1">(2) {#निराकरणम्:#} v.
+Removal. </div><div n="I">III As of debts.: {#शोधः, -नम्, परि-।#}</div>
 <LEND>

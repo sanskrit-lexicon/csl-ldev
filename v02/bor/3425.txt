@@ -1,4 +1,4 @@
 <L>3425<pc>114<k1>changeable<k2>changeable
-<div n="lb"/>{@CHANGEABLE:@}¦ <div n="I">I Mutable, variable: q. v.</div>
-<div n="lb"/><div n="I">II Fickle, inconstant: q. v.</div>
+{@CHANGEABLE:@}¦ <div n="I">I Mutable, variable: q. v.</div>
+<div n="I">II Fickle, inconstant: q. v.</div>
 <LEND>

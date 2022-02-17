@@ -1,5 +1,5 @@
 <L>8838<pc>280<k1>fishery<k2>fishery
-<div n="lb"/>{@FISHERY:@}¦ <div n="I">I The act: </div><div n="1">(1) {#मत्स्यबन्धनम्;#} </div><div n="1">(2)
-<div n="lb"/>{#मत्स्यधारणम्।#} </div><div n="I">II The place: prob. {#मत्स्यबन्धः; #}
-<div n="lb"/>{# मत्स्यस्थानम्#} (?).</div>
+{@FISHERY:@}¦ <div n="I">I The act: </div><div n="1">(1) {#मत्स्यबन्धनम्;#} </div><div n="1">(2)
+{#मत्स्यधारणम्।#} </div><div n="I">II The place: prob. {#मत्स्यबन्धः; #}
+{# मत्स्यस्थानम्#} (?).</div>
 <LEND>

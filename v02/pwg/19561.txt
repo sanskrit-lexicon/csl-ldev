@@ -2,7 +2,7 @@
 {#कौमुद#}¦ (von {#कुमुद#}) 
 <div n="1"> 1) <lex>m.</lex> {%der Monat%} <is>Kārttika</is> 
 <ls>TRIK. 1, 1, 111.</ls> 
-<ls>H. ś. 23.</ls> <ls>an. 3, 330.</ls> <ls>MED. d. 27.</ls> <ls>HĀR. 151.</ls> <ls>MBH. 13, 3370. 5656. 5660. 5670.</ls> 
+<ls>H. ś. 23. an. 3, 330.</ls> <ls>MED. d. 27.</ls> <ls>HĀR. 151.</ls> <ls>MBH. 13, 3370.</ls> <ls n="MBH. 13,">5656.</ls> <ls n="MBH. 13,">5660.</ls> <ls n="MBH. 13,">5670.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#ई#} 
 <div n="2"> a) {%Mondschein%} (weil er die <is>Kumuda</is> zum Aufblühen bringt) 
 <ls>AK. 1, 1, 2, 18.</ls> 
@@ -20,6 +20,6 @@
 <ls>MBH. 1, 7648.</ls> {%der Vollmondstag im Monat%} <is>Āśvina</is> (vgl. {#कौमुदीचार#}) 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {%Festtag%} 
 <ls>DHAR.</ls> ebend. 
-<div n="2">— c) {%ein best. Metrum%} (2 Mal  ˘ ˘ ˘ ˘ ˘ ˘ ¯ ˘ ¯ ˘ ¯  ¯, ˘ ˘ ˘ ˘ ˘ ˘ ¯ ˘ ¯ ¯ ˘ ¯;) 
-<ls>COLEBR. Misc. Ess. II, 165</ls> <ls>(VI, 15).</ls>
+<div n="2">— c) {%ein best. Metrum%} (2 Mal ˘ ˘ ˘ ˘ ˘ ˘ ¯ ˘ ¯ ˘ ¯ ¯, ˘ ˘ ˘ ˘ ˘ ˘ ¯ ˘ ¯ ¯ ˘ ¯;) 
+<ls>COLEBR. Misc. Ess. II, 165</ls> (<ls>VI, 15).</ls>
 <LEND>

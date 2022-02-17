@@ -1,4 +1,4 @@
 <L>9271<pc>294<k1>fortress<k2>fortress
-<div n="lb"/>{@FORTRESS:@}¦ <div n="I">I A fort: q.v.: {#दुर्गम्।#} </div><div n="I">II A town:
-<div n="lb"/>{#सुगुप्तं नगरम्#} and sim. expr.</div>
+{@FORTRESS:@}¦ <div n="I">I A fort: q.v.: {#दुर्गम्।#} </div><div n="I">II A town:
+{#सुगुप्तं नगरम्#} and sim. expr.</div>
 <LEND>

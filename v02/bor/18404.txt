@@ -1,16 +1,16 @@
 <L>18404<pc>565<k1>question<k2>question
-<div n="lb"/>{@QUESTION@}¦ (subs.): <div n="I">I An interrogatory: </div><div n="1">(1)
-<div n="lb"/>{#प्रश्नः#} (best equiv.), {%unless you explain (my) q.s.:%}
-<div n="lb"/>{#न चेत् प्रश्नन् व्याकरोषि,#} Mah. iii. 313. 22.; <div n="xe">{%to%}
-<div n="lb"/>{%reply q. s.:%}</div> <div n="xs">{#प्रश्नान् वक्ति,#}</div> 30, {#ब्रवीति,#} D. vi., etc.;</div>
-<div n="lb"/><div n="1">(2) {#पृच्छा, सं-, परि-;#} </div><div n="1">(3) {#अनुयोग, परि-,#} </div><div n="I">II
-<div n="lb"/>Doubt: q. v.: {#सन्देहः,#} <div n="xe">{%without q., out of the q.,%}
-<div n="lb"/>{%past q.:%}</div> <div n="xs">{#असंशयम्:#}</div> v. Undoubtedly, </div><div n="I">III
-<div n="lb"/>Debate, dispute: expr. by {#प्रष्टव्य#} (f. {#व्या#}),
-<div n="lb"/><div n="xe">{%here the q. is:%}</div> <div n="xs">{#अत्रेदं प्रष्टव्यम्।#}</div> ({#अत्र॥॥ इति सन्दि-#}
-<div n="lb"/>{#ह्यते#} = doubted), S. i. 3. 1., {%To put to q.:%}
-<div n="lb"/>{#पृच्छतिः:#} v. To ask. </div><div n="I">IV Examination, inves-
-<div n="lb"/>-tigation: q. v.: {#परीक्षा:#} </div><div n="I">V Torture: q. v.</div>
-<div n="lb"/><div n="I">VI Theme of enquiry: {#विवादविषयः, विवाद-#}
-<div n="lb"/>{#पदम्,#} and sim. comp.s.</div>
+{@QUESTION@}¦ (subs.): <div n="I">I An interrogatory: </div><div n="1">(1)
+{#प्रश्नः#} (best equiv.), {%unless you explain (my) q.s.:%}
+{#न चेत् प्रश्नन् व्याकरोषि,#} Mah. iii. 313. 22.; <div n="xe">{%to%}
+{%reply q. s.:%}</div> <div n="xs">{#प्रश्नान् वक्ति,#}</div> 30, {#ब्रवीति,#} D. vi., etc.;</div>
+<div n="1">(2) {#पृच्छा, सं-, परि-;#} </div><div n="1">(3) {#अनुयोग, परि-,#} </div><div n="I">II
+Doubt: q. v.: {#सन्देहः,#} <div n="xe">{%without q., out of the q.,%}
+{%past q.:%}</div> <div n="xs">{#असंशयम्:#}</div> v. Undoubtedly, </div><div n="I">III
+Debate, dispute: expr. by {#प्रष्टव्य#} (f. {#व्या#}),
+<div n="xe">{%here the q. is:%}</div> <div n="xs">{#अत्रेदं प्रष्टव्यम्।#}</div> ({#अत्र॥॥ इति सन्दि-#}
+{#ह्यते#} = doubted), S. i. 3. 1., {%To put to q.:%}
+{#पृच्छतिः:#} v. To ask. </div><div n="I">IV Examination, inves-
+-tigation: q. v.: {#परीक्षा:#} </div><div n="I">V Torture: q. v.</div>
+<div n="I">VI Theme of enquiry: {#विवादविषयः, विवाद-#}
+{#पदम्,#} and sim. comp.s.</div>
 <LEND>

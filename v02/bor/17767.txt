@@ -1,8 +1,8 @@
 <L>17767<pc>544<k1>prime<k2>prime
-<div n="lb"/>{@PRIME@}¦ (subs.): <div n="I">I Dawn: q. v.: {#दिनमुखम्।#} </div><div n="I">II
-<div n="lb"/>Of life: {#प्रौढता#} <div n="xe">{%or%}</div> <div n="xs">{#प्रौढिः,#}</div> <div n="xe">{%in the p. of life:%}</div> <div n="xs">{#प्रौढ#}</div>
-<div n="lb"/>(f. {#ढा#}), J. </div><div n="I">III Beginning: q. v.: {#आदिः।#}</div>
-<div n="lb"/><div n="I">IV Best portion: </div><div n="1">(1) {#उत्कृष्टभागः;#} </div><div n="1">(2) better
-<div n="lb"/>by adj. Ph.: <div n="xe">{%“p. of the moon”:%}</div> <div n="xs">{#नवेन्दुकला,#}</div>
-<div n="lb"/>Sa.</div>
+{@PRIME@}¦ (subs.): <div n="I">I Dawn: q. v.: {#दिनमुखम्।#} </div><div n="I">II
+Of life: {#प्रौढता#} <div n="xe">{%or%}</div> <div n="xs">{#प्रौढिः,#}</div> <div n="xe">{%in the p. of life:%}</div> <div n="xs">{#प्रौढ#}</div>
+(f. {#ढा#}), J. </div><div n="I">III Beginning: q. v.: {#आदिः।#}</div>
+<div n="I">IV Best portion: </div><div n="1">(1) {#उत्कृष्टभागः;#} </div><div n="1">(2) better
+by adj. Ph.: <div n="xe">{%“p. of the moon”:%}</div> <div n="xs">{#नवेन्दुकला,#}</div>
+Sa.</div>
 <LEND>

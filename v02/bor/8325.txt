@@ -1,5 +1,5 @@
 <L>8325<pc>263<k1>fade<k2>fade
-<div n="lb"/>{@FADE@}¦ (v. t.): <div n="1">(1) {#म्लापयति, परि-#} ({%c.%} of {#म्लै#}), <div n="xe">{%fad-%}
-<div n="lb"/>{%ing the chaplet:%}</div> <div n="xs">{#वनमालां म्लापयन्,#}</div> Si.; </div><div n="1">(2)
-<div n="lb"/>{#मलिनयति#} (nomi.) <div n="xe">{%or%}</div> <div n="xs">{#मलिनीकरोति,#}</div> Ki.</div>
+{@FADE@}¦ (v. t.): <div n="1">(1) {#म्लापयति, परि-#} ({%c.%} of {#म्लै#}), <div n="xe">{%fad-%}
+{%ing the chaplet:%}</div> <div n="xs">{#वनमालां म्लापयन्,#}</div> Si.; </div><div n="1">(2)
+{#मलिनयति#} (nomi.) <div n="xe">{%or%}</div> <div n="xs">{#मलिनीकरोति,#}</div> Ki.</div>
 <LEND>

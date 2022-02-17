@@ -1,9 +1,9 @@
 <L>7805<pc>247<k1>err<k2>err
-<div n="lb"/>{@ERR@}¦ (v.): <div n="1">(1) {#भ्रमति, वि-,#} ({#भ्रम्,#} c. 1.), <div n="xe">{%that you%}
-<div n="lb"/>{%may not e. again:%}</div> <div n="xs">{#मा भूयो विभ्रमेरिति,#}</div> Mah.;</div>
-<div n="lb"/><div n="1">(2) {#पथः#} <div n="xe">{%or%}</div> <div n="xs">{#मार्गात् च्यवते#}</div> ({#च्यु,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#भ्रश्यति, #}
-<div n="lb"/>{# -ते#}</div> ({#भ्रंश्,#} c. 4.) (= to wander from the right
-<div n="lb"/>way), Ki.; </div><div n="1">(3) {#उत्पथेन#} <div n="xe">{%or%}</div> <div n="xs">{#उन्मार्गेण गच्छति#}</div> ({#गम्,#}
-<div n="lb"/>c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#धावति#}</div> ({#धाव्,#} c. 1.) (in moral sense),
-<div n="lb"/>U.</div>
+{@ERR@}¦ (v.): <div n="1">(1) {#भ्रमति, वि-,#} ({#भ्रम्,#} c. 1.), <div n="xe">{%that you%}
+{%may not e. again:%}</div> <div n="xs">{#मा भूयो विभ्रमेरिति,#}</div> Mah.;</div>
+<div n="1">(2) {#पथः#} <div n="xe">{%or%}</div> <div n="xs">{#मार्गात् च्यवते#}</div> ({#च्यु,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#भ्रश्यति, #}
+{# -ते#}</div> ({#भ्रंश्,#} c. 4.) (= to wander from the right
+way), Ki.; </div><div n="1">(3) {#उत्पथेन#} <div n="xe">{%or%}</div> <div n="xs">{#उन्मार्गेण गच्छति#}</div> ({#गम्,#}
+c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#धावति#}</div> ({#धाव्,#} c. 1.) (in moral sense),
+U.</div>
 <LEND>

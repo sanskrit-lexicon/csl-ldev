@@ -1,8 +1,8 @@
 <L>18675<pc>2-0399<k1>कृतास्त्र<k2>कृतास्त्र
 {#कृतास्त्र#}¦ ({#कृत + अस्त्र#}) 
 <div n="1"> 1) <lex>adj.</lex> {%der sich im Gebrauch der Wurfwaffe geübt hat, mit dem Bogenschiessen vertraut%} 
-<ls>MBH. 3, 228. 14833. 14, 1776.</ls> 
-<ls>N.</ls> <ls>?(BOPP) 12, 86. R. 1, 23, 9. 77, 15. 3, 4, 28. 6, 1, 39.</ls> {#अकृतास्त्र#} 
+<ls>MBH. 3, 228.</ls> <ls n="MBH. 3,">14833.</ls> <ls n="MBH.">14, 1776.</ls> 
+<ls>N. (BOPP) 12, 86.</ls> <ls>R. 1, 23, 9. 77, 15. 3, 4, 28. 6, 1, 39.</ls> {#अकृतास्त्र#} 
 <ls>MBH. 3, 14833.</ls> 
 <ls>R. 1, 23, 9.</ls> {#कृतास्त्रता#} <lex>f.</lex> nom. abstr. 
 <ls>MBH. 1, 5156.</ls> 

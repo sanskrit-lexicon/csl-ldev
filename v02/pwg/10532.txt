@@ -10,7 +10,7 @@
 <ls>6579.</ls> {#कथंचिदीशा मनसां बभूवुः#} 
 <ls>KUMĀRAS. 3, 34.</ls> {#अनीशया शरीरस्य#} 
 <ls>VIKR. 37.</ls> mit dem inf.: {#ईशो ऽसि तपसा सर्वं समाहर्तुम्#} 
-<ls>MBH. 3, 8590. 10746.</ls> 
+<ls>MBH. 3, 8590.</ls> <ls n="MBH. 3,">10746.</ls> 
 <ls>R. 5, 64, 17.</ls> 
 <ls>ŚĀK. 74, v. l.</ls> 
 <ls>PRAB. 35, 11.</ls> 
@@ -36,8 +36,8 @@
 <ls>H. 195.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 13, 588. 820.</ls> 
-<ls>HARIV.7585.</ls> 
+<ls>MBH. 13, 588.</ls> <ls n="MBH. 13,">820.</ls> 
+<ls>HARIV. 7585.</ls> 
 <ls>R. 3, 22, 39.</ls> 
 <ls>ŚĀK. 1.</ls> 
 <ls>KUMĀRAS. 3, 59.</ls>

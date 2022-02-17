@@ -1,10 +1,10 @@
 <L>21470<pc>676<k1>stick<k2>stick
-<div n="lb"/>{@STICK@}¦ (v.): <div n="I">I To thrust, set: {#निवेशयति, सम्-#}
-<div n="lb"/>(c. of {#विश्#}). </div><div n="I">II To adhere: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#लगति, सम्-#} ({#लग्,#} c. 1.), {%it has stuck fast:%}
-<div n="lb"/>{#दृढं खलु लग्ना,#} V. i.; </div><div n="1">(2) {#निविशते#} ({#विश्,#} c. 1.
-<div n="lb"/>= enter: q. v.). </div><div n="I">III To stop: {#स्तभ्नाति#} ({#स्तम्भ्,#}
-<div n="lb"/>c. 9.). Comp. (a) {%s. by:%} v. Stand by;
-<div n="lb"/>(b) {%s. out:%} v. To project; (c) {%s. up:%}
-<div n="lb"/>{#बध्नाति#} ({#बन्ध्,#} c. 9.): v. To fasten.</div>
+{@STICK@}¦ (v.): <div n="I">I To thrust, set: {#निवेशयति, सम्-#}
+(c. of {#विश्#}). </div><div n="I">II To adhere: q. v.: </div><div n="1">(1)
+{#लगति, सम्-#} ({#लग्,#} c. 1.), {%it has stuck fast:%}
+{#दृढं खलु लग्ना,#} V. i.; </div><div n="1">(2) {#निविशते#} ({#विश्,#} c. 1.
+= enter: q. v.). </div><div n="I">III To stop: {#स्तभ्नाति#} ({#स्तम्भ्,#}
+c. 9.). Comp. (a) {%s. by:%} v. Stand by;
+(b) {%s. out:%} v. To project; (c) {%s. up:%}
+{#बध्नाति#} ({#बन्ध्,#} c. 9.): v. To fasten.</div>
 <LEND>

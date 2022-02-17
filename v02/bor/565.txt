@@ -1,19 +1,19 @@
 <L>565<pc>021<k1>all<k2>all
-<div n="lb"/>{@ALL@}¦ (adj.) <div n="1">(1) {#सर्वः:#} ({#र्वा, र्वं#}); <div n="xe">{%all of them, en-%}
-<div n="lb"/>{%joying a. pleasures at a. times, reached the pin-%}
-<div n="lb"/>{%nacle of happiness%}</div> <div n="xs">{#सर्वएव सर्वकालं सर्वसुखान्यभनुवन्तः #}
-<div n="lb"/>{# परां कोटिमानन्दस्याध्यगच्छन्,#}</div> <ls>K.</ls> ; </div><div n="1">(2) {#सकलः#} ({#ला, #}
-<div n="lb"/>{# लं#}); </div><div n="1">(3) {#समस्तः#} ({#स्ता, स्तं#}); </div><div n="1">(4) {#निखिलः#} ({#ला, #}
-<div n="lb"/>{# लं#}), <div n="xe">{%knowledge of a. characters, erudition in the%}
-<div n="lb"/>{%languages of a. countries, attainments in a. the%}
-<div n="lb"/>{%Shastras%}</div> <div n="xs">{#सकललिपिञ्झानं निखिलदेशीयमाषापाण्डित्यं #}
-<div n="lb"/>{# समस्तशास्त्रचातुर्यम्,#}</div> <ls>D.</ls> ; </div><div n="1">(5) {#अखिलः#} ({#ला, लं#}); </div><div n="1">(6)
-<div n="lb"/>{#कृत्स्नः#} ({#स्ना, स्नं#}); </div><div n="1">(7) {#समग्रः#} ({#ग्रा, ग्रं#}); </div><div n="1">(8)
-<div n="lb"/>{#समुदायः#} affd., <div n="xe">{%or the abode of a. essence of%}
-<div n="lb"/>{%beauty%}</div> <div n="xs">{#सौन्दर्यसारसमुदार्यानकेतनं वा,#}</div> Ma. ii. Ph.
-<div n="lb"/><div n="xe">{%the Supreme Spirit is a. joy%}</div> <div n="xs">{#आनन्दमयः परमात्मा,#}</div>
-<div n="lb"/><ls>S.</ls> i. 13.: v. Full of; <div n="xe">{%by a. means, one ought%}
-<div n="lb"/>{%not to do anything without consideration%}</div> <div n="xs">{#सर्वथा #}
-<div n="lb"/>{# अविचारितं कर्म न कर्तव्यम्#}</div> <ls>H.</ls> i.; <div n="xe">{%at a. events%}</div> <div n="xs">{#अन्ततः;#}</div>
-<div n="lb"/><div n="xe">{%a. along%}</div> <div n="xs">{#पूर्वावधि;#}</div> <div n="xe">{%a. around%}</div> <div n="xs">{#सर्वतः।#}</div></div>
+{@ALL@}¦ (adj.) <div n="1">(1) {#सर्वः:#} ({#र्वा, र्वं#}); <div n="xe">{%all of them, en-%}
+{%joying a. pleasures at a. times, reached the pin-%}
+{%nacle of happiness%}</div> <div n="xs">{#सर्वएव सर्वकालं सर्वसुखान्यभनुवन्तः #}
+{# परां कोटिमानन्दस्याध्यगच्छन्,#}</div> <ls>K.</ls> ; </div><div n="1">(2) {#सकलः#} ({#ला, #}
+{# लं#}); </div><div n="1">(3) {#समस्तः#} ({#स्ता, स्तं#}); </div><div n="1">(4) {#निखिलः#} ({#ला, #}
+{# लं#}), <div n="xe">{%knowledge of a. characters, erudition in the%}
+{%languages of a. countries, attainments in a. the%}
+{%Shastras%}</div> <div n="xs">{#सकललिपिञ्झानं निखिलदेशीयमाषापाण्डित्यं #}
+{# समस्तशास्त्रचातुर्यम्,#}</div> <ls>D.</ls> ; </div><div n="1">(5) {#अखिलः#} ({#ला, लं#}); </div><div n="1">(6)
+{#कृत्स्नः#} ({#स्ना, स्नं#}); </div><div n="1">(7) {#समग्रः#} ({#ग्रा, ग्रं#}); </div><div n="1">(8)
+{#समुदायः#} affd., <div n="xe">{%or the abode of a. essence of%}
+{%beauty%}</div> <div n="xs">{#सौन्दर्यसारसमुदार्यानकेतनं वा,#}</div> Ma. ii. Ph.
+<div n="xe">{%the Supreme Spirit is a. joy%}</div> <div n="xs">{#आनन्दमयः परमात्मा,#}</div>
+<ls>S.</ls> i. 13.: v. Full of; <div n="xe">{%by a. means, one ought%}
+{%not to do anything without consideration%}</div> <div n="xs">{#सर्वथा #}
+{# अविचारितं कर्म न कर्तव्यम्#}</div> <ls>H.</ls> i.; <div n="xe">{%at a. events%}</div> <div n="xs">{#अन्ततः;#}</div>
+<div n="xe">{%a. along%}</div> <div n="xs">{#पूर्वावधि;#}</div> <div n="xe">{%a. around%}</div> <div n="xs">{#सर्वतः।#}</div></div>
 <LEND>

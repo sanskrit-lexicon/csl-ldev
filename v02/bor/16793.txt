@@ -1,5 +1,5 @@
 <L>16793<pc>515<k1>periodic<k2>periodic
-<div n="lb"/>{@PERIODIC,-AL@}¦ (adj.): <div n="1">(1) {#सामयिक#} (f. {#की#});</div>
-<div n="lb"/><div n="1">(2) {#नित्य#} (f. {#त्या#} = regular); {#वार्षिक#} (f. {#की#} =
-<div n="lb"/>annual)</div>
+{@PERIODIC,-AL@}¦ (adj.): <div n="1">(1) {#सामयिक#} (f. {#की#});</div>
+<div n="1">(2) {#नित्य#} (f. {#त्या#} = regular); {#वार्षिक#} (f. {#की#} =
+annual)</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>14737<pc>451<k1>miserable<k2>miserable
-<div n="lb"/>{@MISERABLE:@}¦ <div n="1">(1) {#कृपण#} (f. {#णा#}) (= mean), {%yet%}
-<div n="lb"/>{%m.%} ({%men%}) {%bear distress at the door of the rich:%}
-<div n="lb"/>{#सहन्ते सन्तापं तदपि धनिनां द्वारि कृपणाः,#} J.; </div><div n="1">(2)
-<div n="lb"/>{#दीनः#} ({#ना, नं#}) (= wretched), {%very m. condition:%}
-<div n="lb"/>{#सुदीना दशा,#} Ku.; </div><div n="1">(3) {#दुःखितः#} ({#ता, तं#}) (= un-
-<div n="lb"/>-happy), {%surely the poor fellow is m. like me:%}
-<div n="lb"/>{#नूनमहमिव दुःखितस्तपस्वी,#} Mu. vi.</div>
+{@MISERABLE:@}¦ <div n="1">(1) {#कृपण#} (f. {#णा#}) (= mean), {%yet%}
+{%m.%} ({%men%}) {%bear distress at the door of the rich:%}
+{#सहन्ते सन्तापं तदपि धनिनां द्वारि कृपणाः,#} J.; </div><div n="1">(2)
+{#दीनः#} ({#ना, नं#}) (= wretched), {%very m. condition:%}
+{#सुदीना दशा,#} Ku.; </div><div n="1">(3) {#दुःखितः#} ({#ता, तं#}) (= un-
+-happy), {%surely the poor fellow is m. like me:%}
+{#नूनमहमिव दुःखितस्तपस्वी,#} Mu. vi.</div>
 <LEND>

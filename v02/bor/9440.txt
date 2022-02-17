@@ -1,4 +1,4 @@
 <L>9440<pc>299<k1>frightfulness<k2>frightfulness
-<div n="lb"/>{@FRIGHTFULNESS:@}¦ <div n="1">(1) {#भैरवता;#} </div><div n="1">(2) {#भीषणता;#} </div><div n="1">(3)
-<div n="lb"/>{#दारुणता।#}</div>
+{@FRIGHTFULNESS:@}¦ <div n="1">(1) {#भैरवता;#} </div><div n="1">(2) {#भीषणता;#} </div><div n="1">(3)
+{#दारुणता।#}</div>
 <LEND>

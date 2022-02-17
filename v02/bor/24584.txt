@@ -1,5 +1,5 @@
 <L>24584<pc>771<k1>youngest<k2>youngest
-<div n="lb"/>{@YOUNGEST:@}¦ <div n="1">(1) {#कनिष्ठ#} f. {#ष्ठा;#} </div><div n="1">(2) {#यविष्ठ#} f. {#ष्ठा;#}</div>
-<div n="lb"/><div n="1">(3) {#जघन्य#} f. {#न्या#} (rare), <div n="xe">{%although y., senior in%}
-<div n="lb"/>{%virtues:%}</div> <div n="xs">{#जघन्योऽपि गुणज्येष्ठः,#}</div> Sca.</div>
+{@YOUNGEST:@}¦ <div n="1">(1) {#कनिष्ठ#} f. {#ष्ठा;#} </div><div n="1">(2) {#यविष्ठ#} f. {#ष्ठा;#}</div>
+<div n="1">(3) {#जघन्य#} f. {#न्या#} (rare), <div n="xe">{%although y., senior in%}
+{%virtues:%}</div> <div n="xs">{#जघन्योऽपि गुणज्येष्ठः,#}</div> Sca.</div>
 <LEND>

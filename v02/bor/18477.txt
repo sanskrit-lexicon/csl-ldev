@@ -1,11 +1,11 @@
 <L>18477<pc>567<k1>race<k2>race
-<div n="lb"/>{@RACE@}¦ (subs.): <div n="I">I Lineage: </div><div n="1">(1) {#अन्वयः,#} <div n="xe">{%this king%}
-<div n="lb"/>{%is born of that r.:%}</div> <div n="xs">{#तस्यान्वये भूपतिरेष जातः,#}</div> R.
-<div n="lb"/>vi. 41.; </div><div n="1">(2) {#कुलम्:#} v. Family; </div><div n="1">(3) {#वंशः:#} v.
-<div n="lb"/>Dynasty. </div><div n="I">II Nation, tribe: q. v.: {#जातिः#} (?). [Page568]</div>
-<div n="lb"/><div n="I">III March, progress: q. v.: {#यात्रा।#} </div><div n="I">IV
-<div n="lb"/>A contest in running: <div n="xe">{%chariot -r.:%}</div> <div n="xs">{#रथचर्या#}</div>
-<div n="lb"/>(?), Mah. i. 132. 28.; <div n="xe">{%horse -r.:%}</div> <div n="xs">{#अश्वधावनम्#}</div>
-<div n="lb"/>(?); <div n="xe">{%to win a r.:%}</div> <div n="xs">{#अश्वधावने#}</div> etc. {#जयं लभते#} ({#लभ्,#}
-<div n="lb"/>c. 1.). V. A root: {#मूलम्।#}</div>
+{@RACE@}¦ (subs.): <div n="I">I Lineage: </div><div n="1">(1) {#अन्वयः,#} <div n="xe">{%this king%}
+{%is born of that r.:%}</div> <div n="xs">{#तस्यान्वये भूपतिरेष जातः,#}</div> R.
+vi. 41.; </div><div n="1">(2) {#कुलम्:#} v. Family; </div><div n="1">(3) {#वंशः:#} v.
+Dynasty. </div><div n="I">II Nation, tribe: q. v.: {#जातिः#} (?). [Page568]</div>
+<div n="I">III March, progress: q. v.: {#यात्रा।#} </div><div n="I">IV
+A contest in running: <div n="xe">{%chariot -r.:%}</div> <div n="xs">{#रथचर्या#}</div>
+(?), Mah. i. 132. 28.; <div n="xe">{%horse -r.:%}</div> <div n="xs">{#अश्वधावनम्#}</div>
+(?); <div n="xe">{%to win a r.:%}</div> <div n="xs">{#अश्वधावने#}</div> etc. {#जयं लभते#} ({#लभ्,#}
+c. 1.). V. A root: {#मूलम्।#}</div>
 <LEND>

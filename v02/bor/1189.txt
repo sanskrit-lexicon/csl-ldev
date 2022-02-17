@@ -1,8 +1,8 @@
 <L>1189<pc>042<k1>aspect<k2>aspect
-<div n="lb"/>{@ASPECT:@}¦ <div n="I">I Vision, glance: q. v. {#दृष्टिः।#} </div><div n="I">II
-<div n="lb"/>Countenance, mien: q. v. {#आकारः।#} </div><div n="I">III
-<div n="lb"/>Position: Ph. {%the house has a southern a.%}
-<div n="lb"/>{#*दक्षिणमुखं गृहं।#} </div><div n="I">IV State of affairs: </div><div n="1">(1)
-<div n="lb"/>{#अवस्था;#} </div><div n="1">(2) {#दशा।#} V. Of planets at birth:
-<div n="lb"/>{#दशा।#}</div>
+{@ASPECT:@}¦ <div n="I">I Vision, glance: q. v. {#दृष्टिः।#} </div><div n="I">II
+Countenance, mien: q. v. {#आकारः।#} </div><div n="I">III
+Position: Ph. {%the house has a southern a.%}
+{#*दक्षिणमुखं गृहं।#} </div><div n="I">IV State of affairs: </div><div n="1">(1)
+{#अवस्था;#} </div><div n="1">(2) {#दशा।#} V. Of planets at birth:
+{#दशा।#}</div>
 <LEND>

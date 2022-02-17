@@ -1,7 +1,7 @@
 <L>12197<pc>380<k1>information<k2>information
-<div n="lb"/>{@INFORMATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#विज्ञापनम्;#} </div><div n="1">(2)
-<div n="lb"/>{#निवेदनम्#} <div n="xe">{%or%}</div> <div n="xs">{#आवेदनम्।#}</div> </div><div n="I">II Legal: {#नि-वेदनम्।#} </div><div n="I">III
-<div n="lb"/>News: q.v.: {#वार्ता।#} </div><div n="I">IV Knowledge: q.v.:</div>
-<div n="lb"/><div n="1">(1) {#ज्ञानम्;#} </div><div n="1">(2) {#बोधः;#} </div><div n="1">(3) {#आगमः#} (rare), {%his i. is%}
-<div n="lb"/>{%like%} ({%his%}) <div n="xe">{%wisdom:%}</div> <div n="xs">{#प्रज्ञया सदृशागमः,#}</div> R. i. 15.</div>
+{@INFORMATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#विज्ञापनम्;#} </div><div n="1">(2)
+{#निवेदनम्#} <div n="xe">{%or%}</div> <div n="xs">{#आवेदनम्।#}</div> </div><div n="I">II Legal: {#नि-वेदनम्।#} </div><div n="I">III
+News: q.v.: {#वार्ता।#} </div><div n="I">IV Knowledge: q.v.:</div>
+<div n="1">(1) {#ज्ञानम्;#} </div><div n="1">(2) {#बोधः;#} </div><div n="1">(3) {#आगमः#} (rare), {%his i. is%}
+{%like%} ({%his%}) <div n="xe">{%wisdom:%}</div> <div n="xs">{#प्रज्ञया सदृशागमः,#}</div> R. i. 15.</div>
 <LEND>

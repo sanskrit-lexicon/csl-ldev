@@ -1,14 +1,14 @@
 <L>8184<pc>258<k1>express<k2>express
-<div n="lb"/>{@EXPRESS@}¦ (v. t.): <div n="I">I To press out of: </div><div n="1">(1) {#निष्कर्षति#}
-<div n="lb"/>({#कृष्,#} c. 1.); </div><div n="1">(2) {#निष्पीड्य गृह्णाति#} ({#ग्रह्,#} c. 9.).</div>
-<div n="lb"/><div n="I">II To indicate, exhibit: q. v.: {#व्यनक्ति#} ({#अञ्ज्,#}
-<div n="lb"/>c. 7.), <div n="xe">{%your interview e. es worthiness:%}</div> <div n="xs">{#भवदीय-#}
-<div n="lb"/>{#दर्शनं योग्यतां व्यनक्ति,#}</div> Si.; <div n="xe">{%or it e. es “you are%}
-<div n="lb"/>{%saying false”:%}</div> <div n="xs">{#अथवा मिथ्या वदसीति व्यज्यते,#}</div> Kav.</div>
-<div n="lb"/><div n="I">III To denote: q. v.: {#वक्ति#} ({#वच्,#} c. 2.),
-<div n="lb"/>{%here the word beast is intended to e. illiberal:%}
-<div n="lb"/>{#अत्र जन्तुपदमदातर्यर्थे विवक्षितम्,#} Kav. </div><div n="I">IV To
-<div n="lb"/>declare, speak: q. v.: {#वक्ति,#} {%what he was%} [Page259]
-<div n="lb"/><div n="xe">{%about to e.:%}</div> <div n="xs">{#विवक्षितां गिरम्,#}</div> Si. </div><div n="I">V To send: q. v.:
-<div n="lb"/>{#विसृजति#} ({#सृज्,#} c. 6.). </div><div n="I">VI To represent: q. v.</div>
+{@EXPRESS@}¦ (v. t.): <div n="I">I To press out of: </div><div n="1">(1) {#निष्कर्षति#}
+({#कृष्,#} c. 1.); </div><div n="1">(2) {#निष्पीड्य गृह्णाति#} ({#ग्रह्,#} c. 9.).</div>
+<div n="I">II To indicate, exhibit: q. v.: {#व्यनक्ति#} ({#अञ्ज्,#}
+c. 7.), <div n="xe">{%your interview e. es worthiness:%}</div> <div n="xs">{#भवदीय-#}
+{#दर्शनं योग्यतां व्यनक्ति,#}</div> Si.; <div n="xe">{%or it e. es “you are%}
+{%saying false”:%}</div> <div n="xs">{#अथवा मिथ्या वदसीति व्यज्यते,#}</div> Kav.</div>
+<div n="I">III To denote: q. v.: {#वक्ति#} ({#वच्,#} c. 2.),
+{%here the word beast is intended to e. illiberal:%}
+{#अत्र जन्तुपदमदातर्यर्थे विवक्षितम्,#} Kav. </div><div n="I">IV To
+declare, speak: q. v.: {#वक्ति,#} {%what he was%} [Page259]
+<div n="xe">{%about to e.:%}</div> <div n="xs">{#विवक्षितां गिरम्,#}</div> Si. </div><div n="I">V To send: q. v.:
+{#विसृजति#} ({#सृज्,#} c. 6.). </div><div n="I">VI To represent: q. v.</div>
 <LEND>

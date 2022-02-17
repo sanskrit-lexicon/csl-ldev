@@ -1,4 +1,4 @@
 <L>4577<pc>148<k1>contemptuously<k2>contemptuously
-<div n="lb"/>{@CONTEMPTUOUSLY:@}¦ <div n="1">(1) {#अवज्ञया;#} </div><div n="1">(2) {#सावज्ञम्;#}</div>
-<div n="lb"/><div n="1">(3) {#सावमानम्,#} </div><div n="1">(4) {#अनादेरण;#} </div><div n="1">(5) {#अवगणनया।#}</div>
+{@CONTEMPTUOUSLY:@}¦ <div n="1">(1) {#अवज्ञया;#} </div><div n="1">(2) {#सावज्ञम्;#}</div>
+<div n="1">(3) {#सावमानम्,#} </div><div n="1">(4) {#अनादेरण;#} </div><div n="1">(5) {#अवगणनया।#}</div>
 <LEND>

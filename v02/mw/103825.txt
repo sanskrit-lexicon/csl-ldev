@@ -1,9 +1,9 @@
 <L>103825<pc>528,1<k1>नम्<k2>नम्<e>1
 <s>नम्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>न/मति</s> (<ls>Dhātup. xxiii, 12</ls>), <s>°ते</s> 
-(mostly intrans.;
-<ab>cf.</ab> <ls>Pāṇ. 3-1, 89</ls>;
+(mostly <ab>intrans.</ab>;
+<ab>cf.</ab> <ls>Pāṇ. iii, 1, 89</ls>;
 <ab>pr. p.</ab> <ab>Ā.</ab> <s>नमान</s>, <ls>R.</ls>;
-<ab>pf.</ab> <ab>P.</ab> <s>ना<shortlong/>नाम</s>, <ls>RV.</ls> &c.;
+<ab>pf.</ab> <ab>P.</ab> <s>ना<स्होर्त्लोन्ग्/>नाम</s>, <ls>RV.</ls> &c.;
 2. <ab>sg.</ab> <s>नेमिथ</s>, or <s>ननन्थ</s>, <ls>Vop.</ls>;
 <ab>Subj.</ab> <s>नन/मस्</s>, <ls>RV.</ls>;
 3. <ab>pl.</ab> <s>नेमुर्</s>, <ls>Kāv.</ls>;
@@ -22,11 +22,11 @@
 <ab>ind.p.</ab> <s>नत्वा</s>, <ls>BhP.</ls>; <ls>Kathās.</ls>;
 <s>-नत्य</s>, <ls>Br.</ls>;
 <s>-नम्य</s>, <ls>MBh.</ls>) 
-<div n="to"/>to bend or bow (either trans. or oftener intr.) to bow to, subject or submit, one's self (with <ab>gen.</ab> <ab>dat.</ab> or <ab>acc.</ab>), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to bend or bow (either <ab>trans.</ab> or oftener <ab>intr.</ab>) to bow to, subject or submit, one's self (with <ab>gen.</ab> <ab>dat.</ab> or <ab>acc.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/> (with <s>हिरुक्</s>) to turn away, keep aside, <ls>AV. iv, 1, 3</ls>;
 <div n="to"/>to turn towards <ab>i.e.</ab> to aim at (<ab>gen.</ab>) with (<ab>instr.</ab>), <ls>RV. i, 165, 6</ls>;
 <div n="to"/>to yield or give way, keep quiet or be silent, <ls>Bālar. vi, 12</ls>;
-<div n="to"/> (in gram.) to change a dental letter into a cerebral, <ls>RPrāt.</ls> :
+<div n="to"/> (in <ab>gram.</ab>) to change a dental letter into a cerebral, <ls>RPrāt.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>नम्यते</s>, to be bent or bowed;
 <div n="vp"/> yield or submit to, <ls>TUp. iii, 10, 4</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>नम/यति</s>, <ls>RV.</ls> &c. &c. (<s>नामयति</s>, <ls>Up.</ls> &c.; <s>नाम्यति</s> [!] <ls>Mṛcch. i, 30</ls>; <ab>aor.</ab> <s>अनीनमत्</s>, <ls>RV.</ls>; <ab>Pass.</ab> <s>नाम्यते</s>, <s>°ति</s>, <ls>MBh.</ls> &c.) 
@@ -34,7 +34,7 @@
 <div n="to"/> (with <s>चापम्</s>) to bend a bow, <ls>MBh.</ls>; <ls>Hariv.</ls> &c.;
 <div n="to"/>to turn away or ward off, <ls>RV.</ls>;
 <div n="to"/>to aim at (<ab>gen.</ab>), <ls>ix, 97, 15</ls>;
-<div n="to"/> (in gram.) to change a dental letter into a cerebral, <ls>RPrāt.</ls> :
+<div n="to"/> (in <ab>gram.</ab>) to change a dental letter into a cerebral, <ls>RPrāt.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>निनंसति</s>, <ls>Gr.</ls> :
 <div n="vp"/><ab>Intens.</ab> <s>न/न्नमीति</s>, <ls>RV.</ls>;
 <div n="vp"/> <s>नन्नम्यते</s>, <ls>KātyŚr.</ls> (3. <ab>sg.</ab> <s>न/म्नते</s> <ab>impf.</ab> <s>अनम्नत</s>, <ab>p.</ab> <s>न/ममान</s>, <ls>RV.</ls>) to bow or submit one's self to (<ab>dat.</ab>), <ls>RV.</ls>; <ls>Br.</ls> <info westergaard="Rama,23.12,01.0701"/><info whitneyroots="nam,88"/><info verb="genuineroot" cp="1P,1Ā"/>

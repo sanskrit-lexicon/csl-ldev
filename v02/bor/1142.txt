@@ -1,4 +1,4 @@
 <L>1142<pc>040<k1>artist<k2>artist
-<div n="lb"/>{@ARTIST:@}¦ <div n="I">I An artisan: q. v. </div><div n="I">II A painter:
-<div n="lb"/>q. v. {#चित्रकरः।#}</div>
+{@ARTIST:@}¦ <div n="I">I An artisan: q. v. </div><div n="I">II A painter:
+q. v. {#चित्रकरः।#}</div>
 <LEND>

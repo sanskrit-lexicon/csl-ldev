@@ -3,17 +3,17 @@
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} {%von%} <is>Bharadvāja</is> {%herrührend, stammend, zu ihm in Beziehung stehend u.s.w.%} 
 <ls>ŚAT. BR. 10, 4, 2, 19. 14, 5, 5, 20. 21. 6, 10, 11.</ls> 
 <ls>ĀŚV. ŚR. 7, 6. 12, 11. 12.</ls> 
-<ls>NIR. 6, 30.</ls> <ls>WEBER, <is>Nakṣ</is>. 2, 392, 2.</ls> {#पृष्ठ#} 
+<ls>NIR. 6, 30.</ls> <ls>WEBER, Nakṣ. 2, 392, 2.</ls> {#पृष्ठ#} 
 <ls>ŚĀṄKH. ŚR. 14, 32, 12.</ls> {#आख्यान#} 
 <ls>16, 11, 10.</ls> {#तृच#} (aus 
 <ls>ṚV. 6</ls>) <ls n="ŚĀṄKH. ŚR.">10, 11, 21.</ls> <ls>AIT. BR. 8, 3.</ls> {#सामन्#} 
 <ls>Ind. St.3,227,b.</ls> {#शाखा#} 
 <ls>1, 80.</ls> {#वंश, कुल#} 
-<ls>Verz. d. Oxf. H. 121,b</ls> <ls>?(No. 214). 239,b (No. 580). 264,a,16. 356,a,5.</ls> {#°गृह्य#} 
+<ls>Verz. d. Oxf. H. 121,b</ls> (<ls>No. 214). 239,b (No. 580). 264,a,16. 356,a,5.</ls> {#°गृह्य#} 
 <ls>20.</ls> <ls>Ind. St. 3, 246, N.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) patron. <is>gaṇa</is> {#विदादि#} zu 
-<ls>P.4,1,104.</ls> <ls>TRIK.3,3,86.</ls> <ls>H. an.4,56.</ls> <ls>MED. j. 34.</ls> <ls>MBH. 12,5249. fgg.</ls> <ls>Verz. d. Oxf. H. 53,a,22. 54,b,10. 80,a,12. 82,a,13. 276,b,17.</ls> <is>Śūṣa</is> <is>Vāhneya</is> 
+<ls>P. 4, 1, 104.</ls> <ls>TRIK. 3, 3, 86.</ls> <ls>H. an. 4,56.</ls> <ls>MED. j. 34.</ls> <ls>MBH. 12, 5249. fgg.</ls> <ls>Verz. d. Oxf. H. 53,a,22. 54,b,10. 80,a,12. 82,a,13. 276,b,17.</ls> <is>Śūṣa</is> <is>Vāhneya</is> 
 <ls>Ind. St. 4, 373.</ls> <is>Śaunahotra</is> 
 <ls>1, 281.</ls> <is>Satyavāha</is> 
 <ls>280.</ls> <is>Sukeśan</is> 
@@ -42,7 +42,7 @@
 <ls>MED.</ls> 
 <ls>RATNAM. 171.</ls> 
 <div n="2">— c) N. pr. eines Flusses 
-<ls>MBH. 6, 336</ls> <ls>?(VP. 183).</ls> 
+<ls>MBH. 6, 336</ls> (<ls>VP. 183).</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Knochen%} 
 <ls>H. 625.</ls> 

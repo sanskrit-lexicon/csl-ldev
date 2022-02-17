@@ -1,7 +1,7 @@
 <L>11535<pc>361<k1>illumination<k2>illumination
-<div n="lb"/>{@ILLUMINATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#द्योतनम्, प्र-;#}</div>
-<div n="lb"/><div n="1">(2) {#उद्भासनम्;#} </div><div n="1">(3) {#दीपनम्।#} </div><div n="I">II Festive decora-
-<div n="lb"/>-tion: {#दीपालिः#} ({%the i. festival%}). </div><div n="I">III Decoration
-<div n="lb"/>of manuscripts: {#पत्रञ्जनम्।#} </div><div n="I">IV Brightness,
-<div n="lb"/>splendour: q.v.</div>
+{@ILLUMINATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#द्योतनम्, प्र-;#}</div>
+<div n="1">(2) {#उद्भासनम्;#} </div><div n="1">(3) {#दीपनम्।#} </div><div n="I">II Festive decora-
+-tion: {#दीपालिः#} ({%the i. festival%}). </div><div n="I">III Decoration
+of manuscripts: {#पत्रञ्जनम्।#} </div><div n="I">IV Brightness,
+splendour: q.v.</div>
 <LEND>

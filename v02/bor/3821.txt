@@ -1,4 +1,4 @@
 <L>3821<pc>125<k1>cliff<k2>cliff
-<div n="lb"/>{@CLIFF:@}¦ <div n="1">(1) {#प्रपातः;#} </div><div n="1">(2) {#भृगुः#} (rare), <div n="xe">{%fall from a%}
-<div n="lb"/>{%c.:%}</div> <div n="xs">{#भृगुपतनम्,#}</div> D.</div>
+{@CLIFF:@}¦ <div n="1">(1) {#प्रपातः;#} </div><div n="1">(2) {#भृगुः#} (rare), <div n="xe">{%fall from a%}
+{%c.:%}</div> <div n="xs">{#भृगुपतनम्,#}</div> D.</div>
 <LEND>

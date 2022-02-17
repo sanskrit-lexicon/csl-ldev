@@ -1,14 +1,14 @@
 <L>16519<pc>507<k1>passion<k2>passion
-<div n="lb"/>{@PASSION:@}¦ <div n="I">I As opposed to action </div><div n="I">I {#क्रिया#} (?).</div>
-<div n="lb"/><div n="I">II Endurance, sufferance: q. v.: Ph.:
-<div n="lb"/><div n="xe">{%p. week:%}</div> <div n="xs">{#*यातनासप्ताहम्#}</div> and sim. comp.s.</div>
-<div n="lb"/><div n="I">III Sensual desire: </div><div n="1">(1) {#अभिलाषः,#} <div n="xe">{%had p. for%}
-<div n="lb"/>{%his own daughter:%}</div> <div n="xs">{#स्वसुतायामभिलाषमकरोत्,#}</div> K.; </div><div n="1">(2)
-<div n="lb"/>{#कामः,#} <div n="xe">{%p. considers (all) itself:%}</div> <div n="xs">{#कामः स्वतां पश्यति,#}</div>
-<div n="lb"/>Sa. iii. 2.; <div n="xe">{%p. never subsides by enjoyment of%}
-<div n="lb"/>{%pleasures:%}</div> <div n="xs">{#न जातु कामः कामानामुपभोगेन शाम्यति,#}</div>
-<div n="lb"/><ls>H.</ls> </div><div n="I">IV. Rage: q. v.: {#संरम्भः,#} {%roused her p.:%}
-<div n="lb"/>{#तां संरम्भं निनाय,#} <ls>R.</ls> </div><div n="I">V. {%Great fondness for:%}
-<div n="lb"/>{#व्यसनम्,#} <div n="xe">{%p. for living at Kailāsa:%}</div> <div n="xs">{#कैलासनिवास-#}
-<div n="lb"/>{#व्यसनम्,#}</div> K.</div>
+{@PASSION:@}¦ <div n="I">I As opposed to action </div><div n="I">I {#क्रिया#} (?).</div>
+<div n="I">II Endurance, sufferance: q. v.: Ph.:
+<div n="xe">{%p. week:%}</div> <div n="xs">{#*यातनासप्ताहम्#}</div> and sim. comp.s.</div>
+<div n="I">III Sensual desire: </div><div n="1">(1) {#अभिलाषः,#} <div n="xe">{%had p. for%}
+{%his own daughter:%}</div> <div n="xs">{#स्वसुतायामभिलाषमकरोत्,#}</div> K.; </div><div n="1">(2)
+{#कामः,#} <div n="xe">{%p. considers (all) itself:%}</div> <div n="xs">{#कामः स्वतां पश्यति,#}</div>
+Sa. iii. 2.; <div n="xe">{%p. never subsides by enjoyment of%}
+{%pleasures:%}</div> <div n="xs">{#न जातु कामः कामानामुपभोगेन शाम्यति,#}</div>
+<ls>H.</ls> </div><div n="I">IV. Rage: q. v.: {#संरम्भः,#} {%roused her p.:%}
+{#तां संरम्भं निनाय,#} <ls>R.</ls> </div><div n="I">V. {%Great fondness for:%}
+{#व्यसनम्,#} <div n="xe">{%p. for living at Kailāsa:%}</div> <div n="xs">{#कैलासनिवास-#}
+{#व्यसनम्,#}</div> K.</div>
 <LEND>

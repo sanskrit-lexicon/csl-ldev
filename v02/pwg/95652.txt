@@ -5,7 +5,7 @@
 <div n="2"> a) <is>Indra's</is> {%Banner%} 
 <ls>H. 178.</ls> 
 <ls>MED. t. 220.</ls> <ls>MBH. 2, 872</ls> (<is>Indra's</is> {%Palast%} nach 
-<ls>NĪLAK.</ls><ls>). 3, 1721.</ls> 
+<ls>NĪLAK.</ls>). <ls n="MBH.">3, 1721.</ls> 
 <div n="2">— b) {%Banner, Fahne%} überh. 
 <ls>AK. 2, 8, 2, 67.</ls> 
 <ls>H. an. 4, 126.</ls> {#सवैजयन्ताश्च गजाः#} 
@@ -22,7 +22,7 @@
 <ls>H. ś. 62.</ls> <ls>H. an.</ls> {#गृह#} in 
 <ls>MED.</ls> fehlerhaft für {#गुह#} . 
 <div n="2">— f) N. pr. eines Berges 
-<ls>HARIV. 8993. 9736.</ls> {#क्षीरोदस्य समुद्रस्य मध्ये हाटकसप्रभः#} 
+<ls>HARIV. 8993.</ls> <ls n="HARIV.">9736.</ls> {#क्षीरोदस्य समुद्रस्य मध्ये हाटकसप्रभः#} 
 <ls>MBH. 12, 13721.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#ई#} 
 <div n="2"> a) {%Banner, Fahne%} 
@@ -30,12 +30,12 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 303.</ls> 
-<ls>MBH. 3, 14531. 6, 5224. 13, 5276.</ls> 
+<ls>MBH. 3, 14531.</ls> <ls n="MBH.">6, 5224.</ls> <ls n="MBH.">13, 5276.</ls> 
 <ls>RAGH. 6, 8.</ls> 
 <ls>KATHĀS. 26, 282. 81, 35.</ls> 
 <ls>HIT. 28, 3.</ls> 
 <div n="2">— b) {%ein bes. Sieg verheissender Kranz%} ({#माला, स्रज्#}) 
-<ls>MBH. 1, 2348. 7, 1274. 9, 2667.</ls> 
+<ls>MBH. 1, 2348.</ls> <ls n="MBH.">7, 1274.</ls> <ls n="MBH.">9, 2667.</ls> 
 <ls>BHĀG. P. 3, 17, 21. 5, 25, 7. 8, 8, 15. 9, 15, 20. 10, 21, 5. 29, 44.</ls> 
 <div n="2">— c) Bez. zweier Pflanzen: {%Sesbania aegyptiaca Pers.%} 
 <ls>H. an.</ls> <ls>MED.</ls> {%Premna spinosa%} 

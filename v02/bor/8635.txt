@@ -1,7 +1,7 @@
 <L>8635<pc>274<k1>fertile<k2>fertile
-<div n="lb"/>{@FERTILE:@}¦ <div n="I">I Fruitful: q.v.: </div><div n="1">(1) {#शस्यप्रदः#} ({#दा, #}
-<div n="lb"/>{# दं#}); </div><div n="1">(2) {#उ(ऊ)र्वरा#} (of soil), <div n="xe">{%f. land:%}</div> <div n="xs">{#उर्वरा भूमिः।#}</div></div>
-<div n="lb"/><div n="I">II Fig., rich, inventive: {#निर्माणकुशलः#} ({#ला, #}
-<div n="lb"/>{# लं#}) and sim. comp.s, <div n="xe">{%he has f. mind:%}</div> <div n="xs">{#*तस्य #}
-<div n="lb"/>{# निर्माणदक्षं मनः।#}</div></div>
+{@FERTILE:@}¦ <div n="I">I Fruitful: q.v.: </div><div n="1">(1) {#शस्यप्रदः#} ({#दा, #}
+{# दं#}); </div><div n="1">(2) {#उ(ऊ)र्वरा#} (of soil), <div n="xe">{%f. land:%}</div> <div n="xs">{#उर्वरा भूमिः।#}</div></div>
+<div n="I">II Fig., rich, inventive: {#निर्माणकुशलः#} ({#ला, #}
+{# लं#}) and sim. comp.s, <div n="xe">{%he has f. mind:%}</div> <div n="xs">{#*तस्य #}
+{# निर्माणदक्षं मनः।#}</div></div>
 <LEND>

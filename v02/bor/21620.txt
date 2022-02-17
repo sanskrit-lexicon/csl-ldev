@@ -1,5 +1,5 @@
 <L>21620<pc>681<k1>strenuous<k2>strenuous
-<div n="lb"/>{@STRENUOUS:@}¦ <div n="1">(1) {#सोत्साह#} (f. {#हा#}): v. Zealous;
-<div n="lb"/>{#साग्रह#} (f. {#हा#}): v. Persistent; </div><div n="1">(3) {#प्रगल्भ#}
-<div n="lb"/>(f. {#ल्भा#}): v. Bold.</div>
+{@STRENUOUS:@}¦ <div n="1">(1) {#सोत्साह#} (f. {#हा#}): v. Zealous;
+{#साग्रह#} (f. {#हा#}): v. Persistent; </div><div n="1">(3) {#प्रगल्भ#}
+(f. {#ल्भा#}): v. Bold.</div>
 <LEND>

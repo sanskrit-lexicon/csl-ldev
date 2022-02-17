@@ -1,5 +1,5 @@
 <L>22045<pc>695<k1>sweeper<k2>sweeper
-<div n="lb"/>{@SWEEPER:@}¦ <div n="1">(1) {#सम्मार्जकः,#} etc., <div n="xe">{%the king's house-%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#नृपतेर्गृहसम्मार्जनकर्ता,#}</div> P. i. 3.; </div><div n="1">(2) {#खलपूः#}
-<div n="lb"/>(rare).</div>
+{@SWEEPER:@}¦ <div n="1">(1) {#सम्मार्जकः,#} etc., <div n="xe">{%the king's house-%}
+{%s.:%}</div> <div n="xs">{#नृपतेर्गृहसम्मार्जनकर्ता,#}</div> P. i. 3.; </div><div n="1">(2) {#खलपूः#}
+(rare).</div>
 <LEND>

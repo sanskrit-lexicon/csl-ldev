@@ -1,4 +1,4 @@
 <L>29197<pc>796-b<k1>teacher<k2>teacher
-<div n="lb"/>TEACHER¦, {%s.%} {#उपदेशकः, शिक्षकः, अध्यापकः, बोधकः, अवबोधकः,#} {%see%}
-<div n="lb"/>INSTRUCTOR; ‘of children,’ {#बालाध्यापकः,#} {%see%} PEDAGOGUE.
+TEACHER¦, {%s.%} {#उपदेशकः, शिक्षकः, अध्यापकः, बोधकः, अवबोधकः,#} {%see%}
+INSTRUCTOR; ‘of children,’ {#बालाध्यापकः,#} {%see%} PEDAGOGUE.
 <LEND>

@@ -1,6 +1,6 @@
 <L>9756<pc>308<k1>genealogy<k2>genealogy
-<div n="lb"/>{@GENEALOGY:@}¦ <div n="1">(1) {#बंशावलिः, -ली;#} </div><div n="1">(2) often by
-<div n="lb"/>sim. {#वंशः#} (= dynasty), <div n="xe">{%I. will tell you the g. of%}
-<div n="lb"/>{%Yadu:%}</div> <div n="xs">{#यदोर्वंशमहं कथयामि,#}</div> V.p.; <div n="xe">{%who had heard%}
-<div n="lb"/>{%of the g. of kings:%}</div> <div n="xs">{#नृपाणां श्रुतवृत्तवंशा,#}</div> R. vi. 20.</div>
+{@GENEALOGY:@}¦ <div n="1">(1) {#बंशावलिः, -ली;#} </div><div n="1">(2) often by
+sim. {#वंशः#} (= dynasty), <div n="xe">{%I. will tell you the g. of%}
+{%Yadu:%}</div> <div n="xs">{#यदोर्वंशमहं कथयामि,#}</div> V.p.; <div n="xe">{%who had heard%}
+{%of the g. of kings:%}</div> <div n="xs">{#नृपाणां श्रुतवृत्तवंशा,#}</div> R. vi. 20.</div>
 <LEND>

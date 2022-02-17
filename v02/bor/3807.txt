@@ -1,6 +1,6 @@
 <L>3807<pc>125<k1>clench<k2>clench
-<div n="lb"/>{@CLENCH@}¦ (v.): <div n="I">I Lit.: to grasp: q. v. Ph. <div n="xe">{%to c.%}
-<div n="lb"/>{%the fist:%}</div> <div n="xs">{#मुष्टिं बध्नाति;#}</div> <div n="xe">{%to c. a nail:%}</div> <div n="xs">{#*नालम् आवर्ज्य #}
-<div n="lb"/>{# बध्नाति।#}</div> </div><div n="I">II Of arguments: {#द्रढयतिः#} v. To
-<div n="lb"/>confirm, establish.</div>
+{@CLENCH@}¦ (v.): <div n="I">I Lit.: to grasp: q. v. Ph. <div n="xe">{%to c.%}
+{%the fist:%}</div> <div n="xs">{#मुष्टिं बध्नाति;#}</div> <div n="xe">{%to c. a nail:%}</div> <div n="xs">{#*नालम् आवर्ज्य #}
+{# बध्नाति।#}</div> </div><div n="I">II Of arguments: {#द्रढयतिः#} v. To
+confirm, establish.</div>
 <LEND>

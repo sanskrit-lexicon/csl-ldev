@@ -1,8 +1,8 @@
 <L>14570<pc>446<k1>middle<k2>middle
-<div n="lb"/>{@MIDDLE@}¦ (subs.): <div n="1">(1) {#मध्यम्,#} {%the m. of the sky:%}
-<div n="lb"/>{#व्योममध्यम्,#} <ls>V.</ls> ; <div n="xe">{%in the m. of the ocean:%}</div> <div n="xs">{#मध्ये-#}
-<div n="lb"/>{#समुद्रम्,#}</div> Si.; <div n="xe">{%in the m. of the army:%}</div> <div n="xs">{#सैन्यस्य मध्ये,#}</div>
-<div n="lb"/><ls>K.</ls> ; {%making the m.%} (= waist) <div n="xe">{%slender:%}</div> <div n="xs">{#मध्यं #}
-<div n="lb"/>{# तनूकृत्य,#}</div> N. vii. 81.; </div><div n="1">(2) {#मध्यभागः,#} <div n="xe">{%and there%}
-<div n="lb"/>{%in the m.:%}</div> <div n="xs">{#तत्र च मध्यमागे,#}</div> K.</div>
+{@MIDDLE@}¦ (subs.): <div n="1">(1) {#मध्यम्,#} {%the m. of the sky:%}
+{#व्योममध्यम्,#} <ls>V.</ls> ; <div n="xe">{%in the m. of the ocean:%}</div> <div n="xs">{#मध्ये-#}
+{#समुद्रम्,#}</div> Si.; <div n="xe">{%in the m. of the army:%}</div> <div n="xs">{#सैन्यस्य मध्ये,#}</div>
+<ls>K.</ls> ; {%making the m.%} (= waist) <div n="xe">{%slender:%}</div> <div n="xs">{#मध्यं #}
+{# तनूकृत्य,#}</div> N. vii. 81.; </div><div n="1">(2) {#मध्यभागः,#} <div n="xe">{%and there%}
+{%in the m.:%}</div> <div n="xs">{#तत्र च मध्यमागे,#}</div> K.</div>
 <LEND>

@@ -7,8 +7,8 @@
 <ls>R. 5, 66, 3.</ls> {#गवाम्#} 
 <ls>MĀRK. P. 13, 1.</ls> {#मरुद्रोधाद्विनिर्मुक्तः#} 
 <ls>R. 7, 36, 6.</ls> {%Einschliessung, Belagerung%} (einer Stadt) 
-<ls>MBH. 3, 781. 12, 2184.</ls> 
-<ls>HARIV. 5010. 5265</ls> (am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#}). 
+<ls>MBH. 3, 781.</ls> <ls n="MBH.">12, 2184.</ls> 
+<ls>HARIV. 5010.</ls> <ls n="HARIV.">5265</ls> (am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#}). 
 <ls>RAGH. 11, 52.</ls> 
 <ls>VARĀH. BṚH. S. 12, 19. 34, 10. 20. 91, 2. 3. 95, 8.</ls> 
 <ls>MĀRK. P. 122, 15.</ls> 
@@ -23,7 +23,7 @@
 <ls>KUSUM. 22, 17.</ls> {#स्मृति°#} 
 <ls>ŚĀK. 191.</ls> {#ज्ञान°#} 
 <ls>BHĀG. P. 4, 22, 31.</ls> {#श्वास°#} 
-<ls>10,3,34.</ls> <ls>Verz. d. Oxf. H. 200,a,</ls> <ls>No. 475,</ls> <ls>Z. 10.</ls> <ls>SARVADARŚANAS. 89,13.</ls> = {#निरोध#} und {#नाश#}
+<ls>10,3,34.</ls> <ls>Verz. d. Oxf. H. 200,a, No. 475, Z. 10.</ls> <ls>SARVADARŚANAS. 89,13.</ls> = {#निरोध#} und {#नाश#}
 [Page6-0444]
 
 <ls>TRIK. 3, 3, 219.</ls> 

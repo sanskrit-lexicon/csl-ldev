@@ -1,5 +1,5 @@
 <L>3824<pc>125<k1>climax<k2>climax
-<div n="lb"/>{@CLIMAX:@}¦ <div n="I">I Acme: </div><div n="1">(1) {#परा कोटिः;#} </div><div n="1">(2) {#चूडा।#} </div><div n="I">II
-<div n="lb"/>In Rhetoric: </div><div n="1">(1) {#सारः,#} Kav. x. 37.; </div><div n="1">(2)
-<div n="lb"/>{#सारालङ्कारः।#}</div>
+{@CLIMAX:@}¦ <div n="I">I Acme: </div><div n="1">(1) {#परा कोटिः;#} </div><div n="1">(2) {#चूडा।#} </div><div n="I">II
+In Rhetoric: </div><div n="1">(1) {#सारः,#} Kav. x. 37.; </div><div n="1">(2)
+{#सारालङ्कारः।#}</div>
 <LEND>

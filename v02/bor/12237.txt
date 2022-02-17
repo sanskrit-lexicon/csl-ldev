@@ -1,6 +1,6 @@
 <L>12237<pc>381<k1>inhere<k2>inhere
-<div n="lb"/>{@INHERE:@}¦ <div n="1">(1) {#वसति, नि-,#} ({#वस्,#} c. 2.), <div n="xe">{%for excel-%}
-<div n="lb"/>{%lences i. in affection not in things:%}</div> <div n="xs">{#वसन्ति हि प्रेभ्णि #}
-<div n="lb"/>{# गुणाः न वस्तुनि,#}</div> Ki. viii. 37.; </div><div n="1">(2) {#तिष्ठति#} ({#स्था#} c.
-<div n="lb"/>1.) (= to remain: q.v.).</div>
+{@INHERE:@}¦ <div n="1">(1) {#वसति, नि-,#} ({#वस्,#} c. 2.), <div n="xe">{%for excel-%}
+{%lences i. in affection not in things:%}</div> <div n="xs">{#वसन्ति हि प्रेभ्णि #}
+{# गुणाः न वस्तुनि,#}</div> Ki. viii. 37.; </div><div n="1">(2) {#तिष्ठति#} ({#स्था#} c.
+1.) (= to remain: q.v.).</div>
 <LEND>

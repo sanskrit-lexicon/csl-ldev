@@ -1,4 +1,4 @@
 <L>1395<pc>049<k1>authentication<k2>authentication
-<div n="lb"/>{@AUTHENTICATION:@}¦ Ph. <div n="xe">{%for a.%}</div> <div n="xs">{#प्रामाण्यं कर्तुम्:#}</div> v.
-<div n="lb"/>Confirmation.
+{@AUTHENTICATION:@}¦ Ph. <div n="xe">{%for a.%}</div> <div n="xs">{#प्रामाण्यं कर्तुम्:#}</div> v.
+Confirmation.
 <LEND>

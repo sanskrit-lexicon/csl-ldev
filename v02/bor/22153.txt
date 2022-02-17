@@ -1,9 +1,9 @@
 <L>22153<pc>699<k1>take away<k2>take away
-<div n="lb"/>{@TAKE AWAY:@}¦ <div n="I">I To take, carry: q. v.: {#आदत्ते।#}</div>
-<div n="lb"/><div n="I">II To remove: q. v.: </div><div n="1">(1) {#अपनयति, वि-,#} <div n="xe">{%the%}
-<div n="lb"/>{%darkness of rage should be taken away:%}</div> <div n="xs">{#रोषमयं #}
-<div n="lb"/>{# तिमिरमपनेयम्,#}</div> Ki. ii. 36.; </div><div n="1">(2) {#हरति, अप-,#} <div n="xe">{%I will%}
-<div n="lb"/>{%t. this fortune by gambling:%}</div> <div n="xs">{#द्यूतेन श्रियं हरिष्यामि,#}</div>
-<div n="lb"/>Mah. ii. 56. 1.; </div><div n="1">(3) {#अपवहति#} ({#वह्,#} c. 1.),
-<div n="lb"/><div n="xe">{%t.ing away the bladder:%}</div> <div n="xs">{#क्लोमपोह्य,#}</div> D. viii.</div>
+{@TAKE AWAY:@}¦ <div n="I">I To take, carry: q. v.: {#आदत्ते।#}</div>
+<div n="I">II To remove: q. v.: </div><div n="1">(1) {#अपनयति, वि-,#} <div n="xe">{%the%}
+{%darkness of rage should be taken away:%}</div> <div n="xs">{#रोषमयं #}
+{# तिमिरमपनेयम्,#}</div> Ki. ii. 36.; </div><div n="1">(2) {#हरति, अप-,#} <div n="xe">{%I will%}
+{%t. this fortune by gambling:%}</div> <div n="xs">{#द्यूतेन श्रियं हरिष्यामि,#}</div>
+Mah. ii. 56. 1.; </div><div n="1">(3) {#अपवहति#} ({#वह्,#} c. 1.),
+<div n="xe">{%t.ing away the bladder:%}</div> <div n="xs">{#क्लोमपोह्य,#}</div> D. viii.</div>
 <LEND>

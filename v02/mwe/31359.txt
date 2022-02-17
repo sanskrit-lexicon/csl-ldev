@@ -1,9 +1,9 @@
 <L>31359<pc>839-b<k1>while<k2>while
-<div n="lb"/>WHILE¦, {%s.%} {#कालः, समयः;#} ‘a long while,’ {#बहुकालः;#} ‘for a long
-<div n="lb"/>while,’ {#बहुकालं, चिरकालं, चिरं;#} ‘after a long while,’ {#चिरात्;#}
-<div n="lb"/>‘a little while,’ {#अल्पकालः;#} ‘for a little while,’ {#अल्पकालं,#}
-<div n="lb"/>{#किञ्चित्कालं;#} ‘in a little while,’ {#अचिरेण -रात्, क्षणान्तरे, कियता#}
-<div n="lb"/>{#कालेन;#} ‘for a while,’ {#कियत्कालं, आपाततस्;#} ‘a long while
-<div n="lb"/>ago,’ {#पुरा, पूर्व्वकाले;#} ‘one while,’ {#कदाचित्#}. — (Worth while)
-<div n="lb"/>{#सफलः -ला -लं, फलवान् -वती -वत् (त्), उपयोगी -गिनी#} &c.
+WHILE¦, {%s.%} {#कालः, समयः;#} ‘a long while,’ {#बहुकालः;#} ‘for a long
+while,’ {#बहुकालं, चिरकालं, चिरं;#} ‘after a long while,’ {#चिरात्;#}
+‘a little while,’ {#अल्पकालः;#} ‘for a little while,’ {#अल्पकालं,#}
+{#किञ्चित्कालं;#} ‘in a little while,’ {#अचिरेण -रात्, क्षणान्तरे, कियता#}
+{#कालेन;#} ‘for a while,’ {#कियत्कालं, आपाततस्;#} ‘a long while
+ago,’ {#पुरा, पूर्व्वकाले;#} ‘one while,’ {#कदाचित्#}. — (Worth while)
+{#सफलः -ला -लं, फलवान् -वती -वत् (त्), उपयोगी -गिनी#} &c.
 <LEND>

@@ -1,4 +1,4 @@
 <L>5327<pc>171<k1>cutaneous<k2>cutaneous
-<div n="lb"/>{@CUTANEOUS:@}¦ expr. by comp., <div n="xe">{%c. disease:%}</div> <div n="xs">{#त्वग्रोगः;#}</div>
-<div n="lb"/><div n="xe">{%c. eruption:%}</div> <div n="xs">{#दद्रुः।#}</div>
+{@CUTANEOUS:@}¦ expr. by comp., <div n="xe">{%c. disease:%}</div> <div n="xs">{#त्वग्रोगः;#}</div>
+<div n="xe">{%c. eruption:%}</div> <div n="xs">{#दद्रुः।#}</div>
 <LEND>

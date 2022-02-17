@@ -1,14 +1,14 @@
 <L>19872<pc>618<k1>school<k2>school
-<div n="lb"/>{@SCHOOL@}¦ (subs.): <div n="I">I For instruction: </div><div n="1">(1)
-<div n="lb"/>{#विद्यालयः#} and sim. comp. s., <div n="xe">{%this is the tenth%}
-<div n="lb"/>{%year of your residence in s.:%}</div> <div n="xs">{#अयमत्रात्रभवतो दशमो #}
-<div n="lb"/>{# वत्सरो विद्यागृहमधिवसतः,#}</div> <ls>K.</ls> ; {%erected a palatial s.:%}
-<div n="lb"/>{#अमरागाराकारं विद्यामन्दिरमकारयत्,#} <ls>K.</ls> ; </div><div n="1">(2) {#मठः#}
-<div n="lb"/>(religious (?), {#प्रबुद्धाध्ययनकमठेषु मठेषु,#} Va. </div><div n="I">II
-<div n="lb"/>System: </div><div n="1">(1) {#शाखा#} (= branch), <div n="xe">{%different s. s%}
-<div n="lb"/>{%of Vedas:%}</div> <div n="xs">{#वेदानां शाखाभेदाः,#}</div> V. p. iii. 4. 4.; </div><div n="1">(2)
-<div n="lb"/>{#शाखिन्#} (m.: of men), <div n="xe">{%some s. s.:%}</div> <div n="xs">{#एके शाखिनः,#}</div>
-<div n="lb"/>S. iii. 2. 2. Ph.: <div n="xe">{%epitome of the various s. s of%}
-<div n="lb"/>{%Hindu philosophy:%}</div> <div n="xs">{#सर्वदर्शनसंग्रहः।#}</div> </div><div n="I">III Fig.,
-<div n="lb"/>refuge, abode: q. v.: {#शरणम्।#}</div>
+{@SCHOOL@}¦ (subs.): <div n="I">I For instruction: </div><div n="1">(1)
+{#विद्यालयः#} and sim. comp. s., <div n="xe">{%this is the tenth%}
+{%year of your residence in s.:%}</div> <div n="xs">{#अयमत्रात्रभवतो दशमो #}
+{# वत्सरो विद्यागृहमधिवसतः,#}</div> <ls>K.</ls> ; {%erected a palatial s.:%}
+{#अमरागाराकारं विद्यामन्दिरमकारयत्,#} <ls>K.</ls> ; </div><div n="1">(2) {#मठः#}
+(religious (?), {#प्रबुद्धाध्ययनकमठेषु मठेषु,#} Va. </div><div n="I">II
+System: </div><div n="1">(1) {#शाखा#} (= branch), <div n="xe">{%different s. s%}
+{%of Vedas:%}</div> <div n="xs">{#वेदानां शाखाभेदाः,#}</div> V. p. iii. 4. 4.; </div><div n="1">(2)
+{#शाखिन्#} (m.: of men), <div n="xe">{%some s. s.:%}</div> <div n="xs">{#एके शाखिनः,#}</div>
+S. iii. 2. 2. Ph.: <div n="xe">{%epitome of the various s. s of%}
+{%Hindu philosophy:%}</div> <div n="xs">{#सर्वदर्शनसंग्रहः।#}</div> </div><div n="I">III Fig.,
+refuge, abode: q. v.: {#शरणम्।#}</div>
 <LEND>

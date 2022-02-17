@@ -1,13 +1,13 @@
 <L>20755<pc>651<k1>slip<k2>slip
-<div n="lb"/>{@SLIP@}¦ (v. i.): <div n="I">I Lit.: {#स्खलति#} ({#स्खल्,#} c. 1.), <div n="xe">{%her%}
-<div n="lb"/>{%feet s. ping at every step:%}</div> <div n="xs">{#पदे पदे प्रस्खलन्ती,#}</div> K. </div><div n="I">II
-<div n="lb"/>Fig.: {#स्खलति, प्र-,#} <div n="xe">{%letting words s.:%}</div> <div n="xs">{#वचनानि #}
-<div n="lb"/>{# स्खलयन्,#}</div> Ku. iv. 12.: v. Also to fall. <div n="xe">{%To let%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#क्षिपति, अव-,#}</div> ({#क्षिप्,#} c. 6. = to throw:
-<div n="lb"/>q. v.), <div n="xe">{%opportunities s:%}</div> <div n="xs">{#क्षिप्तकाल#}</div> (f. {#ला#}), Sa.
-<div n="lb"/>iii. 27. </div><div n="I">III To s. off: {#स्रंसते#} ({#स्रंस,#} c. 1.),
-<div n="lb"/><div n="xe">{%the Gānḍīva s. s off from my hand:%}</div> <div n="xs">{#गाण्डीवं स्रं सते #}
-<div n="lb"/>{# हस्तात्,#}</div> G. i. 30. </div><div n="I">IV To s. away: {#व्यपयाति#}
-<div n="lb"/>({#या,#} c. 2.): v. To escape, flee. </div><div n="I">V To s.
-<div n="lb"/>in: {#अलक्षितम् आ-विशति, समा-#} ({#विश्,#} c. 6.).</div>
+{@SLIP@}¦ (v. i.): <div n="I">I Lit.: {#स्खलति#} ({#स्खल्,#} c. 1.), <div n="xe">{%her%}
+{%feet s. ping at every step:%}</div> <div n="xs">{#पदे पदे प्रस्खलन्ती,#}</div> K. </div><div n="I">II
+Fig.: {#स्खलति, प्र-,#} <div n="xe">{%letting words s.:%}</div> <div n="xs">{#वचनानि #}
+{# स्खलयन्,#}</div> Ku. iv. 12.: v. Also to fall. <div n="xe">{%To let%}
+{%s.:%}</div> <div n="xs">{#क्षिपति, अव-,#}</div> ({#क्षिप्,#} c. 6. = to throw:
+q. v.), <div n="xe">{%opportunities s:%}</div> <div n="xs">{#क्षिप्तकाल#}</div> (f. {#ला#}), Sa.
+iii. 27. </div><div n="I">III To s. off: {#स्रंसते#} ({#स्रंस,#} c. 1.),
+<div n="xe">{%the Gānḍīva s. s off from my hand:%}</div> <div n="xs">{#गाण्डीवं स्रं सते #}
+{# हस्तात्,#}</div> G. i. 30. </div><div n="I">IV To s. away: {#व्यपयाति#}
+({#या,#} c. 2.): v. To escape, flee. </div><div n="I">V To s.
+in: {#अलक्षितम् आ-विशति, समा-#} ({#विश्,#} c. 6.).</div>
 <LEND>

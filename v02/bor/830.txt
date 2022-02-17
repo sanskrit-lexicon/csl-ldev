@@ -1,14 +1,14 @@
 <L>830<pc>029<k1>answer<k2>answer
-<div n="lb"/>{@ANSWER@}¦ (v. t.): <div n="I">I To reply: </div><div n="1">(1) {#कथयति#}
-<div n="lb"/>({#कथ्,#} c. 10.), ({%first%}) <div n="xe">{%a. my these four questions%}
-<div n="lb"/>{%and then drink water%}</div> <div n="xs">{#ममैतान् चतुरो प्रश्नान् कथयित्वा #}
-<div n="lb"/>{# जलं पिव,#}</div> Mah.; </div><div n="1">(2) {#ब्रवीति#} ({#ब्रू,#} c. 2.), {%if you do%}
-<div n="lb"/>{%not a. my questions,%} <div n="xe">{%I will eat you%}</div> <div n="xs">{#न चेद्वूवीषि #}
-<div n="lb"/>{# प्रश्नानश्नामि त्वां,#}</div> <ls>D.</ls> vi.; </div><div n="1">(3) {#उत्तरं ददाति#} ({#दा,#}
-<div n="lb"/>c. 3.) (with gen.); </div><div n="1">(4) {#प्रतिलिखति#} ( =to
-<div n="lb"/>write back, q. v.). N. B. </div><div n="1">(1) and </div><div n="1">(2) are not
-<div n="lb"/>applicable to writing. </div><div n="I">II To refute: q. v.</div>
-<div n="lb"/><div n="I">III To correspond to, suit: q. v. </div><div n="I">IV
-<div n="lb"/>To pay: q. v. Ph: {%this will a. my object%}
-<div n="lb"/>{#अनेन सफलसमोहितो भवामि।#}</div>
+{@ANSWER@}¦ (v. t.): <div n="I">I To reply: </div><div n="1">(1) {#कथयति#}
+({#कथ्,#} c. 10.), ({%first%}) <div n="xe">{%a. my these four questions%}
+{%and then drink water%}</div> <div n="xs">{#ममैतान् चतुरो प्रश्नान् कथयित्वा #}
+{# जलं पिव,#}</div> Mah.; </div><div n="1">(2) {#ब्रवीति#} ({#ब्रू,#} c. 2.), {%if you do%}
+{%not a. my questions,%} <div n="xe">{%I will eat you%}</div> <div n="xs">{#न चेद्वूवीषि #}
+{# प्रश्नानश्नामि त्वां,#}</div> <ls>D.</ls> vi.; </div><div n="1">(3) {#उत्तरं ददाति#} ({#दा,#}
+c. 3.) (with gen.); </div><div n="1">(4) {#प्रतिलिखति#} ( =to
+write back, q. v.). N. B. </div><div n="1">(1) and </div><div n="1">(2) are not
+applicable to writing. </div><div n="I">II To refute: q. v.</div>
+<div n="I">III To correspond to, suit: q. v. </div><div n="I">IV
+To pay: q. v. Ph: {%this will a. my object%}
+{#अनेन सफलसमोहितो भवामि।#}</div>
 <LEND>

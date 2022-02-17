@@ -1,5 +1,5 @@
 <L>8375<pc>265<k1>fall under<k2>fall under
-<div n="lb"/>{@FALL UNDER:@}¦ <div n="I">I To come under: <div n="xe">{%to f. u.%}
-<div n="lb"/>{%one's power:%}</div> <div n="xs">{#वशमेति,#}</div> H.; v. To come. </div><div n="I">II
-<div n="lb"/>To come within: expr. by {#अन्तर्गतः#} ({#ता, तं#}).</div>
+{@FALL UNDER:@}¦ <div n="I">I To come under: <div n="xe">{%to f. u.%}
+{%one's power:%}</div> <div n="xs">{#वशमेति,#}</div> H.; v. To come. </div><div n="I">II
+To come within: expr. by {#अन्तर्गतः#} ({#ता, तं#}).</div>
 <LEND>

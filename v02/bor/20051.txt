@@ -1,5 +1,5 @@
 <L>20051<pc>624<k1>section<k2>section
-<div n="lb"/>{@SECTION:@}¦ <div n="I">I Division: q. v.: {#छेदः, वि-, परि-।#}</div>
-<div n="lb"/><div n="I">II Of a book: </div><div n="1">(1) {#परिच्छेदः;#} </div><div n="1">(2) {#पादः,#} <div n="xe">{%ist%}
-<div n="lb"/>{%s. of ist chapter:%}</div> <div n="xs">{#प्रथमाध्यायस्य प्रथमपादः,#}</div> Kāśikā.</div>
+{@SECTION:@}¦ <div n="I">I Division: q. v.: {#छेदः, वि-, परि-।#}</div>
+<div n="I">II Of a book: </div><div n="1">(1) {#परिच्छेदः;#} </div><div n="1">(2) {#पादः,#} <div n="xe">{%ist%}
+{%s. of ist chapter:%}</div> <div n="xs">{#प्रथमाध्यायस्य प्रथमपादः,#}</div> Kāśikā.</div>
 <LEND>

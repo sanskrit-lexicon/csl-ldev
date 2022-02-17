@@ -1,10 +1,10 @@
 <L>26751<pc>732-a<k1>seventy<k2>seventy
-<div n="lb"/>SEVENTY¦, {%s.%} {#सप्ततिः#} {%f. sing.,%} {#सप्ततिसंख्यकः -का -कं;#} ‘they reigned
-<div n="lb"/>seventy years,’ {#सप्ततिम् अब्दान् राज्यं चक्रुः;#} ‘with seventy
-<div n="lb"/>arrows,’ {#सप्तत्या शरैः;#} ‘seventy-one,’ {#एकसप्ततिः#} {%f. sing.;%}
-<div n="lb"/>‘seventy-two,’ {#द्वासप्ततिः#} {%f.;%} ‘seventy-three,’ {#त्रयःसप्ततिः;#}
-<div n="lb"/>‘seventy-four,’ {#चतुःसप्ततिः#} {%f.;%} ‘seventy-five,’ {#पञ्चसप्ततिः#} {%f.;%}
-<div n="lb"/>‘seventy-six,’ {#षट्सप्ततिः#} {%f.;%} ‘seventy-seven,’ {#सप्तसप्ततिः#} {%f.;%}
-<div n="lb"/>‘seventy-eight,’ {#अष्टासप्ततिः#} {%f.;%} ‘seventy-nine,’ {#नवसप्ततिः#} {%f.%}
-<div n="lb"/>or {#ऊनाशीतिः#} {%f.%} or {#एकोनाशीतिः#} {%f.%}
+SEVENTY¦, {%s.%} {#सप्ततिः#} {%f. sing.,%} {#सप्ततिसंख्यकः -का -कं;#} ‘they reigned
+seventy years,’ {#सप्ततिम् अब्दान् राज्यं चक्रुः;#} ‘with seventy
+arrows,’ {#सप्तत्या शरैः;#} ‘seventy-one,’ {#एकसप्ततिः#} {%f. sing.;%}
+‘seventy-two,’ {#द्वासप्ततिः#} {%f.;%} ‘seventy-three,’ {#त्रयःसप्ततिः;#}
+‘seventy-four,’ {#चतुःसप्ततिः#} {%f.;%} ‘seventy-five,’ {#पञ्चसप्ततिः#} {%f.;%}
+‘seventy-six,’ {#षट्सप्ततिः#} {%f.;%} ‘seventy-seven,’ {#सप्तसप्ततिः#} {%f.;%}
+‘seventy-eight,’ {#अष्टासप्ततिः#} {%f.;%} ‘seventy-nine,’ {#नवसप्ततिः#} {%f.%}
+or {#ऊनाशीतिः#} {%f.%} or {#एकोनाशीतिः#} {%f.%}
 <LEND>

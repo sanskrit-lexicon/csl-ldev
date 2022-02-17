@@ -1,10 +1,10 @@
 <L>4633<pc>150<k1>contrary<k2>contrary
-<div n="lb"/>{@CONTRARY@}¦ (adj.): <div n="I">I In direction etc.: </div><div n="1">(1)
-<div n="lb"/>{#प्रति#} in comp., <div n="xe">{%driven by c. wind:%}</div> <div n="xs">{#प्रतिवातप्रेरितः#}</div>
-<div n="lb"/>({#ता, तं#}), D.; </div><div n="1">(2) {#प्रतीपः, वि-,#} ({#पा, पं#}), {%c. wind:%}
-<div n="lb"/>{#प्रतीपपवनः,#} R. xi. 62. </div><div n="I">II Opposite: </div><div n="1">(1)
-<div n="lb"/>{#विपरीतः#} ({#ता, तं#}), {%but it is c. with learned men:%} [Page151]
-<div n="lb"/>{#विपरीतन्तु विपश्चिताम्,#} M. n.; <div n="xe">{%as you are of a c.%}
-<div n="lb"/>{%mind:%}</div> <div n="xs">{#यतो विपरीतबुद्धिरसि#}</div> P.; </div><div n="1">(2) {#विरुद्धः#} ({#द्धा, #}
-<div n="lb"/>{# द्धं#}) (=contradictory).</div>
+{@CONTRARY@}¦ (adj.): <div n="I">I In direction etc.: </div><div n="1">(1)
+{#प्रति#} in comp., <div n="xe">{%driven by c. wind:%}</div> <div n="xs">{#प्रतिवातप्रेरितः#}</div>
+({#ता, तं#}), D.; </div><div n="1">(2) {#प्रतीपः, वि-,#} ({#पा, पं#}), {%c. wind:%}
+{#प्रतीपपवनः,#} R. xi. 62. </div><div n="I">II Opposite: </div><div n="1">(1)
+{#विपरीतः#} ({#ता, तं#}), {%but it is c. with learned men:%} [Page151]
+{#विपरीतन्तु विपश्चिताम्,#} M. n.; <div n="xe">{%as you are of a c.%}
+{%mind:%}</div> <div n="xs">{#यतो विपरीतबुद्धिरसि#}</div> P.; </div><div n="1">(2) {#विरुद्धः#} ({#द्धा, #}
+{# द्धं#}) (=contradictory).</div>
 <LEND>

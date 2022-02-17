@@ -1,5 +1,5 @@
 <L>13067<pc>403<k1>knob<k2>knob
-<div n="lb"/>{@KNOB:@}¦ <div n="I">I A lump: </div><div n="1">(1) {#पिण्ड#} (mn.); </div><div n="1">(2)
-<div n="lb"/>{#गण्डः;#} </div><div n="1">(3) {#गुल्मः;#} </div><div n="1">(4) {#गेण्डुः#} (of balls, etc.).</div>
-<div n="lb"/><div n="I">II A knot: {#ग्रन्थिः।#}</div>
+{@KNOB:@}¦ <div n="I">I A lump: </div><div n="1">(1) {#पिण्ड#} (mn.); </div><div n="1">(2)
+{#गण्डः;#} </div><div n="1">(3) {#गुल्मः;#} </div><div n="1">(4) {#गेण्डुः#} (of balls, etc.).</div>
+<div n="I">II A knot: {#ग्रन्थिः।#}</div>
 <LEND>

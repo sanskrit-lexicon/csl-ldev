@@ -1,6 +1,6 @@
 <L>18076<pc>460-b<k1>liver<k2>liver
-<div n="lb"/>LIVER¦, {%s.%} (One who lives) {#जीवी#} {%m.%} {#(न्), उपजीवी#} {%m.,%} {#जीवकः#}.
-<div n="lb"/>{%See%} LIVING, {%part.%} (The organ which secretes the bile)
-<div n="lb"/>{#यकृत्, कालखण्डं, कालकं, कालिका, कालेयं, कालखञ्जनं, पित्ताशयः,#}
-<div n="lb"/>{#पित्ताधारः;#} ‘enlargement of the liver,’ {#यकृद्गुल्मः#}.
+LIVER¦, {%s.%} (One who lives) {#जीवी#} {%m.%} {#(न्), उपजीवी#} {%m.,%} {#जीवकः#}.
+{%See%} LIVING, {%part.%} (The organ which secretes the bile)
+{#यकृत्, कालखण्डं, कालकं, कालिका, कालेयं, कालखञ्जनं, पित्ताशयः,#}
+{#पित्ताधारः;#} ‘enlargement of the liver,’ {#यकृद्गुल्मः#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>8990<pc>284<k1>float<k2>float
-<div n="lb"/>{@FLOAT@}¦ (v.i.): {#प्लवते#} ({#प्ल,#} c. l,), <div n="xe">{%pumpkins sinking%}
-<div n="lb"/>{%in water and stones f. ing:%}</div> <div n="xs">{#अम्चुनि मज्जन्त्यलाबूनि #}
-<div n="lb"/>{# ग्रावाणः प्लवन्त इति,#}</div> Vi. i.; <div n="xe">{%a body of horse f. ing%}
-<div n="lb"/>{%in that cloud of dust:%}</div> <div n="xs">{#तस्मिन्ने व महति रजसि प्लवमान-#}
-<div n="lb"/>{#मश्ववृन्दम्,#}</div> C.
+{@FLOAT@}¦ (v.i.): {#प्लवते#} ({#प्ल,#} c. l,), <div n="xe">{%pumpkins sinking%}
+{%in water and stones f. ing:%}</div> <div n="xs">{#अम्चुनि मज्जन्त्यलाबूनि #}
+{# ग्रावाणः प्लवन्त इति,#}</div> Vi. i.; <div n="xe">{%a body of horse f. ing%}
+{%in that cloud of dust:%}</div> <div n="xs">{#तस्मिन्ने व महति रजसि प्लवमान-#}
+{#मश्ववृन्दम्,#}</div> C.
 <LEND>

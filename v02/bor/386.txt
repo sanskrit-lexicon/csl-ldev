@@ -1,11 +1,11 @@
 <L>386<pc>015<k1>affected<k2>affected
-<div n="lb"/>{@AFFECTED:@}¦ <div n="I">I Assumed: </div><div n="1">(1) {#कृतकः#} ({#का, कं#}),
-<div n="lb"/><div n="xe">{%restraining his a. anger%}</div> <div n="xs">{#कृतकं कोपं संहृत्य,#}</div> Mu. iii.;</div>
-<div n="lb"/><div n="1">(2) {#कृत्रिमः#} ({#मा, मं#}), <div n="xe">{%un-a. love%}</div> <div n="xs">{#अकृत्रिमं प्रेम,#}</div> Ki.
-<div n="lb"/>iii. 37.: v. False, feigned. </div><div n="I">II Moved</div>
-<div n="lb"/><div n="1">(1) {#तरलः#} ({#ला, लं#}), {%I am a. by your manners%}
-<div n="lb"/>{#तावकैरनुभावैस्तरलाः स्मः,#} <ls>N.</ls> v. 24; </div><div n="1">(2) {#गलितः#}
-<div n="lb"/>({#ता, तं#}) (=melted): v. To affect (II)</div>
-<div n="lb"/><div n="I">III Unnatural and offensive: Perh. {#कृतकः#}
-<div n="lb"/>({#का, कं#}): v. Unnatural.</div>
+{@AFFECTED:@}¦ <div n="I">I Assumed: </div><div n="1">(1) {#कृतकः#} ({#का, कं#}),
+<div n="xe">{%restraining his a. anger%}</div> <div n="xs">{#कृतकं कोपं संहृत्य,#}</div> Mu. iii.;</div>
+<div n="1">(2) {#कृत्रिमः#} ({#मा, मं#}), <div n="xe">{%un-a. love%}</div> <div n="xs">{#अकृत्रिमं प्रेम,#}</div> Ki.
+iii. 37.: v. False, feigned. </div><div n="I">II Moved</div>
+<div n="1">(1) {#तरलः#} ({#ला, लं#}), {%I am a. by your manners%}
+{#तावकैरनुभावैस्तरलाः स्मः,#} <ls>N.</ls> v. 24; </div><div n="1">(2) {#गलितः#}
+({#ता, तं#}) (=melted): v. To affect (II)</div>
+<div n="I">III Unnatural and offensive: Perh. {#कृतकः#}
+({#का, कं#}): v. Unnatural.</div>
 <LEND>

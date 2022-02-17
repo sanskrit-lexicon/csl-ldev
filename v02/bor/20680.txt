@@ -1,5 +1,5 @@
 <L>20680<pc>649<k1>slackness<k2>slackness
-<div n="lb"/>{@SLACKNESS:@}¦ <div n="1">(1) {#शिथिलता, -त्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#शैथिल्यम्,#}</div> <div n="xe">{%from%}
-<div n="lb"/>{%s. of memory:%}</div> <div n="xs">{#स्मृतिशैथिल्यात्,#}</div> Sa. vii.; </div><div n="1">(2)
-<div n="lb"/>{#श्लथता, वि-, परि-#} (rare).</div>
+{@SLACKNESS:@}¦ <div n="1">(1) {#शिथिलता, -त्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#शैथिल्यम्,#}</div> <div n="xe">{%from%}
+{%s. of memory:%}</div> <div n="xs">{#स्मृतिशैथिल्यात्,#}</div> Sa. vii.; </div><div n="1">(2)
+{#श्लथता, वि-, परि-#} (rare).</div>
 <LEND>

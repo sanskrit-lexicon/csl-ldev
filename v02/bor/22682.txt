@@ -1,6 +1,6 @@
 <L>22682<pc>716<k1>torch<k2>torch
-<div n="lb"/>{@TORCH:@}¦ <div n="1">(1) {#उल्का,#} <div n="xe">{%moved about with t. es in their%}
-<div n="lb"/>{%hands:%}</div> <div n="xs">{#उल्काहस्तौ विचेरतुः,#}</div> Ram. vi. 53. 7.;
-<div n="lb"/><div n="xe">{%with hundreds of lighted t.es:%}</div> <div n="xs">{#उल्काशतैः प्रज्वलितैः,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(2) {#उल्मुकम्#} (rare).</div>
+{@TORCH:@}¦ <div n="1">(1) {#उल्का,#} <div n="xe">{%moved about with t. es in their%}
+{%hands:%}</div> <div n="xs">{#उल्काहस्तौ विचेरतुः,#}</div> Ram. vi. 53. 7.;
+<div n="xe">{%with hundreds of lighted t.es:%}</div> <div n="xs">{#उल्काशतैः प्रज्वलितैः,#}</div>
+Mah.; </div><div n="1">(2) {#उल्मुकम्#} (rare).</div>
 <LEND>

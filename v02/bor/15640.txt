@@ -1,8 +1,8 @@
 <L>15640<pc>479<k1>oath<k2>oath
-<div n="lb"/>{@OATH:@}¦ <div n="1">(1) {#शपथः,#} <div n="xe">{%to take an o.:%}</div> <div n="xs">{#शपथं करोति,#}</div> D.;
-<div n="lb"/><div n="xe">{%to bind with an o.:%}</div> <div n="xs">{#शपथेन नियच्छति,#}</div> N. s.; <div n="xe">{%to%}
-<div n="lb"/>{%administer an o.:%}</div> <div n="xs">{#शपथं शापयति,#}</div> Mit.; <div n="xe">{%he swore%}
-<div n="lb"/>{%thousand of o.s:%}</div> <div n="xs">{#सहस्रशोऽसौ शपथानशप्यत्,#}</div> B. iii.
-<div n="lb"/>32.; </div><div n="1">(2) {#दिव्यम्।#} (= special oath; ordeal:
-<div n="lb"/>q.v.).</div>
+{@OATH:@}¦ <div n="1">(1) {#शपथः,#} <div n="xe">{%to take an o.:%}</div> <div n="xs">{#शपथं करोति,#}</div> D.;
+<div n="xe">{%to bind with an o.:%}</div> <div n="xs">{#शपथेन नियच्छति,#}</div> N. s.; <div n="xe">{%to%}
+{%administer an o.:%}</div> <div n="xs">{#शपथं शापयति,#}</div> Mit.; <div n="xe">{%he swore%}
+{%thousand of o.s:%}</div> <div n="xs">{#सहस्रशोऽसौ शपथानशप्यत्,#}</div> B. iii.
+32.; </div><div n="1">(2) {#दिव्यम्।#} (= special oath; ordeal:
+q.v.).</div>
 <LEND>

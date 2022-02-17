@@ -15,7 +15,7 @@
 <ls>TBR. 3, 3, 2, 2.</ls> 
 <ls>ṢAḌV. BR. 3, 1.</ls> {#वृथोदका/नि#} {%das nächste beste Wasser%} 
 <ls>ŚAT. BR. 9, 4, 3, 9.</ls> {#°मांस/#} {%das erste beste Fleisch, nicht näher geprüftes und als der Vorschrift entsprechend befundenes —, nicht nach der Vorschrift behandeltes —, nur zum eigenen Genuss dienendes Fleisch%} 
-<ls>11,7,1,2.</ls> <ls>M. 4,213.5,34.</ls> <ls>YĀJÑ. 1,167.</ls> <ls>MBH. 1,6032.</ls> <ls>MĀRK. P. 34,56.</ls> <ls>Verz. d. Oxf. H. 281,b,35.</ls> {#°पक्व#} 
+<ls>11,7,1,2.</ls> <ls>M. 4,213.5,34.</ls> <ls>YĀJÑ. 1,167.</ls> <ls>MBH. 1, 6032.</ls> <ls>MĀRK. P. 34,56.</ls> <ls>Verz. d. Oxf. H. 281,b,35.</ls> {#°पक्व#} 
 <ls>GOBH. 2, 9, 3.</ls> {#°पाकान्नभक्षणप्रायश्चित्त#} 
 <ls>Verz. d. Oxf. H. 281,b,34.</ls> {#°कृसरसंयाव#} 
 <ls>M. 5, 7.</ls> 
@@ -31,12 +31,12 @@
 <ls>TBR. 3, 2, 8, 8.</ls> {#तेनास्य तद्वृथान्नं संपद्यते#} 
 <ls>KAUŚ. 68.</ls> {#न कुर्वीत वृथा चेष्टाम्#} 
 <ls>M. 4, 63. 8, 111.</ls> 
-<ls>MBH. 1, 6032. 3, 15551. 13, 13354.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 6, 12.</ls> {#लङ्घनं च समुद्रस्य कथं तु#} (wohl {#नु#} zu lesen) {#न वृथा भवेत्#} 
+<ls>MBH. 1, 6032.</ls> <ls n="MBH.">3, 15551.</ls> <ls n="MBH.">13, 13354.</ls> 
+
+<ls>R. GORR. 2, 6, 12.</ls> {#लङ्घनं च समुद्रस्य कथं तु#} (wohl {#नु#} zu lesen) {#न वृथा भवेत्#} 
 <ls>5, 9, 39.</ls> {#वृथा जातो मम श्रमः#} 
-<ls>?15, 1. RAGH. 2, 34. 5, 56. 12, 81. ŚĀK. 72, 10. 172. ad 54. ŚIŚ. 3, 52. VARĀH. BṚH. S. 104, 53. Spr. (II) 46. 1446. 2033.</ls> {#वृथा वृष्टिः समुद्रेषु वृथा तृप्तस्य भोजनम्#} 
-<ls>?(I) 2890. 5031. KATHĀS. 22, 200. BHĀG. P. 1, 7, 51. P. 8, 1, 8, Schol. SARVADARŚANAS. 70, 7.</ls> {#संश्रुत्य च पितुर्वाक्यं न कर्तव्यं वृथा#} {%für Nichts und wieder Nichts gesprochen haben, ein Wort unerfüllt lassen%} 
+<ls>15, 1.</ls> <ls>RAGH. 2, 34. 5, 56. 12, 81.</ls> <ls>ŚĀK. 72, 10. 172. ad 54.</ls> <ls>ŚIŚ. 3, 52.</ls> <ls>VARĀH. BṚH. S. 104, 53.</ls> <ls>Spr. (II) 46.</ls> <ls n="Spr. (II)">1446.</ls> <ls n="Spr. (II)">2033.</ls> {#वृथा वृष्टिः समुद्रेषु वृथा तृप्तस्य भोजनम्#} 
+<ls n="Spr.">(I) 2890. 5031.</ls> <ls>KATHĀS. 22, 200.</ls> <ls>BHĀG. P. 1, 7, 51.</ls> <ls>P. 8, 1, 8, Schol.</ls> <ls>SARVADARŚANAS. 70, 7.</ls> {#संश्रुत्य च पितुर्वाक्यं न कर्तव्यं वृथा#} {%für Nichts und wieder Nichts gesprochen haben, ein Wort unerfüllt lassen%} 
 <ls>R. 2, 21, 41. 7, 65, 35.</ls> {#गर्जितेन वृथा किं ते कत्थितेन च#} 
 <ls>MBH. 1, 5995.</ls> {#वृथा जन्म ह्यपुत्रस्य#} 
 <ls>3, 13353.</ls> {#वृथा जन्मानि चत्वारि वृथा दानानि षोडश#} 

@@ -1,12 +1,12 @@
 <L>20907<pc>657<k1>so much<k2>so much
-<div n="lb"/>{@SO MUCH:@}¦ <div n="I">I Adj.: v. Much, so </div><div n="I">II Adv.:</div>
-<div n="lb"/><div n="1">(1) {#ईदृक्;#} </div><div n="1">(2) {#एतादृक्;#} </div><div n="1">(3) {#तादृक्#} <div n="xe">{%or%}</div> <div n="xs">{#तथा#}</div> (in cor.
-<div n="lb"/>with <div n="xe">{%as:%}</div> <div n="xs">{#तादृक्#}</div> with {#यादृक्#} and {#तथा#} with {#यथा#}),
-<div n="lb"/><div n="xe">{%Arjuna did not regret so m. at the bad omen as for%}
-<div n="lb"/>{%their emptiness:%}</div> <div n="xs">{#तेनानिमित्तेन तथा न पार्थस्तयोर्यथा #}
-<div n="lb"/>{# रिक्ततयानुतेपे,#}</div> Ki. xvii. 40.; </div><div n="1">(4) by adj., <div n="xe">{%those%}
-<div n="lb"/>{%who ask do not feel so m. shame as those who%}
-<div n="lb"/>{%give:%}</div> <div n="xs">{#न तादृशी भवति याचमानानां यादृशी ददतां लज्जा,#}</div>
-<div n="lb"/>K. Ph.: {%so m. the better, the worse for him:%}
-<div n="lb"/>perh. {#एतत्तावच्छोमनम्, अशोभनमेव।#}</div>
+{@SO MUCH:@}¦ <div n="I">I Adj.: v. Much, so </div><div n="I">II Adv.:</div>
+<div n="1">(1) {#ईदृक्;#} </div><div n="1">(2) {#एतादृक्;#} </div><div n="1">(3) {#तादृक्#} <div n="xe">{%or%}</div> <div n="xs">{#तथा#}</div> (in cor.
+with <div n="xe">{%as:%}</div> <div n="xs">{#तादृक्#}</div> with {#यादृक्#} and {#तथा#} with {#यथा#}),
+<div n="xe">{%Arjuna did not regret so m. at the bad omen as for%}
+{%their emptiness:%}</div> <div n="xs">{#तेनानिमित्तेन तथा न पार्थस्तयोर्यथा #}
+{# रिक्ततयानुतेपे,#}</div> Ki. xvii. 40.; </div><div n="1">(4) by adj., <div n="xe">{%those%}
+{%who ask do not feel so m. shame as those who%}
+{%give:%}</div> <div n="xs">{#न तादृशी भवति याचमानानां यादृशी ददतां लज्जा,#}</div>
+K. Ph.: {%so m. the better, the worse for him:%}
+perh. {#एतत्तावच्छोमनम्, अशोभनमेव।#}</div>
 <LEND>

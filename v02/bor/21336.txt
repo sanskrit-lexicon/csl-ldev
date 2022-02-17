@@ -1,5 +1,5 @@
 <L>21336<pc>672<k1>stall<k2>stall
-<div n="lb"/>{@STALL@}¦ (subs.): <div n="I">I A shop: q. v.: {#पण्यवीथिः, #}
-<div n="lb"/>{# -का।#} </div><div n="I">II For cattle: {#शाला।#} Ph.: {%s. for cattle:%}
-<div n="lb"/>{#गोष्ठम्।#} </div><div n="I">III A seat: {#आसनम्।#}</div>
+{@STALL@}¦ (subs.): <div n="I">I A shop: q. v.: {#पण्यवीथिः, #}
+{# -का।#} </div><div n="I">II For cattle: {#शाला।#} Ph.: {%s. for cattle:%}
+{#गोष्ठम्।#} </div><div n="I">III A seat: {#आसनम्।#}</div>
 <LEND>

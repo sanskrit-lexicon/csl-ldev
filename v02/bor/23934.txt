@@ -1,5 +1,5 @@
 <L>23934<pc>749<k1>vitality<k2>vitality
-<div n="lb"/>{@VITALITY:@}¦ <div n="1">(1) {#जीवनम्#} (= life: q. v.); </div><div n="1">(2)
-<div n="lb"/>{#सजीवत्वम्#} (as of plants); </div><div n="1">(3) {#स्पन्दितम्#} (of
-<div n="lb"/>limbs).</div>
+{@VITALITY:@}¦ <div n="1">(1) {#जीवनम्#} (= life: q. v.); </div><div n="1">(2)
+{#सजीवत्वम्#} (as of plants); </div><div n="1">(3) {#स्पन्दितम्#} (of
+limbs).</div>
 <LEND>

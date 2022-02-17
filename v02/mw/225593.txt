@@ -1,14 +1,13 @@
 <L>225593<pc>1111,2<k1>स<k2>स/<h>6<e>1
-<s>स/</s> <hom>6</hom> ¦ the actual base for the <ab>nom.</ab> case of the 3rd <ab>pers.</ab> <ab>pron.</ab> <s>त/द्</s> <ab>q.v.</ab> (occurring only in the <ab>nom.</ab> <ab>sg.</ab> <lex type="hwinfo">mf.</lex> [<s>स/</s> or <s>स/स्</s>, <s>सा</s>], and in the <ab>Ved.</ab> <ab>loc.</ab> [<s>स/स्मिन्</s>, <ls>RV. i, 152, 6;
-i, 174, 4;
-x, 95, 11</ls>];
+<s>स/</s> <hom>6</hom> ¦ the actual base for the <ab>nom.</ab> case of the 3rd <ab>pers.</ab> <ab>pron.</ab> <s>त/द्</s> <ab>q.v.</ab> (occurring only in the <ab>nom.</ab> <ab>sg.</ab> <lex type="hwinfo">mf.</lex> [<s>स/</s> or <s>स/स्</s>, <s>सा</s>], and in the <ab>Ved.</ab> <ab>loc.</ab>
+[<s>स/स्मिन्</s>, <ls>RV. i, 152, 6; i, 174, 4; x, 95, 11</ls>];
 the final <s>स्</s> of the <ab>nom.</ab> <lex type="hwinfo">m.</lex> is dropped before all consonants [except before <s>प्</s> in <ls>RV. v, 2, 4</ls>, and before <s>त्</s> in <ls>RV. viii, 33, 16</ls>] and appears only at the end of a sentence in the form of <s1 slp1="visarga">Visarga</s1>;
-<s>स</s> occasionally blends with another vowel [as in <s>सई<srs/>षः</s>];
+<s>स</s> occasionally blends with another vowel [as in <s>सई<स्र्स्/>षः</s>];
 and it is often for emphasis connected with another <ab>pron.</ab> as with <s>अहम्</s>, <s>त्वम्</s>, <s>एष</s>, <s>अयम्</s> &c. [<ab>e.g.</ab> <s>सो ऽहम्</s>, <s>स त्वम्</s>, ‘I (or thou) that very person’;
 <ab>cf.</ab> under <s>त/द्</s>, p.434], the verb then following in the 1st and 2nd <ab>pers.</ab> even if <s>अहम्</s> or <s>त्वम्</s> be omitted [<ab>e.g.</ab> <s>स त्वा पृच्छामि</s> ‘I that very person ask you’ <ls>BṛĀrUp.</ls>;
 <s>स वै नो ब्रूहि</s> ‘do thou tell us’ <ls>ŚBr.</ls>];
 similarly, to denote emphasis, with <s>भवान्</s> [<ab>e.g.</ab> <s>स भवान् विजयाय प्रतिष्ठताम्</s>, ‘let your Highness set out for victory’ <ls>Śak.</ls>];
-it sometimes [and frequently in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s] stands as the first word of a sentence preceding a rel. pronoun or <ab>adv.</ab> such as <s>य</s>, <s>यद्</s>, <s>यदि</s>, <s>यथा</s>, <s>चे<srs/>द्</s>;
+it sometimes [and frequently in the <s1 slp1="brAhmaRa">Brāhmaṇa</s1>s] stands as the first word of a sentence preceding a rel. pronoun or <ab>adv.</ab> such as <s>य</s>, <s>यद्</s>, <s>यदि</s>, <s>यथा</s>, <s>चे<स्र्स्/>द्</s>;
 in this position <s>स</s> may be used pleonastically or as a kind of <lex type="hwinfo">ind.</lex>, even where another gender or number is required [<ab>e.g.</ab> <s>स यदि स्थावरा आपो भनन्ति</s>, ‘if those waters are stagnant’ <ls>ŚBr.</ls>];
 in the <s1 slp1="sAMKya">Sāṃkhya</s1> <s>स</s>, like <s>एष</s>, <s>क</s>, and <s>य</s>, is used to denote <s1 slp1="puruza">Puruṣa</s1>, ‘the Universal Soul’), <ls>RV.</ls> &c. &c. <info lexcat="LEXID=pron,STEM=tad"/>
 <LEND>

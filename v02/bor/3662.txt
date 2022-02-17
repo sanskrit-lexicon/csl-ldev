@@ -1,5 +1,5 @@
 <L>3662<pc>120<k1>church<k2>church
-<div n="lb"/>{@CHURCH@}¦ (adj.): v. Ecclesiastical. {%C. -rate%} :
-<div n="lb"/>{#*धर्ममन्दिरशुल्कः।#} <div n="xe">{%C. -warden:%}</div> <div n="xs">{#धर्ममन्दिररक्षकः#}</div>.
-<div n="lb"/><div n="xe">{%C. -yard:%}</div> <div n="xs">{#*धर्ममन्दिराङ्गनम्:#}</div> v. Cemetery.
+{@CHURCH@}¦ (adj.): v. Ecclesiastical. {%C. -rate%} :
+{#*धर्ममन्दिरशुल्कः।#} <div n="xe">{%C. -warden:%}</div> <div n="xs">{#धर्ममन्दिररक्षकः#}</div>.
+<div n="xe">{%C. -yard:%}</div> <div n="xs">{#*धर्ममन्दिराङ्गनम्:#}</div> v. Cemetery.
 <LEND>

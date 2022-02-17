@@ -1,5 +1,5 @@
 <L>16528<pc>507<k1>passport<k2>passport
-<div n="lb"/>{@PASSPORT:@}¦ <div n="xe">{%Without a p.:%}</div> <div n="xs">{#अमुद्रालाञ्छितः,#}</div> Mu. v.;
-<div n="lb"/><div n="xe">{%I will take a. p. from Bhāgurāyaṇa:%}</div> <div n="xs">{#अहमपि #}
-<div n="lb"/>{# भागुरायणाद् मुद्रां प्रतीच्छामि,#}</div> Mu. v.
+{@PASSPORT:@}¦ <div n="xe">{%Without a p.:%}</div> <div n="xs">{#अमुद्रालाञ्छितः,#}</div> Mu. v.;
+<div n="xe">{%I will take a. p. from Bhāgurāyaṇa:%}</div> <div n="xs">{#अहमपि #}
+{# भागुरायणाद् मुद्रां प्रतीच्छामि,#}</div> Mu. v.
 <LEND>

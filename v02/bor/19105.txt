@@ -1,5 +1,5 @@
 <L>19105<pc>591<k1>reservation<k2>reservation
-<div n="lb"/>{@RESERVATION:@}¦ <div n="I">I Keeping back, concealing:</div>
-<div n="lb"/><div n="1">(1) {#संवृतिः;#} </div><div n="1">(2) {#संवरणम्।#} </div><div n="I">II Exception, res-
-<div n="lb"/>-triction: q. v.</div>
+{@RESERVATION:@}¦ <div n="I">I Keeping back, concealing:</div>
+<div n="1">(1) {#संवृतिः;#} </div><div n="1">(2) {#संवरणम्।#} </div><div n="I">II Exception, res-
+-triction: q. v.</div>
 <LEND>

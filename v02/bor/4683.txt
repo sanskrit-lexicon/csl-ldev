@@ -1,13 +1,13 @@
 <L>4683<pc>152<k1>conversation<k2>conversation
-<div n="lb"/>{@CONVERSATION@}¦ <div n="I">I Conduct, behaviour:
-<div n="lb"/>q. v. </div><div n="I">II Intercourse, acquaintance: q. v.</div>
-<div n="lb"/><div n="I">III Talk: </div><div n="1">(1) {#आलापः, संलापः,#} <div n="xe">{%our c. was in%}
-<div n="lb"/>{%one verse:%}</div> <div n="xs">{#आवयोरासीदेकयार्यया संलापः,#}</div> D. vi.;</div>
-<div n="lb"/><div n="1">(2) {#सम्भाषा, सम्भाषणम्,#} {%to hold c. with women:%}
-<div n="lb"/>{#स्त्रीभिः सह सम्भाषणं करोति; स्त्रीभिः सम्भाषां समाचरति,#}
-<div n="lb"/>M. viii. 360-1.; </div><div n="1">(3) {#सङ्कथा,#} {%we had some c.%}
-<div n="lb"/><div n="xe">{%about news of the country%}</div> <div n="xs">{#सङ्कथा च देशवार्तानुविद्धा #}
-<div n="lb"/>{# काचनावयोरभूत्,#}</div> D. v.; </div><div n="1">(4) {#संवादः#} (rare), Mah;</div>
-<div n="lb"/><div n="1">(5) {#कथोपकथनम्#} <div n="xe">{%or%}</div> <div n="xs">{#कथानुकथनम्,#}</div> N. IV. Sexual
-<div n="lb"/>intercourse: {#सङ्गमः।#}</div>
+{@CONVERSATION@}¦ <div n="I">I Conduct, behaviour:
+q. v. </div><div n="I">II Intercourse, acquaintance: q. v.</div>
+<div n="I">III Talk: </div><div n="1">(1) {#आलापः, संलापः,#} <div n="xe">{%our c. was in%}
+{%one verse:%}</div> <div n="xs">{#आवयोरासीदेकयार्यया संलापः,#}</div> D. vi.;</div>
+<div n="1">(2) {#सम्भाषा, सम्भाषणम्,#} {%to hold c. with women:%}
+{#स्त्रीभिः सह सम्भाषणं करोति; स्त्रीभिः सम्भाषां समाचरति,#}
+M. viii. 360-1.; </div><div n="1">(3) {#सङ्कथा,#} {%we had some c.%}
+<div n="xe">{%about news of the country%}</div> <div n="xs">{#सङ्कथा च देशवार्तानुविद्धा #}
+{# काचनावयोरभूत्,#}</div> D. v.; </div><div n="1">(4) {#संवादः#} (rare), Mah;</div>
+<div n="1">(5) {#कथोपकथनम्#} <div n="xe">{%or%}</div> <div n="xs">{#कथानुकथनम्,#}</div> N. IV. Sexual
+intercourse: {#सङ्गमः।#}</div>
 <LEND>

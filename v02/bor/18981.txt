@@ -1,15 +1,15 @@
 <L>18981<pc>587<k1>remove<k2>remove
-<div n="lb"/>{@REMOVE@}¦ (v. t.): <div n="I">I To move, change place:</div>
-<div n="lb"/><div n="1">(1) {#स्थानान्तरं नयति#} ({#नी,#} c. l.); </div><div n="1">(2) {#अपसारयति#}
-<div n="lb"/>(c. of {#सृ#}). </div><div n="I">II To drive away, banish:
-<div n="lb"/>q. v.: {#दूरीकरोति#}: v. Also to dismiss (II).</div>
-<div n="lb"/><div n="I">III To take away, destroy: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#अपनयति#} ({#नी,#} c. l.); </div><div n="1">(2) {#हरति, अप-#} ({#हृ,#} c. l.),
-<div n="lb"/><div n="xe">{%to r. thirst;%}</div> <div n="xs">{#तृष्णां हरति,#}</div> Bha.; </div><div n="1">(3) {#नुदति, प्र-#} ({#नुद्,#}
-<div n="lb"/>c. l.), <div n="xe">{%r. s phlegms:%}</div> <div n="xs">{#कफनुत्#}</div> (mfn.); </div><div n="1">(4) {#हन्ति, #}
-<div n="lb"/>{# अप-#} ({#हन्,#} c. 2. = kill), <div n="xe">{%r. s phlegms:%}</div> <div n="xs">{#कफापह#}</div>
-<div n="lb"/>(f. {#हा#}), Bha.; </div><div n="1">(5) {#विनाशयति#} (c. of {#नश्#} =
-<div n="lb"/>destroy), <div n="xe">{%r. s cold:%}</div> <div n="xs">{#प्रतिश्यायं विनाशयति,#}</div> Bha.;</div>
-<div n="lb"/><div n="1">(6) {#छिनत्ति, उत्#} ({#छिद्,#} c. 7. = cut off), {%r. d the%}
-<div n="lb"/>doubt: {#वितर्कं चिच्छेद,#} M. n. on, Ki. iv. 5.</div>
+{@REMOVE@}¦ (v. t.): <div n="I">I To move, change place:</div>
+<div n="1">(1) {#स्थानान्तरं नयति#} ({#नी,#} c. l.); </div><div n="1">(2) {#अपसारयति#}
+(c. of {#सृ#}). </div><div n="I">II To drive away, banish:
+q. v.: {#दूरीकरोति#}: v. Also to dismiss (II).</div>
+<div n="I">III To take away, destroy: q. v.: </div><div n="1">(1)
+{#अपनयति#} ({#नी,#} c. l.); </div><div n="1">(2) {#हरति, अप-#} ({#हृ,#} c. l.),
+<div n="xe">{%to r. thirst;%}</div> <div n="xs">{#तृष्णां हरति,#}</div> Bha.; </div><div n="1">(3) {#नुदति, प्र-#} ({#नुद्,#}
+c. l.), <div n="xe">{%r. s phlegms:%}</div> <div n="xs">{#कफनुत्#}</div> (mfn.); </div><div n="1">(4) {#हन्ति, #}
+{# अप-#} ({#हन्,#} c. 2. = kill), <div n="xe">{%r. s phlegms:%}</div> <div n="xs">{#कफापह#}</div>
+(f. {#हा#}), Bha.; </div><div n="1">(5) {#विनाशयति#} (c. of {#नश्#} =
+destroy), <div n="xe">{%r. s cold:%}</div> <div n="xs">{#प्रतिश्यायं विनाशयति,#}</div> Bha.;</div>
+<div n="1">(6) {#छिनत्ति, उत्#} ({#छिद्,#} c. 7. = cut off), {%r. d the%}
+doubt: {#वितर्कं चिच्छेद,#} M. n. on, Ki. iv. 5.</div>
 <LEND>

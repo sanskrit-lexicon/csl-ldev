@@ -1,14 +1,14 @@
 <L>14209<pc>228-3<k1>मिश्र<k2>मिश्र
 {#मिश्र#}¦miś-rá, {%a.%} mixed, mingled, blended, 
-<>combined; various, manifold, diverse; intertwined, <lbinfo n="5"/>
-<> tangled; mixed, connected, {%or%} associated <lbinfo n="4"/>
-<> with ({%in.%} ± samam, {%g. or%} -°, {%rarely%} °-); 
-<>-° ({%w. names%}) accompanying, -- and his companion <lbinfo n="3"/>
-<> ({%like%} ādi {%or%} ādya, -°); -° {%w. honorific %}
-<>{%epithets = our%} 'etc. etc.' ({%e. g.%} ārya-miśra, 
-<>honourable, etc. etc.); {%often%} -° ({%sts.%} °-) {%with %}
-<>{%names, esp. of scholars, as an honorific designation%}; <lbinfo n="5"/>
-<> -°, mixing, adulterating; {%m.%} {%abbreviation %}<lbinfo n="7"/>
-<>{% for names ending in%} miśra; {%N.%}; {%n.%} 
-<>capital together with interest.
+combined; various, manifold, diverse; intertwined, <lbinfo n="5"/>
+ tangled; mixed, connected, {%or%} associated <lbinfo n="4"/>
+ with ({%in.%} ± samam, {%g. or%} -°, {%rarely%} °-); 
+-° ({%w. names%}) accompanying, -- and his companion <lbinfo n="3"/>
+ ({%like%} ādi {%or%} ādya, -°); -° {%w. honorific %}
+{%epithets = our%} 'etc. etc.' ({%e. g.%} ārya-miśra, 
+honourable, etc. etc.); {%often%} -° ({%sts.%} °-) {%with %}
+{%names, esp. of scholars, as an honorific designation%}; <lbinfo n="5"/>
+ -°, mixing, adulterating; {%m.%} {%abbreviation %}<lbinfo n="7"/>
+{% for names ending in%} miśra; {%N.%}; {%n.%} 
+capital together with interest.
 <LEND>

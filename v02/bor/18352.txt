@@ -1,12 +1,12 @@
 <L>18352<pc>563<k1>quantity<k2>quantity
-<div n="lb"/>{@QUANTITY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#परिमाणम्;#} </div><div n="1">(2)
-<div n="lb"/>{#प्रमाणम्।#} Ph.: <div n="xe">{%what q.:%}</div> <div n="xs">{#कियत्#}</div> (f. {#ती#}): v.
-<div n="lb"/>Much, how.; <div n="xe">{%a great q. of:%}</div> <div n="xs">{#प्रभूत#}</div> (f. {#ता#}):
-<div n="lb"/>v. Abundant; <div n="xe">{%a little q. of:%}</div> <div n="xs">{#अल्प#}</div> (f. {#ल्पा#}):
-<div n="lb"/>v. Little; <div n="xe">{%that q. which:%}</div> <div n="xs">{#यावत्#}</div> (f. {#ती#}): v.
-<div n="lb"/>Much, as-; <div n="xe">{%in large q.ies:%}</div> <div n="xs">{#बहुशः;#}</div> {%in small q.%}
-<div n="lb"/>{#अल्पशः।#} </div><div n="I">II In prosody: not expr., {%long q.:%}
-<div n="lb"/>{#दीर्घः;#} <div n="xe">{%short q.:%}</div> <div n="xs">{#ह्रस्वः।#}</div> </div><div n="I">III In logic: {#अधिकारः#}
-<div n="lb"/>(??). </div><div n="I">IV In Math.: <div n="xe">{%unknown q.:%}</div> <div n="xs">{#अव्यक्त-#}
-<div n="lb"/>{#राशिः।#}</div></div>
+{@QUANTITY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#परिमाणम्;#} </div><div n="1">(2)
+{#प्रमाणम्।#} Ph.: <div n="xe">{%what q.:%}</div> <div n="xs">{#कियत्#}</div> (f. {#ती#}): v.
+Much, how.; <div n="xe">{%a great q. of:%}</div> <div n="xs">{#प्रभूत#}</div> (f. {#ता#}):
+v. Abundant; <div n="xe">{%a little q. of:%}</div> <div n="xs">{#अल्प#}</div> (f. {#ल्पा#}):
+v. Little; <div n="xe">{%that q. which:%}</div> <div n="xs">{#यावत्#}</div> (f. {#ती#}): v.
+Much, as-; <div n="xe">{%in large q.ies:%}</div> <div n="xs">{#बहुशः;#}</div> {%in small q.%}
+{#अल्पशः।#} </div><div n="I">II In prosody: not expr., {%long q.:%}
+{#दीर्घः;#} <div n="xe">{%short q.:%}</div> <div n="xs">{#ह्रस्वः।#}</div> </div><div n="I">III In logic: {#अधिकारः#}
+(??). </div><div n="I">IV In Math.: <div n="xe">{%unknown q.:%}</div> <div n="xs">{#अव्यक्त-#}
+{#राशिः।#}</div></div>
 <LEND>

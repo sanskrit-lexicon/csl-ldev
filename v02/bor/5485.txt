@@ -1,7 +1,7 @@
 <L>5485<pc>176<k1>deaf<k2>deaf
-<div n="lb"/>{@DEAF:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#बधिरः#} ({#रा, रं#}); </div><div n="1">(2) {#एडः#} ({#डा, #}
-<div n="lb"/>{# डं#}) (rare), <div n="xe">{%d. mute:%}</div> <div n="xs">{#एडमूकः#}</div> ({#का, कं#}); </div><div n="1">(3) {#कल्लः,#}
-<div n="lb"/>({#ल्ला, ल्लं#}) (rare); </div><div n="1">(4) {#विकलश्रोत्रः#} ({#त्रा, त्रं#}), and
-<div n="lb"/>sim. comp. s. </div><div n="I">II Fig.: unwilling to hear:
-<div n="lb"/>{#कर्णं न ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#न कर्णे करोति,#}</div> K.</div>
+{@DEAF:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#बधिरः#} ({#रा, रं#}); </div><div n="1">(2) {#एडः#} ({#डा, #}
+{# डं#}) (rare), <div n="xe">{%d. mute:%}</div> <div n="xs">{#एडमूकः#}</div> ({#का, कं#}); </div><div n="1">(3) {#कल्लः,#}
+({#ल्ला, ल्लं#}) (rare); </div><div n="1">(4) {#विकलश्रोत्रः#} ({#त्रा, त्रं#}), and
+sim. comp. s. </div><div n="I">II Fig.: unwilling to hear:
+{#कर्णं न ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#न कर्णे करोति,#}</div> K.</div>
 <LEND>

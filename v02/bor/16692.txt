@@ -1,6 +1,6 @@
 <L>16692<pc>512<k1>penal<k2>penal
-<div n="lb"/>{@PENAL:@}¦ <div n="I">I In gen.: by comp., {%p. servitude:%}
-<div n="lb"/>{#*दण्डदास्यम्;#} <div n="xe">{%p. settlement:%}</div> <div n="xs">{#*दण्डितसन्निवेशः।#}</div></div>
-<div n="lb"/><div n="I">II Incurring punishment: {#दण्डार्ह#} (f. {#र्हा#})
-<div n="lb"/>and sim. comp.s.</div>
+{@PENAL:@}¦ <div n="I">I In gen.: by comp., {%p. servitude:%}
+{#*दण्डदास्यम्;#} <div n="xe">{%p. settlement:%}</div> <div n="xs">{#*दण्डितसन्निवेशः।#}</div></div>
+<div n="I">II Incurring punishment: {#दण्डार्ह#} (f. {#र्हा#})
+and sim. comp.s.</div>
 <LEND>

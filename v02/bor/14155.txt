@@ -1,5 +1,5 @@
 <L>14155<pc>434<k1>manufacture<k2>manufacture
-<div n="lb"/>{@MANUFACTURE@}¦ (subs.): <div n="I">I The operation:
-<div n="lb"/>{#निर्माणम्#} (= making) (?). </div><div n="I">II The thing:
-<div n="lb"/>{#शिल्पद्रव्यम्#} (?).</div>
+{@MANUFACTURE@}¦ (subs.): <div n="I">I The operation:
+{#निर्माणम्#} (= making) (?). </div><div n="I">II The thing:
+{#शिल्पद्रव्यम्#} (?).</div>
 <LEND>

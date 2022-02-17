@@ -1,5 +1,5 @@
 <L>24285<pc>760<k1>which<k2>which
-<div n="lb"/>{@WHICH@}¦ (inter.): {#किम्:#} v. Who, what; <div n="xe">{%w. of%}
-<div n="lb"/>{%two:%}</div> <div n="xs">{#कतरः#}</div> ({#रा, -त्#}); <div n="xe">{%w. of many:%}</div> <div n="xs">{#कतमः#}</div> ({#मा, #}
-<div n="lb"/>{# -त्#}).
+{@WHICH@}¦ (inter.): {#किम्:#} v. Who, what; <div n="xe">{%w. of%}
+{%two:%}</div> <div n="xs">{#कतरः#}</div> ({#रा, -त्#}); <div n="xe">{%w. of many:%}</div> <div n="xs">{#कतमः#}</div> ({#मा, #}
+{# -त्#}).
 <LEND>

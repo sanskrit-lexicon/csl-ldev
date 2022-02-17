@@ -1,4 +1,4 @@
 <L>11150<pc>350<k1>hoof<k2>hoof
-<div n="lb"/>{@HOOF:@}¦ <div n="1">(1) {#खुरः,#} <div n="xe">{%right h.:%}</div> <div n="xs">{#दक्षिणखुरः,#}</div> K.; </div><div n="1">(2)
-<div n="lb"/>{#शफ#} (mn.) (rare).</div>
+{@HOOF:@}¦ <div n="1">(1) {#खुरः,#} <div n="xe">{%right h.:%}</div> <div n="xs">{#दक्षिणखुरः,#}</div> K.; </div><div n="1">(2)
+{#शफ#} (mn.) (rare).</div>
 <LEND>

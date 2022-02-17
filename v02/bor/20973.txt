@@ -1,6 +1,6 @@
 <L>20973<pc>659<k1>soliloquy<k2>soliloquy
-<div n="lb"/>{@SOLILOQUY@}¦ (subs.), {@SOLILOQUIZE@} (v.): expr.
-<div n="lb"/>with {#स्वगतम्#} <div n="xe">{%or%}</div> <div n="xs">{#आत्मगतम्#}</div> (= to one's self),
-<div n="lb"/>{#“अश्राव्यं खलु यद्वस्तु तदिह स्वगतं मतम्”,#} Sah. vi.:
-<div n="lb"/>v. To say, saying.
+{@SOLILOQUY@}¦ (subs.), {@SOLILOQUIZE@} (v.): expr.
+with {#स्वगतम्#} <div n="xe">{%or%}</div> <div n="xs">{#आत्मगतम्#}</div> (= to one's self),
+{#“अश्राव्यं खलु यद्वस्तु तदिह स्वगतं मतम्”,#} Sah. vi.:
+v. To say, saying.
 <LEND>

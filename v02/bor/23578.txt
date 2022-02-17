@@ -1,9 +1,9 @@
 <L>23578<pc>739<k1>up to<k2>up to
-<div n="lb"/>{@UP TO:@}¦ <div n="1">(1) by comp. with {#आ,#} <div n="xe">{%lord of the%}
-<div n="lb"/>{%earth up to the ocean:%}</div> <div n="xs">{#आसमुद्रक्षितीशाः;#}</div> <div n="xe">{%working%}
-<div n="lb"/>{%up to fructification:%}</div> <div n="xs">{#आफलोदयकर्मन्#}</div> (mfn.), R. i.
-<div n="lb"/>5.; </div><div n="1">(3) {#पर्यन्तः#} in comp., <div n="xe">{%from brother up to%}
-<div n="lb"/>{%husband:%}</div> <div n="xs">{#भ्रात्रादिभर्तृपर्यन्त#}</div> (f. {#न्ता#}), D. 72.;</div>
-<div n="lb"/><div n="1">(3) {#यावत्#} (with acc.: rare), {%up to marriage:%}
-<div n="lb"/>{#परिणयनं यावत्,#} D. 77.</div>
+{@UP TO:@}¦ <div n="1">(1) by comp. with {#आ,#} <div n="xe">{%lord of the%}
+{%earth up to the ocean:%}</div> <div n="xs">{#आसमुद्रक्षितीशाः;#}</div> <div n="xe">{%working%}
+{%up to fructification:%}</div> <div n="xs">{#आफलोदयकर्मन्#}</div> (mfn.), R. i.
+5.; </div><div n="1">(3) {#पर्यन्तः#} in comp., <div n="xe">{%from brother up to%}
+{%husband:%}</div> <div n="xs">{#भ्रात्रादिभर्तृपर्यन्त#}</div> (f. {#न्ता#}), D. 72.;</div>
+<div n="1">(3) {#यावत्#} (with acc.: rare), {%up to marriage:%}
+{#परिणयनं यावत्,#} D. 77.</div>
 <LEND>

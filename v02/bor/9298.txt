@@ -1,12 +1,12 @@
 <L>9298<pc>295<k1>foul<k2>foul
-<div n="lb"/>{@FOUL@}¦ (adj.): <div n="I">I Dirty: q.v.: </div><div n="1">(1) {#मलपूर्ण#} (f.
-<div n="lb"/>{#र्णा#}) (= full of dirt); </div><div n="1">(2) {#अशुचि#} (mfn.), {#अमेध्य#}
-<div n="lb"/>(f. {#ध्या#}), etc. (= impure), {%in a ditch full of f.%}
-<div n="lb"/>({%matter%}): {#अशुचिसंपूर्णे खातके,#} K.s. xiii. 148. </div><div n="I">II
-<div n="lb"/>Obscene, abusive: q.v.: {#अश्लीलः#} ({#ला, लं#}).</div>
-<div n="lb"/><div n="I">III Abominable, detestable: q.v.: {#मलिनः#}
-<div n="lb"/>({#ना, नं#}), K. </div><div n="I">IV Unfair, fraudulent: q.v.:
-<div n="lb"/>{#कूट-#} in comp., <div n="xe">{%f. play:%}</div> <div n="xs">{#कूटव्यवहारः।#}</div> </div><div n="I">V Unfavour-
-<div n="lb"/>-able: q.v. Ph.: <div n="xe">{%f. weather:%}</div> <div n="xs">{#दुर्दिनम्;#}</div> {%fall f. of:%}
-<div n="lb"/>{#उपरि पतति।#}</div>
+{@FOUL@}¦ (adj.): <div n="I">I Dirty: q.v.: </div><div n="1">(1) {#मलपूर्ण#} (f.
+{#र्णा#}) (= full of dirt); </div><div n="1">(2) {#अशुचि#} (mfn.), {#अमेध्य#}
+(f. {#ध्या#}), etc. (= impure), {%in a ditch full of f.%}
+({%matter%}): {#अशुचिसंपूर्णे खातके,#} K.s. xiii. 148. </div><div n="I">II
+Obscene, abusive: q.v.: {#अश्लीलः#} ({#ला, लं#}).</div>
+<div n="I">III Abominable, detestable: q.v.: {#मलिनः#}
+({#ना, नं#}), K. </div><div n="I">IV Unfair, fraudulent: q.v.:
+{#कूट-#} in comp., <div n="xe">{%f. play:%}</div> <div n="xs">{#कूटव्यवहारः।#}</div> </div><div n="I">V Unfavour-
+-able: q.v. Ph.: <div n="xe">{%f. weather:%}</div> <div n="xs">{#दुर्दिनम्;#}</div> {%fall f. of:%}
+{#उपरि पतति।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>1227<pc>043<k1>assessment<k2>assessment
-<div n="lb"/>{@ASSESSMENT:@}¦ <div n="I">I A valuation: {#*करनिरूपणम्#} {%or%}
-<div n="lb"/>{#निर्धारणम्।#} </div><div n="I">II A tax: q. v.: {#करः।#} </div><div n="I">III Of
-<div n="lb"/>damages: {#*क्षतिनिरूपणम्#} <div n="xe">{%or%}</div> <div n="xs">{#-निर्धारणम्।#}</div></div>
+{@ASSESSMENT:@}¦ <div n="I">I A valuation: {#*करनिरूपणम्#} {%or%}
+{#निर्धारणम्।#} </div><div n="I">II A tax: q. v.: {#करः।#} </div><div n="I">III Of
+damages: {#*क्षतिनिरूपणम्#} <div n="xe">{%or%}</div> <div n="xs">{#-निर्धारणम्।#}</div></div>
 <LEND>

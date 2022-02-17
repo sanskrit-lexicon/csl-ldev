@@ -1,9 +1,9 @@
 <L>20364<pc>636<k1>shelter<k2>shelter
-<div n="lb"/>{@SHELTER@}¦ (subs.): <div n="1">(1) {#आश्रयः#} (= refuge: q. v.),
-<div n="lb"/><div n="xe">{%take s. with Chandragupta:%}</div> <div n="xs">{#समाश्रीयतां चन्द्रगुप्तः,#}</div>
-<div n="lb"/>Mu. v.; <div n="xe">{%take s. in the peaks:%}</div> <div n="xs">{#शृङ्गाण्याश्रयन्ते,#}</div> Ku.
-<div n="lb"/>i. 5.; </div><div n="1">(2) {#-त्राणम्#} <div n="xe">{%or%}</div> <div n="xs">{#-त्रम्#}</div> in comp. (= protec-
-<div n="lb"/>-tion: q. v.), <div n="xe">{%s. for body:%}</div> <div n="xs">{#तनुत्रम्,#}</div> Ki.; <div n="xe">{%s. from%}
-<div n="lb"/>{%heat:%}</div> <div n="xs">{#आतपत्रम्,#}</div> Si.; </div><div n="1">(3) {#अवकाशः#} (= space),
-<div n="lb"/><div n="xe">{%to give s.:%}</div> <div n="xs">{#अवकाशं ददाति,#}</div> R. iv. 58.</div>
+{@SHELTER@}¦ (subs.): <div n="1">(1) {#आश्रयः#} (= refuge: q. v.),
+<div n="xe">{%take s. with Chandragupta:%}</div> <div n="xs">{#समाश्रीयतां चन्द्रगुप्तः,#}</div>
+Mu. v.; <div n="xe">{%take s. in the peaks:%}</div> <div n="xs">{#शृङ्गाण्याश्रयन्ते,#}</div> Ku.
+i. 5.; </div><div n="1">(2) {#-त्राणम्#} <div n="xe">{%or%}</div> <div n="xs">{#-त्रम्#}</div> in comp. (= protec-
+-tion: q. v.), <div n="xe">{%s. for body:%}</div> <div n="xs">{#तनुत्रम्,#}</div> Ki.; <div n="xe">{%s. from%}
+{%heat:%}</div> <div n="xs">{#आतपत्रम्,#}</div> Si.; </div><div n="1">(3) {#अवकाशः#} (= space),
+<div n="xe">{%to give s.:%}</div> <div n="xs">{#अवकाशं ददाति,#}</div> R. iv. 58.</div>
 <LEND>

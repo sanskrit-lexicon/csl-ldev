@@ -16,10 +16,10 @@
 <ls n="ṚV. 1,">90, 6.</ls> <ls n="ṚV. 1, 90,">8.</ls> {#धर्म#} 
 <ls>VS. 38, 10.</ls> {#छन्दस्#} 
 <ls>ṚV. 6, 11, 3.</ls> {#वचन#} 
-<ls>?39, 1; vgl. TS. 3, 3, 2, 2.</ls> {#मधुस्तनूः#} 
+<ls>39, 1</ls>; vgl. <ls>TS. 3, 3, 2, 2.</ls> {#मधुस्तनूः#} 
 <ls>P. 4, 4, 129,</ls> 
 <ls>Sch.</ls> unter den Beiww. <is>Śiva's</is> 
-<ls>MBH. 13, 1187</ls> (=  {#वसन्त#} Schol.). 
+<ls>MBH. 13, 1187</ls> (= {#वसन्त#} Schol.). 
 <div n="1">— 2) <lex>n.</lex> {%Süssigkeit, süsser Trank und Speise, Meth u.s.w.%} 
 <ls>ṚV. 1, 154, 4.</ls> <ls n="ṚV.">2, 37, 5.</ls> {#मधु\ संभृ^तमु\स्रिया^याम्#} 
 <ls n="ṚV.">3, 39, 6.</ls> <ls n="ṚV.">5, 43, 1.</ls> {#पृ\णक्तु\ मध्वा\ समि\मा वचा^ंसि#} 
@@ -37,7 +37,7 @@
 <ls n="ṚV.">3, 58, 4.</ls> {#मध्वो\ रस^ः#} 
 <ls n="ṚV.">5, 43, 4.</ls> 
 <div n="2">— b) {%Milch%} 
-<ls>?(H. ś. 98. an. 2, 244. fg.</ls>) und {%Erzeugnisse von Milch, Butter, Schmalz%} 
+(<ls>H. ś. 98. an. 2, 244. fg.</ls>) und {%Erzeugnisse von Milch, Butter, Schmalz%} 
 <ls>ṚV. 1, 117, 6.</ls> {#सु\तः सोम\ः परि^षिक्ता\ मधू^नि#} 
 <ls n="ṚV. 1,">177, 3.</ls> <ls n="ṚV.">7, 24, 2.</ls> <ls n="ṚV.">3, 8, 1.</ls> <ls>VS. 6, 2.</ls> {#गावो^ दुदु\ह्रे व\ज्रिणे\ मधु^#} 
 <ls>8, 58, 6.</ls> {#स्तन\ं न मध्व^ः पीपयन्त\ वाजै^ः#} 
@@ -45,7 +45,7 @@
 <ls>ĀŚV. GṚHY. 2, 10, 6.</ls> 
 <div n="2">— c) {%Honig%} 
 <ls>AK.2,9,108.3,4,17,105.</ls> <ls>H. 1214.</ls> <ls>H. an.</ls> <ls>MED. dh. 11.</ls> <ls>HALĀY.2,466.</ls> <ls>Verz. d. Oxf. H. 182,a,30. fg.</ls> In der alten Sprache selten sicher nachzuweisen, da Erwähnungen wie 
-<ls>ṚV. 4, 45, 4.</ls> <ls n="ṚV.">7, 32, 2</ls> <ls>?(vgl. HOMER'S ILIAS 16, 641. fgg.) und 8, 24, 20</ls> ebensowohl auf {%Milch%} wie auf jede andere {%Süssigkeit%} zu beziehen sind. {#मधु^ सार\धम्#} 
+<ls>ṚV. 4, 45, 4.</ls> <ls n="ṚV.">7, 32, 2</ls> (vgl. <ls>HOMER'S ILIAS 16, 641. fgg.) und 8, 24, 20</ls> ebensowohl auf {%Milch%} wie auf jede andere {%Süssigkeit%} zu beziehen sind. {#मधु^ सार\धम्#} 
 <ls>ṚV. 8, 4, 8.</ls> 
 <ls>AV. 9, 1, 17. 19.</ls> etwa auch 
 <ls>TS. 7, 5, 10, 1.</ls> {#यथा मधु मधुकृतो निर्धयेयुः#} 
@@ -69,12 +69,12 @@
 <ls>R. 5, 60, 14.</ls> {#°निभेक्षण#} 
 <ls>HARIV. 11951.</ls> {#°निभनयन#} 
 <ls>VARĀH. LAGH. 2, 17</ls> in <ls>Ind. St. 2, 287.</ls> {#मधु वै माध्विको लब्ध्वा प्रपातं नैव बुध्यते#} 
-<ls>MBH. 2, 2098. 3, 14761. 5, 2044. 2476. 7, 1992. 5464.11, 38. 12, 11524.</ls>
+<ls>MBH. 2, 2098.</ls> <ls n="MBH.">3, 14761.</ls> <ls n="MBH.">5, 2044.</ls> <ls n="MBH. 5,">2476.</ls> <ls n="MBH.">7, 1992.</ls> <ls n="MBH. 7,">5464.</ls> <ls n="MBH.">11, 38.</ls> <ls n="MBH.">12, 11524.</ls>
 [Page5-0484]
 {#°प्रपात#} 
 <ls>3100.</ls> {#यथारुह्य महावृक्षमपहृत्य ततो मधु । अप्राश्य च निधनं गच्छेत्कर्मेदं नस्तथोपमम्#} 
 <ls>286.</ls> <ls>SUŚR. 1, 184, 15.</ls> acht Arten Honig 
-<ls>?185, 1. 2. VĀCASP. zu H. 1214.</ls> {#°वर्ग#} 
+<ls>185, 1. 2.</ls> <ls>VĀCASP.</ls> zu <ls>H. 1214.</ls> {#°वर्ग#} 
 <ls>Verz. d. B. H. No. 941. 953. 986.</ls> <ls>Verz. d. Oxf. H. 311,b,14.</ls> berauschend: {#भक्षयन्तः सुगन्धीनि मधूनि रसवन्ति च । जग्मुः प्रहर्षं ते सर्वे बभूवुश्च मदोत्कटाः ॥#} 
 <ls>R. 5, 60, 9.</ls> — {#मधु तिष्ठति जिह्वाग्रे हृदये तु हलाहलम्#} 
 <ls>Spr. 1182.</ls> {#मधु तिष्ठति वाचि योषितां हृदि हालाहलमेव केवलम्#} 
@@ -121,7 +121,7 @@
 <ls>KATHĀS. 10, 87.</ls> 
 <div n="2">— b) {%Frühling%} 
 <ls>H. 229</ls> (<is>Kāma's</is> {%Freund).%} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>RAGH. 9, 24. 26. 35</ls> <ls>?(ST. und der Schol.</ls> in der Calc. Ausg. {%Wein).%} 
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>RAGH. 9, 24. 26. 35</ls> (<ls>ST. und der Schol.</ls> in der Calc. Ausg. {%Wein).%} 
 <ls>KUMĀRAS. 3, 10.</ls> 
 <ls>MĀLAV. 76.</ls> 
 <ls>Spr. 1719. 2099. 2629. 3186. 3713. 4688.</ls> 
@@ -137,14 +137,14 @@
 <div n="2">— e) N. pr. 
 <div n="3"> α) eines <is>Asura</is> 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. a. a. O.</ls> <ls>HAṬṬAC. a. a. O.</ls> gewöhnlich in Verbindung mit {#कैटभ#} erwähnt; Beide sind Feinde des <is>Viṣṇu</is> und werden von diesem getödtet. 
-<ls>MBH.3,498. 13532. 13562.5,4414.6,3025. 12,7531. 8265. 13474.</ls> <ls>HARIV. 2710. 2924. 11461. fgg. 11940. fgg. 14361.</ls> <ls>MĀRK. P. 81,50. fgg.</ls> <ls>Verz. d. Oxf. H. 23,b, N. 7. 80,a,30. 81,a,13.</ls> <ls>Verz. d. B. H. No. 540.</ls> <ls>RĀJA-TAR.1,262.</ls> unter den 
+<ls>MBH. 3, 498.</ls> <ls n="MBH. 3,">13532.</ls> <ls n="MBH. 3,">13562.</ls> <ls n="MBH.">5, 4414.</ls> <ls n="MBH.">6, 3025.</ls> <ls n="MBH.">12, 7531.</ls> <ls n="MBH. 12,">8265.</ls> <ls n="MBH. 12,">13474.</ls> <ls>HARIV. 2710.</ls> <ls n="HARIV.">2924.</ls> <ls n="HARIV.">11461. fgg.</ls> <ls n="HARIV.">11940. fgg.</ls> <ls n="HARIV.">14361.</ls> <ls>MĀRK. P. 81,50. fgg.</ls> <ls>Verz. d. Oxf. H. 23,b, N. 7. 80,a,30. 81,a,13.</ls> <ls>Verz. d. B. H. No. 540.</ls> <ls>RĀJA-TAR.1,262.</ls> unter den 
 <ls>23</ls> Feinden des <is>Viṣṇu</is> 
 <ls>H. 219.</ls> unter den 9 Feinden desselben 
 <ls>699.</ls> derselbe oder ein anderer <is>Asura</is> <is>Madhu</is> ist Vater des <is>Rākṣasa</is> <is>Lavaṇa</is>, den <is>Śatrughna</is> erschlug; er bewohnte <is>Madhuvana</is>, wo <is>Śatrughna</is> die Stadt <is>Mathurā</is> oder <is>Madhurā</is> gründete. 
-<ls>HARIV. 2342. 3061. 5143. fgg.</ls> 
+<ls>HARIV. 2342.</ls> <ls n="HARIV.">3061.</ls> <ls n="HARIV.">5143. fgg.</ls> 
 <ls>VP. 385.</ls> 
 <ls>BHĀG. P. 9, 11, 14.</ls> {#मधोर्वनम्#} 
-<ls>?1, 10, 26. 4, 9, 1; vgl. 2.</ls> {#मधुवन#} 2. 
+<ls>1, 10, 26. 4, 9, 1</ls>; vgl. 2. {#मधुवन#} 2. 
 <div n="3">— β) eines Mannes 
 <ls>P. 4, 1, 106.</ls> (als Monatsname) eines Sohnes des 3ten <is>Manu</is> 
 <ls>HARIV. 424.</ls> 
@@ -155,18 +155,18 @@
 <ls>VP. 418.</ls> des <is>Devakṣatra</is> 
 <ls>HARIV. 1996. fg.</ls> 
 <ls>VP. 422.</ls> 
-<ls>BHĀG. P. 9, 24, 5.</ls> des <is>Bindumant</is> von der <is>Saraghā</is> {%(Biene)%} 
+<ls>BHĀG. P. 9, 24, 5.</ls> des <is>Bindumant</is> von der <is>Saraghā</is> ({%Biene%}) 
 <ls>5, 15, 13.</ls> <is>Arjuna's</is> (<is>Kārtavirya's</is>) 
 <ls>9, 23, 26.</ls> <ls>VP. 417.</ls> pl. {%das Geschlecht%}
 [Page5-0485]
 {%des%} <is>Madhu</is>: = {#यादवाः#} 
 <ls>MBH. 2, 888.</ls> {#°प्रवीर#} 
 <ls>5, 40.</ls> = {#माथुराः#} 
-<ls>?(Schol.) 3, 12589. HARIV. 1996. BHĀG. P. 1, 11, 12</ls> (beherrschen <is>Dvārakā</is>). {#अपससार कुरून्मधून् (= मथुराम्#} 
-<ls>Schol.</ls><ls>) 9.</ls> Vgl. {#मधुपति, माधव#} . 
+(Schol.) <ls n="MBH.">3, 12589.</ls> <ls>HARIV. 1996.</ls> <ls>BHĀG. P. 1, 11, 12</ls> (beherrschen <is>Dvārakā</is>). {#अपससार कुरून्मधून् (= मथुराम्#} 
+<ls>Schol.</ls>) <ls>9.</ls> Vgl. {#मधुपति, माधव#} . 
 <div n="3">— ε) eines Sohnes des <is>Bhaṭṭanārāyaṇa</is> 
 <ls>KṢITĪŚ. 5, 8.</ls> <is>Madhu</is> = <is>Madhva</is> = <is>Ānandatīrtha</is> (fälschlich <is>Anantatīrtha</is> 
-<ls>COLEBR. Misc. Ess. I, 334</ls>) <ls>HALL 94 u.s.w.</ls> 
+<ls>COLEBR. Misc. Ess. I, 334</ls>) <ls>HALL 94</ls> u.s.w. 
 <div n="3">— ζ) eines Berges 
 <ls>MĀRK. P. 55, 9.</ls> 
 <div n="1">— 4) <lex>f.</lex> {%eine best. Pflanze%}, = {#जीवा, जीवन्ती#} 
@@ -179,6 +179,6 @@ u.s.w. u. 2.
 <div n="2">— b) N. eines <is>Brāhmaṇa</is> 
 <ls>ŚAT. BR. 4, 1, 5, 18. 14, 1, 4, 13. 5, 5, 16.</ls> 
 <div n="2">— c) {%ein best. Metrum, 4 Mal%} {Ç} 
-<ls>COLEBR. Misc. Ess. II, 158</ls> <ls>(II, 4).</ls> 
+<ls>COLEBR. Misc. Ess. II, 158</ls> (<ls>II, 4).</ls> 
 <div n="v">— Vgl. {#त्रि°, प्रिय°, माधव, माधवक, माधव्य, माध्वी#} .
 <LEND>

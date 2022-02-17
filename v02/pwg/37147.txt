@@ -8,7 +8,7 @@
 <ls>AK. 3, 2, 2. 4, 27, 213.</ls> 
 <ls>H. 1453.</ls> 
 <ls>H. an.</ls> 
-<ls>MED. v. 13.</ls> <ls>Verz. d. Oxf. H. No. 414,</ls> <ls>Śl. 4.</ls> = {#अजस्र#} 
+<ls>MED. v. 13.</ls> <ls>Verz. d. Oxf. H. No. 414, Śl. 4.</ls> = {#अजस्र#} 
 <ls>H. an.</ls> = {#संतत#} 
 <ls>MED.</ls> {#उ\त च्य^वन्ते\ अच्यु^ता ध्रु\वाणि^#} 
 <ls>ṚV. 1, 167, 8.</ls> <ls n="ṚV.">3, 54, 8.</ls> <ls n="ṚV.">10, 5, 3.</ls> {#क्षिति#} 
@@ -29,10 +29,10 @@
 <ls>VS. 1, 1.</ls> {#सूर्ये\ न र\श्मयो^ ध्रु\वास^ः#} 
 <ls>ṚV. 1, 59, 3.</ls> {#ध्रु\वं ज्योति\र्निहि^तं दृ\शये\ कम्#} 
 <ls n="ṚV.">6, 9, 5.</ls> {#ध्रु\वासो^ अस्य की\रयो\ जना^सः#} 
-<ls n="ṚV.">7, 100, 4.</ls> <ls n="ṚV.">10, 173, 1.</ls> <ls>fgg.</ls> {#इ\हैव^ ध्रु\वा प्रति^ तिष्ठ शाले#} 
+<ls n="ṚV.">7, 100, 4.</ls> <ls n="ṚV.">10, 173, 1. fgg.</ls> {#इ\हैव^ ध्रु\वा प्रति^ तिष्ठ शाले#} 
 <ls>AV. 3, 12, 2. 14, 1, 47.</ls> 
 <ls>VS. 9, 22. 13, 16.</ls> {#धेनु#} {%eine beim Melken stillhaltende Kuh%} 
-<ls>AV. 12, 1, 45. -</ls> <ls>ŚAT. BR. 11, 8, 1, 2. 14, 4, 3, 22. 7, 2, 23.</ls> {#ध्रुवा दिक्#} heisst in der Reihe der Himmelsrichtungen {%der Fusspunkt%} 
+<ls>AV. 12, 1, 45.</ls> - <ls>ŚAT. BR. 11, 8, 1, 2. 14, 4, 3, 22. 7, 2, 23.</ls> {#ध्रुवा दिक्#} heisst in der Reihe der Himmelsrichtungen {%der Fusspunkt%} 
 <ls>AV. 3, 27, 5. 15, 6, 1. 12, 3, 59.</ls> 
 <ls>AIT. BR. 8, 14.</ls> 
 <ls>ŚAT. BR. 14, 6, 9, 25.</ls> {#°ग्रह#} {%der bleibende%} d. h. {%aufbewahrte%} <is>Graha</is>, welcher Morgens geschöpft erst Abends geopfert wird, 
@@ -60,11 +60,11 @@
 [Page3-1002]
 {#ध्रुवाय#} {%zum Feststehen, fest, auf die Dauer%}: {#तं गिरिश्रेष्ठं स्वे स्थाने - निवेशयामास ध्रुवाय#} 
 <ls>HARIV. 3959.</ls> {#ध्रुवाय तत्र न्यवसत्केशवः सह यादवैः#} 
-<ls>6417.</ls> 
+<ls n="HARIV.">6417.</ls> 
 <div n="2">— b) {%feststehend%} so v. a. {%sicher, gewiss%}; = {#निश्चित#} 
 <ls>AK. 3, 4, 27, 213.</ls> 
 <ls>H. an.</ls> 
-<ls>MED.</ls> <ls>Verz. d. Oxf. H. No. 414,</ls> <ls>Śl. 4.</ls> {#नित्यं कल्याणं तत्र वै ध्रुवम्#} 
+<ls>MED.</ls> <ls>Verz. d. Oxf. H. No. 414, Śl. 4.</ls> {#नित्यं कल्याणं तत्र वै ध्रुवम्#} 
 <ls>M. 3, 60.</ls> {#यदावगच्छेदायत्यामाधिक्यं ध्रुवमात्मनः#} 
 <ls>7, 169. 183.</ls> {#जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च#} 
 <ls>BHAG. 2, 27.</ls> {#दुःखानामागमो ध्रुवः#} 
@@ -108,17 +108,17 @@
 <ls>VARĀH. BṚH. S. 11, 34. 46, 12 (13).</ls> 
 <ls>KATHĀS. 18, 5.</ls> 
 <ls>VP. 230. fgg. 238. fgg.</ls> 
-<ls>MATSYAP.</ls> in <ls>Verz. d. Oxf. H. 41</ls>, {%a%}, Kap. 
-<ls>114.</ls> <ls>SKANDA-P. ebend. 69</ls>, {%b%}, Kap. 
+<ls>MATSYAP.</ls> in <ls>Verz. d. Oxf. H. 41,a,</ls> Kap. 
+<ls>114.</ls> <ls>SKANDA-P. ebend. 69,b,</ls> Kap. 
 <ls>19 - 21.</ls> {#ध्रुव औत्तानपादः#} 
 <ls>MBH. 13, 195.</ls> 
 <ls>HARIV. 62. fgg.</ls> 
 <ls>VP. 86. fgg.</ls> 
-<ls>BHĀG. P. 2, 7, 43</ls> <ls>?(?). 4, 8, 8. fgg.</ls> {#ध्रुवो (पातु) भ्रुवौ#} 
+<ls>BHĀG. P. 2, 7, 43</ls> (<ls>?). 4, 8, 8. fgg.</ls> {#ध्रुवो (पातु) भ्रुवौ#} 
 <ls>SUŚR. 1, 17, 12</ls>; vgl. u. {%i.%} 
 <div n="2">— b) {%Himmelspol%} 
 <ls>SŪRYAS. 12, 44. 72. 73.</ls> 
-<div n="2">— c) {%polar longitude%} (=  {#ध्रुवक#}) 
+<div n="2">— c) {%polar longitude%} (= {#ध्रुवक#}) 
 <ls>SŪRYAS. 8, 1.</ls> 
 <div n="2">— d) {%a constant arc%} 
 <ls>KĀLAS. 363</ls> bei <ls>HAUGHT.</ls> 
@@ -144,7 +144,7 @@
 <div n="2">— l) {%der Eingangsvers eines Gesanges, der später immer wiederholt wird (der beständige Vers%}), 
 <ls>SAM̃GĪTADĀM.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— m) {%die Zeit%} 
-<ls>Verz. d. Oxf. H. No. 414,</ls> <ls>Śl. 4.</ls> 
+<ls>Verz. d. Oxf. H. No. 414, Śl. 4.</ls> 
 <div n="2">— n) Bein. <is>Brahman's</is> 
 <ls>H. 212.</ls> 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <is>Viṣṇu's</is> 
@@ -156,7 +156,7 @@
 <ls>TAITT. ĀR. 10, 68.</ls> 
 <ls>PĀR. GṚHY. 2, 14.</ls> 
 <div n="2">— p) N. eines <is>Vasu</is> 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 2582. 13, 7094.</ls> <ls>HARIV. 152. 11538. 13175. 13269.</ls> <ls>VP. 120.</ls> <ls>BHĀG. P. 6, 6, 11. 12.</ls> 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 2582.</ls> <ls n="MBH.">13, 7094.</ls> <ls>HARIV. 152.</ls> <ls n="HARIV.">11538.</ls> <ls n="HARIV.">13175.</ls> <ls n="HARIV.">13269.</ls> <ls>VP. 120.</ls> <ls>BHĀG. P. 6, 6, 11. 12.</ls> 
 <div n="2">— q) N. pr. eines Sohnes des <is>Vasudeva</is> von der <is>Rohiṇī</is> 
 <ls>BHĀG. P. 9, 24, 45.</ls> 
 <div n="2">— r) N. pr. eines <is>Āṅgirasa</is>, Verfassers von 
@@ -197,7 +197,7 @@ ist.
 <div n="2"> l) 
 <ls>TRIK. 3, 3, 416.</ls> 
 <ls>H. an.</ls> 
-<ls>MED.</ls> <ls>Verz. d. Oxf. H. No. 414,</ls> <ls>Śl. 4.</ls> 
+<ls>MED.</ls> <ls>Verz. d. Oxf. H. No. 414, Śl. 4.</ls> 
 <div n="2">— d) = {#आढी#} (?) 
 <ls>MED.</ls> 
 <div n="1">— 4) <lex>n.</lex> 

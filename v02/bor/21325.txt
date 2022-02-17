@@ -1,5 +1,5 @@
 <L>21325<pc>671<k1>stainless<k2>stainless
-<div n="lb"/>{@STAINLESS:@}¦ <div n="1">(1) {#निष्कलङ्क#} <div n="xe">{%or%}</div> <div n="xs">{#अकलङ्क#}</div> (f. {#ङ्का#}), <div n="xe">{%thus%}
-<div n="lb"/>{%there is nobody s.:%}</div> <div n="xs">{#इत्थं नास्त्यकलङ्कः कोऽपि,#}</div> Va.;</div>
-<div n="lb"/><div n="1">(2) {#निर्मलः#} ({#ला, लं#}): v. Pure, chaste.</div>
+{@STAINLESS:@}¦ <div n="1">(1) {#निष्कलङ्क#} <div n="xe">{%or%}</div> <div n="xs">{#अकलङ्क#}</div> (f. {#ङ्का#}), <div n="xe">{%thus%}
+{%there is nobody s.:%}</div> <div n="xs">{#इत्थं नास्त्यकलङ्कः कोऽपि,#}</div> Va.;</div>
+<div n="1">(2) {#निर्मलः#} ({#ला, लं#}): v. Pure, chaste.</div>
 <LEND>

@@ -85,9 +85,9 @@ hat eine ganz andere Lesart)
 <ls>MUṆḌ. UP. 1, 2, 3.</ls> {#आरक्ष°#} ({#श्राद्ध#}) 
 <ls>M. 3, 204. 4, 176.</ls> 
 <ls>BHAG. 4, 19. 11, 55.</ls> 
-<ls>MBH. 3, 1760. 4, 306.</ls> 
+<ls>MBH. 3, 1760.</ls> <ls n="MBH.">4, 306.</ls> 
 <ls>R. 1, 1, 87 (94 GORR.). 2, 27, 11. 37, 22. 60, 18. 3, 52, 41. 5, 90, 17.</ls> <ls>SUŚR. 1, 69, 5.</ls> <ls>KĀM. NĪTIS. 10, 21.</ls> <ls>VARĀH. BṚH. S. 19, 20. 54, 52.</ls> {#षष्टिः पञ्चवर्जिता#} {%sechzig weniger fünf%} 
-<ls>?82. 71, 14. 78, 20. BṚH. 20, 2. Spr. 3339. 3431. 4823. KIR. 5, 47. KATHĀS. 52, 113. 65, 141. RĀJA-TAR. 3, 29. 6, 279. BHĀG. P. 1, 5, 12. 4, 6, 32. 5, 14, 38. MĀRK. P. 50, 73. H. 409. 854. Schol. zu KĀTY. ŚR. 529, 11. SARVADARŚANAS. 69, 20.</ls> {#भुक्ति°#} so v. a. {%ungeniessbar%} 
+<ls>82. 71, 14. 78, 20.</ls> <ls>BṚH. 20, 2.</ls> <ls>Spr. 3339. 3431. 4823.</ls> <ls>KIR. 5, 47.</ls> <ls>KATHĀS. 52, 113. 65, 141.</ls> <ls>RĀJA-TAR. 3, 29. 6, 279.</ls> <ls>BHĀG. P. 1, 5, 12. 4, 6, 32. 5, 14, 38.</ls> <ls>MĀRK. P. 50, 73.</ls> <ls>H. 409. 854.</ls> Schol. zu <ls>KĀTY. ŚR. 529, 11.</ls> <ls>SARVADARŚANAS. 69, 20.</ls> {#भुक्ति°#} so v. a. {%ungeniessbar%} 
 <ls>PAÑCAT. 138, 2.</ls> {%ohne Etwas seiend%} so v. a. {%mit Ausnahme von, nicht einbegriffen%} —: {#शतसाहस्रिको भागो वस्त्राभरणवर्जितः#} 
 <ls>HARIV. 6305.</ls> {#नान्यं प्रज्ञास्यते कंचिन्मानवं पितृवर्जितम्#} 
 <ls>R. 1, 8, 8.</ls> 
@@ -100,7 +100,7 @@ hat eine ganz andere Lesart)
 <ls>LĀṬY. 8, 9, 3.</ls> {#वर्जयित्वा#} {%mit Ausnahme von%} (acc.) 
 <ls>M. 3, 276.</ls> 
 <ls>YĀJÑ. 1, 263.</ls> 
-<ls>HARIV. 7191. 13986.</ls> 
+<ls>HARIV. 7191.</ls> <ls n="HARIV.">13986.</ls> 
 <ls>R. 1, 14, 40. 59, 11. 67, 19 (69, 20</ls> <ls>GORR.).</ls> <ls>R. GORR. 1, 76, 17. 3, 4, 46. 4, 36, 14.</ls> <ls>MṚCCH. 123, 11.</ls> <ls>KATHĀS. 8, 20. 50, 93.</ls> <ls>BHĀG. P. 8, 15, 29.</ls> <ls>KĀŚ.</ls> zu <ls>P. 1, 1, 56. Schol.</ls> zu <ls>1, 2, 52. 6, 1, 158.</ls> {#वर्जितस्त्वहमेवैकः#} 
 <ls>KATHĀS. 1, 36.</ls> {#एक एव तु वर्जितः । सोपानकूपो विक्रीतान्महतो वेश्मनस्ततः ॥#} 
 <ls>RĀJA-TAR. 6, 18.</ls> {#आवर्जिते#} {%mit Ausnahme von%} {#आ#} 
@@ -200,8 +200,8 @@ hat eine ganz andere Lesart)
 <ls>VIKR. 87, 15.</ls> {#आवर्ज्य शाखाः#} 
 <ls>RAGH. 16, 19.</ls> {#दृष्टीः#} 
 <ls>MEGH. 47.</ls> {#आवर्जित#} {%geneigt, gesenkt%} 
-<ls>MBH. 1, 5883. 2, 1804. 7, 1145. 2073 (12, 9187). 7, 6905.</ls> <ls>HARIV. 3720</ls> ({#आवर्जितमुखस्कन्ध#} die neuere Ausg., = {#भ्रामित#} 
-<ls>NĪLAK.</ls><ls>?) 6780. 8422. RAGH. 13, 17. 24. KUMĀRAS. 2, 26. 3, 54. 7, 54. Spr. 3445. H. an. 4, 24. MED. k. 202.</ls> 
+<ls>MBH. 1, 5883.</ls> <ls n="MBH.">2, 1804.</ls> <ls n="MBH.">7, 1145.</ls> <ls n="MBH. 7,">2073</ls> (<ls n="MBH.">12, 9187</ls>). <ls n="MBH.">7, 6905.</ls> <ls>HARIV. 3720</ls> ({#आवर्जितमुखस्कन्ध#} die neuere Ausg., = {#भ्रामित#} 
+<ls>NĪLAK.</ls>) <ls>6780. 8422.</ls> <ls>RAGH. 13, 17. 24.</ls> <ls>KUMĀRAS. 2, 26. 3, 54. 7, 54.</ls> <ls>Spr. 3445.</ls> <ls>H. an. 4, 24.</ls> <ls>MED. k. 202.</ls> 
 <div n="1">— 2) eine Flüssigkeit {%neigen%} so v. a. {%ausgiessen%}: {#आवर्जित#} 
 <ls>MBH. 3, 2936.</ls> {#हविरावर्जितं होतस्त्वया विधिवदग्निषु#} 
 <ls>RAGH. 1, 62. 67.</ls> 
@@ -216,7 +216,7 @@ hat eine ganz andere Lesart)
 <ls>6, 76.</ls> 
 <div n="1">— 5) {%sich Jmd geneigt machen, für sich gewinnen%}: {#सर्वत्रावर्जयामास नगरीवासिनां मनः#} 
 <ls>KATHĀS. 24, 104.</ls> {#तं वाहनसुखैरावर्ज्य#} 
-<ls>?62, 158. DAŚAK. 79, 9. ŚUK. in LA. (III) 37, 15.</ls> {#मरीचिमावर्जितवतीव#} 
+<ls>62, 158.</ls> <ls>DAŚAK. 79, 9.</ls> <ls>ŚUK.</ls> in <ls>LA. (III) 37, 15.</ls> {#मरीचिमावर्जितवतीव#} 
 <ls>DAŚAK. 66, 11.</ls> {#आवर्जित#} 
 <ls>RATNĀV. 2, 17.</ls> 
 <ls>NĀGĀN. 2, 5.</ls> <ls>KATHĀS. 42, 94.</ls> {#गुणैरावर्जितप्रजम्#} 
@@ -323,7 +323,7 @@ Ausg. — liest.
 <div n="v">— Vgl. {#परिवर्जक#} fgg.
 
 <div n="p">— {#संपरि#} caus. {%meiden, vermeiden%} 
-<ls>MBH. 12, 11027. 13, 7541.</ls>
+<ls>MBH. 12, 11027.</ls> <ls n="MBH.">13, 7541.</ls>
 
 <div n="p">— {#प्र#} 
 <div n="1"> 1) {%hinwerfen%}, das <is>Barhis</is> 
@@ -350,8 +350,8 @@ Ausg. — liest.
 
 <div n="p">— {#वि#} caus. 
 <div n="1"> 1) {%meiden, vermeiden%} 
-<ls>M. 2, 184. 3, 42. 167. 4, 42. 83</ls> (=  
-<ls>MBH. 13, 5023). 101. 144. 172. 5, 6. 11. 15. 48. 7, 45.</ls> <ls>MBH. 12, 8369.</ls> <ls>R. 4, 9, 28.</ls> <ls>KĀM. NĪTIS. 5, 32.</ls> <ls>Spr. 3240. 3471. 4014. 5178.</ls> <ls>MĀRK. P. 34, 30.</ls> {#विवर्जयीत#} 
+<ls>M. 2, 184. 3, 42. 167. 4, 42. 83</ls> (= 
+<ls>MBH. 13, 5023</ls>). <ls>101. 144. 172. 5, 6. 11. 15. 48. 7, 45.</ls> <ls>MBH. 12, 8369.</ls> <ls>R. 4, 9, 28.</ls> <ls>KĀM. NĪTIS. 5, 32.</ls> <ls>Spr. 3240. 3471. 4014. 5178.</ls> <ls>MĀRK. P. 34, 30.</ls> {#विवर्जयीत#} 
 <ls>Spr. 4198.</ls> {#अतो जन्तुर्लूताव्याप्तो विवर्ज्यते#} 
 <ls>RĀJA-TAR. 4, 524. 5, 374.</ls> 
 <div n="1">— 2) {#विवर्जित#} {%verlassen von, dem es an Etwas gebricht, - mangelt, frei von, ohne - seiend%}; die Ergänzung im instr. oder im comp. vorangehend: {#राघवेण#} 
@@ -361,8 +361,8 @@ Ausg. — liest.
 <ls>BHĀG. P. 8, 3, 16.</ls> {#वर्षषष्टिं सषण्मासैः षड्भिर्वर्षैर्विवर्जिताम्#} 
 <ls>RĀJA-TAR. 1, 192. 348</ls> (wo {#त्रिंशत्याह्नां#} zu lesen ist). {#शर्करावह्निवालुका°#} 
 <ls>ŚVETĀŚV. UP. 2, 10.</ls> {#सर्वेन्द्रिय°#} 
-<ls>3, 17 (=</ls> <ls>BHAG. 13, 14).</ls> {#काम°#} 
-<ls>MAITRYUP.6,34.</ls> <ls>YĀJÑ.2,1.</ls> <ls>BHAG.7,11. 12,18.</ls> <ls>MBH.1,7674.3,2616.</ls> <ls>R.2,52,91. 66,22. 72,3.</ls> <ls>R.</ls> <ls>GORR.1,49,12.5,87,14.</ls> <ls>RAGH.5,19.</ls> <ls>Spr. 152. 172. 3564. 4192. 4973. 5338.</ls> <ls>AK.3,1,21.</ls> <ls>H. 428.</ls> <ls>VARĀH. BṚH. S. 43,10. 46,99. 54,58.</ls> <ls>BṚH.8,4.</ls> <ls>KATHĀS. 45,62.</ls> <ls>RĀJA-TAR.1,344.4,688. 693.</ls> <ls>BHĀG. P.3,25,24.4,9,34.8,16,51.</ls> <ls>MĀRK. P. 16,5.</ls> <ls>Verz. d. Oxf. H. 57,b,7.</ls> <ls>BHAṬṬ.4,23.</ls> {#भभ्रमास्तु भगणविवर्जिताः#} {%vermindert um%} 
+<ls>3, 17</ls> (= <ls>BHAG. 13, 14).</ls> {#काम°#} 
+<ls>MAITRYUP. 6,34.</ls> <ls>YĀJÑ. 2,1.</ls> <ls>BHAG. 7,11. 12,18.</ls> <ls>MBH. 1, 7674.</ls> <ls n="MBH.">3, 2616.</ls> <ls>R. 2,52,91. 66,22. 72,3.</ls> <ls>R. GORR.1,49,12.5,87,14.</ls> <ls>RAGH.5,19.</ls> <ls>Spr. 152. 172. 3564. 4192. 4973. 5338.</ls> <ls>AK. 3,1,21.</ls> <ls>H. 428.</ls> <ls>VARĀH. BṚH. S. 43,10. 46,99. 54,58.</ls> <ls>BṚH. 8,4.</ls> <ls>KATHĀS. 45,62.</ls> <ls>RĀJA-TAR. 1,344.4,688. 693.</ls> <ls>BHĀG. P. 3,25,24.4,9,34.8,16,51.</ls> <ls>MĀRK. P. 16,5.</ls> <ls>Verz. d. Oxf. H. 57,b,7.</ls> <ls>BHAṬṬ.4,23.</ls> {#भभ्रमास्तु भगणविवर्जिताः#} {%vermindert um%} 
 <ls>GAṆIṬĀDHY.</ls> <ls>BHAGAṆĀDHY. 9.</ls> <ls>PRATYABDAŚ. 17.</ls> <ls>RĀJA-TAR. 1, 50.</ls> {#उपहारस्य भेदास्तु सर्वे मैत्रविवर्जिताः#} {%mit Ausnahme —, mit Ausschluss von%} 
 <ls>Spr. 3820, v. l.</ls> 
 <ls>VARĀH. BṚH. S. 86, 65.</ls> 

@@ -1,6 +1,6 @@
 <L>18030<pc>553<k1>prostration<k2>prostration
-<div n="lb"/>{@PROSTRATION:@}¦ <div n="I">I In adoration: expr. with
-<div n="lb"/>{#दण्डप्रणामः, साष्टाङ्गप्रणामः,#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणिपातः।#}</div> </div><div n="I">II Dejec-
-<div n="lb"/>-tion: q. v.: {#अवसादः।#} </div><div n="I">III Ruin: q. v.:
-<div n="lb"/>{#पातः।#}</div>
+{@PROSTRATION:@}¦ <div n="I">I In adoration: expr. with
+{#दण्डप्रणामः, साष्टाङ्गप्रणामः,#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणिपातः।#}</div> </div><div n="I">II Dejec-
+-tion: q. v.: {#अवसादः।#} </div><div n="I">III Ruin: q. v.:
+{#पातः।#}</div>
 <LEND>

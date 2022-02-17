@@ -1,7 +1,7 @@
 <L>11464<pc>359<k1>idle<k2>idle
-<div n="lb"/>{@IDLE@}¦ (adj.): <div n="I">I Vain, useless: q.v.: {#निरर्थकः#}
-<div n="lb"/>({#का, कं#}). </div><div n="I">II Lazy, inactive: q.v.: {#अलसः#}
-<div n="lb"/>({#सा, सं#}) {%like the action of an i.%} ({%man%}): {#अलसस्य #}
-<div n="lb"/>{# यथा कार्यम्।#} Vi. vi. 2. </div><div n="I">III Unemployed: q.v.
-<div n="lb"/>{#अव्यापृतः#} ({#ता, तं#}).</div>
+{@IDLE@}¦ (adj.): <div n="I">I Vain, useless: q.v.: {#निरर्थकः#}
+({#का, कं#}). </div><div n="I">II Lazy, inactive: q.v.: {#अलसः#}
+({#सा, सं#}) {%like the action of an i.%} ({%man%}): {#अलसस्य #}
+{# यथा कार्यम्।#} Vi. vi. 2. </div><div n="I">III Unemployed: q.v.
+{#अव्यापृतः#} ({#ता, तं#}).</div>
 <LEND>

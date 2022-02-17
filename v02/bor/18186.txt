@@ -1,4 +1,4 @@
 <L>18186<pc>557<k1>punctuality<k2>punctuality
-<div n="lb"/>{@PUNCTUALITY,@}¦ {@PUNCTUALNESS:@} <div n="1">(1) {#कालानुवर्तिता#}
-<div n="lb"/>(?); </div><div n="1">(2) with adv. {#यथासमयम्#} <div n="xe">{%or%}</div> <div n="xs">{#यथाकालम्।#}</div></div>
+{@PUNCTUALITY,@}¦ {@PUNCTUALNESS:@} <div n="1">(1) {#कालानुवर्तिता#}
+(?); </div><div n="1">(2) with adv. {#यथासमयम्#} <div n="xe">{%or%}</div> <div n="xs">{#यथाकालम्।#}</div></div>
 <LEND>

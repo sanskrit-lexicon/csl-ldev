@@ -1,11 +1,11 @@
 <L>3754<pc>080-b<k1>carriage<k2>carriage
-<div n="lb"/>CARRIAGE¦, {%s.%} {#वाहनं, यानं, रथः, गन्त्री, चातुरं, वाहः, प्रवहणं, चङ्कुरः;#}
-<div n="lb"/>‘travelling-carriage,’ {#अध्वरथः, पुष्परथः;#} ‘bullock-carriage,’
-<div n="lb"/>{#वृपभयानं;#} ‘one who has a carriage,’ {#रथी#} {%m.%} {#(न्), रथिकः;#}
-<div n="lb"/>‘riding in a carriage,’ {#रथारूढः -ढा -ढं;#} ‘alighting from a
-<div n="lb"/>carriage,’ {#रथावरोही -हिणी -हि (न्);#} ‘carriage-road,’ {#रथ्या;#}
-<div n="lb"/>‘carriage-horse,’ {#रथ्यः, प्रवहणवाजी#} {%m.%} ({#न्#}); ‘bottom of a
-<div n="lb"/>carriage,’ {#अनुकर्षः#}. — (Framework of a gun) {#युद्धयन्त्रवाहनं#}. — 
-<div n="lb"/>(Behaviour) {#गतिः#} {%f.,%} {#चरितं, आचारः, चलनं, व्यवहारः#}. — (Ma-
-<div n="lb"/>nagement) {#नयः, प्रणयनं#}.
+CARRIAGE¦, {%s.%} {#वाहनं, यानं, रथः, गन्त्री, चातुरं, वाहः, प्रवहणं, चङ्कुरः;#}
+‘travelling-carriage,’ {#अध्वरथः, पुष्परथः;#} ‘bullock-carriage,’
+{#वृपभयानं;#} ‘one who has a carriage,’ {#रथी#} {%m.%} {#(न्), रथिकः;#}
+‘riding in a carriage,’ {#रथारूढः -ढा -ढं;#} ‘alighting from a
+carriage,’ {#रथावरोही -हिणी -हि (न्);#} ‘carriage-road,’ {#रथ्या;#}
+‘carriage-horse,’ {#रथ्यः, प्रवहणवाजी#} {%m.%} ({#न्#}); ‘bottom of a
+carriage,’ {#अनुकर्षः#}. — (Framework of a gun) {#युद्धयन्त्रवाहनं#}. — 
+(Behaviour) {#गतिः#} {%f.,%} {#चरितं, आचारः, चलनं, व्यवहारः#}. — (Ma-
+nagement) {#नयः, प्रणयनं#}.
 <LEND>

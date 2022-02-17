@@ -1,5 +1,5 @@
 <L>6662<pc>213<k1>diverse<k2>diverse
-<div n="lb"/>{@DIVERSE:@}¦ <div n="I">I Different: q. v.: {#भिन्नः#} ({#न्ना, न्नं#})</div>
-<div n="lb"/><div n="I">II Various: q. v.: </div><div n="1">(1) {#नानाविधः#} ({#धा, धं#});</div>
-<div n="lb"/><div n="1">(2) {#पृथग्विधः#} ({#धा, धं#}), Ki.</div>
+{@DIVERSE:@}¦ <div n="I">I Different: q. v.: {#भिन्नः#} ({#न्ना, न्नं#})</div>
+<div n="I">II Various: q. v.: </div><div n="1">(1) {#नानाविधः#} ({#धा, धं#});</div>
+<div n="1">(2) {#पृथग्विधः#} ({#धा, धं#}), Ki.</div>
 <LEND>

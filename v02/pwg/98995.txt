@@ -5,17 +5,17 @@
 <ls>6, 8, 1, 1.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Vatica robusta%}, ein hoher stattlicher Baum ({%der zum Häuserbau gebraucht wird%}) 
-<ls>AK.2,4,2,25.</ls> <ls>TRIK.2,4,21.3,3,407. 410.</ls> <ls>H. 1138.</ls> <ls>an. 2,515.</ls> <ls>MED. l. 54.</ls> <ls>HĀR. 182.</ls> <ls>HALĀY. 2,40.5,26.</ls> <ls>ŚĀŚVATA</ls> bei <ls>MALLIN.</ls> zu <ls>KIR. 10,34. 14,34.</ls> <ls>M. 8,246.</ls> <ls>MBH. 1,5927. 7716.3,1400. 2404. 15703. 15940.4,513.5,864.8,4345.9,3239. 13,635. 14,2521.</ls> <ls>HARIV. 9002.</ls> <ls>R. 2,97,12 (106,8 GORR.). 98,28. 100,18.3,17,9. 35,77.4,1,12. 19,22.5,39,25.6,17,7.7,23,1,58.</ls> <ls>SUŚR.1,46,14. 145,8. 12.2,110,13. 131,12. 468,18.</ls> <ls>KIR. 10,34. 14,34.</ls> <ls>VARĀH. BṚH. S. 29,2. 53,87. 59,6. 79,2. 13. 16. 85,7.</ls> <ls>Journ. of the Am. Or. S. 6,588.</ls> <ls>ŚATR. 2,6.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 51,19.</ls> <ls>PAÑCAR.1,7,23.</ls> <ls>VĀSAVAD. 134,3.</ls> <ls>Verz. d. Oxf. H. 17,a, No. 63, Śl. 4. 257</ls>, {%a%}, 
+<ls>AK.2,4,2,25.</ls> <ls>TRIK.2,4,21.3,3,407. 410.</ls> <ls>H. 1138. an. 2,515.</ls> <ls>MED. l. 54.</ls> <ls>HĀR. 182.</ls> <ls>HALĀY. 2,40.5,26.</ls> <ls>ŚĀŚVATA</ls> bei <ls>MALLIN.</ls> zu <ls>KIR. 10,34. 14,34.</ls> <ls>M. 8,246.</ls> <ls>MBH. 1, 5927.</ls> <ls n="MBH. 1,">7716.</ls> <ls n="MBH.">3, 1400.</ls> <ls n="MBH. 3,">2404.</ls> <ls n="MBH. 3,">15703.</ls> <ls n="MBH. 3,">15940.</ls> <ls n="MBH.">4, 513.</ls> <ls n="MBH.">5, 864.</ls> <ls n="MBH.">8, 4345.</ls> <ls n="MBH.">9, 3239.</ls> <ls n="MBH.">13, 635.</ls> <ls n="MBH.">14, 2521.</ls> <ls>HARIV. 9002.</ls> <ls>R. 2,97,12 (106,8 GORR.). 98,28. 100,18.3,17,9. 35,77.4,1,12. 19,22.5,39,25.6,17,7.7,23,1,58.</ls> <ls>SUŚR.1,46,14. 145,8. 12.2,110,13. 131,12. 468,18.</ls> <ls>KIR. 10,34. 14,34.</ls> <ls>VARĀH. BṚH. S. 29,2. 53,87. 59,6. 79,2. 13. 16. 85,7.</ls> <ls>Journ. of the Am. Or. S. 6,588.</ls> <ls>ŚATR. 2,6.</ls> <ls>BRAHMA-P. in LA. (III) 51,19.</ls> <ls>PAÑCAR.1,7,23.</ls> <ls>VĀSAVAD. 134,3.</ls> <ls>Verz. d. Oxf. H. 17,a, No. 63, Śl. 4. 257,a,</ls> 
 <ls>N. 3.</ls> {#°वन#} (vgl. {#भद्रसालवन#}) 
-<ls>MBH. 1, 4476. 3, 945. 8, 2305.</ls> 
+<ls>MBH. 1, 4476.</ls> <ls n="MBH.">3, 945.</ls> <ls n="MBH.">8, 2305.</ls> 
 <ls>R. 2, 71, 16 (73, 14 GORR.).</ls> {#°स्कन्ध#} 
 <ls>MBH. 2, 826.</ls> 
 <ls>R. 2, 96, 13 (105, 12 GORR.).</ls> {#°स्तम्भ#} 
-<ls>MBH. 1, 3066. 2, 825. 5, 5856.</ls> {#°निर्यास#} 
+<ls>MBH. 1, 3066.</ls> <ls n="MBH.">2, 825.</ls> <ls n="MBH.">5, 5856.</ls> {#°निर्यास#} 
 <ls>RATNAM. 274.</ls> 
 <ls>SUŚR. 2, 495, 18. 501, 16.</ls> 
 <ls>RAGH. 1, 38.</ls> {#°पोत#} 
-<ls>MBH. 1, 5942. 3, 11690. 7, 2504.</ls> {#°प्रांशु#} 
+<ls>MBH. 1, 5942.</ls> <ls n="MBH.">3, 11690.</ls> <ls n="MBH.">7, 2504.</ls> {#°प्रांशु#} 
 <ls>RAGH. 1, 13.</ls> {#°संकाशमूरुम्#} 
 <ls>MBH. 1, 3867.</ls> {#°पुष्पनिभा (= रक्तपीताः#} 
 <ls>NĪLAK.</ls>) {#हयाः#} 
@@ -26,7 +26,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 22.</ls> <ls>ŚĀŚVATA</ls> bei <ls>MALLIN.</ls> zu <ls>KIR. 14, 34.</ls> {#कल्प° = कल्पतरु#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 505,</ls> <ls>Śl. 16.</ls> Auch {#साल#} geschrieben. 
+<ls>Journ. of the Am. Or. S. 6, 505, Śl. 16.</ls> Auch {#साल#} geschrieben. 
 <div n="2">— c) {%Einfriedigung, Wall%} (hierzu mag die {%Vatica robusta%} verwendet worden sein) 
 <ls>AK. 2, 2, 3.</ls> 
 <ls>TRIK. 3, 3, 410.</ls> 
@@ -38,7 +38,7 @@
 <ls>R. GORR. 1, 5, 5.</ls> {#पर्यस्त°#} <lex>adj.</lex> 
 <ls>RAGH. 16, 11.</ls> {#बृहन्मणिशिला°#} <lex>adj.</lex> 
 <ls>KUMĀRAS. 6, 38.</ls> 
-<ls>DAŚAK. 94, 1.</ls> {#°शृङ्ग#} <lex>n.</lex> (=  {#प्राचीराग्र#} 
+<ls>DAŚAK. 94, 1.</ls> {#°शृङ्ग#} <lex>n.</lex> (= {#प्राचीराग्र#} 
 <ls>ŚKDR.</ls>) {%the upper part or coping of a wall%} 
 <ls>WILSON</ls> nach <ls>ŚABDĀRTHAK.</ls> Auch {#साल#} geschrieben. 
 <div n="v">— Vgl. {#पीत°, बृहच्छाल, शुक्ल°#} .

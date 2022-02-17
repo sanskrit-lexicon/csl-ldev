@@ -1,5 +1,5 @@
 <L>23761<pc>744<k1>venture<k2>venture
-<div n="lb"/>{@VENTURE:@}¦ <div n="I">I To risk: q. v. </div><div n="I">II To attempt:
-<div n="lb"/>q. v. Ph.: <div n="xe">{%nothing v. nothing gain:%}</div> <div n="xs">{#उद्यमेन हि #}
-<div n="lb"/>{# सिध्यन्ति कार्याणि न मनोरथैः,#}</div> H. 36.</div>
+{@VENTURE:@}¦ <div n="I">I To risk: q. v. </div><div n="I">II To attempt:
+q. v. Ph.: <div n="xe">{%nothing v. nothing gain:%}</div> <div n="xs">{#उद्यमेन हि #}
+{# सिध्यन्ति कार्याणि न मनोरथैः,#}</div> H. 36.</div>
 <LEND>

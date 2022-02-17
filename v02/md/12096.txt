@@ -1,28 +1,28 @@
 <L>12096<pc>173-3<k1>प्रतिदण्ड<k2>प्रतिदण्ड
 {#प्रतिदण्ड#}¦prati-daṇḍa, {%a.%} (counter to the 
-<>rod), refractory; {@-darśa@}, {%m.%} sight; {@-darśana@}, 
-<>{%n.%} beholding, perceiving; appearing; sight, 
-<>appearance; {@-dātavya,@} {%fp.%} to be restored; 
-<>{@-dāna,@} {%n.%} giving {%or%} present in return; {@-dā-@}
-<>{@-pya,@} {%fp.%} to be forced to be restored; {@-dinam,@} 
-<>{%ad.%} every day, daily, day by day; {@-divasam,@} 
-<>{%ad. id.%}; {@-diśam@}, {%ad.%} in every quarter {%or%} direction, <lbinfo n="2"/>
-<> all round; {@-dī́van,@} {%m.%} adversary at 
-<>play; {@-dúh,@} ({%nm.%} {@-dhuk,@}), milk fresh from 
-<>{%the cow%}; {@-dūta,@} {%m.%} return messenger; {@-dṛś@}, 
-<>{%a.%} ({%or%} práti-), similar; {@-dṛśam@}, {%ad.%} in {%or%} for 
-<>every eye; {@-dṛṣṭānta@}, {%m.%} counter instance: 
-<>{@-sama,@} {%m.%} irrelevant objection by {%adducing%} a 
-<>counter instance {%with ignores one's opponent's %}<lbinfo n="4"/>
-<>{% example%}); {@-deya,@} {%fp.%} to be restored; 
-<>{@-devatam,@} {%ad.%} for every deity; {@-devatā,@} {%f.%} 
-<>corresponding deity; {@-deśam@}, {%ad.%} in every 
-<>country; {@-deham,@} {%ad.%} in every body; {@-dai-@}
-<>{@-vatam,@} {%ad.%} for every deity; {@-dvandva,@} {%m.%} 
-<>adversary, rival; {@-dvandvin,@} {%m. id.%}; -° 
-<>= rivalling; {@-dvandvī-bhū,@} become an 
-<>adversary; {@-dvādaśan@}, {%a. pl.%} twelve each; 
-<>{@-dvāram,@}{%ac.,%} {@-dvāri,@} {%lc. ad.%} at every door 
-<>{%or%} gate; {@-dvirada,@} {%m.%} hostile elephant; {@-dvī-@}
-<>{@-pam,@} {%ad.%} in every part of the world.
+rod), refractory; {@-darśa@}, {%m.%} sight; {@-darśana@}, 
+{%n.%} beholding, perceiving; appearing; sight, 
+appearance; {@-dātavya,@} {%fp.%} to be restored; 
+{@-dāna,@} {%n.%} giving {%or%} present in return; {@-dā-@}
+{@-pya,@} {%fp.%} to be forced to be restored; {@-dinam,@} 
+{%ad.%} every day, daily, day by day; {@-divasam,@} 
+{%ad. id.%}; {@-diśam@}, {%ad.%} in every quarter {%or%} direction, <lbinfo n="2"/>
+ all round; {@-dī́van,@} {%m.%} adversary at 
+play; {@-dúh,@} ({%nm.%} {@-dhuk,@}), milk fresh from 
+{%the cow%}; {@-dūta,@} {%m.%} return messenger; {@-dṛś@}, 
+{%a.%} ({%or%} práti-), similar; {@-dṛśam@}, {%ad.%} in {%or%} for 
+every eye; {@-dṛṣṭānta@}, {%m.%} counter instance: 
+{@-sama,@} {%m.%} irrelevant objection by {%adducing%} a 
+counter instance {%with ignores one's opponent's %}<lbinfo n="4"/>
+{% example%}); {@-deya,@} {%fp.%} to be restored; 
+{@-devatam,@} {%ad.%} for every deity; {@-devatā,@} {%f.%} 
+corresponding deity; {@-deśam@}, {%ad.%} in every 
+country; {@-deham,@} {%ad.%} in every body; {@-dai-@}
+{@-vatam,@} {%ad.%} for every deity; {@-dvandva,@} {%m.%} 
+adversary, rival; {@-dvandvin,@} {%m. id.%}; -° 
+= rivalling; {@-dvandvī-bhū,@} become an 
+adversary; {@-dvādaśan@}, {%a. pl.%} twelve each; 
+{@-dvāram,@}{%ac.,%} {@-dvāri,@} {%lc. ad.%} at every door 
+{%or%} gate; {@-dvirada,@} {%m.%} hostile elephant; {@-dvī-@}
+{@-pam,@} {%ad.%} in every part of the world.
 <LEND>

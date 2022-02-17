@@ -1,4 +1,4 @@
 <L>2042<pc>071<k1>bilious<k2>bilious
-<div n="lb"/>{@BILIOUS@}¦ (adj.): {#पैत्तिकः#} ({#की, कं#}): <div n="xe">{%b. fever%}</div> <div n="xs">{#पित्त-#}
-<div n="lb"/>{#ज्वरः।#}</div>
+{@BILIOUS@}¦ (adj.): {#पैत्तिकः#} ({#की, कं#}): <div n="xe">{%b. fever%}</div> <div n="xs">{#पित्त-#}
+{#ज्वरः।#}</div>
 <LEND>

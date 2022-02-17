@@ -1,5 +1,5 @@
 <L>16051<pc>494<k1>outcast<k2>outcast
-<div n="lb"/>{@OUTCAST:@}¦ <div n="I">I An exile: {#निष्कासितः#} ({#ता, तं#}). </div><div n="I">II
-<div n="lb"/>= excommunicated: {#अपपात्रितः#} ({#ता, तं#}).</div>
-<div n="lb"/><div n="I">III = vagabond: {#खण्डितवृत्त#} (f. {#त्ता#}).</div>
+{@OUTCAST:@}¦ <div n="I">I An exile: {#निष्कासितः#} ({#ता, तं#}). </div><div n="I">II
+= excommunicated: {#अपपात्रितः#} ({#ता, तं#}).</div>
+<div n="I">III = vagabond: {#खण्डितवृत्त#} (f. {#त्ता#}).</div>
 <LEND>

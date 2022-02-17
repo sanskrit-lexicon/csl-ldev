@@ -1,5 +1,5 @@
 <L>4266<pc>138<k1>compulsion<k2>compulsion
-<div n="lb"/>{@COMPULSION:@}¦ {#बलम्#} (=force), <div n="xe">{%everything done%}
-<div n="lb"/>{%under c.:%}</div> <div n="xs">{#सर्वान् बलकृतानर्थान्,#}</div> N. {%To use c.:%}
-<div n="lb"/>{#सम्पीडयति#} ({#पीड्,#} c. 10.), Viv.: v. To compel.
+{@COMPULSION:@}¦ {#बलम्#} (=force), <div n="xe">{%everything done%}
+{%under c.:%}</div> <div n="xs">{#सर्वान् बलकृतानर्थान्,#}</div> N. {%To use c.:%}
+{#सम्पीडयति#} ({#पीड्,#} c. 10.), Viv.: v. To compel.
 <LEND>

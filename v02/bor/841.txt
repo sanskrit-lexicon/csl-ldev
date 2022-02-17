@@ -1,5 +1,5 @@
 <L>841<pc>030<k1>antecedent<k2>antecedent
-<div n="lb"/>{@ANTECEDENT@}¦ (subs): Ph. <div n="xe">{%whose a. s are not%}
-<div n="lb"/>{%known%}</div> <div n="xs">{#*यस्य पूर्वचरितमविज्ञातम्।#}</div> <div n="I">II In logic:
-<div n="lb"/>{#पूर्वपक्षः।#} </div><div n="I">III In gram.: {#*पूर्वसंज्ञा।#}</div>
+{@ANTECEDENT@}¦ (subs): Ph. <div n="xe">{%whose a. s are not%}
+{%known%}</div> <div n="xs">{#*यस्य पूर्वचरितमविज्ञातम्।#}</div> <div n="I">II In logic:
+{#पूर्वपक्षः।#} </div><div n="I">III In gram.: {#*पूर्वसंज्ञा।#}</div>
 <LEND>

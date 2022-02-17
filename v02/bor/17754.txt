@@ -1,6 +1,6 @@
 <L>17754<pc>543<k1>priest<k2>priest
-<div n="lb"/>{@PRIEST:@}¦ <div n="I">I Family: </div><div n="1">(1) {#पुरोहितः;#} </div><div n="1">(2) {#पुरोधस#} [Page544]
-<div n="lb"/>(m.). </div><div n="I">II Sacrificial: </div><div n="1">(1) {#ऋत्विज्#} (m.); </div><div n="1">(2)
-<div n="lb"/>{#याजकः।#} </div><div n="I">III Vedic: {#श्रोत्रियः।#} </div><div n="I">IV In gen.:
-<div n="lb"/>{#आचार्यः।#}</div>
+{@PRIEST:@}¦ <div n="I">I Family: </div><div n="1">(1) {#पुरोहितः;#} </div><div n="1">(2) {#पुरोधस#} [Page544]
+(m.). </div><div n="I">II Sacrificial: </div><div n="1">(1) {#ऋत्विज्#} (m.); </div><div n="1">(2)
+{#याजकः।#} </div><div n="I">III Vedic: {#श्रोत्रियः।#} </div><div n="I">IV In gen.:
+{#आचार्यः।#}</div>
 <LEND>

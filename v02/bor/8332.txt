@@ -1,12 +1,12 @@
 <L>8332<pc>263<k1>fail<k2>fail
-<div n="lb"/>{@FAIL@}¦ (v.i.): <div n="I">I In gen.: </div><div n="1">(1) {#सीदति, अव-, वि-,#}
-<div n="lb"/>({#सद्,#} c. 1.), <div n="xe">{%of f. ed eyesight:%}</div> <div n="xs">{#अवसन्नदृश्#}</div> (mfn.),
-<div n="lb"/>R.: v. To depart, go; {%my limbs are f. ing:%}
-<div n="lb"/>{#सीदन्ति मम गात्राणि,#} G.: v. To sink, decay;
-<div n="lb"/><div n="xe">{%with intellect not f. ing in exigencies:%}</div> <div n="xs">{#कार्यसङ्कटेष्व-#}
-<div n="lb"/>{#विषण्णधीः,#}</div> K.: v. To break, become frustrated;</div>
-<div n="lb"/><div n="1">(2) {#अवस्यति#} ({#सो,#} c. 4.), {%my strength f. s:%}
-<div n="lb"/>{#शक्तिर्ममावस्यति,#} Ki. </div><div n="I">II To be deficient: v.
-<div n="lb"/>Deficient. <div n="xe">{%F. of:%}</div> <div n="xs">{#हीनः#}</div> ({#ना, नं#}), in comp.:
-<div n="lb"/>v. Wanting, fall off.</div>
+{@FAIL@}¦ (v.i.): <div n="I">I In gen.: </div><div n="1">(1) {#सीदति, अव-, वि-,#}
+({#सद्,#} c. 1.), <div n="xe">{%of f. ed eyesight:%}</div> <div n="xs">{#अवसन्नदृश्#}</div> (mfn.),
+R.: v. To depart, go; {%my limbs are f. ing:%}
+{#सीदन्ति मम गात्राणि,#} G.: v. To sink, decay;
+<div n="xe">{%with intellect not f. ing in exigencies:%}</div> <div n="xs">{#कार्यसङ्कटेष्व-#}
+{#विषण्णधीः,#}</div> K.: v. To break, become frustrated;</div>
+<div n="1">(2) {#अवस्यति#} ({#सो,#} c. 4.), {%my strength f. s:%}
+{#शक्तिर्ममावस्यति,#} Ki. </div><div n="I">II To be deficient: v.
+Deficient. <div n="xe">{%F. of:%}</div> <div n="xs">{#हीनः#}</div> ({#ना, नं#}), in comp.:
+v. Wanting, fall off.</div>
 <LEND>

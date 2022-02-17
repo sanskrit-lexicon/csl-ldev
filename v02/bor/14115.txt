@@ -1,4 +1,4 @@
 <L>14115<pc>433<k1>mango<k2>mango
-<div n="lb"/>{@MANGO:@}¦ {#आम्रम्।#} <div n="xe">{%M.-tree:%}</div> <div n="xs">{#आम्रः, चूतः#}</div> (poet). <div n="xe">{%M.-%}
-<div n="lb"/>{%fool:%}</div> <div n="xs">{#दुग्धतालीयम्।#}</div>
+{@MANGO:@}¦ {#आम्रम्।#} <div n="xe">{%M.-tree:%}</div> <div n="xs">{#आम्रः, चूतः#}</div> (poet). <div n="xe">{%M.-%}
+{%fool:%}</div> <div n="xs">{#दुग्धतालीयम्।#}</div>
 <LEND>

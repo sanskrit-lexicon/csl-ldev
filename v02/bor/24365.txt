@@ -1,6 +1,6 @@
 <L>24365<pc>762<k1>willing<k2>willing
-<div n="lb"/>{@WILLING:@}¦ <div n="I">I Desirous, consenting: </div><div n="1">(1) {#इच्छु,#}
-<div n="lb"/>(mfn.), -{#क#} (f. {#का#}); </div><div n="1">(2) {#सकाम#} (f. {#मा#}), <div n="xe">{%a w.%}
-<div n="lb"/>{%woman:%}</div> <div n="xs">{#सकामा स्त्री।#}</div> </div><div n="I">II Chosen, desired:
-<div n="lb"/>{#इष्ट#} (f. {#ष्टा#}), {#अभि-।#}</div>
+{@WILLING:@}¦ <div n="I">I Desirous, consenting: </div><div n="1">(1) {#इच्छु,#}
+(mfn.), -{#क#} (f. {#का#}); </div><div n="1">(2) {#सकाम#} (f. {#मा#}), <div n="xe">{%a w.%}
+{%woman:%}</div> <div n="xs">{#सकामा स्त्री।#}</div> </div><div n="I">II Chosen, desired:
+{#इष्ट#} (f. {#ष्टा#}), {#अभि-।#}</div>
 <LEND>

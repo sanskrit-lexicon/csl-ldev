@@ -1,4 +1,4 @@
 <L>10188<pc>242-a<k1>excavation<k2>excavation
-<div n="lb"/>EXCAVATION¦, {%s.%} (Act of digging out) {#खननं, उत्खननं#}. — (A cavity)
-<div n="lb"/>{#खातं, गर्त्तः, रन्ध्रं, कुहरं, अवटः -टिः#} {%m.,%} {#विलं, शुषिरं#}.
+EXCAVATION¦, {%s.%} (Act of digging out) {#खननं, उत्खननं#}. — (A cavity)
+{#खातं, गर्त्तः, रन्ध्रं, कुहरं, अवटः -टिः#} {%m.,%} {#विलं, शुषिरं#}.
 <LEND>

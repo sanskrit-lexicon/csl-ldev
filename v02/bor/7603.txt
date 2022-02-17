@@ -1,5 +1,5 @@
 <L>7603<pc>240<k1>engraving<k2>engraving
-<div n="lb"/>{@ENGRAVING:@}¦ <div n="I">I The art: {#नामादिमुद्राकर्मन्#} (n.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#-कला#}</div> (?). </div><div n="I">II A print: expr. by {#मुद्रितः#}
-<div n="lb"/>({#ता, तं#}); {#उत्कीर्ण#} (f. {#र्णा#}).</div>
+{@ENGRAVING:@}¦ <div n="I">I The art: {#नामादिमुद्राकर्मन्#} (n.)
+<div n="xe">{%or%}</div> <div n="xs">{#-कला#}</div> (?). </div><div n="I">II A print: expr. by {#मुद्रितः#}
+({#ता, तं#}); {#उत्कीर्ण#} (f. {#र्णा#}).</div>
 <LEND>

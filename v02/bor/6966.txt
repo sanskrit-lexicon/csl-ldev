@@ -1,5 +1,5 @@
 <L>6966<pc>222<k1>driver<k2>driver
-<div n="lb"/>{@DRIVER:@}¦ <div n="1">(1) {#वाहकः,#} <div n="xe">{%d. of a carriage:%}</div> <div n="xs">{#प्रवहणवाहकः,#}</div>
-<div n="lb"/>Mr.; </div><div n="1">(2) {#यन्तृ#} (m.) (= moderator: of
-<div n="lb"/>animals), <div n="xe">{%elephant -d.:%}</div> <div n="xs">{#यन्ता गजस्य,#}</div> Ki.</div>
+{@DRIVER:@}¦ <div n="1">(1) {#वाहकः,#} <div n="xe">{%d. of a carriage:%}</div> <div n="xs">{#प्रवहणवाहकः,#}</div>
+Mr.; </div><div n="1">(2) {#यन्तृ#} (m.) (= moderator: of
+animals), <div n="xe">{%elephant -d.:%}</div> <div n="xs">{#यन्ता गजस्य,#}</div> Ki.</div>
 <LEND>

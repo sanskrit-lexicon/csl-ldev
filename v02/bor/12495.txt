@@ -1,9 +1,9 @@
 <L>12495<pc>388<k1>interest<k2>interest
-<div n="lb"/>{@INTEREST@}¦ (v.): <div n="I">I To amuse, delight: q.v.:
-<div n="lb"/>{#रञ्जयति#} ({#रञ्ज्,#} c. 10.). Ph.: <div n="xe">{%and he is i. ed%}
-<div n="lb"/>{%in us:%}</div> <div n="xs">{#स च स्निह्यत्यावयोः#}</div> ({#स्निह्,#} c. 4.), U., vi. </div><div n="I">II
-<div n="lb"/>To concern: expr. with {#अर्थः:#} v. Do with.</div>
-<div n="lb"/><div n="I">III Reflexively, to excite for another: <div n="xe">{%he%}
-<div n="lb"/>{%i. s himself much in philosophy:%}</div> <div n="xs">{#दर्शनासक्तचेता: #}
-<div n="lb"/>{# सः#}</div> (?): v. To attach.</div>
+{@INTEREST@}¦ (v.): <div n="I">I To amuse, delight: q.v.:
+{#रञ्जयति#} ({#रञ्ज्,#} c. 10.). Ph.: <div n="xe">{%and he is i. ed%}
+{%in us:%}</div> <div n="xs">{#स च स्निह्यत्यावयोः#}</div> ({#स्निह्,#} c. 4.), U., vi. </div><div n="I">II
+To concern: expr. with {#अर्थः:#} v. Do with.</div>
+<div n="I">III Reflexively, to excite for another: <div n="xe">{%he%}
+{%i. s himself much in philosophy:%}</div> <div n="xs">{#दर्शनासक्तचेता: #}
+{# सः#}</div> (?): v. To attach.</div>
 <LEND>

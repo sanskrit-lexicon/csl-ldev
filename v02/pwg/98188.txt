@@ -3,11 +3,11 @@
 <div n="1"> 1) <lex>m.</lex> 
 <div n="2"> a) {%Kiesel%} 
 <ls>KAUŚ. 72.</ls> {%Gries, Kies%}: {#नीचैः °कर्षणः (वायुः)#} 
-<ls>MBH. 3, 11396. 6, 23.</ls> {#°कर्षिन्#} 
+<ls>MBH. 3, 11396.</ls> <ls n="MBH.">6, 23.</ls> {#°कर्षिन्#} 
 <ls>HARIV. 11555.</ls> {#°वर्षिन् (वात)#} 
-<ls>MBH. 4, 1288. 16, 2.</ls> {#शान्तशर्करवालुक#} (so die neuere Ausg.) 
+<ls>MBH. 4, 1288.</ls> <ls n="MBH.">16, 2.</ls> {#शान्तशर्करवालुक#} (so die neuere Ausg.) 
 <ls>HARIV. 9005.</ls> {#हेमशर्करवालुक#} 
-<ls>9006.</ls> im Epos die Kürze überall durch das Versmaass bedingt. 
+<ls n="HARIV.">9006.</ls> im Epos die Kürze überall durch das Versmaass bedingt. 
 <div n="2">— b) {%Sandzucker%}: {#खण्डशर्करवालुक#} (das Metrum erfordert eine Kürze) 
 <ls>MBH. 12, 10317.</ls> 
 <div n="2">— c) N. pr. eines imaginären Wasserwesens 
@@ -67,10 +67,10 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HARIV. 8447.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 100, 67.</ls> 
+
+<ls>R. GORR. 2, 100, 67.</ls> 
 <ls>SUŚR. 1, 188, 8. 229, 1. 2, 21, 14. 421, 4.</ls> 
-<ls>Spr. (II) 2854. 3000. (I) 3243.</ls> <ls>VARĀH. BṚH. S. 77, 9.</ls> <ls>GĪT. 12, 29.</ls> <ls>PAÑCAR. 2, 4, 32. fg.</ls> <ls>DHŪRTAS. 79, 16.</ls> <ls>PAÑCAT. 185, 21.</ls> {#शर्कराचलदान#} 
+<ls>Spr. (II) 2854.</ls> <ls n="Spr. (II)">3000.</ls> <ls n="Spr.">(I) 3243.</ls> <ls>VARĀH. BṚH. S. 77, 9.</ls> <ls>GĪT. 12, 29.</ls> <ls>PAÑCAR. 2, 4, 32. fg.</ls> <ls>DHŪRTAS. 79, 16.</ls> <ls>PAÑCAT. 185, 21.</ls> {#शर्कराचलदान#} 
 <ls>Verz. d. Oxf. H. 35,b,31. 41,a,24.</ls> {#°धेनु#} 
 <ls>35,b,39. 59,a,23.</ls> {#सित°#} 
 <ls>SĀH. D. 2, 8. 9.</ls> {#द्राक्षा°#} 

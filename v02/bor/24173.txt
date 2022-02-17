@@ -1,10 +1,10 @@
 <L>24173<pc>756<k1>wear<k2>wear
-<div n="lb"/>{@WEAR@}¦ (v. t.): <div n="I">I To put on: q. v.: {#धरति#} {%or%}
-<div n="lb"/>{#धारयति#} ({#धृ,#} c. 1. and 10), <div n="xe">{%ornaments worn by%}
-<div n="lb"/>{%women during the life-time of their husbands:%}</div>
-<div n="lb"/><div n="xs">{#पत्यौ जीवति यः स्त्रीभिरलङ्कारो धृतो भवेत्,#}</div> Mit.;
-<div n="lb"/><div n="xe">{%clothes etc., worn by a father.:%}</div> <div n="xs">{#पितृधृतं वस्त्रादिकम्,#}</div>
-<div n="lb"/>Mit. Ph.: <div n="xe">{%w. ing apparel:%}</div> <div n="xs">{#परिधानवासस्,#}</div> (n.)
-<div n="lb"/>and sim. comp. s. </div><div n="I">II To impair: {#क्षिणोति#}
-<div n="lb"/>({#क्षि,#} c. 5.): v. Waste.</div>
+{@WEAR@}¦ (v. t.): <div n="I">I To put on: q. v.: {#धरति#} {%or%}
+{#धारयति#} ({#धृ,#} c. 1. and 10), <div n="xe">{%ornaments worn by%}
+{%women during the life-time of their husbands:%}</div>
+<div n="xs">{#पत्यौ जीवति यः स्त्रीभिरलङ्कारो धृतो भवेत्,#}</div> Mit.;
+<div n="xe">{%clothes etc., worn by a father.:%}</div> <div n="xs">{#पितृधृतं वस्त्रादिकम्,#}</div>
+Mit. Ph.: <div n="xe">{%w. ing apparel:%}</div> <div n="xs">{#परिधानवासस्,#}</div> (n.)
+and sim. comp. s. </div><div n="I">II To impair: {#क्षिणोति#}
+({#क्षि,#} c. 5.): v. Waste.</div>
 <LEND>

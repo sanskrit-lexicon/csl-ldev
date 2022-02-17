@@ -1,14 +1,14 @@
 <L>24570<pc>770<k1>yet<k2>yet
-<div n="lb"/>{@YET:@}¦ <div n="I">I Nevertheless: </div><div n="1">(1) {#तथापि,#} <div n="xe">{%yet I am%}
-<div n="lb"/>{%desirous of hearing:%}</div> <div n="xs">{#तथापि शुश्रूषुरहम्,#}</div> Si. i. 29.;</div>
-<div n="lb"/><div n="1">(2) not expr., <div n="xe">{%although it is infested with%}
-<div n="lb"/>{%fierce animals, y. it is frequented by sages:%}</div> <div n="xs">{#क्रूर-#}
-<div n="lb"/>{#सत्त्वापि मुनिजनसेविता,#}</div> K.; </div><div n="1">(3) {#परन्तु#} (= but:
-<div n="lb"/>q. v.). </div><div n="I">II Of time: </div><div n="1">(1) {#अद्यापि,#} <div n="xe">{%I y. think of%}
-<div n="lb"/>{%her:%}</div> <div n="xs">{#अद्यापि तां चिन्तयामि,#}</div> J.; </div><div n="1">(2) {#अधुनापि,#} <div n="xe">{%where%}
-<div n="lb"/>{%y. in the rainy season:%}</div> <div n="xs">{#अधुनापि यत्र जलधरसमये,#}</div>
-<div n="lb"/>K.; </div><div n="1">(3) {#इदानीमपि।#} </div><div n="I">III Further, over and
-<div n="lb"/>above, <div n="xe">{%y. blacker:%}</div> <div n="xs">{#अधिकतरकृष्ण#}</div> (f. {#ष्णा#}); <div n="xe">{%y.%}
-<div n="lb"/>{%another reason:%}</div> <div n="xs">{#अपरमपि कारणम्:#}</div> {%y. a little longer:%}
-<div n="lb"/>{#एतदधिकं कियत्क्षणम्।#}</div>
+{@YET:@}¦ <div n="I">I Nevertheless: </div><div n="1">(1) {#तथापि,#} <div n="xe">{%yet I am%}
+{%desirous of hearing:%}</div> <div n="xs">{#तथापि शुश्रूषुरहम्,#}</div> Si. i. 29.;</div>
+<div n="1">(2) not expr., <div n="xe">{%although it is infested with%}
+{%fierce animals, y. it is frequented by sages:%}</div> <div n="xs">{#क्रूर-#}
+{#सत्त्वापि मुनिजनसेविता,#}</div> K.; </div><div n="1">(3) {#परन्तु#} (= but:
+q. v.). </div><div n="I">II Of time: </div><div n="1">(1) {#अद्यापि,#} <div n="xe">{%I y. think of%}
+{%her:%}</div> <div n="xs">{#अद्यापि तां चिन्तयामि,#}</div> J.; </div><div n="1">(2) {#अधुनापि,#} <div n="xe">{%where%}
+{%y. in the rainy season:%}</div> <div n="xs">{#अधुनापि यत्र जलधरसमये,#}</div>
+K.; </div><div n="1">(3) {#इदानीमपि।#} </div><div n="I">III Further, over and
+above, <div n="xe">{%y. blacker:%}</div> <div n="xs">{#अधिकतरकृष्ण#}</div> (f. {#ष्णा#}); <div n="xe">{%y.%}
+{%another reason:%}</div> <div n="xs">{#अपरमपि कारणम्:#}</div> {%y. a little longer:%}
+{#एतदधिकं कियत्क्षणम्।#}</div>
 <LEND>

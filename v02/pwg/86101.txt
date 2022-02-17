@@ -17,8 +17,8 @@
 <ls>Schol.</ls> 
 <div n="1">— 2) <lex>adj.</lex> (f. {#आ#}) {%salzig, gesalzen%} 
 <ls>P. 4, 4, 24.</ls> <is>gaṇa</is> {#अर्शआदि#} zu 
-<ls>?5, 2, 127. AK. 1, 1, 14, 18. H. 1388. MED. HĀR. 181</ls> (wo {#लावणं#} st. {#ल्यावणं#} zu lesen ist). 
-<ls>HALĀY.5,75.</ls> <ls>ŚAT. BR. 14,5,4,12.</ls> <ls>LĀṬY.1,1,12.</ls> <ls>CHĀND. UP.6,13,2.</ls> <ls>MBH. 14,1411.</ls> <ls>SUŚR.1,79,8. 155,4. 156,1. 157,9.2,546,2. fgg.</ls> <ls>Spr. 804. 2360.</ls> <ls>VARĀH. BṚH. S. 54,122. 76,12.</ls> <ls>BṚH.2,14.</ls> <ls>BHĀG. P.3,31,7.</ls> <ls>MĀRK. P. 34,28.</ls> <ls>Verz. d. Oxf. H. 237,a, No. 568, Z. 12.</ls> {#अलवणाशिन्#} 
+<ls>5, 2, 127.</ls> <ls>AK. 1, 1, 14, 18.</ls> <ls>H. 1388.</ls> <ls>MED.</ls> <ls>HĀR. 181</ls> (wo {#लावणं#} st. {#ल्यावणं#} zu lesen ist). 
+<ls>HALĀY. 5,75.</ls> <ls>ŚAT. BR. 14,5,4,12.</ls> <ls>LĀṬY. 1,1,12.</ls> <ls>CHĀND. UP. 6,13,2.</ls> <ls>MBH. 14, 1411.</ls> <ls>SUŚR. 1,79,8. 155,4. 156,1. 157,9.2,546,2. fgg.</ls> <ls>Spr. 804. 2360.</ls> <ls>VARĀH. BṚH. S. 54,122. 76,12.</ls> <ls>BṚH.2,14.</ls> <ls>BHĀG. P. 3,31,7.</ls> <ls>MĀRK. P. 34,28.</ls> <ls>Verz. d. Oxf. H. 237,a, No. 568, Z. 12.</ls> {#अलवणाशिन्#} 
 <ls>ĀŚV. GṚHY. 1, 8, 10. 22, 19. 4, 4, 16.</ls> 
 <ls>GOBH. 2, 3, 13.</ls> {#लवणं कृत्वा#} und {#लवणंकृत्य#} <is>gaṇa</is> {#साक्षादादि#} zu 
 <ls>P. 1, 4, 74.</ls> 
@@ -29,10 +29,10 @@
 <div n="3"> α) eines <is>Rākṣasa</is> oder <is>Daitya</is> 
 <ls>H. an. 3, 222.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 1, 1305. 13, 861.</ls> 
-<ls>HARIV. 2342. 3063. fgg. 5151. fgg.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 23, 23. 7, 61, 17. 67, 13.</ls> 
+<ls>MBH. 1, 1305.</ls> <ls n="MBH.">13, 861.</ls> 
+<ls>HARIV. 2342.</ls> <ls n="HARIV.">3063. fgg.</ls> <ls n="HARIV.">5151. fgg.</ls> 
+
+<ls>R. GORR. 1, 23, 23. 7, 61, 17. 67, 13.</ls> 
 <ls>RAGH. 15, 2. 5.</ls> 
 <ls>UTTARAR. 131, 11 (176, 8).</ls> <ls>VP. 385.</ls> <ls>BHĀG. P. 9, 11, 14.</ls> 
 <div n="3">— β) eines Fürsten aus <is>Hariścandra's</is> Geschlecht 

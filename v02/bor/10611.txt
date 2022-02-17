@@ -1,7 +1,7 @@
 <L>10611<pc>334<k1>happiness<k2>happiness
-<div n="lb"/>{@HAPPINESS:@}¦ <div n="1">(1) {#सुखम्#} (= pleasure), <div n="xe">{%I seek neither%}
-<div n="lb"/>{%h. nor wealth:%}</div> <div n="xs">{#न सुखं प्रार्थये नार्थम्,#}</div> Ki. xi. 66.; </div><div n="1">(2)
-<div n="lb"/>{#श्रेयस्#} (m.) (= bless); </div><div n="1">(3) {#सन्तोषः#} (=content-
-<div n="lb"/>-ment); </div><div n="1">(4) {#सौभाग्यम्#} (= good fortune); </div><div n="1">(5)
-<div n="lb"/>{#श्रीः#} (fortune).</div>
+{@HAPPINESS:@}¦ <div n="1">(1) {#सुखम्#} (= pleasure), <div n="xe">{%I seek neither%}
+{%h. nor wealth:%}</div> <div n="xs">{#न सुखं प्रार्थये नार्थम्,#}</div> Ki. xi. 66.; </div><div n="1">(2)
+{#श्रेयस्#} (m.) (= bless); </div><div n="1">(3) {#सन्तोषः#} (=content-
+-ment); </div><div n="1">(4) {#सौभाग्यम्#} (= good fortune); </div><div n="1">(5)
+{#श्रीः#} (fortune).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>21971<pc>693<k1>surface<k2>surface
-<div n="lb"/>{@SURFACE:@}¦ <div n="1">(1) {#तलम्,#} <div n="xe">{%s. of earth:%}</div> <div n="xs">{#भूतलम्;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#पृष्ठम्।#} Ph.: <div n="xe">{%on the s. of water:%}</div> <div n="xs">{#जलोपरि।#}</div></div>
+{@SURFACE:@}¦ <div n="1">(1) {#तलम्,#} <div n="xe">{%s. of earth:%}</div> <div n="xs">{#भूतलम्;#}</div> </div><div n="1">(2)
+{#पृष्ठम्।#} Ph.: <div n="xe">{%on the s. of water:%}</div> <div n="xs">{#जलोपरि।#}</div></div>
 <LEND>

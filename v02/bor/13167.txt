@@ -1,10 +1,10 @@
 <L>13167<pc>406<k1>land<k2>land
-<div n="lb"/>{@LAND@}¦ (subs.): <div n="I">I Opp. to water: {#स्थलम्,#} <div n="xe">{%pro-%}
-<div n="lb"/>{%ceeded by l.:%}</div> <div n="xs">{#प्रतस्थे स्थलवर्त्मना,#}</div> R. iv. 60. </div><div n="I">II
-<div n="lb"/>Any portion of it.: {#भूमिः#} <div n="xe">{%or%}</div> <div n="xs">{#भूः,#}</div> {%grant of l.:%}
-<div n="lb"/>{#भूदानम्,#} He. </div><div n="I">III Soil.: q. v.: {#भूमिः#} <div n="xe">{%or%}</div> <div n="xs">{#भूः,#}</div> <div n="xe">{%shall:%}
-<div n="lb"/>{%till low l. where water accumulates:%}</div> <div n="xs">{#निम्नां हि वाह-#}
-<div n="lb"/>{#येद्भूमिं यत्र विश्राम्यते जलम्,#}</div> Pa. </div><div n="I">IV L. ed pro-
-<div n="lb"/>-perty: {#भूः#} <div n="xe">{%or%}</div> <div n="xs">{#भूमिः।#}</div> </div><div n="I">V A country: q. v.:
-<div n="lb"/>{#देशः।#}</div>
+{@LAND@}¦ (subs.): <div n="I">I Opp. to water: {#स्थलम्,#} <div n="xe">{%pro-%}
+{%ceeded by l.:%}</div> <div n="xs">{#प्रतस्थे स्थलवर्त्मना,#}</div> R. iv. 60. </div><div n="I">II
+Any portion of it.: {#भूमिः#} <div n="xe">{%or%}</div> <div n="xs">{#भूः,#}</div> {%grant of l.:%}
+{#भूदानम्,#} He. </div><div n="I">III Soil.: q. v.: {#भूमिः#} <div n="xe">{%or%}</div> <div n="xs">{#भूः,#}</div> <div n="xe">{%shall:%}
+{%till low l. where water accumulates:%}</div> <div n="xs">{#निम्नां हि वाह-#}
+{#येद्भूमिं यत्र विश्राम्यते जलम्,#}</div> Pa. </div><div n="I">IV L. ed pro-
+-perty: {#भूः#} <div n="xe">{%or%}</div> <div n="xs">{#भूमिः।#}</div> </div><div n="I">V A country: q. v.:
+{#देशः।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>11021<pc>346<k1>hire<k2>hire
-<div n="lb"/>{@HIRE@}¦ (v. t.): {#भाटयति#} (c. of {#भट्#}), {%h. ing a cart:%}
-<div n="lb"/>{#भाटयित्वा शकटम्,#} Viv. Ph.: <div n="xe">{%a h. d labourer:%}</div> <div n="xs">{#भृतः, #}
-<div n="lb"/>{# -कः,#}</div> Viv.; <div n="xe">{%to h. labourers:%}</div> <div n="xs">{#भृतकान् गृह्वाति।#}</div>
+{@HIRE@}¦ (v. t.): {#भाटयति#} (c. of {#भट्#}), {%h. ing a cart:%}
+{#भाटयित्वा शकटम्,#} Viv. Ph.: <div n="xe">{%a h. d labourer:%}</div> <div n="xs">{#भृतः, #}
+{# -कः,#}</div> Viv.; <div n="xe">{%to h. labourers:%}</div> <div n="xs">{#भृतकान् गृह्वाति।#}</div>
 <LEND>

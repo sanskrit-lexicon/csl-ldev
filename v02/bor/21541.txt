@@ -1,8 +1,8 @@
 <L>21541<pc>678<k1>stoop<k2>stoop
-<div n="lb"/>{@STOOP@}¦ (v. i.): <div n="I">I To bend the body: {#गात्रं #}
-<div n="lb"/>{# नमयति#} ({#नम्,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#आवर्जयति#}</div> ({#वृज्,#} c. 10.).</div>
-<div n="lb"/><div n="I">II Not intentionally: expr. by {#भग्नपृष्ठक#} (f.
-<div n="lb"/>{#का#} = s. ing), K. </div><div n="I">III To condescend: </div><div n="1">(1)
-<div n="lb"/>{#प्रवणीभवति;#} </div><div n="1">(2) {#प्रह्वीभवति,#} <div n="xe">{%s. ing:%}</div> <div n="xs">{#वैतसी वृत्तिः,#}</div> R.
-<div n="lb"/>iv. 35.</div>
+{@STOOP@}¦ (v. i.): <div n="I">I To bend the body: {#गात्रं #}
+{# नमयति#} ({#नम्,#} c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#आवर्जयति#}</div> ({#वृज्,#} c. 10.).</div>
+<div n="I">II Not intentionally: expr. by {#भग्नपृष्ठक#} (f.
+{#का#} = s. ing), K. </div><div n="I">III To condescend: </div><div n="1">(1)
+{#प्रवणीभवति;#} </div><div n="1">(2) {#प्रह्वीभवति,#} <div n="xe">{%s. ing:%}</div> <div n="xs">{#वैतसी वृत्तिः,#}</div> R.
+iv. 35.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>18918<pc>585<k1>release<k2>release
-<div n="lb"/>{@RELEASE@}¦ (subs.): <div n="1">(1) {#मुक्तिः, वि-,#} <div n="xe">{%obtaining r.%}
-<div n="lb"/>{%from the king:%}</div> <div n="xs">{#ईश्वरान्मुक्तिमधिगम्य,#}</div> N. ii. 1.;</div>
-<div n="lb"/><div n="1">(2) {#मोक्षः, -णम्, वि-:#} v. Liberation, discharge.</div>
+{@RELEASE@}¦ (subs.): <div n="1">(1) {#मुक्तिः, वि-,#} <div n="xe">{%obtaining r.%}
+{%from the king:%}</div> <div n="xs">{#ईश्वरान्मुक्तिमधिगम्य,#}</div> N. ii. 1.;</div>
+<div n="1">(2) {#मोक्षः, -णम्, वि-:#} v. Liberation, discharge.</div>
 <LEND>

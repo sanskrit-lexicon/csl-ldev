@@ -1,5 +1,5 @@
 <L>15564<pc>477<k1>nourishment<k2>nourishment
-<div n="lb"/>{@NOURISHMENT:@}¦ <div n="I">I The act: </div><div n="1">(1) {#पोषणम्, परि-,#}</div>
-<div n="lb"/><div n="1">(2) {#पुष्टिः, परि-।#} </div><div n="I">II Food: q. v.: perh. {#पोषणम्#}
-<div n="lb"/>(as in the expr. {#भरणपोषणम्#}).</div>
+{@NOURISHMENT:@}¦ <div n="I">I The act: </div><div n="1">(1) {#पोषणम्, परि-,#}</div>
+<div n="1">(2) {#पुष्टिः, परि-।#} </div><div n="I">II Food: q. v.: perh. {#पोषणम्#}
+(as in the expr. {#भरणपोषणम्#}).</div>
 <LEND>

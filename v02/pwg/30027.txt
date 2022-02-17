@@ -2,7 +2,7 @@
 {#तुम्ब#}¦ 
 <div n="1"> 1) <lex>m.</lex> {%Flaschengurke, Lagenaria vulgaris Ser. (die Frucht%} wohl n.) 
 <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> <ls>SUŚR. 1, 363, 1.</ls> {#सुमतिस्तु - गर्भं तुम्बं व्यजायत#} 
-<ls>R. 1, 39, 17 (GORR. 40, 17).</ls> {#सशिक्यतुम्बकरकौ#} ({#कृष्णसंकर्षणौ#}) 
+<ls>R. 1, 39, 17</ls> (<ls>GORR. 40, 17</ls>). {#सशिक्यतुम्बकरकौ#} ({#कृष्णसंकर्षणौ#}) 
 <ls>HARIV. 3479.</ls> {#तुम्बवीण#} {%der eine Flaschengurke zur Laute hat%}, Bein. <is>Śiva's</is> 
 <ls>MBH. 13, 1213.</ls> 
 <ls>ŚIV.</ls> zum Schwimmen gebraucht 
@@ -21,7 +21,7 @@
 <ls>ŚĀNTIŚ. 3, 16.</ls> {#°पुष्प#} 
 <ls>HĀR. 202.</ls> {#तुम्बीं वीजपूर्णाम्#} 
 <ls>HARIV. 802.</ls> {#तुम्बीवीणा#} 
-<ls>3618.</ls> {#तुम्बीवीणाप्रिय#} Beiw. <is>Śiva's</is> 
+<ls n="HARIV.">3618.</ls> {#तुम्बीवीणाप्रिय#} Beiw. <is>Śiva's</is> 
 <ls>MBH. 12, 10371.</ls> Vgl. {#कटु°, कुम्भ°, गोरक्ष°#} . 
 <div n="2">— b) {%Asteracantha longifolia Nees.%} 
 <ls>RATNAM. 54.</ls>

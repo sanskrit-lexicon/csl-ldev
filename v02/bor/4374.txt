@@ -1,5 +1,5 @@
 <L>4374<pc>142<k1>confessor<k2>confessor
-<div n="lb"/>{@CONFESSOR:@}¦ <div n="I">I A priest who hears confes-
-<div n="lb"/>-sions: {#*स्वीकारश्रोतृ#} (m.). </div><div n="I">II One who con-
-<div n="lb"/>-fesses: </div><div n="1">(1) {#स्वीकर्तृ#} (m.); </div><div n="1">(2) {#अभ्युपगन्तृ#} (m.).</div>
+{@CONFESSOR:@}¦ <div n="I">I A priest who hears confes-
+-sions: {#*स्वीकारश्रोतृ#} (m.). </div><div n="I">II One who con-
+-fesses: </div><div n="1">(1) {#स्वीकर्तृ#} (m.); </div><div n="1">(2) {#अभ्युपगन्तृ#} (m.).</div>
 <LEND>

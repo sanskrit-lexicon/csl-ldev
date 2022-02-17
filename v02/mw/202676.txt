@@ -1,9 +1,9 @@
 <L>202676<pc>1000,2<k1>विष्यन्द्<k2>वि-ष्यन्द्<e>1
-<s>वि-ष्यन्द्</s> ¦ (for <s>वि-√ स्यन्द्</s> <ab>q.v.</ab>) <ab>Ā.</ab> <s>-ष्यन्दते</s> (<ab>accord.</ab> to <ls>Pāṇ. 8-3, 72</ls>, <s>वि-स्यन्दते</s> is the only correct form when the reference is to living beings), to overflow, flow out (of a vessel; <ab>pr. p.</ab> <s>वि-ष्यन्दमान</s>), <ls>VS.</ls>; <ls>Br.</ls>; <ls>ŚrS.</ls>;
+<s>वि-ष्यन्द्</s> ¦ (for <s>वि-√ स्यन्द्</s> <ab>q.v.</ab>) <ab>Ā.</ab> <s>-ष्यन्दते</s> (<ab>accord.</ab> to <ls>Pāṇ. viii, 3, 72</ls>, <s>वि-स्यन्दते</s> is the only correct form when the reference is to living beings), to overflow, flow out (of a vessel; <ab>pr. p.</ab> <s>वि-ष्यन्दमान</s>), <ls>VS.</ls>; <ls>Br.</ls>; <ls>ŚrS.</ls>;
 <div n="to"/>to flow in streams or abundantly, <ls>Hariv.</ls>; <ls>Bhaṭṭ.</ls>;
-<div n="to"/>to dissolve, melt (intr.), <ls>Car.</ls>;
+<div n="to"/>to dissolve, melt (<ab>intr.</ab>), <ls>Car.</ls>;
 <div n="to"/>to cause to flow, <ls>MBh.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>-ष्यन्दयति</s>, to cause to overflow (in <s>अ-विष्यन्दयत्</s>), <ls>ĀpŚr.</ls>;
 <div n="to"/>to pour out, sprinkle, <ls>ŚBr.</ls>; <ls>Kauś.</ls>;
-<div n="to"/>to dissolve, melt (trans.), <ls>Car.</ls><info verb="pre" cp="Ā" parse="vi+syand"/>
+<div n="to"/>to dissolve, melt (<ab>trans.</ab>), <ls>Car.</ls><info verb="pre" cp="Ā" parse="vi+syand"/>
 <LEND>

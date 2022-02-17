@@ -1,8 +1,8 @@
 <L>9736<pc>307<k1>gaze<k2>gaze
-<div n="lb"/>{@GAZE@}¦ (v.): <div n="1">(1) {#बद्धलक्ष्येण#} <div n="xe">{%or%}</div> <div n="xs">{#स्थिरदृष्ट्या निरीक्षते#}</div> [Page308]
-<div n="lb"/>({#ईक्ष्,#} c. 1.), {#अवलोकयति#} ({#लोक्,#} c. 10.), etc.
-<div n="lb"/>v. To see, look; </div><div n="1">(2) {#निर्वर्णयति#} ({#वर्ण्,#} c. 10.)
-<div n="lb"/>(= to look with attention), <div n="xe">{%g. ing by turn at%}
-<div n="lb"/>{%me and the painted man:%}</div> <div n="xs">{#लिखितं पुरुषं माञ्च पर्यायेण #}
-<div n="lb"/>{# निर्वर्णयन्ती,#}</div> D. v.</div>
+{@GAZE@}¦ (v.): <div n="1">(1) {#बद्धलक्ष्येण#} <div n="xe">{%or%}</div> <div n="xs">{#स्थिरदृष्ट्या निरीक्षते#}</div> [Page308]
+({#ईक्ष्,#} c. 1.), {#अवलोकयति#} ({#लोक्,#} c. 10.), etc.
+v. To see, look; </div><div n="1">(2) {#निर्वर्णयति#} ({#वर्ण्,#} c. 10.)
+(= to look with attention), <div n="xe">{%g. ing by turn at%}
+{%me and the painted man:%}</div> <div n="xs">{#लिखितं पुरुषं माञ्च पर्यायेण #}
+{# निर्वर्णयन्ती,#}</div> D. v.</div>
 <LEND>

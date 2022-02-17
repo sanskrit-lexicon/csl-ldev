@@ -1,11 +1,11 @@
 <L>55167<pc>5-0332<k1>भू<k2>भू<h>2
-2. {#भू#}¦ (=  1. {#भू)#} 
+2. {#भू#}¦ (= 1. {#भू)#} 
 <div n="1"> 1) <lex>adj.</lex> am Ende eines comp. Decl. 
 <ls>P. 6, 4, 85. fg.</ls> 
 <ls>VOP. 3, 50.</ls> {%werdend, entstehend, entstanden, seiend%} 
 <ls>H. 6.</ls> {#सर्वभूतात्मभू#} {%die Seele aller Geschöpfe seiend%} 
 <ls>MBH. 12, 7112.</ls> {#अग्नि°, इन्द्र°#} Nn. prr. 
-<ls>Ind. St. 4, 374.</ls> Vgl. {#अक्षि°, अग्नि°, अश्लेषा°, आषाढा°, गाधि°, गिरि°, चित्त°, देव°, नग°, नाभि°, नील°#} (wohl {%aus dem Gebirge%} <is>Nīla</is> {%entspringend%}), {#पद्म°, पुनर्भू, पुरु°, पुरो°, भरणी°, मनो°, मुहुर्भू, विष्ठा°, शं°, सचा°, सु°, स्वयं°#} . Selbständig als Beiw. <is>Viṣṇu's</is> (=  {#सत्तारूप#} 
+<ls>Ind. St. 4, 374.</ls> Vgl. {#अक्षि°, अग्नि°, अश्लेषा°, आषाढा°, गाधि°, गिरि°, चित्त°, देव°, नग°, नाभि°, नील°#} (wohl {%aus dem Gebirge%} <is>Nīla</is> {%entspringend%}), {#पद्म°, पुनर्भू, पुरु°, पुरो°, भरणी°, मनो°, मुहुर्भू, विष्ठा°, शं°, सचा°, सु°, स्वयं°#} . Selbständig als Beiw. <is>Viṣṇu's</is> (= {#सत्तारूप#} 
 <ls>Schol.</ls>) <ls>MBH. 12, 1509.</ls> 
 <div n="1">— 2) <lex>f.</lex> 
 <div n="2"> a) {%das Werden, Entstehen%} 
@@ -43,7 +43,7 @@
 <ls>DAŚ. 1, 32.</ls> 
 <ls>RAGH. 1, 84. 12, 5. 91.</ls> 
 <ls>Spr. 2054.</ls> {#उपानद्गूढपादस्य ननु चर्मावृतेव भूः#} 
-<ls>?3206. AK. 1, 2, 1, 2. HALĀY. 2, 3. VET. in LA. (II) 25, 14. pl. Spr. 2044.</ls> {#वाजि°#} {%Terrain für Pferde%} 
+<ls>3206.</ls> <ls>AK. 1, 2, 1, 2.</ls> <ls>HALĀY. 2, 3.</ls> <ls>VET. in LA. (II) 25, 14.</ls> pl. <ls>Spr. 2044.</ls> {#वाजि°#} {%Terrain für Pferde%} 
 <ls>KĀM. NĪTIS. 19, 10.</ls> {%Fussboden%}: {#मणिमयभुवः#} 
 <ls>MEGH. 65.</ls> {%Land, Ländereien%}: {#अकाल इवोप्तवीजा भूः#} 
 <ls>ŚĀK.91, 14.</ls> <ls>M. 4, 189.</ls>
@@ -73,7 +73,7 @@
 <ls>BHĀG. P. 6, 4, 31.</ls> 
 <div n="2">— f) (als N. der {%Erde)%} Bez. {%der Zahl Eins%} 
 <ls>WEBER, JYOT. 101.</ls> 
-<ls>NAKṢ. II, 382.</ls> 
+<ls n="WEBER, ">NAKṢ. II, 382.</ls> 
 <div n="2">— g) Bez. {%des Buchstabens%} {#ल#} 
 <ls>WEBER, RĀMAT. UP. 318.</ls> <ls>Ind. St. 2, 316.</ls> 
 <div n="2">— h) {%Opfer- feuer%} 

@@ -1,9 +1,9 @@
 <L>10369<pc>327<k1>grow up<k2>grow up
-<div n="lb"/>{@GROW UP:@}¦ <div n="1">(1) {#वर्धते, परि-, सं-,#} ({#वृध्,#} c. 1.),
-<div n="lb"/>{%Rājavāhana grew up with the minister's sons:%}
-<div n="lb"/>{#राजवाहनो मन्त्रिपुत्रैः सहावर्धत,#} D.; </div><div n="1">(2) {#एधते#} ({#एध्,#}
-<div n="lb"/>c. 1.) (rare), <div n="xe">{%g. n up with young deer:%}</div> <div n="xs">{#मृगशाबैः #}
-<div n="lb"/>{# सममेधितः#}</div> ({#ता, तं#}), Sa. ii.; </div><div n="1">(3) {#रोहति#} ({#रुह्,#}
-<div n="lb"/>c. 1.) (of trees etc.), <div n="xe">{%as seeds g.:%}</div> <div n="xs">{#यथा वीजानि #}
-<div n="lb"/>{# रोहन्ति,#}</div> Vri.</div>
+{@GROW UP:@}¦ <div n="1">(1) {#वर्धते, परि-, सं-,#} ({#वृध्,#} c. 1.),
+{%Rājavāhana grew up with the minister's sons:%}
+{#राजवाहनो मन्त्रिपुत्रैः सहावर्धत,#} D.; </div><div n="1">(2) {#एधते#} ({#एध्,#}
+c. 1.) (rare), <div n="xe">{%g. n up with young deer:%}</div> <div n="xs">{#मृगशाबैः #}
+{# सममेधितः#}</div> ({#ता, तं#}), Sa. ii.; </div><div n="1">(3) {#रोहति#} ({#रुह्,#}
+c. 1.) (of trees etc.), <div n="xe">{%as seeds g.:%}</div> <div n="xs">{#यथा वीजानि #}
+{# रोहन्ति,#}</div> Vri.</div>
 <LEND>

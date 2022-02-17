@@ -1,9 +1,9 @@
 <L>11107<pc>349<k1>holy<k2>holy
-<div n="lb"/>{@HOLY:@}¦ {#पुण्घ#} (f. {#ण्या#}), <div n="xe">{%h. person:%}</div> <div n="xs">{#पुण्यजनः,#}</div> Ki. iii.
-<div n="lb"/>31.; <div n="xe">{%h. prayer:%}</div> <div n="xs">{#पुण्या स्तुतिः,#}</div> K.; <div n="xe">{%h. rivers:%}</div> <div n="xs">{#सरितः #}
-<div n="lb"/>{# पुण्याः,#}</div> Ram. ii. 12. 5.; {%h. place of pilgrimage:%}
-<div n="lb"/>{#पुण्यतीर्थः,#} Ram.; <div n="xe">{%h. land:%}</div> <div n="xs">{#पूण्यभूमिः:#}</div> v. Also
-<div n="lb"/>pure, sacred. Ph.: <div n="xe">{%h. father, mother:%}</div> <div n="xs">{#भगवत्#}</div>
-<div n="lb"/>(f. {#ती#}); <div n="xe">{%“h. alliance”:%}</div> <div n="xs">{#धर्मसन्धिः;#}</div> {%h. -day:%} v.
-<div n="lb"/>Holiday.
+{@HOLY:@}¦ {#पुण्घ#} (f. {#ण्या#}), <div n="xe">{%h. person:%}</div> <div n="xs">{#पुण्यजनः,#}</div> Ki. iii.
+31.; <div n="xe">{%h. prayer:%}</div> <div n="xs">{#पुण्या स्तुतिः,#}</div> K.; <div n="xe">{%h. rivers:%}</div> <div n="xs">{#सरितः #}
+{# पुण्याः,#}</div> Ram. ii. 12. 5.; {%h. place of pilgrimage:%}
+{#पुण्यतीर्थः,#} Ram.; <div n="xe">{%h. land:%}</div> <div n="xs">{#पूण्यभूमिः:#}</div> v. Also
+pure, sacred. Ph.: <div n="xe">{%h. father, mother:%}</div> <div n="xs">{#भगवत्#}</div>
+(f. {#ती#}); <div n="xe">{%“h. alliance”:%}</div> <div n="xs">{#धर्मसन्धिः;#}</div> {%h. -day:%} v.
+Holiday.
 <LEND>

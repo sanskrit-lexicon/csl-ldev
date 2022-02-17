@@ -1,7 +1,7 @@
 <L>1377<pc>049<k1>augury<k2>augury
-<div n="lb"/>{@AUGURY:@}¦ <div n="I">I From birds: {#शकुनज्ञानम्#} <div n="xe">{%or%}</div> <div n="xs">{#शकुनि-#}
-<div n="lb"/>{#रूतिज्ञानम्,#}</div> K. </div><div n="I">II From any phenomena:
-<div n="lb"/>{#निमित्तज्ञानम्:#} Ph. <div n="xe">{%to practise a.%}</div> <div n="xs">{#*निमित्तैः शुमाशुभं #}
-<div n="lb"/>{# कथयति।#}</div> </div><div n="I">III An omen: q. v. </div><div n="1">(1) {#शकुनम्;#} </div><div n="1">(2)
-<div n="lb"/>{#निमित्तम्,#} <div n="xe">{%a bad a.%}</div> <div n="xs">{#अनिमित्तम्।#}</div></div>
+{@AUGURY:@}¦ <div n="I">I From birds: {#शकुनज्ञानम्#} <div n="xe">{%or%}</div> <div n="xs">{#शकुनि-#}
+{#रूतिज्ञानम्,#}</div> K. </div><div n="I">II From any phenomena:
+{#निमित्तज्ञानम्:#} Ph. <div n="xe">{%to practise a.%}</div> <div n="xs">{#*निमित्तैः शुमाशुभं #}
+{# कथयति।#}</div> </div><div n="I">III An omen: q. v. </div><div n="1">(1) {#शकुनम्;#} </div><div n="1">(2)
+{#निमित्तम्,#} <div n="xe">{%a bad a.%}</div> <div n="xs">{#अनिमित्तम्।#}</div></div>
 <LEND>

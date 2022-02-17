@@ -1,10 +1,10 @@
 <L>20994<pc>660<k1>somewhat<k2>somewhat
-<div n="lb"/>{@SOMEWHAT@}¦ (adv.): <div n="1">(1) {#किञ्चित्,#} {%s. ashamed:%}
-<div n="lb"/>{#किञ्चिदुपजातलज्जः,#} K.: v. Little; </div><div n="1">(2) by doubl-
-<div n="lb"/>-ing adj.s, <div n="xe">{%s. afraid:%}</div> <div n="xs">{#भीतभीतः#}</div> ({#ता, तं#}), Ki.
-<div n="lb"/>xiv. 65.; <div n="xe">{%s. alarmed:%}</div> <div n="xs">{#चकितचकितम्,#}</div> Me. i.
-<div n="lb"/>14.; <div n="xe">{%s. transparent:%}</div> <div n="xs">{#अच्छाच्छ#}</div> (f. {#च्छा#}), K.;</div>
-<div n="lb"/><div n="1">(3) rarely by affixes, {#-जातीय#} (f. {#या#}), {#-कल्प#}
-<div n="lb"/>(f. {#ल्पा#}), {#-देश्य#} (f. {#श्या#}), {#-देशीय#} (f. {#या#}) to
-<div n="lb"/>adj. s, <div n="xe">{%s. clever:%}</div> <div n="xs">{#पटुजातीयः#}</div> ({#या, यं#}).</div>
+{@SOMEWHAT@}¦ (adv.): <div n="1">(1) {#किञ्चित्,#} {%s. ashamed:%}
+{#किञ्चिदुपजातलज्जः,#} K.: v. Little; </div><div n="1">(2) by doubl-
+-ing adj.s, <div n="xe">{%s. afraid:%}</div> <div n="xs">{#भीतभीतः#}</div> ({#ता, तं#}), Ki.
+xiv. 65.; <div n="xe">{%s. alarmed:%}</div> <div n="xs">{#चकितचकितम्,#}</div> Me. i.
+14.; <div n="xe">{%s. transparent:%}</div> <div n="xs">{#अच्छाच्छ#}</div> (f. {#च्छा#}), K.;</div>
+<div n="1">(3) rarely by affixes, {#-जातीय#} (f. {#या#}), {#-कल्प#}
+(f. {#ल्पा#}), {#-देश्य#} (f. {#श्या#}), {#-देशीय#} (f. {#या#}) to
+adj. s, <div n="xe">{%s. clever:%}</div> <div n="xs">{#पटुजातीयः#}</div> ({#या, यं#}).</div>
 <LEND>

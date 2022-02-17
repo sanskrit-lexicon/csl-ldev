@@ -1,5 +1,5 @@
 <L>11620<pc>363<k1>impartiality<k2>impartiality
-<div n="lb"/>{@IMPARTIALITY:@}¦ <div n="1">(1) {#अपक्षपातिता, -त्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#अपक्षपातः,#}</div>
-<div n="lb"/><div n="xe">{%i. to suitors:%}</div> <div n="xs">{#अर्थिष्वपक्षपातः,#}</div> At.; </div><div n="1">(2) {#समवृत्तिः#}
-<div n="lb"/>(= evenhandedness).</div>
+{@IMPARTIALITY:@}¦ <div n="1">(1) {#अपक्षपातिता, -त्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#अपक्षपातः,#}</div>
+<div n="xe">{%i. to suitors:%}</div> <div n="xs">{#अर्थिष्वपक्षपातः,#}</div> At.; </div><div n="1">(2) {#समवृत्तिः#}
+(= evenhandedness).</div>
 <LEND>

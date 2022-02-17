@@ -1,4 +1,4 @@
 <L>5207<pc>167<k1>cucumber<k2>cucumber
-<div n="lb"/>{@CUCUMBER:@}¦ <div n="I">I The plant: {#त्रपुषी।#} </div><div n="I">II fruit:
-<div n="lb"/>{#त्रपुषम्।#}</div>
+{@CUCUMBER:@}¦ <div n="I">I The plant: {#त्रपुषी।#} </div><div n="I">II fruit:
+{#त्रपुषम्।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>1356<pc>048<k1>auburn<k2>auburn
-<div n="lb"/>{@AUBURN:@}¦ <div n="1">(1) {#पिशङ्गः#} ({#ङ्गा, ङ्गं#}): v. Tawny;</div>
-<div n="lb"/><div n="1">(2) {#श्यावः#} ({#वा, वं#}): v. Brown; </div><div n="1">(3) {#गौरः#}
-<div n="lb"/>({#री, रं#}): v. Yellow.</div>
+{@AUBURN:@}¦ <div n="1">(1) {#पिशङ्गः#} ({#ङ्गा, ङ्गं#}): v. Tawny;</div>
+<div n="1">(2) {#श्यावः#} ({#वा, वं#}): v. Brown; </div><div n="1">(3) {#गौरः#}
+({#री, रं#}): v. Yellow.</div>
 <LEND>

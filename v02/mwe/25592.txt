@@ -1,43 +1,43 @@
 <L>25592<pc>694-a<k1>rite<k2>rite
-<div n="lb"/>RITE¦, {%s.%} (Religious observance) {#क्रिया, विधिः#} {%m.,%} {#विधानं, कर्म्म#} {%n.%}
-<div n="lb"/>{#(न्), देवकर्म्म#} {%n.,%} {#दैवकर्म्म#} {%n.,%} {#देवक्रिया, दैवक्रिया, देवकार्य्यं, दैवकार्य्यं,#}
-<div n="lb"/>{#संस्कारः, नियमः, रीतिः#} {%f.,%} {#कल्पः, संविधानं, आचारः, आचरणं, शास्त्र-#}
-<div n="lb"/>{#विधानं, शास्त्रविधिः#} {%m.,%} {#शास्त्रकर्म्म#} {%n.,%} {#शास्त्रोक्तकर्म्म#} {%n.,%} {#शास्त्रविधानं,#}
-<div n="lb"/>{#शास्त्रविधिः#} {%m.,%} {#अनुष्ठानं, व्रतं, यमः, नियामः;#} ‘marriage rite,’
-<div n="lb"/>{#विवाहविधिः#} {%m., see%} MARRIAGE; ‘funeral rite,’ {#उत्तरक्रिया,#}
-<div n="lb"/>{#अन्त्यक्रिया, अन्तसत्क्रिया, मृतशरीरसत्कर्म्म#} {%n.%} {#(न्),#} {%see%} OBSEQUIES,
-<div n="lb"/>FUNERAL; ‘rite of investiture with the sacrificial thread,’
-<div n="lb"/>{#उपनयनं,#} {%see%} INVESTITURE; ‘rite of oblation to the manes,’
-<div n="lb"/>{#पितृकर्म्म#} {%n.,%} {#पितृक्रिया,#} {%see%} MANES. The following are the
-<div n="lb"/>sanskaras, or rites purificatory of the bodies of the three
-<div n="lb"/>classes in this life, and qualifying them for the next, ex-
-<div n="lb"/>plained in Manu Bk 2. 27 {%et seq.:%} 1. Sacrifice on con-
-<div n="lb"/>ception, {#गर्भाधानं#}. 2. On the quickening of the fœtus, {#पुंसवनं#}.
-<div n="lb"/>3. A rite consisting of partition and arrangement of
-<div n="lb"/>[Page694-b+ 51]
-<div n="lb"/>the hair of the mother in the fourth, sixth, or eighth
-<div n="lb"/>month of gestation, {#सीमन्तोन्नयनं#}. 4. Giving the new-born
-<div n="lb"/>infant honey and clarified butter out of a golden spoon,
-<div n="lb"/>before separating the navel-string, {#जातकर्म्म#} {%n.%} 5. Naming
-<div n="lb"/>the child on the tenth or twelfth day after birth, {#नामकर्म्म#} {%n.%}
-<div n="lb"/>or {#नामकरणं#}. 6. Carrying the child out to see the sun in the
-<div n="lb"/>fourth month after birth, {#निष्क्रमणं#}. 7. Feeding the child
-<div n="lb"/>with boiled rice in the sixth month after birth, or on the
-<div n="lb"/>cutting of the first tooth, {#अन्नप्राशनं#}. 8. Tonsure, or shaving
-<div n="lb"/>the head all but one lock, in the first or third year after
-<div n="lb"/>birth, {#चूडाकर्म्म#} {%n.%} or {#चूडाकरणं#} or {#चूडाकार्य्यं#}. 9. Investiture
-<div n="lb"/>with a peculiar thread or cord, called the sacrificial thread,
-<div n="lb"/>worn over the left shoulder and under the right, per-
-<div n="lb"/>formed on youths of the three classes at ages varying
-<div n="lb"/>from eight to sixteen, from eleven to twenty-two, and
-<div n="lb"/>from twelve to twenty-four, respectively, {#उपनयनं#}. 10. Cutting
-<div n="lb"/>off the hair entirely, performed on Brahmans at sixteen
-<div n="lb"/>on Kshatriyas at twenty-two, and on Vaiśyas at twenty-
-<div n="lb"/>four years of age, {#केशान्तः#}. 11. Ceremony performed by
-<div n="lb"/>youths of the first class on returning from the house of
-<div n="lb"/>their preceptor to that of their natural parents, {#समावर्त्तनं#}.
-<div n="lb"/>12. Marriage, in the thirty-sixth or eighteenth year, {#वि-#}
-<div n="lb"/>{#वाहः#}. — (Inauspicious rite) {#अशुभकर्म्म#} {%n.%} {#(न्), अशुभकार्य्यं;#} ‘rites
-<div n="lb"/>and ceremonies,’ {#आचारविचाराः#} {%m. pl.;%} ‘performing a rite,’
-<div n="lb"/>{#क्रियानुष्ठानं;#} ‘mode of performing a rite,’ {#क्रियाविधिः#} {%m.,%} {#प्रयोगः#}.
+RITE¦, {%s.%} (Religious observance) {#क्रिया, विधिः#} {%m.,%} {#विधानं, कर्म्म#} {%n.%}
+{#(न्), देवकर्म्म#} {%n.,%} {#दैवकर्म्म#} {%n.,%} {#देवक्रिया, दैवक्रिया, देवकार्य्यं, दैवकार्य्यं,#}
+{#संस्कारः, नियमः, रीतिः#} {%f.,%} {#कल्पः, संविधानं, आचारः, आचरणं, शास्त्र-#}
+{#विधानं, शास्त्रविधिः#} {%m.,%} {#शास्त्रकर्म्म#} {%n.,%} {#शास्त्रोक्तकर्म्म#} {%n.,%} {#शास्त्रविधानं,#}
+{#शास्त्रविधिः#} {%m.,%} {#अनुष्ठानं, व्रतं, यमः, नियामः;#} ‘marriage rite,’
+{#विवाहविधिः#} {%m., see%} MARRIAGE; ‘funeral rite,’ {#उत्तरक्रिया,#}
+{#अन्त्यक्रिया, अन्तसत्क्रिया, मृतशरीरसत्कर्म्म#} {%n.%} {#(न्),#} {%see%} OBSEQUIES,
+FUNERAL; ‘rite of investiture with the sacrificial thread,’
+{#उपनयनं,#} {%see%} INVESTITURE; ‘rite of oblation to the manes,’
+{#पितृकर्म्म#} {%n.,%} {#पितृक्रिया,#} {%see%} MANES. The following are the
+sanskaras, or rites purificatory of the bodies of the three
+classes in this life, and qualifying them for the next, ex-
+plained in Manu Bk 2. 27 {%et seq.:%} 1. Sacrifice on con-
+ception, {#गर्भाधानं#}. 2. On the quickening of the fœtus, {#पुंसवनं#}.
+3. A rite consisting of partition and arrangement of
+[Page694-b+ 51]
+the hair of the mother in the fourth, sixth, or eighth
+month of gestation, {#सीमन्तोन्नयनं#}. 4. Giving the new-born
+infant honey and clarified butter out of a golden spoon,
+before separating the navel-string, {#जातकर्म्म#} {%n.%} 5. Naming
+the child on the tenth or twelfth day after birth, {#नामकर्म्म#} {%n.%}
+or {#नामकरणं#}. 6. Carrying the child out to see the sun in the
+fourth month after birth, {#निष्क्रमणं#}. 7. Feeding the child
+with boiled rice in the sixth month after birth, or on the
+cutting of the first tooth, {#अन्नप्राशनं#}. 8. Tonsure, or shaving
+the head all but one lock, in the first or third year after
+birth, {#चूडाकर्म्म#} {%n.%} or {#चूडाकरणं#} or {#चूडाकार्य्यं#}. 9. Investiture
+with a peculiar thread or cord, called the sacrificial thread,
+worn over the left shoulder and under the right, per-
+formed on youths of the three classes at ages varying
+from eight to sixteen, from eleven to twenty-two, and
+from twelve to twenty-four, respectively, {#उपनयनं#}. 10. Cutting
+off the hair entirely, performed on Brahmans at sixteen
+on Kshatriyas at twenty-two, and on Vaiśyas at twenty-
+four years of age, {#केशान्तः#}. 11. Ceremony performed by
+youths of the first class on returning from the house of
+their preceptor to that of their natural parents, {#समावर्त्तनं#}.
+12. Marriage, in the thirty-sixth or eighteenth year, {#वि-#}
+{#वाहः#}. — (Inauspicious rite) {#अशुभकर्म्म#} {%n.%} {#(न्), अशुभकार्य्यं;#} ‘rites
+and ceremonies,’ {#आचारविचाराः#} {%m. pl.;%} ‘performing a rite,’
+{#क्रियानुष्ठानं;#} ‘mode of performing a rite,’ {#क्रियाविधिः#} {%m.,%} {#प्रयोगः#}.
 <LEND>

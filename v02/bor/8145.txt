@@ -1,4 +1,4 @@
 <L>8145<pc>257<k1>expiatory<k2>expiatory
-<div n="lb"/>{@EXPIATORY:@}¦ {#पावनः#} ({#नी, नं#}), <div n="xe">{%e. rite:%}</div> <div n="xs">{#पावनो विधिः,#}</div>
-<div n="lb"/>Pa. Ph.: <div n="xe">{%e. ceremony:%}</div> <div n="xs">{#प्रायश्चित्तम्।#}</div>
+{@EXPIATORY:@}¦ {#पावनः#} ({#नी, नं#}), <div n="xe">{%e. rite:%}</div> <div n="xs">{#पावनो विधिः,#}</div>
+Pa. Ph.: <div n="xe">{%e. ceremony:%}</div> <div n="xs">{#प्रायश्चित्तम्।#}</div>
 <LEND>

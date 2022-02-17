@@ -1,5 +1,5 @@
 <L>15478<pc>474<k1>nominal<k2>nominal
-<div n="lb"/>{@NOMINAL:@}¦ <div n="I">I Lit., by comp., <div n="xe">{%n., n. verb:%}</div> <div n="xs">{#नाम-#}
-<div n="lb"/>{#धातुः,#}</div> S.k. </div><div n="I">II Fig., existing in name only:
-<div n="lb"/>{#नाममात्र#} (f. {#त्रा#}).</div>
+{@NOMINAL:@}¦ <div n="I">I Lit., by comp., <div n="xe">{%n., n. verb:%}</div> <div n="xs">{#नाम-#}
+{#धातुः,#}</div> S.k. </div><div n="I">II Fig., existing in name only:
+{#नाममात्र#} (f. {#त्रा#}).</div>
 <LEND>

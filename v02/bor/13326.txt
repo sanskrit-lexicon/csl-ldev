@@ -1,6 +1,6 @@
 <L>13326<pc>411<k1>lead<k2>lead
-<div n="lb"/>{@LEAD@}¦ (v. t.): <div n="I">I To go before: {#पुरो भवति,#} etc.
-<div n="lb"/>Ku. xiii. 11. </div><div n="I">II To tend: <div n="xe">{%the road l. ing to%}
-<div n="lb"/>{%the Golden City:%}</div> <div n="xs">{#सुवर्णपुरगामी पन्थाः,#}</div> Ku. <div n="xe">{%poverty%}
-<div n="lb"/>{%l. s to shame:%}</div> <div n="xs">{#दारिद्र्याद्धियमेति,#}</div> Mr. i.</div>
+{@LEAD@}¦ (v. t.): <div n="I">I To go before: {#पुरो भवति,#} etc.
+Ku. xiii. 11. </div><div n="I">II To tend: <div n="xe">{%the road l. ing to%}
+{%the Golden City:%}</div> <div n="xs">{#सुवर्णपुरगामी पन्थाः,#}</div> Ku. <div n="xe">{%poverty%}
+{%l. s to shame:%}</div> <div n="xs">{#दारिद्र्याद्धियमेति,#}</div> Mr. i.</div>
 <LEND>

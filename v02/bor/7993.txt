@@ -1,4 +1,4 @@
 <L>7993<pc>253<k1>exchequer<k2>exchequer
-<div n="lb"/>{@EXCHEQUER:@}¦ <div n="I">I Treasury: q. v.: {#कोषः,#} <div n="xe">{%lord%}
-<div n="lb"/>{%of the e.:%}</div> <div n="xs">{#कोषपतिः।#}</div> </div><div n="I">II A court: q. v.</div>
+{@EXCHEQUER:@}¦ <div n="I">I Treasury: q. v.: {#कोषः,#} <div n="xe">{%lord%}
+{%of the e.:%}</div> <div n="xs">{#कोषपतिः।#}</div> </div><div n="I">II A court: q. v.</div>
 <LEND>

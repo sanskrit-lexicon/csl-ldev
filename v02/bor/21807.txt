@@ -1,20 +1,20 @@
 <L>21807<pc>688<k1>such<k2>such
-<div n="lb"/>{@SUCH:@}¦ <div n="1">(1) {#तादृशः#} ({#शी, शं#}) <div n="xe">{%or%}</div> <div n="xs">{#तादृश्#}</div> (mfn.).
-<div n="lb"/>(=of that kind), <div n="xe">{%s. Kurus:%}</div> <div n="xs">{#तादृशाः कुरवः,#}</div>
-<div n="lb"/>Mah. iv. 68. 37.; {%there was s. a sage:%}
-<div n="lb"/>{#आसीत्तादृशो मुनिः,#} D. ii.; </div><div n="1">(2) {#ईदृशः#} ({#शी, शं#}) {%or%}
-<div n="lb"/>{#ईदृश्#} (mfn.). (= of this kind), <div n="xe">{%in s. fire of%}
-<div n="lb"/>{%litigation:%}</div> <div n="xs">{#ईदृशे व्यवहाराग्नौ,#}</div> Mr. ix. 39.; <div n="xe">{%a%}
-<div n="lb"/>{%speaker who is not of s. a mind:%}</div> <div n="xs">{#यो वक्ता नेदृगाशयः,#}</div>
-<div n="lb"/>Ki. xi. 41.; </div><div n="1">(3) {#एतादृशः#} ({#शी, शं#}) <div n="xe">{%or%}</div> <div n="xs">{#एतादृश्#}</div>
-<div n="lb"/>(mfn.=2.); </div><div n="1">(4) {#एवंविध,#} ({#धा, धं#} =2.), <div n="xe">{%s.%}
-<div n="lb"/>{%personages:%}</div> <div n="xs">{#एवंविधा मूर्तयः,#}</div> K.; </div><div n="1">(5) {#तथाविधः#}
-<div n="lb"/>({#धा, धं#} = 1.), <div n="xe">{%s. love and s. a husband:%}</div> <div n="xs">{#तथाविधं #}
-<div n="lb"/>{# प्रेम पतिश्च तादृशः,#}</div> Ku. v. 2.; <div n="xe">{%s. and s.:%}</div> <div n="xs">{#अमुकः#}</div>
-<div n="lb"/>({#का, कं#}); <div n="xe">{%in s. and s. a time, in s. and s. a%}
-<div n="lb"/>{%place:%}</div> <div n="xs">{#अमुकस्मिन् काले अमुकस्मिन् देशे,#}</div> He. <div n="xe">{%S. as%}
-<div n="lb"/>{%myself:%}</div> <div n="xs">{#मादृशः#}</div> ({#शी, शं#}), {#मादृश्#} (mfn.), <div n="xe">{%or%}</div> <div n="xs">{#मद्विधः#}</div>
-<div n="lb"/>({#धा, धं#}), N. iii. 71. <div n="xe">{%S. as yourself:%}</div> <div n="xs">{#त्वादृशः#}</div>
-<div n="lb"/>({#शी, शं#}), {#त्वादृश्#} (mfn.), {#भवादृशः#} ({#शी, शं#}) etc.,
-<div n="lb"/>Ki. i. 43.</div>
+{@SUCH:@}¦ <div n="1">(1) {#तादृशः#} ({#शी, शं#}) <div n="xe">{%or%}</div> <div n="xs">{#तादृश्#}</div> (mfn.).
+(=of that kind), <div n="xe">{%s. Kurus:%}</div> <div n="xs">{#तादृशाः कुरवः,#}</div>
+Mah. iv. 68. 37.; {%there was s. a sage:%}
+{#आसीत्तादृशो मुनिः,#} D. ii.; </div><div n="1">(2) {#ईदृशः#} ({#शी, शं#}) {%or%}
+{#ईदृश्#} (mfn.). (= of this kind), <div n="xe">{%in s. fire of%}
+{%litigation:%}</div> <div n="xs">{#ईदृशे व्यवहाराग्नौ,#}</div> Mr. ix. 39.; <div n="xe">{%a%}
+{%speaker who is not of s. a mind:%}</div> <div n="xs">{#यो वक्ता नेदृगाशयः,#}</div>
+Ki. xi. 41.; </div><div n="1">(3) {#एतादृशः#} ({#शी, शं#}) <div n="xe">{%or%}</div> <div n="xs">{#एतादृश्#}</div>
+(mfn.=2.); </div><div n="1">(4) {#एवंविध,#} ({#धा, धं#} =2.), <div n="xe">{%s.%}
+{%personages:%}</div> <div n="xs">{#एवंविधा मूर्तयः,#}</div> K.; </div><div n="1">(5) {#तथाविधः#}
+({#धा, धं#} = 1.), <div n="xe">{%s. love and s. a husband:%}</div> <div n="xs">{#तथाविधं #}
+{# प्रेम पतिश्च तादृशः,#}</div> Ku. v. 2.; <div n="xe">{%s. and s.:%}</div> <div n="xs">{#अमुकः#}</div>
+({#का, कं#}); <div n="xe">{%in s. and s. a time, in s. and s. a%}
+{%place:%}</div> <div n="xs">{#अमुकस्मिन् काले अमुकस्मिन् देशे,#}</div> He. <div n="xe">{%S. as%}
+{%myself:%}</div> <div n="xs">{#मादृशः#}</div> ({#शी, शं#}), {#मादृश्#} (mfn.), <div n="xe">{%or%}</div> <div n="xs">{#मद्विधः#}</div>
+({#धा, धं#}), N. iii. 71. <div n="xe">{%S. as yourself:%}</div> <div n="xs">{#त्वादृशः#}</div>
+({#शी, शं#}), {#त्वादृश्#} (mfn.), {#भवादृशः#} ({#शी, शं#}) etc.,
+Ki. i. 43.</div>
 <LEND>

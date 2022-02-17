@@ -1,10 +1,10 @@
 <L>24892<pc>670-b<k1>region<k2>region
-<div n="lb"/>REGION¦, {%s.%} (Country) {#देशः, प्रदेशः, विषयः, राष्ट्रं, भूमिः#} {%f.,%} {#चक्रं, मण्डलं,#}
-<div n="lb"/>{#प्रान्तः, धिष्ण्यं, निर्गः;#} ‘the lower regions,’ {#अधोलोकः, अधोभुवनं#}
-<div n="lb"/>{#अवाची;#} ‘the upper regions,’ {#ऊर्द्ध्वलोकः, ऊर्द्ध्वभुवनं, उदीची;#}
-<div n="lb"/>‘centre of a region,’ {#मध्यदेशः#}. — (Quarter of the sky) {#दिक्#} {%f.%}
-<div n="lb"/>{#(श्), दिशा, दिशाः#} {%f.%} {#(स्), दिशी, आशा, काष्ठा, सनिः#} {%m. f., see%}
-<div n="lb"/>QUARTER. — (Part of the body) {#देशः, चक्रं, मण्डलं;#} ‘the region
-<div n="lb"/>of the heart,’ {#हृदयदेशः;#} ‘of the liver,’ {#यकृद्देशः;#} ‘umbilical
-<div n="lb"/>region,’ {#नाभिदेशः, स्वाधिष्ठानचक्रं;#} ‘of the head,’ {#मस्तकमण्डलं#}.
+REGION¦, {%s.%} (Country) {#देशः, प्रदेशः, विषयः, राष्ट्रं, भूमिः#} {%f.,%} {#चक्रं, मण्डलं,#}
+{#प्रान्तः, धिष्ण्यं, निर्गः;#} ‘the lower regions,’ {#अधोलोकः, अधोभुवनं#}
+{#अवाची;#} ‘the upper regions,’ {#ऊर्द्ध्वलोकः, ऊर्द्ध्वभुवनं, उदीची;#}
+‘centre of a region,’ {#मध्यदेशः#}. — (Quarter of the sky) {#दिक्#} {%f.%}
+{#(श्), दिशा, दिशाः#} {%f.%} {#(स्), दिशी, आशा, काष्ठा, सनिः#} {%m. f., see%}
+QUARTER. — (Part of the body) {#देशः, चक्रं, मण्डलं;#} ‘the region
+of the heart,’ {#हृदयदेशः;#} ‘of the liver,’ {#यकृद्देशः;#} ‘umbilical
+region,’ {#नाभिदेशः, स्वाधिष्ठानचक्रं;#} ‘of the head,’ {#मस्तकमण्डलं#}.
 <LEND>

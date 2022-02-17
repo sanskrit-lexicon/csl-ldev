@@ -24,7 +24,7 @@
 <ls>MBH. 13, 939.</ls> {#°मित्र#} {%Hauptfreund%} 
 <ls>R. 2, 107, 19.</ls> {#प्रधानाप्सरसः#} 
 <ls>3, 15, 14.</ls> {#°मन्त्रिन्#} 
-<ls>R. GORR. 2, 115, 19.</ls> <ls>HIT. 49, 18. 112, 19.</ls> <ls>VET.</ls> in <ls>LA. 35, 6.</ls> {#°क्षपणक#} 
+<ls>R. GORR. 2, 115, 19.</ls> <ls>HIT. 49, 18. 112, 19.</ls> <ls>VET. in LA. 35, 6.</ls> {#°क्षपणक#} 
 <ls>PAÑCAT. 236, 15.</ls> 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 191, 14.</ls> {#प्रधानाध्यक्षता#} {%das Amt eines Oberaufsehers%} 
 <ls>KATHĀS. 34, 67.</ls> Häufig am Ende eines <lex>adj.</lex> comp. (f. {#आ): (ऋक्) इन्द्रप्रधाना#} {%wo%} <is>Indra</is> {%die Hauptsache, die Hauptperson ist%} 
@@ -75,7 +75,7 @@
 <ls>HIT. 51, 22.</ls> {#भरतप्रधानान्#} {%die Vornehmsten unter%} 
 <ls>MBH. 3, 10245.</ls> {#अवनिप्रधान#} {%der beste auf der Erde%} 
 <ls>10246. 5, 7482.</ls> <ls>HARIV. 8402.</ls> {#जगत्प्रधान#} 
-<ls>?8410. R. 2, 82, 30 (89, 12 GORR.). 104, 27. R. GORR. 2, 89, 13.</ls> {#मन्त्रि°#} {%der erste Minister%} 
+<ls n="HARIV.">8410.</ls> <ls>R. 2, 82, 30 (89, 12 GORR.). 104, 27.</ls> <ls>R. GORR. 2, 89, 13.</ls> {#मन्त्रि°#} {%der erste Minister%} 
 <ls>KATHĀS. 42, 84.</ls> {#सार्थ°#} 
 <ls>VARĀH. BṚH. S. 85, 11.</ls> 
 <ls>BHĀG. P. 3, 7, 42.</ls> 
@@ -94,7 +94,7 @@
 <ls>SĀṂKHYAK. 11. 21. 37. 57. 68.</ls> 
 <ls>TATTVAS. 4, 5. 36.</ls> 
 <ls>ŚVETĀŚV. UP. 1, 10. 6, 10. 16.</ls> 
-<ls>MBH. 13, 1009. 14, 522.</ls> 
+<ls>MBH. 13, 1009.</ls> <ls n="MBH.">14, 522.</ls> 
 <ls>HARIV. 11297.</ls> 
 <ls>VARĀH. BṚH. S. 1, 7.</ls> 
 <ls>VP. 9. fgg. 636.</ls> 

@@ -4,7 +4,7 @@
 <ls>MED. y. 99. fg.</ls> = {#मङ्गले साधु#} 
 <ls>DHAR.</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 5, 70.</ls> = {#रुचिर#} 
 <ls>H. an. 3, 500.</ls> {#मृगपक्षिणः#} 
-<ls>MBH. 5, 2943. 7, 2932</ls> (nach der Lesart der ed. Bomb.). {#मङ्गल्यं ब्राह्मणस्य (नामधेयं) स्यात्#} 
+<ls>MBH. 5, 2943.</ls> <ls n="MBH.">7, 2932</ls> (nach der Lesart der ed. Bomb.). {#मङ्गल्यं ब्राह्मणस्य (नामधेयं) स्यात्#} 
 <ls>M. 2, 31. 33.</ls> {#वाचः#} 
 <ls>GOBH. 2, 7, 13.</ls> {#तूर्याणि#} 
 <ls>MBH. 7, 2487</ls> ({#मा°#} ed. Calc.). {#गीतानि#} 
@@ -21,7 +21,7 @@
 <ls>H. 1008.</ls> {#°दधिपात्र#} 
 <ls>RĀJA-TAR. 3, 225.</ls> 
 <ls>SUŚR. 1, 177, 3.</ls> {#पुराण#} 
-<ls>Verz. d. Oxf. H. 20,a,4 v. u.</ls> <ls>PAÑCAR.2,1,8.</ls> {#°श्रुतं शङ्खं च शृण्वन्#} 
+<ls>Verz. d. Oxf. H. 20,a,4</ls> v. u. <ls>PAÑCAR.2,1,8.</ls> {#°श्रुतं शङ्खं च शृण्वन्#} 
 <ls>Verz. d. Oxf. H. 268,a,28.</ls> {#त्रिलोकी°#} 
 <ls>UTTARARĀMAC. 77, 3.</ls> <lex>n.</lex> = {#मङ्गल#} {%ein glückbringendes Gebet%}: {#तस्माददृष्टं मङ्गल्यं वक्तव्यं पण्डितैः सदा#} 
 <ls>MĀRK. P. 51, 12.</ls> {#मङ्गल्यानि वाचयन्ति#} 
@@ -33,7 +33,7 @@
 <div n="2"> a) N. verschiedener Pflanzen: {%Linsen%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>DHAR. a. a. O.</ls> <ls>SUŚR. 1, 73, 8. 197, 13.</ls> {%Ficus religiosa Lin., Aegle Marmelos Corr.%} (statt {#विश्व#} ist bei 
 <ls>H.</ls> {#बिल्व#} zu lesen) und = {#त्रायमाणा#} 
-<ls>H. an.</ls> <ls>MED.</ls> {%Kokosnusspalme, Feronia elephantum Corr., eine Art%} <is>Karañja</is> {#(रीठाकरञ्ज)#} und = {#जीवक#} 
+<ls>H. an.</ls> <ls>MED.</ls> {%Kokosnusspalme, Feronia elephantum Corr., eine Art%} <is>Karañja</is> ({#रीठाकरञ्ज#}) und = {#जीवक#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) N. pr. eines <is>Nāgarāja</is> 
 <ls>VYUTP. 86.</ls> 
@@ -42,13 +42,13 @@
 <ls>AK. 2, 6, 3, 28.</ls> 
 <ls>H. 640.</ls> 
 <ls>DHAR.</ls> {%Anethum Sowa Roxb.%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>RATNAM. 115.</ls> <ls>DHAR.</ls> {%Mimosa Suma%} {#(शमी)#} {%Roxb.%}, = {#शुक्लवचा#} und {#अधःपुष्पी#} 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>RATNAM. 115.</ls> <ls>DHAR.</ls> {%Mimosa Suma%} ({#शमी#}) {%Roxb.%}, = {#शुक्लवचा#} und {#अधःपुष्पी#} 
 <ls>H. an.</ls> <ls>MED.</ls> = {#प्रियङ्गु#} und {#शङ्खपुष्पी#} 
 <ls>H. an.</ls> = {#वचा#} 
 <ls>DHAR.</ls> <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#माषपर्णी, जीवन्ती, ऋद्धि#} und {#हरिद्रा#} 
 <ls>RĀJAN.</ls> = {#दूर्वा#} 
 <ls>RATNAM.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— b) {%ein best. gelbes Pigment%} {#(रोचना)#} 
+<div n="2">— b) {%ein best. gelbes Pigment%} ({#रोचना#}) 
 <ls>H. an.</ls> <ls>MED.</ls> {%ein best. Parfum%}, = {#चीडा#} 
 <ls>RĀJAN.</ls> 
 <div n="2">— c) Bein. der <is>Durgā</is> (vgl. u. 1.) 

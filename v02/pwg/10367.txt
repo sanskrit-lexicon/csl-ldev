@@ -14,7 +14,7 @@
 <ls>M. 2, 79.</ls> {#पितेव पालयेत्पुत्रान् ज्येष्ठो भ्रातॄन्यवीयसः#} 
 <ls>9, 108.</ls> {#इन्द्रियाणाम् - संयमे यत्नमातिष्ठेद्विद्वान्यन्तेव वाजिनाम्#} 
 <ls>2, 88.</ls> {#प्रजास्तमनुवर्तन्ते समुद्रमिव सिन्धवः#} 
-<ls>8, 175. 21. 95. 173. 7, 33. 34. 135. N. 26, 13. 34.</ls> {#यूथभ्रष्टामिवैकां मां हरिणीम् - न मानयसि माम्#} 
+<ls>8, 175. 21. 95. 173. 7, 33. 34. 135.</ls> <ls>N. 26, 13. 34.</ls> {#यूथभ्रष्टामिवैकां मां हरिणीम् - न मानयसि माम्#} 
 <ls>12, 16.</ls> <ls>DAŚ. 1, 40. 41.</ls> <ls>R. 1, 5, 11. 20.</ls> <ls>ŚĀK. 76. 82. 115. 154.</ls> <ls>RAGH. 12, 3.</ls> <ls>VID. 4.</ls> wie das relat. {#यथा#} {%wie%} in Correlation mit {#तथा#} {%so%}: {#भस्मनीव हुतं हव्यं तथा (दत्तं) पौनर्भवे द्विजे#} 
 <ls>M. 3, 181.</ls> {#बिम्बादिवोद्धृतौ बिम्बौ रामदेहात्तथापरौ#} 
 <ls>R. 1, 4, 12.</ls> 
@@ -110,7 +110,7 @@
 <div n="v">— Vgl. {#अतीव#} und {#इतीव#} u. {#इति#} 4. — Im <is>Veda</is> zeigt {#इव#} eigenthümliche, durch den Rhythmus erkennbare Lautaffectionen: 
 <div n="2"> a) das anlautende {#इ#} vereinigt sich häufig (durch Synizesis) mit einem vorangehenden Vocal, zu welchem es in einem nicht mehr durch <is>Saṃdhi</is> aufzuhebenden (secundären) Hiatus steht; so mit {#अ#} (für {#अः): पर्व^त इ\वावि^चाच\लिः#} (lies {#पर्वतैव°#}) 
 <ls>ṚV. 10, 173, 2.</ls> mit {#आ#} (für {#आः): योन्या^ इव\ प्रच्यु^तो\ गर्भ^ः#} 
-<ls>AV. 6,121,  4.</ls>
+<ls>AV. 6,121, 4.</ls>
 [Page1-0820]
 mit {#आँ#} (für {#आन्): अ\क्षानि^व श्व\घ्नी नि मि^नोति\ तानि^#} 
 <ls>4, 16, 5.</ls> 
@@ -118,12 +118,12 @@ mit {#आँ#} (für {#आन्): अ\क्षानि^व श्व\घ्�
 <ls>ṚV. 7, 41, 6.</ls> bei {#इम्: अ\ग्निमि^व जा\तम\भि सं ध^मामि#} 
 <ls>AV. 8, 2, 4.</ls> bei {#उम्: स न\ः सिन्धु^मिव ना\वया^#} 
 <ls>ṚV. 1, 97, 8.</ls> 
-<div n="2">— c) unter die Form der Synizesis sowohl als der Elision dürfte der Fall gerechnet werden, wenn eine mit einem starken <is>Visarga</is> ({#रिफित#}) schliessende Silbe sich mit dem {#इ#} vereinigt, dabei also ein {#र#} als ausgefallen erscheint; so {#इर्#} {#(इः)#}: {#अ\ग्निरि^व#} ({#अग्नि - इव#}) {#मन्यो त्विषि\तः स^हस्व#} 
+<div n="2">— c) unter die Form der Synizesis sowohl als der Elision dürfte der Fall gerechnet werden, wenn eine mit einem starken <is>Visarga</is> ({#रिफित#}) schliessende Silbe sich mit dem {#इ#} vereinigt, dabei also ein {#र#} als ausgefallen erscheint; so {#इर्#} ({#इः#}): {#अ\ग्निरि^व#} ({#अग्नि - इव#}) {#मन्यो त्विषि\तः स^हस्व#} 
 <ls>ṚV. 10, 84, 2.</ls> {#उर्#} ({#उः#}): {#धनु^रि\वा#} ({#धनु - इव#}) {#ता^नया\ पस^ः#} 
 <ls>AV. 4, 4, 6.</ls> {#एर् (एः): अ\ग्नेरि^वास्य\ दह^त एति शु\ष्मिण^ः#} 
 <ls>6, 20, 1.</ls> In Schreibungen wie {#उ\र्विव^#} (statt {#उरुरिव#}) {#गा\तुः सु\यमो\ न वो|आ^#} 
 <ls>ṚV. 9, 96, 15</ls> ist dieses Lautverhältniss sogar in den Text gekommen; vgl. 
-<ls>?5, 7, 8. Herr W. D. WHITNEY</ls> hat die Beobachtung gemacht, dass im 
+<ls>5, 7, 8.</ls> Herr W. D. <ls>WHITNEY</ls> hat die Beobachtung gemacht, dass im 
 <ls>AV.</ls> diese verschiedenen Formen der Zusammenziehung Regel, der Hiatus Ausnahme ist. Es stehen z. 
 <ls>B. 47</ls> Fälle von Vereinigung eines {#अ (अः)#} mit {#इव#} gegen 7 Fälle von Hiatus. Im 
 <ls>ṚV.</ls> ist das Verhältniss umgekehrt. Der Hiatus stellt sich also auch auf diesem Wege als eine von der ältesten Dichtung keinesweges gemiedene Lautform dar. — Im <is>Padapāṭha</is> des 

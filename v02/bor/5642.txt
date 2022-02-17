@@ -1,8 +1,8 @@
 <L>5642<pc>181<k1>defame<k2>defame
-<div n="lb"/>{@DEFAME:@}¦ <div n="1">(1) {#परिवदति#} ({#वद्,#} c. l.), {%is d. ing in%}
-<div n="lb"/>({%my%}) <div n="xe">{%presence my friend, the king of Anga:%}</div> <div n="xs">{#परि-#}
-<div n="lb"/>{#वदति समक्षं मित्रमङ्गाधिराजम्,#}</div> Ve.; </div><div n="1">(2) {#अपभाषते#}
-<div n="lb"/>({#भाष्,#} c. l.), <div n="xe">{%who d. s great men:%}</div> <div n="xs">{#यो महतोऽप-#}
-<div n="lb"/>{#भाषते,#}</div> Ku.; </div><div n="1">(3) {#आक्षिपति#} ({#क्षिप्,#} c. l.) (=to
-<div n="lb"/>asperse).</div>
+{@DEFAME:@}¦ <div n="1">(1) {#परिवदति#} ({#वद्,#} c. l.), {%is d. ing in%}
+({%my%}) <div n="xe">{%presence my friend, the king of Anga:%}</div> <div n="xs">{#परि-#}
+{#वदति समक्षं मित्रमङ्गाधिराजम्,#}</div> Ve.; </div><div n="1">(2) {#अपभाषते#}
+({#भाष्,#} c. l.), <div n="xe">{%who d. s great men:%}</div> <div n="xs">{#यो महतोऽप-#}
+{#भाषते,#}</div> Ku.; </div><div n="1">(3) {#आक्षिपति#} ({#क्षिप्,#} c. l.) (=to
+asperse).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>18601<pc>572<k1>rational<k2>rational
-<div n="lb"/>{@RATIONAL:@}¦ <div n="I">I Possessing reason: </div><div n="1">(1) {#व्युत्पत्तिमत्#}
-<div n="lb"/>(f. {#ती#}), <div n="xe">{%of r. beings:%}</div> <div n="xs">{#व्युत्पत्तिमतां पुरुषाणाम्,#}</div> S. i.
-<div n="lb"/>1. p.; </div><div n="1">(2) {#व्युत्पन्नचित्त#} (f. {#त्ता#}), S.; </div><div n="1">(3) {#विवेकिन्#}
-<div n="lb"/>(f. {#नी#}). </div><div n="I">II Relating or agreeable to
-<div n="lb"/>reason: {#विवेकिन्#} (f. {#नी#}), <div n="xe">{%your r. mind:%}</div> <div n="xs">{#विवेकिनी #}
-<div n="lb"/>{# ते मतिः,#}</div> Ki. ii. 6. </div><div n="I">III In alg.: {%r. quantity:%}
-<div n="lb"/>{#रूपम्,#} Vij.</div>
+{@RATIONAL:@}¦ <div n="I">I Possessing reason: </div><div n="1">(1) {#व्युत्पत्तिमत्#}
+(f. {#ती#}), <div n="xe">{%of r. beings:%}</div> <div n="xs">{#व्युत्पत्तिमतां पुरुषाणाम्,#}</div> S. i.
+1. p.; </div><div n="1">(2) {#व्युत्पन्नचित्त#} (f. {#त्ता#}), S.; </div><div n="1">(3) {#विवेकिन्#}
+(f. {#नी#}). </div><div n="I">II Relating or agreeable to
+reason: {#विवेकिन्#} (f. {#नी#}), <div n="xe">{%your r. mind:%}</div> <div n="xs">{#विवेकिनी #}
+{# ते मतिः,#}</div> Ki. ii. 6. </div><div n="I">III In alg.: {%r. quantity:%}
+{#रूपम्,#} Vij.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>2037<pc>071<k1>bigoted<k2>bigoted
-<div n="lb"/>{@BIGOTED@}¦ (adj.): v. Bigot. Ph. <div n="xe">{%this is a b.%}
-<div n="lb"/>{%country%}</div> <div n="xs">{#*अत्र पुरुषाः अविचारेण स्वमतासक्ताः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#परधर्म-#}
-<div n="lb"/>{#विद्वेषिणः।#}</div>
+{@BIGOTED@}¦ (adj.): v. Bigot. Ph. <div n="xe">{%this is a b.%}
+{%country%}</div> <div n="xs">{#*अत्र पुरुषाः अविचारेण स्वमतासक्ताः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#परधर्म-#}
+{#विद्वेषिणः।#}</div>
 <LEND>

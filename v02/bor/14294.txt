@@ -1,4 +1,4 @@
 <L>14294<pc>439<k1>matriculation<k2>matriculation
-<div n="lb"/>{@MATRICULATION:@}¦ examination: {#*प्रावेशिकी #}
-<div n="lb"/>{# परीक्षा।#}
+{@MATRICULATION:@}¦ examination: {#*प्रावेशिकी #}
+{# परीक्षा।#}
 <LEND>

@@ -8,11 +8,11 @@
 <ls>H. 541.</ls> 
 <ls>an. 3, 703.</ls> 
 <ls>MED. v. 42.</ls> <ls>VS. 22, 32.</ls> {#°कर्मकृत् (भृगु)#} 
-<ls>MBH. 13,4142. 14,1401. 1403.</ls> 
+<ls>MBH. 13, 4142.</ls> <ls n="MBH.">14, 1401.</ls> <ls n="MBH. 14,">1403.</ls> 
 <ls>SUŚR.1,311,14.</ls> 
 <ls>SĀṂKHYAK. 11. 65.</ls> 
 <ls>HARIV. 6433.</ls> 
-<ls>VIŚVA</ls><ls>N.</ls> bei <ls>GOLD. MĀN. 154,a.</ls> {#आ प्रसवात्#} {%bis zur Niederkunft%} 
+<ls>VIŚVAN.</ls> bei <ls>GOLD. MĀN. 154,a.</ls> {#आ प्रसवात्#} {%bis zur Niederkunft%} 
 <ls>ŚĀK. 71, 10.</ls> {#प्रसवोन्मुखी#} 
 <ls>RAGH. 3, 12.</ls> {#उपस्थितप्रसवा#} 
 <ls>SUŚR. 1, 368, 5.</ls> {#निवृत्तप्रसवा#} 
@@ -30,14 +30,14 @@
 <ls>AK. 3, 4, 211.</ls> 
 <div n="1">— 2) {%Geburtsstätte%} 
 <ls>MBH. 14, 1402.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 239.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 239.</ls> 
 <div n="1">— 3) sg. und pl. {%progenies, Nachkommenschaft%} 
 <ls>AK. 3, 4, 27, 210.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>M. 3, 22. 9, 55. 145.</ls> 
 <ls>BRĀHMAṆ. 3, 15.</ls> 
-<ls>MBH. 1, 1563</ls> <ls>?= 2161. 7831. fgg. 3, 8558. 9, 2115. 13, 205. 4144. HARIV. 4001. R. 6, 93, 15. SUŚR. 2, 509, 12. RAGH. 1, 22. 8, 30. BHĀG. P. 6, 6, 3. Schol. zu KĀTY. ŚR. 1047, 24.</ls> {#स°#} {%Nachkommenschaft habend%} 
+<ls>MBH. 1, 1563</ls> = <ls n="MBH. 1,">2161.</ls> <ls n="MBH. 1,">7831. fgg.</ls> <ls n="MBH.">3, 8558.</ls> <ls n="MBH.">9, 2115.</ls> <ls n="MBH.">13, 205.</ls> <ls n="MBH. 13,">4144.</ls> <ls>HARIV. 4001.</ls> <ls>R. 6, 93, 15.</ls> <ls>SUŚR. 2, 509, 12.</ls> <ls>RAGH. 1, 22. 8, 30.</ls> <ls>BHĀG. P. 6, 6, 3.</ls> Schol. zu <ls>KĀTY. ŚR. 1047, 24.</ls> {#स°#} {%Nachkommenschaft habend%} 
 <ls>Spr. 4095.</ls> {#अन्तःप्रसवा#} {%schwanger%} 
 <ls>HARIV. 1348.</ls> {#सप्रसवा#} dass. 
 <ls>DHŪRTAS. 76, 7.</ls> {#वीरप्रसवा भव#} 

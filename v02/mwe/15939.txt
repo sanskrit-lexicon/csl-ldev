@@ -1,8 +1,8 @@
 <L>15939<pc>390-a<k1>infusion<k2>infusion
-<div n="lb"/>INFUSION¦, {%s.%} (Act of pouring in) {#आसेकः, आसेचनं, प्रक्षेपः -पणं,#}
-<div n="lb"/>{#मिश्रणं, मिश्रीकरणं, सम्मिश्रणं#}. — (Act of introducing) {#निवेशनं,#}
-<div n="lb"/>{#प्रवेशनं#}. — (Suggestion, instruction) {#उपन्यासः, प्रबोधः -धनं,#}
-<div n="lb"/>{#उपदेशः#}. — (Process of steeping) {#वासनं, भावनं, क्वथनं, निष्क्वाथः#}.
-<div n="lb"/> — (The liquor in which plants are steeped) {#कषायः -यं, रसः,#}
-<div n="lb"/>{#निर्य्यासः, निर्य्यूहः, क्वाथः#}.
+INFUSION¦, {%s.%} (Act of pouring in) {#आसेकः, आसेचनं, प्रक्षेपः -पणं,#}
+{#मिश्रणं, मिश्रीकरणं, सम्मिश्रणं#}. — (Act of introducing) {#निवेशनं,#}
+{#प्रवेशनं#}. — (Suggestion, instruction) {#उपन्यासः, प्रबोधः -धनं,#}
+{#उपदेशः#}. — (Process of steeping) {#वासनं, भावनं, क्वथनं, निष्क्वाथः#}.
+ — (The liquor in which plants are steeped) {#कषायः -यं, रसः,#}
+{#निर्य्यासः, निर्य्यूहः, क्वाथः#}.
 <LEND>

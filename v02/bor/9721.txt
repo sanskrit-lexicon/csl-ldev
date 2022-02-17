@@ -1,6 +1,6 @@
 <L>9721<pc>307<k1>gather<k2>gather
-<div n="lb"/>{@GATHER@}¦ (v.i.): <div n="I">I To assemble: {#एकत्र#} <div n="xe">{%or%}</div> <div n="xs">{#एकस्थ#}</div>
-<div n="lb"/>(f. {#स्था#}) {#भवति;#} {%come, let us quickly g.%} ({%round her%});
-<div n="lb"/>{#तदेहि, शीघ्रमेकस्था भवाम।#} </div><div n="I">II To foster: {#पच्यते#}
-<div n="lb"/>(pass. of {#पच्#}), Bha.</div>
+{@GATHER@}¦ (v.i.): <div n="I">I To assemble: {#एकत्र#} <div n="xe">{%or%}</div> <div n="xs">{#एकस्थ#}</div>
+(f. {#स्था#}) {#भवति;#} {%come, let us quickly g.%} ({%round her%});
+{#तदेहि, शीघ्रमेकस्था भवाम।#} </div><div n="I">II To foster: {#पच्यते#}
+(pass. of {#पच्#}), Bha.</div>
 <LEND>

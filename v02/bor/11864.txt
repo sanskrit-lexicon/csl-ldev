@@ -1,6 +1,6 @@
 <L>11864<pc>370<k1>incline<k2>incline
-<div n="lb"/>{@INCLINE@}¦ (v. i.): <div n="I">I To lean: {#नमति#} ({#नम्,#} c. 1.).</div>
-<div n="lb"/><div n="I">II To be disposed: expr. by {#-प्रवण#} (f. {#णा#})
-<div n="lb"/>in comp. {%or%} by {#अभिलाषः#} (= desire), <div n="xe">{%however%}
-<div n="lb"/>{%my mind is i. d:%}</div> <div n="xs">{#यथाविधो मे मनसोऽभिलाषः,#}</div> R.</div>
+{@INCLINE@}¦ (v. i.): <div n="I">I To lean: {#नमति#} ({#नम्,#} c. 1.).</div>
+<div n="I">II To be disposed: expr. by {#-प्रवण#} (f. {#णा#})
+in comp. {%or%} by {#अभिलाषः#} (= desire), <div n="xe">{%however%}
+{%my mind is i. d:%}</div> <div n="xs">{#यथाविधो मे मनसोऽभिलाषः,#}</div> R.</div>
 <LEND>

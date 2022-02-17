@@ -1,7 +1,7 @@
 <L>586<pc>022<k1>alliance<k2>alliance
-<div n="lb"/>{@ALLIANCE:@}¦ A union between states: {#सन्धिः;#}
-<div n="lb"/><div n="xe">{%offensive and defensive a.%}</div> <div n="xs">{#परस्परोपकारसन्धिः,#}</div> <ls>H.</ls>
-<div n="lb"/>iv.: v. Treaty, league. <div n="I">II Union arising
-<div n="lb"/>from marriage: {#सम्बन्धः#} <div n="xe">{%matrimonial a.%}</div> <div n="xs">{#वैवाहिकः #}
-<div n="lb"/>{# सम्बन्धः।#}</div></div>
+{@ALLIANCE:@}¦ A union between states: {#सन्धिः;#}
+<div n="xe">{%offensive and defensive a.%}</div> <div n="xs">{#परस्परोपकारसन्धिः,#}</div> <ls>H.</ls>
+iv.: v. Treaty, league. <div n="I">II Union arising
+from marriage: {#सम्बन्धः#} <div n="xe">{%matrimonial a.%}</div> <div n="xs">{#वैवाहिकः #}
+{# सम्बन्धः।#}</div></div>
 <LEND>

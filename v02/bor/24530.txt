@@ -1,11 +1,11 @@
 <L>24530<pc>769<k1>write<k2>write
-<div n="lb"/>{@WRITE:@}¦ {#लिखति#} ({#लिख्,#} c. 6.), <div n="xe">{%to w. with one's%}
-<div n="lb"/>{%own hand:%}</div> <div n="xs">{#स्वहस्तेन लिखति,#}</div> Y. ii. 89.; <div n="xe">{%I saw this%}
-<div n="lb"/>{%couplet written on it:%}</div> <div n="xs">{#तस्यामिमाममिलिखितामार्या-#}
-<div n="lb"/>{#मपश्यम्,#}</div> K.; <div n="xe">{%he has written this back:%}</div> <div n="xs">{#इदमनेन #}
-<div n="lb"/>{# प्रतिलिखितम्,#}</div> Mal. i.; <div n="xe">{%getting a letter written by%}
-<div n="lb"/>{%Śakaṭadāsa in these words:%}</div> <div n="xs">{#एभिरक्षरैर्लेखं शकट-#}
-<div n="lb"/>{#दासेन लेखयित्वा,#}</div> Mu. i.; <div n="xe">{%what is not written on%}
-<div n="lb"/>{%our minds:%}</div> <div n="xs">{#अस्माकं चेतसि किं नाम न लिखितमस्ति,#}</div>
-<div n="lb"/>Ana. vii.: v. Also to compose.
+{@WRITE:@}¦ {#लिखति#} ({#लिख्,#} c. 6.), <div n="xe">{%to w. with one's%}
+{%own hand:%}</div> <div n="xs">{#स्वहस्तेन लिखति,#}</div> Y. ii. 89.; <div n="xe">{%I saw this%}
+{%couplet written on it:%}</div> <div n="xs">{#तस्यामिमाममिलिखितामार्या-#}
+{#मपश्यम्,#}</div> K.; <div n="xe">{%he has written this back:%}</div> <div n="xs">{#इदमनेन #}
+{# प्रतिलिखितम्,#}</div> Mal. i.; <div n="xe">{%getting a letter written by%}
+{%Śakaṭadāsa in these words:%}</div> <div n="xs">{#एभिरक्षरैर्लेखं शकट-#}
+{#दासेन लेखयित्वा,#}</div> Mu. i.; <div n="xe">{%what is not written on%}
+{%our minds:%}</div> <div n="xs">{#अस्माकं चेतसि किं नाम न लिखितमस्ति,#}</div>
+Ana. vii.: v. Also to compose.
 <LEND>

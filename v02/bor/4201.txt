@@ -1,5 +1,5 @@
 <L>4201<pc>136<k1>competence<k2>competence
-<div n="lb"/>{@COMPETENCE, COMPETENCY:@}¦ <div n="1">(1) {#सामर्थ्यम्;#} </div><div n="1">(2)
-<div n="lb"/>{#शक्तिः,#} <div n="xe">{%according to one's c.%}</div> <div n="xs">{#शक्त्यपेक्षम्,#}</div> N.: v.
-<div n="lb"/>Ability, sufficiency.</div>
+{@COMPETENCE, COMPETENCY:@}¦ <div n="1">(1) {#सामर्थ्यम्;#} </div><div n="1">(2)
+{#शक्तिः,#} <div n="xe">{%according to one's c.%}</div> <div n="xs">{#शक्त्यपेक्षम्,#}</div> N.: v.
+Ability, sufficiency.</div>
 <LEND>

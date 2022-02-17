@@ -1,6 +1,6 @@
 <L>5886<pc>189<k1>depress<k2>depress
-<div n="lb"/>{@DEPRESS@}¦ (v.): <div n="I">I Lit.: to press down:
-<div n="lb"/>{#पातयति#} (c. of {#पत्#}). </div><div n="I">II To humble: {#लघूकरोति।#}</div>
-<div n="lb"/><div n="I">III To deject, discourage: </div><div n="1">(1) {#विषादं#} {%or%}
-<div n="lb"/>{#वैमनस्यं जनयति;#} </div><div n="1">(2) {#खेदयति#} (c. of {#खिद्#}).</div>
+{@DEPRESS@}¦ (v.): <div n="I">I Lit.: to press down:
+{#पातयति#} (c. of {#पत्#}). </div><div n="I">II To humble: {#लघूकरोति।#}</div>
+<div n="I">III To deject, discourage: </div><div n="1">(1) {#विषादं#} {%or%}
+{#वैमनस्यं जनयति;#} </div><div n="1">(2) {#खेदयति#} (c. of {#खिद्#}).</div>
 <LEND>

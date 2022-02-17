@@ -1,10 +1,10 @@
 <L>6524<pc>209<k1>dispute<k2>dispute
-<div n="lb"/>{@DISPUTE@}¦ (v.): <div n="I">I To debate, altercate: </div><div n="1">(1)
-<div n="lb"/>{#विवदते#} ({#वद्,#} c. 1.), <div n="xe">{%by the cries of people d. ing%}
-<div n="lb"/>{%amongst themselves:%}</div> <div n="xs">{#अन्योन्यं विवदमानानां प्रजाना-#}
-<div n="lb"/>{#माक्रोशैः,#}</div> D. viii.; </div><div n="1">(2) {#कलहायते#} (nomi.) (= to
-<div n="lb"/>quarrel), {%d. ing with a sage named Mandu:%}
-<div n="lb"/>{#मन्दुनाम्ना मुनिना सह कलहायमानः,#} C. Ph.: <div n="xe">{%a d. d%}
-<div n="lb"/>{%point:%}</div> <div n="xs">{#विवादपदम्,#}</div> M. </div><div n="I">II To deny: q. v.: {#विवदते,#}
-<div n="lb"/><div n="xe">{%it is not to be d. d here:%}</div> <div n="xs">{#नैवात्र विवदितव्यम्,#}</div> S.</div>
+{@DISPUTE@}¦ (v.): <div n="I">I To debate, altercate: </div><div n="1">(1)
+{#विवदते#} ({#वद्,#} c. 1.), <div n="xe">{%by the cries of people d. ing%}
+{%amongst themselves:%}</div> <div n="xs">{#अन्योन्यं विवदमानानां प्रजाना-#}
+{#माक्रोशैः,#}</div> D. viii.; </div><div n="1">(2) {#कलहायते#} (nomi.) (= to
+quarrel), {%d. ing with a sage named Mandu:%}
+{#मन्दुनाम्ना मुनिना सह कलहायमानः,#} C. Ph.: <div n="xe">{%a d. d%}
+{%point:%}</div> <div n="xs">{#विवादपदम्,#}</div> M. </div><div n="I">II To deny: q. v.: {#विवदते,#}
+<div n="xe">{%it is not to be d. d here:%}</div> <div n="xs">{#नैवात्र विवदितव्यम्,#}</div> S.</div>
 <LEND>

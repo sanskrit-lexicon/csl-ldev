@@ -5,12 +5,12 @@
 <ls>H. 89.</ls> 
 <ls>an. 2, 256.</ls> 
 <ls>MED. dh. 26.</ls> <ls>HALĀY. 1, 133.</ls> {#सुधां क्षीरनिधिं मथ्नाति#} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,4,51.</ls> <ls>MBH.1,8322.3,13158.13161.</ls> <ls>HARIV.373.</ls> <ls>R.2,61,13.5,3,68.</ls> {#चान्द्रमसी#} 
+<ls>SIDDH. K.</ls> zu <ls>P. 1, 4, 51.</ls> <ls>MBH. 1, 8322.</ls> <ls n="MBH.">3, 13158.</ls> <ls n="MBH. 3,">13161.</ls> <ls>HARIV. 373.</ls> <ls>R. 2,61,13.5,3,68.</ls> {#चान्द्रमसी#} 
 <ls>RAGH. 2, 39.</ls> Speise der Schlangen 
 <ls>Spr. (II) 5148.</ls> 
 <ls>SUŚR. 1, 159, 4.</ls> {#त्वदधरसीधुसुधा#} 
 <ls>GĪT. 10, 12.</ls> 
-<ls>Spr. (II) 1537. 2817. 3239. 4005. 4680. 4881. 5897. 5934. 6330. 6413. 7599.</ls> 
+<ls>Spr. (II) 1537.</ls> <ls n="Spr. (II)">2817.</ls> <ls n="Spr. (II)">3239.</ls> <ls n="Spr. (II)">4005.</ls> <ls n="Spr. (II)">4680.</ls> <ls n="Spr. (II)">4881.</ls> <ls n="Spr. (II)">5897.</ls> <ls n="Spr. (II)">5934.</ls> <ls n="Spr. (II)">6330.</ls> <ls n="Spr. (II)">6413.</ls> <ls n="Spr. (II)">7599.</ls> 
 <ls>KATHĀS. 12, 139. 29, 58. 42, 224.</ls> 
 <ls>MĀRK. P. 81, 54.</ls> 
 <ls>CAURAP. 46.</ls> {#वाणी °स्पर्धिनी#} 
@@ -33,13 +33,13 @@
 <ls>BHĀG. P. 3, 16, 11.</ls> 
 <div n="1">— 2) {%Milch%} 
 <ls>VARĀH. BṚH. S. 54, 112.</ls> 
-<ls>PAÑCAR. 1, 8, 5</ls> <ls>?(pl.). 3, 9, 3.</ls> 
+<ls>PAÑCAR. 1, 8, 5</ls> (pl.). <ls>3, 9, 3.</ls> 
 <div n="1">— 3) {%Kalk, stucco%} 
 <ls>AK. 3, 4, 18, 104.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HĀR. 135.</ls> 
-<ls>DHANV. 2, 10. 32, 13</ls> {#(°शर्कराः)#}.{# (गृहम्) सुधया सितम्#} 
+<ls>DHANV. 2, 10. 32, 13</ls> ({#°शर्कराः#}).{# (गृहम्) सुधया सितम्#} 
 <ls>R. 4, 33, 21.</ls> {#°मृत्तिकलेपन#} 
 <ls>MBH. 5, 7477.</ls> {#°पङ्कविलेपन#} 
 <ls>HARIV. 6281.</ls> {#ससुधाकुट्टिमतल#} 
@@ -48,7 +48,7 @@
 <ls>ŚIŚ. 4, 28.</ls> {#°द्रवानुलेप#} 
 <ls>MṚCCH. 92, 6.</ls> {#°भित्ति#} 
 <ls>DAŚAK. 92, 6.</ls> {#सुधावदात#} 
-<ls>MBH. 5, 1794. 13, 764.</ls> 
+<ls>MBH. 5, 1794.</ls> <ls n="MBH.">13, 764.</ls> 
 <ls>R. 4, 33, 10.</ls> {#°शशाङ्कघवल#} 
 <ls>VARĀH. BṚH. S. 28, 15.</ls> {#°धवलित#} 
 <ls>HALĀY. 2, 139.</ls> <ls>WEBER, KṚṢṆAJ. 278.</ls> {#°शुभ्र#} 
@@ -71,8 +71,8 @@
 <ls>ŚABDAC.</ls> ebend. 
 <div n="1">— 7) {%Blitz%} 
 <ls>NĀNĀRTHADHVANIM.</ls> ebend. 
-<div n="1">— 8) {%ein best. Metrum: 4 Mal%} ˘ ¯ ¯ ¯ ¯ ¯ ˘ ˘ ˘ ˘ ˘ ¯, ¯ ¯ ˘ ˘ ˘ ¯  
-<ls>COLEBR. Misc. Ess. 2, 162</ls> <ls>?(XIII, 3). Ind. St. 8, 398. fg.</ls> 
+<div n="1">— 8) {%ein best. Metrum: 4 Mal%} ˘ ¯ ¯ ¯ ¯ ¯ ˘ ˘ ˘ ˘ ˘ ¯, ¯ ¯ ˘ ˘ ˘ ¯ 
+<ls>COLEBR. Misc. Ess. 2, 162</ls> (<ls>XIII, 3).</ls> <ls>Ind. St. 8, 398. fg.</ls> 
 <div n="1">— 9) ein N. der <is>Gaṅgā</is> 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 10) N. pr. der Gemahlin eines <is>Rudra</is> 

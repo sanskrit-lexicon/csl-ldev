@@ -1,9 +1,9 @@
 <L>337<pc>013<k1>advance<k2>advance
-<div n="lb"/>{@ADVANCE@}¦ (v. t.): <div n="I">I To bring forward
-<div n="lb"/>{#अभिमुखं चालयति#} (c. of {#चल्#}) <div n="xe">{%or%}</div> <div n="xs">{#नयति#}</div> ({#नी,#}
-<div n="lb"/>c. 1.) </div><div n="I">II To promote, forward: q. v.:
-<div n="lb"/>{#वर्द्धयति#} (c. of {#वृध्#}) </div><div n="I">III To offer {%or%} propose (as
-<div n="lb"/>an opinion): q. v. </div><div n="I">IV To pay before-
-<div n="lb"/>-hand: Ph. <div n="xe">{%a. d 500 rupees for the bridge%}</div> <div n="xs">{#*सेतु-#}
-<div n="lb"/>{#बन्धनार्थं पञ्चशतरूप्यमुद्राः प्रागेव दत्तवान्।#}</div></div>
+{@ADVANCE@}¦ (v. t.): <div n="I">I To bring forward
+{#अभिमुखं चालयति#} (c. of {#चल्#}) <div n="xe">{%or%}</div> <div n="xs">{#नयति#}</div> ({#नी,#}
+c. 1.) </div><div n="I">II To promote, forward: q. v.:
+{#वर्द्धयति#} (c. of {#वृध्#}) </div><div n="I">III To offer {%or%} propose (as
+an opinion): q. v. </div><div n="I">IV To pay before-
+-hand: Ph. <div n="xe">{%a. d 500 rupees for the bridge%}</div> <div n="xs">{#*सेतु-#}
+{#बन्धनार्थं पञ्चशतरूप्यमुद्राः प्रागेव दत्तवान्।#}</div></div>
 <LEND>

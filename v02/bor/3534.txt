@@ -1,6 +1,6 @@
 <L>3534<pc>117<k1>chess<k2>chess
-<div n="lb"/>{@CHESS:@}¦ {#चतुरङ्गम्।#} {%C. -board:%} <div n="1">(1) {#शारिफलम्;#} </div><div n="1">(2)
-<div n="lb"/>{#अष्टपादम्।#} <div n="xe">{%King of c.:%}</div> <div n="xs">{#राजा;#}</div> <div n="xe">{%queen:%}</div> <div n="xs">{#राज्ञी;#}</div>
-<div n="lb"/><div n="xe">{%bishop:%}</div> <div n="xs">{#गजः;#}</div> <div n="xe">{%knight:%}</div> <div n="xs">{#अश्वः;#}</div> <div n="xe">{%castle:%}</div> <div n="xs">{#नौः;#}</div>
-<div n="lb"/><div n="xe">{%pawn:%}</div> <div n="xs">{#पदातिः;#}</div> <div n="xe">{%c. man:%}</div> <div n="xs">{#शारः।#}</div></div>
+{@CHESS:@}¦ {#चतुरङ्गम्।#} {%C. -board:%} <div n="1">(1) {#शारिफलम्;#} </div><div n="1">(2)
+{#अष्टपादम्।#} <div n="xe">{%King of c.:%}</div> <div n="xs">{#राजा;#}</div> <div n="xe">{%queen:%}</div> <div n="xs">{#राज्ञी;#}</div>
+<div n="xe">{%bishop:%}</div> <div n="xs">{#गजः;#}</div> <div n="xe">{%knight:%}</div> <div n="xs">{#अश्वः;#}</div> <div n="xe">{%castle:%}</div> <div n="xs">{#नौः;#}</div>
+<div n="xe">{%pawn:%}</div> <div n="xs">{#पदातिः;#}</div> <div n="xe">{%c. man:%}</div> <div n="xs">{#शारः।#}</div></div>
 <LEND>

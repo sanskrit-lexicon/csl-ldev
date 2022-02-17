@@ -1,7 +1,7 @@
 <L>9168<pc>290<k1>forebode<k2>forebode
-<div n="lb"/>{@FOREBODE:@}¦ <div n="1">(1) {#सूचयति, वि-, आ-,#} ({#सूच्,#} c. 10.)
-<div n="lb"/>(= to indicate), <div n="xe">{%this omen is good-f. ing:%}</div> <div n="xs">{#कल्याण-#}
-<div n="lb"/>{#सूचकमिदं निमित्तम्,#}</div> Sa. i.; </div><div n="1">(2) {#कथयति#} (= to tell),
-<div n="lb"/><div n="xe">{%f. s terrible death:%}</div> <div n="xs">{#कथयति महाघोरं मृत्युम्,#}</div> Mr. ix.:
-<div n="lb"/>v. To bespeak.</div>
+{@FOREBODE:@}¦ <div n="1">(1) {#सूचयति, वि-, आ-,#} ({#सूच्,#} c. 10.)
+(= to indicate), <div n="xe">{%this omen is good-f. ing:%}</div> <div n="xs">{#कल्याण-#}
+{#सूचकमिदं निमित्तम्,#}</div> Sa. i.; </div><div n="1">(2) {#कथयति#} (= to tell),
+<div n="xe">{%f. s terrible death:%}</div> <div n="xs">{#कथयति महाघोरं मृत्युम्,#}</div> Mr. ix.:
+v. To bespeak.</div>
 <LEND>

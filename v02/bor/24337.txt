@@ -1,8 +1,8 @@
 <L>24337<pc>761<k1>wicked<k2>wicked
-<div n="lb"/>{@WICKED:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#दुष्ट#} (f. {#ष्टा#}); </div><div n="1">(2)
-<div n="lb"/>{#दुर्वृत्त#} (f. {#त्ता#}); </div><div n="1">(3) {#दुरात्मन्#} (mfn.); </div><div n="1">(3) {#पाप-#}
-<div n="lb"/>{#कर्मन्#} (mfn.); </div><div n="1">(5) {#पामर#} (f. {#रा#}); </div><div n="1">(6) {#खल#} (f.
-<div n="lb"/>{#ला#}); </div><div n="1">(7) {#पापमति#} (mfn.) and sim. comp. s.</div>
-<div n="lb"/><div n="I">II Of acts: </div><div n="1">(1) {#दुष्ट#} (f. {#ष्टा#}); </div><div n="1">(2) {#पाप-#} in
-<div n="lb"/>comp.</div>
+{@WICKED:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#दुष्ट#} (f. {#ष्टा#}); </div><div n="1">(2)
+{#दुर्वृत्त#} (f. {#त्ता#}); </div><div n="1">(3) {#दुरात्मन्#} (mfn.); </div><div n="1">(3) {#पाप-#}
+{#कर्मन्#} (mfn.); </div><div n="1">(5) {#पामर#} (f. {#रा#}); </div><div n="1">(6) {#खल#} (f.
+{#ला#}); </div><div n="1">(7) {#पापमति#} (mfn.) and sim. comp. s.</div>
+<div n="I">II Of acts: </div><div n="1">(1) {#दुष्ट#} (f. {#ष्टा#}); </div><div n="1">(2) {#पाप-#} in
+comp.</div>
 <LEND>

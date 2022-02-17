@@ -1,15 +1,15 @@
 <L>6906<pc>458-1<k1>माहेन्द्र<k2>माहेन्द्र
-{@Māhendra,@}¦ adj. (“belonging to Mahendra [i.e. Indra]”).
-<div n="lb">§ 568 (Vidulāputraśāsana): V, {@134,@} 4562 ({%pragrahaṃ,%} C.;
-<div n="lb">{%ca graham,%} B.).—§ 570 (Sainyaniryāṇap.): V, {@158,@} 5353
-<div n="lb">({%dhanuh,%} i.e. Vijaya), 5354 {%(dhanur Vijayaṃ).%}—§ 572
-<div n="lb">(Rathatirathasaṅkhyānap.): V, {@169,@} 5870 ({%astragrāmaḥ,%}
-<div n="lb">acquired by Arjuna).—§ 580 (Bhīṣmavadhap.): VI, {@59,@}
-<div n="lb">†2624 ({%astraṃ,%} employed by Arjuna).—§ 592 (Saṃśaptaka-
-<div n="lb">vadhap.): VII, {@23<lang n="greek"></lang>,@} 1038 ({%dhanuḥ,%} held by Yudhiṣṭhira).—
-<div n="lb">§ 600 (Ghaṭotkacavadhap.): VII, {@157,@} †6958 ({%astraṃ,%}
-<div n="lb">employed by Yudhiṣṭhira).—§ 601 (Droṇavadhap.): VII,
-<div n="lb">{@184,@} 8408 {%(°īdik).%}—§ 615{%u%} (Skanda): IX, {@46<lang n="greek"></lang>,@} 2655 ({%°yaḥ,%}
-<div n="lb">sc. {%mātaraḥ%}).—§ 635 (Rājadh.): XII, {@38,@} 1428 ({%°āśaninir-%}
-<div n="lb">{%dagdhaḥ,%} but B. has {%Ma°%}).
+{@Māhendra@},¦ adj. (“belonging to Mahendra [i.e. Indra]”).
+§ 568 (Vidulāputraśāsana): V, {@134@}, 4562 ({%pragrahaṃ%}, C.;
+{%ca graham%}, B.).—§ 570 (Sainyaniryāṇap.): V, {@158@}, 5353
+({%dhanuh%}, i.e. Vijaya), 5354 ({%dhanur Vijayaṃ%}).—§ 572
+(Rathatirathasaṅkhyānap.): V, {@169@}, 5870 ({%astragrāmaḥ%},
+acquired by Arjuna).—§ 580 (Bhīṣmavadhap.): VI, {@59@},
+†2624 ({%astraṃ%}, employed by Arjuna).—§ 592 (Saṃśaptaka-
+vadhap.): VII, {@23@}<lang n="greek">ρ</lang>, 1038 ({%dhanuḥ%}, held by Yudhiṣṭhira).—
+§ 600 (Ghaṭotkacavadhap.): VII, {@157@}, †6958 ({%astraṃ%},
+employed by Yudhiṣṭhira).—§ 601 (Droṇavadhap.): VII,
+{@184@}, 8408 ({%°īdik%}).—§ 615{%u%} (Skanda): IX, {@46@}<lang n="greek">ι</lang>, 2655 ({%°yaḥ%},
+sc. {%mātaraḥ%}).—§ 635 (Rājadh.): XII, {@38@}, 1428 ({%°āśaninir-%}
+{%dagdhaḥ%}, but B. has {%Ma°%}).
 <LEND>

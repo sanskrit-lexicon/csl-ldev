@@ -1,4 +1,4 @@
 <L>2783<pc>094<k1>burglarious<k2>burglarious
-<div n="lb"/>{@BURGLARIOUS:@}¦ Ph. <div n="xe">{%b. entry%}</div> <div n="xs">{#*जिहीर्षया#}</div> <div n="xe">{%or%}</div> <div n="xs">{#चुचोर-#}
-<div n="lb"/>{#यिषया परगृहप्रवेशः।#}</div>
+{@BURGLARIOUS:@}¦ Ph. <div n="xe">{%b. entry%}</div> <div n="xs">{#*जिहीर्षया#}</div> <div n="xe">{%or%}</div> <div n="xs">{#चुचोर-#}
+{#यिषया परगृहप्रवेशः।#}</div>
 <LEND>

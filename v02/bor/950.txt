@@ -1,4 +1,4 @@
 <L>950<pc>033<k1>applicant<k2>applicant
-<div n="lb"/>{@APPLICANT:@}¦ <div n="1">(1) {#अर्थी;#} </div><div n="1">(2) {#प्रार्थयिता;#} </div><div n="1">(3) {#याचकः:#}
-<div n="lb"/>v. Petitioner.</div>
+{@APPLICANT:@}¦ <div n="1">(1) {#अर्थी;#} </div><div n="1">(2) {#प्रार्थयिता;#} </div><div n="1">(3) {#याचकः:#}
+v. Petitioner.</div>
 <LEND>

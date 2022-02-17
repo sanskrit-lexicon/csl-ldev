@@ -1,4 +1,4 @@
 <L>22106<pc>697<k1>synodical<k2>synodical
-<div n="lb"/>{@SYNODICAL:@}¦ expr. by comp.; ph.: {%s. month:%}
-<div n="lb"/>{#चान्द्रमासः।#}
+{@SYNODICAL:@}¦ expr. by comp.; ph.: {%s. month:%}
+{#चान्द्रमासः।#}
 <LEND>

@@ -1,5 +1,5 @@
 <L>9587<pc>304<k1>fury<k2>fury
-<div n="lb"/>{@FURY:@}¦ <div n="I">I Madness: {#मत्तता,#} <div n="xe">{%in f.:%}</div> <div n="xs">{#मत्तः#}</div> ({#त्ता, त्तं#}).</div>
-<div n="lb"/><div n="I">II Violence: {#चण्डता, प्र-, उत्-,#} </div><div n="I">III Violent
-<div n="lb"/>rage: {#संरम्भः।#} </div><div n="I">IV A deity: </div><div n="1">(1) {#चण्डा;#} </div><div n="1">(2) {#भैरवी।#}</div>
+{@FURY:@}¦ <div n="I">I Madness: {#मत्तता,#} <div n="xe">{%in f.:%}</div> <div n="xs">{#मत्तः#}</div> ({#त्ता, त्तं#}).</div>
+<div n="I">II Violence: {#चण्डता, प्र-, उत्-,#} </div><div n="I">III Violent
+rage: {#संरम्भः।#} </div><div n="I">IV A deity: </div><div n="1">(1) {#चण्डा;#} </div><div n="1">(2) {#भैरवी।#}</div>
 <LEND>

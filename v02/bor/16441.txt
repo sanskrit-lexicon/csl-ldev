@@ -1,4 +1,4 @@
 <L>16441<pc>504<k1>parol<k2>parol
-<div n="lb"/>{@PAROL,-E:@}¦ <div n="I">I In law: {#उक्तिः,#} <div n="xe">{%p. evidence:%}</div> <div n="xs">{#साक्षि-#}
-<div n="lb"/>{#साक्ष्यम्।#}</div> </div><div n="I">II Promise: q. v.: {#प्रतिज्ञा।#}</div>
+{@PAROL,-E:@}¦ <div n="I">I In law: {#उक्तिः,#} <div n="xe">{%p. evidence:%}</div> <div n="xs">{#साक्षि-#}
+{#साक्ष्यम्।#}</div> </div><div n="I">II Promise: q. v.: {#प्रतिज्ञा।#}</div>
 <LEND>

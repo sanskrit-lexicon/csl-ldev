@@ -25,7 +25,7 @@
 <div n="2">— c) {%das zur-Ruhe-Gehen; zur-Ruhe-Bringen%}: {#नि\वेश^ने प्रस\वे च^#} 
 <ls>ṚV. 6, 71, 2.</ls> {#अवसाननिवेशनानुचरणानि#} 
 <ls>KAUŚ. 43.</ls> {#निवेशनं कर्#} {%sich niederlassen, ein Lager beziehen%} (könnte eben so wohl zu {%e.%} gestellt werden) 
-<ls>MBH. 3, 14849. 14, 1901.</ls> {#सैन्य°#} {%das Heer Lager beziehen lassen%} 
+<ls>MBH. 3, 14849.</ls> <ls n="MBH.">14, 1901.</ls> {#सैन्य°#} {%das Heer Lager beziehen lassen%} 
 <ls>KULL.</ls> zu <ls>M. 7, 154</ls>; hiernach ist 
 <ls>KĀM. NĪTIS. 5, 78</ls> st. {#शून्यानां निवेशनम्#} zu lesen {#सैन्यानां नि°#}.{# ते रक्तसूर्ये दिवसे तत्र यादवपुंगवाः । सेनापालाश्च संचक्रु स्कन्धावारनिवेशनम् ॥#} 
 <ls>HARIV. 6416. fg.</ls> 
@@ -41,14 +41,14 @@
 <ls>N. 3, 11. 4, 25. 15, 18. 17, 4. 24, 23.</ls> 
 <ls>INDR. 3, 2.</ls> 
 <ls>BRĀHMAṆ. 1, 3.</ls> 
-<ls>MBH. 1, 382. 7809. 12, 3371. 13, 1672. 5073.</ls> 
+<ls>MBH. 1, 382.</ls> <ls n="MBH. 1,">7809.</ls> <ls n="MBH.">12, 3371.</ls> <ls n="MBH.">13, 1672.</ls> <ls n="MBH. 13,">5073.</ls> 
 <ls>R. 1, 9, 43. 2, 32, 1. 3. 3, 53, 3. 5, 12, 8. 56, 74.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. 56, 11.</ls> <ls>MĀRK. P. 16, 19.</ls> {#गच्छ शीघ्रम् - पाञ्चालराजस्य चमूनिवेशनम्#} {%Heerlager%} 
+<ls>BRAHMA-P. in LA. 56, 11.</ls> <ls>MĀRK. P. 16, 19.</ls> {#गच्छ शीघ्रम् - पाञ्चालराजस्य चमूनिवेशनम्#} {%Heerlager%} 
 <ls>MBH. 5, 680.</ls> {#स्कन्धावार°#} 
 <ls>9, 1659.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आः सुसंमृष्टनिवेशना#} 
-<ls>MBH. 3, 14674. 12, 5338. 13, 5876. 6460.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 5, 15.</ls> {%Stadt%} 
+<ls>MBH. 3, 14674.</ls> <ls n="MBH.">12, 5338.</ls> <ls n="MBH.">13, 5876.</ls> <ls n="MBH. 13,">6460.</ls> 
+
+<ls>R. GORR. 1, 5, 15.</ls> {%Stadt%} 
 <ls>H. 972.</ls> {#कैकेयानाम्#} 
 <ls>R. 4, 43, 24.</ls> halb so klein wie {#निगम#} 
 <ls>VĀCASP.</ls> zu <ls>H. 972.</ls> 

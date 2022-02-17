@@ -1,9 +1,9 @@
 <L>21248<pc>669<k1>spread<k2>spread
-<div n="lb"/>{@SPREAD@}¦ (v. t.): <div n="1">(1) {#तनोति, वि-, प्र-,#} ({#तन्,#} c. 8.),
-<div n="lb"/>{%s. s his white fame by his excellent qualities:%}
-<div n="lb"/>{#तनोति शुभ्रं गुणसम्पदा यशः,#} Ki. i. 8.; </div><div n="1">(2)
-<div n="lb"/>{#विस्तारयति#} <div n="xe">{%or%}</div> <div n="xs">{#स्तॄणाति, आ-, वि-,#}</div> (c. of {#स्तृ#} 10 and
-<div n="lb"/>{#स्तॄ,#} c. 9.), <div n="xe">{%he s. the net:%}</div> <div n="xs">{#तेन जालं विस्तीर्णम्,#}</div> H.;</div>
-<div n="lb"/><div n="1">(3) {#प्रसारयति, वि-,#} (c. of {#सृ#}); </div><div n="1">(4) {#प्रसर्पयति#}
-<div n="lb"/>(c. of {#सृप्#}).</div>
+{@SPREAD@}¦ (v. t.): <div n="1">(1) {#तनोति, वि-, प्र-,#} ({#तन्,#} c. 8.),
+{%s. s his white fame by his excellent qualities:%}
+{#तनोति शुभ्रं गुणसम्पदा यशः,#} Ki. i. 8.; </div><div n="1">(2)
+{#विस्तारयति#} <div n="xe">{%or%}</div> <div n="xs">{#स्तॄणाति, आ-, वि-,#}</div> (c. of {#स्तृ#} 10 and
+{#स्तॄ,#} c. 9.), <div n="xe">{%he s. the net:%}</div> <div n="xs">{#तेन जालं विस्तीर्णम्,#}</div> H.;</div>
+<div n="1">(3) {#प्रसारयति, वि-,#} (c. of {#सृ#}); </div><div n="1">(4) {#प्रसर्पयति#}
+(c. of {#सृप्#}).</div>
 <LEND>

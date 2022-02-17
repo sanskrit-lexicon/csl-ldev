@@ -1,3 +1,3 @@
 <L>20702<pc>650<k1>slaughterhouse<k2>slaughterhouse
-<div n="lb"/>{@SLAUGHTERHOUSE:@}¦ {#सू(शू)ना;#} <div n="xe">{%its owner:%}</div> <div n="xs">{#सौनिकः।#}</div>
+{@SLAUGHTERHOUSE:@}¦ {#सू(शू)ना;#} <div n="xe">{%its owner:%}</div> <div n="xs">{#सौनिकः।#}</div>
 <LEND>

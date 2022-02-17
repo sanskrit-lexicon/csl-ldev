@@ -1,4 +1,4 @@
 <L>3770<pc>123<k1>classification<k2>classification
-<div n="lb"/>{@CLASSIFICATION:@}¦ <div n="1">(1) {#वर्गनिर्देशः#} (?); </div><div n="1">(2) {#वर्गी-#}
-<div n="lb"/>{#करणम्#} (?).</div>
+{@CLASSIFICATION:@}¦ <div n="1">(1) {#वर्गनिर्देशः#} (?); </div><div n="1">(2) {#वर्गी-#}
+{#करणम्#} (?).</div>
 <LEND>

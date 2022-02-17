@@ -2,28 +2,28 @@
 {#यादव#}¦ 
 <div n="1"> 1) <lex>adj.</lex> (f. {#ई#}) {%zu%} <is>Yadu</is> {%in Beziehung stehend, von ihm herstammend%}: {#कुल#} 
 <ls>BHĀG. P. 11, 1, 3.</ls> {#वंश#} 
-<ls>HARIV. 5164. 5253.</ls> {#पुरी#} 
-<ls>6987.</ls> {#श्री#} 
-<ls>9595.</ls> {#कृन्या#} 
+<ls>HARIV. 5164.</ls> <ls n="HARIV.">5253.</ls> {#पुरी#} 
+<ls n="HARIV.">6987.</ls> {#श्री#} 
+<ls n="HARIV.">9595.</ls> {#कृन्या#} 
 <ls>MBH. 1, 4367.</ls> {#राजन्#} 
-<ls>RĀJA-TAR. 1, 63.</ls> <lex>m.</lex> {%ein Nachkomme%} <is>Yadu's</is> (=  {#कृष्ण#} 
-<ls>MED. v. 48.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>) <ls>VOP. 7, 1. 9.</ls> <ls>BHAG. 11, 41.</ls> <ls>MBH. 7, 6031.</ls> <ls>HARIV. 4238.</ls> <ls>NALOD. 1, 1</ls> {#(यादवतस्)#}.{# यादवी#} <lex>f.</lex> 
+<ls>RĀJA-TAR. 1, 63.</ls> <lex>m.</lex> {%ein Nachkomme%} <is>Yadu's</is> (= {#कृष्ण#} 
+<ls>MED. v. 48.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>) <ls>VOP. 7, 1. 9.</ls> <ls>BHAG. 11, 41.</ls> <ls>MBH. 7, 6031.</ls> <ls>HARIV. 4238.</ls> <ls>NALOD. 1, 1</ls> ({#यादवतस्#}).{# यादवी#} <lex>f.</lex> 
 <ls>MBH. 1, 3766.</ls> 
-<ls>HARIV. 770. 11069.</ls> 
+<ls>HARIV. 770.</ls> <ls n="HARIV.">11069.</ls> 
 <ls>RĀJA-TAR. 1, 60.</ls> {#°पुत्र#} 
 <ls>MBH. 12, 2660.</ls> {#°मातर्#} <lex>adj.</lex> 
 <ls>15, 89.</ls> {#यादवी#} unter den Namen der <is>Durgā</is> 
 <ls>TRIK. 1, 1, 53.</ls> 
 <ls>H. ś. 48.</ls> pl. {#यादवाः#} <is>Yadu's</is> {%Nachkommen%} 
-<ls>MBH. 1, 3533. 5, 4896. 14, 2479.</ls> 
-<ls>HARIV. 1898. 5180.</ls> 
+<ls>MBH. 1, 3533.</ls> <ls n="MBH.">5, 4896.</ls> <ls n="MBH.">14, 2479.</ls> 
+<ls>HARIV. 1898.</ls> <ls n="HARIV.">5180.</ls> 
 <ls>VP. 418. 441. 609. fgg.</ls> = {#माधवाः, वृष्णयः (वृष्णि = यादव#} 
 <ls>TRIK. 3, 3, 138</ls>) <ls>BHĀG. P. 9, 23, 29.</ls> {#यादवशार्दूल = कृष्ण#} 
 <ls>MBH. 13, 1024.</ls> {#यादवेन्द्र#} desgl. 
 <ls>PAÑCAR. 4, 1, 24.</ls> {#अयादवीं#} (vgl. {#निर्यादव) महीं कर्तुम्#} 
 <ls>BHĀG. P. 10, 50, 3.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Lexicographen 
-<ls>COLEBR. Misc. Ess.</ls> <ls>?II,49. Journ. of the Am. Or. S.6,524. Verz. d. Oxf. H. 113,b,3. 126,a,17. 164,a,4. 182,b,43. 194,a,13.</ls> {#°कोष#} 
+<ls>COLEBR. Misc. Ess. II,49.</ls> <ls>Journ. of the Am. Or. S.6,524.</ls> <ls>Verz. d. Oxf. H. 113,b,3. 126,a,17. 164,a,4. 182,b,43. 194,a,13.</ls> {#°कोष#} 
 <ls>162,b,21.</ls> eines Astronomen 
 <ls>Ind. St. 2, 251. 256. 270. fg.</ls> {#यादवाचार्य#} <lex>m.</lex> N. pr. eines {%Lehrers%} 
 <ls>HALL 203.</ls> {#°पण्डित (= यादवव्यास)#} eines Autors 

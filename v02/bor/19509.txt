@@ -1,5 +1,5 @@
 <L>19509<pc>606<k1>rubber<k2>rubber
-<div n="lb"/>{@RUBBER:@}¦ <div n="I">I Lit.: {#घर्षक#} (f. {#र्षिका#}), etc. </div><div n="I">II
-<div n="lb"/>Whetstone: {#शाणः।#} </div><div n="I">III A towel: {#मार्जनी।#}</div>
-<div n="lb"/><div n="I">IV In cards: {#*संघर्षः।#}</div>
+{@RUBBER:@}¦ <div n="I">I Lit.: {#घर्षक#} (f. {#र्षिका#}), etc. </div><div n="I">II
+Whetstone: {#शाणः।#} </div><div n="I">III A towel: {#मार्जनी।#}</div>
+<div n="I">IV In cards: {#*संघर्षः।#}</div>
 <LEND>

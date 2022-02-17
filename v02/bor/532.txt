@@ -1,4 +1,4 @@
 <L>532<pc>020<k1>alchemist<k2>alchemist
-<div n="lb"/>{@ALCHEMIST:@}¦ <div n="1">(1) {#रसायनविद्#} (?); </div><div n="1">(2) {#रससिद्धः#}
-<div n="lb"/>(?); </div><div n="1">(3) {#रसज्ञः#} (?)</div>
+{@ALCHEMIST:@}¦ <div n="1">(1) {#रसायनविद्#} (?); </div><div n="1">(2) {#रससिद्धः#}
+(?); </div><div n="1">(3) {#रसज्ञः#} (?)</div>
 <LEND>

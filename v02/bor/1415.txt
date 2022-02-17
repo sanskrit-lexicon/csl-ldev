@@ -1,7 +1,7 @@
 <L>1415<pc>050<k1>avail<k2>avail
-<div n="lb"/>{@AVAIL@}¦ (subs): <div n="1">(1) {#गुणः,#} <div n="xe">{%of what a. is a loyal,%}
-<div n="lb"/>{%but unwise and timid servant%}</div> <div n="xs">{#अप्राज्ञेन च कातरेण च #}
-<div n="lb"/>{# गुणः स्यात् सानुरागेण कः,#}</div> Mu. i.; <div n="xe">{%the study of%}
-<div n="lb"/>{%religious books has been of no a.%}</div> <div n="xs">{#निर्गुणो धर्मशास्त्रा-#}
-<div n="lb"/>{#भ्यासः#}</div> K.; </div><div n="1">(2) {#अर्थः।#}</div>
+{@AVAIL@}¦ (subs): <div n="1">(1) {#गुणः,#} <div n="xe">{%of what a. is a loyal,%}
+{%but unwise and timid servant%}</div> <div n="xs">{#अप्राज्ञेन च कातरेण च #}
+{# गुणः स्यात् सानुरागेण कः,#}</div> Mu. i.; <div n="xe">{%the study of%}
+{%religious books has been of no a.%}</div> <div n="xs">{#निर्गुणो धर्मशास्त्रा-#}
+{#भ्यासः#}</div> K.; </div><div n="1">(2) {#अर्थः।#}</div>
 <LEND>

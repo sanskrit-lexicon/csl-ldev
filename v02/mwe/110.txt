@@ -1,5 +1,5 @@
 <L>110<pc>003-b<k1>accent<k2>accent
-<div n="lb"/>ACCENT¦, {%s.%} (The sound of a syllable) {#स्वरः#}. — (The manner of
-<div n="lb"/>speaking) {#उच्चारणं#}. — (The mark of a syllable) {#उच्चारणचिह्नं,#}
-<div n="lb"/>{#स्वरचिह्नं#}. — (Acute accent) {#उदात्तः#}.
+ACCENT¦, {%s.%} (The sound of a syllable) {#स्वरः#}. — (The manner of
+speaking) {#उच्चारणं#}. — (The mark of a syllable) {#उच्चारणचिह्नं,#}
+{#स्वरचिह्नं#}. — (Acute accent) {#उदात्तः#}.
 <LEND>

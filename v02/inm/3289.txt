@@ -1,7 +1,7 @@
 <L>3289<pc>238-2<k1>देवस्थान<k2>देवस्थान
-{@Devasthāna,@}¦ a Brahmarṣi. § 621 (Rājadharm.): XII,
-<div n="lb">{@1<lang n="greek"></lang>,@} 4.—§ 626 (do.): XII, {@20,@} 601, (602); {@21,@} (615).—
-<div n="lb">§ 637 (do.): XII, {@37<lang n="greek"></lang>,@} 1370; {@47<lang n="greek"></lang>,@} 1592.—§ 640 (do.):
-<div n="lb">XII, {@58<lang n="greek"></lang>,@} 2116.—§ 780 (Aśvamedhikap.): XIV, {@14<lang n="greek"></lang>,@}
-<div n="lb">355, 364.
+{@Devasthāna@},¦ a Brahmarṣi. § 621 (Rājadharm.): XII,
+{@1@}<lang n="greek">γ</lang>, 4.—§ 626 (do.): XII, {@20@}, 601, (602); {@21@}, (615).—
+§ 637 (do.): XII, {@37@}<lang n="greek">γ</lang>, 1370; {@47@}<lang n="greek">η</lang>, 1592.—§ 640 (do.):
+XII, {@58@}<lang n="greek">γ</lang>, 2116.—§ 780 (Aśvamedhikap.): XIV, {@14@}<lang n="greek">β</lang>,
+355, 364.
 <LEND>

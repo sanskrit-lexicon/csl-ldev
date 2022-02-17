@@ -1,5 +1,5 @@
 <L>13064<pc>403<k1>knighthood<k2>knighthood
-<div n="lb"/>{@KNIGHTHOOD:@}¦ <div n="I">I The dignity: {#*अनुबेरणत्वम्; #}
-<div n="lb"/>{# मटपदम्।#} </div><div n="I">II The knights collectively: expr.
-<div n="lb"/>by pl.</div>
+{@KNIGHTHOOD:@}¦ <div n="I">I The dignity: {#*अनुबेरणत्वम्; #}
+{# मटपदम्।#} </div><div n="I">II The knights collectively: expr.
+by pl.</div>
 <LEND>

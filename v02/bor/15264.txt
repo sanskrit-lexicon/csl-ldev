@@ -1,15 +1,15 @@
 <L>15264<pc>467<k1>naturally<k2>naturally
-<div n="lb"/>{@NATURALLY:@}¦ <div n="I">I By nature: </div><div n="1">(1) by comp.,
-<div n="lb"/>{%for bad men are n. not friend of the good:%}
-<div n="lb"/>{#प्रकृत्यमित्रा हि सतामसाधवः,#} Ki.; {%n. complaisant:%}
-<div n="lb"/>{#निसर्गदक्षिण#} (f. {#णा#}), Si. xv. 68.; </div><div n="1">(2) {#स्वमावतः;#}</div>
-<div n="lb"/><div n="1">(3) {#प्रकृत्या;#} </div><div n="1">(4) {#निसर्गेण।#} </div><div n="I">II By birth: q. v.:
-<div n="lb"/>{#जन्मना।#} </div><div n="I">III Without addition: <div n="xe">{%a new cloud%}
-<div n="lb"/>{%is n. beautiful:%}</div> <div n="xs">{#केवलोऽपि सुभगो नवाम्बुदः,#}</div> R. ii.
-<div n="lb"/>80.; <div n="xe">{%pearls are n. pleasing to the eye:%}</div> <div n="xs">{#प्रागेव #}
-<div n="lb"/>{# मुक्ता नयनाभिरामाः,#}</div> R. xvi. 69. </div><div n="I">IV Sponta-
-<div n="lb"/>-neously: {#स्वतः,#} {%good men are n. bent for others:%}
-<div n="lb"/>{#स्वत एव सतां परार्थता,#} N. ii. 61. V. As a natural
-<div n="lb"/>consequence: perh. {#स्वत एव:#} v. Indis-
-<div n="lb"/>-putably, necessarily.</div>
+{@NATURALLY:@}¦ <div n="I">I By nature: </div><div n="1">(1) by comp.,
+{%for bad men are n. not friend of the good:%}
+{#प्रकृत्यमित्रा हि सतामसाधवः,#} Ki.; {%n. complaisant:%}
+{#निसर्गदक्षिण#} (f. {#णा#}), Si. xv. 68.; </div><div n="1">(2) {#स्वमावतः;#}</div>
+<div n="1">(3) {#प्रकृत्या;#} </div><div n="1">(4) {#निसर्गेण।#} </div><div n="I">II By birth: q. v.:
+{#जन्मना।#} </div><div n="I">III Without addition: <div n="xe">{%a new cloud%}
+{%is n. beautiful:%}</div> <div n="xs">{#केवलोऽपि सुभगो नवाम्बुदः,#}</div> R. ii.
+80.; <div n="xe">{%pearls are n. pleasing to the eye:%}</div> <div n="xs">{#प्रागेव #}
+{# मुक्ता नयनाभिरामाः,#}</div> R. xvi. 69. </div><div n="I">IV Sponta-
+-neously: {#स्वतः,#} {%good men are n. bent for others:%}
+{#स्वत एव सतां परार्थता,#} N. ii. 61. V. As a natural
+consequence: perh. {#स्वत एव:#} v. Indis-
+-putably, necessarily.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>13419<pc>413<k1>legitimacy<k2>legitimacy
-<div n="lb"/>{@LEGITIMACY:@}¦ <div n="I">I Legality: {#वैधता#} (??). </div><div n="I">II Of
-<div n="lb"/>birth: {#सुजन्मता#} (??). </div><div n="I">III Genuineness: {#यथार्थता।#}</div>
+{@LEGITIMACY:@}¦ <div n="I">I Legality: {#वैधता#} (??). </div><div n="I">II Of
+birth: {#सुजन्मता#} (??). </div><div n="I">III Genuineness: {#यथार्थता।#}</div>
 <LEND>

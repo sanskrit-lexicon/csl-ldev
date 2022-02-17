@@ -1,4 +1,4 @@
 <L>1343<pc>048<k1>attire<k2>attire
-<div n="lb"/>{@ATTIRE@}¦ (subs.): <div n="1">(1) {#वेशः;#} </div><div n="1">(2) {#परिबर्हः,#} {%in rich a.%}
-<div n="lb"/>{#स्फीतपरिबर्हः#} ({#र्हा, र्हं#}), D. ii.: v. Dress, closses.</div>
+{@ATTIRE@}¦ (subs.): <div n="1">(1) {#वेशः;#} </div><div n="1">(2) {#परिबर्हः,#} {%in rich a.%}
+{#स्फीतपरिबर्हः#} ({#र्हा, र्हं#}), D. ii.: v. Dress, closses.</div>
 <LEND>

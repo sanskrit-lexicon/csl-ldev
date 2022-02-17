@@ -15,11 +15,11 @@
 <ls>2.</ls> <ls>NIR. 14, 6.</ls> <ls>KĀTY. ŚR. 25, 5, 15.</ls> <ls>LĀṬY. 9, 2, 7.</ls> <ls>CHĀND. UP. 7, 13, 1.</ls> <ls>KAUṢ. UP. 2, 4.</ls> {#जातिं पौर्विकीम्#} 
 <ls>M. 4, 148.</ls> {#यो मां स्मरति नित्यशः#} 
 <ls>BHAG. 8, 14.</ls> 
-<ls>MBH. 1, 3006. fg. 4239. 6911.</ls> {#स्मरति ते#} 
+<ls>MBH. 1, 3006. fg.</ls> <ls n="MBH. 1,">4239.</ls> <ls n="MBH. 1,">6911.</ls> {#स्मरति ते#} 
 <ls>3, 277. 280. 313. 1792. 2415. 2643. 2648. 2864. 2866. 3043. 12281. 16740.</ls> {#स्मर्तासि वचनस्य मे#} 
 <ls>5, 2319. 2322. 7042. 7382. 7498. 7, 32. 43. 14, 319. fgg.</ls> <ls>HARIV. 7121.</ls> <ls>R. 1, 57, 1. 2, 30, 16. 60, 14. 70, 15. 77, 12.</ls> <ls>R. GORR. 1, 79, 30.</ls> {#न बन्धूनां स्मरिष्यामि न मातुर्न पितुर्वने#} 
-<ls>2, 30, 18. 3, 46, 17. 54, 17. fg. 79, 42. 4, 6, 6. 49, 12. 54, 17. 55, 5. 5, 31, 28. 56.</ls> <ls>KĀM. NĪTIS. 5, 37.</ls> <ls>MEGH. 83.</ls> <ls>RAGH. 12, 10.</ls> <ls>KUMĀRAS. 4, 8.</ls> <ls>ŚĀK. 32, 5,</ls> <ls>v. l. 53, 8. 66, 18. 82, 7. 76.</ls> {#कामं प्रत्यादिष्टां स्मरामि न परिग्रहं मुनेस्तनयाम्#} 
-<ls>127.</ls> <ls>MĀLAV. 32, 17.</ls> <ls>KIR. 5, 28.</ls> <ls>Spr. (II) 3080. 3716. 3963. 5240. 5560. 7255. fgg. 7259.</ls> <ls>Z. d. d. m. G. 27, 31.</ls> <ls>KATHĀS. 1, 40. 2, 34. 4, 42. 12, 118. 17, 62. 18, 19. 208. 240. fg. 19, 101. 20, 62. 29, 6. 32, 25. 38, 56. 41, 5. 59, 163. 110, 89. 91.</ls> <ls>MĀRK. P. 61, 55.</ls> <ls>RĀJA-TAR. 3, 251. 450. 6, 238. 7, 727.</ls> <ls>CAURAP. 5.</ls> <ls>PRAB. 95, 1.</ls> <ls>BHĀG. P. 1, 8, 36. 13, 7. 2, 1, 19. 5, 26, 32. 7, 9, 14. 9, 16, 3. 10, 65, 10. 73, 13. 11, 27, 42.</ls> {#अभीष्टदेवताम्#} 
+<ls>2, 30, 18. 3, 46, 17. 54, 17. fg. 79, 42. 4, 6, 6. 49, 12. 54, 17. 55, 5. 5, 31, 28. 56.</ls> <ls>KĀM. NĪTIS. 5, 37.</ls> <ls>MEGH. 83.</ls> <ls>RAGH. 12, 10.</ls> <ls>KUMĀRAS. 4, 8.</ls> <ls>ŚĀK. 32, 5, v. l. 53, 8. 66, 18. 82, 7. 76.</ls> {#कामं प्रत्यादिष्टां स्मरामि न परिग्रहं मुनेस्तनयाम्#} 
+<ls>127.</ls> <ls>MĀLAV. 32, 17.</ls> <ls>KIR. 5, 28.</ls> <ls>Spr. (II) 3080.</ls> <ls n="Spr. (II)">3716.</ls> <ls n="Spr. (II)">3963.</ls> <ls n="Spr. (II)">5240.</ls> <ls n="Spr. (II)">5560.</ls> <ls n="Spr. (II)">7255. fgg.</ls> <ls n="Spr. (II)">7259.</ls> <ls>Z. d. d. m. G. 27, 31.</ls> <ls>KATHĀS. 1, 40. 2, 34. 4, 42. 12, 118. 17, 62. 18, 19. 208. 240. fg. 19, 101. 20, 62. 29, 6. 32, 25. 38, 56. 41, 5. 59, 163. 110, 89. 91.</ls> <ls>MĀRK. P. 61, 55.</ls> <ls>RĀJA-TAR. 3, 251. 450. 6, 238. 7, 727.</ls> <ls>CAURAP. 5.</ls> <ls>PRAB. 95, 1.</ls> <ls>BHĀG. P. 1, 8, 36. 13, 7. 2, 1, 19. 5, 26, 32. 7, 9, 14. 9, 16, 3. 10, 65, 10. 73, 13. 11, 27, 42.</ls> {#अभीष्टदेवताम्#} 
 <ls>PAÑCAT. 55, 18. 95, 16.</ls> 
 <ls>LA. (III) 6, 2. 35, 11.</ls> {#नान्यदृष्टं स्मरत्यन्यः#} 
 <ls>SARVADARŚANAS. 84, 15. fg.</ls> Comm. zu 
@@ -30,15 +30,15 @@
 <ls>ṚV. 1, 105.</ls> {#चेतसा#} 
 <ls>Spr. (II) 7515.</ls> {#चेतसा कातरेण#} 
 <ls>MEGH. 75.</ls> {#हृदि#} 
-<ls>ŚUK.</ls> in <ls>LA. (III) 36, 6. 7. med.</ls> 
+<ls>ŚUK.</ls> in <ls>LA. (III) 36, 6. 7.</ls> med. 
 <ls>MAITRYUP. 4, 2.</ls> 
-<ls>MBH. 1, 74. 2423. 3005. 3, 8246. 8446. 16817. 5, 193. 7260. 7, 685. 4727. 5369. 12, 5084.</ls> 
-<ls>HARIV. 8522. 11017</ls> <ls>(S. 790). 14982.</ls> 
+<ls>MBH. 1, 74.</ls> <ls n="MBH. 1,">2423.</ls> <ls n="MBH. 1,">3005.</ls> <ls n="MBH.">3, 8246.</ls> <ls n="MBH. 3,">8446.</ls> <ls n="MBH. 3,">16817.</ls> <ls n="MBH.">5, 193.</ls> <ls n="MBH. 5,">7260.</ls> <ls n="MBH.">7, 685.</ls> <ls n="MBH. 7,">4727.</ls> <ls n="MBH. 7,">5369.</ls> <ls n="MBH.">12, 5084.</ls> 
+<ls>HARIV. 8522.</ls> <ls n="HARIV.">11017</ls> (<ls>S. 790). 14982.</ls> 
 <ls>R. 5, 66, 25. 6, 82, 134. 7, 41, 14.</ls> 
 <ls>Spr. (II) 7374.</ls> 
 <ls>BHĀG. P. 2, 2, 14. 3, 28, 28.</ls> {#स्मारं स्मारम्#} 
-<ls>?absol. Spr. (II) 1404. PAÑCAR. 1, 2, 9. Verz. d. Oxf. H. 161</ls>, {%b%}, 
-<ls>?2 v. u. VOP. 26, 219. pass.</ls> : {#स्मर्यते स हि वामोरु यो भवेद्धृदयाद्बहिः#} 
+absol. <ls>Spr. (II) 1404.</ls> <ls>PAÑCAR. 1, 2, 9.</ls> <ls>Verz. d. Oxf. H. 161, {%b%},2</ls> v. u. 
+<ls>VOP. 26, 219.</ls> pass. : {#स्मर्यते स हि वामोरु यो भवेद्धृदयाद्बहिः#} 
 <ls>PRAB. 41, 9.</ls> 
 <ls>DAŚAK. 65, 9.</ls> 
 <ls>PAÑCAT. 52, 7.</ls> {#अस्मर्यमाणकर्तृ#} so v. a. {%vergessen%} 
@@ -67,7 +67,7 @@ zu <ls>P. 1, 1, 27.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 5, 2, 68.</ls> {#निर
 <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 95.</ls> {#स्मृतं पापं मया स्वयम्#} 
 <ls>R. 2, 64, 56.</ls> {#इदानी मे स्मृतो महागिरिः#} 
 <ls>4, 46, 13.</ls> {#न स्मृतो राघवो येन#} 
-<ls>55, 5.</ls> <ls>Spr. (II) 6562. 6565, v. l.</ls> {#साधु स्मृतं त्वया#} 
+<ls>55, 5.</ls> <ls>Spr. (II) 6562.</ls> <ls n="Spr. (II)">6565, v. l.</ls> {#साधु स्मृतं त्वया#} 
 <ls>KATHĀS. 18, 209.</ls> <ls>KUMĀRILA</ls> bei <ls>MÜLLER, SL. 510.</ls> {#सुराः स्मृताः स्थ#} 
 <ls>TRIK. 1, 1, 1.</ls> {#°मात्र#} 
 <ls>PAÑCAT. 48, 8.</ls> {#°मात्रागत#} {%gekommen sobald man seiner gedacht hatte%} 
@@ -77,7 +77,7 @@ zu <ls>P. 1, 1, 27.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 5, 2, 68.</ls> {#निर
 <div n="2">— b) {%überliefert, gelehrt%} 
 <ls>ĀŚV. ŚR. 3, 6, 7.</ls> Comm. zu <ls>VS. PRĀT. 4, 185.</ls> {#एष धर्मः स्त्रिया नित्यो वेदे लोके श्रुतः स्मृतः#} 
 <ls>Spr. (II) 6496.</ls> {#मन्त्रेण कर्म#} so v. a. {%erwähnt%} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 49, 1 v. u.</ls> {#अ°#} 
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 49, 1</ls> v. u. {#अ°#} 
 <ls>50, 1.</ls> 
 <div n="2">— c) {%gelehrt%} so v. a. {%vorgeschrieben%}: {#त्रिरात्रं क्षेपणं स्मृतम्#} 
 <ls>M. 4, 119.</ls> {#स्नाने मैथुनिनः स्मृतम्#} 
@@ -95,7 +95,7 @@ zu <ls>P. 1, 1, 27.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 5, 2, 68.</ls> {#निर
 <ls>R. 3, 23, 15.</ls> 
 <ls>RAGH. 3, 49.</ls> 
 <ls>ŚĀK. 112. 157.</ls> 
-<ls>Spr. (II) 1091. 1947. 2741. 3473. 4033. 6980.</ls> 
+<ls>Spr. (II) 1091.</ls> <ls n="Spr. (II)">1947.</ls> <ls n="Spr. (II)">2741.</ls> <ls n="Spr. (II)">3473.</ls> <ls n="Spr. (II)">4033.</ls> <ls n="Spr. (II)">6980.</ls> 
 <ls>VARĀH. BṚH. S. 13, 11. 46, 91. 93. 53, 41. 86, 16. 93, 5.</ls> 
 <ls>BHĀG. P. 2, 10, 3.</ls> {#शीकरो ऽम्बुकणाः स्मृताः#} 
 <ls>AK. 1, 1, 2, 13.</ls> 
@@ -142,7 +142,7 @@ zu <ls>P. 1, 1, 27.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 5, 2, 68.</ls> {#निर
 <ls>R. 7, 30, 53.</ls> 
 <ls>UTTARAR. 116, 12 (157, 14).</ls> <ls>KATHĀS. 45, 346.</ls> <ls>RĀJA-TAR. 3, 186.</ls> <ls>BHĀG. P. 10, 43, 22.</ls> {%in's Gedächtniss gerufen%} 
 <ls>3, 2, 1. 11, 2, 13.</ls> Comm. zu <ls>KĀTY. ŚR. 49, 17. 85, 22.</ls> <ls>KUSUM. 33, 3. 4. 35, 1.</ls> {#°त्व#} 
-n. <ls>?33, 2. Auch</ls> {#स्मरयति#} 
+n. <ls>33, 2. Auch</ls> {#स्मरयति#} 
 <ls>DHĀTUP. 19, 48</ls> ({#आध्याने, औत्क्ये#}). {%erinnern an%}, mit acc. 
 <ls>RAGH. 9, 58.</ls> mit gen. <ls>KIR. 6, 13.</ls> {%Jmd erinnern an%}, mit doppeltem acc. 
 <ls>VIKR. 78.</ls>
@@ -162,13 +162,13 @@ n. <ls>?33, 2. Auch</ls> {#स्मरयति#}
 <ls>PĀR. GṚHY. 3, 10.</ls> {#सतां धर्मम्#} 
 <ls>M. 2, 217. 7, 87. 93. 8, 33. 141.</ls> {#मामनुस्मर#} 
 <ls>BHAG. 8, 7.</ls> {#शक्तेर्वधम्#} 
-<ls>MBH. 1, 6867. 3, 2385. 2649. 2652. 4, 1605. 8, 1935.</ls> 
-<ls>HARIV. 5892. 7919.</ls> 
+<ls>MBH. 1, 6867.</ls> <ls n="MBH.">3, 2385.</ls> <ls n="MBH. 3,">2649.</ls> <ls n="MBH. 3,">2652.</ls> <ls n="MBH.">4, 1605.</ls> <ls n="MBH.">8, 1935.</ls> 
+<ls>HARIV. 5892.</ls> <ls n="HARIV.">7919.</ls> 
 <ls>R. 2, 21, 7. 35, 32. 49, 1 (46, 1 GORR.). 56, 19. 77, 11. 87, 16.</ls> <ls>R. GORR. 2, 41, 14. 88, 5. 3, 43, 14. 4, 5, 31. 5, 31, 16.</ls> <ls>KĀM. NĪTIS. 9, 71.</ls> {#स्मृत्वा - पुनरनुस्मृत्य#} 
 <ls>MṚCCH. 52, 10.</ls> 
 <ls>ŚĀK. 22, 4. 82, 20. fg.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 140. MĀRK. P. 22, 7. BHĀG. P. 1, 5, 13. 36. 13, 34. 2, 4, 11. 4, 12, 31. 30, 9. 5, 26, 22.</ls> {#स्वाघम्#} (so v. a. {%beichten%}) 
-<ls>?10,23,52. 44,10. 45,28. PAÑCAR.3,9,9. PAÑCAT. 227,25. 258,25. MALLIN. zu KUMĀRAS.6,30. SADDH. P.4,10,a. med. BHĀG. P. 10,79,34. pass.4,30,28.</ls> partic. {#°स्मृत#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 140.</ls> <ls>MĀRK. P. 22, 7.</ls> <ls>BHĀG. P. 1, 5, 13. 36. 13, 34. 2, 4, 11. 4, 12, 31. 30, 9. 5, 26, 22.</ls> {#स्वाघम्#} (so v. a. {%beichten%}) 
+<ls>10,23,52. 44,10. 45,28.</ls> <ls>PAÑCAR.3,9,9.</ls> <ls>PAÑCAT. 227,25. 258,25.</ls> <ls>MALLIN.</ls> zu <ls>KUMĀRAS.6,30.</ls> <ls>SADDH. P.4,10,a.</ls> med. <ls>BHĀG. P. 10,79,34. pass.4,30,28.</ls> partic. {#°स्मृत#} 
 <div n="1"> 1) impers.: {#यदैव खलु - अनुस्मृतं देवेन सत्यमूढपूर्वा मया तत्रभवती#} u. s. w. {#इति#} 
 <ls>ŚĀK. 79, 14. fgg.</ls> 
 <div n="1">— 2) {%vorgeschrieben, gelehrt, geltend%} 
@@ -180,7 +180,7 @@ n. <ls>?33, 2. Auch</ls> {#स्मरयति#}
 <ls>R. ed. Bomb. 6, 59, 110. 120.</ls>
 
 <div n="p">— {#समनु#} {%sich erinnern, gedenken%}: {#स्ववंशधर्मम्#} 
-<ls>HARIV. 8468. 11504.</ls> med. <ls>SADDH. P.4,10,a.</ls>
+<ls>HARIV. 8468.</ls> <ls n="HARIV.">11504.</ls> med. <ls>SADDH. P.4,10,a.</ls>
 
 <div n="p">— {#अप#} {%das Bewusstsein verlieren%} 
 <ls>CARAKA 2, 8.</ls> <ls>SUŚR. 1, 121, 17.</ls> — partic. {#°स्मृत#} 
@@ -192,7 +192,7 @@ n. <ls>?33, 2. Auch</ls> {#स्मरयति#}
 
 <div n="p">— {#उप#} {%sich erinnern, gedenken%} (mit acc.) 
 <ls>ŚAT. BR. 2, 3, 2, 4.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 48.</ls> {#मनसा#} 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 48.</ls> {#मनसा#} 
 <ls>KENOP. 3.</ls> 
 <ls>KĀTY. ŚR. 4, 15, 32.</ls> 
 <div n="v">— Vgl. {#यथोपस्मारम्#} .
@@ -210,26 +210,26 @@ n. <ls>?33, 2. Auch</ls> {#स्मरयति#}
 
 <div n="p">— {#प्रति#} {%sich erinnern, gedenken%}: {#प्रति^ स्मरेथां तु\जय^द्भि\रेवै^ः#} 
 <ls>ṚV. 7, 104, 7.</ls> {#धर्मं प्रतिस्मरन्#} 
-<ls>MBH. 12, 5628. 1, 431. 13, 5763.</ls> 
+<ls>MBH. 12, 5628.</ls> <ls n="MBH.">1, 431.</ls> <ls n="MBH.">13, 5763.</ls> 
 <ls>HARIV. 11277.</ls> 
 <div n="v">— Vgl. {#प्रतिस्मृति#} . — caus. {%Jmd an Etwas erinnern%}: {#यदिदं मन्यसे राजन्नायमस्ति कुतः परः । प्रतिस्मारयितारस्त्वां यमदूता यमक्षये ॥#} 
 <ls>MBH. 12, 5612.</ls>
 
 <div n="p">— {#वि#} {%vergessen%}, mit 
-<ls>?acc. R. 4, 9, 23. 32, 10. 35, 4. MEGH. 84. ŚĀK. 54, 5. Spr. (II) 637. 2093. 4249. KATHĀS. 16, 64. 19, 100. 27, 63. 28, 64. 38, 85. 45, 297. 52, 394. RĀJA-TAR. 1, 371. 2, 21. fg. 3, 524</ls> ({#मनसा#}) 
+acc. <ls>R. 4, 9, 23. 32, 10. 35, 4.</ls> <ls>MEGH. 84.</ls> <ls>ŚĀK. 54, 5.</ls> <ls>Spr. (II) 637.</ls> <ls n="Spr. (II)">2093.</ls> <ls n="Spr. (II)">4249.</ls> <ls>KATHĀS. 16, 64. 19, 100. 27, 63. 28, 64. 38, 85. 45, 297. 52, 394.</ls> <ls>RĀJA-TAR. 1, 371. 2, 21. fg. 3, 524</ls> ({#मनसा#}) 
 <ls>4, 30. 5, 309. 404. 6, 5.</ls> <ls>CHANDOM. 106.</ls> <ls>CAURAP. 21.</ls> <ls>BHĀG. P. 2, 1, 17. 3, 2, 18. 7, 5, 46. 10, 47, 51.</ls> <ls>PAÑCAR. 1, 10, 37.</ls> — {#विस्मरन्ती#} 
 <ls>SĀV. 5, 6</ls> schlechte Lesart
 [Page7-1386]
 für {#विमृशन्ती#} (so 
 <ls>MBH. 3, 16753</ls>). — med. 
 <ls>MBH. 3, 15705.</ls> 
-<ls>BHĀG. P. 10, 47, 53. 82, 37.</ls> <ls>?act. mit gen. BHAṬṬ. 17, 10. pass. Spr. (II) 2802 (Conj.</ls> für {#विस्मार्यते#}) 
+<ls>BHĀG. P. 10, 47, 53. 82, 37.</ls> act. mit gen. <ls>BHAṬṬ. 17, 10.</ls> pass. <ls>Spr. (II) 2802</ls> (Conj. für {#विस्मार्यते#}) 
 <ls>7283.</ls> <ls>BHĀG. P. 4, 9, 8.</ls> — partic. {#°स्मृत#} 
 <div n="1"> 1) {%der vergessen hat%}, mit acc. 
 <ls>RAGH. 19, 2.</ls> 
 <ls>ŚĀK. 71, 3. 82, 10, v. l.</ls> 
 <ls>PRAB. 14, 16.</ls> 
-<ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. 4, 325, 9 v. u.</ls> in comp. mit dem obj.: {#इन्द्रोपस्थान°#} 
+<ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. 4, 325, 9</ls> v. u. in comp. mit dem obj.: {#इन्द्रोपस्थान°#} 
 <ls>R. 4, 44, 111.</ls> 
 <ls>Spr. (II) 6508.</ls> ohne Ergänzung {%der Alles vergessen hat%} 
 <ls>R. 2, 58, 30.</ls> 
@@ -264,9 +264,9 @@ für {#विमृशन्ती#} (so
 <div n="v">— Vgl. {#विस्मारक#} fg.
 
 <div n="p">— {#सम्#} {%sich erinnern, gedenken%}; 
-mit acc. <ls>M. 4, 149.</ls> <ls>BHAG. 18, 76.</ls> <ls>MBH. 1, 6723. 2, 612. 3, 2997. 4, 196. 7, 5780. 9402. 8, 4563. 18, 17.</ls> <ls>HARIV. 7042. 9415.</ls> <ls>R. 2, 36, 6. 63, 3. 69, 2 (71, 2 GORR.). 102, 9.</ls> <ls>R. GORR. 2, 41, 12. 122, 25</ls> ({#संस्मृत्य#} 
-zu lesen). <ls>4, 9, 97. 46, 11. 60, 1. 5, 37, 5.</ls> <ls>RAGH. 1, 76.</ls> <ls>KUMĀRAS. 4, 17.</ls> <ls>Spr. (II) 3311. 4026. 7230.</ls> <ls>KATHĀS. 1, 60. 16, 51. 21, 91. 33, 170. 43, 165. 186. 58, 50.</ls> <ls>RĀJA-TAR. 3, 246.</ls> <ls>CHANDOM. 80.</ls> <ls>MĀRK. P. 131, 15.</ls> <ls>BHĀG. P. 1, 14, 24. 3, 25, 6. 4, 9, 24. 6, 3, 34. 9, 4, 12. 10, 46, 27. med.</ls> <ls>MBH. 8, 1877.</ls> <ls>MĀRK. P. 10, 20.</ls> pass. <ls>RĀJA-TAR. 4, 115.</ls> {#संस्मर्तव्यस्तदा ते ऽहम्#} 
-<ls>MBH. 3, 2631.</ls> <ls>?act. mit gen. BHAṬṬ. 6, 12.</ls> — partic. {#संस्मृत#} 
+mit acc. <ls>M. 4, 149.</ls> <ls>BHAG. 18, 76.</ls> <ls>MBH. 1, 6723.</ls> <ls n="MBH.">2, 612.</ls> <ls n="MBH.">3, 2997.</ls> <ls n="MBH.">4, 196.</ls> <ls n="MBH.">7, 5780.</ls> <ls n="MBH. 7,">9402.</ls> <ls n="MBH.">8, 4563.</ls> <ls n="MBH.">18, 17.</ls> <ls>HARIV. 7042.</ls> <ls n="HARIV.">9415.</ls> <ls>R. 2, 36, 6. 63, 3. 69, 2 (71, 2 GORR.). 102, 9.</ls> <ls>R. GORR. 2, 41, 12. 122, 25</ls> ({#संस्मृत्य#} 
+zu lesen). <ls>4, 9, 97. 46, 11. 60, 1. 5, 37, 5.</ls> <ls>RAGH. 1, 76.</ls> <ls>KUMĀRAS. 4, 17.</ls> <ls>Spr. (II) 3311.</ls> <ls n="Spr. (II)">4026.</ls> <ls n="Spr. (II)">7230.</ls> <ls>KATHĀS. 1, 60. 16, 51. 21, 91. 33, 170. 43, 165. 186. 58, 50.</ls> <ls>RĀJA-TAR. 3, 246.</ls> <ls>CHANDOM. 80.</ls> <ls>MĀRK. P. 131, 15.</ls> <ls>BHĀG. P. 1, 14, 24. 3, 25, 6. 4, 9, 24. 6, 3, 34. 9, 4, 12. 10, 46, 27.</ls> med. <ls>MBH. 8, 1877.</ls> <ls>MĀRK. P. 10, 20.</ls> pass. <ls>RĀJA-TAR. 4, 115.</ls> {#संस्मर्तव्यस्तदा ते ऽहम्#} 
+<ls>MBH. 3, 2631.</ls> act. mit gen. <ls>BHAṬṬ. 6, 12.</ls> — partic. {#संस्मृत#} 
 <div n="1"> 1) {%dessen man sich erinnert hat%} 
 <ls>HARIV. 7234.</ls> {#संस्मृतोपस्थित#} 
 <ls>KATHĀS. 38, 71.</ls> 
@@ -279,15 +279,15 @@ zu lesen). <ls>4, 9, 97. 46, 11. 60, 1. 5, 37, 5.</ls> <ls>RAGH. 1, 76.</ls> <ls
 <ls>MBH. 2, 2537.</ls> 
 <ls>R. 6, 92, 36.</ls> 
 <ls>BHĀG. P. 10, 2, 37</ls> ({#संस्मरयन्#}). {%in's Gedächtniss rufen%}, mit 
-<ls>?acc. MBH. 5, 4666.</ls> {#कृष्णं व्रजौकसाम्#} 
+acc. <ls>MBH. 5, 4666.</ls> {#कृष्णं व्रजौकसाम्#} 
 <ls>BHĀG. P. 10, 47, 57.</ls> pass. <ls>PAÑCAR. 3, 7, 4.</ls> — partic. {#संस्मारित#} {%erinnert%} 
 <ls>BHĀG. P. 11,2,10.</ls> {%an%} (acc.) 
 <ls>4,3,15.</ls> <ls>HARIV. 3778.</ls> {%in's Gedächtniss gerufen%} 
-<ls>1301.</ls> 
+<ls n="HARIV.">1301.</ls> 
 <div n="v">— Vgl. {#संस्मारक#} fg.
 
 <div n="p">— {#अनुसम्#} {%sich erinnern, gedenken%}; mit acc. 
-<ls>MBH. 1, 6911. 3, 2649. 6, 3084.</ls> mit gen. <ls>Spr. (II) 5653.</ls>
+<ls>MBH. 1, 6911.</ls> <ls n="MBH.">3, 2649.</ls> <ls n="MBH.">6, 3084.</ls> mit gen. <ls>Spr. (II) 5653.</ls>
 
 <div n="p">— {#अभिसम्#} 
 dass., mit acc. <ls>MBH. 3, 15758.</ls>

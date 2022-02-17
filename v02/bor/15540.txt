@@ -1,12 +1,12 @@
 <L>15540<pc>476<k1>note<k2>note
-<div n="lb"/>{@NOTE@}¦ (subs.): <div n="I">I A mark: {#लिङ्गम्।#} </div><div n="I">II A sign:
-<div n="lb"/>{#संज्ञा।#} </div><div n="I">III A memorandum: no equiv.:
-<div n="lb"/>{#सारलेखः।#} </div><div n="I">IV Explanatory: </div><div n="1">(1) {#टीका;#} </div><div n="1">(2)
-<div n="lb"/>{#व्याख्या।#} </div><div n="I">V A short letter: {#पत्रिका।#} </div><div n="I">VI Musi-
-<div n="lb"/>-cal symbol: {#चिह्नम्,।#} </div><div n="I">VII Musical tone:
-<div n="lb"/>{#स्वरः।#} </div><div n="I">VIII Reputation: <div n="xe">{%of n.:%}</div> <div n="xs">{#विश्रुतः#}</div> ({#ता, #}
-<div n="lb"/>{# तं#}),: v. Renowned, famous. </div><div n="I">IX Heed:
-<div n="lb"/><div n="xe">{%take n. of:%}</div> <div n="xs">{#अवेक्षते।#}</div> </div><div n="I">X Of birds: {#रूतम्।#}</div>
-<div n="lb"/><div n="I">XI Commercial: {#पत्रम्#} (when the sense is
-<div n="lb"/>clear). <div n="xe">{%Promissory n.:%}</div> <div n="xs">{#*प्रतिज्ञापत्रम्।#}</div></div>
+{@NOTE@}¦ (subs.): <div n="I">I A mark: {#लिङ्गम्।#} </div><div n="I">II A sign:
+{#संज्ञा।#} </div><div n="I">III A memorandum: no equiv.:
+{#सारलेखः।#} </div><div n="I">IV Explanatory: </div><div n="1">(1) {#टीका;#} </div><div n="1">(2)
+{#व्याख्या।#} </div><div n="I">V A short letter: {#पत्रिका।#} </div><div n="I">VI Musi-
+-cal symbol: {#चिह्नम्,।#} </div><div n="I">VII Musical tone:
+{#स्वरः।#} </div><div n="I">VIII Reputation: <div n="xe">{%of n.:%}</div> <div n="xs">{#विश्रुतः#}</div> ({#ता, #}
+{# तं#}),: v. Renowned, famous. </div><div n="I">IX Heed:
+<div n="xe">{%take n. of:%}</div> <div n="xs">{#अवेक्षते।#}</div> </div><div n="I">X Of birds: {#रूतम्।#}</div>
+<div n="I">XI Commercial: {#पत्रम्#} (when the sense is
+clear). <div n="xe">{%Promissory n.:%}</div> <div n="xs">{#*प्रतिज्ञापत्रम्।#}</div></div>
 <LEND>

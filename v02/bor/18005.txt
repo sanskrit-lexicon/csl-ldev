@@ -1,5 +1,5 @@
 <L>18005<pc>552<k1>prose<k2>prose
-<div n="lb"/>{@PROSE@}¦ (subs.): {#गद्यम्,#} <div n="xe">{%p. writer:%}</div> <div n="xs">{#गद्यलेखकः;#}</div> {%p.%}
-<div n="lb"/>{%smelling poetry%} (i. e. intermixed with poetical
-<div n="lb"/>feet): {#वृत्तगन्धि गद्यम्,#} Sah. vi.
+{@PROSE@}¦ (subs.): {#गद्यम्,#} <div n="xe">{%p. writer:%}</div> <div n="xs">{#गद्यलेखकः;#}</div> {%p.%}
+{%smelling poetry%} (i. e. intermixed with poetical
+feet): {#वृत्तगन्धि गद्यम्,#} Sah. vi.
 <LEND>

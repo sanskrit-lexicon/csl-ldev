@@ -1,4 +1,4 @@
 <L>21118<pc>665<k1>specialty<k2>specialty
-<div n="lb"/>{@SPECIALTY,@}¦ {@SPECIALITY:@} <div n="1">(1) {#विशेषधर्मः#} and sim.
-<div n="lb"/>comp.s; {#वैशेषिकता, वैशेषिकत्वम्#} (rare).</div>
+{@SPECIALTY,@}¦ {@SPECIALITY:@} <div n="1">(1) {#विशेषधर्मः#} and sim.
+comp.s; {#वैशेषिकता, वैशेषिकत्वम्#} (rare).</div>
 <LEND>

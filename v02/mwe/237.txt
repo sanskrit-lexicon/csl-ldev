@@ -1,5 +1,5 @@
 <L>237<pc>006-b<k1>address<k2>address
-<div n="lb"/>ADDRESS¦, {%s.%} {#सम्बोधनं, अभिवादः, वाक्यं, वचनं, वाक्यारम्भः#}. — (By
-<div n="lb"/>name) {#नामग्रहः#}. — (Courtship) {#भावकरणं#}. — (Dexterity) {#नैपुण्यं#}
-<div n="lb"/>{#चतुरता#}. — (Direction of a letter) {#पत्रसंज्ञा, पत्रादेशः#}.
+ADDRESS¦, {%s.%} {#सम्बोधनं, अभिवादः, वाक्यं, वचनं, वाक्यारम्भः#}. — (By
+name) {#नामग्रहः#}. — (Courtship) {#भावकरणं#}. — (Dexterity) {#नैपुण्यं#}
+{#चतुरता#}. — (Direction of a letter) {#पत्रसंज्ञा, पत्रादेशः#}.
 <LEND>

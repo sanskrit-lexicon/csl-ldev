@@ -1,7 +1,7 @@
 <L>7905<pc>250<k1>even<k2>even
-<div n="lb"/>{@EVEN@}¦ (adj.): <div n="I">I Level, smooth: q. v.: {#समः#}
-<div n="lb"/>({#मा, मं#}), <div n="xe">{%it (the earth) looks e. to him:%}</div> <div n="xs">{#सा समा तस्य #}
-<div n="lb"/>{# प्रतिभाति,#}</div> Go. </div><div n="I">II Equable: {#समः#} ({#मा, मं#}), <div n="xe">{%e.%}
-<div n="lb"/>{%tempered:%}</div> <div n="xs">{#समवृत्ति#}</div> (mfn), Ki. </div><div n="I">III Not odd:
-<div n="lb"/>{#समः#} ({#मा, मं#}).</div>
+{@EVEN@}¦ (adj.): <div n="I">I Level, smooth: q. v.: {#समः#}
+({#मा, मं#}), <div n="xe">{%it (the earth) looks e. to him:%}</div> <div n="xs">{#सा समा तस्य #}
+{# प्रतिभाति,#}</div> Go. </div><div n="I">II Equable: {#समः#} ({#मा, मं#}), <div n="xe">{%e.%}
+{%tempered:%}</div> <div n="xs">{#समवृत्ति#}</div> (mfn), Ki. </div><div n="I">III Not odd:
+{#समः#} ({#मा, मं#}).</div>
 <LEND>

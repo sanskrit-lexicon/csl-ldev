@@ -1,8 +1,8 @@
 <L>1523<pc>053<k1>bake<k2>bake
-<div n="lb"/>{@BAKE@}¦ (v. t.): <div n="1">(1) {#पचति#} ({#पच्,#} c. 1.) (prop. to
-<div n="lb"/>cook: q. v.), <div n="xe">{%b. d brick%}</div> <div n="xs">{#पक्वेष्टका,#}</div> Mr.; </div><div n="1">(2)
-<div n="lb"/>{#भृज्जति, ते#} ({#भ्रस्ज्,#} c. 6.) (=to fry, q. v.), {%the%} [Page054]
-<div n="lb"/>{%word lāja%} ({%also%}) <div n="xe">{%means b. d grain%}</div> <div n="xs">{#लाजं भृष्टघान्ये#}</div>
-<div n="lb"/>Ph. {%b. d in an iron pan or oven%} (as bread,
-<div n="lb"/>cakes etc.) {#कान्दवः#} ({#वी, वं#}).</div>
+{@BAKE@}¦ (v. t.): <div n="1">(1) {#पचति#} ({#पच्,#} c. 1.) (prop. to
+cook: q. v.), <div n="xe">{%b. d brick%}</div> <div n="xs">{#पक्वेष्टका,#}</div> Mr.; </div><div n="1">(2)
+{#भृज्जति, ते#} ({#भ्रस्ज्,#} c. 6.) (=to fry, q. v.), {%the%} [Page054]
+{%word lāja%} ({%also%}) <div n="xe">{%means b. d grain%}</div> <div n="xs">{#लाजं भृष्टघान्ये#}</div>
+Ph. {%b. d in an iron pan or oven%} (as bread,
+cakes etc.) {#कान्दवः#} ({#वी, वं#}).</div>
 <LEND>

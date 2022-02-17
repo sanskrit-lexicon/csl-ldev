@@ -1,5 +1,5 @@
 <L>9512<pc>302<k1>fuel<k2>fuel
-<div n="lb"/>{@FUEL:@}¦ <div n="1">(1) {#इन्धनम्;#} </div><div n="1">(2) {#समिध्#} (f.); </div><div n="1">(3) {#एधस्#} (n.);</div>
-<div n="lb"/><div n="1">(4) {#इध्मम्।#} Ph.: <div n="xe">{%to add. f. to the flames:%}</div> <div n="xs">{#क्षारं #}
-<div n="lb"/>{# क्षते प्रक्षिपति,#}</div> Mr.</div>
+{@FUEL:@}¦ <div n="1">(1) {#इन्धनम्;#} </div><div n="1">(2) {#समिध्#} (f.); </div><div n="1">(3) {#एधस्#} (n.);</div>
+<div n="1">(4) {#इध्मम्।#} Ph.: <div n="xe">{%to add. f. to the flames:%}</div> <div n="xs">{#क्षारं #}
+{# क्षते प्रक्षिपति,#}</div> Mr.</div>
 <LEND>

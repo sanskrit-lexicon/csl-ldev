@@ -1,4 +1,4 @@
 <L>19186<pc>594<k1>resuscitation<k2>resuscitation
-<div n="lb"/>{@RESUSCITATION:@}¦ <div n="1">(1) {#उज्जीवनम्, प्रति-;#} </div><div n="1">(2) {#सञ्जी-#}
-<div n="lb"/>{#वनम्।#}</div>
+{@RESUSCITATION:@}¦ <div n="1">(1) {#उज्जीवनम्, प्रति-;#} </div><div n="1">(2) {#सञ्जी-#}
+{#वनम्।#}</div>
 <LEND>

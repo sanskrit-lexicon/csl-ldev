@@ -1,13 +1,13 @@
 <L>5889<pc>189<k1>deprive<k2>deprive
-<div n="lb"/>{@DEPRIVE@}¦ (v.): <div n="1">(1) {#हरति, अप-,#} ({#हृ,#} c. l.) (=to
-<div n="lb"/>take away: q. v.), <div n="xe">{%say what has not been%}
-<div n="lb"/>{%taken away by death by d. ing me of you:%}</div>
-<div n="lb"/><div n="xs">{#मृत्युना हरता त्वां वद किं न मे हृतम्,#}</div> R.; </div><div n="1">(2) {#वियोजयति#}
-<div n="lb"/>{%or%} -{#युंक्ते#} ({#युज्,#} c. 10 and 7.) (=to disunite,
-<div n="lb"/>separate), <div n="xe">{%d. d of his life:%}</div> <div n="xs">{#प्राणैर्वियोजितः#}</div> ({#ता, #}
-<div n="lb"/>{# तं#}), <ls>D.</ls> ; </div><div n="1">(3) {#विनाकरोति#} (=2), {%d. d of Cupid:%}
-<div n="lb"/>{#मदनेन विनाकृता,#} Ku.; </div><div n="1">(4) {#हापयति#} (c. of {#हा#})
-<div n="lb"/>(=cause to leave), <div n="xe">{%or will be soon d. d of his%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#प्राणैर्वा हाप्यतेऽचिरात्,#}</div> A. r.: v. Also
-<div n="lb"/>devoid of.</div>
+{@DEPRIVE@}¦ (v.): <div n="1">(1) {#हरति, अप-,#} ({#हृ,#} c. l.) (=to
+take away: q. v.), <div n="xe">{%say what has not been%}
+{%taken away by death by d. ing me of you:%}</div>
+<div n="xs">{#मृत्युना हरता त्वां वद किं न मे हृतम्,#}</div> R.; </div><div n="1">(2) {#वियोजयति#}
+{%or%} -{#युंक्ते#} ({#युज्,#} c. 10 and 7.) (=to disunite,
+separate), <div n="xe">{%d. d of his life:%}</div> <div n="xs">{#प्राणैर्वियोजितः#}</div> ({#ता, #}
+{# तं#}), <ls>D.</ls> ; </div><div n="1">(3) {#विनाकरोति#} (=2), {%d. d of Cupid:%}
+{#मदनेन विनाकृता,#} Ku.; </div><div n="1">(4) {#हापयति#} (c. of {#हा#})
+(=cause to leave), <div n="xe">{%or will be soon d. d of his%}
+{%life:%}</div> <div n="xs">{#प्राणैर्वा हाप्यतेऽचिरात्,#}</div> A. r.: v. Also
+devoid of.</div>
 <LEND>

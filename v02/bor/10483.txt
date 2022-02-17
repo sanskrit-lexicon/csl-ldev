@@ -1,7 +1,7 @@
 <L>10483<pc>330<k1>habit<k2>habit
-<div n="lb"/>{@HABIT:@}¦ <div n="I">I Dress: q.v.: {#वेशः।#} </div><div n="I">II Condition,
-<div n="lb"/>temperament: q.v.: {#अवस्था।#} </div><div n="I">III Practice,
-<div n="lb"/>custom: </div><div n="1">(1) {#अभ्यासः#} (?); </div><div n="1">(2) {#शीलम्#} (?), <div n="xe">{%of bad%}
-<div n="lb"/>{%h. s:%}</div> <div n="xs">{#अशीलः#}</div> ({#ला, लं#}), Ki. {%To be in the h. of:%}
-<div n="lb"/>{#शीलः#} ({#ला, लं#}) in comp.</div>
+{@HABIT:@}¦ <div n="I">I Dress: q.v.: {#वेशः।#} </div><div n="I">II Condition,
+temperament: q.v.: {#अवस्था।#} </div><div n="I">III Practice,
+custom: </div><div n="1">(1) {#अभ्यासः#} (?); </div><div n="1">(2) {#शीलम्#} (?), <div n="xe">{%of bad%}
+{%h. s:%}</div> <div n="xs">{#अशीलः#}</div> ({#ला, लं#}), Ki. {%To be in the h. of:%}
+{#शीलः#} ({#ला, लं#}) in comp.</div>
 <LEND>

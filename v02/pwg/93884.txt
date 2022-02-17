@@ -6,9 +6,9 @@
 <ls>H. 1264.</ls> 
 <ls>an. 3, 226.</ls> 
 <ls>MED. ṇ. 77. fg.</ls> <ls>HALĀY. 2, 112.</ls> <ls>AV. 3, 7, 1.</ls> {#विषा^णे\ वि ष्य^ गुष्पि\तम्#} 
-<ls>2. 6, 121, 1.</ls> <ls>AIT. BR. 2, 11.</ls> <ls>ŚAT. BR. 7, 3, 2, 17.</ls> <ls>PĀR. GṚHY. 3, 7.</ls> <ls>MBH. 1, 5370. 3, 17228.</ls> <ls>HARIV. 4103.</ls> <ls>R. 4, 9, 76. 79.</ls> <ls>SUŚR. 1, 99, 9. 100, 8. 363, 1.</ls> <ls>RAGH. 9, 62.</ls> <ls>KUMĀRAS. 7, 49.</ls> {#गो°#} 
-<ls>Spr. (II) 253. 809. (I) 3250.</ls> {#हुडु°#} 
-<ls>VARĀH. BṚH. S. 50,25 </ls> <ls>?= 54, 116. 57, 7. 61, 2. KATHĀS. 40, 8. BHĀG. P. 9, 19, 4. MĀRK. P. 43, 54.</ls>
+<ls>2. 6, 121, 1.</ls> <ls>AIT. BR. 2, 11.</ls> <ls>ŚAT. BR. 7, 3, 2, 17.</ls> <ls>PĀR. GṚHY. 3, 7.</ls> <ls>MBH. 1, 5370.</ls> <ls n="MBH.">3, 17228.</ls> <ls>HARIV. 4103.</ls> <ls>R. 4, 9, 76. 79.</ls> <ls>SUŚR. 1, 99, 9. 100, 8. 363, 1.</ls> <ls>RAGH. 9, 62.</ls> <ls>KUMĀRAS. 7, 49.</ls> {#गो°#} 
+<ls>Spr. (II) 253.</ls> <ls n="Spr. (II)">809.</ls> <ls n="Spr.">(I) 3250.</ls> {#हुडु°#} 
+<ls>VARĀH. BṚH. S. 50,25</ls> = <ls>54, 116. 57, 7. 61, 2.</ls> <ls>KATHĀS. 40, 8.</ls> <ls>BHĀG. P. 9, 19, 4.</ls> <ls>MĀRK. P. 43, 54.</ls>
 [Page6-1254]
 {#अ°#} <lex>adj.</lex> 
 <ls>ŚAT. BR. 5, 1, 3, 8.</ls> {#त्रि°#} 
@@ -18,7 +18,7 @@
 <ls>BHĀG. P. 10, 12, 2.</ls> 
 <div n="1">— 2) {%Hauzahn des Elephanten%}, <lex>m.</lex> <lex>f.</lex> <lex>n.</lex> 
 <ls>AK.</ls> m. <ls>H. 1224.</ls> <ls>HALĀY. 2, 62.</ls> n. <ls>H. an.</ls> <ls>MED.</ls> nicht zu bestimmen ob <lex>m.</lex> oder <lex>n.</lex> 
-<ls>MBH. 4, 1707. 6, 1763. 2870. 4676. fgg.</ls> 
+<ls>MBH. 4, 1707.</ls> <ls n="MBH.">6, 1763.</ls> <ls n="MBH. 6,">2870.</ls> <ls n="MBH. 6,">4676. fgg.</ls> 
 <ls>R. 2, 69, 13. 3, 32, 20. 36, 9. 5, 14, 16. 6, 3, 44. 93, 19.</ls> 
 <ls>VARĀH. BṚH. S. 67, 9.</ls> {#स°#} <lex>adj.</lex> 
 <ls>MBH. 3, 15736.</ls> 
@@ -28,7 +28,7 @@
 <ls>VARĀH. BṚH. S. 58, 42.</ls> <lex>n.</lex> vom {%Hauzahn%} <is>Gaṇeśa's</is> 
 <ls>ŚIŚ. 1, 60.</ls> 
 <ls>VARĀH. BṚH. S. 58, 58.</ls> {%Hauzahn eines Ebers%} 
-<ls>H. an.</ls> <ls>HARIV. 2146. 16310.</ls> 
+<ls>H. an.</ls> <ls>HARIV. 2146.</ls> <ls n="HARIV.">16310.</ls> 
 <div n="1">— 3) <lex>m.</lex> oder <lex>n.</lex> {%Scheere eines Krebses%} 
 <ls>PAÑCAT. ed. orn. 42, 23.</ls> 
 <div n="1">— 4) <lex>n.</lex> {%Horn%} so v. a. {%Spitze%}: des Mondes 

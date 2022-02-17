@@ -1,27 +1,27 @@
 <L>21667<pc>683<k1>strong<k2>strong
-<div n="lb"/>{@STRONG:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#बलवत्#} (f. {#ती#}), <div n="xe">{%being%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#बलवानपि,#}</div> Ki. ii. 37.; <div n="xe">{%men are s. with%}
-<div n="lb"/>{%money:%}</div> <div n="xs">{#धनेन बलवान् लोकः,#}</div> H.; <div n="xe">{%s. thirst:%}</div> <div n="xs">{#बलवती #}
-<div n="lb"/>{# पिपासा,#}</div> K.; <div n="xe">{%by s. er fate:%}</div> <div n="xs">{#बलीयसा विधिना,#}</div> Ki.
-<div n="lb"/>xiv. 63.; </div><div n="1">(2) {#प्रबल#} (f. {#ला#}), <div n="xe">{%to destroy the s.%}
-<div n="lb"/>{%enemy:%}</div> <div n="xs">{#प्रणाशनाय प्रबलस्य विद्विषः,#}</div> R. iii. 60.;
-<div n="lb"/><div n="xe">{%s. pain:%}</div> <div n="xs">{#प्रबला वेदना,#}</div> K.; </div><div n="1">(3) {#ऊर्जित#} (f. {#ता#}),
-<div n="lb"/><div n="xe">{%s. bow:%}</div> <div n="xs">{#ऊर्जितं धनुः,#}</div> R. xi. 64.; {%s. lustre:%}
-<div n="lb"/>{#ऊर्जितं तेजः,#} Ve. i.; ({%language%}) <div n="xe">{%s. like the ruffled%}
-<div n="lb"/>{%sea:%}</div> <div n="xs">{#क्षुभितोदन्वदूर्जितम्,#}</div> Ki. ii. 40.; </div><div n="1">(4) {#ऊर्जस्वल#}
-<div n="lb"/>(f. {#ला#}), <div n="xe">{%those s. horses and elephants:%}</div> <div n="xs">{#ऊर्जस्वलं #}
-<div n="lb"/>{# हस्तितुरङ्गमेतत्,#}</div> B. iii. 55.; </div><div n="1">(5) {#वीर्यवत्#} (f. {#ती#}):
-<div n="lb"/>v. Valiant, powerful; </div><div n="1">(6) {#बलशालिन्#} (f. {#नी#})
-<div n="lb"/>and sim. comp s. (physically). Ph.: <div n="xe">{%a%}
-<div n="lb"/>{%naturally s. fortress:%}</div> <div n="xs">{#प्रकृत्या सुरक्षितं दुर्गम्,#}</div> Mah.
-<div n="lb"/>iii. 15. 17. </div><div n="I">II Able, competent: q. v.: {#क्षम#}
-<div n="lb"/>(f. {#मा#}), <div n="xe">{%s. for his work:%}</div> <div n="xs">{#आत्मकर्मक्षम#}</div> (f. {#मा#}),
-<div n="lb"/>R. i. 13. </div><div n="I">III Firm, resolute: {#दृढ#} (f. {#ढा#}).</div>
-<div n="lb"/><div n="I">IV Sharp (as of smell): q. v.: {#उग्र#} (f.
-<div n="lb"/>{#ग्रा#}). </div><div n="I">V Deep (as of colour): q. v.: {#गाढ#}
-<div n="lb"/>(f. {#ढा#}). </div><div n="I">VI Undecayed: q. v.: {#अक्षीण#} (f.
-<div n="lb"/>{#णा#}). </div><div n="I">VII =numbering: q. v.:1000 s.:
-<div n="lb"/>{#सहस्रसंख्यक#} (f. {#का#}). {%S. er-%} superior: q. v. <div n="xe">{%To%}
-<div n="lb"/>{%make s.:%}</div> <div n="xs">{#बलं ददाति#}</div> ({#दा,#} c. 3.=give or {#वर्द्धयति,#}
-<div n="lb"/>c. of {#वृध्#} =increase).</div>
+{@STRONG:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#बलवत्#} (f. {#ती#}), <div n="xe">{%being%}
+{%s.:%}</div> <div n="xs">{#बलवानपि,#}</div> Ki. ii. 37.; <div n="xe">{%men are s. with%}
+{%money:%}</div> <div n="xs">{#धनेन बलवान् लोकः,#}</div> H.; <div n="xe">{%s. thirst:%}</div> <div n="xs">{#बलवती #}
+{# पिपासा,#}</div> K.; <div n="xe">{%by s. er fate:%}</div> <div n="xs">{#बलीयसा विधिना,#}</div> Ki.
+xiv. 63.; </div><div n="1">(2) {#प्रबल#} (f. {#ला#}), <div n="xe">{%to destroy the s.%}
+{%enemy:%}</div> <div n="xs">{#प्रणाशनाय प्रबलस्य विद्विषः,#}</div> R. iii. 60.;
+<div n="xe">{%s. pain:%}</div> <div n="xs">{#प्रबला वेदना,#}</div> K.; </div><div n="1">(3) {#ऊर्जित#} (f. {#ता#}),
+<div n="xe">{%s. bow:%}</div> <div n="xs">{#ऊर्जितं धनुः,#}</div> R. xi. 64.; {%s. lustre:%}
+{#ऊर्जितं तेजः,#} Ve. i.; ({%language%}) <div n="xe">{%s. like the ruffled%}
+{%sea:%}</div> <div n="xs">{#क्षुभितोदन्वदूर्जितम्,#}</div> Ki. ii. 40.; </div><div n="1">(4) {#ऊर्जस्वल#}
+(f. {#ला#}), <div n="xe">{%those s. horses and elephants:%}</div> <div n="xs">{#ऊर्जस्वलं #}
+{# हस्तितुरङ्गमेतत्,#}</div> B. iii. 55.; </div><div n="1">(5) {#वीर्यवत्#} (f. {#ती#}):
+v. Valiant, powerful; </div><div n="1">(6) {#बलशालिन्#} (f. {#नी#})
+and sim. comp s. (physically). Ph.: <div n="xe">{%a%}
+{%naturally s. fortress:%}</div> <div n="xs">{#प्रकृत्या सुरक्षितं दुर्गम्,#}</div> Mah.
+iii. 15. 17. </div><div n="I">II Able, competent: q. v.: {#क्षम#}
+(f. {#मा#}), <div n="xe">{%s. for his work:%}</div> <div n="xs">{#आत्मकर्मक्षम#}</div> (f. {#मा#}),
+R. i. 13. </div><div n="I">III Firm, resolute: {#दृढ#} (f. {#ढा#}).</div>
+<div n="I">IV Sharp (as of smell): q. v.: {#उग्र#} (f.
+{#ग्रा#}). </div><div n="I">V Deep (as of colour): q. v.: {#गाढ#}
+(f. {#ढा#}). </div><div n="I">VI Undecayed: q. v.: {#अक्षीण#} (f.
+{#णा#}). </div><div n="I">VII =numbering: q. v.:1000 s.:
+{#सहस्रसंख्यक#} (f. {#का#}). {%S. er-%} superior: q. v. <div n="xe">{%To%}
+{%make s.:%}</div> <div n="xs">{#बलं ददाति#}</div> ({#दा,#} c. 3.=give or {#वर्द्धयति,#}
+c. of {#वृध्#} =increase).</div>
 <LEND>

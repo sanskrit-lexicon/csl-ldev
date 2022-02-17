@@ -1,10 +1,10 @@
 <L>9787<pc>309<k1>gentle<k2>gentle
-<div n="lb"/>{@GENTLE:@}¦ <div n="I">I Well-born, refined: {#भद्रः#} ({#द्रा, द्रं#}),
-<div n="lb"/><div n="xe">{%of g. nature:%}</div> <div n="xs">{#भद्रप्रकृतिः#}</div> (mfn.); {%g. behaviour:%}
-<div n="lb"/>{#भद्रव्यवहारः;#} <div n="xe">{%g. address:%}</div> <div n="xs">{#भद्रसम्भाषणम्।#}</div> </div><div n="I">II Mild,
-<div n="lb"/>soft: q.v.: </div><div n="1">(1) {#मृदु#} (f. {#द्वी#}), <div n="xe">{%with g. fire:%}</div> <div n="xs">{#मृदुना #}
-<div n="lb"/>{# वह्रिना,#}</div> Bha.; <div n="xe">{%with g. foams:%}</div> <div n="xs">{#मृदुभिः फेनैः,#}</div> B. xii.
-<div n="lb"/>48.; </div><div n="1">(2) {#शान्तः#} ({#न्ता, न्तं#}) (= calm, quiet).</div>
-<div n="lb"/><div n="I">III Of inclinations: {#अलक्षितः#} ({#ता, तं#})
-<div n="lb"/>(= unperceived) (?).</div>
+{@GENTLE:@}¦ <div n="I">I Well-born, refined: {#भद्रः#} ({#द्रा, द्रं#}),
+<div n="xe">{%of g. nature:%}</div> <div n="xs">{#भद्रप्रकृतिः#}</div> (mfn.); {%g. behaviour:%}
+{#भद्रव्यवहारः;#} <div n="xe">{%g. address:%}</div> <div n="xs">{#भद्रसम्भाषणम्।#}</div> </div><div n="I">II Mild,
+soft: q.v.: </div><div n="1">(1) {#मृदु#} (f. {#द्वी#}), <div n="xe">{%with g. fire:%}</div> <div n="xs">{#मृदुना #}
+{# वह्रिना,#}</div> Bha.; <div n="xe">{%with g. foams:%}</div> <div n="xs">{#मृदुभिः फेनैः,#}</div> B. xii.
+48.; </div><div n="1">(2) {#शान्तः#} ({#न्ता, न्तं#}) (= calm, quiet).</div>
+<div n="I">III Of inclinations: {#अलक्षितः#} ({#ता, तं#})
+(= unperceived) (?).</div>
 <LEND>

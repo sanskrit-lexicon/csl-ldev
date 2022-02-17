@@ -36,10 +36,10 @@
 <ls>KUMĀRAS. 5, 77.</ls> {#वन°#} 
 <ls>M. 8. 259.</ls> 
 <ls>YĀJÑ. 2, 150.</ls> 
-<ls>MBH. 3, 304. 416. 12, 3694. 13, 4597.</ls> 
+<ls>MBH. 3, 304.</ls> <ls n="MBH. 3,">416.</ls> <ls n="MBH.">12, 3694.</ls> <ls n="MBH.">13, 4597.</ls> 
 <ls>R. 3, 7, 14. 17.</ls> {#वनगोचरा#} 
 <ls>2, 30, 14.</ls> {#गिरि°#} 
-<ls>MBH. 3, 1600. 16043.</ls> {#राजकुलगोचराः (विहगाः)#} 
+<ls>MBH. 3, 1600.</ls> <ls n="MBH. 3,">16043.</ls> {#राजकुलगोचराः (विहगाः)#} 
 <ls>R. 2, 65, 5.</ls> {#गहन°#} 
 <ls>85, 5.</ls> {#अभ्र°#} 
 <ls>MBH. 1, 1255.</ls> {#शरीरान्तर°#} 
@@ -49,7 +49,7 @@
 <ls>SUŚR. 1, 207, 5.</ls> {#समीपोदक°#} {%ein in der Nähe gelegenes Wasser besuchend%} 
 <ls>204, 7.</ls> {#दूरे पानीयगोचराः#} 
 <ls>5.</ls> Uneig.: {#यौवन°#} {%im Jünglingsalter stehend%} 
-<ls>MBH. 1, 3168. 3, 17146.</ls> {#सिंहशार्दूलनागाद्याः पुंसि श्रेष्ठार्थगोचराः#} {%in der Bedeutung von Bester stehend, die Bed. von B. habend%} (in ganz ähnlicher Verbindung steht {#गोचर#} als <lex>adj.</lex> mit dem loc.; s. u.1,e.) 
+<ls>MBH. 1, 3168.</ls> <ls n="MBH.">3, 17146.</ls> {#सिंहशार्दूलनागाद्याः पुंसि श्रेष्ठार्थगोचराः#} {%in der Bedeutung von Bester stehend, die Bed. von B. habend%} (in ganz ähnlicher Verbindung steht {#गोचर#} als <lex>adj.</lex> mit dem loc.; s. u.1,e.) 
 <ls>AK.3,2,9.</ls> In Verb. mit einem gen. oder im comp. nach einem im gen. gedachten Worte: {#नीचस्य गोचरगतैः सुखमास्यते कैः#} {%sich im Bereich eines Gemeinen befindend, mit einem Gemeinen in Berührung gekommen%} 
 <ls>BHARTṚ. 2, 49.</ls> {#हर्तुर्याति न गोचरं#} {%kommt nicht in den Bereich des Räubers, kann nicht geraubt werden%} 
 <ls>13.</ls> {#कः कालस्य न गोचरान्तरगतः#} {%im Bereich —, in der Hand der Zeit stehend%} 

@@ -1,13 +1,13 @@
 <L>18413<pc>565<k1>quick<k2>quick
-<div n="lb"/>{@QUICK@}¦ (adj.): <div n="I">I Alive: q. v.: {#सजीव#} (f. {#वा#}).
-<div n="lb"/>Ph.: <div n="xe">{%q. with child:%}</div> <div n="xs">{#आपन्नसत्त्वा#}</div>: v. Pregnant.</div>
-<div n="lb"/><div n="I">II Lively, vivacious: q. v.: {#प्रफुल्ल#} (f. {#ल्ला#}).</div>
-<div n="lb"/><div n="I">III Sharp: q. v.: {#तीक्ष्ण#} (f. {#क्ष्णा#}). </div><div n="I">IV Agile:
-<div n="lb"/>q. v.: {#चटुल#} (f. {#ला#}). V. Speedy, swift: </div><div n="1">(1) [Page566]
-<div n="lb"/>{#शीघ्र#} (f. {#घ्रा#}), <div n="xe">{%q. in motion:%}</div> <div n="xs">{#शीघ्रग#}</div> (f. {#गा#}); <div n="xe">{%q.%}
-<div n="lb"/>{%in action:%}</div> <div n="xs">{#शीघ्रकर्मन्#}</div> (mfn.); </div><div n="1">(2) {#द्रुत#} (f. {#ता#}),
-<div n="lb"/><div n="xe">{%with a q. pace:%}</div> <div n="xs">{#द्रुतपदम्,#}</div> Ki. x. 2.; </div><div n="1">(3) {#क्षिप्र#}
-<div n="lb"/>(f. {#प्रा#}); </div><div n="1">(4) {#तूर्ण#} (f. {#र्णा#}); </div><div n="1">(5) {#त्वरित#} (f. {#ता#}
-<div n="lb"/>= hasty). Ph.: <div n="xe">{%to be q.:%}</div> <div n="xs">{#त्वरते#}</div> ({#त्वर्,#} c. 1.):
-<div n="lb"/>v. To hasten.</div>
+{@QUICK@}¦ (adj.): <div n="I">I Alive: q. v.: {#सजीव#} (f. {#वा#}).
+Ph.: <div n="xe">{%q. with child:%}</div> <div n="xs">{#आपन्नसत्त्वा#}</div>: v. Pregnant.</div>
+<div n="I">II Lively, vivacious: q. v.: {#प्रफुल्ल#} (f. {#ल्ला#}).</div>
+<div n="I">III Sharp: q. v.: {#तीक्ष्ण#} (f. {#क्ष्णा#}). </div><div n="I">IV Agile:
+q. v.: {#चटुल#} (f. {#ला#}). V. Speedy, swift: </div><div n="1">(1) [Page566]
+{#शीघ्र#} (f. {#घ्रा#}), <div n="xe">{%q. in motion:%}</div> <div n="xs">{#शीघ्रग#}</div> (f. {#गा#}); <div n="xe">{%q.%}
+{%in action:%}</div> <div n="xs">{#शीघ्रकर्मन्#}</div> (mfn.); </div><div n="1">(2) {#द्रुत#} (f. {#ता#}),
+<div n="xe">{%with a q. pace:%}</div> <div n="xs">{#द्रुतपदम्,#}</div> Ki. x. 2.; </div><div n="1">(3) {#क्षिप्र#}
+(f. {#प्रा#}); </div><div n="1">(4) {#तूर्ण#} (f. {#र्णा#}); </div><div n="1">(5) {#त्वरित#} (f. {#ता#}
+= hasty). Ph.: <div n="xe">{%to be q.:%}</div> <div n="xs">{#त्वरते#}</div> ({#त्वर्,#} c. 1.):
+v. To hasten.</div>
 <LEND>

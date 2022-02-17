@@ -1,4 +1,4 @@
 <L>18705<pc>576<k1>recipe<k2>recipe
-<div n="lb"/>{@RECIPE:@}¦ <div n="xe">{%r. s for making food:%}</div> <div n="xs">{#अन्नानां साधनप्रकारः,#}</div>
-<div n="lb"/>Bha.
+{@RECIPE:@}¦ <div n="xe">{%r. s for making food:%}</div> <div n="xs">{#अन्नानां साधनप्रकारः,#}</div>
+Bha.
 <LEND>

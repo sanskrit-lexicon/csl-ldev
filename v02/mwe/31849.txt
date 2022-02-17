@@ -1,4 +1,4 @@
 <L>31849<pc>851-b<k1>anniversary<k2>anniversary
-<div n="lb"/>ANNIVERSARY¦, {%s.%} {#प्रतिवार्षिकदिवसः;#} ‘of a birth,’ {#जन्मदिवसः, जन्म-#}
-<div n="lb"/>{#तिथिः#} {%m. f.;%} ‘of a death,’ {#मृतदिवसः, मृततिथिः#}.
+ANNIVERSARY¦, {%s.%} {#प्रतिवार्षिकदिवसः;#} ‘of a birth,’ {#जन्मदिवसः, जन्म-#}
+{#तिथिः#} {%m. f.;%} ‘of a death,’ {#मृतदिवसः, मृततिथिः#}.
 <LEND>

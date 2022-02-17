@@ -1,6 +1,6 @@
 <L>16566<pc>508<k1>patient<k2>patient
-<div n="lb"/>{@PATIENT@}¦ (adj.): <div n="I">I In gen.: </div><div n="1">(1) {#क्षमिन्#} (f.
-<div n="lb"/>{#णी#}); </div><div n="1">(2) {#तितिक्षु#} (mfn.); </div><div n="1">(3) {#सहिष्णु#} (mfn.);</div>
-<div n="lb"/><div n="1">(4) {#क्षमायुक्त#} (f. {#क्ता#}) and sim. comp.s. </div><div n="I">II
-<div n="lb"/>Not hasty: {#धीरः#} ({#रा, रं#}).</div>
+{@PATIENT@}¦ (adj.): <div n="I">I In gen.: </div><div n="1">(1) {#क्षमिन्#} (f.
+{#णी#}); </div><div n="1">(2) {#तितिक्षु#} (mfn.); </div><div n="1">(3) {#सहिष्णु#} (mfn.);</div>
+<div n="1">(4) {#क्षमायुक्त#} (f. {#क्ता#}) and sim. comp.s. </div><div n="I">II
+Not hasty: {#धीरः#} ({#रा, रं#}).</div>
 <LEND>

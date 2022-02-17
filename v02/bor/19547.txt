@@ -1,6 +1,6 @@
 <L>19547<pc>608<k1>ruminate<k2>ruminate
-<div n="lb"/>{@RUMINATE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#रोमन्थायते:#} </div><div n="1">(2) {#रोमन्थम् #}
-<div n="lb"/>{# अभ्यस्यति#} ({#अस्,#} c. 4.), {#करोति,#} etc. </div><div n="I">II To
-<div n="lb"/>meditate, think over: q. v.: </div><div n="1">(1) {#अनुध्यायति#}
-<div n="lb"/>({#ध्यै,#} c. 1.); </div><div n="1">(2) {#संचिन्तयति#} ({#चिन्त्,#} c. 10.).</div>
+{@RUMINATE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#रोमन्थायते:#} </div><div n="1">(2) {#रोमन्थम् #}
+{# अभ्यस्यति#} ({#अस्,#} c. 4.), {#करोति,#} etc. </div><div n="I">II To
+meditate, think over: q. v.: </div><div n="1">(1) {#अनुध्यायति#}
+({#ध्यै,#} c. 1.); </div><div n="1">(2) {#संचिन्तयति#} ({#चिन्त्,#} c. 10.).</div>
 <LEND>

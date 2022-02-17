@@ -4,10 +4,10 @@
 <div n="2"> a) {%das Gesicht abwendend, rückwärts gerichtet%}: {#विमुखा बान्धवा यान्ति#} {%kehren um, gehen heimwärts%} 
 <ls>Spr. 2238.</ls> {#यस्यार्थिनो वा शरणागता वा नाशाभिन्ना विमुखाः प्रयान्ति#} 
 <ls>3054.</ls> <ls>HARIV. 3916.</ls> {#द्रुतं जगाम विमुखः#} 
-<ls>3750.</ls> {#विमुखाञ्छात्रवान्सर्वान्कारयिष्यति मे सुतः#} {%in die Flucht schlagen%} 
+<ls n="HARIV.">3750.</ls> {#विमुखाञ्छात्रवान्सर्वान्कारयिष्यति मे सुतः#} {%in die Flucht schlagen%} 
 <ls>MBH. 1, 2755.</ls> {#विमुखो ऽभवद्रणे#} 
 <ls>5491. 3, 12109. 15741. 6, 2909. 7, 1745.fg.</ls> {#जग्मुर्विषादविमुखा रणे#} 
-<ls>HARIV. 11053</ls> <ls>(S. 791).</ls> {#भीतान्यस्त्राणि सर्वाणि विमुखानि क्षणाद्ययुः#} 
+<ls>HARIV. 11053</ls> (<ls>S. 791).</ls> {#भीतान्यस्त्राणि सर्वाणि विमुखानि क्षणाद्ययुः#} 
 <ls>KATHĀS. 118, 84.</ls> 
 <div n="2">— b) {%das Gesicht im Unmuth%}, insbes. {%in Folge einer vereitelten Hoffnung von Jmd%} (gen.) {%abwendend, abgewiesen, unverrichteter Sache abziehend%}: {#यस्यार्थिनो न विमुखाः#} 
 <ls>Spr. 5145.</ls> {#विमुखो ऽर्थी न याति मे#} 
@@ -42,10 +42,10 @@
 <ls>Spr. 1802.</ls> 
 <ls>PAÑCAT. 3, 13.</ls> 
 <ls>SĀH. D. 5, 19. 16, 1.</ls> 
-<ls>Spr. (II) 2063, v. l. (I) 1812. 3268.</ls> {#जलमुचि वितरणविमुखे#} 
-<ls>(II) 2359.</ls> <ls>KATHĀS. 30, 8.</ls> {#अन्यपत्नी°#} 
+<ls>Spr. (II) 2063, v. l.</ls> <ls n="Spr.">(I) 1812. 3268.</ls> {#जलमुचि वितरणविमुखे#} 
+(<ls>II) 2359.</ls> <ls>KATHĀS. 30, 8.</ls> {#अन्यपत्नी°#} 
 <ls>32, 122. 191. 45, 96. 113. 46, 149.</ls> <ls>PRAB. 16, 5.</ls> <ls>BHĀG. P. 3, 9, 10.</ls> {#मद्याच्ञा°#} 
-<ls>4,27,22.7,9,10.</ls> <ls>PAÑCAR. 1,2,60.6,49. 10,11.4,2,30.</ls> <ls>Verz. d. Oxf. H. 109,b,</ls> <ls>No. 170.</ls> {#करुणाविमुखेन मृत्युना#} so v. a. {%kein Mitleid kennend%} 
+<ls>4,27,22.7,9,10.</ls> <ls>PAÑCAR. 1,2,60.6,49. 10,11.4,2,30.</ls> <ls>Verz. d. Oxf. H. 109,b, No. 170.</ls> {#करुणाविमुखेन मृत्युना#} so v. a. {%kein Mitleid kennend%} 
 <ls>RAGH. 8, 66.</ls> {#मनः परस्त्रीविमुखप्रवृत्ति#} 
 <ls>16, 8.</ls> {#सुखं धैर्यविमुखम्#} so v. a. {%ohne Bestand%} 
 <ls>Spr. 5319.</ls> 
@@ -54,7 +54,7 @@
 <div n="2">— e) {%des Gesichtes%} d. i. {%des Kopfes beraubt%} 
 <ls>HARIV. 2755.</ls> 
 <div n="2">— f) Bez. eines best. Spruches 
-<ls>?(VS. 17, 86. 39, 7) KĀTY. ŚR. 18, 4, 24. 20, 8, 5.</ls> 
+(<ls>VS. 17, 86. 39, 7</ls>) <ls>KĀTY. ŚR. 18, 4, 24. 20, 8, 5.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines <is>Muni</is> 
 <ls>R. 7, 1,</ls> <ls>3; v. l.</ls> {#विमुच#}.{# - ऽविमुखं#} 
 <ls>MBH. 15, 93</ls> fehlerhaft für {#ऽभिमुखं#}, wie die ed. Bomb. liest.

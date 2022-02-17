@@ -1,4 +1,4 @@
 <L>11863<pc>370<k1>incline<k2>incline
-<div n="lb"/>{@INCLINE:@}¦ (subs.): {#उत्सर्पिणी#} (= ascending) {%or%}
-<div n="lb"/>{#अवसर्पिणी#} (= descending) {#भूमिः,#} Mat.
+{@INCLINE:@}¦ (subs.): {#उत्सर्पिणी#} (= ascending) {%or%}
+{#अवसर्पिणी#} (= descending) {#भूमिः,#} Mat.
 <LEND>

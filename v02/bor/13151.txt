@@ -1,6 +1,6 @@
 <L>13151<pc>406<k1>lamentable<k2>lamentable
-<div n="lb"/>{@LAMENTABLE:@}¦ <div n="I">I Deplorable: {#शोचनीयः#} ({#या, #}
-<div n="lb"/>{# यं#}) <div n="xe">{%or%}</div> <div n="xs">{#शोच्य#}</div> (f. {#च्या#}), {#अनु-।#} </div><div n="I">II Mourning:
-<div n="lb"/>by comp., <div n="xe">{%“l. eye”:%}</div> <div n="xs">{#शोकचक्षुः;#}</div> {%by the l words:%}
-<div n="lb"/>{#परिदेविताक्षरैः,#} Ku. iv. 25.</div>
+{@LAMENTABLE:@}¦ <div n="I">I Deplorable: {#शोचनीयः#} ({#या, #}
+{# यं#}) <div n="xe">{%or%}</div> <div n="xs">{#शोच्य#}</div> (f. {#च्या#}), {#अनु-।#} </div><div n="I">II Mourning:
+by comp., <div n="xe">{%“l. eye”:%}</div> <div n="xs">{#शोकचक्षुः;#}</div> {%by the l words:%}
+{#परिदेविताक्षरैः,#} Ku. iv. 25.</div>
 <LEND>

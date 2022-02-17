@@ -1,6 +1,6 @@
 <L>501<pc>019<k1>aim<k2>aim
-<div n="lb"/>{@AIM@}¦ (subs): <div n="I">I The object aimed at: </div><div n="1">(1) {#लक्षयम्;#}</div>
-<div n="lb"/><div n="1">(2) {#शरव्यम्;#} </div><div n="1">(3) {#लक्षं।#} </div><div n="I">II The direction of a
-<div n="lb"/>missile weapon: {#सन्धानम्।#} </div><div n="I">III A purpose,
-<div n="lb"/>intention: q. v. {#चिकीर्षितम्।#}</div>
+{@AIM@}¦ (subs): <div n="I">I The object aimed at: </div><div n="1">(1) {#लक्षयम्;#}</div>
+<div n="1">(2) {#शरव्यम्;#} </div><div n="1">(3) {#लक्षं।#} </div><div n="I">II The direction of a
+missile weapon: {#सन्धानम्।#} </div><div n="I">III A purpose,
+intention: q. v. {#चिकीर्षितम्।#}</div>
 <LEND>

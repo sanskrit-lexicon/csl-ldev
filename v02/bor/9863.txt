@@ -1,4 +1,4 @@
 <L>9863<pc>311<k1>gibbous<k2>gibbous
-<div n="lb"/>{@GIBBOUS:@}¦ <div n="I">I Crooked: q.v.: {#वक्रः#} ({#क्रा, क्रं#}).</div>
-<div n="lb"/><div n="I">II Hunched: q.v.</div>
+{@GIBBOUS:@}¦ <div n="I">I Crooked: q.v.: {#वक्रः#} ({#क्रा, क्रं#}).</div>
+<div n="I">II Hunched: q.v.</div>
 <LEND>

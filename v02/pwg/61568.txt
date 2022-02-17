@@ -1,12 +1,12 @@
 <L>61568<pc>5-0876<k1>मृगेन्द्र<k2>मृगेन्द्र
-{#मृगेन्द्र#}¦ {#(मृग + इ°)#} 
+{#मृगेन्द्र#}¦ ({#मृग + इ°#}) 
 <div n="1"> 1) <lex>m.</lex> {%der Fürst der Thiere des Waldes%}: 
 <div n="2"> a) {%Löwe%} 
 <ls>AK. 2, 5, 1.</ls> 
 <ls>BHAG. 10, 30.</ls> 
 <ls>HARIV. 12724. fg.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 20, 3.</ls> 
+
+<ls>R. GORR. 2, 20, 3.</ls> 
 <ls>RAGH. 2, 30. 43.</ls> 
 <ls>ṚT. 1, 27.</ls> 
 <ls>KĀM. NĪTIS. 10, 34.</ls> <ls>KATHĀS. 19, 63. 60, 115.</ls> <ls>BHĀG. P. 1, 12, 22. 4, 6, 20.</ls> {#°शाव#} 
@@ -18,7 +18,7 @@
 <div n="2">— c) {%Tiger%} 
 <ls>MBH. 3, 2434.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%ein best. Metrum, 4 Mal%} {Ç} 
-<ls>COLEBR. Misc. Ess. II, 158</ls> <ls>(III, 6).</ls> 
+<ls>COLEBR. Misc. Ess. II, 158</ls> (<ls>III, 6).</ls> 
 <div n="1">— 3) <lex>m.</lex> N. pr. eines Autors 
 <ls>HALL 163.</ls> 
 <div n="1">— 4) wohl <lex>n.</lex> Titel von <is>Mṛgendra's</is> Werke (zum <is>Śaivadarśana</is> gehörig) 

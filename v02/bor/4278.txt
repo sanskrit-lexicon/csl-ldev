@@ -1,5 +1,5 @@
 <L>4278<pc>139<k1>concealer<k2>concealer
-<div n="lb"/>{@CONCEALER:@}¦ <div n="1">(1) {#गूहकः, नि-;#} </div><div n="1">(2) {#गोप्तृ, सं-,#} (m.),
-<div n="lb"/><div n="xe">{%buyer, receiver, and c. of stolen property:%}</div> <div n="xs">{#चोरित-#}
-<div n="lb"/>{#द्रव्याणां क्रोता ग्रहीता संगोप्ता च,#}</div> Viv.</div>
+{@CONCEALER:@}¦ <div n="1">(1) {#गूहकः, नि-;#} </div><div n="1">(2) {#गोप्तृ, सं-,#} (m.),
+<div n="xe">{%buyer, receiver, and c. of stolen property:%}</div> <div n="xs">{#चोरित-#}
+{#द्रव्याणां क्रोता ग्रहीता संगोप्ता च,#}</div> Viv.</div>
 <LEND>

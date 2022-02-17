@@ -1,4 +1,4 @@
 <L>23979<pc>750<k1>voluntarily<k2>voluntarily
-<div n="lb"/>{@VOLUNTARILY:@}¦ <div n="1">(1) {#कामतः;#} </div><div n="1">(2) {#इच्छापूर्वकम्;#}</div>
-<div n="lb"/><div n="1">(3) {#संकल्पपुरःसरम्,#} etc.</div>
+{@VOLUNTARILY:@}¦ <div n="1">(1) {#कामतः;#} </div><div n="1">(2) {#इच्छापूर्वकम्;#}</div>
+<div n="1">(3) {#संकल्पपुरःसरम्,#} etc.</div>
 <LEND>

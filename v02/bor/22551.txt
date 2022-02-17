@@ -1,5 +1,5 @@
 <L>22551<pc>712<k1>tick<k2>tick
-<div n="lb"/>{@TICK:@}¦ <div n="I">I An insect: {#यूकः।#} </div><div n="I">II Credit: q. v.</div>
-<div n="lb"/><div n="I">III A covering: {#आस्तरणम्।#} </div><div n="I">IV A noise:
-<div n="lb"/>perh. {#टीकितम्।#}</div>
+{@TICK:@}¦ <div n="I">I An insect: {#यूकः।#} </div><div n="I">II Credit: q. v.</div>
+<div n="I">III A covering: {#आस्तरणम्।#} </div><div n="I">IV A noise:
+perh. {#टीकितम्।#}</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>24334<pc>761<k1>why<k2>why
-<div n="lb"/>{@WHY@}¦ (adv.): <div n="1">(1) {#किम्#} (not absol.), <div n="xe">{%w. are you%}
-<div n="lb"/>{%thus tiring yourself for nothing:%}</div> <div n="xs">{#व्यर्थ परिश्राम्यसि #}
-<div n="lb"/>{# वा किमित्थम्,#}</div> N. iii. 13; </div><div n="1">(2) {#कुतः#} <div n="xe">{%or%}</div> <div n="xs">{#कस्मात्,#}</div> {%w.%}
-<div n="lb"/>{%because the word soul%} ({%is used%}): {#कस्मात् आत्म-#}
-<div n="lb"/>{#शब्दात्,#} S.; </div><div n="1">(3) {#किमर्थम्#} (= for what object);</div>
-<div n="lb"/><div n="1">(4) {#किन्निमित्तम्;#} </div><div n="1">(5) {#किंकारणम्, केन हेतुना, #}
-<div n="lb"/>{# कस्माद्धेतोः,#} etc. (= for what reason).</div>
+{@WHY@}¦ (adv.): <div n="1">(1) {#किम्#} (not absol.), <div n="xe">{%w. are you%}
+{%thus tiring yourself for nothing:%}</div> <div n="xs">{#व्यर्थ परिश्राम्यसि #}
+{# वा किमित्थम्,#}</div> N. iii. 13; </div><div n="1">(2) {#कुतः#} <div n="xe">{%or%}</div> <div n="xs">{#कस्मात्,#}</div> {%w.%}
+{%because the word soul%} ({%is used%}): {#कस्मात् आत्म-#}
+{#शब्दात्,#} S.; </div><div n="1">(3) {#किमर्थम्#} (= for what object);</div>
+<div n="1">(4) {#किन्निमित्तम्;#} </div><div n="1">(5) {#किंकारणम्, केन हेतुना, #}
+{# कस्माद्धेतोः,#} etc. (= for what reason).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>23026<pc>725<k1>twelvemonth<k2>twelvemonth
-<div n="lb"/>{@TWELVEMONTH:@}¦ <div n="xe">{%for a t.:%}</div> <div n="xs">{#द्वादशभासान्,#}</div> Vas.
-<div n="lb"/>: v. Year.
+{@TWELVEMONTH:@}¦ <div n="xe">{%for a t.:%}</div> <div n="xs">{#द्वादशभासान्,#}</div> Vas.
+: v. Year.
 <LEND>

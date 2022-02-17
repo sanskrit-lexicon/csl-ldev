@@ -1,5 +1,5 @@
 <L>11093<pc>348<k1>holding<k2>holding
-<div n="lb"/>{@HOLDING@}¦ (subs.): i.e. tenure; {#क्षेत्रम्#} (= field),
-<div n="lb"/><div n="xe">{%according to the nature of the h.:%}</div> <div n="xs">{#क्षेत्रस्थित्यनुसारेण,#}</div>
-<div n="lb"/>Mit.
+{@HOLDING@}¦ (subs.): i.e. tenure; {#क्षेत्रम्#} (= field),
+<div n="xe">{%according to the nature of the h.:%}</div> <div n="xs">{#क्षेत्रस्थित्यनुसारेण,#}</div>
+Mit.
 <LEND>

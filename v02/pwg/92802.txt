@@ -12,7 +12,7 @@
 <ls>MBH. 3, 10628.</ls> {#देवो विराट्#} von der Sonne 
 <ls>Verz. d. Oxf. H. 62,a,42.</ls> <lex>m.</lex> = {#क्षत्रिय#} {%Herrscher, Fürst%} 
 <ls>AK. 2, 8, 1, 1.</ls> 
-<ls>MBH. 1, 3148. 3, 12704.</ls> 
+<ls>MBH. 1, 3148.</ls> <ls n="MBH.">3, 12704.</ls> 
 <ls>BHĀG. P. 4, 27, 6.</ls> 
 <div n="1">— 2) <lex>f.</lex> {%Auszeichnung, hohe Stellung%}: {#अन^वरुद्धा\ वा ए\तस्य^ वि\राड्य आहि^ताग्नि\ः सन्न^स\भः#} 
 <ls>TS. 1, 7, 6, 7.</ls> {#परमायां विराजि प्रतितिष्ठन्तः#} 
@@ -25,7 +25,7 @@
 <ls>ṚV. 10, 90, 5.</ls> 
 <ls>AV. 8, 5, 10. 11. 9, 1. 10, 1.</ls> Die Sonne heisst {#व\त्सो वि\राज^ः#} 
 <ls>13, 1, 31.</ls> <ls>TBR. 1, 2, 1, 27.</ls> <ls>ŚAT. BR. 14, 6, 11, 3.</ls> <ls>KĀṬH. 36, 2.</ls> {#गां मा हि^ंसी\रदि^तिं वि\राज^म्#} 
-<ls>VS. 13,</ls> <ls>?43; vgl. 17, 3.</ls> {#विराजो दोहो ऽसि#} 
+<ls>VS. 13, 43</ls>; vgl. <ls>17, 3.</ls> {#विराजो दोहो ऽसि#} 
 <ls>ĀŚV. GṚHY. 1, 24, 20. fgg.</ls> 
 <ls>ŚAT. BR. 1, 5, 2, 20.</ls> <is>Vāc</is> <is>Virāj</is>, Tochter des <is>Kāma</is>, 
 <ls>AV. 9, 2, 5.</ls> angeblich <is>Agni</is> 
@@ -36,17 +36,17 @@
 <ls>33.</ls> {#विराट्सुताः सोमसदः साध्यानां पितरः स्मृताः#} 
 <ls>3, 195.</ls> {#स आत्मा चैव यज्ञश्च विश्वरूपः प्रजापतिः । विराजः सो ऽन्नरूपेण यज्ञत्वमुपगच्छति ॥#} 
 <ls>YĀJÑ. 3, 120.</ls> 
-<ls>Ind. St. 9, 5 u.s.w.</ls> Sohn <is>Viṣṇu's</is>, Vater des <is>Puruṣa</is> (= <is>Manu</is>) 
+<ls>Ind. St. 9, 5</ls> u.s.w. Sohn <is>Viṣṇu's</is>, Vater des <is>Puruṣa</is> (= <is>Manu</is>) 
 <ls>HARIV. 51.</ls> {#यद्ब्रह्म चक्षुषोर्मध्ये स सूक्ष्मः पुरुषो विराट्#} 
-<ls>?11709. WEBER, RĀMAT. UP. 351.VP. 51. fgg., N. 3. 93. BHĀG. P.2,6,16. 21. 41.3,6,9. fgg. 26,51. Verz. d. Oxf. H. 23,b,10. 39,a,6.</ls>
+<ls n="HARIV.">11709.</ls> <ls>WEBER, RĀMAT. UP. 351.</ls> <ls>VP. 51. fgg., N. 3. 93.</ls> <ls>BHĀG. P. 2,6,16. 21. 41.3,6,9. fgg. 26,51.</ls> <ls>Verz. d. Oxf. H. 23,b,10. 39,a,6.</ls>
 [Page6-1154]
 entsteht aus den fünf Elementen 
-<ls>226,a, No. 554, Śl. 7.</ls> = {#परमात्मन्#} als {#अङ्कुर#} 
-<ls>300,a, No. 734.</ls> = {#कृष्ण, विष्णु#} 
+<ls n="Verz. d. Oxf. H.">226,a, No. 554, Śl. 7.</ls> = {#परमात्मन्#} als {#अङ्कुर#} 
+<ls n="Verz. d. Oxf. H.">300,a, No. 734.</ls> = {#कृष्ण, विष्णु#} 
 <ls>MBH. 12, 1509.</ls> 
 <ls>PAÑCAR. 2, 6, 25. 4, 3, 46.</ls> = {#वैश्वानर, चैतन्य#} 
 <ls>VEDĀNTAS. (Allah.) No. 72.</ls> als <lex>f.</lex> = {#पृथिवी#} nach 
-<ls>NĪLAK.</ls> <ls>MBH. 7, 2417. 2420.</ls> 
+<ls>NĪLAK.</ls> <ls>MBH. 7, 2417.</ls> <ls n="MBH. 7,">2420.</ls> 
 <div n="1">— 4) <lex>f.</lex> {%ein best. Metrum%}, als die achte zu den sieben gewöhnlichen Formen betrachtet (
 <ls>ŚAT. BR. 8, 3, 3, 6. 10, 1, 2, 9</ls>); in der Prosodik {%ein um zwei Silben defectives Metrum%} 
 <ls>NIR. 7, 13.</ls> 
@@ -61,7 +61,7 @@ entsteht aus den fünf Elementen
 <ls>CHĀND. UP. 4, 3, 8.</ls> 
 <ls>PAÑCAR. 3, 3, 9.</ls> Vgl. <ls>Ind. St. 8.</ls> 
 <div n="1">— 5) <lex>f.</lex> Bez. {%gewisser Backsteine%} 
-<ls>(40</ls> an der Zahl) 
+(<ls>40</ls> an der Zahl) 
 <ls>VS. 13, 24. 14, 13.</ls> 
 <ls>TS. 5, 2, 7, 5. 5, 4, 1.</ls> 
 <ls>ŚAT. BR. 8, 5, 1, 5.</ls> 

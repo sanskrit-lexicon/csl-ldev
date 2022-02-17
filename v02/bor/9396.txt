@@ -1,4 +1,4 @@
 <L>9396<pc>298<k1>freeze<k2>freeze
-<div n="lb"/>{@FREEZE@}¦ (v.i.): <div n="I">I Lit.: {#शिलीकरोति, घनीकरोति।#}</div>
-<div n="lb"/><div n="I">II Fig: {#जडीकरोति।#}</div>
+{@FREEZE@}¦ (v.i.): <div n="I">I Lit.: {#शिलीकरोति, घनीकरोति।#}</div>
+<div n="I">II Fig: {#जडीकरोति।#}</div>
 <LEND>

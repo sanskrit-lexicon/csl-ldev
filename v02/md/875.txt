@@ -1,11 +1,11 @@
 <L>875<pc>008-3<k1>अथ<k2>अथ
 {#अथ#}¦á-tha, {%ad.%} then, thereupon; now, here 
-<>begins ({%at bg. of works or sections, cp.%} iti); now, 
-<>so, then ({%at bg. of sentences%}); but, however, 
-<>and yet; if; then, {%corr. to%} yadā; {%often strengthened %}<lbinfo n="8"/>
-<>{% by%} {@atas, apī, ca, tu, punar@}; {%sts. mere %}
-<>{%verse-filler%}; {@atha vā,@} or, or else, or rather ({%giving %}<lbinfo n="6"/>
-<>{% another explanation%}); however; even; {%repeated%}: <lbinfo n="4"/>
-<> either -- or; {@atha kim,@} what else ? = 
-<>certainly; {@atha kimu,@} to say nothing of --.
+begins ({%at bg. of works or sections, cp.%} iti); now, 
+so, then ({%at bg. of sentences%}); but, however, 
+and yet; if; then, {%corr. to%} yadā; {%often strengthened %}<lbinfo n="8"/>
+{% by%} {@atas, apī, ca, tu, punar@}; {%sts. mere %}
+{%verse-filler%}; {@atha vā,@} or, or else, or rather ({%giving %}<lbinfo n="6"/>
+{% another explanation%}); however; even; {%repeated%}: <lbinfo n="4"/>
+ either -- or; {@atha kim,@} what else ? = 
+certainly; {@atha kimu,@} to say nothing of --.
 <LEND>

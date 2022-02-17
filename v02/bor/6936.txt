@@ -1,6 +1,6 @@
 <L>6936<pc>221<k1>dress<k2>dress
-<div n="lb"/>{@DRESS@}¦ (subs.): {#वेषः#} <div n="xe">{%or%}</div> <div n="xs">{#वेशः,#}</div> <div n="xe">{%take away the hunt-%}
-<div n="lb"/>{%ing d.:%}</div> <div n="xs">{#मृगयावेशमपनयन्तु,#}</div> Sa.; <div n="1">(2) {#नेपथ्यम्#} (rare),
-<div n="lb"/><div n="xe">{%with marriage d.:%}</div> <div n="xs">{#वैवाहिकेन नेपथ्येन,#}</div> Ma. vi.: v.
-<div n="lb"/>Clothes, garment.</div>
+{@DRESS@}¦ (subs.): {#वेषः#} <div n="xe">{%or%}</div> <div n="xs">{#वेशः,#}</div> <div n="xe">{%take away the hunt-%}
+{%ing d.:%}</div> <div n="xs">{#मृगयावेशमपनयन्तु,#}</div> Sa.; <div n="1">(2) {#नेपथ्यम्#} (rare),
+<div n="xe">{%with marriage d.:%}</div> <div n="xs">{#वैवाहिकेन नेपथ्येन,#}</div> Ma. vi.: v.
+Clothes, garment.</div>
 <LEND>

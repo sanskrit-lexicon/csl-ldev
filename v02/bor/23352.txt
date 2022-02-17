@@ -1,4 +1,4 @@
 <L>23352<pc>733<k1>unhoped for<k2>unhoped for
-<div n="lb"/>{@UNHOPED FOR:@}¦ <div n="1">(1) {#अनाकांक्षित#} (= unexpected);</div>
-<div n="lb"/><div n="1">(2) {#आशातीत#} (beyond hope).</div>
+{@UNHOPED FOR:@}¦ <div n="1">(1) {#अनाकांक्षित#} (= unexpected);</div>
+<div n="1">(2) {#आशातीत#} (beyond hope).</div>
 <LEND>

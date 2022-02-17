@@ -1,11 +1,11 @@
 <L>104825<pc>7-0651<k1>संनिपात<k2>संनिपात
 {#संनिपात#}¦ (von 1. {#पत्#} mit {#संनि#}) <lex>m.</lex> 
 <div n="1"> 1) {%Zusammenstoss%} (auch von Feinden), {%das Zusammenprallen, Zusammentreffen; Verbindung%}: {#शरयोः#} 
-<ls>MBH. 3, 1565. 7, 3625.</ls> {#तालिका°#} 
+<ls>MBH. 3, 1565.</ls> <ls n="MBH.">7, 3625.</ls> {#तालिका°#} 
 <ls>HARIV. 9920.</ls> {#कर°#} ({%Hand%} und {%Strahl%}) 
 <ls>KATHĀS. 103, 237.</ls> {#गज°#} 
 <ls>RAGH. 7, 43.</ls> {#धनंजयबृहन्तयोः#} 
-<ls>MBH. 2, 1017. 1039. 4, 352</ls> <ls>?(= HARIV. 4717). 1534. 1902. 6, 146. 3154. 4161. 7, 1247. 8554. 14, 479. HARIV. 4734. KĀM. NĪTIS. 9, 60. BHĀṢĀP. 116.</ls> {#संयोगस्तु व्यञ्जनसंनिपातः#} 
+<ls>MBH. 2, 1017.</ls> <ls n="MBH. 2,">1039.</ls> <ls n="MBH.">4, 352</ls> (= <ls>HARIV. 4717</ls>).<ls n="MBH. 3,">1534.</ls> <ls n="MBH. 3,">1902.</ls> <ls n="MBH.">6, 146.</ls> <ls n="MBH. 6,">3154.</ls> <ls n="MBH. 6,">4161.</ls> <ls n="MBH.">7, 1247.</ls> <ls n="MBH. 7,">8554. 14, 479.</ls> <ls>HARIV. 4734.</ls> <ls>KĀM. NĪTIS. 9, 60.</ls> <ls>BHĀṢĀP. 116.</ls> {#संयोगस्तु व्यञ्जनसंनिपातः#} 
 <ls>ṚV. PRĀT. 1, 7.</ls> {#स्वरितानुदात्त°#} 
 <ls>TS. PRĀT. 10, 12.</ls> {#वर्गाणां विपरीतानाम्#} Comm. zu 
 <ls>AV. PRĀT. 2, 38.</ls> <ls>PAT.</ls> zu <ls>P. 6, 4, 19.</ls> <is>Paribhāṣā</is> 
@@ -13,7 +13,7 @@ zu <ls>7, 1, 13.</ls> {#वातपित्तकफशोणित°#}
 <ls>SUŚR. 1, 4, 9. 61, 6. 320, 14. 2, 1, 5.</ls> 
 <ls>KIR. 5, 36.</ls> 
 <ls>R. 5, 85, 23.</ls> {#प्राणानाम्#} 
-<ls>MBH. 3, 13969</ls> <ls>?= 12, 6877.</ls> {#धूमज्योतिः सलिलमरुतां संनिपातः#} ist die Wolke 
+<ls>MBH. 3, 13969</ls> = <ls>12, 6877.</ls> {#धूमज्योतिः सलिलमरुतां संनिपातः#} ist die Wolke 
 <ls>MEGH. 5.</ls> 
 <ls>RAGH. 13, 58.</ls> {#उदगयनपूर्वपक्षपुण्याहसंनिपाते यज्ञकालः#} 
 <ls>LĀṬY. 8, 1, 1. 6, 9, 8.</ls> 
@@ -41,7 +41,7 @@ zu <ls>7, 1, 13.</ls> {#वातपित्तकफशोणित°#}
 <ls>2, 402, 20.</ls> <ls>ŚĀRṄG. SAṂH. 2, 2, 104.</ls> {#°श्वयथु#} 
 <ls>SUŚR. 2, 133, 13.</ls> — 
 <ls>Spr. (II) 6283.</ls> 
-<ls>Verz. d. B. H. No. 949. 965. 972. 1370.</ls> <ls>Verz. d. Oxf. H. 319</ls>, {%b%}, 
+<ls>Verz. d. B. H. No. 949. 965. 972. 1370.</ls> <ls>Verz. d. Oxf. H. 319,b,</ls> 
 <ls>No. 758 (14</ls> Formen). {#°भैरवो रसः#} {%a%}, 
 <ls>8. 9.</ls> 
 <div n="1">— 4) in der Astrol. {%eine best. Art von Conjunction der Planeten%} 

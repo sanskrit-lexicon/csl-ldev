@@ -1,5 +1,5 @@
 <L>14078<pc>432<k1>malignant<k2>malignant
-<div n="lb"/>{@MALIGNANT:@}¦ <div n="I">I Malevolent: </div><div n="1">(1) {#द्रोहबुद्धि#}
-<div n="lb"/>(mfn.); </div><div n="1">(2) {#विद्वेषमावः#} ({#वा, वं#}). </div><div n="I">II Unpro-
-<div n="lb"/>-pitious: {#अशुभः#} ({#भा, भं#}).</div>
+{@MALIGNANT:@}¦ <div n="I">I Malevolent: </div><div n="1">(1) {#द्रोहबुद्धि#}
+(mfn.); </div><div n="1">(2) {#विद्वेषमावः#} ({#वा, वं#}). </div><div n="I">II Unpro-
+-pitious: {#अशुभः#} ({#भा, भं#}).</div>
 <LEND>

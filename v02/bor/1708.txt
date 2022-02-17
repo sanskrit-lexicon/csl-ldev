@@ -1,3 +1,3 @@
 <L>1708<pc>059<k1>battle-cry<k2>battle-cry
-<div n="lb"/>{@BATTLE-CRY:@}¦ <div n="1">(1) {#सिंहनादः;#} </div><div n="1">(2) {#क्ष्वेडितम्;#} </div><div n="1">(3) {#क्ष्वेडा।#}</div>
+{@BATTLE-CRY:@}¦ <div n="1">(1) {#सिंहनादः;#} </div><div n="1">(2) {#क्ष्वेडितम्;#} </div><div n="1">(3) {#क्ष्वेडा।#}</div>
 <LEND>

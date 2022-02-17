@@ -1,4 +1,4 @@
 <L>468<pc>018<k1>agitated<k2>agitated
-<div n="lb"/>{@AGITATED,:@}¦ i. e. excited: <div n="1">(1) {#आकुलः#} ({#ला, लं#});</div>
-<div n="lb"/><div n="1">(2) {#विक्लवः#} ({#वा, वं#}).</div>
+{@AGITATED,:@}¦ i. e. excited: <div n="1">(1) {#आकुलः#} ({#ला, लं#});</div>
+<div n="1">(2) {#विक्लवः#} ({#वा, वं#}).</div>
 <LEND>

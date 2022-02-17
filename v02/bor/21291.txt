@@ -1,4 +1,4 @@
 <L>21291<pc>670<k1>squat<k2>squat
-<div n="lb"/>{@SQUAT@}¦ (v.): <div n="xe">{%s. ing:%}</div> <div n="xs">{#उत्कटुकासनम्;#}</div> <div n="1">(2) {#अवसविथ-#}
-<div n="lb"/>{#कासनम्,#} Wilson.</div>
+{@SQUAT@}¦ (v.): <div n="xe">{%s. ing:%}</div> <div n="xs">{#उत्कटुकासनम्;#}</div> <div n="1">(2) {#अवसविथ-#}
+{#कासनम्,#} Wilson.</div>
 <LEND>

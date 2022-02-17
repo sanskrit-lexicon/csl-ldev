@@ -1,4 +1,4 @@
 <L>4410<pc>143<k1>confusedly<k2>confusedly
-<div n="lb"/>{@CONFUSEDLY:@}¦ <div n="I">I With bewilderment: {#ससम्भ्रमम्।#}</div>
-<div n="lb"/><div n="I">II Without order: {#क्रमं विहाय।#}</div>
+{@CONFUSEDLY:@}¦ <div n="I">I With bewilderment: {#ससम्भ्रमम्।#}</div>
+<div n="I">II Without order: {#क्रमं विहाय।#}</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>15894<pc>489<k1>opening<k2>opening
-<div n="lb"/>{@OPENING@}¦ (subs.): <div n="I">I The act: </div><div n="1">(1) {#उद्घाटनम्;#}</div>
-<div n="lb"/><div n="1">(2) {#उन्मीलनम्;#} etc.: v. To open. </div><div n="I">II An
-<div n="lb"/>aperture: q.v.: {#छिद्रम्।#} </div><div n="I">III Beginning:
-<div n="lb"/>q.v.: {#आरम्भः, सम्-,#} <div n="xe">{%o. of a book:%}</div> <div n="xs">{#ग्रन्थारम्भः,#}</div>
-<div n="lb"/>Kav. </div><div n="I">IV Appearance: q.v.: {#आविर्मावः।#}</div>
+{@OPENING@}¦ (subs.): <div n="I">I The act: </div><div n="1">(1) {#उद्घाटनम्;#}</div>
+<div n="1">(2) {#उन्मीलनम्;#} etc.: v. To open. </div><div n="I">II An
+aperture: q.v.: {#छिद्रम्।#} </div><div n="I">III Beginning:
+q.v.: {#आरम्भः, सम्-,#} <div n="xe">{%o. of a book:%}</div> <div n="xs">{#ग्रन्थारम्भः,#}</div>
+Kav. </div><div n="I">IV Appearance: q.v.: {#आविर्मावः।#}</div>
 <LEND>

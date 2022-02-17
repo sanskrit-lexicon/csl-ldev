@@ -5,7 +5,7 @@
 <ls>NAIGH. 1, 12. 2, 7.</ls> 
 <ls>NIR. 2, 20. 12, 1.</ls> 
 <ls>AK. 3, 4, 30, 229.</ls> 
-<ls>H. 404</ls> (=  {#यूष#} {%Brühe%}; vgl. {#मांस°#}). 
+<ls>H. 404</ls> (= {#यूष#} {%Brühe%}; vgl. {#मांस°#}). 
 <ls>H. an. 2, 587.</ls> 
 <ls>MED. s. 8.</ls> <ls>HALĀY. 5, 75.</ls> <ls>VAIJ.</ls> bei <ls>MALLIN.</ls> zu <ls>ŚIŚ. 13, 48.</ls> {#वृष्णे^ त\ इन्दु^र्वृषभ पीपाय स्वा\दू रसो^ मधु\पेयो\ वरा^य#} 
 <ls>ṚV. 6, 44, 21.</ls> {#मध्वो\ रस^ः#} 
@@ -35,7 +35,7 @@
 <ls>VARĀH. BṚH. S. 48, 7.</ls> {#हरिद्रा°#} 
 <ls>Spr. 5036.</ls> {#चन्दन°#} 
 <ls>R. 5, 5, 12.</ls> {#अलक्त°, अलक्तक°, लाक्षा°#} 
-<ls>?2, 60, 18 (16 GORR.). ŚIŚ. 9, 46. ṚT. 1, 5. ŚĀK. 80. VARĀH. BṚH. S. 43, 48. KATHĀS. 9, 47. H. 686.</ls> {#मधु नवमनास्वादितरसम्#} 
+<ls>2, 60, 18 (16 GORR.).</ls> <ls>ŚIŚ. 9, 46.</ls> <ls>ṚT. 1, 5.</ls> <ls>ŚĀK. 80.</ls> <ls>VARĀH. BṚH. S. 43, 48.</ls> <ls>KATHĀS. 9, 47.</ls> <ls>H. 686.</ls> {#मधु नवमनास्वादितरसम्#} 
 <ls>Spr. 94.</ls> {#धातु°#} 
 <ls>KUMĀRAS. 1, 7.</ls> {#ताम्रधातु°#} 
 <ls>RĀJA-TAR. 4, 614.</ls> {#ताम्बूलनिष्ठीवन°#} 
@@ -50,7 +50,7 @@
 <ls>RAGH. 1, 18. 4, 66.</ls> {#वर्जयेन्मधु मांसं च गन्धं माल्यं रसान्स्त्रियः#} {%Fruchtsäfte u.s.w.%} 
 <ls>M. 2, 177. 7, 131. 9, 329. 10, 86. 94, 12, 62.</ls> 
 <ls>YĀJÑ. 3, 36. 215.</ls> 
-<ls>MBH. 13, 353. 2772. 14, 2683.</ls> 
+<ls>MBH. 13, 353.</ls> <ls n="MBH. 13,">2772.</ls> <ls n="MBH.">14, 2683.</ls> 
 <ls>VARĀH. BṚH. S. 41, 4. 48, 41.</ls> 
 <ls>BHĀG. P. 5, 16, 18. 20. 21.</ls> 
 <ls>MĀRK. P. 120, 17.</ls> {#°धेनु#} 
@@ -96,7 +96,7 @@
 <ls>VAIJ. a. a. O.</ls> (wo {#धातौ#} st. {#धाये#} zu lesen ist). 
 <ls>WISE 49.</ls> 
 <ls>ŚĀRṄG. SAṂH. 1, 6, 4. 6.</ls> 
-<ls>SUŚR. 1, 96,13.</ls>  
+<ls>SUŚR. 1, 96,13.</ls> 
 <ls>NIR. 14, 6.</ls>
 [Page6-0291]
 
@@ -153,14 +153,14 @@
 <ls>BHĀG. P. 3, 3, 28.</ls> Die Bedd. {%Geschmack%} und {%schmeckender Stoff%} oder {%Saft%} werden häufig nicht auseinandergehalten, 
 <ls>SUŚR. 1, 147. fgg. 150, 12. fgg.</ls> {#आहारः षट्सु रसेष्वायत्तो रसाः पुनर्द्रव्याश्रयाः#} 
 <ls>4, 14.</ls> {#षड्रस#} 
-<ls>?43, 3. MBH. 1, 6658. 3, 138. 9, 2354. R. 1, 52, 23 (53, 22 GORR.). R. GORR. 1, 54, 4. KATHĀS. 45, 230. 82, 19.</ls> Die sechs Hauptarten des {%Geschmacks%} sind: {#मधुर, अम्ल, लवण, कटुक, तिक्त#} und {#कषाय#} 
+<ls>43, 3.</ls> <ls>MBH. 1, 6658.</ls> <ls n="MBH.">3, 138.</ls> <ls n="MBH.">9, 2354.</ls> <ls>R. 1, 52, 23 (53, 22 GORR.)</ls>. <ls>R. GORR. 1, 54, 4.</ls> <ls>KATHĀS. 45, 230. 82, 19.</ls> Die sechs Hauptarten des {%Geschmacks%} sind: {#मधुर, अम्ल, लवण, कटुक, तिक्त#} und {#कषाय#} 
 <ls>MBH. 12, 6851. fg.</ls> 
 <ls>SUŚR. 1, 153, 17. fgg. 75, 5. fgg.</ls> Davon giebt es 
 <ls>63</ls> mögliche Verbindungen 
 <ls>2, 545, 9. fgg.</ls> {#कषायो मधुरस्तिक्तः कट्वम्ल#} (also mit Weglassung von {#लवण#}) {#इति नैकधा । भौतिकानां विकारेण रस एको विभिद्यते ॥#} 
 <ls>BHĀG. P. 3, 26, 42.</ls> 
 <ls>PAÑCAT. 61, 11.</ls> {#रसतस्#} {%dem Geschmacke nach%} 
-<ls>MBH. 13, 5681. 5686.</ls> 
+<ls>MBH. 13, 5681.</ls> <ls n="MBH. 13,">5686.</ls> 
 <div n="3">— α) Bez. {%der Zahl sechs%} 
 <ls>ŚRUT. 29. 39.</ls> 
 <ls>VARĀH. BṚH. S. 98, 1.</ls> 
@@ -187,10 +187,10 @@
 <ls>Spr. 2845.</ls> {#गीतरसादिव#} 
 <ls>KATHĀS. 12, 19. 44, 185.</ls> {#मृगयारसात्, °रसेन#} 
 <ls>6, 93. 21, 16. 30. 32, 106. 35, 37.</ls> {#°रसमनुभूय#} 
-<ls>VET.</ls> in <ls>LA. (III) 5, 2.</ls> {#हरार्चनरसात्#} 
+<ls>VET. in LA. (III) 5, 2.</ls> {#हरार्चनरसात्#} 
 <ls>KATHĀS. 86, 137.</ls> {#तत्सेवारससंप्राप्त#} 
 <ls>27, 136. 10, 2. 22, 151.</ls> {#स्त्रीमात्ररसात्#} 
-<ls>?86, 169. 67, 11. GĪT. 1, 36. RĀJA-TAR.3, 118. DHŪRTAS. in LA. 74, 16.</ls>
+<ls>86, 169. 67, 11.</ls> <ls>GĪT. 1, 36.</ls> <ls>RĀJA-TAR.3, 118.</ls> <ls>DHŪRTAS.</ls> in <ls>LA. 74, 16.</ls>
 [Page6-0292]
 {#रसिकं रसेन कुर्याद्वशे#} {%durch das, woran er hängt%}, 
 <ls>Spr. 2197.</ls> {#प्रणयस्य रसं दत्त्वा#} {%Genuss%} 
@@ -240,8 +240,8 @@
 <ls n="ṚV. 10,">121, 4.</ls> {#सिष^क्तु मा\ता म\ही र\सा न^ः#} 
 <ls n="ṚV.">5, 41, 15.</ls> 
 <div n="2">— d) {%die Unterwelt%} (vgl. {#रसातल): रसां विविशतुस्तूर्णमुदक्पूर्वे#} (so die ed. Bomb.) {#महोदधौ#} 
-<ls>MBH. 12, 13479. 13503. fg. 13511</ls> ({#रसानामालय#}). 
-<ls>BHĀG. P. 3, 13, 17. 30. 42. 4, 7, 46. 5, 18, 39. 25, 13. 6, 11, 22. 8, 16, 27. 21, 25. 9, 20, 31. 10, 6, 12</ls> <ls>?(pl.). 47, 15. 70, 44.</ls> 
+<ls>MBH. 12, 13479.</ls> <ls n="MBH. 12,">13503. fg.</ls> <ls n="MBH. 12,">13511</ls> ({#रसानामालय#}). 
+<ls>BHĀG. P. 3, 13, 17. 30. 42. 4, 7, 46. 5, 18, 39. 25, 13. 6, 11, 22. 8, 16, 27. 21, 25. 9, 20, 31. 10, 6, 12</ls> (pl.). <ls>47, 15. 70, 44.</ls> 
 <div n="2">— e) {%die Erde, Land%} 
 <ls>AK. 2, 1, 2.</ls> 
 <ls>TRIK. 3, 3, 448.</ls> 
@@ -281,14 +281,14 @@ sind Verstösse gegen das Genus nicht selten.
 <ls>ṚV. 5, 53, 9</ls>) zu lesen. 
 <div n="v">— Vgl. {#अ°, अनु°, अन्न°, अमृत°#} (m. auch 
 <ls>R. 2, 30, 15.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 15, 11.</ls> 
+
+<ls>R. GORR. 1, 15, 11.</ls> 
 <ls>Spr. 2840.</ls> 
 <ls>KATHĀS. 22, 201.</ls> <lex>adj.</lex> {%wie Nectar schmeckend%} 
 <ls>PAÑCAT. 248, 12</ls>), {#अयो°, इक्षु°#} (in der 1sten Bed. auch 
 <ls>BHĀG. P. 5, 16, 14</ls>), {#उप°, एक°#} (adj. {%nur einen Geschmack habend%} 
 <ls>RAGH. 10, 17.</ls> {#अनुकूलता#} {%nur an Einem Geschmack findend, nur Einem geltend%} 
-<ls>UTTARAR. 79, 6</ls> <ls>?= 102, 3</ls> der neueren Ausg.; so v. a. {#स्थिर#} nach dem Comm.; vgl. auch oben 
+<ls>UTTARAR. 79, 6</ls> = <ls>102, 3</ls> der neueren Ausg.; so v. a. {#स्थिर#} nach dem Comm.; vgl. auch oben 
 <div n="1"> 1) 
 <div n="2"> b)
 <lang n="greek">γ</lang>), {#कनक°, काम°, क्षुद्र°, गङ्गाधर°#} (lies {%Mixtur%}), st. {%Recept%} {#गर्भ°, गो°, ज्योती°#} (Comm. zu 

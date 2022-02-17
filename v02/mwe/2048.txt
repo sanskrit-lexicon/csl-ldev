@@ -1,20 +1,20 @@
 <L>2048<pc>044-a<k1>before<k2>before
-<div n="lb"/>BEFORE¦, {%prep.%} and {%adv.%} {#प्र, अभि#} prefixed. — (In the front of, not
-<div n="lb"/>behind) {#अग्रे, अग्रतस्, पुरस्, पुरतस्, पुरस्तात्, अभितस्, प्रतिमुखं,#}
-<div n="lb"/>{#अभिमुखं;#} ‘going before,’ {#पुरोगः -गा -गं, अग्रेसरः -रा -रं;#} ‘before
-<div n="lb"/>the fire,’ {#अध्यग्नि#}. — (In the presence of) {#साक्षात्, प्रत्यक्षे, अग्रे,#}
-<div n="lb"/>{#समक्षं, प्रतिमुखं;#} ‘he took them before the king,’ {#तान् राज-#}
-<div n="lb"/>{#समीपम् आनीतवान्#}. — (In the sight of, before the face) {#समक्षं,#}
-<div n="lb"/>{#प्रत्यक्षं, प्रत्यक्षतस्, साक्षात्, सम्मुखं;#} ‘before many persons,’ {#बहु-#}
-<div n="lb"/>{#जनसमक्षं#}. — (Earlier in time, sooner than) {#प्राक्, पूर्व्वं,#} with the
-<div n="lb"/>abl. c.; {#अग्रे;#} ‘before offering the cakes,’ {#पिण्डदानात् पूर्व्वं;#}
-<div n="lb"/>‘before the appointed time,’ {#निरूपितसमयात् पूर्व्वं#} or {#प्राग् वि-#}
-<div n="lb"/>{#हितकालात्;#} ‘he knows your necessities before you ask,’
-<div n="lb"/>{#यत् तव प्रयोजनं तद् याच्ञातः पूर्व्वं जानाति;#} ‘before dinner,’ {#भोज-#}
-<div n="lb"/>{#नात् पूर्व्वं;#} ‘before the event,’ {#प्राग् घटनात्;#} ‘before me,’
-<div n="lb"/>{#मदग्रे#}. — (In time past) {#पुरा, पूर्व्वं, पूव्वकाले#}. — (As yet, hitherto)
-<div n="lb"/>{#अद्य यावत्, अद्यपर्य्यन्तं, एतत् कालं यावत्, अद्यापि#}. — (Already)
-<div n="lb"/>{#तत्पूर्व्वं, प्राग् वर्त्तमानकालात्;#} ‘before mentioned,’ {#पूर्व्वोक्तः -क्ता -क्तं,#}
-<div n="lb"/>{#प्रागुक्तः -क्ता -क्तं, पूर्व्वचोदितः -ता -तं;#} ‘the day before yesterday,’
-<div n="lb"/>{#अपरेद्युस्;#} ‘before and after,’ {#पूर्व्वोत्तरं#}.
+BEFORE¦, {%prep.%} and {%adv.%} {#प्र, अभि#} prefixed. — (In the front of, not
+behind) {#अग्रे, अग्रतस्, पुरस्, पुरतस्, पुरस्तात्, अभितस्, प्रतिमुखं,#}
+{#अभिमुखं;#} ‘going before,’ {#पुरोगः -गा -गं, अग्रेसरः -रा -रं;#} ‘before
+the fire,’ {#अध्यग्नि#}. — (In the presence of) {#साक्षात्, प्रत्यक्षे, अग्रे,#}
+{#समक्षं, प्रतिमुखं;#} ‘he took them before the king,’ {#तान् राज-#}
+{#समीपम् आनीतवान्#}. — (In the sight of, before the face) {#समक्षं,#}
+{#प्रत्यक्षं, प्रत्यक्षतस्, साक्षात्, सम्मुखं;#} ‘before many persons,’ {#बहु-#}
+{#जनसमक्षं#}. — (Earlier in time, sooner than) {#प्राक्, पूर्व्वं,#} with the
+abl. c.; {#अग्रे;#} ‘before offering the cakes,’ {#पिण्डदानात् पूर्व्वं;#}
+‘before the appointed time,’ {#निरूपितसमयात् पूर्व्वं#} or {#प्राग् वि-#}
+{#हितकालात्;#} ‘he knows your necessities before you ask,’
+{#यत् तव प्रयोजनं तद् याच्ञातः पूर्व्वं जानाति;#} ‘before dinner,’ {#भोज-#}
+{#नात् पूर्व्वं;#} ‘before the event,’ {#प्राग् घटनात्;#} ‘before me,’
+{#मदग्रे#}. — (In time past) {#पुरा, पूर्व्वं, पूव्वकाले#}. — (As yet, hitherto)
+{#अद्य यावत्, अद्यपर्य्यन्तं, एतत् कालं यावत्, अद्यापि#}. — (Already)
+{#तत्पूर्व्वं, प्राग् वर्त्तमानकालात्;#} ‘before mentioned,’ {#पूर्व्वोक्तः -क्ता -क्तं,#}
+{#प्रागुक्तः -क्ता -क्तं, पूर्व्वचोदितः -ता -तं;#} ‘the day before yesterday,’
+{#अपरेद्युस्;#} ‘before and after,’ {#पूर्व्वोत्तरं#}.
 <LEND>

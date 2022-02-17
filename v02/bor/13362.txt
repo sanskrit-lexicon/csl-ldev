@@ -1,6 +1,6 @@
 <L>13362<pc>412<k1>least<k2>least
-<div n="lb"/>{@LEAST@}¦ (adj.): expr. by words given under
-<div n="lb"/>{%little%} with {#अपि,#} ({%you%}) <div n="xe">{%should not feel the l.%}
-<div n="lb"/>{%sorrow for it:%}</div> <div n="xs">{#अल्पोऽपि नात्र कर्तव्यः शोकः,#}</div> V. p.;
-<div n="lb"/><div n="xe">{%the l. acceptance:%}</div> <div n="xs">{#अणुरपि परिग्रहः,#}</div> K.
+{@LEAST@}¦ (adj.): expr. by words given under
+{%little%} with {#अपि,#} ({%you%}) <div n="xe">{%should not feel the l.%}
+{%sorrow for it:%}</div> <div n="xs">{#अल्पोऽपि नात्र कर्तव्यः शोकः,#}</div> V. p.;
+<div n="xe">{%the l. acceptance:%}</div> <div n="xs">{#अणुरपि परिग्रहः,#}</div> K.
 <LEND>

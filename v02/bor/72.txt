@@ -1,7 +1,7 @@
 <L>72<pc>003<k1>abrupt<k2>abrupt
-<div n="lb"/>{@ABRUPT@}¦ (adj.): <div n="I">I Steep, rugged: q. v.:
-<div n="lb"/>{#विषमः#} ({#मा, मं#}). </div><div n="I">II Hasty, sudden: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#आकस्मिकः#} ({#की, कं#}); </div><div n="1">(2) {#अकाण्डः#} ({#ण्डा, ण्डं#}).</div>
-<div n="lb"/><div n="I">III Of style: no equiv.: {#*भग्नः#} ({#भग्ना, #}
-<div n="lb"/>{# भग्नं#}).</div>
+{@ABRUPT@}¦ (adj.): <div n="I">I Steep, rugged: q. v.:
+{#विषमः#} ({#मा, मं#}). </div><div n="I">II Hasty, sudden: q. v.:</div>
+<div n="1">(1) {#आकस्मिकः#} ({#की, कं#}); </div><div n="1">(2) {#अकाण्डः#} ({#ण्डा, ण्डं#}).</div>
+<div n="I">III Of style: no equiv.: {#*भग्नः#} ({#भग्ना, #}
+{# भग्नं#}).</div>
 <LEND>

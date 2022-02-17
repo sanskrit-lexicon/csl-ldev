@@ -1,8 +1,8 @@
 <L>24238<pc>758<k1>west<k2>west
-<div n="lb"/>{@WEST,@}¦ {@WESTERLY, WESTERN:@} <div n="1">(1) {#पश्चिम#} (f.
-<div n="lb"/>{#मा#}), <div n="xe">{%in the w. sky:%}</div> <div n="xs">{#पश्चिमे नभसि,#}</div> Ki. ix. 5.;</div>
-<div n="lb"/><div n="1">(2) {#पाश्चात्य#} (f. {#त्या#}), <div n="xe">{%with the w. erns whose%}
-<div n="lb"/>{%strength lay in horse:%}</div> <div n="xs">{#पाश्चात्यैरश्वसाधनैः,#}</div> R. iv.
-<div n="lb"/>62.; </div><div n="1">(3) {#प्रतीच्य#} (f. {#च्या#}) {%or%} rarely {#प्रतीचीन#}
-<div n="lb"/>(f. {#ना#}).</div>
+{@WEST,@}¦ {@WESTERLY, WESTERN:@} <div n="1">(1) {#पश्चिम#} (f.
+{#मा#}), <div n="xe">{%in the w. sky:%}</div> <div n="xs">{#पश्चिमे नभसि,#}</div> Ki. ix. 5.;</div>
+<div n="1">(2) {#पाश्चात्य#} (f. {#त्या#}), <div n="xe">{%with the w. erns whose%}
+{%strength lay in horse:%}</div> <div n="xs">{#पाश्चात्यैरश्वसाधनैः,#}</div> R. iv.
+62.; </div><div n="1">(3) {#प्रतीच्य#} (f. {#च्या#}) {%or%} rarely {#प्रतीचीन#}
+(f. {#ना#}).</div>
 <LEND>

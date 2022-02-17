@@ -1,4 +1,4 @@
 <L>16281<pc>401-b<k1>integer<k2>integer
-<div n="lb"/>INTEGER¦, INTEGRAL, {%s.%} (A whole number) {#पूर्णाङ्कः, अभिन्नाङ्कः, अभिन्नः,#}
-<div n="lb"/>{#सम्पूर्णाङ्कः, रूपं#}.
+INTEGER¦, INTEGRAL, {%s.%} (A whole number) {#पूर्णाङ्कः, अभिन्नाङ्कः, अभिन्नः,#}
+{#सम्पूर्णाङ्कः, रूपं#}.
 <LEND>

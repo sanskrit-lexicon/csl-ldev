@@ -1,4 +1,4 @@
 <L>9066<pc>287<k1>flying<k2>flying
-<div n="lb"/>{@FLYING:@}¦ {#डयनम्,#} <div n="xe">{%f. up:%}</div> <div n="xs">{#उड्डयनम्;#}</div> <div n="xe">{%f. together:%}</div> <div n="xs">{#संडीनम्:#}</div>
-<div n="lb"/>v. To fly.
+{@FLYING:@}¦ {#डयनम्,#} <div n="xe">{%f. up:%}</div> <div n="xs">{#उड्डयनम्;#}</div> <div n="xe">{%f. together:%}</div> <div n="xs">{#संडीनम्:#}</div>
+v. To fly.
 <LEND>

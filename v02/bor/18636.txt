@@ -1,8 +1,8 @@
 <L>18636<pc>573<k1>reach<k2>reach
-<div n="lb"/>{@REACH@}¦ (v. t.): <div n="I">I To stretch: q. v.: {#प्रसारयति#}
-<div n="lb"/>(c. of {#सृ#}). </div><div n="I">II To hand over: q. v.: {#प्रापयति#}
-<div n="lb"/>(c. of {#आप्#}). </div><div n="I">III To come to: q. v.:
-<div n="lb"/>{#आयाति#} ({#या,#} c. 2.). </div><div n="I">IV To attain: q. v.:
-<div n="lb"/>{#अधिगच्छति#} ({#गम्,#} c. 1.). </div><div n="I">V To arrive at:
-<div n="lb"/>q. v.: {#आसादयति, सम्-,#} (c. of {#सद्#}).</div>
+{@REACH@}¦ (v. t.): <div n="I">I To stretch: q. v.: {#प्रसारयति#}
+(c. of {#सृ#}). </div><div n="I">II To hand over: q. v.: {#प्रापयति#}
+(c. of {#आप्#}). </div><div n="I">III To come to: q. v.:
+{#आयाति#} ({#या,#} c. 2.). </div><div n="I">IV To attain: q. v.:
+{#अधिगच्छति#} ({#गम्,#} c. 1.). </div><div n="I">V To arrive at:
+q. v.: {#आसादयति, सम्-,#} (c. of {#सद्#}).</div>
 <LEND>

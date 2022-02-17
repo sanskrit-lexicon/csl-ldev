@@ -1,8 +1,8 @@
 <L>5073<pc>163<k1>crime<k2>crime
-<div n="lb"/>{@CRIME:@}¦ <div n="1">(1) {#पापम्#} (=offence=sin.), <div n="xe">{%to commit%}
-<div n="lb"/>{%a c. deliberately:%}</div> <div n="xs">{#कामतः पापं करोति,#}</div> M.; <div n="xe">{%c. s%}
-<div n="lb"/>{%cannot be checked without punishment:%}</div> <div n="xs">{#दण्डादृते #}
-<div n="lb"/>{# पापविनिग्रहः कर्तु न शक्यः,#}</div> M.; </div><div n="1">(2) {#अपराधः:#} v.
-<div n="lb"/>Offence; </div><div n="1">(3) {#दोषः:#} v. Fault; </div><div n="1">(4) {#साहसम्#}
-<div n="lb"/>(=daring c.), M.</div>
+{@CRIME:@}¦ <div n="1">(1) {#पापम्#} (=offence=sin.), <div n="xe">{%to commit%}
+{%a c. deliberately:%}</div> <div n="xs">{#कामतः पापं करोति,#}</div> M.; <div n="xe">{%c. s%}
+{%cannot be checked without punishment:%}</div> <div n="xs">{#दण्डादृते #}
+{# पापविनिग्रहः कर्तु न शक्यः,#}</div> M.; </div><div n="1">(2) {#अपराधः:#} v.
+Offence; </div><div n="1">(3) {#दोषः:#} v. Fault; </div><div n="1">(4) {#साहसम्#}
+(=daring c.), M.</div>
 <LEND>

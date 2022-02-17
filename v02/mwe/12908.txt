@@ -1,4 +1,4 @@
 <L>12908<pc>311-a<k1>glossarist<k2>glossarist
-<div n="lb"/>GLOSSARIST¦, GLOSSATOR, GLOSSER, {%s.%} {#शब्दकोषलेखकः, शब्दसङ्ग्रहकारी#} {%m.%}
-<div n="lb"/>{#(न्), कौशिकः, निर्वचनकृत्#} {%m.%}
+GLOSSARIST¦, GLOSSATOR, GLOSSER, {%s.%} {#शब्दकोषलेखकः, शब्दसङ्ग्रहकारी#} {%m.%}
+{#(न्), कौशिकः, निर्वचनकृत्#} {%m.%}
 <LEND>

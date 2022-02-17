@@ -22,7 +22,7 @@
 <ls>R. 5, 27, 32.</ls> {#असङ्गेन#} {%ohne anzustreifen, ohne zu berühren%}
 [Page7-0531]
 
-<ls>3, 37. 7, 21.</ls> <ls>HARIV. 11087 (S. 792).</ls> {#असङ्गचारिन्#} 
+<ls n="R.">3, 37. 7, 21.</ls> <ls>HARIV. 11087</ls> (S. 792). {#असङ्गचारिन्#} 
 <ls>R. 5, 42, 4.</ls> {#अ°#} (s. auch bes.) <lex>adj.</lex> {%nicht hängen bleibend, - anstreifend, ungehindert —, frei sich bewegend%}: {#रथ#} 
 <ls>HARIV. 1605.</ls> {#नौ#} 
 <ls>MĀRK. P. 84, 10.</ls> {#गति#} 
@@ -32,7 +32,7 @@
 <ls>AK. 3, 3, 29. 3, 4, 14, 73.</ls> 
 <ls>H. 1508.</ls> 
 <ls>VOP. 23, 11.</ls> {#जने दहति संसर्गो वने सङ्गविवर्जनम्#} 
-<ls>Spr. (II) 258. 773.</ls> {#विनश्यति यतिः सङ्गात्#} 
+<ls>Spr. (II) 258.</ls> <ls n="Spr. (II)">773.</ls> {#विनश्यति यतिः सङ्गात्#} 
 <ls>2991.</ls> {#जनमध्यसङ्गरहित#} 
 <ls>4585. 6671</ls> (Gegens. {#विरह#} {%Trennung%}). 
 <ls>6675.</ls> <ls>DAŚAK. 62, 7.</ls> {#मिथः°#} 
@@ -43,7 +43,7 @@
 <ls>MĀRK. P. 62, 12.</ls> {#मृतस्यापि च मे भर्तुः सङ्ग एव विशिष्यते#} 
 <ls>R. 4, 20, 3.</ls> {#कथमासां नराः सङ्गं कुर्वते#} {%umgehen —, verkehren mit%} 
 <ls>MBH. 13, 2234.</ls> {#असताम्#} {%Verkehr mit Schlechten%} 
-<ls>Spr. (II) 747. 1944. 2623. 6561. 6668. 7461.</ls> 
+<ls>Spr. (II) 747.</ls> <ls n="Spr. (II)">1944.</ls> <ls n="Spr. (II)">2623.</ls> <ls n="Spr. (II)">6561.</ls> <ls n="Spr. (II)">6668.</ls> <ls n="Spr. (II)">7461.</ls> 
 <ls>BHĀG. P. 8, 22, 36.</ls> {#संभूतः प्रथममिहेश्वरस्य सङ्गान्मायायां मन इति विश्रुतस्तनूजः#} 
 <ls>PRAB. 9, 9. fg.</ls> {#सद्भिः#} 
 <ls>YĀJÑ. 3, 156.</ls> 
@@ -52,11 +52,11 @@
 <ls>VARĀH. BṚH. S. 97, 12.</ls> 
 <ls>UTTARAR. 25, 7 (33, 8).</ls> <ls>KATHĀS. 32, 30</ls> ({#सङ्गं गम्#}) 
 <ls>LA. (III) 89, 19.</ls> {#सह कैः#} 
-<ls>Spr. (II) 6051. 6674. 7462. 7479.</ls> in comp. mit der Ergänzung: {#परकान्त°#} 
+<ls>Spr. (II) 6051.</ls> <ls n="Spr. (II)">6674.</ls> <ls n="Spr. (II)">7462.</ls> <ls n="Spr. (II)">7479.</ls> in comp. mit der Ergänzung: {#परकान्त°#} 
 <ls>3269. 3413. 4601. 4772. 5827. 6173. 7218.</ls> <ls>ŚĀK. 71, 3.</ls> <ls>KATHĀS. 13, 75. 17, 22. 30, 5.</ls> {#स्वप्ने प्राप्स्यसि तत्सङ्गम्#} (mit dem Geliebten) 
 <ls>31, 12. fg.</ls> ({#मत्सङ्गमर्थिनी#} 
 <ls>37, 101</ls> fehlerhaft für {#°संगमार्थिनी)#}.{# सत्सङ्ग#} 
-<ls>Spr. (II) 5201. 6747. 4786. 7491.</ls> 
+<ls>Spr. (II) 5201.</ls> <ls n="Spr. (II)">6747.</ls> <ls n="Spr. (II)">4786.</ls> <ls n="Spr. (II)">7491.</ls> 
 <ls>UTTARAR. 31, 15 (41, 12).</ls> <ls>VARĀH. BṚH. S. 87, 6. 10. 88, 19.</ls> <ls>KATHĀS. 60, 135.</ls> <ls>RĀJA-TAR. 5, 203.</ls> <ls>MĀRK. P. 74, 20.</ls> <ls>BHĀG. P. 1, 10, 11. 18, 13. 3, 30, 6. 31, 35. 4, 26, 18. 7, 9, 18.</ls> <ls>PAÑCAT. 187, 6.</ls> 
 <div n="1">— 3) {%Hang des Herzens, Gelüste%} 
 <ls>TRIK. 1, 1, 131.</ls> {#सङ्गाद्गता धेनुः#} {%aus Anhänglichkeit%} 
@@ -67,7 +67,7 @@
 <ls>12, 18.</ls> {#सुख°, ज्ञान°#} 
 <ls>BHAG. 14, 6.</ls> 
 <ls>R. 2, 23, 14.</ls> 
-<ls>Spr. (II) 1539. 3085.</ls> 
+<ls>Spr. (II) 1539.</ls> <ls n="Spr. (II)">3085.</ls> 
 <ls>BHĀG. P. 2, 7, 3. 5, 1, 15.</ls> ohne Ergänzung: {#अन्यत्र प्रस्थितः सङ्गादन्यत्रैव च गच्छति#} so v. a. {%wenn ihm eine Lust ankommt%} 
 <ls>KĀM. NĪTIS. 11, 9.</ls> {#सङ्गे#} dass. 
 <ls>M. 5, 37.</ls> {#इति सङ्गः सताम्#} 
@@ -85,7 +85,7 @@
 <ls>4, 23, 37.</ls> {#विमुक्त°#} 
 <ls>1, 9, 30. 4, 23, 39.</ls> {#जित°#} 
 <ls>2, 1, 23.</ls> {#अ°#} 
-m. <ls>?2, 1, 15, ady. 1, 11, 38.</ls> Davon {#असङ्गता#} 
+m. <ls>2, 1, 15, ady. 1, 11, 38.</ls> Davon {#असङ्गता#} 
 <ls>R. GORR. 1, 67, 15.</ls> st. {#असङ्गत्व#} 
 <ls>MBH. 14, 1001</ls> hat die ed. Bomb. besser {#असंज्ञत्व#}.{# सु°#} <lex>adj.</lex> {%woran das Herz stark hängt%} 
 <ls>MBH. 8, 4802.</ls> 

@@ -1,8 +1,8 @@
 <L>24218<pc>649-a<k1>queen<k2>queen
-<div n="lb"/>QUEEN¦, {%s.%} (Wife of a king) {#राजपत्नी, राजमहिषी, महिषी, राज्ञी,#}
-<div n="lb"/>{#देवी, नृपपत्नी, नृपवल्लभा, भट्टिनी;#} ‘principal queen, one who
-<div n="lb"/>has been inaugurated and crowned,’ {#पट्टमहिषी, पट्टदेवी, पट्टा-#}
-<div n="lb"/>{#भिषिक्तराज्ञी;#} ‘queen mother,’ {#राजजननी#}. — (Woman who is
-<div n="lb"/>the sovereign of a kingdom) {#राज्ञी, राज्यकारिणी महिषी#}. — (At
-<div n="lb"/>chess) {#प्रधानः#}.
+QUEEN¦, {%s.%} (Wife of a king) {#राजपत्नी, राजमहिषी, महिषी, राज्ञी,#}
+{#देवी, नृपपत्नी, नृपवल्लभा, भट्टिनी;#} ‘principal queen, one who
+has been inaugurated and crowned,’ {#पट्टमहिषी, पट्टदेवी, पट्टा-#}
+{#भिषिक्तराज्ञी;#} ‘queen mother,’ {#राजजननी#}. — (Woman who is
+the sovereign of a kingdom) {#राज्ञी, राज्यकारिणी महिषी#}. — (At
+chess) {#प्रधानः#}.
 <LEND>

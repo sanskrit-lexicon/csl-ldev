@@ -1,20 +1,20 @@
 <L>13006<pc>201-1<k1>भग्न<k2>भग्न
 {#भग्न#}¦bhag-na, {%pp.%} (√ bhañj) broken, {%etc.%}; 
-<>{%n.%} fracture of the leg; {@-krama,@} {%n.%} violation 
-<>of {%syntactical%} construction; {@-jānu@}, {%a.%} broken-kneed; <lbinfo n="6"/>
-<> {@-tā,@} {%f.%} condition of being broken: -
-<>{@pravahaṇasya@}, shipwrecked condition; {@-pra-@}
-<>{@-krama,@} {%n.%} inappropriate sequence {%in using a %}
-<>{%word not suiting one previously employed%} 
-<>({%rh.%}); {@-pratijña@}, {%a.%} having broken {%one's%} promise, <lbinfo n="3"/>
-<> faithless; {@-bhāṇḍa@}, {%a.%} having broken {%his%} 
-<>pots; {@-manas,@} {%a.%} discouraged; {@-manoratha,@} 
-<>{%a.%} disappointed; {@-māna,@} {%a.%} whose pride has 
-<>been offended; {@-yācña@}, {%a.%} whose request has 
-<>been refused; {@-vrata,@} {%a.%} having broken {%his%} 
-<>vow; {@-śakti@}, {%a.%} whose power is broken; 
-<>{@-saṃdhi@}, {%a.%} having broken joints; {@-āśa@}, {%a.%} 
-<>whose hopes have been frustrated, disappointed; <lbinfo n="5"/>
-<> {@-udyama,@} {%a.%} whose efforts have 
-<>been foiled, baffled.
+{%n.%} fracture of the leg; {@-krama,@} {%n.%} violation 
+of {%syntactical%} construction; {@-jānu@}, {%a.%} broken-kneed; <lbinfo n="6"/>
+ {@-tā,@} {%f.%} condition of being broken: -
+{@pravahaṇasya@}, shipwrecked condition; {@-pra-@}
+{@-krama,@} {%n.%} inappropriate sequence {%in using a %}
+{%word not suiting one previously employed%} 
+({%rh.%}); {@-pratijña@}, {%a.%} having broken {%one's%} promise, <lbinfo n="3"/>
+ faithless; {@-bhāṇḍa@}, {%a.%} having broken {%his%} 
+pots; {@-manas,@} {%a.%} discouraged; {@-manoratha,@} 
+{%a.%} disappointed; {@-māna,@} {%a.%} whose pride has 
+been offended; {@-yācña@}, {%a.%} whose request has 
+been refused; {@-vrata,@} {%a.%} having broken {%his%} 
+vow; {@-śakti@}, {%a.%} whose power is broken; 
+{@-saṃdhi@}, {%a.%} having broken joints; {@-āśa@}, {%a.%} 
+whose hopes have been frustrated, disappointed; <lbinfo n="5"/>
+ {@-udyama,@} {%a.%} whose efforts have 
+been foiled, baffled.
 <LEND>

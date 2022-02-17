@@ -1,5 +1,5 @@
 <L>6899<pc>220<k1>draw off<k2>draw off
-<div n="lb"/>{@DRAW OFF:@}¦ <div n="I">I Lit.: {#अप-कर्षति, आ-, अपा-,#} <div n="xe">{%d. ing%}
-<div n="lb"/>{%off the eyes from the king:%}</div> <div n="xs">{#अवनिपालमुखादाकृष्य #}
-<div n="lb"/>{# चक्षुः,#}</div> K. </div><div n="I">II To withdraw, retire: q. v.</div>
+{@DRAW OFF:@}¦ <div n="I">I Lit.: {#अप-कर्षति, आ-, अपा-,#} <div n="xe">{%d. ing%}
+{%off the eyes from the king:%}</div> <div n="xs">{#अवनिपालमुखादाकृष्य #}
+{# चक्षुः,#}</div> K. </div><div n="I">II To withdraw, retire: q. v.</div>
 <LEND>

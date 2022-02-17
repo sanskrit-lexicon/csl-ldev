@@ -1,21 +1,21 @@
 <L>15258<pc>466<k1>natural<k2>natural
-<div n="lb"/>{@NATURAL@}¦ (adj.): <div n="I">I In gen.: </div><div n="1">(1) {#स्वाभाविकः#}
-<div n="lb"/>({#की, कं#}), <div n="xe">{%n. fragrance:%}</div> <div n="xs">{#स्वाभाविकं सौरम्यम्,#}</div>
-<div n="lb"/>R.; </div><div n="1">(2) {#नैसर्गिकः#} ({#की, कं#}), {%n. opposition:%}
-<div n="lb"/>{#नैसर्गिको विरोधः,#} R. vi. 46.; </div><div n="1">(3) {#सहजः#} ({#जा, जं#})
-<div n="lb"/>(= born with one), <div n="xe">{%n. affection:%}</div> <div n="xs">{#सहजस्नेहः,#}</div> [Page467]
-<div n="lb"/>Ki.; </div><div n="1">(4) {#प्रकृतिसिद्ध#} (f. {#द्धा#}), <div n="xe">{%this is n. for great%}
-<div n="lb"/>{%men:%}</div> <div n="xs">{#प्रकृतिसिद्धमिदं हि महात्मनाम्,#}</div> H.; </div><div n="1">(5)
-<div n="lb"/>{#निसर्गजः#} ({#जा, जं#}), etc. (rare), <div n="xe">{%n. friend:%}</div> <div n="xs">{#स्वभावजं #}
-<div n="lb"/>{# मित्रम्,#}</div> H.; <div n="xe">{%n. death:%}</div> <div n="xs">{#स्वामाविकमृत्युः;#}</div> <div n="xe">{%n. caves%}
-<div n="lb"/>{%or reservoir:%}</div> <div n="xs">{#देवखातम्।#}</div> Ph.: {%it is n. for...%}
-<div n="lb"/>better expr. by subs.: v. Nature (V). </div><div n="I">II.
-<div n="lb"/>Of the nature: {#प्राकृतिकः#} ({#की, कं#}); {#प्रकृति-#} in
-<div n="lb"/>comp. </div><div n="I">III Resembling the object imi-
-<div n="lb"/>-tated: {#स्वरूप-#} in comp.: v. True. </div><div n="I">IV Ille-
-<div n="lb"/>-gitimate: </div><div n="1">(1) {#गूढजः#} ({#जा, जं#}) (born in pri-
-<div n="lb"/>-vate), Y.; </div><div n="1">(2) {#*बीजजः#} ({#जा, जं#}) (after
-<div n="lb"/>{#क्षेत्रजः#}). Miscell.: <div n="xe">{%n. history:%}</div> <div n="xs">{#*प्राणितत्त्वम्;#}</div> <div n="xe">{%n.%}
-<div n="lb"/>{%philosophy:%}</div> <div n="xs">{#*पदार्थविज्ञानम्;#}</div> <div n="xe">{%n. theology:%}</div> <div n="xs">{#*प्राकृतं #}
-<div n="lb"/>{# ब्रह्मदर्शनम्;#}</div> <div n="xe">{%n. order:%}</div> <div n="xs">{#*प्रकृतश्रेणिः।#}</div></div>
+{@NATURAL@}¦ (adj.): <div n="I">I In gen.: </div><div n="1">(1) {#स्वाभाविकः#}
+({#की, कं#}), <div n="xe">{%n. fragrance:%}</div> <div n="xs">{#स्वाभाविकं सौरम्यम्,#}</div>
+R.; </div><div n="1">(2) {#नैसर्गिकः#} ({#की, कं#}), {%n. opposition:%}
+{#नैसर्गिको विरोधः,#} R. vi. 46.; </div><div n="1">(3) {#सहजः#} ({#जा, जं#})
+(= born with one), <div n="xe">{%n. affection:%}</div> <div n="xs">{#सहजस्नेहः,#}</div> [Page467]
+Ki.; </div><div n="1">(4) {#प्रकृतिसिद्ध#} (f. {#द्धा#}), <div n="xe">{%this is n. for great%}
+{%men:%}</div> <div n="xs">{#प्रकृतिसिद्धमिदं हि महात्मनाम्,#}</div> H.; </div><div n="1">(5)
+{#निसर्गजः#} ({#जा, जं#}), etc. (rare), <div n="xe">{%n. friend:%}</div> <div n="xs">{#स्वभावजं #}
+{# मित्रम्,#}</div> H.; <div n="xe">{%n. death:%}</div> <div n="xs">{#स्वामाविकमृत्युः;#}</div> <div n="xe">{%n. caves%}
+{%or reservoir:%}</div> <div n="xs">{#देवखातम्।#}</div> Ph.: {%it is n. for...%}
+better expr. by subs.: v. Nature (V). </div><div n="I">II.
+Of the nature: {#प्राकृतिकः#} ({#की, कं#}); {#प्रकृति-#} in
+comp. </div><div n="I">III Resembling the object imi-
+-tated: {#स्वरूप-#} in comp.: v. True. </div><div n="I">IV Ille-
+-gitimate: </div><div n="1">(1) {#गूढजः#} ({#जा, जं#}) (born in pri-
+-vate), Y.; </div><div n="1">(2) {#*बीजजः#} ({#जा, जं#}) (after
+{#क्षेत्रजः#}). Miscell.: <div n="xe">{%n. history:%}</div> <div n="xs">{#*प्राणितत्त्वम्;#}</div> <div n="xe">{%n.%}
+{%philosophy:%}</div> <div n="xs">{#*पदार्थविज्ञानम्;#}</div> <div n="xe">{%n. theology:%}</div> <div n="xs">{#*प्राकृतं #}
+{# ब्रह्मदर्शनम्;#}</div> <div n="xe">{%n. order:%}</div> <div n="xs">{#*प्रकृतश्रेणिः।#}</div></div>
 <LEND>

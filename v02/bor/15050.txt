@@ -1,6 +1,6 @@
 <L>15050<pc>460<k1>mouthful<k2>mouthful
-<div n="lb"/>{@MOUTHFUL:@}¦ <div n="1">(1) {#ग्रासः,#} <div n="xe">{%large m.:%}</div> <div n="xs">{#महान् ग्रासः,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(2) {#कवलः#} (rare), <div n="xe">{%a few m.s of fresh%}
-<div n="lb"/>{%Dub:%}</div> <div n="xs">{#कतिपयदूर्वाप्रबालकवल-,#}</div> <ls>K.</ls> ; </div><div n="1">(3) {#मुष्टिः#}
-<div n="lb"/>(= handful).</div>
+{@MOUTHFUL:@}¦ <div n="1">(1) {#ग्रासः,#} <div n="xe">{%large m.:%}</div> <div n="xs">{#महान् ग्रासः,#}</div>
+Mah.; </div><div n="1">(2) {#कवलः#} (rare), <div n="xe">{%a few m.s of fresh%}
+{%Dub:%}</div> <div n="xs">{#कतिपयदूर्वाप्रबालकवल-,#}</div> <ls>K.</ls> ; </div><div n="1">(3) {#मुष्टिः#}
+(= handful).</div>
 <LEND>

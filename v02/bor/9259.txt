@@ -1,4 +1,4 @@
 <L>9259<pc>293<k1>forswear<k2>forswear
-<div n="lb"/>{@FORSWEAR:@}¦ <div n="I">I To abjure: q.v. </div><div n="I">II Perjure:
-<div n="lb"/>q.v.</div>
+{@FORSWEAR:@}¦ <div n="I">I To abjure: q.v. </div><div n="I">II Perjure:
+q.v.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>20567<pc>645<k1>simplification<k2>simplification
-<div n="lb"/>{@SIMPLIFICATION:@}¦ <div n="1">(1) {#सरलीकरणम्;#} </div><div n="1">(2) {#ऋजूकरणम्;#}</div>
-<div n="lb"/><div n="1">(3) {#विशदीकरणम्।#}</div>
+{@SIMPLIFICATION:@}¦ <div n="1">(1) {#सरलीकरणम्;#} </div><div n="1">(2) {#ऋजूकरणम्;#}</div>
+<div n="1">(3) {#विशदीकरणम्।#}</div>
 <LEND>

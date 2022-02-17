@@ -1,9 +1,9 @@
 <L>11338<pc>356<k1>hundred<k2>hundred
-<div n="lb"/>{@HUNDRED:@}¦ <div n="I">I The numeral: {#शतम्,#} <div n="xe">{%I will give%}
-<div n="lb"/>{%you h. villages%}</div> <div n="xs">{#शतंः ग्रामान् प्रदास्यामि,#}</div> A. r.; <div n="xe">{%three%}
-<div n="lb"/>{%h. years:%}</div> <div n="xs">{#अब्दशतानि त्रीणि,#}</div> </div><div n="I">V p. iv. 24. 15.; <div n="xe">{%h.%}
-<div n="lb"/>{%times:%}</div> <div n="xs">{#शतवारान्;#}</div> <div n="xe">{%in a h. ways:%}</div> <div n="xs">{#शत्धा;#}</div> <div n="xe">{%by%}
-<div n="lb"/>{%hundreds:%}</div> <div n="xs">{#शतशः;#}</div> <div n="xe">{%a h. thousand:%}</div> <div n="xs">{#लक्षम्।#}</div> </div><div n="I">II A
-<div n="lb"/>district: {#मण्डलम्।#} N.B. </div><div n="I">V s. has {#शताध्यक्षः#} =
-<div n="lb"/>chief of h. (villages).</div>
+{@HUNDRED:@}¦ <div n="I">I The numeral: {#शतम्,#} <div n="xe">{%I will give%}
+{%you h. villages%}</div> <div n="xs">{#शतंः ग्रामान् प्रदास्यामि,#}</div> A. r.; <div n="xe">{%three%}
+{%h. years:%}</div> <div n="xs">{#अब्दशतानि त्रीणि,#}</div> </div><div n="I">V p. iv. 24. 15.; <div n="xe">{%h.%}
+{%times:%}</div> <div n="xs">{#शतवारान्;#}</div> <div n="xe">{%in a h. ways:%}</div> <div n="xs">{#शत्धा;#}</div> <div n="xe">{%by%}
+{%hundreds:%}</div> <div n="xs">{#शतशः;#}</div> <div n="xe">{%a h. thousand:%}</div> <div n="xs">{#लक्षम्।#}</div> </div><div n="I">II A
+district: {#मण्डलम्।#} N.B. </div><div n="I">V s. has {#शताध्यक्षः#} =
+chief of h. (villages).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>19087<pc>590<k1>request<k2>request
-<div n="lb"/>{@REQUEST@}¦ (subs.): <div n="1">(1) {#प्रार्थना#} <div n="xe">{%or%}</div> <div n="xs">{#अभ्यर्थना,#}</div> {%r. s to%}
-<div n="lb"/>{%stronger%} ({%men%}) <div n="xe">{%end in evils:%}</div> <div n="xs">{#प्रार्थनाधिकबले विपत्फला,#}</div>
-<div n="lb"/>Ki. xiii. 61.; </div><div n="1">(2) {#याच्ञा,#} <div n="xe">{%it is better that a r.%}
-<div n="lb"/>{%to a good man is unsuccessful:%}</div> <div n="xs">{#याच्ञा मोघा #}
-<div n="lb"/>{# वरमधिगुणे,#}</div> Me. i. 6.; </div><div n="1">(3) {#याचितम्, प्र-#} (rare).</div>
+{@REQUEST@}¦ (subs.): <div n="1">(1) {#प्रार्थना#} <div n="xe">{%or%}</div> <div n="xs">{#अभ्यर्थना,#}</div> {%r. s to%}
+{%stronger%} ({%men%}) <div n="xe">{%end in evils:%}</div> <div n="xs">{#प्रार्थनाधिकबले विपत्फला,#}</div>
+Ki. xiii. 61.; </div><div n="1">(2) {#याच्ञा,#} <div n="xe">{%it is better that a r.%}
+{%to a good man is unsuccessful:%}</div> <div n="xs">{#याच्ञा मोघा #}
+{# वरमधिगुणे,#}</div> Me. i. 6.; </div><div n="1">(3) {#याचितम्, प्र-#} (rare).</div>
 <LEND>

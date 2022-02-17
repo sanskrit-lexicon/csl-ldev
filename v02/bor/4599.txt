@@ -1,5 +1,5 @@
 <L>4599<pc>149<k1>continent<k2>continent
-<div n="lb"/>{@CONTINENT@}¦ (subs.): <div n="I">I Lit.: {#वर्षः#} (?), V. p.</div>
-<div n="lb"/><div n="I">II Europe as distinguished from England:
-<div n="lb"/>{#*इयुरुपवर्षः।#}</div>
+{@CONTINENT@}¦ (subs.): <div n="I">I Lit.: {#वर्षः#} (?), V. p.</div>
+<div n="I">II Europe as distinguished from England:
+{#*इयुरुपवर्षः।#}</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>20832<pc>654<k1>smoke<k2>smoke
-<div n="lb"/>{@SMOKE@}¦ (v. t.): <div n="I">I As tobacco: </div><div n="1">(1) {#पिबति,#} ({#पा,#}
-<div n="lb"/>c. 1.), <div n="xe">{%s. ing a cigar:%}</div> <div n="xs">{#परिपीतधूमवर्तिः,#}</div> K.;</div>
-<div n="lb"/><div n="1">(2) {#सेवते,#} ({#सेव्,#} c. 1.: habitually), Bha. </div><div n="I">II
-<div n="lb"/>To purify by s.: {#धूमे(पे)न शोधयति#} (c. of {#शुध्#}):
-<div n="lb"/>v. To purify. </div><div n="I">III To dry by s.: {#धूमे(पे)न #}
-<div n="lb"/>{# शोषयति#} (c. of {#शुष्#}): v. To dry.</div>
+{@SMOKE@}¦ (v. t.): <div n="I">I As tobacco: </div><div n="1">(1) {#पिबति,#} ({#पा,#}
+c. 1.), <div n="xe">{%s. ing a cigar:%}</div> <div n="xs">{#परिपीतधूमवर्तिः,#}</div> K.;</div>
+<div n="1">(2) {#सेवते,#} ({#सेव्,#} c. 1.: habitually), Bha. </div><div n="I">II
+To purify by s.: {#धूमे(पे)न शोधयति#} (c. of {#शुध्#}):
+v. To purify. </div><div n="I">III To dry by s.: {#धूमे(पे)न #}
+{# शोषयति#} (c. of {#शुष्#}): v. To dry.</div>
 <LEND>

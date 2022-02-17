@@ -1,12 +1,12 @@
 <L>31516<pc>843-b<k1>within<k2>within
-<div n="lb"/>WITHIN¦, {%prep.%} (In the inner part) {#अन्तर्, अभ्यन्तरे, अन्तरे;#} ‘within
-<div n="lb"/>the house,’ {#गृहाभ्यन्तरे;#} ‘being within the house,’ {#गृहान्तर्वर्त्ती#}
-<div n="lb"/>{#-र्त्तिनी#} &c., {#गृहान्तर्गतः -ता -तं, गृहान्तःस्थः -स्था -स्थं#}. — (Not later
-<div n="lb"/>than) {#मध्ये, अर्वाक्,#} {%see%} UNDER; ‘within a year,’ {#संवत्सरमध्ये;#}
-<div n="lb"/>‘within ten days,’ {#दशाहमध्ये#}. — (In the limits or compass
-<div n="lb"/>of) {#गोचरः -रा -रं, विषय#} in comp., {#गम्य#} or {#ग्राह्य#} &c. in comp.;
-<div n="lb"/>‘within hearing,’ {#कर्णगोचरः -रा -रं;#} ‘within sight,’ {#दृष्टि-#}
-<div n="lb"/>{#गोचरः -रा -रं, दृग्गोचरः#} &c., {#दृष्टिगम्यः -म्या -म्यं, दृष्टिविषयः -या#}
-<div n="lb"/>{#-यं;#} ‘within arrow-shot,’ {#वाणगोचरः -रा -रं;#} ‘within reach
-<div n="lb"/>of the hand,’ {#हस्तग्राह्यः -ह्या -ह्यं, हस्तप्राप्यः#} &c., {#हस्तवर्त्ती -र्त्तिनी#} &c.
+WITHIN¦, {%prep.%} (In the inner part) {#अन्तर्, अभ्यन्तरे, अन्तरे;#} ‘within
+the house,’ {#गृहाभ्यन्तरे;#} ‘being within the house,’ {#गृहान्तर्वर्त्ती#}
+{#-र्त्तिनी#} &c., {#गृहान्तर्गतः -ता -तं, गृहान्तःस्थः -स्था -स्थं#}. — (Not later
+than) {#मध्ये, अर्वाक्,#} {%see%} UNDER; ‘within a year,’ {#संवत्सरमध्ये;#}
+‘within ten days,’ {#दशाहमध्ये#}. — (In the limits or compass
+of) {#गोचरः -रा -रं, विषय#} in comp., {#गम्य#} or {#ग्राह्य#} &c. in comp.;
+‘within hearing,’ {#कर्णगोचरः -रा -रं;#} ‘within sight,’ {#दृष्टि-#}
+{#गोचरः -रा -रं, दृग्गोचरः#} &c., {#दृष्टिगम्यः -म्या -म्यं, दृष्टिविषयः -या#}
+{#-यं;#} ‘within arrow-shot,’ {#वाणगोचरः -रा -रं;#} ‘within reach
+of the hand,’ {#हस्तग्राह्यः -ह्या -ह्यं, हस्तप्राप्यः#} &c., {#हस्तवर्त्ती -र्त्तिनी#} &c.
 <LEND>

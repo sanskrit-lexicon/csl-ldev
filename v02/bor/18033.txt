@@ -1,8 +1,8 @@
 <L>18033<pc>553<k1>protect<k2>protect
-<div n="lb"/>{@PROTECT:@}¦ <div n="1">(1) {#रक्षति, सं-, अभि-, परि-, प्रति-,#} ({#रक्ष्,#}
-<div n="lb"/>c. 1.), <div n="xe">{%shall always p. self even at the expense%}
-<div n="lb"/>{%of wife and wealth:%}</div> <div n="xs">{#आत्मानं सततं रक्षेद्दारैरपि धनैरपि,#}</div>
-<div n="lb"/>M. vii. 213; </div><div n="1">(2) {#गोपायति, अभि-,#} ({#गुप्,#} c. 1.),
-<div n="lb"/><div n="xe">{%p. ed her like the world:%}</div> <div n="xs">{#उर्वीमिव जुगोप ताम्,#}</div> R.
-<div n="lb"/>ii. 3.: v. Also to save.</div>
+{@PROTECT:@}¦ <div n="1">(1) {#रक्षति, सं-, अभि-, परि-, प्रति-,#} ({#रक्ष्,#}
+c. 1.), <div n="xe">{%shall always p. self even at the expense%}
+{%of wife and wealth:%}</div> <div n="xs">{#आत्मानं सततं रक्षेद्दारैरपि धनैरपि,#}</div>
+M. vii. 213; </div><div n="1">(2) {#गोपायति, अभि-,#} ({#गुप्,#} c. 1.),
+<div n="xe">{%p. ed her like the world:%}</div> <div n="xs">{#उर्वीमिव जुगोप ताम्,#}</div> R.
+ii. 3.: v. Also to save.</div>
 <LEND>

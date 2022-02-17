@@ -1,5 +1,5 @@
 <L>9623<pc>305<k1>gain on or upon<k2>gain on or upon
-<div n="lb"/>{@GAIN ON or UPON:@}¦ {%“g. ed u. the Venetains”%}
-<div n="lb"/>{#*वैनसिकेभ्यः वृद्धिं प्रापुः;#} <div n="xe">{%“so far g. ed on the%}
-<div n="lb"/>{%emperor”:%}</div> <div n="xs">{#*अधिराजमीदृगनुकूलीचकार।#}</div>
+{@GAIN ON or UPON:@}¦ {%“g. ed u. the Venetains”%}
+{#*वैनसिकेभ्यः वृद्धिं प्रापुः;#} <div n="xe">{%“so far g. ed on the%}
+{%emperor”:%}</div> <div n="xs">{#*अधिराजमीदृगनुकूलीचकार।#}</div>
 <LEND>

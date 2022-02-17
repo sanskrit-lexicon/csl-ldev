@@ -1,11 +1,11 @@
 <L>12700<pc>393<k1>iron<k2>iron
-<div n="lb"/>{@IRON@}¦ (subs.): <div n="I">I The metal: </div><div n="1">(1) {#लोह#} <div n="xe">{%or%}</div> <div n="xs">{#लौह#}</div>
-<div n="lb"/>(mn.), <div n="xe">{%impure i.:%}</div> <div n="xs">{#अशुद्धलोहम्;#}</div> <div n="xe">{%i. -flying:%}</div> <div n="xs">{#लोहभवं #}
-<div n="lb"/>{# चूर्णम्,#}</div> Bha.; </div><div n="1">(2) {#अयस्#} (n.), <div n="xe">{%tiffed or pointed with%}
-<div n="lb"/>{%i.:%}</div> <div n="xs">{#अयोमुख।#}</div> (f. {#खी#}), Ka. <div n="xe">{%Wrought i.:%}</div> <div n="xs">{#कुशी।#}</div> <div n="xe">{%Green%}
-<div n="lb"/>{%sulphate of i.:%}</div> <div n="xs">{#धातुशेखरः।#}</div> <div n="xe">{%Red sulphate of i.:%}</div> <div n="xs">{#धातु-#}
-<div n="lb"/>{#काशीशम्।#}</div> {%Made of i.:%} </div><div n="1">(1) {#लौह#} (f. {#ही#}); </div><div n="1">(2)
-<div n="lb"/>{#लोहलः#} ({#ला, लं#}): v. Made of. </div><div n="I">II An iron
-<div n="lb"/>implement: {#लोहयन्त्रम्#} <div n="xe">{%or%}</div> <div n="xs">{#लौहः#}</div> (?). </div><div n="I">III In.
-<div n="lb"/>pl., fetters: q.v.: {#लौहशृङ्गलम्।#}</div>
+{@IRON@}¦ (subs.): <div n="I">I The metal: </div><div n="1">(1) {#लोह#} <div n="xe">{%or%}</div> <div n="xs">{#लौह#}</div>
+(mn.), <div n="xe">{%impure i.:%}</div> <div n="xs">{#अशुद्धलोहम्;#}</div> <div n="xe">{%i. -flying:%}</div> <div n="xs">{#लोहभवं #}
+{# चूर्णम्,#}</div> Bha.; </div><div n="1">(2) {#अयस्#} (n.), <div n="xe">{%tiffed or pointed with%}
+{%i.:%}</div> <div n="xs">{#अयोमुख।#}</div> (f. {#खी#}), Ka. <div n="xe">{%Wrought i.:%}</div> <div n="xs">{#कुशी।#}</div> <div n="xe">{%Green%}
+{%sulphate of i.:%}</div> <div n="xs">{#धातुशेखरः।#}</div> <div n="xe">{%Red sulphate of i.:%}</div> <div n="xs">{#धातु-#}
+{#काशीशम्।#}</div> {%Made of i.:%} </div><div n="1">(1) {#लौह#} (f. {#ही#}); </div><div n="1">(2)
+{#लोहलः#} ({#ला, लं#}): v. Made of. </div><div n="I">II An iron
+implement: {#लोहयन्त्रम्#} <div n="xe">{%or%}</div> <div n="xs">{#लौहः#}</div> (?). </div><div n="I">III In.
+pl., fetters: q.v.: {#लौहशृङ्गलम्।#}</div>
 <LEND>

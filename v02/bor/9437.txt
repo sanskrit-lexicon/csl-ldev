@@ -1,10 +1,10 @@
 <L>9437<pc>299<k1>frighten<k2>frighten
-<div n="lb"/>{@FRIGHTEN@}¦ (v.): <div n="1">(1) {#भीषयति, वि-,#} (c. of {#भी#}), <div n="xe">{%I%}
-<div n="lb"/>{%can never be f. ed with mere words:%}</div> <div n="xs">{#नाहं भीषयितुं #}
-<div n="lb"/>{# शक्यो वाङ्मात्रेण कथञ्चन,#}</div> Mah. </div><div n="1">(2) {#त्रासयति, वि-,#}
-<div n="lb"/>(c. of {#त्रस्#}), {%on the pretence of f. ing pigeons:%}
-<div n="lb"/>{#पारावतत्रासनापदेशात्,#} D. <div n="xe">{%To be f. ed:%}</div> <div n="xs">{#बिभेति, #}
-<div n="lb"/>{# भी,#}</div> c. 2.), <div n="xe">{%do not get f. ed:%}</div> <div n="xs">{#मा भैषीः,#}</div> <div n="xe">{%I therefore%}
-<div n="lb"/>{%stand f. ed before you:%}</div> <div n="xs">{#अत एव भीतस्तिष्ठामि तेऽग्रतः,#}</div>
-<div n="lb"/>Mah.</div>
+{@FRIGHTEN@}¦ (v.): <div n="1">(1) {#भीषयति, वि-,#} (c. of {#भी#}), <div n="xe">{%I%}
+{%can never be f. ed with mere words:%}</div> <div n="xs">{#नाहं भीषयितुं #}
+{# शक्यो वाङ्मात्रेण कथञ्चन,#}</div> Mah. </div><div n="1">(2) {#त्रासयति, वि-,#}
+(c. of {#त्रस्#}), {%on the pretence of f. ing pigeons:%}
+{#पारावतत्रासनापदेशात्,#} D. <div n="xe">{%To be f. ed:%}</div> <div n="xs">{#बिभेति, #}
+{# भी,#}</div> c. 2.), <div n="xe">{%do not get f. ed:%}</div> <div n="xs">{#मा भैषीः,#}</div> <div n="xe">{%I therefore%}
+{%stand f. ed before you:%}</div> <div n="xs">{#अत एव भीतस्तिष्ठामि तेऽग्रतः,#}</div>
+Mah.</div>
 <LEND>

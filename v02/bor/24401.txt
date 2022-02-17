@@ -1,10 +1,10 @@
 <L>24401<pc>764<k1>wise<k2>wise
-<div n="lb"/>{@WISE:@}¦ <div n="I">I Having wisdom: </div><div n="1">(1) {#प्राज्ञ#} (f. {#ज्ञा#});</div>
-<div n="lb"/><div n="1">(2) {#विज्ञ#} (f. {#ज्ञा#}); </div><div n="1">(3) {#प्रज्ञावत्#} (f. {#ती#}); </div><div n="1">(4)
-<div n="lb"/>{#धीमत्#} (f. {#ती#}): v. Intelligent; </div><div n="1">(5) {#ज्ञानिन्#}
-<div n="lb"/>(f. {#नी#}): v. Learned; </div><div n="1">(6) {#विवेकिन्#} (f. {#नी#}):
-<div n="lb"/>v. Prudent. </div><div n="I">II Of acts etc.: {%w. saying:%}
-<div n="lb"/>{#बुधभाषितम्;#} <div n="xe">{%w. action:%}</div> <div n="xs">{#ज्ञानमूला क्रिया;#}</div> {%w. intellect:%}
-<div n="lb"/>{#विवेकिनी मतिः;#} <div n="xe">{%w. deportment:%}</div> <div n="xs">{#विवेकव्यवहारः;#}</div>
-<div n="lb"/>etc.</div>
+{@WISE:@}¦ <div n="I">I Having wisdom: </div><div n="1">(1) {#प्राज्ञ#} (f. {#ज्ञा#});</div>
+<div n="1">(2) {#विज्ञ#} (f. {#ज्ञा#}); </div><div n="1">(3) {#प्रज्ञावत्#} (f. {#ती#}); </div><div n="1">(4)
+{#धीमत्#} (f. {#ती#}): v. Intelligent; </div><div n="1">(5) {#ज्ञानिन्#}
+(f. {#नी#}): v. Learned; </div><div n="1">(6) {#विवेकिन्#} (f. {#नी#}):
+v. Prudent. </div><div n="I">II Of acts etc.: {%w. saying:%}
+{#बुधभाषितम्;#} <div n="xe">{%w. action:%}</div> <div n="xs">{#ज्ञानमूला क्रिया;#}</div> {%w. intellect:%}
+{#विवेकिनी मतिः;#} <div n="xe">{%w. deportment:%}</div> <div n="xs">{#विवेकव्यवहारः;#}</div>
+etc.</div>
 <LEND>

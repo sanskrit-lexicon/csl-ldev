@@ -1,15 +1,15 @@
 <L>12960<pc>199-3<k1>ब्रह्मायुस्<k2>ब्रह्मायुस्
 {#ब्रह्मायुस्#}¦brahma‡āyus, {%n.%} Brahman's lifetime; <lbinfo n="4"/>
-<> {%a.%} living as long as Brahman; {%m. N. %}
-<>{%of a Brāhman%}; {@-araṇya@}, {%n. N. of a%} forest; 
-<>{@-ārambha,@} {%m.%} beginning of Vedic recitation; 
-<>{@-arpaṇa@}, {%n.%} offering of sacred knowledge; 
-<>{@-āvarta,@} {%m. N. of the sacred tract between %}
-<>{%the Sarasvatī and the Dṛṣadvatī, north-west %}<lbinfo n="5"/>
-<>{% of Hastināpura%}; {@-āsana,@} {%n.%} seat of the 
-<>Brahman priest; a sitting posture {%suitable%} 
-<>for sacred meditation; {@-astra,@} {%n.%} Brahman's 
-<>missile ({%a mythical weapon%}); {@-āsya,@} {%n.%} a 
-<>Brāhman's mouth; {@-āhuti,@} {%f.%} offering of 
-<>devotion.
+ {%a.%} living as long as Brahman; {%m. N. %}
+{%of a Brāhman%}; {@-araṇya@}, {%n. N. of a%} forest; 
+{@-ārambha,@} {%m.%} beginning of Vedic recitation; 
+{@-arpaṇa@}, {%n.%} offering of sacred knowledge; 
+{@-āvarta,@} {%m. N. of the sacred tract between %}
+{%the Sarasvatī and the Dṛṣadvatī, north-west %}<lbinfo n="5"/>
+{% of Hastināpura%}; {@-āsana,@} {%n.%} seat of the 
+Brahman priest; a sitting posture {%suitable%} 
+for sacred meditation; {@-astra,@} {%n.%} Brahman's 
+missile ({%a mythical weapon%}); {@-āsya,@} {%n.%} a 
+Brāhman's mouth; {@-āhuti,@} {%f.%} offering of 
+devotion.
 <LEND>

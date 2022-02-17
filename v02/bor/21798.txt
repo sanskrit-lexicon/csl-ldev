@@ -1,5 +1,5 @@
 <L>21798<pc>687<k1>successively<k2>successively
-<div n="lb"/>{@SUCCESSIVELY:@}¦ <div n="1">(1) {#क्रमेण, क्रमतः#} <div n="xe">{%or%}</div> <div n="xs">{#क्रमशः;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#अनुक्रमम्,#} <div n="xe">{%or%}</div> <div n="xs">{#-शः;#}</div> </div><div n="1">(3) {#अनेकशः#} (= repeatedly:
-<div n="lb"/>q. v.).</div>
+{@SUCCESSIVELY:@}¦ <div n="1">(1) {#क्रमेण, क्रमतः#} <div n="xe">{%or%}</div> <div n="xs">{#क्रमशः;#}</div> </div><div n="1">(2)
+{#अनुक्रमम्,#} <div n="xe">{%or%}</div> <div n="xs">{#-शः;#}</div> </div><div n="1">(3) {#अनेकशः#} (= repeatedly:
+q. v.).</div>
 <LEND>

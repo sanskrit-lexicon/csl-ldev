@@ -1,12 +1,12 @@
 <L>16854<pc>516<k1>personal<k2>personal
-<div n="lb"/>{@PERSONAL:@}¦ <div n="I">I Individual: {#व्यक्तिगत#} (f. {#ता#}).</div>
-<div n="lb"/><div n="I">II Bodily: q. v.: {#शरीर-#} in comp., {%p. charms:%} [Page517]
-<div n="lb"/>{#शरीरशोभा,#} <ls>N.</ls> </div><div n="I">III. Belonging to persons:
-<div n="lb"/>expr. by comp. or gen. </div><div n="I">IV Done in
-<div n="lb"/>person: {#स्वयंकृत#} (f. {#ता#}). </div><div n="I">V. Own: q. v.:
-<div n="lb"/><div n="xe">{%for p. attendance:%}</div> <div n="xs">{#आत्मदर्शनार्थम्।#}</div> </div><div n="I">VI Concern-
-<div n="lb"/>-ing individual character: <div n="xe">{%I donot like your%}
-<div n="lb"/>{%p. observations:%}</div> <div n="xs">{#अमुकं लक्षीकृत्य यदुक्तं तन्मे न रोचते।#}</div>
-<div n="lb"/>Ph.: <div n="xe">{%p. pronouns:%}</div> <div n="xs">{#पुरुषवाचकानि सर्वनामानि#}</div> (n.
-<div n="lb"/>pl.); <div n="xe">{%p. property:%}</div> <div n="xs">{#अस्थावरसम्पत्तिः।#}</div></div>
+{@PERSONAL:@}¦ <div n="I">I Individual: {#व्यक्तिगत#} (f. {#ता#}).</div>
+<div n="I">II Bodily: q. v.: {#शरीर-#} in comp., {%p. charms:%} [Page517]
+{#शरीरशोभा,#} <ls>N.</ls> </div><div n="I">III. Belonging to persons:
+expr. by comp. or gen. </div><div n="I">IV Done in
+person: {#स्वयंकृत#} (f. {#ता#}). </div><div n="I">V. Own: q. v.:
+<div n="xe">{%for p. attendance:%}</div> <div n="xs">{#आत्मदर्शनार्थम्।#}</div> </div><div n="I">VI Concern-
+-ing individual character: <div n="xe">{%I donot like your%}
+{%p. observations:%}</div> <div n="xs">{#अमुकं लक्षीकृत्य यदुक्तं तन्मे न रोचते।#}</div>
+Ph.: <div n="xe">{%p. pronouns:%}</div> <div n="xs">{#पुरुषवाचकानि सर्वनामानि#}</div> (n.
+pl.); <div n="xe">{%p. property:%}</div> <div n="xs">{#अस्थावरसम्पत्तिः।#}</div></div>
 <LEND>

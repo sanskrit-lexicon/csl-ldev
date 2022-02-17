@@ -1,6 +1,6 @@
 <L>3935<pc>128<k1>cocoanut<k2>cocoanut
-<div n="lb"/>{@COCOANUT:@}¦ {#नारिकेलम्।#} <div n="xe">{%C. -husk:%}</div> <div n="xs">{#नारिकेलीफलवल्कलम्,#}</div>
-<div n="lb"/>K.; <div n="xe">{%c. tree:%}</div> <div n="xs">{#नारिकेलः, -ली;#}</div> <div n="xe">{%c. water:%}</div> <div n="xs">{#नारिकेलापः#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#नारिकेलान्तरापः,#}</div> Si. iii. 81.; {#नारिकेलीरसः,#}
-<div n="lb"/>Vi.; <div n="xe">{%c. wine:%}</div> <div n="xs">{#नारिकेलासवः,#}</div> R. iv. 42.
+{@COCOANUT:@}¦ {#नारिकेलम्।#} <div n="xe">{%C. -husk:%}</div> <div n="xs">{#नारिकेलीफलवल्कलम्,#}</div>
+K.; <div n="xe">{%c. tree:%}</div> <div n="xs">{#नारिकेलः, -ली;#}</div> <div n="xe">{%c. water:%}</div> <div n="xs">{#नारिकेलापः#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#नारिकेलान्तरापः,#}</div> Si. iii. 81.; {#नारिकेलीरसः,#}
+Vi.; <div n="xe">{%c. wine:%}</div> <div n="xs">{#नारिकेलासवः,#}</div> R. iv. 42.
 <LEND>

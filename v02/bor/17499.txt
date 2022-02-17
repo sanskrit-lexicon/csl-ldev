@@ -1,5 +1,5 @@
 <L>17499<pc>535<k1>pounce<k2>pounce
-<div n="lb"/>{@POUNCE:@}¦ <div n="I">I Subs.: {#मसीशोषणचूर्णम्।#} </div><div n="I">II Verb:
-<div n="lb"/><div n="xe">{%p. on or upon:%}</div> <div n="xs">{#अवपत्य गृह्णाति#}</div> ({#ग्रह्,#} c. 9.); <div n="xe">{%p. ing%}
-<div n="lb"/>{%of a hawk:%}</div> <div n="xs">{#श्येनावपातः।#}</div></div>
+{@POUNCE:@}¦ <div n="I">I Subs.: {#मसीशोषणचूर्णम्।#} </div><div n="I">II Verb:
+<div n="xe">{%p. on or upon:%}</div> <div n="xs">{#अवपत्य गृह्णाति#}</div> ({#ग्रह्,#} c. 9.); <div n="xe">{%p. ing%}
+{%of a hawk:%}</div> <div n="xs">{#श्येनावपातः।#}</div></div>
 <LEND>

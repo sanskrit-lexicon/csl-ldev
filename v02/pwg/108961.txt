@@ -7,15 +7,15 @@
 <ls>HARIV. 15576.</ls> {#मा वादीः साहसम्#}
 [Page7-0968]
 
-<ls>15582.</ls> 
+<ls n="HARIV.">15582.</ls> 
 <div n="1">— 2) 
-n. <ls>TRIK. 3, 5, 7.</ls> <ls>SIDDH. K. 249</ls>, {%b%}, 7. auch <lex>m.</lex> 
+n. <ls>TRIK. 3, 5, 7.</ls> <ls>SIDDH. K. 249,b,7.</ls> auch <lex>m.</lex> 
 <ls>VAIJ.</ls> beim Schol. zu <ls>H. 736.</ls> 
 <div n="2"> a) {%Gewaltthat, Gewaltthätigkeit%} 
 <ls>AK. 2, 8, 1, 21.</ls> 
 <ls>H. 736.</ls> 
 <ls>an. 3, 759.</ls> 
-<ls>MED. S. 44.</ls> <ls>M. 7, 48. 8, 6. 72</ls> <ls>?(pl.). 332. 345.</ls> {#साहसे वर्तमानः#} 
+<ls>MED. S. 44.</ls> <ls>M. 7, 48. 8, 6. 72</ls> (pl.). <ls>332. 345.</ls> {#साहसे वर्तमानः#} 
 <ls>346.</ls> <ls>YĀJÑ. 2, 10. 72. 232.</ls> <ls>VOP. 23, 25.</ls> 
 <div n="2">— b) {%Ueberanstrengung%}: {#साहसानि सेव्#} 
 <ls>CARAKA 1, 28. 2, 6.</ls> 
@@ -28,19 +28,19 @@ n. <ls>TRIK. 3, 5, 7.</ls> <ls>SIDDH. K. 249</ls>, {%b%}, 7. auch <lex>m.</lex>
 <ls>YĀJÑ. 1, 66. 365. 2, 153. 250.</ls> 
 <ls>Spr. (II) 1682.</ls> 
 <div n="2">— d) {%Wagniss, eine verwegene%} (in gutem und in schlechtem Sinne), {%tollkühne, übereilte%} oder {%unbesonnene Handlung%} 
-<ls>H. an.</ls> <ls>R. 2, 106, 13. 3, 33, 2.</ls> <ls>SUŚR. 2, 164, 6.</ls> <ls>KĀM. NĪTIS. 14, 56.</ls> <ls>ŚIŚ. 9, 59.</ls> <ls>Spr. (II) 179. 328. 706. 833. 1038</ls> <ls>?(pl.). 1247. 3048. 3485. 3669. 7204. 7494. 7565. VARĀH. BṚH. S. 69, 28. BṚH. 10, 2. 21, 9</ls> (oder {%Gewaltthat%}). 
+<ls>H. an.</ls> <ls>R. 2, 106, 13. 3, 33, 2.</ls> <ls>SUŚR. 2, 164, 6.</ls> <ls>KĀM. NĪTIS. 14, 56.</ls> <ls>ŚIŚ. 9, 59.</ls> <ls>Spr. (II) 179.</ls> <ls n="Spr. (II)">328.</ls> <ls n="Spr. (II)">706.</ls> <ls n="Spr. (II)">833.</ls> <ls n="Spr. (II)">1038</ls> (pl.). <ls>1247. 3048. 3485. 3669. 7204. 7494. 7565.</ls> <ls>VARĀH. BṚH. S. 69, 28.</ls> <ls>BṚH. 10, 2. 21, 9</ls> (oder {%Gewaltthat%}). 
 <ls>KATHĀS. 21, 97. 25, 103. 178.</ls> {#°धन#} <lex>adj.</lex> 
-<ls>?27, 208. 30, 75. 42, 24. 43, 202. 49, 52. 61, 262. RĀJA-TAR. 4, 564. 6, 145. DAŚAK. 75, 18. PAÑCAT. 135, 8. HIT. 100, 3. 103, 3. VET. in LA. (III) 28, 9.</ls> {#को हि नाम भवेनार्थी साहसेन समाचरेत्#} 
+<ls>27, 208. 30, 75. 42, 24. 43, 202. 49, 52. 61, 262.</ls> <ls>RĀJA-TAR. 4, 564. 6, 145.</ls> <ls>DAŚAK. 75, 18.</ls> <ls>PAÑCAT. 135, 8.</ls> <ls>HIT. 100, 3. 103, 3.</ls> <ls>VET. in LA. (III) 28, 9.</ls> {#को हि नाम भवेनार्थी साहसेन समाचरेत्#} 
 <ls>MBH. 1, 7958.</ls> {#साहसम् अनु - स्था#} 
 <ls>MṚCCH. 59, 1.</ls> {#अङ्गीकर्#} 
 <ls>KATHĀS. 25, 225.</ls> {#तन्#} 
 <ls>32, 87.</ls> {#अध्यव-सा#} 
 <ls>DAŚAK. 143, 6. 7.</ls> {#अव-लम्ब्#} 
 <ls>Z. d. d. m. G. 14, 571, 17.</ls> {#कर्#} 
-<ls>MBH. 1, 7792. 3, 17259. 4, 664. 13, 1898.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 59, 20.</ls> 
-<ls>Spr. (II) 6221. 6886.</ls> 
+<ls>MBH. 1, 7792.</ls> <ls n="MBH.">3, 17259.</ls> <ls n="MBH.">4, 664.</ls> <ls n="MBH.">13, 1898.</ls> 
+
+<ls>R. GORR. 2, 59, 20.</ls> 
+<ls>Spr. (II) 6221.</ls> <ls n="Spr. (II)">6886.</ls> 
 <ls>KATHĀS. 10, 57. 18, 324. 26, 238. 34, 187. 36, 30. 42, 174. 52, 163.</ls> 
 <ls>PAÑCAT. 135, 6.</ls> {#कथं कुर्युः सत्योल्लङ्घनसाहसम्#} 
 <ls>KATHĀS. 110, 38.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) 
@@ -49,7 +49,7 @@ n. <ls>TRIK. 3, 5, 7.</ls> <ls>SIDDH. K. 249</ls>, {%b%}, 7. auch <lex>m.</lex>
 <ls>77, 47.</ls> {#प्रिय°#} desgl. 
 <ls>18, 323.</ls> <ls>Spr. (II) 7197.</ls> {#प्रियसाहसत्व#} 
 <ls>2604.</ls> {#अति°#} 
-<ls>MBH. 3, 1632. 4, 2166.</ls> 
+<ls>MBH. 3, 1632.</ls> <ls n="MBH.">4, 2166.</ls> 
 <ls>MṚCCH. 64, 24.</ls> 
 <ls>VARĀH. BṚH. 21, 8.</ls> 
 <div n="2">— e) = {#द्वेष#} 

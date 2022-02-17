@@ -1,5 +1,5 @@
 <L>8817<pc>279<k1>firing<k2>firing
-<div n="lb"/>{@FIRING:@}¦ <div n="I">I The act.: {#आग्नेयास्त्रमोचनम्#} (?). </div><div n="I">II
-<div n="lb"/>Application of fire: {#अग्निप्रयोगः।#} </div><div n="I">III Fuel:
-<div n="lb"/>q.v.: {#दाह्यम्।#}</div>
+{@FIRING:@}¦ <div n="I">I The act.: {#आग्नेयास्त्रमोचनम्#} (?). </div><div n="I">II
+Application of fire: {#अग्निप्रयोगः।#} </div><div n="I">III Fuel:
+q.v.: {#दाह्यम्।#}</div>
 <LEND>

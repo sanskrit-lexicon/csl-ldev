@@ -1,7 +1,7 @@
 <L>17886<pc>548<k1>profit<k2>profit
-<div n="lb"/>{@PROFIT@}¦ (v. i.): <div n="I">I To gain: expr. with {#लाभः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#उपकारः।#}</div> </div><div n="I">II To take advantage of: expr.
-<div n="lb"/>with {#लभते#} ({#लभ्,#} c. 1.), <div n="xe">{%p. ing by the oppor-%}
-<div n="lb"/>{%tunity:%}</div> <div n="xs">{#अवसरंलब्ध्वा।#}</div> </div><div n="I">III To bring good:
-<div n="lb"/>{#शुभम् आवहति।#}</div>
+{@PROFIT@}¦ (v. i.): <div n="I">I To gain: expr. with {#लाभः#}
+<div n="xe">{%or%}</div> <div n="xs">{#उपकारः।#}</div> </div><div n="I">II To take advantage of: expr.
+with {#लभते#} ({#लभ्,#} c. 1.), <div n="xe">{%p. ing by the oppor-%}
+{%tunity:%}</div> <div n="xs">{#अवसरंलब्ध्वा।#}</div> </div><div n="I">III To bring good:
+{#शुभम् आवहति।#}</div>
 <LEND>

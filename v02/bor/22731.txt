@@ -1,4 +1,4 @@
 <L>22731<pc>717<k1>tract<k2>tract
-<div n="lb"/>{@TRACT:@}¦ <div n="I">I Place, region: q. v.: {#भूभागः।#} </div><div n="I">II
-<div n="lb"/>Treatise, book: q. v.: {#प्रबन्धः।#}</div>
+{@TRACT:@}¦ <div n="I">I Place, region: q. v.: {#भूभागः।#} </div><div n="I">II
+Treatise, book: q. v.: {#प्रबन्धः।#}</div>
 <LEND>

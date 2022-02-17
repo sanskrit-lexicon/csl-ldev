@@ -1,8 +1,8 @@
 <L>14938<pc>456<k1>moonlight<k2>moonlight
-<div n="lb"/>{@MOONLIGHT@}¦ (subs.): <div n="1">(1) {#कौमुदी,#} <div n="xe">{%the m. -festi-%}
-<div n="lb"/>{%val:%}</div> <div n="xs">{#कौमुदीमहोत्सवः,#}</div> Mu.; </div><div n="1">(2) {#चन्द्रिका,#} <div n="xe">{%in m.%}
-<div n="lb"/>{%lights are superfluous:%}</div> <div n="xs">{#चन्द्रिकायां दीपिकाः पुनरूक्ताः,#}</div>
-<div n="lb"/><ls>V.</ls> ; </div><div n="1">(3) {#चन्द्रालोकः#} and sim. comp.s., <div n="xe">{%perceiv-%}
-<div n="lb"/>{%able by m.:%}</div> <div n="xs">{#चन्द्रातपेन विभाव्यमानः#}</div> ({#ना, नं#}), <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(4) {#ज्योत्स्ना#} (when the sense is clear).</div>
+{@MOONLIGHT@}¦ (subs.): <div n="1">(1) {#कौमुदी,#} <div n="xe">{%the m. -festi-%}
+{%val:%}</div> <div n="xs">{#कौमुदीमहोत्सवः,#}</div> Mu.; </div><div n="1">(2) {#चन्द्रिका,#} <div n="xe">{%in m.%}
+{%lights are superfluous:%}</div> <div n="xs">{#चन्द्रिकायां दीपिकाः पुनरूक्ताः,#}</div>
+<ls>V.</ls> ; </div><div n="1">(3) {#चन्द्रालोकः#} and sim. comp.s., <div n="xe">{%perceiv-%}
+{%able by m.:%}</div> <div n="xs">{#चन्द्रातपेन विभाव्यमानः#}</div> ({#ना, नं#}), <ls>K.</ls> ;</div>
+<div n="1">(4) {#ज्योत्स्ना#} (when the sense is clear).</div>
 <LEND>

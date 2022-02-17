@@ -23,7 +23,7 @@
 <ls>Spr. 1134. 1139, v. l.</ls> 
 <ls>PAÑCAT. 135, 11. 14.</ls> {#काम°#} {%Liebesgenuss%} 
 <ls>KATHĀS. 29, 53.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. 58, 18.</ls> {#भव°#} 
+<ls>BRAHMA-P. in LA. 58, 18.</ls> {#भव°#} 
 <ls>Spr. 937.</ls> {#आधेः#} {%Benutzung eines verpfändeten Gegenstandes%} 
 <ls>M. 8, 149. 150.</ls> 
 <ls>YĀJÑ. 2, 59. 157.</ls> {#भोगस्त्रैपौरुषः#} {%eine durch drei Generationen fortlaufende Benutzung%} 
@@ -52,7 +52,7 @@
 <ls>VID. 153. 161. 308.</ls> 
 <ls>Spr. 1092.</ls> {#किं भोगैर्जीवितेन वा#} 
 <ls>BHAG. 1, 32.</ls> 
-<ls>MBH. 8, 4915. 13, 307.</ls> {#सर्वभोगैः परित्यक्तं रामम्#} 
+<ls>MBH. 8, 4915.</ls> <ls n="MBH.">13, 307.</ls> {#सर्वभोगैः परित्यक्तं रामम्#} 
 <ls>R. 2, 104, 10.</ls> {#भुञ्जीय भोगान्रुधिरप्रदिग्धान्#} 
 <ls>BHAG. 2, 5.</ls> {#ये हि मंस्पर्शजा भोगा दुःखयोनय एव ते#} 
 <ls>5, 22.</ls> {#भुङ्क्ष्व भोगान्#} 
@@ -61,7 +61,7 @@
 <ls>ŚUK.</ls> in <ls>LA. (II) 36, 1.</ls> {#विपुला भोगाः#} 
 <ls>Spr. 4704.</ls> {#अनुत्तमाः शुभाः#} 
 <ls>MBH. 4, 404.</ls> {#इष्टाः#} 
-<ls>BHAG. 3, 12.</ls> <ls>?ad MEGH. 113.</ls> {#पुष्कलाः#} 
+<ls>BHAG. 3, 12.</ls> ad <ls>MEGH. 113.</ls> {#पुष्कलाः#} 
 <ls>AṢṬĀV. 18, 2.</ls> {#विविधाः#} 
 <ls>PAÑCAT. 130, 21.</ls> {#असारविरसाः#} 
 <ls>KATHĀS. 36, 105. 44, 96.</ls> {#भोगेष्वनुत्सेकिनी#} (v. l. für {#भाग्येषु)#} 
@@ -78,7 +78,7 @@
 <ls>M. 3, 40.</ls> {#विविधाहारपानगेयादिभोगभुज्#} 
 <ls>KATHĀS. 44, 81.</ls> {#मद्यपानं तथा कार्यं समये भोगमोक्षदम्#} 
 <ls>Verz. d. Oxf. H. 91,b,20.</ls> {#भोगमोक्षप्रदा भैरवी#} 
-<ls>?93,b,16. AṢTĀV.17,5.</ls>
+<ls>93,b,16. AṢTĀV.17,5.</ls>
 [Page5-0383]
 {%Gegenstand des Genusses%}: {#संपश्येमं भोगचयं महान्तम्#} 
 <ls>MBH. 5, 743.</ls> {#महार्हैर्श्चेप्सितैर्भोगैर्युयोजैनं प्रसादयन्#} 
@@ -111,7 +111,7 @@
 <div n="1">— 2) in der Astr. {%das Durchlaufen%} (eines Gestirns): {#रविरविसुतभोगमागतम्#} 
 <ls>VARĀH. BṚH. S. 15, 31.</ls> 
 <div n="1">— 3) {%der auf jedes%} <is>Nakṣatra</is> {%fallende Theil der Ekliptik%} d. i. 
-<ls>?13° 20' oder 800' SŪRYAS. 2, 64-66. 69. 8, 1. 5. 11, 20.</ls> = {#मांन#} 
+13° 20' oder 800' <ls>SŪRYAS. 2, 64-66. 69. 8, 1. 5. 11, 20.</ls> = {#मांन#} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 4) N. pr. eines Lehrers 
 <ls>Verz. d. Oxf. H. 101,b,13.</ls> 

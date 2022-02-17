@@ -1,7 +1,7 @@
 <L>1999<pc>070<k1>beware<k2>beware
-<div n="lb"/>{@BEWARE:@}¦ no exact equiv.: <div n="xe">{%b. of him%}</div> <div n="xs">{#तस्मिन् #}
-<div n="lb"/>{# बद्धविश्वासो मा भव;#}</div> <div n="xe">{%b. of your servants that they%}
-<div n="lb"/>{%may not deceive you%}</div> <div n="xs">{#तथा प्रयतेथाः यथा न वञ्च्यसे #}
-<div n="lb"/>{# सेवकैः;#}</div> <div n="xe">{%b. of your steps%}</div> <div n="xs">{#सावधानं परिक्राम:#}</div> v.
-<div n="lb"/>Care.
+{@BEWARE:@}¦ no exact equiv.: <div n="xe">{%b. of him%}</div> <div n="xs">{#तस्मिन् #}
+{# बद्धविश्वासो मा भव;#}</div> <div n="xe">{%b. of your servants that they%}
+{%may not deceive you%}</div> <div n="xs">{#तथा प्रयतेथाः यथा न वञ्च्यसे #}
+{# सेवकैः;#}</div> <div n="xe">{%b. of your steps%}</div> <div n="xs">{#सावधानं परिक्राम:#}</div> v.
+Care.
 <LEND>

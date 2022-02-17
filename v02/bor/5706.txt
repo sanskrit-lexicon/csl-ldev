@@ -1,7 +1,7 @@
 <L>5706<pc>183<k1>degrade<k2>degrade
-<div n="lb"/>{@DEGRADE:@}¦ <div n="I">I Lit.: {#*निम्नपदे क्षिपति#} ({#क्षिप्,#} c. 6.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#निम्नपदं लम्भयति#}</div> (c. of {#लम्भ्#}). </div><div n="I">II Fig.:
-<div n="lb"/>{#लघूकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#लघयति#}</div> (nomi.), <div n="xe">{%shame on me d. d. by%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#मां धिग जीवितलघूकृताम्,#}</div> B. {%To become d. d.:%}</div>
-<div n="lb"/><div n="1">(1) {#लघूमवति;#} </div><div n="1">(2) {#हीयते#} (pass. of {#हा#}), <ls>H.</ls></div>
+{@DEGRADE:@}¦ <div n="I">I Lit.: {#*निम्नपदे क्षिपति#} ({#क्षिप्,#} c. 6.)
+<div n="xe">{%or%}</div> <div n="xs">{#निम्नपदं लम्भयति#}</div> (c. of {#लम्भ्#}). </div><div n="I">II Fig.:
+{#लघूकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#लघयति#}</div> (nomi.), <div n="xe">{%shame on me d. d. by%}
+{%life:%}</div> <div n="xs">{#मां धिग जीवितलघूकृताम्,#}</div> B. {%To become d. d.:%}</div>
+<div n="1">(1) {#लघूमवति;#} </div><div n="1">(2) {#हीयते#} (pass. of {#हा#}), <ls>H.</ls></div>
 <LEND>

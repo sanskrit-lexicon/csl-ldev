@@ -1,5 +1,5 @@
 <L>15971<pc>492<k1>ordinary<k2>ordinary
-<div n="lb"/>{@ORDINARY:@}¦ <div n="I">I Customary, regular: {#प्रचलः#}
-<div n="lb"/>({#ला, लं#}) <div n="xe">{%or%}</div> <div n="xs">{#प्रचलितः#}</div> ({#ता, तं#}). </div><div n="I">II Common,
-<div n="lb"/>inferior: q. v.: {#सामान्य#} (f. {#न्या#}).</div>
+{@ORDINARY:@}¦ <div n="I">I Customary, regular: {#प्रचलः#}
+({#ला, लं#}) <div n="xe">{%or%}</div> <div n="xs">{#प्रचलितः#}</div> ({#ता, तं#}). </div><div n="I">II Common,
+inferior: q. v.: {#सामान्य#} (f. {#न्या#}).</div>
 <LEND>

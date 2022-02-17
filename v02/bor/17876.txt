@@ -1,5 +1,5 @@
 <L>17876<pc>548<k1>profession<k2>profession
-<div n="lb"/>{@PROFESSION:@}¦ <div n="I">I Declaration, avowal: q. v.:
-<div n="lb"/>{#उक्तिः।#} </div><div n="I">II Claim, pretension: q. v. </div><div n="I">III
-<div n="lb"/>Vocation, livelihood: q. v.: {#वृत्तिः।#}</div>
+{@PROFESSION:@}¦ <div n="I">I Declaration, avowal: q. v.:
+{#उक्तिः।#} </div><div n="I">II Claim, pretension: q. v. </div><div n="I">III
+Vocation, livelihood: q. v.: {#वृत्तिः।#}</div>
 <LEND>

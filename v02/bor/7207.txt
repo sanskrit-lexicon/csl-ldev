@@ -1,8 +1,8 @@
 <L>7207<pc>229<k1>echo<k2>echo
-<div n="lb"/>{@ECHO@}¦ (v. t.): <div n="I">I To cause to e.: </div><div n="1">(1) {#प्रतिध्वानयति#}
-<div n="lb"/>(c. of {#ध्वन्#}), <div n="xe">{%e. ing the cave:%}</div> <div n="xs">{#कन्दरभुवः कुर्वन् #}
-<div n="lb"/>{# प्रतिध्वानिताः,#}</div> Na.; </div><div n="1">(2) {#प्रतिनादयति,#} (c. of {#नद्#}).</div>
-<div n="lb"/><div n="I">II To echo: q. v.: {#अनु-नदति,#} etc. </div><div n="I">III
-<div n="lb"/>Fig., to adopt: expr. by these verbs: v.
-<div n="lb"/>Echo (subs.).</div>
+{@ECHO@}¦ (v. t.): <div n="I">I To cause to e.: </div><div n="1">(1) {#प्रतिध्वानयति#}
+(c. of {#ध्वन्#}), <div n="xe">{%e. ing the cave:%}</div> <div n="xs">{#कन्दरभुवः कुर्वन् #}
+{# प्रतिध्वानिताः,#}</div> Na.; </div><div n="1">(2) {#प्रतिनादयति,#} (c. of {#नद्#}).</div>
+<div n="I">II To echo: q. v.: {#अनु-नदति,#} etc. </div><div n="I">III
+Fig., to adopt: expr. by these verbs: v.
+Echo (subs.).</div>
 <LEND>

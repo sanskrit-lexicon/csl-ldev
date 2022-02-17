@@ -1,10 +1,10 @@
 <L>18760<pc>578<k1>recruit<k2>recruit
-<div n="lb"/>{@RECRUIT@}¦ (v.): <div n="I">I To supply deficiency: {#पुष्णाति#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#पोषयति, परि-, सं-,#}</div> ({#पुष्,#} c. 9. and causal),
-<div n="lb"/><div n="xe">{%r. ed her pretty parts:%}</div> <div n="xs">{#पुपोष लावण्यमयान् विशेषान्,#}</div>
-<div n="lb"/>Ku. i. 25. </div><div n="I">II To refresh, reinvigorate:</div>
-<div n="lb"/><div n="1">(1) {#वर्धयति#} (c. of {#वृध्#} = increase); </div><div n="1">(2)
-<div n="lb"/>{#आश्वासयति#} (c. of {#श्वस्#} = to cheer); </div><div n="1">(3) {#प्रबली-#}
-<div n="lb"/>{#करोति#} (= strengthen). </div><div n="I">III Of soldiers:
-<div n="lb"/>{#उत्थापयति, सम्-#} (c. of {#स्था#} = to raise).</div>
+{@RECRUIT@}¦ (v.): <div n="I">I To supply deficiency: {#पुष्णाति#}
+<div n="xe">{%or%}</div> <div n="xs">{#पोषयति, परि-, सं-,#}</div> ({#पुष्,#} c. 9. and causal),
+<div n="xe">{%r. ed her pretty parts:%}</div> <div n="xs">{#पुपोष लावण्यमयान् विशेषान्,#}</div>
+Ku. i. 25. </div><div n="I">II To refresh, reinvigorate:</div>
+<div n="1">(1) {#वर्धयति#} (c. of {#वृध्#} = increase); </div><div n="1">(2)
+{#आश्वासयति#} (c. of {#श्वस्#} = to cheer); </div><div n="1">(3) {#प्रबली-#}
+{#करोति#} (= strengthen). </div><div n="I">III Of soldiers:
+{#उत्थापयति, सम्-#} (c. of {#स्था#} = to raise).</div>
 <LEND>

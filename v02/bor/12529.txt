@@ -1,12 +1,12 @@
 <L>12529<pc>389<k1>internal<k2>internal
-<div n="lb"/>{@INTERNAL:@}¦ <div n="1">(1) {#अन्तर्#} in comp., <div n="xe">{%i. heat:%}</div> <div n="xs">{#अन्तर्दाहः,#}</div>
-<div n="lb"/>U., iii. 31.; <div n="xe">{%arising from i. disaffection:%}</div> <div n="xs">{#अन्तः-#}
-<div n="lb"/>{#प्रकृतिप्रकोपजः#}</div> ({#जा, जं#}), Ki. ii. 61.; </div><div n="1">(2) {#आभ्यन्तर#}
-<div n="lb"/>(f. {#री#}) (rare), <div n="xe">{%secretly fomenting external and%}
-<div n="lb"/>{%i. discord:%}</div> <div n="xs">{#बाह्याभ्यन्तरान् कोपान् गूढमुत्पाद्य,#}</div> D. viii.;</div>
-<div n="lb"/><div n="1">(3) {#अन्तर्गतः#} ({#ता, तं#}) (what is in.), ({%but%}) <div n="xe">{%as%}
-<div n="lb"/>{%you know the i. feelings of animals:%}</div> <div n="xs">{#अन्तर्गतं प्राण-#}
-<div n="lb"/>{#भृतां हि वेद सर्वं भवान् भावम्,#}</div> R. ii. 43.; </div><div n="1">(4) {#अन्तःस्थ#}
-<div n="lb"/>(f. {#स्था#}) (what stands in); </div><div n="1">(5) {#अन्तर्भवः#}
-<div n="lb"/>({#वा, वं#}) (what is born in).</div>
+{@INTERNAL:@}¦ <div n="1">(1) {#अन्तर्#} in comp., <div n="xe">{%i. heat:%}</div> <div n="xs">{#अन्तर्दाहः,#}</div>
+U., iii. 31.; <div n="xe">{%arising from i. disaffection:%}</div> <div n="xs">{#अन्तः-#}
+{#प्रकृतिप्रकोपजः#}</div> ({#जा, जं#}), Ki. ii. 61.; </div><div n="1">(2) {#आभ्यन्तर#}
+(f. {#री#}) (rare), <div n="xe">{%secretly fomenting external and%}
+{%i. discord:%}</div> <div n="xs">{#बाह्याभ्यन्तरान् कोपान् गूढमुत्पाद्य,#}</div> D. viii.;</div>
+<div n="1">(3) {#अन्तर्गतः#} ({#ता, तं#}) (what is in.), ({%but%}) <div n="xe">{%as%}
+{%you know the i. feelings of animals:%}</div> <div n="xs">{#अन्तर्गतं प्राण-#}
+{#भृतां हि वेद सर्वं भवान् भावम्,#}</div> R. ii. 43.; </div><div n="1">(4) {#अन्तःस्थ#}
+(f. {#स्था#}) (what stands in); </div><div n="1">(5) {#अन्तर्भवः#}
+({#वा, वं#}) (what is born in).</div>
 <LEND>

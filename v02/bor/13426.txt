@@ -1,5 +1,5 @@
 <L>13426<pc>413<k1>lemon<k2>lemon
-<div n="lb"/>{@LEMON:@}¦ <div n="I">I The tree: </div><div n="1">(1) {#जम्बीरः;#} </div><div n="1">(2) {#निम्बूः#}</div>
-<div n="lb"/><div n="I">II The fruit: </div><div n="1">(1) {#जम्बीरम्#} <div n="xe">{%or%}</div> <div n="xs">{#जम्बीरफलम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#निम्बूफलम्।#}</div>
+{@LEMON:@}¦ <div n="I">I The tree: </div><div n="1">(1) {#जम्बीरः;#} </div><div n="1">(2) {#निम्बूः#}</div>
+<div n="I">II The fruit: </div><div n="1">(1) {#जम्बीरम्#} <div n="xe">{%or%}</div> <div n="xs">{#जम्बीरफलम्;#}</div></div>
+<div n="1">(2) {#निम्बूफलम्।#}</div>
 <LEND>

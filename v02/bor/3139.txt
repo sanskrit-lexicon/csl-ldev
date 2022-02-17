@@ -1,5 +1,5 @@
 <L>3139<pc>105<k1>carry round<k2>carry round
-<div n="lb"/>{@CARRY ROUND:@}¦ {#परिवहति#} (?) {#गृहाद्गृहं#} (house to
-<div n="lb"/>house) <div n="xe">{%or%}</div> <div n="xs">{#हस्ताद्धस्तान्तरं#}</div> (from hand to hand)
-<div n="lb"/>{#नयति#} ({#नी,#} c. l.).
+{@CARRY ROUND:@}¦ {#परिवहति#} (?) {#गृहाद्गृहं#} (house to
+house) <div n="xe">{%or%}</div> <div n="xs">{#हस्ताद्धस्तान्तरं#}</div> (from hand to hand)
+{#नयति#} ({#नी,#} c. l.).
 <LEND>

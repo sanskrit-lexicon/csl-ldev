@@ -1,5 +1,5 @@
 <L>14928<pc>456<k1>month<k2>month
-<div n="lb"/>{@MONTH:@}¦ {#मासः,#} <div n="xe">{%within six m.s:%}</div> <div n="xs">{#षण्मासाम्यन्तरे,#}</div> <ls>H.</ls> ;
-<div n="lb"/>{%in the auspicious m. of Mārgaśīrṣa%} ({%Nov.-Dec.%}) {#मार्गशीर्षे शुभे मासि,#} <ls>M.</ls> ; <div n="xe">{%for two m.s:%}</div> <div n="xs">{#द्वौ #}
-<div n="lb"/>{# मासौ,#}</div> H. <div n="xe">{%or%}</div> <div n="xs">{#मासद्वयम्,#}</div> D.
+{@MONTH:@}¦ {#मासः,#} <div n="xe">{%within six m.s:%}</div> <div n="xs">{#षण्मासाम्यन्तरे,#}</div> <ls>H.</ls> ;
+{%in the auspicious m. of Mārgaśīrṣa%} ({%Nov.-Dec.%}) {#मार्गशीर्षे शुभे मासि,#} <ls>M.</ls> ; <div n="xe">{%for two m.s:%}</div> <div n="xs">{#द्वौ #}
+{# मासौ,#}</div> H. <div n="xe">{%or%}</div> <div n="xs">{#मासद्वयम्,#}</div> D.
 <LEND>

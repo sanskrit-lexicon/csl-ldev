@@ -1,10 +1,10 @@
 <L>3029<pc>102<k1>capital<k2>capital
-<div n="lb"/>{@CAPITAL@}¦ (subs.): <div n="I">I Of a column: {#चूडा#} (?).</div>
-<div n="lb"/><div n="I">II Of a country: {#राजधानी,#} <div n="xe">{%c. of the king%}
-<div n="lb"/>{%Bhima%}</div> <div n="xs">{#मीमभूमिपतिराजधानी,#}</div> N. vi. l. Ph.: {%the%}
-<div n="lb"/>{%city named Puspapura%} ({%Patna%}) {%the c. of%}
-<div n="lb"/>{%Magadha%} ({%Behar%}) {#*मगधदेशशेखरीभूता पुष्पपुरी नाम #}
-<div n="lb"/>{# नगरी,#} <ls>D.</ls> </div><div n="I">III. A c. letter; {#*बृहदक्षरम्।#} </div><div n="I">IV
-<div n="lb"/>Stock, principal q. v.: </div><div n="1">(1) {#मूलम्;#} </div><div n="1">(2) {#मूल-#}
-<div n="lb"/>{#धनम्।#}</div>
+{@CAPITAL@}¦ (subs.): <div n="I">I Of a column: {#चूडा#} (?).</div>
+<div n="I">II Of a country: {#राजधानी,#} <div n="xe">{%c. of the king%}
+{%Bhima%}</div> <div n="xs">{#मीमभूमिपतिराजधानी,#}</div> N. vi. l. Ph.: {%the%}
+{%city named Puspapura%} ({%Patna%}) {%the c. of%}
+{%Magadha%} ({%Behar%}) {#*मगधदेशशेखरीभूता पुष्पपुरी नाम #}
+{# नगरी,#} <ls>D.</ls> </div><div n="I">III. A c. letter; {#*बृहदक्षरम्।#} </div><div n="I">IV
+Stock, principal q. v.: </div><div n="1">(1) {#मूलम्;#} </div><div n="1">(2) {#मूल-#}
+{#धनम्।#}</div>
 <LEND>

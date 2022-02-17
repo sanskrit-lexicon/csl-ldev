@@ -5,7 +5,7 @@
 <div n="2"> a) parox. gew. pl. {%Gebiss%}: {#अ\ग्निर्जम्भै^स्तिगि\तैर^त्ति#} 
 <ls>ṚV. 1, 143, 5.</ls> <ls n="ṚV. 1,">148, 4.</ls> <ls n="ṚV.">7, 3, 4.</ls> <ls n="ṚV.">4, 7, 10.</ls> {#जम्भे^भि\र्विश्व^मु\शध\ग्वना^नि#} 
 <ls n="ṚV.">7, 7, 2.</ls> {#न\हि ते^ प्रति\धृषे\ जम्भा^सो\ यद्वि\तिष्ठ^से#} 
-<ls>?8, 49, 14. 10. 87, 3. 113, 8. du. VS. 11, 79.</ls> sg. {%Rachen%} 
+<ls>8, 49, 14. 10. 87, 3. 113, 8.</ls> du. <ls>VS. 11, 79.</ls> sg. {%Rachen%} 
 <ls>AV. 3, 27, 1.</ls> 
 <ls>VS. 15, 15.</ls> Dunkel ist die Stelle 
 <ls>ṚV. 1, 37, 5.</ls> {%Augenzahn, Fangzahn%} 
@@ -24,17 +24,17 @@
 <ls>TRIK. 3, 3, 286.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 2, 2105. 3, 16365.</ls> 
+<ls>MBH. 2, 2105.</ls> <ls n="MBH.">3, 16365.</ls> 
 <ls>HARIV. 13227.</ls> 
 <ls>BHĀG. P. 8, 10, 21.</ls> von <is>Viṣṇu</is> oder <is>Kṛṣṇa</is> besiegt 
-<ls>MBH. 3, 8760. 5, 1884. 1931</ls> (Feind <is>Indra's</is>). 
+<ls>MBH. 3, 8760.</ls> <ls n="MBH.">5, 1884.</ls> <ls n="MBH. 5,">1931</ls> (Feind <is>Indra's</is>). 
 <ls>7, 386.</ls> <ls>HARIV. 9156.</ls> von <is>Indra</is> 
 <ls>ARJ. 8, 20.</ls> 
 <ls>MBH. 12, 3660.</ls> Anführer der <is>Daitya</is> im Kriege gegen die <is>Deva</is> unter <is>Indra</is> 
 <ls>MĀRK. P. 18, 16.</ls> 
 <ls>H. 175.</ls> ein Sohn <is>Prahrāda's</is> 
 <ls>HARIV. 12461.</ls> <is>Hiraṇyakaśipu's</is> 
-<ls>12914.</ls> Schwiegervater <is>Hiraṇyakaśipu's</is> 
+<ls n="HARIV.">12914.</ls> Schwiegervater <is>Hiraṇyakaśipu's</is> 
 <ls>BHĀG. P. 6, 18, 11.</ls> Vater <is>Sunda's</is> 
 <ls>R. 1, 27, 7.</ls> 
 <div n="2">— d) = {#जम्भीर, जम्भल, जम्बीर#} {%Citronenbaum%} 

@@ -1,6 +1,6 @@
 <L>17528<pc>536<k1>praise<k2>praise
-<div n="lb"/>{@PRAISE@}¦ (subs.): <div n="1">(1) {#प्रशंसा,#} <div n="xe">{%some sang hymns con-%}
-<div n="lb"/>{%taining p. s.:%}</div> <div n="xs">{#केचित प्रशंसामालीढानि सामानि जगुः,#}</div> C.;</div>
-<div n="lb"/><div n="1">(2) {#स्तुतिः#} <div n="xe">{%or%}</div> <div n="xs">{#स्तवः, -सं-;#}</div> <div n="xe">{%p. s. of Rāma:%}</div> <div n="xs">{#रामाभिष्टवः,#}</div>
-<div n="lb"/>Rām.: v. Eulogy; </div><div n="1">(3) {#नुतिः#} (rare).</div>
+{@PRAISE@}¦ (subs.): <div n="1">(1) {#प्रशंसा,#} <div n="xe">{%some sang hymns con-%}
+{%taining p. s.:%}</div> <div n="xs">{#केचित प्रशंसामालीढानि सामानि जगुः,#}</div> C.;</div>
+<div n="1">(2) {#स्तुतिः#} <div n="xe">{%or%}</div> <div n="xs">{#स्तवः, -सं-;#}</div> <div n="xe">{%p. s. of Rāma:%}</div> <div n="xs">{#रामाभिष्टवः,#}</div>
+Rām.: v. Eulogy; </div><div n="1">(3) {#नुतिः#} (rare).</div>
 <LEND>

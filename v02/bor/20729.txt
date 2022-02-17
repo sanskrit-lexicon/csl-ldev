@@ -1,11 +1,11 @@
 <L>20729<pc>651<k1>sleepy<k2>sleepy
-<div n="lb"/>{@SLEEPY:@}¦ <div n="I">I Inclined to sleep: </div><div n="1">(1) {#निद्रावशः#}
-<div n="lb"/>({#शा, शं#}); </div><div n="1">(2) {#निद्राभिभूतः#} ({#ता, तं#}); </div><div n="1">(3) {#निद्रा-#}
-<div n="lb"/>{#परतन्त्र#} (f. {#न्त्रा#}), M. n.; </div><div n="1">(4) {#निद्राविधेयः#} ({#या, यं#}),
-<div n="lb"/>R. vii. 62.; and sim. comp.s. Ph.: {%to feel%}
-<div n="lb"/>{%s.:%} (= wish to sleep): </div><div n="1">(1) {#सुषुप्सति;#} </div><div n="1">(2)
-<div n="lb"/>{#शिशयिषते,#} Si. xi. 22.; </div><div n="1">(3) {#निदिद्रासति,#} Si. xi.
-<div n="lb"/>4. </div><div n="I">II Causing sleep: {#निद्राप्रद#} (f. {#दा#}), Bha.:
-<div n="lb"/>v. Sleep-producing. </div><div n="I">III Belonging to
-<div n="lb"/>sleep: {#नैद्र#} (f. {#द्री#}), {#“नश्यन्नैद्रतन्द्रः”#} Si. xi. 5.</div>
+{@SLEEPY:@}¦ <div n="I">I Inclined to sleep: </div><div n="1">(1) {#निद्रावशः#}
+({#शा, शं#}); </div><div n="1">(2) {#निद्राभिभूतः#} ({#ता, तं#}); </div><div n="1">(3) {#निद्रा-#}
+{#परतन्त्र#} (f. {#न्त्रा#}), M. n.; </div><div n="1">(4) {#निद्राविधेयः#} ({#या, यं#}),
+R. vii. 62.; and sim. comp.s. Ph.: {%to feel%}
+{%s.:%} (= wish to sleep): </div><div n="1">(1) {#सुषुप्सति;#} </div><div n="1">(2)
+{#शिशयिषते,#} Si. xi. 22.; </div><div n="1">(3) {#निदिद्रासति,#} Si. xi.
+4. </div><div n="I">II Causing sleep: {#निद्राप्रद#} (f. {#दा#}), Bha.:
+v. Sleep-producing. </div><div n="I">III Belonging to
+sleep: {#नैद्र#} (f. {#द्री#}), {#“नश्यन्नैद्रतन्द्रः”#} Si. xi. 5.</div>
 <LEND>

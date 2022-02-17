@@ -1,7 +1,7 @@
 <L>4603<pc>149<k1>contingent<k2>contingent
-<div n="lb"/>{@CONTINGENT@}¦ (adj.): <div n="1">(1) {#अनिशिचतः#} ({#ता, तं#})
-<div n="lb"/>(=uncertain); </div><div n="1">(2) {#सन्दिग्धः#} ({#ग्धा, ग्धं#})
-<div n="lb"/>(=doubtful), <div n="xe">{%c. on:%}</div> <div n="xs">{#आयत्तः#}</div> ({#त्ता, त्तं#}); <div n="xe">{%c. on%}
-<div n="lb"/>{%fate:%}</div> <div n="xs">{#दैवायत्तः#}</div> ({#त्ता, त्तं#}), Ve.: v. To depend
-<div n="lb"/>(II.).</div>
+{@CONTINGENT@}¦ (adj.): <div n="1">(1) {#अनिशिचतः#} ({#ता, तं#})
+(=uncertain); </div><div n="1">(2) {#सन्दिग्धः#} ({#ग्धा, ग्धं#})
+(=doubtful), <div n="xe">{%c. on:%}</div> <div n="xs">{#आयत्तः#}</div> ({#त्ता, त्तं#}); <div n="xe">{%c. on%}
+{%fate:%}</div> <div n="xs">{#दैवायत्तः#}</div> ({#त्ता, त्तं#}), Ve.: v. To depend
+(II.).</div>
 <LEND>

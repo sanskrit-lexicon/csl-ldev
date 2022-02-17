@@ -1,10 +1,10 @@
 <L>7701<pc>244<k1>entry<k2>entry
-<div n="lb"/>{@ENTRY:@}¦ <div n="I">I The act of entering: {#प्रवेशः, -नम्,#} <div n="xe">{%on%}
-<div n="lb"/>{%(your) e.:%}</div> <div n="xs">{#प्रवेशे,#}</div> R. vi. 24: <div n="xe">{%getting an e. with%}
-<div n="lb"/>{%difficulty:%}</div> <div n="xs">{#कथमपि लब्धप्रवेशः,#}</div> Va. </div><div n="I">II A passage
-<div n="lb"/>for entering: {#प्रवेशः:#} v. Entrance (III),
-<div n="lb"/>passage. </div><div n="I">III That which is entered:
-<div n="lb"/>expr. by verb: {%this is an erroneous e.:%}
-<div n="lb"/>{#*इदम्भ्रमान्निवेशितम्;#} {%to make an e. of:%} v. Enter
-<div n="lb"/>(II).</div>
+{@ENTRY:@}¦ <div n="I">I The act of entering: {#प्रवेशः, -नम्,#} <div n="xe">{%on%}
+{%(your) e.:%}</div> <div n="xs">{#प्रवेशे,#}</div> R. vi. 24: <div n="xe">{%getting an e. with%}
+{%difficulty:%}</div> <div n="xs">{#कथमपि लब्धप्रवेशः,#}</div> Va. </div><div n="I">II A passage
+for entering: {#प्रवेशः:#} v. Entrance (III),
+passage. </div><div n="I">III That which is entered:
+expr. by verb: {%this is an erroneous e.:%}
+{#*इदम्भ्रमान्निवेशितम्;#} {%to make an e. of:%} v. Enter
+(II).</div>
 <LEND>

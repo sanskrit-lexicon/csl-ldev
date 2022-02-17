@@ -1,16 +1,16 @@
 <L>2982<pc>226-1<k1>दैतेय<k2>दैतेय
-{@Daiteya,@}¦ sg. (cf. Daiteya<sup>1</sup>). Names of single Daiteyas:—
-<div n="P">{@Aśvapati:@} I, 2651 {%(A°).%}
-<div n="P">{@Bāṇa:@} IX, 2700 {%(B°).%}
-<div n="P">{@Śibi:@} I, 2644 {%(Ś°).%}
-<div n="P">{@Hiraṇyakaśipu:@} XII, 12942 {%(H°).%}
-<div n="P">{@Ilvala:@} III, 8543 {%(I°),%} 8552 {%(I°).%}
-<div n="P">{@Maya:@} II, 10, 16 {%(M°).%}
-<div n="P">{@Prahlāda:@} XII, 8032 {%(P°).%}
-<div n="P">{@Tāraka:@} XIII, 4012, 4019.
-<div n="P">{@Vegavat:@} III, 675 {%(V°).%}
-<div n="P">{@Vipracitti:@} XII, 3661 {%(V°).%}
-<div n="P">{@Virocana:@} V, 1187 {%(V°).%}
-<div n="P">{@Virūpākṣa:@} I, 2658 {%(V°).%}
+{@Daiteya@},¦ sg. (cf. Daiteya<sup>1</sup>). Names of single Daiteyas:—
+<div n="P">{@Aśvapati@}: I, 2651 ({%A°%}).
+<div n="P">{@Bāṇa@}: IX, 2700 ({%B°%}).
+<div n="P">{@Śibi@}: I, 2644 ({%Ś°%}).
+<div n="P">{@Hiraṇyakaśipu@}: XII, 12942 ({%H°%}).
+<div n="P">{@Ilvala@}: III, 8543 ({%I°%}), 8552 ({%I°%}).
+<div n="P">{@Maya@}: II, 10, 16 ({%M°%}).
+<div n="P">{@Prahlāda@}: XII, 8032 ({%P°%}).
+<div n="P">{@Tāraka@}: XIII, 4012, 4019.
+<div n="P">{@Vegavat@}: III, 675 ({%V°%}).
+<div n="P">{@Vipracitti@}: XII, 3661 ({%V°%}).
+<div n="P">{@Virocana@}: V, 1187 ({%V°%}).
+<div n="P">{@Virūpākṣa@}: I, 2658 ({%V°%}).
 <div n="P">Cf. Asura, sg.; Daitya, sg.; Dānava, sg.
 <LEND>

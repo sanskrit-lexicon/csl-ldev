@@ -1,10 +1,10 @@
 <L>24372<pc>762<k1>wind<k2>wind
-<div n="lb"/>{@WIND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#वायुः,#} <div n="xe">{%with favour-%}
-<div n="lb"/>{%able w.:%}</div> <div n="xs">{#अनुकूलेन वायुना,#}</div> Mah. i. 148. 20.;</div>
-<div n="lb"/><div n="1">(2) {#वातः,#} <div n="xe">{%head w.:%}</div> <div n="xs">{#प्रतिवातः,#}</div> D. vi.; </div><div n="1">(3) {#पवनः,#}
-<div n="lb"/><div n="xe">{%gentle w.:%}</div> <div n="xs">{#मृदुपवनः,#}</div> V. iv.; </div><div n="1">(4) {#अनिलः,#} <div n="xe">{%w.%}
-<div n="lb"/>{%footed:%}</div> <div n="xs">{#अनिलरंहस्,#}</div> (mfn.), Mah.; </div><div n="1">(5) {#समीरः, #}
-<div n="lb"/>{# -णः;#} </div><div n="1">(6) {#मरुत्;#} </div><div n="1">(7) {#मारुतः।#} </div><div n="I">II Of stomach: [Page763]
-<div n="lb"/>{#वायुः।#} </div><div n="I">III Flatulence: q. v. </div><div n="I">IV Breath:
-<div n="lb"/>{#श्वासः।#}</div>
+{@WIND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#वायुः,#} <div n="xe">{%with favour-%}
+{%able w.:%}</div> <div n="xs">{#अनुकूलेन वायुना,#}</div> Mah. i. 148. 20.;</div>
+<div n="1">(2) {#वातः,#} <div n="xe">{%head w.:%}</div> <div n="xs">{#प्रतिवातः,#}</div> D. vi.; </div><div n="1">(3) {#पवनः,#}
+<div n="xe">{%gentle w.:%}</div> <div n="xs">{#मृदुपवनः,#}</div> V. iv.; </div><div n="1">(4) {#अनिलः,#} <div n="xe">{%w.%}
+{%footed:%}</div> <div n="xs">{#अनिलरंहस्,#}</div> (mfn.), Mah.; </div><div n="1">(5) {#समीरः, #}
+{# -णः;#} </div><div n="1">(6) {#मरुत्;#} </div><div n="1">(7) {#मारुतः।#} </div><div n="I">II Of stomach: [Page763]
+{#वायुः।#} </div><div n="I">III Flatulence: q. v. </div><div n="I">IV Breath:
+{#श्वासः।#}</div>
 <LEND>

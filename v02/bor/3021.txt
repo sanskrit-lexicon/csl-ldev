@@ -1,11 +1,11 @@
 <L>3021<pc>101<k1>capacity<k2>capacity
-<div n="lb"/>{@CAPACITY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#धारणशक्तिः;#} </div><div n="1">(2) {#ग्रहण-#}
-<div n="lb"/>{#सामर्थ्यम्;#} </div><div n="1">(3) better by circumlo.: v. Extent.
-<div n="lb"/>Ph. <div n="xe">{%a measure of c.%}</div> <div n="xs">{#प्रतीमानम्,#}</div> <ls>M.</ls> </div><div n="I">II. Mental
-<div n="lb"/>c.: {#ग्रहणसामर्थ्यम्,#} <div n="xe">{%c. for all knowledge%}</div> <div n="xs">{#अशेषविद्या-#}
-<div n="lb"/>{#ग्रहणसामर्थ्यम्,#}</div> <ls>K.</ls> </div><div n="I">III. Ability: q. v.: {#शक्तिः,#} <div n="xe">{%to%}
-<div n="lb"/>{%the extent of one's c.%}</div> <div n="xs">{#यथाशक्ति।#}</div> </div><div n="I">IV Outward
-<div n="lb"/>condition: {#रूपम्,#} <div n="xe">{%in the c. of a cook%}</div> <div n="xs">{#सूदरूपेण#}</div> {%or%}
-<div n="lb"/>{#सूदो भूत्वा।#} V. Legal c.: {#क्षमता#} (?). </div><div n="I">VI In
-<div n="lb"/>geo.: {#गर्भफलम्,#} Li.</div>
+{@CAPACITY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#धारणशक्तिः;#} </div><div n="1">(2) {#ग्रहण-#}
+{#सामर्थ्यम्;#} </div><div n="1">(3) better by circumlo.: v. Extent.
+Ph. <div n="xe">{%a measure of c.%}</div> <div n="xs">{#प्रतीमानम्,#}</div> <ls>M.</ls> </div><div n="I">II. Mental
+c.: {#ग्रहणसामर्थ्यम्,#} <div n="xe">{%c. for all knowledge%}</div> <div n="xs">{#अशेषविद्या-#}
+{#ग्रहणसामर्थ्यम्,#}</div> <ls>K.</ls> </div><div n="I">III. Ability: q. v.: {#शक्तिः,#} <div n="xe">{%to%}
+{%the extent of one's c.%}</div> <div n="xs">{#यथाशक्ति।#}</div> </div><div n="I">IV Outward
+condition: {#रूपम्,#} <div n="xe">{%in the c. of a cook%}</div> <div n="xs">{#सूदरूपेण#}</div> {%or%}
+{#सूदो भूत्वा।#} V. Legal c.: {#क्षमता#} (?). </div><div n="I">VI In
+geo.: {#गर्भफलम्,#} Li.</div>
 <LEND>

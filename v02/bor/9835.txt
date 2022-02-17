@@ -1,6 +1,6 @@
 <L>9835<pc>311<k1>get down<k2>get down
-<div n="lb"/>{@GET DOWN:@}¦ <div n="I">I Intrans: </div><div n="1">(1) {#अवतरति#} ({#तॄ,#} c.
-<div n="lb"/>1.); </div><div n="1">(2) {#अवरोहति#} ({#रुह्,#} c. 1.). </div><div n="I">II Trans.:</div>
-<div n="lb"/><div n="1">(1) {#अवतारयति#} (c. of {#तॄ#}), V. i.; </div><div n="1">(2) {#अवरोहयति#}
-<div n="lb"/>(c. of {#रुह्#}), R. i. 54.</div>
+{@GET DOWN:@}¦ <div n="I">I Intrans: </div><div n="1">(1) {#अवतरति#} ({#तॄ,#} c.
+1.); </div><div n="1">(2) {#अवरोहति#} ({#रुह्,#} c. 1.). </div><div n="I">II Trans.:</div>
+<div n="1">(1) {#अवतारयति#} (c. of {#तॄ#}), V. i.; </div><div n="1">(2) {#अवरोहयति#}
+(c. of {#रुह्#}), R. i. 54.</div>
 <LEND>

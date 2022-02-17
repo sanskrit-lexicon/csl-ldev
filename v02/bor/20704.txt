@@ -1,5 +1,5 @@
 <L>20704<pc>650<k1>slave<k2>slave
-<div n="lb"/>{@SLAVE@}¦ (v.): <div n="I">I Trans: {#दासीकरोति,#} K. </div><div n="I">II
-<div n="lb"/>Intrans.: </div><div n="1">(1) {#दासायते।#} (nomi.); </div><div n="1">(2) {#दास्यं#} {%or%}
-<div n="lb"/>{#दासकर्म करोति।#}</div>
+{@SLAVE@}¦ (v.): <div n="I">I Trans: {#दासीकरोति,#} K. </div><div n="I">II
+Intrans.: </div><div n="1">(1) {#दासायते।#} (nomi.); </div><div n="1">(2) {#दास्यं#} {%or%}
+{#दासकर्म करोति।#}</div>
 <LEND>

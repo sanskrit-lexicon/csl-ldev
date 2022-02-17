@@ -1,5 +1,5 @@
 <L>18871<pc>582<k1>register<k2>register
-<div n="lb"/>{@REGISTER:@}¦ <div n="I">I Subs.: perh. {#पत्रिका,#} Raj.;
-<div n="lb"/>{#*अक्षवती।#} </div><div n="I">II To record: {#*अक्षवत्यां निवेशयति#}
-<div n="lb"/>(c. of {#विश्#}) <div n="xe">{%or%}</div> <div n="xs">{#आरोपयति#}</div> (c. of {#रुह्#}).</div>
+{@REGISTER:@}¦ <div n="I">I Subs.: perh. {#पत्रिका,#} Raj.;
+{#*अक्षवती।#} </div><div n="I">II To record: {#*अक्षवत्यां निवेशयति#}
+(c. of {#विश्#}) <div n="xe">{%or%}</div> <div n="xs">{#आरोपयति#}</div> (c. of {#रुह्#}).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>21825<pc>688<k1>suffered<k2>suffered
-<div n="lb"/>{@SUFFERED:@}¦ <div n="1">(1) {#क्लिष्ट#} (f. {#ष्टा#}), {%s. from disease:%}
-<div n="lb"/>{#रोगक्लिष्टः;#} </div><div n="1">(2) {#दुःखमागिन्#} (f. {#नी#} = miserable).</div>
+{@SUFFERED:@}¦ <div n="1">(1) {#क्लिष्ट#} (f. {#ष्टा#}), {%s. from disease:%}
+{#रोगक्लिष्टः;#} </div><div n="1">(2) {#दुःखमागिन्#} (f. {#नी#} = miserable).</div>
 <LEND>

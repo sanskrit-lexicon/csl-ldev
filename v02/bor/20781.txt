@@ -1,4 +1,4 @@
 <L>20781<pc>652<k1>slowness<k2>slowness
-<div n="lb"/>{@SLOWNESS:@}¦ <div n="1">(1) {#मन्दता;#} </div><div n="1">(2) {#मान्द्यम्;#} </div><div n="1">(3) {#मन्थरता#}
-<div n="lb"/>(rare).</div>
+{@SLOWNESS:@}¦ <div n="1">(1) {#मन्दता;#} </div><div n="1">(2) {#मान्द्यम्;#} </div><div n="1">(3) {#मन्थरता#}
+(rare).</div>
 <LEND>

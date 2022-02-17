@@ -1,19 +1,19 @@
 <L>20484<pc>641<k1>shut<k2>shut
-<div n="lb"/>{@SHUT:@}¦ <div n="1">(1) {#अपिदधाति#} <div n="xe">{%or%}</div> <div n="xs">{#-धत्ते#}</div> ({#धा,#} c. 3.), ({%by%}
-<div n="lb"/>{%covering%}) <div n="xe">{%who can s. the doors of fate:%}</div> <div n="xs">{#को नाम #}
-<div n="lb"/>{# द्वाराणि दैवस्य पिधातुमीष्टे,#}</div> U. vii. 4.; <div n="xe">{%s. -ting the%}
-<div n="lb"/>{%ears:%}</div> <div n="xs">{#कर्णौ पिधाय,#}</div> Mu. i.; </div><div n="1">(2) {#आ-वृणोति, सं-, समा-, #}
-<div n="lb"/>{# परा-#} ({#वृ,#} c. 5. = {#पिदधाति#}), <div n="xe">{%here is a house with%}
-<div n="lb"/>{%the back door not s.:%}</div> <div n="xs">{#एतदपरावृतपक्षद्वारकं गेहम्,#}</div> Mr.
-<div n="lb"/>ii.; <div n="xe">{%to s. the mouth:%}</div> <div n="xs">{#मुखं संवृणोति,#}</div> K.; </div><div n="1">(3)
-<div n="lb"/>{#ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#दत्ते#}</div> ({#दा,#} c. 3.: only of {%doors%} by
-<div n="lb"/>putting bolts etc.), <div n="xe">{%s. the gates quick:%}</div> <div n="xs">{#दत्त #}
-<div n="lb"/>{# द्वाराणि तूर्णम्,#}</div> Vi. vi. 16.; </div><div n="1">(4) {#मीलति#} <div n="xe">{%or%}</div> <div n="xs">{#मीलयति, #}
-<div n="lb"/>{# नि-#}</div> ({#मील्,#} c. 1. and its c.: of the eyes), <div n="xe">{%the%}
-<div n="lb"/>{%lion of kings s. his eyes never to open again:%}</div>
-<div n="lb"/><div n="xs">{#अपुनरुन्मीलनाय निमिमील लोचने राजकुलसिंहः,#}</div> C. v.;</div>
-<div n="lb"/><div n="1">(5) {#सं-वनते#} ({#वन्,#} c. 1.: rare), Ki. xviii. 2.
-<div n="lb"/>Ph.: <div n="xe">{%to s. one's eyes to anything:%}</div> <div n="xs">{#न पश्यति,#}</div>
-<div n="lb"/>K.; <div n="xe">{%with the eyes s.:%}</div> <div n="xs">{#मुकुलितनेत्र#}</div> (f. {#त्रा#}), Si.
-<div n="lb"/>xi. 10.</div>
+{@SHUT:@}¦ <div n="1">(1) {#अपिदधाति#} <div n="xe">{%or%}</div> <div n="xs">{#-धत्ते#}</div> ({#धा,#} c. 3.), ({%by%}
+{%covering%}) <div n="xe">{%who can s. the doors of fate:%}</div> <div n="xs">{#को नाम #}
+{# द्वाराणि दैवस्य पिधातुमीष्टे,#}</div> U. vii. 4.; <div n="xe">{%s. -ting the%}
+{%ears:%}</div> <div n="xs">{#कर्णौ पिधाय,#}</div> Mu. i.; </div><div n="1">(2) {#आ-वृणोति, सं-, समा-, #}
+{# परा-#} ({#वृ,#} c. 5. = {#पिदधाति#}), <div n="xe">{%here is a house with%}
+{%the back door not s.:%}</div> <div n="xs">{#एतदपरावृतपक्षद्वारकं गेहम्,#}</div> Mr.
+ii.; <div n="xe">{%to s. the mouth:%}</div> <div n="xs">{#मुखं संवृणोति,#}</div> K.; </div><div n="1">(3)
+{#ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#दत्ते#}</div> ({#दा,#} c. 3.: only of {%doors%} by
+putting bolts etc.), <div n="xe">{%s. the gates quick:%}</div> <div n="xs">{#दत्त #}
+{# द्वाराणि तूर्णम्,#}</div> Vi. vi. 16.; </div><div n="1">(4) {#मीलति#} <div n="xe">{%or%}</div> <div n="xs">{#मीलयति, #}
+{# नि-#}</div> ({#मील्,#} c. 1. and its c.: of the eyes), <div n="xe">{%the%}
+{%lion of kings s. his eyes never to open again:%}</div>
+<div n="xs">{#अपुनरुन्मीलनाय निमिमील लोचने राजकुलसिंहः,#}</div> C. v.;</div>
+<div n="1">(5) {#सं-वनते#} ({#वन्,#} c. 1.: rare), Ki. xviii. 2.
+Ph.: <div n="xe">{%to s. one's eyes to anything:%}</div> <div n="xs">{#न पश्यति,#}</div>
+K.; <div n="xe">{%with the eyes s.:%}</div> <div n="xs">{#मुकुलितनेत्र#}</div> (f. {#त्रा#}), Si.
+xi. 10.</div>
 <LEND>

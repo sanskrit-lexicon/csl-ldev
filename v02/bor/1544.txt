@@ -1,5 +1,5 @@
 <L>1544<pc>054<k1>ballot<k2>ballot
-<div n="lb"/>{@BALLOT@}¦ (subs.): <div n="I">I A ball or ticket used in
-<div n="lb"/>voting: {#*गुटिका।#} </div><div n="I">II Voting. by b.: {#*गुटिका;#}
-<div n="lb"/>{# निभृतगुटिकापातेन मतामतप्रकाशनम्।#}</div>
+{@BALLOT@}¦ (subs.): <div n="I">I A ball or ticket used in
+voting: {#*गुटिका।#} </div><div n="I">II Voting. by b.: {#*गुटिका;#}
+{# निभृतगुटिकापातेन मतामतप्रकाशनम्।#}</div>
 <LEND>

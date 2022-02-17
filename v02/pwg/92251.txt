@@ -6,10 +6,10 @@
 <ls>AK. 2, 4, 1, 1.</ls> 
 <ls>H. 1110.</ls> 
 <ls>HALĀY. 2, 55.</ls> 
-<ls>MBH. 1, 2949. 5569. 3, 1511. 2730. 2960. 12424.</ls> 
+<ls>MBH. 1, 2949.</ls> <ls n="MBH. 1,">5569.</ls> <ls n="MBH.">3, 1511.</ls> <ls n="MBH. 3,">2730.</ls> <ls n="MBH. 3,">2960.</ls> <ls n="MBH. 3,">12424.</ls> 
 <ls>HARIV. 14611.</ls> 
 <ls>R. 2, 47, 6.</ls> 
-<ls>KĀM. NĪTIS. 14, 22.</ls> <ls>RAGH. 4, 31. 9, 72.</ls> <ls>VIKR. 57, 18.</ls> <ls>Spr. 1442 (II). 4723.</ls> <ls>GĪT. 1, 33. 45.</ls> <ls>KATHĀS. 22, 137. 37, 57.</ls> <ls>PRAB. 73, 8</ls> {#(विलास°)#} . 
+<ls>KĀM. NĪTIS. 14, 22.</ls> <ls>RAGH. 4, 31. 9, 72.</ls> <ls>VIKR. 57, 18.</ls> <ls>Spr. 1442 (II). 4723.</ls> <ls>GĪT. 1, 33. 45.</ls> <ls>KATHĀS. 22, 137. 37, 57.</ls> <ls>PRAB. 73, 8</ls> ({#विलास°#}) . 
 <ls>BHĀG. P. 1, 6, 14. 4, 28, 47. 5, 2, 7. 7, 2, 50. 9, 10, 11.</ls> 
 <ls>MĀRK. P. 127, 5.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#आ): अति°#} 
 <ls>KIR. 5, 18.</ls> {#सुविपिना#} 

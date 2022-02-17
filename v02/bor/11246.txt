@@ -1,6 +1,6 @@
 <L>11246<pc>353<k1>hotness<k2>hotness
-<div n="lb"/>{@HOTNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#उष्णता;#} </div><div n="1">(2) {#तप्तता;#} etc.:
-<div n="lb"/>v. Heat. </div><div n="I">II Sharpness: q.v.: {#तीक्ष्णता#} {%or%}
-<div n="lb"/>{#तैक्ष्ण्यम्।#} </div><div n="I">III Of temper: </div><div n="1">(1) {#चण्डता, प्र-;#} </div><div n="1">(2)
-<div n="lb"/>{#उग्रता।#}</div>
+{@HOTNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#उष्णता;#} </div><div n="1">(2) {#तप्तता;#} etc.:
+v. Heat. </div><div n="I">II Sharpness: q.v.: {#तीक्ष्णता#} {%or%}
+{#तैक्ष्ण्यम्।#} </div><div n="I">III Of temper: </div><div n="1">(1) {#चण्डता, प्र-;#} </div><div n="1">(2)
+{#उग्रता।#}</div>
 <LEND>

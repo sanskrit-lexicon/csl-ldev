@@ -19,11 +19,11 @@
 <ls>AIT. BR. 7, 27.</ls> {#त्वया^ वी\रेण^ वीरवो\ ऽभि ष्या^म पृतन्य\तः#} 
 <ls>ṚV. 9, 35, 3.</ls> collect.: {#अ\र्धं वी\रस्य^#} 
 <ls n="ṚV.">7, 18, 16.</ls> — {#मृगराजो वृकश्चैव वुद्धिमानपि मूषिकः । निर्जिता यत्त्वया वीरास्तस्माद्वीरतरो भवान् ॥#} 
-<ls>MBH. 1, 5589. 3, 2153.fg.</ls> {#पशुपांश्च वीरान्#} 
+<ls>MBH. 1, 5589.</ls> <ls n="MBH.">3, 2153. fg.</ls> {#पशुपांश्च वीरान्#} 
 <ls>10081.</ls> {#वीरा रणे वीरतरेण भग्नाः#} 
-<ls>4, 1673. 8, 448.</ls> <ls>HARIV. 1945. 8402.</ls> <ls>R. 1, 1, 24. 2, 27, 3.</ls> <ls>VARĀH. BṚH. S. 101, 11.</ls> {#अश्व, द्विप, वीर#} 
+<ls>4, 1673. 8, 448.</ls> <ls>HARIV. 1945.</ls> <ls n="HARIV.">8402.</ls> <ls>R. 1, 1, 24. 2, 27, 3.</ls> <ls>VARĀH. BṚH. S. 101, 11.</ls> {#अश्व, द्विप, वीर#} 
 <ls>RAGH. 7, 39.</ls> 
-<ls>Spr. (II) 1282. 1833. 1947.</ls> 
+<ls>Spr. (II) 1282.</ls> <ls n="Spr. (II)">1833.</ls> <ls n="Spr. (II)">1947.</ls> 
 <ls>KATHĀS. 10, 29. 47, 93.</ls> 
 <ls>RĀJA-TAR. 2, 103. 5, 234. 6, 284. 349.</ls> {#प्रथम#} 
 <ls>PRAB. 70, 6. 72, 7.</ls> {#पयोधिगभीर°#} 
@@ -81,17 +81,17 @@
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="3">— λ) N. pr. 
 <div n="3"> α) ein <is>Asura</is> 
-<ls>MBH. 1, 2541. 2659.</ls> ein Sohn <is>Dhṛtarāṣṭra's</is> 
+<ls>MBH. 1, 2541.</ls> <ls n="MBH. 1,">2659.</ls> ein Sohn <is>Dhṛtarāṣṭra's</is> 
 <ls>2738.</ls> <is>Bharadvāja's</is> 
 <ls>3, 14138.</ls> ein Sohn des <is>Puruṣa</is> <is>Vairāja</is> und Vater des <is>Priyavrata</is> und <is>Uttānapāda</is> 
 <ls>HARIV. 58.</ls> ein Sohn des <is>Gṛñjima</is> 
-<ls>1943.</ls> zwei Söhne <is>Kṛṣṇa's</is> 
+<ls n="HARIV.">1943.</ls> zwei Söhne <is>Kṛṣṇa's</is> 
 <ls>BHĀG. P. 10, 61, 13.fg.</ls> der letzte <is>Arhant</is> der gegenwärtigen <is>Avasarpiṇī</is> 
 <ls>H. 28. 30.</ls> 
 <ls>H. an.</ls> <ls>Verz. d. Oxf. H. 186,b,17. 19.</ls> <ls>ŚATR.1,5.</ls> ein Sohn <is>Kṣupa's</is> und Vater <is>Viviṃśa's</is> 
 <ls>MĀRK. P. 120, 13.</ls> Vater einer <is>Līlāvatī</is> 
 <ls>123, 17.</ls> ein Lehrer des <is>Vinaya</is> 
-<ls>WASSILJEW 80. -</ls> <ls>KATHĀS. 54, 220. 225.</ls> 
+<ls>WASSILJEW 80.</ls> - <ls>KATHĀS. 54, 220. 225.</ls> 
 <div n="3">— β) pl. eine Gruppe von Göttern unter <is>Manu</is> <is>Tāmasa</is> 
 <ls>BHĀG. P. 8, 1, 28.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#वीरा#} 
@@ -114,7 +114,7 @@
 <ls>MBH. 3, 14138.</ls> <is>Karaṃdhama's</is> 
 <ls>MĀRK. P. 123, 1. 125, 1. 7. 129, 34.</ls> 
 <div n="2">— e) N. pr. eines Flusses 
-<ls>MBH. 6, 329</ls> <ls>?(VP. 183).</ls> {#वाणी#} ed. Bomb. 
+<ls>MBH. 6, 329</ls> (<ls>VP. 183).</ls> {#वाणी#} ed. Bomb. 
 <div n="1">— 3) N. = {#शृङ्गी#} 
 <ls>H. an.</ls> <ls>MED.</ls> = {#शृङ्गाटक#} 
 <ls>VIŚVA a. a. O.</ls> = {#नल (नड#} 

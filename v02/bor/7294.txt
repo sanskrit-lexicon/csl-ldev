@@ -1,5 +1,5 @@
 <L>7294<pc>231<k1>egregious<k2>egregious
-<div n="lb"/>{@EGREGIOUS:@}¦ {#असाधारणः#} ({#णी, णं#}) (= uncommon),
-<div n="lb"/><div n="xe">{%e. mistake:%}</div> <div n="xs">{#असाधारणभ्रमः।#}</div> Ph.: <div n="xe">{%e. fool:%}</div> <div n="xs">{#अत्यन्त-#}
-<div n="lb"/>{#मूर्खः।#}</div>
+{@EGREGIOUS:@}¦ {#असाधारणः#} ({#णी, णं#}) (= uncommon),
+<div n="xe">{%e. mistake:%}</div> <div n="xs">{#असाधारणभ्रमः।#}</div> Ph.: <div n="xe">{%e. fool:%}</div> <div n="xs">{#अत्यन्त-#}
+{#मूर्खः।#}</div>
 <LEND>

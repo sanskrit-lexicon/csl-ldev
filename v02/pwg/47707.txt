@@ -13,7 +13,7 @@
 <ls>P. 2, 2, 18, <is>Vārtt</is>. 10.</ls> {#°जश्#} {%eine ursprüngliche Media%} 
 <ls>P. 8, 4, 54,</ls> 
 <ls>Sch.</ls> {#प्रकृतिं चापि वेत्थास्य (धर्मस्य) विकृतिं चापि भूयसीम्#} 
-<ls>MBH. 3, 1298. 1297.</ls> {#द्वौ निषेधौ प्रकृत्यर्थं गमयतः#} so v. a. {%zwei Negationen bejahen%} 
+<ls>MBH. 3, 1298.</ls> <ls n="MBH. 3,">1297.</ls> {#द्वौ निषेधौ प्रकृत्यर्थं गमयतः#} so v. a. {%zwei Negationen bejahen%} 
 <ls>Sch.</ls> zu <ls>ŚĀK. 10, 6.</ls> {#शब्दार्थप्रकृतौ#} {%wenn die Bedeutung «einen Laut von sich geben» die ursprüngliche ist%} 
 <ls>P. 6, 2, 80.</ls> {#जनिकर्तुः प्रकृतिः#} so v. a. {%die Ursache des Entstehenden%} 
 <ls>P. 1, 4, 30. 5, 1, 12. 2, 1, 36, <is>Vārtt</is>. 1.</ls> {#स्रष्टारं वारिधाराणां भुवश्च प्रकृतिं पराम्#} 
@@ -116,7 +116,7 @@ welcher ein Opferspruch u. s. w. zunächst und wesentlich gehört, ist dessen {#
 <ls>KĀM. NĪTIS. 4, 78.</ls> {#ततश्चराचरं विश्वं निर्ममे देवपूर्वकम् । ऊर्ध्वमध्याधरेभ्यो ऽथ स्रोतोभ्यः प्रकृतीः सृजन् ॥#} 
 <ls>SŪRYAS. 12, 26.</ls> 
 <div n="2">— b) {%die acht Ursprünglichen, aus denen alles Andere hervorgeht%}: {#अव्यक्त, महन्त् (बुद्धि), अहंकार#} {%und die fünf Elemente%} (oder {%Urelemente%}) 
-<ls>MBH. 12, 11552. fgg. 13041. 13, 1060. 1091. 1100.</ls> 
+<ls>MBH. 12, 11552. fgg.</ls> <ls n="MBH. 12,">13041.</ls> <ls n="MBH.">13, 1060.</ls> <ls n="MBH. 13,">1091.</ls> <ls n="MBH. 13,">1100.</ls> 
 <ls>TATTVAS. 4.</ls> {#प्रकुर्वन्तीति प्रकृतयः#} 
 <ls>13.</ls> <ls>BHĀG. P. 7, 7, 22.</ls> Vgl. {#भूमिरापो ऽनलो वायुः खं मनो बुद्धिरेव च । अहंकार इतीयं मे मिन्ना प्रकृतिरष्टधा#} 
 <ls>BHAG. 7, 4.</ls> 
@@ -131,8 +131,8 @@ welcher ein Opferspruch u. s. w. zunächst und wesentlich gehört, ist dessen {#
 <ls>HALĀY. 5, 78.</ls> 
 <ls>HIT. III, 143.</ls> Nach <ls>M. 7, 155. fgg.</ls> führen die vier bei einem Kriege zunächst in Betracht kommenden fremden Fürsten, der {#मध्यम, विजिगीषु, उदासीन#} und {#शत्रु#} diesen Namen; dann acht ferner stehende Fürsten ({#मित्र, अरिमित्र, मित्रमित्र, अरिमित्रमित्र, पार्ष्णिग्राह, आक्रन्द, पार्ष्णिग्राहासार#} und {#आक्रन्दासार#} nach 
 <ls>KULL.</ls>); jene vier nennt 
-<ls>KULL.</ls> {#मूलप्रकृति#}, diese acht {#शाखाप्रकृति#} . Jeder dieser zwölf Fürsten hat wieder fünf <is>Prakṛti</is>: {%Minister, Reich, Festungen, Schatz und Heer%} ({#द्रव्यप्रकृति#} nach 
-<ls>KULL.</ls><ls>?; vgl. Spr. 1264</ls>), so dass im Ganzen {%zweiundsiebzig%} <is>Prakṛti</is> angenommen werden (vgl. auch 
+<ls>KULL.</ls> {#मूलप्रकृति#}, diese acht {#शाखाप्रकृति#} . Jeder dieser zwölf Fürsten hat wieder fünf <is>Prakṛti</is>: {%Minister, Reich, Festungen, Schatz und Heer%} 
+({#द्रव्यप्रकृति#} nach <ls>KULL.</ls>; vgl. <ls>Spr. 1264</ls>), so dass im Ganzen {%zweiundsiebzig%} <is>Prakṛti</is> angenommen werden (vgl. auch 
 <ls>DAŚAK. 201, 2</ls>). {#बाह्य°, अन्तः°#} 
 <ls>PAÑCAT. ed. orn. 38, 16.</ls> {%die constitutiven Elemente des eigenen Staates mit Ausschluss des Fürsten%} sind in den folgenden Stellen gemeint: {#यदा प्रकृष्टा मन्येत सर्वास्तु प्रकृतीर्भृशम् । अत्युच्छ्रितं तथात्मानं तदा कुर्वीत विग्रहम् ॥#} 
 <ls>M. 7, 170.</ls> {#स्वामिमूला भवन्त्येताः सर्वाः प्रकृतयः खलु#} 
@@ -147,8 +147,8 @@ welcher ein Opferspruch u. s. w. zunächst und wesentlich gehört, ist dessen {#
 <div n="2">— b) {%die Unterthanen, Bürger%} ({#पौरवर्ग#}) 
 <ls>MED.</ls> {#निग्रहं प्रकृतीनां च कुर्याद्यो ऽरिबलस्य च#} 
 <ls>M. 7, 175.</ls> {#तुष्ट°#} <lex>adj.</lex> 209. {#परिपूर्णं यथा चन्द्रं दृष्ट्वा हृष्यन्ति मानवाः । तथा प्रकृतयो यस्मिन्स चान्द्रव्रतिको नृपः ॥#} 
-<ls>9, 309. N. 7, 12.</ls> {#सर्वानुरक्त°#} <lex>adj.</lex> 
-<ls>MBH. 3, 15955. 16003.</ls> 
+<ls>9, 309.</ls> <ls>N. 7, 12.</ls> {#सर्वानुरक्त°#} <lex>adj.</lex> 
+<ls>MBH. 3, 15955.</ls> <ls n="MBH. 3,">16003.</ls> 
 <ls>R. 1, 3, 13. 37. 43, 1.</ls> 
 <ls>KĀM. NĪTIS. 9, 33.</ls> <ls>RAGH. 4, 12.</ls> <ls>ŚĀK. 194.</ls> <ls>KATHĀS. 10, 217.</ls> <ls>VID. 51.</ls> sg. {%Künstler, Handwerker%} 
 <ls>H. 899.</ls> 
@@ -165,13 +165,13 @@ welcher ein Opferspruch u. s. w. zunächst und wesentlich gehört, ist dessen {#
 <ls>Ind. St. 8, 132. 137</ls> (die hier als Beispiel angeführten Worte stehen 
 <ls>AV. 12, 1, 40). 281. 400. 424.</ls> <ls>COLEBR. Misc. Ess. II, 163.</ls> <ls>CHANDOM. XXI.</ls> 
 <div n="1">— 7) in der Mathem. {%Coefficient, Multiplicator%} 
-<ls>COLEBR.</ls><ls>Alg. 170. 246. 363.</ls> <ls>SIDDHĀNTAŚIR. 241,</ls> <ls>N.</ls>
+<ls>COLEBR. Alg. 170. 246. 363.</ls> <ls>SIDDHĀNTAŚIR. 241,</ls> <ls>N.</ls>
 [Page4-0909]
 
 <div n="1">— 8) {#तृतीया प्रकृतिः#} {%die dritte Grundform%} so v. a. {%Eunuch%} 
 <ls>AK. 2, 6, 1, 39.</ls> 
 <ls>H. 562.</ls> {#युक्तमेतत्तृतीयायां प्रकृतौ#} 
-<ls>MBH. 2, 1434. 4, 54.</ls> 
+<ls>MBH. 2, 1434.</ls> <ls n="MBH.">4, 54.</ls> 
 <div n="1">— 9) Bez. einer Klasse von Göttern unter <is>Manu</is> <is>Ṛaibhya</is> 
 <ls>HARIV. 432.</ls> 
 <div n="1">— 10) N. pr. eines Frauenzimmers 

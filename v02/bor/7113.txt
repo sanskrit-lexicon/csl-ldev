@@ -1,4 +1,4 @@
 <L>7113<pc>226<k1>dwelling<k2>dwelling
-<div n="lb"/>{@DWELLING:@}¦ <div n="1">(1) {#निवासः;#} </div><div n="1">(2) {#वसतिः;#} </div><div n="1">(3) {#वासः, #}
-<div n="lb"/>{# आ-।#}</div>
+{@DWELLING:@}¦ <div n="1">(1) {#निवासः;#} </div><div n="1">(2) {#वसतिः;#} </div><div n="1">(3) {#वासः, #}
+{# आ-।#}</div>
 <LEND>

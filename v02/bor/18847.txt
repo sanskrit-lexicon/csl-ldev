@@ -1,9 +1,9 @@
 <L>18847<pc>581<k1>refuse<k2>refuse
-<div n="lb"/>{@REFUSE@}¦ (v.): <div n="I">I Not to grant, decline: {#न #}
-<div n="lb"/>{# इच्छति#} ({#इष्,#} c. 6. = wish): v. Also to forbid.</div>
-<div n="lb"/><div n="I">II To reject: q. v.: </div><div n="1">(1) {#प्रत्याख्याति#} ({#ख्या,#}
-<div n="lb"/>c. 2.), <div n="xe">{%if you r. me being asked:%}</div> <div n="xs">{#यदि मां याचितः #}
-<div n="lb"/>{# प्रत्याख्यास्यसि,#}</div> Mah. i. 74. 16.; </div><div n="1">(2) {#प्रत्याचष्टे#}
-<div n="lb"/>({#चक्ष,#} c. l.), <div n="xe">{%I r. not for any fault:%}</div> <div n="xs">{#अहं #}
-<div n="lb"/>{# प्रत्याचक्षे न दोषतः,#}</div> 17.</div>
+{@REFUSE@}¦ (v.): <div n="I">I Not to grant, decline: {#न #}
+{# इच्छति#} ({#इष्,#} c. 6. = wish): v. Also to forbid.</div>
+<div n="I">II To reject: q. v.: </div><div n="1">(1) {#प्रत्याख्याति#} ({#ख्या,#}
+c. 2.), <div n="xe">{%if you r. me being asked:%}</div> <div n="xs">{#यदि मां याचितः #}
+{# प्रत्याख्यास्यसि,#}</div> Mah. i. 74. 16.; </div><div n="1">(2) {#प्रत्याचष्टे#}
+({#चक्ष,#} c. l.), <div n="xe">{%I r. not for any fault:%}</div> <div n="xs">{#अहं #}
+{# प्रत्याचक्षे न दोषतः,#}</div> 17.</div>
 <LEND>

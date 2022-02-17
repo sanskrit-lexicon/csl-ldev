@@ -1,18 +1,18 @@
 <L>15104<pc>252-1<k1>रस<k2>रस
 {#रस#}¦ras-a, {%m.%} [√ ¤2.¤ ras], sap, juice ({%of plants%}), 
-<>fruit-syrup; fluid, liquid; water; essence, 
-<>pith ({%of anything%}); quicksilver; potion, 
-<>elixir; poisonous draught; taste, flavour ({%as %}
-<>{%distinctive quality of fluids%}: {%six kinds are %}
-<>{%distinguished, viz. sweet, salt, bitter, sour, %}
-<>{%pungent, astringent%}); object of taste; organ 
-<>of taste, tongue; relish, inclination, fondness 
-<>{%or%} love for ({%lc.%} ± upari, -°); desire; affection; 
-<>pleasure, delight; charm; (flavour {%or%} keynote <lbinfo n="3"/>
-<> {%in poetry%}), sentiment ({%eight Rasas are %}
-<>{%generally distinguished%}: {%love, heroism, disgust, %}<lbinfo n="3"/>
-<>{% wrath, mirth, terror, pity, wonder, a %}
-<>{%ninth, quietism, and a tenth, tenderness, being %}
-<>{%sometimes added%}); prevailing sentiment {%in %}
-<>{%human character%}; sacred syllable om.
+fruit-syrup; fluid, liquid; water; essence, 
+pith ({%of anything%}); quicksilver; potion, 
+elixir; poisonous draught; taste, flavour ({%as %}
+{%distinctive quality of fluids%}: {%six kinds are %}
+{%distinguished, viz. sweet, salt, bitter, sour, %}
+{%pungent, astringent%}); object of taste; organ 
+of taste, tongue; relish, inclination, fondness 
+{%or%} love for ({%lc.%} ± upari, -°); desire; affection; 
+pleasure, delight; charm; (flavour {%or%} keynote <lbinfo n="3"/>
+ {%in poetry%}), sentiment ({%eight Rasas are %}
+{%generally distinguished%}: {%love, heroism, disgust, %}<lbinfo n="3"/>
+{% wrath, mirth, terror, pity, wonder, a %}
+{%ninth, quietism, and a tenth, tenderness, being %}
+{%sometimes added%}); prevailing sentiment {%in %}
+{%human character%}; sacred syllable om.
 <LEND>

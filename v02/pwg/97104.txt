@@ -21,7 +21,7 @@
 <ls>M. 7, 10. 16. 10, 124. 11, 209.</ls> {#स्व°, पर°#} 
 <ls>9, 298.</ls> <ls>MBH. 3, 16674.</ls> {#क्षमा शक्तौ#} 
 <ls>RAGH. 1, 22.</ls> 
-<ls>Spr. (II) 543. 892. 3394. (I) 2927.</ls> {#रौद्र°#} 
+<ls>Spr. (II) 543.</ls> <ls n="Spr. (II)">892.</ls> <ls n="Spr. (II)">3394.</ls> <ls n="Spr.">(I) 2927.</ls> {#रौद्र°#} 
 <ls>SĀH. D. 76, 2.</ls> 
 <ls>BHĀG. P. 1, 4, 17.</ls> {#निजशक्तिहीन#} 
 <ls>HIT. 30, 2.</ls> {#अल्प°#} <lex>adj.</lex> 
@@ -35,7 +35,7 @@
 <ls>Spr. (II) 1255.</ls> {#स्वशक्त्या#} dass. 
 <ls>VARĀH. BṚH. S. 105, 7.</ls> {#परं शक्त्या#} {%mit ganzer Kraft%} 
 <ls>M. 7, 89. 10, 118.</ls> 
-<ls>MBH. 5, 5957. 7, 7041.</ls> {%Wirkung eines Heilmittels%} 
+<ls>MBH. 5, 5957.</ls> <ls n="MBH.">7, 7041.</ls> {%Wirkung eines Heilmittels%} 
 <ls>ŚĀRṄG. SAṂH. 1, 2, 8.</ls> {#अ°#} {%Schwäche, Unfähigkeit%} 
 <ls>Spr. (II) 2375.</ls> 
 <ls>SĀṂKHYAK. 46. 47. 49.</ls> {#न स्थातुं (स्थातु#} falsch 
@@ -79,13 +79,13 @@
 <ls>Verz. d. Oxf. H. 25,b, N. 5.</ls> {#जिनशक्तयः#} 
 <ls>VYĀḌI</ls> beim Schol. zu <ls>H. 233.</ls> insbes. <is>Śiva's</is> {%Kraft%}, personif. als <is>Durgā</is>, 
 <ls>TRIK.1,1,51.</ls> <ls>MED.</ls> <ls>ŚĀK. 194.</ls> <ls>KATHĀS.1,32.</ls> <ls>RĀJA-TAR.3,444.</ls> <ls>BHĀG. P.4,6,42. fg.</ls> <ls>Verz. d. Oxf. H. 92,a,1.</ls> {#°वादिन्#} 
-<ls>250</ls>, {%a%}, 4. {#°मतनिबर्हण#} 
+<ls>250,a,4.</ls> {#°मतनिबर्हण#} 
 <ls>249,b,32.</ls> {#°मतैकदेशिनिराकरण#} 
 <ls>35. 39. 250,a,1.</ls> = {#कुण्डलिनी#} 
 <ls>235,a,37.</ls> {%die wirkende Kraft eines Wortes%} ist {%seine Bedeutung%} oder {%Function%} 
 <ls>BHĀṢĀP. 79.</ls> 
 <ls>SĀH. D. 11. 13. 256. fg. 10, 10.</ls> 
-<ls>KULL.</ls> zu <ls>M. 11, 90.</ls> <ls>Verz. d. Oxf. H. 246</ls>, {%a%}, 
+<ls>KULL.</ls> zu <ls>M. 11, 90.</ls> <ls>Verz. d. Oxf. H. 246,a,</ls> 
 <ls>No. 619.</ls> Comm. zu <ls>TAITT. PRĀT. 2, 33.</ls> {#समास°#} 
 <ls>Verz. d. Oxf. H. 177,a,29. fg.</ls> so v. a. {#कारक#} {%Casusbegriff%} 
 <ls>P. 2, 3, 7, Schol.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4, 1, 32.</ls> die {#शक्ति#} eines Spruches ist {%der wirksamste Theil desselben%} (der Schluss) 

@@ -1,13 +1,13 @@
 <L>639<pc>023<k1>although<k2>although
-<div n="lb"/>{@ALTHOUGH:@}¦ <div n="1">(1) {#अपि:#} {%we remember that Vidura%}
-<div n="lb"/>{%and others a. born Sudras were possessed of%} [Page024]
-<div n="lb"/><div n="xe">{%superior knowledge%}</div> <div n="xs">{#विदुरप्रभृतयः शूद्रयोनिप्रभवा अपि-#}
-<div n="lb"/>{#विशिष्टविज्ञानसम्पन्नाः स्मर्यन्ते,#}</div> <ls>S.</ls> iii. 34. <div n="xe">{%She will%}
-<div n="lb"/>{%surely move a. she may be in a painting, will%}
-<div n="lb"/>{%practise jugglery a. she may consist of a doll,%}
-<div n="lb"/>{%will deceive a. she may be engraved%}</div> <div n="xs">{#नियतमियमाले-#}
-<div n="lb"/>{#ख्यगतापि चलति, पुस्तमय्यपीन्द्रजालमाचरति, उत्कीर्णापि #}
-<div n="lb"/>{# विप्रलभते,#}</div> K.; </div><div n="1">(2) {#यद्यपि,#} <div n="xe">{%a. we cannot extirpate%}
-<div n="lb"/>{%pain, still we can put it down,%}</div> <div n="xs">{#यद्यपि न सन्निरूध्यते #}
-<div n="lb"/>{# दुःखं तथापि तदभिभवः शक्यः कर्तुम्,#}</div> <ls>T.</ls></div>
+{@ALTHOUGH:@}¦ <div n="1">(1) {#अपि:#} {%we remember that Vidura%}
+{%and others a. born Sudras were possessed of%} [Page024]
+<div n="xe">{%superior knowledge%}</div> <div n="xs">{#विदुरप्रभृतयः शूद्रयोनिप्रभवा अपि-#}
+{#विशिष्टविज्ञानसम्पन्नाः स्मर्यन्ते,#}</div> <ls>S.</ls> iii. 34. <div n="xe">{%She will%}
+{%surely move a. she may be in a painting, will%}
+{%practise jugglery a. she may consist of a doll,%}
+{%will deceive a. she may be engraved%}</div> <div n="xs">{#नियतमियमाले-#}
+{#ख्यगतापि चलति, पुस्तमय्यपीन्द्रजालमाचरति, उत्कीर्णापि #}
+{# विप्रलभते,#}</div> K.; </div><div n="1">(2) {#यद्यपि,#} <div n="xe">{%a. we cannot extirpate%}
+{%pain, still we can put it down,%}</div> <div n="xs">{#यद्यपि न सन्निरूध्यते #}
+{# दुःखं तथापि तदभिभवः शक्यः कर्तुम्,#}</div> <ls>T.</ls></div>
 <LEND>

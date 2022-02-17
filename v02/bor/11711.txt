@@ -1,9 +1,9 @@
 <L>11711<pc>366<k1>impossible<k2>impossible
-<div n="lb"/>{@IMPOSSIBLE:@}¦ <div n="1">(1) {#असम्भवः#} ({#वा, वं#}) (= impro-
-<div n="lb"/>-bable: q.v.); </div><div n="1">(2) {#असाध्यः#} ({#ध्या, ध्यं#}) (what
-<div n="lb"/>cannot be accomplished), <div n="xe">{%there is nothing i. in%}
-<div n="lb"/>{%this world:%}</div> <div n="xs">{#असाध्यं नास्ति लोकेऽत्र,#}</div> P.; </div><div n="1">(3) {#अशक्यः#}
-<div n="lb"/>({#क्या, क्यं#}) (what cannot be done), <div n="xe">{%i. either%}
-<div n="lb"/>{%to acquire or to avoid:%}</div> <div n="xs">{#अशक्यार्जनवर्जनः#}</div> ({#ना, नं#}),
-<div n="lb"/>N. xvii. 62.</div>
+{@IMPOSSIBLE:@}¦ <div n="1">(1) {#असम्भवः#} ({#वा, वं#}) (= impro-
+-bable: q.v.); </div><div n="1">(2) {#असाध्यः#} ({#ध्या, ध्यं#}) (what
+cannot be accomplished), <div n="xe">{%there is nothing i. in%}
+{%this world:%}</div> <div n="xs">{#असाध्यं नास्ति लोकेऽत्र,#}</div> P.; </div><div n="1">(3) {#अशक्यः#}
+({#क्या, क्यं#}) (what cannot be done), <div n="xe">{%i. either%}
+{%to acquire or to avoid:%}</div> <div n="xs">{#अशक्यार्जनवर्जनः#}</div> ({#ना, नं#}),
+N. xvii. 62.</div>
 <LEND>

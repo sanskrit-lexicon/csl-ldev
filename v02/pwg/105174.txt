@@ -34,11 +34,11 @@
 <ls>PĀR. GṚHY. 3, 13.</ls> 
 <ls>M. 7, 145. 8, 1. 10. 11. 79. 95.</ls> 
 <ls>R. 2, 67, 1.</ls> 
-<ls>Spr. (II) 1293. 3136. 6838.</ls> {#सभासीन#} ({#राजन्#}) 
+<ls>Spr. (II) 1293.</ls> <ls n="Spr. (II)">3136.</ls> <ls n="Spr. (II)">6838.</ls> {#सभासीन#} ({#राजन्#}) 
 <ls>RĀJA-TAR. 4, 82.</ls> {#सभास्थानस्थ#} 
 <ls>3, 129.</ls> {#सभोपविष्ट#} 
 <ls>PAÑCAT. 223, 13.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 28, 14.</ls> {#सभावसरे#} 
+<ls>VET. in LA. (III) 28, 14.</ls> {#सभावसरे#} 
 <ls>16, 9.</ls> {#सभायां चक्रिरे कथाः#} {%in Gesellschaft%} 
 <ls>R. 2, 69, 3.</ls> {#सभा समग्रा परितुष्यते त्वियम्#} 
 <ls>R. GORR. 2, 88, 28.</ls> {#जिता सभा वस्त्रवता#} 
@@ -53,12 +53,12 @@
 <ls>6401.</ls> <ls>KATHĀS. 46, 164.</ls> <ls>BHĀG. P. 3, 1, 7.</ls> {#सभां कृत्वा#} 
 <ls>HIT. 93, 3.</ls> {%Asyl, Zufluchtsort für Reisende%} 
 <ls>M. 9, 264.</ls> 
-<ls>MBH. 3, 2336. fg. 13, 1671.</ls> 
+<ls>MBH. 3, 2336. fg.</ls> <ls n="MBH.">13, 1671.</ls> 
 <ls>R. 1, 5, 13 (11 GORR.).</ls> <ls>MĀRK. P. 14, 65.</ls> <ls>BHĀG. P. 10, 41, 21.</ls> {%Vorhalle in einem Tempel%} 
 <ls>WILSON, Sel. Works 1, 189.</ls> {#महा°#} {%eine grosse Halle%} (wo gespeist wird) 
 <ls>KATHĀS. 45, 227.</ls> in comp. mit dem Namen eines Gottes oder Fürsten so v. a. {%Palast, Hof%}: {#धनाध्यक्ष°#} 
 <ls>R. 5, 89, 7.</ls> {#पुष्यमित्र°, चन्द्रगुप्त°#} 
-<ls>MAHĀBH. ed. BALLANT. 758.</ls> in comp. mit einem im pl. gedachten Worte {%Versammlung —, Gesellschaft von%}: {#मन्त्रिसभान्तरे#} 
+<ls>MAHĀBH. ed.</ls> <ls>BALLANT. 758.</ls> in comp. mit einem im pl. gedachten Worte {%Versammlung —, Gesellschaft von%}: {#मन्त्रिसभान्तरे#} 
 <ls>RĀJA-TAR. 6, 261.</ls> {#युवति°#} 
 <ls>GĪT. 9, 5.</ls> {#विद्वज्जनसभामध्ये#} 
 <ls>Spr. (II) 6108.</ls> {#साधु°#} 
@@ -75,6 +75,6 @@ n. <ls>P. 2, 4, 23. fg.</ls> <ls>AK. 3, 6, 3, 26. fg.</ls> das vorangehende Wort
 <ls>AV. 7, 12, 12.</ls> 
 <div n="v">— Vgl. {#देव°, नृपसभ#} (auch 
 <ls>Verz. d. Oxf. H. 193,a,16</ls>), {#ब्रह्मसभा, मध्येसभम्, मनुष्यसभा, यमसभ#} und {#°सभा, राजसभा#} (füge {%Hof eines Fürsten%} und 
-<ls>Spr. (II) 2077. 2960.</ls> 
+<ls>Spr. (II) 2077.</ls> <ls n="Spr. (II)">2960.</ls> 
 <ls>KATHĀS. 102, 146</ls> hinzu).
 <LEND>

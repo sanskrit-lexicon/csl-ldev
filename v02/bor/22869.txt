@@ -1,6 +1,6 @@
 <L>22869<pc>721<k1>trice<k2>trice
-<div n="lb"/>{@TRICE@}¦ (subs.): <div n="I">I Artifice, stratagem: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#छलम्;#} </div><div n="1">(2) {#छद्मन्।#} </div><div n="I">II Juggler's: {#माया,#}
-<div n="lb"/><div n="xe">{%in all the t. s of Śambara:%}</div> <div n="xs">{#शम्बरस्य मायासु।#}</div> </div><div n="I">III
-<div n="lb"/>Play: q. v.: {#खेला#} <div n="xe">{%or%}</div> <div n="xs">{#खेलितम्।#}</div></div>
+{@TRICE@}¦ (subs.): <div n="I">I Artifice, stratagem: q. v.:</div>
+<div n="1">(1) {#छलम्;#} </div><div n="1">(2) {#छद्मन्।#} </div><div n="I">II Juggler's: {#माया,#}
+<div n="xe">{%in all the t. s of Śambara:%}</div> <div n="xs">{#शम्बरस्य मायासु।#}</div> </div><div n="I">III
+Play: q. v.: {#खेला#} <div n="xe">{%or%}</div> <div n="xs">{#खेलितम्।#}</div></div>
 <LEND>

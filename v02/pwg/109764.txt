@@ -4,17 +4,17 @@
 <div n="2"> a) {%guten Werken obliegend, tugendhaft%} 
 <ls>BHAG. 7, 16.</ls> 
 <ls>MBH. 3, 1731.</ls> 
-<ls>HARIV. 6806. 9116.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 15, 24. 2, 118, 20. 3, 2, 27.</ls> 
-<ls>Spr. (II) 203. 2743. 5736</ls> <ls>?(M.). 6039. 6818. 7263. KATHĀS. 16, 117. 22, 55. 255. 45, 146. RĀJA-TAR. 1, 107. 347. 3, 290. 320. 4, 362. PRAB. 70, 3. BHĀG. P. 9, 10, 23.</ls> 
+<ls>HARIV. 6806.</ls> <ls n="HARIV.">9116.</ls> 
+
+<ls>R. GORR. 1, 15, 24. 2, 118, 20. 3, 2, 27.</ls> 
+<ls>Spr. (II) 203.</ls> <ls n="Spr. (II)">2743.</ls> <ls n="Spr. (II)">5736</ls> (<ls>M.). 6039. 6818. 7263.</ls> <ls>KATHĀS. 16, 117. 22, 55. 255. 45, 146.</ls> <ls>RĀJA-TAR. 1, 107. 347. 3, 290. 320. 4, 362.</ls> <ls>PRAB. 70, 3.</ls> <ls>BHĀG. P. 9, 10, 23.</ls> 
 <div n="2">— b) {%dem es wohlergeht, glücklich%} (vgl. {#पुण्यवन्त्#}) 
 <ls>AK. 3, 1, 3.</ls> 
 <ls>H. 489.</ls> 
 <ls>Spr. (II) 640.</ls> 
 <ls>KATHĀS. 40, 38.</ls> 
 <div n="2">— c) {%klug, gebildet%} 
-<ls>Verz. d. Oxf. H. 37,a, No. 90.</ls> <ls>Spr. (II) 2215. 2939.</ls> {%klug%} und zugleich {%tugendhaft%} 
+<ls>Verz. d. Oxf. H. 37,a, No. 90.</ls> <ls>Spr. (II) 2215.</ls> <ls n="Spr. (II)">2939.</ls> {%klug%} und zugleich {%tugendhaft%} 
 <ls>2343.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines der sieben Weisen unter dem 10ten <is>Manu</is> (vgl. {#सुकृति#}) 
 <ls>MĀRK. P. 94, 14.</ls>

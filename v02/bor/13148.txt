@@ -1,4 +1,4 @@
 <L>13148<pc>405<k1>lameness<k2>lameness
-<div n="lb"/>{@LAMENESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#खञ्जता;#} </div><div n="1">(2) {#पङ्गुता;#} etc.</div>
-<div n="lb"/><div n="I">II Weakness: q.v.: {#दुर्बलता।#}</div>
+{@LAMENESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#खञ्जता;#} </div><div n="1">(2) {#पङ्गुता;#} etc.</div>
+<div n="I">II Weakness: q.v.: {#दुर्बलता।#}</div>
 <LEND>

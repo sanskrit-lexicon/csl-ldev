@@ -10,15 +10,15 @@
 <ls>3, 15954.</ls> {#सर्वशस्त्रस्य#} 
 <ls>6, 5757.</ls> {#धनुर्वेदस्य#} 
 <ls>HARIV. 87.</ls> {#गदायुद्धे ऽसियुद्धे च#} 
-<ls>MBH. 1, 5531. 7, 264.</ls> {#सर्वविद्यासु#} 
+<ls>MBH. 1, 5531.</ls> <ls n="MBH.">7, 264.</ls> {#सर्वविद्यासु#} 
 <ls>6, 4554.</ls> <ls>R. GORR. 1, 79, 21.</ls> {#धनुषि#} 
 <ls>HARIV. 4137.</ls> {#वेद°#} 
-<ls>M. 2, 148. 3, 130. 136. 145 u.s.w.</ls> <ls>YĀJÑ. 1, 111.</ls> <ls>MBH. 3, 2575. 5, 3796.</ls> {#वेदवेदाङ्ग°#} 
+<ls>M. 2, 148. 3, 130. 136. 145</ls> u.s.w. <ls>YĀJÑ. 1, 111.</ls> <ls>MBH. 3, 2575.</ls> <ls n="MBH.">5, 3796.</ls> {#वेदवेदाङ्ग°#} 
 <ls>1, 1013. 3, 2481.</ls> <ls>R. 1, 7, 1. 11, 5.</ls> {#सर्वशस्त्रास्त्र°#} 
-<ls>MBH. 4, 1427. 14, 600.</ls> 
+<ls>MBH. 4, 1427.</ls> <ls n="MBH.">14, 600.</ls> 
 <ls>HARIV. 4138.</ls> 
 <ls>R. 1, 5, 20. 6, 4, 25</ls> (wo {#स चास्त्र°#} zu lesen ist). 
-<ls>VARĀH. BṚH. S.2,e.</ls> <ls>Ind. St.3,259,1 v. u.</ls> <ls>BHĀG. P.4,1,63.</ls> <ls>PAÑCAT. 155,4.</ls> ohne Ergänzung {%gründlich gelehrt%}: {#बह्वृचाः पारगोत्तमाः#} Einl. zum 
+<ls>VARĀH. BṚH. S.2,e.</ls> <ls>Ind. St.3,259,1</ls> v. u. <ls>BHĀG. P.4,1,63.</ls> <ls>PAÑCAT. 155,4.</ls> ohne Ergänzung {%gründlich gelehrt%}: {#बह्वृचाः पारगोत्तमाः#} Einl. zum 
 <ls>ṚV. PRĀT.</ls> bei <ls>ROTH, Zur Lit. u. Gesch. d. V. 60.</ls> Als <lex>n.</lex> abstr.: {#प्रतिज्ञानां च पारगैः#} {%das Halten des Versprechens%} 
 <ls>HARIV. 11565</ls>; es ist wohl {#पारणैः#} zu lesen.
 <LEND>

@@ -1,7 +1,7 @@
 <L>1677<pc>058<k1>basket<k2>basket
-<div n="lb"/>{@BASKET:@}¦ <div n="1">(1) {#पेटकः#} <div n="xe">{%or%}</div> <div n="xs">{#मञ्जूषा#}</div> (=a large b. or
-<div n="lb"/>box for keeping clothes etc.); </div><div n="1">(2) {#करण्डः#}
-<div n="lb"/>(a small b. for gathering flowers etc.);</div>
-<div n="lb"/><div n="1">(3) {#डल्लकम्#} (=a moderate sized portable b.);</div>
-<div n="lb"/><div n="1">(4) {#विदलम्#} <div n="xe">{%or%}</div> <div n="xs">{#वैदलम्#}</div> (any b. work).</div>
+{@BASKET:@}¦ <div n="1">(1) {#पेटकः#} <div n="xe">{%or%}</div> <div n="xs">{#मञ्जूषा#}</div> (=a large b. or
+box for keeping clothes etc.); </div><div n="1">(2) {#करण्डः#}
+(a small b. for gathering flowers etc.);</div>
+<div n="1">(3) {#डल्लकम्#} (=a moderate sized portable b.);</div>
+<div n="1">(4) {#विदलम्#} <div n="xe">{%or%}</div> <div n="xs">{#वैदलम्#}</div> (any b. work).</div>
 <LEND>

@@ -4,7 +4,7 @@
 <div n="1"> 1) {%Zugang, Eingang%}: {#देवयानस्य पथः#} 
 <ls>ŚAT. BR. 14, 9, 1, 3.</ls> 
 <ls>VS. 15, 8.</ls> {%Weg%} 
-<ls>VYUTP.</ls> <ls>?4; vgl. BURNOUF in Lot. de la b. l. 520.</ls> 
+<ls>VYUTP.</ls> <ls>4</ls>; vgl. <ls>BURNOUF</ls> in <ls>Lot. de la b. l. 520.</ls> 
 <div n="1">— 2) {%Anfang%}: {#आज्य^स्य प्रति\पद^ं करोति#} 
 <ls>TBR. 3, 8, 15, 11.</ls> {#ब्रह्मै\व प्र^ति\पद^ं कुरुते#} 
 <ls>TS. 1, 6, 10, 4.</ls> 
@@ -24,7 +24,7 @@
 <ls>HARIV. 7866.</ls> {#शुक्लपक्षप्रतिपत्प्रभृति#} 
 <ls>VARĀH. BṚH. S. 21, 6. 33, 19.</ls> {#प्रतिपत्कलुषस्येन्दोर्लेखा नातिविराजते#} 
 <ls>MBH. 3, 2700.</ls> {#प्रतिपच्चन्द्रदर्शन#} 
-<ls>R.2,112,20</ls> <ls>?(122,28 GORR.). RAGH.8,64. KATHĀS.4,29. 19,8. 34,47. BHAVIṢYA-P. in Verz. d. Oxf. H. 30,b,33. 39. MĀRK. P. 33,1. Inschr. in Journ. of the Am. Or. S.7,9, Śl. 34. Schol. zu KĀTY. ŚR. 169,4. fgg. 295,15. 322,5. 425,16. 441,23.</ls> 
+<ls>R.2,112,20</ls> (<ls>122,28 GORR.</ls>). <ls>RAGH. 8,64.</ls> <ls>KATHĀS.4,29. 19,8. 34,47.</ls> <ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 30,b,33. 39.</ls> <ls>MĀRK. P. 33,1. Inschr.</ls> in <ls>Journ. of the Am. Or. S.7,9, Śl. 34. Schol.</ls> zu <ls>KĀTY. ŚR. 169,4. fgg. 295,15. 322,5. 425,16. 441,23.</ls> 
 <div n="1">— 5) {%Intelligenz, Verstand%} 
 <ls>AK. 1, 1, 4, 10.</ls> 
 <ls>TRIK.</ls> 

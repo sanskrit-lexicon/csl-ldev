@@ -1,5 +1,5 @@
 <L>7525<pc>237<k1>enchanter<k2>enchanter
-<div n="lb"/>{@ENCHANTER:@}¦ <div n="I">I A magician: </div><div n="1">(1) {#मायाविन्#}
-<div n="lb"/>(m.); </div><div n="1">(2) {#मायाकारः।#} </div><div n="I">II A charmer: {#मोहनः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#-कः, वि-।#}</div></div>
+{@ENCHANTER:@}¦ <div n="I">I A magician: </div><div n="1">(1) {#मायाविन्#}
+(m.); </div><div n="1">(2) {#मायाकारः।#} </div><div n="I">II A charmer: {#मोहनः#}
+<div n="xe">{%or%}</div> <div n="xs">{#-कः, वि-।#}</div></div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>4074<pc>132<k1>come near<k2>come near
-<div n="lb"/>{@COME NEAR:@}¦ <div n="I">I Lit.: {#उपसर्पति#} ({#सृप्,#} c. l): v.
-<div n="lb"/>To approach. </div><div n="I">II Fig.: Ph.: <div n="xe">{%nothing anci-%}
-<div n="lb"/>{%ent or modern c. s near this achievement%}</div> <div n="xs">{#*एतादृशं #}
-<div n="lb"/>{# कर्म कदापि न सम्पन्नम्।#}</div></div>
+{@COME NEAR:@}¦ <div n="I">I Lit.: {#उपसर्पति#} ({#सृप्,#} c. l): v.
+To approach. </div><div n="I">II Fig.: Ph.: <div n="xe">{%nothing anci-%}
+{%ent or modern c. s near this achievement%}</div> <div n="xs">{#*एतादृशं #}
+{# कर्म कदापि न सम्पन्नम्।#}</div></div>
 <LEND>

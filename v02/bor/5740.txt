@@ -1,10 +1,10 @@
 <L>5740<pc>184<k1>delicate<k2>delicate
-<div n="lb"/>{@DELICATE:@}¦ <div n="I">I Delightful: q. v.: {#ललितः#} ({#ता, #}
-<div n="lb"/>{# तं#}). </div><div n="I">II Pleasing to the senses: {#मधुरः#} ({#रा, #}
-<div n="lb"/>{# रं#}), <div n="xe">{%d. meat:%}</div> <div n="xs">{#मधुरं मांसम्,#}</div> Bha. </div><div n="I">III Fine, soft,
-<div n="lb"/>feeble: </div><div n="1">(1) {#सुकुमारः#} ({#रा, रं#}); </div><div n="1">(2) {#कोमलः#} ({#ला, #}
-<div n="lb"/>{# लं#}), <div n="xe">{%with d. limbs:%}</div> <div n="xs">{#कोमलैरङ्गैः,#}</div> S. </div><div n="I">IV Refined,
-<div n="lb"/>polite: q. v. </div><div n="I">V Luxurious: q. v. </div><div n="I">VI
-<div n="lb"/>Of subjects, difficult: {#विषमः#} ({#मा, मं#}).</div>
-<div n="lb"/><div n="I">VII Nice, critical: q. v.</div>
+{@DELICATE:@}¦ <div n="I">I Delightful: q. v.: {#ललितः#} ({#ता, #}
+{# तं#}). </div><div n="I">II Pleasing to the senses: {#मधुरः#} ({#रा, #}
+{# रं#}), <div n="xe">{%d. meat:%}</div> <div n="xs">{#मधुरं मांसम्,#}</div> Bha. </div><div n="I">III Fine, soft,
+feeble: </div><div n="1">(1) {#सुकुमारः#} ({#रा, रं#}); </div><div n="1">(2) {#कोमलः#} ({#ला, #}
+{# लं#}), <div n="xe">{%with d. limbs:%}</div> <div n="xs">{#कोमलैरङ्गैः,#}</div> S. </div><div n="I">IV Refined,
+polite: q. v. </div><div n="I">V Luxurious: q. v. </div><div n="I">VI
+Of subjects, difficult: {#विषमः#} ({#मा, मं#}).</div>
+<div n="I">VII Nice, critical: q. v.</div>
 <LEND>

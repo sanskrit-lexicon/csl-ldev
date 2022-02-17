@@ -1,7 +1,7 @@
 <L>19586<pc>609<k1>rustic<k2>rustic
-<div n="lb"/>{@RUSTIC:@}¦ <div n="1">(1) {#ग्राम्य#} (f. {#म्या#}), <div n="xe">{%you will know that%}
-<div n="lb"/>{%men are not r. s:%}</div> <div n="xs">{#अग्राम्यतां मनुष्याणां ज्ञास्यसि,#}</div> <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(2) {#ग्रामिक#} (f. {#की#}); </div><div n="1">(3) {#ग्रामीय#} (f. {#या#});</div>
-<div n="lb"/><div n="1">(4) {#ग्रामीण#} (f. {#णा#}), <div n="xe">{%r. maidens:%}</div> <div n="xs">{#ग्रामीणवध्वः,#}</div>
-<div n="lb"/>Si. xii. 37.</div>
+{@RUSTIC:@}¦ <div n="1">(1) {#ग्राम्य#} (f. {#म्या#}), <div n="xe">{%you will know that%}
+{%men are not r. s:%}</div> <div n="xs">{#अग्राम्यतां मनुष्याणां ज्ञास्यसि,#}</div> <ls>K.</ls> ;</div>
+<div n="1">(2) {#ग्रामिक#} (f. {#की#}); </div><div n="1">(3) {#ग्रामीय#} (f. {#या#});</div>
+<div n="1">(4) {#ग्रामीण#} (f. {#णा#}), <div n="xe">{%r. maidens:%}</div> <div n="xs">{#ग्रामीणवध्वः,#}</div>
+Si. xii. 37.</div>
 <LEND>

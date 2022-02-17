@@ -1,4 +1,4 @@
 <L>15086<pc>461<k1>muggy<k2>muggy
-<div n="lb"/>{@MUGGY:@}¦ <div n="xe">{%we have m. weather now:%}</div> <div n="xs">{#अधुना सरसा #}
-<div n="lb"/>{# अपि निर्वाततया तापकरा दिवसाः।#}</div>
+{@MUGGY:@}¦ <div n="xe">{%we have m. weather now:%}</div> <div n="xs">{#अधुना सरसा #}
+{# अपि निर्वाततया तापकरा दिवसाः।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>17780<pc>544<k1>principal<k2>principal
-<div n="lb"/>{@PRINCIPAL@}¦ (subs.): <div n="I">I Chief, master: q. v.:
-<div n="lb"/>{#अध्यक्षः।#} </div><div n="I">II Capital: {#मूलम्, -धनम्:#} <div n="xe">{%p. and%}
-<div n="lb"/>{%interest:%}</div> <div n="xs">{#मूलकलान्तरे,#}</div> Li. 61.</div>
+{@PRINCIPAL@}¦ (subs.): <div n="I">I Chief, master: q. v.:
+{#अध्यक्षः।#} </div><div n="I">II Capital: {#मूलम्, -धनम्:#} <div n="xe">{%p. and%}
+{%interest:%}</div> <div n="xs">{#मूलकलान्तरे,#}</div> Li. 61.</div>
 <LEND>

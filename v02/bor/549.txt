@@ -1,4 +1,4 @@
 <L>549<pc>020<k1>alias<k2>alias
-<div n="lb"/>{@ALIAS:@}¦ Ph. <div n="xe">{%Rama a. Rāmanānda%}</div> <div n="xs">{#*रामः यस्य #}
-<div n="lb"/>{# रामानन्द इत्यपरनाम।#}</div>
+{@ALIAS:@}¦ Ph. <div n="xe">{%Rama a. Rāmanānda%}</div> <div n="xs">{#*रामः यस्य #}
+{# रामानन्द इत्यपरनाम।#}</div>
 <LEND>

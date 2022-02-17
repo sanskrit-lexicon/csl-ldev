@@ -1,6 +1,6 @@
 <L>7758<pc>245<k1>equal<k2>equal
-<div n="lb"/>{@EQUAL@}¦ (v. t.): <div n="I">I To be e. to: expr. by adj.,
-<div n="lb"/><div n="xe">{%but does not e. me in penances:%}</div> <div n="xs">{#न तु तपसा मे समः,#}</div>
-<div n="lb"/>Vi. </div><div n="I">II To make e. to: </div><div n="1">(1) expr. by adj.;</div>
-<div n="lb"/><div n="1">(2) {#समीकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#समानीकरोति।#}</div></div>
+{@EQUAL@}¦ (v. t.): <div n="I">I To be e. to: expr. by adj.,
+<div n="xe">{%but does not e. me in penances:%}</div> <div n="xs">{#न तु तपसा मे समः,#}</div>
+Vi. </div><div n="I">II To make e. to: </div><div n="1">(1) expr. by adj.;</div>
+<div n="1">(2) {#समीकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#समानीकरोति।#}</div></div>
 <LEND>

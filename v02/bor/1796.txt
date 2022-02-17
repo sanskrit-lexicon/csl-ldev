@@ -1,7 +1,7 @@
 <L>1796<pc>062<k1>bed-chamber<k2>bed-chamber
-<div n="lb"/>{@BED-CHAMBER:@}¦ <div n="1">(1) {#शयनागारम्;#} </div><div n="1">(2) {#शयनगृहम्;#}</div>
-<div n="lb"/><div n="1">(3) {#वासगृहम।#} (properly speaking, these words
-<div n="lb"/>mean houses, as the Hindus had and even
-<div n="lb"/>still gen. have separate houses for sleep-
-<div n="lb"/>-ing: {#शयनकोष्ठः#} would be exact equiv.).</div>
+{@BED-CHAMBER:@}¦ <div n="1">(1) {#शयनागारम्;#} </div><div n="1">(2) {#शयनगृहम्;#}</div>
+<div n="1">(3) {#वासगृहम।#} (properly speaking, these words
+mean houses, as the Hindus had and even
+still gen. have separate houses for sleep-
+-ing: {#शयनकोष्ठः#} would be exact equiv.).</div>
 <LEND>

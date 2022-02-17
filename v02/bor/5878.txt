@@ -1,6 +1,6 @@
 <L>5878<pc>188<k1>deprecate<k2>deprecate
-<div n="lb"/>{@DEPRECATE:@}¦ <div n="I">I Lit.: {#शान्तये#} <div n="xe">{%or%}</div> <div n="xs">{#शान्तिमधिकृत्य #}
-<div n="lb"/>{# ईश्वरम् उपच्छन्दयति#}</div> ({#छन्द्,#} c. 10.). </div><div n="I">II To
-<div n="lb"/>regret: q. v.: {#अनुशोचयति#} ({#शुच्,#} c. l.). </div><div n="I">III
-<div n="lb"/>To censure: q. v.</div>
+{@DEPRECATE:@}¦ <div n="I">I Lit.: {#शान्तये#} <div n="xe">{%or%}</div> <div n="xs">{#शान्तिमधिकृत्य #}
+{# ईश्वरम् उपच्छन्दयति#}</div> ({#छन्द्,#} c. 10.). </div><div n="I">II To
+regret: q. v.: {#अनुशोचयति#} ({#शुच्,#} c. l.). </div><div n="I">III
+To censure: q. v.</div>
 <LEND>

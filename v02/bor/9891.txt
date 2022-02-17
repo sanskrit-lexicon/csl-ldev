@@ -1,6 +1,6 @@
 <L>9891<pc>312<k1>girl<k2>girl
-<div n="lb"/>{@GIRL:@}¦ <div n="1">(1) {#बाला;#} </div><div n="1">(2) {#बालिका;#} </div><div n="1">(3) {#कन्या#} (= un-
-<div n="lb"/>-married g. and gen. with ref. to the
-<div n="lb"/>parents); </div><div n="1">(4) {#कृमारी#} (= a virgin); </div><div n="1">(5) {#वासू#}
-<div n="lb"/>(only in {%addressing%} g.s.).</div>
+{@GIRL:@}¦ <div n="1">(1) {#बाला;#} </div><div n="1">(2) {#बालिका;#} </div><div n="1">(3) {#कन्या#} (= un-
+-married g. and gen. with ref. to the
+parents); </div><div n="1">(4) {#कृमारी#} (= a virgin); </div><div n="1">(5) {#वासू#}
+(only in {%addressing%} g.s.).</div>
 <LEND>

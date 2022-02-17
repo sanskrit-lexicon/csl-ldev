@@ -1,7 +1,7 @@
 <L>107857<pc>7-0882<k1>सा<k2>सा<h>3
 3. {#सा#}¦, {#स्य/ति#} 
 <ls>DHĀTUP. 26, 38</ls> ({#अन्तकर्मणि, नाशे#} 
-<ls>VOP.</ls><ls>?). P. 7, 3, 71. VOP. 11, 3.</ls> {#स्यस्व, स्यध्वम्, असात्#} und {#असासीत्#} 
+<ls>VOP.</ls>). <ls>P. 7, 3, 71.</ls> <ls>VOP. 11, 3.</ls> {#स्यस्व, स्यध्वम्, असात्#} und {#असासीत्#} 
 <ls>P. 2, 4, 78.</ls> 
 <ls>VOP. 8, 87. 11, 3.</ls> {#सात्, असुस्#}, ({#वि#}) {#षाहि; ससौ; सेयात्#} 
 <ls>P. 6, 4, 67.</ls> 
@@ -59,7 +59,7 @@
 <div n="1">— 6) {%bestehen auf Etwas%}: {#किमिदं ह्यवसीयते#} 
 <ls>MBH. 12, 554.</ls> {#अवसीयसे#} ed. Bomb. welches 
 <ls>NĪLAK.</ls> durch {#अध्यवस्यसि#} erklärt. 
-<div n="1">— 7) {%entscheiden%} (als Richter): {#अवसेयाश्च#} (=  {#ज्ञास्यसि#} Comm.) {#कार्याणि धर्मेण पुरवासिनाम्#} 
+<div n="1">— 7) {%entscheiden%} (als Richter): {#अवसेयाश्च#} (= {#ज्ञास्यसि#} Comm.) {#कार्याणि धर्मेण पुरवासिनाम्#} 
 <ls>BHAṬṬ. 19, 28.</ls> 
 <div n="1">— 8) {%Gewissheit erlangen über%}, pass. {#°सीयते#} 
 <ls>BHĀG. P. 10, 70, 38. 11, 26, 19.</ls> 
@@ -77,12 +77,12 @@
 <ls>AIT. BR. 5, 25.</ls> {%abgeschlossen, beendigt%}: {#कर्मन्#} 
 <ls>MBH. 1, 4678.</ls> {#कार्य#} 
 <ls>HARIV. 4242</ls> ({#आसादित#} die neuere Ausg.). 
-<ls>11014.</ls> <ls>RAGH. 11, 37.</ls> <ls>MĀLAV. 23, 22.</ls> <ls>PAÑCAT. 202, 18.</ls> <ls>BHĀG. P. 4, 21, 32. 5, 7, 8.</ls> {#दिन#} 
+<ls n="HARIV.">11014.</ls> <ls>RAGH. 11, 37.</ls> <ls>MĀLAV. 23, 22.</ls> <ls>PAÑCAT. 202, 18.</ls> <ls>BHĀG. P. 4, 21, 32. 5, 7, 8.</ls> {#दिन#} 
 <ls>KATHĀS. 86, 133. 111, 50. 119, 160.</ls> {#जादीन्मावसितान्स्पर्शान्#} {%mit%} {#म#} {%endigend%} Comm. zu 
 <ls>AV. PRĀT. 1, 9.</ls> {%in Pause stehend%} 
 <ls>TS. PRĀT. 21, 3.</ls> so v. a. {%aufgegangen in%} (loc.) 
 <ls>BHĀG. P. 3, 28, 36.</ls> {#अवसितत्व#} <lex>n.</lex> {%das Beseitigtsein%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 182.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 182.</ls> 
 <div n="2">— e) {%der von Etwas abgelassen hat, der Etwas aufgegeben hat%}; die Ergänzung im abl. oder im comp. vorangehend: {#कामात्#} 
 <ls>MBH. 12, 7888.</ls> {#प्रव्रज्यावसित#} 
 <ls>YĀJÑ. 2, 183.</ls> 
@@ -120,7 +120,7 @@
 <ls>ŚĀṄKH. ŚR. 3, 19, 12.</ls> 
 <div n="1">— 3) {%sich zur That entschliessen, einen bestimmten Willen an den Tag legen, Etwas beschliessen, wagen, unternehmen%}: {#अष्टमे मासे बुद्ध्याध्यवस्यति#} ein Fötus 
 <ls>NIR. 14, 6.</ls> {#सर्वो हि लोको विचार्याध्यवस्यति#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 91.</ls> {#इति कृत्वाध्यवस्य#} (absol.) {#च#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 91.</ls> {#इति कृत्वाध्यवस्य#} (absol.) {#च#} 
 <ls>R. 7, 9, 47.</ls> {#एवमध्यवसाय#} 
 <ls>BHĀG. P. 4, 14, 13.</ls> die Ergänzung ein acc.: {#नाध्यवास्यद्यदा कश्चित्सागरस्य लङ्घनम्#} 
 <ls>MBH. 3, 16254.</ls> {#°सेत्#} 
@@ -155,7 +155,7 @@
 <ls>RĀJA-TAR. 6, 50.</ls> 
 <div n="2">— d) {%für gewiss erkannt, zur Gewissheit erhoben%}: {#°सितं#} (impers.) {#मया#} 
 <ls>BHĀG. P. 6, 18, 72.</ls> {#°ता#} nom. abstr. 
-<ls>SĀH. D. 109, 20. -</ls> <ls>BHĀG. P. 1, 19, 17</ls> ist {#अध्यवसाययुक्तः#} zu schreiben. Vgl. {#अध्यवसाय#} u.s.w. (in den Nachträgen).
+<ls>SĀH. D. 109, 20.</ls> - <ls>BHĀG. P. 1, 19, 17</ls> ist {#अध्यवसाययुक्तः#} zu schreiben. Vgl. {#अध्यवसाय#} u.s.w. (in den Nachträgen).
 
 <div n="p">— {#अन्वव#} 
 <div n="1"> 1) {%sich halten —, sich anschliessen an%} (acc.): {#पूर्व^म्#} 
@@ -212,7 +212,7 @@
 <ls>Spr. (II) 3691.</ls> {#अद्य पर्यवसितं जीवितप्रयोजनं रामस्य#} 
 <ls>UTTARAR. 22, 5 (29, 9. 10).</ls> <ls>MĀLATĪM. 75, 3. 4.</ls> {#एवं पर्यवसितप्रायैव नो माधवं प्रति प्रत्याशा#} 
 <ls>149, 6.</ls> {#वाक्यार्थ#} so v. a. {%endgültig, definitiv%} 
-<ls>SĀH. D. 303, 11.</ls> <ls>WILSON,</ls> <ls>SĀṂKHYAK. S. 134.</ls> Comm. zu <ls>KAP. 1, 62.</ls> {#°मति#} <lex>adj.</lex> {%vollkommen vertraut mit%} (loc.) 
+<ls>SĀH. D. 303, 11.</ls> <ls>WILSON, SĀṂKHYAK. S. 134.</ls> Comm. zu <ls>KAP. 1, 62.</ls> {#°मति#} <lex>adj.</lex> {%vollkommen vertraut mit%} (loc.) 
 <ls>BHĀG. P. 5, 9, 8.</ls> {#सुपर्यवसितार्थ#} <lex>adj.</lex> dass. 
 <ls>MBH. 12, 7887.</ls> 
 <div n="v">— Vgl. {#पर्यवसान, °सगयिन्#} .
@@ -241,8 +241,8 @@
 <ls>TBR. 1, 8, 4, 2.</ls> 
 <ls>ŚĀṄKH. ŚR. 1, 4, 22.</ls> {#यो विचिन्त्य धिया धीरो व्यवस्यति स बुद्धिमान्#} 
 <ls>MBH. 1, 4242.</ls> {#विदित्वा °सिष्यामि#} 
-<ls>6118.</ls> <ls>Verz. d. Oxf. H. 262</ls>, {%a%}, 
-<ls>3 v. u.</ls> {#°स्यते#} so v. a. {#°सीयते#} pass. impers. 
+<ls>6118.</ls> <ls>Verz. d. Oxf. H. 262,a,</ls> 
+<ls>3</ls> v. u. {#°स्यते#} so v. a. {#°सीयते#} pass. impers. 
 <ls>MBH. 14, 726.</ls> die Ergänzung im acc. 
 <ls>MBH. 4, 1270.</ls> {#कस्त्वेतद्व्यवसेत्#} 
 <ls>7, 9140</ls> (nach der Lesart der ed. Bomb.). {#मनसा चिन्तितानर्थान्बुद्ध्या चेह व्यवस्यति#} 
@@ -254,15 +254,15 @@
 <ls>MBH. 5, 54.</ls> im loc.: {#तदाज्ञापय कः कस्मिन्कुतो वापि °स्यतु#} so v. a. {%was und wo Jmd Etwas unternehmen soll%} 
 <ls>R. 4, 28, 27.</ls> mit {#अर्थम्#} {%zu%}: {#भिक्षार्थं °सीयताम्#} {%man entschliesse sich zu%} 
 <ls>Spr. (II) 3328.</ls> mit infin. {%entschlossen —, Willens sein zu%} 
-<ls>MBH. 1, 4020. 5, 52.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 15, 35. 20, 12. 27, 26. 84, 15. 4, 55, 18.</ls> 
+<ls>MBH. 1, 4020.</ls> <ls n="MBH.">5, 52.</ls> 
+
+<ls>R. GORR. 2, 15, 35. 20, 12. 27, 26. 84, 15. 4, 55, 18.</ls> 
 <ls>ŚĀK. 17. 84.</ls> 
 <ls>MĀRK. P. 61, 17.</ls> {#°सेयम्#} 
 <ls>MBH. 1, 4163.</ls> {#°सामि#} 
 <ls>3, 16800.</ls> 
 <div n="1">— 4) {%eine entschiedene Meinung gewinnen%} oder {%haben, sich überzeugen, überzeugt sein, erkennen%}: {#व्यवस्य सर्वमस्तीति नास्तिक्यं भावमुत्सृज्य#} 
-<ls>MBH. 3, 1200. 5, 6024. 13, 1386.</ls> {#अव्यवस्यन्#} 
+<ls>MBH. 3, 1200.</ls> <ls n="MBH.">5, 6024.</ls> <ls n="MBH.">13, 1386.</ls> {#अव्यवस्यन्#} 
 <ls>ŚĀK. 105, v. l.</ls> {#यथा मे गौतमः प्राह ततो न व्यवसाम्यहम्#} 
 <ls>MBH. 3, 12685.</ls> {#इति °स्य#} 
 <ls>BHĀG. P. 10, 12, 16.</ls> {#°स्यते#} 
@@ -286,13 +286,13 @@
 <ls>HARIV. 9239.</ls> 
 <ls>R. 2, 23, 10. 76, 6. 3, 13, 7. 44, 23.</ls> 
 <ls>MEGH. 112.</ls> 
-<ls>Spr. (II) 284. 526. 1602.</ls> 
+<ls>Spr. (II) 284.</ls> <ls n="Spr. (II)">526.</ls> <ls n="Spr. (II)">1602.</ls> 
 <ls>PRAB. 70, 3.</ls> impers.: {#दिष्ट्यां °सितम्#} 
 <ls>BHĀG. P. 10, 73, 19.</ls> {#तेनापि जीवोत्सर्गाय °सितम्#} 
 <ls>PRAB. 89, 2.</ls> {#°सितं चित्तेन गन्तुं पुरः#} 
 <ls>Spr. (II) 4288.</ls> subst. <lex>n.</lex> {%Beschluss, Entschluss, Vorhaben, Unternehmung%} 
 <ls>MṚCCH. 59, 5.</ls> 
-<ls>Spr. (II) 5203</ls> <ls>?(pl.). BHĀG. P. 1, 13, 35. 3, 22, 22. 4, 9, 19. 12, 32. 6, 18, 70. 10, 71, 18.</ls> {#एवं कृतव्यवसितः#} 
+<ls>Spr. (II) 5203</ls> (pl.). <ls>BHĀG. P. 1, 13, 35. 3, 22, 22. 4, 9, 19. 12, 32. 6, 18, 70. 10, 71, 18.</ls> {#एवं कृतव्यवसितः#} 
 <ls>6, 10, 11.</ls> {#नेह युद्धेन वा शक्यं किंचिद्व्यवसितेन वा#} so v. a. {%muthiger Entschluss%} 
 <ls>R. 5, 9, 27.</ls> 
 <div n="2">— c) {%der einen festen Entschluss gefasst hat entschlossen, den festen Willen habend%} 
@@ -307,7 +307,7 @@
 dat.: {#राज्ञः प्रजातये#} 
 <ls>BHĀG. P. 4, 13, 35.</ls> im infin. 
 <ls>BHAG. 1, 45.</ls> 
-<ls>R. 1, 52, 22 (53, 21 GORR.). 70, 13.</ls> <ls>MṚCCH. 1, 11.</ls> <ls>ŚĀK. 136.</ls> <ls>VIKRAM. 125.</ls> <ls>MĀLAV. 22.</ls> <ls>KATHĀS. 15, 86.</ls> <ls>BHĀG. P. 4, 14, 34.</ls> <ls>Verz. d. Oxf. H. 145</ls>, {%b%}, 26. {#°मति#} mit infin. 
+<ls>R. 1, 52, 22 (53, 21 GORR.). 70, 13.</ls> <ls>MṚCCH. 1, 11.</ls> <ls>ŚĀK. 136.</ls> <ls>VIKRAM. 125.</ls> <ls>MĀLAV. 22.</ls> <ls>KATHĀS. 15, 86.</ls> <ls>BHĀG. P. 4, 14, 34.</ls> <ls>Verz. d. Oxf. H. 145,b,26.</ls> {#°मति#} mit infin. 
 <ls>253,a,13.</ls> 
 <div n="2">— d) {%wovon man sich überzeugt hat, erkannt%} 
 <ls>BHĀG. P. 5, 1, 7. 11, 2, 11.</ls> {#सम्यग्व्यवसितं#} (impers.) {#भवता#} 

@@ -1,6 +1,6 @@
 <L>5399<pc>173<k1>dancing<k2>dancing
-<div n="lb"/>{@DANCING@}¦ (subs.): v. Dance. <div n="xe">{%D. -girl:%}</div> <div n="xs">{#नर्तकी।#}</div>
-<div n="lb"/>{%D. -master:%} <div n="1">(1) {#नाट्याचार्यः#} (of d. and sing-
-<div n="lb"/>-ing); </div><div n="1">(2) {#नर्तयितृ#} (m.), Mal. {%D. -school:%}
-<div n="lb"/>{#नृत्यशाला।#}</div>
+{@DANCING@}¦ (subs.): v. Dance. <div n="xe">{%D. -girl:%}</div> <div n="xs">{#नर्तकी।#}</div>
+{%D. -master:%} <div n="1">(1) {#नाट्याचार्यः#} (of d. and sing-
+-ing); </div><div n="1">(2) {#नर्तयितृ#} (m.), Mal. {%D. -school:%}
+{#नृत्यशाला।#}</div>
 <LEND>

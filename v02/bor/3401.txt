@@ -1,5 +1,5 @@
 <L>3401<pc>113<k1>chamber<k2>chamber
-<div n="lb"/>{@CHAMBER:@}¦ <div n="I">I A room: q. v.: {#कोष्ठः।#} </div><div n="I">II A bed-
-<div n="lb"/>-chamber: q. v. </div><div n="I">III A close space: {#कोष्ठः#} (?).
-<div n="lb"/>Ph. <div n="xe">{%C. of commerce:%}</div> <div n="xs">{#वणिक्सभा#}</div> (?).</div>
+{@CHAMBER:@}¦ <div n="I">I A room: q. v.: {#कोष्ठः।#} </div><div n="I">II A bed-
+-chamber: q. v. </div><div n="I">III A close space: {#कोष्ठः#} (?).
+Ph. <div n="xe">{%C. of commerce:%}</div> <div n="xs">{#वणिक्सभा#}</div> (?).</div>
 <LEND>

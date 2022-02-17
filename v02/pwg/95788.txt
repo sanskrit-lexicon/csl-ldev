@@ -1,12 +1,12 @@
 <L>95788<pc>6-1401<k1>वैधव्य<k2>वैधव्य
 {#वैधव्य#}¦ (wie eben) <lex>n.</lex> {%Wittwenstand%} 
-<ls>MBH. 5, 3198. 8, 4483.</ls> 
-<ls>HARIV. 4256. 4794. 4843. 8856.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 68, 19. 3, 62, 15. 4, 18, 29. 6, 95, 27. 7, 24, 30. 25, 43.</ls> 
+<ls>MBH. 5, 3198.</ls> <ls n="MBH.">8, 4483.</ls> 
+<ls>HARIV. 4256.</ls> <ls n="HARIV.">4794.</ls> <ls n="HARIV.">4843.</ls> <ls n="HARIV.">8856.</ls> 
+
+<ls>R. GORR. 2, 68, 19. 3, 62, 15. 4, 18, 29. 6, 95, 27. 7, 24, 30. 25, 43.</ls> 
 <ls>RAGH. 12, 6.</ls> 
 <ls>KUMĀRAS. 4, 1.</ls> 
-<ls>Spr. (II) 1624. (I) 1563. 2184.</ls> <ls>KIR. 11, 67.</ls> <ls>WEBER, KṚṢṆAJ. 307.</ls> <ls>RĀJA-TAR. 5, 229.</ls> <ls>KULL.</ls> zu <ls>M. 9, 72.</ls> {#बाल°#} 
+<ls>Spr. (II) 1624.</ls> <ls n="Spr.">(I) 1563. 2184.</ls> <ls>KIR. 11, 67.</ls> <ls>WEBER, KṚṢṆAJ. 307.</ls> <ls>RĀJA-TAR. 5, 229.</ls> <ls>KULL.</ls> zu <ls>M. 9, 72.</ls> {#बाल°#} 
 <ls>Spr. (II) 1203.</ls> {#अवैधव्याशिषः#} (von 
 <ls>BOPP</ls> und <ls>BENFEY</ls> fälschlich als adj. gefasst) <ls>MBH. 3, 16725</ls> (<ls>SĀV. 4, 12</ls>). <ls>16873. 5, 362.</ls> Schol. zu <ls>BHAṬṬ. 3, 22.</ls>
 <LEND>

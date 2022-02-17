@@ -1,7 +1,7 @@
 <L>6363<pc>204<k1>diseased<k2>diseased
-<div n="lb"/>{@DISEASED:@}¦ <div n="1">(1) {#रोगग्रस्त#} (f. {#स्ता#}), {%a d. branch:%}
-<div n="lb"/>{#रोगग्रस्ता शाखा,#} S. c.; </div><div n="1">(2) {#रोगोपसृष्ट#} (f. {#ष्टा#}), <div n="xe">{%d.%}
-<div n="lb"/>{%body:%}</div> <div n="xs">{#रोगोपसृष्टतनुः,#}</div> R. viii. 94; </div><div n="1">(3) {#व्याधितः#}
-<div n="lb"/>({#ता, तं#}): v. Sick, ill. Ph.: <div n="xe">{%he is d. both in%}
-<div n="lb"/>{%body and mind:%}</div> <div n="xs">{#*तस्य शरीरमनसी रोगाक्रान्ते।#}</div></div>
+{@DISEASED:@}¦ <div n="1">(1) {#रोगग्रस्त#} (f. {#स्ता#}), {%a d. branch:%}
+{#रोगग्रस्ता शाखा,#} S. c.; </div><div n="1">(2) {#रोगोपसृष्ट#} (f. {#ष्टा#}), <div n="xe">{%d.%}
+{%body:%}</div> <div n="xs">{#रोगोपसृष्टतनुः,#}</div> R. viii. 94; </div><div n="1">(3) {#व्याधितः#}
+({#ता, तं#}): v. Sick, ill. Ph.: <div n="xe">{%he is d. both in%}
+{%body and mind:%}</div> <div n="xs">{#*तस्य शरीरमनसी रोगाक्रान्ते।#}</div></div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>19138<pc>592<k1>respectable<k2>respectable
-<div n="lb"/>{@RESPECTABLE:@}¦ <div n="I">I Honourable: </div><div n="1">(1) {#माननीय#} (f.
-<div n="lb"/>{#या#}); </div><div n="1">(2) {#मान्य#} (f. {#न्या#}); </div><div n="1">(3) {#पूजनीय#} (f. {#या#});</div>
-<div n="lb"/><div n="1">(4) {#पूज्य#} (f. {#ज्या#}); </div><div n="1">(5) {#अर्चनीय#} (f. {#या#}). </div><div n="I">II
-<div n="lb"/>Moderate: q. v.</div>
+{@RESPECTABLE:@}¦ <div n="I">I Honourable: </div><div n="1">(1) {#माननीय#} (f.
+{#या#}); </div><div n="1">(2) {#मान्य#} (f. {#न्या#}); </div><div n="1">(3) {#पूजनीय#} (f. {#या#});</div>
+<div n="1">(4) {#पूज्य#} (f. {#ज्या#}); </div><div n="1">(5) {#अर्चनीय#} (f. {#या#}). </div><div n="I">II
+Moderate: q. v.</div>
 <LEND>

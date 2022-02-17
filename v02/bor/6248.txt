@@ -1,6 +1,6 @@
 <L>6248<pc>200<k1>disagreeable<k2>disagreeable
-<div n="lb"/>{@DISAGREEABLE:@}¦ <div n="I">I Unpleasant, offensive:
-<div n="lb"/>q. v.: {#अनभिमतः#} ({#ता, तं#}). </div><div n="I">II Unamiable,
-<div n="lb"/>peevish: q. v.: {#प्रतीपः#} ({#पा, पं#}). </div><div n="I">III Con-
-<div n="lb"/>-trary, unsuitable: q. v.</div>
+{@DISAGREEABLE:@}¦ <div n="I">I Unpleasant, offensive:
+q. v.: {#अनभिमतः#} ({#ता, तं#}). </div><div n="I">II Unamiable,
+peevish: q. v.: {#प्रतीपः#} ({#पा, पं#}). </div><div n="I">III Con-
+-trary, unsuitable: q. v.</div>
 <LEND>

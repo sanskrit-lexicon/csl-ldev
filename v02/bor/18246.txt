@@ -1,7 +1,7 @@
 <L>18246<pc>559<k1>purse<k2>purse
-<div n="lb"/>{@PURSE@}¦ (subs.): <div n="I">I Lit.: {#धनभस्त्रिका#} (D. ii. has
-<div n="lb"/>{#रत्नभस्त्रिका#}) </div><div n="I">II A treasury: q. v.: {#कोषः।#} </div><div n="I">III
-<div n="lb"/>Prize-money: perh. {#जयधनम्।#} </div><div n="I">IV Money:
-<div n="lb"/>q. v.: {#धनम्,#} <div n="xe">{%having long p.:%}</div> <div n="xs">{#प्रभूतधनशालिन्#}</div>
-<div n="lb"/>(f. {#नी#}). Ph.: <div n="xe">{%sword and p.:%}</div> <div n="xs">{#दण्डकोषौ।#}</div></div>
+{@PURSE@}¦ (subs.): <div n="I">I Lit.: {#धनभस्त्रिका#} (D. ii. has
+{#रत्नभस्त्रिका#}) </div><div n="I">II A treasury: q. v.: {#कोषः।#} </div><div n="I">III
+Prize-money: perh. {#जयधनम्।#} </div><div n="I">IV Money:
+q. v.: {#धनम्,#} <div n="xe">{%having long p.:%}</div> <div n="xs">{#प्रभूतधनशालिन्#}</div>
+(f. {#नी#}). Ph.: <div n="xe">{%sword and p.:%}</div> <div n="xs">{#दण्डकोषौ।#}</div></div>
 <LEND>

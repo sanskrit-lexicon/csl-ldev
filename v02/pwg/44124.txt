@@ -5,14 +5,14 @@
 <ls>ĀŚV. GṚHY. 1, 9.</ls> 
 <ls>GOBH. 1, 9, 26.</ls> 
 <ls>GṚHYASAṂGR. 2, 35.</ls> 
-<ls>MBH. 1, 3034. 13, 1381.</ls> 
+<ls>MBH. 1, 3034.</ls> <ls n="MBH.">13, 1381.</ls> 
 <ls>R. 3, 3, 8.</ls> 
 <ls>P. 1, 3, 56,</ls> 
 <ls>Sch.</ls> {#स्वसुः - संपाद्य °ग्रहणं स राजा#} 
 <ls>RAGH. 7, 26.</ls> {#°संस्कार#} 
 <ls>M. 3, 43.</ls> {#°मन्त्र#} 
 <ls>MBH. 7, 2149.</ls> 
-<ls>HARIV. 717. 736.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
+<ls>HARIV. 717.</ls> <ls n="HARIV.">736.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>RAGH. 8, 7.</ls> 
 <ls>KUMĀRAS. 7, 4.</ls>
 <LEND>

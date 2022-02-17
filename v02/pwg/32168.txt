@@ -9,7 +9,7 @@
 <ls>259, 11.</ls> {#अभ्र°#} 
 <ls>311, 10.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>ŚIŚ. 4, 44.</ls> {#द्विदल#} <lex>adj.</lex> {%entzweigebrochen%} 
-<ls>HARIV. 15522. 15533. 15599.</ls> Vgl. {#चर्म°#} . 
+<ls>HARIV. 15522.</ls> <ls n="HARIV.">15533.</ls> <ls n="HARIV.">15599.</ls> Vgl. {#चर्म°#} . 
 <div n="2">— b) {%Theil%} so v. a. {%Grad%} 
 <ls>VARĀH. BṚH. 18, 4.</ls> 
 <div n="2">— c) <lex>n.</lex> {%Hälfte%} 
@@ -18,7 +18,7 @@
 <ls>an. 2, 493.</ls> 
 <ls>MED.</ls> {#मसूरदलमात्रमुख#} 
 <ls>SUŚR. 1, 25, 2.</ls> {#कोलास्थिदल°#} 
-<ls>?6. VARĀH. BṚH. S. 52,15. 58,27. 82 (80,b),10. SŪRYAS.2,60. 62.3,10.4,15.5,16. 17.</ls> {#अहर्दल, द्युदल#} {%Mittag%} 
+<ls>6.</ls> <ls>VARĀH. BṚH. S. 52,15. 58,27. 82 (80,b),10.</ls> <ls>SŪRYAS.2,60. 62.3,10.4,15.5,16. 17.</ls> {#अहर्दल, द्युदल#} {%Mittag%} 
 <ls>3, 22. 26.</ls> 
 <div n="2">— d) <lex>n.</lex> {%Scheide%} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
@@ -28,12 +28,12 @@
 <ls>H. 1123.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#नीलोत्पलदलश्याम#} 
-<ls>MBH.3, 15533.</ls>
+<ls>MBH. 3, 15533.</ls>
 [Page3-0545]
 {#शय्याम् - वृक्षदलैः कृताम्#} 
 <ls>R. 2, 46, 14.</ls> {#प्रबालदलनिचय#} 
 <ls>SUŚR. 2, 2, 10.</ls> {#दलत्वचं चूतहरीतकीनाम्#} 
-<ls>?67, 8. BHARTṚ. 1, 94. ŚĀK. 69. 70. RAGH. 4, 42. MEGH. 45. VARĀH. BṚH. S. 68, 7. BṚH. 26 (25), 29. KATHĀS. 23, 69. BHĀG. P. 5, 21, 2.</ls> {#बलिवल्गुदलोदर#} 
+<ls>67, 8.</ls> <ls>BHARTṚ. 1, 94.</ls> <ls>ŚĀK. 69. 70.</ls> <ls>RAGH. 4, 42.</ls> <ls>MEGH. 45.</ls> <ls>VARĀH. BṚH. S. 68, 7.</ls> <ls>BṚH. 26 (25), 29.</ls> <ls>KATHĀS. 23, 69.</ls> <ls>BHĀG. P. 5, 21, 2.</ls> {#बलिवल्गुदलोदर#} 
 <ls>4, 21, 16. 24, 50.</ls> <ls>PRAB. 101, 17.</ls> Sehr häufig am Ende von Pflanzennamen (f. {#आ)#}; s. {#उदुम्बरदला, कर्कश°, कामखङ्ग°, क्षार°, खर°, गन्ध°, त्रि°, त्रिशिखि°, त्रिदलिका#}.{# दल = तमालपत्त्र#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— f) = {#घन#} {%Klumpen, Masse, Haufe%} 

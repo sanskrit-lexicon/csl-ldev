@@ -1,9 +1,9 @@
 <L>1504<pc>053<k1>bad<k2>bad
-<div n="lb"/>{@BAD:@}¦ Gen. expr. by the prefixes {#दुर्, कु, अप#}
-<div n="lb"/>etc. and sometimes by the affix {#क:#} {%a b. man%}
-<div n="lb"/>{#दुर्जनः;#} <div n="xe">{%b. weather%}</div> <div n="xs">{#दुर्दिनम्;#}</div> <div n="xe">{%b. luck%}</div> <div n="xs">{#दुर्दैवम्;#}</div> <div n="xe">{%not a%}
-<div n="lb"/>{%b. speaker%}</div> <div n="xs">{#अकद्वदः;#}</div> <div n="xe">{%a b. road%}</div> <div n="xs">{#कदध्वन्#}</div> (m.); <div n="xe">{%b.%}
-<div n="lb"/>{%food%}</div> <div n="xs">{#कदन्नम्;#}</div> <div n="xe">{%b. design%}</div> <div n="xs">{#कुमतिः;#}</div> <div n="xe">{%b. policy%}</div> <div n="xs">{#अपनयः;#}</div> <div n="xe">{%b.%}
-<div n="lb"/>{%reputation%}</div> <div n="xs">{#अपयशः;#}</div> <div n="xe">{%a b. horse%}</div> <div n="xs">{#अश्वकः:#}</div> v. Wicked,
-<div n="lb"/>injurious, unfavourable.
+{@BAD:@}¦ Gen. expr. by the prefixes {#दुर्, कु, अप#}
+etc. and sometimes by the affix {#क:#} {%a b. man%}
+{#दुर्जनः;#} <div n="xe">{%b. weather%}</div> <div n="xs">{#दुर्दिनम्;#}</div> <div n="xe">{%b. luck%}</div> <div n="xs">{#दुर्दैवम्;#}</div> <div n="xe">{%not a%}
+{%b. speaker%}</div> <div n="xs">{#अकद्वदः;#}</div> <div n="xe">{%a b. road%}</div> <div n="xs">{#कदध्वन्#}</div> (m.); <div n="xe">{%b.%}
+{%food%}</div> <div n="xs">{#कदन्नम्;#}</div> <div n="xe">{%b. design%}</div> <div n="xs">{#कुमतिः;#}</div> <div n="xe">{%b. policy%}</div> <div n="xs">{#अपनयः;#}</div> <div n="xe">{%b.%}
+{%reputation%}</div> <div n="xs">{#अपयशः;#}</div> <div n="xe">{%a b. horse%}</div> <div n="xs">{#अश्वकः:#}</div> v. Wicked,
+injurious, unfavourable.
 <LEND>

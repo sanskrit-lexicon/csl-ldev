@@ -1,10 +1,10 @@
 <L>17111<pc>523<k1>pitch<k2>pitch
-<div n="lb"/>{@PITCH@}¦ (v. t.): <div n="I">I To fling, cast: q. v.: {#क्षिपति#}
-<div n="lb"/>({#क्षिप्,#} c. 6.). </div><div n="I">II Of tents: {#रचयति, वि-,#}
-<div n="lb"/>({#रच्,#} c. 10.); {#सज्जयति#} (c. of {#सज्ज्#}), M. n.;
-<div n="lb"/>{#प्रतिविदधाति#} ({#धा,#} c. 3.), R. xiii. 79. </div><div n="I">III Of
-<div n="lb"/>times: {#सं-स्थापयति#} (c. of {#स्था#}). </div><div n="I">IV Of prices:
-<div n="lb"/>{#स्थिरीकरोति।#} </div><div n="I">V To smear with p.: {#तिन्दुना #}
-<div n="lb"/>{# लिम्पति#} ({#लिप,#} c. 6.) etc. Ph.: {%p. ed battle:%}
-<div n="lb"/>{#तुमुलं युद्धम्,#} Mah. viii.</div>
+{@PITCH@}¦ (v. t.): <div n="I">I To fling, cast: q. v.: {#क्षिपति#}
+({#क्षिप्,#} c. 6.). </div><div n="I">II Of tents: {#रचयति, वि-,#}
+({#रच्,#} c. 10.); {#सज्जयति#} (c. of {#सज्ज्#}), M. n.;
+{#प्रतिविदधाति#} ({#धा,#} c. 3.), R. xiii. 79. </div><div n="I">III Of
+times: {#सं-स्थापयति#} (c. of {#स्था#}). </div><div n="I">IV Of prices:
+{#स्थिरीकरोति।#} </div><div n="I">V To smear with p.: {#तिन्दुना #}
+{# लिम्पति#} ({#लिप,#} c. 6.) etc. Ph.: {%p. ed battle:%}
+{#तुमुलं युद्धम्,#} Mah. viii.</div>
 <LEND>

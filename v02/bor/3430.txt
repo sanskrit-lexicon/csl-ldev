@@ -1,7 +1,7 @@
 <L>3430<pc>114<k1>channel<k2>channel
-<div n="lb"/>{@CHANNEL@}¦ (subs.): <div n="I">I The bed of a stream:
-<div n="lb"/>{#गर्भः।#} </div><div n="I">II Current: q. v.: {#स्रोतस्#} (n.) </div><div n="I">III A
-<div n="lb"/>canal: {#प्रणाली।#} </div><div n="I">IV A strait.: q. v.: {#*सागर-#}
-<div n="lb"/>{#सन्धिः।#} </div><div n="I">V A furrow, as in a column: {#रेखा।#}</div>
-<div n="lb"/><div n="I">VI Means of conveying (as of news): {#मार्गः।#}</div>
+{@CHANNEL@}¦ (subs.): <div n="I">I The bed of a stream:
+{#गर्भः।#} </div><div n="I">II Current: q. v.: {#स्रोतस्#} (n.) </div><div n="I">III A
+canal: {#प्रणाली।#} </div><div n="I">IV A strait.: q. v.: {#*सागर-#}
+{#सन्धिः।#} </div><div n="I">V A furrow, as in a column: {#रेखा।#}</div>
+<div n="I">VI Means of conveying (as of news): {#मार्गः।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>1753<pc>037-b<k1>banker<k2>banker
-<div n="lb"/>BANKER¦, {%s.%} (Keeper of a bank) {#धनागारपतिः#} {%m.,%} {#मुद्रागारपतिः#}. — 
-<div n="lb"/>(Trader in money) {#कुसीदिकः, कलोपजीवी#} {%m.%} ({#न्#}).
+BANKER¦, {%s.%} (Keeper of a bank) {#धनागारपतिः#} {%m.,%} {#मुद्रागारपतिः#}. — 
+(Trader in money) {#कुसीदिकः, कलोपजीवी#} {%m.%} ({#न्#}).
 <LEND>

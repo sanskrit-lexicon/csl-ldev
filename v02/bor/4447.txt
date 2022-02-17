@@ -1,5 +1,5 @@
 <L>4447<pc>144<k1>conjunction<k2>conjunction
-<div n="lb"/>{@CONJUNCTION:@}¦ <div n="I">I Union: q. v. </div><div n="I">II In gram.:
-<div n="lb"/>{#समुच्चयार्थकमव्ययम्।#} </div><div n="I">III In astro.: {#योगः, सं-,#}
-<div n="lb"/><div n="xe">{%Planetary c.:%}</div> <div n="xs">{#ग्रहयोर्योगः,#}</div> Su.</div>
+{@CONJUNCTION:@}¦ <div n="I">I Union: q. v. </div><div n="I">II In gram.:
+{#समुच्चयार्थकमव्ययम्।#} </div><div n="I">III In astro.: {#योगः, सं-,#}
+<div n="xe">{%Planetary c.:%}</div> <div n="xs">{#ग्रहयोर्योगः,#}</div> Su.</div>
 <LEND>

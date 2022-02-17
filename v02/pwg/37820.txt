@@ -3,9 +3,9 @@
 <div n="1"> 1) <lex>adj.</lex> subst. {%von Menschen gefahren, gezogen%}; Beiw. und N. des <is>Kuvera</is> 
 <ls>AK. 1, 1, 1, 64.</ls> 
 <ls>H. 189.</ls> 
-<ls>MBH. 3, 8358. 15902.</ls> 
+<ls>MBH. 3, 8358.</ls> <ls n="MBH. 3,">15902.</ls> 
 <ls>ARJ. 4, 13.</ls> 
-<ls>HARIV. 2466. 2470.</ls> 
+<ls>HARIV. 2466.</ls> <ls n="HARIV.">2470.</ls> 
 <ls>R. 3, 54, 5.</ls> 
 <ls>RAGH. 9, 11.</ls> 
 <ls>VARĀH. BṚH. S. 58, 57.</ls> 

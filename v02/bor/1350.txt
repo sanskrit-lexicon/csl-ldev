@@ -1,6 +1,6 @@
 <L>1350<pc>048<k1>attributable<k2>attributable
-<div n="lb"/>{@ATTRIBUTABLE:@}¦ <div n="1">(1) {#आरोपणीयः#} ({#या, यं#}); </div><div n="1">(2)
-<div n="lb"/>{#अध्यारोपणीयः#} ({#या, यं#}). Ph.: <div n="xe">{%it was a. to you%}
-<div n="lb"/>{%that we did not take the fort%}</div> <div n="xs">{#*त्वन्निमित्तं दुर्गं न #}
-<div n="lb"/>{# गृहीतम्।#}</div></div>
+{@ATTRIBUTABLE:@}¦ <div n="1">(1) {#आरोपणीयः#} ({#या, यं#}); </div><div n="1">(2)
+{#अध्यारोपणीयः#} ({#या, यं#}). Ph.: <div n="xe">{%it was a. to you%}
+{%that we did not take the fort%}</div> <div n="xs">{#*त्वन्निमित्तं दुर्गं न #}
+{# गृहीतम्।#}</div></div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>15002<pc>458<k1>most<k2>most
-<div n="lb"/>{@MOST@}¦ (adj.): <div n="I">I In number: {#प्रायेण सर्वे#} (f. {#र्वा,#}
-<div n="lb"/>n. {#र्वाणि#}): v. All, many. </div><div n="I">II Greatest:
-<div n="lb"/>{#निरतिशयः#} ({#या, यं#}). Ph.: <div n="xe">{%at the m.%}</div> <div n="xs">{#अन्ततः;#}</div> <div n="xe">{%to%}
-<div n="lb"/>{%the m. of one's ability:%}</div> <div n="xs">{#यावच्छक्तितः;#}</div> <div n="xe">{%for the m.%}
-<div n="lb"/>{%part:%}</div> <div n="xs">{#प्रायेण।#}</div></div>
+{@MOST@}¦ (adj.): <div n="I">I In number: {#प्रायेण सर्वे#} (f. {#र्वा,#}
+n. {#र्वाणि#}): v. All, many. </div><div n="I">II Greatest:
+{#निरतिशयः#} ({#या, यं#}). Ph.: <div n="xe">{%at the m.%}</div> <div n="xs">{#अन्ततः;#}</div> <div n="xe">{%to%}
+{%the m. of one's ability:%}</div> <div n="xs">{#यावच्छक्तितः;#}</div> <div n="xe">{%for the m.%}
+{%part:%}</div> <div n="xs">{#प्रायेण।#}</div></div>
 <LEND>

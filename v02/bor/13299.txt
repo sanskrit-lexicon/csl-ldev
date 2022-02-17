@@ -1,16 +1,16 @@
 <L>13299<pc>409<k1>lay<k2>lay
-<div n="lb"/>{@LAY@}¦ (v.): <div n="I">I To place, put: q. v.: {#निदधाति#} [Page410]
-<div n="lb"/>({#धा,#} c. 3.). </div><div n="I">II To cause to lie: {#शाययति#}
-<div n="lb"/>(c. of {#शी#}) (rare): v. To lie. </div><div n="I">III To fell:
-<div n="lb"/>q. v.: {#पातयति#} (c. of {#पत्#}). </div><div n="I">IV Miscell.: <div n="xe">{%to l.%}
-<div n="lb"/>{%dust:%}</div> <div n="xs">{#रजः शमयति,#}</div> Ki. vi. 27.; <div n="xe">{%to l. eggs:%}</div> <div n="xs">{#अण्डक-#}
-<div n="lb"/>{#विमोक्षणं करोति,#}</div> P. (H. has {#प्रसूते,#} not {#अण्डानि प्रसूते: #}
-<div n="lb"/>{# डिम्बान् ददाति#} is used in the vernacular); <div n="xe">{%to l.%}
-<div n="lb"/>{%a snare:%}</div> <div n="xs">{#उन्माथं प्रयोजयति,#}</div> Mah.; <div n="xe">{%to l. com-%}
-<div n="lb"/>{%mand:%}</div> <div n="xs">{#शासनं प्रयोजयति;#}</div> <div n="xe">{%to l. paint, etc:%}</div> <div n="xs">{#रङ्गं,#}</div> etc.
-<div n="lb"/>{#ददाति;#} <div n="xe">{%to l. siege:%}</div> <div n="xs">{#रोधं करोति,#}</div> (with gen.);
-<div n="lb"/><div n="xe">{%“when the winds are laid”:%}</div> <div n="xs">{#शान्ते वाते;#}</div> <div n="xe">{%l. blame%}
-<div n="lb"/>{%upon:%}</div> <div n="xs">{#दोषम् आरोपयति#}</div> (c. of {#रुह्#}) (with loc.);
-<div n="lb"/><div n="xe">{%to l. waste:%}</div> <div n="xs">{#खिलीकरोति:#}</div> v. To devastate; <div n="xe">{%to l.%}
-<div n="lb"/>{%a tax, etc.:%}</div> <div n="xs">{#करं,#}</div> etc. {#स्थापयति#} (c. of {#स्था#}).</div>
+{@LAY@}¦ (v.): <div n="I">I To place, put: q. v.: {#निदधाति#} [Page410]
+({#धा,#} c. 3.). </div><div n="I">II To cause to lie: {#शाययति#}
+(c. of {#शी#}) (rare): v. To lie. </div><div n="I">III To fell:
+q. v.: {#पातयति#} (c. of {#पत्#}). </div><div n="I">IV Miscell.: <div n="xe">{%to l.%}
+{%dust:%}</div> <div n="xs">{#रजः शमयति,#}</div> Ki. vi. 27.; <div n="xe">{%to l. eggs:%}</div> <div n="xs">{#अण्डक-#}
+{#विमोक्षणं करोति,#}</div> P. (H. has {#प्रसूते,#} not {#अण्डानि प्रसूते: #}
+{# डिम्बान् ददाति#} is used in the vernacular); <div n="xe">{%to l.%}
+{%a snare:%}</div> <div n="xs">{#उन्माथं प्रयोजयति,#}</div> Mah.; <div n="xe">{%to l. com-%}
+{%mand:%}</div> <div n="xs">{#शासनं प्रयोजयति;#}</div> <div n="xe">{%to l. paint, etc:%}</div> <div n="xs">{#रङ्गं,#}</div> etc.
+{#ददाति;#} <div n="xe">{%to l. siege:%}</div> <div n="xs">{#रोधं करोति,#}</div> (with gen.);
+<div n="xe">{%“when the winds are laid”:%}</div> <div n="xs">{#शान्ते वाते;#}</div> <div n="xe">{%l. blame%}
+{%upon:%}</div> <div n="xs">{#दोषम् आरोपयति#}</div> (c. of {#रुह्#}) (with loc.);
+<div n="xe">{%to l. waste:%}</div> <div n="xs">{#खिलीकरोति:#}</div> v. To devastate; <div n="xe">{%to l.%}
+{%a tax, etc.:%}</div> <div n="xs">{#करं,#}</div> etc. {#स्थापयति#} (c. of {#स्था#}).</div>
 <LEND>

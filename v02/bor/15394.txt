@@ -1,13 +1,13 @@
 <L>15394<pc>471<k1>news<k2>news
-<div n="lb"/>{@NEWS:@}¦ <div n="1">(1) {#वार्त्ता,#} {%distressed on hearing the n.:%}
-<div n="lb"/>{#विदितवार्त्तावार्त्तौ,#} D. i.; <div n="xe">{%without (any) n.:%}</div> <div n="xs">{#वार्त्तया #}
-<div n="lb"/>{# विना;#}</div> K.; </div><div n="1">(2) {#वृत्तान्तः,#} {%what n. of your friend:%}
-<div n="lb"/>{#को वृत्तान्तस्ते सख्याः,#} Mal. iv.; {%is there any n.:%}
-<div n="lb"/>{#अस्ति नवीनः कोऽपि वृत्तान्तः,#} Pri. i.; </div><div n="1">(3) {#प्रवृत्तिः,#}
-<div n="lb"/><div n="xe">{%receiving our n. from the son of Wind:%}</div> <div n="xs">{#प्रामञ्जने-#}
-<div n="lb"/>{#रस्मत्प्रवृत्तिमुपलम्य,#}</div> Vi.; <div n="xe">{%was the conveyer of bad%}
-<div n="lb"/>{%n.:%}</div> <div n="xs">{#दुष्प्रवृत्तिहराऽभवत्,#}</div> R. xii. 51. Ph.: <div n="xe">{%good%}
-<div n="lb"/>{%n.:%}</div> <div n="xs">{#भद्रम्, शुभम्,#}</div> etc.; <div n="xe">{%bad n.:%}</div> <div n="xs">{#अशुभम्,#}</div> etc.;
-<div n="lb"/><div n="xe">{%pleasant n.:%}</div> <div n="xs">{#प्रियम्,#}</div> Sa.; {%this is no n. to me:%}
-<div n="lb"/>{#नेयं नवा वार्त्ता।#}</div>
+{@NEWS:@}¦ <div n="1">(1) {#वार्त्ता,#} {%distressed on hearing the n.:%}
+{#विदितवार्त्तावार्त्तौ,#} D. i.; <div n="xe">{%without (any) n.:%}</div> <div n="xs">{#वार्त्तया #}
+{# विना;#}</div> K.; </div><div n="1">(2) {#वृत्तान्तः,#} {%what n. of your friend:%}
+{#को वृत्तान्तस्ते सख्याः,#} Mal. iv.; {%is there any n.:%}
+{#अस्ति नवीनः कोऽपि वृत्तान्तः,#} Pri. i.; </div><div n="1">(3) {#प्रवृत्तिः,#}
+<div n="xe">{%receiving our n. from the son of Wind:%}</div> <div n="xs">{#प्रामञ्जने-#}
+{#रस्मत्प्रवृत्तिमुपलम्य,#}</div> Vi.; <div n="xe">{%was the conveyer of bad%}
+{%n.:%}</div> <div n="xs">{#दुष्प्रवृत्तिहराऽभवत्,#}</div> R. xii. 51. Ph.: <div n="xe">{%good%}
+{%n.:%}</div> <div n="xs">{#भद्रम्, शुभम्,#}</div> etc.; <div n="xe">{%bad n.:%}</div> <div n="xs">{#अशुभम्,#}</div> etc.;
+<div n="xe">{%pleasant n.:%}</div> <div n="xs">{#प्रियम्,#}</div> Sa.; {%this is no n. to me:%}
+{#नेयं नवा वार्त्ता।#}</div>
 <LEND>

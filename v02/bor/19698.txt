@@ -1,9 +1,9 @@
 <L>19698<pc>612<k1>salute<k2>salute
-<div n="lb"/>{@SALUTE@}¦ (v.): <div n="1">(1) {#वन्दते, अभि-#} ({#वन्द्,#} c. 1.), <div n="xe">{%I s.%}
-<div n="lb"/>{%the parents of the world:%}</div> <div n="xs">{#जगतः पितरौ वन्दे,#}</div> R.;</div>
-<div n="lb"/><div n="1">(2) {#अभिवादयति, -ते#} (c. of {#वद्#} = to greet:
-<div n="lb"/>q. v.); <div n="xe">{%I s. thee:%}</div> <div n="xs">{#अभिवादये,#}</div> Ve. vi.; </div><div n="1">(3) {#नमति, #}
-<div n="lb"/>{# प्र-,#} ({#नम्,#} c. 1.: prop. to make a bow),
-<div n="lb"/><div n="xe">{%always s. Suyodhana:%}</div> <div n="xs">{#प्रणमन्ति सदा सुयोधनम्;#}</div>
-<div n="lb"/>Ki. ii. 44.</div>
+{@SALUTE@}¦ (v.): <div n="1">(1) {#वन्दते, अभि-#} ({#वन्द्,#} c. 1.), <div n="xe">{%I s.%}
+{%the parents of the world:%}</div> <div n="xs">{#जगतः पितरौ वन्दे,#}</div> R.;</div>
+<div n="1">(2) {#अभिवादयति, -ते#} (c. of {#वद्#} = to greet:
+q. v.); <div n="xe">{%I s. thee:%}</div> <div n="xs">{#अभिवादये,#}</div> Ve. vi.; </div><div n="1">(3) {#नमति, #}
+{# प्र-,#} ({#नम्,#} c. 1.: prop. to make a bow),
+<div n="xe">{%always s. Suyodhana:%}</div> <div n="xs">{#प्रणमन्ति सदा सुयोधनम्;#}</div>
+Ki. ii. 44.</div>
 <LEND>

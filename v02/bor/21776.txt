@@ -1,8 +1,8 @@
 <L>21776<pc>686<k1>substitute<k2>substitute
-<div n="lb"/>{@SUBSTITUTE@}¦ (v.): <div n="1">(1) {#परिवर्तयति#} (c. of {#वृत्#}): v.
-<div n="lb"/>To change, exchange; </div><div n="1">(2) {#स्थाने निवेशयति#}
-<div n="lb"/>(c. of {#विश्#} =to put: q. v.), <div n="xe">{%s. d Sugriva for%}
-<div n="lb"/>{%him:%}</div> <div n="xs">{#तत्पदे सुग्रीवं संन्यवेशयत्,#}</div> R. xii. 58.;
-<div n="lb"/><div n="xe">{%Ādeśa is one word s. d for another:%}</div> <div n="xs">{#आदेशो नाम #}
-<div n="lb"/>{# शब्दान्तरस्य स्थाने विधीयमानं शब्दान्तरम्,#}</div> M. n.</div>
+{@SUBSTITUTE@}¦ (v.): <div n="1">(1) {#परिवर्तयति#} (c. of {#वृत्#}): v.
+To change, exchange; </div><div n="1">(2) {#स्थाने निवेशयति#}
+(c. of {#विश्#} =to put: q. v.), <div n="xe">{%s. d Sugriva for%}
+{%him:%}</div> <div n="xs">{#तत्पदे सुग्रीवं संन्यवेशयत्,#}</div> R. xii. 58.;
+<div n="xe">{%Ādeśa is one word s. d for another:%}</div> <div n="xs">{#आदेशो नाम #}
+{# शब्दान्तरस्य स्थाने विधीयमानं शब्दान्तरम्,#}</div> M. n.</div>
 <LEND>

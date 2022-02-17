@@ -1,5 +1,5 @@
 <L>10750<pc>338<k1>healer<k2>healer
-<div n="lb"/>{@HEALER:@}¦ <div n="I">I Physician: q.v. </div><div n="I">II That which
-<div n="lb"/>heals: </div><div n="1">(1) {#-घ्न#} (f. {#घ्नी#}) in comp. (= killing);</div>
-<div n="lb"/><div n="1">(2) {#-हर#} (f. {#री#}) (= removing).</div>
+{@HEALER:@}¦ <div n="I">I Physician: q.v. </div><div n="I">II That which
+heals: </div><div n="1">(1) {#-घ्न#} (f. {#घ्नी#}) in comp. (= killing);</div>
+<div n="1">(2) {#-हर#} (f. {#री#}) (= removing).</div>
 <LEND>

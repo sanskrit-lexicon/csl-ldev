@@ -1,10 +1,10 @@
 <L>8770<pc>278<k1>fine<k2>fine
-<div n="lb"/>{@FINE@}¦ (adj.): <div n="I">I Not coarse or heavy: {#सूक्ष्म#}
-<div n="lb"/>(f. {#क्ष्मा#}), <div n="xe">{%coarse and f.:%}</div> <div n="xs">{#स्थूलः सूक्ष्मः,#}</div> Ku. ii. 11.;
-<div n="lb"/><div n="xe">{%f. thread:%}</div> <div n="xs">{#सूक्ष्मतन्तुः#}</div> V. d.; <div n="xe">{%of f. intellect:%}</div> <div n="xs">{#सूक्ष्मबुद्धि#}</div>
-<div n="lb"/>(mfn.) M. n. </div><div n="I">II Excellent, good: q. v. </div><div n="1">(1)
-<div n="lb"/>{#उत्कृष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(2) {#सु-#} in comp., <div n="xe">{%having f.%}
-<div n="lb"/>{%teeth:%}</div> <div n="xs">{#सुदत्#}</div> (f. {#ती#}), N. </div><div n="I">III Beautiful, ele-
-<div n="lb"/>-gant: {#शोभनः#} ({#ना, नं#}), <div n="xe">{%f. language:%}</div> <div n="xs">{#शोभनोक्तिः;#}</div>
-<div n="lb"/><div n="xe">{%oh. f. lady:%}</div> <div n="xs">{#शोभने,#}</div> Mah. </div><div n="I">IV Artful: q. v.</div>
+{@FINE@}¦ (adj.): <div n="I">I Not coarse or heavy: {#सूक्ष्म#}
+(f. {#क्ष्मा#}), <div n="xe">{%coarse and f.:%}</div> <div n="xs">{#स्थूलः सूक्ष्मः,#}</div> Ku. ii. 11.;
+<div n="xe">{%f. thread:%}</div> <div n="xs">{#सूक्ष्मतन्तुः#}</div> V. d.; <div n="xe">{%of f. intellect:%}</div> <div n="xs">{#सूक्ष्मबुद्धि#}</div>
+(mfn.) M. n. </div><div n="I">II Excellent, good: q. v. </div><div n="1">(1)
+{#उत्कृष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(2) {#सु-#} in comp., <div n="xe">{%having f.%}
+{%teeth:%}</div> <div n="xs">{#सुदत्#}</div> (f. {#ती#}), N. </div><div n="I">III Beautiful, ele-
+-gant: {#शोभनः#} ({#ना, नं#}), <div n="xe">{%f. language:%}</div> <div n="xs">{#शोभनोक्तिः;#}</div>
+<div n="xe">{%oh. f. lady:%}</div> <div n="xs">{#शोभने,#}</div> Mah. </div><div n="I">IV Artful: q. v.</div>
 <LEND>

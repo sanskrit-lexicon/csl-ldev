@@ -4,7 +4,7 @@
 <ls>AK. 2, 8, 1, 19. 20.</ls> 
 <ls>H. 740.</ls> 
 <ls>an. 3, 704.</ls> 
-<ls>MED. v. 40.</ls> <ls>HALĀY. 5, 69.</ls> <ls>M. 1, 84. 7, 7.</ls> <ls>N. 3, 24.</ls> <ls>MBH. 3, 11905. 12035. 13, 651. 2808.</ls> <ls>R. 1, 8, 1. 2, 23, 38.</ls> <ls>RAGH. 2, 41. 62. 71. 3, 40.</ls> <ls>KUMĀRAS. 7, 36.</ls> <ls>ŚĀK. 50, 5.</ls> <ls>VIKR. 30. 72.</ls> <ls>Spr. 1799.</ls> <ls>VID. 334.</ls> <ls>KATHĀS. 17, 139. 37, 181. 45, 94. 49, 84. 250.</ls> {#कृष्णवर्णो विरूपश्च प्रभावः को ऽपि तस्य तु#} 
+<ls>MED. v. 40.</ls> <ls>HALĀY. 5, 69.</ls> <ls>M. 1, 84. 7, 7.</ls> <ls>N. 3, 24.</ls> <ls>MBH. 3, 11905.</ls> <ls n="MBH. 3,">12035.</ls> <ls n="MBH.">13, 651.</ls> <ls n="MBH. 13,">2808.</ls> <ls>R. 1, 8, 1. 2, 23, 38.</ls> <ls>RAGH. 2, 41. 62. 71. 3, 40.</ls> <ls>KUMĀRAS. 7, 36.</ls> <ls>ŚĀK. 50, 5.</ls> <ls>VIKR. 30. 72.</ls> <ls>Spr. 1799.</ls> <ls>VID. 334.</ls> <ls>KATHĀS. 17, 139. 37, 181. 45, 94. 49, 84. 250.</ls> {#कृष्णवर्णो विरूपश्च प्रभावः को ऽपि तस्य तु#} 
 <ls>SOM. NALA 158.</ls> <ls>BHĀG. P. 3, 26, 16. 8, 7, 41.</ls> {#गत°#} <lex>adj.</lex> 
 <ls>PAÑCAT. 29, 15.</ls> {#अप्रतिम°#} <lex>adj.</lex> 
 <ls>BHAG. 11, 43.</ls> {#दिव्यप्रभावा#} 
@@ -24,7 +24,7 @@
 <ls>MĀRK. P. 116, 51.</ls> {#धनस्य#} 
 <ls>Spr. 1811.</ls> {#बीजप्रभावेण#} 
 <ls>M. 10, 72.</ls> {#तपोबीजप्रभावैः#} 
-<ls>?42. BRAHMA-P. in LA. 53, 15.</ls> {#केन शक्तिप्रभावेण राज्यं रक्षितुमुत्सहे#} 
+<ls>42.</ls> <ls>BRAHMA-P. in LA. 53, 15.</ls> {#केन शक्तिप्रभावेण राज्यं रक्षितुमुत्सहे#} 
 <ls>R. 2, 73, 12.</ls> {#विद्याधरीविद्याप्रभावेण#} 
 <ls>VID. 159.</ls> {#तत्प्रयोगप्रभावेण#} 
 <ls>KATHĀS. 37, 74. 42, 102.</ls> 
@@ -42,7 +42,7 @@
 [Page4-1041]
 ({#रुचिरप्रभावा सभा#}). 
 <ls>R. GORR. 1, 38, 30</ls> liest {#प्रभाव#} st. {#प्रभव#} der anderen Recension 
-<ls>?(37, 28). Nach MED.</ls> bedeutet das Wort auch {#शान्ति#}, welches aber vielleicht nur ein Fehler für {#शक्ति#} ist. 
+(<ls>37, 28).</ls> nach <ls>MED.</ls> bedeutet das Wort auch {#शान्ति#}, welches aber vielleicht nur ein Fehler für {#शक्ति#} ist. 
 <div n="1">— 2) Bez. der Kapitel in der <is>Rasikapriyā</is> 
 <ls>Verz. d. B. H. No. 1377.</ls> 
 <div n="1">— 3) N. pr. eines Sohnes des <is>Manu</is> <is>Svarocis</is> 

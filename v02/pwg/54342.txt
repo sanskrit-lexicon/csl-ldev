@@ -12,7 +12,7 @@
 [Page5-0226]
 {#भूतभव्यभविष्यज्ञैः#} 
 <ls>Spr. 4668.</ls> 
-<ls>MBH. 4, 290. 14, 1077.</ls> {#भूतं भव्यं भविता(!) च#} 
+<ls>MBH. 4, 290.</ls> <ls n="MBH.">14, 1077.</ls> {#भूतं भव्यं भविता(!) च#} 
 <ls>7, 9468.</ls> {#सर्व\ं भूत\ं सर्व\ं भव्यं यच्चा\तो ऽधि^ भवि\ष्यति^#} 
 <ls>TS. 3, 12. 8, 3. 7, 10, 3.</ls> 
 <ls>TS. 3, 3, 5, 1.</ls> {#सन्तो गतिर्भूतभव्यस्य#} 
@@ -25,7 +25,7 @@
 <ls>H. an. 2, 373. fg.</ls> 
 <ls>MED. y. 41.</ls> <ls>AIT. BR. 4, 6.</ls> {#भूतभव्यभवन्नाथ#} 
 <ls>MĀRK. P. 79, 7.</ls> 
-<ls>PAÑCAR. 4, 3,</ls> <ls>?49; vgl. Ind. St. 1, 113.</ls> {#भवद्भूतभव्ये#} {%in der Gegenwart, Vergangenheit und Zukunft%} 
+<ls>PAÑCAR. 4, 3,</ls> <ls>49</ls>; vgl. <ls>Ind. St. 1, 113.</ls> {#भवद्भूतभव्ये#} {%in der Gegenwart, Vergangenheit und Zukunft%} 
 <ls>VOP. 25. 1, 5, 26.</ls> Die Stelle des fut. von {#भू#} vertretend 
 <ls>MBH. 4, 928, v. l.</ls> für {#भाव्य#} . 
 <div n="2">— c) {%im Begriff stehend zu werden%}; s. {#धेनुंभव्या#} . 
@@ -48,7 +48,7 @@
 <ls>DHŪRTAS.</ls> in <ls>LA. 92, 8.</ls> {#°शय्या#} 
 <ls>PAÑCAT. 138, 11.</ls> {#°प्रदेश#} 
 <ls>215, 6.</ls> <ls>Spr. 1365.</ls> {#भोजन#} {%vorzüglich%} 
-<ls>PAÑCAT. 228, 24</ls> <ls>?(s. BENFEY zu d. St.).</ls> {#काव्ये भव्यतमे#} 
+<ls>PAÑCAT. 228, 24</ls> (s. <ls>BENFEY</ls> zu d. St.). {#काव्ये भव्यतमे#} 
 <ls>Spr. 660.</ls> = {#शुभ#} 
 <ls>H. an.</ls> <ls>MED. m. n.</ls> = {#रसभेद#} {%das Schöne%} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
@@ -72,11 +72,11 @@
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) N. einer Pflanze, {%Averrhoa Carambola I in.%} (n. {%die Frucht)%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 13, 2836.</ls> <ls>HARIV. 12680.</ls> <ls>R. 2, 94, 8 (103, 8 GORR.).</ls> <ls>SUŚR. 1, 157, 5. 209, 5. 210, 20. 2, 482. 18.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (II) 51, 16.</ls> 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 13, 2836.</ls> <ls>HARIV. 12680.</ls> <ls>R. 2, 94, 8 (103, 8 GORR.).</ls> <ls>SUŚR. 1, 157, 5. 209, 5. 210, 20. 2, 482. 18.</ls> <ls>BRAHMA-P. in LA. (II) 51, 16.</ls> 
 <div n="2">— b) eine Klasse von Göttern unter dem <is>Manu</is> <is>Cākṣuṣa</is> 
 <ls>VP. 263.</ls> 
 <ls>MĀRK. P. 76, 51.</ls> 
-<div n="2">— c) N. pr. eines Sohnes des <is>Dhruva</is> {%(Polarsterns)%} 
+<div n="2">— c) N. pr. eines Sohnes des <is>Dhruva</is> ({%Polarsterns%}) 
 <ls>HARIV. 67.</ls> 
 <ls>VP. 98.</ls> 
 <div n="2">— d) N. pr. eines Sohnes des <is>Priyavrata</is> 

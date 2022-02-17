@@ -1,7 +1,7 @@
 <L>6153<pc>198<k1>digestion<k2>digestion
-<div n="lb"/>{@DIGESTION:@}¦ <div n="I">I Arrangement: q. v. </div><div n="I">II Of
-<div n="lb"/>food: </div><div n="1">(1) {#पाकः, परि-,#} </div><div n="1">(2) {#जीर्णता।#} </div><div n="I">III
-<div n="lb"/>Digestive power: {#अग्निः,#} <div n="xe">{%and those persons%}
-<div n="lb"/>{%who have good d.:%}</div> <div n="xs">{#ये च दीप्ताग्नयो नराः,#}</div> Sr.; <div n="xe">{%of%}
-<div n="lb"/>{%weak d.:%}</div> <div n="xs">{#मन्दाग्नि#}</div> (mfn.), Sr.</div>
+{@DIGESTION:@}¦ <div n="I">I Arrangement: q. v. </div><div n="I">II Of
+food: </div><div n="1">(1) {#पाकः, परि-,#} </div><div n="1">(2) {#जीर्णता।#} </div><div n="I">III
+Digestive power: {#अग्निः,#} <div n="xe">{%and those persons%}
+{%who have good d.:%}</div> <div n="xs">{#ये च दीप्ताग्नयो नराः,#}</div> Sr.; <div n="xe">{%of%}
+{%weak d.:%}</div> <div n="xs">{#मन्दाग्नि#}</div> (mfn.), Sr.</div>
 <LEND>

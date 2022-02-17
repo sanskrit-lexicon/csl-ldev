@@ -1,7 +1,7 @@
 <L>24059<pc>752<k1>wander<k2>wander
-<div n="lb"/>{@WANDER:@}¦ <div n="1">(1) {#भ्रमति#} <div n="xe">{%or%}</div> <div n="xs">{#भ्राम्यति, परि-#}</div> ({#भ्रम्,#} c. 1.
-<div n="lb"/>and 4.), <div n="xe">{%w. ed about the world:%}</div> <div n="xs">{#परिबभ्राम #}
-<div n="lb"/>{# मेदिनीम्,#}</div> V. p.; </div><div n="1">(2) {#अटति#} ({#अट्,#} c. 1.), <div n="xe">{%w.ing%}
-<div n="lb"/>{%through forest again and again:%}</div> <div n="xs">{#अटाट्यमानोऽ-#}
-<div n="lb"/>{#रण्यानीम्,#}</div> B. iv. 2.</div>
+{@WANDER:@}¦ <div n="1">(1) {#भ्रमति#} <div n="xe">{%or%}</div> <div n="xs">{#भ्राम्यति, परि-#}</div> ({#भ्रम्,#} c. 1.
+and 4.), <div n="xe">{%w. ed about the world:%}</div> <div n="xs">{#परिबभ्राम #}
+{# मेदिनीम्,#}</div> V. p.; </div><div n="1">(2) {#अटति#} ({#अट्,#} c. 1.), <div n="xe">{%w.ing%}
+{%through forest again and again:%}</div> <div n="xs">{#अटाट्यमानोऽ-#}
+{#रण्यानीम्,#}</div> B. iv. 2.</div>
 <LEND>

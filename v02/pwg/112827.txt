@@ -4,8 +4,8 @@
 <div n="2"> a) N. pr. eines Fürsten mit dem patron. <is>Sāhadevya</is> (<is>Sāhadevi</is>) 
 <ls>ṚV. 4, 15, 9.</ls> 
 <ls>AIT. BR. 7, 34.</ls> 
-<ls>MBH. 2, 319. 3, 10422. 10470. fgg. 6, 316. 13, 3689. 5665.</ls> 
-<ls>HARIV. 1792. fg. 5015. 5496.</ls> 
+<ls>MBH. 2, 319.</ls> <ls n="MBH.">3, 10422.</ls> <ls n="MBH. 3,">10470. fgg.</ls> <ls n="MBH.">6, 316.</ls> <ls n="MBH.">13, 3689.</ls> <ls n="MBH. 13,">5665.</ls> 
+<ls>HARIV. 1792. fg.</ls> <ls n="HARIV.">5015.</ls> <ls n="HARIV.">5496.</ls> 
 <ls>VP. 455.</ls> 
 <ls>BHĀG. P. 9, 22, 1.</ls> 
 <ls>HALL</ls> in der Einl
@@ -14,7 +14,7 @@ zu <ls>VĀSAVAD. 41.</ls> <is>Ṛṣi</is> von
 <ls>BHĀG. P. 10, 61, 14.</ls> N. pr. eines <is>Bharaṭaka</is> 
 <ls>Verz. d. Oxf. H. 155,a,29.</ls> 
 <div n="2">— b) pl. {%die Nachkommen des%} <is>Somaka</is> 
-<ls>MBH. 1, 183. 4796. 6975. 5, 90. 662. 5943. 6, 2. fgg.</ls> 
+<ls>MBH. 1, 183.</ls> <ls n="MBH. 1,">4796.</ls> <ls n="MBH. 1,">6975.</ls> <ls n="MBH.">5, 90.</ls> <ls n="MBH. 5,">662.</ls> <ls n="MBH. 5,">5943.</ls> <ls n="MBH.">6, 2. fgg.</ls> 
 <ls>HARIV. 1794.</ls> 
 <ls>VP. 455,</ls> 
 <ls>N. 53.</ls> 

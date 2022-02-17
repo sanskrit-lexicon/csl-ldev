@@ -1,6 +1,6 @@
 <L>980<pc>035<k1>approbation<k2>approbation
-<div n="lb"/>{@APPROBATION:@}¦ <div n="I">I Acclamation: </div><div n="1">(1) {#धन्यवादः;#}</div>
-<div n="lb"/><div n="1">(2) {#साधुवादः,#} <div n="xe">{%you will receive a. throughout the%}
-<div n="lb"/>{%world%}</div> <div n="xs">{#यावत् संसारमण्डलमवाप्नुहि साधुवादम्,#}</div> Si. xiv.
-<div n="lb"/>87. </div><div n="I">II Assent, approval: q. v.</div>
+{@APPROBATION:@}¦ <div n="I">I Acclamation: </div><div n="1">(1) {#धन्यवादः;#}</div>
+<div n="1">(2) {#साधुवादः,#} <div n="xe">{%you will receive a. throughout the%}
+{%world%}</div> <div n="xs">{#यावत् संसारमण्डलमवाप्नुहि साधुवादम्,#}</div> Si. xiv.
+87. </div><div n="I">II Assent, approval: q. v.</div>
 <LEND>

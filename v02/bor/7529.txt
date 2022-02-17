@@ -1,8 +1,8 @@
 <L>7529<pc>237<k1>enclose<k2>enclose
-<div n="lb"/>{@ENCLOSE@}¦ (v.): <div n="I">I To surround: q. v.: {#परि-#}
-<div n="lb"/>{#वृणोति#} <div n="xe">{%or%}</div> <div n="xs">{#वारयति#}</div> ({#वृ,#} c. 5. or 10.). <div n="xe">{%e. d. me with%}
-<div n="lb"/>{%showers of arrows:%}</div> <div n="xs">{#शरवर्षैर्मां पर्यवारयन्,#}</div> Mah.</div>
-<div n="lb"/><div n="I">II To fence: q. v.: {#परिवृणोति।#} </div><div n="I">III To shut
-<div n="lb"/>up, confine: q. v. </div><div n="I">IV To put in a case:
-<div n="lb"/>{#सह प्रेरयति#} ({#ईर्,#} c. 10.) (= to send with).</div>
+{@ENCLOSE@}¦ (v.): <div n="I">I To surround: q. v.: {#परि-#}
+{#वृणोति#} <div n="xe">{%or%}</div> <div n="xs">{#वारयति#}</div> ({#वृ,#} c. 5. or 10.). <div n="xe">{%e. d. me with%}
+{%showers of arrows:%}</div> <div n="xs">{#शरवर्षैर्मां पर्यवारयन्,#}</div> Mah.</div>
+<div n="I">II To fence: q. v.: {#परिवृणोति।#} </div><div n="I">III To shut
+up, confine: q. v. </div><div n="I">IV To put in a case:
+{#सह प्रेरयति#} ({#ईर्,#} c. 10.) (= to send with).</div>
 <LEND>

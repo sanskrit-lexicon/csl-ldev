@@ -1,8 +1,8 @@
 <L>13082<pc>404<k1>knowing<k2>knowing
-<div n="lb"/>{@KNOWING@}¦ (adj.): <div n="I">I Well-informed: </div><div n="1">(1)
-<div n="lb"/>{#ज्ञानिन्#} (f. {#नी#}); </div><div n="1">(2) {#विज्ञ#} (f. {#ज्ञा#}). </div><div n="I">II Cun-
-<div n="lb"/>-ning: q.v.: {#विदग्ध#} ({#ग्धा#}). </div><div n="I">III Acquainted
-<div n="lb"/>with: </div><div n="1">(1) {#ज्ञ#} (f. {#ज्ञा#}), {#अभि-,#} in comp., <div n="xe">{%k.%}
-<div n="lb"/>{%Śāstras:%}</div> <div n="xs">{#शास्त्रज्ञः;#}</div> </div><div n="1">(2) {#-विद्#} (mfn.) in comp.,
-<div n="lb"/><div n="xe">{%k. Veda:%}</div> <div n="xs">{#वेदविद्#}</div> (mfn.).</div>
+{@KNOWING@}¦ (adj.): <div n="I">I Well-informed: </div><div n="1">(1)
+{#ज्ञानिन्#} (f. {#नी#}); </div><div n="1">(2) {#विज्ञ#} (f. {#ज्ञा#}). </div><div n="I">II Cun-
+-ning: q.v.: {#विदग्ध#} ({#ग्धा#}). </div><div n="I">III Acquainted
+with: </div><div n="1">(1) {#ज्ञ#} (f. {#ज्ञा#}), {#अभि-,#} in comp., <div n="xe">{%k.%}
+{%Śāstras:%}</div> <div n="xs">{#शास्त्रज्ञः;#}</div> </div><div n="1">(2) {#-विद्#} (mfn.) in comp.,
+<div n="xe">{%k. Veda:%}</div> <div n="xs">{#वेदविद्#}</div> (mfn.).</div>
 <LEND>

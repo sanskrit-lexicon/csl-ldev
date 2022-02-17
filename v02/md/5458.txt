@@ -1,14 +1,14 @@
 <L>5458<pc>062-2<k1>कन्या<k2>कन्या
 {#कन्या#}¦kan-yā, {%f.%} girl, virgin; daughter; {%Virgo %}
-<>{%(in the Zodiac%}); {@-āāra,@} {%n.%} women's apartments, <lbinfo n="5"/>
-<> {@-gṛha@}, {%n. id.%}; {@-tva,@} {%n.%} virginity; 
-<>{@-dātṛ@}, {%m.%} man who gives a daughter in marriage; <lbinfo n="3"/>
-<> {@-dāna,@} {%n.%} bestowal of a daughter in 
-<>marriage; {@-dūṣin,@} {%a.%} deflowering a virgin; 
-<>{@-pura,@} {%n.%} women's apartments; {@-bhāva,@} {%m.%} 
-<>virginity; {@-bhaikṣa,@} {%n.%} begging for a girl; 
-<>{@-maya,@} {%a.%} consisting of a maiden {%or%} daughter; 
-<>{@-vat,@} {%a.%} having a daughter; {%m.%} father of a 
-<>daughter; {@-vedin,@} {%m.%} son-in-law; {@-vrata,@} {%n.%} 
-<>monthlies: {@-sthā,@} {%f.%} menstruating woman.
+{%(in the Zodiac%}); {@-āāra,@} {%n.%} women's apartments, <lbinfo n="5"/>
+ {@-gṛha@}, {%n. id.%}; {@-tva,@} {%n.%} virginity; 
+{@-dātṛ@}, {%m.%} man who gives a daughter in marriage; <lbinfo n="3"/>
+ {@-dāna,@} {%n.%} bestowal of a daughter in 
+marriage; {@-dūṣin,@} {%a.%} deflowering a virgin; 
+{@-pura,@} {%n.%} women's apartments; {@-bhāva,@} {%m.%} 
+virginity; {@-bhaikṣa,@} {%n.%} begging for a girl; 
+{@-maya,@} {%a.%} consisting of a maiden {%or%} daughter; 
+{@-vat,@} {%a.%} having a daughter; {%m.%} father of a 
+daughter; {@-vedin,@} {%m.%} son-in-law; {@-vrata,@} {%n.%} 
+monthlies: {@-sthā,@} {%f.%} menstruating woman.
 <LEND>

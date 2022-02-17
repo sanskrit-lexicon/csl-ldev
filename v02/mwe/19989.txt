@@ -1,4 +1,4 @@
 <L>19989<pc>520-b<k1>multiplier<k2>multiplier
-<div n="lb"/>MULTIPLIER¦, MULTIPLICATOR, {%s.%} {#गुणकः, पूरकः, अङ्कपूरकः, गुणकाङ्कः,#}
-<div n="lb"/>{#गुणः, प्रवृत्तिः#} {%f.%}
+MULTIPLIER¦, MULTIPLICATOR, {%s.%} {#गुणकः, पूरकः, अङ्कपूरकः, गुणकाङ्कः,#}
+{#गुणः, प्रवृत्तिः#} {%f.%}
 <LEND>

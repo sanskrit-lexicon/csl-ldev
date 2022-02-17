@@ -1,8 +1,8 @@
 <L>1257<pc>044<k1>assumption<k2>assumption
-<div n="lb"/>{@ASSUMPTION:@}¦ <div n="I">I The act of taking: </div><div n="1">(1) {#ग्रहणम्;#}</div>
-<div n="lb"/><div n="1">(2) {#धारणम्।#} </div><div n="I">II Arrogation: q. v. </div><div n="I">III A
-<div n="lb"/>taking for granted: Ph. <div n="xe">{%on the a. that the%}
-<div n="lb"/>{%earth is fixed, you...%}</div> <div n="xs">{#पृथिवीं स्थिराम्मन्यमानस्त्वं:#}</div>
-<div n="lb"/>v. Supposition. </div><div n="I">IV The thing supposed:
-<div n="lb"/>{#कल्पना।#}</div>
+{@ASSUMPTION:@}¦ <div n="I">I The act of taking: </div><div n="1">(1) {#ग्रहणम्;#}</div>
+<div n="1">(2) {#धारणम्।#} </div><div n="I">II Arrogation: q. v. </div><div n="I">III A
+taking for granted: Ph. <div n="xe">{%on the a. that the%}
+{%earth is fixed, you...%}</div> <div n="xs">{#पृथिवीं स्थिराम्मन्यमानस्त्वं:#}</div>
+v. Supposition. </div><div n="I">IV The thing supposed:
+{#कल्पना।#}</div>
 <LEND>

@@ -1,12 +1,12 @@
 <L>219<pc>009<k1>act<k2>act
-<div n="lb"/>{@ACT@}¦ (v. t.): <div n="I">I To do, perform: q. v. </div><div n="I">II
-<div n="lb"/>On the stage: </div><div n="1">(1) {#अभिनयति#} ({#नी,#} c. 1),
-<div n="lb"/>Sa. 1.; </div><div n="1">(2) {#प्र-योजयति#} ({#युज्,#} c. 10), <div n="xe">{%we should%}
-<div n="lb"/>{%a. Malabikagnimitra in this spring festival%}</div>
-<div n="lb"/><div n="xs">{#मालविकाग्निमित्रमस्मिन् वसन्तोत्सवे प्रयोक्तव्यम्,#}</div> Mal.;</div>
-<div n="lb"/><div n="1">(3) {#नाटयति#} ({#नट्,#} c. 10.), Ma. i.: Ph.
-<div n="lb"/><div n="xe">{%Urbashi a. ing the part of Lakshmi.%}</div> <div n="xs">{#लक्ष्मीभूमि-#}
-<div n="lb"/>{#कायां वर्तमानोर्वशी,#}</div> V. iii. N. B. The sense of a.
-<div n="lb"/>ing is often expressed by nomi. v. s.: <div n="xe">{%a.%}
-<div n="lb"/>{%the nymph%}</div> <div n="xs">{#अप्सरायते।#}</div></div>
+{@ACT@}¦ (v. t.): <div n="I">I To do, perform: q. v. </div><div n="I">II
+On the stage: </div><div n="1">(1) {#अभिनयति#} ({#नी,#} c. 1),
+Sa. 1.; </div><div n="1">(2) {#प्र-योजयति#} ({#युज्,#} c. 10), <div n="xe">{%we should%}
+{%a. Malabikagnimitra in this spring festival%}</div>
+<div n="xs">{#मालविकाग्निमित्रमस्मिन् वसन्तोत्सवे प्रयोक्तव्यम्,#}</div> Mal.;</div>
+<div n="1">(3) {#नाटयति#} ({#नट्,#} c. 10.), Ma. i.: Ph.
+<div n="xe">{%Urbashi a. ing the part of Lakshmi.%}</div> <div n="xs">{#लक्ष्मीभूमि-#}
+{#कायां वर्तमानोर्वशी,#}</div> V. iii. N. B. The sense of a.
+ing is often expressed by nomi. v. s.: <div n="xe">{%a.%}
+{%the nymph%}</div> <div n="xs">{#अप्सरायते।#}</div></div>
 <LEND>

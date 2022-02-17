@@ -1,7 +1,7 @@
 <L>19383<pc>601<k1>ripeness<k2>ripeness
-<div n="lb"/>{@RIPENESS:@}¦ <div n="1">(1) {#पाकः, वि-, परि-,#} <div n="xe">{%by the r. of the%}
-<div n="lb"/>{%fruit:%}</div> <div n="xs">{#फलस्य विपाकेन,#}</div> Ki. iv. 26.; <div n="xe">{%resulting%}
-<div n="lb"/>{%from the r. of purity:%}</div> <div n="xs">{#पुण्यपरिपाकोपादान#}</div> (f. {#ना#}),
-<div n="lb"/>Vi. iv.; </div><div n="1">(2) {#पक्वता, -त्वम्, परि-, वि-;#} </div><div n="1">(3) {#परिणामः;#}</div>
-<div n="lb"/><div n="1">(4) {#परिणतिः।#}</div>
+{@RIPENESS:@}¦ <div n="1">(1) {#पाकः, वि-, परि-,#} <div n="xe">{%by the r. of the%}
+{%fruit:%}</div> <div n="xs">{#फलस्य विपाकेन,#}</div> Ki. iv. 26.; <div n="xe">{%resulting%}
+{%from the r. of purity:%}</div> <div n="xs">{#पुण्यपरिपाकोपादान#}</div> (f. {#ना#}),
+Vi. iv.; </div><div n="1">(2) {#पक्वता, -त्वम्, परि-, वि-;#} </div><div n="1">(3) {#परिणामः;#}</div>
+<div n="1">(4) {#परिणतिः।#}</div>
 <LEND>

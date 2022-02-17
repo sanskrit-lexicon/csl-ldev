@@ -1,26 +1,26 @@
 <L>16913<pc>294-1<k1>वीरवत्<k2>वीरवत्
 {#वीरवत्#}¦vīrá-vat, {%a.%} abounding in men, followers, <lbinfo n="3"/>
-<> {%or%} sons; consisting in men ({%wealth %}
-<>{%etc.%}; {%V.%}); manly, heroic ({%RV.%}); {%n.%} wealth in 
-<>men {%or%} sons ({%RV.%}): {@-ī,@} {%f. N.%}; {@-vara,@} {%m.%} best 
-<>of heroes, {%N. of various men%}; {@-varman,@} {%m. %}
-<>{%N.%}; {@-váh@} ({%strg.%} {@-vā́h@}), {%a.%} conveying men 
-<>({%steeds, car%}; {%RV.%}); {@-vākya,@} {%n.%} heroic word: 
-<>{@-maya,@} {%a.%} consisting of heroic of heroic words; {@-vāda,@} 
-<>{%m.%} heroic fame; {@-vikrama,@} {%m. N. of a king%}; 
-<>{@-vrata,@} {%a.%} acting like a man, adhering to 
-<>{%one's%} purpose; {%n.%} heroism: {@-caryā@}, {%f.%} performance <lbinfo n="3"/>
-<> of heroic deeds; {@-śayana@}, {%n.%} couch 
-<>({%formed of arrows spread out%}) of a {%dead or %}
-<>{%mounded%} hero; {@-śayyā@}, {%f. id.%}; {@-śarman@}, {%m. %}
-<>{%N. of a warrior%}; {@-śekhara@}, {%m. N. of a fairy%}; 
-<>{@-samanvita,@} {%pp.%} attended by warriors; {@-sū́,@} 
-<>{%a.%} bearing ({%mother%}) {%or%} producing ({%country%}) 
-<>men {%or%} sons; {%f.%} mother of a son; {@-sena,@} {%m.%} 
-<>(having an army of heroes), {%N. of a Nala's %}
-<>{%father and of various other kings and warriors, %}<lbinfo n="3"/>
-<>{% and of a Dānava%}: {@-suta,@} {%m.%} son of 
-<>Vīrasena; {@-svāmin,@} {%m. N. of a Dānava%}; 
-<>{@-hatyā,@} {%f.%} killing a man, slaughter of a son; 
-<>{@-hán,@} {%a.%} ({%f.%} {@-ghnī́, -haṇī@}) slaying men {%or%} foes.
+ {%or%} sons; consisting in men ({%wealth %}
+{%etc.%}; {%V.%}); manly, heroic ({%RV.%}); {%n.%} wealth in 
+men {%or%} sons ({%RV.%}): {@-ī,@} {%f. N.%}; {@-vara,@} {%m.%} best 
+of heroes, {%N. of various men%}; {@-varman,@} {%m. %}
+{%N.%}; {@-váh@} ({%strg.%} {@-vā́h@}), {%a.%} conveying men 
+({%steeds, car%}; {%RV.%}); {@-vākya,@} {%n.%} heroic word: 
+{@-maya,@} {%a.%} consisting of heroic of heroic words; {@-vāda,@} 
+{%m.%} heroic fame; {@-vikrama,@} {%m. N. of a king%}; 
+{@-vrata,@} {%a.%} acting like a man, adhering to 
+{%one's%} purpose; {%n.%} heroism: {@-caryā@}, {%f.%} performance <lbinfo n="3"/>
+ of heroic deeds; {@-śayana@}, {%n.%} couch 
+({%formed of arrows spread out%}) of a {%dead or %}
+{%mounded%} hero; {@-śayyā@}, {%f. id.%}; {@-śarman@}, {%m. %}
+{%N. of a warrior%}; {@-śekhara@}, {%m. N. of a fairy%}; 
+{@-samanvita,@} {%pp.%} attended by warriors; {@-sū́,@} 
+{%a.%} bearing ({%mother%}) {%or%} producing ({%country%}) 
+men {%or%} sons; {%f.%} mother of a son; {@-sena,@} {%m.%} 
+(having an army of heroes), {%N. of a Nala's %}
+{%father and of various other kings and warriors, %}<lbinfo n="3"/>
+{% and of a Dānava%}: {@-suta,@} {%m.%} son of 
+Vīrasena; {@-svāmin,@} {%m. N. of a Dānava%}; 
+{@-hatyā,@} {%f.%} killing a man, slaughter of a son; 
+{@-hán,@} {%a.%} ({%f.%} {@-ghnī́, -haṇī@}) slaying men {%or%} foes.
 <LEND>

@@ -1,6 +1,6 @@
 <L>1977<pc>069<k1>betel<k2>betel
-<div n="lb"/>{@BETEL@}¦ (subs.): <div n="1">(1) {#ताम्बूली;#} </div><div n="1">(2) {#नागवल्ली;#} </div><div n="1">(3)
-<div n="lb"/>{#नागलता;#} </div><div n="1">(4) {#कुहली।#} <div n="xe">{%The prepared b.%}</div> <div n="xs">{#ताम्बूलम्।#}</div>
-<div n="lb"/><div n="xe">{%B. -seller%}</div> <div n="xs">{#ताम्बूलिकः।#}</div> <div n="xe">{%B. -box = -bearer%}</div> <div n="xs">{#ताम्बूल-#}
-<div n="lb"/>{#करङ्कवाहिनी,#}</div> K.</div>
+{@BETEL@}¦ (subs.): <div n="1">(1) {#ताम्बूली;#} </div><div n="1">(2) {#नागवल्ली;#} </div><div n="1">(3)
+{#नागलता;#} </div><div n="1">(4) {#कुहली।#} <div n="xe">{%The prepared b.%}</div> <div n="xs">{#ताम्बूलम्।#}</div>
+<div n="xe">{%B. -seller%}</div> <div n="xs">{#ताम्बूलिकः।#}</div> <div n="xe">{%B. -box = -bearer%}</div> <div n="xs">{#ताम्बूल-#}
+{#करङ्कवाहिनी,#}</div> K.</div>
 <LEND>

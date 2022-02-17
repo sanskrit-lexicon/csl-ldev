@@ -1,8 +1,8 @@
 <L>8977<pc>284<k1>fling<k2>fling
-<div n="lb"/>{@FLING@}¦ (v.): {#क्षिपति, नि-,#} ({#क्षिप्,#} c. 6.): v. To
-<div n="lb"/>throw, cast, emit. Comp.s.: <div n="xe">{%f. away:%}</div> <div n="xs">{#अवक्षिपति;#}</div>
-<div n="lb"/><div n="xe">{%f. down:%}</div> <div n="xs">{#अधःक्षिपति;#}</div> <div n="xe">{%f. in, f. off:%}</div> <div n="xs">{#अवक्षिपति;#}</div> {%f. open:%}
-<div n="lb"/>{#बलात् अपावृणोति#} ({#वृ,#} c. 5.) (?). v. Also to break
-<div n="lb"/>open; <div n="xe">{%f. out:%}</div> <div n="xs">{#उद्गिरति#}</div> ({#गॄ,#} c. 6.); <div n="xe">{%f. up:%}</div> <div n="xs">{#अव-#}
-<div n="lb"/>{#क्षिपति, त्यजति।#}</div>
+{@FLING@}¦ (v.): {#क्षिपति, नि-,#} ({#क्षिप्,#} c. 6.): v. To
+throw, cast, emit. Comp.s.: <div n="xe">{%f. away:%}</div> <div n="xs">{#अवक्षिपति;#}</div>
+<div n="xe">{%f. down:%}</div> <div n="xs">{#अधःक्षिपति;#}</div> <div n="xe">{%f. in, f. off:%}</div> <div n="xs">{#अवक्षिपति;#}</div> {%f. open:%}
+{#बलात् अपावृणोति#} ({#वृ,#} c. 5.) (?). v. Also to break
+open; <div n="xe">{%f. out:%}</div> <div n="xs">{#उद्गिरति#}</div> ({#गॄ,#} c. 6.); <div n="xe">{%f. up:%}</div> <div n="xs">{#अव-#}
+{#क्षिपति, त्यजति।#}</div>
 <LEND>

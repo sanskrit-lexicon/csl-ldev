@@ -1,5 +1,5 @@
 <L>13851<pc>426<k1>lower<k2>lower
-<div n="lb"/>{@LOWER@}¦ (v. i.): <div n="I">I To decrease: q. v. II. To
-<div n="lb"/>be gloomy: <div n="xe">{%let the clouds l.:%}</div> <div n="xs">{#उदयन्तु नाम #}
-<div n="lb"/>{# मेघाः,#}</div> Mr. iv. </div><div n="I">III Frown: q. v.</div>
+{@LOWER@}¦ (v. i.): <div n="I">I To decrease: q. v. II. To
+be gloomy: <div n="xe">{%let the clouds l.:%}</div> <div n="xs">{#उदयन्तु नाम #}
+{# मेघाः,#}</div> Mr. iv. </div><div n="I">III Frown: q. v.</div>
 <LEND>

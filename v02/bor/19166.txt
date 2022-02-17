@@ -1,8 +1,8 @@
 <L>19166<pc>593<k1>restless<k2>restless
-<div n="lb"/>{@RESTLESS:@}¦ <div n="I">I Unquiet, uneasy: </div><div n="1">(1) {#व्याकुल#}
-<div n="lb"/>(f. {#ला#} = agitated); </div><div n="1">(2) {#चञ्चल#} (f. {#ला#} = mov-
-<div n="lb"/>-ing about); </div><div n="1">(3) {#विह्वल#} (f. {#ला#} = distressed),
-<div n="lb"/><div n="xe">{%my mind is r.:%}</div> <div n="xs">{#मनो मे विह्वलति,#}</div> Gi. </div><div n="I">II Afford-
-<div n="lb"/>-ing no rest: expr. by circumlo., <div n="xe">{%passed a r.%}
-<div n="lb"/>{%night:%}</div> <div n="xs">{#उत्सन्ननिद्रां क्षपां क्षपितवती,#}</div> K.</div>
+{@RESTLESS:@}¦ <div n="I">I Unquiet, uneasy: </div><div n="1">(1) {#व्याकुल#}
+(f. {#ला#} = agitated); </div><div n="1">(2) {#चञ्चल#} (f. {#ला#} = mov-
+-ing about); </div><div n="1">(3) {#विह्वल#} (f. {#ला#} = distressed),
+<div n="xe">{%my mind is r.:%}</div> <div n="xs">{#मनो मे विह्वलति,#}</div> Gi. </div><div n="I">II Afford-
+-ing no rest: expr. by circumlo., <div n="xe">{%passed a r.%}
+{%night:%}</div> <div n="xs">{#उत्सन्ननिद्रां क्षपां क्षपितवती,#}</div> K.</div>
 <LEND>

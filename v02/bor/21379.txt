@@ -1,8 +1,8 @@
 <L>21379<pc>673<k1>start<k2>start
-<div n="lb"/>{@START@}¦ (v. i.): <div n="I">I To set out: q. v.: {#प्रतिष्ठते#}
-<div n="lb"/>({#स्था,#} c. 1.). </div><div n="I">II To move suddenly: {#चकति, #}
-<div n="lb"/>{# -ते#} ({#चक्,#} c. 1.), <div n="xe">{%s. ing:%}</div> <div n="xs">{#चकितम्,#}</div> Sah. </div><div n="I">III
-<div n="lb"/>{#कुतोऽपि दयितस्यग्रे चकितं भयसम्भ्रमः,#} Sah. iii.;
-<div n="lb"/>{%s. ing%} (= adv.) {#चकितम्#} <div n="xe">{%or%}</div> <div n="xs">{#सचकितम्।#}</div> </div><div n="I">IV To
-<div n="lb"/>shrink: q. v.</div>
+{@START@}¦ (v. i.): <div n="I">I To set out: q. v.: {#प्रतिष्ठते#}
+({#स्था,#} c. 1.). </div><div n="I">II To move suddenly: {#चकति, #}
+{# -ते#} ({#चक्,#} c. 1.), <div n="xe">{%s. ing:%}</div> <div n="xs">{#चकितम्,#}</div> Sah. </div><div n="I">III
+{#कुतोऽपि दयितस्यग्रे चकितं भयसम्भ्रमः,#} Sah. iii.;
+{%s. ing%} (= adv.) {#चकितम्#} <div n="xe">{%or%}</div> <div n="xs">{#सचकितम्।#}</div> </div><div n="I">IV To
+shrink: q. v.</div>
 <LEND>

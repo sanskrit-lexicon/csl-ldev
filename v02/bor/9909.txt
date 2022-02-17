@@ -1,8 +1,8 @@
 <L>9909<pc>313<k1>give way<k2>give way
-<div n="lb"/>{@GIVE WAY:@}¦ <div n="I">I To yield to force: </div><div n="1">(1) {#अवसीदति#}
-<div n="lb"/>({#सद्,#} c. 1.) (?); </div><div n="1">(2) {#भज्यते,#} (pass. of {#भञ्ज्#})
-<div n="lb"/>(= to break). </div><div n="I">II Fig.: {#वशं गच्छति#} ({#गम्,#} c. 1.),
-<div n="lb"/><div n="xe">{%you should not g. way to sorrow:%}</div> <div n="xs">{#शुचो वशं गन्तुं #}
-<div n="lb"/>{# नार्हसि,#}</div> R. viii. 90. </div><div n="I">III To comply with:
-<div n="lb"/>{#अनुमन्यते#} ({#मन्,#} c. 4.) (with acc.).</div>
+{@GIVE WAY:@}¦ <div n="I">I To yield to force: </div><div n="1">(1) {#अवसीदति#}
+({#सद्,#} c. 1.) (?); </div><div n="1">(2) {#भज्यते,#} (pass. of {#भञ्ज्#})
+(= to break). </div><div n="I">II Fig.: {#वशं गच्छति#} ({#गम्,#} c. 1.),
+<div n="xe">{%you should not g. way to sorrow:%}</div> <div n="xs">{#शुचो वशं गन्तुं #}
+{# नार्हसि,#}</div> R. viii. 90. </div><div n="I">III To comply with:
+{#अनुमन्यते#} ({#मन्,#} c. 4.) (with acc.).</div>
 <LEND>

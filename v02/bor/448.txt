@@ -1,6 +1,6 @@
 <L>448<pc>017<k1>agent<k2>agent
-<div n="lb"/>{@AGENT:@}¦ <div n="I">I One who acts for another: </div><div n="1">(1)
-<div n="lb"/>{#प्रतिनिधिः;#} </div><div n="1">(2) {#प्रतिहस्तः।#} </div><div n="I">II An actor: q. v.
-<div n="lb"/>{#कर्ता;#} </div><div n="I">III An active power: {#शक्तिः#} (with
-<div n="lb"/>gen.); <div n="xe">{%fire is a powerful a.%}</div> <div n="xs">{#*अग्नेरूर्जस्वला शक्तिः।#}</div></div>
+{@AGENT:@}¦ <div n="I">I One who acts for another: </div><div n="1">(1)
+{#प्रतिनिधिः;#} </div><div n="1">(2) {#प्रतिहस्तः।#} </div><div n="I">II An actor: q. v.
+{#कर्ता;#} </div><div n="I">III An active power: {#शक्तिः#} (with
+gen.); <div n="xe">{%fire is a powerful a.%}</div> <div n="xs">{#*अग्नेरूर्जस्वला शक्तिः।#}</div></div>
 <LEND>

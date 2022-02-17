@@ -1,4 +1,4 @@
 <L>13036<pc>402<k1>kinsfolk<k2>kinsfolk
-<div n="lb"/>{@KINSFOLK:@}¦ <div n="1">(1) {#बान्धवाः#} (m. pl.); </div><div n="1">(2) {#बन्धुवर्गः,#}
-<div n="lb"/>etc.</div>
+{@KINSFOLK:@}¦ <div n="1">(1) {#बान्धवाः#} (m. pl.); </div><div n="1">(2) {#बन्धुवर्गः,#}
+etc.</div>
 <LEND>

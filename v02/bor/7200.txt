@@ -1,6 +1,6 @@
 <L>7200<pc>229<k1>eccentric<k2>eccentric
-<div n="lb"/>{@ECCENTRIC:@}¦ <div n="I">I Deviating from a centre:
-<div n="lb"/>{#*केन्द्रभ्रष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">II Not having the same
-<div n="lb"/>e.: {#*विषमकेन्द्रः#} ({#न्द्रा, न्द्रं#}). </div><div n="I">III Irregular,
-<div n="lb"/>odd.: perh. {#विषमः#} ({#मा, मं#}).</div>
+{@ECCENTRIC:@}¦ <div n="I">I Deviating from a centre:
+{#*केन्द्रभ्रष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">II Not having the same
+e.: {#*विषमकेन्द्रः#} ({#न्द्रा, न्द्रं#}). </div><div n="I">III Irregular,
+odd.: perh. {#विषमः#} ({#मा, मं#}).</div>
 <LEND>

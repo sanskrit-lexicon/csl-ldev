@@ -1,4 +1,4 @@
 <L>17998<pc>552<k1>propriety<k2>propriety
-<div n="lb"/>{@PROPRIETY:@}¦ <div n="1">(1) {#सङ्गतता:#} v. Fitness; </div><div n="1">(2)
-<div n="lb"/>{#औचित्यम्,#} <div n="xe">{%with p.:%}</div> <div n="xs">{#समुचितम्:#}</div> v. Also civility.</div>
+{@PROPRIETY:@}¦ <div n="1">(1) {#सङ्गतता:#} v. Fitness; </div><div n="1">(2)
+{#औचित्यम्,#} <div n="xe">{%with p.:%}</div> <div n="xs">{#समुचितम्:#}</div> v. Also civility.</div>
 <LEND>

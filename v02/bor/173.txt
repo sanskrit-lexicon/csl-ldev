@@ -1,4 +1,4 @@
 <L>173<pc>008<k1>accuracy<k2>accuracy
-<div n="lb"/>{@ACCURACY:@}¦ <div n="1">(1) {#विशुद्धत्वम्;#} </div><div n="1">(2) {#विशुद्धिः:#} v.
-<div n="lb"/>Correctness, nicety.</div>
+{@ACCURACY:@}¦ <div n="1">(1) {#विशुद्धत्वम्;#} </div><div n="1">(2) {#विशुद्धिः:#} v.
+Correctness, nicety.</div>
 <LEND>

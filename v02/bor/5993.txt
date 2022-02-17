@@ -1,6 +1,6 @@
 <L>5993<pc>192<k1>destroyer<k2>destroyer
-<div n="lb"/>{@DESTROYER:@}¦ <div n="1">(1) {#नाशकः, वि-,#} {%d. of Tāraka:%}
-<div n="lb"/>{#तारकस्य विनाशकः,#} Mat.; </div><div n="1">(2) {#नाशयितृ, वि-,#} (m.) [Page193]
-<div n="lb"/>Ch.; </div><div n="1">(3) {#नाशः, -नः#} in bah. comp., <div n="xe">{%d. of%}
-<div n="lb"/>{%sins.:%}</div> <div n="xs">{#पापनाशः,#}</div> J.; </div><div n="1">(4) {#हन्ता#} (=slayer: q. v.).</div>
+{@DESTROYER:@}¦ <div n="1">(1) {#नाशकः, वि-,#} {%d. of Tāraka:%}
+{#तारकस्य विनाशकः,#} Mat.; </div><div n="1">(2) {#नाशयितृ, वि-,#} (m.) [Page193]
+Ch.; </div><div n="1">(3) {#नाशः, -नः#} in bah. comp., <div n="xe">{%d. of%}
+{%sins.:%}</div> <div n="xs">{#पापनाशः,#}</div> J.; </div><div n="1">(4) {#हन्ता#} (=slayer: q. v.).</div>
 <LEND>

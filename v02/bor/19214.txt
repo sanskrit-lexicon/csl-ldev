@@ -1,6 +1,6 @@
 <L>19214<pc>595<k1>retreat<k2>retreat
-<div n="lb"/>{@RETREAT@}¦ (v.): <div n="I">I To retire, go away: </div><div n="1">(1)
-<div n="lb"/>{#अपक्रामति#} ({#क्रम्,#} c. l.); </div><div n="1">(2) {#अपसरति#} ({#सृ,#} c. 1.).</div>
-<div n="lb"/><div n="I">II From an enemy: {#पलायते:#} v. To
-<div n="lb"/>flee.</div>
+{@RETREAT@}¦ (v.): <div n="I">I To retire, go away: </div><div n="1">(1)
+{#अपक्रामति#} ({#क्रम्,#} c. l.); </div><div n="1">(2) {#अपसरति#} ({#सृ,#} c. 1.).</div>
+<div n="I">II From an enemy: {#पलायते:#} v. To
+flee.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>16502<pc>506<k1>pass by<k2>pass by
-<div n="lb"/>{@PASS BY:@}¦ <div n="I">I Lit.: expr. by {#अतिक्रामति#} <div n="xe">{%or%}</div> <div n="xs">{#अत्येति#}</div>
-<div n="lb"/>and words signifying near, <div n="xe">{%although you p.%}
-<div n="lb"/>{%by (me), you do not cast a look:%}</div> <div n="xs">{#समीपेऽप्यति-#}
-<div n="lb"/>{#क्रामन्तीतो दृष्टिं न ददासि,#}</div> Mal. i. </div><div n="I">II Of time:
-<div n="lb"/>{#अत्योति#} ({#इ,#} c. 2.): v. Pass away. </div><div n="I">III To
-<div n="lb"/>pass over, omit: q. v.</div>
+{@PASS BY:@}¦ <div n="I">I Lit.: expr. by {#अतिक्रामति#} <div n="xe">{%or%}</div> <div n="xs">{#अत्येति#}</div>
+and words signifying near, <div n="xe">{%although you p.%}
+{%by (me), you do not cast a look:%}</div> <div n="xs">{#समीपेऽप्यति-#}
+{#क्रामन्तीतो दृष्टिं न ददासि,#}</div> Mal. i. </div><div n="I">II Of time:
+{#अत्योति#} ({#इ,#} c. 2.): v. Pass away. </div><div n="I">III To
+pass over, omit: q. v.</div>
 <LEND>

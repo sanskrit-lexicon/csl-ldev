@@ -1,3 +1,3 @@
 <L>117902<pc>596,3<k1>परिपद्<k2>परि-पद्<h>a<e>1
-<s>परि-√ पद्</s> <hom>a</hom> ¦ Caus. <s>-पादयति</s>, to change (<s>म्</s> before <s>र्</s> and the sibilants) into <s1 slp1="anu-svAra">Anu-svāra</s1>, <ls>RPrāt.</ls><info verb="pre" cp="" parse="pari+pad"/>
+<s>परि-√ पद्</s> <hom>a</hom> ¦ <ab>Caus.</ab> <s>-पादयति</s>, to change (<s>म्</s> before <s>र्</s> and the sibilants) into <s1 slp1="anu-svAra">Anu-svāra</s1>, <ls>RPrāt.</ls><info verb="pre" cp="" parse="pari+pad"/>
 <LEND>

@@ -4,7 +4,7 @@
 <ls>INDR. 1, 34.</ls> {#सौवर्ण#} 
 <ls>MBH. 7, 2361.</ls> {#ज्योतींषि#} 
 <ls>HARIV. 2413.</ls> {#चन्द्राभेव प्रभावती#} 
-<ls>8590.</ls> {#चूडामणि#} 
+<ls n="HARIV.">8590.</ls> {#चूडामणि#} 
 <ls>Spr. 3307, v. l.</ls> {#वासव#} 
 <ls>KĀVYĀD. 3, 63.</ls> {#शकैर्यवनमिश्रितैः#} 
 <ls>R. 1, 54, 21.</ls> 
@@ -24,8 +24,8 @@
 <ls>ŚUK.</ls> in <ls>LA. 38, 11.</ls> 
 <div n="2">— b) N. der Laute der <is>Gaṇa</is> (<is>Śiva's</is> Gefolge) 
 <ls>H. 289.</ls> 
-<div n="2">— c) {%ein best. Metrum, 4 Mal%} ¯ ¯ ˘  ¯.˘ ˘ ˘ ˘ ¯ ˘ ¯ ˘ ¯  
+<div n="2">— c) {%ein best. Metrum, 4 Mal%} ¯ ¯ ˘ ¯.˘ ˘ ˘ ˘ ¯ ˘ ¯ ˘ ¯ 
 <ls>ŚRUT. 35.</ls> 
-<ls>COLEBR. Misc. Ess. II, 161</ls> <ls>(VIII, 16).</ls> {%4 Mal%} ¯ ¯ ˘ ¯ ˘ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯  
+<ls>COLEBR. Misc. Ess. II, 161</ls> (<ls>VIII, 16).</ls> {%4 Mal%} ¯ ¯ ˘ ¯ ˘ ˘ ¯ ˘ ¯ ˘ ¯ ˘ ¯ 
 <ls>Ind. St. 8, 386.</ls>
 <LEND>

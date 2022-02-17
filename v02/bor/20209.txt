@@ -1,6 +1,6 @@
 <L>20209<pc>630<k1>serviceable<k2>serviceable
-<div n="lb"/>{@SERVICEABLE:@}¦ <div n="I">I Useful, beneficial: q. v.:
-<div n="lb"/>{#उपयोगिन्#} (f. {#नी#}) </div><div n="I">II Fit for duty: </div><div n="1">(1) {#कार्य-#}
-<div n="lb"/>{#क्षम#} (f. {#मा#}); </div><div n="1">(2) {#कर्मकुशल#} (f. {#ला#}), and sim.
-<div n="lb"/>comp.s.</div>
+{@SERVICEABLE:@}¦ <div n="I">I Useful, beneficial: q. v.:
+{#उपयोगिन्#} (f. {#नी#}) </div><div n="I">II Fit for duty: </div><div n="1">(1) {#कार्य-#}
+{#क्षम#} (f. {#मा#}); </div><div n="1">(2) {#कर्मकुशल#} (f. {#ला#}), and sim.
+comp.s.</div>
 <LEND>

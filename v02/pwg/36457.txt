@@ -4,7 +4,7 @@
 <ls>MBH. 13, 1165.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%ein Angriff auf Personen%} oder {%Sachen, Beleidigung, Misshandlung%}; = {#अभिभव, परिभव#} 
 <ls>H. an. 3, 210</ls> (lies {#धर्षणं#} st. {#धरणं#}). 
-<ls>MED. ṇ. 55.</ls> <ls>MBH. 1, 6502. 7761. 4, 738. 13, 1659.</ls> <ls>DRAUP. 6, 28.</ls> {#देवानाम्#} 
+<ls>MED. ṇ. 55.</ls> <ls>MBH. 1, 6502.</ls> <ls n="MBH. 1,">7761.</ls> <ls n="MBH.">4, 738.</ls> <ls n="MBH.">13, 1659.</ls> <ls>DRAUP. 6, 28.</ls> {#देवानाम्#} 
 <ls>R. 6, 38, 21.</ls> 
 <ls>PAÑCAT. 41, 14.</ls> {#तथेदमुपपन्नं #}
 [Page3-0899]
@@ -14,8 +14,8 @@
 <ls>6, 16, 96.</ls> {#पुरस्य#} 
 <ls>HARIV. 5653.</ls> Häufig auch {#धर्षणा#} <lex>f.</lex> = {#निकृति#} 
 <ls>TRIK. 3, 3, 131.</ls> 
-<ls>MBH. 1, 1708. 1736. 6503. 7773. 3, 11137. 12, 13879.</ls> 
-<ls>HARIV. 6742. 7268.</ls> 
+<ls>MBH. 1, 1708.</ls> <ls n="MBH. 1,">1736.</ls> <ls n="MBH. 1,">6503.</ls> <ls n="MBH. 1,">7773.</ls> <ls n="MBH.">3, 11137.</ls> <ls n="MBH.">12, 13879.</ls> 
+<ls>HARIV. 6742.</ls> <ls n="HARIV.">7268.</ls> 
 <ls>R. 3, 4, 22. 25, 17. 43, 28. 57, 8. 4, 15, 3. 6, 92, 13. 100, 3.</ls> 
 <ls>PAÑCAT. 255, 9. V, 67.</ls> {#अनर्हधर्षणा#} (adj.) {#हीमे#} 
 <ls>MBH. 3, 15071.</ls> {#धर्षणात्मन्#} <lex>adj.</lex> Beiw. <is>Śiva's</is> 

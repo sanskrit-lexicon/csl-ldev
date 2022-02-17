@@ -1,13 +1,13 @@
 <L>102769<pc>7-0457<k1>संयोग<k2>संयोग
 {#संयोग#}¦ (von 1. {#युज्#} mit {#सम्#}) <lex>m.</lex> 
 <div n="1"> 1) {%Verbindung, Zusammenhang, Vereinigung, Zusammentreffen%} (Gegens. {#विभाग, पृथक्त्व, वियोग, विप्रयोग, विरह, अपाय#}); in der Philosophie {%die Kategorie der unmittelbaren Berührung, Contact%} (anschaulich gemacht durch das Beispiel der Vermengung von Sesamkörnern und Reis, während für {#समवाय#} die Mischung von Wasser und Milch angeführt wird, 
-<ls>PRATĀPAR.</ls> <ls>?103,b,7). YOGAS.2,23. 25. KAṆ.1,1,6.</ls> {#अन्यतरकर्मज उभयकर्मजः संयोगजश्च संयोगः#} 
-<ls>?7, 2, 9. COLEBR. Misc. Ess. 1, 266. NĪLAK. 93. BHĀṢĀP. 3. WILSON, SĀṂKHYAK. S. 6.</ls> {#ऐक्य, संयोग, नानात्व, समवाय#} 
+<ls>PRATĀPAR.</ls> <ls>103,b,7).</ls> <ls>YOGAS.2,23. 25.</ls> <ls>KAṆ.1,1,6.</ls> {#अन्यतरकर्मज उभयकर्मजः संयोगजश्च संयोगः#} 
+<ls>7, 2, 9.</ls> <ls>COLEBR. Misc. Ess. 1, 266.</ls> <ls>NĪLAK. 93.</ls> <ls>BHĀṢĀP. 3.</ls> <ls>WILSON, SĀṂKHYAK. S. 6.</ls> {#ऐक्य, संयोग, नानात्व, समवाय#} 
 <ls>MBH. 2, 137.</ls> — 
 <ls>ĀPAST.</ls> im Comm. zu <ls>TS. 2, 109, 5.</ls> <ls>MBH. 15, 934.</ls> <ls>HARIV. 10076.</ls> <ls>P. 5, 1, 38.</ls> <ls>MEGH. 85.</ls> <ls>SĀH. D. 17, 10.</ls> <ls>BHĀG. P. 5, 14, 1. 7, 10, 53.</ls> {#स्याल आसन्नः संयोगेन#} so v. a. {%Verschwägerung%} 
 <ls>NIR. 6, 9.</ls> 
 <ls>MBH. 13, 4626.</ls> {#संयोगा विप्रयोगान्ताः#} 
-<ls>Spr. (II) 6624. 6948.</ls> {#संयोगो हि वियोगस्य संसूचयति संभवम्#} 
+<ls>Spr. (II) 6624.</ls> <ls n="Spr. (II)">6948.</ls> {#संयोगो हि वियोगस्य संसूचयति संभवम्#} 
 <ls>6625.</ls> {#अभङ्गुर#} 
 <ls>1857.</ls> {#अत्यन्त°#} 
 <ls>P. 2, 1, 29. 3, 5.</ls> 
@@ -19,7 +19,7 @@
 <ls>ŚVETĀŚV. UP. 1, 2. 5, 12.</ls> 
 <ls>KAṆ. 1, 1, 30. 4, 2, 2.</ls> <ls>SĀṂKHYAK. 21. 66.</ls> {#एतेनायमावयोर्जातः संयोगो ऽन्योऽन्यसंमतः#} 
 <ls>KATHĀS. 121, 123.</ls> 
-<ls>BHĀG. P. 1,13,  40.</ls>
+<ls>BHĀG. P. 1,13, 40.</ls>
 [Page7-0458]
 {#अपामग्नेश्च#} 
 <ls>M. 5, 113.</ls> {#पुरुषस्य स्त्रियाश्चैव#} (Gegens. {#विप्रयोग#}) 
@@ -59,7 +59,7 @@
 <ls>2, 438, 12.</ls> {#गन्धसंयोगाः#} 
 <ls>R. 4, 44, 99.</ls> {#संपन्नो ऽर्थसंयोगैः#} 
 <ls>24, 9.</ls> {#नयविक्रम°#} 
-<ls>Spr. (II) 5084. 5597.</ls> {#संयोग#} d. i. {#मन्त्र°#} (im Gegens. zu {#मन्त्रभेद#}) so v. a. {%Uebereinstimmung der Meinungen im Rathe%} 
+<ls>Spr. (II) 5084.</ls> <ls n="Spr. (II)">5597.</ls> {#संयोग#} d. i. {#मन्त्र°#} (im Gegens. zu {#मन्त्रभेद#}) so v. a. {%Uebereinstimmung der Meinungen im Rathe%} 
 <ls>R. 5, 82, 8.</ls> 
 <div n="3">— γ) {%Verbindung —, Zusammenhang —, Contact mit%}: {#द्रव्य°#} (so v. a. {%Attribut%}) 
 <ls>NIR. 7, 6.</ls> {#यज्ञसंयोगाद्राजा स्तुतिं लभते राजसंयोगाद्युद्धोपकरणानि#} 

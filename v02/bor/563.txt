@@ -1,4 +1,4 @@
 <L>563<pc>021<k1>alive<k2>alive
-<div n="lb"/>{@ALIVE, BE:@}¦ {#जीवति,#} <div n="xe">{%tell me, is my darling a.%}</div> <div n="xs">{#कथय #}
-<div n="lb"/>{# जीवति मे प्रिया,#}</div> Ma. ix.
+{@ALIVE, BE:@}¦ {#जीवति,#} <div n="xe">{%tell me, is my darling a.%}</div> <div n="xs">{#कथय #}
+{# जीवति मे प्रिया,#}</div> Ma. ix.
 <LEND>

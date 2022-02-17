@@ -1,4 +1,4 @@
 <L>22692<pc>716<k1>tortoise<k2>tortoise
-<div n="lb"/>{@TORTOISE:@}¦ <div n="1">(1) {#कूर्मः;#} </div><div n="1">(2) {#कच्छपः;#} </div><div n="1">(3) {#कमठः।#}
-<div n="lb"/>Ph.: <div n="xe">{%t. -shell:%}</div> <div n="xs">{#कमठपृष्ठम्,#}</div> Ma. n.</div>
+{@TORTOISE:@}¦ <div n="1">(1) {#कूर्मः;#} </div><div n="1">(2) {#कच्छपः;#} </div><div n="1">(3) {#कमठः।#}
+Ph.: <div n="xe">{%t. -shell:%}</div> <div n="xs">{#कमठपृष्ठम्,#}</div> Ma. n.</div>
 <LEND>

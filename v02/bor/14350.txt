@@ -1,6 +1,6 @@
 <L>14350<pc>440<k1>means<k2>means
-<div n="lb"/>{@MEANS:@}¦ <div n="I">I Fortune, income: q. v.: {#विभवः।#}</div>
-<div n="lb"/><div n="I">II Instrument: {#साधनम्।#} Ph.: {%by all m.:%}
-<div n="lb"/>{#सर्वथा;#} {%by no m.:%} {#सर्वथा #} {#॥ न;#} {%by any m.:%}
-<div n="lb"/>{#केनापि प्रकारेण,#} etc.</div>
+{@MEANS:@}¦ <div n="I">I Fortune, income: q. v.: {#विभवः।#}</div>
+<div n="I">II Instrument: {#साधनम्।#} Ph.: {%by all m.:%}
+{#सर्वथा;#} {%by no m.:%} {#सर्वथा #} {#॥ न;#} {%by any m.:%}
+{#केनापि प्रकारेण,#} etc.</div>
 <LEND>

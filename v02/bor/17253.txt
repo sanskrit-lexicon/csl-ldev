@@ -1,13 +1,13 @@
 <L>17253<pc>528<k1>plough<k2>plough
-<div n="lb"/>{@PLOUGH@}¦ (v.): <div n="1">(1) {#कर्षति, वि-, प्र-,#} ({#कृष्,#} c. 1.),
-<div n="lb"/><div n="xe">{%it was p. ed by the great Kuru:%}</div> <div n="xs">{#प्रकृष्टमेतत् कुरुणा #}
-<div n="lb"/>{# महात्मना,#}</div> Mah. ix. 53. 2.; <div n="xe">{%the village headman%}
-<div n="lb"/>{%p. s the village with five p. s:%}</div> <div n="xs">{#पञ्चभिर्हलैः कर्षति #}
-<div n="lb"/>{# ग्रामं ग्रामणीः,#}</div> M. n. on Ku. i. 2.; </div><div n="1">(2) {#वाहयति, #}
-<div n="lb"/>{# सं-,#} (c. of {#वह्#}), <div n="xe">{%shall p. low lands where water%}
-<div n="lb"/>{%lodges:%}</div> <div n="xs">{#निम्नां हि वाहयेद् भूमिं यत्र विश्रमते जलम्,#}</div> Pa.
-<div n="lb"/><div n="xe">{%P. in:%}</div> <div n="xs">{#वापयति#}</div> (c. of {#वप्#}), <div n="xe">{%shall p. in yams%}
-<div n="lb"/>{%near water:%}</div> <div n="xs">{#वापयेत् कन्दानि च जलान्तिके,#}</div> Pa. <div n="xe">{%P.%}
-<div n="lb"/>{%up or out:%}</div> <div n="xs">{#हलेन#}</div> <div n="xe">{%or%}</div> <div n="xs">{#लाङ्गलेन उत्कर्षति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उत्पाटयति#}</div>
-<div n="lb"/>({#पट्,#} c. 10.).</div>
+{@PLOUGH@}¦ (v.): <div n="1">(1) {#कर्षति, वि-, प्र-,#} ({#कृष्,#} c. 1.),
+<div n="xe">{%it was p. ed by the great Kuru:%}</div> <div n="xs">{#प्रकृष्टमेतत् कुरुणा #}
+{# महात्मना,#}</div> Mah. ix. 53. 2.; <div n="xe">{%the village headman%}
+{%p. s the village with five p. s:%}</div> <div n="xs">{#पञ्चभिर्हलैः कर्षति #}
+{# ग्रामं ग्रामणीः,#}</div> M. n. on Ku. i. 2.; </div><div n="1">(2) {#वाहयति, #}
+{# सं-,#} (c. of {#वह्#}), <div n="xe">{%shall p. low lands where water%}
+{%lodges:%}</div> <div n="xs">{#निम्नां हि वाहयेद् भूमिं यत्र विश्रमते जलम्,#}</div> Pa.
+<div n="xe">{%P. in:%}</div> <div n="xs">{#वापयति#}</div> (c. of {#वप्#}), <div n="xe">{%shall p. in yams%}
+{%near water:%}</div> <div n="xs">{#वापयेत् कन्दानि च जलान्तिके,#}</div> Pa. <div n="xe">{%P.%}
+{%up or out:%}</div> <div n="xs">{#हलेन#}</div> <div n="xe">{%or%}</div> <div n="xs">{#लाङ्गलेन उत्कर्षति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उत्पाटयति#}</div>
+({#पट्,#} c. 10.).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>16437<pc>504<k1>parliamentary<k2>parliamentary
-<div n="lb"/>{@PARLIAMENTARY:@}¦ expr. by comp. or by gen.,
-<div n="lb"/><div n="xe">{%p. procedure:%}</div> <div n="xs">{#महासभाव्यवहारः।#}</div>
+{@PARLIAMENTARY:@}¦ expr. by comp. or by gen.,
+<div n="xe">{%p. procedure:%}</div> <div n="xs">{#महासभाव्यवहारः।#}</div>
 <LEND>

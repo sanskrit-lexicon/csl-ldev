@@ -19,14 +19,14 @@
 <ls>AV. PRĀT. 1, 18.</ls> 
 <ls>P. 1, 1, 8.</ls> 
 <ls>M. 1, 31. 87. 92. 2, 60.</ls> 
-<ls>MBH. 3, 2838. 2944.</ls> 
+<ls>MBH. 3, 2838.</ls> <ls n="MBH. 3,">2944.</ls> 
 <ls>ṚT. 1, 3.</ls> 
 <ls>Spr. 2212.</ls> 
-<ls>VARĀH. BṚH. S. 106, 5</ls> <ls>?= BṚH. 28, 8.</ls> {#इत्यावेद्य प्रतीहारमुखेन#} 
+<ls>VARĀH. BṚH. S. 106, 5</ls> = <ls>BṚH. 28, 8.</ls> {#इत्यावेद्य प्रतीहारमुखेन#} 
 <ls>VID. 8.</ls> {#दूतमुखैः - अयाचत#} 
 <ls>KATHĀS. 56, 84. 257.</ls> 
 <ls>PAÑCAT. 46, 22.</ls> {#दूतमुखा हि राजानः सर्व एव#} 
-<ls>?161, 20. VET. in LA. (II) 21, 5.</ls> {#मुखस्य शोधनम्#} 
+<ls>161, 20.</ls> <ls>VET. in LA. (II) 21, 5.</ls> {#मुखस्य शोधनम्#} 
 <ls>Verz. d. Oxf. H. 102,a,31.</ls> {#°परीक्षा#} 
 <ls>Verz. d. B. H. No. 983.</ls> {#मुखनासिकम्#} 
 <ls>AV. PRĀT. 1, 27.</ls> {#मांस°#} <lex>adj.</lex> {%Fleisch im Munde habend%} 
@@ -46,9 +46,9 @@
 <ls>RAGH. 15, 60.</ls> {#एकोनविंशति°#} <lex>adj.</lex> 
 <ls>MĀṆḌ. UP. 3.</ls> 
 <div n="1">— 2) {%Gesicht, Schnauze eines Thieres%} 
-<ls>ŚĀṄKH. GṚHY. 1, 12, 5.</ls> <ls>ĀŚV. GṚHY. 3, 6, 7. 4, 7, 22.</ls> <ls>M. 2, 192.</ls> <ls>MBH. 1, 7703. fg. 3, 1778. 2197.</ls> <ls>DAŚ. 2, 66.</ls> <ls>SUŚR. 1, 126, 6.</ls> <ls>MEGH. 25. 27. 49. 82. 104.</ls> <ls>ṚT. 1, 9.</ls> <ls>Spr. 423.</ls> {#मुखचन्द्र#} 
+<ls>ŚĀṄKH. GṚHY. 1, 12, 5.</ls> <ls>ĀŚV. GṚHY. 3, 6, 7. 4, 7, 22.</ls> <ls>M. 2, 192.</ls> <ls>MBH. 1, 7703. fg.</ls> <ls n="MBH.">3, 1778.</ls> <ls n="MBH. 3,">2197.</ls> <ls>DAŚ. 2, 66.</ls> <ls>SUŚR. 1, 126, 6.</ls> <ls>MEGH. 25. 27. 49. 82. 104.</ls> <ls>ṚT. 1, 9.</ls> <ls>Spr. 423.</ls> {#मुखचन्द्र#} 
 <ls>865. 990. 2208. fg. 2211.</ls> {#उपानन्मुखभङ्ग#} 
-<ls>?4002. VARĀH. BṚH. S. 53, 51. 58, 4. 68, 55. VET. in LA. (II) 4, 13. 7, 21.</ls> {#मुखगतं श्मश्रु#} 
+<ls>4002.</ls> <ls>VARĀH. BṚH. S. 53, 51. 58, 4. 68, 55.</ls> <ls>VET. in LA. (II) 4, 13. 7, 21.</ls> {#मुखगतं श्मश्रु#} 
 <ls>HALĀY. 2, 369.</ls> {#°धावन#} 
 <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> {#श्वशूकरमुखानुग (छिद्र)#} 
 <ls>M. 8, 239.</ls> 
@@ -86,7 +86,7 @@
 <ls>3, 3.</ls> <ls>SŪRYAS. 6, 20. 22. 10, 8. 10.</ls> <ls>VARĀH. BṚH. S. 89, 4. fg.</ls> {#यथासुख°#} {%richtend das Gesicht wohin es ihm bequem ist%} 
 <ls>M. 4, 51.</ls> {#अधोमुखमुखी = अधोमुखी#} 
 <ls>R. 5, 26, 20. 6, 7, 12.</ls> {#सर्वमुखत्व#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 20.</ls> Auf diesen Gebrauch des Wortes in <lex>adj.</lex> compp., die auch mit leblosen Gegenständen, wo also an kein Gesicht mehr gedacht wird, verbunden werden, ist zurückzuführen die Bedeutung 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 20.</ls> Auf diesen Gebrauch des Wortes in <lex>adj.</lex> compp., die auch mit leblosen Gegenständen, wo also an kein Gesicht mehr gedacht wird, verbunden werden, ist zurückzuführen die Bedeutung 
 <div n="1">— 3) {%Richtung%}: {#आशा° = दिङ्मुख#} (s. d.) {%Himmelsrichtung%} 
 <ls>MṚCCH. 85, 2.</ls> {#अन्तर्मुखम्#} {%nach innen%} 
 <ls>SŪRYAS. 10, 12.</ls> {#अपकृष्यन्ते स्वदिङ्मुखम्#} 
@@ -192,10 +192,10 @@
 <ls>Spr. 3882.</ls> 
 <ls>SĀH. D. 23, 12.</ls> {#परिणाममुखमिदमृतोः#} (vielleicht ist {#सुखम्#} st. {#मुखम्#} zu lesen) — {#यौवनम्#} 
 <ls>MĀLAV. 79.</ls> {#(महारथाः) जयद्रथमुखाः#} <is>Jayadratha</is> {%und Andere%}, <is>Jayadr</is>. {%u.s.w.%} 
-<ls>MBH. 1, 532. 3, 1997. 4, 85.</ls> {#गङ्गामुखीभिः (°मुखाभिः#} die neuere Ausg.) {#सरिद्भिः#} 
+<ls>MBH. 1, 532.</ls> <ls n="MBH.">3, 1997.</ls> <ls n="MBH.">4, 85.</ls> {#गङ्गामुखीभिः (°मुखाभिः#} die neuere Ausg.) {#सरिद्भिः#} 
 <ls>HARIV. 2967.</ls> 
 <ls>R. 4, 48, 1.</ls> 
-<ls>RAGH. 8,</ls> <ls>?21.KATHĀS. 44, 130. 72, 396.</ls>
+<ls>RAGH. 8,</ls> <ls>21.KATHĀS. 44, 130. 72, 396.</ls>
 [Page5-0804]
 {#ग्रामाः - जयस्थलमुखाः (जयस्थल#} N. pr. eines <is>Grāma</is>) 
 <ls>RĀJA-TAR. 5, 121.</ls> {#इष्टिपशुसोममुखैर्मखैः#} 

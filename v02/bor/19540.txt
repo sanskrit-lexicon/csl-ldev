@@ -1,11 +1,11 @@
 <L>19540<pc>607<k1>rule<k2>rule
-<div n="lb"/>{@RULE@}¦ (subs.): <div n="I">I Reign, government: q. v.:
-<div n="lb"/>{#शासनम्।#} </div><div n="I">II Regulation, precept: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#विधिः।#} Ph.: {%conversant with the r. s of grammar:%}
-<div n="lb"/>{#शब्दशासनविद्#} (mfn.), Si. xiv. 34.; </div><div n="1">(2)
-<div n="lb"/>{#सूत्रम्#} (= aphorism). </div><div n="I">III An instrument: v.
-<div n="lb"/>Ruler. </div><div n="I">IV Standard measure: {#प्रमाणम्।#} Ph.:
-<div n="lb"/>{%r. of three%} (in arith.): {#त्रैराशिकम्;#} <div n="xe">{%inverse r. of%}
-<div n="lb"/>{%three:%}</div> <div n="xs">{#व्यस्तत्रैराशिकम्,#}</div> Li.; <div n="xe">{%double r.:%}</div> <div n="xs">{#पञ्चराशिकम्, #}
-<div n="lb"/>{# सप्तराशिकम्,#}</div> etc.</div>
+{@RULE@}¦ (subs.): <div n="I">I Reign, government: q. v.:
+{#शासनम्।#} </div><div n="I">II Regulation, precept: q. v.: </div><div n="1">(1)
+{#विधिः।#} Ph.: {%conversant with the r. s of grammar:%}
+{#शब्दशासनविद्#} (mfn.), Si. xiv. 34.; </div><div n="1">(2)
+{#सूत्रम्#} (= aphorism). </div><div n="I">III An instrument: v.
+Ruler. </div><div n="I">IV Standard measure: {#प्रमाणम्।#} Ph.:
+{%r. of three%} (in arith.): {#त्रैराशिकम्;#} <div n="xe">{%inverse r. of%}
+{%three:%}</div> <div n="xs">{#व्यस्तत्रैराशिकम्,#}</div> Li.; <div n="xe">{%double r.:%}</div> <div n="xs">{#पञ्चराशिकम्, #}
+{# सप्तराशिकम्,#}</div> etc.</div>
 <LEND>

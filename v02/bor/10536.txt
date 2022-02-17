@@ -1,4 +1,4 @@
 <L>10536<pc>331<k1>half-open<k2>half-open
-<div n="lb"/>{@HALF-OPEN:@}¦ <div n="1">(1) {#अर्द्धाविवृतः#} ({#ता, तं#}) and sim.
-<div n="lb"/>comp.s; </div><div n="1">(2) {#स्फुटास्फुटः#} ({#टा, टं#}).</div>
+{@HALF-OPEN:@}¦ <div n="1">(1) {#अर्द्धाविवृतः#} ({#ता, तं#}) and sim.
+comp.s; </div><div n="1">(2) {#स्फुटास्फुटः#} ({#टा, टं#}).</div>
 <LEND>

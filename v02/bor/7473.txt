@@ -1,10 +1,10 @@
 <L>7473<pc>236<k1>emit<k2>emit
-<div n="lb"/>{@EMIT@}¦ (v.): <div n="1">(1) {#मुञ्चति निर्-, वि-, प्र-,#} ({#मुच्,#} c. 6.),
-<div n="lb"/><div n="xe">{%e. ted steam:%}</div> <div n="xs">{#उष्माणममुञ्चत्,#}</div> Ku.; {%to e. water:%}
-<div n="lb"/>{#अपो मुञ्चति,#} Ki.; </div><div n="1">(2) {#विसृजति#} ({#सृज्,#} c. 6.), <div n="xe">{%to%}
-<div n="lb"/>{%e. fire:%}</div> <div n="xs">{#अग्निं विसृजति,#}</div> Sa.: v. To send forth,
-<div n="lb"/>throw out, vomit. {%To be e. ted.:%} i. e. to
-<div n="lb"/>come out: q. v.: {#निः- सरति, प्र-,#} ({#सृ,#} c. 1.),
-<div n="lb"/><div n="xe">{%from the bow arrows were e. ted:%}</div> <div n="xs">{#धनुषः शराः #}
-<div n="lb"/>{# प्रसस्रुः,#}</div> Si.</div>
+{@EMIT@}¦ (v.): <div n="1">(1) {#मुञ्चति निर्-, वि-, प्र-,#} ({#मुच्,#} c. 6.),
+<div n="xe">{%e. ted steam:%}</div> <div n="xs">{#उष्माणममुञ्चत्,#}</div> Ku.; {%to e. water:%}
+{#अपो मुञ्चति,#} Ki.; </div><div n="1">(2) {#विसृजति#} ({#सृज्,#} c. 6.), <div n="xe">{%to%}
+{%e. fire:%}</div> <div n="xs">{#अग्निं विसृजति,#}</div> Sa.: v. To send forth,
+throw out, vomit. {%To be e. ted.:%} i. e. to
+come out: q. v.: {#निः- सरति, प्र-,#} ({#सृ,#} c. 1.),
+<div n="xe">{%from the bow arrows were e. ted:%}</div> <div n="xs">{#धनुषः शराः #}
+{# प्रसस्रुः,#}</div> Si.</div>
 <LEND>

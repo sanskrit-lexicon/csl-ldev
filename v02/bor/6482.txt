@@ -1,4 +1,4 @@
 <L>6482<pc>207<k1>disparity<k2>disparity
-<div n="lb"/>{@DISPARITY:@}¦ <div n="1">(1) {#वैषम्यम्:#} v. Inequality: </div><div n="1">(2)
-<div n="lb"/>{#भेदः:#} v. Difference.</div>
+{@DISPARITY:@}¦ <div n="1">(1) {#वैषम्यम्:#} v. Inequality: </div><div n="1">(2)
+{#भेदः:#} v. Difference.</div>
 <LEND>

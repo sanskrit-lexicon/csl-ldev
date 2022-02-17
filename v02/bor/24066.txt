@@ -1,14 +1,14 @@
 <L>24066<pc>753<k1>want<k2>want
-<div n="lb"/>{@WANT@}¦ (v.): <div n="I">I To be without: {#हीयते, परि-#}
-<div n="lb"/>(pass. of {#हा#}), <div n="xe">{%nothing is w.ing in you:%}</div> <div n="xs">{#आर्यस्य #}
-<div n="lb"/>{# किमपि न परिहास्यते,#}</div> Sa. i.; {%w.ing in riches:%}
-<div n="lb"/>{#धनहीन#} (f. {#ना#}): v. Devoid of. </div><div n="I">II To require,
-<div n="lb"/>need: </div><div n="1">(1) {#अपेक्षते#} ({#ईक्ष्,#} c. 1.), <div n="xe">{%that it would%}
-<div n="lb"/>{%w. other visible illustrations:%}</div> <div n="xs">{#येनान्यत्र दृष्ट निदर्शन-#}
-<div n="lb"/>{#मपेक्षेत,#}</div> S. i. 4.; </div><div n="1">(2) {#आकाङ्क्षति#} ({#काङ्क्ष्,#} c. 1.),
-<div n="lb"/><div n="xe">{%here it w. s%}</div> <div n="xs">{#अपेक्षितुम्: अत्र उपेक्षितुमित्याकांङ्क्षति,#}</div>
-<div n="lb"/>Kav. vii. </div><div n="I">III To long for, wish: q. v.:
-<div n="lb"/>{#वृणोति#} <div n="xe">{%or%}</div> <div n="xs">{#वृणुते#}</div> ({#वृ,#} c. 5.), <div n="xe">{%whatever she w. ed%}
-<div n="lb"/>{%she found brought to her:%}</div> <div n="xs">{#यदेव वव्रे तदपश्यदाहृतम्,#}</div>
-<div n="lb"/>R. iii. 6.</div>
+{@WANT@}¦ (v.): <div n="I">I To be without: {#हीयते, परि-#}
+(pass. of {#हा#}), <div n="xe">{%nothing is w.ing in you:%}</div> <div n="xs">{#आर्यस्य #}
+{# किमपि न परिहास्यते,#}</div> Sa. i.; {%w.ing in riches:%}
+{#धनहीन#} (f. {#ना#}): v. Devoid of. </div><div n="I">II To require,
+need: </div><div n="1">(1) {#अपेक्षते#} ({#ईक्ष्,#} c. 1.), <div n="xe">{%that it would%}
+{%w. other visible illustrations:%}</div> <div n="xs">{#येनान्यत्र दृष्ट निदर्शन-#}
+{#मपेक्षेत,#}</div> S. i. 4.; </div><div n="1">(2) {#आकाङ्क्षति#} ({#काङ्क्ष्,#} c. 1.),
+<div n="xe">{%here it w. s%}</div> <div n="xs">{#अपेक्षितुम्: अत्र उपेक्षितुमित्याकांङ्क्षति,#}</div>
+Kav. vii. </div><div n="I">III To long for, wish: q. v.:
+{#वृणोति#} <div n="xe">{%or%}</div> <div n="xs">{#वृणुते#}</div> ({#वृ,#} c. 5.), <div n="xe">{%whatever she w. ed%}
+{%she found brought to her:%}</div> <div n="xs">{#यदेव वव्रे तदपश्यदाहृतम्,#}</div>
+R. iii. 6.</div>
 <LEND>

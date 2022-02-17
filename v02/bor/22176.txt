@@ -1,9 +1,9 @@
 <L>22176<pc>700<k1>tall<k2>tall
-<div n="lb"/>{@TALL:@}¦ <div n="1">(1) {#उच्च#} (f. {#च्चा,#}=high), <div n="xe">{%she has protrud-%}
-<div n="lb"/>{%ing eyes, is very t.:%}</div> <div n="xs">{#कठोरनेत्रा सात्युच्चा,#}</div> M. p.
-<div n="lb"/>69. 30.; <div n="xe">{%from a t. tree:%}</div> <div n="xs">{#उच्चतरोः,#}</div> Si. vii. 38.;</div>
-<div n="lb"/><div n="1">(2) {#दीर्घ#} (f. {#र्घा#}=long), {%and%} ({%she%}) <div n="xe">{%who is very%}
-<div n="lb"/>{%t.:%}</div> <div n="xs">{#अतीव या च दीर्घा,#}</div> V. m. 70. 20.; </div><div n="1">(3) {#प्रांशु#}
-<div n="lb"/>(mfn.: rare), {%which can be reached by a t.%}
-<div n="lb"/>({%man%}): {#प्रंशुलभ्य#} (f. {#भ्या#}), R. i. 3.</div>
+{@TALL:@}¦ <div n="1">(1) {#उच्च#} (f. {#च्चा,#}=high), <div n="xe">{%she has protrud-%}
+{%ing eyes, is very t.:%}</div> <div n="xs">{#कठोरनेत्रा सात्युच्चा,#}</div> M. p.
+69. 30.; <div n="xe">{%from a t. tree:%}</div> <div n="xs">{#उच्चतरोः,#}</div> Si. vii. 38.;</div>
+<div n="1">(2) {#दीर्घ#} (f. {#र्घा#}=long), {%and%} ({%she%}) <div n="xe">{%who is very%}
+{%t.:%}</div> <div n="xs">{#अतीव या च दीर्घा,#}</div> V. m. 70. 20.; </div><div n="1">(3) {#प्रांशु#}
+(mfn.: rare), {%which can be reached by a t.%}
+({%man%}): {#प्रंशुलभ्य#} (f. {#भ्या#}), R. i. 3.</div>
 <LEND>

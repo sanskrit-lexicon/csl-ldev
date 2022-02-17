@@ -1,7 +1,7 @@
 <L>8067<pc>255<k1>exhaustion<k2>exhaustion
-<div n="lb"/>{@EXHAUSTION:@}¦ <div n="I">I Emptying: </div><div n="1">(1) {#शून्यीकरणम्;#}</div>
-<div n="lb"/><div n="1">(2) {#रिक्तीकरणम्।#} </div><div n="I">II Drying up: {#शोषणम्, वि-, #}
-<div n="lb"/>{# उत्-।#} </div><div n="I">III Consumption: {#क्षयः, परि-।#} </div><div n="I">IV
-<div n="lb"/>Fatigue: q. v.: {#खेदः।#} v. Dejection: {#अव-#}
-<div n="lb"/>{#सादः।#}</div>
+{@EXHAUSTION:@}¦ <div n="I">I Emptying: </div><div n="1">(1) {#शून्यीकरणम्;#}</div>
+<div n="1">(2) {#रिक्तीकरणम्।#} </div><div n="I">II Drying up: {#शोषणम्, वि-, #}
+{# उत्-।#} </div><div n="I">III Consumption: {#क्षयः, परि-।#} </div><div n="I">IV
+Fatigue: q. v.: {#खेदः।#} v. Dejection: {#अव-#}
+{#सादः।#}</div>
 <LEND>

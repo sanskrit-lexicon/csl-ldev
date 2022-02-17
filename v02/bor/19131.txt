@@ -1,7 +1,7 @@
 <L>19131<pc>592<k1>resort<k2>resort
-<div n="lb"/>{@RESORT@}¦ (v.): {#सेवते, उप-, परि-, सं-, नि-,#} ({#सेव्,#} c.
-<div n="lb"/>1.), <div n="xe">{%sometimes r. ed to drink:%}</div> <div n="xs">{#कदाचित् पानमसेवत,#}</div>
-<div n="lb"/><ls>R.</ls> ; {%the forest r. ed to by barbarians and robbers:%}
-<div n="lb"/>{#वनं म्लेच्छतस्करसेवितम्:#} v. To (have) recourse,
-<div n="lb"/>frequent.
+{@RESORT@}¦ (v.): {#सेवते, उप-, परि-, सं-, नि-,#} ({#सेव्,#} c.
+1.), <div n="xe">{%sometimes r. ed to drink:%}</div> <div n="xs">{#कदाचित् पानमसेवत,#}</div>
+<ls>R.</ls> ; {%the forest r. ed to by barbarians and robbers:%}
+{#वनं म्लेच्छतस्करसेवितम्:#} v. To (have) recourse,
+frequent.
 <LEND>

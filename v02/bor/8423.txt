@@ -1,4 +1,4 @@
 <L>8423<pc>267<k1>fancy<k2>fancy
-<div n="lb"/>{@FANCY@}¦ (adj.): <div n="xe">{%F. goads:%}</div> <div n="xs">{#रुचिरद्रव्याणि;#}</div> {%f. ball:%}
-<div n="lb"/>{#*रुचिरनृत्यम्;#} <div n="xe">{%f. price%}</div> <div n="xs">{#*कल्पितमूल्यम्।#}</div>
+{@FANCY@}¦ (adj.): <div n="xe">{%F. goads:%}</div> <div n="xs">{#रुचिरद्रव्याणि;#}</div> {%f. ball:%}
+{#*रुचिरनृत्यम्;#} <div n="xe">{%f. price%}</div> <div n="xs">{#*कल्पितमूल्यम्।#}</div>
 <LEND>

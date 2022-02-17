@@ -1,6 +1,6 @@
 <L>18905<pc>584<k1>relapse<k2>relapse
-<div n="lb"/>{@RELAPSE@}¦ (v.): <div n="xe">{%to r. into fever:%}</div> <div n="xs">{#पुनर्ज्वरेणाभिभूयते#}</div>
-<div n="lb"/>(pass. of {#भू#}), {#आक्रम्यते#} (pass of {#क्रम्#}), etc.;
-<div n="lb"/><div n="xe">{%to r. into vice:%}</div> <div n="xs">{#पुनरपन्थानं गच्छति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उत्पथं याति#}</div>
-<div n="lb"/>etc.: v. Also to fall back.
+{@RELAPSE@}¦ (v.): <div n="xe">{%to r. into fever:%}</div> <div n="xs">{#पुनर्ज्वरेणाभिभूयते#}</div>
+(pass. of {#भू#}), {#आक्रम्यते#} (pass of {#क्रम्#}), etc.;
+<div n="xe">{%to r. into vice:%}</div> <div n="xs">{#पुनरपन्थानं गच्छति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उत्पथं याति#}</div>
+etc.: v. Also to fall back.
 <LEND>

@@ -1,7 +1,7 @@
 <L>31712<pc>849-a<k1>young<k2>young
-<div n="lb"/>YOUNG¦, {%s.%} (Young one of any animal) {#शावकः, शिशुः#} {%m.,%} {#पोतः#}
-<div n="lb"/>{#-तकः, अपत्यं, पाकः -का, अर्भकः, डिम्भः, पृथुकः, प्रथुकः, वर्करः -री,#}
-<div n="lb"/>{#कुणकः;#} ‘a young bird,’ {#पक्षिशावकः;#} ‘a young mouse,’ {#मूषि-#}
-<div n="lb"/>{#कशावकः;#} ‘a young elephant,’ {#गजशिशुः#} {%m.;%} ‘a young deer,’
-<div n="lb"/>{#मृगपोतकः#}.
+YOUNG¦, {%s.%} (Young one of any animal) {#शावकः, शिशुः#} {%m.,%} {#पोतः#}
+{#-तकः, अपत्यं, पाकः -का, अर्भकः, डिम्भः, पृथुकः, प्रथुकः, वर्करः -री,#}
+{#कुणकः;#} ‘a young bird,’ {#पक्षिशावकः;#} ‘a young mouse,’ {#मूषि-#}
+{#कशावकः;#} ‘a young elephant,’ {#गजशिशुः#} {%m.;%} ‘a young deer,’
+{#मृगपोतकः#}.
 <LEND>

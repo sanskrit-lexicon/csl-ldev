@@ -1,9 +1,9 @@
 <L>2966<pc>100<k1>cancel<k2>cancel
-<div n="lb"/>{@CANCEL:@}¦ <div n="I">I To erase, obliterate: {#कुण्डलनां #}
-<div n="lb"/>{# तनोति#} ({#तन्,#} c. 8.) (with gen.) (properly by
-<div n="lb"/>the circular mark prevalent among
-<div n="lb"/>Hindus), <ls>N.</ls> </div><div n="I">II. To annul=destroy; {#लुम्पति, #}
-<div n="lb"/>{# अव-, वि-,#} ({#लुप्,#} c. 6.) (?). </div><div n="I">III To strike out
-<div n="lb"/>common factors: {#अपवर्तयति#} (c. of {#वृत्#}), Li.</div>
-<div n="lb"/><div n="I">IV To enclose: q. v.</div>
+{@CANCEL:@}¦ <div n="I">I To erase, obliterate: {#कुण्डलनां #}
+{# तनोति#} ({#तन्,#} c. 8.) (with gen.) (properly by
+the circular mark prevalent among
+Hindus), <ls>N.</ls> </div><div n="I">II. To annul=destroy; {#लुम्पति, #}
+{# अव-, वि-,#} ({#लुप्,#} c. 6.) (?). </div><div n="I">III To strike out
+common factors: {#अपवर्तयति#} (c. of {#वृत्#}), Li.</div>
+<div n="I">IV To enclose: q. v.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>3330<pc>111<k1>cent<k2>cent
-<div n="lb"/>{@CENT:@}¦ Ph. <div n="xe">{%Interest at two, three, four, five per c.%}
-<div n="lb"/>{%per annum%}</div> <div n="xs">{#द्विकं, त्रिकं, चतुष्कं, पञ्चकं शतं वार्षिकी वृद्धिः#}</div> {%or%}
-<div n="lb"/>{#वर्धे वर्षे द्वित्रिचतुःपञ्चकं शतं वृद्धिः,#} M.; <div n="xe">{%our profits are%}
-<div n="lb"/>{%100 per c.%}</div> <div n="xs">{#द्विगुणा नो लाभाः,#}</div> (after M. n.).
+{@CENT:@}¦ Ph. <div n="xe">{%Interest at two, three, four, five per c.%}
+{%per annum%}</div> <div n="xs">{#द्विकं, त्रिकं, चतुष्कं, पञ्चकं शतं वार्षिकी वृद्धिः#}</div> {%or%}
+{#वर्धे वर्षे द्वित्रिचतुःपञ्चकं शतं वृद्धिः,#} M.; <div n="xe">{%our profits are%}
+{%100 per c.%}</div> <div n="xs">{#द्विगुणा नो लाभाः,#}</div> (after M. n.).
 <LEND>

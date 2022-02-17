@@ -1,14 +1,14 @@
 <L>29678<pc>0590-b<k1>पूय्<k2>पूय्
 {#पूय्#}¦ {%pūy,%} cl. 1. P. A. {%pūyati, -te, pupūya,%}
-<div n="lb"/>{%-ye, pūyiṣyati, -te, pūyitum,%} Ved. to
-<div n="lb"/>become foul or putrid, to putrefy, stink; to be dis-
-<div n="lb"/>solved; to split or cleave (?); [cf. Zend <nsi>pū,</nsi> ‘to
-<div n="lb"/>stink;’ <nsi>pui-ti,</nsi> ‘putridness:’ Gr. <lang n="greek">πύ-θ-ω, πΰθ-ο-μαι,</lang>
-<div n="lb"/><lang n="greek">πυθ-ε-δών, Πυθ-ώ, Πύθων, πύ-ο-ν, πυέ-ω, πῦος:</lang>
-<div n="lb"/>Lat. <nsi>pūs, pus-cīnu-s, pur-u-lentu-s, put-eo, puter,</nsi>
-<div n="lb"/><nsi>put-i-du-s, pud-ere:</nsi> Goth. <nsi>ful-s,</nsi> ‘foul:’ Old Norse
-<div n="lb"/><nsi>fūi,</nsi> ‘putridness;’ <nsi>fūk-i,</nsi> ‘a stench:’ Angl. Sax.
-<div n="lb"/><nsi>fūl</nsi> = Eng. <nsi>foul</nsi> = Mod. Germ. <nsi>faul:</nsi> Lith. <nsi>pú-ti,</nsi>
-<div n="lb"/>‘to putrefy;’ <nsi>pú-d-au,</nsi> ‘I cause to putrefy;’ <nsi>pú-lei,</nsi>
-<div n="lb"/>‘pus:’ Hib. <nsi>putar,</nsi> ‘putrid, stinking.’]
+{%-ye, pūyiṣyati, -te, pūyitum,%} Ved. to
+become foul or putrid, to putrefy, stink; to be dis-
+solved; to split or cleave (?); [cf. Zend <nsi>pū,</nsi> ‘to
+stink;’ <nsi>pui-ti,</nsi> ‘putridness:’ Gr. <lang n="greek">πύ-θ-ω, πΰθ-ο-μαι,</lang>
+<lang n="greek">πυθ-ε-δών, Πυθ-ώ, Πύθων, πύ-ο-ν, πυέ-ω, πῦος:</lang>
+Lat. <nsi>pūs, pus-cīnu-s, pur-u-lentu-s, put-eo, puter,</nsi>
+<nsi>put-i-du-s, pud-ere:</nsi> Goth. <nsi>ful-s,</nsi> ‘foul:’ Old Norse
+<nsi>fūi,</nsi> ‘putridness;’ <nsi>fūk-i,</nsi> ‘a stench:’ Angl. Sax.
+<nsi>fūl</nsi> = Eng. <nsi>foul</nsi> = Mod. Germ. <nsi>faul:</nsi> Lith. <nsi>pú-ti,</nsi>
+‘to putrefy;’ <nsi>pú-d-au,</nsi> ‘I cause to putrefy;’ <nsi>pú-lei,</nsi>
+‘pus:’ Hib. <nsi>putar,</nsi> ‘putrid, stinking.’]
 <LEND>

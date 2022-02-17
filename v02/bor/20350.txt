@@ -1,4 +1,4 @@
 <L>20350<pc>636<k1>sheep-cot<k2>sheep-cot
-<div n="lb"/>{@SHEEP-COT,@}¦ {@SHEEP-FOLD:@} {#मेषशाला#} and sim.
-<div n="lb"/>comp.s.
+{@SHEEP-COT,@}¦ {@SHEEP-FOLD:@} {#मेषशाला#} and sim.
+comp.s.
 <LEND>

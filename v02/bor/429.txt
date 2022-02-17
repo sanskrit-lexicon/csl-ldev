@@ -1,30 +1,30 @@
 <L>429<pc>016<k1>after<k2>after
-<div n="lb"/>{@AFTER@}¦ (prep.): <div n="I">I Behind: q. v.: {#अनु#}
-<div n="lb"/>(with acc.): <div n="xe">{%to go a.%}</div> <div n="xs">{#अनुगच्छति;#}</div> <div n="xe">{%to run a.%}</div> <div n="xs">{#अनु-#}
-<div n="lb"/>{#द्रवति।#}</div> </div><div n="I">II At a later time: </div><div n="1">(1) By abl.: <div n="xe">{%seen%}
-<div n="lb"/>{%a. a long time%}</div> <div n="xs">{#बहोर्दृष्टं कालात्,#}</div> <ls>U.</ls> ii. N. B. This
-<div n="lb"/>const. is very rare; </div><div n="1">(2) {#अनन्तरं#} (with abl. or
-<div n="lb"/>crude base): <div n="xe">{%a. his father%}</div> <div n="xs">{#पितुरनन्तरं,#}</div> R. ix.
-<div n="lb"/>1.; <div n="xe">{%a. 16 years%}</div> <div n="xs">{#षोडशवर्षानन्तरं,#}</div> D.; <div n="xe">{%just a. his%}
-<div n="lb"/>{%order%}</div> <div n="xs">{#वचनान्तरमेव,#}</div> K.; </div><div n="1">(3) {#परं#} (with abl.): <div n="xe">{%a.%}
-<div n="lb"/>{%childhood%}</div> <div n="xs">{#बाल्यात् परं#}</div> Ku. i. 31.; </div><div n="1">(4) {#ऊर्द्धम्#}
-<div n="lb"/>(with abl.) <div n="xe">{%a. childbirth%}</div> <div n="xs">{#ऊर्द्धं प्रसूतेः,#}</div> R. xiv. 66;</div>
-<div n="lb"/><div n="1">(5) {#अर्वाक्#} (with abl.) (rare); </div><div n="1">(6) When
-<div n="lb"/>time is specified, by loc. {%or%} loc. absolute
-<div n="lb"/>of words signifying motion: <div n="xe">{%a. the rainy%}
-<div n="lb"/>{%season%}</div> <div n="xs">{#अतीते वर्षुके काले,#}</div> B. vii. 18.; <div n="xe">{%a. a few%}
-<div n="lb"/>{%days%}</div> <div n="xs">{#कतिपयदिवसावगमे,#}</div> K.; {#ततो गतेषु कतिपयदिनेषु,#}
-<div n="lb"/><ls>D.</ls> (N. B. note that {#इतः#} (=from this time)
-<div n="lb"/>and {#ततः#} (=from that time) are sometimes
-<div n="lb"/>prefixed in such cases for the sake of
-<div n="lb"/>precision); </div><div n="1">(7) Sometimes by part. s: <div n="xe">{%a.%}
-<div n="lb"/>{%bathing with the water of the cascade%}</div> <div n="xs">{#निर्भरजल-#}
-<div n="lb"/>{#निवर्तितस्नानविधिः,#}</div> [Page017] <ls>K.</ls> </div><div n="I">III. In an inferior
-<div n="lb"/>degree to: {#अनु#} (with acc.): <div n="xe">{%a. the acquisi-%}
-<div n="lb"/>{%tion of friends%}</div> <div n="xs">{#मित्रलाभमनु,#}</div> Ki. xiii. 53. </div><div n="I">IV In
-<div n="lb"/>imitation of: </div><div n="1">(1) {#अनु#} (with acc.), {%every%}
-<div n="lb"/>{%thing yours is a. me, but you do not feel the%}
-<div n="lb"/>{%pain of separation from your beloved%} ({%wife%}) {#सर्वं #}
-<div n="lb"/>{# मामनु ते प्रियाविरहजां त्वं तु व्यथां मानुभूः,#} V. iv.;</div>
-<div n="lb"/><div n="1">(2) {#अनुरूपः#} ({#पा, पं#}).</div>
+{@AFTER@}¦ (prep.): <div n="I">I Behind: q. v.: {#अनु#}
+(with acc.): <div n="xe">{%to go a.%}</div> <div n="xs">{#अनुगच्छति;#}</div> <div n="xe">{%to run a.%}</div> <div n="xs">{#अनु-#}
+{#द्रवति।#}</div> </div><div n="I">II At a later time: </div><div n="1">(1) By abl.: <div n="xe">{%seen%}
+{%a. a long time%}</div> <div n="xs">{#बहोर्दृष्टं कालात्,#}</div> <ls>U.</ls> ii. N. B. This
+const. is very rare; </div><div n="1">(2) {#अनन्तरं#} (with abl. or
+crude base): <div n="xe">{%a. his father%}</div> <div n="xs">{#पितुरनन्तरं,#}</div> R. ix.
+1.; <div n="xe">{%a. 16 years%}</div> <div n="xs">{#षोडशवर्षानन्तरं,#}</div> D.; <div n="xe">{%just a. his%}
+{%order%}</div> <div n="xs">{#वचनान्तरमेव,#}</div> K.; </div><div n="1">(3) {#परं#} (with abl.): <div n="xe">{%a.%}
+{%childhood%}</div> <div n="xs">{#बाल्यात् परं#}</div> Ku. i. 31.; </div><div n="1">(4) {#ऊर्द्धम्#}
+(with abl.) <div n="xe">{%a. childbirth%}</div> <div n="xs">{#ऊर्द्धं प्रसूतेः,#}</div> R. xiv. 66;</div>
+<div n="1">(5) {#अर्वाक्#} (with abl.) (rare); </div><div n="1">(6) When
+time is specified, by loc. {%or%} loc. absolute
+of words signifying motion: <div n="xe">{%a. the rainy%}
+{%season%}</div> <div n="xs">{#अतीते वर्षुके काले,#}</div> B. vii. 18.; <div n="xe">{%a. a few%}
+{%days%}</div> <div n="xs">{#कतिपयदिवसावगमे,#}</div> K.; {#ततो गतेषु कतिपयदिनेषु,#}
+<ls>D.</ls> (N. B. note that {#इतः#} (=from this time)
+and {#ततः#} (=from that time) are sometimes
+prefixed in such cases for the sake of
+precision); </div><div n="1">(7) Sometimes by part. s: <div n="xe">{%a.%}
+{%bathing with the water of the cascade%}</div> <div n="xs">{#निर्भरजल-#}
+{#निवर्तितस्नानविधिः,#}</div> [Page017] <ls>K.</ls> </div><div n="I">III. In an inferior
+degree to: {#अनु#} (with acc.): <div n="xe">{%a. the acquisi-%}
+{%tion of friends%}</div> <div n="xs">{#मित्रलाभमनु,#}</div> Ki. xiii. 53. </div><div n="I">IV In
+imitation of: </div><div n="1">(1) {#अनु#} (with acc.), {%every%}
+{%thing yours is a. me, but you do not feel the%}
+{%pain of separation from your beloved%} ({%wife%}) {#सर्वं #}
+{# मामनु ते प्रियाविरहजां त्वं तु व्यथां मानुभूः,#} V. iv.;</div>
+<div n="1">(2) {#अनुरूपः#} ({#पा, पं#}).</div>
 <LEND>

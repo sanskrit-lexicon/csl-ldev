@@ -1,5 +1,5 @@
 <L>10539<pc>331<k1>half-sister<k2>half-sister
-<div n="lb"/>{@HALF-SISTER:@}¦ <div n="I">I By the same father: {#वैमात्रेय-#}
-<div n="lb"/>{#भगिनी।#} </div><div n="I">II By the same mother: {#अन्यपितृजा#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#मातृजा भगिनी।#}</div></div>
+{@HALF-SISTER:@}¦ <div n="I">I By the same father: {#वैमात्रेय-#}
+{#भगिनी।#} </div><div n="I">II By the same mother: {#अन्यपितृजा#}
+<div n="xe">{%or%}</div> <div n="xs">{#मातृजा भगिनी।#}</div></div>
 <LEND>

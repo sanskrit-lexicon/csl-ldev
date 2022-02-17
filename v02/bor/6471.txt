@@ -1,7 +1,7 @@
 <L>6471<pc>207<k1>disorder<k2>disorder
-<div n="lb"/>{@DISORDER@}¦ (subs.): <div n="I">I Confusion: <div n="xe">{%threw the%}
-<div n="lb"/>{%encampment in d.:%}</div> <div n="xs">{#सेनानिवेशं तुमुलं चकार,#}</div> R. v.
-<div n="lb"/>49.; <div n="xe">{%the entire Zenana was thrown in d.:%}</div> <div n="xs">{#सकल-#}
-<div n="lb"/>{#मेवान्तःपुरमाकुलीबभूव,#}</div> D. </div><div n="I">II Tumult: q. v.:
-<div n="lb"/>{#तुमुलम्।#} </div><div n="I">III Disease: q. v.: {#पीडा।#}</div>
+{@DISORDER@}¦ (subs.): <div n="I">I Confusion: <div n="xe">{%threw the%}
+{%encampment in d.:%}</div> <div n="xs">{#सेनानिवेशं तुमुलं चकार,#}</div> R. v.
+49.; <div n="xe">{%the entire Zenana was thrown in d.:%}</div> <div n="xs">{#सकल-#}
+{#मेवान्तःपुरमाकुलीबभूव,#}</div> D. </div><div n="I">II Tumult: q. v.:
+{#तुमुलम्।#} </div><div n="I">III Disease: q. v.: {#पीडा।#}</div>
 <LEND>

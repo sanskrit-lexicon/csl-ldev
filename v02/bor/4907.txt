@@ -1,8 +1,8 @@
 <L>4907<pc>158<k1>country<k2>country
-<div n="lb"/>{@COUNTRY@}¦ (subs.): <div n="I">I A tract of land: </div><div n="1">(1)
-<div n="lb"/>{#देशः,#} <div n="xe">{%one's own c.:%}</div> <div n="xs">{#स्वदेशः;#}</div> {%I will leave this c.:%}
-<div n="lb"/>{#देशमिमं जिहासामि,#} D. ii.; </div><div n="1">(2) {#राष्ट्रम्,#} <div n="xe">{%among the%}
-<div n="lb"/>{%c. s you have seen:%}</div> <div n="xs">{#भवदृष्टेषु राष्ट्रेषु,#}</div> D. vi.;</div>
-<div n="lb"/><div n="1">(3) {#विषयः;#} </div><div n="1">(4) {#जनपदः।#} </div><div n="I">II As opposed to
-<div n="lb"/>town: {#ग्रामः#} (=village) (?).</div>
+{@COUNTRY@}¦ (subs.): <div n="I">I A tract of land: </div><div n="1">(1)
+{#देशः,#} <div n="xe">{%one's own c.:%}</div> <div n="xs">{#स्वदेशः;#}</div> {%I will leave this c.:%}
+{#देशमिमं जिहासामि,#} D. ii.; </div><div n="1">(2) {#राष्ट्रम्,#} <div n="xe">{%among the%}
+{%c. s you have seen:%}</div> <div n="xs">{#भवदृष्टेषु राष्ट्रेषु,#}</div> D. vi.;</div>
+<div n="1">(3) {#विषयः;#} </div><div n="1">(4) {#जनपदः।#} </div><div n="I">II As opposed to
+town: {#ग्रामः#} (=village) (?).</div>
 <LEND>

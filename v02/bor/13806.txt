@@ -1,8 +1,8 @@
 <L>13806<pc>424<k1>lord<k2>lord
-<div n="lb"/>{@LORD@}¦ (subs.): <div n="1">(1) {#ईशः,#} <div n="xe">{%the L. of the past, the%}
-<div n="lb"/>{%future, and the present:%}</div> <div n="xs">{#भूतभव्यभवदीशः,#}</div> Ki.; </div><div n="1">(2)
-<div n="lb"/>{#ईश्वरः,#} <div n="xe">{%the l. of Kāmrupa:%}</div> <div n="xs">{#कामरूपेश्वरः,#}</div> R.: v.
-<div n="lb"/>Master. Ph.: {%‘my l.’%} (as a term of
-<div n="lb"/>address) {#देवः#} <div n="xe">{%or%}</div> <div n="xs">{#आर्यपुत्रः#}</div> (by wives) <div n="xe">{%or%}</div> <div n="xs">{#मर्तृ#}</div> (m.)
-<div n="lb"/>(by menial servants): v. Master.</div>
+{@LORD@}¦ (subs.): <div n="1">(1) {#ईशः,#} <div n="xe">{%the L. of the past, the%}
+{%future, and the present:%}</div> <div n="xs">{#भूतभव्यभवदीशः,#}</div> Ki.; </div><div n="1">(2)
+{#ईश्वरः,#} <div n="xe">{%the l. of Kāmrupa:%}</div> <div n="xs">{#कामरूपेश्वरः,#}</div> R.: v.
+Master. Ph.: {%‘my l.’%} (as a term of
+address) {#देवः#} <div n="xe">{%or%}</div> <div n="xs">{#आर्यपुत्रः#}</div> (by wives) <div n="xe">{%or%}</div> <div n="xs">{#मर्तृ#}</div> (m.)
+(by menial servants): v. Master.</div>
 <LEND>

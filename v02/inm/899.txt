@@ -1,15 +1,15 @@
 <L>899<pc>094-2<k1>अस्त<k2>अस्त
-{@*Asta,@}¦ the place (mountain) in the west where the sun sets:
-<div n="lb">I, 717 {%(°ācala),%} 1270 {%(giriṃ),%} 1894 (= do.), 4143 (= do.),
-<div n="lb">4697 (= do.), 6058 {%(prāg A°gamanād raveḥ);%} III, 11834
-<div n="lb">{%(girivaraśreṣṭhaṃ),%} 11850 {%(parvatarājānaṃ),%} 11870, 16730,
-<div n="lb">17330, 17331; IV, 1731; V, 7162, 7216, 7246; VI, 2398
-<div n="lb">{%(giriṃ śreṣṭhaṃ),%} 2401, 3831{%a, b%} (only in B.), 4231 {%(Sūryāsta-%}
-<div n="lb">{%manavelāyāṃ);%} VII, 1452 {%(giriṃ).%} 1969 {%(parvataṃ),%} 2800,
-<div n="lb">3666 {%(°śikharaṃ),%} 5530, 6058, 6059, 6221, 6257 {%(mahīdharaṃ%}
-<div n="lb">{%śreṣṭhaṃ),%} 6291, 6410 {%(giriṃ),%} 6614, 9261 {%(giriṃ):%} VIII,
-<div n="lb">704, 1241 {%(giriṃ),%} 4664, 4705, 4809; IX, 1651, 1654;
-<div n="lb">X, 24 {%(parvataśreṣṭhaṃ),%} 650; XII, 743 {%(giriṃ),%} [1575
-<div n="lb">{%(astam ite Bhīṣme)%}], 2119 {%(upaiti Savitā by astaṃ),%} [11735
-<div n="lb">{%(astam evābhyavartata)%}], [12518], 12519; XV, 867 {%(girivaraṃ).%}
+{@*Asta@},¦ the place (mountain) in the west where the sun sets:
+I, 717 ({%°ācala%}), 1270 ({%giriṃ%}), 1894 (= do.), 4143 (= do.),
+4697 (= do.), 6058 ({%prāg A°gamanād raveḥ%}); III, 11834
+({%girivaraśreṣṭhaṃ%}), 11850 ({%parvatarājānaṃ%}), 11870, 16730,
+17330, 17331; IV, 1731; V, 7162, 7216, 7246; VI, 2398
+({%giriṃ śreṣṭhaṃ%}), 2401, 3831{%a, b%} (only in B.), 4231 ({%Sūryāsta-%}
+{%manavelāyāṃ%}); VII, 1452 ({%giriṃ%}). 1969 ({%parvataṃ%}), 2800,
+3666 ({%°śikharaṃ%}), 5530, 6058, 6059, 6221, 6257 ({%mahīdharaṃ%}
+{%śreṣṭhaṃ%}), 6291, 6410 ({%giriṃ%}), 6614, 9261 ({%giriṃ%}): VIII,
+704, 1241 ({%giriṃ%}), 4664, 4705, 4809; IX, 1651, 1654;
+X, 24 ({%parvataśreṣṭhaṃ%}), 650; XII, 743 ({%giriṃ%}), [1575
+({%astam ite Bhīṣme%})], 2119 ({%upaiti Savitā by astaṃ%}), [11735
+({%astam evābhyavartata%})], [12518], 12519; XV, 867 ({%girivaraṃ%}).
 <LEND>

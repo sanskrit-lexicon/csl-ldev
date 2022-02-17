@@ -1,4 +1,4 @@
 <L>18291<pc>562<k1>putrefy<k2>putrefy
-<div n="lb"/>{@PUTREFY:@}¦ <div n="I">I Intrans.: {#पूतीभवति।#} </div><div n="I">II Trans.:
-<div n="lb"/>{#पूतीकरोति।#}</div>
+{@PUTREFY:@}¦ <div n="I">I Intrans.: {#पूतीभवति।#} </div><div n="I">II Trans.:
+{#पूतीकरोति।#}</div>
 <LEND>

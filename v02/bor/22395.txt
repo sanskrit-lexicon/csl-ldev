@@ -1,22 +1,22 @@
 <L>22395<pc>706<k1>the<k2>the
-<div n="lb"/>{@THE:@}¦ <div n="I">I The definite article: </div><div n="1">(1) not
-<div n="lb"/>expr., <div n="xe">{%I salute the parents of the world:%}</div> <div n="xs">{#जगतः #}
-<div n="lb"/>{# पितरौ वन्दे,#}</div> R. i. 1.; <div n="xe">{%the kind said:%}</div> <div n="xs">{#राजोवाच,#}</div>
-<div n="lb"/>H.; <div n="xe">{%in the house of Vasudeva:%}</div> <div n="xs">{#वसुदेवसद्मनि,#}</div> Si.
-<div n="lb"/>i. 1.; </div><div n="1">(2) by demonstrative pronouns,
-<div n="lb"/><div n="xe">{%where shall I get the bird:%}</div> <div n="xs">{#क्व प्राप्यते स पतगः,#}</div> N.
-<div n="lb"/>xiii. 40.; <div n="xe">{%the day is advanced:%}</div> <div n="xs">{#कठोरीभूतोऽयं #}
-<div n="lb"/>{# दिवसः,#}</div> U. ii. </div><div n="I">II Of distinction: by {#तद्#} {%or%}
-<div n="lb"/>rarely {#अदस्,#} {%we are the Rāma and Lakṣmaṇa:%}
-<div n="lb"/>{#आवां तौ रामलक्ष्मणौ,#} An v.; <div n="xe">{%and you are the%}
-<div n="lb"/>{%Lakṣmaṇa:%}</div> <div n="xs">{#त्वं पुनरसौ लक्ष्मणः,#}</div> Vi. v. </div><div n="I">III
-<div n="lb"/>With comp. adv.s: </div><div n="1">(1) with {#यथा यथा॥॥॥ #}
-<div n="lb"/>{# तथा तथा,#} <div n="xe">{%the closer the sound of the drums came,%}
-<div n="lb"/>{%the more excited the hostile army (became):%}</div>
-<div n="lb"/><div n="xs">{#उपागमद्यथा यथा पटहरवः समीपतां तथा तथा हृषित-#}
-<div n="lb"/>{#वपुर्द्विषाञ्चमूः,#}</div> Si. xvii. 43.; {#“रोमकूपनिवहं यथा यथा #}
-<div n="lb"/>{# नैषधस्य दृगपात्तथा तथा चित्रमापदपतृष्णता न सा”,#} N.
-<div n="lb"/>xviii. 124.; </div><div n="1">(2) with {#यावत् यावत्॥॥॥तावत् #}
-<div n="lb"/>{# तावत्,#} M.n. Ph.: <div n="xe">{%the more so:%}</div> <div n="xs">{#विशेषतः#}</div>
-<div n="lb"/>(= specially).</div>
+{@THE:@}¦ <div n="I">I The definite article: </div><div n="1">(1) not
+expr., <div n="xe">{%I salute the parents of the world:%}</div> <div n="xs">{#जगतः #}
+{# पितरौ वन्दे,#}</div> R. i. 1.; <div n="xe">{%the kind said:%}</div> <div n="xs">{#राजोवाच,#}</div>
+H.; <div n="xe">{%in the house of Vasudeva:%}</div> <div n="xs">{#वसुदेवसद्मनि,#}</div> Si.
+i. 1.; </div><div n="1">(2) by demonstrative pronouns,
+<div n="xe">{%where shall I get the bird:%}</div> <div n="xs">{#क्व प्राप्यते स पतगः,#}</div> N.
+xiii. 40.; <div n="xe">{%the day is advanced:%}</div> <div n="xs">{#कठोरीभूतोऽयं #}
+{# दिवसः,#}</div> U. ii. </div><div n="I">II Of distinction: by {#तद्#} {%or%}
+rarely {#अदस्,#} {%we are the Rāma and Lakṣmaṇa:%}
+{#आवां तौ रामलक्ष्मणौ,#} An v.; <div n="xe">{%and you are the%}
+{%Lakṣmaṇa:%}</div> <div n="xs">{#त्वं पुनरसौ लक्ष्मणः,#}</div> Vi. v. </div><div n="I">III
+With comp. adv.s: </div><div n="1">(1) with {#यथा यथा॥॥॥ #}
+{# तथा तथा,#} <div n="xe">{%the closer the sound of the drums came,%}
+{%the more excited the hostile army (became):%}</div>
+<div n="xs">{#उपागमद्यथा यथा पटहरवः समीपतां तथा तथा हृषित-#}
+{#वपुर्द्विषाञ्चमूः,#}</div> Si. xvii. 43.; {#“रोमकूपनिवहं यथा यथा #}
+{# नैषधस्य दृगपात्तथा तथा चित्रमापदपतृष्णता न सा”,#} N.
+xviii. 124.; </div><div n="1">(2) with {#यावत् यावत्॥॥॥तावत् #}
+{# तावत्,#} M.n. Ph.: <div n="xe">{%the more so:%}</div> <div n="xs">{#विशेषतः#}</div>
+(= specially).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>10677<pc>336<k1>harvest<k2>harvest
-<div n="lb"/>{@HARVEST@}¦ (subs.): <div n="I">I The season: {#लवः,#} <div n="xe">{%h. is%}
-<div n="lb"/>{%the reaping time:%}</div> <div n="xs">{#लवः शस्यच्छेदनकालः,#}</div> Nil. </div><div n="I">II
-<div n="lb"/>The crops: {#शस्यानि#} (n. pl.).</div>
+{@HARVEST@}¦ (subs.): <div n="I">I The season: {#लवः,#} <div n="xe">{%h. is%}
+{%the reaping time:%}</div> <div n="xs">{#लवः शस्यच्छेदनकालः,#}</div> Nil. </div><div n="I">II
+The crops: {#शस्यानि#} (n. pl.).</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>3780<pc>123<k1>clean<k2>clean
-<div n="lb"/>{@CLEAN@}¦ (adj.): <div n="1">(1) {#शुद्धः#} ({#द्धा, द्धं#}), {#वि-, परि-,#} <div n="xe">{%c.%}
-<div n="lb"/>{%after a bath:%}</div> <div n="xs">{#स्नानविशुद्धगात्रः#}</div> (f. {#त्री#}), Ku.; </div><div n="1">(2)
-<div n="lb"/>{#शुचि#} (mfn.) (gen. = pure), {%c. ivory throne:%}
-<div n="lb"/>{#गजदन्तासनं शुचि,#} R.; </div><div n="1">(3) {#घौतः#} ({#ता, तं#}) (=
-<div n="lb"/>washed), {%wearing a suit of fine c. clothes:%}
-<div n="lb"/>{#धौते दुकूले दधता,#} K.; </div><div n="1">(4) {#निर्मलः#} ({#ला, लं#}) (=free
-<div n="lb"/>from dirt: often = clear). {%To become c.:%}
-<div n="lb"/>{#शुध्यति#} ({#शुध,#} c. 4.), M.</div>
+{@CLEAN@}¦ (adj.): <div n="1">(1) {#शुद्धः#} ({#द्धा, द्धं#}), {#वि-, परि-,#} <div n="xe">{%c.%}
+{%after a bath:%}</div> <div n="xs">{#स्नानविशुद्धगात्रः#}</div> (f. {#त्री#}), Ku.; </div><div n="1">(2)
+{#शुचि#} (mfn.) (gen. = pure), {%c. ivory throne:%}
+{#गजदन्तासनं शुचि,#} R.; </div><div n="1">(3) {#घौतः#} ({#ता, तं#}) (=
+washed), {%wearing a suit of fine c. clothes:%}
+{#धौते दुकूले दधता,#} K.; </div><div n="1">(4) {#निर्मलः#} ({#ला, लं#}) (=free
+from dirt: often = clear). {%To become c.:%}
+{#शुध्यति#} ({#शुध,#} c. 4.), M.</div>
 <LEND>

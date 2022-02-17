@@ -2,7 +2,7 @@
 2. {#मार्ग#}¦ (von {#मृग)#} 
 <div n="1"> 1) <lex>adj.</lex> {%von Wild —, von der Gazelle kommend%}: {#मांस#} 
 <ls>R. 2, 91, 65 (100, 63 GORR.).</ls> <ls>SUŚR. 1, 323, 13.</ls> <ls>VARĀH. BṚH. S. 55, 19.</ls> <ls>MĀRK. P. 15, 22. 32, 17.</ls> {#तेषां काममारण्यं भुञ्जीत नैवारं श्यामाकं मार्गम्#} 
-<ls>LĀṬY. 8, 2, 9</ls> <ls>?(Ind. St. 1, 50).</ls> 
+<ls>LĀṬY. 8, 2, 9</ls> (<ls>Ind. St. 1, 50).</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Moschus%} (vgl. {#मृगमद)#} 
 <ls>H. an. 2, 42.</ls> 
@@ -62,13 +62,13 @@
 <ls>M. 7, 187.</ls> {#यथादिष्टेन मार्गेण प्रययौ#} 
 <ls>KATHĀS. 40, 88.</ls> 
 <ls>PAÑCAT. 98, 22.</ls> {#ततो निजमार्गे गतः#} {%darauf ging er seiner Wege%} 
-<ls>VET.</ls> in <ls>LA. (II) 2, 5.</ls> {#मार्गे प्रचलितः#} {%er machte sich auf den Weg%} 
+<ls>VET. in LA. (II) 2, 5.</ls> {#मार्गे प्रचलितः#} {%er machte sich auf den Weg%} 
 <ls>4, 11.</ls> {#अयं मार्गो विदर्भेषु#} {%der Weg nach%} 
 <ls>KATHĀS. 56, 314.</ls> 
 <ls>VID. 286.</ls> {#अग्निशरणमार्गमादेशय#} 
 <ls>ŚĀK. 61, 15. 72, 12.</ls> 
 <ls>VIKR. 19, 18.</ls> {#निजनगरमार्गे प्रचलितः#} 
-<ls>VET.</ls> in <ls>LA. (II) 17, 14.</ls> {#मरु°#} {%ein Weg durch die Wüste%} 
+<ls>VET. in LA. (II) 17, 14.</ls> {#मरु°#} {%ein Weg durch die Wüste%} 
 <ls>Spr. 3851.</ls> {#मार्गवर्त्मसु#} {%auf Wegen und Stegen%} 
 <ls>INDR. 5, 26</ls> {#(अग्निसोमार्कवर्ष्मसु#} 
 <ls>MBH. 3, 1842</ls>). {#जालमार्गप्रविष्ट#} so v. a. {%durch das Fenster%} 
@@ -81,7 +81,7 @@
 <ls>30.</ls> {%Bahn der Gestirne, des Windes%} 
 <ls>SŪRYAS. 1, 25. 6, 18. 20. 7, 24.</ls> 
 <ls>VARĀH. BṚH. S. 6, 13. 9, 6. 47, 1.</ls> {#मार्गमेतदसंबाधमादित्यः परिवर्तते#} 
-<ls>MBH. 3, 11874. 11878</ls> (auch hier n.). {#पञ्चमेन तु मार्गेण स गतो हरिपुंगवः#} 
+<ls>MBH. 3, 11874.</ls> <ls n="MBH. 3,">11878</ls> (auch hier n.). {#पञ्चमेन तु मार्गेण स गतो हरिपुंगवः#} 
 <ls>R. 6, 82, 63.</ls> {#वायोरिमं परिवहस्य वदन्ति मार्गम्#} 
 <ls>ŚĀK. 165.</ls> {#अम्बरचर°#} {%der Pfad der Vögel%} so v. a. {%der Luftraum%} 
 <ls>Spr. 1938.</ls> {#द्युमार्गेण ततार स अम्बुधिम्#} so v. a. {%durch die Luft%} 
@@ -126,24 +126,24 @@
 <ls>Spr. 881.</ls> {#इति धैर्यस्य मार्गो ऽयं न तारुण्यस्य सङ्गिनः#} 
 <ls>KATHĀS. 27, 183.</ls> {#तथा मय्यपि मार्गो ऽस्य जातिसिद्धः क्व गच्छति#} 
 <ls>39, 108.</ls> {#पाशव#} 
-<ls>VET.</ls> in <ls>LA. 20, 18.</ls> {#स किं मार्गो यस्मिन्न भवति परानुग्रहरसः#} {%die rechte Weise%} 
+<ls>VET. in LA. 20, 18.</ls> {#स किं मार्गो यस्मिन्न भवति परानुग्रहरसः#} {%die rechte Weise%} 
 <ls>Spr. 2845.</ls> {#मैव नो जैषीरमार्गेण नृशंसवत्#} {%auf eine unredliche Weise%} 
 <ls>MBH. 2, 2035.</ls> {#मल्लमार्गश्च दूषितः#} {%der gute Brauch —, die alte Sitte der Ringer%} 
 <ls>HARIV. 4710.</ls> {#युद्ध°#} sg. und pl. {%die verschiedenen Arten des Kampfes%} 
-<ls>KĀM. NĪTIS. 13, 41.</ls> <ls>MBH. 3, 16412.</ls> <ls>HARIV. 3737. fg. 5010.</ls> {#सर्वयुद्धेषु मार्गज्ञः#} 
-<ls>10214.</ls> {#सर्वसंग्राममार्गज्ञ#} ebend. so v. a. {%Manoeuvre%}: {#कृत्वा धनुषि ते मार्गान्रथचर्यासु चासकृत् । गजपृष्ठे ऽश्वपृष्ठे च नियुद्धे च#} 
+<ls>KĀM. NĪTIS. 13, 41.</ls> <ls>MBH. 3, 16412.</ls> <ls>HARIV. 3737. fg.</ls> <ls n="HARIV.">5010.</ls> {#सर्वयुद्धेषु मार्गज्ञः#} 
+<ls n="HARIV.">10214.</ls> {#सर्वसंग्राममार्गज्ञ#} ebend. so v. a. {%Manoeuvre%}: {#कृत्वा धनुषि ते मार्गान्रथचर्यासु चासकृत् । गजपृष्ठे ऽश्वपृष्ठे च नियुद्धे च#} 
 <ls>MBH. 1, 5340.</ls> {#चचार समरे मार्गान्बाणैः#} (u. {#चर्#} 
 <ls>5.</ls> falsch übersetzt) 
 <ls>R. 3, 34, 4.</ls> {#स तेन (निस्त्रिंशेन) विचरन्मार्गान्#} (u. {#चर्#} mit {#वि#} 
 <ls>11.</ls> falsch übersetzt) 
-<ls>HARIV. 11047</ls> <ls>(S. 791).</ls> {#चरन्तस्त्सरुमार्गांश्च धनुर्मार्गांश्च शिक्षया#} 
+<ls>HARIV. 11047</ls> (<ls>S. 791).</ls> {#चरन्तस्त्सरुमार्गांश्च धनुर्मार्गांश्च शिक्षया#} 
 <ls>MBH. 7, 3091.</ls> {#असिमार्गान्विविधान्विचेरुः#} 
 <ls>3589. 1, 5341.</ls> {#रथमार्गान्विचित्रांस्ते विचरन्तः#} (u. {#चर्#} mit {#वि#} 
 <ls>11.</ls> dieses und das folgende Beispiel unrichtig aufgefasst) 
-<ls>?3, 12233 (ARJ. 10, 37).</ls> {#मार्गान्बहुविधांस्तत्र विचेरुः (हयाः)#} 
-<ls>?12110 (ARJ. 7, 8).</ls> {#तस्य लाघवमार्गस्थं चापम्#} 
+<ls>3, 12233 (ARJ. 10, 37).</ls> {#मार्गान्बहुविधांस्तत्र विचेरुः (हयाः)#} 
+<ls>12110 (ARJ. 7, 8).</ls> {#तस्य लाघवमार्गस्थं चापम्#} 
 <ls>6, 2686.</ls> Vgl. {#इति प्रकारान्द्वात्रिंशद्विचरन्#} 
-<ls>HARIV. 11048</ls> <ls>(S. 791).</ls> 
+<ls>HARIV. 11048</ls> (<ls>S. 791).</ls> 
 <div n="2">— g) {%Rechtsfall%}: {#अष्टादशसु मार्गेषु निबद्धानि (कार्याणि)#} 
 <ls>M. 8, 3. 9, 250.</ls> 
 <div n="2">— h) {%Stil, Schreibart%} 
@@ -154,10 +154,10 @@
 <ls>DAŚAR. 1, 9.</ls> 
 <div n="2">— k) {%edler Gesang%} (im Gegens. zum {%vulgären)%}: {#गीतं द्वेधा मार्गो देशी मार्गः स यो विरञ्च्याद्यैः । अन्विष्टो भरताद्यैः शंभोरग्रे प्रयोक्तव्यः ॥#} 
 <ls>Verz. d. Oxf. H. 200,a, No. 475. 200,b, No. 476.</ls> Inschr. in <ls>Journ. of the Am. Or. S.7,10, <is>Śl.</is> 37.</ls> 
-<div n="2">— l) in der Dramat. {%das Zeigen des Weges zu Etwas, Mittheilung wie Etwas zu Stande kommen oder sich ereignen soll%} {#(तत्त्वार्थकीर्तन)#} 
+<div n="2">— l) in der Dramat. {%das Zeigen des Weges zu Etwas, Mittheilung wie Etwas zu Stande kommen oder sich ereignen soll%} ({#तत्त्वार्थकीर्तन#}) 
 <ls>DAŚAR.1,35.</ls> <ls>PRATĀPAR. 21,b,7. 36,a,1.</ls> 
 <div n="2">— m) {%(in geometry) a section%} 
 <ls>WILSON.</ls> 
 <div n="v">— Vgl. {#इन्द्र°, उन्मार्ग, कर्म°, जम्बू°, जल°, त्रि°, देव°, नक्षत्र°, नरेन्द्र°#} 
-<ls>?(RAGH. 6, 67</ls> = {#राजमार्ग)#}, 2. {#निर्मार्ग, पुर°, प्रतिमार्गम्, बहुमार्गी, बुद्धमार्ग, भक्तिमार्गनिरूपण, महामार्ग, मुद्रा°, यन्त्र°, राज°, लोक°, वि°, वृथा°#} .
+(<ls>RAGH. 6, 67</ls> = {#राजमार्ग)#}, 2. {#निर्मार्ग, पुर°, प्रतिमार्गम्, बहुमार्गी, बुद्धमार्ग, भक्तिमार्गनिरूपण, महामार्ग, मुद्रा°, यन्त्र°, राज°, लोक°, वि°, वृथा°#} .
 <LEND>

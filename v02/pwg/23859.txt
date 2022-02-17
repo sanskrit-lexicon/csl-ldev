@@ -9,12 +9,12 @@
 <ls>Sch.</ls> 
 <ls>AK. 2, 10, 45.</ls> 
 <ls>H. 486.</ls> {#महाधनं ग्लहं त्वेकं शृणु#} 
-<ls>MBH. 2, 2499. 2511. 2513. 2152.</ls>
+<ls>MBH. 2, 2499.</ls> <ls n="MBH. 2,">2511.</ls> <ls n="MBH. 2,">2513.</ls> <ls n="MBH. 2,">2152.</ls>
 [Page2-0867]
 {#तान्ग्लहे सर्वानवस्थितान्#} 
-<ls>2171. 3, 1361.</ls> <ls>HARIV. 6735. 6737. 6743.</ls> {#प्राणग्लहो ऽयं समर इष्वक्षः#} 
+<ls>2171. 3, 1361.</ls> <ls>HARIV. 6735.</ls> <ls n="HARIV.">6737.</ls> <ls n="HARIV.">6743.</ls> {#प्राणग्लहो ऽयं समर इष्वक्षः#} 
 <ls>BHĀG. P. 6, 12, 17.</ls> {%Kampfpreis%} (der {%Kampf%} selbst wird häufig als {%Würfelspiel%} dargestellt), {%derjenige auf den man im Kampfe es abgesehen hat%}: {#तावकानां रणे कर्णो ग्लहो ह्यासीत्#} 
-<ls>MBH. 8, 4402. 6, 5331. 7, 5331.</ls> 
+<ls>MBH. 8, 4402.</ls> <ls n="MBH.">6, 5331.</ls> <ls n="MBH.">7, 5331.</ls> 
 <div n="2">— c) {%Würfel%}: {#अद्यासौ सौबलः कृष्ण ग्लहान् जानातु वै शरान्#} 
 <ls>MBH. 8, 3763.</ls> 
 <div n="2">— d) {%Würfelbecher%}: {#ग्लहान्धनूंषि मे विद्धि शरानक्षांश्च#} 

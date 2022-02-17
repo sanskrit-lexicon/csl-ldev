@@ -1,9 +1,9 @@
 <L>9095<pc>287<k1>follower<k2>follower
-<div n="lb"/>{@FOLLOWER:@}¦ <div n="1">(1) {#अनुगामिन्#} (f. {#नी#}), <div n="xe">{%women follow%}
-<div n="lb"/>{%the way of their husbands:%}</div> <div n="xs">{#स्त्रियः पतिमार्गानुगामिन्यः,#}</div>
-<div n="lb"/>M.n.; </div><div n="1">(2) {#अनुयायिन्#} (f. {#नी#}), <div n="xe">{%a body of f.s:%}</div> <div n="xs">{#अनुयायि-#}
-<div n="lb"/>{#वर्गः,#}</div> R. ii. 4.; </div><div n="1">(3) {#अनुसारिन्#} (f. {#णी#}), <div n="xe">{%f.s of the%}
-<div n="lb"/>{%doctrines of Jaimini:%}</div> <div n="xs">{#जैमिनिमतानुसारिणः,#}</div> Va.; </div><div n="1">(4)
-<div n="lb"/>{#अनुगः#} ({#गा, गं#}); </div><div n="1">(5) {#अनुसर#} (f. {#री#}) (= atten-
-<div n="lb"/>-dant).</div>
+{@FOLLOWER:@}¦ <div n="1">(1) {#अनुगामिन्#} (f. {#नी#}), <div n="xe">{%women follow%}
+{%the way of their husbands:%}</div> <div n="xs">{#स्त्रियः पतिमार्गानुगामिन्यः,#}</div>
+M.n.; </div><div n="1">(2) {#अनुयायिन्#} (f. {#नी#}), <div n="xe">{%a body of f.s:%}</div> <div n="xs">{#अनुयायि-#}
+{#वर्गः,#}</div> R. ii. 4.; </div><div n="1">(3) {#अनुसारिन्#} (f. {#णी#}), <div n="xe">{%f.s of the%}
+{%doctrines of Jaimini:%}</div> <div n="xs">{#जैमिनिमतानुसारिणः,#}</div> Va.; </div><div n="1">(4)
+{#अनुगः#} ({#गा, गं#}); </div><div n="1">(5) {#अनुसर#} (f. {#री#}) (= atten-
+-dant).</div>
 <LEND>

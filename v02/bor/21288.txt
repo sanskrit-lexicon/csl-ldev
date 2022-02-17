@@ -1,6 +1,6 @@
 <L>21288<pc>670<k1>squre<k2>squre
-<div n="lb"/>{@SQURE@}¦ (v. t.): <div n="I">I In arith.: {#वर्गयति#} {%or%} {#वर्गीकरोति,#}
-<div n="lb"/>{%what%} ({%number%}) {%multiplied by three...s.d:%} {#कस्त्रिघ्नः #}
-<div n="lb"/>{#॥वर्गितः,#} A. b. </div><div n="I">II To settle, adjust: q. v.:
-<div n="lb"/>{#शोधयति#} (c. of {#शुध्#}).</div>
+{@SQURE@}¦ (v. t.): <div n="I">I In arith.: {#वर्गयति#} {%or%} {#वर्गीकरोति,#}
+{%what%} ({%number%}) {%multiplied by three...s.d:%} {#कस्त्रिघ्नः #}
+{#॥वर्गितः,#} A. b. </div><div n="I">II To settle, adjust: q. v.:
+{#शोधयति#} (c. of {#शुध्#}).</div>
 <LEND>

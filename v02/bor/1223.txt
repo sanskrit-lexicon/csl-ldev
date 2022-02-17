@@ -1,15 +1,15 @@
 <L>1223<pc>043<k1>assert<k2>assert
-<div n="lb"/>{@ASSERT:@}¦ To affirm positively: <div n="1">(1) {#प्रति-जानीते#}
-<div n="lb"/>({#ज्ञा,#} c. 9.), <div n="xe">{%if he were to a. that the duties of%}
-<div n="lb"/>{%castes and religious orders were as unsettled in%}
-<div n="lb"/>{%former times as at present%}</div> <div n="xs">{#इदानीमिव च कालान्तरेप्य-#}
-<div n="lb"/>{#व्यवस्थितप्रायान् वर्णाश्रमधर्मान् प्रतिजानीत,#}</div> S. iii. 33.;</div>
-<div n="lb"/><div n="1">(2) {#ब्रवीति#} ({#ब्रू,#} c. 2.), {#वदति#} ({#वद्,#} c. 1.), <div n="xe">{%or%}</div> <div n="xs">{#वक्ति#}</div>
-<div n="lb"/>({#वच्,#} c. 2.) (=to say, but used in the sense
-<div n="lb"/>of a. ing), S.; </div><div n="1">(3) {#प्रतिपादयति#} (c. of {#पद्#})
-<div n="lb"/>(=to establish), <div n="xe">{%which a. that its nature is%}
-<div n="lb"/>{%not earthly and deny that its nature is earthly,%}</div>
-<div n="lb"/><div n="xs">{#असंसारिस्वरूपप्रतिपादनाः संसारिस्वरूपप्रतिषेधनाश्च,#}</div> S.
-<div n="lb"/>iii. 43. </div><div n="I">II To maintain, claim, vindicate:
-<div n="lb"/>q. v.</div>
+{@ASSERT:@}¦ To affirm positively: <div n="1">(1) {#प्रति-जानीते#}
+({#ज्ञा,#} c. 9.), <div n="xe">{%if he were to a. that the duties of%}
+{%castes and religious orders were as unsettled in%}
+{%former times as at present%}</div> <div n="xs">{#इदानीमिव च कालान्तरेप्य-#}
+{#व्यवस्थितप्रायान् वर्णाश्रमधर्मान् प्रतिजानीत,#}</div> S. iii. 33.;</div>
+<div n="1">(2) {#ब्रवीति#} ({#ब्रू,#} c. 2.), {#वदति#} ({#वद्,#} c. 1.), <div n="xe">{%or%}</div> <div n="xs">{#वक्ति#}</div>
+({#वच्,#} c. 2.) (=to say, but used in the sense
+of a. ing), S.; </div><div n="1">(3) {#प्रतिपादयति#} (c. of {#पद्#})
+(=to establish), <div n="xe">{%which a. that its nature is%}
+{%not earthly and deny that its nature is earthly,%}</div>
+<div n="xs">{#असंसारिस्वरूपप्रतिपादनाः संसारिस्वरूपप्रतिषेधनाश्च,#}</div> S.
+iii. 43. </div><div n="I">II To maintain, claim, vindicate:
+q. v.</div>
 <LEND>

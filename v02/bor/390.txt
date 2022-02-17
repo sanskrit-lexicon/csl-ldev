@@ -1,12 +1,12 @@
 <L>390<pc>015<k1>affection<k2>affection
-<div n="lb"/>{@AFFECTION:@}¦ <div n="I">I Love: </div><div n="1">(1) {#स्नेहः;#} </div><div n="1">(2) {#अनुरागः;#}</div>
-<div n="lb"/><div n="1">(3) {#प्रणयः#} (conjugal or friendly a.); </div><div n="1">(4)
-<div n="lb"/>{#प्रेमन्#} (n) v. Love; </div><div n="1">(5) {#वात्सल्यम्#} (parental a.);</div>
-<div n="lb"/><div n="1">(6) {#हार्दम्#} (rare). N. B. Note that these words
-<div n="lb"/>agree with the loc.: <div n="xe">{%I said I feel a. for this%}
-<div n="lb"/>{%child as for my own%}</div> <div n="xs">{#औरस इवास्मिन् वत्से वत्सलतेति #}
-<div n="lb"/>{# मया विज्ञापितः,#}</div> <ls>D.</ls> iii. </div><div n="I">II An attribute {%or%}
-<div n="lb"/>property: Ph. <div n="xe">{%a. s of the mind%}</div> <div n="xs">{#मनोवृत्तयः;#}</div> <div n="xe">{%a. s%}
-<div n="lb"/>{%of bodies%}</div> <div n="xs">{#शारीरधर्माः।#}</div> </div><div n="I">III Disease: q. v.: Ph.
-<div n="lb"/><div n="xe">{%remover of all rheumatic a. s%}</div> <div n="xs">{#सर्ववातविकारनुत्,#}</div> Sr.</div>
+{@AFFECTION:@}¦ <div n="I">I Love: </div><div n="1">(1) {#स्नेहः;#} </div><div n="1">(2) {#अनुरागः;#}</div>
+<div n="1">(3) {#प्रणयः#} (conjugal or friendly a.); </div><div n="1">(4)
+{#प्रेमन्#} (n) v. Love; </div><div n="1">(5) {#वात्सल्यम्#} (parental a.);</div>
+<div n="1">(6) {#हार्दम्#} (rare). N. B. Note that these words
+agree with the loc.: <div n="xe">{%I said I feel a. for this%}
+{%child as for my own%}</div> <div n="xs">{#औरस इवास्मिन् वत्से वत्सलतेति #}
+{# मया विज्ञापितः,#}</div> <ls>D.</ls> iii. </div><div n="I">II An attribute {%or%}
+property: Ph. <div n="xe">{%a. s of the mind%}</div> <div n="xs">{#मनोवृत्तयः;#}</div> <div n="xe">{%a. s%}
+{%of bodies%}</div> <div n="xs">{#शारीरधर्माः।#}</div> </div><div n="I">III Disease: q. v.: Ph.
+<div n="xe">{%remover of all rheumatic a. s%}</div> <div n="xs">{#सर्ववातविकारनुत्,#}</div> Sr.</div>
 <LEND>

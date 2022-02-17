@@ -1,4 +1,4 @@
 <L>15100<pc>462<k1>multinomial<k2>multinomial
-<div n="lb"/>{@MULTINOMIAL:@}¦ {#*बहुपदः#} ({#दा, दं#}). {%The m. theorem:%}
-<div n="lb"/>{#बहुपदवृद्धितत्त्वम्।#}
+{@MULTINOMIAL:@}¦ {#*बहुपदः#} ({#दा, दं#}). {%The m. theorem:%}
+{#बहुपदवृद्धितत्त्वम्।#}
 <LEND>

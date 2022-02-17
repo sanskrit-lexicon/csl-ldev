@@ -1,6 +1,6 @@
 <L>17626<pc>539<k1>pregnancy<k2>pregnancy
-<div n="lb"/>{@PREGNANCY:@}¦ <div n="1">(1) expr. by {#गर्भः;#} </div><div n="1">(2) {#सगर्भता।#}
-<div n="lb"/><div n="xe">{%Signs of p.:%}</div> <div n="xs">{#दोहदलक्षणम्,#}</div> R. iii. 1. {%In a state%}
-<div n="lb"/>{%of p.%} = pregnant: q. v. <div n="xe">{%In the first three months%}
-<div n="lb"/>{%of p. of a woman:%}</div> <div n="xs">{#गर्भिणीप्रथमद्वितीयतृतीयमासे,#}</div> Sr.</div>
+{@PREGNANCY:@}¦ <div n="1">(1) expr. by {#गर्भः;#} </div><div n="1">(2) {#सगर्भता।#}
+<div n="xe">{%Signs of p.:%}</div> <div n="xs">{#दोहदलक्षणम्,#}</div> R. iii. 1. {%In a state%}
+{%of p.%} = pregnant: q. v. <div n="xe">{%In the first three months%}
+{%of p. of a woman:%}</div> <div n="xs">{#गर्भिणीप्रथमद्वितीयतृतीयमासे,#}</div> Sr.</div>
 <LEND>

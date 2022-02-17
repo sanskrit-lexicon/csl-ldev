@@ -1,7 +1,7 @@
 <L>20630<pc>647<k1>site<k2>site
-<div n="lb"/>{@SITE@}¦ (subs.): <div n="I">I Situation, position: </div><div n="1">(1)
-<div n="lb"/>{#सन्निवेशः,#} <div n="xe">{%s. of the zenana:%}</div> <div n="xs">{#अन्तःपुरसन्निवेशः,#}</div> D.
-<div n="lb"/>iii.; </div><div n="1">(2) {#संस्थानम्#} <div n="xe">{%or%}</div> <div n="xs">{#संस्थितिः।#}</div> </div><div n="I">II Place: {#भूमिः#}
-<div n="lb"/>etc., <div n="xe">{%with s. s of dwelling houses:%}</div> <div n="xs">{#वसतिवेश्म-#}
-<div n="lb"/>{#महीभिः,#}</div> Ki. ix. 29.</div>
+{@SITE@}¦ (subs.): <div n="I">I Situation, position: </div><div n="1">(1)
+{#सन्निवेशः,#} <div n="xe">{%s. of the zenana:%}</div> <div n="xs">{#अन्तःपुरसन्निवेशः,#}</div> D.
+iii.; </div><div n="1">(2) {#संस्थानम्#} <div n="xe">{%or%}</div> <div n="xs">{#संस्थितिः।#}</div> </div><div n="I">II Place: {#भूमिः#}
+etc., <div n="xe">{%with s. s of dwelling houses:%}</div> <div n="xs">{#वसतिवेश्म-#}
+{#महीभिः,#}</div> Ki. ix. 29.</div>
 <LEND>

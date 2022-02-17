@@ -1,5 +1,5 @@
 <L>7184<pc>228<k1>eastward<k2>eastward
-<div n="lb"/>{@EASTWARD:@}¦ expr. by ins.: <div n="1">(1) {#पूर्वेण;#} </div><div n="1">(2)
-<div n="lb"/>{#प्राच्या#} <div n="xe">{%or%}</div> <div n="xs">{#प्राचा,#}</div> <div n="xe">{%passing a little e.:%}</div> <div n="xs">{#प्राचा किञ्चिदन्तर-#}
-<div n="lb"/>{#मतिक्रम्य,#}</div> D.</div>
+{@EASTWARD:@}¦ expr. by ins.: <div n="1">(1) {#पूर्वेण;#} </div><div n="1">(2)
+{#प्राच्या#} <div n="xe">{%or%}</div> <div n="xs">{#प्राचा,#}</div> <div n="xe">{%passing a little e.:%}</div> <div n="xs">{#प्राचा किञ्चिदन्तर-#}
+{#मतिक्रम्य,#}</div> D.</div>
 <LEND>

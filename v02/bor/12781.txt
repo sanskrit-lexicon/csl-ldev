@@ -1,5 +1,5 @@
 <L>12781<pc>395<k1>itself<k2>itself
-<div n="lb"/>{@ITSELF:@}¦ {#स्वयम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्वयमेव,#}</div> Sr. Ph.: {%the mind i.:%}
-<div n="lb"/>{#चेत एव,#} Ki.; <div n="xe">{%by nature i.:%}</div> <div n="xs">{#स्वभावेनैव,#}</div> H.; <div n="xe">{%fresh%}
-<div n="lb"/>{%cloud, by i.:%}</div> <div n="xs">{#केवलोऽपि नवाम्बुदः,#}</div> R. xi. 80.
+{@ITSELF:@}¦ {#स्वयम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्वयमेव,#}</div> Sr. Ph.: {%the mind i.:%}
+{#चेत एव,#} Ki.; <div n="xe">{%by nature i.:%}</div> <div n="xs">{#स्वभावेनैव,#}</div> H.; <div n="xe">{%fresh%}
+{%cloud, by i.:%}</div> <div n="xs">{#केवलोऽपि नवाम्बुदः,#}</div> R. xi. 80.
 <LEND>

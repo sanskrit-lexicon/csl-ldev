@@ -1,4 +1,4 @@
 <L>16668<pc>511<k1>peel<k2>peel
-<div n="lb"/>{@PEEL@}¦ (v. i.): <div n="xe">{%it p. s easily:%}</div> <div n="xs">{#अनायासेनास्य त्वग् विश्लेषी-#}
-<div n="lb"/>{#भवति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#स्खलति।#}</div>
+{@PEEL@}¦ (v. i.): <div n="xe">{%it p. s easily:%}</div> <div n="xs">{#अनायासेनास्य त्वग् विश्लेषी-#}
+{#भवति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#स्खलति।#}</div>
 <LEND>

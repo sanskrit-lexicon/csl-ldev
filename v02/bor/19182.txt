@@ -1,5 +1,5 @@
 <L>19182<pc>594<k1>resume<k2>resume
-<div n="lb"/>{@RESUME@}¦ (v.): {#पुनर्#} <div n="xe">{%or%}</div> <div n="xs">{#भूय आदत्ते#}</div> ({#दा,#} c. 3.): v.
-<div n="lb"/>To take again. Ph.: <div n="xe">{%to r. an argument or%}
-<div n="lb"/>{%discourse:%}</div> <div n="xs">{#प्रकृतमनुसरति#}</div> ({#सृ,#} c. l. = to follow).
+{@RESUME@}¦ (v.): {#पुनर्#} <div n="xe">{%or%}</div> <div n="xs">{#भूय आदत्ते#}</div> ({#दा,#} c. 3.): v.
+To take again. Ph.: <div n="xe">{%to r. an argument or%}
+{%discourse:%}</div> <div n="xs">{#प्रकृतमनुसरति#}</div> ({#सृ,#} c. l. = to follow).
 <LEND>

@@ -10,7 +10,7 @@
 <ls>MED. ḍ. 4.</ls> {#कुण्डप्रतिरूपाश्चमसाः#} 
 <ls>KĀTY. ŚR. 24, 4, 40.</ls> {#दृतिकुण्डतापश्चितामयनानि#} 
 <ls>MAŚ.</ls> in <ls>Verz. d. B. H. 74.</ls> {#प्राक्षिपत्काञ्चने कुण्डे शुक्रं सा#} 
-<ls>MBH. 3, 14311. 14314.</ls> {#एवमष्टौ स कुण्डानि ह्यपिबत्#} 
+<ls>MBH. 3, 14311.</ls> <ls n="MBH. 3,">14314.</ls> {#एवमष्टौ स कुण्डानि ह्यपिबत्#} 
 <ls>1, 5033. 5030. 5032. 4500. 4504.</ls> {#कुण्डोध्नी#} (vgl. {#घ्दोध्नी#} unter {#घट#}) 
 <ls>RAGH. 1, 84.</ls> {#मृत्कुण्डम्#} 
 <ls>P. 6, 2, 136,</ls> 
@@ -20,7 +20,7 @@
 <div n="1">— 2) <lex>n.</lex> {%ein best. Maass%} 
 <ls>MED.</ls> 
 <div n="1">— 3) <lex>m.</lex> 
-<ls>?(H. an.).</ls> <lex>n.</lex> {%eine runde Höhlung im Erdboden, ein rundes Wasserbassin%},
+(<ls>H. an.).</ls> <lex>n.</lex> {%eine runde Höhlung im Erdboden, ein rundes Wasserbassin%},
 [Page2-0320]
 = {#देवतोयाशय#} 
 <ls>H. an.</ls> <ls>MED.</ls> = {#खात#} 
@@ -33,7 +33,7 @@
 <ls>8130</ls>), {#श्रीकुण्ड#} (
 <ls>5028</ls>) Namen von <is>Tirtha</is>. {#शतसहस्रयोजने कृमिकुण्डे#} {%in einer mit Würmern angefüllten Grube%} 
 <ls>BHĀG. P. 5, 26, 18.</ls> {#अग्निकुण्ड#} {%eine Grube, in der heiliges Feuer gehalten wird%}: {#तत्र (तीर्थे) त्रीण्यग्निकुण्डानि#} 
-<ls>MBH. 3, 8216</ls> <ls>?(R. 5, 10, 16</ls> dagegen: {%Kohlentopf%}). 
+<ls>MBH. 3, 8216</ls> (<ls>R. 5, 10, 16</ls> dagegen: {%Kohlentopf%}). 
 <ls>KATHĀS. 8, 18. 20, 86.</ls> Auch ohne {#अग्नि#} 
 <ls>BHĀG. P. 4, 5, 15.</ls> 
 <ls>H. an.</ls> 

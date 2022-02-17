@@ -1,9 +1,9 @@
 <L>2601<pc>089<k1>brighten<k2>brighten
-<div n="lb"/>{@BRIGHTEN@}¦ (v. t.): <div n="I">I Lit.: To make bright:</div>
-<div n="lb"/><div n="1">(1) {#द्योतयति, उत्-, प्र-,#} (c. of {#द्युत्#}); </div><div n="1">(2) {#उज्ज्वलयति#}
-<div n="lb"/>(c. of {#ज्वल्#}); </div><div n="1">(3) {#उद्भासयति#} (c. of {#भास्#}); </div><div n="1">(4)
-<div n="lb"/>{#दीपयति#} (c. of {#दीप्#}), {%b. ing the skies with its rays%}
-<div n="lb"/>{#दीपयन्नथ नभः किरणौघैः,#} Ki., ix. 23. </div><div n="I">II Fig.: </div><div n="1">(1)
-<div n="lb"/>{#उज्ज्वलयति;#} </div><div n="1">(2) {#उद्भासयति।#} </div><div n="I">III To improve:
-<div n="lb"/>q. v.</div>
+{@BRIGHTEN@}¦ (v. t.): <div n="I">I Lit.: To make bright:</div>
+<div n="1">(1) {#द्योतयति, उत्-, प्र-,#} (c. of {#द्युत्#}); </div><div n="1">(2) {#उज्ज्वलयति#}
+(c. of {#ज्वल्#}); </div><div n="1">(3) {#उद्भासयति#} (c. of {#भास्#}); </div><div n="1">(4)
+{#दीपयति#} (c. of {#दीप्#}), {%b. ing the skies with its rays%}
+{#दीपयन्नथ नभः किरणौघैः,#} Ki., ix. 23. </div><div n="I">II Fig.: </div><div n="1">(1)
+{#उज्ज्वलयति;#} </div><div n="1">(2) {#उद्भासयति।#} </div><div n="I">III To improve:
+q. v.</div>
 <LEND>

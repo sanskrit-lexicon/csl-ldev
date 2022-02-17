@@ -1,6 +1,6 @@
 <L>3811<pc>125<k1>clerical<k2>clerical
-<div n="lb"/>{@CLERICAL:@}¦ <div n="I">I Belonging to a clergyman:
-<div n="lb"/>expr. by comp., <div n="xe">{%c. dress:%}</div> <div n="xs">{#पुरोहितवेषः।#}</div> </div><div n="I">II
-<div n="lb"/>Relating to a clerk: expr. by comp. or by
-<div n="lb"/>gen.: <div n="xe">{%c. mistake:%}</div> <div n="xs">{#लेखकस्य भ्रमः।#}</div></div>
+{@CLERICAL:@}¦ <div n="I">I Belonging to a clergyman:
+expr. by comp., <div n="xe">{%c. dress:%}</div> <div n="xs">{#पुरोहितवेषः।#}</div> </div><div n="I">II
+Relating to a clerk: expr. by comp. or by
+gen.: <div n="xe">{%c. mistake:%}</div> <div n="xs">{#लेखकस्य भ्रमः।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>4751<pc>154<k1>copper-plate<k2>copper-plate
-<div n="lb"/>{@COPPER-PLATE:@}¦ <div n="1">(1) {#ताम्रफलकम्;#} </div><div n="1">(2) {#ताम्रपत्रम्;#}</div>
-<div n="lb"/><div n="1">(3) {#ताम्रपट्टम्।#}</div>
+{@COPPER-PLATE:@}¦ <div n="1">(1) {#ताम्रफलकम्;#} </div><div n="1">(2) {#ताम्रपत्रम्;#}</div>
+<div n="1">(3) {#ताम्रपट्टम्।#}</div>
 <LEND>

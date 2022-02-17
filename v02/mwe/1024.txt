@@ -1,5 +1,5 @@
 <L>1024<pc>021-a<k1>apparition<k2>apparition
-<div n="lb"/>APPARITION¦, {%s.%} (Appearance, form) {#आभासः, आभा, छाया, आकारः,#}
-<div n="lb"/>{#आकृतिः#} {%f.,%} {#रूपं#}. — (Spectre, walking spirit) {#रात्रिञ्चरः, प्रेतनरः,#}
-<div n="lb"/>{#प्रेतः, वेतालः#}.
+APPARITION¦, {%s.%} (Appearance, form) {#आभासः, आभा, छाया, आकारः,#}
+{#आकृतिः#} {%f.,%} {#रूपं#}. — (Spectre, walking spirit) {#रात्रिञ्चरः, प्रेतनरः,#}
+{#प्रेतः, वेतालः#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>23791<pc>745<k1>versatile<k2>versatile
-<div n="lb"/>{@VERSATILE:@}¦ <div n="I">I Unsteady: q. v.: {#चञ्चल#} (f. {#ला#}).</div>
-<div n="lb"/><div n="I">II Readily applied to various subjects:
-<div n="lb"/><div n="xe">{%of v. genius:%}</div> <div n="xs">{#सर्वदक्ष#}</div> (f. {#क्षा#}): v. Skilful.</div>
+{@VERSATILE:@}¦ <div n="I">I Unsteady: q. v.: {#चञ्चल#} (f. {#ला#}).</div>
+<div n="I">II Readily applied to various subjects:
+<div n="xe">{%of v. genius:%}</div> <div n="xs">{#सर्वदक्ष#}</div> (f. {#क्षा#}): v. Skilful.</div>
 <LEND>

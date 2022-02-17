@@ -1,18 +1,13 @@
 <L>92592<pc>480,1<k1>दिश्<k2>दिश्<h>2<e>2
-<hom>2.</hom> <s>दिश्</s> ¦ <lex>f.</lex> quarter or region pointed at, direction, cardinal point, <ls>RV.</ls>;
-<ls>AV.</ls>;
-<ls>ŚBr.</ls> &c. (four in number, <ab>viz.</ab> <s>प्राची</s>, east;
+<hom>2.</hom> <s>दिश्</s> ¦ <lex>f.</lex> quarter or region pointed at, direction, cardinal point, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> &c. 
+(four in number, <ab>viz.</ab> <s>प्राची</s>, east;
 <s>दक्षिणा</s>, south;
 <s>प्रतीची</s>, west;
-and <s>उदीची</s>, north, <ls>AV. xv, 2, 1</ls>;
-<ls>ĀśvGṛ. iv, 8 &c.;
-Sometimes a 5th</ls>, <s>ध्रुवा</s>, <ls>AV. iii, 9, 15</ls>;
-<ls>ŚBr. ix, 4, 3, 10</ls>;
-and a 6th, <s>ऊर्ध्वा</s>, <ls>AV. iii, 27, 1</ls>;
-<ls>ŚBr. xiv, 6, 11, 5</ls>;
-and a 7th, <s>व्य्-अध्वा</s>, <ls>AV. iv, 40, l</ls>;
-<ls>ŚBr. ix, 5, 2, 8</ls>;
-but oftener 8 are given <ab>i.e.</ab> the 4 cardinal and the 4 intermediate quarters, S. E., S. W., <ab>N.</ab> W., and <ab>N.</ab> E, <ls>Mn. i, 13</ls> [<ab>cf.</ab> <s>उप-</s>];
+and <s>उदीची</s>, north, <ls>AV. xv, 2, 1</ls>; <ls>ĀśvGṛ. iv, 8</ls> &c.;
+Sometimes a 5th, <s>ध्रुवा</s>, <ls>AV. iii, 9, 15</ls>; <ls>ŚBr. ix, 4, 3, 10</ls>;
+and a 6th, <s>ऊर्ध्वा</s>, <ls>AV. iii, 27, 1</ls>; <ls>ŚBr. xiv, 6, 11, 5</ls>;
+and a 7th, <s>व्य्-अध्वा</s>, <ls>AV. iv, 40, l</ls>; <ls>ŚBr. ix, 5, 2, 8</ls>;
+but oftener 8 are given <ab>i.e.</ab> the 4 cardinal and the 4 intermediate quarters, S.E., S.W., N.W., and N.E., <ls>Mn. i, 13</ls> [<ab>cf.</ab> <s>उप-</s>];
 and even a 9th, and 10th, <s>तिर्यक्</s> or <s>अधस्</s> and <s>ऊर्ध्वम्</s>, <ls>ŚBr. vi, 2, 2, 34</ls>;
 <ls>MBh. i, 729</ls>;
 <s>दिशाम् पति</s> [<ab>cf.</ab> <s>दिक्-पति</s> below] = <s1 slp1="soma">Soma</s1>, <ls>RV. ix, 113, 2</ls>, or = <s1 slp1="rudra">Rudra</s1>, <ls>VS. xvi, 17</ls>)<info lex="f"/>

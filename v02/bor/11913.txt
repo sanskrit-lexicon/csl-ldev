@@ -1,6 +1,6 @@
 <L>11913<pc>372<k1>incontinence<k2>incontinence
-<div n="lb"/>{@INCONTINENCE, INCONTINENCY:@}¦ <div n="I">I Lit.: </div><div n="1">(1)
-<div n="lb"/>{#असंयम।;#} </div><div n="1">(2) {#अजितेन्द्रियता।#} </div><div n="I">II Indulgence of
-<div n="lb"/>lust: {#इन्द्रियासक्तिः।#} Ph.: <div n="xe">{%arising from i.:%}</div> <div n="xs">{#रतिराग-#}
-<div n="lb"/>{#सम्भवः#}</div> ({#वा, वं#}), R. xix. 48.</div>
+{@INCONTINENCE, INCONTINENCY:@}¦ <div n="I">I Lit.: </div><div n="1">(1)
+{#असंयम।;#} </div><div n="1">(2) {#अजितेन्द्रियता।#} </div><div n="I">II Indulgence of
+lust: {#इन्द्रियासक्तिः।#} Ph.: <div n="xe">{%arising from i.:%}</div> <div n="xs">{#रतिराग-#}
+{#सम्भवः#}</div> ({#वा, वं#}), R. xix. 48.</div>
 <LEND>

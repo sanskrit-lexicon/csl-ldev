@@ -1,12 +1,12 @@
 <L>9232<pc>292<k1>forgive<k2>forgive
-<div n="lb"/>{@FORGIVE:@}¦ <div n="1">(1) {#क्षमते#} <div n="xe">{%or%}</div> <div n="xs">{#क्षाम्यति#}</div> ({#क्षम्,#} c. l. and 4.),
-<div n="lb"/><div n="xe">{%Śātānanda will not so easily f.:%}</div> <div n="xs">{#न त्वेवं शतनन्दः #}
-<div n="lb"/>{# क्षमिष्यते,#}</div> Vi. iii.; </div><div n="1">(2) {#तितिक्षते#} ({#तितिक्ष्,#} c. 1.),
-<div n="lb"/><div n="xe">{%please f. my misbehaviour:%}</div> <div n="xs">{#तितिक्षतुं दुश्चरितं त्वमर्हसि,#}</div>
-<div n="lb"/>Ki. xviii. 42.; </div><div n="1">(3) {#मर्षयति#} <div n="xe">{%or%}</div> <div n="xs">{#मृष्यति#}</div> ({#मृष्,#} c. 10.
-<div n="lb"/>and 4.), <div n="xe">{%you should f. this fault:%}</div> <div n="xs">{#अयमपराधो भवता #}
-<div n="lb"/>{# मर्षयितव्यः,#}</div> Sa. iv.; </div><div n="1">(4) {#सहते#} ({#सह्,#} c. 1.), <div n="xe">{%I%}
-<div n="lb"/>{%will then f. this fault:%}</div> <div n="xs">{#अपराधिममं ततः सहिष्ये,#}</div> Sa.
-<div n="lb"/>iii. N.B. Only {#क्षम्#} can take an acc. of the
-<div n="lb"/>person.</div>
+{@FORGIVE:@}¦ <div n="1">(1) {#क्षमते#} <div n="xe">{%or%}</div> <div n="xs">{#क्षाम्यति#}</div> ({#क्षम्,#} c. l. and 4.),
+<div n="xe">{%Śātānanda will not so easily f.:%}</div> <div n="xs">{#न त्वेवं शतनन्दः #}
+{# क्षमिष्यते,#}</div> Vi. iii.; </div><div n="1">(2) {#तितिक्षते#} ({#तितिक्ष्,#} c. 1.),
+<div n="xe">{%please f. my misbehaviour:%}</div> <div n="xs">{#तितिक्षतुं दुश्चरितं त्वमर्हसि,#}</div>
+Ki. xviii. 42.; </div><div n="1">(3) {#मर्षयति#} <div n="xe">{%or%}</div> <div n="xs">{#मृष्यति#}</div> ({#मृष्,#} c. 10.
+and 4.), <div n="xe">{%you should f. this fault:%}</div> <div n="xs">{#अयमपराधो भवता #}
+{# मर्षयितव्यः,#}</div> Sa. iv.; </div><div n="1">(4) {#सहते#} ({#सह्,#} c. 1.), <div n="xe">{%I%}
+{%will then f. this fault:%}</div> <div n="xs">{#अपराधिममं ततः सहिष्ये,#}</div> Sa.
+iii. N.B. Only {#क्षम्#} can take an acc. of the
+person.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>11835<pc>370<k1>incense<k2>incense
-<div n="lb"/>{@INCENSE:@}¦ (v.): <div n="I">I Lit.: {#धूप(पा)यति#} ({#धूप्,#}) c. 10.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#धूपेन वासयति#}</div> (c. of {#वस्#}). </div><div n="I">II To kindle:
-<div n="lb"/>q.v.: {#संघुक्षयति#} (c. of {#धुक्ष्#}).</div>
+{@INCENSE:@}¦ (v.): <div n="I">I Lit.: {#धूप(पा)यति#} ({#धूप्,#}) c. 10.)
+<div n="xe">{%or%}</div> <div n="xs">{#धूपेन वासयति#}</div> (c. of {#वस्#}). </div><div n="I">II To kindle:
+q.v.: {#संघुक्षयति#} (c. of {#धुक्ष्#}).</div>
 <LEND>

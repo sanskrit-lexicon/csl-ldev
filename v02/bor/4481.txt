@@ -1,5 +1,5 @@
 <L>4481<pc>145<k1>consent<k2>consent
-<div n="lb"/>{@CONSENT@}¦ (v.): <div n="1">(1) {#सम्मतिं ददाति#} ({#दा,#} c. 3.); </div><div n="1">(2)
-<div n="lb"/>{#सम्मतः#} ({#ता, तं#}) {#भवति।#} Ph.: <div n="xe">{%I c. to what has been%}
-<div n="lb"/>{%written above:%}</div> <div n="xs">{#मतं मे यदत्रोपरि लेखितम्,#}</div> Y.</div>
+{@CONSENT@}¦ (v.): <div n="1">(1) {#सम्मतिं ददाति#} ({#दा,#} c. 3.); </div><div n="1">(2)
+{#सम्मतः#} ({#ता, तं#}) {#भवति।#} Ph.: <div n="xe">{%I c. to what has been%}
+{%written above:%}</div> <div n="xs">{#मतं मे यदत्रोपरि लेखितम्,#}</div> Y.</div>
 <LEND>

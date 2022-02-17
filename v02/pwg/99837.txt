@@ -9,11 +9,11 @@
 <ls>MBH. 3, 2639.</ls> {#हरयः#} 
 <ls>R. 5, 41, 11.</ls> {#मारुत#} 
 <ls>KAUŚ. 141.</ls> 
-<ls>Spr. (II) 1701. 4762.</ls> ({#शीघ्रतम#}). {#°पाणि#} heisst <is>Vāyu</is> 
+<ls>Spr. (II) 1701.</ls> <ls n="Spr. (II)">4762.</ls> ({#शीघ्रतम#}). {#°पाणि#} heisst <is>Vāyu</is> 
 <ls>ṢAḌV. BR. 5, 8.</ls> {#ग्रह#} 
 <ls>Ind. St. 2, 268. fg.</ls> 
-<ls>MBH. 1, 5268. 14, 1714.</ls> {#गति#} 
-<ls>?1, 6053. SURYAS. 2, 12</ls> (auch {#शीघ्रतरा)#}.{# क्रम#} 
+<ls>MBH. 1, 5268.</ls> <ls n="MBH.">14, 1714.</ls> {#गति#} 
+<ls>1, 6053. SURYAS. 2, 12</ls> (auch {#शीघ्रतरा)#}.{# क्रम#} 
 <ls>VARĀH. BṚH. S. 75, 3.</ls> 
 <ls>KĀM. NĪTIS. 19, 4.</ls> {#°वेग#} 
 <ls>R. 2, 93, 11.</ls> {#°स्रोतस्#} 
@@ -32,7 +32,7 @@
 <ls>KĀTY. ŚR. 14, 3, 21.</ls> 
 <ls>ṚV. PRĀT. 13, 6.</ls> {#शीघ्रमेव निपात्यताम्#} 
 <ls>MBH. 1, 6034.</ls> {#गच्छाम#} 
-<ls>?6040. 3, 1724. 1728. 2520. 2615. 2714. 2763. 2768. R. 1, 2, 9. 8, 4. 9, 40. 45. 61, 8. 62, 22. 2, 36, 24. 63, 41. 70, 21. R. GORR. 2, 46, 19. 3, 68, 29. SUŚR. 1, 18, 14. P. 3, 3, 133, Schol. MṚCCH. 176, 17. VARĀH. BṚH. S. 89, 13. KATHĀS. 15, 117. HIT. 43, 17. VET. in LA. (III) 4, 3. 25, 2. 3. ŚUK. ebend. 37, 17. PAÑCAT. 128, 4:</ls> {#शीघ्रतरम्#} 
+<ls>6040. 3, 1724. 1728. 2520. 2615. 2714. 2763. 2768.</ls> <ls>R. 1, 2, 9. 8, 4. 9, 40. 45. 61, 8. 62, 22. 2, 36, 24. 63, 41. 70, 21.</ls> <ls>R. GORR. 2, 46, 19. 3, 68, 29.</ls> <ls>SUŚR. 1, 18, 14.</ls> <ls>P. 3, 3, 133, Schol.</ls> <ls>MṚCCH. 176, 17.</ls> <ls>VARĀH. BṚH. S. 89, 13.</ls> <ls>KATHĀS. 15, 117.</ls> <ls>HIT. 43, 17.</ls> <ls>VET. in LA. (III) 4, 3. 25, 2. 3.</ls> <ls>ŚUK. ebend. 37, 17.</ls> <ls>PAÑCAT. 128, 4</ls>: {#शीघ्रतरम्#} 
 <ls>88, 6.</ls> {#शीघ्रेण = शीघ्रम्#} 
 <ls>MBH. 4, 1398.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Agnivarṇa</is> 
@@ -43,7 +43,7 @@
 <div n="2"> a) {%Croton polyandrum Roxb.%} oder {%Croton Tiglium Lin.%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) N. pr. eines Flusses 
-<ls>MBH. 6, 336</ls> <ls>?(VP. 183).</ls>
+<ls>MBH. 6, 336</ls> (<ls>VP. 183).</ls>
 [Page7-0222]
 
 <div n="1">— 4) <lex>n.</lex> 
@@ -51,9 +51,9 @@
 <ls>GAṆIT.</ls> 
 <ls>SPAṢṬĀDH. 18.</ls> <ls>GOLĀDHY.</ls> <ls>CHEDYAK. 30.</ls> {#°कर्मन्#} 
 <ls>SŪRYAS. 2, 37.</ls> {#°फल#} 44. {#°केन्द्र#} <lex>n.</lex> {%Excentricität, Abstand eines Planeten vom Punkte seiner grössten Schnelligkeit%} Comm. zu 
-<ls>?55. GAṆIT. SPAṢṬĀDH. 18.</ls> {#°परिधि#} 
+<ls>55.</ls> <ls>GAṆIT. SPAṢṬĀDH. 18.</ls> {#°परिधि#} 
 <ls>SŪRYAS. 2, 55.</ls> {#शीघ्रोच्च#} <lex>n.</lex> {%Apex der grössten Schnelligkeit eines Planeten, Conjunction%} Comm. zu 
-<ls>?30. zu GAṆIT. GRAHĀNAY. 14.</ls> 
+<ls>30.</ls> zu <ls>GAṆIT.</ls> <ls>GRAHĀNAY. 14.</ls> 
 <div n="2">— b) {%die Wurzel von Andropogon muricatus%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— c) = {#चक्राङ्ग#} diess. 

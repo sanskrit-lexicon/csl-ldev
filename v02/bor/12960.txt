@@ -1,5 +1,5 @@
 <L>12960<pc>400<k1>justify<k2>justify
-<div n="lb"/>{@JUSTIFY:@}¦ <div n="I">I To defend: {#न्याय्यः#} (f. {#य्या#}) {#इति #}
-<div n="lb"/>{# प्रदर्शयति#} (c. of {#दृश्#}) <div n="xe">{%or%}</div> <div n="xs">{#प्रतिपादयति#}</div> (c. of {#पद्#}).</div>
-<div n="lb"/><div n="I">II To clear: q.v.: {#शोधयति#} (c. of {#शुध्#}).</div>
+{@JUSTIFY:@}¦ <div n="I">I To defend: {#न्याय्यः#} (f. {#य्या#}) {#इति #}
+{# प्रदर्शयति#} (c. of {#दृश्#}) <div n="xe">{%or%}</div> <div n="xs">{#प्रतिपादयति#}</div> (c. of {#पद्#}).</div>
+<div n="I">II To clear: q.v.: {#शोधयति#} (c. of {#शुध्#}).</div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>86365<pc>6-0539<k1>लिङ्ग<k2>लिङ्ग
 {#लिङ्ग#}¦ (wohl von {#लग्#} wie {#लक्ष, लक्ष्मन्, लक्ष्मी#}) <lex>n.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>NIR. 2, 8.</ls> 
-<ls>MBH. 3, 13059. 7, 2141.</ls> 
+<ls>MBH. 3, 13059.</ls> <ls n="MBH.">7, 2141.</ls> 
 <ls>PAT.</ls> bei <ls>GOLD. MĀN. 156.</ls> aber {#विष्णुलिङ्गी#} (s. d.). 
 <div n="1"> 1) {%Kennzeichen, Abzeichen, Merkmal, das Charakteristische%},
 <lang n="greek">τεκμήριον</lang>; daher {%Stichwort%} und dergl. 
 <ls>AK.3,4,3,26.</ls> <ls>TRIK.3,3,69.</ls> <ls>H. an.2,47.</ls> <ls>MED. g. 21.</ls> <ls>Verz. d. Oxf. H. 184,b,6. 312,a, No. 745, Z. 17.</ls> <ls>MAITRYUP.6,10. 31.</ls> <ls>ŚVETĀŚV. UP.6,9.</ls> {#बाह्यैर्विभावयेल्लिङ्गैर्भावमन्तर्गतं नृणाम्#} 
 <ls>M. 8, 25. 252. fg.</ls> ({%Grenzzeichen).%} 
 <ls>BHAG. 14, 21.</ls> {#येन लिङ्गेन यो देशो युक्तः समुपलक्ष्यते । तेनैव नाम्ना तं देशं वाच्यमाहुर्मनीषिणः ॥#} 
-<ls>MBH. 1, 281. 2, 2646. 3, 2927.</ls> 
+<ls>MBH. 1, 281.</ls> <ls n="MBH.">2, 2646.</ls> <ls n="MBH.">3, 2927.</ls> 
 <ls>HARIV. 4942.</ls> {#देवानां यानि लिङ्गानि#} 
 <ls>MBH. 3, 2204.</ls> {#देवलिङ्गानि#} 
 <ls>R. 3, 63, 21.</ls> {#राजलिङ्गानि#} 
@@ -52,7 +52,7 @@
 <ls>TRIK. 3, 2, 11.</ls> 
 <ls>HALĀY. 5, 86.</ls> = {#अनुमान#} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>KAṆ. 2, 1, 14. 18.</ls> {#वेदलिङ्गात्#} {%weil es aus dem%} <is>Veda</is> {%folgt%} 
-<ls>?4, 2, 11. 9, 2, 4. JAIM. 1, 3, 23. KĀṬY. ŚR. 1, 8, 37. 9, 4, 26. KĀM. NĪTIS. 1, 29. fg. KULL. zu M. 3, 152. Schol. zu P. 4, 1, 15. 6, 3, 35, <is>Vārtt</is>. 4. SARVADARŚANAS. 73, 6.</ls> 
+<ls>4, 2, 11. 9, 2, 4.</ls> <ls>JAIM. 1, 3, 23.</ls> <ls>KĀTY. ŚR. 1, 8, 37. 9, 4, 26.</ls> <ls>KĀM. NĪTIS. 1, 29. fg.</ls> <ls>KULL.</ls> zu <ls>M. 3, 152.</ls> Schol. zu <ls>P. 4, 1, 15. 6, 3, 35</ls>, <is>Vārtt</is>. 4. <ls>SARVADARŚANAS. 73, 6.</ls> 
 <div n="1">— 4) {%Geschlechtszeichen, Geschlechtsglied%} 
 <ls>AK. 3, 4, 3, 26. 14, 75.</ls> 
 <ls>TRIK. 2, 6, 23. 3, 3, 69.</ls> 
@@ -78,9 +78,9 @@
 <ls>TRIK. 3, 3, 69.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 10, 780. 782. 13, 818. fgg. 7511. fgg.</ls> {#लिङ्गाध्यक्ष#} 
+<ls>MBH. 10, 780.</ls> <ls n="MBH. 10,">782.</ls> <ls n="MBH.">13, 818. fgg.</ls> <ls n="MBH. 13,">7511. fgg.</ls> {#लिङ्गाध्यक्ष#} 
 <ls>1191.</ls> {#ऊर्ध्व°#} 
-<ls>?12,1669. 13,1160. R.7,31,42. fg. Spr. 3063. VARĀH. BṚH. S. 46,8. 57,4. 58,53. 55. 59,7. 60,5. KATHĀS. 51,98. 69,155. RĀJA-TAR.1,194.2,130.3,439. fg. Verz. d. B. H. No. 1309. Verz. d. Oxf. H.8,a. 44,b,5. 17. fg. 21. 32. fg. 42,a,11. 43,a,1. 45,a,27. fg. 54,a,15. 63,b,30. 75,b,14. fg. 76,a,6. 12. 85,b,3. 8. MUIR, ST.4,325. fgg. LA. (III) 87,3. WILSON, Sel. Works I,223. fg. BURN. Intr. 538. SARVADARŚANAS. 102,12.</ls> {#शिव°#} 
+<ls>12,1669. 13,1160.</ls> <ls>R. 7,31,42. fg.</ls> <ls>Spr. 3063.</ls> <ls>VARĀH. BṚH. S. 46,8. 57,4. 58,53. 55. 59,7. 60,5.</ls> <ls>KATHĀS. 51,98. 69,155.</ls> <ls>RĀJA-TAR. 1,194.2,130.3,439. fg.</ls> <ls>Verz. d. B. H. No. 1309.</ls> <ls>Verz. d. Oxf. H.8,a. 44,b,5. 17. fg. 21. 32. fg. 42,a,11. 43,a,1. 45,a,27. fg. 54,a,15. 63,b,30. 75,b,14. fg. 76,a,6. 12. 85,b,3. 8.</ls> <ls>MUIR, ST. 4,325. fgg.</ls> <ls>LA. (III) 87,3.</ls> <ls>WILSON, Sel. Works I,223. fg.</ls> <ls>BURN. Intr. 538.</ls> <ls>SARVADARŚANAS. 102,12.</ls> {#शिव°#} 
 <ls>VARĀH. BṚH. S. 50, 2.</ls> 
 <ls>KATHĀS. 59, 81. 69, 153.</ls> 
 <ls>RĀJA-TAR. 2, 128. 3, 114.</ls> {#अर्चा°#} 
@@ -97,9 +97,9 @@
 <div n="1">— 9) = {#प्रातिपदिक#} {%Nominalthema%} 
 <ls>DURGAD.</ls> zu <ls>VOP. 1, 12</ls> (abgekürzt {#लि#} bei 
 <ls>VOP.</ls>). Vgl. 
-<ls>ERNST KUHN,</ls> <ls>KACCĀYANAPPAKARAṆAB</ls> Specimen <ls>S. 20.</ls> 
+<ls>ERNST KUHN</ls>, <ls>KACCĀYANAPPAKARAṆAB</ls> Specimen <ls>S. 20.</ls> 
 <div n="1">— 10) = {#लिङ्गपुराण#} 
-<ls>BHĀG. P. 12,13,6.</ls> <ls>Verz. d. Oxf. H. 65,a,40. fg. 79,b, No. 136, Z. 1 v. u.</ls> 
+<ls>BHĀG. P. 12,13,6.</ls> <ls>Verz. d. Oxf. H. 65,a,40. fg. 79,b, No. 136, Z. 1</ls> v. u. 
 <div n="1">— 11) = {#व्यक्तं सांख्योदितम्#} 
 <ls>TRIK. 3, 3, 69.</ls> = {#सांख्योक्तप्रकृति#} 
 <ls>H. an.</ls> <ls>MED.</ls> = {#प्रधान#}

@@ -1,5 +1,5 @@
 <L>20501<pc>642<k1>sickly<k2>sickly
-<div n="lb"/>{@SICKLY:@}¦ <div n="I">I Unwell, weak: q. v.: {#रुग्न#} (f. {#ग्ना#}).</div>
-<div n="lb"/><div n="I">II Of places etc. </div><div n="1">(1) {#रोगाकुल#} (f. {#ला#}), K. b.;</div>
-<div n="lb"/><div n="1">(2) {#गदोपसृष्ट#} (f. {#ष्टा#}), and sim. comp. s.</div>
+{@SICKLY:@}¦ <div n="I">I Unwell, weak: q. v.: {#रुग्न#} (f. {#ग्ना#}).</div>
+<div n="I">II Of places etc. </div><div n="1">(1) {#रोगाकुल#} (f. {#ला#}), K. b.;</div>
+<div n="1">(2) {#गदोपसृष्ट#} (f. {#ष्टा#}), and sim. comp. s.</div>
 <LEND>

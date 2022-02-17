@@ -1,4 +1,4 @@
 <L>2337<pc>081<k1>bookbinding<k2>bookbinding
-<div n="lb"/>{@BOOKBINDING:@}¦ {#पुस्तकबन्धनशिल्पम्;#} {%or%} sim. {#पुस्तक-#}
-<div n="lb"/>{#बन्धनम्।#}
+{@BOOKBINDING:@}¦ {#पुस्तकबन्धनशिल्पम्;#} {%or%} sim. {#पुस्तक-#}
+{#बन्धनम्।#}
 <LEND>

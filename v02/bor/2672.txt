@@ -1,6 +1,6 @@
 <L>2672<pc>091<k1>brother<k2>brother
-<div n="lb"/>{@BROTHER:@}¦ <div n="1">(1) {#भ्राता#} (a full or a step-b. and
-<div n="lb"/>also used fig. like the English word); </div><div n="1">(2)
-<div n="lb"/>{#सहोदरः#} <div n="xe">{%or%}</div> <div n="xs">{#सोदरः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#सोदर्यः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#सगर्भः#}</div> (=a full
-<div n="lb"/>b.); <div n="xe">{%elder b.:%}</div> <div n="xs">{#अग्रजः;#}</div> <div n="xe">{%younger b.%}</div> <div n="xs">{#अनुजः।#}</div></div>
+{@BROTHER:@}¦ <div n="1">(1) {#भ्राता#} (a full or a step-b. and
+also used fig. like the English word); </div><div n="1">(2)
+{#सहोदरः#} <div n="xe">{%or%}</div> <div n="xs">{#सोदरः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#सोदर्यः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#सगर्भः#}</div> (=a full
+b.); <div n="xe">{%elder b.:%}</div> <div n="xs">{#अग्रजः;#}</div> <div n="xe">{%younger b.%}</div> <div n="xs">{#अनुजः।#}</div></div>
 <LEND>

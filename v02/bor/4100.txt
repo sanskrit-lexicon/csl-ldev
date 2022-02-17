@@ -1,6 +1,6 @@
 <L>4100<pc>133<k1>comic<k2>comic
-<div n="lb"/>{@COMIC, COMICAL:@}¦ <div n="I">I Diverting, sportive:
-<div n="lb"/>q. v.: </div><div n="1">(1) {#हासकरः#} ({#री, रं#}); </div><div n="1">(2) {#हासजननः#} ({#नी, #}
-<div n="lb"/>{# नं#}). </div><div n="I">II Relating to a comedy: <div n="xe">{%is this%}
-<div n="lb"/>{%drama c.%}</div> <div n="xs">{#*अपि नाटकमिदं हर्षप्रधानम्।#}</div></div>
+{@COMIC, COMICAL:@}¦ <div n="I">I Diverting, sportive:
+q. v.: </div><div n="1">(1) {#हासकरः#} ({#री, रं#}); </div><div n="1">(2) {#हासजननः#} ({#नी, #}
+{# नं#}). </div><div n="I">II Relating to a comedy: <div n="xe">{%is this%}
+{%drama c.%}</div> <div n="xs">{#*अपि नाटकमिदं हर्षप्रधानम्।#}</div></div>
 <LEND>

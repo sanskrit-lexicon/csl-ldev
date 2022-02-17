@@ -1,5 +1,5 @@
 <L>10942<pc>344<k1>hesitation<k2>hesitation
-<div n="lb"/>{@HESITATION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#विचिकित्सा;#} </div><div n="1">(2)
-<div n="lb"/>{#विकल्पः:#} v. Doubt. </div><div n="I">II In speaking: {#स्खलित#}
-<div n="lb"/>(mfn.): v. To falter.</div>
+{@HESITATION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#विचिकित्सा;#} </div><div n="1">(2)
+{#विकल्पः:#} v. Doubt. </div><div n="I">II In speaking: {#स्खलित#}
+(mfn.): v. To falter.</div>
 <LEND>

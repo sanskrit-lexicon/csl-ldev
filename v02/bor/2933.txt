@@ -1,15 +1,15 @@
 <L>2933<pc>099<k1>calm<k2>calm
-<div n="lb"/>{@CALM@}¦ (adj.): <div n="1">(1) {#शान्तः, प्र-,#} ({#न्ता, न्तं#}), <div n="xe">{%O, what%}
-<div n="lb"/>{%a c. and beautiful morning%}</div> <div n="xs">{#अहो प्रशान्तरमणीयता #}
-<div n="lb"/>{# प्रभातस्य;#}</div> <div n="xe">{%c. and solemn place%}</div> <div n="xs">{#प्रशान्तगम्भीरभूमिः,#}</div>
-<div n="lb"/>Vi.; <div n="xe">{%c. countenance%}</div> <div n="xs">{#शान्ताकारः,#}</div> Ma.; </div><div n="1">(2)
-<div n="lb"/>{#निष्कम्पः#} ({#म्पा, म्पं#}), {#निश्चलः#} ({#ला, लं#}) etc. (with-
-<div n="lb"/>-out motion: as a sea), <div n="xe">{%like the c. ocean on%}
-<div n="lb"/>{%a c. day%}</div> <div n="xs">{#निवातनिष्कम्पमिवापगापतिम्,#}</div> Ki.; <div n="xe">{%the sea%}
-<div n="lb"/>{%became very c. with unruffled water%}</div> <div n="xs">{#निभृतोऽभवदत्यर्थं #}
-<div n="lb"/>{# समुद्रः स्तिमितोदकः।#}</div> V. p.; </div><div n="1">(3) {#निर्वातः#} ({#ता, तं#}),
-<div n="lb"/>etc. (=without wind: as a c. place), <ls>V.</ls> ;</div>
-<div n="lb"/><div n="1">(4) {#अनुत्तरङ्गः#} (f. {#ङ्गा#}) etc. (=not wavy: as a
-<div n="lb"/>river); </div><div n="1">(5) {#अक्षुब्धः#} (f. {#ब्धा#}), etc. (=not agi-
-<div n="lb"/>-tated), <div n="xe">{%To be c.:%}</div> <div n="xs">{#शाम्यति, प्र-,#}</div> ({#शम्,#} c. 4.), Ku.</div>
+{@CALM@}¦ (adj.): <div n="1">(1) {#शान्तः, प्र-,#} ({#न्ता, न्तं#}), <div n="xe">{%O, what%}
+{%a c. and beautiful morning%}</div> <div n="xs">{#अहो प्रशान्तरमणीयता #}
+{# प्रभातस्य;#}</div> <div n="xe">{%c. and solemn place%}</div> <div n="xs">{#प्रशान्तगम्भीरभूमिः,#}</div>
+Vi.; <div n="xe">{%c. countenance%}</div> <div n="xs">{#शान्ताकारः,#}</div> Ma.; </div><div n="1">(2)
+{#निष्कम्पः#} ({#म्पा, म्पं#}), {#निश्चलः#} ({#ला, लं#}) etc. (with-
+-out motion: as a sea), <div n="xe">{%like the c. ocean on%}
+{%a c. day%}</div> <div n="xs">{#निवातनिष्कम्पमिवापगापतिम्,#}</div> Ki.; <div n="xe">{%the sea%}
+{%became very c. with unruffled water%}</div> <div n="xs">{#निभृतोऽभवदत्यर्थं #}
+{# समुद्रः स्तिमितोदकः।#}</div> V. p.; </div><div n="1">(3) {#निर्वातः#} ({#ता, तं#}),
+etc. (=without wind: as a c. place), <ls>V.</ls> ;</div>
+<div n="1">(4) {#अनुत्तरङ्गः#} (f. {#ङ्गा#}) etc. (=not wavy: as a
+river); </div><div n="1">(5) {#अक्षुब्धः#} (f. {#ब्धा#}), etc. (=not agi-
+-tated), <div n="xe">{%To be c.:%}</div> <div n="xs">{#शाम्यति, प्र-,#}</div> ({#शम्,#} c. 4.), Ku.</div>
 <LEND>

@@ -1,20 +1,20 @@
 <L>13976<pc>224-3<k1>मात्र<k2>मात्र
 {#मात्र#}¦mā-tra, {%n.%} element ({%only P.%}); -°, measure, <lbinfo n="3"/>
-<> size, height, depth, length, breadth, 
-<>distance; quantity, sum ({%of money%}); duration <lbinfo n="4"/>
-<> {%or%} space {%of time%}; number ({%redundant %}
-<>{%with numerals%}); whole measure, totality, aggregate <lbinfo n="2"/>
-<> {%or%} entire class of, {%so and so%} in the 
-<>widest sense; no more than {%what the preceding %}<lbinfo n="6"/>
-<>{% word expresses%}: {%to be translated by%} nothing <lbinfo n="2"/>
-<> but, only, merely; -° {%a.%} ({@ā, ī@}) as large, 
-<>high, deep, long, broad, {%or%} far as; as much 
-<>{%or%} many as; having no more than, amounting <lbinfo n="6"/>
-<> only to, consisting of nothing but; being 
-<>nothing but, a simple {%or%} mere; following immediately <lbinfo n="2"/>
-<> after: {%with pp.%} = no sooner than, 
-<>scarcely, as soon as, only just; consisting 
-<>of ({%so many%}) morae; lasting ({%so many%}) 
-<>moments; possessing ({%anything%}) as {%one's%} 
-<>property.
+ size, height, depth, length, breadth, 
+distance; quantity, sum ({%of money%}); duration <lbinfo n="4"/>
+ {%or%} space {%of time%}; number ({%redundant %}
+{%with numerals%}); whole measure, totality, aggregate <lbinfo n="2"/>
+ {%or%} entire class of, {%so and so%} in the 
+widest sense; no more than {%what the preceding %}<lbinfo n="6"/>
+{% word expresses%}: {%to be translated by%} nothing <lbinfo n="2"/>
+ but, only, merely; -° {%a.%} ({@ā, ī@}) as large, 
+high, deep, long, broad, {%or%} far as; as much 
+{%or%} many as; having no more than, amounting <lbinfo n="6"/>
+ only to, consisting of nothing but; being 
+nothing but, a simple {%or%} mere; following immediately <lbinfo n="2"/>
+ after: {%with pp.%} = no sooner than, 
+scarcely, as soon as, only just; consisting 
+of ({%so many%}) morae; lasting ({%so many%}) 
+moments; possessing ({%anything%}) as {%one's%} 
+property.
 <LEND>

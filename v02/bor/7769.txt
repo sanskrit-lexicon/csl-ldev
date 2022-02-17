@@ -1,6 +1,6 @@
 <L>7769<pc>246<k1>equestrian<k2>equestrian
-<div n="lb"/>{@EQUESTRIAN@}¦ (adj.): <div n="I">I Pertaining to horse:</div>
-<div n="lb"/><div n="1">(1) {#अश्वीयः#} ({#या, यं#}); </div><div n="1">(2) {#आश्व#} (f. {#श्वा#}); </div><div n="1">(3)
-<div n="lb"/>{#आश्विकः#} ({#की, कं#}). </div><div n="I">II Pertaining to horse-
-<div n="lb"/>-men: expr. by tat. comp.</div>
+{@EQUESTRIAN@}¦ (adj.): <div n="I">I Pertaining to horse:</div>
+<div n="1">(1) {#अश्वीयः#} ({#या, यं#}); </div><div n="1">(2) {#आश्व#} (f. {#श्वा#}); </div><div n="1">(3)
+{#आश्विकः#} ({#की, कं#}). </div><div n="I">II Pertaining to horse-
+-men: expr. by tat. comp.</div>
 <LEND>

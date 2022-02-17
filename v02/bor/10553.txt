@@ -1,4 +1,4 @@
 <L>10553<pc>332<k1>halt<k2>halt
-<div n="lb"/>{@HALT@}¦ (subs.): <div n="I">I Stay, rest: {#अवस्थितिः।#} </div><div n="I">II
-<div n="lb"/><div n="xe">{%Lame:%}</div> <div n="xs">{#लङ्गुः।#}</div></div>
+{@HALT@}¦ (subs.): <div n="I">I Stay, rest: {#अवस्थितिः।#} </div><div n="I">II
+<div n="xe">{%Lame:%}</div> <div n="xs">{#लङ्गुः।#}</div></div>
 <LEND>

@@ -1,22 +1,22 @@
 <L>22402<pc>706<k1>then<k2>then
-<div n="lb"/>{@THEN:@}¦ <div n="1">(1) {#तदा#} (of time, rarely of cause),
-<div n="lb"/><div n="xe">{%when...t.:%}</div> <div n="xs">{#यदा॥।तदा,#}</div> Ku. v. 18.; <div n="xe">{%t. (he)%}
-<div n="lb"/>{%knew:%}</div> <div n="xs">{#तदा विवेद,#}</div> Ki. iii. 18.; </div><div n="1">(2) {#तदानीम्#} (of
-<div n="lb"/>time), <div n="xe">{%but t. by the narration of the story of her%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#तदानीन्तु स्ववृत्तान्तकथनेन,#}</div> K.; </div><div n="1">(3) {#ततः#} (of
-<div n="lb"/>sequence and cause), <div n="xe">{%t. when your Highness%}
-<div n="lb"/>{%came away:%}</div> <div n="xs">{#ततः खल्वागते देवे,#}</div> K.; <div n="xe">{%what t.:%}</div> <div n="xs">{#ततः #}
-<div n="lb"/>{# किम्,#}</div> K.; <div n="xe">{%first of all splendour, t. sound, t.%}
-<div n="lb"/>{%dust:%}</div> <div n="xs">{#प्रतापोऽग्रे ततः शब्दः परागस्तदन्तरम्,#}</div> R. iv.
-<div n="lb"/>30.; <div n="xe">{%if she does not vanish from my sight, t. I%}
-<div n="lb"/>{%shall ask her all these:%}</div> <div n="xs">{#तद्यदि मे दर्शनपथान्नापयाति #}
-<div n="lb"/>{# ततः॥।सर्वमेतदेनां पृच्छामि,#}</div> K.; {%and t.%} (as a
-<div n="lb"/>question): {#ततस्ततः,#} Mr. ii.; </div><div n="1">(4) {#अथ#} (of
-<div n="lb"/>sequence at the head of a sentence), {%t. at%} [Page707]
-<div n="lb"/><div n="xe">{%the end of the song:%}</div> <div n="xs">{#अथ गीतावसाने,#}</div> K.; </div><div n="1">(5)
-<div n="lb"/>{#तर्हि,#} (of time and cause: rare), <div n="xe">{%t. the world%}
-<div n="lb"/>{%is learned:%}</div> <div n="xs">{#तर्हि पण्डितः संसारः,#}</div> U. ii.; {%what t.:%}
-<div n="lb"/>{#किं तर्हि,#} S. i. 2. 1.; </div><div n="1">(6) {#तत्#} (causal), <div n="xe">{%t. how%}
-<div n="lb"/>{%is the gentle Rāma now to be consoled:%}</div> <div n="xs">{#तत् #}
-<div n="lb"/>{# कथमिदानीं रामभद्र आश्वासनीयः,#}</div> U. ii.</div>
+{@THEN:@}¦ <div n="1">(1) {#तदा#} (of time, rarely of cause),
+<div n="xe">{%when...t.:%}</div> <div n="xs">{#यदा॥।तदा,#}</div> Ku. v. 18.; <div n="xe">{%t. (he)%}
+{%knew:%}</div> <div n="xs">{#तदा विवेद,#}</div> Ki. iii. 18.; </div><div n="1">(2) {#तदानीम्#} (of
+time), <div n="xe">{%but t. by the narration of the story of her%}
+{%life:%}</div> <div n="xs">{#तदानीन्तु स्ववृत्तान्तकथनेन,#}</div> K.; </div><div n="1">(3) {#ततः#} (of
+sequence and cause), <div n="xe">{%t. when your Highness%}
+{%came away:%}</div> <div n="xs">{#ततः खल्वागते देवे,#}</div> K.; <div n="xe">{%what t.:%}</div> <div n="xs">{#ततः #}
+{# किम्,#}</div> K.; <div n="xe">{%first of all splendour, t. sound, t.%}
+{%dust:%}</div> <div n="xs">{#प्रतापोऽग्रे ततः शब्दः परागस्तदन्तरम्,#}</div> R. iv.
+30.; <div n="xe">{%if she does not vanish from my sight, t. I%}
+{%shall ask her all these:%}</div> <div n="xs">{#तद्यदि मे दर्शनपथान्नापयाति #}
+{# ततः॥।सर्वमेतदेनां पृच्छामि,#}</div> K.; {%and t.%} (as a
+question): {#ततस्ततः,#} Mr. ii.; </div><div n="1">(4) {#अथ#} (of
+sequence at the head of a sentence), {%t. at%} [Page707]
+<div n="xe">{%the end of the song:%}</div> <div n="xs">{#अथ गीतावसाने,#}</div> K.; </div><div n="1">(5)
+{#तर्हि,#} (of time and cause: rare), <div n="xe">{%t. the world%}
+{%is learned:%}</div> <div n="xs">{#तर्हि पण्डितः संसारः,#}</div> U. ii.; {%what t.:%}
+{#किं तर्हि,#} S. i. 2. 1.; </div><div n="1">(6) {#तत्#} (causal), <div n="xe">{%t. how%}
+{%is the gentle Rāma now to be consoled:%}</div> <div n="xs">{#तत् #}
+{# कथमिदानीं रामभद्र आश्वासनीयः,#}</div> U. ii.</div>
 <LEND>

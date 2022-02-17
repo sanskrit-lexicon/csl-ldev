@@ -1,5 +1,5 @@
 <L>423<pc>016<k1>aforementioned<k2>aforementioned
-<div n="lb"/>{@AFOREMENTIONED, AFORENAMED, AFORESAID:@}¦
-<div n="lb"/><div n="1">(1) {#पूर्वोक्तः#} ({#क्ता, क्तं#}); </div><div n="1">(2) {#प्रागुक्तः#} ({#क्ता, #}
-<div n="lb"/>{# क्तं#}).</div>
+{@AFOREMENTIONED, AFORENAMED, AFORESAID:@}¦
+<div n="1">(1) {#पूर्वोक्तः#} ({#क्ता, क्तं#}); </div><div n="1">(2) {#प्रागुक्तः#} ({#क्ता, #}
+{# क्तं#}).</div>
 <LEND>

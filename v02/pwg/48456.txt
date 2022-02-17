@@ -19,18 +19,18 @@
 <ls>R. 6, 72, 35.</ls> {#प्रतिमानां#} ({%Götterbilder%}) {#च भेदकः#} 
 <ls>M. 9, 285.</ls> {#प्रतिमाश्च प्रकम्पन्ते#} 
 <ls>R. 6, 11, 28.</ls> {#आयसी#} 
-<ls>MBH. 1, 582. 11, 335.</ls> {#हिरण्मयी#} 
+<ls>MBH. 1, 582.</ls> <ls n="MBH.">11, 335.</ls> {#हिरण्मयी#} 
 <ls>1, 6542.</ls> <ls>Z. d. d. m. G. 6, 93.</ls> {#हेम°#} 
 <ls>AK. 3, 4, 13, 53.</ls> {#प्रतिमाश्चालिखन्ति#} 
 <ls>MBH. 6, 76.</ls> {#°ध्वजभूषण#} 
 <ls>7, 1035. 1694.</ls> {#मद्रूपां प्रतिमां कृत्वा#} 
 <ls>HARIV. 1560.</ls> {#त्वत्तो ऽश्मभिश्च प्रतिमां कारयित्वा#} 
-<ls>7613. 7615.</ls> {#लवण°#} {%aus Salz%} 
-<ls>7810.</ls> {#काष्ठस्य#} {%aus Holz%} 
-<ls>7812.</ls> {#सर्वदेवानाम्#} 
-<ls>12801.</ls> {#बालार्कप्रतिमेवाप्सु#} 
+<ls n="HARIV.">7613.</ls> <ls n="HARIV.">7615.</ls> {#लवण°#} {%aus Salz%} 
+<ls n="HARIV.">7810.</ls> {#काष्ठस्य#} {%aus Holz%} 
+<ls n="HARIV.">7812.</ls> {#सर्वदेवानाम्#} 
+<ls n="HARIV.">12801.</ls> {#बालार्कप्रतिमेवाप्सु#} 
 <ls>RAGH. 12, 100. 16, 39.</ls> {#°गत#} 
-<ls>?17,36. VARĀH. BṚH. S. 45,15. 55,16. 58,48. KATHĀS. 22,3. 27,11. RĀJA-TAR.1,299. ŚAṂK. zu BṚH. ĀR. UP. S. 19. Verz. d. Oxf. H. 85,b,15. Schol. zu KAP.1,121.</ls> {#°परिचारक#} 
+<ls>17,36.</ls> <ls>VARĀH. BṚH. S. 45,15. 55,16. 58,48.</ls> <ls>KATHĀS. 22,3. 27,11.</ls> <ls>RĀJA-TAR.1,299.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 19.</ls> <ls>Verz. d. Oxf. H. 85,b,15. Schol.</ls> zu <ls>KAP.1,121.</ls> {#°परिचारक#} 
 <ls>KULL.</ls> zu <ls>M. 3, 152.</ls> {#प्रासादः प्रतिमां विना#} 
 <ls>ŚATR. 10, 187.</ls> {#°शशाङ्क#} {%der sich spiegelnde Mond, der Widerschein des Mondes%} 
 <ls>RAGH. 7, 61.</ls> {#°चन्द्र#} 
@@ -45,7 +45,7 @@
 <ls>AIT. BR. 6, 18.</ls> 
 <ls>INDR. 1, 6.</ls> 
 <ls>DRAUP. 1, 3.</ls> 
-<ls>MBH. 1, 133. 6569. 7346. 2, 13. 13, 889.</ls> 
+<ls>MBH. 1, 133.</ls> <ls n="MBH. 1,">6569.</ls> <ls n="MBH. 1,">7346.</ls> <ls n="MBH.">2, 13.</ls> <ls n="MBH.">13, 889.</ls> 
 <ls>R. 1, 44, 10. 2, 40, 23. 80, 11.</ls> 
 <ls>RAGH. 2, 49.</ls> 
 <ls>ŚĀK. 187.</ls> 
@@ -53,7 +53,7 @@
 <ls>Spr. 2093.</ls> 
 <ls>VARĀH. BṚH. S. 32, 30. 46, 26.</ls> 
 <div n="2">— c) {%Maass%}: {#त्रिनल्व° (रथ)#} so v. a. {%drei%} <is>Nalva</is> {%lang%} 
-<ls>HARIV. 6879. 12955. 13007.</ls> {#विस्तारपादप्रतिमं बाहुल्यं शाखयोः#} (der Thüren) {#स्मृतम्#} 
+<ls>HARIV. 6879.</ls> <ls n="HARIV.">12955.</ls> <ls n="HARIV.">13007.</ls> {#विस्तारपादप्रतिमं बाहुल्यं शाखयोः#} (der Thüren) {#स्मृतम्#} 
 <ls>VARĀH. BṚH. S. 55, 13.</ls> Vgl. {#अप्रतिम#} . 
 <div n="2">— d) {%die Gegend zwischen den Fangzähnen eines Elephanten%} 
 <ls>TRIK.</ls> <ls>MED.</ls> 

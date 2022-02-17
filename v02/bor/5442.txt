@@ -1,5 +1,5 @@
 <L>5442<pc>174<k1>date<k2>date
-<div n="lb"/>{@DATE@}¦ (v. i.): <div n="I">I To begin: q. v. </div><div n="I">II To have
-<div n="lb"/>a d.: <div n="xe">{%d. d London, the 1st. June:%}</div> <div n="xs">{#*लण्डने जुनस्य #}
-<div n="lb"/>{# प्रथमदिवसे लिखितः#}</div> ({#ता, तं#}).</div>
+{@DATE@}¦ (v. i.): <div n="I">I To begin: q. v. </div><div n="I">II To have
+a d.: <div n="xe">{%d. d London, the 1st. June:%}</div> <div n="xs">{#*लण्डने जुनस्य #}
+{# प्रथमदिवसे लिखितः#}</div> ({#ता, तं#}).</div>
 <LEND>

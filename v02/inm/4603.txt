@@ -1,43 +1,43 @@
 <L>4603<pc>327-1<k1>इक्ष्वाकु<k2>इक्ष्वाकु<h>1
 {@Ikṣvāku@}<sup>1</sup>,¦ an ancient king, the son or great-grandson of
-<div n="lb">Manu Vaivasvata. § 3 (Anukram.): I, {@1<lang n="greek"></lang>,@} 47 ({%Yayātī°-%}
-<div n="lb">{%vaṃśaḥ,%} descended from Daśajyotis, etc.). § 5 (do.): I, {@1<lang n="greek"></lang>,@}
-<div n="lb">220 (in Nārada's enumeration of departed kings).—§ 139
-<div n="lb">(Manu Vaivasvata): I, {@75,@} 3140 (the fifth son of Manu
-<div n="lb">Vaivasvata).—§ 161 (Mahābhiṣa): I, {@96,@} 3843 {%(°vaṃśapra-%}
-<div n="lb">{%bhavaḥ…Mahābhiṣaḥ).%}—§ 224 (Kalmāṣapāda): I, {@176,@}
-<div n="lb">6696 ({%°vaṃśajaḥ,%} sc. {%Kalmāṣapādaḥ%}).—§ 225 (Vāsiṣṭha):
-<div n="lb">I, {@177,@} 6778 {%(°kulavṛddhaye).%}—§ 273 (Rājasūyārambhap.):
-<div n="lb">II, {@14,@} 568 ({%°vamśasya%}—i.e. the Solar race—opp. to {%Ailasya,%}
-<div n="lb">i.e. the Lunar race).—§ 348 (Nalopākhyānap.): III, {@66,@}
-<div n="lb">2629 ({%°kulajaḥ,%} sc. Ṛtuparṇa).—§ 376 (Tīrthayātrāp.): III,
-<div n="lb">{@85,@} 8270 {%(yathā).%}—§ 378 (do.): III, {@94,@} 8506 {%(yathā).%}—
-<div n="lb">§ 407 (Māndhātrup.): III, {@126,@} 10427 {%(°vaṃśaprabhavo%}
-<div n="lb">{%Yuvanāśvaḥ).%}—§ 461 (Vāmadevacarita): III, {@192,@} ††13145
-<div n="lb">{%(Ayodhyāyām I°kulodvahaḥ pārthivaḥ Parikṣin nāma).%}—§ 475
-<div n="lb">(Dhundhumārop.): III, {@202,@} 13515 (succeeded by Śaśāda
-<div n="lb">in the kingdom of Ayodhyā).—§ 525 (Rāmopākhyānap.):
-<div n="lb">III, {@274,@} 15877 {%(Ajaḥ…I°vaṃśajaḥ).%}—§ 574 (Jambūkh.):
-<div n="lb">VI, {@9<lang n="greek"></lang>,@} 314.—§ 576 (Bhagavadgītāp.): VI, {@28,@} 994 ({%imaṃ%}
-<div n="lb">{%Vivasvate yogaṃ proktavān ahaṃ avyayaṃ | Vivasvān Manave,%}
-<div n="lb">{%prāha Manur Ikṣvākave 'bravīt,%} sc. the contents of Bhagavad-
-<div n="lb">gītā, cf. XII, 13598).—§ 656 (Khaḍgotpattik.): XII, {@166<lang n="greek"></lang>,@}
-<div n="lb">6193 (obtained the sword from Kṣupa, from {%I.%} it passed over
-<div n="lb">to Purūravas), 6198 {%(°vaṃśajaḥ…Hariṇāśvaḥ).%}—§ 662
-<div n="lb">(Mokṣadh.): XII, {@199,@} 7198 {%(Kāla-Mṛtyu-Yamānān te I°or%}
-<div n="lb">{%brāhmaṇasya ca | vivādaḥ),%} 7199.—§ 662{%b%} (Jāpakop.): XII,
-<div n="lb">{@199,@} 7233 (the tale of {%I.%} and the brahman who was
-<div n="lb">a jāpaka).—§ 717{%b%} (Nārāyaṇīya): XII, {@349,@} VII), 13598
-<div n="lb">(learnt the [Sātvata, cf. v. 13575 (only B.) and 13580]
-<div n="lb">religion {%(dharma)%} from Manu, cf. VI, 994).—§ 720{%b%} (Sudar-
-<div n="lb">śanop.): XIII, {@2,@} 88 (the son of Manu and the father
-<div n="lb">of 100 sons, among whom Daśāśva was the tenth).—
-<div n="lb">§ 746 (Ānuśāsanik.): XIII, {@78,@} 3732 ({%°vaṃśajo rājā%}
-<div n="lb">{%Saudāsaḥ,%} i.e. Kalmāṣapāda).—§ 761 (do.): XIII, {@115<lang n="greek"></lang>,@}
-<div n="lb">5668 (among the kings who did not eat meat during
-<div n="lb">the month of Kārttika).—§ 775 (do.): XIII, {@166<lang n="greek"></lang>,@} 7684
-<div n="lb">(enumeration).—§ 778{%b%} (Saṃvartta-Maruttīya): XIV, {@4,@} 66
-<div n="lb">(son of Kṣupa and grandson of Prasandhi, the son of
-<div n="lb">Manu), 67 (father of 100 sons, among whom Viṃśa was the
-<div n="lb">eldest).
+Manu Vaivasvata. § 3 (Anukram.): I, {@1@}<lang n="greek">γ</lang>, 47 ({%Yayātī°-%}
+{%vaṃśaḥ%}, descended from Daśajyotis, etc.). § 5 (do.): I, {@1@}<lang n="greek">α</lang>,
+220 (in Nārada's enumeration of departed kings).—§ 139
+(Manu Vaivasvata): I, {@75@}, 3140 (the fifth son of Manu
+Vaivasvata).—§ 161 (Mahābhiṣa): I, {@96@}, 3843 ({%°vaṃśapra-%}
+{%bhavaḥ…Mahābhiṣaḥ%}).—§ 224 (Kalmāṣapāda): I, {@176@},
+6696 ({%°vaṃśajaḥ%}, sc. {%Kalmāṣapādaḥ%}).—§ 225 (Vāsiṣṭha):
+I, {@177@}, 6778 ({%°kulavṛddhaye%}).—§ 273 (Rājasūyārambhap.):
+II, {@14@}, 568 ({%°vamśasya%}—i.e. the Solar race—opp. to {%Ailasya%},
+i.e. the Lunar race).—§ 348 (Nalopākhyānap.): III, {@66@},
+2629 ({%°kulajaḥ%}, sc. Ṛtuparṇa).—§ 376 (Tīrthayātrāp.): III,
+{@85@}, 8270 ({%yathā%}).—§ 378 (do.): III, {@94@}, 8506 ({%yathā%}).—
+§ 407 (Māndhātrup.): III, {@126@}, 10427 ({%°vaṃśaprabhavo%}
+{%Yuvanāśvaḥ%}).—§ 461 (Vāmadevacarita): III, {@192@}, ††13145
+({%Ayodhyāyām I°kulodvahaḥ pārthivaḥ Parikṣin nāma%}).—§ 475
+(Dhundhumārop.): III, {@202@}, 13515 (succeeded by Śaśāda
+in the kingdom of Ayodhyā).—§ 525 (Rāmopākhyānap.):
+III, {@274@}, 15877 ({%Ajaḥ…I°vaṃśajaḥ%}).—§ 574 (Jambūkh.):
+VI, {@9@}<lang n="greek">αα</lang>, 314.—§ 576 (Bhagavadgītāp.): VI, {@28@}, 994 ({%imaṃ%}
+{%Vivasvate yogaṃ proktavān ahaṃ avyayaṃ | Vivasvān Manave%},
+{%prāha Manur Ikṣvākave 'bravīt%}, sc. the contents of Bhagavad-
+gītā, cf. XII, 13598).—§ 656 (Khaḍgotpattik.): XII, {@166@}<lang n="greek">δ</lang>,
+6193 (obtained the sword from Kṣupa, from {%I%}. it passed over
+to Purūravas), 6198 ({%°vaṃśajaḥ…Hariṇāśvaḥ%}).—§ 662
+(Mokṣadh.): XII, {@199@}, 7198 ({%Kāla-Mṛtyu-Yamānān te I°or%}
+{%brāhmaṇasya ca | vivādaḥ%}), 7199.—§ 662{%b%} (Jāpakop.): XII,
+{@199@}, 7233 (the tale of {%I%}. and the brahman who was
+a jāpaka).—§ 717{%b%} (Nārāyaṇīya): XII, {@349@}, VII), 13598
+(learnt the [Sātvata, cf. v. 13575 (only B.) and 13580]
+religion ({%dharma%}) from Manu, cf. VI, 994).—§ 720{%b%} (Sudar-
+śanop.): XIII, {@2@}, 88 (the son of Manu and the father
+of 100 sons, among whom Daśāśva was the tenth).—
+§ 746 (Ānuśāsanik.): XIII, {@78@}, 3732 ({%°vaṃśajo rājā%}
+{%Saudāsaḥ%}, i.e. Kalmāṣapāda).—§ 761 (do.): XIII, {@115@}<lang n="greek">δ</lang>,
+5668 (among the kings who did not eat meat during
+the month of Kārttika).—§ 775 (do.): XIII, {@166@}<lang n="greek">γ</lang>, 7684
+(enumeration).—§ 778{%b%} (Saṃvartta-Maruttīya): XIV, {@4@}, 66
+(son of Kṣupa and grandson of Prasandhi, the son of
+Manu), 67 (father of 100 sons, among whom Viṃśa was the
+eldest).
 <LEND>

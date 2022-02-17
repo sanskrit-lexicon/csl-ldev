@@ -1,6 +1,6 @@
 <L>116379<pc>7-1560<k1>हर्म्य<k2>हर्म्य/
 {#हर्म्य/#}¦ <lex>n.</lex> {%ein festes Gebäude: Burg, Schloss, Herrenhaus; Wohnhaus, Vorrathshaus%} 
-<ls>NAIGH. 3, 4</ls> (=  {#गृह#}). 
+<ls>NAIGH. 3, 4</ls> (= {#गृह#}). 
 <ls>AK. 2, 2, 9. 3, 4, 24, 160.</ls> 
 <ls>H. 993.</ls> 
 <ls>HALĀY. 2, 138.</ls> {#तेषा\ं सं ह^न्मो अ\क्षाणि\ यथे\दं ह\र्म्यं तथा^#} 
@@ -10,16 +10,16 @@
 <ls n="ṚV. 1,">166, 4.</ls> {#ह\र्म्यस्य^ स\क्षणि^ः#} 
 <ls n="ṚV.">9, 71, 4.</ls> <ls n="ṚV. 9,">78, 3.</ls> <ls n="ṚV.">10, 46, 3.</ls> <ls n="ṚV. 10,">73, 10.</ls> {#य\दा य\मो भव^ति ह\र्म्ये हि\तः#} 
 <ls n="ṚV. 10,">114, 10.</ls> {#यथा^ य\माय^ ह\र्म्यमव^प\न्पञ्च^ मान\वाः#} {%eine Burg bauten%} 
-<ls>AV. 18, 4, 55</ls> <ls>?(vgl. TAITT. ĀR. 6, 6, 2).</ls> {#इ\दं तस्मै^ ह\र्म्यं क^रोमि#} 
+<ls>AV. 18, 4, 55</ls> (vgl. <ls>TAITT. ĀR. 6, 6, 2).</ls> {#इ\दं तस्मै^ ह\र्म्यं क^रोमि#} 
 <ls>TBR. 3, 7, 6, 3.</ls> 
 <ls>NIR. 6, 32.</ls> 
-<ls>MBH. 1, 8075. 15, 441.</ls> 
-<ls>HARIV. 8710. 9038.</ls> {#°प्रासादसंकुला#} 
+<ls>MBH. 1, 8075.</ls> <ls n="MBH.">15, 441.</ls> 
+<ls>HARIV. 8710.</ls> <ls n="HARIV.">9038.</ls> {#°प्रासादसंकुला#} 
 <ls>R. 1, 5, 9. 2, 33, 3. 59, 15. 91, 32.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 27, 10. 3, 42, 48.</ls> 
+
+<ls>R. GORR. 2, 27, 10. 3, 42, 48.</ls> 
 <ls>MṚCCH. 47, 3.</ls> 
-<ls>KĀM. NĪTIS. 15, 12.</ls> <ls>MEGH. 33.</ls> <ls>ṚT. 1, 9.</ls> <ls>VIKR. 56.</ls> <ls>Spr. (II) 928. 1478, v. l. 1575. 2589, v. l. 3700. 5509.</ls> <ls>VARĀH. BṚH. S. 45, 4. 86, 17.</ls> <ls>KATHĀS. 20, 135. fg.</ls> <ls>BHĀG. P. 9, 11, 30.</ls> <ls>HIT. 39, 20.</ls> <ls>BHAṬṬ. 8, 36.</ls> {#स्फटिक°#} 
+<ls>KĀM. NĪTIS. 15, 12.</ls> <ls>MEGH. 33.</ls> <ls>ṚT. 1, 9.</ls> <ls>VIKR. 56.</ls> <ls>Spr. (II) 928.</ls> <ls n="Spr. (II)">1478, v. l.</ls> <ls n="Spr. (II)">1575.</ls> <ls n="Spr. (II)">2589, v. l.</ls> <ls n="Spr. (II)">3700.</ls> <ls n="Spr. (II)">5509.</ls> <ls>VARĀH. BṚH. S. 45, 4. 86, 17.</ls> <ls>KATHĀS. 20, 135. fg.</ls> <ls>BHĀG. P. 9, 11, 30.</ls> <ls>HIT. 39, 20.</ls> <ls>BHAṬṬ. 8, 36.</ls> {#स्फटिक°#} 
 <ls>KUMĀRAS. 6, 42.</ls> {#°तल#} 
 <ls>SUŚR. 1, 170, 8.</ls> 
 <ls>ṚT. 1, 3.</ls> 

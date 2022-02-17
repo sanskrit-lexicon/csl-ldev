@@ -1,19 +1,19 @@
 <L>13056<pc>202-1<k1>भरत<k2>भरत
 {#भरत#}¦bhar-atá, {%m.%} [to be maintained], {%N. %}
-<>{%of a certain Agni who is kept alive by the %}
-<>{%care of men%} ({%V.%}); {%a certain Agni with a son %}
-<>{%of the same name%} ({%E.%}); actor; {%N. of various %}
-<>{%princes and men%}; {%N. of a tribe%}, the descendants <lbinfo n="7"/>
-<> of Bharata ({%pl.%}); {%N. of a manual of the %}
-<>{%histrionic art composed by a certain%} Bharata: 
-<>{@-ṛṣabha@}, {%m. ep. of%} Viśvāmitra; {@-khaṇḍa@}, 
-<>{%n. N. of a%} division of Bhārata-varṣa; {@-putra,@} 
-<>{%m.%} son of Bharata, actor; {@-pura,@} {%n. N. of a%} 
-<>city; {@-roha,@} {%m. N.%}: {@-ka,@} {%m. id.%}; {@-ṛṣabha@}, 
-<>{%m.%} noblest among the Bharatas, {%ep. of various %}
-<>{%men%}; {@-śārdūla@}, {%m.%} tiger among --, {@-śreṣṭha@} 
-<>{@-sattama,@} {%spv.%} best of the Bharatas, {%id.%}; 
-<>{@-sena,@} {%m. N. of a commentator on the Meghadūta, %}<lbinfo n="2"/>
-<>{% Raghuvaṃśa%}, Ś{%isupālavadha, and %}
-<>{%Bhaṭṭikāvya%}.
+{%of a certain Agni who is kept alive by the %}
+{%care of men%} ({%V.%}); {%a certain Agni with a son %}
+{%of the same name%} ({%E.%}); actor; {%N. of various %}
+{%princes and men%}; {%N. of a tribe%}, the descendants <lbinfo n="7"/>
+ of Bharata ({%pl.%}); {%N. of a manual of the %}
+{%histrionic art composed by a certain%} Bharata: 
+{@-ṛṣabha@}, {%m. ep. of%} Viśvāmitra; {@-khaṇḍa@}, 
+{%n. N. of a%} division of Bhārata-varṣa; {@-putra,@} 
+{%m.%} son of Bharata, actor; {@-pura,@} {%n. N. of a%} 
+city; {@-roha,@} {%m. N.%}: {@-ka,@} {%m. id.%}; {@-ṛṣabha@}, 
+{%m.%} noblest among the Bharatas, {%ep. of various %}
+{%men%}; {@-śārdūla@}, {%m.%} tiger among --, {@-śreṣṭha@} 
+{@-sattama,@} {%spv.%} best of the Bharatas, {%id.%}; 
+{@-sena,@} {%m. N. of a commentator on the Meghadūta, %}<lbinfo n="2"/>
+{% Raghuvaṃśa%}, Ś{%isupālavadha, and %}
+{%Bhaṭṭikāvya%}.
 <LEND>

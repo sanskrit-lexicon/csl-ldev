@@ -1,28 +1,28 @@
 <L>40586<pc>0869-c<k1>लुप्<k2>लुप्<h>1
 {#लुप्#} 1¦. {%lup%} (a later form of rt. 1. {%rup%}),
-<div n="lb"/>cl. 6. P. A. {%lumpati, -te, lulopa, lulupe,%}
-<div n="lb"/>{%lopsyati, -te, alupat, alupta, loptum,%} to break,
-<div n="lb"/>fracture, violate, break in pieces, cut, cut off, mutilate,
-<div n="lb"/>destroy, injure, spoil; to seize, pounce upon; to rob,
-<div n="lb"/>plunder, take away, deprive of; to suppress, elide, erase,
-<div n="lb"/>cause to disappear; cl. 4. P. {%lupyati, lulopa, lopiṣ-%}
-<div n="lb"/>{%yati, lopitum,%} to be suppressed or destroyed [cf. {%lup-%}
-<div n="lb"/>{%yate%} below]; to disturb, bewilder, perplex, confound
-<div n="lb"/>[cf. rt. {%lubh,%} with which {%lup%} appears to be connected;
-<div n="lb"/>see {%lolupa%}]: Pass. {%lupyate,%} Aor. {%alopi,%} to be
-<div n="lb"/>broken or violated; to be suppressed or lost, be
-<div n="lb"/>elided, suffer elision, disappear (in grammar): Caus.
-<div n="lb"/>{%lopayati, -yitum,%} Aor. {%alūlupat%} or {%alulopat,%} to
-<div n="lb"/>cause to break or violate; to break, infringe, violate,
-<div n="lb"/>offend against, thwart, injure; to omit, neglect, miss;
-<div n="lb"/>to cause to swerve from (with abl.): Desid. {%lulup-%}
-<div n="lb"/>{%sati, -te, lulopiṣati,%} &c.: Intens. {%lolupyate, lo-%}
-<div n="lb"/>{%lopti,%} to confound, disturb, bewilder, perplex; [cf.
-<div n="lb"/>Gr. <lang n="greek">λυπ-ρό-ς, λυπ-ή, λυπ-έ-ω, λυπη-ρό-ς,</lang> perhaps
-<div n="lb"/>also <lang n="greek">Ὄλυμπος:</lang> Lat. <nsi>rump-o:</nsi> Old Germ. <nsi>raubon:</nsi>
-<div n="lb"/>(probably) Goth. <nsi>raupjan,</nsi> ‘to pull out:’ Angl. Sax.
-<div n="lb"/><nsi>reaf, reafian:</nsi> Old Norse <nsi>rŷf:</nsi> Lith. <nsi>rup-e-ti,</nsi>
-<div n="lb"/><nsi>rup-u-s:</nsi> Slav. <nsi>lom-i-ti:</nsi> Hib. <nsi>reubaim,</nsi> ‘I tear,
-<div n="lb"/>lacerate;’ <nsi>reuban,</nsi> ‘plundering, robbery;’ <nsi>lomaim,</nsi>
-<div n="lb"/>‘I sheer, shave, make bare.’]
+cl. 6. P. A. {%lumpati, -te, lulopa, lulupe,%}
+{%lopsyati, -te, alupat, alupta, loptum,%} to break,
+fracture, violate, break in pieces, cut, cut off, mutilate,
+destroy, injure, spoil; to seize, pounce upon; to rob,
+plunder, take away, deprive of; to suppress, elide, erase,
+cause to disappear; cl. 4. P. {%lupyati, lulopa, lopiṣ-%}
+{%yati, lopitum,%} to be suppressed or destroyed [cf. {%lup-%}
+{%yate%} below]; to disturb, bewilder, perplex, confound
+[cf. rt. {%lubh,%} with which {%lup%} appears to be connected;
+see {%lolupa%}]: Pass. {%lupyate,%} Aor. {%alopi,%} to be
+broken or violated; to be suppressed or lost, be
+elided, suffer elision, disappear (in grammar): Caus.
+{%lopayati, -yitum,%} Aor. {%alūlupat%} or {%alulopat,%} to
+cause to break or violate; to break, infringe, violate,
+offend against, thwart, injure; to omit, neglect, miss;
+to cause to swerve from (with abl.): Desid. {%lulup-%}
+{%sati, -te, lulopiṣati,%} &c.: Intens. {%lolupyate, lo-%}
+{%lopti,%} to confound, disturb, bewilder, perplex; [cf.
+Gr. <lang n="greek">λυπ-ρό-ς, λυπ-ή, λυπ-έ-ω, λυπη-ρό-ς,</lang> perhaps
+also <lang n="greek">Ὄλυμπος:</lang> Lat. <nsi>rump-o:</nsi> Old Germ. <nsi>raubon:</nsi>
+(probably) Goth. <nsi>raupjan,</nsi> ‘to pull out:’ Angl. Sax.
+<nsi>reaf, reafian:</nsi> Old Norse <nsi>rŷf:</nsi> Lith. <nsi>rup-e-ti,</nsi>
+<nsi>rup-u-s:</nsi> Slav. <nsi>lom-i-ti:</nsi> Hib. <nsi>reubaim,</nsi> ‘I tear,
+lacerate;’ <nsi>reuban,</nsi> ‘plundering, robbery;’ <nsi>lomaim,</nsi>
+‘I sheer, shave, make bare.’]
 <LEND>

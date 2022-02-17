@@ -1,6 +1,6 @@
 <L>10026<pc>316<k1>go away<k2>go away
-<div n="lb"/>{@GO AWAY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अपैति#} ({#इ#}); </div><div n="1">(2) {#अप-#}
-<div n="lb"/>{#सरति;#} </div><div n="1">(3) {#अप-क्रामति;#} </div><div n="1">(4) {#अप-गच्छति;#} </div><div n="1">(5) {#अप-#}
-<div n="lb"/>{#याति;#} </div><div n="1">(6) {#अप-सर्पति।#} </div><div n="I">II To vanish </div><div n="1">(1) {#गच्छति;#}</div>
-<div n="lb"/><div n="1">(2) {#याति।#}</div>
+{@GO AWAY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अपैति#} ({#इ#}); </div><div n="1">(2) {#अप-#}
+{#सरति;#} </div><div n="1">(3) {#अप-क्रामति;#} </div><div n="1">(4) {#अप-गच्छति;#} </div><div n="1">(5) {#अप-#}
+{#याति;#} </div><div n="1">(6) {#अप-सर्पति।#} </div><div n="I">II To vanish </div><div n="1">(1) {#गच्छति;#}</div>
+<div n="1">(2) {#याति।#}</div>
 <LEND>

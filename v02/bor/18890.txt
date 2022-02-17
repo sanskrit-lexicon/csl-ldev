@@ -1,13 +1,13 @@
 <L>18890<pc>583<k1>rein<k2>rein
-<div n="lb"/>{@REIN@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#अभीषुः#} ({#शुः#}), <div n="xe">{%hold,%}
-<div n="lb"/>{%slacken the r. s:%}</div> <div n="xs">{#प्रगृह्यन्तां, मुच्यन्ताम् अभीषवः,#}</div> Sa.;</div>
-<div n="lb"/><div n="1">(2) {#प्रग्र#} ({#ग्रा#}) {#हः,#} <div n="xe">{%I am holding the r. s:%}</div> <div n="xs">{#धृताः, प्रग्रहाः,#}</div>
-<div n="lb"/>Sa.; </div><div n="1">(3) {#रश्मिः#} {%from tightening of r. s:%}
-<div n="lb"/>{#रश्मिसंयमनात्,#} Sa.; </div><div n="1">(4) {#वल्गा,#} <div n="xe">{%adept in the use of%}
-<div n="lb"/>{%r. s:%}</div> <div n="xs">{#वल्गाविभागकुशलः,#}</div> Si. v. 60.; “{#उत्क्षिप्ता #}
-<div n="lb"/>{# शिथिला तथोत्तरवती मन्दा च वैहायसी विक्षिप्तैककरार्द्ध-#}
-<div n="lb"/>{#कन्धरसमोत्कीर्णा विभक्ता तथा । अत्युत्क्षिप्ततलोद्ध्टते खलु #}
-<div n="lb"/>{# तथा व्यागूढगोकर्णिके वाहानाङ्कथिताश्चतुर्दशविधा वल्गा-#}
-<div n="lb"/>{#प्रभेदा अमी ॥”,#} M. n. </div><div n="I">II Fig. expr. by
-<div n="lb"/>circumlo.: v. Government, power.</div>
+{@REIN@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#अभीषुः#} ({#शुः#}), <div n="xe">{%hold,%}
+{%slacken the r. s:%}</div> <div n="xs">{#प्रगृह्यन्तां, मुच्यन्ताम् अभीषवः,#}</div> Sa.;</div>
+<div n="1">(2) {#प्रग्र#} ({#ग्रा#}) {#हः,#} <div n="xe">{%I am holding the r. s:%}</div> <div n="xs">{#धृताः, प्रग्रहाः,#}</div>
+Sa.; </div><div n="1">(3) {#रश्मिः#} {%from tightening of r. s:%}
+{#रश्मिसंयमनात्,#} Sa.; </div><div n="1">(4) {#वल्गा,#} <div n="xe">{%adept in the use of%}
+{%r. s:%}</div> <div n="xs">{#वल्गाविभागकुशलः,#}</div> Si. v. 60.; “{#उत्क्षिप्ता #}
+{# शिथिला तथोत्तरवती मन्दा च वैहायसी विक्षिप्तैककरार्द्ध-#}
+{#कन्धरसमोत्कीर्णा विभक्ता तथा । अत्युत्क्षिप्ततलोद्ध्टते खलु #}
+{# तथा व्यागूढगोकर्णिके वाहानाङ्कथिताश्चतुर्दशविधा वल्गा-#}
+{#प्रभेदा अमी ॥”,#} M. n. </div><div n="I">II Fig. expr. by
+circumlo.: v. Government, power.</div>
 <LEND>

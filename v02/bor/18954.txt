@@ -1,8 +1,8 @@
 <L>18954<pc>586<k1>remedy<k2>remedy
-<div n="lb"/>{@REMEDY@}¦ (v.): <div n="1">(1) {#प्रतिकरोति#} ({#कृ,#} c. 8.), <div n="xe">{%to r.%}
-<div n="lb"/>{%diseases:%}</div> <div n="xs">{#प्रतीकाराय रोगाणाम्,#}</div> Bha.; </div><div n="1">(2) {#शमयति, #}
-<div n="lb"/>{# उप-, प्र-,#} (c. of {#शम्#} = to quiet), <div n="xe">{%the rage for%}
-<div n="lb"/>{%relishing poisonous pleasure cannot be r. d:%}</div> <div n="xs">{#अशाम्यो #}
-<div n="lb"/>{# विषयविषास्वादमोहः,#}</div> <ls>K.</ls> : v. Also to cure, cor-
-<div n="lb"/>-rect.</div>
+{@REMEDY@}¦ (v.): <div n="1">(1) {#प्रतिकरोति#} ({#कृ,#} c. 8.), <div n="xe">{%to r.%}
+{%diseases:%}</div> <div n="xs">{#प्रतीकाराय रोगाणाम्,#}</div> Bha.; </div><div n="1">(2) {#शमयति, #}
+{# उप-, प्र-,#} (c. of {#शम्#} = to quiet), <div n="xe">{%the rage for%}
+{%relishing poisonous pleasure cannot be r. d:%}</div> <div n="xs">{#अशाम्यो #}
+{# विषयविषास्वादमोहः,#}</div> <ls>K.</ls> : v. Also to cure, cor-
+-rect.</div>
 <LEND>

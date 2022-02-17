@@ -1,4 +1,4 @@
 <L>14132<pc>434<k1>mankind<k2>mankind
-<div n="lb"/>{@MANKIND:@}¦ <div n="1">(1) by pl. {#मनुष्याः#} etc.: v. Man.;</div>
-<div n="lb"/><div n="1">(2) {#मानवजातिः,#} etc.</div>
+{@MANKIND:@}¦ <div n="1">(1) by pl. {#मनुष्याः#} etc.: v. Man.;</div>
+<div n="1">(2) {#मानवजातिः,#} etc.</div>
 <LEND>

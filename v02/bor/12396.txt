@@ -1,8 +1,8 @@
 <L>12396<pc>385<k1>instantly<k2>instantly
-<div n="lb"/>{@INSTANTLY:@}¦ <div n="I">I Immediately: </div><div n="1">(1) {#भटिति,#} Vi.
-<div n="lb"/>i. 43.; </div><div n="1">(2) {#सपदि,#} Ki. xiii. 25; </div><div n="1">(3) {#तत्क्षणम्, #}
-<div n="lb"/>{# -णात्,#} P. i. 5.; </div><div n="1">(4) {#द्राक्,#} Vi. i. 34.; </div><div n="1">(5) {#अधुनैव#}
-<div n="lb"/>(= just now), Vi. iii. 34; </div><div n="1">(6) {#अञ्जसा#}
-<div n="lb"/>(= quickly). </div><div n="I">II Urgently: </div><div n="1">(1) {#आग्रहपूर्वकम्;#}</div>
-<div n="lb"/><div n="1">(2) {#निर्बन्धेन।#}</div>
+{@INSTANTLY:@}¦ <div n="I">I Immediately: </div><div n="1">(1) {#भटिति,#} Vi.
+i. 43.; </div><div n="1">(2) {#सपदि,#} Ki. xiii. 25; </div><div n="1">(3) {#तत्क्षणम्, #}
+{# -णात्,#} P. i. 5.; </div><div n="1">(4) {#द्राक्,#} Vi. i. 34.; </div><div n="1">(5) {#अधुनैव#}
+(= just now), Vi. iii. 34; </div><div n="1">(6) {#अञ्जसा#}
+(= quickly). </div><div n="I">II Urgently: </div><div n="1">(1) {#आग्रहपूर्वकम्;#}</div>
+<div n="1">(2) {#निर्बन्धेन।#}</div>
 <LEND>

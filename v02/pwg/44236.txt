@@ -14,7 +14,7 @@
 <ls>HARIV. 3715.</ls> {#गिरिशृङ्गेभ्यः#} 
 <ls>BHĀG. P. 3, 30, 28.</ls> {#सौभस्य#} 
 <ls>MBH. 3, 835.</ls> {#वज्र°#} 
-<ls>MBH. 1, 1219. 7201.</ls> {#पातनं भास्करस्येव न मृष्ये द्रोणपातनम्#} 
+<ls>MBH. 1, 1219.</ls> <ls n="MBH. 1,">7201.</ls> {#पातनं भास्करस्येव न मृष्ये द्रोणपातनम्#} 
 <ls>7, 273. 6, 5356. 10, 592. 13, 4788.</ls> {#अक्ष°#} {%das Werfen der Würfel%} 
 <ls>P. 8, 2, 49,</ls> 
 <ls>Sch.</ls> {#दण्डस्य#} {%das Fallenlassen des Stockes%} so v. a. {%Strafen%} 
@@ -23,6 +23,6 @@
 <ls>YĀJÑ. 2, 277. 3, 298.</ls> 
 <ls>HARIV. 4575.</ls> {#अत ऊर्ध्वमदृश्येष्वर्शस्सु योगान्पातनार्थं वक्ष्यामः#} {%Vertreiben, Wegschaffen%} 
 <ls>SUŚR. 2, 49, 17.</ls> {%das Auseinanderfallenmachen, Trennen%}, zur Erklärung von {#पति#} und {#पत्नी#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 139.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 139.</ls> 
 <div n="v">— Vgl. {#गर्भ°, छन्दक°, दण्ड°, दूर°, सूत्र°#} .
 <LEND>

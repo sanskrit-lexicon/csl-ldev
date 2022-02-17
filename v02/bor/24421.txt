@@ -1,19 +1,19 @@
 <L>24421<pc>765<k1>without<k2>without
-<div n="lb"/>{@WITHOUT@}¦ (prep.): <div n="I">I Before nouns: </div><div n="1">(1) {#विना#}
-<div n="lb"/>(with ins. or acc., rarely with abl.), <div n="xe">{%I can-%}
-<div n="lb"/>{%not remain a moment w. you:%}</div> <div n="xs">{#न शक्नोमि मवता #}
-<div n="lb"/>{# विना क्षणमष्यवस्थातुम्,#}</div> K.; </div><div n="1">(2) by negatives, <div n="xe">{%w.%}
-<div n="lb"/>{%eyes He sees, w. ears He hears:%}</div> <div n="xs">{#पश्यत्यचक्षुः स #}
-<div n="lb"/>{# शृणोत्यकर्णः,#}</div> S.: v. Devoid of; </div><div n="1">(3) {#अन्तरेण#}
-<div n="lb"/>(with acc.: rarely), <div n="xe">{%there is no pleasure w.%}
-<div n="lb"/>{%God:%}</div> <div n="xs">{#अन्तरेण हरिं न सुखम्,#}</div> S. k.; </div><div n="1">(4) {#ऋते#} (with acc.
-<div n="lb"/>and abl.), <div n="xe">{%w. a general:%}</div> <div n="xs">{#ऋते सेनाप्रणेतारम्,#}</div> Mah.
-<div n="lb"/>v. 150-2. </div><div n="1">(5) by part.s, {#वर्जयित्वा#} (= leav-
-<div n="lb"/>-ing off) etc.; {#“न भूरिदानं विरहय्य सत्क्रियाम्”,#}
-<div n="lb"/>Ki. i. 12.; {#“न हीन्द्रियाण्यनुपादाय प्रत्यक्षादिव्यवहारः #}
-<div n="lb"/>{# सम्भवति”,#} S. </div><div n="I">II Before part.s: {#अ#} ({#अन्,#}
-<div n="lb"/>before vowels), {%w. reducing dust to mud:%}
-<div n="lb"/>{#अनीत्वा पङ्कतां धूलिम्,#} Si. ii. 34.; {%w. being seen:%}
-<div n="lb"/>{#अलक्षितः#} ({#ता, तं#}), etc. </div><div n="I">III Outside of:
-<div n="lb"/>q. v.: {#बहिः#} (with abl.).</div>
+{@WITHOUT@}¦ (prep.): <div n="I">I Before nouns: </div><div n="1">(1) {#विना#}
+(with ins. or acc., rarely with abl.), <div n="xe">{%I can-%}
+{%not remain a moment w. you:%}</div> <div n="xs">{#न शक्नोमि मवता #}
+{# विना क्षणमष्यवस्थातुम्,#}</div> K.; </div><div n="1">(2) by negatives, <div n="xe">{%w.%}
+{%eyes He sees, w. ears He hears:%}</div> <div n="xs">{#पश्यत्यचक्षुः स #}
+{# शृणोत्यकर्णः,#}</div> S.: v. Devoid of; </div><div n="1">(3) {#अन्तरेण#}
+(with acc.: rarely), <div n="xe">{%there is no pleasure w.%}
+{%God:%}</div> <div n="xs">{#अन्तरेण हरिं न सुखम्,#}</div> S. k.; </div><div n="1">(4) {#ऋते#} (with acc.
+and abl.), <div n="xe">{%w. a general:%}</div> <div n="xs">{#ऋते सेनाप्रणेतारम्,#}</div> Mah.
+v. 150-2. </div><div n="1">(5) by part.s, {#वर्जयित्वा#} (= leav-
+-ing off) etc.; {#“न भूरिदानं विरहय्य सत्क्रियाम्”,#}
+Ki. i. 12.; {#“न हीन्द्रियाण्यनुपादाय प्रत्यक्षादिव्यवहारः #}
+{# सम्भवति”,#} S. </div><div n="I">II Before part.s: {#अ#} ({#अन्,#}
+before vowels), {%w. reducing dust to mud:%}
+{#अनीत्वा पङ्कतां धूलिम्,#} Si. ii. 34.; {%w. being seen:%}
+{#अलक्षितः#} ({#ता, तं#}), etc. </div><div n="I">III Outside of:
+q. v.: {#बहिः#} (with abl.).</div>
 <LEND>

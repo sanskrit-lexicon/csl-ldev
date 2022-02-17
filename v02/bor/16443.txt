@@ -1,5 +1,5 @@
 <L>16443<pc>504<k1>paroxysm<k2>paroxysm
-<div n="lb"/>{@PAROXYSM:@}¦ <div n="I">I Lit.: {#वेगः,#} {%when the p. is over:%}
-<div n="lb"/>{#गतवेगेषु दोषेष,#} Bha. </div><div n="I">II Fig.: {#आवेशः,#} <div n="xe">{%in a p.%}
-<div n="lb"/>{%of rage:%}</div> <div n="xs">{#क्रोधावेशात्।#}</div></div>
+{@PAROXYSM:@}¦ <div n="I">I Lit.: {#वेगः,#} {%when the p. is over:%}
+{#गतवेगेषु दोषेष,#} Bha. </div><div n="I">II Fig.: {#आवेशः,#} <div n="xe">{%in a p.%}
+{%of rage:%}</div> <div n="xs">{#क्रोधावेशात्।#}</div></div>
 <LEND>

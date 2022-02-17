@@ -1,12 +1,12 @@
 <L>26369<pc>0514-b<k1>नुद्<k2>नुद्<h>1
 {#नुद्#} 1¦. {%nud,%} cl. 6. P. A. {%nudati, -te, nunoda,%}
-<div n="lb"/>{%nunude, notsyati, -te, anautsīt, anutta,%}
-<div n="lb"/>{%nottum,%} to push, push on, impel, incite, propel, urge
-<div n="lb"/>on, push away, drive away, repel, banish; to move,
-<div n="lb"/>remove; to throw, shoot, cast, send; to raise, lift up
-<div n="lb"/>(Ved.): Caus. {%nodayati, -yitum,%} to push on, incite,
-<div n="lb"/>excite: Intens. {%nonudyate, nonotti,%} to push or impel
-<div n="lb"/>or drive away repeatedly; [cf. Angl. Sax. <nsi>nyd-ian,</nsi>
-<div n="lb"/>‘to compel;’ <nsi>a-nydan,</nsi> ‘to repel;’ <nsi>niot-an:</nsi> Goth.
-<div n="lb"/><nsi>niut-an:</nsi> perhaps Gr. <lang n="greek">νύσσα.</lang>]
+{%nunude, notsyati, -te, anautsīt, anutta,%}
+{%nottum,%} to push, push on, impel, incite, propel, urge
+on, push away, drive away, repel, banish; to move,
+remove; to throw, shoot, cast, send; to raise, lift up
+(Ved.): Caus. {%nodayati, -yitum,%} to push on, incite,
+excite: Intens. {%nonudyate, nonotti,%} to push or impel
+or drive away repeatedly; [cf. Angl. Sax. <nsi>nyd-ian,</nsi>
+‘to compel;’ <nsi>a-nydan,</nsi> ‘to repel;’ <nsi>niot-an:</nsi> Goth.
+<nsi>niut-an:</nsi> perhaps Gr. <lang n="greek">νύσσα.</lang>]
 <LEND>

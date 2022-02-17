@@ -47,10 +47,10 @@
 <ls>UJJVAL.</ls> <ls>TRIK. 2, 10, 1.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#दासी/#} <lex>f.</lex> {%Sclavin, Magd%} 
 <ls>H. 534.</ls> 
 <ls>an. 2, 582.</ls> 
-<ls>MED. s. 3.</ls> <ls>AV. 5, 22, 6. 12, 3, 13. 4, 9.</ls> <ls>ŚAT. BR. 14, 9, 1, 10.</ls> <ls>KĀTY. ŚR. 13, 3, 19.</ls> <ls>LĀṬY. 4, 3, 18. 8, 11, 16.</ls> <ls>M. 9, 48. 55. 179. 11, 183.</ls> <ls>MBH. 1, 1087. N. 1, 11.</ls> <ls>VID. 45. 307.</ls> <ls>BHĀG. P. 1, 5, 23.</ls> {#दासदासी#} {%die Sclavin eines Sclaven%} 
+<ls>MED. s. 3.</ls> <ls>AV. 5, 22, 6. 12, 3, 13. 4, 9.</ls> <ls>ŚAT. BR. 14, 9, 1, 10.</ls> <ls>KĀTY. ŚR. 13, 3, 19.</ls> <ls>LĀṬY. 4, 3, 18. 8, 11, 16.</ls> <ls>M. 9, 48. 55. 179. 11, 183.</ls> <ls>MBH. 1, 1087.</ls> <ls>N. 1, 11.</ls> <ls>VID. 45. 307.</ls> <ls>BHĀG. P. 1, 5, 23.</ls> {#दासदासी#} {%die Sclavin eines Sclaven%} 
 <ls>M. 9, 179.</ls> {#दासीदास#} <lex>n.</lex> sg. {%Sclavinnen und Sclaven, Mägde und Knechte%} <is>gaṇa</is> {#गवाश्वादि#} zu 
 <ls>P. 2, 4, 11.</ls> 
-<ls>MBH. 13, 2950. 15, 405. 412.</ls> 
+<ls>MBH. 13, 2950.</ls> <ls n="MBH.">15, 405.</ls> <ls n="MBH. 15,">412.</ls> 
 <ls>R. 1, 74, 4. 2, 77, 3.</ls> {#दासीदासाः#} 
 <ls>MBH. 2, 2510.</ls> {#दासीमाणवक#} <lex>n.</lex> sg. {%Sclavinnen und Knaben%} <is>gaṇa</is> {#गवाश्वादि#} zu 
 <ls>P. 2, 4, 11.</ls> {#दासीजन#} 
@@ -70,5 +70,5 @@
 <ls>P. 6, 2, 69,</ls> 
 <ls>Sch.</ls> {#दा/सी#} (mit zurückgezogenem Tone) als Schimpfwort {%ein gemeines Weib%} 
 <ls>Sch.</ls> zu <ls>P. 5, 3, 98</ls> und <ls>6, 1, 204.</ls> — Am Ende eines <lex>adj.</lex> comp. {#दासीक#} 
-<ls>MBH. 2, 1904. 3, 14691.</ls>
+<ls>MBH. 2, 1904.</ls> <ls n="MBH.">3, 14691.</ls>
 <LEND>

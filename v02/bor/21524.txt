@@ -1,10 +1,10 @@
 <L>21524<pc>677<k1>stolen<k2>stolen
-<div n="lb"/>{@STOLEN@}¦ (adj.): {#चोरितः#} ({#ता, तं#}) etc.: v. To
-<div n="lb"/>steal: {%S. goods:%} <div n="1">(1) {#लोप्त्रम्,#} Vri.; </div><div n="1">(2) {#चोरितम्, #}
-<div n="lb"/>{# -कम्,#} <div n="xe">{%if you do not return to the citizens their s.%}
-<div n="lb"/>{%goods:%}</div> <div n="xs">{#न चेन्नागरिकेभ्यश्चोरितकानि प्रत्यर्पयिष्यसि,#}</div> D.
-<div n="lb"/>ii: </div><div n="1">(3) {#मुषितम्, -कम्,#} <div n="xe">{%burying the s. goods some-%}
-<div n="lb"/>{%where:%}</div> <div n="xs">{#क्वचिन्मुषितकं निधाय,#}</div> D. ii.; </div><div n="1">(4) {#चोरित-#}
-<div n="lb"/>{#द्रव्यम्#} and sim. comp.s.; </div><div n="1">(5) {#होढम्#} (rare),
-<div n="lb"/><div n="xe">{%with or without s. property:%}</div> <div n="xs">{#सहोढमसहोढंवा,#}</div> Kat.</div>
+{@STOLEN@}¦ (adj.): {#चोरितः#} ({#ता, तं#}) etc.: v. To
+steal: {%S. goods:%} <div n="1">(1) {#लोप्त्रम्,#} Vri.; </div><div n="1">(2) {#चोरितम्, #}
+{# -कम्,#} <div n="xe">{%if you do not return to the citizens their s.%}
+{%goods:%}</div> <div n="xs">{#न चेन्नागरिकेभ्यश्चोरितकानि प्रत्यर्पयिष्यसि,#}</div> D.
+ii: </div><div n="1">(3) {#मुषितम्, -कम्,#} <div n="xe">{%burying the s. goods some-%}
+{%where:%}</div> <div n="xs">{#क्वचिन्मुषितकं निधाय,#}</div> D. ii.; </div><div n="1">(4) {#चोरित-#}
+{#द्रव्यम्#} and sim. comp.s.; </div><div n="1">(5) {#होढम्#} (rare),
+<div n="xe">{%with or without s. property:%}</div> <div n="xs">{#सहोढमसहोढंवा,#}</div> Kat.</div>
 <LEND>

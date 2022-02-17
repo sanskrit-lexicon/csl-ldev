@@ -1,5 +1,5 @@
 <L>5378<pc>172<k1>dam<k2>dam
-<div n="lb"/>{@DAM@}¦ (subs.): <div n="I">I A mound: </div><div n="1">(1) {#सेतुः,#} <div n="xe">{%to set up%}
-<div n="lb"/>{%a d.:%}</div> <div n="xs">{#सेतुं प्रवर्तयति,#}</div> <ls>Y.</ls> ; </div><div n="1">(2) {#आलिः।#} </div><div n="I">II A
-<div n="lb"/>mother: q. v.: {#मातृ#} (f.).</div>
+{@DAM@}¦ (subs.): <div n="I">I A mound: </div><div n="1">(1) {#सेतुः,#} <div n="xe">{%to set up%}
+{%a d.:%}</div> <div n="xs">{#सेतुं प्रवर्तयति,#}</div> <ls>Y.</ls> ; </div><div n="1">(2) {#आलिः।#} </div><div n="I">II A
+mother: q. v.: {#मातृ#} (f.).</div>
 <LEND>

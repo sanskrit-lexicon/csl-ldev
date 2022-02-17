@@ -1,5 +1,5 @@
 <L>9228<pc>292<k1>forgery<k2>forgery
-<div n="lb"/>{@FORGERY:@}¦ <div n="I">I The crime: {#कूटकरणम्#} (?), <div n="xe">{%f. of a%}
-<div n="lb"/>{%document:%}</div> <div n="xs">{#कपटलेखकरणम्।#}</div> </div><div n="I">II Anything forged:
-<div n="lb"/>expr. by {#कौटः#} ({#टी, टं#}) <div n="xe">{%or%}</div> <div n="xs">{#कौटिकः#}</div> ({#की, कं#}).</div>
+{@FORGERY:@}¦ <div n="I">I The crime: {#कूटकरणम्#} (?), <div n="xe">{%f. of a%}
+{%document:%}</div> <div n="xs">{#कपटलेखकरणम्।#}</div> </div><div n="I">II Anything forged:
+expr. by {#कौटः#} ({#टी, टं#}) <div n="xe">{%or%}</div> <div n="xs">{#कौटिकः#}</div> ({#की, कं#}).</div>
 <LEND>

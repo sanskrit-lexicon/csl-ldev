@@ -1,4 +1,4 @@
 <L>16815<pc>515<k1>permissible<k2>permissible
-<div n="lb"/>{@PERMISSIBLE:@}¦ <div n="1">(1) {#ग्राह्य#} (f. {#ह्या#} = acceptable);</div>
-<div n="lb"/><div n="1">(2) {#युक्त#} (= proper).</div>
+{@PERMISSIBLE:@}¦ <div n="1">(1) {#ग्राह्य#} (f. {#ह्या#} = acceptable);</div>
+<div n="1">(2) {#युक्त#} (= proper).</div>
 <LEND>

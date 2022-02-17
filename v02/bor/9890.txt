@@ -1,5 +1,5 @@
 <L>9890<pc>312<k1>girdle<k2>girdle
-<div n="lb"/>{@GIRDLE:@}¦ <div n="1">(1) {#मेखला;#} </div><div n="1">(2) {#रस(श)ना;#} </div><div n="1">(3) {#काञ्ची;#} </div><div n="1">(4)
-<div n="lb"/>{#कक्ष्या;#} </div><div n="1">(5) {#सारसनम्;#} </div><div n="1">(6) {#परिकरः#} (any g.), <div n="xe">{%with%}
-<div n="lb"/>{%tied g.:%}</div> <div n="xs">{#वद्धपरिकरः,#}</div> D.; </div><div n="1">(7) {#शृङली#} (= man's g.).</div>
+{@GIRDLE:@}¦ <div n="1">(1) {#मेखला;#} </div><div n="1">(2) {#रस(श)ना;#} </div><div n="1">(3) {#काञ्ची;#} </div><div n="1">(4)
+{#कक्ष्या;#} </div><div n="1">(5) {#सारसनम्;#} </div><div n="1">(6) {#परिकरः#} (any g.), <div n="xe">{%with%}
+{%tied g.:%}</div> <div n="xs">{#वद्धपरिकरः,#}</div> D.; </div><div n="1">(7) {#शृङली#} (= man's g.).</div>
 <LEND>

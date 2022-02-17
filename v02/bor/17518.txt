@@ -1,9 +1,9 @@
 <L>17518<pc>536<k1>practical<k2>practical
-<div n="lb"/>{@PRACTICAL:@}¦ <div n="I">I Not theoretical: </div><div n="1">(1) {#व्यवहारिक#}
-<div n="lb"/>(f. {#की#}); </div><div n="1">(2) better by circumlo., <div n="xe">{%without%}
-<div n="lb"/>{%sufficient p. knowledge:%}</div> <div n="xs">{#कर्मस्वपरिनिष्ठितः,#}</div> Sr. i. 3.
-<div n="lb"/>: v. Use. </div><div n="I">II Of men: </div><div n="1">(1) {#व्यवहारकुशल#} (f. {#ला#}),
-<div n="lb"/>D. vi.; </div><div n="1">(2) by circumlo. </div><div n="I">III Relating to life
-<div n="lb"/>and practice: <div n="xe">{%p. rules:%}</div> <div n="xs">{#व्यवहारनियमावलिः#}</div> (?);
-<div n="lb"/><div n="xe">{%p. life:%}</div> <div n="xs">{#लौकिकजीवनम्#}</div> (?).</div>
+{@PRACTICAL:@}¦ <div n="I">I Not theoretical: </div><div n="1">(1) {#व्यवहारिक#}
+(f. {#की#}); </div><div n="1">(2) better by circumlo., <div n="xe">{%without%}
+{%sufficient p. knowledge:%}</div> <div n="xs">{#कर्मस्वपरिनिष्ठितः,#}</div> Sr. i. 3.
+: v. Use. </div><div n="I">II Of men: </div><div n="1">(1) {#व्यवहारकुशल#} (f. {#ला#}),
+D. vi.; </div><div n="1">(2) by circumlo. </div><div n="I">III Relating to life
+and practice: <div n="xe">{%p. rules:%}</div> <div n="xs">{#व्यवहारनियमावलिः#}</div> (?);
+<div n="xe">{%p. life:%}</div> <div n="xs">{#लौकिकजीवनम्#}</div> (?).</div>
 <LEND>

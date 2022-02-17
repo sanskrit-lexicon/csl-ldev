@@ -2,7 +2,7 @@
 {#अ/शोक#}¦ (3. {#अ + शोक#}) 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} . 
 <div n="2"> a) {%ohne Gluth%} 
-<ls>ŚAT. BR. 14, 8, 12, 1</ls> <ls>?= BṚH. ĀR. UP. 5, 10.</ls> 
+<ls>ŚAT. BR. 14, 8, 12, 1</ls> = <ls>BṚH. ĀR. UP. 5, 10.</ls> 
 <div n="2">— b) {%ohne Kummer, keinen Kummer empfindend, - bereitend%} 
 <ls>H. an. 3, 1.</ls> 
 <ls>MED. k. 39.</ls> {#सत्यनामा भवाशोक#} (s. 2, a) {#अशोकः शोकनाशनः#} 
@@ -12,7 +12,7 @@
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Jonesia Asoka Roxb.%}, ein Baum von mässiger Grösse, zum System der Leguminosen gehörig, mit orangefarbigen später in's Rothe übergehenden in der Nacht duftenden Blüthen (März — April), dessen Blumenpracht Alles übertreffen soll, was sonst das Pflanzenreich aufweist. 
 <ls>As. Res. 4, 266. 353.</ls> 
-<ls>ROXB. Fl. ind. 2, 218.</ls> 
+<ls>ROXB.</ls> <ls>Fl. ind. 2, 218.</ls> 
 <ls>AK. 2, 4, 2, 45.</ls> 
 <ls>TRIK. 2, 4, 18.</ls> 
 <ls>H. 1135.</ls> 
@@ -29,11 +29,11 @@
 <ls>RATN. 12, 4.</ls> <ls>Schol.</ls> zu <ls>NALOD. 3, 33.</ls> 
 <div n="2">— b) N. pr. ein Minister des Königs <is>Daśaratha</is> 
 <ls>R. 1, 7, 3.</ls> ein König 
-<ls>MBH. 1, 2650. 12, 114.</ls> ein König in <is>Pāṭaliputra</is>, der im Buddhismus eine grosse Rolle spielt. Einige Nachrichten setzen ihn 100, andere 200 Jahre nach <is>Buddha's</is> Tode. Dieses beruht auf der Verwechselung zweier Könige desselben Namens. 
+<ls>MBH. 1, 2650.</ls> <ls n="MBH.">12, 114.</ls> ein König in <is>Pāṭaliputra</is>, der im Buddhismus eine grosse Rolle spielt. Einige Nachrichten setzen ihn 100, andere 200 Jahre nach <is>Buddha's</is> Tode. Dieses beruht auf der Verwechselung zweier Könige desselben Namens. 
 <ls>BURN. Intr. 133. 149. 370. 432. 435. fg.</ls> Ursprung seines Namens 
 <ls>360.</ls> <is>Aśoka</is>, von dem die berühmten Inschriften herstammen, regierte 
-<ls>?263 - 226 v. Chr. LIA. II, 274. 213. fgg. WEBER, Lit. 254. fg.</ls> {#अशोकावदान#} 
-<ls>BURN. Intr. 358.</ls> {#अशोकवर्ण#} 
+<ls>263</ls> - <ls>226</ls> v. <ls>Chr.</ls> <ls>LIA. II, 274. 213. fgg.</ls> <ls>WEBER, Lit. 254. fg.</ls> {#अशोकावदान#} 
+<ls n="BURN. Intr.">BURN. Intr. 358.</ls> {#अशोकवर्ण#} 
 <ls>462, N. 2.</ls> Vgl. {#कालाशोक#} . 
 <div n="1">— 2) <lex>f.</lex> {#°का#} 
 <div n="2"> a) N. einer Arzeneipflanze ({#अशोकरोहिणी, कटुरोहिणी#}) 

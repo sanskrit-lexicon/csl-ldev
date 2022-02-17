@@ -1,14 +1,14 @@
 <L>17684<pc>541<k1>present<k2>present
-<div n="lb"/>{@PRESENT@}¦ (subs.): <div n="1">(1) {#उपदा,#} <div n="xe">{%p. s came to the lord%}
-<div n="lb"/>{%of Kośala:%}</div> <div n="xs">{#उपदा विविशुः कोशलेश्वरम्,#}</div> R. iv. 70.;</div>
-<div n="lb"/><div n="1">(2) {#उपायनम्,#} <div n="xe">{%fit for p.s to him:%}</div> <div n="xs">{#तस्योपायनयोग्यानि,#}</div>
-<div n="lb"/>Ku. ii. 37.; </div><div n="1">(3) {#उपहारः,#} {%if you make a p. of%}
-<div n="lb"/>{%your son to the goddess,%} (i. e. sacrifice him):
-<div n="lb"/>{#यदि त्वमात्मनः पुत्रं भगवत्या उपहारीकरोषि,#} H. iii.;</div>
-<div n="lb"/><div n="1">(4) {#प्राभूतम्,#} {%and bringing new p. s day by day:%}
-<div n="lb"/>{#अहरहश्च नवनवानि प्राभृतान्युपहरन्ती,#} D. ii.; </div><div n="1">(5)
-<div n="lb"/>{#प्रीतिदायः#} (of love), <div n="xe">{%accepting the p.:%}</div> <div n="xs">{#तं प्रीतिदायं #}
-<div n="lb"/>{# प्रतिगृह्य,#}</div> Ram.; </div><div n="1">(6) {#योपढौकनम्#} (rare), Ph.:
-<div n="lb"/><div n="xe">{%at p.:%}</div> <div n="xs">{#वर्तमाने,#}</div> Vi. v.: v. Now; <div n="xe">{%in p.:%}</div> <div n="xs">{#सपदि:#}</div>
-<div n="lb"/>v. Instantly.</div>
+{@PRESENT@}¦ (subs.): <div n="1">(1) {#उपदा,#} <div n="xe">{%p. s came to the lord%}
+{%of Kośala:%}</div> <div n="xs">{#उपदा विविशुः कोशलेश्वरम्,#}</div> R. iv. 70.;</div>
+<div n="1">(2) {#उपायनम्,#} <div n="xe">{%fit for p.s to him:%}</div> <div n="xs">{#तस्योपायनयोग्यानि,#}</div>
+Ku. ii. 37.; </div><div n="1">(3) {#उपहारः,#} {%if you make a p. of%}
+{%your son to the goddess,%} (i. e. sacrifice him):
+{#यदि त्वमात्मनः पुत्रं भगवत्या उपहारीकरोषि,#} H. iii.;</div>
+<div n="1">(4) {#प्राभूतम्,#} {%and bringing new p. s day by day:%}
+{#अहरहश्च नवनवानि प्राभृतान्युपहरन्ती,#} D. ii.; </div><div n="1">(5)
+{#प्रीतिदायः#} (of love), <div n="xe">{%accepting the p.:%}</div> <div n="xs">{#तं प्रीतिदायं #}
+{# प्रतिगृह्य,#}</div> Ram.; </div><div n="1">(6) {#योपढौकनम्#} (rare), Ph.:
+<div n="xe">{%at p.:%}</div> <div n="xs">{#वर्तमाने,#}</div> Vi. v.: v. Now; <div n="xe">{%in p.:%}</div> <div n="xs">{#सपदि:#}</div>
+v. Instantly.</div>
 <LEND>

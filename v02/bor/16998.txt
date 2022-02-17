@@ -1,7 +1,7 @@
 <L>16998<pc>520<k1>picnic<k2>picnic
-<div n="lb"/>{@PICNIC:@}¦ {#विहारः#} <div n="xe">{%or%}</div> <div n="xs">{#-हरणम्#}</div> (= amusing), <div n="xe">{%p. in a%}
-<div n="lb"/>{%park:%}</div> <div n="xs">{#वनविहरणम्,#}</div> Si.; <div n="xe">{%let us go to the Yamunā%}
-<div n="lb"/>{%and have a p. there and come back in the even-%}
-<div n="lb"/>{%ing:%}</div> <div n="xs">{#“गच्छावो यमुनां प्रति । सुहृज्जनवृतौ तत्र विहृत्य #}
-<div n="lb"/>{# मधुसूदन । सायाह्ने पुनरेष्यावः”,#}</div> Mah. i. 220. 14-5.
+{@PICNIC:@}¦ {#विहारः#} <div n="xe">{%or%}</div> <div n="xs">{#-हरणम्#}</div> (= amusing), <div n="xe">{%p. in a%}
+{%park:%}</div> <div n="xs">{#वनविहरणम्,#}</div> Si.; <div n="xe">{%let us go to the Yamunā%}
+{%and have a p. there and come back in the even-%}
+{%ing:%}</div> <div n="xs">{#“गच्छावो यमुनां प्रति । सुहृज्जनवृतौ तत्र विहृत्य #}
+{# मधुसूदन । सायाह्ने पुनरेष्यावः”,#}</div> Mah. i. 220. 14-5.
 <LEND>

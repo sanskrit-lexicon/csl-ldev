@@ -1,5 +1,5 @@
 <L>19303<pc>598<k1>rhyme<k2>rhyme
-<div n="lb"/>{@RHYME@}¦ (subs.): <div n="I">I Of verses: {#मित्राक्षरम्।#} </div><div n="I">II
-<div n="lb"/>A verse: {#श्लोकः।#} </div><div n="I">III Poetry: q. v.: {#पद्यम्।#}
-<div n="lb"/>Ph.: <div n="xe">{%without r. or reason:%}</div> <div n="xs">{#निष्कारणम्,#}</div> etc.</div>
+{@RHYME@}¦ (subs.): <div n="I">I Of verses: {#मित्राक्षरम्।#} </div><div n="I">II
+A verse: {#श्लोकः।#} </div><div n="I">III Poetry: q. v.: {#पद्यम्।#}
+Ph.: <div n="xe">{%without r. or reason:%}</div> <div n="xs">{#निष्कारणम्,#}</div> etc.</div>
 <LEND>

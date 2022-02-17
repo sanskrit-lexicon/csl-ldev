@@ -1,4 +1,4 @@
 <L>12936<pc>399<k1>jump<k2>jump
-<div n="lb"/>{@JUMP:@}¦ <div n="I">I Subs: {#भम्पः:#} v. Leap. </div><div n="I">II Verb:
-<div n="lb"/>{#भम्पं ददाति:#} v. To leap.</div>
+{@JUMP:@}¦ <div n="I">I Subs: {#भम्पः:#} v. Leap. </div><div n="I">II Verb:
+{#भम्पं ददाति:#} v. To leap.</div>
 <LEND>

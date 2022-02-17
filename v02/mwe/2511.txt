@@ -1,5 +1,5 @@
 <L>2511<pc>054-a<k1>blessing<k2>blessing
-<div n="lb"/>BLESSING¦, {%s.%} (Benediction) {#आशीः#} {%f.%} {#(स्), आशीर्वादः, घन्यवादः,#}
-<div n="lb"/>{#आशीर्वचनं, कुशलवादः, कुशलं#}. — (A benefit received) {#वरः, हितं,#}
-<div n="lb"/>{#कुशलं, उपकृतं, धन्यत्वं;#} ‘wishing blessing,’ {#आशंसुः -सुः -सु#}.
+BLESSING¦, {%s.%} (Benediction) {#आशीः#} {%f.%} {#(स्), आशीर्वादः, घन्यवादः,#}
+{#आशीर्वचनं, कुशलवादः, कुशलं#}. — (A benefit received) {#वरः, हितं,#}
+{#कुशलं, उपकृतं, धन्यत्वं;#} ‘wishing blessing,’ {#आशंसुः -सुः -सु#}.
 <LEND>

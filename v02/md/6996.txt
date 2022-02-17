@@ -1,17 +1,17 @@
 <L>6996<pc>084-3<k1>गुण<k2>गुण
 {#गुण#}¦guṇ-á, strand, thread, string, rope; 
-<>wick; bow-string; lute-string; species; constituent <lbinfo n="3"/>
-<> {%of policy (of which there are six or %}
-<>{%four)%}, subordinate element, accessory; secondary <lbinfo n="6"/>
-<> dish, seasoning; remote object ({%of a verb%}); 
-<>property, quality; elemental quality ({%sound, %}
-<>{%feeling, colour, taste, smell%}); fundamental 
-<>quality (sattva, rajas, tamas); good quality, 
-<>virtue, merit, excellence; high degree of (-° = 
-<>excessive); external articulation ({%of letters%}); 
-<>{%first%} strong grade {%of vowels%} (a, ar, al, e, o); time 
-<>({%with numberals%}); multiple: {%almost always -° %}
-<>{%a. after numerals = -%} fold ({%lit.%} having {%so many%} 
-<>strands), {%so many%} times as much as {%or%} more 
-<>than ({%in. or ab.%}).
+wick; bow-string; lute-string; species; constituent <lbinfo n="3"/>
+ {%of policy (of which there are six or %}
+{%four)%}, subordinate element, accessory; secondary <lbinfo n="6"/>
+ dish, seasoning; remote object ({%of a verb%}); 
+property, quality; elemental quality ({%sound, %}
+{%feeling, colour, taste, smell%}); fundamental 
+quality (sattva, rajas, tamas); good quality, 
+virtue, merit, excellence; high degree of (-° = 
+excessive); external articulation ({%of letters%}); 
+{%first%} strong grade {%of vowels%} (a, ar, al, e, o); time 
+({%with numberals%}); multiple: {%almost always -° %}
+{%a. after numerals = -%} fold ({%lit.%} having {%so many%} 
+strands), {%so many%} times as much as {%or%} more 
+than ({%in. or ab.%}).
 <LEND>

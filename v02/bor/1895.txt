@@ -1,8 +1,8 @@
 <L>1895<pc>066<k1>belonging to<k2>belonging to
-<div n="lb"/>{@BELONGING TO@}¦ (as adj.): <div n="1">(1) by- {#ईय#} deriv.
-<div n="lb"/><div n="xe">{%b. to another%}</div> <div n="xs">{#अन्यदीयः#}</div> ({#या, यं#}): {%b. to a king%}
-<div n="lb"/>{#राजकीयः;#} </div><div n="1">(2) by- {#अ#} der.: {%b. to the season%}
-<div n="lb"/>{#आर्तवः#} ({#वी, वं#}); <div n="xe">{%b. the next world%}</div> <div n="xs">{#पारलौकिकः#}</div>
-<div n="lb"/>({#की, कं#}); </div><div n="1">(3) by- {#य#} der.: {%b. to one's father%}
-<div n="lb"/>{#पित्र्यः#} ({#त्र्या, त्र्यं#}); <div n="xe">{%b. to a cow%}</div> <div n="xs">{#गव्यः#}</div> ({#व्या, व्यं#}).</div>
+{@BELONGING TO@}¦ (as adj.): <div n="1">(1) by- {#ईय#} deriv.
+<div n="xe">{%b. to another%}</div> <div n="xs">{#अन्यदीयः#}</div> ({#या, यं#}): {%b. to a king%}
+{#राजकीयः;#} </div><div n="1">(2) by- {#अ#} der.: {%b. to the season%}
+{#आर्तवः#} ({#वी, वं#}); <div n="xe">{%b. the next world%}</div> <div n="xs">{#पारलौकिकः#}</div>
+({#की, कं#}); </div><div n="1">(3) by- {#य#} der.: {%b. to one's father%}
+{#पित्र्यः#} ({#त्र्या, त्र्यं#}); <div n="xe">{%b. to a cow%}</div> <div n="xs">{#गव्यः#}</div> ({#व्या, व्यं#}).</div>
 <LEND>

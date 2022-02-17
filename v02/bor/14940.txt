@@ -1,4 +1,4 @@
 <L>14940<pc>456<k1>moon-plant<k2>moon-plant
-<div n="lb"/>{@MOON-PLANT:@}¦ {#सोमलता।#} <div n="xe">{%Its juice:%}</div> <div n="xs">{#सोमरसः।#}</div> <div n="xe">{%Its%}
-<div n="lb"/>{%drinker:%}</div> <div n="xs">{#सोमपः, -पीथिन्,#}</div> etc.
+{@MOON-PLANT:@}¦ {#सोमलता।#} <div n="xe">{%Its juice:%}</div> <div n="xs">{#सोमरसः।#}</div> <div n="xe">{%Its%}
+{%drinker:%}</div> <div n="xs">{#सोमपः, -पीथिन्,#}</div> etc.
 <LEND>

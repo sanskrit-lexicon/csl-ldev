@@ -6,7 +6,7 @@
 <ls>TRIK. 3, 3, 368.</ls> 
 <ls>H. 1293.</ls> 
 <ls>an. 2, 449.</ls> 
-<ls>MED. r. 80.</ls> <ls>HALĀY. 2, 75.</ls> <ls>VS. 24, 27. 39.</ls> <ls>MBH. 2, 2520. 3, 1961. 2402. 15629. 5, 2314. 7, 3792. 8, 3337. 12, 7978.</ls> <ls>Spr. 3775.</ls> <ls>R. 2, 93, 2.</ls> <ls>R. GORR. 2, 114, 33.</ls> <ls>SUŚR. 1, 204, 10. 21.</ls> <ls>RAGH. 9, 51. 72.</ls> <ls>VARĀH. BṚH. S. 48, 76. 86, 38. 48.</ls> <ls>BHĀG. P. 3, 10, 20. 4, 6, 20.</ls> {#°रक्त#} 
+<ls>MED. r. 80.</ls> <ls>HALĀY. 2, 75.</ls> <ls>VS. 24, 27. 39.</ls> <ls>MBH. 2, 2520.</ls> <ls n="MBH.">3, 1961.</ls> <ls n="MBH. 3,">2402.</ls> <ls n="MBH. 3,">15629.</ls> <ls n="MBH.">5, 2314.</ls> <ls n="MBH.">7, 3792.</ls> <ls n="MBH.">8, 3337.</ls> <ls n="MBH.">12, 7978.</ls> <ls>Spr. 3775.</ls> <ls>R. 2, 93, 2.</ls> <ls>R. GORR. 2, 114, 33.</ls> <ls>SUŚR. 1, 204, 10. 21.</ls> <ls>RAGH. 9, 51. 72.</ls> <ls>VARĀH. BṚH. S. 48, 76. 86, 38. 48.</ls> <ls>BHĀG. P. 3, 10, 20. 4, 6, 20.</ls> {#°रक्त#} 
 <ls>Verz. d. Oxf. H. 98,a,4.</ls> {#°नखधारिन्#} (<is>Kṛṣṇa</is>) 
 <ls>PAÑCAR. 4, 8, 35.</ls> {#रुरुपृषतम्#} 
 <ls>P. 2, 4, 12, <is>Vārtt</is>. 1,</ls> 
@@ -22,11 +22,11 @@
 <ls>P. 4, 3, 164.</ls> 
 <div n="1">— 4) N. pr. 
 <div n="2"> a) eines Sohnes des <is>Ṛṣi</is> <is>Pramati</is> und der <is>Ghṛtācī</is> (einer <is>Apsaras</is>) 
-<ls>MBH. 1, 871. fg. 940. fgg. 13, 2004.</ls> 
+<ls>MBH. 1, 871. fg.</ls> <ls n="MBH. 1,">940. fgg.</ls> <ls n="MBH.">13, 2004.</ls> 
 <ls>KATHĀS. 14, 76. 28, 88.</ls> eines unter den <is>Viśve</is> <is>Devās</is> aufgeführten göttlichen Wesens, welches den Beinamen {#ऋषिपुत्र#} führt, 
 <ls>HARIV. 11543.</ls> eines der 
-<ls>7</ls> Weisen unter <is>Manu</is> <is>Sāvaraṇi</is>, mit dem patron. <is>Kāśyapa</is>, 
-<ls>454.</ls> 
+<ls n="HARIV.">7</ls> Weisen unter <is>Manu</is> <is>Sāvaraṇi</is>, mit dem patron. <is>Kāśyapa</is>, 
+<ls n="HARIV.">454.</ls> 
 <div n="2">— b) eines von der <is>Durgā</is> getödteten <is>Dānava</is> 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>KATHĀS. 26,144. 53,171. 78,90. 109,101.</ls> <ls>Verz. d. Oxf. H. 59,a,13.</ls> 
 <div n="2">— c) einer Form <is>Bhairava's</is> 

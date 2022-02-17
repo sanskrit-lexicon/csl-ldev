@@ -1,8 +1,8 @@
 <L>17331<pc>530<k1>policy<k2>policy
-<div n="lb"/>{@POLICY:@}¦ <div n="I">I State: {#नीतिः,#} {%mere p. is cowardice:%}
-<div n="lb"/>{#कातर्य केवला नीतिः,#} R. xvii. 47.; <div n="xe">{%how excellent%}
-<div n="lb"/>{%is Chāṇakya's p.:%}</div> <div n="xs">{#अहो विचित्रता चाणक्यनीतेः,#}</div> Mu.
-<div n="lb"/>v. </div><div n="I">II Plan, object: {#आशयः।#} </div><div n="I">III Prudence,
-<div n="lb"/>cunning: q. v.: {#चातुरी।#} </div><div n="I">IV Of insurance:
-<div n="lb"/>{#*रक्षापत्रम्।#}</div>
+{@POLICY:@}¦ <div n="I">I State: {#नीतिः,#} {%mere p. is cowardice:%}
+{#कातर्य केवला नीतिः,#} R. xvii. 47.; <div n="xe">{%how excellent%}
+{%is Chāṇakya's p.:%}</div> <div n="xs">{#अहो विचित्रता चाणक्यनीतेः,#}</div> Mu.
+v. </div><div n="I">II Plan, object: {#आशयः।#} </div><div n="I">III Prudence,
+cunning: q. v.: {#चातुरी।#} </div><div n="I">IV Of insurance:
+{#*रक्षापत्रम्।#}</div>
 <LEND>

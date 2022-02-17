@@ -1,4 +1,4 @@
 <L>2574<pc>088<k1>bricklayer<k2>bricklayer
-<div n="lb"/>{@BRICKLAYER:@}¦ <div n="1">(1) {#लेपकः;#} </div><div n="1">(2) {#पलगण्डः:#} v.
-<div n="lb"/>Mason.</div>
+{@BRICKLAYER:@}¦ <div n="1">(1) {#लेपकः;#} </div><div n="1">(2) {#पलगण्डः:#} v.
+Mason.</div>
 <LEND>

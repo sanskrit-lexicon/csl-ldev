@@ -1,5 +1,5 @@
 <L>23046<pc>726<k1>type<k2>type
-<div n="lb"/>{@TYPE:@}¦ <div n="I">I Model: {#आदर्शः।#} </div><div n="I">II Mark, stamp:
-<div n="lb"/>q. v.: {#चिह्नम्।#} </div><div n="I">III Printing letters: {#मुद्राक्षरम्।#}</div>
-<div n="lb"/><div n="I">IV Kind, species: q. v.: {#प्रकारः।#}</div>
+{@TYPE:@}¦ <div n="I">I Model: {#आदर्शः।#} </div><div n="I">II Mark, stamp:
+q. v.: {#चिह्नम्।#} </div><div n="I">III Printing letters: {#मुद्राक्षरम्।#}</div>
+<div n="I">IV Kind, species: q. v.: {#प्रकारः।#}</div>
 <LEND>

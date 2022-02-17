@@ -58,7 +58,7 @@
 <ls>SUND. 2, 9.</ls> 
 <ls>R. 1, 65, 26.</ls> 
 <ls>VID. 337.</ls> {#अकम्पयन्महीम्#} 
-<ls>MBH. 1, 1165. 1184.</ls> {#महीं लवणजलं च सागरम्#} 
+<ls>MBH. 1, 1165.</ls> <ls n="MBH. 1,">1184.</ls> {#महीं लवणजलं च सागरम्#} 
 <ls>1185.</ls> {#सागरान्ता#} 
 <ls>R. 1, 5, 1.</ls> {#चतुरन्त°#} 
 <ls>ŚĀK. 95.</ls> 
@@ -100,9 +100,9 @@
 <div n="2">— h) {%Hingtsha repens Roxb.%} 
 <ls>TRIK. 2, 4, 31.</ls> 
 <div n="2">— i) {%ein best. Metrum, 4 Mal%} {Ç} 
-<ls>COLEBR. Misc. Ess. II, 158</ls> <ls>(II, 2).</ls> 
+<ls>COLEBR. Misc. Ess. II, 158</ls> (<ls>II, 2).</ls> 
 <div n="2">— k) N. einer neben <is>Iḍā</is> und <is>Sarasvatī</is>, an der Stelle der <is>Bhāratī</is> genannten Genie, 
-<ls>ṚV. 1, 13, 9</ls> <ls>?(SĀY. zu d. St.). 9, 5, 8. NAIGH. 1, 11.</ls> 
+<ls>ṚV. 1, 13, 9</ls> (<ls>SĀY.</ls> zu d. St.). <ls n="ṚV.">9, 5, 8.</ls> <ls>NAIGH. 1, 11.</ls> 
 <div n="2">— l) N. pr. eines Flusses 
 <ls>MED.</ls> <ls>H. an.</ls> <ls>LIA. I, 84.</ls> <ls>HIOUEN-THSANG II, 3. 155.</ls> <ls>MBH. 3, 14230.</ls> <ls>HARIV. 12828</ls> (neben {#कालमही)#} . 
 <ls>LANGL. I, 508.</ls> <ls>VP. 185, N. 80.</ls> <ls>MĀRK. P. 57, 19.</ls> 

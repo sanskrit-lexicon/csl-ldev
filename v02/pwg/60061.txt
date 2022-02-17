@@ -1,6 +1,6 @@
 <L>60061<pc>5-0743<k1>मार्गण<k2>मार्गण
 {#मार्गण#}¦ (von 1. {#मार्ग्)#} 
-<div n="1"> 1) nom. ag. {%verlangend, fordernd%}: {#मार्गणैः#} {%(Pfeile)%} {#क्षतमार्गणैः#} 
+<div n="1"> 1) nom. ag. {%verlangend, fordernd%}: {#मार्गणैः#} ({%Pfeile%}) {#क्षतमार्गणैः#} 
 <ls>MBH. 6, 5561.</ls> {%ein Bettelnder, Bettler%} 
 <ls>AK. 3, 1, 49.</ls> 
 <ls>H. 388.</ls> 
@@ -13,10 +13,10 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 311.</ls> 
-<ls>MBH. 4, 1703. 5, 2087. 7215. 6, 5561.</ls> 
+<ls>MBH. 4, 1703.</ls> <ls n="MBH.">5, 2087.</ls> <ls n="MBH. 5,">7215.</ls> <ls n="MBH.">6, 5561.</ls> 
 <ls>R. 3, 25, 5. 6, 65, 21. 67, 33. 68, 22. 70, 31. 77, 14.</ls> 
 <ls>RAGH. 9, 22. 65. ed. Calc. 3, 53.</ls> <ls>Spr. 2297.</ls> {#स°#} <lex>adj.</lex> 
-<ls>MBH. 3, 8486. 10963.</ls> 
+<ls>MBH. 3, 8486.</ls> <ls n="MBH. 3,">10963.</ls> 
 <ls>HARIV. 12531.</ls> {#समार्गणगुणं धनुः#} 
 <ls>MBH. 3, 16208.</ls> 
 <div n="2">— b) Bez. {%der Zahl fünf%} (wegen der {%fünf Pfeile%} des Liebesgottes) 
@@ -30,8 +30,8 @@
 {#पुण्यश्लोकस्य#} 
 <ls>MBH. 3, 2726. fg.</ls> 
 <ls>HARIV. 10314.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 4, 77. 78.</ls> {#मानुष्ये कदलीस्तम्भनिःसारे सारमार्गणम् । यः करोति#} 
+
+<ls>R. GORR. 1, 4, 77. 78.</ls> {#मानुष्ये कदलीस्तम्भनिःसारे सारमार्गणम् । यः करोति#} 
 <ls>Spr. 4712.</ls> {#मत्स्यमार्गणशील#} Comm. zu 
 <ls>TBR. 3, 4, 1, 12.</ls> {#कार्य°#} {%das Suchen —, das Ausforschen einer Sache%} 
 <ls>DAŚAR. 1, 46.</ls> 

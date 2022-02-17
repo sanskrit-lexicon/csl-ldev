@@ -1,6 +1,6 @@
 <L>2530<pc>086<k1>breaker<k2>breaker
-<div n="lb"/>{@BREAKER:@}¦ <div n="I">I One who breaks: {#भञ्जकः:#} v. [Page087]
-<div n="lb"/>To break for the different senses. </div><div n="I">II A
-<div n="lb"/>wave breaking upon a sand-bank, etc.:
-<div n="lb"/>{#भङ्गः#} <div n="xe">{%or%}</div> <div n="xs">{#भङ्गिः।#}</div></div>
+{@BREAKER:@}¦ <div n="I">I One who breaks: {#भञ्जकः:#} v. [Page087]
+To break for the different senses. </div><div n="I">II A
+wave breaking upon a sand-bank, etc.:
+{#भङ्गः#} <div n="xe">{%or%}</div> <div n="xs">{#भङ्गिः।#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>22285<pc>703<k1>tell<k2>tell
-<div n="lb"/>{@TELL@}¦ (v. i.): <div n="I">I In good sense: expr. with
-<div n="lb"/>{#गुणः#} (effect) <div n="xe">{%or%}</div> <div n="xs">{#वलं#}</div> (strength) {#दृश्यते।#} </div><div n="I">II In
-<div n="lb"/>bad sense with on: {#दुर्बलीकरोति।#}</div>
+{@TELL@}¦ (v. i.): <div n="I">I In good sense: expr. with
+{#गुणः#} (effect) <div n="xe">{%or%}</div> <div n="xs">{#वलं#}</div> (strength) {#दृश्यते।#} </div><div n="I">II In
+bad sense with on: {#दुर्बलीकरोति।#}</div>
 <LEND>

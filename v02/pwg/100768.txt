@@ -2,7 +2,7 @@
 {#शृङ्गि/न्#}¦ (wie eben) 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%gehörnt%} 
-<ls>MED. n. 143.</ls> <ls>ṚV. 1, 32, 15.</ls> <ls n="ṚV. 1,">33, 12.</ls> <ls n="ṚV.">3, 8, 13.</ls> <ls>AIT. BR. 4, 17.</ls> <ls>KĀṬH. 33, 1.</ls> <ls>MBH. 2, 1850. 3, 12778.</ls> <ls>R. 2, 25, 17.</ls> <ls>MĀRK. P. 79, 6.</ls> {#प्रवालमणि°#} {%Hörner von - habend%} 
+<ls>MED. n. 143.</ls> <ls>ṚV. 1, 32, 15.</ls> <ls n="ṚV. 1,">33, 12.</ls> <ls n="ṚV.">3, 8, 13.</ls> <ls>AIT. BR. 4, 17.</ls> <ls>KĀṬH. 33, 1.</ls> <ls>MBH. 2, 1850.</ls> <ls n="MBH.">3, 12778.</ls> <ls>R. 2, 25, 17.</ls> <ls>MĀRK. P. 79, 6.</ls> {#प्रवालमणि°#} {%Hörner von - habend%} 
 <ls>R. 3, 49, 4.</ls> m. {%ein gehörntes Thier%} 
 <ls>YĀJÑ. 2, 300.</ls> 
 <ls>MBH. 1, 6450.</ls> 
@@ -15,7 +15,7 @@
 <ls>MED.</ls> 
 <div n="2">— c) {%mit einem Stachel versehen%}; s. {#विष°#} . 
 <div n="2">— d) {%mit Gipfeln versehen%}; <lex>m.</lex> {%Berg%} 
-<ls>MED.</ls> <ls>MBH. 3, 1753. 9, 1927.</ls> <ls>RAGH. 12, 80.</ls> 
+<ls>MED.</ls> <ls>MBH. 3, 1753.</ls> <ls n="MBH.">9, 1927.</ls> <ls>RAGH. 12, 80.</ls> 
 <div n="2">— e) {%mit Wipfeln versehen%}; <lex>m.</lex> {%Baum%} 
 <ls>MED.</ls> 
 <div n="2">— f) {%mit einer Brust versehen%} (nach 
@@ -32,7 +32,7 @@
 <ls>VP. 167.</ls> 
 <ls>MĀRK. P. 54,9.</ls> <ls>Verz. d. Oxf. H. 48,a,40.</ls> 
 <div n="2">— e) N. pr. eines <is>Ṛṣi</is> 
-<ls>MBH.1,1679. fgg. 1965. fgg.</ls> <ls>HARIV. 9575.</ls> <ls>Verz. d. Oxf. H. 122,a,3.</ls> 
+<ls>MBH. 1, 1679. fgg.</ls> <ls n="MBH. 1,">1965. fgg.</ls> <ls>HARIV. 9575.</ls> <ls>Verz. d. Oxf. H. 122,a,3.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#शृङ्गिणी#} 
 <div n="2"> a) {%Kuh%} 
 <ls>AK. 2, 9, 66.</ls> 

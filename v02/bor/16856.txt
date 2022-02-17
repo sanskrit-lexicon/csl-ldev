@@ -1,6 +1,6 @@
 <L>16856<pc>517<k1>personally<k2>personally
-<div n="lb"/>{@PERSONALLY:@}¦ <div n="I">I In person: {#स्वयम्,#} {%p. delivered:%}
-<div n="lb"/>{#स्वयंदत्त#} (f. {#त्ता#}); <div n="xe">{%p. came to him:%}</div> <div n="xs">{#स्वयं तमभीयाय,#}</div>
-<div n="lb"/>Ki. ii. 54. </div><div n="I">II Individually: gen. not expr.:
-<div n="lb"/>{#बिशेषतः#} (= particularly).</div>
+{@PERSONALLY:@}¦ <div n="I">I In person: {#स्वयम्,#} {%p. delivered:%}
+{#स्वयंदत्त#} (f. {#त्ता#}); <div n="xe">{%p. came to him:%}</div> <div n="xs">{#स्वयं तमभीयाय,#}</div>
+Ki. ii. 54. </div><div n="I">II Individually: gen. not expr.:
+{#बिशेषतः#} (= particularly).</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>12992<pc>200-a2<k1>भग<k2>भग
 {#भग#}¦bhág-a, {%m.%} [dispenser: √ bhaj] lord 
-<>({%of gods, esp.%} Savitṛ: {%V.%}); {%N. of one of the %}
-<>{%Adityas bringing welfare and love and instituting %}<lbinfo n="5"/>
-<>{% marriage%}; {%the lunar asterism%} Phalgunī; <lbinfo n="4"/>
-<> sun; good fortune, lock, happy lot 
-<>({%mostly V.%}); dignity, grandeur ({%mostly V.%}); 
-<>loveliness, beauty; love, affection, amorousness; <lbinfo n="7"/>
-<> {%pudendum muliebre%}.
+({%of gods, esp.%} Savitṛ: {%V.%}); {%N. of one of the %}
+{%Adityas bringing welfare and love and instituting %}<lbinfo n="5"/>
+{% marriage%}; {%the lunar asterism%} Phalgunī; <lbinfo n="4"/>
+ sun; good fortune, lock, happy lot 
+({%mostly V.%}); dignity, grandeur ({%mostly V.%}); 
+loveliness, beauty; love, affection, amorousness; <lbinfo n="7"/>
+ {%pudendum muliebre%}.
 <LEND>

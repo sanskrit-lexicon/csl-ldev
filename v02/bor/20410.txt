@@ -1,5 +1,5 @@
 <L>20410<pc>638<k1>shoe-maker<k2>shoe-maker
-<div n="lb"/>{@SHOE-MAKER:@}¦ <div n="1">(1) {#चर्मकारः,#} {%and well-known s. s:%}
-<div n="lb"/>{#प्रख्याताश्चर्मकाराः,#} Ram. ii. 90. 23.; </div><div n="1">(2) {#पादुका-#}
-<div n="lb"/>{#कारः;#} </div><div n="1">(3) {#पादूकृत्,#} A.</div>
+{@SHOE-MAKER:@}¦ <div n="1">(1) {#चर्मकारः,#} {%and well-known s. s:%}
+{#प्रख्याताश्चर्मकाराः,#} Ram. ii. 90. 23.; </div><div n="1">(2) {#पादुका-#}
+{#कारः;#} </div><div n="1">(3) {#पादूकृत्,#} A.</div>
 <LEND>

@@ -1,36 +1,36 @@
 <L>18364<pc>564<k1>quarter<k2>quarter
-<div n="lb"/>{@QUARTER@}¦ (subs.): <div n="I">I Fourth part: </div><div n="1">(1) {#पादः,#}
-<div n="lb"/><div n="xe">{%three q.s:%}</div> <div n="xs">{#पादत्रयम्,#}</div> Li.; <div n="xe">{%with a third, a half and%}
-<div n="lb"/>{%a q. of a quantity:%}</div> <div n="xs">{#राशित्र्यंशसार्धपादैः,#}</div> Li.; </div><div n="1">(2)
-<div n="lb"/>{#गुरीयः#} <div n="xe">{%or%}</div> <div n="xs">{#तुर्यः#}</div> (rare), <div n="xe">{%with a q. of which:%}</div> <div n="xs">{#यस्य #}
-<div n="lb"/>{# तुर्येण,#}</div> Li. 23.; </div><div n="1">(3) {#चतुर्थांशः;#} </div><div n="1">(4) {#चतुर्थभागः।#} </div><div n="I">II
-<div n="lb"/>Of the heaven: </div><div n="1">(1) {#दिश्#} (f.: best equiv.),
-<div n="lb"/>{%north-east q.%} ({%lit. of Śiva%}): {#ऐशानी दिक्,#} V.
-<div n="lb"/><div n="xe">{%from various q.s.:%}</div> <div n="xs">{#नानादिग्देशात्,#}</div> H.; <div n="xe">{%in every%}
-<div n="lb"/>{%q.:%}</div> <div n="xs">{#प्रतिदिशम्,#}</div> Ki. xiv. 64.; {%intermediate q.:%}
-<div n="lb"/>{#विदिश्#} (rare); </div><div n="1">(2) {#आशा#} (f.), {%the eastern q.%} ({%lit.%}
-<div n="lb"/>of Indra): {#वासवाशा,#} Si. xi. 16.; </div><div n="1">(3) {#काष्ठा,#} <div n="xe">{%the%}
-<div n="lb"/>{%northern q.:%}</div> <div n="xs">{#उदिची काष्ठा,#}</div> Ki. iii. 55.; </div><div n="1">(4) {#ककुभ्#}
-<div n="lb"/>(f.), <div n="xe">{%the q.s.:%}</div> <div n="xs">{#ककुभाञ्चक्रवालः,#}</div> Si. xx. 14.; </div><div n="1">(5)
-<div n="lb"/>{#हरित्#} (f.). </div><div n="I">III A region: q. v.: {#देशः।#} </div><div n="I">IV
-<div n="lb"/>In pl., abode, residence: </div><div n="1">(1) {#निवासः,#} <div n="xe">{%the%}
-<div n="lb"/>{%lord's q. s. shone in tents:%}</div> <div n="xs">{#प्रमोर्निवासाः पटवेश्मभि-#}
-<div n="lb"/>{#र्बभुः,#}</div> Si. xii. 63.; </div><div n="1">(2) {#निवेशः#} (of an army),
-<div n="lb"/><div n="xe">{%the q.s. of an army:%}</div> <div n="xs">{#सेनानिवेशाः,#}</div> M.n.; </div><div n="1">(3)
-<div n="lb"/>{#स्थानम्#} (= place: q. v.). Ph.: {%Head-q. s.:%} perh.
-<div n="lb"/>{#प्रधानस्थलम्#} and sim. comp.s. </div><div n="I">V Indulgence
-<div n="lb"/>to an adversary: {%to give q.:%} perh. {#दयां दर्शयति;#}
-<div n="lb"/>{%and shall give q. to%} (lit. not strike) {%those who%}
-<div n="lb"/>{%do not fight or are eunuchs, or have no weapons,%}
-<div n="lb"/>{%or are cowards or run away, or ask for q.%} (lit.
-<div n="lb"/>say “we are yours”): {#नायुध्यमानं हन्याच्च न #}
-<div n="lb"/>{# क्लीवं न निरायुधम् । न भीतं न परावृत्तं न तवास्बीति #}
-<div n="lb"/>{# वादिनम् ॥,#} M. vii. 91-3. </div><div n="I">VI Of the year:</div>
-<div n="lb"/><div n="1">(1) {#त्रिमासम्;#} </div><div n="1">(2) {#मासत्रयम्।#} </div><div n="I">VII Of the
-<div n="lb"/>moon's period: expr. by {#शुक्ल-#} and {#कृष्णस्पक्षः#}
-<div n="lb"/>(light, dark fortnight), </div><div n="I">VIII Of an ani-
-<div n="lb"/>-mal: no equiv.: {#पादः#} may be used. Ph.:
-<div n="lb"/><div n="xe">{%at close q. s.:%}</div> <div n="xs">{#मिथः प्रत्यासन्न#}</div> (f. {#न्ना#}), M. n.;
-<div n="lb"/><div n="xe">{%came to close q.s.:%}</div> <div n="xs">{#बाहूबाहवि व्यासृजेताम्#}</div> (lit.
-<div n="lb"/>engaged arm to arm), Si. xviii. 12.</div>
+{@QUARTER@}¦ (subs.): <div n="I">I Fourth part: </div><div n="1">(1) {#पादः,#}
+<div n="xe">{%three q.s:%}</div> <div n="xs">{#पादत्रयम्,#}</div> Li.; <div n="xe">{%with a third, a half and%}
+{%a q. of a quantity:%}</div> <div n="xs">{#राशित्र्यंशसार्धपादैः,#}</div> Li.; </div><div n="1">(2)
+{#गुरीयः#} <div n="xe">{%or%}</div> <div n="xs">{#तुर्यः#}</div> (rare), <div n="xe">{%with a q. of which:%}</div> <div n="xs">{#यस्य #}
+{# तुर्येण,#}</div> Li. 23.; </div><div n="1">(3) {#चतुर्थांशः;#} </div><div n="1">(4) {#चतुर्थभागः।#} </div><div n="I">II
+Of the heaven: </div><div n="1">(1) {#दिश्#} (f.: best equiv.),
+{%north-east q.%} ({%lit. of Śiva%}): {#ऐशानी दिक्,#} V.
+<div n="xe">{%from various q.s.:%}</div> <div n="xs">{#नानादिग्देशात्,#}</div> H.; <div n="xe">{%in every%}
+{%q.:%}</div> <div n="xs">{#प्रतिदिशम्,#}</div> Ki. xiv. 64.; {%intermediate q.:%}
+{#विदिश्#} (rare); </div><div n="1">(2) {#आशा#} (f.), {%the eastern q.%} ({%lit.%}
+of Indra): {#वासवाशा,#} Si. xi. 16.; </div><div n="1">(3) {#काष्ठा,#} <div n="xe">{%the%}
+{%northern q.:%}</div> <div n="xs">{#उदिची काष्ठा,#}</div> Ki. iii. 55.; </div><div n="1">(4) {#ककुभ्#}
+(f.), <div n="xe">{%the q.s.:%}</div> <div n="xs">{#ककुभाञ्चक्रवालः,#}</div> Si. xx. 14.; </div><div n="1">(5)
+{#हरित्#} (f.). </div><div n="I">III A region: q. v.: {#देशः।#} </div><div n="I">IV
+In pl., abode, residence: </div><div n="1">(1) {#निवासः,#} <div n="xe">{%the%}
+{%lord's q. s. shone in tents:%}</div> <div n="xs">{#प्रमोर्निवासाः पटवेश्मभि-#}
+{#र्बभुः,#}</div> Si. xii. 63.; </div><div n="1">(2) {#निवेशः#} (of an army),
+<div n="xe">{%the q.s. of an army:%}</div> <div n="xs">{#सेनानिवेशाः,#}</div> M.n.; </div><div n="1">(3)
+{#स्थानम्#} (= place: q. v.). Ph.: {%Head-q. s.:%} perh.
+{#प्रधानस्थलम्#} and sim. comp.s. </div><div n="I">V Indulgence
+to an adversary: {%to give q.:%} perh. {#दयां दर्शयति;#}
+{%and shall give q. to%} (lit. not strike) {%those who%}
+{%do not fight or are eunuchs, or have no weapons,%}
+{%or are cowards or run away, or ask for q.%} (lit.
+say “we are yours”): {#नायुध्यमानं हन्याच्च न #}
+{# क्लीवं न निरायुधम् । न भीतं न परावृत्तं न तवास्बीति #}
+{# वादिनम् ॥,#} M. vii. 91-3. </div><div n="I">VI Of the year:</div>
+<div n="1">(1) {#त्रिमासम्;#} </div><div n="1">(2) {#मासत्रयम्।#} </div><div n="I">VII Of the
+moon's period: expr. by {#शुक्ल-#} and {#कृष्णस्पक्षः#}
+(light, dark fortnight), </div><div n="I">VIII Of an ani-
+-mal: no equiv.: {#पादः#} may be used. Ph.:
+<div n="xe">{%at close q. s.:%}</div> <div n="xs">{#मिथः प्रत्यासन्न#}</div> (f. {#न्ना#}), M. n.;
+<div n="xe">{%came to close q.s.:%}</div> <div n="xs">{#बाहूबाहवि व्यासृजेताम्#}</div> (lit.
+engaged arm to arm), Si. xviii. 12.</div>
 <LEND>

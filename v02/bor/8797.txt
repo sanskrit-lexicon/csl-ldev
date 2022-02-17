@@ -1,11 +1,11 @@
 <L>8797<pc>279<k1>fire<k2>fire
-<div n="lb"/>{@FIRE,@}¦ {@TO SET ON:@} <div n="1">(1) {#दाहयति#} (c. of {#दह्#}) (=
-<div n="lb"/>cause to burn), <div n="xe">{%set the house on f.:%}</div> <div n="xs">{#दाहितं गृहम्,#}</div>
-<div n="lb"/>Mu. ii.; </div><div n="1">(2) {#दीपयति, आ-,#} (c. of {#दीप्#}) (= to
-<div n="lb"/>light: q.v.) Ram.; </div><div n="1">(3) by circumlo, <div n="xe">{%set the%}
-<div n="lb"/>{%house of Rāvaṇa on f.:%}</div> <div n="xs">{#ज्वलदग्नि रावणगृहं कृतवान्,#}</div>
-<div n="lb"/>B. x. 2.; </div><div n="1">(4) {#अग्निं मुञ्चति#} ({#मुच्,#} c. 6.), {#विसृजति#}
-<div n="lb"/>({#सृज्,#} c. 6.) (= to put f.), <div n="xe">{%and setting the%}
-<div n="lb"/>{%houses of Rākṣasas on f.:%}</div> <div n="xs">{#विसृज्य रक्षोभवनेषु #}
-<div n="lb"/>{# चाग्निम्,#}</div> Ram. v. 50. 21.</div>
+{@FIRE,@}¦ {@TO SET ON:@} <div n="1">(1) {#दाहयति#} (c. of {#दह्#}) (=
+cause to burn), <div n="xe">{%set the house on f.:%}</div> <div n="xs">{#दाहितं गृहम्,#}</div>
+Mu. ii.; </div><div n="1">(2) {#दीपयति, आ-,#} (c. of {#दीप्#}) (= to
+light: q.v.) Ram.; </div><div n="1">(3) by circumlo, <div n="xe">{%set the%}
+{%house of Rāvaṇa on f.:%}</div> <div n="xs">{#ज्वलदग्नि रावणगृहं कृतवान्,#}</div>
+B. x. 2.; </div><div n="1">(4) {#अग्निं मुञ्चति#} ({#मुच्,#} c. 6.), {#विसृजति#}
+({#सृज्,#} c. 6.) (= to put f.), <div n="xe">{%and setting the%}
+{%houses of Rākṣasas on f.:%}</div> <div n="xs">{#विसृज्य रक्षोभवनेषु #}
+{# चाग्निम्,#}</div> Ram. v. 50. 21.</div>
 <LEND>

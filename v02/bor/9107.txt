@@ -1,5 +1,5 @@
 <L>9107<pc>288<k1>font<k2>font
-<div n="lb"/>{@FONT:@}¦ <div n="I">I A fountain: q.v. </div><div n="I">II A basin:
-<div n="lb"/>{#कुण्डम्#} (?). </div><div n="I">III Of types: {#*मुद्राक्षरमाला; मुद्राक्षर-#}
-<div n="lb"/>{#जातम्।#}</div>
+{@FONT:@}¦ <div n="I">I A fountain: q.v. </div><div n="I">II A basin:
+{#कुण्डम्#} (?). </div><div n="I">III Of types: {#*मुद्राक्षरमाला; मुद्राक्षर-#}
+{#जातम्।#}</div>
 <LEND>

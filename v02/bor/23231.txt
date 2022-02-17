@@ -1,4 +1,4 @@
 <L>23231<pc>730<k1>underline<k2>underline
-<div n="lb"/>{@UNDERLINE:@}¦ {#अधो रेखयति#} (nomi.) <div n="xe">{%or%}</div> <div n="xs">{#रेखया अङ्कयति#}</div>
-<div n="lb"/>({#अङ्क्,#} c. 10.).
+{@UNDERLINE:@}¦ {#अधो रेखयति#} (nomi.) <div n="xe">{%or%}</div> <div n="xs">{#रेखया अङ्कयति#}</div>
+({#अङ्क्,#} c. 10.).
 <LEND>

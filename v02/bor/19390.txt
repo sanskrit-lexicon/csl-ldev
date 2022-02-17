@@ -1,5 +1,5 @@
 <L>19390<pc>602<k1>rising<k2>rising
-<div n="lb"/>{@RISING:@}¦ <div n="I">I Adj.: expr. by pres. part.: v.
-<div n="lb"/>To rise. </div><div n="I">II Subs.: v. Rise. Ph.: <div n="xe">{%popular%}
-<div n="lb"/>{%r.:%}</div> <div n="xs">{#प्रजासंक्षोभः:#}</div> v. Tumult.</div>
+{@RISING:@}¦ <div n="I">I Adj.: expr. by pres. part.: v.
+To rise. </div><div n="I">II Subs.: v. Rise. Ph.: <div n="xe">{%popular%}
+{%r.:%}</div> <div n="xs">{#प्रजासंक्षोभः:#}</div> v. Tumult.</div>
 <LEND>

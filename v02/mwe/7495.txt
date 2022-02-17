@@ -1,6 +1,6 @@
 <L>7495<pc>170-b<k1>department<k2>department
-<div n="lb"/>DEPARTMENT¦, {%s.%} (Allotment, division) {#विभागः, प्रविभागः, परिच्छेदः,#}
-<div n="lb"/>{#विच्छेदः, भागः#}. — (Division of science, literature, &c.) {#देशः,#}
-<div n="lb"/>{#अङ्गं, विषयः, प्रकरणं#}. — (Office, business) {#अधिकारः, नियोगः,#}
-<div n="lb"/>{#कर्म्म#} {%n.%} ({#न्#}). — (Province) {#देशः, विषयः, मण्डलं, ग्रामशतं#}.
+DEPARTMENT¦, {%s.%} (Allotment, division) {#विभागः, प्रविभागः, परिच्छेदः,#}
+{#विच्छेदः, भागः#}. — (Division of science, literature, &c.) {#देशः,#}
+{#अङ्गं, विषयः, प्रकरणं#}. — (Office, business) {#अधिकारः, नियोगः,#}
+{#कर्म्म#} {%n.%} ({#न्#}). — (Province) {#देशः, विषयः, मण्डलं, ग्रामशतं#}.
 <LEND>

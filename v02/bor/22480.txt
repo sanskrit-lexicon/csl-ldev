@@ -1,12 +1,12 @@
 <L>22480<pc>709<k1>thousand<k2>thousand
-<div n="lb"/>{@THOUSAND:@}¦ <div n="1">(1) {#सहस्रम्,#} <div n="xe">{%not less than four t.%}
-<div n="lb"/>{%verses:%}</div> <div n="xs">{#अन्यूनचत्वारि श्लोकसहस्राणि,#}</div> V. m. 107.
-<div n="lb"/>11.; <div n="xe">{%two t.:%}</div> <div n="xs">{#द्वे सहस्रे;#}</div> <div n="xe">{%ten t.:%}</div> <div n="xs">{#दश सहस्राणि;#}</div>
-<div n="lb"/><div n="xe">{%t. arms:%}</div> <div n="xs">{#दोष्णां सहस्रम्,#}</div> Mah.; </div><div n="1">(2) {#दशशतम्#} ({#ती#})
-<div n="lb"/>(rare). <div n="xe">{%T. times:%}</div> <div n="xs">{#सहस्रकृत्वः;#}</div> {%t.s of times:%}
-<div n="lb"/>{#सहस्रशः;#} <div n="xe">{%in t. ways or parts:%}</div> <div n="xs">{#सहस्रधा;#}</div> {%ten t.:%}
-<div n="lb"/>{#अयुतम्;#} <div n="xe">{%hundred t.:%}</div> <div n="xs">{#लक्षम्;#}</div> {%the t.-eyed (Indra):%}
-<div n="lb"/>{#सहस्राक्षः;#} <div n="xe">{%the t.-armed (Arjuna):%}</div> <div n="xs">{#सहस्रबाहुः;#}</div> <div n="xe">{%the%}
-<div n="lb"/>{%t.-rayed (sun):%}</div> <div n="xs">{#सहस्रांशुः;#}</div> {%the t.-headed (sun):%}
-<div n="lb"/>{#सहस्रशीर्षः।#}</div>
+{@THOUSAND:@}¦ <div n="1">(1) {#सहस्रम्,#} <div n="xe">{%not less than four t.%}
+{%verses:%}</div> <div n="xs">{#अन्यूनचत्वारि श्लोकसहस्राणि,#}</div> V. m. 107.
+11.; <div n="xe">{%two t.:%}</div> <div n="xs">{#द्वे सहस्रे;#}</div> <div n="xe">{%ten t.:%}</div> <div n="xs">{#दश सहस्राणि;#}</div>
+<div n="xe">{%t. arms:%}</div> <div n="xs">{#दोष्णां सहस्रम्,#}</div> Mah.; </div><div n="1">(2) {#दशशतम्#} ({#ती#})
+(rare). <div n="xe">{%T. times:%}</div> <div n="xs">{#सहस्रकृत्वः;#}</div> {%t.s of times:%}
+{#सहस्रशः;#} <div n="xe">{%in t. ways or parts:%}</div> <div n="xs">{#सहस्रधा;#}</div> {%ten t.:%}
+{#अयुतम्;#} <div n="xe">{%hundred t.:%}</div> <div n="xs">{#लक्षम्;#}</div> {%the t.-eyed (Indra):%}
+{#सहस्राक्षः;#} <div n="xe">{%the t.-armed (Arjuna):%}</div> <div n="xs">{#सहस्रबाहुः;#}</div> <div n="xe">{%the%}
+{%t.-rayed (sun):%}</div> <div n="xs">{#सहस्रांशुः;#}</div> {%the t.-headed (sun):%}
+{#सहस्रशीर्षः।#}</div>
 <LEND>

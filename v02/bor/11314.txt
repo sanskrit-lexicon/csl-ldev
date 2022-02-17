@@ -1,9 +1,9 @@
 <L>11314<pc>355<k1>humble<k2>humble
-<div n="lb"/>{@HUMBLE@}¦ (adj.): <div n="I">I Low, mean: q.v.: {#नीचः#}
-<div n="lb"/>({#चा, चं#}). </div><div n="I">II Small, modest: {#क्षुद्र#} (f. {#द्रा#}).
-<div n="lb"/>Ph.: {%and where%} ({%my%}) <div n="xe">{%h. intellect:%}</div> <div n="xs">{#क्व चाल्पविषया #}
-<div n="lb"/>{# मतिः,#}</div> R. i. 2. </div><div n="I">III Meek, not proud: </div><div n="1">(1)
-<div n="lb"/>{#नम्र#} (f. {#म्रा#}), {#अव-;#} </div><div n="1">(2) {#निरभिमानः#} ({#ना, नं#}) and
-<div n="lb"/>sim. comp.s.: v. Proud, not. Ph.: {%to eat h.%}
-<div n="lb"/>{%pie%} ({%fig.:%}) {#अपमानं पुरस्करोति, मानं पृष्ठे करोति,#} J.</div>
+{@HUMBLE@}¦ (adj.): <div n="I">I Low, mean: q.v.: {#नीचः#}
+({#चा, चं#}). </div><div n="I">II Small, modest: {#क्षुद्र#} (f. {#द्रा#}).
+Ph.: {%and where%} ({%my%}) <div n="xe">{%h. intellect:%}</div> <div n="xs">{#क्व चाल्पविषया #}
+{# मतिः,#}</div> R. i. 2. </div><div n="I">III Meek, not proud: </div><div n="1">(1)
+{#नम्र#} (f. {#म्रा#}), {#अव-;#} </div><div n="1">(2) {#निरभिमानः#} ({#ना, नं#}) and
+sim. comp.s.: v. Proud, not. Ph.: {%to eat h.%}
+{%pie%} ({%fig.:%}) {#अपमानं पुरस्करोति, मानं पृष्ठे करोति,#} J.</div>
 <LEND>

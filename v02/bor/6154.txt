@@ -1,5 +1,5 @@
 <L>6154<pc>198<k1>digestive<k2>digestive
-<div n="lb"/>{@DIGESTIVE:@}¦ i. e. causing to digest: {#पाचनः#}
-<div n="lb"/>({#नी, नं#}), Sr. Ph.: <div n="xe">{%d. organ:%}</div> <div n="xs">{#*पाकेन्द्रियम्, #}
-<div n="lb"/>{# पक्वाशयः।#}</div> {%D. power:%} v. Digestion (III).
+{@DIGESTIVE:@}¦ i. e. causing to digest: {#पाचनः#}
+({#नी, नं#}), Sr. Ph.: <div n="xe">{%d. organ:%}</div> <div n="xs">{#*पाकेन्द्रियम्, #}
+{# पक्वाशयः।#}</div> {%D. power:%} v. Digestion (III).
 <LEND>

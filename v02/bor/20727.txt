@@ -1,7 +1,7 @@
 <L>20727<pc>651<k1>sleepless<k2>sleepless
-<div n="lb"/>{@SLEEPLESS:@}¦ <div n="1">(1) {#नष्टनिद्र#} (f. {#द्रा#}), and sim.
-<div n="lb"/>comp.s, <div n="xe">{%passed the night s. ly:%}</div> <div n="xs">{#उत्सन्ननिद्रा क्षपां #}
-<div n="lb"/>{# क्षपितवती,#}</div> K.; </div><div n="1">(2) {#निर्निद्र#} (f. {#द्रा;#} rare). N.B.
-<div n="lb"/>{#विनिद्र#} and {#उन्निन्द्र#} are commonly applied to
-<div n="lb"/>{%awaking after sleep.%}</div>
+{@SLEEPLESS:@}¦ <div n="1">(1) {#नष्टनिद्र#} (f. {#द्रा#}), and sim.
+comp.s, <div n="xe">{%passed the night s. ly:%}</div> <div n="xs">{#उत्सन्ननिद्रा क्षपां #}
+{# क्षपितवती,#}</div> K.; </div><div n="1">(2) {#निर्निद्र#} (f. {#द्रा;#} rare). N.B.
+{#विनिद्र#} and {#उन्निन्द्र#} are commonly applied to
+{%awaking after sleep.%}</div>
 <LEND>

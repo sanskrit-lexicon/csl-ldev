@@ -1,4 +1,4 @@
 <L>15537<pc>476<k1>notation<k2>notation
-<div n="lb"/>{@NOTATION:@}¦ {#अङ्कप्रणाली#} (?). <div n="xe">{%Musical n.:%}</div> <div n="xs">{#प्रस्तरः,#}</div>
-<div n="lb"/>Wilson.
+{@NOTATION:@}¦ {#अङ्कप्रणाली#} (?). <div n="xe">{%Musical n.:%}</div> <div n="xs">{#प्रस्तरः,#}</div>
+Wilson.
 <LEND>

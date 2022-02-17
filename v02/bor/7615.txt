@@ -1,5 +1,5 @@
 <L>7615<pc>240<k1>enjoyment<k2>enjoyment
-<div n="lb"/>{@ENJOYMENT:@}¦ {#भोगः, उप-, सं-, परि-,#} <div n="xe">{%the desire of e.%}
-<div n="lb"/>{%is over:%}</div> <div n="xs">{#निवृत्ता भोगेच्छा,#}</div> J.; <div n="xe">{%what an e. in those%}
-<div n="lb"/>{%places:%}</div> <div n="xs">{#स सम्भोगो यस्तादृशेषु प्रदेशेषु,#}</div> V.
+{@ENJOYMENT:@}¦ {#भोगः, उप-, सं-, परि-,#} <div n="xe">{%the desire of e.%}
+{%is over:%}</div> <div n="xs">{#निवृत्ता भोगेच्छा,#}</div> J.; <div n="xe">{%what an e. in those%}
+{%places:%}</div> <div n="xs">{#स सम्भोगो यस्तादृशेषु प्रदेशेषु,#}</div> V.
 <LEND>

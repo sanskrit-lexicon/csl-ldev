@@ -1,9 +1,9 @@
 <L>13474<pc>414<k1>level<k2>level
-<div n="lb"/>{@LEVEL@}¦ (subs.): <div n="I">I Even surface: {#समभूमिः।#}
-<div n="lb"/>Ph.: <div n="xe">{%water always finds its own l.:%}</div> <div n="xs">{#*जलं सर्वत्र #}
-<div n="lb"/>{# समं तिष्ठति।#}</div> </div><div n="I">II Equality: q. v.: {#समता।#} Ph.: [Page415]
-<div n="lb"/><div n="xe">{%on a l. with:%}</div> <div n="xs">{#समः#}</div> ({#मा, मं#}): v. Equal; <div n="xe">{%to rise%}
-<div n="lb"/>{%above the l. of:%}</div> <div n="xs">{#अतिवर्तते#}</div> ({#वृत्,#} c. 1.). </div><div n="I">III Ins-
-<div n="lb"/>-trument for taking l.: {#सूत्रम्#} (?), Williams.</div>
-<div n="lb"/><div n="I">IV Plan. scheme: q. v.</div>
+{@LEVEL@}¦ (subs.): <div n="I">I Even surface: {#समभूमिः।#}
+Ph.: <div n="xe">{%water always finds its own l.:%}</div> <div n="xs">{#*जलं सर्वत्र #}
+{# समं तिष्ठति।#}</div> </div><div n="I">II Equality: q. v.: {#समता।#} Ph.: [Page415]
+<div n="xe">{%on a l. with:%}</div> <div n="xs">{#समः#}</div> ({#मा, मं#}): v. Equal; <div n="xe">{%to rise%}
+{%above the l. of:%}</div> <div n="xs">{#अतिवर्तते#}</div> ({#वृत्,#} c. 1.). </div><div n="I">III Ins-
+-trument for taking l.: {#सूत्रम्#} (?), Williams.</div>
+<div n="I">IV Plan. scheme: q. v.</div>
 <LEND>

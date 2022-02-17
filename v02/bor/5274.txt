@@ -1,7 +1,7 @@
 <L>5274<pc>169<k1>currency<k2>currency
-<div n="lb"/>{@CURRENCY:@}¦ <div n="I">I Circulation: q. v. Ph.: {%to%}
-<div n="lb"/>{%gain c.%} (i. e. to be current) {#प्रचलितः#} ({#ता, तं#})
-<div n="lb"/>{#भवति।#} </div><div n="I">II Estimation: q. v. </div><div n="I">III The
-<div n="lb"/>current coin: {#प्रचलित मुद्रा#} (?), <div n="xe">{%we have a paper%}
-<div n="lb"/>{%c. here:%}</div> <div n="xs">{#*अत्र कागजमुद्रा प्रचलिता।#}</div></div>
+{@CURRENCY:@}¦ <div n="I">I Circulation: q. v. Ph.: {%to%}
+{%gain c.%} (i. e. to be current) {#प्रचलितः#} ({#ता, तं#})
+{#भवति।#} </div><div n="I">II Estimation: q. v. </div><div n="I">III The
+current coin: {#प्रचलित मुद्रा#} (?), <div n="xe">{%we have a paper%}
+{%c. here:%}</div> <div n="xs">{#*अत्र कागजमुद्रा प्रचलिता।#}</div></div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>21578<pc>679<k1>strain<k2>strain
-<div n="lb"/>{@STRAIN@}¦ (v. t.): <div n="I">I In gen.: {#आयासयति#} (c. of
-<div n="lb"/>{#यस्#}): v. Also to stretch; <div n="xe">{%why have I s. ed%}
-<div n="lb"/>{%myself for nothing:%}</div> <div n="xs">{#किमिति निरर्थकमात्मा मयाया-#}
-<div n="lb"/>{#सितः,#}</div> K. </div><div n="I">II To filter: </div><div n="1">(1) {#गालयति,#} (c. of
-<div n="lb"/>{#गल्#}), <div n="xe">{%s. ed through cloth:%}</div> <div n="xs">{#वस्त्रगालित#}</div> (f. {#ता#}),
-<div n="lb"/>Bha.; </div><div n="1">(2) {#स्रावयति#} (c. of {#स्रु#}), <div n="xe">{%to s. through%}
-<div n="lb"/>{%cloth:%}</div> <div n="xs">{#स्रावयेत् पटात्,#}</div> Bha.</div>
+{@STRAIN@}¦ (v. t.): <div n="I">I In gen.: {#आयासयति#} (c. of
+{#यस्#}): v. Also to stretch; <div n="xe">{%why have I s. ed%}
+{%myself for nothing:%}</div> <div n="xs">{#किमिति निरर्थकमात्मा मयाया-#}
+{#सितः,#}</div> K. </div><div n="I">II To filter: </div><div n="1">(1) {#गालयति,#} (c. of
+{#गल्#}), <div n="xe">{%s. ed through cloth:%}</div> <div n="xs">{#वस्त्रगालित#}</div> (f. {#ता#}),
+Bha.; </div><div n="1">(2) {#स्रावयति#} (c. of {#स्रु#}), <div n="xe">{%to s. through%}
+{%cloth:%}</div> <div n="xs">{#स्रावयेत् पटात्,#}</div> Bha.</div>
 <LEND>

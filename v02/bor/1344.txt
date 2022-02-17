@@ -1,5 +1,5 @@
 <L>1344<pc>048<k1>attitude<k2>attitude
-<div n="lb"/>{@ATTITUDE:@}¦ v. Posture, position. Ph. <div n="xe">{%Russia%}
-<div n="lb"/>{%has assumed a threatening a. towards Persia%}</div>
-<div n="lb"/><div n="xs">{#*पारस्यराज्यं प्रति रुसियैर्विरुद्धवृत्तिः कक्षीकृता।#}</div>
+{@ATTITUDE:@}¦ v. Posture, position. Ph. <div n="xe">{%Russia%}
+{%has assumed a threatening a. towards Persia%}</div>
+<div n="xs">{#*पारस्यराज्यं प्रति रुसियैर्विरुद्धवृत्तिः कक्षीकृता।#}</div>
 <LEND>

@@ -1,19 +1,19 @@
 <L>4092<pc>302-2<k1>गौतमी<k2>गौतमी<h>4
-{@Gautamī@}<sup>4</sup>,¦ a river. § 775 (Ānuśāsanik.): XIII, {@166<lang n="greek"></lang>,@} 7647.
+{@Gautamī@}<sup>4</sup>,¦ a river. § 775 (Ānuśāsanik.): XIII, {@166@}<lang n="greek">α</lang>, 7647.
 <div n="HI">[{@Gautamī-lubdhaka-vyāla-Mṛtyu-Kāla-saṃ-@}
-<div n="lb">{@vāda(ḥ)@}]¦ (“the conversation between Gautamī, the fowler,
-<div n="lb">the serpent, Death, and Time”). § 719{%b%} (Ānuśāsanik.):
-<div n="lb">{%Bhīṣma%} said: An old brahman lady named {%Gautamī%} found
-<div n="lb">her son dead, bitten by a serpent; an angry fowler, {%Arjunaka,%}
-<div n="lb">bound the serpent with a string and brought it before
-<div n="lb">{%Gautamī;%} she told him to release it, as {%brahmans%} do not
-<div n="lb">harbour resentment, and there is no good in tormenting and
-<div n="lb">killing an enemy; the fowler mentioned how {%Indra%} killed
-<div n="lb">{%Vṛtra%} and {%Mahādeva%} destroyed a sacrifice. The serpent said
-<div n="lb">that {%Mṛtyu%} had sent him on this errand. {%Mṛtyu%} (masc.)
-<div n="lb">appeared and said that {%Kāla%} (Time) was the real promoter;
-<div n="lb">{%Sūrya,%} etc. (<lang n="greek"></lang>) are created and destroyed by {%Kāla. Kāla%}
-<div n="lb">came and said that it was the child's {%karman%} (deeds in the
-<div n="lb">past) that was the cause; this was approved of by {%Gautamī%}
-<div n="lb">and the fowler.
+{@vāda(ḥ)@}]¦ (“the conversation between Gautamī, the fowler,
+the serpent, Death, and Time”). § 719{%b%} (Ānuśāsanik.):
+{%Bhīṣma%} said: An old brahman lady named {%Gautamī%} found
+her son dead, bitten by a serpent; an angry fowler, {%Arjunaka%},
+bound the serpent with a string and brought it before
+{%Gautamī%}; she told him to release it, as {%brahmans%} do not
+harbour resentment, and there is no good in tormenting and
+killing an enemy; the fowler mentioned how {%Indra%} killed
+{%Vṛtra%} and {%Mahādeva%} destroyed a sacrifice. The serpent said
+that {%Mṛtyu%} had sent him on this errand. {%Mṛtyu%} (masc.)
+appeared and said that {%Kāla%} (Time) was the real promoter;
+{%Sūrya%}, etc. (<lang n="greek">α</lang>) are created and destroyed by {%Kāla. Kāla%}
+came and said that it was the child's {%karman%} (deeds in the
+past) that was the cause; this was approved of by {%Gautamī%}
+and the fowler.
 <LEND>

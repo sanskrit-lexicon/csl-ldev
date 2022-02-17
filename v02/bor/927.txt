@@ -1,18 +1,18 @@
 <L>927<pc>032<k1>appear<k2>appear
-<div n="lb"/>{@APPEAR@}¦ (v. i.): <div n="I">I To be visible: </div><div n="1">(1) {#आविर्भवति#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#प्रादुर्भवति,#}</div> <div n="xe">{%a herd of deer a. ed%}</div> <div n="xs">{#मृगाणां यूथमाविर्बभूव,#}</div>
-<div n="lb"/>R. ix. 55.; </div><div n="1">(2) {#प्रादुरस्ति#} ({#अस्,#} c. 1.) <ls>R.</ls> xi.
-<div n="lb"/>63.; </div><div n="1">(3) {#दृश्यते, अथि-, प्रति-,#} (pass. of {#दृश्#})
-<div n="lb"/>(=to be seen) not restricted to real life as</div>
-<div n="lb"/><div n="1">(1) and (2).; <div n="xe">{%a swan a. ed in their dream%}</div> <div n="xs">{#तयोः #}
-<div n="lb"/>{# स्वप्ने कश्चिज्जालपादः प्रत्यदृश्यत,#}</div> <ls>D.</ls> i. </div><div n="I">II To
-<div n="lb"/>show one's self: Ph. <div n="xe">{%she does not a. before%}
-<div n="lb"/>{%me%}</div> <div n="xs">{#सा मत्समक्षं नागच्छति#}</div> (not {#दर्शनं ददाति,#} see
-<div n="lb"/>R. xix. 7.). </div><div n="I">III To be out: {#निर्गच्छति,#} <div n="xe">{%an%}
-<div n="lb"/>{%article a. ed in the Induprakāsha about so and%}
-<div n="lb"/>{%so%}</div> <div n="xs">{#*अमुकविषयकः प्रबन्ध इन्दुप्रकाशपत्रिकायां निर्गतः।#}</div></div>
-<div n="lb"/><div n="I">IV Leg. t. t: to be present: </div><div n="1">(1) {#उपतिष्ठति#}
-<div n="lb"/>({#स्था,#} c. 1.); </div><div n="1">(2) Perh. {#दर्शनं ददाति।#} V. To
-<div n="lb"/>seem: q. v. {#प्रतिभाति#} ({#भा,#} c. 2.). </div><div n="I">VI To be
-<div n="lb"/>evident or clear: q. v.</div>
+{@APPEAR@}¦ (v. i.): <div n="I">I To be visible: </div><div n="1">(1) {#आविर्भवति#}
+<div n="xe">{%or%}</div> <div n="xs">{#प्रादुर्भवति,#}</div> <div n="xe">{%a herd of deer a. ed%}</div> <div n="xs">{#मृगाणां यूथमाविर्बभूव,#}</div>
+R. ix. 55.; </div><div n="1">(2) {#प्रादुरस्ति#} ({#अस्,#} c. 1.) <ls>R.</ls> xi.
+63.; </div><div n="1">(3) {#दृश्यते, अथि-, प्रति-,#} (pass. of {#दृश्#})
+(=to be seen) not restricted to real life as</div>
+<div n="1">(1) and (2).; <div n="xe">{%a swan a. ed in their dream%}</div> <div n="xs">{#तयोः #}
+{# स्वप्ने कश्चिज्जालपादः प्रत्यदृश्यत,#}</div> <ls>D.</ls> i. </div><div n="I">II To
+show one's self: Ph. <div n="xe">{%she does not a. before%}
+{%me%}</div> <div n="xs">{#सा मत्समक्षं नागच्छति#}</div> (not {#दर्शनं ददाति,#} see
+R. xix. 7.). </div><div n="I">III To be out: {#निर्गच्छति,#} <div n="xe">{%an%}
+{%article a. ed in the Induprakāsha about so and%}
+{%so%}</div> <div n="xs">{#*अमुकविषयकः प्रबन्ध इन्दुप्रकाशपत्रिकायां निर्गतः।#}</div></div>
+<div n="I">IV Leg. t. t: to be present: </div><div n="1">(1) {#उपतिष्ठति#}
+({#स्था,#} c. 1.); </div><div n="1">(2) Perh. {#दर्शनं ददाति।#} V. To
+seem: q. v. {#प्रतिभाति#} ({#भा,#} c. 2.). </div><div n="I">VI To be
+evident or clear: q. v.</div>
 <LEND>

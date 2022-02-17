@@ -1,7 +1,7 @@
 <L>20995<pc>660<k1>somewhere<k2>somewhere
-<div n="lb"/>{@SOMEWHERE:@}¦ <div n="I">I In or to some place: </div><div n="1">(1)
-<div n="lb"/>{#क्वापि,#} <div n="xe">{%s. else:%}</div> <div n="xs">{#अन्यत्र क्वापि,#}</div> Ra.; </div><div n="1">(2) {#कुत्रापि;#}</div>
-<div n="lb"/><div n="1">(3) {#क्वचित्, -अपि;#} </div><div n="1">(4) {#कुत्रचित्, -अपि।#} </div><div n="I">II From
-<div n="lb"/>s.: {#कुतश्चित्#} <div n="xe">{%or%}</div> <div n="xs">{#कुतोऽपि;#}</div> <div n="xe">{%from s. else:%}</div> <div n="xs">{#अन्यतः #}
-<div n="lb"/>{# कुतश्चित्।#}</div></div>
+{@SOMEWHERE:@}¦ <div n="I">I In or to some place: </div><div n="1">(1)
+{#क्वापि,#} <div n="xe">{%s. else:%}</div> <div n="xs">{#अन्यत्र क्वापि,#}</div> Ra.; </div><div n="1">(2) {#कुत्रापि;#}</div>
+<div n="1">(3) {#क्वचित्, -अपि;#} </div><div n="1">(4) {#कुत्रचित्, -अपि।#} </div><div n="I">II From
+s.: {#कुतश्चित्#} <div n="xe">{%or%}</div> <div n="xs">{#कुतोऽपि;#}</div> <div n="xe">{%from s. else:%}</div> <div n="xs">{#अन्यतः #}
+{# कुतश्चित्।#}</div></div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>1902<pc>066<k1>bench<k2>bench
-<div n="lb"/>{@BENCH@}¦ <div n="I">I A seat: no equiv.: {#पीठः; पट्टः; फलकः,#}
-<div n="lb"/>etc. may be used. </div><div n="I">II The seat of justice:</div>
-<div n="lb"/><div n="1">(1) {#धर्मासनम्#} (the personal seat); </div><div n="1">(2) {#अधिकरण-#}
-<div n="lb"/>{#मण्डपः,#} Mr. ix.; </div><div n="1">(3) {#व्यवहारमण्डपः,#} Mr. ix.</div>
+{@BENCH@}¦ <div n="I">I A seat: no equiv.: {#पीठः; पट्टः; फलकः,#}
+etc. may be used. </div><div n="I">II The seat of justice:</div>
+<div n="1">(1) {#धर्मासनम्#} (the personal seat); </div><div n="1">(2) {#अधिकरण-#}
+{#मण्डपः,#} Mr. ix.; </div><div n="1">(3) {#व्यवहारमण्डपः,#} Mr. ix.</div>
 <LEND>

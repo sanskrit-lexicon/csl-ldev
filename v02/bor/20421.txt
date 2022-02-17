@@ -1,23 +1,23 @@
 <L>20421<pc>639<k1>short<k2>short
-<div n="lb"/>{@SHORT:@}¦ <div n="I">I In size: </div><div n="1">(1) {#हस्व#} (f. {#स्वा#}): <div n="xe">{%very s.%}
-<div n="lb"/>{%and having a s. face:%}</div> <div n="xs">{#खर्वटास्योऽतिह्रस्वकः,#}</div> V.
-<div n="lb"/>p. 1. 13. 34; <div n="xe">{%s. tree:%}</div> <div n="xs">{#ह्नस्वो वृक्षः;#}</div> <div n="xe">{%s. hovel:%}</div> <div n="xs">{#ह्नस्वा #}
-<div n="lb"/>{# कुटी,#}</div> Kāśikā:; </div><div n="1">(2) {#खर्व#} (f. {#र्वा#}), <div n="xe">{%having a s.%}
-<div n="lb"/>{%stature:%}</div> <div n="xs">{#खर्वाकृति#}</div> (mfn.); <div n="xe">{%like a s. man:%}</div> <div n="xs">{#खर्व #}
-<div n="lb"/>{# इव,#}</div> Mu.; </div><div n="1">(3) {#वामन#} (f. {#नी#}): v. Dwarfish.</div>
-<div n="lb"/><div n="I">II Of time etc.: q. v.: {#अल्प#} (f. {#ल्पा#}), {#सु-,:#}
-<div n="lb"/>v. Little. Ph.: <div n="xe">{%in a s. time:%}</div> <div n="xs">{#अचिरेण:#}</div> v. Soon;
-<div n="lb"/><div n="xe">{%for a s. time:%}</div> <div n="xs">{#कञ्चित् कालम्, कियत्कालम्,#}</div> etc.;
-<div n="lb"/><div n="xe">{%and the nights are very s.:%}</div> <div n="xs">{#अत्यर्थमेव क्षणदा #}
-<div n="lb"/>{# च तन्वी#}</div> ({#कृशा,#} M. n.), R. xvi. 45.; <div n="xe">{%to%}
-<div n="lb"/>{%become s.:%}</div> <div n="xs">{#तनुतां याति,#}</div> R. ix. 38. </div><div n="I">III
-<div n="lb"/>Brief: q. v.: {#संक्षिप्त#} (f. {#प्ता#}). Ph.: <div n="xe">{%in s.:%}</div> <div n="xs">{#किं #}
-<div n="lb"/>{# बहुना, समासेन।#}</div> </div><div n="I">IV Insufficient: q. v.: {#न्यून#}
-<div n="lb"/>(f. {#ना#}). Ph.: <div n="xe">{%to fall s. off:%}</div> <div n="xs">{#हीयते, परि-#}</div> (Pass.
-<div n="lb"/>of {#हा#} with inst.: v. To want). </div><div n="I">V = less
-<div n="lb"/>than: <div n="xe">{%nothing s. of his death:%}</div> <div n="xs">{#विना तस्य मरणेन;:#}</div>
-<div n="lb"/>v. Without, except. </div><div n="I">VI In gram.: </div><div n="1">(1)
-<div n="lb"/>{#ह्नस्व#} (f. {#स्वा:#} of vowels); </div><div n="1">(2) {#लघु#} (f. also {#घ्वी:#}
-<div n="lb"/>of quantities). Ph.: (a) <div n="xe">{%s. cut:%}</div> <div n="xs">{#सरलः पन्थाः;#}</div>
-<div n="lb"/>(b) <div n="xe">{%to cut s.;%}</div> <div n="xs">{#आक्षिपति#}</div> ({#क्षिप्,#} c. 6.), K.</div>
+{@SHORT:@}¦ <div n="I">I In size: </div><div n="1">(1) {#हस्व#} (f. {#स्वा#}): <div n="xe">{%very s.%}
+{%and having a s. face:%}</div> <div n="xs">{#खर्वटास्योऽतिह्रस्वकः,#}</div> V.
+p. 1. 13. 34; <div n="xe">{%s. tree:%}</div> <div n="xs">{#ह्नस्वो वृक्षः;#}</div> <div n="xe">{%s. hovel:%}</div> <div n="xs">{#ह्नस्वा #}
+{# कुटी,#}</div> Kāśikā:; </div><div n="1">(2) {#खर्व#} (f. {#र्वा#}), <div n="xe">{%having a s.%}
+{%stature:%}</div> <div n="xs">{#खर्वाकृति#}</div> (mfn.); <div n="xe">{%like a s. man:%}</div> <div n="xs">{#खर्व #}
+{# इव,#}</div> Mu.; </div><div n="1">(3) {#वामन#} (f. {#नी#}): v. Dwarfish.</div>
+<div n="I">II Of time etc.: q. v.: {#अल्प#} (f. {#ल्पा#}), {#सु-,:#}
+v. Little. Ph.: <div n="xe">{%in a s. time:%}</div> <div n="xs">{#अचिरेण:#}</div> v. Soon;
+<div n="xe">{%for a s. time:%}</div> <div n="xs">{#कञ्चित् कालम्, कियत्कालम्,#}</div> etc.;
+<div n="xe">{%and the nights are very s.:%}</div> <div n="xs">{#अत्यर्थमेव क्षणदा #}
+{# च तन्वी#}</div> ({#कृशा,#} M. n.), R. xvi. 45.; <div n="xe">{%to%}
+{%become s.:%}</div> <div n="xs">{#तनुतां याति,#}</div> R. ix. 38. </div><div n="I">III
+Brief: q. v.: {#संक्षिप्त#} (f. {#प्ता#}). Ph.: <div n="xe">{%in s.:%}</div> <div n="xs">{#किं #}
+{# बहुना, समासेन।#}</div> </div><div n="I">IV Insufficient: q. v.: {#न्यून#}
+(f. {#ना#}). Ph.: <div n="xe">{%to fall s. off:%}</div> <div n="xs">{#हीयते, परि-#}</div> (Pass.
+of {#हा#} with inst.: v. To want). </div><div n="I">V = less
+than: <div n="xe">{%nothing s. of his death:%}</div> <div n="xs">{#विना तस्य मरणेन;:#}</div>
+v. Without, except. </div><div n="I">VI In gram.: </div><div n="1">(1)
+{#ह्नस्व#} (f. {#स्वा:#} of vowels); </div><div n="1">(2) {#लघु#} (f. also {#घ्वी:#}
+of quantities). Ph.: (a) <div n="xe">{%s. cut:%}</div> <div n="xs">{#सरलः पन्थाः;#}</div>
+(b) <div n="xe">{%to cut s.;%}</div> <div n="xs">{#आक्षिपति#}</div> ({#क्षिप्,#} c. 6.), K.</div>
 <LEND>

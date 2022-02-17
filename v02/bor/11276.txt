@@ -1,6 +1,6 @@
 <L>11276<pc>354<k1>hover<k2>hover
-<div n="lb"/>{@HOVER:@}¦ <div n="I">I Lit.: perh. {#परिडीयते#} ({#डी,#} c. 4.).</div>
-<div n="lb"/><div n="I">II Fig., to hang about: {#परितो विसर्पति#}
-<div n="lb"/>({#सृप्,#} c. 1.) (?); {#पर्यवेक्षते#} ({#ईक्ष्,#} c. 1.) (= to
-<div n="lb"/>look about).</div>
+{@HOVER:@}¦ <div n="I">I Lit.: perh. {#परिडीयते#} ({#डी,#} c. 4.).</div>
+<div n="I">II Fig., to hang about: {#परितो विसर्पति#}
+({#सृप्,#} c. 1.) (?); {#पर्यवेक्षते#} ({#ईक्ष्,#} c. 1.) (= to
+look about).</div>
 <LEND>

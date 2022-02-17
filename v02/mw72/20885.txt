@@ -1,21 +1,21 @@
 <L>20885<pc>0373-a<k1>तिज्<k2>तिज्
 {#तिज्#}¦ {%tij,%} cl. 1. P. A., Ved. {%tejati, -te,%}
-<div n="lb"/>Ved. Inf. {%tejase,%} to be or become sharp;
-<div n="lb"/>to sharpen: Caus. P. {%tejayati, -yitum,%} to sharpen,
-<div n="lb"/>whet; to stir up, excite, incite, urge on: Desid. A.
-<div n="lb"/>{%titikṣate,%} to desire to become sharp or firm, to
-<div n="lb"/>resist, oppose, to bear with firmness, suffer with
-<div n="lb"/>courage or patience, endure, bear: Intens. Ved.
-<div n="lb"/>{%tetikte;%} [cf. Zend <nsi>tigh-ra,</nsi> ‘pointed, peaked;’
-<div n="lb"/><nsi>tigh-ri,</nsi> ‘an arrow:’ Gr. <lang n="greek">στίζ-ω, στίγ-μα, στιγ-μή,</lang>
-<div n="lb"/><lang n="greek">στικ-τό-ς:</lang> Lat. <nsi>di-sting-u-o</nsi> (<lang n="greek">δια-στίζω</lang>), <nsi>in-stinc-</nsi>
-<div n="lb"/><nsi>tu-s, in-stīga-re, stĭ-mulu-s</nsi> for <nsi>stig-mulu-s, stĭ-</nsi>
-<div n="lb"/><nsi>lu-s</nsi> for <nsi>stig-lu-s:</nsi> Goth. <nsi>us-stiggan,</nsi> ‘to sting;’
-<div n="lb"/><nsi>tēka,</nsi> ‘to touch;’ <nsi>stiggqvan, stik-s, stak-s:</nsi> Old
-<div n="lb"/>Germ. <nsi>sting-u, stihhu,</nsi> ‘I sting;’ <nsi>stachila,</nsi> ‘a
-<div n="lb"/>prickle;’ <nsi>stihhil,</nsi> ‘a stile:’ Angl. Sax. <nsi>stician,</nsi>
-<div n="lb"/>‘to sting:’ Lith. <nsi>tékinu,</nsi> ‘I whet;’ <nsi>tékélis,</nsi> ‘a large
-<div n="lb"/>whetstone:’ Russ. <nsi>tocù,</nsi> ‘I whet;’ <nsi>tocílo,</nsi> ‘a whet-
-<div n="lb"/>stone:’ Cambro-Brit. <nsi>teg,</nsi> ‘clear, fair, beautiful, pretty,
-<div n="lb"/>bland.’]
+Ved. Inf. {%tejase,%} to be or become sharp;
+to sharpen: Caus. P. {%tejayati, -yitum,%} to sharpen,
+whet; to stir up, excite, incite, urge on: Desid. A.
+{%titikṣate,%} to desire to become sharp or firm, to
+resist, oppose, to bear with firmness, suffer with
+courage or patience, endure, bear: Intens. Ved.
+{%tetikte;%} [cf. Zend <nsi>tigh-ra,</nsi> ‘pointed, peaked;’
+<nsi>tigh-ri,</nsi> ‘an arrow:’ Gr. <lang n="greek">στίζ-ω, στίγ-μα, στιγ-μή,</lang>
+<lang n="greek">στικ-τό-ς:</lang> Lat. <nsi>di-sting-u-o</nsi> (<lang n="greek">δια-στίζω</lang>), <nsi>in-stinc-</nsi>
+<nsi>tu-s, in-stīga-re, stĭ-mulu-s</nsi> for <nsi>stig-mulu-s, stĭ-</nsi>
+<nsi>lu-s</nsi> for <nsi>stig-lu-s:</nsi> Goth. <nsi>us-stiggan,</nsi> ‘to sting;’
+<nsi>tēka,</nsi> ‘to touch;’ <nsi>stiggqvan, stik-s, stak-s:</nsi> Old
+Germ. <nsi>sting-u, stihhu,</nsi> ‘I sting;’ <nsi>stachila,</nsi> ‘a
+prickle;’ <nsi>stihhil,</nsi> ‘a stile:’ Angl. Sax. <nsi>stician,</nsi>
+‘to sting:’ Lith. <nsi>tékinu,</nsi> ‘I whet;’ <nsi>tékélis,</nsi> ‘a large
+whetstone:’ Russ. <nsi>tocù,</nsi> ‘I whet;’ <nsi>tocílo,</nsi> ‘a whet-
+stone:’ Cambro-Brit. <nsi>teg,</nsi> ‘clear, fair, beautiful, pretty,
+bland.’]
 <LEND>

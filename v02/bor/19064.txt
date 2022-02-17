@@ -1,4 +1,4 @@
 <L>19064<pc>590<k1>reproduction<k2>reproduction
-<div n="lb"/>{@REPRODUCTION:@}¦ <div n="1">(1) {#प्रत्युत्पत्तिः;#} </div><div n="1">(2) {#पुनर्मिलनम्;#}
-<div n="lb"/>etc.</div>
+{@REPRODUCTION:@}¦ <div n="1">(1) {#प्रत्युत्पत्तिः;#} </div><div n="1">(2) {#पुनर्मिलनम्;#}
+etc.</div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>18281<pc>561<k1>put on<k2>put on
-<div n="lb"/>{@PUT ON:@}¦ <div n="I">I To wear: </div><div n="1">(1) {#वस्ते#} ({#वस्,#} c. 2.),
-<div n="lb"/><div n="xe">{%for ascetics p. on simply skin and bark:%}</div> <div n="xs">{#तपस्विनो #}
-<div n="lb"/>{# हिवसते केवलाजिनवल्कले,#}</div> Ki. xi. 15.; </div><div n="1">(2) {#परि-#}
-<div n="lb"/>{#दधाति#} {%or%} ({#धा,#} c. 3.); </div><div n="1">(3) {#धारयति#} ({#धृ,#}
-<div n="lb"/>c. 10.); </div><div n="1">(4) {#गृह्णाति, परि-,#} ({#ग्रह्,#} c. 9.); </div><div n="1">(5)
-<div n="lb"/>{#आमुञ्चति,#} ({#मुच्,#} c. 6.), <div n="xe">{%why have you p. on this%}
-<div n="lb"/>{%armour:%}</div> <div n="xs">{#कवचं किमामुक्तमिदं त्वया,#}</div> Ki. xi. 15.:
-<div n="lb"/>v. Also clad in. </div><div n="I">II To assume: q. v.:
-<div n="lb"/>{#धारयति।#} </div><div n="I">III To impute to: {#संक्रामयति#} (c. of
-<div n="lb"/>{#क्रम्#} with loc.). </div><div n="I">IV To impose: {#आसञ्जयति#}
-<div n="lb"/>(c. of {#सञ्ज्#} with loc.). {%P. on the crown of i. e.%}
-<div n="lb"/>to conclude, finish: q. v.</div>
+{@PUT ON:@}¦ <div n="I">I To wear: </div><div n="1">(1) {#वस्ते#} ({#वस्,#} c. 2.),
+<div n="xe">{%for ascetics p. on simply skin and bark:%}</div> <div n="xs">{#तपस्विनो #}
+{# हिवसते केवलाजिनवल्कले,#}</div> Ki. xi. 15.; </div><div n="1">(2) {#परि-#}
+{#दधाति#} {%or%} ({#धा,#} c. 3.); </div><div n="1">(3) {#धारयति#} ({#धृ,#}
+c. 10.); </div><div n="1">(4) {#गृह्णाति, परि-,#} ({#ग्रह्,#} c. 9.); </div><div n="1">(5)
+{#आमुञ्चति,#} ({#मुच्,#} c. 6.), <div n="xe">{%why have you p. on this%}
+{%armour:%}</div> <div n="xs">{#कवचं किमामुक्तमिदं त्वया,#}</div> Ki. xi. 15.:
+v. Also clad in. </div><div n="I">II To assume: q. v.:
+{#धारयति।#} </div><div n="I">III To impute to: {#संक्रामयति#} (c. of
+{#क्रम्#} with loc.). </div><div n="I">IV To impose: {#आसञ्जयति#}
+(c. of {#सञ्ज्#} with loc.). {%P. on the crown of i. e.%}
+to conclude, finish: q. v.</div>
 <LEND>

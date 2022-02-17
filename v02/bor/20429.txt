@@ -1,6 +1,6 @@
 <L>20429<pc>639<k1>shorten<k2>shorten
-<div n="lb"/>{@SHORTEN@}¦ (v. i.): <div n="I">I In size: {#ह्नस्वीभवति,#} etc.</div>
-<div n="lb"/><div n="I">II As nights: </div><div n="1">(1) {#तनुतां याति, गच्छति,#} etc.;</div>
-<div n="lb"/><div n="1">(2) {#क्षीयते#} (pass. of {#क्षि#}), M. n.: v. To
-<div n="lb"/>diminish.</div>
+{@SHORTEN@}¦ (v. i.): <div n="I">I In size: {#ह्नस्वीभवति,#} etc.</div>
+<div n="I">II As nights: </div><div n="1">(1) {#तनुतां याति, गच्छति,#} etc.;</div>
+<div n="1">(2) {#क्षीयते#} (pass. of {#क्षि#}), M. n.: v. To
+diminish.</div>
 <LEND>

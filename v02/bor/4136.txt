@@ -1,12 +1,12 @@
 <L>4136<pc>134<k1>commit<k2>commit
-<div n="lb"/>{@COMMIT@}¦ (v. t.): <div n="I">I To entrust: q. v.: {#अर्पयति#},
-<div n="lb"/>{#सम्-,#} (c. of {#ॠ#}), {%c. these%} ({%prisoners%}) {%to his%}
-<div n="lb"/><div n="xe">{%care:%}</div> <div n="xs">{#तस्मै समर्पयैतान्,#}</div> P. Ph.: {%was c. ted to%}
-<div n="lb"/><div n="xe">{%prison:%}</div> <div n="xs">{#बन्धनमनीयत,#}</div> D. ii.; {%to c. to the%}
-<div n="lb"/><div n="xe">{%sessions:%}</div> <div n="xs">{#*अधिवेशनविचारार्थम् अर्पयति;#}</div> {%to c. to%}
-<div n="lb"/><div n="xe">{%memory:%}</div> <div n="xs">{#कण्ठस्थं करोति;#}</div> {%c.%} ({%this%}) {%to writing%} :
-<div n="lb"/>{#अभिलिख्यताम्,#} Mr. ix. </div><div n="I">II To perpetrate :
-<div n="lb"/>{#करोति#} ({#कृ,#} c. 8.), <div n="xe">{%to c. crimes wilfully:%}</div> <div n="xs">{#कामतः#}</div>
-<div n="lb"/>{#पापानि करोति#} M.; {%one who c. s an offence%} :
-<div n="lb"/>{#अपराधिन्#} (f. {#नी#}). </div><div n="I">III To match: q. v.</div>
+{@COMMIT@}¦ (v. t.): <div n="I">I To entrust: q. v.: {#अर्पयति#},
+{#सम्-,#} (c. of {#ॠ#}), {%c. these%} ({%prisoners%}) {%to his%}
+<div n="xe">{%care:%}</div> <div n="xs">{#तस्मै समर्पयैतान्,#}</div> P. Ph.: {%was c. ted to%}
+<div n="xe">{%prison:%}</div> <div n="xs">{#बन्धनमनीयत,#}</div> D. ii.; {%to c. to the%}
+<div n="xe">{%sessions:%}</div> <div n="xs">{#*अधिवेशनविचारार्थम् अर्पयति;#}</div> {%to c. to%}
+<div n="xe">{%memory:%}</div> <div n="xs">{#कण्ठस्थं करोति;#}</div> {%c.%} ({%this%}) {%to writing%} :
+{#अभिलिख्यताम्,#} Mr. ix. </div><div n="I">II To perpetrate :
+{#करोति#} ({#कृ,#} c. 8.), <div n="xe">{%to c. crimes wilfully:%}</div> <div n="xs">{#कामतः#}</div>
+{#पापानि करोति#} M.; {%one who c. s an offence%} :
+{#अपराधिन्#} (f. {#नी#}). </div><div n="I">III To match: q. v.</div>
 <LEND>

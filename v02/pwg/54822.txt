@@ -23,9 +23,9 @@
 <ls>PĀR. GṚHY. 2, 4.</ls> 
 <ls>CHĀND. UP. 1, 10, 2. 4, 3, 5.</ls> 
 <ls>KAUṢ. UP. 2, 1.</ls> {#भिक्षिष्ये राजसत्तमम्#} 
-<ls>MBH. 3, 13267. 9, 2323.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 32, 37.</ls> {#पौरवं गां भिक्षते#} 
+<ls>MBH. 3, 13267.</ls> <ls n="MBH.">9, 2323.</ls> 
+
+<ls>R. GORR. 2, 32, 37.</ls> {#पौरवं गां भिक्षते#} 
 <ls>P. 1, 4, 51,</ls> 
 <ls>Sch.</ls> {#मातरम् - भिक्षेत भिक्षाम्#} 
 <ls>M. 2, 50.</ls> {#तं (अर्थं) त्वां भिक्षे#} 
@@ -33,15 +33,15 @@
 <ls>R. GORR. 1, 32, 7.</ls> {#भिक्षितो विक्रमानेतांस्त्रीन्#} 
 <ls>8.</ls> <ls>BHAṬṬ. 6, 9.</ls> {#गुरोः कुले न भिक्षेत#} 
 <ls>M. 2, 184. 11, 5.</ls> {#भैक्षवद्भिक्षमाणाय#} 
-<ls>MBH. 1, 1640. 12, 3425.</ls> 
+<ls>MBH. 1, 1640.</ls> <ls n="MBH.">12, 3425.</ls> 
 <ls>R. 2, 75, 30.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 66, 38.</ls> act.: {#भिक्षते वज्रिणे#} 
+
+<ls>R. GORR. 2, 66, 38.</ls> act.: {#भिक्षते वज्रिणे#} 
 <ls>MBH. 3, 16986.</ls> {#वटवो यस्य भिक्षन्ति#} 
 <ls>13, 1625.</ls> Nach dem 
 <ls>DHĀTUP.</ls> {#भिक्षायामलाभे#} (d. i. {%betteln)%} {#लाभे#} (d. i. {%erbetteln%}) {#च#}, nach 
 <ls>KĀT.</ls> und <ls>MAITR.</ls> {#याञ्चायाम्#}, 
-nach <ls>VOP.</ls> im <ls>ŚKDR.</ls> {#लाभार्थलोभोक्तिक्लिशि#} d. i. {%erbitten, erbetteln%} {#(लाभ)#}, {%bitten%} ({#अर्थ#}), {%anbetteln%} ({#लोभोक्ति#}), {%am Bettel sein.%}
+nach <ls>VOP.</ls> im <ls>ŚKDR.</ls> {#लाभार्थलोभोक्तिक्लिशि#} d. i. {%erbitten, erbetteln%} ({#लाभ#}), {%bitten%} ({#अर्थ#}), {%anbetteln%} ({#लोभोक्ति#}), {%am Bettel sein.%}
 
 <div n="p">— caus. {%Jmd betteln machen, zum Bettler machen%} 
 <ls>RĀJA-TAR. 5, 337.</ls>

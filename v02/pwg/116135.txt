@@ -37,7 +37,7 @@
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Ross%}, insbes. <is>Indra's</is> (s. auch unter 1) 
 <ls>AK.</ls> <ls>H. 1233.</ls> <ls>TRIK. 2, 8, 41</ls> ({#हरिः क्रान्तः#} zu lesen). 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 281. 5, 70.</ls> <ls>MBH. 3, 11903. 11921. 12003. 13, 4896.</ls> <ls>HARIV. 4943.</ls> <ls>RAGH. 12, 103.</ls> <ls>KATHĀS. 19, 108.</ls> {#हरितो हरींश्च#} {%die Rosse des Sonnengottes und%} <is>Indra's</is> 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 281. 5, 70.</ls> <ls>MBH. 3, 11903.</ls> <ls n="MBH. 3,">11921.</ls> <ls n="MBH. 3,">12003.</ls> <ls n="MBH.">13, 4896.</ls> <ls>HARIV. 4943.</ls> <ls>RAGH. 12, 103.</ls> <ls>KATHĀS. 19, 108.</ls> {#हरितो हरींश्च#} {%die Rosse des Sonnengottes und%} <is>Indra's</is> 
 <ls>ŚĀK. 6, 5. 166.</ls> 
 <ls>BHĀG. P. 8, 11, 16.</ls> 
 <div n="2">— b) {%Löwe%} 
@@ -46,7 +46,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 59. 5, 70.</ls> 
-<ls>MBH. 3, 15645. 7, 7634.</ls> 
+<ls>MBH. 3, 15645.</ls> <ls n="MBH.">7, 7634.</ls> 
 <ls>R. 2, 97, 5.</ls> 
 <ls>RAGH. 2, 59.</ls> 
 <ls>VIKR. 16.</ls> <ls>Z. d. d. m. G. 27, 96.</ls> <ls>SĀH. D. 237, 16.</ls> <ls>VARĀH. BṚH. S. 11, 47.</ls> <ls>Spr. (II) 3366.</ls> <ls>BHĀG. P. 3, 21, 44. 8, 2, 6. 10, 9. 10, 53, 56.</ls> 
@@ -58,7 +58,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 76. 5, 70.</ls> 
-<ls>MBH. 1, 2624. 2628. 3, 16275.</ls> 
+<ls>MBH. 1, 2624.</ls> <ls n="MBH. 1,">2628.</ls> <ls n="MBH.">3, 16275.</ls> 
 <ls>R. 1, 16, 6. 2, 96, 22. 3, 20, 26. 78, 19. 4, 28, 28. 38, 26. 30. 7, 91, 10.</ls> 
 <ls>UTTARAR. 65, 14 (84, 9).</ls> <ls>RAGH. 12, 57. 15, 99.</ls> <ls>WEBER, RĀMAT. UP. 299.</ls> 
 <div n="2">— e) {%Schakal%} ({#भीरु#}) 
@@ -83,23 +83,23 @@
 v. l. im Comm. 
 <div n="2">— n) ein Name 
 <div n="3"> α) <is>Indra's</is> 
-<ls>AK.</ls> <ls>TRIK.1,1,57.</ls> <ls>H. 171.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY.1,52.5,70.</ls> <ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf.</ls> <ls>H. 191,a,29.</ls> <ls>Spr. (II) 207.</ls> <ls>R.1,15,26.</ls> <ls>RAGH.3,43. 55. 68.9,57. 12,103.</ls> <ls>ŚĀK. 95,1. 156. 162.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 53,19.</ls> <ls>SĀH.</ls> <ls>D. 237,16.</ls> 
+<ls>AK.</ls> <ls>TRIK.1,1,57.</ls> <ls>H. 171.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY.1,52.5,70.</ls> <ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf.</ls> <ls>H. 191,a,29.</ls> <ls>Spr. (II) 207.</ls> <ls>R.1,15,26.</ls> <ls>RAGH.3,43. 55. 68.9,57. 12,103.</ls> <ls>ŚĀK. 95,1. 156. 162.</ls> <ls>BRAHMA-P. in LA. (III) 53,19.</ls> <ls>SĀH.</ls> <ls>D. 237,16.</ls> 
 <div n="3">— β) <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is> 
-<ls>AK.</ls> <ls>TRIK. 1, 1, 28.</ls> <ls>H. 214.</ls> <ls>H. an.</ls> <ls>HALĀY. 1, 23. 5, 70.</ls> <ls>Ind. St. 1, 79. 2, 7. 92. 9, 81.</ls> <ls>BHAG. 11, 9. 18, 77.</ls> <ls>MBH. 1, 1167. 3, 15553.6, 301.</ls> <ls>HARIV. 10. 2382. 7447.</ls> <ls>R. 1, 31, 13. 45, 23.</ls> <ls>RAGH. 3, 49.</ls> <ls>KUMĀRAS. 7, 44.</ls> <ls>ŚĀK. 165.</ls> <ls>WEBER, RĀMAT. UP. 286.</ls> <ls>KṚṢṆAJ. 222 u.s.w.</ls> <ls>Spr. (II) 671. 3452. 6408. 6859. 7173. 7369.</ls> <ls>VARĀH. BṚH. S. 98, 5. 99, 1.</ls> <ls>RĀJA-TAR. 3, 126. 416</ls>
+<ls>AK.</ls> <ls>TRIK. 1, 1, 28.</ls> <ls>H. 214.</ls> <ls>H. an.</ls> <ls>HALĀY. 1, 23. 5, 70.</ls> <ls>Ind. St. 1, 79. 2, 7. 92. 9, 81.</ls> <ls>BHAG. 11, 9. 18, 77.</ls> <ls>MBH. 1, 1167.</ls> <ls n="MBH.">3, 15553.</ls> <ls n="MBH.">6, 301.</ls> <ls>HARIV. 10.</ls> <ls n="HARIV.">2382.</ls> <ls n="HARIV.">7447.</ls> <ls>R. 1, 31, 13. 45, 23.</ls> <ls>RAGH. 3, 49.</ls> <ls>KUMĀRAS. 7, 44.</ls> <ls>ŚĀK. 165.</ls> <ls>WEBER, RĀMAT. UP. 286.</ls> <ls>KṚṢṆAJ. 222</ls> u.s.w. <ls>Spr. (II) 671.</ls> <ls n="Spr. (II)">3452.</ls> <ls n="Spr. (II)">6408.</ls> <ls n="Spr. (II)">6859.</ls> <ls n="Spr. (II)">7173.</ls> <ls n="Spr. (II)">7369.</ls> <ls>VARĀH. BṚH. S. 98, 5. 99, 1.</ls> <ls>RĀJA-TAR. 3, 126. 416</ls>
 [Page7-1546]
 (zugleich adj.). 
-<ls>?451. PRAB. 54,12. BHĀG. P.1,2,23.4,30,24.7,10,24.8,1,30. PAÑCAT. Pr. 1. VET. in LA. (III)1,14. Verz. d. Oxf. H. 45,b,31. SĀH. D. 237,16. HALL 126. SARVADARŚANAS. 46,3. 57. 16. 66,15. 67,9. 69,13. 17. 72,4. BURNOUF, Intr. 131.</ls> 
+<ls>451.</ls> <ls>PRAB. 54,12.</ls> <ls>BHĀG. P. 1,2,23.4,30,24.7,10,24.8,1,30.</ls> <ls>PAÑCAT. Pr. 1.</ls> <ls>VET. in LA. (III) 1,14.</ls> <ls>Verz. d. Oxf. H. 45,b,31.</ls> <ls>SĀH. D. 237,16.</ls> <ls>HALL 126.</ls> <ls>SARVADARŚANAS. 46,3. 57. 16. 66,15. 67,9. 69,13. 17. 72,4.</ls> <ls>BURNOUF, Intr. 131.</ls> 
 <div n="3">— γ) <is>Yama's</is> 
 <ls>AK.</ls> <ls>H. 184.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 72. 5, 70.</ls> 
 <div n="3">— δ) <is>Brahman's</is> und <is>Śiva's</is> 
-<ls>MED.</ls> {#हरिं#} (=  <is>Brahman</is> Comm.) {#हरन्तमनुयन्ति देवाः#} 
+<ls>MED.</ls> {#हरिं#} (= <is>Brahman</is> Comm.) {#हरन्तमनुयन्ति देवाः#} 
 <ls>TAITT. ĀR. 10, 49.</ls> 
 <div n="3">— ε) <is>Śukra's</is> und <is>Suparṇa's</is> (vgl. unter 1) 
 <ls>NĀNĀRTHADHVANIM. a. a. O.</ls> 
 <div n="3">— ζ) {%des Feuers%} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>KĀLAC. 1, 15.</ls> 
-<div n="2">— o) {%ein best. Metrum: 4 Mal%} ˘ ˘ ˘ ˘ ˘ ˘, ¯ ¯ ¯ ¯, ˘ ¯ ˘ ˘ ¯ ˘ ¯  
-<ls>COLEBR. Misc. Ess. 2, 162</ls> <ls>(XII, 8).</ls> 
+<div n="2">— o) {%ein best. Metrum: 4 Mal%} ˘ ˘ ˘ ˘ ˘ ˘, ¯ ¯ ¯ ¯, ˘ ¯ ˘ ˘ ¯ ˘ ¯ 
+<ls>COLEBR. Misc. Ess. 2, 162</ls> (<ls>XII, 8).</ls> 
 <div n="2">— p) elliptisch für {#°नक्षत्र#} {%das%} <is>Nakṣatra</is> <is>Śravaṇa</is> 
 <ls>VARĀH. BṚH. S. 60, 21. 98, 17</ls>; vgl. {#हरिदेव#}. 
 <div n="2">— q) pl. = {#अपत्य#} 
@@ -118,9 +118,9 @@ v. l. im Comm.
 <div n="3">— γ) eines <is>Rākṣasa</is> 
 <ls>MBH. 3, 16365.</ls> 
 <div n="3">— δ) eines <is>Dānava</is> 
-<ls>HARIV. 2283. 14284.</ls> 
+<ls>HARIV. 2283.</ls> <ls n="HARIV.">14284.</ls> 
 <div n="3">— ε) verschiedener Männer: ein Sohn <is>Akampana's</is> (<is>Anukampaka's</is>) 
-<ls>MBH. 7, 2030. fgg. 12, 9151. fgg.</ls> <is>Tārakākṣa's</is> 
+<ls>MBH. 7, 2030. fgg.</ls> <ls n="MBH.">12, 9151. fgg.</ls> <is>Tārakākṣa's</is> 
 <ls>8, 1417. fgg.</ls> <is>Parājit's</is> 
 <ls>HARIV. 1980.</ls> <is>Parāvṛt's</is> 
 <ls>VP. 421,</ls> 
@@ -133,7 +133,7 @@ v. l. im Comm.
 <div n="3">— ζ) einer Welt 
 <ls>H. an.</ls> <ls>MED.</ls>; vgl. {#हरिवर्ष#}. 
 <div n="1">— 3) <lex>f.</lex> {#हरी#} N. {%der Urmutter der Affen%} 
-<ls>MBH. 1, 2624. 2628.</ls> 
+<ls>MBH. 1, 2624.</ls> <ls n="MBH. 1,">2628.</ls> 
 <ls>R. 3, 20, 26.</ls> 
 <div n="v">— Vgl. {#नर°, नृ°, भर्तृ°, वन°, श्री°, सर्व°#}.
 <LEND>

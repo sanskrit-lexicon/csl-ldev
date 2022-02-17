@@ -4,11 +4,11 @@
 <ls>AK. 1, 2, 3, 28.</ls> 
 <ls>TRIK. 1, 2, 28.</ls> 
 <ls>HALĀY. 3, 53.</ls> 
-<ls>UJJVAL.</ls> m. <ls>H. 1095.</ls> <ls>BALA</ls> (=  {#अल्पसरस्#} und = {#सरोमात्र#}) beim 
+<ls>UJJVAL.</ls> m. <ls>H. 1095.</ls> <ls>BALA</ls> (= {#अल्पसरस्#} und = {#सरोमात्र#}) beim 
 <ls>Schol.</ls> zu <ls>NAIṢ. 1, 117.</ls> <ls>PĀR. GṚHY. 2, 1.</ls> {#°कर्षक#} 
 <ls>HARIV. 11145.</ls> {#पल्वलानि सरांसि च#} 
 <ls>R. 2, 27, 17. 59, 9.</ls> 
-<ls>MBH. 3, 2408. 2485.</ls> 
+<ls>MBH. 3, 2408.</ls> <ls n="MBH. 3,">2485.</ls> 
 <ls>SUŚR. 1, 169, 12.</ls> {#पल्वलोत्तीर्णवराहयूथ#} 
 <ls>RAGH. 2, 17. 3, 3.</ls> {#°पङ्क#} 
 <ls>9, 59. 19, 51.</ls> <ls>ŚĀK. 39.</ls> {#अत्रभवतः किल मम च समुद्रपल्वलयोरिवान्तरम्#} 
@@ -16,6 +16,6 @@
 <ls>PAÑCAT. 142, 13.</ls> {#केलि°#} 
 <ls>NAIṢ. 1, 117.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>MBH. 5, 493.</ls> Fälschlich {#पल्लल#} (vgl. {#नल्ल#} für {#नल्व#}) geschrieben 
-<ls>MBH. 1, 6069. 7, 6163.</ls> 
-<ls>SUŚR. 1, 22, 11. -</ls> <ls>DHŪRTAS. 74, 3</ls> fehlerhaft für {#पल्लव#} .
+<ls>MBH. 1, 6069.</ls> <ls n="MBH.">7, 6163.</ls> 
+<ls>SUŚR. 1, 22, 11.</ls> - <ls>DHŪRTAS. 74, 3</ls> fehlerhaft für {#पल्लव#} .
 <LEND>

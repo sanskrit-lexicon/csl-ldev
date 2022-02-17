@@ -14,8 +14,8 @@
 <ls>Spr. (II) 3399.</ls> 
 <div n="2">— b) {%jetzig, gegenwärtig%} 
 <ls>HARIV. 364</ls> ({#सांप्रतं#} st. {#सांप्रते#} die neuere Ausg.). 
-<ls>410. 441</ls> ({#सांप्रतं#} st. {#सांप्रता#} die neuere Ausg.). 
-<ls>442. 543.</ls> <ls>Verz. d. Oxf. H. 48</ls>, {%b%}, 4. {#प्रभुं भूतभविष्यस्य सांप्रतस्य च सत्पतिम्#} 47, {%a%}, 
+<ls n="HARIV.">410.</ls> <ls n="HARIV.">441</ls> ({#सांप्रतं#} st. {#सांप्रता#} die neuere Ausg.). 
+<ls n="HARIV.">442.</ls> <ls n="HARIV.">543.</ls> <ls>Verz. d. Oxf. H. 48,b,4.</ls> {#प्रभुं भूतभविष्यस्य सांप्रतस्य च सत्पतिम्#} <ls>47,a</ls>, 
 <ls>No. 103, Z. 6.</ls> {#°काल#} 
 <ls>SĀṂKHYAK. 33.</ls> {#सांप्रताधिप#} 
 <ls>MĀRK. P. 79, 3.</ls> {#अ°#} {%nicht gegenwärtig, nicht der Gegenwart angehörig%}: {#ब्रह्मन्#} 
@@ -27,10 +27,10 @@ n. <ls>45, 34.</ls> {#सांप्रतम्#} adv. {%jetzt, gegenwärtig%}
 <ls>MED.</ls> 
 <ls>HALĀY.</ls> 
 <ls>MBH. 14, 93.</ls> 
-<ls>HARIV. 10379. 14475. 14716.</ls> 
+<ls>HARIV. 10379.</ls> <ls n="HARIV.">14475.</ls> <ls n="HARIV.">14716.</ls> 
 <ls>R. 1, 1, 2. 22, 9. 2, 46, 19. 64, 52. 93, 13. 95, 5. 3, 73, 15. 5, 50, 2. 6, 34, 13. 37, 9.</ls> 
 <ls>ṚT. 1, 7.</ls> 
-<ls>Spr. (II) 4781. 6919.</ls> 
+<ls>Spr. (II) 4781.</ls> <ls n="Spr. (II)">6919.</ls> 
 <ls>VARĀH. BṚH. S. 3, 2.</ls> 
 <ls>WEBER, JYOT. 26.</ls> 
 <ls>KATHĀS. 6, 33. 7, 69. 10, 59. 11, 50. 18, 235. 257. 309. 24, 36. 51, 32. 53, 71.</ls> 
@@ -38,7 +38,7 @@ n. <ls>45, 34.</ls> {#सांप्रतम्#} adv. {%jetzt, gegenwärtig%}
 <ls>RĀJA-TAR. 1, 52. 165.</ls> 
 <ls>PRAB. 10, 6. 7. 20, 1.</ls> 
 <ls>BHĀG. P. 4, 3, 8. 8, 5, 50.</ls> 
-<ls>PAÑCAR. 1, 3, 1.</ls> <ls>PAÑCAT. 161, 18.</ls> <ls>VET.</ls> in <ls>LA. (III) 8, 9.</ls> <ls>DHŪRTAS. 79, 8.</ls> <ls>SARVADARŚANAS. 154, 1.</ls>
+<ls>PAÑCAR. 1, 3, 1.</ls> <ls>PAÑCAT. 161, 18.</ls> <ls>VET. in LA. (III) 8, 9.</ls> <ls>DHŪRTAS. 79, 8.</ls> <ls>SARVADARŚANAS. 154, 1.</ls>
 [Page7-0940]
 
 <div n="1">— 2) <lex>n.</lex> {%Gegenwart%}: {#सर्व°#} {%Allgegenwart%} 

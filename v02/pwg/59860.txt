@@ -36,11 +36,11 @@ u. {#मानसव्रतं#}.{# चिन्ता#}
 <ls>R. 3, 4, 9.</ls> {#मनस्#} 
 <ls>Ind. St. 2, 97.</ls> {#लोकाः#} 
 <ls>HARIV. 998.</ls> <ls>Verz. d. Oxf. H. 40,a,4.</ls> {#ब्रह्मणो मानसाः पुत्राः#} 
-<ls>MBH. 1, 2518. 12, 13079.</ls> 
+<ls>MBH. 1, 2518.</ls> <ls n="MBH.">12, 13079.</ls> 
 <ls>BHAG. 10, 6.</ls> 
 <ls>Ind. St. 2, 97,</ls> 
 <ls>N. 1.</ls> 
-<ls>HARIV. 41. 12438. 12441.</ls> 
+<ls>HARIV. 41.</ls> <ls n="HARIV.">12438.</ls> <ls n="HARIV.">12441.</ls> 
 <ls>R. 1, 34, 45.</ls> 
 <ls>KATHĀS. 59, 95.</ls> 
 <ls>VP. 1, 7, 1</ls> bei <ls>MUIR, ST. 1, 25.</ls> {#कन्या#} 
@@ -48,11 +48,11 @@ u. {#मानसव्रतं#}.{# चिन्ता#}
 <ls>KUMĀRAS. 1, 18.</ls> {#प्रिया#} 
 <ls>KAUṢ. UP. 1, 3.</ls> {#देव#} 
 <ls>MBH. 12, 6775.</ls> {#ऊचुः प्राञ्जलयः सर्वे ब्रह्माणमिव मानसाः#} (sc. {#सुताः#} oder {#ऋषयः)#} 
-<ls>HARIV. 14051. 11879.</ls> {%im Sinn —, in Gedanken ausgeführt%}, z. B. {%ein stilles%} <is>Stotra</is>: {#मानसेन स्तुवते#} 
+<ls>HARIV. 14051.</ls> <ls n="HARIV.">11879.</ls> {%im Sinn —, in Gedanken ausgeführt%}, z. B. {%ein stilles%} <is>Stotra</is>: {#मानसेन स्तुवते#} 
 <ls>ĀŚV. ŚR. 8, 13.</ls> 
 <ls>LĀṬY. 3, 8, 1. 4, 7, 15.</ls> 
 <ls>ŚĀṄKH. ŚR. 10, 12, 3.</ls> {#जप#} 
-<ls>M.2,85.</ls> <ls>MBH. 12,12787.</ls> <ls>Verz. d. Oxf. H. 102,b,34.</ls> {#भक्ष#} 
+<ls>M. 2,85.</ls> <ls>MBH. 12, 12787.</ls> <ls>Verz. d. Oxf. H. 102,b,34.</ls> {#भक्ष#} 
 <ls>ĀŚV. ŚR. 8, 13.</ls> {#मानसा मे भविष्यध्वम्#} so v. a. {%dem Geiste gegenwärtig%} 
 <ls>R. 1, 29, 25. 30, 12.</ls> {#हैमैराभरणैश्चित्रैर्मानसैः#} wohl so v. a. {%wie sie der Geist nur immer sich vorstellen kann, alle erdenkliche%} 
 <ls>5, 45, 3.</ls> {#मानसैर्विश्वकर्मणा अवहितेन मनसा चित्तेन मनीषया वा निर्मितैः#} Schol. 
@@ -60,13 +60,13 @@ u. {#मानसव्रतं#}.{# चिन्ता#}
 <div n="2"> a) {%eine Form%} <is>Viṣṇu's</is> 
 <ls>VP. 265.</ls> 
 <div n="2">— b) N. pr. eines Schlangendämons 
-<ls>MBH. 1, 2146. 2157.</ls> 
+<ls>MBH. 1, 2146.</ls> <ls n="MBH. 1,">2157.</ls> 
 <div n="2">— c) pl. {%eine best. Klasse von Manen%} (als Söhne <is>Vasiṣṭha's</is> angesehen) 
 <ls>Verz. d. Oxf. H. 39,b,42.</ls> 
 <div n="2">— d) Bez. {%einer Art von Asketen%}: {#योगिमानसहंसविप्राणाम्#} 
 <ls>WEBER, RĀMAT. UP. 362.</ls> {#मानस#} könnte übrigens auch als <lex>adj.</lex> zu {#हंस#} gehören; vgl. 2. {#मानस#} . 
 <div n="2">— e) pl. Bez. der <is>Vaiśya</is> in <is>Śākadvīpa</is> 
-<ls>MBH.6,436. 438.</ls> <ls>VP. 200</ls> <ls>?(MUIR, ST.1,193). Verz. d. Oxf. H. 33,a,14. 15.</ls> 
+<ls>MBH. 6, 436.</ls> <ls n="MBH. 6,">438.</ls> <ls>VP. 200</ls> (<ls>MUIR, ST. 1,193</ls>). <ls>Verz. d. Oxf. H. 33,a,14. 15.</ls> 
 <div n="2">— f) N. pr. eines Sohnes des <is>Vapuṣmant</is> 
 <ls>MĀRK. P. 53, 27.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#ई#} N. pr. einer der 
@@ -92,7 +92,7 @@ u. {#मानसव्रतं#}.{# चिन्ता#}
 <ls>15581.</ls> {#विस्मित°#} 
 <ls>R. 1, 9, 23. 56, 24. 65, 14.</ls> {#ब्राह्मण्ये धृतमानसः#} 
 <ls>R. GORR. 1, 57, 25.</ls> <ls>ṚT. 1, 10.</ls> <ls>Spr. 2563.</ls> <ls>AK. 3, 1, 7.</ls> <ls>VARĀH. BṚH. 20, 2.</ls> <ls>KATHĀS. 70, 69.</ls> <ls>RĀJA-TAR. 3, 22.</ls> <lex>f.</lex> {#आ#} 
-<ls>MBH. 1, 4401. 3, 1820. 2550. 5, 6074. 7, 30.</ls> 
+<ls>MBH. 1, 4401.</ls> <ls n="MBH.">3, 1820.</ls> <ls n="MBH. 3,">2550.</ls> <ls n="MBH.">5, 6074.</ls> <ls n="MBH.">7, 30.</ls> 
 <ls>R. 2, 60, 7. 5, 49, 22.</ls> 
 <ls>ŚĀK. 76.</ls> 
 <ls>KUMĀRAS. 5, 3.</ls> 
@@ -101,10 +101,10 @@ u. {#मानसव्रतं#}.{# चिन्ता#}
 <ls>VID. 124.</ls> 
 <ls>PAÑCAT. 184, 6. III, 180.</ls> Vgl. {#पूर्णमानस#} . 
 <div n="2">— b) N. pr. eines heiligen Sees und Wallfahrtsortes auf dem <is>Kailāsa</is>, der Heimath (des Brüteplatzes) der wilden Gänse oder Schwäne, 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 2, 1041. fg. 8, 3048. 12, 5647</ls> (m., {#पुंस्त्वमार्षम्#} 
-<ls>Schol.</ls><ls>?). 13215. HARIV. 1014. 1292. 8793. 12853.</ls> {#कैलासशिखरे राम मनसा निर्मितं सरः । ब्रह्मणा प्रागिदं यस्मात्तदभून्मानसं सरः ॥#} 
-<ls>R.1,26,8</ls> <ls>?(27,7 GORR.). RAGH.6,26. VIKR. 93. 94. MEGH. 11. 63. 74. SIDDHĀNTAŚIR.3,35. LALIT. 317. KATHĀS. 46,87. 56,208. 69,131. 72,37. 43. 55. Spr. 4306. VP. 169. MĀRK. P. 55,3. ŚUK. in LA. (II) 33,2. GHAṬ. 9. Verz. d. Oxf. H. 39,a,33. 149,a,40.</ls> {#तीर्थ#} 
-<ls>MBH.3,10547. 13,4887.</ls> <ls>Verz. d. Oxf. H.5,b,29. 69,a,24.</ls> {#मानसं तीर्थम्#} bedeutet auch den {%geistigen Badeplatz, das Bad der Seele%}: {#अगाधे विमले शुद्धे सत्यतोये धृतिह्रदे । स्नातव्यं मानसे तीर्थे सत्यमालम्ब्य शाश्वतम् ॥#} 
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 2, 1041. fg.</ls> <ls n="MBH.">8, 3048.</ls> <ls n="MBH.">12, 5647</ls> (m., {#पुंस्त्वमार्षम्#} 
+Schol.). <ls n="MBH. 12,">13215.</ls> <ls>HARIV. 1014.</ls> <ls n="HARIV.">1292.</ls> <ls n="HARIV.">8793.</ls> <ls n="HARIV.">12853.</ls> {#कैलासशिखरे राम मनसा निर्मितं सरः । ब्रह्मणा प्रागिदं यस्मात्तदभून्मानसं सरः ॥#} 
+<ls>R. 1, 26, 8</ls> (<ls>27,7 GORR.</ls>). <ls>RAGH. 6,26.</ls> <ls>VIKR. 93. 94.</ls> <ls>MEGH. 11. 63. 74.</ls> <ls>SIDDHĀNTAŚIR. 3,35.</ls> <ls>LALIT. 317.</ls> <ls>KATHĀS. 46,87. 56,208. 69,131. 72,37. 43. 55.</ls> <ls>Spr. 4306.</ls> <ls>VP. 169.</ls> <ls>MĀRK. P. 55,3.</ls> <ls>ŚUK.</ls> in <ls>LA. (II) 33,2.</ls> <ls>GHAṬ. 9.</ls> <ls>Verz. d. Oxf. H. 39,a,33. 149,a,40.</ls> {#तीर्थ#} 
+<ls>MBH. 3, 10547.</ls> <ls n="MBH.">13, 4887.</ls> <ls>Verz. d. Oxf. H.5,b,29. 69,a,24.</ls> {#मानसं तीर्थम्#} bedeutet auch den {%geistigen Badeplatz, das Bad der Seele%}: {#अगाधे विमले शुद्धे सत्यतोये धृतिह्रदे । स्नातव्यं मानसे तीर्थे सत्यमालम्ब्य शाश्वतम् ॥#} 
 <ls>MBH. 13, 5351.</ls> {#मनसा च प्रदीप्तेन ब्रह्मज्ञानजलेन च । स्नाति यो मानसे तीर्थे तत्स्नानं तत्त्वदर्शिनाम् ॥#} 
 <ls>5361.</ls> ein Lehrer so genannt 
 <ls>Verz. d. Oxf. H.245,b,7.</ls>

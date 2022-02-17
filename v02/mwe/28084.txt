@@ -1,9 +1,9 @@
 <L>28084<pc>770-a<k1>stake<k2>stake
-<div n="lb"/>STAKE¦, {%s.%} (Of wood, &c.) {#शङ्कुः#} {%m.,%} {#कीलः -लकः, शूलः -लं, स्थाणुः#} {%m.,%}
-<div n="lb"/>{#स्थूणा, शल्यं, शलाका, निमः, घ्रुवः;#} ‘fastened by a stake,’
-<div n="lb"/>{#कीलितः -ता -तं, कीलबद्धः -द्धा -द्धं;#} ‘stake for empaling
-<div n="lb"/>criminals,’ {#शूलः -लं;#} ‘burning at the stake,’ {#तुषानलः,#}
-<div n="lb"/>{#तृणाग्निः#} {%m.%} — (Any thing pledged or wagered) {#पणः, प्रति-#}
-<div n="lb"/>{#पाणं, आक्षिकपणः, आक्षिकं, नीविः -वी#} {%f.,%} {#ग्लहः, आधिः#} {%m.,%} {#द्रव्यं,#}
-<div n="lb"/>{#विषयः;#} ‘to be at stake,’ {%see%} JEOPARDY.
+STAKE¦, {%s.%} (Of wood, &c.) {#शङ्कुः#} {%m.,%} {#कीलः -लकः, शूलः -लं, स्थाणुः#} {%m.,%}
+{#स्थूणा, शल्यं, शलाका, निमः, घ्रुवः;#} ‘fastened by a stake,’
+{#कीलितः -ता -तं, कीलबद्धः -द्धा -द्धं;#} ‘stake for empaling
+criminals,’ {#शूलः -लं;#} ‘burning at the stake,’ {#तुषानलः,#}
+{#तृणाग्निः#} {%m.%} — (Any thing pledged or wagered) {#पणः, प्रति-#}
+{#पाणं, आक्षिकपणः, आक्षिकं, नीविः -वी#} {%f.,%} {#ग्लहः, आधिः#} {%m.,%} {#द्रव्यं,#}
+{#विषयः;#} ‘to be at stake,’ {%see%} JEOPARDY.
 <LEND>

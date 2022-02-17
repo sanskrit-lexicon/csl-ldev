@@ -1,8 +1,8 @@
 <L>58895<pc>5-0651<k1>महारूप<k2>महारूप
-{#महारूप#}¦ {#(म° + रूप)#} 
+{#महारूप#}¦ ({#म° + रूप#}) 
 <div n="1"> 1) <lex>adj.</lex> {%gross von Gestalt%}: <is>Śiva</is> 
-<ls>MBH. 13, 1148. 1239.</ls> 
-<div n="1">— 2) <lex>m.</lex> N. eines <is>Kalpa</is> {%(einer Weltperiode)%} 
+<ls>MBH. 13, 1148.</ls> <ls n="MBH. 13,">1239.</ls> 
+<div n="1">— 2) <lex>m.</lex> N. eines <is>Kalpa</is> ({%einer Weltperiode%}) 
 <ls>Lot. de la b. l. 96.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} N. pr. eines Wesens im Gefolge der <is>Durgā</is> 
 <ls>WILSON, Sel. Works 2, 39.</ls>

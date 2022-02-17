@@ -1,15 +1,15 @@
 <L>1904<pc>066<k1>bend<k2>bend
-<div n="lb"/>{@BEND@}¦ (v. t.); <div n="I">I To inflect: </div><div n="1">(1) {#नमयति, आ-, #}
-<div n="lb"/>{# -अव-,#} (c. of {#नम्#}), <div n="xe">{%a bow not bent before%}</div> <div n="xs">{#धनुरनमित-#}
-<div n="lb"/>{#पूर्वम्,#}</div> R. xi. 72.; </div><div n="1">(2) {#आवर्जयति#} ({#वृज,#} c. 10),
-<div n="lb"/><div n="xe">{%b. ing the boughs%}</div> <div n="xs">{#आवर्ज्य शाखाः,#}</div> R. xvi. 19.;</div>
-<div n="lb"/><div n="1">(3) {#वक्रीकरोति#} ({#कृ,#} c. 8) (=to curve); </div><div n="1">(4)
-<div n="lb"/>{#भुजति, आ-, वि-,#} ({#भुज्,#} c. 6.), <div n="xe">{%b. ing his neck%}</div> <div n="xs">{#विभुज्य #}
-<div n="lb"/>{# कण्ठं,#}</div> N. xi. 12.; </div><div n="1">(5) {#जिह्मयति#} (nomi.) (rare),
-<div n="lb"/>Ph. ({%a bow that has been%}) <div n="xe">{%bent:%}</div> <div n="xs">{#चक्रीकृतम्,#}</div>
-<div n="lb"/>Ku.; {#मण्डलीकृतम्#} <div n="xe">{%or%}</div> <div n="xs">{#आविर्मण्डलम्,#}</div> Ki. ({#धनुः#}).</div>
-<div n="lb"/><div n="I">II Fig.: To subdue: q. v.: </div><div n="1">(1) {#नमयति,#}
-<div n="lb"/>R.; </div><div n="1">(2) {#आवर्जयति,#} D. </div><div n="I">III To apply or
-<div n="lb"/>exert: q. v. Ph. <div n="xe">{%to b. one's mind%}</div> <div n="xs">{#मनो ददाति#}</div>
-<div n="lb"/>({#दा,#} c. 3.); <div n="xe">{%to b. the brow%}</div> <div n="xs">{#भ्रूभङ्गं करोति।#}</div></div>
+{@BEND@}¦ (v. t.); <div n="I">I To inflect: </div><div n="1">(1) {#नमयति, आ-, #}
+{# -अव-,#} (c. of {#नम्#}), <div n="xe">{%a bow not bent before%}</div> <div n="xs">{#धनुरनमित-#}
+{#पूर्वम्,#}</div> R. xi. 72.; </div><div n="1">(2) {#आवर्जयति#} ({#वृज,#} c. 10),
+<div n="xe">{%b. ing the boughs%}</div> <div n="xs">{#आवर्ज्य शाखाः,#}</div> R. xvi. 19.;</div>
+<div n="1">(3) {#वक्रीकरोति#} ({#कृ,#} c. 8) (=to curve); </div><div n="1">(4)
+{#भुजति, आ-, वि-,#} ({#भुज्,#} c. 6.), <div n="xe">{%b. ing his neck%}</div> <div n="xs">{#विभुज्य #}
+{# कण्ठं,#}</div> N. xi. 12.; </div><div n="1">(5) {#जिह्मयति#} (nomi.) (rare),
+Ph. ({%a bow that has been%}) <div n="xe">{%bent:%}</div> <div n="xs">{#चक्रीकृतम्,#}</div>
+Ku.; {#मण्डलीकृतम्#} <div n="xe">{%or%}</div> <div n="xs">{#आविर्मण्डलम्,#}</div> Ki. ({#धनुः#}).</div>
+<div n="I">II Fig.: To subdue: q. v.: </div><div n="1">(1) {#नमयति,#}
+R.; </div><div n="1">(2) {#आवर्जयति,#} D. </div><div n="I">III To apply or
+exert: q. v. Ph. <div n="xe">{%to b. one's mind%}</div> <div n="xs">{#मनो ददाति#}</div>
+({#दा,#} c. 3.); <div n="xe">{%to b. the brow%}</div> <div n="xs">{#भ्रूभङ्गं करोति।#}</div></div>
 <LEND>

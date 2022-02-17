@@ -1,4 +1,4 @@
 <L>7451<pc>235<k1>embryo<k2>embryo
-<div n="lb"/>{@EMBRYO:@}¦ <div n="I">I Lit.: {#गर्भः#} <div n="xe">{%or%}</div> <div n="xs">{#अपरिणतगर्भः।#}</div> </div><div n="I">II Fig.:
-<div n="lb"/><div n="xe">{%this work is in e.:%}</div> <div n="xs">{#अपरिणतेयं कृतिः।#}</div></div>
+{@EMBRYO:@}¦ <div n="I">I Lit.: {#गर्भः#} <div n="xe">{%or%}</div> <div n="xs">{#अपरिणतगर्भः।#}</div> </div><div n="I">II Fig.:
+<div n="xe">{%this work is in e.:%}</div> <div n="xs">{#अपरिणतेयं कृतिः।#}</div></div>
 <LEND>

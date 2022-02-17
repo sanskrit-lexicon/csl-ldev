@@ -1,12 +1,12 @@
 <L>16201<pc>399-a<k1>instant<k2>instant
-<div n="lb"/>INSTANT¦, {%s.%} (A moment) {#क्षणः, विपलं, पलं, निमेषः, निमिषः, मात्रा,#}
-<div n="lb"/>{#त्रुटिः#} {%f.;%} ‘the current moment,’ {#आपातः;#} ‘in an instant,’
-<div n="lb"/>{#क्षणात्, निमेषमात्रेण, क्षणमात्रेण, क्षणान्तरे, एकपदे;#} ‘for an instant,’
-<div n="lb"/>{#क्षणं -णेन -णात्, क्षणमात्रं, निमेषमात्रं;#} ‘for that very instant,’
-<div n="lb"/>{#तत्क्षणादेव;#} ‘at that instant,’ {#तत्क्षणात् -णे, तत्काले, तदानीमेव;#}
-<div n="lb"/>‘at this very instant,’ {#इदानीमेव, एतत्काले;#} ‘every instant,’
-<div n="lb"/>{#प्रतिक्षणं, अनुक्षणं;#} ‘the next instant,’ {#क्षणान्तरं;#} ‘the instant,’
-<div n="lb"/>may often be expressed by {#मात्रं,#} in such phrases as ‘the
-<div n="lb"/>instant of birth,’ {#जातमात्रं;#} ‘from the instant of birth,’
-<div n="lb"/>{#जातमात्रात्#}.
+INSTANT¦, {%s.%} (A moment) {#क्षणः, विपलं, पलं, निमेषः, निमिषः, मात्रा,#}
+{#त्रुटिः#} {%f.;%} ‘the current moment,’ {#आपातः;#} ‘in an instant,’
+{#क्षणात्, निमेषमात्रेण, क्षणमात्रेण, क्षणान्तरे, एकपदे;#} ‘for an instant,’
+{#क्षणं -णेन -णात्, क्षणमात्रं, निमेषमात्रं;#} ‘for that very instant,’
+{#तत्क्षणादेव;#} ‘at that instant,’ {#तत्क्षणात् -णे, तत्काले, तदानीमेव;#}
+‘at this very instant,’ {#इदानीमेव, एतत्काले;#} ‘every instant,’
+{#प्रतिक्षणं, अनुक्षणं;#} ‘the next instant,’ {#क्षणान्तरं;#} ‘the instant,’
+may often be expressed by {#मात्रं,#} in such phrases as ‘the
+instant of birth,’ {#जातमात्रं;#} ‘from the instant of birth,’
+{#जातमात्रात्#}.
 <LEND>

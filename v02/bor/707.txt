@@ -1,5 +1,5 @@
 <L>707<pc>025<k1>ample<k2>ample
-<div n="lb"/>{@AMPLE:@}¦ <div n="I">I Specious: q. v.: {#विशालः#} ({#ला, लं#})</div>
-<div n="lb"/><div n="I">II Abundant, copious: q. v. {#प्रचुरः#} ({#रा, रं#}).</div>
-<div n="lb"/><div n="I">III Not brief: {#विस्तृतः#} ({#ता, तं#}).</div>
+{@AMPLE:@}¦ <div n="I">I Specious: q. v.: {#विशालः#} ({#ला, लं#})</div>
+<div n="I">II Abundant, copious: q. v. {#प्रचुरः#} ({#रा, रं#}).</div>
+<div n="I">III Not brief: {#विस्तृतः#} ({#ता, तं#}).</div>
 <LEND>

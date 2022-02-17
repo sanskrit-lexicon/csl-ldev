@@ -1,4 +1,4 @@
 <L>2903<pc>098<k1>calculator<k2>calculator
-<div n="lb"/>{@CALCULATOR:@}¦ <div n="1">(1) {#गणकः;#} </div><div n="1">(2) {#निरूपकः#} (=one
-<div n="lb"/>who ascertains).</div>
+{@CALCULATOR:@}¦ <div n="1">(1) {#गणकः;#} </div><div n="1">(2) {#निरूपकः#} (=one
+who ascertains).</div>
 <LEND>

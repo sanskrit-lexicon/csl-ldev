@@ -1,4 +1,4 @@
 <L>7419<pc>234<k1>embassy<k2>embassy
-<div n="lb"/>{@EMBASSY:@}¦ <div n="I">I Lit.: {#दौत्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#दूत्यम्।#}</div> </div><div n="I">II The
-<div n="lb"/>dwelling of an ambassador: {#दूतावासः।#}</div>
+{@EMBASSY:@}¦ <div n="I">I Lit.: {#दौत्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#दूत्यम्।#}</div> </div><div n="I">II The
+dwelling of an ambassador: {#दूतावासः।#}</div>
 <LEND>

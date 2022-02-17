@@ -1,7 +1,7 @@
 <L>93232<pc>6-1209<k1>विशसन<k2>विश/सन
 {#विश/सन#}¦ (von {#शस्#} mit {#वि#}) 
 <div n="1"> 1) <lex>adj.</lex> (f. {#ई#}) {%mörderisch, Tod bringend%}: {#गदा#} 
-<ls>MBH. 6, 2775. 2798. 9, 3186.</ls> {#क्षय#} 
+<ls>MBH. 6, 2775.</ls> <ls n="MBH. 6,">2798.</ls> <ls n="MBH.">9, 3186.</ls> {#क्षय#} 
 <ls>8, 2836. 10, 540.</ls> {#विशसने गूढागारे बन्धनेन बद्धः#} 
 <ls>MṚCCH. 98, 9.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%Schwert%} 
@@ -17,7 +17,7 @@
 <ls>HALĀY. 2, 322.</ls> {#पुत्रशत्रुगणस्य#} 
 <ls>MBH. 11, 301.</ls> {#महद्विशसनं कृतम् । यादोगणमहाग्राहदैत्यदानवरक्षसाम्#} 
 <ls>R. GORR. 1, 42, 7. 43, 7. 6, 108, 4.</ls> so v. a. {%Schlacht%} 
-<ls>MBH. 7, 661. 840. 12, 11292.</ls> 
+<ls>MBH. 7, 661.</ls> <ls n="MBH. 7,">840.</ls> <ls n="MBH.">12, 11292.</ls> 
 <ls>HARIV. 5596.</ls> {%Metzelei%} so v. a. {%grausame Behandlung%} 
 <ls>UTTARAR. 74, 13 (96, 5).</ls> 
 <div n="2">— b) N. einer Hölle 

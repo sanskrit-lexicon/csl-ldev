@@ -8,7 +8,7 @@
 <ls>ṚV. 1, 166, 1.</ls> <ls n="ṚV.">5, 54, 3.</ls> {#सु\तास^ः#} {%stark, scharf%} 
 <ls n="ṚV.">1, 82, 6.</ls> <ls n="ṚV.">9, 73, 6.</ls> {#अधै^न\ं वृका^ रभ\सासो^ अद्युः#} 
 <ls n="ṚV.">10, 95, 14.</ls> <ls>VS. 21, 38.</ls> <ls>ṚV. 3, 31, 12.</ls> <ls n="ṚV.">6, 61, 1.</ls> {#बाल्ये ऽपि रभसः सदा#} {%wild, ungestüm%} 
-<ls>MBH. 5, 2027. 6, 2846. 3857. 13, 2154.</ls> {#तं रणे रभसम्#} 
+<ls>MBH. 5, 2027.</ls> <ls n="MBH.">6, 2846.</ls> <ls n="MBH. 6,">3857.</ls> <ls n="MBH.">13, 2154.</ls> {#तं रणे रभसम्#} 
 <ls>7, 4033.</ls> {#संग्राम°#} 
 <ls>6, 3450.</ls> {#खार्कार°#} 
 <ls>BHĀG. P. 3, 17, 11.</ls> {#अभिघातरभसस्य महिषस्य#} {%mit Ungestüm verlangend nach%} 
@@ -40,7 +40,7 @@ nom. abstr.
 <ls>KATHĀS. 32, 93. 38, 6. 72. 46, 12. 48, 85. 92, 63.</ls> 
 <ls>RĀJA-TAR. 1, 371.</ls> 
 <ls>MĀRK. P. 69, 52.</ls> {#रभसेन#} dass. 
-<ls>Spr. 315 </ls> (v. l. {#रभसात्#}). 
+<ls>Spr. 315</ls> (v. l. {#रभसात्#}). 
 <ls>1015.</ls> {#विभूतिं रभसावाप्ताम्#} 
 <ls>3834.</ls> {#रभसोत्थिता#} 
 <ls>ŚIŚ. 9, 72.</ls> 
@@ -59,7 +59,7 @@ nom. abstr.
 <ls>Spr. 229.</ls> {#सरभसम्#} adv. {%mit Ungestüm, in aller Hast, plötzlich, stracks%} 
 <ls>MṚCCH. 67, 24.</ls> 
 <ls>Spr. 589.</ls> 
-<ls>UTTARAR. 106, 12 (144, 11).</ls> <ls>KATHĀS. 9, 90.</ls> <ls>BHĀG. P. 5, 26, 27.</ls> <ls>VET.</ls> in <ls>LA. (III) 20, 13.</ls> {#सहासरभसव्यासक्तकण्ठग्रहम्#} 
+<ls>UTTARAR. 106, 12 (144, 11).</ls> <ls>KATHĀS. 9, 90.</ls> <ls>BHĀG. P. 5, 26, 27.</ls> <ls>VET. in LA. (III) 20, 13.</ls> {#सहासरभसव्यासक्तकण्ठग्रहम्#} 
 <ls>Spr. 530.</ls> Nach <ls>ARUṆA</ls> im <ls>ŚKDR.</ls> ist {#रभस#} auch = {#पौर्वापर्यविचार#} (eher hätte man {#पौर्वापर्याविचार#} erwartet). 
 <div n="2">— b) Bez. {%eines best. über Waffen gesprochenen Zauberspruches%} 
 <ls>R. 1, 30, 4 (31, 5 GORR.).</ls> 
@@ -70,7 +70,7 @@ nom. abstr.
 <div n="3">— β) eines Fürsten, eines Sohnes des <is>Rambha</is>, 
 <ls>BHĀG. P. 9, 17, 10.</ls> 
 <div n="3">— γ) eines Lexicographen 
-<ls>COLEBR. Misc. Ess.</ls> <ls>?II,53. 59. Verz. d. Oxf. H. 182,b,44.</ls> {#°कोष#} 
+<ls>COLEBR. Misc. Ess. II,53. 59.</ls> <ls>Verz. d. Oxf. H. 182,b,44.</ls> {#°कोष#} 
 <ls>162,b,22</ls>; vgl. u. {#केसर#} 7) und {#रभसपाल#} . 
 <div n="3">— δ) eines <is>Rākṣasa</is> 
 <ls>R. 5, 80, 1.</ls> 

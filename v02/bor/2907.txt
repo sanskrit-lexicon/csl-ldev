@@ -1,4 +1,4 @@
 <L>2907<pc>098<k1>calendar<k2>calendar
-<div n="lb"/>{@CALENDAR:@}¦ <div n="I">I An almanac: {#पञ्जिका।#} </div><div n="I">II A
-<div n="lb"/>list: q. v.</div>
+{@CALENDAR:@}¦ <div n="I">I An almanac: {#पञ्जिका।#} </div><div n="I">II A
+list: q. v.</div>
 <LEND>

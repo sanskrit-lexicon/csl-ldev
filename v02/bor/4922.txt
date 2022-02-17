@@ -1,25 +1,25 @@
 <L>4922<pc>158<k1>course<k2>course
-<div n="lb"/>{@COURSE@}¦ (subs.): <div n="I">I Motion: q. v.: </div><div n="1">(1) {#गतिः,#}
-<div n="lb"/><div n="xe">{%the c. of his chariot was not interrupted:%}</div> <div n="xs">{#गतिर्विजघ्न #}
-<div n="lb"/>{# नहि तद्रथस्य।#}</div> R. v. 27.; </div><div n="1">(2) {#प्रवाहः#} (=flowing
-<div n="lb"/>c., as of rivers): Ph.: <div n="xe">{%look, so the balloon bends%}
-<div n="lb"/>{%its c.:%}</div> <div n="xs">{#प्रवर्तते पश्य तथा विमानम्,#}</div> R.; <div n="xe">{%directed the c.%}
-<div n="lb"/>{%of the car towards the capital:%}</div> <div n="xs">{#राजधानीं रथस्यदस्य #}
-<div n="lb"/>{# लक्ष्यीचकार,#}</div> N. </div><div n="I">II Track, way: q. v.: {#मार्गः,#}
-<div n="lb"/><div n="xe">{%c. of an arrow:%}</div> <div n="xs">{#मार्गणस्य मार्गः,#}</div> Ki. </div><div n="I">III Race-
-<div n="lb"/>-course: q. v. </div><div n="I">IV Method of procedure:
-<div n="lb"/>{#गतिः,#} <div n="xe">{%there being no other c.:%}</div> <div n="xs">{#गत्यन्तरामावात्,#}</div> D.
-<div n="lb"/>ii.; <div n="xe">{%one who has no c. left:%}</div> <div n="xs">{#अगतिकः#}</div> ({#का, कं#}), K.
-<div n="lb"/>Ph. <div n="xe">{%take to a sacred c.:%}</div> <div n="xs">{#पूतं भजस्व पन्थानम्,#}</div> Vi.</div>
-<div n="lb"/><div n="I">V Of lectures etc.: Ph.: {%a c. of lecture:%}
-<div n="lb"/>{#*क्रमिकपाठाः।#} </div><div n="I">VI Of dishes: {#भोजनप्रकारः#} (or
-<div n="lb"/>strictly) {#*भोजनक्रमः।#} </div><div n="I">VII The menstrual c.:
-<div n="lb"/>{#ऋतुः।#} <div n="xe">{%A woman in her c.:%}</div> <div n="xs">{#रजस्वला।#}</div> Ph.: <div n="xe">{%as a%}
-<div n="lb"/>{%matter of c.:%}</div> <div n="xs">{#प्रकृत्या,#}</div> U.: v. Naturally; <div n="xe">{%he%}
-<div n="lb"/>{%would of c. give his assent:%}</div> <div n="xs">{#स नियतमनुज्ञास्यति,#}</div> Da.
-<div n="lb"/>v. Indeed, certainly, undoubtedly; {%in the%}
-<div n="lb"/>{%c. of,%} expr. by {#मध्ये#} or by loc. absol.; <div n="xe">{%in the%}
-<div n="lb"/>{%c. of conversation:%}</div> <div n="xs">{#कथाप्रसङ्गेन,#}</div> K. i. 24 <div n="xe">{%or%}</div> <div n="xs">{#कथानु-#}
-<div n="lb"/>{#कथनेन,#}</div> N. v. 13; <div n="xe">{%in the c. of time:%}</div> <div n="xs">{#गच्छति काले,#}</div>
-<div n="lb"/>K. <div n="xe">{%or%}</div> <div n="xs">{#कालक्रमेण,#}</div> Ku.; <div n="xe">{%in due c.:%}</div> <div n="xs">{#क्रमेण,#}</div> K.</div>
+{@COURSE@}¦ (subs.): <div n="I">I Motion: q. v.: </div><div n="1">(1) {#गतिः,#}
+<div n="xe">{%the c. of his chariot was not interrupted:%}</div> <div n="xs">{#गतिर्विजघ्न #}
+{# नहि तद्रथस्य।#}</div> R. v. 27.; </div><div n="1">(2) {#प्रवाहः#} (=flowing
+c., as of rivers): Ph.: <div n="xe">{%look, so the balloon bends%}
+{%its c.:%}</div> <div n="xs">{#प्रवर्तते पश्य तथा विमानम्,#}</div> R.; <div n="xe">{%directed the c.%}
+{%of the car towards the capital:%}</div> <div n="xs">{#राजधानीं रथस्यदस्य #}
+{# लक्ष्यीचकार,#}</div> N. </div><div n="I">II Track, way: q. v.: {#मार्गः,#}
+<div n="xe">{%c. of an arrow:%}</div> <div n="xs">{#मार्गणस्य मार्गः,#}</div> Ki. </div><div n="I">III Race-
+-course: q. v. </div><div n="I">IV Method of procedure:
+{#गतिः,#} <div n="xe">{%there being no other c.:%}</div> <div n="xs">{#गत्यन्तरामावात्,#}</div> D.
+ii.; <div n="xe">{%one who has no c. left:%}</div> <div n="xs">{#अगतिकः#}</div> ({#का, कं#}), K.
+Ph. <div n="xe">{%take to a sacred c.:%}</div> <div n="xs">{#पूतं भजस्व पन्थानम्,#}</div> Vi.</div>
+<div n="I">V Of lectures etc.: Ph.: {%a c. of lecture:%}
+{#*क्रमिकपाठाः।#} </div><div n="I">VI Of dishes: {#भोजनप्रकारः#} (or
+strictly) {#*भोजनक्रमः।#} </div><div n="I">VII The menstrual c.:
+{#ऋतुः।#} <div n="xe">{%A woman in her c.:%}</div> <div n="xs">{#रजस्वला।#}</div> Ph.: <div n="xe">{%as a%}
+{%matter of c.:%}</div> <div n="xs">{#प्रकृत्या,#}</div> U.: v. Naturally; <div n="xe">{%he%}
+{%would of c. give his assent:%}</div> <div n="xs">{#स नियतमनुज्ञास्यति,#}</div> Da.
+v. Indeed, certainly, undoubtedly; {%in the%}
+{%c. of,%} expr. by {#मध्ये#} or by loc. absol.; <div n="xe">{%in the%}
+{%c. of conversation:%}</div> <div n="xs">{#कथाप्रसङ्गेन,#}</div> K. i. 24 <div n="xe">{%or%}</div> <div n="xs">{#कथानु-#}
+{#कथनेन,#}</div> N. v. 13; <div n="xe">{%in the c. of time:%}</div> <div n="xs">{#गच्छति काले,#}</div>
+K. <div n="xe">{%or%}</div> <div n="xs">{#कालक्रमेण,#}</div> Ku.; <div n="xe">{%in due c.:%}</div> <div n="xs">{#क्रमेण,#}</div> K.</div>
 <LEND>

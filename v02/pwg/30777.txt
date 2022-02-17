@@ -20,19 +20,19 @@
 <ls>AIT. BR. 5, 32.</ls> 
 <ls>CHĀND. UP. 1, 1, 9.</ls> 
 <ls>M. 7, 43.</ls> 
-<ls>MBH. 1, 4032. 3, 13725.</ls> 
+<ls>MBH. 1, 4032.</ls> <ls n="MBH.">3, 13725.</ls> 
 <ls>BHĀG. P. 5, 20, 4.</ls> {#त्रयी#} <lex>f.</lex> (mit Ergänzung von {#विद्या#}) {%die dreitheilige Wissenschaft, die drei%} <is>Veda</is> 
 <ls>AK. 1, 1, 5, 4.</ls> 
 <ls>TRIK. 3, 3, 312.</ls> 
 <ls>H. 249.</ls> 
 <ls>an. 2, 363.</ls> 
-<ls>MED. y. 26.</ls> <ls>M. 4, 125. 11, 265.</ls> <ls>YĀJÑ. 1, 310.</ls> <ls>MBH. 1, 4034. 2, 231. 3, 11295. 12, 567.</ls> <ls>HARIV. 11322.</ls> <ls>R. GORR. 1, 4, 6</ls> (vom Folgenden zu trennen). 
+<ls>MED. y. 26.</ls> <ls>M. 4, 125. 11, 265.</ls> <ls>YĀJÑ. 1, 310.</ls> <ls>MBH. 1, 4034.</ls> <ls n="MBH.">2, 231.</ls> <ls n="MBH.">3, 11295.</ls> <ls n="MBH.">12, 567.</ls> <ls>HARIV. 11322.</ls> <ls>R. GORR. 1, 4, 6</ls> (vom Folgenden zu trennen). 
 <ls>MĀLAV. 13.</ls> 
 <ls>BHĀG. P. 1, 4, 25. 3, 1, 33. 12, 44. 4, 24, 38.</ls> 
 <ls>PRAB. 30, 14. 15. 86, 13.</ls> 
 <ls>DHŪRTAS. 96, 10.</ls> {#त्रयीधर्म#} 
 <ls>AK. 1, 1, 5, 3.</ls> 
-<ls>MBH. 3, 11296. 17361.</ls> 
+<ls>MBH. 3, 11296.</ls> <ls n="MBH. 3,">17361.</ls> 
 <ls>BHAG. 9, 21.</ls> 
 <ls>MĀRK. P. 21, 74.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#त्रयी#} 

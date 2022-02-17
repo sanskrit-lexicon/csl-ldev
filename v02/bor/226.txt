@@ -1,6 +1,6 @@
 <L>226<pc>010<k1>actor<k2>actor
-<div n="lb"/>{@ACTOR:@}¦ <div n="I">I A doer: q. v.: {#कर्तृ#} (m). </div><div n="I">II A
-<div n="lb"/>stage player: </div><div n="1">(1) {#नटः;#} </div><div n="1">(2) {#नर्तकः;#} </div><div n="1">(3)
-<div n="lb"/>{#कुशीलवः;#} </div><div n="1">(4) {#चारणः;#} </div><div n="1">(5) {#शैलूषः;#} </div><div n="1">(6) {#अभिनेतृ#}
-<div n="lb"/>(m); </div><div n="1">(7) {#रङ्गाजीवः;#} </div><div n="1">(8) {#शैलालिन्#} (m) (rare).</div>
+{@ACTOR:@}¦ <div n="I">I A doer: q. v.: {#कर्तृ#} (m). </div><div n="I">II A
+stage player: </div><div n="1">(1) {#नटः;#} </div><div n="1">(2) {#नर्तकः;#} </div><div n="1">(3)
+{#कुशीलवः;#} </div><div n="1">(4) {#चारणः;#} </div><div n="1">(5) {#शैलूषः;#} </div><div n="1">(6) {#अभिनेतृ#}
+(m); </div><div n="1">(7) {#रङ्गाजीवः;#} </div><div n="1">(8) {#शैलालिन्#} (m) (rare).</div>
 <LEND>

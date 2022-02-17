@@ -1,4 +1,4 @@
 <L>9599<pc>304<k1>fusty<k2>fusty
-<div n="lb"/>{@FUSTY:@}¦ <div n="I">I Rank: {#दुर्गन्धः#} ({#न्धा, न्धं#}). </div><div n="I">II Dry:
-<div n="lb"/>{#शुष्कः#} ({#ष्का, ष्कं#}).</div>
+{@FUSTY:@}¦ <div n="I">I Rank: {#दुर्गन्धः#} ({#न्धा, न्धं#}). </div><div n="I">II Dry:
+{#शुष्कः#} ({#ष्का, ष्कं#}).</div>
 <LEND>

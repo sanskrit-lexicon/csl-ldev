@@ -1,29 +1,29 @@
 <L>12774<pc>193-3<k1>बहिरङ्ग<k2>बहिरङ्ग
 {#बहिरङ्ग#}¦bahir-aṅga, {%a.%} external; unessential: <lbinfo n="7"/>
-<> {@-tā,@} {%f.,%} {@-tva,@} {%n. abst. N.%}; {@-argala,@} -°, 
-<>{%a.%} external bolt; {@-artha,@} {%m.%} external object; 
-<>{@-gata,@} {%pp.%} come forth: {@-tva,@} {%n.%} appearance; 
-<>{@-giri,@} {%m.%} ({%country%} beyond the hills), {%N. of %}
-<>{%a country%}: {%pl. N. of a people%}; {@-geham,@} {%ad.%} 
-<>outside the house; {@-grāmam,@} {%ad.%} outside the 
-<>village; {@-grāma-pratiśraya@}, {%a.%} dwelling 
-<>outside the village; {@-dṛś@}, {%a.%} looking {%at the%} 
-<>outside, superficial ({%person%}); {@-dvāra,@} {%n.%} outer 
-<>door; space outside the door; {@-dvārin,@} {%a.%} 
-<>being outside the door; {@-dhā́,@} {%ad. prp. with %}
-<>{%ab.%} outside, away from ({%V.%}); {@-nirgamana,@} 
-<>{%n.%} going out of ({%ab.%}); {@-niḥsaraṇa@}, {%n.%} taking 
-<>out, removal; {@-bhava,@} {%a.%} external; {@-bhāga,@} 
-<>{%m.%} exterior; {@-maṇḍala-stha@}, {%a.%} being outside <lbinfo n="3"/>
-<> the circle; {@-mukha,@} {%a.%} issuing from the 
-<>mouth; averting {%one's%} face, averse form (-°); 
-<>having {%one's%} mind outward, {%i. e. directed towards %}<lbinfo n="2"/>
-<>{% the external world%}; {@-yāna,@} {%n.%} going 
-<>out; ({@ir@}) {@-loma,@} {%a.%} having the hair {%turned%} 
-<>outwards; {@-loman,@} {%a. id.%}; {@-vāsas,@} {%n.%} upper 
-<>garment; {@-vikāram,@} {%ad.%} apart from individual <lbinfo n="4"/>
-<> existence ({%Sāṃkhya ph.%}); {@-vṛtti@}, {%f.%} 
-<>occupation with external matters; {@-vedi,@} ¤1.¤ 
-<>{%f.%} space outside the Vedi; ¤2.¤ {%ad.%} ({@i@}) outside 
-<>the Vedi; {@-vedi-ka,@} {%a.%} being outside the Vedi.
+ {@-tā,@} {%f.,%} {@-tva,@} {%n. abst. N.%}; {@-argala,@} -°, 
+{%a.%} external bolt; {@-artha,@} {%m.%} external object; 
+{@-gata,@} {%pp.%} come forth: {@-tva,@} {%n.%} appearance; 
+{@-giri,@} {%m.%} ({%country%} beyond the hills), {%N. of %}
+{%a country%}: {%pl. N. of a people%}; {@-geham,@} {%ad.%} 
+outside the house; {@-grāmam,@} {%ad.%} outside the 
+village; {@-grāma-pratiśraya@}, {%a.%} dwelling 
+outside the village; {@-dṛś@}, {%a.%} looking {%at the%} 
+outside, superficial ({%person%}); {@-dvāra,@} {%n.%} outer 
+door; space outside the door; {@-dvārin,@} {%a.%} 
+being outside the door; {@-dhā́,@} {%ad. prp. with %}
+{%ab.%} outside, away from ({%V.%}); {@-nirgamana,@} 
+{%n.%} going out of ({%ab.%}); {@-niḥsaraṇa@}, {%n.%} taking 
+out, removal; {@-bhava,@} {%a.%} external; {@-bhāga,@} 
+{%m.%} exterior; {@-maṇḍala-stha@}, {%a.%} being outside <lbinfo n="3"/>
+ the circle; {@-mukha,@} {%a.%} issuing from the 
+mouth; averting {%one's%} face, averse form (-°); 
+having {%one's%} mind outward, {%i. e. directed towards %}<lbinfo n="2"/>
+{% the external world%}; {@-yāna,@} {%n.%} going 
+out; ({@ir@}) {@-loma,@} {%a.%} having the hair {%turned%} 
+outwards; {@-loman,@} {%a. id.%}; {@-vāsas,@} {%n.%} upper 
+garment; {@-vikāram,@} {%ad.%} apart from individual <lbinfo n="4"/>
+ existence ({%Sāṃkhya ph.%}); {@-vṛtti@}, {%f.%} 
+occupation with external matters; {@-vedi,@} ¤1.¤ 
+{%f.%} space outside the Vedi; ¤2.¤ {%ad.%} ({@i@}) outside 
+the Vedi; {@-vedi-ka,@} {%a.%} being outside the Vedi.
 <LEND>

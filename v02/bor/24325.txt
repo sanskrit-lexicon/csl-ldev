@@ -1,4 +1,4 @@
 <L>24325<pc>761<k1>wholesale<k2>wholesale
-<div n="lb"/>{@WHOLESALE:@}¦ <div n="xe">{%w.-dealer:%}</div> <div n="xs">{#स्तूपविक्रयिन्#}</div> (f. {#णी:#}
-<div n="lb"/>?); <div n="xe">{%w.-purchase:%}</div> <div n="xs">{#स्तूपक्रयः#}</div> (?).
+{@WHOLESALE:@}¦ <div n="xe">{%w.-dealer:%}</div> <div n="xs">{#स्तूपविक्रयिन्#}</div> (f. {#णी:#}
+?); <div n="xe">{%w.-purchase:%}</div> <div n="xs">{#स्तूपक्रयः#}</div> (?).
 <LEND>

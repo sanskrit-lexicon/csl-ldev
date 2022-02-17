@@ -33,11 +33,11 @@ in <s1 slp1="veda">Veda</s1> also <s>ववर्त्ति</s> and [once in <
 <div n="to"/>to be in a <ab>partic.</ab> condition, be engaged in or occupied with (<ab>loc.</ab>), <ls>Āpast.</ls>; <ls>MBh.</ls> &c. <pb n="1009,2"/>;
 <div n="to"/>to be intent on, attend to (<ab>dat.</ab>), <ls>R.</ls>;
 <div n="to"/>to stand or be used in the sense of (<ab>loc.</ab>), <ls>Kāś.</ls>;
-<div n="to"/>to act, conduct one's self, behave towards (<ab>loc.</ab> <ab>dat.</ab>, or <ab>acc.</ab>; also with <s>इतरे<srs/>तरम्</s> or <s>परस्परम्</s>, ‘mutually’), <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
-<div n="to"/>to act or deal with, follow a course of conduct (also with <s>वृत्तिम्</s>), show, display, employ, use, act in any way (<ab>instr.</ab> or <ab>acc.</ab>) towards (<ab>loc.</ab> with <s>परा<srs/>ज्ञया</s>, ‘to act under another's command’; with <s>प्रजा-रूपेण</s>, ‘to assume the form of a son’; with <s>प्रिय/म्</s>, ‘to act kindly’; with <s>स्वानि</s>, ‘to mind one's own business’; <s>किम् इदम् वर्तसे</s>, ‘what are you doing there?’), <ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to act, conduct one's self, behave towards (<ab>loc.</ab> <ab>dat.</ab>, or <ab>acc.</ab>; also with <s>इतरे<स्र्स्/>तरम्</s> or <s>परस्परम्</s>, ‘mutually’), <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to act or deal with, follow a course of conduct (also with <s>वृत्तिम्</s>), show, display, employ, use, act in any way (<ab>instr.</ab> or <ab>acc.</ab>) towards (<ab>loc.</ab> with <s>परा<स्र्स्/>ज्ञया</s>, ‘to act under another's command’; with <s>प्रजा-रूपेण</s>, ‘to assume the form of a son’; with <s>प्रिय/म्</s>, ‘to act kindly’; with <s>स्वानि</s>, ‘to mind one's own business’; <s>किम् इदम् वर्तसे</s>, ‘what are you doing there?’), <ls>ŚBr.</ls>; <ls>Mn.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to tend or turn to, prove as (<ab>dat.</ab>), <ls>Śukas.</ls>;
 <div n="to"/>to be or exist or live at a <ab>partic.</ab> time, be alive or present (<ab>cf.</ab> <s>वर्तमान</s>, <s>वर्तिष्यमाण</s>, and <s>वर्त्स्यत्</s>, p.925), <ls>MBh.</ls> &c. &c.;
-<div n="to"/>to continue (with an <ab>ind.p.</ab>, <s>अती<srs/>त्य वर्तन्ते</s>, ‘they continue to excel’; <s>इति वर्तते मे बुद्धिः</s>, ‘such continues my opinion’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
+<div n="to"/>to continue (with an <ab>ind.p.</ab>, <s>अती<स्र्स्/>त्य वर्तन्ते</s>, ‘they continue to excel’; <s>इति वर्तते मे बुद्धिः</s>, ‘such continues my opinion’), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to hold good, continue in force, be supplied from what precedes, <ls>Pat.</ls>; <ls>Kāś.</ls>;
 <div n="to"/>to originate, arise from (<ab>abl.</ab>) or in (<ab>loc.</ab>), <ls>BhP.</ls>;
 <div n="to"/>to become, <ls>TBr.</ls>;
@@ -53,7 +53,7 @@ in <s1 slp1="veda">Veda</s1> also <s>ववर्त्ति</s> and [once in <
 <div n="to"/>to understand, know, learn, <ls>BhP.</ls>;
 <div n="to"/>to treat, <ls>Car.</ls>;
 <div n="to"/> (in law, with <s>शिरस्</s> or <s>शीर्षम्</s>) to offer one's self to be punished if another is proved innocent by an ordeal, <ls>Viṣṇ.</ls>; <ls>Yājñ.</ls>;
-<div n="to"/> ‘to speak’ or ‘to shine’ (<s>भाषा<srs/>र्थे</s> or <s>भासा<srs/>र्थे</s>), <ls>Dhātup. xxxiii, 108</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>वि/वृत्सति</s>, <s>°ते</s> (<ls>RV.</ls>; <ls>Br.</ls>), <s>विवर्तिषते</s> (<ls>Pāṇ. 1-3, 92</ls>), to wish to turn &c.:
-<div n="vp"/><ab>Intens.</ab> (<ab>Ved.</ab>, rarely in later language) <s>व/र्वर्त्ति</s>, <s>वरीवर्त्ति</s>, <s>वरीवर्त्य/ते</s>, <s>वरीवर्तते</s>, <ab>p.</ab> <s>व/र्वृतत्</s> and <s>व/र्वृतान</s> <ab>impf.</ab> 3. <ab>sg.</ab> <s>अवरीवर्</s>, 3. <ab>pl.</ab> <s>अवरीवुर्</s> (<ab>Gr.</ab> also <s>वरिवर्त्ति</s>, <s>वरी<shortlong/>वृतीति</s>, <s>वर्वृतीति</s>, <s>वरीवृत्यते</s>), to turn, roll, revolve, be, exist, prevail, <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>Kāv.</ls><info westergaard="vftu,18.19,01.0491;vftu,33.108,10.0195"/><info whitneyroots="vft,164"/><info verb="genuineroot" cp="1Ā"/>
+<div n="to"/> ‘to speak’ or ‘to shine’ (<s>भाषा<स्र्स्/>र्थे</s> or <s>भासा<स्र्स्/>र्थे</s>), <ls>Dhātup. xxxiii, 108</ls> :
+<div n="vp"/><ab>Desid.</ab> <s>वि/वृत्सति</s>, <s>°ते</s> (<ls>RV.</ls>; <ls>Br.</ls>), <s>विवर्तिषते</s> (<ls>Pāṇ. i, 3, 92</ls>), to wish to turn &c.:
+<div n="vp"/><ab>Intens.</ab> (<ab>Ved.</ab>, rarely in later language) <s>व/र्वर्त्ति</s>, <s>वरीवर्त्ति</s>, <s>वरीवर्त्य/ते</s>, <s>वरीवर्तते</s>, <ab>p.</ab> <s>व/र्वृतत्</s> and <s>व/र्वृतान</s> <ab>impf.</ab> 3. <ab>sg.</ab> <s>अवरीवर्</s>, 3. <ab>pl.</ab> <s>अवरीवुर्</s> (<ab>Gr.</ab> also <s>वरिवर्त्ति</s>, <s>वरी<स्होर्त्लोन्ग्/>वृतीति</s>, <s>वर्वृतीति</s>, <s>वरीवृत्यते</s>), to turn, roll, revolve, be, exist, prevail, <ls>RV.</ls>; <ls>ŚBr.</ls>; <ls>Kāv.</ls><info westergaard="vftu,18.19,01.0491;vftu,33.108,10.0195"/><info whitneyroots="vft,164"/><info verb="genuineroot" cp="1Ā"/>
 <LEND>

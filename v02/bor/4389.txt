@@ -1,6 +1,6 @@
 <L>4389<pc>142<k1>confirm<k2>confirm
-<div n="lb"/>{@CONFIRM:@}¦ <div n="I">I To make firm: {#द्रढयति#} (nomi.) [Page143]
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#दृढीकरोति,#}</div> <div n="xe">{%to c. it still more:%}</div> <div n="xs">{#दृढतरीकर्तम्,:#}</div> v.
-<div n="lb"/>To establish. </div><div n="I">II To ratify: q. v. </div><div n="I">III To
-<div n="lb"/>c. Christians: {#*प्रतिपादयति#} (c. of {#पद्#}).</div>
+{@CONFIRM:@}¦ <div n="I">I To make firm: {#द्रढयति#} (nomi.) [Page143]
+<div n="xe">{%or%}</div> <div n="xs">{#दृढीकरोति,#}</div> <div n="xe">{%to c. it still more:%}</div> <div n="xs">{#दृढतरीकर्तम्,:#}</div> v.
+To establish. </div><div n="I">II To ratify: q. v. </div><div n="I">III To
+c. Christians: {#*प्रतिपादयति#} (c. of {#पद्#}).</div>
 <LEND>

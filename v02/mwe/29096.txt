@@ -1,4 +1,4 @@
 <L>29096<pc>795-a<k1>talent<k2>talent
-<div n="lb"/>TALENT¦, {%s.%} (Endowment) {#गुणः#}. — (Great abilities) {#बुद्धिवैभवं, बुद्धि-#}
-<div n="lb"/>{#कौशलं, बुद्धिशक्तिः#} {%f.,%} {#बुद्धिप्रभावः, दाक्षिण्यं,#} {%see%} GENIUS.
+TALENT¦, {%s.%} (Endowment) {#गुणः#}. — (Great abilities) {#बुद्धिवैभवं, बुद्धि-#}
+{#कौशलं, बुद्धिशक्तिः#} {%f.,%} {#बुद्धिप्रभावः, दाक्षिण्यं,#} {%see%} GENIUS.
 <LEND>

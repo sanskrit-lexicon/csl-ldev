@@ -1,17 +1,17 @@
 <L>23554<pc>0460-a<k1>धे<k2>धे
 {#धे#}¦ {%dhe,%} cl. 1. P. {%dhayati, dadhau, dhās-%}
-<div n="lb"/>{%yati, adhāt, adhāsīt, adadhat,%} Prec. {%dhe-%}
-<div n="lb"/>{%yāt, dhātum,%} to suck, drink, to suck in, drink in,
-<div n="lb"/>absorb; appropriate; to suck out, draw away, take
-<div n="lb"/>away: Caus. {%dhāpayati, -yitum,%} to give suck,
-<div n="lb"/>suckle, nourish: Desid. {%dhitsati,%} to wish to suck;
-<div n="lb"/>[cf. {%dadhi, dhātrī,%} 2. {%dhāyas, dhāru,%} 2. {%dhāsi:%}
-<div n="lb"/>Zend <nsi>daēnu,</nsi> ‘female:’ Gr. <lang n="greek">θῆ-σθαι, θη-λή, θη-λώ,</lang>
-<div n="lb"/><lang n="greek">θηλα-μών, τήθη, τι-θή-νη, τί-τθο-ς, θῆ-λυ-ς,</lang>
-<div n="lb"/><lang n="greek">γαλα-θη-νό-ς, Τη-θύ-ς, ϴέ-τι-ς:</lang> Lat. <nsi>fī-liu-s, fī-</nsi>
-<div n="lb"/><nsi>li-a, fē-lā-re, fē-mina:</nsi> Umbr. <nsi>fe-liu = filius:</nsi>
-<div n="lb"/>Goth. <nsi>dadd-ya</nsi> = Old Germ. <nsi>tā-u,</nsi> ‘I suck;’ <nsi>tila,</nsi>
-<div n="lb"/>‘female breast;’ <nsi>tuta, tutta</nsi> = Eng. <nsi>teat:</nsi> Slav. <nsi>do-</nsi>
-<div n="lb"/><nsi>ya,</nsi> ‘to suck;’ <nsi>doilica,</nsi> ‘nurse;’ <nsi>de†-te,</nsi> ‘child;’
-<div n="lb"/><nsi>de†-va,</nsi> ‘virgin:’ Hib. <nsi>daif,</nsi> ‘drink.’]
+{%yati, adhāt, adhāsīt, adadhat,%} Prec. {%dhe-%}
+{%yāt, dhātum,%} to suck, drink, to suck in, drink in,
+absorb; appropriate; to suck out, draw away, take
+away: Caus. {%dhāpayati, -yitum,%} to give suck,
+suckle, nourish: Desid. {%dhitsati,%} to wish to suck;
+[cf. {%dadhi, dhātrī,%} 2. {%dhāyas, dhāru,%} 2. {%dhāsi:%}
+Zend <nsi>daēnu,</nsi> ‘female:’ Gr. <lang n="greek">θῆ-σθαι, θη-λή, θη-λώ,</lang>
+<lang n="greek">θηλα-μών, τήθη, τι-θή-νη, τί-τθο-ς, θῆ-λυ-ς,</lang>
+<lang n="greek">γαλα-θη-νό-ς, Τη-θύ-ς, ϴέ-τι-ς:</lang> Lat. <nsi>fī-liu-s, fī-</nsi>
+<nsi>li-a, fē-lā-re, fē-mina:</nsi> Umbr. <nsi>fe-liu = filius:</nsi>
+Goth. <nsi>dadd-ya</nsi> = Old Germ. <nsi>tā-u,</nsi> ‘I suck;’ <nsi>tila,</nsi>
+‘female breast;’ <nsi>tuta, tutta</nsi> = Eng. <nsi>teat:</nsi> Slav. <nsi>do-</nsi>
+<nsi>ya,</nsi> ‘to suck;’ <nsi>doilica,</nsi> ‘nurse;’ <nsi>de†-te,</nsi> ‘child;’
+<nsi>de†-va,</nsi> ‘virgin:’ Hib. <nsi>daif,</nsi> ‘drink.’]
 <LEND>

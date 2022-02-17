@@ -12,7 +12,7 @@
 <ls>H. an.</ls> <ls>MED.</ls> {#संभवो ऽप्यनुमानमेव । तदुदाहरणं हि भवति । खार्यां द्रोणः संभवति । द्रोण आढकं संभवति । सहस्रे शतमित्यादि#} 
 <ls>Z. d. d. m. G. 7, 310, N. 3.</ls> {#संभवो यथा । प्रस्थ इत्युक्ते चत्वारः कुडवाः संभाव्यन्ते#} 
 <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 4.</ls> Am Ende eines <lex>adj.</lex> comp. so v. a. {%enthalten in%} 
-<ls>MBH. 4, 183. 13, 1115.</ls> 
+<ls>MBH. 4, 183.</ls> <ls n="MBH.">13, 1115.</ls> 
 <ls>SUŚR. 1, 5, 14.</ls> 
 <div n="2">— d) {%Entstehung, Geburt%} 
 <ls>H. an. 3, 714.</ls> 
@@ -24,12 +24,12 @@
 <ls>6, 63. 7, 1. 9, 33.</ls> {#संभवांश्च वियोनीषु#} 
 <ls>12, 77.</ls> {#ब्राह्मणः संभवेनैव देवानामपि दैवतम्#} {%schon durch die Geburt%} 
 <ls>11, 84.</ls> {#संभवानेकविंशतिम्#} 
-<ls>5, 35.</ls> <ls>MBH. 13, 3262. 1, 367. 373.</ls> {#मानुषीषु (मानुषीभ्यः#} 
+<ls>5, 35.</ls> <ls>MBH. 13, 3262.</ls> <ls n="MBH.">1, 367.</ls> <ls n="MBH. 1,">373.</ls> {#मानुषीषु (मानुषीभ्यः#} 
 v. l.) {#अस्य रूपस्य#} 
 <ls>ŚĀK. 25.</ls> {#माहिष्यात्करण्याम्#} 
 <ls>AK. 2, 10, 4.</ls> {#राज्याङ्गानां तु सर्वेषां राष्ट्राद्भवति संभवः#} 
 <ls>KĀM. NĪTIS. 6, 3.</ls> <ls>MĀLATĪM. 156, 6.</ls> {#संभवः स्त्रीकृतो नृणाम्#} 
-<ls>Spr. (II) 2410. 5316.</ls> {#नखरोम्णाम्#} 
+<ls>Spr. (II) 2410.</ls> <ls n="Spr. (II)">5316.</ls> {#नखरोम्णाम्#} 
 <ls>YĀJÑ. 3, 80.</ls> 
 <ls>BHĀG. P. 2, 8, 15. 3, 11, 25. 31, 44. 7, 2, 26. 9, 42.</ls> {#त्वक्फलकृमिरोमभ्यः#} {%das Verfertigtsein%}
 [Page7-0754]
@@ -38,7 +38,7 @@ v. l.) {#अस्य रूपस्य#}
 <ls>BHAG. 3, 14.</ls> {#नाले - एकस्मिन्द्वित्रिसंभवः#} 
 <ls>VARĀH. BṚH. S. 46, 33.</ls> {#येन स्यात्पुत्रसंभवः#} 
 <ls>KATHĀS. 39, 6.</ls> {#विशल्या°#} so v. a. {%Ursprung, Quelle%} 
-<ls>Verz. d. Oxf. H. 65</ls>, {%b%}, 
+<ls>Verz. d. Oxf. H. 65,b,</ls> 
 <ls>30. fg.</ls> {#अ°#} <lex>m.</lex> {%das Vergehen, Vernichtung%} 
 <ls>VS. 40, 10.</ls> {#असताम्#} 
 <ls>BHĀG. P. 2, 4, 13.</ls> <lex>adj.</lex> {%nicht wieder entstehend, - geboren werdend%} ({#संभव = स्थूलदेह#} Comm.) 
@@ -46,7 +46,7 @@ v. l.) {#अस्य रूपस्य#}
 <div n="3"> α) der von dem Jmd oder das, woraus Etwas {%entsteht%} oder {%entstanden ist u.s.w.%} 
 <ls>M. 5, 10. 6, 13. 8, 328. 9, 320.</ls> 
 <ls>BHAG. 10, 41. 13, 19.</ls> 
-<ls>MBH. 1, 1147. 13, 4499. 4501. 4538.</ls> 
+<ls>MBH. 1, 1147.</ls> <ls n="MBH.">13, 4499.</ls> <ls n="MBH. 13,">4501.</ls> <ls n="MBH. 13,">4538.</ls> 
 <ls>RAGH. 3, 42. 8, 81.</ls> 
 <ls>ŚĀK. 11, 10. 15, 4. 41. 186.</ls> 
 <ls>VIKRAM. 8, 17. 152.</ls> <ls>WEBER, RĀMAT. UP. 337. 340.</ls> <ls>Spr. (II) 5795.</ls> <ls>VARĀH. BṚH. S. 60, 8.</ls> <ls>KATHĀS. 34, 55.</ls> <ls>PAÑCAT. 141, 3.</ls> {#सविषमक्षिकासंभवत्व#} <lex>n.</lex> {%das Bereitetsein durch%} 
@@ -104,9 +104,9 @@ v. l.) {#अस्य रूपस्य#}
 <ls>SĀH. D. 3, 17.</ls> {#प्राप्ति°#} 
 <ls>327.</ls> <ls>NĪLAK. 34. 54.</ls> <ls>MÜLLER, SL. 97.</ls> <ls>SARVADARŚANAS. 50, 22. 120, 2. 125, 6. 127, 7. 155, 22.</ls> {#संभवेन#} {%nach Möglichkeit%} 
 <ls>MĀRK. P. 31, 50.</ls> in der Rhetorik so v. a. {%ein möglicher Fall%} 
-<ls>KUVALAY. 164</ls>, {%a%} (197, {%a%}). 
-<ls>Verz. d. Oxf. H. 208</ls>, {%b%}, 5. {#अ°#} <lex>m.</lex> {%Unmöglichkeit, Ungereimtheit%} 
-<ls>KĀTY. ŚR. 1, 5, 17. 6, 17. 20. 10, 13. 5, 3, 35. 7, 2, 24. 9, 12,6.  25, 14, 2.</ls> 
+<ls>KUVALAY. 164,a</ls> (197, {%a%}). 
+<ls>Verz. d. Oxf. H. 208,b,5.</ls> {#अ°#} <lex>m.</lex> {%Unmöglichkeit, Ungereimtheit%} 
+<ls>KĀTY. ŚR. 1, 5, 17. 6, 17. 20. 10, 13. 5, 3, 35. 7, 2, 24. 9, 12,6. 25, 14, 2.</ls> 
 <ls>ŚĀṄKH. GṚHY. 6, 3.</ls> 
 <ls>M. 7, 200.</ls> 
 <ls>YĀJÑ. 1, 126.</ls> 
@@ -118,7 +118,7 @@ v. l.) {#अस्य रूपस्य#}
 eine best. Redefigur 
 <ls>KUVALAY. 98</ls>,b. <lex>adj.</lex> {%unmöglich, ungereimt%} 
 <ls>Ind. St. 1, 41, 19.</ls> 
-<ls>Spr. (II) 766. 4193.</ls> {#संभव#} am Ende eines <lex>adj.</lex> comp. in Verbindung mit dem was durch Etwas {%ermöglicht wird%}: {#प्रवाहैः कायक्षालनसंभवैः#} 
+<ls>Spr. (II) 766.</ls> <ls n="Spr. (II)">4193.</ls> {#संभव#} am Ende eines <lex>adj.</lex> comp. in Verbindung mit dem was durch Etwas {%ermöglicht wird%}: {#प्रवाहैः कायक्षालनसंभवैः#} 
 <ls>Spr. (II) 534.</ls> 
 <div n="2">— i) = {#अपाय#} 
 <ls>AJAYA</ls> im <ls>ŚKDR.</ls> 

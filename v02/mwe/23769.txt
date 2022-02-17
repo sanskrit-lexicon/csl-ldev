@@ -1,6 +1,6 @@
 <L>23769<pc>635-b<k1>proportionateness<k2>proportionateness
-<div n="lb"/>PROPORTIONATENESS¦, PROPORTIONABLENESS, {%s.%} {#प्रमाणसमता, परिमाण-#}
-<div n="lb"/>{#समता, समप्रमाणकता, सम्मितिः#} {%f.,%} {#अनुगुणता, आनुगुण्यं, सदृशता,#}
-<div n="lb"/>{#सादृश्यं, समता, तुल्यता, अनुरूपता, आनुरूप्पं, परस्परानुगुण्यं#}. {%See%}
-<div n="lb"/>PROPORTION.
+PROPORTIONATENESS¦, PROPORTIONABLENESS, {%s.%} {#प्रमाणसमता, परिमाण-#}
+{#समता, समप्रमाणकता, सम्मितिः#} {%f.,%} {#अनुगुणता, आनुगुण्यं, सदृशता,#}
+{#सादृश्यं, समता, तुल्यता, अनुरूपता, आनुरूप्पं, परस्परानुगुण्यं#}. {%See%}
+PROPORTION.
 <LEND>

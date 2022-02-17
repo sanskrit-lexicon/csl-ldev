@@ -1,6 +1,6 @@
 <L>14028<pc>430<k1>main<k2>main
-<div n="lb"/>{@MAIN@}¦ (subs.): <div n="I">I Strength: q. v. </div><div n="I">II The
-<div n="lb"/>ocean: {#महासमुद्रः।#} </div><div n="I">III Mainland: q. v.</div>
-<div n="lb"/><div n="I">IV A pipe. Ph.: {%for the m., in the m.:%} v.
-<div n="lb"/>Mainly.</div>
+{@MAIN@}¦ (subs.): <div n="I">I Strength: q. v. </div><div n="I">II The
+ocean: {#महासमुद्रः।#} </div><div n="I">III Mainland: q. v.</div>
+<div n="I">IV A pipe. Ph.: {%for the m., in the m.:%} v.
+Mainly.</div>
 <LEND>

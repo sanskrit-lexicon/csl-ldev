@@ -1,5 +1,5 @@
 <L>13111<pc>405<k1>laceration<k2>laceration
-<div n="lb"/>{@LACERATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#भेदनम्;#} </div><div n="1">(2)
-<div n="lb"/>{#विभेदः;#} </div><div n="1">(3) {#विदारणम्;#} </div><div n="1">(4) {#पाटनम्, वि-।#} </div><div n="I">II The
-<div n="lb"/>breach made: {#भेदः, वि-।#}</div>
+{@LACERATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#भेदनम्;#} </div><div n="1">(2)
+{#विभेदः;#} </div><div n="1">(3) {#विदारणम्;#} </div><div n="1">(4) {#पाटनम्, वि-।#} </div><div n="I">II The
+breach made: {#भेदः, वि-।#}</div>
 <LEND>

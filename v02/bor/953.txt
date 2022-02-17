@@ -1,16 +1,16 @@
 <L>953<pc>033<k1>apply<k2>apply
-<div n="lb"/>{@APPLY@}¦ (v. t.): <div n="I">I To lay or put on: </div><div n="1">(1) {#प्रयो-#}
-<div n="lb"/>{#जयति#} <div n="xe">{%or%}</div> <div n="xs">{#युनक्ति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#यूंक्ते#}</div> ({#युज्,#} c. 10. and 7.), <div n="xe">{%do%}
-<div n="lb"/>{%not a. liniment at night%}</div> <div n="xs">{#नालेपं रात्रौ प्रयुञ्जीत,#}</div> Sr.;</div>
-<div n="lb"/><div n="1">(2) {#नि-वेशयति#} (c. {#विश्#}), <div n="xe">{%a. ing the shell to his%}
-<div n="lb"/>{%lower lip%}</div> <div n="xs">{#अधरौष्ठे जलजं निवेश्य,#}</div> R. vii. 63. Ph.:
-<div n="lb"/><div n="xe">{%a. ing the bit to your mouth%}</div> <div n="xs">{#खलीनं मुखे प्रक्षिप्य,#}</div> P.
-<div n="lb"/>iv. 7.; <div n="xe">{%he a. d his hand to my breast%}</div> <div n="xs">{#स ममोरसि #}
-<div n="lb"/>{# हस्तं ददौ।#}</div> </div><div n="I">II To use, refer: {#प्रयोजयति#} {%or%}
-<div n="lb"/>{#युनक्ति,#} <div n="xe">{%or%}</div> <div n="xs">{#युंक्ते#}</div>, {%we a. the words like ‘sun’ to it%}
-<div n="lb"/>{#तस्मिन्नादित्यादयः शब्दाः प्रयुज्यन्ते,#} <ls>S.</ls> iii. 32. </div><div n="I">III
-<div n="lb"/>To use for a particular purpose, to devote:
-<div n="lb"/>{#प्रयोजयति।#} </div><div n="I">IV To fix closely, incline: {#मनो #}
-<div n="lb"/>{# यच्छति#} ({#दा,#} c. 1), {#ददाति#} ({#दा,#} c. 3), {#निदधाति#}
-<div n="lb"/>({#धा,#} c. 3), <div n="xe">{%or%}</div> <div n="xs">{#युनक्ति#}</div> ({#युज्,#} c. 7).</div>
+{@APPLY@}¦ (v. t.): <div n="I">I To lay or put on: </div><div n="1">(1) {#प्रयो-#}
+{#जयति#} <div n="xe">{%or%}</div> <div n="xs">{#युनक्ति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#यूंक्ते#}</div> ({#युज्,#} c. 10. and 7.), <div n="xe">{%do%}
+{%not a. liniment at night%}</div> <div n="xs">{#नालेपं रात्रौ प्रयुञ्जीत,#}</div> Sr.;</div>
+<div n="1">(2) {#नि-वेशयति#} (c. {#विश्#}), <div n="xe">{%a. ing the shell to his%}
+{%lower lip%}</div> <div n="xs">{#अधरौष्ठे जलजं निवेश्य,#}</div> R. vii. 63. Ph.:
+<div n="xe">{%a. ing the bit to your mouth%}</div> <div n="xs">{#खलीनं मुखे प्रक्षिप्य,#}</div> P.
+iv. 7.; <div n="xe">{%he a. d his hand to my breast%}</div> <div n="xs">{#स ममोरसि #}
+{# हस्तं ददौ।#}</div> </div><div n="I">II To use, refer: {#प्रयोजयति#} {%or%}
+{#युनक्ति,#} <div n="xe">{%or%}</div> <div n="xs">{#युंक्ते#}</div>, {%we a. the words like ‘sun’ to it%}
+{#तस्मिन्नादित्यादयः शब्दाः प्रयुज्यन्ते,#} <ls>S.</ls> iii. 32. </div><div n="I">III
+To use for a particular purpose, to devote:
+{#प्रयोजयति।#} </div><div n="I">IV To fix closely, incline: {#मनो #}
+{# यच्छति#} ({#दा,#} c. 1), {#ददाति#} ({#दा,#} c. 3), {#निदधाति#}
+({#धा,#} c. 3), <div n="xe">{%or%}</div> <div n="xs">{#युनक्ति#}</div> ({#युज्,#} c. 7).</div>
 <LEND>

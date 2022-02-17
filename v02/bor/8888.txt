@@ -1,5 +1,5 @@
 <L>8888<pc>281<k1>flagrancy<k2>flagrancy
-<div n="lb"/>{@FLAGRANCY:@}¦ <div n="I">I Enormous: </div><div n="1">(1) {#घोरता;#} </div><div n="1">(2)
-<div n="lb"/>{#दारुणता, -त्वम् घोरः#} ({#रा, रं#}); </div><div n="1">(3) {#दारुण#} (f. {#णा#}).</div>
-<div n="lb"/><div n="I">II Glowing, raging: {#दीप्यमानः#} ({#ना, नं#}).</div>
+{@FLAGRANCY:@}¦ <div n="I">I Enormous: </div><div n="1">(1) {#घोरता;#} </div><div n="1">(2)
+{#दारुणता, -त्वम् घोरः#} ({#रा, रं#}); </div><div n="1">(3) {#दारुण#} (f. {#णा#}).</div>
+<div n="I">II Glowing, raging: {#दीप्यमानः#} ({#ना, नं#}).</div>
 <LEND>

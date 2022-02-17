@@ -1,4 +1,4 @@
 <L>24349<pc>762<k1>width<k2>width
-<div n="lb"/>{@WIDTH:@}¦ <div n="1">(1) {#विस्तारः;#} </div><div n="1">(2) {#व्यासः;#} </div><div n="1">(3) {#परिणाहः:#}
-<div n="lb"/>v. Breadth.</div>
+{@WIDTH:@}¦ <div n="1">(1) {#विस्तारः;#} </div><div n="1">(2) {#व्यासः;#} </div><div n="1">(3) {#परिणाहः:#}
+v. Breadth.</div>
 <LEND>

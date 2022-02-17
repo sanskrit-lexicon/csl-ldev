@@ -1,19 +1,19 @@
 <L>12259<pc>180-2<k1>प्रयाग<k2>प्रयाग
 {#प्रयाग#}¦pra-yāga, {%m.%} Place of sacrifice: {%celebrated %}<lbinfo n="6"/>
-<>{% place of pilgrimage at the confluence %}
-<>{%of the Yamunā and the Ganges%}; {%also known as %}
-<>{%a kingdom%}: {%pl.%} inhabitants of Prayāga; {%N.%}; 
-<>{@-yācaka@}, {%a.%} entreating (-artham); {@-yācana@}, 
-<>{%n.%} imploration; {@-yājá@}, {%m.%} preliminary offering <lbinfo n="5"/>
-<> ({%gnly. five, sts. nine or eleven%}); {@-yāṇa@}, 
-<>{%n.%} setting out, going forth, departure; march, 
-<>journey; day's journey; gait; attack (-°); 
-<>riding on ({%in.%}); expiration of life, decease; 
-<>beginning; back of a horse ({%where the rider %}
-<>{%sits%}): {@-ka,@} {%n.%} march, journey, day's march, 
-<>{@-kāla,@} {%m.%} time of death, {@-paṭaha@}, {%m.%} marching  <lbinfo n="5"/>
+{% place of pilgrimage at the confluence %}
+{%of the Yamunā and the Ganges%}; {%also known as %}
+{%a kingdom%}: {%pl.%} inhabitants of Prayāga; {%N.%}; 
+{@-yācaka@}, {%a.%} entreating (-artham); {@-yācana@}, 
+{%n.%} imploration; {@-yājá@}, {%m.%} preliminary offering <lbinfo n="5"/>
+ ({%gnly. five, sts. nine or eleven%}); {@-yāṇa@}, 
+{%n.%} setting out, going forth, departure; march, 
+journey; day's journey; gait; attack (-°); 
+riding on ({%in.%}); expiration of life, decease; 
+beginning; back of a horse ({%where the rider %}
+{%sits%}): {@-ka,@} {%n.%} march, journey, day's march, 
+{@-kāla,@} {%m.%} time of death, {@-paṭaha@}, {%m.%} marching  <lbinfo n="5"/>
 
 [Page180-3]
  drum, {@-bhanega,@} {%m.%} interruption of a 
-<>journey.
+journey.
 <LEND>

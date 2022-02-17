@@ -7,10 +7,10 @@
 <ls>TRIK. 3, 3, 35.</ls> 
 <ls>H. 1332.</ls> 
 <ls>an. 2, 12.</ls> 
-<ls>MED. k. 29.</ls> <ls>HALĀY. 2, 95. 5, 21.</ls> <ls>M. 5, 14. 11, 135. 12, 66.</ls> <ls>YĀJÑ. 1, 173.</ls> <ls>MBH. 3, 1208. 11579. 17315. 5, 1911.</ls> <ls>R. GORR. 2, 65, 14.</ls> <ls>SUŚR. 1, 205, 12.</ls> <ls>Spr. 740. 2008. 4072.</ls> <ls>KATHĀS. 60, 78. fgg.</ls> <ls>LA. (II) 49, 9.</ls> <ls>PAÑCAT. 98, 9.</ls> <ls>HIT. 111, 15. fgg.</ls> <ls>BHĀG. P. 3, 10, 23</ls> {#(वट#} ed. Bomb.). 
+<ls>MED. k. 29.</ls> <ls>HALĀY. 2, 95. 5, 21.</ls> <ls>M. 5, 14. 11, 135. 12, 66.</ls> <ls>YĀJÑ. 1, 173.</ls> <ls>MBH. 3, 1208.</ls> <ls n="MBH. 3,">11579.</ls> <ls n="MBH. 3,">17315.</ls> <ls n="MBH.">5, 1911.</ls> <ls>R. GORR. 2, 65, 14.</ls> <ls>SUŚR. 1, 205, 12.</ls> <ls>Spr. 740. 2008. 4072.</ls> <ls>KATHĀS. 60, 78. fgg.</ls> <ls>LA. (II) 49, 9.</ls> <ls>PAÑCAT. 98, 9.</ls> <ls>HIT. 111, 15. fgg.</ls> <ls>BHĀG. P. 3, 10, 23</ls> {#(वट#} ed. Bomb.). 
 <ls>8, 10, 10.</ls> {#°शब्दज्ञान#} 
 <ls>Verz. d. Oxf. H. 92,b,41.</ls> {#वकवत् - राजन् तव यशो भाति#} 
-<ls>HAEB. Anth. 483,</ls> <ls>Śl. 1.</ls> {#न व्यापारशतेनापि शुकवत्पाठ्यते वकः#} 
+<ls>HAEB. Anth. 483, Śl. 1.</ls> {#न व्यापारशतेनापि शुकवत्पाठ्यते वकः#} 
 <ls>Spr. 1528. 314.</ls> {#भुङ्क्ते मौनी वकस्तिमिम्#} 
 <ls>4131.</ls> {#हंसमध्ये वको यथा (न शोभते)#} 
 <ls>2170.</ls> {#बकालीनः#} 
@@ -40,9 +40,9 @@ v. l. für {#आस्थानीधूर्तकैः#}
 Weisen mit dem patron. <is>Dālbhi</is> oder <is>Dālbhya</is> 
 <ls>KĀṬH. 10, 6.</ls> 
 <ls>CHĀND. UP. 1, 2, 13.</ls> 
-<ls>MBH. 2, 106. 3, 968. 9, 2317.</ls> 
+<ls>MBH. 2, 106.</ls> <ls n="MBH.">3, 968.</ls> <ls n="MBH.">9, 2317.</ls> 
 <div n="2">— e) N. pr. eines von <is>Bhīmasena</is> besiegten <is>Rākṣasa</is> 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 2258. 3825. 6207. fgg. 3, 407. 7, 4076. 8006.</ls> eines von <is>Kṛṣṇa</is> besiegten <is>Asura</is>, der die Gestalt eines {%Reihers%} angenommen hatte, 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 2258.</ls> <ls n="MBH. 1,">3825.</ls> <ls n="MBH. 1,">6207. fgg.</ls> <ls n="MBH.">3, 407.</ls> <ls n="MBH.">7, 4076.</ls> <ls n="MBH. 7,">8006.</ls> eines von <is>Kṛṣṇa</is> besiegten <is>Asura</is>, der die Gestalt eines {%Reihers%} angenommen hatte, 
 <ls>BHĀG. P. 10,11,47. 12,14.</ls> <ls>Verz. d. Oxf. H. 26,b,37.</ls> <ls>PAÑCAR.3,14,29.</ls> 
 <div n="2">— f) pl. N. pr. eines Volkes 
 <ls>MBH. 6, 369.</ls> {#व्यूकाः कोकबकाः#} ed. Bomb. st. {#बकाः कोकरकाः#} der ed. Calc. 

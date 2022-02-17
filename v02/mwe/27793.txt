@@ -1,16 +1,16 @@
 <L>27793<pc>763-a<k1>special<k2>special
-<div n="lb"/>SPECIAL¦, {%a.%} (Designating or belonging to a species) {#जातिवाचकः#}
-<div n="lb"/>{#-का -कं, जातिविषयकः -का -कं, जातिसम्बन्धी#} &c., {#जातीयः -या -यं,#}
-<div n="lb"/>{#जाति#} in comp.; ‘special property or characteristic,’ {#जातित्वं,#}
-<div n="lb"/>{#जातिधर्म्मः, जातिलक्षणं#}. — (Particular, peculiar) {#विशेष#} in comp.,
-<div n="lb"/>{#विशेषकः -का -कं, सविशेषः -षा -षं, असाधारणः -णा -णं, असामान्यः#}
-<div n="lb"/>{#-न्या -न्यं, अव्यापी -पिनी#} &c., {#अव्यापकः -का -कं, अव्याप्यः -प्या -प्यं,#}
-<div n="lb"/>{#अवच्छेदकः -का -कं, सोपाधिकः -की -कं,#} {%see%} PARTICULAR; ‘special
-<div n="lb"/>rule,’ {#विशेषविधिः#} {%m.;%} ‘special text,’ {#विशेषवचनं;#} ‘special
-<div n="lb"/>duty,’ {#विशेषधर्म्मः;#} ‘special occasion,’ {#समयविशेषः;#} ‘provided
-<div n="lb"/>for by special mention,’ {#प्रतिपदोक्तः -क्ता -क्तं#}. — (Extraordinary,
-<div n="lb"/>uncommon) {#अप्राकृतः -ती -तं, लोकीत्तरः -रा -रं, अप्रसिद्धः#} &c. — 
-<div n="lb"/>(Designed for this particular purpose) {#तदुद्देशकः -का -कं,#}
-<div n="lb"/>{#तदुद्दिष्टः -ष्टा -ष्टं, तन्निमित्तकः -का -कं, तद्धेतुकः -का -कं#}. — (Special
-<div n="lb"/>plea in law) {#प्राङ्न्यायः#}.
+SPECIAL¦, {%a.%} (Designating or belonging to a species) {#जातिवाचकः#}
+{#-का -कं, जातिविषयकः -का -कं, जातिसम्बन्धी#} &c., {#जातीयः -या -यं,#}
+{#जाति#} in comp.; ‘special property or characteristic,’ {#जातित्वं,#}
+{#जातिधर्म्मः, जातिलक्षणं#}. — (Particular, peculiar) {#विशेष#} in comp.,
+{#विशेषकः -का -कं, सविशेषः -षा -षं, असाधारणः -णा -णं, असामान्यः#}
+{#-न्या -न्यं, अव्यापी -पिनी#} &c., {#अव्यापकः -का -कं, अव्याप्यः -प्या -प्यं,#}
+{#अवच्छेदकः -का -कं, सोपाधिकः -की -कं,#} {%see%} PARTICULAR; ‘special
+rule,’ {#विशेषविधिः#} {%m.;%} ‘special text,’ {#विशेषवचनं;#} ‘special
+duty,’ {#विशेषधर्म्मः;#} ‘special occasion,’ {#समयविशेषः;#} ‘provided
+for by special mention,’ {#प्रतिपदोक्तः -क्ता -क्तं#}. — (Extraordinary,
+uncommon) {#अप्राकृतः -ती -तं, लोकीत्तरः -रा -रं, अप्रसिद्धः#} &c. — 
+(Designed for this particular purpose) {#तदुद्देशकः -का -कं,#}
+{#तदुद्दिष्टः -ष्टा -ष्टं, तन्निमित्तकः -का -कं, तद्धेतुकः -का -कं#}. — (Special
+plea in law) {#प्राङ्न्यायः#}.
 <LEND>

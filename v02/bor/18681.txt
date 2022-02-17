@@ -1,5 +1,5 @@
 <L>18681<pc>575<k1>rebuff<k2>rebuff
-<div n="lb"/>{@REBUFF@}¦ (subs.): <div n="I">I Repulsion: </div><div n="1">(1) {#प्रत्यादेशः;#}</div>
-<div n="lb"/><div n="1">(2) {#अवधीरणा।#} </div><div n="I">II Repercussion: </div><div n="1">(1) {#प्रतिघातः;#}</div>
-<div n="lb"/><div n="1">(2) {#प्रतिहतिः।#}</div>
+{@REBUFF@}¦ (subs.): <div n="I">I Repulsion: </div><div n="1">(1) {#प्रत्यादेशः;#}</div>
+<div n="1">(2) {#अवधीरणा।#} </div><div n="I">II Repercussion: </div><div n="1">(1) {#प्रतिघातः;#}</div>
+<div n="1">(2) {#प्रतिहतिः।#}</div>
 <LEND>

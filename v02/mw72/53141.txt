@@ -1,10 +1,10 @@
 <L>53141<pc>1145-a<k1>स्थग्<k2>स्थग्
 {#स्थग्#}¦ {%sthag,%} cl. 1. P. {%sthagati, tasthāga,%}
-<div n="lb"/>{%asthagīt,%} &c., to cover, hide, conceal:
-<div n="lb"/>Caus. {%sthagayati,%} &c., to cover, veil, hide, make
-<div n="lb"/>invisible; [cf. Gr. <lang n="greek">στέγ-ω, στέγ-η, τέγη, στέγος,</lang>
-<div n="lb"/><lang n="greek">τέγος, στεγ-ανό-ς, στεγ-νό-ς:</lang> Lat. <nsi>teg-o, tec-tu-m,</nsi>
-<div n="lb"/><nsi>teg-i-men, teg-ula:</nsi> Old Norse <nsi>thek,</nsi> ‘a roof:’ Old
-<div n="lb"/>Germ. <nsi>dak-jan:</nsi> Angl. Sax. <nsi>theccan, thaca:</nsi> Lith.
-<div n="lb"/><nsi>steg-iu,</nsi> ‘I cover;’ <nsi>stoga-s,</nsi> ‘a roof.’]
+{%asthagīt,%} &c., to cover, hide, conceal:
+Caus. {%sthagayati,%} &c., to cover, veil, hide, make
+invisible; [cf. Gr. <lang n="greek">στέγ-ω, στέγ-η, τέγη, στέγος,</lang>
+<lang n="greek">τέγος, στεγ-ανό-ς, στεγ-νό-ς:</lang> Lat. <nsi>teg-o, tec-tu-m,</nsi>
+<nsi>teg-i-men, teg-ula:</nsi> Old Norse <nsi>thek,</nsi> ‘a roof:’ Old
+Germ. <nsi>dak-jan:</nsi> Angl. Sax. <nsi>theccan, thaca:</nsi> Lith.
+<nsi>steg-iu,</nsi> ‘I cover;’ <nsi>stoga-s,</nsi> ‘a roof.’]
 <LEND>

@@ -1,15 +1,15 @@
 <L>9437<pc>122-2<k1>दुर्भक्ष<k2>दुर्भक्ष
 {#दुर्भक्ष#}¦dur-bhakṣa, {%a.%} hard to eat; {@-bhága,@} 
-<>{%a.%} loathsome, ugly; unpleasant; ill-fated: {@ā,@} 
-<>{%f.%} ugly woman; {@-bhaga-tva,@} {%n.%} misfortune; 
-<>{@-bhara,@} {%a.%} hard to bear; -- support; -- satisfy; 
-<>heavily laden with (-°); {@-bhāgya,@} {%a.%} unfortunate; <lbinfo n="8"/>
-<> {@-bhāṣa,@} {%a.%} using bad language; {%m.%} abusive <lbinfo n="3"/>
-<> language; {@-bhāṣita,@} {%pp.%} offensive ({%language%}); <lbinfo n="6"/>
-<> {@-bhāṣin,@} {%a.%} using abusive language; 
-<>{@-bhikṣa,@} {%n. (m. rare%}) famine; distress: {@-tva,@} 
-<>{%n. abst. N.,%} {@-vyasanin,@} {%a.%} having to cope with 
-<>famine; {@-bhida,@} {%a.%} hard to burst; -- disperse; 
-<>{@-bheda,@} {%a.%} hard to burst, disunite, {%or%} sunder; 
-<>{@-bhedya,@} {%fp. id.%}.
+{%a.%} loathsome, ugly; unpleasant; ill-fated: {@ā,@} 
+{%f.%} ugly woman; {@-bhaga-tva,@} {%n.%} misfortune; 
+{@-bhara,@} {%a.%} hard to bear; -- support; -- satisfy; 
+heavily laden with (-°); {@-bhāgya,@} {%a.%} unfortunate; <lbinfo n="8"/>
+ {@-bhāṣa,@} {%a.%} using bad language; {%m.%} abusive <lbinfo n="3"/>
+ language; {@-bhāṣita,@} {%pp.%} offensive ({%language%}); <lbinfo n="6"/>
+ {@-bhāṣin,@} {%a.%} using abusive language; 
+{@-bhikṣa,@} {%n. (m. rare%}) famine; distress: {@-tva,@} 
+{%n. abst. N.,%} {@-vyasanin,@} {%a.%} having to cope with 
+famine; {@-bhida,@} {%a.%} hard to burst; -- disperse; 
+{@-bheda,@} {%a.%} hard to burst, disunite, {%or%} sunder; 
+{@-bhedya,@} {%fp. id.%}.
 <LEND>

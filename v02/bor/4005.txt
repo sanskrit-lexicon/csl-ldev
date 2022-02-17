@@ -1,13 +1,13 @@
 <L>4005<pc>130<k1>collect<k2>collect
-<div n="lb"/>{@COLLECT@}¦ (v. t.): <div n="I">I To gather: </div><div n="1">(1) {#सं-गृह्वाति#}
-<div n="lb"/>({#ग्रह्,#} c. 9.), <div n="xe">{%to c. dust:%}</div> <div n="xs">{#पांशून् संगृह्णाति,#}</div> M.; </div><div n="1">(2)
-<div n="lb"/>{#समाहरति#} ({#हृ,#} c. 1.), <div n="xe">{%c. ing dictionaries:%}</div> <div n="xs">{#कोषान् #}
-<div n="lb"/>{# समाहृत्य,#}</div> Nil.; </div><div n="1">(3) {#समर्जयति#} ({#अर्ज्,#} c. 10.) (of
-<div n="lb"/>earning), <div n="xe">{%c. ing gems:%}</div> <div n="xs">{#समर्जयन् रत्नानि,#}</div> K.; </div><div n="1">(4)
-<div n="lb"/>{#सन्निपातयति#} (c. of {#पत्#}) (=to assemble: q. v.);</div>
-<div n="lb"/><div n="1">(5) {#आदत्ते#} ({#दा,#} c. 3.) (=to take) (only of
-<div n="lb"/>taxes etc.); </div><div n="1">(6) {#राशीकरोति, पूगीकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#पुञ्जी-#}
-<div n="lb"/>{#करोति#}</div> (c. into a heap). Ph.: {%to c. one's self%}
-<div n="lb"/>{#आत्मानं संस्थापयति, पर्यव-,#} (c. of {#स्था#}), Mr. iii.
-<div n="lb"/>To infer: q. v.</div>
+{@COLLECT@}¦ (v. t.): <div n="I">I To gather: </div><div n="1">(1) {#सं-गृह्वाति#}
+({#ग्रह्,#} c. 9.), <div n="xe">{%to c. dust:%}</div> <div n="xs">{#पांशून् संगृह्णाति,#}</div> M.; </div><div n="1">(2)
+{#समाहरति#} ({#हृ,#} c. 1.), <div n="xe">{%c. ing dictionaries:%}</div> <div n="xs">{#कोषान् #}
+{# समाहृत्य,#}</div> Nil.; </div><div n="1">(3) {#समर्जयति#} ({#अर्ज्,#} c. 10.) (of
+earning), <div n="xe">{%c. ing gems:%}</div> <div n="xs">{#समर्जयन् रत्नानि,#}</div> K.; </div><div n="1">(4)
+{#सन्निपातयति#} (c. of {#पत्#}) (=to assemble: q. v.);</div>
+<div n="1">(5) {#आदत्ते#} ({#दा,#} c. 3.) (=to take) (only of
+taxes etc.); </div><div n="1">(6) {#राशीकरोति, पूगीकरोति#} <div n="xe">{%or%}</div> <div n="xs">{#पुञ्जी-#}
+{#करोति#}</div> (c. into a heap). Ph.: {%to c. one's self%}
+{#आत्मानं संस्थापयति, पर्यव-,#} (c. of {#स्था#}), Mr. iii.
+To infer: q. v.</div>
 <LEND>

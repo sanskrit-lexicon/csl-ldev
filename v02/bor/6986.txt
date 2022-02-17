@@ -1,4 +1,4 @@
 <L>6986<pc>223<k1>drought<k2>drought
-<div n="lb"/>{@DROUGHT:@}¦ <div n="I">I Aridity: </div><div n="1">(1) {#अनावृष्टिः;#} </div><div n="1">(2)
-<div n="lb"/>{#अवग्रहः।#} </div><div n="I">II Thirst: q. v.</div>
+{@DROUGHT:@}¦ <div n="I">I Aridity: </div><div n="1">(1) {#अनावृष्टिः;#} </div><div n="1">(2)
+{#अवग्रहः।#} </div><div n="I">II Thirst: q. v.</div>
 <LEND>

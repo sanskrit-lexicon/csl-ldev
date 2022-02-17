@@ -1,4 +1,4 @@
 <L>5313<pc>170<k1>custom-house<k2>custom-house
-<div n="lb"/>{@CUSTOM-HOUSE:@}¦ {#शुल्कशाला।#} <div n="xe">{%C. officer:%}</div> <div n="xs">{#शुल्काधिकृतः; #}
-<div n="lb"/>{# शुल्कोपजीवी,#}</div> Mah.
+{@CUSTOM-HOUSE:@}¦ {#शुल्कशाला।#} <div n="xe">{%C. officer:%}</div> <div n="xs">{#शुल्काधिकृतः; #}
+{# शुल्कोपजीवी,#}</div> Mah.
 <LEND>

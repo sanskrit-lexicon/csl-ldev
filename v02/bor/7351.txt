@@ -1,16 +1,16 @@
 <L>7351<pc>233<k1>elephant<k2>elephant
-<div n="lb"/>{@ELEPHANT:@}¦ <div n="1">(1) {#गजः,#} <div n="xe">{%e. -catcher:%}</div> <div n="xs">{#गजबन्धः,#}</div> Vet.; <div n="xe">{%a%}
-<div n="lb"/>{%wild e.:%}</div> <div n="xs">{#वनगजः;#}</div> </div><div n="1">(2) {#हस्तिन्#} (m.); </div><div n="1">(3) {#करिन्#}
-<div n="lb"/>(m.); </div><div n="1">(4) {#मातङ्गः;#} </div><div n="1">(5) {#कुञ्जरः;#} </div><div n="1">(6) {#नागः;#} </div><div n="1">(7)
-<div n="lb"/>{#वारणः;#} <div n="xe">{%a rutting e.:%}</div> <div n="xs">{#मत्तवारणः;#}</div> </div><div n="1">(8) {#दन्तिन्#} (m.);</div>
-<div n="lb"/><div n="1">(9) {#द्विपः,#} <div n="xe">{%a newly caught e.:%}</div> <div n="xs">{#नवग्रहो द्विपः,#}</div> D.
-<div n="lb"/>ii.; <div n="xe">{%a musk -e.:%}</div> <div n="xs">{#गन्धद्विपः।#}</div> {%A she -e.:%} </div><div n="1">(1)
-<div n="lb"/>{#करिणी;#} </div><div n="1">(2) {#हस्तिनी;#} </div><div n="1">(3) {#गजवशा;#} </div><div n="1">(4) {#करेणु#}
-<div n="lb"/>(f.). <div n="xe">{%A young e.:%}</div> <div n="xs">{#कर(ल)भः।#}</div> {%The leader of a%}
-<div n="lb"/>({%wild%}) {%herd%} ({%of e.s%}): {#यूथनाथः#} <div n="xe">{%or%}</div> <div n="xs">{#यूथपः।#}</div> {%A large%}
-<div n="lb"/>{%fine e.:%} </div><div n="1">(1) {#गजेन्द्रः;#} </div><div n="1">(2) {#गजपुङ्गवः;#} </div><div n="1">(3) {#करेणुवर्यः।#}
-<div n="lb"/><div n="xe">{%The roaring of an e.:%}</div> <div n="xs">{#बृंहितम्।#}</div> {%Its trunk:%}</div>
-<div n="lb"/><div n="1">(1) {#करः;#} </div><div n="1">(2) {#शुण्डः;#} </div><div n="1">(3) {#हस्तः#} (rare). <div n="xe">{%Its%}
-<div n="lb"/>{%frontal globes:%}</div> <div n="xs">{#कुम्भौ#}</div> (m. dual). {%Its temple:%}</div>
-<div n="lb"/><div n="1">(1) {#गण्डः;#} </div><div n="1">(2) {#कटः।#}</div>
+{@ELEPHANT:@}¦ <div n="1">(1) {#गजः,#} <div n="xe">{%e. -catcher:%}</div> <div n="xs">{#गजबन्धः,#}</div> Vet.; <div n="xe">{%a%}
+{%wild e.:%}</div> <div n="xs">{#वनगजः;#}</div> </div><div n="1">(2) {#हस्तिन्#} (m.); </div><div n="1">(3) {#करिन्#}
+(m.); </div><div n="1">(4) {#मातङ्गः;#} </div><div n="1">(5) {#कुञ्जरः;#} </div><div n="1">(6) {#नागः;#} </div><div n="1">(7)
+{#वारणः;#} <div n="xe">{%a rutting e.:%}</div> <div n="xs">{#मत्तवारणः;#}</div> </div><div n="1">(8) {#दन्तिन्#} (m.);</div>
+<div n="1">(9) {#द्विपः,#} <div n="xe">{%a newly caught e.:%}</div> <div n="xs">{#नवग्रहो द्विपः,#}</div> D.
+ii.; <div n="xe">{%a musk -e.:%}</div> <div n="xs">{#गन्धद्विपः।#}</div> {%A she -e.:%} </div><div n="1">(1)
+{#करिणी;#} </div><div n="1">(2) {#हस्तिनी;#} </div><div n="1">(3) {#गजवशा;#} </div><div n="1">(4) {#करेणु#}
+(f.). <div n="xe">{%A young e.:%}</div> <div n="xs">{#कर(ल)भः।#}</div> {%The leader of a%}
+({%wild%}) {%herd%} ({%of e.s%}): {#यूथनाथः#} <div n="xe">{%or%}</div> <div n="xs">{#यूथपः।#}</div> {%A large%}
+{%fine e.:%} </div><div n="1">(1) {#गजेन्द्रः;#} </div><div n="1">(2) {#गजपुङ्गवः;#} </div><div n="1">(3) {#करेणुवर्यः।#}
+<div n="xe">{%The roaring of an e.:%}</div> <div n="xs">{#बृंहितम्।#}</div> {%Its trunk:%}</div>
+<div n="1">(1) {#करः;#} </div><div n="1">(2) {#शुण्डः;#} </div><div n="1">(3) {#हस्तः#} (rare). <div n="xe">{%Its%}
+{%frontal globes:%}</div> <div n="xs">{#कुम्भौ#}</div> (m. dual). {%Its temple:%}</div>
+<div n="1">(1) {#गण्डः;#} </div><div n="1">(2) {#कटः।#}</div>
 <LEND>

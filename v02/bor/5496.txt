@@ -1,15 +1,15 @@
 <L>5496<pc>176<k1>dear<k2>dear
-<div n="lb"/>{@DEAR@}¦ (adj.): <div n="I">I High-priced: </div><div n="1">(1) {#दुर्मूल्यः#}
-<div n="lb"/>(f. {#ल्या#}): </div><div n="1">(2) {#बहुमूल्यः#} ({#ल्या, ल्यं#}), <div n="xe">{%sell cheap%}
-<div n="lb"/>{%things at a d. price:%}</div> <div n="xs">{#अल्पमूल्यं बहुमूल्येन विक्रीणते,#}</div> Viv.</div>
-<div n="lb"/><div n="1">(3) {#गुरुमूल्यः#} ({#ल्या, ल्यं#}), Viv.: v. Costly.</div>
-<div n="lb"/><div n="I">II Highly valued: </div><div n="1">(1) {#प्रियः#} ({#या, यं#}) (=be-
-<div n="lb"/>-loved: q. v.), <div n="xe">{%d. er than myself:%}</div> <div n="xs">{#मत्तः प्रियतरः,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#अभिमतः#} ({#ता, तं#}), <div n="xe">{%with his d. friend%}
-<div n="lb"/>{%spring:%}</div> <div n="xs">{#माधवेनाभिमतेन सख्या,#}</div> Ku.; </div><div n="1">(3) {#हृदय-#}
-<div n="lb"/>{#ङ्गमः#} ({#मा, मं#}) (=reaching the heart), {%d. friend:%}
-<div n="lb"/>{#हृदयङ्गमः सखा,#} Ku. iv. 24. Ph.: <div n="xe">{%d. as one's%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#प्राणसमः#}</div> ({#मा, मं#}), <ls>K.</ls> ; <div n="xe">{%to an old man, a young%}
-<div n="lb"/>{%wife is d. er than his life:%}</div> <div n="xs">{#वृद्धस्य तरुणी भार्या #}
-<div n="lb"/>{# प्राणेभ्योऽपि गरीयसी,#}</div> H. i.</div>
+{@DEAR@}¦ (adj.): <div n="I">I High-priced: </div><div n="1">(1) {#दुर्मूल्यः#}
+(f. {#ल्या#}): </div><div n="1">(2) {#बहुमूल्यः#} ({#ल्या, ल्यं#}), <div n="xe">{%sell cheap%}
+{%things at a d. price:%}</div> <div n="xs">{#अल्पमूल्यं बहुमूल्येन विक्रीणते,#}</div> Viv.</div>
+<div n="1">(3) {#गुरुमूल्यः#} ({#ल्या, ल्यं#}), Viv.: v. Costly.</div>
+<div n="I">II Highly valued: </div><div n="1">(1) {#प्रियः#} ({#या, यं#}) (=be-
+-loved: q. v.), <div n="xe">{%d. er than myself:%}</div> <div n="xs">{#मत्तः प्रियतरः,#}</div>
+K.; </div><div n="1">(2) {#अभिमतः#} ({#ता, तं#}), <div n="xe">{%with his d. friend%}
+{%spring:%}</div> <div n="xs">{#माधवेनाभिमतेन सख्या,#}</div> Ku.; </div><div n="1">(3) {#हृदय-#}
+{#ङ्गमः#} ({#मा, मं#}) (=reaching the heart), {%d. friend:%}
+{#हृदयङ्गमः सखा,#} Ku. iv. 24. Ph.: <div n="xe">{%d. as one's%}
+{%life:%}</div> <div n="xs">{#प्राणसमः#}</div> ({#मा, मं#}), <ls>K.</ls> ; <div n="xe">{%to an old man, a young%}
+{%wife is d. er than his life:%}</div> <div n="xs">{#वृद्धस्य तरुणी भार्या #}
+{# प्राणेभ्योऽपि गरीयसी,#}</div> H. i.</div>
 <LEND>

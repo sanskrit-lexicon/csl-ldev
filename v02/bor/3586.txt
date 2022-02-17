@@ -1,5 +1,5 @@
 <L>3586<pc>118<k1>china<k2>china
-<div n="lb"/>{@CHINA@}¦ (adj.): {#चीन-,#} <div n="xe">{%c. clay%}</div> <div n="xs">{#*चीनमृत्तिका;#}</div> <div n="xe">{%c. -%}
-<div n="lb"/>{%orange:%}</div> <div n="xs">{#नारङ्गम्;#}</div> <div n="xe">{%c. -rose:%}</div> <div n="xs">{#जवा;#}</div> {%c. -silk%}
-<div n="lb"/>{#चीनम्#} (?).
+{@CHINA@}¦ (adj.): {#चीन-,#} <div n="xe">{%c. clay%}</div> <div n="xs">{#*चीनमृत्तिका;#}</div> <div n="xe">{%c. -%}
+{%orange:%}</div> <div n="xs">{#नारङ्गम्;#}</div> <div n="xe">{%c. -rose:%}</div> <div n="xs">{#जवा;#}</div> {%c. -silk%}
+{#चीनम्#} (?).
 <LEND>

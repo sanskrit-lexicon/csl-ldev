@@ -1,4 +1,4 @@
 <L>5511<pc>177<k1>debatable<k2>debatable
-<div n="lb"/>{@DEBATABLE:@}¦ <div n="1">(1) {#विवदनीयः#} ({#या, यं#}); </div><div n="1">(2) {#सन्दिग्धः#}
-<div n="lb"/>({#ग्धा, ग्धं#}) (=doubtful).</div>
+{@DEBATABLE:@}¦ <div n="1">(1) {#विवदनीयः#} ({#या, यं#}); </div><div n="1">(2) {#सन्दिग्धः#}
+({#ग्धा, ग्धं#}) (=doubtful).</div>
 <LEND>

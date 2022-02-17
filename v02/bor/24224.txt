@@ -1,9 +1,9 @@
 <L>24224<pc>758<k1>well<k2>well
-<div n="lb"/>{@WELL@}¦ (adv.): <div n="1">(1) {#सु-#} in comp., <div n="xe">{%w.-born:%}</div> <div n="xs">{#सुजात#}</div>
-<div n="lb"/>(f. {#ता#}); <div n="xe">{%w.-bred:%}</div> <div n="xs">{#सुशिक्षित#}</div> (f. {#ता#}); {%w.-done:%}
-<div n="lb"/>{#सुकृत#} (f. {#ता#}); <div n="xe">{%w.-favoured:%}</div> <div n="xs">{#सुदर्शन#}</div> (f. {#ना#});
-<div n="lb"/><div n="xe">{%w.-formed:%}</div> <div n="xs">{#सुरूप#}</div> (f. {#प#}); <div n="xe">{%w.-known:%}</div> <div n="xs">{#सुप्रसिद्ध#}</div>
-<div n="lb"/>(f. {#द्धा#}); <div n="xe">{%w.-read:%}</div> <div n="xs">{#स्वधीत#}</div> (f. {#ता#}); etc.; </div><div n="1">(2)
-<div n="lb"/>{#सुष्ठु;#} </div><div n="1">(3) {#साधु#} (= w.-to-do); </div><div n="1">(4) {#सम्यक्।#} <div n="xe">{%W.%}
-<div n="lb"/>{%off:%}</div> <div n="xs">{#आढ्य#}</div> (f. {#ढ्या#}): v. Rich, prosperous.</div>
+{@WELL@}¦ (adv.): <div n="1">(1) {#सु-#} in comp., <div n="xe">{%w.-born:%}</div> <div n="xs">{#सुजात#}</div>
+(f. {#ता#}); <div n="xe">{%w.-bred:%}</div> <div n="xs">{#सुशिक्षित#}</div> (f. {#ता#}); {%w.-done:%}
+{#सुकृत#} (f. {#ता#}); <div n="xe">{%w.-favoured:%}</div> <div n="xs">{#सुदर्शन#}</div> (f. {#ना#});
+<div n="xe">{%w.-formed:%}</div> <div n="xs">{#सुरूप#}</div> (f. {#प#}); <div n="xe">{%w.-known:%}</div> <div n="xs">{#सुप्रसिद्ध#}</div>
+(f. {#द्धा#}); <div n="xe">{%w.-read:%}</div> <div n="xs">{#स्वधीत#}</div> (f. {#ता#}); etc.; </div><div n="1">(2)
+{#सुष्ठु;#} </div><div n="1">(3) {#साधु#} (= w.-to-do); </div><div n="1">(4) {#सम्यक्।#} <div n="xe">{%W.%}
+{%off:%}</div> <div n="xs">{#आढ्य#}</div> (f. {#ढ्या#}): v. Rich, prosperous.</div>
 <LEND>

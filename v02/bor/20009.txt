@@ -1,5 +1,5 @@
 <L>20009<pc>622<k1>searching<k2>searching
-<div n="lb"/>{@SEARCHING@}¦ (adj.): <div n="1">(1) {#निपुण#} (f. {#णा#}): v.
-<div n="lb"/>Skilful; </div><div n="1">(2) {#अविहत#} (f. {#ता#}): v. Attentive;</div>
-<div n="lb"/><div n="1">(3) {#सूक्ष्म#} (f. {#क्ष्मा#}): v. Minute.</div>
+{@SEARCHING@}¦ (adj.): <div n="1">(1) {#निपुण#} (f. {#णा#}): v.
+Skilful; </div><div n="1">(2) {#अविहत#} (f. {#ता#}): v. Attentive;</div>
+<div n="1">(3) {#सूक्ष्म#} (f. {#क्ष्मा#}): v. Minute.</div>
 <LEND>

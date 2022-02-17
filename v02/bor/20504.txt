@@ -1,5 +1,5 @@
 <L>20504<pc>642<k1>side<k2>side
-<div n="lb"/>{@SIDE@}¦ (adj.): <div n="I">I Lit.: by comp., {%s. -wind:%}
-<div n="lb"/>{#पक्षवातः,#} Mah.: v. Side (subs.). </div><div n="I">II In-
-<div n="lb"/>-direct: {#वक्र#} (f. {#क्रा#}).</div>
+{@SIDE@}¦ (adj.): <div n="I">I Lit.: by comp., {%s. -wind:%}
+{#पक्षवातः,#} Mah.: v. Side (subs.). </div><div n="I">II In-
+-direct: {#वक्र#} (f. {#क्रा#}).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>21561<pc>679<k1>story<k2>story
-<div n="lb"/>{@STORY:@}¦ <div n="I">I A tale: </div><div n="1">(1) {#कथा,#} <div n="xe">{%second s.:%}</div> <div n="xs">{#कथा २,#}</div>
-<div n="lb"/>P.; </div><div n="1">(2) {#इतिहासः,#} {%this old s. runs about it:%}
-<div n="lb"/>{#अत्राप्युदाहरन्तीममितिहासं पुरातनम्,#} Mah. xii. 175. 2.</div>
-<div n="lb"/><div n="I">II History: q. v.: </div><div n="1">(1) {#इतिहासः;#} </div><div n="1">(2) {#वृत्तान्तः,#}
-<div n="lb"/>(what has happened to one), K. </div><div n="I">III A
-<div n="lb"/>lie: q. v.: {#अलीकः#} ({#का, कं#}). </div><div n="I">IV Of a house:
-<div n="lb"/>{#भूमिः:#} v. Storey.</div>
+{@STORY:@}¦ <div n="I">I A tale: </div><div n="1">(1) {#कथा,#} <div n="xe">{%second s.:%}</div> <div n="xs">{#कथा २,#}</div>
+P.; </div><div n="1">(2) {#इतिहासः,#} {%this old s. runs about it:%}
+{#अत्राप्युदाहरन्तीममितिहासं पुरातनम्,#} Mah. xii. 175. 2.</div>
+<div n="I">II History: q. v.: </div><div n="1">(1) {#इतिहासः;#} </div><div n="1">(2) {#वृत्तान्तः,#}
+(what has happened to one), K. </div><div n="I">III A
+lie: q. v.: {#अलीकः#} ({#का, कं#}). </div><div n="I">IV Of a house:
+{#भूमिः:#} v. Storey.</div>
 <LEND>

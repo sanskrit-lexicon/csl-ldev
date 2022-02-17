@@ -1,6 +1,6 @@
 <L>12230<pc>380<k1>inhabit<k2>inhabit
-<div n="lb"/>{@INHABIT:@}¦ {#वसति, नि-,#} (with loc.), {#अधि-,#} (with
-<div n="lb"/>acc.), ({#वस्,#} c. 1.): v. To dwell, live (III).
-<div n="lb"/><div n="xe">{%Thickly i. ed:%}</div> <div n="xs">{#जनाकीर्ण#}</div> (f. {#र्णा#}) (?). {%Thinly i. ed%}
-<div n="lb"/>{#विरलजनः#} ({#ना, नं#}) (?).
+{@INHABIT:@}¦ {#वसति, नि-,#} (with loc.), {#अधि-,#} (with
+acc.), ({#वस्,#} c. 1.): v. To dwell, live (III).
+<div n="xe">{%Thickly i. ed:%}</div> <div n="xs">{#जनाकीर्ण#}</div> (f. {#र्णा#}) (?). {%Thinly i. ed%}
+{#विरलजनः#} ({#ना, नं#}) (?).
 <LEND>

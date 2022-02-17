@@ -8,7 +8,7 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>MED. ṣ. 28. fg.</ls> <ls>AIT.</ls> <ls>BR. 7, 2.</ls> <ls>ṚV. PRĀT. 1, 2.</ls> <ls n="ṚV. PRĀT. 1,">10.</ls> <ls n="ṚV. PRĀT.">3, 3.</ls> <ls>KAUŚ.21. 26. 42. 51.</ls> <ls>TS. PRĀT. 1, 6.</ls> <ls n="TS. PRĀT. 1,">42.</ls> <ls n="TS. PRĀT. 1,">46.</ls> <ls n="TS. PRĀT.">2, 28.</ls> <ls>ŚĀNT. 4, 19.</ls> <ls>P. 1, 4, 7.</ls> <ls n="P.">3, 4, 114.</ls> <ls>R. 3, 18, 30.</ls>
 [Page7-0296]
 {#न शेषं भवता चिन्त्यम्#} 
-<ls>4, 17, 56.</ls> <ls>SUŚR. 1, 135, 17. 136, 16.</ls> <ls>RAGH. 2, 66.</ls> <ls>Spr. (II) 1823. 3166. 5263.</ls> <ls>BHĀG. P. 7, 6, 8.</ls> {#पलाशे शेषानासिच्य#} 
+<ls>4, 17, 56.</ls> <ls>SUŚR. 1, 135, 17. 136, 16.</ls> <ls>RAGH. 2, 66.</ls> <ls>Spr. (II) 1823.</ls> <ls n="Spr. (II)">3166.</ls> <ls n="Spr. (II)">5263.</ls> <ls>BHĀG. P. 7, 6, 8.</ls> {#पलाशे शेषानासिच्य#} 
 <ls>KĀTY. ŚR. 15, 6, 10.</ls> {#शेषे रात्रौ यथा दिवा#} so v. a. {%während des übrigen Theiles der Nacht oder des Tages%} 
 <ls>M. 4, 106.</ls> {#शेषे#} {%im Uebrigen, in allen andern Fällen%} 
 <ls>8, 290. 320. 322.</ls> {#शेषे प्रमाणं तु भवन्तः#} 
@@ -34,15 +34,15 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>M. 3, 91. 215. 253. 285. 5, 24. 11, 158.</ls> {#प्रज्ञाशेषो ऽस्ति चेत्तव#} 
 <ls>MBH. 5, 1568.</ls> 
 <ls>R. 2, 87, 19.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 32, 33. fg. 5, 49, 22.</ls> 
+
+<ls>R. GORR. 2, 32, 33. fg. 5, 49, 22.</ls> 
 <ls>Spr. 2945. (II) 1331. fgg.</ls> 
 <ls>MEGH. 39.</ls> 
 <ls>AK. 2, 7, 28.</ls> 
 <ls>RĀJA-TAR. 5, 61.</ls> 
 <ls>BHĀG. P. 5, 26, 37.</ls> 
 <ls>PAÑCAT. 51, 11.</ls> {#व्यतीतं तदहःशेषम्#} 
-<ls>MBH. 13, 3494. 1482.</ls> 
+<ls>MBH. 13, 3494.</ls> <ls n="MBH. 13,">1482.</ls> 
 <ls>YAJÑ. 1, 113.</ls> <ls>M. 11, 204.</ls> {#दिन°#} 
 <ls>VARĀH. BṚH. S. 45, 16.</ls> 
 <ls>PAÑCAT. 55, 6.</ls> {#रात्रि°#} 
@@ -51,7 +51,7 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>RĀJA-TAR. 3, 190.</ls> {#कार्य°#} 
 <ls>M. 7, 153.</ls> 
 <ls>R. 2, 68, 11. 5, 50, 1.</ls> 
-<ls>Spr. (II) 982. 4644.</ls> 
+<ls>Spr. (II) 982.</ls> <ls n="Spr. (II)">4644.</ls> 
 <ls>KATHĀS. 32, 25. 34, 139.</ls> 
 <ls>RĀJA-TAR. 3, 121.</ls> {#देवतातिथिशेषेण कुरुते देहयापनम्#} {%mit dem, was Götter und Gäste übrig lassen%}, 
 <ls>MBH. 3, 15410.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) {%wovon nur%} (selten {#मात्र#} hinzugefügt) — {%übrig ist%}: {#त्रिभागमात्रशेषायां रात्र्याम्#} 
@@ -71,7 +71,7 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>R. 5, 15, 20.</ls> {#अल्पशेषमिदं कार्यम्#} 
 <ls>37, 29.</ls> {#अल्पेशेषैर्मयूखैः#} 
 <ls>Spr. (II) 4036.</ls> {#किंचिच्छेष#} 
-<ls>MBH. 9, 34. 1442.</ls> 
+<ls>MBH. 9, 34.</ls> <ls n="MBH. 9,">1442.</ls> 
 <ls>KATHĀS. 20, 30</ls> (zusammen zu schreiben und {#सस्य#} zu ergänzen). 
 <ls>39, 189. 54, 101.</ls> {#कथा°#} {%von dem nur die Erzählung übrig geblieben ist, nur noch in der Erinnerung lebend%} (vgl. {#कथावशेष#}) 
 <ls>RĀJA-TAR. 4, 579.</ls> {#स्मृति°#} dass. 
@@ -83,11 +83,11 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>5, 3416.</ls> {#न वः शेषः कश्चिदिहास्ति युद्धे#} so v. a. {%keiner von euch kommt mit dem Leben davon%} 
 <ls>3, 15698.</ls> {#नूनं त्विदानीं मम शेषमस्ति#} so v. a. {%mir steht jetzt noch sicher Etwas bevor, ich habe noch nicht Alles erduldet%} 
 <ls>R. 5, 28, 5.</ls> {#कुर्युरेते क्वचिच्छेषं न तु क्रुद्धो धनंजयः#} so v. a. {%die könnten noch Etwas (Jmd) verschonen%} 
-<ls>MBH. 4, 1580. 3, 10251. fg.</ls> {#सिंहः पाशविनिर्मुक्तः न नः शेषं करिष्यति#} 
+<ls>MBH. 4, 1580.</ls> <ls n="MBH.">3, 10251. fg.</ls> {#सिंहः पाशविनिर्मुक्तः न नः शेषं करिष्यति#} 
 <ls>4, 1548.</ls> {#नास्यापराद्धाः शेषमवाप्नुवन्ति#} so v. a. {%bleiben verschont%} 
 <ls>3, 15705.</ls> so v. a. {%Ende, Ausgang, Schluss%}: {#न चैकमत्यं शेषो ऽस्ति#} 
 <ls>Spr. (II) 1481.</ls> so v. a. {%Ergänzung, Nachtrag%}: {#तस्माच्छन्दस्सु शेषा उपेक्षितव्याः#} 
-<ls>NIR. 13, 13.</ls> <ls>WEBER, <is>Nakṣ</is>. 2, 302. 304.</ls> {#प्रेषित इति शेषः#} Comm. zu 
+<ls>NIR. 13, 13.</ls> <ls>WEBER, Nakṣ. 2, 302. 304.</ls> {#प्रेषित इति शेषः#} Comm. zu 
 <ls>R. 7, 104, 13.</ls> <ls>KULL.</ls> zu <ls>M. 9, 107.</ls> {#इति ते वाक्यशेषः#} 
 <ls>VIKR. 35, 8.</ls> Nach 
 <ls>H. an.</ls> und <ls>MED.</ls> ist {#शेष#} <lex>m.</lex> angeblich auch = {#वध#} (eher {#अवध#}). 
@@ -114,10 +114,10 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 
 <ls>TS. PRĀT. 22, 14.</ls> {#शेषान्ये#} (d. i. {#शेषा अन्ये) ग्रन्थविस्तराः#} 
 <ls>MAITRYUP. 6, 34.</ls> <ls>YĀJÑ. 2, 145.</ls> {#शेषास्त्रय इवाश्रमाः#} 
-<ls>MBH. 1, 73. 14, 1256.</ls> 
-<ls>HARIV. 4559. 11027.</ls> 
+<ls>MBH. 1, 73.</ls> <ls n="MBH.">14, 1256.</ls> 
+<ls>HARIV. 4559.</ls> <ls n="HARIV.">11027.</ls> 
 <ls>R. 2, 1, 33. 25, 23. 3, 20, 14.</ls> 
-<ls>KĀM. NĪTIS. 2, 9. 16.</ls> <ls>MEGH. 31. 85.</ls> <ls>RAGH. 4, 64. 40, 30.</ls> <ls>Spr. (II) 812. 1721. 2205.</ls> <ls>SĀṂKHYAK. 34. fg.</ls> <ls>VARĀH. BṚH. S. 8, 21. 37. 9, 22. 21, 13. 38, 5. 41, 10. 48, 33.</ls> <ls>KATHĀS. 17, 134. 19, 75. 48, 60. 88. 104. 72, 407. 75, 3.</ls> <ls>H. 946.</ls> <ls>SĀH. D. 36, 2.</ls> <ls>PAÑCAR. 1, 12, 53.</ls> <ls>PAÑCAT. 123, 13. 198, 10.</ls> prädicativ: {#याः शेषा मम मातरः#} 
+<ls>KĀM. NĪTIS. 2, 9. 16.</ls> <ls>MEGH. 31. 85.</ls> <ls>RAGH. 4, 64. 40, 30.</ls> <ls>Spr. (II) 812.</ls> <ls n="Spr. (II)">1721.</ls> <ls n="Spr. (II)">2205.</ls> <ls>SĀṂKHYAK. 34. fg.</ls> <ls>VARĀH. BṚH. S. 8, 21. 37. 9, 22. 21, 13. 38, 5. 41, 10. 48, 33.</ls> <ls>KATHĀS. 17, 134. 19, 75. 48, 60. 88. 104. 72, 407. 75, 3.</ls> <ls>H. 946.</ls> <ls>SĀH. D. 36, 2.</ls> <ls>PAÑCAR. 1, 12, 53.</ls> <ls>PAÑCAT. 123, 13. 198, 10.</ls> prädicativ: {#याः शेषा मम मातरः#} 
 <ls>R. 2, 26, 31.</ls> 
 <ls>MBH. 13, 1454.</ls> {#उत्तरं कर्म यच्छेषम्#} 
 <ls>R. 5, 47, 22.</ls> {#आपः शेषाः#} 
@@ -132,10 +132,10 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>VARĀH. BṚH. S. 26, 7.</ls> 
 <ls>KATHĀS. 8, 28. 60, 90. 118, 100.</ls> 
 <ls>AK. 2, 9, 8.</ls> 
-<ls>PAÑCAR. 1, 2, 37.</ls> <ls>PAÑCAT. 38, 8</ls> <ls>?(ed. orn. 34, 17).</ls> am Ende eines comp.: {#विच्छित्तिशेषैर्वर्णैः#} {%übrig geblieben von%} 
+<ls>PAÑCAR. 1, 2, 37.</ls> <ls>PAÑCAT. 38, 8</ls> (<ls>ed. orn. 34, 17).</ls> am Ende eines comp.: {#विच्छित्तिशेषैर्वर्णैः#} {%übrig geblieben von%} 
 <ls>ŚĀK. 164.</ls> Besondere Erwähnung verdient noch die Verbindung mit einem partic. praet.: {#देशान्तरं प्रयातेभ्यो ये शेषास्ते#} so v. a. {%die Wenigen, die nicht in ein anderes Land gegangen waren%}, 
 <ls>RĀJA-TAR. 4, 631.</ls> gewöhnlich in comp.: {#हतशेषाः#} {%die Wenigen, die dem Tode —, dem Untergange entronnen waren%}, 
-<ls>MBH. 3, 8816. 15356. 9, 5.</ls> {#सैन्य#} 
+<ls>MBH. 3, 8816.</ls> <ls n="MBH. 3,">15356.</ls> <ls n="MBH.">9, 5.</ls> {#सैन्य#} 
 <ls>R. 3, 33, 8.</ls> {#°शेषौ निशाचरौ#} 
 <ls>32, 35. 33, 21. 42, 52. 5, 49, 33. 76, 9.</ls> <ls>KATHĀS. 10, 125. 51, 170. 54, 230. 115, 153. 118, 91.</ls> <ls>PAÑCAT. 122, 24. 162, 18.</ls> <ls>BHAṬṬ. 15, 100.</ls> {#दवोल्काहतशेषबर्हाः#} 
 <ls>RAGH. 16, 14.</ls> {#पीतशेषमिवोदकम्#} {%beim Trinken zurückgeblieben%} 
@@ -153,15 +153,15 @@ im <ls>ŚKDR.</ls> häufig, z. B. unter {#त्वच्, वल्गुला
 <ls>H. 1307.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>KĀṬH.</ls> 
-<ls>ANUKR.</ls> in <ls>Ind. St. 3, 458.</ls> <ls>MBH. 1, 1550. 1566. fgg. 2549. 5, 3618. 6, 3023.</ls> <ls>HARIV. 227. 267. 6766. fgg. 9506. 12076. 12466. 12496. 12822. 14172.</ls> <ls>KUMĀRAS. 3, 13.</ls> <ls>RAGH. 12, 70.</ls> <ls>Spr. 2763. 3137. 5251. (II) 4569. 5818.</ls> <ls>KATHĀS. 19, 73.</ls> <ls>TATTVAS. 45.</ls> <ls>RĀJA-TAR. 1, 58. 3, 58. 4, 507. 5, 355.</ls> <ls>VP. 149. 153. 205. fg. 503. 546, N. 4.</ls> <ls>MĀRK. P. 116, 61. fg.</ls> <ls>BHĀG. P. 2, 7, 41. 5, 25, 11. 6, 16, 29</ls> ({#देवदेव#}).
+<ls>KĀṬH. ANUKR.</ls> 
+in <ls>Ind. St. 3, 458.</ls> <ls>MBH. 1, 1550.</ls> <ls n="MBH. 1,">1566. fgg.</ls> <ls n="MBH. 1,">2549.</ls> <ls n="MBH.">5, 3618.</ls> <ls n="MBH.">6, 3023.</ls> <ls>HARIV. 227.</ls> <ls n="HARIV.">267.</ls> <ls n="HARIV.">6766. fgg.</ls> <ls n="HARIV.">9506.</ls> <ls n="HARIV.">12076.</ls> <ls n="HARIV.">12466.</ls> <ls n="HARIV.">12496.</ls> <ls n="HARIV.">12822.</ls> <ls n="HARIV.">14172.</ls> <ls>KUMĀRAS. 3, 13.</ls> <ls>RAGH. 12, 70.</ls> <ls>Spr. 2763. 3137. 5251. (II) 4569. 5818.</ls> <ls>KATHĀS. 19, 73.</ls> <ls>TATTVAS. 45.</ls> <ls>RĀJA-TAR. 1, 58. 3, 58. 4, 507. 5, 355.</ls> <ls>VP. 149. 153. 205. fg. 503. 546, N. 4.</ls> <ls>MĀRK. P. 116, 61. fg.</ls> <ls>BHĀG. P. 2, 7, 41. 5, 25, 11. 6, 16, 29</ls> ({#देवदेव#}).
 [Page7-0298]
 
-<ls>?8, 4, 20. VOP. S. 176. Verz. d. Oxf. H. 13</ls>, {%a%}, 
-<ls>4 v. u. 46</ls>, {%a%}, 
-<ls>35. 74</ls>, {%a%}, 
-<ls>2 v. u. 81</ls>, {%a%}, 
-<ls>14. 251</ls>, {%a%}, 
+<ls>8, 4, 20.</ls> <ls>VOP. S. 176.</ls> <ls>Verz. d. Oxf. H. 13,a,</ls> 
+<ls>4</ls> v. u. <ls>46,a,</ls> 
+<ls>35. 74,a,</ls> 
+<ls>2</ls> v. u. <ls>81,a,</ls> 
+<ls>14. 251,a,</ls> 
 <ls>39. fg.</ls> <ls>WEBER, RĀMAT. UP. 277. 323.</ls> <ls>KṚṢṆAJ. 280. 282. 342.</ls> <ls>LA. (III) 88, 12.</ls> <ls>PAÑCAR. 1, 9, 18. 12, 29. 63. 72. 2, 2, 98. 4, 1, 7. fgg. 3, 28. 126.</ls> ({#°देव#}). 
 <ls>WILSON, Sel. Works 1, 25. 35. fg. 175. 360.</ls> als <is>Prajāpati</is> 
 <ls>R. 3, 20, 7.</ls> 
@@ -169,11 +169,11 @@ im <ls>ŚKDR.</ls> häufig, z. B. unter {#त्वच्, वल्गुला
 <ls>N. 2.</ls> als Weltelephant 
 <ls>HĀR. 148.</ls> {#शेष#} und {#शेषनाग#} (der Schlangendämon selbst oder nach ihm benannte Personen) als Autoren 
 <ls>COLEBR. Misc. Ess. 1, 106. 2, 63,</ls> 
-<ls>N.</ls> <ls>WEBER, JYOT. 8.</ls> <ls>TĀRAN. 75. 152. 157.</ls> <ls>Verz. d. Oxf. H. 238</ls>, {%b%}, 
-<ls>N. 353</ls>, {%a%}, 
+<ls>N.</ls> <ls>WEBER, JYOT. 8.</ls> <ls>TĀRAN. 75. 152. 157.</ls> <ls>Verz. d. Oxf. H. 238,b,</ls> 
+<ls>N. 353,a,</ls> 
 <ls>No. 838.</ls> <ls>HALL 105.</ls> 
-<div n="1">— 4) <lex>m.</lex> {%ein best. Metrum: 4 Mal%} ¯ ¯ ¯ ¯ ¯ ¯  
-<ls>COLEBR. Misc. Ess. 2, 259</ls> <ls>(I, 2).</ls> 
+<div n="1">— 4) <lex>m.</lex> {%ein best. Metrum: 4 Mal%} ¯ ¯ ¯ ¯ ¯ ¯ 
+<ls>COLEBR. Misc. Ess. 2, 259</ls> (<ls>I, 2).</ls> 
 <div n="1">— 5) <lex>f.</lex> {#आ#} pl. {%von einer heiligen Handlung übrig gebliebene, Segen bringende Blumen%}; sg. {%ein solcher Kranz%} 
 <ls>H. an.</ls> <ls>MED.</ls> {#ततः सुमनसः शेषाः प्रतिगृह्य#} 
 <ls>MBH. 3, 16644.</ls> {#शेषाः पूर्वं निवेद्य च#} 
@@ -185,5 +185,5 @@ im <ls>ŚKDR.</ls> häufig, z. B. unter {#त्वच्, वल्गुला
 <div n="1">— 6) <lex>f.</lex> {#ई#} N. pr. eines Frauenzimmers 
 <ls>HALL 70.</ls> 
 <div n="v">— Vgl. {#अ°, आलेख्य°, एक°, कीर्ति°, देव°, नाम°#} (adj. <lex>f.</lex> {#आ#} 
-<ls>UTTARAR. 28, 16</ls> <ls>?= COWELL 37, 19</ls>), {#निः°, पाद°, भुक्त°, मधु°, यशः°, वाक्य°, शब्द°, शिरः°, यावच्छेषम्, शैष#} und {#शैषिक#}.
+<ls>UTTARAR. 28, 16</ls> = <ls>COWELL 37, 19</ls>), {#निः°, पाद°, भुक्त°, मधु°, यशः°, वाक्य°, शब्द°, शिरः°, यावच्छेषम्, शैष#} und {#शैषिक#}.
 <LEND>

@@ -1,4 +1,4 @@
 <L>2049<pc>071<k1>billiard<k2>billiard
-<div n="lb"/>{@BILLIARD@}¦ (adj.): Ph. <div n="xe">{%a b. ball%}</div> <div n="xs">{#*अण्डम्;#}</div> <div n="xe">{%b.%}
-<div n="lb"/>{%room%}</div> <div n="xs">{#*अण्डागारम्।#}</div>
+{@BILLIARD@}¦ (adj.): Ph. <div n="xe">{%a b. ball%}</div> <div n="xs">{#*अण्डम्;#}</div> <div n="xe">{%b.%}
+{%room%}</div> <div n="xs">{#*अण्डागारम्।#}</div>
 <LEND>

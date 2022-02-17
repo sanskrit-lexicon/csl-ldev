@@ -1,6 +1,6 @@
 <L>14549<pc>446<k1>metre<k2>metre
-<div n="lb"/>{@METRE:@}¦ <div n="1">(1) {#छन्दस्#} (n.), {%sung in various m.s:%}
-<div n="lb"/>{#छन्दोभिर्विविधैर्गोतम्,#} <ls>G.</ls> ; </div><div n="1">(2) {#वृत्तम्,#} <div n="xe">{%in this canto%}
-<div n="lb"/>{%the m. is mostly%}</div> <div n="xs">{#उपजातिः अस्मिन् सर्गे प्रायेण वृत्तमुप-#}
-<div n="lb"/>{#जातिः,#}</div> M. n.</div>
+{@METRE:@}¦ <div n="1">(1) {#छन्दस्#} (n.), {%sung in various m.s:%}
+{#छन्दोभिर्विविधैर्गोतम्,#} <ls>G.</ls> ; </div><div n="1">(2) {#वृत्तम्,#} <div n="xe">{%in this canto%}
+{%the m. is mostly%}</div> <div n="xs">{#उपजातिः अस्मिन् सर्गे प्रायेण वृत्तमुप-#}
+{#जातिः,#}</div> M. n.</div>
 <LEND>

@@ -1,28 +1,28 @@
 <L>15941<pc>490<k1>or<k2>or
-<div n="lb"/>{@OR:@}¦ <div n="I">I In gen.: {#वा,#} {%whether child or pupil:%}
-<div n="lb"/>{#शिशुर्वा शिष्या वा,#} U. iv. 11.; <div n="xe">{%whether God is%}
-<div n="lb"/>{%spoken of in this passage or not:%}</div> <div n="xs">{#किं ब्रह्मास्मिन् #}
-<div n="lb"/>{# वाक्येऽभिधीयते न वेति,#}</div> S. ii. 15.; <div n="xe">{%from fear of%}
-<div n="lb"/>{%the king or of thieves:%}</div> <div n="xs">{#राजभयाच्चौरमयाद्वा,#}</div> Mr.
-<div n="lb"/>iii.; <div n="xe">{%or else:%}</div> <div n="xs">{#किं वा,#}</div> Vi. vi. 21. (when=other-
-<div n="lb"/>-wise: {#नोचेत्,#} H.). </div><div n="I">II In interrogation
-<div n="lb"/>direct or implied: <div n="xe">{%is it a dream, an illusion,%}
-<div n="lb"/>{%or delusion of my mind:%}</div> <div n="xs">{#स्वप्नो नु माया नु मतिभ्रमो #}
-<div n="lb"/>{# नु,#}</div> Sa.; {%is my strength gone or am I another:%}
-<div n="lb"/>{#ध्वस्तं नु मे वीर्यमुताहमन्यः,#} Ki.; <div n="xe">{%or is (she) going%}
-<div n="lb"/>{%to live with hinds:%}</div> <div n="xs">{#आहो निवत्स्यति समं हरिणाङ्ग-#}
-<div n="lb"/>{#नाभिः,#}</div> Sa.; <div n="xe">{%shall I kill him, or is he dream-%}
-<div n="lb"/>{%ing:%}</div> <div n="xs">{#किं व्यापादयाम्युतोत्स्वप्नायते,#}</div> Mr. iii.; <div n="xe">{%I do%}
-<div n="lb"/>{%not know whether this is becoming of (your)%}
-<div n="lb"/>{%bark or (your) matted hair, whether it befits%}
-<div n="lb"/>{%(your) penances or it is a part of (your) religi-%}
-<div n="lb"/>{%ous observances:%}</div> <div n="xs">{#न जाने किमिदं वल्कलानां सदृशमु-#}
-<div n="lb"/>{#ताहो जटानां समुचितं, किं तपसोऽनुरूपमाहोस्विद्धर्मकर्मा-#}
-<div n="lb"/>{#पदेशाङ्गमिदम्,#}</div> K. (N. B. {#नु#} is interro. and not
-<div n="lb"/>used in such cases). </div><div n="I">III Beginning a
-<div n="lb"/>sentence: {#अथवा,#} {%or to injure tender things:%}
-<div n="lb"/>{#अथवा मृदु वस्तु हिंसितुम्,#} R. viii. 45. </div><div n="I">IV In defi-
-<div n="lb"/>-nitions or explanations: by {#च#} {%or%} not expr.,
-<div n="lb"/><div n="xe">{%is called a fratricide or a brother-killer:%}</div> <div n="xs">{#भ्रातृहा #}
-<div n="lb"/>{# भ्रातृघाती चाभिधीयते।#}</div></div>
+{@OR:@}¦ <div n="I">I In gen.: {#वा,#} {%whether child or pupil:%}
+{#शिशुर्वा शिष्या वा,#} U. iv. 11.; <div n="xe">{%whether God is%}
+{%spoken of in this passage or not:%}</div> <div n="xs">{#किं ब्रह्मास्मिन् #}
+{# वाक्येऽभिधीयते न वेति,#}</div> S. ii. 15.; <div n="xe">{%from fear of%}
+{%the king or of thieves:%}</div> <div n="xs">{#राजभयाच्चौरमयाद्वा,#}</div> Mr.
+iii.; <div n="xe">{%or else:%}</div> <div n="xs">{#किं वा,#}</div> Vi. vi. 21. (when=other-
+-wise: {#नोचेत्,#} H.). </div><div n="I">II In interrogation
+direct or implied: <div n="xe">{%is it a dream, an illusion,%}
+{%or delusion of my mind:%}</div> <div n="xs">{#स्वप्नो नु माया नु मतिभ्रमो #}
+{# नु,#}</div> Sa.; {%is my strength gone or am I another:%}
+{#ध्वस्तं नु मे वीर्यमुताहमन्यः,#} Ki.; <div n="xe">{%or is (she) going%}
+{%to live with hinds:%}</div> <div n="xs">{#आहो निवत्स्यति समं हरिणाङ्ग-#}
+{#नाभिः,#}</div> Sa.; <div n="xe">{%shall I kill him, or is he dream-%}
+{%ing:%}</div> <div n="xs">{#किं व्यापादयाम्युतोत्स्वप्नायते,#}</div> Mr. iii.; <div n="xe">{%I do%}
+{%not know whether this is becoming of (your)%}
+{%bark or (your) matted hair, whether it befits%}
+{%(your) penances or it is a part of (your) religi-%}
+{%ous observances:%}</div> <div n="xs">{#न जाने किमिदं वल्कलानां सदृशमु-#}
+{#ताहो जटानां समुचितं, किं तपसोऽनुरूपमाहोस्विद्धर्मकर्मा-#}
+{#पदेशाङ्गमिदम्,#}</div> K. (N. B. {#नु#} is interro. and not
+used in such cases). </div><div n="I">III Beginning a
+sentence: {#अथवा,#} {%or to injure tender things:%}
+{#अथवा मृदु वस्तु हिंसितुम्,#} R. viii. 45. </div><div n="I">IV In defi-
+-nitions or explanations: by {#च#} {%or%} not expr.,
+<div n="xe">{%is called a fratricide or a brother-killer:%}</div> <div n="xs">{#भ्रातृहा #}
+{# भ्रातृघाती चाभिधीयते।#}</div></div>
 <LEND>

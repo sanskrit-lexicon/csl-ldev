@@ -9,7 +9,7 @@
 {%gellender Ton%}; <lex>adj.</lex> 
 <ls>AK. 1, 1, 7, 2.</ls> 
 <ls>TRIK. 3, 3, 351.</ls> 
-<ls>MED. r. 43. fg.</ls> m. <ls>H. 1402. 1409.</ls> <ls>an. 2, 426. fg.</ls> In der älteren Sprache <lex>n.</lex> {#मन्द्रमध्यमताराणि स्थानानि (शब्दस्य) भवन्ति#} 
+<ls>MED. r. 43. fg.</ls> m. <ls>H. 1402. 1409. an. 2, 426. fg.</ls> In der älteren Sprache <lex>n.</lex> {#मन्द्रमध्यमताराणि स्थानानि (शब्दस्य) भवन्ति#} 
 <ls>TAITT. PRĀT. 2, 10.</ls> {#उरसि मन्द्रं कण्ठे मध्यमं शिरसि ता\रम्#} 
 <ls>11.</ls> {#तारं तार्तीयसवनं शीर्षण्यं जागतानुगम्#} 
 <ls>ŚIKṢĀ 8. 37.</ls> <lex>adj.</lex> 
@@ -22,8 +22,8 @@
 <ls>VARĀH. BṚH. S. 87, 34.</ls> {#उरसि निहितो तारो हारः#} 
 <ls>AMAR. 28.</ls> {#तारलोलवलयेन करेण#} 
 <ls>SĀH. D. 55, 20.</ls> {#दध्मौ शङ्खं च तारेण#} 
-<ls>MBH. 7, 6737. 3881. 7783.</ls> 
-<div n="1">— 3) <lex>adj.</lex> {%funkelnd, flimmernd%} {#(स्फुरितकिरण)#}; vgl. 
+<ls>MBH. 7, 6737.</ls> <ls n="MBH. 7,">3881.</ls> <ls n="MBH. 7,">7783.</ls> 
+<div n="1">— 3) <lex>adj.</lex> {%funkelnd, flimmernd%} ({#स्फुरितकिरण#}); vgl. 
 <ls>13.</ls> 
 <div n="1">— 4) <lex>adj.</lex> {%rein%} 
 <ls>DHAR.</ls> im <ls>ŚKDR.</ls>; vgl. 
@@ -51,7 +51,7 @@
 <ls>WILS.</ls>; vgl. {#कूर्च#} 
 <ls>8.</ls> 
 <div n="1">— 11) <lex>m.</lex> N. pr. eines von <is>Viṣṇu</is> erlegten <is>Daitya</is> 
-<ls>HARIV. 2427. 2647. 2650. 3116.</ls> 
+<ls>HARIV. 2427.</ls> <ls n="HARIV.">2647.</ls> <ls n="HARIV.">2650.</ls> <ls n="HARIV.">3116.</ls> 
 <div n="1">— 12) <lex>m.</lex> N. pr. eines Affen im Gefolge von <is>Rāma</is>, eines Sohnes des <is>Bṛhaspati</is> (dessen Gemahlin {#तारा#} heisst), 
 <ls>MED.</ls> <ls>MBH. 3, 16372.</ls> <ls>R. 1, 3, 24. 16, 12. 4, 13, 4. 6, 13, 3. 75, 64.</ls> 
 <div n="1">— 13) {%Sternbild, Fixstern%} (vgl. 2. {#तर्, स्तर्#}), <lex>f.</lex> {#तारा/#} <is>gaṇa</is> {#भिदादि#} zu 
@@ -106,16 +106,16 @@
 <div n="2"> a) der Gemahlin <is>Bṛhaspati's</is>, welche <is>Soma</is> raubte (vgl. {#तारकामय#}), 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 5, 3972.</ls> <ls>HARIV. 1340. fgg.</ls> <ls>VP. 392. fg.</ls> <ls>BHĀG. P. 9, 14, 4. 8.</ls> 
 <div n="2">— b) einer Form der <is>Dākṣāyaṇī</is>, welche auf dem Berge <is>Kiṣkindha</is> verehrt wird, 
-<ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 39</ls>, {%b%}, 
+<ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 39,b,</ls> 
 <ls>26.</ls> Schutzgottheit der <is>Gṛtsamada</is> 
 <ls>BRAHMA-P.</ls> ebend. 
-<ls>19</ls>, {%a%}, 
+<ls>19,a,</ls> 
 <ls>12.</ls> {#°चमन#} 
-<ls>TANTRAS. ebend. 93</ls>, {%b%}, 
+<ls>TANTRAS. ebend. 93,b,</ls> 
 <ls>31.</ls> {#°स्तोत्र, °पज्फटिका, °कवच#} 
-<ls>94</ls>, {%a%}, 
+<ls>94,a,</ls> 
 <ls>45. fgg.</ls> {#°पूजायन्त्र#} 
-<ls>96</ls>, {%a%}, 
+<ls>96,a,</ls> 
 <ls>10.</ls> {#°मन्त्र, °मन्त्रभेदकथन#} 
 <ls>MANTRAMAHOD.</ls> ebend. 99,b. {#ताराचाण्डी#} (wohl {#तारा चण्डी#}) 
 <ls>COLEBR. Misc. Ess. II, 290. fg.</ls> {#तारा = द्वितीया शक्तिः#} 
@@ -128,7 +128,7 @@
 <ls>BURN. Intr. 542.</ls> N. einer der <is>Śakti</is> bei den <is>Jaina</is> 
 <ls>VYĀḌI</ls> zu <ls>H. 233.</ls> 
 <div n="2">— d) einer Aeffin, der Tochter <is>Suṣeṇa's</is> und Gemahlin <is>Bālin's</is>, 
-<ls>MED.</ls> <ls>?(H. an.</ls> macht sie fälschlich zur Gemahlin <is>Sugrīva's</is>). 
+<ls>MED.</ls> (<ls>H. an.</ls> macht sie fälschlich zur Gemahlin <is>Sugrīva's</is>). 
 <ls>MBH. 3, 16110. fgg.</ls> 
 <ls>R. 1, 1, 67. 4, 9, 71. 14, 6. 6, 3, 45. 17, 18.</ls> 
 <div n="1">— 18) <lex>n.</lex> {%Silber%} 

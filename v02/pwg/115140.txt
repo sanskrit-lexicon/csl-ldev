@@ -17,21 +17,21 @@
 <ls>HALĀY. 1, 7.</ls> 
 <ls>Ind. St. 3, 391. 395. 398. 4, 374.</ls> 
 <ls>M. 1, 3. 6. 92. 94. 5, 39. 8, 413. 9, 138.</ls> 
-<ls>MBH. 3, 1152. 12191. 13, 4377. 4380.</ls> 
-<ls>HARIV. 37. 12317. 14075. 14081. 14119.</ls> 
+<ls>MBH. 3, 1152.</ls> <ls n="MBH. 3,">12191.</ls> <ls n="MBH.">13, 4377.</ls> <ls n="MBH. 13,">4380.</ls> 
+<ls>HARIV. 37.</ls> <ls n="HARIV.">12317.</ls> <ls n="HARIV.">14075.</ls> <ls n="HARIV.">14081.</ls> <ls n="HARIV.">14119.</ls> 
 <ls>R. 1, 16, 1. 2, 110, 3.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 30, 29. 3, 36, 20. 4, 44, 120.</ls> 
+
+<ls>R. GORR. 2, 30, 29. 3, 36, 20. 4, 44, 120.</ls> 
 <ls>SUŚR. 1, 1, 17. 6, 5.</ls> 
 <ls>Spr. (II) 7013.</ls> 
 <ls>VARĀH. BṚH. S. 43, 42. 48, 2.</ls> 
-<ls>RĀJA-TAR. 1, 34. 3,</ls> <ls>?455.VP. 3, 3, 11. MĀRK. P. 46, 17. 107, 5. BHĀG. P. 3, 8, 15. 12, 28. 6, 1, 40. 3, 20. 8, 3, 3. 9, 1, 9. als</ls>
+<ls>RĀJA-TAR. 1, 34. 3, 455.</ls> <ls>VP. 3, 3, 11.</ls> <ls>MĀRK. P. 46, 17. 107, 5.</ls> <ls>BHĀG. P. 3, 8, 15. 12, 28. 6, 1, 40. 3, 20. 8, 3, 3. 9, 1, 9.</ls> als
 [Page7-1439]
 <is>Vyāsa</is> 
 <ls>Verz. d. Oxf. H. 80,a,10.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%ein%} <is>Pratyekabuddha</is> 
 <ls>TRIK. 1, 1, 13.</ls> Bez. <is>Ādibuddha's</is> und {%eines%} <is>Buddha</is> überh. 
-<ls>BURNOUF,</ls> <ls>?Intr. 222. Lot. de la b. l. 336. WILSON, Sel. Works 2, 11. 15. 27. 32. LALIT. ed. Calc. 341, 1. 362, 4. 5. RĀJA-TAR. 2, 136.</ls> {%ein%} <is>Arhant</is> bei den <is>Jaina</is> 
+<ls>BURNOUF, Intr. 222.</ls> <ls>Lot. de la b. l. 336.</ls> <ls>WILSON, Sel. Works 2, 11. 15. 27. 32.</ls> <ls>LALIT. ed. Calc. 341, 1. 362, 4. 5.</ls> <ls>RĀJA-TAR. 2, 136.</ls> {%ein%} <is>Arhant</is> bei den <is>Jaina</is> 
 <ls>H. 24.</ls> — Hiervon 
 <div n="1"> 3) <lex>adj.</lex> {%zu%} <is>Buddha</is> {%in Beziehung stehend%}: {#कश्मीरेषु स्वयंभूनि गत्वा क्षेत्राणि पूजय#} 
 <ls>KATHĀS. 51, 45.</ls> 

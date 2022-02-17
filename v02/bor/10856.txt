@@ -1,4 +1,4 @@
 <L>10856<pc>342<k1>helping<k2>helping
-<div n="lb"/>{@HELPING@}¦ (adj.): <div n="xe">{%to lend a h. hand:%}</div> <div n="xs">{#साहाय्याय हस्तं #}
-<div n="lb"/>{# ददाति।#}</div>
+{@HELPING@}¦ (adj.): <div n="xe">{%to lend a h. hand:%}</div> <div n="xs">{#साहाय्याय हस्तं #}
+{# ददाति।#}</div>
 <LEND>

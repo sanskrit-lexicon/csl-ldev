@@ -1,8 +1,8 @@
 <L>421<pc>016<k1>afoot<k2>afoot
-<div n="lb"/>{@AFOOT@}¦ (adv.): <div n="I">I Lit.: {#पद्भयाम्,#} <div n="xe">{%did she go a. on%}
-<div n="lb"/>{%in a carriage%}</div> <div n="xs">{#किमसौ पद्भयां गता उत प्रवहणेन ?#}</div> Mr.
-<div n="lb"/>ix. </div><div n="I">II FIG., in action: {#प्रारब्धः#} ({#ब्धा, ब्धं#}),
-<div n="lb"/><div n="xe">{%good men do not abandon what is set a.%}</div> <div n="xs">{#प्रारब्घमु-#}
-<div n="lb"/>{#त्तमगुणा न परित्यजन्ति,#}</div> P: v. To begin, under-
-<div n="lb"/>-take.</div>
+{@AFOOT@}¦ (adv.): <div n="I">I Lit.: {#पद्भयाम्,#} <div n="xe">{%did she go a. on%}
+{%in a carriage%}</div> <div n="xs">{#किमसौ पद्भयां गता उत प्रवहणेन ?#}</div> Mr.
+ix. </div><div n="I">II FIG., in action: {#प्रारब्धः#} ({#ब्धा, ब्धं#}),
+<div n="xe">{%good men do not abandon what is set a.%}</div> <div n="xs">{#प्रारब्घमु-#}
+{#त्तमगुणा न परित्यजन्ति,#}</div> P: v. To begin, under-
+-take.</div>
 <LEND>

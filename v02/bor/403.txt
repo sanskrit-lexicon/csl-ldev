@@ -1,6 +1,6 @@
 <L>403<pc>016<k1>affirmative<k2>affirmative
-<div n="lb"/>{@AFFIRMATIVE@}¦ (adj.): <div n="I">I Declaratory of what
-<div n="lb"/>exists {#अस्तित्वसूचकः#} ({#का, कं#}) </div><div n="I">II Expressing
-<div n="lb"/>assent {#स्वीकारसूचकः#} ({#का, कं#}) </div><div n="I">III Confirma-
-<div n="lb"/>-tive: v. To confirm, etc.</div>
+{@AFFIRMATIVE@}¦ (adj.): <div n="I">I Declaratory of what
+exists {#अस्तित्वसूचकः#} ({#का, कं#}) </div><div n="I">II Expressing
+assent {#स्वीकारसूचकः#} ({#का, कं#}) </div><div n="I">III Confirma-
+-tive: v. To confirm, etc.</div>
 <LEND>

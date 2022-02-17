@@ -1,5 +1,5 @@
 <L>17160<pc>525<k1>plaint<k2>plaint
-<div n="lb"/>{@PLAINT:@}¦ {#प्रतिज्ञा,#} <div n="xe">{%the p. is the most important part%}
-<div n="lb"/>{%of a law-suit:%}</div> <div n="xs">{#सारस्तु व्यवहाराणां प्रतिज्ञा समुदाहृता,#}</div>
-<div n="lb"/>N. s.
+{@PLAINT:@}¦ {#प्रतिज्ञा,#} <div n="xe">{%the p. is the most important part%}
+{%of a law-suit:%}</div> <div n="xs">{#सारस्तु व्यवहाराणां प्रतिज्ञा समुदाहृता,#}</div>
+N. s.
 <LEND>

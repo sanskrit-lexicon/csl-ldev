@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%entschlossen, standhaft, charakterfest%} 
 <ls>M. 7, 210.</ls> 
-<ls>MBH. 1, 2909. 4, 546.</ls> 
+<ls>MBH. 1, 2909.</ls> <ls n="MBH.">4, 546.</ls> 
 <ls>DRAUP. 7, 12.</ls> 
 <ls>R. 1, 1, 4. 6, 12.</ls> 
 <ls>SUŚR. 1, 166, 20.</ls> 
@@ -18,8 +18,8 @@
 [Page3-0990]
 Sohnes des <is>Manu</is> <is>Raivata</is> 
 <ls>HARIV. 433.</ls> des <is>Manu</is> <is>Sāvarṇa</is> 
-<ls>465.</ls> N. pr. eines der <is>Saptarṣi</is> im 13ten <is>Manvantara</is> 
-<ls>486.</ls> eines Sohnes <is>Kirtimant's</is>, Sohnes des <is>Aṅgiras</is>. 
+<ls n="HARIV.">465.</ls> N. pr. eines der <is>Saptarṣi</is> im 13ten <is>Manvantara</is> 
+<ls n="HARIV.">486.</ls> eines Sohnes <is>Kirtimant's</is>, Sohnes des <is>Aṅgiras</is>. 
 <ls>VP. 83,</ls> 
 <ls>N. 3.</ls> eines Sohnes des <is>Yavinara</is> 
 <ls>HARIV. 1075.</ls> 

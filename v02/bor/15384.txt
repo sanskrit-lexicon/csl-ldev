@@ -1,4 +1,4 @@
 <L>15384<pc>471<k1>neutrality<k2>neutrality
-<div n="lb"/>{@NEUTRALITY:@}¦ {#माध्यस्थ्यम्,#} <div n="xe">{%to betake n.:%}</div> <div n="xs">{#माध्यस्थ्यमव-#}
-<div n="lb"/>{#लम्बते।#}</div>
+{@NEUTRALITY:@}¦ {#माध्यस्थ्यम्,#} <div n="xe">{%to betake n.:%}</div> <div n="xs">{#माध्यस्थ्यमव-#}
+{#लम्बते।#}</div>
 <LEND>

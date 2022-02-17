@@ -1,4 +1,4 @@
 <L>2893<pc>098<k1>cake<k2>cake
-<div n="lb"/>{@CAKE@}¦ (subs.): <div n="I">I An article of food: </div><div n="1">(1)
-<div n="lb"/>{#षिष्टकः;#} </div><div n="1">(2) {#पूपः।#} </div><div n="I">II A cake-like mass: {#पिण्डः।#}</div>
+{@CAKE@}¦ (subs.): <div n="I">I An article of food: </div><div n="1">(1)
+{#षिष्टकः;#} </div><div n="1">(2) {#पूपः।#} </div><div n="I">II A cake-like mass: {#पिण्डः।#}</div>
 <LEND>

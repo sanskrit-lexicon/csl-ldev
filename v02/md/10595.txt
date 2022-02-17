@@ -1,17 +1,17 @@
 <L>10595<pc>141-1<k1>निपतन<k2>निपतन
 {#निपतन#}¦ni-patana, {%n.%} falling; flying, flight; 
-<>{@-pāta,@} {%m.%} fall; descent; cast ({%of a look%}); falling <lbinfo n="4"/>
-<> from ({%ab.%}) on (-°); alighting ({%of a bird%}): 
-<>fall ({%fig.%}); assault, attack; death; incidental 
-<>mention; irregularity ({%gr.%}); particle ({%gr.%}); 
-<>{@-pātana,@} {%n.%} causing to fall {%or%} descend; falling 
-<>down; flying down ({%of a bird%}); beating; 
-<>striking; destroying, killing; incidental mention, <lbinfo n="3"/>
-<> {%esp. of an irregular or rare form%} ({%gr.%}); 
-<>{@-pratīkāra,@} {%m.%} repelling of assaults; {@-pātin,@} 
-<>{%a.%} falling down; dropping; alighting, on (-°); 
-<>striking down, destroying, consuming; {@-pādá,@} 
-<>{%m.%} lowland, valley; {@-pāna,@} {%n.%} drinking; 
-<>trough; trench, tank, pool: {@-vat,@} {%a.%} abounding <lbinfo n="6"/>
-<> in pools, {@-saras,@} {%n.%} drinking-pool.
+{@-pāta,@} {%m.%} fall; descent; cast ({%of a look%}); falling <lbinfo n="4"/>
+ from ({%ab.%}) on (-°); alighting ({%of a bird%}): 
+fall ({%fig.%}); assault, attack; death; incidental 
+mention; irregularity ({%gr.%}); particle ({%gr.%}); 
+{@-pātana,@} {%n.%} causing to fall {%or%} descend; falling 
+down; flying down ({%of a bird%}); beating; 
+striking; destroying, killing; incidental mention, <lbinfo n="3"/>
+ {%esp. of an irregular or rare form%} ({%gr.%}); 
+{@-pratīkāra,@} {%m.%} repelling of assaults; {@-pātin,@} 
+{%a.%} falling down; dropping; alighting, on (-°); 
+striking down, destroying, consuming; {@-pādá,@} 
+{%m.%} lowland, valley; {@-pāna,@} {%n.%} drinking; 
+trough; trench, tank, pool: {@-vat,@} {%a.%} abounding <lbinfo n="6"/>
+ in pools, {@-saras,@} {%n.%} drinking-pool.
 <LEND>

@@ -1,9 +1,9 @@
 <L>10837<pc>342<k1>heir<k2>heir
-<div n="lb"/>{@HEIR, HEIRESS:@}¦ <div n="1">(1) {#उत्तरधिकारिन्#} (f. {#णी#}); </div><div n="1">(2)
-<div n="lb"/>{#ऋक्थिन्#} (f. {#नी#}) <div n="xe">{%or%}</div> <div n="xs">{#ऋक्थहरः#}</div> ({#री, रं#}), <div n="xe">{%sons are%}
-<div n="lb"/>{%father's h. s:%}</div> <div n="xs">{#पुत्रा ऋक्थहराः पितुः,#}</div> M. ix. 185.; </div><div n="1">(3)
-<div n="lb"/>{#दायादः#} ({#दा, दं#}) (applied also to all relatives);</div>
-<div n="lb"/><div n="1">(4) {#धनाधिकारिन्#} (f. {#णी#}), {#धनमाज्#} (mfn.), etc.,
-<div n="lb"/><div n="xe">{%sole h.:%}</div> <div n="xs">{#समग्रधनभाक्;#}</div> <div n="xe">{%h. to one half:%}</div> <div n="xs">{#अर्द्धहरः,#}</div> Da.:
-<div n="lb"/>v. Also sharer.</div>
+{@HEIR, HEIRESS:@}¦ <div n="1">(1) {#उत्तरधिकारिन्#} (f. {#णी#}); </div><div n="1">(2)
+{#ऋक्थिन्#} (f. {#नी#}) <div n="xe">{%or%}</div> <div n="xs">{#ऋक्थहरः#}</div> ({#री, रं#}), <div n="xe">{%sons are%}
+{%father's h. s:%}</div> <div n="xs">{#पुत्रा ऋक्थहराः पितुः,#}</div> M. ix. 185.; </div><div n="1">(3)
+{#दायादः#} ({#दा, दं#}) (applied also to all relatives);</div>
+<div n="1">(4) {#धनाधिकारिन्#} (f. {#णी#}), {#धनमाज्#} (mfn.), etc.,
+<div n="xe">{%sole h.:%}</div> <div n="xs">{#समग्रधनभाक्;#}</div> <div n="xe">{%h. to one half:%}</div> <div n="xs">{#अर्द्धहरः,#}</div> Da.:
+v. Also sharer.</div>
 <LEND>

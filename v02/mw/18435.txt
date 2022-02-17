@@ -1,9 +1,9 @@
 <L>18435<pc>106,2<k1>अवहन्<k2>अव-हन्<e>1
-<s>अव-√ हन्</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <s>-हन्</s>, <ls>RV. v, 32, 1 and vi, 26, 5</ls>; Imper. 2. <ab>pl.</ab> <s>-हन्तना</s>, <ls>RV. ii, 34, 9</ls> Imper. 2. <ab>sg.</ab> <s>-जहि</s>; <ab>impf.</ab> 2. and 3. <ab>sg.</ab> <s>-अ/हन्</s>, or <s>अहन्</s>; <ab>perf.</ab> 2. <ab>sg.</ab> <s>-जघन्थ</s>) 
+<s>अव-√ हन्</s> ¦ (<ab>Subj.</ab> 2. <ab>sg.</ab> <s>-हन्</s>, <ls>RV. v, 32, 1 and vi, 26, 5</ls>; <ab>Imper.</ab> 2. <ab>pl.</ab> <s>-हन्तना</s>, <ls>RV. ii, 34, 9</ls> <ab>Imper.</ab> 2. <ab>sg.</ab> <s>-जहि</s>; <ab>impf.</ab> 2. and 3. <ab>sg.</ab> <s>-अ/हन्</s>, or <s>अहन्</s>; <ab>perf.</ab> 2. <ab>sg.</ab> <s>-जघन्थ</s>) 
 <div n="to"/>to throw down, strike, hit, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh. ii, 915</ls>;
 <div n="vp"/> <ab>Ved.</ab> to drive away, expel, keep off, fend off, <ls>RV.</ls>; <ls>AV.</ls> &c.;
-<div n="vp"/> chiefly <ab>Ved.</ab> to thresh, <ls>RV. i, 195, 2</ls> (<ab>p.</ab> fem. <s>-घ्नती</s>), <ls>TS.</ls> &c.:
+<div n="vp"/> chiefly <ab>Ved.</ab> to thresh, <ls>RV. i, 195, 2</ls> (<ab>p.</ab> <ab>fem.</ab> <s>-घ्नती</s>), <ls>TS.</ls> &c.:
 <div n="to"/><ab>Ā.</ab> <s>-जिघ्नते</s>, to throw down, <ls>RV. i, 80, 5</ls>:
-<div n="to"/><ab>Caus.</ab> (Pot <s>-घातयेत्</s>) to cause to thresh, <ls>ŚBr. xiv</ls> :
-<div n="to"/><ab>Intens.</ab> (Imper. 2. <ab>sg.</ab> <s>-जङ्घनीहि</s>) to drive away, fend off, <ls>AV. v,20,8.</ls><info verb="pre" cp="Ā" parse="ava+han"/>
+<div n="to"/><ab>Caus.</ab> (<ab>Pot.</ab> <s>-घातयेत्</s>) to cause to thresh, <ls>ŚBr. xiv</ls> :
+<div n="to"/><ab>Intens.</ab> (<ab>Imper.</ab> 2. <ab>sg.</ab> <s>-जङ्घनीहि</s>) to drive away, fend off, <ls>AV. v,20,8.</ls><info verb="pre" cp="Ā" parse="ava+han"/>
 <LEND>

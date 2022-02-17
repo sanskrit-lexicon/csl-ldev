@@ -1,4 +1,4 @@
 <L>11694<pc>365<k1>impolitely<k2>impolitely
-<div n="lb"/>{@IMPOLITELY:@}¦ <div n="1">(1) {#शिष्टाचारम् अतिक्रम्य;#} </div><div n="1">(2) {#असभ्य-#}
-<div n="lb"/>{#तया।#}</div>
+{@IMPOLITELY:@}¦ <div n="1">(1) {#शिष्टाचारम् अतिक्रम्य;#} </div><div n="1">(2) {#असभ्य-#}
+{#तया।#}</div>
 <LEND>

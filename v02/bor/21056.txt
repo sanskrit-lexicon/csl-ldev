@@ -1,14 +1,14 @@
 <L>21056<pc>663<k1>source<k2>source
-<div n="lb"/>{@SOURCE:@}¦ <div n="1">(1) {#प्रभवः#} (from which anything
-<div n="lb"/>proceeds) and by verb: {#प्रभवति,#} {%taking s. in%}
-<div n="lb"/>{%the%} ({%mount%}) <div n="xe">{%Mahendra:%}</div> <div n="xs">{#महेन्द्रप्रमवाः,#}</div> V. p. ii.
-<div n="lb"/>3. 13.: <div n="xe">{%the s. of treasure and force:%}</div> <div n="xs">{#प्रभवः खलु #}
-<div n="lb"/>{# कोषदण्डयोः,#}</div> Ki. ii.; <div n="xe">{%its foot is the s. of the%}
-<div n="lb"/>{%lake called Hill-water:%}</div> <div n="xs">{#तस्य पादात्प्रभवति शैलोदं #}
-<div n="lb"/>{# नाम तत्सरः,#}</div> Mat.; </div><div n="1">(2) {#योनिः#} (=origin), <div n="xe">{%the s.%}
-<div n="lb"/>{%of all, you are self-born:%}</div> <div n="xs">{#सर्वयोनिस्त्वमात्मभूः,#}</div> R.
-<div n="lb"/>x. 20.; </div><div n="1">(3) {#मूलम्#} (=root); </div><div n="1">(4) {#कारणम्#}
-<div n="lb"/>(= cause); </div><div n="1">(5) {#प्रसूतिः#} (= parent); </div><div n="1">(6) {#आदिः#}
-<div n="lb"/>(= beginning); </div><div n="1">(7) {#मुखम्#} (=mouth: of
-<div n="lb"/>persons in supplying information).</div>
+{@SOURCE:@}¦ <div n="1">(1) {#प्रभवः#} (from which anything
+proceeds) and by verb: {#प्रभवति,#} {%taking s. in%}
+{%the%} ({%mount%}) <div n="xe">{%Mahendra:%}</div> <div n="xs">{#महेन्द्रप्रमवाः,#}</div> V. p. ii.
+3. 13.: <div n="xe">{%the s. of treasure and force:%}</div> <div n="xs">{#प्रभवः खलु #}
+{# कोषदण्डयोः,#}</div> Ki. ii.; <div n="xe">{%its foot is the s. of the%}
+{%lake called Hill-water:%}</div> <div n="xs">{#तस्य पादात्प्रभवति शैलोदं #}
+{# नाम तत्सरः,#}</div> Mat.; </div><div n="1">(2) {#योनिः#} (=origin), <div n="xe">{%the s.%}
+{%of all, you are self-born:%}</div> <div n="xs">{#सर्वयोनिस्त्वमात्मभूः,#}</div> R.
+x. 20.; </div><div n="1">(3) {#मूलम्#} (=root); </div><div n="1">(4) {#कारणम्#}
+(= cause); </div><div n="1">(5) {#प्रसूतिः#} (= parent); </div><div n="1">(6) {#आदिः#}
+(= beginning); </div><div n="1">(7) {#मुखम्#} (=mouth: of
+persons in supplying information).</div>
 <LEND>

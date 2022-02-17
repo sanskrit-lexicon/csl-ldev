@@ -1,5 +1,5 @@
 <L>5625<pc>180<k1>deduct<k2>deduct
-<div n="lb"/>{@DEDUCT@}¦ v. t.: {#वियोजयति#} ({#युज्,#} c. 10.) Ph.: {%capital%}
-<div n="lb"/><div n="xe">{%d. ed from amount is interest:%}</div> <div n="xs">{#मूलं मिश्राच्च्युतं #}
-<div n="lb"/>{# कलान्तरम्,#}</div> Li.: v. To subtract.
+{@DEDUCT@}¦ v. t.: {#वियोजयति#} ({#युज्,#} c. 10.) Ph.: {%capital%}
+<div n="xe">{%d. ed from amount is interest:%}</div> <div n="xs">{#मूलं मिश्राच्च्युतं #}
+{# कलान्तरम्,#}</div> Li.: v. To subtract.
 <LEND>

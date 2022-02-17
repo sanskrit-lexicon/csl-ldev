@@ -1,4 +1,4 @@
 <L>4628<pc>150<k1>contradiction<k2>contradiction
-<div n="lb"/>{@CONTRADICTION:@}¦ <div n="1">(1) {#विरोधः;#} </div><div n="1">(2) {#प्रतिषेधः;#}</div>
-<div n="lb"/><div n="1">(2) {#प्रत्याख्यानम्#} (=denial).</div>
+{@CONTRADICTION:@}¦ <div n="1">(1) {#विरोधः;#} </div><div n="1">(2) {#प्रतिषेधः;#}</div>
+<div n="1">(2) {#प्रत्याख्यानम्#} (=denial).</div>
 <LEND>

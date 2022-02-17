@@ -1,11 +1,11 @@
 <L>3766<pc>123<k1>class<k2>class
-<div n="lb"/>{@CLASS@}¦ (subs.): <div n="I">I Of individuals: gen. not
-<div n="lb"/>expr. d: <div n="xe">{%there can be no association between%}
-<div n="lb"/>{%the higher and lower c. es:%}</div> <div n="xs">{#सहापकृष्टैर्महतां न संगतम्#}</div>
-<div n="lb"/>Ki.; <div n="xe">{%c. es. of citizens:%}</div> <div n="xs">{#पौराणां श्रेणयः,#}</div> Nil.: v.
-<div n="lb"/>Party, caste. </div><div n="I">II Of students: {#श्रेणी#} ({%or%} -{#णिः#}).</div>
-<div n="lb"/><div n="I">III A division of objects: </div><div n="1">(1) {#वर्गः,#} <div n="xe">{%we will%}
-<div n="lb"/>{%now specify the c. es. of flesh:%}</div> <div n="xs">{#अत ऊध्वं मांस-#}
-<div n="lb"/>{#वर्गानुदेक्ष्याभः,#}</div> Sr.; </div><div n="1">(2) {#गणः#} (specially of
-<div n="lb"/>verbs); </div><div n="1">(3) {#जातिः#} (=species).</div>
+{@CLASS@}¦ (subs.): <div n="I">I Of individuals: gen. not
+expr. d: <div n="xe">{%there can be no association between%}
+{%the higher and lower c. es:%}</div> <div n="xs">{#सहापकृष्टैर्महतां न संगतम्#}</div>
+Ki.; <div n="xe">{%c. es. of citizens:%}</div> <div n="xs">{#पौराणां श्रेणयः,#}</div> Nil.: v.
+Party, caste. </div><div n="I">II Of students: {#श्रेणी#} ({%or%} -{#णिः#}).</div>
+<div n="I">III A division of objects: </div><div n="1">(1) {#वर्गः,#} <div n="xe">{%we will%}
+{%now specify the c. es. of flesh:%}</div> <div n="xs">{#अत ऊध्वं मांस-#}
+{#वर्गानुदेक्ष्याभः,#}</div> Sr.; </div><div n="1">(2) {#गणः#} (specially of
+verbs); </div><div n="1">(3) {#जातिः#} (=species).</div>
 <LEND>

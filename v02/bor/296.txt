@@ -1,11 +1,11 @@
 <L>296<pc>012<k1>admit<k2>admit
-<div n="lb"/>{@ADMIT@}¦ (v. t.): <div n="I">I To allow to enter: </div><div n="1">(1)
-<div n="lb"/>{#प्रवेशयति,#} <div n="xe">{%a. them at once%}</div> <div n="xs">{#अविलम्बितं प्रवेशय तौ,#}</div>
-<div n="lb"/>Sa. ii.; </div><div n="1">(2) {#आ-वेशयति#} (c. of {#विश्#}), {%a. ing%}
-<div n="lb"/>({%me%}) <div n="xe">{%to his hut%}</div> <div n="xs">{#स्वकुटिरमावेश्य,#}</div> <ls>D.</ls> iii. </div><div n="I">II To
-<div n="lb"/>acknowledge: q. v.: </div><div n="1">(1) {#अभ्युपैति#} ({#इ,#} c.
-<div n="lb"/>2); </div><div n="1">(2) {#अभ्युपगच्छति,#} ({#गम्,#} c. 1). </div><div n="I">III To
-<div n="lb"/>be capable of: Ph. <div n="xe">{%it a. s of no other cons-%}
-<div n="lb"/>{%truction%}</div> <div n="xs">{#*अत्रान्योऽन्वयो नलगति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#नोपपद्यते;#}</div> <div n="xe">{%it a. s%}
-<div n="lb"/>{%of no delay%}</div> <div n="xs">{#विलम्बं न सहते#}</div> (?).</div>
+{@ADMIT@}¦ (v. t.): <div n="I">I To allow to enter: </div><div n="1">(1)
+{#प्रवेशयति,#} <div n="xe">{%a. them at once%}</div> <div n="xs">{#अविलम्बितं प्रवेशय तौ,#}</div>
+Sa. ii.; </div><div n="1">(2) {#आ-वेशयति#} (c. of {#विश्#}), {%a. ing%}
+({%me%}) <div n="xe">{%to his hut%}</div> <div n="xs">{#स्वकुटिरमावेश्य,#}</div> <ls>D.</ls> iii. </div><div n="I">II To
+acknowledge: q. v.: </div><div n="1">(1) {#अभ्युपैति#} ({#इ,#} c.
+2); </div><div n="1">(2) {#अभ्युपगच्छति,#} ({#गम्,#} c. 1). </div><div n="I">III To
+be capable of: Ph. <div n="xe">{%it a. s of no other cons-%}
+{%truction%}</div> <div n="xs">{#*अत्रान्योऽन्वयो नलगति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#नोपपद्यते;#}</div> <div n="xe">{%it a. s%}
+{%of no delay%}</div> <div n="xs">{#विलम्बं न सहते#}</div> (?).</div>
 <LEND>

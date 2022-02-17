@@ -1,11 +1,11 @@
 <L>13467<pc>414<k1>letter<k2>letter
-<div n="lb"/>{@LETTER:@}¦ <div n="I">I Of the alphabet: </div><div n="1">(1) {#अक्षरम्;#} </div><div n="1">(2)
-<div n="lb"/>{#वर्णः।#} <div n="xe">{%The l.%}</div> <div n="xs">{#अ#}</div> (a), {#क#} (k), etc.: {#अकारः, ककारः,#}
-<div n="lb"/>etc.; <div n="xe">{%the l.%}</div> <div n="xs">{#र#}</div> (r): {#रेफः।#} </div><div n="I">II Literal statement:
-<div n="lb"/>{#शब्दार्थः।#} Ph.: <div n="xe">{%to the l.:%}</div> <div n="xs">{#यथावचनम्:#}</div> v. Also lite-
-<div n="lb"/>-rally. </div><div n="I">III An epistle: </div><div n="1">(1) {#पत्रम्,#} <div n="xe">{%send a l.:%}</div> <div n="xs">{#पत्रं #}
-<div n="lb"/>{# प्रेषय,#}</div> A r.; </div><div n="1">(2) {#लेखः,#} <div n="xe">{%to open a l.:%}</div> <div n="xs">{#लेखम् उन्मुञ्चति,#}</div>
-<div n="lb"/>K; <div n="xe">{%to seal a l.:%}</div> <div n="xs">{#लेखं मुद्रयति,#}</div> Mu.; {%a l. carrier:%}
-<div n="lb"/>{#लेखहारकः,#} K. Ph.: <div n="xe">{%a man of l.s%}</div> <div n="xs">{#कृतविद्य#}</div> (f. {#द्या#}):
-<div n="lb"/>v. Learned.</div>
+{@LETTER:@}¦ <div n="I">I Of the alphabet: </div><div n="1">(1) {#अक्षरम्;#} </div><div n="1">(2)
+{#वर्णः।#} <div n="xe">{%The l.%}</div> <div n="xs">{#अ#}</div> (a), {#क#} (k), etc.: {#अकारः, ककारः,#}
+etc.; <div n="xe">{%the l.%}</div> <div n="xs">{#र#}</div> (r): {#रेफः।#} </div><div n="I">II Literal statement:
+{#शब्दार्थः।#} Ph.: <div n="xe">{%to the l.:%}</div> <div n="xs">{#यथावचनम्:#}</div> v. Also lite-
+-rally. </div><div n="I">III An epistle: </div><div n="1">(1) {#पत्रम्,#} <div n="xe">{%send a l.:%}</div> <div n="xs">{#पत्रं #}
+{# प्रेषय,#}</div> A r.; </div><div n="1">(2) {#लेखः,#} <div n="xe">{%to open a l.:%}</div> <div n="xs">{#लेखम् उन्मुञ्चति,#}</div>
+K; <div n="xe">{%to seal a l.:%}</div> <div n="xs">{#लेखं मुद्रयति,#}</div> Mu.; {%a l. carrier:%}
+{#लेखहारकः,#} K. Ph.: <div n="xe">{%a man of l.s%}</div> <div n="xs">{#कृतविद्य#}</div> (f. {#द्या#}):
+v. Learned.</div>
 <LEND>

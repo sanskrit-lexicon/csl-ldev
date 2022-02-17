@@ -1,7 +1,7 @@
 <L>6617<pc>211<k1>distract<k2>distract
-<div n="lb"/>{@DISTRACT:@}¦ <div n="I">I To draw away: q. v.: {#अपकर्षति#}
-<div n="lb"/>({#कृष,#} c. 1.). </div><div n="I">II To confuse: {#आकुलीकरोति#}
-<div n="lb"/>({#कृ,#} c. 8.); </div><div n="1">(2) {#मोहयति, वि-,#} (c. of {#मुह#}). </div><div n="I">III
-<div n="lb"/>To make mad: <div n="xe">{%d. ed mind:%}</div> <div n="xs">{#प्रविक्षिप्तं चेतः,#}</div>
-<div n="lb"/>Ma.: v. Mad.</div>
+{@DISTRACT:@}¦ <div n="I">I To draw away: q. v.: {#अपकर्षति#}
+({#कृष,#} c. 1.). </div><div n="I">II To confuse: {#आकुलीकरोति#}
+({#कृ,#} c. 8.); </div><div n="1">(2) {#मोहयति, वि-,#} (c. of {#मुह#}). </div><div n="I">III
+To make mad: <div n="xe">{%d. ed mind:%}</div> <div n="xs">{#प्रविक्षिप्तं चेतः,#}</div>
+Ma.: v. Mad.</div>
 <LEND>

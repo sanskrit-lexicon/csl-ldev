@@ -1,4 +1,4 @@
 <L>13253<pc>408<k1>lattice<k2>lattice
-<div n="lb"/>{@LATTICE:@}¦ Ph.: <div n="xe">{%l. window:%}</div> <div n="xs">{#जालमार्गः;#}</div> {%l. work:%}
-<div n="lb"/>{#जालकर्मन्#} (n.).
+{@LATTICE:@}¦ Ph.: <div n="xe">{%l. window:%}</div> <div n="xs">{#जालमार्गः;#}</div> {%l. work:%}
+{#जालकर्मन्#} (n.).
 <LEND>

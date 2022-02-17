@@ -1,5 +1,5 @@
 <L>2929<pc>099<k1>callosity<k2>callosity
-<div n="lb"/>{@CALLOSITY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#किणः;#} </div><div n="1">(2) {#कदरः#} (?).</div>
-<div n="lb"/><div n="I">II Fig.: hard-heartedness, insensibility:</div>
-<div n="lb"/><div n="1">(1) {#काठिन्यम्;#} </div><div n="1">(2) {#कठोरता।#}</div>
+{@CALLOSITY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#किणः;#} </div><div n="1">(2) {#कदरः#} (?).</div>
+<div n="I">II Fig.: hard-heartedness, insensibility:</div>
+<div n="1">(1) {#काठिन्यम्;#} </div><div n="1">(2) {#कठोरता।#}</div>
 <LEND>

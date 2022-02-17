@@ -1,5 +1,5 @@
 <L>4430<pc>144<k1>congregate<k2>congregate
-<div n="lb"/>{@CONGREGATE:@}¦ <div n="I">I Intrans: {#समागच्छति#} ({#गम्,#}
-<div n="lb"/>c. l.): v. To assemble. </div><div n="I">II Trans: {#समाह-#}
-<div n="lb"/>{#रति#} ({#हृ,#} c. l.): v. To collect.</div>
+{@CONGREGATE:@}¦ <div n="I">I Intrans: {#समागच्छति#} ({#गम्,#}
+c. l.): v. To assemble. </div><div n="I">II Trans: {#समाह-#}
+{#रति#} ({#हृ,#} c. l.): v. To collect.</div>
 <LEND>

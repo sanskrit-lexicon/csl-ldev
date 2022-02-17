@@ -1,9 +1,9 @@
 <L>11145<pc>350<k1>honour<k2>honour
-<div n="lb"/>{@HONOUR@}¦ (v.): <div n="1">(1) {#मानयति, सं-,#} (rarely) {#प्रति-,#}
-<div n="lb"/>(c. of {#मन्#}), <div n="xe">{%yet your Highness will be pleased%}
-<div n="lb"/>{%to h. my request:%}</div> <div n="xs">{#तथापि मद्विज्ञापनां मानयितुमर्हत्यार्यः,#}</div>
-<div n="lb"/>Mu. ii.; </div><div n="1">(2) {#पूजयति, सम्-, अभि-, प्र-,#} ({#प्वज्,#}
-<div n="lb"/>c. 10.) (= to respect: q.v.) <div n="xe">{%he, although%}
-<div n="lb"/>{%destitute of h. will be everywhere h. ed:%}</div> <div n="xs">{#सम्मान-#}
-<div n="lb"/>{#हीनोऽपि स सर्वत्र प्रपूज्यते,#}</div> P. i. 3.</div>
+{@HONOUR@}¦ (v.): <div n="1">(1) {#मानयति, सं-,#} (rarely) {#प्रति-,#}
+(c. of {#मन्#}), <div n="xe">{%yet your Highness will be pleased%}
+{%to h. my request:%}</div> <div n="xs">{#तथापि मद्विज्ञापनां मानयितुमर्हत्यार्यः,#}</div>
+Mu. ii.; </div><div n="1">(2) {#पूजयति, सम्-, अभि-, प्र-,#} ({#प्वज्,#}
+c. 10.) (= to respect: q.v.) <div n="xe">{%he, although%}
+{%destitute of h. will be everywhere h. ed:%}</div> <div n="xs">{#सम्मान-#}
+{#हीनोऽपि स सर्वत्र प्रपूज्यते,#}</div> P. i. 3.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>10693<pc>336<k1>hatchet<k2>hatchet
-<div n="lb"/>{@HATCHET:@}¦ {#टङ्कः,#} <div n="xe">{%cut with axes, and h. s and with%}
-<div n="lb"/>{%bills.:%}</div> <div n="xs">{#कृठारैष्टङ्कैश्च दात्रैश्चैव प्रचिच्छिदुः,#}</div> Ram.
+{@HATCHET:@}¦ {#टङ्कः,#} <div n="xe">{%cut with axes, and h. s and with%}
+{%bills.:%}</div> <div n="xs">{#कृठारैष्टङ्कैश्च दात्रैश्चैव प्रचिच्छिदुः,#}</div> Ram.
 <LEND>

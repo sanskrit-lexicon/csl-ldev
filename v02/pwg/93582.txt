@@ -12,8 +12,8 @@
 <ls>TBR. 1, 2, 1, 21. 4, 3, 1. 7, 6, 7.</ls> pl. {%das Gespann des%} <is>Bṛhaspati</is> 
 <ls>NAIGH. 1, 15.</ls> Stier <ls>ṚV. 3, 56, 3.</ls> Rosse <ls n="ṚV.">10, 70, 2.</ls> {#निष्क#} 
 <ls n="ṚV.">2, 33, 10.</ls> Wagen des <is>Savitar</is> 
-<ls>?1, 35, 4. 10, 85, 20. - 3, 38, 4. TS. 4, 3, 11, 5. AV. 4, 14, 9. 6, 59, 3. 9, 1, 2. 5. ŚAT. BR. 1, 6, 3, 5. Kleid VS. 11, 40. ŚAT. BR. 14, 2, 1, 8. Himmel und Erde VS. 9, 19.</ls> Feuer 
-<ls>?13, 41. Thore 29, 5. - MAITRYUP. 6, 8.</ls> 
+<ls>1, 35, 4. 10, 85, 20. - 3, 38, 4.</ls> <ls>TS. 4, 3, 11, 5.</ls> <ls>AV. 4, 14, 9. 6, 59, 3. 9, 1, 2. 5.</ls> <ls>ŚAT. BR. 1, 6, 3, 5. Kleid</ls> <ls>VS. 11, 40.</ls> <ls>ŚAT. BR. 14, 2, 1, 8.</ls> Himmel und Erde <ls>VS. 9, 19.</ls> Feuer 
+<ls>13, 41.</ls> Thore <ls>29, 5.</ls> - <ls>MAITRYUP. 6, 8.</ls> 
 <div n="2">— b) {%vielgestaltig, mannichfaltig, verschiedenartig, allerlei%}: {#ओष^धीः#} 
 <ls>ṚV. 5, 83, 5.</ls> <ls n="ṚV.">10, 88, 10.</ls> 
 <ls>AV. 4, 15, 2.</ls> {#वाज#} 
@@ -22,14 +22,14 @@
 <ls>AV. 5, 23, 5.</ls> {#इन्दु#} 
 <ls>TS. 3, 3, 10, 2</ls> ({#विषुरूप#} 
 v. l. der 
-<ls>VS.</ls><ls>?). VS. 16, 25.</ls> {#वाच्#} 
+<ls>VS.</ls>). <ls>VS. 16, 25.</ls> {#वाच्#} 
 <ls>LĀṬY. 4, 1, 5.</ls> 
 <ls>MBH. 5, 1684.</ls> Speise <ls>ŚAT. BR. 11, 2, 6, 8.</ls> {#यशस्#} 
 <ls>14, 5, 2, 4.</ls> {%formenreich%}: <is>Tvaṣṭar-Savitar</is> 
 <ls>ṚV. 10, 10, 5.</ls> <ls n="ṚV.">3, 55, 19.</ls> {%in mancherlei Formen erscheinend%}: <is>Bṛhaspati</is> 
 <ls n="ṚV.">3, 62, 6.</ls> die <is>Aṅgiras</is> 
-<ls>?10, 78, 5. - CHĀND. UP. 5, 13, 1. ŚVETĀŚV. UP. 1, 4. 9. TAITT. UP. 1, 4, 1. HARIV. 14114. BHĀG. P. 6, 4, 28. MĀRK. P. 23, 42.</ls> {#विश्वे देवाश्च यत्तस्मिन्विश्वरूपस्ततः स्मृतः (शिवः)#} 
-<ls>MBH.7,9621. 13,589.</ls> <ls>Verz. d. Oxf. H. 52,a,8.</ls> 
+<ls n="ṚV.">10, 78, 5.</ls> - <ls>CHĀND. UP. 5, 13, 1.</ls> <ls>ŚVETĀŚV. UP. 1, 4. 9.</ls> <ls>TAITT. UP. 1, 4, 1.</ls> <ls>HARIV. 14114.</ls> <ls>BHĀG. P. 6, 4, 28.</ls> <ls>MĀRK. P. 23, 42.</ls> {#विश्वे देवाश्च यत्तस्मिन्विश्वरूपस्ततः स्मृतः (शिवः)#} 
+<ls>MBH. 7, 9621.</ls> <ls n="MBH.">13, 589.</ls> <ls>Verz. d. Oxf. H. 52,a,8.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) Bez. {%best. Kometen%} 
 <ls>VARĀH. BṚH. S. 11, 23.</ls> 
@@ -53,7 +53,7 @@ v. l. der
 <ls>MED. Anh. 4.</ls> <ls>Verz. d. B. H. No. 802.</ls> <ls>Verz. d. Oxf. H. 151,a,28. 162,b,25. 188,a,28. 227,13. 255,a,15. 257,b,14. 356,a,26.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 12.</ls> <ls>COLEBR. Misc. Ess. II, 454.</ls> <ls>WILSON, Sel. Works I, 154.</ls> <ls>KULL.</ls> zu <ls>M.2,189.4,215.5,68.</ls> {#विश्वरूपाचार्य#} 
 <ls>Verz. d. B. H. No. 616. 1045.</ls> <ls>Verz. d. Oxf. H. 236,a,4. 270,b,43.</ls> <ls>HALL 110. 227.</ls> {#निबन्धं च विश्वरूपकृतम्#} 
 <ls>Verz. d. B. H. No. 1170.</ls> {#°निबन्ध#} 
-<ls>?468 (b,161). Verz. d. Oxf. H. 279,a,51.fg.</ls> 
+<ls>468 (b,161).</ls> <ls>Verz. d. Oxf. H. 279,a,51.fg.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} Bez. gewisser Verse 
 ? (z. B. <ls>ṚV. 5, 81, 2</ls>) <ls>AIT. BR. 1, 29.</ls> <ls>ṢAḌV. BR. 1, 4.</ls> <ls>LĀṬY. 1, 8, 5. 13. 16.</ls> 
 <div n="1">— 4) <lex>f.</lex> {#ई#} N. einer der 7 Zungen des Feuers 

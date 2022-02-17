@@ -1,4 +1,4 @@
 <L>9677<pc>306<k1>gangway<k2>gangway
-<div n="lb"/>{@GANGWAY:@}¦ <div n="I">I A way: {#द्वारम्।#} </div><div n="I">II Of a ship:
-<div n="lb"/>{#मध्यम्।#}</div>
+{@GANGWAY:@}¦ <div n="I">I A way: {#द्वारम्।#} </div><div n="I">II Of a ship:
+{#मध्यम्।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>17346<pc>531<k1>poll<k2>poll
-<div n="lb"/>{@POLL@}¦ (v.): <div n="I">I To clip, cut: q. v.: {#लुनाति#} ({#लू,#}
-<div n="lb"/>c. 9.). </div><div n="I">II To register names: {#नाम लिखति#}
-<div n="lb"/>({#लिख्,#} c. 6.). </div><div n="I">III To elicit votes: {#*नाम-#}
-<div n="lb"/>{#ग्राहं मतामतं निश्चिनीति#} ({#चि,#} c. 5.).</div>
+{@POLL@}¦ (v.): <div n="I">I To clip, cut: q. v.: {#लुनाति#} ({#लू,#}
+c. 9.). </div><div n="I">II To register names: {#नाम लिखति#}
+({#लिख्,#} c. 6.). </div><div n="I">III To elicit votes: {#*नाम-#}
+{#ग्राहं मतामतं निश्चिनीति#} ({#चि,#} c. 5.).</div>
 <LEND>

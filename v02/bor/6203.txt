@@ -1,6 +1,6 @@
 <L>6203<pc>199<k1>dinner<k2>dinner
-<div n="lb"/>{@DINNER:@}¦ {#भोजनम्,#} {%who invites and does not give d.:%}
-<div n="lb"/>{#निमन्त्रयित्वा भोजनादायी,#} V. s.; <div n="xe">{%d. plate:%}</div> <div n="xs">{#भोजन-#}
-<div n="lb"/>{#भाजनम्,#}</div> N.; <div n="xe">{%it is time to bathe and take d.:%}</div> <div n="xs">{#समयः #}
-<div n="lb"/>{# खलु स्नानभोजने सेवितुम्,#}</div> V.: v. Food.
+{@DINNER:@}¦ {#भोजनम्,#} {%who invites and does not give d.:%}
+{#निमन्त्रयित्वा भोजनादायी,#} V. s.; <div n="xe">{%d. plate:%}</div> <div n="xs">{#भोजन-#}
+{#भाजनम्,#}</div> N.; <div n="xe">{%it is time to bathe and take d.:%}</div> <div n="xs">{#समयः #}
+{# खलु स्नानभोजने सेवितुम्,#}</div> V.: v. Food.
 <LEND>

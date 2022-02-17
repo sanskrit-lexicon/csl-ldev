@@ -1,4 +1,4 @@
 <L>22295<pc>703<k1>temperature<k2>temperature
-<div n="lb"/>{@TEMPERATURE:@}¦ {#उष्णमानम्#} (?) {#धर्मपरिमाणम्#} (?)
-<div n="lb"/>etc.
+{@TEMPERATURE:@}¦ {#उष्णमानम्#} (?) {#धर्मपरिमाणम्#} (?)
+etc.
 <LEND>

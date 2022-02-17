@@ -1,5 +1,5 @@
 <L>14381<pc>441<k1>medical<k2>medical
-<div n="lb"/>{@MEDICAL:@}¦ i. e. pertaining to medicine: expr.
-<div n="lb"/>by comp., <div n="xe">{%m. work:%}</div> <div n="xs">{#वैद्यकशास्त्रम्:#}</div> v. Also medi-
-<div n="lb"/>-cinal.
+{@MEDICAL:@}¦ i. e. pertaining to medicine: expr.
+by comp., <div n="xe">{%m. work:%}</div> <div n="xs">{#वैद्यकशास्त्रम्:#}</div> v. Also medi-
+-cinal.
 <LEND>

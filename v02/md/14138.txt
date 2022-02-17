@@ -1,12 +1,12 @@
 <L>14138<pc>227-2<k1>मास<k2>मास
 {#मास#}¦mā́s-a, {%m.%} month: {@-m,@} for a month; 
-<>{@māsam ekam,@} for one month; {%in.%} in the 
-<>course of a month; {%lc.%} in a month = after the 
-<>lapse of a month. ({%The twelve months of the %}
-<>{%Indian calendar, which do not exactly correspond %}<lbinfo n="3"/>
-<>{% to ours, are%} Caitra, Vaiśākha: March
-<>-May; Jyaiṣṭha, Āṣāḍha: May-July; 
-<>Śrāvaṇa, Bhādra: July-Sept.; Āśvina, Kārttika: <lbinfo n="6"/>
-<> Sept.-Nov.; Mārgaśīrṣa, Pauṣa: 
-<>Nov.-Jan.; Māgha, Phālguna: Jan.-March.).
+{@māsam ekam,@} for one month; {%in.%} in the 
+course of a month; {%lc.%} in a month = after the 
+lapse of a month. ({%The twelve months of the %}
+{%Indian calendar, which do not exactly correspond %}<lbinfo n="3"/>
+{% to ours, are%} Caitra, Vaiśākha: March
+-May; Jyaiṣṭha, Āṣāḍha: May-July; 
+Śrāvaṇa, Bhādra: July-Sept.; Āśvina, Kārttika: <lbinfo n="6"/>
+ Sept.-Nov.; Mārgaśīrṣa, Pauṣa: 
+Nov.-Jan.; Māgha, Phālguna: Jan.-March.).
 <LEND>

@@ -1,5 +1,5 @@
 <L>3179<pc>106<k1>cast down<k2>cast down
-<div n="lb"/>{@CAST DOWN:@}¦ <div n="I">I Lit.,: to throw down: q. v. Ph.
-<div n="lb"/><div n="xe">{%with eyes c.%}</div> <div n="xs">{#अधोदृष्टि#}</div> (mfn.) <div n="xe">{%or%}</div> <div n="xs">{#अधोमुखः#}</div> (f. {#खी#}),
-<div n="lb"/>Ku. vi. 85. </div><div n="I">II Fig.: v. To deject, depress.</div>
+{@CAST DOWN:@}¦ <div n="I">I Lit.,: to throw down: q. v. Ph.
+<div n="xe">{%with eyes c.%}</div> <div n="xs">{#अधोदृष्टि#}</div> (mfn.) <div n="xe">{%or%}</div> <div n="xs">{#अधोमुखः#}</div> (f. {#खी#}),
+Ku. vi. 85. </div><div n="I">II Fig.: v. To deject, depress.</div>
 <LEND>

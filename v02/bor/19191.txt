@@ -1,6 +1,6 @@
 <L>19191<pc>594<k1>retainer<k2>retainer
-<div n="lb"/>{@RETAINER:@}¦ <div n="I">I Lit.: {#अनुगः#} (= follower); </div><div n="1">(2)
-<div n="lb"/>{#अनुजीविन्#} (m. = dependent); </div><div n="1">(3) {#स्वपक्षः#} (=
-<div n="lb"/>partisan); </div><div n="1">(4) {#भृत्यः#} (= servant). </div><div n="I">II Re-
-<div n="lb"/>-taining fee: {#*रक्षामूल्यम्।#}</div>
+{@RETAINER:@}¦ <div n="I">I Lit.: {#अनुगः#} (= follower); </div><div n="1">(2)
+{#अनुजीविन्#} (m. = dependent); </div><div n="1">(3) {#स्वपक्षः#} (=
+partisan); </div><div n="1">(4) {#भृत्यः#} (= servant). </div><div n="I">II Re-
+-taining fee: {#*रक्षामूल्यम्।#}</div>
 <LEND>

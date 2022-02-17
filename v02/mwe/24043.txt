@@ -1,3 +1,3 @@
 <L>24043<pc>644-b<k1>purchase-money<k2>purchase-money
-<div n="lb"/>PURCHASE-MONEY¦, {%s.%} {#क्रयमूल्यं, क्रयणमूल्यं, मूल्यं, अर्घः#}.
+PURCHASE-MONEY¦, {%s.%} {#क्रयमूल्यं, क्रयणमूल्यं, मूल्यं, अर्घः#}.
 <LEND>

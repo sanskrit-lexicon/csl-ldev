@@ -1,4 +1,4 @@
 <L>49<pc>002<k1>abolition<k2>abolition
-<div n="lb"/>{@ABOLITION:@}¦ <div n="1">(1) {#लोपः;#} </div><div n="1">(2) {#अवलोपः;#} </div><div n="1">(3) {#विलोपः#}
-<div n="lb"/>(?).</div>
+{@ABOLITION:@}¦ <div n="1">(1) {#लोपः;#} </div><div n="1">(2) {#अवलोपः;#} </div><div n="1">(3) {#विलोपः#}
+(?).</div>
 <LEND>

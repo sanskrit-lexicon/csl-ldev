@@ -1,10 +1,10 @@
 <L>17400<pc>532<k1>popular<k2>popular
-<div n="lb"/>{@POPULAR:@}¦ <div n="I">I Pertaining to or prevailing
-<div n="lb"/>among the people: </div><div n="1">(1) by comp., <div n="xe">{%hearing%}
-<div n="lb"/>{%p. rumours:%}</div> <div n="xs">{#लोकवादश्रवणात्,#}</div> R. xiv. 61.; </div><div n="1">(2)
-<div n="lb"/>{#लौकिक#} (f. {#की#}), <div n="xe">{%p. instruction:%}</div> <div n="xs">{#लौकिकी शिक्षा#}</div>:
-<div n="lb"/>v. People. </div><div n="I">II In general favour: </div><div n="1">(1)
-<div n="lb"/>{#लोकप्रिय#} (f. {#या#}); </div><div n="1">(2) {#जनप्रिय#} (f. {#या#}); and
-<div n="lb"/>sim. comp.s. </div><div n="I">III Vulgar, common: q. v.:
-<div n="lb"/>{#साधारण#} (f. {#णी#}).</div>
+{@POPULAR:@}¦ <div n="I">I Pertaining to or prevailing
+among the people: </div><div n="1">(1) by comp., <div n="xe">{%hearing%}
+{%p. rumours:%}</div> <div n="xs">{#लोकवादश्रवणात्,#}</div> R. xiv. 61.; </div><div n="1">(2)
+{#लौकिक#} (f. {#की#}), <div n="xe">{%p. instruction:%}</div> <div n="xs">{#लौकिकी शिक्षा#}</div>:
+v. People. </div><div n="I">II In general favour: </div><div n="1">(1)
+{#लोकप्रिय#} (f. {#या#}); </div><div n="1">(2) {#जनप्रिय#} (f. {#या#}); and
+sim. comp.s. </div><div n="I">III Vulgar, common: q. v.:
+{#साधारण#} (f. {#णी#}).</div>
 <LEND>

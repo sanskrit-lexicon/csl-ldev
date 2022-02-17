@@ -2,7 +2,7 @@
 {#स्फोट#}¦ (von {#स्फुट्#}) 
 <div n="1"> 1) <lex>m.</lex> 
 <div n="2"> a) {%das Platzen, Aufspringen, Bersten%}: {#वेणु°#} 
-<ls>MBH. 3, 443. 4, 759.</ls> {#हृत्स्फोटेन व्ययद्यत#} 
+<ls>MBH. 3, 443.</ls> <ls n="MBH.">4, 759.</ls> {#हृत्स्फोटेन व्ययद्यत#} 
 <ls>KATHĀS. 33, 72. 53, 152. 73, 291. 78, 74. 86, 162.</ls> {#हृत्स्फोटं प्राप#} 
 <ls>70, 72.</ls> {#°स्फोटम्#} absol.: {#हृत्स्फोटं विनष्टा#} 
 <ls>PRAB. 90, 11.</ls> {#लाजस्फोटं स्फुटन्ति मणयः#} 
@@ -16,8 +16,8 @@
 <div n="2">— d) {%Gekrach%}: {#शक्राशनि°#} 
 <ls>MBH. 7, 6153.</ls> {%Geknister%} 
 <ls>VARĀH. BṚH. S. 46, 86.</ls> {%Gebrause%}: {#वायु°#} 
-<ls>?ady. MBH. 3, 1718</ls> (=  {#वायुं जनयन्#} 
-<ls>NĪLAK.</ls>). 
+ady. <ls>MBH. 3, 1718</ls> (= {#वायुं जनयन्#} <ls>NĪLAK.</ls>).
+
 <div n="2">— e) {%das als ein und untheilbar gedachte schöpferische Wort%}: {#जगन्निदानं स्फोटाख्यो निरवयवो नित्यः शब्दो ब्रह्मैव#} 
 <ls>SARVADARŚANAS. 140, 1.</ls> bei <is>Patañjali</is> und Andern {%der unvergängliche und unvernehmliche Bestandtheil der Laute und Wörter, der als der wahre Träger der Bedeutung betrachtet wird%}, 
 <ls>14. fgg.</ls> {#वर्णानां वाचकत्वानुपपतौ यद्बलादर्थप्रतिपत्तिः स स्फोट इति वर्णातिरिक्तो वर्णाभिव्यङ्ग्यो ऽर्थप्रत्यायको नित्यः शब्दः स्फोटः#} 

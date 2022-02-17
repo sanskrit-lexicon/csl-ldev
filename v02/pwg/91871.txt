@@ -17,12 +17,12 @@
 <ls>3, 286.</ls> {#दैवमानुष#} 
 <ls>7, 205.</ls> {#यज्ञदानतपःक्रियाः - विधानोक्ताः#} 
 <ls>BHAG. 17, 24.</ls> {#जातकर्माणि सर्वाणि पुंवद्विधानयुक्तानि#} {%wie sie für ein männliches Individuum festgesetzt sind%} 
-<ls>MBH. 5, 7407. 12, 493. 495. 14, 318.</ls> {#ददर्श भारतं सैन्यं विधानं विश्वकर्मणः#} so v. a. {%nach%} <is>Viśvakarman's</is> {%Vorschrift aufgestellt%} 
+<ls>MBH. 5, 7407.</ls> <ls n="MBH.">12, 493.</ls> <ls n="MBH. 12,">495.</ls> <ls n="MBH.">14, 318.</ls> {#ददर्श भारतं सैन्यं विधानं विश्वकर्मणः#} so v. a. {%nach%} <is>Viśvakarman's</is> {%Vorschrift aufgestellt%} 
 <ls>R. 2, 91, 28.</ls> 
 <ls>KĀM. NĪTIS. 15, 48.</ls> <ls>KATHĀS. 61, 269.</ls> <ls>BHĀG. P. 5, 3, 2.</ls> {#ऋक्पादयोर्विधाने#} {%die für - geltenden Bestimmungen%} 
 <ls>Ind. St. 1, 102.</ls> {#एतद्विधानं विज्ञेयं विभागस्यैकयोनिषु#} 
 <ls>M. 9, 148. <is>Kār</is>.</ls> zu <ls>P. 2, 1, 32.</ls> <ls>KĀM. NĪTIS. 19, 28.</ls> <ls>VARĀH. BṚH. S. 43, 12.</ls> <ls>PAÑCAR. 1, 4, 86.</ls> {#मृत्योः#} so v. a. {%der gesetzmässige Tod%} 
-<ls>MBH. 1, 7639. 7643.</ls> {#सर्वशास्त्रविधानज्ञ#} {%die Bestimmungen aller Lehrbücher%} 
+<ls>MBH. 1, 7639.</ls> <ls n="MBH. 1,">7643.</ls> {#सर्वशास्त्रविधानज्ञ#} {%die Bestimmungen aller Lehrbücher%} 
 <ls>13, 2499.</ls> {#शास्त्रविधानोक्तं कर्म#} 
 <ls>BHAG. 16, 24.</ls> {#आमाय°#} 
 <ls>BHĀG. P. 8, 20, 11.</ls> {#ऋत्विगादि°#} {%die für - geltenden Bestimmungen%} 
@@ -49,14 +49,14 @@
 <ls>VARĀH. BṚH. S. 12, 14.</ls> {#विधानतस्#} {%der Vorschrift gemäss%} 
 <ls>YĀJÑ. 1, 234.</ls> 
 <ls>R. 1, 72, 21. 2, 26, 13.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 56, 29. 5, 72, 6.</ls> 
+
+<ls>R. GORR. 2, 56, 29. 5, 72, 6.</ls> 
 <ls>MĀRK. P. 16, 57. 69, 54.</ls> <ls>WEBER, KṚṢṆAJ. 296.</ls> {#अविधानतस्#} 
 <ls>M. 9, 144. 12, 7.</ls> {#सुविधानतस्#} {%genau nach der Vorschrift%} 
 <ls>KĀM. NĪTIS. 13, 76.</ls> {#वेदस्मृतिविधानतस्#} 
 <ls>M. 6, 89.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 19, 29.</ls> {#विधानैस् = विधानेन, विधानतस्#} 
+
+<ls>R. GORR. 1, 19, 29.</ls> {#विधानैस् = विधानेन, विधानतस्#} 
 <ls>MBH. 14, 291</ls> ({#निवापैस्#} ed. Bomb.). 
 <ls>R. 2, 83, 26.</ls> 
 <div n="2">— b) {%Methode, Verfahren, Recept%} (in der Medicin) 
@@ -64,7 +64,7 @@
 <ls>299, 19.</ls> {%Regime%} (des Essens) 
 <ls>486, 12.</ls> 
 <div n="2">— c) {%Bestimmung, Schicksal%}: {#अर्थानर्थौ सुखं दुःखं विधानमनुवर्तते#} 
-<ls>MBH. 12, 850. 852. 6755.</ls> 
+<ls>MBH. 12, 850.</ls> <ls n="MBH. 12,">852.</ls> <ls n="MBH. 12,">6755.</ls> 
 <ls>Spr. 5186. 5271.</ls> 
 <div n="2">— d) {%das Treffen von Anordnungen, - Verfügungen, Ergreifen von Maassregeln%}: {#स्वयं शाधि यज्ञे विधानम्#} 
 <ls>MBH. 14, 280.</ls> {#°ज्ञ#} 
@@ -91,7 +91,7 @@
 <div n="2">— f) {%das Aufstellen%}: {#हिंस्रयन्त्र°#} 
 <ls>YĀJÑ. 3, 240.</ls> 
 <div n="2">— g) {%das Schöpfen, Bilden%} 
-<ls>RAGH. 6, 11. 7, 14</ls> <ls>?(= KUMĀRAS. 7, 66). Spr. 2858.</ls> 
+<ls>RAGH. 6, 11. 7, 14</ls> (= <ls>KUMĀRAS. 7, 66</ls>). <ls>Spr. 2858.</ls> 
 <div n="2">— h) {%das Veranstalten, Ausführen, Ausrichten%}: {#यदानुमन्यसे कालं यस्मिन्देशे यथा यथा । तथा तथा विधानाय स्वयमाज्ञापयस्व माम् ॥#} 
 <ls>MBH. 1, 5316.</ls> {#महायज्ञ°#} 
 <ls>M. 1, 112.</ls> {#वैवाहिके ऽग्नौ कुर्वीत गृह्यं कर्म यथाविधि । पञ्चयज्ञविधानं च#} 

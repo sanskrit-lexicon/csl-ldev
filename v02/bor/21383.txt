@@ -1,7 +1,7 @@
 <L>21383<pc>674<k1>start<k2>start
-<div n="lb"/>{@START@}¦ (subs.): <div n="I">I Sudden motion: {#चकितम्।#}</div>
-<div n="lb"/><div n="I">II Beginning: q. v.: {#प्रवर्तनम्, -ना।#} </div><div n="I">III A
-<div n="lb"/>setting out: {#प्रस्थानम्।#} Ph.: <div n="xe">{%to get or have the%}
-<div n="lb"/>{%s. of:%}</div> <div n="xs">{#पूर्वं प्रवर्तते#}</div> ({#वृत्,#} c. 1.: with abl.); {%by%}
-<div n="lb"/>{%s. s,%} perh. {#प्लुतैः।#}</div>
+{@START@}¦ (subs.): <div n="I">I Sudden motion: {#चकितम्।#}</div>
+<div n="I">II Beginning: q. v.: {#प्रवर्तनम्, -ना।#} </div><div n="I">III A
+setting out: {#प्रस्थानम्।#} Ph.: <div n="xe">{%to get or have the%}
+{%s. of:%}</div> <div n="xs">{#पूर्वं प्रवर्तते#}</div> ({#वृत्,#} c. 1.: with abl.); {%by%}
+{%s. s,%} perh. {#प्लुतैः।#}</div>
 <LEND>

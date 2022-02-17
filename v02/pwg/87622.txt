@@ -5,13 +5,13 @@
 <div n="2"> a) <lex>f.</lex> mit oder ohne Hinzufügung von {#गो, धेनु#} {%eine Kuh, die zärtlich an ihrem Kalbe hängt%}, 
 <ls>H. 1271.</ls> 
 <ls>HALĀY. 2, 115.</ls> 
-<ls>MBH. 7, 2410. 13, 3132. 3523.</ls> 
+<ls>MBH. 7, 2410.</ls> <ls n="MBH.">13, 3132.</ls> <ls n="MBH. 13,">3523.</ls> 
 <ls>Spr. 4302.</ls> 
 <ls>R. 2, 40, 42. 43, 17. 74, 9 (76, 14 GORR.). 87, 8 (95, 9 GORR.).</ls> <ls>R. GORR. 2, 17, 11. 66, 28. 5, 67, 3.</ls> <ls>BHĀG. P. 3, 33, 21. 4, 18, 9.</ls> 
 <div n="2">— b) {%zärtlich, liebevoll%} 
 <ls>AK. 3, 1, 14.</ls> 
 <ls>H. 478.</ls> 
-<ls>MBH. 13, 6999 <is>Viṣṇu</is></ls> 
+<ls>MBH. 13, 6999</ls> <is>Viṣṇu</is>
 <ls>SUŚR. 1, 371, 16.</ls> 
 <ls>UTTARAR. 36, 3 (48, 1).</ls> <ls>BHĀG. P. 4, 7, 38.</ls> {#अति°#} 
 <ls>KATHĀS. 18, 260.</ls> {#नाति°#} 
@@ -24,7 +24,7 @@
 <ls>BHĀG. P. 4, 30, 28.</ls> im gen.: {#रिपूणामपि#} 
 <ls>R. 2, 21, 6 (18, 8 GORR.).</ls> im acc. mit {#प्रति#} 
 <ls>R. GORR. 2, 19, 13.</ls> im comp. vorangehend: {#सुत°#} 
-<ls>?63, 3. R. SCHL. 2, 24, 16. PAÑCAT. 238, 7.</ls> {#दुहितृ°#} 
+<ls>63, 3.</ls> <ls>R. SCHL. 2, 24, 16.</ls> <ls>PAÑCAT. 238, 7.</ls> {#दुहितृ°#} 
 <ls>KATHĀS. 13, 70.</ls> 
 <ls>BHĀG. P. 3, 14, 12.</ls> {#भृत्य°#} 
 <ls>4, 8, 22.</ls> <ls>R. 2, 52, 53.</ls> {#भ्रातृ°#} 
@@ -48,8 +48,8 @@
 <div n="2">— c) {%von ganzer Seele einer Sache ergeben, ein Freund von%}: {#धर्म°#} 
 <ls>MBH. 3, 2459.</ls> 
 <ls>R. 1, 4, 15. 2, 27, 23. 28, 1. 53, 34. 113, 8.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 21, 4. 4, 3, 7.</ls> 
+
+<ls>R. GORR. 2, 21, 4. 4, 3, 7.</ls> 
 <ls>BHĀG. P. 9, 1, 41.</ls> 
 <ls>PAÑCAT. 222, 14.</ls> {#चारित्र°#} 
 <ls>R. 2, 45, 19.</ls> {#सत्य°#} 

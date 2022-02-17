@@ -1,8 +1,8 @@
 <L>4651<pc>151<k1>control<k2>control
-<div n="lb"/>{@CONTROL@}¦ (subs.): <div n="I">I Restraint: q. v.: {#यन्त्रणा, #}
-<div n="lb"/>{# नि-,।#} </div><div n="I">II Command: {#यन्त्रणा, नि-,#} {%on whom%}
-<div n="lb"/>({%you%}) <div n="xe">{%would exercise c.:%}</div> <div n="xs">{#यस्योपरि#}</div> ({#तव#})
-<div n="lb"/>{#नियन्त्रणा स्यात्,#} K. Ph.: {%your%} ({%duty%}) <div n="xe">{%is to keep%}
-<div n="lb"/>{%me under your c. and mine to obey it.:%}</div> <div n="xs">{#वशित्वं #}
-<div n="lb"/>{# वो वश्यता च मम,#}</div> Vi.</div>
+{@CONTROL@}¦ (subs.): <div n="I">I Restraint: q. v.: {#यन्त्रणा, #}
+{# नि-,।#} </div><div n="I">II Command: {#यन्त्रणा, नि-,#} {%on whom%}
+({%you%}) <div n="xe">{%would exercise c.:%}</div> <div n="xs">{#यस्योपरि#}</div> ({#तव#})
+{#नियन्त्रणा स्यात्,#} K. Ph.: {%your%} ({%duty%}) <div n="xe">{%is to keep%}
+{%me under your c. and mine to obey it.:%}</div> <div n="xs">{#वशित्वं #}
+{# वो वश्यता च मम,#}</div> Vi.</div>
 <LEND>

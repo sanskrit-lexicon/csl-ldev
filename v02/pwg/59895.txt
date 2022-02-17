@@ -33,13 +33,13 @@
 <ls>Spr. 5110.</ls> {#पण्डित°#} (s. auch bes.) 
 <ls>MBH. 1, 1599.</ls> 
 <ls>Spr. 5204.</ls> {#पुरुष°#} 
-<ls>MBH. 3, 367. 5, 6094.</ls> 
+<ls>MBH. 3, 367.</ls> <ls n="MBH.">5, 6094.</ls> 
 <ls>R. 2, 109, 4.</ls> {#प्राज्ञ°#} (s. auch bes.) 
 <ls>R. 2, 70, 10</ls> (f.). {#प्राज्ञं°#} 
 <ls>KATHĀS. 62, 171</ls> wohl fehlerhaft. {#शूर°#} 
-<ls>MBH. 4, 899. 17, 67.</ls> 
+<ls>MBH. 4, 899.</ls> <ls n="MBH.">17, 67.</ls> 
 <ls>Spr. 3517, v. l.</ls> {#सुभग°#} 
-<ls>R. 2, 92, 25</ls> <ls>?(f.). DAŚAK. in BENF. Chr. 195, 12.</ls> {#दीर्घकेशमानिनी#} ad 
+<ls>R. 2, 92, 25</ls> (f.). <ls>DAŚAK.</ls> in <ls>BENF. Chr. 195, 12.</ls> {#दीर्घकेशमानिनी#} ad 
 <ls>P. 6, 3, 40.</ls> {#कठीमानिनी#} ad 
 <ls>41.</ls> {#ब्राह्मणमानिनी#} 
 <ls>VOP. 6, 14.</ls> {%erscheinend, geltend für%}: {#दर्शनीयमानी चैत्रो मैत्रस्य#} 
@@ -49,22 +49,22 @@
 <ls>BHĀG. P. 1, 16, 36.</ls> Vgl. {#मानिता#} 2. 
 <div n="2">— f) = {#मानवन्त्#} 
 <ls>MED. n. 107.</ls> {%eine hohe Meinung von sich habend, hochmüthig, stolz%} 
-<ls>MBH. 2, 1405. 5, 2546. 7. 1816. 13, 6505.</ls> 
+<ls>MBH. 2, 1405.</ls> <ls n="MBH.">5, 2546.</ls> <ls n="MBH. 5,">7.</ls> <ls n="MBH. 5,">1816.</ls> <ls n="MBH.">13, 6505.</ls> 
 <ls>HARIV. 13775.</ls> 
 <ls>R. 1, 6, 10.</ls> {#परवृद्धिमत्सरि मनो हि मानिनाम्#} 
 <ls>ŚIŚ. 15, 1.</ls> 
 <ls>Spr. 2226. 2808.</ls> 
-<ls>KĀM. NĪTIS. 17, 23. 33.</ls> <ls>KATHĀS. 5, 91. 11, 82. 38, 5. 55, 107</ls> <ls>?(f.). 73, 23. MĀRK. P. 123, 22.</ls> {#सदा मानी कुरून्प्रति#} 
-<ls>MBH. 1, 5536. 2, 2456.</ls> {#मानिनो धनतो नराः (पापतो रताः#} ed. Bomb.) {%stolz auf ihren Besitz%} 
+<ls>KĀM. NĪTIS. 17, 23. 33.</ls> <ls>KATHĀS. 5, 91. 11, 82. 38, 5. 55, 107</ls> (<ls>f.). 73, 23.</ls> <ls>MĀRK. P. 123, 22.</ls> {#सदा मानी कुरून्प्रति#} 
+<ls>MBH. 1, 5536.</ls> <ls n="MBH.">2, 2456.</ls> {#मानिनो धनतो नराः (पापतो रताः#} ed. Bomb.) {%stolz auf ihren Besitz%} 
 <ls>13, 6699.</ls> {#अति°#} 
-<ls>R. 3, 24,</ls> <ls>?17.R. ed. Bomb. 3, 33, 16. MĀRK. P. 125, 12.</ls>
+<ls>R. 3, 24,</ls> <ls>17.R. ed. Bomb. 3, 33, 16.</ls> <ls>MĀRK. P. 125, 12.</ls>
 [Page5-0728]
 {#अ°#} {%bescheiden%} 
-<ls>MBH. 13, 6461. 14, 534.</ls> {#मानिन्#} {%auf seine Ehre haltend, stelz%} (in guter Bed.) 
-<ls>Spr. 661. 1630. 1785. 3646</ls> <ls>?(der Löwe). 4348. 5177. 5223. KATHĀS. 54, 141. 65, 94. RĀJA-TAR. 4, 182. 670. 6, 204.</ls> {#मानिनो मानयेः#} 
+<ls>MBH. 13, 6461.</ls> <ls n="MBH.">14, 534.</ls> {#मानिन्#} {%auf seine Ehre haltend, stelz%} (in guter Bed.) 
+<ls>Spr. 661. 1630. 1785. 3646</ls> (<ls>der Löwe). 4348. 5177. 5223.</ls> <ls>KATHĀS. 54, 141. 65, 94.</ls> <ls>RĀJA-TAR. 4, 182. 670. 6, 204.</ls> {#मानिनो मानयेः#} 
 <ls>BHAṬṬ. 19, 24.</ls> {%hoch in Ehren stehend, hochgeachtet%}: {#तेषां मां मानिनीं भार्यां सूतपुत्रः पदावधीत्#} 
 <ls>MBH. 4, 473. fgg.</ls> 
-<ls>VARĀH. BṚH. S. 17, 25. 101, 10</ls> <ls>?(= BṚH. 16, 10). BṚH. 12, 11.</ls> {#रण°#} {%im Kampfe%} 
+<ls>VARĀH. BṚH. S. 17, 25. 101, 10</ls> (= <ls>BṚH. 16, 10</ls>). <ls>BṚH. 12, 11.</ls> {#रण°#} {%im Kampfe%} 
 <ls>MBH. 7, 6832.</ls> {#मानिनी#} 
 <ls>KUMĀRAS. 5, 53.</ls> 
 <ls>RAGH. 13, 38.</ls> 

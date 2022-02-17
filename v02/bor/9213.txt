@@ -1,4 +1,4 @@
 <L>9213<pc>292<k1>foretaste<k2>foretaste
-<div n="lb"/>{@FORETASTE:@}¦ <div n="I">I Subs.: {#पूर्वस्वादः:#} v. Taste. </div><div n="I">II
-<div n="lb"/>Verb: {#पूर्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#प्राक् स्वादयति#}</div> (c. of {#स्वद्#}).</div>
+{@FORETASTE:@}¦ <div n="I">I Subs.: {#पूर्वस्वादः:#} v. Taste. </div><div n="I">II
+Verb: {#पूर्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#प्राक् स्वादयति#}</div> (c. of {#स्वद्#}).</div>
 <LEND>

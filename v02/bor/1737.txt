@@ -1,8 +1,8 @@
 <L>1737<pc>060<k1>beam<k2>beam
-<div n="lb"/>{@BEAM@}¦ (subs.): Of a house: {#तुला,#} Si. iii. 50.
-<div n="lb"/><div n="I">II Of a balance: </div><div n="1">(1) {#तुलादण्डः;#} </div><div n="1">(2) {#तुलाधारः#}.</div>
-<div n="lb"/><div n="I">III Of a loom: </div><div n="1">(1) {#वेमन्#} (n.); </div><div n="1">(2) {#वापदण्डः;#}</div>
-<div n="lb"/><div n="1">(3) {#वायदण्डः।#} </div><div n="I">IV Of a carriage: {#धुर्#} (f.):
-<div n="lb"/>v. Pole. </div><div n="I">V A ray of light: ({#अंशुः;#} </div><div n="1">(2)
-<div n="lb"/>{#किरणः:#} v. Ray.</div>
+{@BEAM@}¦ (subs.): Of a house: {#तुला,#} Si. iii. 50.
+<div n="I">II Of a balance: </div><div n="1">(1) {#तुलादण्डः;#} </div><div n="1">(2) {#तुलाधारः#}.</div>
+<div n="I">III Of a loom: </div><div n="1">(1) {#वेमन्#} (n.); </div><div n="1">(2) {#वापदण्डः;#}</div>
+<div n="1">(3) {#वायदण्डः।#} </div><div n="I">IV Of a carriage: {#धुर्#} (f.):
+v. Pole. </div><div n="I">V A ray of light: ({#अंशुः;#} </div><div n="1">(2)
+{#किरणः:#} v. Ray.</div>
 <LEND>

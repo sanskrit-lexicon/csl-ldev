@@ -1,5 +1,5 @@
 <L>32265<pc>858-b<k1>hero<k2>hero
-<div n="lb"/>HERO¦, {%s.%} {#महारथः, युधिष्ठिरः, भीष्मः;#} ‘drink of hero in battle, to
-<div n="lb"/>elevate courage,’ {#वीरपानं;#} ‘post of danger wished for by
-<div n="lb"/>heroes,’ {#वीराशंसनं#}.
+HERO¦, {%s.%} {#महारथः, युधिष्ठिरः, भीष्मः;#} ‘drink of hero in battle, to
+elevate courage,’ {#वीरपानं;#} ‘post of danger wished for by
+heroes,’ {#वीराशंसनं#}.
 <LEND>

@@ -8,15 +8,15 @@
 <ls>12, 3, 5, 1.</ls> {#सूक्त#} 
 <ls>13, 5, 1, 11.</ls> <ls>KĀTY. ŚR. 8, 1, 5.</ls> {#मेरोः शृङ्गम्#} 
 <ls>MBH. 12, 10212.</ls> {#अस्त्र#} 
-<ls>7, 6954.</ls> <ls>HARIV. 6854. 10617.</ls> {#नियम#} 
-<ls>5658.</ls> 
+<ls>7, 6954.</ls> <ls>HARIV. 6854.</ls> <ls n="HARIV.">10617.</ls> {#नियम#} 
+<ls n="HARIV.">5658.</ls> 
 <div n="2">— b) <is>Sāvitra</is> d. i. <is>Karṇa</is> {%betreffend%}: {#उपाख्यान#} 
 <ls>MBH. 1, 332.</ls> 
 <div n="2">— c) {%durch die%} <is>Sāvitrī</is> d. i. {%den <is>Savitar</is>-Vers bewirkt%}: {#जन्मन्#} 
 <ls>BHĀG. P. 4, 31, 10.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) ein <is>Agni</is>, davon handelt 
-<ls>TBR. 3, 10</ls> <ls>?(z. B. 3, 10, 9, 3. 6. 10. 11, 5).</ls> {#°चिति#} 
+<ls>TBR. 3, 10</ls> (<ls>z. B. 3, 10, 9, 3. 6. 10. 11, 5).</ls> {#°चिति#} 
 <ls>Ind. St. 3, 386. fg.</ls> {#°चयन#} 
 <ls>Notices of Skt. Mss. 2, 236.</ls> 
 <div n="2">— b) sc. {#ग्रह#} 
@@ -27,7 +27,7 @@
 <ls>M. 4, 150</ls>; vgl. 
 <ls>MBH. 13, 5014.</ls> 
 <div n="2">— d) (sc. {#कल्प#}) N. {%des 10ten%} <is>Kalpa</is> 
-<ls>Verz. d. Oxf. H. 51</ls>, {%b%}, 42. 
+<ls>Verz. d. Oxf. H. 51,b,42.</ls> 
 <div n="2">— e) {%ein Brahmane%} (weil er durch die <is>Sāvitrī</is> zum zweiten Mal geboren wird) 
 <ls>H. 813.</ls> 
 <div n="2">— f) = {#गर्भ#} 
@@ -37,21 +37,21 @@
 <ls>Ind. St. 3, 459.</ls> {#भूमिपालाः#} 
 <ls>UTTARAR. 20, 13 (27, 13).</ls> {#चन्द्रकेतु#} 
 <ls>99, 18 (132, 3).</ls> patron. <is>Karṇa's</is> 
-<ls>MBH. 1, 5386. 13, 6253</ls> (vgl. 
+<ls>MBH. 1, 5386.</ls> <ls n="MBH.">13, 6253</ls> (vgl. 
 <ls>12, 8598</ls>). ein N. <is>Śiva's</is> 
 <ls>H. an. 3, 618.</ls> 
 <ls>MED. r. 236.</ls> ein <is>Vasu</is> 
-<ls>MED.</ls> <ls>MBH. 12, 7586. 13, 7094.</ls> <ls>R. 7, 27, 34.</ls> ein <is>Marut</is> 
-<ls>HARIV. 11545. 13174. 13255.</ls> ein <is>Rudra</is> 
-<ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf. H. 190</ls>, {%a%}, 38. — {#कोणे हौताशने च सावित्रः#} 
+<ls>MED.</ls> <ls>MBH. 12, 7586.</ls> <ls n="MBH.">13, 7094.</ls> <ls>R. 7, 27, 34.</ls> ein <is>Marut</is> 
+<ls>HARIV. 11545.</ls> <ls n="HARIV.">13174.</ls> <ls n="HARIV.">13255.</ls> ein <is>Rudra</is> 
+<ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf. H. 190,a,38.</ls> — {#कोणे हौताशने च सावित्रः#} 
 <ls>VARĀH. BṚH. S. 53, 48.</ls> 
 <div n="1"> 3) <lex>f.</lex> {#सावित्री/#} 
 <div n="2"> a) sc. {#ऋच्#} {%ein <is>Savitar</is>-Vers%} (insbes. der bekannte {#तत्सवितुर्वरेण्यम्#} 
 <ls>ṚV. 3, 62, 10</ls>) <ls>TRIK. 2, 7, 12.</ls> <ls>AIT. BR. 1, 16.</ls> <ls>ŚAT. BR. 3, 2, 2, 10. 11, 5, 4, 6.</ls> <ls>ĀŚV. GṚHY. 1, 21, 4. 3, 5, 12.</ls> <ls>KAUŚ. 56.</ls> <ls>GOBH. 3, 3, 2.</ls> <ls>ŚĀṄKH. GṚHY. 2, 5. 9, 11.</ls> <ls>Ind. St. 3, 395</ls> (pl.). 
 <ls>M. 2, 77. 83. 101. 104. 118. 11, 191. 194. 225.</ls> 
 <ls>YĀJÑ. 1, 24. 3, 279.</ls> 
-<ls>MBH. 2, 451. 3, 4025. 5, 3770. 14, 1216. 1217</ls> ({#सावित्रि#} wegen Metrums). 
-<ls>HARIV. 3280. 7022. 9429. 10244. 12435. 14078.</ls> 
+<ls>MBH. 2, 451.</ls> <ls n="MBH.">3, 4025.</ls> <ls n="MBH.">5, 3770.</ls> <ls n="MBH.">14, 1216.</ls> <ls n="MBH. 14,">1217</ls> ({#सावित्रि#} wegen Metrums). 
+<ls>HARIV. 3280.</ls> <ls n="HARIV.">7022.</ls> <ls n="HARIV.">9429.</ls> <ls n="HARIV.">10244.</ls> <ls n="HARIV.">12435.</ls> <ls n="HARIV.">14078.</ls> 
 <ls>KATHĀS. 105, 27</ls> (zweideutig). 
 <ls>29.</ls> <ls>BHĀG. P. 5, 9, 5. 6, 18, 1</ls> (eine Tochter <is>Savitar's</is> von der <is>Pṛśni</is>). 
 <ls>8, 18, 14.</ls> {#°प्रदानकर्मन्#} 
@@ -66,7 +66,7 @@
 <ls>10, 20.</ls> 
 <div n="2">— c) N. einer <is>Upaniṣad</is> 
 <ls>Ind. St. 3, 325.</ls> 
-<div n="2">— d) {%eine Form der%} <is>Gāyatrī</is>: {%4 Mal%} ¯ ¯ ¯ ¯ ¯ ¯  
+<div n="2">— d) {%eine Form der%} <is>Gāyatrī</is>: {%4 Mal%} ¯ ¯ ¯ ¯ ¯ ¯ 
 <ls>Ind. St. 8, 366.</ls> 
 <div n="2">— e) {%Ringfinger%} 
 <ls>H. 593.</ls> 
@@ -74,13 +74,13 @@
 <ls>AV. 6, 82, 2. 14, 2, 30.</ls> 
 <ls>AIT. BR. 4, 7.</ls> <is>Sītā</is> 
 <ls>TBR. 2, 3, 10, 1.</ls> = {#देवताभेद#} 
-<ls>H. an.</ls> <ls>MBH. 1, 6522. 3, 8071. 9994. 16624. fgg. 12, 9449</ls> ({#सा अवित्री#} nach 
-<ls>NĪLAK.</ls><ls>?). HARIV. 7932. Verz. d. Oxf. H. 24</ls>, {%a%}, 29. {#दुःष्वप्ननाशिनी#} 
+<ls>H. an.</ls> <ls>MBH. 1, 6522.</ls> <ls n="MBH.">3, 8071.</ls> <ls n="MBH. 3,">9994.</ls> <ls n="MBH. 3,">16624. fgg.</ls> <ls n="MBH.">12, 9449</ls> ({#सा अवित्री#} nach 
+<ls>NĪLAK.</ls>). <ls>HARIV. 7932.</ls> <ls>Verz. d. Oxf. H. 24.a.29.</ls> {#दुःष्वप्ननाशिनी#} 
 <ls>Ind. St. 3, 244</ls>,a. als Gattin <is>Brahman's</is> 
-<ls>MED.</ls> <ls>MBH. 13, 7635.</ls> <ls>KATHĀS. 47, 47.</ls> <ls>Verz. d. Oxf. H. 18</ls>, {%a%}, 22. fg. 21, {%b%}, 11. 39, {%a%}, 4. 149, {%b%}, 31. als Manifestation der <is>Prakrti</is> 23, {%a%}, 27. als Gattin <is>Śiva's</is> 
+<ls>MED.</ls> <ls>MBH. 13, 7635.</ls> <ls>KATHĀS. 47, 47.</ls> <ls>Verz. d. Oxf. H. 18,a,22.</ls> fg. 21, {%b%}, 11. 39, {%a%}, 4. 149, {%b%}, 31. als Manifestation der <is>Prakrti</is> 23, {%a%}, 27. als Gattin <is>Śiva's</is> 
 <ls>H. ś. 53.</ls> <ls>MED.</ls> 
 <div n="2">— g) N. pr. einer Tochter <is>Aśvapati's</is> und Gattin <is>Satyavant's</is> 
-<ls>MED.</ls> <ls>MBH.3,16619. fgg.</ls> <ls>R.2,30,6.3,3,10.</ls> <ls>Verz. d. Oxf. H. 24,a,32. 42,a,44.</ls> <ls>BHĀG. P.4,2,11.</ls> — {#सावित्री (सावित्रः#} 
+<ls>MED.</ls> <ls>MBH. 3, 16619. fgg.</ls> <ls>R. 2,30,6.3,3,10.</ls> <ls>Verz. d. Oxf. H. 24,a,32. 42,a,44.</ls> <ls>BHĀG. P. 4,2,11.</ls> — {#सावित्री (सावित्रः#} 
 <ls>13, 6253</ls>) {#कुण्डले दिव्ये#} ({#परित्यज्य जगाम लोकमुत्तमम्#}) 
 <ls>MBH. 12, 8598.</ls> eine Tochter <is>Aṣṭāvakra's</is> 
 <ls>KATHĀS. 105, 22. fgg.</ls> Gattin <is>Dharma's</is> 
@@ -95,7 +95,7 @@
 <div n="2"> a) sc. {#हविस्#} 
 <ls>TS. 5, 1, 1, 1.</ls> 
 <ls>TBR. 1, 3, 5, 1.</ls> 
-<ls>ŚAT. BR. 6, 3, 1, 1.</ls> {#शान्तिहोमांश्च कुर्वीत सावित्राणि#} (=  {#मन्त्रविशेषान्#} 
+<ls>ŚAT. BR. 6, 3, 1, 1.</ls> {#शान्तिहोमांश्च कुर्वीत सावित्राणि#} (= {#मन्त्रविशेषान्#} 
 <ls>NĪLAK.</ls>) <ls>MBH. 13, 5014</ls>; vgl. 
 <ls>M. 4, 150.</ls> 
 <div n="2">— b) {%das unter%} <is>Savitar</is> {%stehende%} <is>Nakṣatra</is> <is>Hasta</is> 

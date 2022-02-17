@@ -1,9 +1,9 @@
 <L>14971<pc>457<k1>morning<k2>morning
-<div n="lb"/>{@MORNING@}¦ (subs.): <div n="I">I Lit.: {#प्रभातम्#} <div n="xe">{%or%}</div> <div n="xs">{#विभातम्,#}</div>
-<div n="lb"/><div n="xe">{%tomorrow m.:%}</div> <div n="xs">{#श्वः प्रभाते,#}</div> A.r., {%good m. to you:%}
-<div n="lb"/>{#*सुप्रमातं ते:#} v. Dawn; {%early in the m.:%}
-<div n="lb"/>{#प्रत्यूषे#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्यूषसि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ऊषसि,#}</div> K. <div n="xe">{%or%}</div> <div n="xs">{#अतिकल्यम्,#}</div> <ls>M.</ls> ;
-<div n="lb"/><div n="xe">{%the m. has dawned:%}</div> <div n="xs">{#प्रमाता रजनी,#}</div> Sa.; <div n="xe">{%this%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#अद्य प्रातः,#}</div> <ls>H.</ls> ; <div n="xe">{%from m.:%}</div> <div n="xs">{#प्रातरारभ्य,#}</div> Vi.</div>
-<div n="lb"/><div n="I">II Forenoon: {#पूर्वाह्णः,#} <div n="xe">{%in the m.:%}</div> <div n="xs">{#पूर्वाह्णे,#}</div> M.</div>
+{@MORNING@}¦ (subs.): <div n="I">I Lit.: {#प्रभातम्#} <div n="xe">{%or%}</div> <div n="xs">{#विभातम्,#}</div>
+<div n="xe">{%tomorrow m.:%}</div> <div n="xs">{#श्वः प्रभाते,#}</div> A.r., {%good m. to you:%}
+{#*सुप्रमातं ते:#} v. Dawn; {%early in the m.:%}
+{#प्रत्यूषे#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्यूषसि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ऊषसि,#}</div> K. <div n="xe">{%or%}</div> <div n="xs">{#अतिकल्यम्,#}</div> <ls>M.</ls> ;
+<div n="xe">{%the m. has dawned:%}</div> <div n="xs">{#प्रमाता रजनी,#}</div> Sa.; <div n="xe">{%this%}
+{%m.:%}</div> <div n="xs">{#अद्य प्रातः,#}</div> <ls>H.</ls> ; <div n="xe">{%from m.:%}</div> <div n="xs">{#प्रातरारभ्य,#}</div> Vi.</div>
+<div n="I">II Forenoon: {#पूर्वाह्णः,#} <div n="xe">{%in the m.:%}</div> <div n="xs">{#पूर्वाह्णे,#}</div> M.</div>
 <LEND>

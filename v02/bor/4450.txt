@@ -1,7 +1,7 @@
 <L>4450<pc>144<k1>conjure<k2>conjure
-<div n="lb"/>{@CONJURE@}¦ (v. t.): <div n="I">I To adjure, implore: q. v.</div>
-<div n="lb"/><div n="I">II To enchant: {#मोहयति#} (c. of {#मुह्#}), <div n="xe">{%c. ing%}
-<div n="lb"/>{%the king af Mālava by my c. ing art:%}</div> <div n="xs">{#इन्द्रजाल-#}
-<div n="lb"/>{#विद्यया मालवेन्द्र मोहयन्,#}</div> D. <div n="xe">{%C. up:%}</div> <div n="xs">{#उत्थापयति#}</div> (c.
-<div n="lb"/>of {#स्था#}).</div>
+{@CONJURE@}¦ (v. t.): <div n="I">I To adjure, implore: q. v.</div>
+<div n="I">II To enchant: {#मोहयति#} (c. of {#मुह्#}), <div n="xe">{%c. ing%}
+{%the king af Mālava by my c. ing art:%}</div> <div n="xs">{#इन्द्रजाल-#}
+{#विद्यया मालवेन्द्र मोहयन्,#}</div> D. <div n="xe">{%C. up:%}</div> <div n="xs">{#उत्थापयति#}</div> (c.
+of {#स्था#}).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>8353<pc>264<k1>fairy<k2>fairy
-<div n="lb"/>{@FAIRY:@}¦ <div n="I">I Illusion: {#माया।#} </div><div n="I">II A female
-<div n="lb"/>spirit: </div><div n="1">(1) {#अप्सरस्#} (f.), <div n="xe">{%“f. ring”%}</div> <div n="xs">{#*अप्सरीमण्डलम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#सुरकामिनी।:#} v. Also elf.</div>
+{@FAIRY:@}¦ <div n="I">I Illusion: {#माया।#} </div><div n="I">II A female
+spirit: </div><div n="1">(1) {#अप्सरस्#} (f.), <div n="xe">{%“f. ring”%}</div> <div n="xs">{#*अप्सरीमण्डलम्;#}</div></div>
+<div n="1">(2) {#सुरकामिनी।:#} v. Also elf.</div>
 <LEND>

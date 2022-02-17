@@ -1,7 +1,7 @@
 <L>16792<pc>515<k1>period<k2>period
-<div n="lb"/>{@PERIOD:@}¦ <div n="I">I Time: q. v.: {#समयः।#} Ph.: <div n="xe">{%for a%}
-<div n="lb"/>{%p. of three months:%}</div> <div n="xs">{#मासत्रयम्।#}</div> </div><div n="I">II End: q. v.:
-<div n="lb"/>{#अन्तः।#} </div><div n="I">III A full stop: {#दण्डः#} (the corres-
-<div n="lb"/>-ponding line). </div><div n="I">IV A sentence: {#वाक्योच्चयः,#}
-<div n="lb"/>Sah.</div>
+{@PERIOD:@}¦ <div n="I">I Time: q. v.: {#समयः।#} Ph.: <div n="xe">{%for a%}
+{%p. of three months:%}</div> <div n="xs">{#मासत्रयम्।#}</div> </div><div n="I">II End: q. v.:
+{#अन्तः।#} </div><div n="I">III A full stop: {#दण्डः#} (the corres-
+-ponding line). </div><div n="I">IV A sentence: {#वाक्योच्चयः,#}
+Sah.</div>
 <LEND>

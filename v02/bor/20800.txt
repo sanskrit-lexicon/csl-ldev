@@ -1,6 +1,6 @@
 <L>20800<pc>653<k1>smallness<k2>smallness
-<div n="lb"/>{@SMALLNESS:@}¦ <div n="1">(1) {#क्षुद्रता, -त्वम्,#} <div n="xe">{%from the s. of%}
-<div n="lb"/>{%woman's nature:%}</div> <div n="xs">{#क्षुद्रतया स्त्रीस्वभावस्य,#}</div> K.; </div><div n="1">(2)
-<div n="lb"/>{#अल्पता, -त्वम्,:#} v. Littleness; </div><div n="1">(3) {#नीचता#}
-<div n="lb"/>(= lowness).</div>
+{@SMALLNESS:@}¦ <div n="1">(1) {#क्षुद्रता, -त्वम्,#} <div n="xe">{%from the s. of%}
+{%woman's nature:%}</div> <div n="xs">{#क्षुद्रतया स्त्रीस्वभावस्य,#}</div> K.; </div><div n="1">(2)
+{#अल्पता, -त्वम्,:#} v. Littleness; </div><div n="1">(3) {#नीचता#}
+(= lowness).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>22024<pc>695<k1>swallow<k2>swallow
-<div n="lb"/>{@SWALLOW@}¦ (subs.): <div n="I">I A bird: {#पक्षिविशेषः।#} </div><div n="I">II
-<div n="lb"/>The gullet: {#गलः।#} </div><div n="I">III The act: </div><div n="1">(1) {#ग्रासः;#}</div>
-<div n="lb"/><div n="1">(2) {#गिलनम्।#}</div>
+{@SWALLOW@}¦ (subs.): <div n="I">I A bird: {#पक्षिविशेषः।#} </div><div n="I">II
+The gullet: {#गलः।#} </div><div n="I">III The act: </div><div n="1">(1) {#ग्रासः;#}</div>
+<div n="1">(2) {#गिलनम्।#}</div>
 <LEND>

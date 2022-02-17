@@ -1,12 +1,12 @@
 <L>53334<pc>1150-b<k1>स्पश्<k2>स्पश्<h>1
 {#स्पश्#} 1¦. {%spaś%} (= rt. 1. {%paś,%} q. v.), cl. 1.
-<div n="lb"/>P. A. {%spaśati, -te, paspāśa, paspaśe,%}
-<div n="lb"/>{%spaśiṣyati, -te, aspāśīt, aspaśiṣṭa, spaśitum,%}
-<div n="lb"/>to see, behold, perceive clearly, spy out, espy: Caus.
-<div n="lb"/>{%spāśayati, -te, -yitum,%} Aor. {%apaspaśat,%} to destroy;
-<div n="lb"/>Desid. {%pispaśiṣati, -te:%} Intens. {%pāspaśyate, pā-%}
-<div n="lb"/>{%spaṣṭi;%} [cf. Zend <nsi>śpaś;</nsi> Gr. <lang n="greek">σκέπ-τ-ο-μαι, σκοπ-ή,</lang>
-<div n="lb"/><lang n="greek">σκοπιά, σκοπ-ό-ς, ἐπι-σκοπος, σκώψ;</lang> Lat. <nsi>spec-i-o,</nsi>
-<div n="lb"/><nsi>con-spic-i-o, specula, speculum, spec-to;</nsi> Old
-<div n="lb"/>Germ. <nsi>speh-o-m, spāh-i,</nsi> ‘circumspect, prudent.’]
+P. A. {%spaśati, -te, paspāśa, paspaśe,%}
+{%spaśiṣyati, -te, aspāśīt, aspaśiṣṭa, spaśitum,%}
+to see, behold, perceive clearly, spy out, espy: Caus.
+{%spāśayati, -te, -yitum,%} Aor. {%apaspaśat,%} to destroy;
+Desid. {%pispaśiṣati, -te:%} Intens. {%pāspaśyate, pā-%}
+{%spaṣṭi;%} [cf. Zend <nsi>śpaś;</nsi> Gr. <lang n="greek">σκέπ-τ-ο-μαι, σκοπ-ή,</lang>
+<lang n="greek">σκοπιά, σκοπ-ό-ς, ἐπι-σκοπος, σκώψ;</lang> Lat. <nsi>spec-i-o,</nsi>
+<nsi>con-spic-i-o, specula, speculum, spec-to;</nsi> Old
+Germ. <nsi>speh-o-m, spāh-i,</nsi> ‘circumspect, prudent.’]
 <LEND>

@@ -1,19 +1,19 @@
 <L>14641<pc>448<k1>mind<k2>mind
-<div n="lb"/>{@MIND@}¦ (subs.): <div n="1">(1) {#मनस्#} (n.), <div n="xe">{%m. whose action%}
-<div n="lb"/>{%through the nine passages was prevented:%}</div> <div n="xs">{#मनो #}
-<div n="lb"/>{# नवद्वारनिषिद्धवृत्ति,#}</div> Ku. iii. 50.; <div n="xe">{%as his m. is%}
-<div n="lb"/>{%entirely turned to you:%}</div> <div n="xs">{#एतन्मनो यद्भवदेकवृत्ति,#}</div> N.
-<div n="lb"/>iii. 105.; <div n="xe">{%this person has a m. to ask you some-%}
-<div n="lb"/>{%thing:%}</div> <div n="xs">{#अयं जनः किञ्चिद्भवतीं प्रष्टुमनाः,#}</div> Ku. v.
-<div n="lb"/>40.; <div n="xe">{%say now what is in your m.:%}</div> <div n="xs">{#वदेदान्ॐ #}
-<div n="lb"/>{# यत्ते मनसि वर्तते,#}</div> Mal. ii.; <div n="xe">{%to cross the m.:%}</div> <div n="xs">{#मनसि #}
-<div n="lb"/>{# उदेति,#}</div> N.; <div n="xe">{%to call to m.:%}</div> <div n="xs">{#मनसि करोति;#}</div> <div n="xe">{%out of%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#शून्यमनस्कः#}</div> ({#स्का, स्कं#}); </div><div n="1">(2) {#चित्तम्#} (not
-<div n="lb"/>used in the sense of memory), <div n="xe">{%knowing of%}
-<div n="lb"/>{%one's m.:%}</div> <div n="xs">{#चित्तज्ञानम्,#}</div> D.; <div n="xe">{%by all being of one%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#सर्वैरेकचित्तीभूय,#}</div> <ls>H.</ls> ; </div><div n="1">(3) {#चेतः#} (= 2), <div n="xe">{%my%}
-<div n="lb"/>{%unsteady m. is running behind:%}</div> <div n="xs">{#मम धावति पश्चाद-#}
-<div n="lb"/>{#संस्थितं चेतः,#}</div> Sa.; <div n="xe">{%not little-m.ed:%}</div> <div n="xs">{#अनल्पचेतस्#}</div>
-<div n="lb"/>(mfn.), Ki.; </div><div n="1">(4) {#हृदयम्#} (= heart: q. v.);</div>
-<div n="lb"/><div n="1">(5) {#अन्तःकरणम्#} (lit).</div>
+{@MIND@}¦ (subs.): <div n="1">(1) {#मनस्#} (n.), <div n="xe">{%m. whose action%}
+{%through the nine passages was prevented:%}</div> <div n="xs">{#मनो #}
+{# नवद्वारनिषिद्धवृत्ति,#}</div> Ku. iii. 50.; <div n="xe">{%as his m. is%}
+{%entirely turned to you:%}</div> <div n="xs">{#एतन्मनो यद्भवदेकवृत्ति,#}</div> N.
+iii. 105.; <div n="xe">{%this person has a m. to ask you some-%}
+{%thing:%}</div> <div n="xs">{#अयं जनः किञ्चिद्भवतीं प्रष्टुमनाः,#}</div> Ku. v.
+40.; <div n="xe">{%say now what is in your m.:%}</div> <div n="xs">{#वदेदान्ॐ #}
+{# यत्ते मनसि वर्तते,#}</div> Mal. ii.; <div n="xe">{%to cross the m.:%}</div> <div n="xs">{#मनसि #}
+{# उदेति,#}</div> N.; <div n="xe">{%to call to m.:%}</div> <div n="xs">{#मनसि करोति;#}</div> <div n="xe">{%out of%}
+{%m.:%}</div> <div n="xs">{#शून्यमनस्कः#}</div> ({#स्का, स्कं#}); </div><div n="1">(2) {#चित्तम्#} (not
+used in the sense of memory), <div n="xe">{%knowing of%}
+{%one's m.:%}</div> <div n="xs">{#चित्तज्ञानम्,#}</div> D.; <div n="xe">{%by all being of one%}
+{%m.:%}</div> <div n="xs">{#सर्वैरेकचित्तीभूय,#}</div> <ls>H.</ls> ; </div><div n="1">(3) {#चेतः#} (= 2), <div n="xe">{%my%}
+{%unsteady m. is running behind:%}</div> <div n="xs">{#मम धावति पश्चाद-#}
+{#संस्थितं चेतः,#}</div> Sa.; <div n="xe">{%not little-m.ed:%}</div> <div n="xs">{#अनल्पचेतस्#}</div>
+(mfn.), Ki.; </div><div n="1">(4) {#हृदयम्#} (= heart: q. v.);</div>
+<div n="1">(5) {#अन्तःकरणम्#} (lit).</div>
 <LEND>

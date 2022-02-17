@@ -1,6 +1,6 @@
 <L>622<pc>023<k1>aloud<k2>aloud
-<div n="lb"/>{@ALOUD:@}¦ <div n="1">(1) {#उच्चैः#} <div n="xe">{%or%}</div> <div n="xs">{#उच्चैःस्वरेण#}</div> (with a loud
-<div n="lb"/>voice); </div><div n="1">(2) {#मुक्तकण्ठम्#} (with loosened
-<div n="lb"/>throat); </div><div n="1">(3) {#प्रकाशम्#} (openly). {%To call a.:%}
-<div n="lb"/>{#शब्दायते#} (nomi.).</div>
+{@ALOUD:@}¦ <div n="1">(1) {#उच्चैः#} <div n="xe">{%or%}</div> <div n="xs">{#उच्चैःस्वरेण#}</div> (with a loud
+voice); </div><div n="1">(2) {#मुक्तकण्ठम्#} (with loosened
+throat); </div><div n="1">(3) {#प्रकाशम्#} (openly). {%To call a.:%}
+{#शब्दायते#} (nomi.).</div>
 <LEND>

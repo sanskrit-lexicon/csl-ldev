@@ -19,10 +19,10 @@
 <ls>H. 225.</ls> 
 <ls>M. 8, 315. 11, 110.</ls> 
 <ls>YĀJÑ. 3, 257.</ls> 
-<ls>MBH. 3, 12093. 12201.</ls> 
-<ls>HARIV. 5115</ls> <ls>?(m.). R. GORR. 1, 41, 21. VARĀH. BṚH. S. 19, 3. 69, 17. VP. 607. BHĀG. P. 4, 10, 25 (m.). MĀRK. P. 116, 18 (n.).</ls> {#काल°#} 
+<ls>MBH. 3, 12093.</ls> <ls n="MBH. 3,">12201.</ls> 
+<ls>HARIV. 5115</ls> (<ls>m.).</ls> <ls>R. GORR. 1, 41, 21.</ls> <ls>VARĀH. BṚH. S. 19, 3. 69, 17.</ls> <ls>VP. 607.</ls> <ls>BHĀG. P. 4, 10, 25 (m.).</ls> <ls>MĀRK. P. 116, 18 (n.).</ls> {#काल°#} 
 <ls>R. GORR. 1, 30, 13.</ls> {#कङ्काल°#} 
-<ls>R.</ls> <ls>SCHL. 1, 29, 13. 56, 11</ls> {#(कङ्काल, मुसल#} ed. Bomb. an beiden Stellen). {#दन्तमुषलप्रहारैः (महागजस्य)#} 
+<ls>R. SCHL. 1, 29, 13. 56, 11</ls> {#(कङ्काल, मुसल#} ed. Bomb. an beiden Stellen). {#दन्तमुषलप्रहारैः (महागजस्य)#} 
 <ls>PAÑCAT. 69, 1.</ls> {#चक्रमुषलो नाम संग्रामः#} {%mit Diskus und Keule ausgeführt%} 
 <ls>HARIV. 5346.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>HARIV. 15827.</ls> 
@@ -40,7 +40,7 @@
 <ls>MED.</ls> <ls>VIŚVA a. a. O.</ls> {%Salvinia cucullata Roxb.%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA.</ls> 
 <div n="2">— b) {%Hauseidechse%} 
-<ls>AK. 2, 5,12.</ls>  
+<ls>AK. 2, 5,12.</ls> 
 <ls>H. 1297.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 

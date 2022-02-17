@@ -1,7 +1,7 @@
 <L>20413<pc>638<k1>shoot<k2>shoot
-<div n="lb"/>{@SHOOT@}¦ (v. t.): <div n="I">I To discharge: q. v.: {#मुञ्चति#}
-<div n="lb"/>({#मुच्,#} c. 6.): v. Also to send, throw. </div><div n="I">II
-<div n="lb"/>To wound or kill by s.ing: {#आग्नेयास्त्रेण#} (with
-<div n="lb"/>fire-arm) <div n="xe">{%or%}</div> <div n="xs">{#शरेण#}</div> (with arrow) {#हन्ति, नि-, #}
-<div n="lb"/>{# अभि-,#} ({#हन्,#} c. 2.): v. To kill, wound.</div>
+{@SHOOT@}¦ (v. t.): <div n="I">I To discharge: q. v.: {#मुञ्चति#}
+({#मुच्,#} c. 6.): v. Also to send, throw. </div><div n="I">II
+To wound or kill by s.ing: {#आग्नेयास्त्रेण#} (with
+fire-arm) <div n="xe">{%or%}</div> <div n="xs">{#शरेण#}</div> (with arrow) {#हन्ति, नि-, #}
+{# अभि-,#} ({#हन्,#} c. 2.): v. To kill, wound.</div>
 <LEND>

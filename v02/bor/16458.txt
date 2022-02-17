@@ -1,28 +1,28 @@
 <L>16458<pc>504<k1>part<k2>part
-<div n="lb"/>{@PART@}¦ (subs.): <div n="I">I Portion: </div><div n="1">(1) {#भागः,#} <div n="xe">{%in the%}
-<div n="lb"/>{%first p. of the day:%}</div> <div n="xs">{#दिवसस्याद्यभागे,#}</div> Dak.; </div><div n="1">(2)
-<div n="lb"/>{#अंशः,#} <div n="xe">{%eighth p.:%}</div> <div n="xs">{#अष्टमांश,#}</div> Viv.; </div><div n="1">(3) {#कला#} (of
-<div n="lb"/>a whole), <div n="xe">{%even the 100th p.:%}</div> <div n="xs">{#शततमीमपि कलाम्,#}</div>
-<div n="lb"/>D. ii.; </div><div n="1">(4) {#लवः#} (rare), <div n="xe">{%fifth p.:%}</div> <div n="xs">{#पञ्चलवः,#}</div> Li.
-<div n="lb"/>Ph.: <div n="xe">{%to divide into four, five p. s:%}</div> <div n="xs">{#चतुर्धा पञ्चधा #}
-<div n="lb"/>{# करोति,#}</div> S. k. </div><div n="I">II Of a book: {#अंशः,#} V. p.;
-<div n="lb"/>{#भागः।#} </div><div n="I">III Region: q. v.: {#प्रदेशः,#} <div n="xe">{%in this p. of%}
-<div n="lb"/>{%the country:%}</div> <div n="xs">{#अस्मिन् प्रदेशे,#}</div> <ls>K.</ls> </div><div n="I">IV. In gram.: p.
-<div n="lb"/>of speech: no equiv.: {#शब्दभेदः#} may be
-<div n="lb"/>used. </div><div n="I">V. Side, party: q. v. </div><div n="I">VI share:
-<div n="lb"/>q. v.: {#अंशः।#} </div><div n="I">VII Allotted duty: {#कर्मन्#} (n.),
-<div n="lb"/><div n="xe">{%will not do his p.:%}</div> <div n="xs">{#कर्म न करिष्यति,#}</div> Si. xiv. 16.
-<div n="lb"/>Ph.: {%it is the p. of:%} v. Should. </div><div n="I">VIII Con-
-<div n="lb"/>-cern, interest: {#सङ्गः।#} </div><div n="I">IX Character: {#भूमिका,#}
-<div n="lb"/><div n="xe">{%while acting the p. of Lakṣmī:%}</div> <div n="xs">{#लक्ष्मीभूमिकायां #}
-<div n="lb"/>{# वर्तमाना,#}</div> V. iii.; <div n="xe">{%you have got up the first p. of%}
-<div n="lb"/>{%Kāmandakī:%}</div> <div n="xs">{#कामन्दक्याः प्रथमभूमिकां भाव एवाधीते,#}</div>
-<div n="lb"/>Ma. i. </div><div n="I">X. In pl., p. s = qualities: {#शक्तिः।#} </div><div n="I">XI
-<div n="lb"/>A member, an element: q. v.: {#अङ्गम्।#} Ph.:
-<div n="lb"/>(a) <div n="xe">{%for my p.:%}</div> <div n="xs">{#अहं तावत्;#}</div> (b) {%for the most p.:%}
-<div n="lb"/>{#प्रायशः;#} (c) <div n="xe">{%in good p.:%}</div> <div n="xs">{#सानुरागम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रीतमनसा;#}</div>
-<div n="lb"/>(d) <div n="xe">{%in ill p.:%}</div> <div n="xs">{#विरक्त#}</div> (f. {#क्ता#}); (e) {%in p.:%}
-<div n="lb"/>{#अंशतः;#} (f) <div n="xe">{%p. and parcel:%}</div> <div n="xs">{#प्रधानाङ्गम्;#}</div> (g) {%on%}
-<div n="lb"/>{%the p. of:%} v. For; (h) <div n="xe">{%from all p. s:%}</div> <div n="xs">{#चतु-#}
-<div n="lb"/>{#र्दिग्भ्यः।#}</div></div>
+{@PART@}¦ (subs.): <div n="I">I Portion: </div><div n="1">(1) {#भागः,#} <div n="xe">{%in the%}
+{%first p. of the day:%}</div> <div n="xs">{#दिवसस्याद्यभागे,#}</div> Dak.; </div><div n="1">(2)
+{#अंशः,#} <div n="xe">{%eighth p.:%}</div> <div n="xs">{#अष्टमांश,#}</div> Viv.; </div><div n="1">(3) {#कला#} (of
+a whole), <div n="xe">{%even the 100th p.:%}</div> <div n="xs">{#शततमीमपि कलाम्,#}</div>
+D. ii.; </div><div n="1">(4) {#लवः#} (rare), <div n="xe">{%fifth p.:%}</div> <div n="xs">{#पञ्चलवः,#}</div> Li.
+Ph.: <div n="xe">{%to divide into four, five p. s:%}</div> <div n="xs">{#चतुर्धा पञ्चधा #}
+{# करोति,#}</div> S. k. </div><div n="I">II Of a book: {#अंशः,#} V. p.;
+{#भागः।#} </div><div n="I">III Region: q. v.: {#प्रदेशः,#} <div n="xe">{%in this p. of%}
+{%the country:%}</div> <div n="xs">{#अस्मिन् प्रदेशे,#}</div> <ls>K.</ls> </div><div n="I">IV. In gram.: p.
+of speech: no equiv.: {#शब्दभेदः#} may be
+used. </div><div n="I">V. Side, party: q. v. </div><div n="I">VI share:
+q. v.: {#अंशः।#} </div><div n="I">VII Allotted duty: {#कर्मन्#} (n.),
+<div n="xe">{%will not do his p.:%}</div> <div n="xs">{#कर्म न करिष्यति,#}</div> Si. xiv. 16.
+Ph.: {%it is the p. of:%} v. Should. </div><div n="I">VIII Con-
+-cern, interest: {#सङ्गः।#} </div><div n="I">IX Character: {#भूमिका,#}
+<div n="xe">{%while acting the p. of Lakṣmī:%}</div> <div n="xs">{#लक्ष्मीभूमिकायां #}
+{# वर्तमाना,#}</div> V. iii.; <div n="xe">{%you have got up the first p. of%}
+{%Kāmandakī:%}</div> <div n="xs">{#कामन्दक्याः प्रथमभूमिकां भाव एवाधीते,#}</div>
+Ma. i. </div><div n="I">X. In pl., p. s = qualities: {#शक्तिः।#} </div><div n="I">XI
+A member, an element: q. v.: {#अङ्गम्।#} Ph.:
+(a) <div n="xe">{%for my p.:%}</div> <div n="xs">{#अहं तावत्;#}</div> (b) {%for the most p.:%}
+{#प्रायशः;#} (c) <div n="xe">{%in good p.:%}</div> <div n="xs">{#सानुरागम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रीतमनसा;#}</div>
+(d) <div n="xe">{%in ill p.:%}</div> <div n="xs">{#विरक्त#}</div> (f. {#क्ता#}); (e) {%in p.:%}
+{#अंशतः;#} (f) <div n="xe">{%p. and parcel:%}</div> <div n="xs">{#प्रधानाङ्गम्;#}</div> (g) {%on%}
+{%the p. of:%} v. For; (h) <div n="xe">{%from all p. s:%}</div> <div n="xs">{#चतु-#}
+{#र्दिग्भ्यः।#}</div></div>
 <LEND>

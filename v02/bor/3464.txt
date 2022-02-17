@@ -1,7 +1,7 @@
 <L>3464<pc>115<k1>charity<k2>charity
-<div n="lb"/>{@CHARITY:@}¦ <div n="I">I Love: {#भूतानुकम्पा,#} <ls>R.</ls> </div><div n="I">II. Libera-
-<div n="lb"/>-lity: q. v.: {#वदान्यता।#} {%An act of c.:%} </div><div n="1">(1) {#पूर्तम्#}
-<div n="lb"/>(of public c.); </div><div n="1">(2) {#दत्तम्#} (of private c.), <div n="xe">{%by%}
-<div n="lb"/>{%acts of c.%}</div> <div n="xs">{#पूर्तदत्तसाघनैः,#}</div> <ls>S.</ls> </div><div n="I">III. The disposition
-<div n="lb"/>to form kindly judgment: {#औदार्यम्।#}</div>
+{@CHARITY:@}¦ <div n="I">I Love: {#भूतानुकम्पा,#} <ls>R.</ls> </div><div n="I">II. Libera-
+-lity: q. v.: {#वदान्यता।#} {%An act of c.:%} </div><div n="1">(1) {#पूर्तम्#}
+(of public c.); </div><div n="1">(2) {#दत्तम्#} (of private c.), <div n="xe">{%by%}
+{%acts of c.%}</div> <div n="xs">{#पूर्तदत्तसाघनैः,#}</div> <ls>S.</ls> </div><div n="I">III. The disposition
+to form kindly judgment: {#औदार्यम्।#}</div>
 <LEND>

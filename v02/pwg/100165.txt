@@ -27,9 +27,9 @@
 <ls>KĀṬH. 11, 3.</ls> Kleid, Zeug 
 <ls>LĀṬY. 8, 6, 13.</ls> 
 <ls>M. 4, 35. 9, 70.</ls> 
-<ls>MBH. 1, 723. 5330.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 100, 61.</ls> 
+<ls>MBH. 1, 723.</ls> <ls n="MBH. 1,">5330.</ls> 
+
+<ls>R. GORR. 2, 100, 61.</ls> 
 <ls>Spr. 2702.</ls> 
 <ls>SUŚR. 1, 106, 17.</ls> 
 <ls>KATHĀS. 4, 9.</ls> <ls>Verz. d. Oxf. H. 223, No. 543.</ls> <ls>BHĀG. P. 6, 19, 3.</ls> {#°ध्वजपताकिन्#} <is>Śiva</is> 
@@ -48,7 +48,7 @@
 <ls>MBH. 12, 10359.</ls> {#यजूंषि#} 
 <ls>ŚAT. BR. 14, 9, 4, 33.</ls> {#याजुषाम्नाय#} 
 <ls>Ind. St. 10, 436.</ls> neun {%weisse%} <is>Bala</is> bei den <is>Jaina</is> 
-<ls>H. 697. -</ls> <ls>R. 2, 91, 68.</ls> <ls>VARĀH. BṚH. S. 3, 23. 11, 8. 20. 28. 30, 11. 33, 14.</ls> <ls>H. 49.</ls> 
+<ls>H. 697.</ls> - <ls>R. 2, 91, 68.</ls> <ls>VARĀH. BṚH. S. 3, 23. 11, 8. 20. 28. 30, 11. 33, 14.</ls> <ls>H. 49.</ls> 
 <div n="2">— c) {%rein, lauter%}: {#°देह#} 
 <ls>MBH. 3, 13449.</ls> {#तनू#} 
 <ls>BHĀG. P. 5, 3, 20.</ls> {#शुक्लाभिजातीय#} 
@@ -71,7 +71,7 @@
 <ls>M. 4, 96. 6, 20. 11, 216.</ls> 
 <ls>YĀJÑ.3, 193. 324.</ls> 
 <ls>BHAG. 8, 24.</ls> 
-<ls>MBH. 1, 1292. 3244. 3, 5068. 14401. 16638.</ls> 
+<ls>MBH. 1, 1292.</ls> <ls n="MBH. 1,">3244.</ls> <ls n="MBH.">3, 5068.</ls> <ls n="MBH. 3,">14401.</ls> <ls n="MBH. 3,">16638.</ls> 
 <ls>HARIV. 7882.</ls> 
 <ls>SŪRYAS. 10, 4. 9.</ls> 
 <ls>VARĀH. BṚH. S. 21, 5. 9. 25, 1.</ls> 

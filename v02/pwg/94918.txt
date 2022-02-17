@@ -16,7 +16,7 @@
 <ls>ŚAT. BR. 10, 2, 3, 6. 7, 4, 1, 45. 13, 4, 1, 15.</ls> {#आ विंशतेर्वृद्धिः#} {%bis zum 20sten Jahre wächst man%} 
 <ls>SUŚR. 1, 129, 5.</ls> {#जन्मवृद्धिक्षयैः#} 
 <ls>M. 12, 124.</ls> {#वृद्धिर्हि परमा प्राप्ता#} 
-<ls>MBH.3, 12765.</ls>
+<ls>MBH. 3, 12765.</ls>
 [Page6-1330]
 {#शुभैः शरीरावयवैर्दिने दिने पुपोष वृद्धिम्#} 
 <ls>RAGH. 3, 22.</ls> {#जगाम वृद्धिम्#} 
@@ -28,7 +28,7 @@
 <ls>AK. 2, 6, 2, 50.</ls> {#सस्यस्य, सस्य°#} 
 <ls>VARĀH. BṚH. S. 4, 16. 8, 36. 50. 22, 5. 46, 91.</ls> {#फलपुष्प°#} 
 <ls>RAGH. 2, 14.</ls> {#चन्द्रवृद्धिक्षयवशात्#} {%das Wachsen und Abnehmen des Mondes%} 
-<ls>MBH.1,1215.9,2735.</ls> <ls>R.5,3,3.</ls> <ls>RAGH.5,16.</ls> <ls>KUMĀRAS.7,1.</ls> <ls>Verz. d. Oxf. H. 48,b,15.</ls> {%das Wachsen, Anschwellen%} (des Meeres, der Flüsse, des Wassers) 
+<ls>MBH. 1, 1215.</ls> <ls n="MBH.">9, 2735.</ls> <ls>R. 5,3,3.</ls> <ls>RAGH. 5,16.</ls> <ls>KUMĀRAS. 7,1.</ls> <ls>Verz. d. Oxf. H. 48,b,15.</ls> {%das Wachsen, Anschwellen%} (des Meeres, der Flüsse, des Wassers) 
 <ls>MBH. 9, 2735.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 136.</ls> <ls>R. 1, 36, 12.</ls> <ls>VARĀH. BṚH. S. 46, 89.</ls> <ls>WILSON, SĀṂKHYAK. S. 23.</ls> {#वेला वृद्धिश्च वारिणः#} 
 <ls>HALĀY. 3, 32. 46.</ls> 
 <ls>H. 1076. 1087.</ls> {#अम्बुवाहस्य#} (zugleich {%Gedeihen, Emporsteigen%} einer Person) 
@@ -42,7 +42,7 @@
 <ls>Spr. (II) 631.</ls> {#क्षयः स्थानं च वृद्धिश्च त्रिवर्गः#} 
 <ls>AK. 2, 8, 1, 19.</ls> {#देवद्रव्येण या वृद्धिः#} {%Bereicherung%} 
 <ls>Spr. (II) 2941.</ls> {%Gewinn%} 
-<ls>(I) 1474.</ls> {#लब्धवृद्धि#} ({#दवाग्नि#}) {%verstärkt, vermehrt%} 
+(<ls>I) 1474.</ls> {#लब्धवृद्धि#} ({#दवाग्नि#}) {%verstärkt, vermehrt%} 
 <ls>ṚT. 1, 25.</ls> 
 <ls>VARĀH. BṚH. S. 104, 55.</ls> {#तद्युष्माकं पक्षः पुनरप्येवं क्रमाद्गतो वृद्धिम्#} 
 <ls>KATHĀS. 45, 385.</ls> {#धातूनां क्षयवृद्धी#} 
@@ -76,12 +76,12 @@
 <ls>YĀJÑ. 1, 217. 249.</ls> 
 <ls>MBH. 3, 16880.</ls> 
 <ls>R. 2, 34, 31.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 75, 6. 2, 6, 19</ls> (Gegens. {#दुःख)#}.{# विपुला#} 
+
+<ls>R. GORR. 1, 75, 6. 2, 6, 19</ls> (Gegens. {#दुःख)#}.{# विपुला#} 
 <ls>3, 4, 18.</ls> {#त्वत्परिग्रहो ऽपि मे वृद्धिहेतुः#} 
 <ls>MĀLAV. 22, 13.</ls> {#परवृद्धिमत्सरि मनो हि मानिनाम्#} 
 <ls>ŚIŚ. 15, 1.</ls> {#आपत्काले, वृद्धिकाले#} 
-<ls>Spr. (II) 952. (I) 2012. 2682. 3222</ls> (Gegens. {#व्यसन)#} . 
+<ls>Spr. (II) 952.</ls> <ls n="Spr.">(I) 2012. 2682. 3222</ls> (Gegens. {#व्यसन)#} . 
 <ls>VARĀH. BṚH. S. 4, 32. 10, 16. 13, 7. 19, 10. 33, 15.</ls> {#धर्मस्य देशस्य च#} 
 <ls>18, 4.</ls> {#गृह°#} 
 <ls>53, 116.</ls> personificirt ({#श्री°#}) als {#बोधिवृक्षदेवता#} 
@@ -122,7 +122,7 @@
 <ls>ĀŚV. GṚHY. 2, 5, 13.</ls> 
 <ls>GOBH. 4, 3, 34.</ls> 
 <div n="2">— g) N. des 
-<ls>11ten</ls> astr. <is>Yoga</is> ({#विष्कम्भादि#} 
+11ten astr. <is>Yoga</is> ({#विष्कम्भादि#} 
 <ls>ŚKDR.</ls>) <ls>MED.</ls> <ls>KOṢṬHĪPR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Dichters 
 <ls>Verz. d. Oxf. H. 124,b,46.</ls> 

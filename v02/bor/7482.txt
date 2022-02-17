@@ -1,5 +1,5 @@
 <L>7482<pc>236<k1>emphatic<k2>emphatic
-<div n="lb"/>{@EMPHATIC:@}¦ <div n="1">(1) {#दृढः#} ({#ढा, ढं#}) (= firm); </div><div n="1">(2)
-<div n="lb"/>{#निश्चितः#} ({#ता, तं#}) (= certain); </div><div n="1">(3) {#सबलः#} ({#ला, #}
-<div n="lb"/>{# लं#}) (= forcible).</div>
+{@EMPHATIC:@}¦ <div n="1">(1) {#दृढः#} ({#ढा, ढं#}) (= firm); </div><div n="1">(2)
+{#निश्चितः#} ({#ता, तं#}) (= certain); </div><div n="1">(3) {#सबलः#} ({#ला, #}
+{# लं#}) (= forcible).</div>
 <LEND>

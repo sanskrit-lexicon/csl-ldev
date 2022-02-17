@@ -1,5 +1,5 @@
 <L>11316<pc>355<k1>humble-bee<k2>humble-bee
-<div n="lb"/>{@HUMBLE-BEE:@}¦ <div n="1">(1) {#भ्रमरः,#} <div n="xe">{%honey of h. s.:%}</div> <div n="xs">{#भ्रामरं भधु;#}</div></div>
-<div n="lb"/><div n="1">(2) {#भृङ्गः;#} </div><div n="1">(3) {#अलिः;#} </div><div n="1">(4) {#द्विरेफः;#} </div><div n="1">(5) {#शिलीमुखः#}
-<div n="lb"/>(rare).</div>
+{@HUMBLE-BEE:@}¦ <div n="1">(1) {#भ्रमरः,#} <div n="xe">{%honey of h. s.:%}</div> <div n="xs">{#भ्रामरं भधु;#}</div></div>
+<div n="1">(2) {#भृङ्गः;#} </div><div n="1">(3) {#अलिः;#} </div><div n="1">(4) {#द्विरेफः;#} </div><div n="1">(5) {#शिलीमुखः#}
+(rare).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>9732<pc>307<k1>gauntlet<k2>gauntlet
-<div n="lb"/>{@GAUNTLET:@}¦ {#हस्तत्राणम्; गोधा#} (?), Mah. Ph.: <div n="xe">{%to%}
-<div n="lb"/>{%throw down, take up the g.:%}</div> <div n="xs">{#युद्धाय आह्वानं करोति, #}
-<div n="lb"/>{# परिगृह्णाति#}</div> (?).
+{@GAUNTLET:@}¦ {#हस्तत्राणम्; गोधा#} (?), Mah. Ph.: <div n="xe">{%to%}
+{%throw down, take up the g.:%}</div> <div n="xs">{#युद्धाय आह्वानं करोति, #}
+{# परिगृह्णाति#}</div> (?).
 <LEND>

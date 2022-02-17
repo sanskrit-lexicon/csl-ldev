@@ -1,11 +1,11 @@
 <L>3309<pc>071-a<k1>business<k2>business
-<div n="lb"/>BUSINESS¦, {%s.%} (Affair) {#कर्म्म#} {%n.%} {#(न्), कार्य्यं, अर्थः#}. — (Employment) {#व्यापारः,#}
-<div n="lb"/>{#व्यवसायः, व्यवहारः, कार्य्योद्योगः, नियोगः, प्रवृत्तिः#} {%f.,%} {#प्रवर्त्तनं, चरितं,#}
-<div n="lb"/>{#सम्बन्धः#}. — (Something to be done) {#कृत्यं, कर्त्तव्यं, कार्य्यं#}. — 
-<div n="lb"/>(Object) {#विषयः, अर्थः, प्रयोजनं#}. — (A point, case) {#अर्थः, पदं#}. — 
-<div n="lb"/>(Means of livelihood, profession) {#वृत्तिः#} {%f.,%} {#वर्त्तनं, जीविका,#}
-<div n="lb"/>{#आजीवनार्थं#}. — (Point, matter of discussion) {#स्थलं;#} ‘a man
-<div n="lb"/>of business, one who knows the proper ways of acting,’
-<div n="lb"/>{#क्रियाविधिज्ञः, कार्य्ये कुशलः, दृष्टकर्म्मा#} {%m.%} ({#न्#}); ‘what business
-<div n="lb"/>have I with that?’ {#कोऽर्थो मे तेन#}.
+BUSINESS¦, {%s.%} (Affair) {#कर्म्म#} {%n.%} {#(न्), कार्य्यं, अर्थः#}. — (Employment) {#व्यापारः,#}
+{#व्यवसायः, व्यवहारः, कार्य्योद्योगः, नियोगः, प्रवृत्तिः#} {%f.,%} {#प्रवर्त्तनं, चरितं,#}
+{#सम्बन्धः#}. — (Something to be done) {#कृत्यं, कर्त्तव्यं, कार्य्यं#}. — 
+(Object) {#विषयः, अर्थः, प्रयोजनं#}. — (A point, case) {#अर्थः, पदं#}. — 
+(Means of livelihood, profession) {#वृत्तिः#} {%f.,%} {#वर्त्तनं, जीविका,#}
+{#आजीवनार्थं#}. — (Point, matter of discussion) {#स्थलं;#} ‘a man
+of business, one who knows the proper ways of acting,’
+{#क्रियाविधिज्ञः, कार्य्ये कुशलः, दृष्टकर्म्मा#} {%m.%} ({#न्#}); ‘what business
+have I with that?’ {#कोऽर्थो मे तेन#}.
 <LEND>

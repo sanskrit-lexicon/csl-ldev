@@ -1,5 +1,5 @@
 <L>4083<pc>132<k1>come up<k2>come up
-<div n="lb"/>{@COME UP:@}¦ <div n="I">I Lit.: {#आपतति, प्रा-, सन्नि-,#} ({#पत्,#} c. l),
-<div n="lb"/><div n="xe">{%saw Keyuraka c. -ing up:%}</div> <div n="xs">{#आपतन्तं केयूरकमद्राक्षीत्,#}</div>
-<div n="lb"/>K. </div><div n="I">II To spring, come out: q. v.: {#निर्गच्छति।#}</div>
+{@COME UP:@}¦ <div n="I">I Lit.: {#आपतति, प्रा-, सन्नि-,#} ({#पत्,#} c. l),
+<div n="xe">{%saw Keyuraka c. -ing up:%}</div> <div n="xs">{#आपतन्तं केयूरकमद्राक्षीत्,#}</div>
+K. </div><div n="I">II To spring, come out: q. v.: {#निर्गच्छति।#}</div>
 <LEND>

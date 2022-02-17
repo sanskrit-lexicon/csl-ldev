@@ -1,4 +1,4 @@
 <L>1109<pc>039<k1>arrival<k2>arrival
-<div n="lb"/>{@ARRIVAL:@}¦ <div n="1">(1) {#आगमनम्;#} </div><div n="1">(2) {#आगमः;#} </div><div n="1">(3) {#उपया-#}
-<div n="lb"/>{#नम्#} (rare), Ku. vii. 22.</div>
+{@ARRIVAL:@}¦ <div n="1">(1) {#आगमनम्;#} </div><div n="1">(2) {#आगमः;#} </div><div n="1">(3) {#उपया-#}
+{#नम्#} (rare), Ku. vii. 22.</div>
 <LEND>

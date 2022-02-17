@@ -1,5 +1,5 @@
 <L>21020<pc>661<k1>sophism<k2>sophism
-<div n="lb"/>{@SOPHISM,@}¦ {@SOPHISTRY:@} <div n="1">(1) {#हेत्वाभासः;#} </div><div n="1">(2) {#युत्तया-#}
-<div n="lb"/>{#भासः,#} <div n="xe">{%thus many rely on arguments of s. s:%}</div> <div n="xs">{#एवं #}
-<div n="lb"/>{# बहवो युक्तिवाक्यतदाभाससमाश्रयाः,#}</div> S.</div>
+{@SOPHISM,@}¦ {@SOPHISTRY:@} <div n="1">(1) {#हेत्वाभासः;#} </div><div n="1">(2) {#युत्तया-#}
+{#भासः,#} <div n="xe">{%thus many rely on arguments of s. s:%}</div> <div n="xs">{#एवं #}
+{# बहवो युक्तिवाक्यतदाभाससमाश्रयाः,#}</div> S.</div>
 <LEND>

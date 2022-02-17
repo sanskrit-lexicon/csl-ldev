@@ -1,5 +1,5 @@
 <L>52270<pc>5-0055<k1>बहुरूप<k2>बहुरूप/
-{#बहुरूप/#}¦ {#(बहु + रूप)#} 
+{#बहुरूप/#}¦ ({#बहु + रूप#}) 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} {%vielfarbig, von mannichfaltigem Ansehen, mannichfach%} 
 <ls>H. 1469,</ls> 
 <ls>Sch.</ls> 
@@ -8,7 +8,7 @@
 <ls>4, 7, 1.</ls> {#पशवः#} 
 <ls>1, 6, 3, 2. 3. 3, 9, 2, 4.</ls> {#अन्न#} 
 <ls>TS. 2, 1, 6, 4.</ls> {#वशा#} 
-<ls>?7, 1. 7, 1, 5, 7. ŚAT. BR. 13, 2, 5, 4. 10, 3. 3, 2, 3. 13, 4, 2, 4. KĀṬY. ŚR. 20, 4, 26. KAUŚ. 126. 127.</ls> {#तपस्#} 
+<ls>7, 1. 7, 1, 5, 7.</ls> <ls>ŚAT. BR. 13, 2, 5, 4. 10, 3. 3, 2, 3. 13, 4, 2, 4.</ls> <ls>KĀTY. ŚR. 20, 4, 26.</ls> <ls>KAUŚ. 126. 127.</ls> {#तपस्#} 
 <ls>M. 1, 49.</ls> {#वित्त#} 
 <ls>MBH. 4, 740.</ls> {#श्रेयस्#} 
 <ls>R. 1, 21, 11.</ls> {#शक्ति#} 
@@ -36,7 +36,7 @@
 <div n="2">— h) Bein. des Liebesgottes 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— i) N. pr. eines <is>Rudra</is> 
-<ls>MBH. 12,7585.</ls> 
+<ls>MBH. 12, 7585.</ls> 
 <ls>HARIV. 166.</ls> 
 <ls>VP. 121.</ls> 
 <ls>BHĀG. P.6,6,18.</ls> <ls>Verz. d. Oxf. H. 82,b,25. 190,a,37.</ls> 

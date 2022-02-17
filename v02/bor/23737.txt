@@ -1,5 +1,5 @@
 <L>23737<pc>744<k1>venal<k2>venal
-<div n="lb"/>{@VENAL:@}¦ <div n="xe">{%v. beauty:%}</div> <div n="xs">{#पण्यस्त्री;#}</div> <div n="xe">{%v. prostitute; v.%}
-<div n="lb"/>{%services:%}</div> <div n="xs">{#भृतकसेवा;#}</div> {%v. servant of Minerva:%}
-<div n="lb"/>{#ज्ञानपण्यो वणिक्,#} Mal.: v. Also corrupt.
+{@VENAL:@}¦ <div n="xe">{%v. beauty:%}</div> <div n="xs">{#पण्यस्त्री;#}</div> <div n="xe">{%v. prostitute; v.%}
+{%services:%}</div> <div n="xs">{#भृतकसेवा;#}</div> {%v. servant of Minerva:%}
+{#ज्ञानपण्यो वणिक्,#} Mal.: v. Also corrupt.
 <LEND>

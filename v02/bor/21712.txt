@@ -1,4 +1,4 @@
 <L>21712<pc>684<k1>sturdiness<k2>sturdiness
-<div n="lb"/>{@STURDINESS:@}¦ <div n="1">(1) {#ऊर्जस्वलत्वम्:#} v. Strength;</div>
-<div n="lb"/><div n="1">(2) {#कठोरता:#} v. Hardness.</div>
+{@STURDINESS:@}¦ <div n="1">(1) {#ऊर्जस्वलत्वम्:#} v. Strength;</div>
+<div n="1">(2) {#कठोरता:#} v. Hardness.</div>
 <LEND>

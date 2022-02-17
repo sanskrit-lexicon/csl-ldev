@@ -1,4 +1,4 @@
 <L>24132<pc>755<k1>watered<k2>watered
-<div n="lb"/>{@WATERED:@}¦ <div n="xe">{%well w.:%}</div> <div n="xs">{#जलभूयिष्ठ#}</div> (f. {#ष्ठा#}) and
-<div n="lb"/>sim. comp. s; <div n="xe">{%w. by rivers:%}</div> <div n="xs">{#नदीमातृक#}</div> (f. {#का#}).
+{@WATERED:@}¦ <div n="xe">{%well w.:%}</div> <div n="xs">{#जलभूयिष्ठ#}</div> (f. {#ष्ठा#}) and
+sim. comp. s; <div n="xe">{%w. by rivers:%}</div> <div n="xs">{#नदीमातृक#}</div> (f. {#का#}).
 <LEND>

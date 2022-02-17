@@ -1,13 +1,13 @@
 <L>50199<pc>4-1106<k1>प्रस्थ<k2>प्रस्थ
 {#प्रस्थ#}¦ (von {#स्था#} mit {#प्र#}) 
-<ls>P.3,1,136</ls>, <ls>Sch.</ls> m. n. <ls>SIDDH. K. 251,a,1 v. u.</ls> 
+<ls>P.3,1,136</ls>, <ls>Sch.</ls> m. n. <ls>SIDDH. K. 251,a,1</ls> v. u. 
 <div n="1"> 1) {%Bergebene, Plateau%} 
 <ls>AK. 2, 3, 5. 3, 4, 15, 90.</ls> 
 <ls>H. 1035.</ls> 
 <ls>an. 2, 217.</ls> 
 <ls>MED. th. 9.</ls> <ls>HALĀY. 2, 11.</ls> {#सरित्प्रस्रवणप्रस्थान्#} 
 <ls>R. 2, 54, 40 (41 GORR.). 4, 43, 14.</ls> {#हिमवतः#} 
-<ls>MBH. 1, 2946. 7, 3236.</ls> 
+<ls>MBH. 1, 2946.</ls> <ls n="MBH.">7, 3236.</ls> 
 <ls>KUMĀRAS. 1, 55.</ls> <ls>Schol.</ls> zu <ls>P. 8, 3, 92.</ls> {#विन्ध्यस्य#} 
 <ls>SUND. 4, 6.</ls> {#शैल°#} 
 <ls>R. 2, 94, 11 (103, 11 GORR.).</ls> {#गिरि°#} 
@@ -20,12 +20,12 @@
 <ls>AK. 2, 9, 86. 89. 3, 4, 15, 90.</ls> 
 <ls>TRIK. 2, 9, 6.</ls> 
 <ls>H. an.</ls> 
-<ls>MED.</ls> (=  {#मानभेद#} und {#उन्मितवस्तु#}). 
-<ls>HALĀY. 5, 15.</ls> <ls>?= 32</ls> <is>Pala</is> = (1/4) <is>Āḍhaka</is> 
+<ls>MED.</ls> (= {#मानभेद#} und {#उन्मितवस्तु#}). 
+<ls>HALĀY. 5, 15.</ls> = <ls>32</ls> <is>Pala</is> = (1/4) <is>Āḍhaka</is> 
 <ls>AV. PARIŚ.</ls> bei <ls>WEBER, JYOT. 82.</ls> = 16 <is>Pala</is> = 4 <is>Kuḍava</is> = (1/4) <is>Āḍhaka</is> 
 <ls>SUŚR. 2, 175, 5.</ls> 
 <ls>COLEBR. Alg. 3.</ls> 
-<ls>H. 886.</ls> <ls>?= 2 <is>Śarāva</is> ŚĀRṄG. SAṂH. 1, 1, 20.</ls> = 6 <is>Pala</is> 
+<ls>H. 886.</ls> = <ls>2 <is>Śarāva</is></ls> <ls>ŚĀRṄG. SAṂH. 1, 1, 20.</ls> = 6 <is>Pala</is> 
 <ls>WISE 126.</ls> = (1/16) <is>Droṇa</is> (was mit 
 <ls>SUŚR.</ls> und <ls>H.</ls> übereinstimmt) 
 <ls>SAṂSK. K.8,a,4.</ls> ein <is>Prastha</is> Wasser 

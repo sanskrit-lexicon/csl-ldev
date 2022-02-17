@@ -1,5 +1,5 @@
 <L>17624<pc>539<k1>prefix<k2>prefix
-<div n="lb"/>{@PREFIX@}¦ (v.): expr. by circumlo., {%whom%} ({%they%})
-<div n="lb"/><div n="xe">{%say Kashipu with Hiranya p. ed:%}</div> <div n="xs">{#यं॥। हिरण्यपूर्वं #}
-<div n="lb"/>{# कशिपुं प्रचक्षते,#}</div> Si. i. 42.
+{@PREFIX@}¦ (v.): expr. by circumlo., {%whom%} ({%they%})
+<div n="xe">{%say Kashipu with Hiranya p. ed:%}</div> <div n="xs">{#यं॥। हिरण्यपूर्वं #}
+{# कशिपुं प्रचक्षते,#}</div> Si. i. 42.
 <LEND>

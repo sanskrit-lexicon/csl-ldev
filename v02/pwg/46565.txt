@@ -12,7 +12,7 @@
 <ls>YĀJÑ. 2, 30. 211.</ls> 
 <ls>MBH. 1, 2883.</ls> {#सप्त जघान पूगान्दितेः सुतानाम्#} 
 <ls>ARJ. 1, 7.</ls> {#°वैर#} {%Feindschaft mit Vielen%} 
-<ls>MBH. 5, 1085. 1224.</ls> {#राज°#} 
+<ls>MBH. 5, 1085.</ls> <ls n="MBH. 5,">1224.</ls> {#राज°#} 
 <ls>1, 2702.</ls> {#सर्वदशार्हपूगैः#} 
 <ls>3, 769.</ls> {#ऋषि°#} 
 <ls>13, 6311.</ls> {#पक्षि°#} 
@@ -27,11 +27,11 @@
 <ls>Spr. 376.</ls> {#अधर्म°#} 
 <ls>BHĀG. P. 1, 17, 32.</ls> {#गुण°#} 
 <ls>ŚIŚ. 9, 64.</ls> {#पाप°#} 
-<ls>KĀŚĪKH. 26, 108</ls> <ls>?(AUFRECHT, HALĀY.).</ls> {#अनर्थ°#} 
+<ls>KĀŚĪKH. 26, 108</ls> (<ls>AUFRECHT, HALĀY.</ls>). {#अनर्थ°#} 
 <ls>Schol.</ls> zu <ls>MUṆḌ. UP.</ls> <ls>S. 261.</ls> {#वर्ष°#} {%eine Reihe von Jahren%} 
-<ls>MBH. 1, 3606. 5, 773. 13, 6704.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 49, 30.</ls> 
+<ls>MBH. 1, 3606.</ls> <ls n="MBH.">5, 773.</ls> <ls n="MBH.">13, 6704.</ls> 
+
+<ls>R. GORR. 1, 49, 30.</ls> 
 <ls>BHĀG. P. 3, 23, 44.</ls> {#कालपूगस्म महतः#} {%nach Ablauf einer langen Zeit%} (man streiche hiernach oben den Artikel {#कालपूग#}) 
 <ls>MBH. 2, 1329.</ls> {#द्वादशपूगां (?) सरितम्#} 
 <ls>5, 1750.</ls> Ueber den Unterschied zwischen {#पूग, श्रेणि#} und {#कुल#} s. 

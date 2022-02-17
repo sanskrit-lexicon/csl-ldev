@@ -1,9 +1,9 @@
 <L>15705<pc>482<k1>observe<k2>observe
-<div n="lb"/>{@OBSERVE:@}¦ <div n="I">I To notice with care: {#अवेक्षते, #}
-<div n="lb"/>{# परि-#} ({#ईक्ष्,#} c. 1.), {%o. ing that the verb%} ({%conveys%})
-<div n="lb"/><div n="xe">{%the sense of motion:%}</div> <div n="xs">{#अवेक्ष्य धातोर्गमनार्थम्,#}</div> R. iii.
-<div n="lb"/>4.: v. To look, consider. </div><div n="I">II To keep,
-<div n="lb"/>obey. q.v.: {#पालयति, प्रति-, अनु-,#} ({#पाल्,#} c.
-<div n="lb"/>10.). </div><div n="I">III To remark: q.v.: {#अभि-दधाति#} {%or%}
-<div n="lb"/>{#धत्ते#} ({#धा,#} c. 3.). </div><div n="I">IV To humour: q.v.</div>
+{@OBSERVE:@}¦ <div n="I">I To notice with care: {#अवेक्षते, #}
+{# परि-#} ({#ईक्ष्,#} c. 1.), {%o. ing that the verb%} ({%conveys%})
+<div n="xe">{%the sense of motion:%}</div> <div n="xs">{#अवेक्ष्य धातोर्गमनार्थम्,#}</div> R. iii.
+4.: v. To look, consider. </div><div n="I">II To keep,
+obey. q.v.: {#पालयति, प्रति-, अनु-,#} ({#पाल्,#} c.
+10.). </div><div n="I">III To remark: q.v.: {#अभि-दधाति#} {%or%}
+{#धत्ते#} ({#धा,#} c. 3.). </div><div n="I">IV To humour: q.v.</div>
 <LEND>

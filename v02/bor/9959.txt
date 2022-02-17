@@ -1,4 +1,4 @@
 <L>9959<pc>314<k1>glibness<k2>glibness
-<div n="lb"/>{@GLIBNESS:@}¦ <div n="I">I Slipperiness: {#पिच्छिलता।#} </div><div n="I">II
-<div n="lb"/>Volubility: {#चपलता।#}</div>
+{@GLIBNESS:@}¦ <div n="I">I Slipperiness: {#पिच्छिलता।#} </div><div n="I">II
+Volubility: {#चपलता।#}</div>
 <LEND>

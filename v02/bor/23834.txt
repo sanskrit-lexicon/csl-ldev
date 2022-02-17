@@ -1,6 +1,6 @@
 <L>23834<pc>746<k1>vice<k2>vice
-<div n="lb"/>{@VICE:@}¦ <div n="I">I Wickedness: </div><div n="1">(1) {#अधर्मः;#} </div><div n="1">(2) {#पापम्:#}
-<div n="lb"/>v. Sin. </div><div n="I">II Fault: {#दोषः:#} v. Also demerit,
-<div n="lb"/>passion. </div><div n="I">III An instrument: {#संदंशः।#} </div><div n="I">IV
-<div n="lb"/>= in the place of: {#स्थले#} <div n="xe">{%or%}</div> <div n="xs">{#स्थाने#}</div> with gen.</div>
+{@VICE:@}¦ <div n="I">I Wickedness: </div><div n="1">(1) {#अधर्मः;#} </div><div n="1">(2) {#पापम्:#}
+v. Sin. </div><div n="I">II Fault: {#दोषः:#} v. Also demerit,
+passion. </div><div n="I">III An instrument: {#संदंशः।#} </div><div n="I">IV
+= in the place of: {#स्थले#} <div n="xe">{%or%}</div> <div n="xs">{#स्थाने#}</div> with gen.</div>
 <LEND>

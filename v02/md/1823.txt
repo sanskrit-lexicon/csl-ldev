@@ -1,13 +1,13 @@
 <L>1823<pc>018-3<k1>अन्यथादर्शन<k2>अन्यथादर्शन
 {#अन्यथादर्शन#}¦anyathā-darśana, {%n.%} wrong investigation <lbinfo n="2"/>
-<> ({%leg.%}); {@-prathā,@} {%f.%} becoming different; <lbinfo n="3"/>
-<> {@-buddhi,@} {%f.%} prejudice; {@-bhāva,@} {%m.%} 
-<>change; difference; {@-abhidhāna,@} {%n.%} false evidence; <lbinfo n="3"/>
-<> {@-vādin,@} {%a.%} giving false evidence, raising <lbinfo n="4"/>
-<> a false suit: ({@di@}) {@-tva,@} {%n. abst. N.%}; {@-vṛtti@} 
-<>{%a.%} of changed mood, agitated; {@-saṃbhāvanā@}, 
-<>{%f.%} false supposition; distrust; {@-saṃbhāvin@}, 
-<>{%a.%} distrustful; {@-siddha,@} {%pp.%} falsely proved; 
-<>{@-siddhi,@} {%f.%} false proof; {@-stotra,@} {%n.%} ironical 
-<>praise.
+ ({%leg.%}); {@-prathā,@} {%f.%} becoming different; <lbinfo n="3"/>
+ {@-buddhi,@} {%f.%} prejudice; {@-bhāva,@} {%m.%} 
+change; difference; {@-abhidhāna,@} {%n.%} false evidence; <lbinfo n="3"/>
+ {@-vādin,@} {%a.%} giving false evidence, raising <lbinfo n="4"/>
+ a false suit: ({@di@}) {@-tva,@} {%n. abst. N.%}; {@-vṛtti@} 
+{%a.%} of changed mood, agitated; {@-saṃbhāvanā@}, 
+{%f.%} false supposition; distrust; {@-saṃbhāvin@}, 
+{%a.%} distrustful; {@-siddha,@} {%pp.%} falsely proved; 
+{@-siddhi,@} {%f.%} false proof; {@-stotra,@} {%n.%} ironical 
+praise.
 <LEND>

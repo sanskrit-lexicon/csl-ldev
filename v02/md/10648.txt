@@ -1,33 +1,33 @@
 <L>10648<pc>142-2<k1>निरुक्त<k2>निरुक्त
 {#निरुक्त#}¦nir-ukta, {%pp.%} √ vac; {%n.%} explanation; 
-<>etymological interpretation; {%esp. T. of Yāska's %}<lbinfo n="5"/>
-<>{% commentary on the Nighaṇṭus%}; {@-ukti,@} {%f.%} 
-<>etymological explanation; {@-uñchana@}, {%n.%} = 
-<>nī-rājana ; {@-uttara,@} {%a.%} having no superior; 
-<>unable to give an answer; {@-utsava,@} {%a.%} devoid 
-<>of festivals; {@-utsāha,@} {%a.%} destitute of energy, 
-<>unenterprising, spiritless: {@-tā,@} {%f.%} cowardice; 
-<>{@-utsuka,@} {%a.%} unconcerned; having no desire 
-<>for (prati); {@-utseka,@} {%m.%} modesty; {%a.%} unpretentious, <lbinfo n="5"/>
-<> modest; {@-udara,@} {%a.%} trunkless; {@-ud-@}
-<>{@-deśam@}, {%ad.%} without {%making any%} statement; 
-<>{@udyama,@} {%a.%} avoiding exertion, indolent; 
-<>{@-udyoga,@} {%a. id.%}; {@-udvigna,@} {%pp.%} untroubled, 
-<>unagitated: {@-manas,@} {%a.%} having {%one's%} mind 
-<>undisturbed; {@-udvega,@} {%a.%} free from agitation, 
-<>calm; {@-unmāda,@} {%a.%} free from arrogance; 
-<>{@-upakārin,@} {%a.%} unable to render a service; 
-<>{@-upakriya,@} {%a.%} rendering no service; {@-upa-@}
-<>{@-drava,@} {%a.%} unassailed by mischances {%or%} calamities, <lbinfo n="6"/>
-<> prosperous, faring well; free from danger, 
-<>sage: {@-tā,@} {%f.%} security; {@-upadhi,@} {%a.%} free from 
-<>guile, honest; blameless; {@-upapatti,@} {%a.%} unsuitable; <lbinfo n="2"/>
-<> {@-upapada,@} {%a.%} unaccompanied by a 
-<>secondary word; {@-upaplava,@} {%a.%} undisturbed, 
-<>uninterrupted; {@-upabhoga,@} {%a.%} not enjoying; 
-<>{@-upama,@} {%a.%} having no equal; {@-upayoga,@} {%a.%} 
-<>useless; {@-upākhya,@} {%a.%} indescribable: {@-tva,@} 
-<>{%n. abst. N.%}; {@-upāya,@} {%a.%} futile; {@-uṣṇa-tā@}, {%f.%} 
-<>coldness: {@-ṃ nī@}, make cold, kill; {@-uṣṇīṣa@}, 
-<>{%a.%} turbanless, bareheaded. 
+etymological interpretation; {%esp. T. of Yāska's %}<lbinfo n="5"/>
+{% commentary on the Nighaṇṭus%}; {@-ukti,@} {%f.%} 
+etymological explanation; {@-uñchana@}, {%n.%} = 
+nī-rājana ; {@-uttara,@} {%a.%} having no superior; 
+unable to give an answer; {@-utsava,@} {%a.%} devoid 
+of festivals; {@-utsāha,@} {%a.%} destitute of energy, 
+unenterprising, spiritless: {@-tā,@} {%f.%} cowardice; 
+{@-utsuka,@} {%a.%} unconcerned; having no desire 
+for (prati); {@-utseka,@} {%m.%} modesty; {%a.%} unpretentious, <lbinfo n="5"/>
+ modest; {@-udara,@} {%a.%} trunkless; {@-ud-@}
+{@-deśam@}, {%ad.%} without {%making any%} statement; 
+{@udyama,@} {%a.%} avoiding exertion, indolent; 
+{@-udyoga,@} {%a. id.%}; {@-udvigna,@} {%pp.%} untroubled, 
+unagitated: {@-manas,@} {%a.%} having {%one's%} mind 
+undisturbed; {@-udvega,@} {%a.%} free from agitation, 
+calm; {@-unmāda,@} {%a.%} free from arrogance; 
+{@-upakārin,@} {%a.%} unable to render a service; 
+{@-upakriya,@} {%a.%} rendering no service; {@-upa-@}
+{@-drava,@} {%a.%} unassailed by mischances {%or%} calamities, <lbinfo n="6"/>
+ prosperous, faring well; free from danger, 
+sage: {@-tā,@} {%f.%} security; {@-upadhi,@} {%a.%} free from 
+guile, honest; blameless; {@-upapatti,@} {%a.%} unsuitable; <lbinfo n="2"/>
+ {@-upapada,@} {%a.%} unaccompanied by a 
+secondary word; {@-upaplava,@} {%a.%} undisturbed, 
+uninterrupted; {@-upabhoga,@} {%a.%} not enjoying; 
+{@-upama,@} {%a.%} having no equal; {@-upayoga,@} {%a.%} 
+useless; {@-upākhya,@} {%a.%} indescribable: {@-tva,@} 
+{%n. abst. N.%}; {@-upāya,@} {%a.%} futile; {@-uṣṇa-tā@}, {%f.%} 
+coldness: {@-ṃ nī@}, make cold, kill; {@-uṣṇīṣa@}, 
+{%a.%} turbanless, bareheaded. 
 <LEND>

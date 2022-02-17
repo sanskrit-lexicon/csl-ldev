@@ -16,17 +16,17 @@
 <ls>TRIK. 3, 3, 420.</ls> 
 <ls>H. 153.</ls> 
 <ls>an. 3, 708. fg.</ls> 
-<ls>MED. v. 47.</ls> <ls>HALĀY. 1, 114.</ls> <ls>VS. 7, 30. 13, 25. 22, 31.</ls> <ls>TS. 4, 4, 12, 1.</ls> <ls>ŚAT. BR. 4, 3, 1, 14.</ls> <ls>R. 3, 79, 34. 6, 32, 25.</ls> <ls>SUŚR. 1, 19, 9.</ls> <ls>RAGH. 11, 7.</ls> <ls>VARĀH. BṚH. S. 46, 85</ls> {#(मधुमाधवे)#} . 
+<ls>MED. v. 47.</ls> <ls>HALĀY. 1, 114.</ls> <ls>VS. 7, 30. 13, 25. 22, 31.</ls> <ls>TS. 4, 4, 12, 1.</ls> <ls>ŚAT. BR. 4, 3, 1, 14.</ls> <ls>R. 3, 79, 34. 6, 32, 25.</ls> <ls>SUŚR. 1, 19, 9.</ls> <ls>RAGH. 11, 7.</ls> <ls>VARĀH. BṚH. S. 46, 85</ls> ({#मधुमाधवे#}) . 
 <ls>VP. 225.</ls> 
 <ls>MĀRK. P. 114, 27.</ls> 
 <ls>PAÑCAR. 1, 10, 46.</ls> 
 <div n="2">— b) {%Frühling%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>R. 1, 64, 6.</ls> <ls>MĀLAV. 40.</ls> {#°श्री#} 
 <ls>83.</ls> <ls>KUMĀRAS. 4, 28.</ls> <ls>PAÑCAR. 1, 7, 29</ls> (wohl {#माधवे सुमनोहरम्#} st. {#माधवेषु मनो°#} zu lesen). 
-<div n="2">— c) {%Bassia latifolia%} und {%eine best. Hülsenfrucht%} {#(कृष्णमुद्ग)#} 
+<div n="2">— c) {%Bassia latifolia%} und {%eine best. Hülsenfrucht%} ({#कृष्णमुद्ग#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— d) {%ein Sohn%} oder {%Nachkomme%} <is>Madhu's</is>, {%ein Mann aus%} <is>Yadu's</is> {%Geschlecht%} (ein Sohn <is>Yadu's</is> heisst <is>Mādhava</is> 
-<ls>HARIV. 5206. 5215.</ls> {#मागध#} die neuere Ausg.) 
+<ls>HARIV. 5206.</ls> <ls n="HARIV.">5215.</ls> {#मागध#} die neuere Ausg.) 
 <ls>P. 4, 1, 106,</ls> 
 <ls>Sch.</ls> 
 <ls>MED.</ls> {#माधवाः = यादवाः = वृष्णयः#} 
@@ -39,7 +39,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>BHAG. 1, 14. 37.</ls> 
-<ls>MBH. 5, 2563. 13, 599.</ls> 
+<ls>MBH. 5, 2563.</ls> <ls n="MBH.">13, 599.</ls> 
 <ls>R. 1, 41, 2.</ls> 
 <ls>GĪT. 1, 1.</ls> 
 <ls>BHĀG. P. 6, 8, 19.</ls> 
@@ -67,7 +67,7 @@
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 53.</ls> 
 <ls>MEGH. 76.</ls> 
-<ls>VIKR. 23</ls> <ls>?(v. l.). BHĀG. P. 4, 6, 16. 8, 2, 18. PAÑCAR. 2, 4, 43.</ls> {#लता माधवी#} (so ist wohl zu schreiben) 
+<ls>VIKR. 23</ls> (<ls>v. l.).</ls> <ls>BHĀG. P. 4, 6, 16. 8, 2, 18.</ls> <ls>PAÑCAR. 2, 4, 43.</ls> {#लता माधवी#} (so ist wohl zu schreiben) 
 <ls>ŚĀK. 58.</ls> {%eine Art Panicum%} 
 <ls>H. 1177.</ls>
 [Page5-0715]
@@ -76,7 +76,7 @@
 <ls>MED.</ls> 
 <div n="2">— d) {%Kupplerin%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— e) {%Gedeihen des Hausviehes%} {#(गोमहिष्यादिसंपत्तौ)#} 
+<div n="2">— e) {%Gedeihen des Hausviehes%} ({#गोमहिष्यादिसंपत्तौ#}) 
 <ls>MED.</ls> 
 <div n="2">— f) {%ein Frauenzimmer aus%} <is>Madhu's</is> oder <is>Yadu's</is> {%Geschlecht%}: <is>Anantā</is> (Gattin <is>Janamejaya's</is>) 
 <ls>MBH. 1, 3765.</ls> <is>Saṃpriyā</is> (Gattin <is>Vidūratha's</is>) 

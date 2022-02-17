@@ -1,5 +1,5 @@
 <L>16284<pc>500<k1>paleness<k2>paleness
-<div n="lb"/>{@PALENESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#पाण्डुता, वि-;#} </div><div n="1">(2)
-<div n="lb"/>{#पाण्डुरता।#} </div><div n="I">II Loss of colour: {#विवर्णता#} <div n="xe">{%or%}</div> <div n="xs">{#वैवर्ण्यम्।#}</div></div>
-<div n="lb"/><div n="I">III Dimness: q. v.</div>
+{@PALENESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#पाण्डुता, वि-;#} </div><div n="1">(2)
+{#पाण्डुरता।#} </div><div n="I">II Loss of colour: {#विवर्णता#} <div n="xe">{%or%}</div> <div n="xs">{#वैवर्ण्यम्।#}</div></div>
+<div n="I">III Dimness: q. v.</div>
 <LEND>

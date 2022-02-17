@@ -1,8 +1,8 @@
 <L>9823<pc>310<k1>get<k2>get
-<div n="lb"/>{@GET@}¦ (v.i.): <div n="I">I To become: q.v.: {%to g. angry:%}
-<div n="lb"/>{#कोपं गच्छति;#} <div n="xe">{%to g. disunited:%}</div> <div n="xs">{#विश्लेषम् एति,#}</div> Ki.;
-<div n="lb"/><div n="xe">{%to g. red:%}</div> <div n="xs">{#लोहितायते#}</div> (nomi.), {%to g. cloudy:%}
-<div n="lb"/>{#दुर्दिनायते;#} <div n="xe">{%to g. clear:%}</div> <div n="xs">{#सुदिनायते,#}</div> S.k. </div><div n="I">II To
-<div n="lb"/>arrive: q.v.: {#प्राप्नोति#} (with acc.), <div n="xe">{%got to the%}
-<div n="lb"/>{%town:%}</div> <div n="xs">{#नगरं प्रापुः,#}</div> K.s.</div>
+{@GET@}¦ (v.i.): <div n="I">I To become: q.v.: {%to g. angry:%}
+{#कोपं गच्छति;#} <div n="xe">{%to g. disunited:%}</div> <div n="xs">{#विश्लेषम् एति,#}</div> Ki.;
+<div n="xe">{%to g. red:%}</div> <div n="xs">{#लोहितायते#}</div> (nomi.), {%to g. cloudy:%}
+{#दुर्दिनायते;#} <div n="xe">{%to g. clear:%}</div> <div n="xs">{#सुदिनायते,#}</div> S.k. </div><div n="I">II To
+arrive: q.v.: {#प्राप्नोति#} (with acc.), <div n="xe">{%got to the%}
+{%town:%}</div> <div n="xs">{#नगरं प्रापुः,#}</div> K.s.</div>
 <LEND>

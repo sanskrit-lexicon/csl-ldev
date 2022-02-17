@@ -1,13 +1,13 @@
 <L>17383<pc>532<k1>poor<k2>poor
-<div n="lb"/>{@POOR:@}¦ <div n="I">I Indigent: </div><div n="1">(1) {#दरिद्र#} (f. {#द्रा#}); </div><div n="1">(2)
-<div n="lb"/>{#निर्धन#} (f. {#ना#} = without money) and sim.
-<div n="lb"/>comp.s., {%a p. man wishes for hundred%} ({%pieces%}):
-<div n="lb"/>{#निःस्वो वष्टि शतम्,#} J.; <div n="xe">{%p. life:%}</div> <div n="xs">{#धनहीनजीवितम्,#}</div> J.;</div>
-<div n="lb"/><div n="1">(3) {#अकिञ्चन#} (f. {#ना#} = without anything). </div><div n="I">II
-<div n="lb"/>Wretched, to be pitied: </div><div n="1">(1) {#दीन#} (f. {#ना#}),
-<div n="lb"/><div n="xe">{%very poor state:%}</div> <div n="xs">{#दशा सुदीना,#}</div> Ku. xiii. 36.;</div>
-<div n="lb"/><div n="1">(2) {#वराक#} (f. {#की#}) (rare), {%for%} ({%my%}) {%p. Sitā:%}
-<div n="lb"/>{#सीतां वराकीं प्रति,#} Vi. v. 22. </div><div n="I">III Inferior,
-<div n="lb"/>bad: q. v. </div><div n="I">IV Of soil: </div><div n="1">(1) {#निर्गुण#} (f. {#णा#});</div>
-<div n="lb"/><div n="1">(2) {#असार#} (f. {#रा#}).</div>
+{@POOR:@}¦ <div n="I">I Indigent: </div><div n="1">(1) {#दरिद्र#} (f. {#द्रा#}); </div><div n="1">(2)
+{#निर्धन#} (f. {#ना#} = without money) and sim.
+comp.s., {%a p. man wishes for hundred%} ({%pieces%}):
+{#निःस्वो वष्टि शतम्,#} J.; <div n="xe">{%p. life:%}</div> <div n="xs">{#धनहीनजीवितम्,#}</div> J.;</div>
+<div n="1">(3) {#अकिञ्चन#} (f. {#ना#} = without anything). </div><div n="I">II
+Wretched, to be pitied: </div><div n="1">(1) {#दीन#} (f. {#ना#}),
+<div n="xe">{%very poor state:%}</div> <div n="xs">{#दशा सुदीना,#}</div> Ku. xiii. 36.;</div>
+<div n="1">(2) {#वराक#} (f. {#की#}) (rare), {%for%} ({%my%}) {%p. Sitā:%}
+{#सीतां वराकीं प्रति,#} Vi. v. 22. </div><div n="I">III Inferior,
+bad: q. v. </div><div n="I">IV Of soil: </div><div n="1">(1) {#निर्गुण#} (f. {#णा#});</div>
+<div n="1">(2) {#असार#} (f. {#रा#}).</div>
 <LEND>

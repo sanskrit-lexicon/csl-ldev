@@ -1,9 +1,9 @@
 <L>765<pc>027<k1>anger<k2>anger
-<div n="lb"/>{@ANGER@}¦ (subs): <div n="1">(1) {#क्रोधः;#} </div><div n="1">(2) {#कोपः#}, <div n="xe">{%to give%}
-<div n="lb"/>{%way to a.%}</div> <div n="xs">{#कोपवशं गच्छति,#}</div> V. iv.; <div n="xe">{%restraining%}
-<div n="lb"/>{%his a.%}</div> <div n="xs">{#कोपं निगृह्गन्,#}</div> B. xii. 81.; </div><div n="1">(3) {#रोषः;#}</div>
-<div n="lb"/><div n="1">(4) {#अमर्षः#}, <div n="xe">{%void of a.%}</div> <div n="xs">{#अमर्षशून्यः#}</div> ({#न्या, न्यं#}), Ki. i.
-<div n="lb"/>33.; </div><div n="1">(5) {#मन्युः#} {%deep-rooted a. possessed%} ({%him%})
-<div n="lb"/>{#मन्युरभजदवगादतरः,#} Si. xv. 2.; </div><div n="1">(6) {#संरम्भः;#} </div><div n="1">(7)
-<div n="lb"/>{#रूष्,#} (f.); </div><div n="1">(8) {#क्रुध्#} (f.); </div><div n="1">(9) {#रूषा।#}</div>
+{@ANGER@}¦ (subs): <div n="1">(1) {#क्रोधः;#} </div><div n="1">(2) {#कोपः#}, <div n="xe">{%to give%}
+{%way to a.%}</div> <div n="xs">{#कोपवशं गच्छति,#}</div> V. iv.; <div n="xe">{%restraining%}
+{%his a.%}</div> <div n="xs">{#कोपं निगृह्गन्,#}</div> B. xii. 81.; </div><div n="1">(3) {#रोषः;#}</div>
+<div n="1">(4) {#अमर्षः#}, <div n="xe">{%void of a.%}</div> <div n="xs">{#अमर्षशून्यः#}</div> ({#न्या, न्यं#}), Ki. i.
+33.; </div><div n="1">(5) {#मन्युः#} {%deep-rooted a. possessed%} ({%him%})
+{#मन्युरभजदवगादतरः,#} Si. xv. 2.; </div><div n="1">(6) {#संरम्भः;#} </div><div n="1">(7)
+{#रूष्,#} (f.); </div><div n="1">(8) {#क्रुध्#} (f.); </div><div n="1">(9) {#रूषा।#}</div>
 <LEND>

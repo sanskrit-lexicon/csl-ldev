@@ -1,10 +1,10 @@
 <L>3989<pc>129<k1>cold<k2>cold
-<div n="lb"/>{@COLD@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#शीतम्,#} <div n="xe">{%capacity of%}
-<div n="lb"/>{%enduring c.:%}</div> <div n="xs">{#शीतसहिष्णुता,#}</div> Ka.; </div><div n="1">(2) {#हिमम्,#} <div n="xe">{%suffer-%}
-<div n="lb"/>{%ing from c.:%}</div> <div n="xs">{#हिमार्तः#}</div> Sa.; {%save me from c.:%}
-<div n="lb"/>{#हिमत्राणं विधीयतां,#} P. </div><div n="I">II Catarrh: </div><div n="1">(1)
-<div n="lb"/>{#प्रति(ती)श्यायः,#} <div n="xe">{%giving c.:%}</div> <div n="xs">{#प्रतिश्यायकरः#}</div> ({#री, रं#}),
-<div n="lb"/>Sr.; </div><div n="1">(2) {#पीनसः,#} <div n="xe">{%suffering from c.%}</div> <div n="xs">{#पीनसिन्#}</div> ({#नी#}),
-<div n="lb"/>Sr. Ph.: <div n="xe">{%to catch c.:%}</div> <div n="xs">{#प्रतिश्यायः सम्-जायते#}</div> ({#जन्,#}
-<div n="lb"/>c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#भवति#}</div> (with gen. of the person).</div>
+{@COLD@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#शीतम्,#} <div n="xe">{%capacity of%}
+{%enduring c.:%}</div> <div n="xs">{#शीतसहिष्णुता,#}</div> Ka.; </div><div n="1">(2) {#हिमम्,#} <div n="xe">{%suffer-%}
+{%ing from c.:%}</div> <div n="xs">{#हिमार्तः#}</div> Sa.; {%save me from c.:%}
+{#हिमत्राणं विधीयतां,#} P. </div><div n="I">II Catarrh: </div><div n="1">(1)
+{#प्रति(ती)श्यायः,#} <div n="xe">{%giving c.:%}</div> <div n="xs">{#प्रतिश्यायकरः#}</div> ({#री, रं#}),
+Sr.; </div><div n="1">(2) {#पीनसः,#} <div n="xe">{%suffering from c.%}</div> <div n="xs">{#पीनसिन्#}</div> ({#नी#}),
+Sr. Ph.: <div n="xe">{%to catch c.:%}</div> <div n="xs">{#प्रतिश्यायः सम्-जायते#}</div> ({#जन्,#}
+c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#भवति#}</div> (with gen. of the person).</div>
 <LEND>

@@ -1,27 +1,27 @@
 <L>32206<pc>857-a<k1>figure<k2>figure
-<div n="lb"/>FIGURE¦, {%s.%} (In geometry) {#क्षेत्रं#}. — (In arithmetic) {#अङ्कः;#} ‘figures,’
-<div n="lb"/>{#अङ्कविद्या#}. — (Emblem) {#प्रतिरूपं, प्रतिविम्बं#}. — (In rhetoric) {#अल-#}
-<div n="lb"/>{#ङ्कारः#}. The following are some of the common figures
-<div n="lb"/>in rhetoric: ‘Simile,’ {#उपमा;#} ‘Breaking the natural order
-<div n="lb"/>of words in a sentence,’ {#अनन्वयः;#} ‘Identification of the
-<div n="lb"/>objects of a comparison,’ {#रूपकं;#} ‘Irony,’ {#आक्षेपः;#} ‘Allite-
-<div n="lb"/>ration,’ {#अनुप्रासः;#} ‘Comparison,’ {#उत्प्रेक्षा;#} ‘Hyperbole,’ {#अति-#}
-<div n="lb"/>{#शयोक्तिः#} {%f.;%} ‘Explanation of any peculiar condition, by
-<div n="lb"/>coupling cause with effect,’ {#विशेषोक्तिः#} {%f.;%} ‘Dilating upon
-<div n="lb"/>an idea, or accumulating expressions to throw light on
-<div n="lb"/>an idea.’ {#दीपकं;#} ‘Dissimilitude of things compared in
-<div n="lb"/>some respect to each other,’ {#व्यतिरेकः;#} ‘Describing the
-<div n="lb"/>past or future as present,’ {#भाविकं;#} ‘Inverse comparison,
-<div n="lb"/>or comparing new objects with some known object, as
-<div n="lb"/>the moon, &c.,’ {#प्रतीपं;#} ‘Identity of objects compared to
-<div n="lb"/>one another,’ {#समं;#} ‘Connexion of different objects by
-<div n="lb"/>[Page857-b+ 50]
-<div n="lb"/>common properties,’ {#सामान्यं;#} ‘Punning on words,’ {#श्लेषः;#}
-<div n="lb"/>‘Climax,’ {#सारं;#} ‘Rhetorical use of the word {%without,’%} {#वि-#}
-<div n="lb"/>{#नोक्तिः#} {%f.;%} ‘Rhetorical use of the word {%with%} or {%along with,%}’
-<div n="lb"/>{#सहोक्तिः#} {%f.;%} ‘Change,’ {#परिणामः;#} ‘Recollection,’ {#स्मृतिः#} {%f.;%}
-<div n="lb"/>‘Mistake,’ {#भ्रान्तिः#} {%f.;%} ‘Doubt,’ {#सन्देहः;#} ‘Applying a simile
-<div n="lb"/>to other than its obvious application,’ {#अपह्नुतिः#} {%f.%} And the
-<div n="lb"/>following, the meaning of which is doubtful, {#प्रासः, उल्लेखः,#}
-<div n="lb"/>{#तुल्ययोगिता, चर्वणा#}.
+FIGURE¦, {%s.%} (In geometry) {#क्षेत्रं#}. — (In arithmetic) {#अङ्कः;#} ‘figures,’
+{#अङ्कविद्या#}. — (Emblem) {#प्रतिरूपं, प्रतिविम्बं#}. — (In rhetoric) {#अल-#}
+{#ङ्कारः#}. The following are some of the common figures
+in rhetoric: ‘Simile,’ {#उपमा;#} ‘Breaking the natural order
+of words in a sentence,’ {#अनन्वयः;#} ‘Identification of the
+objects of a comparison,’ {#रूपकं;#} ‘Irony,’ {#आक्षेपः;#} ‘Allite-
+ration,’ {#अनुप्रासः;#} ‘Comparison,’ {#उत्प्रेक्षा;#} ‘Hyperbole,’ {#अति-#}
+{#शयोक्तिः#} {%f.;%} ‘Explanation of any peculiar condition, by
+coupling cause with effect,’ {#विशेषोक्तिः#} {%f.;%} ‘Dilating upon
+an idea, or accumulating expressions to throw light on
+an idea.’ {#दीपकं;#} ‘Dissimilitude of things compared in
+some respect to each other,’ {#व्यतिरेकः;#} ‘Describing the
+past or future as present,’ {#भाविकं;#} ‘Inverse comparison,
+or comparing new objects with some known object, as
+the moon, &c.,’ {#प्रतीपं;#} ‘Identity of objects compared to
+one another,’ {#समं;#} ‘Connexion of different objects by
+[Page857-b+ 50]
+common properties,’ {#सामान्यं;#} ‘Punning on words,’ {#श्लेषः;#}
+‘Climax,’ {#सारं;#} ‘Rhetorical use of the word {%without,’%} {#वि-#}
+{#नोक्तिः#} {%f.;%} ‘Rhetorical use of the word {%with%} or {%along with,%}’
+{#सहोक्तिः#} {%f.;%} ‘Change,’ {#परिणामः;#} ‘Recollection,’ {#स्मृतिः#} {%f.;%}
+‘Mistake,’ {#भ्रान्तिः#} {%f.;%} ‘Doubt,’ {#सन्देहः;#} ‘Applying a simile
+to other than its obvious application,’ {#अपह्नुतिः#} {%f.%} And the
+following, the meaning of which is doubtful, {#प्रासः, उल्लेखः,#}
+{#तुल्ययोगिता, चर्वणा#}.
 <LEND>

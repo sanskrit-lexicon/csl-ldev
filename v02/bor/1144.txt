@@ -1,7 +1,7 @@
 <L>1144<pc>040<k1>artless<k2>artless
-<div n="lb"/>{@ARTLESS:@}¦ <div n="I">I Simple, frank, guileless: q. v.;</div>
-<div n="lb"/><div n="1">(1) {#अमायः#} ({#या, यं#}); </div><div n="1">(2) {#ऋजु#} (mfn.). </div><div n="I">II
-<div n="lb"/>Contrived without art: </div><div n="1">(1) {#नीरसः#} ({#सा, सं#})
-<div n="lb"/>(=devoid of taste); </div><div n="1">(2) {#अलङ्कारहीनः#} ({#ना, #}
-<div n="lb"/>{# नं#}) (=unadorned).</div>
+{@ARTLESS:@}¦ <div n="I">I Simple, frank, guileless: q. v.;</div>
+<div n="1">(1) {#अमायः#} ({#या, यं#}); </div><div n="1">(2) {#ऋजु#} (mfn.). </div><div n="I">II
+Contrived without art: </div><div n="1">(1) {#नीरसः#} ({#सा, सं#})
+(=devoid of taste); </div><div n="1">(2) {#अलङ्कारहीनः#} ({#ना, #}
+{# नं#}) (=unadorned).</div>
 <LEND>

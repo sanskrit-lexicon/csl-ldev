@@ -3,7 +3,7 @@
 (<ab>Ved.</ab> also <s>°ते</s>, and <ab>Ved.</ab> <ab>ep.</ab> <s>य/मति</s>, <s>°ते</s>;
 <ab>pf.</ab> <s>ययाम</s>, <s>येमे</s>;
 2. <ab>sg.</ab> <s>ययन्थ</s>, 3. <ab>pl.</ab> <s>येमु/ः</s>, <s>येमिरे/</s>, <ls>RV.</ls> &c. &c.;
-3. <ab>du.</ab> irreg. <s>-यमतुः</s>, <ls>RV. v, 67, 1</ls>;
+3. <ab>du.</ab> <ab>irreg.</ab> <s>-यमतुः</s>, <ls>RV. v, 67, 1</ls>;
 <ab>aor.</ab> <s>अ/यान्</s>, <s>अ/यमुह्</s>;
 <ab>Impv.</ab> <s>यंसि</s>, <s>यन्धि/</s>;
 <ab>Pot.</ab> <s>यम्यास्</s>, <s>यमीमहि</s>, <ls>RV.</ls>;
@@ -27,7 +27,7 @@
 <div n="to"/>to offer;
 <div n="vp"/> confer, grant, bestow on (<ab>dat.</ab> or <ab>loc.</ab>), present with (<ab>instr.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/> (with <s>मार्गम्</s>), to make way for (<ab>gen.</ab>), <ls>MBh.</ls>;
-<div n="to"/> (with <s>प्रति</s> and <ab>abl.</ab>), to give anything in exchange for anything, <ls>Kāś.</ls> on <ls>Pāṇ. 2-3, 11</ls>;
+<div n="to"/> (with <s>प्रति</s> and <ab>abl.</ab>), to give anything in exchange for anything, <ls>Kāś.</ls> on <ls>Pāṇ. ii, 3, 11</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to give one's self up to, be faithful to, obey (<ab>dat.</ab>), <ls>RV.</ls>;
 <div n="to"/>to raise, utter (a sound &c.), <ls>ib.</ls>;
 <div n="to"/>to fix, establish, <ls>ib.</ls>;
@@ -37,5 +37,5 @@
 <div n="vp"/><ab>Caus.</ab> <s>यामयति</s> (<ls>AV.</ls>), <s>यमयति</s> (<ls>Br.</ls> &c.; <s>°ते</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>अयीयमत्</s>), 
 <div n="to"/>to restrain, hold in, control, keep or put in order:
 <div n="vp"/><ab>Desid.</ab> <s>यियंसति</s>, to wish to restrain &c., <ls>Br.</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>यंयमीति</s> (See <s>उद्-√ यम्</s>) or <s>यंयम्यते</s> (<ls>Pāṇ. 7-4, 85</ls>, <ab>Vārtt.</ab> 2, <ls>Pat.</ls>) ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ζημία</lang>, ‘restraint, punishment.’])<info westergaard="yama,23.15,01.0703"/><info whitneyroots="yam,130"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="vp"/><ab>Intens.</ab> <s>यंयमीति</s> (See <s>उद्-√ यम्</s>) or <s>यंयम्यते</s> (<ls>Pāṇ. vii, 4, 85</ls>, <ab>Vārtt.</ab> 2, <ls>Pat.</ls>) ([<ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">ζημία</lang>, ‘restraint, punishment.’])<info westergaard="yama,23.15,01.0703"/><info whitneyroots="yam,130"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

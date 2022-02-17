@@ -1,4 +1,4 @@
 <L>21410<pc>674<k1>stave<k2>stave
-<div n="lb"/>{@STAVE:@}¦ <div n="I">I Of wood: {#काष्ठखण्डम्।#} </div><div n="I">II Of songs:
-<div n="lb"/>{#भागः।#}</div>
+{@STAVE:@}¦ <div n="I">I Of wood: {#काष्ठखण्डम्।#} </div><div n="I">II Of songs:
+{#भागः।#}</div>
 <LEND>

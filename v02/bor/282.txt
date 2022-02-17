@@ -1,8 +1,8 @@
 <L>282<pc>011<k1>administration<k2>administration
-<div n="lb"/>{@ADMINISTRATION:@}¦ <div n="I">I Execution, manage-
-<div n="lb"/>-ment: q. v.: {#निर्वाहः।#} Ph. {%a. of Government%}
-<div n="lb"/>{#शासनम्;#} <div n="xe">{%a. of justice%}</div> <div n="xs">{#धर्मविवेचनम्;#}</div> {%internal a.%} [Page012]
-<div n="lb"/>{#प्रजासु वृत्तिः,#} Ki. i. I. </div><div n="I">II. The executive part
-<div n="lb"/>of Government: {#सचिवाः#} (m. pl.). </div><div n="I">III
-<div n="lb"/>Legal. t. t.: Ph. <div n="xe">{%letters of a.%}</div> <div n="xs">{#*निर्वाहपत्रम्।#}</div></div>
+{@ADMINISTRATION:@}¦ <div n="I">I Execution, manage-
+-ment: q. v.: {#निर्वाहः।#} Ph. {%a. of Government%}
+{#शासनम्;#} <div n="xe">{%a. of justice%}</div> <div n="xs">{#धर्मविवेचनम्;#}</div> {%internal a.%} [Page012]
+{#प्रजासु वृत्तिः,#} Ki. i. I. </div><div n="I">II. The executive part
+of Government: {#सचिवाः#} (m. pl.). </div><div n="I">III
+Legal. t. t.: Ph. <div n="xe">{%letters of a.%}</div> <div n="xs">{#*निर्वाहपत्रम्।#}</div></div>
 <LEND>

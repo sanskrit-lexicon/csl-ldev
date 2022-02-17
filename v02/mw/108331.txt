@@ -1,5 +1,5 @@
 <L>108331<pc>547,2<k1>नितुश्<k2>नि-तुश्<e>1
-<s>नि-</s>√ <hom>1.</hom> <s>तुश्</s> ¦ <ab>Ā.</ab> <s>-तोशते</s>, to drip down (trans. and intrans.), sprinkle, grant, distribute, <ls>RV.</ls>;
+<s>नि-</s>√ <hom>1.</hom> <s>तुश्</s> ¦ <ab>Ā.</ab> <s>-तोशते</s>, to drip down (<ab>trans.</ab> and <ab>intrans.</ab>), sprinkle, grant, distribute, <ls>RV.</ls>;
 <div n="to"/>to kill, <ls>Naigh. ii, 19</ls> :
 <div n="to"/><ab>Caus.</ab> <s>-तोशयति</s>, to grant, distribute, <ls>RV. viii, 55, 8</ls>;
 <div n="to"/>to kill, <ls>Naigh.</ls><info verb="pre" cp="Ā" parse="ni+tuS"/>

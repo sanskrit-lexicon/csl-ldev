@@ -1,5 +1,5 @@
 <L>13699<pc>421<k1>loaded<k2>loaded
-<div n="lb"/>{@LOADED:@}¦ <div n="xe">{%the boat is l. with iron:%}</div> <div n="xs">{#लौहभृता नौः#}</div> (?);
-<div n="lb"/><div n="xe">{%l. gun:%}</div> <div n="xs">{#पूरितं बन्दुकम्;#}</div> <div n="xe">{%heavily l.:%}</div> <div n="xs">{#भाराक्रान्त#}</div> (f.
-<div n="lb"/>{#न्ता#}) (?).
+{@LOADED:@}¦ <div n="xe">{%the boat is l. with iron:%}</div> <div n="xs">{#लौहभृता नौः#}</div> (?);
+<div n="xe">{%l. gun:%}</div> <div n="xs">{#पूरितं बन्दुकम्;#}</div> <div n="xe">{%heavily l.:%}</div> <div n="xs">{#भाराक्रान्त#}</div> (f.
+{#न्ता#}) (?).
 <LEND>

@@ -1,7 +1,7 @@
 <L>3046<pc>102<k1>captain<k2>captain
-<div n="lb"/>{@CAPTAIN:@}¦ <div n="I">I A chief: q. v.: {#अध्यक्षः।#} </div><div n="I">II A
-<div n="lb"/>military officer: {#*गुल्मपतिः#} {%or%} (in gen. sense)
-<div n="lb"/>{#सैन्याध्यक्षः#} <div n="xe">{%or%}</div> <div n="xs">{#सेनानीः।#}</div> </div><div n="I">III A naval officer
-<div n="lb"/>{#पोताध्यक्षः#} <div n="xe">{%or%}</div> <div n="xs">{#पोतनायकः।#}</div> </div><div n="I">IV A master of the
-<div n="lb"/>military art: v. General.</div>
+{@CAPTAIN:@}¦ <div n="I">I A chief: q. v.: {#अध्यक्षः।#} </div><div n="I">II A
+military officer: {#*गुल्मपतिः#} {%or%} (in gen. sense)
+{#सैन्याध्यक्षः#} <div n="xe">{%or%}</div> <div n="xs">{#सेनानीः।#}</div> </div><div n="I">III A naval officer
+{#पोताध्यक्षः#} <div n="xe">{%or%}</div> <div n="xs">{#पोतनायकः।#}</div> </div><div n="I">IV A master of the
+military art: v. General.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>3871<pc>127<k1>cloudy<k2>cloudy
-<div n="lb"/>{@CLOUDY:@}¦ <div n="I">I Lit., clouded: q. v.: </div><div n="1">(1) {#अम्रितः#}
-<div n="lb"/>({#ता, तं#}), R. iii. 12; </div><div n="1">(2) {#साभ्रः#} (f. {#भ्रा#}), Me.
-<div n="lb"/>ii. 29. Ph. <div n="xe">{%c. weather%}</div> <div n="xs">{#दुर्दिनम्।#}</div> </div><div n="I">II Fig., dark,
-<div n="lb"/>obscure: q. v.: {#तमोवृतः#} ({#ता, तं#}).</div>
+{@CLOUDY:@}¦ <div n="I">I Lit., clouded: q. v.: </div><div n="1">(1) {#अम्रितः#}
+({#ता, तं#}), R. iii. 12; </div><div n="1">(2) {#साभ्रः#} (f. {#भ्रा#}), Me.
+ii. 29. Ph. <div n="xe">{%c. weather%}</div> <div n="xs">{#दुर्दिनम्।#}</div> </div><div n="I">II Fig., dark,
+obscure: q. v.: {#तमोवृतः#} ({#ता, तं#}).</div>
 <LEND>

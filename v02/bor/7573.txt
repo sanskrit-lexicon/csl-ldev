@@ -1,13 +1,13 @@
 <L>7573<pc>239<k1>enemy<k2>enemy
-<div n="lb"/>{@ENEMY:@}¦ <div n="1">(1) {#शत्रुः,#} <div n="xe">{%who never made an e.:%}</div> <div n="xs">{#अजात-#}
-<div n="lb"/>{#शत्रुः,#}</div> Ve.; <div n="xe">{%a prostrate e.:%}</div> <div n="xs">{#चरणनिपतितः शत्रः,#}</div>
-<div n="lb"/>Mr.; </div><div n="1">(2) {#रिपुः,#} <div n="xe">{%attack on the e. s' side:%}</div> <div n="xs">{#रिपु-#}
-<div n="lb"/>{#पक्षाभियोगः,#}</div> Vi.; </div><div n="1">(3) {#वैरिन्#} (m.), {%great e.:%}
-<div n="lb"/>{#वैरिवरः,#} Ku.; </div><div n="1">(4) {#अरिः,#} {%to the e. of Namuchi%}
-<div n="lb"/>(i.e. Indra): {#नमुचेररये,#} R.; </div><div n="1">(5) {#अरातिः,#}
-<div n="lb"/><div n="xe">{%victory over the e. s:%}</div> <div n="xs">{#अरातिषु जयः,#}</div> Ki.; </div><div n="1">(6) {#द्विष्, #}
-<div n="lb"/>{# विद्विष्,#} <div n="xe">{%or%}</div> <div n="xs">{#द्विषत्#}</div> (n.), <div n="xe">{%e. s of gods:%}</div> <div n="xs">{#देवद्विषः,#}</div> Ku.;</div>
-<div n="lb"/><div n="1">(7) {#परः#} (an ambiguous term), <div n="xe">{%by stronger%}
-<div n="lb"/>{%e. s:%}</div> <div n="xs">{#बलवत्तरैः परैः,#}</div> Ku.; </div><div n="1">(8) {#परिपन्थिन्#} (m.)
-<div n="lb"/>(rare); </div><div n="1">(9) {#शात्रवः#} (rare): v. Opponent.</div>
+{@ENEMY:@}¦ <div n="1">(1) {#शत्रुः,#} <div n="xe">{%who never made an e.:%}</div> <div n="xs">{#अजात-#}
+{#शत्रुः,#}</div> Ve.; <div n="xe">{%a prostrate e.:%}</div> <div n="xs">{#चरणनिपतितः शत्रः,#}</div>
+Mr.; </div><div n="1">(2) {#रिपुः,#} <div n="xe">{%attack on the e. s' side:%}</div> <div n="xs">{#रिपु-#}
+{#पक्षाभियोगः,#}</div> Vi.; </div><div n="1">(3) {#वैरिन्#} (m.), {%great e.:%}
+{#वैरिवरः,#} Ku.; </div><div n="1">(4) {#अरिः,#} {%to the e. of Namuchi%}
+(i.e. Indra): {#नमुचेररये,#} R.; </div><div n="1">(5) {#अरातिः,#}
+<div n="xe">{%victory over the e. s:%}</div> <div n="xs">{#अरातिषु जयः,#}</div> Ki.; </div><div n="1">(6) {#द्विष्, #}
+{# विद्विष्,#} <div n="xe">{%or%}</div> <div n="xs">{#द्विषत्#}</div> (n.), <div n="xe">{%e. s of gods:%}</div> <div n="xs">{#देवद्विषः,#}</div> Ku.;</div>
+<div n="1">(7) {#परः#} (an ambiguous term), <div n="xe">{%by stronger%}
+{%e. s:%}</div> <div n="xs">{#बलवत्तरैः परैः,#}</div> Ku.; </div><div n="1">(8) {#परिपन्थिन्#} (m.)
+(rare); </div><div n="1">(9) {#शात्रवः#} (rare): v. Opponent.</div>
 <LEND>

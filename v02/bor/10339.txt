@@ -1,5 +1,5 @@
 <L>10339<pc>326<k1>groove<k2>groove
-<div n="lb"/>{@GROOVE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#रेखा#} (= line); </div><div n="1">(2)
-<div n="lb"/>{#प्रणाली#} (= canal). </div><div n="I">II Verb: {#रेखां#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणालीं #}
-<div n="lb"/>{# करोति#}</div> (?).</div>
+{@GROOVE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#रेखा#} (= line); </div><div n="1">(2)
+{#प्रणाली#} (= canal). </div><div n="I">II Verb: {#रेखां#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणालीं #}
+{# करोति#}</div> (?).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>13941<pc>428<k1>lute<k2>lute
-<div n="lb"/>{@LUTE:@}¦ <div n="1">(1) {#वीणा;#} </div><div n="1">(2) {#वल्लकी;#} </div><div n="1">(3) {#विपञ्ची;#} </div><div n="1">(4)
-<div n="lb"/>{#परिवादिनी।#} {%Its neck:%} </div><div n="1">(1) {#वीणादण्डः;#} </div><div n="1">(2) {#प्रवालः।#}
-<div n="lb"/>{%Its belly:%} </div><div n="1">(1) {#ककुमः;#} </div><div n="1">(2) {#प्रसेवकः।#} {%Its bow:%}
-<div n="lb"/>{#कोणः।#} <div n="xe">{%To play on the l:%}</div> <div n="xs">{#वीणां वादयति,#}</div> H. <div n="xe">{%To%}
-<div n="lb"/>{%play near God:%}</div> <div n="xs">{#ईश्वरमुपवीणयितुम्,:#}</div> R. viii. 33.</div>
+{@LUTE:@}¦ <div n="1">(1) {#वीणा;#} </div><div n="1">(2) {#वल्लकी;#} </div><div n="1">(3) {#विपञ्ची;#} </div><div n="1">(4)
+{#परिवादिनी।#} {%Its neck:%} </div><div n="1">(1) {#वीणादण्डः;#} </div><div n="1">(2) {#प्रवालः।#}
+{%Its belly:%} </div><div n="1">(1) {#ककुमः;#} </div><div n="1">(2) {#प्रसेवकः।#} {%Its bow:%}
+{#कोणः।#} <div n="xe">{%To play on the l:%}</div> <div n="xs">{#वीणां वादयति,#}</div> H. <div n="xe">{%To%}
+{%play near God:%}</div> <div n="xs">{#ईश्वरमुपवीणयितुम्,:#}</div> R. viii. 33.</div>
 <LEND>

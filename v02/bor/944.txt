@@ -1,6 +1,6 @@
 <L>944<pc>033<k1>applaud<k2>applaud
-<div n="lb"/>{@APPLAUD:@}¦ <div n="1">(1) {#प्रशंसति#} ({#शंस्,#} c. 1.) v. To praise;</div>
-<div n="lb"/><div n="1">(2) {#गायति, उपगायति#} ({#गै,#} c. 1.) Ki. xvii. 47.;</div>
-<div n="lb"/><div n="1">(3) {#वन्दते, परि-,#} ({#वन्द्,#} c. 1.), <div n="xe">{%a. ed by the chiefs%}
-<div n="lb"/>{%of the clans%}</div> <div n="xs">{#गणपतिभिः परिवन्दितेन,#}</div> Ki.</div>
+{@APPLAUD:@}¦ <div n="1">(1) {#प्रशंसति#} ({#शंस्,#} c. 1.) v. To praise;</div>
+<div n="1">(2) {#गायति, उपगायति#} ({#गै,#} c. 1.) Ki. xvii. 47.;</div>
+<div n="1">(3) {#वन्दते, परि-,#} ({#वन्द्,#} c. 1.), <div n="xe">{%a. ed by the chiefs%}
+{%of the clans%}</div> <div n="xs">{#गणपतिभिः परिवन्दितेन,#}</div> Ki.</div>
 <LEND>

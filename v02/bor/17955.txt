@@ -1,5 +1,5 @@
 <L>17955<pc>550<k1>pronoun<k2>pronoun
-<div n="lb"/>{@PRONOUN:@}¦ {#सर्वनामन्#} (n.); <div n="xe">{%personal, possessive,%}
-<div n="lb"/>{%relative, interrogative p.:%}</div> <div n="xs">{#पुरुषवाचकं, स्वत्वद्योतकं #}
-<div n="lb"/>{# सम्बन्धज्ञापकं, प्रश्नार्थकं सर्वनाम#}</div> (?).
+{@PRONOUN:@}¦ {#सर्वनामन्#} (n.); <div n="xe">{%personal, possessive,%}
+{%relative, interrogative p.:%}</div> <div n="xs">{#पुरुषवाचकं, स्वत्वद्योतकं #}
+{# सम्बन्धज्ञापकं, प्रश्नार्थकं सर्वनाम#}</div> (?).
 <LEND>

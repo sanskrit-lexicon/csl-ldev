@@ -1,4 +1,4 @@
 <L>8555<pc>271<k1>fecal<k2>fecal
-<div n="lb"/>{@FECAL:@}¦ expr. by comp., <div n="xe">{%f. ditch:%}</div> <div n="xs">{#अमेध्यखातम्;#}</div>
-<div n="lb"/><div n="xe">{%f. matter:%}</div> <div n="xs">{#मलम्:#}</div> v. Dung.
+{@FECAL:@}¦ expr. by comp., <div n="xe">{%f. ditch:%}</div> <div n="xs">{#अमेध्यखातम्;#}</div>
+<div n="xe">{%f. matter:%}</div> <div n="xs">{#मलम्:#}</div> v. Dung.
 <LEND>

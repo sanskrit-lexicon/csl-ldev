@@ -1,11 +1,11 @@
 <L>9982<pc>315<k1>glory<k2>glory
-<div n="lb"/>{@GLORY@}¦ (subs.): <div n="I">I Renown: q.v.: </div><div n="1">(1) {#कीर्तिः;#}</div>
-<div n="lb"/><div n="1">(2) {#यशस्#} (n.). Ph.: {%the g. of your fame:%}
-<div n="lb"/>{#सौभाग्यमात्मयशसः,#} Sa. vii. </div><div n="I">II Honour: q.v.:
-<div n="lb"/>{#गौरवम्।#} </div><div n="I">III Splendour: q.v.: </div><div n="1">(1) {#तेजस्#} (n.);</div>
-<div n="lb"/><div n="1">(2) {#प्रतापः।#} </div><div n="I">IV Pride: q.v.: {#अभिमानः।#} </div><div n="I">V
-<div n="lb"/>Praise: expr. by {#कीर्तयति।#} </div><div n="I">VI An orna-
-<div n="lb"/>-ment: </div><div n="1">(1) {#अलङ्कारः;#} </div><div n="1">(2) {#रत्नम्#} (= gem.); </div><div n="1">(3)
-<div n="lb"/>{#तिलकः#} (rare), <div n="xe">{%the g. of the race of Raghu:%}</div> <div n="xs">{#रधुकुल-#}
-<div n="lb"/>{#तिलकः,#}</div> Vi.</div>
+{@GLORY@}¦ (subs.): <div n="I">I Renown: q.v.: </div><div n="1">(1) {#कीर्तिः;#}</div>
+<div n="1">(2) {#यशस्#} (n.). Ph.: {%the g. of your fame:%}
+{#सौभाग्यमात्मयशसः,#} Sa. vii. </div><div n="I">II Honour: q.v.:
+{#गौरवम्।#} </div><div n="I">III Splendour: q.v.: </div><div n="1">(1) {#तेजस्#} (n.);</div>
+<div n="1">(2) {#प्रतापः।#} </div><div n="I">IV Pride: q.v.: {#अभिमानः।#} </div><div n="I">V
+Praise: expr. by {#कीर्तयति।#} </div><div n="I">VI An orna-
+-ment: </div><div n="1">(1) {#अलङ्कारः;#} </div><div n="1">(2) {#रत्नम्#} (= gem.); </div><div n="1">(3)
+{#तिलकः#} (rare), <div n="xe">{%the g. of the race of Raghu:%}</div> <div n="xs">{#रधुकुल-#}
+{#तिलकः,#}</div> Vi.</div>
 <LEND>

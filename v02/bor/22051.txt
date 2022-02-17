@@ -1,4 +1,4 @@
 <L>22051<pc>696<k1>sweetmeat<k2>sweetmeat
-<div n="lb"/>{@SWEETMEAT:@}¦ {#मिष्टान्नम्,#} <div n="xe">{%s. s and cakes:%}</div> <div n="xs">{#मिष्टान्नानि #}
-<div n="lb"/>{# तथापूपान्,#}</div> Ram.
+{@SWEETMEAT:@}¦ {#मिष्टान्नम्,#} <div n="xe">{%s. s and cakes:%}</div> <div n="xs">{#मिष्टान्नानि #}
+{# तथापूपान्,#}</div> Ram.
 <LEND>

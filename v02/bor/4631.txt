@@ -1,4 +1,4 @@
 <L>4631<pc>150<k1>contrariety<k2>contrariety
-<div n="lb"/>{@CONTRARIETY:@}¦ <div n="I">I Contrary state: {#वैपरीत्यम्।#}</div>
-<div n="lb"/><div n="I">II Inconsistency: {#विरोधः।#}</div>
+{@CONTRARIETY:@}¦ <div n="I">I Contrary state: {#वैपरीत्यम्।#}</div>
+<div n="I">II Inconsistency: {#विरोधः।#}</div>
 <LEND>

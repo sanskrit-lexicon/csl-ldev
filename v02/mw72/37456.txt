@@ -1,16 +1,16 @@
 <L>37456<pc>0780-a<k1>मिह्<k2>मिह्<h>1
 {#मिह्#} 1¦. {%mih,%} cl. 1. P. (in poetry also A.)
-<div n="lb"/>{%mehati (-te), mimeha, mekṣyati, ami-%}
-<div n="lb"/>{%kṣat, meḍhum,%} to make water, void or pass urine,
-<div n="lb"/>to rain down moisture, wet, moisten, sprinkle; to
-<div n="lb"/>emit seed or seminal fluid ({%= retaḥ-sekaṃ kṛ%}):
-<div n="lb"/>Caus. {%mehayati, -yitum,%} Aor. {%amīmihat,%} to cause
-<div n="lb"/>to make water, &c.: Desid. {%mimikṣati,%} to wish
-<div n="lb"/>to mix or stir up, to mix, unite, mix intimately [cf.
-<div n="lb"/>{%mikṣ%}]: Intens. {%memehyate;%} [cf. Gr. <lang n="greek">ὀ-μιχ-έ-ω,</lang>
-<div n="lb"/><lang n="greek">ὤμιξα, ὄ-μιχ-μα, ὀμίχ-λη, ὀμίχλη, μοιχ-ό-ς, μοιχ-ά-ω,</lang>
-<div n="lb"/><lang n="greek">μιαίνω, μιορός:</lang> Lat. <nsi>mi-n-g-o, mêj-o, mic-tu-s:</nsi>
-<div n="lb"/>Goth. <nsi>maihstu-s,</nsi> ‘dung:’ Angl. Sax. <nsi>mig, mîge,</nsi>
-<div n="lb"/><nsi>mâh, migon:</nsi> Mod. Germ. <nsi>Mist:</nsi> Iceland. <nsi>mig:</nsi>
-<div n="lb"/>Lith. <nsi>myz-u; mig-là,</nsi> ‘mist:’ Slav. <nsi>mĭg-la.</nsi>]
+{%mehati (-te), mimeha, mekṣyati, ami-%}
+{%kṣat, meḍhum,%} to make water, void or pass urine,
+to rain down moisture, wet, moisten, sprinkle; to
+emit seed or seminal fluid ({%= retaḥ-sekaṃ kṛ%}):
+Caus. {%mehayati, -yitum,%} Aor. {%amīmihat,%} to cause
+to make water, &c.: Desid. {%mimikṣati,%} to wish
+to mix or stir up, to mix, unite, mix intimately [cf.
+{%mikṣ%}]: Intens. {%memehyate;%} [cf. Gr. <lang n="greek">ὀ-μιχ-έ-ω,</lang>
+<lang n="greek">ὤμιξα, ὄ-μιχ-μα, ὀμίχ-λη, ὀμίχλη, μοιχ-ό-ς, μοιχ-ά-ω,</lang>
+<lang n="greek">μιαίνω, μιορός:</lang> Lat. <nsi>mi-n-g-o, mêj-o, mic-tu-s:</nsi>
+Goth. <nsi>maihstu-s,</nsi> ‘dung:’ Angl. Sax. <nsi>mig, mîge,</nsi>
+<nsi>mâh, migon:</nsi> Mod. Germ. <nsi>Mist:</nsi> Iceland. <nsi>mig:</nsi>
+Lith. <nsi>myz-u; mig-là,</nsi> ‘mist:’ Slav. <nsi>mĭg-la.</nsi>]
 <LEND>

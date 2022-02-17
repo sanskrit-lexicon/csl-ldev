@@ -1,4 +1,4 @@
 <L>611<pc>022<k1>almond<k2>almond
-<div n="lb"/>{@ALMOND:@}¦ {#वादामम्।#} <div n="xe">{%Bitter a.%}</div> <div n="xs">{#तिक्तवादामम्।#}</div> {%A. tree%}
-<div n="lb"/>{#वादामवृक्षः।#}
+{@ALMOND:@}¦ {#वादामम्।#} <div n="xe">{%Bitter a.%}</div> <div n="xs">{#तिक्तवादामम्।#}</div> {%A. tree%}
+{#वादामवृक्षः।#}
 <LEND>

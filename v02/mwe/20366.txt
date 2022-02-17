@@ -1,9 +1,9 @@
 <L>20366<pc>532-b<k1>niceness<k2>niceness
-<div n="lb"/>NICENESS¦, NICETY, {%s.%} (Delicacy, deliciousness) {#स्वादुता, सुरसत्वं,#}
-<div n="lb"/>{#सौरस्यं, मिष्टता#}. — (Pleasantness) {#रुचिरता, रुच्यता, रम्यता, रमणी-#}
-<div n="lb"/>{#यता#}. — (Exactness) {#सूक्ष्मता -त्वं, सौक्ष्म्यं, सामञ्जस्यं, सम्यक्त्वं, शुद्धता#}.
-<div n="lb"/> — (Over-exactness or scrupulousness) {#अतिसूक्ष्मता, अतिसौक्ष्म्यं#}.
-<div n="lb"/> — (Delicacy of perception or judgment) {#सूक्ष्मदृष्टिः#} {%f.%} {#-ष्टित्वं,#}
-<div n="lb"/>{#सूक्ष्ममतित्वं, कुशाग्रीयमतित्वं, कुशाग्रबुद्धित्वं#}. — (Delicacy of manage-
-<div n="lb"/>ment) {#युक्तिः#} {%f.,%} {#सुयुक्तिः#} {%f.,%} {#लाघवं, सुनीतिः#} {%f.%}
+NICENESS¦, NICETY, {%s.%} (Delicacy, deliciousness) {#स्वादुता, सुरसत्वं,#}
+{#सौरस्यं, मिष्टता#}. — (Pleasantness) {#रुचिरता, रुच्यता, रम्यता, रमणी-#}
+{#यता#}. — (Exactness) {#सूक्ष्मता -त्वं, सौक्ष्म्यं, सामञ्जस्यं, सम्यक्त्वं, शुद्धता#}.
+ — (Over-exactness or scrupulousness) {#अतिसूक्ष्मता, अतिसौक्ष्म्यं#}.
+ — (Delicacy of perception or judgment) {#सूक्ष्मदृष्टिः#} {%f.%} {#-ष्टित्वं,#}
+{#सूक्ष्ममतित्वं, कुशाग्रीयमतित्वं, कुशाग्रबुद्धित्वं#}. — (Delicacy of manage-
+ment) {#युक्तिः#} {%f.,%} {#सुयुक्तिः#} {%f.,%} {#लाघवं, सुनीतिः#} {%f.%}
 <LEND>

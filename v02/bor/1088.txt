@@ -1,3 +1,3 @@
 <L>1088<pc>038<k1>armoury<k2>armoury
-<div n="lb"/>{@ARMOURY:@}¦ <div n="1">(1) {#आयुधागारम्;#} </div><div n="1">(2) {#शस्त्रगृहम्।#}</div>
+{@ARMOURY:@}¦ <div n="1">(1) {#आयुधागारम्;#} </div><div n="1">(2) {#शस्त्रगृहम्।#}</div>
 <LEND>

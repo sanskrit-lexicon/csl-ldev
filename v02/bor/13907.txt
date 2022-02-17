@@ -1,8 +1,8 @@
 <L>13907<pc>427<k1>lunar<k2>lunar
-<div n="lb"/>{@LUNAR:@}¦ <div n="1">(1) by comp., <div n="xe">{%l. eclipse:%}</div> <div n="xs">{#चन्द्रग्रहणम्;#}</div>
-<div n="lb"/><div n="xe">{%the l. dynasty:%}</div> <div n="xs">{#चन्द्रवंशः;#}</div> </div><div n="1">(2) {#चान्द्रः#} ({#न्द्री, न्द्रं#});</div>
-<div n="lb"/><div n="1">(3) {#चान्द्रमसः#} ({#सी, सं#}); </div><div n="1">(4) {#ऐन्दवः#} ({#वी, वं#}),
-<div n="lb"/><div n="xe">{%l. month:%}</div> <div n="xs">{#ऐन्दवो मासः,#}</div> Go. <div n="xe">{%A l. day:%}</div> <div n="xs">{#तिथिः;#}</div> <div n="xe">{%the%}
-<div n="lb"/>{%2nd. 3rd. 11th. l. day:%}</div> <div n="xs">{#द्वितीया, तृतीया, एकादशी,#}</div>
-<div n="lb"/>etc.</div>
+{@LUNAR:@}¦ <div n="1">(1) by comp., <div n="xe">{%l. eclipse:%}</div> <div n="xs">{#चन्द्रग्रहणम्;#}</div>
+<div n="xe">{%the l. dynasty:%}</div> <div n="xs">{#चन्द्रवंशः;#}</div> </div><div n="1">(2) {#चान्द्रः#} ({#न्द्री, न्द्रं#});</div>
+<div n="1">(3) {#चान्द्रमसः#} ({#सी, सं#}); </div><div n="1">(4) {#ऐन्दवः#} ({#वी, वं#}),
+<div n="xe">{%l. month:%}</div> <div n="xs">{#ऐन्दवो मासः,#}</div> Go. <div n="xe">{%A l. day:%}</div> <div n="xs">{#तिथिः;#}</div> <div n="xe">{%the%}
+{%2nd. 3rd. 11th. l. day:%}</div> <div n="xs">{#द्वितीया, तृतीया, एकादशी,#}</div>
+etc.</div>
 <LEND>

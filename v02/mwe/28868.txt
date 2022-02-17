@@ -1,5 +1,5 @@
 <L>28868<pc>790-a<k1>surname<k2>surname
-<div n="lb"/>SURNAME¦, {%s.%} {#पद्धतिः -ती#} {%f.,%} {#कुलनाम#} {%n.%} {#(न्), उपनाम#} {%n.,%} {#उपपदं, रूढिः#} {%f.%}
-<div n="lb"/>Examples of surnames in Sanskrit are {#शर्म्मन्#} in {#विष्णुशर्म्मन्,#}
-<div n="lb"/>and {#दासः#} in {#कालिदासः#}.
+SURNAME¦, {%s.%} {#पद्धतिः -ती#} {%f.,%} {#कुलनाम#} {%n.%} {#(न्), उपनाम#} {%n.,%} {#उपपदं, रूढिः#} {%f.%}
+Examples of surnames in Sanskrit are {#शर्म्मन्#} in {#विष्णुशर्म्मन्,#}
+and {#दासः#} in {#कालिदासः#}.
 <LEND>

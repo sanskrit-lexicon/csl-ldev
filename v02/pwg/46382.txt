@@ -23,7 +23,7 @@
 <ls>R. 2, 51, 5.</ls> {#एवं ते पूजिताः सर्वे कामै रत्नैश्च पुष्कलैः#} 
 <ls>6, 112, 97.</ls> {#धर्मावाप्तिं च महतीमर्थसिद्धिं च पुष्कलाम्#} 
 <ls>R. GORR. 2, 48, 5.</ls> {#मुद्, हर्ष, प्रीति#} 
-<ls>MBH. 1, 1188. 2877. 4, 207.</ls> {#कीर्ति#} 
+<ls>MBH. 1, 1188.</ls> <ls n="MBH. 1,">2877.</ls> <ls n="MBH.">4, 207.</ls> {#कीर्ति#} 
 <ls>13, 2948.</ls> {#ख्याति#} 
 <ls>M. 12, 36.</ls> {#अपमान#} 
 <ls>Spr. 173, v. l.</ls> {#भोग#} 
@@ -43,7 +43,7 @@
 <ls>PAÑCAV. BR. 8, 5, 8.</ls> {#लोकानाप्नोति पुष्कलान्#} 
 <ls>M. 8, 81.</ls> 
 <ls>YĀJÑ. 1, 213.</ls> 
-<ls>MBH. 1, 8343. 13, 4882.</ls> {#विधानमाज्ञाप्य पुरस्य पुष्कलम्#} 
+<ls>MBH. 1, 8343.</ls> <ls n="MBH.">13, 4882.</ls> {#विधानमाज्ञाप्य पुरस्य पुष्कलम्#} 
 <ls>R. 6, 12, 22.</ls> {#द्विजशुश्रूषया राज्यं द्विजत्वं चापि पुष्कलम् (प्राप्नोति)#} 
 <ls>MBH. 13, 2944.</ls> {#परिषेकाः#} 
 <ls>2779.</ls> {#ततो यतेत कुशलः क्षेमाय भवमाश्रितः । शरीरं पौरुषं यावन्न विपद्येत पुष्कलम् ॥#} so v. a. {%in voller Kraft seiend (le premier de tous les corps%} 
@@ -62,12 +62,12 @@
 <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> Nach <ls>JAṬĀDH.</ls> ist das eine und das andere synonym mit {#शोधित#} {%gereinigt.%} 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%eine Art Trommel%} (vgl. {#पुष्कर#} 6.): {#अवादयन्दुन्दुभीश्च शतशश्चैव पुष्कलान्#} 
-<ls>MBH. 6, 1631. 1637.</ls> {#ततः प्रयाते दाशार्हे प्रावाद्यन्तैकपुष्कलाः#} (lies: {#प्रावाद्यन्तैव पु°#}) 
+<ls>MBH. 6, 1631.</ls> <ls n="MBH. 6,">1637.</ls> {#ततः प्रयाते दाशार्हे प्रावाद्यन्तैकपुष्कलाः#} (lies: {#प्रावाद्यन्तैव पु°#}) 
 <ls>5, 3350.</ls> 
 <div n="2">— b) N. pr. eines Sohnes des <is>Varuṇa</is> (vgl. u. {#पुष्कर#} 
 <ls>27.</ls>) <ls>ŚABDĀRTHAK.</ls> bei <ls>WILS.</ls> Bein. <is>Śiva's</is> (vgl. u. {#पुष्कर#} 
 <ls>27.</ls>) <ls>ŚIV.</ls> eines <is>Asura</is> (neben {#पुष्कर#}) 
-<ls>HARIV. 2282. 14283.</ls> vielleicht hierher: {#°विजय, °मोचन#} 
+<ls>HARIV. 2282.</ls> <ls n="HARIV.">14283.</ls> vielleicht hierher: {#°विजय, °मोचन#} 
 <ls>PADMA-P.</ls> in <ls>Verz. d. Oxf. H. 13,b,</ls> <ls>KAP. 52. 68. 69. 78.</ls> N. pr. eines Sohnes des <is>Bharata</is> (vgl. u. {#पुष्कर#} 
 <ls>27.</ls>) <ls>RAGH. 15, 89.</ls> <ls>BHĀG. P. 9, 11, 12.</ls> N. pr. eines <is>Ṛṣi</is> 
 <ls>Verz. d. B. H. No. 316.</ls> eines <is>Buddha</is> 
@@ -85,8 +85,8 @@
 <ls>KULL.</ls> zu <ls>M. 7, 126.</ls> nach dem Schol. zu <ls>KĀTY. ŚR. 25, 5, 18</ls>, wo das Wort vorkommt, auch {%ein best. Gewicht Gold.%} 
 <div n="2">— b) nach 
 <ls>ŚKDR.</ls> und <ls>WILS.</ls> {%vier Mundvoll erbettelter Speise%}, mit folgendem Beleg (im 
-<ls>ŚKDR.</ls><ls>?) aus dem KAURMA-P.</ls> {#(कौर्मे उपरिभागे ३१ अध्यायः): भिक्षामाहुर्ग्रासमात्रमन्नं तस्माच्चतुर्गुणम् । पुष्कलं हन्तकारं तु तच्चतुर्गुणमुच्यते ॥#} 
+<ls>ŚKDR.</ls>) <ls>aus dem</ls> <ls>KAURMA-P.</ls> {#(कौर्मे उपरिभागे ३१ अध्यायः): भिक्षामाहुर्ग्रासमात्रमन्नं तस्माच्चतुर्गुणम् । पुष्कलं हन्तकारं तु तच्चतुर्गुणमुच्यते ॥#} 
 <div n="2">— c) N. pr. eines berühmten Wallfahrtsortes, = {#पुष्कर#} 
-<ls>?25. ŚABDĀRTHAK. bei WILSON</ls> (angeblich masc.). 
+<ls>25.</ls> <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON</ls> (angeblich masc.). 
 <div n="v">— Vgl. {#पौष्कल, पौष्कलेयक, पौष्कल्य#} .
 <LEND>

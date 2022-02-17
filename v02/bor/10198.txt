@@ -1,5 +1,5 @@
 <L>10198<pc>322<k1>graphic<k2>graphic
-<div n="lb"/>{@GRAPHIC, -AL:@}¦ <div n="1">(1) {#विचित्रः#} ({#त्रा, त्रं#}) (= pictures-
-<div n="lb"/>-que); </div><div n="1">(2) {#सुस्पष्टः#} ({#ष्टा, ष्टं#}) (= very clear);</div>
-<div n="lb"/><div n="1">(3) {#अर्थवत्#} (f. {#ती#}) (= significant).</div>
+{@GRAPHIC, -AL:@}¦ <div n="1">(1) {#विचित्रः#} ({#त्रा, त्रं#}) (= pictures-
+-que); </div><div n="1">(2) {#सुस्पष्टः#} ({#ष्टा, ष्टं#}) (= very clear);</div>
+<div n="1">(3) {#अर्थवत्#} (f. {#ती#}) (= significant).</div>
 <LEND>

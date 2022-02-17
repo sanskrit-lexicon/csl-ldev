@@ -1,10 +1,10 @@
 <L>20809<pc>653<k1>smash<k2>smash
-<div n="lb"/>{@SMASH@}¦ (v.): <div n="1">(1) {#मथ्नाति#} ({#मन्थ्,#} c. 9.), <div n="xe">{%shall I%}
-<div n="lb"/>{%not s. the hundred Kauravas:%}</div> <div n="xs">{#मथ्नामि न कौरवशतम्,#}</div>
-<div n="lb"/>Ve. i. 15.; <div n="xe">{%of s. ing misfortunes:%}</div> <div n="xs">{#प्रमाथिनीनां #}
-<div n="lb"/>{# विपदाम्,#}</div> Ki. iii. 14.; </div><div n="1">(2) {#मृद्नाति, अव-, परि-, सं-, #}
-<div n="lb"/>{# अभि-,#} ({#मृद्,#} c. 9.), <div n="xe">{%s. ed their armies:%}</div> <div n="xs">{#बलान्यभृद्रात्,#}</div>
-<div n="lb"/>R. xviii. 5.; </div><div n="1">(3) {#दलयति#} <div n="xe">{%or%}</div> <div n="xs">{#दालयति, वि-, #}
-<div n="lb"/>{# परि-,#}</div> ({#दल्,#} c. 10.), <div n="xe">{%s. ed his head:%}</div> <div n="xs">{#मूर्द्धानमदालयत्,#}</div>
-<div n="lb"/>B.; </div><div n="1">(4) {#पोथयति, अव-,#} ({#पुथ्,#} c. 10.), Mah.</div>
+{@SMASH@}¦ (v.): <div n="1">(1) {#मथ्नाति#} ({#मन्थ्,#} c. 9.), <div n="xe">{%shall I%}
+{%not s. the hundred Kauravas:%}</div> <div n="xs">{#मथ्नामि न कौरवशतम्,#}</div>
+Ve. i. 15.; <div n="xe">{%of s. ing misfortunes:%}</div> <div n="xs">{#प्रमाथिनीनां #}
+{# विपदाम्,#}</div> Ki. iii. 14.; </div><div n="1">(2) {#मृद्नाति, अव-, परि-, सं-, #}
+{# अभि-,#} ({#मृद्,#} c. 9.), <div n="xe">{%s. ed their armies:%}</div> <div n="xs">{#बलान्यभृद्रात्,#}</div>
+R. xviii. 5.; </div><div n="1">(3) {#दलयति#} <div n="xe">{%or%}</div> <div n="xs">{#दालयति, वि-, #}
+{# परि-,#}</div> ({#दल्,#} c. 10.), <div n="xe">{%s. ed his head:%}</div> <div n="xs">{#मूर्द्धानमदालयत्,#}</div>
+B.; </div><div n="1">(4) {#पोथयति, अव-,#} ({#पुथ्,#} c. 10.), Mah.</div>
 <LEND>

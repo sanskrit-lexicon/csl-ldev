@@ -19,9 +19,9 @@
 <ls>ĀŚV. ŚR. 9, 3, 6.</ls> {#आदि°#} 
 <ls>NIR. 2, 1.</ls> {#अ°#} 
 <ls>5, 26. 6, 1.</ls> {#आद्यन्त°#} 
-<ls>?2, 1. P. 3, 1, 123, Schol. LĀṬY. 6, 5, 29. ŚĀṄKH. ŚR. 4, 6, 3.</ls> {#नमो नारायणायेति विपर्ययमथापि वा#} 
+<ls>2, 1.</ls> <ls>P. 3, 1, 123, Schol.</ls> <ls>LĀṬY. 6, 5, 29.</ls> <ls>ŚĀṄKH. ŚR. 4, 6, 3.</ls> {#नमो नारायणायेति विपर्ययमथापि वा#} 
 <ls>BHĀG. P. 6, 8, 5.</ls> {#आलिङ्गने चरौ#} (so die ed. Bomb.) {#चैव चक्रतुस्ते विपर्ययम्#} 
-<ls>MBH. 3, 11061</ls> <ls>(S. 571).</ls> {#विपर्ययं न कुर्वीत वाससः#} 
+<ls>MBH. 3, 11061</ls> (<ls>S. 571</ls>). {#विपर्ययं न कुर्वीत वाससः#} 
 <ls>13, 5040.</ls> <ls>HARIV. 535</ls> ({#विपर्ययः#} die neuere Ausg.). {#वायोः#} {%Veränderung des Windes%} 
 <ls>VARĀH. BṚH. S. 21, 13.</ls> {#गन्धरस°#} 
 <ls>46, 50.</ls> {#सोम°#} 
@@ -34,12 +34,12 @@
 <ls>SUŚR. 2, 154, 16. 413, 2.</ls> {#लिङ्ग°#} 
 <ls>WEBER, RĀMAT. UP. 336.</ls> <ls>BHĀG. P. 9, 1, 27.</ls> {#द्रव्य°#} als Bedeutung von {#क्री#} 
 <ls>VOP. 16</ls>, Anf. {#क्रियाकारकफलभेदादिविपर्ययेण#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 16.</ls> {#विपर्ययो न तेष्वस्ति#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 16.</ls> {#विपर्ययो न तेष्वस्ति#} 
 <ls>MĀRK. P. 53, 37.</ls> {#संधिविपर्ययौ#} {%Friede und sein Gegentheil%} d. i. {%Krieg%} 
 <ls>M. 7, 65.</ls> {#संयोगविपर्ययौ#} {%Verbindung und Trennung%} 
 <ls>RAGH. 8, 88.</ls> 
 <ls>ṚV. PRĀT. 6, 12.</ls> <ls n="ṚV. PRĀT.">11, 24.</ls> <ls n="ṚV. PRĀT.">14, 25.</ls> <ls n="ṚV. PRĀT. 14,">27.</ls> 
-<ls>MBH. 3, 2286. 5, 1646.</ls> 
+<ls>MBH. 3, 2286.</ls> <ls n="MBH.">5, 1646.</ls> 
 <ls>R. 2, 22, 20.</ls> 
 <ls>Spr. 4364. 4912. 5152.</ls> 
 <ls>SUŚR. 1, 118, 8. 236, 3. 2, 558, 12.</ls> 
@@ -60,13 +60,13 @@
 <ls>BHĀG. P. 7, 5, 9.</ls> {#विपर्यये#} {%im umgekehrten Falle%} 
 <ls>ṚV. PRĀT. 1, 20.</ls> <ls n="ṚV. PRĀT.">2, 3.</ls> <ls n="ṚV. PRĀT.">16, 38.</ls> 
 <ls>M. 4, 235.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 51, 20. 3, 45, 9</ls> ({#विपर्यये न#} zu schreiben). 
+
+<ls>R. GORR. 2, 51, 20. 3, 45, 9</ls> ({#विपर्यये न#} zu schreiben). 
 <ls>SUŚR. 1, 124, 2.</ls> 
 <ls>Spr. (II) 1006.</ls> 
 <ls>ŚĀK. 71, 13.</ls> {#विपर्ययेण#} dass. 
 <ls>ṚV. PRĀT. 14, 16.</ls> 
-<ls>MBH. 12, 1734. 13, 491.</ls> {#विपर्ययात्#} dass. 
+<ls>MBH. 12, 1734.</ls> <ls n="MBH.">13, 491.</ls> {#विपर्ययात्#} dass. 
 <ls>VARĀH. BṚH. 4, 5.</ls> 
 <div n="2">— d) {%ein Umschlagen zum Schlimmern, Verschlimmerung, schlimme Wendung%}: {#लक्ष्म्या विपर्यये#} 
 <ls>R. 2, 22, 20.</ls> {#कार्यमेति विपर्ययम्#} {%nimmt einen schlechten Ausgang%} 
@@ -77,7 +77,7 @@
 <ls>72, 28.</ls> <ls>VIKR. 63, 19.</ls> <ls>Spr. 2586.</ls> <ls>RĀJA-TAR. 1, 198. 4, 352. 619.</ls> {#दशाभाग्य°#} 
 <ls>R. 5, 75, 17. 7, 30, 31</ls> (hier {#भाग#} st. {#भाग्य)#}.{# विधि°#} {%ein widerwärtiges Geschick, Unglück%} 
 <ls>VIKR. 69, 9.</ls> {#अर्थ°#} {%eine Verkehrung der Vermögensverhältnisse, Verlust des Vermögens%} 
-<ls>Spr. 1804 (II). 4190.</ls> {#लङ्का°#} {%der Unfall%} (=  {#नाश#}
+<ls>Spr. 1804 (II). 4190.</ls> {#लङ्का°#} {%der Unfall%} (= {#नाश#}
 [Page6-1105]
 Comm.) {%mit%} <is>Laṅkā</is> 
 <ls>R. 7, 6, 50.</ls> {#प्रवहण°#} 
@@ -104,7 +104,7 @@ Comm.) {%mit%} <is>Laṅkā</is>
 <ls>TARKAS. 52.</ls> {#अतस्मिंस्तद्बुद्धिर्विपर्ययः#} 
 <ls>SARVADARŚANAS. 166, 16.</ls> <ls>VEDĀNTAS. (Allah.) No. 142.</ls> <ls>BHĀG. P. 3, 7, 10. 4, 14, 29. 7, 12, 10.</ls> {#अविपर्ययात्#} {%ohne Irrthum, ganz sicher, ohne allen Zweifel%} 
 <ls>SĀṂKHYAK. 64.</ls> {#विपर्ययः संशयो ऽविपर्ययादसंशयात्#} Comm. 
-<div n="2">— h) {%das Vermeiden, Entgehen%} (=  {#परिहार#} Comm.): {#शूलस्य#} 
+<div n="2">— h) {%das Vermeiden, Entgehen%} (= {#परिहार#} Comm.): {#शूलस्य#} 
 <ls>R. 7, 63, 31.</ls> 
 <div n="2">— i) {%das Währen, Dauern (?)%}: {#यावन्मोहविपर्ययात्#} 
 <ls>R. 6, 21, 35.</ls> 

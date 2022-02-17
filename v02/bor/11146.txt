@@ -1,11 +1,11 @@
 <L>11146<pc>350<k1>honourable<k2>honourable
-<div n="lb"/>{@HONOURABLE:@}¦ <div n="I">I Possessing a high mind:
-<div n="lb"/>{#मानिन्#} (f. {#नी#}). </div><div n="I">II Illustrious, respected:</div>
-<div n="lb"/><div n="1">(1) {#मान्य#} (f. {#न्या#}) <div n="xe">{%or%}</div> <div n="xs">{#माननीयः#}</div> ({#या, यं#}), {#सम्-;#}</div>
-<div n="lb"/><div n="1">(2) {#पूज्य#} (f. {#ज्या#}) <div n="xe">{%or%}</div> <div n="xs">{#पूजनीयः#}</div> ({#या, यं#}), {%I have%}
-<div n="lb"/>{%been commanded by h. sir%} ({%you%}): {#पूज्येनाहमादिष्टः,#}
-<div n="lb"/>Mah.: v. Respectable. </div><div n="I">III Conferring
-<div n="lb"/>honour: {#सम्मानकरः#} ({#री, रं#}) and sim. comp.s.:
-<div n="lb"/>v. Also famous. </div><div n="I">IV Good, noble: q.v.:
-<div n="lb"/>{#शुद्ध#} (f. {#द्धा#}).</div>
+{@HONOURABLE:@}¦ <div n="I">I Possessing a high mind:
+{#मानिन्#} (f. {#नी#}). </div><div n="I">II Illustrious, respected:</div>
+<div n="1">(1) {#मान्य#} (f. {#न्या#}) <div n="xe">{%or%}</div> <div n="xs">{#माननीयः#}</div> ({#या, यं#}), {#सम्-;#}</div>
+<div n="1">(2) {#पूज्य#} (f. {#ज्या#}) <div n="xe">{%or%}</div> <div n="xs">{#पूजनीयः#}</div> ({#या, यं#}), {%I have%}
+{%been commanded by h. sir%} ({%you%}): {#पूज्येनाहमादिष्टः,#}
+Mah.: v. Respectable. </div><div n="I">III Conferring
+honour: {#सम्मानकरः#} ({#री, रं#}) and sim. comp.s.:
+v. Also famous. </div><div n="I">IV Good, noble: q.v.:
+{#शुद्ध#} (f. {#द्धा#}).</div>
 <LEND>

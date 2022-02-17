@@ -1,6 +1,6 @@
 <L>491<pc>019<k1>ague<k2>ague
-<div n="lb"/>{@AGUE:@}¦ <div n="I">I An intermittent fever: </div><div n="1">(1) {#विषमज्वरः;#}</div>
-<div n="lb"/><div n="1">(2) {#कम्पज्वरः:#} <div n="xe">{%a quotidian a.%}</div> <div n="xs">{#अन्येद्युष्कः#}</div>, <div n="xe">{%a tertian%}
-<div n="lb"/>{%a.%}</div> <div n="xs">{#तृतीयकः,#}</div> <div n="xe">{%a quartan a.%}</div> <div n="xs">{#चतुर्थकः#}</div> Sr. </div><div n="I">II
-<div n="lb"/>The ague-fit: </div><div n="1">(1) {#वेपथुः;#} </div><div n="1">(2) {#कम्पः।#}</div>
+{@AGUE:@}¦ <div n="I">I An intermittent fever: </div><div n="1">(1) {#विषमज्वरः;#}</div>
+<div n="1">(2) {#कम्पज्वरः:#} <div n="xe">{%a quotidian a.%}</div> <div n="xs">{#अन्येद्युष्कः#}</div>, <div n="xe">{%a tertian%}
+{%a.%}</div> <div n="xs">{#तृतीयकः,#}</div> <div n="xe">{%a quartan a.%}</div> <div n="xs">{#चतुर्थकः#}</div> Sr. </div><div n="I">II
+The ague-fit: </div><div n="1">(1) {#वेपथुः;#} </div><div n="1">(2) {#कम्पः।#}</div>
 <LEND>

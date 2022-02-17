@@ -1,3 +1,3 @@
 <L>1198<pc>042<k1>aspiration<k2>aspiration
-<div n="lb"/>{@ASPIRATION:@}¦ <div n="1">(1) {#आकाङ्क्षा;#} </div><div n="1">(2) {#स्पृहा;#} </div><div n="1">(3) {#लालसा।#}</div>
+{@ASPIRATION:@}¦ <div n="1">(1) {#आकाङ्क्षा;#} </div><div n="1">(2) {#स्पृहा;#} </div><div n="1">(3) {#लालसा।#}</div>
 <LEND>

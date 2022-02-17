@@ -1,7 +1,7 @@
 <L>20803<pc>653<k1>smart<k2>smart
-<div n="lb"/>{@SMART@}¦ (adj.): <div n="I">I Sharp: q. v.: {#तीक्ष्ण#} (f. {#क्ष्णा#}),</div>
-<div n="lb"/><div n="I">II Cunning, skilful: q. v.: {#चतुर#} (f. {#रा#}).</div>
-<div n="lb"/><div n="I">III Witty: </div><div n="1">(1) {#रसिक#} (f. {#का#}); </div><div n="1">(2) {#सरस#}
-<div n="lb"/>(f. {#सा#}). </div><div n="I">IV Elegant, lively: q. v.: {#प्रफुल्ल#}
-<div n="lb"/>(f. {#ल्ला#}).</div>
+{@SMART@}¦ (adj.): <div n="I">I Sharp: q. v.: {#तीक्ष्ण#} (f. {#क्ष्णा#}),</div>
+<div n="I">II Cunning, skilful: q. v.: {#चतुर#} (f. {#रा#}).</div>
+<div n="I">III Witty: </div><div n="1">(1) {#रसिक#} (f. {#का#}); </div><div n="1">(2) {#सरस#}
+(f. {#सा#}). </div><div n="I">IV Elegant, lively: q. v.: {#प्रफुल्ल#}
+(f. {#ल्ला#}).</div>
 <LEND>

@@ -1,13 +1,13 @@
 <L>82<pc>004<k1>absolute<k2>absolute
-<div n="lb"/>{@ABSOLUTE@}¦ (adj.): <div n="I">I Perfect: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#नित्यः#} ({#त्या, त्यं#}) (=eternal, sometimes used
-<div n="lb"/>with the same force): <div n="xe">{%it is admitted by all%}
-<div n="lb"/>{%assertors of final emancipation that it is a.%}</div>
-<div n="lb"/><div n="xs">{#नित्यश्च मोक्षः सर्वैर्मीक्षवादिभिरुपगम्यते,#}</div> S. I. 4.; </div><div n="1">(2)
-<div n="lb"/>{#परमः#} ({#मा, मं#}) (=excellent, q. v.). </div><div n="I">II
-<div n="lb"/>Unconditional, uncontrolled: q. v.: Ph.:
-<div n="lb"/><div n="xe">{%for fate has a. power%}</div> <div n="xs">{#सर्वथा प्रमवति हि मगवान् #}
-<div n="lb"/>{# विधिः,#}</div> K. iii. Not relative: {#केवलः#} ({#ला, लं#})
-<div n="lb"/>(?) <div n="xe">{%the recent philosophy of a. the%}</div> <div n="xs">{#*आधुनिक-#}
-<div n="lb"/>{#कैवल्यदर्शनम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-विञ्जानम्।#}</div></div>
+{@ABSOLUTE@}¦ (adj.): <div n="I">I Perfect: q. v.: </div><div n="1">(1)
+{#नित्यः#} ({#त्या, त्यं#}) (=eternal, sometimes used
+with the same force): <div n="xe">{%it is admitted by all%}
+{%assertors of final emancipation that it is a.%}</div>
+<div n="xs">{#नित्यश्च मोक्षः सर्वैर्मीक्षवादिभिरुपगम्यते,#}</div> S. I. 4.; </div><div n="1">(2)
+{#परमः#} ({#मा, मं#}) (=excellent, q. v.). </div><div n="I">II
+Unconditional, uncontrolled: q. v.: Ph.:
+<div n="xe">{%for fate has a. power%}</div> <div n="xs">{#सर्वथा प्रमवति हि मगवान् #}
+{# विधिः,#}</div> K. iii. Not relative: {#केवलः#} ({#ला, लं#})
+(?) <div n="xe">{%the recent philosophy of a. the%}</div> <div n="xs">{#*आधुनिक-#}
+{#कैवल्यदर्शनम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-विञ्जानम्।#}</div></div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>6803<pc>217<k1>dose<k2>dose
-<div n="lb"/>{@DOSE@}¦ (subs.): expr. by circumlo., <div n="xe">{%should give%}
-<div n="lb"/>{%this medicine in d. s of three rattis:%}</div> <div n="xs">{#रसमिमं रत्तिका-#}
-<div n="lb"/>{#त्रयमितं दद्यात्,#}</div> Bha.; <div n="xe">{%should increase the d.%}
-<div n="lb"/>{%everyday by one ratti:%}</div> <div n="xs">{#प्रतिदिनं तस्यैकैकां रत्तिकां #}
-<div n="lb"/>{# वर्द्धयेत्,#}</div> Bha.
+{@DOSE@}¦ (subs.): expr. by circumlo., <div n="xe">{%should give%}
+{%this medicine in d. s of three rattis:%}</div> <div n="xs">{#रसमिमं रत्तिका-#}
+{#त्रयमितं दद्यात्,#}</div> Bha.; <div n="xe">{%should increase the d.%}
+{%everyday by one ratti:%}</div> <div n="xs">{#प्रतिदिनं तस्यैकैकां रत्तिकां #}
+{# वर्द्धयेत्,#}</div> Bha.
 <LEND>

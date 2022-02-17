@@ -1,13 +1,13 @@
 <L>2776<pc>093<k1>burden<k2>burden
-<div n="lb"/>{@BURDEN@}¦ (subs.): <div n="I">I Load: </div><div n="1">(1) {#भारः,#} {%b. of state%}
-<div n="lb"/>{#राज्यभारः,#} K.; {%what b. is great to the able%}
-<div n="lb"/>{#कोऽतिभारः समर्थानाम्,#} H. iii.; </div><div n="1">(2) {#धुर्#} (f.), <div n="xe">{%a beast%}
-<div n="lb"/>{%of b.%}</div> <div n="xs">{#धुर्यः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#धुरोणः;#}</div> </div><div n="1">(3) {#भरः,#} <div n="xe">{%all b. placed on a%}
-<div n="lb"/>{%worthy minister%}</div> <div n="xs">{#योग्यसचिवे न्यस्तः समस्तो भारः।#}</div> Ra.
-<div n="lb"/>i. Ph. <div n="xe">{%the b. of proof:%}</div> <div n="xs">{#प्रमाणभारः।#}</div> </div><div n="I">II Taxes,
-<div n="lb"/>pecuniary imposts: q. v.: <div n="xe">{%unable to bear the%}
-<div n="lb"/>{%b. s%}</div> <div n="xs">{#करभारासहाः,#}</div> V. p. </div><div n="I">III The capacity of
-<div n="lb"/>a ship: Ph. <div n="xe">{%a boat of 100 maunds b.%}</div> <div n="xs">{#*शतमण-#}
-<div n="lb"/>{#वाहिनी नौः।#}</div> </div><div n="I">IV. B. of a song: </div><div n="1">(1) {#ध्रुवकम्;#}</div>
-<div n="lb"/><div n="1">(2) {#अनुपदम्।#}</div>
+{@BURDEN@}¦ (subs.): <div n="I">I Load: </div><div n="1">(1) {#भारः,#} {%b. of state%}
+{#राज्यभारः,#} K.; {%what b. is great to the able%}
+{#कोऽतिभारः समर्थानाम्,#} H. iii.; </div><div n="1">(2) {#धुर्#} (f.), <div n="xe">{%a beast%}
+{%of b.%}</div> <div n="xs">{#धुर्यः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#धुरोणः;#}</div> </div><div n="1">(3) {#भरः,#} <div n="xe">{%all b. placed on a%}
+{%worthy minister%}</div> <div n="xs">{#योग्यसचिवे न्यस्तः समस्तो भारः।#}</div> Ra.
+i. Ph. <div n="xe">{%the b. of proof:%}</div> <div n="xs">{#प्रमाणभारः।#}</div> </div><div n="I">II Taxes,
+pecuniary imposts: q. v.: <div n="xe">{%unable to bear the%}
+{%b. s%}</div> <div n="xs">{#करभारासहाः,#}</div> V. p. </div><div n="I">III The capacity of
+a ship: Ph. <div n="xe">{%a boat of 100 maunds b.%}</div> <div n="xs">{#*शतमण-#}
+{#वाहिनी नौः।#}</div> </div><div n="I">IV. B. of a song: </div><div n="1">(1) {#ध्रुवकम्;#}</div>
+<div n="1">(2) {#अनुपदम्।#}</div>
 <LEND>

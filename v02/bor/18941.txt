@@ -1,16 +1,16 @@
 <L>18941<pc>585<k1>remain<k2>remain
-<div n="lb"/>{@REMAIN:@}¦ <div n="1">(1) {#तिष्ठति, अवतिष्ठते#} ({#स्था,#} c. l.), <div n="xe">{%will%}
-<div n="lb"/>{%go wherever it likes or accustomed to this place%}
-<div n="lb"/>{%will r. here:%}</div> <div n="xs">{#यास्यति यत्रास्मै रोचिष्यते, इहैव वा #}
-<div n="lb"/>{# समुपजातपरिचयः स्थास्यति,#}</div> <ls>K.</ls> ; <div n="xe">{%the king r. ed there%}
-<div n="lb"/>{%at night:%}</div> <div n="xs">{#राजा तत्रैव रात्रावतिष्ठत्,#}</div> Bha.; <div n="xe">{%one Gan-%}
-<div n="lb"/>{%gadatta alone r. ed:%}</div> <div n="xs">{#केवलमेको गङ्गदत्तस्तिष्ठति,#}</div> P.;
-<div n="lb"/><div n="xe">{%not a point of the earth r. ed pathless:%}</div> <div n="xs">{#नास्थादपन्था #}
-<div n="lb"/>{# धरणेः कणोऽपि,#}</div> N. x. 2.; </div><div n="1">(2) {#शिष्यते, अव-#} (pass.
-<div n="lb"/>of {#शिष्#}) (= to be left as a remainder), ({%you%})
-<div n="lb"/><div n="xe">{%r. only in words:%}</div> <div n="xs">{#कथासु शिष्यध्वम्,#}</div> M. i. 142.;
-<div n="lb"/>{%when the fame%} ({%alone%}) {%of Vikramāditya r. s:%}
-<div n="lb"/>{#गतवति कीर्तिशेषं विक्रमादित्ये,#} Va.; <div n="xe">{%the wives of the%}
-<div n="lb"/>{%Vrishnis r. ing after abduction:%}</div> <div n="xs">{#कलत्रं वृष्णीनां हृत-#}
-<div n="lb"/>{#शेषितम्,#}</div> Mah. xvi. 7. 68.</div>
+{@REMAIN:@}¦ <div n="1">(1) {#तिष्ठति, अवतिष्ठते#} ({#स्था,#} c. l.), <div n="xe">{%will%}
+{%go wherever it likes or accustomed to this place%}
+{%will r. here:%}</div> <div n="xs">{#यास्यति यत्रास्मै रोचिष्यते, इहैव वा #}
+{# समुपजातपरिचयः स्थास्यति,#}</div> <ls>K.</ls> ; <div n="xe">{%the king r. ed there%}
+{%at night:%}</div> <div n="xs">{#राजा तत्रैव रात्रावतिष्ठत्,#}</div> Bha.; <div n="xe">{%one Gan-%}
+{%gadatta alone r. ed:%}</div> <div n="xs">{#केवलमेको गङ्गदत्तस्तिष्ठति,#}</div> P.;
+<div n="xe">{%not a point of the earth r. ed pathless:%}</div> <div n="xs">{#नास्थादपन्था #}
+{# धरणेः कणोऽपि,#}</div> N. x. 2.; </div><div n="1">(2) {#शिष्यते, अव-#} (pass.
+of {#शिष्#}) (= to be left as a remainder), ({%you%})
+<div n="xe">{%r. only in words:%}</div> <div n="xs">{#कथासु शिष्यध्वम्,#}</div> M. i. 142.;
+{%when the fame%} ({%alone%}) {%of Vikramāditya r. s:%}
+{#गतवति कीर्तिशेषं विक्रमादित्ये,#} Va.; <div n="xe">{%the wives of the%}
+{%Vrishnis r. ing after abduction:%}</div> <div n="xs">{#कलत्रं वृष्णीनां हृत-#}
+{#शेषितम्,#}</div> Mah. xvi. 7. 68.</div>
 <LEND>

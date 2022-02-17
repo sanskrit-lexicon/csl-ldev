@@ -1,4 +1,4 @@
 <L>20548<pc>644<k1>silvan<k2>silvan
-<div n="lb"/>{@SILVAN:@}¦ by comp., <div n="xe">{%s. scene:%}</div> <div n="xs">{#वनभूमिः;#}</div> {%s. diety:%}
-<div n="lb"/>{#वनदेवता,#} U.
+{@SILVAN:@}¦ by comp., <div n="xe">{%s. scene:%}</div> <div n="xs">{#वनभूमिः;#}</div> {%s. diety:%}
+{#वनदेवता,#} U.
 <LEND>

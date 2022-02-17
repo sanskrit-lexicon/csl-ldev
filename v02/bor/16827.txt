@@ -1,5 +1,5 @@
 <L>16827<pc>516<k1>perpetration<k2>perpetration
-<div n="lb"/>{@PERPETRATION:@}¦ expr. by verb, <div n="xe">{%in the p. of%}
-<div n="lb"/>{%murder:%}</div> <div n="xs">{#वधं कुर्वन्;#}</div> <div n="xe">{%his p. of incest:%}</div> <div n="xs">{#अगम्यागमनं #}
-<div n="lb"/>{# तस्य;#}</div> etc.
+{@PERPETRATION:@}¦ expr. by verb, <div n="xe">{%in the p. of%}
+{%murder:%}</div> <div n="xs">{#वधं कुर्वन्;#}</div> <div n="xe">{%his p. of incest:%}</div> <div n="xs">{#अगम्यागमनं #}
+{# तस्य;#}</div> etc.
 <LEND>

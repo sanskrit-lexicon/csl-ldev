@@ -1,19 +1,19 @@
 <L>21023<pc>0377-a<k1>तु<k2>तु<h>2
 {#तु#} 2¦. {%tu,%} cl. 2. P., Ved. {%tavīti%} and {%tauti,%}
-<div n="lb"/>{%tūtāva, totum%} and {%tavitum,%} to have authority
-<div n="lb"/>or power, to be strong; to attain; to thrive or increase,
-<div n="lb"/>to fill, become full; to go or move; to injure, hurt,
-<div n="lb"/>kill: Caus., Ved. (only used in aor. {%tūtot%}), to make
-<div n="lb"/>strong or efficient, make valid, accomplish; [cf. Zend
-<div n="lb"/><nsi>tav,</nsi> ‘to be able;’ <nsi>tavan,</nsi> ‘powerful:’ Pers. <lang n="arabic">توان</lang> <nsi>tuvân,</nsi>
-<div n="lb"/>‘power;’ <lang n="arabic">توانم</lang> <nsi>tuvânam,</nsi> ‘I can:’ Gr. <lang n="greek">τύλος, τύλη,</lang>
-<div n="lb"/><lang n="greek">τυλόω, ταΰς:</lang> Lat. <nsi>tumor, tumere, tumidus, tu-</nsi>
-<div n="lb"/><nsi>mulus (?), tuber, tueri, totus:</nsi> Umbr. Osc. <nsi>tauta,</nsi>
-<div n="lb"/><nsi>tota, touta,</nsi> ‘town;’ <nsi>tut-icus,</nsi> ‘townish:’ Goth.
-<div n="lb"/><nsi>thiuda, thiuth, thiuthyan:</nsi> Angl. Sax. <nsi>thū-ma,</nsi>
-<div n="lb"/>‘the thumb;’ <nsi>theod,</nsi> ‘people:’ Old Germ. <nsi>dū-mo,</nsi>
-<div n="lb"/>‘the thumb:’ Slav. <nsi>ty-ti,</nsi> ‘to grow fat;’ <nsi>tu-kŭ,</nsi> ‘fat:’
-<div n="lb"/>Lith. <nsi>tau-ka-i,</nsi> ‘fat;’ <nsi>tunk-u,</nsi> ‘I become fat:’ Old
-<div n="lb"/>Pruss. <nsi>tau-ta,</nsi> ‘land, country:’ Cambro-Brit. <nsi>tyv-u,</nsi>
-<div n="lb"/>‘to increase.’]
+{%tūtāva, totum%} and {%tavitum,%} to have authority
+or power, to be strong; to attain; to thrive or increase,
+to fill, become full; to go or move; to injure, hurt,
+kill: Caus., Ved. (only used in aor. {%tūtot%}), to make
+strong or efficient, make valid, accomplish; [cf. Zend
+<nsi>tav,</nsi> ‘to be able;’ <nsi>tavan,</nsi> ‘powerful:’ Pers. <lang n="arabic">توان</lang> <nsi>tuvân,</nsi>
+‘power;’ <lang n="arabic">توانم</lang> <nsi>tuvânam,</nsi> ‘I can:’ Gr. <lang n="greek">τύλος, τύλη,</lang>
+<lang n="greek">τυλόω, ταΰς:</lang> Lat. <nsi>tumor, tumere, tumidus, tu-</nsi>
+<nsi>mulus (?), tuber, tueri, totus:</nsi> Umbr. Osc. <nsi>tauta,</nsi>
+<nsi>tota, touta,</nsi> ‘town;’ <nsi>tut-icus,</nsi> ‘townish:’ Goth.
+<nsi>thiuda, thiuth, thiuthyan:</nsi> Angl. Sax. <nsi>thū-ma,</nsi>
+‘the thumb;’ <nsi>theod,</nsi> ‘people:’ Old Germ. <nsi>dū-mo,</nsi>
+‘the thumb:’ Slav. <nsi>ty-ti,</nsi> ‘to grow fat;’ <nsi>tu-kŭ,</nsi> ‘fat:’
+Lith. <nsi>tau-ka-i,</nsi> ‘fat;’ <nsi>tunk-u,</nsi> ‘I become fat:’ Old
+Pruss. <nsi>tau-ta,</nsi> ‘land, country:’ Cambro-Brit. <nsi>tyv-u,</nsi>
+‘to increase.’]
 <LEND>

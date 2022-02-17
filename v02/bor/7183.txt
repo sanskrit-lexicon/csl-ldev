@@ -1,7 +1,7 @@
 <L>7183<pc>228<k1>eastern<k2>eastern
-<div n="lb"/>{@EASTERN:@}¦ <div n="1">(1) {#पूर्वः#} ({#र्वा, र्वं#}), <div n="xe">{%the e. and western%}
-<div n="lb"/>{%oceans:%}</div> <div n="xs">{#पूर्वापरौ तोयनिधी,#}</div> Ku.; </div><div n="1">(2) {#प्राच्यः#} ({#च्या, #}
-<div n="lb"/>{# च्यं#}), <div n="xe">{%e. gate:%}</div> <div n="xs">{#प्राच्यं द्वारम्,#}</div> B.; <div n="xe">{%the e. s:%}</div> <div n="xs">{#प्राच्याः,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(3) {#पौरस्त्य#} (f. {#स्त्या#}), <div n="xe">{%e. regions:%}</div> <div n="xs">{#पौर-#}
-<div n="lb"/>{#स्त्या जनपदाः,#}</div> R.</div>
+{@EASTERN:@}¦ <div n="1">(1) {#पूर्वः#} ({#र्वा, र्वं#}), <div n="xe">{%the e. and western%}
+{%oceans:%}</div> <div n="xs">{#पूर्वापरौ तोयनिधी,#}</div> Ku.; </div><div n="1">(2) {#प्राच्यः#} ({#च्या, #}
+{# च्यं#}), <div n="xe">{%e. gate:%}</div> <div n="xs">{#प्राच्यं द्वारम्,#}</div> B.; <div n="xe">{%the e. s:%}</div> <div n="xs">{#प्राच्याः,#}</div>
+Mah.; </div><div n="1">(3) {#पौरस्त्य#} (f. {#स्त्या#}), <div n="xe">{%e. regions:%}</div> <div n="xs">{#पौर-#}
+{#स्त्या जनपदाः,#}</div> R.</div>
 <LEND>

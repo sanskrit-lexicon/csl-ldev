@@ -1,8 +1,8 @@
 <L>13652<pc>420<k1>list<k2>list
-<div n="lb"/>{@LIST@}¦ (subs.): <div n="I">I Border: q. v.: {#प्रान्तः।#} </div><div n="I">II
-<div n="lb"/>An enclosed field: {#वीथिः,#} Si. Ph.: <div n="xe">{%to enter%}
-<div n="lb"/>{%the l. s:%}</div> <div n="xs">{#रणं गच्छति,#}</div> V. p. </div><div n="I">III A catalogue:
-<div n="lb"/>{#नामावलिः।#} Ph.: {%civil l.:%} (a) <div n="xe">{%of officers:%}</div> <div n="xs">{#राजकर्म-#}
-<div n="lb"/>{#कराणां नामावलिः#}</div> (?); (b) <div n="xe">{%of expenses:%}</div> <div n="xs">{#*राजव्यय-#}
-<div n="lb"/>{#पत्रिका।#}</div></div>
+{@LIST@}¦ (subs.): <div n="I">I Border: q. v.: {#प्रान्तः।#} </div><div n="I">II
+An enclosed field: {#वीथिः,#} Si. Ph.: <div n="xe">{%to enter%}
+{%the l. s:%}</div> <div n="xs">{#रणं गच्छति,#}</div> V. p. </div><div n="I">III A catalogue:
+{#नामावलिः।#} Ph.: {%civil l.:%} (a) <div n="xe">{%of officers:%}</div> <div n="xs">{#राजकर्म-#}
+{#कराणां नामावलिः#}</div> (?); (b) <div n="xe">{%of expenses:%}</div> <div n="xs">{#*राजव्यय-#}
+{#पत्रिका।#}</div></div>
 <LEND>

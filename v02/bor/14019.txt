@@ -1,4 +1,4 @@
 <L>14019<pc>430<k1>mahometan<k2>mahometan
-<div n="lb"/>{@MAHOMETAN:@}¦ <div n="I">I Adj.: {#महम्मदीयः#} ({#या, यं#}).</div>
-<div n="lb"/><div n="I">II Subs.: v. Mussulman.</div>
+{@MAHOMETAN:@}¦ <div n="I">I Adj.: {#महम्मदीयः#} ({#या, यं#}).</div>
+<div n="I">II Subs.: v. Mussulman.</div>
 <LEND>

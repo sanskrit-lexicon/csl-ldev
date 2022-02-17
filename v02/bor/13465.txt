@@ -1,4 +1,4 @@
 <L>13465<pc>414<k1>lethargy<k2>lethargy
-<div n="lb"/>{@LETHARGY:@}¦ <div n="1">(1) {#जाड्यम्#} (= dullness); </div><div n="1">(2) {#निद्राल-#}
-<div n="lb"/>{#सता#} (= sleepiness); </div><div n="1">(3) {#तन्द्रा#} (= lassitude).</div>
+{@LETHARGY:@}¦ <div n="1">(1) {#जाड्यम्#} (= dullness); </div><div n="1">(2) {#निद्राल-#}
+{#सता#} (= sleepiness); </div><div n="1">(3) {#तन्द्रा#} (= lassitude).</div>
 <LEND>

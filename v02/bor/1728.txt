@@ -1,4 +1,4 @@
 <L>1728<pc>059<k1>be over<k2>be over
-<div n="lb"/>{@BE OVER:@}¦ Ph. <div n="xe">{%let the rain be over%}</div> <div n="xs">{#भवतु वृष्ठेरुपशमः,#}</div>
-<div n="lb"/><ls>H.</ls> iii.: v. To cease.
+{@BE OVER:@}¦ Ph. <div n="xe">{%let the rain be over%}</div> <div n="xs">{#भवतु वृष्ठेरुपशमः,#}</div>
+<ls>H.</ls> iii.: v. To cease.
 <LEND>

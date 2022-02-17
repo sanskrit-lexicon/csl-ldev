@@ -1,6 +1,6 @@
 <L>21990<pc>693<k1>surprise<k2>surprise
-<div n="lb"/>{@SURPRISE@}¦ (subs.): <div n="I">I Wonder: q. v.: {#विस्मयः#}</div>
-<div n="lb"/><div n="I">II A sudden attack: {#अवस्कन्दः।#} </div><div n="I">III An
-<div n="lb"/>unexpected event: <div n="xe">{%fate brings on s. s:%}</div> <div n="xs">{#विधिरेव #}
-<div n="lb"/>{# तानि घटयति यानि पुमान्नैव चिन्तयति,#}</div> Bh.</div>
+{@SURPRISE@}¦ (subs.): <div n="I">I Wonder: q. v.: {#विस्मयः#}</div>
+<div n="I">II A sudden attack: {#अवस्कन्दः।#} </div><div n="I">III An
+unexpected event: <div n="xe">{%fate brings on s. s:%}</div> <div n="xs">{#विधिरेव #}
+{# तानि घटयति यानि पुमान्नैव चिन्तयति,#}</div> Bh.</div>
 <LEND>

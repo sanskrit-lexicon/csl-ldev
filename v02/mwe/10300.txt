@@ -1,8 +1,8 @@
 <L>10300<pc>245-b<k1>exemption<k2>exemption
-<div n="lb"/>EXEMPTION¦, {%s.%} (Freedom from) {#मुक्तिः#} {%f.,%} {#मोक्षः, विनिर्मोकः, निर्नोकः,#}
-<div n="lb"/>{#विमोक्षः, विरहः, राहित्यं, रहितत्वं, शून्यता, अभावः, असम्भवः,#}
-<div n="lb"/>{#व्यावृतिः#} {%f.;%} ‘exemption from war,’ {#युद्धाभावः#}. Or expressed
-<div n="lb"/>by {#अ#} prefixed; as, ‘exemption from, fear,’ {#अभयं;#} ‘exemp-
-<div n="lb"/>-tion from exertion,’ {#अनायासः;#} ‘exemption from taxes,’
-<div n="lb"/>{#अकरत्वं#}.
+EXEMPTION¦, {%s.%} (Freedom from) {#मुक्तिः#} {%f.,%} {#मोक्षः, विनिर्मोकः, निर्नोकः,#}
+{#विमोक्षः, विरहः, राहित्यं, रहितत्वं, शून्यता, अभावः, असम्भवः,#}
+{#व्यावृतिः#} {%f.;%} ‘exemption from war,’ {#युद्धाभावः#}. Or expressed
+by {#अ#} prefixed; as, ‘exemption from, fear,’ {#अभयं;#} ‘exemp-
+-tion from exertion,’ {#अनायासः;#} ‘exemption from taxes,’
+{#अकरत्वं#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>2161<pc>075<k1>bleed<k2>bleed
-<div n="lb"/>{@BLEED@}¦ (v. t.): {#रक्तं#} <div n="xe">{%or%}</div> <div n="xs">{#रुधिरं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शौणितं स्रावयति, वि-, #}
-<div n="lb"/>{# आ-, परि-,#}</div> (c. of {#स्त्र#}); <div n="xe">{%or%}</div> <div n="xs">{#मोक्षयति#}</div> ({#मुक्ष्,#}
-<div n="lb"/>c. 10); <div n="xe">{%or%}</div> <div n="xs">{#मोचयति#}</div> (c. of {#मुच्#}) <div n="xe">{%or%}</div> <div n="xs">{#अवसेचयति#}</div> (c. of
-<div n="lb"/>{#सिच्#}). N. B. These verbs are cons. with gen.
-<div n="lb"/>of the person who is bled.
+{@BLEED@}¦ (v. t.): {#रक्तं#} <div n="xe">{%or%}</div> <div n="xs">{#रुधिरं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शौणितं स्रावयति, वि-, #}
+{# आ-, परि-,#}</div> (c. of {#स्त्र#}); <div n="xe">{%or%}</div> <div n="xs">{#मोक्षयति#}</div> ({#मुक्ष्,#}
+c. 10); <div n="xe">{%or%}</div> <div n="xs">{#मोचयति#}</div> (c. of {#मुच्#}) <div n="xe">{%or%}</div> <div n="xs">{#अवसेचयति#}</div> (c. of
+{#सिच्#}). N. B. These verbs are cons. with gen.
+of the person who is bled.
 <LEND>

@@ -33,8 +33,8 @@ u.s.w. <ls>H. an. 2, 246.</ls> <ls>MED. ṣ. 13.</ls> <ls>HALĀY. 2, 179.</ls> {
 <ls>ŚAT. BR. 11, 5, 6, 3.</ls> {#मेधा, मनस्#} 
 <ls>VS. 4, 7. 11, 66. 32, 14. 15. 30, 6.</ls> 
 <ls>TAITT. ĀR. 10, 42. fg.</ls> 
-<ls>AIT. UP. 5, 2</ls> {#(प्रज्ञान)#}.{# नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन#} 
-<ls>KAṬHOP. 2, 23</ls> <ls>?= MUṆḌ. UP. 3, 2, 3.</ls> {#श्रद्धा मेधा#} 
+<ls>AIT. UP. 5, 2</ls> ({#प्रज्ञान#}).{# नायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन#} 
+<ls>KAṬHOP. 2, 23</ls> = <ls>MUṆḌ. UP. 3, 2, 3.</ls> {#श्रद्धा मेधा#} 
 <ls>KAUŚ. 74.</ls> 
 <ls>Ind. St. 2, 98.</ls> 
 <ls>PĀR. GṚHY. 2, 6. 10.</ls> 
@@ -44,7 +44,7 @@ u.s.w. <ls>H. an. 2, 246.</ls> <ls>MED. ṣ. 13.</ls> <ls>HALĀY. 2, 179.</ls> {
 <ls>M. 3, 263.</ls> 
 <ls>YĀJÑ. 3, 174.</ls> 
 <ls>BHAG. 10, 34.</ls> {#अष्टगुणाश्रया#} 
-<ls>MBH. 3, 1808. 1254.</ls> {#तानि (इन्द्रियाणि) सर्वाणि संधाय मनःषष्ठानि मेधया#} 
+<ls>MBH. 3, 1808.</ls> <ls n="MBH. 3,">1254.</ls> {#तानि (इन्द्रियाणि) सर्वाणि संधाय मनःषष्ठानि मेधया#} 
 <ls>12, 9042.</ls> {#यच्च भाषन्ति संतुष्टास्तच्च गृह्णामि मेधया#} 
 <ls>13, 2172. 17, 90.</ls> {#अतीवामानुषी#} 
 <ls>HARIV. 4911.</ls> {#मेधायुष्काम#} 
@@ -57,7 +57,7 @@ u.s.w. <ls>H. an. 2, 246.</ls> <ls>MED. ṣ. 13.</ls> <ls>HALĀY. 2, 179.</ls> {
 <ls>60.</ls> <ls>VARĀH. BṚH. S. 68, 22.</ls> {#तेजोबलवर्णमेधासंवर्धन#} 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 180, 4.</ls> Vgl. {#दुर्मेध, निर्मेध#}, 2. {#नृमेध, पुरु°, मित°, महामेधा#} . 
 <div n="1">— 3) {%die Einsicht%} personificirt 
-<ls>Ind. St.3,229,b.</ls> <ls>MBH.2,300.</ls> <ls>HARIV. 7740. 9498. 14036.</ls> <ls>R.</ls> <ls>GORR.2,25,26.</ls> <ls>PAÑCAR.3,2,3.</ls> als Gattin <is>Dharma's</is> und Tochter <is>Dakṣa's</is> 
+<ls>Ind. St. 3,229,b.</ls> <ls>MBH. 2, 300.</ls> <ls>HARIV. 7740.</ls> <ls n="HARIV.">9498.</ls> <ls n="HARIV.">14036.</ls> <ls>R. GORR. 2,25,26.</ls> <ls>PAÑCAR. 3,2,3.</ls> als Gattin <is>Dharma's</is> und Tochter <is>Dakṣa's</is> 
 <ls>MBH. 1, 2578.</ls> 
 <ls>HARIV. 12452.</ls> 
 <ls>VP. 54.</ls> 

@@ -1,11 +1,11 @@
 <L>31273<pc>838-a<k1>weight<k2>weight
-<div n="lb"/>WEIGHT¦, {%s.%} (Weight or quantity ascertained by balance)
-<div n="lb"/>{#भारः, भारपरिमाणं, उन्मानं, मितिः#} {%f.,%} {#परिमाणं, भारमितिः#} {%f.,%} {#तोलः,#}
-<div n="lb"/>{#तुला, गुरुत्वं -ता, गौरवं, गरिमा#} {%m.%} {#(न्), भरः;#} ‘of deficient
-<div n="lb"/>weight,’ {#न्यूनतोलः -ला -लं#}. — (Mass to weigh with) {#तोलं,#}
-<div n="lb"/>{#उन्मानं#}. For the different weights, {%see%} under MEASURE;
-<div n="lb"/>‘measure by weight,’ {#तुलामानं#}. — (Ponderous load, burden)
-<div n="lb"/>{#भारः, धुरा, धूः#} {%f.%} {#(धुर्),#} {%see%} BURDEN. — (Importance, influence)
-<div n="lb"/>{#गौरवं, गुरुत्वं -ता, प्रभावः, भारः, प्रमाणं;#} ‘of little weight,’
-<div n="lb"/>{#अल्पप्रभावः -वा -वं, अल्पप्रमाणः -णा -णं, लघुप्रभावः#} &c.
+WEIGHT¦, {%s.%} (Weight or quantity ascertained by balance)
+{#भारः, भारपरिमाणं, उन्मानं, मितिः#} {%f.,%} {#परिमाणं, भारमितिः#} {%f.,%} {#तोलः,#}
+{#तुला, गुरुत्वं -ता, गौरवं, गरिमा#} {%m.%} {#(न्), भरः;#} ‘of deficient
+weight,’ {#न्यूनतोलः -ला -लं#}. — (Mass to weigh with) {#तोलं,#}
+{#उन्मानं#}. For the different weights, {%see%} under MEASURE;
+‘measure by weight,’ {#तुलामानं#}. — (Ponderous load, burden)
+{#भारः, धुरा, धूः#} {%f.%} {#(धुर्),#} {%see%} BURDEN. — (Importance, influence)
+{#गौरवं, गुरुत्वं -ता, प्रभावः, भारः, प्रमाणं;#} ‘of little weight,’
+{#अल्पप्रभावः -वा -वं, अल्पप्रमाणः -णा -णं, लघुप्रभावः#} &c.
 <LEND>

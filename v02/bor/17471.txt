@@ -1,4 +1,4 @@
 <L>17471<pc>534<k1>postponement<k2>postponement
-<div n="lb"/>{@POSTPONEMENT:@}¦ <div n="1">(1) {#व्याक्षेपः;#} </div><div n="1">(2) {#विलम्बः#}
-<div n="lb"/>(= delay).</div>
+{@POSTPONEMENT:@}¦ <div n="1">(1) {#व्याक्षेपः;#} </div><div n="1">(2) {#विलम्बः#}
+(= delay).</div>
 <LEND>

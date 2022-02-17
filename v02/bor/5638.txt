@@ -1,4 +1,4 @@
 <L>5638<pc>181<k1>defacemfnt<k2>defacemfnt
-<div n="lb"/>{@DEFACEMFNT:@}¦ <div n="I">I Disfigurement: {#विरूपीकरणम्।#}</div>
-<div n="lb"/><div n="I">II Obliteration: q. v.</div>
+{@DEFACEMFNT:@}¦ <div n="I">I Disfigurement: {#विरूपीकरणम्।#}</div>
+<div n="I">II Obliteration: q. v.</div>
 <LEND>

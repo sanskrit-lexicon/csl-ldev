@@ -1,11 +1,11 @@
 <L>21061<pc>663<k1>south<k2>south
-<div n="lb"/>{@SOUTH,@}¦ {@SOUTHERN@} (adj.): {#दक्षिण#} (f. {#णा#}), <div n="xe">{%s.%}
-<div n="lb"/>{%wind:%}</div> <div n="xs">{#दक्षिणो वायुः,#}</div> V. m. 27. 3., (gen.
-<div n="lb"/>{#मलयानिलः, मलयवातः,#} etc. from the Malaya);
-<div n="lb"/><div n="xe">{%s. ocean:%}</div> <div n="xs">{#दक्षिणः समुद्रः,#}</div> Ram. v. 1. 2.; {%s.%}
-<div n="lb"/>{%country%} (the Deccan): {#दक्षिणापथः,#} Mah. ii.
-<div n="lb"/>31. 17.; {%s. people armed with swords:%}
-<div n="lb"/>{#दाक्षिणात्यासिपाणयः,#} Mah. xii. 101. 5.; <div n="1">(2) {#अवाच्य#}
-<div n="lb"/>(f. {#च्या#}) <div n="xe">{%or%}</div> <div n="xs">{#अवाच्#}</div> (f. {#ची:#} rare), {%s. alley:%}
-<div n="lb"/>{#अवाचीं वीथिम्,#} D. iii.</div>
+{@SOUTH,@}¦ {@SOUTHERN@} (adj.): {#दक्षिण#} (f. {#णा#}), <div n="xe">{%s.%}
+{%wind:%}</div> <div n="xs">{#दक्षिणो वायुः,#}</div> V. m. 27. 3., (gen.
+{#मलयानिलः, मलयवातः,#} etc. from the Malaya);
+<div n="xe">{%s. ocean:%}</div> <div n="xs">{#दक्षिणः समुद्रः,#}</div> Ram. v. 1. 2.; {%s.%}
+{%country%} (the Deccan): {#दक्षिणापथः,#} Mah. ii.
+31. 17.; {%s. people armed with swords:%}
+{#दाक्षिणात्यासिपाणयः,#} Mah. xii. 101. 5.; <div n="1">(2) {#अवाच्य#}
+(f. {#च्या#}) <div n="xe">{%or%}</div> <div n="xs">{#अवाच्#}</div> (f. {#ची:#} rare), {%s. alley:%}
+{#अवाचीं वीथिम्,#} D. iii.</div>
 <LEND>

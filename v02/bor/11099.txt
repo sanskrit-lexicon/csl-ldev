@@ -1,7 +1,7 @@
 <L>11099<pc>349<k1>hollow<k2>hollow
-<div n="lb"/>{@HOLLOW@}¦ (subs.): <div n="1">(1) {#कोटरः#} (of trees), <div n="xe">{%in the%}
-<div n="lb"/>{%centres of h. s:%}</div> <div n="xs">{#कोटरोदरेषु,#}</div> K.; </div><div n="1">(2) ({#कर-#}) {#पुटः#}
-<div n="lb"/>(of the hand); </div><div n="1">(3) ({#कर्ण-)#} {#कूपः#} (of the ear);</div>
-<div n="lb"/><div n="1">(4) ({#नाभि-#}) {#आवर्तः#} (of the nave); </div><div n="1">(5) {#गर्तः#}
-<div n="lb"/>(= hole: q.v.).</div>
+{@HOLLOW@}¦ (subs.): <div n="1">(1) {#कोटरः#} (of trees), <div n="xe">{%in the%}
+{%centres of h. s:%}</div> <div n="xs">{#कोटरोदरेषु,#}</div> K.; </div><div n="1">(2) ({#कर-#}) {#पुटः#}
+(of the hand); </div><div n="1">(3) ({#कर्ण-)#} {#कूपः#} (of the ear);</div>
+<div n="1">(4) ({#नाभि-#}) {#आवर्तः#} (of the nave); </div><div n="1">(5) {#गर्तः#}
+(= hole: q.v.).</div>
 <LEND>

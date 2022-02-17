@@ -1,4 +1,4 @@
 <L>24415<pc>764<k1>withdraw<k2>withdraw
-<div n="lb"/>{@WITHDRAW@}¦ (v. i.): <div n="1">(1) {#अपक्रामति#} ({#क्रम्,#} c. 1.);</div>
-<div n="lb"/><div n="1">(2) {#अपसरति#} ({#सृ,#} c. 1.): v. To retire, flee.</div>
+{@WITHDRAW@}¦ (v. i.): <div n="1">(1) {#अपक्रामति#} ({#क्रम्,#} c. 1.);</div>
+<div n="1">(2) {#अपसरति#} ({#सृ,#} c. 1.): v. To retire, flee.</div>
 <LEND>

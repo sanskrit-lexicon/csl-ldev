@@ -1,8 +1,8 @@
 <L>3760<pc>123<k1>clash<k2>clash
-<div n="lb"/>{@CLASH@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#संघट्टते#} <div n="xe">{%or%}</div> <div n="xs">{#घट्टयति#}</div>
-<div n="lb"/>({#घट्ट,#} c. l. and 10).; </div><div n="1">(2) {#समाहन्ति#} ({#हन्,#} c. 2.).</div>
-<div n="lb"/><div n="I">II Fig. To contradict, interfere: q. v.:
-<div n="lb"/>{#विरुणद्धि#} ({#रुध्।#} c. 7.) (with acc.). </div><div n="I">II Noise
-<div n="lb"/>produced by c. ing: {#चटचटाशब्दः,#} Mah. </div><div n="I">III
-<div n="lb"/>Opposition, contradiction: q. v.: {#विरोधः।#}</div>
+{@CLASH@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#संघट्टते#} <div n="xe">{%or%}</div> <div n="xs">{#घट्टयति#}</div>
+({#घट्ट,#} c. l. and 10).; </div><div n="1">(2) {#समाहन्ति#} ({#हन्,#} c. 2.).</div>
+<div n="I">II Fig. To contradict, interfere: q. v.:
+{#विरुणद्धि#} ({#रुध्।#} c. 7.) (with acc.). </div><div n="I">II Noise
+produced by c. ing: {#चटचटाशब्दः,#} Mah. </div><div n="I">III
+Opposition, contradiction: q. v.: {#विरोधः।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>22836<pc>720<k1>treaty<k2>treaty
-<div n="lb"/>{@TREATY:@}¦ <div n="I">I Negotiation: {#सन्धानम्#} <div n="xe">{%or%}</div> <div n="xs">{#सन्धिः।#}</div> </div><div n="I">II
-<div n="lb"/>Agreement, condition: {#पत्रम्,#} {%t. of peace:%}
-<div n="lb"/>{#सन्धिपत्रम्;#} <div n="xe">{%t. of marriage:%}</div> <div n="xs">{#विवाहपत्रम्।#}</div></div>
+{@TREATY:@}¦ <div n="I">I Negotiation: {#सन्धानम्#} <div n="xe">{%or%}</div> <div n="xs">{#सन्धिः।#}</div> </div><div n="I">II
+Agreement, condition: {#पत्रम्,#} {%t. of peace:%}
+{#सन्धिपत्रम्;#} <div n="xe">{%t. of marriage:%}</div> <div n="xs">{#विवाहपत्रम्।#}</div></div>
 <LEND>

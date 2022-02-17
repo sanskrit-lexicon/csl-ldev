@@ -6,7 +6,7 @@
 <ls>ĀPAST. 1, 20, 14.</ls> {#विनिमयं कर्#} 
 <ls>MBH. 3, 17194.</ls> 
 <ls>KATHĀS. 73, 349.</ls> 
-<ls>MBH. 13, 3465. 3468.</ls> 
+<ls>MBH. 13, 3465.</ls> <ls n="MBH. 13,">3468.</ls> 
 <ls>COLEBR. Alg. 38.</ls> 
 <ls>RAGH. 1, 26.</ls> 
 <ls>MĀLAV. 51.</ls> 
@@ -19,5 +19,5 @@
 <ls>MĀLAV. 9, 8.</ls> 
 <div n="1">— 2) {%Verpfändung%} 
 <ls>MED. k. 128.</ls> <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> {#विक्रयैर्गां विनिमयैर्दत्त्वा गोमांसखादके । व्रतं चान्द्रायणं कुर्याद्वधे साक्षाद्वधी भवेत् ॥#} 
-<ls>GOBH</ls><ls>?ILA in PRĀYAŚCITTAT. nach ŚKDR.</ls>
+<ls>GOBHILA</ls> in <ls>PRĀYAŚCITTAT.</ls> nach <ls>ŚKDR.</ls>
 <LEND>

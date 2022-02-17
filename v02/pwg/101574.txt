@@ -5,7 +5,7 @@
 <ls>P. 3, 1, 48.</ls> 
 <ls>VOP. 8, 86. 132.</ls> {#शिश्रियुस्, शिश्रिये, शिश्रिवंस्#} (
 <ls>P. 7, 2, 67, Schol.</ls>), {#श्रयिष्यति, °ते#} (
-<ls>?<is>Kār</is>. 1 aus SIDDH. K. zu P. 7, 2, 10</ls>), {#श्रयिता#} 
+<ls><is>Kār</is>. 1</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>), {#श्रयिता#} 
 <ls>P. 7, 2, 11. Schol.</ls> <ls>VOP. 8, 60. 132.</ls> {#श्रित्वा#} 
 <ls>P. 7, 2, 11, Schol.</ls> {#°श्रित्य, °श्रयित्वा#} (episch): reflex. {#श्रयते, अशिश्रियत, अश्रायिष्ट#} und {#अश्रयिष्ट#} 
 <ls>VOP. 24, 12.</ls> 
@@ -43,7 +43,7 @@
 <ls>AV. 12, 1, 31.</ls> 
 <ls>TBR. 1, 4, 6, 5.</ls> {#प्रथ^मा द्वि\तीये^षु श्रयध्वम्#} {%sich anreihen%} 
 <ls>3, 11, 2, 1.</ls> <ls>TS. 2, 5, 3, 4. 7, 1.</ls> {#वाक्प^त\ंगाय^ शिश्रिये (धीयते#} 
-<ls>VS.</ls><ls>) 1, 5, 3, 1.</ls> {#दिव^म्#} 
+<ls>VS.</ls>) <ls>1, 5, 3, 1.</ls> {#दिव^म्#} 
 <ls>VS. 9, 24. 39, 4.</ls> {#ऋतून्#} 
 <ls>AIT. BR. 1, 23.</ls> {#अहः#} 
 <ls>4, 5.</ls> <ls>ŚAT. BR. 6, 1, 1, 4.</ls> <ls>PAÑCAV. BR. 9, 1, 12.</ls> <ls>ĀŚV. GṚHY. 1, 24, 29.</ls> {#उभौ देवौ शिश्रियाते ऽन्तरिक्षे#} 
@@ -96,7 +96,7 @@
 <ls>13, 94.</ls> {#गुरुताम्#} so v. a. {%wurde Lehrer%} 
 <ls>19, 75.</ls> {#सूदत्वम्#} 
 <ls>56, 354.</ls> {#प्रव्रज्याम्#} 
-<ls>?66, 97. act.</ls> : {#पौरुषं श्रय#} so v. a. {%lege Männlichkeit an den Tag%} 
+<ls>66, 97. act.</ls> : {#पौरुषं श्रय#} so v. a. {%lege Männlichkeit an den Tag%} 
 <ls>R. 4, 6, 13.</ls> {#द्विपेन्द्रभावं कलभः श्रयन्#} 
 <ls>RAGH. 3, 32.</ls> {#श्रयत्यकरुणाम्#} 
 <ls>Spr. (II) 4816.</ls> {#सश्रीकताम्#} 
@@ -126,10 +126,10 @@
 <ls>TAITT. ĀR. 8, 2.</ls> 
 <ls>PĀR. GṚHY. 1, 11. 16.</ls> {#स एषो ऽग्निर्दिवि श्रितः#} 
 <ls>MAITRYUP. 6, 2.</ls> <ls>KAUṢ. UP. 2, 8. 10.</ls> <ls>KAṬHOP. 5, 8.</ls> {#यद्यन्तरीक्षे यदि वा दिवि श्रिताः (लोकाः)#} 
-<ls>MBH. 1, 3655. 14, 554.</ls> {#तां दिशं श्रिताः शिवाः#} 
+<ls>MBH. 1, 3655.</ls> <ls n="MBH.">14, 554.</ls> {#तां दिशं श्रिताः शिवाः#} 
 <ls>RAGH. 11, 61.</ls> 
 <ls>RĀJA-TAR. 4, 239.</ls> {#सर्वे कामा ये ऽस्य हृदि श्रिताः (स्थिताः#} 
-<ls>ŚAT. BR. 14, 7, 2, 9</ls>) <ls>BṚH. ĀR. UP. 4, 4, 7</ls> <ls>?= KAṬHOP. 6, 14.</ls> {#आत्मन् श्रितं तत्त्वम्#} 
+<ls>ŚAT. BR. 14, 7, 2, 9</ls>) <ls>BṚH. ĀR. UP. 4, 4, 7</ls> = <ls>KAṬHOP. 6, 14.</ls> {#आत्मन् श्रितं तत्त्वम्#} 
 <ls>BHĀG. P. 4, 7, 30.</ls> {#याः काश्च#} ({#प्रजाः#}) {#पृथिवीं श्रिताः#} ({#पृथिवीश्रिताः#} 
 <ls>MAITRYUP. 6, 11</ls>) <ls>TAITT. UP. 2, 2.</ls> {#एकं फलहकं श्रितः#} {%stehend auf%} 
 <ls>KATHĀS. 26, 122.</ls> {#शयनं श्रितः#} {%liegend auf%} 
@@ -156,7 +156,7 @@
 <div n="2"> a) {%wohin%} oder {%zu wem man sich begeben hat, aditus%}: {#°गोकर्णनिकेतमीश्वरम्#} 
 <ls>RAGH. 8, 33.</ls> {#श्रितो ऽस्माभिर्जलनिधिः#} 
 <ls>Spr. (II) 546.</ls> {#नक्षत्रनाथः#} 
-<ls>?3567 (Conj.). KATHĀS. 52, 39.</ls> 
+<ls>3567</ls> (Conj.). <ls>KATHĀS. 52, 39.</ls> 
 <div n="2">— b) pass. zu {#श्रित#} 1) {%c%}): {#°क्षम#} so v. a. {%sich in Geduld fassend%} 
 <ls>ŚATR. 10, 182.</ls> {#°सत्त्व#} 
 <ls>BHĀG. P. 4, 7, 40.</ls> {#यैरभिधाः श्रिताः#} so v. a. {%gegeben, erwählt%} 
@@ -186,7 +186,7 @@
 <ls>SUŚR. 1, 163, 6.</ls> {#पयो ऽधिश्रित्य#} 
 <ls>BHĀG. P. 10, 29, 5.</ls> {#नहि भिक्षुकाः सन्तीति स्थाल्यो नाधिश्रीयन्ते#} (so mit 
 <ls>SARVADARŚANAS. 2, 21</ls> zu lesen) 
-<ls>Verz. d. Oxf. H. 216</ls>, {%b%}, 18. fg. 
+<ls>Verz. d. Oxf. H. 216,b,18.</ls> fg. 
 <div n="1">— 3) {%sich setzen —, sich legen auf%}: {#शयनमध्यशिश्रियाव#} 
 <ls>DAŚAK. 75, 4. 5.</ls> — partic. {#°श्रित#} 
 <div n="1"> 1) {%haftend an, ruhend in —, auf Etwas%}: {#धाम^न्ते\ विश्व\ं भुव^न\मधि^ श्रि\तम्#} 
@@ -253,7 +253,7 @@
 <ls>MBH. 3, 2246.</ls> {#आर्यमाश्रयेत बलोत्कटम्#} 
 <ls>KĀM. NĪTIS. 11, 28.</ls> {#शरण्यमेनमाश्रयन्ते#} 
 <ls>RAGH. 13, 7.</ls> {#अर्थवन्तम्#} 
-<ls>Spr. (II) 2622. 5078.</ls> {#अन्यं शरणं कमाश्रये#} 
+<ls>Spr. (II) 2622.</ls> <ls n="Spr. (II)">5078.</ls> {#अन्यं शरणं कमाश्रये#} 
 <ls>BHĀG. P. 4, 17, 30. 7, 5, 5.</ls> 
 <ls>VEDĀNTAS. (Allah.) No. 2.</ls> {#नीचमाश्रयते लक्ष्मीः#} 
 <ls>Spr. (II) 3793.</ls> act.: {#तद्विद्वान्नाश्रयेदशुभात्मकम्#} 
@@ -271,17 +271,17 @@
 <div n="1">— 3) {%haften an, beruhen auf%}: {#सर्वे गुणाः काञ्चनमाश्रयन्ति#} 
 <ls>Spr. (II) 5414.</ls> 
 <ls>M. 1, 17.</ls> {#अनाश्रित्येदमाख्यानं कथा भुवि न विद्यते#} 
-<ls>MBH. 1, 307. 651.</ls> 
+<ls>MBH. 1, 307.</ls> <ls n="MBH. 1,">651.</ls> 
 <div n="1">— 4) {%sich an einen Ort begeben%}; med.: {#आ य\ज्ञिये^ सुवि\ताय^ श्रयेताम्#} 
 <ls>ṚV. 7, 2, 6.</ls> {#निम्नगाम्#} 
 <ls>ṚT. 1, 27.</ls> {#वनानि#} 
 <ls>VIKR. 155.</ls> 
 <ls>Spr. (II) 5078.</ls> {#पुनस्त्यजन्ते पुनराश्रयन्ते#} 
-<ls>?5085. act.</ls> : {#यथा पर्वतमादीप्तं नाश्रयन्ति मृगद्विजाः#} 
+<ls>5085. act.</ls> : {#यथा पर्वतमादीप्तं नाश्रयन्ति मृगद्विजाः#} 
 <ls>MAITRYUP. 6, 18.</ls> {#ग्राममन्नार्थमाश्रयेत्#} 
 <ls>M. 6, 43.</ls> 
 <ls>MBH. 3, 13069.</ls> {#श्रेयोमार्गम्#} 
-<ls>Spr. (II) 1450. 2118.</ls> 
+<ls>Spr. (II) 1450.</ls> <ls n="Spr. (II)">2118.</ls> 
 <ls>ŚĀK. 54, 23. 81, 21, v. l.</ls> 
 <ls>BHĀG. P. 3, 5, 39.</ls> 
 <ls>PAÑCAT. 188, 18.</ls> {#आशिश्राय च भूतलम्#} so v. a. {%fiel zur Erde%} 
@@ -291,7 +291,7 @@
 <ls>ŚĀK. 9, 4.</ls> 
 <ls>VARĀH. BṚH. S. 28, 1.</ls> 
 <ls>PAÑCAT. 56, 9.</ls> {#स गङ्गाद्वारमाश्रित्य निवेशमकरोत्#} {%angelangt bei%} 
-<ls>MBH. 1, 7781. 5, 7346.</ls> 
+<ls>MBH. 1, 7781.</ls> <ls n="MBH.">5, 7346.</ls> 
 <ls>R. 1, 73, 9. 2, 46, 1. 3, 11, 2.</ls> <ls>WEBER, RĀMAT. UP. 337.</ls> {#महतां स्थानम्#} 
 <ls>Spr. (II) 4738.</ls> {#आश्रयति#} (loc. partic.) {#रज्जुजालकम्#} so v. a. {%wenn er steht bei%} 
 <ls>VARĀH. BṚH. S. 51, 14.</ls> {#यस्मिन् (वैरे) क्षणे क्षणे राज्यमासीद्दोलामिवाश्रयत्#} {%auf einer Schaukel liegend%} 
@@ -300,9 +300,9 @@
 <ls>R. 7, 17, 18.</ls> {#वैतसीं वृत्तिम्#} 
 <ls>KATHĀS. 5, 6.</ls> {#न चैतद्वाक्यमाश्रये#} so v. a. {%gutheissen, billigen%} 
 <ls>R. GORR. 2, 99, 21.</ls> act.: {#मा शोकं मा च संतापं घैर्यमाश्रय#} 
-<ls>R.</ls> <ls>SCHL. 2, 72, 52.</ls> {#वैतसीं वृत्तिम्#} 
+<ls>R. SCHL. 2, 72, 52.</ls> {#वैतसीं वृत्तिम्#} 
 <ls>Spr. 3175.</ls> {#संतोषम्#} 
-<ls>(II) 1148.</ls> {#कृत्याकृत्यविवेकम्#} 
+(<ls>II) 1148.</ls> {#कृत्याकृत्यविवेकम्#} 
 <ls>5826.</ls> {#दासीत्वम्#} 
 <ls>KATHĀS. 52, 43.</ls> {#धर्ममाश्रय मा तैक्ष्ण्यम्#} 
 <ls>R. 2, 21, 43.</ls> {#अधर्मम्#} 
@@ -318,7 +318,7 @@
 <ls>R. 2, 58, 23.</ls> {#बलम्, हेतुम्#} 
 <ls>21, 14.</ls> <ls>R. GORR. 1, 70, 10.</ls> {#त्वद्बाहुबलम्#} 
 <ls>3, 35, 113.</ls> {#स्वबाहुबलम्#} 
-<ls>MBH. 1, 5579. 5588.</ls> 
+<ls>MBH. 1, 5579.</ls> <ls n="MBH. 1,">5588.</ls> 
 <ls>Spr. 5346.</ls> {#वृत्तिं वैतसीम्#} 
 <ls>RAGH. 4, 35.</ls> 
 <ls>BHĀG. P. 4, 26, 5.</ls> {#व्यर्थपाण्डित्यम्#} 
@@ -342,7 +342,7 @@
 <div n="2"> a) {%sich an Jmd lehnend, - schliessend, Halt und Schutz bei Jmd suchend, Jmd ergeben, - untergeben%}; mit acc.: {#यानिमानाश्रिताकार्षीर्विप्रियं सुमहन्मम#} 
 <ls>MBH. 1, 5980.</ls> {#कृष्णम्#} 
 <ls>VOP. 6, 50.</ls> {#रामं सर्वात्मना#} 
-<ls>R. 5,57,  8.</ls> 
+<ls>R. 5,57, 8.</ls> 
 <ls>BHĀG. P. 3, 20, 3. 7, 8, 51.</ls>
 [Page7-0354]
 {#मामनाश्रिताः#} 
@@ -350,12 +350,12 @@
 <ls>Spr. (II) 1056.</ls> am Ende eines comp.: {#कृष्णाश्रित#} 
 <ls>VOP. 6, 50.</ls> {#पराश्रित#} 
 <ls>Spr. 2987.</ls> 
-<ls>KATHĀS. 18, 128.</ls> <ls>Verz. d. Oxf. H. 155</ls>, {%b%}, 
+<ls>KATHĀS. 18, 128.</ls> <ls>Verz. d. Oxf. H. 155,b,</ls> 
 <ls>34</ls> ({#°जनाश्रिताः#} zu lesen). 
 <ls>RĀJA-TAR. 4, 691.</ls> 
 <ls>BHĀG. P. 5, 13, 25.</ls> <lex>m.</lex> {%Untergebener%} 
 <ls>KUMĀRAS. 3, 1.</ls> 
-<ls>Spr. (II) 1055. 2495. 3024. 4849.</ls> 
+<ls>Spr. (II) 1055.</ls> <ls n="Spr. (II)">2495.</ls> <ls n="Spr. (II)">3024.</ls> <ls n="Spr. (II)">4849.</ls> 
 <ls>HIT. 15, 8. 19. 16, 4.</ls> {#चिराश्रित#} {%ein alter Diener%} 
 <ls>61, 6.</ls> {#अनाश्रित#} 
 <ls>YĀJÑ. 3, 6</ls> nach <ls>STENZLER</ls> so v. a. {%keinem bestimmten Stande angehörend.%} 
@@ -377,16 +377,16 @@
 <ls>M. 1, 17.</ls> 
 <div n="2">— c) {%bezüglich auf, betreffend%}; mit acc.: {#मामाश्रितानि कान्याहुः#} 
 <ls>R. 7, 43, 5.</ls> am Ende eines comp.: {#भीष्माश्रिताः कथाः#} 
-<ls>MBH. 13,1768.</ls> 
+<ls>MBH. 13, 1768.</ls> 
 <ls>HARIV. 9658.</ls> 
 <ls>R.4,20,17.7,71,6.</ls> 
-<ls>KATHĀS. 49,2. 123,298.</ls> <ls>Verz. d. Oxf. H. 82,a, No. 138,</ls> <ls>Śl. 11.</ls> <ls>MĀRK. P. 109,29.</ls> <ls>BHĀG. P.4,16,26.</ls> <ls>Schol.</ls> zu <ls>P.1,1,56. 62.</ls> 
+<ls>KATHĀS. 49,2. 123,298.</ls> <ls>Verz. d. Oxf. H. 82,a, No. 138, Śl. 11.</ls> <ls>MĀRK. P. 109,29.</ls> <ls>BHĀG. P.4,16,26.</ls> <ls>Schol.</ls> zu <ls>P.1,1,56. 62.</ls> 
 <div n="2">— d) {%an einen Ort sich begeben habend, weilend —, sitzend —, liegend —, stehend —, befindlich —, gelegen in, an, auf%} (vgl. {#गत)#}; mit acc.: {#के त्वेते शेरते वनमाश्रिताः#} 
 <ls>MBH. 1, 5937.</ls> 
 <ls>YĀJÑ. 3, 192.</ls> 
 <ls>R. 1, 61, 3. 2, 24, 11. 53, 12. 58, 6. 60, 20. 67, 5. 74, 6.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 110, 22.</ls> {#दुर्गाणि#} 
+
+<ls>R. GORR. 2, 110, 22.</ls> {#दुर्गाणि#} 
 <ls>M. 7, 72.</ls> {#वनस्पतिम्#} 
 <ls>RAGH. 12, 21.</ls> {#तरुच्छायाम्#} 
 <ls>1, 75.</ls> <ls>Spr. (II) 5553.</ls> <ls>KATHĀS. 20, 144.</ls> <ls>WEBER, RĀMAT. UP. 333.</ls> {#शिलातलम्#} 
@@ -468,7 +468,7 @@
 
 <div n="p">— {#अन्वा#}, partic. {#°श्रित#} {%entlang%} (acc.) {%gegangen%}: {#अहं तस्य हितार्थाय गङ्गामन्वाश्रितो नदीम्#} 
 <ls>R. GORR. 2, 91, 7.</ls> {%entlang stehend, - hingestellt%}: {#तिष्ठन्तु गङ्गामन्वाश्रिता नदीम्#} 
-<ls>R.</ls> <ls>SCHL. 2, 84, 7.</ls> {#निविष्टां ध्वजिनीं गङ्गामन्वाश्रितां नदीम्#} 1. {#अनु#} könnte auch als selbständige Präposition gefasst werden.
+<ls>R. SCHL. 2, 84, 7.</ls> {#निविष्टां ध्वजिनीं गङ्गामन्वाश्रितां नदीम्#} 1. {#अनु#} könnte auch als selbständige Präposition gefasst werden.
 
 <div n="p">— {#अपा#} 
 <div n="1"> 1) act. {%lehnen, hängen an%} (loc.): {#स्थूणायाम्#} 
@@ -476,16 +476,16 @@
 <div n="1">— 2) med. act. {%sich lehnen an%}: {#परस्परं केचिदपाश्रयन्ते#} 
 <ls>R. 5, 60, 16.</ls> {#ध्वजं चापाश्रयत् (चाप्याश्रयत्#} die neuere Ausg.) 
 <ls>HARIV. 13478.</ls> in übertr. Bed. so v. a. {%Halt und Schutz suchen bei Jmd, seine Zuflucht zu Jmd nehmen%}: {#नाप्यपाश्रित्य कं च न#} 
-<ls>Spr. (II) 580. 1739.</ls> 
+<ls>Spr. (II) 580.</ls> <ls n="Spr. (II)">1739.</ls> 
 <ls>MBH. 7, 6549.</ls> {#अन्योऽन्यमपाश्रित्य#} so v. a. {%von einander abhängend%} 
 <ls>12, 7936.</ls> 
 <div n="1">— 3) {%sich überlassen, - hingeben, greifen zu Etwas%}: {#आहारमनपाश्रित्य शरीरस्येव धारणम् (न विद्यते)#} 
-<ls>MBH. 1, 307</ls> <ls>?= 651.</ls> {#योगपट्टमपाश्रित्य (उपाश्रित्य#} die neuere Ausg.) 
+<ls>MBH. 1, 307</ls> = <ls>651.</ls> {#योगपट्टमपाश्रित्य (उपाश्रित्य#} die neuere Ausg.) 
 <ls>HARIV. 10743.</ls> — partic. {#अपाश्रित#} 
 <div n="1"> 1) in act. Bed. 
 <div n="2"> a) {%gelehnt an, angelehnt%}: {#मुषलापाश्रितोदर#} 
 <ls>HARIV. 4438.</ls> {#लतास्तरुमपाश्रिताः#} 
-<ls>12012.</ls> {#नापाश्रितो भुञ्जीत#} 
+<ls n="HARIV.">12012.</ls> {#नापाश्रितो भुञ्जीत#} 
 <ls>SUŚR. 2, 145, 18.</ls> in übertr. Bed. so v. a. {%der sich unter Jmdes Schutz gestellt hat%}: {#कृष्णं नाथम्#} 
 <ls>HARIV. 4288.</ls> 
 <div n="2">— b) {%geflüchtet in%}: {#केचिद्वनमपाश्रिताः#} 
@@ -506,7 +506,7 @@
 
 <div n="p">— {#व्यपा#} {%zu Jmd seine Zuflucht nehmen%}: {#मां व्यपाश्रित्य#} 
 <ls>BHAG. 9, 32.</ls> 
-<ls>MBH. 3, 595. 13, 3019. 15, 123.</ls> 
+<ls>MBH. 3, 595.</ls> <ls n="MBH.">13, 3019.</ls> <ls n="MBH.">15, 123.</ls> 
 <ls>HARIV. 4959.</ls> — partic. {#°श्रित#} 
 <div n="1"> 1) {%seine Zuflucht genommen habend, geflüchtet zu%}: {#धर्मराजम्#} 
 <ls>MBH. 15, 767.</ls> am Ende eines comp. 
@@ -545,7 +545,7 @@
 <ls>ŚĀṄKH. GṚHY. 4, 8.</ls> {#चूतं लता#} 
 <ls>R. 2, 96, 15.</ls> {#पाणी स्तनान्तरमुपाश्रितौ#} 
 <ls>5, 13, 52.</ls> {#मेरुर्मेरुवनम्#} 
-<ls>R.</ls> <ls>SCHL. 2, 73, 13.</ls> {#यस्मिन्नेतावुपाश्रितौ#} {%beruhend auf%} 
+<ls>R. SCHL. 2, 73, 13.</ls> {#यस्मिन्नेतावुपाश्रितौ#} {%beruhend auf%} 
 <ls>KAṬHOP. 5, 5.</ls> {%der sich an Jmd geschlossen —, zu Jmd seine Zuflucht genommen hat, geflüchtet zu%} 
 <ls>MBH. 12, 3284.</ls> {#माम्#} 
 <ls>BHAG. 4, 10.</ls> 
@@ -557,12 +557,12 @@
 <ls>Spr. 5007.</ls> {#शोणतीरम्#} 
 <ls>R. GORR. 1, 34, 18.</ls> {#हिमवन्तम्#} 
 <ls>36, 9 (35, 9</ls> <ls>SCHL.). 2, 119, 19. 4, 37, 25.</ls> {#वृक्षम्#} 
-<ls>MBH. 1, 5918. 3, 16694.</ls> 
+<ls>MBH. 1, 5918.</ls> <ls n="MBH.">3, 16694.</ls> 
 <ls>R. 2, 50, 35.</ls> {#वृक्षमूलम्#} 
 <ls>42, 16. 58, 4.</ls> <ls>R. GORR. 1, 58, 4. 3, 44, 27</ls> ({#उपाश्रितः#} zu lesen). {#भुजच्छायाम्#} 
 <ls>KATHĀS. 34, 39.</ls> {#रौद्रादीनि मघान्तान्युपाश्रिते चन्द्रजे#} 
 <ls>VARĀH. BṚH. S. 7, 3. 13, 6.</ls> {#आत्मनि मुक्तविग्रहे#} 
-<ls>BHĀG. P. 4, 11, 29</ls> (=  {#स्थित#} Comm.). 
+<ls>BHĀG. P. 4, 11, 29</ls> (= {#स्थित#} Comm.). 
 <div n="2">— c) {%der sich überlassen —, sich hingegeben —, zu Etwas gegriffen hat%}: {#चिन्ताम्#} 
 <ls>BHAG. 16, 11.</ls> {#विद्याबलम्#} 
 <ls>MBH. 3, 12218.</ls> {#मायायोगम्#} 
@@ -669,7 +669,7 @@
 <ls>KATHĀS. 50, 133.</ls> {%heimgesucht von%}: {#तृट्°#} 
 <ls>MBH. 14, 1605.</ls> 
 <div n="2">— c) {%wozu man gegriffen —, was man erwählt hat%}: {#अशिष्यत्वाद्धि लिङ्गस्य पुंस्त्वं चेह °श्रितम्#} 
-<ls>?<is>Kār</is>. 2 zu P. 7, 1, 1.</ls> 
+<is>Kār</is>. 2 zu <ls>P. 7, 1, 1.</ls> 
 <div n="v">— Vgl. {#समाश्रय#} u. s. w.
 
 <div n="p">— {#प्रतिसमा#}, partic. {#°श्रित#} {%beruhend auf, abhängig von%} (acc.) 
@@ -686,16 +686,16 @@
 <ls>MBH. 4, 1165.</ls> {#उच्छ्रित्य#} 
 <ls>1221.</ls> {#उच्छ्रयन्प्रथमं पादम्#} so v. a. {%den ersten Schritt thuend%} 
 <ls>HARIV. 2642.</ls> {#उच्छ्रित्य बाहू#} {%die Arme empor hebend%} 
-<ls>MBH. 3, 16842. 9, 15. 14, 1962.</ls> 
+<ls>MBH. 3, 16842.</ls> <ls n="MBH.">9, 15.</ls> <ls n="MBH.">14, 1962.</ls> 
 <ls>R. 2, 66, 17.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 39, 45. 57, 25. 68, 51.</ls> pass. {#उच्छ्रीयते#} 
+
+<ls>R. GORR. 2, 39, 45. 57, 25. 68, 51.</ls> pass. {#उच्छ्रीयते#} 
 <ls>AIT. BR. 2, 2.</ls> 
 <ls>ŚAT. BR. 3, 7, 1, 13. 2, 8.</ls> {#ध्वज उच्छिश्रिये#} 
 <ls>MBH. 4, 1018.</ls> {#उच्छ्रीयन्तां समन्तात्स्फुरदुरुमणयः श्रेणयस्तोरणानाम्#} 
 <ls>PRAB. 26, 7.</ls> 
 <div n="1">— 2) med. {%sich aufrichten, aufrecht stehen%} 
-<ls>?<is>Vārtt</is>. zu P. 3, 1, 89.</ls> {#उच्छ्रयते (उदशिश्रियत) दण्डः स्वयमेव#} 
+<is>Vārtt</is>. zu <ls>P. 3, 1, 89.</ls> {#उच्छ्रयते (उदशिश्रियत) दण्डः स्वयमेव#} 
 <ls>Schol.</ls> {#उच्छ्र^यस्व वनस्पते#} 
 <ls>ṚV. 3, 8, 3.</ls> {#अग्निर्दिविस्पृगुदश्रयत#} 
 <ls>AIT. BR. 3, 42.</ls> 
@@ -705,8 +705,8 @@
 <ls>KĀTY. ŚR. 13, 3, 13.</ls> 
 <ls>ŚĀṄKH. ŚR. 15, 19, 11.</ls> {#ध्वज#} 
 <ls>R. 2, 43, 10. 99, 14.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 5, 9.</ls> {#छत्त्र#} 
+
+<ls>R. GORR. 1, 5, 9.</ls> {#छत्त्र#} 
 <ls>RAGH. 17, 33.</ls> 
 <ls>KATHĀS. 25, 12. 53, 193.</ls> {#°भुज#} 
 <ls>VARĀH. BṚH. 27 (25), 7.</ls> {#°पाणि#} 
@@ -735,9 +735,9 @@
 <ls>5, 17, 29.</ls> {#नात्युच्छ्रितं नातिनीचमासनम्#} 
 <ls>BHAG. 6, 11.</ls> 
 <div n="1">— 3) {%emporgestiegen, zu Macht gelangt, mächtig%} (von Personen) 
-<ls>Spr. (II) 3829. 5336.</ls> {#अत्युच्छ्रित#} 
+<ls>Spr. (II) 3829.</ls> <ls n="Spr. (II)">5336.</ls> {#अत्युच्छ्रित#} 
 <ls>M. 7, 170.</ls> 
-<ls>Spr. (II) 178. 615.</ls> 
+<ls>Spr. (II) 178.</ls> <ls n="Spr. (II)">615.</ls> 
 <div n="1">— 4) {%üppig, übermüthig%}: {#उच्छ्रितानां निहन्ता#} 
 <ls>HARIV. 14367.</ls> {#शत्रु#} 
 <ls>R. 6, 95, 51</ls> (Gegens. {#दीन)#}.{# बाहुवीर्योच्छ्रित#} {%pochend auf%} 
@@ -774,7 +774,7 @@
 <div n="p">— {#प्रोद्#}, partic. {#प्रोच्छ्रित#} 
 <div n="1"> 1) {%emporgehalten%}: {#छत्त्र#} 
 <ls>HARIV. 4977.</ls> {%emporgehoben%}: {#बाहवः#} 
-<ls>10528.</ls> 
+<ls n="HARIV.">10528.</ls> 
 <div n="1">— 2) {%hervorragend, hoch%}: {#हर्म्य#} 
 <ls>MṚCCH. 76, 19.</ls>
 
@@ -789,7 +789,7 @@
 <div n="p">— {#समुद्#} act. {%aufrichten%}: {#ध्वजान्समुच्छिश्रियुः#} 
 <ls>BHAṬṬ. 14, 11.</ls> — partic. {#समुच्छ्रित#} 
 <div n="1"> 1) {%aufgerichtet, emporgehoben%}: {#यूप#} 
-<ls>MBH. 3, 8064. 7, 2389.</ls> {#°ध्वजवती (पुरी)#} 
+<ls>MBH. 3, 8064.</ls> <ls n="MBH.">7, 2389.</ls> {#°ध्वजवती (पुरी)#} 
 <ls>R. 1, 77, 6 (78, 6 GORR.). 3, 29, 3.</ls> <ls>VARĀH. BṚH. S. 43, 7.</ls> {#रथे केतुः#} 
 <ls>MBH. 3, 14434.</ls> {#°पताक#} 
 <ls>R. GORR. 2, 87, 24.</ls> {#°छत्त्र#} 
@@ -798,7 +798,7 @@
 <div n="1">— 2) {%in die Höhe gegangen%}: {#शोफ#} 
 <ls>SUŚR. 1, 63, 11.</ls> 
 <div n="1">— 3) {%hoch%} 
-<ls>MBH.1,1114.3,11269.</ls> <ls>R.2,80,20.4,41,40.6,96,8.</ls> <ls>Verz. d. Oxf. H. 117,a,22.</ls> <ls>Spr. (II) 2588.</ls> <ls>MĀRK. P. 54,18.</ls> <ls>PAÑCAR.1,12,16.</ls> 
+<ls>MBH. 1, 1114.</ls> <ls n="MBH.">3, 11269.</ls> <ls>R. 2,80,20.4,41,40.6,96,8.</ls> <ls>Verz. d. Oxf. H. 117,a,22.</ls> <ls>Spr. (II) 2588.</ls> <ls>MĀRK. P. 54,18.</ls> <ls>PAÑCAR. 1,12,16.</ls> 
 <div n="1">— 4) {%hoch stehend%} in übertr. Bed.: {#ध्वजवद्यशःख्यातिसमुच्छ्रितः (वैद्यः)#} 
 <ls>SUŚR. 1, 123, 3.</ls> 
 <div n="v">— Vgl. {#समुच्छ्रय, समुच्छ्राय#} .
@@ -863,7 +863,7 @@ Vgl. {#उपश्री#} .
 <ls>TS. 6, 1, 1, 1. 5, 6, 4.</ls> 
 <ls>TBR. 1, 6, 8, 6.</ls> {#परिश्रिद्भिः#} 
 <ls>ŚAT. BR. 7, 1, 1, 12. 3, 5, 3, 9.</ls> {#खातेन#} 
-<ls>?9, 4, 3, 9. AIT. BR. 1, 29. ŚĀṄKH. ŚR. 18, 24, 18. pass.</ls> : {#म\रुद्भि\ः परि^ श्रीयस्व#} {%umgieb dich%} 
+<ls>9, 4, 3, 9.</ls> <ls>AIT. BR. 1, 29.</ls> <ls>ŚĀṄKH. ŚR. 18, 24, 18. pass.</ls> : {#म\रुद्भि\ः परि^ श्रीयस्व#} {%umgieb dich%} 
 <ls>VS. 37, 13.</ls> 
 <ls>ŚĀṄKH. ŚR. 5, 13, 7.</ls> — partic. {#°श्रित#} 
 <div n="1"> 1) {%umherstehend%}: {#ये चान्नमिच्छन्ति ददस्व तेभ्यः परिश्रिता (= अन्ये ऽन्नोपजीविनः#} 
@@ -894,16 +894,16 @@ Vgl. {#उपश्री#} .
 <ls>MBH. 13, 6779.</ls> {#संनतः प्रश्रितो (प्रस्थितो#} ed. Bomb.) {#भूत्वा वाक्यमर्जुनमब्रवीत्#} 
 <ls>3, 1723.</ls> {#त्यागिनः प्रसृतस्येह#} (so beide Ausgg., = {#निष्ठावन्त्#} 
 <ls>NĪLAK.</ls>) {#नोच्छित्तिर्विद्यते क्वचित्#} 
-<ls>12, 351. 8358. 10898</ls> (=  {#श्रद्धावन्त्#} 
-<ls>NĪLAK.</ls><ls>). 13, 3540</ls> ({#प्रसृत#} beide Ausgg.). 
-<ls>6706.</ls> <ls>R. GORR. 2, 1, 36</ls> ({#°तर#}). 
+<ls>12, 351. 8358. 10898</ls> (= {#श्रद्धावन्त्#} 
+<ls>NĪLAK.</ls>). <ls n="MBH.">13, 3540</ls> ({#प्रसृत#} beide Ausgg.). 
+<ls n="MBH. 13,">6706.</ls> <ls>R. GORR. 2, 1, 36</ls> ({#°तर#}). 
 <ls>BHĀG. P. 1, 5, 29. 7, 5, 52.</ls> {#वाक्य#} 
-<ls>MBH. 3, 16002</ls> (beide Ausgg. {#प्रसृत, = पुष्कलार्थवन्त्#} 
-<ls>NĪLAK.</ls><ls>?). R. 1, 12, 2</ls> ({#प्रसृत#} 
-<ls>SCHL.</ls><ls>). 18, 5. 67, 25</ls> ({#प्रसृत#} 
-<ls>SCHL.</ls><ls>). 68, 3</ls> ({#°सृत#} 
-<ls>SCHL.</ls><ls>?). R. GORR. 2, 23, 1. 3, 52, 21</ls> ({#°सृत#} gedr.). {#प्रश्रितम्#} adv.: {#प्रोवाच प्रश्रितं विनयान्वितः#} 
-<ls>MBH. 1, 7532. 13, 6310</ls> ({#प्रसृतम्#} ed. Calc.). 
+<ls>MBH. 3, 16002</ls> (beide Ausgg. {#प्रसृत, = पुष्कलार्थवन्त्#} <ls>NĪLAK.</ls>). 
+<ls>R. 1, 12, 2</ls> ({#प्रसृत#} 
+<ls>SCHL.</ls>). <ls>18, 5. 67, 25</ls> ({#प्रसृत#} 
+<ls>SCHL.</ls>). <ls>68, 3</ls> ({#°सृत#} 
+<ls>SCHL.</ls>). <ls>R. GORR. 2, 23, 1. 3, 52, 21</ls> ({#°सृत#} gedr.). {#प्रश्रितम्#} adv.: {#प्रोवाच प्रश्रितं विनयान्वितः#} 
+<ls>MBH. 1, 7532.</ls> <ls n="MBH.">13, 6310</ls> ({#प्रसृतम्#} ed. Calc.). 
 <ls>BHĀG. P. 10, 41, 9.</ls> 
 <div n="1">— 2) {%verborgen, geheim, dunkel%}: {#अर्थ#} {%Sinn%} 
 <ls>MBH. 1, 82.</ls> 
@@ -914,7 +914,7 @@ Vgl. {#उपश्री#} .
 
 <div n="p">— {#संप्र#}, partic. {#°श्रित = प्रश्रित#} 1): {#स्थितं संप्रश्रितं दृष्ट्वा रामम्#} 
 <ls>R. GORR. 2, 15, 4.</ls> {#वाक्य#} 
-<ls>R.</ls> <ls>SCHL. 2, 70, 11.</ls>
+<ls>R. SCHL. 2, 70, 11.</ls>
 
 <div n="p">— {#प्रति#}, partic. {#°श्रित#} <lex>n.</lex> so v. a. {#प्रतिश्रय#} (wie die ed. Bomb. liest) {%Obdach%} 
 <ls>MBH. 13, 355.</ls>
@@ -941,14 +941,14 @@ Vgl. {#उपश्री#} .
 <ls>MBH. 3, 12868.</ls> 
 <div n="1">— 3) {%sich an Jmd%} (acc.) {%schliessen, - unter Jmdes Schutz stellen, sich zu Jmd flüchten%}; med. 
 <ls>MBH. 13, 340.</ls> 
-<ls>KĀM. NĪTIS. 11, 26. 19, 26.</ls> <ls>KATHĀS. 33, 118.</ls> <ls>?act. M. 7, 174. MBH. 7, 8215. R. 2, 66, 10.</ls> {#°श्रित्य#} 
+<ls>KĀM. NĪTIS. 11, 26. 19, 26.</ls> <ls>KATHĀS. 33, 118.</ls> act. <ls>M. 7, 174.</ls> <ls>MBH. 7, 8215.</ls> <ls>R. 2, 66, 10.</ls> {#°श्रित्य#} 
 <ls>Spr. (II) 5757.</ls> 
 <ls>MBH. 2, 128.</ls> 
 <div n="1">— 4) {%beruhen auf%}: {#न खलु बहिरुपाधीन्प्रीतयः संश्रयन्ते#} 
 <ls>MĀLATĪM. 15, 2.</ls> 
 <div n="1">— 5) {%sich an einen Ort%} (acc.) {%begeben%}; med. 
 <ls>M. 2, 24.</ls> 
-<ls>Spr. (II) 2308.</ls> <ls>?act. MBH. 3, 13053. 6, 705. 13, 2998. 15, 96. 1030. HIT. III, 147. MĀRK. P. 49, 35.</ls> 
+<ls>Spr. (II) 2308.</ls> act. <ls>MBH. 3, 13053.</ls> <ls n="MBH.">6, 705.</ls> <ls n="MBH.">13, 2998.</ls> <ls n="MBH.">15, 96.</ls> <ls n="MBH. 15,">1030.</ls> <ls>HIT. III, 147.</ls> <ls>MĀRK. P. 49, 35.</ls> 
 <div n="1">— 6) {%sich hingeben, greifen zu%}: {#बलं च दाक्ष्यं संश्रयस्व#} 
 <ls>MBH. 3, 10841.</ls> {#बाधिर्यं संश्रयेत्#} 
 <ls>Spr. (II) 1811.</ls> {#पक्षं कं च न संश्रयेत्#} 
@@ -963,7 +963,7 @@ Vgl. {#उपश्री#} .
 <ls>AIT. BR. 3, 11.</ls> {#पत्न्या लक्ष्म्या च#} {%verbunden mit%} 
 <ls>RĀJA-TAR. 2, 151.</ls> {#राक्षसं सैन्यं खरदूषणसंश्रितम्#} 
 <ls>R. 3, 31, 32. 32, 8.</ls> {#धर्मसंश्रितं वचनम्#} 
-<ls>R.</ls> <ls>SCHL. 2, 21, 40.</ls> {#संश्रितवन्त्#} {%der sich vereinigt hat mit%} (instr.) 
+<ls>R. SCHL. 2, 21, 40.</ls> {#संश्रितवन्त्#} {%der sich vereinigt hat mit%} (instr.) 
 <ls>ŚĀK. 88.</ls> 
 <div n="1">— 2) {%gelehnt —, geklammert an%}: {#बाहू रामस्य#} 
 <ls>R. 2, 60, 20.</ls> {#अनीश्वरो बलं धर्मो द्रुमं वल्लीव संश्रिता#} 
@@ -973,13 +973,13 @@ Vgl. {#उपश्री#} .
 <ls>R. 1, 1, 6.</ls> ohne Ergänzung 
 <ls>M. 4, 179.</ls> 
 <ls>YĀJÑ. 1, 157.</ls> 
-<ls>MBH. 12, 3284. 13, 4410.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 30, 37. 5, 86, 21.</ls> 
-<ls>Spr. (II) 1230. 1893.</ls> 
+<ls>MBH. 12, 3284.</ls> <ls n="MBH.">13, 4410.</ls> 
+
+<ls>R. GORR. 2, 30, 37. 5, 86, 21.</ls> 
+<ls>Spr. (II) 1230.</ls> <ls n="Spr. (II)">1893.</ls> 
 <ls>RĀJA-TAR. 5, 335.</ls> {#राज्ञः#} 
 <ls>Spr. (II) 634.</ls> {#राज°#} 
-<ls>(I) 3183, v. l.</ls> mit pass. Bed. {%unter dessen Schutz man sich gestellt hat%} 
+(<ls>I) 3183, v. l.</ls> mit pass. Bed. {%unter dessen Schutz man sich gestellt hat%} 
 <ls>MBH. 13, 6853.</ls> 
 <div n="1">— 4) {%haftend an, eigen%}: {#वेगसहस्राणि संश्रितानि तम्#} 
 <ls>R. 7, 23, 5, 17.</ls> {#जृम्भिका प्राणसंश्रिता#} 
@@ -1028,7 +1028,7 @@ Vgl. {#उपश्री#} .
 <ls>MBH. 12, 518.</ls> 
 <div n="1">— 3) {%gelangen zu, theilhaftig werden%}; pass.: {#तथाद्या प्रकृतिर्योगादभिसंश्रीयते (°श्रियते#} fälschlich ed. Bomb.) 
 <ls>MBH. 12, 10977.</ls> — partic. {#°श्रित#} {%der sich zu Jmd%} (acc.) {%begeben hat%} 
-<ls>MBH. 1, 1156. 13, 3717.</ls> {%der sich in Jmdes%} (acc.) {%Schutz begeben hat%} 
+<ls>MBH. 1, 1156.</ls> <ls n="MBH.">13, 3717.</ls> {%der sich in Jmdes%} (acc.) {%Schutz begeben hat%} 
 <ls>12, 2766.</ls> 
 <div n="v">— Vgl. {#अभिसंश्रय#} .
 

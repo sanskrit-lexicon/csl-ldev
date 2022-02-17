@@ -1,4 +1,4 @@
 <L>13399<pc>413<k1>legal<k2>legal
-<div n="lb"/>{@LEGAL:@}¦ <div n="1">(1) {#वैधः#} ({#धी, धं#}) (?); </div><div n="1">(2) {#विधिसंगतः#}
-<div n="lb"/>({#ता, तं#}) (?). <div n="xe">{%L. proceeding:%}</div> <div n="xs">{#व्यवहारः:#}</div> v. Action.</div>
+{@LEGAL:@}¦ <div n="1">(1) {#वैधः#} ({#धी, धं#}) (?); </div><div n="1">(2) {#विधिसंगतः#}
+({#ता, तं#}) (?). <div n="xe">{%L. proceeding:%}</div> <div n="xs">{#व्यवहारः:#}</div> v. Action.</div>
 <LEND>

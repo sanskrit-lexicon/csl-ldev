@@ -1,4 +1,4 @@
 <L>5332<pc>171<k1>cutlet<k2>cutlet
-<div n="lb"/>{@CUTLET:@}¦ {#*भृष्टफालिका,#} <div n="xe">{%veal c.:%}</div> <div n="xs">{#*भृष्टा वत्समांस-#}
-<div n="lb"/>{#फालिका।#}</div>
+{@CUTLET:@}¦ {#*भृष्टफालिका,#} <div n="xe">{%veal c.:%}</div> <div n="xs">{#*भृष्टा वत्समांस-#}
+{#फालिका।#}</div>
 <LEND>

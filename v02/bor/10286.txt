@@ -1,4 +1,4 @@
 <L>10286<pc>325<k1>greeting<k2>greeting
-<div n="lb"/>{@GREETING:@}¦ <div n="1">(1) {#सभाजनम्;#} </div><div n="1">(2) {#अभिनन्दनम्#} (= con-
-<div n="lb"/>-gratulation): v. Also salutation.</div>
+{@GREETING:@}¦ <div n="1">(1) {#सभाजनम्;#} </div><div n="1">(2) {#अभिनन्दनम्#} (= con-
+-gratulation): v. Also salutation.</div>
 <LEND>

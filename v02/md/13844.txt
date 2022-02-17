@@ -1,9 +1,9 @@
 <L>13844<pc>220-2<k1>मल्लिनाथ<k2>मल्लिनाथ
 {#मल्लिनाथ#}¦malli-nātha, {%m. N. of a poet and %}
-<>{%celebrated commentator%} ({%prob, fourteenth or %}
-<>{%fifteenth century%}), {%called%} Kolācala, {%who wrote %}
-<>{%commentaries on Kālidāsa's three works %}
-<>{%Raghuvaṃśa, Kumārasaṃbhara, and Meghadūta, %}<lbinfo n="2"/>
-<>{% as well as the Kirātārgunīya and%} 
-<>Ś{%isupālavadha%}.
+{%celebrated commentator%} ({%prob, fourteenth or %}
+{%fifteenth century%}), {%called%} Kolācala, {%who wrote %}
+{%commentaries on Kālidāsa's three works %}
+{%Raghuvaṃśa, Kumārasaṃbhara, and Meghadūta, %}<lbinfo n="2"/>
+{% as well as the Kirātārgunīya and%} 
+Ś{%isupālavadha%}.
 <LEND>

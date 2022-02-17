@@ -1,32 +1,32 @@
 <L>4001<pc>295-1<k1>गन्धर्व<k2>गन्धर्व<h>3
-{@Gandharva@}<sup>3</sup>,¦ sg. § 165 (Satyavatīlābhop.): I, {@100,@} 4047
-<div n="lb">({%yasya hi sapatnaḥ syā G°syāsurasya vā | na sa jātu ciraṃ jivet%}
-<div n="lb">{%tvayi%}—i.e. Bhīṣma—{%kruddhe, parantapa%}).—§ 510 (Draupadī-
-<div n="lb">Satyabhāmasaṃv.): III, {@233,@} 14671.—§ 551 (Kīcakavadhap.):
-<div n="lb">IV, {@22,@} 792 (Kīcaka is supposed to have been slain by a {%G.%});
-<div n="lb">{@23,@} 819 (Bhīmasena is taken for a {%G.%}).—§ 553 (Vaivāhikap.):
-<div n="lb">IV, {@71,@} 2293 ({%°a eṣa vai hantā Kīcakānāṃ,%} sc. Bhīmasena).—
+{@Gandharva@}<sup>3</sup>,¦ sg. § 165 (Satyavatīlābhop.): I, {@100@}, 4047
+({%yasya hi sapatnaḥ syā G°syāsurasya vā | na sa jātu ciraṃ jivet%}
+{%tvayi%}—i.e. Bhīṣma—{%kruddhe, parantapa%}).—§ 510 (Draupadī-
+Satyabhāmasaṃv.): III, {@233@}, 14671.—§ 551 (Kīcakavadhap.):
+IV, {@22@}, 792 (Kīcaka is supposed to have been slain by a {%G%}.);
+{@23@}, 819 (Bhīmasena is taken for a {%G%}.).—§ 553 (Vaivāhikap.):
+IV, {@71@}, 2293 ({%°a eṣa vai hantā Kīcakānāṃ%}, sc. Bhīmasena).—
 [Page295-b+ 61]
-<div n="lb">§ 565 (Yayāti): V, {@121,@} 4063 (Yayāti is questioned if he is
-<div n="lb">a {%G.%}).—§ 619 (Strīvilāpap.): XI, {@19,@} 564 ({%krīḍantam iva%}
-<div n="lb">{%G°ṃ devakanyāḥ sahasraśaḥ,%} sc. {%paryupāsante%}).—§ 671{%b%} (Bali-
-<div n="lb">Vāsavasaṃv.): XII, {@225,@} 8164 ({%naiva devo na G°o nāsuro%}
-<div n="lb">{%na ca Rākṣasaḥ | yo mām eko visahituṃ śakyaḥ kaścit,%} says Śrī).
+§ 565 (Yayāti): V, {@121@}, 4063 (Yayāti is questioned if he is
+a {%G%}.).—§ 619 (Strīvilāpap.): XI, {@19@}, 564 ({%krīḍantam iva%}
+{%G°ṃ devakanyāḥ sahasraśaḥ%}, sc. {%paryupāsante%}).—§ 671{%b%} (Bali-
+Vāsavasaṃv.): XII, {@225@}, 8164 ({%naiva devo na G°o nāsuro%}
+{%na ca Rākṣasaḥ | yo mām eko visahituṃ śakyaḥ kaścit%}, says Śrī).
 <div n="P">Names of individual Gandharvas—
-<div n="P">{@Aṅgāraparṇa@} (Citraratha): I, 6448 {%(A°),%} 6456, 6462,
-<div n="lb">6463, 6466, 6467, 6472, (6473), 6490, (6491), 6493, 6494,
-<div n="lb">(6495), 6518, (6519), (6560), (6584), (6632), 6634, 6635,
-<div n="lb">(6638), (6650), (6669), (6673), (6675), (6679), (6696),
-<div n="lb">(6725), (6745), (6760), (6769), (6779), (6792), (6865),
-<div n="lb">(6885), (6891), 6913, (6914), 6915, 6916 {%(°sattama),%} 6917;
-<div n="lb">II, 1880 {%(C°).%}
-<div n="P">{@Citrāṅgada:@} I, 3803, 4074, 4075, 4076.
-<div n="P">{@Citrasena:@} III, 1837, 1876, 14939, 15022, 15071
-<div n="lb">{%(°sattama),%} 15072, 15073; IV, 2073; XII, 7341 {%(C°).%}
-<div n="P">{@Dhṛtarāṣṭra:@} XIV, †259, (†263).
-<div n="P">{@Tumburu:@} II, 1881 {%(T°);%} IV, 1771 {%(T°).%}
-<div n="P">{@Viśvāvasu:@} I, 970 ({%°āpsarasoḥ sutā,%} i.e. Pramadvarā);
-<div n="lb">III, 16086 {%(V°);%} XII, 10218 {%(V°),%} 11749, 11754 {%(°sattamaḥ),%}
-<div n="lb">11755, 11772 {%(°sattama),%} 11773 (do.), 11792 (do.), 11793,
-<div n="lb">12176 {%(V°),%} 12201 {%(V°).%}
+<div n="P">{@Aṅgāraparṇa@} (Citraratha): I, 6448 ({%A°%}), 6456, 6462,
+6463, 6466, 6467, 6472, (6473), 6490, (6491), 6493, 6494,
+(6495), 6518, (6519), (6560), (6584), (6632), 6634, 6635,
+(6638), (6650), (6669), (6673), (6675), (6679), (6696),
+(6725), (6745), (6760), (6769), (6779), (6792), (6865),
+(6885), (6891), 6913, (6914), 6915, 6916 ({%°sattama%}), 6917;
+II, 1880 ({%C°%}).
+<div n="P">{@Citrāṅgada@}: I, 3803, 4074, 4075, 4076.
+<div n="P">{@Citrasena@}: III, 1837, 1876, 14939, 15022, 15071
+({%°sattama%}), 15072, 15073; IV, 2073; XII, 7341 ({%C°%}).
+<div n="P">{@Dhṛtarāṣṭra@}: XIV, †259, (†263).
+<div n="P">{@Tumburu@}: II, 1881 ({%T°%}); IV, 1771 ({%T°%}).
+<div n="P">{@Viśvāvasu@}: I, 970 ({%°āpsarasoḥ sutā%}, i.e. Pramadvarā);
+III, 16086 ({%V°%}); XII, 10218 ({%V°%}), 11749, 11754 ({%°sattamaḥ%}),
+11755, 11772 ({%°sattama%}), 11773 (do.), 11792 (do.), 11793,
+12176 ({%V°%}), 12201 ({%V°%}).
 <LEND>

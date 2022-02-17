@@ -1,101 +1,101 @@
 <L>3848<pc>145,1<k1>उपादाय<k2>उपादाय
 {@upādāya@}¦, ger., postp. (= Pali id.; cf. {@upādāna,@}
-<div n="lb">{@upādiyati@}; also {@samupādāya@}; note {@an-upādāya@}, used
-<div n="lb">in a sense not corresponding to any known Pali or BHS
-<div n="lb">mg. of upādāya; formally ger. of Skt. upa-ā-dā-, in BHS
-<div n="lb">and Pali used in special senses), fundamentally (and in
-<div n="lb">Skt.) {%taking to oneself, assuming, making use of%}, etc.; BHS
-<div n="lb">meanings (probably all paralleled in Pali, see Childers,
-<div n="lb">whose article on this word is far better than that of PTSD):
-<div n="lb">({@1@}) {%on the basis of%}, with preceding acc.: ({@a@}) {%in view of, in%}
-<div n="lb">{%consideration of, on the ground of, because of%}: LV 395.18
-<div n="lb">dharmasya cātigambhīrodāratām upādāya, {%and in view%}
-<div n="lb">(because) {%of the very profound nobility of the Law%}; Mv
-<div n="lb">iii.61.3--4 pratītyasamutpannāṃ dharmāṃ (acc. pl.)…
-<div n="lb">śāstā upādāya pratiniḥsargaṃ vijñapeti, {%on the ground of%}
-<div n="lb">{%states-of-being as originating in dependence, the Teacher%}
-<div n="lb">{%teaches abandonment%} (of them); Śikṣ 151.6 (sa…satt-
-<div n="lb">vānāṃ…) praṇamati, dharmagrāhyatām upādāya, {%(he%}
-<div n="lb">{%salutes creatures,) in view (because) of the fact that they must%}
-<div n="lb">{%be made to grasp the Law%}; ({@b@}) {%making use of, employing%}:
-<div n="lb">parikalpam upādāya Śikṣ 87.15, 16; 166.11, {%making use%}
-<div n="lb">{%of a hypothetical assumption, ‘to put an imaginary case’%}
-<div n="lb">(Bendall and Rouse); anukampām upādāya (extremely
-<div n="lb">common; also in Pali, °paṃ up°), {%employing (manifesting,%}
+{@upādiyati@}; also {@samupādāya@}; note {@an-upādāya@}, used
+in a sense not corresponding to any known Pali or BHS
+mg. of upādāya; formally ger. of Skt. upa-ā-dā-, in BHS
+and Pali used in special senses), fundamentally (and in
+Skt.) {%taking to oneself, assuming, making use of%}, etc.; BHS
+meanings (probably all paralleled in Pali, see Childers,
+whose article on this word is far better than that of PTSD):
+({@1@}) {%on the basis of%}, with preceding acc.: ({@a@}) {%in view of, in%}
+{%consideration of, on the ground of, because of%}: LV 395.18
+dharmasya cātigambhīrodāratām upādāya, {%and in view%}
+(because) {%of the very profound nobility of the Law%}; Mv
+iii.61.3--4 pratītyasamutpannāṃ dharmāṃ (acc. pl.)…
+śāstā upādāya pratiniḥsargaṃ vijñapeti, {%on the ground of%}
+{%states-of-being as originating in dependence, the Teacher%}
+{%teaches abandonment%} (of them); Śikṣ 151.6 (sa…satt-
+vānāṃ…) praṇamati, dharmagrāhyatām upādāya, {%(he%}
+{%salutes creatures,) in view (because) of the fact that they must%}
+{%be made to grasp the Law%}; ({@b@}) {%making use of, employing%}:
+parikalpam upādāya Śikṣ 87.15, 16; 166.11, {%making use%}
+{%of a hypothetical assumption, ‘to put an imaginary case’%}
+(Bendall and Rouse); anukampām upādāya (extremely
+common; also in Pali, °paṃ up°), {%employing (manifesting,%}
 [Page145-b+ 71]
-<div n="lb">{%showing) compassion%}, commonly preceded by a gen., or
-<div n="lb">in comp., {%as a merciful favor to…%} SP 166.1, 2 (asmā-
-<div n="lb">kam…); LV 6.2 (lokasyānu°), 21 (lokānu°); 64.19; 382.13,
-<div n="lb">21; 413.7; Mv i.255.1; 307.9; iii.171.12--13; Divy 36.27;
-<div n="lb">52.11--12; Av i.42.4; 290.13; etc. etc.; ({@c@}) {%with reference to%}:
-<div n="lb">Bbh 224.2, 3 (katamā…viśuddhā arthacaryā? sā)
-<div n="lb">daśavidhā draṣṭavyā; bahiḥśuddhim upādāya pañcavidhā,
-<div n="lb">antaḥśuddhim upādāya pañcavidhā; ({@d@}) {%for the purpose of%}:
-<div n="lb">Gv 242.4 (sudhanasya…)-paripākam upādāya; -vaśam
-<div n="lb">upādāya = -vaśena or -vaśāt (see s.v. {@vaśa@}), the ger. up°
-<div n="lb">being as it were the equivalent of the (causal) instr. or
-<div n="lb">abl. ending, as is neatly shown by SP 320.4 tathāgato
-<div n="lb">'parinirvāyann eva parinirvāṇam ārocayati, sattvānāṃ
-<div n="lb">vaineyavaśam upādāya, {%the T., not entering nirvāṇa at%}
-<div n="lb">{%all, lets his nirvāṇa appear, for the sake of conversion of%}
-<div n="lb">{%creatures%} (see s.vv. {@vaineya@} and {@vaśa@}), to which a close
-<div n="lb">parallel in SP 319.1 reads vaineyavaśena, or (v.l.) °vaśāt,
-<div n="lb">omitting upādāya; in a very similar passage Gv 206.5
-<div n="lb">(na…tathāgataḥ parinirvṛto na parinirvāti na parinir-
-<div n="lb">vāsyati)…atyantaparinirvāṇenānyatra vainayikasattva-
-<div n="lb">vaśam upādāya,…{%except, for the sake of those who are%}
-<div n="lb">{%to be converted by his%} (apparent or reputed) {%absolute com-%}
-<div n="lb">{%plete nirvāṇa%}; ({@2@}) {%beginning from%} (orig. {%taking as basis%}),
-<div n="lb">with prec. acc. (usually) or abl., once ā plus acc., once
-<div n="lb">loc.; often followed by a complementary phrase, yāvat
-<div n="lb">{%as far as%} (with following acc. or nom., once loc., in one
-<div n="lb">doubtful case, Mv i.17.10, possibly abl.); when such
-<div n="lb">phrases with yāvat occur in the examples below, they are
-<div n="lb">quoted; equivalent to prabhṛti with prec. abl. or in comp.,
-<div n="lb">and exchanges with it in Av i.255.10 yad upādāya…
-<div n="lb">tataḥ-prabhṛti, {%from what time…beginning from that%}
-<div n="lb">{%time%}; ({@a@}) in expressions of time or temporal sequence:
-<div n="lb">SP 18.6 pūrvakaṃ tathāgatam upādāya yāvat paścimakas
-<div n="lb">tathāgataḥ, so 'pi…abhūd, {%from the first T. to the last%}
-<div n="lb">{%T., even he was…%}; LV 160.18 asaṃkhyeyān kalpān up°;
-<div n="lb">Mv i.128.2 prathamāyāṃ bhūmau up° (the only case of
-<div n="lb">loc. noted!), {%beginning with%} (in) {%the first%} (bodhisattva-)
-<div n="lb">{%stage%}, but in i.128.6 below, prathamāṃ (mss. °mā) bhūmim
-<div n="lb">up°; Mv i.170.3 and 246.11--12 dīpaṃkaram up°, {%from%} (the
-<div n="lb">time of) {%D. on%}; Mv iii.393.7 adya (mss. asya) saptarātraṃ
-<div n="lb">up°, {%from a week ago today%}; Bhīk 9b.2 imaṃ divasam up°;
-<div n="lb">Divy 25.29 tam eva divasam up°; 413.19--20 garbhādānam
-<div n="lb">(so text, read °dhānam?) up°; the acc. preceded by ā,
-<div n="lb">Mvy 9215 ā saptamaṃ yugam up°, {%beginning from the%}
-<div n="lb">{%seventh%} (previous) {%generation%} (so Chin.); Mv iii.44.3 yad
-<div n="lb">upādāya rājā vipravāsito, tad up°, {%ever since when…,%}
-<div n="lb">{%ever since then…%}; instead of yad…tad, yataḥ…tataḥ,
-<div n="lb">Mv ii.211.18 yata up° ṛṣikumāro vijñaprāpto tata up°;
-<div n="lb">and tata up° alone = tataḥ-prabhṛti, RP 39.8; Gv 176.5;
-<div n="lb">Sukh 56.17, cf. Av i.255.10, above; ({@b@}) in expressions of
-<div n="lb">place or local sequence: LV 61.16 ito brahmalokam (note
-<div n="lb">mixture of abl. with acc.! Brahmā Sahāpati is speaking)
-<div n="lb">up° yāvat trayatiṃśad- (so text! see s.v.)-bhavanam;
-<div n="lb">64.12 adha-āpaskandham up°…yāvad brahmalokam;
-<div n="lb">273.16 nadīṃ ca nairañjanām up° yāvad bodhimaṇḍo;
-<div n="lb">Mv i.6.4 pārṣṇi up° yāvad (? adhi-)kṛkāṭikā; i.17.10 pārṣṇi
-<div n="lb">up° yāvat kṛkāṭikāto (abl.! but v.l. °ṭikā, nom., which
-<div n="lb">should perhaps be read); ii.302.3 bhūmitalam up° yāvad
-<div n="lb">bhavāgraṃ; Samādh 8.10 bhaumān devān up° yāvad
-<div n="lb">brahmalokam; Mv ii.2.8 cāturmahārājikān up°; ii.349.20
-<div n="lb">bhūmyā devā (acc. pl.; v.l. °myāṃ devām) up°; Divy
-<div n="lb">162.16 akaniṣṭhabhavanam up°; 359.11--12 bodhimūlam
-<div n="lb">up°; Suv 122.4 pṛthivītalam up°; Bbh 122.17--18 vṛddhān-
-<div n="lb">tam up° yāvan navakāntam; Mv ii.378.21 heṣṭā (adv.)
-<div n="lb">upādāya bhavāgra-pūraṃ (instead of yāvad bhavāgraṃ,
-<div n="lb">as in ii.302.3 above); the abl. is less common, Mv iii.148.3
-<div n="lb">mūrdhāto upādāya yāvat pādeṣu (loc.; only case of this
-<div n="lb">recorded); iii.288.6 mūlato up° yāvat puṣpam; ({@c@}) in
-<div n="lb">serial expressions, neither temporal nor spatial: Bbh 100.3
-<div n="lb">sarve caite apekṣā-hetum upādāya pratiniyama-hetv-
-<div n="lb">antā hetavaḥ, {%and all these%} (are) {%causes, beginning with%}
+{%showing) compassion%}, commonly preceded by a gen., or
+in comp., {%as a merciful favor to…%} SP 166.1, 2 (asmā-
+kam…); LV 6.2 (lokasyānu°), 21 (lokānu°); 64.19; 382.13,
+21; 413.7; Mv i.255.1; 307.9; iii.171.12--13; Divy 36.27;
+52.11--12; Av i.42.4; 290.13; etc. etc.; ({@c@}) {%with reference to%}:
+Bbh 224.2, 3 (katamā…viśuddhā arthacaryā? sā)
+daśavidhā draṣṭavyā; bahiḥśuddhim upādāya pañcavidhā,
+antaḥśuddhim upādāya pañcavidhā; ({@d@}) {%for the purpose of%}:
+Gv 242.4 (sudhanasya…)-paripākam upādāya; -vaśam
+upādāya = -vaśena or -vaśāt (see s.v. {@vaśa@}), the ger. up°
+being as it were the equivalent of the (causal) instr. or
+abl. ending, as is neatly shown by SP 320.4 tathāgato
+'parinirvāyann eva parinirvāṇam ārocayati, sattvānāṃ
+vaineyavaśam upādāya, {%the T., not entering nirvāṇa at%}
+{%all, lets his nirvāṇa appear, for the sake of conversion of%}
+{%creatures%} (see s.vv. {@vaineya@} and {@vaśa@}), to which a close
+parallel in SP 319.1 reads vaineyavaśena, or (v.l.) °vaśāt,
+omitting upādāya; in a very similar passage Gv 206.5
+(na…tathāgataḥ parinirvṛto na parinirvāti na parinir-
+vāsyati)…atyantaparinirvāṇenānyatra vainayikasattva-
+vaśam upādāya,…{%except, for the sake of those who are%}
+{%to be converted by his%} (apparent or reputed) {%absolute com-%}
+{%plete nirvāṇa%}; ({@2@}) {%beginning from%} (orig. {%taking as basis%}),
+with prec. acc. (usually) or abl., once ā plus acc., once
+loc.; often followed by a complementary phrase, yāvat
+{%as far as%} (with following acc. or nom., once loc., in one
+doubtful case, Mv i.17.10, possibly abl.); when such
+phrases with yāvat occur in the examples below, they are
+quoted; equivalent to prabhṛti with prec. abl. or in comp.,
+and exchanges with it in Av i.255.10 yad upādāya…
+tataḥ-prabhṛti, {%from what time…beginning from that%}
+{%time%}; ({@a@}) in expressions of time or temporal sequence:
+SP 18.6 pūrvakaṃ tathāgatam upādāya yāvat paścimakas
+tathāgataḥ, so 'pi…abhūd, {%from the first T. to the last%}
+{%T., even he was…%}; LV 160.18 asaṃkhyeyān kalpān up°;
+Mv i.128.2 prathamāyāṃ bhūmau up° (the only case of
+loc. noted!), {%beginning with%} (in) {%the first%} (bodhisattva-)
+{%stage%}, but in i.128.6 below, prathamāṃ (mss. °mā) bhūmim
+up°; Mv i.170.3 and 246.11--12 dīpaṃkaram up°, {%from%} (the
+time of) {%D. on%}; Mv iii.393.7 adya (mss. asya) saptarātraṃ
+up°, {%from a week ago today%}; Bhīk 9b.2 imaṃ divasam up°;
+Divy 25.29 tam eva divasam up°; 413.19--20 garbhādānam
+(so text, read °dhānam?) up°; the acc. preceded by ā,
+Mvy 9215 ā saptamaṃ yugam up°, {%beginning from the%}
+{%seventh%} (previous) {%generation%} (so Chin.); Mv iii.44.3 yad
+upādāya rājā vipravāsito, tad up°, {%ever since when…,%}
+{%ever since then…%}; instead of yad…tad, yataḥ…tataḥ,
+Mv ii.211.18 yata up° ṛṣikumāro vijñaprāpto tata up°;
+and tata up° alone = tataḥ-prabhṛti, RP 39.8; Gv 176.5;
+Sukh 56.17, cf. Av i.255.10, above; ({@b@}) in expressions of
+place or local sequence: LV 61.16 ito brahmalokam (note
+mixture of abl. with acc.! Brahmā Sahāpati is speaking)
+up° yāvat trayatiṃśad- (so text! see s.v.)-bhavanam;
+64.12 adha-āpaskandham up°…yāvad brahmalokam;
+273.16 nadīṃ ca nairañjanām up° yāvad bodhimaṇḍo;
+Mv i.6.4 pārṣṇi up° yāvad (? adhi-)kṛkāṭikā; i.17.10 pārṣṇi
+up° yāvat kṛkāṭikāto (abl.! but v.l. °ṭikā, nom., which
+should perhaps be read); ii.302.3 bhūmitalam up° yāvad
+bhavāgraṃ; Samādh 8.10 bhaumān devān up° yāvad
+brahmalokam; Mv ii.2.8 cāturmahārājikān up°; ii.349.20
+bhūmyā devā (acc. pl.; v.l. °myāṃ devām) up°; Divy
+162.16 akaniṣṭhabhavanam up°; 359.11--12 bodhimūlam
+up°; Suv 122.4 pṛthivītalam up°; Bbh 122.17--18 vṛddhān-
+tam up° yāvan navakāntam; Mv ii.378.21 heṣṭā (adv.)
+upādāya bhavāgra-pūraṃ (instead of yāvad bhavāgraṃ,
+as in ii.302.3 above); the abl. is less common, Mv iii.148.3
+mūrdhāto upādāya yāvat pādeṣu (loc.; only case of this
+recorded); iii.288.6 mūlato up° yāvat puṣpam; ({@c@}) in
+serial expressions, neither temporal nor spatial: Bbh 100.3
+sarve caite apekṣā-hetum upādāya pratiniyama-hetv-
+antā hetavaḥ, {%and all these%} (are) {%causes, beginning with%}
 [Page146-a+ 71]
-<div n="lb">{%apekṣā-cause and ending with pratiniyama-cause%}; a few
-<div n="lb">instances included under (b) above might perhaps be
-<div n="lb">placed here.
+{%apekṣā-cause and ending with pratiniyama-cause%}; a few
+instances included under (b) above might perhaps be
+placed here.
 <LEND>

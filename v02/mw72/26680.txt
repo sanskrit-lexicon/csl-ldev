@@ -1,31 +1,31 @@
 <L>26680<pc>0521-c<k1>पच्<k2>पच्<h>2
 {#पच्#} 2¦. {%pac,%} cl. 1. P. A. {%pacati, -te, pa-%}
-<div n="lb"/>{%pāca%} ({%papaktha%} or {%pecitha%}), {%pece%} (perf.
-<div n="lb"/>part. {%pecivas,%} f. {%pecuṣī%}), {%pakṣyati, -te, apākṣīt,%}
-<div n="lb"/>{%apakta%} (Vedic forms {%pakṣat, apeciran, peciran%}),
-<div n="lb"/>{%paktum%} (Ved. {%paktave%}), to cook, dress food, bake,
-<div n="lb"/>roast, boil; to melt (metals &c.); to bake or burn
-<div n="lb"/>(bricks); to digest; to ripen, mature, bring to
-<div n="lb"/>maturity; (figuratively) to bring to perfection or
-<div n="lb"/>completion; to develop anything (acc.) into another
-<div n="lb"/>state (acc.); to cook for one's self (A.): Pass. {%pac-%}
-<div n="lb"/>{%yate,%} to be cooked; to become ripe or mature, to
-<div n="lb"/>ripen; to arrive at completion or perfection (Mahā-
-<div n="lb"/>bh. Anuśāsana-p. 6205); to be developed; to be
-<div n="lb"/>inflamed: Caus. {%pācayati, -yitum,%} Aor. {%apīpacat,%}
-<div n="lb"/>to cause to be cooked, to have cooked, have dressed
-<div n="lb"/>(as food), to cook; to cause to ripen, to bring to
-<div n="lb"/>maturity or perfection, bring to completion, bring to
-<div n="lb"/>an end; to cure, heal; (A. {%-te%}), to cause to cook
-<div n="lb"/>for one's self: Pass. of Caus. {%pācyate,%} to be cooked:
-<div n="lb"/>Desid. {%pipakṣati:%} Intens. {%pāpacyate, pāpacīti,%}
-<div n="lb"/>to be much cooked, to cook very much, burn exces-
-<div n="lb"/>sively; (figuratively) to be much afflicted: Desid. of
-<div n="lb"/>the Intens. {%pāpaciṣati, -te;%} [cf. Zend <nsi>pac,</nsi> ‘to
-<div n="lb"/>cook:’ Gr. <lang n="greek">πέπ-ων, πεπ-τό-ς, πέψι-ς, πέπ-τω, πέμ-μα,</lang>
-<div n="lb"/><lang n="greek">πόπ-ανο-ν, ἕψ-ω</lang> for <lang n="greek">πέψ-ω, ὄψ-ο-ν, ὀπ-τό-ς</lang> for
-<div n="lb"/><lang n="greek">ποπ-τό-ς, ὀπτάω, ἀρτο-κόπος, ἀρτο-πόπος,</lang>
-<div n="lb"/><lang n="greek">δρυ-πεπής, δρύ-πεψ:</lang> Lat. <nsi>coqu-o, coquu-s, cŭ-līna,</nsi>
-<div n="lb"/><nsi>co-quina = pop-īna:</nsi> Slav. <nsi>pek-a,</nsi> ‘I cook;’ <nsi>pesh-ti,</nsi>
-<div n="lb"/>‘a stove:’ Lith. <nsi>kep-ti,</nsi> ‘to bake.’]
+{%pāca%} ({%papaktha%} or {%pecitha%}), {%pece%} (perf.
+part. {%pecivas,%} f. {%pecuṣī%}), {%pakṣyati, -te, apākṣīt,%}
+{%apakta%} (Vedic forms {%pakṣat, apeciran, peciran%}),
+{%paktum%} (Ved. {%paktave%}), to cook, dress food, bake,
+roast, boil; to melt (metals &c.); to bake or burn
+(bricks); to digest; to ripen, mature, bring to
+maturity; (figuratively) to bring to perfection or
+completion; to develop anything (acc.) into another
+state (acc.); to cook for one's self (A.): Pass. {%pac-%}
+{%yate,%} to be cooked; to become ripe or mature, to
+ripen; to arrive at completion or perfection (Mahā-
+bh. Anuśāsana-p. 6205); to be developed; to be
+inflamed: Caus. {%pācayati, -yitum,%} Aor. {%apīpacat,%}
+to cause to be cooked, to have cooked, have dressed
+(as food), to cook; to cause to ripen, to bring to
+maturity or perfection, bring to completion, bring to
+an end; to cure, heal; (A. {%-te%}), to cause to cook
+for one's self: Pass. of Caus. {%pācyate,%} to be cooked:
+Desid. {%pipakṣati:%} Intens. {%pāpacyate, pāpacīti,%}
+to be much cooked, to cook very much, burn exces-
+sively; (figuratively) to be much afflicted: Desid. of
+the Intens. {%pāpaciṣati, -te;%} [cf. Zend <nsi>pac,</nsi> ‘to
+cook:’ Gr. <lang n="greek">πέπ-ων, πεπ-τό-ς, πέψι-ς, πέπ-τω, πέμ-μα,</lang>
+<lang n="greek">πόπ-ανο-ν, ἕψ-ω</lang> for <lang n="greek">πέψ-ω, ὄψ-ο-ν, ὀπ-τό-ς</lang> for
+<lang n="greek">ποπ-τό-ς, ὀπτάω, ἀρτο-κόπος, ἀρτο-πόπος,</lang>
+<lang n="greek">δρυ-πεπής, δρύ-πεψ:</lang> Lat. <nsi>coqu-o, coquu-s, cŭ-līna,</nsi>
+<nsi>co-quina = pop-īna:</nsi> Slav. <nsi>pek-a,</nsi> ‘I cook;’ <nsi>pesh-ti,</nsi>
+‘a stove:’ Lith. <nsi>kep-ti,</nsi> ‘to bake.’]
 <LEND>

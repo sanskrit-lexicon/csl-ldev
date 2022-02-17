@@ -1,8 +1,8 @@
 <L>16891<pc>518<k1>pervade<k2>pervade
-<div n="lb"/>{@PERVADE:@}¦ <div n="1">(1) {#व्याप्नोति, अभि-,#} ({#आप्,#} c. 5.), {%all.%}
-<div n="lb"/>{%p. ing (God%}): {#सर्वव्यापिन्#} (f. {#नी#}), S.; ({%my%})
-<div n="lb"/><div n="xe">{%limbs which p. the remotest corners:%}</div> <div n="xs">{#व्याप्त-#}
-<div n="lb"/>{#दिगन्तानि मेऽङ्गानि,#}</div> Ku. vi. 59.; </div><div n="1">(2) {#अश्नुते, वि-,#}
-<div n="lb"/>({#अश्,#} c. 5.), <div n="xe">{%as if p. ing the world with his%}
-<div n="lb"/>{%dignity:%}</div> <div n="xs">{#अश्नु वानमिव विश्वमोजसा,#}</div> Ki. xii. 21.</div>
+{@PERVADE:@}¦ <div n="1">(1) {#व्याप्नोति, अभि-,#} ({#आप्,#} c. 5.), {%all.%}
+{%p. ing (God%}): {#सर्वव्यापिन्#} (f. {#नी#}), S.; ({%my%})
+<div n="xe">{%limbs which p. the remotest corners:%}</div> <div n="xs">{#व्याप्त-#}
+{#दिगन्तानि मेऽङ्गानि,#}</div> Ku. vi. 59.; </div><div n="1">(2) {#अश्नुते, वि-,#}
+({#अश्,#} c. 5.), <div n="xe">{%as if p. ing the world with his%}
+{%dignity:%}</div> <div n="xs">{#अश्नु वानमिव विश्वमोजसा,#}</div> Ki. xii. 21.</div>
 <LEND>

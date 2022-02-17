@@ -1,20 +1,20 @@
 <L>18472<pc>326-3<k1>संस्पर्धा<k2>संस्पर्धा
 {#संस्पर्धा#}¦saṃ-spardhā, {%f.%} rivalry, jealousy; 
-<>{@-spardhin,@} {%a.%} vying with (-°); jealous; {@-spar-@}
-<>{@-śá@}, {%m.%} touch, contact (with, -°); {@-sparśana@}, 
-<>{%a.%} touching; {%n.%} contact; {@-sparśin@}, {%a.%} touching; <lbinfo n="5"/>
-<> {@-spṛś@}, {%a. id.%}; {@-sphoṭa@}, {%m.%} concussion; 
-<>{@-smaraṇa@}, {%n.%} remembering, recollecting; 
-<>{@-smaraṇīya@}, {%fp.%} to be remembered, living in 
-<>remembrance {%only%}; {@-smartavya,@} {%fp.%} to be 
-<>remembered; {@-smṛti@}, {%f.%} remembrance, of 
-<>({%g.,%} -°): {@-ṃ labh@}, remember; {@-smṛta‡upa-@}
-<>{@-sthita@}, {%pp.%} appearing as soon as remembered; <lbinfo n="5"/>
-<> {@-sravá,@} {%m.%} conflux; confluent remainder <lbinfo n="2"/>
-<> {%of liquids%} ({%V.%}); flowing water; 
-<>{@-sravaṇa@}, {%n. in%} garbha --, miscarriage; {@-srā-@}
-<>{@-vá,@} {%m.%} conflux ({%V.%}); accumulation of matter 
-<>{%etc.%} ({%C.%}); remainder, dregs ({%V.%}); {@-sveda,@} {%m.%} 
-<>sweat: {@-ja@}, {%a. pl.%} produced from moist heat 
-<>({%vermin etc.%}).
+{@-spardhin,@} {%a.%} vying with (-°); jealous; {@-spar-@}
+{@-śá@}, {%m.%} touch, contact (with, -°); {@-sparśana@}, 
+{%a.%} touching; {%n.%} contact; {@-sparśin@}, {%a.%} touching; <lbinfo n="5"/>
+ {@-spṛś@}, {%a. id.%}; {@-sphoṭa@}, {%m.%} concussion; 
+{@-smaraṇa@}, {%n.%} remembering, recollecting; 
+{@-smaraṇīya@}, {%fp.%} to be remembered, living in 
+remembrance {%only%}; {@-smartavya,@} {%fp.%} to be 
+remembered; {@-smṛti@}, {%f.%} remembrance, of 
+({%g.,%} -°): {@-ṃ labh@}, remember; {@-smṛta‡upa-@}
+{@-sthita@}, {%pp.%} appearing as soon as remembered; <lbinfo n="5"/>
+ {@-sravá,@} {%m.%} conflux; confluent remainder <lbinfo n="2"/>
+ {%of liquids%} ({%V.%}); flowing water; 
+{@-sravaṇa@}, {%n. in%} garbha --, miscarriage; {@-srā-@}
+{@-vá,@} {%m.%} conflux ({%V.%}); accumulation of matter 
+{%etc.%} ({%C.%}); remainder, dregs ({%V.%}); {@-sveda,@} {%m.%} 
+sweat: {@-ja@}, {%a. pl.%} produced from moist heat 
+({%vermin etc.%}).
 <LEND>

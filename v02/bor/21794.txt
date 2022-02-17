@@ -1,13 +1,13 @@
 <L>21794<pc>687<k1>successful<k2>successful
-<div n="lb"/>{@SUCCESSFUL:@}¦ <div n="I">I Of persons: </div><div n="1">(1) {#सिद्धार्थ#} (f. {#र्था#}),
-<div n="lb"/><div n="xe">{%for those who patiently tried do not return%}
-<div n="lb"/>{%without being s.:%}</div> <div n="xs">{#असिद्धार्था निवर्तन्ते न हि धीराः #}
-<div n="lb"/>{# कृतोद्यमाः,#}</div> K. s. xxvi. 114.; </div><div n="1">(2) {#कृतिन्#} (f. {#नी#}),
-<div n="lb"/><div n="xe">{%you cannot consider yourself s. without conquer-%}
-<div n="lb"/>{%ing Raghu:%}</div> <div n="xs">{#न खल्वनिर्जित्य रघुं कृती भवान्,#}</div> R. iii.
-<div n="lb"/>51.; </div><div n="1">(3) {#कृतकृत्य#} (f. {#त्या#} = 2). </div><div n="I">II Of things:</div>
-<div n="lb"/><div n="1">(1) {#सिद्ध#} (f. {#द्धा#}), <div n="xe">{%our attempt has been s.:%}</div> <div n="xs">{#सिद्धं #}
-<div n="lb"/>{# नः समीहितम्,#}</div> H.; </div><div n="1">(2) {#सिद्धिमत्#} (f. {#ती#}), N.;</div>
-<div n="lb"/><div n="1">(3) {#सिद्धिशक्तिक#} (f. {#का#}), Com.; </div><div n="1">(4) {#सफल#}
-<div n="lb"/>(f. {#ला#} = fruitful: q. v.).</div>
+{@SUCCESSFUL:@}¦ <div n="I">I Of persons: </div><div n="1">(1) {#सिद्धार्थ#} (f. {#र्था#}),
+<div n="xe">{%for those who patiently tried do not return%}
+{%without being s.:%}</div> <div n="xs">{#असिद्धार्था निवर्तन्ते न हि धीराः #}
+{# कृतोद्यमाः,#}</div> K. s. xxvi. 114.; </div><div n="1">(2) {#कृतिन्#} (f. {#नी#}),
+<div n="xe">{%you cannot consider yourself s. without conquer-%}
+{%ing Raghu:%}</div> <div n="xs">{#न खल्वनिर्जित्य रघुं कृती भवान्,#}</div> R. iii.
+51.; </div><div n="1">(3) {#कृतकृत्य#} (f. {#त्या#} = 2). </div><div n="I">II Of things:</div>
+<div n="1">(1) {#सिद्ध#} (f. {#द्धा#}), <div n="xe">{%our attempt has been s.:%}</div> <div n="xs">{#सिद्धं #}
+{# नः समीहितम्,#}</div> H.; </div><div n="1">(2) {#सिद्धिमत्#} (f. {#ती#}), N.;</div>
+<div n="1">(3) {#सिद्धिशक्तिक#} (f. {#का#}), Com.; </div><div n="1">(4) {#सफल#}
+(f. {#ला#} = fruitful: q. v.).</div>
 <LEND>

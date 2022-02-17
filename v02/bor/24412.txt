@@ -1,27 +1,27 @@
 <L>24412<pc>764<k1>with<k2>with
-<div n="lb"/>{@WITH:@}¦ <div n="I">I Denoting instrument, means: by
-<div n="lb"/>ins., <div n="xe">{%to play w. dice:%}</div> <div n="xs">{#अक्षैर्दीव्यति,#}</div> Ve. i. 13.;
-<div n="lb"/>{%not only w.%} ({%their%}) <div n="xe">{%hearts:%}</div> <div n="xs">{#न केवलं हृदयेन,#}</div> N.
-<div n="lb"/>xi. 2.; <div n="xe">{%he was looked w. greater respect:%}</div> <div n="xs">{#गौरवेण #}
-<div n="lb"/>{# ददृशेतरामसौ,#}</div> Si. xiv. 43. </div><div n="I">II Along w.: by
-<div n="lb"/>ins. gen. with {#सह#} ({%or%} rarely) {#साकं, सार्धम्,#}
-<div n="lb"/>{#समम्,#} <div n="xe">{%to live w. Brahmans:%}</div> <div n="xs">{#ब्राह्मणैर्वसति,#}</div> Mah.
-<div n="lb"/>i. 84. 2.; {%did not burn himself w. the queen:%}
-<div n="lb"/>{#न चकार शरीरमग्निसात् सह देव्या,#} R. viii. 72.; <div n="xe">{%w.%}
-<div n="lb"/>{%Uddhava and Balavbhadra:%}</div> <div n="xs">{#सार्धमुद्धवसीरिभ्याम्,#}</div>
-<div n="lb"/>Si. ii. 2.; <div n="xe">{%w. your fame, your body is getting%}
-<div n="lb"/>{%thin:%}</div> <div n="xs">{#परैति कार्श्यं यशसा समं वपुः,#}</div> Ki. i. 39.</div>
-<div n="lb"/><div n="I">III Denoting manner: </div><div n="1">(1) by adv. with
-<div n="lb"/>{#स,#} <div n="xe">{%w. pleasure:%}</div> <div n="xs">{#सहर्षम्;#}</div> <div n="xe">{%w. alarm:%}</div> <div n="xs">{#सोद्वेगम्;#}</div></div>
-<div n="lb"/><div n="1">(2) by adj., <div n="xe">{%w. great pleasure:%}</div> <div n="xs">{#मुदा परमया #}
-<div n="lb"/>{# युतः;#}</div> <div n="xe">{%w. stick in hand:%}</div> <div n="xs">{#दण्डहस्तः;#}</div> etc.; <div n="xe">{%the%}
-<div n="lb"/>{%goddess w. ten arms:%}</div> <div n="xs">{#दशभुजा।#}</div> </div><div n="I">IV On the
-<div n="lb"/>side of: <div n="xe">{%the divine sages were w. the sons of%}
-<div n="lb"/>{%Pāṇḍu:%}</div> <div n="xs">{#देवर्षीणां गणाः पाण्डवतोऽभवन्,#}</div> Mah. viii.
-<div n="lb"/>87. 51. </div><div n="I">V In the opinion of: expr. w.
-<div n="lb"/>{#मतम्,#} <div n="xe">{%“w. the ancients”:%}</div> <div n="xs">{#प्राचां मते।#}</div> </div><div n="I">VI With
-<div n="lb"/>verbs denoting resentment etc.: by dat.
-<div n="lb"/>(G.). Ph.: {%one w. another:%} </div><div n="1">(1) {#परस्परम्;#} </div><div n="1">(2)
-<div n="lb"/>{#अन्योऽन्यम्।#} N. B. w. with verbs is also expr.
-<div n="lb"/>by {#सम्-#} in comp., <div n="xe">{%to live w.:%}</div> <div n="xs">{#संवसति।#}</div></div>
+{@WITH:@}¦ <div n="I">I Denoting instrument, means: by
+ins., <div n="xe">{%to play w. dice:%}</div> <div n="xs">{#अक्षैर्दीव्यति,#}</div> Ve. i. 13.;
+{%not only w.%} ({%their%}) <div n="xe">{%hearts:%}</div> <div n="xs">{#न केवलं हृदयेन,#}</div> N.
+xi. 2.; <div n="xe">{%he was looked w. greater respect:%}</div> <div n="xs">{#गौरवेण #}
+{# ददृशेतरामसौ,#}</div> Si. xiv. 43. </div><div n="I">II Along w.: by
+ins. gen. with {#सह#} ({%or%} rarely) {#साकं, सार्धम्,#}
+{#समम्,#} <div n="xe">{%to live w. Brahmans:%}</div> <div n="xs">{#ब्राह्मणैर्वसति,#}</div> Mah.
+i. 84. 2.; {%did not burn himself w. the queen:%}
+{#न चकार शरीरमग्निसात् सह देव्या,#} R. viii. 72.; <div n="xe">{%w.%}
+{%Uddhava and Balavbhadra:%}</div> <div n="xs">{#सार्धमुद्धवसीरिभ्याम्,#}</div>
+Si. ii. 2.; <div n="xe">{%w. your fame, your body is getting%}
+{%thin:%}</div> <div n="xs">{#परैति कार्श्यं यशसा समं वपुः,#}</div> Ki. i. 39.</div>
+<div n="I">III Denoting manner: </div><div n="1">(1) by adv. with
+{#स,#} <div n="xe">{%w. pleasure:%}</div> <div n="xs">{#सहर्षम्;#}</div> <div n="xe">{%w. alarm:%}</div> <div n="xs">{#सोद्वेगम्;#}</div></div>
+<div n="1">(2) by adj., <div n="xe">{%w. great pleasure:%}</div> <div n="xs">{#मुदा परमया #}
+{# युतः;#}</div> <div n="xe">{%w. stick in hand:%}</div> <div n="xs">{#दण्डहस्तः;#}</div> etc.; <div n="xe">{%the%}
+{%goddess w. ten arms:%}</div> <div n="xs">{#दशभुजा।#}</div> </div><div n="I">IV On the
+side of: <div n="xe">{%the divine sages were w. the sons of%}
+{%Pāṇḍu:%}</div> <div n="xs">{#देवर्षीणां गणाः पाण्डवतोऽभवन्,#}</div> Mah. viii.
+87. 51. </div><div n="I">V In the opinion of: expr. w.
+{#मतम्,#} <div n="xe">{%“w. the ancients”:%}</div> <div n="xs">{#प्राचां मते।#}</div> </div><div n="I">VI With
+verbs denoting resentment etc.: by dat.
+(G.). Ph.: {%one w. another:%} </div><div n="1">(1) {#परस्परम्;#} </div><div n="1">(2)
+{#अन्योऽन्यम्।#} N. B. w. with verbs is also expr.
+by {#सम्-#} in comp., <div n="xe">{%to live w.:%}</div> <div n="xs">{#संवसति।#}</div></div>
 <LEND>

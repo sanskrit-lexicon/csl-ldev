@@ -1,4 +1,4 @@
 <L>16002<pc>493<k1>ornamentally<k2>ornamentally
-<div n="lb"/>{@ORNAMENTALLY:@}¦ <div n="1">(1) {#अलङ्कर्तुम्;#} </div><div n="1">(2) {#मण्डनार्थम्;#}</div>
-<div n="lb"/><div n="1">(3) {#शोभाविवृद्धये;#} etc.</div>
+{@ORNAMENTALLY:@}¦ <div n="1">(1) {#अलङ्कर्तुम्;#} </div><div n="1">(2) {#मण्डनार्थम्;#}</div>
+<div n="1">(3) {#शोभाविवृद्धये;#} etc.</div>
 <LEND>

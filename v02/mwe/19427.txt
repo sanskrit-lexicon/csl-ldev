@@ -1,15 +1,15 @@
 <L>19427<pc>503-b<k1>minute<k2>minute
-<div n="lb"/>MINUTE¦, {%s.%} (Sixtieth part of an hour) {#पष्टिप्राणपादाः#} {%m. pl.,%}
-<div n="lb"/>{#क्षणपादः, क्षणचतुर्थांशः, सार्द्धद्विपलं;#} ‘half a minute,’ {#त्रिंशत्प्रा-#}
-<div n="lb"/>{#णपादा#}. According to the Hindu reckoning a {#दण्डः#} or
-<div n="lb"/>hour contains 24 minutes, and a {#पलं#} is equal to the
-<div n="lb"/>60th part of a {#दण्डः,#} therefore 2(1/2) palas are equal to a
-<div n="lb"/>minute. A {#क्षणः#} is equal to 30 {#कला#} or 4 minutes.
-<div n="lb"/>When, however, the word minute is used generally for
-<div n="lb"/>a small portion of time it may be expressed by {#क्षणः,#}
-<div n="lb"/>{#पलं, विपलं, त्रुटिः#} {%f.,%} {#निमिषः, निमेषः;#} as, ‘a minute's delay,’
-<div n="lb"/>{#क्षणक्षेपः;#} ‘for a minute,’ {#क्षणं -णात् -णेन;#} ‘in a minute,’
-<div n="lb"/>{#निमेषमात्रेण;#} ‘a minute afterwards,’ {#क्षणान्तरं -रे#}. — (In
-<div n="lb"/>geometry, the sixtieth part of a degree) {#कला#}. — (Note,
-<div n="lb"/>memorandum) {#स्मरणलेखः, स्मरणार्थलिखितं, लेखः, लिखितं, स्मरणचिह्नं#}.
+MINUTE¦, {%s.%} (Sixtieth part of an hour) {#पष्टिप्राणपादाः#} {%m. pl.,%}
+{#क्षणपादः, क्षणचतुर्थांशः, सार्द्धद्विपलं;#} ‘half a minute,’ {#त्रिंशत्प्रा-#}
+{#णपादा#}. According to the Hindu reckoning a {#दण्डः#} or
+hour contains 24 minutes, and a {#पलं#} is equal to the
+60th part of a {#दण्डः,#} therefore 2(1/2) palas are equal to a
+minute. A {#क्षणः#} is equal to 30 {#कला#} or 4 minutes.
+When, however, the word minute is used generally for
+a small portion of time it may be expressed by {#क्षणः,#}
+{#पलं, विपलं, त्रुटिः#} {%f.,%} {#निमिषः, निमेषः;#} as, ‘a minute's delay,’
+{#क्षणक्षेपः;#} ‘for a minute,’ {#क्षणं -णात् -णेन;#} ‘in a minute,’
+{#निमेषमात्रेण;#} ‘a minute afterwards,’ {#क्षणान्तरं -रे#}. — (In
+geometry, the sixtieth part of a degree) {#कला#}. — (Note,
+memorandum) {#स्मरणलेखः, स्मरणार्थलिखितं, लेखः, लिखितं, स्मरणचिह्नं#}.
 <LEND>

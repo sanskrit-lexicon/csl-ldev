@@ -1,5 +1,5 @@
 <L>4527<pc>147<k1>constancy<k2>constancy
-<div n="lb"/>{@CONSTANCY:@}¦ <div n="I">I Firmness: </div><div n="1">(1) {#स्थैर्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्थिरता;#}</div></div>
-<div n="lb"/><div n="1">(2) {#निश्चलता।#} </div><div n="I">II Of mind: {#स्थैयम्:#} v. Forti-
-<div n="lb"/>-tude, perseverance.</div>
+{@CONSTANCY:@}¦ <div n="I">I Firmness: </div><div n="1">(1) {#स्थैर्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्थिरता;#}</div></div>
+<div n="1">(2) {#निश्चलता।#} </div><div n="I">II Of mind: {#स्थैयम्:#} v. Forti-
+-tude, perseverance.</div>
 <LEND>

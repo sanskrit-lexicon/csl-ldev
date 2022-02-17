@@ -1,5 +1,5 @@
 <L>9574<pc>303<k1>furred<k2>furred
-<div n="lb"/>{@FURRED, FURRY:@}¦ <div n="I">I Lit.: {#सूक्ष्मलोमशः#} ({#शा, शं#});
-<div n="lb"/>{#सूक्ष्मरोमान्वितः#} ({#ता, तं#}). </div><div n="I">II Of the tongue:
-<div n="lb"/>{#कुलु(ल्व)किन्#} (f. {#नी#}).</div>
+{@FURRED, FURRY:@}¦ <div n="I">I Lit.: {#सूक्ष्मलोमशः#} ({#शा, शं#});
+{#सूक्ष्मरोमान्वितः#} ({#ता, तं#}). </div><div n="I">II Of the tongue:
+{#कुलु(ल्व)किन्#} (f. {#नी#}).</div>
 <LEND>

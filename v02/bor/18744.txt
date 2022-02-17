@@ -1,7 +1,7 @@
 <L>18744<pc>578<k1>record<k2>record
-<div n="lb"/>{@RECORD@}¦ (subs.); <div n="1">(1) {#लेख्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#लेखः, आ-,#}</div> <div n="xe">{%that he%}
-<div n="lb"/>{%delivers the r.s of Laṇkā for communicating to%}
-<div n="lb"/>{%Indra:%}</div> <div n="xs">{#येन लङ्कालेख्यकमुद्धृत्य समर्पयति पुरन्दरश्रावणाय,#}</div>
-<div n="lb"/>B. r. ix.; </div><div n="1">(2) perh. {#अक्षः,#} {%chief r.-keeper:%}
-<div n="lb"/>{#महाक्षपटलिकः,#} B. r. ix.</div>
+{@RECORD@}¦ (subs.); <div n="1">(1) {#लेख्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#लेखः, आ-,#}</div> <div n="xe">{%that he%}
+{%delivers the r.s of Laṇkā for communicating to%}
+{%Indra:%}</div> <div n="xs">{#येन लङ्कालेख्यकमुद्धृत्य समर्पयति पुरन्दरश्रावणाय,#}</div>
+B. r. ix.; </div><div n="1">(2) perh. {#अक्षः,#} {%chief r.-keeper:%}
+{#महाक्षपटलिकः,#} B. r. ix.</div>
 <LEND>

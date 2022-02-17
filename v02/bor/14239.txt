@@ -1,5 +1,5 @@
 <L>14239<pc>437<k1>masculine<k2>masculine
-<div n="lb"/>{@MASCULINE:@}¦ <div n="I">I Manly, strong: q. v. </div><div n="I">II In
-<div n="lb"/>gram., male: <div n="xe">{%m. gender:%}</div> <div n="xs">{#पुंलिङ्गम्;#}</div> {%in also m.:%}
-<div n="lb"/>{#पुंसि च।#}</div>
+{@MASCULINE:@}¦ <div n="I">I Manly, strong: q. v. </div><div n="I">II In
+gram., male: <div n="xe">{%m. gender:%}</div> <div n="xs">{#पुंलिङ्गम्;#}</div> {%in also m.:%}
+{#पुंसि च।#}</div>
 <LEND>

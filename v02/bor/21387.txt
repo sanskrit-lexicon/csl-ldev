@@ -1,5 +1,5 @@
 <L>21387<pc>674<k1>starve<k2>starve
-<div n="lb"/>{@STARVE@}¦ (v. i.): <div n="I">I Lit.: {#शीतेन#} <div n="xe">{%or%}</div> <div n="xs">{#क्षुधया सीदति #}
-<div n="lb"/>{# अव-,#}</div> ({#सद्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#म्रीयते#}</div> ({#मृ,#} c. 4. = die).</div>
-<div n="lb"/><div n="I">II Fig.: {#सीदति, अव-।#}</div>
+{@STARVE@}¦ (v. i.): <div n="I">I Lit.: {#शीतेन#} <div n="xe">{%or%}</div> <div n="xs">{#क्षुधया सीदति #}
+{# अव-,#}</div> ({#सद्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#म्रीयते#}</div> ({#मृ,#} c. 4. = die).</div>
+<div n="I">II Fig.: {#सीदति, अव-।#}</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>12185<pc>379<k1>influence<k2>influence
-<div n="lb"/>{@INFLUENCE@}¦ (subs.): <div n="I">I In gen.: no exact
-<div n="lb"/>equiv.: </div><div n="1">(1) {#बलम्#} (= force), {%by divine i.:%}
-<div n="lb"/>{#दैवबलात्;#} </div><div n="1">(2) {#प्रभावः#} (= power), <div n="xe">{%under the i. of the%}
-<div n="lb"/>{%sage:%}</div> <div n="xs">{#ऋषिप्रमावात्,#}</div> R.; </div><div n="1">(3) {#प्रभुत्वम्#} (= mastery),
-<div n="lb"/><div n="xe">{%as they had no i.:%}</div> <div n="xs">{#अप्रभुत्वात्,#}</div> D. i.; </div><div n="1">(4) {#वशम्#}
-<div n="lb"/>(= subjection), {%a man under the i. of a woman:%}
-<div n="lb"/>{#स्त्रीवशः,#} P.; </div><div n="1">(5) {#गौरवम्#} (weight), <div n="xe">{%he has great i.%}
-<div n="lb"/>{%with the king:%}</div> <div n="xs">{#राजन्निधौ महागौरवं तस्य।#}</div> </div><div n="I">II Dis-
-<div n="lb"/>-tinction: {#प्रत्रिष्ठा,#} <div n="xe">{%a man of i.:%}</div> <div n="xs">{#प्रतिष्ठापन्नो जनः।#}</div></div>
+{@INFLUENCE@}¦ (subs.): <div n="I">I In gen.: no exact
+equiv.: </div><div n="1">(1) {#बलम्#} (= force), {%by divine i.:%}
+{#दैवबलात्;#} </div><div n="1">(2) {#प्रभावः#} (= power), <div n="xe">{%under the i. of the%}
+{%sage:%}</div> <div n="xs">{#ऋषिप्रमावात्,#}</div> R.; </div><div n="1">(3) {#प्रभुत्वम्#} (= mastery),
+<div n="xe">{%as they had no i.:%}</div> <div n="xs">{#अप्रभुत्वात्,#}</div> D. i.; </div><div n="1">(4) {#वशम्#}
+(= subjection), {%a man under the i. of a woman:%}
+{#स्त्रीवशः,#} P.; </div><div n="1">(5) {#गौरवम्#} (weight), <div n="xe">{%he has great i.%}
+{%with the king:%}</div> <div n="xs">{#राजन्निधौ महागौरवं तस्य।#}</div> </div><div n="I">II Dis-
+-tinction: {#प्रत्रिष्ठा,#} <div n="xe">{%a man of i.:%}</div> <div n="xs">{#प्रतिष्ठापन्नो जनः।#}</div></div>
 <LEND>

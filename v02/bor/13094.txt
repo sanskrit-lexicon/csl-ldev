@@ -1,4 +1,4 @@
 <L>13094<pc>404<k1>labial<k2>labial
-<div n="lb"/>{@LABIAL:@}¦ <div n="I">I Adj.: {#औष्ठ्य#} (f. {#ष्ठ्या#}). </div><div n="I">II Subs.:
-<div n="lb"/>{#ओष्ठ्यवर्णः; औष्ठ्यम्।#}</div>
+{@LABIAL:@}¦ <div n="I">I Adj.: {#औष्ठ्य#} (f. {#ष्ठ्या#}). </div><div n="I">II Subs.:
+{#ओष्ठ्यवर्णः; औष्ठ्यम्।#}</div>
 <LEND>

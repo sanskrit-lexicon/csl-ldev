@@ -1,14 +1,14 @@
 <L>5690<pc>126-a<k1>consequence<k2>consequence
-<div n="lb"/>CONSEQUENCE¦, {%s.%} {#प्रयोगः, प्रयुक्तिः#} {%f.,%} {#फलं, फलमुत्तरं, उत्तरं, अनुसारः,#}
-<div n="lb"/>{#अनुषङ्गः, परिणामः, शेषः, अन्वयः, समन्वयः, योगः, उदर्कः, व्युष्टिः#} {%f.%}
-<div n="lb"/>{#-ष्टं, अर्थः, कार्य्यं, उत्पन्नं, उद्भूतं, सिद्धिः#} {%f.,%} {#प्रतिफलं, अनुभवः, अनुवृत्तं,#}
-<div n="lb"/>{#अनुवर्त्तनं, प्रयोजनं, निमित्तं, प्रत्ययः;#} ‘necessary consequence,’
-<div n="lb"/>{#कार्य्यवशः;#} ‘in consequence,’ {#प्रयोगतस्, कार्य्यतस्;#} ‘evil con-
-<div n="lb"/>sequences,’ {#मन्दफलं;#} ‘visible consequence,’ {#दृष्टार्थः;#} ‘invisi-
-<div n="lb"/>ble consequence,’ {#अदृष्टार्थः;#} ‘immediate consequence,’
-<div n="lb"/>{#सान्दृष्टिकं;#} ‘happy consequence,’ {#शुभफलं#}. — (Deduction, infe-
-<div n="lb"/>rence) {#अनुमानं, युक्तिः#} {%f.,%} {#ऊहा, अभ्यूहः, अपवाहः#}. — (Importance)
-<div n="lb"/>{#गौरवं, गुरुता, प्रभावः;#} ‘of little consequence,’ {#अल्पप्रभावः;#} ‘con-
-<div n="lb"/>sequence or importance of an act,’ {#कार्य्यगुरुता;#} ‘a matter
-<div n="lb"/>of some consequence,’ {#गुरुकार्य्यं#}.
+CONSEQUENCE¦, {%s.%} {#प्रयोगः, प्रयुक्तिः#} {%f.,%} {#फलं, फलमुत्तरं, उत्तरं, अनुसारः,#}
+{#अनुषङ्गः, परिणामः, शेषः, अन्वयः, समन्वयः, योगः, उदर्कः, व्युष्टिः#} {%f.%}
+{#-ष्टं, अर्थः, कार्य्यं, उत्पन्नं, उद्भूतं, सिद्धिः#} {%f.,%} {#प्रतिफलं, अनुभवः, अनुवृत्तं,#}
+{#अनुवर्त्तनं, प्रयोजनं, निमित्तं, प्रत्ययः;#} ‘necessary consequence,’
+{#कार्य्यवशः;#} ‘in consequence,’ {#प्रयोगतस्, कार्य्यतस्;#} ‘evil con-
+sequences,’ {#मन्दफलं;#} ‘visible consequence,’ {#दृष्टार्थः;#} ‘invisi-
+ble consequence,’ {#अदृष्टार्थः;#} ‘immediate consequence,’
+{#सान्दृष्टिकं;#} ‘happy consequence,’ {#शुभफलं#}. — (Deduction, infe-
+rence) {#अनुमानं, युक्तिः#} {%f.,%} {#ऊहा, अभ्यूहः, अपवाहः#}. — (Importance)
+{#गौरवं, गुरुता, प्रभावः;#} ‘of little consequence,’ {#अल्पप्रभावः;#} ‘con-
+sequence or importance of an act,’ {#कार्य्यगुरुता;#} ‘a matter
+of some consequence,’ {#गुरुकार्य्यं#}.
 <LEND>

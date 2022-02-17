@@ -1,13 +1,13 @@
 <L>81602<pc>431,3<k1>तक्ष्<k2>तक्ष्<h>1<e>1
 <hom>1.</hom> <s>तक्ष्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>°क्षति</s> 
 (<ab>ep.</ab> also <ab>Ā.</ab> <ab>impf.</ab> <s>त/क्षत्</s>, <s>अ/तक्षत्</s>, <ls>RV.</ls>;
-rarely <ab>cl.</ab> 2. 3.<ab>pl.</ab> <s>त/क्षति</s> [<ls>Pāṇ. 7-1, 39</ls>; <ls>Pat.</ls>] <ls>RV. i, 162, 6</ls>;
+rarely <ab>cl.</ab> 2. 3.<ab>pl.</ab> <s>त/क्षति</s> [<ls>Pāṇ. vii, 1, 39</ls>; <ls>Pat.</ls>] <ls>RV. i, 162, 6</ls>;
 <ab>impf.</ab> [<ab>aor.</ab>?] <s>अतक्ष्म</s>, 2. <ab>pl.</ab> <s>अतष्ट</s>, <ls>RV.</ls>;
-once <ab>cl.</ab> 5. [<s>तक्ष्णोति</s>, <ls>Pāṇ. 3-1, 76</ls>] <ab>Pot.</ab> <s>°क्ष्णुयुर्</s>, <ls>Lāṭy. viii</ls>;
+once <ab>cl.</ab> 5. [<s>तक्ष्णोति</s>, <ls>Pāṇ. iii, 1, 76</ls>] <ab>Pot.</ab> <s>°क्ष्णुयुर्</s>, <ls>Lāṭy. viii</ls>;
 See also <s>अप-</s>;
-<ab>aor.</ab>, <s>अतक्षीत्</s>, <ls>Pāṇ. 7-2, 7</ls>; <ls>Kāś.</ls>;
+<ab>aor.</ab>, <s>अतक्षीत्</s>, <ls>Pāṇ. vii, 2, 7</ls>; <ls>Kāś.</ls>;
 3. <ab>pl.</ab> <s>°क्षिषुर्</s>, <ls>RV. i, 130, 6</ls>;
-<ab>Subj.</ab> <s>तक्षिषत्</s> [<ls>Pāṇ. 3-4, 7</ls>; <ls>Kāś.</ls>], <ls>ŚāṅkhŚr vii</ls>;
+<ab>Subj.</ab> <s>तक्षिषत्</s> [<ls>Pāṇ. iii, 4, 7</ls>; <ls>Kāś.</ls>], <ls>ŚāṅkhŚr vii</ls>;
 <ab>pf.</ab> <s>तत/क्ष</s>, once <ab>Ā.</ab> <s>°क्षे/</s>, <ls>RV. v, 33, 4; 3</ls> <ab>pl.</ab> <s>°क्स्कु/र्</s>, <ls>RV. (8 times)</ls> &c., once <s>तक्षुर्</s>, <ls>ii, 19, 8</ls>;
 2. <ab>du.</ab> <s>तक्षथुर्</s>, <ls>x, 39, 4</ls>;
 <ab>pr. p.</ab> <lex type="part">f.</lex> <s>त/क्षती</s>, <ls>i, 164, 41</ls>;
@@ -21,6 +21,6 @@ See also <s>अप-</s>;
 <div n="vp"/> <ls>Līl.</ls> &c.;
 <div n="vp"/> = √ <s>त्वच्</s>, <ls>Dhātup. xvii, 13</ls>;
 <div n="vp"/> to, skin, <ls>ib.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>तक्षयति</s> (<ab>aor.</ab> <s>अततक्षत्</s>), <ls>Pāṇ. 7-4, 93</ls>; <ls>Kāś.</ls>;
+<div n="vp"/><ab>Caus.</ab> <s>तक्षयति</s> (<ab>aor.</ab> <s>अततक्षत्</s>), <ls>Pāṇ. vii, 4, 93</ls>; <ls>Kāś.</ls>;
 <div n="vp"/> <ab>cf.</ab> <s>त्वक्ष्</s>.<info westergaard="takza,17.13,01.0433"/><info whitneyroots="takz,59"/><info verb="genuineroot" cp="1P,1Ā,2,5Ā"/>
 <LEND>

@@ -1,4 +1,4 @@
 <L>1354<pc>028-b<k1>assessment<k2>assessment
-<div n="lb"/>ASSESSMENT¦, {%s.%} {#करग्रहणं, शुल्कग्रहणं, राजस्वग्रहणं#}. — (The sum levied)
-<div n="lb"/>{#करः, शुल्कः, शुल्कं, राजस्वं#}.
+ASSESSMENT¦, {%s.%} {#करग्रहणं, शुल्कग्रहणं, राजस्वग्रहणं#}. — (The sum levied)
+{#करः, शुल्कः, शुल्कं, राजस्वं#}.
 <LEND>

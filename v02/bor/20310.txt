@@ -1,5 +1,5 @@
 <L>20310<pc>634<k1>shape<k2>shape
-<div n="lb"/>{@SHAPE:@}¦ <div n="I">I Subs.: {#आकारः:#} v. Form. </div><div n="I">II
-<div n="lb"/>Verb: {#आकारं विदधाति#} ({#धा,#} c. 3: with gen.)
-<div n="lb"/>{%or%} sim. {#विदधाति:#} v. To form, make.</div>
+{@SHAPE:@}¦ <div n="I">I Subs.: {#आकारः:#} v. Form. </div><div n="I">II
+Verb: {#आकारं विदधाति#} ({#धा,#} c. 3: with gen.)
+{%or%} sim. {#विदधाति:#} v. To form, make.</div>
 <LEND>

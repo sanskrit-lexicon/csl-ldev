@@ -1,17 +1,17 @@
 <L>4143<pc>134<k1>common<k2>common
-<div n="lb"/>{@COMMON@}¦ (adj.): <div n="I">I Belonging to more than
-<div n="lb"/>one: </div><div n="1">(1) {#साधारणः#} ({#णी णं#}), {%c. property%}
-<div n="lb"/>{#साधारणधनम्,#} Da.; <div n="xe">{%c. to many:%}</div> <div n="xs">{#बहुसाधारण#}</div>
-<div n="lb"/>({#णी, णं#}), Da.; </div><div n="1">(2) {#सामान्यः#} ({#न्या, न्यं#}), {%thi%}
-<div n="lb"/>({%gem%}) <div n="xe">{%is c. to me and Balabhadra:%}</div> <div n="xs">{#एतन्म। #}
-<div n="lb"/>{# बलभद्रस्य च सामान्यम्,#}</div> V. p. </div><div n="I">II Usual, ordinary</div>
-<div n="lb"/><div n="1">(1) {#साधारणः#} ({#णी णं#}), <div n="xe">{%c. council:%}</div> <div n="xs">{#साधारणसभा#}</div>
-<div n="lb"/><div n="xe">{%c. crier:%}</div> <div n="xs">{#*साधारणघोषकः;#}</div> <div n="xe">{%c. noun:%}</div> <div n="xs">{#*साधारणनाम#}</div>
-<div n="lb"/>(n.); </div><div n="1">(2) {#सामान्यः#} ({#न्या, न्यं#}), “{%c. dame%}”
-<div n="lb"/>{#सामान्यनायिका,#} Sah.; <div n="xe">{%c. weaver:%}</div> <div n="xs">{#साभान्यकौलिक#}</div>
-<div n="lb"/>P. ii. 5.; <div n="xe">{%c. word:%}</div> <div n="xs">{#सामान्यशब्दः,#}</div> N. d,; {%a c.%}
-<div n="lb"/><div n="xe">{%man:%}</div> <div n="xs">{#सामान्यजनः,#}</div> Ra. v. ({#इतरः,#} V. p.). Ph.
-<div n="lb"/><div n="xe">{%c. saying:%}</div> <div n="xs">{#जनप्रवादः,#}</div> N.; <div n="xe">{%c. gender:%}</div> <div n="xs">{#स्त्रीपुंलिङ्गम्#}</div>
-<div n="lb"/><div n="xe">{%c. law:%}</div> <div n="xs">{#देशाचारः;#}</div> <div n="xe">{%the c. people:%}</div> <div n="xs">{#लौकिकाः,#}</div> <ls>T.</ls>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#प्रकृतयः,#}</div> R.; <div n="xe">{%c. sense:%}</div> <div n="xs">{#विवेकः।#}</div></div>
+{@COMMON@}¦ (adj.): <div n="I">I Belonging to more than
+one: </div><div n="1">(1) {#साधारणः#} ({#णी णं#}), {%c. property%}
+{#साधारणधनम्,#} Da.; <div n="xe">{%c. to many:%}</div> <div n="xs">{#बहुसाधारण#}</div>
+({#णी, णं#}), Da.; </div><div n="1">(2) {#सामान्यः#} ({#न्या, न्यं#}), {%thi%}
+({%gem%}) <div n="xe">{%is c. to me and Balabhadra:%}</div> <div n="xs">{#एतन्म। #}
+{# बलभद्रस्य च सामान्यम्,#}</div> V. p. </div><div n="I">II Usual, ordinary</div>
+<div n="1">(1) {#साधारणः#} ({#णी णं#}), <div n="xe">{%c. council:%}</div> <div n="xs">{#साधारणसभा#}</div>
+<div n="xe">{%c. crier:%}</div> <div n="xs">{#*साधारणघोषकः;#}</div> <div n="xe">{%c. noun:%}</div> <div n="xs">{#*साधारणनाम#}</div>
+(n.); </div><div n="1">(2) {#सामान्यः#} ({#न्या, न्यं#}), “{%c. dame%}”
+{#सामान्यनायिका,#} Sah.; <div n="xe">{%c. weaver:%}</div> <div n="xs">{#साभान्यकौलिक#}</div>
+P. ii. 5.; <div n="xe">{%c. word:%}</div> <div n="xs">{#सामान्यशब्दः,#}</div> N. d,; {%a c.%}
+<div n="xe">{%man:%}</div> <div n="xs">{#सामान्यजनः,#}</div> Ra. v. ({#इतरः,#} V. p.). Ph.
+<div n="xe">{%c. saying:%}</div> <div n="xs">{#जनप्रवादः,#}</div> N.; <div n="xe">{%c. gender:%}</div> <div n="xs">{#स्त्रीपुंलिङ्गम्#}</div>
+<div n="xe">{%c. law:%}</div> <div n="xs">{#देशाचारः;#}</div> <div n="xe">{%the c. people:%}</div> <div n="xs">{#लौकिकाः,#}</div> <ls>T.</ls>
+<div n="xe">{%or%}</div> <div n="xs">{#प्रकृतयः,#}</div> R.; <div n="xe">{%c. sense:%}</div> <div n="xs">{#विवेकः।#}</div></div>
 <LEND>

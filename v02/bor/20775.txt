@@ -1,8 +1,8 @@
 <L>20775<pc>652<k1>slough<k2>slough
-<div n="lb"/>{@SLOUGH@}¦ (subs.): <div n="I">I Of a snake; </div><div n="1">(1) {#निर्मोकः,#}
-<div n="lb"/><div n="xe">{%to cast off s.:%}</div> <div n="xs">{#निर्मोकं विमुञ्चति,#}</div> R. xvi. 17.; </div><div n="1">(2)
-<div n="lb"/>{#कञ्चुकः,#} {%a venomous snake with the s. shorn off:%}
-<div n="lb"/>{#विगलत्कञ्चुकः पन्नगेन्द्रः,#} Vi. vi. 53. </div><div n="I">II Of a
-<div n="lb"/>wound: perh. {#कञ्चुकः#} <div n="xe">{%or%}</div> <div n="xs">{#कोषः#}</div> (comp. verna-
-<div n="lb"/>-cular). </div><div n="I">III A deep miry place: {#महापङ्कः।#}</div>
+{@SLOUGH@}¦ (subs.): <div n="I">I Of a snake; </div><div n="1">(1) {#निर्मोकः,#}
+<div n="xe">{%to cast off s.:%}</div> <div n="xs">{#निर्मोकं विमुञ्चति,#}</div> R. xvi. 17.; </div><div n="1">(2)
+{#कञ्चुकः,#} {%a venomous snake with the s. shorn off:%}
+{#विगलत्कञ्चुकः पन्नगेन्द्रः,#} Vi. vi. 53. </div><div n="I">II Of a
+wound: perh. {#कञ्चुकः#} <div n="xe">{%or%}</div> <div n="xs">{#कोषः#}</div> (comp. verna-
+-cular). </div><div n="I">III A deep miry place: {#महापङ्कः।#}</div>
 <LEND>

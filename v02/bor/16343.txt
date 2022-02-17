@@ -1,4 +1,4 @@
 <L>16343<pc>501<k1>pannel<k2>pannel
-<div n="lb"/>{@PANNEL:@}¦ <div n="I">I Rustic saddle: {#पर्याणम्।#} </div><div n="I">II Of a
-<div n="lb"/>hawk: {#जठरम्।#}</div>
+{@PANNEL:@}¦ <div n="I">I Rustic saddle: {#पर्याणम्।#} </div><div n="I">II Of a
+hawk: {#जठरम्।#}</div>
 <LEND>

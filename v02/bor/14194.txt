@@ -1,9 +1,9 @@
 <L>14194<pc>435<k1>mark<k2>mark
-<div n="lb"/>{@MARK@}¦ (subs.): <div n="I">I A sign, character: {#चिह्नम्,#} [Page436]
-<div n="lb"/><div n="xe">{%m. of one condemned to death:%}</div> <div n="xs">{#वध्यचिह्नम्,#}</div> Na.</div>
-<div n="lb"/><div n="I">II Characteristic: </div><div n="1">(1) {#चिह्नम्;#} </div><div n="1">(2) {#लक्षणम्;#}</div>
-<div n="lb"/><div n="1">(3) {#व्यञ्जनम्।#} </div><div n="I">III Butt.: {#लक्ष्यम्(क्षम्),#} {%hitting%} (lit.
-<div n="lb"/>piercing) <div n="xe">{%the m.:%}</div> <div n="xs">{#लक्ष्यभेदः।#}</div> </div><div n="I">IV A coin:
-<div n="lb"/>{#मुद्राविशेषः।#} Ph.: ({%a man%}) <div n="xe">{%of m.:%}</div> <div n="xs">{#लब्धवर्ण#}</div> (f. {#र्णा#});
-<div n="lb"/><div n="xe">{%to make a m.:%}</div> <div n="xs">{#*लक्षणं स्थापयति#}</div> (c. of {#स्था#}).</div>
+{@MARK@}¦ (subs.): <div n="I">I A sign, character: {#चिह्नम्,#} [Page436]
+<div n="xe">{%m. of one condemned to death:%}</div> <div n="xs">{#वध्यचिह्नम्,#}</div> Na.</div>
+<div n="I">II Characteristic: </div><div n="1">(1) {#चिह्नम्;#} </div><div n="1">(2) {#लक्षणम्;#}</div>
+<div n="1">(3) {#व्यञ्जनम्।#} </div><div n="I">III Butt.: {#लक्ष्यम्(क्षम्),#} {%hitting%} (lit.
+piercing) <div n="xe">{%the m.:%}</div> <div n="xs">{#लक्ष्यभेदः।#}</div> </div><div n="I">IV A coin:
+{#मुद्राविशेषः।#} Ph.: ({%a man%}) <div n="xe">{%of m.:%}</div> <div n="xs">{#लब्धवर्ण#}</div> (f. {#र्णा#});
+<div n="xe">{%to make a m.:%}</div> <div n="xs">{#*लक्षणं स्थापयति#}</div> (c. of {#स्था#}).</div>
 <LEND>

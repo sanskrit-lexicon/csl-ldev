@@ -1,7 +1,7 @@
 <L>60228<pc>5-0755<k1>माल्यवन्त्<k2>माल्यवन्त्
 {#माल्यवन्त्#}¦ (von {#माल्य)#} 
 <div n="1"> 1) <lex>adj.</lex> {%bekränzt, mit Kränzen geschmückt%}: {#शिरोरुहाः#} 
-<ls>MBH. 1, 6468. 4, 749.</ls> {#सभा#} 
+<ls>MBH. 1, 6468.</ls> <ls n="MBH.">4, 749.</ls> {#सभा#} 
 <ls>5, 2.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. 
 <div n="2"> a) eines <is>Rākṣasa</is>, eines Sohnes des <is>Sukeśa</is>, 
@@ -14,7 +14,7 @@
 <ls>TRIK. 2, 3, 3.</ls> 
 <ls>H. 1029. 1538,</ls> 
 <ls>Sch.</ls> 
-<ls>MBH. 3, 11560. 16118. 6, 203. 14, 1174.</ls> 
+<ls>MBH. 3, 11560.</ls> <ls n="MBH. 3,">16118.</ls> <ls n="MBH.">6, 203.</ls> <ls n="MBH.">14, 1174.</ls> 
 <ls>R. 4, 27, 1. 38, 11. 6, 108, 25.</ls> 
 <ls>RAGH. 13, 26.</ls> 
 <ls>VARĀH. BṚH. S. 14, 5.</ls> 

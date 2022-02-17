@@ -1,4 +1,4 @@
 <L>12227<pc>380<k1>ingredient<k2>ingredient
-<div n="lb"/>{@INGREDIENT:@}¦ <div n="1">(1) {#साधनम्#} (?); {#वस्तु#} (n.) (when
-<div n="lb"/>the sense is clear).</div>
+{@INGREDIENT:@}¦ <div n="1">(1) {#साधनम्#} (?); {#वस्तु#} (n.) (when
+the sense is clear).</div>
 <LEND>

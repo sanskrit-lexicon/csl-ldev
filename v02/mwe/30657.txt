@@ -1,13 +1,13 @@
 <L>30657<pc>824-b<k1>use<k2>use
-<div n="lb"/>USE¦, {%s.%} (Employment, application of any thing) {#प्रयोगः, उपयोगः,#}
-<div n="lb"/>{#प्रयोजनं, प्रयुक्तिः#} {%f.,%} {#व्यापारः, व्यवहारः, सेवनं, उपभोगः, भोगः, योगः;#}
-<div n="lb"/>‘use of any article,’ {#द्रव्यप्रयोजनं;#} ‘in general use,’ {#रूढः#}
-<div n="lb"/>{#-ढा -ढं, प्रचलः -ला -लं, सर्व्वप्रयुक्तः#} &c.; ‘out of use,’ {#अवसन्नः#}
-<div n="lb"/>{#-न्ना -न्नं;#} ‘to make use of,’ {%see To%} USE. — (Utility) {#उपयोगः#}
-<div n="lb"/>{#-गित्वं, उपकारः, अर्थः, फलं, प्रयोजनं;#} ‘what's the use of that
-<div n="lb"/>to me?’ {#कोऽर्थो मे तेन;#} ‘this instrument is of great use
-<div n="lb"/>in giving warning of a storm,’ {#इदं यन्त्रं झञ्झावातागमज्ञापकम्#}
-<div n="lb"/>{#अत्युपकारकं;#} ‘of what use?’ {#किमर्थं#}. — (Occasion for) {#प्रयोजनं,#}
-<div n="lb"/>{%see%} NEED. — (Practice) {#व्यवहारः, अभ्यासः, अभ्यसनं, प्रचारः#}. — 
-<div n="lb"/>(For pious uses) {#धर्म्मार्थं#}.
+USE¦, {%s.%} (Employment, application of any thing) {#प्रयोगः, उपयोगः,#}
+{#प्रयोजनं, प्रयुक्तिः#} {%f.,%} {#व्यापारः, व्यवहारः, सेवनं, उपभोगः, भोगः, योगः;#}
+‘use of any article,’ {#द्रव्यप्रयोजनं;#} ‘in general use,’ {#रूढः#}
+{#-ढा -ढं, प्रचलः -ला -लं, सर्व्वप्रयुक्तः#} &c.; ‘out of use,’ {#अवसन्नः#}
+{#-न्ना -न्नं;#} ‘to make use of,’ {%see To%} USE. — (Utility) {#उपयोगः#}
+{#-गित्वं, उपकारः, अर्थः, फलं, प्रयोजनं;#} ‘what's the use of that
+to me?’ {#कोऽर्थो मे तेन;#} ‘this instrument is of great use
+in giving warning of a storm,’ {#इदं यन्त्रं झञ्झावातागमज्ञापकम्#}
+{#अत्युपकारकं;#} ‘of what use?’ {#किमर्थं#}. — (Occasion for) {#प्रयोजनं,#}
+{%see%} NEED. — (Practice) {#व्यवहारः, अभ्यासः, अभ्यसनं, प्रचारः#}. — 
+(For pious uses) {#धर्म्मार्थं#}.
 <LEND>

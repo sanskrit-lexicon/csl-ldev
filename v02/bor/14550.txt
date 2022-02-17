@@ -1,6 +1,6 @@
 <L>14550<pc>446<k1>metrical<k2>metrical
-<div n="lb"/>{@METRICAL:@}¦ expr. by the above words: <div n="xe">{%m.%}
-<div n="lb"/>{%composition is poetry:%}</div> <div n="xs">{#छन्दोबद्धपदं पद्यम्,#}</div> Sah.;
-<div n="lb"/><div n="xe">{%what is not m. is prose:%}</div> <div n="xs">{#वृत्तबन्धोज्भितं गद्यम्,#}</div>
-<div n="lb"/>Sah.
+{@METRICAL:@}¦ expr. by the above words: <div n="xe">{%m.%}
+{%composition is poetry:%}</div> <div n="xs">{#छन्दोबद्धपदं पद्यम्,#}</div> Sah.;
+<div n="xe">{%what is not m. is prose:%}</div> <div n="xs">{#वृत्तबन्धोज्भितं गद्यम्,#}</div>
+Sah.
 <LEND>

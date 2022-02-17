@@ -1,4 +1,4 @@
 <L>18724<pc>577<k1>recluse<k2>recluse
-<div n="lb"/>{@RECLUSE:@}¦ <div n="I">I Subs.: {#सन्न्यासिन्#} (f. {#नी#}): v. Hermit.</div>
-<div n="lb"/><div n="I">II Adj.: {#विविक्त#} (f. {#क्ता#}): v. Solitary, lonely.</div>
+{@RECLUSE:@}¦ <div n="I">I Subs.: {#सन्न्यासिन्#} (f. {#नी#}): v. Hermit.</div>
+<div n="I">II Adj.: {#विविक्त#} (f. {#क्ता#}): v. Solitary, lonely.</div>
 <LEND>

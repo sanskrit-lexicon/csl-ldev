@@ -1,9 +1,9 @@
 <L>18019<pc>552<k1>prospect<k2>prospect
-<div n="lb"/>{@PROSPECT:@}¦ <div n="I">I View: q. v.: {#दृष्टिः,#} <div n="xe">{%a grand p. of%}
-<div n="lb"/>{%the world is on view:%}</div> <div n="xs">{#आश्चर्यदर्शनः संलक्ष्यते #}
-<div n="lb"/>{# मनुष्यलोकः,#}</div> Sa. vii. </div><div n="I">II Field of view: </div><div n="1">(1)
-<div n="lb"/>{#चक्षुर्विषयः;#} </div><div n="1">(2) with {#दृष्टिगोचर#} (f. {#रा#}). </div><div n="I">III
-<div n="lb"/>Anticipation: {#आयतिः,#} {%of unpolluted p. s:%}
-<div n="lb"/>{#अदूषितायति#} (mfn.), Ki. ii. 35. </div><div n="I">IV Expec-
-<div n="lb"/>-tation; {#आशा#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्याशा#}</div> (= hope).</div>
+{@PROSPECT:@}¦ <div n="I">I View: q. v.: {#दृष्टिः,#} <div n="xe">{%a grand p. of%}
+{%the world is on view:%}</div> <div n="xs">{#आश्चर्यदर्शनः संलक्ष्यते #}
+{# मनुष्यलोकः,#}</div> Sa. vii. </div><div n="I">II Field of view: </div><div n="1">(1)
+{#चक्षुर्विषयः;#} </div><div n="1">(2) with {#दृष्टिगोचर#} (f. {#रा#}). </div><div n="I">III
+Anticipation: {#आयतिः,#} {%of unpolluted p. s:%}
+{#अदूषितायति#} (mfn.), Ki. ii. 35. </div><div n="I">IV Expec-
+-tation; {#आशा#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्याशा#}</div> (= hope).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>20018<pc>623<k1>seated<k2>seated
-<div n="lb"/>{@SEATED:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#आसीन#} (f. {#ना#}), <div n="xe">{%and%}
-<div n="lb"/>{%when all of them had s.:%}</div> <div n="xs">{#सर्वासु चासीनासु तासु,#}</div>
-<div n="lb"/><ls>K.</ls> ; </div><div n="1">(2) {#उपविष्ट#} (f. {#ष्टा#}), {#सम्-;#} </div><div n="1">(3) {#स्थ#} (f. {#स्था#})
-<div n="lb"/>in comp., <div n="xe">{%s. in heart:%}</div> <div n="xs">{#हृदयस्थ#}</div> (f. {#स्था#}), R. x. 19.</div>
-<div n="lb"/><div n="I">II Rooted: q. v.</div>
+{@SEATED:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#आसीन#} (f. {#ना#}), <div n="xe">{%and%}
+{%when all of them had s.:%}</div> <div n="xs">{#सर्वासु चासीनासु तासु,#}</div>
+<ls>K.</ls> ; </div><div n="1">(2) {#उपविष्ट#} (f. {#ष्टा#}), {#सम्-;#} </div><div n="1">(3) {#स्थ#} (f. {#स्था#})
+in comp., <div n="xe">{%s. in heart:%}</div> <div n="xs">{#हृदयस्थ#}</div> (f. {#स्था#}), R. x. 19.</div>
+<div n="I">II Rooted: q. v.</div>
 <LEND>

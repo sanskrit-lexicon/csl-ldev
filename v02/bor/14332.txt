@@ -1,5 +1,5 @@
 <L>14332<pc>439<k1>meadow<k2>meadow
-<div n="lb"/>{@MEADOW@}¦ <div n="1">(1) {#क्षेत्रम्#} (= field); </div><div n="1">(2) {#गोप्रचारः#}
-<div n="lb"/>(= pasture land). <div n="xe">{%M. -grass:%}</div> <div n="xs">{#यवस#}</div> (mn).
-<div n="lb"/><div n="xe">{%M. -sweet:%}</div> <div n="xs">{#गुल्मप्रभेदः।#}</div></div>
+{@MEADOW@}¦ <div n="1">(1) {#क्षेत्रम्#} (= field); </div><div n="1">(2) {#गोप्रचारः#}
+(= pasture land). <div n="xe">{%M. -grass:%}</div> <div n="xs">{#यवस#}</div> (mn).
+<div n="xe">{%M. -sweet:%}</div> <div n="xs">{#गुल्मप्रभेदः।#}</div></div>
 <LEND>

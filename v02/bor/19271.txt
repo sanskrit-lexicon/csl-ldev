@@ -1,7 +1,7 @@
 <L>19271<pc>597<k1>revival<k2>revival
-<div n="lb"/>{@REVIVAL:@}¦ <div n="I">I Lit: </div><div n="1">(1) {#उज्जीवनम्#} <div n="xe">{%or%}</div> <div n="xs">{#सञ्जीवनम्;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#संज्ञालाभः, चेतनागमः,#} etc. (= recovery of cons-
-<div n="lb"/>-ciousness); </div><div n="1">(3) {#उद्वोधनम्#} <div n="xe">{%or%}</div> <div n="xs">{#वि#}</div>- (= awakening).</div>
-<div n="lb"/><div n="I">II Fig., as of studies: </div><div n="1">(1) {#पुनरुत्थानम्;#} </div><div n="1">(2)
-<div n="lb"/>{#समुत्थानम्#} (= rise); </div><div n="1">(3) by verb.</div>
+{@REVIVAL:@}¦ <div n="I">I Lit: </div><div n="1">(1) {#उज्जीवनम्#} <div n="xe">{%or%}</div> <div n="xs">{#सञ्जीवनम्;#}</div> </div><div n="1">(2)
+{#संज्ञालाभः, चेतनागमः,#} etc. (= recovery of cons-
+-ciousness); </div><div n="1">(3) {#उद्वोधनम्#} <div n="xe">{%or%}</div> <div n="xs">{#वि#}</div>- (= awakening).</div>
+<div n="I">II Fig., as of studies: </div><div n="1">(1) {#पुनरुत्थानम्;#} </div><div n="1">(2)
+{#समुत्थानम्#} (= rise); </div><div n="1">(3) by verb.</div>
 <LEND>

@@ -1,18 +1,18 @@
 <L>19685<pc>359-1<k1>सेनाग्र<k2>सेनाग्र
 {#सेनाग्र#}¦senā‡agra, {%n.%} van of an army: {@-ga, @}
-<>{@-gāmin,@} {%a.%} going at the head of an army; {%m.%} 
-<>leader of an army; {@-aṅga,@} {%n.%} component part 
-<>of an army; division of an army: {@-pati,@} {%m.%} 
-<>leader of a division; {@-cara@}, {%m.%} soldier; {@-jī-@}
-<>{@-vin@}, {%m. id.%}; {@-adhipa, -adhyakṣa@}, {%m.%} commander <lbinfo n="3"/>
-<> of an army; {@-nī́,@} {%m.%} leader of an 
-<>army, commander, general ({%V., C.%}); {%N. of%} 
-<>Skanda, god of war (leader of the hosts {%of %}
-<>{%the gods%}; {%C.%}); {@-pati,@} {%m.%} leader of an army, 
-<>general; {@-patya,@} {%n.%} office of a general ({%less %}
-<>{%correct for%} saina-); {@-abhigoptṛ@}, {%m.%} guardian <lbinfo n="4"/>
-<> of the army ({%a certain office%}); {@-mukhá,@} 
-<>{%n.%} van of the army: {@ī,@} {%f. N. of a goddess%}; 
-<>{@-vyūha,@} {%m.%} battle-array; {@-samudaya,@} {%m.%} 
-<>assembled army.
+{@-gāmin,@} {%a.%} going at the head of an army; {%m.%} 
+leader of an army; {@-aṅga,@} {%n.%} component part 
+of an army; division of an army: {@-pati,@} {%m.%} 
+leader of a division; {@-cara@}, {%m.%} soldier; {@-jī-@}
+{@-vin@}, {%m. id.%}; {@-adhipa, -adhyakṣa@}, {%m.%} commander <lbinfo n="3"/>
+ of an army; {@-nī́,@} {%m.%} leader of an 
+army, commander, general ({%V., C.%}); {%N. of%} 
+Skanda, god of war (leader of the hosts {%of %}
+{%the gods%}; {%C.%}); {@-pati,@} {%m.%} leader of an army, 
+general; {@-patya,@} {%n.%} office of a general ({%less %}
+{%correct for%} saina-); {@-abhigoptṛ@}, {%m.%} guardian <lbinfo n="4"/>
+ of the army ({%a certain office%}); {@-mukhá,@} 
+{%n.%} van of the army: {@ī,@} {%f. N. of a goddess%}; 
+{@-vyūha,@} {%m.%} battle-array; {@-samudaya,@} {%m.%} 
+assembled army.
 <LEND>

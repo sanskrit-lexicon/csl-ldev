@@ -1,7 +1,7 @@
 <L>7107<pc>086-3<k1>गोत्र<k2>गोत्र
 {#गोत्र#}¦go-trá, {%n.%} cowshed; house = race {%or%} 
-<>family; surname; name; ({%gr.%}) grandson {%or%} 
-<>{%even later%} descendant ({%if the cartier generations %}<lbinfo n="6"/>
-<>{% from the common ancestor are extinct%}); 
-<>patronymic suffix ({%gr.%}).
+family; surname; name; ({%gr.%}) grandson {%or%} 
+{%even later%} descendant ({%if the cartier generations %}<lbinfo n="6"/>
+{% from the common ancestor are extinct%}); 
+patronymic suffix ({%gr.%}).
 <LEND>

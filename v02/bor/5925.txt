@@ -1,9 +1,9 @@
 <L>5925<pc>190<k1>desert<k2>desert
-<div n="lb"/>{@DESERT@}¦ (v.): {#त्यजति, परि-, सं-,#} ({#त्यज्,#} c. l.),
-<div n="lb"/>{%servants d. a master when his fortune is gone:%}
-<div n="lb"/>{#भृत्यास्त्यजन्ति प्रचलितविभवं स्वामिनम्,#} Mu.; <div n="1">(2)
-<div n="lb"/>{#जहाति, वि-, अप-,#} ({#हा,#} c. 3.); {%d. ing a dear wife:%}
-<div n="lb"/>{#अपहाय प्रियां भार्याम्,#} Mah.; </div><div n="1">(3) {#उत्सृजति#} ({#सृज्,#} c.
-<div n="lb"/>6.), {%d. ing a sleeping%} ({%woman%}) {%in the forest:%}
-<div n="lb"/>{#उत्सृज्य विपिने सुप्ताम्,#} Mah.</div>
+{@DESERT@}¦ (v.): {#त्यजति, परि-, सं-,#} ({#त्यज्,#} c. l.),
+{%servants d. a master when his fortune is gone:%}
+{#भृत्यास्त्यजन्ति प्रचलितविभवं स्वामिनम्,#} Mu.; <div n="1">(2)
+{#जहाति, वि-, अप-,#} ({#हा,#} c. 3.); {%d. ing a dear wife:%}
+{#अपहाय प्रियां भार्याम्,#} Mah.; </div><div n="1">(3) {#उत्सृजति#} ({#सृज्,#} c.
+6.), {%d. ing a sleeping%} ({%woman%}) {%in the forest:%}
+{#उत्सृज्य विपिने सुप्ताम्,#} Mah.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>4215<pc>137<k1>complaisance<k2>complaisance
-<div n="lb"/>{@COMPLAISANCE:@}¦ {#दाक्षिण्यम्,#} {%from c. towards%} ({%us%})
-<div n="lb"/><div n="xe">{%seeking your favour%}</div> <div n="xs">{#प्रणयिषु दाक्षिण्यवशात्,#}</div> V.: v.
-<div n="lb"/>Courtesy.
+{@COMPLAISANCE:@}¦ {#दाक्षिण्यम्,#} {%from c. towards%} ({%us%})
+<div n="xe">{%seeking your favour%}</div> <div n="xs">{#प्रणयिषु दाक्षिण्यवशात्,#}</div> V.: v.
+Courtesy.
 <LEND>

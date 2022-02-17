@@ -1,6 +1,6 @@
 <L>10422<pc>328<k1>guilt<k2>guilt
-<div n="lb"/>{@GUILT:@}¦ <div n="I">I Crime: q.v.: </div><div n="1">(1) {#अपराधः;#} </div><div n="1">(2) {#पापम्।#}</div>
-<div n="lb"/><div n="I">II Criminality.: expr. by crime: <div n="xe">{%my g.%}
-<div n="lb"/>{%has fallen on another's shoulders:%}</div> <div n="xs">{#मया कृतं पाप-#}
-<div n="lb"/>{#मन्यस्य मस्तके निपतितम्,#}</div> Mr. ix.</div>
+{@GUILT:@}¦ <div n="I">I Crime: q.v.: </div><div n="1">(1) {#अपराधः;#} </div><div n="1">(2) {#पापम्।#}</div>
+<div n="I">II Criminality.: expr. by crime: <div n="xe">{%my g.%}
+{%has fallen on another's shoulders:%}</div> <div n="xs">{#मया कृतं पाप-#}
+{#मन्यस्य मस्तके निपतितम्,#}</div> Mr. ix.</div>
 <LEND>

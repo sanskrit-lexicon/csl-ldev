@@ -1,10 +1,10 @@
 <L>15785<pc>484<k1>off<k2>off
-<div n="lb"/>{@OFF:@}¦ <div n="I">I Interj.: {#अपेहि:#} v. Away, begone.</div>
-<div n="lb"/><div n="I">II Adj.: {#दूरवर्तिन्#} (f. {#नी#}) and sim. comp.s.</div>
-<div n="lb"/><div n="I">III Adv.: {#दूरे#} <div n="xe">{%or%}</div> <div n="xs">{#दूरतः:#}</div> v. Far. </div><div n="I">IV With
-<div n="lb"/>verbs or adverbs: v. The several verbs,
-<div n="lb"/>etc. V. Prep.: expr. by circumlo., <div n="xe">{%to be o.%}
-<div n="lb"/>{%the bed:%}</div> <div n="xs">{#शय्यां मुञ्चति।#}</div> Ph.: (a) {%o. and on:%}
-<div n="lb"/>{#सक्तासक्तम्#} (??); (b) <div n="xe">{%o. -hand:%}</div> <div n="xs">{#विना समाधानेन#}</div>
-<div n="lb"/>(?).</div>
+{@OFF:@}¦ <div n="I">I Interj.: {#अपेहि:#} v. Away, begone.</div>
+<div n="I">II Adj.: {#दूरवर्तिन्#} (f. {#नी#}) and sim. comp.s.</div>
+<div n="I">III Adv.: {#दूरे#} <div n="xe">{%or%}</div> <div n="xs">{#दूरतः:#}</div> v. Far. </div><div n="I">IV With
+verbs or adverbs: v. The several verbs,
+etc. V. Prep.: expr. by circumlo., <div n="xe">{%to be o.%}
+{%the bed:%}</div> <div n="xs">{#शय्यां मुञ्चति।#}</div> Ph.: (a) {%o. and on:%}
+{#सक्तासक्तम्#} (??); (b) <div n="xe">{%o. -hand:%}</div> <div n="xs">{#विना समाधानेन#}</div>
+(?).</div>
 <LEND>

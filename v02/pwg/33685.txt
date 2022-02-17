@@ -9,7 +9,7 @@
 <ls>R. 2, 41, 2. 3, 31, 49. 32, 1.</ls> 
 <ls>SUŚR. 1, 115, 13. 118, 11. 179, 7.</ls> 
 <ls>KĀM. NĪTIS. 8, 59.</ls> <ls>PAÑCAT. I, 128.</ls> <ls>HIT. I, 206.</ls> <ls>BHĀG. P. 8, 8, 40.</ls> {#गो#} {%eine schwächliche, magere Kuh%} 
-<ls>MBH. 4, 182. 934.</ls> {#मध्य#} {%eine schmächtige, schmale Taille%} 
+<ls>MBH. 4, 182.</ls> <ls n="MBH. 4,">934.</ls> {#मध्य#} {%eine schmächtige, schmale Taille%} 
 <ls>R. 3, 52, 31.</ls> {#अर्थ#} {%kärglicher Besitz%} 
 <ls>MĀRK. P. 20, 27.</ls> {#वचस्#} 
 <ls>MBH. 13, 6776.</ls> {#आशा#} {%Hoffnung%} 
@@ -18,8 +18,8 @@
 <ls>MBH. 3, 1285.</ls> {#दुर्बलेन्द्रिय#} {%schwache%} so v. a. {%ungebändigte Sinne habend%} 
 <ls>M. 3, 79.</ls> 
 <ls>MBH. 12, 656.</ls> compar. {#दुर्बलीयंस्#} {%schwächer, schwächlich%} 
-<ls>MBH. 3, 535. 8, 4699. 14, 677.</ls> {#प्राणतः#} 
-<ls>1, 7038. -</ls> <ls>M. 3, 151</ls> wird das Wort von 
+<ls>MBH. 3, 535.</ls> <ls n="MBH.">8, 4699.</ls> <ls n="MBH.">14, 677.</ls> {#प्राणतः#} 
+<ls>1, 7038.</ls> - <ls>M. 3, 151</ls> wird das Wort von 
 <ls>KULL.</ls> durch {#दुश्चर्मन्#} {%ohne Vorhaut%} erklärt; diese Bed. könnte {#दुर्वल (वल#} von {#वल्#}) haben, wie auch die Calc. Ausg. schreibt, aber {#दुर्बल#} {%Schwächling%} scheint besser in den Zusammenhang zu passen. 
 <ls>MEDHĀT.</ls> hat {#दुर्बाल#} gelesen. 
 <div n="1">— 2) <lex>m.</lex> ({#दुर्वल#} geschrieben) {%ein best. Vogel%}, = {#भाण्डीक#} 

@@ -1,13 +1,13 @@
 <L>21314<pc>671<k1>stage<k2>stage
-<div n="lb"/>{@STAGE:@}¦ <div n="I">I For acting, etc.: {#रङ्गः, -भूमिः, -शाला,#}
-<div n="lb"/><div n="xe">{%then the whole s. was sprightly:%}</div> <div n="xs">{#ततः सर्वस्य #}
-<div n="lb"/>{# रङ्गस्य समुत्पिञ्जलकोऽभवत्,#}</div> Mah. i. 133. 10. Ph.:
-<div n="lb"/><div n="xe">{%behind the s.:%}</div> <div n="xs">{#नेपथ्ये;#}</div> <div n="xe">{%speaking off the s.:%}</div> <div n="xs">{#आकाश-#}
-<div n="lb"/>{#वचनम्,#}</div> Sah. vi. </div><div n="I">II Scaffolding: {#मञ्चः,#} <div n="xe">{%in the%}
-<div n="lb"/>{%s. es.:%}</div> <div n="xs">{#मञ्चेषु,#}</div> R. vi. 1. </div><div n="I">III On a journey,
-<div n="lb"/>perh. </div><div n="1">(1) {#वसतिः,#} <div n="xe">{%passing three s. s:%}</div> <div n="xs">{#तिस्रो #}
-<div n="lb"/>{# वसतीरुषित्वा,#}</div> R. vii. 33.; </div><div n="1">(2) {#निवासस्थानम्,#} and
-<div n="lb"/>sim. comp.s; </div><div n="1">(3) {#प्रयाणकम्#} (=march: q. v.).</div>
-<div n="lb"/><div n="I">IV Condition, state: q. v.: {#दशा,#} <div n="xe">{%on the%}
-<div n="lb"/>{%various s. s of life:%}</div> <div n="xs">{#दशान्तरेषु,#}</div> S.</div>
+{@STAGE:@}¦ <div n="I">I For acting, etc.: {#रङ्गः, -भूमिः, -शाला,#}
+<div n="xe">{%then the whole s. was sprightly:%}</div> <div n="xs">{#ततः सर्वस्य #}
+{# रङ्गस्य समुत्पिञ्जलकोऽभवत्,#}</div> Mah. i. 133. 10. Ph.:
+<div n="xe">{%behind the s.:%}</div> <div n="xs">{#नेपथ्ये;#}</div> <div n="xe">{%speaking off the s.:%}</div> <div n="xs">{#आकाश-#}
+{#वचनम्,#}</div> Sah. vi. </div><div n="I">II Scaffolding: {#मञ्चः,#} <div n="xe">{%in the%}
+{%s. es.:%}</div> <div n="xs">{#मञ्चेषु,#}</div> R. vi. 1. </div><div n="I">III On a journey,
+perh. </div><div n="1">(1) {#वसतिः,#} <div n="xe">{%passing three s. s:%}</div> <div n="xs">{#तिस्रो #}
+{# वसतीरुषित्वा,#}</div> R. vii. 33.; </div><div n="1">(2) {#निवासस्थानम्,#} and
+sim. comp.s; </div><div n="1">(3) {#प्रयाणकम्#} (=march: q. v.).</div>
+<div n="I">IV Condition, state: q. v.: {#दशा,#} <div n="xe">{%on the%}
+{%various s. s of life:%}</div> <div n="xs">{#दशान्तरेषु,#}</div> S.</div>
 <LEND>

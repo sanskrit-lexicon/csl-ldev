@@ -1,7 +1,7 @@
 <L>29620<pc>806-b<k1>toilet<k2>toilet
-<div n="lb"/>TOILET¦, {%s.%} (Act or mode of dressing) {#वस्त्रमाल्यादिविन्यासः, वस्त्र-#}
-<div n="lb"/>{#माल्यादिरचना, अङ्गसंस्कारः, मण्डनं, नेपथ्यं, भूषणं;#} ‘he makes his
-<div n="lb"/>toilet,’ {#नेपथ्यं धारयति, वस्त्रविन्यासं करोति;#} ‘one who has finished
-<div n="lb"/>her toilet,’ {#अवसितमण्डना;#} ‘toilet-table,’ {#भूषणाधारः;#} ‘cover,’
-<div n="lb"/>{#भूषणाधाराच्छादनं#}.
+TOILET¦, {%s.%} (Act or mode of dressing) {#वस्त्रमाल्यादिविन्यासः, वस्त्र-#}
+{#माल्यादिरचना, अङ्गसंस्कारः, मण्डनं, नेपथ्यं, भूषणं;#} ‘he makes his
+toilet,’ {#नेपथ्यं धारयति, वस्त्रविन्यासं करोति;#} ‘one who has finished
+her toilet,’ {#अवसितमण्डना;#} ‘toilet-table,’ {#भूषणाधारः;#} ‘cover,’
+{#भूषणाधाराच्छादनं#}.
 <LEND>

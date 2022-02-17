@@ -1,6 +1,6 @@
 <L>8599<pc>273<k1>fellowship<k2>fellowship
-<div n="lb"/>{@FELLOWSHIP:@}¦ <div n="I">I Association: q.v.: {#सङ्गः।#} </div><div n="I">II
-<div n="lb"/>Company: q.v.: {#सङ्गः।#} </div><div n="I">III Partnership as
-<div n="lb"/>in pain: {#सहानुभूतिः।#} </div><div n="I">IV A band: {#दलम्।#} </div><div n="I">V
-<div n="lb"/>Scholarship: {#वृत्तिः।#}</div>
+{@FELLOWSHIP:@}¦ <div n="I">I Association: q.v.: {#सङ्गः।#} </div><div n="I">II
+Company: q.v.: {#सङ्गः।#} </div><div n="I">III Partnership as
+in pain: {#सहानुभूतिः।#} </div><div n="I">IV A band: {#दलम्।#} </div><div n="I">V
+Scholarship: {#वृत्तिः।#}</div>
 <LEND>

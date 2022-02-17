@@ -1,6 +1,6 @@
 <L>4638<pc>099-b<k1>clearance<k2>clearance
-<div n="lb"/>CLEARANCE¦ or CLEARING, {%s.%} {#शुद्धिः#} {%f.,%} {#विशुद्धिः#} {%f.,%} {#शोधनं, विशोधित्वं;#}
-<div n="lb"/>‘clearance of a debt,’ {#ऋणशोधनं, ऋणापाकरणं;#} ‘of a grudge,’
-<div n="lb"/>{#वैरशोधनं#}. — (Certificate from the custom-house) {#शुल्काध्यक्ष-#}
-<div n="lb"/>{#सकाशात् शोधनपत्रं#}.
+CLEARANCE¦ or CLEARING, {%s.%} {#शुद्धिः#} {%f.,%} {#विशुद्धिः#} {%f.,%} {#शोधनं, विशोधित्वं;#}
+‘clearance of a debt,’ {#ऋणशोधनं, ऋणापाकरणं;#} ‘of a grudge,’
+{#वैरशोधनं#}. — (Certificate from the custom-house) {#शुल्काध्यक्ष-#}
+{#सकाशात् शोधनपत्रं#}.
 <LEND>

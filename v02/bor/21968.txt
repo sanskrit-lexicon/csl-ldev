@@ -1,7 +1,7 @@
 <L>21968<pc>693<k1>surety<k2>surety
-<div n="lb"/>{@SURETY:@}¦ {#प्रतिभूः,#} <div n="xe">{%to take s.:%}</div> <div n="xs">{#प्रतिभूं गृह्नाति,#}</div> Mit.;
-<div n="lb"/><div n="xe">{%four kinds of s. ies:%}</div> <div n="xs">{#चतुःप्रकारः प्रतिभूः,#}</div> Vri.; <div n="xe">{%to%}
-<div n="lb"/>{%stand s.:%}</div> <div n="xs">{#प्रतिभूस्तिष्ठति,#}</div> Kat.; {%to give time to s.:%}
-<div n="lb"/>{#प्रतिभुवे कालं ददाति,#} Vri.; <div n="1">(2) {#लग्नकः,#} {%to make s.:%}
-<div n="lb"/>{#लग्नकं कारयति,#} Kat.</div>
+{@SURETY:@}¦ {#प्रतिभूः,#} <div n="xe">{%to take s.:%}</div> <div n="xs">{#प्रतिभूं गृह्नाति,#}</div> Mit.;
+<div n="xe">{%four kinds of s. ies:%}</div> <div n="xs">{#चतुःप्रकारः प्रतिभूः,#}</div> Vri.; <div n="xe">{%to%}
+{%stand s.:%}</div> <div n="xs">{#प्रतिभूस्तिष्ठति,#}</div> Kat.; {%to give time to s.:%}
+{#प्रतिभुवे कालं ददाति,#} Vri.; <div n="1">(2) {#लग्नकः,#} {%to make s.:%}
+{#लग्नकं कारयति,#} Kat.</div>
 <LEND>

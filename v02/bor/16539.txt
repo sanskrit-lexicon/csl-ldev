@@ -1,6 +1,6 @@
 <L>16539<pc>508<k1>pastoral<k2>pastoral
-<div n="lb"/>{@PASTORAL:@}¦ <div n="I">I Adj.: <div n="xe">{%p. life:%}</div> <div n="xs">{#अविपालत्वम्;#}</div> <div n="xe">{%p.%}
-<div n="lb"/>{%poem:%}</div> <div n="xs">{#*गोपकाव्यम्;#}</div> <div n="xe">{%p. duties:%}</div> <div n="xs">{#धर्मकार्याणि;#}</div> <div n="xe">{%p.%}
-<div n="lb"/>{%office:%}</div> <div n="xs">{#आचार्यकर्मन्#}</div> (n.) and sim. comp.s.</div>
-<div n="lb"/><div n="I">II Subs.: {#*गोपकाव्यम्।#}</div>
+{@PASTORAL:@}¦ <div n="I">I Adj.: <div n="xe">{%p. life:%}</div> <div n="xs">{#अविपालत्वम्;#}</div> <div n="xe">{%p.%}
+{%poem:%}</div> <div n="xs">{#*गोपकाव्यम्;#}</div> <div n="xe">{%p. duties:%}</div> <div n="xs">{#धर्मकार्याणि;#}</div> <div n="xe">{%p.%}
+{%office:%}</div> <div n="xs">{#आचार्यकर्मन्#}</div> (n.) and sim. comp.s.</div>
+<div n="I">II Subs.: {#*गोपकाव्यम्।#}</div>
 <LEND>

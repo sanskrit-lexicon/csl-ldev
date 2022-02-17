@@ -1,5 +1,5 @@
 <L>16489<pc>506<k1>partnership<k2>partnership
-<div n="lb"/>{@PARTNERSHIP:@}¦ In business: <div n="1">(1) {#सम्भूयसमुत्थानम्,#}
-<div n="lb"/>M.; </div><div n="1">(2) {#सहक्रिया,#} Vri. N. B. In arith. {#मिश्रक-#}
-<div n="lb"/>{#व्यवहारः#} includes p., Li.</div>
+{@PARTNERSHIP:@}¦ In business: <div n="1">(1) {#सम्भूयसमुत्थानम्,#}
+M.; </div><div n="1">(2) {#सहक्रिया,#} Vri. N. B. In arith. {#मिश्रक-#}
+{#व्यवहारः#} includes p., Li.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>209<pc>006-a<k1>activity<k2>activity
-<div n="lb"/>ACTIVITY¦, {%s.%} {#कर्म्मोद्योगः, सयत्नता, व्यवसायः, प्रवृत्तिः#} {%f.,%} {#प्रवर्त्तनं#}. — (Manly
-<div n="lb"/>exercise) {#व्यायामः#}. — (Active life) {#प्रवृत्तिः#} {%f.%} — (With activity)
-<div n="lb"/>{#प्रयत्नतस्#} {%ind.%}
+ACTIVITY¦, {%s.%} {#कर्म्मोद्योगः, सयत्नता, व्यवसायः, प्रवृत्तिः#} {%f.,%} {#प्रवर्त्तनं#}. — (Manly
+exercise) {#व्यायामः#}. — (Active life) {#प्रवृत्तिः#} {%f.%} — (With activity)
+{#प्रयत्नतस्#} {%ind.%}
 <LEND>

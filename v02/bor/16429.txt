@@ -1,4 +1,4 @@
 <L>16429<pc>503<k1>parish<k2>parish
-<div n="lb"/>{@PARISH:@}¦ no exact equiv. {#ग्रामः#} <div n="xe">{%or%}</div> <div n="xs">{#आवसथः#}</div> may
-<div n="lb"/>be used.
+{@PARISH:@}¦ no exact equiv. {#ग्रामः#} <div n="xe">{%or%}</div> <div n="xs">{#आवसथः#}</div> may
+be used.
 <LEND>

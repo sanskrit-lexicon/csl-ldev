@@ -1,7 +1,7 @@
 <L>3480<pc>115<k1>chase<k2>chase
-<div n="lb"/>{@CHASE@}¦ (v. t.): <div n="I">I To hunt, pursue: q. v.:
-<div n="lb"/>{#मृग्यति#} <div n="xe">{%or%}</div> <div n="xs">{#मृगयते#}</div> ({#मृग्,#} c. 4 and 10). </div><div n="I">II To
-<div n="lb"/>chase away or off: i. e. to drive away:
-<div n="lb"/>q. v.: {#निरस्यति#} ({#अस्,#} c. 4.). </div><div n="I">III To engrave:
-<div n="lb"/>q. v.</div>
+{@CHASE@}¦ (v. t.): <div n="I">I To hunt, pursue: q. v.:
+{#मृग्यति#} <div n="xe">{%or%}</div> <div n="xs">{#मृगयते#}</div> ({#मृग्,#} c. 4 and 10). </div><div n="I">II To
+chase away or off: i. e. to drive away:
+q. v.: {#निरस्यति#} ({#अस्,#} c. 4.). </div><div n="I">III To engrave:
+q. v.</div>
 <LEND>

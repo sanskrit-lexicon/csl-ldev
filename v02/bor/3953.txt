@@ -1,4 +1,4 @@
 <L>3953<pc>129<k1>coffee<k2>coffee
-<div n="lb"/>{@COFFEE:@}¦ {#*काफिः,#} <div n="xe">{%c. -house:%}</div> <div n="xs">{#*काफिगृहम्;#}</div> {%c. -pot:%}
-<div n="lb"/>{#*काफिपात्रम्।#}
+{@COFFEE:@}¦ {#*काफिः,#} <div n="xe">{%c. -house:%}</div> <div n="xs">{#*काफिगृहम्;#}</div> {%c. -pot:%}
+{#*काफिपात्रम्।#}
 <LEND>

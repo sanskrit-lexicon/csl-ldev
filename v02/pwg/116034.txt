@@ -14,12 +14,12 @@ zu <ls>P. 6, 1, 203.</ls>
 <ls>ĀŚV. ŚR. 3, 4, 10.</ls> 
 <ls>M. 8, 296. 11, 136.</ls> 
 <ls>BHAG. 1, 14.</ls> 
-<ls>MBH. 3, 2294. 2639. 2786.</ls> {#°संग्रहण#} 
+<ls>MBH. 3, 2294.</ls> <ls n="MBH. 3,">2639.</ls> <ls n="MBH. 3,">2786.</ls> {#°संग्रहण#} 
 <ls>2796. 4, 319.</ls> {#°विक्रान्त#} 
 <ls>HARIV. 3109.</ls> 
 <ls>Spr. (II) 1236.</ls> 
 <ls>VARĀH. BṚH. S. 5, 66. 9, 43. 43, 35. 44, 17.</ls> {#°चेष्टित#} 
-<ls>?93,15. Verz. d. Oxf. H. 13,b,7. 24. fgg. 28. RĀJA-TAR.4,265. BHĀG. P.4,16,24. VET. in LA. (III) 11,18.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
+<ls>93,15.</ls> <ls>Verz. d. Oxf. H. 13,b,7. 24. fgg. 28.</ls> <ls>RĀJA-TAR.4,265.</ls> <ls>BHĀG. P.4,16,24.</ls> <ls>VET. in LA. (III) 11,18.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>MBH. 18, 21.</ls> 
 <ls>RAGH. 9, 10.</ls> 
 <div n="2">— b) N. pr. eines der {%Rosse%} des Mondgottes 
@@ -34,7 +34,7 @@ zu <ls>P. 6, 1, 203.</ls>
 <div n="2">— f) N. pr. eines Sohnes des <is>Sahasrada</is> 
 <ls>HARIV. 1844.</ls> des <is>Śatājit</is> 
 <ls>VP. 416.</ls> pl. {%das Geschlecht des%} <is>Haya</is> 
-<ls>MBH. 2, 333. 335.</ls> 
+<ls>MBH. 2, 333.</ls> <ls n="MBH. 2,">335.</ls> 
 <div n="2">— g) {%a man of particular class; Bos grunniens%} und ein N. <is>Indra's</is> 
 <ls>WILSON</ls> nach <ls>ŚABDĀRTHAK.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} 

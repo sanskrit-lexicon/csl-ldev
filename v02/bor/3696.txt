@@ -1,4 +1,4 @@
 <L>3696<pc>121<k1>circumfluent<k2>circumfluent
-<div n="lb"/>{@CIRCUMFLUENT:@}¦ {#परितः#} <div n="xe">{%or%}</div> <div n="xs">{#समन्ततः विसारिन्#}</div> (f. {#णी#})
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#प्रवहत्#}</div> (f. {#न्ती#}) etc.: v. To flow.
+{@CIRCUMFLUENT:@}¦ {#परितः#} <div n="xe">{%or%}</div> <div n="xs">{#समन्ततः विसारिन्#}</div> (f. {#णी#})
+<div n="xe">{%or%}</div> <div n="xs">{#प्रवहत्#}</div> (f. {#न्ती#}) etc.: v. To flow.
 <LEND>

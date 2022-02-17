@@ -1,9 +1,9 @@
 <L>9431<pc>299<k1>friendly<k2>friendly
-<div n="lb"/>{@FRIENDLY@}¦ (adj.): <div n="1">(1) {#स्निग्ध#} (f. {#ग्धा#}) (affec-
-<div n="lb"/>-tionate); </div><div n="1">(2) {#अनुकूलः#} ({#ला, लं#}) (= favour-
-<div n="lb"/>-able); </div><div n="1">(3) {#सदयः#} ({#या, यं#}) (= kind). Ph.:
-<div n="lb"/><div n="xe">{%should have f. feeling towards those who have%}
-<div n="lb"/>{%enjoyments:%}</div> <div n="xs">{#सम्भोगापन्ने षु मैत्रीं भावयेत्,#}</div> P. d.; <div n="xe">{%the%}
-<div n="lb"/>{%one next to an enemy is a f. power:%}</div> <div n="xs">{#अरेरनन्तरं मित्रम्,#}</div>
-<div n="lb"/>M. vii. 158.</div>
+{@FRIENDLY@}¦ (adj.): <div n="1">(1) {#स्निग्ध#} (f. {#ग्धा#}) (affec-
+-tionate); </div><div n="1">(2) {#अनुकूलः#} ({#ला, लं#}) (= favour-
+-able); </div><div n="1">(3) {#सदयः#} ({#या, यं#}) (= kind). Ph.:
+<div n="xe">{%should have f. feeling towards those who have%}
+{%enjoyments:%}</div> <div n="xs">{#सम्भोगापन्ने षु मैत्रीं भावयेत्,#}</div> P. d.; <div n="xe">{%the%}
+{%one next to an enemy is a f. power:%}</div> <div n="xs">{#अरेरनन्तरं मित्रम्,#}</div>
+M. vii. 158.</div>
 <LEND>

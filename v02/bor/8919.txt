@@ -1,5 +1,5 @@
 <L>8919<pc>282<k1>flattery<k2>flattery
-<div n="lb"/>{@FLATTERY:@}¦ <div n="1">(1) {#स्तवः, सं-#} (= praise: q.v.), <div n="xe">{%with%}
-<div n="lb"/>{%false f.:%}</div> <div n="xs">{#वितथैः स्तवैः,#}</div> Si. xiv. 3.; </div><div n="1">(2) {#चाटुः#} {%or%}
-<div n="lb"/>{#चाटूक्तिः।#}</div>
+{@FLATTERY:@}¦ <div n="1">(1) {#स्तवः, सं-#} (= praise: q.v.), <div n="xe">{%with%}
+{%false f.:%}</div> <div n="xs">{#वितथैः स्तवैः,#}</div> Si. xiv. 3.; </div><div n="1">(2) {#चाटुः#} {%or%}
+{#चाटूक्तिः।#}</div>
 <LEND>

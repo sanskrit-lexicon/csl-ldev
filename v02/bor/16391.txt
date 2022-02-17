@@ -1,6 +1,6 @@
 <L>16391<pc>502<k1>parallel<k2>parallel
-<div n="lb"/>{@PARALLEL@}¦ (subs.): <div n="I">I A p. line: {#समान्तररेखा।#}
-<div n="lb"/><div n="xe">{%P. of latitude:%}</div> <div n="xs">{#अक्षवृत्तम्।#}</div> </div><div n="I">II Resemblance,
-<div n="lb"/>likeness: q. v.: {#सादृश्यम्।#} </div><div n="I">III Equal, match:
-<div n="lb"/>q. v.: {#समः#} ({#मा, मं#}).</div>
+{@PARALLEL@}¦ (subs.): <div n="I">I A p. line: {#समान्तररेखा।#}
+<div n="xe">{%P. of latitude:%}</div> <div n="xs">{#अक्षवृत्तम्।#}</div> </div><div n="I">II Resemblance,
+likeness: q. v.: {#सादृश्यम्।#} </div><div n="I">III Equal, match:
+q. v.: {#समः#} ({#मा, मं#}).</div>
 <LEND>

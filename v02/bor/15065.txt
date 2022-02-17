@@ -1,7 +1,7 @@
 <L>15065<pc>461<k1>much<k2>much
-<div n="lb"/>{@MUCH@}¦ (subs.): {#बहु#} (n.), <div n="xe">{%one who eats m.:%}</div> <div n="xs">{#बहुमोक्ता,#}</div>
-<div n="lb"/>At.: <div n="xe">{%I have m. to ask about it:%}</div> <div n="xs">{#बहु प्रष्टव्यमत्र,#}</div>
-<div n="lb"/>Mu.; {%men do not believe those who talk m.:%}
-<div n="lb"/>{#बहुभाषिणो न श्रद्दधाति लोकः,#} <ls>K.</ls> ; <div n="xe">{%even this is too%}
-<div n="lb"/>{%m. from him:%}</div> <div n="xs">{#एतदेव तस्मिन् बहुतरम्,#}</div> Sa. iv.
+{@MUCH@}¦ (subs.): {#बहु#} (n.), <div n="xe">{%one who eats m.:%}</div> <div n="xs">{#बहुमोक्ता,#}</div>
+At.: <div n="xe">{%I have m. to ask about it:%}</div> <div n="xs">{#बहु प्रष्टव्यमत्र,#}</div>
+Mu.; {%men do not believe those who talk m.:%}
+{#बहुभाषिणो न श्रद्दधाति लोकः,#} <ls>K.</ls> ; <div n="xe">{%even this is too%}
+{%m. from him:%}</div> <div n="xs">{#एतदेव तस्मिन् बहुतरम्,#}</div> Sa. iv.
 <LEND>

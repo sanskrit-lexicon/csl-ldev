@@ -1,7 +1,7 @@
 <L>13577<pc>418<k1>like<k2>like
-<div n="lb"/>{@LIKE@}¦ (v.): <div n="1">(1) expr. with: {#रोचते#} ({#रुच्,#} c. 1.)
-<div n="lb"/>(with dative of the person l.ing), {%I l. that:%}
-<div n="lb"/>{#तन्मह्यं रोचते;#} </div><div n="1">(2) with {#प्रीतिः#} (= pleasure),
-<div n="lb"/><div n="xe">{%she did not l. him:%}</div> <div n="xs">{#न स तस्याः प्रीतये बभूव:#}</div> v.
-<div n="lb"/>(Be) pleased, love.</div>
+{@LIKE@}¦ (v.): <div n="1">(1) expr. with: {#रोचते#} ({#रुच्,#} c. 1.)
+(with dative of the person l.ing), {%I l. that:%}
+{#तन्मह्यं रोचते;#} </div><div n="1">(2) with {#प्रीतिः#} (= pleasure),
+<div n="xe">{%she did not l. him:%}</div> <div n="xs">{#न स तस्याः प्रीतये बभूव:#}</div> v.
+(Be) pleased, love.</div>
 <LEND>

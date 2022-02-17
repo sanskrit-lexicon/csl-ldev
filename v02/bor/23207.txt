@@ -1,5 +1,5 @@
 <L>23207<pc>730<k1>unction<k2>unction
-<div n="lb"/>{@UNCTION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अञ्जनम्, अभि-;#} </div><div n="1">(2)
-<div n="lb"/>{#आलेपः, -नम्;#} </div><div n="1">(3) {#विलेपः, -नम्।#} </div><div n="I">II Fig. as in
-<div n="lb"/>address: {#स्निग्धता#} <div n="xe">{%or%}</div> <div n="xs">{#स्नैग्ध्यम्।#}</div></div>
+{@UNCTION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अञ्जनम्, अभि-;#} </div><div n="1">(2)
+{#आलेपः, -नम्;#} </div><div n="1">(3) {#विलेपः, -नम्।#} </div><div n="I">II Fig. as in
+address: {#स्निग्धता#} <div n="xe">{%or%}</div> <div n="xs">{#स्नैग्ध्यम्।#}</div></div>
 <LEND>

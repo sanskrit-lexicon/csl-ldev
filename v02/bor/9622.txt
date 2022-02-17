@@ -1,12 +1,12 @@
 <L>9622<pc>305<k1>gain<k2>gain
-<div n="lb"/>{@GAIN@}¦ (v.t.): <div n="I">I To obtain, acquire: q.v.:
-<div n="lb"/>{#लभते#} ({#लभ्,#} c. 1.), <div n="xe">{%g. ed by knowledge:%}</div> <div n="xs">{#विद्यया लब्ध#}</div>
-<div n="lb"/>(f. {#ब्धा#}), Y.; <div n="xe">{%if you again g. your place:%}</div> <div n="xs">{#यदि लब्धं #}
-<div n="lb"/>{# पुनरात्मनः पदम्,#}</div> Ki. </div><div n="I">II To be successful in:
-<div n="lb"/>{#जयति#} ({#जि,#} c. 1.), <div n="xe">{%to g. a battle:%}</div> <div n="xs">{#युद्धं जयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#युद्धे #}
-<div n="lb"/>{# जयं लभते;#}</div> <div n="xe">{%one who g.s a case:%}</div> <div n="xs">{#जयिन्#}</div> (f. {#नी#}), Mit.</div>
-<div n="lb"/><div n="I">III To arrive at: q.v.: {#प्राप्नोति#} ({#आप्,#} c. 5.).</div>
-<div n="lb"/><div n="I">IV Of time: <div n="xe">{%it g. s an hour a day:%}</div> <div n="xs">{#*प्रत्यह-#}
-<div n="lb"/>{#मस्येका घटिका वर्धते#}</div> ({#वृध्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#उपचीयते#}</div> (pass.
-<div n="lb"/>of {#चि#}). Ph: <div n="xe">{%to g. ground:%}</div> <div n="xs">{#उप-चीयते, प्र-।#}</div></div>
+{@GAIN@}¦ (v.t.): <div n="I">I To obtain, acquire: q.v.:
+{#लभते#} ({#लभ्,#} c. 1.), <div n="xe">{%g. ed by knowledge:%}</div> <div n="xs">{#विद्यया लब्ध#}</div>
+(f. {#ब्धा#}), Y.; <div n="xe">{%if you again g. your place:%}</div> <div n="xs">{#यदि लब्धं #}
+{# पुनरात्मनः पदम्,#}</div> Ki. </div><div n="I">II To be successful in:
+{#जयति#} ({#जि,#} c. 1.), <div n="xe">{%to g. a battle:%}</div> <div n="xs">{#युद्धं जयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#युद्धे #}
+{# जयं लभते;#}</div> <div n="xe">{%one who g.s a case:%}</div> <div n="xs">{#जयिन्#}</div> (f. {#नी#}), Mit.</div>
+<div n="I">III To arrive at: q.v.: {#प्राप्नोति#} ({#आप्,#} c. 5.).</div>
+<div n="I">IV Of time: <div n="xe">{%it g. s an hour a day:%}</div> <div n="xs">{#*प्रत्यह-#}
+{#मस्येका घटिका वर्धते#}</div> ({#वृध्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#उपचीयते#}</div> (pass.
+of {#चि#}). Ph: <div n="xe">{%to g. ground:%}</div> <div n="xs">{#उप-चीयते, प्र-।#}</div></div>
 <LEND>

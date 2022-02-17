@@ -1,4 +1,4 @@
 <L>8614<pc>273<k1>fencer<k2>fencer
-<div n="lb"/>{@FENCER:@}¦ <div n="1">(1) {#असियोधः#} (with sword); </div><div n="1">(2)
-<div n="lb"/>{#दण्डयोधः#} (with stick); </div><div n="1">(3) {#भ्कल्लः#} (= 2), Nil.</div>
+{@FENCER:@}¦ <div n="1">(1) {#असियोधः#} (with sword); </div><div n="1">(2)
+{#दण्डयोधः#} (with stick); </div><div n="1">(3) {#भ्कल्लः#} (= 2), Nil.</div>
 <LEND>

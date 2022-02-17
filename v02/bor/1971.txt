@@ -1,5 +1,5 @@
 <L>1971<pc>069<k1>bestower<k2>bestower
-<div n="lb"/>{@BESTOWER:@}¦ <div n="1">(1) {#दातृ#} <div n="xe">{%or%}</div> <div n="xs">{#प्रदातृ#}</div> (f. {#त्री#}); </div><div n="1">(2) {#द#} {%or%}
-<div n="lb"/>{#प्रद#} (f. {#दा#}), in comp.; <div n="xe">{%b. of money%}</div> <div n="xs">{#धनदः#}</div>
-<div n="lb"/>({#दा, दं#}).</div>
+{@BESTOWER:@}¦ <div n="1">(1) {#दातृ#} <div n="xe">{%or%}</div> <div n="xs">{#प्रदातृ#}</div> (f. {#त्री#}); </div><div n="1">(2) {#द#} {%or%}
+{#प्रद#} (f. {#दा#}), in comp.; <div n="xe">{%b. of money%}</div> <div n="xs">{#धनदः#}</div>
+({#दा, दं#}).</div>
 <LEND>

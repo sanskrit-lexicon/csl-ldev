@@ -1,23 +1,23 @@
 <L>6970<pc>084-2<k1>गिरिकुहर<k2>गिरिकुहर
 {#गिरिकुहर#}¦giri-kuhara, {%n.%} mountain cave; 
-<>{@-kṣit,@} {%a.%} dwelling on mountains; {@-cakra-@}
-<>{@-vartin@}, {%m.%} prince of mountains, the Himālaya; <lbinfo n="6"/>
-<> {@-carā@}, {%a.%} mountain-roaming; {%m.%} wild 
-<>elephant; {@-ja@}, {%a.%} mountain-born: {@ā,@} {%f.%} 
-<>daughter of the mountain, {%ep. of%} Pārvatī; 
-<>{@-ṇadī@}, {%f.%} mountain stream; {@-trā,@} {%a.%} mountain-ruling, <lbinfo n="4"/>
-<> {%ep. of%} Śiva; {@-durga,@} {%a.%} inaccessible <lbinfo n="4"/>
-<> owing to mountains; {%n.%} hill-fort; 
-<>{@-dhātu,@} {%m. pl.%} mountain ores; {@-nadikā,@} {%f.%} 
-<>mountain brook; {@-nadī,@} {%f.%} = giri-ṇadī; {@-pati,@} 
-<>{%m.%} king of mountains, lofty mountain; {@-pṛ-@}
-<>{@-ṣṭha@}, {%n.%} mountain ridge; {@-prapāta,@} {%m.%} precipice; <lbinfo n="5"/>
-<> {@-prastha,@} {%m.%} mountain plain, plateau; 
-<>{@-bhid,@} {%a.%} mountain-piercing; {@-rāj@}, {%m.%} king 
-<>of mountains, lofty mountain; {@-vāsin,@} {%a.%} 
-<>dwelling in the mountains; {@-śá@}, {%a.%} dwelling 
-<>in the mountains, {%ep. of%} Śiva; {@-ṣad,@} {%a.%} sitting <lbinfo n="3"/>
-<> on mountains (Rudra); {@-ṣṭhâ@}, {%a.%} = 
-<>giri-vāsin; {@-sutā,@} {%f.%} daughter of the mountain, <lbinfo n="4"/>
-<> {%ep. of%} Pārvati.
+{@-kṣit,@} {%a.%} dwelling on mountains; {@-cakra-@}
+{@-vartin@}, {%m.%} prince of mountains, the Himālaya; <lbinfo n="6"/>
+ {@-carā@}, {%a.%} mountain-roaming; {%m.%} wild 
+elephant; {@-ja@}, {%a.%} mountain-born: {@ā,@} {%f.%} 
+daughter of the mountain, {%ep. of%} Pārvatī; 
+{@-ṇadī@}, {%f.%} mountain stream; {@-trā,@} {%a.%} mountain-ruling, <lbinfo n="4"/>
+ {%ep. of%} Śiva; {@-durga,@} {%a.%} inaccessible <lbinfo n="4"/>
+ owing to mountains; {%n.%} hill-fort; 
+{@-dhātu,@} {%m. pl.%} mountain ores; {@-nadikā,@} {%f.%} 
+mountain brook; {@-nadī,@} {%f.%} = giri-ṇadī; {@-pati,@} 
+{%m.%} king of mountains, lofty mountain; {@-pṛ-@}
+{@-ṣṭha@}, {%n.%} mountain ridge; {@-prapāta,@} {%m.%} precipice; <lbinfo n="5"/>
+ {@-prastha,@} {%m.%} mountain plain, plateau; 
+{@-bhid,@} {%a.%} mountain-piercing; {@-rāj@}, {%m.%} king 
+of mountains, lofty mountain; {@-vāsin,@} {%a.%} 
+dwelling in the mountains; {@-śá@}, {%a.%} dwelling 
+in the mountains, {%ep. of%} Śiva; {@-ṣad,@} {%a.%} sitting <lbinfo n="3"/>
+ on mountains (Rudra); {@-ṣṭhâ@}, {%a.%} = 
+giri-vāsin; {@-sutā,@} {%f.%} daughter of the mountain, <lbinfo n="4"/>
+ {%ep. of%} Pārvati.
 <LEND>

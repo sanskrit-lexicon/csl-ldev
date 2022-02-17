@@ -1,7 +1,7 @@
 <L>17052<pc>522<k1>pillar<k2>pillar
-<div n="lb"/>{@PILLAR:@}¦ {#स्तम्भः,#} <div n="xe">{%it is not supported by p. s:%}</div> <div n="xs">{#स्तम्भैर्न #}
-<div n="lb"/>{# च धृता सा तु,#}</div> Mah. ii. 11. 14. Ph.: <div n="xe">{%p. of%}
-<div n="lb"/>{%state:%}</div> <div n="xs">{#राज्यरक्षकः, राजस्तम्भाधारः#}</div> (com. v. iii.
-<div n="lb"/>17.) and sim. comp.s. <div n="xe">{%P. ed:%}</div> <div n="xs">{#स्तम्भोपेत#}</div>
-<div n="lb"/>(f. {#ता#}) and sim. comp.s.
+{@PILLAR:@}¦ {#स्तम्भः,#} <div n="xe">{%it is not supported by p. s:%}</div> <div n="xs">{#स्तम्भैर्न #}
+{# च धृता सा तु,#}</div> Mah. ii. 11. 14. Ph.: <div n="xe">{%p. of%}
+{%state:%}</div> <div n="xs">{#राज्यरक्षकः, राजस्तम्भाधारः#}</div> (com. v. iii.
+17.) and sim. comp.s. <div n="xe">{%P. ed:%}</div> <div n="xs">{#स्तम्भोपेत#}</div>
+(f. {#ता#}) and sim. comp.s.
 <LEND>

@@ -1,7 +1,7 @@
 <L>14967<pc>457<k1>moreover<k2>moreover
-<div n="lb"/>{@MOREOVER:@}¦ <div n="1">(1) {#अन्यच्च,#} <div n="xe">{%m. spies have been%}
-<div n="lb"/>{%employed:%}</div> <div n="xs">{#अन्यच्च नियूक्ताः प्रणिधयः,#}</div> Mu.; </div><div n="1">(2)
-<div n="lb"/>{#अपरञ्च,#} {%m.%} ({%he%}) <div n="xe">{%is cruel:%}</div> <div n="xs">{#अपरञ्च क्रूरः,#}</div> <ls>P.</ls> ; </div><div n="1">(3) {#किञ्च,#}
-<div n="lb"/><div n="xe">{%and m. you are our enemy:%}</div> <div n="xs">{#किञ्चान्यत् शत्रुर्भवान-#}
-<div n="lb"/>{#स्माकम्,#}</div> <ls>H.</ls> ; </div><div n="1">(4) {#अपि च,#} C.</div>
+{@MOREOVER:@}¦ <div n="1">(1) {#अन्यच्च,#} <div n="xe">{%m. spies have been%}
+{%employed:%}</div> <div n="xs">{#अन्यच्च नियूक्ताः प्रणिधयः,#}</div> Mu.; </div><div n="1">(2)
+{#अपरञ्च,#} {%m.%} ({%he%}) <div n="xe">{%is cruel:%}</div> <div n="xs">{#अपरञ्च क्रूरः,#}</div> <ls>P.</ls> ; </div><div n="1">(3) {#किञ्च,#}
+<div n="xe">{%and m. you are our enemy:%}</div> <div n="xs">{#किञ्चान्यत् शत्रुर्भवान-#}
+{#स्माकम्,#}</div> <ls>H.</ls> ; </div><div n="1">(4) {#अपि च,#} C.</div>
 <LEND>

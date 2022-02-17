@@ -1,13 +1,13 @@
 <L>16420<pc>279-1<k1>वास्तु<k2>वास्तु
 {#वास्तु#}¦vā́s-tu, {%m.%} ({%only P.%}), {%n.%} [√ ¤3.¤ vas] dwelling-place, <lbinfo n="5"/>
-<> homestead, house; apartment ({%rare%}): 
-<>{@-karman,@} {%n.%} building of a house; {@-jñāna,@} 
-<>{%n.%} knowledge of building, architecture; {@-pa-@}
-<>{@-rīkṣā,@} {%f.%} examination of the building site; 
-<>{@-pāla,@} {%m.%} tutelary genius of the house; {@-pu-@}
-<>{@-ruṣa,@} {%m.%} genius {%regarded as prototype%} of 
-<>the house; {@-vidhāna,@} {%n.%} building of a house; 
-<>{@-saṃpādana@}, {%n.%} preparation of a site; {@-sthā-@}
-<>{@-pana,@} {%n.%} erection of a house; {@-ha,@} {%a.%} left remaining <lbinfo n="2"/>
-<> on the spot; {%n.%} (?) remainder.
+ homestead, house; apartment ({%rare%}): 
+{@-karman,@} {%n.%} building of a house; {@-jñāna,@} 
+{%n.%} knowledge of building, architecture; {@-pa-@}
+{@-rīkṣā,@} {%f.%} examination of the building site; 
+{@-pāla,@} {%m.%} tutelary genius of the house; {@-pu-@}
+{@-ruṣa,@} {%m.%} genius {%regarded as prototype%} of 
+the house; {@-vidhāna,@} {%n.%} building of a house; 
+{@-saṃpādana@}, {%n.%} preparation of a site; {@-sthā-@}
+{@-pana,@} {%n.%} erection of a house; {@-ha,@} {%a.%} left remaining <lbinfo n="2"/>
+ on the spot; {%n.%} (?) remainder.
 <LEND>

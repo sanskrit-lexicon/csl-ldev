@@ -19,8 +19,8 @@
 <ls>TRIK. 1, 2, 7.</ls> 
 <ls>H. an. 4, 124.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 1, 7575. 3, 2195.</ls> {#वासुकिपालिता#} 
-<ls>?5, 3617. HARIV. 12846. 14371. R. 1, 5, 20 (18 GORR.). 2, 100, 20. 3, 36, 13. 4, 41, 52. 6, 4, 37. 16, 30. BHĀG. P. 1, 11, 12.</ls> Vgl. {#भोगावती#} . 
+<ls>MBH. 1, 7575.</ls> <ls n="MBH.">3, 2195.</ls> {#वासुकिपालिता#} 
+<ls n="MBH.">5, 3617.</ls> <ls>HARIV. 12846.</ls> <ls n="HARIV.">14371.</ls> <ls>R. 1, 5, 20 (18 GORR.). 2, 100, 20. 3, 36, 13. 4, 41, 52. 6, 4, 37. 16, 30.</ls> <ls>BHĀG. P. 1, 11, 12.</ls> Vgl. {#भोगावती#} . 
 <div n="2">— c) {%der Fluss der Schlangendämonen%} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> N. pr. eines heiligen Flusses 
 <ls>MBH. 3, 493.</ls> des <is>Vāsuki</is> 

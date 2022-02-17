@@ -1,6 +1,6 @@
 <L>10425<pc>329<k1>guiltless<k2>guiltless
-<div n="lb"/>{@GUILTLESS:@}¦ <div n="1">(1) {#निष्पापः#} ({#पा, पं#}), {%g. livelihood:%}
-<div n="lb"/>{#निष्पापा वृत्तिः,#} Raj.; </div><div n="1">(2) {#अपापः#} ({#पा, पं#}), <div n="xe">{%thousands%}
-<div n="lb"/>{%of g. men:%}</div> <div n="xs">{#अपापानां सहस्राणि,#}</div> Mr. ix.; </div><div n="1">(3) {#निर-#}
-<div n="lb"/>{#पराधः#} ({#धा, धं#}): v. Innocent.</div>
+{@GUILTLESS:@}¦ <div n="1">(1) {#निष्पापः#} ({#पा, पं#}), {%g. livelihood:%}
+{#निष्पापा वृत्तिः,#} Raj.; </div><div n="1">(2) {#अपापः#} ({#पा, पं#}), <div n="xe">{%thousands%}
+{%of g. men:%}</div> <div n="xs">{#अपापानां सहस्राणि,#}</div> Mr. ix.; </div><div n="1">(3) {#निर-#}
+{#पराधः#} ({#धा, धं#}): v. Innocent.</div>
 <LEND>

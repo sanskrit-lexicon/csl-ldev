@@ -1,25 +1,25 @@
 <L>4942<pc>159<k1>cover<k2>cover
-<div n="lb"/>{@COVER@}¦ (v. t.): <div n="I">I To overspread: </div><div n="1">(1) {#छादयति, #}
-<div n="lb"/>{# आ-, समा-, प्र-,#} ({#छद्,#} c. 10.), <div n="xe">{%c. him with this%}
-<div n="lb"/>{%wrapper:%}</div> <div n="xs">{#अनेन प्रावारकेण छादयैनम्,#}</div> Mr.; i. </div><div n="1">(2) {#आ-#}
-<div n="lb"/>{#वृणोति, समा-,#} (rarely {#प्रा-, सं-, नि-,#}) ({#वृ,#} c. 5.),
-<div n="lb"/><div n="xe">{%c. ed with darkness:%}</div> <div n="xs">{#तिमिरावृतः#}</div> ({#ता, तं#}), M. n.;
-<div n="lb"/><div n="xe">{%c. ed face:%}</div> <div n="xs">{#संवृतमुखम्,#}</div> K.; </div><div n="1">(3) {#अपि-दधाति, पि-,#}
-<div n="lb"/>({#धा,#} c. 3.) <div n="xe">{%c. ing his head with a wing:%}</div> <div n="xs">{#शिरः #}
-<div n="lb"/>{# पिधाय पक्षेण,#}</div> N.; </div><div n="1">(4) {#स्तृणाति#} <div n="xe">{%or%}</div> <div n="xs">{#स्तृणोति#}</div> ({#स्तृ#} <div n="xe">{%or%}</div> <div n="xs">{#स्त्दृ,#}</div>
-<div n="lb"/>c. 9. and 5.) (rare), <div n="xe">{%c. ed the ground with their%}
-<div n="lb"/>{%hands:%}</div> <div n="xs">{#शिरोभिर्महीं तस्तार,#}</div> R. iv. 63.; </div><div n="1">(5) {#आचिनोति, #}
-<div n="lb"/>{# समा-,#} ({#चि,#} c. 5.) (rare), <div n="xe">{%c. ed with bunches of%}
-<div n="lb"/>{%flowers:%}</div> <div n="xs">{#कुसुमस्तवकाचितः#}</div> ({#ता, तं#}); </div><div n="1">(6) {#उर्णौति, प्र-,#}
-<div n="lb"/>({#उर्णु,#} c. 2.) (rare), B.; </div><div n="1">(7) {#स्थगयति#} ({#स्थग्,#} c.
-<div n="lb"/>10) (rare). Ph.: <div n="xe">{%c. ed with wounds:%}</div> <div n="xs">{#क्षतविक्षतः#}</div>
-<div n="lb"/>({#ता, तं#}). </div><div n="I">II To conceal: q. v. </div><div n="1">(1) {#आच्छायति, #}
-<div n="lb"/>{# प्र-,#} <div n="xe">{%by what means shall I c. this failing:%}</div> <div n="xs">{#केनोपायेन #}
-<div n="lb"/>{# स्खलितमिदं प्रच्छादयमि,#}</div> K.; </div><div n="1">(2) {#आ-वृणोति, सं-,#}
-<div n="lb"/>M. n.; </div><div n="1">(3) {#पिदधाति,#} Si. <div n="xe">{%C. ed way:%}</div> <div n="xs">{#छन्नपथः#}</div> {%or%}
-<div n="lb"/>{#गूढमार्गः।#} </div><div n="I">III To protect: q. v.: {#रक्षति#} ({#रक्ष,#}
-<div n="lb"/>c. l.), <div n="xe">{%to c. the rear:%}</div> <div n="xs">{#पृष्ठदेशं रक्षितुम्,#}</div> M. n. </div><div n="I">IV
-<div n="lb"/>To brood: {#आवृणोति#} (?). V. To be sufficient
-<div n="lb"/>for: v. Sufficient. </div><div n="I">VI To include: q. v.</div>
-<div n="lb"/><div n="I">VII To copulate with: q. v.</div>
+{@COVER@}¦ (v. t.): <div n="I">I To overspread: </div><div n="1">(1) {#छादयति, #}
+{# आ-, समा-, प्र-,#} ({#छद्,#} c. 10.), <div n="xe">{%c. him with this%}
+{%wrapper:%}</div> <div n="xs">{#अनेन प्रावारकेण छादयैनम्,#}</div> Mr.; i. </div><div n="1">(2) {#आ-#}
+{#वृणोति, समा-,#} (rarely {#प्रा-, सं-, नि-,#}) ({#वृ,#} c. 5.),
+<div n="xe">{%c. ed with darkness:%}</div> <div n="xs">{#तिमिरावृतः#}</div> ({#ता, तं#}), M. n.;
+<div n="xe">{%c. ed face:%}</div> <div n="xs">{#संवृतमुखम्,#}</div> K.; </div><div n="1">(3) {#अपि-दधाति, पि-,#}
+({#धा,#} c. 3.) <div n="xe">{%c. ing his head with a wing:%}</div> <div n="xs">{#शिरः #}
+{# पिधाय पक्षेण,#}</div> N.; </div><div n="1">(4) {#स्तृणाति#} <div n="xe">{%or%}</div> <div n="xs">{#स्तृणोति#}</div> ({#स्तृ#} <div n="xe">{%or%}</div> <div n="xs">{#स्त्दृ,#}</div>
+c. 9. and 5.) (rare), <div n="xe">{%c. ed the ground with their%}
+{%hands:%}</div> <div n="xs">{#शिरोभिर्महीं तस्तार,#}</div> R. iv. 63.; </div><div n="1">(5) {#आचिनोति, #}
+{# समा-,#} ({#चि,#} c. 5.) (rare), <div n="xe">{%c. ed with bunches of%}
+{%flowers:%}</div> <div n="xs">{#कुसुमस्तवकाचितः#}</div> ({#ता, तं#}); </div><div n="1">(6) {#उर्णौति, प्र-,#}
+({#उर्णु,#} c. 2.) (rare), B.; </div><div n="1">(7) {#स्थगयति#} ({#स्थग्,#} c.
+10) (rare). Ph.: <div n="xe">{%c. ed with wounds:%}</div> <div n="xs">{#क्षतविक्षतः#}</div>
+({#ता, तं#}). </div><div n="I">II To conceal: q. v. </div><div n="1">(1) {#आच्छायति, #}
+{# प्र-,#} <div n="xe">{%by what means shall I c. this failing:%}</div> <div n="xs">{#केनोपायेन #}
+{# स्खलितमिदं प्रच्छादयमि,#}</div> K.; </div><div n="1">(2) {#आ-वृणोति, सं-,#}
+M. n.; </div><div n="1">(3) {#पिदधाति,#} Si. <div n="xe">{%C. ed way:%}</div> <div n="xs">{#छन्नपथः#}</div> {%or%}
+{#गूढमार्गः।#} </div><div n="I">III To protect: q. v.: {#रक्षति#} ({#रक्ष,#}
+c. l.), <div n="xe">{%to c. the rear:%}</div> <div n="xs">{#पृष्ठदेशं रक्षितुम्,#}</div> M. n. </div><div n="I">IV
+To brood: {#आवृणोति#} (?). V. To be sufficient
+for: v. Sufficient. </div><div n="I">VI To include: q. v.</div>
+<div n="I">VII To copulate with: q. v.</div>
 <LEND>

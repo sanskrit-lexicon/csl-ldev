@@ -1,3 +1,3 @@
 <L>2994<pc>101<k1>canoe<k2>canoe
-<div n="lb"/>{@CANOE:@}¦ {#नौः#} <div n="xe">{%or%}</div> <div n="xs">{#नौकाः#}</div> v. Boat.
+{@CANOE:@}¦ {#नौः#} <div n="xe">{%or%}</div> <div n="xs">{#नौकाः#}</div> v. Boat.
 <LEND>

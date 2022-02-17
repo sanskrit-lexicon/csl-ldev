@@ -1,4 +1,4 @@
 <L>13473<pc>414<k1>level<k2>level
-<div n="lb"/>{@LEVEL@}¦ (adj.): {#समः#} ({#मा, मं#}), <div n="xe">{%on a l. ground:%}</div> <div n="xs">{#सम-#}
-<div n="lb"/>{#भूमौ;#}</div> <div n="xe">{%l. with the ground:%}</div> <div n="xs">{#भूमिसमः#}</div> ({#मा, मं#}).
+{@LEVEL@}¦ (adj.): {#समः#} ({#मा, मं#}), <div n="xe">{%on a l. ground:%}</div> <div n="xs">{#सम-#}
+{#भूमौ;#}</div> <div n="xe">{%l. with the ground:%}</div> <div n="xs">{#भूमिसमः#}</div> ({#मा, मं#}).
 <LEND>

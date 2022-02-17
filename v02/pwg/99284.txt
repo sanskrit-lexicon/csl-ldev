@@ -9,11 +9,11 @@ zu <ls>136.</ls> <ls>VOP. 7, 30.</ls>
 <ls>MED. n. 142.</ls> <ls>GṚHYAS. 2, 52.</ls> {#जटी शिखी मुण्डी#} 
 <ls>TATTVAS. 19.</ls> 
 <ls>AV. 19, 22, 15.</ls> 
-<ls>MBH. 4, 1639. 7, 9504. 13, 1171. 2277. 3694.</ls> 
-<ls>HARIV. 10594. 11866.</ls> 
-<ls>R. 3, 52, 9.</ls> <ls>Verz. d. Oxf. H. 148</ls>, {%a%}, 
-<ls>No. 318. 268</ls>, {%b%}, 
-<ls>?20. GAUḌAP. zu SĀṂKHYAK. 22.</ls> 
+<ls>MBH. 4, 1639.</ls> <ls n="MBH.">7, 9504.</ls> <ls n="MBH.">13, 1171.</ls> <ls n="MBH. 13,">2277.</ls> <ls n="MBH. 13,">3694.</ls> 
+<ls>HARIV. 10594.</ls> <ls n="HARIV.">11866.</ls> 
+<ls>R. 3, 52, 9.</ls> <ls>Verz. d. Oxf. H. 148,a,</ls> 
+<ls>No. 318. 268,b,</ls> 
+<ls>20.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 22.</ls> 
 <div n="2">— b) {%auf der Höhe der Wissenschaft stehend%}: {#अग्नेरिव शिखा चान्या यस्य ज्ञानमयी शिखा । स शिखीत्युच्यते विद्वान्#} 
 <ls>BRAHMOPANIṢAD</ls> in <ls>Ind. St. 1, 383, N. 1.</ls> <lex>m.</lex> {%ein Brahman%} 
 <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> 
@@ -26,12 +26,12 @@ zu <ls>136.</ls> <ls>VOP. 7, 30.</ls>
 <ls>HALĀY. 2, 86.</ls> 
 <ls>ṚV. PRĀT. 13, 20.</ls> 
 <ls>YĀJÑ. 3, 324.</ls> 
-<ls>MBH. 3, 2858. 4, 191. 6, 71.</ls> 
+<ls>MBH. 3, 2858.</ls> <ls n="MBH.">4, 191.</ls> <ls n="MBH.">6, 71.</ls> 
 <ls>R. 2, 56, 9.</ls> 
 <ls>SUŚR. 1, 107, 8.</ls> 
 <ls>VIKR. 41.</ls> 
 <ls>ŚIŚ. 4, 50.</ls> 
-<ls>Spr. (II) 164. 2575. 5051. (I) 2832.</ls> <ls>VARĀH. BṚH. S. 3, 28. 24, 19. 34, 4. 48, 6. 68, 115.</ls> <ls>KATHĀS. 14, 18.</ls> <ls>RĀJA-TAR. 3, 335.</ls> {#शिखिपुच्छ#} 
+<ls>Spr. (II) 164.</ls> <ls n="Spr. (II)">2575.</ls> <ls n="Spr. (II)">5051.</ls> <ls n="Spr.">(I) 2832.</ls> <ls>VARĀH. BṚH. S. 3, 28. 24, 19. 34, 4. 48, 6. 68, 115.</ls> <ls>KATHĀS. 14, 18.</ls> <ls>RĀJA-TAR. 3, 335.</ls> {#शिखिपुच्छ#} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) {%Hahn%} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
@@ -50,8 +50,8 @@ zu <ls>136.</ls> <ls>VOP. 7, 30.</ls>
 <ls>MED.</ls> 
 <ls>HĀR. 162.</ls> 
 <ls>HALĀY. 1, 62.</ls> 
-<ls>GṚHYAS. 1, 6.</ls> <ls>YĀJÑ. 3, 127.</ls> <ls>MBH. 1, 932. 2, 434. 1147. 3, 547. 4, 1710. 5, 1308. 12, 8556.</ls> <ls>R. 2, 98, 8. 3, 55, 11. 6, 86, 34.</ls> <ls>MṚCCH. 85, 8.</ls> <ls>RAGH. 19, 54.</ls> <ls>ŚIŚ. 15, 7.</ls> <ls>VARĀH. BṚH. S. 5, 60. 9, 44. 11, 11. 43, 65. 53, 43. 51. 119.</ls> <ls>BṚH. 2, 6.</ls> {#क्षत्रस्य शस्त्रशिखिनः शममद्य यान्तु#} 
-<ls>UTTARAR. 110, 19 (149, 14).</ls> <ls>Spr. (II) 355. 2488. 4812. (I) 2486.</ls> <ls>GĪT. 7, 40.</ls> {#और्व°#} 
+<ls>GṚHYAS. 1, 6.</ls> <ls>YĀJÑ. 3, 127.</ls> <ls>MBH. 1, 932.</ls> <ls n="MBH.">2, 434.</ls> <ls n="MBH. 2,">1147.</ls> <ls n="MBH.">3, 547.</ls> <ls n="MBH.">4, 1710.</ls> <ls n="MBH.">5, 1308.</ls> <ls n="MBH.">12, 8556.</ls> <ls>R. 2, 98, 8. 3, 55, 11. 6, 86, 34.</ls> <ls>MṚCCH. 85, 8.</ls> <ls>RAGH. 19, 54.</ls> <ls>ŚIŚ. 15, 7.</ls> <ls>VARĀH. BṚH. S. 5, 60. 9, 44. 11, 11. 43, 65. 53, 43. 51. 119.</ls> <ls>BṚH. 2, 6.</ls> {#क्षत्रस्य शस्त्रशिखिनः शममद्य यान्तु#} 
+<ls>UTTARAR. 110, 19 (149, 14).</ls> <ls>Spr. (II) 355.</ls> <ls n="Spr. (II)">2488.</ls> <ls n="Spr. (II)">4812.</ls> <ls n="Spr.">(I) 2486.</ls> <ls>GĪT. 7, 40.</ls> {#और्व°#} 
 <ls>Verz. d. Oxf. H. 129,a,11.</ls> <ls>PAÑCAR.3,7,19.</ls> 
 <div n="2">— g) Bez. {%der Zahl drei%} (wegen der {%drei heiligen Feuer%}) 
 <ls>VARĀH. BṚH. S. 77, 33. 98, 1.</ls> 
@@ -66,7 +66,7 @@ zu <ls>136.</ls> <ls>VOP. 7, 30.</ls>
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 1, 49.</ls> 
-<ls>VARĀH. BṚH. S. 3, 11. 11, 4. 14, 27. 12, 5. 21. 47, 12. 14</ls> <ls>?(Spr. 2649). fg.</ls> vielleicht {%der niedersteigende Knoten%} 
+<ls>VARĀH. BṚH. S. 3, 11. 11, 4. 14, 27. 12, 5. 21. 47, 12. 14</ls> (<ls>Spr. 2649). fg.</ls> vielleicht {%der niedersteigende Knoten%} 
 <ls>20, 6.</ls> <ls>BṚH. 2, 3.</ls> <ls>YOGAYĀTRĀ 1, 12. 3, 20</ls>; vgl. 
 <ls>Ind. St. 10, 199. 210. fg.</ls> {#शिखिचार#} {%Kometenlauf%} als Titel eines Buches oder Abschnittes 
 <ls>VARĀH. BṚH. 11, 1.</ls> 
@@ -84,7 +84,7 @@ zu <ls>136.</ls> <ls>VOP. 7, 30.</ls>
 <ls>WILSON,</ls> <ls>VP.</ls> 
 <div n="3">— γ) des 2ten <is>Buddha</is> 
 <ls>H. 236.</ls> 
-<ls>LALIT. ed. Calc. 5, 22.</ls> <ls>WILSON, Sel. Works 1, 290. 2, 5. 8. 13.</ls> <ls>BURNOUF,</ls> <ls>Intr. 222. 317</ls> ({#शिकिन्#} gedr.). 
+<ls>LALIT. ed. Calc. 5, 22.</ls> <ls>WILSON, Sel. Works 1, 290. 2, 5. 8. 13.</ls> <ls>BURNOUF, Intr. 222. 317</ls> ({#शिकिन्#} gedr.). 
 <ls>533.</ls> <ls>Lot. de la b. l. 503.</ls> 
 <div n="3">— δ) eines <is>Brahman</is> (der Gott) 
 <ls>Lot. de la b. l. 3. 106.</ls> 

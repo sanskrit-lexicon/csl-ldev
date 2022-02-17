@@ -1,10 +1,10 @@
 <L>11079<pc>348<k1>hold<k2>hold
-<div n="lb"/>{@HOLD@}¦ (subs.): <div n="I">I Grasp: q.v.: Ph.: <div n="xe">{%to take%}
-<div n="lb"/>{%or lay h.:%}</div> <div n="xs">{#गृह्वाति, परि-,#}</div> ({#ग्रह्,#} c. 9.); {%to keep h.:%}
-<div n="lb"/>{#धारयति।#} </div><div n="I">II Support: q.v.: {#आलम्बः, -नम्,#}
-<div n="lb"/><div n="xe">{%without any h.:%}</div> <div n="xs">{#निरालम्बनः,#}</div> D. </div><div n="I">III Authority,
-<div n="lb"/>claim: q.v.: {#अधिकारः।#} </div><div n="I">IV Influence,
-<div n="lb"/>ascendancy: q.v. </div><div n="I">V Prison: q.v.: {#चारकम्।#}</div>
-<div n="lb"/><div n="I">VI Strong-h. {#दुर्गम्।#} </div><div n="I">VII Of a ship: perh.
-<div n="lb"/>{#क्रोडः#} (comp. Bengali {#कोल्#}), <div n="xe">{%fore h.:%}</div> <div n="xs">{#अग्रः क्रोडः।#}</div></div>
+{@HOLD@}¦ (subs.): <div n="I">I Grasp: q.v.: Ph.: <div n="xe">{%to take%}
+{%or lay h.:%}</div> <div n="xs">{#गृह्वाति, परि-,#}</div> ({#ग्रह्,#} c. 9.); {%to keep h.:%}
+{#धारयति।#} </div><div n="I">II Support: q.v.: {#आलम्बः, -नम्,#}
+<div n="xe">{%without any h.:%}</div> <div n="xs">{#निरालम्बनः,#}</div> D. </div><div n="I">III Authority,
+claim: q.v.: {#अधिकारः।#} </div><div n="I">IV Influence,
+ascendancy: q.v. </div><div n="I">V Prison: q.v.: {#चारकम्।#}</div>
+<div n="I">VI Strong-h. {#दुर्गम्।#} </div><div n="I">VII Of a ship: perh.
+{#क्रोडः#} (comp. Bengali {#कोल्#}), <div n="xe">{%fore h.:%}</div> <div n="xs">{#अग्रः क्रोडः।#}</div></div>
 <LEND>

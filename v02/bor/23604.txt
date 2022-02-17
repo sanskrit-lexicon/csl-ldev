@@ -1,4 +1,4 @@
 <L>23604<pc>740<k1>urgent<k2>urgent
-<div n="lb"/>{@URGENT:@}¦ <div n="1">(1) {#गुरु#} (f. also {#र्वी#} = important);</div>
-<div n="lb"/><div n="1">(2) {#उपरोधक#} (f. {#धिका#} = pressing).</div>
+{@URGENT:@}¦ <div n="1">(1) {#गुरु#} (f. also {#र्वी#} = important);</div>
+<div n="1">(2) {#उपरोधक#} (f. {#धिका#} = pressing).</div>
 <LEND>

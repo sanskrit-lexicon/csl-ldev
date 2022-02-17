@@ -1,4 +1,4 @@
 <L>10081<pc>318<k1>goldleaf<k2>goldleaf
-<div n="lb"/>{@GOLDLEAF:@}¦ <div n="1">(1) {#स्वर्णपत्रम्;#} </div><div n="1">(2) {#सुवर्णपत्रम्;#} </div><div n="1">(3)
-<div n="lb"/>{#कनकपत्रम्;#} etc.</div>
+{@GOLDLEAF:@}¦ <div n="1">(1) {#स्वर्णपत्रम्;#} </div><div n="1">(2) {#सुवर्णपत्रम्;#} </div><div n="1">(3)
+{#कनकपत्रम्;#} etc.</div>
 <LEND>

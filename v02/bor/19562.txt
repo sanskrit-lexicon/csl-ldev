@@ -1,5 +1,5 @@
 <L>19562<pc>608<k1>run into<k2>run into
-<div n="lb"/>{@RUN INTO:@}¦ <div n="I">I Lit.: {#द्रवति,#} {%rivers r. i. the ocean:%}
-<div n="lb"/>{#नद्यः समुद्रं द्रवन्ति,#} G. ii. 28. </div><div n="I">II = to become:
-<div n="lb"/>q. v.: <div n="xe">{%r. i. debt:%}</div> <div n="xs">{#ऋणग्रस्त#}</div> (f. {#स्ता#}).</div>
+{@RUN INTO:@}¦ <div n="I">I Lit.: {#द्रवति,#} {%rivers r. i. the ocean:%}
+{#नद्यः समुद्रं द्रवन्ति,#} G. ii. 28. </div><div n="I">II = to become:
+q. v.: <div n="xe">{%r. i. debt:%}</div> <div n="xs">{#ऋणग्रस्त#}</div> (f. {#स्ता#}).</div>
 <LEND>

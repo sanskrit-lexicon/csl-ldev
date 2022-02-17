@@ -1,6 +1,6 @@
 <L>21327<pc>672<k1>stair<k2>stair
-<div n="lb"/>{@STAIR:@}¦ <div n="I">I A flight of steps: </div><div n="1">(1) {#सोपानम्;#}</div>
-<div n="lb"/><div n="1">(2) {#निःश्रेणिः(णी)#} (rare), R. xv. 1.; </div><div n="1">(3) {#अधि-#}
-<div n="lb"/>{#रोह(हि)णी,#} M. n. </div><div n="I">II A single step: </div><div n="1">(1) {#पर्वन्#}
-<div n="lb"/>(n.), R. xvi. 46.; {#भङ्गिः(ङ्गी),#} Me. i. 61.</div>
+{@STAIR:@}¦ <div n="I">I A flight of steps: </div><div n="1">(1) {#सोपानम्;#}</div>
+<div n="1">(2) {#निःश्रेणिः(णी)#} (rare), R. xv. 1.; </div><div n="1">(3) {#अधि-#}
+{#रोह(हि)णी,#} M. n. </div><div n="I">II A single step: </div><div n="1">(1) {#पर्वन्#}
+(n.), R. xvi. 46.; {#भङ्गिः(ङ्गी),#} Me. i. 61.</div>
 <LEND>

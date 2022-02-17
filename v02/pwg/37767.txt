@@ -16,7 +16,7 @@
 <ls>11, 37.</ls> {#नरके वसेत्#} 207. {#घोरान्नरकान्प्राप्य#} 
 <ls>12, 54.</ls> {#नरकेषु विवर्तनम्#} 75. {#कृच्छ्रे स नरके मज्जेत्#} 
 <ls>N. 6, 12.</ls> 
-<ls>MBH. 5, 1589. 14, 2736.</ls> 
+<ls>MBH. 5, 1589.</ls> <ls n="MBH.">14, 2736.</ls> 
 <ls>VARĀH. BṚH. S. 2, 13.</ls> 
 <ls>PAÑCAT. 108, 21.</ls> 
 <ls>BHĀG. P. 2, 7, 22. 6, 17, 20.</ls> 
@@ -31,7 +31,7 @@
 <ls>MĀRK. P. 50, 29.</ls> 
 <ls>VP. 56.</ls> 
 <div n="1">— 3) <lex>m.</lex> N. pr. eines Dämons, eines Sohnes der Erde (daher {#भौम#} genannt), der in <is>Prāgjyotiṣa</is> hauste und hier von <is>Kṛṣṇa</is> erschlagen wurde, 
-<ls>TRIK.</ls> <ls>H. 221.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 2537. 2, 364. 3, 477. 488. 10914. 5, 1887. 12, 8261. 12956.</ls> <ls>ARJ. 5, 20.</ls> <ls>HARIV. 216. 2287. 2362. 3117. 3134. 6791. fgg. 9126. 9132. 9160. 9790. 12695. 12848.</ls> <ls>R. 3, 20, 17.</ls> <ls>VP. 148. 581. fgg.</ls> <ls>BHĀG. P. 8, 10, 32.</ls> <ls>RĀJA-TAR. 2, 150.</ls> 
+<ls>TRIK.</ls> <ls>H. 221.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 2537.</ls> <ls n="MBH.">2, 364.</ls> <ls n="MBH.">3, 477.</ls> <ls n="MBH. 3,">488.</ls> <ls n="MBH. 3,">10914.</ls> <ls n="MBH.">5, 1887.</ls> <ls n="MBH.">12, 8261.</ls> <ls n="MBH. 12,">12956.</ls> <ls>ARJ. 5, 20.</ls> <ls>HARIV. 216.</ls> <ls n="HARIV.">2287.</ls> <ls n="HARIV.">2362.</ls> <ls n="HARIV.">3117.</ls> <ls n="HARIV.">3134.</ls> <ls n="HARIV.">6791. fgg.</ls> <ls n="HARIV.">9126.</ls> <ls n="HARIV.">9132.</ls> <ls n="HARIV.">9160.</ls> <ls n="HARIV.">9790.</ls> <ls n="HARIV.">12695.</ls> <ls n="HARIV.">12848.</ls> <ls>R. 3, 20, 17.</ls> <ls>VP. 148. 581. fgg.</ls> <ls>BHĀG. P. 8, 10, 32.</ls> <ls>RĀJA-TAR. 2, 150.</ls> 
 <div n="1">— 4) <lex>m.</lex> N. pr. eines Mannes: {#पफकनरकाः#} <is>gaṇa</is> {#तिककितवादि#} zu. 
 <ls>P. 2, 4, 68.</ls> 
 <div n="1">— 5) N. pr. eines Landstrichs: {#मुरुं च नरकं चैव शास्ति यो यवनाधिपः । - भगदत्तः#} 

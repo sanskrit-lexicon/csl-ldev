@@ -1,6 +1,6 @@
 <L>12880<pc>397<k1>joke<k2>joke
-<div n="lb"/>{@JOKE@}¦ (subs.): <div n="1">(1) {#परिहासः,#} <div n="xe">{%practical j.:%}</div> <div n="xs">{#*कर्मपरि-#}
-<div n="lb"/>{#हासः:#}</div> v. Jest.: </div><div n="1">(2) {#प्रहासः,#} <div n="xe">{%even in j.:%}</div> <div n="xs">{#प्रहासनेऽपि,#}</div>
-<div n="lb"/>Ka. v. 20.; </div><div n="1">(3) {#नर्मन#} (n.) (= play), <div n="xe">{%I speak%}
-<div n="lb"/>{%in earnest, no j.:%}</div> <div n="xs">{#सत्यं ब्रवाणि, न नर्म,#}</div> B. p.</div>
+{@JOKE@}¦ (subs.): <div n="1">(1) {#परिहासः,#} <div n="xe">{%practical j.:%}</div> <div n="xs">{#*कर्मपरि-#}
+{#हासः:#}</div> v. Jest.: </div><div n="1">(2) {#प्रहासः,#} <div n="xe">{%even in j.:%}</div> <div n="xs">{#प्रहासनेऽपि,#}</div>
+Ka. v. 20.; </div><div n="1">(3) {#नर्मन#} (n.) (= play), <div n="xe">{%I speak%}
+{%in earnest, no j.:%}</div> <div n="xs">{#सत्यं ब्रवाणि, न नर्म,#}</div> B. p.</div>
 <LEND>

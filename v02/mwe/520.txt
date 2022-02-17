@@ -1,6 +1,6 @@
 <L>520<pc>012-a<k1>aim<k2>aim
-<div n="lb"/>AIM¦, {%s.%} (The point to which a missive weapon is thrown)
-<div n="lb"/>{#लक्षं, लक्ष्यं, वाणलक्ष्यं, शरव्यं#}. — (The direction of the weapon)
-<div n="lb"/>{#सन्धानं#}. — (A purpose, design) {#अभिप्रायः, चिकीर्पितं, आशयः,#}
-<div n="lb"/>{#काङ्क्षा, वाञ्छा#}. — (Conjecture) {#अनुमानं#}.
+AIM¦, {%s.%} (The point to which a missive weapon is thrown)
+{#लक्षं, लक्ष्यं, वाणलक्ष्यं, शरव्यं#}. — (The direction of the weapon)
+{#सन्धानं#}. — (A purpose, design) {#अभिप्रायः, चिकीर्पितं, आशयः,#}
+{#काङ्क्षा, वाञ्छा#}. — (Conjecture) {#अनुमानं#}.
 <LEND>

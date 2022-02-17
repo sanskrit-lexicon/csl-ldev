@@ -1,18 +1,18 @@
 <L>20207<pc>629<k1>serve<k2>serve
-<div n="lb"/>{@SERVE@}¦ (v.): <div n="I">I Lit.: {#सेवते, उप-, सं-,#} ({#सेव्,#} c. [Page630]
-<div n="lb"/>1.), <div n="xe">{%to s. a big lord:%}</div> <div n="xs">{#परमेश्वरं सेवते,#}</div> H. ii. 28.;
-<div n="lb"/><div n="xe">{%in s.ing a master:%}</div> <div n="xs">{#स्वामिसेवायाम्,#}</div> H. ii.; <div n="xe">{%s. for%}
-<div n="lb"/>{%salvation:%}</div> <div n="xs">{#संसेवन्ते विमुक्त्यै,#}</div> Ki. xviii. 24. </div><div n="I">II
-<div n="lb"/>To wait on, attend: q. v.: {#सेवते, नि-, उप-, #}
-<div n="lb"/>{# आ-, परि-।#} </div><div n="I">III As in table, {%to s. out, to s. up:%}
-<div n="lb"/>{#पर्यवेषयति#} (c. of {#विष्#}), <div n="xe">{%s. d Brāhmaṇas:%}</div> <div n="xs">{#ब्राह्मणान् #}
-<div n="lb"/>{# पर्यवेषयन्,#}</div> Ram, </div><div n="I">IV To do good to, bene-
-<div n="lb"/>-fit: q. v.: {#उपकरोति#} ({#कृ,#} c. 8.). </div><div n="I">V To be
-<div n="lb"/>sufficient: q. v.: {#पर्याप्त#} (f. {#प्ता#}). </div><div n="I">VI To
-<div n="lb"/>use, manage: q. v.: {#प्रयुंक्ते#} ({#युज्,#} c. 7.).</div>
-<div n="lb"/><div n="I">VII To treat: q. v. </div><div n="I">VIII In law, to
-<div n="lb"/>deliver or execute: {#निर्वाहयति#} (c. of {#वह्:#} (?):
-<div n="lb"/>v. To summon, arrest. {%To s. out%} (i. e. to
-<div n="lb"/>retaliate: q. v.): {#प्रतिशोधं ददाति#} ({#दा,#} c. 3.:
-<div n="lb"/>with gen. of the object).</div>
+{@SERVE@}¦ (v.): <div n="I">I Lit.: {#सेवते, उप-, सं-,#} ({#सेव्,#} c. [Page630]
+1.), <div n="xe">{%to s. a big lord:%}</div> <div n="xs">{#परमेश्वरं सेवते,#}</div> H. ii. 28.;
+<div n="xe">{%in s.ing a master:%}</div> <div n="xs">{#स्वामिसेवायाम्,#}</div> H. ii.; <div n="xe">{%s. for%}
+{%salvation:%}</div> <div n="xs">{#संसेवन्ते विमुक्त्यै,#}</div> Ki. xviii. 24. </div><div n="I">II
+To wait on, attend: q. v.: {#सेवते, नि-, उप-, #}
+{# आ-, परि-।#} </div><div n="I">III As in table, {%to s. out, to s. up:%}
+{#पर्यवेषयति#} (c. of {#विष्#}), <div n="xe">{%s. d Brāhmaṇas:%}</div> <div n="xs">{#ब्राह्मणान् #}
+{# पर्यवेषयन्,#}</div> Ram, </div><div n="I">IV To do good to, bene-
+-fit: q. v.: {#उपकरोति#} ({#कृ,#} c. 8.). </div><div n="I">V To be
+sufficient: q. v.: {#पर्याप्त#} (f. {#प्ता#}). </div><div n="I">VI To
+use, manage: q. v.: {#प्रयुंक्ते#} ({#युज्,#} c. 7.).</div>
+<div n="I">VII To treat: q. v. </div><div n="I">VIII In law, to
+deliver or execute: {#निर्वाहयति#} (c. of {#वह्:#} (?):
+v. To summon, arrest. {%To s. out%} (i. e. to
+retaliate: q. v.): {#प्रतिशोधं ददाति#} ({#दा,#} c. 3.:
+with gen. of the object).</div>
 <LEND>

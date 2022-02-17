@@ -7,7 +7,7 @@
 <ls>SIDDH. K.</ls> zu <ls>P. 6, 4, 25</ls>; med. {#दशताम्#} 
 <ls>MBH. 1, 1798.</ls> {#दशमान#} 
 <ls>HARIV. 4302</ls>; {#ददंश; दङ्क्ष्यति#} 
-<ls>?(BHAṬṬ. 16, 19.</ls> {#दशिष्यामस्#} 
+(<ls>BHAṬṬ. 16, 19.</ls> {#दशिष्यामस्#} 
 <ls>MBH. 1, 1605</ls>), {#दंष्टा#} <is>Kār</is>. 5 aus 
 <ls>SIDDH. K.</ls> zu <ls>P.7,2,10</ls>; {#अदाङ्क्षीत्#} 
 <ls>VOP. 8, 102.</ls> {#अदाङ्क्षुस्#} 
@@ -16,10 +16,10 @@
 <ls>PAÑCAV. BR. 8, 4.</ls> {#मा द\त्वते\ दश^ते\ मादते^ न\ः परा^ दाः#} 
 <ls>ṚV. 1, 189, 5.</ls> {#रे\णुं रेरि^हत्कि\रण^ं दद\श्वान्#} 
 <ls n="ṚV.">4, 38, 6.</ls> {#दश^#} (nach 
-<ls>SĀY.</ls><ls>) 6, 31, 3.</ls> {#यातुधानप्रेषिता हैके (सर्पाः) दशन्ति#} 
+<ls>SĀY.</ls>) <ls>6, 31, 3.</ls> {#यातुधानप्रेषिता हैके (सर्पाः) दशन्ति#} 
 <ls>ŚAT. BR. 7, 4, 1, 29.</ls> 
 <ls>KAUŚ. 29.</ls> 
-<ls>MBH. 1, 843.1610. 3, 2619.</ls> 
+<ls>MBH. 1, 843.</ls> <ls n="MBH. 1,">1610.</ls> <ls n="MBH.">3, 2619.</ls> 
 <ls>HARIV. 3665.</ls> 
 <ls>R. 5, 61, 20. 6, 19, 31.</ls> 
 <ls>SUŚR. 1, 112, 6.</ls> 
@@ -35,7 +35,7 @@
 <ls>BHAṬṬ. 14, 25.</ls> pass.: {#(नागैः) अदश्यत#} 
 <ls>MBH. 1, 5018.</ls> {#दष्ट#} 
 <ls>M. 11, 199.</ls> 
-<ls>MBH. 1, 1767. 3, 2619.</ls> 
+<ls>MBH. 1, 1767.</ls> <ls n="MBH.">3, 2619.</ls> 
 <ls>HIT. II, 14.</ls> <ls>VET. 16, 15.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 187, 7.</ls> <ls>SĀH. D. 53, 4.</ls> {#संरम्भाद्दष्टदच्छदम्#} 
 <ls>BHĀG. P. 3, 18, 16.</ls> {#मन्युदष्ट#} 
 <ls>16, 13.</ls> {#दष्टवान्#} 
@@ -45,7 +45,7 @@
 <ls>MED. t. 114.</ls> — Die Bed. {%sehen%} (
 <ls>VOP.</ls>) beruht vielleicht nicht nur auf einer Verwechselung von {#दंशन#} mit {#दर्शन#}, sondern auch darauf, dass im <is>Prākrit</is> {#दंसेमि = दर्शयामि#} ist. — caus. {#दंशयति#} {%beissen lassen%} 
 <ls>KAUŚ. 30. 46.</ls> {#कृष्णसर्यैः सुप्तं चैनमदंशयत्#} 
-<ls>MBH. 1, 2243. 3, 544.</ls> 
+<ls>MBH. 1, 2243.</ls> <ls n="MBH.">3, 544.</ls> 
 <ls>SUŚR. 2, 87, 8. 90, 9.</ls> Nach <ls>DHĀTUP. 33, 2</ls> soll {#दंशयते#} auch die Bed. des simpl. {%beissen%} und nach 
 <ls>VOP.</ls> auch die von {%sehen%} haben. — intens. {#(भावगर्हायाम्) दन्दश्यते#} und {#दन्दशीति#} 
 <ls>P. 3, 1, 24. 7, 4, 86.</ls> 
@@ -97,7 +97,7 @@
 <ls>MBH. 6, 4094.</ls> {%mit den Zähnen packen%}: {#व्याघ्रीव च हरेत्पुत्रान्संदशेन्न च पीडयेत्#} (vgl. 
 <ls>ŚIKṢĀ</ls> in <ls>Ind. St. 4, 268) 12, 3306.</ls> 
 <div n="1">— 2) {%zusammenkneifen, an einander drücken%}: {#संदश्य दशनच्छदम्#} 
-<ls>MBH. 1, 6274. 7, 7616.</ls> {#संदष्टौष्ठ#} 
+<ls>MBH. 1, 6274.</ls> <ls n="MBH.">7, 7616.</ls> {#संदष्टौष्ठ#} 
 <ls>DRAUP. 7, 9.</ls> {#संदष्टौष्ठपुट#} 
 <ls>MBH. 4, 778.</ls> 
 <ls>R. 3, 35, 78.</ls> 

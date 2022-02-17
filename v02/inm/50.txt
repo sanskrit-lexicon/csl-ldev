@@ -1,18 +1,18 @@
 <L>50<pc>004-1<k1>अच्युत<k2>अच्युत
-{@Acyuta@}¦ (“unfallen”): {%(a)%} a proper name of (<lang n="greek"></lang>) Kṛṣṇa:
-<div n="lb">I, 8476 {%(°Ārjunau);%} II, 949; V, 4649; VII, 2982 {%(Yuyudhānā%}
-<div n="lb">{%°Ārjunāḥ),%} 6502, 7754; VIII, 1245 {%(°Ārjunau);%} XII, 1810
-<div n="lb">{%(°Yudhiṣṭhirau),%} 13240 (etymology); XIII, 6867, etc.—
-<div n="lb">(<lang n="greek"></lang>) Viṣṇu identified with Kṛṣṇa (cf. Keśava, e.g. III,
-<div n="lb">11257); III, 11247; XIII, 6960 (VDSNK), 6984 (ib.),
-<div n="lb">7008 (ib.).—(<lang n="greek"></lang>) cf. °ānuja.—{%(b)%} an adjective (where the
-<div n="lb">person designed is otherwise clearly indicated in the context;
-<div n="lb">especially often in the vocative case), applied to a great many
-<div n="lb">persons (Kṛṣṇa, Viṣṇu, Balarāma, Arjuna, Bhīmasena,
-<div n="lb">Yudhiṣṭhira, Duryodhana, Droṇa, Aśvatthāman, Bhīṣma,
-<div n="lb">Janamejaya, king Parikṣit of Ayodhyā (III, 13169), Āpava
-<div n="lb">(XII, 1757), Śiva (X, 305: {%Rudraṃ%}), Skanda (IX, 2480:
-<div n="lb">{%kumārabaram acyutaṃ%}), the Highest (XII, 11201: {%brah-%}
-<div n="lb">{%maṇyaṃ paramaṃ devam anantaṃ param a°;%} 13612: {%devaṃ%}
-<div n="lb">{%paramakaṃ brahma śvetaṃ candrābham a°%})).
+{@Acyuta@}¦ (“unfallen”): ({%a%}) a proper name of (<lang n="greek">α</lang>) Kṛṣṇa:
+I, 8476 ({%°Ārjunau%}); II, 949; V, 4649; VII, 2982 ({%Yuyudhānā%}
+{%°Ārjunāḥ%}), 6502, 7754; VIII, 1245 ({%°Ārjunau%}); XII, 1810
+({%°Yudhiṣṭhirau%}), 13240 (etymology); XIII, 6867, etc.—
+(<lang n="greek">β</lang>) Viṣṇu identified with Kṛṣṇa (cf. Keśava, e.g. III,
+11257); III, 11247; XIII, 6960 (VDSNK), 6984 (ib.),
+7008 (ib.).—(<lang n="greek">γ</lang>) cf. °ānuja.—({%b%}) an adjective (where the
+person designed is otherwise clearly indicated in the context;
+especially often in the vocative case), applied to a great many
+persons (Kṛṣṇa, Viṣṇu, Balarāma, Arjuna, Bhīmasena,
+Yudhiṣṭhira, Duryodhana, Droṇa, Aśvatthāman, Bhīṣma,
+Janamejaya, king Parikṣit of Ayodhyā (III, 13169), Āpava
+(XII, 1757), Śiva (X, 305: {%Rudraṃ%}), Skanda (IX, 2480:
+{%kumārabaram acyutaṃ%}), the Highest (XII, 11201: {%brah-%}
+{%maṇyaṃ paramaṃ devam anantaṃ param a°%}; 13612: {%devaṃ%}
+{%paramakaṃ brahma śvetaṃ candrābham a°%})).
 <LEND>

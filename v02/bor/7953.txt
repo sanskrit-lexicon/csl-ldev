@@ -1,6 +1,6 @@
 <L>7953<pc>251<k1>exactly<k2>exactly
-<div n="lb"/>{@EXACTLY:@}¦ <div n="I">I Precisely, accurately: q. v.:
-<div n="lb"/>{#यथार्थतः।#} </div><div n="I">II Nicely: {#सूक्ष्मम्,#} Ph.: <div n="xe">{%these are e.%}
-<div n="lb"/>{%alike:%}</div> <div n="xs">{#नास्ति कश्चिदनयोर्विशेषः;#}</div> <div n="xe">{%e. so:%}</div> <div n="xs">{#एवमेव:#}</div> v.
-<div n="lb"/>Just (adv.).</div>
+{@EXACTLY:@}¦ <div n="I">I Precisely, accurately: q. v.:
+{#यथार्थतः।#} </div><div n="I">II Nicely: {#सूक्ष्मम्,#} Ph.: <div n="xe">{%these are e.%}
+{%alike:%}</div> <div n="xs">{#नास्ति कश्चिदनयोर्विशेषः;#}</div> <div n="xe">{%e. so:%}</div> <div n="xs">{#एवमेव:#}</div> v.
+Just (adv.).</div>
 <LEND>

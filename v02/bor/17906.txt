@@ -1,5 +1,5 @@
 <L>17906<pc>548<k1>progress<k2>progress
-<div n="lb"/>{@PROGRESS@}¦ (v.): <div n="I">I Lit.: {#चलति#} ({#चल्,#} c. 1.).</div>
-<div n="lb"/><div n="I">II Fig.: </div><div n="1">(1) {#उन्नतिं गच्छति#} ({#गम्,#} c. 1.), etc.;</div>
-<div n="lb"/><div n="1">(2) {#उत्कृष्यते#} (pass. of {#कृष्#}).</div>
+{@PROGRESS@}¦ (v.): <div n="I">I Lit.: {#चलति#} ({#चल्,#} c. 1.).</div>
+<div n="I">II Fig.: </div><div n="1">(1) {#उन्नतिं गच्छति#} ({#गम्,#} c. 1.), etc.;</div>
+<div n="1">(2) {#उत्कृष्यते#} (pass. of {#कृष्#}).</div>
 <LEND>

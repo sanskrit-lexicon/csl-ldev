@@ -1,4 +1,4 @@
 <L>15448<pc>473<k1>nitrogen<k2>nitrogen
-<div n="lb"/>{@NITROGEN:@}¦ {#*निष्प्राणवायुः; यवक्षारजनकः।#} <div n="xe">{%Nitric%}
-<div n="lb"/>{%acid:%}</div> <div n="xs">{#*निष्प्राणाम्लः।#}</div> <div n="xe">{%Nitrous acid:%}</div> <div n="xs">{#*उपनिष्प्राणाम्लः।#}</div>
+{@NITROGEN:@}¦ {#*निष्प्राणवायुः; यवक्षारजनकः।#} <div n="xe">{%Nitric%}
+{%acid:%}</div> <div n="xs">{#*निष्प्राणाम्लः।#}</div> <div n="xe">{%Nitrous acid:%}</div> <div n="xs">{#*उपनिष्प्राणाम्लः।#}</div>
 <LEND>

@@ -4,9 +4,9 @@
 <ls>H. 1425.</ls> 
 <ls>ŚAT. BR. 5, 4, 3, 1.</ls> 
 <ls>KĀṬH. 36, 6.</ls> 
-<ls>MBH. 6, 4267. 8, 3993. 15, 671.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 72, 25.</ls> 
+<ls>MBH. 6, 4267.</ls> <ls n="MBH.">8, 3993.</ls> <ls n="MBH.">15, 671.</ls> 
+
+<ls>R. GORR. 2, 72, 25.</ls> 
 <ls>ŚIŚ. 12, 50.</ls> 
 <ls>NAIṢ. 1, 9.</ls> 
 <ls>KIR. 13, 26.</ls> 

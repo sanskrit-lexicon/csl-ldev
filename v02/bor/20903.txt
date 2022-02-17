@@ -1,8 +1,8 @@
 <L>20903<pc>657<k1>so far<k2>so far
-<div n="lb"/>{@SO FAR:@}¦ <div n="I">I With <div n="xe">{%as:%}</div> <div n="xs">{#यावत्#}</div> (f. {#ती#}), <div n="xe">{%so far as%}
-<div n="lb"/>{%lies in my power:%}</div> <div n="xs">{#यावच्छक्तितः,#}</div> Ka. </div><div n="I">II Abs.:
-<div n="lb"/>{#एतावत्#} <div n="xe">{%or%}</div> <div n="xs">{#इयत्#}</div> (f. {#ती#}), {%so far and no further:%}
-<div n="lb"/>{#एतावन्नाधिकम्।#} </div><div n="I">III With {%from%} expr. with
-<div n="lb"/>{#आस्ताम्#} (=let, alone) <div n="xe">{%or%}</div> <div n="xs">{#दूरतः,#}</div> <div n="xe">{%far from%}
-<div n="lb"/>{%seeing:%}</div> <div n="xs">{#दूरे तद्दर्शनम्,#}</div> K. s. 25. 31.</div>
+{@SO FAR:@}¦ <div n="I">I With <div n="xe">{%as:%}</div> <div n="xs">{#यावत्#}</div> (f. {#ती#}), <div n="xe">{%so far as%}
+{%lies in my power:%}</div> <div n="xs">{#यावच्छक्तितः,#}</div> Ka. </div><div n="I">II Abs.:
+{#एतावत्#} <div n="xe">{%or%}</div> <div n="xs">{#इयत्#}</div> (f. {#ती#}), {%so far and no further:%}
+{#एतावन्नाधिकम्।#} </div><div n="I">III With {%from%} expr. with
+{#आस्ताम्#} (=let, alone) <div n="xe">{%or%}</div> <div n="xs">{#दूरतः,#}</div> <div n="xe">{%far from%}
+{%seeing:%}</div> <div n="xs">{#दूरे तद्दर्शनम्,#}</div> K. s. 25. 31.</div>
 <LEND>

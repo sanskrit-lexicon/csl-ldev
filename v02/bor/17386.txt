@@ -1,5 +1,5 @@
 <L>17386<pc>532<k1>poorly<k2>poorly
-<div n="lb"/>{@POORLY@}¦ (adv.): <div n="I">I Like a poor man: {#दरिद्रवत्।#}</div>
-<div n="lb"/><div n="I">II Wretchedly, <div n="xe">{%p. dressed:%}</div> <div n="xs">{#दीनवेश#}</div> (f. {#शा#}):
-<div n="lb"/>v. Also meanly. </div><div n="I">III Very little: {#अत्यल्पम्।#}</div>
+{@POORLY@}¦ (adv.): <div n="I">I Like a poor man: {#दरिद्रवत्।#}</div>
+<div n="I">II Wretchedly, <div n="xe">{%p. dressed:%}</div> <div n="xs">{#दीनवेश#}</div> (f. {#शा#}):
+v. Also meanly. </div><div n="I">III Very little: {#अत्यल्पम्।#}</div>
 <LEND>

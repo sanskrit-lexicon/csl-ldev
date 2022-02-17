@@ -1,5 +1,5 @@
 <L>12281<pc>382<k1>inlay<k2>inlay
-<div n="lb"/>{@INLAY:@}¦ <div n="1">(1) {#प्रतिवपतिः#} ({#वप्,#} c. 1.), Si. iii. 5.;</div>
-<div n="lb"/><div n="1">(2) {#अवनह्यति#} ({#नह्,#} c. 10.), <div n="xe">{%rubies i. d on brace-%}
-<div n="lb"/>{%lets:%}</div> <div n="xs">{#वलयावनद्धताम्राश्म-,#}</div> Si. iii. 7.: v. To set.</div>
+{@INLAY:@}¦ <div n="1">(1) {#प्रतिवपतिः#} ({#वप्,#} c. 1.), Si. iii. 5.;</div>
+<div n="1">(2) {#अवनह्यति#} ({#नह्,#} c. 10.), <div n="xe">{%rubies i. d on brace-%}
+{%lets:%}</div> <div n="xs">{#वलयावनद्धताम्राश्म-,#}</div> Si. iii. 7.: v. To set.</div>
 <LEND>

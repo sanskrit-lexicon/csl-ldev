@@ -1,7 +1,7 @@
 <L>8667<pc>275<k1>feverish<k2>feverish
-<div n="lb"/>{@FEVERISH:@}¦ <div n="I">I Affected with fever: </div><div n="1">(1) {#ज्वरितः#}
-<div n="lb"/>({#ता, तं#}); </div><div n="1">(2) {#ज्वरिन्#} (f. {#णी#}); </div><div n="1">(3) {#जरार्त#}
-<div n="lb"/>(f. {#र्ता#}); </div><div n="1">(4) {#ज्वरग्रस्त#} (f. {#स्ता#}); and sim. comp.s.</div>
-<div n="lb"/><div n="I">II Indicating fever: expr. by {#ज्वरभावः।#}</div>
-<div n="lb"/><div n="I">III Hot.: q.v. </div><div n="I">IV Fickle: q.v.</div>
+{@FEVERISH:@}¦ <div n="I">I Affected with fever: </div><div n="1">(1) {#ज्वरितः#}
+({#ता, तं#}); </div><div n="1">(2) {#ज्वरिन्#} (f. {#णी#}); </div><div n="1">(3) {#जरार्त#}
+(f. {#र्ता#}); </div><div n="1">(4) {#ज्वरग्रस्त#} (f. {#स्ता#}); and sim. comp.s.</div>
+<div n="I">II Indicating fever: expr. by {#ज्वरभावः।#}</div>
+<div n="I">III Hot.: q.v. </div><div n="I">IV Fickle: q.v.</div>
 <LEND>

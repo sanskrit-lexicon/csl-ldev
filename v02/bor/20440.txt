@@ -1,8 +1,8 @@
 <L>20440<pc>640<k1>shout<k2>shout
-<div n="lb"/>{@SHOUT@}¦ (v.): <div n="1">(1) expr. by subs. and {#मुञ्चति#}
-<div n="lb"/>({#मुच्,#} c. 6. = to emit: q. v.) <div n="xe">{%or%}</div> <div n="xs">{#करोति#}</div> (= to
-<div n="lb"/>make); </div><div n="1">(2) {#उत्क्रोशति#} ({#क्रुश्,#} c. 1.), <div n="xe">{%the%}
-<div n="lb"/>{%Brāhmins s. ed:%}</div> <div n="xs">{#उदक्रोशन् विप्रमुख्याः,#}</div> Mah. i. 186.
-<div n="lb"/>2.: v. To cry, roar; </div><div n="1">(2) {#उच्चैर् नदति#} ({#नद्,#}
-<div n="lb"/>c. 1.): v. (To make) noise.</div>
+{@SHOUT@}¦ (v.): <div n="1">(1) expr. by subs. and {#मुञ्चति#}
+({#मुच्,#} c. 6. = to emit: q. v.) <div n="xe">{%or%}</div> <div n="xs">{#करोति#}</div> (= to
+make); </div><div n="1">(2) {#उत्क्रोशति#} ({#क्रुश्,#} c. 1.), <div n="xe">{%the%}
+{%Brāhmins s. ed:%}</div> <div n="xs">{#उदक्रोशन् विप्रमुख्याः,#}</div> Mah. i. 186.
+2.: v. To cry, roar; </div><div n="1">(2) {#उच्चैर् नदति#} ({#नद्,#}
+c. 1.): v. (To make) noise.</div>
 <LEND>

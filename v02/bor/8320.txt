@@ -1,5 +1,5 @@
 <L>8320<pc>263<k1>factor<k2>factor
-<div n="lb"/>{@FACTOR:@}¦ <div n="I">I A manager, agent: q.v. </div><div n="I">II
-<div n="lb"/>In arith: expr. by circumlo: <div n="xe">{%two is a f. of%}
-<div n="lb"/>{%ten:%}</div> <div n="xs">{#दश द्वाभ्यां भाज्यः।#}</div></div>
+{@FACTOR:@}¦ <div n="I">I A manager, agent: q.v. </div><div n="I">II
+In arith: expr. by circumlo: <div n="xe">{%two is a f. of%}
+{%ten:%}</div> <div n="xs">{#दश द्वाभ्यां भाज्यः।#}</div></div>
 <LEND>

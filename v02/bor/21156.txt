@@ -1,5 +1,5 @@
 <L>21156<pc>666<k1>spice<k2>spice
-<div n="lb"/>{@SPICE@}¦ (subs.): {#गन्धद्रव्यम्,#} <div n="xe">{%s. s:%}</div> <div n="xs">{#कर्पूरादिवर्गः,#}</div> Bha.; <div n="xe">{%the%}
-<div n="lb"/>{%three s. s:%}</div> <div n="xs">{#त्रिसुगन्धि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#त्रिजातकम्,#}</div> Bha; <div n="xe">{%the four%}
-<div n="lb"/>{%s. s:%}</div> <div n="xs">{#चतुर्जातकम्,#}</div> Bha.
+{@SPICE@}¦ (subs.): {#गन्धद्रव्यम्,#} <div n="xe">{%s. s:%}</div> <div n="xs">{#कर्पूरादिवर्गः,#}</div> Bha.; <div n="xe">{%the%}
+{%three s. s:%}</div> <div n="xs">{#त्रिसुगन्धि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#त्रिजातकम्,#}</div> Bha; <div n="xe">{%the four%}
+{%s. s:%}</div> <div n="xs">{#चतुर्जातकम्,#}</div> Bha.
 <LEND>

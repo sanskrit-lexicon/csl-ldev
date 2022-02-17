@@ -1,8 +1,8 @@
 <L>14363<pc>441<k1>mechanic<k2>mechanic
-<div n="lb"/>{@MECHANIC,@}¦ {@-AL@} (adj.): <div n="I">I Lit.: {#यन्त्र-#} in comp.,
-<div n="lb"/><div n="xe">{%m. contrivance:%}</div> <div n="xs">{#यन्त्रसाधनम्#}</div> (?). </div><div n="I">II Done as if
-<div n="lb"/>by a machine: </div><div n="1">(1) expr. with {#यन्त्रवत्#} (?);</div>
-<div n="lb"/><div n="1">(2) {#संस्कारचालितः#} ({#ता, तं#}) (??). </div><div n="I">III Belong-
-<div n="lb"/>-ing to artisans: </div><div n="1">(1) {#शिल्पि-#} etc. in comp.;</div>
-<div n="lb"/><div n="1">(2) by gen.</div>
+{@MECHANIC,@}¦ {@-AL@} (adj.): <div n="I">I Lit.: {#यन्त्र-#} in comp.,
+<div n="xe">{%m. contrivance:%}</div> <div n="xs">{#यन्त्रसाधनम्#}</div> (?). </div><div n="I">II Done as if
+by a machine: </div><div n="1">(1) expr. with {#यन्त्रवत्#} (?);</div>
+<div n="1">(2) {#संस्कारचालितः#} ({#ता, तं#}) (??). </div><div n="I">III Belong-
+-ing to artisans: </div><div n="1">(1) {#शिल्पि-#} etc. in comp.;</div>
+<div n="1">(2) by gen.</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>6766<pc>216<k1>domestic<k2>domestic
-<div n="lb"/>{@DOMESTIC:@}¦ <div n="I">I Belonging to a house: </div><div n="1">(1) by
-<div n="lb"/>comp., <div n="xe">{%d. affluence:%}</div> <div n="xs">{#गृहभूतिः,#}</div> Mu.; </div><div n="1">(2) {#गृह्यः#}
-<div n="lb"/>({#ह्या, ह्यं#}), <div n="xe">{%d. fire:%}</div> <div n="xs">{#गृह्यो वह्निः,#}</div> Vi.; </div><div n="1">(3) {#गृहजः#}
-<div n="lb"/>({#जा, जं#}); {#गृहोत्पन्नः#} ({#न्ना, न्नं#}) (born in the
-<div n="lb"/>home), <div n="xe">{%d. bullocks:%}</div> <div n="xs">{#गृहोत्पन्नौ वृषभौ,#}</div> P. </div><div n="I">II Not
-<div n="lb"/>wild: </div><div n="1">(1) {#ग्राम्य#} (f. {#म्या#}); </div><div n="1">(2) {#ग्राम-#} in comp.,
-<div n="lb"/><div n="xe">{%d. fowl:%}</div> <div n="xs">{#ग्रामकुक्कुटः,#}</div> M. </div><div n="I">III Intestine: q. v.:
-<div n="lb"/>{#अन्तर-#} in comp. </div><div n="I">IV Fond of home: {#गृहप्रियः#}
-<div n="lb"/>({#या, यं#}).</div>
+{@DOMESTIC:@}¦ <div n="I">I Belonging to a house: </div><div n="1">(1) by
+comp., <div n="xe">{%d. affluence:%}</div> <div n="xs">{#गृहभूतिः,#}</div> Mu.; </div><div n="1">(2) {#गृह्यः#}
+({#ह्या, ह्यं#}), <div n="xe">{%d. fire:%}</div> <div n="xs">{#गृह्यो वह्निः,#}</div> Vi.; </div><div n="1">(3) {#गृहजः#}
+({#जा, जं#}); {#गृहोत्पन्नः#} ({#न्ना, न्नं#}) (born in the
+home), <div n="xe">{%d. bullocks:%}</div> <div n="xs">{#गृहोत्पन्नौ वृषभौ,#}</div> P. </div><div n="I">II Not
+wild: </div><div n="1">(1) {#ग्राम्य#} (f. {#म्या#}); </div><div n="1">(2) {#ग्राम-#} in comp.,
+<div n="xe">{%d. fowl:%}</div> <div n="xs">{#ग्रामकुक्कुटः,#}</div> M. </div><div n="I">III Intestine: q. v.:
+{#अन्तर-#} in comp. </div><div n="I">IV Fond of home: {#गृहप्रियः#}
+({#या, यं#}).</div>
 <LEND>

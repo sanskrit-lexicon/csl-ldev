@@ -1,6 +1,6 @@
 <L>18986<pc>587<k1>rend<k2>rend
-<div n="lb"/>{@REND:@}¦ {#दारयति#} (rarely {#दृणाति#}), {#वि-, परि-, अव-,#}
-<div n="lb"/><div n="xe">{%rent the mountain:%}</div> <div n="xs">{#ददाराद्रिम्,#}</div> Mah.; <div n="xe">{%the%}
-<div n="lb"/>{%thunderbolt rent that hole:%}</div> <div n="xs">{#वज्रं तद्विलमदारत्,#}</div>
-<div n="lb"/>Mah. i. 3. 163.
+{@REND:@}¦ {#दारयति#} (rarely {#दृणाति#}), {#वि-, परि-, अव-,#}
+<div n="xe">{%rent the mountain:%}</div> <div n="xs">{#ददाराद्रिम्,#}</div> Mah.; <div n="xe">{%the%}
+{%thunderbolt rent that hole:%}</div> <div n="xs">{#वज्रं तद्विलमदारत्,#}</div>
+Mah. i. 3. 163.
 <LEND>

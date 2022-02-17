@@ -1,10 +1,10 @@
 <L>16848<pc>292-2<k1>विसदृश<k2>विसदृश
 {#विसदृश#}¦vi-sadṛśa, {%a.%} ({@ā, ī@}) unlike, different, 
 [Page292-3]
-<>unequal: {@-phala-tā,@} {%f.%} difference of consequences; <lbinfo n="5"/>
-<> {@-sandhi,@} {%m.%} secondary joint; absence <lbinfo n="2"/>
-<> of Sandhi; {%a.%} jointless; unallied {%with %}
-<>{%any one%}; lacking Sandhi; {@-saṃnāha@}, {%a.%} unarmoured; <lbinfo n="2"/>
-<> {@-samāpti,@} {%f.%} non-completion; 
-<>{@-saṃbhoga@}, {%m.%} separation.
+unequal: {@-phala-tā,@} {%f.%} difference of consequences; <lbinfo n="5"/>
+ {@-sandhi,@} {%m.%} secondary joint; absence <lbinfo n="2"/>
+ of Sandhi; {%a.%} jointless; unallied {%with %}
+{%any one%}; lacking Sandhi; {@-saṃnāha@}, {%a.%} unarmoured; <lbinfo n="2"/>
+ {@-samāpti,@} {%f.%} non-completion; 
+{@-saṃbhoga@}, {%m.%} separation.
 <LEND>

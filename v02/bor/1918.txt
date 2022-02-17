@@ -1,7 +1,7 @@
 <L>1918<pc>067<k1>beneficent<k2>beneficent
-<div n="lb"/>{@BENEFICENT:@}¦ <div n="I">I As applied to men: </div><div n="1">(1)
-<div n="lb"/>{#परोपकारिन्#} (f. {#णी#}); </div><div n="1">(2) {#परोपकारकः#} ({#का, कं#});</div>
-<div n="lb"/><div n="1">(3) {#दानशीलः#} ({#ला, लं#}) (munificent: q. v.).</div>
-<div n="lb"/><div n="I">II As applied to acts etc.: </div><div n="1">(1) {#हितकरः#} ({#री, #}
-<div n="lb"/>{# रं#}); </div><div n="1">(2) {#हितकारिन्#} (f. {#णी#}).</div>
+{@BENEFICENT:@}¦ <div n="I">I As applied to men: </div><div n="1">(1)
+{#परोपकारिन्#} (f. {#णी#}); </div><div n="1">(2) {#परोपकारकः#} ({#का, कं#});</div>
+<div n="1">(3) {#दानशीलः#} ({#ला, लं#}) (munificent: q. v.).</div>
+<div n="I">II As applied to acts etc.: </div><div n="1">(1) {#हितकरः#} ({#री, #}
+{# रं#}); </div><div n="1">(2) {#हितकारिन्#} (f. {#णी#}).</div>
 <LEND>

@@ -1,27 +1,27 @@
 <L>2963<pc>100<k1>can<k2>can
-<div n="lb"/>{@CAN@}¦ (v.); <div n="1">(1) {#शक्नोति#} ({#शक्,#} c. 5.), {%Menā could%}
-<div n="lb"/>{%not restrain%} ({%her%}) <div n="xe">{%from the undertaking%}</div> <div n="xs">{#शशाक मेना #}
-<div n="lb"/>{# न नियन्तुमुद्यमात्,#}</div> Ku. v. 5.; <div n="xe">{%c. not be made to%}
-<div n="lb"/>{%accept the ministry of Chandragupta%}</div> <div n="xs">{#वृषलस्य #}
-<div n="lb"/>{# साचिव्यं ग्राहयितुं न शक्यते,#}</div> Mu.; </div><div n="1">(2) {#प्रभवति#} ({#भू,#}
-<div n="lb"/>c. l.), <div n="xe">{%an enemy c. not conquer then%}</div> <div n="xs">{#प्रभवति न #}
-<div n="lb"/>{# तदा परो विजेतुम्,#}</div> Ki. x. 35.; </div><div n="1">(3) {#ईष्टे#} ({#ईश्,#} c. 2.),
-<div n="lb"/><div n="xe">{%who c. move a good man%}</div> <div n="xs">{#सुजनं जनाश्चलयितुं क ईशते,#}</div>
-<div n="lb"/>Si. xv. 40.; </div><div n="1">(4) {#पारयति#} ({#पृ,#} c. 10.), <div n="xe">{%nor c.%}
-<div n="lb"/>{%we say that it is our friend's fault%}</div> <div n="xs">{#सखिगामी दोष #}
-<div n="lb"/>{# इति व्यवसाययितुमपि न पारयामः,#}</div> Sa. iv.; </div><div n="1">(5) {#क्षमते#}
-<div n="lb"/>({#क्षम्,#} c. l.), N. xiv. 16.; </div><div n="1">(6) {#समर्थः#} ({#र्था, र्थं#})
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#शक्तः#}</div> ({#क्ता, क्तं#}) <div n="xe">{%or%}</div> <div n="xs">{#क्षमः#}</div> ({#मा, मं#}) {#भवति#} (often
-<div n="lb"/>understood). N. B. (a) Do not use 2 and 3
-<div n="lb"/>in the pass.; (b) {%could%} can also be idiomati-
-<div n="lb"/>-cally expressed by {#विधिलिङ्:#} <div n="xe">{%I. c. deprive%}
-<div n="lb"/>{%even Śiva of his fortitude%}</div> <div n="xs">{#कुर्यां हरस्यापि पिनाक-#}
-<div n="lb"/>{#पाणेर्धैर्यच्युतिम्,#}</div> Ku. iii. 10.; (c) {%cannot be%} — is
-<div n="lb"/>best expressed by part. adj. s- {#तव्य, अनीय#}
-<div n="lb"/>and {#य;#} {%what cannot be accomplished or cured%}
-<div n="lb"/>{#असाध्यः#} ({#ध्या, ध्यं#}); {%what cannot be measured%}
-<div n="lb"/>{#अपरिमेयः#} ({#या, यं#}); (d) {%cannot but%}- is expressed
-<div n="lb"/>by {#अवश्यं#} {%or%} circumlo.: {%I cannot but remark%}
-<div n="lb"/>{#मयावश्यं वक्तव्यम्;#} <div n="xe">{%I cannot but weep%}</div> <div n="xs">{#रोदनं निवारयितुं #}
-<div n="lb"/>{# न शक्नोमि।#}</div></div>
+{@CAN@}¦ (v.); <div n="1">(1) {#शक्नोति#} ({#शक्,#} c. 5.), {%Menā could%}
+{%not restrain%} ({%her%}) <div n="xe">{%from the undertaking%}</div> <div n="xs">{#शशाक मेना #}
+{# न नियन्तुमुद्यमात्,#}</div> Ku. v. 5.; <div n="xe">{%c. not be made to%}
+{%accept the ministry of Chandragupta%}</div> <div n="xs">{#वृषलस्य #}
+{# साचिव्यं ग्राहयितुं न शक्यते,#}</div> Mu.; </div><div n="1">(2) {#प्रभवति#} ({#भू,#}
+c. l.), <div n="xe">{%an enemy c. not conquer then%}</div> <div n="xs">{#प्रभवति न #}
+{# तदा परो विजेतुम्,#}</div> Ki. x. 35.; </div><div n="1">(3) {#ईष्टे#} ({#ईश्,#} c. 2.),
+<div n="xe">{%who c. move a good man%}</div> <div n="xs">{#सुजनं जनाश्चलयितुं क ईशते,#}</div>
+Si. xv. 40.; </div><div n="1">(4) {#पारयति#} ({#पृ,#} c. 10.), <div n="xe">{%nor c.%}
+{%we say that it is our friend's fault%}</div> <div n="xs">{#सखिगामी दोष #}
+{# इति व्यवसाययितुमपि न पारयामः,#}</div> Sa. iv.; </div><div n="1">(5) {#क्षमते#}
+({#क्षम्,#} c. l.), N. xiv. 16.; </div><div n="1">(6) {#समर्थः#} ({#र्था, र्थं#})
+<div n="xe">{%or%}</div> <div n="xs">{#शक्तः#}</div> ({#क्ता, क्तं#}) <div n="xe">{%or%}</div> <div n="xs">{#क्षमः#}</div> ({#मा, मं#}) {#भवति#} (often
+understood). N. B. (a) Do not use 2 and 3
+in the pass.; (b) {%could%} can also be idiomati-
+-cally expressed by {#विधिलिङ्:#} <div n="xe">{%I. c. deprive%}
+{%even Śiva of his fortitude%}</div> <div n="xs">{#कुर्यां हरस्यापि पिनाक-#}
+{#पाणेर्धैर्यच्युतिम्,#}</div> Ku. iii. 10.; (c) {%cannot be%} — is
+best expressed by part. adj. s- {#तव्य, अनीय#}
+and {#य;#} {%what cannot be accomplished or cured%}
+{#असाध्यः#} ({#ध्या, ध्यं#}); {%what cannot be measured%}
+{#अपरिमेयः#} ({#या, यं#}); (d) {%cannot but%}- is expressed
+by {#अवश्यं#} {%or%} circumlo.: {%I cannot but remark%}
+{#मयावश्यं वक्तव्यम्;#} <div n="xe">{%I cannot but weep%}</div> <div n="xs">{#रोदनं निवारयितुं #}
+{# न शक्नोमि।#}</div></div>
 <LEND>

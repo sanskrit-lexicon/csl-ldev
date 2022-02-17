@@ -1,6 +1,6 @@
 <L>9809<pc>310<k1>geometry<k2>geometry
-<div n="lb"/>{@GEOMETRY:@}¦ <div n="1">(1) {#ज्यामितिः,#} <div n="xe">{%plane, solid g.%}</div> <div n="xs">{#*सम-,: #}
-<div n="lb"/>{# स्थूल-ज्यामितिः;#}</div> </div><div n="1">(2) {#रेखागणितम्;#} <div n="xe">{%plane g.:%}</div> <div n="xs">{#*सम-#}
-<div n="lb"/>{#भूरेखागणितम्।#}</div> K. d. has {#क्षेत्रतत्त्वम्,#} but it means
-<div n="lb"/>mensuration.</div>
+{@GEOMETRY:@}¦ <div n="1">(1) {#ज्यामितिः,#} <div n="xe">{%plane, solid g.%}</div> <div n="xs">{#*सम-,: #}
+{# स्थूल-ज्यामितिः;#}</div> </div><div n="1">(2) {#रेखागणितम्;#} <div n="xe">{%plane g.:%}</div> <div n="xs">{#*सम-#}
+{#भूरेखागणितम्।#}</div> K. d. has {#क्षेत्रतत्त्वम्,#} but it means
+mensuration.</div>
 <LEND>

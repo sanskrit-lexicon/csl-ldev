@@ -1,9 +1,9 @@
 <L>16218<pc>498<k1>pace<k2>pace
-<div n="lb"/>{@PACE@}¦ (subs.): <div n="I">I A step: q. v.: {#पदम्, -न्यासः।#}</div>
-<div n="lb"/><div n="I">II Gait: </div><div n="1">(1) {#गतिः,#} <div n="xe">{%p. of a horse:%}</div> <div n="xs">{#अश्वस्य गतिः,#}</div>
-<div n="lb"/>M. n.; <div n="xe">{%at a quick p.:%}</div> <div n="xs">{#द्रुतगत्या;#}</div> </div><div n="1">(2) {#धारा#} (of
-<div n="lb"/>horses), {#“पूर्णवेगा तथा चान्या पञ्च धाराः प्रकीर्तिताः”,#}
-<div n="lb"/>M. n. Ph.: <div n="xe">{%to keep or hold p. with:%}</div> <div n="xs">{#सह चलति#}</div>
-<div n="lb"/>({#चल्,#} c. 1.) (used in Bengali). </div><div n="I">III A
-<div n="lb"/>measure: perh. {#पदम्।#}</div>
+{@PACE@}¦ (subs.): <div n="I">I A step: q. v.: {#पदम्, -न्यासः।#}</div>
+<div n="I">II Gait: </div><div n="1">(1) {#गतिः,#} <div n="xe">{%p. of a horse:%}</div> <div n="xs">{#अश्वस्य गतिः,#}</div>
+M. n.; <div n="xe">{%at a quick p.:%}</div> <div n="xs">{#द्रुतगत्या;#}</div> </div><div n="1">(2) {#धारा#} (of
+horses), {#“पूर्णवेगा तथा चान्या पञ्च धाराः प्रकीर्तिताः”,#}
+M. n. Ph.: <div n="xe">{%to keep or hold p. with:%}</div> <div n="xs">{#सह चलति#}</div>
+({#चल्,#} c. 1.) (used in Bengali). </div><div n="I">III A
+measure: perh. {#पदम्।#}</div>
 <LEND>

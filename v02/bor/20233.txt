@@ -1,4 +1,4 @@
 <L>20233<pc>631<k1>set forward<k2>set forward
-<div n="lb"/>{@SET FORWARD:@}¦ <div n="I">I To set out: q. v. </div><div n="I">II To
-<div n="lb"/>promote, advance: q. v.</div>
+{@SET FORWARD:@}¦ <div n="I">I To set out: q. v. </div><div n="I">II To
+promote, advance: q. v.</div>
 <LEND>

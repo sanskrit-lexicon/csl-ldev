@@ -1,3 +1,3 @@
 <L>615<pc>023<k1>alms-giving<k2>alms-giving
-<div n="lb"/>{@ALMS-GIVING:@}¦ <div n="1">(1) {#दानधर्मः;#} </div><div n="1">(2) {#भिक्षादानम्।#}</div>
+{@ALMS-GIVING:@}¦ <div n="1">(1) {#दानधर्मः;#} </div><div n="1">(2) {#भिक्षादानम्।#}</div>
 <LEND>

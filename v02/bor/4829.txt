@@ -1,6 +1,6 @@
 <L>4829<pc>156<k1>corrupt<k2>corrupt
-<div n="lb"/>{@CORRUPT@}¦ (adj.): <div n="I">I Rotten: {#पूति#} (mfn.).</div>
-<div n="lb"/><div n="I">II Spoiled, depraved: {#नष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">III
-<div n="lb"/>Incorrect: {#भ्रान्तः#} ({#न्ता, न्तं#}). </div><div n="I">IV Impure:
-<div n="lb"/>{#अशुचि#} (mfn.).</div>
+{@CORRUPT@}¦ (adj.): <div n="I">I Rotten: {#पूति#} (mfn.).</div>
+<div n="I">II Spoiled, depraved: {#नष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">III
+Incorrect: {#भ्रान्तः#} ({#न्ता, न्तं#}). </div><div n="I">IV Impure:
+{#अशुचि#} (mfn.).</div>
 <LEND>

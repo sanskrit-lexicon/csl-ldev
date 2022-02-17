@@ -1,14 +1,14 @@
 <L>12346<pc>184-1<k1>प्राकृत<k2>प्राकृत
 {#प्राकृत#}¦prā́kṛta, {%a.%} ({@ā, ī@}) connected with 
-<>nature (prakṛti), natural, original; unaltered; <lbinfo n="4"/>
-<> usual, ordinary, common; low, vulgar; <lbinfo n="3"/>
-<> proceeding from {%or%} relating to nature 
-<>({%phil.%}); Prākritic; {%m.%} low {%or%} vulgar man, 
-<>{%n.%} vernacular dialect ({%derived from Sanskrit %}
-<>{%and spoken by women and inferior characters %}<lbinfo n="6"/>
-<>{% in Sanskrit plays%}), Prākrit: {@-bhāṣin,@} 
-<>{%a.%} speaking Prākrit, {@-śāsana@}, {%n.%} treatise on 
-<>Prākrit, {@-candrikā@}, {%f.%} Moonlight of Prākrit, 
-<>{%T. of Vararuci's%} {%Prākrit grammar%}, {@-pra-@}
-<>{@-kāśa@}, {%m.%} Illustration of Prākrit, {%id.%}.
+nature (prakṛti), natural, original; unaltered; <lbinfo n="4"/>
+ usual, ordinary, common; low, vulgar; <lbinfo n="3"/>
+ proceeding from {%or%} relating to nature 
+({%phil.%}); Prākritic; {%m.%} low {%or%} vulgar man, 
+{%n.%} vernacular dialect ({%derived from Sanskrit %}
+{%and spoken by women and inferior characters %}<lbinfo n="6"/>
+{% in Sanskrit plays%}), Prākrit: {@-bhāṣin,@} 
+{%a.%} speaking Prākrit, {@-śāsana@}, {%n.%} treatise on 
+Prākrit, {@-candrikā@}, {%f.%} Moonlight of Prākrit, 
+{%T. of Vararuci's%} {%Prākrit grammar%}, {@-pra-@}
+{@-kāśa@}, {%m.%} Illustration of Prākrit, {%id.%}.
 <LEND>

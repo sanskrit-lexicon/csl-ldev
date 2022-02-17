@@ -1,4 +1,4 @@
 <L>2747<pc>093<k1>bullion<k2>bullion
-<div n="lb"/>{@BULLION:@}¦ <div n="1">(1) {#कोशः;#} </div><div n="1">(2) {#हिरण्यम्#} (gen. = gold);</div>
-<div n="lb"/><div n="1">(3) {#रजतम्#} (gen. = silver).</div>
+{@BULLION:@}¦ <div n="1">(1) {#कोशः;#} </div><div n="1">(2) {#हिरण्यम्#} (gen. = gold);</div>
+<div n="1">(3) {#रजतम्#} (gen. = silver).</div>
 <LEND>

@@ -1,16 +1,16 @@
 <L>3159<pc>105<k1>case<k2>case
-<div n="lb"/>{@CASE@}¦ (subs.): <div n="I">I A covering or box: q. v.:
-<div n="lb"/>{#आधारः,#} <div n="xe">{%watch-c.%}</div> <div n="xs">{#*कालमापाधारः;#}</div> {%printing c.%}
-<div n="lb"/>{#*मुद्राचिह्नाधारः।#} </div><div n="I">II A box: q. v. </div><div n="I">III State,
-<div n="lb"/>condition: q. v. </div><div n="I">IV Matter, circumstance:
-<div n="lb"/>q. v.: {#अर्थः,#} {%represented the c. to Chaṇḍavarman%}
-<div n="lb"/>{#तमर्थं चण्डवर्मणे निवेदयांचक्रुः,#} D. i. Ph.: <div n="xe">{%in c.%}</div> <div n="xs">{#यदि#}</div>
-<div n="lb"/>(with {#विधिलिङ्#}) v. If; <div n="xe">{%this being the c.%}</div> <div n="xs">{#एवं #}
-<div n="lb"/>{# सति;#}</div> <div n="xe">{%in all c. s%}</div> <div n="xs">{#सर्वत्र;#}</div> <div n="xe">{%in this c.%}</div> <div n="xs">{#अत्र;#}</div> <div n="xe">{%in fever%}
-<div n="lb"/>{%c. s%}</div> <div n="xs">{#ज्वरार्तानाम्#}</div> (Lit., of those suffering from
-<div n="lb"/>fever). </div><div n="I">V A lawsuit: q. v.: <div n="xe">{%who have got%}
-<div n="lb"/>{%c. s%}</div> <div n="xs">{#कः कः कार्यार्थी,#}</div> Mr.; <div n="xe">{%he loses that c.%}</div> <div n="xs">{#तस्मादर्थात्स #}
-<div n="lb"/>{# हीयते,#}</div> M.; <div n="xe">{%when the c. is gained%}</div> <div n="xs">{#सिद्धेऽर्थे,#}</div> [Page106]
-<div n="lb"/>Vas. </div><div n="I">VI In gram. {#कारकम्#} (not applied to the
-<div n="lb"/>gen.), <div n="xe">{%objective c.%}</div> <div n="xs">{#कर्मकारकम्,#}</div> <div n="xe">{%c. ending%}</div> <div n="xs">{#विभक्तिः।#}</div></div>
+{@CASE@}¦ (subs.): <div n="I">I A covering or box: q. v.:
+{#आधारः,#} <div n="xe">{%watch-c.%}</div> <div n="xs">{#*कालमापाधारः;#}</div> {%printing c.%}
+{#*मुद्राचिह्नाधारः।#} </div><div n="I">II A box: q. v. </div><div n="I">III State,
+condition: q. v. </div><div n="I">IV Matter, circumstance:
+q. v.: {#अर्थः,#} {%represented the c. to Chaṇḍavarman%}
+{#तमर्थं चण्डवर्मणे निवेदयांचक्रुः,#} D. i. Ph.: <div n="xe">{%in c.%}</div> <div n="xs">{#यदि#}</div>
+(with {#विधिलिङ्#}) v. If; <div n="xe">{%this being the c.%}</div> <div n="xs">{#एवं #}
+{# सति;#}</div> <div n="xe">{%in all c. s%}</div> <div n="xs">{#सर्वत्र;#}</div> <div n="xe">{%in this c.%}</div> <div n="xs">{#अत्र;#}</div> <div n="xe">{%in fever%}
+{%c. s%}</div> <div n="xs">{#ज्वरार्तानाम्#}</div> (Lit., of those suffering from
+fever). </div><div n="I">V A lawsuit: q. v.: <div n="xe">{%who have got%}
+{%c. s%}</div> <div n="xs">{#कः कः कार्यार्थी,#}</div> Mr.; <div n="xe">{%he loses that c.%}</div> <div n="xs">{#तस्मादर्थात्स #}
+{# हीयते,#}</div> M.; <div n="xe">{%when the c. is gained%}</div> <div n="xs">{#सिद्धेऽर्थे,#}</div> [Page106]
+Vas. </div><div n="I">VI In gram. {#कारकम्#} (not applied to the
+gen.), <div n="xe">{%objective c.%}</div> <div n="xs">{#कर्मकारकम्,#}</div> <div n="xe">{%c. ending%}</div> <div n="xs">{#विभक्तिः।#}</div></div>
 <LEND>

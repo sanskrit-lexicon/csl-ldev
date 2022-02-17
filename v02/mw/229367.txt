@@ -1,14 +1,14 @@
 <L>229367<pc>1133,3<k1>संज्ञा<k2>सं-ज्ञा<h>a<e>1
-<s>सं-√ ज्ञा</s> <hom>a</hom> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-जानाति</s>, <s>-जानीते</s>, (<ab>Ā.</ab>) to agree together, be of the same opinion, be in harmony with (<ab>loc.</ab>; <ab>accord.</ab> to <ls>Pāṇ. 2-3, 22</ls>, also <ab>instr.</ab> or <ab>acc.</ab>), <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>;
+<s>सं-√ ज्ञा</s> <hom>a</hom> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-जानाति</s>, <s>-जानीते</s>, (<ab>Ā.</ab>) to agree together, be of the same opinion, be in harmony with (<ab>loc.</ab>; <ab>accord.</ab> to <ls>Pāṇ. ii, 3, 22</ls>, also <ab>instr.</ab> or <ab>acc.</ab>), <ls>RV.</ls>; <ls>AV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to obey (<ab>dat.</ab>), <ls>AitBr.</ls>;
 <div n="to"/> (<ab>Ā.</ab>) to appoint, assign, intend (for any purpose), destine, <ls>ib.</ls>;
 <div n="to"/> (only <ab>ind.p.</ab> <s>-ज्ञाय</s>) to direct, order, command, <ls>Hariv.</ls>;
-<div n="to"/>to acknowledge, recognize, own, <ls>Pāṇ. 1-3, 46</ls> <ab>Sch.</ab>;
+<div n="to"/>to acknowledge, recognize, own, <ls>Pāṇ. i, 3, 46</ls> <ab>Sch.</ab>;
 <div n="to"/> (<ab>P.</ab>) to acknowledge or claim as one's own, take possession of <ls>SaddhP.</ls>;
 <div n="to"/> (<ab>P.</ab>) to think of. recollect sorrowfully (with <ab>acc.</ab> or <ab>gen.</ab>), <ls>Pāṇ.</ls>; <ls>Vop.</ls>;
 <div n="to"/> <ab>Ā.</ab> to know well, understand, <ls>R.</ls>;
 <div n="to"/>to watch for, <ls>Bhaṭṭ.</ls> :
-<div n="to"/><ab>Caus.</ab> <s>-ज्ञा<shortlong/>पयति</s>, <s>°ते</s>, to cause to be of the same opinion or agree together, <ls>AV.</ls>; <ls>AitBr.</ls>;
+<div n="to"/><ab>Caus.</ab> <s>-ज्ञा<स्होर्त्लोन्ग्/>पयति</s>, <s>°ते</s>, to cause to be of the same opinion or agree together, <ls>AV.</ls>; <ls>AitBr.</ls>;
 <div n="to"/>to cause to acquiesce or agree in (euphemistically said of a sacrificial victim, which ought not to be led forcibly to its death but made to resign itself), <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls>;
 <div n="to"/>to appease, satisfy, <ls>MBh.</ls>; <ls>Kālid.</ls>;
 <div n="to"/>to make to be understood or known, cause to understand, <ls>ŚBr.</ls>;

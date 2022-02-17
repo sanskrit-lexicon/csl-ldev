@@ -1,7 +1,7 @@
 <L>1889<pc>066<k1>bellows<k2>bellows
-<div n="lb"/>{@BELLOWS:@}¦ <div n="1">(1) {#भस्त्रा,#} <div n="xe">{%a black-smith's b.%}</div> <div n="xs">{#कर्मकार-#}
-<div n="lb"/>{#भस्त्रा,#}</div> H.; </div><div n="1">(2) {#दृतिः;#} </div><div n="1">(3) {#चर्मप्रसेविका।#}
-<div n="lb"/><div n="xe">{%one who has a big b.%}</div> <div n="xs">{#तुण्डिलः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#पिचिण्डिलः#}</div> ({#ला, #}
-<div n="lb"/>{# लं#}). </div><div n="I">II The womb: q. v.: {#कुक्षिः।#} </div><div n="I">III The
-<div n="lb"/>stomach: q. v.</div>
+{@BELLOWS:@}¦ <div n="1">(1) {#भस्त्रा,#} <div n="xe">{%a black-smith's b.%}</div> <div n="xs">{#कर्मकार-#}
+{#भस्त्रा,#}</div> H.; </div><div n="1">(2) {#दृतिः;#} </div><div n="1">(3) {#चर्मप्रसेविका।#}
+<div n="xe">{%one who has a big b.%}</div> <div n="xs">{#तुण्डिलः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#पिचिण्डिलः#}</div> ({#ला, #}
+{# लं#}). </div><div n="I">II The womb: q. v.: {#कुक्षिः।#} </div><div n="I">III The
+stomach: q. v.</div>
 <LEND>

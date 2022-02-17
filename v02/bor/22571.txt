@@ -1,4 +1,4 @@
 <L>22571<pc>712<k1>tile<k2>tile
-<div n="lb"/>{@TILE@}¦ (v. t.): {#*खप्परैः छादयति#} (c. of {#छद्#}). <div n="xe">{%T. d%}
-<div n="lb"/>{%house:%}</div> <div n="xs">{#*खप्परगृहम्।#}</div>
+{@TILE@}¦ (v. t.): {#*खप्परैः छादयति#} (c. of {#छद्#}). <div n="xe">{%T. d%}
+{%house:%}</div> <div n="xs">{#*खप्परगृहम्।#}</div>
 <LEND>

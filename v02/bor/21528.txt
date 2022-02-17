@@ -1,4 +1,4 @@
 <L>21528<pc>677<k1>stomacher<k2>stomacher
-<div n="lb"/>{@STOMACHER:@}¦ an ornament: <div n="1">(1) {#उरःसूत्रम्#} (?);</div>
-<div n="lb"/><div n="1">(2) {#वक्षोभूषणम्#} (?).</div>
+{@STOMACHER:@}¦ an ornament: <div n="1">(1) {#उरःसूत्रम्#} (?);</div>
+<div n="1">(2) {#वक्षोभूषणम्#} (?).</div>
 <LEND>

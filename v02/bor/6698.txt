@@ -1,9 +1,9 @@
 <L>6698<pc>214<k1>do for<k2>do for
-<div n="lb"/>{@DO FOR:@}¦ <div n="I">I Lit.: {#करोति,#} <div n="xe">{%if you would do this%}
-<div n="lb"/>{%for me:%}</div> <div n="xs">{#यदि मे भवानिदं कुर्यात्,#}</div> M. b. </div><div n="I">II To do
-<div n="lb"/>good: {#प्रियं करोति#} (with gen.), <div n="xe">{%what more%}
-<div n="lb"/>{%shall I do for you:%}</div> <div n="xs">{#किं ते भूयः प्रियं करोमि,#}</div> Mr. [Page215]
-<div n="lb"/>x.: v. Good, to do. </div><div n="I">III To destroy: q. v.:
-<div n="lb"/>{#उत्सादयति#} (c. of {#सद्#}), <div n="xe">{%I am done for:%}</div> <div n="xs">{#उत्सादि-#}
-<div n="lb"/>{#तोऽस्मि,#}</div> Mr. iv. To suit: q. v.</div>
+{@DO FOR:@}¦ <div n="I">I Lit.: {#करोति,#} <div n="xe">{%if you would do this%}
+{%for me:%}</div> <div n="xs">{#यदि मे भवानिदं कुर्यात्,#}</div> M. b. </div><div n="I">II To do
+good: {#प्रियं करोति#} (with gen.), <div n="xe">{%what more%}
+{%shall I do for you:%}</div> <div n="xs">{#किं ते भूयः प्रियं करोमि,#}</div> Mr. [Page215]
+x.: v. Good, to do. </div><div n="I">III To destroy: q. v.:
+{#उत्सादयति#} (c. of {#सद्#}), <div n="xe">{%I am done for:%}</div> <div n="xs">{#उत्सादि-#}
+{#तोऽस्मि,#}</div> Mr. iv. To suit: q. v.</div>
 <LEND>

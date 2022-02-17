@@ -1,10 +1,10 @@
 <L>28066<pc>769-b<k1>stage<k2>stage
-<div n="lb"/>STAGE¦, {%s.%} (For acting) {#रङ्गः, रङ्गभूमिः#} {%f.,%} {#रङ्गशाला, नेपथ्यं, भूमिका,#}
-<div n="lb"/>{#नाट्यशाला, आनर्त्तः;#} ‘speaking off the stage,’ {#आकाशभाषणं,#}
-<div n="lb"/>{#आकाशभाषितं#}. — (Theatre, drama), {%see%} the words. — (Raised
-<div n="lb"/>platform) {#मञ्चः, मञ्चकः#}. — (Place of rest on a journey) {#मार्गे#}
-<div n="lb"/>or {#अघ्वनि विश्रामस्थानं#} or {#अश्वपरिवर्त्तनस्थानं, अवस्थानं#}. — (Single
-<div n="lb"/>step or degree, station) {#पदं, अवस्था, स्थानं, आस्पदं, पदविः -वी#} {%f.,%}
-<div n="lb"/>{#वृत्तिः#} {%f.,%} {#पर्य्यायः;#} ‘last stage,’ {#चरमावस्था;#} ‘first stage,’ {#प्रथ-#}
-<div n="lb"/>{#मारम्भः, प्रत्युत्क्रमः, प्रथमचरणः;#} ‘four stages of life,’ {#अवस्थाचतुष्टयं#}.
+STAGE¦, {%s.%} (For acting) {#रङ्गः, रङ्गभूमिः#} {%f.,%} {#रङ्गशाला, नेपथ्यं, भूमिका,#}
+{#नाट्यशाला, आनर्त्तः;#} ‘speaking off the stage,’ {#आकाशभाषणं,#}
+{#आकाशभाषितं#}. — (Theatre, drama), {%see%} the words. — (Raised
+platform) {#मञ्चः, मञ्चकः#}. — (Place of rest on a journey) {#मार्गे#}
+or {#अघ्वनि विश्रामस्थानं#} or {#अश्वपरिवर्त्तनस्थानं, अवस्थानं#}. — (Single
+step or degree, station) {#पदं, अवस्था, स्थानं, आस्पदं, पदविः -वी#} {%f.,%}
+{#वृत्तिः#} {%f.,%} {#पर्य्यायः;#} ‘last stage,’ {#चरमावस्था;#} ‘first stage,’ {#प्रथ-#}
+{#मारम्भः, प्रत्युत्क्रमः, प्रथमचरणः;#} ‘four stages of life,’ {#अवस्थाचतुष्टयं#}.
 <LEND>

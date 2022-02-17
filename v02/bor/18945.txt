@@ -1,5 +1,5 @@
 <L>18945<pc>586<k1>remand<k2>remand
-<div n="lb"/>{@REMAND:@}¦ <div n="I">I To send back: q. v.: {#पुनः प्रेरयति#}
-<div n="lb"/>({#ईर्,#} c. 10.). </div><div n="I">II To adjourn: {#व्याक्षिपति#}
-<div n="lb"/>({#क्षिप्,#} c. 6.).</div>
+{@REMAND:@}¦ <div n="I">I To send back: q. v.: {#पुनः प्रेरयति#}
+({#ईर्,#} c. 10.). </div><div n="I">II To adjourn: {#व्याक्षिपति#}
+({#क्षिप्,#} c. 6.).</div>
 <LEND>

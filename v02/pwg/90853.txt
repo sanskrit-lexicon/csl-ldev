@@ -4,7 +4,7 @@
 <ls>ĀŚV. ŚR. 9, 7, 19</ls>); = {#विकृति, परिणाम#} 
 <ls>AK. 3, 3, 15.</ls> 
 <ls>TRIK. 3, 3, 371.</ls> 
-<ls>H. 1518,</ls> <ls>Schol.</ls> <ls>H. an. 3, 603.</ls> <ls>MED. r. 219. -</ls> <ls>ĀŚV. ŚR. 2, 1, 34.</ls> {#तन्त्र°#} 
+<ls>H. 1518,</ls> <ls>Schol.</ls> <ls>H. an. 3, 603.</ls> <ls>MED. r. 219.</ls> - <ls>ĀŚV. ŚR. 2, 1, 34.</ls> {#तन्त्र°#} 
 <ls>14, 14.</ls> {#नित्या नैमित्तिका विकाराः#} 
 <ls>9, 1, 13. 7, 19.</ls> {#प्रकृतेः#} 
 <ls>ŚĀṄKH. ŚR. 14, 1, 1. 4, 6, 8. 6, 1, 4.</ls> 
@@ -44,11 +44,11 @@
 <ls>16, 46.</ls> 
 <div n="1">— 2) {%Erzeugniss%} 
 <ls>P. 4, 3, 134.</ls> 
-<ls>CHĀND. UP. 6, 1, 4</ls> <ls>?= VEDĀNTAS. (Allah.) No. 121.</ls> {#सुरा°#} {%was aus%} <is>Surā</is> {%bereitet wird%} 
+<ls>CHĀND. UP. 6, 1, 4</ls> = <ls>VEDĀNTAS. (Allah.) No. 121.</ls> {#सुरा°#} {%was aus%} <is>Surā</is> {%bereitet wird%} 
 <ls>SUŚR. 1, 70, 10.</ls> {#इक्षु°#} 
 <ls>157, 2. 161, 3. 229, 1.</ls> {#यवान्न°#} 
 <ls>2, 79, 2.</ls> <ls>MBH. 8, 2060.</ls> <ls>VARĀH. BṚH. 8, 13.</ls> <ls>AK. 2, 9, 43.</ls> {#अयसः#} 
-<ls>?99. H. 1039. P. 4, 1, 42, Schol. MĀRK. P. 34, 58.</ls> {#°भूत#} 
+<ls>99.</ls> <ls>H. 1039.</ls> <ls>P. 4, 1, 42, Schol.</ls> <ls>MĀRK. P. 34, 58.</ls> {#°भूत#} 
 <ls>KĀŚ.</ls> zu <ls>P. 4, 2, 12.</ls> <ls>VOP. 7, 19.</ls> {#भक्ष्यविकाराः#} {%zubereitete Speisen%} 
 <ls>MBH. 15, 21.</ls> 
 <div n="1">— 3) pl. im <is>Sāṃkhya</is> {%die 16 Derivate aus den 8%} <is>Prakṛti</is>, nämlich {%11 Organe%} ({#इन्द्रियाणि#}) {%und 5 Elemente%} ({#भूतानि#}) 
@@ -79,9 +79,9 @@
 <ls>Spr. 5149.</ls> {#विकारं याति नो चित्तं वित्ते कदा च न#} 
 <ls>4987.</ls> {#पद्मादिषु प्रबोधसंमीलनविकारवत्तद्विकारः#} d. i. {#आत्मविकारः#} 
 <ls>NYĀYAS. 3, 1, 20.</ls> {#न च तौ चक्रतुः कंचिद्विकारम्#} (so ist wohl zu lesen) 
-<ls>MBH. 13, 2761. 2802. 3, 2920. 2947. 2951.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 15, 6.</ls> {#द्यूतेच्छाविकारसंवरणं बहुविधं कृत्वा#} 
+<ls>MBH. 13, 2761.</ls> <ls n="MBH. 13,">2802.</ls> <ls n="MBH.">3, 2920.</ls> <ls n="MBH. 3,">2947.</ls> <ls n="MBH. 3,">2951.</ls> 
+
+<ls>R. GORR. 2, 15, 6.</ls> {#द्यूतेच्छाविकारसंवरणं बहुविधं कृत्वा#} 
 <ls>MṚCCH. 30, 19.</ls> 
 <ls>KUMĀRAS. 1, 60.</ls> 
 <ls>ŚĀK. 66, 4.</ls> 

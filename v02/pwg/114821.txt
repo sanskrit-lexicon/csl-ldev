@@ -6,7 +6,7 @@
 <ls>AK. 3, 4, 7, 34.</ls> Bezogen 
 <div n="2"> a) auf eine dritte Person und zwar 
 <div n="3"> α) auf das grammatische Subject: {#स्वकं पितरमाशयेत्#} 
-<ls>M.3,220.4,14. 154.7,171. 185.8,50. 387.9,199. 207. 11,187. 12,71. fg.</ls> <ls>YĀJÑ.2,44.</ls> <ls>BHAG. 11,50.</ls> <ls>MBH.3,3013. 2232. 2685. 2997. 13580.4,507.</ls> <ls>R.1,8,25.2,110,35.3,55,2. 71,8.</ls> <ls>KĀM. NĪTIS. 10,26.</ls> <ls>Spr. (II) 4239. 5504.</ls> <ls>VARĀH. BṚH. S. 19,12.</ls> <ls>KATHĀS.9,86. 20,40. 23,46. 25,261. 34,94</ls> <ls>?(im comp.). 46,128. 61,33. 66,190 (im comp.). MĀRK. P. 28,34. BHĀG. P.1,11,1. 12,29. 13,25. PACCAR.3,1,19. H. 856. SADDH. P.4,11,b.</ls> 
+<ls>M. 3,220.4,14. 154.7,171. 185.8,50. 387.9,199. 207. 11,187. 12,71. fg.</ls> <ls>YĀJÑ. 2,44.</ls> <ls>BHAG. 11,50.</ls> <ls>MBH. 3, 3013.</ls> <ls n="MBH. 3,">2232.</ls> <ls n="MBH. 3,">2685.</ls> <ls n="MBH. 3,">2997.</ls> <ls n="MBH. 3,">13580.</ls> <ls n="MBH.">4, 507.</ls> <ls>R. 1,8,25.2,110,35.3,55,2. 71,8.</ls> <ls>KĀM. NĪTIS. 10,26.</ls> <ls>Spr. (II) 4239.</ls> <ls n="Spr. (II)">5504.</ls> <ls>VARĀH. BṚH. S. 19,12.</ls> <ls>KATHĀS. 9,86. 20,40. 23,46. 25,261. 34,94</ls> (im comp.). <ls>46,128. 61,33. 66,190</ls> (im comp.). <ls>MĀRK. P. 28,34.</ls> <ls>BHĀG. P. 1,11,1. 12,29. 13,25.</ls> <ls>PACCAR. 3,1,19.</ls> <ls>H.</ls> <ls>856.</ls> <ls>SADDH. P. 4,11,b.</ls> 
 <div n="3">— β) im Relativsatze auf das grammatische Subject des vorangehenden Demonstrativ-Satzes: {#हन्यात्स एनं यो हन्यात्कुलधर्मं स्वकां (स्विकां#} ed. Bomb.) {#तनुम्#} 
 <ls>MBH. 6, 123.</ls> 
 <div n="3">— γ) auf das logische Subject (instr.): {#यवनैरेष नीयमानः स्वकं क्षयम्#} 
@@ -19,7 +19,7 @@
 <ls>KATHĀS. 32, 175.</ls> 
 <div n="3">— ε) auf einen acc.: {#अञ्जयन्तिं स्वके नेत्रे#} 
 <ls>M. 4, 44. 9, 273.</ls> 
-<ls>MBH. 1, 1357. 12, 1894.</ls> {#पितरं च न पश्यामि केनाद्य भवने स्वके#} 
+<ls>MBH. 1, 1357.</ls> <ls n="MBH.">12, 1894.</ls> {#पितरं च न पश्यामि केनाद्य भवने स्वके#} 
 <ls>R. GORR. 2, 74, 14.</ls> 
 <div n="3">— ζ) auf ein zu ergänzendes allgemeines Subject: {#भार्या पुत्रः स्वका तनुः#} so v. a. {%die Gattin und der Sohn ist des Mannes Leib%} 
 <ls>M. 4, 184.</ls> 
@@ -29,7 +29,7 @@
 <div n="3">— β) auf einen gen.: {#मा ते स्वको ऽर्थो निपतेत #}
 [Page7-1415]
 {# मोहात्#} 
-<ls>MBH. 4, 2126 (2127).</ls> 
+<ls>MBH. 4, 2126</ls> (<ls n="MBH. 4,">2127</ls> ).
 <ls>R. 5, 64, 8.</ls> 
 <div n="2">— c) auf die erste Person: 
 <div n="3"> α) auf das grammatische Subject: {#स्वकं स्थानं प्रतिपन्नाः स्म#} 
@@ -44,7 +44,7 @@
 <ls>BHĀG. P. 1, 8, 41. 13, 13. 3, 18, 12. 6, 11, 22. 8, 10, 2. 21, 18. 12, 3, 41.</ls> {#अन्यस्वकचक्रतो भयम्#} 
 <ls>H. 61.</ls> 
 <div n="1">— 3) <lex>n.</lex> {%das Eigenen, Eigenthum%}: {#यत्स्वकेन राजा तुष्येन्न परस्वेषु गृध्येत्#} 
-<ls>MBH. 3, 225. 5, 616.</ls> {#सर्वं बलवतां स्वकम्#} 
+<ls>MBH. 3, 225.</ls> <ls n="MBH.">5, 616.</ls> {#सर्वं बलवतां स्वकम्#} 
 <ls>15, 842.</ls> {#नाराजके जनपदे स्वकं भवति कस्यचित्#} 
 <ls>Spr. (II) 3641.</ls> {#युवयोर्यन्मदीयं तन्मामकं युवयोः स्वकम्#} 
 <ls>MĀRK. P. 23, 83.</ls>

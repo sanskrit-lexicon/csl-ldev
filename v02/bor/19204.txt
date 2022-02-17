@@ -1,8 +1,8 @@
 <L>19204<pc>595<k1>retire<k2>retire
-<div n="lb"/>{@RETIRE:@}¦ <div n="I">I To go away, retreat: q. v.: {#अप-#}
-<div n="lb"/>{#क्रामति#} ({#क्रम्,#} c. 1.). </div><div n="I">II To withdraw: <div n="xe">{%r. d%}
-<div n="lb"/>{%from the world:%}</div> <div n="xs">{#शान्तिमार्गोत्सुकोऽभूत्,#}</div> R. vii. 71.;
-<div n="lb"/><div n="xe">{%you will again r. to this hermitage:%}</div> <div n="xs">{#करिष्यसि #}
-<div n="lb"/>{# पदं पुनराश्रमेऽस्मिन्#}</div> Sa. iv. 19.; <div n="xe">{%shall r. to a%}
-<div n="lb"/>{%wood:%}</div> <div n="xs">{#वनं व्रजेत्,#}</div> Y. iii. 45.</div>
+{@RETIRE:@}¦ <div n="I">I To go away, retreat: q. v.: {#अप-#}
+{#क्रामति#} ({#क्रम्,#} c. 1.). </div><div n="I">II To withdraw: <div n="xe">{%r. d%}
+{%from the world:%}</div> <div n="xs">{#शान्तिमार्गोत्सुकोऽभूत्,#}</div> R. vii. 71.;
+<div n="xe">{%you will again r. to this hermitage:%}</div> <div n="xs">{#करिष्यसि #}
+{# पदं पुनराश्रमेऽस्मिन्#}</div> Sa. iv. 19.; <div n="xe">{%shall r. to a%}
+{%wood:%}</div> <div n="xs">{#वनं व्रजेत्,#}</div> Y. iii. 45.</div>
 <LEND>

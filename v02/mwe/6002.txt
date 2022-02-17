@@ -1,5 +1,5 @@
 <L>6002<pc>135-a<k1>convoy<k2>convoy
-<div n="lb"/>CONVOY¦, {%s.%} (Attendance by way of defence) {#रक्षार्थम् अनुव्रजनं,#}
-<div n="lb"/>{#अनुव्रज्या#}. — (Guide) {#सञ्चारकः#}. — (Guard) {#रक्षकः#}. — (A ship for
-<div n="lb"/>convoy) {#बाणिज्यपोतरक्षका वृहद्युद्धनौका#}.
+CONVOY¦, {%s.%} (Attendance by way of defence) {#रक्षार्थम् अनुव्रजनं,#}
+{#अनुव्रज्या#}. — (Guide) {#सञ्चारकः#}. — (Guard) {#रक्षकः#}. — (A ship for
+convoy) {#बाणिज्यपोतरक्षका वृहद्युद्धनौका#}.
 <LEND>

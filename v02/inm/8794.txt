@@ -1,40 +1,40 @@
 <L>8794<pc>568-1<k1>पूरु<k2>पूरु<h>1
 {@Pūru@}<sup>1</sup>,¦ an ancient king, son of Yayāti. § 6 (Anukram.).
-<div n="lb">I, {@1<lang n="greek"></lang>,@} 225 (in Sañjaya's enumeration, C. has {%Pu°%}).—§ 136
-<div n="lb">(Yayātyup.): I, {@75,@} 3126.—§ 143 (Nahuṣa): I, {@75,@} 3160
-<div n="lb">(son of Yayāti and Śarmiṣṭhā).—§ 144 (Yayāti): I, {@75,@}
-<div n="lb">3162, 3167, 3181 (accepted the decrepitude of Yayāti, and was
-<div n="lb">installed on the throne, cf. § 148).—§ 147 (Devayānī):
-<div n="lb">I, {@83,@} 3433 (son of Yayāti and Śarmiṣṭhā).—§ 148
-<div n="lb">(Yayāti): I, {@84,@} 3492, 3493, 3495, 3498, 3499 (accepted the
-<div n="lb">decrepitude of Yayāti); {@85,@} 3509, 3516, 3517, 3518, 3519,
-<div n="lb">3520, 3526, 3527, 3528, 3530, 3531, 3532 (passing over his
-<div n="lb">elder sons Yayāti installed {%P.%} on the throne).—§ 148{%f%} (do.):
-<div n="lb">From {%P.%} the Pauravas descended (among them Janamejaya
-<div n="lb">Pārikṣita was born); I, {@85,@} 3534.—§ 149 (do.): I, {@86,@}
-<div n="lb">3544; {@87,@} †3554; {@89,@} †3577 {%(Yayātiḥ…P°oḥ pita);%}
-<div n="lb">{@93,@} †3684 (do.).—§ 150 (Pūruvaṃś.): I, {@94,@} 3691 {%(°or%}
-<div n="lb">{%vaṃśakarān nṛpān),%} 3694 {%(°or vaṃcadharān vīrān),%} 8695 (by
-<div n="lb">Pauṣṭī, father of Pravīra, Īcvara, and Raudrāśva).—§ 156
-<div n="lb">(do.): I, {@95,@} 3762 (son of Yayāti and Śarmiṣṭhā), ††3763
-<div n="lb">(from {%P.%} the Pauravas descended), ††3764 (husband of
-<div n="lb">Kauśalyā and father of Janamejaya<sup>6</sup>).—§ 160 (do.): I, {@95,@}
-<div n="lb">††3839 {%(°or vaṃśaḥ).%}—§ 186 (Vyuṣitāśvop.): I, {@121,@} 4686
-<div n="lb">{%(Vyuṣitāśvaḥ…P°vaṃśavivardhanaḥ).%}—§ 267 (Yama-
-<div n="lb">sabhāv.): II, {@8,@} 319 (in the palace of Yama).—§ 338
-<div n="lb">(Indralokābhigamanap.): III, {@46,@} 1859 {%(°or vaṃśe).%}—§ 376
-<div n="lb">(Tīrthayātrāp.): III, {@85,@} 8270 {%(yathā).%}—§ 378 (do.): III,
-<div n="lb">{@94,@} 8504 {%(yathā).%}—§ 552 (Goharaṇap.): IV, {@56<lang n="greek"></lang>,@} 1769
-<div n="lb">(came from heaven to see the encounter).—§ 565 (Gālava-
-<div n="lb">carita): V, {@120,@} 4027 (C. {%Pu°%}), 4038 (C. {%Pu°%}).—§ 569
-<div n="lb">(Bhagavadyānap.): V, {@149,@} 5044 (son of Yayāti and
-<div n="lb">Śarmiṣṭhā, and ancestor of Dhṛtarāṣṭra).—§ 595 (Ṣoḍa-
-<div n="lb">śarāj., v. Yayāti): VII, {@63,@} 2301 (succeeded Yayāti).—
-<div n="lb">§ 632{%b%} (Ṣoḍaśarāj., cf. § 595). XII, {@29,@} 991 (do.).—§ 656
-<div n="lb">(Khaḍgotpattik.): XII, {@166<lang n="greek"></lang>,@} 6194 (received the sword from
-<div n="lb">Yayāti, from {%P.%} it passed over to Amūrtarayas).—§ 751{%b%}
-<div n="lb">(Śapathavidhi): XIII, {@94<lang n="greek"></lang>,@} †4551, (4569).—§ 761 (Ānuśā-
-<div n="lb">sanik.): XIII, {@115<lang n="greek"></lang>,@} 5661 (abstained from meat during the
-<div n="lb">month of Kārttika).—§ 775 (do.): XIII, {@166<lang n="greek"></lang>,@} 7674
-<div n="lb">(enumeration).
+I, {@1@}<lang n="greek">α</lang>, 225 (in Sañjaya's enumeration, C. has {%Pu°%}).—§ 136
+(Yayātyup.): I, {@75@}, 3126.—§ 143 (Nahuṣa): I, {@75@}, 3160
+(son of Yayāti and Śarmiṣṭhā).—§ 144 (Yayāti): I, {@75@},
+3162, 3167, 3181 (accepted the decrepitude of Yayāti, and was
+installed on the throne, cf. § 148).—§ 147 (Devayānī):
+I, {@83@}, 3433 (son of Yayāti and Śarmiṣṭhā).—§ 148
+(Yayāti): I, {@84@}, 3492, 3493, 3495, 3498, 3499 (accepted the
+decrepitude of Yayāti); {@85@}, 3509, 3516, 3517, 3518, 3519,
+3520, 3526, 3527, 3528, 3530, 3531, 3532 (passing over his
+elder sons Yayāti installed {%P%}. on the throne).—§ 148{%f%} (do.):
+From {%P%}. the Pauravas descended (among them Janamejaya
+Pārikṣita was born); I, {@85@}, 3534.—§ 149 (do.): I, {@86@},
+3544; {@87@}, †3554; {@89@}, †3577 ({%Yayātiḥ…P°oḥ pita%});
+{@93@}, †3684 (do.).—§ 150 (Pūruvaṃś.): I, {@94@}, 3691 ({%°or%}
+{%vaṃśakarān nṛpān%}), 3694 ({%°or vaṃcadharān vīrān%}), 8695 (by
+Pauṣṭī, father of Pravīra, Īcvara, and Raudrāśva).—§ 156
+(do.): I, {@95@}, 3762 (son of Yayāti and Śarmiṣṭhā), ††3763
+(from {%P%}. the Pauravas descended), ††3764 (husband of
+Kauśalyā and father of Janamejaya<sup>6</sup>).—§ 160 (do.): I, {@95@},
+††3839 ({%°or vaṃśaḥ%}).—§ 186 (Vyuṣitāśvop.): I, {@121@}, 4686
+({%Vyuṣitāśvaḥ…P°vaṃśavivardhanaḥ%}).—§ 267 (Yama-
+sabhāv.): II, {@8@}, 319 (in the palace of Yama).—§ 338
+(Indralokābhigamanap.): III, {@46@}, 1859 ({%°or vaṃśe%}).—§ 376
+(Tīrthayātrāp.): III, {@85@}, 8270 ({%yathā%}).—§ 378 (do.): III,
+{@94@}, 8504 ({%yathā%}).—§ 552 (Goharaṇap.): IV, {@56@}<lang n="greek">ζ</lang>, 1769
+(came from heaven to see the encounter).—§ 565 (Gālava-
+carita): V, {@120@}, 4027 (C. {%Pu°%}), 4038 (C. {%Pu°%}).—§ 569
+(Bhagavadyānap.): V, {@149@}, 5044 (son of Yayāti and
+Śarmiṣṭhā, and ancestor of Dhṛtarāṣṭra).—§ 595 (Ṣoḍa-
+śarāj., v. Yayāti): VII, {@63@}, 2301 (succeeded Yayāti).—
+§ 632{%b%} (Ṣoḍaśarāj., cf. § 595). XII, {@29@}, 991 (do.).—§ 656
+(Khaḍgotpattik.): XII, {@166@}<lang n="greek">δ</lang>, 6194 (received the sword from
+Yayāti, from {%P%}. it passed over to Amūrtarayas).—§ 751{%b%}
+(Śapathavidhi): XIII, {@94@}<lang n="greek">α</lang>, †4551, (4569).—§ 761 (Ānuśā-
+sanik.): XIII, {@115@}<lang n="greek">γ</lang>, 5661 (abstained from meat during the
+month of Kārttika).—§ 775 (do.): XIII, {@166@}<lang n="greek">η</lang>, 7674
+(enumeration).
 <LEND>

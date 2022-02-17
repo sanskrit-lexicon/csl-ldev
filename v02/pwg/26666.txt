@@ -4,12 +4,12 @@
 <div n="1"> 1) N. eines Fruchtbaumes, {%Eugenia Jambolana Lam.%} (auch {%andere Species von Eugenia%}), von den Engländern {%rose apple%} genannt, 
 <ls>AK. 2, 4, 1, 19.</ls> 
 <ls>H. an. 2, 304.</ls> 
-<ls>MED. b. 4.</ls> <ls>KAUŚ. 8.</ls> <ls>N. 12, 3.</ls> <ls>MBH. 6, 273. 13, 4862.</ls> <ls>HARIV. 5371.</ls> <ls>R. 2, 91, 49.</ls> {#°द्वय#} 
+<ls>MED. b. 4.</ls> <ls>KAUŚ. 8.</ls> <ls>N. 12, 3.</ls> <ls>MBH. 6, 273.</ls> <ls n="MBH.">13, 4862.</ls> <ls>HARIV. 5371.</ls> <ls>R. 2, 91, 49.</ls> {#°द्वय#} 
 <ls>SUŚR. 1, 141, 14. 157, 19. 2, 78, 21. 106, 12. 150, 17.</ls> 
 <ls>PAÑCAT. 205, 5. 10. 206, 1.</ls> 
 <ls>BHĀG. P. 5, 16, 13. 20. 20, 2. 8, 2, 13.</ls> 
 <ls>ŚATR. 1, 291.</ls> {#जम्बु#} 
-<ls>MBH. 1, 7587. 13, 635.</ls> 
+<ls>MBH. 1, 7587.</ls> <ls n="MBH.">13, 635.</ls> 
 <ls>R. 2, 55, 15. 3, 17, 8. 4, 44, 56.</ls> 
 <ls>BHĀG. P. 4, 6, 17.</ls> {#जम्बून्#} (also auch m.) 
 <ls>MBH. 3, 11569.</ls> {#जम्बू#} und {#जम्बु#} <lex>n.</lex> {%die Frucht%} 
@@ -23,7 +23,7 @@
 <ls>VP. 166.</ls> 
 <ls>BHĀG. P. 5, 1, 32.</ls> 
 <div n="1">— 3) N. eines mythischen, vom <is>Meru</is> (<is>Merumandara</is>) sich ergiessenden Flusses, der aus dem Safte der Früchte des auf dem <is>Meru</is> stehenden riesigen <is>Jambu</is>- Baumes sich gebildet haben soll (vgl. 
-<ls>MBH. 6, 277. fg. ),</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VP. 168.</ls> <ls>BHĀG. P. 5, 20, 2.</ls> — Dunkel ist die Bed. des Wortes 
+<ls>MBH. 6, 277. fg.</ls>), <ls>H. an.</ls> <ls>MED.</ls> <ls>VP. 168.</ls> <ls>BHĀG. P. 5, 20, 2.</ls> — Dunkel ist die Bed. des Wortes 
 <ls>R. 6, 3, 26.</ls> 
 <div n="v">— Vgl. {#आढकजम्बु, काक°, गोरक्ष°#} .
 <LEND>

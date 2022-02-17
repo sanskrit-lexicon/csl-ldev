@@ -1,8 +1,8 @@
 <L>19180<pc>594<k1>result<k2>result
-<div n="lb"/>{@RESULT@}¦ (v. i.): {#उत्पद्यते#} ({#पद्,#} c. 4.), <div n="xe">{%r. ing from%}
-<div n="lb"/>{%the murder of Parvataka:%}</div> <div n="xs">{#पर्वतकवधोत्पन्न#}</div> (f. {#न्ना#}),
-<div n="lb"/>Mu. i.: v. To proceed (III); <div n="1">(2) {#परि-#}
-<div n="lb"/>{#णमते, वि-,#} ({#नम्,#} c. l. = to terminate), <div n="xe">{%it r. s%}
-<div n="lb"/>{%from his own misdeeds:%}</div> <div n="xs">{#आत्मन एव दुश्चरितमेतद्वि-#}
-<div n="lb"/>{#परिणमयति,#}</div> Vi. vii.</div>
+{@RESULT@}¦ (v. i.): {#उत्पद्यते#} ({#पद्,#} c. 4.), <div n="xe">{%r. ing from%}
+{%the murder of Parvataka:%}</div> <div n="xs">{#पर्वतकवधोत्पन्न#}</div> (f. {#न्ना#}),
+Mu. i.: v. To proceed (III); <div n="1">(2) {#परि-#}
+{#णमते, वि-,#} ({#नम्,#} c. l. = to terminate), <div n="xe">{%it r. s%}
+{%from his own misdeeds:%}</div> <div n="xs">{#आत्मन एव दुश्चरितमेतद्वि-#}
+{#परिणमयति,#}</div> Vi. vii.</div>
 <LEND>

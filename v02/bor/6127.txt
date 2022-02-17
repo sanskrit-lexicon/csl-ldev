@@ -1,4 +1,4 @@
 <L>6127<pc>196<k1>diet<k2>diet
-<div n="lb"/>{@DIET@}¦ (subs.): {#आहारः।#} Ph.: <div n="xe">{%d. good for the%}
-<div n="lb"/>{%feverish:%}</div> <div n="xs">{#ज्वरिताय हितान्यन्नादीनि,#}</div> Bha.
+{@DIET@}¦ (subs.): {#आहारः।#} Ph.: <div n="xe">{%d. good for the%}
+{%feverish:%}</div> <div n="xs">{#ज्वरिताय हितान्यन्नादीनि,#}</div> Bha.
 <LEND>

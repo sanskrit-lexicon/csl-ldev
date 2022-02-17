@@ -1,10 +1,10 @@
 <L>8549<pc>271<k1>feather<k2>feather
-<div n="lb"/>{@FEATHER@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#पत्रम्,#} <div n="xe">{%I am throw-%}
-<div n="lb"/>{%ing away this one f.:%}</div> <div n="xs">{#एतत्पत्रं त्यजाम्येकम्,#}</div> Mah. i.
-<div n="lb"/>30. 21.; {%f. -bed:%} ({#*पतग-#}) {#पत्रसंस्तरः;#} <div n="xe">{%to win a f.%}
-<div n="lb"/>{%in the cap:%}</div> <div n="xs">{#सुभगपताकां हरति,#}</div> D.; </div><div n="1">(2) {#पर्णः,#} <div n="xe">{%good%}
-<div n="lb"/>{%f. ed:%}</div> <div n="xs">{#सुपर्णः,#}</div> Mah. </div><div n="I">II Of an arrow: </div><div n="1">(1) {#पत्रम्,#}
-<div n="lb"/>{%heron- f. ed%} ({%arrows%}): {#कङ्कपत्राः,#} U.; </div><div n="1">(2) {#पक्षः,#}
-<div n="lb"/><div n="xe">{%of f. supported arrows:%}</div> <div n="xs">{#पक्षाश्रयिणां शिलीमुखानाम्,#}</div>
-<div n="lb"/>Si. xx. 9. </div><div n="I">III A species: q.v.: {#जातिः।#}</div>
+{@FEATHER@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#पत्रम्,#} <div n="xe">{%I am throw-%}
+{%ing away this one f.:%}</div> <div n="xs">{#एतत्पत्रं त्यजाम्येकम्,#}</div> Mah. i.
+30. 21.; {%f. -bed:%} ({#*पतग-#}) {#पत्रसंस्तरः;#} <div n="xe">{%to win a f.%}
+{%in the cap:%}</div> <div n="xs">{#सुभगपताकां हरति,#}</div> D.; </div><div n="1">(2) {#पर्णः,#} <div n="xe">{%good%}
+{%f. ed:%}</div> <div n="xs">{#सुपर्णः,#}</div> Mah. </div><div n="I">II Of an arrow: </div><div n="1">(1) {#पत्रम्,#}
+{%heron- f. ed%} ({%arrows%}): {#कङ्कपत्राः,#} U.; </div><div n="1">(2) {#पक्षः,#}
+<div n="xe">{%of f. supported arrows:%}</div> <div n="xs">{#पक्षाश्रयिणां शिलीमुखानाम्,#}</div>
+Si. xx. 9. </div><div n="I">III A species: q.v.: {#जातिः।#}</div>
 <LEND>

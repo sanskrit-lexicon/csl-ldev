@@ -33,7 +33,7 @@
 <ls>2368. 12211. 12, 4270.</ls> <ls>SUŚR. 1, 3, 20. 4, 11. 72, 9. 89, 21.</ls> {#व्याधितो मृत्युमृच्छति#} 
 <ls>110, 20.</ls> <ls>RAGH. 12, 13.</ls> {#यत्रास्ति विषसंसर्गो ऽमृतं तदपि मृत्यवे#} 
 <ls>Spr. 104. 3173.</ls> {#जातस्य मृत्युर्नियतो ध्रुवं जन्म मृतस्य च#} 
-<ls>961. 4385. 4742. 5041.</ls> <ls>VARĀH. BṚH. S. 8, 35</ls> {#(°कर)#} . 
+<ls>961. 4385. 4742. 5041.</ls> <ls>VARĀH. BṚH. S. 8, 35</ls> ({#°कर#}) . 
 <ls>36, 4.</ls> {#°शान्ति#} 
 <ls>KATHĀS. 41, 13.</ls> <ls>WEBER, RĀMAT. UP. 333.</ls> {#°काले#} 
 <ls>Spr. 3027.</ls> {#प्रत्यासन्न°#} <lex>adj.</lex> 
@@ -52,7 +52,7 @@
 <ls>12.</ls> {#एते प्रयत्नतो रक्ष्याः स्कन्धावारस्य मृत्यवः#} 
 <ls>KĀM. NĪTIS. 16, 39.</ls> 
 <div n="1">— 2) persönlich gefasst: Rachen {%des Todes, des Todesgottes%} 
-<ls>ŚĀṄKH. BR. 14,</ls> <ls>?2.R. 5, 1, 29. VID. 256.</ls>
+<ls>ŚĀṄKH. BR. 14,</ls> <ls>2.R. 5, 1, 29.</ls> <ls>VID. 256.</ls>
 [Page5-0882]
 — {#मृत्योर्वा गृहमेतत्#} 
 <ls>Spr. 4744.</ls> {#गृहीत इव केशेषु मृत्युना धर्ममाचरेत्#} 
@@ -90,14 +90,14 @@
 <ls>11</ls> <is>Rudra</is> 
 <ls>VP. 121,</ls> 
 <ls>N. 17.</ls> Ausnahmsweise <lex>f.</lex> 
-<ls>MBH. 7, 2074. fgg. 12, 9182. 9185.</ls> Vgl. {#मृत्युकन्या#} . 
+<ls>MBH. 7, 2074. fgg.</ls> <ls n="MBH.">12, 9182.</ls> <ls n="MBH. 12,">9185.</ls> Vgl. {#मृत्युकन्या#} . 
 <div n="1">— 3) N. eines <is>Ekāha</is> (neben <is>Antaka</is>) 
 <ls>ŚĀṄKH. ŚR. 14, 22, 4.</ls> 
 <div n="1">— 4) Bez. {%des 8ten astrologischen Hauses%} 
 <ls>VARĀH. BṚH. S. 104, 22.</ls> 
 <ls>BṚH. 6, 5. 9, 3. 7.</ls> {#°गृह#} 
-<ls>?25,1. LAGHUJ.1,18 in Ind. St.2,281. Verz. d. Oxf. H. 330,b,8. fg. N.</ls> {%des 17ten astrologischen%} <is>Yoga</is> 
-<ls>As. Res.9,366.</ls> <ls>Verz. d. Oxf. H. 86,a,42. 97,b,27.</ls> 
+<ls>25, 1.</ls> <ls>LAGHUJ. 1, 18</ls> in <ls>Ind. St. 2, 281.</ls> <ls>Verz. d. Oxf. H. 330,b,8. fg.</ls> N. {%des 17ten astrologischen%} <is>Yoga</is> 
+<ls>As. Res. 9,366.</ls> <ls>Verz. d. Oxf. H. 86,a,42. 97,b,27.</ls> 
 <div n="1">— 5) {%der Liebesgott%} (vgl. {#मार)#} 
 <ls>H. ś. 77.</ls> 
 <div n="1">— 6) {#मृत्योर्हरः#} und {#मृत्योर्विकर्णभासे#} Namen von <is>Sāman</is> 

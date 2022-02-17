@@ -1,18 +1,18 @@
 <L>4493<pc>145<k1>consider<k2>consider
-<div n="lb"/>{@CONSIDER:@}¦ <div n="I">I In gen. sense: </div><div n="1">(1) {#विचारयति#} (c. of
-<div n="lb"/>{#चर्#}), {%if it is c. ed, this quitting of life%} ({%by%} [Page146]
-<div n="lb"/>{%widows%}) <div n="xe">{%is selfish:%}</div> <div n="xs">{#अत्र हि विचार्यमाणे स्वार्थ एव #}
-<div n="lb"/>{# प्राणपरित्यागोऽयम्,#}</div> K.; </div><div n="1">(2) {#विमृश(ष)ति#} ({#मृश्,#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#-ष्,#}</div> c. 6), <div n="xe">{%without c. ing sayings of Manu%}
-<div n="lb"/>{%and others:%}</div> <div n="xs">{#मन्वादिवाक्यान्यविमृश्य,#}</div> Da.; </div><div n="1">(3)
-<div n="lb"/>{#आलोचयति, समा-, पर्या-,#} ({#लोच्,#} c. 10.), {%c. ing%}
-<div n="lb"/>{%their%} ({%comparative%}) <div n="xe">{%importance and insignifi-%}
-<div n="lb"/>{%cance:%}</div> <div n="xs">{#तेषां गुरुलघुभावं पर्यालोच्य,#}</div> K. b.; </div><div n="1">(4) {#चिन्त-#}
-<div n="lb"/>{#यति, परि-, वि-। सं-,#} ({#चिन्त्,#} c. 10.) (to
-<div n="lb"/>think of), {%c. ing the painfulness of affection:%}
-<div n="lb"/>{#चिन्तयित्वा दुःखतां स्नेहस्य,#} K.; </div><div n="1">(5) {#समीक्षते#} ({#ईक्ष्,#} c.
-<div n="lb"/>1) (=to look at), <div n="xe">{%age is not c. ed among elders%}
-<div n="lb"/>{%in virtue:%}</div> <div n="xs">{#न धर्मवृद्धेषु वयः समीक्षते,#}</div> Ku. </div><div n="I">II To
-<div n="lb"/>regard, think: {#मन्यते#} ({#मन्,#} c. 4.), <div n="xe">{%one who c. s%}
-<div n="lb"/>{%himself learned:%}</div> <div n="xs">{#पण्डितम्मन्यः#}</div> ({#न्या, न्यं#}), B.</div>
+{@CONSIDER:@}¦ <div n="I">I In gen. sense: </div><div n="1">(1) {#विचारयति#} (c. of
+{#चर्#}), {%if it is c. ed, this quitting of life%} ({%by%} [Page146]
+{%widows%}) <div n="xe">{%is selfish:%}</div> <div n="xs">{#अत्र हि विचार्यमाणे स्वार्थ एव #}
+{# प्राणपरित्यागोऽयम्,#}</div> K.; </div><div n="1">(2) {#विमृश(ष)ति#} ({#मृश्,#}
+<div n="xe">{%or%}</div> <div n="xs">{#-ष्,#}</div> c. 6), <div n="xe">{%without c. ing sayings of Manu%}
+{%and others:%}</div> <div n="xs">{#मन्वादिवाक्यान्यविमृश्य,#}</div> Da.; </div><div n="1">(3)
+{#आलोचयति, समा-, पर्या-,#} ({#लोच्,#} c. 10.), {%c. ing%}
+{%their%} ({%comparative%}) <div n="xe">{%importance and insignifi-%}
+{%cance:%}</div> <div n="xs">{#तेषां गुरुलघुभावं पर्यालोच्य,#}</div> K. b.; </div><div n="1">(4) {#चिन्त-#}
+{#यति, परि-, वि-। सं-,#} ({#चिन्त्,#} c. 10.) (to
+think of), {%c. ing the painfulness of affection:%}
+{#चिन्तयित्वा दुःखतां स्नेहस्य,#} K.; </div><div n="1">(5) {#समीक्षते#} ({#ईक्ष्,#} c.
+1) (=to look at), <div n="xe">{%age is not c. ed among elders%}
+{%in virtue:%}</div> <div n="xs">{#न धर्मवृद्धेषु वयः समीक्षते,#}</div> Ku. </div><div n="I">II To
+regard, think: {#मन्यते#} ({#मन्,#} c. 4.), <div n="xe">{%one who c. s%}
+{%himself learned:%}</div> <div n="xs">{#पण्डितम्मन्यः#}</div> ({#न्या, न्यं#}), B.</div>
 <LEND>

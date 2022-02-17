@@ -1,9 +1,9 @@
 <L>3495<pc>116<k1>chatter<k2>chatter
-<div n="lb"/>{@CHATTER@}¦ (v. i.): <div n="I">I To utter inarticulate
-<div n="lb"/>sounds: </div><div n="1">(1) {#किलकिलायते#} (nomi.) (of the
-<div n="lb"/>monkey); </div><div n="1">(2) {#चटचटायते#} (nomi.) (as in fry-
-<div n="lb"/>-ing); </div><div n="1">(3) {#किकिकरोति#} (of the jay); </div><div n="1">(4)
-<div n="lb"/>{#चूङ्करोति#} (of young birds). </div><div n="I">II To jabber:
-<div n="lb"/>{#जल्पति#} ({#जल्प्,#} c. l). </div><div n="I">III Of the teeth: ‘{%with%}
-<div n="lb"/>{%c. ing teeth%}’ {#दन्तैर्दन्तान्निष्पीड्य।#}</div>
+{@CHATTER@}¦ (v. i.): <div n="I">I To utter inarticulate
+sounds: </div><div n="1">(1) {#किलकिलायते#} (nomi.) (of the
+monkey); </div><div n="1">(2) {#चटचटायते#} (nomi.) (as in fry-
+-ing); </div><div n="1">(3) {#किकिकरोति#} (of the jay); </div><div n="1">(4)
+{#चूङ्करोति#} (of young birds). </div><div n="I">II To jabber:
+{#जल्पति#} ({#जल्प्,#} c. l). </div><div n="I">III Of the teeth: ‘{%with%}
+{%c. ing teeth%}’ {#दन्तैर्दन्तान्निष्पीड्य।#}</div>
 <LEND>

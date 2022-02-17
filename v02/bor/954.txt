@@ -1,10 +1,10 @@
 <L>954<pc>033<k1>appoint<k2>appoint
-<div n="lb"/>{@APPOINT@}¦ (v. t.): <div n="I">I To make or nominate:</div>
-<div n="lb"/><div n="1">(1) {#युनक्ति#} <div n="xe">{%or%}</div> <div n="xs">{#यंक्ते, नि-, विनि-,#}</div> ({#युज्,#} c. 7), {%as%} [Page034]
-<div n="lb"/><div n="xe">{%a king a. s officers over villages etc.%}</div> <div n="xs">{#यथा, राजा #}
-<div n="lb"/>{# ग्रामादिष्वधिकृतान्विनियुंक्ते,#}</div> Up.; </div><div n="1">(2) {#करोति#} ({#कृ,#}
-<div n="lb"/>c. 8) v. To make; </div><div n="1">(3) {#निदधाति, सन्नि-,#} ({#धा,#}
-<div n="lb"/>c. 3) Ki. i. 22. v. To place; </div><div n="1">(4) {#व्या-दिशति#}
-<div n="lb"/>({#दिश्,#} c. 6) Ku. iii. 13. v. To order. </div><div n="I">II
-<div n="lb"/>To ordain, prescribe: q. v.: {#निर्दिशति।#}</div>
+{@APPOINT@}¦ (v. t.): <div n="I">I To make or nominate:</div>
+<div n="1">(1) {#युनक्ति#} <div n="xe">{%or%}</div> <div n="xs">{#यंक्ते, नि-, विनि-,#}</div> ({#युज्,#} c. 7), {%as%} [Page034]
+<div n="xe">{%a king a. s officers over villages etc.%}</div> <div n="xs">{#यथा, राजा #}
+{# ग्रामादिष्वधिकृतान्विनियुंक्ते,#}</div> Up.; </div><div n="1">(2) {#करोति#} ({#कृ,#}
+c. 8) v. To make; </div><div n="1">(3) {#निदधाति, सन्नि-,#} ({#धा,#}
+c. 3) Ki. i. 22. v. To place; </div><div n="1">(4) {#व्या-दिशति#}
+({#दिश्,#} c. 6) Ku. iii. 13. v. To order. </div><div n="I">II
+To ordain, prescribe: q. v.: {#निर्दिशति।#}</div>
 <LEND>

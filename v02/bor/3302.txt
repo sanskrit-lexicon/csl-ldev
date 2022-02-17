@@ -1,5 +1,5 @@
 <L>3302<pc>110<k1>celebrated<k2>celebrated
-<div n="lb"/>{@CELEBRATED:@}¦ <div n="1">(1) {#प्रथितः#} ({#ता, तं#}); </div><div n="1">(2) {#ख्यातः, #}
-<div n="lb"/>{# वि-,#} ({#ता, तं#}); </div><div n="1">(3) {#विश्रुतः#} ({#ता, तं#}): v. Famous,
-<div n="lb"/>renowned.</div>
+{@CELEBRATED:@}¦ <div n="1">(1) {#प्रथितः#} ({#ता, तं#}); </div><div n="1">(2) {#ख्यातः, #}
+{# वि-,#} ({#ता, तं#}); </div><div n="1">(3) {#विश्रुतः#} ({#ता, तं#}): v. Famous,
+renowned.</div>
 <LEND>

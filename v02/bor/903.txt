@@ -1,8 +1,8 @@
 <L>903<pc>031<k1>apologize<k2>apologize
-<div n="lb"/>{@APOLOGIZE:@}¦ <div n="1">(1) {#क्षमां प्रार्थयते#} <div n="xe">{%or%}</div> <div n="xs">{#याचते;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#मर्षयति#} ({#मृष्,#} c. 10.), <div n="xe">{%a. to the king for what we%}
-<div n="lb"/>{%said amongst ourselves against etiquette%}</div> <div n="xs">{#मर्षयत #}
-<div n="lb"/>{# लोकपालं यदस्माभिर्विश्रब्धप्रलापिनीभिरूपचारातिक्रमेण #}
-<div n="lb"/>{# भणितम्।#}</div> Sa. iii.; </div><div n="1">(3) {#अनु-नयति#} ({#नी,#} c. 1.)
-<div n="lb"/>( =to propitiate).</div>
+{@APOLOGIZE:@}¦ <div n="1">(1) {#क्षमां प्रार्थयते#} <div n="xe">{%or%}</div> <div n="xs">{#याचते;#}</div> </div><div n="1">(2)
+{#मर्षयति#} ({#मृष्,#} c. 10.), <div n="xe">{%a. to the king for what we%}
+{%said amongst ourselves against etiquette%}</div> <div n="xs">{#मर्षयत #}
+{# लोकपालं यदस्माभिर्विश्रब्धप्रलापिनीभिरूपचारातिक्रमेण #}
+{# भणितम्।#}</div> Sa. iii.; </div><div n="1">(3) {#अनु-नयति#} ({#नी,#} c. 1.)
+( =to propitiate).</div>
 <LEND>

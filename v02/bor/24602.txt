@@ -1,4 +1,4 @@
 <L>24602<pc>772<k1>zodiac<k2>zodiac
-<div n="lb"/>{@ZODIAC:@}¦ <div n="1">(1) {#ज्योतिश्चक्रम्;#} </div><div n="1">(2) {#भचक्रम्;#} </div><div n="1">(3) {#राशि-#}
-<div n="lb"/>{#चक्रम्,#} <div n="xe">{%sign of the z.:%}</div> <div n="xs">{#राशिः।#}</div></div>
+{@ZODIAC:@}¦ <div n="1">(1) {#ज्योतिश्चक्रम्;#} </div><div n="1">(2) {#भचक्रम्;#} </div><div n="1">(3) {#राशि-#}
+{#चक्रम्,#} <div n="xe">{%sign of the z.:%}</div> <div n="xs">{#राशिः।#}</div></div>
 <LEND>

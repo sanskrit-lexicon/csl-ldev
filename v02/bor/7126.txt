@@ -1,6 +1,6 @@
 <L>7126<pc>226<k1>dynasty<k2>dynasty
-<div n="lb"/>{@DYNASTY:@}¦ {#वंशः,#} <div n="xe">{%the solar d.:%}</div> <div n="xs">{#सूर्यवंशः;#}</div> <div n="xe">{%of the%}
-<div n="lb"/>{%solar d.:%}</div> <div n="xs">{#सूर्यवंश्य#}</div> (f. {#श्या#}), R. xvi. 10.; <div n="xe">{%that d.%}
-<div n="lb"/>{%will become extinct with Kshemaka:%}</div> <div n="xs">{#क्षेमकं प्राप्य #}
-<div n="lb"/>{# स वंशः संस्थां प्राप्स्यते,#}</div> V. p.
+{@DYNASTY:@}¦ {#वंशः,#} <div n="xe">{%the solar d.:%}</div> <div n="xs">{#सूर्यवंशः;#}</div> <div n="xe">{%of the%}
+{%solar d.:%}</div> <div n="xs">{#सूर्यवंश्य#}</div> (f. {#श्या#}), R. xvi. 10.; <div n="xe">{%that d.%}
+{%will become extinct with Kshemaka:%}</div> <div n="xs">{#क्षेमकं प्राप्य #}
+{# स वंशः संस्थां प्राप्स्यते,#}</div> V. p.
 <LEND>

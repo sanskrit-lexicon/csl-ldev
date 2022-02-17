@@ -1,4 +1,4 @@
 <L>15270<pc>467<k1>nausea<k2>nausea
-<div n="lb"/>{@NAUSEA:@}¦ <div n="I">I Sea-sickness: {#उत्क्लेदः,#} Wilson.;
-<div n="lb"/>{#वमिः।#} </div><div n="I">II Fig.: loathing: {#जुगुप्सा।#}</div>
+{@NAUSEA:@}¦ <div n="I">I Sea-sickness: {#उत्क्लेदः,#} Wilson.;
+{#वमिः।#} </div><div n="I">II Fig.: loathing: {#जुगुप्सा।#}</div>
 <LEND>

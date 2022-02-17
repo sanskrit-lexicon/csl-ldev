@@ -6,9 +6,9 @@
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1"> 1) {%in allen Fällen, jedenfalls, durchaus%} 
 <ls>M. 2, 15. 7, 173. 9, 319.</ls> 
-<ls>MBH. 3, 2519. fg. 2737.</ls> 
+<ls>MBH. 3, 2519. fg.</ls> <ls n="MBH. 3,">2737.</ls> 
 <ls>R. 1, 11, 11. 52, 17. 2, 30, 41. 34, 35. 51, 6. 58, 24. 3, 35, 23. 65, 12.</ls> 
-<ls>Spr.</ls> <ls>?(II)1144. 3283. 6920. fgg. 7055. MṚCCH. 129, 15. ŚĀK. 7, 7. 15, 4. VIKR. 69, 8. VARĀH. BṚH. S. 11, 6. 24, 28. KATHĀS. 34, 236. 46, 238. 49, 34. 57, 94. PRAB. 27, 18. PAÑCAT. 161, 13.</ls> Comm. zu <ls>TS. PRĀT. 24, 5.</ls>
+<ls>Spr.</ls> (<ls>II)1144. 3283. 6920. fgg. 7055.</ls> <ls>MṚCCH. 129, 15.</ls> <ls>ŚĀK. 7, 7. 15, 4.</ls> <ls>VIKR. 69, 8.</ls> <ls>VARĀH. BṚH. S. 11, 6. 24, 28.</ls> <ls>KATHĀS. 34, 236. 46, 238. 49, 34. 57, 94.</ls> <ls>PRAB. 27, 18.</ls> <ls>PAÑCAT. 161, 13.</ls> Comm. zu <ls>TS. PRĀT. 24, 5.</ls>
 [Page7-0821]
 {#सर्वथापि#} 
 <ls>MBH. 1, 6163.</ls> {#सर्वथैव#} 
@@ -17,14 +17,14 @@
 <ls>MBH. 3, 2924.</ls> {#न जाने निलयं तस्य स°#} 
 <ls>R. 4, 6, 3.</ls> 
 <ls>ṚV. PRĀT. 12, 2.</ls> 
-<ls>MĀLATĪM. 154, 13.</ls> <ls>BHĀG. P. 1, 13, 41.</ls> <ls>PAÑCAT. 105, 1.</ls> <ls>HIT. 12, 16. 16, 14. 24, 1.</ls> <ls>VET.</ls> in <ls>LA. (III) 18, 11.</ls> <ls>SARVADARŚANAS. 42, 6.</ls> Comm. zu <ls>TS. PRĀT. 1, 59.</ls> {#सर्वथैव न#} 
+<ls>MĀLATĪM. 154, 13.</ls> <ls>BHĀG. P. 1, 13, 41.</ls> <ls>PAÑCAT. 105, 1.</ls> <ls>HIT. 12, 16. 16, 14. 24, 1.</ls> <ls>VET. in LA. (III) 18, 11.</ls> <ls>SARVADARŚANAS. 42, 6.</ls> Comm. zu <ls>TS. PRĀT. 1, 59.</ls> {#सर्वथैव न#} 
 <ls>PAÑCAT. 164, 2.</ls> {#सर्वथा सर्वत्र सर्वदा#} 
 <ls>SARVADARŚANAS. 42, 6.</ls> 
 <div n="1">— 2) {%auf jegliche Weise%} 
 <ls>R. 2, 100, 26.</ls> {%auf welche Weise es auch sei%}: {#स° वर्तमानो ऽपि#} 
 <ls>BHAG. 6, 31. 13, 23.</ls> {#°भवन्#} {%in beliebigen Verhältnissen sich befindend%} 
 <ls>ṚV. PRĀT. 2, 15.</ls> {#°विषय#} <lex>adj.</lex> 
-<ls>Verz. d. Oxf. H. 232</ls>, {%a%}, 11. 
+<ls>Verz. d. Oxf. H. 232,a,11.</ls> 
 <div n="1">— 3) {%vollständig, im höchsten Maasse%} 
 <ls>MBH. 14, 536.</ls> {#अनुगृहीतो ऽस्मि#} 
 <ls>ŚĀK. 38, 15.</ls> {#हतो ऽस्मि#} 

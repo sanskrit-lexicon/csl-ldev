@@ -1,7 +1,7 @@
 <L>12331<pc>383<k1>inscribe<k2>inscribe
-<div n="lb"/>{@INSCRIBE:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#अभिलिखति#} ({#लिख,#}
-<div n="lb"/>c. 6.) (= to write); </div><div n="1">(2) {#मुद्रयति#} ({#मुद्र्,#} c. 10).
-<div n="lb"/>(= to engrave). </div><div n="I">II In geom. <div n="xe">{%to i. a. square%}
-<div n="lb"/>{%in a circle:%}</div> <div n="xs">{#वृत्तान्तर्वर्गम् अभिलिखति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#वर्णयति#}</div> ({#वर्ण,#}
-<div n="lb"/>c. 10.).</div>
+{@INSCRIBE:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#अभिलिखति#} ({#लिख,#}
+c. 6.) (= to write); </div><div n="1">(2) {#मुद्रयति#} ({#मुद्र्,#} c. 10).
+(= to engrave). </div><div n="I">II In geom. <div n="xe">{%to i. a. square%}
+{%in a circle:%}</div> <div n="xs">{#वृत्तान्तर्वर्गम् अभिलिखति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#वर्णयति#}</div> ({#वर्ण,#}
+c. 10.).</div>
 <LEND>

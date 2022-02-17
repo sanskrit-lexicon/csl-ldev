@@ -3,7 +3,7 @@
 <ls>UṆĀDIS. 1, 23.</ls> <ls>PAT.</ls> zu <ls>P. 6, 1, 12.</ls> Zeitschr. f. vgl. <ls>Spr. 1, 200. 7, 183.</ls> 
 <div n="1"> 1) <lex>adj.</lex> (f. {#बभ्रु#} und {#बभ्रू)#} 
 <div n="2"> a) {%rothbraun, braun%} (eine Mischfarbe 
-<ls>SUŚR. 1, 274, 17).</ls> <ls>AK. 3, 4, 25, 172.</ls> <ls>H. 1397.</ls> <ls>an. 2, 441.</ls> <ls>MED. r. 65.</ls> <ls>HALĀY. 4, 51.</ls> <ls>DHAR.</ls> bei <ls>UJJVAL.</ls> Farbe des Rindes und anderer Thiere 
+<ls>SUŚR. 1, 274, 17).</ls> <ls>AK. 3, 4, 25, 172.</ls> <ls>H. 1397. an. 2, 441.</ls> <ls>MED. r. 65.</ls> <ls>HALĀY. 4, 51.</ls> <ls>DHAR.</ls> bei <ls>UJJVAL.</ls> Farbe des Rindes und anderer Thiere 
 <ls>TS. 1, 8, 8, 1. 2, 1, 3, 3.</ls> 
 <ls>VS. 24, 2. 29, 58.</ls> 
 <ls>ŚAT. BR. 5, 2, 5, 12.</ls> 
@@ -34,8 +34,8 @@
 <ls>BHĀG. P. 9.2, 6. 9, 31.</ls>
 [Page5-0023]
 Bein. <is>Kṛṣṇa's</is> oder <is>Viṣṇu's</is> 
-<ls>AK.</ls> <ls>H. 217.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 23.</ls> <ls>DHAR.</ls> <ls>MBH. 12, 1511. 13, 6962.</ls> <is>Śiva's</is> 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 13, 589. 1263.</ls> 
+<ls>AK.</ls> <ls>H. 217.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 23.</ls> <ls>DHAR.</ls> <ls>MBH. 12, 1511.</ls> <ls n="MBH.">13, 6962.</ls> <is>Śiva's</is> 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 13, 589.</ls> <ls n="MBH. 13,">1263.</ls> 
 <div n="2">— b) {%kahlköpfig%} 
 <ls>H. 453.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
@@ -48,11 +48,11 @@ Bein. <is>Kṛṣṇa's</is> oder <is>Viṣṇu's</is>
 <ls>P. 5, 3, 108.</ls> {#व्याघ्राखुवृकबभ्रुभिः#} 
 <ls>MBH. 1, 5568.</ls> {#मूषिको °संनिभः#} 
 <ls>MĀRK. P. 15, 9.</ls> {#°वक्त्र#} 
-<ls>HARIV. 1131. 14299.</ls> {#°गति#} 
+<ls>HARIV. 1131.</ls> <ls n="HARIV.">14299.</ls> {#°गति#} 
 <ls>H. 1247.</ls> 
 <div n="2">— b) {%Cuculus melanoleucus%} (s. {#चातक#}) 
 <ls>TRIK. 2, 5, 17.</ls> 
-<div n="2">— c) {%eine best. Gemüsepflanze%}  {#(सितावर)#}  
+<div n="2">— c) {%eine best. Gemüsepflanze%} ({#सितावर#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— d) {%Feuer%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
@@ -71,13 +71,13 @@ Bein. <is>Kṛṣṇa's</is> oder <is>Viṣṇu's</is>
 <ls>Ind. St. 3, 225.</ls> {#बभ्रोः कार्त्तवेशस्य साम#} 
 ebend.— 
 <ls>H. an.</ls> <ls>Verz. d. Oxf. H. 266,b,3.</ls> ein Schüler <is>Śaunaka's</is> 
-<ls>?55,b,36.VP.283.</ls> ein Sohn <is>Viśvāmitra's</is> 
+<ls>55,b,36.VP.283.</ls> ein Sohn <is>Viśvāmitra's</is> 
 <ls>MBH. 13, 249.</ls> {#बभ्रवः#} 
-<ls>HARIV. 1464. 1770.</ls> ein Sohn <is>Viśvagarbha's</is> 
-<ls>5252.</ls> ein <is>Vṛṣṇi</is> 
+<ls>HARIV. 1464.</ls> <ls n="HARIV.">1770.</ls> ein Sohn <is>Viśvagarbha's</is> 
+<ls n="HARIV.">5252.</ls> ein <is>Vṛṣṇi</is> 
 <ls>MBH. 1, 7915.</ls> 
-<ls>HARIV. 5078. 5090. 9150.</ls> = {#अक्रूर#} 
-<ls>2091. fgg.</ls> ein Sohn <is>Druhyu's</is> 
+<ls>HARIV. 5078.</ls> <ls n="HARIV.">5090.</ls> <ls n="HARIV.">9150.</ls> = {#अक्रूर#} 
+<ls n="HARIV.">2091. fgg.</ls> ein Sohn <is>Druhyu's</is> 
 <ls>HARIV. 1837.</ls> 
 <ls>VP. 443.</ls> 
 <ls>BHĀG. P. 9, 23, 14.</ls> <is>Romapāda's</is> (<is>Lomapāda's</is> 

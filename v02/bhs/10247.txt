@@ -1,114 +1,114 @@
 <L>10247<pc>375,2<k1>प्रत्यय<k2>प्रत्यय
 {@pratyaya@}¦, m. (once {@praccaya@}, q.v.; in mg. 1 Skt.;
-<div n="lb">in all mgs. = Pali paccaya), ({@1@}) {%cause%}; often clearly a
-<div n="lb">synonym of hetu, tho metaphysical writers try to distin-
-<div n="lb">guish the two in various ways; see e.g. AbhidhK. LaV-P.
-<div n="lb">ix.241, note 3, vyākhyā: hetur āsannaḥ pratyayaḥ,
-<div n="lb">viprakṛṣṭas tu pratyaya eva; janako hetuḥ, pratyayas
-<div n="lb">tv ālambanamātram ity apare; paryāyāv etāv ity apare,
-<div n="lb">{%hetu is the proximate cause%} (pratyaya), {%the remote one is%}
-<div n="lb">{%pratyaya rather; others say hetu is what generates (produces),%}
-<div n="lb">{%pratyaya only the underlying condition; others say the two%}
-<div n="lb">{%are synonyms%}; where hetu and pratyaya occur together
-<div n="lb">in parallel phrases older interpreters (Burnouf, Kern on
-<div n="lb">SP, Foucaux on LV) often mistakenly render pratyaya
-<div n="lb">by {%effect%}: ko…hetuḥ kaḥ pratyayaḥ SP 8.5; ayaṃ…
-<div n="lb">hetur ayaṃ pratyayo LV 120.19; so, the two being clearly
-<div n="lb">synonyms, LV 128.11; Mv i.66.7; 153.7; ii.283.19 (taddhe-
-<div n="lb">tos tatpratyayāt); Divy 204.7 etc. (ko…hetuḥ kaḥ
-<div n="lb">pratyayo, common here); Divy 199.12 (ahetu-pratyayaṃ,
-<div n="lb">mss. °yāṃ, adv.); Mv iii.57.15 (hetu-pratyaya-cārikā,
-<div n="lb">Bhvr.); Av i.82.4 (taddhetu tatpratyayaṃ ca, adverbs);
-<div n="lb">with the further synonym nidāna, sahetu sapratyayaṃ
-<div n="lb">ca sanidānaṃ LV 376.21 (vs), {%with%} (good) {%ground, cause,%}
-<div n="lb">{%and reason%}; with kāraṇa (Skt.), dvau kāraṇau tasya…
-<div n="lb">dvau ca pratyayau Suv 11.9 (vs), {%two causes and reasons%};
-<div n="lb">technically there are four pratyaya listed, viz. hetu-pr°,
-<div n="lb">samanantara-pr°, {@ālambana-@}pr°, {@adhipati-@}pr° (equiv-
-<div n="lb">alents among 24 paccaya in Pali, Vism. 532.11), elaborately
-<div n="lb">discussed AbhidhK. LaV-P. ii.299 ff.; listed Mvy 2266--
-<div n="lb">2270; Bbh 98.26 ff. (brief definitions); seemingly in cor-
-<div n="lb">rupt form ŚsP 80.4 ālambanāmateya-samanantara-hetu-
-<div n="lb">pratyayatā (see s.v. {@adhipati@}); in Bbh 13.21 ff. a (totally
-<div n="lb">unrelated) list of 4 pratyaya and 4 (different) hetu of
-<div n="lb">cittotpāda in a Bodhisattva are listed, the pratyaya being
-<div n="lb">{%occasions%}, conjunctions of events which stimulate cittot-
-<div n="lb">pāda; they are external to the Bodhisattva, while the 4
-<div n="lb">hetu seem more personal and mostly internal (the 4 hetu
-<div n="lb">are gotrasaṃpad, buddha-bodhisattva-kalyāṇamitra-pari-
-<div n="lb">grahaḥ, sattveṣu kāruṇyam, and saṃsāraduḥkhād…
-<div n="lb">abhīrutā, 15.11 ff.); kadācit pratyayaṃ nārāgayiṣyāmi
-<div n="lb">MSV ii.14.11, {%perhaps I shall not get an occasion%} ({%oppor-%}
-<div n="lb">{%tunity%}, = avakāśa); in Mv iii.338.2, 8 are listed three
-<div n="lb">pratyaya, viz. āśravā(ḥ), vighātā(ḥ), and paridāghā(ḥ),
-<div n="lb">for each of the five {@skandha@}, q.v.; -pratyayā (ifc.), for
-<div n="lb">°yāt (= Pali paccayā), abl. as adv., {%because of…%} (what
-<div n="lb">precedes in comp.), kiṃpratyayā, {%because of what?%} Mv
-<div n="lb">iii.65.13, 15; avidyāpratyayā, etc., various cpds., id. 15 ff.;
-<div n="lb">idaṃpratyayā 66.1; esp. in the {@pratītya-samutpāda@},
-<div n="lb">q.v. for lists, the regular formula begins avidyāpratyayāḥ
-<div n="lb">(Bhvr.) saṃskārāḥ yāvaj jātipratyayaṃ jarāmaraṇam iti
-<div n="lb">Śāl 76.14, and similarly as a rule when the formula is
-<div n="lb">cited in full in prose, as Mv ii.285.8 ff., iii.448.12 ff. (but
-<div n="lb">even in prose it may be modulated with avoidance of this
-<div n="lb">stock terminology, as Dbh 48.25 ff.); with rather clear
-<div n="lb">reference to this but not in the standard formula, pratyaya-
-<div n="lb">saṃbhava (Bhvr. adj., {%dependent in origin%}) Suv 57.14;
-<div n="lb">60.6; 61.2; otherwise used quite as in Skt., {%cause%}, e.g.
-<div n="lb">dveṣa-pratyayopasaṃhāraḥ Av ii.129.14, see {@upasaṃ-@}
-<div n="lb">{@hāra@} (1); svapratyayān ({%based on themselves%}) dharmān
-<div n="lb">prakāśayati SP 29.8, and similarly 131.9 (vs); ({@2@}) in
-<div n="lb">glāna-pratyaya-bhaiṣajya, {%medicine to cure the sick%}, the
-<div n="lb">fourth of a monk's 4 {@pariṣkāra@}, q.v. for lists (in Kv
-<div n="lb">19.9; 20.20; 40.17 yāna is misprinted for glāna); here
-<div n="lb">the word pratyaya (Tib. on Mvy 5893 misprinted gos,
-<div n="lb">read gso with Tib. Index and 6139) means substantially
-<div n="lb">{%cure%}, orig. however clearly {%(required) means (of treatment)%};
-<div n="lb">note that pratyaya in BHS is {%not%} used as equivalent of
-<div n="lb">{@pariṣkāra@} in this sense, as Pali paccaya is alleged to be
-<div n="lb">used by both Childers and PTSD; bhojana-gilānaprac-
-<div n="lb">cayaṃ (semi-MIndic) Mv i.117.7 (vs); ({@3@}) pratyaya-
-<div n="lb">buddha, one who becomes {%a Buddha by%} (understanding
-<div n="lb">of) {%causes%}, = a {@pratyeka-buddha@}, q.v.: Śikṣ 344.7 (vs),
+in all mgs. = Pali paccaya), ({@1@}) {%cause%}; often clearly a
+synonym of hetu, tho metaphysical writers try to distin-
+guish the two in various ways; see e.g. AbhidhK. LaV-P.
+ix.241, note 3, vyākhyā: hetur āsannaḥ pratyayaḥ,
+viprakṛṣṭas tu pratyaya eva; janako hetuḥ, pratyayas
+tv ālambanamātram ity apare; paryāyāv etāv ity apare,
+{%hetu is the proximate cause%} (pratyaya), {%the remote one is%}
+{%pratyaya rather; others say hetu is what generates (produces),%}
+{%pratyaya only the underlying condition; others say the two%}
+{%are synonyms%}; where hetu and pratyaya occur together
+in parallel phrases older interpreters (Burnouf, Kern on
+SP, Foucaux on LV) often mistakenly render pratyaya
+by {%effect%}: ko…hetuḥ kaḥ pratyayaḥ SP 8.5; ayaṃ…
+hetur ayaṃ pratyayo LV 120.19; so, the two being clearly
+synonyms, LV 128.11; Mv i.66.7; 153.7; ii.283.19 (taddhe-
+tos tatpratyayāt); Divy 204.7 etc. (ko…hetuḥ kaḥ
+pratyayo, common here); Divy 199.12 (ahetu-pratyayaṃ,
+mss. °yāṃ, adv.); Mv iii.57.15 (hetu-pratyaya-cārikā,
+Bhvr.); Av i.82.4 (taddhetu tatpratyayaṃ ca, adverbs);
+with the further synonym nidāna, sahetu sapratyayaṃ
+ca sanidānaṃ LV 376.21 (vs), {%with%} (good) {%ground, cause,%}
+{%and reason%}; with kāraṇa (Skt.), dvau kāraṇau tasya…
+dvau ca pratyayau Suv 11.9 (vs), {%two causes and reasons%};
+technically there are four pratyaya listed, viz. hetu-pr°,
+samanantara-pr°, {@ālambana-@}pr°, {@adhipati-@}pr° (equiv-
+alents among 24 paccaya in Pali, Vism. 532.11), elaborately
+discussed AbhidhK. LaV-P. ii.299 ff.; listed Mvy 2266--
+2270; Bbh 98.26 ff. (brief definitions); seemingly in cor-
+rupt form ŚsP 80.4 ālambanāmateya-samanantara-hetu-
+pratyayatā (see s.v. {@adhipati@}); in Bbh 13.21 ff. a (totally
+unrelated) list of 4 pratyaya and 4 (different) hetu of
+cittotpāda in a Bodhisattva are listed, the pratyaya being
+{%occasions%}, conjunctions of events which stimulate cittot-
+pāda; they are external to the Bodhisattva, while the 4
+hetu seem more personal and mostly internal (the 4 hetu
+are gotrasaṃpad, buddha-bodhisattva-kalyāṇamitra-pari-
+grahaḥ, sattveṣu kāruṇyam, and saṃsāraduḥkhād…
+abhīrutā, 15.11 ff.); kadācit pratyayaṃ nārāgayiṣyāmi
+MSV ii.14.11, {%perhaps I shall not get an occasion%} ({%oppor-%}
+{%tunity%}, = avakāśa); in Mv iii.338.2, 8 are listed three
+pratyaya, viz. āśravā(ḥ), vighātā(ḥ), and paridāghā(ḥ),
+for each of the five {@skandha@}, q.v.; -pratyayā (ifc.), for
+°yāt (= Pali paccayā), abl. as adv., {%because of…%} (what
+precedes in comp.), kiṃpratyayā, {%because of what?%} Mv
+iii.65.13, 15; avidyāpratyayā, etc., various cpds., id. 15 ff.;
+idaṃpratyayā 66.1; esp. in the {@pratītya-samutpāda@},
+q.v. for lists, the regular formula begins avidyāpratyayāḥ
+(Bhvr.) saṃskārāḥ yāvaj jātipratyayaṃ jarāmaraṇam iti
+Śāl 76.14, and similarly as a rule when the formula is
+cited in full in prose, as Mv ii.285.8 ff., iii.448.12 ff. (but
+even in prose it may be modulated with avoidance of this
+stock terminology, as Dbh 48.25 ff.); with rather clear
+reference to this but not in the standard formula, pratyaya-
+saṃbhava (Bhvr. adj., {%dependent in origin%}) Suv 57.14;
+60.6; 61.2; otherwise used quite as in Skt., {%cause%}, e.g.
+dveṣa-pratyayopasaṃhāraḥ Av ii.129.14, see {@upasaṃ-@}
+{@hāra@} (1); svapratyayān ({%based on themselves%}) dharmān
+prakāśayati SP 29.8, and similarly 131.9 (vs); ({@2@}) in
+glāna-pratyaya-bhaiṣajya, {%medicine to cure the sick%}, the
+fourth of a monk's 4 {@pariṣkāra@}, q.v. for lists (in Kv
+19.9; 20.20; 40.17 yāna is misprinted for glāna); here
+the word pratyaya (Tib. on Mvy 5893 misprinted gos,
+read gso with Tib. Index and 6139) means substantially
+{%cure%}, orig. however clearly {%(required) means (of treatment)%};
+note that pratyaya in BHS is {%not%} used as equivalent of
+{@pariṣkāra@} in this sense, as Pali paccaya is alleged to be
+used by both Childers and PTSD; bhojana-gilānaprac-
+cayaṃ (semi-MIndic) Mv i.117.7 (vs); ({@3@}) pratyaya-
+buddha, one who becomes {%a Buddha by%} (understanding
+of) {%causes%}, = a {@pratyeka-buddha@}, q.v.: Śikṣ 344.7 (vs),
 [Page376-a+ 71]
-<div n="lb">where a marginal gloss has pratyekabuddha (which would
-<div n="lb">be unmetr.); so also pratyaya-jina Dbh.g. 51(77.)2; and
-<div n="lb">pratyaya-yāna = pratyeka-(buddha-) yāna Śikṣ 328.8 (vs;
-<div n="lb">follows śrāvakayāna, and followed by uttama-yāna =
-<div n="lb">mahāyāna; misunderstood by Bendall and Rouse); the
-<div n="lb">same mg. is expressed by pratyayair jinā(ḥ) LV 443.17
-<div n="lb">(vs; refers to pratyekabuddhas, mentioned two lines be-
-<div n="lb">fore); the application of the term is made clear by a
-<div n="lb">passage in SP ch. 3, p. 80, where first, line 5 f., we read:
-<div n="lb">tatra kecit sattvāḥ paraghoṣaśravānugamanam ākāṅk-
-<div n="lb">ṣamāṇā ātmaparinirvāṇahetoś caturāryasatyānubodhāya
-<div n="lb">tathāgataśāsane 'bhiyujyante, ta ucyante śrāvakayānam
-<div n="lb">ākāṅkṣamāṇās…(the hīnayāna followers); then, 8 f.,
-<div n="lb">anye sattvā anācāryakaṃ jñānaṃ damaśamatham ākāṅk-
-<div n="lb">ṣamāṇā ātmaparinirvāṇahetor hetu-pratyayānubodhāya
-<div n="lb">tathāgataśāsane 'bhiyujyante, ta ucyante pratyeka-
-<div n="lb">buddhayānam ākāṅkṣamāṇās…; and finally, 11 ff.,
-<div n="lb">apare punaḥ sattvāḥ sarvajñajñānaṃ…ākāṅkṣamāṇā…
-<div n="lb">sarvasattvaparinirvāṇahetos tathāgatajñānabalavaiśārad-
-<div n="lb">yānubodhāya tathāgataśāsane 'bhiyujyante, ta ucyante
-<div n="lb">mahāyānam ākāṅkṣamāṇās…; here it is very clearly
-<div n="lb">characteristic of pratyekabuddhas that they seek {%to%}
-<div n="lb">{%understand%} (anubodhāya) {%grounds and reasons%}, whereas
-<div n="lb">śrāvakas seek to understand only {%the four noble truths%},
-<div n="lb">and mahāyānists seek to understand the whole {%knowledge%},
-<div n="lb">etc., {%of Tathāgatas%}. The śrāvakas are also said to be con-
-<div n="lb">tent with following what they hear said by others (i.e.
-<div n="lb">of the gospel); pratyekabuddhas go deeper, but not so
-<div n="lb">deep as mahāyānists. In Prāt 520.9 pratyaya-pravāraṇāyā
-<div n="lb">(see {@pravāraṇā@}) is, in a v.l., read pratyeka-prav°, which
-<div n="lb">seems to have been the reading used by Chin. ({%secrète%});
-<div n="lb">the Pali parallel, however, Vin. iv.102.38, has cātumāsa-
-<div n="lb">paccaya-pavāraṇā, and the old comm., Vin. iv.103.4 ff.,
-<div n="lb">understands paccaya = gilāna-paccaya, i.e. our 2 above;
-<div n="lb">it may be that some confusion has occurred in the tradition;
-<div n="lb">did the Prāt redactor, reading pratyaya-, have in mind
-<div n="lb">both the above-mentioned use of pratyaya-buddha for
-<div n="lb">pratyeka-b°, and at the same time the curious use of
-<div n="lb">{@pratyeka@} described under that word (and did he even
-<div n="lb">substitute pratyaya for it)?
+where a marginal gloss has pratyekabuddha (which would
+be unmetr.); so also pratyaya-jina Dbh.g. 51(77.)2; and
+pratyaya-yāna = pratyeka-(buddha-) yāna Śikṣ 328.8 (vs;
+follows śrāvakayāna, and followed by uttama-yāna =
+mahāyāna; misunderstood by Bendall and Rouse); the
+same mg. is expressed by pratyayair jinā(ḥ) LV 443.17
+(vs; refers to pratyekabuddhas, mentioned two lines be-
+fore); the application of the term is made clear by a
+passage in SP ch. 3, p. 80, where first, line 5 f., we read:
+tatra kecit sattvāḥ paraghoṣaśravānugamanam ākāṅk-
+ṣamāṇā ātmaparinirvāṇahetoś caturāryasatyānubodhāya
+tathāgataśāsane 'bhiyujyante, ta ucyante śrāvakayānam
+ākāṅkṣamāṇās…(the hīnayāna followers); then, 8 f.,
+anye sattvā anācāryakaṃ jñānaṃ damaśamatham ākāṅk-
+ṣamāṇā ātmaparinirvāṇahetor hetu-pratyayānubodhāya
+tathāgataśāsane 'bhiyujyante, ta ucyante pratyeka-
+buddhayānam ākāṅkṣamāṇās…; and finally, 11 ff.,
+apare punaḥ sattvāḥ sarvajñajñānaṃ…ākāṅkṣamāṇā…
+sarvasattvaparinirvāṇahetos tathāgatajñānabalavaiśārad-
+yānubodhāya tathāgataśāsane 'bhiyujyante, ta ucyante
+mahāyānam ākāṅkṣamāṇās…; here it is very clearly
+characteristic of pratyekabuddhas that they seek {%to%}
+{%understand%} (anubodhāya) {%grounds and reasons%}, whereas
+śrāvakas seek to understand only {%the four noble truths%},
+and mahāyānists seek to understand the whole {%knowledge%},
+etc., {%of Tathāgatas%}. The śrāvakas are also said to be con-
+tent with following what they hear said by others (i.e.
+of the gospel); pratyekabuddhas go deeper, but not so
+deep as mahāyānists. In Prāt 520.9 pratyaya-pravāraṇāyā
+(see {@pravāraṇā@}) is, in a v.l., read pratyeka-prav°, which
+seems to have been the reading used by Chin. ({%secrète%});
+the Pali parallel, however, Vin. iv.102.38, has cātumāsa-
+paccaya-pavāraṇā, and the old comm., Vin. iv.103.4 ff.,
+understands paccaya = gilāna-paccaya, i.e. our 2 above;
+it may be that some confusion has occurred in the tradition;
+did the Prāt redactor, reading pratyaya-, have in mind
+both the above-mentioned use of pratyaya-buddha for
+pratyeka-b°, and at the same time the curious use of
+{@pratyeka@} described under that word (and did he even
+substitute pratyaya for it)?
 <LEND>

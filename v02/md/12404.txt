@@ -1,14 +1,14 @@
 <L>12404<pc>185-3<k1>प्रातरध्येय<k2>प्रातरध्येय
 {#प्रातरध्येय#}¦prātar-adhyeya, {%fp.%} to be recited 
-<>early in the morning; {@-anuvāká,@} {%m.%} early 
-<>recitation ({%the litany with which the Prātaḥsavana %}<lbinfo n="10"/>
-<>{% begins%}); {@-anta,@} {%a.%} ending in the 
-<>morning; {@-apavarga,@} {%a. id.%}; {@-abhivāda,@} 
-<>{%m.%} morning greeting; {@-avanegá,@} {%m.%} morning 
-<>ablution; {@-ahṇa@}, {%m.%} early {%part of the%} day, 
-<>forenoon; {@-āśa@}, {%m.%} morning meal, breakfast; 
-<>{@-āśita@}, {%pp.%} having taken {%one's%} morning meal, 
-<>having breakfasted; {@-āhutí,@} {%f.%} morning sacrifice <lbinfo n="5"/>
-<> ({%the second half of the daily Agnihotra %}
-<>{%sacrifice%}).
+early in the morning; {@-anuvāká,@} {%m.%} early 
+recitation ({%the litany with which the Prātaḥsavana %}<lbinfo n="10"/>
+{% begins%}); {@-anta,@} {%a.%} ending in the 
+morning; {@-apavarga,@} {%a. id.%}; {@-abhivāda,@} 
+{%m.%} morning greeting; {@-avanegá,@} {%m.%} morning 
+ablution; {@-ahṇa@}, {%m.%} early {%part of the%} day, 
+forenoon; {@-āśa@}, {%m.%} morning meal, breakfast; 
+{@-āśita@}, {%pp.%} having taken {%one's%} morning meal, 
+having breakfasted; {@-āhutí,@} {%f.%} morning sacrifice <lbinfo n="5"/>
+ ({%the second half of the daily Agnihotra %}
+{%sacrifice%}).
 <LEND>

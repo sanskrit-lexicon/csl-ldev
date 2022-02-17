@@ -19,7 +19,7 @@
 <ls>6, 21, 2.</ls> <ls>TBR. 1, 1, 4, 8. 4, 10, 6.</ls> <ls>AIT. BR. 1, 24. 7, 14.</ls> {#वरुणो वै देवानां राजा#} 
 <ls>ŚAT. BR. 12, 8, 3, 10.</ls> {#क्षत्रस्य राजा वरुणो ऽधिराजः#} 
 <ls>TBR. 3, 1, 2, 7.</ls> {#राज्ञो वरुणस्य पत्नी#} 
-<ls>MBH. 3, 15590. 16, 120.</ls> 
+<ls>MBH. 3, 15590.</ls> <ls n="MBH.">16, 120.</ls> 
 <ls>SUŚR. 1, 17, 6.</ls> {#धृतव्रत#} 
 <ls>ṚV. 2, 1, 4.</ls> {#मायिन्#} 
 <ls n="ṚV.">6, 48, 14.</ls> <ls n="ṚV.">7, 28, 4.</ls> <ls n="ṚV.">10, 99, 10.</ls> {#सुशंस#} 
@@ -29,7 +29,7 @@
 <ls n="ṚV.">6, 70, 1.</ls> {#वरु^णो\ धर्म^पतीनाम्#} 
 <ls>VS. 9, 39.</ls> 
 <ls>ŚAT. BR. 5, 3, 3, 9.</ls> unter den 12 <is>Āditya</is> aufgeführt 
-<ls>MBH.1,2523.</ls> <ls>HARIV. 176. 593. 11549. 12456. 12911. 14166.</ls> <ls>VP. 122.</ls> <ls>BHĀG. P.6,6,37.</ls> <ls>WEBER, RĀMAT. UP. 304. 313.</ls> <ls>Verz. d. Oxf. H. 190,a,31.</ls> daher = {#अर्क#} 
+<ls>MBH. 1, 2523.</ls> <ls>HARIV. 176.</ls> <ls n="HARIV.">593.</ls> <ls n="HARIV.">11549.</ls> <ls n="HARIV.">12456.</ls> <ls n="HARIV.">12911.</ls> <ls n="HARIV.">14166.</ls> <ls>VP. 122.</ls> <ls>BHĀG. P. 6,6,37.</ls> <ls>WEBER, RĀMAT. UP. 304. 313.</ls> <ls>Verz. d. Oxf. H. 190,a,31.</ls> daher = {#अर्क#} 
 <ls>H. an. 3, 224.</ls> = {#सूर्य#} 
 <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> Dem <is>Varuṇa</is> besonders zugeeignet sind 
 <div n="2"> a) die Gewässer, 
@@ -43,8 +43,8 @@
 <ls>ĀŚV. ŚR. 3, 6, 24) 7, 83, 1.</ls> {#अ\प्सु वै वरु^णः#} 
 <ls>TBR. 1, 6, 5, 6.</ls> 
 <ls>TS. 3, 4, 5, 1.</ls> {#उदकपति#} 
-<ls>MBH. 5, 3531. 9, 2733. fgg.</ls> {#अपां राज्ये सुराणां (ऽसु#} ed. Calc.) {#च विदधे वरुणं प्रभुम्#} ({#पितामहः#}) 
-<ls>12, 4497.</ls> <ls>HARIV. 259. 2462. fgg. 12492. 13107.</ls> <ls>VP. 153.</ls> {#वरुणः पाति सागरम्#} 
+<ls>MBH. 5, 3531.</ls> <ls n="MBH.">9, 2733. fgg.</ls> {#अपां राज्ये सुराणां (ऽसु#} ed. Calc.) {#च विदधे वरुणं प्रभुम्#} ({#पितामहः#}) 
+<ls>12, 4497.</ls> <ls>HARIV. 259.</ls> <ls n="HARIV.">2462. fgg.</ls> <ls n="HARIV.">12492.</ls> <ls n="HARIV.">13107.</ls> <ls>VP. 153.</ls> {#वरुणः पाति सागरम्#} 
 <ls>Verz. d. Oxf. H. 59,b,23. 69,a,41. fgg.</ls> {#वरुणो यादसामहम्#} sagt <is>Kṛṣṇa</is> 
 <ls>BHAG. 10, 29.</ls> {#सलिलविकारे कुर्यात्पूजां वरुणस्य वारुणैर्मन्त्रैः#} 
 <ls>VARĀH. BṚH. S. 46, 51.</ls> <is>Varuṇa</is> so v. a. {%Ocean%}: {#वरुणवद्बहुरत्नः#} 
@@ -56,7 +56,7 @@
 <ls>13, 3, 13.</ls> {#वरु^णस्य सा\यम्#} 
 <ls>TBR. 1, 5, 3, 3.</ls> {#अहर्वै मित्रो रात्रिर्वरुणः#} 
 <ls>AIT. BR. 4, 10.</ls> {#मि\त्रो ऽह\रज^नय\द्वरु^णो\ रात्रि^म्#} 
-<ls>TS. 6, 4,8,  3.</ls>
+<ls>TS. 6, 4,8, 3.</ls>
 [Page6-0725]
 
 <div n="2">— c) 
@@ -85,7 +85,7 @@
 <ls>M. 9, 308. 303.</ls> {#पाशहस्तो विपाशस्तु रणे वरुण एव च । भग्नः प्रयातः सहसा मया#} (<is>Rāvaṇa</is> spricht) {#सीते ह्यपां पतिः ॥#} 
 <ls>R. 3, 54, 9.</ls> {#हंसारूढश्च पाशभृद्वरुणः#} 
 <ls>VARĀH. BṚH. S. 58, 57.</ls> <is>Kaśyapa</is> raubt ihm seine Kühe (<is>Varuṇa</is> heisst {#गोपति#} 
-<ls>MBH. 5, 3532.</ls> <ls>?3801; nach NĪLAK.</ls> soll {#गो#} hier = {#उदक#} sein) 
+<ls>MBH. 5, 3532.</ls> <ls>3801</ls>; nach <ls>NĪLAK.</ls> soll {#गो#} hier = {#उदक#} sein) 
 <ls>HARIV. 3148. fgg.</ls> ist ein Sohn <is>Kardama's</is> 
 <ls>Verz. d. Oxf. H. 69,a,41.</ls> <is>Puṣkara</is> <is>Varuṇa's</is> Sohn 
 <ls>MBH. 5, 3533.</ls> <is>Varuṇa</is> ist Herr des <is>Nakṣatra</is> <is>Śatabhiṣaj</is> 

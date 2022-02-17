@@ -1,4 +1,4 @@
 <L>157<pc>007<k1>accouchement<k2>accouchement
-<div n="lb"/>{@ACCOUCHEMENT:@}¦ <div n="1">(1) {#गर्भनिर्गमः;#} </div><div n="1">(2) {#प्रसवः:#}
-<div n="lb"/>v. Delivery.</div>
+{@ACCOUCHEMENT:@}¦ <div n="1">(1) {#गर्भनिर्गमः;#} </div><div n="1">(2) {#प्रसवः:#}
+v. Delivery.</div>
 <LEND>

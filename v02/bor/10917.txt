@@ -1,4 +1,4 @@
 <L>10917<pc>344<k1>heretofore<k2>heretofore
-<div n="lb"/>{@HERETOFORE:@}¦ <div n="1">(1) {#अद्यावधि#} (= up to now);</div>
-<div n="lb"/><div n="1">(2) {#इतः पूर्वम्।#}</div>
+{@HERETOFORE:@}¦ <div n="1">(1) {#अद्यावधि#} (= up to now);</div>
+<div n="1">(2) {#इतः पूर्वम्।#}</div>
 <LEND>

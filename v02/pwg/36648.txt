@@ -24,10 +24,10 @@
 <ls>ŚAT. BR. 4, 3, 5, 22.</ls> <ls>Z. d. d. m. G. 9, LII.</ls> {#उदक°#} 
 <ls>AIT. BR. 7, 12.</ls> 
 <ls>ĀŚV. GṚHY. 2, 8. 4, 6.</ls> {#उद°#} 
-<ls>KĀTY. ŚR. 4, 13, 16. -</ls> <ls>LĀṬY. 1, 10, 21.</ls> {#धाराग्रह#} {%Einfassen des fliessenden%} <is>Soma</is> (im Gegens. zum {%Schöpfen%}) 
+<ls>KĀTY. ŚR. 4, 13, 16.</ls> - <ls>LĀṬY. 1, 10, 21.</ls> {#धाराग्रह#} {%Einfassen des fliessenden%} <is>Soma</is> (im Gegens. zum {%Schöpfen%}) 
 <ls>KĀTY. ŚR. 12, 5, 4.</ls> {#धारानुयाज#} 
 <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 439, 45. 476, 18. 616, 2.</ls> — {#उत्पपात ततो धारा वारिणः#} 
-<ls>MBH. 6, 5785. 13, 4932.</ls> 
+<ls>MBH. 6, 5785.</ls> <ls n="MBH.">13, 4932.</ls> 
 <ls>R. 4, 44, 62.</ls> {#सिषिचुः केशवं पत्न्यो धारा#} ({%Flüsse%}) {#इव महोदधिम्#} 
 <ls>HARIV. 8325.</ls> {#शिखराद्यस्य धाराणां सहस्रं संप्रवर्तते#} 
 <ls>R. 4, 43, 37. 39.</ls> {#तौ हन्यमानौ नाराचैर्धाराभिरिव पर्वतौ#} {%Regengüsse%} 
@@ -40,7 +40,7 @@
 [Page3-0948]
 {# (वलाहकाः)#} 
 <ls>ṚT. 2, 4.</ls> {#अश्रुधारा इव वारिधाराः#} 
-<ls>MṚCCH. 91, 4.</ls> <ls>MEGH. 54.</ls> <ls>RAGH. 16, 66.</ls> <ls>PRAB. 26, 6.</ls> <ls>CĀT. 5</ls> <ls>?(wo mit HAEB.</ls> so zu lesen ist für {#धारिधारा)#}.{# तोयधारा#} 
+<ls>MṚCCH. 91, 4.</ls> <ls>MEGH. 54.</ls> <ls>RAGH. 16, 66.</ls> <ls>PRAB. 26, 6.</ls> <ls>CĀT. 5</ls> (wo mit <ls>HAEB.</ls> so zu lesen ist für {#धारिधारा)#}.{# तोयधारा#} 
 <ls>MBH. 4, 1062.</ls> 
 <ls>R. 3, 35, 84</ls> (falsch aufgefasst u. {#तोयधार)#}.{# उद°#} 
 <ls>BHĀG. P. 3, 8, 24.</ls> {#लोहित°, रुधिर°, क्षतज°, रक्त°, कीलाल°#} 
@@ -48,7 +48,7 @@
 <ls>R. 3, 30, 4. 4, 22, 23.</ls> 
 <ls>KATHĀS. 22, 228.</ls> 
 <ls>PRAB. 54, 3.</ls> {#आज्य°#} 
-<ls>MBH. 1, 8126. 9, 912.</ls> 
+<ls>MBH. 1, 8126.</ls> <ls n="MBH.">9, 912.</ls> 
 <ls>KATHĀS. 24, 227.</ls> {#क्षीर°#} 
 <ls>MṚCCH. 26, 2.</ls> 
 <ls>H. 57.</ls> {#अमृत°#} 
@@ -74,10 +74,10 @@
 <ls>ŚAT. BR. 9, 3, 2, 1. 3, 15.</ls> 
 <ls>MBH. 1, 8146.</ls> 
 <div n="2">— b) ein heil. Badeplatz 
-<ls>MBH. 3, 5018. 13, 3789.</ls> 
+<ls>MBH. 3, 5018.</ls> <ls n="MBH.">13, 3789.</ls> 
 <div n="2">— c) <is>Agni's</is> Gemahlin (mit Anschluss an {%a%}) 
 <ls>BHĀG. P. 6, 6, 13.</ls> — {#धावद्धुक्कारधाराबधिरित#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 9,</ls> <ls>Śl. 30.</ls> Hierher wohl auch: {#सं मा^ कृ\तस्य\ धार^या\ धनु\ः स्नाव्ने^व नह्यत#} 
+<ls>Journ. of the Am. Or. S. 7, 9, Śl. 30.</ls> Hierher wohl auch: {#सं मा^ कृ\तस्य\ धार^या\ धनु\ः स्नाव्ने^व नह्यत#} 
 <ls>AV. 7, 50, 9.</ls> Am Ende eines <lex>adj.</lex> comp. nach einem Zahlwort: {#द्विधा/र#} 
 <ls>ṚV. 10, 30, 10.</ls> {#त्रिधारा (गङ्गा)#} 
 <ls>HARIV. 3189.</ls> {#शतः° उत्स#} 
@@ -103,10 +103,10 @@
 <ls>ŚIŚ. 5, 60.</ls> 
 <div n="1">— 4) N. pr. eines heiligen Badeplatzes 
 <ls>MBH. 3, 8003.</ls> {#माहेश्वरी#} 
-<ls>8095. -</ls> <ls>Verz. d. Oxf. H. 449,a,28.</ls> {#ततः स सप्तधाराख्यं तीर्थं परमपावनम् । जगाम मुनिशार्दूलो यत्र गङ्गास सप्तधा ॥#} ebend. 
+<ls>8095.</ls> - <ls>Verz. d. Oxf. H. 449,a,28.</ls> {#ततः स सप्तधाराख्यं तीर्थं परमपावनम् । जगाम मुनिशार्दूलो यत्र गङ्गास सप्तधा ॥#} ebend. 
 <ls>34.</ls> 
 <div n="1">— 5) N. pr. einer Stadt (der Residenz <is>Bhoja's</is>) 
-<ls>COLEBR. Misc. Ess.</ls> <ls>?I,236. II,298. 303. 462. 485. Journ. of the Am. Or. S.7,24. Verz. d. Oxf. H. 148,a,4. No. 212, Z. 12. No. 320, Z. 5.</ls>
+<ls>COLEBR. Misc. Ess. I,236. II,298. 303. 462. 485.</ls> <ls>Journ. of the Am. Or. S.7,24.</ls> <ls>Verz. d. Oxf. H. 148,a,4. No. 212, Z. 12. No. 320, Z. 5.</ls>
 <lang n="arabic">دِهَار</lang> bei 
 <ls>ALBYROUNY</ls> (<ls>REINAUD</ls>None, Fragments arabes et persans u. s. w. 
 <ls>S. 86, 2. 108</ls>).

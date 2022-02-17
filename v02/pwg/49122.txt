@@ -34,12 +34,12 @@
 <ls>AV. 2, 36, 6.</ls> 
 <ls>KĀTY. ŚR. 14, 4, 7.</ls> 
 <ls>YĀJÑ. 1, 133.</ls> 
-<ls>MBH. 1, 3394. 2, 33.</ls> 
+<ls>MBH. 1, 3394.</ls> <ls n="MBH.">2, 33.</ls> 
 <ls>ARJ. 1, 7.</ls> 
 <ls>R. 1, 1, 76.</ls> {#चकार तां हृदि जननीं प्रदक्षिणम्#} 
 <ls>R. 2, 21, 63.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 42, 16.</ls> 
+
+<ls>R. GORR. 2, 42, 16.</ls> 
 <ls>ŚĀK. CH. 81, 9.</ls> {#प्रदक्षिणं प्रकुर्वीत परिज्ञातान्वनस्पतीन्#} (vgl. unten 
 <ls>M. 4, 39</ls>) <ls>MBH. 13, 4979.</ls> Bisweilen steht st. des adv. das adj., welches in diesem Falle in der Bed. von {%zur Rechten stehend%} aufzufassen ist: {#मृदं गां दैवतं विप्रं घृतं मधु चतुष्पथम् । प्रदक्षिणानि कुर्वीत प्रज्ञातांश्च वनस्पतीन् ॥#} (vgl. oben 
 <ls>MBH. 13, 4979</ls>) <ls>M. 4, 39.</ls> {#चतुष्पथान्प्रकुर्वीत सर्वानेव प्रदक्षिणान्#} 
@@ -55,7 +55,7 @@
 <div n="2">— b) {%günstig, von günstiger Vorbedeutung%} 
 <ls>VYUTP. 163.</ls> {#दारुणाः समवर्तन्त ग्रहाः सर्वे प्रदक्षिणाः#} 
 <ls>R. GORR. 2, 40, 10.</ls> {#मृगाः#} 
-<ls>R.</ls> <ls>SCHL. 1, 74, 10 (76, 12. 14</ls> <ls>GORR.</ls>; an der letzten Stelle in der urspr. Bed. {%nach rechts hin laufend%}). 
+<ls>R. SCHL. 1, 74, 10 (76, 12. 14</ls> <ls>GORR.</ls>; an der letzten Stelle in der urspr. Bed. {%nach rechts hin laufend%}). 
 <ls>3, 78, 12.</ls> {#शकुनाः#} 
 <ls>H. 62.</ls> {#तत्र तत्र सुखो वायुः सर्वं चासीत्प्रदक्षिणम्#} 
 <ls>MBH. 5, 3003.</ls> {#नाम्ना चेयं भगवतो दक्षिणा दिक्प्रदक्षिणा#} 

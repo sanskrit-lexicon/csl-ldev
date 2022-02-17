@@ -1,4 +1,4 @@
 <L>19943<pc>620<k1>scrip<k2>scrip
-<div n="lb"/>{@SCRIP:@}¦ <div n="I">I A bag: {#पुटः(टी)।#} </div><div n="I">II Of writing:
-<div n="lb"/>{#पत्रिका।#}</div>
+{@SCRIP:@}¦ <div n="I">I A bag: {#पुटः(टी)।#} </div><div n="I">II Of writing:
+{#पत्रिका।#}</div>
 <LEND>

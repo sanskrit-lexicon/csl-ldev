@@ -1,9 +1,9 @@
 <L>7349<pc>232<k1>element<k2>element
-<div n="lb"/>{@ELEMENT:@}¦ <div n="I">I An e. ary substance: </div><div n="1">(1) {#भूतम्,#} [Page233]
-<div n="lb"/><div n="xe">{%sky, etc. are the five e.s:%}</div> <div n="xs">{#पञ्चभूतानि वियदादीनि,#}</div>
-<div n="lb"/>D. s.; <div n="xe">{%the sixth of the great e. s:%}</div> <div n="xs">{#भूतानां महतां षष्ठः,#}</div>
-<div n="lb"/>R.; </div><div n="1">(2) {#मूलपदार्थः।#} </div><div n="I">II Rudiments: q. v.:
-<div n="lb"/><div n="xe">{%e. s of grammer:%}</div> <div n="xs">{#व्याकरणसारः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#लघुव्याकरणम्।#}</div> </div><div n="I">III
-<div n="lb"/>The proper sphere: Ph.: {%he is out of his e.:%}
-<div n="lb"/>{#*न स्वभूमौ वर्तते सः।#}</div>
+{@ELEMENT:@}¦ <div n="I">I An e. ary substance: </div><div n="1">(1) {#भूतम्,#} [Page233]
+<div n="xe">{%sky, etc. are the five e.s:%}</div> <div n="xs">{#पञ्चभूतानि वियदादीनि,#}</div>
+D. s.; <div n="xe">{%the sixth of the great e. s:%}</div> <div n="xs">{#भूतानां महतां षष्ठः,#}</div>
+R.; </div><div n="1">(2) {#मूलपदार्थः।#} </div><div n="I">II Rudiments: q. v.:
+<div n="xe">{%e. s of grammer:%}</div> <div n="xs">{#व्याकरणसारः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#लघुव्याकरणम्।#}</div> </div><div n="I">III
+The proper sphere: Ph.: {%he is out of his e.:%}
+{#*न स्वभूमौ वर्तते सः।#}</div>
 <LEND>

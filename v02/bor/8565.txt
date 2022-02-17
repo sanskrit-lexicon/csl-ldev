@@ -1,6 +1,6 @@
 <L>8565<pc>271<k1>feeble<k2>feeble
-<div n="lb"/>{@FEEBLE:@}¦ {#दुर्बलः#} ({#ला, लं#}), <div n="xe">{%the king is the strength%}
-<div n="lb"/>{%of the f.:%}</div> <div n="xs">{#दुर्बलस्य बलं राजा,#}</div> J.; {%having f. hope%} [Page272]
-<div n="lb"/><div n="xe">{%for the fulfilment of his object:%}</div> <div n="xs">{#स्वार्थोपपत्तिं प्रति #}
-<div n="lb"/>{# दुर्वलाशः,#}</div> R. v. 12.: v. Weak.
+{@FEEBLE:@}¦ {#दुर्बलः#} ({#ला, लं#}), <div n="xe">{%the king is the strength%}
+{%of the f.:%}</div> <div n="xs">{#दुर्बलस्य बलं राजा,#}</div> J.; {%having f. hope%} [Page272]
+<div n="xe">{%for the fulfilment of his object:%}</div> <div n="xs">{#स्वार्थोपपत्तिं प्रति #}
+{# दुर्वलाशः,#}</div> R. v. 12.: v. Weak.
 <LEND>

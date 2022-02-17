@@ -1,7 +1,7 @@
 <L>6322<pc>203<k1>discount<k2>discount
-<div n="lb"/>{@DISCOUNT@}¦ (v.): <div n="I">I To deduct a percentage:
-<div n="lb"/>Ph.: <div n="xe">{%to d. five per cent:%}</div> <div n="xs">{#*पञ्चकं शतं त्यजति#}</div> ({#त्यज्,#}
-<div n="lb"/>c. 1.). </div><div n="I">II To pay a bill, deducting the
-<div n="lb"/>percentage: Ph.: <div n="xe">{%d. this bill:%}</div> <div n="xs">{#*त्यागं गृहीत्वा #}
-<div n="lb"/>{# हुण्डिमूल्यं देहि।#}</div></div>
+{@DISCOUNT@}¦ (v.): <div n="I">I To deduct a percentage:
+Ph.: <div n="xe">{%to d. five per cent:%}</div> <div n="xs">{#*पञ्चकं शतं त्यजति#}</div> ({#त्यज्,#}
+c. 1.). </div><div n="I">II To pay a bill, deducting the
+percentage: Ph.: <div n="xe">{%d. this bill:%}</div> <div n="xs">{#*त्यागं गृहीत्वा #}
+{# हुण्डिमूल्यं देहि।#}</div></div>
 <LEND>

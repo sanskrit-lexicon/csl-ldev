@@ -16,12 +16,12 @@
 <ls>ṚV. 4, 4, 9.</ls> <ls n="ṚV.">6, 52, 5.</ls> <ls n="ṚV.">7, 1, 9.</ls> <ls n="ṚV. 7,">78, 5.</ls> {#क\दा मृ^ळी\कं सु\मना^ अ\भि ख्या^म्#} 
 <ls n="ṚV. 7,">86, 2.</ls> <ls n="ṚV.">10, 37, 7.</ls> <ls>AV. 3, 4, 7. 6, 99, 3. 7, 60, 1. 12, 2, 49.</ls> {#रा\या व\यं सु\मन^सः स्याम#} 
 <ls>14, 2, 36.</ls> <ls>VS. 3, 41.</ls> <ls>LĀṬY. 3, 3, 1.</ls> {#गृहाः#} 
-<ls>ĀŚV. ŚR. 2,5,17.</ls> <ls>MBH. 1,1943. 6097.3,984. 1203. 15,574.</ls> <ls>HARIV. 9072.</ls> <ls>CARAKA 1,8.</ls> <ls>ŚĀRṄG. SAṂH.1,1,39.</ls> <ls>Spr. (II) 4990.</ls> <ls>VARĀH. BṚH. S. 48,48.</ls> <ls>MĀRK. P. 134,59.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 53,20.</ls> <ls>Verz. d. Oxf. H. 32,a,43.</ls> 
+<ls>ĀŚV. ŚR. 2,5,17.</ls> <ls>MBH. 1, 1943.</ls> <ls n="MBH. 1,">6097.</ls> <ls n="MBH.">3, 984.</ls> <ls n="MBH. 3,">1203.</ls> <ls n="MBH.">15, 574.</ls> <ls>HARIV. 9072.</ls> <ls>CARAKA 1,8.</ls> <ls>ŚĀRṄG. SAṂH.1,1,39.</ls> <ls>Spr. (II) 4990.</ls> <ls>VARĀH. BṚH. S. 48,48.</ls> <ls>MĀRK. P. 134,59.</ls> <ls>BRAHMA-P. in LA. (III) 53,20.</ls> <ls>Verz. d. Oxf. H. 32,a,43.</ls> 
 <div n="2">— d) {%klug, verständig%} 
 <ls>TRIK. 3, 3, 452.</ls> 
 <ls>H. an. 3, 760.</ls> 
 <ls>MED. s. 66.</ls> <ls>VAIJ.</ls> bei <ls>MALLIN.</ls> zu <ls>ŚIŚ. 16, 24</ls> ({#देवबुद्धयोः#} nach 
-<ls>STENZLER</ls> zu lesen). <ls>R. 1,7,6 (12 GORR.).</ls> <ls>Spr. (II) 3800. 5580.</ls> <ls>Verz. d. Oxf. H. 160,b,8. 263,b, No. 636. fg.</ls> pl. {%Kluge%} und zugleich {%Blumen%} 
+<ls>STENZLER</ls> zu lesen). <ls>R. 1,7,6 (12 GORR.).</ls> <ls>Spr. (II) 3800.</ls> <ls n="Spr. (II)">5580.</ls> <ls>Verz. d. Oxf. H. 160,b,8. 263,b, No. 636. fg.</ls> pl. {%Kluge%} und zugleich {%Blumen%} 
 <ls>Spr. (II) 118.</ls> 
 <ls>ŚIŚ. 16, 24.</ls> 
 <ls>KATHĀS. 73, 21.</ls> 
@@ -46,13 +46,13 @@
 <ls>HARIV. 12696</ls> nach der Lesart der neueren Ausg., {#सुनामन्#} die ältere. 
 <div n="2">— e) N. pr. verschiedener Männer 
 <ls>HARIV. 1265.</ls> 
-<ls>MBH. 2, 120. 322.</ls> 
+<ls>MBH. 2, 120.</ls> <ls n="MBH. 2,">322.</ls> 
 <ls>KATHĀS. 56, 236. 59, 22.</ls> ein Sohn <is>Ūru's</is> von der <is>Āgneyī</is> 
 <ls>HARIV. 73.</ls> 
 <ls>VP. 98.</ls> ein Sohn <is>Ulmuka's</is> 
 <ls>BHĀG. P. 4, 13, 17.</ls> <is>Haryaśva's</is> 
 <ls>VP. 371</ls> (besser {#वसुमनस्#} der gedr. Text 
-<ls>4, 3, 13). -</ls> <ls>DAŚAK. 3, 8. 9, 20.</ls> 
+<ls>4, 3, 13).</ls> - <ls>DAŚAK. 3, 8. 9, 20.</ls> 
 <div n="1">— 3) <lex>f.</lex> 
 <div n="2"> a) pl. {%Blumen%} 
 <ls>AK. 2, 4, 1, 17.</ls> 
@@ -69,9 +69,9 @@
 <ls>M. 2, 182.</ls> {#सुमनसः#} (nach 
 <ls>NĪLAK.</ls> gen. sg. in der Bed. {%Gott%}) {#शेषाः प्रतिगृह्य#} 
 <ls>MBH. 3, 16644.</ls> {#मनो ह्लादयते यस्माच्छ्रियं चापि ददाति च । तस्मात्सुमनसः प्रोक्ताः#} 
-<ls>?13, 4696. fgg. 14, 2394. 15, 432. R. 2, 24, 26. 43, 14 (42, 16 GORR.). 100, 31 (108, 33 GORR.). R. GORR. 2, 25, 18. 3, 76, 13. 6, 97, 19. ŚIŚ. 7, 2. 8, 10. Spr. (II) 93. 6037. BHĀG. P. 3, 15, 19. 24, 8. 4, 29, 53. 5, 2, 6. 6, 18, 56.</ls> im comp.: {#शमीसुमनोमालिन्#} 
+<ls>13, 4696. fgg. 14, 2394. 15, 432.</ls> <ls>R. 2, 24, 26. 43, 14 (42, 16 GORR.). 100, 31 (108, 33 GORR.).</ls> <ls>R. GORR. 2, 25, 18. 3, 76, 13. 6, 97, 19.</ls> <ls>ŚIŚ. 7, 2. 8, 10.</ls> <ls>Spr. (II) 93.</ls> <ls n="Spr. (II)">6037.</ls> <ls>BHĀG. P. 3, 15, 19. 24, 8. 4, 29, 53. 5, 2, 6. 6, 18, 56.</ls> im comp.: {#शमीसुमनोमालिन्#} 
 <ls>ĀŚV. GṚHY.4,6,4.</ls> <ls>R.5,11,20.</ls> <ls>SUŚR.1,103,12. 243,19.</ls> <ls>ŚĀK. 48,20.</ls> <ls>Spr. (II) 1782.</ls> <ls>VARĀH. BṚH. S. 48,35.</ls> <ls>RĀJA-TAR.4,245.</ls> <ls>Verz. d. Oxf. H. 103,b,25.</ls> <ls>BHĀG. P.4,15,7. 29,54.5,2,9.8,7,12.</ls> {#सुमनोगन्धमाहात्म्य#} 
-<ls>Verz. d. B. H. 142, 10 v. u.</ls> du. <ls>P. 2, 4, 78, Schol.</ls> pl. (oder im comp.) {%Blumen%} und zugleich {%Kluge%} 
+<ls>Verz. d. B. H. 142, 10</ls> v. u. du. <ls>P. 2, 4, 78, Schol.</ls> pl. (oder im comp.) {%Blumen%} und zugleich {%Kluge%} 
 <ls>Spr. (II) 118.</ls> 
 <ls>ŚIŚ. 16, 24.</ls> 
 <ls>KATHĀS. 73, 21.</ls> 

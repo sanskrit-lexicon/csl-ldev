@@ -1,30 +1,30 @@
 <L>18389<pc>471-b<k1>lunar<k2>lunar
-<div n="lb"/>LUNAR¦, LUNARY, {%a.%} {#चान्द्रः -न्द्री -न्द्रं, चान्द्रिकः -की -कं, चान्द्रमसः#}
-<div n="lb"/>{#-सी -सं, चन्द्रसम्बन्धी -न्धिनी -न्धि (न्), सौम्यः -म्या -म्यं, सौमिकः#}
-<div n="lb"/>{#-की -कं, ऐन्दवः -वी -वं;#} ‘lunar month,’ {#चान्द्रमासः;#} ‘lunar
-<div n="lb"/>asterism or mansion,’ {#नक्षत्रं, दाक्षायिणी;#} ‘the twenty-seven
-<div n="lb"/>lunar asterisms collectively,’ {#दाक्षायिण्यः#} {%f. pl.,%} {#नक्षत्रचक्रं;#}
-<div n="lb"/>‘lunar day,’ {#तिथिः#} {%m. f.%} Of these lunar days there are
-<div n="lb"/>fourteen for the waxing, and fourteen for the waning
-<div n="lb"/>moon; the first lunar day is called {#प्रतिपद्#} {%f.,%} {#पक्षतिः -ती#} {%f.;%}
-<div n="lb"/>the day of new moon is called {#अमावसी, अमावस्या, अमा;#}
-<div n="lb"/>‘the day of full moon,’ {#पूर्णिमा, पौर्णिमा, पौर्णमासी, पूर्णेन्दुः#} {%m.%}
-<div n="lb"/>The eleventh {#तिथि#} of each {#शुक्लपक्षः#} or waxing, and {#कृष्णपक्षः#}
-<div n="lb"/>or waning moon, is regarded as sacred to Vishnu; and
-<div n="lb"/>the following are the names given by Major Candy for
-<div n="lb"/>the two {#एकादशी#} of each month: {#चैत्रः,#} 1. {#कामदा,#} 2. {#पापमोचनी;#}
-<div n="lb"/>{#वैशाखः,#} 1. {#मोहिनी,#} 2. {#वरूथिनी; ज्येष्ठः,#} 1. {#निर्जला,#} 2. {#अपरा;#}
-<div n="lb"/>{#आषाढः,#} 1. {#शयनी,#} 2. {#योगिनी; श्रावणः,#} 1. {#पुत्रदा,#} 2. {#कामिका; भाद्रः,#}
-<div n="lb"/>1. {#परिवर्त्तिनी,#} 2. {#अजा; आश्विनः,#} 1. {#पाशाङ्कुशा,#} 2. {#इन्दिरा; कार्त्तिकः,#}
-<div n="lb"/>1. {#बोधिनी,#} 2. {#रमा; मार्गशीर्षः,#} 1. {#मोक्षदा,#} 2. {#फलदा; पौषः,#} 1. {#प्रजाव-#}
-<div n="lb"/>{#र्धिनी,#} 2. {#सफला; माघः,#} 1. {#जयदा,#} 2. {#षट्तिला; फाल्गुनः,#} 1. {#आमलकी,#}
-<div n="lb"/>2. {#विजया#}. The {#एकादशी#} of the {#शुक्लपक्षः#} of the months {#आ-#}
-<div n="lb"/>{#षाढः#} and {#कार्त्तिकः#} are both particularly sacred. On the
-<div n="lb"/>first, or {#शयनैकादशी,#} Vishnu goes to sleep, and on the
-<div n="lb"/>second awakes. (Difference of solar and lunar days)
-<div n="lb"/>{#क्षयतिथिः#} {%f.;%} ‘inauspicious lunar day,’ {#घाततिथिः#} {%f.,%} {#दग्धति-#}
-<div n="lb"/>{#थिः#} {%f.;%} ‘observance of the fasts and rites of the several
-<div n="lb"/>lunar days,’ {#तिथिपालनं;#} ‘lunar eclipse,’ {#चन्द्रग्रहणं;#} ‘lunar
-<div n="lb"/>measurement,’ {#चान्द्रमानं;#} ‘the lunar dynasty,’ {#सोमवंशः#}. — 
-<div n="lb"/>(Resembling the moon). {%See%} LUNIFORM.
+LUNAR¦, LUNARY, {%a.%} {#चान्द्रः -न्द्री -न्द्रं, चान्द्रिकः -की -कं, चान्द्रमसः#}
+{#-सी -सं, चन्द्रसम्बन्धी -न्धिनी -न्धि (न्), सौम्यः -म्या -म्यं, सौमिकः#}
+{#-की -कं, ऐन्दवः -वी -वं;#} ‘lunar month,’ {#चान्द्रमासः;#} ‘lunar
+asterism or mansion,’ {#नक्षत्रं, दाक्षायिणी;#} ‘the twenty-seven
+lunar asterisms collectively,’ {#दाक्षायिण्यः#} {%f. pl.,%} {#नक्षत्रचक्रं;#}
+‘lunar day,’ {#तिथिः#} {%m. f.%} Of these lunar days there are
+fourteen for the waxing, and fourteen for the waning
+moon; the first lunar day is called {#प्रतिपद्#} {%f.,%} {#पक्षतिः -ती#} {%f.;%}
+the day of new moon is called {#अमावसी, अमावस्या, अमा;#}
+‘the day of full moon,’ {#पूर्णिमा, पौर्णिमा, पौर्णमासी, पूर्णेन्दुः#} {%m.%}
+The eleventh {#तिथि#} of each {#शुक्लपक्षः#} or waxing, and {#कृष्णपक्षः#}
+or waning moon, is regarded as sacred to Vishnu; and
+the following are the names given by Major Candy for
+the two {#एकादशी#} of each month: {#चैत्रः,#} 1. {#कामदा,#} 2. {#पापमोचनी;#}
+{#वैशाखः,#} 1. {#मोहिनी,#} 2. {#वरूथिनी; ज्येष्ठः,#} 1. {#निर्जला,#} 2. {#अपरा;#}
+{#आषाढः,#} 1. {#शयनी,#} 2. {#योगिनी; श्रावणः,#} 1. {#पुत्रदा,#} 2. {#कामिका; भाद्रः,#}
+1. {#परिवर्त्तिनी,#} 2. {#अजा; आश्विनः,#} 1. {#पाशाङ्कुशा,#} 2. {#इन्दिरा; कार्त्तिकः,#}
+1. {#बोधिनी,#} 2. {#रमा; मार्गशीर्षः,#} 1. {#मोक्षदा,#} 2. {#फलदा; पौषः,#} 1. {#प्रजाव-#}
+{#र्धिनी,#} 2. {#सफला; माघः,#} 1. {#जयदा,#} 2. {#षट्तिला; फाल्गुनः,#} 1. {#आमलकी,#}
+2. {#विजया#}. The {#एकादशी#} of the {#शुक्लपक्षः#} of the months {#आ-#}
+{#षाढः#} and {#कार्त्तिकः#} are both particularly sacred. On the
+first, or {#शयनैकादशी,#} Vishnu goes to sleep, and on the
+second awakes. (Difference of solar and lunar days)
+{#क्षयतिथिः#} {%f.;%} ‘inauspicious lunar day,’ {#घाततिथिः#} {%f.,%} {#दग्धति-#}
+{#थिः#} {%f.;%} ‘observance of the fasts and rites of the several
+lunar days,’ {#तिथिपालनं;#} ‘lunar eclipse,’ {#चन्द्रग्रहणं;#} ‘lunar
+measurement,’ {#चान्द्रमानं;#} ‘the lunar dynasty,’ {#सोमवंशः#}. — 
+(Resembling the moon). {%See%} LUNIFORM.
 <LEND>

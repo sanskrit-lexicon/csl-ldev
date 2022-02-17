@@ -1,3 +1,3 @@
 <L>11324<pc>355<k1>humidity<k2>humidity
-<div n="lb"/>{@HUMIDITY:@}¦ {#आर्द्रता:#} v. Moisture.
+{@HUMIDITY:@}¦ {#आर्द्रता:#} v. Moisture.
 <LEND>

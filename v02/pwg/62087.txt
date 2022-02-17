@@ -7,7 +7,7 @@
 <div n="2">— b) {%die Gefühle eines Freundes habend, - verrathend, wohlwollend, liebevoll%}: {#मैत्रो ब्राह्मण उच्यते#} 
 <ls>M. 2, 87. 6, 8. 11, 35.</ls> 
 <ls>BHAG. 12, 13.</ls> 
-<ls>MBH. 1, 3840. fg. 7865. 3, 10420. 5, 2449. 13, 1564.</ls> {#ब्राह्मणे दारुणं नास्ति मैत्रो ब्राह्मण उच्यते#} 
+<ls>MBH. 1, 3840. fg.</ls> <ls n="MBH. 1,">7865.</ls> <ls n="MBH.">3, 10420.</ls> <ls n="MBH.">5, 2449.</ls> <ls n="MBH.">13, 1564.</ls> {#ब्राह्मणे दारुणं नास्ति मैत्रो ब्राह्मण उच्यते#} 
 <ls>1877. 6657. 14, 1253.</ls> <ls>KĀM. NĪTIS. 4, 29. 15, 28.</ls> <ls>BHĀG. P. 3, 27, 8.</ls> <ls>MĀRK. P. 20, 20.</ls> {#मैत्रेणेक्षस्व चक्षुषा#} 
 <ls>R. 1, 52, 17 (53, 17 GORR.). 2, 92, 7.</ls> {#कथा#} 
 <ls>R. GORR. 2, 1, 6.</ls> {#मैत्रीं बुद्धिं समास्थाय#} 
@@ -29,7 +29,7 @@
 <div n="2">— c) (sc. {#संधि)#} Bez. {%eines best. auf Zuneigung gegründeten Bündnisses%} 
 <ls>Spr. 3820. 4511.</ls> 
 <div n="2">— d) Bez. des 
-<ls>12ten</ls> astrologischen <is>Yoga</is> 
+12ten astrologischen <is>Yoga</is> 
 <ls>As. Res. 9, 366.</ls> 
 <div n="2">— e) {%After%} (vgl. 3,d.) 
 <ls>KULL.</ls> zu <ls>M. 12,72.</ls> 
@@ -47,7 +47,7 @@
 <ls>HALĀY. 4, 21.</ls> 
 <ls>MBH. 13, 6659.</ls> {#दया मैत्री च भूतेषु#} 
 <ls>Spr. 1512. 2833. 4198.</ls> 
-<ls>KĀM. NĪTIS.1,22.3,22.4,38.</ls> <ls>YOGAS.1,33.3,24</ls> <ls>?(Verz. d. Oxf. H. 230,b). Lot. de la b. l. 300.</ls> {#अ°#} 
+<ls>KĀM. NĪTIS.1,22.3,22.4,38.</ls> <ls>YOGAS.1,33.3,24</ls> (<ls>Verz. d. Oxf. H. 230,b).</ls> <ls>Lot. de la b. l. 300.</ls> {#अ°#} 
 <ls>MBH. 14, 1000.</ls> {#नैषां दारेषु कुर्वीत मैत्रीम्#} 
 <ls>MBH. 4, 100.</ls> {#अवलिप्तेषु मूर्खेषु#} u. s. w. {#न मैत्रीमाचरेद्बुधः#} 
 <ls>5, 1495.</ls> <ls>MĀRK. P. 50, 65</ls> (wo {#मैत्री गृहे#} zu schreiben ist). {#यदि मैत्री स्थिता त्वयि#} {%wenn du freundschaftliche Gesinnung hegst%} 
@@ -65,7 +65,7 @@
 <ls>PRATĀPAR. 11,b,9.</ls> 
 <div n="2">— b) {%das Wohlwollen%} personificirt 
 <ls>MBH. 3, 199.</ls> {#क्षुभामैत्र्यौ निग्रहानुग्रहकर्त्र्यौ देवते#} 
-<ls>Schol.</ls> <ls>PRAB. 65, 3 u.s.w.</ls> eine Tochter <is>Dakṣa's</is> und Gattin <is>Dharma's</is> 
+<ls>Schol.</ls> <ls>PRAB. 65, 3</ls> u.s.w. eine Tochter <is>Dakṣa's</is> und Gattin <is>Dharma's</is> 
 <ls>BHĀG. P. 4, 1, 49.</ls> 
 <div n="2">— c) {%das%} <is>Nakṣatra</is> <is>Anurādhā</is> 
 <ls>H. 113.</ls> 
@@ -77,7 +77,7 @@
 <ls>Spr. 789</ls> (Conj.). {#नास्ति मैत्रं नरेन्द्रैश्च नास्ति मैत्रं खलैः सह । नास्ति मैत्रमबोधैश्च#} 
 <ls>4450.</ls> {#सुकरं सर्वथा मैत्रं दुष्करं प्रतिपालनम्#} 
 <ls>5234.</ls> {#सतां साप्तपदं मैत्रम्#} 
-<ls>BRAHMA-P.</ls> in <ls>LA. (II) 57, 12.</ls> <ls>PAÑCAT. II, 47.</ls> <ls>VOP. 23, 11.</ls> Am Ende eines <lex>adj.</lex> comp.: {#आरोपितमैत्रां ताम् (स्वभर्तरि)#} 
+<ls>BRAHMA-P. in LA. (II) 57, 12.</ls> <ls>PAÑCAT. II, 47.</ls> <ls>VOP. 23, 11.</ls> Am Ende eines <lex>adj.</lex> comp.: {#आरोपितमैत्रां ताम् (स्वभर्तरि)#} 
 <ls>MĀRK. P. 72, 13.</ls> 
 <div n="2">— b) {%das unter%} <is>Mitra</is> {%stehende%} <is>Nakṣatra</is> <is>Anurādhā</is> 
 <ls>WEBER, JYOT. 35.</ls> 

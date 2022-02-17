@@ -1,4 +1,4 @@
 <L>2295<pc>079<k1>boiler<k2>boiler
-<div n="lb"/>{@BOILER:@}¦ <div n="1">(1) {#स्थाली;#} </div><div n="1">(2) {#कटाहः;#} </div><div n="1">(3) {#पिठरः;#} </div><div n="1">(4)
-<div n="lb"/>{#उखा।#}</div>
+{@BOILER:@}¦ <div n="1">(1) {#स्थाली;#} </div><div n="1">(2) {#कटाहः;#} </div><div n="1">(3) {#पिठरः;#} </div><div n="1">(4)
+{#उखा।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>5914<pc>190<k1>descended<k2>descended
-<div n="lb"/>{@DESCENDED:@}¦ i. e. derived: <div n="1">(1) by a deriv., <div n="xe">{%d.%}
-<div n="lb"/>{%from Yadu:%}</div> <div n="xs">{#यादवः;#}</div> <div n="xe">{%d. from Puru:%}</div> <div n="xs">{#पौरवः;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#जातः#} ({#ता, तं#}) (=born: q. v.); </div><div n="1">(3) {#उद्भूतः#} ({#ता, #}
-<div n="lb"/>{# तं#}) (rare).</div>
+{@DESCENDED:@}¦ i. e. derived: <div n="1">(1) by a deriv., <div n="xe">{%d.%}
+{%from Yadu:%}</div> <div n="xs">{#यादवः;#}</div> <div n="xe">{%d. from Puru:%}</div> <div n="xs">{#पौरवः;#}</div> </div><div n="1">(2)
+{#जातः#} ({#ता, तं#}) (=born: q. v.); </div><div n="1">(3) {#उद्भूतः#} ({#ता, #}
+{# तं#}) (rare).</div>
 <LEND>

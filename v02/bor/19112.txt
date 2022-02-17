@@ -1,5 +1,5 @@
 <L>19112<pc>591<k1>resident<k2>resident
-<div n="lb"/>{@RESIDENT:@}¦ <div n="1">(1) by deriv., {%r. of this, that place:%}
-<div n="lb"/>{#इहत्य, तत्रत्य#} (f. {#त्या#}); </div><div n="1">(2) {#निवासिन्#} (f. {#नी#}): v.
-<div n="lb"/>Inhabitant.</div>
+{@RESIDENT:@}¦ <div n="1">(1) by deriv., {%r. of this, that place:%}
+{#इहत्य, तत्रत्य#} (f. {#त्या#}); </div><div n="1">(2) {#निवासिन्#} (f. {#नी#}): v.
+Inhabitant.</div>
 <LEND>

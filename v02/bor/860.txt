@@ -1,8 +1,8 @@
 <L>860<pc>030<k1>antipodes<k2>antipodes
-<div n="lb"/>{@ANTIPODES:@}¦ <div n="I">I The opposite part of the globe:
-<div n="lb"/>{#*प्रतिलोमम्; भूगोलस्याधोभागम्।#} </div><div n="I">II Those who
-<div n="lb"/>inhabit it: {#*प्रतिलोभा।#} Ph. <div n="xe">{%the a. and those who%}
-<div n="lb"/>{%live in other parts of the globe, live just as com-%}
-<div n="lb"/>{%fortably as we do here%}</div> <div n="xs">{#अनाकुलास्तिर्यगधः स्थिताश्च #}
-<div n="lb"/>{# तिष्ठन्ति ते तत्र वयं यथात्र,#}</div> S. s.</div>
+{@ANTIPODES:@}¦ <div n="I">I The opposite part of the globe:
+{#*प्रतिलोमम्; भूगोलस्याधोभागम्।#} </div><div n="I">II Those who
+inhabit it: {#*प्रतिलोभा।#} Ph. <div n="xe">{%the a. and those who%}
+{%live in other parts of the globe, live just as com-%}
+{%fortably as we do here%}</div> <div n="xs">{#अनाकुलास्तिर्यगधः स्थिताश्च #}
+{# तिष्ठन्ति ते तत्र वयं यथात्र,#}</div> S. s.</div>
 <LEND>

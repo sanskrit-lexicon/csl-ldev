@@ -17,8 +17,8 @@
 <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 150, 16. 510, 4.</ls> <ls>ĀŚV. GṚHY. 1, 24, 15.</ls> <ls>ŚĀRṄG. SAṂH. 2, 6, 1.</ls> <ls>SUŚR. 1, 32, 18. 158, 10. 2, 110, 13. 131, 15.</ls> {#विषमालोड्य पास्यामि#} 
 <ls>MBH. 4, 689.</ls> 
 <ls>R. 2, 48, 24.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 45, 30.</ls> {#गजालोडिततोय#} {%umgerührt, aufgerührt%} 
+
+<ls>R. GORR. 2, 45, 30.</ls> {#गजालोडिततोय#} {%umgerührt, aufgerührt%} 
 <ls>SUŚR. 2, 173, 20.</ls> {#मत्स्यजीविभिर्जालैस्तज्जलाशयमालोड्य#} (so die 
 v. l.) <ls>PAÑCAT. 78, 14.</ls> {#आलोडित = मथित#} 
 <ls>MED. t. 142.</ls> {%in Unordnung bringen, verwirren, in Unruhe versetzen%}: {#आलोडितान्घटान्#} 
@@ -66,10 +66,10 @@ v. l.) <ls>PAÑCAT. 78, 14.</ls> {#आलोडित = मथित#}
 <ls>R. 3, 15, 6. 21, 12. 5, 55, 2.</ls> 
 <ls>RĀJA-TAR. 8, 2845.</ls> {%hinundherbewegen%}: {#परं नयन्तीह विलोड्यमानं यथा प्लवं वायुरिवार्णवस्थम्#} 
 <ls>MBH. 12, 7515.</ls> {%umstürzen%}: {#पादाङ्गुष्ठेन शकटं क्रीडमानो व्यलोडयत्#} (so die neuere Ausg.) 
-<ls>HARIV. 9091. 3412.</ls> {%verwühlen, verwirren, in Unordnung bringen, in Aufregung versetzen%}: ({#नलिनीः#}) {#विलोड्यमानाः पश्येमाः करिभिः#} 
+<ls>HARIV. 9091.</ls> <ls n="HARIV.">3412.</ls> {%verwühlen, verwirren, in Unordnung bringen, in Aufregung versetzen%}: ({#नलिनीः#}) {#विलोड्यमानाः पश्येमाः करिभिः#} 
 <ls>MBH. 3, 11604.</ls> {#सैन्यम् - यथा मृगगणान्सिंहः - व्यलोडयत्#} 
 <ls>7, 3756. 8, 840.</ls> <ls>HARIV. 6957.</ls> {#धन्विनः#} 
-<ls>?9340. MBH. 12, 7511. RAGH. ed. Calc. 7, 56.</ls> 
+<ls n="HARIV.">9340.</ls> <ls>MBH. 12, 7511.</ls> <ls>RAGH. ed. Calc. 7, 56.</ls> 
 <div n="v">— Vgl. {#विलोडन#} .
 
 <div n="p">— {#अतिवि#} caus. {%umstürzen, verwüsten%}: {#यदुसदनमुपेन्द्रपालितं त्रिदिवमिवामररक्षितम् । प्रसभमतिविलोड्य को हरेत्#} 
@@ -80,6 +80,6 @@ u.s.w. <ls>MBH. 8, 1740.</ls>
 <ls>1, 1477.</ls> {#यत्र संलोडिता लुब्धैः प्रायशो धर्मसेतवः#} 
 <ls>12, 10595.</ls> {#तेन संलोड्यमानं तु पाण्डूनां तद्बलं महत्#} 
 <ls>6, 4292. 7, 5174. 6690. 6692. 7287. 9, 797.</ls> pass. {%zu Schanden werden%}: {#अश्वमेधसहस्रस्य फलं संलोड्यते#} 
-<ls>Spr. 271, v. l.</ls> <ls>?Th. III, S. 359.</ls> 
+<ls>Spr. 271, v. l.</ls> <ls>Th. III, S. 359.</ls> 
 <div n="v">— Vgl. {#संलोडन#} .
 <LEND>

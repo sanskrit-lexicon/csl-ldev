@@ -1,4 +1,4 @@
 <L>915<pc>032<k1>apothecary<k2>apothecary
-<div n="lb"/>{@APOTHECARY:@}¦ <div n="1">(1) {#*औषधकारः;#} </div><div n="1">(2) {#भिषज्#} (m)
-<div n="lb"/>( =physician, q. v.).</div>
+{@APOTHECARY:@}¦ <div n="1">(1) {#*औषधकारः;#} </div><div n="1">(2) {#भिषज्#} (m)
+( =physician, q. v.).</div>
 <LEND>

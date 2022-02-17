@@ -1,6 +1,6 @@
 <L>7334<pc>232<k1>election<k2>election
-<div n="lb"/>{@ELECTION:@}¦ <div n="I">I Choice: q. v. </div><div n="I">II For an
-<div n="lb"/>office: {#निर्वाचनम्#} (?). </div><div n="I">III The e. s: {#*निर्वाचन-#}
-<div n="lb"/>{#कार्याणि#} (n. pl.). </div><div n="I">IV Free will: {#इच्छा।#} </div><div n="I">V
-<div n="lb"/>Discernment: {#विवेकः।#}</div>
+{@ELECTION:@}¦ <div n="I">I Choice: q. v. </div><div n="I">II For an
+office: {#निर्वाचनम्#} (?). </div><div n="I">III The e. s: {#*निर्वाचन-#}
+{#कार्याणि#} (n. pl.). </div><div n="I">IV Free will: {#इच्छा।#} </div><div n="I">V
+Discernment: {#विवेकः।#}</div>
 <LEND>

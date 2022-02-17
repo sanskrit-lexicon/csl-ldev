@@ -1,4 +1,4 @@
 <L>14293<pc>439<k1>matriculate<k2>matriculate
-<div n="lb"/>{@MATRICULATE:@}¦ {#*प्रविशति#} ({#विश्,#} c. 6.), <div n="xe">{%m. d in%}
-<div n="lb"/>{%the London University:%}</div> <div n="xs">{#लण्डनविश्वविद्यालयं प्रविवेश।#}</div>
+{@MATRICULATE:@}¦ {#*प्रविशति#} ({#विश्,#} c. 6.), <div n="xe">{%m. d in%}
+{%the London University:%}</div> <div n="xs">{#लण्डनविश्वविद्यालयं प्रविवेश।#}</div>
 <LEND>

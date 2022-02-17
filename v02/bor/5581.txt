@@ -1,7 +1,7 @@
 <L>5581<pc>179<k1>declaration<k2>declaration
-<div n="lb"/>{@DECLARATION:@}¦ <div n="I">I Assertion, statement: q. v.
-<div n="lb"/>{#उक्तिः।#} </div><div n="I">II Announcement, proclamation:
-<div n="lb"/>q. v.: {#ख्यापनम्#} Ph.: {%the D. of Independence:%}
-<div n="lb"/>{#*स्वाधीनताख्यापनम्, -पत्रम्।#} </div><div n="I">IV In law: {#भाषा,#} K.
-<div n="lb"/>b.; {#भाषापदम्,#} Mi.</div>
+{@DECLARATION:@}¦ <div n="I">I Assertion, statement: q. v.
+{#उक्तिः।#} </div><div n="I">II Announcement, proclamation:
+q. v.: {#ख्यापनम्#} Ph.: {%the D. of Independence:%}
+{#*स्वाधीनताख्यापनम्, -पत्रम्।#} </div><div n="I">IV In law: {#भाषा,#} K.
+b.; {#भाषापदम्,#} Mi.</div>
 <LEND>

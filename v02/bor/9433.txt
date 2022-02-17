@@ -1,9 +1,9 @@
 <L>9433<pc>299<k1>friendship<k2>friendship
-<div n="lb"/>{@FRIENDSHIP:@}¦ <div n="1">(1) {#सख्यम्,#} <div n="xe">{%among the good, f. (is%}
-<div n="lb"/>{%produced) in seven words:%}</div> <div n="xs">{#सतां साप्तपदं सख्यम्,#}</div> Mah.;</div>
-<div n="lb"/><div n="1">(2) {#मित्रता#} <div n="xe">{%or%}</div> <div n="xs">{#मैत्री,#}</div> <div n="xe">{%to make f.:%}</div> <div n="xs">{#मैत्रीं करोति,#}</div> Ki.;
-<div n="lb"/>{%it is not proper (to form) f. with a stranger:%}
-<div n="lb"/>{#आगन्तुना सह मैत्री न युक्ता,#} H.; </div><div n="1">(3) {#सौहार्दम्#} <div n="xe">{%or%}</div> <div n="xs">{#सौहृदम्#}</div>
-<div n="lb"/><div n="xe">{%out of f. or from compassion towards me:%}</div> <div n="xs">{#सौहार्दाद्वा #}
-<div n="lb"/>{# मय्यनुक्रोशबुद्ध्या वा,#}</div> Me.; </div><div n="1">(4) {#बन्धुता।#}</div>
+{@FRIENDSHIP:@}¦ <div n="1">(1) {#सख्यम्,#} <div n="xe">{%among the good, f. (is%}
+{%produced) in seven words:%}</div> <div n="xs">{#सतां साप्तपदं सख्यम्,#}</div> Mah.;</div>
+<div n="1">(2) {#मित्रता#} <div n="xe">{%or%}</div> <div n="xs">{#मैत्री,#}</div> <div n="xe">{%to make f.:%}</div> <div n="xs">{#मैत्रीं करोति,#}</div> Ki.;
+{%it is not proper (to form) f. with a stranger:%}
+{#आगन्तुना सह मैत्री न युक्ता,#} H.; </div><div n="1">(3) {#सौहार्दम्#} <div n="xe">{%or%}</div> <div n="xs">{#सौहृदम्#}</div>
+<div n="xe">{%out of f. or from compassion towards me:%}</div> <div n="xs">{#सौहार्दाद्वा #}
+{# मय्यनुक्रोशबुद्ध्या वा,#}</div> Me.; </div><div n="1">(4) {#बन्धुता।#}</div>
 <LEND>

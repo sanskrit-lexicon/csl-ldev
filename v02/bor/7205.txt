@@ -1,7 +1,7 @@
 <L>7205<pc>229<k1>echo<k2>echo
-<div n="lb"/>{@ECHO@}¦ (subs.): <div n="1">(1) {#प्रतिशब्दः, -कः,#} <div n="xe">{%men follow royal%}
-<div n="lb"/>{%sayings like e. s:%}</div> <div n="xs">{#प्रतिशब्दक इव राजवचनमनुगच्छति #}
-<div n="lb"/>{# जनः,#}</div> K.; </div><div n="1">(2) {#प्रतिध्वनिः;#} </div><div n="1">(3) {#प्रतिस्वनः,#} <div n="xe">{%by its%}
-<div n="lb"/>{%e. in the cave:%}</div> <div n="xs">{#प्रतिस्वनेनास्य गुहागतेन,#}</div> R.; </div><div n="1">(4)
-<div n="lb"/>{#प्रतिनादः।#}</div>
+{@ECHO@}¦ (subs.): <div n="1">(1) {#प्रतिशब्दः, -कः,#} <div n="xe">{%men follow royal%}
+{%sayings like e. s:%}</div> <div n="xs">{#प्रतिशब्दक इव राजवचनमनुगच्छति #}
+{# जनः,#}</div> K.; </div><div n="1">(2) {#प्रतिध्वनिः;#} </div><div n="1">(3) {#प्रतिस्वनः,#} <div n="xe">{%by its%}
+{%e. in the cave:%}</div> <div n="xs">{#प्रतिस्वनेनास्य गुहागतेन,#}</div> R.; </div><div n="1">(4)
+{#प्रतिनादः।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>9486<pc>301<k1>frozen<k2>frozen
-<div n="lb"/>{@FROZEN:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#शिलीभूतः#} ({#ता, तं#}); </div><div n="1">(2)
-<div n="lb"/>{#घनः#} ({#ना, नं#}) (= thick), <div n="xe">{%f. dew:%}</div> <div n="xs">{#घननीहारः,#}</div> Ki.:
-<div n="lb"/>v. To freeze. </div><div n="I">II Chilly; </div><div n="1">(1) {#नितान्तशीतः#}
-<div n="lb"/>({#ता, तं#}); </div><div n="1">(2) {#हिमप्रधानः#} ({#ना, नं#}).</div>
+{@FROZEN:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#शिलीभूतः#} ({#ता, तं#}); </div><div n="1">(2)
+{#घनः#} ({#ना, नं#}) (= thick), <div n="xe">{%f. dew:%}</div> <div n="xs">{#घननीहारः,#}</div> Ki.:
+v. To freeze. </div><div n="I">II Chilly; </div><div n="1">(1) {#नितान्तशीतः#}
+({#ता, तं#}); </div><div n="1">(2) {#हिमप्रधानः#} ({#ना, नं#}).</div>
 <LEND>

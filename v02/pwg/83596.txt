@@ -8,7 +8,7 @@
 <ls>MED. y. 49.</ls> {#तनू#} 
 <ls>ŚAT. BR. 7, 4, 1, 16. 8, 7, 4, 8.</ls> 
 <ls>M. 7, 69.</ls> 
-<ls>MBH. 3, 1756. 2486. 2508. 2511. 2534. 2660. 15572. 4, 11. 12, 4662. 13390.</ls> 
+<ls>MBH. 3, 1756.</ls> <ls n="MBH. 3,">2486.</ls> <ls n="MBH. 3,">2508.</ls> <ls n="MBH. 3,">2511.</ls> <ls n="MBH. 3,">2534.</ls> <ls n="MBH. 3,">2660.</ls> <ls n="MBH. 3,">15572.</ls> <ls n="MBH.">4, 11.</ls> <ls n="MBH.">12, 4662.</ls> <ls n="MBH. 12,">13390.</ls> 
 <ls>R. 1, 1, 31. 5, 12. 19. 9, 54. 2, 32, 3. 43, 11. 46, 1. 3, 48, 7.</ls> 
 <ls>SUŚR. 1, 241, 7.</ls> 
 <ls>ṚT. 1, 1. 6, 2. 33.</ls> 
@@ -23,7 +23,7 @@
 <ls>RĀJA-TAR. 1, 4. 3, 175.</ls> 
 <ls>BHĀG. P. 1, 16, 35. 3, 33, 18.</ls> 
 <ls>MĀRK. P. 21, 2.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 52, 3.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 182, 22.</ls> <ls>PAÑCAT. 74, 21.</ls> <ls>VET.</ls> in <ls>LA. (III) 1, 13. 5, 6.</ls> {#अ°#} 
+<ls>BRAHMA-P. in LA. (III) 52, 3.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 182, 22.</ls> <ls>PAÑCAT. 74, 21.</ls> <ls>VET. in LA. (III) 1, 13. 5, 6.</ls> {#अ°#} 
 <ls>MĀLAV. 10.</ls> {#सु°#} 
 <ls>R. 2, 54, 41.</ls> {#रम्य = बलकर#} 
 <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> Vgl. {#रमणीय#} . 

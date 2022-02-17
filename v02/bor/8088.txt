@@ -1,6 +1,6 @@
 <L>8088<pc>256<k1>existence<k2>existence
-<div n="lb"/>{@EXISTENCE:@}¦ <div n="1">(1) {#अस्तित्वम्#} (as opposed to non-e.),
-<div n="lb"/><div n="xe">{%e. of God:%}</div> <div n="xs">{#ब्रह्मास्तित्वम्,#}</div> S.; </div><div n="1">(2) {#अवस्थानम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्थितिः#}</div>
-<div n="lb"/>(= continuance), <div n="xe">{%birth, e. and destruction:%}</div> <div n="xs">{#जन्म-#}
-<div n="lb"/>{#स्थितिनाशाः,#}</div> S.; </div><div n="1">(3) {#जीवनम्#} (= life: q. v.).</div>
+{@EXISTENCE:@}¦ <div n="1">(1) {#अस्तित्वम्#} (as opposed to non-e.),
+<div n="xe">{%e. of God:%}</div> <div n="xs">{#ब्रह्मास्तित्वम्,#}</div> S.; </div><div n="1">(2) {#अवस्थानम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्थितिः#}</div>
+(= continuance), <div n="xe">{%birth, e. and destruction:%}</div> <div n="xs">{#जन्म-#}
+{#स्थितिनाशाः,#}</div> S.; </div><div n="1">(3) {#जीवनम्#} (= life: q. v.).</div>
 <LEND>

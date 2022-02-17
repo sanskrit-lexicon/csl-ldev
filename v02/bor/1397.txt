@@ -1,13 +1,13 @@
 <L>1397<pc>049<k1>author<k2>author
-<div n="lb"/>{@AUTHOR:@}¦ <div n="I">I The writer of a book: </div><div n="1">(1) {#कारः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#कृत्#}</div> (in comp.), <div n="xe">{%a. of the commentary%}</div> <div n="xs">{#भाष्य-#}
-<div n="lb"/>{#कारः;#}</div> <div n="xe">{%the a. of the Mitākṣarā%}</div> <div n="xs">{#मिताक्षराकृत्,#}</div> Da.
-<div n="lb"/>com.; </div><div n="1">(2) {#ग्रन्थकारः#} <div n="xe">{%or%}</div> <div n="xs">{#-कर्ता#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-कृत्#}</div> (=a. of a
-<div n="lb"/>book and hence to be used when a. is used
-<div n="lb"/>abs.); </div><div n="1">(3) {#लेखकः;#} </div><div n="1">(4) {#रचकः#} <div n="xe">{%or%}</div> <div n="xs">{#रचयिता;#}</div> </div><div n="1">(5)
-<div n="lb"/>{#प्रणेता;#} </div><div n="1">(6) {#निबन्धृ#} (m.) (rare); </div><div n="1">(7) {#कृतिन्#} (m.)
-<div n="lb"/>(very rare). N. B. 3, 4, 5, and 6. are gen.
-<div n="lb"/>used with some defining word. </div><div n="I">II A [Page050]
-<div n="lb"/>maker, contriver, originator: q. v.: {#कर्ता,#}
-<div n="lb"/><div n="xe">{%a. of great wonders%}</div> <div n="xs">{#कर्ता महाश्चर्याणाम्,#}</div> K.</div>
+{@AUTHOR:@}¦ <div n="I">I The writer of a book: </div><div n="1">(1) {#कारः#}
+<div n="xe">{%or%}</div> <div n="xs">{#कृत्#}</div> (in comp.), <div n="xe">{%a. of the commentary%}</div> <div n="xs">{#भाष्य-#}
+{#कारः;#}</div> <div n="xe">{%the a. of the Mitākṣarā%}</div> <div n="xs">{#मिताक्षराकृत्,#}</div> Da.
+com.; </div><div n="1">(2) {#ग्रन्थकारः#} <div n="xe">{%or%}</div> <div n="xs">{#-कर्ता#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-कृत्#}</div> (=a. of a
+book and hence to be used when a. is used
+abs.); </div><div n="1">(3) {#लेखकः;#} </div><div n="1">(4) {#रचकः#} <div n="xe">{%or%}</div> <div n="xs">{#रचयिता;#}</div> </div><div n="1">(5)
+{#प्रणेता;#} </div><div n="1">(6) {#निबन्धृ#} (m.) (rare); </div><div n="1">(7) {#कृतिन्#} (m.)
+(very rare). N. B. 3, 4, 5, and 6. are gen.
+used with some defining word. </div><div n="I">II A [Page050]
+maker, contriver, originator: q. v.: {#कर्ता,#}
+<div n="xe">{%a. of great wonders%}</div> <div n="xs">{#कर्ता महाश्चर्याणाम्,#}</div> K.</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>131<pc>006<k1>accessible<k2>accessible
-<div n="lb"/>{@ACCESSIBLE:@}¦ <div n="I">I Of places: </div><div n="1">(1) {#गम्यः#} ({#म्या, #}
-<div n="lb"/>{# म्यं#}); </div><div n="1">(2) {#सुगमः#} ({#मा, मं#}). </div><div n="I">II Of persons:</div>
-<div n="lb"/><div n="1">(1) {#उपसर्पणीयः#} ({#या, यं#}). <div n="xe">{%Surely kings are a. only%}
-<div n="lb"/>{%at convenient times%}</div> <div n="xs">{#नन्ववसरोपसर्पणीया राजानः,#}</div> Sa.
-<div n="lb"/>vi.; </div><div n="1">(2) {#सुलभदर्शनः#} ({#ना, नं#}) (easily seen). Ph.:
-<div n="lb"/><div n="xe">{%not a. to bribe or sexual gratification%}</div> <div n="xs">{#न धन-#}
-<div n="lb"/>{#स्त्रीदानादिना भेद्यः:#}</div> K. b.</div>
+{@ACCESSIBLE:@}¦ <div n="I">I Of places: </div><div n="1">(1) {#गम्यः#} ({#म्या, #}
+{# म्यं#}); </div><div n="1">(2) {#सुगमः#} ({#मा, मं#}). </div><div n="I">II Of persons:</div>
+<div n="1">(1) {#उपसर्पणीयः#} ({#या, यं#}). <div n="xe">{%Surely kings are a. only%}
+{%at convenient times%}</div> <div n="xs">{#नन्ववसरोपसर्पणीया राजानः,#}</div> Sa.
+vi.; </div><div n="1">(2) {#सुलभदर्शनः#} ({#ना, नं#}) (easily seen). Ph.:
+<div n="xe">{%not a. to bribe or sexual gratification%}</div> <div n="xs">{#न धन-#}
+{#स्त्रीदानादिना भेद्यः:#}</div> K. b.</div>
 <LEND>

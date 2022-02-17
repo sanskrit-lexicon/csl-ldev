@@ -1,5 +1,5 @@
 <L>23<pc>001<k1>aberration<k2>aberration
-<div n="lb"/>{@ABERRATION:@}¦ <div n="1">(1) {#भ्रमः;#} </div><div n="1">(2) {#विभ्रमः;#} </div><div n="1">(3) {#उन्मार्ग-#}
-<div n="lb"/>{#गमनम्।#} Ph. <div n="xe">{%a. of mind%}</div> <div n="xs">{#मतिभ्रमः,#}</div> Sa. vi.: <div n="xe">{%a. of%}
-<div n="lb"/>{%light%}</div> <div n="xs">{#*तेजोभ्रान्तिः।#}</div></div>
+{@ABERRATION:@}¦ <div n="1">(1) {#भ्रमः;#} </div><div n="1">(2) {#विभ्रमः;#} </div><div n="1">(3) {#उन्मार्ग-#}
+{#गमनम्।#} Ph. <div n="xe">{%a. of mind%}</div> <div n="xs">{#मतिभ्रमः,#}</div> Sa. vi.: <div n="xe">{%a. of%}
+{%light%}</div> <div n="xs">{#*तेजोभ्रान्तिः।#}</div></div>
 <LEND>

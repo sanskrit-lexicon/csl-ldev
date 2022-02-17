@@ -1,15 +1,15 @@
 <L>15307<pc>469<k1>neck<k2>neck
-<div n="lb"/>{@NECK:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#ग्रीवा,#} <div n="xe">{%long n.ed:%}</div> <div n="xs">{#दीर्घग्रीव#}</div>
-<div n="lb"/>(f. {#वा#}), U.; <div n="xe">{%with the n. turned up:%}</div> <div n="xs">{#उद्ग्रीव#}</div>
-<div n="lb"/>(f. {#वा#}), Ki. vii. 22.; </div><div n="1">(2) {#गलः,#} <div n="xe">{%putting his%}
-<div n="lb"/>{%feet on our n.s:%}</div> <div n="xs">{#कृत्वा पदं नो गले,#}</div> Mu. iii.; {%who%}
-<div n="lb"/>{%will seize him by the n.%} ({%and turn him out%}): {#य #}
-<div n="lb"/>{# एनं गलहस्तयति,#} H. iii. <div n="xe">{%or%}</div> <div n="xs">{#अर्द्धचन्द्रं दत्त्वा निःसारयति,#}</div>
-<div n="lb"/>P. i. 3.; </div><div n="1">(3) {#कणठः#} (= throat), <div n="xe">{%like a medal%}
-<div n="lb"/>{%on his n.:%}</div> <div n="xs">{#अस्य कण्ठे निष्कमिव,#}</div> Ku. ii. 49.;</div>
-<div n="lb"/><div n="1">(4) {#कन्धरा#} (rare); </div><div n="1">(5) {#शिरोधरा#} (poet.). </div><div n="I">II Of a
-<div n="lb"/>vessel: {#गलः।#} </div><div n="I">III Of land: {#भूमागः।#} <div n="xe">{%N.%}
-<div n="lb"/>{%break:%}</div> <div n="xs">{#गलग्रहः;#}</div> {%N. and crop:%} v. Completely,
-<div n="lb"/>utterly. <div n="xe">{%On the n. of:%}</div> <div n="xs">{#उपकण्ठम्#}</div> (with gen.):
-<div n="lb"/>v. After.</div>
+{@NECK:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#ग्रीवा,#} <div n="xe">{%long n.ed:%}</div> <div n="xs">{#दीर्घग्रीव#}</div>
+(f. {#वा#}), U.; <div n="xe">{%with the n. turned up:%}</div> <div n="xs">{#उद्ग्रीव#}</div>
+(f. {#वा#}), Ki. vii. 22.; </div><div n="1">(2) {#गलः,#} <div n="xe">{%putting his%}
+{%feet on our n.s:%}</div> <div n="xs">{#कृत्वा पदं नो गले,#}</div> Mu. iii.; {%who%}
+{%will seize him by the n.%} ({%and turn him out%}): {#य #}
+{# एनं गलहस्तयति,#} H. iii. <div n="xe">{%or%}</div> <div n="xs">{#अर्द्धचन्द्रं दत्त्वा निःसारयति,#}</div>
+P. i. 3.; </div><div n="1">(3) {#कणठः#} (= throat), <div n="xe">{%like a medal%}
+{%on his n.:%}</div> <div n="xs">{#अस्य कण्ठे निष्कमिव,#}</div> Ku. ii. 49.;</div>
+<div n="1">(4) {#कन्धरा#} (rare); </div><div n="1">(5) {#शिरोधरा#} (poet.). </div><div n="I">II Of a
+vessel: {#गलः।#} </div><div n="I">III Of land: {#भूमागः।#} <div n="xe">{%N.%}
+{%break:%}</div> <div n="xs">{#गलग्रहः;#}</div> {%N. and crop:%} v. Completely,
+utterly. <div n="xe">{%On the n. of:%}</div> <div n="xs">{#उपकण्ठम्#}</div> (with gen.):
+v. After.</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>171002<pc>849,1<k1>यस्<k2>यस्<e>1
-<s>यस्</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 101</ls>) <s>य/स्यति</s> (rarely <s>यसति</s> <ab>cf.</ab> <ls>Pāṇ. 3-1, 71</ls>; <ab>Impv.</ab> <s>-ययस्तु</s>, <ls>RV.</ls>; <ab>Gr.</ab> also <ab>pf.</ab> <s>ययास</s>; <ab>aor.</ab> <s>अयसत्</s>; <ab>fut.</ab> <s>यसिता</s>, <s>यसिष्यति</s>; <ab>inf.</ab> <s>यसितुम्</s>; <ab>ind.p.</ab> <s>यसित्वा</s>, or <s>यस्त्वा</s>), 
+<s>यस्</s> ¦ <ab>cl.</ab> 4. <ab>P.</ab> (<ls>Dhātup. xxvi, 101</ls>) <s>य/स्यति</s> (rarely <s>यसति</s> <ab>cf.</ab> <ls>Pāṇ. iii, 1, 71</ls>; <ab>Impv.</ab> <s>-ययस्तु</s>, <ls>RV.</ls>; <ab>Gr.</ab> also <ab>pf.</ab> <s>ययास</s>; <ab>aor.</ab> <s>अयसत्</s>; <ab>fut.</ab> <s>यसिता</s>, <s>यसिष्यति</s>; <ab>inf.</ab> <s>यसितुम्</s>; <ab>ind.p.</ab> <s>यसित्वा</s>, or <s>यस्त्वा</s>), 
 <div n="to"/>to froth up, foam, <ls>RV.</ls> (<ab>cf.</ab> √ <s>येष्</s>);
 <div n="to"/>to heat or exert one's self, <ls>Car.</ls>;
 <div n="to"/>to strive after (<ab>dat.</ab>), <ls>Kāvyâd. ii, 83</ls> (<ab>v.l.</ab>) :
 <div n="vp"/><ab>Caus.</ab> <s>यासयति</s> (<ab>aor.</ab> <s>अयीयसत्</s>) <ab>Gr.</ab>:
 <div n="vp"/><ab>Desid.</ab> <s>यियसिषति</s>, <ls>ib.</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>यायस्यते</s>, <s>यायस्ति</s>, <ls>ib.</ls> [Ct. <ab>Gk.</ab> <lang n="greek">ζέω</lang> &c.]<info westergaard="yasu,26.101,04.0109"/><info whitneyroots="yas,130"/><info verb="genuineroot" cp="4P"/>
+<div n="vp"/><ab>Intens.</ab> <s>यायस्यते</s>, <s>यायस्ति</s>, <ls>ib.</ls> [<ab>Cf.</ab> <ab>Gk.</ab> <lang n="greek">ζέω</lang> &c.]<info westergaard="yasu,26.101,04.0109"/><info whitneyroots="yas,130"/><info verb="genuineroot" cp="4P"/>
 <LEND>

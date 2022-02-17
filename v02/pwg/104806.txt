@@ -16,9 +16,9 @@
 <ls>HALĀY. 2, 304.</ls> 
 <ls>AIT. BR. 7, 14.</ls> 
 <ls>ŚĀṄKH. ŚR. 15, 18, 26. 28.</ls> 
-<ls>MBH. 2, 2520. 3, 664. 14372. 15068. 14, 2365.</ls> 
+<ls>MBH. 2, 2520.</ls> <ls n="MBH.">3, 664.</ls> <ls n="MBH. 3,">14372.</ls> <ls n="MBH. 3,">15068.</ls> <ls n="MBH.">14, 2365.</ls> 
 <ls>HARIV. 9290.</ls> {#संनाहादिधारण#} 
-<ls>Verz. d. Oxf. H. 86</ls>, {%b%}, 
+<ls>Verz. d. Oxf. H. 86,b,</ls> 
 <ls>23.</ls> {#काञ्चन°#} <lex>adj.</lex> 
 <ls>R. 6, 19, 5.</ls> {#रुक्म°#} <lex>adj.</lex> 
 <ls>BHĀG. P. 9, 10, 37.</ls> {#दिव्यस्रग्वस्त्र°#} <lex>adj.</lex> 

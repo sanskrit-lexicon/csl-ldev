@@ -1,4 +1,4 @@
 <L>1707<pc>059<k1>battle-axe<k2>battle-axe
-<div n="lb"/>{@BATTLE-AXE:@}¦ <div n="1">(1) {#परशुः;#} </div><div n="1">(2) {#परश्वधः।#} {%Armed%}
-<div n="lb"/>{%with b.%} </div><div n="1">(1) {#परशुधरः;#} </div><div n="1">(2) {#पारश्चधिक।#}</div>
+{@BATTLE-AXE:@}¦ <div n="1">(1) {#परशुः;#} </div><div n="1">(2) {#परश्वधः।#} {%Armed%}
+{%with b.%} </div><div n="1">(1) {#परशुधरः;#} </div><div n="1">(2) {#पारश्चधिक।#}</div>
 <LEND>

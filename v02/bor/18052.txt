@@ -1,15 +1,15 @@
 <L>18052<pc>553<k1>prove<k2>prove
-<div n="lb"/>{@PROVE@}¦ (v. t.): <div n="I">I To test: q. v.: {#परीक्षते#} ({#ईक्ष्,#}
-<div n="lb"/>c. 1.). </div><div n="I">II To establish: q. v.: </div><div n="1">(1) {#प्रतिपादयति#}
-<div n="lb"/>(c. of {#पद्#}), <div n="xe">{%in the first chapter, we have p. d%}
-<div n="lb"/>{%that He is the soul of all us:%}</div> <div n="xs">{#प्रथमेऽध्याये स एव #}
-<div n="lb"/>{# सर्वेषां न आत्मैतत् प्रतिपादितम्,#}</div> S. ii. 1.; </div><div n="1">(2) {#साधयति#}
-<div n="lb"/>(c. of {#सिध्#}), {%a thing may be p. d without%}
-<div n="lb"/>({%regular%}) <div n="xe">{%proof:%}</div> <div n="xs">{#असतापि प्रमाणेन वस्तु सुध्यति,#}</div>
-<div n="lb"/>S. p. b.; </div><div n="1">(3) {#वि-भावयति#} (c. l. of {#भू#} rare), <div n="xe">{%and%}
-<div n="lb"/>{%does not p. what he asserts:%}</div> <div n="xs">{#उक्तञ्च न विभावयेत्,#}</div>
-<div n="lb"/>M. viii. 56.: v. Also to shew. </div><div n="I">III To
-<div n="lb"/>verify: {#प्रमाणयति#} (nomi.), <div n="xe">{%p. ing what Yudhiṣ-%}
-<div n="lb"/>{%ṭhira said:%}</div> <div n="xs">{#प्रमाणयन् वाक्यमजातशत्रोः,#}</div> Ki. iii. 24.</div>
-<div n="lb"/><div n="I">IV To suffer: q. v.: {#सहते#} ({#सह्,#} c. 1.).</div>
+{@PROVE@}¦ (v. t.): <div n="I">I To test: q. v.: {#परीक्षते#} ({#ईक्ष्,#}
+c. 1.). </div><div n="I">II To establish: q. v.: </div><div n="1">(1) {#प्रतिपादयति#}
+(c. of {#पद्#}), <div n="xe">{%in the first chapter, we have p. d%}
+{%that He is the soul of all us:%}</div> <div n="xs">{#प्रथमेऽध्याये स एव #}
+{# सर्वेषां न आत्मैतत् प्रतिपादितम्,#}</div> S. ii. 1.; </div><div n="1">(2) {#साधयति#}
+(c. of {#सिध्#}), {%a thing may be p. d without%}
+({%regular%}) <div n="xe">{%proof:%}</div> <div n="xs">{#असतापि प्रमाणेन वस्तु सुध्यति,#}</div>
+S. p. b.; </div><div n="1">(3) {#वि-भावयति#} (c. l. of {#भू#} rare), <div n="xe">{%and%}
+{%does not p. what he asserts:%}</div> <div n="xs">{#उक्तञ्च न विभावयेत्,#}</div>
+M. viii. 56.: v. Also to shew. </div><div n="I">III To
+verify: {#प्रमाणयति#} (nomi.), <div n="xe">{%p. ing what Yudhiṣ-%}
+{%ṭhira said:%}</div> <div n="xs">{#प्रमाणयन् वाक्यमजातशत्रोः,#}</div> Ki. iii. 24.</div>
+<div n="I">IV To suffer: q. v.: {#सहते#} ({#सह्,#} c. 1.).</div>
 <LEND>

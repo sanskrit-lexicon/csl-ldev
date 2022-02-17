@@ -19,8 +19,8 @@
 <ls>SŪRYAS. 12, 2.</ls> {#ग्रासप्रमाणा भिक्षा#} 
 <ls>MĀRK. P. 29, 35.</ls> {#वृषभमतिप्रमाणम्#} 
 <ls>MBH. 1, 761.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 29, 8.</ls> 
+
+<ls>R. GORR. 1, 29, 8.</ls> 
 <ls>KATHĀS. 11, 44.</ls> {#कटिश्च तस्यातिकृतप्रमाणा#} 
 <ls>MBH. 3, 10054.</ls> {#केशान्तिको ब्राह्मणस्य दण्डः कार्यः प्रमाणतः#} 
 <ls>M. 2, 46.</ls> 
@@ -42,7 +42,7 @@
 <ls>ṚV. PRĀT. 17, 1.</ls> {%die prosodische Länge eines Vocals%} 
 <ls>P. 1, 1, 50,</ls> 
 <ls>Sch.</ls> {#प्रमाणे ऽथ लयस्थाने किंनराः कृतनिश्रमाः#} 
-<ls>MBH. 2, 132. 138</ls> (wo {#°निश्रमः#} st. {#°निश्चयः#} zu lesen ist). {#पाठे गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम् (= द्रुत, मध्य, विलम्बित#} 
+<ls>MBH. 2, 132.</ls> <ls n="MBH. 2,">138</ls> (wo {#°निश्रमः#} st. {#°निश्चयः#} zu lesen ist). {#पाठे गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम् (= द्रुत, मध्य, विलम्बित#} 
 <ls>Schol.</ls>) <ls>R. 1, 4, 6 (3, 44 GORR.).</ls> {#नहि कश्चित्प्रमाणं ते रत्नानां वेत्स्यते नरः#} {%Menge%} 
 <ls>HARIV. 9733.</ls> 
 <ls>VARĀH. BṚH. S. 23, 2.</ls> 
@@ -59,8 +59,8 @@
 <ls>LĀṬY. 6, 1, 11. 8, 1, 12. 10, 16, 13.</ls> 
 <ls>KAUŚ. 141.</ls> {#धर्मं जिज्ञासमानानां प्रमाणं परमं श्रुतिः#} 
 <ls>M. 2, 13.</ls> {#आत्मौपम्येन पुरुषः प्रमाणमधिगच्छति#} 
-<ls>Spr. 1849</ls> <ls>?(= MBH. 13, 5572).</ls> {#स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते#} 
-<ls>BHAG. 3, 21</ls> <ls>?(BHĀG. P. 6, 2, 4). 16, 24. Spr. 2104.</ls> {#जन्मतस्तु प्रमाणेन ज्येष्ठो राजा युधिष्ठिरः#} 
+<ls>Spr. 1849</ls> (= <ls>MBH. 13, 5572</ls>). {#स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते#} 
+<ls>BHAG. 3, 21</ls> (<ls>BHĀG. P. 6, 2, 4</ls>). <ls>16, 24.</ls> <ls>Spr. 2104.</ls> {#जन्मतस्तु प्रमाणेन ज्येष्ठो राजा युधिष्ठिरः#} 
 <ls>MBH. 1, 4506.</ls> 
 <ls>P. 1, 2, 55.</ls> 
 <ls>HARIV. 8468. fg.</ls> 
@@ -78,7 +78,7 @@
 <ls>ŚĀK. 61, 8.</ls> 
 <ls>PAÑCAT. 25, 12.</ls> 
 <ls>HIT. 8, 13.</ls> {#प्रमाणदृष्टो धर्मो ऽयम्#} {%von Autoritäten anerkannt%} 
-<ls>MBH. 1, 4722. 4572.</ls> {#पाशैस्त्वमेव मोक्तुं च प्रमाणम्#} so v. a. {%du bist berechtigt%} 
+<ls>MBH. 1, 4722.</ls> <ls n="MBH. 1,">4572.</ls> {#पाशैस्त्वमेव मोक्तुं च प्रमाणम्#} so v. a. {%du bist berechtigt%} 
 <ls>HARIV. 8109.</ls> {#स्त्रीप्रमाणाः कुटुम्बिनः#} {%nach den Weibern sich richtend%} 
 <ls>P. 5, 4, 116,</ls> 
 <ls>Sch.</ls> {#प्रमाणभूत#} Beiw. <is>Śiva's</is> 
@@ -92,7 +92,7 @@
 <div n="1">— 3) <lex>n.</lex> {%Mittel zu richtigem Wissen, Erkenntnissmittel, Beweismittel%}; = {#शास्त्र#} und {#हेतु#} 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>COLEBR. Misc. Ess. I, 266. 302.</ls> <ls>YOGAS. 1, 6. 7.</ls> <ls>KAP. 1, 89. 103.</ls> <ls>JAIM. 1, 5.</ls> <ls>SĀṂKHYAK. 4.</ls> <ls>TATTVAS. 48.</ls> <ls>TARKAS. 27. 48.</ls> {#°कुशल#} 
 <ls>KAP. 1, 4.</ls> {#°दृष्ट#} 
-<ls>?2, 25. YĀJÑ. 2, 22. Spr. 2182. 2389. MBH. 3, 2803. PRAB. 27, 19. MADHUS. in Ind. St. 1, 18, 6 v. u. SĀH. D. 35. 57. P. 8, 2, 97, Sch. WASSILYEW 330</ls> ({%Logik%}). 
+<ls>2, 25.</ls> <ls>YĀJÑ. 2, 22.</ls> <ls>Spr. 2182. 2389.</ls> <ls>MBH. 3, 2803.</ls> <ls>PRAB. 27, 19.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 6</ls> v. u. <ls>SĀH. D. 35. 57.</ls> <ls>P. 8, 2, 97, Sch.</ls> <ls>WASSILYEW 330</ls> ({%Logik%}). 
 <div n="1">— 4) <lex>n.</lex> {%richtiger Begriff%}, = {#प्रमा#} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#अग्निना सिञ्चेदिति न प्रमाणं योग्यताविरहात्#} 
 <ls>TARKAS. 51.</ls> 
@@ -100,7 +100,7 @@
 <ls>HARIV. 5680.</ls> {#अतिदुर्वृत्ते दुर्मेधे केकयकुलपांसनि । वञ्चयित्वा तु राजानं सप्रमाणेव तिष्ठसे ॥#} 
 <ls>R. 2, 37, 21.</ls> {#सप्रमाणम्#} adv. 
 <ls>DHŪRTAS. 94, 12.</ls> {#प्रमाणकोट्याम्#} {%in der grössten Unbefangenheit, nichts Schlimmes ahnend%} 
-<ls>MBH. 1, 2241. 4996. 3, 542. 8, 4251. 9, 3149.</ls> 
+<ls>MBH. 1, 2241.</ls> <ls n="MBH. 1,">4996.</ls> <ls n="MBH.">3, 542.</ls> <ls n="MBH.">8, 4251.</ls> <ls n="MBH.">9, 3149.</ls> 
 <div n="1">— 6) {%das erste Glied in der Regel de tri%} 
 <ls>COLEBR. Alg. 33.</ls> 
 <div n="1">— 7) {%Kapital%} (Gegens. {%Zinsen%}) 

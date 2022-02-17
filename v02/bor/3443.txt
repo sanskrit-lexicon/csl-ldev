@@ -1,7 +1,7 @@
 <L>3443<pc>114<k1>chapter<k2>chapter
-<div n="lb"/>{@CHAPTER:@}¦ <div n="I">I A division of a book: </div><div n="1">(1)
-<div n="lb"/>{#अध्यायः;#} </div><div n="1">(2) {#परिच्छेदः#} (=section); </div><div n="1">(3) {#उच्छ्वासः#}
-<div n="lb"/>(rare). </div><div n="I">II A body of canons {#*केननसम्प्रदायः;#}
-<div n="lb"/>{#धर्मोपासकाः#} (m. pl.). </div><div n="I">III Their meeting:
-<div n="lb"/>{#केननसभा।#}</div>
+{@CHAPTER:@}¦ <div n="I">I A division of a book: </div><div n="1">(1)
+{#अध्यायः;#} </div><div n="1">(2) {#परिच्छेदः#} (=section); </div><div n="1">(3) {#उच्छ्वासः#}
+(rare). </div><div n="I">II A body of canons {#*केननसम्प्रदायः;#}
+{#धर्मोपासकाः#} (m. pl.). </div><div n="I">III Their meeting:
+{#केननसभा।#}</div>
 <LEND>

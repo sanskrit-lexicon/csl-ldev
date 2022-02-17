@@ -1,8 +1,8 @@
 <L>6258<pc>201<k1>disappoint<k2>disappoint
-<div n="lb"/>{@DISAPPOINT:@}¦ Ph.: <div n="xe">{%I am d. ed in you:%}</div> <div n="xs">{#तय्यहं #}
-<div n="lb"/>{# भग्नाशः;#}</div> <div n="xe">{%d. ed in love:%}</div> <div n="xs">{#खण्डितप्रणयः#}</div> ({#या, यं#}); <div n="xe">{%do%}
-<div n="lb"/>{%not d. him:%}</div> <div n="xs">{#नास्याशां विफलां कुरु;#}</div> <div n="xe">{%better to be d. ed%}
-<div n="lb"/>{%in an application to a great man:%}</div> <div n="xs">{#याच्ञा मोघा वर-#}
-<div n="lb"/>{#मधिगुणे,#}</div> Me.; <div n="xe">{%d. ed by Śiva.%}</div> <div n="xs">{#शम्भुना विफलीकृतयत्नः,#}</div>
-<div n="lb"/>Ki.
+{@DISAPPOINT:@}¦ Ph.: <div n="xe">{%I am d. ed in you:%}</div> <div n="xs">{#तय्यहं #}
+{# भग्नाशः;#}</div> <div n="xe">{%d. ed in love:%}</div> <div n="xs">{#खण्डितप्रणयः#}</div> ({#या, यं#}); <div n="xe">{%do%}
+{%not d. him:%}</div> <div n="xs">{#नास्याशां विफलां कुरु;#}</div> <div n="xe">{%better to be d. ed%}
+{%in an application to a great man:%}</div> <div n="xs">{#याच्ञा मोघा वर-#}
+{#मधिगुणे,#}</div> Me.; <div n="xe">{%d. ed by Śiva.%}</div> <div n="xs">{#शम्भुना विफलीकृतयत्नः,#}</div>
+Ki.
 <LEND>

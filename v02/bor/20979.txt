@@ -1,6 +1,6 @@
 <L>20979<pc>660<k1>solstice<k2>solstice
-<div n="lb"/>{@SOLSTICE:@}¦ <div n="1">(1) {#अयनान्तः,#} Su. xii. 51.; </div><div n="1">(2) {#अयन-#}
-<div n="lb"/>{#सन्धिः,#} com.; </div><div n="1">(3) {#अयनम्#} ({#अयने दक्षिणोत्तरायणसन्धौ,#}
-<div n="lb"/>com. Su. iii. 11.). <div n="xe">{%The summer s.:%}</div> <div n="xs">{#कर्कटसंक्रान्तिः;#}</div>
-<div n="lb"/><div n="xe">{%the winter s.:%}</div> <div n="xs">{#मकरसंक्रान्तिः,#}</div> Su. xiv. 9.</div>
+{@SOLSTICE:@}¦ <div n="1">(1) {#अयनान्तः,#} Su. xii. 51.; </div><div n="1">(2) {#अयन-#}
+{#सन्धिः,#} com.; </div><div n="1">(3) {#अयनम्#} ({#अयने दक्षिणोत्तरायणसन्धौ,#}
+com. Su. iii. 11.). <div n="xe">{%The summer s.:%}</div> <div n="xs">{#कर्कटसंक्रान्तिः;#}</div>
+<div n="xe">{%the winter s.:%}</div> <div n="xs">{#मकरसंक्रान्तिः,#}</div> Su. xiv. 9.</div>
 <LEND>

@@ -14,17 +14,17 @@
 <ls>AV. 5, 18, 7.</ls> {#येन स्वादु चास्वादु च विजानाति#} 
 <ls>AIT. BR. 5, 22.</ls> 
 <ls>VS. 19, 1.</ls> 
-<ls>MBH. 2, 1861. 3, 2535.</ls> 
+<ls>MBH. 2, 1861.</ls> <ls n="MBH.">3, 2535.</ls> 
 <ls>HARIV. 11143</ls> (pl. {%Süsses%}). 
 <ls>R. 1, 4, 18. 9, 35. 2, 80, 15. 97, 2. 3, 63, 18.</ls> 
 <ls>SUŚR. 1, 173, 11. 190, 9.</ls> 
-<ls>Spr. (II) 1391. 1649. 1705. 4047. 6314. 7359.</ls> 
+<ls>Spr. (II) 1391.</ls> <ls n="Spr. (II)">1649.</ls> <ls n="Spr. (II)">1705.</ls> <ls n="Spr. (II)">4047.</ls> <ls n="Spr. (II)">6314.</ls> <ls n="Spr. (II)">7359.</ls> 
 <ls>VARĀH. BṚH. S. 45, 7. 51, 2. 54, 9. 14. 34. 67.</ls> 
-<ls>GOLĀDHY.</ls> <ls>BHUVANAK. 23.</ls> <ls>KATHĀS. 20, 200. 21, 51. 61, 40.</ls> <ls>RĀJA-TAR. 1, 203. 217</ls> (vom Folgenden zu trennen). 
+<ls>GOLĀDHY. BHUVANAK. 23.</ls> <ls>KATHĀS. 20, 200. 21, 51. 61, 40.</ls> <ls>RĀJA-TAR. 1, 203. 217</ls> (vom Folgenden zu trennen). 
 <ls>BHĀG. P. 9, 4, 34.</ls> 
 <ls>HIT. 35, 11.</ls> {%süss%} als {%Geschmack%} ({#रस#}; gewöhnlich {#मधुर#}) 
 <ls>R. 1, 53, 4.</ls> 
-<ls>VĀGBH. 1, 10, 2.</ls> <ls>H. 1388.</ls> Uebertragen (=  {#इष्ट, सुन्दर, मनोज्ञ#}) 
+<ls>VĀGBH. 1, 10, 2.</ls> <ls>H. 1388.</ls> Uebertragen (= {#इष्ट, सुन्दर, मनोज्ञ#}) 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#वच^ः स्वा\दोः स्वादी^यः#} 
 <ls>ṚV. 1, 114, 6.</ls> {#स्वा\दु स\ख्यं स्वा\द्वी प्र^णीतिः#} 
 <ls n="ṚV.">8, 57, 11.</ls> <ls>ŚĀK. 108, 15.</ls> <ls>Spr. (II) 1537.</ls> <ls>BHĀG. P. 1, 1, 19.</ls> compar. 
@@ -53,5 +53,5 @@ u.s.w. <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls>
 <div n="1">— 4) 
 n. <ls>SIDDH. K. 248,b,12.</ls> {%Wohlgeschmack, Süsse%}: {#°युक्त#} so v. a. {%wohlschmeckend%} 
 <ls>MEGH. 25.</ls> {#कविः करोति काव्यानि स्वादु जानाति पण्डितः#} so v. a. {%Reiz%} 
-<ls>Spr. (II) 1584. -</ls> <ls>MAITRYUP. 6, 10</ls> wohl fehlerhaft für {#स्वाद#} .
+<ls>Spr. (II) 1584.</ls> -- <ls>MAITRYUP. 6, 10</ls> wohl fehlerhaft für {#स्वाद#} .
 <LEND>

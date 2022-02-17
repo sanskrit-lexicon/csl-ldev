@@ -1,4 +1,4 @@
 <L>15234<pc>466<k1>narrative<k2>narrative
-<div n="lb"/>{@NARRATIVE@}¦ (subs.): <div n="1">(1) {#कथा#} (= story); </div><div n="1">(2)
-<div n="lb"/>{#वर्णना#} (= description).</div>
+{@NARRATIVE@}¦ (subs.): <div n="1">(1) {#कथा#} (= story); </div><div n="1">(2)
+{#वर्णना#} (= description).</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>1952<pc>068<k1>besides<k2>besides
-<div n="lb"/>{@BESIDES@}¦ (prep.): <div n="1">(1) by a comp. with {#भिन्नः#}
-<div n="lb"/>({#न्ना, न्नं#}) <div n="xe">{%or%}</div> <div n="xs">{#व्यतिरिक्तः#}</div> ({#क्ता, क्तं#}) <div n="xe">{%b. this, another%}
-<div n="lb"/>{%misfortune has befallen us%}</div> <div n="xs">{#एतद्भिन्नं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#एतद्-#}
-<div n="lb"/>{#व्यतिरिक्तं व्यसनमपरमस्माकमापतितम्;#}</div> </div><div n="1">(2) {#विहाय, #}
-<div n="lb"/>{# अपहाय,#} etc. (with acc.), <div n="xe">{%I have no other friend%}
-<div n="lb"/>{%b. you%}</div> <div n="xs">{#त्वामपहाय ममापरो बन्धुर्नास्ति।#}</div></div>
+{@BESIDES@}¦ (prep.): <div n="1">(1) by a comp. with {#भिन्नः#}
+({#न्ना, न्नं#}) <div n="xe">{%or%}</div> <div n="xs">{#व्यतिरिक्तः#}</div> ({#क्ता, क्तं#}) <div n="xe">{%b. this, another%}
+{%misfortune has befallen us%}</div> <div n="xs">{#एतद्भिन्नं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#एतद्-#}
+{#व्यतिरिक्तं व्यसनमपरमस्माकमापतितम्;#}</div> </div><div n="1">(2) {#विहाय, #}
+{# अपहाय,#} etc. (with acc.), <div n="xe">{%I have no other friend%}
+{%b. you%}</div> <div n="xs">{#त्वामपहाय ममापरो बन्धुर्नास्ति।#}</div></div>
 <LEND>

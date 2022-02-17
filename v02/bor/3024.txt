@@ -1,4 +1,4 @@
 <L>3024<pc>101<k1>cape<k2>cape
-<div n="lb"/>{@CAPE:@}¦ <div n="I">I A promontory: {#*प्रलम्बः।#} </div><div n="I">II For
-<div n="lb"/>the shoulders: {#*स्कन्धच्छदः।#}</div>
+{@CAPE:@}¦ <div n="I">I A promontory: {#*प्रलम्बः।#} </div><div n="I">II For
+the shoulders: {#*स्कन्धच्छदः।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>17651<pc>540<k1>premises<k2>premises
-<div n="lb"/>{@PREMISES@}¦ (subs.): <div n="I">I In logic: v. Premiss.</div>
-<div n="lb"/><div n="I">II Buildings and land: {#गृहाः#} (m. pl.)</div>
+{@PREMISES@}¦ (subs.): <div n="I">I In logic: v. Premiss.</div>
+<div n="I">II Buildings and land: {#गृहाः#} (m. pl.)</div>
 <LEND>

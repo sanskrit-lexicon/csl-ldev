@@ -1,5 +1,5 @@
 <L>7536<pc>238<k1>encounter<k2>encounter
-<div n="lb"/>{@ENCOUNTER@}¦ (v. i.): {#संगच्छते#} ({#गम्,#} c. 1.), <div n="xe">{%the%}
-<div n="lb"/>{%two seas of armies e. ed:%}</div> <div n="xs">{#सेनाम्भोघी सञ्जग्माते,#}</div>
-<div n="lb"/>Si.: v. To meet.
+{@ENCOUNTER@}¦ (v. i.): {#संगच्छते#} ({#गम्,#} c. 1.), <div n="xe">{%the%}
+{%two seas of armies e. ed:%}</div> <div n="xs">{#सेनाम्भोघी सञ्जग्माते,#}</div>
+Si.: v. To meet.
 <LEND>

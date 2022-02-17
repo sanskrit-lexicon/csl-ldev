@@ -1,8 +1,8 @@
 <L>2618<pc>089<k1>bring forth<k2>bring forth
-<div n="lb"/>{@BRING FORTH:@}¦ <div n="I">I To beget: q. v.: {#सूते, प्र-,#}
-<div n="lb"/>({#सू,#} c. l.), <div n="xe">{%Sumitrā brought f. twins%}</div> <div n="xs">{#सुमित्रा सुषुवे #}
-<div n="lb"/>{# यमौ,#}</div> R. {%x.%} 71. </div><div n="I">II To yield: q. v.: {#सूते,#}
-<div n="lb"/><div n="xe">{%the aśoka tree at once brought f. flowers%}</div> <div n="xs">{#असूत सद्यः #}
-<div n="lb"/>{# कुसुमान्यशोकः,#}</div> Ku. iii. 26. </div><div n="I">III To b. forward:
-<div n="lb"/>q. v.</div>
+{@BRING FORTH:@}¦ <div n="I">I To beget: q. v.: {#सूते, प्र-,#}
+({#सू,#} c. l.), <div n="xe">{%Sumitrā brought f. twins%}</div> <div n="xs">{#सुमित्रा सुषुवे #}
+{# यमौ,#}</div> R. {%x.%} 71. </div><div n="I">II To yield: q. v.: {#सूते,#}
+<div n="xe">{%the aśoka tree at once brought f. flowers%}</div> <div n="xs">{#असूत सद्यः #}
+{# कुसुमान्यशोकः,#}</div> Ku. iii. 26. </div><div n="I">III To b. forward:
+q. v.</div>
 <LEND>

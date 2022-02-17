@@ -1,7 +1,7 @@
 <L>10245<pc>323<k1>gravity<k2>gravity
-<div n="lb"/>{@GRAVITY:@}¦ <div n="I">I Heaviness: {#गुरुत्वम्,#} {%specific g.:%}
-<div n="lb"/>{#विशेषगुरुत्वम्।#} </div><div n="I">II Weight, importance: q.v.:
-<div n="lb"/>{#गुरुत्वम्।#} </div><div n="I">III Solemnity: </div><div n="1">(1) {#गाम्भीर्यम्;#} </div><div n="1">(2) {#धैर्य्भ्#}
-<div n="lb"/>(= steadiness). </div><div n="I">IV Of sound: </div><div n="1">(1) {#गाम्मीर्यम्;#}</div>
-<div n="lb"/><div n="1">(2) {#मन्द्रता।#}</div>
+{@GRAVITY:@}¦ <div n="I">I Heaviness: {#गुरुत्वम्,#} {%specific g.:%}
+{#विशेषगुरुत्वम्।#} </div><div n="I">II Weight, importance: q.v.:
+{#गुरुत्वम्।#} </div><div n="I">III Solemnity: </div><div n="1">(1) {#गाम्भीर्यम्;#} </div><div n="1">(2) {#धैर्य्भ्#}
+(= steadiness). </div><div n="I">IV Of sound: </div><div n="1">(1) {#गाम्मीर्यम्;#}</div>
+<div n="1">(2) {#मन्द्रता।#}</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>21347<pc>672<k1>stand<k2>stand
-<div n="lb"/>{@STAND@}¦ (subs.): <div n="I">I Stopping, s. still: <div n="xe">{%to bring%}
-<div n="lb"/>{%to a s.:%}</div> <div n="xs">{#स्तम्भयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#स्तभ्नाति:#}</div> v. To stop; <div n="xe">{%to%}
-<div n="lb"/>{%come to s.:%}</div> <div n="xs">{#स्तब्धीभवति,#}</div> <div n="xe">{%to be at s.:%}</div> <div n="xs">{#स्तब्ध#}</div> (f.
-<div n="lb"/>{#ब्धा#}), {#नि-, निस्-।#} Ph.: {%to make a s. against:%}
-<div n="lb"/>{#प्रतीपयति#} (nomi.): v. To oppose. </div><div n="I">II Plat-
-<div n="lb"/>-form: q. v.: {#मञ्चः।#} </div><div n="I">III For other things:
-<div n="lb"/><div n="xe">{%s. for lamps:%}</div> <div n="xs">{#दीपाधारः;#}</div> <div n="xe">{%ink.s.:%}</div> <div n="xs">{#मसीभाजनम्, #}
-<div n="lb"/>{# -पात्रम्;#}</div> <div n="xe">{%salt-s.:%}</div> <div n="xs">{#लवणपात्रम्,#}</div> etc.</div>
+{@STAND@}¦ (subs.): <div n="I">I Stopping, s. still: <div n="xe">{%to bring%}
+{%to a s.:%}</div> <div n="xs">{#स्तम्भयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#स्तभ्नाति:#}</div> v. To stop; <div n="xe">{%to%}
+{%come to s.:%}</div> <div n="xs">{#स्तब्धीभवति,#}</div> <div n="xe">{%to be at s.:%}</div> <div n="xs">{#स्तब्ध#}</div> (f.
+{#ब्धा#}), {#नि-, निस्-।#} Ph.: {%to make a s. against:%}
+{#प्रतीपयति#} (nomi.): v. To oppose. </div><div n="I">II Plat-
+-form: q. v.: {#मञ्चः।#} </div><div n="I">III For other things:
+<div n="xe">{%s. for lamps:%}</div> <div n="xs">{#दीपाधारः;#}</div> <div n="xe">{%ink.s.:%}</div> <div n="xs">{#मसीभाजनम्, #}
+{# -पात्रम्;#}</div> <div n="xe">{%salt-s.:%}</div> <div n="xs">{#लवणपात्रम्,#}</div> etc.</div>
 <LEND>

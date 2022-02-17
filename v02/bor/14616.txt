@@ -1,4 +1,4 @@
 <L>14616<pc>447<k1>mill<k2>mill
-<div n="lb"/>{@MILL@}¦ (subs.): {#चक्रम्;#} <div n="xe">{%oil m.:%}</div> <div n="xs">{#लैचक्रम्;#}</div> <div n="xe">{%cotton%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#*कार्पासचक्रम्।#}</div>
+{@MILL@}¦ (subs.): {#चक्रम्;#} <div n="xe">{%oil m.:%}</div> <div n="xs">{#लैचक्रम्;#}</div> <div n="xe">{%cotton%}
+{%m.:%}</div> <div n="xs">{#*कार्पासचक्रम्।#}</div>
 <LEND>

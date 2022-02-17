@@ -1,4 +1,4 @@
 <L>11660<pc>364<k1>impermeable<k2>impermeable
-<div n="lb"/>{@IMPERMEABLE:@}¦ <div n="xe">{%it is i. to water:%}</div> <div n="xs">{#अत्र जलं न प्रविशतिः#}</div>
-<div n="lb"/>v. To enter, impenetrable.
+{@IMPERMEABLE:@}¦ <div n="xe">{%it is i. to water:%}</div> <div n="xs">{#अत्र जलं न प्रविशतिः#}</div>
+v. To enter, impenetrable.
 <LEND>

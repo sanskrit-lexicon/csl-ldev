@@ -1,11 +1,11 @@
 <L>14177<pc>435<k1>march<k2>march
-<div n="lb"/>{@MARCH@}¦ (v.): {#याति, प्र-, अभि-, अभिप्र-,#} ({#या,#} c. 2.),
-<div n="lb"/><div n="xe">{%let the whole army m.:%}</div> <div n="xs">{#प्रयातु वाहिनी सर्वा,#}</div> A. r.;
-<div n="lb"/><div n="1">(2) {#व्रजति, अभि-,#} ({#व्रज्,#} c. l.); <div n="xe">{%should m.%}
-<div n="lb"/>{%against an enemy, drawing up the forces in%}
-<div n="lb"/>{%battle-array:%}</div> <div n="xs">{#बलं व्यूह्य द्विषतोऽभिमुखं व्रजेत्,#}</div> Ka.
-<div n="lb"/>xviii. 2.; </div><div n="1">(3) {#चलति, सं-, उत्#} ({#चल्,#} c. 1.)
-<div n="lb"/>(= to move), <div n="xe">{%the great army m. ed:%}</div> <div n="xs">{#महाचमूश्च-#}
-<div n="lb"/>{#चाल,#}</div> Ki.; </div><div n="1">(4) {#प्रतिष्ठते#} ({#स्था,#} c. l (= to start),
-<div n="lb"/><div n="xe">{%m. ed by land:%}</div> <div n="xs">{#प्रतस्थे स्थलवर्त्मना,#}</div> R. iv. 60.</div>
+{@MARCH@}¦ (v.): {#याति, प्र-, अभि-, अभिप्र-,#} ({#या,#} c. 2.),
+<div n="xe">{%let the whole army m.:%}</div> <div n="xs">{#प्रयातु वाहिनी सर्वा,#}</div> A. r.;
+<div n="1">(2) {#व्रजति, अभि-,#} ({#व्रज्,#} c. l.); <div n="xe">{%should m.%}
+{%against an enemy, drawing up the forces in%}
+{%battle-array:%}</div> <div n="xs">{#बलं व्यूह्य द्विषतोऽभिमुखं व्रजेत्,#}</div> Ka.
+xviii. 2.; </div><div n="1">(3) {#चलति, सं-, उत्#} ({#चल्,#} c. 1.)
+(= to move), <div n="xe">{%the great army m. ed:%}</div> <div n="xs">{#महाचमूश्च-#}
+{#चाल,#}</div> Ki.; </div><div n="1">(4) {#प्रतिष्ठते#} ({#स्था,#} c. l (= to start),
+<div n="xe">{%m. ed by land:%}</div> <div n="xs">{#प्रतस्थे स्थलवर्त्मना,#}</div> R. iv. 60.</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>22954<pc>723<k1>try<k2>try
-<div n="lb"/>{@TRY:@}¦ <div n="I">I To examine: {#परीक्षते#} ({#ईक्ष्,#} c. 1.),
-<div n="lb"/><div n="xe">{%I have tried you forming (this) illusion:%}</div> <div n="xs">{#मायां #}
-<div n="lb"/>{# मयोद्भाव्य परीक्षितोऽसि,#}</div> R. ii. 62. </div><div n="I">II Judicially:</div>
-<div n="lb"/><div n="1">(1) {#विचारयति#} (c. of {#चर्#}); </div><div n="1">(2) {#पश्यति#} ({#दृश्,#}
-<div n="lb"/>c. 1. = to see), {%shall not t. (cases) on these days:%}
-<div n="lb"/>{#तिथिष्वासु न पश्येत्,#} Mit. </div><div n="I">III To attempt,
-<div n="lb"/>endeavour: q. v.: {#यतते,#} <div n="xe">{%I will t. to save his%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#प्राणरक्षणे तावदस्य यत्नमाचरामि,#}</div> K.</div>
+{@TRY:@}¦ <div n="I">I To examine: {#परीक्षते#} ({#ईक्ष्,#} c. 1.),
+<div n="xe">{%I have tried you forming (this) illusion:%}</div> <div n="xs">{#मायां #}
+{# मयोद्भाव्य परीक्षितोऽसि,#}</div> R. ii. 62. </div><div n="I">II Judicially:</div>
+<div n="1">(1) {#विचारयति#} (c. of {#चर्#}); </div><div n="1">(2) {#पश्यति#} ({#दृश्,#}
+c. 1. = to see), {%shall not t. (cases) on these days:%}
+{#तिथिष्वासु न पश्येत्,#} Mit. </div><div n="I">III To attempt,
+endeavour: q. v.: {#यतते,#} <div n="xe">{%I will t. to save his%}
+{%life:%}</div> <div n="xs">{#प्राणरक्षणे तावदस्य यत्नमाचरामि,#}</div> K.</div>
 <LEND>

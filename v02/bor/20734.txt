@@ -1,11 +1,11 @@
 <L>20734<pc>651<k1>slender<k2>slender
-<div n="lb"/>{@SLENDER:@}¦ <div n="1">(1) {#तनु#} (f. also {#नवी#}), {#प्र,#} {%a. s. girl:%}
-<div n="lb"/>{#तन्वी,#} R. vi. 25.; <div n="xe">{%a s. plant:%}</div> <div n="xs">{#तन्वी लता,#}</div> R.
-<div n="lb"/>xiii. 32.; <div n="xe">{%having s. command of language:%}</div> <div n="xs">{#तनु-#}
-<div n="lb"/>{#वाग्विभव#}</div> (f. {#वा#}), R. i. 9.; <div n="xe">{%to make s.:%}</div> <div n="xs">{#तनू-#}
-<div n="lb"/>{#करोति,#}</div> R. vi. 80.; </div><div n="1">(2) {#कृश#} (f. {#शा#}), {#परि-,#}
-<div n="lb"/><div n="xe">{%having a s. belly:%}</div> <div n="xs">{#कृशोदर#}</div> (f. {#री#}), Ku. v. 42.;
-<div n="lb"/><div n="xe">{%having s. limbs:%}</div> <div n="xs">{#कृशाङ्ग#}</div> (f. {#ङ्गी#}), N. iii. 11.;
-<div n="lb"/><div n="xe">{%by s. results:%}</div> <div n="xs">{#कृशेन फलेन,#}</div> Sa. vi. 11.: v. Also
-<div n="lb"/>small, feeble.</div>
+{@SLENDER:@}¦ <div n="1">(1) {#तनु#} (f. also {#नवी#}), {#प्र,#} {%a. s. girl:%}
+{#तन्वी,#} R. vi. 25.; <div n="xe">{%a s. plant:%}</div> <div n="xs">{#तन्वी लता,#}</div> R.
+xiii. 32.; <div n="xe">{%having s. command of language:%}</div> <div n="xs">{#तनु-#}
+{#वाग्विभव#}</div> (f. {#वा#}), R. i. 9.; <div n="xe">{%to make s.:%}</div> <div n="xs">{#तनू-#}
+{#करोति,#}</div> R. vi. 80.; </div><div n="1">(2) {#कृश#} (f. {#शा#}), {#परि-,#}
+<div n="xe">{%having a s. belly:%}</div> <div n="xs">{#कृशोदर#}</div> (f. {#री#}), Ku. v. 42.;
+<div n="xe">{%having s. limbs:%}</div> <div n="xs">{#कृशाङ्ग#}</div> (f. {#ङ्गी#}), N. iii. 11.;
+<div n="xe">{%by s. results:%}</div> <div n="xs">{#कृशेन फलेन,#}</div> Sa. vi. 11.: v. Also
+small, feeble.</div>
 <LEND>

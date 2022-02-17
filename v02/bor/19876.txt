@@ -1,4 +1,4 @@
 <L>19876<pc>618<k1>schoolmaster<k2>schoolmaster
-<div n="lb"/>{@SCHOOLMASTER:@}¦ <div n="1">(1) {#शिक्षकः;#} </div><div n="1">(2) {#अध्यापकः:#} v.
-<div n="lb"/>Teacher.</div>
+{@SCHOOLMASTER:@}¦ <div n="1">(1) {#शिक्षकः;#} </div><div n="1">(2) {#अध्यापकः:#} v.
+Teacher.</div>
 <LEND>

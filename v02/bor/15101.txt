@@ -1,5 +1,5 @@
 <L>15101<pc>462<k1>multiple<k2>multiple
-<div n="lb"/>{@MULTIPLE:@}¦ <div n="1">(1) {#*आधारः,#} {%least common m.:%}
-<div n="lb"/>{#*साधारणनीचाधारः;#} </div><div n="1">(2) expr. by {#भाज्य#} (f. {#ज्या#})
-<div n="lb"/>(= divisible).</div>
+{@MULTIPLE:@}¦ <div n="1">(1) {#*आधारः,#} {%least common m.:%}
+{#*साधारणनीचाधारः;#} </div><div n="1">(2) expr. by {#भाज्य#} (f. {#ज्या#})
+(= divisible).</div>
 <LEND>

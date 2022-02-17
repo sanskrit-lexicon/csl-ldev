@@ -1,4 +1,4 @@
 <L>18463<pc>567<k1>quorum<k2>quorum
-<div n="lb"/>{@QUORUM:@}¦ perh. {#निर्दिष्टसंख्या#} <div n="xe">{%or%}</div> <div n="xs">{#-संख्यकजनाः#}</div> and
-<div n="lb"/>sim. expr. s.
+{@QUORUM:@}¦ perh. {#निर्दिष्टसंख्या#} <div n="xe">{%or%}</div> <div n="xs">{#-संख्यकजनाः#}</div> and
+sim. expr. s.
 <LEND>

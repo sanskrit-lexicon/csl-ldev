@@ -1,6 +1,6 @@
 <L>24531<pc>769<k1>writer<k2>writer
-<div n="lb"/>{@WRITER:@}¦ <div n="I">I Lit.: {#लेखकः,#} <div n="xe">{%be the w. of this%}
-<div n="lb"/>{%Bhārata:%}</div> <div n="xs">{#लेखको भारतस्यास्य भव,#}</div> Mah. 77. </div><div n="I">II
-<div n="lb"/>Author: q. v.: {#प्रणेतृ#} (f. {#त्री#}). </div><div n="I">III A scribe:</div>
-<div n="lb"/><div n="1">(1) {#लिपिकरः;#} </div><div n="1">(2) {#लेखकः।#}</div>
+{@WRITER:@}¦ <div n="I">I Lit.: {#लेखकः,#} <div n="xe">{%be the w. of this%}
+{%Bhārata:%}</div> <div n="xs">{#लेखको भारतस्यास्य भव,#}</div> Mah. 77. </div><div n="I">II
+Author: q. v.: {#प्रणेतृ#} (f. {#त्री#}). </div><div n="I">III A scribe:</div>
+<div n="1">(1) {#लिपिकरः;#} </div><div n="1">(2) {#लेखकः।#}</div>
 <LEND>

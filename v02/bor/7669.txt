@@ -1,5 +1,5 @@
 <L>7669<pc>243<k1>entertainment<k2>entertainment
-<div n="lb"/>{@ENTERTAINMENT:@}¦ <div n="I">I Hospitality: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#शुश्रूषा;#} </div><div n="1">(2) {#पूजा।#} </div><div n="I">II A feast {#उत्सवः।#} </div><div n="I">III
-<div n="lb"/>Amusement: q. v.: {#विनोदः।#}</div>
+{@ENTERTAINMENT:@}¦ <div n="I">I Hospitality: q. v.: </div><div n="1">(1)
+{#शुश्रूषा;#} </div><div n="1">(2) {#पूजा।#} </div><div n="I">II A feast {#उत्सवः।#} </div><div n="I">III
+Amusement: q. v.: {#विनोदः।#}</div>
 <LEND>

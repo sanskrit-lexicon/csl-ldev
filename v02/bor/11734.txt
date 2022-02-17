@@ -1,7 +1,7 @@
 <L>11734<pc>367<k1>impression<k2>impression
-<div n="lb"/>{@IMPRESSION:@}¦ <div n="I">I Marking: {#अङ्कनम्।#} </div><div n="I">II Mark:
-<div n="lb"/>q.v.: {#चिह्नम्।#} </div><div n="I">III Mental: Ph.: <div n="xe">{%it made no i.%}
-<div n="lb"/>{%on him.%}</div> <div n="xs">{#तस्य हृदयं न जग्राह#}</div> <div n="xe">{%or%}</div> <div n="xs">{#जहार#}</div> <div n="xe">{%or%}</div> <div n="xs">{#तस्य हृदये #}
-<div n="lb"/>{# स्थानं न लेभे।#}</div> </div><div n="I">IV Idea: {#अनुमवः।#} </div><div n="I">V An edi-
-<div n="lb"/>-tion, copy: {#*अनुलिपिः।#}</div>
+{@IMPRESSION:@}¦ <div n="I">I Marking: {#अङ्कनम्।#} </div><div n="I">II Mark:
+q.v.: {#चिह्नम्।#} </div><div n="I">III Mental: Ph.: <div n="xe">{%it made no i.%}
+{%on him.%}</div> <div n="xs">{#तस्य हृदयं न जग्राह#}</div> <div n="xe">{%or%}</div> <div n="xs">{#जहार#}</div> <div n="xe">{%or%}</div> <div n="xs">{#तस्य हृदये #}
+{# स्थानं न लेभे।#}</div> </div><div n="I">IV Idea: {#अनुमवः।#} </div><div n="I">V An edi-
+-tion, copy: {#*अनुलिपिः।#}</div>
 <LEND>

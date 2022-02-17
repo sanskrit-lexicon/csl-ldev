@@ -1,5 +1,5 @@
 <L>3304<pc>110<k1>celebrity<k2>celebrity
-<div n="lb"/>{@CELEBRITY;@}¦ <div n="I">I Fame, renown: q. v. Ph.: <div n="xe">{%of%}
-<div n="lb"/>{%c.%}</div> <div n="xs">{#विख्यातः#}</div> ({#ता, तं#}). </div><div n="I">II A man of c.:
-<div n="lb"/>{#विख्यातलोकः।#}</div>
+{@CELEBRITY;@}¦ <div n="I">I Fame, renown: q. v. Ph.: <div n="xe">{%of%}
+{%c.%}</div> <div n="xs">{#विख्यातः#}</div> ({#ता, तं#}). </div><div n="I">II A man of c.:
+{#विख्यातलोकः।#}</div>
 <LEND>

@@ -4,7 +4,7 @@
 <ls>P. 4, 4, 112.</ls> {#आप^ः#} 
 <ls>AV. 19, 2, 1.</ls> 
 <ls>SUŚR. 2, 36, 4.</ls> Elephanten 
-<ls>MBH. 1, 7006. 4, 1675.</ls> 
+<ls>MBH. 1, 7006.</ls> <ls n="MBH.">4, 1675.</ls> 
 <ls>R. 1, 6, 22 (25 GORR.). 3, 32, 20.</ls> {#गिरि#} 
 <ls>MBH. 1, 4864.</ls> {#उपत्यका#} 
 <ls>3, 15643.</ls> {#पाद#} 
@@ -13,17 +13,17 @@
 <ls>RAGH. 2, 67.</ls> {#स्थाण्वाश्रम#} 
 <ls>KUMĀRAS. 3, 23.</ls> Stadt 
 <ls>6, 47.</ls> {#हिमस्रुति#} 
-<ls>RAGH. 16, 44.</ls> {#दिश्#} so v. a. {%Norden%} (vgl. 
-<ls>P. 4, 3, 112</ls>) <ls>R. GORR. 1, 42, 20. 66, 20 (65, 1</ls> <ls>SCHL.</ls><ls>).</ls>
+<ls>RAGH. 16, 44.</ls> {#दिश्#} so v. a. {%Norden%} (vgl. <ls>P. 4, 3, 112</ls>) 
+<ls>R. GORR. 1, 42, 20. 66, 20</ls> (<ls>65, 1 SCHL.</ls>).
 [Page7-1662]
 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%ein best. vegetabilisches Gift%} 
 <ls>H. 1197.</ls> 
 <div n="2">— b) pl. N. pr. eines Volkes, {%die Bewohner des%} 
-<ls>H.</ls> <ls>MBH.2,1844.</ls> <ls>HARIV. 6441.</ls> <ls>Verz. d. Oxf. H. 217,b,27.</ls> 
+<ls>H.</ls> <ls>MBH. 2, 1844.</ls> <ls>HARIV. 6441.</ls> <ls>Verz. d. Oxf. H. 217,b,27.</ls> 
 <div n="2">— c) pl. N. einer buddhistischen Schule 
-<ls>BURNOUF,</ls> <ls>?Intr. 446. Lot. de la b. l. 357. HIOUEN-THSANG 1, 311. WASSILYEW 230. 233. fg. 252. TĀRAN. 175. 271. fg.</ls> 
+<ls>BURNOUF, Intr. 446.</ls> <ls>Lot. de la b. l. 357.</ls> <ls>HIOUEN-THSANG 1, 311.</ls> <ls>WASSILYEW 230. 233. fg. 252.</ls> <ls>TĀRAN. 175. 271. fg.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#°वती#} 
 <div n="2"> a) Bez. verschiedener Pflanzen: = {#अभया#} 
 <ls>AK. 2, 4, 2, 40.</ls> 
@@ -43,10 +43,10 @@
 <ls>MED.</ls> 
 <ls>RATNAM. 24.</ls> 
 <ls>RĀJAN. 6, 54.</ls> <ls>CARAKA 9, 7.</ls> <ls>SUŚR. 2, 276, 21. 410, 5.</ls> vollständig {#हैमवती वचा#} 
-<ls>?1, 142, 3. 2, 161, 21; vgl. 1, 163, 21</ls> (fehlerhaft in der Ausg.). 
+<ls>1, 142, 3. 2, 161, 21</ls>; vgl. <ls>1, 163, 21</ls> (fehlerhaft in der Ausg.). 
 <div n="2">— b) patron. 
 <div n="3"> α) {%der%} <is>Gaṅgā</is> 
-<ls>Schol.</ls> zu <ls>P. 4, 3, 83.</ls> <ls>TRIK. 1, 2, 30.</ls> <ls>H. 1082.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 6752. 3, 9935.</ls> 
+<ls>Schol.</ls> zu <ls>P. 4, 3, 83.</ls> <ls>TRIK. 1, 2, 30.</ls> <ls>H. 1082.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 6752.</ls> <ls n="MBH.">3, 9935.</ls> 
 <div n="3">— β) der <is>Umā</is> (vgl. {#पार्वती#}), der Gattin <is>Śiva's</is>, 
 <ls>AK. 1, 1, 1, 32.</ls> 
 <ls>H. ś. 60.</ls> <ls>HALĀY. 1, 15.</ls> <ls>KENOP. 25.</ls> 
@@ -56,7 +56,7 @@
 <ls>HARIV. 709.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Perle%} 
-<ls>RĀJAN. 13,</ls> <ls>?155; vgl. VARĀH. BṚH. S. 81, 2. 5.</ls> 
+<ls>RĀJAN. 13,</ls> <ls>155</ls>; vgl. <ls>VARĀH. BṚH. S. 81, 2. 5.</ls> 
 <div n="2">— b) N. pr. eines <is>Varṣa</is> 
 <ls>TRIK. 2, 1, 2.</ls> <ls>Schol.</ls> zu <ls>H. 946.</ls> <ls>MBH. 6, 201.</ls> <ls>ŚATR. 1, 292.</ls>
 <LEND>

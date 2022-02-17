@@ -1,14 +1,14 @@
 <L>20606<pc>646<k1>sink<k2>sink
-<div n="lb"/>{@SINK@}¦ (v. i.): <div n="I">I Lit.: {#मज्जति, नि-, परि-,#} ({#मस्ज्,#}
-<div n="lb"/>c. 1.), <div n="xe">{%the vessel sank in the sea-waters:%}</div> <div n="xs">{#पोतः#}</div>
-<div n="lb"/>{#समुद्राम्भस्यमज्जत्,#} D.; <div n="xe">{%sunk in deep mire:%}</div> <div n="xs">{#महापङ्के #}
-<div n="lb"/>{# निमग्नः,#}</div> H. i.; <div n="xe">{%of the half s. ing sun:%}</div> <div n="xs">{#सामि #}
-<div n="lb"/>{# मज्जति रवौ,#}</div> Ki. ix. 5.; <div n="xe">{%sunk in the calamity%}
-<div n="lb"/>{%from water which cannot be easily got over:%}</div>
-<div n="lb"/><div n="xs">{#मग्नस्य तोयापदि दुस्तरायाम्,#}</div> Si. xiv. 86. </div><div n="I">II To
-<div n="lb"/>penetrate deep: {#निविशते#} ({#विश्,#} c. 6.). </div><div n="I">III
-<div n="lb"/>To decrease, fall: {#ह्रासमुपैति#} ({#इ,#} c. 2.), {#अधि-#}
-<div n="lb"/>{#गच्छति#} ({#गम्,#} c. 1.), etc. </div><div n="I">IV To go to
-<div n="lb"/>destruction: {#सीदति, अव-,#} ({#सद्,#} c. 1.), M.
-<div n="lb"/>: v. Also to decline.</div>
+{@SINK@}¦ (v. i.): <div n="I">I Lit.: {#मज्जति, नि-, परि-,#} ({#मस्ज्,#}
+c. 1.), <div n="xe">{%the vessel sank in the sea-waters:%}</div> <div n="xs">{#पोतः#}</div>
+{#समुद्राम्भस्यमज्जत्,#} D.; <div n="xe">{%sunk in deep mire:%}</div> <div n="xs">{#महापङ्के #}
+{# निमग्नः,#}</div> H. i.; <div n="xe">{%of the half s. ing sun:%}</div> <div n="xs">{#सामि #}
+{# मज्जति रवौ,#}</div> Ki. ix. 5.; <div n="xe">{%sunk in the calamity%}
+{%from water which cannot be easily got over:%}</div>
+<div n="xs">{#मग्नस्य तोयापदि दुस्तरायाम्,#}</div> Si. xiv. 86. </div><div n="I">II To
+penetrate deep: {#निविशते#} ({#विश्,#} c. 6.). </div><div n="I">III
+To decrease, fall: {#ह्रासमुपैति#} ({#इ,#} c. 2.), {#अधि-#}
+{#गच्छति#} ({#गम्,#} c. 1.), etc. </div><div n="I">IV To go to
+destruction: {#सीदति, अव-,#} ({#सद्,#} c. 1.), M.
+: v. Also to decline.</div>
 <LEND>

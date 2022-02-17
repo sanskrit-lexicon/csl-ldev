@@ -1,6 +1,6 @@
 <L>170148<pc>844,2<k1>यद्<k2>य/द्<e>1
 <s>य/द्</s> ¦ (<ab>nom.</ab> and <ab>acc.</ab> <ab>sg.</ab> <lex type="hwinfo">n.</lex> and base in <ab>comp.</ab> of <hom>3.</hom> <s>य</s>), who, which, what, whichever, whatever, that, <ls>RV.</ls> &c. &c. (with correlatives <s>तद्</s>, <s>त्यद्</s>, <s>एतद्</s>, <s>इदम्</s>, <s>अदस्</s>, <s>तद् एतद्</s>, <s>एतद् त्यद्</s>, <s>इदं तद्</s>, <s>तद् इदम्</s>, <s>तादृश</s>, <s>ईदृश</s>, <s>ईदृश्</s>, <s>एतावद्</s>, by which it is oftener followed than preceded;
-or the correl. is dropped <ab>e.g.</ab> <s>यस् तु ना<srs/>रभते कर्म क्षिप्रम् भवति निर्द्रव्यः</s>, ‘[he] indeed who does not begin work soon becomes poor’ <ls>R.</ls>;
+or the correl. is dropped <ab>e.g.</ab> <s>यस् तु ना<स्र्स्/>रभते कर्म क्षिप्रम् भवति निर्द्रव्यः</s>, ‘[he] indeed who does not begin work soon becomes poor’ <ls>R.</ls>;
 or the rel. is dropped <ab>e.g.</ab> <s>अन्धकम् भर्तारं न त्यजेत् सा महा-सती</s>, ‘she who does not desert a blind husband is a very faithful wife’ <ls>Vet.</ls> <s>यद्</s> is often repeated to express ‘whoever’, ‘whatever’, ‘whichever’, <ab>e.g.</ab> <s>यो यः</s>, ‘whatever man’;
 <s>या या</s>, ‘whatever woman’;
 <s>यो यज् जयति तस्य तत्</s>, ‘whatever he wins [in war] belongs to him’ <ls>Mn. vii, 96</ls>;
@@ -8,10 +8,10 @@ or the rel. is dropped <ab>e.g.</ab> <s>अन्धकम् भर्तार
 similar indefinite meanings are expressed by the relative joined with <s>तद्</s> <ab>e.g.</ab> <s>यस्मै तस्मै</s>, ‘to any one whatever’, <ab>esp.</ab> in <s>यद्वा तद्वा</s>, ‘anything whatever’;
 or by <s>यः</s> with <s>कश्च</s>, <s>कश्चन</s>, <s>कश्चित्</s>, or [in later language, not in <s1 slp1="manu">Manu</s1>] <s>कोऽपि</s> <ab>e.g.</ab> <s>यः कश्चित्</s>, ‘whosoever’;
 <s>यानि कानि च मित्राणि</s>, ‘any friends whatsoever’;
-<s>येन केना<srs/>प्य् उपा<srs/>येन</s>, ‘by any means whatsoever.’ <s>यद्</s> is joined with <s>त्वद्</s> to express generalization <ab>e.g.</ab> <s>शूद्रांस् त्वद् यांस् त्वद्</s>, ‘either the <s1 slp1="SUdra">Śūdra</s1>s or anybody else’ <ls>ŚBr.</ls>;
+<s>येन केना<स्र्स्/>प्य् उपा<स्र्स्/>येन</s>, ‘by any means whatsoever.’ <s>यद्</s> is joined with <s>त्वद्</s> to express generalization <ab>e.g.</ab> <s>शूद्रांस् त्वद् यांस् त्वद्</s>, ‘either the <s1 slp1="SUdra">Śūdra</s1>s or anybody else’ <ls>ŚBr.</ls>;
 or immediately followed by a <ab>pers.</ab> <ab>pron.</ab> on which it lays emphasis <ab>e.g.</ab> <s>यो ऽहम्</s>, ‘I that very person who’;
 <s>यस् त्वं कथं वेत्थ</s>, ‘how do you know?’ <ls>ŚBr.</ls>;
-it is also used in the sense of ‘si quis’ <ab>e.g.</ab> <s>स्त्रियं स्पृशेद् यः</s>, ‘should any one touch a woman.’ <s>यद्</s> is also used without the copula <ab>e.g.</ab> <s>अन्धो जडः पीठ सर्पी सप्तत्या स्थविरश्च यः</s>, ‘a blind man, an idiot, a cripple, and a man seventy years old’ <ls>Mn. viii, 394</ls>;
+it is also used in the sense of ‘si quis’ <ab>e.g.</ab> <s>स्त्रियं स्पृशेद् यः</s>, ‘should any one touch a woman.’ <s>यद्</s> is also used without the copula <ab>e.g.</ab> <s>अन्धो जडः पीठ-सर्पी सप्तत्या स्थविरश्च यः</s>, ‘a blind man, an idiot, a cripple, and a man seventy years old’ <ls>Mn. viii, 394</ls>;
 sometimes there is a change of construction in such cases <ab>e.g.</ab> <s>ये च मानुषाः</s> for <s>मानुषांश्-च</s>, <ls>Mn. x, 86</ls>;
 the <ab>nom.</ab> <ab>sg.</ab> <lex type="hwinfo">n.</lex> <s>यद्</s> is then often used without regard to gender or number and may be translated by ‘as regards’, ‘as for’, <ab>e.g.</ab> <s>क्षत्रं वा एतद् वनस्पतीनां यन् न्यग्-रोधः</s>, ‘as for the <s1 slp1="nyag-roDa">Nyag-rodha</s1>, it is certainly the prince among trees’ <ls>AitBr.</ls>;
 or by ‘that is to say’, ‘to wit’ <ab>e.g.</ab> <s>ततो देवा एतं वज्रं ददृशुर् यद् अपः</s>, ‘the gods then saw this thunderbolt, to wit, the water’ <ls>ŚBr.</ls> <s>यद्</s> as an <ab>adv.</ab> conjunction generally = ‘that’, <ab>esp.</ab> after verbs of saying, thinking &c., often introducing an oratio directa with or without <s>इति</s>;
@@ -23,12 +23,12 @@ or by ‘that is to say’, ‘to wit’ <ab>e.g.</ab> <s>ततो देवा
 <s>यत् किल</s>, ‘that’ <ls>Prasannar.</ls>;
 <s>यच् च</s>, ‘if’, ‘that is to say’ <ls>Car.</ls>;
 <s>यच् च-यच् च</s>, ‘both - and’ <ls>Divyâv.</ls>;
-‘that’ [accord. to, <ls>Pāṇ. 3-3, 148</ls> after expressions of ‘impossibility’, ‘disbelief’, ‘hope’, ‘disregard’, ‘reproach’ and, ‘wonder’];
+‘that’ [accord. to <ls>Pāṇ. iii, 3, 148</ls> after expressions of ‘impossibility’, ‘disbelief’, ‘hope’, ‘disregard’, ‘reproach’ and, ‘wonder’];
 <s>यद् वा</s>, ‘or else’, ‘whether’ <ls>Kāv.</ls>;
 <ls>Rājat.</ls>;
 [<s>यद् वा</s>, ‘or else’, is very often in commentators];
 ‘however’ <ls>Bālar.</ls>;
-<s>यद् वा</s> - <s>यदि वा</s>, ‘if-or it’ <ls>Bhag.</ls>;
+<s>यद् वा</s> - <s>यदि वा</s>, ‘if-or if’ <ls>Bhag.</ls>;
 <s>यद् भूयसा</s>, ‘for the most part’ <ls>Divyâv.</ls>;
 <s>यत् सत्यम्</s>, ‘certainly’, ‘indeed’, ‘of course’ <ls>Mṛcch.</ls>;
 <ls>Ratnâv.</ls>;

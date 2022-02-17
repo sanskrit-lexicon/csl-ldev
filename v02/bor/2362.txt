@@ -1,10 +1,10 @@
 <L>2362<pc>081<k1>border<k2>border
-<div n="lb"/>{@BORDER@}¦ (subs.): <div n="1">(1) {#पर्यन्तः,#} <div n="xe">{%whose b. s were%}
-<div n="lb"/>{%carved with flowers%}</div> <div n="xs">{#कुसुमलवच्छुरितपर्यन्तः#}</div> ({#न्ता, न्तं#})
-<div n="lb"/>D. ii.; {%from the b. of the disk of the sun%}
-<div n="lb"/>{#पर्यन्तादहिममयूखमण्डलस्य;#} Ki. vii. 9.; </div><div n="1">(2) {#प्रान्तः,#}
-<div n="lb"/>Ku. iii. 43.; </div><div n="1">(3) {#उपान्तः,#} <div n="xe">{%on whose b.%}</div> <div n="xs">{#यस्यो-#}
-<div n="lb"/>{#पान्ते,#}</div> Me. ii. 14.; </div><div n="1">(4) {#अन्तः,#} <div n="xe">{%on the b. of a%}
-<div n="lb"/>{%forest%}</div> <div n="xs">{#वनान्ते।#}</div> {%B. of a garment:%} </div><div n="1">(1) {#अञ्चलः;#}</div>
-<div n="lb"/><div n="1">(2) {#दशा।#}</div>
+{@BORDER@}¦ (subs.): <div n="1">(1) {#पर्यन्तः,#} <div n="xe">{%whose b. s were%}
+{%carved with flowers%}</div> <div n="xs">{#कुसुमलवच्छुरितपर्यन्तः#}</div> ({#न्ता, न्तं#})
+D. ii.; {%from the b. of the disk of the sun%}
+{#पर्यन्तादहिममयूखमण्डलस्य;#} Ki. vii. 9.; </div><div n="1">(2) {#प्रान्तः,#}
+Ku. iii. 43.; </div><div n="1">(3) {#उपान्तः,#} <div n="xe">{%on whose b.%}</div> <div n="xs">{#यस्यो-#}
+{#पान्ते,#}</div> Me. ii. 14.; </div><div n="1">(4) {#अन्तः,#} <div n="xe">{%on the b. of a%}
+{%forest%}</div> <div n="xs">{#वनान्ते।#}</div> {%B. of a garment:%} </div><div n="1">(1) {#अञ्चलः;#}</div>
+<div n="1">(2) {#दशा।#}</div>
 <LEND>

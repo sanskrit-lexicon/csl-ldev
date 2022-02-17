@@ -1,15 +1,15 @@
 <L>3263<pc>108<k1>cause<k2>cause
-<div n="lb"/>{@CAUSE@}¦ (subs.): <div n="I">I That which produces
-<div n="lb"/>effect: {#कारणं,#} <div n="xe">{%you are the c. of all element%}
-<div n="lb"/>{%c. s%}</div> <div n="xs">{#त्वं कारणं कारणकारणानाम्,#}</div> Ki. {%Primary c.:%}
-<div n="lb"/>{#आदिकारणम्;#} </div><div n="1">(2) {#निदानम्,#} R. iii. </div><div n="I">I {%Material%}
-<div n="lb"/>{#समवायिकारणम्,#} <div n="xe">{%Efficient c.%}</div> <div n="xs">{#निमित्तम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#निमित्तकार#}</div></div>
-<div n="lb"/><div n="I">II That which is the occasion of
-<div n="lb"/>action: {#कारणम्,#} <div n="xe">{%without any c.%}</div> <div n="xs">{#अकारणम्:#}</div>
-<div n="lb"/>Reason, ground. </div><div n="I">III A lawsuit: q. v.:
-<div n="lb"/>{#कार्यम्,#} {%tell%} ({%us%}) <div n="xe">{%that c.%}</div> <div n="xs">{#तत्कार्यं कथय।#}</div> Mr. ix.</div>
-<div n="lb"/><div n="I">IV Object, side: q. v. {#कार्यम्,#} <div n="xe">{%our c. is all but%}
-<div n="lb"/>{%undertaken by you%}</div> <div n="xs">{#कार्यं त्वया नः प्रतिपन्नकल्पम्,#}</div> Ku.
-<div n="lb"/>iii. 14; {%in the Śudra's%} ({%Chandragupta's%} c.
-<div n="lb"/>{#वृषलस्य कृते,#} Mu.: v. For the sake of.</div>
+{@CAUSE@}¦ (subs.): <div n="I">I That which produces
+effect: {#कारणं,#} <div n="xe">{%you are the c. of all element%}
+{%c. s%}</div> <div n="xs">{#त्वं कारणं कारणकारणानाम्,#}</div> Ki. {%Primary c.:%}
+{#आदिकारणम्;#} </div><div n="1">(2) {#निदानम्,#} R. iii. </div><div n="I">I {%Material%}
+{#समवायिकारणम्,#} <div n="xe">{%Efficient c.%}</div> <div n="xs">{#निमित्तम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#निमित्तकार#}</div></div>
+<div n="I">II That which is the occasion of
+action: {#कारणम्,#} <div n="xe">{%without any c.%}</div> <div n="xs">{#अकारणम्:#}</div>
+Reason, ground. </div><div n="I">III A lawsuit: q. v.:
+{#कार्यम्,#} {%tell%} ({%us%}) <div n="xe">{%that c.%}</div> <div n="xs">{#तत्कार्यं कथय।#}</div> Mr. ix.</div>
+<div n="I">IV Object, side: q. v. {#कार्यम्,#} <div n="xe">{%our c. is all but%}
+{%undertaken by you%}</div> <div n="xs">{#कार्यं त्वया नः प्रतिपन्नकल्पम्,#}</div> Ku.
+iii. 14; {%in the Śudra's%} ({%Chandragupta's%} c.
+{#वृषलस्य कृते,#} Mu.: v. For the sake of.</div>
 <LEND>

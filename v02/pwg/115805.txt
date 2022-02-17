@@ -9,19 +9,19 @@
 <ls n="ṚV.">5, 7, 5.</ls> <ls n="ṚV. 5,">58, 7.</ls> <ls n="ṚV.">10, 106, 10.</ls> <ls>TS. 7, 2, 10, 4.</ls> <ls>KĀṬH. 34, 12.</ls> {#°जनन#} 
 <ls>KAUŚ. 47.</ls> 
 <ls>M. 5, 135.</ls> 
-<ls>MBH. 3, 2215. 16748.</ls> 
+<ls>MBH. 3, 2215.</ls> <ls n="MBH. 3,">16748.</ls> 
 <ls>R. 2, 85, 18.</ls> {#°नुद#} 
 <ls>91, 24.</ls> <ls>SUŚR. 1, 48, 9. 13. 49, 11. 116, 10. 118, 4.</ls> {#°नाश#} 
 <ls>ŚĀRṄG. SAṂH. 1, 7, 70.</ls> {#°स्राव#} 
 <ls>71.</ls> <ls>ṚT. 1, 7.</ls> {#गण्ड°#} 
 <ls>MEGH. 27.</ls> {#अङ्गुलि°#} 
 <ls>VIKR. 27, 2.</ls> {#गात्र°#} 
-<ls>Spr. (II) 2811. 4880. 7199.</ls> 
+<ls>Spr. (II) 2811.</ls> <ls n="Spr. (II)">4880.</ls> <ls n="Spr. (II)">7199.</ls> 
 <ls>VARĀH. BṚH. S. 46, 8. 78, 6. 17. 93, 5. 97, 6.</ls> 
 <ls>KATHĀS. 18, 370.</ls> 
 <ls>BHĀG. P. 5, 16, 26.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 13, 19.</ls> {#वपुर्जलोद्गमः स्वेदो रतिघर्मश्रमादिभिः#} 
-<ls>SĀH. D. 167</ls> <ls>?= PRATĀPAR. 51,a,1. pl.</ls> {%Schweisstropfen%} 
+<ls>VET. in LA. (III) 13, 19.</ls> {#वपुर्जलोद्गमः स्वेदो रतिघर्मश्रमादिभिः#} 
+<ls>SĀH. D. 167</ls> = <ls>PRATĀPAR. 51,a,1.</ls> pl. {%Schweisstropfen%} 
 <ls>ṚV. 10, 134, 5.</ls> <ls>Verz. d. Oxf. H. 51,b,26.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) 
 <ls>SIDDH. K.</ls> zu <ls>P.4,1,54.</ls> <ls>VOP.4,17.</ls> {#स°#} {%schwitzend%} 
 <ls>MBH. 4, 466.</ls> 

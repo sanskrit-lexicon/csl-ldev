@@ -2,7 +2,7 @@
 {#तपन#}¦ (von 1. {#तप्#}) 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%erwärmend, brennend, scheinend%}; Beiw. der Sonne 
-<ls>MBH. 1, 4398. 5, 4920.</ls> {#गते ऽस्तं तपने देवे#} 
+<ls>MBH. 1, 4398.</ls> <ls n="MBH.">5, 4920.</ls> {#गते ऽस्तं तपने देवे#} 
 <ls>R. 6, 79, 57.</ls> {#त्वं प्रभुस्तपनः सूर्यः#} von <is>Garuḍa</is> gesagt 
 <ls>MBH. 1, 1249.</ls> 
 <div n="2">— b) proparox. {%Wehbereitend, plagend%}: {#ब्र\ह्म\द्विष\स्तप^नो मन्यु\मीर^सि#} 
@@ -19,7 +19,7 @@
 <ls>TRIK. 3, 3, 241.</ls> 
 <ls>H. 98.</ls> 
 <ls>an. 3, 378.</ls> 
-<ls>MED. n. 69.</ls> <ls>MBH. 1, 1435. 6535. 6, 3731. 13, 4638.</ls> <ls>R. 1, 16, 11.</ls> <ls>RAGH. 4, 12.</ls> <ls>VIKR. 57.</ls> <ls>KATHĀS. 6, 94.</ls> <ls>BHĀG. P. 5, 21, 3.</ls> <ls>RĀJA-TAR. 3, 296. 4, 719.</ls> <ls>GĪT. 9, 10.</ls> 
+<ls>MED. n. 69.</ls> <ls>MBH. 1, 1435.</ls> <ls n="MBH. 1,">6535.</ls> <ls n="MBH.">6, 3731.</ls> <ls n="MBH.">13, 4638.</ls> <ls>R. 1, 16, 11.</ls> <ls>RAGH. 4, 12.</ls> <ls>VIKR. 57.</ls> <ls>KATHĀS. 6, 94.</ls> <ls>BHĀG. P. 5, 21, 3.</ls> <ls>RĀJA-TAR. 3, 296. 4, 719.</ls> <ls>GĪT. 9, 10.</ls> 
 <div n="2">— b) N. pr. eines göttlichen Wesens (viell. {%die Sonne%}), welches mit <is>Garuḍa</is> kämpft, 
 <ls>MBH. 1, 1488.</ls> 
 <div n="2">— c) Bez. eines der 5 {%Feuer%} beim <is>Svāhākāra</is> 

@@ -1,8 +1,8 @@
 <L>13453<pc>414<k1>lesson<k2>lesson
-<div n="lb"/>{@LESSON:@}¦ <div n="I">I That which is taught: </div><div n="1">(1) {#पाठ्यम्,#}
-<div n="lb"/><div n="xe">{%read boy's l. s:%}</div> <div n="xs">{#पपाठ बालपाठ्यानि,#}</div> V. p.; </div><div n="1">(2)
-<div n="lb"/>{#शिक्षा#} (= instruction), <div n="xe">{%to take l.:%}</div> <div n="xs">{#शिक्षां गृह्वाति,#}</div>
-<div n="lb"/>Mah. </div><div n="I">II A portion to learn at one time:
-<div n="lb"/>{#पाठः।#} </div><div n="I">III Reproof: {#शासनम्,#} <div n="xe">{%to give l.:%}</div> <div n="xs">{#शासनं #}
-<div n="lb"/>{# करोति।#}</div></div>
+{@LESSON:@}¦ <div n="I">I That which is taught: </div><div n="1">(1) {#पाठ्यम्,#}
+<div n="xe">{%read boy's l. s:%}</div> <div n="xs">{#पपाठ बालपाठ्यानि,#}</div> V. p.; </div><div n="1">(2)
+{#शिक्षा#} (= instruction), <div n="xe">{%to take l.:%}</div> <div n="xs">{#शिक्षां गृह्वाति,#}</div>
+Mah. </div><div n="I">II A portion to learn at one time:
+{#पाठः।#} </div><div n="I">III Reproof: {#शासनम्,#} <div n="xe">{%to give l.:%}</div> <div n="xs">{#शासनं #}
+{# करोति।#}</div></div>
 <LEND>

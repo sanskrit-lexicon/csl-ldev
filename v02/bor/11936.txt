@@ -1,11 +1,11 @@
 <L>11936<pc>372<k1>increase<k2>increase
-<div n="lb"/>{@INCREASE:@}¦ (v. i.): <div n="1">(1) {#वर्धते, वि-, परि-, सं-, प्र-, #}
-<div n="lb"/>{# अभि-,#} ({#वृध्,#} c. 1.), {%the fish i. d there%} (i.e. {%became%}
-<div n="lb"/>{%large%}): {#स तत्र ववृधे मत्स्यः,#} Mah. iii. 187. 22.; <div n="xe">{%of%}
-<div n="lb"/>{%i. d. spirit:%}</div> <div n="xs">{#विवृद्धतेजस्#}</div> (mfn.), Ki. xvi. 7.; {%do%}
-<div n="lb"/>{%your penances i.%} (i.e. {%advance%}): {#वर्धते ते तपः,#}
-<div n="lb"/>B. vi. 69.; <div n="xe">{%i. ing affection:%}</div> <div n="xs">{#वर्धमानः स्नेहः,#}</div> H. ii.
-<div n="lb"/>1.; </div><div n="1">(2) {#वृद्धिं गच्छति#} ({#गम्,#} c. 1.), {#याति#} ({#या,#} c. 2.),
-<div n="lb"/>{#अश्नुते#} ({#अश्,#} c. 5.), etc.; </div><div n="1">(3) {#एधते, सम्-,#}
-<div n="lb"/>({#एध्,#} c. 1.) (rare); </div><div n="1">(4) {#उपचीयते#} (pass of {#चि#}).</div>
+{@INCREASE:@}¦ (v. i.): <div n="1">(1) {#वर्धते, वि-, परि-, सं-, प्र-, #}
+{# अभि-,#} ({#वृध्,#} c. 1.), {%the fish i. d there%} (i.e. {%became%}
+{%large%}): {#स तत्र ववृधे मत्स्यः,#} Mah. iii. 187. 22.; <div n="xe">{%of%}
+{%i. d. spirit:%}</div> <div n="xs">{#विवृद्धतेजस्#}</div> (mfn.), Ki. xvi. 7.; {%do%}
+{%your penances i.%} (i.e. {%advance%}): {#वर्धते ते तपः,#}
+B. vi. 69.; <div n="xe">{%i. ing affection:%}</div> <div n="xs">{#वर्धमानः स्नेहः,#}</div> H. ii.
+1.; </div><div n="1">(2) {#वृद्धिं गच्छति#} ({#गम्,#} c. 1.), {#याति#} ({#या,#} c. 2.),
+{#अश्नुते#} ({#अश्,#} c. 5.), etc.; </div><div n="1">(3) {#एधते, सम्-,#}
+({#एध्,#} c. 1.) (rare); </div><div n="1">(4) {#उपचीयते#} (pass of {#चि#}).</div>
 <LEND>

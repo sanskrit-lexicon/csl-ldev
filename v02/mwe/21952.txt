@@ -1,5 +1,5 @@
 <L>21952<pc>580-a<k1>peer<k2>peer
-<div n="lb"/>PEER¦, {%s.%} (One of the same rank) {#समपदस्थः, समानपदस्थः, तुल्यपदस्थः#}.
-<div n="lb"/> — (Fellow, associate) {#वयस्यः, सचिवः, सहायः#}. — (Nobleman)
-<div n="lb"/>{#कुलीनजनः, शिष्टजनः#} &c.
+PEER¦, {%s.%} (One of the same rank) {#समपदस्थः, समानपदस्थः, तुल्यपदस्थः#}.
+ — (Fellow, associate) {#वयस्यः, सचिवः, सहायः#}. — (Nobleman)
+{#कुलीनजनः, शिष्टजनः#} &c.
 <LEND>

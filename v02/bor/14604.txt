@@ -1,8 +1,8 @@
 <L>14604<pc>447<k1>military<k2>military
-<div n="lb"/>{@MILITARY@}¦ (adj.): <div n="I">I Pertaining to war:
-<div n="lb"/>{#युद्ध-,#} etc. in comp.: v. War. </div><div n="I">II Belonging
-<div n="lb"/>to a soldier: {#सैनिक-,#} etc. in comp.: v.
-<div n="lb"/>Soldier. Ph.: <div n="xe">{%m. man:%}</div> <div n="xs">{#योधः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भटः;#}</div> <div n="xe">{%a man%}
-<div n="lb"/>{%of m. caste:%}</div> <div n="xs">{#क्षत्रियः#}</div> {%or%} (rarely) {#क्षत्रम्;#} {%m. duty:%}
-<div n="lb"/>{#क्षत्रधर्मः।#}</div>
+{@MILITARY@}¦ (adj.): <div n="I">I Pertaining to war:
+{#युद्ध-,#} etc. in comp.: v. War. </div><div n="I">II Belonging
+to a soldier: {#सैनिक-,#} etc. in comp.: v.
+Soldier. Ph.: <div n="xe">{%m. man:%}</div> <div n="xs">{#योधः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भटः;#}</div> <div n="xe">{%a man%}
+{%of m. caste:%}</div> <div n="xs">{#क्षत्रियः#}</div> {%or%} (rarely) {#क्षत्रम्;#} {%m. duty:%}
+{#क्षत्रधर्मः।#}</div>
 <LEND>

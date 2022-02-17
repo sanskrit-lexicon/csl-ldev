@@ -1,5 +1,5 @@
 <L>9408<pc>298<k1>fresco<k2>fresco
-<div n="lb"/>{@FRESCO:@}¦ <div n="I">I Coolness: q.v. </div><div n="I">II In painting:
-<div n="lb"/>{#मण्डोदकेन भित्तौ चित्रकरणम्।#} <div n="xe">{%Painting in f.:%}</div> <div n="xs">{#मण्डोदक-#}
-<div n="lb"/>{#चित्रम्#}</div> (?).</div>
+{@FRESCO:@}¦ <div n="I">I Coolness: q.v. </div><div n="I">II In painting:
+{#मण्डोदकेन भित्तौ चित्रकरणम्।#} <div n="xe">{%Painting in f.:%}</div> <div n="xs">{#मण्डोदक-#}
+{#चित्रम्#}</div> (?).</div>
 <LEND>

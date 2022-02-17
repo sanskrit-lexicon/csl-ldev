@@ -1,6 +1,6 @@
 <L>17877<pc>548<k1>professional<k2>professional
-<div n="lb"/>{@PROFESSIONAL:@}¦ expr. by comp., {%p. pride:%}
-<div n="lb"/>{#विज्ञानाभिमानः#} (?); <div n="xe">{%p. men:%}</div> <div n="xs">{#विज्ञानविदः#}</div> (?);
-<div n="lb"/>{%p. advice%} ({%of medical men%}): {#वैद्यकोपदेशः#} (?): v.
-<div n="lb"/>Knowledge.
+{@PROFESSIONAL:@}¦ expr. by comp., {%p. pride:%}
+{#विज्ञानाभिमानः#} (?); <div n="xe">{%p. men:%}</div> <div n="xs">{#विज्ञानविदः#}</div> (?);
+{%p. advice%} ({%of medical men%}): {#वैद्यकोपदेशः#} (?): v.
+Knowledge.
 <LEND>

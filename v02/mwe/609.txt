@@ -1,5 +1,5 @@
 <L>609<pc>013-b<k1>allegation<k2>allegation
-<div n="lb"/>ALLEGATION¦, {%s.%} (Affirmation) {#वचनं, अभियोगः, वाक्यं, अभिधानं#}. — 
-<div n="lb"/>(False allegation) {#मिथ्याभिशंसनं#}. — (Excuse, plea) {#छद्म#} {%n.%} {#(न्),#}
-<div n="lb"/>{#उपदेशः, व्यपदेशः#}.
+ALLEGATION¦, {%s.%} (Affirmation) {#वचनं, अभियोगः, वाक्यं, अभिधानं#}. — 
+(False allegation) {#मिथ्याभिशंसनं#}. — (Excuse, plea) {#छद्म#} {%n.%} {#(न्),#}
+{#उपदेशः, व्यपदेशः#}.
 <LEND>

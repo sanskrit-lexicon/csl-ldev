@@ -1,26 +1,26 @@
 <L>6760<pc>080-3<k1>ख्या<k2>ख्या
 {#ख्या#}¦KHYĀ, II.P. {@khyā-ti@}; {%ps.%} {@khyāyate,@} 
-<>be mentioned; be known: {%pp.%} {@khyāta,@} 
-<>named, known; known as; celebrated; {%cs.%} 
-<>{@khyāpaya,@} make known, proclaim, report, 
-<>declare; manifest, betray; tell about {%any one %}
-<>{%(ac.)%}; praise, celebrate. {@antar,@} withhold, conceal. <lbinfo n="3"/>
-<> {@abhi,@} behold, perceive: {%pp.%} notorious; 
-<>{%cs.%} proclaim. {@ava,@} look down; observe. {@ā,@} recite, 
-<>enumerate; tell, inform, announce, report; 
-<>indicate; call, name, designate as (¤2¤ {%ac.%}); 
-<>{%cs.%} proclaim. {@prati‡ā,@} refuse, repudiate, deny; 
-<>decline; prohibit; refute; surpass. {@vi‡ā,@} explain; <lbinfo n="2"/>
-<> discuss; announce, relate. {@sam-ā,@} 
-<>add, enumerate; relate; pronounce {%to be%} (iti): 
-<>{%pp.%} named. {@pari,@} look round; disregard ({%g.%}). 
-<>{@pra,@} see; announce; relate: {%pp.%} known, acknowledged; <lbinfo n="2"/>
-<> renowned; {%cs.%} make generally 
-<>known: {%pp.%} {@khyāpita,@} known as ({%nm.%}). 
-<>{@prati,@} perceive, see. {@vi,@} look about, look up; 
-<>perceive; lighten, make visible; show, illumine: <lbinfo n="4"/>
-<> {%pp.%} generally known, celebrated; known 
-<>as, called; {%cs.%} proclaim. {@abhi-vi,@} behold. 
-<>{@sam,@} appear with ({%in.%}); add up, calculate; 
-<>estimate by ({%in.%}). {@pari-sam,@} add together.
+be mentioned; be known: {%pp.%} {@khyāta,@} 
+named, known; known as; celebrated; {%cs.%} 
+{@khyāpaya,@} make known, proclaim, report, 
+declare; manifest, betray; tell about {%any one %}
+{%(ac.)%}; praise, celebrate. {@antar,@} withhold, conceal. <lbinfo n="3"/>
+ {@abhi,@} behold, perceive: {%pp.%} notorious; 
+{%cs.%} proclaim. {@ava,@} look down; observe. {@ā,@} recite, 
+enumerate; tell, inform, announce, report; 
+indicate; call, name, designate as (¤2¤ {%ac.%}); 
+{%cs.%} proclaim. {@prati‡ā,@} refuse, repudiate, deny; 
+decline; prohibit; refute; surpass. {@vi‡ā,@} explain; <lbinfo n="2"/>
+ discuss; announce, relate. {@sam-ā,@} 
+add, enumerate; relate; pronounce {%to be%} (iti): 
+{%pp.%} named. {@pari,@} look round; disregard ({%g.%}). 
+{@pra,@} see; announce; relate: {%pp.%} known, acknowledged; <lbinfo n="2"/>
+ renowned; {%cs.%} make generally 
+known: {%pp.%} {@khyāpita,@} known as ({%nm.%}). 
+{@prati,@} perceive, see. {@vi,@} look about, look up; 
+perceive; lighten, make visible; show, illumine: <lbinfo n="4"/>
+ {%pp.%} generally known, celebrated; known 
+as, called; {%cs.%} proclaim. {@abhi-vi,@} behold. 
+{@sam,@} appear with ({%in.%}); add up, calculate; 
+estimate by ({%in.%}). {@pari-sam,@} add together.
 <LEND>

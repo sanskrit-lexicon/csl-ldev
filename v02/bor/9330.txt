@@ -1,5 +1,5 @@
 <L>9330<pc>296<k1>fracture<k2>fracture
-<div n="lb"/>{@FRACTURE@}¦ (subs.): <div n="1">(1) {#भङ्गः,#} {%f. of the bones:%}
-<div n="lb"/>{#अस्थ्नां भङ्गः,#} Sr.; </div><div n="1">(2) {#भग्नम्,#} <div n="xe">{%a f. heals with diffi-%}
-<div n="lb"/>{%culty:%}</div> <div n="xs">{#भग्नं कृच्छ्रे ण सिध्यति,#}</div> Sr.</div>
+{@FRACTURE@}¦ (subs.): <div n="1">(1) {#भङ्गः,#} {%f. of the bones:%}
+{#अस्थ्नां भङ्गः,#} Sr.; </div><div n="1">(2) {#भग्नम्,#} <div n="xe">{%a f. heals with diffi-%}
+{%culty:%}</div> <div n="xs">{#भग्नं कृच्छ्रे ण सिध्यति,#}</div> Sr.</div>
 <LEND>

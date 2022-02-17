@@ -1,5 +1,5 @@
 <L>30820<pc>828-b<k1>verb<k2>verb
-<div n="lb"/>VERB¦, {%s.%} {#क्रिया, क्रियापदं;#} ‘form of a verb,’ {#क्रियारूपं, धातुरूपं,#}
-<div n="lb"/>{#आख्यातं;#} ‘root of a verb,’ {#धातुः#} {%m.;%} ‘subject of one,’ {#क्रि-#}
-<div n="lb"/>{#याश्रयः;#} ‘table or list of verbs,’ {#धातुपाठः#}.
+VERB¦, {%s.%} {#क्रिया, क्रियापदं;#} ‘form of a verb,’ {#क्रियारूपं, धातुरूपं,#}
+{#आख्यातं;#} ‘root of a verb,’ {#धातुः#} {%m.;%} ‘subject of one,’ {#क्रि-#}
+{#याश्रयः;#} ‘table or list of verbs,’ {#धातुपाठः#}.
 <LEND>

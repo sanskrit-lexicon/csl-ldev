@@ -1,9 +1,9 @@
 <L>19325<pc>599<k1>ride<k2>ride
-<div n="lb"/>{@RIDE@}¦ (v.): <div n="1">(1) {#आ- रोहति, अधि-, समधि-, समा-, #}
-<div n="lb"/>{# अध्या-,#} ({#रुह्,#} c. l.), <div n="xe">{%rose in order to r.:%}</div> <div n="xs">{#आरुरुक्षुरुद-#}
-<div n="lb"/>{#तिष्ठत्,#}</div> <ls>K.</ls> ; <div n="xe">{%r. ing on it:%}</div> <div n="xs">{#समारुह्य तम्,#}</div> <ls>K.</ls> ; <div n="xe">{%r. for%}
-<div n="lb"/>{%the battle on a great marine monster:%}</div> <div n="xs">{#युध्देऽधिरूढः #}
-<div n="lb"/>{# मकरं महत्तरम्,#}</div> Ku. xiv. 9.; </div><div n="1">(2) {#अधितिष्ठति#} ({#स्था,#}
-<div n="lb"/>c. l. = be seated on), <div n="xe">{%r. ing in their excellent%}
-<div n="lb"/>{%vehicles:%}</div> <div n="xs">{#स्ववाहनानि प्रवराण्यधिष्ठिताः,#}</div> Ku. xiv. 13.</div>
+{@RIDE@}¦ (v.): <div n="1">(1) {#आ- रोहति, अधि-, समधि-, समा-, #}
+{# अध्या-,#} ({#रुह्,#} c. l.), <div n="xe">{%rose in order to r.:%}</div> <div n="xs">{#आरुरुक्षुरुद-#}
+{#तिष्ठत्,#}</div> <ls>K.</ls> ; <div n="xe">{%r. ing on it:%}</div> <div n="xs">{#समारुह्य तम्,#}</div> <ls>K.</ls> ; <div n="xe">{%r. for%}
+{%the battle on a great marine monster:%}</div> <div n="xs">{#युध्देऽधिरूढः #}
+{# मकरं महत्तरम्,#}</div> Ku. xiv. 9.; </div><div n="1">(2) {#अधितिष्ठति#} ({#स्था,#}
+c. l. = be seated on), <div n="xe">{%r. ing in their excellent%}
+{%vehicles:%}</div> <div n="xs">{#स्ववाहनानि प्रवराण्यधिष्ठिताः,#}</div> Ku. xiv. 13.</div>
 <LEND>

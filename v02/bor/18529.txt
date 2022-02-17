@@ -1,5 +1,5 @@
 <L>18529<pc>570<k1>ramification<k2>ramification
-<div n="lb"/>{@RAMIFICATION:@}¦ <div n="I">I A small branch: </div><div n="1">(1)
-<div n="lb"/>{#प्रशाखा;#} </div><div n="1">(2) {#प्रतिशाखा।#} </div><div n="I">II Fig., member,
-<div n="lb"/>head: {#अङ्गः।#}</div>
+{@RAMIFICATION:@}¦ <div n="I">I A small branch: </div><div n="1">(1)
+{#प्रशाखा;#} </div><div n="1">(2) {#प्रतिशाखा।#} </div><div n="I">II Fig., member,
+head: {#अङ्गः।#}</div>
 <LEND>

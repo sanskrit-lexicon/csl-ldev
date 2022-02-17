@@ -9,12 +9,12 @@
 <ls>AIT. BR. 4, 26.</ls> 
 <ls>ŚAT. BR. 10, 2, 5, 14.</ls> 
 <ls>ĀŚV. ŚR. 4, 12, 1.</ls> 
-<ls>MBH. 3, 11875. 6, 5522.</ls> 
+<ls>MBH. 3, 11875.</ls> <ls n="MBH.">6, 5522.</ls> 
 <ls>R. 7, 42, 26.</ls> {#धूम#} 
 <ls>MBH. 12, 8662.</ls> {#त्रियामा#} 
 <ls>HARIV. 5768.</ls> {#मरुत्, वात#} 
-<ls>Spr. (II) 1915. 2302.</ls> {#अस्त्र#} 
-<ls>HARIV. 12732. 13181</ls> (nach der Lesart der neueren Ausg.). 
+<ls>Spr. (II) 1915.</ls> <ls n="Spr. (II)">2302.</ls> {#अस्त्र#} 
+<ls>HARIV. 12732.</ls> <ls n="HARIV.">13181</ls> (nach der Lesart der neueren Ausg.). 
 <ls>KATHĀS. 116, 71.</ls> 
 <div n="2">— b) {%von%} <is>Śiśira</is> {%stammend, von ihm verfasst%}: {#संहिता#} 
 <ls>MÜLLER, SL. 135. 369.</ls> 
@@ -24,7 +24,7 @@
 <div n="2">— b) N. pr. eines Lehrers (neben {#शिशिर#}) 
 <ls>MÜLLER, SL. 135. 369.</ls> 
 <div n="2">— c) N. pr. eines Berges 
-<ls>MBH. 3, 11949. 7, 9242. 12, 12313.</ls> 
+<ls>MBH. 3, 11949.</ls> <ls n="MBH.">7, 9242.</ls> <ls n="MBH.">12, 12313.</ls> 
 <ls>HARIV. 12386</ls> ({#शिशिर#} die neuere Ausg.). 
 <div n="v">— Vgl. {#फल°#} .
 <LEND>

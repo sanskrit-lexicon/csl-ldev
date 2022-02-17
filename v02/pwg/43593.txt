@@ -25,7 +25,7 @@
 <ls>TS. 3, 4, 5, 1.</ls> 
 <ls>GOBH. 4, 8, 9.</ls> {#उभौ पर्वतौ दक्षिणश्चोत्तरश्च#} 
 <ls>KAUṢ. UP.</ls> in <ls>Ind. St. 1, 407. fg.</ls> <ls>M. 3, 9. 4, 46.</ls> {#°मस्तक#} 
-<ls>47. 60. N. 9, 21. 12, 81.</ls> {#महा°#} 
+<ls>47. 60.</ls> <ls>N. 9, 21. 12, 81.</ls> {#महा°#} 
 <ls>R. 1, 1, 62.</ls> {#विन्ध्य°#} 
 <ls>6, 22.</ls> {#उत्तरं पर्वतम्#} 
 <ls>63, 14. 65, 12.</ls> {#हेमकूटः किंपुरुषपर्वतः#} 
@@ -34,7 +34,7 @@
 <ls>MEGH. 23.</ls> 
 <ls>HIT. 18, 7.</ls> 
 <ls>VARĀH. BṚH. S. 45, 91. 53, 104.</ls> {#व्यशीर्यत - नौरिवासाद्य पर्वतम्#} 
-<ls>MBH. 7, 1242. 1331.</ls> {#मही सपर्वता#} 
+<ls>MBH. 7, 1242.</ls> <ls n="MBH. 7,">1331.</ls> {#मही सपर्वता#} 
 <ls>R. 2, 41, 18. 6, 102, 22.</ls> 
 <ls>MĀRK. P. 53, 11.</ls> {#°केतव इव#} 
 <ls>BHĀG. P. 5, 16, 13.</ls> {%Künstliche Berge (Haufen) von Getraide, Salz, Safran, Zucker, Silber,%}
@@ -57,7 +57,7 @@
 <ls n="ṚV.">2, 11, 8.</ls> <ls n="ṚV. 2, 11,">7.</ls> {#धू\नु\थ द्यां पर्व^तान्दा\शुषे\ वसु^#} 
 <ls n="ṚV.">5, 57, 5.</ls> <ls n="ṚV.">8, 7, 23.</ls> auch wohl 
 <ls n="ṚV. 8,">59, 11.</ls> <ls>VS. 10, 19.</ls> An vielen Stellen ist zwischen der ersten Bedeutung und der jedenfalls viel selteneren dritten kaum zu entscheiden; z. B. in den Schilderungen von <is>Indra's</is> Kämpfen, der sowohl {%Wolken%} als {%Berge%} spaltet, um die Gewässer zu befreien u. s. w.; oder in den Bildern von den <is>Marut</is>, die auf {%Höhen%} und im {%Gewölk%} hausen, {%Berge%} und {%Wolken%} schütteln und zerreissen, vgl. 
-<ls>ṚV. 1, 32, 1.</ls> <ls n="ṚV.">2, 12, 11.</ls> <ls n="ṚV.">4, 30, 14.</ls> <ls n="ṚV.">8, 7, 23</ls>  u.s.w.
+<ls>ṚV. 1, 32, 1.</ls> <ls n="ṚV.">2, 12, 11.</ls> <ls n="ṚV.">4, 30, 14.</ls> <ls n="ṚV.">8, 7, 23</ls> u.s.w.
 <div n="2">— d) Bez. {%der Zahl sieben%} (wegen der {%7 Hauptgebirge%}) 
 <ls>SŪRYAS. 2, 37.</ls> 
 <div n="2">— e) {%Baum%} 
@@ -72,14 +72,14 @@
 <ls>P. 4, 1, 103.</ls> 
 <div n="3"> α) eines zwischen Göttern und Menschen verkehrenden <is>Ṛṣi</is>, Begleiters des <is>Nārada</is> (s. u. d. W.), Liedverfassers (mit dem patron. <is>Kāṇva</is> und auch <is>Kāśyapa</is>) von 
 <ls>ṚV. 8, 12.</ls> <ls n="ṚV.">9, 104.</ls> <ls n="ṚV. 9,">105.</ls> 
-<ls>ṚV.</ls> 
-<ls>ANUKR.</ls> <ls>Ind. St. 3, 222.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ŚĀṄKH. ŚR. 15, 17, 4.</ls> <ls>N. 2, 13.</ls> <ls>MBH. 1, 2048. 7011. 2, 110. 292. 7, 2138. 12, 1046. fgg.</ls> <ls>KATHĀS. 45, 348.</ls> 
+<ls>ṚV. ANUKR.</ls> 
+<ls>Ind. St. 3, 222.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ŚĀṄKH. ŚR. 15, 17, 4.</ls> <ls>N. 2, 13.</ls> <ls>MBH. 1, 2048.</ls> <ls n="MBH. 1,">7011.</ls> <ls n="MBH.">2, 110.</ls> <ls n="MBH. 2,">292.</ls> <ls n="MBH.">7, 2138.</ls> <ls n="MBH.">12, 1046. fgg.</ls> <ls>KATHĀS. 45, 348.</ls> 
 <div n="3">— β) eines Sohnes des <is>Paurṇamāsa</is>, eines Sohnes des <is>Marīki</is> von der <is>Saṃbhūti</is>, 
 <ls>MĀRK. P. 52, 19.</ls> 
 <div n="3">— γ) eines Ministers des Königs <is>Purūravas</is> 
 <ls>VIKR. 85, 17.</ls> 
 <div n="3">— δ) eines Grammatikers (?) 
-<ls>Ind. St. 5,</ls> <ls>?160; vgl. 165. fg.</ls> 
+<ls>Ind. St. 5, 160</ls>; vgl. <ls>165. fg.</ls> 
 <div n="3">— ε) eines Affen 
 <ls>R. 6, 2, 34.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#ई/#} {%Fels, Stein%} 

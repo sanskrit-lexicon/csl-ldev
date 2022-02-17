@@ -1,4 +1,4 @@
 <L>9500<pc>301<k1>fruit-garden<k2>fruit-garden
-<div n="lb"/>{@FRUIT-GARDEN:@}¦ <div n="1">(1) {#फलवाटिका;#} </div><div n="1">(2) {#फलोद्यानम्,#}
-<div n="lb"/>Raj.</div>
+{@FRUIT-GARDEN:@}¦ <div n="1">(1) {#फलवाटिका;#} </div><div n="1">(2) {#फलोद्यानम्,#}
+Raj.</div>
 <LEND>

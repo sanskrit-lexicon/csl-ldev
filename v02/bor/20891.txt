@@ -1,5 +1,5 @@
 <L>20891<pc>656<k1>snuff<k2>snuff
-<div n="lb"/>{@SNUFF@}¦ (subs.): <div n="I">I Powdered tobacco: {#नस्यम्,#}
-<div n="lb"/><div n="xe">{%to take s.:%}</div> <div n="xs">{#नस्यं गृह्नाति,#}</div> Bha. </div><div n="I">II Burnt
-<div n="lb"/>candle-wick: perh. {#छत्रम्; दग्धवर्तिः।#}</div>
+{@SNUFF@}¦ (subs.): <div n="I">I Powdered tobacco: {#नस्यम्,#}
+<div n="xe">{%to take s.:%}</div> <div n="xs">{#नस्यं गृह्नाति,#}</div> Bha. </div><div n="I">II Burnt
+candle-wick: perh. {#छत्रम्; दग्धवर्तिः।#}</div>
 <LEND>

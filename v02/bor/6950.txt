@@ -1,4 +1,4 @@
 <L>6950<pc>221<k1>drinkable<k2>drinkable
-<div n="lb"/>{@DRINKABLE:@}¦ <div n="1">(1) {#पेयः#} ({#या, यं#}); </div><div n="1">(1) {#पानीयः#}
-<div n="lb"/>({#या, यं#}).</div>
+{@DRINKABLE:@}¦ <div n="1">(1) {#पेयः#} ({#या, यं#}); </div><div n="1">(1) {#पानीयः#}
+({#या, यं#}).</div>
 <LEND>

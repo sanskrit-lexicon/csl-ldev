@@ -1,11 +1,11 @@
 <L>1789<pc>062<k1>become<k2>become
-<div n="lb"/>{@BECOME@}¦ (v. t.): <div n="1">(1) {#युज्यते#} (pass. of {#युज्#}) (with)
-<div n="lb"/>gen.); </div><div n="1">(2) {#उप-पद्यते#} ({#पद्,#} c. 4) (with gen.).
-<div n="lb"/>Better by the adj. s {#अनुरूपः#} ({#पा, पं#}), {#सदृशः#}
-<div n="lb"/>({#शी, शं#}); {#उपपन्नः#} ({#न्ना, न्नं#}); {#युक्तः#} ({#क्ता, क्तं#}),
-<div n="lb"/>etc. (with gen. or in comp.): <div n="xe">{%we are going%}
-<div n="lb"/>{%to act in a way, b. ing our prowess%}</div> <div n="xs">{#गच्छामो वयं #}
-<div n="lb"/>{# विक्रमानुरूपमाचरितुम्,#}</div> Ve. i.; <div n="xe">{%and what b. s such%}
-<div n="lb"/>{%love%}</div> <div n="xs">{#ईदृशस्य चानुरागस्य सदृशम्,#}</div> R.; <div n="xe">{%this does not b.%}
-<div n="lb"/>{%men like you%}</div> <div n="xs">{#अनुपपन्नमिदं भवद्विधानां,#}</div> Ve. iii.</div>
+{@BECOME@}¦ (v. t.): <div n="1">(1) {#युज्यते#} (pass. of {#युज्#}) (with)
+gen.); </div><div n="1">(2) {#उप-पद्यते#} ({#पद्,#} c. 4) (with gen.).
+Better by the adj. s {#अनुरूपः#} ({#पा, पं#}), {#सदृशः#}
+({#शी, शं#}); {#उपपन्नः#} ({#न्ना, न्नं#}); {#युक्तः#} ({#क्ता, क्तं#}),
+etc. (with gen. or in comp.): <div n="xe">{%we are going%}
+{%to act in a way, b. ing our prowess%}</div> <div n="xs">{#गच्छामो वयं #}
+{# विक्रमानुरूपमाचरितुम्,#}</div> Ve. i.; <div n="xe">{%and what b. s such%}
+{%love%}</div> <div n="xs">{#ईदृशस्य चानुरागस्य सदृशम्,#}</div> R.; <div n="xe">{%this does not b.%}
+{%men like you%}</div> <div n="xs">{#अनुपपन्नमिदं भवद्विधानां,#}</div> Ve. iii.</div>
 <LEND>

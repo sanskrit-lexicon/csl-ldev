@@ -1,10 +1,10 @@
 <L>6346<pc>203<k1>discretion<k2>discretion
-<div n="lb"/>{@DISCRETION:@}¦ <div n="I">I Discreetness: </div><div n="1">(1) {#समीक्ष्य-#}
-<div n="lb"/>{#कारिता;#} </div><div n="1">(2) {#विवेकः; विज्ञता:#} v. Wisdom. </div><div n="I">II
-<div n="lb"/>Entire control: Ph.: <div n="xe">{%you have no d. in the%}
-<div n="lb"/>{%matter:%}</div> <div n="xs">{#न ते इच्छाधीनमेतत्;#}</div> <div n="xe">{%act according to your%}
-<div n="lb"/>{%d.:%}</div> <div n="xs">{#*यत् शोभनं मन्यसे तदेव कुरु;#}</div> <div n="xe">{%you have entire d.%}
-<div n="lb"/>{%to do what becomes you in this case:%}</div> <div n="xs">{#यदत्रात्मनः #}
-<div n="lb"/>{# समुचितं तत्र प्रभवति#}</div> ({#भू,#} c. 1.) {#भवती,#} K.; {%at d.%}
-<div n="lb"/>(i. e. without condition) {#विना समयेन।#}</div>
+{@DISCRETION:@}¦ <div n="I">I Discreetness: </div><div n="1">(1) {#समीक्ष्य-#}
+{#कारिता;#} </div><div n="1">(2) {#विवेकः; विज्ञता:#} v. Wisdom. </div><div n="I">II
+Entire control: Ph.: <div n="xe">{%you have no d. in the%}
+{%matter:%}</div> <div n="xs">{#न ते इच्छाधीनमेतत्;#}</div> <div n="xe">{%act according to your%}
+{%d.:%}</div> <div n="xs">{#*यत् शोभनं मन्यसे तदेव कुरु;#}</div> <div n="xe">{%you have entire d.%}
+{%to do what becomes you in this case:%}</div> <div n="xs">{#यदत्रात्मनः #}
+{# समुचितं तत्र प्रभवति#}</div> ({#भू,#} c. 1.) {#भवती,#} K.; {%at d.%}
+(i. e. without condition) {#विना समयेन।#}</div>
 <LEND>

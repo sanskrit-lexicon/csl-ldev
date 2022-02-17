@@ -1,4 +1,4 @@
 <L>11590<pc>362<k1>immobility<k2>immobility
-<div n="lb"/>{@IMMOBILITY:@}¦ <div n="1">(1) {#अचलता, -त्वम्;#} </div><div n="1">(2) {#निश्चलता, -त्वम्;#}</div>
-<div n="lb"/><div n="1">(3) {#स्थैर्यम्।#}</div>
+{@IMMOBILITY:@}¦ <div n="1">(1) {#अचलता, -त्वम्;#} </div><div n="1">(2) {#निश्चलता, -त्वम्;#}</div>
+<div n="1">(3) {#स्थैर्यम्।#}</div>
 <LEND>

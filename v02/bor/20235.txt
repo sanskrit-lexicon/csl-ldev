@@ -1,6 +1,6 @@
 <L>20235<pc>631<k1>set off<k2>set off
-<div n="lb"/>{@SET OFF:@}¦ <div n="I">I To separate: {#पृथक्करोति।#} </div><div n="I">II
-<div n="lb"/>With <div n="xe">{%against:%}</div> <div n="xs">{#तुलयति#}</div> ({#तुल्,#} c. 10.). </div><div n="I">III
-<div n="lb"/>To embellish, adorn: q. v.: {#संस्करोति।#} </div><div n="I">IV
-<div n="lb"/>To praise: q. v.: {#प्रशंसति#} ({#शंस्,#} c. 1.)</div>
+{@SET OFF:@}¦ <div n="I">I To separate: {#पृथक्करोति।#} </div><div n="I">II
+With <div n="xe">{%against:%}</div> <div n="xs">{#तुलयति#}</div> ({#तुल्,#} c. 10.). </div><div n="I">III
+To embellish, adorn: q. v.: {#संस्करोति।#} </div><div n="I">IV
+To praise: q. v.: {#प्रशंसति#} ({#शंस्,#} c. 1.)</div>
 <LEND>

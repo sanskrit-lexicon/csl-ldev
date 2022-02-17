@@ -1,15 +1,15 @@
 <L>4103<pc>133<k1>command<k2>command
-<div n="lb"/>{@COMMAND@}¦ (v. t.): <div n="I">I {%To give a c.:%} </div><div n="1">(1) {#आज्ञा-#}
-<div n="lb"/>{#पयति, सं-,#} (c. of {#ज्ञा#}) (with two acc.), {%c.%} ({%me%})
-<div n="lb"/><div n="xe">{%what you have to be done:%}</div> <div n="xs">{#आज्ञापय यत्ते करणीय-#}
-<div n="lb"/>{#मस्ति,#}</div> Ku. iii. 3; </div><div n="1">(2) {#आ-दिशति, नि-,#} ({#दिश्,#}
-<div n="lb"/>c. 6): v. To order. </div><div n="I">II To be in c. of:</div>
-<div n="lb"/><div n="1">(1) {#अधितिष्ठति#} ({#स्था,#} c. l), <div n="xe">{%the forces c. ed by my%}
-<div n="lb"/>{%father:%}</div> <div n="xs">{#ताताधिष्ठितानां बलानाम्,#}</div> Ve. iii.; </div><div n="1">(2) {#अध्यास्ते#}
-<div n="lb"/>({#आस्,#} c. 2), <div n="xe">{%Virūpākṣa wanted to c. the%}
-<div n="lb"/>{%heart of the city:%}</div> <div n="xs">{#विरूपाक्षः पुरोदरमव्यासिसिषांचक्रे,#}</div>
-<div n="lb"/>B. xiv. 16. </div><div n="I">III To govern, control: q. v.</div>
-<div n="lb"/><div n="I">IV Of position; expr. by circum, <div n="xe">{%the house%}
-<div n="lb"/>{%c. s a beautiful view of the lake:%}</div> <div n="xs">{#*अस्माद्गृहात्सरः #}
-<div n="lb"/>{# सुन्दरमवलोकयिन्तुं शक्यते।#}</div></div>
+{@COMMAND@}¦ (v. t.): <div n="I">I {%To give a c.:%} </div><div n="1">(1) {#आज्ञा-#}
+{#पयति, सं-,#} (c. of {#ज्ञा#}) (with two acc.), {%c.%} ({%me%})
+<div n="xe">{%what you have to be done:%}</div> <div n="xs">{#आज्ञापय यत्ते करणीय-#}
+{#मस्ति,#}</div> Ku. iii. 3; </div><div n="1">(2) {#आ-दिशति, नि-,#} ({#दिश्,#}
+c. 6): v. To order. </div><div n="I">II To be in c. of:</div>
+<div n="1">(1) {#अधितिष्ठति#} ({#स्था,#} c. l), <div n="xe">{%the forces c. ed by my%}
+{%father:%}</div> <div n="xs">{#ताताधिष्ठितानां बलानाम्,#}</div> Ve. iii.; </div><div n="1">(2) {#अध्यास्ते#}
+({#आस्,#} c. 2), <div n="xe">{%Virūpākṣa wanted to c. the%}
+{%heart of the city:%}</div> <div n="xs">{#विरूपाक्षः पुरोदरमव्यासिसिषांचक्रे,#}</div>
+B. xiv. 16. </div><div n="I">III To govern, control: q. v.</div>
+<div n="I">IV Of position; expr. by circum, <div n="xe">{%the house%}
+{%c. s a beautiful view of the lake:%}</div> <div n="xs">{#*अस्माद्गृहात्सरः #}
+{# सुन्दरमवलोकयिन्तुं शक्यते।#}</div></div>
 <LEND>

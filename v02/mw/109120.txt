@@ -1,6 +1,6 @@
 <L>109120<pc>551,3<k1>नियम्<k2>नि-यम्<e>1
-<s>नि-√ यम्</s> ¦ <ab>P.</ab> <s>-यच्छति</s>, to stop (trans.), hold back, detain with (<ab>loc.</ab>) <pb n="552,1"/>;
-<div n="to"/> (<ab>Ā.</ab>) to stop (intrans.), stay, remain, <ls>RV.</ls>;
+<s>नि-√ यम्</s> ¦ <ab>P.</ab> <s>-यच्छति</s>, to stop (<ab>trans.</ab>), hold back, detain with (<ab>loc.</ab>) <pb n="552,1"/>;
+<div n="to"/> (<ab>Ā.</ab>) to stop (<ab>intrans.</ab>), stay, remain, <ls>RV.</ls>;
 <div n="to"/>to keep back, refuse;
 <div n="to"/> (<ab>Ā.</ab>) to fail, be wanting, <ls>ib.</ls>;
 <div n="to"/>to fasten, tie to (<ab>loc.</ab>), bind up (hair &c.), <ls>ib.</ls> &c. &c.;
@@ -11,7 +11,7 @@
 <div n="to"/>to suppress or conceal (one's nature), <ls>Mn. x, 59</ls>;
 <div n="to"/>to destroy, annihilate (<ab>opp.</ab> to √ <s>सृज्</s>), <ls>BhP.</ls>;
 <div n="to"/>to restrict (food &c.; <ab>cf.</ab> below);
-<div n="to"/>to fix upon, settle, determine, establish, <ls>Sarvad.</ls>; <ls>Kathās.</ls>; <ls>BhP.</ls>; <ls>Kāś.</ls> on <ls>Pāṇ. 2-3, 66</ls>;
-<div n="to"/> (in gram.) to lower, pronounce low <ab>i.e.</ab> with the <s1 slp1="anudAtta">Anudātta</s1>, <ls>RPrāt.</ls> :
+<div n="to"/>to fix upon, settle, determine, establish, <ls>Sarvad.</ls>; <ls>Kathās.</ls>; <ls>BhP.</ls>; <ls>Kāś.</ls> on <ls>Pāṇ. ii, 3, 66</ls>;
+<div n="to"/> (in <ab>gram.</ab>) to lower, pronounce low <ab>i.e.</ab> with the <s1 slp1="anudAtta">Anudātta</s1>, <ls>RPrāt.</ls> :
 <div n="to"/><ab>Caus.</ab> <s>-यमयति</s>, to restrain, curb, check, suppress, restrict, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.<info verb="pre" cp="PĀ" parse="ni+yam"/>
 <LEND>

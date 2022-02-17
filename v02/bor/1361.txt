@@ -1,6 +1,6 @@
 <L>1361<pc>048<k1>audible<k2>audible
-<div n="lb"/>{@AUDIBLE:@}¦ {#स्फुटः#} ({#टा, टं#}) (=distinct: q. v.). Ph.:
-<div n="lb"/><div n="xe">{%he speaks in an a. voice%}</div> <div n="xs">{#*स तथा गिरमुदीरयति #}
-<div n="lb"/>{# यथा श्रोतृवर्गाणां कर्णगोचरीभवति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#यथा श्रोतारो ग्रहीतुं #}
-<div n="lb"/>{# शक्रुवन्ति।#}</div>
+{@AUDIBLE:@}¦ {#स्फुटः#} ({#टा, टं#}) (=distinct: q. v.). Ph.:
+<div n="xe">{%he speaks in an a. voice%}</div> <div n="xs">{#*स तथा गिरमुदीरयति #}
+{# यथा श्रोतृवर्गाणां कर्णगोचरीभवति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#यथा श्रोतारो ग्रहीतुं #}
+{# शक्रुवन्ति।#}</div>
 <LEND>

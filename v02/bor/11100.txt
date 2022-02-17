@@ -1,7 +1,7 @@
 <L>11100<pc>349<k1>hollow<k2>hollow
-<div n="lb"/>{@HOLLOW@}¦ (adj.): <div n="I">I Lit.: {#शून्यगर्भ#} (f. {#र्भा#});</div>
-<div n="lb"/><div n="1">(2) {#मध्यशुषिरः#} ({#रा, रं#}) (rare), B. com. </div><div n="I">II
-<div n="lb"/>Fig.: {#शून्यगर्भ#} (f. {#र्भा#}): v. Empty, vain.</div>
-<div n="lb"/><div n="I">III Of sounds, deep: {#धीरः#} ({#रा, रं#}) {%or%} perh.
-<div n="lb"/>{#धीरगभीरः#} ({#रा, रं#}).</div>
+{@HOLLOW@}¦ (adj.): <div n="I">I Lit.: {#शून्यगर्भ#} (f. {#र्भा#});</div>
+<div n="1">(2) {#मध्यशुषिरः#} ({#रा, रं#}) (rare), B. com. </div><div n="I">II
+Fig.: {#शून्यगर्भ#} (f. {#र्भा#}): v. Empty, vain.</div>
+<div n="I">III Of sounds, deep: {#धीरः#} ({#रा, रं#}) {%or%} perh.
+{#धीरगभीरः#} ({#रा, रं#}).</div>
 <LEND>

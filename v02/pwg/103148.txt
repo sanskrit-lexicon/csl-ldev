@@ -5,11 +5,11 @@
 <ls>H. 682.</ls> 
 <ls>an. 3, 615.</ls> 
 <ls>MED. r. 235.</ls> <ls>HALĀY. 5, 32.</ls> <ls>R. GORR. 2, 95, 24. fg. 103, 24. 120, 13.</ls> <ls>PAÑCAT. 117, 12.</ls> {#कुश°#} 
-<ls>MBH. 1, 1541. 4708.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 96, 21.</ls> 
+<ls>MBH. 1, 1541.</ls> <ls n="MBH. 1,">4708.</ls> 
+
+<ls>R. GORR. 2, 96, 21.</ls> 
 <ls>KATHĀS. 22, 198. 56, 316.</ls> {#दर्भ°#} 
-<ls>R. 2, 103, 29 (111, 35 GORR.).</ls> <ls>R. GORR. 2,3,  23. 5, 68, 11.</ls> <ls>KATHĀS. 22, 195. 54, 162.</ls>
+<ls>R. 2, 103, 29 (111, 35 GORR.).</ls> <ls>R. GORR. 2,3, 23. 5, 68, 11.</ls> <ls>KATHĀS. 22, 195. 54, 162.</ls>
 [Page7-0492]
 {#पर्ण°#} 
 <ls>R. 1, 25, 1 (26, 1 GORR.).</ls> {#नवपल्लव°#} 
@@ -18,7 +18,7 @@
 <ls>Spr. (II) 557.</ls> {#शर°#} 
 <ls>MBH. 12, 1811.</ls> {#अजिन°#} 
 <ls>3, 11004.</ls> {#चर्म°#} 
-<ls>Verz. d. Oxf. H. 46</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 46,a,</ls> 
 <ls>41.</ls> 
 <div n="1">— 2) {%eine (ausgestreute) Menge%}: {#पुष्पसंस्तरसंस्तृत (आश्रम)#} 
 <ls>MBH. 1, 2863.</ls> {#पुष्पसंस्तरसंकट (वनोद्देश)#} 
@@ -31,5 +31,5 @@
 <ls>HARIV. 2622.</ls> 
 <div n="1">— 6) {%Opferhandlung, Opfer%} 
 <ls>AK.</ls> <ls>H. 820.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 259.</ls> <ls>R. 1, 13, 22 (20 GORR.).</ls> gewöhnlich in dieser Bed. {#यज्ञ°#} 
-<ls>MBH. 1, 2216. 2885. 5, 3754. 9, 2353. 14, 2641. 15, 930.</ls>
+<ls>MBH. 1, 2216.</ls> <ls n="MBH. 1,">2885.</ls> <ls n="MBH.">5, 3754.</ls> <ls n="MBH.">9, 2353.</ls> <ls n="MBH.">14, 2641.</ls> <ls n="MBH.">15, 930.</ls>
 <LEND>

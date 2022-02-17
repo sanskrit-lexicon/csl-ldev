@@ -1,7 +1,7 @@
 <L>1600<pc>056<k1>barbarian<k2>barbarian
-<div n="lb"/>{@BARBARIAN@}¦ (subs.): <div n="I">I An uncivilized person:</div>
-<div n="lb"/><div n="1">(1) {#असभ्यः#} ({#भ्या, भ्यं#}); </div><div n="1">(2) {#म्लेच्छः#} (properly
-<div n="lb"/>one who is not a Hindu, but may be used
-<div n="lb"/>in the sense of b.). </div><div n="I">II A cruel man:
-<div n="lb"/>{#पिशाचः#} (?). v. Cruel.</div>
+{@BARBARIAN@}¦ (subs.): <div n="I">I An uncivilized person:</div>
+<div n="1">(1) {#असभ्यः#} ({#भ्या, भ्यं#}); </div><div n="1">(2) {#म्लेच्छः#} (properly
+one who is not a Hindu, but may be used
+in the sense of b.). </div><div n="I">II A cruel man:
+{#पिशाचः#} (?). v. Cruel.</div>
 <LEND>

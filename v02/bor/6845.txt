@@ -1,7 +1,7 @@
 <L>6845<pc>218<k1>down<k2>down
-<div n="lb"/>{@DOWN@}¦ (subs.): <div n="I">I A bank: {#स्थलम्।#} </div><div n="I">II Low
-<div n="lb"/>ground: {#निम्नं#} <div n="xe">{%or%}</div> <div n="xs">{#निम्नप्रदेशः,#}</div> {%ups and d. s:%}
-<div n="lb"/>{#निम्नोन्नतानि,#} H.; {%on the road having ups and d. s:%}
-<div n="lb"/>{#मार्गे नतोन्नतभूमिमागे,#} Sa. </div><div n="I">III Fig., d. fall: {#पातः,#}
-<div n="lb"/><div n="xe">{%ups and d. s of men:%}</div> <div n="xs">{#पातोत्पाता मनुष्याणाम्,#}</div> H.</div>
+{@DOWN@}¦ (subs.): <div n="I">I A bank: {#स्थलम्।#} </div><div n="I">II Low
+ground: {#निम्नं#} <div n="xe">{%or%}</div> <div n="xs">{#निम्नप्रदेशः,#}</div> {%ups and d. s:%}
+{#निम्नोन्नतानि,#} H.; {%on the road having ups and d. s:%}
+{#मार्गे नतोन्नतभूमिमागे,#} Sa. </div><div n="I">III Fig., d. fall: {#पातः,#}
+<div n="xe">{%ups and d. s of men:%}</div> <div n="xs">{#पातोत्पाता मनुष्याणाम्,#}</div> H.</div>
 <LEND>

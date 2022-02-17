@@ -1,8 +1,8 @@
 <L>14341<pc>440<k1>mean<k2>mean
-<div n="lb"/>{@MEAN@}¦ (adj.): <div n="I">I Middle, intermediate: q. v.:
-<div n="lb"/>{#मध्यः#} ({#ध्या, ध्यं#}), <div n="xe">{%m. deviation:%}</div> <div n="xs">{#मध्यविक्षेपः,#}</div> Su. i.
-<div n="lb"/>70. Ph.: <div n="xe">{%in the m. time:%}</div> <div n="xs">{#अत्रान्तरे,#}</div> <ls>C.</ls> </div><div n="I">II. Low
-<div n="lb"/>in rank or birth: </div><div n="1">(1) {#निकृष्टः#} ({#ष्टा, ष्टं#});</div>
-<div n="lb"/><div n="1">(2) {#अपकृष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">III Base, contemp-
-<div n="lb"/>-tible: q. v.: {#जघन्यः#} ({#न्या, न्यं#}).</div>
+{@MEAN@}¦ (adj.): <div n="I">I Middle, intermediate: q. v.:
+{#मध्यः#} ({#ध्या, ध्यं#}), <div n="xe">{%m. deviation:%}</div> <div n="xs">{#मध्यविक्षेपः,#}</div> Su. i.
+70. Ph.: <div n="xe">{%in the m. time:%}</div> <div n="xs">{#अत्रान्तरे,#}</div> <ls>C.</ls> </div><div n="I">II. Low
+in rank or birth: </div><div n="1">(1) {#निकृष्टः#} ({#ष्टा, ष्टं#});</div>
+<div n="1">(2) {#अपकृष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">III Base, contemp-
+-tible: q. v.: {#जघन्यः#} ({#न्या, न्यं#}).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>7959<pc>251<k1>exalted<k2>exalted
-<div n="lb"/>{@EXALTED:@}¦ <div n="1">(1) {#उन्नतः#} ({#ता, तं#}), {#सम्-,#} <div n="xe">{%bending the%}
-<div n="lb"/>{%e.:%}</div> <div n="xs">{#उन्नतान्नमयन्,#}</div> K. </div><div n="1">(2) {#उच्छ्रितः#} ({#ता, तं#}), {#सम्-,#}
-<div n="lb"/><div n="xe">{%in a very e. minister:%}</div> <div n="xs">{#अत्युच्छ्रिते मन्त्रिणि,#}</div> Mu.;</div>
-<div n="lb"/><div n="1">(3) {#उच्चैः#} (= high), <div n="xe">{%a more e. place:%}</div> <div n="xs">{#उच्चैस्तरं #}
-<div n="lb"/>{# पदम्,#}</div> Ku.</div>
+{@EXALTED:@}¦ <div n="1">(1) {#उन्नतः#} ({#ता, तं#}), {#सम्-,#} <div n="xe">{%bending the%}
+{%e.:%}</div> <div n="xs">{#उन्नतान्नमयन्,#}</div> K. </div><div n="1">(2) {#उच्छ्रितः#} ({#ता, तं#}), {#सम्-,#}
+<div n="xe">{%in a very e. minister:%}</div> <div n="xs">{#अत्युच्छ्रिते मन्त्रिणि,#}</div> Mu.;</div>
+<div n="1">(3) {#उच्चैः#} (= high), <div n="xe">{%a more e. place:%}</div> <div n="xs">{#उच्चैस्तरं #}
+{# पदम्,#}</div> Ku.</div>
 <LEND>

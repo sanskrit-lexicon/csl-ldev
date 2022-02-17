@@ -1,5 +1,5 @@
 <L>177657<pc>878,3<k1>रामायण<k2>रामायण<e>2B
-<s>रामायण</s> ¦ <lex>n.</lex> (<s>रमा<srs/>यण</s>) <ab>N.</ab> of <s1 slp1="vAlmIki">Vālmīki</s1>'s celebrated poem, describing the ‘goings’ ([<s>अयन</s>]) of <s1 slp1="rAma">Rāma</s1> and <s1 slp1="sitA">Sitā</s1> (it contains about 24000 verses in 7 books called <s1 slp1="kARqa">Kāṇḍa</s1>s, <ab>viz.</ab> 1. <s1 slp1="bAla-kARqa">Bāla-kāṇḍa</s1> or <s1 slp1="Adi">Ādi</s1>-<ab n="kāṇḍa" slp1="kARqa">k°</ab>;
+<s>रामायण</s> ¦ <lex>n.</lex> (<s>रमा<स्र्स्/>यण</s>) <ab>N.</ab> of <s1 slp1="vAlmIki">Vālmīki</s1>'s celebrated poem, describing the ‘goings’ ([<s>अयन</s>]) of <s1 slp1="rAma">Rāma</s1> and <s1 slp1="sitA">Sitā</s1> (it contains about 24000 verses in 7 books called <s1 slp1="kARqa">Kāṇḍa</s1>s, <ab>viz.</ab> 1. <s1 slp1="bAla-kARqa">Bāla-kāṇḍa</s1> or <s1 slp1="Adi">Ādi</s1>-<ab n="kāṇḍa" slp1="kARqa">k°</ab>;
 2. <s1 slp1="ayoDyA">Ayodhyā</s1>-<ab n="kāṇḍa" slp1="kARqa">k°</ab>;
 3. <s1 slp1="araRya">Araṇya</s1>-<ab n="kāṇḍa" slp1="kARqa">k°</ab>;
 4. <s1 slp1="kiz-kinDyA">Kiṣ-kindhyā</s1>-<ab n="kāṇḍa" slp1="kARqa">k°</ab>;

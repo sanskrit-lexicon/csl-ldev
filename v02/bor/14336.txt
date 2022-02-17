@@ -1,7 +1,7 @@
 <L>14336<pc>440<k1>meal<k2>meal
-<div n="lb"/>{@MEAL@}¦ (subs.): <div n="I">I Flour: q. v.: {#चूर्णम्।#} </div><div n="I">II
-<div n="lb"/>A repast: </div><div n="1">(1) {#भोजनम्,#} <div n="xe">{%one day taking a m. at%}
-<div n="lb"/>{%night:%}</div> <div n="xs">{#एकाहं रात्रिभोजनः,#}</div> Pa.; </div><div n="1">(2) {#भक्तम्,#} <div n="xe">{%one%}
-<div n="lb"/>{%day taking one m.:%}</div> <div n="xs">{#एकाहम् एकमक्ताशी,#}</div> Pa. <div n="xe">{%M.%}
-<div n="lb"/>{%time:%}</div> <div n="xs">{#भोजनवेला।#}</div></div>
+{@MEAL@}¦ (subs.): <div n="I">I Flour: q. v.: {#चूर्णम्।#} </div><div n="I">II
+A repast: </div><div n="1">(1) {#भोजनम्,#} <div n="xe">{%one day taking a m. at%}
+{%night:%}</div> <div n="xs">{#एकाहं रात्रिभोजनः,#}</div> Pa.; </div><div n="1">(2) {#भक्तम्,#} <div n="xe">{%one%}
+{%day taking one m.:%}</div> <div n="xs">{#एकाहम् एकमक्ताशी,#}</div> Pa. <div n="xe">{%M.%}
+{%time:%}</div> <div n="xs">{#भोजनवेला।#}</div></div>
 <LEND>

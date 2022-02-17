@@ -1,13 +1,13 @@
 <L>23664<pc>742<k1>vain<k2>vain
-<div n="lb"/>{@VAIN:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#निष्फल#} (f. {#ला#} = fruit-
-<div n="lb"/>-less: q. v.), <div n="xe">{%one whose efforts are v.:%}</div> <div n="xs">{#निष्फल-#}
-<div n="lb"/>{#प्रयत्न#}</div> (f. {#त्ना#}), M. n. on Ki. ix. 46.; </div><div n="1">(2)
-<div n="lb"/>{#निरर्थक#} (f. {#र्थिका#} = useless: q. v.), <div n="xe">{%advice is%}
-<div n="lb"/>{%now v.:%}</div> <div n="xs">{#इदानीं निरर्थकाः खलु उपदेशाः,#}</div> K.; </div><div n="1">(3)
-<div n="lb"/>{#व्यर्थ#} (f. {#र्था#} = 2.); </div><div n="1">(4) {#मोघ#} (f. {#घा#}), <div n="xe">{%made her%}
-<div n="lb"/>{%hand v.:%}</div> <div n="xs">{#तत्पाणिं मोघं वितेने,#}</div> N. iii. 5.; </div><div n="1">(5) {#वृथा-#}
-<div n="lb"/>in comp.: <div n="xe">{%v. jest:%}</div> <div n="xs">{#वृथापरीहासः,#}</div> N. ix. 25.;
-<div n="lb"/>({%your%}) <div n="xe">{%toils are v.:%}</div> <div n="xs">{#वृथाश्रमः,#}</div> Ki. v. 45. </div><div n="I">II
-<div n="lb"/>Proud: {#वृथाभिमानिन्#} (f. {#नी#}), and sim. comp. s.</div>
-<div n="lb"/><div n="I">III Showy, ostentatious: q. v.</div>
+{@VAIN:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#निष्फल#} (f. {#ला#} = fruit-
+-less: q. v.), <div n="xe">{%one whose efforts are v.:%}</div> <div n="xs">{#निष्फल-#}
+{#प्रयत्न#}</div> (f. {#त्ना#}), M. n. on Ki. ix. 46.; </div><div n="1">(2)
+{#निरर्थक#} (f. {#र्थिका#} = useless: q. v.), <div n="xe">{%advice is%}
+{%now v.:%}</div> <div n="xs">{#इदानीं निरर्थकाः खलु उपदेशाः,#}</div> K.; </div><div n="1">(3)
+{#व्यर्थ#} (f. {#र्था#} = 2.); </div><div n="1">(4) {#मोघ#} (f. {#घा#}), <div n="xe">{%made her%}
+{%hand v.:%}</div> <div n="xs">{#तत्पाणिं मोघं वितेने,#}</div> N. iii. 5.; </div><div n="1">(5) {#वृथा-#}
+in comp.: <div n="xe">{%v. jest:%}</div> <div n="xs">{#वृथापरीहासः,#}</div> N. ix. 25.;
+({%your%}) <div n="xe">{%toils are v.:%}</div> <div n="xs">{#वृथाश्रमः,#}</div> Ki. v. 45. </div><div n="I">II
+Proud: {#वृथाभिमानिन्#} (f. {#नी#}), and sim. comp. s.</div>
+<div n="I">III Showy, ostentatious: q. v.</div>
 <LEND>

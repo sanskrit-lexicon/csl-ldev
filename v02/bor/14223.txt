@@ -1,4 +1,4 @@
 <L>14223<pc>437<k1>mars<k2>mars
-<div n="lb"/>{@MARS:@}¦ <div n="I">I The planet: </div><div n="1">(1) {#मङ्गलः;#} </div><div n="1">(2) {#कुजः।#}</div>
-<div n="lb"/><div n="I">II The god of war: </div><div n="1">(1) {#कुमारः;#} </div><div n="1">(2) {#कार्त्तिकेयः।#}</div>
+{@MARS:@}¦ <div n="I">I The planet: </div><div n="1">(1) {#मङ्गलः;#} </div><div n="1">(2) {#कुजः।#}</div>
+<div n="I">II The god of war: </div><div n="1">(1) {#कुमारः;#} </div><div n="1">(2) {#कार्त्तिकेयः।#}</div>
 <LEND>

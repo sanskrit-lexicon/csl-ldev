@@ -1,5 +1,5 @@
 <L>3885<pc>127<k1>clue<k2>clue
-<div n="lb"/>{@CLUE:@}¦ <div n="I">I A ball of thread: {#सूत्रकोपम्#} (?). </div><div n="I">II
-<div n="lb"/>Anything serving to guide: Ph. {%to get a c.%}
-<div n="lb"/>{#सन्धानं प्राप्नोति#} (?); <div n="xe">{%to give a. c.%}</div> <div n="xs">{#सन्धानं ददाति#}</div> (?).</div>
+{@CLUE:@}¦ <div n="I">I A ball of thread: {#सूत्रकोपम्#} (?). </div><div n="I">II
+Anything serving to guide: Ph. {%to get a c.%}
+{#सन्धानं प्राप्नोति#} (?); <div n="xe">{%to give a. c.%}</div> <div n="xs">{#सन्धानं ददाति#}</div> (?).</div>
 <LEND>

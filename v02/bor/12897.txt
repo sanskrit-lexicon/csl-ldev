@@ -1,8 +1,8 @@
 <L>12897<pc>398<k1>journey<k2>journey
-<div n="lb"/>{@JOURNEY@}¦ (subs.): <div n="1">(1) {#प्रयाणम्:#} v. March; </div><div n="1">(2)
-<div n="lb"/>expr. by words given under way, <div n="xe">{%thus after%}
-<div n="lb"/>{%a few day's j.:%}</div> <div n="xs">{#इत्यध्वनः कैश्चदहोभिरन्ते,#}</div> R. xvi.
-<div n="lb"/>35.; <div n="xe">{%I wish you a pleasant j.:%}</div> <div n="xs">{#तव वर्त्मनि वर्ततां #}
-<div n="lb"/>{# शिवम्,#}</div> N. ii. 62. <div n="xe">{%or%}</div> <div n="xs">{#शिवास्ते सन्तु पन्थानः,#}</div>
-<div n="lb"/>Sa. iv.</div>
+{@JOURNEY@}¦ (subs.): <div n="1">(1) {#प्रयाणम्:#} v. March; </div><div n="1">(2)
+expr. by words given under way, <div n="xe">{%thus after%}
+{%a few day's j.:%}</div> <div n="xs">{#इत्यध्वनः कैश्चदहोभिरन्ते,#}</div> R. xvi.
+35.; <div n="xe">{%I wish you a pleasant j.:%}</div> <div n="xs">{#तव वर्त्मनि वर्ततां #}
+{# शिवम्,#}</div> N. ii. 62. <div n="xe">{%or%}</div> <div n="xs">{#शिवास्ते सन्तु पन्थानः,#}</div>
+Sa. iv.</div>
 <LEND>

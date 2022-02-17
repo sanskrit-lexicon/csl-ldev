@@ -1,4 +1,4 @@
 <L>10997<pc>346<k1>highway<k2>highway
-<div n="lb"/>{@HIGHWAY:@}¦ {#राजमार्गः,#} <div n="xe">{%shall not obstruct h.:%}</div> <div n="xs">{#राजमार्गान्न #}
-<div n="lb"/>{# रोधयेत्,#}</div> N. s.
+{@HIGHWAY:@}¦ {#राजमार्गः,#} <div n="xe">{%shall not obstruct h.:%}</div> <div n="xs">{#राजमार्गान्न #}
+{# रोधयेत्,#}</div> N. s.
 <LEND>

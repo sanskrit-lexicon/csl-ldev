@@ -1,6 +1,6 @@
 <L>8216<pc>259<k1>extent<k2>extent
-<div n="lb"/>{@EXTENT:@}¦ {#विस्तारः,#} <div n="xe">{%a Yojana in e.:%}</div> <div n="xs">{#योजनविस्तारः#}</div>
-<div n="lb"/>({#रा, रं#}). Ph.: <div n="xe">{%to a great e.:%}</div> <div n="xs">{#अतिमात्रम्:#}</div> v. Exceed-
-<div n="lb"/>-ingly; <div n="xe">{%to such an e.:%}</div> <div n="xs">{#एतावत्:#}</div> v. Much, so; <div n="xe">{%to%}
-<div n="lb"/>{%a slight e.:%}</div> <div n="xs">{#ईषत्:#}</div> v. Little.
+{@EXTENT:@}¦ {#विस्तारः,#} <div n="xe">{%a Yojana in e.:%}</div> <div n="xs">{#योजनविस्तारः#}</div>
+({#रा, रं#}). Ph.: <div n="xe">{%to a great e.:%}</div> <div n="xs">{#अतिमात्रम्:#}</div> v. Exceed-
+-ingly; <div n="xe">{%to such an e.:%}</div> <div n="xs">{#एतावत्:#}</div> v. Much, so; <div n="xe">{%to%}
+{%a slight e.:%}</div> <div n="xs">{#ईषत्:#}</div> v. Little.
 <LEND>

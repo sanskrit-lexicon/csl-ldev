@@ -1,7 +1,7 @@
 <L>7678<pc>243<k1>entice<k2>entice
-<div n="lb"/>{@ENTICE@}¦ (v.): <div n="1">(1) {#हरति#} ({#हृ,#} c. 1.) (= to allure:
-<div n="lb"/>q. v.), <div n="xe">{%not e.d by other temptations:%}</div> <div n="xs">{#अहृतस्य #}
-<div n="lb"/>{# विलोभनान्तरैः,#}</div> R.; </div><div n="1">(2) {#प्र-, लोभयति, वि-,#} (c. of {#लुभ्#})
-<div n="lb"/>(= to tempt: q. v.), <div n="xe">{%if any one e. s and defiles%}
-<div n="lb"/>{%this girl:%}</div> <div n="xs">{#यदि कश्चिदेनां बालां विलोभ्य नाशयिष्यति,#}</div> D.</div>
+{@ENTICE@}¦ (v.): <div n="1">(1) {#हरति#} ({#हृ,#} c. 1.) (= to allure:
+q. v.), <div n="xe">{%not e.d by other temptations:%}</div> <div n="xs">{#अहृतस्य #}
+{# विलोभनान्तरैः,#}</div> R.; </div><div n="1">(2) {#प्र-, लोभयति, वि-,#} (c. of {#लुभ्#})
+(= to tempt: q. v.), <div n="xe">{%if any one e. s and defiles%}
+{%this girl:%}</div> <div n="xs">{#यदि कश्चिदेनां बालां विलोभ्य नाशयिष्यति,#}</div> D.</div>
 <LEND>

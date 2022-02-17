@@ -1,7 +1,7 @@
 <L>10386<pc>248-a<k1>expedient<k2>expedient
-<div n="lb"/>EXPEDIENT¦, {%s.%} (Means) {#उपायः, अभ्युपायः, गतिः#} {%f.,%} {#साधनं, कर्म्मसाधनं,#}
-<div n="lb"/>{#गुणः, अङ्गं, विधानं, उपकरणं, सम्भवः, योगः, उपपत्तिः#} {%f.,%} {#उपक्रमः#}.
-<div n="lb"/>The six expedients of defence are {#सन्धिः, विग्रहः, यानं, आसनं,#}
-<div n="lb"/>{#द्वैधं, आश्रयः#}. The four expedients for reducing an enemy
-<div n="lb"/>are {#भेदः, दण्डः, साम, दानं#}.
+EXPEDIENT¦, {%s.%} (Means) {#उपायः, अभ्युपायः, गतिः#} {%f.,%} {#साधनं, कर्म्मसाधनं,#}
+{#गुणः, अङ्गं, विधानं, उपकरणं, सम्भवः, योगः, उपपत्तिः#} {%f.,%} {#उपक्रमः#}.
+The six expedients of defence are {#सन्धिः, विग्रहः, यानं, आसनं,#}
+{#द्वैधं, आश्रयः#}. The four expedients for reducing an enemy
+are {#भेदः, दण्डः, साम, दानं#}.
 <LEND>

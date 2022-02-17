@@ -1,6 +1,6 @@
 <L>24782<pc>666-b<k1>reduplication<k2>reduplication
-<div n="lb"/>REDUPLICATION¦, {%s.%} {#आम्रेडनं, आम्रेडितं, द्विरुक्तिः#} {%f.;%} ‘of a letter,’
-<div n="lb"/>{#द्वित्वं;#} ‘the reduplicated syllable,’ {#अभ्यासः;#} ‘word formed
-<div n="lb"/>by reduplication,’ {#प्रतिशब्दः#}. Reduplication is denoted by
-<div n="lb"/>the symbol {#खि#}.
+REDUPLICATION¦, {%s.%} {#आम्रेडनं, आम्रेडितं, द्विरुक्तिः#} {%f.;%} ‘of a letter,’
+{#द्वित्वं;#} ‘the reduplicated syllable,’ {#अभ्यासः;#} ‘word formed
+by reduplication,’ {#प्रतिशब्दः#}. Reduplication is denoted by
+the symbol {#खि#}.
 <LEND>

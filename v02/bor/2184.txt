@@ -1,6 +1,6 @@
 <L>2184<pc>076<k1>blister<k2>blister
-<div n="lb"/>{@BLISTER@}¦ (subs.): <div n="I">I A watery tumour: {#जल-#}
-<div n="lb"/>{#पूर्णं व्रणम्#} (?). <div n="xe">{%A b. on the foot:%}</div> <div n="xs">{#विपादिका।#}</div> </div><div n="I">II A
-<div n="lb"/>plaster for raising b. s: {#*दाहालेपः, जलपूर्ण-#}
-<div n="lb"/>{#व्रणोत्पादकालेपः।#}</div>
+{@BLISTER@}¦ (subs.): <div n="I">I A watery tumour: {#जल-#}
+{#पूर्णं व्रणम्#} (?). <div n="xe">{%A b. on the foot:%}</div> <div n="xs">{#विपादिका।#}</div> </div><div n="I">II A
+plaster for raising b. s: {#*दाहालेपः, जलपूर्ण-#}
+{#व्रणोत्पादकालेपः।#}</div>
 <LEND>

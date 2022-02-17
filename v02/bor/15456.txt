@@ -1,5 +1,5 @@
 <L>15456<pc>473<k1>nobly<k2>nobly
-<div n="lb"/>{@NOBLY:@}¦ <div n="I">I With ref. to descent: <div n="xe">{%n. descen-%}
-<div n="lb"/>{%ded:%}</div> <div n="xs">{#कुलीनः#}</div> ({#ना, नं#}), etc. </div><div n="I">II Eminently:
-<div n="lb"/>splendidly: {#अतितेजसा।#}</div>
+{@NOBLY:@}¦ <div n="I">I With ref. to descent: <div n="xe">{%n. descen-%}
+{%ded:%}</div> <div n="xs">{#कुलीनः#}</div> ({#ना, नं#}), etc. </div><div n="I">II Eminently:
+splendidly: {#अतितेजसा।#}</div>
 <LEND>

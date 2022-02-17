@@ -1,9 +1,9 @@
 <L>9380<pc>297<k1>freedom<k2>freedom
-<div n="lb"/>{@FREEDOM:@}¦ <div n="I">I Liberty: </div><div n="1">(1) {#स्वाधीनता;#} </div><div n="1">(2)
-<div n="lb"/>{#स्वतन्त्रता।#} </div><div n="I">II Release: </div><div n="1">(1) {#मोक्षः, वि-, परि-;#}</div>
-<div n="lb"/><div n="1">(2) {#मुक्तिः, निर्-, वि-।#} </div><div n="I">III Licence: q.v. </div><div n="I">IV
-<div n="lb"/>Liberality: {#मुक्तहस्तता।#} </div><div n="I">V Frankness: q.v.:
-<div n="lb"/>{#असङ्कोचव्यवहारः।#} </div><div n="I">VI Unrestrainedness: {#निर्य-#}
-<div n="lb"/>{#न्त्रणता, -त्वम्।#} </div><div n="I">VII Exemption, {%f. from disease:%}
-<div n="lb"/>{#नीरोगता:#} v. Free from.</div>
+{@FREEDOM:@}¦ <div n="I">I Liberty: </div><div n="1">(1) {#स्वाधीनता;#} </div><div n="1">(2)
+{#स्वतन्त्रता।#} </div><div n="I">II Release: </div><div n="1">(1) {#मोक्षः, वि-, परि-;#}</div>
+<div n="1">(2) {#मुक्तिः, निर्-, वि-।#} </div><div n="I">III Licence: q.v. </div><div n="I">IV
+Liberality: {#मुक्तहस्तता।#} </div><div n="I">V Frankness: q.v.:
+{#असङ्कोचव्यवहारः।#} </div><div n="I">VI Unrestrainedness: {#निर्य-#}
+{#न्त्रणता, -त्वम्।#} </div><div n="I">VII Exemption, {%f. from disease:%}
+{#नीरोगता:#} v. Free from.</div>
 <LEND>

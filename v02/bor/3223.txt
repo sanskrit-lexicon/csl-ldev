@@ -1,5 +1,5 @@
 <L>3223<pc>107<k1>catch<k2>catch
-<div n="lb"/>{@CATCH@}¦ (v. i.): {#लगति#} ({#लग्,#} c. l): <div n="xe">{%my garland%}
-<div n="lb"/>{%has caught in the branch%}</div> <div n="xs">{#विटपे वैजयन्तिका मे लग्ना,#}</div>
-<div n="lb"/>Vi.
+{@CATCH@}¦ (v. i.): {#लगति#} ({#लग्,#} c. l): <div n="xe">{%my garland%}
+{%has caught in the branch%}</div> <div n="xs">{#विटपे वैजयन्तिका मे लग्ना,#}</div>
+Vi.
 <LEND>

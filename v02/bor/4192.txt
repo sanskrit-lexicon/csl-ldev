@@ -1,5 +1,5 @@
 <L>4192<pc>136<k1>compellable<k2>compellable
-<div n="lb"/>{@COMPELLABLE:@}¦ expr. by future pass. part:
-<div n="lb"/><div n="xe">{%c. to pay:%}</div> <div n="xs">{#बलाद्दाप्यः#}</div> ({#प्या, प्यं#}); <div n="xe">{%c. to do:%}</div> <div n="xs">{#बलात् #}
-<div n="lb"/>{# कार्यः#}</div> ({#र्या, र्यं#}).
+{@COMPELLABLE:@}¦ expr. by future pass. part:
+<div n="xe">{%c. to pay:%}</div> <div n="xs">{#बलाद्दाप्यः#}</div> ({#प्या, प्यं#}); <div n="xe">{%c. to do:%}</div> <div n="xs">{#बलात् #}
+{# कार्यः#}</div> ({#र्या, र्यं#}).
 <LEND>

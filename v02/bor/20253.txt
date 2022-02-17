@@ -1,5 +1,5 @@
 <L>20253<pc>632<k1>seventeen<k2>seventeen
-<div n="lb"/>{@SEVENTEEN:@}¦ <div n="1">(1) {#सप्तदशन्,#} <div n="xe">{%s. th:%}</div> <div n="xs">{#सप्तदश#}</div> (f. {#शी#});
-<div n="lb"/><div n="xe">{%s. times:%}</div> <div n="xs">{#सप्तदशवारान्;#}</div> <div n="xe">{%hundred and s.:%}</div> <div n="xs">{#सप्तदशाधिक-#}
-<div n="lb"/>{#शतम्,#}</div> Mah.</div>
+{@SEVENTEEN:@}¦ <div n="1">(1) {#सप्तदशन्,#} <div n="xe">{%s. th:%}</div> <div n="xs">{#सप्तदश#}</div> (f. {#शी#});
+<div n="xe">{%s. times:%}</div> <div n="xs">{#सप्तदशवारान्;#}</div> <div n="xe">{%hundred and s.:%}</div> <div n="xs">{#सप्तदशाधिक-#}
+{#शतम्,#}</div> Mah.</div>
 <LEND>

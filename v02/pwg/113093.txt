@@ -1,7 +1,7 @@
 <L>113093<pc>7-1216<k1>सौगन्धिक<k2>सौगन्धिक
 {#सौगन्धिक#}¦ (von 1. {#सुगन्ध#}) 
 <div n="1"> 1) <lex>adj.</lex> {%wohlriechend%}: {#पुष्पाणि#} 
-<ls>MBH. 3, 1757. 11391.</ls> {#माल्य#} 
+<ls>MBH. 3, 1757.</ls> <ls n="MBH. 3,">11391.</ls> {#माल्य#} 
 <ls>R. 1, 9, 15 (17 GORR.).</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%ein Händler mit Wohlgerüchen%} 
@@ -14,7 +14,7 @@
 <div n="2">— d) {%Schwefel%} 
 <ls>AK. 2, 9, 103.</ls> 
 <ls>H. 1058.</ls> 
-<ls>H. an.</ls> <ls>?(hier n.). MED. RĀJAN. 13, 72. PAÑCAV. BR. 24, 13, 4.</ls> {#सौगन्धिककुरुविन्दस्फटिकेभ्यः पद्मरागसंभूतिः#} 
+<ls>H. an.</ls> (<ls>hier n.).</ls> <ls>MED.</ls> <ls>RĀJAN. 13, 72.</ls> <ls>PAÑCAV. BR. 24, 13, 4.</ls> {#सौगन्धिककुरुविन्दस्फटिकेभ्यः पद्मरागसंभूतिः#} 
 <ls>VARĀH. BṚH. S. 82, 1.</ls> 
 <div n="2">— e) N. pr. eines Berges 
 <ls>Verz. d. Oxf. H. 76,b,10.</ls> 

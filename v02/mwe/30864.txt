@@ -1,8 +1,8 @@
 <L>30864<pc>829-a<k1>vessel<k2>vessel
-<div n="lb"/>VESSEL¦, {%s.%} (Utensil for holding, as a pot, cup, &c.) {#पात्रं, भाजनं,#}
-<div n="lb"/>{#भाण्डं, अमत्रं, आधारः, धारकः;#} ‘drinking vessel,’ {#पानपात्रं;#}
-<div n="lb"/>‘for holding water,’ {#उदकपात्रं, जलपात्रं, घटः, कलशः#}. — (Vessel
-<div n="lb"/>of the body, as a vein, &c.) {#शिरा, नाडिः -डी#} {%f.,%} {#नालिः -ली,#}
-<div n="lb"/>{#धमनी, वाहिनी,#} {%see%} TUBE. — (Boat, ship) {#नौः#} {%f.,%} {#नौका, पोतः,#}
-<div n="lb"/>{#वहिनी, वहित्रं, तरणी, जलयानं, वोहित्थं#}.
+VESSEL¦, {%s.%} (Utensil for holding, as a pot, cup, &c.) {#पात्रं, भाजनं,#}
+{#भाण्डं, अमत्रं, आधारः, धारकः;#} ‘drinking vessel,’ {#पानपात्रं;#}
+‘for holding water,’ {#उदकपात्रं, जलपात्रं, घटः, कलशः#}. — (Vessel
+of the body, as a vein, &c.) {#शिरा, नाडिः -डी#} {%f.,%} {#नालिः -ली,#}
+{#धमनी, वाहिनी,#} {%see%} TUBE. — (Boat, ship) {#नौः#} {%f.,%} {#नौका, पोतः,#}
+{#वहिनी, वहित्रं, तरणी, जलयानं, वोहित्थं#}.
 <LEND>

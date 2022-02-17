@@ -1,5 +1,5 @@
 <L>8146<pc>257<k1>expiration<k2>expiration
-<div n="lb"/>{@EXPIRATION:@}¦ <div n="I">I Death, end: q. v.: {#उपरमः।#}</div>
-<div n="lb"/><div n="I">II Cessation: q. v.: {#उपरमः।#} </div><div n="I">III Emission:
-<div n="lb"/>q. v.: {#उद्गारः।#} </div><div n="I">IV Breathing out: {#निःश्वसनम्।#}</div>
+{@EXPIRATION:@}¦ <div n="I">I Death, end: q. v.: {#उपरमः।#}</div>
+<div n="I">II Cessation: q. v.: {#उपरमः।#} </div><div n="I">III Emission:
+q. v.: {#उद्गारः।#} </div><div n="I">IV Breathing out: {#निःश्वसनम्।#}</div>
 <LEND>

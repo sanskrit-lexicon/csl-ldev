@@ -1,14 +1,14 @@
 <L>18156<pc>463-a<k1>logic<k2>logic
-<div n="lb"/>LOGIC¦, {%s.%} {#तर्कः, तर्कविद्या, तर्कशास्त्रं, न्यायः, न्यायविद्या, न्यायशास्त्रं,#}
-<div n="lb"/>{#विचारविद्या, व्यूहः, प्रोहः, अभ्यूहः, निरूहः, ऊहः, वैशेषिकं, आन्वी-#}
-<div n="lb"/>{#क्षिकी, अनुमानोक्तिः#} {%f.,%} {#घ्रुवः#}. The {#न्याय#} school was instituted
-<div n="lb"/>by the sage Gautama, the branch of it called {#वैशेषिकं#} was
-<div n="lb"/>founded by Kaṇāda. The following are some of the
-<div n="lb"/>terms of logic; ‘universal pervadence or extension,’
-<div n="lb"/>{#व्याप्तिः#} {%f.,%} {#अभिव्याप्तिः;#} ‘extreme extension or conclusion
-<div n="lb"/>unwarranted by the premises,’ {#अतिव्याप्तिः;#} ‘individual or
-<div n="lb"/>particular extension,’ {#अव्याप्तिः#} {%f.,%} {#अव्याप्यवृत्तिः#} {%f.;%} sign of the
-<div n="lb"/>existence of an inherent property, {#व्याप्तिलक्षणं;#} ‘subject
-<div n="lb"/>of an inference,’ {#व्याप्यं#}. Other terms are {#उपलप्रक्षेपः,#}
-<div n="lb"/>{#उत्थाप्याकांक्षा, प्रवृत्तिनिमित्तं, कैमर्थ्यं, व्याप्यकोटिः#} {%f.,%} {#सिद्धसाधनदोषः#}.
+LOGIC¦, {%s.%} {#तर्कः, तर्कविद्या, तर्कशास्त्रं, न्यायः, न्यायविद्या, न्यायशास्त्रं,#}
+{#विचारविद्या, व्यूहः, प्रोहः, अभ्यूहः, निरूहः, ऊहः, वैशेषिकं, आन्वी-#}
+{#क्षिकी, अनुमानोक्तिः#} {%f.,%} {#घ्रुवः#}. The {#न्याय#} school was instituted
+by the sage Gautama, the branch of it called {#वैशेषिकं#} was
+founded by Kaṇāda. The following are some of the
+terms of logic; ‘universal pervadence or extension,’
+{#व्याप्तिः#} {%f.,%} {#अभिव्याप्तिः;#} ‘extreme extension or conclusion
+unwarranted by the premises,’ {#अतिव्याप्तिः;#} ‘individual or
+particular extension,’ {#अव्याप्तिः#} {%f.,%} {#अव्याप्यवृत्तिः#} {%f.;%} sign of the
+existence of an inherent property, {#व्याप्तिलक्षणं;#} ‘subject
+of an inference,’ {#व्याप्यं#}. Other terms are {#उपलप्रक्षेपः,#}
+{#उत्थाप्याकांक्षा, प्रवृत्तिनिमित्तं, कैमर्थ्यं, व्याप्यकोटिः#} {%f.,%} {#सिद्धसाधनदोषः#}.
 <LEND>

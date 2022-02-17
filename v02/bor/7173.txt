@@ -1,8 +1,8 @@
 <L>7173<pc>228<k1>ease<k2>ease
-<div n="lb"/>{@Ease@}¦ (subs.): <div n="I">I Comfort: {#सुखम्,#} <div n="xe">{%at e.:%}</div> <div n="xs">{#सुखेन#}</div> {%or%}
-<div n="lb"/>{#निरुद्वेगेन।#} </div><div n="I">II Peace, tranquillity: </div><div n="1">(1) {#निर्वृत्तिः,#}
-<div n="lb"/><div n="xe">{%how could he have e.%}</div> <div n="xs">{#कधं स्यात्तस्य निर्वृतिः,#}</div> P.;</div>
-<div n="lb"/><div n="1">(2) {#स्वास्थ्यम्,#} <div n="xe">{%I am now at e.:%}</div> <div n="xs">{#लब्धमिदानीं स्वास्थ्यम्,#}</div>
-<div n="lb"/>Sa. </div><div n="I">III Facility: {#अनायासः,#} {%with e.:%} v.
-<div n="lb"/>Easily. </div><div n="I">IV Of style, etc.: {#स्वाच्छन्द्यम्#} (?).</div>
+{@Ease@}¦ (subs.): <div n="I">I Comfort: {#सुखम्,#} <div n="xe">{%at e.:%}</div> <div n="xs">{#सुखेन#}</div> {%or%}
+{#निरुद्वेगेन।#} </div><div n="I">II Peace, tranquillity: </div><div n="1">(1) {#निर्वृत्तिः,#}
+<div n="xe">{%how could he have e.%}</div> <div n="xs">{#कधं स्यात्तस्य निर्वृतिः,#}</div> P.;</div>
+<div n="1">(2) {#स्वास्थ्यम्,#} <div n="xe">{%I am now at e.:%}</div> <div n="xs">{#लब्धमिदानीं स्वास्थ्यम्,#}</div>
+Sa. </div><div n="I">III Facility: {#अनायासः,#} {%with e.:%} v.
+Easily. </div><div n="I">IV Of style, etc.: {#स्वाच्छन्द्यम्#} (?).</div>
 <LEND>

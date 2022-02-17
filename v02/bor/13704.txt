@@ -1,4 +1,4 @@
 <L>13704<pc>421<k1>loan<k2>loan
-<div n="lb"/>{@LOAN:@}¦ <div n="1">(1) {#ऋणम्:#} v. Debt; </div><div n="1">(2) {#धारः:#} v. To
-<div n="lb"/>owe.</div>
+{@LOAN:@}¦ <div n="1">(1) {#ऋणम्:#} v. Debt; </div><div n="1">(2) {#धारः:#} v. To
+owe.</div>
 <LEND>

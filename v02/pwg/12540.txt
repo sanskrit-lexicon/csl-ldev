@@ -12,7 +12,7 @@
 <ls>AV. 6, 29, 2.</ls> 
 <ls>TS. 5, 5, 18, 1.</ls> 
 <ls>M. 11, 131. 12, 76.</ls> 
-<ls>MBH. 1, 2621. 3, 12247.</ls> 
+<ls>MBH. 1, 2621.</ls> <ls n="MBH.">3, 12247.</ls> 
 <ls>R. 3, 20, 19.</ls> 
 <ls>SUŚR. 1, 24, 8. 202, 13. 333, 18. 448, 10.</ls> 
 <ls>PAÑCAT. III, 1. 148, 8.</ls> {#उलूकत्व#} 
@@ -22,7 +22,7 @@
 <ls>2, 1014.</ls> {#उलूकानुत्तरान्#} 
 <ls>1020.</ls> ein Sohn <is>Viśvāmitra's</is> 
 <ls>13, 250.</ls> <is>Śakuni's</is> 
-<ls>ŚKDR. -</ls> <ls>HARIV. 5019. 5500.</ls> {#उलूकाश्रम#} 
+<ls>ŚKDR. -</ls> <ls>HARIV. 5019.</ls> <ls n="HARIV.">5500.</ls> {#उलूकाश्रम#} 
 <ls>MBH.</ls> in <ls>BENF. Chr. 46, 26.</ls> Vgl. <ls>Z. f. d. K. d. M. II, 42. fgg.</ls> 
 <div n="2">— c) ein Bein. <is>Indra's</is> 
 <ls>Uṇ. 4, 41.</ls> 

@@ -1,4 +1,4 @@
 <L>20829<pc>654<k1>smith<k2>smith
-<div n="lb"/>{@SMITH:@}¦ <div n="1">(1) {#शिल्पिन्#} (m.); </div><div n="1">(2) {#-कारः,#} in comp.,
-<div n="lb"/><div n="xe">{%iron-s.:%}</div> <div n="xs">{#अयस्कारः।#}</div></div>
+{@SMITH:@}¦ <div n="1">(1) {#शिल्पिन्#} (m.); </div><div n="1">(2) {#-कारः,#} in comp.,
+<div n="xe">{%iron-s.:%}</div> <div n="xs">{#अयस्कारः।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>3412<pc>113<k1>champignon<k2>champignon
-<div n="lb"/>{@CHAMPIGNON:@}¦ A kind of mushroom: v.
-<div n="lb"/>Mushroom.
+{@CHAMPIGNON:@}¦ A kind of mushroom: v.
+Mushroom.
 <LEND>

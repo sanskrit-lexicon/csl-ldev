@@ -1,7 +1,7 @@
 <L>17167<pc>525<k1>plan<k2>plan
-<div n="lb"/>{@PLAN@}¦ (subs.): <div n="I">I Project, design: </div><div n="1">(1) {#उपायः,#}
-<div n="lb"/><div n="xe">{%devise some p.:%}</div> <div n="xs">{#उपायः क्रियताम्,#}</div> H. ii.; </div><div n="1">(2)
-<div n="lb"/>{#प्रयोगः#} ( employment of means), <div n="xe">{%ask for the%}
-<div n="lb"/>{%success of the p.:%}</div> <div n="xs">{#प्रयोगसिद्धिं पृच्छ,#}</div> Mal. i.; </div><div n="1">(3)
-<div n="lb"/>{#मन्त्रणा#} (= plot). </div><div n="I">II A sketch: {#चित्रलिपिः#} (??).</div>
+{@PLAN@}¦ (subs.): <div n="I">I Project, design: </div><div n="1">(1) {#उपायः,#}
+<div n="xe">{%devise some p.:%}</div> <div n="xs">{#उपायः क्रियताम्,#}</div> H. ii.; </div><div n="1">(2)
+{#प्रयोगः#} ( employment of means), <div n="xe">{%ask for the%}
+{%success of the p.:%}</div> <div n="xs">{#प्रयोगसिद्धिं पृच्छ,#}</div> Mal. i.; </div><div n="1">(3)
+{#मन्त्रणा#} (= plot). </div><div n="I">II A sketch: {#चित्रलिपिः#} (??).</div>
 <LEND>

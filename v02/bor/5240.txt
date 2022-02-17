@@ -1,8 +1,8 @@
 <L>5240<pc>168<k1>cup<k2>cup
-<div n="lb"/>{@CUP@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#पानपात्रम्;#} </div><div n="1">(2) {#पान-#}
-<div n="lb"/>{#भाजनम्;#} </div><div n="1">(3) {#चषक#} (mn.). </div><div n="I">II Drinking:
-<div n="lb"/>q. v.: <div n="xe">{%“fond of the c.”%}</div> <div n="xs">{#पानप्रियः#}</div> ({#या, यं#}). </div><div n="I">III
-<div n="lb"/>Lot, portion: q. v. Ph. <div n="xe">{%“to taste of the%}
-<div n="lb"/>{%sorrow's c.”%}</div> <div n="xs">{#दुःखं रसयति।#}</div> </div><div n="I">IV A flower -c.:
-<div n="lb"/>{#पुष्पकोषः।#} <div n="xe">{%A c. made of leaves:%}</div> <div n="xs">{#पत्रपुटः,#}</div> R.</div>
+{@CUP@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#पानपात्रम्;#} </div><div n="1">(2) {#पान-#}
+{#भाजनम्;#} </div><div n="1">(3) {#चषक#} (mn.). </div><div n="I">II Drinking:
+q. v.: <div n="xe">{%“fond of the c.”%}</div> <div n="xs">{#पानप्रियः#}</div> ({#या, यं#}). </div><div n="I">III
+Lot, portion: q. v. Ph. <div n="xe">{%“to taste of the%}
+{%sorrow's c.”%}</div> <div n="xs">{#दुःखं रसयति।#}</div> </div><div n="I">IV A flower -c.:
+{#पुष्पकोषः।#} <div n="xe">{%A c. made of leaves:%}</div> <div n="xs">{#पत्रपुटः,#}</div> R.</div>
 <LEND>

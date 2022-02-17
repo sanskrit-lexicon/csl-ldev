@@ -1,13 +1,13 @@
 <L>114524<pc>580,1<k1>पठ्<k2>पठ्<e>1
-<s>पठ्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. ix, 45</ls>) <s>पठति</s> (<s>°ते</s>, <ls>MBh.</ls> &c.; <ab>pf.</ab> <s>पपाठ</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अपा<shortlong/>ठीत्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>पठिष्यति</s>, <s>पठिता</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>पठित्वा</s>, <ls>Kāv.</ls>), 
+<s>पठ्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. ix, 45</ls>) <s>पठति</s> (<s>°ते</s>, <ls>MBh.</ls> &c.; <ab>pf.</ab> <s>पपाठ</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अपा<स्होर्त्लोन्ग्/>ठीत्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>पठिष्यति</s>, <s>पठिता</s>, <ls>ib.</ls>; <ab>ind.p.</ab> <s>पठित्वा</s>, <ls>Kāv.</ls>), 
 <div n="to"/>to read or repeat aloud, to recite, rehearse, <ls>TĀr.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to repeat or pronounce the name of a god, to invoke (<ab>acc.</ab>, also with <s>नामभिस्</s>), <ls>MBh.</ls>; <ls>Hariv.</ls>;
 <div n="to"/>to read or repeat or recite to one's self, to peruse, study, <ls>Mn.</ls>; <ls>R.</ls>; <ls>BhP.</ls>; <ls>Hit.</ls>;
 <div n="to"/>to teach, cite, quote, mention, express, declare, <ls>Lāṭy.</ls>; <ls>MBh.</ls>; <ls>BhP.</ls>; <ls>Suśr.</ls>;
 <div n="to"/>to learn from (<ab>abl.</ab>), <ls>BhP.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>पठ्यते</s>, to be read or recited or taught or mentioned &c., <ls>MBh.</ls>; <ls>Hariv.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>पाठयति</s> (<ab>aor.</ab> <s>अपीपठत्</s>, <ls>Pāṇ. 7-4, 1</ls> <ab>Sch.</ab>; <ab>fut.</ab> <s>पाठयिष्यति</s>, <ls>Kathās.</ls>; <ab>Pass.</ab> <s>पाठ्यते</s>, <ls>Hit.</ls>), 
-<div n="to"/>to cause or teach to speak or read, to teach, instruct in (with double <ab>acc.</ab> <ls>Kāś.</ls> on <ls>Pāṇ. 1-4, 52</ls>);
+<div n="vp"/><ab>Caus.</ab> <s>पाठयति</s> (<ab>aor.</ab> <s>अपीपठत्</s>, <ls>Pāṇ. vii, 4, 1</ls> <ab>Sch.</ab>; <ab>fut.</ab> <s>पाठयिष्यति</s>, <ls>Kathās.</ls>; <ab>Pass.</ab> <s>पाठ्यते</s>, <ls>Hit.</ls>), 
+<div n="to"/>to cause or teach to speak or read, to teach, instruct in (with double <ab>acc.</ab> <ls>Kāś.</ls> on <ls>Pāṇ. i, 4, 52</ls>);
 <div n="to"/>to read, recite, <ls>Kathās.</ls> :
 <div n="vp"/><ab>Intens.</ab> <s>पापठीति</s>, <s>पापठ्यते</s>, to recite often or repeatedly, <ls>Kathās.</ls>;
 <div n="to"/>to read or study diligently, <ls>Var.</ls><info westergaard="paWa,9.45,01.0223"/><info whitneyroots="paW,93"/><info verb="genuineroot" cp="1P"/>

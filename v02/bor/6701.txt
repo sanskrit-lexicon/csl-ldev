@@ -1,6 +1,6 @@
 <L>6701<pc>215<k1>do with<k2>do with
-<div n="lb"/>{@DO WITH:@}¦ expr. by {#कार्य#} <div n="xe">{%or%}</div> <div n="xs">{#अर्थः#}</div> with ins.: <div n="xe">{%what%}
-<div n="lb"/>{%have you to do with him:%}</div> <div n="xs">{#कस्तेनार्थः,#}</div> D. ii.;
-<div n="lb"/><div n="xe">{%I have nothing to do with Mālavikā:%}</div> <div n="xs">{#न मे #}
-<div n="lb"/>{# मालविकया कश्चिदर्थः,#}</div> Mal. iii.
+{@DO WITH:@}¦ expr. by {#कार्य#} <div n="xe">{%or%}</div> <div n="xs">{#अर्थः#}</div> with ins.: <div n="xe">{%what%}
+{%have you to do with him:%}</div> <div n="xs">{#कस्तेनार्थः,#}</div> D. ii.;
+<div n="xe">{%I have nothing to do with Mālavikā:%}</div> <div n="xs">{#न मे #}
+{# मालविकया कश्चिदर्थः,#}</div> Mal. iii.
 <LEND>

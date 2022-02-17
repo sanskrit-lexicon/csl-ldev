@@ -1,9 +1,9 @@
 <L>18431<pc>566<k1>quiet<k2>quiet
-<div n="lb"/>{@QUIET@}¦ (adj.): {#शान्त#} (f. {#न्ता#}), {#प्र-,#} <div n="xe">{%q. like the%}
-<div n="lb"/>{%mind of sages:%}</div> <div n="xs">{#शान्तं चित्तमृषेरिव,#}</div> Ki. xi. 40.;
-<div n="lb"/><div n="xe">{%with the birds silent and the animals q.:%}</div> <div n="xs">{#मूकाण्डजं #}
-<div n="lb"/>{# शान्तमृगप्रचारम्,#}</div> Ku. iii. 42.; {%be q. at once:%}
-<div n="lb"/>{#सद्यः शान्तो भव,#} Vi. iii. 34.: v. Calm, gentle,
-<div n="lb"/>still. {%To keep.%} q. i. e. <div n="xe">{%not to give out:%}</div> <div n="xs">{#न प्रका-#}
-<div n="lb"/>{#शयति#}</div> (with acc.) <div n="xe">{%or%}</div> <div n="xs">{#जिह्वां रक्षति#}</div> (with loc.).
+{@QUIET@}¦ (adj.): {#शान्त#} (f. {#न्ता#}), {#प्र-,#} <div n="xe">{%q. like the%}
+{%mind of sages:%}</div> <div n="xs">{#शान्तं चित्तमृषेरिव,#}</div> Ki. xi. 40.;
+<div n="xe">{%with the birds silent and the animals q.:%}</div> <div n="xs">{#मूकाण्डजं #}
+{# शान्तमृगप्रचारम्,#}</div> Ku. iii. 42.; {%be q. at once:%}
+{#सद्यः शान्तो भव,#} Vi. iii. 34.: v. Calm, gentle,
+still. {%To keep.%} q. i. e. <div n="xe">{%not to give out:%}</div> <div n="xs">{#न प्रका-#}
+{#शयति#}</div> (with acc.) <div n="xe">{%or%}</div> <div n="xs">{#जिह्वां रक्षति#}</div> (with loc.).
 <LEND>

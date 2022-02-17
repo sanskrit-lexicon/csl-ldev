@@ -1,6 +1,6 @@
 <L>13058<pc>403<k1>kneel<k2>kneel
-<div n="lb"/>{@KNEEL:@}¦ also with <div n="xe">{%down:%}</div> <div n="xs">{#जानुम्यां महीं गच्छति#}</div>
-<div n="lb"/>({#गम्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#नमति#}</div> ({#नम्,#} c. 1.). {%K. ing, k,%}
-<div n="lb"/>etc. is expr. also by {#जानुम्यां स्थित्वा, क्षिति-#}
-<div n="lb"/>{#तलनिहितजानु#} (mfn.), <ls>K.</ls> , and sim. expr.s.
+{@KNEEL:@}¦ also with <div n="xe">{%down:%}</div> <div n="xs">{#जानुम्यां महीं गच्छति#}</div>
+({#गम्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#नमति#}</div> ({#नम्,#} c. 1.). {%K. ing, k,%}
+etc. is expr. also by {#जानुम्यां स्थित्वा, क्षिति-#}
+{#तलनिहितजानु#} (mfn.), <ls>K.</ls> , and sim. expr.s.
 <LEND>

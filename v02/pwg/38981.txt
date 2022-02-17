@@ -1,7 +1,7 @@
 <L>38981<pc>4-0158<k1>निपातन<k2>निपातन
 {#निपातन#}¦ (vom caus. von {#पत्#} mit {#नि#}) 
 <div n="1"> 1) <lex>adj.</lex> {%niederwerfend, tödtend, vernichtend%}: {#भगनेत्र°#} 
-<ls>MBH. 3, 1624. 15857. 7, 3465.</ls> 
+<ls>MBH. 3, 1624.</ls> <ls n="MBH. 3,">15857.</ls> <ls n="MBH.">7, 3465.</ls> 
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) = {#अवनाय#} 
 <ls>AK. 3, 3, 27.</ls> {%das Niederfallenlassen, Sinkenlassen%}: {#स्रुगुद्यमननिपातनयोः#} 
@@ -20,7 +20,7 @@
 <ls>3, 875.</ls> 
 <div n="2">— c) in der Gramm. {%gelegentliches Erwähnen, Gebrauchen eines Wortes; eine Form, durch welche eine seltene Erscheinung, eine Unregelmässigkeit constatirt wird%}, 
 <ls>ṚV. PRĀT. 12, 9.</ls> {#°सूत्र#} 
-<ls>Schol.</ls> zu <ls>VS. PRĀT. 3, 71</ls> und <ls>?73. Schol. zu P. 2, 3, 56 und 3, 2, 59. VOP. 6, 8.</ls> 
+<ls>Schol.</ls> zu <ls>VS. PRĀT. 3, 71</ls> und <ls>73.</ls> Schol. zu <ls>P. 2, 3, 56</ls> und <ls n="P.">3, 2, 59.</ls> <ls>VOP. 6, 8.</ls> 
 <div n="2">— d) = {#निपतन#} {%das Herabfallen%}: {#उल्का°#} 
 <ls>YĀJÑ. 1, 145.</ls> {%das Herabschiessen%} (eines Vogels) 
 <ls>PAÑCAT. II, 57.</ls>

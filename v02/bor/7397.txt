@@ -1,9 +1,9 @@
 <L>7397<pc>234<k1>emaciate<k2>emaciate
-<div n="lb"/>{@EMACIATE:@}¦ <div n="I">I To make lean: </div><div n="1">(1) {#कर्शयति, #}
-<div n="lb"/>{# परि-,#} (c. of {#कृश्#}) <div n="xe">{%or%}</div> <div n="xs">{#कृशीकरोति,#}</div> <div n="xe">{%e. d. by disfigure-%}
-<div n="lb"/>{%ment:%}</div> <div n="xs">{#वैरूप्यकर्शितः#}</div> ({#ता, तं#}), Ram.; </div><div n="1">(2)
-<div n="lb"/>{#क्षिणोति, परि-,#} ({#क्षि,#} c. 5.), {%the disease e.d him:%}
-<div n="lb"/>{#आमयस्तमक्षिणोत्,#} R. </div><div n="I">II To become lean: </div><div n="1">(1)
-<div n="lb"/>{#कृशीमवति#} <div n="xe">{%or%}</div> <div n="xs">{#कृश्यति, परि-,#}</div> ({#कृश्,#} c. 4.); </div><div n="1">(2)
-<div n="lb"/>{#क्षीयते#} (pass. of {#क्षि#}).</div>
+{@EMACIATE:@}¦ <div n="I">I To make lean: </div><div n="1">(1) {#कर्शयति, #}
+{# परि-,#} (c. of {#कृश्#}) <div n="xe">{%or%}</div> <div n="xs">{#कृशीकरोति,#}</div> <div n="xe">{%e. d. by disfigure-%}
+{%ment:%}</div> <div n="xs">{#वैरूप्यकर्शितः#}</div> ({#ता, तं#}), Ram.; </div><div n="1">(2)
+{#क्षिणोति, परि-,#} ({#क्षि,#} c. 5.), {%the disease e.d him:%}
+{#आमयस्तमक्षिणोत्,#} R. </div><div n="I">II To become lean: </div><div n="1">(1)
+{#कृशीमवति#} <div n="xe">{%or%}</div> <div n="xs">{#कृश्यति, परि-,#}</div> ({#कृश्,#} c. 4.); </div><div n="1">(2)
+{#क्षीयते#} (pass. of {#क्षि#}).</div>
 <LEND>

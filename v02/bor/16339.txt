@@ -1,4 +1,4 @@
 <L>16339<pc>501<k1>panel<k2>panel
-<div n="lb"/>{@PANEL@}¦ (subs.): <div n="I">I Of a door: {#कपा(वा)ट#} (mn.).</div>
-<div n="lb"/><div n="I">II Of jurors: {#सभ्यलेख्यम्#} (?).</div>
+{@PANEL@}¦ (subs.): <div n="I">I Of a door: {#कपा(वा)ट#} (mn.).</div>
+<div n="I">II Of jurors: {#सभ्यलेख्यम्#} (?).</div>
 <LEND>

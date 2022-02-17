@@ -1,5 +1,5 @@
 <L>9453<pc>300<k1>frivolous<k2>frivolous
-<div n="lb"/>{@FRIVOLOUS:@}¦ <div n="I">I Of little weight, slight: {#लघु#}
-<div n="lb"/>(mfn.). </div><div n="I">II Given to trifling </div><div n="1">(1) {#लघु#} (mfn.);</div>
-<div n="lb"/><div n="1">(2) {#यत्किञ्चनकारिन्#} (f. {#णी#}); </div><div n="1">(3) {#चपलः#} ({#ला, लं#}).</div>
+{@FRIVOLOUS:@}¦ <div n="I">I Of little weight, slight: {#लघु#}
+(mfn.). </div><div n="I">II Given to trifling </div><div n="1">(1) {#लघु#} (mfn.);</div>
+<div n="1">(2) {#यत्किञ्चनकारिन्#} (f. {#णी#}); </div><div n="1">(3) {#चपलः#} ({#ला, लं#}).</div>
 <LEND>

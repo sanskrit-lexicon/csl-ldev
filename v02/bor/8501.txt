@@ -1,8 +1,8 @@
 <L>8501<pc>269<k1>fatigue<k2>fatigue
-<div n="lb"/>{@FATIGUE@}¦ (subs.): <div n="1">(1) {#आयासाः,#} Ki. vii. 3.; </div><div n="1">(2)
-<div n="lb"/>{#खेदः#} (= exhaustion), Si. vii. 75.; </div><div n="1">(3) {#क्लान्तिः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#क्लमः#}</div> (= weariness), Ki. ix. 75.; </div><div n="1">(4) {#श्रमः#} {%or%}
-<div n="lb"/>{#परिश्रमः#} (= by exertion), R. ix. 49. Ph.:
-<div n="lb"/><div n="xe">{%inured to f.:%}</div> <div n="xs">{#जितश्रमः#}</div> ({#मा, मं#}), Ka.; <div n="xe">{%able to bear%}
-<div n="lb"/>{%f.:%}</div> <div n="xs">{#आयाससहः#}</div> ({#हा, हं#}), V. p.</div>
+{@FATIGUE@}¦ (subs.): <div n="1">(1) {#आयासाः,#} Ki. vii. 3.; </div><div n="1">(2)
+{#खेदः#} (= exhaustion), Si. vii. 75.; </div><div n="1">(3) {#क्लान्तिः#}
+<div n="xe">{%or%}</div> <div n="xs">{#क्लमः#}</div> (= weariness), Ki. ix. 75.; </div><div n="1">(4) {#श्रमः#} {%or%}
+{#परिश्रमः#} (= by exertion), R. ix. 49. Ph.:
+<div n="xe">{%inured to f.:%}</div> <div n="xs">{#जितश्रमः#}</div> ({#मा, मं#}), Ka.; <div n="xe">{%able to bear%}
+{%f.:%}</div> <div n="xs">{#आयाससहः#}</div> ({#हा, हं#}), V. p.</div>
 <LEND>

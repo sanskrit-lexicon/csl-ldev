@@ -1,5 +1,5 @@
 <L>3524<pc>117<k1>chemistry<k2>chemistry
-<div n="lb"/>{@CHEMISTRY:@}¦ {#रसायनम्#} (?); {#पदार्थानां श्लेषविश्लेषपरिणाम-#}
-<div n="lb"/>{#विज्ञानम्।#} Inorganic c. {#*भूतरसायनम्;#} {%organic c.:%}
-<div n="lb"/>{#*व्यूढरसायनम्;#} <div n="xe">{%practical c.%}</div> <div n="xs">{#*प्रयोगरसायनम्।#}</div>
+{@CHEMISTRY:@}¦ {#रसायनम्#} (?); {#पदार्थानां श्लेषविश्लेषपरिणाम-#}
+{#विज्ञानम्।#} Inorganic c. {#*भूतरसायनम्;#} {%organic c.:%}
+{#*व्यूढरसायनम्;#} <div n="xe">{%practical c.%}</div> <div n="xs">{#*प्रयोगरसायनम्।#}</div>
 <LEND>

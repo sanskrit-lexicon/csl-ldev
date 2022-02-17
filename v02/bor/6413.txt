@@ -1,6 +1,6 @@
 <L>6413<pc>205<k1>dishevelled<k2>dishevelled
-<div n="lb"/>{@DISHEVELLED:@}¦ Ph.: <div n="xe">{%with d. hair:%}</div> <div n="xs">{#प्रकीर्णकेशः#}</div>
-<div n="lb"/>({#शी, शं#}), Mah.; {#विकीर्णमूर्द्धजः#} ({#जा, जं#}), Ku.
-<div n="lb"/>{#असंयताकुलालकः#} ({#का, कं#}), <ls>K.</ls> ; and sim.
-<div n="lb"/>comp.s.
+{@DISHEVELLED:@}¦ Ph.: <div n="xe">{%with d. hair:%}</div> <div n="xs">{#प्रकीर्णकेशः#}</div>
+({#शी, शं#}), Mah.; {#विकीर्णमूर्द्धजः#} ({#जा, जं#}), Ku.
+{#असंयताकुलालकः#} ({#का, कं#}), <ls>K.</ls> ; and sim.
+comp.s.
 <LEND>

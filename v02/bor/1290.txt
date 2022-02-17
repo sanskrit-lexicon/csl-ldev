@@ -1,13 +1,13 @@
 <L>1290<pc>045<k1>at<k2>at
-<div n="lb"/>{@AT:@}¦ <div n="I">I Of place: by loc.: {%who is at the door%}
-<div n="lb"/>{#कोऽयं द्वारि तिष्ठति,#} Mu. ii. </div><div n="I">II Of time: by
-<div n="lb"/>loc.: <div n="xe">{%at midnight%}</div> <div n="xs">{#अर्द्धरात्रे।#}</div> </div><div n="I">III Of price: by
-<div n="lb"/>ins.: {%at what price have you bought this book%}
-<div n="lb"/>{#कियता मूल्येनैतत् पुस्तकं गृहीतम्,#} P. ii. 4. </div><div n="I">IV Denot-
-<div n="lb"/>-ing reason, occasion etc.: by ins.: <div n="xe">{%at%}
-<div n="lb"/>{%Rāma's command%}</div> <div n="xs">{#रामाज्ञया,#}</div> R.: v. By, on. Ph.:
-<div n="lb"/><div n="xe">{%at all%}</div> <div n="xs">{#मनागपि;#}</div> <div n="xe">{%at present%}</div> <div n="xs">{#अधुना;#}</div> <div n="xe">{%at first%}</div> <div n="xs">{#प्रथमम्;#}</div>
-<div n="lb"/><div n="xe">{%at least%}</div> <div n="xs">{#अन्ततस्;#}</div> <div n="xe">{%they are all at play%}</div> <div n="xs">{#सर्वे क्रीडन्ति;#}</div>
-<div n="lb"/>{%while the French and the Germans were at war%}
-<div n="lb"/>{#*युध्यमानयोः फरासिजर्मानजात्योः।#}</div>
+{@AT:@}¦ <div n="I">I Of place: by loc.: {%who is at the door%}
+{#कोऽयं द्वारि तिष्ठति,#} Mu. ii. </div><div n="I">II Of time: by
+loc.: <div n="xe">{%at midnight%}</div> <div n="xs">{#अर्द्धरात्रे।#}</div> </div><div n="I">III Of price: by
+ins.: {%at what price have you bought this book%}
+{#कियता मूल्येनैतत् पुस्तकं गृहीतम्,#} P. ii. 4. </div><div n="I">IV Denot-
+-ing reason, occasion etc.: by ins.: <div n="xe">{%at%}
+{%Rāma's command%}</div> <div n="xs">{#रामाज्ञया,#}</div> R.: v. By, on. Ph.:
+<div n="xe">{%at all%}</div> <div n="xs">{#मनागपि;#}</div> <div n="xe">{%at present%}</div> <div n="xs">{#अधुना;#}</div> <div n="xe">{%at first%}</div> <div n="xs">{#प्रथमम्;#}</div>
+<div n="xe">{%at least%}</div> <div n="xs">{#अन्ततस्;#}</div> <div n="xe">{%they are all at play%}</div> <div n="xs">{#सर्वे क्रीडन्ति;#}</div>
+{%while the French and the Germans were at war%}
+{#*युध्यमानयोः फरासिजर्मानजात्योः।#}</div>
 <LEND>

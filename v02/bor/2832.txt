@@ -1,4 +1,4 @@
 <L>2832<pc>096<k1>butchery<k2>butchery
-<div n="lb"/>{@BUTCHERY@}¦ <div n="1">(1) {#वधः;#} </div><div n="1">(2) {#विशसनम्:#} v. Slaughter,
-<div n="lb"/>massacre.</div>
+{@BUTCHERY@}¦ <div n="1">(1) {#वधः;#} </div><div n="1">(2) {#विशसनम्:#} v. Slaughter,
+massacre.</div>
 <LEND>

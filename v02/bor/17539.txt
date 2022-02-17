@@ -1,4 +1,4 @@
 <L>17539<pc>537<k1>prattle<k2>prattle
-<div n="lb"/>{@PRATTLE:@}¦ <div n="I">I Verbs.: {#जल्पति:#} v. To babble.</div>
-<div n="lb"/><div n="I">II Subs.: {#जल्पितम्:#} v. Babble.</div>
+{@PRATTLE:@}¦ <div n="I">I Verbs.: {#जल्पति:#} v. To babble.</div>
+<div n="I">II Subs.: {#जल्पितम्:#} v. Babble.</div>
 <LEND>

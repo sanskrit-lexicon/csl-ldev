@@ -1,15 +1,15 @@
 <L>20718<pc>650<k1>sleep<k2>sleep
-<div n="lb"/>{@SLEEP@}¦ (v.): <div n="1">(1) {#स्वपिति, प्र-, अव-, सम्-,#} ({#स्वप्,#} c. 2.)
-<div n="lb"/>(lit. and fig.), <div n="xe">{%I will go and s. in the gate-%}
-<div n="lb"/>{%house:%}</div> <div n="xs">{#द्वारशालायां गत्वा स्वप्स्यामि,#}</div> Mr.; <div n="xe">{%s. ing at%}
-<div n="lb"/>{%proper time:%}</div> <div n="xs">{#यथाकालं स्वपन्,#}</div> R.; </div><div n="1">(2) {#निद्राति#}
-<div n="lb"/>({#द्रा,#} c. 2.), <div n="xe">{%slept pressing each other:%}</div> <div n="xs">{#पीडनां #}
-<div n="lb"/>{# विदधतौ निदद्रतुः,#}</div> N.; </div><div n="1">(3) {#निद्रायते,#} (nomi.),
-<div n="lb"/>Mah.; </div><div n="1">(4) {#शेते#} ({#शी,#} c. 2.) (prop.=to lie
-<div n="lb"/>down) (lit. and fig.), <div n="xe">{%s.ing calmly:%}</div> <div n="xs">{#विश्रब्धं #}
-<div n="lb"/>{# शयानम्,#}</div> Mah.; {%I will not be s. ing over it:%}
-<div n="lb"/>{#मयास्मिन्वस्तुनि शयानेन न स्थीयते,#} Mu.; <div n="xe">{%s. ing with%}
-<div n="lb"/>{%the face down:%}</div> <div n="xs">{#अवमूर्द्धशयः,#}</div> S. k.; </div><div n="1">(5) {#संविशति#}
-<div n="lb"/>({#विश्,#} c. 6.) (={#शेते#}), <div n="xe">{%shall s. on the left%}
-<div n="lb"/>{%side:%}</div> <div n="xs">{#वामपार्श्वेन संविशेत्,#}</div> Sr.</div>
+{@SLEEP@}¦ (v.): <div n="1">(1) {#स्वपिति, प्र-, अव-, सम्-,#} ({#स्वप्,#} c. 2.)
+(lit. and fig.), <div n="xe">{%I will go and s. in the gate-%}
+{%house:%}</div> <div n="xs">{#द्वारशालायां गत्वा स्वप्स्यामि,#}</div> Mr.; <div n="xe">{%s. ing at%}
+{%proper time:%}</div> <div n="xs">{#यथाकालं स्वपन्,#}</div> R.; </div><div n="1">(2) {#निद्राति#}
+({#द्रा,#} c. 2.), <div n="xe">{%slept pressing each other:%}</div> <div n="xs">{#पीडनां #}
+{# विदधतौ निदद्रतुः,#}</div> N.; </div><div n="1">(3) {#निद्रायते,#} (nomi.),
+Mah.; </div><div n="1">(4) {#शेते#} ({#शी,#} c. 2.) (prop.=to lie
+down) (lit. and fig.), <div n="xe">{%s.ing calmly:%}</div> <div n="xs">{#विश्रब्धं #}
+{# शयानम्,#}</div> Mah.; {%I will not be s. ing over it:%}
+{#मयास्मिन्वस्तुनि शयानेन न स्थीयते,#} Mu.; <div n="xe">{%s. ing with%}
+{%the face down:%}</div> <div n="xs">{#अवमूर्द्धशयः,#}</div> S. k.; </div><div n="1">(5) {#संविशति#}
+({#विश्,#} c. 6.) (={#शेते#}), <div n="xe">{%shall s. on the left%}
+{%side:%}</div> <div n="xs">{#वामपार्श्वेन संविशेत्,#}</div> Sr.</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>13235<pc>408<k1>late<k2>late
-<div n="lb"/>{@LATE@}¦ (adv.): <div n="I">I At an advanced time: </div><div n="1">(1)
-<div n="lb"/>{#विलम्बेन;#} </div><div n="1">(2) {#चिरेण।#} Ph.: <div n="xe">{%sooner or l. r:%}</div> <div n="xs">{#अद्य श्वो #}
-<div n="lb"/>{# वा;#}</div> <div n="xe">{%too l.:%}</div> <div n="xs">{#अतीतकालः#}</div> ({#ला, लं#}), {#वि-,#} R. v. 14.</div>
-<div n="lb"/><div n="I">II Lately: q. v. </div><div n="I">III Far in the night:
-<div n="lb"/>{#अकाले#} <div n="xe">{%or%}</div> <div n="xs">{#असमये।#}</div> Ph.: <div n="xe">{%of l.:%}</div> <div n="xs">{#अधुनातनकाले;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#इदानीन्तनकाले;#} </div><div n="1">(3) {#अधुना-#} (= now: in connec-
-<div n="lb"/>-tion with {%formerly%}).</div>
+{@LATE@}¦ (adv.): <div n="I">I At an advanced time: </div><div n="1">(1)
+{#विलम्बेन;#} </div><div n="1">(2) {#चिरेण।#} Ph.: <div n="xe">{%sooner or l. r:%}</div> <div n="xs">{#अद्य श्वो #}
+{# वा;#}</div> <div n="xe">{%too l.:%}</div> <div n="xs">{#अतीतकालः#}</div> ({#ला, लं#}), {#वि-,#} R. v. 14.</div>
+<div n="I">II Lately: q. v. </div><div n="I">III Far in the night:
+{#अकाले#} <div n="xe">{%or%}</div> <div n="xs">{#असमये।#}</div> Ph.: <div n="xe">{%of l.:%}</div> <div n="xs">{#अधुनातनकाले;#}</div> </div><div n="1">(2)
+{#इदानीन्तनकाले;#} </div><div n="1">(3) {#अधुना-#} (= now: in connec-
+-tion with {%formerly%}).</div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>827<pc>029<k1>another<k2>another
-<div n="lb"/>{@ANOTHER:@}¦ <div n="1">(1) {#अन्यः#} ({#न्या, न्यत्#}), <div n="xe">{%it is impossible%}
-<div n="lb"/>{%that one acts and a. enjoys%}</div> <div n="xs">{#न ह्ये तत् सम्भविष्यत्यन्यः #}
-<div n="lb"/>{# करोत्यन्यो भुंक्त इति,#}</div> <ls>D.</ls> s.: <div n="xe">{%a. day%}</div> <div n="xs">{#अन्येद्युः;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#परः#} ({#रा, रं#}), <div n="xe">{%a.'s wife%}</div> <div n="xs">{#परस्त्री,#}</div> <div n="xe">{%a.'s property%}</div> <div n="xs">{#परस्वम्;#}</div></div>
-<div n="lb"/><div n="1">(3) {#अपरः#} ({#रा, रं#}), {%a. dearer to you than myself%}
-<div n="lb"/>{#मत्तःप्रियतरस्तवापरो जनः,#} <ls>K.</ls> ; </div><div n="1">(4) in some case by
-<div n="lb"/>{#अन्तर#} affixed, <div n="xe">{%took her to a. king%}</div> <div n="xs">{#राजान्तरं निनाय,#}</div>
-<div n="lb"/>R. vi. 26.: v. Different. N. B. Note that {#पर#}
-<div n="lb"/>is gen. confined to comp. and {#अपर#} is gen.
-<div n="lb"/>used with a qualifying subs. Note also that
-<div n="lb"/>{#अन्य#} and {#अपर#} do not gen. mean a.'s in
-<div n="lb"/>comp.: v. Another's.</div>
+{@ANOTHER:@}¦ <div n="1">(1) {#अन्यः#} ({#न्या, न्यत्#}), <div n="xe">{%it is impossible%}
+{%that one acts and a. enjoys%}</div> <div n="xs">{#न ह्ये तत् सम्भविष्यत्यन्यः #}
+{# करोत्यन्यो भुंक्त इति,#}</div> <ls>D.</ls> s.: <div n="xe">{%a. day%}</div> <div n="xs">{#अन्येद्युः;#}</div> </div><div n="1">(2)
+{#परः#} ({#रा, रं#}), <div n="xe">{%a.'s wife%}</div> <div n="xs">{#परस्त्री,#}</div> <div n="xe">{%a.'s property%}</div> <div n="xs">{#परस्वम्;#}</div></div>
+<div n="1">(3) {#अपरः#} ({#रा, रं#}), {%a. dearer to you than myself%}
+{#मत्तःप्रियतरस्तवापरो जनः,#} <ls>K.</ls> ; </div><div n="1">(4) in some case by
+{#अन्तर#} affixed, <div n="xe">{%took her to a. king%}</div> <div n="xs">{#राजान्तरं निनाय,#}</div>
+R. vi. 26.: v. Different. N. B. Note that {#पर#}
+is gen. confined to comp. and {#अपर#} is gen.
+used with a qualifying subs. Note also that
+{#अन्य#} and {#अपर#} do not gen. mean a.'s in
+comp.: v. Another's.</div>
 <LEND>

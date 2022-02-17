@@ -1,5 +1,5 @@
 <L>21145<pc>666<k1>spell<k2>spell
-<div n="lb"/>{@SPELL@}¦ (subs.): <div n="I">I Sub.: </div><div n="1">(1) {#मन्त्रः;#} </div><div n="1">(2) {#तन्त्रम्।#}</div>
-<div n="lb"/><div n="I">II Verb: {#वर्णयति#} ({#वर्ण्,#} c. 10.: comp.
-<div n="lb"/>Bengali Bānana).</div>
+{@SPELL@}¦ (subs.): <div n="I">I Sub.: </div><div n="1">(1) {#मन्त्रः;#} </div><div n="1">(2) {#तन्त्रम्।#}</div>
+<div n="I">II Verb: {#वर्णयति#} ({#वर्ण्,#} c. 10.: comp.
+Bengali Bānana).</div>
 <LEND>

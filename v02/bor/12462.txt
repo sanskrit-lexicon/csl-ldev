@@ -1,8 +1,8 @@
 <L>12462<pc>387<k1>intend<k2>intend
-<div n="lb"/>{@INTEND:@}¦ <div n="1">(1) by subs.; </div><div n="1">(2) {#अमिप्रैति#} ({#इ,#} c. 2.);</div>
-<div n="lb"/><div n="1">(3) {#संकल्पते#} ({#कॢप्,#} c. 1.), <div n="xe">{%we were i. ed by you as%}
-<div n="lb"/>{%their price:%}</div> <div n="xs">{#भवता वयमेतेषां मूल्यं कल्पिताः,#}</div> Mu. v.;</div>
-<div n="lb"/><div n="1">(4) {#प्रतिपद्यते#} ({#पद्,#} c. 4.), <div n="xe">{%what the king of%}
-<div n="lb"/>{%Vidarbha i. s.:%}</div> <div n="xs">{#किं प्रतिपद्यते वैदर्भः,#}</div> Mal. i.; </div><div n="1">(5)
-<div n="lb"/>{#इच्छति#} ({#इष्,#} c. 1.) (= to wish: q.v.).</div>
+{@INTEND:@}¦ <div n="1">(1) by subs.; </div><div n="1">(2) {#अमिप्रैति#} ({#इ,#} c. 2.);</div>
+<div n="1">(3) {#संकल्पते#} ({#कॢप्,#} c. 1.), <div n="xe">{%we were i. ed by you as%}
+{%their price:%}</div> <div n="xs">{#भवता वयमेतेषां मूल्यं कल्पिताः,#}</div> Mu. v.;</div>
+<div n="1">(4) {#प्रतिपद्यते#} ({#पद्,#} c. 4.), <div n="xe">{%what the king of%}
+{%Vidarbha i. s.:%}</div> <div n="xs">{#किं प्रतिपद्यते वैदर्भः,#}</div> Mal. i.; </div><div n="1">(5)
+{#इच्छति#} ({#इष्,#} c. 1.) (= to wish: q.v.).</div>
 <LEND>

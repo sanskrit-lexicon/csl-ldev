@@ -1,5 +1,5 @@
 <L>1106<pc>038<k1>arrear<k2>arrear
-<div n="lb"/>{@ARREAR, ARREARS:@}¦ {#*अवशिष्टदेयम्,#} {%pay up your a. s%}
-<div n="lb"/>{#*अवशिष्टदेयं परिशोधय;#} <div n="xe">{%I owe large a. s%}</div> <div n="xs">{#*मया #}
-<div n="lb"/>{# बहु परिशोधनीयम्;#}</div> <div n="xe">{%a. of rent%}</div> <div n="xs">{#*करशेषः।#}</div>
+{@ARREAR, ARREARS:@}¦ {#*अवशिष्टदेयम्,#} {%pay up your a. s%}
+{#*अवशिष्टदेयं परिशोधय;#} <div n="xe">{%I owe large a. s%}</div> <div n="xs">{#*मया #}
+{# बहु परिशोधनीयम्;#}</div> <div n="xe">{%a. of rent%}</div> <div n="xs">{#*करशेषः।#}</div>
 <LEND>

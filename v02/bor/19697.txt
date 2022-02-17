@@ -1,6 +1,6 @@
 <L>19697<pc>612<k1>salute<k2>salute
-<div n="lb"/>{@SALUTE@}¦ (subs.): <div n="I">I Salutation: </div><div n="1">(1) {#अभिवादः, #}
-<div n="lb"/>{# -नम्;#} </div><div n="1">(2) {#वन्दना;#} </div><div n="1">(3) {#प्रणामः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणतिः#}</div> (prop.
-<div n="lb"/>= bow); </div><div n="1">(4) {#नमस्कारः#} (= 3); </div><div n="1">(4) {#नमस्या#}
-<div n="lb"/>(rare), N. xiv. I. </div><div n="I">II. Kiss.: q. v.: {#चुम्बनम्।#}</div>
+{@SALUTE@}¦ (subs.): <div n="I">I Salutation: </div><div n="1">(1) {#अभिवादः, #}
+{# -नम्;#} </div><div n="1">(2) {#वन्दना;#} </div><div n="1">(3) {#प्रणामः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणतिः#}</div> (prop.
+= bow); </div><div n="1">(4) {#नमस्कारः#} (= 3); </div><div n="1">(4) {#नमस्या#}
+(rare), N. xiv. I. </div><div n="I">II. Kiss.: q. v.: {#चुम्बनम्।#}</div>
 <LEND>

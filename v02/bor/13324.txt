@@ -1,5 +1,5 @@
 <L>13324<pc>410<k1>lead<k2>lead
-<div n="lb"/>{@LEAD@}¦ (subs.): <div n="I">I The metal: {#सीसम्, -कम्,#} Bha.
-<div n="lb"/><div n="xe">{%Red l. powder:%}</div> <div n="xs">{#सिन्दूरम्।#}</div> </div><div n="I">II Precedence: expr.
-<div n="lb"/>by adj. or verb, <div n="xe">{%to take the l.:%}</div> <div n="xs">{#अग्रतो याति,#}</div> H.</div>
+{@LEAD@}¦ (subs.): <div n="I">I The metal: {#सीसम्, -कम्,#} Bha.
+<div n="xe">{%Red l. powder:%}</div> <div n="xs">{#सिन्दूरम्।#}</div> </div><div n="I">II Precedence: expr.
+by adj. or verb, <div n="xe">{%to take the l.:%}</div> <div n="xs">{#अग्रतो याति,#}</div> H.</div>
 <LEND>

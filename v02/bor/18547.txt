@@ -1,6 +1,6 @@
 <L>18547<pc>570<k1>rank<k2>rank
-<div n="lb"/>{@RANK@}¦ (adj.): <div n="I">I Exuberant, rich: q. v.: {#प्रभूत#}
-<div n="lb"/>(f. {#ता#}). </div><div n="I">II Rancid: </div><div n="1">(1) {#उग्रगन्ध#} (f. {#न्धा#});</div>
-<div n="lb"/><div n="1">(2) {#उग्रगन्धि#} (mfn.). </div><div n="I">III Gross, course:
-<div n="lb"/>q. v.</div>
+{@RANK@}¦ (adj.): <div n="I">I Exuberant, rich: q. v.: {#प्रभूत#}
+(f. {#ता#}). </div><div n="I">II Rancid: </div><div n="1">(1) {#उग्रगन्ध#} (f. {#न्धा#});</div>
+<div n="1">(2) {#उग्रगन्धि#} (mfn.). </div><div n="I">III Gross, course:
+q. v.</div>
 <LEND>

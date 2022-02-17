@@ -1,6 +1,6 @@
 <L>5610<pc>180<k1>decree<k2>decree
-<div n="lb"/>{@DECREE@}¦ (v.): <div n="I">I To order: q. v.: </div><div n="1">(1) {#आदिशति#}
-<div n="lb"/>({#दिश्,#} c. 6.); </div><div n="1">(2) {#दापयति#} (c. of {#दा#}) (=cause
-<div n="lb"/>to give), <div n="xe">{%should d. the debt to the creditor:%}</div> <div n="xs">{#धनिने #}
-<div n="lb"/>{# धनं दापयेत्,#}</div> <ls>Y.</ls> </div><div n="I">II. To decide: q. v.</div>
+{@DECREE@}¦ (v.): <div n="I">I To order: q. v.: </div><div n="1">(1) {#आदिशति#}
+({#दिश्,#} c. 6.); </div><div n="1">(2) {#दापयति#} (c. of {#दा#}) (=cause
+to give), <div n="xe">{%should d. the debt to the creditor:%}</div> <div n="xs">{#धनिने #}
+{# धनं दापयेत्,#}</div> <ls>Y.</ls> </div><div n="I">II. To decide: q. v.</div>
 <LEND>

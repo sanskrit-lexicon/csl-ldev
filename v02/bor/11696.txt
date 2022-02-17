@@ -1,6 +1,6 @@
 <L>11696<pc>365<k1>impolitic<k2>impolitic
-<div n="lb"/>{@IMPOLITIC:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#नयभेदिन्#} (f. {#नी#});</div>
-<div n="lb"/><div n="1">(2) {#नौत्यां नाद्द्यः#} ({#ता, तं#}), D.; </div><div n="1">(3) {#प्रनष्टनीति#}
-<div n="lb"/>(mfn.), B.; and sim. comp.s. </div><div n="I">II Of acts,
-<div n="lb"/>etc.: comp., <div n="xe">{%i. act.:%}</div> <div n="xs">{#दुर्नयः।#}</div></div>
+{@IMPOLITIC:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#नयभेदिन्#} (f. {#नी#});</div>
+<div n="1">(2) {#नौत्यां नाद्द्यः#} ({#ता, तं#}), D.; </div><div n="1">(3) {#प्रनष्टनीति#}
+(mfn.), B.; and sim. comp.s. </div><div n="I">II Of acts,
+etc.: comp., <div n="xe">{%i. act.:%}</div> <div n="xs">{#दुर्नयः।#}</div></div>
 <LEND>

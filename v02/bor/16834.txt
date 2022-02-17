@@ -1,6 +1,6 @@
 <L>16834<pc>516<k1>perplexed<k2>perplexed
-<div n="lb"/>{@PERPLEXED:@}¦ <div n="I">I Intricate: q. v.: {#विषम#} (f. {#मा#}).</div>
-<div n="lb"/><div n="I">II Embarrassed: (I) {#व्याकुलः#} ({#ला, लं#}); </div><div n="1">(2)
-<div n="lb"/>{#सम्भ्रान्त#} (f. {#न्ता#}); </div><div n="1">(3) {#उद्विग्न#} (f. {#ग्ना#} = alarmed):
-<div n="lb"/>Ph.: <div n="xe">{%p. what to do:%}</div> <div n="xs">{#किंकर्तव्यताभूढः,#}</div> K.</div>
+{@PERPLEXED:@}¦ <div n="I">I Intricate: q. v.: {#विषम#} (f. {#मा#}).</div>
+<div n="I">II Embarrassed: (I) {#व्याकुलः#} ({#ला, लं#}); </div><div n="1">(2)
+{#सम्भ्रान्त#} (f. {#न्ता#}); </div><div n="1">(3) {#उद्विग्न#} (f. {#ग्ना#} = alarmed):
+Ph.: <div n="xe">{%p. what to do:%}</div> <div n="xs">{#किंकर्तव्यताभूढः,#}</div> K.</div>
 <LEND>

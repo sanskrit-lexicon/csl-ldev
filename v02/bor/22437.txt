@@ -1,10 +1,10 @@
 <L>22437<pc>708<k1>thief<k2>thief
-<div n="lb"/>{@THIEF:@}¦ <div n="1">(1) {#चौरः,#} {%open t. ves such as merchants:%}
-<div n="lb"/>{#प्रकाशचौरा वणिगादयः,#} Viv.; <div n="xe">{%t. -catcher:%}</div> <div n="xs">{#चौरग्राहः,#}</div>
-<div n="lb"/>Kat.; </div><div n="1">(2) {#तस्करः,#} <div n="xe">{%for putting down t.s:%}</div> <div n="xs">{#तस्कर-#}
-<div n="lb"/>{#प्रतिषेधार्थम्,#}</div> M. ix. 266.; </div><div n="1">(3) {#स्तेनः,#} <div n="xe">{%who give food%}
-<div n="lb"/>{%and lodging to t.ves:%}</div> <div n="xs">{#भक्तावकाशदातारः स्तेनानाम्,#}</div>
-<div n="lb"/>N. d.; </div><div n="1">(4) {#मोषः, -कः,#} <div n="xe">{%seeing a t.:%}</div> <div n="xs">{#मोषाभिदर्शने,#}</div>
-<div n="lb"/>M. ix. 274.; </div><div n="1">(5) {#कुम्भिलः, -कः;#} </div><div n="1">(6) {#मलिम्लुचः;#}</div>
-<div n="lb"/><div n="1">(7) {#पाटच्चरः।#} N.B. 5 to 7 are rare.</div>
+{@THIEF:@}¦ <div n="1">(1) {#चौरः,#} {%open t. ves such as merchants:%}
+{#प्रकाशचौरा वणिगादयः,#} Viv.; <div n="xe">{%t. -catcher:%}</div> <div n="xs">{#चौरग्राहः,#}</div>
+Kat.; </div><div n="1">(2) {#तस्करः,#} <div n="xe">{%for putting down t.s:%}</div> <div n="xs">{#तस्कर-#}
+{#प्रतिषेधार्थम्,#}</div> M. ix. 266.; </div><div n="1">(3) {#स्तेनः,#} <div n="xe">{%who give food%}
+{%and lodging to t.ves:%}</div> <div n="xs">{#भक्तावकाशदातारः स्तेनानाम्,#}</div>
+N. d.; </div><div n="1">(4) {#मोषः, -कः,#} <div n="xe">{%seeing a t.:%}</div> <div n="xs">{#मोषाभिदर्शने,#}</div>
+M. ix. 274.; </div><div n="1">(5) {#कुम्भिलः, -कः;#} </div><div n="1">(6) {#मलिम्लुचः;#}</div>
+<div n="1">(7) {#पाटच्चरः।#} N.B. 5 to 7 are rare.</div>
 <LEND>

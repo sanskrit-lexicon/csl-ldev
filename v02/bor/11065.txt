@@ -1,4 +1,4 @@
 <L>11065<pc>347<k1>hocus-pocus<k2>hocus-pocus
-<div n="lb"/>{@HOCUS-POCUS:@}¦ <div n="I">I Juggler: q.v.: {#मायाकारः।#}</div>
-<div n="lb"/><div n="I">II His trick: {#माया।#} Ph.: <div n="xe">{%by h.:%}</div> <div n="xs">{#तन्त्रमन्त्रैः,#}</div> D.</div>
+{@HOCUS-POCUS:@}¦ <div n="I">I Juggler: q.v.: {#मायाकारः।#}</div>
+<div n="I">II His trick: {#माया।#} Ph.: <div n="xe">{%by h.:%}</div> <div n="xs">{#तन्त्रमन्त्रैः,#}</div> D.</div>
 <LEND>

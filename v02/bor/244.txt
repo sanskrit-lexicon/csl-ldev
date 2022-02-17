@@ -1,4 +1,4 @@
 <L>244<pc>010<k1>addicted<k2>addicted
-<div n="lb"/>{@ADDICTED:@}¦ <div n="1">(1) {#आसक्तः, प्रसक्तः,#} <div n="xe">{%or%}</div> <div n="xs">{#सक्तः#}</div> ({#क्ता, क्तं#});</div>
-<div n="lb"/><div n="1">(2) {#निरतः#} ({#ता, तं#}).</div>
+{@ADDICTED:@}¦ <div n="1">(1) {#आसक्तः, प्रसक्तः,#} <div n="xe">{%or%}</div> <div n="xs">{#सक्तः#}</div> ({#क्ता, क्तं#});</div>
+<div n="1">(2) {#निरतः#} ({#ता, तं#}).</div>
 <LEND>

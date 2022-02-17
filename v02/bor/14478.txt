@@ -1,4 +1,4 @@
 <L>14478<pc>444<k1>merchantman<k2>merchantman
-<div n="lb"/>{@MERCHANTMAN,@}¦ {@MERCHANTSHIP:@} {#वाणिज्यपोतः:#}
-<div n="lb"/>v. Ship.
+{@MERCHANTMAN,@}¦ {@MERCHANTSHIP:@} {#वाणिज्यपोतः:#}
+v. Ship.
 <LEND>

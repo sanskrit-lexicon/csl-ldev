@@ -1,9 +1,9 @@
 <L>21808<pc>688<k1>suck<k2>suck
-<div n="lb"/>{@SUCK@}¦ (v.): <div n="I">I As children: {#स्तनम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्तन्यं पिबति#}</div>
-<div n="lb"/>({#पा,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#धयति#}</div> ({#धे,#} c. 1.). <div n="xe">{%thirst for s.-%}
-<div n="lb"/>{%ing:%}</div> <div n="xs">{#स्तन्यपाने पिपासा,#}</div> J. </div><div n="I">II In gen.: </div><div n="1">(1) {#चूषति#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#चोषति#}</div> ({#चुष्,#} c. 1.), <div n="xe">{%and with various%}
-<div n="lb"/>{%(dishes) for s. ing:%}</div> <div n="xs">{#चोष्यैश्च विविधैः,#}</div> Man. ii. 4. 3.;</div>
-<div n="lb"/><div n="1">(2) {#पिबति,#} (= drink), <div n="xe">{%which s. s by the root%}
-<div n="lb"/>{%(tree):%}</div> <div n="xs">{#पादपः।#}</div></div>
+{@SUCK@}¦ (v.): <div n="I">I As children: {#स्तनम्#} <div n="xe">{%or%}</div> <div n="xs">{#स्तन्यं पिबति#}</div>
+({#पा,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#धयति#}</div> ({#धे,#} c. 1.). <div n="xe">{%thirst for s.-%}
+{%ing:%}</div> <div n="xs">{#स्तन्यपाने पिपासा,#}</div> J. </div><div n="I">II In gen.: </div><div n="1">(1) {#चूषति#}
+<div n="xe">{%or%}</div> <div n="xs">{#चोषति#}</div> ({#चुष्,#} c. 1.), <div n="xe">{%and with various%}
+{%(dishes) for s. ing:%}</div> <div n="xs">{#चोष्यैश्च विविधैः,#}</div> Man. ii. 4. 3.;</div>
+<div n="1">(2) {#पिबति,#} (= drink), <div n="xe">{%which s. s by the root%}
+{%(tree):%}</div> <div n="xs">{#पादपः।#}</div></div>
 <LEND>

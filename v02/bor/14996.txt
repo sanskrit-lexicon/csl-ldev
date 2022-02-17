@@ -1,4 +1,4 @@
 <L>14996<pc>458<k1>mosaic<k2>mosaic
-<div n="lb"/>{@MOSAIC:@}¦ <div n="I">I Relating to Moses: {#*मौषः#} ({#षी, षं#}).</div>
-<div n="lb"/><div n="I">II Variegated: {#विचित्रः#} ({#त्रा, त्रं#}) (?).</div>
+{@MOSAIC:@}¦ <div n="I">I Relating to Moses: {#*मौषः#} ({#षी, षं#}).</div>
+<div n="I">II Variegated: {#विचित्रः#} ({#त्रा, त्रं#}) (?).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>44<pc>002-a<k1>abode<k2>abode
-<div n="lb"/>ABODE¦, {%s.%} (Place of residence) {#गृहं, वेश्म#} {%n.%} {#(न्), आयतनं, निवासः,#}
-<div n="lb"/>{#निलयः, -यनं, आलयः#}. — (Continuance in a place) {#वसतिः, अवस्थानं#}.
+ABODE¦, {%s.%} (Place of residence) {#गृहं, वेश्म#} {%n.%} {#(न्), आयतनं, निवासः,#}
+{#निलयः, -यनं, आलयः#}. — (Continuance in a place) {#वसतिः, अवस्थानं#}.
 <LEND>

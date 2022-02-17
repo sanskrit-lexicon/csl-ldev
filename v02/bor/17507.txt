@@ -1,9 +1,9 @@
 <L>17507<pc>535<k1>poverty<k2>poverty
-<div n="lb"/>{@POVERTY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#दारिद्र्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#दरिद्रता,#}</div> <div n="xe">{%p.%}
-<div n="lb"/>{%stricken:%}</div> <div n="xs">{#दारिद्र्योपहत#}</div> (f. {#ता#}); <div n="xe">{%p. is unending%}
-<div n="lb"/>{%misery:%}</div> <div n="xs">{#दारिद्र्पमनन्तकं दुःखम्,#}</div> Mr. i.; <div n="xe">{%everybody%}
-<div n="lb"/>{%seems to be in p.:%}</div> <div n="xs">{#सर्व एव दरिद्रति,#}</div> H. ii. 2; </div><div n="1">(2)
-<div n="lb"/>{#निर्धनता,#} etc.: v. Poor; </div><div n="1">(3) {#दैन्यम्#} (= wret-
-<div n="lb"/>-chedness). </div><div n="I">II Meagreness, want: q. v.:
-<div n="lb"/>{#हीनता।#}</div>
+{@POVERTY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#दारिद्र्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#दरिद्रता,#}</div> <div n="xe">{%p.%}
+{%stricken:%}</div> <div n="xs">{#दारिद्र्योपहत#}</div> (f. {#ता#}); <div n="xe">{%p. is unending%}
+{%misery:%}</div> <div n="xs">{#दारिद्र्पमनन्तकं दुःखम्,#}</div> Mr. i.; <div n="xe">{%everybody%}
+{%seems to be in p.:%}</div> <div n="xs">{#सर्व एव दरिद्रति,#}</div> H. ii. 2; </div><div n="1">(2)
+{#निर्धनता,#} etc.: v. Poor; </div><div n="1">(3) {#दैन्यम्#} (= wret-
+-chedness). </div><div n="I">II Meagreness, want: q. v.:
+{#हीनता।#}</div>
 <LEND>

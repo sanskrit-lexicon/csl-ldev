@@ -1,16 +1,16 @@
 <L>13755<pc>423<k1>long<k2>long
-<div n="lb"/>{@LONG@}¦ (adj.): <div n="1">(1) {#दीर्घः#} ({#र्घा, र्घं#}) (in all senses),
-<div n="lb"/><div n="xe">{%l. -eared:%}</div> <div n="xs">{#दीर्घकर्ण#}</div> (f. {#र्णा#}), H.; {%in l. journeys:%}
-<div n="lb"/>{#दीर्घेऽध्वनि,#} Ka.; <div n="xe">{%for a l. time:%}</div> <div n="xs">{#दीर्घकालम्,#}</div> K.;
-<div n="lb"/><div n="xe">{%l. sorrow:%}</div> <div n="xs">{#दीर्घशोकः,#}</div> K.; <div n="xe">{%l. sleep:%}</div> <div n="xs">{#दीर्घनिद्रा,#}</div>
-<div n="lb"/>R.; <div n="xe">{%a vowel is short, long or protracted:%}</div> <div n="xs">{#अज्-#}
-<div n="lb"/>{#भ्रस्वदीर्घप्लुतः,#}</div> Pāṇini.; </div><div n="1">(2) {#आयतः#} ({#ता, तं#}) (lit.),
-<div n="lb"/><div n="xe">{%how broad, how l.:%}</div> <div n="xs">{#किंविस्ताराः किमायताः,#}</div> Mah.
-<div n="lb"/>ii. 6. 16.; <div n="xe">{%thrice l.:%}</div> <div n="xs">{#त्रिगुणमायतः#}</div> ({#ता, तं#}),
-<div n="lb"/>Mat.; </div><div n="1">(3) {#आयामवत्#} (f. {#ती#}) (= 2), <div n="xe">{%l. black%}
-<div n="lb"/>{%hair:%}</div> <div n="xs">{#आयामवान्नीलो मूर्धजकलापः,#}</div> D. vi.; </div><div n="1">(4)
-<div n="lb"/>{#विस्तीर्ण#} (f. {#र्णा#}) (in extent), <div n="xe">{%news about Kusu-%}
-<div n="lb"/>{%mapura is l.:%}</div> <div n="xs">{#विस्तीर्णः कुसुमपुरवृत्तान्तः,#}</div> Mu. ii.;</div>
-<div n="lb"/><div n="1">(5) {#चिरः#} ({#रा, रं#}) (of time only), {%l. standing:%}
-<div n="lb"/>{#चिरस्थितिः,#} D. v.</div>
+{@LONG@}¦ (adj.): <div n="1">(1) {#दीर्घः#} ({#र्घा, र्घं#}) (in all senses),
+<div n="xe">{%l. -eared:%}</div> <div n="xs">{#दीर्घकर्ण#}</div> (f. {#र्णा#}), H.; {%in l. journeys:%}
+{#दीर्घेऽध्वनि,#} Ka.; <div n="xe">{%for a l. time:%}</div> <div n="xs">{#दीर्घकालम्,#}</div> K.;
+<div n="xe">{%l. sorrow:%}</div> <div n="xs">{#दीर्घशोकः,#}</div> K.; <div n="xe">{%l. sleep:%}</div> <div n="xs">{#दीर्घनिद्रा,#}</div>
+R.; <div n="xe">{%a vowel is short, long or protracted:%}</div> <div n="xs">{#अज्-#}
+{#भ्रस्वदीर्घप्लुतः,#}</div> Pāṇini.; </div><div n="1">(2) {#आयतः#} ({#ता, तं#}) (lit.),
+<div n="xe">{%how broad, how l.:%}</div> <div n="xs">{#किंविस्ताराः किमायताः,#}</div> Mah.
+ii. 6. 16.; <div n="xe">{%thrice l.:%}</div> <div n="xs">{#त्रिगुणमायतः#}</div> ({#ता, तं#}),
+Mat.; </div><div n="1">(3) {#आयामवत्#} (f. {#ती#}) (= 2), <div n="xe">{%l. black%}
+{%hair:%}</div> <div n="xs">{#आयामवान्नीलो मूर्धजकलापः,#}</div> D. vi.; </div><div n="1">(4)
+{#विस्तीर्ण#} (f. {#र्णा#}) (in extent), <div n="xe">{%news about Kusu-%}
+{%mapura is l.:%}</div> <div n="xs">{#विस्तीर्णः कुसुमपुरवृत्तान्तः,#}</div> Mu. ii.;</div>
+<div n="1">(5) {#चिरः#} ({#रा, रं#}) (of time only), {%l. standing:%}
+{#चिरस्थितिः,#} D. v.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>11777<pc>368<k1>inaccessible<k2>inaccessible
-<div n="lb"/>{@INACCESSIBLE:@}¦ <div n="I">I Of places: </div><div n="1">(1) {#दुर्गमः#} ({#मा, मं#});</div>
-<div n="lb"/><div n="1">(2) {#अगम्यः#} ({#म्या, म्यं#}); </div><div n="1">(3) {#दुरासदः#} ({#दा, दं#}). </div><div n="I">II
-<div n="lb"/>Unattainable: q.v.: {#दुर्लभः#} ({#भा, भं#}) </div><div n="I">III Of
-<div n="lb"/>persons: {#दुर्लभदर्शनः#} ({#ना, नं#}).</div>
+{@INACCESSIBLE:@}¦ <div n="I">I Of places: </div><div n="1">(1) {#दुर्गमः#} ({#मा, मं#});</div>
+<div n="1">(2) {#अगम्यः#} ({#म्या, म्यं#}); </div><div n="1">(3) {#दुरासदः#} ({#दा, दं#}). </div><div n="I">II
+Unattainable: q.v.: {#दुर्लभः#} ({#भा, भं#}) </div><div n="I">III Of
+persons: {#दुर्लभदर्शनः#} ({#ना, नं#}).</div>
 <LEND>

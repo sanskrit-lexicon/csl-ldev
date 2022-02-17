@@ -1,4 +1,4 @@
 <L>7672<pc>243<k1>enthronement<k2>enthronement
-<div n="lb"/>{@ENTHRONEMENT:@}¦ <div n="1">(1) {#अभिषेकः;#} </div><div n="1">(2) {#सिंहासन-#}
-<div n="lb"/>{#निवेशनम्#} (only of kings).</div>
+{@ENTHRONEMENT:@}¦ <div n="1">(1) {#अभिषेकः;#} </div><div n="1">(2) {#सिंहासन-#}
+{#निवेशनम्#} (only of kings).</div>
 <LEND>

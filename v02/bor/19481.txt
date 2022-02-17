@@ -1,7 +1,7 @@
 <L>19481<pc>605<k1>roughness<k2>roughness
-<div n="lb"/>{@ROUGHNESS:@}¦ <div n="I">I Unevenness: </div><div n="1">(1) {#बन्धु(न्धू)रता;#}</div>
-<div n="lb"/><div n="1">(2) {#वैषम्यम्।#} </div><div n="I">II Harshness, severity:</div>
-<div n="lb"/><div n="1">(1) {#रौक्ष्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#रु#}</div>({#रू#}){#क्षता, -त्वम्;#} </div><div n="1">(2) {#कार्कश्यम्#} {%or%}
-<div n="lb"/>{#कर्कशता, -त्वम्।#} </div><div n="I">III Coarseness: {#स्थूलता।#} </div><div n="I">IV
-<div n="lb"/>Tempestuousness: {#क्षुब्धता, सं-, वि-, प्र-।#}</div>
+{@ROUGHNESS:@}¦ <div n="I">I Unevenness: </div><div n="1">(1) {#बन्धु(न्धू)रता;#}</div>
+<div n="1">(2) {#वैषम्यम्।#} </div><div n="I">II Harshness, severity:</div>
+<div n="1">(1) {#रौक्ष्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#रु#}</div>({#रू#}){#क्षता, -त्वम्;#} </div><div n="1">(2) {#कार्कश्यम्#} {%or%}
+{#कर्कशता, -त्वम्।#} </div><div n="I">III Coarseness: {#स्थूलता।#} </div><div n="I">IV
+Tempestuousness: {#क्षुब्धता, सं-, वि-, प्र-।#}</div>
 <LEND>

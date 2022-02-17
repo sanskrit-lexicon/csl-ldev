@@ -1,6 +1,6 @@
 <L>2096<pc>073<k1>bite<k2>bite
-<div n="lb"/>{@BITE@}¦ (subs.): <div n="I">I The act of biting: {#दंशः;#}
-<div n="lb"/><div n="xe">{%poisonous b.%}</div> <div n="xs">{#सविषो दंशः,#}</div> <ls>U.</ls> </div><div n="I">II. The wound
-<div n="lb"/>made by biting: {#दंशः।#} </div><div n="I">III A cheat or
-<div n="lb"/>one who cheats q. v.</div>
+{@BITE@}¦ (subs.): <div n="I">I The act of biting: {#दंशः;#}
+<div n="xe">{%poisonous b.%}</div> <div n="xs">{#सविषो दंशः,#}</div> <ls>U.</ls> </div><div n="I">II. The wound
+made by biting: {#दंशः।#} </div><div n="I">III A cheat or
+one who cheats q. v.</div>
 <LEND>

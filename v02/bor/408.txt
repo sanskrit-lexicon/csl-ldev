@@ -1,4 +1,4 @@
 <L>408<pc>016<k1>affliction<k2>affliction
-<div n="lb"/>{@AFFLICTION:@}¦ <div n="I">I Misforune, calamity: q. v.</div>
-<div n="lb"/><div n="I">II Distress, grief; q. v.</div>
+{@AFFLICTION:@}¦ <div n="I">I Misforune, calamity: q. v.</div>
+<div n="I">II Distress, grief; q. v.</div>
 <LEND>

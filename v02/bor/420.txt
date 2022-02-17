@@ -1,7 +1,7 @@
 <L>420<pc>016<k1>afloat<k2>afloat
-<div n="lb"/>{@AFLOAT:@}¦ {#प्लवमानः#} ({#ना, नं#}), {%or%} by the verb; <div n="xe">{%I%}
-<div n="lb"/>{%was a. for the day and the whole night%}</div> <div n="xs">{#तावदप्लोषि #}
-<div n="lb"/>{# यावदपासरद्वासरः शर्वरी च सर्वा,#}</div> <ls>D.</ls> vi. Fig.: <div n="xe">{%the%}
-<div n="lb"/>{%rumour is a.%}</div> <div n="xs">{#बहुलीभूतोऽयमर्थः,#}</div> Sa. vi.: v. To
-<div n="lb"/>get abroad.
+{@AFLOAT:@}¦ {#प्लवमानः#} ({#ना, नं#}), {%or%} by the verb; <div n="xe">{%I%}
+{%was a. for the day and the whole night%}</div> <div n="xs">{#तावदप्लोषि #}
+{# यावदपासरद्वासरः शर्वरी च सर्वा,#}</div> <ls>D.</ls> vi. Fig.: <div n="xe">{%the%}
+{%rumour is a.%}</div> <div n="xs">{#बहुलीभूतोऽयमर्थः,#}</div> Sa. vi.: v. To
+get abroad.
 <LEND>

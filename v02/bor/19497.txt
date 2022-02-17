@@ -1,4 +1,4 @@
 <L>19497<pc>606<k1>rover<k2>rover
-<div n="lb"/>{@ROVER:@}¦ <div n="I">I Wanderer: q. v. </div><div n="I">II Robber:
-<div n="lb"/>q. v.: {#लुब्धः, -कः।#}</div>
+{@ROVER:@}¦ <div n="I">I Wanderer: q. v. </div><div n="I">II Robber:
+q. v.: {#लुब्धः, -कः।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>7783<pc>246<k1>equivalent<k2>equivalent
-<div n="lb"/>{@EQUIVALENT@}¦ (adj.): <div n="1">(1) {#तुल्यः#} ({#ल्या, ल्यं#}) v.
-<div n="lb"/>Equal; </div><div n="1">(2) {#तुल्यार्थकः#} ({#का, कं#}) (in meaning);</div>
-<div n="lb"/><div n="1">(3) {#तुल्यबलः#} ({#ला, लं#}) (in force); </div><div n="1">(4) {#तुल्यमूल्यं#}
-<div n="lb"/>({#ल्या, ल्यं#}) (in value).</div>
+{@EQUIVALENT@}¦ (adj.): <div n="1">(1) {#तुल्यः#} ({#ल्या, ल्यं#}) v.
+Equal; </div><div n="1">(2) {#तुल्यार्थकः#} ({#का, कं#}) (in meaning);</div>
+<div n="1">(3) {#तुल्यबलः#} ({#ला, लं#}) (in force); </div><div n="1">(4) {#तुल्यमूल्यं#}
+({#ल्या, ल्यं#}) (in value).</div>
 <LEND>

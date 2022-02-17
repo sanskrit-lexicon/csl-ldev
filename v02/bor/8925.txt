@@ -1,4 +1,4 @@
 <L>8925<pc>282<k1>flavour<k2>flavour
-<div n="lb"/>{@FLAVOUR@}¦ (v.): <div n="xe">{%f. ing essences:%}</div> <div n="xs">{#सुस्वादकरसाः#}</div> (?);
-<div n="lb"/><div n="xe">{%highly-f. ed wine:%}</div> <div n="xs">{#उग्रस्वादं मद्यम्#}</div> (?).
+{@FLAVOUR@}¦ (v.): <div n="xe">{%f. ing essences:%}</div> <div n="xs">{#सुस्वादकरसाः#}</div> (?);
+<div n="xe">{%highly-f. ed wine:%}</div> <div n="xs">{#उग्रस्वादं मद्यम्#}</div> (?).
 <LEND>

@@ -1,4 +1,4 @@
 <L>2176<pc>076<k1>blindfold<k2>blindfold
-<div n="lb"/>{@BLINDFOLD@}¦ (v. t.): {#नेत्रे#} <div n="xe">{%or%}</div> <div n="xs">{#लोचने#}</div> <div n="xe">{%or%}</div> <div n="xs">{#दृशौ बध्नाति#}</div>
-<div n="lb"/>({#बन्ध्,#} c. 9) <div n="xe">{%or%}</div> <div n="xs">{#अभिनह्यति#}</div> ({#नह्,#} c. 4).
+{@BLINDFOLD@}¦ (v. t.): {#नेत्रे#} <div n="xe">{%or%}</div> <div n="xs">{#लोचने#}</div> <div n="xe">{%or%}</div> <div n="xs">{#दृशौ बध्नाति#}</div>
+({#बन्ध्,#} c. 9) <div n="xe">{%or%}</div> <div n="xs">{#अभिनह्यति#}</div> ({#नह्,#} c. 4).
 <LEND>

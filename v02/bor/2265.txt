@@ -1,7 +1,7 @@
 <L>2265<pc>078<k1>board<k2>board
-<div n="lb"/>{@BOARD@}¦ (v. t.): <div n="I">I To cover with b. s: {#फलकैः #}
-<div n="lb"/>{# आच्छादयति#} (c. of {#छद्,#}) <div n="xe">{%or%}</div> <div n="xs">{#आवृणोति#}</div> ({#वृ,#} c. 5.).</div>
-<div n="lb"/><div n="I">II To enter a ship by force: {#बलात्#} ({#नावं#})
-<div n="lb"/>{#आरोहति#} ({#रुह्,#} c. l). </div><div n="I">III To furnish with
-<div n="lb"/>food: {#अर्थं गृहीत्वा#}) {#भोजयति#} (c. of {#भुज्#}).</div>
+{@BOARD@}¦ (v. t.): <div n="I">I To cover with b. s: {#फलकैः #}
+{# आच्छादयति#} (c. of {#छद्,#}) <div n="xe">{%or%}</div> <div n="xs">{#आवृणोति#}</div> ({#वृ,#} c. 5.).</div>
+<div n="I">II To enter a ship by force: {#बलात्#} ({#नावं#})
+{#आरोहति#} ({#रुह्,#} c. l). </div><div n="I">III To furnish with
+food: {#अर्थं गृहीत्वा#}) {#भोजयति#} (c. of {#भुज्#}).</div>
 <LEND>

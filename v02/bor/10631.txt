@@ -1,8 +1,8 @@
 <L>10631<pc>334<k1>hardness<k2>hardness
-<div n="lb"/>{@HARDNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#कठिनता#} <div n="xe">{%or%}</div> <div n="xs">{#काठिन्यम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#कठोरता#} (rare). </div><div n="I">II Harshness, insensi-
-<div n="lb"/>-bility: </div><div n="1">(1) {#कठिनता,#} <div n="xe">{%leave off h.:%}</div> <div n="xs">{#जहिहि कठिनताम्।#}</div>
-<div n="lb"/>Ki. x. 51.; </div><div n="1">(2) {#कठोरता#} (rare). </div><div n="I">III Difficulty
-<div n="lb"/>of comprehension or accomplishment:
-<div n="lb"/>{#कठिनता।#} </div><div n="I">IV Hardship: q.v.:</div>
+{@HARDNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#कठिनता#} <div n="xe">{%or%}</div> <div n="xs">{#काठिन्यम्;#}</div></div>
+<div n="1">(2) {#कठोरता#} (rare). </div><div n="I">II Harshness, insensi-
+-bility: </div><div n="1">(1) {#कठिनता,#} <div n="xe">{%leave off h.:%}</div> <div n="xs">{#जहिहि कठिनताम्।#}</div>
+Ki. x. 51.; </div><div n="1">(2) {#कठोरता#} (rare). </div><div n="I">III Difficulty
+of comprehension or accomplishment:
+{#कठिनता।#} </div><div n="I">IV Hardship: q.v.:</div>
 <LEND>

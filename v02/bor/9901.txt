@@ -1,4 +1,4 @@
 <L>9901<pc>313<k1>give back<k2>give back
-<div n="lb"/>{@GIVE BACK:@}¦ <div n="1">(1) {#प्रत्यर्पयति;#} </div><div n="1">(2) {#प्रतिददाति:#} v.
-<div n="lb"/>To return (I).</div>
+{@GIVE BACK:@}¦ <div n="1">(1) {#प्रत्यर्पयति;#} </div><div n="1">(2) {#प्रतिददाति:#} v.
+To return (I).</div>
 <LEND>

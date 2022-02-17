@@ -4,7 +4,7 @@
 <ls>HARIV. 15233.</ls> ved. {#रम्णाति; °रराम, रेमे; °अरंसीत्, अरंस्त#} 
 <ls>P. 7, 2, 73.</ls> 
 <ls>VOP. 8, 71.</ls> {#रंस्यते, रंस्यति#} 
-<ls>?<is>Kār</is>. 5 aus SIDDH. K. zu P. 7, 2, 10.</ls> {#रत्वा#} ({#रन्त्वा#}) 
+<ls><is>Kār</is>. 5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#रत्वा#} ({#रन्त्वा#}) 
 <ls>KATHĀS. 64, (46)</ls>, {#°रत्य#} und {#°रम्य#} 
 <ls>P. 6, 4, 37. fg.</ls>; {#रन्तुम्, °रमितुम्#} (
 <ls>MBH. 1, 4183</ls>); {#रत#} . 
@@ -47,7 +47,7 @@
 <ls>R. 5, 23, 5.</ls> {#गीते वा रमते#} 
 <ls>ŚAT. BR. 6, 1, 1, 15.</ls> {#न तेषु#} ({#भोगेषु#}) {#रमते बुधः#} 
 <ls>BHAG. 5, 22. 18, 36.</ls> {#नाधर्मे रंस्यते मनः#} 
-<ls>MBH. 1, 4756. 13, 580.</ls> 
+<ls>MBH. 1, 4756.</ls> <ls n="MBH.">13, 580.</ls> 
 <ls>R. 2, 55, 27.</ls> {#रमते चक्षुस्तवास्मिन्गिरिकन्दरे#} 
 <ls>96, 5. 3, 53, 20.</ls> <ls>SUŚR. 1, 112, 18.</ls> <ls>Spr. 856. 2903. 2972. 3179. 5195.</ls> <ls>VARĀH. BṚH. S. 53, 95.</ls> <ls>KATHĀS. 21, 80. 47, 99. 104, 55.</ls> <ls>BHĀG. P. 2, 1, 7. 9, 2. 9, 9, 44. 20, 12.</ls> <ls>MĀRK. P. 62, 21.</ls> {#वरयान्यं पतिं यत्र मनस्ते रमते#} 
 <ls>125, 32.</ls> <ls>PRAB. 107, 18.</ls> <ls>BHAṬṬ. 1, 2.</ls> {#देवत्रा रेमे#} 
@@ -56,7 +56,7 @@
 <ls>Spr. 903.</ls> 
 <ls>BHĀG. P. 5, 14, 32.</ls> {#विप्रयूनि स्वेनैव धनव्ययेन रममाणया#} 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 181, 5.</ls> {#विटेषु रमते#} ({#या नारी#}) 
-<ls>VET.</ls> in <ls>LA. (III) 20, 12.</ls> {#रत#} {%sich genügen lassend, sich ergötzend, Gefallen findend an, einer Sache ganz ergeben, als gewohnter Beschäftigung obliegend%}: {#प्राणे#} 
+<ls>VET. in LA. (III) 20, 12.</ls> {#रत#} {%sich genügen lassend, sich ergötzend, Gefallen findend an, einer Sache ganz ergeben, als gewohnter Beschäftigung obliegend%}: {#प्राणे#} 
 <ls>ŚAT. BR. 14, 8, 13, 3.</ls> {#संभूत्याम्#} 
 <ls>7, 2, 13.</ls> {#प्रियहिते#} 
 <ls>M. 2, 235. 11, 78.</ls> 
@@ -64,7 +64,7 @@
 <ls>MBH. 3, 16621.</ls> 
 <ls>R. 1, 7, 4. 2, 54, 22. 58, 28. 3, 53, 12. 4, 16, 12.</ls> 
 <ls>Spr. 4839.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 48, 15.</ls> {#तेषां#} ({#स्रोतसां#}) {#चावरणे#} 
+<ls>BRAHMA-P. in LA. (III) 48, 15.</ls> {#तेषां#} ({#स्रोतसां#}) {#चावरणे#} 
 <ls>M. 3, 163.</ls> {#पतिशुश्रूषणे#} 
 <ls>R. 1, 1, 88. 2, 24, 27.</ls> 
 <ls>VARĀH. BṚH. S. 45, 15.</ls> {#वाजिनां रक्षणे#} 
@@ -82,15 +82,15 @@
 <ls>Spr. 1027.</ls> {#स्वात्मन्#} (loc.) 
 <ls>BHĀG. P. 3, 14, 27.</ls> {#पुंसि#} 
 <ls>25, 15.</ls> {#स्त्रीषु#} 
-<ls>VET.</ls> in <ls>LA. (III) 30, 9.</ls> {#परेशे रतमानसाः#} 
-<ls>Verz. d. Oxf. H.9,a,3 v. u.</ls> Die Erscheinung mit {#रत#} componirt: {#वेदवादरत#} 
+<ls>VET. in LA. (III) 30, 9.</ls> {#परेशे रतमानसाः#} 
+<ls>Verz. d. Oxf. H.9,a,3</ls> v. u. Die Erscheinung mit {#रत#} componirt: {#वेदवादरत#} 
 <ls>BHAG. 2, 42.</ls> {#प्रजानुग्रह°#} 
 <ls>R. 1, 1, 5. 2, 24, 20.</ls> {#हिंसा°#} 
 <ls>Spr. 3439.</ls> 
 <ls>RAGH. 9, 4.</ls> 
 <ls>Spr. 807. 1313. 2899.</ls> 
-<ls>VARĀH. BṚH. S. 15, 4. 10. 15. 16, 19. 39.</ls> {#कृषि°#} (=  {#कृषीवल#}) 
-<ls>?33, 2. 68, 71. BHĀG. P. 1, 5, 13. BRAHMA-P. in LA. (III) 54, 16. PAÑCAT. 27, 9. 203, 2. HIT. 19, 2.</ls> {#धातुवाद° = कारंधमिन्#} 
+<ls>VARĀH. BṚH. S. 15, 4. 10. 15. 16, 19. 39.</ls> {#कृषि°#} (= {#कृषीवल#}) 
+<ls>33, 2. 68, 71.</ls> <ls>BHĀG. P. 1, 5, 13.</ls> <ls>BRAHMA-P. in LA. (III) 54, 16.</ls> <ls>PAÑCAT. 27, 9. 203, 2.</ls> <ls>HIT. 19, 2.</ls> {#धातुवाद° = कारंधमिन्#} 
 <ls>TRIK. 3, 3, 235.</ls> {#भार्यां पररताम्#} so v. a. {%mit Andern buhlend%} 
 <ls>Spr. 2899.</ls> {#वैश्यरतः क्षत्रियः#} wohl so v. a. {%auf Kosten der%} <is>Vaiśya</is> {%lebend,%}
 [Page6-0274]
@@ -112,33 +112,33 @@
 <ls>MBH. 6, 68.</ls> 
 <ls>KATHĀS. 56, 292.</ls> 
 <ls>VOP. 5, 30.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 55, 11.</ls> {#सा च ग्रामसौख्येन#} (so ist zu lesen) {#दण्डनायकेन तत्पुत्रेण च समं रमते#} 
+<ls>BRAHMA-P. in LA. (III) 55, 11.</ls> {#सा च ग्रामसौख्येन#} (so ist zu lesen) {#दण्डनायकेन तत्पुत्रेण च समं रमते#} 
 <ls>HIT. 66, 7.</ls> {#मा रंस्था जीवितेन नः#} so v. a. {%spiele nicht mit unserem Leben%} 
 <ls>BHAṬṬ. 6, 15.</ls> {#स्वकर्मणैव रतः#} {%Gefallen findend an, zufrieden mit%} 
 <ls>PAÑCAT. 228, 10.</ls> 
 <div n="2">— c) mit infin.: {#त्वदृते नहि वस्तुं मे स्वर्गे ऽपि रमते मनः#} 
 <ls>R. GORR. 2, 21, 15.</ls> 
 <div n="2">— d) mit {#सह, सार्धम्, साकम्#} {%sich mit Jmd vergnügen%} und insbes. {%mit Jmd der Liebe pflegen%}; med. 
-<ls>MBH. 3, 2253. 2640.</ls> 
+<ls>MBH. 3, 2253.</ls> <ls n="MBH. 3,">2640.</ls> 
 <ls>R. 2, 27, 3. 31, 27. 94, 18.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 27, 13.</ls> {#त्वमार्य सह वैदेह्या वनवासे ऽपि रंस्यसे#} 
-? <ls>31, 21.</ls> <ls>KATHĀS. 18, 405</ls>. <ls>BHĀG. P. 9, 1, 25.</ls> <ls>MĀRK. P. 20, 6. 61, 55.</ls> <ls>MBH. 1, 3907. 3, 2233. 13, 1466.</ls> <ls>KATHĀS. 37, 105. 42, 159. 45, 342.</ls> <ls>BRAHMA-P.</ls> in LA. (III) 54, 9. <ls>PAÑCAR. 1, 10, 37.</ls> <ls>HIT. 63, 22. 86, 10. 110, 18.</ls> ed. <ls>JOHNS. 1394.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> {#रमन्ते चोपहासेन पुरुषाः पुरुषैः सह#} {%treiben Unzucht mit einander%} 
-<ls>MBH. 8, 2115.</ls> <ls>?act. R. GORR. 1, 65, 12. 3, 61, 34. 38.</ls> {#रन्तुम्#} 
-<ls>R.</ls> <ls>SCHL. 2, 96, 9. 7, 31, 9.</ls> {#रन्त्वा#} 
+
+<ls>R. GORR. 2, 27, 13.</ls> {#त्वमार्य सह वैदेह्या वनवासे ऽपि रंस्यसे#} 
+? <ls>31, 21.</ls> <ls>KATHĀS. 18, 405</ls>. <ls>BHĀG. P. 9, 1, 25.</ls> <ls>MĀRK. P. 20, 6. 61, 55.</ls> <ls>MBH. 1, 3907.</ls> <ls n="MBH.">3, 2233.</ls> <ls n="MBH.">13, 1466.</ls> <ls>KATHĀS. 37, 105. 42, 159. 45, 342.</ls> <ls>BRAHMA-P.</ls> in LA. (III) 54, 9. <ls>PAÑCAR. 1, 10, 37.</ls> <ls>HIT. 63, 22. 86, 10. 110, 18.</ls> ed. <ls>JOHNS. 1394.</ls> <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> {#रमन्ते चोपहासेन पुरुषाः पुरुषैः सह#} {%treiben Unzucht mit einander%} 
+<ls>MBH. 8, 2115.</ls> <ls>act.</ls> <ls>R. GORR. 1, 65, 12. 3, 61, 34. 38.</ls> {#रन्तुम्#} 
+<ls>R. SCHL. 2, 96, 9. 7, 31, 9.</ls> {#रन्त्वा#} 
 <ls>KATHĀS. 64, 46.</ls> {#रमस्व सहितो मया#} 
 <ls>MBH. 13, 1465.</ls> 
 <div n="2">— e) ohne weiteren Beisatz {%vergnügt sein, sich ergötzen%}: {#एकाकी न रमते#} 
 <ls>ŚAT. BR. 14, 4, 2, 4.</ls> 
 <ls>CHĀND. UP. 8, 12, 5.</ls> 
-<ls>MAITRYUP. 2, 6.</ls> <ls>MBH. 1, 981. 3905. 8061. 3, 1795. 4, 264. 403.</ls> <ls>R. 2, 55, 31. 91, 74. 3, 73, 17. 7, 108, 29.</ls> <ls>RAGH. 9, 71. 14, 30.</ls> {#मम मनो रमते#} 
+<ls>MAITRYUP. 2, 6.</ls> <ls>MBH. 1, 981.</ls> <ls n="MBH. 1,">3905.</ls> <ls n="MBH. 1,">8061.</ls> <ls n="MBH.">3, 1795.</ls> <ls n="MBH.">4, 264.</ls> <ls n="MBH. 4,">403.</ls> <ls>R. 2, 55, 31. 91, 74. 3, 73, 17. 7, 108, 29.</ls> <ls>RAGH. 9, 71. 14, 30.</ls> {#मम मनो रमते#} 
 <ls>VIKR. 70, 21.</ls> {#न विना परिवादेन रमते दुर्जनो जनः#} 
 <ls>Spr. 1458. 2883, v. l.</ls> 
 <ls>KATHĀS. 34, 164. 52, 64.</ls> 
 <ls>PRAB. 90, 13.</ls> 
 <ls>BHĀG. P. 3, 23, 44. 4, 27, 1. 9, 19, 6.</ls> {#तुष्यन्ति च रमन्ति च#} 
 <ls>BHAG. 10, 9.</ls> 
-<ls>MBH. 12, 7755. 13, 1276.</ls> {#रमामि कथयन्त्यास्ते दृढम्#} 
+<ls>MBH. 12, 7755.</ls> <ls n="MBH.">13, 1276.</ls> {#रमामि कथयन्त्यास्ते दृढम्#} 
 <ls>R. 3, 5, 3. 15, 28.</ls> 
 <ls>MĀRK. P. 51, 99.</ls> <ls>WEBER, RĀMAT. UP. 354.</ls> {#रम्यताम्#} impers. 
 <ls>MBH. 1, 7649.</ls> 
@@ -147,7 +147,7 @@
 <ls>MĀRK. P. 20, 7.</ls> 
 <ls>ŚUK.</ls> in <ls>LA. (III) 33, 3.</ls> {#रत#} {%vergnügt, froh%} 
 <ls>BHĀG. P. 3, 23, 40. 10, 47, 8.</ls> Häufig in Verbindung mit einem loc. des Ortes: {#रममाणः पुरे रम्ये#} 
-<ls>MBH. 1, 6412. 3, 1877. 13, 1427. 3861.</ls> 
+<ls>MBH. 1, 6412.</ls> <ls n="MBH.">3, 1877.</ls> <ls n="MBH.">13, 1427.</ls> <ls n="MBH. 13,">3861.</ls> 
 <ls>HARIV. 1576.</ls> 
 <ls>R. 2, 34, 50. 54, 25. 56, 11. 60, 9. 94, 11.</ls> 
 <ls>RAGH. 8, 94.</ls> 
@@ -180,12 +180,12 @@
 <ls>KĀTY. ŚR. 4, 14, 23.</ls> 
 <ls>PAÑCAV. BR. 6, 7, 18.</ls> 
 <div n="1">— 2) {#रमयति#} {%ergötzen, durch Befriedigung der Liebeslust ergötzen%} 
-<ls>MBH. 1, 3905. 6064. 6071. 2, 133. 305. 3, 1859. 4, 25. 12, 8812. 14, 2642. 15, 541.</ls> 
+<ls>MBH. 1, 3905.</ls> <ls n="MBH. 1,">6064.</ls> <ls n="MBH. 1,">6071.</ls> <ls n="MBH.">2, 133.</ls> <ls n="MBH. 2,">305.</ls> <ls n="MBH.">3, 1859.</ls> <ls n="MBH.">4, 25.</ls> <ls n="MBH.">12, 8812.</ls> <ls n="MBH.">14, 2642.</ls> <ls n="MBH.">15, 541.</ls> 
 <ls>HARIV. 9904.</ls> 
 <ls>R. 2, 48,</ls> <ls>11(45, 12</ls> <ls>GORR.).</ls>
 [Page6-0275]
 {#रामो रमयतां श्रेष्ठः#} 
-<ls>?53, 1. 61, 1. 5, 74, 15. R. GORR. 1, 1, 22. 78, 13. 53, 1. 3, 3, 20. 15, 18. MEGH. 110. Spr. 1157. 3194. 3770. VARĀH. BṚH. S. 19, 5. 76, 3. KATHĀS. 1, 66. GĪT. 1, 44. 2, 8. 11. BHĀG. P. 1, 6, 39. 3, 2, 29. 3, 21. 4, 7, 21. 27, 1. 5, 18, 16. 9, 14, 24. 24, 63. 10, 29, 42. BRAHMA-P. in LA. (III) 54, 14. KUSUM. 1, 10. med. MBH. 4, 55. HARIV. 8342. BHĀG. P. 4, 25, 38.</ls> {#रमां रमयन्निन्द्रियाणि रमयते#} {%ergötzt seine Sinne%} 
+<ls>53, 1. 61, 1. 5, 74, 15.</ls> <ls>R. GORR. 1, 1, 22. 78, 13. 53, 1. 3, 3, 20. 15, 18.</ls> <ls>MEGH. 110.</ls> <ls>Spr. 1157. 3194. 3770.</ls> <ls>VARĀH. BṚH. S. 19, 5. 76, 3.</ls> <ls>KATHĀS. 1, 66.</ls> <ls>GĪT. 1, 44. 2, 8. 11.</ls> <ls>BHĀG. P. 1, 6, 39. 3, 2, 29. 3, 21. 4, 7, 21. 27, 1. 5, 18, 16. 9, 14, 24. 24, 63. 10, 29, 42.</ls> <ls>BRAHMA-P. in LA. (III) 54, 14.</ls> <ls>KUSUM. 1, 10.</ls> med. <ls>MBH. 4, 55.</ls> <ls>HARIV. 8342.</ls> <ls>BHĀG. P. 4, 25, 38.</ls> {#रमां रमयन्निन्द्रियाणि रमयते#} {%ergötzt seine Sinne%} 
 <ls>5, 18, 16.</ls> {#रमित#} 
 <ls>MBH. 13, 580</ls> (nach der Lesart der ed. Bomb.). 
 <ls>GĪT. 7, 12.</ls> 
@@ -250,16 +250,16 @@ v. l. für {#अभिरमते#}
 <ls>MBH. 1, 674.</ls> {#धर्मपत्नीमभिरतां त्वयि#} 
 <ls>4681. 5, 6078. 13, 5299.</ls> {#पापेषु#} 
 <ls>HARIV. 4846.</ls> {#कृष्याम्#} 
-<ls>11306.</ls> {#सत्पथे#} 
+<ls n="HARIV.">11306.</ls> {#सत्पथे#} 
 <ls>R. 2, 36, 29. 56, 15. 3, 15, 40. 71, 13.</ls> 
 <ls>KĀM. NĪTIS. 6, 8.</ls> <ls>BHĀG. P. 3, 32, 17. 4, 20, 28. 9, 6, 48. 10, 60, 34.</ls> {#राजधर्माभिरत#} 
-<ls>HARIV. 3107. 5643.</ls> 
+<ls>HARIV. 3107.</ls> <ls n="HARIV.">5643.</ls> 
 <ls>Spr. 4230.</ls> 
 <ls>VARĀH. BṚH. S. 15,5. 7. 21.</ls> 
 <ls>BHĀG. P.3,8,7. 25,34. 32,41.5,19,1.</ls> 
 <ls>MĀRK. P. 51,118.</ls> <ls>Verz. d. Oxf. H. 54,b,21.</ls> {#मांसहेतोरभिरता विहारार्थे च#} 
 <ls>R. 3, 49, 39.</ls> {#त्रिशङ्कुरिह तिष्ठतु । दक्षिणस्यामभिरतो दिशि#} 
-<ls>R. GORR. 1, 62, 32. 2, 119, 19 (110, 19</ls> <ls>SCHL.</ls><ls>).</ls> 
+<ls>R. GORR. 1, 62, 32. 2, 119, 19 (110, 19</ls> <ls>SCHL.</ls>). 
 <div n="1">— 3) {#किंनराभिरतानि#} 
 <ls>MĀRK. P. 61, 21</ls> fehlerhaft für {#किंनराभिरुतानि#} . 
 <div n="v">— Vgl. {#अभिरति, अभिराम#} . — caus. {%ergötzen%}: {#भार्येव चाभिरमयति#} ({#विद्या#}) 
@@ -289,7 +289,7 @@ vgl. {#अनवरत#} und füge noch hinzu
 <ls>M. 2, 73.</ls> {%abstehen%}: {#आरम्यताम्#} (impers.) 
 <ls>MBH. 1, 4181.</ls> {#आरत#} {%aufgehört%}: {#°निःस्वन#} 
 <ls>KIR. 5, 6.</ls> {#अनारत#} (s. auch bes.) <lex>adj.</lex> und {#°तम्#} adv. {%unaufhörlich, ohne Unterlass%} 
-<ls>AK.3,5,11.</ls> <ls>MBH. 12,12417.</ls> <ls>Spr. 3844.</ls> <ls>KATHĀS. 38,82.</ls> <ls>RĀJA-TAR.4,169.</ls> <ls>PAÑCAR.3,15,4.</ls> <ls>Verz. d. Oxf. H. 117,b,6.</ls> 
+<ls>AK. 3,5,11.</ls> <ls>MBH. 12, 12417.</ls> <ls>Spr. 3844.</ls> <ls>KATHĀS. 38,82.</ls> <ls>RĀJA-TAR. 4,169.</ls> <ls>PAÑCAR. 3,15,4.</ls> <ls>Verz. d. Oxf. H. 117,b,6.</ls> 
 <div n="1">— 2) {%sich ergötzen, Gefallen finden an%}: {#सत्यधर्मार्थवृत्तेषु शौचे चैवारमेत्सदा#} ({#चैव रमेत्सदा#} 
 v. l.) <ls>M. 4, 175.</ls> {#आरमन्तं परं स्मरे#} 
 <ls>BHAṬṬ. 8, 52.</ls> {#रूपारमल्लोकलोचन#} 
@@ -311,7 +311,7 @@ v. l.) <ls>M. 4, 175.</ls> {#आरमन्तं परं स्मरे#}
 <ls>R. GORR. 1, 67, 11.</ls> {#योगात्#} 
 <ls>KUMĀRAS. 3, 58.</ls> {#विग्रहात्#} 
 <ls>BHĀG. P. 8, 11, 44.</ls> {#उपारमध्वं संग्रामात्#} 
-<ls>MBH. 6, 5744. 7270.</ls> {#अखिलकामुकेभ्यः#} 
+<ls>MBH. 6, 5744.</ls> <ls n="MBH. 6,">7270.</ls> {#अखिलकामुकेभ्यः#} 
 <ls>BHĀG. P. 11, 28, 23.</ls> {#तेषां दानप्रवृत्तेरनुपारतानाम्#} 
 <ls>RAGH. 16, 3.</ls> {#योगादुपारतम्#} 
 <ls>BHĀG. P. 8, 12, 44.</ls> {#स्थानत्रयात्#} so v. a. {%frei von%} 
@@ -347,8 +347,8 @@ v. l.) <ls>M. 4, 175.</ls> {#आरमन्तं परं स्मरे#}
 <ls>MBH. 5, 1403.</ls> {%zur Ruhe gekommen%} so v. a. {%gestorben%} 
 <ls>ŚĀṄKH. GṚHY. 4, 7.</ls> 
 <ls>HARIV. 5179.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 88, 19. 4, 8, 34. 5, 22, 13.</ls> 
+
+<ls>R. GORR. 2, 88, 19. 4, 8, 34. 5, 22, 13.</ls> 
 <ls>BHĀG. P. 1, 13, 32. 4, 14, 39. 28, 45. 5, 9, 8. 9, 6, 11. 17, 14. 20, 23.</ls> 
 <ls>PAÑCAT. 93, 18. 98, 3.</ls> {%ruhig%} so v. a. {%geduldig%} 
 <ls>ŚAT. BR. 14, 7, 2, 28.</ls> 
@@ -361,15 +361,15 @@ v. l.) <ls>M. 4, 175.</ls> {#आरमन्तं परं स्मरे#}
 <ls>BHĀG. P. 7, 5, 33.</ls> 
 <ls>LA. (III) 87, 13.</ls> {#मृगशशकादीन्व्यापादयन्नोपरराम#} 
 <ls>PAÑCAT. 53, 19.</ls> {#ते नोपरेमुः#} {%sie liessen nicht nach%} 
-<ls>HARIV. 8433. 15546.</ls> {#उपरमस्व#} 
+<ls>HARIV. 8433.</ls> <ls n="HARIV.">15546.</ls> {#उपरमस्व#} 
 <ls>MBH. 13, 1471.</ls> 
 <ls>BHAṬṬ. 8, 55.</ls> {#हलहलाशब्दः #}
 [Page6-0277]
 {# - उपरराम#} 
-<ls>MBH. 1, 2174. 3, 853. 7, 3633.</ls> {#वागुपारमत्#} 
+<ls>MBH. 1, 2174.</ls> <ls n="MBH.">3, 853.</ls> <ls n="MBH.">7, 3633.</ls> {#वागुपारमत्#} 
 <ls>KATHĀS. 2, 70. 16, 120.</ls> {#उपरतेषु शब्देषु#} 
 <ls>ĀŚV. GṚHY. 4, 6, 7.</ls> 
-<ls>MBH. 1, 119. 2, 2276.</ls> 
+<ls>MBH. 1, 119.</ls> <ls n="MBH.">2, 2276.</ls> 
 <ls>R. 2, 3, 5. 91, 28 (100, 25 GORR.).</ls> {#ततो युद्धमुपारमत्#} 
 <ls>MBH. 5, 7162.</ls> {#यावद्भुक्तमुपरमति, °ते#} 
 <ls>P. 1, 3, 85,</ls> 
@@ -385,13 +385,13 @@ v. l.) <ls>M. 4, 175.</ls> {#आरमन्तं परं स्मरे#}
 <div n="1">— 4) {%abstehen von, entsagen%}; mit abl.: {#युद्धादुपारमन्#} 
 <ls>MBH. 7, 3633.</ls> 
 <ls>HARIV. 15233.</ls> {#तद्भक्षणात्#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 52. BHĀG. P. 1, 13, 2.</ls> {#संसृतेः#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 52.</ls> <ls>BHĀG. P. 1, 13, 2.</ls> {#संसृतेः#} 
 <ls>15, 33. 4, 28, 42. 5, 1, 22.</ls> <ls>BHAṬṬ. 8, 54. 9, 51.</ls> {#विस्मयान्नोपरेमिरे#} 
 <ls>R. 7, 97, 23.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 319. BHĀG. P. 5, 5, 14.</ls> {#अशक्यारम्भादुपरम्य#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 319.</ls> <ls>BHĀG. P. 5, 5, 14.</ls> {#अशक्यारम्भादुपरम्य#} 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 181, 12.</ls> {#रणादुपरतम्#} 
 <ls>BHAG. 2, 35.</ls> {#स्वव्यापाराद्वदनात्#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 315.</ls> {#अस्माल्लोकादुपरते मयि#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 315.</ls> {#अस्माल्लोकादुपरते मयि#} 
 <ls>BHĀG. P. 3, 4, 30.</ls> {#विलापोपरतं रामम्#} 
 <ls>R. 2, 53, 29.</ls> {#निर्घोषोपरत#} 
 <ls>51, 13.</ls> 
@@ -418,9 +418,9 @@ v. l.) <ls>M. 4, 175.</ls> {#आरमन्तं परं स्मरे#}
 <div n="p">— {#नि#} 
 <div n="1"> 1) med. {%sich zur Ruhe begeben, aufhören%}: {#आ\श्रा\वय^न्तो\ नि वि\षे र^मध्वम्#} 
 <ls>AV. 5, 13, 5.</ls> {#न्य^श्विना हृ\त्सु कामा^ अरंसत#} ({#अयंसत#} 
-<ls>ṚV.</ls><ls>) 14, 2, 5.</ls> 
+<ls>ṚV.</ls>) <ls>14, 2, 5.</ls> 
 <div n="1">— 2) {#निरत#} {%sich genügen lassend, sich ergötzend, Gefallen findend an, einer Sache%} oder {%einer Person ganz ergeben, sich gern mit Etwas beschäftigend, treu an Etwas hängend%}; die Ergänzung im loc.: {#स्वधर्मे#} 
-<ls>MBH. 3, 15604. 15640.</ls> {#धनुर्वेदे च वेदे च#} 
+<ls>MBH. 3, 15604.</ls> <ls n="MBH. 3,">15640.</ls> {#धनुर्वेदे च वेदे च#} 
 <ls>13, 91.</ls> <ls>R. 1, 19, 19.</ls> {#निदेशे पितुः#} 
 <ls>4, 14, 18. 5, 77, 13.</ls> {#विद्याधातुवणिक्क्रियासु#} 
 <ls>VARĀH. BṚH. S. 69, 20.</ls> 
@@ -470,7 +470,7 @@ u.s.w.), {%pausiren, aufhören%}
 <ls>LĀṬY. 1, 3, 6.</ls> 
 <ls>KAUŚ. 141.</ls> {#विरमेत्पक्षिणीं रात्रिम्#} 
 <ls>M. 4, 97.</ls> {#एतावदुक्त्वा वचनं विरराम स पार्थिवः#} 
-<ls>MBH. 1, 8112. 2, 1401. 3, 16721. 4, 60. 12, 6238.</ls> 
+<ls>MBH. 1, 8112.</ls> <ls n="MBH.">2, 1401.</ls> <ls n="MBH.">3, 16721.</ls> <ls n="MBH.">4, 60.</ls> <ls n="MBH.">12, 6238.</ls> 
 <ls>R. 1, 21, 20. 50, 24. 59, 22. 2, 12, 27. 44, 24. 105, 39. 7, 108, 7.</ls> 
 <ls>ŚĀK. 15, 3. 67, 5. 107, 8.</ls> 
 <ls>KATHĀS. 1, 62. 18, 316. 28, 125.</ls> 
@@ -494,7 +494,7 @@ u.s.w.), {%pausiren, aufhören%}
 <ls>KATHĀS. 72, 320.</ls> {#विरमेद्दग्धयोनिरिवानलः#} {%erlöschen%} 
 <ls>BHĀG. P. 7, 12, 31.</ls> {#विरराम#} so v. a. {%er entsagte allem Andern%} 
 <ls>4, 28, 40.</ls> {#सत्त्रं ते विरमतु#} 
-<ls>MBH. 1, 2135. 2138.</ls> 
+<ls>MBH. 1, 2135.</ls> <ls n="MBH. 1,">2138.</ls> 
 <ls>Spr. 2691. 2706. 5173.</ls> {#रात्रिरेव व्यरंसीत्#} {%ging zu Ende%} 
 <ls>UTTARAR. 12, 13 (17, 6).</ls> {#विरमत्समाधि#} 
 <ls>BHĀG. P. 7, 9, 33. 12, 10. 10, 73, 15.</ls> 
@@ -502,8 +502,8 @@ u.s.w.), {%pausiren, aufhören%}
 <ls>KIR. 5, 24.</ls> {#कोलाहलो विरमते#} 
 <ls>BHĀG. P. 3, 15, 18. 4, 19, 35.</ls> {#किमद्य शब्दो विरतः#} 
 <ls>R. 2, 71, 26. 86, 14.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 74, 13.</ls> 
+
+<ls>R. GORR. 2, 74, 13.</ls> 
 <ls>MṚCCH. 44, 16.</ls> 
 <ls>ŚĀK. 90.</ls> 
 <ls>RAGH. 4, 78. 8, 54. 65.</ls> 
@@ -518,9 +518,9 @@ u.s.w.), {%pausiren, aufhören%}
 <ls>P. 1, 4, 24, <is>Vārtt</is>.</ls> {#व्रात्यभावाद्विरमेयुः#} 
 <ls>KĀTY. ŚR. 22, 4, 27.</ls> 
 <ls>MBH. 3, 14250.</ls> 
-<ls>HARIV. 5635. 11268.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 60, 23.</ls> 
+<ls>HARIV. 5635.</ls> <ls n="HARIV.">11268.</ls> 
+
+<ls>R. GORR. 2, 60, 23.</ls> 
 <ls>RAGH. 8, 22.</ls> 
 <ls>Spr. 571. 2585. 2833. 2866.</ls> 
 <ls>VIKR. 39.</ls> 

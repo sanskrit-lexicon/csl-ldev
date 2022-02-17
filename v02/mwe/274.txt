@@ -1,6 +1,6 @@
 <L>274<pc>007-a<k1>administrator<k2>administrator
-<div n="lb"/>ADMINISTRATOR¦, {%s.%} (One entrusted with the care of the effects
-<div n="lb"/>of a deceased man) {#मृतद्रव्यनिरूपणाधिकृतः, प्रेतजनद्रव्यरक्षकः#}. — 
-<div n="lb"/>(One that conducts any thing) {#प्रणेता#} {%m.%} {#(तृ), सम्प्रणेता#} {%m.%} {#(तृ),#}
-<div n="lb"/>{#प्रवर्त्तयिता#} {%m.%} {#(तृ), प्रवर्त्तकः#}.
+ADMINISTRATOR¦, {%s.%} (One entrusted with the care of the effects
+of a deceased man) {#मृतद्रव्यनिरूपणाधिकृतः, प्रेतजनद्रव्यरक्षकः#}. — 
+(One that conducts any thing) {#प्रणेता#} {%m.%} {#(तृ), सम्प्रणेता#} {%m.%} {#(तृ),#}
+{#प्रवर्त्तयिता#} {%m.%} {#(तृ), प्रवर्त्तकः#}.
 <LEND>

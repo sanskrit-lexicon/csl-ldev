@@ -1,5 +1,5 @@
 <L>10374<pc>327<k1>growth<k2>growth
-<div n="lb"/>{@GROWTH:@}¦ <div n="I">I Increase: q.v.: {#वृद्धिः।#} Ph.: <div n="xe">{%of%}
-<div n="lb"/>{%one year's g.:%}</div> <div n="xs">{#एकवर्षीण#}</div> (f. {#णा#}); <div n="xe">{%full g.:%}</div> <div n="xs">{#परिणामः#}</div>
-<div n="lb"/>: v. Maturity. </div><div n="I">II Product.: q.v.</div>
+{@GROWTH:@}¦ <div n="I">I Increase: q.v.: {#वृद्धिः।#} Ph.: <div n="xe">{%of%}
+{%one year's g.:%}</div> <div n="xs">{#एकवर्षीण#}</div> (f. {#णा#}); <div n="xe">{%full g.:%}</div> <div n="xs">{#परिणामः#}</div>
+: v. Maturity. </div><div n="I">II Product.: q.v.</div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>10596<pc>333<k1>hang<k2>hang
-<div n="lb"/>{@HANG@}¦ (v. t.): <div n="I">I To suspend: </div><div n="1">(1) {#नि-,दधाति#}
-<div n="lb"/>({#धा,#} c. 3.) (= to put), {%on this%} ({%branch%}) <div n="xe">{%bows have%}
-<div n="lb"/>{%been hung:%}</div> <div n="xs">{#अस्यां धनूंषि निहितानि,#}</div> Mah.; </div><div n="1">(2)
-<div n="lb"/>{#बध्नाति#} ({#बन्ध्,#} c. 9.) (= to fasten: q.v.), <div n="xe">{%hung%}
-<div n="lb"/>{%banners:%}</div> <div n="xs">{#ध्वजान् बबन्धुः,#}</div> B. iii. 5. </div><div n="I">II To kill by
-<div n="lb"/>h. ing: {#उद्वध्नाति#} ({#बन्ध्,#} c. 9.), <div n="xe">{%he h. s him-%}
-<div n="lb"/>{%self:%}</div> <div n="xs">{#अयमात्मानमुद्वध्नाति,#}</div> Mu. vi.; <div n="xe">{%here I will kill%}
-<div n="lb"/>{%myself. h. ing on this Aśoka tree with this%}
-<div n="lb"/>{%creeper:%}</div> <div n="xs">{#तदिहैवाशोकपादपेऽनया लतयोद्वध्यात्मानं व्यापा-#}
-<div n="lb"/>{#दयिष्यामि,#}</div> Ra. vii. </div><div n="I">III To lower: q.v.:
-<div n="lb"/>{#नमयति#} (c. of {#नम्#}). </div><div n="I">IV To cover, adorn:
-<div n="lb"/>q.v.: {#छादयति#} ({#छद्,#} c. 10).</div>
+{@HANG@}¦ (v. t.): <div n="I">I To suspend: </div><div n="1">(1) {#नि-,दधाति#}
+({#धा,#} c. 3.) (= to put), {%on this%} ({%branch%}) <div n="xe">{%bows have%}
+{%been hung:%}</div> <div n="xs">{#अस्यां धनूंषि निहितानि,#}</div> Mah.; </div><div n="1">(2)
+{#बध्नाति#} ({#बन्ध्,#} c. 9.) (= to fasten: q.v.), <div n="xe">{%hung%}
+{%banners:%}</div> <div n="xs">{#ध्वजान् बबन्धुः,#}</div> B. iii. 5. </div><div n="I">II To kill by
+h. ing: {#उद्वध्नाति#} ({#बन्ध्,#} c. 9.), <div n="xe">{%he h. s him-%}
+{%self:%}</div> <div n="xs">{#अयमात्मानमुद्वध्नाति,#}</div> Mu. vi.; <div n="xe">{%here I will kill%}
+{%myself. h. ing on this Aśoka tree with this%}
+{%creeper:%}</div> <div n="xs">{#तदिहैवाशोकपादपेऽनया लतयोद्वध्यात्मानं व्यापा-#}
+{#दयिष्यामि,#}</div> Ra. vii. </div><div n="I">III To lower: q.v.:
+{#नमयति#} (c. of {#नम्#}). </div><div n="I">IV To cover, adorn:
+q.v.: {#छादयति#} ({#छद्,#} c. 10).</div>
 <LEND>

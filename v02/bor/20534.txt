@@ -1,4 +1,4 @@
 <L>20534<pc>644<k1>silence<k2>silence
-<div n="lb"/>{@SILENCE@}¦ (exclam.): <div n="1">(1) {#तूष्णीम्भव;#} </div><div n="1">(2) {#मौनं #}
-<div n="lb"/>{# कुरु, -ष्व;#} </div><div n="1">(3) {#शान्तम्।#}</div>
+{@SILENCE@}¦ (exclam.): <div n="1">(1) {#तूष्णीम्भव;#} </div><div n="1">(2) {#मौनं #}
+{# कुरु, -ष्व;#} </div><div n="1">(3) {#शान्तम्।#}</div>
 <LEND>

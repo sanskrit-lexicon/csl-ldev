@@ -1,5 +1,5 @@
 <L>20412<pc>638<k1>shoot<k2>shoot
-<div n="lb"/>{@SHOOT@}¦ (subs.): <div n="1">(1) {#प्रबाल#} (mn.); </div><div n="1">(2) {#किस(श)-#}
-<div n="lb"/>{#लय#} (mn.); </div><div n="1">(3) {#पल्लव#} (mn.), {%a bed of young s. s:%}
-<div n="lb"/>{#नवपल्लवसंस्तरः,#} Ku.; </div><div n="1">(4) {#प्ररोहः#} (= bud).</div>
+{@SHOOT@}¦ (subs.): <div n="1">(1) {#प्रबाल#} (mn.); </div><div n="1">(2) {#किस(श)-#}
+{#लय#} (mn.); </div><div n="1">(3) {#पल्लव#} (mn.), {%a bed of young s. s:%}
+{#नवपल्लवसंस्तरः,#} Ku.; </div><div n="1">(4) {#प्ररोहः#} (= bud).</div>
 <LEND>

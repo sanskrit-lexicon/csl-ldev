@@ -1,6 +1,6 @@
 <L>7961<pc>252<k1>examination<k2>examination
-<div n="lb"/>{@EXAMINATION:@}¦ {#परीक्षा,#} <div n="xe">{%e. of gems:%}</div> <div n="xs">{#रत्नपरीक्षा,#}</div>
-<div n="lb"/>Mal.; <div n="xe">{%e. -in-chief:%}</div> <div n="xs">{#*पूर्वपरीक्षा;#}</div> <div n="xe">{%post mortem%}
-<div n="lb"/>{%e.:%}</div> <div n="xs">{#*प्रेतपरीक्षा;#}</div> <div n="xe">{%e. of urine:%}</div> <div n="xs">{#मूत्रपरीक्षा,#}</div> Bha.;
-<div n="lb"/>{%after e.%} ({%of a book%}): {#परीक्ष्य,#} Mal.
+{@EXAMINATION:@}¦ {#परीक्षा,#} <div n="xe">{%e. of gems:%}</div> <div n="xs">{#रत्नपरीक्षा,#}</div>
+Mal.; <div n="xe">{%e. -in-chief:%}</div> <div n="xs">{#*पूर्वपरीक्षा;#}</div> <div n="xe">{%post mortem%}
+{%e.:%}</div> <div n="xs">{#*प्रेतपरीक्षा;#}</div> <div n="xe">{%e. of urine:%}</div> <div n="xs">{#मूत्रपरीक्षा,#}</div> Bha.;
+{%after e.%} ({%of a book%}): {#परीक्ष्य,#} Mal.
 <LEND>

@@ -1,28 +1,28 @@
 <L>11225<pc>154-3<k1>परिकम्पिन्<k2>परिकम्पिन्
 {#परिकम्पिन्#}¦pari-kampin, {%a.%} trembling violently; <lbinfo n="3"/>
-<> {@-kara,@} {%m. sg. & pl.%} retinue, dependents; 
-<>assistance, expedient; addition; abundance, 
-<>multitude; girdle {%for looping up a garment%}: 
-<>{@-ṃ bandh@} {%or%} {@kṛ@}, gird oneself for, prepare to 
-<>({%lc. or inf.%}); {@-karita,@} {%pp.%} accompanied by 
-<>({%in.%}); {@-karman,@} {%n.%} adoration; decoration of 
-<>the person, anointing the body; purification, 
-<>means of purifying; preparation for (-°); 
-<>{@-karma-ya,@} {%den.%} P. adorn; {@-karmin,@} {%m.%} attendant, <lbinfo n="2"/>
-<> servant; {@-kalayitṛ@}, {%a.%} enclosing; 
-<>{@-kalpana,@} {%n.%} cheating; {@-kīrtana,@} {%n.%} proclaiming <lbinfo n="8"/>
-<> aloud, promulgation; naming; {@-kopa,@} {%m.%} 
-<>violent anger; {@-krama,@} {%m.%} succession, order; 
-<>{@-kraya,@} {%m.%} hire; redemption, peace purchased <lbinfo n="3"/>
-<> with money; {@-kriyā,@} {%f.%} attention to 
-<>(-°); {@-kleda,@} {%m.%} wetness; {@-kleśa@}, {%m.%} hardship; <lbinfo n="4"/>
-<> trouble, suffering; {@-kṣaya,@} {%m.%} disappearance, <lbinfo n="3"/>
-<> cessation, failure; decline; ruin; 
-<>{@-kṣāṇa@}, {%n. pl.%} coal-dust; {@-kṣāma,@} {%a.%} emaciated; <lbinfo n="3"/>
-<> {@-kṣit,@} {%a.%} dwelling around ({%Agni%}), 
-<>extending around ({%du., heaven and earth%}); 
-<>{%m. N. of various princes%}; {@-kṣiti,@} {%f.%} wounding; <lbinfo n="5"/>
-<> {@-kṣīṇa@}, {%pp.%} emaciated, wasted away; 
-<>{@-kṣepa,@} {%m.%} moving to and fro; surrounding, 
-<>encompassing; that which encircles; compass.
+ {@-kara,@} {%m. sg. & pl.%} retinue, dependents; 
+assistance, expedient; addition; abundance, 
+multitude; girdle {%for looping up a garment%}: 
+{@-ṃ bandh@} {%or%} {@kṛ@}, gird oneself for, prepare to 
+({%lc. or inf.%}); {@-karita,@} {%pp.%} accompanied by 
+({%in.%}); {@-karman,@} {%n.%} adoration; decoration of 
+the person, anointing the body; purification, 
+means of purifying; preparation for (-°); 
+{@-karma-ya,@} {%den.%} P. adorn; {@-karmin,@} {%m.%} attendant, <lbinfo n="2"/>
+ servant; {@-kalayitṛ@}, {%a.%} enclosing; 
+{@-kalpana,@} {%n.%} cheating; {@-kīrtana,@} {%n.%} proclaiming <lbinfo n="8"/>
+ aloud, promulgation; naming; {@-kopa,@} {%m.%} 
+violent anger; {@-krama,@} {%m.%} succession, order; 
+{@-kraya,@} {%m.%} hire; redemption, peace purchased <lbinfo n="3"/>
+ with money; {@-kriyā,@} {%f.%} attention to 
+(-°); {@-kleda,@} {%m.%} wetness; {@-kleśa@}, {%m.%} hardship; <lbinfo n="4"/>
+ trouble, suffering; {@-kṣaya,@} {%m.%} disappearance, <lbinfo n="3"/>
+ cessation, failure; decline; ruin; 
+{@-kṣāṇa@}, {%n. pl.%} coal-dust; {@-kṣāma,@} {%a.%} emaciated; <lbinfo n="3"/>
+ {@-kṣit,@} {%a.%} dwelling around ({%Agni%}), 
+extending around ({%du., heaven and earth%}); 
+{%m. N. of various princes%}; {@-kṣiti,@} {%f.%} wounding; <lbinfo n="5"/>
+ {@-kṣīṇa@}, {%pp.%} emaciated, wasted away; 
+{@-kṣepa,@} {%m.%} moving to and fro; surrounding, 
+encompassing; that which encircles; compass.
 <LEND>

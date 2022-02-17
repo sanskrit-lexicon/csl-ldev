@@ -1,4 +1,4 @@
 <L>7420<pc>234<k1>embattled<k2>embattled
-<div n="lb"/>{@EMBATTLED:@}¦ <div n="1">(1) {#विन्यस्तः#} ({#स्ता, स्तं#}); </div><div n="1">(2) {#विर-#}
-<div n="lb"/>{#चितः#} ({#ता, तं#}). Ph.: <div n="xe">{%e. field:%}</div> <div n="xs">{#युद्धक्षेत्रम्।#}</div></div>
+{@EMBATTLED:@}¦ <div n="1">(1) {#विन्यस्तः#} ({#स्ता, स्तं#}); </div><div n="1">(2) {#विर-#}
+{#चितः#} ({#ता, तं#}). Ph.: <div n="xe">{%e. field:%}</div> <div n="xs">{#युद्धक्षेत्रम्।#}</div></div>
 <LEND>

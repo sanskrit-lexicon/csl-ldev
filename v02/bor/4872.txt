@@ -1,6 +1,6 @@
 <L>4872<pc>157<k1>count<k2>count
-<div n="lb"/>{@COUNT@}¦ (v.): <div n="I">I Trans: {#गणयति, वि-, परि-, प्र-,#}
-<div n="lb"/>({#गण्,#} c. 10.) (lit. and fig.), {%c. ed lotus-leaves:%}
-<div n="lb"/>{#कमलपत्राणि गणयामास#} Ku.: v. To reckon. </div><div n="I">II
-<div n="lb"/>Intrans: {#गण्यते#} (pass. of {#गण्#}).</div>
+{@COUNT@}¦ (v.): <div n="I">I Trans: {#गणयति, वि-, परि-, प्र-,#}
+({#गण्,#} c. 10.) (lit. and fig.), {%c. ed lotus-leaves:%}
+{#कमलपत्राणि गणयामास#} Ku.: v. To reckon. </div><div n="I">II
+Intrans: {#गण्यते#} (pass. of {#गण्#}).</div>
 <LEND>

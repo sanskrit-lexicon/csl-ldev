@@ -7,8 +7,8 @@
 <ls>TRIK. 3, 3, 24.</ls> in denselben Bedd. <lex>m.</lex> 
 <ls>H. an. 2, 8.</ls> <lex>n.</lex> = {#खानित्र#}, <lex>m.</lex> = {#ग्रावदारण#} 
 <ls>MED. k. 23.</ls> {#दार्यतां चैव टङ्कौघैः खनित्रैश्च पुरी द्रुतम्#} 
-<ls>HARIV. 5009. 5012. 15135.</ls> {#टङ्केषु पात्यमानेषु प्राकारेषु महाबलैः#} 
-<ls>15140.</ls> {#केत्चिकुठारैष्टङ्कैश्च दात्रैश्छिन्दन्#} 
+<ls>HARIV. 5009.</ls> <ls n="HARIV.">5012.</ls> <ls n="HARIV.">15135.</ls> {#टङ्केषु पात्यमानेषु प्राकारेषु महाबलैः#} 
+<ls n="HARIV.">15140.</ls> {#केत्चिकुठारैष्टङ्कैश्च दात्रैश्छिन्दन्#} 
 <ls>R. 2, 80, 7.</ls> {#टङ्कैर्मनःशिलगुहेव विदार्यमाणा#} 
 <ls>MṚCCH. 10, 11.</ls> {#शृङ्गीव टङ्कच्छिन्नमनःशिलः#} 
 <ls>RAGH. 12, 80.</ls> {#टङ्कस्य तैलमथितस्य - न शिलासु भवेद्विघातः#} 
@@ -30,7 +30,7 @@
 <ls>WILS.</ls>; <lex>f.</lex> {%the edge or site of a mountain%} (dieses soll = {#अद्रिभित्ति#} sein) ders. Vgl. {#टङ्कवन्त्#} . 
 <div n="1">— 4) <lex>m.</lex> <lex>n.</lex> = {#कपित्थ#} {%Feronia elephantum Corr.%} 
 <ls>TRIK.</ls> = {#नीलकपित्थ#} 
-<ls>H. an.</ls> <ls>?(hier m.) MED.</ls> <lex>n.</lex> {%die Frucht%} 
+<ls>H. an.</ls> (<ls>hier m.</ls>) <ls>MED.</ls> <lex>n.</lex> {%die Frucht%} 
 <ls>SUŚR. 1, 214, 6.</ls> 
 <div n="1">— 5) {%Bein%} ({#जङ्घा#}), <lex>m.</lex> <lex>n.</lex> 
 <ls>TRIK.</ls> m. <ls>H. an.</ls> f. <ls>MED.</ls> 

@@ -1,25 +1,25 @@
 <L>13210<pc>407<k1>large<k2>large
-<div n="lb"/>{@LARGE:@}¦ <div n="I">I In size or extent: </div><div n="1">(1) {#बृहत्#} (f. {#ती#}),
-<div n="lb"/><div n="xe">{%a l. wrapper:%}</div> <div n="xs">{#बृहद्बृहतिका,#}</div> Ki.; <div n="xe">{%with l. halls of%}
-<div n="lb"/>{%precious stones:%}</div> <div n="xs">{#बृहन्मणिशिलाशालः#}</div> ({#ला, लं#}), Ku.;</div>
-<div n="lb"/><div n="1">(2) {#विशालः#} ({#ला, लं#}), <div n="xe">{%a l. silk-cotton tree:%}</div> <div n="xs">{#विशालः #}
-<div n="lb"/>{# शाल्मलीतरुः#}</div> <ls>H.</ls> ; <div n="xe">{%his eyes l.:%}</div> <div n="xs">{#विशाले तस्य लोचने,#}</div>
-<div n="lb"/>Ri.; </div><div n="1">(3) {#विपुलः#} ({#ला, लं#}), {%and the world is l.:%}
-<div n="lb"/>{#विपुला च पृथ्वी,#} Ma.; <div n="xe">{%a l. river:%}</div> <div n="xs">{#विपुला नदी,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(4) {#महत्#} (f. {#ती#}), <div n="xe">{%having l. arms:%}</div> <div n="xs">{#महा-#}
-<div n="lb"/>{#भुजः#}</div> ({#जा, जं#}), <ls>R.</ls> ; <div n="xe">{%a very l. fish:%}</div> <div n="xs">{#सुमहान्मत्स्यः,#}</div>
-<div n="lb"/>Mah.; </div><div n="1">(5) {#पृथु#} (f. {#थुः#} <div n="xe">{%or%}</div> <div n="xs">{#थ्वी#}</div>); </div><div n="1">(6) {#पृथुलः#}
-<div n="lb"/>({#ला, लं#}); </div><div n="1">(7) {#व्यूढः#} ({#ढा, ढं#}); </div><div n="1">(8) {#उरु#} (f. {#रुः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#र्वी#}</div>). </div><div n="I">II Fig., noble, far-sighted: {#बृहत्#}
-<div n="lb"/>(f. {#ती#}), <div n="xe">{%l. -hearted:%}</div> <div n="xs">{#बृहन्मनस्#}</div> (mfn.), Ki. </div><div n="I">III
-<div n="lb"/>Numerous, populous: {#महत्#} (f. {#ती#}), <div n="xe">{%of the%}
-<div n="lb"/>{%very l. army of the Śavaras:%}</div> <div n="xs">{#अतिमहतः शवरसैन्यस्य,#}</div>
-<div n="lb"/><ls>K.</ls> ; {%although%} ({%his%}) <div n="xe">{%seraglio was l.:%}</div> <div n="xs">{#अवरोधे #}
-<div n="lb"/>{# महत्यपि,#}</div> <ls>R.</ls> </div><div n="I">IV. Abundant, ample: q. v.:
-<div n="lb"/>{#विपुलः#} ({#ला, लं#}). </div><div n="I">V Diffuse: q. v.: {#विपुलः#}
-<div n="lb"/>({#ला, लं#}), <div n="xe">{%in neither very concise nor very l.%}
-<div n="lb"/>{%%}
-<div n="lb"/>{%writing:%}</div> <div n="xs">{#नातिलघुविपुलरचनाभिः,#}</div> </div><div n="I">V m. Ph.: {%at%}
-<div n="lb"/>{%l.:%} (a) without restraint: {#स्वेच्छाधीनः#} ({#ना, #}
-<div n="lb"/>{# नं#}); (b) diffusely: {#विस्तरशः।#}</div>
+{@LARGE:@}¦ <div n="I">I In size or extent: </div><div n="1">(1) {#बृहत्#} (f. {#ती#}),
+<div n="xe">{%a l. wrapper:%}</div> <div n="xs">{#बृहद्बृहतिका,#}</div> Ki.; <div n="xe">{%with l. halls of%}
+{%precious stones:%}</div> <div n="xs">{#बृहन्मणिशिलाशालः#}</div> ({#ला, लं#}), Ku.;</div>
+<div n="1">(2) {#विशालः#} ({#ला, लं#}), <div n="xe">{%a l. silk-cotton tree:%}</div> <div n="xs">{#विशालः #}
+{# शाल्मलीतरुः#}</div> <ls>H.</ls> ; <div n="xe">{%his eyes l.:%}</div> <div n="xs">{#विशाले तस्य लोचने,#}</div>
+Ri.; </div><div n="1">(3) {#विपुलः#} ({#ला, लं#}), {%and the world is l.:%}
+{#विपुला च पृथ्वी,#} Ma.; <div n="xe">{%a l. river:%}</div> <div n="xs">{#विपुला नदी,#}</div>
+Mah.; </div><div n="1">(4) {#महत्#} (f. {#ती#}), <div n="xe">{%having l. arms:%}</div> <div n="xs">{#महा-#}
+{#भुजः#}</div> ({#जा, जं#}), <ls>R.</ls> ; <div n="xe">{%a very l. fish:%}</div> <div n="xs">{#सुमहान्मत्स्यः,#}</div>
+Mah.; </div><div n="1">(5) {#पृथु#} (f. {#थुः#} <div n="xe">{%or%}</div> <div n="xs">{#थ्वी#}</div>); </div><div n="1">(6) {#पृथुलः#}
+({#ला, लं#}); </div><div n="1">(7) {#व्यूढः#} ({#ढा, ढं#}); </div><div n="1">(8) {#उरु#} (f. {#रुः#}
+<div n="xe">{%or%}</div> <div n="xs">{#र्वी#}</div>). </div><div n="I">II Fig., noble, far-sighted: {#बृहत्#}
+(f. {#ती#}), <div n="xe">{%l. -hearted:%}</div> <div n="xs">{#बृहन्मनस्#}</div> (mfn.), Ki. </div><div n="I">III
+Numerous, populous: {#महत्#} (f. {#ती#}), <div n="xe">{%of the%}
+{%very l. army of the Śavaras:%}</div> <div n="xs">{#अतिमहतः शवरसैन्यस्य,#}</div>
+<ls>K.</ls> ; {%although%} ({%his%}) <div n="xe">{%seraglio was l.:%}</div> <div n="xs">{#अवरोधे #}
+{# महत्यपि,#}</div> <ls>R.</ls> </div><div n="I">IV. Abundant, ample: q. v.:
+{#विपुलः#} ({#ला, लं#}). </div><div n="I">V Diffuse: q. v.: {#विपुलः#}
+({#ला, लं#}), <div n="xe">{%in neither very concise nor very l.%}
+{%%}
+{%writing:%}</div> <div n="xs">{#नातिलघुविपुलरचनाभिः,#}</div> </div><div n="I">V m. Ph.: {%at%}
+{%l.:%} (a) without restraint: {#स्वेच्छाधीनः#} ({#ना, #}
+{# नं#}); (b) diffusely: {#विस्तरशः।#}</div>
 <LEND>

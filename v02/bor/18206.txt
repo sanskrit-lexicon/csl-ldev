@@ -1,4 +1,4 @@
 <L>18206<pc>558<k1>pupilage<k2>pupilage
-<div n="lb"/>{@PUPILAGE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#शिष्यत्वम्;#} </div><div n="1">(2) {#शिष्यावस्था;#}</div>
-<div n="lb"/><div n="1">(3) {#अन्तेवासित्वम्।#} </div><div n="I">II Boyhood: q. v.: {#शिशुत्वम्।#}</div>
+{@PUPILAGE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#शिष्यत्वम्;#} </div><div n="1">(2) {#शिष्यावस्था;#}</div>
+<div n="1">(3) {#अन्तेवासित्वम्।#} </div><div n="I">II Boyhood: q. v.: {#शिशुत्वम्।#}</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>13182<pc>406<k1>languid<k2>languid
-<div n="lb"/>{@LANGUID:@}¦ <div n="1">(1) {#ग्लानः#} ({#ना, नं#}), <div n="xe">{%she looks l. from%}
-<div n="lb"/>{%love:%}</div> <div n="xs">{#मदनग्लानेयमालक्ष्यते,#}</div> Sa.; </div><div n="1">(2) {#म्लानः#} ({#ना, नं#}),
-<div n="lb"/>{#परि-,#} Ki. ii. 2.; </div><div n="1">(3) {#क्लान्त#} (f. {#न्ता#}), {#परि-,#} {%the%}
-<div n="lb"/>{%waist%} ({%has become%}) <div n="xe">{%very l.:%}</div> <div n="xs">{#मध्यः क्लान्ततरः,#}</div> Sa.
-<div n="lb"/>iii. 12.</div>
+{@LANGUID:@}¦ <div n="1">(1) {#ग्लानः#} ({#ना, नं#}), <div n="xe">{%she looks l. from%}
+{%love:%}</div> <div n="xs">{#मदनग्लानेयमालक्ष्यते,#}</div> Sa.; </div><div n="1">(2) {#म्लानः#} ({#ना, नं#}),
+{#परि-,#} Ki. ii. 2.; </div><div n="1">(3) {#क्लान्त#} (f. {#न्ता#}), {#परि-,#} {%the%}
+{%waist%} ({%has become%}) <div n="xe">{%very l.:%}</div> <div n="xs">{#मध्यः क्लान्ततरः,#}</div> Sa.
+iii. 12.</div>
 <LEND>

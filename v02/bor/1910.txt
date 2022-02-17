@@ -1,14 +1,14 @@
 <L>1910<pc>067<k1>beneath<k2>beneath
-<div n="lb"/>{@BENEATH@}¦ (prep): <div n="I">I Under: </div><div n="1">(1) {#अधः#} <div n="xe">{%or%}</div> <div n="xs">{#अधस्तात्#}</div>
-<div n="lb"/>(with gen.) or by the adj. {#अधस्थः#} ({#स्था, स्थं#}),
-<div n="lb"/><div n="xe">{%b. the banyan tree%}</div> <div n="xs">{#न्यग्रोधस्याधस्तात्,#}</div> P. iii. 4.;</div>
-<div n="lb"/><div n="1">(2) {#तले#} in comp., <div n="xe">{%b. the bed%}</div> <div n="xs">{#पर्यङ्कतले,#}</div> H. Ph.
-<div n="lb"/><div n="xe">{%b. a. tree%}</div> <div n="xs">{#वृक्षमूले,#}</div> V. s. </div><div n="I">II Fig.: Ph, <div n="xe">{%our country%}
-<div n="lb"/>{%sinks b. his yoke%}</div> <div n="xs">{#*तस्य पीडनेनाधोगच्छत्यस्मद्देशः।#}</div></div>
-<div n="lb"/><div n="I">III Lower in rank etc.: {#अनु#} (with acc.)
-<div n="lb"/><div n="xe">{%the gods are b. Viṣṇu%}</div> <div n="xs">{#अनुहरिं सुराः,#}</div> S. k.: v.
-<div n="lb"/>Low, inferior. </div><div n="I">IV Unbecoming, unworthy
-<div n="lb"/>of: expr. circum.: <div n="xe">{%he thinks it b. his dignity%}
-<div n="lb"/>{%to converse with me%}</div> <div n="xs">{#*स मां सम्भाषणस्यायोग्यं #}
-<div n="lb"/>{# मन्यते।#}</div></div>
+{@BENEATH@}¦ (prep): <div n="I">I Under: </div><div n="1">(1) {#अधः#} <div n="xe">{%or%}</div> <div n="xs">{#अधस्तात्#}</div>
+(with gen.) or by the adj. {#अधस्थः#} ({#स्था, स्थं#}),
+<div n="xe">{%b. the banyan tree%}</div> <div n="xs">{#न्यग्रोधस्याधस्तात्,#}</div> P. iii. 4.;</div>
+<div n="1">(2) {#तले#} in comp., <div n="xe">{%b. the bed%}</div> <div n="xs">{#पर्यङ्कतले,#}</div> H. Ph.
+<div n="xe">{%b. a. tree%}</div> <div n="xs">{#वृक्षमूले,#}</div> V. s. </div><div n="I">II Fig.: Ph, <div n="xe">{%our country%}
+{%sinks b. his yoke%}</div> <div n="xs">{#*तस्य पीडनेनाधोगच्छत्यस्मद्देशः।#}</div></div>
+<div n="I">III Lower in rank etc.: {#अनु#} (with acc.)
+<div n="xe">{%the gods are b. Viṣṇu%}</div> <div n="xs">{#अनुहरिं सुराः,#}</div> S. k.: v.
+Low, inferior. </div><div n="I">IV Unbecoming, unworthy
+of: expr. circum.: <div n="xe">{%he thinks it b. his dignity%}
+{%to converse with me%}</div> <div n="xs">{#*स मां सम्भाषणस्यायोग्यं #}
+{# मन्यते।#}</div></div>
 <LEND>

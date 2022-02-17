@@ -1,4 +1,4 @@
 <L>14384<pc>441<k1>medicate<k2>medicate
-<div n="lb"/>{@MEDICATE:@}¦ <div n="1">(1) {#औषधं ददाति#} ({#दा,#} c. 3.); </div><div n="1">(2)
-<div n="lb"/>{#भेषजं करोति#} (with gen.), Mah.</div>
+{@MEDICATE:@}¦ <div n="1">(1) {#औषधं ददाति#} ({#दा,#} c. 3.); </div><div n="1">(2)
+{#भेषजं करोति#} (with gen.), Mah.</div>
 <LEND>

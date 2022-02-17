@@ -3,7 +3,7 @@
 <div n="1"> 1) {%Flug, schnelle Bewegung, Fall%}; = {#पतन#} 
 <ls>BHŪRIPRAYOGA</ls> im <ls>ŚKDR.</ls> {#विद्युत्संपात#} {%das Zucken des Blitzes%} 
 <ls>MBH. 3, 11145.</ls> 
-<ls>HARIV. 3901. 9228.</ls> 
+<ls>HARIV. 3901.</ls> <ls n="HARIV.">9228.</ls> 
 <ls>VIKRAM. 85, 20.</ls> {#शतह्रदा°#} 
 <ls>DAŚAK. 71, 7.</ls> {#वज्राशनीनाम्#} 
 <ls>R. 5, 7, 64.</ls> {#ताराणाम्, भूषणानाम्#} 
@@ -16,7 +16,7 @@
 <ls>RĀJA-TAR. 5, 275.</ls> {#धारा°#} 
 <ls>278.</ls> <ls>PRAB. 87, 9.</ls> {#पवनाधिकसंपातः खगः#} 
 <ls>HARIV. 2492.</ls> {#रथैः पवनसंपातैः#} 
-<ls>4997. 5476.</ls> {#अस्खलितसुखसंपातं रथम्#} 
+<ls n="HARIV.">4997.</ls> <ls n="HARIV.">5476.</ls> {#अस्खलितसुखसंपातं रथम्#} 
 <ls>UTTARAR. 16, 6 (22, 8).</ls> {#मनःसंपातरंहस्#} 
 <ls>R. 7, 16, 18. 33, 3.</ls> {#झम्पा = °पाटव#} 
 <ls>H. 1470.</ls> {%Sturz in%}: {#पयसि#} 
@@ -24,7 +24,7 @@
 <div n="1">— 2) {%eine best. Art des Fliegens%} 
 <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>PAÑCAT. 114, 25. 115, 5. II, 57.</ls> 
 <div n="1">— 3) {%Zusammenstoss, das Zusammenprallen%}: {#वज्रपर्वतयोरिव#} 
-<ls>MBH. 2, 912. 4, 349.</ls> {#अयसाम्, शिलानाम्#} 
+<ls>MBH. 2, 912.</ls> <ls n="MBH.">4, 349.</ls> {#अयसाम्, शिलानाम्#} 
 <ls>7, 1355.</ls> {#असिचर्मणोः#} 
 <ls>503. 4312.</ls> {#खड्ग°#} 
 <ls>KATHĀS. 74, 283.</ls> {#तल°#} 
@@ -36,7 +36,7 @@
 <ls>MBH. 5, 2651.</ls> {#रुक्मिणा सह#} beim Spiel 
 <ls>HARIV. 6735.</ls> 
 <div n="1">— 4) {%eine best. Kampfart%} 
-<ls>MBH. 6, 2284. 8, 1902.</ls> 
+<ls>MBH. 6, 2284.</ls> <ls n="MBH.">8, 1902.</ls> 
 <ls>HARIV. 13494.</ls> 
 <div n="1">— 5) {%Ort des Zusammentreffens, Berührungspunkt, Schneidepunkt%}: {#वंशानाम्#} {%der Diagonalen%} 
 <ls>VARĀH. BṚH. S. 53, 57. 64.</ls> {#विषुवत्क्रान्तिवलययोः संपातः स्यात्#} 
@@ -51,7 +51,7 @@
 <ls>VARĀH. BṚH. S. 46, 70.</ls> {#अपक्षिगण°#} <lex>adj.</lex> {%wo sich keine Vögel zeigen%} 
 <ls>R. 7, 34, 27.</ls> 
 <ls>HARIV. 12302.</ls> {#प्रशान्ते सर्वसंपाते#} 
-<ls>12304.</ls> {#प्रशान्ते भृङ्गसंपाते#} 
+<ls n="HARIV.">12304.</ls> {#प्रशान्ते भृङ्गसंपाते#} 
 <ls>RĀJA-TAR. 3, 409.</ls> {#वृत्ते शरावसंपाते#} {%wenn die Schüsseln nicht mehr erscheinen%} d. i. {%nach der Mahlzeit wieder an ihren Platz gestellt sind%} 
 <ls>M. 6, 56.</ls> 
 <ls>MBH. 14, 1278.</ls> {#तेज्ॐऽशानाम्#} 

@@ -1,6 +1,6 @@
 <L>1954<pc>068<k1>besiege<k2>besiege
-<div n="lb"/>{@BESIEGE@}¦ (v. t.): {#रुणद्धि, उप-, अव-,#} ({#रुध्,#} c. 7.),
-<div n="lb"/><div n="xe">{%b. d Champā%}</div> <div n="xs">{#रुरोध चम्पाम्,#}</div> D. ii.; {%let%} ({%the%}
-<div n="lb"/>{%Yadavas%}) <div n="xe">{%b. Māhiṣmati%}</div> <div n="xs">{#माहिष्मन्तीमुपरुन्धन्तु,#}</div>
-<div n="lb"/>Si. ii. 64.
+{@BESIEGE@}¦ (v. t.): {#रुणद्धि, उप-, अव-,#} ({#रुध्,#} c. 7.),
+<div n="xe">{%b. d Champā%}</div> <div n="xs">{#रुरोध चम्पाम्,#}</div> D. ii.; {%let%} ({%the%}
+{%Yadavas%}) <div n="xe">{%b. Māhiṣmati%}</div> <div n="xs">{#माहिष्मन्तीमुपरुन्धन्तु,#}</div>
+Si. ii. 64.
 <LEND>

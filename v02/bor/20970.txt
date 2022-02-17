@@ -1,6 +1,6 @@
 <L>20970<pc>659<k1>solid<k2>solid
-<div n="lb"/>{@SOLID@}¦ (adj.): <div n="I">I Lit.: {#स्थूल#} (f. {#ला#}), <div n="xe">{%s. geome-%}
-<div n="lb"/>{%try:%}</div> <div n="xs">{#*स्थूलज्यामितिः।#}</div> </div><div n="I">II Substantial, valid:
-<div n="lb"/>q. v.: {#सारवत्#} (f. {#ती#}). </div><div n="I">III Compact: q. v.:
-<div n="lb"/>{#संहत#} (f. {#ता#}).</div>
+{@SOLID@}¦ (adj.): <div n="I">I Lit.: {#स्थूल#} (f. {#ला#}), <div n="xe">{%s. geome-%}
+{%try:%}</div> <div n="xs">{#*स्थूलज्यामितिः।#}</div> </div><div n="I">II Substantial, valid:
+q. v.: {#सारवत्#} (f. {#ती#}). </div><div n="I">III Compact: q. v.:
+{#संहत#} (f. {#ता#}).</div>
 <LEND>

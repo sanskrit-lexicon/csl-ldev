@@ -1,12 +1,12 @@
 <L>2298<pc>079<k1>bold<k2>bold
-<div n="lb"/>{@BOLD@}¦ <div n="I">I Daring, intrepid; </div><div n="1">(1) {#साहसिकः#} ({#की, #}
-<div n="lb"/>{# कं#}); </div><div n="1">(2) {#साहसिन्#} (f. {#नी#}) </div><div n="I">II Impudent,
-<div n="lb"/>rude: q. v.: </div><div n="I">III Of expression etc. {#प्रगल्भः#}
-<div n="lb"/>({#ल्भा, ल्भं#}), <div n="xe">{%a b. speaker%}</div> <div n="xs">{#प्रगल्भवाच्#}</div> (mfn.), D.
-<div n="lb"/>Ph. <div n="xe">{%it is a mere b. assertion that there is no%}
-<div n="lb"/>{%part of the Vedas treating of existing things.%}</div>
-<div n="lb"/><div n="xs">{#भूतवस्तुपरो वेदभागो नास्तीति वचनं साहसमात्रम्,#}</div> S. i.
-<div n="lb"/>4. </div><div n="I">IV Conspicuous, prominent: q. v. V.
-<div n="lb"/>Steep: q. v. {%To make b.%} ({%to say%}): {#निर्भयं#} {%or%}
-<div n="lb"/>{#प्रगल्भं#} <div n="xe">{%or%}</div> <div n="xs">{#साहसेन#}</div> ({#वदति#}).</div>
+{@BOLD@}¦ <div n="I">I Daring, intrepid; </div><div n="1">(1) {#साहसिकः#} ({#की, #}
+{# कं#}); </div><div n="1">(2) {#साहसिन्#} (f. {#नी#}) </div><div n="I">II Impudent,
+rude: q. v.: </div><div n="I">III Of expression etc. {#प्रगल्भः#}
+({#ल्भा, ल्भं#}), <div n="xe">{%a b. speaker%}</div> <div n="xs">{#प्रगल्भवाच्#}</div> (mfn.), D.
+Ph. <div n="xe">{%it is a mere b. assertion that there is no%}
+{%part of the Vedas treating of existing things.%}</div>
+<div n="xs">{#भूतवस्तुपरो वेदभागो नास्तीति वचनं साहसमात्रम्,#}</div> S. i.
+4. </div><div n="I">IV Conspicuous, prominent: q. v. V.
+Steep: q. v. {%To make b.%} ({%to say%}): {#निर्भयं#} {%or%}
+{#प्रगल्भं#} <div n="xe">{%or%}</div> <div n="xs">{#साहसेन#}</div> ({#वदति#}).</div>
 <LEND>

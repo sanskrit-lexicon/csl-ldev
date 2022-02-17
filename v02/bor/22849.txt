@@ -1,7 +1,7 @@
 <L>22849<pc>721<k1>trench<k2>trench
-<div n="lb"/>{@TRENCH:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#खातम्#} (= ditch); </div><div n="1">(2)
-<div n="lb"/>{#परिखा#} (round a fort etc.); </div><div n="1">(3) {#नाली, प्रणाली#}
-<div n="lb"/>(channel for irrigation); </div><div n="1">(4) {#आलवालम्#}
-<div n="lb"/>(round a tree). </div><div n="I">II Verb: {#खातं#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणालीं #}
-<div n="lb"/>{# करोतिः#}</div> v. Also to dig.</div>
+{@TRENCH:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#खातम्#} (= ditch); </div><div n="1">(2)
+{#परिखा#} (round a fort etc.); </div><div n="1">(3) {#नाली, प्रणाली#}
+(channel for irrigation); </div><div n="1">(4) {#आलवालम्#}
+(round a tree). </div><div n="I">II Verb: {#खातं#} <div n="xe">{%or%}</div> <div n="xs">{#प्रणालीं #}
+{# करोतिः#}</div> v. Also to dig.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>23802<pc>745<k1>vertical<k2>vertical
-<div n="lb"/>{@VERTICAL:@}¦ <div n="I">I Upper: q. v.: {#ऊर्ध्वतन#} (f. {#नी#}).</div>
-<div n="lb"/><div n="I">II Perpendicular: q. v. Ph.: {%v. circle:%}
-<div n="lb"/>{#दृग्वृत्तम्;#} <div n="xe">{%v. parallax:%}</div> <div n="xs">{#दृग्लम्बनम्;#}</div> <div n="xe">{%prime v.:%}</div> <div n="xs">{#सम-#}
-<div n="lb"/>{#मण्डलम्,#}</div> Su.</div>
+{@VERTICAL:@}¦ <div n="I">I Upper: q. v.: {#ऊर्ध्वतन#} (f. {#नी#}).</div>
+<div n="I">II Perpendicular: q. v. Ph.: {%v. circle:%}
+{#दृग्वृत्तम्;#} <div n="xe">{%v. parallax:%}</div> <div n="xs">{#दृग्लम्बनम्;#}</div> <div n="xe">{%prime v.:%}</div> <div n="xs">{#सम-#}
+{#मण्डलम्,#}</div> Su.</div>
 <LEND>

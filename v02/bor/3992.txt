@@ -1,6 +1,6 @@
 <L>3992<pc>130<k1>coldness<k2>coldness
-<div n="lb"/>{@COLDNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#शैत्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#शीतता,#}</div> <div n="xe">{%from%}
-<div n="lb"/>{%great c.:%}</div> <div n="xs">{#अतिशैत्यात्,#}</div> M. n.; </div><div n="1">(2) {#निरुष्णता,#} etc.
-<div n="lb"/>(poet). </div><div n="I">II Apathy, indifference: q. v.:
-<div n="lb"/>{#अनादरः।#}</div>
+{@COLDNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#शैत्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#शीतता,#}</div> <div n="xe">{%from%}
+{%great c.:%}</div> <div n="xs">{#अतिशैत्यात्,#}</div> M. n.; </div><div n="1">(2) {#निरुष्णता,#} etc.
+(poet). </div><div n="I">II Apathy, indifference: q. v.:
+{#अनादरः।#}</div>
 <LEND>

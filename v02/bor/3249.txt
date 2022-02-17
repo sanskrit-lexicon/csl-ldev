@@ -1,6 +1,6 @@
 <L>3249<pc>108<k1>catholic<k2>catholic
-<div n="lb"/>{@CATHOLIC@}¦ (adj.): <div n="I">I Universal: q. v. </div><div n="I">II
-<div n="lb"/>Liberal: q. v. </div><div n="I">III Belonging to Roman
-<div n="lb"/>c. s: expr. by gen. or comp.: <div n="xe">{%c. emancipa-%}
-<div n="lb"/>{%tion%}</div> <div n="xs">{#*रोमकधर्मिणां मोक्षः।#}</div></div>
+{@CATHOLIC@}¦ (adj.): <div n="I">I Universal: q. v. </div><div n="I">II
+Liberal: q. v. </div><div n="I">III Belonging to Roman
+c. s: expr. by gen. or comp.: <div n="xe">{%c. emancipa-%}
+{%tion%}</div> <div n="xs">{#*रोमकधर्मिणां मोक्षः।#}</div></div>
 <LEND>

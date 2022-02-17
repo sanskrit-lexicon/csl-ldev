@@ -1,4 +1,4 @@
 <L>18372<pc>564<k1>quarterly<k2>quarterly
-<div n="lb"/>{@QUARTERLY:@}¦ <div n="I">I Adj.: {#त्रैमासिक#} (f. {#की#}). </div><div n="I">II
-<div n="lb"/>Adv.: </div><div n="1">(1) {#त्रिमासे त्रिमासे;#} </div><div n="1">(2) {#प्रतित्रिमासम्।#}</div>
+{@QUARTERLY:@}¦ <div n="I">I Adj.: {#त्रैमासिक#} (f. {#की#}). </div><div n="I">II
+Adv.: </div><div n="1">(1) {#त्रिमासे त्रिमासे;#} </div><div n="1">(2) {#प्रतित्रिमासम्।#}</div>
 <LEND>

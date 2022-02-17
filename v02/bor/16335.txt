@@ -1,4 +1,4 @@
 <L>16335<pc>501<k1>pandit<k2>pandit
-<div n="lb"/>{@PANDIT,@}¦ {@PUNDIT: I.@} Lit.: {#पण्डितः।#} <div n="I">II A
-<div n="lb"/>tutor: {#शिक्षकः।#}</div>
+{@PANDIT,@}¦ {@PUNDIT: I.@} Lit.: {#पण्डितः।#} <div n="I">II A
+tutor: {#शिक्षकः।#}</div>
 <LEND>

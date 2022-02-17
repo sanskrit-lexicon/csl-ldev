@@ -9,7 +9,7 @@
 <ls>KĀTY. ŚR. 9, 5, 6.</ls> {#औषध#} 
 <ls>ŚĀRṄG. SAṂH. 1, 1, 40.</ls> {#निचुल#} 
 <ls>MEGH. 14.</ls> {%feucht%}: {#लोहितचन्दन#} 
-<ls>HARIV. 7041. 7053.</ls> 
+<ls>HARIV. 7041.</ls> <ls n="HARIV.">7053.</ls> 
 <ls>ṚT. 1, 2.</ls> 
 <ls>Spr. (II) 7385.</ls> {#अङ्गयष्टि#} 
 <ls>2470.</ls> {#बिसिनीपत्त्र#} 
@@ -31,7 +31,7 @@
 <ls>7260.</ls> {#गीत#} 
 <ls>PAÑCAR. 1, 12, 6.</ls> {#शब्दार्थौ#} 
 <ls>SĀH. D. 4, 8.</ls> {#वस्तु#} 315. {#कथा#} 
-<ls>KATHĀS. 12, 77. 25, 298. 90, 202. 94, 126. 119, 217.</ls> <ls>?adv. Z. d. d. m. G. 27, 28.</ls> {#सरसारब्धसंगीता#} <lex>adj.</lex> 
+<ls>KATHĀS. 12, 77. 25, 298. 90, 202. 94, 126. 119, 217.</ls> <ls>adv.</ls> <ls>Z. d. d. m. G. 27, 28.</ls> {#सरसारब्धसंगीता#} <lex>adj.</lex> 
 <ls>KATHĀS. 22, 10.</ls> 
 <div n="2">— e) {%von Verlangen ergriffen, von Liebe —, von Lust erfüllt%}: {#हृदय#} 
 <ls>Spr. (II) 4023.</ls> {#स्वचित्त#} 

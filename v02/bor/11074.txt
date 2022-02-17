@@ -1,5 +1,5 @@
 <L>11074<pc>348<k1>hogshead<k2>hogshead
-<div n="lb"/>{@HOGSHEAD:@}¦ <div n="I">I A measure: {#भानविशेषः।#} </div><div n="I">II A
-<div n="lb"/>cask: {#कुण्डम्,#} <div n="xe">{%drank eight h.s:%}</div> <div n="xs">{#अष्टौ कृण्डान्यपिबत्,#}</div>
-<div n="lb"/>Mah. i. 126. 70.</div>
+{@HOGSHEAD:@}¦ <div n="I">I A measure: {#भानविशेषः।#} </div><div n="I">II A
+cask: {#कुण्डम्,#} <div n="xe">{%drank eight h.s:%}</div> <div n="xs">{#अष्टौ कृण्डान्यपिबत्,#}</div>
+Mah. i. 126. 70.</div>
 <LEND>

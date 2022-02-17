@@ -1,5 +1,5 @@
 <L>5519<pc>177<k1>debauchery<k2>debauchery
-<div n="lb"/>{@DEBAUCHERY:@}¦ <div n="I">I Corruption: q. v.: {#नाशः।#}</div>
-<div n="lb"/><div n="I">II Lewdness, libertinism: q. v.: {#लाम्पट्यम्#}</div>
-<div n="lb"/><div n="I">III Intemperance: q. v.</div>
+{@DEBAUCHERY:@}¦ <div n="I">I Corruption: q. v.: {#नाशः।#}</div>
+<div n="I">II Lewdness, libertinism: q. v.: {#लाम्पट्यम्#}</div>
+<div n="I">III Intemperance: q. v.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>22210<pc>587-a<k1>personification<k2>personification
-<div n="lb"/>PERSONIFICATION¦, {%s.%} {#चेतनधर्म्मारोपः -पणं, चेतनगुणारोपः -पणं, मनुष्य-#}
-<div n="lb"/>{#गुणारोपः -पणं, पुरुषभावारोपः, चेतनत्वारोपः -पणं, चेतनधर्म्मोत्प्रेक्षा,#}
-<div n="lb"/>{#आरोपगर्भितोत्प्रेक्षा#}. The sense of this word is sometimes
-<div n="lb"/>expressed by {#साक्षात्;#} as, ‘a personification of justice,’
-<div n="lb"/>{#साक्षाद्धर्म्मः, साक्षाद्भूतधर्म्मः;#} ‘of death,’ {#साक्षात्कृतान्तः;#} ‘of time,’
-<div n="lb"/>{#कालमूर्त्तिः#} {%f.%}
+PERSONIFICATION¦, {%s.%} {#चेतनधर्म्मारोपः -पणं, चेतनगुणारोपः -पणं, मनुष्य-#}
+{#गुणारोपः -पणं, पुरुषभावारोपः, चेतनत्वारोपः -पणं, चेतनधर्म्मोत्प्रेक्षा,#}
+{#आरोपगर्भितोत्प्रेक्षा#}. The sense of this word is sometimes
+expressed by {#साक्षात्;#} as, ‘a personification of justice,’
+{#साक्षाद्धर्म्मः, साक्षाद्भूतधर्म्मः;#} ‘of death,’ {#साक्षात्कृतान्तः;#} ‘of time,’
+{#कालमूर्त्तिः#} {%f.%}
 <LEND>

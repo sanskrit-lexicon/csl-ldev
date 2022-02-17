@@ -1,6 +1,6 @@
 <L>1843<pc>039-b<k1>base<k2>base
-<div n="lb"/>BASE¦, {%s.%} (The bottom of any thing) {#अधोभागः, मूलं, तलं, उपष्टम्भः,#}
-<div n="lb"/>{#उपान्तं#}. — (In geometry) {#मूर्द्धा#} {%m.%} {#(न्), भूमिः#} {%f.%} — (Base of a
-<div n="lb"/>pillar) {#उपष्टम्भः, स्तम्भस्य अधोभागः#}. — (Base of a tree) {#तरुतलं#}.
-<div n="lb"/> — (Foundation of a house) {#भित्तिमूलं, पोटः#}.
+BASE¦, {%s.%} (The bottom of any thing) {#अधोभागः, मूलं, तलं, उपष्टम्भः,#}
+{#उपान्तं#}. — (In geometry) {#मूर्द्धा#} {%m.%} {#(न्), भूमिः#} {%f.%} — (Base of a
+pillar) {#उपष्टम्भः, स्तम्भस्य अधोभागः#}. — (Base of a tree) {#तरुतलं#}.
+ — (Foundation of a house) {#भित्तिमूलं, पोटः#}.
 <LEND>

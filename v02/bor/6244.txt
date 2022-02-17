@@ -1,4 +1,4 @@
 <L>6244<pc>200<k1>disaffect<k2>disaffect
-<div n="lb"/>{@DISAFFECT:@}¦ {#अपरागं#} <div n="xe">{%or%}</div> <div n="xs">{#विरागं जनयति,#}</div> ({#जन्,#} c. 10.)
-<div n="lb"/>(with gen.).
+{@DISAFFECT:@}¦ {#अपरागं#} <div n="xe">{%or%}</div> <div n="xs">{#विरागं जनयति,#}</div> ({#जन्,#} c. 10.)
+(with gen.).
 <LEND>

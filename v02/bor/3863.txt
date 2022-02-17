@@ -1,7 +1,7 @@
 <L>3863<pc>126<k1>cloth<k2>cloth
-<div n="lb"/>{@CLOTH:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#वस्त्रम्,#} <div n="xe">{%coarse c.%}</div> <div n="xs">{#स्थूलवस्त्रम्,#}</div>
-<div n="lb"/>P. ii. 5.; <div n="xe">{%fine c.:%}</div> <div n="xs">{#सूक्ष्मवस्त्रम्,#}</div> N. com.; </div><div n="1">(2)
-<div n="lb"/>{#पटः#} <div n="xe">{%or%}</div> <div n="xs">{#पट्टः,#}</div> <div n="xe">{%making of different kinds of c.:%}</div> <div n="xs">{#अनेक-#}
-<div n="lb"/>{#विधपटरचना,#}</div> P. ii. 5.: v. Also clothes. </div><div n="I">II A
-<div n="lb"/>profession: q. v.</div>
+{@CLOTH:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#वस्त्रम्,#} <div n="xe">{%coarse c.%}</div> <div n="xs">{#स्थूलवस्त्रम्,#}</div>
+P. ii. 5.; <div n="xe">{%fine c.:%}</div> <div n="xs">{#सूक्ष्मवस्त्रम्,#}</div> N. com.; </div><div n="1">(2)
+{#पटः#} <div n="xe">{%or%}</div> <div n="xs">{#पट्टः,#}</div> <div n="xe">{%making of different kinds of c.:%}</div> <div n="xs">{#अनेक-#}
+{#विधपटरचना,#}</div> P. ii. 5.: v. Also clothes. </div><div n="I">II A
+profession: q. v.</div>
 <LEND>

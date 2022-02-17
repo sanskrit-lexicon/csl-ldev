@@ -1,8 +1,8 @@
 <L>16580<pc>509<k1>patron<k2>patron
-<div n="lb"/>{@PATRON,@}¦ {@PATRONESS: I.@} In law: {#स्वामिन्#} (f.
-<div n="lb"/>{#नी#}). <div n="I">II Protector, supporter: </div><div n="1">(1) {#आश्रयः#}
-<div n="lb"/>(= refuge), <div n="xe">{%p. of wits:%}</div> <div n="xs">{#आश्रयो रसिकानाम्,#}</div> K.;</div>
-<div n="lb"/><div n="1">(2) {#सम्भावयितृ#} (f. {#त्री#}), {%p. of the learned:%}
-<div n="lb"/>{#सम्भावयिता बुद्धान्,#} D. viii.; </div><div n="1">(3) {#अनुपालयितृ#} (f.
-<div n="lb"/>{#त्री#}); etc.</div>
+{@PATRON,@}¦ {@PATRONESS: I.@} In law: {#स्वामिन्#} (f.
+{#नी#}). <div n="I">II Protector, supporter: </div><div n="1">(1) {#आश्रयः#}
+(= refuge), <div n="xe">{%p. of wits:%}</div> <div n="xs">{#आश्रयो रसिकानाम्,#}</div> K.;</div>
+<div n="1">(2) {#सम्भावयितृ#} (f. {#त्री#}), {%p. of the learned:%}
+{#सम्भावयिता बुद्धान्,#} D. viii.; </div><div n="1">(3) {#अनुपालयितृ#} (f.
+{#त्री#}); etc.</div>
 <LEND>

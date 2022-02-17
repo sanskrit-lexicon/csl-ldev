@@ -1,4 +1,4 @@
 <L>20635<pc>647<k1>sixteen<k2>sixteen
-<div n="lb"/>{@SIXTEEN:@}¦ {#षोडशन्,#} <div n="xe">{%S. -th.:%}</div> <div n="xs">{#षोडशः#}</div> ({#शी, शं#}), {%s. -fold:%}
-<div n="lb"/>{#षोडशगुणितः#} ({#ता, तं#}), Li.
+{@SIXTEEN:@}¦ {#षोडशन्,#} <div n="xe">{%S. -th.:%}</div> <div n="xs">{#षोडशः#}</div> ({#शी, शं#}), {%s. -fold:%}
+{#षोडशगुणितः#} ({#ता, तं#}), Li.
 <LEND>

@@ -1,8 +1,8 @@
 <L>15382<pc>471<k1>neuter<k2>neuter
-<div n="lb"/>{@NEUTER:@}¦ <div n="xe">{%n. gender:%}</div> <div n="xs">{#क्लीवलिङ्गम्;#}</div> <div n="xe">{%words expressing%}
-<div n="lb"/>{%species of fruit are n.:%}</div> <div n="xs">{#फलजातिवाची शब्दो नपुंसकं #}
-<div n="lb"/>{# स्यात्,#}</div> S. k.; ({%words%}) <div n="xe">{%having these terminations%}
-<div n="lb"/>{%are n.:%}</div> <div n="xs">{#एतदन्तानि क्लीवानि,#}</div> S. k.; {%a n. verb:%}
-<div n="lb"/>{#अकर्मकक्रिया;#} ({%the verb%}) {#मा#} {%in%} ({%the sense of%}) <div n="xe">{%mea-%}
-<div n="lb"/>{%suring is n.:%}</div> <div n="xs">{#मा माने अकर्मकः,#}</div> S. k.
+{@NEUTER:@}¦ <div n="xe">{%n. gender:%}</div> <div n="xs">{#क्लीवलिङ्गम्;#}</div> <div n="xe">{%words expressing%}
+{%species of fruit are n.:%}</div> <div n="xs">{#फलजातिवाची शब्दो नपुंसकं #}
+{# स्यात्,#}</div> S. k.; ({%words%}) <div n="xe">{%having these terminations%}
+{%are n.:%}</div> <div n="xs">{#एतदन्तानि क्लीवानि,#}</div> S. k.; {%a n. verb:%}
+{#अकर्मकक्रिया;#} ({%the verb%}) {#मा#} {%in%} ({%the sense of%}) <div n="xe">{%mea-%}
+{%suring is n.:%}</div> <div n="xs">{#मा माने अकर्मकः,#}</div> S. k.
 <LEND>

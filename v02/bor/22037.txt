@@ -1,7 +1,7 @@
 <L>22037<pc>695<k1>swear<k2>swear
-<div n="lb"/>{@SWEAR@}¦ (v. t.): <div n="I">I To make: {%to s. an oath:%}
-<div n="lb"/>{#शपथं शपति#} <div n="xe">{%or%}</div> <div n="xs">{#शप्यति-ते#}</div> ({#शप्,#} c. 1. and 4.), B.
-<div n="lb"/>iii. 36. </div><div n="I">II To administer in oath to:
-<div n="lb"/>{#शापयति#} (c. of {#शप्#}), {%shall s. Brahmins on truth:%}
-<div n="lb"/>{#सत्येन शापयेद्विप्रम्,#} M.</div>
+{@SWEAR@}¦ (v. t.): <div n="I">I To make: {%to s. an oath:%}
+{#शपथं शपति#} <div n="xe">{%or%}</div> <div n="xs">{#शप्यति-ते#}</div> ({#शप्,#} c. 1. and 4.), B.
+iii. 36. </div><div n="I">II To administer in oath to:
+{#शापयति#} (c. of {#शप्#}), {%shall s. Brahmins on truth:%}
+{#सत्येन शापयेद्विप्रम्,#} M.</div>
 <LEND>

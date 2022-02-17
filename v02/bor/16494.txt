@@ -1,3 +1,3 @@
 <L>16494<pc>506<k1>party-spirit<k2>party-spirit
-<div n="lb"/>{@PARTY-SPIRIT:@}¦ perh. {#पक्षपातिता#} <div n="xe">{%or%}</div> <div n="xs">{#पक्षानुरागः।#}</div>
+{@PARTY-SPIRIT:@}¦ perh. {#पक्षपातिता#} <div n="xe">{%or%}</div> <div n="xs">{#पक्षानुरागः।#}</div>
 <LEND>

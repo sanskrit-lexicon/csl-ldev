@@ -4,17 +4,17 @@
 <div n="2"> a) {%schmuck, hübsch, prächtig, den Augen angenehm%} 
 <ls>HALĀY. 4, 4.</ls> Personen 
 <ls>YĀJÑ. 1, 277</ls> ({%vorzüglich%} 
-<ls>STENZLER</ls><ls>?). MBH. 1, 398. 3, 2355. 2675. 2889. R. 3, 52, 26. BHĀG. P. 9, 21, 36.</ls> {#गर्भाः#} 
+<ls>STENZLER</ls>). <ls>MBH. 1, 398.</ls> <ls n="MBH.">3, 2355.</ls> <ls n="MBH. 3,">2675.</ls> <ls n="MBH. 3,">2889.</ls> <ls>R. 3, 52, 26.</ls> <ls>BHĀG. P. 9, 21, 36.</ls> {#गर्भाः#} 
 <ls>R. 1, 15, 25 (23 GORR.).</ls> {#शुभे#} voc. <lex>f.</lex> 
-<ls>MBH. 1, 6014. 3, 1855. 2159. 2491. 2935.</ls> 
-<ls>PAÑCAT. III, 185.</ls> <ls>BHĀG. P. 4, 26, 21.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 50, 9.</ls> {#रूप#} 
+<ls>MBH. 1, 6014.</ls> <ls n="MBH.">3, 1855.</ls> <ls n="MBH. 3,">2159.</ls> <ls n="MBH. 3,">2491.</ls> <ls n="MBH. 3,">2935.</ls> 
+<ls>PAÑCAT. III, 185.</ls> <ls>BHĀG. P. 4, 26, 21.</ls> <ls>BRAHMA-P. in LA. (III) 50, 9.</ls> {#रूप#} 
 <ls>R. 5, 91, 19.</ls> {#शरीरावयवानि#} 
 <ls>RAGH. 3, 22.</ls> {#मुख#} 
 <ls>MBH. 3, 1778.</ls> {#शुभानना#} 
-<ls>?2198. 3000. R. 2, 30, 28. 36, 30. BRAHMA-P. in LA. (III) 55, 1.</ls> {#°लोचन#} 
+<ls>2198. 3000.</ls> <ls>R. 2, 30, 28. 36, 30.</ls> <ls>BRAHMA-P. in LA. (III) 55, 1.</ls> {#°लोचन#} 
 <ls>R. 1, 9, 46.</ls> {#शुभेक्षण#} 
 <ls>2, 56, 19. 3, 42, 33.</ls> {#शुभापाङ्गा#} 
-<ls>?2, 30, 34 (SCHL.).</ls> {#°दृश्#} 
+<ls>2, 30, 34 (SCHL.).</ls> {#°दृश्#} 
 <ls>VARĀH. BṚH. 2, 8.</ls> {#बाहू#} 
 <ls>MBH. 3, 1779.</ls> {#चरणौ#} 
 <ls>R. 2, 72, 3.</ls> Thiere und Vögel 
@@ -26,7 +26,7 @@
 <ls>R. 3, 15, 42.</ls> {#शुक्लतिलैः शुभैः#} 
 <ls>WEBER, KṚṢṆAJ. 278.</ls> {#रजनी#} 
 <ls>R. 2, 54, 1.</ls> {#संध्या#} 
-<ls>VARĀH. BṚH. S. 21, 16.</ls> <ls>WEBER, <is>Nakṣ</is>. 2, 385.</ls> {#वसन#} {%Kleid%} 
+<ls>VARĀH. BṚH. S. 21, 16.</ls> <ls>WEBER, Nakṣ. 2, 385.</ls> {#वसन#} {%Kleid%} 
 <ls>R. 2, 37, 8.</ls> {#स्वास्तर#} 
 <ls>87, 20.</ls> {#सभा#} 
 <ls>M. 7, 145.</ls> {#शाला#} 
@@ -38,7 +38,7 @@
 <ls>MBH. 4, 296.</ls> 
 <ls>R. 2, 32, 5. 64, 66.</ls> {#आभरणानि#} 
 <ls>R. ed. Bomb. 4, 8, 7.</ls> {#नौ#} 
-<ls>?1, 26, 2 (SCHL.). 2, 52, 5.</ls> 
+<ls>1, 26, 2 (SCHL.). 2, 52, 5.</ls> 
 <div n="2">— b) {%angenehm, zusagend%} (andern Sinnen als den Augen): {#गन्धाः#} {%Wohlgerüche%} 
 <ls>M. 12, 65.</ls> 
 <ls>YĀJÑ. 3, 213.</ls> {#शुभाश#} 
@@ -48,7 +48,7 @@
 <div n="2">— c) {%angenehm%} überh., {%erfreulich, den Wünschen und Anforderungen entsprechend%}: {#शुभफलकृत्#} 
 <ls>VARĀH. BṚH. S. 7, 17. 8, 19. 50, 20.</ls> 
 <ls>KATHĀS. 34, 247.</ls> {#वृत्ति#} 
-<ls>SUŚR. 2,395,  6.</ls>
+<ls>SUŚR. 2,395, 6.</ls>
 [Page7-0263]
 {#अनिष्टादिष्टलाभे ऽपि न गतिर्जायते शुभा#} 
 <ls>Spr. (II) 308.</ls> 
@@ -80,22 +80,22 @@
 <ls>M. 7, 182.</ls> {#काल#} 
 <ls>MBH. 3, 2191.</ls> {#वर्ष#} 
 <ls>VARĀH. BṚH. S. 8, 34. 19, 15.</ls> {#अहन्#} 
-<ls>KATHĀS. 20, 23. 49, 35</ls> {#(सु°)#}.{# तिथि#} 
+<ls>KATHĀS. 20, 23. 49, 35</ls> ({#सु°#}).{# तिथि#} 
 <ls>PAÑCAT. 8, 14.</ls> {#लग्न#} 
 <ls>HIT. 94, 9.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 16, 11.</ls> <ls>VARĀH. BṚH. S. 9, 20. 22, 5. 43, 12. 48, 45.</ls> {#ग्रह#} 
+<ls>VET. in LA. (III) 16, 11.</ls> <ls>VARĀH. BṚH. S. 9, 20. 22, 5. 43, 12. 48, 45.</ls> {#ग्रह#} 
 <ls>16,40. 41,13.</ls> <ls>Spr. (II) 1562.</ls> <ls>Verz. d. Oxf. H. 97,b,26.</ls> {#खग#} 
 <ls>SUŚR. 1, 107, 21.</ls> {#°लक्षण#} 
 <ls>R. 1, 1, 13. 2, 21, 39. 24, 36. 52, 1. 56, 31. 5, 12, 36.</ls> 
 <ls>KATHĀS. 23, 54. 45, 348.</ls> 
 <ls>TATTVAS. 6.</ls> {#अशुभ#} 
-<ls>VET.</ls> in <ls>LA. (III) 13, 12.</ls> 
+<ls>VET. in LA. (III) 13, 12.</ls> 
 <div n="2">— f) {%gut%} in ethischem Sinne: {#बुद्धि#} 
 <ls>ŚVETĀŚV. UP. 3, 4. 4, 1.</ls> {#मति#} 
 <ls>MĀRK. P. 100, 43. fg.</ls> {#कर्मन्#} 
 <ls>M. 11, 231. 12, 84.</ls> 
 <ls>YĀJÑ. 1, 40</ls> ({%heilig%} 
-<ls>STENZLER</ls><ls>?). MBH. 13, 344. HARIV. 8931</ls> ({#शुभैः#} zu lesen). 
+<ls>STENZLER</ls>). <ls>MBH. 13, 344.</ls> <ls>HARIV. 8931</ls> ({#शुभैः#} zu lesen). 
 <ls>R. 1, 63, 2. 2, 64, 21</ls> ({#अ°#}). 
 <ls>105, 31</ls> ({#सु°#}). 
 <ls>Spr. 3000</ls> (zugleich {#अ°#}). 
@@ -134,7 +134,7 @@ zu <ls>P. 4, 1, 154.</ls> <ls>KATHĀS. 123, 92.</ls> eines Autors
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— e) = {#खसंचारिपुर#} 
 <ls>MED.</ls>; vgl. {#सौभ#}. 
-<div n="2">— f) {%ein best. Metrum%}: ˘ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯ + {%3 Mal%} {Ç}{¯ ¯ ˘ ¯ ¯ ˘ ˘ ¯  ˘ ¯ ¯  
+<div n="2">— f) {%ein best. Metrum%}: ˘ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯ + {%3 Mal%} {Ç}{¯ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯ 
 <ls>Journ. of the Am. Or. S. 6, 514.</ls> 
 <div n="2">— g) N. pr. einer Freundin der <is>Umā</is> 
 <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> 
@@ -153,7 +153,7 @@ n. <ls>AK. 3, 6, 3, 23.</ls> {#अशुभ#} <lex>n.</lex> ebend.
 <ls>KAUŚ. 72.</ls> {#°काम्या#} 
 <ls>TRIK. 2, 7, 27.</ls> 
 <ls>SUŚR. 1, 104, 19.</ls> 
-<ls>Spr. (II) 301. 1138. 2551. 3466. 3776. 3913.</ls> 
+<ls>Spr. (II) 301.</ls> <ls n="Spr. (II)">1138.</ls> <ls n="Spr. (II)">2551.</ls> <ls n="Spr. (II)">3466.</ls> <ls n="Spr. (II)">3776.</ls> <ls n="Spr. (II)">3913.</ls> 
 <ls>VARĀH. BṚH. S. 23, 1. 71, 7. 9.</ls> 
 <ls>KATHĀS. 124, 113.</ls> {#शुभं भूयात्#} 
 <ls>ŚĀK. 113, 14.</ls> {#शुभमस्तु#} 

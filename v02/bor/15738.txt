@@ -1,6 +1,6 @@
 <L>15738<pc>482<k1>occasion<k2>occasion
-<div n="lb"/>{@OCCASION@}¦ (subs.): <div n="I">I Opportunity: q.v.:
-<div n="lb"/>{#अवसरः।#} </div><div n="I">II Incidental cause expr. with
-<div n="lb"/>{#निमित्तम्।#} </div><div n="I">III Need: {#प्रयोजनम्।#} </div><div n="I">IV Incident,
-<div n="lb"/>occurrence: {#घटना।#}</div>
+{@OCCASION@}¦ (subs.): <div n="I">I Opportunity: q.v.:
+{#अवसरः।#} </div><div n="I">II Incidental cause expr. with
+{#निमित्तम्।#} </div><div n="I">III Need: {#प्रयोजनम्।#} </div><div n="I">IV Incident,
+occurrence: {#घटना।#}</div>
 <LEND>

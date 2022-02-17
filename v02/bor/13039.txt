@@ -1,9 +1,9 @@
 <L>13039<pc>402<k1>kiss<k2>kiss
-<div n="lb"/>{@KISS@}¦ (v.): <div n="1">(1) {#चुम्बति#} <div n="xe">{%or%}</div> <div n="xs">{#चुम्बयति, परि-, नि-, आ-,#}</div>
-<div n="lb"/>({#चुम्ब्,#} c. l. and 10.), <div n="xe">{%to k. you:%}</div> <div n="xs">{#त्वां निचुम्बितुम्,#}</div>
-<div n="lb"/>Ch.; <div n="xe">{%k. ed the darling on the face%}</div> <div n="xs">{#प्रियामुखं चुचुम्ब,#}</div>
-<div n="lb"/>Ku.; </div><div n="1">(2) {#निंस्ते, परि-,#} ({#निस्,#} c. 2 (rare). <div n="xe">{%To%}
-<div n="lb"/>{%k. the lips:%}</div> <div n="xs">{#अधरं पिबति#}</div> ({#पा,#} c. 1.) (poet), Sa.;
-<div n="lb"/><div n="xe">{%to k. on the head:%}</div> <div n="xs">{#मूर्द्धनि उपजिघ्रति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उपा-#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आ#}</div>-
-<div n="lb"/>({#ध्रा,#} c. 6.), K.</div>
+{@KISS@}¦ (v.): <div n="1">(1) {#चुम्बति#} <div n="xe">{%or%}</div> <div n="xs">{#चुम्बयति, परि-, नि-, आ-,#}</div>
+({#चुम्ब्,#} c. l. and 10.), <div n="xe">{%to k. you:%}</div> <div n="xs">{#त्वां निचुम्बितुम्,#}</div>
+Ch.; <div n="xe">{%k. ed the darling on the face%}</div> <div n="xs">{#प्रियामुखं चुचुम्ब,#}</div>
+Ku.; </div><div n="1">(2) {#निंस्ते, परि-,#} ({#निस्,#} c. 2 (rare). <div n="xe">{%To%}
+{%k. the lips:%}</div> <div n="xs">{#अधरं पिबति#}</div> ({#पा,#} c. 1.) (poet), Sa.;
+<div n="xe">{%to k. on the head:%}</div> <div n="xs">{#मूर्द्धनि उपजिघ्रति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उपा-#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आ#}</div>-
+({#ध्रा,#} c. 6.), K.</div>
 <LEND>

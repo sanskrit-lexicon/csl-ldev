@@ -1,7 +1,7 @@
 <L>6716<pc>215<k1>document<k2>document
-<div n="lb"/>{@DOCUMENT:@}¦ {#लेख्यम्,#} <div n="xe">{%public d.:%}</div> <div n="xs">{#राजसाक्षिकं#}</div> ({%or%}
-<div n="lb"/>{#राजकीयं#}) {#लेख्यम्,#} V. s.; <div n="xe">{%private d.:%}</div> <div n="xs">{#जानपदं लेख्यम्,#}</div>
-<div n="lb"/>Mi.; <div n="xe">{%attested d.:%}</div> <div n="xs">{#ससाक्षिकं लेख्यम्,#}</div> V. s.; <div n="xe">{%to%}
-<div n="lb"/>{%make a d.:%}</div> <div n="xs">{#लेख्यं करोति,#}</div> <ls>Y.</ls> ; {%to renew a d.:%}
-<div n="lb"/>{#अन्यलेख्यं कारयति,#} Y.: v. Writing.
+{@DOCUMENT:@}¦ {#लेख्यम्,#} <div n="xe">{%public d.:%}</div> <div n="xs">{#राजसाक्षिकं#}</div> ({%or%}
+{#राजकीयं#}) {#लेख्यम्,#} V. s.; <div n="xe">{%private d.:%}</div> <div n="xs">{#जानपदं लेख्यम्,#}</div>
+Mi.; <div n="xe">{%attested d.:%}</div> <div n="xs">{#ससाक्षिकं लेख्यम्,#}</div> V. s.; <div n="xe">{%to%}
+{%make a d.:%}</div> <div n="xs">{#लेख्यं करोति,#}</div> <ls>Y.</ls> ; {%to renew a d.:%}
+{#अन्यलेख्यं कारयति,#} Y.: v. Writing.
 <LEND>

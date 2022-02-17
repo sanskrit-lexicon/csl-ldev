@@ -1,4 +1,4 @@
 <L>22171<pc>699<k1>talisman<k2>talisman
-<div n="lb"/>{@TALISMAN:@}¦ <div n="I">I Amulet: q. v.: {#कवचः।#} </div><div n="I">II
-<div n="lb"/>Magic: {#माया।#}</div>
+{@TALISMAN:@}¦ <div n="I">I Amulet: q. v.: {#कवचः।#} </div><div n="I">II
+Magic: {#माया।#}</div>
 <LEND>

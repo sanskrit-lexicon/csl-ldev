@@ -1,5 +1,5 @@
 <L>3823<pc>125<k1>climate<k2>climate
-<div n="lb"/>{@CLIMATE:@}¦ <div n="I">I Temperature etc.: {#देशप्रकृतिः#} (?);
-<div n="lb"/>{#वायुतापौ#} (m. dual) (?). </div><div n="I">II A region: q. v.:
-<div n="lb"/>{#प्रदेशः।#}</div>
+{@CLIMATE:@}¦ <div n="I">I Temperature etc.: {#देशप्रकृतिः#} (?);
+{#वायुतापौ#} (m. dual) (?). </div><div n="I">II A region: q. v.:
+{#प्रदेशः।#}</div>
 <LEND>

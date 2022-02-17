@@ -1,8 +1,8 @@
 <L>7906<pc>250<k1>even<k2>even
-<div n="lb"/>{@EVEN@}¦ (adj.): {#अपि#} (placed after the word em-
-<div n="lb"/>-phasized), <div n="xe">{%where e. the trees, e. the animals are%}
-<div n="lb"/>{%my friends:%}</div> <div n="xs">{#यत्र द्रुमा अपि मृगा अपि बन्धवो मे,#}</div> U. iii.;
-<div n="lb"/><div n="xe">{%very difficult to be shunned e. when leaving:%}</div> <div n="xs">{#सुदु-#}
-<div n="lb"/>{#स्त्यजास्त्यजन्तोऽपि,#}</div> Ki.; <div n="xe">{%e. now:%}</div> <div n="xs">{#अद्यापि,#}</div> J.; {%e. if:%}
-<div n="lb"/>v. If; <div n="xe">{%not e. he:%}</div> <div n="xs">{#सोऽपि॥॥॥।न।#}</div> Ph.: <div n="xe">{%e. so:%}</div> <div n="xs">{#एम्।#}</div>
+{@EVEN@}¦ (adj.): {#अपि#} (placed after the word em-
+-phasized), <div n="xe">{%where e. the trees, e. the animals are%}
+{%my friends:%}</div> <div n="xs">{#यत्र द्रुमा अपि मृगा अपि बन्धवो मे,#}</div> U. iii.;
+<div n="xe">{%very difficult to be shunned e. when leaving:%}</div> <div n="xs">{#सुदु-#}
+{#स्त्यजास्त्यजन्तोऽपि,#}</div> Ki.; <div n="xe">{%e. now:%}</div> <div n="xs">{#अद्यापि,#}</div> J.; {%e. if:%}
+v. If; <div n="xe">{%not e. he:%}</div> <div n="xs">{#सोऽपि॥॥॥।न।#}</div> Ph.: <div n="xe">{%e. so:%}</div> <div n="xs">{#एम्।#}</div>
 <LEND>

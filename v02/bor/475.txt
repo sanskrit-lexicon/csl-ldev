@@ -1,7 +1,7 @@
 <L>475<pc>018<k1>ago<k2>ago
-<div n="lb"/>{@AGO:@}¦ Ph. <div n="xe">{%1927 years a.%}</div> <div n="xs">{#इतः पूर्वं सप्तविंशत्युत्तरोन-#}
-<div n="lb"/>{#विंशतिशत्तमवर्षे,#}</div> Tārānāth; <div n="xe">{%six months a.%}</div> <div n="xs">{#इतः #}
-<div n="lb"/>{# षण्मासात् पूर्वम्;#}</div> <div n="xe">{%long a.%}</div> <div n="xs">{#पुरा;#}</div> {%not very long a.%}
-<div n="lb"/>{#अनतिपूर्वम्#} (?); <div n="xe">{%how long a.%}</div> <div n="xs">{#कियत्पूर्वम्#}</div> (?); <div n="xe">{%some-%}
-<div n="lb"/>{%time a.%}</div> <div n="xs">{#किञ्चित्पूर्वम्#}</div> (?).
+{@AGO:@}¦ Ph. <div n="xe">{%1927 years a.%}</div> <div n="xs">{#इतः पूर्वं सप्तविंशत्युत्तरोन-#}
+{#विंशतिशत्तमवर्षे,#}</div> Tārānāth; <div n="xe">{%six months a.%}</div> <div n="xs">{#इतः #}
+{# षण्मासात् पूर्वम्;#}</div> <div n="xe">{%long a.%}</div> <div n="xs">{#पुरा;#}</div> {%not very long a.%}
+{#अनतिपूर्वम्#} (?); <div n="xe">{%how long a.%}</div> <div n="xs">{#कियत्पूर्वम्#}</div> (?); <div n="xe">{%some-%}
+{%time a.%}</div> <div n="xs">{#किञ्चित्पूर्वम्#}</div> (?).
 <LEND>

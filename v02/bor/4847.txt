@@ -1,7 +1,7 @@
 <L>4847<pc>156<k1>cost<k2>cost
-<div n="lb"/>{@COST@}¦ (v. t.): <div n="I">I Of price: Ph.: <div n="xe">{%what did the%}
-<div n="lb"/>{%book c. you:%}</div> <div n="xs">{#कियता मूल्येन त्वया पुस्तको गृहीतः,#}</div></div>
-<div n="lb"/><div n="I">II Of expense: Ph.: <div n="xe">{%it c. him much to repair%}
-<div n="lb"/>{%the town:%}</div> <div n="xs">{#बहुधनव्ययेन नवीकृता नगरी।#}</div> Ph.: <div n="xe">{%though%}
-<div n="lb"/>{%it c. me ten nights' watchings:%}</div> <div n="xs">{#दशरात्रिजागरणेनापि#}</div></div>
+{@COST@}¦ (v. t.): <div n="I">I Of price: Ph.: <div n="xe">{%what did the%}
+{%book c. you:%}</div> <div n="xs">{#कियता मूल्येन त्वया पुस्तको गृहीतः,#}</div></div>
+<div n="I">II Of expense: Ph.: <div n="xe">{%it c. him much to repair%}
+{%the town:%}</div> <div n="xs">{#बहुधनव्ययेन नवीकृता नगरी।#}</div> Ph.: <div n="xe">{%though%}
+{%it c. me ten nights' watchings:%}</div> <div n="xs">{#दशरात्रिजागरणेनापि#}</div></div>
 <LEND>

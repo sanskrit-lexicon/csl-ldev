@@ -1,13 +1,13 @@
 <L>524<pc>020<k1>alas<k2>alas
-<div n="lb"/>{@ALAS:@}¦ <div n="1">(1) {#अहह,#} <div n="xe">{%a. ! the buds of the tree of Rāva-%}
-<div n="lb"/>{%na's impolicy are as if scattered around%}</div> <div n="xs">{#अहह ! #}
-<div n="lb"/>{# रक्षपतेर्दुर्विनयविटपिकोरकाः परितः प्रकीर्णा इव,#}</div> Vi. vi.;</div>
-<div n="lb"/><div n="1">(2) {#हाहा,#} <div n="xe">{%a. my Queen, my heart is bursting, my%}
-<div n="lb"/>{%joints loosening%}</div> <div n="xs">{#हाहा देवि ! स्फुटति हृदयं स्त्रं सते देह-#}
-<div n="lb"/>{#बन्धः,#}</div> <ls>U.</ls> iii.; </div><div n="1">(3) {#हा,#} <div n="xe">{%a. what has befallen%}</div> <div n="xs">{#हा, #}
-<div n="lb"/>{# किमिदमापतितम्,#}</div> <ls>K.</ls> ; </div><div n="1">(4) {#हन्त,#} <div n="xe">{%a. you will be the%}
-<div n="lb"/>{%first enemy of the man who never had an enemy%}</div>
-<div n="lb"/><div n="xs">{#हन्त जातमजातारेः प्रथमेन त्वयारिणा,#}</div> Si. ii. 102.; </div><div n="1">(5)
-<div n="lb"/>{#बत#} <div n="xe">{%a. when you hear what has befallen me%}</div> <div n="xs">{#ममाद्य #}
-<div n="lb"/>{# वृत्तान्तमिमं बतोदिता,#}</div> <ls>N.</ls> i. 139.</div>
+{@ALAS:@}¦ <div n="1">(1) {#अहह,#} <div n="xe">{%a. ! the buds of the tree of Rāva-%}
+{%na's impolicy are as if scattered around%}</div> <div n="xs">{#अहह ! #}
+{# रक्षपतेर्दुर्विनयविटपिकोरकाः परितः प्रकीर्णा इव,#}</div> Vi. vi.;</div>
+<div n="1">(2) {#हाहा,#} <div n="xe">{%a. my Queen, my heart is bursting, my%}
+{%joints loosening%}</div> <div n="xs">{#हाहा देवि ! स्फुटति हृदयं स्त्रं सते देह-#}
+{#बन्धः,#}</div> <ls>U.</ls> iii.; </div><div n="1">(3) {#हा,#} <div n="xe">{%a. what has befallen%}</div> <div n="xs">{#हा, #}
+{# किमिदमापतितम्,#}</div> <ls>K.</ls> ; </div><div n="1">(4) {#हन्त,#} <div n="xe">{%a. you will be the%}
+{%first enemy of the man who never had an enemy%}</div>
+<div n="xs">{#हन्त जातमजातारेः प्रथमेन त्वयारिणा,#}</div> Si. ii. 102.; </div><div n="1">(5)
+{#बत#} <div n="xe">{%a. when you hear what has befallen me%}</div> <div n="xs">{#ममाद्य #}
+{# वृत्तान्तमिमं बतोदिता,#}</div> <ls>N.</ls> i. 139.</div>
 <LEND>

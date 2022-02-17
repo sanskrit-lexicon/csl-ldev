@@ -1,6 +1,6 @@
 <L>7580<pc>239<k1>enfeeble<k2>enfeeble
-<div n="lb"/>{@ENFEEBLE:@}¦ {#दुर्बलीकरोति,#} {%e.%} ({%the ministers%}) <div n="xe">{%one by%}
-<div n="lb"/>{%one:%}</div> <div n="xs">{#एकैकं दुर्बलीकुरु,#}</div> Mah.: v. Feeble, to
-<div n="lb"/>weaken, emaciate, break down. <div n="xe">{%To be-%}
-<div n="lb"/>{%come e. d:%}</div> <div n="xs">{#दुर्बलीभवति।#}</div>
+{@ENFEEBLE:@}¦ {#दुर्बलीकरोति,#} {%e.%} ({%the ministers%}) <div n="xe">{%one by%}
+{%one:%}</div> <div n="xs">{#एकैकं दुर्बलीकुरु,#}</div> Mah.: v. Feeble, to
+weaken, emaciate, break down. <div n="xe">{%To be-%}
+{%come e. d:%}</div> <div n="xs">{#दुर्बलीभवति।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>21476<pc>676<k1>stiffness<k2>stiffness
-<div n="lb"/>{@STIFFNESS:@}¦ <div n="1">(1) {#काठिन्यम्:#} v. Hardness; </div><div n="1">(2)
-<div n="lb"/>{#रौक्षम्:#} v. Roughness.</div>
+{@STIFFNESS:@}¦ <div n="1">(1) {#काठिन्यम्:#} v. Hardness; </div><div n="1">(2)
+{#रौक्षम्:#} v. Roughness.</div>
 <LEND>

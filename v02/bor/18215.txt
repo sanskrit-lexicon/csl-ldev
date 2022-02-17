@@ -1,15 +1,15 @@
 <L>18215<pc>558<k1>pure<k2>pure
-<div n="lb"/>{@PURE:@}¦ <div n="I">I Unmixed, unalloyed: {#शुद्ध#} (f. {#द्धा#}),
-<div n="lb"/>{#वि-,#} <div n="xe">{%with hilts of p. ivory:%}</div> <div n="xs">{#शुद्धदन्तत्सरु#}</div> (mfn.),
-<div n="lb"/>Mah. ii. 51. 16.; <div n="xe">{%p. gold:%}</div> <div n="xs">{#शुद्धं सुवर्णम्,#}</div> Bha.</div>
-<div n="lb"/><div n="I">II Clear, clean: q. v.: {#शुद्ध#} (f. {#द्धा#}), {#वि-,#}
-<div n="lb"/><div n="xe">{%but on the p. surface of a mirror:%}</div> <div n="xs">{#शुद्धे तु दर्पणतले,#}</div>
-<div n="lb"/>Sa. vii. </div><div n="I">III Spotless, chaste: </div><div n="1">(1) {#शुद्ध#} (f.
-<div n="lb"/>{#द्धा#}), {#वि-,#} <div n="xe">{%internally p.:%}</div> <div n="xs">{#अन्तःशुद्ध#}</div> (f. {#द्धा#}), Me.;
-<div n="lb"/><div n="xe">{%p. fame:%}</div> <div n="xs">{#विशुद्धयशस्,#}</div> D.; </div><div n="1">(2) {#शुचि#} (mfn.), <div n="xe">{%p.%}
-<div n="lb"/>{%knowledge:%}</div> <div n="xs">{#शुचि श्रुतम्,#}</div> Ki. ii. 32. </div><div n="I">IV Of
-<div n="lb"/>language: {#शुद्ध#} (f. {#द्धा#}), {#वि-,#} Ki. </div><div n="I">V Mere:
-<div n="lb"/>q. v.: {#शुद्ध#} (f. {#द्धा#}), {%from a p. desire for children:%}
-<div n="lb"/>{#शुद्धसन्तानकामैः।#} R. xviii. 53. Ph.: <div n="xe">{%to become%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#शुध्यति#}</div> ({#शुध्,#} c. 4.); <div n="xe">{%or%}</div> <div n="xs">{#पूयते#}</div> (pass. {#पू#}).</div>
+{@PURE:@}¦ <div n="I">I Unmixed, unalloyed: {#शुद्ध#} (f. {#द्धा#}),
+{#वि-,#} <div n="xe">{%with hilts of p. ivory:%}</div> <div n="xs">{#शुद्धदन्तत्सरु#}</div> (mfn.),
+Mah. ii. 51. 16.; <div n="xe">{%p. gold:%}</div> <div n="xs">{#शुद्धं सुवर्णम्,#}</div> Bha.</div>
+<div n="I">II Clear, clean: q. v.: {#शुद्ध#} (f. {#द्धा#}), {#वि-,#}
+<div n="xe">{%but on the p. surface of a mirror:%}</div> <div n="xs">{#शुद्धे तु दर्पणतले,#}</div>
+Sa. vii. </div><div n="I">III Spotless, chaste: </div><div n="1">(1) {#शुद्ध#} (f.
+{#द्धा#}), {#वि-,#} <div n="xe">{%internally p.:%}</div> <div n="xs">{#अन्तःशुद्ध#}</div> (f. {#द्धा#}), Me.;
+<div n="xe">{%p. fame:%}</div> <div n="xs">{#विशुद्धयशस्,#}</div> D.; </div><div n="1">(2) {#शुचि#} (mfn.), <div n="xe">{%p.%}
+{%knowledge:%}</div> <div n="xs">{#शुचि श्रुतम्,#}</div> Ki. ii. 32. </div><div n="I">IV Of
+language: {#शुद्ध#} (f. {#द्धा#}), {#वि-,#} Ki. </div><div n="I">V Mere:
+q. v.: {#शुद्ध#} (f. {#द्धा#}), {%from a p. desire for children:%}
+{#शुद्धसन्तानकामैः।#} R. xviii. 53. Ph.: <div n="xe">{%to become%}
+{%p.:%}</div> <div n="xs">{#शुध्यति#}</div> ({#शुध्,#} c. 4.); <div n="xe">{%or%}</div> <div n="xs">{#पूयते#}</div> (pass. {#पू#}).</div>
 <LEND>

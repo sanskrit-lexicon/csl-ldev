@@ -1,8 +1,8 @@
 <L>20249<pc>632<k1>seven<k2>seven
-<div n="lb"/>{@SEVEN:@}¦ {#सप्तन्,#} <div n="xe">{%in s. parts or ways:%}</div> <div n="xs">{#सप्तधा;#}</div> <div n="xe">{%s. hun-%}
-<div n="lb"/>{%dred:%}</div> <div n="xs">{#सप्तशतं#}</div> ({#ती#}); <div n="xe">{%s. collectively:%}</div> <div n="xs">{#सप्तकम्;#}</div> <div n="xe">{%thrice%}
-<div n="lb"/>{%s. times:%}</div> <div n="xs">{#त्रिःसप्तकृत्वः,#}</div> Vi.; <div n="xe">{%three of us and s. of%}
-<div n="lb"/>{%Pāṇḍavas:%}</div> <div n="xs">{#त्रयोऽस्माकं पाण्डवानाञ्च सप्त,#}</div> Mah. i.
-<div n="lb"/>1. 220.; <div n="xe">{%for s. or eight days:%}</div> <div n="xs">{#सप्ताष्टदिवसान्,#}</div>
-<div n="lb"/>Mah. v. 160. 39.
+{@SEVEN:@}¦ {#सप्तन्,#} <div n="xe">{%in s. parts or ways:%}</div> <div n="xs">{#सप्तधा;#}</div> <div n="xe">{%s. hun-%}
+{%dred:%}</div> <div n="xs">{#सप्तशतं#}</div> ({#ती#}); <div n="xe">{%s. collectively:%}</div> <div n="xs">{#सप्तकम्;#}</div> <div n="xe">{%thrice%}
+{%s. times:%}</div> <div n="xs">{#त्रिःसप्तकृत्वः,#}</div> Vi.; <div n="xe">{%three of us and s. of%}
+{%Pāṇḍavas:%}</div> <div n="xs">{#त्रयोऽस्माकं पाण्डवानाञ्च सप्त,#}</div> Mah. i.
+1. 220.; <div n="xe">{%for s. or eight days:%}</div> <div n="xs">{#सप्ताष्टदिवसान्,#}</div>
+Mah. v. 160. 39.
 <LEND>

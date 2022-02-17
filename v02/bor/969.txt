@@ -1,11 +1,11 @@
 <L>969<pc>034<k1>apprehend<k2>apprehend
-<div n="lb"/>{@APPREHEND:@}¦ <div n="I">I To arrest: q. v.: </div><div n="1">(1) {#धरति#}
-<div n="lb"/>({#धृ,#} c. 1); </div><div n="1">(2) {#गृह्वाति#} ({#ग्रह्,#} c. 9). </div><div n="I">II To
-<div n="lb"/>comprehend, conceive: q. v.: </div><div n="1">(1) {#उपलभते#}
-<div n="lb"/>({#लभ्,#} c. 1.); </div><div n="1">(2) {#अवगच्छति#} ({#गम्,#} c. 1.)</div>
-<div n="lb"/><div n="I">III To believe, suppose: q. v.: {#शङ्कते#}
-<div n="lb"/>({#शङ्क,#} c. 1), <div n="xe">{%I a. Bharata has come out to meet%}
-<div n="lb"/>{%me%}</div> <div n="xs">{#शङके॥॥॥।प्रत्युद्गतो मां भरतः,#}</div> R. xiii. 64.</div>
-<div n="lb"/><div n="I">IV To fear {#शङ्कते, आ-, वि-, परि-,#} <div n="xe">{%a. ing defeat%}
-<div n="lb"/>{%from you%}</div> <div n="xs">{#विशङ्कमानो भवतः पराभवं,#}</div> Ki. i. 7.</div>
+{@APPREHEND:@}¦ <div n="I">I To arrest: q. v.: </div><div n="1">(1) {#धरति#}
+({#धृ,#} c. 1); </div><div n="1">(2) {#गृह्वाति#} ({#ग्रह्,#} c. 9). </div><div n="I">II To
+comprehend, conceive: q. v.: </div><div n="1">(1) {#उपलभते#}
+({#लभ्,#} c. 1.); </div><div n="1">(2) {#अवगच्छति#} ({#गम्,#} c. 1.)</div>
+<div n="I">III To believe, suppose: q. v.: {#शङ्कते#}
+({#शङ्क,#} c. 1), <div n="xe">{%I a. Bharata has come out to meet%}
+{%me%}</div> <div n="xs">{#शङके॥॥॥।प्रत्युद्गतो मां भरतः,#}</div> R. xiii. 64.</div>
+<div n="I">IV To fear {#शङ्कते, आ-, वि-, परि-,#} <div n="xe">{%a. ing defeat%}
+{%from you%}</div> <div n="xs">{#विशङ्कमानो भवतः पराभवं,#}</div> Ki. i. 7.</div>
 <LEND>

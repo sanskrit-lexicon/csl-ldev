@@ -1,6 +1,6 @@
 <L>7774<pc>246<k1>equinoctial<k2>equinoctial
-<div n="lb"/>{@EQUINOCTIAL:@}¦ {#विषुवीयः#} ({#या, यं#}). {%The e. line:%}
-<div n="lb"/><div n="1">(1) {#विषुवरेखा;#} </div><div n="1">(2) {#विषुवचक्रम्;#} </div><div n="1">(3) {#विषुवद्वृत्तम्,#} Su.
-<div n="lb"/><div n="xe">{%The e. sun:%}</div> <div n="xs">{#विषुवस्थो दिवाकरः,#}</div> Su. {%E. point:%}
-<div n="lb"/>{#अयनम्।#}</div>
+{@EQUINOCTIAL:@}¦ {#विषुवीयः#} ({#या, यं#}). {%The e. line:%}
+<div n="1">(1) {#विषुवरेखा;#} </div><div n="1">(2) {#विषुवचक्रम्;#} </div><div n="1">(3) {#विषुवद्वृत्तम्,#} Su.
+<div n="xe">{%The e. sun:%}</div> <div n="xs">{#विषुवस्थो दिवाकरः,#}</div> Su. {%E. point:%}
+{#अयनम्।#}</div>
 <LEND>

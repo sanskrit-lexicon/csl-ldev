@@ -1,5 +1,5 @@
 <L>7579<pc>239<k1>enervation<k2>enervation
-<div n="lb"/>{@ENERVATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#दुर्बलीकरणम्;#}</div>
-<div n="lb"/><div n="1">(2) {#वीर्यक्षयः।#} </div><div n="I">II The state: </div><div n="1">(1) {#हतवीर्यता;#}</div>
-<div n="lb"/><div n="1">(2) {#निर्वीर्यता;#} </div><div n="1">(3) {#क्लैव्यम्।#}</div>
+{@ENERVATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#दुर्बलीकरणम्;#}</div>
+<div n="1">(2) {#वीर्यक्षयः।#} </div><div n="I">II The state: </div><div n="1">(1) {#हतवीर्यता;#}</div>
+<div n="1">(2) {#निर्वीर्यता;#} </div><div n="1">(3) {#क्लैव्यम्।#}</div>
 <LEND>

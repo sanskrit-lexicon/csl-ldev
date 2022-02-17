@@ -31,7 +31,7 @@
 <ls>MED.</ls> {%Wohnort, Behälter%} 
 <ls>TATTVAS. 5.</ls> 
 <ls>BHĀG. P. 5, 11, 9.</ls> = {#अन्तःपुर#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 505,</ls> <ls>Śl. 19.</ls> {#नारी°#} {%ein Gynaeceum, ein ganzes Haus mit Weibern%}: {#अदां च तत्राश्वतरीसहस्रं नारीपुरम्#} 
+<ls>Journ. of the Am. Or. S. 6, 505, Śl. 19.</ls> {#नारी°#} {%ein Gynaeceum, ein ganzes Haus mit Weibern%}: {#अदां च तत्राश्वतरीसहस्रं नारीपुरम्#} 
 <ls>MBH. 13, 4915.</ls> = {#गृहोपरि गृहम्#} {%ein oberes Stockwerk%} 
 <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%Leib, Körper%} 
@@ -40,7 +40,7 @@
 <ls>MED.</ls> 
 <ls>HĀR. 258.</ls> 
 <ls>HALĀY. 2, 355.</ls> 
-<ls>BHĀG. P. 5, 11, 5. 6, 1, 48. 4, 24. 7, 14,</ls> <ls>?37; vgl. u. 1.</ls> 
+<ls>BHĀG. P. 5, 11, 5. 6, 1, 48. 4, 24. 7, 14, 37</ls>; vgl. u. 1. 
 <div n="1">— 3) <lex>n.</lex> {%die Stadt%}
 <lang n="greek">κατ᾽ ἐξόχην</lang> <is>Pāṭaliputra</is> 
 <ls>TRIK. 2, 1, 16. 3, 3, 263.</ls> 
@@ -56,7 +56,7 @@
 <ls>H. an.</ls> 
 <ls>MED. n.</ls> <ls>SUŚR. 2, 276, 3.</ls> {#पुरा#} 
 <ls>504, 20.</ls> {#पुराख्यः#} 
-<ls>HALĀY.</ls><ls>?2,465; vgl. 12,b.</ls> 
+<ls>HALĀY. 2,465</ls>; vgl. <ls>12,b.</ls> 
 <div n="1">— 7) <lex>n.</lex> {%eine best. Constellation%} 
 <ls>VARĀH. BṚH. S. 20, 2.</ls> 
 <div n="1">— 8) <lex>n.</lex> {%Haut%} 
@@ -72,7 +72,7 @@
 <ls>ŚAT. BR. 6, 3, 3, 25.</ls> {#अश्म°#} 
 <ls>3, 1, 3, 11</ls> (streiche oben den Artikel 3. {#अश्मन्#}). Vgl. {#जीव°, देव°, महा°#} . 
 <div n="2">— b) {%ein best. wohlriechender Stoff%} 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls><ls>?; vgl. 6.</ls> 
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls>; vgl. <ls>6.</ls> 
 <div n="2">— c) {%Osten%} (!) 
 <ls>ŚKDR.</ls> <ls>WILS.</ls> 
 <div n="1">— 13) <lex>f.</lex> {#पुरी#} 

@@ -18,7 +18,7 @@
 <ls>43.</ls> <ls>MBH. 5, 2223.</ls> {#येषां नोपरि नाधश्च न तिर्यक्सज्जते गतिः#} 
 <ls>R. 5, 53, 20. 69, 18. 4, 28, 27.</ls> {#सज्जमानः पदे पदे#} 
 <ls>HARIV. 9457.</ls> {#वाचा सज्जमानया#} 
-<ls>?4856. MBH. 1, 7769. R. 2, 58, 11 (13 GORR.). 60, 4. 64, 10.</ls> {%stecken bleiben%} so v. a. {%anstehen, zögern%} 
+<ls n="HARIV.">4856.</ls> <ls>MBH. 1, 7769.</ls> <ls>R. 2, 58, 11 (13 GORR.). 60, 4. 64, 10.</ls> {%stecken bleiben%} so v. a. {%anstehen, zögern%} 
 <ls>MBH. 1, 7176.</ls> 
 <ls>R. 4, 28, 23.</ls> 
 <ls>Spr. (II) 5625.</ls> act.: {#पादपाग्रेषु सज्जन्ती#} 
@@ -27,7 +27,7 @@
 <ls>HARIV. 4759.</ls> {#नहि बाणा मयोत्सृष्टाः सज्जन्तीह शरीरिणाम् । कायेषु#} {%bleiben nicht stecken%} so v. a. {%durchbohren, fliegen hindurch%} 
 <ls>MBH. 5, 7045.</ls> {%geheftet sein auf, hängen an%} so v. a. {%sich hingeben, sich beschäftigen mit, mit den Gedanken, mit dem Herzen bei Jmd%} oder {%Etwas%} (loc.) {%sein%}; med.: {#कस्यास्त्वयि न सज्जेत मनो दृष्टिश्च#} 
 <ls>BHĀG. P. 9, 14, 20.</ls> {#कर्मसु सज्जन्ते#} 
-<ls>MBH. 3, 63. 15157.</ls> 
+<ls>MBH. 3, 63.</ls> <ls n="MBH. 3,">15157.</ls> 
 <ls>R. 4, 61, 57. 5, 47, 17.</ls> 
 <ls>BHĀG. P. 6, 2, 46.</ls> {#तस्मिन्कर्मणि#} 
 <ls>Spr. (II) 7395.</ls> {#गुणकर्मसु#} 
@@ -52,7 +52,7 @@
 <ls>MBH. 1, 7694.</ls> {#कस्या मनस्ते - स्त्रिया न सज्जेद्भुजयोः#} 
 <ls>BHĀG. P. 4, 25, 42.</ls> {#सज्जन्ति पुरुषे नार्यः#} 
 <ls>MBH. 13, 2391.</ls> {#विषयेषु#} 
-<ls>M. 6, 55</ls> <ls>?(v. l. med.). Spr. (II) 808. BHĀG. P. 3, 23, 54. 2, 1, 39.</ls> 
+<ls>M. 6, 55</ls> (v. l. med.). <ls>Spr. (II) 808.</ls> <ls>BHĀG. P. 3, 23, 54. 2, 1, 39.</ls> 
 <div n="1">— 4) partic. {#सक्त/#} {%anhängend, anhaftend%} 
 <ls>AV. 5, 13, 1.</ls> {#तत्र तत्र हि दृश्यन्ते सक्ताः कनकबिन्दवः#} 
 <ls>R. 2, 88, 9.</ls> {#कौशेयतन्तवः#} 10. {#कङ्कपत्त्रे । सक्ताङ्गुलिः करः#} 
@@ -90,7 +90,7 @@
 <ls>RĀJA-TAR. 6, 177</ls> ({#सक्त्व#} bei 
 <ls>TR.</ls> Druckfehler). {#गिरीशं प्रति सक्तमानसा#} 
 <ls>KUMĀRAS. 5, 3.</ls> {#चित्तं सक्तं कास्वपि दृष्टिषु#} 
-<ls>Verz. d. Oxf. H. 228</ls>, {%a%}, N. {#परजनस्त्रीसक्तचित्त#} 
+<ls>Verz. d. Oxf. H. 228,a,</ls> N. {#परजनस्त्रीसक्तचित्त#} 
 <ls>VARĀH. BṚH. S. 69, 20.</ls> {#सम्यगभिपालनसक्तचित्त#} ({#भूप#}) 
 <ls>19, 9.</ls> {#अप्सरसि सक्तः (दानवपुंगवः)#} 
 <ls>R. 4, 51, 15.</ls> {#पुत्रदारकुटुम्बेषु#} 
@@ -108,7 +108,7 @@
 <ls>4, 8, 27. 5, 19, 6.</ls> häufig in comp. mit der Ergänzung: {#द्यूतस्त्रीपान°#} 
 <ls>YĀJÑ. 2, 267.</ls> {#तपः°#} 
 <ls>MBH. 14, 2810.</ls> 
-<ls>Spr. (II) 4432. 5438.</ls> 
+<ls>Spr. (II) 4432.</ls> <ls n="Spr. (II)">5438.</ls> 
 <ls>VARĀH. BṚH. S. 5, 33. 39. 74. 12, 6. 15, 6.</ls> 
 <ls>KATHĀS. 19, 46.</ls> 
 <ls>MĀRK. P. 24, 22.</ls> 
@@ -117,7 +117,7 @@
 <ls>BṚH. ĀR. UP. 4, 4, 6.</ls> 
 <ls>MAITRYUP. 4, 2.</ls> <ls>Spr. (II) 4515</ls> (Conj. für {#शक्त)#}.{# अ°#} 
 <ls>SĀṂKHYAK. 40</ls> ({#अशक्त#} 
-<ls>LASSEN</ls><ls>?). RAGH. 1, 21</ls> ({#अर्थे#} zu ergänzen). 
+<ls>LASSEN</ls>). <ls>RAGH. 1, 21</ls> ({#अर्थे#} zu ergänzen). 
 <ls>BHĀG. P. 1, 6, 28. 3, 3, 19.</ls> fehlerhaft für {#अशक्त#} 
 <ls>KĀM. NĪTIS. 13, 25.</ls> 
 <div n="1">— 5) partic. {#सक्तवन्त्#} so v. a. {#ससञ्ज#} {%heftete an%}: {#गजपुष्पीं तां तस्य कण्ठे स सक्तवान्#} 
@@ -126,7 +126,7 @@
 
 <div n="p">— caus. 
 <div n="1"> 1) {#सञ्जयति#} {%anheften%}: {#सञ्जितवान्#} als Erkl. von {#असक्त#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. 1, 3, 8</ls> <ls>?(und SĀY. zu ŚAT. BR. 14, 4, 1, 9).</ls> {%in Verbindung bringen mit%} (loc.): {#सत्त्वं#} (subj.) {#सुखे सञ्जयति रजः कर्मणि, तमः प्रमादे सञ्जयत्युत#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. 1, 3, 8</ls> (<ls>und</ls> <ls>SĀY.</ls> zu <ls>ŚAT. BR. 14, 4, 1, 9).</ls> {%in Verbindung bringen mit%} (loc.): {#सत्त्वं#} (subj.) {#सुखे सञ्जयति रजः कर्मणि, तमः प्रमादे सञ्जयत्युत#} 
 <ls>BHAG. 14, 9.</ls> 
 <div n="1">— 2) {#सज्जयति#} (vgl. pass.) dass.: {#वृक्षे पाशमसज्जयत्#} 
 <ls>KATHĀS. 13, 99.</ls> {#सज्जित = काचित#} 
@@ -152,11 +152,11 @@
 <ls>ŚAT. BR. 3, 4, 4, 2. 5, 4, 2, 9. 7, 3, 1, 4.</ls> 
 <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 91. 94.</ls> {#केशबन्धव्यतिषक्तमल्लिका#} 
 <ls>BHĀG. P. 10, 6, 5.</ls> {#(युद्धम्) तावकानां परेषां च व्यतिषक्तरथद्विपम्#} 
-<ls>MBH. 6, 1865. 2125. 2421</ls> (an den beiden letzten Stellen ed. Calc. fehlerhaft {#व्यतिषिक्त#}). 
+<ls>MBH. 6, 1865.</ls> <ls n="MBH. 6,">2125.</ls> <ls n="MBH. 6,">2421</ls> (an den beiden letzten Stellen ed. Calc. fehlerhaft {#व्यतिषिक्त#}). 
 <ls>3506. 9, 531.</ls> <ls>HARIV. 5028.</ls> {#युद्धं तव तेषां च - नराश्वरथनागानां व्यतिषक्तं परस्परम्#} 
 <ls>MBH. 6, 3886.</ls> {#अन्योऽन्य°#} 
 <ls>14, 991.</ls> <ls>M. 10, 25.</ls> <ls>HARIV. 3441.</ls> {#सूर्यरश्मिभिः#} 
-<ls>12097</ls> (die neuere Ausg. fehlerhaft {#व्यतिषिक्त#}, welches
+<ls n="HARIV.">12097</ls> (die neuere Ausg. fehlerhaft {#व्यतिषिक्त#}, welches
 [Page7-0558]
 
 <ls>NĪLAK.</ls> durch {#मिश्रित#} erklärt). {#सर्वैरपि गुणैः#} 
@@ -215,12 +215,12 @@
 <div n="1"> 1) {%hängen —, befestigen an%}: {#अनागसि गुरौ यो मे मृतसर्पमवासृजत्#} (wohl {#अवासजत्#} zu lesen; vgl. 
 <ls>1, 1692. 1743</ls>) <ls>MBH. 1, 1973.</ls> {#स्कन्धदेशे ऽवसज्य पाणिम्#} 
 <ls>15, 436.</ls> {#पुष्पदाम कण्ठे#} 
-<ls>HARIV. 7690. 13135.</ls> {#शिलां कण्ठे#} 
+<ls>HARIV. 7690.</ls> <ls n="HARIV.">13135.</ls> {#शिलां कण्ठे#} 
 <ls>R. 3, 53, 52.</ls> {#अवसज्यन्तां शरीरे भूषणानि#} 
 <ls>5, 22, 21.</ls> {#स्वामिवचनं हृदयेष्ववसज्य#} so v. a. {%einprägen%} 
 <ls>61, 12.</ls> {#अवसक्त#} 
 <div n="2"> a) {%angehängt; anhangend, hängend an%}: {#(राज्ञा) अवसक्तः पितुस्ते ऽद्य मृतः स्कन्धे भुजंगमः#} 
-<ls>MBH. 1, 1692. 1743.</ls> {#मुद्गर#} 
+<ls>MBH. 1, 1692.</ls> <ls n="MBH. 1,">1743.</ls> {#मुद्गर#} 
 <ls>HARIV. 2430.</ls> {#वासस्#} (so v. a. {%hängen geblieben, angestreift%}) 
 <ls>MṚCCH. 23, 9.</ls> {#खुरोद्धूतावसक्तेन (°सिक्तेन#} die neuere Ausg., was 
 <ls>NĪLAK.</ls> durch {#व्याप्त#} erklärt) 
@@ -229,7 +229,7 @@
 <ls>728, 38.</ls> {#शाखावसक्त#} 
 <ls>2, 103, 12 (94, 12</ls> <ls>SCHL.).</ls> {#भोगिभोगावसक्तेन मणिरत्नेन#} 
 <ls>HARIV. 2496.</ls> {#अंसावसक्तपरशु#} 
-<ls>5292.</ls> <ls>R. 5, 47, 36.</ls> <ls>VARĀH. BṚH. S. 12, 6.</ls> <ls>KUMĀRAS. 7, 23.</ls> <ls>ŚIŚ. 9, 7.</ls> <ls>CAURAP. 4.</ls> {#महीतलावसक्तजानु#} <lex>adj.</lex> so v. a. {%auf den Knieen liegend%} 
+<ls n="HARIV.">5292.</ls> <ls>R. 5, 47, 36.</ls> <ls>VARĀH. BṚH. S. 12, 6.</ls> <ls>KUMĀRAS. 7, 23.</ls> <ls>ŚIŚ. 9, 7.</ls> <ls>CAURAP. 4.</ls> {#महीतलावसक्तजानु#} <lex>adj.</lex> so v. a. {%auf den Knieen liegend%} 
 <ls>PAÑCAT. ed. orn. 44, 13.</ls> {#तदाश्रयावसक्तसुतदुहितृकलत्र#} {%hängend an%} so v. a. {%gehörig zu, bewohnend%} 
 <ls>BHĀG. P. 5, 14, 28.</ls> 
 <div n="2">— b) {%behängt%}: {#माल्यदामावसक्त#} 
@@ -241,7 +241,7 @@
 <div n="v">— Vgl. {#अवसञ्जन#} in den Nachträgen. — caus. partic. {#अवसज्जित#} {%behaftet —, versehen%}
 [Page7-0559]
 {%mit%}: {#शौर्याव°#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 505,</ls> <ls>Śl. 17.</ls>
+<ls>Journ. of the Am. Or. S. 6, 505, Śl. 17.</ls>
 
 <div n="p">— {#आ#} 
 <div n="1"> 1) {%anhängen, aufhängen an%} (loc.): {#सूर्ये^ वि\षम्#} 
@@ -256,7 +256,7 @@
 <ls>5, 91, 18.</ls> {#चापं कण्ठे#} 
 <ls>KUMĀRAS. 2, 64.</ls> {#अनुबन्धानासङ्क्ष्यामि#} 
 <ls>PAT.</ls> zu <ls>P. 3, 1, 11</ls> in der ed. Calc. {#अनुबन्ध आसज्यते#} 
-<ls>SIDDH. K.160</ls>, {%b%}, 2. med. {%sich anhängen, anlegen%} 
+<ls>SIDDH. K.160,b,2.</ls> med. {%sich anhängen, anlegen%} 
 <ls>KĀTY. ŚR. 24, 7, 3.</ls> {%Jmd%} (dat.) {%Etwas anhängen%}: {#अ\य\स्मये^ना\ङ्केन^ द्विष\ते त्वा#} ({#पापीं लक्ष्मीं#}) {#स^जामसि#} 
 <ls>AV. 7, 115, 1.</ls> pass. {%hängen bleiben an%} (loc.): {#आसज्यत ध्वजस्तम्भे#} 
 <ls>KATHĀS. 81, 37.</ls> {%sich heften auf%}: {#आसज्यमानेक्षण#} 
@@ -298,13 +298,13 @@
 <ls>6596.</ls> {#यवाष्टकमुदरासक्तम्#} 
 <ls>VARĀH. BṚH. S. 79, 8.</ls> {%geheftet —, gerichtet auf%}: {#गगणासक्तलोचन#} 
 <ls>R. GORR. 2, 10, 18. 26, 5.</ls> <ls>PAÑCAT. 46, 14.</ls> {#चित्त, चेतस्, मति, मनस्, मानस, हृदय#} 
-<ls>Spr. (II) 993. 1948.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 7, 12</ls> (vgl. 
-<ls>?9 SCHL.). VARĀH. BṚH. S. 46, 76. KATHAS. 16, 105. BHĀG. P. 4, 27, 12. MĀRK. P. 50, 74. BHAG. 7, 1. KATHĀS. 45, 276. BHĀG. P. 3, 32, 16. ŚUK. in LA. (III) 32, 11. R. 2, 21, 19. KATHĀS. 15, 3. BRAHMA-P. in LA. (III) 54, 12. 19. BHĀG. P. 3, 30, 6. 4, 25, 3. 9, 22, 23.</ls> von Personen {%mit den Gedanken —, mit dem Herzen an Jmd%} oder {%Etwas hängend, obliegend, sich beschäftigend mit%}; = {#तत्पर#} 
-<ls>AK. 3, 1, 9.</ls> {#परासक्त#} (=  {#परलोकप्रिय#} 
+<ls>Spr. (II) 993.</ls> <ls n="Spr. (II)">1948.</ls> 
+
+<ls>R. GORR. 1, 7, 12</ls> (vgl. 
+<ls>9</ls> <ls>SCHL.).</ls> <ls>VARĀH. BṚH. S. 46, 76. KATHAS. 16, 105.</ls> <ls>BHĀG. P. 4, 27, 12.</ls> <ls>MĀRK. P. 50, 74.</ls> <ls>BHAG. 7, 1.</ls> <ls>KATHĀS. 45, 276.</ls> <ls>BHĀG. P. 3, 32, 16.</ls> <ls>ŚUK.</ls> in <ls>LA. (III) 32, 11.</ls> <ls>R. 2, 21, 19.</ls> <ls>KATHĀS. 15, 3.</ls> <ls>BRAHMA-P. in LA. (III) 54, 12. 19.</ls> <ls>BHĀG. P. 3, 30, 6. 4, 25, 3. 9, 22, 23.</ls> von Personen {%mit den Gedanken —, mit dem Herzen an Jmd%} oder {%Etwas hängend, obliegend, sich beschäftigend mit%}; = {#तत्पर#} 
+<ls>AK. 3, 1, 9.</ls> {#परासक्त#} (= {#परलोकप्रिय#} 
 <ls>NĪLAK.</ls>) <ls>MBH. 6, 562.</ls> {#क्षेत्रापणगृहासक्त#} 
-<ls>Spr. (II) 1868. 2193. 2324. 4432. 6276.</ls> 
+<ls>Spr. (II) 1868.</ls> <ls n="Spr. (II)">2193.</ls> <ls n="Spr. (II)">2324.</ls> <ls n="Spr. (II)">4432.</ls> <ls n="Spr. (II)">6276.</ls> 
 <ls>VARĀH. BṚH. S. 15,27. 16,23.</ls> 
 <ls>KATHĀS. 18,132. 42,116. 50,34.</ls> <ls>Verz. d. Oxf. H. 128,b,8.</ls> <ls>PRAB. 101,1.</ls> <ls>BHĀG. P.6,1,29.7,10,2.</ls> <ls>SĀH. D. 34,9.</ls> <ls>PAÑCAT. 27,9.</ls> <ls>HIT. 27,16. 60,2.</ls> 
 <div n="2">— b) {%umwunden%}: {#आयुधे मालादामभिरासक्ते#}
@@ -360,7 +360,7 @@
 
 <div n="p">— {#समा#} 
 <div n="1"> 1) {%anhängen, umschlingen%}: {#तस्य स्कन्धे मृतं सर्पम् - समासजत्#} 
-<ls>MBH. 1, 1675. 1699</ls> (nach der Lesart der ed. Bomb. st. {#समासृजत्#} der ed. Calc.). {#स्रजं राज्ञः स्कन्धे#} 
+<ls>MBH. 1, 1675.</ls> <ls n="MBH. 1,">1699</ls> (nach der Lesart der ed. Bomb. st. {#समासृजत्#} der ed. Calc.). {#स्रजं राज्ञः स्कन्धे#} 
 <ls>4418.</ls> {#तस्य स्कन्धे बाहुम्#} 
 <ls>5, 3695.</ls> {#क्वायुधानि समासज्य#} 
 <ls>4, 150. 174.</ls> <ls>HARIV. 8242</ls> ({#कण्ठे#} zu lesen). 
@@ -372,7 +372,7 @@
 <div n="1">— 3) partic. {#समासक्त#} {%angehängt%}: {#ग्रीवायां कालपाशः#} 
 <ls>R. 3, 56, 26.</ls> {%bespannt%}: {#सिंहैश्चतुर्भी रथः#} 
 <ls>5, 43, 15.</ls> {%gebunden an%} so v. a. {%abhängig von%}: {#त्वयि प्राणाः#} 
-<ls>R.</ls> <ls>SCHL. 2, 64, 9.</ls> {%in Beziehung stehend zu%}: {#युधिष्ठिरे भारती#} 
+<ls>R. SCHL. 2, 64, 9.</ls> {%in Beziehung stehend zu%}: {#युधिष्ठिरे भारती#} 
 <ls>MBH. 4, 914.</ls> {%geheftet —, gerichtet auf%}: {#चित्तं जन्तोर्विषयगोचरे#} 
 <ls>MAITRYUP. 6, 34.</ls> {%mit den Gedanken —, mit dem Herzen hängend an, beschäftigt mit%}: {#एकत्र#} 
 <ls>MBH. 13, 6476</ls> nach der Lesart der ed. Bomb. {#जलक्रीडा°#} 
@@ -438,7 +438,7 @@ v. l.) {#विस्तरे#}
 <ls>2725. 7288.</ls> {#रूपरसादिविषयेषु प्रसज्जन्त्यः#} 
 <ls>KULL.</ls> zu <ls>M. 9, 2.</ls> {#प्रसज्जति#} so v. a. {%hängt an der Welt%} 
 <ls>BHĀG. P. 5, 13, 16.</ls> {#प्रसज्जन्ती#} {%eine Neigung empfindend, verliebt%} 
-<ls>HARIV. 4621. 9225.</ls> 
+<ls>HARIV. 4621.</ls> <ls n="HARIV.">9225.</ls> 
 <div n="2">— b) = 4): {#वैषम्यनैर्घृण्ये नेश्वरस्य प्रसज्येते#} 
 <ls>NĪLAK. 38.</ls> {#इतीतरेतराश्रयः प्रसज्येत#} 
 <ls>41.</ls> <ls>MUIR, ST. 4, 219, 1.</ls> <ls>PAT.</ls> zu <ls>P. 6, 2, 191. Schol.</ls> zu <ls>P. 5, 3, 84, <is>Vārtt</is>. 3.</ls> Comm. zu <ls>TS. PRĀT. 2, 9.</ls> <ls n="TS. PRĀT. 2,">20.</ls> <ls n="TS. PRĀT.">3, 1.</ls> <ls n="TS. PRĀT.">19, 3.</ls> <ls>BHĀṢĀP. 61.</ls> <ls>KUSUM. 30, 16.</ls> <ls>SARVADARŚANAS. 11, 6. 15, 17. 45, 12. 70, 12. 162, 12.</ls> {#एकपिण्डशब्दौ वृथा प्रसज्येयाताम्#} so v. a. {%angewandt werden, stehen%} 
@@ -453,7 +453,7 @@ v. l.) {#विस्तरे#}
 <ls>HALĀY. 2, 209.</ls> {#व्यसनेषु#} 
 <ls>M. 7, 46.</ls> {#इन्द्रियार्थेषु#} 
 <ls>11, 44.</ls> <ls>MBH. 7, 1127</ls> nach der Lesart der 
-<ls>?ed. Bomb. 8, 1144. R. 4, 37, 12.</ls> <ls>Spr. (II) 4105.</ls> <ls>KATHĀS. 36, 92.</ls> <ls>RĀJA-TAR. 6, 317.</ls> <ls>BHĀG. P. 4, 31, 6.</ls> {#राघवस्य#} 
+<ls>ed. Bomb. 8, 1144.</ls> <ls>R. 4, 37, 12.</ls> <ls>Spr. (II) 4105.</ls> <ls>KATHĀS. 36, 92.</ls> <ls>RĀJA-TAR. 6, 317.</ls> <ls>BHĀG. P. 4, 31, 6.</ls> {#राघवस्य#} 
 <ls>R. 5, 26, 21.</ls> {#द्यूतपान°#} 
 <ls>M. 12, 45.</ls> {#भोगैश्वर्य°#} 
 <ls>BHAG. 2, 44.</ls> {#जिह्वालौल्य°#} 
@@ -464,7 +464,7 @@ v. l.) {#विस्तरे#}
 <ls>DHŪRTAS. 76, 6.</ls> ohne Ergänzung {%an der Welt hängend%} 
 <ls>BHĀG. P. 1, 19, 4. 14.</ls> {%verliebt%} 
 <ls>MBH. 4, 266.</ls> 
-<ls>Spr. (II) 1815. 3556</ls> ({#अति°#}). 
+<ls>Spr. (II) 1815.</ls> <ls n="Spr. (II)">3556</ls> ({#अति°#}). 
 <div n="2">— b) {%behaftet —, versehen mit%}: {#वाचा स्वरसंपत्प्रसक्तया#} (st. dessen {#°प्रयुक्तया#} 
 <ls>11</ls>) <ls>R. 4, 63, 7.</ls> 
 <div n="2">— c)
@@ -495,7 +495,7 @@ v. l.) {#विस्तरे#}
 <ls>MBH. 13, 1496.</ls> {#प्रसज्जन्ते कुब्जान्धजडवामनैः#} 
 <ls>Spr. (II) 5498.</ls> — {#°सक्त#} 
 <div n="1"> 1) {%an Etwas hängend, beschäftigt mit%}: {#°मनस्#} 
-<ls>MBH. 12, 840. 6579.</ls> {#अत्र#} 
+<ls>MBH. 12, 840.</ls> <ls n="MBH. 12,">6579.</ls> {#अत्र#} 
 <ls>Spr. (II) 4933.</ls> 
 <ls>MBH. 6, 3775.</ls> 
 <div n="1">— 2) {%anhaltend, fortwährend, dauernd%}: {#संप्रसक्तस्य वैरस्य कृतो ऽन्तः#} 
@@ -524,7 +524,7 @@ v. l.) {#विस्तरे#}
 <ls>AV. 12, 3, 13.</ls> {#विटपविषक्तजलार्द्रवल्कलेषु द्रुमेषु#} 
 <ls>ŚĀK. 31.</ls> {#°तूण#} 
 <ls>R. 3, 19, 27.</ls> {%stecken geblieben%}: {#काये शराः#} (mit der ed. Bomb. {#विषक्त#} st. {#विविक्त#} zu lesen) 
-<ls>MBH. 5, 7152. 7, 739.</ls> {#पथिषु च तत्र तत्र विषक्तः#} {%hängen —, stehen geblieben%} 
+<ls>MBH. 5, 7152.</ls> <ls n="MBH.">7, 739.</ls> {#पथिषु च तत्र तत्र विषक्तः#} {%hängen —, stehen geblieben%} 
 <ls>BHĀG. P. 5, 8, 10.</ls> {%hängend an, in%}: {#सभा खे विषक्तेव#} 
 <ls>MBH. 2, 385.</ls> 
 <ls>R. 6, 14, 19.</ls> {#तस्मिन्ननीकप्रमुखे विषक्ता दोधूयमाना महापाताकाः#} 
@@ -534,7 +534,7 @@ v. l.) {#विस्तरे#}
 <ls>BHĀG. P. 10, 39, 31.</ls> {#यस्यां विषक्तहृदयः#} 
 <ls>10, 75, 32.</ls> {%an der Welt hängend%} 
 <ls>8, 12, 39.</ls> {%hängend an%} so v. a. {%abhängig von%}: {#स्वशक्तिविषक्तं रागम्#} 
-<ls>DAŚAK. 66, 15.</ls> so v. a. {%eingepflanzt, eingeprägt%} (=  {#जनित#} Comm.): {#(मन्युः) विषक्तस्तीव्रेण व्रणितहृदयेन#} 
+<ls>DAŚAK. 66, 15.</ls> so v. a. {%eingepflanzt, eingeprägt%} (= {#जनित#} Comm.): {#(मन्युः) विषक्तस्तीव्रेण व्रणितहृदयेन#} 
 <ls>UTTARAR. 73, 12 (94, 12).</ls> 
 <div n="2">— b) {%suspensus%} so v. a. {%unterbrochen%}: von einer Kuh, welche aufhört Milch zu geben, 
 <ls>ṚV. 1, 117, 20.</ls> 
@@ -549,12 +549,12 @@ v. l.) {#विस्तरे#}
 
 <div n="p">— {#सम्#} pass. 
 <div n="1"> 1) {%hängen bleiben%}: {#न संसज्जत्यसौ#} (so ed. Bomb.) 
-<ls>MBH.5, 2223.</ls>
+<ls>MBH. 5, 2223.</ls>
 [Page7-0563]
 {#विषाणे समसज्जत#} 
 <ls>3, 17228.</ls> {%sich anhängen, zusammengerathen im Kampfe, handgemein werden mit%}: {#बाहुभिः (बाहुभ्यां) समसज्जेताम्#} 
 <ls>2, 917. 3, 11506. 4, 358.</ls> {#भीष्मः समसज्जत्किरीटिना#} 
-<ls>6, 3137. med. 3139. 3141.</ls> <ls>BHĀG. P. 8, 10, 8.</ls> {#राजानः समसज्जन्त समासाद्येतरेतरम्#} {%wurden handgemein%} 
+<ls>6, 3137.</ls> med. <ls>3139. 3141.</ls> <ls>BHĀG. P. 8, 10, 8.</ls> {#राजानः समसज्जन्त समासाद्येतरेतरम्#} {%wurden handgemein%} 
 <ls>MBH. 12, 7563.</ls> auch mit acc. so v. a. {%angreifen%}: {#(कुन्तिभोजम्) संससज्जतुराहवे#} (nach der Lesart der ed. Bomb. st. {#समसज्जतुस्#} der ed. Calc.; also {#सज्ज्#} als selbständige Wurzel behandelt) 
 <ls>MBH. 6, 1741.</ls> {%stocken%} von einer Rede: {#वचो हि परुषाक्षरं न च पदेषु संसज्जते#} ad 
 <ls>ŚĀK. 69, 2.</ls> {#वाचा संसज्जमानया#} 
@@ -568,8 +568,8 @@ v. l.) {#विस्तरे#}
 <div n="1">— 4) partic. {#संसक्त#} 
 <div n="2"> a) {%hängen geblieben%} so v. a. {%stockend%}: {#असंसक्ताक्षरपद#} 
 <ls>HARIV. 16160.</ls> {%feindlich zusammengerathen —, handgemein geworden mit%} (instr.) 
-<ls>MBH. 3, 668. 680. 6, 2363. 7, 1257. 14, 2416.</ls> 
-<ls>HARIV. 2737. 4116. 4303. 5060. 5069. 10464.</ls> 
+<ls>MBH. 3, 668.</ls> <ls n="MBH. 3,">680.</ls> <ls n="MBH.">6, 2363.</ls> <ls n="MBH.">7, 1257.</ls> <ls n="MBH.">14, 2416.</ls> 
+<ls>HARIV. 2737.</ls> <ls n="HARIV.">4116.</ls> <ls n="HARIV.">4303.</ls> <ls n="HARIV.">5060.</ls> <ls n="HARIV.">5069.</ls> <ls n="HARIV.">10464.</ls> 
 <ls>R. 6, 18, 17.</ls> {#दिवाकरो धूमकेतुना#} 
 <ls>86, 42.</ls> {%in unmittelbarer Berührung stehend, verbunden, vereinigt%}: {#परस्परम्#} 
 <ls>PAÑCAR. 4, 6, 7.</ls> {#सूक्ष्माणि परस्परम्#} 
@@ -583,7 +583,7 @@ v. l.) {#विस्तरे#}
 <ls>R. 2, 64, 68.</ls> {%verbunden mit%} so v. a. {%versehen mit%}: {#महेन्द्रायुधसंसक्तौ#} (so ist zu lesen, 
 v. l. {#°संयुक्तौ) - अम्बुदौ#} 
 <ls>HARIV. 3732.</ls> {#मूत्रश्लेष्मादि°#} 
-<ls>Spr. (II) 4909</ls> <ls>?(Conj.). PAÑCAR. 1, 7, 52</ls> (wohl {#संसक्तं#} zu lesen). {#सहस्रचक्र°#} 
+<ls>Spr. (II) 4909</ls> (<ls>Conj.).</ls> <ls>PAÑCAR. 1, 7, 52</ls> (wohl {#संसक्तं#} zu lesen). {#सहस्रचक्र°#} 
 <ls>11, 17. 2, 2, 90.</ls> {%dicht anliegend, anstossend, sich berührend%} 
 <ls>AK. 3, 2, 17.</ls> 
 <ls>H. 1451.</ls> {#पश्येमान्पार्थनिर्मुक्तान्संसक्तानिव गच्छतः (शरान्)#} 
@@ -600,7 +600,7 @@ v. l. {#°संयुक्तौ) - अम्बुदौ#}
 <ls>18, 108.</ls> 
 <div n="2">— b) {%geheftet, gerichtet auf%}: {#तस्यां °मनसः#} 
 <ls>MBH. 1, 6331.</ls> {#°चेतस्#} 
-<ls>Verz. d. Oxf. H. 256</ls>, {%a%}, 16. {%mit den Gedanken —, mit dem Herzen an Jmd%} oder {%Etwas hängend, ergeben, obliegend, beschäftigt mit%}: {#घृताच्याम्#} 
+<ls>Verz. d. Oxf. H. 256,a,16.</ls> {%mit den Gedanken —, mit dem Herzen an Jmd%} oder {%Etwas hängend, ergeben, obliegend, beschäftigt mit%}: {#घृताच्याम्#} 
 <ls>R. 4, 35, 7.</ls> {#परपुरुषसंसक्ता#} 
 <ls>Spr. (II) 1827, v. l.</ls> {#सर्वभोगेष्वसंसक्तः#} 
 <ls>R.7,3,2.</ls> <ls>Verz. d. Oxf. H. 51,a,9.</ls> {#कर्मसु#} 

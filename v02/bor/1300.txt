@@ -1,4 +1,4 @@
 <L>1300<pc>046<k1>atmospheric<k2>atmospheric
-<div n="lb"/>{@ATMOSPHERIC:@}¦ <div n="1">(1) {#वायवः#} ({#वी, वं#}); </div><div n="1">(2) {#वायव्यः#}
-<div n="lb"/>({#व्या, व्यं#}).</div>
+{@ATMOSPHERIC:@}¦ <div n="1">(1) {#वायवः#} ({#वी, वं#}); </div><div n="1">(2) {#वायव्यः#}
+({#व्या, व्यं#}).</div>
 <LEND>

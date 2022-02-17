@@ -1,4 +1,4 @@
 <L>16581<pc>509<k1>patronage<k2>patronage
-<div n="lb"/>{@PATRONAGE:@}¦ <div n="1">(1) {#साहाय्यम्#} (= aid); </div><div n="1">(2) {#आनु-#}
-<div n="lb"/>{#कूल्यम्#} (= favour); </div><div n="1">(3) {#सम्भावना#} (?).</div>
+{@PATRONAGE:@}¦ <div n="1">(1) {#साहाय्यम्#} (= aid); </div><div n="1">(2) {#आनु-#}
+{#कूल्यम्#} (= favour); </div><div n="1">(3) {#सम्भावना#} (?).</div>
 <LEND>

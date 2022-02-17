@@ -1,10 +1,10 @@
 <L>14965<pc>457<k1>more<k2>more
-<div n="lb"/>{@MORE@}¦ (adj.): <div n="1">(1) {#अधिकः#} ({#का, कं#}), {%m. devotion:%}
-<div n="lb"/>{#अधिका भक्तिः,#} <ls>K.</ls> ; <div n="xe">{%five times m. than it:%}</div> <div n="xs">{#ततः #}
-<div n="lb"/>{# पञ्चगुणाधिकम्,#}</div> Mah.; {%m. than twenty times:%}
-<div n="lb"/>{#अधिकविंशान्वारान्,#} Ana.; </div><div n="1">(2) {#अधिकतरः#} ({#रा, रं#})
-<div n="lb"/>(in comp.), <div n="xe">{%their trouble is m.:%}</div> <div n="xs">{#क्लेशोऽधिकतर-#}
-<div n="lb"/>{#स्तेषाम्,#}</div> G. Ph.: <div n="xe">{%something m.:%}</div> <div n="xs">{#अन्यदपि,#}</div> Sa.;
-<div n="lb"/><div n="xe">{%anything m.:%}</div> <div n="xs">{#अतोऽप्यपरम्,#}</div> Na.; {%what m.:%}
-<div n="lb"/>{#किमन्यत्,#} </div><div n="I">V</div>
+{@MORE@}¦ (adj.): <div n="1">(1) {#अधिकः#} ({#का, कं#}), {%m. devotion:%}
+{#अधिका भक्तिः,#} <ls>K.</ls> ; <div n="xe">{%five times m. than it:%}</div> <div n="xs">{#ततः #}
+{# पञ्चगुणाधिकम्,#}</div> Mah.; {%m. than twenty times:%}
+{#अधिकविंशान्वारान्,#} Ana.; </div><div n="1">(2) {#अधिकतरः#} ({#रा, रं#})
+(in comp.), <div n="xe">{%their trouble is m.:%}</div> <div n="xs">{#क्लेशोऽधिकतर-#}
+{#स्तेषाम्,#}</div> G. Ph.: <div n="xe">{%something m.:%}</div> <div n="xs">{#अन्यदपि,#}</div> Sa.;
+<div n="xe">{%anything m.:%}</div> <div n="xs">{#अतोऽप्यपरम्,#}</div> Na.; {%what m.:%}
+{#किमन्यत्,#} </div><div n="I">V</div>
 <LEND>

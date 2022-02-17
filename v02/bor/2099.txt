@@ -1,5 +1,5 @@
 <L>2099<pc>073<k1>bitterly<k2>bitterly
-<div n="lb"/>{@BITTERLY:@}¦ <div n="I">I Severly, cruelly: q. v.: {#निष्ठुरम्।#}</div>
-<div n="lb"/><div n="I">II Sorrowfully, piteously: q. v.: Ph. <div n="xe">{%wept%}
-<div n="lb"/>{%b.%}</div> <div n="xs">{#भृशं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अत्यन्तं रुरोद।#}</div></div>
+{@BITTERLY:@}¦ <div n="I">I Severly, cruelly: q. v.: {#निष्ठुरम्।#}</div>
+<div n="I">II Sorrowfully, piteously: q. v.: Ph. <div n="xe">{%wept%}
+{%b.%}</div> <div n="xs">{#भृशं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अत्यन्तं रुरोद।#}</div></div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>53802<pc>1162-b<k1>स्विद्<k2>स्विद्
 {#स्विद्#}¦ {%svid,%} cl. 4. P. {%svidyati, siṣveda,%}
-<div n="lb"/>{%svetsyati, asvidat, svettum,%} to sweat,
-<div n="lb"/>perspire; cl. 1. A. {%svedate, siṣvide, sveditum,%} to
-<div n="lb"/>be anointed; to be greasy or unctuous; to pour forth,
-<div n="lb"/>shed (?) ; to be disturbed: Caus. {%svedayati, -yitum,%}
-<div n="lb"/>Aor. {%asisvidat,%} to cause to sweat; to make warm,
-<div n="lb"/>heat: Desid. of Caus. {%sisvedayiṣati:%} Desid. {%si-%}
-<div n="lb"/>{%ṣvitsati:%} Intens. {%seṣvidyate, seṣvetti;%} [cf. Gr.
-<div n="lb"/><lang n="greek">ἱδ-ί-ω, ἷδος, ἱδ-ρό-ς, ἱδ-ρώ(τ)-ς, σίδηρος;</lang> Lat. <nsi>sud-</nsi>
-<div n="lb"/><nsi>ā-re, sud-or, sud-ariu-m;</nsi> Old Norse <nsi>sveit-i;</nsi> Old
-<div n="lb"/>Germ. <nsi>sveiz;</nsi> Goth. <nsi>sveitan;</nsi> Angl. Sax. <nsi>swœtan;</nsi>
-<div n="lb"/>Eng. <nsi>sweat.</nsi>]
+{%svetsyati, asvidat, svettum,%} to sweat,
+perspire; cl. 1. A. {%svedate, siṣvide, sveditum,%} to
+be anointed; to be greasy or unctuous; to pour forth,
+shed (?) ; to be disturbed: Caus. {%svedayati, -yitum,%}
+Aor. {%asisvidat,%} to cause to sweat; to make warm,
+heat: Desid. of Caus. {%sisvedayiṣati:%} Desid. {%si-%}
+{%ṣvitsati:%} Intens. {%seṣvidyate, seṣvetti;%} [cf. Gr.
+<lang n="greek">ἱδ-ί-ω, ἷδος, ἱδ-ρό-ς, ἱδ-ρώ(τ)-ς, σίδηρος;</lang> Lat. <nsi>sud-</nsi>
+<nsi>ā-re, sud-or, sud-ariu-m;</nsi> Old Norse <nsi>sveit-i;</nsi> Old
+Germ. <nsi>sveiz;</nsi> Goth. <nsi>sveitan;</nsi> Angl. Sax. <nsi>swœtan;</nsi>
+Eng. <nsi>sweat.</nsi>]
 <LEND>

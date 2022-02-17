@@ -1,5 +1,5 @@
 <L>20362<pc>636<k1>shell<k2>shell
-<div n="lb"/>{@SHELL@}¦ (v.): {#कोषम्#} <div n="xe">{%or%}</div> <div n="xs">{#कञ्चुकम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#त्वचम् अपनयति#}</div>
-<div n="lb"/>({#नी,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#निर्हरति#}</div> ({#हृ,#} c. 1.), {#उन्मुञ्चति#} {%or%}
-<div n="lb"/>{#मोचयति#} ({#मुच्,#} c. 6. and 10.), etc.
+{@SHELL@}¦ (v.): {#कोषम्#} <div n="xe">{%or%}</div> <div n="xs">{#कञ्चुकम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#त्वचम् अपनयति#}</div>
+({#नी,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#निर्हरति#}</div> ({#हृ,#} c. 1.), {#उन्मुञ्चति#} {%or%}
+{#मोचयति#} ({#मुच्,#} c. 6. and 10.), etc.
 <LEND>

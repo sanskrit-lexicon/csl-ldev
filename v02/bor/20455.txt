@@ -1,4 +1,4 @@
 <L>20455<pc>640<k1>shrewdness<k2>shrewdness
-<div n="lb"/>{@SHREWDNESS:@}¦ <div n="1">(1) {#चातुर्यम्;#} </div><div n="1">(2) {#चतुरता;#} </div><div n="1">(3) {#चातुरी;#}</div>
-<div n="lb"/><div n="1">(4) {#वैदग्ध्यम्;#} </div><div n="1">(5) {#विदग्धता:#} v. Also skill.</div>
+{@SHREWDNESS:@}¦ <div n="1">(1) {#चातुर्यम्;#} </div><div n="1">(2) {#चतुरता;#} </div><div n="1">(3) {#चातुरी;#}</div>
+<div n="1">(4) {#वैदग्ध्यम्;#} </div><div n="1">(5) {#विदग्धता:#} v. Also skill.</div>
 <LEND>

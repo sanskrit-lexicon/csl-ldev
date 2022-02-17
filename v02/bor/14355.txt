@@ -1,5 +1,5 @@
 <L>14355<pc>440<k1>measure<k2>measure
-<div n="lb"/>{@MEASURE@}¦ (v. i.): {#माति, परि-,#} ({#मा,#} c. 2.), <div n="xe">{%m. ing%}
-<div n="lb"/>{%8 cubits in length:%}</div> <div n="xs">{#कराष्टकमिता दैर्घ्ये,#}</div> Li.; <div n="xe">{%did%}
-<div n="lb"/>{%not m. in the sky:%}</div> <div n="xs">{#न ममौ नमस्तले,#}</div> Si. xiv. 75.
+{@MEASURE@}¦ (v. i.): {#माति, परि-,#} ({#मा,#} c. 2.), <div n="xe">{%m. ing%}
+{%8 cubits in length:%}</div> <div n="xs">{#कराष्टकमिता दैर्घ्ये,#}</div> Li.; <div n="xe">{%did%}
+{%not m. in the sky:%}</div> <div n="xs">{#न ममौ नमस्तले,#}</div> Si. xiv. 75.
 <LEND>

@@ -1,4 +1,4 @@
 <L>11200<pc>352<k1>horse-breaker<k2>horse-breaker
-<div n="lb"/>{@HORSE-BREAKER:@}¦ <div n="1">(1) {#अश्वशिक्षकः;#} </div><div n="1">(2) {#अश्वदमयितृ#}
-<div n="lb"/>(m.); </div><div n="1">(3) {#अश्वविनेतृ#} (m.).</div>
+{@HORSE-BREAKER:@}¦ <div n="1">(1) {#अश्वशिक्षकः;#} </div><div n="1">(2) {#अश्वदमयितृ#}
+(m.); </div><div n="1">(3) {#अश्वविनेतृ#} (m.).</div>
 <LEND>

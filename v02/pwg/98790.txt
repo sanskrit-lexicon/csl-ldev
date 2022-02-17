@@ -9,9 +9,9 @@
 <ls>MED. t. 63</ls> ({#शमान्वित#} mit 
 <ls>ŚKDR.</ls> zu lesen). 
 <ls>HALĀY. 2, 189. 244.</ls> 
-<ls>BṚH. ĀR. UP. 4, 4, 23</ls> (vgl. 
-<ls>VEDĀNTAS. (Allah.) No. 14.</ls> <ls>SARVADARŚANAS. 59, 21.</ls> {#श्रान्त#} 
-<ls>ŚAT. BR.</ls><ls>?). MAITRYUP. 2, 4. NṚS. TĀP. UP. in Ind. St. 9, 149. R. 2, 103, 22. RAGH. 12, 20. Spr. (II) 1399. 4180. 4772. (I) 2226</ls> ({#अ°#}). 
+<ls>BṚH. ĀR. UP. 4, 4, 23</ls>
+(vgl. <ls>VEDĀNTAS. (Allah.) No. 14.</ls> <ls>SARVADARŚANAS. 59, 21.</ls> {#श्रान्त#} <ls>ŚAT. BR.</ls>).
+<ls>MAITRYUP. 2, 4.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 149.</ls> <ls>R. 2, 103, 22.</ls> <ls>RAGH. 12, 20.</ls> <ls>Spr. (II) 1399.</ls> <ls n="Spr. (II)">4180.</ls> <ls n="Spr. (II)">4772.</ls> <ls n="Spr.">(I) 2226</ls> ({#अ°#}). 
 <ls>KATHĀS. 24, 105.</ls> <ls>WEBER, RĀMAT. UP. 356.</ls> <ls>BHĀG. P. 1, 2, 26. 3, 27, 8. 31, 34</ls> ({#अ°#}). 
 <ls>4, 6, 34. 9, 19, 29.</ls> {#°हृदय#} 
 <ls>CHĀND. UP. 8, 8, 3.</ls> {#शान्तात्मन्#} 
@@ -31,7 +31,7 @@ u.s.w. <ls>MAITRYUP. 6, 36.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 12
 <ls>BHĀG. P. 2, 2, 31. 3, 2, 15. 25, 38.</ls> {#तोय#} 
 <ls>MBH. 3, 2511.</ls> 
 <ls>Spr. 2976.</ls> 
-<ls>HARIV. 2981. fg. 2986.</ls> {#तेजस्#} 
+<ls>HARIV. 2981. fg.</ls> <ls n="HARIV.">2986.</ls> {#तेजस्#} 
 <ls>Spr. (II) 2789.</ls> {%mild%}: Rede 
 <ls>ŚAT. BR. 1, 1, 4, 12</ls> (superl.). 
 <ls>7, 3, 8. 4, 8.</ls> <ls>Spr. 2519, v. l.</ls> Geruch 
@@ -46,7 +46,7 @@ u.s.w. <ls>MAITRYUP. 6, 36.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 12
 <ls>SĀH. D. 238.</ls> {#न यत्र दुःखं न सुखं न चिन्ता न द्वेषरागौ न च काचिदिच्छा । रसः स शान्तः कथितो मुनीन्द्रैः सर्वेषु भावेषु शमप्रमाणः #}
 [Page7-0141]
 {# ॥#} 
-<ls>?92, 15. fg. R. 1, 4, 7 (3, 46 GORR.). PRAB. 2, 16. RĀJA-TAR. 1, 23.</ls> {%weich, schmiegsam%}: {#°शर्करवालुकाः#} 
+<ls>92, 15. fg.</ls> <ls>R. 1, 4, 7 (3, 46 GORR.).</ls> <ls>PRAB. 2, 16.</ls> <ls>RĀJA-TAR. 1, 23.</ls> {%weich, schmiegsam%}: {#°शर्करवालुकाः#} 
 <ls>HARIV. 9005, v. l.</ls> Im Ritual und der Auguralkunde (Gegens. {#दीप्त#}) {%zahm, mild, freundlich%} (im Gegensatz zu {%wild, der Ordnung widerstrebend); faustus%} 
 <ls>AV. 19, 9, 1. 2.</ls> {#°वृक्ष#} 
 <ls>KAUŚ. 13. 53. fg.</ls> {#°शाखा#} 21. {#पृथिवी#} 
@@ -63,10 +63,10 @@ u.s.w. <ls>MAITRYUP. 6, 36.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 12
 <ls>Ind. St. 10, 202).</ls> <ls>MBH. 3, 16875.</ls> <ls>Verz. d. B. H. No. 897.</ls> 
 <div n="2">— b) {%erloschen%}: {#अग्नि#} 
 <ls>ŚAT. BR. 14, 7, 1, 5. 6.</ls> {#शान्तार्चिरिव पावकः#} 
-<ls>MBH. 1, 5923. 6817.</ls> 
+<ls>MBH. 1, 5923.</ls> <ls n="MBH. 1,">6817.</ls> 
 <ls>R. 5, 21, 13.</ls> {#°रश्मिरिवादित्यः#} 
 <ls>6, 70, 50.</ls> {#ज्वरज्वालाः#} 
-<ls>Spr. (II) 1130. 1816.</ls> 
+<ls>Spr. (II) 1130.</ls> <ls n="Spr. (II)">1816.</ls> 
 <ls>KIR. 17, 16.</ls> 
 <ls>RĀJA-TAR. 3, 181.</ls> 
 <ls>BHĀG. P. 4, 28, 44. 9, 6, 55.</ls> 
@@ -85,8 +85,8 @@ u.s.w. <ls>MAITRYUP. 6, 36.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 12
 <ls>ŚIŚ. 4, 22.</ls> 
 <ls>KATHĀS. 26, 32. 36, 84. 47, 54. 70, 73.</ls> 
 <ls>RĀJA-TAR. 1, 15</ls> ({#शान्ताशेष°#} zu lesen). 
-<ls>92. 102. 106. 3, 192. 420. 6, 310.</ls> <ls>Spr. (II) 1810.</ls> <ls>DAŚAK. 73, 5.</ls> <ls>Verz. d. Oxf. H. 55</ls>, {%a%}, 
-<ls>1 v. u. 379</ls>, {%a%}, 
+<ls>92. 102. 106. 3, 192. 420. 6, 310.</ls> <ls>Spr. (II) 1810.</ls> <ls>DAŚAK. 73, 5.</ls> <ls>Verz. d. Oxf. H. 55,a,</ls> 
+<ls>1</ls> v. u. <ls>379,a,</ls> 
 <ls>14.</ls> <ls>BHĀG. P. 3, 21, 37. 4, 2, 2. 7, 33.</ls> <ls>HIT. 80, 21.</ls> 
 <div n="2">— d) von Geschossen so v. a. {%unwirksam —, unschädlich gemacht%} 
 <ls>MBH. 1, 212.</ls> 
@@ -108,7 +108,7 @@ u.s.w. <ls>MAITRYUP. 6, 36.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 12
 <ls>90, 195.</ls> dies ist das indecl. {#शान्तं वारणे#} 
 <ls>MED.</ls> 
 <div n="2">— f) {%zur Ruhe gekommen, - gebracht%} so v. a. {%zum Tode befördert%}: {#सुप्रतीकेन नागेन स हि शान्तः#} 
-<ls>MBH. 1, 531. 7523.</ls> {#शान्तारि#} 
+<ls>MBH. 1, 531.</ls> <ls n="MBH. 1,">7523.</ls> {#शान्तारि#} 
 <ls>R. 4, 27, 5.</ls> {%verstorben%}: {#शान्ते पितरि#} {%nach dem Tode des Vaters%} 
 <ls>RAGH. 18, 7.</ls> 
 <ls>RĀJA-TAR. 2, 56. 4, 332. 402.</ls> {#गोनन्दसंततिरजायत तत्र शान्ता#} {%starb aus%} 
@@ -126,7 +126,7 @@ u.s.w. <ls>MAITRYUP. 6, 36.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 12
 <div n="1">— 3) <lex>f.</lex> {#आ#} N. pr. 
 <div n="2"> a) einer Tochter <is>Daśaratha's</is>, Adoptivtochter <is>Lomapāda's</is> (<is>Romapāda's</is>) und Gattin <is>Ṛṣyaśṛṅga's</is>, 
 <ls>MBH. 12, 8609.</ls> 
-<ls>HARIV. 1697. 8673. fgg.</ls> 
+<ls>HARIV. 1697.</ls> <ls n="HARIV.">8673. fgg.</ls> 
 <ls>R. 1, 8, 16. 25. 10, 3.</ls> 
 <ls>UTTARAR. 4, 16 (7, 7). 80, 3 (103, 3). 128, 12 (173, 9).</ls> <ls>BHĀG. P. 9, 23, 7.</ls> 
 <div n="2">— b) einer Göttin, die die Befehle des 7ten <is>Arhant's</is> ausführt, 

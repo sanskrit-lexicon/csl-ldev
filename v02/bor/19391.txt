@@ -1,6 +1,6 @@
 <L>19391<pc>602<k1>risk<k2>risk
-<div n="lb"/>{@RISK:@}¦ <div n="I">I Subs.: {#सङ्कटम्:#} v. Danger, peril.</div>
-<div n="lb"/><div n="I">II Verb.: </div><div n="1">(1) {#संशये, सन्देहे#} <div n="xe">{%or%}</div> <div n="xs">{#सङ्कटे क्षिपति, नि-,#}</div>
-<div n="lb"/>({#क्षिप्,#} c. 6.), etc.: </div><div n="1">(2) {#संशयस्थं#} (f. {#स्थां#}),
-<div n="lb"/>etc. {#करोति।#}</div>
+{@RISK:@}¦ <div n="I">I Subs.: {#सङ्कटम्:#} v. Danger, peril.</div>
+<div n="I">II Verb.: </div><div n="1">(1) {#संशये, सन्देहे#} <div n="xe">{%or%}</div> <div n="xs">{#सङ्कटे क्षिपति, नि-,#}</div>
+({#क्षिप्,#} c. 6.), etc.: </div><div n="1">(2) {#संशयस्थं#} (f. {#स्थां#}),
+etc. {#करोति।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>6461<pc>207<k1>dismissal<k2>dismissal
-<div n="lb"/>{@DISMISSAL.,@}¦ {@DISMISSION:@} <div n="I">I Leave to depart:
-<div n="lb"/>{#विसर्जनम्।#} </div><div n="I">II From employment: {#अधिकार-#}
-<div n="lb"/>{#च्युतिः,#} Nil, and sim. comp. s etc.: v. To
-<div n="lb"/>dismiss (II).</div>
+{@DISMISSAL.,@}¦ {@DISMISSION:@} <div n="I">I Leave to depart:
+{#विसर्जनम्।#} </div><div n="I">II From employment: {#अधिकार-#}
+{#च्युतिः,#} Nil, and sim. comp. s etc.: v. To
+dismiss (II).</div>
 <LEND>

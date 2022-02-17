@@ -1,4 +1,4 @@
 <L>17398<pc>532<k1>poppy<k2>poppy
-<div n="lb"/>{@POPPY:@}¦ {#खसतिलः,#} <div n="xe">{%p. -seeds:%}</div> <div n="xs">{#खसबीजानि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#खसतिलाः,#}</div>
-<div n="lb"/>Bha.; <div n="xe">{%p. -juice:%}</div> <div n="xs">{#खसफलक्षीरम्,#}</div> Bha.
+{@POPPY:@}¦ {#खसतिलः,#} <div n="xe">{%p. -seeds:%}</div> <div n="xs">{#खसबीजानि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#खसतिलाः,#}</div>
+Bha.; <div n="xe">{%p. -juice:%}</div> <div n="xs">{#खसफलक्षीरम्,#}</div> Bha.
 <LEND>

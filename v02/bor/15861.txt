@@ -1,8 +1,8 @@
 <L>15861<pc>487<k1>once<k2>once
-<div n="lb"/>{@ONCE,@}¦ {@AT@}: <div n="I">I. At the same time: </div><div n="1">(1) {#युगपत्;#}</div>
-<div n="lb"/><div n="1">(2) {#समकालम्;#} </div><div n="1">(3) {#एकावसरम्;#} </div><div n="1">(4) {#समम्,#} Ki.
-<div n="lb"/>Ph.: <div n="xe">{%at o. perspicuous and deep:%}</div> <div n="xs">{#प्रसन्नगम्भीरः#}</div>
-<div n="lb"/>({#रा, रं#}), Ki.; <div n="xe">{%at o. terrific and pleasant:%}</div> <div n="xs">{#भीम-#}
-<div n="lb"/>{#कान्तः#}</div> ({#न्ता, न्तं#}), <ls>B.</ls> </div><div n="I">II. Immediately: q.v.:</div>
-<div n="lb"/><div n="1">(1) {#सद्यः;#} </div><div n="1">(2) {#तत्क्षणात्।#}</div>
+{@ONCE,@}¦ {@AT@}: <div n="I">I. At the same time: </div><div n="1">(1) {#युगपत्;#}</div>
+<div n="1">(2) {#समकालम्;#} </div><div n="1">(3) {#एकावसरम्;#} </div><div n="1">(4) {#समम्,#} Ki.
+Ph.: <div n="xe">{%at o. perspicuous and deep:%}</div> <div n="xs">{#प्रसन्नगम्भीरः#}</div>
+({#रा, रं#}), Ki.; <div n="xe">{%at o. terrific and pleasant:%}</div> <div n="xs">{#भीम-#}
+{#कान्तः#}</div> ({#न्ता, न्तं#}), <ls>B.</ls> </div><div n="I">II. Immediately: q.v.:</div>
+<div n="1">(1) {#सद्यः;#} </div><div n="1">(2) {#तत्क्षणात्।#}</div>
 <LEND>

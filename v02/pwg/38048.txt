@@ -28,7 +28,7 @@
 <ls>YĀJÑ. 2, 58.</ls> {#जा\या विव^स्वतो ननाश#} 
 <ls>ṚV. 10, 17, 1.</ls> 
 <ls>AIT. BR. 7, 10.</ls> {#मा स्म नो भरता नशन्#} {%entwischen%} 
-<ls>MBH. 5, 2736.</ls> {#नेशुश्चित्रा निशाचराः#} (=  {#पलांयिताः#} Schol.) 
+<ls>MBH. 5, 2736.</ls> {#नेशुश्चित्रा निशाचराः#} (= {#पलांयिताः#} Schol.) 
 <ls>BHAṬṬ. 14, 112.</ls> {#नष्ट = पलायित#} 
 <ls>H. 805.</ls> {#मार्गा नष्टा वनोद्भवाः#} {%sind verschwunden, nicht mehr zu sehen%} 
 <ls>MBH. 3, 2541.</ls> {#नङ्क्ष्यति शिवस्तव वेदपन्थाः#} 
@@ -54,12 +54,12 @@
 <ls>AIT. BR. 5, 28.</ls> {#यदि कपालं नश्येत्#} 
 <ls>7, 9.</ls> <ls>TS. 2, 6, 3, 5.</ls> <ls>ŚĀṄKH. ŚR. 13, 3, 2.</ls> <ls>GṚHY. 5, 8.</ls> {#प्रज्ञा नश्यति#} 
 <ls>M. 4, 52.</ls> {#धर्मो ऽनशत्तदा#} 
-<ls>MBH. 13, 1313. 3, 8494.</ls> {#ततो नङ्क्ष्यति ते धर्मः#} 
+<ls>MBH. 13, 1313.</ls> <ls n="MBH.">3, 8494.</ls> {#ततो नङ्क्ष्यति ते धर्मः#} 
 <ls>KATHĀS. 15, 78.</ls> {#ज्ञानानि नङ्क्षन्ति (नङ्क्ष्यन्ति#} zu lesen) 
 <ls>MBH. 12, 1860.</ls> {#महान्धर्मो नशिष्यति#} 
 <ls>4, 680.</ls> {#नष्टो मोहः#} 
 <ls>BHAG. 18, 73.</ls> {#नष्टसंज्ञ#} 
-<ls>MBH. 1, 3147. 3, 2867.</ls> {#नष्टात्मन्#} 
+<ls>MBH. 1, 3147.</ls> <ls n="MBH.">3, 2867.</ls> {#नष्टात्मन्#} 
 <ls>2361.</ls> {#°रूप#} 
 <ls>2904.</ls> {#°चेतन#} 
 <ls>SUŚR. 1, 255, 9.</ls> {#°स्वरता#} 
@@ -70,7 +70,7 @@
 <ls>PAÑCAT. 38, 4.</ls> {#ननाशैकपदे रोषः#} 
 <ls>R. 6, 72, 69.</ls> {#नश्यन्ति हव्यकव्यानि नराणामविजानताम्#} so v. a. {%zu Nichte werden, keinen Erfolg haben, ohne Nutzen sein, vergeblich sein%} 
 <ls>M. 3, 97.</ls> {#नष्टं देवलके दत्तम्#} 180. {#तपांसि मम नष्टानि व्रतानि मे ऽखिलानि च#} 
-<ls>BRAHMA-P.</ls> in <ls>LA. 58, 7.</ls> {#अविवेकिनि भूपाले नश्यन्ति गुणिनो गुणाः । प्रवासरासके कान्ते यथा साध्व्याः स्तनोन्नतिः ॥#} {%umsonst da sein%} 
+<ls>BRAHMA-P. in LA. 58, 7.</ls> {#अविवेकिनि भूपाले नश्यन्ति गुणिनो गुणाः । प्रवासरासके कान्ते यथा साध्व्याः स्तनोन्नतिः ॥#} {%umsonst da sein%} 
 <ls>Spr. 254.</ls> {#कृतं यस्मिन्न नश्यति#} {%dem eine Wohlthat nicht vergebens erwiesen worden ist%} 
 <ls>MBH. 1, 6116.</ls> {#नश्यतीषुर्यथाविद्धः खे विद्धमनुविध्यतः । तथा नश्यति वै क्षिप्रं वीजं परपरिग्रहे ॥#} 
 <ls>M. 9, 43.</ls> {#असंतुष्ठा द्विजा नष्टाः संतुष्टा इव पार्थिवाः#} {%sind verloren%} so v. a. {%bringen es zu Nichts%} 
@@ -78,7 +78,7 @@
 <ls>M. 3, 205. 9, 314.</ls> {#प्रेत्य चेह च नश्यति#} 
 <ls>8, 111. 171.</ls> <ls>MBH. 3, 1098.</ls> <ls>PAÑCAT. 47, 15.</ls> {#प्राणेषु नश्यत्सु#} (so ist zu lesen) 
 <ls>BHARTṚ. 2, 22.</ls> {#जीवनाशं ननाश च#} 
-<ls>BHAṬṬ. 14, 31.</ls> {#ग्रहीता यदि नष्टः#} (Schol.=  {#मृतः) स्यात्#} 
+<ls>BHAṬṬ. 14, 31.</ls> {#ग्रहीता यदि नष्टः#} (Schol.= {#मृतः) स्यात्#} 
 <ls>M. 8, 166.</ls> {#बहवो ऽविनयान्नष्टा राजानः सपरिच्छदाः#} 
 <ls>7, 40.</ls> <ls>PRAB. 52, 1.</ls> {#अनावृष्ट्या कृषिर्नष्टा#} 
 <ls>DHŪRTAS. 76, 18.</ls> 
@@ -88,9 +88,9 @@
 <ls>ṚV. 9, 79, 1.</ls> {#नशेमहि सदा निशि#} {%verschwinden, sich unsichtbar machen%} 
 <ls>MBH. 7, 685.</ls> {#अपसर्पत नश्यध्वम्#} {%verschwindet, macht dass ihr fortkommt%} 
 <ls>R. 5, 27, 24.</ls> {#(अशुभं कर्म) तत्सर्वं नश्यते तत्र स्नातमात्रस्य#} 
-<ls>MBH. 3, 7014. 7069. 13245.</ls> {#न चास्या नश्यते रूपम्#} 
+<ls>MBH. 3, 7014.</ls> <ls n="MBH. 3,">7069.</ls> <ls n="MBH. 3,">13245.</ls> {#न चास्या नश्यते रूपम्#} 
 <ls>N. 17, 7.</ls> {#स नश्येत मृषा वदन्#} {%zu Grunde gehen%} 
-<ls>MBH. 1, 3414. 3, 10701.</ls> {#यावन्न नङ्क्ष्यामहे#} 
+<ls>MBH. 1, 3414.</ls> <ls n="MBH.">3, 10701.</ls> {#यावन्न नङ्क्ष्यामहे#} 
 <ls>BHĀG. P. 4, 17, 11.</ls>
 
 <div n="p">— caus. {#नाश/यति, अनीनशत्#}; {%verschwinden machen, vertreiben; vertilgen, zerstören, zu Grunde richten%}: {#क्षे\त्रिय\ं नाश^यामि\ त्वत्#} 
@@ -126,12 +126,12 @@
 <ls>KULL.</ls> zu <ls>M. 8, 367. fgg.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 191, 10.</ls> Nach <ls>P. 1, 3, 86</ls> und <ls>VOP. 22, 2</ls> stets act.; dass med. haben wir in den folgenden Stellen: {#शोको नाशयते धैर्यं शोको नाशयते श्रुतम् । शोको नाशयते सर्वम्#} 
 <ls>R. 2, 62, 15.</ls> 
 <ls>M. 3, 175.</ls> {#दातुर्नाशयते फलम्#} 177. {#कृतं पुरुषकारं हि दैवं नाशयते क्षणात्#} 
-<ls>HARIV. 10087. 1167.</ls> {#नाशयते चित्तम्#} 
+<ls>HARIV. 10087.</ls> <ls n="HARIV.">1167.</ls> {#नाशयते चित्तम्#} 
 <ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 50,b,26.</ls> Der aor. in der Bed. des simpl.: {#मा व्याघ्रा नीनशुर्वनात्#} {%verschwinden aus%} 
 <ls>MBH. 5, 862</ls>; vgl. u. {#वि#} .
 
 <div n="p">— desid. {#निनशिष्यति#} und {#निनङ्क्षति#} 
-<ls>P. 7, 1, 60. 2,</ls> <ls>?45; s.</ls> {#निनङ्क्षु#} .
+<ls>P. 7, 1, 60. 2,</ls> <ls>45; s.</ls> {#निनङ्क्षु#} .
 
 <div n="p">— {#अनु#} s. {#अनुनाश#} .
 
@@ -170,12 +170,12 @@
 <ls>15, 49.</ls> {#प्रनष्टुम्#} 54. partic. {#प्रनष्ट#} (häufig fälschlich {#प्रणष्ट#} geschrieben) {%verloren gegangen, verloren, geschwunden, verschwunden, nicht zu sehen, dahingegangen%} 
 <ls>M. 8, 30. 33. 34.</ls> 
 <ls>YĀJÑ. 2, 33.</ls> 
-<ls>MBH. 1, 4359. 7673. 3, 2967. 8735. 13, 2611.</ls> 
+<ls>MBH. 1, 4359.</ls> <ls n="MBH. 1,">7673.</ls> <ls n="MBH.">3, 2967.</ls> <ls n="MBH. 3,">8735.</ls> <ls n="MBH.">13, 2611.</ls> 
 <ls>BHAG. 18, 72.</ls> 
 <ls>R. 1, 20, 17. 61, 6. 7. 2, 33, 20. 75, 45. 4, 27, 9. 5, 15, 37. 71, 7.</ls> 
-<ls>VARĀH. BṚH. S. 78, 23</ls> <ls>?= 93, 3. KATHĀS. 4, 25. RĀJA-TAR. 5, 211.</ls> {%der sich aus dem Staube gemacht hat%} 
+<ls>VARĀH. BṚH. S. 78, 23</ls> = <ls>93, 3.</ls> <ls>KATHĀS. 4, 25.</ls> <ls>RĀJA-TAR. 5, 211.</ls> {%der sich aus dem Staube gemacht hat%} 
 <ls>PAÑCAT. 89, 20.</ls> 
-<ls>VET.</ls> in <ls>LA. 22, 11.</ls> — caus. {%verschwinden machen%}: {#छा\यामि^व\ प्र तान्सूर्य^ः परि\क्राम^न्ननीनशत्#} 
+<ls>VET. in LA. 22, 11.</ls> — caus. {%verschwinden machen%}: {#छा\यामि^व\ प्र तान्सूर्य^ः परि\क्राम^न्ननीनशत्#} 
 <ls>AV. 8, 6, 8.</ls> {#गाण्डीवशब्देन प्रणाशय तत्र वै बलम्#} 
 <ls>MBH. 7, 327.</ls> 
 <ls>HARIV. 8877.</ls> {#पाप्मानं मे प्रणाशय#} 
@@ -227,18 +227,18 @@
 <ls>PRAB. 37, 7.</ls> {#विनशेत्#} 
 <ls>MBH. 3, 2289.</ls> {#विनशिष्यन्ति#} 
 <ls>1, 3491. 6163. 13, 1815. 1894. 1898. 1899.</ls> <ls>R. 2, 51, 15. 16. 63, 44.</ls> {#विनङ्क्ष्यामि#} 
-<ls>MBH. 3, 2861. 2864.</ls> 
+<ls>MBH. 3, 2861.</ls> <ls n="MBH. 3,">2864.</ls> 
 <ls>BHAG. 18, 58.</ls> 
 <ls>R. 3, 45, 16. 17. 54, 25. 6, 14, 9.</ls> 
 <ls>BHAṬṬ. 16, 26.</ls> {#विनङ्क्षन्ति#} (sic) 
-<ls>MBH. 1, 4973.</ls> med. <ls>MBH. 1, 3147. 6187. 3, 10700.</ls> <ls>R. 5, 80, 21.</ls> {#विनष्ट#} {%verloren gegangen, verschwunden%}: {#अस्थिविनष्टशल्य#} 
+<ls>MBH. 1, 4973.</ls> med. <ls>MBH. 1, 3147.</ls> <ls n="MBH. 1,">6187.</ls> <ls n="MBH.">3, 10700.</ls> <ls>R. 5, 80, 21.</ls> {#विनष्ट#} {%verloren gegangen, verschwunden%}: {#अस्थिविनष्टशल्य#} 
 <ls>SUŚR. 1, 24, 10.</ls> {#सोदरी पुनरस्य ग्रहणविप्लवे विनष्टा । तदन्वेषणाय यतिष्ये#} 
 <ls>MĀLAV. 9, 3.</ls> {#°चक्षुस्#} 
 <ls>MBH. 3, 16665.</ls> {#°दृष्टि#} 
 <ls>BHĀG. P. 3, 1, 6.</ls> {#°धर्मे देशे#} 
 <ls>RĀJA-TAR. 1, 314.</ls> {%zu Grunde gegangen, umgekommen%}: {#वेणो विनष्टो ऽविनयात्#} 
 <ls>M. 7, 41.</ls> 
-<ls>MBH. 1, 6188. 2, 2518.</ls> {#हा हतास्मि विनष्टास्मि भीतास्मि विजने वने#} {%ich bin verloren%} 
+<ls>MBH. 1, 6188.</ls> <ls n="MBH.">2, 2518.</ls> {#हा हतास्मि विनष्टास्मि भीतास्मि विजने वने#} {%ich bin verloren%} 
 <ls>3, 2364.</ls> <ls>PAÑCAT. 21, 3. I, 324.</ls> {#विनष्टा वा प्रनष्टा वा भक्षिता वापि मैथिली#} 
 <ls>R. 5, 15, 37.</ls> {#विनष्टं वा प्रनष्टं वा न युक्तमनुशोचितुम्#} 
 <ls>71, 7.</ls> {#नष्टं विनष्टं कृमिभिः श्वहतं विषमे मृतम् (पशुम्)#} 
@@ -260,8 +260,8 @@
 <ls>9, 109.</ls> {#नरं रुजार्तिमन्तं च वातव्याधिर्विनाशयेत्#} {%aufreiben%} 
 <ls>SUŚR. 1, 120, 1.</ls> 
 <ls>R. 2, 24, 22.</ls> {#ऊर्ध्वकरो दिवसकरस्ताम्रः सेनापतिं विनाशयति#} {%stürzt ihn in's Verderben%} 
-<ls>VARĀH. BṚH. S.3,21. 25. 11,54. 83</ls> <ls>(80,c),6.</ls> {#अबर्हान्मांसभूतान्नः क्रव्यादाखुर्विनाशयेत्#} {%umbringen%} 
-<ls>MBH. 1, 8382.16, 275.</ls> 
+<ls>VARĀH. BṚH. S.3,21. 25. 11,54. 83</ls> (<ls>80,c),6.</ls> {#अबर्हान्मांसभूतान्नः क्रव्यादाखुर्विनाशयेत्#} {%umbringen%} 
+<ls>MBH. 1, 8382.</ls> <ls n="MBH.">16, 275.</ls> 
 <ls>HARIV. 4251.</ls> 
 <ls>R. 3, 16, 18.</ls> 
 <ls>PAÑCAT. 71, 24. 87, 24. 98, 22.</ls> 
@@ -272,9 +272,9 @@
 <ls>AV. 11, 10, 16.</ls> {%zugeben, dass Etwas zu Grunde geht%} 
 <ls>RAGH. 2, 56.</ls> Auffallend ist die Verbindung mit einem gen. in der Stelle: {#विनाशयति पातो ऽस्मिन् लोकानामसकृद्यतः#} 
 <ls>SŪRYAS. 11, 4.</ls> Der aor. in der intrans. Bed. des simpl. {%zu Grunde gehen, umkommen%} 
-<ls>MBH. 4, 426. 5, 767.</ls> 
+<ls>MBH. 4, 426.</ls> <ls n="MBH.">5, 767.</ls> 
 <ls>R. 2, 110, 30</ls>; vgl. das caus. vom simpl. — desid. vom caus. {#विनाशयिषितः#} (ohne Redupl.!) 
-<ls>DAŚAK. 112, 3 v. u.</ls>
+<ls>DAŚAK. 112, 3</ls> v. u.
 
 <div n="p">— {#अनुवि#} {%nach%} oder {%mit Jmd verschwinden, - vergehen, - zu Grunde gehen%}: {#न\दीना\ं फेना\ँ अनु\ तान्वि न^श्य#} 
 <ls>AV. 6, 113, 2.</ls> 

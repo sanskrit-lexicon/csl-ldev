@@ -1,6 +1,6 @@
 <L>9395<pc>298<k1>freeze<k2>freeze
-<div n="lb"/>{@FREEZE@}¦ (v.i.): <div n="I">I Lit.: {#शिलीभवति,#} <div n="xe">{%where even%}
-<div n="lb"/>{%on roads where snow has frozen:%}</div> <div n="xs">{#मार्गे शिलीभूत-#}
-<div n="lb"/>{#हिमेऽपियत्र,#}</div> Ku. i. 11.; {#घनीभवति।#} (= to congeal).</div>
-<div n="lb"/><div n="I">II Fig.: {#जडीभवति#} (nomi.)</div>
+{@FREEZE@}¦ (v.i.): <div n="I">I Lit.: {#शिलीभवति,#} <div n="xe">{%where even%}
+{%on roads where snow has frozen:%}</div> <div n="xs">{#मार्गे शिलीभूत-#}
+{#हिमेऽपियत्र,#}</div> Ku. i. 11.; {#घनीभवति।#} (= to congeal).</div>
+<div n="I">II Fig.: {#जडीभवति#} (nomi.)</div>
 <LEND>

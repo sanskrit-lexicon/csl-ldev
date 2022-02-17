@@ -6,8 +6,8 @@
 <ls>TRIK. 3, 3, 8.</ls> 
 <ls>H. 1021.</ls> 
 <ls>an. 3, 14.</ls> 
-<ls>MED. k. 53</ls> <ls>?(m. n.). HĀR. 64. M. 4, 66.</ls> {#करकान्#} 
-<ls>MBH. 1, 7085. 13, 3300.</ls> 
+<ls>MED. k. 53</ls> (m. n.). <ls>HĀR. 64</ls>. <ls>M. 4, 66.</ls> {#करकान्#} 
+<ls>MBH. 1, 7085.</ls> <ls n="MBH.">13, 3300.</ls> 
 <ls>R. 5, 14, 51.</ls> {#हिरण्मयैः करकैः#} 
 <ls>48.</ls> {#पालीः सकरकाः#} 
 <ls>MBH. 14, 1926.</ls> <lex>m.</lex> <lex>n.</lex> {%eine in Form eines Krugs ausgehöhlte Kokosnuss%} 
@@ -15,8 +15,8 @@
 <ls>MED.</ls> <lex>m.</lex> {%Schale der Kokosnuss%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Vgl. {#करङ्क#} und {#करकाम्भस्#} . 
 <div n="1">— 2) {%Hagel%}, <lex>m.</lex> 
-<ls>H. 166</ls> (nach dem 
-<ls>Sch.</ls><ls>?: m. f. n.). H. an. m. f. MED.</ls> {#करका#} 
+<ls>H. 166</ls> (nach dem <ls>Sch.</ls>: m. f. n.).
+<ls>H. an. m. f.</ls> <ls>MED.</ls> {#करका#} 
 <ls>AK. 1, 1, 2, 13.</ls> 
 <ls>TRIK. 1, 1, 83. 3, 3, 7.</ls> 
 <ls>MEGH. 55.</ls> {#करकाभिघातैः#} 

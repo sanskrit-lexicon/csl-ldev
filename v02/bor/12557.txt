@@ -1,7 +1,7 @@
 <L>12557<pc>389<k1>interval<k2>interval
-<div n="lb"/>{@INTERVAL:@}¦ <div n="1">(1) {#अन्तरम्;#} </div><div n="1">(2) {#अन्तरालः,#} {%without i.:%}
-<div n="lb"/>{#निरन्तरालः#} ({#ला, लं#}), Ki.; <div n="xe">{%in the i.:%}</div> <div n="xs">{#अन्तराले,#}</div> I.:
-<div n="lb"/>v. Also permission. Ph.: {%after so long an i.:%}
-<div n="lb"/>{#एतावत्कालान्तरम्;#} {%but on his saying without i.:%}
-<div n="lb"/>{#तद्वाक्यसमकालन्तु,#} Mah. i. 131. 14.</div>
+{@INTERVAL:@}¦ <div n="1">(1) {#अन्तरम्;#} </div><div n="1">(2) {#अन्तरालः,#} {%without i.:%}
+{#निरन्तरालः#} ({#ला, लं#}), Ki.; <div n="xe">{%in the i.:%}</div> <div n="xs">{#अन्तराले,#}</div> I.:
+v. Also permission. Ph.: {%after so long an i.:%}
+{#एतावत्कालान्तरम्;#} {%but on his saying without i.:%}
+{#तद्वाक्यसमकालन्तु,#} Mah. i. 131. 14.</div>
 <LEND>

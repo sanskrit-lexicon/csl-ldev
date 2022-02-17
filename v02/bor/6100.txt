@@ -1,4 +1,4 @@
 <L>6100<pc>196<k1>diamond<k2>diamond
-<div n="lb"/>{@DIAMOND:@}¦ <div n="1">(1) {#हीरम्#} <div n="xe">{%or%}</div> <div n="xs">{#हीरकम्;#}</div> </div><div n="1">(2) {#वज्र#} (mn.)
-<div n="lb"/>(rare).</div>
+{@DIAMOND:@}¦ <div n="1">(1) {#हीरम्#} <div n="xe">{%or%}</div> <div n="xs">{#हीरकम्;#}</div> </div><div n="1">(2) {#वज्र#} (mn.)
+(rare).</div>
 <LEND>

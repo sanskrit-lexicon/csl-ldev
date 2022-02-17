@@ -1,4 +1,4 @@
 <L>12659<pc>392<k1>invigoration<k2>invigoration
-<div n="lb"/>{@INVIGORATION:@}¦ <div n="1">(1) {#बलदानम्,#} Bha; </div><div n="1">(2) {#सत्त्वोपचयः;#}</div>
-<div n="lb"/><div n="1">(3) {#तेजोवृद्धिः।#}</div>
+{@INVIGORATION:@}¦ <div n="1">(1) {#बलदानम्,#} Bha; </div><div n="1">(2) {#सत्त्वोपचयः;#}</div>
+<div n="1">(3) {#तेजोवृद्धिः।#}</div>
 <LEND>

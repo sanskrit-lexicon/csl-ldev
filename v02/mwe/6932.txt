@@ -1,7 +1,7 @@
 <L>6932<pc>156-a<k1>date<k2>date
-<div n="lb"/>DATE¦, {%s.%} (Time at which a letter, &c. is written) {#लिखनकालः,#}
-<div n="lb"/>{#लिखनदिवसः, दिवसः, दिनं, तिथिः#} {%m. f.%} — (Time at which a
-<div n="lb"/>thing was done) {#कालः, कालिकता, तत्कालः#}. — (Period, term)
-<div n="lb"/>{#अवधिः#} {%m.,%} {#कालावधिः#} {%m.,%} {#परिमाणं#}. — (Fruit) {#खर्ज्जूरः, काठिनः;#}
-<div n="lb"/>‘out of date,’ {#अव्यवहारितः -ता -तं, निरुक्तः -क्ता -क्तं#}.
+DATE¦, {%s.%} (Time at which a letter, &c. is written) {#लिखनकालः,#}
+{#लिखनदिवसः, दिवसः, दिनं, तिथिः#} {%m. f.%} — (Time at which a
+thing was done) {#कालः, कालिकता, तत्कालः#}. — (Period, term)
+{#अवधिः#} {%m.,%} {#कालावधिः#} {%m.,%} {#परिमाणं#}. — (Fruit) {#खर्ज्जूरः, काठिनः;#}
+‘out of date,’ {#अव्यवहारितः -ता -तं, निरुक्तः -क्ता -क्तं#}.
 <LEND>

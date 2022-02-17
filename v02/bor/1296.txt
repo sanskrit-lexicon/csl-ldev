@@ -1,4 +1,4 @@
 <L>1296<pc>045<k1>athletic<k2>athletic
-<div n="lb"/>{@ATHLETIC:@}¦ v. Strong, robust, Ph.: <div n="xe">{%a.%}
-<div n="lb"/>{%exercise:%}</div> <div n="xs">{#व्यायामः।#}</div>
+{@ATHLETIC:@}¦ v. Strong, robust, Ph.: <div n="xe">{%a.%}
+{%exercise:%}</div> <div n="xs">{#व्यायामः।#}</div>
 <LEND>

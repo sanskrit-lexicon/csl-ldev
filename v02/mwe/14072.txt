@@ -1,5 +1,5 @@
 <L>14072<pc>339-b<k1>heifer<k2>heifer
-<div n="lb"/>HEIFER¦, {%s.%} {#गोवत्सा, वत्सा;#} ‘of one year old,’ {#एकहायनी, एकाब्दा,#}
-<div n="lb"/>{#एकवर्षिका;#} ‘of two years,’ {#द्विहायनी;#} ‘of three years,’ {#त्रिहायणी,#}
-<div n="lb"/>{#त्र्यब्दा;#} ‘of four years,’ {#चतुर्हायणी, चतुरब्दा#}.
+HEIFER¦, {%s.%} {#गोवत्सा, वत्सा;#} ‘of one year old,’ {#एकहायनी, एकाब्दा,#}
+{#एकवर्षिका;#} ‘of two years,’ {#द्विहायनी;#} ‘of three years,’ {#त्रिहायणी,#}
+{#त्र्यब्दा;#} ‘of four years,’ {#चतुर्हायणी, चतुरब्दा#}.
 <LEND>

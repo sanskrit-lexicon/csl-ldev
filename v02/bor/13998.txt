@@ -1,6 +1,6 @@
 <L>13998<pc>430<k1>magician<k2>magician
-<div n="lb"/>{@MAGICIAN:@}¦ <div n="1">(1) {#ऐन्दजालिकः,#} <div n="xe">{%m.'s brush:%}</div> <div n="xs">{#पिच्छिका,#}</div>
-<div n="lb"/>D. </div><div n="1">(2) {#मायाकारः, मायिन्#} <div n="xe">{%or%}</div> <div n="xs">{#मायाविन्#}</div> (gen.
-<div n="lb"/>applied to demons etc. assuming illusive
-<div n="lb"/>forms).</div>
+{@MAGICIAN:@}¦ <div n="1">(1) {#ऐन्दजालिकः,#} <div n="xe">{%m.'s brush:%}</div> <div n="xs">{#पिच्छिका,#}</div>
+D. </div><div n="1">(2) {#मायाकारः, मायिन्#} <div n="xe">{%or%}</div> <div n="xs">{#मायाविन्#}</div> (gen.
+applied to demons etc. assuming illusive
+forms).</div>
 <LEND>

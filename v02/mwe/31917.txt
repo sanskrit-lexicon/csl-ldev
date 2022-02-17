@@ -1,4 +1,4 @@
 <L>31917<pc>852-b<k1>audience<k2>audience
-<div n="lb"/>AUDIENCE¦, {%s.%} (Assembly of hearers) {#श्रोतृमण्डलं, श्रोतृसमूहः, श्रोतृ-#}
-<div n="lb"/>{#जनाः#} {%m. pl.,%} {#श्रोतृगणः, श्रोतृसमाजः#}.
+AUDIENCE¦, {%s.%} (Assembly of hearers) {#श्रोतृमण्डलं, श्रोतृसमूहः, श्रोतृ-#}
+{#जनाः#} {%m. pl.,%} {#श्रोतृगणः, श्रोतृसमाजः#}.
 <LEND>

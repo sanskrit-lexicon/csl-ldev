@@ -1,10 +1,10 @@
 <L>20814<pc>653<k1>smell<k2>smell
-<div n="lb"/>{@SMELL@}¦ (subs.): <div n="I">I The sense: {#घ्राणम्,#} <div n="xe">{%perceiv-%}
-<div n="lb"/>{%able by s.:%}</div> <div n="xs">{#घ्राणग्राह्य#}</div> (f. {#ह्या#}), Par. </div><div n="I">II The
-<div n="lb"/>act: {#घ्राणम्, आ-, उपा-,#} <div n="xe">{%the sense of s.:%}</div> <div n="xs">{#घ्राणेन्द्रियम्,#}</div>
-<div n="lb"/>K.; <div n="xe">{%the faculty of s.:%}</div> <div n="xs">{#घ्राणशक्तिः।#}</div> </div><div n="I">III Scent,
-<div n="lb"/>odour: q. v. {#गन्धः,#} <div n="xe">{%having the s. of fish:%}</div> <div n="xs">{#मत्स्य-#}
-<div n="lb"/>{#गन्ध#}</div> (f. {#न्धा#}), Mah.; <div n="xe">{%s. of wine:%}</div> <div n="xs">{#मद्यस्य#}</div> {%or%} [Page654]
-<div n="lb"/>{#मद्यभवो गन्धः,#} Bha.; <div n="xe">{%cannot bear even the s. of%}
-<div n="lb"/>{%others:%}</div> <div n="xs">{#नान्यस्य गन्धमपि सहन्ते,#}</div> Si. v. 42.</div>
+{@SMELL@}¦ (subs.): <div n="I">I The sense: {#घ्राणम्,#} <div n="xe">{%perceiv-%}
+{%able by s.:%}</div> <div n="xs">{#घ्राणग्राह्य#}</div> (f. {#ह्या#}), Par. </div><div n="I">II The
+act: {#घ्राणम्, आ-, उपा-,#} <div n="xe">{%the sense of s.:%}</div> <div n="xs">{#घ्राणेन्द्रियम्,#}</div>
+K.; <div n="xe">{%the faculty of s.:%}</div> <div n="xs">{#घ्राणशक्तिः।#}</div> </div><div n="I">III Scent,
+odour: q. v. {#गन्धः,#} <div n="xe">{%having the s. of fish:%}</div> <div n="xs">{#मत्स्य-#}
+{#गन्ध#}</div> (f. {#न्धा#}), Mah.; <div n="xe">{%s. of wine:%}</div> <div n="xs">{#मद्यस्य#}</div> {%or%} [Page654]
+{#मद्यभवो गन्धः,#} Bha.; <div n="xe">{%cannot bear even the s. of%}
+{%others:%}</div> <div n="xs">{#नान्यस्य गन्धमपि सहन्ते,#}</div> Si. v. 42.</div>
 <LEND>

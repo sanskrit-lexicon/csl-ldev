@@ -1,13 +1,13 @@
 <L>8793<pc>278<k1>fire<k2>fire
-<div n="lb"/>{@FIRE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#अग्निः,#} <div n="xe">{%who threw f.%}
-<div n="lb"/>{%on our fort:%}</div> <div n="xs">{#केनास्मद्दुर्गे निक्षिप्तोऽग्निः,#}</div> H.; <div n="xe">{%to throw%}
-<div n="lb"/>{%oneself into f.:%}</div> <div n="xs">{#अग्निं विशति#}</div> ({#विश्,#} c. 6.),; </div><div n="1">(2)
-<div n="lb"/>{#वह्निः,#} <div n="xe">{%the f. spread according to the turning%}
-<div n="lb"/>{%of the wind:%}</div> <div n="xs">{#ततान वह्निः पवनानुवृत्त्या,#}</div> Ki. xvi. 52;</div>
-<div n="lb"/><div n="1">(3) {#अनलः,#} <div n="xe">{%burning f.:%}</div> <div n="xs">{#ज्वलितानलः,#}</div> Si.; {%forest f.:%}
-<div n="lb"/>{#दावानलः,#} Ki. </div><div n="1">(4) {#ज्वलनः,#} <div n="xe">{%the weapon of f.:%}</div> <div n="xs">{#ज्वलन-#}
-<div n="lb"/>{#स्यास्त्रम्,#}</div> Ki.; </div><div n="1">(5) {#पावकः,#} <div n="xe">{%a good f.%}</div> <div n="xs">{#सुसन्दीप्तः पावकः,#}</div>
-<div n="lb"/>P.; </div><div n="1">(6) {#दहनः।#} </div><div n="I">II Fig.: {#तेजस्#} (n.), {%that is%} [Page279]
-<div n="lb"/>{%ever-rising f.%} ({%of horses%}): {#तत्तेजःसततोत्थितम्,#} M. n.</div>
-<div n="lb"/><div n="I">III Of fire-arms: {#अग्निः:#} v. (I).</div>
+{@FIRE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#अग्निः,#} <div n="xe">{%who threw f.%}
+{%on our fort:%}</div> <div n="xs">{#केनास्मद्दुर्गे निक्षिप्तोऽग्निः,#}</div> H.; <div n="xe">{%to throw%}
+{%oneself into f.:%}</div> <div n="xs">{#अग्निं विशति#}</div> ({#विश्,#} c. 6.),; </div><div n="1">(2)
+{#वह्निः,#} <div n="xe">{%the f. spread according to the turning%}
+{%of the wind:%}</div> <div n="xs">{#ततान वह्निः पवनानुवृत्त्या,#}</div> Ki. xvi. 52;</div>
+<div n="1">(3) {#अनलः,#} <div n="xe">{%burning f.:%}</div> <div n="xs">{#ज्वलितानलः,#}</div> Si.; {%forest f.:%}
+{#दावानलः,#} Ki. </div><div n="1">(4) {#ज्वलनः,#} <div n="xe">{%the weapon of f.:%}</div> <div n="xs">{#ज्वलन-#}
+{#स्यास्त्रम्,#}</div> Ki.; </div><div n="1">(5) {#पावकः,#} <div n="xe">{%a good f.%}</div> <div n="xs">{#सुसन्दीप्तः पावकः,#}</div>
+P.; </div><div n="1">(6) {#दहनः।#} </div><div n="I">II Fig.: {#तेजस्#} (n.), {%that is%} [Page279]
+{%ever-rising f.%} ({%of horses%}): {#तत्तेजःसततोत्थितम्,#} M. n.</div>
+<div n="I">III Of fire-arms: {#अग्निः:#} v. (I).</div>
 <LEND>

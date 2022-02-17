@@ -1,4 +1,4 @@
 <L>10370<pc>327<k1>grower<k2>grower
-<div n="lb"/>{@GROWER:@}¦ <div n="1">(1) {#रोपयितृ#} (m.); </div><div n="1">(2) {#रोपकः, आ-,#}
-<div n="lb"/><div n="xe">{%g. of trees:%}</div> <div n="xs">{#वृक्षारोपकः,#}</div> M.</div>
+{@GROWER:@}¦ <div n="1">(1) {#रोपयितृ#} (m.); </div><div n="1">(2) {#रोपकः, आ-,#}
+<div n="xe">{%g. of trees:%}</div> <div n="xs">{#वृक्षारोपकः,#}</div> M.</div>
 <LEND>

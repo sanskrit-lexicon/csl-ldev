@@ -1,7 +1,7 @@
 <L>11446<pc>358<k1>idea<k2>idea
-<div n="lb"/>{@IDEA:@}¦ <div n="I">I Conception: {#बुद्धिः,#} <div n="xe">{%under the i. of a%}
-<div n="lb"/>{%tiger:%}</div> <div n="xs">{#व्याघ्रबुद्ध्पा।#}</div> <div n="xe">{%To have an i.:%}</div> <div n="xs">{#सम्भावयति#}</div> (c. of
-<div n="lb"/>{#भू#}). </div><div n="I">II Opinion: q.v.: {#मतम्।#} </div><div n="I">III A
-<div n="lb"/>thought: {#मावः, -ना।#} </div><div n="I">IV Platonic: perh.
-<div n="lb"/>{#कल्पना।#}</div>
+{@IDEA:@}¦ <div n="I">I Conception: {#बुद्धिः,#} <div n="xe">{%under the i. of a%}
+{%tiger:%}</div> <div n="xs">{#व्याघ्रबुद्ध्पा।#}</div> <div n="xe">{%To have an i.:%}</div> <div n="xs">{#सम्भावयति#}</div> (c. of
+{#भू#}). </div><div n="I">II Opinion: q.v.: {#मतम्।#} </div><div n="I">III A
+thought: {#मावः, -ना।#} </div><div n="I">IV Platonic: perh.
+{#कल्पना।#}</div>
 <LEND>

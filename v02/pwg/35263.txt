@@ -4,7 +4,7 @@
 <div n="2"> a) {%laufend%}, vom Rosse 
 <ls>ṚV. 4, 40, 2.</ls> 
 <div n="2">— b) {%laufend, flüssig%}; subst. {%Flüssigkeit, Saft%} 
-<ls>?(AK. 3, 4, 30, 229. H. 638. an. 2, 523. MED. v. 9. fg.) KĀṬH. 27, 7.</ls> {#यदण्डमध्ये स्कन्नं तु द्रवमासीत्समाहितम्#} 
+(<ls>AK. 3, 4, 30, 229.</ls> <ls>H. 638. an. 2, 523.</ls> <ls>MED. v. 9. fg.)</ls> <ls>KĀṬH. 27, 7.</ls> {#यदण्डमध्ये स्कन्नं तु द्रवमासीत्समाहितम्#} 
 <ls>HARIV. 12333.</ls> 
 <ls>SUŚR. 1, 8, 21. 33, 5. 78, 14. 169, 8. 194, 9. 2, 350, 15. 436, 9. 443, 18.</ls> 
 <ls>MṚCCH. 92, 6.</ls> 
@@ -30,7 +30,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> <ls>VIŚVA</ls> und <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#मारुत°#} 
 <ls>HARIV. 11430.</ls> {#दैत्यद्रवकर#} 
-<ls>12567.</ls> 
+<ls n="HARIV.">12567.</ls> 
 <div n="2">— b) {%das Herumlaufen, Spiel, Scherz%} 
 <ls>AK. 1, 1, 7, 32.</ls> 
 <ls>H. 555.</ls> 

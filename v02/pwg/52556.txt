@@ -3,10 +3,10 @@
 <div n="1"> 1) <lex>m.</lex> pl. N. pr. eines Volkes 
 <ls>TRIK. 3, 3, 43.</ls> 
 <ls>H. an. 3, 96. fg.</ls> 
-<ls>MED. k. 155.</ls> <ls>MBH. 6, 361</ls> {#(बाह्लीक#} 
-<ls>VP.</ls> <ls>?191).8,119. Verz. d. Oxf. H. 258,b,16. m. sg.</ls> {%ein Fürst dieses Volkes%} 
-<ls>MBH. 1, 2696. 5707. 7001. 2, 327. 4, 1243. 5, 1796. 8, 119.</ls> 
-<ls>HARIV. 5013. 5494.</ls> 
+<ls>MED. k. 155.</ls> <ls>MBH. 6, 361</ls> ({#बाह्लीक#} <ls>VP. 191</ls>). 
+<ls n="MBH.">8, 119.</ls> <ls>Verz. d. Oxf. H. 258,b,16.</ls> m. sg. {%ein Fürst dieses Volkes%} 
+<ls>MBH. 1, 2696.</ls> <ls n="MBH. 1,">5707.</ls> <ls n="MBH. 1,">7001.</ls> <ls n="MBH.">2, 327.</ls> <ls n="MBH.">4, 1243.</ls> <ls n="MBH.">5, 1796.</ls> <ls n="MBH.">8, 119.</ls> 
+<ls>HARIV. 5013.</ls> <ls n="HARIV.">5494.</ls> 
 <ls>BHĀG. P. 1, 15, 16.</ls> pl. <ls>VP. 478.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Pratīpa</is> 
 <ls>HARIV. 1819. fgg.</ls> 

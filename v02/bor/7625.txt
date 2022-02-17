@@ -1,4 +1,4 @@
 <L>7625<pc>241<k1>enlistment<k2>enlistment
-<div n="lb"/>{@ENLISTMENT:@}¦ <div n="I">I The act: v. To enlist. </div><div n="I">II
-<div n="lb"/>A writing: {#*प्रवेशपत्रम्।#}</div>
+{@ENLISTMENT:@}¦ <div n="I">I The act: v. To enlist. </div><div n="I">II
+A writing: {#*प्रवेशपत्रम्।#}</div>
 <LEND>

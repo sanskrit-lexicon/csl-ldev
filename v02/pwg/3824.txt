@@ -11,7 +11,7 @@
 <ls n="ṚV.">3, 55, 5.</ls> <ls n="ṚV.">1, 31, 4.</ls> <ls n="ṚV. 1,">74, 8.</ls> <ls n="ṚV. 1,">120, 2.</ls> <ls n="ṚV.">6, 47, 15.</ls> <ls n="ṚV.">7, 6, 3.</ls> <ls n="ṚV.">10, 18, 5.</ls> <ls n="ṚV. 10,">27, 7.</ls> <ls n="ṚV. 10,">44, 7.</ls> <ls>ŚAT. BR. 7, 1, 1, 27. 8, 4, 4, 9. 10, 3, 5, 2.</ls> <ls>NIR. 1, 13.</ls> {#अपरकूवरी#} 
 <ls>KĀTY. ŚR. 12, 4, 12.</ls> {#अपरपक्ष/#} {%die zweite Hälfte des Monats%} 
 <ls>ŚAT. BR. 6, 7, 4, 7.</ls> Gegens. {#पूर्वपक्ष/#} 
-<ls>?14, 6, 1, 7. (= BṚH. ĀR. UP. 3, 1, 5). NIR. 5, 11. 11, 6. M. 3, 278.</ls> ({#अपरः पक्षः#} geht voran) und {#अपूर्यमाणपक्ष#} 
+<ls>14, 6, 1, 7.</ls> (= <ls>BṚH. ĀR. UP. 3, 1, 5</ls>). <ls>NIR. 5, 11. 11, 6.</ls> <ls>M. 3, 278.</ls> ({#अपरः पक्षः#} geht voran) und {#अपूर्यमाणपक्ष#} 
 <ls>CHĀND. UP. 5, 10, 3.</ls> {#पूर्वं कूलम्#} ist {%das diesseitige Ufer%}, {#अपरं कूलम्#} {%das jenseitige%}, 
 <ls>BṚH. ĀR. UP. 4, 3, 18.</ls> {#अपरा संध्या#} {%Abendröthe%}, {#पूर्वा संध्या#} {%Morgenröthe%}, 
 <ls>M. 4, 93.</ls> {#रात्रेरपरः कालः#} 
@@ -21,7 +21,7 @@
 <div n="2">— b) {%der folgende%}: {#अपरे ऽह्नि#} {%am folgenden Tage%} 
 <ls>R. 2, 65, 1.</ls> 
 <div n="2">— c) {%westlich%} (Gegens. {#पूर्व#} {%östlich)%}: {#पूर्वे समुद्रे - अपरे समुद्रे#} 
-<ls>ŚAT. BR. 10, 6, 4, 1.</ls> <ls>?(= BṚH. ĀR. UP. 1, 1, 2.) ŚĀK. 99, 15.</ls> {#अपरानपि शाल्वादीन्#} 
+<ls>ŚAT. BR. 10, 6, 4, 1.</ls> (= <ls>BṚH. ĀR. UP. 1, 1, 2.)</ls> <ls>ŚĀK. 99, 15.</ls> {#अपरानपि शाल्वादीन्#} 
 <ls>R. 4, 43, 23.</ls> Häufig mit einem Volksn. compon.: {#अपरचीनान्#} 
 <ls>R. 4, 44, 14.</ls> u. s. w. Vgl. {#अपरेण#} . 
 <div n="2">— d) {%nachstehend, geringer, niedriger%} (Gegens. {#पर#}, mit Anklang an eine falsche Etymologie vermittelst des neg. {#अ#}): {#यस्मात्परं नापरमस्ति किंचित्#} 
@@ -29,7 +29,7 @@
 <ls>PRAŚNOP. 5, 2.</ls> {#परा चैवापरा च#} ({#विद्या#}) 
 <ls>MUṆḌ. UP. 1, 1, 4. 5.</ls> {#अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम्#} 
 <ls>BHAG. 7, 5.</ls> {#परमपरं चेति द्विविधं सामान्यम्#} 
-<ls>Z. d. d. m. G. VI, 13, N. 4.</ls> <ls>BHĀṢĀP. 7. 9.</ls> <ls>?(RÖER</ls> übers. {#पर#} durch {%extensive%}, {#अपर#} durch {%non-extensive%}). 
+<ls>Z. d. d. m. G. VI, 13, N. 4.</ls> <ls>BHĀṢĀP. 7. 9.</ls> (<ls>RÖER</ls> übers. {#पर#} durch {%extensive%}, {#अपर#} durch {%non-extensive%}). 
 <div n="2">— e) {%ein anderer%} ({#इतर#}) 
 <ls>MED. r. 105.</ls> {#स्वायंभुवस्य मनोः षड्वंश्या मनवो ऽपरे#} 
 <ls>M. 1, 61.</ls> {#पञ्चापराः#} 
@@ -54,7 +54,7 @@
 <ls>20.</ls> Häufig bei Vergleichungen: {#स्त्रीरत्नसृष्टिरपरा प्रतिभाति मे#} 
 <ls>ŚĀK. 42.</ls> {#धर्म इवापरः#} 
 <ls>R. 1, 1, 19.</ls> {#इन्द्र इवापरः#} 
-<ls>?3, 21, 31. VIŚV. 1, 10. 6, 2. 19. 10, 20. PAÑCAT. IV, 39. KATHĀS. 4, 7.</ls> — {%ein anderer, ein fremder%} (Gegens. {#स्व): अपरपुरुषा/ः#} {%andere, fremde Leute%} (gegenüber den {#समानेषु#}) 
+<ls>3, 21, 31.</ls> <ls>VIŚV. 1, 10. 6, 2. 19. 10, 20.</ls> <ls>PAÑCAT. IV, 39.</ls> <ls>KATHĀS. 4, 7.</ls> — {%ein anderer, ein fremder%} (Gegens. {#स्व): अपरपुरुषा/ः#} {%andere, fremde Leute%} (gegenüber den {#समानेषु#}) 
 <ls>ŚAT. BR. 10, 3, 5, 11.</ls> {#यदि स्वाश्चापराश्चैव#} ({%aus der eigenen oder aus einer fremden Kaste%}) {#विन्देरन्योषितो द्विजाः#} 
 <ls>M. 9, 85.</ls> — Bisweilen bloss anreihend: {#ह्लादिनी यावनी चैव नलिनी च तथापरा#} {%und ferner die%} <is>Nalinī</is> 
 <ls>R. 1, 44, 14.</ls> {#गायनैश्च विरागिण्यो वादनैश्च तथापरैः#} 

@@ -1,5 +1,5 @@
 <L>19623<pc>610<k1>sacrificial<k2>sacrificial
-<div n="lb"/>{@SACRIFICIAL:@}¦ <div n="1">(1) by comp., <div n="xe">{%s. vessel:%}</div> <div n="xs">{#यज्ञपात्रम्;#}</div>
-<div n="lb"/><div n="xe">{%s. ground:%}</div> <div n="xs">{#यज्ञसंस्तरः,#}</div> Mah.; <div n="xe">{%s. work:%}</div> <div n="xs">{#यज्ञकर्मन्#}</div>
-<div n="lb"/>(n.), Si. xiv. 1.; </div><div n="1">(2) {#यज्ञिय#} (f. {#या#}).</div>
+{@SACRIFICIAL:@}¦ <div n="1">(1) by comp., <div n="xe">{%s. vessel:%}</div> <div n="xs">{#यज्ञपात्रम्;#}</div>
+<div n="xe">{%s. ground:%}</div> <div n="xs">{#यज्ञसंस्तरः,#}</div> Mah.; <div n="xe">{%s. work:%}</div> <div n="xs">{#यज्ञकर्मन्#}</div>
+(n.), Si. xiv. 1.; </div><div n="1">(2) {#यज्ञिय#} (f. {#या#}).</div>
 <LEND>

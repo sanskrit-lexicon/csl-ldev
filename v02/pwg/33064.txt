@@ -1,5 +1,5 @@
 <L>33064<pc>3-0637<k1>दिश्<k2>दिश्<h>2
-2. {#दिश्#}¦ (=  1. {#दिश्#}) <lex>f.</lex> 
+2. {#दिश्#}¦ (= 1. {#दिश्#}) <lex>f.</lex> 
 <ls>P.3,2,59.</ls> <ls>VOP.3,134. 164.</ls> <ls>SIDDH. K. 247,b,5</ls> v. u. 
 <div n="1"> 1) ({%wohin man zeigt) Richtung; Himmelsrichtung, Himmelsgegend%} (pl. = {#सर्वा दिशः#}) 
 <ls>AK. 1, 1, 2, 2.</ls> 
@@ -56,8 +56,8 @@
 <ls>KAUŚ. 116.</ls> {%acht%} (die vier zuerst genannten nebst den zwischenliegenden SO. SW. NW. NO.) 
 <ls>M. 1, 13.</ls> {%zehn%} (die acht vorhergehenden nebst {#तिर्यक्#} und {#ऊर्ध्वम्#} oder {#अधस्#} und {#ऊर्ध्वम्#}) 
 <ls>ŚAT. BR. 6, 2, 2, 34. 8, 4, 2, 13.</ls> 
-<ls>MBH. 1, 729. 3, 10667.</ls> {#आरुह्य वृक्षं माद्रेय निरीक्षस्व दिशो दश#} 
-<ls>17246. 5, 305. N. 24, 22.</ls> {#अद्य भीताः पलायन्तामरयस्ते दिशो दश#} 
+<ls>MBH. 1, 729.</ls> <ls n="MBH.">3, 10667.</ls> {#आरुह्य वृक्षं माद्रेय निरीक्षस्व दिशो दश#} 
+<ls>17246. 5, 305.</ls> <ls>N. 24, 22.</ls> {#अद्य भीताः पलायन्तामरयस्ते दिशो दश#} 
 <ls>R. 2, 106, 27. 3, 54, 7. 6, 2, 19. 36, 107.</ls> {#एता दश दिशो भद्रे कार्यमस्ति न मे त्वया#} so v. a. {%gehe wohin es dir beliebt%} 
 <ls>100, 18.</ls> <ls>MṚCCH. 123, 23.</ls> <ls>RAGH. 8, 29.</ls> <ls>BHĀG. P. 2, 7, 20.</ls> {#दशदिशि प्रधाविताः#} 
 <ls>VET. 14, 2.</ls> Daher zur Bezeichnung der {%Zahl zehn%} 
@@ -84,7 +84,7 @@
 <ls>KULL.</ls> zu <ls>M. 7, 126.</ls> {#मुनेः पाठोक्तदिशा#} 
 <ls>SĀH. D. 18, 5.</ls> {#इत्युक्तदिशा#} 
 <ls>23, 22. 24, 9.</ls> {#दिङ्मात्रम्#} 
-<ls>?60, 15. Schol. zu KĀTY. ŚR. 24, 7, 22.</ls> {#दिगियं सूत्रकृता प्रदर्शिता । प्रयोजनानि त्वस्यान्यानि बहूनि#} Schol. zu 
+<ls>60, 15. Schol.</ls> zu <ls>KĀTY. ŚR. 24, 7, 22.</ls> {#दिगियं सूत्रकृता प्रदर्शिता । प्रयोजनानि त्वस्यान्यानि बहूनि#} Schol. zu 
 <ls>VS. PRĀT. 4, 179</ls> in <ls>Ind. St. 4, 280.</ls> {#दासीसभं नृपसभं रक्षःसभमिमा दिशः#} {%dieses sind Hinweise%} so v. a. {%einzelne Beispiele%} 
 <ls>AK. 3, 6, 3, 27. 1, 6. 6, 40.</ls> 
 <div n="1">— 4) {%Vorschrift, Ordnung; Art und Weise%}: {#ऐभ्य^ः समा\न्या^ दि\शास्मभ्य^ं जेषि\ योत्सि^ च#} 
@@ -94,5 +94,5 @@
 <div n="1">— 5) {%Spuren eines Bisses%} 
 <ls>VAIJ.</ls> beim Schol. zu <ls>ŚIŚ. 4, 29</ls>; vgl. <is>Stenzler</is>, De lexicogr. s. principiis, 22. 
 <div n="1">— 6) N. pr. eines Flusses 
-<ls>MBH. 6, 327</ls> <ls>?(VP. 182).</ls>
+<ls>MBH. 6, 327</ls> (<ls>VP. 182).</ls>
 <LEND>

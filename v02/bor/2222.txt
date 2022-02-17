@@ -1,9 +1,9 @@
 <L>2222<pc>077<k1>blow<k2>blow
-<div n="lb"/>{@BLOW@}¦ (v. i.): <div n="I">I To blossom: q. v.: {#स्फुटति, #}
-<div n="lb"/>{# प्र-,#} ({#स्फुट्,#} c. 6.). </div><div n="I">II As air: </div><div n="1">(1) {#वाति, प्र-#}
-<div n="lb"/>({#वा,#} c. 2.); </div><div n="1">(2) {#वहति, प्र-,#} ({#वह्,#} c. l.), Ku.
-<div n="lb"/>xvii. 26. </div><div n="I">III To breathe hard or quick.:
-<div n="lb"/>v. To breathe, to part. </div><div n="I">IV To sound as a
-<div n="lb"/>wind instrument: Ph. <div n="xe">{%horns blew%}</div> <div n="xs">{#पूर्णाः पेराश्च #}
-<div n="lb"/>{# सस्वनुः:#}</div> B.: v. To sound.</div>
+{@BLOW@}¦ (v. i.): <div n="I">I To blossom: q. v.: {#स्फुटति, #}
+{# प्र-,#} ({#स्फुट्,#} c. 6.). </div><div n="I">II As air: </div><div n="1">(1) {#वाति, प्र-#}
+({#वा,#} c. 2.); </div><div n="1">(2) {#वहति, प्र-,#} ({#वह्,#} c. l.), Ku.
+xvii. 26. </div><div n="I">III To breathe hard or quick.:
+v. To breathe, to part. </div><div n="I">IV To sound as a
+wind instrument: Ph. <div n="xe">{%horns blew%}</div> <div n="xs">{#पूर्णाः पेराश्च #}
+{# सस्वनुः:#}</div> B.: v. To sound.</div>
 <LEND>

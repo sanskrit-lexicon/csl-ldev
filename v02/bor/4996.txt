@@ -1,10 +1,10 @@
 <L>4996<pc>161<k1>cram<k2>cram
-<div n="lb"/>{@CRAM@}¦ (v. t.): <div n="I">I To fill to excess: <div n="xe">{%c. med%}
-<div n="lb"/>{%with houses:%}</div> <div n="xs">{#गृहसंबाधः#}</div> ({#धा, धं#}), V. p.; <div n="xe">{%the forest%}
-<div n="lb"/>{%was c. med with the attendants of Śiva:%}</div> <div n="xs">{#वनं #}
-<div n="lb"/>{# गणैरविच्छेदनिरुद्धम्,#}</div> K.; <div n="xe">{%c. ming the belly with%}
-<div n="lb"/>{%sweetmeats:%}</div> <div n="xs">{#मोदकैः कुक्षिं पूरयित्वा,#}</div> Mal.: v. To
-<div n="lb"/>fill, stuff. </div><div n="I">II Of special instruction:
-<div n="lb"/>{#*विशेषशिक्षां ददाति#} ({#दा,#} c. 3.) (?), <div n="xe">{%c. mer%}</div> <div n="xs">{#*विशेष-#}
-<div n="lb"/>{#शिक्षादातृ#}</div> (m.).</div>
+{@CRAM@}¦ (v. t.): <div n="I">I To fill to excess: <div n="xe">{%c. med%}
+{%with houses:%}</div> <div n="xs">{#गृहसंबाधः#}</div> ({#धा, धं#}), V. p.; <div n="xe">{%the forest%}
+{%was c. med with the attendants of Śiva:%}</div> <div n="xs">{#वनं #}
+{# गणैरविच्छेदनिरुद्धम्,#}</div> K.; <div n="xe">{%c. ming the belly with%}
+{%sweetmeats:%}</div> <div n="xs">{#मोदकैः कुक्षिं पूरयित्वा,#}</div> Mal.: v. To
+fill, stuff. </div><div n="I">II Of special instruction:
+{#*विशेषशिक्षां ददाति#} ({#दा,#} c. 3.) (?), <div n="xe">{%c. mer%}</div> <div n="xs">{#*विशेष-#}
+{#शिक्षादातृ#}</div> (m.).</div>
 <LEND>

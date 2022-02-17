@@ -1,10 +1,10 @@
 <L>3559<pc>118<k1>child<k2>child
-<div n="lb"/>{@CHILD:@}¦ <div n="I">I A boy or girl: q. v.: </div><div n="1">(1) {#शिशुः;#}</div>
-<div n="lb"/><div n="1">(2) {#अर्भकः#} (rare); </div><div n="1">(3) {#पृथुकः#} (rare); </div><div n="1">(4) {#डिम्भः#}
-<div n="lb"/>(rare). </div><div n="I">II With reference to parents, a
-<div n="lb"/>son or daughter: q. v.: </div><div n="1">(1) {#अपत्यम्;#} </div><div n="1">(2) {#सूनुः#}
-<div n="lb"/>(mf.); </div><div n="1">(3) {#सन्तानः;#} </div><div n="1">(4) {#तोकम्#} (rare). In addres-
-<div n="lb"/>-sing children {#वत्स#} (m.) and {#वत्सा#} (f.) is
-<div n="lb"/>generally used. <div n="xe">{%To be with c.:%}</div> <div n="xs">{#पुत्रिणी,#}</div> Mah:
-<div n="lb"/>v. Pregnant.</div>
+{@CHILD:@}¦ <div n="I">I A boy or girl: q. v.: </div><div n="1">(1) {#शिशुः;#}</div>
+<div n="1">(2) {#अर्भकः#} (rare); </div><div n="1">(3) {#पृथुकः#} (rare); </div><div n="1">(4) {#डिम्भः#}
+(rare). </div><div n="I">II With reference to parents, a
+son or daughter: q. v.: </div><div n="1">(1) {#अपत्यम्;#} </div><div n="1">(2) {#सूनुः#}
+(mf.); </div><div n="1">(3) {#सन्तानः;#} </div><div n="1">(4) {#तोकम्#} (rare). In addres-
+-sing children {#वत्स#} (m.) and {#वत्सा#} (f.) is
+generally used. <div n="xe">{%To be with c.:%}</div> <div n="xs">{#पुत्रिणी,#}</div> Mah:
+v. Pregnant.</div>
 <LEND>

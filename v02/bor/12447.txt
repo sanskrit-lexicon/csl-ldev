@@ -1,7 +1,7 @@
 <L>12447<pc>386<k1>intellect<k2>intellect
-<div n="lb"/>{@INTELLECT:@}¦ <div n="1">(1) {#बुद्धिः,#} {%one whose i. is%} ({%sharp%}) <div n="xe">{%like%}
-<div n="lb"/>{%the point of the Kuśa:%}</div> <div n="xs">{#कुशाग्रबुद्धि।#}</div> (mfn.), R. v. 4.;</div>
-<div n="lb"/><div n="1">(2) {#धीः,#} <div n="xe">{%with all the excellences of i.:%}</div> <div n="xs">{#समग्रैर्धियो #}
-<div n="lb"/>{# गुणैः,#}</div> R. iii. 30.; </div><div n="1">(3) {#धिषणा#} (rare), {%guilty i.:%}
-<div n="lb"/>{#पापधिषणा,#} Vi. vi. 8.: v. Also mind.</div>
+{@INTELLECT:@}¦ <div n="1">(1) {#बुद्धिः,#} {%one whose i. is%} ({%sharp%}) <div n="xe">{%like%}
+{%the point of the Kuśa:%}</div> <div n="xs">{#कुशाग्रबुद्धि।#}</div> (mfn.), R. v. 4.;</div>
+<div n="1">(2) {#धीः,#} <div n="xe">{%with all the excellences of i.:%}</div> <div n="xs">{#समग्रैर्धियो #}
+{# गुणैः,#}</div> R. iii. 30.; </div><div n="1">(3) {#धिषणा#} (rare), {%guilty i.:%}
+{#पापधिषणा,#} Vi. vi. 8.: v. Also mind.</div>
 <LEND>

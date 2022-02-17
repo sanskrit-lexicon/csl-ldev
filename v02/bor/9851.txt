@@ -1,8 +1,8 @@
 <L>9851<pc>311<k1>ghastly<k2>ghastly
-<div n="lb"/>{@GHASTLY:@}¦ <div n="I">I Lit.: {#भूतसरूपः#} ({#पा, पं#}); {#शवस्येव#}
-<div n="lb"/>(= as of a corpse), Mah. </div><div n="I">II Pale, dismal:
-<div n="lb"/>{#विवर्ण#} (f. {#र्णा#}), {%these%} ({%ghosts%}) {%with long g. bodies:%}
-<div n="lb"/>{#एते विवर्णदिर्घदेहाः,#} Ma. v. 15. </div><div n="I">III Horrible,
-<div n="lb"/>dreadful: </div><div n="1">(1) {#करालः#} ({#ला, लं#}); </div><div n="1">(2) {#विकटः#}
-<div n="lb"/>({#टा, टं#}).</div>
+{@GHASTLY:@}¦ <div n="I">I Lit.: {#भूतसरूपः#} ({#पा, पं#}); {#शवस्येव#}
+(= as of a corpse), Mah. </div><div n="I">II Pale, dismal:
+{#विवर्ण#} (f. {#र्णा#}), {%these%} ({%ghosts%}) {%with long g. bodies:%}
+{#एते विवर्णदिर्घदेहाः,#} Ma. v. 15. </div><div n="I">III Horrible,
+dreadful: </div><div n="1">(1) {#करालः#} ({#ला, लं#}); </div><div n="1">(2) {#विकटः#}
+({#टा, टं#}).</div>
 <LEND>

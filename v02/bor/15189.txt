@@ -1,5 +1,5 @@
 <L>15189<pc>464<k1>myself<k2>myself
-<div n="lb"/>{@MYSELF:@}¦ <div n="I">I In person: {#स्वयम्,#} <div n="xe">{%I m.:%}</div> <div n="xs">{#स्वय-#}
-<div n="lb"/>{#मेवाहम्,#}</div> <ls>K.</ls> </div><div n="I">II. = me.: {#आत्मानम्,#} <div n="xe">{%I will show%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#आत्मानं दर्शयिष्यामि,#}</div> K.</div>
+{@MYSELF:@}¦ <div n="I">I In person: {#स्वयम्,#} <div n="xe">{%I m.:%}</div> <div n="xs">{#स्वय-#}
+{#मेवाहम्,#}</div> <ls>K.</ls> </div><div n="I">II. = me.: {#आत्मानम्,#} <div n="xe">{%I will show%}
+{%m.:%}</div> <div n="xs">{#आत्मानं दर्शयिष्यामि,#}</div> K.</div>
 <LEND>

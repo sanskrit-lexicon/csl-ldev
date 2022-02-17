@@ -1,5 +1,5 @@
 <L>8185<pc>259<k1>express<k2>express
-<div n="lb"/>{@EXPRESS@}¦ (adj.): <div n="I">I Explict, plain: q. v.: {#स्पष्टः#}
-<div n="lb"/>({#ष्टा, ष्टं#}). </div><div n="I">II Special: {#विशिष्टः#} ({#ष्टा, ष्टं#}), <div n="xe">{%e.%}
-<div n="lb"/>{%messenger:%}</div> <div n="xs">{#विशिष्टवार्तावाहकः।#}</div></div>
+{@EXPRESS@}¦ (adj.): <div n="I">I Explict, plain: q. v.: {#स्पष्टः#}
+({#ष्टा, ष्टं#}). </div><div n="I">II Special: {#विशिष्टः#} ({#ष्टा, ष्टं#}), <div n="xe">{%e.%}
+{%messenger:%}</div> <div n="xs">{#विशिष्टवार्तावाहकः।#}</div></div>
 <LEND>

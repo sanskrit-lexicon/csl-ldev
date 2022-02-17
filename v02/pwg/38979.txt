@@ -2,7 +2,7 @@
 {#निपात#}¦ (von {#पत्#} mit {#नि#}) <lex>m.</lex> 
 <div n="1"> 1) {%Sturz, Fall%}: {#आ निपाताच्छरीरस्य#} 
 <ls>M. 6, 31. 11, 104.</ls> 
-<ls>HARIV. 4545. 4701.</ls> 
+<ls>HARIV. 4545.</ls> <ls n="HARIV.">4701.</ls> 
 <ls>KATHĀS. 25, 125.</ls> 
 <ls>BHĀG. P. 3, 13, 29. 5, 16, 20.</ls> {#शैल°#} 
 <ls>MBH. 1, 8285.</ls> 
@@ -14,8 +14,8 @@
 <ls>R. 2, 74, 23.</ls> 
 <ls>VARĀH. BṚH. S. 45, 8.</ls> {#(विन्दवः) पयोधरोत्सेधनिपातचूर्णिताः#} {%Fall auf%} 
 <ls>KUMĀRAS. 5, 24.</ls> {#वज्रनिपातैः#} 
-<ls>MBH. 4, 353</ls> <ls>?= HARIV. 4719.</ls> {#शापाशनि°#} 
-<ls>4059.</ls> <ls>R. 3, 7, 36.</ls> <ls>VARĀH. BṚH. S. 5, 63. 32, 23.</ls> {#षट्सु शम्यानिपातेषु वल्मीकात्#} {%sechs Würfe%} (zur Bezeichnung einer Entfernung) 
+<ls>MBH. 4, 353</ls> = <ls>HARIV. 4719.</ls> {#शापाशनि°#} 
+<ls n="HARIV.">4059.</ls> <ls>R. 3, 7, 36.</ls> <ls>VARĀH. BṚH. S. 5, 63. 32, 23.</ls> {#षट्सु शम्यानिपातेषु वल्मीकात्#} {%sechs Würfe%} (zur Bezeichnung einer Entfernung) 
 <ls>MBH. 3, 7087.</ls> {#कशा°#} so v. a. {%Peitschenhieb%} 
 <ls>R. 5, 48, 6.</ls> {#वाण°#} 
 <ls>ARJ. 7, 10.</ls> {#इषु°#} 
@@ -23,7 +23,7 @@
 <ls>ŚĀK. 10.</ls> {#संपातेष्वभिघातेषु निपातेष्वसिचर्मणोः#} 
 <ls>MBH. 7, 563. fg.</ls> {#शस्त्र°#} so v. a. {%Messerschnitt%} 
 <ls>SUŚR. 1, 18, 15. 359, 18.</ls> {#दृष्टि°#} {%Blick%} 
-<ls>M.3,241.</ls> <ls>MBH. 13,6307.</ls> <ls>VARĀH. BṚH. S.</ls> <ls>?27,C,8.</ls> {%das Losstürzen, Anfall, Angriff%} 
+<ls>M.3,241.</ls> <ls>MBH. 13, 6307.</ls> <ls>VARĀH. BṚH. S.</ls> <ls>27,C,8.</ls> {%das Losstürzen, Anfall, Angriff%} 
 <ls>MBH. 7, 3792.</ls> {#सिंह°#} {%des Löwen%} 
 <ls>RAGH. 2, 60.</ls> {#राम°#} {%auf%} <is>Rāma</is> 
 <ls>R. 3, 43, 39.</ls> {%das Sichniedersetzen eines Vogels%} 

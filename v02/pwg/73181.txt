@@ -3,9 +3,9 @@
 <ls>MBH. 8, 2353.</ls> {#गृभीत#} auch 
 <ls>BHĀG. P. 10, 87, 14.</ls> {#गृहये#} infin. 
 <ls>KĀṬH. 9, 13.</ls> {#ग्रहाय = गृहीत्वा#} 
-<ls>HARIV. 7057. 7099. 7458. 7580. 7640</ls> {#(गृहीत्वा#} v. l.). 
-<ls>7679. 7769. 8106</ls> (v. l. {#गृहाय#}). 
-<ls>8528. 8744.</ls> 
+<ls>HARIV. 7057.</ls> <ls n="HARIV.">7099.</ls> <ls n="HARIV.">7458.</ls> <ls n="HARIV.">7580.</ls> <ls n="HARIV.">7640</ls> {#(गृहीत्वा#} v. l.). 
+<ls n="HARIV.">7679.</ls> <ls n="HARIV.">7769.</ls> <ls n="HARIV.">8106</ls> (v. l. {#गृहाय#}). 
+<ls n="HARIV.">8528.</ls> <ls n="HARIV.">8744.</ls> 
 <div n="1"> 1) am Schluss hinzuzufügen {#पाशगृहीतहस्त#} 
 <ls>HARIV. 12744.</ls> 
 <div n="1">— 7) mit dem gen. der Person: {#चाण्डालस्य न गृह्णन्ति दरिद्रो न प्रयच्छति#} 
@@ -58,7 +58,7 @@
 <div n="p">— {#उद्#} 
 <div n="1"> 1) 
 <ls>AIT. BR. 7, 33.</ls> 
-<div n="1">— 6) {%zugeben, einräumen%} (=  {#स्वीकर्#} 
+<div n="1">— 6) {%zugeben, einräumen%} (= {#स्वीकर्#} 
 <ls>Schol.</ls>) <ls>BHĀG. P. 11, 22, 4.</ls> — caus. 
 <div n="1"> 2) lies {%zur Sprache bringen, besprechen.%}
 
@@ -84,10 +84,10 @@
 <div n="1">— 7) {#महद्भिः पुण्यौधैश्चिरपरिगृहीताश्च विषयाः#} 
 <ls>Spr. 1484.</ls> 
 <div n="1">— 10) 
-<ls>Z. 2</ls> lies {#°चरितं मयि#} . 
+Z. 2 lies {#°चरितं मयि#} . 
 <div n="1">— 14) {#शुभं वा यदि वा पापं यो हि वाक्यमुदीरितम् । सत्येन परिगृह्णाति (= सत्यमित्यभिजानाति#} 
 <ls>Schol.</ls>) {#स वीरः पुरुषोत्तमः ॥#} 
-<ls>R. ed. Bomb. 4, 30, 72 (11. 12 ed. GORR. ).</ls>
+<ls>R. ed. Bomb. 4, 30, 72 (11. 12 ed. GORR.).</ls>
 
 <div n="p">— {#प्र#} 
 <div n="1"> 9) {%sich fassen, sich zusammennehmen%}: {#प्रगृह्य#} 
@@ -95,7 +95,7 @@
 
 <div n="p">— {#प्रति#} 
 <div n="1"> 5) 
-<ls>?Z. 5 lies TS. 7, 2, 10, 2 st. 2, 10, 2.</ls> — caus. {%entgegnen%}: {#ममेति प्रतिग्राह्याह#} 
+<ls>Z. 5 lies</ls> <ls>TS. 7, 2, 10, 2 st. 2, 10, 2.</ls> — caus. {%entgegnen%}: {#ममेति प्रतिग्राह्याह#} 
 <ls>BHĀG. P. 10, 64, 17.</ls>
 
 <div n="p">— {#उपप्रति#} {%dazu in Besitz nehmen%} 

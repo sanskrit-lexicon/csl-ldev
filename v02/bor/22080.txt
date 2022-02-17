@@ -1,16 +1,16 @@
 <L>22080<pc>697<k1>sword<k2>sword
-<div n="lb"/>{@SWORD:@}¦ <div n="1">(1) {#असिः,#} <div n="xe">{%s. s whose sharpness has been%}
-<div n="lb"/>{%increased by case-hardening:%}</div> <div n="xs">{#असयः पानवर्द्धित-#}
-<div n="lb"/>{#तैक्ष्ण्याः,#}</div> K.; {%fortune dwells on the edges of s. s:%}
-<div n="lb"/>{#लक्ष्मीरसिधारासु निवसति,#} K.; {%without s. or shield:%}
-<div n="lb"/>{#व्यसिचर्मन्#} (mfn.), Mah. vii. 48. 39.; </div><div n="1">(2) {#खङ्गः,#}
-<div n="lb"/><div n="xe">{%whose is this s. with golden hilt in a sheath of%}
-<div n="lb"/>{%cow-skin:%}</div> <div n="xs">{#कस्य हेमत्सरुः खङ्गो गव्ये कोशे समर्पितः,#}</div>
-<div n="lb"/>Mah. iv. 42. 13.; </div><div n="1">(3) {#निस्त्रिंशः,#} <div n="xe">{%he striving with%}
-<div n="lb"/>{%a s. in his hand:%}</div> <div n="xs">{#हस्तेन निस्त्रिंशभृता स दीप्तः,#}</div> Ki.
-<div n="lb"/>xvii. 56.; </div><div n="1">(4) {#कृपाणः,#} <div n="xe">{%having a great s.:%}</div> <div n="xs">{#महा-#}
-<div n="lb"/>{#कृपाणं कलयत्#}</div> (f. {#न्ती#}), Ku. xv. 43.; {%use%} ({%your%})
-<div n="lb"/><div n="xe">{%s. on this Śudra-sage:%}</div> <div n="xs">{#विसृज शूद्रमुनौ कृपाणम्,#}</div> M.
-<div n="lb"/>ii. 10; </div><div n="1">(5) {#करपाल#} ({#बाल#} <div n="xe">{%or%}</div> <div n="xs">{#वार#}</div>); </div><div n="1">(6) {#तरवारः(लः)#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#तरवारिः।#}</div></div>
+{@SWORD:@}¦ <div n="1">(1) {#असिः,#} <div n="xe">{%s. s whose sharpness has been%}
+{%increased by case-hardening:%}</div> <div n="xs">{#असयः पानवर्द्धित-#}
+{#तैक्ष्ण्याः,#}</div> K.; {%fortune dwells on the edges of s. s:%}
+{#लक्ष्मीरसिधारासु निवसति,#} K.; {%without s. or shield:%}
+{#व्यसिचर्मन्#} (mfn.), Mah. vii. 48. 39.; </div><div n="1">(2) {#खङ्गः,#}
+<div n="xe">{%whose is this s. with golden hilt in a sheath of%}
+{%cow-skin:%}</div> <div n="xs">{#कस्य हेमत्सरुः खङ्गो गव्ये कोशे समर्पितः,#}</div>
+Mah. iv. 42. 13.; </div><div n="1">(3) {#निस्त्रिंशः,#} <div n="xe">{%he striving with%}
+{%a s. in his hand:%}</div> <div n="xs">{#हस्तेन निस्त्रिंशभृता स दीप्तः,#}</div> Ki.
+xvii. 56.; </div><div n="1">(4) {#कृपाणः,#} <div n="xe">{%having a great s.:%}</div> <div n="xs">{#महा-#}
+{#कृपाणं कलयत्#}</div> (f. {#न्ती#}), Ku. xv. 43.; {%use%} ({%your%})
+<div n="xe">{%s. on this Śudra-sage:%}</div> <div n="xs">{#विसृज शूद्रमुनौ कृपाणम्,#}</div> M.
+ii. 10; </div><div n="1">(5) {#करपाल#} ({#बाल#} <div n="xe">{%or%}</div> <div n="xs">{#वार#}</div>); </div><div n="1">(6) {#तरवारः(लः)#}
+<div n="xe">{%or%}</div> <div n="xs">{#तरवारिः।#}</div></div>
 <LEND>

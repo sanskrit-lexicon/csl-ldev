@@ -1,12 +1,12 @@
 <L>2108<pc>073<k1>black<k2>black
-<div n="lb"/>{@BLACK@}¦ (adj.): <div n="I">I Of colour: </div><div n="1">(1) {#कृष्णः#} ({#ष्णा, #}
-<div n="lb"/>{# ष्णं#}); </div><div n="1">(2) {#कृष्णवर्णः#} ({#र्णा, र्णं#}); </div><div n="1">(3) {#श्यामः#} ({#मा, #}
-<div n="lb"/>{# मं#}) <div n="xe">{%or%}</div> <div n="xs">{#श्यामलः#}</div> ({#ला, लं#}) (=dark blue); </div><div n="1">(4)
-<div n="lb"/>{#नीलः#} ({#ला, लं#}) (prop. = blue); </div><div n="1">(5) {#कालः#} ({#ला, #}
-<div n="lb"/>{# लं#}); </div><div n="1">(6) {#मेचकः#} ({#का, कं#}); </div><div n="1">(7) {#मलिनः#} ({#ना, नं#});
-<div n="lb"/>{%your heart must be very b. like your exterior%}
-<div n="lb"/>{#बहिरिव मलिनतरं तव मनोऽपि भविष्यति नूनम्,#} Gi.
-<div n="lb"/>viii. 7. </div><div n="I">II Fig., dismal, gloomy, calami-
-<div n="lb"/>-tious, horrible, wicked: q. v. {%B. and blue:%}
-<div n="lb"/>v. Livid.</div>
+{@BLACK@}¦ (adj.): <div n="I">I Of colour: </div><div n="1">(1) {#कृष्णः#} ({#ष्णा, #}
+{# ष्णं#}); </div><div n="1">(2) {#कृष्णवर्णः#} ({#र्णा, र्णं#}); </div><div n="1">(3) {#श्यामः#} ({#मा, #}
+{# मं#}) <div n="xe">{%or%}</div> <div n="xs">{#श्यामलः#}</div> ({#ला, लं#}) (=dark blue); </div><div n="1">(4)
+{#नीलः#} ({#ला, लं#}) (prop. = blue); </div><div n="1">(5) {#कालः#} ({#ला, #}
+{# लं#}); </div><div n="1">(6) {#मेचकः#} ({#का, कं#}); </div><div n="1">(7) {#मलिनः#} ({#ना, नं#});
+{%your heart must be very b. like your exterior%}
+{#बहिरिव मलिनतरं तव मनोऽपि भविष्यति नूनम्,#} Gi.
+viii. 7. </div><div n="I">II Fig., dismal, gloomy, calami-
+-tious, horrible, wicked: q. v. {%B. and blue:%}
+v. Livid.</div>
 <LEND>

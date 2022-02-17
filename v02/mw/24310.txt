@@ -1,3 +1,3 @@
 <L>24310<pc>139,3<k1>आध्वर्यव<k2>आ/ध्वर्यव<e>2
-<s>आ/ध्वर्यव</s> ¦ <lex>mf(<s>ई</s>)n.</lex> (<ab>fr.</ab> <s>अध्वर्यु</s>), belonging to the <s1 slp1="aDvaryu">Adhvaryu</s1> (= <s1 slp1="yajur-veda">Yajur-veda</s1>), <ls>Pāṇ. 4-3, 123</ls>; <ls>VP.</ls><info lex="m:f#I:n"/>
+<s>आ/ध्वर्यव</s> ¦ <lex>mf(<s>ई</s>)n.</lex> (<ab>fr.</ab> <s>अध्वर्यु</s>), belonging to the <s1 slp1="aDvaryu">Adhvaryu</s1> (= <s1 slp1="yajur-veda">Yajur-veda</s1>), <ls>Pāṇ. iv, 3, 123</ls>; <ls>VP.</ls><info lex="m:f#I:n"/>
 <LEND>

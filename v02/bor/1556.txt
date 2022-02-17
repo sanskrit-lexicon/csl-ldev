@@ -1,5 +1,5 @@
 <L>1556<pc>055<k1>banana<k2>banana
-<div n="lb"/>{@BANANA:@}¦ <div n="I">I The tree: </div><div n="1">(1) {#कदली;#} </div><div n="1">(2) {#रम्भा।#}</div>
-<div n="lb"/><div n="I">II The fruit: </div><div n="1">(1) {#कदलीफलम्;#} </div><div n="1">(2) {#चम्पकम्#}
-<div n="lb"/>(a species of it).</div>
+{@BANANA:@}¦ <div n="I">I The tree: </div><div n="1">(1) {#कदली;#} </div><div n="1">(2) {#रम्भा।#}</div>
+<div n="I">II The fruit: </div><div n="1">(1) {#कदलीफलम्;#} </div><div n="1">(2) {#चम्पकम्#}
+(a species of it).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>6661<pc>213<k1>divers<k2>divers
-<div n="lb"/>{@DIVERS:@}¦ <div n="1">(1) {#अनेकः#} ({#का, कं#}); </div><div n="1">(2) {#नाना-,#} <div n="xe">{%d.%}
-<div n="lb"/>{%coloured:%}</div> <div n="xs">{#नानावर्णः#}</div> ({#र्णा, र्णं#}) <div n="xe">{%or%}</div> <div n="xs">{#नानारागविरागः#}</div> ({#गा, #}
-<div n="lb"/>{# गं#}), Mah.: v. Several.</div>
+{@DIVERS:@}¦ <div n="1">(1) {#अनेकः#} ({#का, कं#}); </div><div n="1">(2) {#नाना-,#} <div n="xe">{%d.%}
+{%coloured:%}</div> <div n="xs">{#नानावर्णः#}</div> ({#र्णा, र्णं#}) <div n="xe">{%or%}</div> <div n="xs">{#नानारागविरागः#}</div> ({#गा, #}
+{# गं#}), Mah.: v. Several.</div>
 <LEND>

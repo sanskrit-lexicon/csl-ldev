@@ -1,6 +1,6 @@
 <L>1380<pc>049<k1>aunt<k2>aunt
-<div n="lb"/>{@AUNT:@}¦ <div n="1">(1) {#पितृस्वसा#} (father's sister): </div><div n="1">(2) {#मातृ-#}
-<div n="lb"/>{#स्वसा#} (mother's sister); </div><div n="1">(3) {#पितृव्या#} (father's
-<div n="lb"/>brother's wife).; </div><div n="1">(4) {#मातुली, मातुलानी#}
-<div n="lb"/>(mother's brother's wife).</div>
+{@AUNT:@}¦ <div n="1">(1) {#पितृस्वसा#} (father's sister): </div><div n="1">(2) {#मातृ-#}
+{#स्वसा#} (mother's sister); </div><div n="1">(3) {#पितृव्या#} (father's
+brother's wife).; </div><div n="1">(4) {#मातुली, मातुलानी#}
+(mother's brother's wife).</div>
 <LEND>

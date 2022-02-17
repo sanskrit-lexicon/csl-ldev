@@ -1,11 +1,11 @@
 <L>86<pc>004<k1>absorb<k2>absorb
-<div n="lb"/>{@ABSORB@}¦ (v. t.): <div n="I">I To imbibe, suck up:</div>
-<div n="lb"/><div n="1">(1) {#चूषति#} ({#चूष्,#} c. i.); </div><div n="1">(2) {#शोषयति#} (c. of
-<div n="lb"/>{#शुष्#}) (=dry up). </div><div n="I">II Fig.: To engross:</div>
-<div n="lb"/><div n="1">(1) {#मज्जति, नि-,#} ({#मस्ज्,#} c. 6.), <div n="xe">{%old men are a.%}
-<div n="lb"/>{%ed. in thoughts and none clings to the supreme%}
-<div n="lb"/>{%spirit%}</div> <div n="xs">{#वृद्धस्तावच्चिन्तामग्नः परमे ब्रह्मणि कोऽपि न लग्नः;#}</div></div>
-<div n="lb"/><div n="1">(2) {#विशति, अभिनिविशते#} ({#विश्,#} c. 6.) (with acc.)
-<div n="lb"/>[not so forcible as (1)] <div n="xe">{%became a. ed in%}
-<div n="lb"/>{%thought%}</div> <div n="xs">{#चिन्तां विवेश,#}</div> K.</div>
+{@ABSORB@}¦ (v. t.): <div n="I">I To imbibe, suck up:</div>
+<div n="1">(1) {#चूषति#} ({#चूष्,#} c. i.); </div><div n="1">(2) {#शोषयति#} (c. of
+{#शुष्#}) (=dry up). </div><div n="I">II Fig.: To engross:</div>
+<div n="1">(1) {#मज्जति, नि-,#} ({#मस्ज्,#} c. 6.), <div n="xe">{%old men are a.%}
+{%ed. in thoughts and none clings to the supreme%}
+{%spirit%}</div> <div n="xs">{#वृद्धस्तावच्चिन्तामग्नः परमे ब्रह्मणि कोऽपि न लग्नः;#}</div></div>
+<div n="1">(2) {#विशति, अभिनिविशते#} ({#विश्,#} c. 6.) (with acc.)
+[not so forcible as (1)] <div n="xe">{%became a. ed in%}
+{%thought%}</div> <div n="xs">{#चिन्तां विवेश,#}</div> K.</div>
 <LEND>

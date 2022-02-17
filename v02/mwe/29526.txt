@@ -1,8 +1,8 @@
 <L>29526<pc>803-b<k1>tie<k2>tie
-<div n="lb"/>TIE¦, {%s.%} (A fastening, knot) {#बन्धः -न्धनं -नी, ग्रन्थिः#} {%m.,%} {#बन्धनग्रन्थिः#} {%m.;%}
-<div n="lb"/>‘of a yoke,’ {#आबन्धः, योक्त्रं, योत्रं;#} ‘of a letter or parcel,’
-<div n="lb"/>{#तालिकः#}. — (A fetter) {#पाशः, बन्धनं#}. — (String) {#गुणः, दाम -मा,#} {%see%}
-<div n="lb"/>STRING. — (Attachment, tie of affection, &c.) {#सङ्गः;#} ‘free
-<div n="lb"/>from ties,’ {#निःसङ्गः -ङ्गा -ङ्गं, सङ्गवर्जितः -ता -तं, असज्जितात्मा -त्मा#}
-<div n="lb"/>{#-त्म (न्)#}.
+TIE¦, {%s.%} (A fastening, knot) {#बन्धः -न्धनं -नी, ग्रन्थिः#} {%m.,%} {#बन्धनग्रन्थिः#} {%m.;%}
+‘of a yoke,’ {#आबन्धः, योक्त्रं, योत्रं;#} ‘of a letter or parcel,’
+{#तालिकः#}. — (A fetter) {#पाशः, बन्धनं#}. — (String) {#गुणः, दाम -मा,#} {%see%}
+STRING. — (Attachment, tie of affection, &c.) {#सङ्गः;#} ‘free
+from ties,’ {#निःसङ्गः -ङ्गा -ङ्गं, सङ्गवर्जितः -ता -तं, असज्जितात्मा -त्मा#}
+{#-त्म (न्)#}.
 <LEND>

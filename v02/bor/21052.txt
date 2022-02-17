@@ -1,6 +1,6 @@
 <L>21052<pc>663<k1>soundness<k2>soundness
-<div n="lb"/>{@SOUNDNESS:@}¦ <div n="I">I Healthiness: q. v.: {#सुस्थता।#}</div>
-<div n="lb"/><div n="I">II Goodness, purity: q. v.: {#सारवत्ता।#} </div><div n="I">III
-<div n="lb"/>Profundity: q. v.: {#गभीरता।#} </div><div n="I">IV Rectitude,
-<div n="lb"/>orthodoxy: q. v.</div>
+{@SOUNDNESS:@}¦ <div n="I">I Healthiness: q. v.: {#सुस्थता।#}</div>
+<div n="I">II Goodness, purity: q. v.: {#सारवत्ता।#} </div><div n="I">III
+Profundity: q. v.: {#गभीरता।#} </div><div n="I">IV Rectitude,
+orthodoxy: q. v.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>23171<pc>729<k1>uncle<k2>uncle
-<div n="lb"/>{@UNCLE:@}¦ <div n="I">I Paternal: </div><div n="1">(1) {#पितृव्यः;#} </div><div n="1">(2) {#ज्येष्ठ-#}
-<div n="lb"/>{#तातः#} (father's elder brother); </div><div n="1">(3) {#कनिष्ठतातः#}
-<div n="lb"/>(f.'s younger b.), Vi.; </div><div n="1">(4) {#खु(क्षु)ल्लतातः।#} (= 3).</div>
-<div n="lb"/><div n="I">II Maternal: {#मातुलः।#}</div>
+{@UNCLE:@}¦ <div n="I">I Paternal: </div><div n="1">(1) {#पितृव्यः;#} </div><div n="1">(2) {#ज्येष्ठ-#}
+{#तातः#} (father's elder brother); </div><div n="1">(3) {#कनिष्ठतातः#}
+(f.'s younger b.), Vi.; </div><div n="1">(4) {#खु(क्षु)ल्लतातः।#} (= 3).</div>
+<div n="I">II Maternal: {#मातुलः।#}</div>
 <LEND>

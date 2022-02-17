@@ -1,4 +1,4 @@
 <L>14782<pc>452<k1>missive<k2>missive
-<div n="lb"/>{@MISSIVE:@}¦ <div n="I">I Adj.: {#सन्दिष्ट#} (f. {#ष्टा#}). </div><div n="I">II Subs.:
-<div n="lb"/>{#सन्देशः।#}</div>
+{@MISSIVE:@}¦ <div n="I">I Adj.: {#सन्दिष्ट#} (f. {#ष्टा#}). </div><div n="I">II Subs.:
+{#सन्देशः।#}</div>
 <LEND>

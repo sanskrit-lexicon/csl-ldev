@@ -1,8 +1,8 @@
 <L>24225<pc>758<k1>well<k2>well
-<div n="lb"/>{@WELL@}¦ (interj.): <div n="1">(1) {#वाढम्#} (=very well); </div><div n="1">(2)
-<div n="lb"/>no expr. when concessive, {%w., what next:%}
-<div n="lb"/>{#ततस्ततः;#} <div n="xe">{%w., be it so:%}</div> <div n="xs">{#भवतु;#}</div> {%w., I am going:%}
-<div n="lb"/>{#मया तावद्गम्यते।#} Ph.: {%w.-done:%} i. e. admirable,
-<div n="lb"/>{#साधु साधु;#} <div n="xe">{%w.-affected, well-disposed:%}</div> <div n="xs">{#हितबुद्धि#}</div>
-<div n="lb"/>(mfn.) and sim. comp. s.</div>
+{@WELL@}¦ (interj.): <div n="1">(1) {#वाढम्#} (=very well); </div><div n="1">(2)
+no expr. when concessive, {%w., what next:%}
+{#ततस्ततः;#} <div n="xe">{%w., be it so:%}</div> <div n="xs">{#भवतु;#}</div> {%w., I am going:%}
+{#मया तावद्गम्यते।#} Ph.: {%w.-done:%} i. e. admirable,
+{#साधु साधु;#} <div n="xe">{%w.-affected, well-disposed:%}</div> <div n="xs">{#हितबुद्धि#}</div>
+(mfn.) and sim. comp. s.</div>
 <LEND>

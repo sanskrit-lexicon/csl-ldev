@@ -1,4 +1,4 @@
 <L>16003<pc>392-a<k1>initial<k2>initial
-<div n="lb"/>INITIAL¦, {%s.%} (First letter of a name) {#नामादिवर्णः, नामाद्यक्षरं,#}
-<div n="lb"/>{#आद्यवर्णः, प्रथमवर्णः#}.
+INITIAL¦, {%s.%} (First letter of a name) {#नामादिवर्णः, नामाद्यक्षरं,#}
+{#आद्यवर्णः, प्रथमवर्णः#}.
 <LEND>

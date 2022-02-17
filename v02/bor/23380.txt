@@ -1,6 +1,6 @@
 <L>23380<pc>734<k1>unity<k2>unity
-<div n="lb"/>{@UNITY:@}¦ <div n="I">I Oneness: {#एकता, -त्वम्,#} <div n="xe">{%The doctrine%}
-<div n="lb"/>{%of u.:%}</div> <div n="xs">{#अद्वैतमतम्, -वादः।#}</div> </div><div n="I">II Agreement: </div><div n="1">(1)
-<div n="lb"/>{#ऐक्यम्;#} </div><div n="1">(2) {#ऐकमत्यम्#} (unanimity). </div><div n="I">III In
-<div n="lb"/>math.: {#एकः।#}</div>
+{@UNITY:@}¦ <div n="I">I Oneness: {#एकता, -त्वम्,#} <div n="xe">{%The doctrine%}
+{%of u.:%}</div> <div n="xs">{#अद्वैतमतम्, -वादः।#}</div> </div><div n="I">II Agreement: </div><div n="1">(1)
+{#ऐक्यम्;#} </div><div n="1">(2) {#ऐकमत्यम्#} (unanimity). </div><div n="I">III In
+math.: {#एकः।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>6600<pc>211<k1>distich<k2>distich
-<div n="lb"/>{@DISTICH:@}¦ <div n="1">(1) {#श्लोकः#} (= verse); </div><div n="1">(2) {#युग्मकम्#} (= a
-<div n="lb"/>couple of verses).</div>
+{@DISTICH:@}¦ <div n="1">(1) {#श्लोकः#} (= verse); </div><div n="1">(2) {#युग्मकम्#} (= a
+couple of verses).</div>
 <LEND>

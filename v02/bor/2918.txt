@@ -1,21 +1,21 @@
 <L>2918<pc>098<k1>call<k2>call
-<div n="lb"/>{@CALL@}¦ (v. t.): <div n="I">I To summon: </div><div n="1">(1) {#ह्वयति, आ#} -
-<div n="lb"/>({#ह्वे,#} c. l.), {%I will c. and ask my mistra%}
-<div n="lb"/>{#गृहिणीमाहूय पृच्छामि,#} Mr. i.; </div><div n="1">(2) {#शब्दायते#} (nom)
-<div n="lb"/>(=c. aloud), <div n="xe">{%c. Maitreya%}</div> <div n="xs">{#मैत्रेयं तावत् शब्दाय#}</div>
-<div n="lb"/>Mr. iv.; </div><div n="1">(3) {#आकारयति#} (c. of {#कृ#}) (rare)</div>
-<div n="lb"/><div n="1">(4) {#निमन्त्रयति#} ({#मन्त्र्,#} c. 10.) (=invite: q. v.)</div>
-<div n="lb"/><div n="I">II To address by a particular name</div>
-<div n="lb"/><div n="1">(1) {#आह्वयति,#} {%c. ed her by the name Pārvati%}
-<div n="lb"/>{#पार्वतीति नाम्ना जुहाव,#} Ku. i. 26.; </div><div n="1">(2) {#नाम्ना #}
-<div n="lb"/>{# संज्ञया#} <div n="xe">{%or%}</div> <div n="xs">{#आख्यया अभिदधाति#}</div> ({#धा,#} c. 3.): “{%c. a spade%}
-<div n="lb"/>{%a spade%}” {#यो यद्रूपस्तं तद्रूपमभिधेहि।#} </div><div n="I">III To name
-<div n="lb"/>designate: </div><div n="1">(1) {#वक्ति#} ({#वच्,#} c. 2.), {#भाषते#} ({#भाष्#}
-<div n="lb"/>c. l.), etc. (=to speak: q. v.), {%you are%} c.ed
-<div n="lb"/>‘{%mountainlifter%}’ {#तुलितभूभृदुच्यसे#} Si. xv. 30.;
-<div n="lb"/>{#उदाहरति#} ({#हृ,#} c. l.), <div n="xe">{%c. ed Dasharatha%}</div> <div n="xs">{#दशरथ#}</div>
-<div n="lb"/>{#इत्युदाहृतः,#} B. i. 1.; </div><div n="1">(3) {#अप-दिशति, व्यप-,#} ({#दिश्#},
-<div n="lb"/>c. l.), Si. xv. 28. Ph. <div n="xe">{%c. to mind%}</div> <div n="xs">{#मनसि#}</div>
-<div n="lb"/>{#करोति;#} <div n="xe">{%c. ed Rik, Yajus and Sāman%}</div> <div n="xs">{#ऋग्यजुःसाम#}</div>-
-<div n="lb"/>{#संज्ञकाः,#} S. p.; <div n="xe">{%c. ed Tāraka%}</div> <div n="xs">{#तारकसंज्ञितः,#}</div> Ku.</div>
+{@CALL@}¦ (v. t.): <div n="I">I To summon: </div><div n="1">(1) {#ह्वयति, आ#} -
+({#ह्वे,#} c. l.), {%I will c. and ask my mistra%}
+{#गृहिणीमाहूय पृच्छामि,#} Mr. i.; </div><div n="1">(2) {#शब्दायते#} (nom)
+(=c. aloud), <div n="xe">{%c. Maitreya%}</div> <div n="xs">{#मैत्रेयं तावत् शब्दाय#}</div>
+Mr. iv.; </div><div n="1">(3) {#आकारयति#} (c. of {#कृ#}) (rare)</div>
+<div n="1">(4) {#निमन्त्रयति#} ({#मन्त्र्,#} c. 10.) (=invite: q. v.)</div>
+<div n="I">II To address by a particular name</div>
+<div n="1">(1) {#आह्वयति,#} {%c. ed her by the name Pārvati%}
+{#पार्वतीति नाम्ना जुहाव,#} Ku. i. 26.; </div><div n="1">(2) {#नाम्ना #}
+{# संज्ञया#} <div n="xe">{%or%}</div> <div n="xs">{#आख्यया अभिदधाति#}</div> ({#धा,#} c. 3.): “{%c. a spade%}
+{%a spade%}” {#यो यद्रूपस्तं तद्रूपमभिधेहि।#} </div><div n="I">III To name
+designate: </div><div n="1">(1) {#वक्ति#} ({#वच्,#} c. 2.), {#भाषते#} ({#भाष्#}
+c. l.), etc. (=to speak: q. v.), {%you are%} c.ed
+‘{%mountainlifter%}’ {#तुलितभूभृदुच्यसे#} Si. xv. 30.;
+{#उदाहरति#} ({#हृ,#} c. l.), <div n="xe">{%c. ed Dasharatha%}</div> <div n="xs">{#दशरथ#}</div>
+{#इत्युदाहृतः,#} B. i. 1.; </div><div n="1">(3) {#अप-दिशति, व्यप-,#} ({#दिश्#},
+c. l.), Si. xv. 28. Ph. <div n="xe">{%c. to mind%}</div> <div n="xs">{#मनसि#}</div>
+{#करोति;#} <div n="xe">{%c. ed Rik, Yajus and Sāman%}</div> <div n="xs">{#ऋग्यजुःसाम#}</div>-
+{#संज्ञकाः,#} S. p.; <div n="xe">{%c. ed Tāraka%}</div> <div n="xs">{#तारकसंज्ञितः,#}</div> Ku.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>1215<pc>043<k1>assemblage<k2>assemblage
-<div n="lb"/>{@ASSEMBLAGE:@}¦ <div n="1">(1) {#समूहः;#} </div><div n="1">(2) {#सङ्घातः;#} </div><div n="1">(3) {#समाहारः;#}</div>
-<div n="lb"/><div n="1">(4) {#समुच्चयः;#} </div><div n="1">(5) {#सन्निपातः;#} </div><div n="1">(6) {#समवायः;#} </div><div n="1">(7)
-<div n="lb"/>{#समुदयः;#} </div><div n="1">(8) {#संहतिः;#} </div><div n="1">(9) {#त्रातः;#} </div><div n="1">(10) {#निकरः;#}</div>
-<div n="lb"/><div n="1">(11) by a deriv., <div n="xe">{%an a. of Kshatriyas%}</div> <div n="xs">{#राजन्यकम्;#}</div>
-<div n="lb"/><div n="xe">{%an a. of peacocks%}</div> <div n="xs">{#मायूरम्;#}</div> <div n="xe">{%an a. of men%}</div> <div n="xs">{#जनता;#}</div>
-<div n="lb"/><div n="xe">{%an a. of horses%}</div> <div n="xs">{#अश्वीयम्।#}</div></div>
+{@ASSEMBLAGE:@}¦ <div n="1">(1) {#समूहः;#} </div><div n="1">(2) {#सङ्घातः;#} </div><div n="1">(3) {#समाहारः;#}</div>
+<div n="1">(4) {#समुच्चयः;#} </div><div n="1">(5) {#सन्निपातः;#} </div><div n="1">(6) {#समवायः;#} </div><div n="1">(7)
+{#समुदयः;#} </div><div n="1">(8) {#संहतिः;#} </div><div n="1">(9) {#त्रातः;#} </div><div n="1">(10) {#निकरः;#}</div>
+<div n="1">(11) by a deriv., <div n="xe">{%an a. of Kshatriyas%}</div> <div n="xs">{#राजन्यकम्;#}</div>
+<div n="xe">{%an a. of peacocks%}</div> <div n="xs">{#मायूरम्;#}</div> <div n="xe">{%an a. of men%}</div> <div n="xs">{#जनता;#}</div>
+<div n="xe">{%an a. of horses%}</div> <div n="xs">{#अश्वीयम्।#}</div></div>
 <LEND>

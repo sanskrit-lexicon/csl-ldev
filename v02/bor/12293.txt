@@ -1,9 +1,9 @@
 <L>12293<pc>382<k1>innocent<k2>innocent
-<div n="lb"/>{@INNOCENT:@}¦ <div n="I">I Of men etc.: {#निरपराधः#} ({#धा, धं#}),
-<div n="lb"/><div n="xe">{%the killer of the i. royal race:%}</div> <div n="xs">{#निरपराधराजकुलकदनः,#}</div>
-<div n="lb"/>Vi. iii.: v. Guiltless. </div><div n="I">II Of acts etc.:</div>
-<div n="lb"/><div n="1">(1) {#निर्दोषः#} ({#षा, षं#}) (without fault); </div><div n="1">(2)
-<div n="lb"/>{#निरवद्य#} (f. {#द्या#}) (against which nothing can
-<div n="lb"/>be said), <div n="xe">{%hurting i. grass:%}</div> <div n="xs">{#अनवद्यतृणार्दिनः,#}</div> N.
-<div n="lb"/>ii. 10.</div>
+{@INNOCENT:@}¦ <div n="I">I Of men etc.: {#निरपराधः#} ({#धा, धं#}),
+<div n="xe">{%the killer of the i. royal race:%}</div> <div n="xs">{#निरपराधराजकुलकदनः,#}</div>
+Vi. iii.: v. Guiltless. </div><div n="I">II Of acts etc.:</div>
+<div n="1">(1) {#निर्दोषः#} ({#षा, षं#}) (without fault); </div><div n="1">(2)
+{#निरवद्य#} (f. {#द्या#}) (against which nothing can
+be said), <div n="xe">{%hurting i. grass:%}</div> <div n="xs">{#अनवद्यतृणार्दिनः,#}</div> N.
+ii. 10.</div>
 <LEND>

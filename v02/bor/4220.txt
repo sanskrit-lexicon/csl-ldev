@@ -1,12 +1,12 @@
 <L>4220<pc>137<k1>complete<k2>complete
-<div n="lb"/>{@COMPLETE@}¦ (v. t.): <div n="I">I To accomplish, finish:</div>
-<div n="lb"/><div n="1">(1) {#समापयति, परि-,#} (c. of {#आप्#}) (best equi.),
-<div n="lb"/><div n="xe">{%to bring Chandrāpida, who had c. d his knowledge%}
-<div n="lb"/>{%of all arts:%}</div> <div n="xs">{#परिसमाप्तसकलकलाविज्ञानं चन्द्रापीडमानेतुम्,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#अवसाययति#} (c. of {#सो#}), <div n="xe">{%c. ing the injunc-%}
-<div n="lb"/>{%tion:%}</div> <div n="xs">{#विधिमवसाय्य,#}</div> R. v. 76; </div><div n="1">(3) {#अशेषयति#}
-<div n="lb"/>(nomi.), <div n="xe">{%c. ing what was to be done:%}</div> <div n="xs">{#कृत्य-#}
-<div n="lb"/>{#मशेषयित्वा,#}</div> Ku. vii. 29. </div><div n="I">II To make up:
-<div n="lb"/>{#पूरयति, परि-, सं-,#} ({#पूर्,#} c. 10.), {%he has c. d it now:%}
-<div n="lb"/>{#तदसौ सम्प्रति पर्य पूरयत्,#} Si. xvi. 36.</div>
+{@COMPLETE@}¦ (v. t.): <div n="I">I To accomplish, finish:</div>
+<div n="1">(1) {#समापयति, परि-,#} (c. of {#आप्#}) (best equi.),
+<div n="xe">{%to bring Chandrāpida, who had c. d his knowledge%}
+{%of all arts:%}</div> <div n="xs">{#परिसमाप्तसकलकलाविज्ञानं चन्द्रापीडमानेतुम्,#}</div>
+K.; </div><div n="1">(2) {#अवसाययति#} (c. of {#सो#}), <div n="xe">{%c. ing the injunc-%}
+{%tion:%}</div> <div n="xs">{#विधिमवसाय्य,#}</div> R. v. 76; </div><div n="1">(3) {#अशेषयति#}
+(nomi.), <div n="xe">{%c. ing what was to be done:%}</div> <div n="xs">{#कृत्य-#}
+{#मशेषयित्वा,#}</div> Ku. vii. 29. </div><div n="I">II To make up:
+{#पूरयति, परि-, सं-,#} ({#पूर्,#} c. 10.), {%he has c. d it now:%}
+{#तदसौ सम्प्रति पर्य पूरयत्,#} Si. xvi. 36.</div>
 <LEND>

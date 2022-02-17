@@ -1,15 +1,15 @@
 <L>6064<pc>195<k1>devote<k2>devote
-<div n="lb"/>{@DEVOTE:@}¦ <div n="I">I To consecrate: {#उत्सृजति#} ({#सृज्,#} c. 6.),
-<div n="lb"/><div n="xe">{%d. d animals:%}</div> <div n="xs">{#उत्सृष्टपशवः,#}</div> Y. </div><div n="I">II To doom: q. v.</div>
-<div n="lb"/><div n="I">III To give up: </div><div n="1">(1) {#योजयति, आ-, अभि-,#}
-<div n="lb"/>({#युज्,#} c. 10.) (=to apply), ({%you%}) <div n="xe">{%have d. d.%}
-<div n="lb"/>{%yourself to great penances:%}</div> <div n="xs">{#आयोजितस्तपसि महत्यात्मा,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#आ-वेशयति, नि-, अभिनि-,#} (c. of {#विश्#})
-<div n="lb"/>(=to put), {%of%} ({%those%}) <div n="xe">{%who have d. d themselves%}
-<div n="lb"/>{%to you:%}</div> <div n="xs">{#त्वय्यावेशितचित्तानाम्,#}</div> R.; </div><div n="1">(3) expr. by
-<div n="lb"/>{#आ-सक्तः#} ({#क्ता, क्तं#}), {#*प्र-, व्या-,#} <div n="xe">{%the fools are d. d%}
-<div n="lb"/>{%to them:%}</div> <div n="xs">{#आसक्तास्ताष्वमी मूढाः,#}</div> Ki.; <div n="xe">{%d. ed to%}
-<div n="lb"/>{%gambling:%}</div> <div n="xs">{#द्यूतप्रसक्तः#}</div> ({#क्ता, क्तं#}), Mr.; {%or%} </div><div n="1">(4)
-<div n="lb"/>{#रक्तः#} ({#क्ता, क्तं#}), {#अनु-,#} (fondly), <div n="xe">{%young men are d. d%}
-<div n="lb"/>{%to young women:%}</div> <div n="xs">{#तरुणस्तावत्तरुणीरक्तः,#}</div> J.</div>
+{@DEVOTE:@}¦ <div n="I">I To consecrate: {#उत्सृजति#} ({#सृज्,#} c. 6.),
+<div n="xe">{%d. d animals:%}</div> <div n="xs">{#उत्सृष्टपशवः,#}</div> Y. </div><div n="I">II To doom: q. v.</div>
+<div n="I">III To give up: </div><div n="1">(1) {#योजयति, आ-, अभि-,#}
+({#युज्,#} c. 10.) (=to apply), ({%you%}) <div n="xe">{%have d. d.%}
+{%yourself to great penances:%}</div> <div n="xs">{#आयोजितस्तपसि महत्यात्मा,#}</div>
+K.; </div><div n="1">(2) {#आ-वेशयति, नि-, अभिनि-,#} (c. of {#विश्#})
+(=to put), {%of%} ({%those%}) <div n="xe">{%who have d. d themselves%}
+{%to you:%}</div> <div n="xs">{#त्वय्यावेशितचित्तानाम्,#}</div> R.; </div><div n="1">(3) expr. by
+{#आ-सक्तः#} ({#क्ता, क्तं#}), {#*प्र-, व्या-,#} <div n="xe">{%the fools are d. d%}
+{%to them:%}</div> <div n="xs">{#आसक्तास्ताष्वमी मूढाः,#}</div> Ki.; <div n="xe">{%d. ed to%}
+{%gambling:%}</div> <div n="xs">{#द्यूतप्रसक्तः#}</div> ({#क्ता, क्तं#}), Mr.; {%or%} </div><div n="1">(4)
+{#रक्तः#} ({#क्ता, क्तं#}), {#अनु-,#} (fondly), <div n="xe">{%young men are d. d%}
+{%to young women:%}</div> <div n="xs">{#तरुणस्तावत्तरुणीरक्तः,#}</div> J.</div>
 <LEND>

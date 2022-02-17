@@ -1,10 +1,10 @@
 <L>12622<pc>190-1<k1>फल<k2>फल
 {#फल#}¦phál-a, {%n.%} (-° {%a.%} {@ā@} {%or%} {@ī@}) fruit ({%esp. of a %}
-<>{%tree%}); kernel {%of a fruit%} ({%rare%}); fruit = consequence, <lbinfo n="5"/>
-<> effect, result; reward, recompense, 
-<>advantage; retribution, punishment, loss, 
-<>disadvantage; gain, enjoyment; compensation; <lbinfo n="8"/>
-<> result of a calculation, product, quotient <lbinfo n="3"/>
-<> {%etc.%} ({%in mathematics%}); interest ({%on %}
-<>{%capital%}); gaming-board; blade; arrow-head.
+{%tree%}); kernel {%of a fruit%} ({%rare%}); fruit = consequence, <lbinfo n="5"/>
+ effect, result; reward, recompense, 
+advantage; retribution, punishment, loss, 
+disadvantage; gain, enjoyment; compensation; <lbinfo n="8"/>
+ result of a calculation, product, quotient <lbinfo n="3"/>
+ {%etc.%} ({%in mathematics%}); interest ({%on %}
+{%capital%}); gaming-board; blade; arrow-head.
 <LEND>

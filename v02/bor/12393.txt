@@ -1,7 +1,7 @@
 <L>12393<pc>385<k1>instant<k2>instant
-<div n="lb"/>{@INSTANT@}¦ (subs.): <div n="I">I Moment: q.v.: {#क्षणः।#}</div>
-<div n="lb"/><div n="I">II A day of the current month: <div n="xe">{%on the%}
-<div n="lb"/>{%5th. i.:%}</div> <div n="xs">{#अस्य मासस्य पञ्चमदिवसे#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आगामिनि#}</div> {%or%}
-<div n="lb"/>{#गते पञ्चमे दिवसे#} (according as it is coming or
-<div n="lb"/>past).</div>
+{@INSTANT@}¦ (subs.): <div n="I">I Moment: q.v.: {#क्षणः।#}</div>
+<div n="I">II A day of the current month: <div n="xe">{%on the%}
+{%5th. i.:%}</div> <div n="xs">{#अस्य मासस्य पञ्चमदिवसे#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आगामिनि#}</div> {%or%}
+{#गते पञ्चमे दिवसे#} (according as it is coming or
+past).</div>
 <LEND>

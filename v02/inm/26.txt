@@ -1,17 +1,17 @@
 <L>26<pc>003-2<k1>अभीषाह<k2>अभीषाह
-{@Abhīṣāha,@}¦ a people (= the preced.): {%(a)%} first day of the
-<div n="lb">battle: VI, {@18<lang n="greek"></lang>,@} 688 (follow the sons of Dhṛtarāṣṭra when
-<div n="lb">going to battle) (Bhagavadgītāp.).—{%(b)%} 9th day; VI, {@106<lang n="greek"></lang>,@}
-<div n="lb">4809 (defend Bhīṣma; otherwise PCR.) (Bhīṣmav.).—
-<div n="lb">{%(c)%} 10th day: VI, {@119<lang n="greek"></lang>,@} 5648 (defend in vain Bhīṣma,
-<div n="lb">when he is slain by Arjuna) (Bhīṣmav.).—{%(d)%} 14th day:
-<div n="lb">VII, {@91<lang n="greek"></lang>,@} 3254 (attempt to prevent Arjuna from killing
-<div n="lb">Jayadratha) (Jayadrathavadhap.); {@93<lang n="greek"></lang>,@} 3339 (they angrily
-<div n="lb">attack Arjuna, after he has slain Śrutāyudha and Sudakṣiṇa)
-<div n="lb">(do.), {@150<lang n="greek"></lang><sup>1</sup>,@} 6526 (Duryodhana complains that they have
-<div n="lb">been slain in defending Jayadratha, etc.) (do.); {@157<lang n="greek"></lang>,@} 6949
-<div n="lb">(are slain by Yudhiṣṭhira) (Ghaṭotkacavadhap.); {@161<lang n="greek"></lang>,@}
-<div n="lb">7207 (are slain by Bhīma) (do.).—After the 15th day:
-<div n="lb">VIII, {@5,@} 127 (Sañjaya relates to Dhṛtarāṣṭra that they
-<div n="lb">have been slain) (Karṇap.).
+{@Abhīṣāha@},¦ a people (= the preced.): ({%a%}) first day of the
+battle: VI, {@18@}<lang n="greek">δ</lang>, 688 (follow the sons of Dhṛtarāṣṭra when
+going to battle) (Bhagavadgītāp.).—({%b%}) 9th day; VI, {@106@}<lang n="greek">τ</lang>,
+4809 (defend Bhīṣma; otherwise PCR.) (Bhīṣmav.).—
+({%c%}) 10th day: VI, {@119@}<lang n="greek">αα</lang>, 5648 (defend in vain Bhīṣma,
+when he is slain by Arjuna) (Bhīṣmav.).—({%d%}) 14th day:
+VII, {@91@}<lang n="greek">β</lang>, 3254 (attempt to prevent Arjuna from killing
+Jayadratha) (Jayadrathavadhap.); {@93@}<lang n="greek">γ</lang>, 3339 (they angrily
+attack Arjuna, after he has slain Śrutāyudha and Sudakṣiṇa)
+(do.), {@150@}<lang n="greek">β</lang><sup>1</sup>, 6526 (Duryodhana complains that they have
+been slain in defending Jayadratha, etc.) (do.); {@157@}<lang n="greek">ρ</lang>, 6949
+(are slain by Yudhiṣṭhira) (Ghaṭotkacavadhap.); {@161@}<lang n="greek">εε</lang>,
+7207 (are slain by Bhīma) (do.).—After the 15th day:
+VIII, {@5@}, 127 (Sañjaya relates to Dhṛtarāṣṭra that they
+have been slain) (Karṇap.).
 <LEND>

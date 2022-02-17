@@ -17,7 +17,7 @@
 <ls>4, 1, 13. 6, 7, 1, 1. fgg.</ls> {#°पुरुष#} <is>Iṣṭakā</is> 
 <ls>1, 2, 30. 10, 4, 3, 13.</ls> {#सुवर्णरजतौ रुक्मौ#} 
 <ls>12, 8, 3, 11.</ls> <ls>KĀṬH. 11, 1. 4.</ls> <ls>KĀTY. ŚR. 15, 8, 24. 16, 5, 1. 19, 4, 10.</ls> {#°ललाटो ऽश्वः#} 
-<ls>?22, 2, 11. ĀŚV. ŚR. 9, 4, 16. neutr. AV. 9, 5, 25. fg.</ls> vielleicht aus dem späteren Gebrauch fehlerhaft in den Text gebracht. 
+<ls>22, 2, 11.</ls> <ls>ĀŚV. ŚR. 9, 4, 16.</ls> neutr. <ls>AV. 9, 5, 25. fg.</ls> vielleicht aus dem späteren Gebrauch fehlerhaft in den Text gebracht. 
 <div n="1">— 2) <lex>n.</lex> 
 <ls>SIDDH. K. 249,a,13.</ls> {%Gold%} 
 <ls>NAIGH. 1, 12.</ls> 
@@ -28,11 +28,11 @@
 <ls>MED. m. 28.</ls> <ls>HALĀY. 2, 18.</ls> <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 145.</ls> <ls>RATNAM. 87.</ls> {#°स्तेय#} 
 <ls>M. 11, 57.</ls> 
 <ls>MBH. 2, 1256.</ls> {#रुक्मस्य च गर्भयोषा#} ({#गङ्गा#}) so v. a. {%Gold in sich bergend%} (u. {#गर्भयोषा#} falsch aufgefasst) 
-<ls>13, 1846. 14, 1686.</ls> <ls>HARIV. 5807. 6580.</ls> <ls>R. 2, 70, 20.</ls> <ls>BHĀG. P. 3, 14, 24.</ls> {#°पुङ्खैः शरैः#} 
+<ls>13, 1846. 14, 1686.</ls> <ls>HARIV. 5807.</ls> <ls n="HARIV.">6580.</ls> <ls>R. 2, 70, 20.</ls> <ls>BHĀG. P. 3, 14, 24.</ls> {#°पुङ्खैः शरैः#} 
 <ls>MBH. 1, 4563.</ls> 
 <ls>R. 6, 34, 24.</ls> {#°सार#} 
 <ls>SUŚR. 1, 328, 18.</ls> {#°वर्ण#} 
-<ls>MUṆḌ. UP. 3, 1, 3</ls> <ls>?= MAITRYUP. 6, 18.</ls> {#रुक्माभ#} 
+<ls>MUṆḌ. UP. 3, 1, 3</ls> = <ls>MAITRYUP. 6, 18.</ls> {#रुक्माभ#} 
 <ls>M. 12, 122.</ls> {#°तुल्याभ#} 
 <ls>KĀM. NĪTIS. 14, 51.</ls> {#°संनिभा#} 
 <ls>HARIV. 6717.</ls> {%Eisen%} ({#लोह#}) 

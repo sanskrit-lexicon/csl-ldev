@@ -1,7 +1,7 @@
 <L>17292<pc>529<k1>poem<k2>poem
-<div n="lb"/>{@POEM:@}¦ <div n="1">(1) {#काव्यम्,#} <div n="xe">{%composer of p. s:%}</div> <div n="xs">{#कर्ता काव्यानाम्,#}</div>
-<div n="lb"/>D.; <div n="xe">{%a short p.:%}</div> <div n="xs">{#खण्डकाव्यम्,#}</div> Sah.; </div><div n="1">(2) {#काव्य-#}
-<div n="lb"/>{#प्रबन्धः,#} <div n="xe">{%by writing p. s:%}</div> <div n="xs">{#काव्यप्रबन्धरचनेन,#}</div> K.;</div>
-<div n="lb"/><div n="1">(3) {#चम्पूः#} (a p. interspersed with prose), <div n="xe">{%to%}
-<div n="lb"/>{%string it:%}</div> <div n="xs">{#चम्पूं गुम्फति,#}</div> Ch.: v. Poetry, verse.</div>
+{@POEM:@}¦ <div n="1">(1) {#काव्यम्,#} <div n="xe">{%composer of p. s:%}</div> <div n="xs">{#कर्ता काव्यानाम्,#}</div>
+D.; <div n="xe">{%a short p.:%}</div> <div n="xs">{#खण्डकाव्यम्,#}</div> Sah.; </div><div n="1">(2) {#काव्य-#}
+{#प्रबन्धः,#} <div n="xe">{%by writing p. s:%}</div> <div n="xs">{#काव्यप्रबन्धरचनेन,#}</div> K.;</div>
+<div n="1">(3) {#चम्पूः#} (a p. interspersed with prose), <div n="xe">{%to%}
+{%string it:%}</div> <div n="xs">{#चम्पूं गुम्फति,#}</div> Ch.: v. Poetry, verse.</div>
 <LEND>

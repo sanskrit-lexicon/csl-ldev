@@ -1,9 +1,9 @@
 <L>1693<pc>058<k1>bathe<k2>bathe
-<div n="lb"/>{@BATHE@}¦ (v. i.): <div n="1">(1) {#स्नाति#} ({#स्ना,#} c. 2.); </div><div n="1">(2) {#अभिषेकं #}
-<div n="lb"/>{# करोति#} (by pouring water); </div><div n="1">(3) {#मज्जति, नि#}-,
-<div n="lb"/>({#मज्ज्,#} c. 6.) (by plunging); </div><div n="1">(4) {#अवगाह#}
-<div n="lb"/>({#गाह्,#} c. 1.) (by immersing, diving) (with
-<div n="lb"/>acc.), <div n="xe">{%to b. in the waters%}</div> <div n="xs">{#पयोवगाढुम्,#}</div> Ki. viii.
-<div n="lb"/>27.; </div><div n="1">(5) {#आ-प्लवते#} ({#प्ल,#} c. 1.) (Perh. by
-<div n="lb"/>swimming).</div>
+{@BATHE@}¦ (v. i.): <div n="1">(1) {#स्नाति#} ({#स्ना,#} c. 2.); </div><div n="1">(2) {#अभिषेकं #}
+{# करोति#} (by pouring water); </div><div n="1">(3) {#मज्जति, नि#}-,
+({#मज्ज्,#} c. 6.) (by plunging); </div><div n="1">(4) {#अवगाह#}
+({#गाह्,#} c. 1.) (by immersing, diving) (with
+acc.), <div n="xe">{%to b. in the waters%}</div> <div n="xs">{#पयोवगाढुम्,#}</div> Ki. viii.
+27.; </div><div n="1">(5) {#आ-प्लवते#} ({#प्ल,#} c. 1.) (Perh. by
+swimming).</div>
 <LEND>

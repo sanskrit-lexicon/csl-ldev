@@ -1,51 +1,51 @@
 <L>4251<pc>312-2<k1>ग्रह<k2>ग्रह<h>1
-{@graha@}<sup>1</sup>,¦ mostly pl. {%(°āḥ)%} (“planets”). I, 66 {%(°nakṣatra-%}
-<div n="lb">{%tārāṇāṃ),%} 7677 {%(candrādityau g°ās tārā nakṣatrāṇi);%} II, 304;
-<div n="lb">III, 842 (sg., {%prapatan…kṣīṇapuṇya iva grahaḥ%}), 2555
-<div n="lb">{%(°ā na viparītāḥ),%} 8674, 10906, 12550 {%(°nakṣatraiḥ),%} 14340,
-<div n="lb">14368 {%(°āḥ sopagrahāḥ),%} 14558, 15813 {%(°nakṣatra°),%} 16198
-<div n="lb">{%(°nakṣatratārābhiḥ),%} 16285 {%(vṛtau…candrasūryau g°airiva);%}
-<div n="lb">IV, 48 ({%°āṇāṃ daśamaṃ,%} said of Arjuna, the ordinary number
-<div n="lb">being nine), 1606; V, 1148 {%(tāpyate…nakṣatrāṇi%}
-<div n="lb">{%g°air iva),%} 3504, 4842 (sg., {%Citrāṃ pīḍayate grahaḥ,%} i.e.
-<div n="lb">Mahāpātākhya, Nīl.), 7322 {%(°ān aṣtāv iva),%} 7626 {%(iva);%}
-<div n="lb">VI, 404 {%(candrādityau grahās tathā),%} 637 {%(sampetur divi sapta%}
-<div n="lb">{%mahāgrahāḥ),%} 3216 {%(sūryo grahair iva samāvṛtaḥ),%} 3304 {%(°air%}
-<div n="lb">{%dyaur iva saṃvṛtā),%} 4399 {%(°nakṣatraśabalā dyaur iva),%} 4436
-<div n="lb">{%(candramā yukto dīptair iva mahāgrahaiḥ),%} 4566 {%(dudruvuḥ%}
-<div n="lb">{%…grahāḥ pañca raviṃ yathā),%} 4567 {%(pīḍitaḥ…yathā%}
-<div n="lb">{%yugakṣaye ghore candramāḥ pañcabhir grahaiḥ);%} VII, 1031
-<div n="lb">{%(somaṃ grahagaṇānvitaṃ),%} 2856 {%(°nakṣatra-somānāṃ),%} 3455,
-<div n="lb">4828, 5636 {%(pīḍayan…prajāsaṃharaṇe, rājan, somaṃ sapta%}
-<div n="lb">{%grahā iva),%} 5691 {%(dyaur iva grahaiḥ),%} 6902 {%(dyaur iva…%}
-<div n="lb">{%grahakīrṇā yugakṣaye),%} 7212 {%(dyaur iva…pahaiḥ kīrṇā%}
-<div n="lb">{%yugakṣaye),%} 7538 {%(dyaur iva grahaiḥ),%} 9603 {%(sarvair grahair%}
-<div n="lb">{%gṛhītān);%} VIII, 170 {%(grahāv iva),%} 662 (do.), †690 {%(vikaco%}
-<div n="lb">{%yathā grahaḥ)%} †813 {%(arka-candra-graha-pāvaka-tviṣaṃ),%}
-<div n="lb">1479 (became the anukarṣa of Śiva's chariot), 1485
-<div n="lb">{%(°nakṣatra-tārābhiḥ…nabhastalaṃ),%} 1707 {%(sapta mahā-%}
-<div n="lb">{%grahāḥ),%} †4904 {%(dyaur grahair amalapradīptaiḥ);%} IX, 1363
-<div n="lb">{%(iva),%} 2513 (came to the investiture of Skanda); X, 25
-<div n="lb">{%(°nakṣatra-tārābhiḥ),%} 290 {%(sārkendu-g°-nakṣatrāṃ dyāṃ);%}
-<div n="lb">XI, 796 {%(iva);%} XII, 909 {%(krūragrahābhiśamanaṃ),%} 1600
-<div n="lb">{%(vṛtaś candra iva grahaiḥ),%} 3271 (sg., {%nakṣatrāṇām iva%}
-<div n="lb">{%grahaḥ),%} 3399, 6133, 10047, 10312; XIII, 625, 665 (sg.,
-<div n="lb">said of Mandara), 669 (do.), 670 (do.), 913 ({%°āṇāṃ Sūrya%}
-<div n="lb">{%ucyate,%} sc. Śiva), 988, 1089, 4201, †7386 ({%°nakṣatra-%}
-<div n="lb">{%tārāḥ,%} identif. with Kṛṣṇa), 7499 (identif. with Śiva), 7584
-<div n="lb">{%(°āṇām abhipūjanaṃ),%} 7660; XIV, 1175 {%(Sūryo grahāṇām%}
-<div n="lb">{%adhipaḥ),%} 1430, 2674 {%(iva);%} XVI, 48; XVIII, 217.
+{@graha@}<sup>1</sup>,¦ mostly pl. ({%°āḥ%}) (“planets”). I, 66 ({%°nakṣatra-%}
+{%tārāṇāṃ%}), 7677 ({%candrādityau g°ās tārā nakṣatrāṇi%}); II, 304;
+III, 842 (sg., {%prapatan…kṣīṇapuṇya iva grahaḥ%}), 2555
+({%°ā na viparītāḥ%}), 8674, 10906, 12550 ({%°nakṣatraiḥ%}), 14340,
+14368 ({%°āḥ sopagrahāḥ%}), 14558, 15813 ({%°nakṣatra°%}), 16198
+({%°nakṣatratārābhiḥ%}), 16285 ({%vṛtau…candrasūryau g°airiva%});
+IV, 48 ({%°āṇāṃ daśamaṃ%}, said of Arjuna, the ordinary number
+being nine), 1606; V, 1148 ({%tāpyate…nakṣatrāṇi%}
+{%g°air iva%}), 3504, 4842 (sg., {%Citrāṃ pīḍayate grahaḥ%}, i.e.
+Mahāpātākhya, Nīl.), 7322 ({%°ān aṣtāv iva%}), 7626 ({%iva%});
+VI, 404 ({%candrādityau grahās tathā%}), 637 ({%sampetur divi sapta%}
+{%mahāgrahāḥ%}), 3216 ({%sūryo grahair iva samāvṛtaḥ%}), 3304 ({%°air%}
+{%dyaur iva saṃvṛtā%}), 4399 ({%°nakṣatraśabalā dyaur iva%}), 4436
+({%candramā yukto dīptair iva mahāgrahaiḥ%}), 4566 ({%dudruvuḥ%}
+{%…grahāḥ pañca raviṃ yathā%}), 4567 ({%pīḍitaḥ…yathā%}
+{%yugakṣaye ghore candramāḥ pañcabhir grahaiḥ%}); VII, 1031
+({%somaṃ grahagaṇānvitaṃ%}), 2856 ({%°nakṣatra-somānāṃ%}), 3455,
+4828, 5636 ({%pīḍayan…prajāsaṃharaṇe, rājan, somaṃ sapta%}
+{%grahā iva%}), 5691 ({%dyaur iva grahaiḥ%}), 6902 ({%dyaur iva…%}
+{%grahakīrṇā yugakṣaye%}), 7212 ({%dyaur iva…pahaiḥ kīrṇā%}
+{%yugakṣaye%}), 7538 ({%dyaur iva grahaiḥ%}), 9603 ({%sarvair grahair%}
+{%gṛhītān%}); VIII, 170 ({%grahāv iva%}), 662 (do.), †690 ({%vikaco%}
+{%yathā grahaḥ%}) †813 ({%arka-candra-graha-pāvaka-tviṣaṃ%}),
+1479 (became the anukarṣa of Śiva's chariot), 1485
+({%°nakṣatra-tārābhiḥ…nabhastalaṃ%}), 1707 ({%sapta mahā-%}
+{%grahāḥ%}), †4904 ({%dyaur grahair amalapradīptaiḥ%}); IX, 1363
+({%iva%}), 2513 (came to the investiture of Skanda); X, 25
+({%°nakṣatra-tārābhiḥ%}), 290 ({%sārkendu-g°-nakṣatrāṃ dyāṃ%});
+XI, 796 ({%iva%}); XII, 909 ({%krūragrahābhiśamanaṃ%}), 1600
+({%vṛtaś candra iva grahaiḥ%}), 3271 (sg., {%nakṣatrāṇām iva%}
+{%grahaḥ%}), 3399, 6133, 10047, 10312; XIII, 625, 665 (sg.,
+said of Mandara), 669 (do.), 670 (do.), 913 ({%°āṇāṃ Sūrya%}
+{%ucyate%}, sc. Śiva), 988, 1089, 4201, †7386 ({%°nakṣatra-%}
+{%tārāḥ%}, identif. with Kṛṣṇa), 7499 (identif. with Śiva), 7584
+({%°āṇām abhipūjanaṃ%}), 7660; XIV, 1175 ({%Sūryo grahāṇām%}
+{%adhipaḥ%}), 1430, 2674 ({%iva%}); XVI, 48; XVIII, 217.
 <div n="P">do. (sg.) of special planets:—
-<div n="P">{@Budha:@} VIII, †4943 {%(Somasya putraḥ).%}
-<div n="P">{@Śanaiścara:@} III, 16171 {%(Ś°);%} V, 4840 {%(Ś°);%} IX,
-<div n="lb">805 {%(Ś°).%}
-<div n="P">{@Śukra:@} I, 2606 {%(Śukraḥ Kavisutaḥ).%}
-<div n="P">{@Śveta:@} V, 1376 {%(Ś°);%} VI, 79 {%(Ś°),%} 83 {%(Ś°).%}
-<div n="P">{@Rāhu:@} I, 1267, 2676 {%(grahan tu suṣuve yan tu Siṃhikā%}
-<div n="lb">{%arkendumardanaṃ),%} 6771 {%(grastaḥ…graheṇeva parvakāle%}
-<div n="lb">{%divākaraḥ);%} VI, 86 {%(paruṣagrahaḥ),%} 480 (only B.), 482
+<div n="P">{@Budha@}: VIII, †4943 ({%Somasya putraḥ%}).
+<div n="P">{@Śanaiścara@}: III, 16171 ({%Ś°%}); V, 4840 ({%Ś°%}); IX,
+805 ({%Ś°%}).
+<div n="P">{@Śukra@}: I, 2606 ({%Śukraḥ Kavisutaḥ%}).
+<div n="P">{@Śveta@}: V, 1376 ({%Ś°%}); VI, 79 ({%Ś°%}), 83 ({%Ś°%}).
+<div n="P">{@Rāhu@}: I, 1267, 2676 ({%grahan tu suṣuve yan tu Siṃhikā%}
+{%arkendumardanaṃ%}), 6771 ({%grastaḥ…graheṇeva parvakāle%}
+{%divākaraḥ%}); VI, 86 ({%paruṣagrahaḥ%}), 480 (only B.), 482
 [Page313-a+ 62]
-<div n="lb">{%(Svarbhānuḥ);%} XIII, 1151 (identif. with Śiva, 1000 names<sup>2</sup>),
-<div n="lb">6230 (“eclipse,” PCR.); XIV, 892 {%(agacchad bhānumantam%}
-<div n="lb">{%iva grahaḥ).%}
+({%Svarbhānuḥ%}); XIII, 1151 (identif. with Śiva, 1000 names<sup>2</sup>),
+6230 (“eclipse,” PCR.); XIV, 892 ({%agacchad bhānumantam%}
+{%iva grahaḥ%}).
 <LEND>

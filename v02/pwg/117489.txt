@@ -7,7 +7,7 @@
 <ls>SUŚR. 1, 255, 5.</ls> {#भय°#} 
 <ls>HIT. 39, 7.</ls> {#पुष्टि°#} 
 <ls>MĀRK. P. 22, 11. 97, 36.</ls> {#त्वं बीजं सस्यहेतुकम्#} 
-<ls>?99, 47. f.</ls> {#ई#} 
+<ls>99, 47</ls>. f. {#ई#} 
 <ls>Verz. d. Oxf. H. 23,a, N. 2.</ls> 
 <div n="2">— b) {%bewirkt —, bedingt durch%}: {#ईदृशः स मुने लोकः स्वधर्मफलहेतुकः#} 
 <ls>MBH. 3, 15452.</ls> 
@@ -17,7 +17,7 @@
 <ls>SĀṂKHYAK. 31.</ls> 
 <ls>KATHĀS. 20, 67.</ls> {#ई#} 
 <ls>MĀRK. P. 69, 39.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 257.</ls> {#अ°#} {%unbegründet%} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 257.</ls> {#अ°#} {%unbegründet%} 
 <ls>BHAG. 18, 22, v. l.</ls> 
 <div n="2">— c) {%bestimmt für%}: {#दत्त्वा शरीरं क्रव्याद्भ्यो रणाग्नौ द्विजहेतुकम्#} 
 <ls>MBH. 13, 4840.</ls> 

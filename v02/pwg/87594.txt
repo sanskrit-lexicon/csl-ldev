@@ -25,8 +25,8 @@
 <ls>ĀŚV. GṚHY. 1, 13, 2.</ls> {#जीव°#} 
 <ls>PĀR. GṚHY. 3, 4.</ls> {#स°#} 
 <ls>MBH. 1, 3942.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 74, 29.</ls> 
+
+<ls>R. GORR. 1, 74, 29.</ls> 
 <ls>BHĀG. P. 9, 15, 26.</ls> {#अ°#} 
 <ls>YĀJÑ. 1, 170.</ls> {#बद्ध°#} 
 <ls>R. 2, 40, 42.</ls> 
@@ -43,8 +43,8 @@
 <ls>PRAB. 104, 13.</ls> {#जीवद्वत्सा#} {%deren Kind am Leben ist%} 
 <ls>SUŚR. 1, 371, 16.</ls> {#बालवत्सा#} {%deren Sohn noch ein Knabe ist%} 
 <ls>MBH. 3, 16666.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 42, 18.</ls> {#वत्स#} voc. {%Kind%} als Schmeichelwort 
+
+<ls>R. GORR. 2, 42, 18.</ls> {#वत्स#} voc. {%Kind%} als Schmeichelwort 
 <ls>SĀH. D. 172, 3.</ls> 
 <ls>MBH. 1, 691.</ls> 
 <ls>R. 1, 59, 2. 63, 19. 67, 12. 2, 37, 16. 64, 29.</ls> 
@@ -86,8 +86,8 @@
 <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 61, 36. fg. (36</ls> ist {#वत्सभृगू उभौ#} zu lesen). 
 <ls>P.4,1,102. 117.</ls> <ls>Verz. d. Oxf. H. 18,b,11. 53,b,24.</ls> Verfassers eines Gesetzbuches 
 <ls>266,b,9. 270,b,36. 279,a,40.</ls> <ls>Verz. d. B. H. No. 1166.</ls> eines Sohnes des <is>Pratardana</is> 
-<ls>MBH. 12, 1795. 13, 1946.</ls> 
-<ls>HARIV. 1587. 1597. 1741. 1753.</ls> 
+<ls>MBH. 12, 1795.</ls> <ls n="MBH.">13, 1946.</ls> 
+<ls>HARIV. 1587.</ls> <ls n="HARIV.">1597.</ls> <ls n="HARIV.">1741.</ls> <ls n="HARIV.">1753.</ls> 
 <ls>VP. 408.</ls> = {#प्रतर्दन#} 
 <ls>BHĀG. P. 9, 17, 6.</ls> eines Sohnes des <is>Senajit</is> 
 <ls>21, 23.</ls> <ls>HARIV. 1059.</ls> der <is>Akṣamālā</is> 
@@ -95,11 +95,11 @@
 <ls>VP. 463.</ls> des <is>Somaśarman</is> 
 <ls>KATHĀS. 6, 9.</ls> {#बाभ्रव्यवत्सयोः#} 
 <ls>HARIV. 1255.</ls> {#°गोत्र, °वंश#} 
-<ls>Verz. d. Oxf. H. 100,a,1 v. u. 370,a, No. 213.</ls> <ls>COLEBR. Misc. Ess.</ls> <ls>?II,188. HALL 136. 173.</ls> pl. {%die Nachkommen%} <is>Vatsa's</is> 
-<ls>P.2,4,64</ls>, <ls>Sch.</ls> <ls>VOP.7,14.</ls> <ls>ĀŚV. ŚR. 12,10.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR.1,9,3.</ls> <ls>Verz. d. Oxf. H. 19,a,34. 405,b, No. 10.</ls> 
+<ls>Verz. d. Oxf. H. 100,a,1</ls> v. u. <ls>370,a, No. 213.</ls> <ls>COLEBR. Misc. Ess. II,188.</ls> <ls>HALL 136. 173.</ls> pl. {%die Nachkommen%} <is>Vatsa's</is> 
+<ls>P.2,4,64</ls>, <ls>Sch.</ls> <ls>VOP. 7,14.</ls> <ls>ĀŚV. ŚR. 12,10.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 1,9,3.</ls> <ls>Verz. d. Oxf. H. 19,a,34. 405,b, No. 10.</ls> 
 <div n="1">— 5) <lex>m.</lex> N. pr. eines Landes mit der Hauptstadt <is>Kauśāmbī</is>: {#वत्स इति ख्यातो देशः#} 
-<ls>KATHĀS. 9, 4. 30, 38.</ls> <ls>SCHIEFNER,</ls> <ls>Lebensb. 234 4</ls>). pl. als Bez. des Volkes und Landes 
-<ls>MBH. 5, 7369. 8, 237. 13, 1951</ls> ({#वत्सानां#} ed. Bomb.). 
+<ls>KATHĀS. 9, 4. 30, 38.</ls> <ls>SCHIEFNER, Lebensb. 234 4</ls>). pl. als Bez. des Volkes und Landes 
+<ls>MBH. 5, 7369.</ls> <ls n="MBH.">8, 237.</ls> <ls n="MBH.">13, 1951</ls> ({#वत्सानां#} ed. Bomb.). 
 <ls>VARĀH. BṚH. S. 14, 2. 8. 17, 18. 22.</ls> 
 <ls>KATHĀS. 30, 62.</ls> 
 <div n="v">— Vgl. {#अनुपूर्व°, अप°, अभिवान्य°#} (vgl. 

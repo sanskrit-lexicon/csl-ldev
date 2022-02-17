@@ -1,7 +1,7 @@
 <L>28384<pc>3-0196<k1>तट<k2>तट
 {#तट#}¦ <lex>m.</lex> <lex>f.</lex> 
 <ls>TRIK. 3, 5, 23.</ls> {%Abhang%}: {#हिमवतस्तटे#} 
-<ls>MBH. 1, 1567. 3, 1663.</ls> 
+<ls>MBH. 1, 1567.</ls> <ls n="MBH.">3, 1663.</ls> 
 <ls>R. 4, 5, 9. 12, 26. 6, 83, 28.</ls> 
 <ls>BHARTṚ. 2, 32.</ls> 
 <ls>VIKR. 57, 19.</ls> 
@@ -23,7 +23,7 @@
 <ls>HIT. IV, 86.</ls> {#आशा नाम नदी - प्रोत्तुङ्गचिन्तातटी#} (adj.) 
 <ls>BHARTṚ. 3, 11.</ls> {#गर्तातट#} {%die abhängige Wand einer Grube%} 
 <ls>PAÑCAT. 81, 22.</ls> — Sehr häufig von den {%abhängigen Theilen des menschlichen Körpers%}: {#कटितट, कटीतट#} 
-<ls>MBH. 3, 11146. 13, 834.</ls> 
+<ls>MBH. 3, 11146.</ls> <ls n="MBH.">13, 834.</ls> 
 <ls>INDR. 2, 32.</ls> 
 <ls>MṚCCH. 11, 15.</ls> 
 <ls>BHĀG. P. 3, 15, 20.</ls> {#जघन°#} 
@@ -42,7 +42,7 @@
 <ls>GĪT. 4, 23.</ls> Dieses ist wohl das {#तटः प्रंशसावचनः#} im <is>gaṇa</is> {#मतल्लिकादि#} in 
 <ls>GAṆARATN.</ls> zu <ls>P. 2, 1, 66.</ls> Nirgends n., dem 
 <ls>MED.</ls> die Bed. {%Feld%} ({#क्षेत्र#}) giebt; {#तटि#}, welches 
-<ls>SIDDH. K.248</ls>, {%a%}, 
+<ls>SIDDH. K.248,a,</ls> 
 <ls>9</ls> als <lex>f.</lex> aufgeführt wird, können wir auch nicht belegen. 
 <ls>MBH. 12, 10381</ls> wird <is>Śiva</is> als {%Abhang%}, als {%der an Abhängen Lebende%} und als {%Herr der Abhänge%} angerufen: {#नमस्तटाय तट्याय तटानां पतये नमः#} . 
 <div n="v">— Vgl. {#अतट, उत्तट, पुरतटी#} .

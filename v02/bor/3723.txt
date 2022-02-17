@@ -1,4 +1,4 @@
 <L>3723<pc>122<k1>citron<k2>citron
-<div n="lb"/>{@CITRON:@}¦ <div n="I">I The tree {#मातुलुङ्गः; -कः,#} </div><div n="1">(2) {#वीजपूरः।#}</div>
-<div n="lb"/><div n="I">II The fruit: {#वीजपूरम्; मातुलुङ्गफलम्।#}</div>
+{@CITRON:@}¦ <div n="I">I The tree {#मातुलुङ्गः; -कः,#} </div><div n="1">(2) {#वीजपूरः।#}</div>
+<div n="I">II The fruit: {#वीजपूरम्; मातुलुङ्गफलम्।#}</div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>20589<pc>645<k1>sing<k2>sing
-<div n="lb"/>{@SING:@}¦ <div n="1">(1) {#गायति#} ({#गै,#} c. 1.), <div n="xe">{%I s. and dance and%}
-<div n="lb"/>{%play:%}</div> <div n="xs">{#गायामि नृत्याम्यथ वादयामि,#}</div> Mah. iv. 11.
-<div n="lb"/>8.; {%s. s%} ({%a song%}) <div n="xe">{%expressing different states in%}
-<div n="lb"/>{%its four feet:%}</div> <div n="xs">{#चतुष्पदवस्तुकं गायति,#}</div> Mal. i.;
-<div n="lb"/><div n="xe">{%sang to whom the entire Veda:%}</div> <div n="xs">{#यस्मै ब्रह्मपारायणं #}
-<div n="lb"/>{# जगौ,#}</div> Vi. i. 14.; <div n="xe">{%where with choristers s. ing%}
-<div n="lb"/>{%out the fame of the Lord of wealth:%}</div> <div n="xs">{#उद्गायद्भि-#}
-<div n="lb"/>{#र्धनपतियशः किन्नरैर्यत्र सार्ध्वम्,#}</div> Me. ii. 10.; <div n="xe">{%the%}
-<div n="lb"/>{%female bee sang:%}</div> <div n="xs">{#मधुकराङ्गनयोज्जगे,#}</div> Si. vi. 20.;</div>
-<div n="lb"/><div n="1">(2) of birds: {#कूजति#} ({#कूज्,#} c. 1.), <div n="xe">{%what the%}
-<div n="lb"/>{%male cuckoo sang sweetly:%}</div> <div n="xs">{#पुंस्कोकिलो यन्मधुरं #}
-<div n="lb"/>{# चुकूज,#}</div> Ku. ii. 32.</div>
+{@SING:@}¦ <div n="1">(1) {#गायति#} ({#गै,#} c. 1.), <div n="xe">{%I s. and dance and%}
+{%play:%}</div> <div n="xs">{#गायामि नृत्याम्यथ वादयामि,#}</div> Mah. iv. 11.
+8.; {%s. s%} ({%a song%}) <div n="xe">{%expressing different states in%}
+{%its four feet:%}</div> <div n="xs">{#चतुष्पदवस्तुकं गायति,#}</div> Mal. i.;
+<div n="xe">{%sang to whom the entire Veda:%}</div> <div n="xs">{#यस्मै ब्रह्मपारायणं #}
+{# जगौ,#}</div> Vi. i. 14.; <div n="xe">{%where with choristers s. ing%}
+{%out the fame of the Lord of wealth:%}</div> <div n="xs">{#उद्गायद्भि-#}
+{#र्धनपतियशः किन्नरैर्यत्र सार्ध्वम्,#}</div> Me. ii. 10.; <div n="xe">{%the%}
+{%female bee sang:%}</div> <div n="xs">{#मधुकराङ्गनयोज्जगे,#}</div> Si. vi. 20.;</div>
+<div n="1">(2) of birds: {#कूजति#} ({#कूज्,#} c. 1.), <div n="xe">{%what the%}
+{%male cuckoo sang sweetly:%}</div> <div n="xs">{#पुंस्कोकिलो यन्मधुरं #}
+{# चुकूज,#}</div> Ku. ii. 32.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>23907<pc>748<k1>virile<k2>virile
-<div n="lb"/>{@VIRILE:@}¦ <div n="1">(1) {#पुरुष-#} in comp.; </div><div n="1">(2) {#पौरुष#} (f. {#षी#});</div>
-<div n="lb"/><div n="1">(3) {#पौरुषेय#} (f. {#यी#}).</div>
+{@VIRILE:@}¦ <div n="1">(1) {#पुरुष-#} in comp.; </div><div n="1">(2) {#पौरुष#} (f. {#षी#});</div>
+<div n="1">(3) {#पौरुषेय#} (f. {#यी#}).</div>
 <LEND>

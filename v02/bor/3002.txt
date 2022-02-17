@@ -1,3 +1,3 @@
 <L>3002<pc>101<k1>canteen<k2>canteen
-<div n="lb"/>{@CANTEEN, CANTINE:@}¦ {#मद्यभाण्डम्।#}
+{@CANTEEN, CANTINE:@}¦ {#मद्यभाण्डम्।#}
 <LEND>

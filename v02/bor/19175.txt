@@ -1,5 +1,5 @@
 <L>19175<pc>594<k1>restraint<k2>restraint
-<div n="lb"/>{@RESTRAINT:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#यमः, सं-, नि-;#} </div><div n="1">(2)
-<div n="lb"/>{#नि-यन्त्रणम्, -णा, वि-, सं-;#} </div><div n="1">(3) {#निग्रहः;#} </div><div n="1">(4) {#रोधः, #}
-<div n="lb"/>{# सं-, अव-, नि-।#} </div><div n="I">II Restriction: q. v.</div>
+{@RESTRAINT:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#यमः, सं-, नि-;#} </div><div n="1">(2)
+{#नि-यन्त्रणम्, -णा, वि-, सं-;#} </div><div n="1">(3) {#निग्रहः;#} </div><div n="1">(4) {#रोधः, #}
+{# सं-, अव-, नि-।#} </div><div n="I">II Restriction: q. v.</div>
 <LEND>

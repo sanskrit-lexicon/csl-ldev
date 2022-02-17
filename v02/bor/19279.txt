@@ -1,11 +1,11 @@
 <L>19279<pc>598<k1>revolution<k2>revolution
-<div n="lb"/>{@REVOLUTION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#परिवर्तः, -नम्,#}
-<div n="lb"/><div n="xe">{%and by their r. s:%}</div> <div n="xs">{#तेषां तु परिवर्तेन,#}</div> Su. i. 27.; </div><div n="1">(2)
-<div n="lb"/>{#भ्रमणम्#} (when the sense is clear), {%circular r.:%}
-<div n="lb"/>{#चक्रभ्रमणम्,#} Go.; </div><div n="1">(3) {#गतिः#} (= motion). </div><div n="I">II
-<div n="lb"/>The space measured by r.: {#भगणः,#} {%twelve%}
-<div n="lb"/>({%signs%}) <div n="xe">{%make a r.:%}</div> <div n="xs">{#भगणो द्वादशैव ते,#}</div> Su. i. 28.;
-<div n="lb"/><div n="xe">{%r. s of the Sun, Mercury and Venus:%}</div> <div n="xs">{#सूर्ययज्ञशुक्राणां #}
-<div n="lb"/>{# भगणाः,#}</div> Su. i. 29. </div><div n="I">III In government: {#राज्य-#}
-<div n="lb"/>{#परिवर्तः, -नम्,#} and sim. comp. s (?).</div>
+{@REVOLUTION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#परिवर्तः, -नम्,#}
+<div n="xe">{%and by their r. s:%}</div> <div n="xs">{#तेषां तु परिवर्तेन,#}</div> Su. i. 27.; </div><div n="1">(2)
+{#भ्रमणम्#} (when the sense is clear), {%circular r.:%}
+{#चक्रभ्रमणम्,#} Go.; </div><div n="1">(3) {#गतिः#} (= motion). </div><div n="I">II
+The space measured by r.: {#भगणः,#} {%twelve%}
+({%signs%}) <div n="xe">{%make a r.:%}</div> <div n="xs">{#भगणो द्वादशैव ते,#}</div> Su. i. 28.;
+<div n="xe">{%r. s of the Sun, Mercury and Venus:%}</div> <div n="xs">{#सूर्ययज्ञशुक्राणां #}
+{# भगणाः,#}</div> Su. i. 29. </div><div n="I">III In government: {#राज्य-#}
+{#परिवर्तः, -नम्,#} and sim. comp. s (?).</div>
 <LEND>

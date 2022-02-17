@@ -14,7 +14,7 @@
 <ls>10, 11, 1.</ls> {#वि\द्वाँ ऋ\तूँ ऋ^तुपते यजे\ह#} 
 <ls>2, 1. 3. 1, 95, 3.</ls> <ls>AV. 11, 1, 4.</ls> Häufig im instr., namentlich pl.: {%zu seiner Zeit, in den rechten Zeiten, zur Opfer - oder Festzeit%}; so 
 z. B. <ls>ṚV. 1, 15, 1.</ls> fgg., wo die Commentatoren eine Personification ganz unpassend annehmen, wie schon aus dem Wechsel von {#ऋतुना, ऋतुभिः, ऋतूंरनु#} hervorgeht; desgleichen 
-<ls n="ṚV.">2, 37, 1.</ls> <ls>fgg.</ls> und ähnlich an vielen andern Stellen. {#आग^न्दे\व ऋ\तुभि\र्वर्ध^तु\ क्षय^म्#} 
+<ls n="ṚV.">2, 37, 1. fgg.</ls> und ähnlich an vielen andern Stellen. {#आग^न्दे\व ऋ\तुभि\र्वर्ध^तु\ क्षय^म्#} 
 <ls>ṚV. 4, 53, 7.</ls> {#त्वमुत्सा^ँ ऋ\तुभि^र्बद्बधा\नाँ अर^ंह\ ऊध\ः पर्व^तस्य#} 
 <ls n="ṚV.">5, 32, 2.</ls> {#(देवाः) ऋ\तुभि^र्हवन\श्रुत^ः#} 
 <ls n="ṚV.">6, 52, 10.</ls> {#ऋ\तुभि^रृतुपा पाहि\ सोम^मिन्द्र#} 
@@ -27,7 +27,7 @@ z. B. <ls>ṚV. 1, 15, 1.</ls> fgg., wo die Commentatoren eine Personification g
 angenommene Zahl der Jahreszeiten ist {%fünf%}, nämlich <is>Vasanta</is>, <is>Grīṣma</is>, <is>Varṣā</is> pl., <is>Śarad</is>, <is>Hemanta</is> - <is>Śiśira</is> (so 
 <ls>VS. 10, 10. fgg.</ls> 
 <ls>AV. 8, 9, 15. 13, 1, 18.</ls> 
-<ls>ŚAT. BR. 1, 3, 5, 11. 6, 2, 2, 3. 11, 1, 1, 26 u.s.w.</ls> <ls>TS. 4, 3, 3, 1. 2. 5, 3, 1, 2.</ls> {#पञ्चर्तवो हेमन्तशिशिरयोः समासेन#} 
+<ls>ŚAT. BR. 1, 3, 5, 11. 6, 2, 2, 3. 11, 1, 1, 26</ls> u.s.w. <ls>TS. 4, 3, 3, 1. 2. 5, 3, 1, 2.</ls> {#पञ्चर्तवो हेमन्तशिशिरयोः समासेन#} 
 <ls>AIT. BR. 1, 1.</ls> auch <is>Varṣā-Śarad</is> werden zusammengef. statt <is>Hemanta-Śiśira</is> 
 <ls>ŚAT. BR. 13, 6, 1, 10. 11.</ls> mit Weglassung von <is>Śiśira</is> 
 <ls>CHĀND. UP. 2, 5, 1</ls>), oder {%sechs%}, mit Scheidung der beiden letzten, 
@@ -42,7 +42,7 @@ angenommene Zahl der Jahreszeiten ist {%fünf%}, nämlich <is>Vasanta</is>, <is>
 <ls>MED. t. 6.</ls> <ls>MBH. 3, 10663.</ls> <ls>R. 1, 19, 1. 2, 25, 9.</ls> {#तत्र माघादयो द्वादश मासा द्विमासिकमृतुं कृत्वा षडृतवो भवन्ति । ते शिशिरवसन्तग्रीष्मवर्षाशरद्धेमन्ताः ।#} 
 <ls>SUŚR. 1, 19, 7. 20, 1.</ls> {#षडृतूंश्च नमस्कुर्यात्#} 
 <ls>M. 3, 217.</ls> Als sechs Männer gedacht, welche mit goldenen und silbernen Würfeln spielen, 
-<ls>MBH. 13, 2368. 2381.</ls> Indessen wird auch die Zahl {%sieben%} angenommen, sei es durch Einrechnung des 13ten Monats, sei es als Ausdruck der unbestimmten Vielheit für {%Jahresabschnitte%} überhaupt: {#अ\हमृ\तूंर^जनयं स\प्त सा\कम्#} 
+<ls>MBH. 13, 2368.</ls> <ls n="MBH. 13,">2381.</ls> Indessen wird auch die Zahl {%sieben%} angenommen, sei es durch Einrechnung des 13ten Monats, sei es als Ausdruck der unbestimmten Vielheit für {%Jahresabschnitte%} überhaupt: {#अ\हमृ\तूंर^जनयं स\प्त सा\कम्#} 
 <ls>AV. 6, 61, 2. 8, 9, 18.</ls> 
 <ls>ŚAT. BR. 8, 5, 1, 15. fgg. 9, 1, 2, 31. 3, 1, 19. 5, 2, 8.</ls> oder auch {%zwölf%}, indem sie mit den {%Monaten%} gleichgestellt werden, 
 <ls>AV. 11, 6, 22.</ls> {#मधुश्च माधवश्च वासन्तिकावृतू#} 
@@ -86,7 +86,7 @@ angenommene Zahl der Jahreszeiten ist {%fünf%}, nämlich <is>Vasanta</is>, <is>
 <ls>VIṢṆU</ls> in <ls>DĀY. 272, 17.</ls> {#ऋतुषु नैवाभिगमनम्#} 
 <ls>PAÑCAT. Pr. 8.</ls> {%der Beischlaf selbst zu dieser Zeit%}: {#पित्रे न दद्याच्छुल्कं तु कन्यामृतुमतीं हरन् । स हि स्वाम्यादतिक्रामेदृतूनां प्रतिरोधनात् ॥#} 
 <ls>M. 9, 93.</ls> {#ऋतुं वै याचमानाया न ददाति पुमानृतुम् । भ्रूणहेत्युच्यते ब्रह्मन्स इह ब्रह्मवादिभिः ॥#} 
-<ls>MBH. 1, 3456. 3455.</ls> {#सा त्वां याचे प्रसाद्याहमृतुं देहि नराधिप#} 
+<ls>MBH. 1, 3456.</ls> <ls n="MBH. 1,">3455.</ls> {#सा त्वां याचे प्रसाद्याहमृतुं देहि नराधिप#} 
 <ls>3409.</ls> 
 <div n="1">— 4)
 [Page1-1054]

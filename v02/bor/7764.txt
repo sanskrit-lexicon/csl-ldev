@@ -1,4 +1,4 @@
 <L>7764<pc>246<k1>equation<k2>equation
-<div n="lb"/>{@EQUATION:@}¦ {#समीकरणम्,#} <div n="xe">{%quadratic e.:%}</div> <div n="xs">{#वर्गसमीकरणम्,#}</div>
-<div n="lb"/>Vij.
+{@EQUATION:@}¦ {#समीकरणम्,#} <div n="xe">{%quadratic e.:%}</div> <div n="xs">{#वर्गसमीकरणम्,#}</div>
+Vij.
 <LEND>

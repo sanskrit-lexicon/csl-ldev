@@ -1,6 +1,6 @@
 <L>12275<pc>382<k1>injury<k2>injury
-<div n="lb"/>{@INJURY:@}¦ <div n="I">I Harm: </div><div n="1">(1) {#अपकारः;#} </div><div n="1">(2) {#पीडा,#} <div n="xe">{%from%}
-<div n="lb"/>{%which there is much good and little i. to the far-%}
-<div n="lb"/>{%mer:%}</div> <div n="xs">{#येन बहुतर उपकारः क्षेत्रस्वामिनश्चाल्पा पीडा,#}</div> Viv.:</div>
-<div n="lb"/><div n="1">(3) {#बाधा।#} </div><div n="I">II Hurt: {#क्षतम्#} <div n="xe">{%or%}</div> <div n="xs">{#क्षतिः।#}</div></div>
+{@INJURY:@}¦ <div n="I">I Harm: </div><div n="1">(1) {#अपकारः;#} </div><div n="1">(2) {#पीडा,#} <div n="xe">{%from%}
+{%which there is much good and little i. to the far-%}
+{%mer:%}</div> <div n="xs">{#येन बहुतर उपकारः क्षेत्रस्वामिनश्चाल्पा पीडा,#}</div> Viv.:</div>
+<div n="1">(3) {#बाधा।#} </div><div n="I">II Hurt: {#क्षतम्#} <div n="xe">{%or%}</div> <div n="xs">{#क्षतिः।#}</div></div>
 <LEND>

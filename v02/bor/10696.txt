@@ -1,8 +1,8 @@
 <L>10696<pc>336<k1>hateful<k2>hateful
-<div n="lb"/>{@HATEFUL@}¦ (adj.): <div n="I">I Malignant: q.v.: <div n="xe">{%with%}
-<div n="lb"/>{%h. eyes:%}</div> <div n="xs">{#विदेषचक्षुषा।#}</div> </div><div n="I">II Hated, odious: </div><div n="1">(1)
-<div n="lb"/>{#घृणितः#} ({#ता, तं#}); </div><div n="1">(2) {#घृणार्ह#} (f. {#र्हा#}); </div><div n="1">(3) {#गर्हितः#}
-<div n="lb"/>({#ता, तं#}); </div><div n="1">(4) {#निर्घृण#} (f. {#णा#}), <div n="xe">{%where all practices%}
-<div n="lb"/>{%are more h. than the hearts of people:%}</div> <div n="xs">{#लोकहृदयेभ्यो #}
-<div n="lb"/>{# निर्घृणतरसर्वसंव्यवहारम्,#}</div> K. ii.</div>
+{@HATEFUL@}¦ (adj.): <div n="I">I Malignant: q.v.: <div n="xe">{%with%}
+{%h. eyes:%}</div> <div n="xs">{#विदेषचक्षुषा।#}</div> </div><div n="I">II Hated, odious: </div><div n="1">(1)
+{#घृणितः#} ({#ता, तं#}); </div><div n="1">(2) {#घृणार्ह#} (f. {#र्हा#}); </div><div n="1">(3) {#गर्हितः#}
+({#ता, तं#}); </div><div n="1">(4) {#निर्घृण#} (f. {#णा#}), <div n="xe">{%where all practices%}
+{%are more h. than the hearts of people:%}</div> <div n="xs">{#लोकहृदयेभ्यो #}
+{# निर्घृणतरसर्वसंव्यवहारम्,#}</div> K. ii.</div>
 <LEND>

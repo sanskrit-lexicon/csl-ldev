@@ -1,12 +1,12 @@
 <L>16500<pc>506<k1>pass<k2>pass
-<div n="lb"/>{@PASS@}¦ (v. i.): <div n="I">I Of time: </div><div n="1">(1) {#गच्छति#} ({#गम्,#} c.
-<div n="lb"/>1.); </div><div n="1">(2) {#याति#} ({#या,#} c. 2.): v. Also p.
-<div n="lb"/>away. </div><div n="I">II To go, move: q. v.: {#चलति#} ({#चल्,#}
-<div n="lb"/>c. 1.). </div><div n="I">III To become changed: expr.
-<div n="lb"/>by {#भवति#} (= to become). </div><div n="I">IV To be cur-
-<div n="lb"/>-rent: </div><div n="1">(1) {#चलति, प्र-;#} </div><div n="1">(2) by adj.: {#प्रचलः#}
-<div n="lb"/>({#ला, लं#}) <div n="xe">{%or%}</div> <div n="xs">{#प्रचलितः#}</div> (f. {#ता#}). </div><div n="I">V To occur,
-<div n="lb"/>happen: q. v. </div><div n="I">VI To surpass: q. v. </div><div n="I">VII
-<div n="lb"/>To be enacted: {#*सिध्यति#} ({#सिध्,#} c. 4.) {%or%}
-<div n="lb"/>{#सिद्धीभवति।#}</div>
+{@PASS@}¦ (v. i.): <div n="I">I Of time: </div><div n="1">(1) {#गच्छति#} ({#गम्,#} c.
+1.); </div><div n="1">(2) {#याति#} ({#या,#} c. 2.): v. Also p.
+away. </div><div n="I">II To go, move: q. v.: {#चलति#} ({#चल्,#}
+c. 1.). </div><div n="I">III To become changed: expr.
+by {#भवति#} (= to become). </div><div n="I">IV To be cur-
+-rent: </div><div n="1">(1) {#चलति, प्र-;#} </div><div n="1">(2) by adj.: {#प्रचलः#}
+({#ला, लं#}) <div n="xe">{%or%}</div> <div n="xs">{#प्रचलितः#}</div> (f. {#ता#}). </div><div n="I">V To occur,
+happen: q. v. </div><div n="I">VI To surpass: q. v. </div><div n="I">VII
+To be enacted: {#*सिध्यति#} ({#सिध्,#} c. 4.) {%or%}
+{#सिद्धीभवति।#}</div>
 <LEND>

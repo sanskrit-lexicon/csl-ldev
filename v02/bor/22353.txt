@@ -1,7 +1,7 @@
 <L>22353<pc>704<k1>terrene<k2>terrene
-<div n="lb"/>{@TERRENE,@}¦ {@TERRESTRIAL:@} <div n="I">I Pertaining to
-<div n="lb"/>earth: </div><div n="1">(1) by comp., <div n="xe">{%t. globe:%}</div> <div n="xs">{#भूगोलः;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#पार्थिवः,#} ({#वी, वं#}); </div><div n="1">(3) {#भौमः#} ({#मी, मं#}). </div><div n="I">II Rela-
-<div n="lb"/>-ting to this life: </div><div n="1">(1) {#ऐहिकः#} ({#की, कं#}); </div><div n="1">(2)
-<div n="lb"/>{#सांसारिकः#} ({#की, कं#}); </div><div n="1">(3) {#लौकिकः#} ({#की, कं#}).</div>
+{@TERRENE,@}¦ {@TERRESTRIAL:@} <div n="I">I Pertaining to
+earth: </div><div n="1">(1) by comp., <div n="xe">{%t. globe:%}</div> <div n="xs">{#भूगोलः;#}</div> </div><div n="1">(2)
+{#पार्थिवः,#} ({#वी, वं#}); </div><div n="1">(3) {#भौमः#} ({#मी, मं#}). </div><div n="I">II Rela-
+-ting to this life: </div><div n="1">(1) {#ऐहिकः#} ({#की, कं#}); </div><div n="1">(2)
+{#सांसारिकः#} ({#की, कं#}); </div><div n="1">(3) {#लौकिकः#} ({#की, कं#}).</div>
 <LEND>

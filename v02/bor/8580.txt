@@ -1,7 +1,7 @@
 <L>8580<pc>272<k1>feigned<k2>feigned
-<div n="lb"/>{@FEIGNED@}¦ (adj.): <div n="1">(1) {#कपट#} in comp., <div n="xe">{%with f.%}
-<div n="lb"/>{%cloak of virtue:%}</div> <div n="xs">{#कपटधर्मकञ्चुकः,#}</div> Da. i.: v. Coun-
-<div n="lb"/>-terfeit; </div><div n="1">(2) {#कृतकः#} ({#का, कं#}), <div n="xe">{%f. anger:%}</div> <div n="xs">{#कृतककोपः,#}</div>
-<div n="lb"/>Sa. v.: v. Affected; </div><div n="1">(3) {#अलीकः#} ({#का, कं#}),
-<div n="lb"/><div n="xe">{%f. Nala:%}</div> <div n="xs">{#अलीकनलः,#}</div> N.: v. False.</div>
+{@FEIGNED@}¦ (adj.): <div n="1">(1) {#कपट#} in comp., <div n="xe">{%with f.%}
+{%cloak of virtue:%}</div> <div n="xs">{#कपटधर्मकञ्चुकः,#}</div> Da. i.: v. Coun-
+-terfeit; </div><div n="1">(2) {#कृतकः#} ({#का, कं#}), <div n="xe">{%f. anger:%}</div> <div n="xs">{#कृतककोपः,#}</div>
+Sa. v.: v. Affected; </div><div n="1">(3) {#अलीकः#} ({#का, कं#}),
+<div n="xe">{%f. Nala:%}</div> <div n="xs">{#अलीकनलः,#}</div> N.: v. False.</div>
 <LEND>

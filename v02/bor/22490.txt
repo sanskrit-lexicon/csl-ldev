@@ -1,10 +1,10 @@
 <L>22490<pc>710<k1>threaten<k2>threaten
-<div n="lb"/>{@THREATEN:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#तर्जयति, सं-#} ({#तर्ज्,#} c.
-<div n="lb"/>10.), <div n="xe">{%t. ed much against Dhanamitra:%}</div> <div n="xs">{#धनमित्र-#}
-<div n="lb"/>{#मुल्लङ्घ्य बह्वतर्जयत्,#}</div> D. ii.; <div n="xe">{%t. ed them:%}</div> <div n="xs">{#तावतर्जयत्,#}</div>
-<div n="lb"/>R. xii. 41.; </div><div n="1">(2) {#भीषयति#} (c. of {#भी#} = frighten:
-<div n="lb"/>q. v.). </div><div n="I">II Fig.: expr. by circumlo.: <div n="xe">{%it t. s%}
-<div n="lb"/>{%rain or t. ing weather:%}</div> <div n="xs">{#वृष्ट्याशंसि दिवसम्;#}</div> <div n="xe">{%weather%}
-<div n="lb"/>{%is t. ing:%}</div> <div n="xs">{#प्रत्यासीदति भ्कञ्भ्क:#}</div> v. To bespeak,
-<div n="lb"/>impend.</div>
+{@THREATEN:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#तर्जयति, सं-#} ({#तर्ज्,#} c.
+10.), <div n="xe">{%t. ed much against Dhanamitra:%}</div> <div n="xs">{#धनमित्र-#}
+{#मुल्लङ्घ्य बह्वतर्जयत्,#}</div> D. ii.; <div n="xe">{%t. ed them:%}</div> <div n="xs">{#तावतर्जयत्,#}</div>
+R. xii. 41.; </div><div n="1">(2) {#भीषयति#} (c. of {#भी#} = frighten:
+q. v.). </div><div n="I">II Fig.: expr. by circumlo.: <div n="xe">{%it t. s%}
+{%rain or t. ing weather:%}</div> <div n="xs">{#वृष्ट्याशंसि दिवसम्;#}</div> <div n="xe">{%weather%}
+{%is t. ing:%}</div> <div n="xs">{#प्रत्यासीदति भ्कञ्भ्क:#}</div> v. To bespeak,
+impend.</div>
 <LEND>

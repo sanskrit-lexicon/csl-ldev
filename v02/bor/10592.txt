@@ -1,4 +1,4 @@
 <L>10592<pc>333<k1>handsomely<k2>handsomely
-<div n="lb"/>{@HANDSOMELY:@}¦ <div n="I">I Beautifully: q.v.: {#शोभनम्।#}</div>
-<div n="lb"/><div n="I">II Amply: {#यथेष्टम्।#}</div>
+{@HANDSOMELY:@}¦ <div n="I">I Beautifully: q.v.: {#शोभनम्।#}</div>
+<div n="I">II Amply: {#यथेष्टम्।#}</div>
 <LEND>

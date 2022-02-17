@@ -1,5 +1,5 @@
 <L>513<pc>020<k1>akin<k2>akin
-<div n="lb"/>{@AKIN:@}¦ <div n="I">I Related by blood: </div><div n="1">(1) {#सगोत्रः#} ({#त्रा, त्रं#});</div>
-<div n="lb"/><div n="1">(2) {#सनाभि#} (mfn.). </div><div n="I">II Allied by nature: </div><div n="1">(1)
-<div n="lb"/>{#सद्दशः#} ({#शा, शं#}); </div><div n="1">(2) {#रूपः#} ({#पा, पं#}) affixed.</div>
+{@AKIN:@}¦ <div n="I">I Related by blood: </div><div n="1">(1) {#सगोत्रः#} ({#त्रा, त्रं#});</div>
+<div n="1">(2) {#सनाभि#} (mfn.). </div><div n="I">II Allied by nature: </div><div n="1">(1)
+{#सद्दशः#} ({#शा, शं#}); </div><div n="1">(2) {#रूपः#} ({#पा, पं#}) affixed.</div>
 <LEND>

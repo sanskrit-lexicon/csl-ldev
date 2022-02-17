@@ -7,9 +7,9 @@
 <ls>AK. 1, 1, 4, 20.</ls> 
 <ls>H. 1391.</ls> 
 <ls>ṚV. 7, 59, 12.</ls> <ls n="ṚV.">8, 19, 24.</ls> 
-<ls>MBH. 3, 1739. 2938. 11999.</ls> 
-<ls>HARIV. 8792. 12100. 16116</ls> (nach der Lesart der neueren Ausg.). 
-<ls>R.1,9,5. 39.2,57,4.</ls> <ls>R.</ls> <ls>GORR.2,8,48.3,79,6.6,37,35.7,31,29.</ls> <ls>CARAKA 1,8. 27.</ls> <ls>SUŚR. 1,113,7. 171,10. 200,15.2,552,5.</ls> <ls>KĀM. NĪTIS. 15,10.</ls> <ls>ṚT. 6,2.</ls> <ls>RAGH. 4,45.</ls> <ls>KUMĀRAS. 3,56.</ls> <ls>Spr. (II) 1418. 1735. 2503.</ls> <ls>VARĀH. BṚH. S. 44,23. 67,7. 79,26. 104,61.</ls> <ls>KATHĀS. 16,28.</ls> <ls>Verz. d. Oxf. H. 103,b,24.</ls> <ls>BHĀG. P. 5,16,18</ls> (neben {#सुरभि#}). 
+<ls>MBH. 3, 1739.</ls> <ls n="MBH. 3,">2938.</ls> <ls n="MBH. 3,">11999.</ls> 
+<ls>HARIV. 8792.</ls> <ls n="HARIV.">12100.</ls> <ls n="HARIV.">16116</ls> (nach der Lesart der neueren Ausg.). 
+<ls>R.1,9,5. 39.2,57,4.</ls> <ls>R.</ls> <ls>GORR.2,8,48.3,79,6.6,37,35.7,31,29.</ls> <ls>CARAKA 1,8. 27.</ls> <ls>SUŚR. 1,113,7. 171,10. 200,15.2,552,5.</ls> <ls>KĀM. NĪTIS. 15,10.</ls> <ls>ṚT. 6,2.</ls> <ls>RAGH. 4,45.</ls> <ls>KUMĀRAS. 3,56.</ls> <ls>Spr. (II) 1418.</ls> <ls n="Spr. (II)">1735.</ls> <ls n="Spr. (II)">2503.</ls> <ls>VARĀH. BṚH. S. 44,23. 67,7. 79,26. 104,61.</ls> <ls>KATHĀS. 16,28.</ls> <ls>Verz. d. Oxf. H. 103,b,24.</ls> <ls>BHĀG. P. 5,16,18</ls> (neben {#सुरभि#}). 
 <ls>PAÑCAR. 1, 7, 38. 62.</ls> <ls>CAURAP. 42.</ls> {#अति°#} 
 <ls>SUŚR. 1, 184, 3.</ls> {#सु°#} 
 <ls>MBH. 7, 2920.</ls> 

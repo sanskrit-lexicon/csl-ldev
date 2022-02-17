@@ -1,8 +1,8 @@
 <L>350<pc>010,2<k1>अत्यन्तकाले<k2>अत्यन्तकाले
 {@atyantakāle@}¦, adv. (cf. AMg. accantakālassa, Ratnach.),
-<div n="lb">{%for a very long time%}: Mv i.103.9, read yadā (mss., Senart
-<div n="lb">omits this) preteṣu, atyantakāle (mss. reported °kāye,
-<div n="lb">Senart em. °kāyeṣu; perh. read °kālena?) nopapadyanti,
-<div n="lb">{%if (they are born) among pretas, they are not born (so) for a%}
-<div n="lb">{%very long time%}.
+{%for a very long time%}: Mv i.103.9, read yadā (mss., Senart
+omits this) preteṣu, atyantakāle (mss. reported °kāye,
+Senart em. °kāyeṣu; perh. read °kālena?) nopapadyanti,
+{%if (they are born) among pretas, they are not born (so) for a%}
+{%very long time%}.
 <LEND>

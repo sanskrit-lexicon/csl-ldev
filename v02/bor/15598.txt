@@ -1,4 +1,4 @@
 <L>15598<pc>478<k1>numerically<k2>numerically
-<div n="lb"/>{@NUMERICALLY:@}¦ <div n="1">(1) {#संख्यया, परि-;#} </div><div n="1">(2) {#संख्यानेन, #}
-<div n="lb"/>{# परि-।#}</div>
+{@NUMERICALLY:@}¦ <div n="1">(1) {#संख्यया, परि-;#} </div><div n="1">(2) {#संख्यानेन, #}
+{# परि-।#}</div>
 <LEND>

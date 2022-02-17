@@ -1,7 +1,7 @@
 <L>97787<pc>6011-1<k1>वद्<k2>वद्<e>500
-{#वद्#}¦ , {#व/दति#} , {#°ते#} ( {#उदेयम्#} <ls>AV.,</ls> {#°वादत#} und {#°वादेयुस्#} metrisch für {#°वदत#} und {#°वदेयुस्#})
+{#वद्#}¦ , {#व/दति#} , {#°ते#} ( {#उदेयम्#} <ls>AV.</ls>, {#°वादत#} und {#°वादेयुस्#} metrisch für {#°वदत#} und {#°वदेयुस्#})
 <div n="1">— 1) <ab>Act.</ab>
-<div n="2">— a) {%reden , sagen , sprechen , — dass%} (mit doppeltem <ab>Acc.</ab> [<ls>76,13]</ls> oder mit {#यद्#}) , {%— ob%} ( {#यदि#}) , {%— zu Jmd%} (<ab>Acc.</ab> , <ab>Gen.</ab> oder <ab>Acc.</ab> mit {#अभि#}) , {%— zu Jmd Etwas%} (mit doppeltem <ab>Acc.</ab>).
+<div n="2">— a) {%reden , sagen , sprechen , — dass%} (mit doppeltem <ab>Acc.</ab> [<ls>76,13</ls>] oder mit {#यद्#}) , {%— ob%} ( {#यदि#}) , {%— zu Jmd%} (<ab>Acc.</ab> , <ab>Gen.</ab> oder <ab>Acc.</ab> mit {#अभि#}) , {%— zu Jmd Etwas%} (mit doppeltem <ab>Acc.</ab>).
 <div n="2">— b) {%rathen zu%} (<ab>Acc.</ab>).
 <div n="2">— c) {%zusprechen , zusagen.%}
 <div n="2">— d) {%mittheilen , verkünden , angeben , besprechen , sprechen — , berichten über , sprechen von%} (<ab>Acc.</ab>) ; mit <ab>Gen.</ab> oder <ab>Loc.</ab> der Person , zu der man spricht.
@@ -9,13 +9,13 @@
 <div n="2">— f) {%behaupten , annehmen.%}
 <div n="2">— g) {%bezeichnen , als , erklären für , nennen%} ; mit doppeltem <ab>Acc.</ab> oder mit <ab>Nomin.</ab> und {#इति#}.
 <div n="2">— h) {%die Stimme%} (auch mit Hinzufügung von {#वाचम्#}) {%ertönen lassen%} (von Vögeln u.s.w.) ; {%tönen , schallen , klingen.%}
-<div n="2">— i) {#अ#}.{#व्#}.{#अद्#}.{#अस्#} <ls>ṚV.3,30,5</ls> vielleicht fehlerhaft für {#अ/व#} {#दस्#} (v on {#दर्#}).
+<div n="2">— i) {#अ#}.{#व्#}.{#अद्#}.{#अस्#} <ls>ṚV. 3,30,5</ls> vielleicht fehlerhaft für {#अ/व#} {#दस्#} (v on {#दर्#}).
 <div n="1">— 2) <ab>Med.</ab>
 <div n="2">— a) {%sagen , sprechen , zu Jmd%} (<ab>Acc.</ab>).
 <div n="2">— b) {%besprechen , sprechen , sprechen über , mittheilen , angeben , mit Namen nennen.%}
 <div n="2">— c) {%sich besprechen über%} (<ab>Loc.</ab>).
 <div n="2">— d) {%sich streiten um%} (<ab>Loc.</ab>).
-<div n="2">— e) {%Ansprüche machen auf%} (<ab>Loc.</ab>) <ls>AIT.BR.2,25,6.</ls> Diese Bed. ist wohl mit {#यत्न#} <ls>P.1,3,47</ls> gemeint.
+<div n="2">— e) {%Ansprüche machen auf%} (<ab>Loc.</ab>) <ls>AIT. BR. 2,25,6.</ls> Diese Bed. ist wohl mit {#यत्न#} <ls>P. 1,3,47</ls> gemeint.
 <div n="2">— f) wohl {%*eine Autorität sein — , hervorstechen , sich auszeichnen in%} (<ab>Loc.</ab>).
 <div n="2">— g) {%triumphiren%} <ls>BHAṬṬ.</ls>
 <div n="1">— 3) {#उदित/#}
@@ -32,7 +32,7 @@
 <div n="1">— 3) {%ertönen — , erklingen lassen , spielen%} (ein musikalisches Instrument) ; mit <ab>Acc.</ab> (ausnahmsweise <ab>Loc.</ab>) des Instrumentes). Ohne Object {%musiciren.%} {#बहु#} so v.a. {%viel Lärm von sich machen.%} {#वादित#} {%gespielt%} (ein Instrument).
 <div n="1">— 4) {%*von Jmd%} (<ab>Instr.</ab>) ein musikalisches Instrument (<ab>Acc.</ab>) {%spielen lassen.%}
 <div n="1">— 5) {%sprechen , hersagen.%}
-<div n="m">— <ab>Desid.</ab> {#विवदिषति#} {%zu sagen — , zu sprechen beabsichtigen%} <ls>GOBH.1,5,25.</ls>
+<div n="m">— <ab>Desid.</ab> {#विवदिषति#} {%zu sagen — , zu sprechen beabsichtigen%} <ls>GOBH. 1,5,25.</ls>
 <div n="m">— <ab>Intens.</ab> ( {#वावदीति#} , {#वा/वदत्#} , {#ववद्य/मान#}) {%laut reden , — tönen.%}
 <div n="p">— Mit {#अच्छ#} <ab>Act.</ab> {%begrüssend anreden , einladen.%}
 <div n="p">— Mit {#अति#} <ab>Act.</ab>
@@ -54,15 +54,15 @@
 <div n="2">— b) {%erklingen wie%} (<ab>Gen.</ab>) <ls>BHAṬṬ.</ls>
 <div n="m">— <ab>Caus.</ab>
 <div n="1">— 1) {%ertönen — , erklingen lassen.%}
-<div n="1">— 2) {%widerhallen lassen%} <ls>CARAKA.1,1.</ls>
+<div n="1">— 2) {%widerhallen lassen%} <ls>CARAKA. 1,1.</ls>
 <div n="p">— Mit {#अभ्यनु#} <ab>Act.</ab> {%in Beziehung auf Etwas sagen.%}
 <div n="p">— Mit {#अप#}
 <div n="1">— 1) <ab>Act.</ab>
 <div n="2">— a) {%seinen Unmuth auslassen gegen Jmd , tadeln , schmähen%} ; mit <ab>Gen.</ab> oder <ab>Acc.</ab>
 <div n="2">— b) {%Jmd%} (<ab>Acc.</ab>) {%durch Reden zerstreuen.%}
 <div n="2">— c) {%ausnehmen%} ( {%eine Ausnahme machen%} ).
-<div n="2">— d) {%als unrichtig bezeichnen%} <ls>ŚAṂK.zu.BĀDAR.2,1,14(S.447,Z.10).</ls>
-<div n="1">— 2) <ab>Med.</ab> {%geringschätzig sprechen von , schmähen , tadeln%} ; mit <ab>Acc.</ab> <ls>CARAKA.1,29.</ls> <ls>ŚIŚ.17,19.</ls> mit <ab>Instr.</ab> <ls>BĀLAR.44,12.</ls> mit <ab>Dat.</ab> <ls>BHAṬṬ.</ls>
+<div n="2">— d) {%als unrichtig bezeichnen%} <ls>ŚAṂK. zu BĀDAR. 2,1,14 (S. 447, Z. 10).</ls>
+<div n="1">— 2) <ab>Med.</ab> {%geringschätzig sprechen von , schmähen , tadeln%} ; mit <ab>Acc.</ab> <ls>CARAKA. 1,29.</ls> <ls>ŚIŚ. 17,19.</ls> mit <ab>Instr.</ab> <ls>BĀLAR. 44,12.</ls> mit <ab>Dat.</ab> <ls>BHAṬṬ.</ls>
 <div n="m">— <ab>Caus.</ab>
 <div n="1">— 1) {%Jmd tadeln , schmähen , Etwas tadeln , missbilligen.%}
 <div n="1">— 2) {%ausnehmen%} ( {%eine Ausnahme machen%} ).
@@ -77,10 +77,10 @@
 <div n="1">— 2) *<ab>Med.</ab> {%Jmd%} (<ab>Acc.</ab>) {%durch Jmd%} (<ab>Acc.</ab>
 [Page6011-3]
 oder <ab>Instr.</ab>) {%begrüssen lassen.%}
-<div n="1">— 3) <ab>Med.</ab> {%Jmd%} (<ab>Dat.</ab>) {%seine Verehrung bezeigen%} <ls>ŚĀṄKH.GṚHY.4,12.</ls>
+<div n="1">— 3) <ab>Med.</ab> {%Jmd%} (<ab>Dat.</ab>) {%seine Verehrung bezeigen%} <ls>ŚĀṄKH. GṚHY. 4,12.</ls>
 <div n="1">— 4) <ab>Act.</ab> {%Etwas hersagen lassen.%}
 <div n="1">— 5) <ab>Act.</ab> {%erklingen lassen , spielen%} (ein musikalisches Instrument).
-<div n="p">— Mit {#प्रत्यभि#} <ab>Act.</ab> {%einen Gruss erwiedern%} <ls>ĀPAST.1,14,20.</ls>
+<div n="p">— Mit {#प्रत्यभि#} <ab>Act.</ab> {%einen Gruss erwiedern%} <ls>ĀPAST. 1,14,20.</ls>
 <div n="m">— <ab>Caus.</ab> <ab>Med.</ab> <ab>dass.</ab>
 <div n="p">— Mit {#समभि#} <ab>Caus.</ab> {%Jmd begrüssen.%} Nur <ab>Absol.</ab>
 <div n="p">— Mit {#अव#} <ab>Act.</ab>
@@ -99,12 +99,12 @@ oder <ab>Instr.</ab>) {%begrüssen lassen.%}
 <div n="p">— Mit {#प्रत्युद्#} <ab>Caus.</ab> {%dagegen erschallen lassen.%}
 <div n="p">— Mit {#उप#}
 <div n="1">— 1) <ab>Act.</ab>
-<div n="2">— a) {%missliebig reden über%} (<ab>Acc.</ab>) , {%beschreien , berufen , Jmd anfahren%} <ls>AIT.ĀR.314,2</ls> v.u.
+<div n="2">— a) {%missliebig reden über%} (<ab>Acc.</ab>) , {%beschreien , berufen , Jmd anfahren%} <ls>AIT. ĀR. 314,2</ls> v.u.
 <div n="2">— b) {%anreden.%}
 <div n="2">— c) {%bitten.%}
-<div n="2">— d) in der dunkelen Stelle <ls>ṚV.4,5,8</ls> zieht <ls>SĀY.</ls> {#उप#} zum <ab>Acc.</ab>
+<div n="2">— d) in der dunkelen Stelle <ls>ṚV. 4,5,8</ls> zieht <ls>SĀY.</ls> {#उप#} zum <ab>Acc.</ab>
 <div n="1">— 2) <ab>Med.</ab> {%Jmd bereden , an sich zu locken suchen%} <ls>BHAṬṬ.</ls>
-<div n="m">— <ab>Caus.</ab> <ab>Act.</ab> {%ertönen lassen%} <ls>MĀN.GṚHY.1,9.</ls>
+<div n="m">— <ab>Caus.</ab> <ab>Act.</ab> {%ertönen lassen%} <ls>MĀN. GṚHY. 1,9.</ls>
 <div n="p">— Mit {#प्रत्युप#} {%durch Reden beleidigen.%} Nur {#प्रत्युपोदित#}.
 <div n="p">— Mit {#नि#} <ab>Caus.</ab> <ab>Med.</ab> {%erschallen lassen.%}
 <div n="p">— Mit {#निस्#} <ab>Act.</ab>
@@ -112,7 +112,7 @@ oder <ab>Instr.</ab>) {%begrüssen lassen.%}
 <div n="1">— 2) {%hinausreden , hinausschallen lassen.%}
 <div n="1">— 3) {%seinen Unmuth gegen Jmd%} (<ab>Acc.</ab>) {%auslassen , Jmd schmähen.%} Metrisch auch <ab>Med.</ab>
 <div n="p">— Mit {#अभिनिस्#} <ab>Act.</ab> {%aussagen in Bezug auf%} (<ab>Acc.</ab>).
-<div n="p">— Mit {#परा#} <ab>Act.</ab> {%wegsprechen%} <ls>AV.6,29,3.</ls>
+<div n="p">— Mit {#परा#} <ab>Act.</ab> {%wegsprechen%} <ls>AV. 6,29,3.</ls>
 <div n="p">— Mit {#अभिपरा#} {%anreden.%}
 <div n="p">— Mit {#परि#} <ab>Act.</ab>
 <div n="1">— 1) {%sich auslassen , einen Ausspruch thun , bereden , besprechen , sich auslassen über%} (<ab>Acc.</ab>).
@@ -129,7 +129,7 @@ oder <ab>Instr.</ab>) {%begrüssen lassen.%}
 <div n="1">— 1) {%nachsprechen.%}
 <div n="1">— 2) {%aussagen über.%}
 <div n="m">— <ab>Caus.</ab> {%nachher ertönen lassen.%}
-<div n="p">— Mit {#अभिप्र#} <ab>Caus.</ab> {%zu Jmds Ehren ertönen lassen%} <ls>SADDH.P.88,a.</ls>
+<div n="p">— Mit {#अभिप्र#} <ab>Caus.</ab> {%zu Jmds Ehren ertönen lassen%} <ls>SADDH. P. 88,a.</ls>
 <div n="p">— Mit {#उपप्र#} <ab>Act.</ab> {%mit der Stimme einfallen.%}
 <div n="p">— Mit {#विप्र#} <ab>Act.</ab> <ab>Med.</ab>
 [Page6012-1]
@@ -152,23 +152,23 @@ oder <ab>Instr.</ab>) {%begrüssen lassen.%}
 <div n="1">— 4) <ab>Med.</ab> {%die Stimme ertönen lassen%} (von Vögeln).
 <div n="m">— <ab>Caus.</ab> <ab>Act.</ab> {%einen Process einleiten , die Gerichtsverhandlung beginnen lassen.%}
 <div n="m">— <ab>Intens.</ab> ( {#विवा/वदत्#}) {%die Stimme laut , widerholt ertönen lassen.%}
-<div n="p">— Mit {#प्रतिवि#} <ab>Med.</ab> {%dagegen reden%} <ls>ĀPAST.ŚR.10,27,6</ls> (<ab>vgl.</ab> <ab>Comm.</ab> zu <ls>KĀTY.ŚR.7,8,27</ls> ).
+<div n="p">— Mit {#प्रतिवि#} <ab>Med.</ab> {%dagegen reden%} <ls>ĀPAST. ŚR. 10,27,6</ls> (<ab>vgl.</ab> <ab>Comm.</ab> zu <ls>KĀTY. ŚR. 7,8,27</ls> ).
 <div n="p">— Mit {#सम्#}
 <div n="1">— 1) <ab>Act.</ab> (metrisch) <ab>Med.</ab> {%zusammen — , zu einander sagen , — von%} (<ab>Acc.</ab>) , {%sich unterreden mit%} (<ab>Instr.</ab>) , {%sich bereden über%} (<ab>Loc.</ab>). {#स्वे/न#} {#क्र/तुना#} {%mit sich zu Rathe gehen.%}
 <div n="1">— 2) {%einen Pact schliessen.%} Nur {#समुद्य#}.
 <div n="1">— 3) <ab>Act.</ab> {%zusammen klingen%} (von musikalischen Instrumenten).
-<div n="1">— 4) <ab>Act.</ab> <ab>Med.</ab> {%übereinstimmen , zustimmen , seine Zustimmung zu Etwas%} (<ab>Acc.</ab> <ls>ŚIŚ.13,3</ls> ) {%geben%} ; {%zutreffen%} , so v.a. {%zusammen einen Sinn geben%} <ls>308,6</ls> (im <is n="1">Prākrit</is>). {#समुदित#} {%allgemein angenommen.%} {%gebräuchlich geworden.%}
-<div n="1">— 5) <ab>Act.</ab> <ab>Med.</ab> {%sprechen , sagen zu%} (<ab>Acc.</ab>) <ls>NAIṢ.5,12.</ls> {#समुदित#} {%angeredet.%}
+<div n="1">— 4) <ab>Act.</ab> <ab>Med.</ab> {%übereinstimmen , zustimmen , seine Zustimmung zu Etwas%} (<ab>Acc.</ab> <ls>ŚIŚ. 13,3</ls> ) {%geben%} ; {%zutreffen%} , so v.a. {%zusammen einen Sinn geben%} <ls>308,6</ls> (im <is n="1">Prākrit</is>). {#समुदित#} {%allgemein angenommen.%} {%gebräuchlich geworden.%}
+<div n="1">— 5) <ab>Act.</ab> <ab>Med.</ab> {%sprechen , sagen zu%} (<ab>Acc.</ab>) <ls>NAIṢ. 5,12.</ls> {#समुदित#} {%angeredet.%}
 <div n="1">— 6) <ab>Act.</ab> {%bezeichnen als , erklären für , nennen%} ; mit doppeltem <ab>Acc.</ab>
 <div n="m">— <ab>Caus.</ab>
 <div n="1">— 1) <ab>Act.</ab> {%sich unterreden lassen mit%} (<ab>Instr.</ab>).
 <div n="1">— 2) <ab>Med.</ab> {%eine Unterredung hervorrufen über%} (<ab>Loc.</ab>).
-<div n="1">— 3) <ab>Act.</ab> {%sich über Etwas einigen%} ( {#संवाद्य#} <ls>GAUT.,</ls> {%einstimmen.%} {#संवादित#} {%worüber man sich geeinigt hat.%}
+<div n="1">— 3) <ab>Act.</ab> {%sich über Etwas einigen%} ( {#संवाद्य#} <ls>GAUT.</ls>, {%einstimmen.%} {#संवादित#} {%worüber man sich geeinigt hat.%}
 <div n="1">— 4) {%zutreffend angeben.%} Nur <ab>Absol.</ab>
 <div n="1">— 5) <ab>Act.</ab> {%Jmd zum Sprechen auffordern.%}
 <div n="1">— 6) {%ertönen lassen%} (ein musikalisches Instrument).
 <div n="p">— Mit {#उपसम्#} in {#उपसंवाद#}.
-<div n="p">— Mit {#परिसम्#} <ab>Act.</ab> {%sich gemeinschaftlich über Jmd%} (<ab>Acc.</ab>) {%äussern%} <ls>MBH.13,159,15.</ls>
+<div n="p">— Mit {#परिसम्#} <ab>Act.</ab> {%sich gemeinschaftlich über Jmd%} (<ab>Acc.</ab>) {%äussern%} <ls>MBH. 13,159,15.</ls>
 <div n="p">— Mit {#प्रतिसम्#} <ab>Med.</ab> {%sich mit Jmd%} (<ab>Acc.</ab>) {%einverstanden erklären.%}
 <div n="p">— Mit {#विसम्#} <ab>Act.</ab>
 <div n="1">— 1) {%seiner Zusage untreu werden.%}

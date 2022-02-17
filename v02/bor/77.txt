@@ -1,13 +1,13 @@
 <L>77<pc>004<k1>absence<k2>absence
-<div n="lb"/>{@ABSENCE:@}¦ <div n="I">I A not being present: </div><div n="1">(1)
-<div n="lb"/>{#अनुपस्थितिः;#} </div><div n="1">(2) By the corresp. adj s v.
-<div n="lb"/>{@ABSENT:@} Ph. <div n="xe">{%how shall I live in his a.%}</div> <div n="xs">{#अहमेतस्य #}
-<div n="lb"/>{# विरहे कथं जीविष्यामि,#}</div> Vet. </div><div n="I">II A being abroad:</div>
-<div n="lb"/><div n="1">(1) {#प्रवासः;#} </div><div n="1">(2) {#प्रवसनम्।#} </div><div n="I">III Non-existence:
-<div n="lb"/>{#अभावः:#} {%first of all, the property goes to the%}
-<div n="lb"/>{%brothers, in their a. to the mother, in mother's%}
-<div n="lb"/>{%a. to the father, and in their a to the husband%}
-<div n="lb"/>{#प्रथमं सोदराणां, तदभावे मातुः, मातुरभावे पितुः, एषां पुनरभावे #}
-<div n="lb"/>{# तद्धनं भर्तुः,#} Da. </div><div n="I">IV Fig.: pl. {%a. of mind:%}</div>
-<div n="lb"/><div n="1">(1) {#अन्यमनस्कता;#} </div><div n="1">(2) {#अमनोयोगः।#}</div>
+{@ABSENCE:@}¦ <div n="I">I A not being present: </div><div n="1">(1)
+{#अनुपस्थितिः;#} </div><div n="1">(2) By the corresp. adj s v.
+{@ABSENT:@} Ph. <div n="xe">{%how shall I live in his a.%}</div> <div n="xs">{#अहमेतस्य #}
+{# विरहे कथं जीविष्यामि,#}</div> Vet. </div><div n="I">II A being abroad:</div>
+<div n="1">(1) {#प्रवासः;#} </div><div n="1">(2) {#प्रवसनम्।#} </div><div n="I">III Non-existence:
+{#अभावः:#} {%first of all, the property goes to the%}
+{%brothers, in their a. to the mother, in mother's%}
+{%a. to the father, and in their a to the husband%}
+{#प्रथमं सोदराणां, तदभावे मातुः, मातुरभावे पितुः, एषां पुनरभावे #}
+{# तद्धनं भर्तुः,#} Da. </div><div n="I">IV Fig.: pl. {%a. of mind:%}</div>
+<div n="1">(1) {#अन्यमनस्कता;#} </div><div n="1">(2) {#अमनोयोगः।#}</div>
 <LEND>

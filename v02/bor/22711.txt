@@ -1,5 +1,5 @@
 <L>22711<pc>717<k1>toughness<k2>toughness
-<div n="lb"/>{@TOUGHNESS:@}¦ <div n="1">(1) {#काठिन्यम्:#} v. Hardness; </div><div n="1">(2)
-<div n="lb"/>{#दृढता#} <div n="xe">{%or%}</div> <div n="xs">{#दार्ढ्यम्:#}</div> v. Firmness; </div><div n="1">(3) {#गुरुत्त्वम्:#}
-<div n="lb"/>v. Heaviness.</div>
+{@TOUGHNESS:@}¦ <div n="1">(1) {#काठिन्यम्:#} v. Hardness; </div><div n="1">(2)
+{#दृढता#} <div n="xe">{%or%}</div> <div n="xs">{#दार्ढ्यम्:#}</div> v. Firmness; </div><div n="1">(3) {#गुरुत्त्वम्:#}
+v. Heaviness.</div>
 <LEND>

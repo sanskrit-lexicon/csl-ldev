@@ -1,11 +1,11 @@
 <L>20651<pc>648<k1>skilfulness<k2>skilfulness
-<div n="lb"/>{@SKILFULNESS,@}¦ {@SKILL:@} <div n="1">(1) {#कौशलम्,#} {%greatest s.:%}
-<div n="lb"/>{#परं कौशलम्,#} K.; </div><div n="1">(2) {#नैपुण्यम्,#} <div n="xe">{%s. in stirring%}
-<div n="lb"/>{%anecdotes:%}</div> <div n="xs">{#चित्रकथानैपुण्यम्,#}</div> D.; </div><div n="1">(3) {#पाटवम्,#} <div n="xe">{%s. in%}
-<div n="lb"/>{%riding elephants, horses, and other animals:%}</div>
-<div n="lb"/><div n="xs">{#मातङ्गतुरङ्गादिवाहनारोहणपाटवम्,#}</div> D.; </div><div n="1">(4) {#प्रावीण्यम्,#}
-<div n="lb"/><div n="xe">{%not so much with their s.:%}</div> <div n="xs">{#न तथोभयोः प्रावीण्येन,#}</div>
-<div n="lb"/>R. xv. 6.; </div><div n="1">(5) {#वैचक्षण्यम्;#} </div><div n="1">(6) {#निपुणता;#} </div><div n="1">(7)
-<div n="lb"/>{#चातुर्यम्#} (= cunning); </div><div n="1">(8) {#दाक्ष्यम्#} (= dexterity);</div>
-<div n="lb"/><div n="1">(9) {#अभिज्ञता#} (= knowledge); etc.</div>
+{@SKILFULNESS,@}¦ {@SKILL:@} <div n="1">(1) {#कौशलम्,#} {%greatest s.:%}
+{#परं कौशलम्,#} K.; </div><div n="1">(2) {#नैपुण्यम्,#} <div n="xe">{%s. in stirring%}
+{%anecdotes:%}</div> <div n="xs">{#चित्रकथानैपुण्यम्,#}</div> D.; </div><div n="1">(3) {#पाटवम्,#} <div n="xe">{%s. in%}
+{%riding elephants, horses, and other animals:%}</div>
+<div n="xs">{#मातङ्गतुरङ्गादिवाहनारोहणपाटवम्,#}</div> D.; </div><div n="1">(4) {#प्रावीण्यम्,#}
+<div n="xe">{%not so much with their s.:%}</div> <div n="xs">{#न तथोभयोः प्रावीण्येन,#}</div>
+R. xv. 6.; </div><div n="1">(5) {#वैचक्षण्यम्;#} </div><div n="1">(6) {#निपुणता;#} </div><div n="1">(7)
+{#चातुर्यम्#} (= cunning); </div><div n="1">(8) {#दाक्ष्यम्#} (= dexterity);</div>
+<div n="1">(9) {#अभिज्ञता#} (= knowledge); etc.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>843<pc>030<k1>antedate<k2>antedate
-<div n="lb"/>{@ANTEDATE:@}¦ Ph.: <div n="xe">{%he a. d the letter%}</div> <div n="xs">{#*अग्रिमदिवसं #}
-<div n="lb"/>{# पत्रे सन्निवेशयामास।#}</div>
+{@ANTEDATE:@}¦ Ph.: <div n="xe">{%he a. d the letter%}</div> <div n="xs">{#*अग्रिमदिवसं #}
+{# पत्रे सन्निवेशयामास।#}</div>
 <LEND>

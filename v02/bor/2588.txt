@@ -1,8 +1,8 @@
 <L>2588<pc>088<k1>brief<k2>brief
-<div n="lb"/>{@BRIEF@}¦ (adj.): <div n="I">I Compressed, terse: v.:
-<div n="lb"/>{#संक्षिप्तः#} ({#प्ता, प्तं#}). To be b. (when=b. ly): {#किं #}
-<div n="lb"/>{# बहुना।#} </div><div n="I">II Lasting but little time: {#क्षणिकः#}
-<div n="lb"/>({#का, कं#}), <div n="xe">{%b. enjoyment%}</div> <div n="xs">{#क्षणिका प्रीतिः#}</div> H.; </div><div n="1">(2)
-<div n="lb"/>{#अचिरस्थायिन्#} (f. {#नी#}): v. Temporary. </div><div n="I">III
-<div n="lb"/>Short: q. v.</div>
+{@BRIEF@}¦ (adj.): <div n="I">I Compressed, terse: v.:
+{#संक्षिप्तः#} ({#प्ता, प्तं#}). To be b. (when=b. ly): {#किं #}
+{# बहुना।#} </div><div n="I">II Lasting but little time: {#क्षणिकः#}
+({#का, कं#}), <div n="xe">{%b. enjoyment%}</div> <div n="xs">{#क्षणिका प्रीतिः#}</div> H.; </div><div n="1">(2)
+{#अचिरस्थायिन्#} (f. {#नी#}): v. Temporary. </div><div n="I">III
+Short: q. v.</div>
 <LEND>

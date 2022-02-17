@@ -1,10 +1,10 @@
 <L>21957<pc>692<k1>suppress<k2>suppress
-<div n="lb"/>{@SUPPRESS:@}¦ <div n="I">I To extinguish, destroy: q. v.:
-<div n="lb"/>{#दमयति#} (c. of {#दम्#}). </div><div n="I">II To restrain, check:
-<div n="lb"/>q. v.: </div><div n="1">(1) {#नि-यच्छति, सं-, विनि-,#} ({#यम्,#} c. 1.);</div>
-<div n="lb"/><div n="1">(2) {#निगृह्नाति#} ({#ग्रह्,#} c. 9.). </div><div n="I">III To conceal:
-<div n="lb"/>q. v.: {#गोपायति#} ({#गुप्,#} c. 1.), <div n="xe">{%Indra s. ed (his)%}
-<div n="lb"/>{%rising satisfaction:%}</div> <div n="xs">{#निजुगोप हर्षमुदितं मघवा,#}</div> Ki.
-<div n="lb"/>vi. 38. Ph.: <div n="xe">{%with s. ed tears:%}</div> <div n="xs">{#स्तम्भिताश्रुः,#}</div> M. n.
-<div n="lb"/>on R. xiv. 53. ({#अन्तर्गतबाष्पकण्ठः#}).</div>
+{@SUPPRESS:@}¦ <div n="I">I To extinguish, destroy: q. v.:
+{#दमयति#} (c. of {#दम्#}). </div><div n="I">II To restrain, check:
+q. v.: </div><div n="1">(1) {#नि-यच्छति, सं-, विनि-,#} ({#यम्,#} c. 1.);</div>
+<div n="1">(2) {#निगृह्नाति#} ({#ग्रह्,#} c. 9.). </div><div n="I">III To conceal:
+q. v.: {#गोपायति#} ({#गुप्,#} c. 1.), <div n="xe">{%Indra s. ed (his)%}
+{%rising satisfaction:%}</div> <div n="xs">{#निजुगोप हर्षमुदितं मघवा,#}</div> Ki.
+vi. 38. Ph.: <div n="xe">{%with s. ed tears:%}</div> <div n="xs">{#स्तम्भिताश्रुः,#}</div> M. n.
+on R. xiv. 53. ({#अन्तर्गतबाष्पकण्ठः#}).</div>
 <LEND>

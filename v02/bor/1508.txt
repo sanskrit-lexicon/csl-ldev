@@ -1,9 +1,9 @@
 <L>1508<pc>053<k1>badly<k2>badly
-<div n="lb"/>{@BADLY:@}¦ Ph. <div n="xe">{%I am b. off for servants%}</div> <div n="xs">{#भृत्याभावात् #}
-<div n="lb"/>{# क्लिश्यामि;#}</div> <div n="xe">{%you have behaved b. towards her%}</div> <div n="xs">{#तस्यां #}
-<div n="lb"/>{# त्वयानार्यमाचरितम्;#}</div> <div n="xe">{%he is b. bitten by the dog%}</div> <div n="xs">{#स #}
-<div n="lb"/>{# कुक्कु रेण तीव्रं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#बलवत् दष्टः,#}</div> <div n="xe">{%b. governed%}</div> <div n="xs">{#कुशासितः#}</div>
-<div n="lb"/>({#ता, तं#}): <div n="xe">{%b. formed%}</div> <div n="xs">{#कदाकारः#}</div> ({#रा, रं#}); <div n="xe">{%smell-%}
-<div n="lb"/>{%ing b.%}</div> <div n="xs">{#दुर्गन्धः#}</div> ({#न्धा, न्धं#}): v. Wrongly,
-<div n="lb"/>wickedly, unfortunately.
+{@BADLY:@}¦ Ph. <div n="xe">{%I am b. off for servants%}</div> <div n="xs">{#भृत्याभावात् #}
+{# क्लिश्यामि;#}</div> <div n="xe">{%you have behaved b. towards her%}</div> <div n="xs">{#तस्यां #}
+{# त्वयानार्यमाचरितम्;#}</div> <div n="xe">{%he is b. bitten by the dog%}</div> <div n="xs">{#स #}
+{# कुक्कु रेण तीव्रं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#बलवत् दष्टः,#}</div> <div n="xe">{%b. governed%}</div> <div n="xs">{#कुशासितः#}</div>
+({#ता, तं#}): <div n="xe">{%b. formed%}</div> <div n="xs">{#कदाकारः#}</div> ({#रा, रं#}); <div n="xe">{%smell-%}
+{%ing b.%}</div> <div n="xs">{#दुर्गन्धः#}</div> ({#न्धा, न्धं#}): v. Wrongly,
+wickedly, unfortunately.
 <LEND>

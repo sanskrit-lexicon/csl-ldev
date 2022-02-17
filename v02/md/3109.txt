@@ -1,24 +1,24 @@
 <L>3109<pc>033-3<k1>अस्<k2>अस्<h>1
 {#अस्#}¦AS, II.P. {@ás-ti@} (¤2¤ {%sg.%} Ā. {@se,@} {%in V. %}
-<>{%only in periphrastic ft.%}), be, exist; happen, 
-<>take place; dwell, be found in ({%lc.%}); {%w. d. or g.%} 
-<>be for, belong {%or%} accrue to, {%often =%}have {%or%} 
-<>possess; be present in, be peculiar to ({%lc.%}); be 
-<>ready for, be equal to, be capable of ({%d.%}); be 
-<>sufficient for ({%g.%}); occur to ({%g.%}); {%w.%} {%na,%} not 
-<>exist; be lost {%or%} undone: {@na‡asti,@} + = I have 
-<>nothing {%to give%}; {@asti,@} it is so: {%at the beginning %}<lbinfo n="5"/>
-<>{% of sentences with another finite verb =%} 
-<>it so happens {%or%} happened that, it sometimes 
-<>happens that --; {@asmi,@} {%w. ist sg.%} = I happen 
-<>to be; {@astu + even@}, so be it, very well; {@-as-@}
-<>{@-tu@} {%or%} {@santu,@} {%w. following nm.%} = to {@say@} nothing <lbinfo n="2"/>
-<> of --, {@ati,@} surpass ({%ac.%}). {@-anu,@} be ready; 
-<>reach ({%ac.%}). {@api,@} be near {%or%} in ({%lc.%}). {@abhi,@} 
-<>surpass, overcome ({%ac.%}); be more than ({%ab.%}) 
-<>to ({%d. or g.%}); *fall to the share of ({%g.%}). {@upa,@} 
-<>be in ({%ac.%}). {@pari,@} overtake; allow to pass by 
-<>({%time%}). {@pra,@} be to the fore, be prominent, 
-<>excel. {@sam,@} equal ({%ac.%}); be united with ({@sa-@}
-<>{@-ha@}); be, exist.
+{%only in periphrastic ft.%}), be, exist; happen, 
+take place; dwell, be found in ({%lc.%}); {%w. d. or g.%} 
+be for, belong {%or%} accrue to, {%often =%}have {%or%} 
+possess; be present in, be peculiar to ({%lc.%}); be 
+ready for, be equal to, be capable of ({%d.%}); be 
+sufficient for ({%g.%}); occur to ({%g.%}); {%w.%} {%na,%} not 
+exist; be lost {%or%} undone: {@na‡asti,@} + = I have 
+nothing {%to give%}; {@asti,@} it is so: {%at the beginning %}<lbinfo n="5"/>
+{% of sentences with another finite verb =%} 
+it so happens {%or%} happened that, it sometimes 
+happens that --; {@asmi,@} {%w. ist sg.%} = I happen 
+to be; {@astu + even@}, so be it, very well; {@-as-@}
+{@-tu@} {%or%} {@santu,@} {%w. following nm.%} = to {@say@} nothing <lbinfo n="2"/>
+ of --, {@ati,@} surpass ({%ac.%}). {@-anu,@} be ready; 
+reach ({%ac.%}). {@api,@} be near {%or%} in ({%lc.%}). {@abhi,@} 
+surpass, overcome ({%ac.%}); be more than ({%ab.%}) 
+to ({%d. or g.%}); *fall to the share of ({%g.%}). {@upa,@} 
+be in ({%ac.%}). {@pari,@} overtake; allow to pass by 
+({%time%}). {@pra,@} be to the fore, be prominent, 
+excel. {@sam,@} equal ({%ac.%}); be united with ({@sa-@}
+{@-ha@}); be, exist.
 <LEND>

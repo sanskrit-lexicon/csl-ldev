@@ -1,14 +1,14 @@
 <L>20626<pc>647<k1>sit<k2>sit
-<div n="lb"/>{@SIT@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#आस्ते#} ({#आस्,#} c. 2.).
-<div n="lb"/><div n="xe">{%s. ting on the altar:%}</div> <div n="xs">{#वेदिकायामासीन#}</div> (f. {#ना#}), Ku.
-<div n="lb"/>iii. 44.; <div n="xe">{%s. by:%}</div> <div n="xs">{#उपास्ते#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अन्वास्ते,#}</div> R. i. 56.;
-<div n="lb"/><div n="xe">{%s. on or in:%}</div> <div n="xs">{#अध्यास्ते,#}</div> R. vi. 10.; </div><div n="1">(2) {#निषीदति#}
-<div n="lb"/>({#सद्,#} c. 1.), <div n="xe">{%s. when she s. s.:%}</div> <div n="xs">{#निषण्णायां #}
-<div n="lb"/>{# निषीदास्याम्,#}</div> R. i. 89.: v. To sit down. Ph.:
-<div n="lb"/><div n="xe">{%to s. idly:%}</div> <div n="xs">{#निष्कर्मन्#}</div> (mfn.) {#तिष्ठते#} {%or%} sim. {#शेते#}
-<div n="lb"/>({#शी,#} c. 2.: fig.), {#मयाप्यस्मिन् वस्तुनि न शयानेन #}
-<div n="lb"/>{# स्थीयते,#} Mr. i. </div><div n="I">II As a court: perh. {#आस्ते,#}
-<div n="lb"/>Mit. </div><div n="I">III To incubate: q. v.: perh.
-<div n="lb"/>{#आस्ते, उपविशति#} ({#विश्,#} c. 6.). </div><div n="I">IV To fit.:
-<div n="lb"/>q. v.</div>
+{@SIT@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#आस्ते#} ({#आस्,#} c. 2.).
+<div n="xe">{%s. ting on the altar:%}</div> <div n="xs">{#वेदिकायामासीन#}</div> (f. {#ना#}), Ku.
+iii. 44.; <div n="xe">{%s. by:%}</div> <div n="xs">{#उपास्ते#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अन्वास्ते,#}</div> R. i. 56.;
+<div n="xe">{%s. on or in:%}</div> <div n="xs">{#अध्यास्ते,#}</div> R. vi. 10.; </div><div n="1">(2) {#निषीदति#}
+({#सद्,#} c. 1.), <div n="xe">{%s. when she s. s.:%}</div> <div n="xs">{#निषण्णायां #}
+{# निषीदास्याम्,#}</div> R. i. 89.: v. To sit down. Ph.:
+<div n="xe">{%to s. idly:%}</div> <div n="xs">{#निष्कर्मन्#}</div> (mfn.) {#तिष्ठते#} {%or%} sim. {#शेते#}
+({#शी,#} c. 2.: fig.), {#मयाप्यस्मिन् वस्तुनि न शयानेन #}
+{# स्थीयते,#} Mr. i. </div><div n="I">II As a court: perh. {#आस्ते,#}
+Mit. </div><div n="I">III To incubate: q. v.: perh.
+{#आस्ते, उपविशति#} ({#विश्,#} c. 6.). </div><div n="I">IV To fit.:
+q. v.</div>
 <LEND>

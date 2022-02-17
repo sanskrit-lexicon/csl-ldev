@@ -1,9 +1,9 @@
 <L>2370<pc>081<k1>born<k2>born
-<div n="lb"/>{@BORN, BE:@}¦ <div n="1">(1) {#जायते#} ({#जन्,#} c. 4), <div n="xe">{%b. of the race%}
-<div n="lb"/>{%of Manu%}</div> <div n="xs">{#मनोः कुले जातम्,#}</div> Si. i. 67; </div><div n="1">(2) {#उद्भवति#}
-<div n="lb"/>({#भू,#} c. l) <div n="xe">{%the child was b. of me%}</div> <div n="xs">{#बालो मय्युदभूत्,#}</div>
-<div n="lb"/>D. iv.; </div><div n="1">(3) {#सूयते, प्र,#} (pass. of {#सू#}); </div><div n="1">(1) {#उत्पद्यते#}
-<div n="lb"/>({#पद्,#} c. 4) (with loc.). Ph. <div n="xe">{%the son b. of a%}
-<div n="lb"/>{%Śudra by a slave girl%}</div> <div n="xs">{#यः शूद्रस्य सुतो दास्यां भवेत्,#}</div>
-<div n="lb"/>M. ix. 179.</div>
+{@BORN, BE:@}¦ <div n="1">(1) {#जायते#} ({#जन्,#} c. 4), <div n="xe">{%b. of the race%}
+{%of Manu%}</div> <div n="xs">{#मनोः कुले जातम्,#}</div> Si. i. 67; </div><div n="1">(2) {#उद्भवति#}
+({#भू,#} c. l) <div n="xe">{%the child was b. of me%}</div> <div n="xs">{#बालो मय्युदभूत्,#}</div>
+D. iv.; </div><div n="1">(3) {#सूयते, प्र,#} (pass. of {#सू#}); </div><div n="1">(1) {#उत्पद्यते#}
+({#पद्,#} c. 4) (with loc.). Ph. <div n="xe">{%the son b. of a%}
+{%Śudra by a slave girl%}</div> <div n="xs">{#यः शूद्रस्य सुतो दास्यां भवेत्,#}</div>
+M. ix. 179.</div>
 <LEND>

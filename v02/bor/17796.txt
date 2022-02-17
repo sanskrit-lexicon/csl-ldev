@@ -1,5 +1,5 @@
 <L>17796<pc>545<k1>prisoner<k2>prisoner
-<div n="lb"/>{@PRISONER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#बन्दि#} (f. {#न्दी#}); </div><div n="1">(2)
-<div n="lb"/>{#कारारुद्धः#} <div n="xe">{%or%}</div> <div n="xs">{#-बद्धः#}</div> ({#-द्धा, द्धं#}). </div><div n="I">II Of war: {#बन्दि#}
-<div n="lb"/>(f. {#न्दी#}): v. Captive.</div>
+{@PRISONER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#बन्दि#} (f. {#न्दी#}); </div><div n="1">(2)
+{#कारारुद्धः#} <div n="xe">{%or%}</div> <div n="xs">{#-बद्धः#}</div> ({#-द्धा, द्धं#}). </div><div n="I">II Of war: {#बन्दि#}
+(f. {#न्दी#}): v. Captive.</div>
 <LEND>

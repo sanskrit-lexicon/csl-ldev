@@ -9,27 +9,27 @@
 <ls>M. 4, 6. 10, 116.</ls> 
 <ls>YĀJÑ. 3, 42.</ls> 
 <ls>VIKR. 42.</ls> 
-<ls>Spr. (II) 7169. fg. 7173.</ls> 
+<ls>Spr. (II) 7169. fg.</ls> <ls n="Spr. (II)">7173.</ls> 
 <ls>KATHĀS. 18, 12.</ls> 
 <ls>RĀJA-TAR. 3, 138. 166. 250. 5, 197. 8, 14.</ls> {#°धर्म#} 
 <ls>Spr. (II) 4987.</ls> 
 <ls>PAÑCAT. 13, 5. 7.</ls> {#सेवाभिरत#} 
 <ls>VARĀH. BṚH. S. 15, 5.</ls> {#°ज्ञ#} 
 <ls>BṚH. 17, 1.</ls> {#खलेषु#} 
-<ls>Spr. (II) 5794. 7238.</ls> {#कुनृपस्य#} 
+<ls>Spr. (II) 5794.</ls> <ls n="Spr. (II)">7238.</ls> {#कुनृपस्य#} 
 <ls>1630. 3795.</ls> {#सेवां कर्#} 
-<ls>VET.</ls> in <ls>LA. (III) 23, 15.</ls> mit gen. der Person 
+<ls>VET. in LA. (III) 23, 15.</ls> mit gen. der Person 
 <ls>KATHĀS. 24, 115.</ls> 
 <ls>HIT. 48, 1.</ls> {#वनस्पति°#} (subj.) 
 <ls>ŚĀK. 50, 17.</ls> {#पति°#} (obj.) 
 <ls>M. 2, 67.</ls> {#विप्र°#} 
 <ls>10, 123.</ls> {#स्वामि°#} 
-<ls>Spr. (II) 1055. 3795. 4840. 7402.</ls> 
+<ls>Spr. (II) 1055.</ls> <ls n="Spr. (II)">3795.</ls> <ls n="Spr. (II)">4840.</ls> <ls n="Spr. (II)">7402.</ls> 
 <div n="1">— 3) {%Verehrung, unterwürfiges —, rücksichtsvolles Benehmen%} 
 <ls>BHAG. 4, 34.</ls> {#नारायणस्य#} 
 <ls>SARVADARŚANAS. 64, 12.</ls> {#तस्य सेवां न लब्धवान्#} 
 <ls>RĀJA-TAR. 5, 154.</ls> {#प्रथमजे ऽद्भुतरूपसेवः#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 507,</ls> <ls>Śl. 26.</ls> {#पितुः#} (obj.) 
+<ls>Journ. of the Am. Or. S. 6, 507, Śl. 26.</ls> {#पितुः#} (obj.) 
 <ls>Spr. (II) 3479.</ls> {#पञ्चशरस्य#} 
 <ls>KUMĀRAS. 7, 92.</ls> {#गुरु°#} 
 <ls>M. 12, 83.</ls> {#वृद्ध°#} 
@@ -37,7 +37,7 @@
 <ls>RAGH. 16, 53.</ls> = {#चाटूक्ति, आलोक#} 
 <ls>HĀR. 149.</ls> 
 <div n="1">— 4) {%geschlechtlicher Verkehr mit%}: {#स्त्री°#} 
-<ls>Spr. (II) 1029. 4638.</ls> {#परदार°#} 
+<ls>Spr. (II) 1029.</ls> <ls n="Spr. (II)">4638.</ls> {#परदार°#} 
 <ls>2993.</ls> 
 <div n="1">— 5) {%das Obliegen, Sichhingeben, Ausübung; Gebrauch, Genuss%} (insbes. {%häufiger)%}: {#पुनःपुनः#} 
 <ls>NIR. 6, 27.</ls> 

@@ -1,5 +1,5 @@
 <L>15044<pc>460<k1>mouse<k2>mouse
-<div n="lb"/>{@MOUSE:@}¦ {#भूषि(ष)कः,#} <div n="xe">{%its hole:%}</div> <div n="xs">{#बिलम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#विवरम्,#}</div> H.;
-<div n="lb"/><div n="xe">{%by the smell of a m.:%}</div> <div n="xs">{#मूषिकगन्धेन,#}</div> Mah.; <div n="xe">{%m.-%}
-<div n="lb"/>{%trap%}</div> <div n="xs">{#*मूषिकबन्धः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मूषिकग्रहयन्त्रम्।#}</div>
+{@MOUSE:@}¦ {#भूषि(ष)कः,#} <div n="xe">{%its hole:%}</div> <div n="xs">{#बिलम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#विवरम्,#}</div> H.;
+<div n="xe">{%by the smell of a m.:%}</div> <div n="xs">{#मूषिकगन्धेन,#}</div> Mah.; <div n="xe">{%m.-%}
+{%trap%}</div> <div n="xs">{#*मूषिकबन्धः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मूषिकग्रहयन्त्रम्।#}</div>
 <LEND>

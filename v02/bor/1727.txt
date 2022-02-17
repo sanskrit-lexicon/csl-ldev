@@ -1,25 +1,25 @@
 <L>1727<pc>059<k1>be<k2>be
-<div n="lb"/>{@BE:@}¦ <div n="I">I As a logical copula: </div><div n="1">(1) {#भवति#} ({#भू,#}
-<div n="lb"/>c. 1), <div n="xe">{%it is long-necked%}</div> <div n="xs">{#दीर्धग्रीवः स भवति,#}</div> U.
-<div n="lb"/>iv.; <div n="xe">{%the hearts of good men are always com-%}
-<div n="lb"/>{%passionate%}</div> <div n="xs">{#करुणार्द्राणि सतां खलु भवन्ति सदा चेतांसि,#}</div>
-<div n="lb"/>K. N. B. It is often understood: <div n="xe">{%the end of%}
-<div n="lb"/>{%aims is beyond comprehension%}</div> <div n="xs">{#दुरघिगमा हि गतिः #}
-<div n="lb"/>{# प्रयोजनानाम्,#}</div> Ki. x. 40. </div><div n="I">II Denoting existence,
-<div n="lb"/>presence: {#अस्ति,#} <div n="xe">{%there was formerly a king%}
-<div n="lb"/>{%named Śudraka%}</div> <div n="xs">{#आसीद्राजा शूद्रको नाम,#}</div> K.; <div n="xe">{%and%}
-<div n="lb"/>{%there are heaps of gems%}</div> <div n="xs">{#सन्ति रत्ननिचयाश्च भूरिशः,#}</div>
-<div n="lb"/>Ki. xiii. 55. N. B. Note (a) that this verb is
-<div n="lb"/>exclusively used for {%there is-, there was-,%}
-<div n="lb"/>etc.; (b) that in this sense, it is gen.
-<div n="lb"/>placed at the beginning of the sentence;
-<div n="lb"/>and (c) that this verb is defective and its
-<div n="lb"/>non-conjugational tenses are supplied by
-<div n="lb"/>those of {#भू#} and hence we meet with phrases
-<div n="lb"/>like {#अभून्नृपः#} (-there was a king), B. i. 1.;</div>
-<div n="lb"/><div n="1">(2) {#वर्तते, सं-,#} ({#वृत्,#} c. 1), <div n="xe">{%in a moment you will%}
-<div n="lb"/>{%be in your realm%}</div> <div n="xs">{#क्षणात् स्वाघिकारभूमौ वर्तिष्यते,#}</div> Sa.
-<div n="lb"/>vii.: v. To be present. Ph.: <div n="xe">{%here are%}
-<div n="lb"/>{%we%}</div> <div n="xs">{#इमे स्मः,#}</div> Sa. iv.; <div n="xe">{%be it so%}</div> <div n="xs">{#एवमस्तु, मवतु।#}</div> </div><div n="I">III
-<div n="lb"/>To become: q. v.: {#भवति।#}</div>
+{@BE:@}¦ <div n="I">I As a logical copula: </div><div n="1">(1) {#भवति#} ({#भू,#}
+c. 1), <div n="xe">{%it is long-necked%}</div> <div n="xs">{#दीर्धग्रीवः स भवति,#}</div> U.
+iv.; <div n="xe">{%the hearts of good men are always com-%}
+{%passionate%}</div> <div n="xs">{#करुणार्द्राणि सतां खलु भवन्ति सदा चेतांसि,#}</div>
+K. N. B. It is often understood: <div n="xe">{%the end of%}
+{%aims is beyond comprehension%}</div> <div n="xs">{#दुरघिगमा हि गतिः #}
+{# प्रयोजनानाम्,#}</div> Ki. x. 40. </div><div n="I">II Denoting existence,
+presence: {#अस्ति,#} <div n="xe">{%there was formerly a king%}
+{%named Śudraka%}</div> <div n="xs">{#आसीद्राजा शूद्रको नाम,#}</div> K.; <div n="xe">{%and%}
+{%there are heaps of gems%}</div> <div n="xs">{#सन्ति रत्ननिचयाश्च भूरिशः,#}</div>
+Ki. xiii. 55. N. B. Note (a) that this verb is
+exclusively used for {%there is-, there was-,%}
+etc.; (b) that in this sense, it is gen.
+placed at the beginning of the sentence;
+and (c) that this verb is defective and its
+non-conjugational tenses are supplied by
+those of {#भू#} and hence we meet with phrases
+like {#अभून्नृपः#} (-there was a king), B. i. 1.;</div>
+<div n="1">(2) {#वर्तते, सं-,#} ({#वृत्,#} c. 1), <div n="xe">{%in a moment you will%}
+{%be in your realm%}</div> <div n="xs">{#क्षणात् स्वाघिकारभूमौ वर्तिष्यते,#}</div> Sa.
+vii.: v. To be present. Ph.: <div n="xe">{%here are%}
+{%we%}</div> <div n="xs">{#इमे स्मः,#}</div> Sa. iv.; <div n="xe">{%be it so%}</div> <div n="xs">{#एवमस्तु, मवतु।#}</div> </div><div n="I">III
+To become: q. v.: {#भवति।#}</div>
 <LEND>

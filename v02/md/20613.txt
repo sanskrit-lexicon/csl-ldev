@@ -1,29 +1,29 @@
 <L>20613<pc>380-2<k1>हेतु<k2>हेतु
 {#हेतु#}¦he-tú, {%m.%} [impulse: √ hi] cause, motive, 
-<>of ({%lc.,%} -°, {%rarely d., g.%}; {%very rare in V.%}); {%C.%}: 
-<>reason, argument, proof ({%in logic = second %}
-<>{%part of the five-membered syllogism%}); means; 
-<>price ({%rare%}); condition, sine quā non ({%of subsistence%}); <lbinfo n="3"/>
-<> manner ({%rare%}); agent {%of the causative %}<lbinfo n="5"/>
-<>{% verb%} ({%gr.%}); primary cause ({%opp.%} pratyaya, 
-<>secondary cause: {%B.%}); cause {%of the bondage %}
-<>{%of the soul,%} world of sense, nature ({%among %}
-<>{%the Pāśupatas%}); {%short speech setting forth%} the 
-<>requisite conditions {%for the attainment of an %}
-<>{%end%} ({%dr.%}): {%in.%} {@hetunā,@} {%ab. g.%} {@hetoḥ@}, {%rarely %}
-<>{%also d. or lc.,%} for a cause {%or%} reason, by reason 
-<>of, on account of ({%g.,%} -°); {@yato hetoḥ@}, because; 
-<>{@iti hetoḥ@}, for this reason; -° {%a.%} having -- as 
-<>a cause, caused, impelled, {%or%} attracted by: 
-<>{@-ka,@} (-°) {%a.%} ({@ī@}) causing, producing; caused 
-<>{%or%} produced by; {@-tā,@} {%f.%} causation; {@-tva,@} {%n. %}
-<>{%id.%}; state of being the reason {%or%} the primary 
+of ({%lc.,%} -°, {%rarely d., g.%}; {%very rare in V.%}); {%C.%}: 
+reason, argument, proof ({%in logic = second %}
+{%part of the five-membered syllogism%}); means; 
+price ({%rare%}); condition, sine quā non ({%of subsistence%}); <lbinfo n="3"/>
+ manner ({%rare%}); agent {%of the causative %}<lbinfo n="5"/>
+{% verb%} ({%gr.%}); primary cause ({%opp.%} pratyaya, 
+secondary cause: {%B.%}); cause {%of the bondage %}
+{%of the soul,%} world of sense, nature ({%among %}
+{%the Pāśupatas%}); {%short speech setting forth%} the 
+requisite conditions {%for the attainment of an %}
+{%end%} ({%dr.%}): {%in.%} {@hetunā,@} {%ab. g.%} {@hetoḥ@}, {%rarely %}
+{%also d. or lc.,%} for a cause {%or%} reason, by reason 
+of, on account of ({%g.,%} -°); {@yato hetoḥ@}, because; 
+{@iti hetoḥ@}, for this reason; -° {%a.%} having -- as 
+a cause, caused, impelled, {%or%} attracted by: 
+{@-ka,@} (-°) {%a.%} ({@ī@}) causing, producing; caused 
+{%or%} produced by; {@-tā,@} {%f.%} causation; {@-tva,@} {%n. %}
+{%id.%}; state of being the reason {%or%} the primary 
 [Page380-3]
-<>cause; agency {%of the causal verb%}; {@-mat,@} {%a.%} 
-<>having a cause, caused; provided with reasons 
-<>{%or%} proofs, well-founded; open to argument: 
-<>{@-mātra-tā,@} {%f.%} condition of being a mere 
-<>means; {@-mātra-maya,@} {%a.%} serving only as a 
-<>means; {@-rūpaka,@} {%n.%} reasoned metaphor; 
-<>{@-vidyā,@} {%f.%} dialectics, logic; {@-śāstra@}, {%n. id.%}.
+cause; agency {%of the causal verb%}; {@-mat,@} {%a.%} 
+having a cause, caused; provided with reasons 
+{%or%} proofs, well-founded; open to argument: 
+{@-mātra-tā,@} {%f.%} condition of being a mere 
+means; {@-mātra-maya,@} {%a.%} serving only as a 
+means; {@-rūpaka,@} {%n.%} reasoned metaphor; 
+{@-vidyā,@} {%f.%} dialectics, logic; {@-śāstra@}, {%n. id.%}.
 <LEND>

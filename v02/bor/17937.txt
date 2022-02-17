@@ -1,8 +1,8 @@
 <L>17937<pc>549<k1>promise<k2>promise
-<div n="lb"/>{@PROMISE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#प्रतिज्ञा, -तम्,#} <div n="xe">{%afraid%}
-<div n="lb"/>{%of breach of p.:%}</div> <div n="xs">{#प्रतिज्ञा-भङ्गभीरुः,#}</div> Ve. iii.; <div n="xe">{%to ful-%}
-<div n="lb"/>{%fil a p.:%}</div> <div n="xs">{#प्रतिज्ञां पूरयति,#}</div> Ve. iv.; </div><div n="1">(2) {#प्रतिश्रवः#} {%or%}
-<div n="lb"/>{#प्रतिश्रुतिः#} (rare); </div><div n="1">(3) {#अङ्गीकारः#} (= avowal). </div><div n="I">II
-<div n="lb"/>Expectation, prospect: expr. with {#आशा,#} <div n="xe">{%a%}
-<div n="lb"/>{%man of the highest p.:%}</div> <div n="xs">{#अत्याशाजननोऽयं लोकः#}</div> (?).</div>
+{@PROMISE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#प्रतिज्ञा, -तम्,#} <div n="xe">{%afraid%}
+{%of breach of p.:%}</div> <div n="xs">{#प्रतिज्ञा-भङ्गभीरुः,#}</div> Ve. iii.; <div n="xe">{%to ful-%}
+{%fil a p.:%}</div> <div n="xs">{#प्रतिज्ञां पूरयति,#}</div> Ve. iv.; </div><div n="1">(2) {#प्रतिश्रवः#} {%or%}
+{#प्रतिश्रुतिः#} (rare); </div><div n="1">(3) {#अङ्गीकारः#} (= avowal). </div><div n="I">II
+Expectation, prospect: expr. with {#आशा,#} <div n="xe">{%a%}
+{%man of the highest p.:%}</div> <div n="xs">{#अत्याशाजननोऽयं लोकः#}</div> (?).</div>
 <LEND>

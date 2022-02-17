@@ -1,11 +1,11 @@
 <L>8713<pc>276<k1>fight<k2>fight
-<div n="lb"/>{@FIGHT@}¦ (v.i.): <div n="1">(1) {#युध्यते, नि-#} ({#युध्,#} c. 4.),
-<div n="lb"/><div n="xe">{%where women could f.:%}</div> <div n="xs">{#स्त्रियोऽपियत्र युध्येयुः,#}</div> V.p.;
-<div n="lb"/><div n="xe">{%with whom you are eager to f.:%}</div> <div n="xs">{#केन ते योद्धमुत्सहते #}
-<div n="lb"/>{# मनः,#}</div> Mah. ii. 23. 2.; </div><div n="1">(2) {#योधयति#} (c. of {#युध्#})
-<div n="lb"/>(= to f. with), <div n="xe">{%Indra went out to f. with%}
-<div n="lb"/>{%Kṛṣṇa for the sake of the Pārijāta:%}</div> <div n="xs">{#प्रययौ पारि-#}
-<div n="lb"/>{#जातार्थमिन्द्रो योधयितुं हरिम्,#}</div> V. p.; </div><div n="1">(3) {#युद्धं करोति, #}
-<div n="lb"/>{# कुरुते,#} <div n="xe">{%I wish to f. a duel with Arjuna:%}</div> <div n="xs">{#अहं पार्थेन #}
-<div n="lb"/>{# द्वन्द्वयुद्धं कर्तुमिच्छामि,#}</div> Mah.</div>
+{@FIGHT@}¦ (v.i.): <div n="1">(1) {#युध्यते, नि-#} ({#युध्,#} c. 4.),
+<div n="xe">{%where women could f.:%}</div> <div n="xs">{#स्त्रियोऽपियत्र युध्येयुः,#}</div> V.p.;
+<div n="xe">{%with whom you are eager to f.:%}</div> <div n="xs">{#केन ते योद्धमुत्सहते #}
+{# मनः,#}</div> Mah. ii. 23. 2.; </div><div n="1">(2) {#योधयति#} (c. of {#युध्#})
+(= to f. with), <div n="xe">{%Indra went out to f. with%}
+{%Kṛṣṇa for the sake of the Pārijāta:%}</div> <div n="xs">{#प्रययौ पारि-#}
+{#जातार्थमिन्द्रो योधयितुं हरिम्,#}</div> V. p.; </div><div n="1">(3) {#युद्धं करोति, #}
+{# कुरुते,#} <div n="xe">{%I wish to f. a duel with Arjuna:%}</div> <div n="xs">{#अहं पार्थेन #}
+{# द्वन्द्वयुद्धं कर्तुमिच्छामि,#}</div> Mah.</div>
 <LEND>

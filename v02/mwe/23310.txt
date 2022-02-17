@@ -1,14 +1,14 @@
 <L>23310<pc>618-b<k1>preparation<k2>preparation
-<div n="lb"/>PREPARATION¦, {%s.%} (Act of getting ready, providing or fitting
-<div n="lb"/>for any purpose) {#सज्जनं -ना, सज्जीकरणं, सज्जकर्म्म#} {%n.%} {#(न्), साधनं,#}
-<div n="lb"/>{#सिद्धीकरणं, आयोजनं, उपकल्पनं -ना, परिकल्पनं -ना, कल्पनं -ना,#}
-<div n="lb"/>[Page619-a+ 51]
-<div n="lb"/>{#पुरस्करणं, पुरस्कारः, संस्कारः, संस्करणं, रचनं -ना, विरचनं -ना,#}
-<div n="lb"/>{#उपाकर्म्म#} {%n.%} {#(न्), सम्भारः, सम्भृतिः#} {%f.,%} {#सन्धानं, समवधानं, प्रतिविधानं,#}
-<div n="lb"/>{#उद्योगः, प्रस्तुतीकरणं#}. — (State of preparation) {#सिद्धिः#} {%f.,%} {#सिद्धता#}
-<div n="lb"/>{#-त्वं#}. — (Previous or preparative measure) {#उपायः, साधनोपायः,#}
-<div n="lb"/>{#अभ्युपायः, साधनं#}. — (That which is prepared or compounded,
-<div n="lb"/>a compound) {#योगः, रसायनं;#} ‘a preparation of mercury,’
-<div n="lb"/>{#रसर्गभं, रसपुष्पं#}. — (Of medicine or food) {#संस्कारः, पाकः, पचनं#}.
-<div n="lb"/> — (Prepared food) {#पक्वान्नं, सिद्धान्नं#}.
+PREPARATION¦, {%s.%} (Act of getting ready, providing or fitting
+for any purpose) {#सज्जनं -ना, सज्जीकरणं, सज्जकर्म्म#} {%n.%} {#(न्), साधनं,#}
+{#सिद्धीकरणं, आयोजनं, उपकल्पनं -ना, परिकल्पनं -ना, कल्पनं -ना,#}
+[Page619-a+ 51]
+{#पुरस्करणं, पुरस्कारः, संस्कारः, संस्करणं, रचनं -ना, विरचनं -ना,#}
+{#उपाकर्म्म#} {%n.%} {#(न्), सम्भारः, सम्भृतिः#} {%f.,%} {#सन्धानं, समवधानं, प्रतिविधानं,#}
+{#उद्योगः, प्रस्तुतीकरणं#}. — (State of preparation) {#सिद्धिः#} {%f.,%} {#सिद्धता#}
+{#-त्वं#}. — (Previous or preparative measure) {#उपायः, साधनोपायः,#}
+{#अभ्युपायः, साधनं#}. — (That which is prepared or compounded,
+a compound) {#योगः, रसायनं;#} ‘a preparation of mercury,’
+{#रसर्गभं, रसपुष्पं#}. — (Of medicine or food) {#संस्कारः, पाकः, पचनं#}.
+ — (Prepared food) {#पक्वान्नं, सिद्धान्नं#}.
 <LEND>

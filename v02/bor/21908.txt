@@ -1,4 +1,4 @@
 <L>21908<pc>691<k1>superfluously<k2>superfluously
-<div n="lb"/>{@SUPERFLUOUSLY:@}¦ <div n="1">(1) {#अधिकम्;#} </div><div n="1">(2) {#अतिरिक्तम्;#}</div>
-<div n="lb"/><div n="1">(3) {#बाहुल्येन।#}</div>
+{@SUPERFLUOUSLY:@}¦ <div n="1">(1) {#अधिकम्;#} </div><div n="1">(2) {#अतिरिक्तम्;#}</div>
+<div n="1">(3) {#बाहुल्येन।#}</div>
 <LEND>

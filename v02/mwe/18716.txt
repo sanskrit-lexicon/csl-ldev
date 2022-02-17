@@ -1,5 +1,5 @@
 <L>18716<pc>482-a<k1>manual<k2>manual
-<div n="lb"/>MANUAL¦, {%s.%} (Small book for carrying in the hand) {#पद्धतिः -ती#} {%f.,%}
-<div n="lb"/>{#सारग्रन्थः, सारसङ्ग्रहः, सारसंक्षेपः, संक्षिप्तग्रन्थः, संहिता;#} ‘of laws,’
-<div n="lb"/>{#धर्म्मसंहिता#}.
+MANUAL¦, {%s.%} (Small book for carrying in the hand) {#पद्धतिः -ती#} {%f.,%}
+{#सारग्रन्थः, सारसङ्ग्रहः, सारसंक्षेपः, संक्षिप्तग्रन्थः, संहिता;#} ‘of laws,’
+{#धर्म्मसंहिता#}.
 <LEND>

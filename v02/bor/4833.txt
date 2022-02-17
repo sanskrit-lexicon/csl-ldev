@@ -1,5 +1,5 @@
 <L>4833<pc>156<k1>corruptly<k2>corruptly
-<div n="lb"/>{@CORRUPTLY:@}¦ expr. by adj. or circum., <div n="xe">{%to%}
-<div n="lb"/>{%decree and dismiss c.:%}</div> <div n="xs">{#*नष्टः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#धनेन भिन्नः #}
-<div n="lb"/>{# जयपराजयौ विदधाति।#}</div>
+{@CORRUPTLY:@}¦ expr. by adj. or circum., <div n="xe">{%to%}
+{%decree and dismiss c.:%}</div> <div n="xs">{#*नष्टः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#धनेन भिन्नः #}
+{# जयपराजयौ विदधाति।#}</div>
 <LEND>

@@ -1,15 +1,15 @@
 <L>10817<pc>146-3<k1>नीरव<k2>नीरव
 {#नीरव#}¦nī-rava, {%a.%} noiseless, mute; {@-rasa,@} 
-<>{%a.%} sapless, withered, dry; tasteless, insipid; 
-<>devoid of charm, tedious; having no taste 
-<>for {%or%} sense of; feelingless; {@-rāga,@} {%a.%} colourless; <lbinfo n="6"/>
-<> devoid of passions; {@-rājana@}, {%n.,%} {@ā,@} {%f. %}
-<>{%royal%} lustration {%of an army (including domestic %}<lbinfo n="2"/>
-<>{% priest, retainers, horses, elephants, etc.%}: 
-<>{%a military and religious ceremony%}); {@-ruc@}, {%a.%} 
-<>lustreless; bereft of beauty; {@-ruj@}, {%a.%} painless; <lbinfo n="4"/>
-<> healthy, well; {@-ruja@}, {%a.%} 
-<>formless; {@-reṇu-ka@}, {%a.%} dustless; {@-roga,@} {%a.%} 
-<>healthy, well: {@-tā,@} {%f.%} health, {@-durbhikṣa,@} 
-<>{%a.%} not afflicted with disease {%or%} famine.
+{%a.%} sapless, withered, dry; tasteless, insipid; 
+devoid of charm, tedious; having no taste 
+for {%or%} sense of; feelingless; {@-rāga,@} {%a.%} colourless; <lbinfo n="6"/>
+ devoid of passions; {@-rājana@}, {%n.,%} {@ā,@} {%f. %}
+{%royal%} lustration {%of an army (including domestic %}<lbinfo n="2"/>
+{% priest, retainers, horses, elephants, etc.%}: 
+{%a military and religious ceremony%}); {@-ruc@}, {%a.%} 
+lustreless; bereft of beauty; {@-ruj@}, {%a.%} painless; <lbinfo n="4"/>
+ healthy, well; {@-ruja@}, {%a.%} 
+formless; {@-reṇu-ka@}, {%a.%} dustless; {@-roga,@} {%a.%} 
+healthy, well: {@-tā,@} {%f.%} health, {@-durbhikṣa,@} 
+{%a.%} not afflicted with disease {%or%} famine.
 <LEND>

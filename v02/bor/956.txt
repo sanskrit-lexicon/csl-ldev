@@ -1,8 +1,8 @@
 <L>956<pc>034<k1>appointment<k2>appointment
-<div n="lb"/>{@APPOINTMENT:@}¦ <div n="I">I The act of appointing:</div>
-<div n="lb"/><div n="1">(1) {#नियोगः;#} </div><div n="1">(2) {#विनियोगः।#} </div><div n="I">II Station, posi-
-<div n="lb"/>-tion: {#पदम्।#} </div><div n="I">III Stipulation, agreement:
-<div n="lb"/>q. v. {#समयः#} (rare in this sense). </div><div n="I">IV. A. com-
-<div n="lb"/>-mand, decree: q. v.: {#नियोगः।#} v. Equipment:
-<div n="lb"/>q. v. {#सज्जा।#}</div>
+{@APPOINTMENT:@}¦ <div n="I">I The act of appointing:</div>
+<div n="1">(1) {#नियोगः;#} </div><div n="1">(2) {#विनियोगः।#} </div><div n="I">II Station, posi-
+-tion: {#पदम्।#} </div><div n="I">III Stipulation, agreement:
+q. v. {#समयः#} (rare in this sense). </div><div n="I">IV. A. com-
+-mand, decree: q. v.: {#नियोगः।#} v. Equipment:
+q. v. {#सज्जा।#}</div>
 <LEND>

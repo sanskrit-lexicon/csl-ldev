@@ -1,4 +1,4 @@
 <L>10350<pc>326<k1>ground<k2>ground
-<div n="lb"/>{@GROUND@}¦ (v. i.): {#भूमिं#} <div n="xe">{%or%}</div> <div n="xs">{#क्षिंतिं स्पृशति#}</div> ({#स्पृश्,#} c. 6.)
-<div n="lb"/>(?) <div n="xe">{%or%}</div> <div n="xs">{#भूमौ#}</div> <div n="xe">{%or%}</div> <div n="xs">{#क्षितौ लगति#}</div> ({#लग्,#} c. 1.) (?).
+{@GROUND@}¦ (v. i.): {#भूमिं#} <div n="xe">{%or%}</div> <div n="xs">{#क्षिंतिं स्पृशति#}</div> ({#स्पृश्,#} c. 6.)
+(?) <div n="xe">{%or%}</div> <div n="xs">{#भूमौ#}</div> <div n="xe">{%or%}</div> <div n="xs">{#क्षितौ लगति#}</div> ({#लग्,#} c. 1.) (?).
 <LEND>

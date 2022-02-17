@@ -1,9 +1,9 @@
 <L>19381<pc>601<k1>ripe<k2>ripe
-<div n="lb"/>{@RIPE:@}¦ <div n="1">(1) {#पक्व#} (f. {#क्वा#}), {#परि-, वि-, सं-,#} <div n="xe">{%with the%}
-<div n="lb"/>{%rice r.:%}</div> <div n="xs">{#परिपक्वशालिः,#}</div> Ki. iv. 1.; <div n="xe">{%thoroughly r.%}
-<div n="lb"/>{%tumour:%}</div> <div n="xs">{#सम्यक्पक्वः शोथः,#}</div> Bha.; </div><div n="1">(2) {#परिणत#}
-<div n="lb"/>(f. {#ता#}), <div n="xe">{%r. rose-apple:%}</div> <div n="xs">{#परिणतजम्बुफलम्,#}</div> Ki. x.
-<div n="lb"/>22.; <div n="xe">{%r. poetic genius:%}</div> <div n="xs">{#परिणतकवित्वशक्तिः,#}</div> M.n.;</div>
-<div n="lb"/><div n="1">(3) {#पक्त्रिम#} (f. {#मा#}), {#वि-, परि-#} (rare), <div n="xe">{%by these r.%}
-<div n="lb"/>{%words:%}</div> <div n="xs">{#वाणीभिराभिः परिपक्त्रिमाभिः,#}</div> N. xxii. 103.</div>
+{@RIPE:@}¦ <div n="1">(1) {#पक्व#} (f. {#क्वा#}), {#परि-, वि-, सं-,#} <div n="xe">{%with the%}
+{%rice r.:%}</div> <div n="xs">{#परिपक्वशालिः,#}</div> Ki. iv. 1.; <div n="xe">{%thoroughly r.%}
+{%tumour:%}</div> <div n="xs">{#सम्यक्पक्वः शोथः,#}</div> Bha.; </div><div n="1">(2) {#परिणत#}
+(f. {#ता#}), <div n="xe">{%r. rose-apple:%}</div> <div n="xs">{#परिणतजम्बुफलम्,#}</div> Ki. x.
+22.; <div n="xe">{%r. poetic genius:%}</div> <div n="xs">{#परिणतकवित्वशक्तिः,#}</div> M.n.;</div>
+<div n="1">(3) {#पक्त्रिम#} (f. {#मा#}), {#वि-, परि-#} (rare), <div n="xe">{%by these r.%}
+{%words:%}</div> <div n="xs">{#वाणीभिराभिः परिपक्त्रिमाभिः,#}</div> N. xxii. 103.</div>
 <LEND>

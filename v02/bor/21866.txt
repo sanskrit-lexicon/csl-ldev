@@ -1,14 +1,14 @@
 <L>21866<pc>689<k1>sum<k2>sum
-<div n="lb"/>{@SUM@}¦ (subs.): <div n="I">I Aggregate: </div><div n="1">(1) {#योगः#} (= addi-
-<div n="lb"/>-tion), <div n="xe">{%whose s. is hundred and one:%}</div> <div n="xs">{#ययोर्योगं #}
-<div n="lb"/>{# शतं सैकम्,#}</div> Li. 27.; </div><div n="1">(2) {#मानम्, प्रमाणम्#} (=total
-<div n="lb"/>number), <div n="xe">{%tell me the s. of his things:%}</div> <div n="xs">{#तस्य द्रव्य-#}
-<div n="lb"/>{#प्रमाणं वद्,#}</div> Li. 25.; </div><div n="1">(3) {#ऐक्यम्#} (=total). </div><div n="I">II
-<div n="lb"/>Quantity: {#राशिः,#} {%what s. becomes%} 68......:
-<div n="lb"/>{#स्यात् को राशिर्द्व्यूनसप्ततिः,#} Li. 21. </div><div n="I">III Of
-<div n="lb"/>money: no expr., <div n="xe">{%why do you spend a large s.%}
-<div n="lb"/>{%of money:%}</div> <div n="xs">{#किं महानर्थोत्सर्गः क्रियते,#}</div> Mu. iii. </div><div n="I">IV
-<div n="lb"/>S. and substance: </div><div n="1">(1) {#मर्मन्,#} (n.); </div><div n="1">(2) {#सारः।#}
-<div n="lb"/>V. Acme: q. v.: </div><div n="1">(1) {#परा कोटिः;#} </div><div n="1">(2) {#फलितम्,#}
-<div n="lb"/>M. n.</div>
+{@SUM@}¦ (subs.): <div n="I">I Aggregate: </div><div n="1">(1) {#योगः#} (= addi-
+-tion), <div n="xe">{%whose s. is hundred and one:%}</div> <div n="xs">{#ययोर्योगं #}
+{# शतं सैकम्,#}</div> Li. 27.; </div><div n="1">(2) {#मानम्, प्रमाणम्#} (=total
+number), <div n="xe">{%tell me the s. of his things:%}</div> <div n="xs">{#तस्य द्रव्य-#}
+{#प्रमाणं वद्,#}</div> Li. 25.; </div><div n="1">(3) {#ऐक्यम्#} (=total). </div><div n="I">II
+Quantity: {#राशिः,#} {%what s. becomes%} 68......:
+{#स्यात् को राशिर्द्व्यूनसप्ततिः,#} Li. 21. </div><div n="I">III Of
+money: no expr., <div n="xe">{%why do you spend a large s.%}
+{%of money:%}</div> <div n="xs">{#किं महानर्थोत्सर्गः क्रियते,#}</div> Mu. iii. </div><div n="I">IV
+S. and substance: </div><div n="1">(1) {#मर्मन्,#} (n.); </div><div n="1">(2) {#सारः।#}
+V. Acme: q. v.: </div><div n="1">(1) {#परा कोटिः;#} </div><div n="1">(2) {#फलितम्,#}
+M. n.</div>
 <LEND>

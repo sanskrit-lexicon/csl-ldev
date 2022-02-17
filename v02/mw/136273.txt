@@ -1,5 +1,5 @@
 <L>136273<pc>688,2<k1>प्रयुज्<k2>प्र-युज्<h>a<e>1
-<s>प्र-√ युज्</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-युङ्क्ते</s> (rarely <ab>P.</ab> <s>-युनक्ति</s>; <ab>cf.</ab> <ls>Pāṇ. 1-3, 64</ls>), 
+<s>प्र-√ युज्</s> <hom>a</hom> ¦ <ab>Ā.</ab> <s>-युङ्क्ते</s> (rarely <ab>P.</ab> <s>-युनक्ति</s>; <ab>cf.</ab> <ls>Pāṇ. i, 3, 64</ls>), 
 <div n="to"/>to yoke or join or harness to (<ab>loc.</ab>), <ls>RV.</ls>;
 <div n="to"/>to unite with (<ab>instr.</ab>), <ls>AV.</ls>;
 <div n="to"/>to turn (the mind) to (<ab>loc.</ab>), <ls>RV.</ls>;
@@ -29,7 +29,7 @@
 <div n="to"/>to perform, practise, <ls>Mn. iii, 112</ls>;
 <div n="to"/> (with <s>वृद्धिम्</s>) to take interest, <ls>ib. x, 117</ls>;
 <div n="to"/> (with <s>प्रयोगम्</s>) to invest capital, <ls>SaddhP.</ls>;
-<div n="to"/>to be applicable <ab>g.</ab> <s>क्षुभ्ना<srs/>दि</s>;
-<div n="to"/>to aim at, have in view, <ls>Pāṇ. 6-3, 62</ls> <ab>Sch.</ab>:
+<div n="to"/>to be applicable <ab>g.</ab> <s>क्षुभ्ना<स्र्स्/>दि</s>;
+<div n="to"/>to aim at, have in view, <ls>Pāṇ. vi, 3, 62</ls> <ab>Sch.</ab>:
 <div n="to"/><ab>Desid.</ab> <s>-युयुक्षते</s>, to wish to use, want, require, <ls>Pat.</ls><info verb="pre" cp="PĀ" parse="pra+yuj"/>
 <LEND>

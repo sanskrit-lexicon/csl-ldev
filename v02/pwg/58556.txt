@@ -1,5 +1,5 @@
 <L>58556<pc>5-0631<k1>महानस<k2>महानस/
-{#महानस/#}¦ {#(महा + अनस्)#} 
+{#महानस/#}¦ ({#महा + अनस्#}) 
 <ls>P. 5, 4, 94.</ls> 
 <ls>VOP. 6, 45.</ls> 
 <div n="1"> 1) <lex>n.</lex> 
@@ -12,15 +12,15 @@
 <ls>HALĀY. 2, 140.</ls> 
 <ls>KĀTY. ŚR. 4, 7, 16.</ls> 
 <ls>GOBH. 1, 4, 33.</ls> 
-<ls>MBH. 3, 203. 2941. 8486. 12352. 13809. 4, 29. 241. 5, 1409. 7, 2360. 16, 46.</ls> 
+<ls>MBH. 3, 203.</ls> <ls n="MBH. 3,">2941.</ls> <ls n="MBH. 3,">8486.</ls> <ls n="MBH. 3,">12352.</ls> <ls n="MBH. 3,">13809.</ls> <ls n="MBH.">4, 29.</ls> <ls n="MBH. 4,">241.</ls> <ls n="MBH.">5, 1409.</ls> <ls n="MBH.">7, 2360.</ls> <ls n="MBH.">16, 46.</ls> 
 <ls>SUŚR. 1, 240, 3. 2, 444, 6.</ls> 
-<ls>Spr. 1170</ls> <ls>?(masc.). KATHĀS. 20, 201. 36, 70. 49, 44. 61, 284. BHĀG. P. 4, 5, 14. MĀRK. P. 51, 33. 98. PAÑCAT. 253, 14. 254, 19.</ls> {%Küchengeräth%} 
+<ls>Spr. 1170</ls> (<ls>masc.).</ls> <ls>KATHĀS. 20, 201. 36, 70. 49, 44. 61, 284.</ls> <ls>BHĀG. P. 4, 5, 14.</ls> <ls>MĀRK. P. 51, 33. 98.</ls> <ls>PAÑCAT. 253, 14. 254, 19.</ls> {%Küchengeräth%} 
 <ls>KĀTY. ŚR. 22, 2, 27</ls> (vgl. jedoch 
 <ls>LĀṬY. 8, 14, 4</ls>, wo der Comm. die Bed. {%a.%} annimmt). 
 <ls>MBH. 15, 614.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Berges 
 <ls>BHĀG. P. 5, 20, 26.</ls> 
-<div n="1">— 3) <lex>f.</lex> {#ई#} {%Köchin, Küchenmagd%} (=  {#महानसे परिचारिका)#} 
+<div n="1">— 3) <lex>f.</lex> {#ई#} {%Köchin, Küchenmagd%} (= {#महानसे परिचारिका)#} 
 <ls>MBH. 5, 698</ls>; wohl fehlerhaft für {#माहानसी#} . 
 <div n="v">— Vgl. {#माहानस#} .
 <LEND>

@@ -1,5 +1,5 @@
 <L>62523<pc>342,3<k1>गण्<k2>गण्<e>1
-<s>गण्</s> ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>गणयति</s> (<ab>ep.</ab> also <ab>Ā.</ab> <s>°ते</s>: <ab>aor.</ab> <s>अजीगणत्</s> [<ls>Kathās. lxxviii</ls>] or <s>अजग्°</s>, <ls>Pāṇ. 7-4, 97</ls> <pb n="343,1"/>; <ab>ind.p.</ab> <s>गणय्य</s>, <ls>BhP.</ls> [with <s>अ-</s> <ab>neg.</ab>, <ls>iv, 7, 15</ls>]), 
+<s>गण्</s> ¦ <ab>cl.</ab> 10. <ab>P.</ab> <s>गणयति</s> (<ab>ep.</ab> also <ab>Ā.</ab> <s>°ते</s>: <ab>aor.</ab> <s>अजीगणत्</s> [<ls>Kathās. lxxviii</ls>] or <s>अजग्°</s>, <ls>Pāṇ. vii, 4, 97</ls> <pb n="343,1"/>; <ab>ind.p.</ab> <s>गणय्य</s>, <ls>BhP.</ls> [with <s>अ-</s> <ab>neg.</ab>, <ls>iv, 7, 15</ls>]), 
 <div n="to"/>to count, number, enumerate, sum up, add up, reckon, take into account, <ls>MBh.</ls>; <ls>R.</ls> &c.;
 <div n="to"/>to think worth, value (with <ab>instr.</ab> <ab>e.g.</ab> <s>न गणयामि तं तृणेन</s>, ‘I do not value him at a straw’ <ls>MBh. ii, 1552</ls>);
 <div n="to"/>to consider, regard as (with double <ab>acc.</ab>), <ls>Ragh. viii; xi</ls>; <ls>Daś.</ls>; <ls>Pañcat.</ls>; <ls>Gīt.</ls>; <ls>Kathās.</ls>;
@@ -7,5 +7,5 @@
 <div n="to"/>to ascribe, attribute to (<ab>loc.</ab>), <ls>Bhartṛ. ii, 44</ls>;
 <div n="to"/>to attend to, take notice of (<ab>acc.</ab>; often with <s>न</s>, not to care about, leave unnoticed), <ls>MBh.</ls> &c.;
 <div n="to"/>to imagine, excogitate, <ls>Megh. 107</ls>;
-<div n="to"/>to count one's number (said of a flock or troop), <ls>Pāṇ. 1-3, 67</ls>; <ls>Kāś.</ls><info verb="genuineroot" cp="10P,10Ā"/>
+<div n="to"/>to count one's number (said of a flock or troop), <ls>Pāṇ. i, 3, 67</ls>; <ls>Kāś.</ls><info verb="genuineroot" cp="10P,10Ā"/>
 <LEND>

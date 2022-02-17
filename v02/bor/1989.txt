@@ -1,12 +1,12 @@
 <L>1989<pc>069<k1>better<k2>better
-<div n="lb"/>{@BETTER@}¦ (adj.): <div n="I">I Comparative of good:
-<div n="lb"/>q. v. </div><div n="I">II Preferable; Ph. {%b.%} ({%to have%}) <div n="xe">{%a%}
-<div n="lb"/>{%learned enemy than a stupid friend%}</div> <div n="xs">{#पण्डितोऽपि #}
-<div n="lb"/>{# वरं शत्रुर्न मूर्खो हितकारकः,#}</div> P. i. 21.; <div n="xe">{%b. to die%}
-<div n="lb"/>{%than to mix with low people%}</div> <div n="xs">{#वरं प्राणत्यागो #}
-<div n="lb"/>{# न पुनरधमानामुपगमः,#}</div> H. i.; <div n="xe">{%b. to keep silence%}
-<div n="lb"/>{%than to utter a lie%}</div> <div n="xs">{#वरं मौनं कार्यं न च वचनमुक्तं #}
-<div n="lb"/>{# यदनृनम्;#}</div> <ls>H.</ls> </div><div n="I">III. In improved health: Ph.:
-<div n="lb"/><div n="xe">{%are you b.? Oh, yes, a little b.%}</div> <div n="xs">{#अपि ते लघु-#}
-<div n="lb"/>{#सन्तापान्यङ्गानि? अहो अस्ति विशेषः,#}</div> Sa. iii.</div>
+{@BETTER@}¦ (adj.): <div n="I">I Comparative of good:
+q. v. </div><div n="I">II Preferable; Ph. {%b.%} ({%to have%}) <div n="xe">{%a%}
+{%learned enemy than a stupid friend%}</div> <div n="xs">{#पण्डितोऽपि #}
+{# वरं शत्रुर्न मूर्खो हितकारकः,#}</div> P. i. 21.; <div n="xe">{%b. to die%}
+{%than to mix with low people%}</div> <div n="xs">{#वरं प्राणत्यागो #}
+{# न पुनरधमानामुपगमः,#}</div> H. i.; <div n="xe">{%b. to keep silence%}
+{%than to utter a lie%}</div> <div n="xs">{#वरं मौनं कार्यं न च वचनमुक्तं #}
+{# यदनृनम्;#}</div> <ls>H.</ls> </div><div n="I">III. In improved health: Ph.:
+<div n="xe">{%are you b.? Oh, yes, a little b.%}</div> <div n="xs">{#अपि ते लघु-#}
+{#सन्तापान्यङ्गानि? अहो अस्ति विशेषः,#}</div> Sa. iii.</div>
 <LEND>

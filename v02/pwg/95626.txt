@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>m.</lex> pl. Bez. {%einer Art von%} <is>Ṛṣi</is> 
 <ls>PAÑCAV. BR. 14,4,7.</ls> 
 <ls>TAITT. ĀR.1,23,3.</ls> 
-<ls>MBH.1,7683. 13,4126. 4323.</ls> 
+<ls>MBH. 1, 7683.</ls> <ls n="MBH.">13, 4126.</ls> <ls n="MBH. 13,">4323.</ls> 
 <ls>HARIV. 4353.</ls> 
 <ls>R.1,51,27.3,10,2. 39,30.4,40,60. 44,40.</ls> <ls>CARAKA,</ls> Einl. <ls>BHĀG. P. 3,12,43.</ls> <ls>Verz. d. Oxf. H. 310,a,30.</ls> {#शतं वैखानसाः#} Liedverfasser von 
 <ls>ṚV. 9, 66.</ls>
@@ -24,9 +24,9 @@
 <ls>R. ed. GORR. Bd. III, S. 467.</ls> - <ls>RAGH. 14, 28.</ls> <ls>ŚĀK. 6, 17.</ls> <ls>UTTARAR. 11, 19 (16, 5). 72, 9 (93, 5).</ls> <ls>PRAB. 43, 6. 44, 7.</ls> <ls>BHAṬṬ. 3, 46.</ls> {#°सुसंमत (तपस्)#} 
 <ls>BHĀG. P. 4, 23, 4.</ls> 
 <div n="1">— 3) <lex>m.</lex> patron. des <is>Vamra</is> 
-<ls>ṚV.</ls> <ls>ANUKR.</ls> des <is>Puruhanman</is> <ls>PAÑCAV. BR. 14, 9, 29.</ls> 
+<ls>ṚV. ANUKR.</ls> des <is>Puruhanman</is> <ls>PAÑCAV. BR. 14, 9, 29.</ls> 
 <div n="1">— 4) <lex>m.</lex> pl. Bez. einer best. <is>Viṣṇu</is>'itischen Secte 
-<ls>WILSON, Sel. Works</ls> <ls>?I,15. fg. Verz. d. Oxf. H. 248,a,15. 31.</ls> {#वैखानसाद्यागमाः#} 
+<ls>WILSON, Sel. Works I,15. fg.</ls> <ls>Verz. d. Oxf. H. 248,a,15. 31.</ls> {#वैखानसाद्यागमाः#} 
 <ls>Verz. d. B. H. No. 1025.</ls> 
 <div n="1">— 5) N. pr. eines Autors (m.) oder Titel eines Werkes (n.) 
 <ls>Verz. d. B. H. No. 941.</ls> <ls>Verz. d. Oxf. H. 279,b,4. 5.</ls> 
@@ -37,5 +37,5 @@
 <ls>Ind. St.3,237,a.</ls> <ls>TS.7,1,4,3.</ls> <ls>PAÑCAV. BR. 14,4,6.</ls> <ls>LĀṬY.7,3,15.9,13.</ls> {#मार्ग#} 
 <ls>R. 2, 52, 65.</ls> {#व्रत#} 
 <ls>ŚĀK. 26.</ls> {#तन्त्र#} {%das%} <is>Tantra</is> {%der%} <is>Vaikhānasa</is> {%genannten Secte%} 
-<ls>BHĀG. P. ed. BURN. I, XCV.</ls>
+<ls>BHĀG. P. ed.</ls> <ls>BURN. I, XCV.</ls>
 <LEND>

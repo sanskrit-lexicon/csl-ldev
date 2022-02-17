@@ -1,6 +1,6 @@
 <L>17559<pc>537<k1>precedence<k2>precedence
-<div n="lb"/>{@PRECEDENCE:@}¦ <div n="I">I Lit.: expr. as above: {#पूर्व-#}
-<div n="lb"/>{#वर्तिता,#} <div n="xe">{%p. of cause as regards effect:%}</div> <div n="xs">{#कार्यं प्रति #}
-<div n="lb"/>{# कारणस्य पूर्ववर्तिता,#}</div> Par. </div><div n="I">II Superior rank:</div>
-<div n="lb"/><div n="1">(1) {#प्राधान्यम्;#} </div><div n="1">(2) {#अग्रस्थानम्#} and sim. comp.s.</div>
+{@PRECEDENCE:@}¦ <div n="I">I Lit.: expr. as above: {#पूर्व-#}
+{#वर्तिता,#} <div n="xe">{%p. of cause as regards effect:%}</div> <div n="xs">{#कार्यं प्रति #}
+{# कारणस्य पूर्ववर्तिता,#}</div> Par. </div><div n="I">II Superior rank:</div>
+<div n="1">(1) {#प्राधान्यम्;#} </div><div n="1">(2) {#अग्रस्थानम्#} and sim. comp.s.</div>
 <LEND>

@@ -31,7 +31,7 @@
 <ls>5, 22, 4.</ls> {#वेदवितानमूर्ति (वेदैर्वितन्यते स्तूयते मूर्तिर्यस्य#} Comm.) 
 <ls>3, 13, 26.</ls> 
 <div n="1">— 4) <lex>m.</lex> <lex>n.</lex> {%Opferhandlung%} 
-<ls>AK.</ls> <ls>H. 820.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 259. 5, 62.</ls> <ls>MBH. 5, 1282. 13, 7374.</ls> {#उत्तमवितानयाजिन्#} 
+<ls>AK.</ls> <ls>H. 820.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 259. 5, 62.</ls> <ls>MBH. 5, 1282.</ls> <ls n="MBH.">13, 7374.</ls> {#उत्तमवितानयाजिन्#} 
 <ls>ŚIŚ. 14, 10.</ls> 
 <ls>BHĀG. P. 2, 1, 37. 3, 16, 8.</ls> {#वितानाग्नि#} 
 <ls>10, 69, 24. 74, 54. 85, 39.</ls> 
@@ -42,7 +42,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 155. 5, 62.</ls> 
-<ls>MBH. 1, 6961. 6, 2664. 8, 2656.</ls> 
+<ls>MBH. 1, 6961.</ls> <ls n="MBH.">6, 2664.</ls> <ls n="MBH.">8, 2656.</ls> 
 <ls>HARIV. 6938.</ls> 
 <ls>MṚCCH. 92, 5.</ls> 
 <ls>RAGH. 9, 50. 17, 28. 19, 39.</ls> 
@@ -55,7 +55,7 @@
 <div n="1">— 6) <lex>m.</lex> oder <lex>n.</lex> {%ein best. Verband für den Kopf%} 
 <ls>SUŚR. 1, 65, 18. 66, 3.</ls> 
 <div n="1">— 7) <lex>n.</lex> Bez. {%einer Klasse von Metren%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>Ind. St. 8, 329. fgg. 367.</ls> <ls>COLEBR. Misc. Ess. II, 119.</ls> {%ein best. Metrum: 4 Mal%} ˘ ¯ ˘ ¯ ¯ ˘ ¯ ¯  
+<ls>H. an.</ls> <ls>MED.</ls> <ls>Ind. St. 8, 329. fgg. 367.</ls> <ls>COLEBR. Misc. Ess. II, 119.</ls> {%ein best. Metrum: 4 Mal%} ˘ ¯ ˘ ¯ ¯ ˘ ¯ ¯ 
 <ls>159 (III, 7).</ls> 
 <div n="1">— 8) <lex>n.</lex> {%Gelegenheit%} 
 <ls>H. an.</ls> <ls>HALĀY. 5, 62.</ls> 

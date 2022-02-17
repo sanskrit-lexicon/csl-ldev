@@ -1,4 +1,4 @@
 <L>20348<pc>636<k1>sheen<k2>sheen
-<div n="lb"/>{@SHEEN:@}¦ <div n="I">I Adj.: {#उज्ज्वल#} (f. {#ला#}): v. Bright.</div>
-<div n="lb"/><div n="I">II Subs.: v. Brilliancy.</div>
+{@SHEEN:@}¦ <div n="I">I Adj.: {#उज्ज्वल#} (f. {#ला#}): v. Bright.</div>
+<div n="I">II Subs.: v. Brilliancy.</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>2353<pc>050-b<k1>bill<k2>bill
-<div n="lb"/>BILL¦, {%s.%} (Beak of a bird) {#चञ्चुः#} {%f.,%} {#तुण्डः, तुण्डिः#} {%m.,%} {#मुखः#}. — (A kind
-<div n="lb"/>of hatchet) {#दात्रं, स्तम्बघ्नः#}. — (An act of parliament) {#व्यवस्था#}.
-<div n="lb"/> — (A written paper of any kind) {#पत्रं, लेखः -खा, लेख्यं#}. — 
-<div n="lb"/>(An account of money) {#विक्रयपत्रं#}. — (An advertisement)
-<div n="lb"/>{#घोषणापत्रं#}. — (In law) {#भाषापादं, पूर्व्वपक्षपादः, अभियोगपत्रं#}.
+BILL¦, {%s.%} (Beak of a bird) {#चञ्चुः#} {%f.,%} {#तुण्डः, तुण्डिः#} {%m.,%} {#मुखः#}. — (A kind
+of hatchet) {#दात्रं, स्तम्बघ्नः#}. — (An act of parliament) {#व्यवस्था#}.
+ — (A written paper of any kind) {#पत्रं, लेखः -खा, लेख्यं#}. — 
+(An account of money) {#विक्रयपत्रं#}. — (An advertisement)
+{#घोषणापत्रं#}. — (In law) {#भाषापादं, पूर्व्वपक्षपादः, अभियोगपत्रं#}.
 <LEND>

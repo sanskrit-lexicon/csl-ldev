@@ -1,5 +1,5 @@
 <L>141154<pc>713,1<k1>प्रोक्ष्<k2>प्रोक्ष्<e>1
-<s>प्रो<srs/>क्ष्</s> ¦ (<s>प्र-√ उक्ष्</s>) <ab>P.</ab> <s>प्रो<srs/>क्षति</s> to sprinkle upon, besprinkle, consecrate (for sacrifice), <ls>RV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls>;
+<s>प्रो<स्र्स्/>क्ष्</s> ¦ (<s>प्र-√ उक्ष्</s>) <ab>P.</ab> <s>प्रो<स्र्स्/>क्षति</s> to sprinkle upon, besprinkle, consecrate (for sacrifice), <ls>RV.</ls>; <ls>VS.</ls>; <ls>ŚBr.</ls>; <ls>GṛŚrS.</ls>;
 <div n="to"/>to sacrifice, kill, slaughter (a sacrificial victim), <ls>MBh.</ls>; <ls>R.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>प्रो<srs/>क्षयति</s>, to sprinkle, besprinkle, <ls>Suśr.</ls><info verb="pre" cp="P" parse="pra+ukz"/>
+<div n="vp"/><ab>Caus.</ab> <s>प्रो<स्र्स्/>क्षयति</s>, to sprinkle, besprinkle, <ls>Suśr.</ls><info verb="pre" cp="P" parse="pra+ukz"/>
 <LEND>

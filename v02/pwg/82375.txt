@@ -37,7 +37,7 @@
 <ls>M. 9, 10.</ls> {#कर्मणाम्#} (Gegens. {#संन्यास#}) 
 <ls>BHAG. 5, 1.</ls> {#बुद्धि°#} 
 <ls>2, 49.</ls> {#वञ्चना°#} 
-<ls>MBH. 4, 1560. 1563.</ls> {#माया°#} 
+<ls>MBH. 4, 1560.</ls> <ls n="MBH. 4,">1563.</ls> {#माया°#} 
 <ls>R. 1, 31, 8.</ls> 
 <ls>BHĀG. P. 2, 9, 26.</ls> {#भ्रष्टश्च स्वरयोगो मे#} 
 <ls>R. 2, 69, 20.</ls> {#विश्वास°#} 
@@ -64,14 +64,14 @@
 <ls>3, 10777. 7, 677.</ls> {#सुजना योगेन मृदूभवन्ति न तु नीचाः#} 
 <ls>Spr. 49.</ls> {#बहुभिर्योगैः#} 
 <ls>MBH. 13, 2655.</ls> 
-<ls>HARIV. 4147. 4151.</ls> 
+<ls>HARIV. 4147.</ls> <ls n="HARIV.">4151.</ls> 
 <ls>R. 2, 73, 15.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 52, 16. 2, 78, 18.</ls> 
+
+<ls>R. GORR. 1, 52, 16. 2, 78, 18.</ls> 
 <ls>RAGH. 9, 23.</ls> 
 <ls>BHĀG. P. 3, 14, 45.</ls> {#दृष्ट्वा संज्ञपनं योगं पशूनां स पतिर्मखे#} 
 <ls>4, 5, 24.</ls> {#श्रेयःप्रसिद्धये#} 
-<ls>18, 3. 7,7,  21.</ls>
+<ls>18, 3. 7,7, 21.</ls>
 [Page6-0183]
 {%ein übernatürliches Mittel, Zauber%}: {#योगेन बहुधात्मानं कृत्वा#} 
 <ls>MBH. 1, 916.</ls> {#तं योगं मम चक्षुषो ऽप्युपदिश#} 
@@ -103,7 +103,7 @@
 <ls>MBH. 7, 793.</ls> 
 <ls>HARIV. 5429.</ls> {#श्रवणाङ्गुष्ठ°#} 
 <ls>MAITRYUP. 6, 22. 36.</ls> <ls>R. 5, 35, 25.</ls> <ls>RAGH. 3, 26. 6, 65.</ls> <ls>KUMĀRAS. 5, 67.</ls> <ls>ŚĀK. 42.</ls> <ls>Spr. 2054, v. l. 4373. 4810.</ls> <ls>AK. 3, 4, 32 (28), 1.</ls> <ls>VARĀH. BṚH. S. 54, 18. 79, 19. 27. 88, 14. 95, 21. 104, 24.</ls> <ls>KATHĀS. 17, 122. 31, 58.</ls> <ls>SĀH. D. 50, 1.</ls> <ls>BHĀG. P. 5, 5, 6.</ls> <ls>MĀRK. P. 16, 6.</ls> <ls>WEBER, RĀMAT. UP. 291.</ls> <ls>BHĀṢĀP. 56.</ls> <ls>NĪLAK. 35.</ls> {#बन्धो ऽत्र दुःखयोग एव#} 
-<ls>?66. KAP. 1, 19. Schol. zu P. 8, 1, 24. 4, 40. VOP. 2, 25.</ls> {#यदा न सौमित्रिरियाय योगम्#} {%sich einigen, nachgeben, sich fügen%} 
+<ls>66.</ls> <ls>KAP. 1, 19.</ls> Schol. zu <ls>P. 8, 1, 24. 4, 40.</ls> <ls>VOP. 2, 25.</ls> {#यदा न सौमित्रिरियाय योगम्#} {%sich einigen, nachgeben, sich fügen%} 
 <ls>R. 6, 112, 110.</ls> {%Verbindung verschiedener Stoffe, Mischung, Gemisch%} 
 <ls>AK. 2, 7, 22.</ls> 
 <ls>VARĀH. BṚH. S. 54, 121. 55, 30. 57, 8. 76, 9. 77, 19. 25.</ls> {#विषयोगास्तथा सर्वे विदिताः शत्रुनाशनाः#} 
@@ -120,10 +120,10 @@
 <ls>LĀṬY. 8, 1, 5.</ls> 
 <ls>SŪRYAS. 7, 11. 14, 15. 17.</ls> 
 <ls>VARĀH. BṚH. S. 24, 5. 9. 11. 29. 25, 4. 26, 12. 27, 1. 2. 107, 3.</ls> 
-<ls>MBH. 1, 7333. 3, 15959. 5, 125. 13, 1732. 3278.</ls> 
+<ls>MBH. 1, 7333.</ls> <ls n="MBH.">3, 15959.</ls> <ls n="MBH.">5, 125.</ls> <ls n="MBH.">13, 1732.</ls> <ls n="MBH. 13,">3278.</ls> 
 <ls>HARIV. 2476.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 12, 3. 26, 11. 5, 35, 23. 6, 112, 59.</ls> 
+
+<ls>R. GORR. 2, 12, 3. 26, 11. 5, 35, 23. 6, 112, 59.</ls> 
 <ls>P. 3, 1, 26, <is>Vārtt</is>. 7.</ls> 
 <ls>ŚĀK. 181.</ls> 
 <ls>VIKR. 38, 12.</ls> 
@@ -145,7 +145,7 @@
 <div n="2">— o) {%Zusammenhang, Beziehung, Relation%}: {#मानयोगांश्च जानीयात्तुलायोगांश्च सर्वशः#} 
 <ls>M. 9, 330.</ls> {#द्रव्याणां स्थानयोगाः#} {%die respectiven Standorte%} 
 <ls>332.</ls> {#स्त्रीधर्मयोगम् (= धर्मोपायम्#} 
-<ls>KULL.</ls><ls>) 1, 114.</ls> {#तत्र स्थानानि भूतानां योगांश्चैव पृथग्विधान्व्यधत्त शतशो ब्रह्मा#} 
+<ls>KULL.</ls>) <ls>1, 114.</ls> {#तत्र स्थानानि भूतानां योगांश्चैव पृथग्विधान्व्यधत्त शतशो ब्रह्मा#} 
 <ls>HARIV. 11805.</ls> {#हृदयं ह्येव जानाति प्रीतियोगं परस्परम्#} 
 <ls>R. GORR. 1, 78, 15.</ls> <ls>KAP. 1, 31.</ls> <ls>P. 1, 2, 54.</ls> {#पुमाख्याश्च #}
 [Page6-0184]
@@ -158,7 +158,7 @@
 <ls>13.</ls> {#फल°#} 
 <ls>6, 9.</ls> {#कर्म°#} 
 <ls>12.</ls> {#वेद°#} 
-? <ls n="KĀTY. ŚR.">8, 29. 4, 4, 2. 12, 1, 8. 22, 2, 14. 15. 25, 4, 42.</ls> <ls>ŚVETĀŚV. UP. 4, 1.</ls> <ls>ṚV. PRĀT. 13, 4.</ls> <ls>M. 1, 41.</ls> <ls>R. 1, 60, 20</ls> (62, 20 GORR.). <ls>ŚĀK. 47.</ls> <ls>KAP. 1, 12.</ls> fg. <ls>3, 52.</ls> <ls>SĀṂKHYAK. 42.</ls> <ls>RAGH. 7, 3. 13, 29.</ls> <ls>KUMĀRAS. 7, 55.</ls> <ls>KĀM. NĪTIS. 3, 39.</ls> <ls>Spr. 1562. 4273.</ls> <ls>VARĀH. BṚH. S. 75, 2.</ls> <ls>KATHĀS. 18, 274.</ls> <ls>RĀJA-TAR. 6, 48.</ls> <ls>NAIṢ. 22, 46.</ls> <ls>SĀH. D. 7, 1.</ls> <ls>AK. 2, 10, 24.</ls> {#°योगतस्#} dass. 
+? <ls n="KĀTY. ŚR.">8, 29. 4, 4, 2. 12, 1, 8. 22, 2, 14. 15. 25, 4, 42.</ls> <ls>ŚVETĀŚV. UP. 4, 1.</ls> <ls>ṚV. PRĀT. 13, 4.</ls> <ls>M. 1, 41.</ls> <ls>R. 1, 60, 20 (62, 20 GORR.)</ls>. <ls>ŚĀK. 47.</ls> <ls>KAP. 1, 12.</ls> fg. <ls>3, 52.</ls> <ls>SĀṂKHYAK. 42.</ls> <ls>RAGH. 7, 3. 13, 29.</ls> <ls>KUMĀRAS. 7, 55.</ls> <ls>KĀM. NĪTIS. 3, 39.</ls> <ls>Spr. 1562. 4273.</ls> <ls>VARĀH. BṚH. S. 75, 2.</ls> <ls>KATHĀS. 18, 274.</ls> <ls>RĀJA-TAR. 6, 48.</ls> <ls>NAIṢ. 22, 46.</ls> <ls>SĀH. D. 7, 1.</ls> <ls>AK. 2, 10, 24.</ls> {#°योगतस्#} dass. 
 <ls>RAGH. 17, 78.</ls> 
 <ls>KATHĀS. 46, 236. 59, 38.</ls> 
 <ls>BHĀG. P. 1, 9, 27. 3, 5, 34.</ls> {#°योगेन#} dass. 
@@ -180,10 +180,10 @@ u.s.w. <ls>4, 13. 6, 12. 7, 8. 15, 4. 25, 12.</ls> {%sechszehn Constellationen%}
 <ls>27</ls> ({#आनन्दादि#}) und auch 
 <ls>28</ls> ({#विष्कम्भादि#}) solcher <is>Yoga</is> mit Namen aufgeführt 
 <ls>COLEBR. Misc. Ess. II, 363.</ls> <ls>SŪRYAS. 2, 65</ls> (vgl. die Note dazu 
-<ls>?S. 432). VARĀH. BṚH. S. 103, 13</ls> ({#नन्दादि#} 
+<ls>S. 432).</ls> <ls>VARĀH. BṚH. S. 103, 13</ls> ({#नन्दादि#} 
 <ls>Schol.</ls> st. {#आनन्दादि#}). 
 <div n="2">— r) {%Etymologie, Ableitung der Bedeutung eines Wortes aus seiner Wurzel, die aus der Etymologie sich ergebende Bedeutung eines Wortes%} (Gegens. {#रूढि#}) 
-<ls>SĀY.</ls> zu <ls>ṚV.</ls> I, ? <ls>S. 72, 16. Schol. zu KĀTY. ŚR. 4, 14, 31. 15, 1, 1.</ls> {#भवति हि निष्पन्ने ऽभिव्याहारे योगपरीष्टिः#} 
+<ls>SĀY.</ls> zu <ls>ṚV.</ls> I, ? <ls>S. 72, 16. Schol.</ls> zu <ls>KĀTY. ŚR. 4, 14, 31. 15, 1, 1.</ls> {#भवति हि निष्पन्ने ऽभिव्याहारे योगपरीष्टिः#} 
 <ls>NIR.1,14.</ls> <ls>PRATĀPAR.9,a,3. 4.</ls> <ls>H. 2.</ls> 
 <div n="2">— s) {%Abhängigkeit eines Wortes von einem andern, Rection, Construction%}: {#शस्त्रकृतो योगः शब्दानाम्#} (nach 
 <ls>DURGA</ls> {%Zusammensetzung, Bau%}; es wäre auch die vorangehende Bed. möglich) 
@@ -199,16 +199,16 @@ u.s.w. <ls>4, 13. 6, 12. 7, 8. 15, 4. 25, 12.</ls> {%sechszehn Constellationen%}
 <div n="2">— u) {%das Passen zu einander, Angemessenheit%}: {#द्वयोर्योगं न पश्यामि तपसो रक्षणस्य च#} 
 <ls>MBH. 5, 5433.</ls> {#न योगो ऽस्ति विषस्य रुधिरस्य च#} 
 <ls>R. 5, 85, 23.</ls> {#नह्येताभ्याम् - अस्मदादेः सहाध्ययनयोगो ऽस्ति#} 
-<ls>UTTARAR. 27, 2. 3 (35, 12. fg. ).</ls> {#अन्यतर°#} 
+<ls>UTTARAR. 27, 2. 3 (35, 12. fg.).</ls> {#अन्यतर°#} 
 <ls>KAP. 1, 76. 120.</ls> {#अ°#} {%logische Unmöglichkeit%}: {#उत्तरस्य कार्यस्यायोगः#} 
 <ls>Schol.</ls> zu <ls>KAP. 1, 39.</ls> {#नाशायोग#} 
-<ls>?5. VEDĀNTAS. (Allah.) No. 84. SARVADARŚANAS. 141, 15. fg. 143, 17. 150, 14 fgg. 180, 5.</ls> {#योगतस्#} {%wie es sich gebührt, auf die richtige Weise%} 
+<ls>5.</ls> <ls>VEDĀNTAS. (Allah.) No. 84.</ls> <ls>SARVADARŚANAS. 141, 15. fg. 143, 17. 150, 14 fgg. 180, 5.</ls> {#योगतस्#} {%wie es sich gebührt, auf die richtige Weise%} 
 <ls>M. 6, 9.</ls> {#योगेन#} dass. 
 <ls>R. 5, 90, 31.</ls> {#अयोगेन#} 
 <ls>Spr. 3811.</ls> {#योग = युक्ति#} 
 <ls>AK.</ls> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— v) {%Anspannung der Kräfte, Bemühung, Fleiss, Eifer, Aufmerksamkeit%}: {#अस्त्रे च परमं योगम्#} ({#आतिष्ठत्#}) 
-<ls>MBH. 1, 5230. 5244.</ls> {#इन्द्रियाणां जये योगमातिष्ठेद्दिवानिशम्#} 
+<ls>MBH. 1, 5230.</ls> <ls n="MBH. 1,">5244.</ls> {#इन्द्रियाणां जये योगमातिष्ठेद्दिवानिशम्#} 
 <ls>M. 7, 44.</ls> {#स त्वमातिष्ठ योगं तं येन शीघ्रा हया मम । भवेयुः#} 
 <ls>MBH. 3, 2639.</ls> {#परया श्रद्धयोपेतो योगेन परमेण#} 
 <ls>1, 5245.</ls> {#विद्या योगेन रक्ष्यते#} 
@@ -220,8 +220,8 @@ u.s.w. <ls>4, 13. 6, 12. 7, 8. 15, 4. 25, 12.</ls> {%sechszehn Constellationen%}
 
 <ls>M. 2, 100.</ls> 
 <div n="2">— w) {#पूर्णेन योगेन#} oder {#जलपूर्णेन योगेन#} so v. a. {%zum Ueberfliessen, aus vollem Herzen, aus unwiderstehlichem Drange%} 
-<ls>HARIV. 5425. 5196.</ls> fehlerhaft {#जयपूर्वेण#} st. {#जल°#} 
-<ls>5429.</ls> 
+<ls>HARIV. 5425.</ls> <ls n="HARIV.">5196.</ls> fehlerhaft {#जयपूर्वेण#} st. {#जल°#} 
+<ls n="HARIV.">5429.</ls> 
 <div n="2">— x) {%Sammlung —, Concentration der Geistesthätigkeit, feste Richtung der Erkenntniss auf einen Punkt, Meditation, Contemplation; die zur Kunstfertigkeit erhobene Contemplation; die systematische Begründung derselben, der%} <is>Yoga</is> {%als ein best. philosophisches System%} (als Gründer desselben gilt später <is>Patañjali</is>); = {#ध्यान#} 
 <ls>AK.</ls> <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#अप्राप्तार्थस्य प्राप्तये पर्यनुयोगो योगः#} 
 <ls>SARVADARŚANAS. 15, 11.</ls> <ls>TAITT. UP. 2, 4.</ls> <ls>TAITT. ĀR. 8, 4.</ls> {#सूक्ष्मतां चान्ववेक्षेत योगेन परमात्मनः । देहेषु च समुत्पत्तिमुत्तमेष्वधमेषु च ॥#} 
@@ -244,7 +244,7 @@ u.s.w. <ls>4, 13. 6, 12. 7, 8. 15, 4. 25, 12.</ls> {%sechszehn Constellationen%}
 <ls>NIR. 14, 6.</ls> 
 <ls>ŚVETĀŚV. UP. 6, 13.</ls> 
 <ls>BHAG. 2, 39.</ls> 
-<ls>MBH. 12, 7157. 11037. fg. 14, 546. fgg.</ls> 
+<ls>MBH. 12, 7157.</ls> <ls n="MBH. 12,">11037. fg.</ls> <ls n="MBH.">14, 546. fgg.</ls> 
 <ls>LALIT. ed. Calc. 179, 5.</ls> <ls>Lot. de la b. l. 4.</ls> <ls>BHĀG. P. 2, 1, 6.</ls> Eine verkehrte Auffassung des Wortes, nämlich als {%Verbindung der Einzelseele mit Gott%} oder {%der Allseele%} findet man z. B. bei den <is>Pāśupata</is>: {#चित्तद्वारेणात्मेश्वरसंबन्धो योगः#} 
 <ls>SARVADARŚANAS. 77, 14.</ls> {#न पद्मासनता योगो न नासाग्रनिरीक्षणम् । ऐक्यं जीवात्मनोराहुर्योगं योगविशारदाः ॥#} 
 <ls>KULĀRṆAVAT.</ls> in <ls>Verz. d. Oxf. H. 92,a,7. 8.</ls> Bei den <is>Pāñcarātra</is> ist {#योग#} {%Andacht, andächtiges Suchen Gottes%}: {#योगो नाम देवतानुसंधानम्#} 
@@ -257,7 +257,7 @@ u.s.w. <ls>4, 13. 6, 12. 7, 8. 15, 4. 25, 12.</ls> {%sechszehn Constellationen%}
 <div n="2">— y) der personif. <is>Yoga</is> ist ein Sohn <is>Dharma's</is> von der <is>Kriyā</is> 
 <ls>BHĀG. P. 4, 1, 51.</ls> 
 <div n="2">— z) {%ein Anhänger des%} <is>Yoga</is>-{%Systems%} 
-<ls>MBH. 3, 12741. 12, 11038. fg. 11550.</ls> <ls>Schol.</ls> zu <ls>KAP. 5, 57.</ls> <ls>Verz. d. B. H. No. 616.</ls> 
+<ls>MBH. 3, 12741.</ls> <ls n="MBH.">12, 11038. fg.</ls> <ls n="MBH. 12,">11550.</ls> <ls>Schol.</ls> zu <ls>KAP. 5, 57.</ls> <ls>Verz. d. B. H. No. 616.</ls> 
 <div n="2">— aa) {%der das Vertrauen missbraucht, Verräther%} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— bb) {%Späher%} 
@@ -266,7 +266,7 @@ u.s.w. <ls>4, 13. 6, 12. 7, 8. 15, 4. 25, 12.</ls> {%sechszehn Constellationen%}
 <ls>Verz. d. Oxf. H. 238,b,30. 239,a,24.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} 
 <div n="2"> a) Bein. der <is>Pīvarī</is>, einer Tochter der Manen <is>Barhiṣad</is>, 
-<ls>HARIV. 977. 1244.</ls> 
+<ls>HARIV. 977.</ls> <ls n="HARIV.">1244.</ls> 
 <div n="2">— b) Bez. einer <is>Śakti</is> 
 <ls>WEBER, RĀMAT. UP. 326.</ls> <ls>PAÑCAR. 3, 20, 30.</ls> 
 <div n="v">— Vgl. {#अप्सु°, अश्व°, इन्द्र°, कथा°#} (vgl. noch {#उवविष्टः सभामध्ये कथायोगेन#} 
@@ -281,7 +281,7 @@ u.s.w. <ls>4, 13. 6, 12. 7, 8. 15, 4. 25, 12.</ls> {%sechszehn Constellationen%}
 <ls>7, 65, 17</ls>), {#क्रम°#} ({#अनने क्रमयोगेन#} auch 
 <ls>MBH. 3, 8848</ls>), {#क्रिया°, क्षत्र°, चूर्ण°, ज्ञान°#} (auch 
 <ls>BHAG. 3, 3</ls>), {#दण्ड°, दुर्योग#} ({%Vergehen%} 
-<ls>UTTARAR. 109, 3</ls> <ls>?= 147, 14</ls> der neueren Ausg.), {#दैव° (°योगात्#} 
+<ls>UTTARAR. 109, 3</ls> = <ls>147, 14</ls> der neueren Ausg.), {#दैव° (°योगात्#} 
 <ls>Spr. 2366.</ls> {#°योगतस्#} 
 <ls>KATHĀS. 39, 5.</ls> 
 <ls>RĀJA-TAR. 6, 15.</ls> {#°योगेन#} 

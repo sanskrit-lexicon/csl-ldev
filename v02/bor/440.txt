@@ -1,16 +1,16 @@
 <L>440<pc>017<k1>against<k2>against
-<div n="lb"/>{@AGAINST:@}¦ <div n="I">I Abreast of, facing: </div><div n="1">(1) {#प्रति-,#}
-<div n="lb"/><div n="xe">{%a. the hostile army%}</div> <div n="xs">{#प्रत्यरिसैन्यं,#}</div> R. vii. 55.;
-<div n="lb"/><div n="xe">{%a. the wind%}</div> <div n="xs">{#प्रत्यनिलं,#}</div> Ku. iii. 31.; </div><div n="1">(2) Comp.
-<div n="lb"/>with {#अभि#} (rare), <div n="xe">{%a. the enemy%}</div> <div n="xs">{#अभ्यमित्रं,#}</div> Ki. xvi.
-<div n="lb"/>5.; </div><div n="1">(3) {#अभिमुखं#} (in comp. or with gen.)
-<div n="lb"/><div n="xe">{%should advance a. the enemy%}</div> <div n="xs">{#द्विषतोभिमुखं व्रजेत्#}</div> Ka.
-<div n="lb"/>xviii. 2. </div><div n="I">II In opposition to: Ph. ({%subjects%})
-<div n="lb"/><div n="xe">{%should not act a. their king%}</div> <div n="xs">{#राजन्यविरुद्धाभिर्वृत्तिभिर्व-#}
-<div n="lb"/>{#तिंतव्यम्#}</div> Mu. i.; {%I have never acted a. yours wishes%}
-<div n="lb"/>{#प्रतिकूलं न च ते मया कृतम्;#} Ku. ii. 7.; <div n="xe">{%if she, a.%}
-<div n="lb"/>{%her caste.....%}</div> <div n="xs">{#यदियमतिक्रम्य स्वकुलघर्मम्,#}</div> D. ii. </div><div n="I">III
-<div n="lb"/>In provision for: Ph. <div n="xe">{%a. misfortune%}</div> <div n="xs">{#आपदर्थे,#}</div>
-<div n="lb"/><ls>H.</ls> </div><div n="I">IV. Upon: q. v.; v. also the verbs to
-<div n="lb"/>which it is joined.</div>
+{@AGAINST:@}¦ <div n="I">I Abreast of, facing: </div><div n="1">(1) {#प्रति-,#}
+<div n="xe">{%a. the hostile army%}</div> <div n="xs">{#प्रत्यरिसैन्यं,#}</div> R. vii. 55.;
+<div n="xe">{%a. the wind%}</div> <div n="xs">{#प्रत्यनिलं,#}</div> Ku. iii. 31.; </div><div n="1">(2) Comp.
+with {#अभि#} (rare), <div n="xe">{%a. the enemy%}</div> <div n="xs">{#अभ्यमित्रं,#}</div> Ki. xvi.
+5.; </div><div n="1">(3) {#अभिमुखं#} (in comp. or with gen.)
+<div n="xe">{%should advance a. the enemy%}</div> <div n="xs">{#द्विषतोभिमुखं व्रजेत्#}</div> Ka.
+xviii. 2. </div><div n="I">II In opposition to: Ph. ({%subjects%})
+<div n="xe">{%should not act a. their king%}</div> <div n="xs">{#राजन्यविरुद्धाभिर्वृत्तिभिर्व-#}
+{#तिंतव्यम्#}</div> Mu. i.; {%I have never acted a. yours wishes%}
+{#प्रतिकूलं न च ते मया कृतम्;#} Ku. ii. 7.; <div n="xe">{%if she, a.%}
+{%her caste.....%}</div> <div n="xs">{#यदियमतिक्रम्य स्वकुलघर्मम्,#}</div> D. ii. </div><div n="I">III
+In provision for: Ph. <div n="xe">{%a. misfortune%}</div> <div n="xs">{#आपदर्थे,#}</div>
+<ls>H.</ls> </div><div n="I">IV. Upon: q. v.; v. also the verbs to
+which it is joined.</div>
 <LEND>

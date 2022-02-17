@@ -1,35 +1,35 @@
 <L>11700<pc>164-1<k1>पुण्य<k2>पुण्य
 {#पुण्य#}¦púṇ-ya, {%a.%} auspicious, propitious, lucky, 
-<>favourable; beautiful, agreeable; fragrant; 
-<>good, virtuous, righteous, meritorious; pure, 
-<>purifying, holy; {%n.%} the good, virtue; good 
-<>work; moral {%or%} religious merit: {@-kartṛ@}, {%m.%} 
-<>righteous man; {@-karman,@} {%n.%} virtuous action; 
-<>{%a.%} righteous, virtuous; {@-kṛt@}, {%a.%} righteous, 
-<>virtuous; {@-kṛt@}, {%a.%} acting piously, 
-<>virtuous; {@-gandha, -gandhi@}: {@-n,@} {%a.%} of pleasant <lbinfo n="4"/>
-<> smell, fragrant; {@-geha,@} {%n.%} abode of virtue; 
-<>{@-janá@}, {%m. pl.%} good people, {%designation of certain %}<lbinfo n="3"/>
-<>{% genit (V. E.) = the Yakṣas (C. P.)%}: {@-īś-@}
-<>{@-vara@}, {%m. ep.%} {%of%} Kubera; {@-jala@}, {%a.%} having 
-<>pure water; {@-tarī-kṛ@}, make purer {%or%} holier; 
-<>{@-tā,@} {%f.%} purity, holiness; {@-tīrtha,@} {%n.%} sacred 
-<>place of pilgrimage ({%esp. along the course of %}
-<>{%sacred streams%}); {%a.%} possessed of sacred bathing-places; <lbinfo n="4"/>
-<> {@-tva,@} {%n.%} purity, holiness; {@-darś-@}
-<>{@-ana@}, {%a.%} of handsome appearance, beautiful; 
-<>{@-pāpa,@} {%n. pl.%} good and bad deeds; {@-puṇya-@}
-<>{@-tā@}, {%f.%} supreme holiness; {%-prada,%} {%a.%} meritorious; <lbinfo n="8"/>
-<> {@-phala,@} {%n.%} fruit {%or%} reward of good works; 
-<>{@-bharita,@} {%pp.%} abounding in bliss; {@-bhāj@}, 
-<>{@-bhājin@}, {%a.%} happy, blessed; {@-yoga,@} {%m.%} consequence <lbinfo n="3"/>
-<> of virtuous actions ({%done in a former %}
-<>{%life%}); {@-vat,@} {%a.%} righteous, virtuous, meritorious; <lbinfo n="8"/>
-<> lucky, fortunate, happy: {%with ab.%} = 
-<>happier than; {@-varman,@} {%m. N.%} {%of a prince%}; 
-<>{@-śīla@}, {%a.%} righteous, virtuous; {@-śrīka@}, {%a.%} happy; 
-<>{@-śloka@}, {%a.%} of good repute; {%m. ep.%} {%of%} Nala, 
-<>Yudhṣṭhira, and Kṛṣṇa: {@-didṛkṣā@}, {%f.%} 
-<>desire to see Nala, {@-parāṅmukha,@} {%a.%} averse to 
-<>Nala; {@-sena,@} {%m. N.%}; {@-sthāna,@} {%n.%} sacred place.
+favourable; beautiful, agreeable; fragrant; 
+good, virtuous, righteous, meritorious; pure, 
+purifying, holy; {%n.%} the good, virtue; good 
+work; moral {%or%} religious merit: {@-kartṛ@}, {%m.%} 
+righteous man; {@-karman,@} {%n.%} virtuous action; 
+{%a.%} righteous, virtuous; {@-kṛt@}, {%a.%} righteous, 
+virtuous; {@-kṛt@}, {%a.%} acting piously, 
+virtuous; {@-gandha, -gandhi@}: {@-n,@} {%a.%} of pleasant <lbinfo n="4"/>
+ smell, fragrant; {@-geha,@} {%n.%} abode of virtue; 
+{@-janá@}, {%m. pl.%} good people, {%designation of certain %}<lbinfo n="3"/>
+{% genit (V. E.) = the Yakṣas (C. P.)%}: {@-īś-@}
+{@-vara@}, {%m. ep.%} {%of%} Kubera; {@-jala@}, {%a.%} having 
+pure water; {@-tarī-kṛ@}, make purer {%or%} holier; 
+{@-tā,@} {%f.%} purity, holiness; {@-tīrtha,@} {%n.%} sacred 
+place of pilgrimage ({%esp. along the course of %}
+{%sacred streams%}); {%a.%} possessed of sacred bathing-places; <lbinfo n="4"/>
+ {@-tva,@} {%n.%} purity, holiness; {@-darś-@}
+{@-ana@}, {%a.%} of handsome appearance, beautiful; 
+{@-pāpa,@} {%n. pl.%} good and bad deeds; {@-puṇya-@}
+{@-tā@}, {%f.%} supreme holiness; {%-prada,%} {%a.%} meritorious; <lbinfo n="8"/>
+ {@-phala,@} {%n.%} fruit {%or%} reward of good works; 
+{@-bharita,@} {%pp.%} abounding in bliss; {@-bhāj@}, 
+{@-bhājin@}, {%a.%} happy, blessed; {@-yoga,@} {%m.%} consequence <lbinfo n="3"/>
+ of virtuous actions ({%done in a former %}
+{%life%}); {@-vat,@} {%a.%} righteous, virtuous, meritorious; <lbinfo n="8"/>
+ lucky, fortunate, happy: {%with ab.%} = 
+happier than; {@-varman,@} {%m. N.%} {%of a prince%}; 
+{@-śīla@}, {%a.%} righteous, virtuous; {@-śrīka@}, {%a.%} happy; 
+{@-śloka@}, {%a.%} of good repute; {%m. ep.%} {%of%} Nala, 
+Yudhṣṭhira, and Kṛṣṇa: {@-didṛkṣā@}, {%f.%} 
+desire to see Nala, {@-parāṅmukha,@} {%a.%} averse to 
+Nala; {@-sena,@} {%m. N.%}; {@-sthāna,@} {%n.%} sacred place.
 <LEND>

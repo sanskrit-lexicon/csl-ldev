@@ -1,22 +1,22 @@
 <L>9464<pc>123-1<k1>दुष्परिग्रह<k2>दुष्परिग्रह
 {#दुष्परिग्रह#}¦duṣ-parigraha, {%a.%} hard to retain; <lbinfo n="2"/>
-<> {@-parihántu,@} {%a.%} hard to remove; {@-pari-@}
-<>{@-hara,@} {%a.%} hard to avoid; {@-pāra,@} {%a.%} hard to 
-<>cross; -- perform; {@-pārṣṇi-graha@}, {%a.%} having <lbinfo n="3"/>
-<> a bad enemy in the rear, {@-grāha,@} {%a. id.%}; 
-<>{@-pūra,@} {%a.%} hard to fill; -- satisfy; {@-prakṛti@}, 
-<>{%f.%} low nature; {%a.%} base; {@-prakriyā,@} {%f.%} trifling 
-<>dignity; {@-prajña@}, {%a.%} stupid: {@-tva,@} {%n.%} stupidity; <lbinfo n="3"/>
-<> {@-praṇīta@}, {%pp.%} led astray; {%n.%} indiscretion; <lbinfo n="5"/>
-<> {@-pradharṣa,@} {%a.%} hard to assail; 
-<>{@-prabhañjana@}, {%m.%} hurricane; {@-prayukta,@} 
-<>{%pp.%} badly {%or%} wrongly employed; {@-pravāda,@} 
-<>{%m.%} slander; {@-pravṛtti@}, {%f.%} bad news; {@-pra-@}
-<>{@-veśa@}, {%a.%} hard to enter; {@-prasaha,@} {%a.%} hard to 
-<>endure, irresistible; {@-prasāda,@} {%a.%} hard to appease: <lbinfo n="2"/>
-<> {@-na,@} {%a. id.%}; {@-prasādhana,@} {%a.%} hard to 
-<>manage ({%person%}); {@-prasādhya,@} {%fp. id.%}; {@-prā-@}
-<>{@-pa,@} {%a.%} hard to attain; {@-prekṣa,@} {%a.,%} {@-prekṣa-@}
-<>{@-ṇīya@}, {%fp.%} hard to see; unpleasant to look at; 
-<>{@-prekṣya,@} {%fp. id.%}.
+ {@-parihántu,@} {%a.%} hard to remove; {@-pari-@}
+{@-hara,@} {%a.%} hard to avoid; {@-pāra,@} {%a.%} hard to 
+cross; -- perform; {@-pārṣṇi-graha@}, {%a.%} having <lbinfo n="3"/>
+ a bad enemy in the rear, {@-grāha,@} {%a. id.%}; 
+{@-pūra,@} {%a.%} hard to fill; -- satisfy; {@-prakṛti@}, 
+{%f.%} low nature; {%a.%} base; {@-prakriyā,@} {%f.%} trifling 
+dignity; {@-prajña@}, {%a.%} stupid: {@-tva,@} {%n.%} stupidity; <lbinfo n="3"/>
+ {@-praṇīta@}, {%pp.%} led astray; {%n.%} indiscretion; <lbinfo n="5"/>
+ {@-pradharṣa,@} {%a.%} hard to assail; 
+{@-prabhañjana@}, {%m.%} hurricane; {@-prayukta,@} 
+{%pp.%} badly {%or%} wrongly employed; {@-pravāda,@} 
+{%m.%} slander; {@-pravṛtti@}, {%f.%} bad news; {@-pra-@}
+{@-veśa@}, {%a.%} hard to enter; {@-prasaha,@} {%a.%} hard to 
+endure, irresistible; {@-prasāda,@} {%a.%} hard to appease: <lbinfo n="2"/>
+ {@-na,@} {%a. id.%}; {@-prasādhana,@} {%a.%} hard to 
+manage ({%person%}); {@-prasādhya,@} {%fp. id.%}; {@-prā-@}
+{@-pa,@} {%a.%} hard to attain; {@-prekṣa,@} {%a.,%} {@-prekṣa-@}
+{@-ṇīya@}, {%fp.%} hard to see; unpleasant to look at; 
+{@-prekṣya,@} {%fp. id.%}.
 <LEND>

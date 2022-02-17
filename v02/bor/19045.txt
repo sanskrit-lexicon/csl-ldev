@@ -1,10 +1,10 @@
 <L>19045<pc>589<k1>represent<k2>represent
-<div n="lb"/>{@REPRESENT:@}¦ <div n="I">I To portray, delineate: q. v.:
-<div n="lb"/>{#वर्णयति#} ({#वर्ण्,#} c. 10.). </div><div n="I">II To describe:
-<div n="lb"/>q. v.: {#वर्णयति।#} </div><div n="I">III To inform: q. v.:
-<div n="lb"/>{#आ-वेदयति, नि-,#} (c. of {#विद्#}). </div><div n="I">IV To stand in
-<div n="lb"/>the place of: {#भूमौ तिष्ठति#} ({#स्था,#} c. 1.), {#वर्तते#}
-<div n="lb"/>({#वृत्,#} c. l.), etc. </div><div n="I">V To personate: {#भूमिकायां #}
-<div n="lb"/>{# तिष्ठति,#} etc., <div n="xe">{%Urvasī r. ing Lakṣmī:%}</div> <div n="xs">{#लक्ष्मीभूमिकायां #}
-<div n="lb"/>{# वर्तमानोर्वशी,#}</div> V. iii.</div>
+{@REPRESENT:@}¦ <div n="I">I To portray, delineate: q. v.:
+{#वर्णयति#} ({#वर्ण्,#} c. 10.). </div><div n="I">II To describe:
+q. v.: {#वर्णयति।#} </div><div n="I">III To inform: q. v.:
+{#आ-वेदयति, नि-,#} (c. of {#विद्#}). </div><div n="I">IV To stand in
+the place of: {#भूमौ तिष्ठति#} ({#स्था,#} c. 1.), {#वर्तते#}
+({#वृत्,#} c. l.), etc. </div><div n="I">V To personate: {#भूमिकायां #}
+{# तिष्ठति,#} etc., <div n="xe">{%Urvasī r. ing Lakṣmī:%}</div> <div n="xs">{#लक्ष्मीभूमिकायां #}
+{# वर्तमानोर्वशी,#}</div> V. iii.</div>
 <LEND>

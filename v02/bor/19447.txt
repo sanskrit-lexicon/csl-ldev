@@ -1,5 +1,5 @@
 <L>19447<pc>604<k1>room<k2>room
-<div n="lb"/>{@ROOM:@}¦ <div n="I">I Space: q. v.: {#अवसरः।#} </div><div n="I">II Place:
-<div n="lb"/>q. v.: {#भूमिः।#} </div><div n="I">III An apartment: {#कोष्ठः।#}
-<div n="lb"/>{%Top-r.:%} </div><div n="1">(1) {#चन्द्रशाला;#} </div><div n="1">(2) {#शिरोगृहम्।#}</div>
+{@ROOM:@}¦ <div n="I">I Space: q. v.: {#अवसरः।#} </div><div n="I">II Place:
+q. v.: {#भूमिः।#} </div><div n="I">III An apartment: {#कोष्ठः।#}
+{%Top-r.:%} </div><div n="1">(1) {#चन्द्रशाला;#} </div><div n="1">(2) {#शिरोगृहम्।#}</div>
 <LEND>

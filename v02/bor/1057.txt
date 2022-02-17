@@ -1,5 +1,5 @@
 <L>1057<pc>037<k1>argue<k2>argue
-<div n="lb"/>{@ARGUE@}¦ (v. i.): <div n="I">I To reason: {#तर्कयति, वि-,#}
-<div n="lb"/>({#तर्क्,#} c. 10) <div n="xe">{%or%}</div> <div n="xs">{#तर्कं करोति#}</div> </div><div n="I">II To infer: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#तर्कयति; ऊहते#} ({#ऊह्,#} c. 1).</div>
+{@ARGUE@}¦ (v. i.): <div n="I">I To reason: {#तर्कयति, वि-,#}
+({#तर्क्,#} c. 10) <div n="xe">{%or%}</div> <div n="xs">{#तर्कं करोति#}</div> </div><div n="I">II To infer: q. v.:</div>
+<div n="1">(1) {#तर्कयति; ऊहते#} ({#ऊह्,#} c. 1).</div>
 <LEND>

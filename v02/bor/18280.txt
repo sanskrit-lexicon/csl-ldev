@@ -1,8 +1,8 @@
 <L>18280<pc>561<k1>put off<k2>put off
-<div n="lb"/>{@PUT OFF:@}¦ <div n="I">I To postpone: {#व्याक्षिपति#} ({#क्षिप्,#}
-<div n="lb"/>c. 6.). </div><div n="I">II To take off, discard: q. v.:
-<div n="lb"/>{#उन्मुञ्चति#} ({#मुच्,#} c. 6.). </div><div n="I">III To deceive,
-<div n="lb"/>delude: q. v.: {#प्रतारयति#} (c. of {#तॄ#}). </div><div n="I">IV Of
-<div n="lb"/>boats: {#मुञ्चति,#} <div n="xe">{%the boat is p. o.:%}</div> <div n="xs">{#मुक्ता नौः#}</div>
-<div n="lb"/>D. vi.</div>
+{@PUT OFF:@}¦ <div n="I">I To postpone: {#व्याक्षिपति#} ({#क्षिप्,#}
+c. 6.). </div><div n="I">II To take off, discard: q. v.:
+{#उन्मुञ्चति#} ({#मुच्,#} c. 6.). </div><div n="I">III To deceive,
+delude: q. v.: {#प्रतारयति#} (c. of {#तॄ#}). </div><div n="I">IV Of
+boats: {#मुञ्चति,#} <div n="xe">{%the boat is p. o.:%}</div> <div n="xs">{#मुक्ता नौः#}</div>
+D. vi.</div>
 <LEND>

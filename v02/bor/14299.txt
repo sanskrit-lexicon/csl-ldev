@@ -1,6 +1,6 @@
 <L>14299<pc>439<k1>matter<k2>matter
-<div n="lb"/>{@MATTER@}¦ (v.): expr. with {#अर्थः,#} <div n="xe">{%it does not m.%}
-<div n="lb"/>{%to me....:%}</div> <div n="xs">{#अस्मिन् ममार्थो नास्ति;#}</div> <div n="xe">{%it does not m.%}
-<div n="lb"/>{%whether it is caught or not:%}</div> <div n="xs">{#गृहीतमिदं ततः किम्? #}
-<div n="lb"/>{# अथ न गृहीतं ततोऽपि किम्?,#}</div> K.
+{@MATTER@}¦ (v.): expr. with {#अर्थः,#} <div n="xe">{%it does not m.%}
+{%to me....:%}</div> <div n="xs">{#अस्मिन् ममार्थो नास्ति;#}</div> <div n="xe">{%it does not m.%}
+{%whether it is caught or not:%}</div> <div n="xs">{#गृहीतमिदं ततः किम्? #}
+{# अथ न गृहीतं ततोऽपि किम्?,#}</div> K.
 <LEND>

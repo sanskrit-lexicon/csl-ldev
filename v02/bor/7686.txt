@@ -1,11 +1,11 @@
 <L>7686<pc>243<k1>entitle<k2>entitle
-<div n="lb"/>{@ENTITLE@}¦ (v.): <div n="I">I To call, name: </div><div n="1">(1) {#अभिदधाति#}
-<div n="lb"/>({#धा,#} c. 3.); </div><div n="1">(2) {#उदाहरति#} ({#हृ,#} c. 1.) </div><div n="I">II To
-<div n="lb"/>give a claim to: expr. by {#अधिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#अर्हति#}</div>
-<div n="lb"/>({#अर्ह्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#-भाज्#}</div> (mfn.) in comp., <div n="xe">{%who%}
-<div n="lb"/>{%are not e. d to share:%}</div> <div n="xs">{#विभागानधिकारिणः,#}</div> Mit.;
-<div n="lb"/><div n="xe">{%how is the youngest e. d to the kingdom in pre-%}
-<div n="lb"/>{%ference to the eldest:%}</div> <div n="xs">{#कथं ज्येष्ठमतिक्रम्य कनीयान् #}
-<div n="lb"/>{# राज्यमर्हति,#}</div> Mat.; <div n="xe">{%in the absence of the former, the%}
-<div n="lb"/>{%latter is e. d to property:%}</div> <div n="xs">{#पूर्वस्याभावे धनभागुत्तरः,#}</div> Y.</div>
+{@ENTITLE@}¦ (v.): <div n="I">I To call, name: </div><div n="1">(1) {#अभिदधाति#}
+({#धा,#} c. 3.); </div><div n="1">(2) {#उदाहरति#} ({#हृ,#} c. 1.) </div><div n="I">II To
+give a claim to: expr. by {#अधिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#अर्हति#}</div>
+({#अर्ह्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#-भाज्#}</div> (mfn.) in comp., <div n="xe">{%who%}
+{%are not e. d to share:%}</div> <div n="xs">{#विभागानधिकारिणः,#}</div> Mit.;
+<div n="xe">{%how is the youngest e. d to the kingdom in pre-%}
+{%ference to the eldest:%}</div> <div n="xs">{#कथं ज्येष्ठमतिक्रम्य कनीयान् #}
+{# राज्यमर्हति,#}</div> Mat.; <div n="xe">{%in the absence of the former, the%}
+{%latter is e. d to property:%}</div> <div n="xs">{#पूर्वस्याभावे धनभागुत्तरः,#}</div> Y.</div>
 <LEND>

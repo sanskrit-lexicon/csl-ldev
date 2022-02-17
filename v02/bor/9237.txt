@@ -1,6 +1,6 @@
 <L>9237<pc>292<k1>forlorn<k2>forlorn
-<div n="lb"/>{@FORLORN:@}¦ <div n="I">I Deserted: {#त्यक्तः#} ({#क्ता, क्तं#}). </div><div n="I">II
-<div n="lb"/>Miserable, helpless: </div><div n="1">(1) {#दीनः#} ({#ना, नं#})
-<div n="lb"/>(= wretched); </div><div n="1">(1) {#हतः#} ({#ता, तं#}) (=done for),
-<div n="lb"/><div n="xe">{%in this f. life:%}</div> <div n="xs">{#हतजीवितेऽस्मिन्,#}</div> R.</div>
+{@FORLORN:@}¦ <div n="I">I Deserted: {#त्यक्तः#} ({#क्ता, क्तं#}). </div><div n="I">II
+Miserable, helpless: </div><div n="1">(1) {#दीनः#} ({#ना, नं#})
+(= wretched); </div><div n="1">(1) {#हतः#} ({#ता, तं#}) (=done for),
+<div n="xe">{%in this f. life:%}</div> <div n="xs">{#हतजीवितेऽस्मिन्,#}</div> R.</div>
 <LEND>

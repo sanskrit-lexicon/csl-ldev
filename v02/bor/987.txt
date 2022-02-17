@@ -1,15 +1,15 @@
 <L>987<pc>035<k1>approve<k2>approve
-<div n="lb"/>{@APPROVE:@}¦ <div n="I">I To be pleased with: </div><div n="1">(1) {#अनु-#}
-<div n="lb"/>{#मोदते#} ({#मुद्,#} c. 1) (gen. with the acc. of the
-<div n="lb"/>{%person%} whose measures etc. are a. d), {%none%}
-<div n="lb"/>{%of his brothers could oppose or a.%} (his determi-
-<div n="lb"/>-nation) {#न कश्चन भ्रातृषु तेषु शक्तो निषेद्धु मासीदनुमोदितुं #}
-<div n="lb"/>{# वा।#} R. xiv. 43; <div n="xe">{%without obtaining a. al of%}
-<div n="lb"/>{%my mother%}</div> <div n="xs">{#मात्राननुमोदिता;#}</div> K.; </div><div n="1">(2) {#रोचते, अभि-,#}
-<div n="lb"/>({#रुच्,#} c. 1) (with dat. of the person who a.
-<div n="lb"/>s), {%if you ask me,%} <div n="xe">{%I do not a. even of their%}
-<div n="lb"/>{%quarrel%}</div> <div n="xs">{#यदि मां पृच्छसि तदैतेषां विवाद एव न मे रोचते,#}</div>
-<div n="lb"/>Mal. i.; </div><div n="1">(3) {#अनु-मन्यते#} ({#मन्,#} c. 4) (rare in
-<div n="lb"/>this sense), <ls>D.</ls> iv.: </div><div n="I">II To prove: q. v.</div>
-<div n="lb"/><div n="I">III To commend: q. v.</div>
+{@APPROVE:@}¦ <div n="I">I To be pleased with: </div><div n="1">(1) {#अनु-#}
+{#मोदते#} ({#मुद्,#} c. 1) (gen. with the acc. of the
+{%person%} whose measures etc. are a. d), {%none%}
+{%of his brothers could oppose or a.%} (his determi-
+-nation) {#न कश्चन भ्रातृषु तेषु शक्तो निषेद्धु मासीदनुमोदितुं #}
+{# वा।#} R. xiv. 43; <div n="xe">{%without obtaining a. al of%}
+{%my mother%}</div> <div n="xs">{#मात्राननुमोदिता;#}</div> K.; </div><div n="1">(2) {#रोचते, अभि-,#}
+({#रुच्,#} c. 1) (with dat. of the person who a.
+s), {%if you ask me,%} <div n="xe">{%I do not a. even of their%}
+{%quarrel%}</div> <div n="xs">{#यदि मां पृच्छसि तदैतेषां विवाद एव न मे रोचते,#}</div>
+Mal. i.; </div><div n="1">(3) {#अनु-मन्यते#} ({#मन्,#} c. 4) (rare in
+this sense), <ls>D.</ls> iv.: </div><div n="I">II To prove: q. v.</div>
+<div n="I">III To commend: q. v.</div>
 <LEND>

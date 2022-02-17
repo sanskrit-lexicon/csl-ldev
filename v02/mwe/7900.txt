@@ -1,11 +1,11 @@
 <L>7900<pc>181-b<k1>difficulty<k2>difficulty
-<div n="lb"/>DIFFICULTY¦, {%s.%} (Hardness, that which is hard to effect) {#काठिन्यं,#}
-<div n="lb"/>{#कठिनता, दुःखं, कृच्छ्रं, कष्टं, आयासः, दुष्करत्वं, असौकर्य्यं, विषमं,#}
-<div n="lb"/>{#वैषम्यं, दुर्गं, शल्यं, संशयः;#} ‘difficulties,’ {#दुर्गाणि;#} ‘beset with
-<div n="lb"/>difficulties,’ {#सशल्यः -ल्या -ल्यं, सकण्टकः -का -कं;#} ‘overcoming
-<div n="lb"/>difficulties,’ {#दुर्गलङ्घनः -नी -नं;#} ‘cut with difficulty,’ {#दुःखछेद्यः#}
-<div n="lb"/>{#-द्या -द्यं#} or {#दुःखेन छेद्यः;#} ‘without difficulty,’ {#अनायासं -सेन;#}
-<div n="lb"/>‘obtained with difficulty,’ {#कृच्छ्राप्तः -प्ता -प्तं#}. — (Distress, oppo-
-<div n="lb"/>sition) {#क्लेशः, दुःखं, बाधः, विरोधः, प्रातिकूल्यं#}. — (Perplexity)
-<div n="lb"/>{#व्यग्रता, वैक्लव्यं, विप्लवः#}. — (Objection) {#बाधा, उद्ग्राहः#}.
+DIFFICULTY¦, {%s.%} (Hardness, that which is hard to effect) {#काठिन्यं,#}
+{#कठिनता, दुःखं, कृच्छ्रं, कष्टं, आयासः, दुष्करत्वं, असौकर्य्यं, विषमं,#}
+{#वैषम्यं, दुर्गं, शल्यं, संशयः;#} ‘difficulties,’ {#दुर्गाणि;#} ‘beset with
+difficulties,’ {#सशल्यः -ल्या -ल्यं, सकण्टकः -का -कं;#} ‘overcoming
+difficulties,’ {#दुर्गलङ्घनः -नी -नं;#} ‘cut with difficulty,’ {#दुःखछेद्यः#}
+{#-द्या -द्यं#} or {#दुःखेन छेद्यः;#} ‘without difficulty,’ {#अनायासं -सेन;#}
+‘obtained with difficulty,’ {#कृच्छ्राप्तः -प्ता -प्तं#}. — (Distress, oppo-
+sition) {#क्लेशः, दुःखं, बाधः, विरोधः, प्रातिकूल्यं#}. — (Perplexity)
+{#व्यग्रता, वैक्लव्यं, विप्लवः#}. — (Objection) {#बाधा, उद्ग्राहः#}.
 <LEND>

@@ -1,10 +1,10 @@
 <L>16095<pc>91,3<k1>अर्द्<k2>अर्द्<e>1
-<s>अर्द्</s> ¦ <ab>Ved.</ab> <ab>cl.</ab> 6. <ab>P.</ab> (Imper. 3. <ab>pl.</ab> <s>ऋदन्तु</s>; <ab>impf.</ab> 3. <ab>pl.</ab> <s>आ/र्दन्</s>) 
+<s>अर्द्</s> ¦ <ab>Ved.</ab> <ab>cl.</ab> 6. <ab>P.</ab> (<ab>Imper.</ab> 3. <ab>pl.</ab> <s>ऋदन्तु</s>; <ab>impf.</ab> 3. <ab>pl.</ab> <s>आ/र्दन्</s>) 
 <div n="to"/>to move, be moved, be scattered (as dust), <ls>RV. iv, 17, 2 and vii, 104, 24.</ls> <ab>cl.</ab> 1. <ab>P.</ab> <s>अर्दति</s> (<s>अ/र्दति</s>, ‘to go, move’ <ls>Naigh.</ls>) 
-<div n="to"/>to dissolve, <ls>AV. xii, 4, 3</ls>, (<ab>aor.</ab> <s>आर्दीत्</s>, <ls>Bhaṭṭ., <ab>perf.</ab></ls> <s>अनर्द</s>, <ls>Pāṇ. 7-4, 71</ls> <ab>Sch.</ab>) 
+<div n="to"/>to dissolve, <ls>AV. xii, 4, 3</ls>, (<ab>aor.</ab> <s>आर्दीत्</s>, <ls>Bhaṭṭ., <ab>perf.</ab></ls> <s>अनर्द</s>, <ls>Pāṇ. vii, 4, 71</ls> <ab>Sch.</ab>) 
 <div n="to"/>to torment, hurt, kill, <ls>L.</ls>;
 <div n="to"/>to ask, beg for (<ab>acc.</ab>), <ls>Ragh. v, 17.</ls> <ab>cl.</ab> 7. <s>ऋणत्ति</s>, to kill, <ls>Naigh.</ls> :
-<div n="vp"/><ab>Caus.</ab> <s>अर्दयति</s> (<ab>Subj.</ab> <s>अर्दयासि</s>, Imper. 2. <ab>sg.</ab> <s>अर्दय</s>, <ab>impf.</ab> <s>आ/दयत्</s>, 2. <ab>sg.</ab> <s>अर्द/यस्</s>; <ab>aor.</ab> <s>आर्दिदत्</s>, or [after <s>मा</s>] <s>अर्दयित्</s>, <ls>Pāṇ. 3-1, 51</ls>) 
+<div n="vp"/><ab>Caus.</ab> <s>अर्दयति</s> (<ab>Subj.</ab> <s>अर्दयासि</s>, <ab>Imper.</ab> 2. <ab>sg.</ab> <s>अर्दय</s>, <ab>impf.</ab> <s>आ/दयत्</s>, 2. <ab>sg.</ab> <s>अर्द/यस्</s>; <ab>aor.</ab> <s>आर्दिदत्</s>, or [after <s>मा</s>] <s>अर्दयित्</s>, <ls>Pāṇ. iii, 1, 51</ls>) 
 <div n="to"/>to make agitated, stir up, shake vehemently, <ls>AV. iv, 15, 6 & 11, vi, 49, 2</ls>, to do harm, torment, distress, <ls>MBh.</ls> &c. (generally used in <ab>perf.</ab> <ab>Pass.</ab> <ab>p.</ab> <s>अर्दित</s> <ab>q.v.</ab>), 
 <div n="to"/>to strike, hurt, kill, destroy, <ls>RV.</ls>; <ls>AV.</ls> &c. <ab>Desid.</ab> <s>अर्दिदिषति</s>; <info whitneyroots="fd,15"/><info verb="genuineroot" cp="6P,1P,7"/>
 <LEND>

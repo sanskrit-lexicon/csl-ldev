@@ -1,11 +1,11 @@
 <L>22839<pc>720<k1>tree<k2>tree
-<div n="lb"/>{@TREE:@}¦ <div n="1">(1) {#वृक्षः,#} <div n="xe">{%t.-planter:%}</div> <div n="xs">{#वृक्षरोपयिता,#}</div> He.;</div>
-<div n="lb"/><div n="1">(2) {#तरुः,#} <div n="xe">{%who wear bark of t. s:%}</div> <div n="xs">{#तरुवल्कवासस्#}</div>
-<div n="lb"/>(mfn.), R. viii. 11.; </div><div n="1">(2) {#द्रुमः,#} {%full of t. s:%}
-<div n="lb"/>{#द्रुमवत्#} (f. {#ती#}), R. ix. 26.; </div><div n="1">(4) {#पादपः,#} <div n="xe">{%a t.%}
-<div n="lb"/>{%with thick shade:%}</div> <div n="xs">{#घनच्छायः पादपः,#}</div> He.; </div><div n="1">(5)
-<div n="lb"/>{#वनस्पतिः#} (= large t.), <div n="xe">{%made of five t. s:%}</div> <div n="xs">{#पञ्च-#}
-<div n="lb"/>{#वनस्पतिरचितः,#}</div> V. m. 79. 39.; </div><div n="1">(6) {#महीरुहः;#}</div>
-<div n="lb"/><div n="1">(7) {#शाखिन्#} (m.); </div><div n="1">(8) {#दुः;#} </div><div n="1">(9) {#अनोकहः;#}</div>
-<div n="lb"/><div n="1">(10) {#वनराजिः।#}</div>
+{@TREE:@}¦ <div n="1">(1) {#वृक्षः,#} <div n="xe">{%t.-planter:%}</div> <div n="xs">{#वृक्षरोपयिता,#}</div> He.;</div>
+<div n="1">(2) {#तरुः,#} <div n="xe">{%who wear bark of t. s:%}</div> <div n="xs">{#तरुवल्कवासस्#}</div>
+(mfn.), R. viii. 11.; </div><div n="1">(2) {#द्रुमः,#} {%full of t. s:%}
+{#द्रुमवत्#} (f. {#ती#}), R. ix. 26.; </div><div n="1">(4) {#पादपः,#} <div n="xe">{%a t.%}
+{%with thick shade:%}</div> <div n="xs">{#घनच्छायः पादपः,#}</div> He.; </div><div n="1">(5)
+{#वनस्पतिः#} (= large t.), <div n="xe">{%made of five t. s:%}</div> <div n="xs">{#पञ्च-#}
+{#वनस्पतिरचितः,#}</div> V. m. 79. 39.; </div><div n="1">(6) {#महीरुहः;#}</div>
+<div n="1">(7) {#शाखिन्#} (m.); </div><div n="1">(8) {#दुः;#} </div><div n="1">(9) {#अनोकहः;#}</div>
+<div n="1">(10) {#वनराजिः।#}</div>
 <LEND>

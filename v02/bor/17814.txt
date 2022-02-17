@@ -1,10 +1,10 @@
 <L>17814<pc>545<k1>prize<k2>prize
-<div n="lb"/>{@PRIZE@}¦ (subs.): <div n="I">I Of honour: </div><div n="1">(1) {#पारितोषिकम्#}
-<div n="lb"/>(= reward); </div><div n="1">(2) better by circumlo., <div n="xe">{%if a p.%}
-<div n="lb"/>{%is offered and won:%}</div> <div n="xs">{#यदि भवान् भद्रकमुपन्यस्यति तदा #}
-<div n="lb"/>{# भवते मयैतावद्देयमिति पणितं तत्रोपन्यासं निस्तीर्य लभते;#}</div>
-<div n="lb"/><div n="xe">{%so a p. won in a literary contest:%}</div> <div n="xs">{#तथा शास्त्रविज्ञान-#}
-<div n="lb"/>{#विवादे निर्जित्य पल्लब्धम्,#}</div> Da. 93. </div><div n="I">II Booty:
-<div n="lb"/>expr. with: {#युद्धे प्राप्त#} (f. {#प्ता#}), N. <div n="xe">{%s. or%}</div> <div n="xs">{#-गृहीत#}</div>
-<div n="lb"/>(f. {#ता#}).</div>
+{@PRIZE@}¦ (subs.): <div n="I">I Of honour: </div><div n="1">(1) {#पारितोषिकम्#}
+(= reward); </div><div n="1">(2) better by circumlo., <div n="xe">{%if a p.%}
+{%is offered and won:%}</div> <div n="xs">{#यदि भवान् भद्रकमुपन्यस्यति तदा #}
+{# भवते मयैतावद्देयमिति पणितं तत्रोपन्यासं निस्तीर्य लभते;#}</div>
+<div n="xe">{%so a p. won in a literary contest:%}</div> <div n="xs">{#तथा शास्त्रविज्ञान-#}
+{#विवादे निर्जित्य पल्लब्धम्,#}</div> Da. 93. </div><div n="I">II Booty:
+expr. with: {#युद्धे प्राप्त#} (f. {#प्ता#}), N. <div n="xe">{%s. or%}</div> <div n="xs">{#-गृहीत#}</div>
+(f. {#ता#}).</div>
 <LEND>

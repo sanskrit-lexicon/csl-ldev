@@ -1,7 +1,7 @@
 <L>13432<pc>413<k1>lengthen<k2>lengthen
-<div n="lb"/>{@LENGTHEN:@}¦ <div n="I">I Trans: {#दीर्घीकरोति,#} <div n="xe">{%l. ing the body%}
-<div n="lb"/>{%with speed:%}</div> <div n="xs">{#वेगदीर्घीकृताङ्गः,#}</div> Ku. iii. 76.; <div n="xe">{%l. ing%}
-<div n="lb"/>{%the cry of geese:%}</div> <div n="xs">{#दीर्घीकुर्वन् कूजितं सारसानाम्,#}</div> Me.
-<div n="lb"/>i. 32.: v. Also tend, prolong. </div><div n="I">II Intrans:
-<div n="lb"/>{#दीर्घीमवति।#}</div>
+{@LENGTHEN:@}¦ <div n="I">I Trans: {#दीर्घीकरोति,#} <div n="xe">{%l. ing the body%}
+{%with speed:%}</div> <div n="xs">{#वेगदीर्घीकृताङ्गः,#}</div> Ku. iii. 76.; <div n="xe">{%l. ing%}
+{%the cry of geese:%}</div> <div n="xs">{#दीर्घीकुर्वन् कूजितं सारसानाम्,#}</div> Me.
+i. 32.: v. Also tend, prolong. </div><div n="I">II Intrans:
+{#दीर्घीमवति।#}</div>
 <LEND>

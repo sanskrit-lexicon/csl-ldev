@@ -1,5 +1,5 @@
 <L>4446<pc>144<k1>conjugation<k2>conjugation
-<div n="lb"/>{@CONJUGATION:@}¦ <div n="I">I The act: {#धातुरूपाख्यानम्।#} </div><div n="I">II
-<div n="lb"/>A class of verbs: {#गणः।#} </div><div n="I">III A scheme:
-<div n="lb"/>{#धातुरूपादर्शः।#}</div>
+{@CONJUGATION:@}¦ <div n="I">I The act: {#धातुरूपाख्यानम्।#} </div><div n="I">II
+A class of verbs: {#गणः।#} </div><div n="I">III A scheme:
+{#धातुरूपादर्शः।#}</div>
 <LEND>

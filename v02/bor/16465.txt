@@ -1,8 +1,8 @@
 <L>16465<pc>505<k1>partial<k2>partial
-<div n="lb"/>{@PARTIAL:@}¦ <div n="I">I Not total: </div><div n="1">(1) {#आंशिक#} (f. {#की#}),
-<div n="lb"/><div n="xe">{%p. eclipse:%}</div> <div n="xs">{#आंशिकग्रासः,#}</div> Su. comp.; </div><div n="1">(2) {#क्वचित् #}
-<div n="lb"/>{# क्वचित्#} (= in some places, as of p. rain). </div><div n="I">II
-<div n="lb"/>Biased: {#पक्षपातिन्#} (f. {#नी#}), <div n="xe">{%even gods are p.%}
-<div n="lb"/>{%to the Pāṇḍavas:%}</div> <div n="xs">{#पक्षपातिनो देवाऽपि पाण्डवानाम्,#}</div>
-<div n="lb"/>Va.: v. Also unfair, unjust.</div>
+{@PARTIAL:@}¦ <div n="I">I Not total: </div><div n="1">(1) {#आंशिक#} (f. {#की#}),
+<div n="xe">{%p. eclipse:%}</div> <div n="xs">{#आंशिकग्रासः,#}</div> Su. comp.; </div><div n="1">(2) {#क्वचित् #}
+{# क्वचित्#} (= in some places, as of p. rain). </div><div n="I">II
+Biased: {#पक्षपातिन्#} (f. {#नी#}), <div n="xe">{%even gods are p.%}
+{%to the Pāṇḍavas:%}</div> <div n="xs">{#पक्षपातिनो देवाऽपि पाण्डवानाम्,#}</div>
+Va.: v. Also unfair, unjust.</div>
 <LEND>

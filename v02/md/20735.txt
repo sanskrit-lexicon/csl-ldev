@@ -1,23 +1,23 @@
 <L>20735<pc>383-3<k1>प्रगम<k2>प्रगम
 {#प्रगम#}¦pra-gama, {%m.%} {%first%} advance {%of love in %}
-<>{%courtship%}; {@-gardhin,@} {%a.%} hastening onwards 
-<>({%RV.%}); {@-galbha,@} ¤1.¤ {%den.%} Ā. be courageous {%or%} 
-<>resolute; be capable of ({%lc.%}), be able to ({%inf.%}); 
-<>¤2.¤ {%a.%} bold, intrepid, resolute, confident; mature <lbinfo n="2"/>
-<> ({%age%}): {@-kulāla,@} {%m.%} dexterous potter, 
-<>{@-tā,@} {%f.%} boldness, confidence; {@-gāthá,@} {%m. kind %}
-<>{%of%} stanza ({%combination of a Bṛhatī or Kakubh %}<lbinfo n="2"/>
-<>{% with a Satobṛhatī so as to form three %}
-<>{%verses%}); {%N. of a Ṛṣi%}; {@-guṇa@}, {%a.%} right, correct <lbinfo n="3"/>
-<> ({%road%}); being in good order, efficient; 
-<>excellent; {@-guṇaya@}, {%den.%} P. put in order; 
-<>manifest, show: {%pp.%} {@ita,@} put in order, properly <lbinfo n="3"/>
-<> arranged; {@-guṇa-racanā@}, {%f.%} putting in 
-<>proper order; {@-guṇin@}, {%a.%} kind towards ({%lc.%}); 
-<>{@-guṇī-kṛ@}, put into proper order, arrange; 
-<>render amenable to ({%lc.%}); {@-gṛhīta-pada@}, {%a.%} 
-<>having the words pronounced separately ({%i. e. %}
-<>{%without Sandhi%}); {@-gṛhya@}, {%fp.%} (to be) pronounced <lbinfo n="3"/>
-<> separately, not liable to {%the rules of%} 
-<>Sandhi ({%vowel%}).
+{%courtship%}; {@-gardhin,@} {%a.%} hastening onwards 
+({%RV.%}); {@-galbha,@} ¤1.¤ {%den.%} Ā. be courageous {%or%} 
+resolute; be capable of ({%lc.%}), be able to ({%inf.%}); 
+¤2.¤ {%a.%} bold, intrepid, resolute, confident; mature <lbinfo n="2"/>
+ ({%age%}): {@-kulāla,@} {%m.%} dexterous potter, 
+{@-tā,@} {%f.%} boldness, confidence; {@-gāthá,@} {%m. kind %}
+{%of%} stanza ({%combination of a Bṛhatī or Kakubh %}<lbinfo n="2"/>
+{% with a Satobṛhatī so as to form three %}
+{%verses%}); {%N. of a Ṛṣi%}; {@-guṇa@}, {%a.%} right, correct <lbinfo n="3"/>
+ ({%road%}); being in good order, efficient; 
+excellent; {@-guṇaya@}, {%den.%} P. put in order; 
+manifest, show: {%pp.%} {@ita,@} put in order, properly <lbinfo n="3"/>
+ arranged; {@-guṇa-racanā@}, {%f.%} putting in 
+proper order; {@-guṇin@}, {%a.%} kind towards ({%lc.%}); 
+{@-guṇī-kṛ@}, put into proper order, arrange; 
+render amenable to ({%lc.%}); {@-gṛhīta-pada@}, {%a.%} 
+having the words pronounced separately ({%i. e. %}
+{%without Sandhi%}); {@-gṛhya@}, {%fp.%} (to be) pronounced <lbinfo n="3"/>
+ separately, not liable to {%the rules of%} 
+Sandhi ({%vowel%}).
 <LEND>

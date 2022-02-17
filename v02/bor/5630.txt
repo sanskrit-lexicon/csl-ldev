@@ -1,19 +1,19 @@
 <L>5630<pc>180<k1>deep<k2>deep
-<div n="lb"/>{@DEEP@}¦ (adj.): <div n="I">I Lit.: </div><div n="1">(1) {#गभीरः#} <div n="xe">{%or%}</div> <div n="xs">{#गम्भीरः#}</div> ({#रा, #}
-<div n="lb"/>{# रं#}); {#अगाधः#} ({#धा, धं#}) (=very d., bottomless):
-<div n="lb"/>Ph.: <div n="xe">{%thigh-d.:%}</div> <div n="xs">{#उरुदघ्नः#}</div> ({#घ्ना घ्नं#}), K.; <div n="xe">{%in thumb-d.%}
-<div n="lb"/>{%water:%}</div> <div n="xs">{#अङ्गुष्ठोदकमात्रेण,#}</div> <ls>J.</ls> </div><div n="I">II, Of sounds: </div><div n="1">(1)
-<div n="lb"/>{#गभीरः#} <div n="xe">{%or%}</div> <div n="xs">{#गम्भीरः#}</div> ({#रा, रं#}); </div><div n="1">(2) {#मन्द्रः#} (f. {#न्द्रा#});
-<div n="lb"/>v. Grave. </div><div n="I">III Of colours: </div><div n="1">(1) {#घन,#} in comp.,
-<div n="lb"/><div n="xe">{%d. red:%}</div> <div n="xs">{#घनारुण#}</div> (f. {#णा#}); </div><div n="1">(2) {#नितान्त-#} in comp.:
-<div n="lb"/>v. Exceedingly. </div><div n="I">IV In various senses: <div n="xe">{%d.%}
-<div n="lb"/>{%sense:%}</div> <div n="xs">{#गभीरार्थः,#}</div> Ki.; <div n="xe">{%in a very d. king:%}</div> <div n="xs">{#अतिगम्भीरे #}
-<div n="lb"/>{# भूपे,#}</div> <ls>C.</ls> ; <div n="xe">{%very d. wounds:%}</div> <div n="xs">{#दूरावगाढा व्रणाः,#}</div> Sr.; <div n="xe">{%in%}
-<div n="lb"/>{%a d. mind:%}</div> <div n="xs">{#अवगाढे हृदि,#}</div> <ls>N.</ls> ; <div n="xe">{%d. sleep:%}</div> <div n="xs">{#गाढनिद्रा#}</div> {%or%}
-<div n="lb"/>{#घोरनिद्रा,#} <ls>K.</ls> ; <div n="xe">{%d. sigh:%}</div> <div n="xs">{#दीर्घनिश्वासः;#}</div> {%very d. anger:%}
-<div n="lb"/>{#गम्भीरतरः कोपः,#} Pri.; <div n="xe">{%with d. passion:%}</div> <div n="xs">{#विगाढभावेन,#}</div>
-<div n="lb"/>B. p.; <div n="xe">{%soldiers nine files d.:%}</div> <div n="xs">{#नवपंक्तयो योधाः#}</div> (?);
-<div n="lb"/><div n="xe">{%d.-rooted:%}</div> <div n="xs">{#स्थिरबद्धमूलः#}</div> ({#ला, लं#}), B.; {%d. darkness:%}
-<div n="lb"/>{#घोरान्धकारः,#} Vet.; <div n="xe">{%d. distress:%}</div> <div n="xs">{#घोरदुःखम्:#}</div> v.
-<div n="lb"/>Cunning, artful: q. v.</div>
+{@DEEP@}¦ (adj.): <div n="I">I Lit.: </div><div n="1">(1) {#गभीरः#} <div n="xe">{%or%}</div> <div n="xs">{#गम्भीरः#}</div> ({#रा, #}
+{# रं#}); {#अगाधः#} ({#धा, धं#}) (=very d., bottomless):
+Ph.: <div n="xe">{%thigh-d.:%}</div> <div n="xs">{#उरुदघ्नः#}</div> ({#घ्ना घ्नं#}), K.; <div n="xe">{%in thumb-d.%}
+{%water:%}</div> <div n="xs">{#अङ्गुष्ठोदकमात्रेण,#}</div> <ls>J.</ls> </div><div n="I">II, Of sounds: </div><div n="1">(1)
+{#गभीरः#} <div n="xe">{%or%}</div> <div n="xs">{#गम्भीरः#}</div> ({#रा, रं#}); </div><div n="1">(2) {#मन्द्रः#} (f. {#न्द्रा#});
+v. Grave. </div><div n="I">III Of colours: </div><div n="1">(1) {#घन,#} in comp.,
+<div n="xe">{%d. red:%}</div> <div n="xs">{#घनारुण#}</div> (f. {#णा#}); </div><div n="1">(2) {#नितान्त-#} in comp.:
+v. Exceedingly. </div><div n="I">IV In various senses: <div n="xe">{%d.%}
+{%sense:%}</div> <div n="xs">{#गभीरार्थः,#}</div> Ki.; <div n="xe">{%in a very d. king:%}</div> <div n="xs">{#अतिगम्भीरे #}
+{# भूपे,#}</div> <ls>C.</ls> ; <div n="xe">{%very d. wounds:%}</div> <div n="xs">{#दूरावगाढा व्रणाः,#}</div> Sr.; <div n="xe">{%in%}
+{%a d. mind:%}</div> <div n="xs">{#अवगाढे हृदि,#}</div> <ls>N.</ls> ; <div n="xe">{%d. sleep:%}</div> <div n="xs">{#गाढनिद्रा#}</div> {%or%}
+{#घोरनिद्रा,#} <ls>K.</ls> ; <div n="xe">{%d. sigh:%}</div> <div n="xs">{#दीर्घनिश्वासः;#}</div> {%very d. anger:%}
+{#गम्भीरतरः कोपः,#} Pri.; <div n="xe">{%with d. passion:%}</div> <div n="xs">{#विगाढभावेन,#}</div>
+B. p.; <div n="xe">{%soldiers nine files d.:%}</div> <div n="xs">{#नवपंक्तयो योधाः#}</div> (?);
+<div n="xe">{%d.-rooted:%}</div> <div n="xs">{#स्थिरबद्धमूलः#}</div> ({#ला, लं#}), B.; {%d. darkness:%}
+{#घोरान्धकारः,#} Vet.; <div n="xe">{%d. distress:%}</div> <div n="xs">{#घोरदुःखम्:#}</div> v.
+Cunning, artful: q. v.</div>
 <LEND>

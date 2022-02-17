@@ -1,5 +1,5 @@
 <L>1656<pc>057<k1>barrow<k2>barrow
-<div n="lb"/>{@BARROW:@}¦ <div n="I">I A vehicle: {#हस्तचालितयानविशेषः।#}</div>
-<div n="lb"/><div n="I">II A castrated hog: {#उत्पाटितवृषणः शूकरः#} (?).</div>
-<div n="lb"/><div n="I">III A mound or hillock: q. v.</div>
+{@BARROW:@}¦ <div n="I">I A vehicle: {#हस्तचालितयानविशेषः।#}</div>
+<div n="I">II A castrated hog: {#उत्पाटितवृषणः शूकरः#} (?).</div>
+<div n="I">III A mound or hillock: q. v.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>12198<pc>380<k1>informer<k2>informer
-<div n="lb"/>{@INFORMER:@}¦ {#आवेदकः,#} Mit. <div n="xe">{%Common i.:%}</div> <div n="xs">{#सूचकः;#}</div>
-<div n="lb"/><div n="xe">{%professional i.:%}</div> <div n="xs">{#स्तोमकः,#}</div> Kat.
+{@INFORMER:@}¦ {#आवेदकः,#} Mit. <div n="xe">{%Common i.:%}</div> <div n="xs">{#सूचकः;#}</div>
+<div n="xe">{%professional i.:%}</div> <div n="xs">{#स्तोमकः,#}</div> Kat.
 <LEND>

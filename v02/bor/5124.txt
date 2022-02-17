@@ -1,9 +1,9 @@
 <L>5124<pc>165<k1>cross<k2>cross
-<div n="lb"/>{@CROSS@}¦ (adj.): <div n="I">I Transverse: </div><div n="1">(1) {#व्यत्यस्तः#} ({#स्ता, #}
-<div n="lb"/>{# स्तं#}); </div><div n="1">(2) {#तिरश्चीनः#} ({#ना, नं#}) (=sideways).</div>
-<div n="lb"/><div n="I">II Adverse, contrary: q. v.: {#प्रतीपः#} ({#पा, पं#}).
-<div n="lb"/>Ph.: <div n="xe">{%oh! how c. is fate:%}</div> <div n="xs">{#अहो वामता भागधेयानाम्।#}</div>
-<div n="lb"/>Vi. </div><div n="I">III Ill-tempered, peevish: q. v. {#प्रतीपः#}
-<div n="lb"/>({#पा, पं#}), <div n="xe">{%don't get c. with your husband:%}</div> <div n="xs">{#भर्तुः #}
-<div n="lb"/>{# प्रतीपं मास्म गमः,#}</div> Sa. <div n="xe">{%A c. charge:%}</div> <div n="xs">{#प्रत्यभि-योगः,#}</div> Y.</div>
+{@CROSS@}¦ (adj.): <div n="I">I Transverse: </div><div n="1">(1) {#व्यत्यस्तः#} ({#स्ता, #}
+{# स्तं#}); </div><div n="1">(2) {#तिरश्चीनः#} ({#ना, नं#}) (=sideways).</div>
+<div n="I">II Adverse, contrary: q. v.: {#प्रतीपः#} ({#पा, पं#}).
+Ph.: <div n="xe">{%oh! how c. is fate:%}</div> <div n="xs">{#अहो वामता भागधेयानाम्।#}</div>
+Vi. </div><div n="I">III Ill-tempered, peevish: q. v. {#प्रतीपः#}
+({#पा, पं#}), <div n="xe">{%don't get c. with your husband:%}</div> <div n="xs">{#भर्तुः #}
+{# प्रतीपं मास्म गमः,#}</div> Sa. <div n="xe">{%A c. charge:%}</div> <div n="xs">{#प्रत्यभि-योगः,#}</div> Y.</div>
 <LEND>

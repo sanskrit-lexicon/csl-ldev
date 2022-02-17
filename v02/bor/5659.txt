@@ -1,5 +1,5 @@
 <L>5659<pc>181<k1>defender<k2>defender
-<div n="lb"/>{@DEFENDER:@}¦ <div n="1">(1) {#रक्षकः;#} </div><div n="1">(2) {#गोप्त्ट#} (m.), <div n="xe">{%d. of the%}
-<div n="lb"/>{%faith:%}</div> <div n="xs">{#धर्मस्य गोप्ता,#}</div> Vi. v.: v. Protector,
-<div n="lb"/>guardian.</div>
+{@DEFENDER:@}¦ <div n="1">(1) {#रक्षकः;#} </div><div n="1">(2) {#गोप्त्ट#} (m.), <div n="xe">{%d. of the%}
+{%faith:%}</div> <div n="xs">{#धर्मस्य गोप्ता,#}</div> Vi. v.: v. Protector,
+guardian.</div>
 <LEND>

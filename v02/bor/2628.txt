@@ -1,6 +1,6 @@
 <L>2628<pc>090<k1>bring up<k2>bring up
-<div n="lb"/>{@BRING UP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#आनयति;#} </div><div n="1">(2) {#उपानयति;#}</div>
-<div n="lb"/><div n="1">(3) {#आहरति।#} </div><div n="I">II To train up, rear: q. v.:
-<div n="lb"/>{#वर्धयति#} (c. of {#वृध्#}), ({%the child%}) <div n="xe">{%was brought up%}
-<div n="lb"/>{%by Vinayavati%}</div> <div n="xs">{#अवर्धत विनयवत्या,#}</div> D. iv.</div>
+{@BRING UP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#आनयति;#} </div><div n="1">(2) {#उपानयति;#}</div>
+<div n="1">(3) {#आहरति।#} </div><div n="I">II To train up, rear: q. v.:
+{#वर्धयति#} (c. of {#वृध्#}), ({%the child%}) <div n="xe">{%was brought up%}
+{%by Vinayavati%}</div> <div n="xs">{#अवर्धत विनयवत्या,#}</div> D. iv.</div>
 <LEND>

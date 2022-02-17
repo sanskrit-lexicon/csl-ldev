@@ -1,6 +1,6 @@
 <L>23063<pc>726<k1>ugly<k2>ugly
-<div n="lb"/>{@UGLY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#कदाकार#} (f. {#रा#}); </div><div n="1">(2)
-<div n="lb"/>{#कुरूप#} (f. {#पा#}); </div><div n="1">(3) {#विरूप#} (f. {#पा#}): v.
-<div n="lb"/>Deformed. </div><div n="I">II Bad: q. v.: {#कुत्सित#} (f. {#ता#});
-<div n="lb"/><div n="xe">{%u. wound:%}</div> <div n="xs">{#कुत्सितं व्रणम्,#}</div> (comp. Bengali).</div>
+{@UGLY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#कदाकार#} (f. {#रा#}); </div><div n="1">(2)
+{#कुरूप#} (f. {#पा#}); </div><div n="1">(3) {#विरूप#} (f. {#पा#}): v.
+Deformed. </div><div n="I">II Bad: q. v.: {#कुत्सित#} (f. {#ता#});
+<div n="xe">{%u. wound:%}</div> <div n="xs">{#कुत्सितं व्रणम्,#}</div> (comp. Bengali).</div>
 <LEND>

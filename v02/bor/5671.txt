@@ -1,4 +1,4 @@
 <L>5671<pc>182<k1>deficit<k2>deficit
-<div n="lb"/>{@DEFICIT:@}¦ <div n="xe">{%there will be a d. in revenue:%}</div> <div n="xs">{#राजस्वं #}
-<div n="lb"/>{# न्यूनं भवति:#}</div> v. Wanting.
+{@DEFICIT:@}¦ <div n="xe">{%there will be a d. in revenue:%}</div> <div n="xs">{#राजस्वं #}
+{# न्यूनं भवति:#}</div> v. Wanting.
 <LEND>

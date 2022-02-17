@@ -1,4 +1,4 @@
 <L>3168<pc>106<k1>cashier<k2>cashier
-<div n="lb"/>{@CASHIER@}¦ (v.): <div n="I">I To dismiss: q. v. </div><div n="I">II To
-<div n="lb"/>reject: q. v.</div>
+{@CASHIER@}¦ (v.): <div n="I">I To dismiss: q. v. </div><div n="I">II To
+reject: q. v.</div>
 <LEND>

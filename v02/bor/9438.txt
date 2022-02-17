@@ -1,6 +1,6 @@
 <L>9438<pc>299<k1>frightful<k2>frightful
-<div n="lb"/>{@FRIGHTFUL:@}¦ <div n="1">(1) {#भैरवः#} ({#वी, वं#}); </div><div n="1">(2) {#भीषण#} (f.
-<div n="lb"/>{#णा#}); </div><div n="1">(3) {#भीमः#} ({#मा, मं#}); </div><div n="1">(4) {#करालः#} ({#ला, लं#});</div>
-<div n="lb"/><div n="1">(5) {#विकटः#} ({#टा, टं#}): v. Also dreadful, fear-
-<div n="lb"/>-ful.</div>
+{@FRIGHTFUL:@}¦ <div n="1">(1) {#भैरवः#} ({#वी, वं#}); </div><div n="1">(2) {#भीषण#} (f.
+{#णा#}); </div><div n="1">(3) {#भीमः#} ({#मा, मं#}); </div><div n="1">(4) {#करालः#} ({#ला, लं#});</div>
+<div n="1">(5) {#विकटः#} ({#टा, टं#}): v. Also dreadful, fear-
+-ful.</div>
 <LEND>

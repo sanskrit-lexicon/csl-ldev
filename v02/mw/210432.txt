@@ -1,7 +1,7 @@
 <L>210432<pc>1041,3<k1>व्रज्<k2>व्रज्<e>1
 <s>व्रज्</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> (<ls>Dhātup. viii, 79</ls>) <s>व्र/जति</s> (<ab>mc.</ab> also <s>°ते</s>; <ab>pf.</ab> <s>वव्रा/ज</s>, <ls>RV.</ls> &c. &c.; <ab>aor.</ab> <s>अव्राजीत्</s>, <ls>Br.</ls>; <ls>Up.</ls>; <ab>fut.</ab> <s>व्रजिता</s> <ab>Gr.</ab>; <s>व्रजिष्यति</s>, <ls>Br.</ls> &c.; <ab>inf.</ab> <s>व्रजितुम्</s>, <ls>MBh.</ls>; <ab>ind.p.</ab> <s>व्रजित्वा</s>, <s>-व्र/ज्य</s>, <s>-व्राजम्</s>, <ls>Br.</ls> &c.), 
 <div n="to"/>to go, walk, proceed, travel, wander, move (also applied to inanimate objects; with <ab>acc.</ab> or <ab>instr.</ab> of the road <ab>acc.</ab> of the distance, and <ab>acc.</ab>, rarely <ab>loc.</ab> or <ab>dat.</ab>, of the place or object gone to; with or <ab>scil.</ab> <s>पद्भ्याम्</s>, ‘to go on foot’; with <s>उपानद्भ्याम्</s> <ab>id.</ab> <ab>lit.</ab> ‘with shoes’; with <s>धुर्यैस्</s>, ‘to travel by means of beasts of burden’; with <s>परमांगतिम्</s>, ‘to attain supreme bliss’; with <s>शरणम्</s> and <ab>acc.</ab>, ‘to take refuge with’; with <s>मूर्ध्ना पादौ</s> and <ab>gen.</ab>, ‘to prostrate one's self at anyone's feet’; with <s>अन्तम्</s> and <ab>gen.</ab>, ‘to come to the end of’; with <s>अन्येन</s>, <s>अन्यत्र</s> or <s>अन्यतस्</s>, ‘to go another way or elsewhere’; with <s>अधस्</s>, either ‘to sink down [to hell]’ or ‘to be digested [as food]’; with <s>पुनर्</s>, ‘to return to life’), <ls>RV.</ls> &c. &c.;
-<div n="to"/>to go in order to, be going to (<ab>dat.</ab> <ab>inf.</ab> or an <ab>adj.</ab> ending in <s>अक</s> [<ab>e.g.</ab> <s>भोजको व्रजति</s>, ‘he is going to eat’]), <ls>Pāṇ. 2-3, 15; 3-3, 10</ls> &c.;
+<div n="to"/>to go in order to, be going to (<ab>dat.</ab> <ab>inf.</ab> or an <ab>adj.</ab> ending in <s>अक</s> [<ab>e.g.</ab> <s>भोजको व्रजति</s>, ‘he is going to eat’]), <ls>Pāṇ. ii, 3, 15</ls>; <ls n="Pāṇ.">iii, 3, 10</ls> &c.;
 <div n="to"/>to go to (a woman), have sexual intercourse with (<ab>acc.</ab>), <ls>Mn.</ls>; <ls>Suśr.</ls>;
 <div n="to"/>to go against, attack (an enemy; also with <s>विद्विषम्</s>, <s>द्विषतोऽभिमुखम्</s>, <s>अभ्य्-अरि</s> &c.), <ls>Mn.</ls>; <ls>Yājñ.</ls>; <ls>Kām.</ls>;
 <div n="to"/>to go away. depart from (<ab>abl.</ab>), go abroad, retire, withdraw, pass away (as time), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
@@ -9,5 +9,5 @@
 <div n="vp"/><ab>Caus.</ab> or <ab>cl.</ab> 10. <ab>P.</ab> (<ls>Dhātup. xxxii, 74</ls>) <s>व्राजयति</s>, to send, drive, <ls>AitĀr.</ls>;
 <div n="to"/>to prepare, decorate, <ls>Dhātup.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>विव्रजिषति</s> <ab>Gr.</ab>:
-<div n="to"/><ab>Intens.</ab> <s>वाव्रजते</s>, <s>वाव्रक्ति</s>, to go crookedly, <ls>Pāṇ. 3-1, 23</ls> <ab>Sch.</ab><info westergaard="vaja,32.74,10.0069"/><info whitneyroots="vraj,167"/><info verb="genuineroot" cp="1P,10P"/>
+<div n="to"/><ab>Intens.</ab> <s>वाव्रजते</s>, <s>वाव्रक्ति</s>, to go crookedly, <ls>Pāṇ. iii, 1, 23</ls> <ab>Sch.</ab><info westergaard="vaja,32.74,10.0069"/><info whitneyroots="vraj,167"/><info verb="genuineroot" cp="1P,10P"/>
 <LEND>

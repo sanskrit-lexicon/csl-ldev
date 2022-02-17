@@ -1,16 +1,16 @@
 <L>29165<pc>796-a<k1>taste<k2>taste
-<div n="lb"/>TASTE¦, {%s.%} (The sensation excited by applying any thing to
-<div n="lb"/>the tongue or palate) {#स्वादः, आस्वादः, रसज्ञानं, रसबोधः,#}
-<div n="lb"/>{#रसवेदनं#}. — (The sense) {#रसनेन्द्रियं, आस्वादनशक्तिः#} {%f.,%} {#रसनशक्तिः#} {%f.,%}
-<div n="lb"/>{#रसनं, रुचिः#} {%f.%} — (Flavor) {#रसः, आस्वादः, रुचिः#} {%f.;%} ‘the six
-<div n="lb"/>tastes,’ {#षड्रसाः#} {%m. pl.;%} these are, 1. sweet, {#मधुरः;#} 2. salt,
-<div n="lb"/>{#लवणः;#} 3. pungent, {#कटुः;#} 4. bitter, {#तिक्तः;#} 5. sour, {#अम्लः;#}
-<div n="lb"/>6. astringent, {#कषायः#}. — (Relish, liking for) {#रुचिः#} {%f.,%} {#अभि-#}
-<div n="lb"/>{#रुचिः#} {%f.,%} {#सन्तोषः;#} ‘that husband was not to her taste,’ {#स#}
-<div n="lb"/>{#पतिः सन्तोषाय तस्या नाभवत्;#} ‘according to taste,’ {#यथारुचि;#}
-<div n="lb"/>‘loss of taste,’ {#अरुचिः#} {%f.,%} {#अरोचकं;#} ‘of similar tastes,’ {#समा-#}
-<div n="lb"/>{#नशीलः -ला -लं#}. — (Nice perception, faculty of discerning
-<div n="lb"/>beauty) {#रसः, रसिकता, रसज्ञता, रसज्ञानं;#} ‘devoid of taste,’
-<div n="lb"/>{#अरसिकः -का -कं, अरसज्ञः -ज्ञा -ज्ञं;#} ‘having taste,’ {#रसज्ञः#} &c.,
-<div n="lb"/>{#रसिकः#} &c., {#सरसः -सा -सं, रसी -सिनी#} &c.
+TASTE¦, {%s.%} (The sensation excited by applying any thing to
+the tongue or palate) {#स्वादः, आस्वादः, रसज्ञानं, रसबोधः,#}
+{#रसवेदनं#}. — (The sense) {#रसनेन्द्रियं, आस्वादनशक्तिः#} {%f.,%} {#रसनशक्तिः#} {%f.,%}
+{#रसनं, रुचिः#} {%f.%} — (Flavor) {#रसः, आस्वादः, रुचिः#} {%f.;%} ‘the six
+tastes,’ {#षड्रसाः#} {%m. pl.;%} these are, 1. sweet, {#मधुरः;#} 2. salt,
+{#लवणः;#} 3. pungent, {#कटुः;#} 4. bitter, {#तिक्तः;#} 5. sour, {#अम्लः;#}
+6. astringent, {#कषायः#}. — (Relish, liking for) {#रुचिः#} {%f.,%} {#अभि-#}
+{#रुचिः#} {%f.,%} {#सन्तोषः;#} ‘that husband was not to her taste,’ {#स#}
+{#पतिः सन्तोषाय तस्या नाभवत्;#} ‘according to taste,’ {#यथारुचि;#}
+‘loss of taste,’ {#अरुचिः#} {%f.,%} {#अरोचकं;#} ‘of similar tastes,’ {#समा-#}
+{#नशीलः -ला -लं#}. — (Nice perception, faculty of discerning
+beauty) {#रसः, रसिकता, रसज्ञता, रसज्ञानं;#} ‘devoid of taste,’
+{#अरसिकः -का -कं, अरसज्ञः -ज्ञा -ज्ञं;#} ‘having taste,’ {#रसज्ञः#} &c.,
+{#रसिकः#} &c., {#सरसः -सा -सं, रसी -सिनी#} &c.
 <LEND>

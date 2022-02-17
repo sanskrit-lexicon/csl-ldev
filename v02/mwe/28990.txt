@@ -1,7 +1,7 @@
 <L>28990<pc>792-b<k1>swing<k2>swing
-<div n="lb"/>SWING¦, {%s.%} (Oscillation) {#आन्दोलनं, प्रेङ्खोलनं, प्रेङ्खणं, इतस्ततो विचलनं#}.
-<div n="lb"/> — (Seat, line and other apparatus for swinging) {#दोला -ली#}
-<div n="lb"/>{#-लं, दोलिका, प्रेङ्खा, प्रेङ्खोलनं, हिन्दोलः -लकः, खट्वा, आन्दोलनं,#}
-<div n="lb"/>{#काचः;#} ‘suspended in a swing,’ {#काचितः -ता -तं, शिक्यितः#} &c.
-<div n="lb"/> — (Impetus) {#वेगः#}.
+SWING¦, {%s.%} (Oscillation) {#आन्दोलनं, प्रेङ्खोलनं, प्रेङ्खणं, इतस्ततो विचलनं#}.
+ — (Seat, line and other apparatus for swinging) {#दोला -ली#}
+{#-लं, दोलिका, प्रेङ्खा, प्रेङ्खोलनं, हिन्दोलः -लकः, खट्वा, आन्दोलनं,#}
+{#काचः;#} ‘suspended in a swing,’ {#काचितः -ता -तं, शिक्यितः#} &c.
+ — (Impetus) {#वेगः#}.
 <LEND>

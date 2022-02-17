@@ -1,7 +1,7 @@
 <L>5689<pc>182<k1>deflower<k2>deflower
-<div n="lb"/>{@DEFLOWER@}¦ (v. t.): <div n="I">I Lit.: {#पुष्पहीनं#} ({#नां#}) {#करोति।#}</div>
-<div n="lb"/><div n="I">II To deprive: {#हरति#} ({#हृ,#} c. l.). </div><div n="I">III To
-<div n="lb"/>defile: q. v.: {#नाशयति#} (c. of {#नश्#}), <div n="xe">{%will seduce%}
-<div n="lb"/>{%and d. this girl:%}</div> <div n="xs">{#एनां बालां विलोभ्य नाशयिष्यति,#}</div>
-<div n="lb"/><ls>D.</ls> ii.</div>
+{@DEFLOWER@}¦ (v. t.): <div n="I">I Lit.: {#पुष्पहीनं#} ({#नां#}) {#करोति।#}</div>
+<div n="I">II To deprive: {#हरति#} ({#हृ,#} c. l.). </div><div n="I">III To
+defile: q. v.: {#नाशयति#} (c. of {#नश्#}), <div n="xe">{%will seduce%}
+{%and d. this girl:%}</div> <div n="xs">{#एनां बालां विलोभ्य नाशयिष्यति,#}</div>
+<ls>D.</ls> ii.</div>
 <LEND>

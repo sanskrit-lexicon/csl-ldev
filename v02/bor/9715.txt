@@ -1,4 +1,4 @@
 <L>9715<pc>307<k1>gastric<k2>gastric
-<div n="lb"/>{@GASTRIC:@}¦ <div n="1">(1) by comp. </div><div n="1">(2) {#जाठरः#} ({#री, रं#}), <div n="xe">{%g.%}
-<div n="lb"/>{%juice.:%}</div> <div n="xs">{#*जाठरद्रवः।#}</div></div>
+{@GASTRIC:@}¦ <div n="1">(1) by comp. </div><div n="1">(2) {#जाठरः#} ({#री, रं#}), <div n="xe">{%g.%}
+{%juice.:%}</div> <div n="xs">{#*जाठरद्रवः।#}</div></div>
 <LEND>

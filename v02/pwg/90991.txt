@@ -11,8 +11,8 @@
 <ls>R. 2, 59, 30. 7, 32, 41.</ls> 
 <ls>KATHĀS. 52, 327.</ls> {#भुजोरु°#} 
 <ls>R. 5, 42, 9.</ls> {#पक्ष°#} 
-<ls>MBH. 4, 1399. 12, 6397.</ls> 
-<ls>HARIV. 6960. 10397.</ls> 
+<ls>MBH. 4, 1399.</ls> <ls n="MBH.">12, 6397.</ls> 
+<ls>HARIV. 6960.</ls> <ls n="HARIV.">10397.</ls> 
 <ls>KATHĀS. 72, 42.</ls> {#लाङ्गूल°#} 
 <ls>KUMĀRAS. 1, 13.</ls> 
 <ls>RAGH. 5, 45.</ls> {#कटाक्ष°#} 
@@ -43,7 +43,7 @@
 <ls>SŪRYAS. 1, 70.</ls> 
 <ls>COLEBR. Misc. Ess. II, 466.</ls> {#विमण्डले यद्ग्रहस्थानं तस्य क्रान्तिवृत्ताद्यत्तिर्यगन्तरं स विक्षेपः#} 
 <ls>GOLĀDHY. 6, 16,</ls> Comm. <ls>GAṆIT.</ls> <ls>GRAHACCHĀYĀDH. 1. fgg.</ls> {#°वृत्त = क्षेपवृत्त#} {%der Declinationskreis, auf dem die Himmelsbreite gemessen wird%}, 
-<ls>GOLĀDHY. 6, 14</ls> <ls>?(vgl. 13).</ls> Vgl. {#शर#} . 
+<ls>GOLĀDHY. 6, 14</ls> (vgl. <ls>13</ls>). Vgl. {#शर#} . 
 <div n="1">— 11) {%eine best. Krankheitsform%} 
 <ls>Verz. d. B. H. No. 934.</ls> 
 <div n="1">— 12) {%eine best. Angriffswaffe%}: {#सकचग्रह°#} 

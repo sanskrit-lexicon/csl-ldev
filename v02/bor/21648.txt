@@ -1,9 +1,9 @@
 <L>21648<pc>682<k1>string<k2>string
-<div n="lb"/>{@STRING@}¦ (v.): <div n="I">I Gen.: </div><div n="1">(1) {#ग्रथ्नाति#} ({#ग्रन्थ्,#} c. 9.),
-<div n="lb"/><div n="xe">{%strung the garland of speech:%}</div> <div n="xs">{#वचःस्रजं जग्रन्थ,#}</div> N.
-<div n="lb"/>xiv. 13.; <div n="xe">{%s. together:%}</div> <div n="xs">{#संग्रथ्नाति,#}</div> K.; </div><div n="1">(2) {#गुम्फति#}
-<div n="lb"/>({#गुम्फ्,#} c. 1.), <div n="xe">{%another s. ing flowers:%}</div> <div n="xs">{#अपरा #}
-<div n="lb"/>{# सुमनसो गुम्फति,#}</div> M. i. </div><div n="I">II To furnish with s. s:</div>
-<div n="lb"/><div n="1">(1) perh. {#तन्त्रयति#} (nomi.); </div><div n="1">(2) {#तन्त्रीभिः#} {%or%}
-<div n="lb"/>{#गुणैराकलयति#} <div n="xe">{%or%}</div> <div n="xs">{#बध्नाति#}</div> ({#कल्,#} c. 10 <div n="xe">{%or%}</div> <div n="xs">{#बन्ध्,#}</div> c. 9.).</div>
+{@STRING@}¦ (v.): <div n="I">I Gen.: </div><div n="1">(1) {#ग्रथ्नाति#} ({#ग्रन्थ्,#} c. 9.),
+<div n="xe">{%strung the garland of speech:%}</div> <div n="xs">{#वचःस्रजं जग्रन्थ,#}</div> N.
+xiv. 13.; <div n="xe">{%s. together:%}</div> <div n="xs">{#संग्रथ्नाति,#}</div> K.; </div><div n="1">(2) {#गुम्फति#}
+({#गुम्फ्,#} c. 1.), <div n="xe">{%another s. ing flowers:%}</div> <div n="xs">{#अपरा #}
+{# सुमनसो गुम्फति,#}</div> M. i. </div><div n="I">II To furnish with s. s:</div>
+<div n="1">(1) perh. {#तन्त्रयति#} (nomi.); </div><div n="1">(2) {#तन्त्रीभिः#} {%or%}
+{#गुणैराकलयति#} <div n="xe">{%or%}</div> <div n="xs">{#बध्नाति#}</div> ({#कल्,#} c. 10 <div n="xe">{%or%}</div> <div n="xs">{#बन्ध्,#}</div> c. 9.).</div>
 <LEND>

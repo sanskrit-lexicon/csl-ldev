@@ -1,4 +1,4 @@
 <L>22086<pc>697<k1>syllogism<k2>syllogism
-<div n="lb"/>{@SYLLOGISM:@}¦ {#न्यायः,#} <div n="xe">{%s. is not required for what is%}
-<div n="lb"/>{%ascertained:%}</div> <div n="xs">{#न निर्णीतार्थे न्यायः प्रवर्तते,#}</div> N. d.
+{@SYLLOGISM:@}¦ {#न्यायः,#} <div n="xe">{%s. is not required for what is%}
+{%ascertained:%}</div> <div n="xs">{#न निर्णीतार्थे न्यायः प्रवर्तते,#}</div> N. d.
 <LEND>

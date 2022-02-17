@@ -1,5 +1,5 @@
 <L>3412<pc>073-a<k1>cadence<k2>cadence
-<div n="lb"/>CADENCE¦, {%s.%} (Fall, state of sinking) {#पातः, पतनं, अवपातः, च्युतिः#} {%f.%}
-<div n="lb"/> — (Modulation of the voice, tone) {#स्वरः, कलः, स्वनः, निःस्वनः,#}
-<div n="lb"/>{#निह्रादः, विरावः, क्वणः, विरिब्धः, छन्दः#} {%n.%} ({#स्#}).
+CADENCE¦, {%s.%} (Fall, state of sinking) {#पातः, पतनं, अवपातः, च्युतिः#} {%f.%}
+ — (Modulation of the voice, tone) {#स्वरः, कलः, स्वनः, निःस्वनः,#}
+{#निह्रादः, विरावः, क्वणः, विरिब्धः, छन्दः#} {%n.%} ({#स्#}).
 <LEND>

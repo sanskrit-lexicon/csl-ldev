@@ -1,9 +1,9 @@
 <L>4528<pc>147<k1>constant<k2>constant
-<div n="lb"/>{@CONSTANT:@}¦ <div n="I">I Firm: </div><div n="1">(1) {#स्थिरः#} ({#रा, रं#}), <div n="xe">{%my%}
-<div n="lb"/>{%entire fortune is c.:%}</div> <div n="xs">{#स्थिरा मम सर्वसम्पत्,#}</div> Si.;</div>
-<div n="lb"/><div n="1">(2) {#अचलः#} <div n="xe">{%or%}</div> <div n="xs">{#निश्चलः#}</div> ({#ला, लं#}), <div n="xe">{%regard for depen-%}
-<div n="lb"/>{%dents is not c.:%}</div> <div n="xs">{#चलं गौरवमाश्रितेषु,#}</div> Ku.; </div><div n="1">(3) {#अव-#}
-<div n="lb"/>{#स्थितः#} <div n="xe">{%or%}</div> <div n="xs">{#व्यवस्थितः#}</div> ({#ता, तं#}) (rare), <div n="xe">{%love for woman%}
-<div n="lb"/>{%is not c.:%}</div> <div n="xs">{#प्रेम दयितास्वनवस्थितम्,#}</div> Ku. iv. 28.</div>
-<div n="lb"/><div n="I">II Continuous: q. v.: {#सततः#} ({#ता, तं#}).</div>
+{@CONSTANT:@}¦ <div n="I">I Firm: </div><div n="1">(1) {#स्थिरः#} ({#रा, रं#}), <div n="xe">{%my%}
+{%entire fortune is c.:%}</div> <div n="xs">{#स्थिरा मम सर्वसम्पत्,#}</div> Si.;</div>
+<div n="1">(2) {#अचलः#} <div n="xe">{%or%}</div> <div n="xs">{#निश्चलः#}</div> ({#ला, लं#}), <div n="xe">{%regard for depen-%}
+{%dents is not c.:%}</div> <div n="xs">{#चलं गौरवमाश्रितेषु,#}</div> Ku.; </div><div n="1">(3) {#अव-#}
+{#स्थितः#} <div n="xe">{%or%}</div> <div n="xs">{#व्यवस्थितः#}</div> ({#ता, तं#}) (rare), <div n="xe">{%love for woman%}
+{%is not c.:%}</div> <div n="xs">{#प्रेम दयितास्वनवस्थितम्,#}</div> Ku. iv. 28.</div>
+<div n="I">II Continuous: q. v.: {#सततः#} ({#ता, तं#}).</div>
 <LEND>

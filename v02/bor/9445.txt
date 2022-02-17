@@ -1,4 +1,4 @@
 <L>9445<pc>299<k1>fringe<k2>fringe
-<div n="lb"/>{@FRINGE:@}¦ <div n="1">(1) {#दशा;#} </div><div n="1">(2) {#अञ्चलः;#} </div><div n="1">(3) {#तरी#} <div n="xe">{%or%}</div> <div n="xs">{#तरिः#}</div>
-<div n="lb"/>(rare).</div>
+{@FRINGE:@}¦ <div n="1">(1) {#दशा;#} </div><div n="1">(2) {#अञ्चलः;#} </div><div n="1">(3) {#तरी#} <div n="xe">{%or%}</div> <div n="xs">{#तरिः#}</div>
+(rare).</div>
 <LEND>

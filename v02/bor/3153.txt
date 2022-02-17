@@ -1,4 +1,4 @@
 <L>3153<pc>105<k1>cartridge<k2>cartridge
-<div n="lb"/>{@CARTRIDGE:@}¦ {#*चूर्णकोषः; त्रुटिः,#} <div n="xe">{%C. -box:%}</div> <div n="xs">{#*चूर्णकोष-#}
-<div n="lb"/>{#पेटिका।#}</div> <div n="xe">{%c. -paper:%}</div> <div n="xs">{#शक्तकागजविशेषः।#}</div>
+{@CARTRIDGE:@}¦ {#*चूर्णकोषः; त्रुटिः,#} <div n="xe">{%C. -box:%}</div> <div n="xs">{#*चूर्णकोष-#}
+{#पेटिका।#}</div> <div n="xe">{%c. -paper:%}</div> <div n="xs">{#शक्तकागजविशेषः।#}</div>
 <LEND>

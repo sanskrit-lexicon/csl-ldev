@@ -1,4 +1,4 @@
 <L>15551<pc>477<k1>notification<k2>notification
-<div n="lb"/>{@NOTIFICATION:@}¦ <div n="1">(1) {#घोषणा#} (?); </div><div n="1">(2) {#विज्ञापनम्, #}
-<div n="lb"/>{# -ना#} (= notice).</div>
+{@NOTIFICATION:@}¦ <div n="1">(1) {#घोषणा#} (?); </div><div n="1">(2) {#विज्ञापनम्, #}
+{# -ना#} (= notice).</div>
 <LEND>

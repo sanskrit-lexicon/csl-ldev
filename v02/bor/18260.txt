@@ -1,5 +1,5 @@
 <L>18260<pc>560<k1>purveyance<k2>purveyance
-<div n="lb"/>{@PURVEYANCE:@}¦ <div n="I">I Provision: {#उपकल्पनम्।#} </div><div n="I">II
-<div n="lb"/>Of food: {#आहारसमाहारः#} and sim. comp.s. </div><div n="I">III
-<div n="lb"/>Provisions, food: q. v.</div>
+{@PURVEYANCE:@}¦ <div n="I">I Provision: {#उपकल्पनम्।#} </div><div n="I">II
+Of food: {#आहारसमाहारः#} and sim. comp.s. </div><div n="I">III
+Provisions, food: q. v.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>17153<pc>428-a<k1>kit<k2>kit
-<div n="lb"/>KIT¦, {%s.%} (A large bottle) {#महाकूपी#}. — (A small fiddle) {#क्षुद्रसारङ्गी#}.
-<div n="lb"/> — (A soldier's baggage) {#सैनिकसामग्री -ग्र्यं, सैनिकपरिच्छदः#}. — 
-<div n="lb"/>(Complement of necessary utensils) {#उपकरणसामग्र्यं -ग्री,#}
-<div n="lb"/>{#उपकरणसमुदायः, सोपकारद्रव्यसम्भारः, द्रव्यसम्भारः, सम्भारः#}.
+KIT¦, {%s.%} (A large bottle) {#महाकूपी#}. — (A small fiddle) {#क्षुद्रसारङ्गी#}.
+ — (A soldier's baggage) {#सैनिकसामग्री -ग्र्यं, सैनिकपरिच्छदः#}. — 
+(Complement of necessary utensils) {#उपकरणसामग्र्यं -ग्री,#}
+{#उपकरणसमुदायः, सोपकारद्रव्यसम्भारः, द्रव्यसम्भारः, सम्भारः#}.
 <LEND>

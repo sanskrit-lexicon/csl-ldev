@@ -1,7 +1,7 @@
 <L>17709<pc>542<k1>presume<k2>presume
-<div n="lb"/>{@PRESUME:@}¦ <div n="I">I To suppose: q. v.: {#सम्भावयति#}
-<div n="lb"/>(c. of {#भू#}), <div n="xe">{%if you p. guilt:%}</div> <div n="xs">{#यदि सम्भाव्यते पापम्,#}</div>
-<div n="lb"/>Mr. ix. 36. </div><div n="I">II To venture too far: expr.
-<div n="lb"/>by adj. or subs.: v. Presumptuous, pre-
-<div n="lb"/>-sumption.</div>
+{@PRESUME:@}¦ <div n="I">I To suppose: q. v.: {#सम्भावयति#}
+(c. of {#भू#}), <div n="xe">{%if you p. guilt:%}</div> <div n="xs">{#यदि सम्भाव्यते पापम्,#}</div>
+Mr. ix. 36. </div><div n="I">II To venture too far: expr.
+by adj. or subs.: v. Presumptuous, pre-
+-sumption.</div>
 <LEND>

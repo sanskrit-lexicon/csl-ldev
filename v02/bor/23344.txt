@@ -1,4 +1,4 @@
 <L>23344<pc>733<k1>unhealthiness<k2>unhealthiness
-<div n="lb"/>{@UNHEALTHINESS:@}¦ <div n="1">(1) {#असुस्थता#} (of men, etc.);</div>
-<div n="lb"/><div n="1">(2) {#अस्वास्थ्यकरत्वम्#} (of places); etc.</div>
+{@UNHEALTHINESS:@}¦ <div n="1">(1) {#असुस्थता#} (of men, etc.);</div>
+<div n="1">(2) {#अस्वास्थ्यकरत्वम्#} (of places); etc.</div>
 <LEND>

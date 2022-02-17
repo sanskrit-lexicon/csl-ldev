@@ -1,5 +1,5 @@
 <L>14020<pc>430<k1>maid<k2>maid
-<div n="lb"/>{@MAID,@}¦ {@MAIDEN:@} <div n="I">I A girl: q. v.: {#कन्या।#} </div><div n="I">II
-<div n="lb"/>A virgin: q. v.: {#कन्या।#} </div><div n="I">III A maid-ser-
-<div n="lb"/>-vant: {#चेटी।#}</div>
+{@MAID,@}¦ {@MAIDEN:@} <div n="I">I A girl: q. v.: {#कन्या।#} </div><div n="I">II
+A virgin: q. v.: {#कन्या।#} </div><div n="I">III A maid-ser-
+-vant: {#चेटी।#}</div>
 <LEND>

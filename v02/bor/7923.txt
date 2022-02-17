@@ -1,10 +1,10 @@
 <L>7923<pc>250<k1>every<k2>every
-<div n="lb"/>{@EVERY:@}¦ <div n="1">(1) by doubling the word, <div n="xe">{%at e.%}
-<div n="lb"/>{%place:%}</div> <div n="xs">{#स्थाने स्थाने,#}</div> J.; <div n="xe">{%in e. house:%}</div> <div n="xs">{#गृहे गृहे,#}</div> Ku.;
-<div n="lb"/><div n="xe">{%e. six months:%}</div> <div n="xs">{#षण्मासे षण्मासे,#}</div> P. iii. 6.; </div><div n="1">(2) by
-<div n="lb"/>comp. with {#प्रति,#} <div n="xe">{%in e. direction:%}</div> <div n="xs">{#प्रतिदिशम्,#}</div> Ki.;
-<div n="lb"/><div n="xe">{%e. day:%}</div> <div n="xs">{#प्रत्यहम्,#}</div> H.; </div><div n="1">(3) by comp. with {#अनु#}
-<div n="lb"/>(of rapid succession), <div n="xe">{%e. moment, e. now and%}
-<div n="lb"/>{%then:%}</div> <div n="xs">{#अनुक्षणम्;#}</div> </div><div n="1">(4) {#सर्वः#} ({#र्वा, र्वं#}) (when e.=
-<div n="lb"/>all); <div n="xe">{%e. poem:%}</div> <div n="xs">{#सर्वं काव्यम्,#}</div> Mal.</div>
+{@EVERY:@}¦ <div n="1">(1) by doubling the word, <div n="xe">{%at e.%}
+{%place:%}</div> <div n="xs">{#स्थाने स्थाने,#}</div> J.; <div n="xe">{%in e. house:%}</div> <div n="xs">{#गृहे गृहे,#}</div> Ku.;
+<div n="xe">{%e. six months:%}</div> <div n="xs">{#षण्मासे षण्मासे,#}</div> P. iii. 6.; </div><div n="1">(2) by
+comp. with {#प्रति,#} <div n="xe">{%in e. direction:%}</div> <div n="xs">{#प्रतिदिशम्,#}</div> Ki.;
+<div n="xe">{%e. day:%}</div> <div n="xs">{#प्रत्यहम्,#}</div> H.; </div><div n="1">(3) by comp. with {#अनु#}
+(of rapid succession), <div n="xe">{%e. moment, e. now and%}
+{%then:%}</div> <div n="xs">{#अनुक्षणम्;#}</div> </div><div n="1">(4) {#सर्वः#} ({#र्वा, र्वं#}) (when e.=
+all); <div n="xe">{%e. poem:%}</div> <div n="xs">{#सर्वं काव्यम्,#}</div> Mal.</div>
 <LEND>

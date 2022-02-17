@@ -1,4 +1,4 @@
 <L>6190<pc>199<k1>diminutive<k2>diminutive
-<div n="lb"/>{@DIMINUTIVE:@}¦ <div n="I">I Adj.: {#अल्पकायः#} ({#या, यं#}), Mah.</div>
-<div n="lb"/><div n="I">II In gram.: {#ह्नस्वार्थकप्रत्ययः।#}</div>
+{@DIMINUTIVE:@}¦ <div n="I">I Adj.: {#अल्पकायः#} ({#या, यं#}), Mah.</div>
+<div n="I">II In gram.: {#ह्नस्वार्थकप्रत्ययः।#}</div>
 <LEND>

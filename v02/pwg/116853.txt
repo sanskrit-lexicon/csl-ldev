@@ -7,8 +7,8 @@ m. <ls>P. 3, 3, 62. 6, 1, 216.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.<
 <ls>34.</ls> <ls>H. 72. 296.</ls> <ls>HALĀY. 1, 91.</ls> <ls>MBH. 7, 1557.</ls> {#प्रजहास महाहासम्#} 
 <ls>5582.</ls> {#हासम्#} 
 <ls>12, 12581.</ls> {#जहास सस्वनं हासम्#} 
-<ls>14, 2164.</ls> <ls>HARIV. 1276.</ls> <ls>MBH. 13, 3783.</ls> <ls>HARIV. 3740. 15073. 15740.</ls> {#हासं मुमुचुः#} 
-<ls>?15741. R. GORR. 1, 35, 15. R. SCHL. 2, 35, 19. MṚCCH. 131, 14. RAGH. 12, 36. Spr. (II) 1028. 2912.</ls> {#लज्जिताः#} 
+<ls>14, 2164.</ls> <ls>HARIV. 1276.</ls> <ls>MBH. 13, 3783.</ls> <ls>HARIV. 3740.</ls> <ls n="HARIV.">15073.</ls> <ls n="HARIV.">15740.</ls> {#हासं मुमुचुः#} 
+<ls n="HARIV.">15741.</ls> <ls>R. GORR. 1, 35, 15.</ls> <ls>R. SCHL. 2, 35, 19.</ls> <ls>MṚCCH. 131, 14.</ls> <ls>RAGH. 12, 36.</ls> <ls>Spr. (II) 1028.</ls> <ls n="Spr. (II)">2912.</ls> {#लज्जिताः#} 
 <ls>4646. 6182.</ls> {#नित्यहासैर्हताः स्त्रियः#} 
 <ls>7442.</ls> <ls>VARĀH. BṚH. S. 86, 22. 104, 63.</ls> <ls>BṚH. 3, 2.</ls> <ls>KATHĀS. 7, 46. 18, 47.</ls> {#विलासहासादि चक्रे#} 
 <ls>49, 48.</ls> {#रुदंश्चाधत्त#} (so lesen wir) {#लोकस्य हासम्#} 
@@ -45,14 +45,14 @@ m. <ls>P. 3, 3, 62. 6, 1, 216.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.<
 <ls>SĀH. D. 130, 11.</ls> {#अतिरुचिरमन्दहासचन्द्रातप#} 
 <ls>PAÑCAR. 3, 5, 25.</ls> {#चामरहासैः (°हारैः#} schlecht die neuere Ausg.) 
 <ls>HARIV. 4649.</ls> {#कन्दल°#} 
-<ls>3558.</ls> {#फेनहासैर्हसिष्यन्ति#} 
-<ls>5785.</ls> {#फेनविलासप्रोज्ज्वलहासा#} 
+<ls n="HARIV.">3558.</ls> {#फेनहासैर्हसिष्यन्ति#} 
+<ls n="HARIV.">5785.</ls> {#फेनविलासप्रोज्ज्वलहासा#} 
 <ls>KHANDOM. 119.</ls> {#करकावृष्टि°#} 
 <ls>MEGH. 55.</ls> {#हंसहासा निम्नगाः#} 
 <ls>VARĀH. BṚH. S. 56, 7.</ls> {#हार°#} 
 <ls>RĀJA-TAR. 1, 90</ls> (beide Ausgg. {#हर°#}). 
 <ls>BHĀG. P. 10, 35, 4.</ls> {#स्थलपद्म°#} (blüht anfänglich {%weiss%}) 
-<ls>BHAṬṬ. 2, 3</ls> (=  {#विकास#} Comm.). 
+<ls>BHAṬṬ. 2, 3</ls> (= {#विकास#} Comm.). 
 <div n="2">— e) {%Hochmuth%} (vgl. {#स्मय#}) 
 <ls>BHĀG. P. 6, 8, 14.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} ein N. der <is>Durgā</is> (oder ist etwa {#हासभीमा#} zu lesen?) 

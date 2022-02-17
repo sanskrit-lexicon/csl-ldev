@@ -1,9 +1,9 @@
 <L>12207<pc>380<k1>infuse<k2>infuse
-<div n="lb"/>{@INFUSE:@}¦ <div n="I">I To pour in: {#निषिञ्चति#} ({#सिच्,#} c.
-<div n="lb"/>6.). </div><div n="I">II To inspire: {#आदधाति, सम्-,#} ({#धा,#} c.)
-<div n="lb"/>3.), {%by i. ing good breeding among the people:%}
-<div n="lb"/>{#प्रजानां विनयाघानात्,#} R. i. 24. </div><div n="I">III For
-<div n="lb"/>medical purpose: {#साधयति#} (C. of {#सिध्#}), <div n="xe">{%is%}
-<div n="lb"/>{%to be i. d. in eight-fold water:%}</div> <div n="xs">{#जलेऽष्टगुणिते साध्यम्,#}</div>
-<div n="lb"/>Bha.</div>
+{@INFUSE:@}¦ <div n="I">I To pour in: {#निषिञ्चति#} ({#सिच्,#} c.
+6.). </div><div n="I">II To inspire: {#आदधाति, सम्-,#} ({#धा,#} c.)
+3.), {%by i. ing good breeding among the people:%}
+{#प्रजानां विनयाघानात्,#} R. i. 24. </div><div n="I">III For
+medical purpose: {#साधयति#} (C. of {#सिध्#}), <div n="xe">{%is%}
+{%to be i. d. in eight-fold water:%}</div> <div n="xs">{#जलेऽष्टगुणिते साध्यम्,#}</div>
+Bha.</div>
 <LEND>

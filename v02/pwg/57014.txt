@@ -43,11 +43,11 @@
 <ls>HALĀY. 1, 140. fg.</ls> 
 <ls>M. 2, 159.</ls> 
 <ls>N. 12, 21.</ls> 
-<ls>MBH. 1, 6008. 5, 7003. 13, 298. 13, 2839</ls> {#(सु°)#} . 
+<ls>MBH. 1, 6008.</ls> <ls n="MBH.">5, 7003.</ls> <ls n="MBH.">13, 298.</ls> <ls n="MBH.">13, 2839</ls> ({#सु°#}) . 
 <ls>R. 1, 4, 6. 9, 32</ls> ({#सु°#}). 
-<ls>?57, 4. 63, 14. 18. DAŚ. 2, 31. RAGH. 9, 71. MEGH. 83. ŚĀK. 99. 68, 13, v. l. Spr. 1428. 2209. 3077. 3381. 3478.</ls> {#यथा मधुरमुग्रं वा शृणोति लभते ऽपि वा#} 
-<ls>?4959. PAÑCAT. 248, 11. VARĀH. LAGH. 2, 17 in Ind. St. 2, 287.</ls> {#ललितमधुरा वाक्प्रत्यक्षे परोक्षविभीषणा#} 
-<ls>VET.</ls> in <ls>LA. (II) 30, 5.</ls> {#वसन्तम् - कोकिलालापमधुरम्#} 
+<ls>57, 4. 63, 14. 18.</ls> <ls>DAŚ. 2, 31.</ls> <ls>RAGH. 9, 71.</ls> <ls>MEGH. 83.</ls> <ls>ŚĀK. 99. 68, 13, v. l.</ls> <ls>Spr. 1428. 2209. 3077. 3381. 3478.</ls> {#यथा मधुरमुग्रं वा शृणोति लभते ऽपि वा#} 
+<ls>4959.</ls> <ls>PAÑCAT. 248, 11.</ls> <ls>VARĀH. LAGH. 2, 17</ls> in <ls>Ind. St. 2, 287.</ls> {#ललितमधुरा वाक्प्रत्यक्षे परोक्षविभीषणा#} 
+<ls>VET. in LA. (II) 30, 5.</ls> {#वसन्तम् - कोकिलालापमधुरम्#} 
 <ls>BRAHMA-P. ebend. 52, 21.</ls> {#स्वामी वाङ्मधुरो विषहृदयो मया ज्ञातः#} 
 <ls>HIT. 74, 20.</ls> {#यस्य ध्वजाग्रे नदतो मृदङ्गौ नन्दोपनन्दौ मधुरौ#} {%lieblich tönend%} 
 <ls>MBH. 3, 15700.</ls> {#हंसान्सुमधुरांश्चापि तत्र शुश्राव#} {%lieblich schreiend%} 
@@ -55,7 +55,7 @@
 <ls>MBH. 1, 2898.</ls> 
 <ls>R. Einl. 1, 4, 17.</ls> <ls>MEGH. 9. 57.</ls> {#वक्तारो मधुरम्#} 
 <ls>SUŚR. 1, 107, 15.</ls> {#सुमधुरम्#} 
-<ls>BRAHMA-P.</ls> in <ls>LA. (II) 52, 3.</ls> {#मधुरभाषिणी#} 
+<ls>BRAHMA-P. in LA. (II) 52, 3.</ls> {#मधुरभाषिणी#} 
 <ls>N. 11, 31.</ls> 
 <ls>R. 1, 9, 24.</ls> {#°राविन्#} 
 <ls>VARĀH. BṚH. S. 32, 21.</ls> {#मधुरेण#} {%auf freundliche Weise, mit lieben Worten%}: {#मधुरेणैव तौ मल्लौ (मन्दौ#} die neuere Ausg.) {#स्वयमेवानयाशु वै#} 
@@ -63,7 +63,7 @@
 <ls>TS. 7, 5, 10</ls>, 1) {%ein Lied, das die Worte%} {#इदंमधु#} {%zum Refrain hat%}, 
 <ls>KĀṬH. 34, 5.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
-<div n="2"> a) {%ein best. Heilmittel%} {#(जीवक)#}; {%eine Art Zucker%} ({#गुड#}); {%rothes Zuckerrohr%} ({#रक्तेक्षु#}); {%eine Mango-Art%} {#(राजाम्र)#}; {%eine rothblühende Moringa%} ({#रक्तशिग्रु#}); {%Reis%} 
+<div n="2"> a) {%ein best. Heilmittel%} ({#जीवक#}); {%eine Art Zucker%} ({#गुड#}); {%rothes Zuckerrohr%} ({#रक्तेक्षु#}); {%eine Mango-Art%} ({#राजाम्र#}); {%eine rothblühende Moringa%} ({#रक्तशिग्रु#}); {%Reis%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) N. pr. eines Wesens im Gefolge des <is>Skanda</is> 
 <ls>MBH. 9, 2573.</ls> N. pr. eines <is>Gandharva</is> 

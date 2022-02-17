@@ -1,6 +1,6 @@
 <L>7493<pc>236<k1>employment<k2>employment
-<div n="lb"/>{@EMPLOYMENT:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#प्रयोगः;#} </div><div n="1">(2) {#नियोगः।#}</div>
-<div n="lb"/><div n="I">II Occupation: {#कर्मन्#} (n.), <div n="xe">{%to dismiss from%}
-<div n="lb"/>{%an e.:%}</div> <div n="xs">{#कर्मणोऽपकर्षति,#}</div> Mah.: v. Service,
-<div n="lb"/>livelihood, office.</div>
+{@EMPLOYMENT:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#प्रयोगः;#} </div><div n="1">(2) {#नियोगः।#}</div>
+<div n="I">II Occupation: {#कर्मन्#} (n.), <div n="xe">{%to dismiss from%}
+{%an e.:%}</div> <div n="xs">{#कर्मणोऽपकर्षति,#}</div> Mah.: v. Service,
+livelihood, office.</div>
 <LEND>

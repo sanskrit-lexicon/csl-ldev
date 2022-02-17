@@ -1,6 +1,6 @@
 <L>16855<pc>517<k1>personality<k2>personality
-<div n="lb"/>{@PERSONALITY:@}¦ <div n="I">I Individuality: </div><div n="1">(1) {#पुरुषता#}
-<div n="lb"/>(?); </div><div n="1">(2) {#पृथगात्मता।#} </div><div n="I">II Personal reflections:</div>
-<div n="lb"/><div n="1">(1) by circumlo.: v. Personal (IV); </div><div n="1">(2)
-<div n="lb"/>{#आक्षेपः#} (= abuse).</div>
+{@PERSONALITY:@}¦ <div n="I">I Individuality: </div><div n="1">(1) {#पुरुषता#}
+(?); </div><div n="1">(2) {#पृथगात्मता।#} </div><div n="I">II Personal reflections:</div>
+<div n="1">(1) by circumlo.: v. Personal (IV); </div><div n="1">(2)
+{#आक्षेपः#} (= abuse).</div>
 <LEND>

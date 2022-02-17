@@ -22,14 +22,14 @@
 <ls>5, 1639.</ls> {#मित्र°#} 
 <ls>13, 309.</ls> {#भृत्य°#} 
 <ls>2186.</ls> {#पौर°#} 
-<ls>?15, 439. 446. HARIV. 11015 (S. 790). R. 2, 30, 45. 45, 2. KĀM. NĪTIS. 3, 39. RAGH. 2, 4. 11, 7. VIKR. 3, 9. MĀLAV. 67, 11. Spr. 1940. 2542. 4645. AK. 2, 6, 1, 30. 8, 1, 6. H. 514. HALĀY. 2, 353. KATHĀS. 4, 20. 18, 83. 26, 145. RĀJA-TAR. 1, 308. PRAB. 36, 9. BHĀG. P. 4, 25, 42. 7, 6, 12. PAÑCAT. 33, 14. VET. in LA. (III) 1, 13. SARVADARŚANAS. 57, 11. 100, 22.</ls> {#आत्म°, पर°#} {%die eigene —, die fremde Partei%} 
+<ls n="MBH.">15, 439.</ls> <ls n="MBH. 15,">446.</ls> <ls>HARIV. 11015</ls> (S. 790). <ls>R. 2, 30, 45. 45, 2.</ls> <ls>KĀM. NĪTIS. 3, 39.</ls> <ls>RAGH. 2, 4. 11, 7.</ls> <ls>VIKR. 3, 9.</ls> <ls>MĀLAV. 67, 11.</ls> <ls>Spr. 1940. 2542. 4645.</ls> <ls>AK. 2, 6, 1, 30. 8, 1, 6.</ls> <ls>H. 514.</ls> <ls>HALĀY. 2, 353.</ls> <ls>KATHĀS. 4, 20. 18, 83. 26, 145.</ls> <ls>RĀJA-TAR. 1, 308.</ls> <ls>PRAB. 36, 9.</ls> <ls>BHĀG. P. 4, 25, 42. 7, 6, 12.</ls> <ls>PAÑCAT. 33, 14.</ls> <ls>VET. in LA. (III) 1, 13.</ls> <ls>SARVADARŚANAS. 57, 11. 100, 22.</ls> {#आत्म°, पर°#} {%die eigene —, die fremde Partei%} 
 <ls>VṚDDHA-CĀṆ. 11, 2.</ls> {#स्व°#} 
 <ls>PAÑCAT. 192, 22. fg.</ls> {#नक्षत्रत्रय°#} 
 <ls>VARĀH. BṚH. S. 14, 1.</ls> {#मृदुवर्गस्त्वनुराधाचित्रापौष्णेन्दवानि#} 
 <ls>98, 10.</ls> {#षडिन्द्रिय°#} 
 <ls>BHĀG. P. 5, 14, 1.</ls> {#संवत्सर°#} 
-<ls>WEBER, <is>Nakṣ</is>. 2, 283. fg.</ls> Häufig in comp. mit einem Zahlworte: {#त्रि°#} (s. auch bes.) {%eine aus drei bestehende Abtheilung, - Gruppe, Trias%} 
-<ls>MBH. 5, 1484. 12, 426.</ls> 
+<ls>WEBER, Nakṣ. 2, 283. fg.</ls> Häufig in comp. mit einem Zahlworte: {#त्रि°#} (s. auch bes.) {%eine aus drei bestehende Abtheilung, - Gruppe, Trias%} 
+<ls>MBH. 5, 1484.</ls> <ls n="MBH.">12, 426.</ls> 
 <ls>PAÑCAT. III, 243.</ls> <ls>DAŚAK. 63, 15. fg.</ls> <ls>BHĀG. P. 7, 5, 18.</ls> {#चतुर्वर्ग#} (s. auch bes.). 
 <ls>HIT. I, 8.</ls> {#पञ्च°#} (s. auch bes.) 
 <ls>Spr. 4902.</ls> 
@@ -49,7 +49,7 @@
 <ls>6, 8. 14, 7.</ls> <ls>VS. PRĀT. 1, 64.</ls> <ls n="VS. PRĀT.">3, 92.</ls> <ls n="VS. PRĀT. 3,">94.</ls> <ls n="VS. PRĀT.">4, 92.</ls> <ls>AV. PRĀT. 2, 14.</ls> <ls n="AV. PRĀT. 2,">38.</ls> <ls>VOP. 2, 25. fg.</ls> {#काद्या वर्गाः#} 
 <ls>VARĀH. BṚH. S. 96, 15.</ls> {#वर्गाष्टक#} (nach dem Comm. {#कचटतपयशलवर्गाणामष्टकम्#}) 
 <ls>WEBER, RĀMAT. UP. 308. fg.</ls> 
-<div n="2">— b) {%Alles was zu Jmdes Gebiet gehört, - unter Jmd steht%} (=  {#परिग्रह#}) 
+<div n="2">— b) {%Alles was zu Jmdes Gebiet gehört, - unter Jmd steht%} (= {#परिग्रह#}) 
 <ls>VARĀH. BṚH. S. 13, 7. 15, 22. 17, 7. 32, 12.</ls> {#क्षेत्रं यद्यस्य स तस्य वर्गः#} 
 <ls>BṚH. 1, 9. 8, 10. 23, 5.</ls> {#क्षेत्रं होराथ द्रेक्काणो नवांशो द्वादशांशकः । त्रिंशांशकश्च वर्गो ऽयं सर्वस्य स्व उदाहृतः ॥#} 
 <ls>GĀRGI</ls> im Comm. zu <ls>1, 9</ls>; vgl. 
@@ -67,7 +67,7 @@
 <div n="2">— e) = {#बल#} 
 <ls>NAIGH. 2, 9.</ls> 
 <div n="2">— f) N. pr. eines Landes 
-<ls>SCHIEFNER,</ls> <ls>Lebensb. 235 5</ls>). 
+<ls>SCHIEFNER, Lebensb. 235 5</ls>). 
 <div n="1">— 2) <lex>f.</lex> {#आ#} N. pr. einer <is>Apsaras</is> 
-<ls>MBH. 1, 7853. 2, 394.</ls>
+<ls>MBH. 1, 7853.</ls> <ls n="MBH.">2, 394.</ls>
 <LEND>

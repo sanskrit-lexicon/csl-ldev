@@ -1,17 +1,17 @@
 <L>14964<pc>457<k1>more<k2>more
-<div n="lb"/>{@MORE@}¦ (Adv.): <div n="I">I With adj.: </div><div n="1">(1) by comp.
-<div n="lb"/>degree, <div n="xe">{%m. beloved:%}</div> <div n="xs">{#प्रियतरः#}</div> ({#रा, रं#}), <ls>K.</ls> ;
-<div n="lb"/><div n="xe">{%m. tall:%}</div> <div n="xs">{#द्राघीयस्#}</div> (f. {#सी#}), Ki.; </div><div n="1">(2) {#अधिक#} in
-<div n="lb"/>comp., <div n="xe">{%m. beautiful:%}</div> <div n="xs">{#अधिकमनोज्ञः#}</div> ({#ज्ञा, ज्ञं#}),
-<div n="lb"/>Sa. </div><div n="I">II With verbs: </div><div n="1">(1) {#अधिकम्,#} <div n="xe">{%puts the%}
-<div n="lb"/>{%eye more:%}</div> <div n="xs">{#अधिकं चक्षुरारोपयति,#}</div> <ls>P.</ls> ; </div><div n="1">(2) {#अधिक-#}
-<div n="lb"/>{#तरम्#} (in comp.), <div n="xe">{%shines m. now:%}</div> <div n="xs">{#अधिकतरमिदानीं #}
-<div n="lb"/>{# राजते,#}</div> </div><div n="I">V Ph.: {%what can be m. distressing:%}
-<div n="lb"/>{#ततो दुःखतरं नु किम्,#} <ls>G.</ls> ; <div n="xe">{%what can be m. wonder-%}
-<div n="lb"/>{%ful:%}</div> <div n="xs">{#किमतः परमाश्चर्यम्,#}</div> <ls>K.</ls> ; <div n="xe">{%favoured her every%}
-<div n="lb"/>{%day m. and m.:%}</div> <div n="xs">{#अम्यधिकं प्रतिदिवसमस्याः प्रसाद-#}
-<div n="lb"/>{#मकरोत्,#}</div> <ls>K.</ls> : <div n="xe">{%increases m. and m.:%}</div> <div n="xs">{#उत्तरोत्तरं #}
-<div n="lb"/>{# वर्धते#}</div> (only of succession), <ls>H.</ls> ; <div n="xe">{%as said and%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#यथोक्तमभ्यधिकञ्च,#}</div> <ls>D.</ls> ; <div n="xe">{%no m.:%}</div> <div n="xs">{#न इतः परम्,#}</div> D.
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#न अतः परम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अत ऊर्ध्वम्,#}</div> A.r.</div>
+{@MORE@}¦ (Adv.): <div n="I">I With adj.: </div><div n="1">(1) by comp.
+degree, <div n="xe">{%m. beloved:%}</div> <div n="xs">{#प्रियतरः#}</div> ({#रा, रं#}), <ls>K.</ls> ;
+<div n="xe">{%m. tall:%}</div> <div n="xs">{#द्राघीयस्#}</div> (f. {#सी#}), Ki.; </div><div n="1">(2) {#अधिक#} in
+comp., <div n="xe">{%m. beautiful:%}</div> <div n="xs">{#अधिकमनोज्ञः#}</div> ({#ज्ञा, ज्ञं#}),
+Sa. </div><div n="I">II With verbs: </div><div n="1">(1) {#अधिकम्,#} <div n="xe">{%puts the%}
+{%eye more:%}</div> <div n="xs">{#अधिकं चक्षुरारोपयति,#}</div> <ls>P.</ls> ; </div><div n="1">(2) {#अधिक-#}
+{#तरम्#} (in comp.), <div n="xe">{%shines m. now:%}</div> <div n="xs">{#अधिकतरमिदानीं #}
+{# राजते,#}</div> </div><div n="I">V Ph.: {%what can be m. distressing:%}
+{#ततो दुःखतरं नु किम्,#} <ls>G.</ls> ; <div n="xe">{%what can be m. wonder-%}
+{%ful:%}</div> <div n="xs">{#किमतः परमाश्चर्यम्,#}</div> <ls>K.</ls> ; <div n="xe">{%favoured her every%}
+{%day m. and m.:%}</div> <div n="xs">{#अम्यधिकं प्रतिदिवसमस्याः प्रसाद-#}
+{#मकरोत्,#}</div> <ls>K.</ls> : <div n="xe">{%increases m. and m.:%}</div> <div n="xs">{#उत्तरोत्तरं #}
+{# वर्धते#}</div> (only of succession), <ls>H.</ls> ; <div n="xe">{%as said and%}
+{%m.:%}</div> <div n="xs">{#यथोक्तमभ्यधिकञ्च,#}</div> <ls>D.</ls> ; <div n="xe">{%no m.:%}</div> <div n="xs">{#न इतः परम्,#}</div> D.
+<div n="xe">{%or%}</div> <div n="xs">{#न अतः परम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अत ऊर्ध्वम्,#}</div> A.r.</div>
 <LEND>

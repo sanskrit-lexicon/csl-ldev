@@ -1,6 +1,6 @@
 <L>8462<pc>268<k1>fashion<k2>fashion
-<div n="lb"/>{@FASHION@}¦ (subs.): <div n="I">I Shape, make: q.v.:
-<div n="lb"/>{#गठनम्।#} </div><div n="I">II Prevailing custom: {#रीतिः#} (?), <div n="xe">{%this%}
-<div n="lb"/>{%is the new f.:%}</div> <div n="xs">{#*इयममिनवा रीतिः।#}</div> </div><div n="I">III Manner,
-<div n="lb"/>way: q.v.</div>
+{@FASHION@}¦ (subs.): <div n="I">I Shape, make: q.v.:
+{#गठनम्।#} </div><div n="I">II Prevailing custom: {#रीतिः#} (?), <div n="xe">{%this%}
+{%is the new f.:%}</div> <div n="xs">{#*इयममिनवा रीतिः।#}</div> </div><div n="I">III Manner,
+way: q.v.</div>
 <LEND>

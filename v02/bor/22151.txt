@@ -1,41 +1,41 @@
 <L>22151<pc>698<k1>take<k2>take
-<div n="lb"/>{@TAKE@}¦ (v. t.): <div n="I">I In general: </div><div n="1">(1) {#गृह्नाति#} ({#ग्रह,#}
-<div n="lb"/>c. 9.), <div n="xe">{%t. ing and looking:%}</div> <div n="xs">{#गृहीत्वा निरीक्ष्य,#}</div> Mu.
-<div n="lb"/>i.; <div n="xe">{%t. up arms:%}</div> <div n="xs">{#गृहाण शस्त्रम्,#}</div> R. iii. 51.; <div n="xe">{%t. n but%}
-<div n="lb"/>{%afterwards released:%}</div> <div n="xs">{#गृहीतप्रतिमुक्त#}</div> (f. {#क्ता#}), R.
-<div n="lb"/>iv. 43.; <div n="xe">{%he took the way of running pigs:%}</div> <div n="xs">{#जग्राह #}
-<div n="lb"/>{# स द्रुतवराहकुलस्य मार्गम्,#}</div> R. ix. 59.; {%did she t.%} ({%it%})
-<div n="lb"/><div n="xe">{%from the hinds:%}</div> <div n="xs">{#तया गृहीतं नु मृगाङ्गनाभ्यः,#}</div> Ku. i.
-<div n="lb"/>46.; <div n="xe">{%when he t. s your hand solemnly:%}</div> <div n="xs">{#अनेन #}
-<div n="lb"/>{# पाणौ विधिवद् गृहीते,#}</div> R. vi. 63.; <div n="xe">{%intending to t.%}
-<div n="lb"/>{%the arrow:%}</div> <div n="xs">{#शरं जिगृक्षुः,#}</div> Ki. xiii. 32.; <div n="xe">{%without t.%}
-<div n="lb"/>{%ing beetles:%}</div> <div n="xs">{#अगृहीतताम्बूल#}</div> (f. {#ला#}), C. v.; <div n="xe">{%took%}
-<div n="lb"/>{%a few mouthfuls:%}</div> <div n="xs">{#कतिचित् कवलान्यगृह्णात्,#}</div> C. v.;
-<div n="lb"/>{%rustics t.%} ({%it%}) <div n="xe">{%otherwise:%}</div> <div n="xs">{#अन्यथा गृह्णन्ति ग्राम्याः,#}</div>
-<div n="lb"/>C. vii.; <div n="xe">{%do not t. advice:%}</div> <div n="xs">{#न गृह्णन्त्युपदेशम्,#}</div> K.;
-<div n="lb"/><div n="xe">{%to t. all forms:%}</div> <div n="xs">{#विश्वरूपत्वं ग्रहीतुम्,#}</div> K.; <div n="xe">{%to t.%}
-<div n="lb"/>{%venerable men by service:%}</div> <div n="xs">{#ग्रहीतुमार्यान् परिचर्यया,#}</div>
-<div n="lb"/>Si. i. 17.; {%so long as Rākṣasa is not t.n:%}
-<div n="lb"/>{#अगृहीते राक्षसे,#} Mu. i.; <div n="xe">{%when they t.ing your%}
-<div n="lb"/>{%signs:%}</div> <div n="xs">{#तेषु गृहीतसंज्ञेषु,#}</div> Mu. i.; <div n="xe">{%are t.n as if by%}
-<div n="lb"/>{%evils stars:%}</div> <div n="xs">{#ग्रहैरिव गृह्यन्ते,#}</div> K.; {%t. the pride of%} [Page699]
-<div n="lb"/><div n="xe">{%killing a woman:%}</div> <div n="xs">{#गृहाण वधूवधपौरुषम्,#}</div> N. iv.
-<div n="lb"/>53.; {%His Majesty who has t.n his name well:%}
-<div n="lb"/>{#तस्य सुगृहीतनाम्नो देवस्य,#} C. vii.; </div><div n="1">(2) {#आदत्ते, सम्-,#}
-<div n="lb"/>({#दा,#} c. 3.: physically), <div n="xe">{%t.ing the girl by the%}
-<div n="lb"/>{%hand:%}</div> <div n="xs">{#कन्यामाददानः करेण,#}</div> Ku.; <div n="xe">{%for t. ing is for%}
-<div n="lb"/>{%spending:%}</div> <div n="xs">{#आदानं हि विसर्गाय,#}</div> R.: v. Also to
-<div n="lb"/>catch, hold, view, understand. </div><div n="I">II Special.
-<div n="lb"/>Ph.: <div n="xe">{%to t. food:%}</div> <div n="xs">{#आहारं करोति;#}</div> <div n="xe">{%t. rest:%}</div> <div n="xs">{#विश्रामं #}
-<div n="lb"/>{# करोति;#}</div> <div n="xe">{%t. aim at:%}</div> <div n="xs">{#लक्ष्यीकरोति;#}</div> <div n="xe">{%t. root:%}</div> <div n="xs">{#मूलं बध्नाति;#}</div>
-<div n="lb"/><div n="xe">{%t. compassion:%}</div> <div n="xs">{#दयां करोति;#}</div> <div n="xe">{%t. fire:%}</div> <div n="xs">{#अग्निमुपैति;#}</div> <div n="xe">{%t.%}
-<div n="lb"/>{%courage:%}</div> <div n="xs">{#समाश्वसिति;#}</div> <div n="xe">{%t. leave of:%}</div> <div n="xs">{#आमन्त्रयति;#}</div>
-<div n="lb"/><div n="xe">{%t. oath:%}</div> <div n="xs">{#शपथं करोति;#}</div> <div n="xe">{%t. pains:%}</div> <div n="xs">{#परिश्रमं करोति;#}</div> {%t.%}
-<div n="lb"/>{%place:%} v. To happen; <div n="xe">{%t. part:%}</div> <div n="xs">{#हस्तं ददाति;#}</div>
-<div n="lb"/><div n="xe">{%t. care of:%}</div> <div n="xs">{#रक्षति;#}</div> <div n="xe">{%t. effect:%}</div> <div n="xs">{#सफलीभवति;#}</div> <div n="xe">{%t.%}
-<div n="lb"/>{%wine etc.:%}</div> <div n="xs">{#मद्यं#}</div> etc. {#सेवते, नि-#} ({#सेव्,#} c. 1.),
-<div n="lb"/>Ni.; <div n="xe">{%time for t.ing medicines:%}</div> <div n="xs">{#भैषज्यसेवनकालः,#}</div>
-<div n="lb"/>Bha.; <div n="xe">{%it is time to t. bath and food:%}</div> <div n="xs">{#समयः #}
-<div n="lb"/>{# खलु स्नानभोजने सेवितुम्।#}</div> V. v. 11. </div><div n="I">III To
-<div n="lb"/>conduct, convey: q. v.: {#नयति#} ({#नी,#} c. 1.),</div>
+{@TAKE@}¦ (v. t.): <div n="I">I In general: </div><div n="1">(1) {#गृह्नाति#} ({#ग्रह,#}
+c. 9.), <div n="xe">{%t. ing and looking:%}</div> <div n="xs">{#गृहीत्वा निरीक्ष्य,#}</div> Mu.
+i.; <div n="xe">{%t. up arms:%}</div> <div n="xs">{#गृहाण शस्त्रम्,#}</div> R. iii. 51.; <div n="xe">{%t. n but%}
+{%afterwards released:%}</div> <div n="xs">{#गृहीतप्रतिमुक्त#}</div> (f. {#क्ता#}), R.
+iv. 43.; <div n="xe">{%he took the way of running pigs:%}</div> <div n="xs">{#जग्राह #}
+{# स द्रुतवराहकुलस्य मार्गम्,#}</div> R. ix. 59.; {%did she t.%} ({%it%})
+<div n="xe">{%from the hinds:%}</div> <div n="xs">{#तया गृहीतं नु मृगाङ्गनाभ्यः,#}</div> Ku. i.
+46.; <div n="xe">{%when he t. s your hand solemnly:%}</div> <div n="xs">{#अनेन #}
+{# पाणौ विधिवद् गृहीते,#}</div> R. vi. 63.; <div n="xe">{%intending to t.%}
+{%the arrow:%}</div> <div n="xs">{#शरं जिगृक्षुः,#}</div> Ki. xiii. 32.; <div n="xe">{%without t.%}
+{%ing beetles:%}</div> <div n="xs">{#अगृहीतताम्बूल#}</div> (f. {#ला#}), C. v.; <div n="xe">{%took%}
+{%a few mouthfuls:%}</div> <div n="xs">{#कतिचित् कवलान्यगृह्णात्,#}</div> C. v.;
+{%rustics t.%} ({%it%}) <div n="xe">{%otherwise:%}</div> <div n="xs">{#अन्यथा गृह्णन्ति ग्राम्याः,#}</div>
+C. vii.; <div n="xe">{%do not t. advice:%}</div> <div n="xs">{#न गृह्णन्त्युपदेशम्,#}</div> K.;
+<div n="xe">{%to t. all forms:%}</div> <div n="xs">{#विश्वरूपत्वं ग्रहीतुम्,#}</div> K.; <div n="xe">{%to t.%}
+{%venerable men by service:%}</div> <div n="xs">{#ग्रहीतुमार्यान् परिचर्यया,#}</div>
+Si. i. 17.; {%so long as Rākṣasa is not t.n:%}
+{#अगृहीते राक्षसे,#} Mu. i.; <div n="xe">{%when they t.ing your%}
+{%signs:%}</div> <div n="xs">{#तेषु गृहीतसंज्ञेषु,#}</div> Mu. i.; <div n="xe">{%are t.n as if by%}
+{%evils stars:%}</div> <div n="xs">{#ग्रहैरिव गृह्यन्ते,#}</div> K.; {%t. the pride of%} [Page699]
+<div n="xe">{%killing a woman:%}</div> <div n="xs">{#गृहाण वधूवधपौरुषम्,#}</div> N. iv.
+53.; {%His Majesty who has t.n his name well:%}
+{#तस्य सुगृहीतनाम्नो देवस्य,#} C. vii.; </div><div n="1">(2) {#आदत्ते, सम्-,#}
+({#दा,#} c. 3.: physically), <div n="xe">{%t.ing the girl by the%}
+{%hand:%}</div> <div n="xs">{#कन्यामाददानः करेण,#}</div> Ku.; <div n="xe">{%for t. ing is for%}
+{%spending:%}</div> <div n="xs">{#आदानं हि विसर्गाय,#}</div> R.: v. Also to
+catch, hold, view, understand. </div><div n="I">II Special.
+Ph.: <div n="xe">{%to t. food:%}</div> <div n="xs">{#आहारं करोति;#}</div> <div n="xe">{%t. rest:%}</div> <div n="xs">{#विश्रामं #}
+{# करोति;#}</div> <div n="xe">{%t. aim at:%}</div> <div n="xs">{#लक्ष्यीकरोति;#}</div> <div n="xe">{%t. root:%}</div> <div n="xs">{#मूलं बध्नाति;#}</div>
+<div n="xe">{%t. compassion:%}</div> <div n="xs">{#दयां करोति;#}</div> <div n="xe">{%t. fire:%}</div> <div n="xs">{#अग्निमुपैति;#}</div> <div n="xe">{%t.%}
+{%courage:%}</div> <div n="xs">{#समाश्वसिति;#}</div> <div n="xe">{%t. leave of:%}</div> <div n="xs">{#आमन्त्रयति;#}</div>
+<div n="xe">{%t. oath:%}</div> <div n="xs">{#शपथं करोति;#}</div> <div n="xe">{%t. pains:%}</div> <div n="xs">{#परिश्रमं करोति;#}</div> {%t.%}
+{%place:%} v. To happen; <div n="xe">{%t. part:%}</div> <div n="xs">{#हस्तं ददाति;#}</div>
+<div n="xe">{%t. care of:%}</div> <div n="xs">{#रक्षति;#}</div> <div n="xe">{%t. effect:%}</div> <div n="xs">{#सफलीभवति;#}</div> <div n="xe">{%t.%}
+{%wine etc.:%}</div> <div n="xs">{#मद्यं#}</div> etc. {#सेवते, नि-#} ({#सेव्,#} c. 1.),
+Ni.; <div n="xe">{%time for t.ing medicines:%}</div> <div n="xs">{#भैषज्यसेवनकालः,#}</div>
+Bha.; <div n="xe">{%it is time to t. bath and food:%}</div> <div n="xs">{#समयः #}
+{# खलु स्नानभोजने सेवितुम्।#}</div> V. v. 11. </div><div n="I">III To
+conduct, convey: q. v.: {#नयति#} ({#नी,#} c. 1.),</div>
 <LEND>

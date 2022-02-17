@@ -8,7 +8,7 @@
 <ls>VARĀH. BṚH. S. 104, 52.</ls> mit instr. 
 <ls>MBH. 14, 179.</ls> 
 <ls>R. 7, 3, 19. 35, 61.</ls> 
-<ls>Spr. (II) 3747. 4209.</ls> mit gen. 
+<ls>Spr. (II) 3747.</ls> <ls n="Spr. (II)">4209.</ls> mit gen. 
 <ls>HARIV. 1403.</ls> am Ende eines comp. 
 <ls>Spr. (II) 3068.</ls> 
 <ls>RĀJA-TAR. 4, 172.</ls> 
@@ -16,8 +16,8 @@
 <ls>RAGH. 9, 6.</ls> {#सर्वस्मिन्#} 
 <ls>M. 6, 44.</ls> {#स्वेषु पाण्डुसुतेषु वा#} 
 <ls>MBH. 5, 1531.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 58, 33.</ls> 
+
+<ls>R. GORR. 2, 58, 33.</ls> 
 <ls>KĀM. NĪTIS. 2, 29.</ls> {#शत्रुमित्रयोः#} 
 <ls>SĀH. D. 95.</ls> 
 <ls>PAÑCAR. 1, 12, 46.</ls> {#सर्वसमतामेत्य#} 
@@ -29,9 +29,9 @@
 <ls>M. 8, 178. 9, 218.</ls> {#यजन°#} 
 <ls>Spr. (II) 5827.</ls> {#वाक्यस्य#} 
 <ls>KĀVYĀD. 1, 41</ls> (vgl. 
-<ls>?47). SĀH. D. 621. PRATĀPAR. 68</ls>, {%a%}, 
-<ls>2.</ls> <ls>Verz. d. Oxf. H. 207</ls>, {%a%}, 
-<ls>27. 214</ls>, {%a%}, 15. 
+<ls>47).</ls> <ls>SĀH. D. 621.</ls> <ls>PRATĀPAR. 68,a,</ls> 
+<ls>2.</ls> <ls>Verz. d. Oxf. H. 207,a,</ls> 
+<ls>27. 214,a,15.</ls> 
 <div n="1">— 5) {%Mittelmässigkeit%} 
 <ls>Spr. (II) 7405.</ls> 
 <div n="1">— 6) {%ein wohlwollendes Benehmen%}: {#बन्धुर्वशः समतया#} 

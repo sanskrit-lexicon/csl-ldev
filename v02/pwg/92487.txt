@@ -3,8 +3,8 @@
 <ls>P. 3, 1, 134.</ls> 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}) {%schreckend, einschüchternd, Furcht erregend%} 
 <ls>ṚV. 5, 34, 6.</ls> {#राक्षस#} 
-<ls>MBH. 1, 5930. 6029. 6072.</ls> {#रूप#} 
-<ls>?6,4295.7,7903. HARIV. 13408. R. 6.1,30. Verz. d. Oxf. H. 10,b, N. 6. VET. in LA. (III) ad 30,5.</ls> {#भीरु°#} 
+<ls>MBH. 1, 5930.</ls> <ls n="MBH. 1,">6029.</ls> <ls n="MBH. 1,">6072.</ls> {#रूप#} 
+<ls n="MBH.">6, 4295.</ls> <ls n="MBH.">7, 7903.</ls> <ls>HARIV. 13408.</ls> <ls>R. 6.1,30.</ls> <ls>Verz. d. Oxf. H. 10,b, N. 6.</ls> <ls>VET. in LA. (III) ad 30,5.</ls> {#भीरु°#} 
 <ls>MBH. 7, 892.</ls> {#सु°#} 
 <ls>R. 3, 35, 25.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
@@ -12,7 +12,7 @@
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>AUSH. 36.</ls> 
 <div n="2">— b) N. pr. 
 <div n="3"> α) eines edlen <is>Rākṣasa</is>, Bruders des <is>Kubera</is> und <is>Rāvaṇa</is>, der von <is>Rāma</is> nach <is>Rāvaṇa's</is> Vertreibung als Beherrscher von <is>Laṅkā</is> eingesetzt wurde, 
-<ls>MBH.2,411.3,15896. fgg.</ls> <ls>HARIV. 10410.</ls> <ls>R.1,1,79.3,33.3,23,38.7,9,35.</ls> <ls>KĀM. NĪTIS.8,61.</ls> <ls>RAGH. 12,68. 104.</ls> <ls>KATHĀS. 45,144. fgg.</ls> <ls>WEBER, RĀMAT. UP. 299. fg. 302. 311.</ls> <ls>RĀJA-TAR.3,73.4,504.</ls> <ls>BHĀG. P.4,1,37.</ls> <ls>PAÑCAR.4,3,110.</ls> <ls>Verz. d. Oxf. H. 76,a,4.</ls> 
+<ls>MBH. 2, 411.</ls> <ls n="MBH.">3, 15896. fgg.</ls> <ls>HARIV. 10410.</ls> <ls>R. 1,1,79.3,33.3,23,38.7,9,35.</ls> <ls>KĀM. NĪTIS. 8,61.</ls> <ls>RAGH. 12,68. 104.</ls> <ls>KATHĀS. 45,144. fgg.</ls> <ls>WEBER, RĀMAT. UP. 299. fg. 302. 311.</ls> <ls>RĀJA-TAR. 3,73.4,504.</ls> <ls>BHĀG. P. 4,1,37.</ls> <ls>PAÑCAR. 4,3,110.</ls> <ls>Verz. d. Oxf. H. 76,a,4.</ls> 
 <div n="3">— β) zweier Fürsten von <is>Kāśmīra</is>: eines Sohnes des <is>Gonarda</is> 
 <ls>RĀJA-TAR. 1, 192.</ls> eines Sohnes des <is>Rāvaṇa</is> 
 <ls>196.fg.</ls> 

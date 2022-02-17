@@ -1,10 +1,10 @@
 <L>22227<pc>587-b<k1>persuasion<k2>persuasion
-<div n="lb"/>PERSUASION¦, {%s.%} (Act of influencing by good arguments to engage
-<div n="lb"/>in any action) {#सुहेतुवादेन कस्मिंश्चित् कर्म्मणि प्रवर्त्तनं#} or {#प्रयोजनं#}
-<div n="lb"/>or {#नियोजनं, प्रोत्साहः -हनं, प्ररोचना, परिभाषणं, अनुनयः, अनुनयनं,#}
-<div n="lb"/>{#प्रबोधः#}. — (Act of convincing) {#निश्चयकरणं, विश्वासकरणं, प्रत्यय-#}
-<div n="lb"/>{#करणं, सन्देहच्छेदः, संशयच्छेदः, शङ्कनिवृत्तिः#} {%f.,%} {#सन्देहनिवृत्तिः#}. — (Con-
-<div n="lb"/>viction, state of being convinced) {#दृढनिश्चयः, दृढविश्वासः,#}
-<div n="lb"/>{#दृढप्रत्ययः#}. — (Religious opinion or creed) {#मतं, मतिः#} {%f.,%} {#मार्गः#}
-<div n="lb"/>{#पन्थाः (पथिन्), सम्प्रदायः#}.
+PERSUASION¦, {%s.%} (Act of influencing by good arguments to engage
+in any action) {#सुहेतुवादेन कस्मिंश्चित् कर्म्मणि प्रवर्त्तनं#} or {#प्रयोजनं#}
+or {#नियोजनं, प्रोत्साहः -हनं, प्ररोचना, परिभाषणं, अनुनयः, अनुनयनं,#}
+{#प्रबोधः#}. — (Act of convincing) {#निश्चयकरणं, विश्वासकरणं, प्रत्यय-#}
+{#करणं, सन्देहच्छेदः, संशयच्छेदः, शङ्कनिवृत्तिः#} {%f.,%} {#सन्देहनिवृत्तिः#}. — (Con-
+viction, state of being convinced) {#दृढनिश्चयः, दृढविश्वासः,#}
+{#दृढप्रत्ययः#}. — (Religious opinion or creed) {#मतं, मतिः#} {%f.,%} {#मार्गः#}
+{#पन्थाः (पथिन्), सम्प्रदायः#}.
 <LEND>

@@ -14,7 +14,7 @@
 <ls>20, 121. 29, 86.</ls> <ls>MBH. 6, 1781.</ls> <ls>DEV. 6, 13.</ls> {#पाटितललाट#} 
 <ls>PAÑCAT. 217, 22.</ls> {#(भुजंगम्) मुखतः पाटयामास शस्त्रेण निशितेन#} 
 <ls>MBH. 3, 2389.</ls> {#पाट्यमानो वज्रेण गर्भः#} 
-<ls>HARIV. 249. 4316. fg.</ls> 
+<ls>HARIV. 249.</ls> <ls n="HARIV.">4316. fg.</ls> 
 <ls>R. 4, 8, 12.</ls> 
 <ls>RĀJA-TAR. 5, 2.</ls> 
 <ls>BHĀG. P. 6, 18, 62.</ls> {#पाटितजिह्व#} 
@@ -50,9 +50,9 @@
 <ls>RĀJA-TAR. 5, 432.</ls> {#पेटाम्#} so v. a. {%öffnen%} 
 <ls>PAÑCAT. 222, 5.</ls> pass. {%sich spalten%} 
 <ls>SUŚR. 2, 313, 9. 310, 5.</ls> — {%ausreissen, von seinem Platze fortreissen%}: {#उत्पाट्य दोर्भ्यां द्रुमम्#} 
-<ls>MBH. 1, 7076. 3, 11121. 12377.</ls> {#धार्तराष्ट्रं वनम्#} 
-<ls>4, 1983.</ls> <ls>HARIV. 6623. 6983. 7464.</ls> <ls>R. 6, 26, 48. 30, 20. 83, 53.</ls> <ls>RAGH. 15, 19.</ls> {#सकाननवनं गिरिम्#} 
-<ls>HARIV. 3920. 3923. 3925. 8997.</ls> 
+<ls>MBH. 1, 7076.</ls> <ls n="MBH.">3, 11121.</ls> <ls n="MBH. 3,">12377.</ls> {#धार्तराष्ट्रं वनम्#} 
+<ls>4, 1983.</ls> <ls>HARIV. 6623.</ls> <ls n="HARIV.">6983.</ls> <ls n="HARIV.">7464.</ls> <ls>R. 6, 26, 48. 30, 20. 83, 53.</ls> <ls>RAGH. 15, 19.</ls> {#सकाननवनं गिरिम्#} 
+<ls>HARIV. 3920.</ls> <ls n="HARIV.">3923.</ls> <ls n="HARIV.">3925.</ls> <ls n="HARIV.">8997.</ls> 
 <ls>R. 6, 32, 18. 83, 30.</ls> 
 <ls>KUMĀRAS. 2, 43.</ls> 
 <ls>BHĀG. P. 8, 6, 33.</ls> 
@@ -60,7 +60,7 @@
 <ls>HARIV. 6755.</ls> 
 <ls>RĀJA-TAR. 4, 327.</ls> {#स्वतेजसोत्पाटितलोकशल्यः#} 
 <ls>BHĀG. P. 4, 16, 27.</ls> {#कीलकम्#} 
-<ls>PAÑCAT. 10, 11</ls> <ls>?(ed. orn. 6, 6).</ls> {#केशान्#} 
+<ls>PAÑCAT. 10, 11</ls> (<ls>ed. orn. 6, 6).</ls> {#केशान्#} 
 <ls>R. 3, 57, 25.</ls> {#अक्षिणी#} 
 <ls>BHĀG. P. 5, 26, 35.</ls> 
 <ls>PAÑCAT. 72, 12.</ls> {#चकर्ष दोर्भ्यामुत्पाट्य भीमो मल्लम्#} {%von seinem Platze fortreissen%} 
@@ -71,7 +71,7 @@
 <ls>RĀJA-TAR. 1, 297.</ls> {#राज्यात्#} {%von der Herrschaft —, von der Regierung entfernen, entthronen%} 
 <ls>RĀJA-TAR. 5, 298.</ls> auch ohne {#राज्यात्#} dass. 
 <ls>4, 400. 5, 279. 291</ls> (vgl. {#उत्पाटन#} 
-<ls>?255. 292). Bei TROYER</ls> häufig {#ठ#} st. {#ट#} gedruckt. 
+<ls>255. 292).</ls> bei <ls>TROYER</ls> häufig {#ठ#} st. {#ट#} gedruckt. 
 <div n="v">— Vgl. {#उत्पट, उत्पल, उत्पाट#} fgg.
 
 <div n="p">— {#समुद्#} ({#पाटयति#}) {%ausreissen%}: {#शिंशपाम्#} 
@@ -87,13 +87,13 @@
 <ls>BHĀG. P. 2, 7, 16.</ls>
 
 <div n="p">— {#वि#} ({#पाटयति#}) {%zerspalten, zerreissen%}: {#कदलीस्तम्भम्#} 
-<ls>MBH. 12, 591. 8, 2885.</ls> {#केतकवर्हं नखाग्रैः#} 
+<ls>MBH. 12, 591.</ls> <ls n="MBH.">8, 2885.</ls> {#केतकवर्हं नखाग्रैः#} 
 <ls>RAGH. 6, 17.</ls> {#विपाटिताभ्यामोष्ठाभ्याम्#} 
 <ls>HARIV. 4310.</ls> {#उदरम्#} 
 <ls>KATHĀS. 26, 188. 218.</ls> {#गर्भम्#} 
 <ls>255.</ls> <ls>BHĀG. P. 8, 3, 33.</ls> {#माम्#} 
 <ls>4, 17, 21. 8, 11, 35.</ls> {#कुथाः#} 
-<ls>MBH. 6, 4392. 8, 755.</ls> {%ausreissen, entwurzeln%}: {#वात्यावेगविपाटितं विटपिनम्#} 
+<ls>MBH. 6, 4392.</ls> <ls n="MBH.">8, 755.</ls> {%ausreissen, entwurzeln%}: {#वात्यावेगविपाटितं विटपिनम्#} 
 <ls>RĀJA-TAR. 5, 477.</ls> {%zerreissen%} so v. a. {%vernichten, zerstören%}: {#सहस्रखण्डं स्वकृतं सूत्रम् - शौनकेन विपाटितम्#} 
 <ls>ṢAḌGURUŚIṢYA</ls> bei <ls>MÜLLER, SL. 238, 3.</ls> viell. {%aufschliessen%} in übertr. Bed.: {#विपाटितारिष्ट#} {%das Glück%} 
 <ls>RĀJA-TAR. 3, 482.</ls>

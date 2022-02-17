@@ -1,6 +1,6 @@
 <L>2407<pc>083<k1>boundary<k2>boundary
-<div n="lb"/>{@BOUNDARY:@}¦ {#सीमा#} (f.) <div n="xe">{%or%}</div> <div n="xs">{#सीमन्#}</div> (m.): <div n="xe">{%a dispute%}
-<div n="lb"/>{%about b. s%}</div> <div n="xs">{#सीमाविवादः;#}</div> <div n="xe">{%on the b. lines%}</div> <div n="xs">{#सीमा-#}
-<div n="lb"/>{#सन्धिषु;#}</div> <div n="xe">{%b. marks%}</div> <div n="xs">{#सीमालिङ्गानि,#}</div> M. viii. 6.
-<div n="lb"/>248. 249.
+{@BOUNDARY:@}¦ {#सीमा#} (f.) <div n="xe">{%or%}</div> <div n="xs">{#सीमन्#}</div> (m.): <div n="xe">{%a dispute%}
+{%about b. s%}</div> <div n="xs">{#सीमाविवादः;#}</div> <div n="xe">{%on the b. lines%}</div> <div n="xs">{#सीमा-#}
+{#सन्धिषु;#}</div> <div n="xe">{%b. marks%}</div> <div n="xs">{#सीमालिङ्गानि,#}</div> M. viii. 6.
+248. 249.
 <LEND>

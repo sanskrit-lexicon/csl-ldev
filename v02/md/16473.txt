@@ -1,11 +1,11 @@
 <L>16473<pc>280-3<k1>विगद<k2>विगद
 {#विगद#}¦vi-gadá, ¤1.¤ {%m.%} confused shouting 
-<>({%RV.¹%}); ¤2.¤ {@a,@} {%a.%} healthy; {@-gandha,@} {%a.%} ill-smelling; <lbinfo n="3"/>
-<> odourless; {@-gandhi,@} {%a.%} ill-smelling; <lbinfo n="9"/>
-<> {@-gama,@} {%m.%} departure, disappearance, 
-<>cessation; absence, lack; avoidance; {@-garh-@}
-<>{@-aṇa@}, {%n.,%} {@ā,@} {%f.%} censure, blame: {@-ṃ kṛ@}, blame; 
-<>{@-garhya,@} {%fp.%} censurable, blameworthy: {@-tā,@} 
-<>{%f.%} blame: {@-ṃ pra-yā@}, incur censure; {@-galita-@}
-<>{@-śuc@}, {%a.%} freed from sorrow.
+({%RV.¹%}); ¤2.¤ {@a,@} {%a.%} healthy; {@-gandha,@} {%a.%} ill-smelling; <lbinfo n="3"/>
+ odourless; {@-gandhi,@} {%a.%} ill-smelling; <lbinfo n="9"/>
+ {@-gama,@} {%m.%} departure, disappearance, 
+cessation; absence, lack; avoidance; {@-garh-@}
+{@-aṇa@}, {%n.,%} {@ā,@} {%f.%} censure, blame: {@-ṃ kṛ@}, blame; 
+{@-garhya,@} {%fp.%} censurable, blameworthy: {@-tā,@} 
+{%f.%} blame: {@-ṃ pra-yā@}, incur censure; {@-galita-@}
+{@-śuc@}, {%a.%} freed from sorrow.
 <LEND>

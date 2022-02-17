@@ -1,5 +1,5 @@
 <L>19681<pc>612<k1>sally<k2>sally
-<div n="lb"/>{@SALLY@}¦ (subs.): <div n="I">I Lit: </div><div n="1">(1) {#निष्पतनम्;#} </div><div n="1">(2)
-<div n="lb"/>{#प्रपातः।#} </div><div n="I">II Fig.: flight: </div><div n="1">(1) {#विलासः;#} </div><div n="1">(2)
-<div n="lb"/>{#विलसितम्।#}</div>
+{@SALLY@}¦ (subs.): <div n="I">I Lit: </div><div n="1">(1) {#निष्पतनम्;#} </div><div n="1">(2)
+{#प्रपातः।#} </div><div n="I">II Fig.: flight: </div><div n="1">(1) {#विलासः;#} </div><div n="1">(2)
+{#विलसितम्।#}</div>
 <LEND>

@@ -15,8 +15,8 @@ u.s.w. s. unter {#वि#} . {%müde —, überdrüssig werden; sich abmühen, s
 <ls>ṚV. 4, 12, 2.</ls> <ls n="ṚV.">1, 179, 1.</ls> <ls n="ṚV.">10, 105, 3.</ls> 
 <ls>ŚAT. BR. 1, 8, 1, 7. 10, 6, 5, 2.</ls> {#वृथा श्राम्यति#} 
 <ls>Spr. (II) 46.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 62, 11.</ls> {#पथि श्राम्यतां प्रोषितानाम्#} 
+
+<ls>R. GORR. 2, 62, 11.</ls> {#पथि श्राम्यतां प्रोषितानाम्#} 
 <ls>MEGH. 97.</ls> 
 <ls>RĀJA-TAR. 6, 46.</ls> {#वीरौ शश्रमतुर्न च#} 
 <ls>BHAṬṬ. 14, 110.</ls> {#नाश्रमद्घ्नन्प्लवंगमान्#} 
@@ -30,10 +30,10 @@ u.s.w. s. unter {#वि#} . {%müde —, überdrüssig werden; sich abmühen, s
 <ls>ŚĀṄKH. BR. 27, 6.</ls> 
 <ls>AIT. BR. 3, 47. 7, 15.</ls> 
 <ls>M. 9, 300.</ls> 
-<ls>MBH. 1, 1140. 5877. 3, 554. 2324. 2338. 2386. 2643. 13397.</ls> 
+<ls>MBH. 1, 1140.</ls> <ls n="MBH. 1,">5877.</ls> <ls n="MBH.">3, 554.</ls> <ls n="MBH. 3,">2324.</ls> <ls n="MBH. 3,">2338.</ls> <ls n="MBH. 3,">2386.</ls> <ls n="MBH. 3,">2643.</ls> <ls n="MBH. 3,">13397.</ls> 
 <ls>R. 2, 77, 20.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 74, 10.</ls> 
+
+<ls>R. GORR. 2, 74, 10.</ls> 
 <ls>VIKR. 67, 2.</ls> 
 <ls>Spr. 2976. (II) 5593. 5640.</ls> 
 <ls>VARĀH. BṚH. S. 68, 116.</ls> 
@@ -53,7 +53,7 @@ u.s.w. s. unter {#वि#} . {%müde —, überdrüssig werden; sich abmühen, s
 <ls>MĀRK. P. 61, 18.</ls> {#सु°#} 
 <ls>PAÑCAT. 134, 18.</ls> {#अश्रान्तः किमिदं करोषि#} 
 <ls>KATHĀS. 40, 17.</ls> {#अश्रान्तम्#} adv. {%unermüdlich, unverdrossen%} 
-<ls>Spr. (II) 2065. 3274.</ls> 
+<ls>Spr. (II) 2065.</ls> <ls n="Spr. (II)">3274.</ls> 
 <div n="2">— b) = {#शान्त#} {%zur Ruhe gelangt%} 
 <ls>H. 811.</ls> 
 <ls>HALĀY. 2, 244.</ls> 
@@ -82,7 +82,7 @@ v. l. für {#ग्रामयति#} ({#आमन्तणे#})
 <div n="p">— {#परि#} {%sich sehr abmühen%}: {#°श्रम्य#} absol. 
 <ls>R. 7, 23, 51.</ls> partic. {#°श्रान्त#} {%sehr ermüdet, erschöpft%} 
 <ls>M. 4, 99.</ls> 
-<ls>MBH. 1, 5908. 6035. 3, 2537. 10002.</ls> 
+<ls>MBH. 1, 5908.</ls> <ls n="MBH. 1,">6035.</ls> <ls n="MBH.">3, 2537.</ls> <ls n="MBH. 3,">10002.</ls> 
 <ls>R. 1, 9, 58 (57 GORR.). 2, 54, 34. 72, 9. 4, 9, 94. 35, 9.</ls> <ls>KĀM. NĪTIS. 13, 76.</ls> <ls>MĀLATĪM. 154, 10.</ls> <ls>KATHĀS. 12, 109. 123. 151.</ls> <ls>PAÑCAT. 137, 24.</ls> <ls>HIT. 85, 4.</ls> {#परिश्रान्तेन्द्रियात्मन्#} 
 <ls>BHĀG. P. 1, 6, 15.</ls> {#परिश्रान्तो ऽस्मि लोकस्य गुर्वी धर्मधुरं वहन्#} 
 <ls>R. 2, 2, 7.</ls> {#वृक्षसेचनात्#} 
@@ -93,7 +93,7 @@ v. l. für {#ग्रामयति#} ({#आमन्तणे#})
 <ls>PAÑCAR. 3, 12, 2.</ls> {#कूलपातपरिश्रान्तं प्रसुप्तमिव कुञ्जरम्#} 
 <ls>R. 2, 103, 4 (111, 11 GORR.).</ls> {#रणसंरम्भ°#} 
 <ls>RĀJA-TAR. 5, 334.</ls> {#क्षुत्पिपासा°#} 
-<ls>MBH. 1, 7626. 3, 2336. 4, 2139.</ls> 
+<ls>MBH. 1, 7626.</ls> <ls n="MBH.">3, 2336.</ls> <ls n="MBH.">4, 2139.</ls> 
 <ls>R. 3, 71, 3.</ls> 
 <ls>BHĀG. P. 4, 26, 11.</ls> {#शोक°#} 
 <ls>R. GORR. 2, 84, 18.</ls> {#भिक्षावलि°#} {%überdrüssig geworden%} 
@@ -121,17 +121,17 @@ u.s.w. <ls>MBH. 1, 5211.</ls> <ls>RAGH. 4, 74.</ls> <ls>KATHĀS. 12, 135. 13, 43
 <ls>Spr. 2852. (II) 4325. 5150.</ls> 
 <ls>KATHĀS. 19, 103. 26, 131.</ls> {#विश्राम्य#} (in beiden Ausgg.) 
 <ls>MBH. 15, 771.</ls> impers. {#विश्रम्यताम्#} 
-<ls>Spr. (II) 3963 </ls> (v. l. {#विश्रा°#}). 
+<ls>Spr. (II) 3963</ls> (v. l. {#विश्रा°#}). 
 <ls>KATHĀS. 10, 164. 33, 123.</ls> 
 <ls>BHĀG. P. 10, 88, 29.</ls> {#विश्राम्यताम्#} 
 <ls>MBH. 3, 2881.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 65, 9.</ls> 
+
+<ls>R. GORR. 1, 65, 9.</ls> 
 <ls>Spr. (II) 379.</ls> 
 <ls>KATHĀS. 52, 192.</ls> {#व्यश्रमि#} und {#व्यश्रामि#} 
 <ls>VOP. 11, 7. 24, 6.</ls> {#विश्रान्त#} {%ausgeruht%} 
 <ls>M. 7, 151.</ls> 
-<ls>MBH. 1, 6. 2, 2028. 3, 2721. 2761. 16814. 5, 6039.</ls> 
+<ls>MBH. 1, 6.</ls> <ls n="MBH.">2, 2028.</ls> <ls n="MBH.">3, 2721.</ls> <ls n="MBH. 3,">2761.</ls> <ls n="MBH. 3,">16814.</ls> <ls n="MBH.">5, 6039.</ls> 
 <ls>HARIV. 9700.</ls> 
 <ls>R. 2, 83, 23 (90, 36 GORR.).</ls> <ls>MEGH. 27.</ls> <ls>ŚĀK. 22, 17.</ls> <ls>VIKR. 18, 113.</ls> <ls>DAŚAK. 59, 6.</ls> <ls>BHĀG. P. 1, 13, 6.</ls> <ls>HIT. 77, 1. 99, 5.</ls> {#नभोऽध्वखेद°#} {%erholt von%} 
 <ls>KATHĀS. 25, 207.</ls> st. des verbum finitum 
@@ -175,7 +175,7 @@ v. l.) {#कुलम्#}
 <ls>KATHĀS. 118, 117. 120, 94. 133.</ls> 
 <ls>DAŚAK. 137, 19.</ls> 
 <ls>BHĀG. P. 3, 4, 10. 10, 15, 14.</ls> mit langem 
-<ls>MBH. 3, 11004. 5, 177.</ls> 
+<ls>MBH. 3, 11004.</ls> <ls n="MBH.">5, 177.</ls> 
 <ls>RAGH. ed. Calc. 1, 55.</ls> <ls>KATHĀS. 52, 107. 123, 151.</ls> 
 <div n="1">— 2) {%Etwas zur Ruhe bringen, einem Dinge ein Ende machen%}: {#रथोद्धतम् । रजो विश्रामयन्राज्ञां छत्त्रशून्येषु मौलिषु#} 
 <ls>RAGH. 4, 85.</ls> {#विश्रमितश्रमशीकर#} 
@@ -185,7 +185,7 @@ v. l.) {#कुलम्#}
 <ls>HARIV. 8685.</ls>
 
 <div n="p">— {#सम्#}, partic. {#संश्रान्त#} {%ermüdet, erschöpft%} 
-<ls>MBH. 1, 1017. 6, 3274.</ls> 
+<ls>MBH. 1, 1017.</ls> <ls n="MBH.">6, 3274.</ls> 
 <ls>BHĀG. P. 10, 52, 10.</ls> {#अ°#} {%unermüdlich%} 
 <ls>SUŚR. 2, 244, 3.</ls>
 <LEND>

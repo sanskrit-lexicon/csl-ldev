@@ -1,4 +1,4 @@
 <L>16979<pc>520<k1>physic<k2>physic
-<div n="lb"/>{@PHYSIC:@}¦ <div n="I">I Medicine: q. v.: {#चिकित्सा।#} </div><div n="I">II
-<div n="lb"/>Purgative: q. v.: {#रेचकम्।#}</div>
+{@PHYSIC:@}¦ <div n="I">I Medicine: q. v.: {#चिकित्सा।#} </div><div n="I">II
+Purgative: q. v.: {#रेचकम्।#}</div>
 <LEND>

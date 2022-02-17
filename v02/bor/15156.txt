@@ -1,9 +1,9 @@
 <L>15156<pc>463<k1>must<k2>must
-<div n="lb"/>{@MUST@}¦ (v.): <div n="1">(1) {#अवश्यम्#} with future pass. part,
-<div n="lb"/>{%if%} ({%you%}) <div n="xe">{%m. go:%}</div> <div n="xs">{#अवश्यं यदि गन्तव्यम्,#}</div> <ls>P.</ls> ; {%you%}
-<div n="lb"/>{%m. tell%} ({%me%}) <div n="xe">{%the reason:%}</div> <div n="xs">{#त्वयावश्यं कारणं वक्तव्यम्,#}</div>
-<div n="lb"/>Vet.; <div n="xe">{%what m. come to pass:%}</div> <div n="xs">{#अवश्यभव्यः#}</div> ({#व्या, #}
-<div n="lb"/>{# व्यं#}), N.; </div><div n="1">(2) {#नियमेन#} (rare) with same cons.,
-<div n="lb"/>{%I m. kill%} ({%him%}): {#नियमेन मया निवर्हणीयः,#} Ki.: v.
-<div n="lb"/>Also should.</div>
+{@MUST@}¦ (v.): <div n="1">(1) {#अवश्यम्#} with future pass. part,
+{%if%} ({%you%}) <div n="xe">{%m. go:%}</div> <div n="xs">{#अवश्यं यदि गन्तव्यम्,#}</div> <ls>P.</ls> ; {%you%}
+{%m. tell%} ({%me%}) <div n="xe">{%the reason:%}</div> <div n="xs">{#त्वयावश्यं कारणं वक्तव्यम्,#}</div>
+Vet.; <div n="xe">{%what m. come to pass:%}</div> <div n="xs">{#अवश्यभव्यः#}</div> ({#व्या, #}
+{# व्यं#}), N.; </div><div n="1">(2) {#नियमेन#} (rare) with same cons.,
+{%I m. kill%} ({%him%}): {#नियमेन मया निवर्हणीयः,#} Ki.: v.
+Also should.</div>
 <LEND>

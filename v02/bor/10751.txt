@@ -1,6 +1,6 @@
 <L>10751<pc>338<k1>healing<k2>healing
-<div n="lb"/>{@HEALING@}¦ (subs.): <div n="1">(1) {#शमः#} <div n="xe">{%or%}</div> <div n="xs">{#शान्तिः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उपशामः;#}</div></div>
-<div n="lb"/><div n="1">(2) {#प्रति(ती)कारः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रतिक्रिया#}</div> (= remedying), {%for%} [Page339] {%%}
-<div n="lb"/>{%h. disease:%} {#प्रतीकाराय रोगाणाम्,#} Bha.; </div><div n="1">(3) {#नाशः#}
-<div n="lb"/>etc. (= destruction), {#जनव्याधिविध्वंसनाय,#} Bha.</div>
+{@HEALING@}¦ (subs.): <div n="1">(1) {#शमः#} <div n="xe">{%or%}</div> <div n="xs">{#शान्तिः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उपशामः;#}</div></div>
+<div n="1">(2) {#प्रति(ती)कारः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रतिक्रिया#}</div> (= remedying), {%for%} [Page339] {%%}
+{%h. disease:%} {#प्रतीकाराय रोगाणाम्,#} Bha.; </div><div n="1">(3) {#नाशः#}
+etc. (= destruction), {#जनव्याधिविध्वंसनाय,#} Bha.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>133034<pc>670,1<k1>प्रतिवद्<k2>प्रति-वद्<e>1
-<s>प्रति-√ वद्</s> ¦ <ab>P.</ab> <s>-वदति</s>, to speak to (acc), <ls>RV.</ls>; <ls>Kauś.</ls>;
+<s>प्रति-√ वद्</s> ¦ <ab>P.</ab> <s>-वदति</s>, to speak to (<ab>acc.</ab>), <ls>RV.</ls>; <ls>Kauś.</ls>;
 <div n="to"/>to speak back, answer, reply to (<ab>acc.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to repeat, <ls>KaṭhUp.</ls>; <ls>MBh.</ls> :
 <div n="vp"/><ab>Intens.</ab> <ab>p.</ab> <s>-वावदत्</s> (<lex type="part">mfn.</lex>) contradicting, <ls>AitBr.</ls><info verb="pre" cp="P" parse="prati+vad"/>

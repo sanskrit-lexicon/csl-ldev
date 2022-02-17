@@ -1,6 +1,6 @@
 <L>138<pc>006<k1>acclamation<k2>acclamation
-<div n="lb"/>{@ACCLAMATION:@}¦ <div n="1">(1) {#प्रशंसावाचः;#} <div n="xe">{%with various%}
-<div n="lb"/>{%a s of the spectators%}</div> <div n="xs">{#रङ्गगतस्य जनस्यौच्चावचाः #}
-<div n="lb"/>{# प्रशंसावाचः, प्रतिगृह्णन्ती,#}</div> <ls>D.</ls> vi.; </div><div n="1">(2) {#साधुवादः,#} Si.
-<div n="lb"/>xiv. 47.</div>
+{@ACCLAMATION:@}¦ <div n="1">(1) {#प्रशंसावाचः;#} <div n="xe">{%with various%}
+{%a s of the spectators%}</div> <div n="xs">{#रङ्गगतस्य जनस्यौच्चावचाः #}
+{# प्रशंसावाचः, प्रतिगृह्णन्ती,#}</div> <ls>D.</ls> vi.; </div><div n="1">(2) {#साधुवादः,#} Si.
+xiv. 47.</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>760<pc>202-a<k1>मन्त्रपर्वन्<k2>मन्त्रपर्वन्
 {@Mantraparvan@}¦ nt.: Name of the 21st
-<div n="lb">{%parvan%} in the list of a hundred sub-{%parvans%}
-<div n="lb">of the Bhārata supposed to have been made
-<div n="lb">by Vyāsa in the Parvasaṃgraha 1. 2. 39,
-<div n="lb">33, 70.
+{%parvan%} in the list of a hundred sub-{%parvans%}
+of the Bhārata supposed to have been made
+by Vyāsa in the Parvasaṃgraha 1. 2. 39,
+33, 70.
 <div n="P">Referred to as ‘the beginning of the
-<div n="lb">Rājasūya’ ({%rājasūyasya cārambhaḥ%}) while
-<div n="lb">listing the contents of the Sabhāparvan 1. 2.
-<div n="lb">98; comprises the {%adhyāyas%} 2. 12-17.
+Rājasūya’ ({%rājasūyasya cārambhaḥ%}) while
+listing the contents of the Sabhāparvan 1. 2.
+98; comprises the {%adhyāyas%} 2. 12-17.
 <LEND>

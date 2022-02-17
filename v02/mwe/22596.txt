@@ -1,5 +1,5 @@
 <L>22596<pc>597-b<k1>plane<k2>plane
-<div n="lb"/>PLANE¦, {%s.%} (In geometry, a level, surface) {#समं, समतलं, समपृष्ठं,#}
-<div n="lb"/>{#पाटः, तलं;#} ‘a plane figure,’ {#क्षेत्रं#}. — (The tool) {#तक्षणी, त्वक्षणी,#}
-<div n="lb"/>{#तक्षणयन्त्रं#}.
+PLANE¦, {%s.%} (In geometry, a level, surface) {#समं, समतलं, समपृष्ठं,#}
+{#पाटः, तलं;#} ‘a plane figure,’ {#क्षेत्रं#}. — (The tool) {#तक्षणी, त्वक्षणी,#}
+{#तक्षणयन्त्रं#}.
 <LEND>

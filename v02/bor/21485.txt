@@ -1,6 +1,6 @@
 <L>21485<pc>676<k1>still<k2>still
-<div n="lb"/>{@STILL@}¦ (adv.): <div n="I">I As yet: {#अद्यापि।#} </div><div n="I">II Yet,
-<div n="lb"/>nevertheless: q. v.: {#तथापि।#} </div><div n="I">III With com-
-<div n="lb"/>-paratives: expr. with {#यावत्॥।तावत्।#} Ph.: <div n="xe">{%s.%}
-<div n="lb"/>{%and anon:%}</div> <div n="xs">{#यदा तदा।#}</div></div>
+{@STILL@}¦ (adv.): <div n="I">I As yet: {#अद्यापि।#} </div><div n="I">II Yet,
+nevertheless: q. v.: {#तथापि।#} </div><div n="I">III With com-
+-paratives: expr. with {#यावत्॥।तावत्।#} Ph.: <div n="xe">{%s.%}
+{%and anon:%}</div> <div n="xs">{#यदा तदा।#}</div></div>
 <LEND>

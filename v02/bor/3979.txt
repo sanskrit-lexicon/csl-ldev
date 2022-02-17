@@ -1,5 +1,5 @@
 <L>3979<pc>129<k1>coin<k2>coin
-<div n="lb"/>{@COIN@}¦ (subs.): <div n="1">(1) {#मुद्रा,#} <div n="xe">{%copper -c.:%}</div> <div n="xs">{#ताम्रमुद्रा;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#नाणकम्#} (rare), Mr. {%To pay any one in his own c.%}
-<div n="lb"/>{#*सदृशशोधं ददाति।#}</div>
+{@COIN@}¦ (subs.): <div n="1">(1) {#मुद्रा,#} <div n="xe">{%copper -c.:%}</div> <div n="xs">{#ताम्रमुद्रा;#}</div> </div><div n="1">(2)
+{#नाणकम्#} (rare), Mr. {%To pay any one in his own c.%}
+{#*सदृशशोधं ददाति।#}</div>
 <LEND>

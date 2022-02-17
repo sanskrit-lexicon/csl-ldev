@@ -1,6 +1,6 @@
 <L>6335<pc>203<k1>discover<k2>discover
-<div n="lb"/>{@DISCOVER:@}¦ <div n="I">I To reveal, shew: q. v.: {#प्रकाशयति#}
-<div n="lb"/>(nomi.). </div><div n="I">II To find out: prob. {#प्रकाशयति; #}
-<div n="lb"/>{# आविष्करोति#} (used in Bengali), {%d. ed America:%}
-<div n="lb"/>{#*आमेरिकामाविश्चकार।#}</div>
+{@DISCOVER:@}¦ <div n="I">I To reveal, shew: q. v.: {#प्रकाशयति#}
+(nomi.). </div><div n="I">II To find out: prob. {#प्रकाशयति; #}
+{# आविष्करोति#} (used in Bengali), {%d. ed America:%}
+{#*आमेरिकामाविश्चकार।#}</div>
 <LEND>

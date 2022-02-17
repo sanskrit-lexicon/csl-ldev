@@ -1,4 +1,4 @@
 <L>6279<pc>201<k1>disbursement<k2>disbursement
-<div n="lb"/>{@DISBURSEMENT:@}¦ {#व्ययः:#} v. Expenditure, pay-
-<div n="lb"/>-ment.
+{@DISBURSEMENT:@}¦ {#व्ययः:#} v. Expenditure, pay-
+-ment.
 <LEND>

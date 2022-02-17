@@ -9,9 +9,9 @@
 <ls>P. 2, 1, 56. 3, 26.</ls> 
 <div n="1">— 3) {%das Werfen, Abschiessen%} (eines Geschosses) 
 <ls>ARJ. 5, 6.</ls> 
-<ls>MBH. 1, 5131. 5224. 5306. 3, 12310.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 24, 18. 31, 11.</ls> 
+<ls>MBH. 1, 5131.</ls> <ls n="MBH. 1,">5224.</ls> <ls n="MBH. 1,">5306.</ls> <ls n="MBH.">3, 12310.</ls> 
+
+<ls>R. GORR. 1, 24, 18. 31, 11.</ls> 
 <ls>RAGH. 2, 42. 5, 57.</ls> 
 <ls>MĀRK. P. 132, 9.</ls> 
 <div n="1">— 4) {%das Darbringen%}: {#अन्नपानप्रयोगैः#} 
@@ -33,7 +33,7 @@
 <ls>2, 10, 47.</ls> {#अल्प°#} 
 <ls>NIR. 1, 14. 2, 13.</ls> 
 <ls>JAIM. 1, 14.</ls> 
-<ls>KAṆ. 10, 2, 8.</ls> <ls>MBH. 1, 5342. 3, 10295.</ls> <ls>HARIV. 14211.</ls> <ls>P. 8, 1, 15.</ls> <ls>Spr. 2027.</ls> <ls>SŪRYAS. 13, 22.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> <ls>BHĀG. P. 7, 7, 36.</ls> <ls>AK. 3, 4, 32 (28), 6. 6, 8, 46.</ls> <ls>SĀH. D. 3, 15. 9.</ls> <ls>Schol.</ls> zu <ls>P. 1, 1, 9. 3, 1, 82.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 6, 1, 150.</ls> <ls>TRIK.</ls> am Schluss. <ls>HALĀY. 4, 9. 5, 79. 80.</ls> <ls>VOP. 26, 219.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 16, 7. 18, 1. fgg. 21, 14.</ls> <ls>Verz. d. B. H. No. 966.</ls> {#एषो ऽस्मि भोः कार्यवशात्प्रयोगवशाच्च प्राकृतभाषी संवृत्तः#} 
+<ls>KAṆ. 10, 2, 8.</ls> <ls>MBH. 1, 5342.</ls> <ls n="MBH.">3, 10295.</ls> <ls>HARIV. 14211.</ls> <ls>P. 8, 1, 15.</ls> <ls>Spr. 2027.</ls> <ls>SŪRYAS. 13, 22.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> <ls>BHĀG. P. 7, 7, 36.</ls> <ls>AK. 3, 4, 32 (28), 6. 6, 8, 46.</ls> <ls>SĀH. D. 3, 15. 9.</ls> <ls>Schol.</ls> zu <ls>P. 1, 1, 9. 3, 1, 82.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 6, 1, 150.</ls> <ls>TRIK.</ls> am Schluss. <ls>HALĀY. 4, 9. 5, 79. 80.</ls> <ls>VOP. 26, 219.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 16, 7. 18, 1. fgg. 21, 14.</ls> <ls>Verz. d. B. H. No. 966.</ls> {#एषो ऽस्मि भोः कार्यवशात्प्रयोगवशाच्च प्राकृतभाषी संवृत्तः#} 
 <ls>MṚCCH. 2, 14.</ls> {#°निपुण#} 
 <ls>Spr. 440.</ls> {#°ज्ञ#} 
 <ls>SUŚR. 1, 28, 16.</ls> {#वैनतेयप्रयोगेण#} so v. a. {%vermittelst%} 
@@ -42,7 +42,7 @@
 <ls>KATHĀS. 29, 38.</ls> {#सम्यक्प्रयोग#} {%richtige Anwendung%} 
 <ls>KUMĀRAS. 1, 22.</ls> {#सम्यक्प्रयोगेण#} {%durch Anwendung richtiger Mittel%} 
 <ls>MBH. 2, 646.</ls> {#प्रयोगैः#} {%durch Mittel%} 
-<ls>MBH. 1, 5793.</ls> Häufig von der {%Anwendung von Heil- und Zaubermitteln%} (=  {#कार्मण, कर्मन्#} 
+<ls>MBH. 1, 5793.</ls> Häufig von der {%Anwendung von Heil- und Zaubermitteln%} (= {#कार्मण, कर्मन्#} 
 <ls>H. an.</ls> <ls>MED.</ls>): {#मूत्रप्रयोगसाध्येषु गव्यं मूत्रं प्रयोजयेत्#} 
 <ls>SUŚR. 1, 193, 15.</ls> 
 <ls>VARĀH. BṚH. S. 74, 6.</ls> {#रसायनप्रयोगैः#} 

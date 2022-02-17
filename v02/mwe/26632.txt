@@ -1,45 +1,45 @@
 <L>26632<pc>726-b<k1>sense<k2>sense
-<div n="lb"/>SENSE¦, {%s.%} (Organ of perception or sense) {#इन्द्रियं, ज्ञानेन्द्रियं,#}
-<div n="lb"/>{#ज्ञानसाधनं, इन्द्रियबुद्धिः#} {%f.,%} {#इन्द्रियज्ञानं, करणं, हृषीकं, अक्षं, अध्यात्म#} {%n.%}
-<div n="lb"/>{#(न्), विषयि#} {%n.%} ({#न्#}); ‘the five senses or organs collectively,’
-<div n="lb"/>{#पञ्चेन्द्रियं, इन्द्रियग्रामः, इन्द्रियवर्गः, इन्द्रियगणः, श्रोत्रादि#} {%n.%} These
-<div n="lb"/>are the eye {#चक्षुस्,#} the ear {#श्रोत्रं,#} the nose {#घ्राणं,#} the tongue
-<div n="lb"/>{#जिह्वा,#} the skin {#त्वक्,#} and are called {#ज्ञानेन्द्रियाणि#} to dis-
-<div n="lb"/>tinguish them from the five {#कर्म्मेन्द्रियाणि#} or organs of
-<div n="lb"/>action; {%see%} ORGAN. To these ten an eleventh, the mind
-<div n="lb"/>{#मनस्,#} is sometimes added. ‘Subjugation or restraint of
-<div n="lb"/>the senses,’ {#इन्द्रियजयः, इन्द्रियदमनं, इन्द्रियनिग्रहः, इन्द्रिययमनं,#}
-<div n="lb"/>{#इन्द्रियनियमनं;#} ‘one who has subdued his senses,’ {#जितेन्द्रियः#}
-<div n="lb"/>{#-या -यं, यतेन्द्रियः#} &c., {#यती#} {%m.%} ({#न्#}); ‘perceptible by the
-<div n="lb"/>senses,’ {#इन्द्रियग्राह्यः -ह्या -ह्यं, इन्द्रियगोचरः -रा -रं;#} ‘by two
-<div n="lb"/>senses,’ {#द्वीन्द्रियग्राह्यः#} &c.; ‘evident to the senses,’ {#प्रत्यक्षः#}
-<div n="lb"/>{#-क्षा -क्षं, प्रत्यक्षसिद्धः -द्धा -द्धं;#} ‘deadness of the senses,’ {#इन्द्रिय-#}
-<div n="lb"/>{#स्वापः;#} ‘pleasure of sense,’ {#इन्द्रियसुखं, विषयसुखं;#} ‘perversion
-<div n="lb"/>of the senses,’ {#इन्द्रियविप्रतिपत्तिः#} {%f.;%} ‘disorder of them,’
-<div n="lb"/>{#इन्द्रियवैकल्यं;#} ‘acuteness of them,’ {#इन्द्रियपाटवं;#} ‘wanting
-<div n="lb"/>a sense,’ {#विकलेन्द्रियः -या -यं, निरिन्द्रियः#} &c. — (Object of sense)
-<div n="lb"/>{#विषयः, इन्द्रियविषयः, इन्द्रियार्थः, अर्थः, गोचरः#}. These are five,
-<div n="lb"/>corresponding to the five senses or organs of perception,
-<div n="lb"/>viz. ‘form’ {#रूपं,#} ‘sound’ {#शब्दः,#} ‘odour’ {#गन्धः,#} ‘flavour’
-<div n="lb"/>{#रसः,#} ‘touch’ {#स्पर्शः#}. — (Perception by the senses, sensation)
-<div n="lb"/>{#वेदनं -ना, संवेदः -दनं, बोधः -धनं, इन्द्रियज्ञानं, इन्द्रियबोधः -धनं,#}
-<div n="lb"/>{#इन्द्रियग्रहः -हणं, ग्रहणं, चेतना#}. — (Perception by the mind, &c.)
-<div n="lb"/>{#बोधः, वेदनं, ज्ञानं, अनुबोधः, उपलब्धिः#} {%f.,%} {#ग्रहः -हणं,#} {%see%} PERCEP-
-<div n="lb"/>TION. — (Understanding) {#बुद्धिः#} {%f.,%} {#मतिः#} {%f.,%} {#धीः#} {%f.,%} {#मेधा, चित्#}. — 
-<div n="lb"/>(Consciousness) {#चैतन्यं, चेतना, वेदनं, ज्ञानं, संज्ञा;#} ‘internal
-<div n="lb"/>sense,’ {#अन्तश्चैतन्यं, अन्तःसंज्ञा;#} ‘sense of pleasure,’ {#सुखवेदनं,#}
-<div n="lb"/>{#सुखानुभवः, सुखबोधः;#} ‘to recover one's senses,’ {#संज्ञां#} or {#चैतन्यं#}
-<div n="lb"/>{#लभ्;#} ‘one who has done so,’ {#लब्धसंज्ञः -ज्ञा -ज्ञं, लब्धचैतन्यः -न्या#}
-<div n="lb"/>{#-न्यं, लब्धचेताः -ताः -तः (स्);#} ‘to lose one's senses, be out of
-<div n="lb"/>one's senses,’ {#बुद्धिभष्टः -ष्टा -ष्टं भू, नष्टबुद्धिः -द्धिः -द्धि भू, हतबुद्धिः#}
-<div n="lb"/>{#-द्धिः -द्धि भू, नष्ठज्ञानः -ना -नं भू, हतज्ञानः -ना -नं भू, नष्टेन्द्रियः -या#}
-<div n="lb"/>[Page727-a+ 51]
-<div n="lb"/>{#-यं भू#}. — (Opinion) {#मतं, मतिः#} {%f.,%} {#बुद्धिः#} {%f.%} — (Meaning) {#अर्थः,#}
-<div n="lb"/>{#अभिप्रायः, आकांक्षा, आशयः, उद्देशः, विवक्षितं, विवक्षा, विषयः,#}
-<div n="lb"/>{#छन्दस्;#} ‘sense of words,’ {#शब्दानुशासनं, पदार्थः, भावार्थः, शक्तिः#} {%f.,%}
-<div n="lb"/>{#विग्रहः;#} ‘second sense,’ {#अर्थान्तरं;#} ‘tenor of the sense,’ {#अर्था-#}
-<div n="lb"/>{#नुसन्धानं;#} ‘according to the sense,’ {#अर्थतस्;#} ‘apprehension
-<div n="lb"/>of the literal sense,’ {#शाब्दबोधः#}. — (Common sense) {#सामा-#}
-<div n="lb"/>{#न्यबुद्धिः#} {%f.,%} {#साधारणबुद्धिः#} {%f.,%} {#साधारणधीः#} {%f.%} — (Good sense) {#सद्युक्तिः#} {%f.,%}
-<div n="lb"/>{#सुसम्बद्धं, सुसम्बद्धवाक्यं, सुबुद्धिः#} {%f.,%} {#सुधीः#} {%f., see%} INTELLIGENCE.
+SENSE¦, {%s.%} (Organ of perception or sense) {#इन्द्रियं, ज्ञानेन्द्रियं,#}
+{#ज्ञानसाधनं, इन्द्रियबुद्धिः#} {%f.,%} {#इन्द्रियज्ञानं, करणं, हृषीकं, अक्षं, अध्यात्म#} {%n.%}
+{#(न्), विषयि#} {%n.%} ({#न्#}); ‘the five senses or organs collectively,’
+{#पञ्चेन्द्रियं, इन्द्रियग्रामः, इन्द्रियवर्गः, इन्द्रियगणः, श्रोत्रादि#} {%n.%} These
+are the eye {#चक्षुस्,#} the ear {#श्रोत्रं,#} the nose {#घ्राणं,#} the tongue
+{#जिह्वा,#} the skin {#त्वक्,#} and are called {#ज्ञानेन्द्रियाणि#} to dis-
+tinguish them from the five {#कर्म्मेन्द्रियाणि#} or organs of
+action; {%see%} ORGAN. To these ten an eleventh, the mind
+{#मनस्,#} is sometimes added. ‘Subjugation or restraint of
+the senses,’ {#इन्द्रियजयः, इन्द्रियदमनं, इन्द्रियनिग्रहः, इन्द्रिययमनं,#}
+{#इन्द्रियनियमनं;#} ‘one who has subdued his senses,’ {#जितेन्द्रियः#}
+{#-या -यं, यतेन्द्रियः#} &c., {#यती#} {%m.%} ({#न्#}); ‘perceptible by the
+senses,’ {#इन्द्रियग्राह्यः -ह्या -ह्यं, इन्द्रियगोचरः -रा -रं;#} ‘by two
+senses,’ {#द्वीन्द्रियग्राह्यः#} &c.; ‘evident to the senses,’ {#प्रत्यक्षः#}
+{#-क्षा -क्षं, प्रत्यक्षसिद्धः -द्धा -द्धं;#} ‘deadness of the senses,’ {#इन्द्रिय-#}
+{#स्वापः;#} ‘pleasure of sense,’ {#इन्द्रियसुखं, विषयसुखं;#} ‘perversion
+of the senses,’ {#इन्द्रियविप्रतिपत्तिः#} {%f.;%} ‘disorder of them,’
+{#इन्द्रियवैकल्यं;#} ‘acuteness of them,’ {#इन्द्रियपाटवं;#} ‘wanting
+a sense,’ {#विकलेन्द्रियः -या -यं, निरिन्द्रियः#} &c. — (Object of sense)
+{#विषयः, इन्द्रियविषयः, इन्द्रियार्थः, अर्थः, गोचरः#}. These are five,
+corresponding to the five senses or organs of perception,
+viz. ‘form’ {#रूपं,#} ‘sound’ {#शब्दः,#} ‘odour’ {#गन्धः,#} ‘flavour’
+{#रसः,#} ‘touch’ {#स्पर्शः#}. — (Perception by the senses, sensation)
+{#वेदनं -ना, संवेदः -दनं, बोधः -धनं, इन्द्रियज्ञानं, इन्द्रियबोधः -धनं,#}
+{#इन्द्रियग्रहः -हणं, ग्रहणं, चेतना#}. — (Perception by the mind, &c.)
+{#बोधः, वेदनं, ज्ञानं, अनुबोधः, उपलब्धिः#} {%f.,%} {#ग्रहः -हणं,#} {%see%} PERCEP-
+TION. — (Understanding) {#बुद्धिः#} {%f.,%} {#मतिः#} {%f.,%} {#धीः#} {%f.,%} {#मेधा, चित्#}. — 
+(Consciousness) {#चैतन्यं, चेतना, वेदनं, ज्ञानं, संज्ञा;#} ‘internal
+sense,’ {#अन्तश्चैतन्यं, अन्तःसंज्ञा;#} ‘sense of pleasure,’ {#सुखवेदनं,#}
+{#सुखानुभवः, सुखबोधः;#} ‘to recover one's senses,’ {#संज्ञां#} or {#चैतन्यं#}
+{#लभ्;#} ‘one who has done so,’ {#लब्धसंज्ञः -ज्ञा -ज्ञं, लब्धचैतन्यः -न्या#}
+{#-न्यं, लब्धचेताः -ताः -तः (स्);#} ‘to lose one's senses, be out of
+one's senses,’ {#बुद्धिभष्टः -ष्टा -ष्टं भू, नष्टबुद्धिः -द्धिः -द्धि भू, हतबुद्धिः#}
+{#-द्धिः -द्धि भू, नष्ठज्ञानः -ना -नं भू, हतज्ञानः -ना -नं भू, नष्टेन्द्रियः -या#}
+[Page727-a+ 51]
+{#-यं भू#}. — (Opinion) {#मतं, मतिः#} {%f.,%} {#बुद्धिः#} {%f.%} — (Meaning) {#अर्थः,#}
+{#अभिप्रायः, आकांक्षा, आशयः, उद्देशः, विवक्षितं, विवक्षा, विषयः,#}
+{#छन्दस्;#} ‘sense of words,’ {#शब्दानुशासनं, पदार्थः, भावार्थः, शक्तिः#} {%f.,%}
+{#विग्रहः;#} ‘second sense,’ {#अर्थान्तरं;#} ‘tenor of the sense,’ {#अर्था-#}
+{#नुसन्धानं;#} ‘according to the sense,’ {#अर्थतस्;#} ‘apprehension
+of the literal sense,’ {#शाब्दबोधः#}. — (Common sense) {#सामा-#}
+{#न्यबुद्धिः#} {%f.,%} {#साधारणबुद्धिः#} {%f.,%} {#साधारणधीः#} {%f.%} — (Good sense) {#सद्युक्तिः#} {%f.,%}
+{#सुसम्बद्धं, सुसम्बद्धवाक्यं, सुबुद्धिः#} {%f.,%} {#सुधीः#} {%f., see%} INTELLIGENCE.
 <LEND>

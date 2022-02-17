@@ -1,14 +1,14 @@
 <L>13144<pc>203-3<k1>भाण्ड<k2>भाण्ड
 {#भाण्ड#}¦bhāṇḍa, {%n.%} vessel, pot, pail, dish; vat; 
-<>box, case; utensil, implement; musical instrument; <lbinfo n="2"/>
-<> wares, merchandise ({%sts. m.%}); jewel, 
-<>valuable, treasure; capital, principal; buffoonery: <lbinfo n="3"/>
-<> {@-ka,@} {%n.%} pot; case; -° {%a.%} wares, merchandise; <lbinfo n="3"/>
-<> {@-pati,@} {%m.%} merchant; {@-mūlya,@} {%n.%} 
-<>capital {%consisting%} in wares, stock in trade; 
-<>{@-vādana,@} {%n.%} playing a musical instrument; 
-<>{@-vādya,@} {%n.%} musical instrument; {@-śālā@}, {%f.%} storehouse; <lbinfo n="5"/>
-<> {@-āgāra,@} {%n.%} store-room; treasury; treasure: <lbinfo n="4"/>
-<> {@i-ka,@} {%m.%} superintendent of a store; 
-<>treasurer.
+box, case; utensil, implement; musical instrument; <lbinfo n="2"/>
+ wares, merchandise ({%sts. m.%}); jewel, 
+valuable, treasure; capital, principal; buffoonery: <lbinfo n="3"/>
+ {@-ka,@} {%n.%} pot; case; -° {%a.%} wares, merchandise; <lbinfo n="3"/>
+ {@-pati,@} {%m.%} merchant; {@-mūlya,@} {%n.%} 
+capital {%consisting%} in wares, stock in trade; 
+{@-vādana,@} {%n.%} playing a musical instrument; 
+{@-vādya,@} {%n.%} musical instrument; {@-śālā@}, {%f.%} storehouse; <lbinfo n="5"/>
+ {@-āgāra,@} {%n.%} store-room; treasury; treasure: <lbinfo n="4"/>
+ {@i-ka,@} {%m.%} superintendent of a store; 
+treasurer.
 <LEND>

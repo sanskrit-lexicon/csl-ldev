@@ -1,11 +1,11 @@
 <L>5916<pc>190<k1>descent<k2>descent
-<div n="lb"/>{@DESCENT:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अवतरणम्#} <div n="xe">{%or%}</div> <div n="xs">{#अवतारः,#}</div> <div n="xe">{%as if%}
-<div n="lb"/>{%to tell the news of Minerva's d.:%}</div> <div n="xs">{#सरस्वत्यवतरण-#}
-<div n="lb"/>{#वार्त्तमिव कथयितुम्,#}</div> C.; </div><div n="1">(2) {#अवरोहः, -णम्;#} </div><div n="1">(3)
-<div n="lb"/>{#अवपातः#} (falling); </div><div n="1">(4) {#अधोगतिः#} (=going
-<div n="lb"/>downwards). </div><div n="I">II Attack: q. v.: <div n="xe">{%we made%}
-<div n="lb"/>{%a d. on Vindhyaketu:%}</div> <div n="xs">{#विन्ध्यकेतोरुपरि निपतिताः स्म,#}</div>
-<div n="lb"/><ls>Pri.</ls> </div><div n="I">III. Lineage, birth: q. v.: <div n="xe">{%princes of%}
-<div n="lb"/>{%noble d.:%}</div> <div n="xs">{#कुलजाः कुमाराः,#}</div> N. </div><div n="I">IV Issue: {#सन्ततिः।#}
-<div n="lb"/>V. A declivity, slope: {#अवसर्पिणी#} ({#भूमिः#}), Mat.</div>
+{@DESCENT:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अवतरणम्#} <div n="xe">{%or%}</div> <div n="xs">{#अवतारः,#}</div> <div n="xe">{%as if%}
+{%to tell the news of Minerva's d.:%}</div> <div n="xs">{#सरस्वत्यवतरण-#}
+{#वार्त्तमिव कथयितुम्,#}</div> C.; </div><div n="1">(2) {#अवरोहः, -णम्;#} </div><div n="1">(3)
+{#अवपातः#} (falling); </div><div n="1">(4) {#अधोगतिः#} (=going
+downwards). </div><div n="I">II Attack: q. v.: <div n="xe">{%we made%}
+{%a d. on Vindhyaketu:%}</div> <div n="xs">{#विन्ध्यकेतोरुपरि निपतिताः स्म,#}</div>
+<ls>Pri.</ls> </div><div n="I">III. Lineage, birth: q. v.: <div n="xe">{%princes of%}
+{%noble d.:%}</div> <div n="xs">{#कुलजाः कुमाराः,#}</div> N. </div><div n="I">IV Issue: {#सन्ततिः।#}
+V. A declivity, slope: {#अवसर्पिणी#} ({#भूमिः#}), Mat.</div>
 <LEND>

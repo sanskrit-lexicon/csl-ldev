@@ -1,5 +1,5 @@
 <L>5919<pc>190<k1>description<k2>description
-<div n="lb"/>{@DESCRIPTION:@}¦ {#वर्णना, -नम्, उप-, सं-,#} <div n="xe">{%d. of Shan-%}
-<div n="lb"/>{%karavarman:%}</div> <div n="xs">{#शङ्करवर्मणो वर्णनम्,#}</div> B. r.: v. Also
-<div n="lb"/>narration.
+{@DESCRIPTION:@}¦ {#वर्णना, -नम्, उप-, सं-,#} <div n="xe">{%d. of Shan-%}
+{%karavarman:%}</div> <div n="xs">{#शङ्करवर्मणो वर्णनम्,#}</div> B. r.: v. Also
+narration.
 <LEND>

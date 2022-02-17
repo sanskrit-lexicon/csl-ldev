@@ -1,34 +1,34 @@
 <L>1354<pc>046,2<k1>अपि<k2>अपि
 {@api@}¦, indecl., ({@1@}) {%if%}: SP 229.4 (vs) apy ekavāraṃ pi
-<div n="lb">vadeta sūtram, {%if he should recite the sūtra even%} (pi) {%once%};
-<div n="lb">({@2@}) after negative expressions, {%but%}, Ger. {%sondern%} (Skt. api
-<div n="lb">tu; cf. CPD s.v. api A, 1, a, 4): Mv ii.109.16 (na adya
-<div n="lb">kiṃcit parvo na utsavo,) api drumasya…dhītā…āgatā,
-<div n="lb">{%it is no holiday or festival today, but the daughter of Druma%}
-<div n="lb">{%…has arrived%}; 110.12, na me svayaṃ dṛṣṭo nāpi parato
-<div n="lb">śruto, api me…aṅgulīyakā utsaṅge patitā, {%I have not%}
-<div n="lb">{%seen him myself nor yet heard of him from another, but…%}
-<div n="lb">{%his ring fell in my lap%}; 248.12 na ca kiṃci śarīrapīḍā āsi,
-<div n="lb">api me samudrapāraṃ gatvā āgatvā, {%and I have no bodily%}
-<div n="lb">{%disease, but as I am going to the other side of the sea and%}
+vadeta sūtram, {%if he should recite the sūtra even%} (pi) {%once%};
+({@2@}) after negative expressions, {%but%}, Ger. {%sondern%} (Skt. api
+tu; cf. CPD s.v. api A, 1, a, 4): Mv ii.109.16 (na adya
+kiṃcit parvo na utsavo,) api drumasya…dhītā…āgatā,
+{%it is no holiday or festival today, but the daughter of Druma%}
+{%…has arrived%}; 110.12, na me svayaṃ dṛṣṭo nāpi parato
+śruto, api me…aṅgulīyakā utsaṅge patitā, {%I have not%}
+{%seen him myself nor yet heard of him from another, but…%}
+{%his ring fell in my lap%}; 248.12 na ca kiṃci śarīrapīḍā āsi,
+api me samudrapāraṃ gatvā āgatvā, {%and I have no bodily%}
+{%disease, but as I am going to the other side of the sea and%}
 [Page047-a+ 71]
-<div n="lb">{%coming back--%} (sentence unfinished); ({@3@}) api…api,
-<div n="lb">{%either…or%}; in Skt. apparently only api vā, or vāpi, are
-<div n="lb">so used; but in Pali pi…pi, see CPD s.v. api, B (1):
-<div n="lb">SP 321.12 (prose) varṇenāpi na rocate gandhenāpi rasen-
-<div n="lb">āpi na rocate, {%is not pleasing by reason of either color or%}
-<div n="lb">{%smell or taste%}; [({@4@}) in api nāma tvaṃ…adinnam…
-<div n="lb">ādiyasi Mv i.346.13, api nāma apparently means {%surely!%}
-<div n="lb">{%most certainly!%} in a strong asseveration. But exactly the
-<div n="lb">same expression is repeated twice below, 346.20 and
-<div n="lb">347.8, with asti (nāma) instead of api, and this is the
-<div n="lb">true reading; see s.v. 1 {@asti@} (1);] ({@5@}) apy eva nāma (= api
-<div n="lb">nāma, {%perhaps%}, in Skt. BR s.v. api 13; in Pali, both api
-<div n="lb">nāma and app' eva nāma, {%perhaps%}, CPD s.v. api, A, 1, c),
-<div n="lb">({@a@}) {%perhaps%} SP 228.1; 459.8; Śikṣ 58.16; Bbh 15.7; ({@b@}) {%if%}
-<div n="lb">{%only%}, in strong wish (so Skt. api nāma, e.g. Śākuntala,
-<div n="lb">Pischel^2, HOS 16, 1.20.30), Mv iii.272.8 apy eva nāma
-<div n="lb">āryaputraḥ agāram adhyāvaseyā, {%if only my dear lord%}
-<div n="lb">{%would take up domestic life!%} This mg. is recognized for api
-<div n="lb">alone, BR s.v. 11. See {@apy-ekatya@}.
+{%coming back--%} (sentence unfinished); ({@3@}) api…api,
+{%either…or%}; in Skt. apparently only api vā, or vāpi, are
+so used; but in Pali pi…pi, see CPD s.v. api, B (1):
+SP 321.12 (prose) varṇenāpi na rocate gandhenāpi rasen-
+āpi na rocate, {%is not pleasing by reason of either color or%}
+{%smell or taste%}; [({@4@}) in api nāma tvaṃ…adinnam…
+ādiyasi Mv i.346.13, api nāma apparently means {%surely!%}
+{%most certainly!%} in a strong asseveration. But exactly the
+same expression is repeated twice below, 346.20 and
+347.8, with asti (nāma) instead of api, and this is the
+true reading; see s.v. 1 {@asti@} (1);] ({@5@}) apy eva nāma (= api
+nāma, {%perhaps%}, in Skt. BR s.v. api 13; in Pali, both api
+nāma and app' eva nāma, {%perhaps%}, CPD s.v. api, A, 1, c),
+({@a@}) {%perhaps%} SP 228.1; 459.8; Śikṣ 58.16; Bbh 15.7; ({@b@}) {%if%}
+{%only%}, in strong wish (so Skt. api nāma, e.g. Śākuntala,
+Pischel^2, HOS 16, 1.20.30), Mv iii.272.8 apy eva nāma
+āryaputraḥ agāram adhyāvaseyā, {%if only my dear lord%}
+{%would take up domestic life!%} This mg. is recognized for api
+alone, BR s.v. 11. See {@apy-ekatya@}.
 <LEND>

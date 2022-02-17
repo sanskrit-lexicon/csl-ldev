@@ -1,4 +1,4 @@
 <L>8831<pc>280<k1>firstly<k2>firstly
-<div n="lb"/>{@FIRSTLY:@}¦ <div n="1">(1) {#प्रथमतः;#} </div><div n="1">(2) {#प्रथमम्;#} </div><div n="1">(3) {#पूर्वम्;#} </div><div n="1">(4)
-<div n="lb"/>{#आदौ।#}</div>
+{@FIRSTLY:@}¦ <div n="1">(1) {#प्रथमतः;#} </div><div n="1">(2) {#प्रथमम्;#} </div><div n="1">(3) {#पूर्वम्;#} </div><div n="1">(4)
+{#आदौ।#}</div>
 <LEND>

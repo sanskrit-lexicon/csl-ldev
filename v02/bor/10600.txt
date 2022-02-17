@@ -1,5 +1,5 @@
 <L>10600<pc>333<k1>hanging<k2>hanging
-<div n="lb"/>{@HANGING@}¦ (subs.): <div n="I">I Lit.: {#उद्वन्धनम्,#} <div n="xe">{%one who%}
-<div n="lb"/>{%dies by h.:%}</div> <div n="xs">{#उद्वन्धनमृतः#}</div> ({#ता, तं#}), V. s. </div><div n="I">II That
-<div n="lb"/>which is hung: perh. {#परिच्छदः।#}</div>
+{@HANGING@}¦ (subs.): <div n="I">I Lit.: {#उद्वन्धनम्,#} <div n="xe">{%one who%}
+{%dies by h.:%}</div> <div n="xs">{#उद्वन्धनमृतः#}</div> ({#ता, तं#}), V. s. </div><div n="I">II That
+which is hung: perh. {#परिच्छदः।#}</div>
 <LEND>

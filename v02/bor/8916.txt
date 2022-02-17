@@ -1,8 +1,8 @@
 <L>8916<pc>282<k1>flatter<k2>flatter
-<div n="lb"/>{@FLATTER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#स्तौति, सं-, अभि-, परि-,#}
-<div n="lb"/>({#स्तु,#} c. 2.), {%who day and night f. s%} ({%him%}) <div n="xe">{%as%}
-<div n="lb"/>{%super-divine:%}</div> <div n="xs">{#योऽहर्निशमधिदैवतमिव स्तौति,#}</div> K.: v.
-<div n="lb"/>To praise; </div><div n="1">(2) by subs., {%to f. one's vanity:%}
-<div n="lb"/>{#चाटूक्तिभिर्मानं वर्धयति#} (c. of {#वृध्#}). </div><div n="I">II To gra-
-<div n="lb"/>-tify, please: q.v.: {#सं-तोषयति#} (c. of {#तुष्#}).</div>
+{@FLATTER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#स्तौति, सं-, अभि-, परि-,#}
+({#स्तु,#} c. 2.), {%who day and night f. s%} ({%him%}) <div n="xe">{%as%}
+{%super-divine:%}</div> <div n="xs">{#योऽहर्निशमधिदैवतमिव स्तौति,#}</div> K.: v.
+To praise; </div><div n="1">(2) by subs., {%to f. one's vanity:%}
+{#चाटूक्तिभिर्मानं वर्धयति#} (c. of {#वृध्#}). </div><div n="I">II To gra-
+-tify, please: q.v.: {#सं-तोषयति#} (c. of {#तुष्#}).</div>
 <LEND>

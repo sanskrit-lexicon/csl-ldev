@@ -1,4 +1,4 @@
 <L>22250<pc>701<k1>tax<k2>tax
-<div n="lb"/>{@TAX:@}¦ <div n="1">(1) {#करः,#} M. viii. 307.: v. Revenue;</div>
-<div n="lb"/><div n="1">(2) {#शुल्कः:#} v. Custom.</div>
+{@TAX:@}¦ <div n="1">(1) {#करः,#} M. viii. 307.: v. Revenue;</div>
+<div n="1">(2) {#शुल्कः:#} v. Custom.</div>
 <LEND>

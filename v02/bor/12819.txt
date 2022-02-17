@@ -1,8 +1,8 @@
 <L>12819<pc>396<k1>jaw<k2>jaw
-<div n="lb"/>{@JAW:@}¦ <div n="I">I Lit.: {#हनुः#} ({#नूः#}), <div n="xe">{%j. ed:%}</div> <div n="xs">{#हनुमत्#}</div> (f. {#ती#});
-<div n="lb"/><div n="xe">{%upper, lower j.:%}</div> <div n="xs">{#उत्तरा, अधरा हनुः,#}</div> Ta. {%Lower j.:%}
-<div n="lb"/>{#चिवुकः।#} </div><div n="I">II Fig. = mouth: q.v.: <div n="xe">{%before you%}
-<div n="lb"/>{%fall into my j. s:%}</div> <div n="xs">{#यावन्मम द्रं ष्टान्तर्गतो न मवान् भवि-#}
-<div n="lb"/>{#ष्यति,#}</div> P. i. 8.; <div n="xe">{%to the j. s of death:%}</div> <div n="xs">{#यमस्य जम्भयोः,#}</div>
-<div n="lb"/>Ta.</div>
+{@JAW:@}¦ <div n="I">I Lit.: {#हनुः#} ({#नूः#}), <div n="xe">{%j. ed:%}</div> <div n="xs">{#हनुमत्#}</div> (f. {#ती#});
+<div n="xe">{%upper, lower j.:%}</div> <div n="xs">{#उत्तरा, अधरा हनुः,#}</div> Ta. {%Lower j.:%}
+{#चिवुकः।#} </div><div n="I">II Fig. = mouth: q.v.: <div n="xe">{%before you%}
+{%fall into my j. s:%}</div> <div n="xs">{#यावन्मम द्रं ष्टान्तर्गतो न मवान् भवि-#}
+{#ष्यति,#}</div> P. i. 8.; <div n="xe">{%to the j. s of death:%}</div> <div n="xs">{#यमस्य जम्भयोः,#}</div>
+Ta.</div>
 <LEND>

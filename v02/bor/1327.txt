@@ -1,9 +1,9 @@
 <L>1327<pc>047<k1>attendance<k2>attendance
-<div n="lb"/>{@ATTENDANCE:@}¦ <div n="I">I The act of waiting on or
-<div n="lb"/>serving: </div><div n="1">(1) {#उपचारः;#} </div><div n="1">(2) {#उपस्थानम्#} (rare);</div>
-<div n="lb"/><div n="1">(3) {#शुश्रूषा#} (=reception of a guest). </div><div n="I">II
-<div n="lb"/>Presence: q. v. {#उपस्थितिः।#} Ph. <div n="xe">{%there was a%}
-<div n="lb"/>{%good a. in the meeting%}</div> <div n="xs">{#समायां बहवः समागमन्।#}</div></div>
-<div n="lb"/><div n="I">III A train, a retinue: q. v.: {#अनुयायिवर्गः।#}</div>
-<div n="lb"/><div n="I">IV Attention: q. v.</div>
+{@ATTENDANCE:@}¦ <div n="I">I The act of waiting on or
+serving: </div><div n="1">(1) {#उपचारः;#} </div><div n="1">(2) {#उपस्थानम्#} (rare);</div>
+<div n="1">(3) {#शुश्रूषा#} (=reception of a guest). </div><div n="I">II
+Presence: q. v. {#उपस्थितिः।#} Ph. <div n="xe">{%there was a%}
+{%good a. in the meeting%}</div> <div n="xs">{#समायां बहवः समागमन्।#}</div></div>
+<div n="I">III A train, a retinue: q. v.: {#अनुयायिवर्गः।#}</div>
+<div n="I">IV Attention: q. v.</div>
 <LEND>

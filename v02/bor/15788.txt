@@ -1,13 +1,13 @@
 <L>15788<pc>484<k1>offend<k2>offend
-<div n="lb"/>{@OFFEND:@}¦ To sin, transgress: q.v.: <div n="1">(1)
-<div n="lb"/>{#अपराध्यति#} ({#राध्,#} c. 4.), {%I have o. ed in this%}
-<div n="lb"/>({%matter%}): {#अहमेवात्रापराद्धा,#} V. ii.; </div><div n="1">(2) {#अपराधं #}
-<div n="lb"/>{# करोति,#} M. n. </div><div n="I">II To pain: q. v.: {#पीडयति#}
-<div n="lb"/>({#पीड्,#} c. 10.). </div><div n="I">III To displease, affront:</div>
-<div n="lb"/><div n="1">(1) {#अपराध्यति,#} {%you have o. ed Fāmadagnya:%}
-<div n="lb"/>{#अपराद्धं त्वया जामदग्नस्य,#} Vi. iv.; </div><div n="1">(2) expr. with:
-<div n="lb"/>{#विरक्त#} (f. {#क्ता#}) (= displeased) <div n="xe">{%or%}</div> <div n="xs">{#कुपितः#}</div> ({#ता, #}
-<div n="lb"/>{# तं#}) (= enraged), {%and%} ({%my%}) {%master is o. ed:%}
-<div n="lb"/>{#सेव्यो जनश्च कुपितः,#} V. ii. </div><div n="I">IV Cause to
-<div n="lb"/>stumble: {#स्खलयति#} (c. of {#स्खल्#}).</div>
+{@OFFEND:@}¦ To sin, transgress: q.v.: <div n="1">(1)
+{#अपराध्यति#} ({#राध्,#} c. 4.), {%I have o. ed in this%}
+({%matter%}): {#अहमेवात्रापराद्धा,#} V. ii.; </div><div n="1">(2) {#अपराधं #}
+{# करोति,#} M. n. </div><div n="I">II To pain: q. v.: {#पीडयति#}
+({#पीड्,#} c. 10.). </div><div n="I">III To displease, affront:</div>
+<div n="1">(1) {#अपराध्यति,#} {%you have o. ed Fāmadagnya:%}
+{#अपराद्धं त्वया जामदग्नस्य,#} Vi. iv.; </div><div n="1">(2) expr. with:
+{#विरक्त#} (f. {#क्ता#}) (= displeased) <div n="xe">{%or%}</div> <div n="xs">{#कुपितः#}</div> ({#ता, #}
+{# तं#}) (= enraged), {%and%} ({%my%}) {%master is o. ed:%}
+{#सेव्यो जनश्च कुपितः,#} V. ii. </div><div n="I">IV Cause to
+stumble: {#स्खलयति#} (c. of {#स्खल्#}).</div>
 <LEND>

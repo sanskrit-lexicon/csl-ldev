@@ -1,7 +1,7 @@
 <L>21796<pc>687<k1>succession<k2>succession
-<div n="lb"/>{@SUCCESSION:@}¦ <div n="I">I The act: expr. by verb: v.
-<div n="lb"/>To succeed (v. t.) </div><div n="I">II Sequence: q. v.:
-<div n="lb"/>{#आनन्तर्यम्।#} </div><div n="I">III Right to succeed:</div>
-<div n="lb"/><div n="1">(1) {#उत्तराधिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#-रिता, -त्वम्;#}</div> </div><div n="1">(2) by verb.</div>
-<div n="lb"/><div n="I">IV Series, order: q. v.: {#परम्परा।#}</div>
+{@SUCCESSION:@}¦ <div n="I">I The act: expr. by verb: v.
+To succeed (v. t.) </div><div n="I">II Sequence: q. v.:
+{#आनन्तर्यम्।#} </div><div n="I">III Right to succeed:</div>
+<div n="1">(1) {#उत्तराधिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#-रिता, -त्वम्;#}</div> </div><div n="1">(2) by verb.</div>
+<div n="I">IV Series, order: q. v.: {#परम्परा।#}</div>
 <LEND>

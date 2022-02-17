@@ -1,10 +1,10 @@
 <L>2221<pc>077<k1>blow<k2>blow
-<div n="lb"/>{@BLOW@}¦ (subs.): <div n="I">I With the fist: </div><div n="1">(1) {#मुष्टि-#}
-<div n="lb"/>{#प्रहारः,#} <div n="xe">{%gives a b. on the nose%}</div> <div n="xs">{#धोणायां मुष्टिप्रहारं #}
-<div n="lb"/>{# ददाति,#}</div> Mr. ii. </div><div n="1">(2) {#मुष्टिघातः;#} </div><div n="1">(3) {#भुजाहतिः,#} Ki.
-<div n="lb"/><div n="xe">{%To strike a b.:%}</div> <div n="xs">{#मुष्टिना हन्ति#}</div> ({#हन्,#} c. 2.) {%or%}
-<div n="lb"/>{#ताडयति#} ({#तड्,#} c. 10.). </div><div n="I">II. B. in general: {#प्रहारः:#}
-<div n="lb"/>v. Stroke. </div><div n="I">III Fig. Infliction of evil: Ph.
-<div n="lb"/>“{%gave a death-b. to the constitution%}” {#*शासनप्रणाल्या #}
-<div n="lb"/>{# विनाशं कल्पयामास;#} “{%fortune's b. s%}” {#दैवनिर्धातः,#} U.</div>
+{@BLOW@}¦ (subs.): <div n="I">I With the fist: </div><div n="1">(1) {#मुष्टि-#}
+{#प्रहारः,#} <div n="xe">{%gives a b. on the nose%}</div> <div n="xs">{#धोणायां मुष्टिप्रहारं #}
+{# ददाति,#}</div> Mr. ii. </div><div n="1">(2) {#मुष्टिघातः;#} </div><div n="1">(3) {#भुजाहतिः,#} Ki.
+<div n="xe">{%To strike a b.:%}</div> <div n="xs">{#मुष्टिना हन्ति#}</div> ({#हन्,#} c. 2.) {%or%}
+{#ताडयति#} ({#तड्,#} c. 10.). </div><div n="I">II. B. in general: {#प्रहारः:#}
+v. Stroke. </div><div n="I">III Fig. Infliction of evil: Ph.
+“{%gave a death-b. to the constitution%}” {#*शासनप्रणाल्या #}
+{# विनाशं कल्पयामास;#} “{%fortune's b. s%}” {#दैवनिर्धातः,#} U.</div>
 <LEND>

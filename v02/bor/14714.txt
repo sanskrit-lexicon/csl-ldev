@@ -1,7 +1,7 @@
 <L>14714<pc>450<k1>miscarry<k2>miscarry
-<div n="lb"/>{@MISCARRY:@}¦ <div n="I">I To have a miscarriage: {#गर्मः #}
-<div n="lb"/>{# स्रवति#} ({#स्रु,#} c. l.), {#पतति#} ({#पत्,#} c. l.), etc. (with
-<div n="lb"/>gen.). </div><div n="I">II Not to succeed: {#न सिध्यति#} ({#सिध्,#}
-<div n="lb"/>c. 4.). </div><div n="I">II Of letters, etc.: {#म्रियते#} ({#मृ,#} c. 6.)
-<div n="lb"/>(used in Bengali).</div>
+{@MISCARRY:@}¦ <div n="I">I To have a miscarriage: {#गर्मः #}
+{# स्रवति#} ({#स्रु,#} c. l.), {#पतति#} ({#पत्,#} c. l.), etc. (with
+gen.). </div><div n="I">II Not to succeed: {#न सिध्यति#} ({#सिध्,#}
+c. 4.). </div><div n="I">II Of letters, etc.: {#म्रियते#} ({#मृ,#} c. 6.)
+(used in Bengali).</div>
 <LEND>

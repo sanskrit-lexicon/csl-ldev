@@ -1,6 +1,6 @@
 <L>11134<pc>350<k1>honesty<k2>honesty
-<div n="lb"/>{@HONESTY:@}¦ <div n="1">(1) {#अर्थशौचभ्#} {%or%} sim. {#शौचम्#} <div n="xe">{%or%}</div> <div n="xs">{#शुचिता, #}
-<div n="lb"/>{# त्वम्#}</div> (when the sense is clear); </div><div n="1">(2) {#निष्कपटता#}
-<div n="lb"/>(= guilelessness); </div><div n="1">(3) {#सारल्यम्#} (=simplicity);</div>
-<div n="lb"/><div n="1">(4) {#आर्जवम्#} (= uprightness).</div>
+{@HONESTY:@}¦ <div n="1">(1) {#अर्थशौचभ्#} {%or%} sim. {#शौचम्#} <div n="xe">{%or%}</div> <div n="xs">{#शुचिता, #}
+{# त्वम्#}</div> (when the sense is clear); </div><div n="1">(2) {#निष्कपटता#}
+(= guilelessness); </div><div n="1">(3) {#सारल्यम्#} (=simplicity);</div>
+<div n="1">(4) {#आर्जवम्#} (= uprightness).</div>
 <LEND>

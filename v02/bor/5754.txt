@@ -1,4 +1,4 @@
 <L>5754<pc>184<k1>delinquency<k2>delinquency
-<div n="lb"/>{@DELINQUENCY:@}¦ <div n="1">(1) {#दोषः:#} v. Fault, offence;</div>
-<div n="lb"/><div n="1">(2) {#व्यतिक्रमः:#} v. Transgression.</div>
+{@DELINQUENCY:@}¦ <div n="1">(1) {#दोषः:#} v. Fault, offence;</div>
+<div n="1">(2) {#व्यतिक्रमः:#} v. Transgression.</div>
 <LEND>

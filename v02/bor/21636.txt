@@ -1,6 +1,6 @@
 <L>21636<pc>681<k1>strike<k2>strike
-<div n="lb"/>{@STRIKE:@}¦ (v. i.): <div n="I">I Lit.: v. (v. t. l.); {%s. against:%}
-<div n="lb"/>{#प्रतिहन्ति।#} </div><div n="I">II To be stranded: {#भूमौ#} etc. {#लगति#}
-<div n="lb"/>({#लग्,#} c. 1.). </div><div n="I">III To quit work: perh.
-<div n="lb"/>{#संहताः कर्म परित्यजन्ति।#} </div><div n="I">IV To lower flag: q. v.</div>
+{@STRIKE:@}¦ (v. i.): <div n="I">I Lit.: v. (v. t. l.); {%s. against:%}
+{#प्रतिहन्ति।#} </div><div n="I">II To be stranded: {#भूमौ#} etc. {#लगति#}
+({#लग्,#} c. 1.). </div><div n="I">III To quit work: perh.
+{#संहताः कर्म परित्यजन्ति।#} </div><div n="I">IV To lower flag: q. v.</div>
 <LEND>

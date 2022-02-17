@@ -1,5 +1,5 @@
 <L>302<pc>012<k1>admonition<k2>admonition
-<div n="lb"/>{@ADMONITION:@}¦ <div n="1">(1) {#उपदेशः#} v. Advice; </div><div n="1">(2)
-<div n="lb"/>{#उपालम्भः#} v. Reproof; </div><div n="1">(3) {#प्रत्यादेशः#} (?): v.
-<div n="lb"/>Warning.</div>
+{@ADMONITION:@}¦ <div n="1">(1) {#उपदेशः#} v. Advice; </div><div n="1">(2)
+{#उपालम्भः#} v. Reproof; </div><div n="1">(3) {#प्रत्यादेशः#} (?): v.
+Warning.</div>
 <LEND>

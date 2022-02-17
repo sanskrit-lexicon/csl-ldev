@@ -1,6 +1,6 @@
 <L>5076<pc>163<k1>criminally<k2>criminally
-<div n="lb"/>{@CRIMINALLY:@}¦ <div n="I">I Wickedly: {#सापराधम्।#} </div><div n="I">II Accor-
-<div n="lb"/>-ding to criminal law: {#*अपराधविध्यनुसारेण।#}
-<div n="lb"/>Ph.: <div n="xe">{%to proceed c.:%}</div> <div n="xs">{#दण्डनायकं निवेदयति#}</div> (c. of
-<div n="lb"/>{#विद्#}) (?).</div>
+{@CRIMINALLY:@}¦ <div n="I">I Wickedly: {#सापराधम्।#} </div><div n="I">II Accor-
+-ding to criminal law: {#*अपराधविध्यनुसारेण।#}
+Ph.: <div n="xe">{%to proceed c.:%}</div> <div n="xs">{#दण्डनायकं निवेदयति#}</div> (c. of
+{#विद्#}) (?).</div>
 <LEND>

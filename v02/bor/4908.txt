@@ -1,8 +1,8 @@
 <L>4908<pc>158<k1>country<k2>country
-<div n="lb"/>{@COUNTRY@}¦ (adj.): <div n="I">I As opposed to city:
-<div n="lb"/>{#ग्राम्यः#} ({#म्या, म्यं#}), <div n="xe">{%c. mouse:%}</div> <div n="xs">{#ग्राम्यभूषिकः;#}</div> {%c. town:%}
-<div n="lb"/>{#*ग्राम्यपत्तनम्#} <div n="xe">{%or%}</div> <div n="xs">{#खर्वटम्;#}</div> <div n="xe">{%c. -house:%}</div> <div n="xs">{#*ग्राम्यभवनम्;#}</div>
-<div n="lb"/><div n="xe">{%to lead a c. life:%}</div> <div n="xs">{#ग्रामेषु जीवनमतिवाहयति#}</div> (?). </div><div n="I">II
-<div n="lb"/>Rude: q. v.: {#ग्राम्यः#} ({#म्या, म्यं#}). </div><div n="I">III Of a c.:
-<div n="lb"/>{#देशीयः#} ({#या, यं#}).</div>
+{@COUNTRY@}¦ (adj.): <div n="I">I As opposed to city:
+{#ग्राम्यः#} ({#म्या, म्यं#}), <div n="xe">{%c. mouse:%}</div> <div n="xs">{#ग्राम्यभूषिकः;#}</div> {%c. town:%}
+{#*ग्राम्यपत्तनम्#} <div n="xe">{%or%}</div> <div n="xs">{#खर्वटम्;#}</div> <div n="xe">{%c. -house:%}</div> <div n="xs">{#*ग्राम्यभवनम्;#}</div>
+<div n="xe">{%to lead a c. life:%}</div> <div n="xs">{#ग्रामेषु जीवनमतिवाहयति#}</div> (?). </div><div n="I">II
+Rude: q. v.: {#ग्राम्यः#} ({#म्या, म्यं#}). </div><div n="I">III Of a c.:
+{#देशीयः#} ({#या, यं#}).</div>
 <LEND>

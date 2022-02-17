@@ -1,4 +1,4 @@
 <L>7720<pc>244<k1>epact<k2>epact
-<div n="lb"/>{@EPACT:@}¦ <div n="xe">{%annual e.:%}</div> <div n="xs">{#सूर्यचन्द्रवत्सरान्तरम्;#}</div> {%monthly e.:%}
-<div n="lb"/>{#अर्कचन्द्रमासान्तरम्।#}
+{@EPACT:@}¦ <div n="xe">{%annual e.:%}</div> <div n="xs">{#सूर्यचन्द्रवत्सरान्तरम्;#}</div> {%monthly e.:%}
+{#अर्कचन्द्रमासान्तरम्।#}
 <LEND>

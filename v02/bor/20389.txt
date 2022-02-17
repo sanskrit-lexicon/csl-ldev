@@ -1,8 +1,8 @@
 <L>20389<pc>637<k1>ship<k2>ship
-<div n="lb"/>{@SHIP@}¦ (v. t.): <div n="I">I To embark: q. v.: {#पोते #}
-<div n="lb"/>{# आरोपयति#} (c. of {#रुह्#}): v. To put. </div><div n="I">II To fix:
-<div n="lb"/>{#स्थापयति#} (c. of {#स्था#}). Ph.: (a) <div n="xe">{%s. off:%}</div> <div n="xs">{#पोतेन #}
-<div n="lb"/>{# विवासयति#}</div> (= banish) <div n="xe">{%or%}</div> <div n="xs">{#प्रस्थापयति#}</div> (= send
-<div n="lb"/>away); (b) {%s. a sea,%} prob. {#तरङ्गैर् अभिभूयते#} {%or%}
-<div n="lb"/>{#तरङ्गान् खादति।#}</div>
+{@SHIP@}¦ (v. t.): <div n="I">I To embark: q. v.: {#पोते #}
+{# आरोपयति#} (c. of {#रुह्#}): v. To put. </div><div n="I">II To fix:
+{#स्थापयति#} (c. of {#स्था#}). Ph.: (a) <div n="xe">{%s. off:%}</div> <div n="xs">{#पोतेन #}
+{# विवासयति#}</div> (= banish) <div n="xe">{%or%}</div> <div n="xs">{#प्रस्थापयति#}</div> (= send
+away); (b) {%s. a sea,%} prob. {#तरङ्गैर् अभिभूयते#} {%or%}
+{#तरङ्गान् खादति।#}</div>
 <LEND>

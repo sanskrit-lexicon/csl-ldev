@@ -1,14 +1,14 @@
 <L>13013<pc>401<k1>kill<k2>kill
-<div n="lb"/>{@KILL:@}¦ <div n="1">(1) {#हन्ति, नि-,#} ({#हन्,#} c. 2.), <div n="xe">{%k. ed Satrā-%}
-<div n="lb"/>{%jita in sleep:%}</div> <div n="xs">{#सुप्त सत्राजितं जघान,#}</div> </div><div n="I">V p.; <div n="xe">{%to k. by%}
-<div n="lb"/>{%poison:%}</div> <div n="xs">{#विषेन हन्ति,#}</div> D. iv.; <div n="xe">{%let not duty k. ed k.%}
-<div n="lb"/>{%us:%}</div> <div n="xs">{#मा नो धर्मो हतोऽवधीत्,#}</div> Mah. iii. 313. 128. ({#वध्,#}
-<div n="lb"/>only in {#ऌट्#} and {#लुङ्#}); </div><div n="1">(2) {#व्यापादयति#} (c. of
-<div n="lb"/>{#पद्#}), <div n="xe">{%k. the wretch:%}</div> <div n="xs">{#दुरात्मानं व्यापादय,#}</div> Ma. iv.;</div>
-<div n="lb"/><div n="1">(3) {#मारयति#} (c. of {#मृ#}) (rare), <div n="xe">{%to k. as they k.%}
-<div n="lb"/>{%animals:%}</div> <div n="xs">{#पशुमारणं मारयितुम्,#}</div> Sa. vi.; </div><div n="1">(4) {#सूदयति, #}
-<div n="lb"/>{# नि-,#} ({#सूद्,#} c. 10 (= to slay: q.v.): </div><div n="1">(5)
-<div n="lb"/>{#नाशयति, वि-,#} (c. of {#नश्#}) (= to destroy: q.v.);</div>
-<div n="lb"/><div n="1">(6) {#परलोकं नयति#} ({#नी,#} c. 1.), {#गमयति#} (c. of
-<div n="lb"/>{#गम्#}), etc. (= to send to the next world).</div>
+{@KILL:@}¦ <div n="1">(1) {#हन्ति, नि-,#} ({#हन्,#} c. 2.), <div n="xe">{%k. ed Satrā-%}
+{%jita in sleep:%}</div> <div n="xs">{#सुप्त सत्राजितं जघान,#}</div> </div><div n="I">V p.; <div n="xe">{%to k. by%}
+{%poison:%}</div> <div n="xs">{#विषेन हन्ति,#}</div> D. iv.; <div n="xe">{%let not duty k. ed k.%}
+{%us:%}</div> <div n="xs">{#मा नो धर्मो हतोऽवधीत्,#}</div> Mah. iii. 313. 128. ({#वध्,#}
+only in {#ऌट्#} and {#लुङ्#}); </div><div n="1">(2) {#व्यापादयति#} (c. of
+{#पद्#}), <div n="xe">{%k. the wretch:%}</div> <div n="xs">{#दुरात्मानं व्यापादय,#}</div> Ma. iv.;</div>
+<div n="1">(3) {#मारयति#} (c. of {#मृ#}) (rare), <div n="xe">{%to k. as they k.%}
+{%animals:%}</div> <div n="xs">{#पशुमारणं मारयितुम्,#}</div> Sa. vi.; </div><div n="1">(4) {#सूदयति, #}
+{# नि-,#} ({#सूद्,#} c. 10 (= to slay: q.v.): </div><div n="1">(5)
+{#नाशयति, वि-,#} (c. of {#नश्#}) (= to destroy: q.v.);</div>
+<div n="1">(6) {#परलोकं नयति#} ({#नी,#} c. 1.), {#गमयति#} (c. of
+{#गम्#}), etc. (= to send to the next world).</div>
 <LEND>

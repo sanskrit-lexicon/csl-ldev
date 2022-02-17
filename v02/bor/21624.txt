@@ -1,10 +1,10 @@
 <L>21624<pc>681<k1>stretch<k2>stretch
-<div n="lb"/>{@STRETCH@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#प्रसारयति#} (c. of,
-<div n="lb"/>{#सृ#}), <div n="xe">{%s. ing the arms:%}</div> <div n="xs">{#प्रसार्य हस्तौ,#}</div> Mah.; <div n="xe">{%to s.%}
-<div n="lb"/>{%thread:%}</div> <div n="xs">{#सूत्रं प्रसारयति,#}</div> Mat.; </div><div n="1">(2) {#लम्बयति#} (c. of
-<div n="lb"/>{#लम्ब्#} = elongate), <div n="xe">{%who will stretch (his) hand%}
-<div n="lb"/>{%to take it:%}</div> <div n="xs">{#को लम्बयेदाहरणाय हस्तम्:#}</div> v. Spread.</div>
-<div n="lb"/><div n="I">II Fig.: perh. {#प्रसारयति।#} </div><div n="I">III {#विस्तारयति#}
-<div n="lb"/>(c. of {#स्तॄ#}), <div n="xe">{%s. ing the body:%}</div> <div n="xs">{#अङ्गं विस्तार्य,#}</div> Vi.
-<div n="lb"/>v. 53.</div>
+{@STRETCH@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#प्रसारयति#} (c. of,
+{#सृ#}), <div n="xe">{%s. ing the arms:%}</div> <div n="xs">{#प्रसार्य हस्तौ,#}</div> Mah.; <div n="xe">{%to s.%}
+{%thread:%}</div> <div n="xs">{#सूत्रं प्रसारयति,#}</div> Mat.; </div><div n="1">(2) {#लम्बयति#} (c. of
+{#लम्ब्#} = elongate), <div n="xe">{%who will stretch (his) hand%}
+{%to take it:%}</div> <div n="xs">{#को लम्बयेदाहरणाय हस्तम्:#}</div> v. Spread.</div>
+<div n="I">II Fig.: perh. {#प्रसारयति।#} </div><div n="I">III {#विस्तारयति#}
+(c. of {#स्तॄ#}), <div n="xe">{%s. ing the body:%}</div> <div n="xs">{#अङ्गं विस्तार्य,#}</div> Vi.
+v. 53.</div>
 <LEND>

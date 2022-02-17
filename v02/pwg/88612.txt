@@ -22,11 +22,11 @@
 <ls>KAUŚ. 94. 98.</ls> 
 <ls>CHĀND. UP. 5, 5, 2.</ls> {#विद्युत्स्तनितवर्षेषु#} 
 <ls>M. 4, 103.</ls> 
-<ls>MBH. 3, 17341. 5, 386. 6, 4096. 13, 3306.</ls> 
+<ls>MBH. 3, 17341.</ls> <ls n="MBH.">5, 386.</ls> <ls n="MBH.">6, 4096.</ls> <ls n="MBH.">13, 3306.</ls> 
 <ls>R. 1, 20, 16. 2, 33, 9. 77, 25. 3, 79, 4. 4, 39, 2. 44, 84.</ls> 
 <ls>SUŚR. 1, 21, 11.</ls> 
 <ls>MṚCCH. 75, 6.</ls> 
-<ls>MEGH. 36.</ls> <ls>?ad ŚĀK. 193. VARĀH. BṚH. S. 95, 54.</ls> {#प्रबन्ध°#} {%ein ununterbrochener Regen%} 
+<ls>MEGH. 36.</ls> ad <ls>ŚĀK. 193.</ls> <ls>VARĀH. BṚH. S. 95, 54.</ls> {#प्रबन्ध°#} {%ein ununterbrochener Regen%} 
 <ls>46, 40.</ls> <ls>KATHĀS. 104, 39.</ls> <ls>RĀJA-TAR. 5, 275.</ls> {#°पूगाः#} 
 <ls>BHĀG. P. 3, 17, 26. 4, 28, 37.</ls> {#बाणमय#} 
 <ls>MBH. 5, 7269.</ls> {#अस्त्राणाम्, अग्नेः, वायोः, अश्मनाम्#} 
@@ -36,9 +36,9 @@
 <ls>VARĀH. BṚH. S. 46, 41.</ls> {#पांसु°#} 
 <ls>M. 4, 115.</ls> {#रजो°#} 
 <ls>R. 6, 111, 24.</ls> {#शिला°#} 
-<ls>R.</ls> <ls>SCHL. 1, 28, 15. fg.</ls> {#अश्म°#} 
+<ls>R. SCHL. 1, 28, 15. fg.</ls> {#अश्म°#} 
 <ls>22.</ls> {#शर°#} 
-<ls>MBH. 3, 15715. 5, 5961. 6, 4096.</ls> 
+<ls>MBH. 3, 15715.</ls> <ls n="MBH.">5, 5961.</ls> <ls n="MBH.">6, 4096.</ls> 
 <ls>R. 3, 31, 9.</ls> {#पुष्प°#} 
 <ls>79, 4. 5, 17, 3.</ls> {#सुधा°#} 
 <ls>KATHĀS. 44, 21.</ls> {#वात°#} <lex>m.</lex> {%ein von Wind begleiteter Regen%} 
@@ -59,7 +59,7 @@
 <ls>AIT. BR. 4, 17.</ls> {#भूयांसि शताद्वर्षेभ्यः पुरुषो जीवति#} 
 <ls>ŚAT. BR. 1, 9, 3, 19.</ls> {#अदो वर्षमकुर्म#} {%in dem und dem Jahre%} 
 <ls>2, 2, 3, 7. 10, 2, 6, 7. 8. 11, 1, 2, 10. 13.</ls> <ls>KĀTY. ŚR. 4, 2, 47.</ls> <ls>ĀŚV. GṚHY. 1, 18, 2. 19, 1. 22, 3.</ls> <ls>CHĀND. UP. 3, 16, 1.</ls> <ls>M. 1, 67. 2, 82. 4, 158.</ls> {#वर्षात्त्रंयोदशादूर्ध्वम्#} 
-<ls>MBH. 3, 1999. 3, 3006. 15, 803.</ls> {#दश वर्षसहस्राणि#} 
+<ls>MBH. 3, 1999.</ls> <ls n="MBH.">3, 3006.</ls> <ls n="MBH.">15, 803.</ls> {#दश वर्षसहस्राणि#} 
 <ls>R. 1, 1, 93. 31, 10. 62, 28. 63, 9. 2, 39, 15. 3, 53, 10.</ls> 
 <ls>Spr. 1074. 2367.</ls> 
 <ls>MEGH. 1.</ls> 
@@ -69,13 +69,13 @@
 <ls>RĀJA-TAR. 6, 326.</ls> 
 <ls>BHĀG. P. 3, 15, 1.</ls> 
 <ls>PAÑCAT. 159, 14.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 2, 14. 8, 17.</ls> {#बहून्वर्षगणान्#} 
+<ls>VET. in LA. (III) 2, 14. 8, 17.</ls> {#बहून्वर्षगणान्#} 
 <ls>M. 12, 54.</ls> {#°पूगसहस्र#} 
 <ls>BHĀG. P. 2, 5, 34. 4, 12, 42.</ls> {#वर्षे वर्षे#} {%in jedem Jahre%} 
 <ls>M. 5, 53.</ls> <ls>WEBER, KṚṢṆAJ. 307.</ls> {#आ वर्षात्#} {%ein Jahr lang%} 
 <ls>VARĀH. BṚH. S. 45, 16.</ls> {#वर्षात्#} {%nach einem Jahre%} 
 <ls>97, 2. 8.</ls> {#वर्षेण#} {%binnen eines Jahres%} 
-<ls>?97, 1. masc. R. GORR. 1, 1, 99. RĀJA-TAR. 1, 50. 193. 3, 322.</ls> {#वर्षार्ध#} {%Halbjahr%} 
+<ls>97, 1.</ls> masc. <ls>R. GORR. 1, 1, 99.</ls> <ls>RĀJA-TAR. 1, 50. 193. 3, 322.</ls> {#वर्षार्ध#} {%Halbjahr%} 
 <ls>VARĀH. BṚH. S. 42, 10.</ls> {#वर्षार्धात्#} {%nach einem halben Jahre%} 
 <ls>97, 5.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) 
 <ls>P. 5, 1, 88. fg. 4, 1, 22, Schol.</ls> {#युगस्य पञ्चवर्षस्य#} 
@@ -85,9 +85,9 @@
 <ls>KĀTY. ŚR. 22, 9, 12.</ls> {#तावद्वर्ष#} {%eben so alt%} 
 <ls>LĀṬY. 9, 12, 12.</ls> {#पूर्णविंशति°#} 
 <ls>M. 2, 212. 5, 70. 9, 74.</ls> 
-<ls>MBH. 4, 173. 13, 2417.</ls> 
+<ls>MBH. 4, 173.</ls> <ls n="MBH.">13, 2417.</ls> 
 <ls>Spr. 4643.</ls> 
-<ls>VARĀH. BṚH. S. 68,107.</ls>  
+<ls>VARĀH. BṚH. S. 68,107.</ls> 
 <ls>PAÑCAT. 188, 20.</ls>
 [Page6-0800]
 {#अनावृष्टिः शतवर्षा#} 
@@ -102,8 +102,8 @@
 <ls>H. 946. fg.</ls> (vgl. Comm.). 
 <ls>H. an.</ls> <ls>MED.</ls> {#वर्षाण्येषां#} ({#पर्वतानां#}) {#जगुरिह बुधा अन्तरे द्रोणिदेशान्#} 
 <ls>GOLĀDHY. 3, 26. fgg.</ls> {#भारत, हैमवत#} 
-u.s.w. <ls>MBH. 6, 201. 288. fgg.</ls> <ls>VP. 167. fgg.</ls> (vgl. 
-<ls>MUIR, ST. 186. 189. 191. fg. ).</ls> <ls>BHĀG. P.1,16,13.5,2,20.4,3. 16,6. fgg. 20,20.</ls> <ls>Verz. d. Oxf. H. 41,a,32.</ls> <ls>MĀRK. P. 53,22. 57,4. 5.</ls> <ls>PAÑCAR.1,1,67.</ls> <ls>ŚATR.1,292. fg.</ls> = {#जम्बुद्वीप#} 
+u.s.w. <ls>MBH. 6, 201.</ls> <ls n="MBH. 6,">288. fgg.</ls> <ls>VP. 167. fgg.</ls> (vgl. 
+<ls>MUIR, ST. 186. 189. 191. fg.).</ls> <ls>BHĀG. P.1,16,13.5,2,20.4,3. 16,6. fgg. 20,20.</ls> <ls>Verz. d. Oxf. H. 41,a,32.</ls> <ls>MĀRK. P. 53,22. 57,4. 5.</ls> <ls>PAÑCAR.1,1,67.</ls> <ls>ŚATR.1,292. fg.</ls> = {#जम्बुद्वीप#} 
 <ls>MED.</ls> und <ls>UJJVAL. a. a. O.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} pl. 
 <div n="2"> a) {%die Regenzeit%} 

@@ -1,5 +1,5 @@
 <L>18639<pc>573<k1>reaction<k2>reaction
-<div n="lb"/>{@REACTION:@}¦ <div n="I">I Counteraction: </div><div n="1">(1) {#प्रतिक्रिया;#}</div>
-<div n="lb"/><div n="1">(2) {#प्रतिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रतिकृतिः#}</div> (rare). </div><div n="I">II Of two
-<div n="lb"/>forces: {#प्रतिघातः।#}</div>
+{@REACTION:@}¦ <div n="I">I Counteraction: </div><div n="1">(1) {#प्रतिक्रिया;#}</div>
+<div n="1">(2) {#प्रतिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रतिकृतिः#}</div> (rare). </div><div n="I">II Of two
+forces: {#प्रतिघातः।#}</div>
 <LEND>

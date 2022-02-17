@@ -1,5 +1,5 @@
 <L>11225<pc>352<k1>hospitable<k2>hospitable
-<div n="lb"/>{@HOSPITABLE:@}¦ {#आतिथेयः#} ({#या, यं#}), <div n="xe">{%h. regard:%}</div> <div n="xs">{#आतिथे-#}
-<div n="lb"/>{#यापचितिः,#}</div> Ki. xi. 9.; <div n="xe">{%the h. Pārvati:%}</div> <div n="xs">{#आतिथेयी #}
-<div n="lb"/>{# पार्वती,#}</div> Ku. v. 31.
+{@HOSPITABLE:@}¦ {#आतिथेयः#} ({#या, यं#}), <div n="xe">{%h. regard:%}</div> <div n="xs">{#आतिथे-#}
+{#यापचितिः,#}</div> Ki. xi. 9.; <div n="xe">{%the h. Pārvati:%}</div> <div n="xs">{#आतिथेयी #}
+{# पार्वती,#}</div> Ku. v. 31.
 <LEND>

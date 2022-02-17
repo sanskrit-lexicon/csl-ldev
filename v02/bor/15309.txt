@@ -1,8 +1,8 @@
 <L>15309<pc>469<k1>necklace<k2>necklace
-<div n="lb"/>{@NECKLACE:@}¦ <div n="1">(1) {#हारः,#} <div n="xe">{%n. of pearls:%}</div> <div n="xs">{#मौक्तिकहारः#}</div>
-<div n="lb"/>Ma. vi.; </div><div n="1">(2) {#माला#} (= wreath), (also {#मुक्ता-#}
-<div n="lb"/>{#कलापः,#} Ku.; {#मुक्तावली,#} R.; rarely {#मुक्तालता,#}
-<div n="lb"/>Si.). {%Indra tied to me a n. of Mandāra flowers:%}
-<div n="lb"/>{#मम॥ मन्दारमाला हरिणा पिनद्धा,#} Sa. vii.; </div><div n="1">(2)
-<div n="lb"/>{#कण्ठिका,#} Ku.; <div n="xe">{%N. of seven strings:%}</div> <div n="xs">{#सप्तनाली#}</div> (?).</div>
+{@NECKLACE:@}¦ <div n="1">(1) {#हारः,#} <div n="xe">{%n. of pearls:%}</div> <div n="xs">{#मौक्तिकहारः#}</div>
+Ma. vi.; </div><div n="1">(2) {#माला#} (= wreath), (also {#मुक्ता-#}
+{#कलापः,#} Ku.; {#मुक्तावली,#} R.; rarely {#मुक्तालता,#}
+Si.). {%Indra tied to me a n. of Mandāra flowers:%}
+{#मम॥ मन्दारमाला हरिणा पिनद्धा,#} Sa. vii.; </div><div n="1">(2)
+{#कण्ठिका,#} Ku.; <div n="xe">{%N. of seven strings:%}</div> <div n="xs">{#सप्तनाली#}</div> (?).</div>
 <LEND>

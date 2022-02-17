@@ -1,10 +1,10 @@
 <L>20942<pc>658<k1>soil<k2>soil
-<div n="lb"/>{@SOIL@}¦ (subs.): <div n="I">I Ground: {#भूमिः#} <div n="xe">{%or%}</div> <div n="xs">{#भूः,#}</div> {%good s.:%}
-<div n="lb"/>{#उत्कृष्टभूमिः,#} K. ii. p.; <div n="xe">{%rich s.:%}</div> <div n="xs">{#सारवती भूः, गुणवती #}
-<div n="lb"/>{# भूमिः,#}</div> Ka. ix. 18., iv. 50.; <div n="xe">{%gravelly, stony,%}
-<div n="lb"/>{%snaky s. is no s.:%}</div> <div n="xs">{#सशर्क्ररा सपाषाणा सव्याला चेति #}
-<div n="lb"/>{# भूरभूः,#}</div> Ka. iv. 53.; <div n="xe">{%s. whose irrigation does not%}
-<div n="lb"/>{%depend on heaven:%}</div> <div n="xs">{#अदेवमातृका भूः,#}</div> Ka, iv. 52.;
-<div n="lb"/><div n="xe">{%native s.:%}</div> <div n="xs">{#जन्मभूमिः:#}</div> v. Land, earth. </div><div n="I">II
-<div n="lb"/>Dirt, stain, dung: q. v.: {#मलम्।#}</div>
+{@SOIL@}¦ (subs.): <div n="I">I Ground: {#भूमिः#} <div n="xe">{%or%}</div> <div n="xs">{#भूः,#}</div> {%good s.:%}
+{#उत्कृष्टभूमिः,#} K. ii. p.; <div n="xe">{%rich s.:%}</div> <div n="xs">{#सारवती भूः, गुणवती #}
+{# भूमिः,#}</div> Ka. ix. 18., iv. 50.; <div n="xe">{%gravelly, stony,%}
+{%snaky s. is no s.:%}</div> <div n="xs">{#सशर्क्ररा सपाषाणा सव्याला चेति #}
+{# भूरभूः,#}</div> Ka. iv. 53.; <div n="xe">{%s. whose irrigation does not%}
+{%depend on heaven:%}</div> <div n="xs">{#अदेवमातृका भूः,#}</div> Ka, iv. 52.;
+<div n="xe">{%native s.:%}</div> <div n="xs">{#जन्मभूमिः:#}</div> v. Land, earth. </div><div n="I">II
+Dirt, stain, dung: q. v.: {#मलम्।#}</div>
 <LEND>

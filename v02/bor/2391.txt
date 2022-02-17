@@ -1,5 +1,5 @@
 <L>2391<pc>082<k1>bottle<k2>bottle
-<div n="lb"/>{@BOTTLE@}¦ (v. t.): Ph.: {%to b. wine from a cask%}
-<div n="lb"/>{#भाण्डान्मद्यं गृहीत्वा बोतलेषु, निवेशयति#} (c. of {#विश्#})
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#बोतलान् पूरयति#}</div> ({#पूर्,#} c. 10).
+{@BOTTLE@}¦ (v. t.): Ph.: {%to b. wine from a cask%}
+{#भाण्डान्मद्यं गृहीत्वा बोतलेषु, निवेशयति#} (c. of {#विश्#})
+<div n="xe">{%or%}</div> <div n="xs">{#बोतलान् पूरयति#}</div> ({#पूर्,#} c. 10).
 <LEND>

@@ -1,23 +1,23 @@
 <L>7026<pc>085-2<k1>गुरुकर्मन्<k2>गुरुकर्मन्
 {#गुरुकर्मन्#}¦guru-karman, {%n.%} affair of the 
-<>teacher; {@-kārya,@} {%n.%} important business; {@-kula,@} 
-<>{%n.%} teacher's house: {@-vāsa,@} {%m.%} sojourn in a 
-<>teacher's house, tutelary stage {%in a Brāhman's %}
-<>{%life%}; {@-kṛta@}, {%pp.%} made much of, lauded; 
-<>{@-kratu,@} {%m.%} great sacrifice; {@-gṛha@}, {%n.%} preceptor's <lbinfo n="3"/>
-<> house; {@-jana@}, {%m.%} venerable person, 
-<>father, mother, parents; {@-talpa,@} {%m.%} teacher's 
-<>conjugal bed; violation of {%one's%} preceptor's 
-<>bed: {@-ga, -gāmin,@} {%a.%} defiling a teacher's 
-<>conjugal bed, {@-abhigamana,@} {%n.%} violation 
-<>of one's teacher's bed; {@-talpin,@} {%a.%} = talpaga; <lbinfo n="5"/>
-<> {@-tā,@} {%f.%} heaviness; importance; dignity; 
-<>condition of a teacher; {@-tva,@} {%n. id.%}; prosodical <lbinfo n="5"/>
-<> length: {@-ka,@} {%n.%} heaviness; {@-darśana@}, 
-<>{%n.%} sight of {%one's%} teacher; {@-dāra,@} {%m.%} teacher's 
-<>wife; {@-dhur,@} {%f. pl.%} severe task; {@-patnī,@} {%f.%} 
-<>teacher's wife; {@-pūjā@}, {%f.%} reverence towards 
-<>a teacher; {@-prasādanīya,@} {%fp.%} obliging to {%one's%} 
-<>teacher; {@-prasūta,@} {%pp.%} permitted {%or%} bidden 
-<>by elder relatives; {@-bhāryā,@} {%f.%} teacher's wife.
+teacher; {@-kārya,@} {%n.%} important business; {@-kula,@} 
+{%n.%} teacher's house: {@-vāsa,@} {%m.%} sojourn in a 
+teacher's house, tutelary stage {%in a Brāhman's %}
+{%life%}; {@-kṛta@}, {%pp.%} made much of, lauded; 
+{@-kratu,@} {%m.%} great sacrifice; {@-gṛha@}, {%n.%} preceptor's <lbinfo n="3"/>
+ house; {@-jana@}, {%m.%} venerable person, 
+father, mother, parents; {@-talpa,@} {%m.%} teacher's 
+conjugal bed; violation of {%one's%} preceptor's 
+bed: {@-ga, -gāmin,@} {%a.%} defiling a teacher's 
+conjugal bed, {@-abhigamana,@} {%n.%} violation 
+of one's teacher's bed; {@-talpin,@} {%a.%} = talpaga; <lbinfo n="5"/>
+ {@-tā,@} {%f.%} heaviness; importance; dignity; 
+condition of a teacher; {@-tva,@} {%n. id.%}; prosodical <lbinfo n="5"/>
+ length: {@-ka,@} {%n.%} heaviness; {@-darśana@}, 
+{%n.%} sight of {%one's%} teacher; {@-dāra,@} {%m.%} teacher's 
+wife; {@-dhur,@} {%f. pl.%} severe task; {@-patnī,@} {%f.%} 
+teacher's wife; {@-pūjā@}, {%f.%} reverence towards 
+a teacher; {@-prasādanīya,@} {%fp.%} obliging to {%one's%} 
+teacher; {@-prasūta,@} {%pp.%} permitted {%or%} bidden 
+by elder relatives; {@-bhāryā,@} {%f.%} teacher's wife.
 <LEND>

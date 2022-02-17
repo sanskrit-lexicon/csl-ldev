@@ -1,12 +1,12 @@
 <L>22532<pc>711<k1>thrust<k2>thrust
-<div n="lb"/>{@THRUST@}¦ (v. t.): {#आविध्यति#} ({#व्यध्,#} c. 4.): v. To
-<div n="lb"/>push. Comp.s (a) <div n="xe">{%t. at:%}</div> <div n="xs">{#आविध्यति।:#}</div> v. To
-<div n="lb"/>attack; (b) <div n="xe">{%t. away:%}</div> <div n="xs">{#निरस्यति#}</div> ({#अस्,#} c. 4.)
-<div n="lb"/>: v. To dispel; (c) <div n="xe">{%t. in, into:%}</div> <div n="xs">{#निवेशयति, सं-#}</div>
-<div n="lb"/>(c. of {#विश्#}): v. To put, enter; (d) {%t. off:%}
-<div n="lb"/>{#आविध्यति:#} v. To push; (e) <div n="xe">{%t. on:%}</div> <div n="xs">{#प्रचोदयति#}</div>
-<div n="lb"/>({#चुद्,#} c. 10.).: v. To impel, encourage;
-<div n="lb"/>(f) <div n="xe">{%t. out:%}</div> <div n="xs">{#अपसारयति#}</div> (c. of {#सृ#}).: v. Drive
-<div n="lb"/>out; (g) <div n="xe">{%t. through:%}</div> <div n="xs">{#मिनत्ति#}</div> ({#भिद्,#} c. 7.).: v.
-<div n="lb"/>To pierce.
+{@THRUST@}¦ (v. t.): {#आविध्यति#} ({#व्यध्,#} c. 4.): v. To
+push. Comp.s (a) <div n="xe">{%t. at:%}</div> <div n="xs">{#आविध्यति।:#}</div> v. To
+attack; (b) <div n="xe">{%t. away:%}</div> <div n="xs">{#निरस्यति#}</div> ({#अस्,#} c. 4.)
+: v. To dispel; (c) <div n="xe">{%t. in, into:%}</div> <div n="xs">{#निवेशयति, सं-#}</div>
+(c. of {#विश्#}): v. To put, enter; (d) {%t. off:%}
+{#आविध्यति:#} v. To push; (e) <div n="xe">{%t. on:%}</div> <div n="xs">{#प्रचोदयति#}</div>
+({#चुद्,#} c. 10.).: v. To impel, encourage;
+(f) <div n="xe">{%t. out:%}</div> <div n="xs">{#अपसारयति#}</div> (c. of {#सृ#}).: v. Drive
+out; (g) <div n="xe">{%t. through:%}</div> <div n="xs">{#मिनत्ति#}</div> ({#भिद्,#} c. 7.).: v.
+To pierce.
 <LEND>

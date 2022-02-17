@@ -1,6 +1,6 @@
 <L>18592<pc>572<k1>rate<k2>rate
-<div n="lb"/>{@RATE@}¦ (v.): <div n="I">I To fix r. s: {#अर्घं#} <div n="xe">{%or%}</div> <div n="xs">{#मूल्यं संस्थापयति#}</div>
-<div n="lb"/>(c. of {#स्था#}). </div><div n="I">II To estimate, value: q. v.:
-<div n="lb"/>{#मन्यते#} ({#मन्,#} c. 4.). </div><div n="I">III To reprove, censure:
-<div n="lb"/>q. v.: {#उपालभते#} ({#लभ्,#} c. 1.).</div>
+{@RATE@}¦ (v.): <div n="I">I To fix r. s: {#अर्घं#} <div n="xe">{%or%}</div> <div n="xs">{#मूल्यं संस्थापयति#}</div>
+(c. of {#स्था#}). </div><div n="I">II To estimate, value: q. v.:
+{#मन्यते#} ({#मन्,#} c. 4.). </div><div n="I">III To reprove, censure:
+q. v.: {#उपालभते#} ({#लभ्,#} c. 1.).</div>
 <LEND>

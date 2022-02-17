@@ -1,69 +1,69 @@
 <L>5543<pc>400-2<k1>कौरव<k2>कौरव
-{@Kaurava,@}¦ pl. {%(°āḥ)%} (the descendants of Kuru or name of
-<div n="lb">a people (= Kuru, pl.); very often it designs only the sons
-<div n="lb">of Dhṛtarāṣṭra and their adherents, in opposition to the
-<div n="lb">sons of Pāṇḍu and their adherents): I, 116, 299, 499, 561
-<div n="lb">({%muninā K°āṇāṃ yaśobhṛtā,%} i.e. Vyāsa), 584 {%(°āyodhanaṃ),%}
-<div n="lb">1664 {%(°vaṃśajaḥ),%} 3126, 4378, 4449 {%(°āṇāṃ yaśobhṛtā…%}
-<div n="lb">{%Pāṇḍunā),%} 4466, 4958, 5034, 5097, 5099, 5212 (the sons of
-<div n="lb">Dhṛtarāṣṭra and the sons of Pāṇḍu), 5214 (do.), 5239 (do.),
-<div n="lb">5452, 5453, 5457, 5458, 5465, 5524 {%(°saṃsadi),%} 5712, 5790,
-<div n="lb">5860, †7084 ({%°āgraiḥ,%} i.e. the sons of Pāṇḍu), †7337 ({%°rāja-%}
-<div n="lb">{%putrāḥ,%} = do.), †7341 ({%°vaṃśavardhanāḥ%} = do.), 7531, 7535,
-<div n="lb">7537, 7556, 7776 ({%°āṇāṃ yaśaskaraṃ,%} i.e. Arjuna), 7961;
-<div n="lb">II, 2022, 2062 ({%°āṇāṃ kulakaraṃ jyeṣṭhaṃ Pāṇḍavaṃ%}
-<div n="lb">{%acyutaṃ,%} i.e. Yudhiṣṭhira), †2117 {%(saṃsadi K°āṇāṃ),%} 2211,
-<div n="lb">2212, †2213, 2255, 2269, 2292, 2293 ({%°ārṇavamagnāṃ māṃ,%}
-<div n="lb">sc. Draupadī), 2306, 2350, 2351, 2352, †2368, †2379 ({%°aṇāṃ%}
-<div n="lb">{%guruḥ,%} i.e. Droṇa?), 2538, 2653, 2666; III, †220, †252,
-<div n="lb">†255, 311, 598, †962, 1423 {%(°sainyasya),%} 8513 (i.e. the
-<div n="lb">Pāṇḍavas), 13006 ({%°arṣabhāḥ,%} i.e. the Pāṇḍavas), 14880,
-<div n="lb">14887, 14889, 14935, 14952, 14954, 14956, 14961, 15011,
-<div n="lb">15027, 15318 {%(°sarva°),%} 15338; IV, 206 {%(°vāhinīṃ),%} 887,
-<div n="lb">977, 981, 992, 999, 1297, 1428, 1528, 1626 ({%°āṇāṃ rājā,%}
-<div n="lb">i.e. Duryodhana), 1630, 1708, 1998, 2234; V, †39, 128,
-<div n="lb">602, †701, †765, 825, 827, 843, 948 ({%°āṇāṃ rājā,%}
-<div n="lb">i.e. Yūdhiṣṭhira), †1332 ({%meḍhībhūtaḥ K°āṇāṃ tvaṃ,%} sc.
-<div n="lb">Dhṛtarāṣṭra), †1333, 1806, †1835, †1847 ({%°āṇāṃ pravīre,%}
-<div n="lb">i.e. Bhīṣma), 2284, †2411 {%(saṃsadi K°āṇāṃ),%} †2505, 2525,
-<div n="lb">†2577, 2623, 2670, 2711, 3273, 3331, 4181, 4281, 4443,
-<div n="lb">4851, 4953, 4966 ({%°mukhyayoḥ,%} i.e. Bhīṣma and Dhṛtarāṣṭra),
-<div n="lb">5081, 5230, 5269 (the army of Duryodhana consisting of
-<div n="lb">eleven akṣauhiṇīs), 5376, 5717 ({%°āṇāṃ saināpatyaṃ prāpya%}
-<div n="lb">{%Gāṅgeyaḥ,%} i.e. Bhīṣma), 5938 ({%Citrāṅgadaṃ K°āṇām%}
-<div n="lb">{%ādhipatye 'bhyaṣecayaṃ,%} sc. Bhīṣma); VI, 4, 26, 28, 126,
-<div n="lb">635, 1556, 1568, 1584, 1599, 1610, 1613, 2067, 2139
-<div n="lb">{%(°ānīkaṃ),%} 2143 ({%°āṇāṃ pitāmahaḥ,%} i.e. Bhīṣma), 2179, 2432,
-<div n="lb">2577, 2593, 2620 ({%°āṇām adhipaḥ,%} i.e. Duryodhana), 2883,
-<div n="lb">2890, 3290, 3299, 3313, 3850, 3921, 3942, 3950, 3951, 4206,
+{@Kaurava@},¦ pl. ({%°āḥ%}) (the descendants of Kuru or name of
+a people (= Kuru, pl.); very often it designs only the sons
+of Dhṛtarāṣṭra and their adherents, in opposition to the
+sons of Pāṇḍu and their adherents): I, 116, 299, 499, 561
+({%muninā K°āṇāṃ yaśobhṛtā%}, i.e. Vyāsa), 584 ({%°āyodhanaṃ%}),
+1664 ({%°vaṃśajaḥ%}), 3126, 4378, 4449 ({%°āṇāṃ yaśobhṛtā…%}
+{%Pāṇḍunā%}), 4466, 4958, 5034, 5097, 5099, 5212 (the sons of
+Dhṛtarāṣṭra and the sons of Pāṇḍu), 5214 (do.), 5239 (do.),
+5452, 5453, 5457, 5458, 5465, 5524 ({%°saṃsadi%}), 5712, 5790,
+5860, †7084 ({%°āgraiḥ%}, i.e. the sons of Pāṇḍu), †7337 ({%°rāja-%}
+{%putrāḥ%}, = do.), †7341 ({%°vaṃśavardhanāḥ%} = do.), 7531, 7535,
+7537, 7556, 7776 ({%°āṇāṃ yaśaskaraṃ%}, i.e. Arjuna), 7961;
+II, 2022, 2062 ({%°āṇāṃ kulakaraṃ jyeṣṭhaṃ Pāṇḍavaṃ%}
+{%acyutaṃ%}, i.e. Yudhiṣṭhira), †2117 ({%saṃsadi K°āṇāṃ%}), 2211,
+2212, †2213, 2255, 2269, 2292, 2293 ({%°ārṇavamagnāṃ māṃ%},
+sc. Draupadī), 2306, 2350, 2351, 2352, †2368, †2379 ({%°aṇāṃ%}
+{%guruḥ%}, i.e. Droṇa?), 2538, 2653, 2666; III, †220, †252,
+†255, 311, 598, †962, 1423 ({%°sainyasya%}), 8513 (i.e. the
+Pāṇḍavas), 13006 ({%°arṣabhāḥ%}, i.e. the Pāṇḍavas), 14880,
+14887, 14889, 14935, 14952, 14954, 14956, 14961, 15011,
+15027, 15318 ({%°sarva°%}), 15338; IV, 206 ({%°vāhinīṃ%}), 887,
+977, 981, 992, 999, 1297, 1428, 1528, 1626 ({%°āṇāṃ rājā%},
+i.e. Duryodhana), 1630, 1708, 1998, 2234; V, †39, 128,
+602, †701, †765, 825, 827, 843, 948 ({%°āṇāṃ rājā%},
+i.e. Yūdhiṣṭhira), †1332 ({%meḍhībhūtaḥ K°āṇāṃ tvaṃ%}, sc.
+Dhṛtarāṣṭra), †1333, 1806, †1835, †1847 ({%°āṇāṃ pravīre%},
+i.e. Bhīṣma), 2284, †2411 ({%saṃsadi K°āṇāṃ%}), †2505, 2525,
+†2577, 2623, 2670, 2711, 3273, 3331, 4181, 4281, 4443,
+4851, 4953, 4966 ({%°mukhyayoḥ%}, i.e. Bhīṣma and Dhṛtarāṣṭra),
+5081, 5230, 5269 (the army of Duryodhana consisting of
+eleven akṣauhiṇīs), 5376, 5717 ({%°āṇāṃ saināpatyaṃ prāpya%}
+{%Gāṅgeyaḥ%}, i.e. Bhīṣma), 5938 ({%Citrāṅgadaṃ K°āṇām%}
+{%ādhipatye 'bhyaṣecayaṃ%}, sc. Bhīṣma); VI, 4, 26, 28, 126,
+635, 1556, 1568, 1584, 1599, 1610, 1613, 2067, 2139
+({%°ānīkaṃ%}), 2143 ({%°āṇāṃ pitāmahaḥ%}, i.e. Bhīṣma), 2179, 2432,
+2577, 2593, 2620 ({%°āṇām adhipaḥ%}, i.e. Duryodhana), 2883,
+2890, 3290, 3299, 3313, 3850, 3921, 3942, 3950, 3951, 4206,
 [Page401-a+ 63]
-<div n="lb">4225, 4319, 4326, 4430 ({%°āṇāṃ rājā,%} i.e. Duryodhana), 4727,
-<div n="lb">5310, 5330, 5710 ({%°āṇāṃ pitāmahaḥ,%} i.e. Bhīṣma); VII, 23,
-<div n="lb">50 {%(Bhīṣme K°āṇām upāśraye),%} 118, 124, 210, 416, 436,
-<div n="lb">928, 1330, 2000, 2645, 2654, 3078, 3082, 3085, 3735, 3737
-<div n="lb">{%(°endrāṇāṃ),%} 4133, 4173, 4192, 4202, 4481, 4729, 4730
-<div n="lb">{%(°sainyasya),%} 4734, 4738, 4988, 5259, 5461, 5657, 5856, 5862,
-<div n="lb">6021, 6104 {%(°śreṣṭhāḥ),%} 6160, 6477, 6481, 6606, 6659, 6986,
-<div n="lb">7180, 7274, 7296, 7325 {%(°āṇām anīkinīṃ),%} 7350, 7352, 7655,
-<div n="lb">7747 {%(°saṃkrande),%} 7755, 7773, 8358, 8541, 8841, 8900, 8958,
-<div n="lb">9053 (only in B), 9054, 9170, 9188, 9204, 9234, 9273
-<div n="lb">{%(°nandanāḥ),%} 9392 (only in B., C. has {%Pauravaiḥ%}), 9492, 9495;
-<div n="lb">VIII, 244 {%(Yādava-K°ār),%} 342, 345, 349, 411, 412, 1077,
-<div n="lb">1129, 1244, 1255, 1712, 1714, 1947, 2518, 2650, 2685, 2696,
-<div n="lb">2780, 2903, 3014, 3034, 3079, 3107, †3342, †3348 {%(samāgame%}
-<div n="lb">{%Sṛñjaya-K°āṇāṃ),%} †3352, †3360, †3510, 3637, 3640, 3660,
-<div n="lb">3749, 3792, 3798, †3846, †3859, †4070, 4121, 4259, 4607,
-<div n="lb">4893, 4956; IX, 182, 288, 378, 548, 932, 1060, †1076, 1687
-<div n="lb">{%(Pāṇḍu-K°sammardāt),%} 1700 ({%°āṇāṃ mahārathān,%} i.e. Aśvatthā-
-<div n="lb">man, Kṛpa, and Kṛtavarman), 3504, 3626 ({%°āṇāṃ mahārathāḥ,%}
-<div n="lb">i.e. Aśvatthāman, Kṛpa, and Kṛtavarman); X, 714; XI, 230,
-<div n="lb">234 {%(avigrahe K°āṇāṃ),%} 824 {%(vaiśasaṃ…K°āntakaraṃ);%}
-<div n="lb">XII, 1495, 1575 {%(Bhīṣme K°āṇāṃ dhurandhare),%} 1816, 1875
-<div n="lb">({%°āṇāṃ dhurandhare,%} i.e. Bhīṣma), 1928 {%(Bhīṣme K°āṇāṃ%}
-<div n="lb">{%dhurandhare);%} XIII, 6275 ({%āṇāṃ dhurandhara,%} sc. Yudhi-
-<div n="lb">ṣṭhira), 7689 {%(Bhīṣme K°āṇāṃ dhurandhare),%} 7781; XIV,
-<div n="lb">1548, 1550, 1780 {%(°endrāṇāṃ),%} 2203 ({%°āṇāṃ mahārathaṃ,%} i.e.
-<div n="lb">Arjuna), 2336 ({%°āṇāṃ dhurandhare,%} i.e. Arjuna), 2590 (do.);
-<div n="lb">XV, 76, 77 {%(°āṇām ādhipatye),%} †431 {%(striyaḥ K°-Pāṇḍa-%}
-<div n="lb">{%vānāṃ…K°rājavaṃśyāḥ),%} †439, 872, 1007 {%(°yoṣitaḥ).%}
+4225, 4319, 4326, 4430 ({%°āṇāṃ rājā%}, i.e. Duryodhana), 4727,
+5310, 5330, 5710 ({%°āṇāṃ pitāmahaḥ%}, i.e. Bhīṣma); VII, 23,
+50 ({%Bhīṣme K°āṇām upāśraye%}), 118, 124, 210, 416, 436,
+928, 1330, 2000, 2645, 2654, 3078, 3082, 3085, 3735, 3737
+({%°endrāṇāṃ%}), 4133, 4173, 4192, 4202, 4481, 4729, 4730
+({%°sainyasya%}), 4734, 4738, 4988, 5259, 5461, 5657, 5856, 5862,
+6021, 6104 ({%°śreṣṭhāḥ%}), 6160, 6477, 6481, 6606, 6659, 6986,
+7180, 7274, 7296, 7325 ({%°āṇām anīkinīṃ%}), 7350, 7352, 7655,
+7747 ({%°saṃkrande%}), 7755, 7773, 8358, 8541, 8841, 8900, 8958,
+9053 (only in B), 9054, 9170, 9188, 9204, 9234, 9273
+({%°nandanāḥ%}), 9392 (only in B., C. has {%Pauravaiḥ%}), 9492, 9495;
+VIII, 244 ({%Yādava-K°ār%}), 342, 345, 349, 411, 412, 1077,
+1129, 1244, 1255, 1712, 1714, 1947, 2518, 2650, 2685, 2696,
+2780, 2903, 3014, 3034, 3079, 3107, †3342, †3348 ({%samāgame%}
+{%Sṛñjaya-K°āṇāṃ%}), †3352, †3360, †3510, 3637, 3640, 3660,
+3749, 3792, 3798, †3846, †3859, †4070, 4121, 4259, 4607,
+4893, 4956; IX, 182, 288, 378, 548, 932, 1060, †1076, 1687
+({%Pāṇḍu-K°sammardāt%}), 1700 ({%°āṇāṃ mahārathān%}, i.e. Aśvatthā-
+man, Kṛpa, and Kṛtavarman), 3504, 3626 ({%°āṇāṃ mahārathāḥ%},
+i.e. Aśvatthāman, Kṛpa, and Kṛtavarman); X, 714; XI, 230,
+234 ({%avigrahe K°āṇāṃ%}), 824 ({%vaiśasaṃ…K°āntakaraṃ%});
+XII, 1495, 1575 ({%Bhīṣme K°āṇāṃ dhurandhare%}), 1816, 1875
+({%°āṇāṃ dhurandhare%}, i.e. Bhīṣma), 1928 ({%Bhīṣme K°āṇāṃ%}
+{%dhurandhare%}); XIII, 6275 ({%āṇāṃ dhurandhara%}, sc. Yudhi-
+ṣṭhira), 7689 ({%Bhīṣme K°āṇāṃ dhurandhare%}), 7781; XIV,
+1548, 1550, 1780 ({%°endrāṇāṃ%}), 2203 ({%°āṇāṃ mahārathaṃ%}, i.e.
+Arjuna), 2336 ({%°āṇāṃ dhurandhare%}, i.e. Arjuna), 2590 (do.);
+XV, 76, 77 ({%°āṇām ādhipatye%}), †431 ({%striyaḥ K°-Pāṇḍa-%}
+{%vānāṃ…K°rājavaṃśyāḥ%}), †439, 872, 1007 ({%°yoṣitaḥ%}).
 <LEND>

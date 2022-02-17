@@ -1,5 +1,5 @@
 <L>7133<pc>226<k1>eagerly<k2>eagerly
-<div n="lb"/>{@EAGERLY:@}¦ <div n="1">(1) {#सस्पृहम्#} (= longingly); </div><div n="1">(2) {#सतृष्णम्#}
-<div n="lb"/>(= thirstily); </div><div n="1">(3) {#सोत्साहम्#} (= zealously);</div>
-<div n="lb"/><div n="1">(4) {#व्यग्रम्#} (= impetuously).</div>
+{@EAGERLY:@}¦ <div n="1">(1) {#सस्पृहम्#} (= longingly); </div><div n="1">(2) {#सतृष्णम्#}
+(= thirstily); </div><div n="1">(3) {#सोत्साहम्#} (= zealously);</div>
+<div n="1">(4) {#व्यग्रम्#} (= impetuously).</div>
 <LEND>

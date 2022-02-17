@@ -1,5 +1,5 @@
 <L>8044<pc>255<k1>executor<k2>executor
-<div n="lb"/>{@EXECUTOR@}¦ (m.), {@EXECUTRIX@} (f.): <div n="I">I Doer:
-<div n="lb"/>q. v.: {#निष्पादयितृ#} (f. {#त्री#}). </div><div n="I">II Of a will:
-<div n="lb"/>{#*इच्छापत्रानुशासकः#} (f. {#सिका#}).</div>
+{@EXECUTOR@}¦ (m.), {@EXECUTRIX@} (f.): <div n="I">I Doer:
+q. v.: {#निष्पादयितृ#} (f. {#त्री#}). </div><div n="I">II Of a will:
+{#*इच्छापत्रानुशासकः#} (f. {#सिका#}).</div>
 <LEND>

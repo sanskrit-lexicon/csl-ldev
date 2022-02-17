@@ -1,8 +1,8 @@
 <L>24497<pc>768<k1>worthless<k2>worthless
-<div n="lb"/>{@WORTHLESS:@}¦ <div n="1">(1) {#निर्गुण#} (f. {#णा#}), {#गुणहीन#} (f. {#ना#}),
-<div n="lb"/>and sim. comp. s (= without any virtue);</div>
-<div n="lb"/><div n="1">(2) {#असार#} (f. {#रा#}), {#अकिञ्चित्कर#} (f. {#री#}), etc.
-<div n="lb"/>(= good-for-nothing); </div><div n="1">(3) {#अ-#} (=not) in
-<div n="lb"/>comp., <div n="xe">{%w. object:%}</div> <div n="xs">{#अपात्रम्,#}</div> Mu.; {%w. thing:%}
-<div n="lb"/>{#अद्रव्यम्,#} Ku.</div>
+{@WORTHLESS:@}¦ <div n="1">(1) {#निर्गुण#} (f. {#णा#}), {#गुणहीन#} (f. {#ना#}),
+and sim. comp. s (= without any virtue);</div>
+<div n="1">(2) {#असार#} (f. {#रा#}), {#अकिञ्चित्कर#} (f. {#री#}), etc.
+(= good-for-nothing); </div><div n="1">(3) {#अ-#} (=not) in
+comp., <div n="xe">{%w. object:%}</div> <div n="xs">{#अपात्रम्,#}</div> Mu.; {%w. thing:%}
+{#अद्रव्यम्,#} Ku.</div>
 <LEND>

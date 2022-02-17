@@ -13,7 +13,7 @@
 <ls>ŚAT. BR. 12, 7, 1, 8.</ls> 
 <ls>CHĀND. UP. 6, 9, 3.</ls> 
 <ls>M. 11, 112. 12, 43. 67.</ls> 
-<ls>MBH. 1, 5568. fgg. 3, 2402. 15718. 12, 4273. fgg.</ls> 
+<ls>MBH. 1, 5568. fgg.</ls> <ls n="MBH.">3, 2402.</ls> <ls n="MBH. 3,">15718.</ls> <ls n="MBH.">12, 4273. fgg.</ls> 
 <ls>R. 3, 33, 21.</ls> 
 <ls>RAGH. 9, 63.</ls> 
 <ls>VARĀH. BṚH. S. 48, 76. 51, 19. 68, 17. 86, 28.</ls> <ls>WEBER, KṚṢṆAJ. 221.</ls> <ls>BHĀG. P. 3, 10, 22. 4, 6, 20.</ls> <ls>HIT. 113, 10.fg.</ls> Die Urmutter der {%Tiger%} ist {#शार्दूली#} 
@@ -21,10 +21,10 @@
 <ls>AV. 4, 8, 4. 7.</ls> {#(उत्तमो ऽसि) व्या\घ्रः श्वप^दामिव#} 
 <ls>8, 5, 11.fg.</ls> Daher als Bild edler Männlichkeit 
 <ls>NIR. 3, 18.</ls> 
-<ls>ŚĀNT. 2, 17.</ls> <ls>?am Ende eines comp. P. 2, 1, 56. AK. 3, 2, 8. H. 1440. H. an. MED.</ls> {#नर°#} 
-<ls>MBH. 1, 5909. 6038. 3, 2179. 2414. 2625.</ls> 
+<ls>ŚĀNT. 2, 17.</ls> am Ende eines comp. <ls>P. 2, 1, 56.</ls> <ls>AK. 3, 2, 8.</ls> <ls>H. 1440.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#नर°#} 
+<ls>MBH. 1, 5909.</ls> <ls n="MBH. 1,">6038.</ls> <ls n="MBH.">3, 2179.</ls> <ls n="MBH. 3,">2414.</ls> <ls n="MBH. 3,">2625.</ls> 
 <ls>R. 3, 49, 20.</ls> {#पुरुष°#} 
-<ls>MBH. 3, 2249. 2780. 3001. 15718.</ls> 
+<ls>MBH. 3, 2249.</ls> <ls n="MBH. 3,">2780.</ls> <ls n="MBH. 3,">3001.</ls> <ls n="MBH. 3,">15718.</ls> 
 <ls>R. 2, 32, 27.</ls> {#मनुज°#} 
 <ls>104, 16.</ls> 
 <div n="2">— b) {%Pongamia glabra Vent.%} und {%rothblühender Ricinus%} ({#रक्तैरण्ड#}) 
@@ -32,13 +32,13 @@
 <ls>MED.</ls> mit <ls>ŚKDR.</ls> {#करञ्ज#} zu lesen). 
 <div n="2">— c) N. pr. verschiedener Manner: Verfasser eines <is>Dharmaśāstra</is> 
 <ls>Verz. d. Oxf. H. 270,b,47. 279,b,9. 356,a,30.</ls> ein Fürst 
-<ls>TĀRAN. 3. -</ls> <ls>RĀJA-TAR. 8, 1304. fgg.</ls> 
+<ls>TĀRAN. 3.</ls> - <ls>RĀJA-TAR. 8, 1304. fgg.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#व्याघ्री#} 
 <div n="2"> a) {%Tigerin%}: {#यथा व्याघ्री हरेत्पुत्रान्दंष्ट्राभिर्न च पीडयेत्#} 
 <ls>ŚIKṢĀ 20</ls> in <ls>Ind. St. 4, 268.</ls> <ls>Spr. (II) 2370.</ls> {#व्याघ्रीव तिष्ठति जरा#}
 [Page6-1466]
 
-<ls>(I) 2917.</ls> <ls>R. GORR. 2, 9, 34. 3, 53, 46. 62, 37.</ls> {#मृग्याः परिभवो व्याघ्र्यामित्यवेहि त्वया कृतम्#} 
+(<ls>I) 2917.</ls> <ls>R. GORR. 2, 9, 34. 3, 53, 46. 62, 37.</ls> {#मृग्याः परिभवो व्याघ्र्यामित्यवेहि त्वया कृतम्#} 
 <ls>RAGH. 12, 37.</ls> 
 <ls>P. 8, 4, 48, Schol.</ls> ein <is>Jātaka</is> <is>Buddha's</is> 
 <ls>VYĀḌI</ls> beim Schol. zu <ls>H. 233.</ls> <ls>JĀTAKAMĀLĀ 3.</ls> 

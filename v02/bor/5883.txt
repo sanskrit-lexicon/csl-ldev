@@ -1,7 +1,7 @@
 <L>5883<pc>189<k1>depredate<k2>depredate
-<div n="lb"/>{@DEPREDATE:@}¦ <div n="1">(1) {#उप-द्रवति, अभि-,#} ({#द्रु,#} c. l.),
-<div n="lb"/>{%d. d Prāgjyotiṣa%} (Gauhati) {#प्राग्ज्योतिषमुपाद्रवत्,#}
-<div n="lb"/>Mah.; <div n="xe">{%the gods d. d by Rāvaṇa:%}</div> <div n="xs">{#पौलस्त्योपद्रुता #}
-<div n="lb"/>{# देवाः,#}</div> R. </div><div n="1">(2) {#उपप्लवते#} ({#प्लु,#} c. l.),: v. Also to
-<div n="lb"/>plunder.</div>
+{@DEPREDATE:@}¦ <div n="1">(1) {#उप-द्रवति, अभि-,#} ({#द्रु,#} c. l.),
+{%d. d Prāgjyotiṣa%} (Gauhati) {#प्राग्ज्योतिषमुपाद्रवत्,#}
+Mah.; <div n="xe">{%the gods d. d by Rāvaṇa:%}</div> <div n="xs">{#पौलस्त्योपद्रुता #}
+{# देवाः,#}</div> R. </div><div n="1">(2) {#उपप्लवते#} ({#प्लु,#} c. l.),: v. Also to
+plunder.</div>
 <LEND>

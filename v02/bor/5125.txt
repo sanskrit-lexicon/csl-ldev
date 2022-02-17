@@ -1,15 +1,15 @@
 <L>5125<pc>165<k1>cross<k2>cross
-<div n="lb"/>{@CROSS@}¦ (v. t): <div n="I">I To pass over: </div><div n="1">(1) {#तरति#} ({#तृ,#}
-<div n="lb"/>c. l.), <div n="xe">{%c. ed the Ganges:%}</div> <div n="xs">{#गङ्गां ततार,#}</div> R. xvi.
-<div n="lb"/>52.; <div n="xe">{%I want to c. the ocean on a raft:%}</div> <div n="xs">{#उडुपेन #}
-<div n="lb"/>{# सागरं तितीर्षुरस्मि,#}</div> R.; </div><div n="1">(2) {#लङ्घते#} <div n="xe">{%or%}</div> <div n="xs">{#लङ्घयति, वि,-#}
-<div n="lb"/>{#उत्-,#}</div> ({#लङ्घ्,#} c. l. and 10.), {%c. ed the Vindhya:%}
-<div n="lb"/>{#विन्ध्यं व्यलङ्घयत्,#} R. xvi. 32. </div><div n="I">II Of the
-<div n="lb"/>mind, to occur to: q. v. </div><div n="I">III To thwart,
-<div n="lb"/>obstruct: q. v. </div><div n="I">IV To mix breeds: perh.
-<div n="lb"/>{#संमिश्रयति#} ({#मिश्र्,#} c. 10.). V. To conceal:
-<div n="lb"/>q. v. </div><div n="I">VI To put across, expr. by circumlo.,
-<div n="lb"/><div n="xe">{%to c. arms.:%}</div> <div n="xs">{#एकस्मिन् भुजे भुजान्तरं विन्यस्यति#}</div> {%or%}
-<div n="lb"/>{#विदधाति।#} </div><div n="I">VII To draw line across: {#रेखया #}
-<div n="lb"/>{# अङ्कयति#} ({#अङ्क्,#} c. 10.).</div>
+{@CROSS@}¦ (v. t): <div n="I">I To pass over: </div><div n="1">(1) {#तरति#} ({#तृ,#}
+c. l.), <div n="xe">{%c. ed the Ganges:%}</div> <div n="xs">{#गङ्गां ततार,#}</div> R. xvi.
+52.; <div n="xe">{%I want to c. the ocean on a raft:%}</div> <div n="xs">{#उडुपेन #}
+{# सागरं तितीर्षुरस्मि,#}</div> R.; </div><div n="1">(2) {#लङ्घते#} <div n="xe">{%or%}</div> <div n="xs">{#लङ्घयति, वि,-#}
+{#उत्-,#}</div> ({#लङ्घ्,#} c. l. and 10.), {%c. ed the Vindhya:%}
+{#विन्ध्यं व्यलङ्घयत्,#} R. xvi. 32. </div><div n="I">II Of the
+mind, to occur to: q. v. </div><div n="I">III To thwart,
+obstruct: q. v. </div><div n="I">IV To mix breeds: perh.
+{#संमिश्रयति#} ({#मिश्र्,#} c. 10.). V. To conceal:
+q. v. </div><div n="I">VI To put across, expr. by circumlo.,
+<div n="xe">{%to c. arms.:%}</div> <div n="xs">{#एकस्मिन् भुजे भुजान्तरं विन्यस्यति#}</div> {%or%}
+{#विदधाति।#} </div><div n="I">VII To draw line across: {#रेखया #}
+{# अङ्कयति#} ({#अङ्क्,#} c. 10.).</div>
 <LEND>

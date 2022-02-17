@@ -1,10 +1,10 @@
 <L>7104<pc>225<k1>duty<k2>duty
-<div n="lb"/>{@DUTY:@}¦ <div n="I">I Moral obligation: {#धर्मः,#} {%caste-d. s:%}
-<div n="lb"/>{#वर्णधर्मान्,#} S.; <div n="xe">{%d. s of kings:%}</div> <div n="xs">{#राजधर्माः,#}</div> V. s; <div n="xe">{%to%}
-<div n="lb"/>{%abandon d.:%}</div> <div n="xs">{#धर्म्यां क्रियां मुञ्चति,#}</div> B. Ph.: {%it is the%}
-<div n="lb"/>{%d. of%} i. e. it should be done by: v. Should, [Page226]
-<div n="lb"/>ought. </div><div n="I">II Service: {#नियोगः,#} {%execute your d.:%}
-<div n="lb"/>{#स्वनियोगमशून्यं कुरु,#} Sa. Ph.: <div n="xe">{%one who has done%}
-<div n="lb"/>{%one's d.:%}</div> <div n="xs">{#कृतकृत्यः,#}</div> H. </div><div n="I">III Reverence: {#भक्तिः।#}</div>
-<div n="lb"/><div n="I">IV An impost: {#शुल्क#} (mn.).</div>
+{@DUTY:@}¦ <div n="I">I Moral obligation: {#धर्मः,#} {%caste-d. s:%}
+{#वर्णधर्मान्,#} S.; <div n="xe">{%d. s of kings:%}</div> <div n="xs">{#राजधर्माः,#}</div> V. s; <div n="xe">{%to%}
+{%abandon d.:%}</div> <div n="xs">{#धर्म्यां क्रियां मुञ्चति,#}</div> B. Ph.: {%it is the%}
+{%d. of%} i. e. it should be done by: v. Should, [Page226]
+ought. </div><div n="I">II Service: {#नियोगः,#} {%execute your d.:%}
+{#स्वनियोगमशून्यं कुरु,#} Sa. Ph.: <div n="xe">{%one who has done%}
+{%one's d.:%}</div> <div n="xs">{#कृतकृत्यः,#}</div> H. </div><div n="I">III Reverence: {#भक्तिः।#}</div>
+<div n="I">IV An impost: {#शुल्क#} (mn.).</div>
 <LEND>

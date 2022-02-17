@@ -1,5 +1,5 @@
 <L>6182<pc>199<k1>dilution<k2>dilution
-<div n="lb"/>{@DILUTION:@}¦ <div n="I">I Attenuation, dissolution: q. v.</div>
-<div n="lb"/><div n="I">II With water: {#जलेन मिश्रणम्।#} </div><div n="I">III A
-<div n="lb"/>mixture: {#तनूकृतः#} ({#ता, तं#}) (?).</div>
+{@DILUTION:@}¦ <div n="I">I Attenuation, dissolution: q. v.</div>
+<div n="I">II With water: {#जलेन मिश्रणम्।#} </div><div n="I">III A
+mixture: {#तनूकृतः#} ({#ता, तं#}) (?).</div>
 <LEND>

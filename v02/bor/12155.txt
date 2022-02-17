@@ -1,9 +1,9 @@
 <L>12155<pc>378<k1>inferior<k2>inferior
-<div n="lb"/>{@INFERIOR:@}¦ <div n="1">(1) {#हीनः#} ({#ना, नं#}), <div n="xe">{%from association%}
-<div n="lb"/>{%with i. s.:%}</div> <div n="xs">{#हीनैः सह समागमात्,#}</div> H.; <div n="xe">{%a man of i.%}
-<div n="lb"/>{%caste:%}</div> <div n="xs">{#हीनवर्णः,#}</div> H.; <div n="xe">{%but little i. to them:%}</div> <div n="xs">{#किन्तु #}
-<div n="lb"/>{# किञ्चित्तेभ्यो हीनाः,#}</div> Bha.; </div><div n="1">(2) {#ऊनः#} ({#ना, नं#}) (in
-<div n="lb"/>comp.), <div n="xe">{%not i. in qualities:%}</div> <div n="xs">{#गुणैरनूनः#}</div> ({#ना, नं#}),
-<div n="lb"/>R.; <div n="xe">{%not i. to Chaitraratha:%}</div> <div n="xs">{#चैत्ररथादनूनः#}</div> ({#ना, नं#}),
-<div n="lb"/>R. vi. 50.: v. Also low, bad.</div>
+{@INFERIOR:@}¦ <div n="1">(1) {#हीनः#} ({#ना, नं#}), <div n="xe">{%from association%}
+{%with i. s.:%}</div> <div n="xs">{#हीनैः सह समागमात्,#}</div> H.; <div n="xe">{%a man of i.%}
+{%caste:%}</div> <div n="xs">{#हीनवर्णः,#}</div> H.; <div n="xe">{%but little i. to them:%}</div> <div n="xs">{#किन्तु #}
+{# किञ्चित्तेभ्यो हीनाः,#}</div> Bha.; </div><div n="1">(2) {#ऊनः#} ({#ना, नं#}) (in
+comp.), <div n="xe">{%not i. in qualities:%}</div> <div n="xs">{#गुणैरनूनः#}</div> ({#ना, नं#}),
+R.; <div n="xe">{%not i. to Chaitraratha:%}</div> <div n="xs">{#चैत्ररथादनूनः#}</div> ({#ना, नं#}),
+R. vi. 50.: v. Also low, bad.</div>
 <LEND>

@@ -2,8 +2,8 @@
 {#स्फीत#}¦ (partic. von {#स्फाय्#}) 
 <ls>P. 6, 1, 22.</ls> 
 <ls>VOP. 26, 115.</ls> adj. {%in gedeihlichem Zustande befindlich, wohlhabend, reich, blühend%}: Gegend, Land, Reich, Haus 
-<ls>MBH. 1, 2357. 3, 16223. 4, 159. 13, 3148.</ls> 
-<ls>HARIV. 1089. 8916.</ls> 
+<ls>MBH. 1, 2357.</ls> <ls n="MBH.">3, 16223.</ls> <ls n="MBH.">4, 159.</ls> <ls n="MBH.">13, 3148.</ls> 
+<ls>HARIV. 1089.</ls> <ls n="HARIV.">8916.</ls> 
 <ls>R. 1, 1, 5. 26, 17. 2, 49, 12. 52, 58. 82, 4. 3, 61, 7. 27. 4, 43, 5. 5, 16, 7.</ls> 
 <ls>VARĀH. BṚH. S. 5, 46.</ls> 
 <ls>KATHĀS. 18, 58. 54, 98.</ls> 
@@ -26,7 +26,7 @@
 <ls>DAŚAK. 61, 2.</ls> {#उत्सवाः#} 
 <ls>MBH. 2, 810.</ls> {#गुणाः#} 
 <ls>7, 1489.</ls> <ls>R. 4, 27, 13.</ls> <ls>Spr. (II) 7324.</ls> {#यशस्#} 
-<ls>MBH. 1, 3757. 3, 10278.</ls> 
+<ls>MBH. 1, 3757.</ls> <ls n="MBH.">3, 10278.</ls> 
 <ls>BHĀG. P. 3, 22, 13. 4, 21, 7.</ls> {#शुभं कर्म#} 
 <ls>Spr. (II) 6495.</ls> {%reichlich gesegnet mit voll von%} (instr. oder im comp. vorangehend): {#आगमैर्बहुभिः#} 
 <ls>MBH. 13, 6288.</ls> {#रक्त°#} 
@@ -34,5 +34,5 @@
 <ls>RĀJA-TAR. 4, 192.</ls> {#मधु°#} 
 <ls>KATHĀS. 71, 197.</ls> {#अलुप्तधर्मचरण°#} 
 <ls>78, 7.</ls> {#रस°#} 
-<ls>VET.</ls> in <ls>LA. (III) 1, 9.</ls>
+<ls>VET. in LA. (III) 1, 9.</ls>
 <LEND>

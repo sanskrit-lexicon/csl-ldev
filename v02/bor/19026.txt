@@ -1,6 +1,6 @@
 <L>19026<pc>588<k1>repetition<k2>repetition
-<div n="lb"/>{@REPETITION:@}¦ <div n="I">I Reiteration: </div><div n="1">(1) {#पुनरुक्तिः;#}</div>
-<div n="lb"/><div n="1">(2) {#द्विरुक्तिः;#} </div><div n="1">(3) by verb: v. To repeat (1).</div>
-<div n="lb"/><div n="I">II Of acts; </div><div n="1">(1) {#समभिहारः;#} </div><div n="1">(2) {#समभिव्याहारः,#}
-<div n="lb"/>S. k. </div><div n="I">III Recital, rehearsal: q. v.: {#व्याहारः।#}</div>
+{@REPETITION:@}¦ <div n="I">I Reiteration: </div><div n="1">(1) {#पुनरुक्तिः;#}</div>
+<div n="1">(2) {#द्विरुक्तिः;#} </div><div n="1">(3) by verb: v. To repeat (1).</div>
+<div n="I">II Of acts; </div><div n="1">(1) {#समभिहारः;#} </div><div n="1">(2) {#समभिव्याहारः,#}
+S. k. </div><div n="I">III Recital, rehearsal: q. v.: {#व्याहारः।#}</div>
 <LEND>

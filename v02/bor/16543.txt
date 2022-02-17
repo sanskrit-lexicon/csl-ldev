@@ -1,5 +1,5 @@
 <L>16543<pc>508<k1>pasture<k2>pasture
-<div n="lb"/>{@PASTURE@}¦ (subs.): <div n="1">(1) {#यवस#} (mn.); </div><div n="1">(2) {#शाद्वलम्,#}
-<div n="lb"/><div n="xe">{%with abundant water and p.:%}</div> <div n="xs">{#पर्याप्तजलशाद्वलम्,#}</div>
-<div n="lb"/>Ka. xiv. 30.: v. Pasturage.</div>
+{@PASTURE@}¦ (subs.): <div n="1">(1) {#यवस#} (mn.); </div><div n="1">(2) {#शाद्वलम्,#}
+<div n="xe">{%with abundant water and p.:%}</div> <div n="xs">{#पर्याप्तजलशाद्वलम्,#}</div>
+Ka. xiv. 30.: v. Pasturage.</div>
 <LEND>

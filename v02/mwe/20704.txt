@@ -1,33 +1,33 @@
 <L>20704<pc>541-a<k1>object<k2>object
-<div n="lb"/>OBJECT¦, {%s.%} (That about which any power or faculty is em-
-<div n="lb"/>ployed, or by which something is presented to the mind)
-<div n="lb"/>{#विषयः, अर्थः, इन्द्रियार्थः, गोचरः, पात्रं, भाजनं, भूमिः#} {%f.,%} {#आस्पदं,#}
-<div n="lb"/>{#स्थानं#}. The first four of these words refer properly to
-<div n="lb"/>objects of sense, of which five are given, viz. ‘form,’
-<div n="lb"/>{#रूपं;#} ‘sound,’ {#शब्दः;#} ‘odour,’ {#गन्धः;#} ‘flavor,’ {#रसः;#} ‘touch,’
-<div n="lb"/>{#स्पर्शः#}. The other words are used elegantly in composi-
-<div n="lb"/>tion, thus, ‘an object of confidence,’ {#विश्वासपात्रं, विश्वासभूमिः#} {%f.,%}
-<div n="lb"/>{#विश्वासास्पदं, विश्वासस्थानं;#} ‘of affection,’ {#स्नेहभूमिः#} {%f.,%} {#प्रीतिपात्रं;#}
-<div n="lb"/>‘of favor,’ {#प्रसादभूमिः#} {%f.;%} ‘of compassion,’ {#कृपापात्रं, दयाभाजनं;#}
-<div n="lb"/>‘of disgrace,’ {#अभिभवास्पदं;#} ‘of blame,’ {#निन्दापात्रं, निन्दाविषयः;#}
-<div n="lb"/>‘of praise,’ {#स्तुतिभाजनं;#} ‘of honor,’ {#मानभाजनं;#} ‘of charity
-<div n="lb"/>or liberality,’ {#दानपात्रं;#} ‘of dispute or litigation,’ {#व्यवहा-#}
-<div n="lb"/>{#रविषयः, व्यवहारस्थानं;#} ‘of taxation,’ {#शुल्कस्थानं;#} ‘deserving
-<div n="lb"/>object of charity, &c.,’ {#सुपात्रं, पात्रं;#} ‘undeserving,’ {#कुपात्रं,#}
-<div n="lb"/>{#अपात्रं;#} ‘visible object,’ {#चक्षुर्विषयः#}. — (Purpose, end, that
-<div n="lb"/>to which the mind is directed) {#अभिप्रायः, आशयः, अभिप्रेतं,#}
-<div n="lb"/>{#अर्थः, विषयः, उद्देशः, तात्पर्य्यं, कार्य्यं, कार्य्यवस्तु#} {%n.,%} {#प्रयोजनं, प्रयोगः,#}
-<div n="lb"/>{#अभिसन्धिः#} {%m.,%} {#प्रार्थितं, इष्टं, पदार्थः, लक्षं, लक्ष्यं, हेतुः#} {%m.,%} {#निमित्तं,#}
-<div n="lb"/>{#अग्रभूमिः;#} ‘accomplishment of one's object,’ {#स्वार्थसिद्धिः#} {%f.,%}
-<div n="lb"/>{#कार्य्यसिद्धिः#} {%f.,%} {#इष्टसिद्धिः#} {%f.,%} {#कृतार्थता, चरितार्थता, इष्टापत्तिः#} {%f.,%} {#आशा-#}
-<div n="lb"/>{#प्राप्तिः#} {%f.;%} ‘one who has accomplished his object,’ {#कृतार्थः#}
-<div n="lb"/>{#-र्था -र्थं, चरितार्थः#} &c., {#प्राप्तार्थः#} &c., {#कृतकृत्यः -त्या -त्यं, आशाप्राप्तः#}
-<div n="lb"/>{#-प्ता -प्तं;#} ‘I have gained my object,’ {#कृतार्थोऽस्मि, चरितार्थोऽस्मि;#}
-<div n="lb"/>‘one's own private object or end,’ {#स्वार्थः, स्वहितं, स्वसाधनं;#}
-<div n="lb"/>‘highest object,’ {#परमार्थः;#} ‘important object,’ {#गुर्वर्थः;#} ‘the
-<div n="lb"/>four objects of human pursuit collectively,’ {#चतुर्वर्गः, चतुर्भद्रं;#}
-<div n="lb"/>these are ‘virtue,’ {#धर्म्मः;#} ‘wealth,’ {#अर्थः;#} ‘love,’ {#कामः;#}
-<div n="lb"/>‘final beatitude,’ {#मोक्षः;#} ‘the three objects without the
-<div n="lb"/>last,’ {#त्रिवर्गः, त्रिगणं;#} ‘with what object,’ {#किमर्थं, किमुद्दिश्य#}.
-<div n="lb"/> — (In grammar) {#कर्म्म#} {%n.%} {#(न्), कर्म्मपदं#}.
+OBJECT¦, {%s.%} (That about which any power or faculty is em-
+ployed, or by which something is presented to the mind)
+{#विषयः, अर्थः, इन्द्रियार्थः, गोचरः, पात्रं, भाजनं, भूमिः#} {%f.,%} {#आस्पदं,#}
+{#स्थानं#}. The first four of these words refer properly to
+objects of sense, of which five are given, viz. ‘form,’
+{#रूपं;#} ‘sound,’ {#शब्दः;#} ‘odour,’ {#गन्धः;#} ‘flavor,’ {#रसः;#} ‘touch,’
+{#स्पर्शः#}. The other words are used elegantly in composi-
+tion, thus, ‘an object of confidence,’ {#विश्वासपात्रं, विश्वासभूमिः#} {%f.,%}
+{#विश्वासास्पदं, विश्वासस्थानं;#} ‘of affection,’ {#स्नेहभूमिः#} {%f.,%} {#प्रीतिपात्रं;#}
+‘of favor,’ {#प्रसादभूमिः#} {%f.;%} ‘of compassion,’ {#कृपापात्रं, दयाभाजनं;#}
+‘of disgrace,’ {#अभिभवास्पदं;#} ‘of blame,’ {#निन्दापात्रं, निन्दाविषयः;#}
+‘of praise,’ {#स्तुतिभाजनं;#} ‘of honor,’ {#मानभाजनं;#} ‘of charity
+or liberality,’ {#दानपात्रं;#} ‘of dispute or litigation,’ {#व्यवहा-#}
+{#रविषयः, व्यवहारस्थानं;#} ‘of taxation,’ {#शुल्कस्थानं;#} ‘deserving
+object of charity, &c.,’ {#सुपात्रं, पात्रं;#} ‘undeserving,’ {#कुपात्रं,#}
+{#अपात्रं;#} ‘visible object,’ {#चक्षुर्विषयः#}. — (Purpose, end, that
+to which the mind is directed) {#अभिप्रायः, आशयः, अभिप्रेतं,#}
+{#अर्थः, विषयः, उद्देशः, तात्पर्य्यं, कार्य्यं, कार्य्यवस्तु#} {%n.,%} {#प्रयोजनं, प्रयोगः,#}
+{#अभिसन्धिः#} {%m.,%} {#प्रार्थितं, इष्टं, पदार्थः, लक्षं, लक्ष्यं, हेतुः#} {%m.,%} {#निमित्तं,#}
+{#अग्रभूमिः;#} ‘accomplishment of one's object,’ {#स्वार्थसिद्धिः#} {%f.,%}
+{#कार्य्यसिद्धिः#} {%f.,%} {#इष्टसिद्धिः#} {%f.,%} {#कृतार्थता, चरितार्थता, इष्टापत्तिः#} {%f.,%} {#आशा-#}
+{#प्राप्तिः#} {%f.;%} ‘one who has accomplished his object,’ {#कृतार्थः#}
+{#-र्था -र्थं, चरितार्थः#} &c., {#प्राप्तार्थः#} &c., {#कृतकृत्यः -त्या -त्यं, आशाप्राप्तः#}
+{#-प्ता -प्तं;#} ‘I have gained my object,’ {#कृतार्थोऽस्मि, चरितार्थोऽस्मि;#}
+‘one's own private object or end,’ {#स्वार्थः, स्वहितं, स्वसाधनं;#}
+‘highest object,’ {#परमार्थः;#} ‘important object,’ {#गुर्वर्थः;#} ‘the
+four objects of human pursuit collectively,’ {#चतुर्वर्गः, चतुर्भद्रं;#}
+these are ‘virtue,’ {#धर्म्मः;#} ‘wealth,’ {#अर्थः;#} ‘love,’ {#कामः;#}
+‘final beatitude,’ {#मोक्षः;#} ‘the three objects without the
+last,’ {#त्रिवर्गः, त्रिगणं;#} ‘with what object,’ {#किमर्थं, किमुद्दिश्य#}.
+ — (In grammar) {#कर्म्म#} {%n.%} {#(न्), कर्म्मपदं#}.
 <LEND>

@@ -1,8 +1,8 @@
 <L>21702<pc>684<k1>stun<k2>stun
-<div n="lb"/>{@STUN@}¦ (v.): {%to be s.ned:%} <div n="1">(1) {#मुह्यति#} ({#मुह्,#} c. 4.),
-<div n="lb"/><div n="xe">{%others were s. ned:%}</div> <div n="xs">{#मुमुहुः,#}</div> Ku.; </div><div n="1">(2) {#मूर्च्छति#}
-<div n="lb"/>({#मूर्च्छ्,#} c. 1.), <div n="xe">{%he was s. ned by it:%}</div> <div n="xs">{#तेनामूर्च्छीदसौ #}
-<div n="lb"/>{# क्षतः,#}</div> B. xv. 55.; </div><div n="1">(3) by subs., <div n="xe">{%the people%}
-<div n="lb"/>{%were s. ned by the noise:%}</div> <div n="xs">{#निःस्वनेन मूर्च्छेवामवज्जनस्य,#}</div>
-<div n="lb"/>K.</div>
+{@STUN@}¦ (v.): {%to be s.ned:%} <div n="1">(1) {#मुह्यति#} ({#मुह्,#} c. 4.),
+<div n="xe">{%others were s. ned:%}</div> <div n="xs">{#मुमुहुः,#}</div> Ku.; </div><div n="1">(2) {#मूर्च्छति#}
+({#मूर्च्छ्,#} c. 1.), <div n="xe">{%he was s. ned by it:%}</div> <div n="xs">{#तेनामूर्च्छीदसौ #}
+{# क्षतः,#}</div> B. xv. 55.; </div><div n="1">(3) by subs., <div n="xe">{%the people%}
+{%were s. ned by the noise:%}</div> <div n="xs">{#निःस्वनेन मूर्च्छेवामवज्जनस्य,#}</div>
+K.</div>
 <LEND>

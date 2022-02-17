@@ -1,5 +1,5 @@
 <L>64<pc>003<k1>above<k2>above
-<div n="lb"/>{@ABOVE, BE:@}¦ <div n="1">(1) {#अतिवर्तते#} ({#वृत्,#} c. 1.) Vi. iv.;</div>
-<div n="lb"/><div n="1">(2) {#अधि#} <div n="xe">{%or%}</div> <div n="xs">{#अति#}</div> (with acc.) (rare): <div n="xe">{%Kṛṣṇa%}
-<div n="lb"/>{%is a. the gods%}</div> <div n="xs">{#अति देवान् कृष्णः।#}</div></div>
+{@ABOVE, BE:@}¦ <div n="1">(1) {#अतिवर्तते#} ({#वृत्,#} c. 1.) Vi. iv.;</div>
+<div n="1">(2) {#अधि#} <div n="xe">{%or%}</div> <div n="xs">{#अति#}</div> (with acc.) (rare): <div n="xe">{%Kṛṣṇa%}
+{%is a. the gods%}</div> <div n="xs">{#अति देवान् कृष्णः।#}</div></div>
 <LEND>

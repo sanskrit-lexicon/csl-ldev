@@ -4,8 +4,8 @@
 <ls>P. 4, 1, 112.</ls> 
 <ls>TRIK. 2, 8, 8.</ls> 
 <ls>H. 701.</ls> 
-<ls>MBH. 1, 3149. 2, 327. 568. 13, 325.</ls> 
-<ls>HARIV. 639. 1357.</ls> 
+<ls>MBH. 1, 3149.</ls> <ls n="MBH.">2, 327.</ls> <ls n="MBH. 2,">568.</ls> <ls n="MBH.">13, 325.</ls> 
+<ls>HARIV. 639.</ls> <ls n="HARIV.">1357.</ls> 
 <ls>VIKR. 145.</ls> {#ऐलवंश#} 
 <ls>MBH. 1, 3753.</ls> {#ऐलवंश्य#} 
 <ls>2, 569.</ls> 

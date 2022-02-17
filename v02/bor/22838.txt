@@ -1,4 +1,4 @@
 <L>22838<pc>720<k1>trebly<k2>trebly
-<div n="lb"/>{@TREBLY:@}¦ <div n="1">(1) {#त्रेधा#} <div n="xe">{%or%}</div> <div n="xs">{#त्रिधा;#}</div> </div><div n="1">(2) {#त्रिगुणम्#} (= three-
-<div n="lb"/>-fold).</div>
+{@TREBLY:@}¦ <div n="1">(1) {#त्रेधा#} <div n="xe">{%or%}</div> <div n="xs">{#त्रिधा;#}</div> </div><div n="1">(2) {#त्रिगुणम्#} (= three-
+-fold).</div>
 <LEND>

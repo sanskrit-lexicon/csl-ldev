@@ -1,7 +1,7 @@
 <L>7241<pc>230<k1>education<k2>education
-<div n="lb"/>{@EDUCATION:@}¦ <div n="1">(1) {#संस्कारः,#} <div n="xe">{%e. has been given by%}
-<div n="lb"/>{%(your) father with great care:%}</div> <div n="xs">{#पित्रा महता प्रयत्नेन #}
-<div n="lb"/>{# समारोपितसंस्कारः,#}</div> K.; </div><div n="1">(2) {#विनयः#} (rare), <div n="xe">{%by%}
-<div n="lb"/>{%giving e.:%}</div> <div n="xs">{#विनयाधानात्,#}</div> R.; </div><div n="1">(3) {#शिक्षा#} (= ins-
-<div n="lb"/>-truction).</div>
+{@EDUCATION:@}¦ <div n="1">(1) {#संस्कारः,#} <div n="xe">{%e. has been given by%}
+{%(your) father with great care:%}</div> <div n="xs">{#पित्रा महता प्रयत्नेन #}
+{# समारोपितसंस्कारः,#}</div> K.; </div><div n="1">(2) {#विनयः#} (rare), <div n="xe">{%by%}
+{%giving e.:%}</div> <div n="xs">{#विनयाधानात्,#}</div> R.; </div><div n="1">(3) {#शिक्षा#} (= ins-
+-truction).</div>
 <LEND>

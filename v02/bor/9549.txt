@@ -1,4 +1,4 @@
 <L>9549<pc>303<k1>fundament<k2>fundament
-<div n="lb"/>{@FUNDAMENT:@}¦ <div n="1">(1) {#गुदम्;#} </div><div n="1">(2) {#गुह्यम्;#} </div><div n="1">(3) {#अपानम्;#}</div>
-<div n="lb"/><div n="1">(4) {#पायुः।#}</div>
+{@FUNDAMENT:@}¦ <div n="1">(1) {#गुदम्;#} </div><div n="1">(2) {#गुह्यम्;#} </div><div n="1">(3) {#अपानम्;#}</div>
+<div n="1">(4) {#पायुः।#}</div>
 <LEND>

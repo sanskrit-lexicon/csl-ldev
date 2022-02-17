@@ -1,6 +1,6 @@
 <L>18885<pc>583<k1>rehearse<k2>rehearse
-<div n="lb"/>{@REHEARSE:@}¦ <div n="I">I To recite, narrate: q. v.: {#पठति#}
-<div n="lb"/>({#पठ्,#} c. 1.). </div><div n="I">II To practise beforehand:
-<div n="lb"/>{#प्रयुंक्ते#} ({#युज्,#} c. 7.), <div n="xe">{%Bharata will have it r. d by%}
-<div n="lb"/>{%the nymphs:%}</div> <div n="xs">{#भरतस्तमप्सरोभिः प्रयोजयिष्यति,#}</div> U. iv.</div>
+{@REHEARSE:@}¦ <div n="I">I To recite, narrate: q. v.: {#पठति#}
+({#पठ्,#} c. 1.). </div><div n="I">II To practise beforehand:
+{#प्रयुंक्ते#} ({#युज्,#} c. 7.), <div n="xe">{%Bharata will have it r. d by%}
+{%the nymphs:%}</div> <div n="xs">{#भरतस्तमप्सरोभिः प्रयोजयिष्यति,#}</div> U. iv.</div>
 <LEND>

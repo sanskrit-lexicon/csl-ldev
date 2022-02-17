@@ -1,6 +1,6 @@
 <L>24085<pc>753<k1>warm<k2>warm
-<div n="lb"/>{@WARM@}¦ (adj.): <div n="I">I Hot: q. v.: {#तप्त#} (f. {#प्ता#}). </div><div n="I">II
-<div n="lb"/>Fig.: {#चण्ड#} (f. {#ण्डा#}): v. Vehement, sharp.</div>
-<div n="lb"/><div n="I">III Rich: q. v. Ph.: <div n="xe">{%to be or feel w.:%}</div> <div n="xs">{#घर्म-#}
-<div n="lb"/>{#मनुभवति।#}</div></div>
+{@WARM@}¦ (adj.): <div n="I">I Hot: q. v.: {#तप्त#} (f. {#प्ता#}). </div><div n="I">II
+Fig.: {#चण्ड#} (f. {#ण्डा#}): v. Vehement, sharp.</div>
+<div n="I">III Rich: q. v. Ph.: <div n="xe">{%to be or feel w.:%}</div> <div n="xs">{#घर्म-#}
+{#मनुभवति।#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>19669<pc>611<k1>sale<k2>sale
-<div n="lb"/>{@SALE:@}¦ {#विक्रयः,#} <div n="xe">{%after s.:%}</div> <div n="xs">{#विक्रयानन्तरम्,#}</div> Bha.; <div n="xe">{%non-%}
-<div n="lb"/>{%delivery after s.:%}</div> <div n="xs">{#विक्रयासम्प्रदानम्,#}</div> Viv.: v. To
-<div n="lb"/>sell. <div n="xe">{%Underhand s.:%}</div> <div n="xs">{#अवक्रयः,#}</div> Y. ii. 243.
+{@SALE:@}¦ {#विक्रयः,#} <div n="xe">{%after s.:%}</div> <div n="xs">{#विक्रयानन्तरम्,#}</div> Bha.; <div n="xe">{%non-%}
+{%delivery after s.:%}</div> <div n="xs">{#विक्रयासम्प्रदानम्,#}</div> Viv.: v. To
+sell. <div n="xe">{%Underhand s.:%}</div> <div n="xs">{#अवक्रयः,#}</div> Y. ii. 243.
 <LEND>

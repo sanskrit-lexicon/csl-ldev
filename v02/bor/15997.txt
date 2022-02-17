@@ -1,4 +1,4 @@
 <L>15997<pc>492<k1>orion<k2>orion
-<div n="lb"/>{@ORION:@}¦ a constellation: <div n="1">(1) {#मृगशिरस्#} (m.);</div>
-<div n="lb"/><div n="1">(2) {#मृगशीर्षः।#}</div>
+{@ORION:@}¦ a constellation: <div n="1">(1) {#मृगशिरस्#} (m.);</div>
+<div n="1">(2) {#मृगशीर्षः।#}</div>
 <LEND>

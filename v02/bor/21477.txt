@@ -1,5 +1,5 @@
 <L>21477<pc>676<k1>stifle<k2>stifle
-<div n="lb"/>{@STIFLE:@}¦ <div n="I">I Lit.: {#श्वासरोधं करोति#} <div n="xe">{%or%}</div> <div n="xs">{#श्वासं रुणद्धि,#}</div>
-<div n="lb"/>({#रुध्,#} c. 7.) (with gen.). </div><div n="I">II Fig.: {#स्तभ्नाति#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#स्तम्मयति, सं-#}</div> ({#स्तम्भ्,#} c. 9. and 10.).</div>
+{@STIFLE:@}¦ <div n="I">I Lit.: {#श्वासरोधं करोति#} <div n="xe">{%or%}</div> <div n="xs">{#श्वासं रुणद्धि,#}</div>
+({#रुध्,#} c. 7.) (with gen.). </div><div n="I">II Fig.: {#स्तभ्नाति#}
+<div n="xe">{%or%}</div> <div n="xs">{#स्तम्मयति, सं-#}</div> ({#स्तम्भ्,#} c. 9. and 10.).</div>
 <LEND>

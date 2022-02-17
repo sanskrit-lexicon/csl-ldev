@@ -1,5 +1,5 @@
 <L>15440<pc>473<k1>ninety<k2>ninety
-<div n="lb"/>{@NINETY:@}¦ {#नवति#} (f.); <div n="xe">{%n. -nine:%}</div> <div n="xs">{#नवनवतिः;#}</div> <div n="xe">{%n.%}
-<div n="lb"/>{%times:%}</div> <div n="xs">{#नवतिवारान्;#}</div> <div n="xe">{%n. -fold:%}</div> <div n="xs">{#नवतिगुणितम्;#}</div> <div n="xe">{%in%}
-<div n="lb"/>{%n. ways:%}</div> <div n="xs">{#नवतिधा।#}</div>
+{@NINETY:@}¦ {#नवति#} (f.); <div n="xe">{%n. -nine:%}</div> <div n="xs">{#नवनवतिः;#}</div> <div n="xe">{%n.%}
+{%times:%}</div> <div n="xs">{#नवतिवारान्;#}</div> <div n="xe">{%n. -fold:%}</div> <div n="xs">{#नवतिगुणितम्;#}</div> <div n="xe">{%in%}
+{%n. ways:%}</div> <div n="xs">{#नवतिधा।#}</div>
 <LEND>

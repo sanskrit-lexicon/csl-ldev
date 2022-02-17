@@ -1,6 +1,6 @@
 <L>11685<pc>365<k1>implicate<k2>implicate
-<div n="lb"/>{@IMPLICATE:@}¦ <div n="1">(1) {#सम्बध्नाति#} ({#बन्ध्,#} c. 9.) (?);</div>
-<div n="lb"/><div n="1">(2) {#संक्रामयति#} (c. of {#क्रम्#}) (falsely), <div n="xe">{%might i. me%}
-<div n="lb"/>{%in this crime:%}</div> <div n="xs">{#इदमकार्यं मयि संक्रामयेत्,#}</div> Mr.
-<div n="lb"/>viii.</div>
+{@IMPLICATE:@}¦ <div n="1">(1) {#सम्बध्नाति#} ({#बन्ध्,#} c. 9.) (?);</div>
+<div n="1">(2) {#संक्रामयति#} (c. of {#क्रम्#}) (falsely), <div n="xe">{%might i. me%}
+{%in this crime:%}</div> <div n="xs">{#इदमकार्यं मयि संक्रामयेत्,#}</div> Mr.
+viii.</div>
 <LEND>

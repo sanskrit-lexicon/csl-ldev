@@ -1,8 +1,8 @@
 <L>20857<pc>655<k1>snap<k2>snap
-<div n="lb"/>{@SNAP@}¦ (v. i.): <div n="I">I To break suddenly: {#त्रुट्यति#}
-<div n="lb"/>({#त्रुट्,#} c. 4.). </div><div n="I">II To make a sharp sound:
-<div n="lb"/>{#क्वणति#} ({#क्वण्,#} c. 1.). </div><div n="I">II To bark: q. v.:
-<div n="lb"/>{#भषति#} ({#भष,#} c. 1.) </div><div n="I">IV To aim: {#लक्ष्यीकरोति।#}</div>
-<div n="lb"/><div n="I">V To bite: q. v.: {#दशति#} ({#दन्श्,#} c. 1: with
-<div n="lb"/>acc.).</div>
+{@SNAP@}¦ (v. i.): <div n="I">I To break suddenly: {#त्रुट्यति#}
+({#त्रुट्,#} c. 4.). </div><div n="I">II To make a sharp sound:
+{#क्वणति#} ({#क्वण्,#} c. 1.). </div><div n="I">II To bark: q. v.:
+{#भषति#} ({#भष,#} c. 1.) </div><div n="I">IV To aim: {#लक्ष्यीकरोति।#}</div>
+<div n="I">V To bite: q. v.: {#दशति#} ({#दन्श्,#} c. 1: with
+acc.).</div>
 <LEND>

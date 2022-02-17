@@ -1,13 +1,13 @@
 <L>223393<pc>1100,3<k1>श्रु<k2>श्रु<h>1<e>1
 <hom>1.</hom> <s>श्रु</s> ¦ <ab>cl.</ab> 5. <ab>P.</ab> (<ls>Dhātup. xxii, 44</ls>) <s>शृणो/ति</s> 
 (<ab>Ved.</ab> and <ab>ep.</ab> also <ab>Ā.</ab> <s>शृणुते</s>, and in <ls>RV. 3.</ls> <ab>sg.</ab> <s>शृण्वे/</s>, 2. <ab>sg.</ab> <s>°विषे/</s>, 3. <ab>pl.</ab> <s>°विरे/</s> [<ab>cf.</ab> below];
-<ab>Impv.</ab> <s>शृणु</s>, <s>°णुधी/<shortlong/></s> and <s>°णुही/<shortlong/></s> <ab>pl.</ab> <s>शृणुता/<shortlong/></s>, <s>°णोत</s> and <s>°णोतन</s>, <ls>RV.</ls>;
+<ab>Impv.</ab> <s>शृणु</s>, <s>°णुधी/<स्होर्त्लोन्ग्/></s> and <s>°णुही/<स्होर्त्लोन्ग्/></s> <ab>pl.</ab> <s>शृणुता/<स्होर्त्लोन्ग्/></s>, <s>°णोत</s> and <s>°णोतन</s>, <ls>RV.</ls>;
 <ab>pf.</ab> <s>शुश्रा/व</s> [once in <ls>R.</ls> with <ab>pass.</ab> sense], <s>शुश्रुवे</s> [2. <ab>sg.</ab> <s>शुश्रोथ</s>, 1. <ab>pl.</ab> <s>शुश्रुम</s>, in <ls>Up.</ls> also <s>°मस्</s>;
 <s>शुश्रवत्</s>, <s>शुश्रूया/स्</s>, <ls>RV.</ls>, <ab>p.</ab> <s>शुश्रुव/स्</s> <ab>q.v.</ab>];
 <ab>aor.</ab> <ab>Ved.</ab> <s>अ/श्रवम्</s>, <s>अ/श्रोत्</s>, 2. <ab>sg.</ab> <s>श्रो/षि</s>;
 <ab>Subj.</ab> <s>श्र/वत्</s>, <s>°वथः</s>;
 [?] <s>श्रुवम्</s>, <ls>TĀr.</ls>;
-<ab>Impv.</ab> <s>श्रुधी/<shortlong/></s>, <s>श्रो/तु</s>, <ls>RV.</ls>;
+<ab>Impv.</ab> <s>श्रुधी/<स्होर्त्लोन्ग्/></s>, <s>श्रो/तु</s>, <ls>RV.</ls>;
 <s>अश्रौषीत्</s>, <ls>Br.</ls> &c.;
 <ab>Subj.</ab> <s>श्रोषन्</s> <ab>Impv.</ab> <s>श्रोषन्तु</s>, <ls>RV.</ls> [<ab>cf.</ab> <s>श्रो/षमाण</s>];
 <ab>Prec.</ab> <s>श्रूया/सम्</s>, <ls>AV.</ls> &c.;
@@ -30,7 +30,7 @@
 <div n="to"/>to cause to be heard or learnt, announce, proclaim, declare, <ls>RV.</ls> &c. &c.;
 <div n="to"/>to cause to hear, inform, instruct, communicate, relate, tell (with <ab>acc.</ab> of thing, and <ab>acc.</ab> <ab>gen.</ab>, or <ab>dat.</ab> of <ab>pers.</ab>, or with <ab>instr.</ab> in sense of ‘through’), <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
 <div n="vp"/><ab>Pass.</ab> of <ab>Caus.</ab> <s>श्राव्यते</s>, to be informed of (<ab>acc.</ab>), <ls>MBh.</ls> &c.:
-<div n="vp"/><ab>Desid.</ab> <s>शु/श्रूषते</s> (<ls>Pāṇ. 1-3, 57</ls>; <ab>ep.</ab> or <ab>mc.</ab> also <s>°ति</s>; <ab>Pass.</ab> <s>शुश्रूष्यते</s>), 
+<div n="vp"/><ab>Desid.</ab> <s>शु/श्रूषते</s> (<ls>Pāṇ. i, 3, 57</ls>; <ab>ep.</ab> or <ab>mc.</ab> also <s>°ति</s>; <ab>Pass.</ab> <s>शुश्रूष्यते</s>), 
 <div n="to"/>to wish or like to hear (<ab>acc.</ab>), desire to attend or listen to (<ab>dat.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to attend upon, serve, obey (<ab>acc.</ab>, rarely <ab>gen.</ab>), <ls>Mn.</ls>; <ls>MBh.</ls> &c.:
 <div n="vp"/><ab>Caus.</ab> of <ab>Desid.</ab> <s>शुश्रूषयति</s>, to wait upon, be at the service of (<ab>acc.</ab>), <ls>Kull.</ls> on <ls>Mn. ii, 243</ls> :

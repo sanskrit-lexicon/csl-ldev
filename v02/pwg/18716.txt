@@ -12,7 +12,7 @@
 {#अ\ष्टौ कृ°#} 
 <ls>4, 5, 1.</ls> {#त्रिष्कृत्वो ब्रह्मणे नमस्कृत्य#} 
 <ls>AIT. BR. 8, 9.</ls> 
-<ls>ŚAT. BR. 1, 2, 5, 13. 3, 2, 7. 17. 18. 4, 1, 1, 10 u.s.w.</ls> {#वहु कृ°#} 
+<ls>ŚAT. BR. 1, 2, 5, 13. 3, 2, 7. 17. 18. 4, 1, 1, 10</ls> u.s.w. {#वहु कृ°#} 
 <ls>8, 1, 1, 2.</ls> {#कति कृ°#} 
 <ls>12, 3, 2, 7.</ls> {#तावत्कृ°, यावत्कृ°#} 
 <ls>9, 1, 1, 41.</ls> {#सहस्र°#} 
@@ -22,5 +22,5 @@
 <div n="v">— Vgl. {#सकृत्#}
 , <lang n="Old-Church-Slavonic">краты</lang> und
 <lang n="Old-Church-Slavonic">краты</lang>, lit. {%kartùs, kàrts, kàrtu, kàrta%} 
-<ls>?(SCHLEICHER, Lit. Gr. S. 154).</ls>
+(<ls>SCHLEICHER, Lit. Gr. S. 154).</ls>
 <LEND>

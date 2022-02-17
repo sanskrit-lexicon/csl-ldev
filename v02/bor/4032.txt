@@ -1,4 +1,4 @@
 <L>4032<pc>131<k1>colonist<k2>colonist
-<div n="lb"/>{@COLONIST:@}¦ {#*अधिनिवेशिन्#} (f. {#नी#}) <div n="xe">{%or%}</div> <div n="xs">{#अधिनिवेशवासिन्#}</div>
-<div n="lb"/>(f. {#नी#}).
+{@COLONIST:@}¦ {#*अधिनिवेशिन्#} (f. {#नी#}) <div n="xe">{%or%}</div> <div n="xs">{#अधिनिवेशवासिन्#}</div>
+(f. {#नी#}).
 <LEND>

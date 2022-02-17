@@ -1,5 +1,5 @@
 <L>11776<pc>368<k1>inaccessibility<k2>inaccessibility
-<div n="lb"/>{@INACCESSIBILITY:@}¦ <div n="I">I Of places: </div><div n="1">(1) {#अगम्यता;#}</div>
-<div n="lb"/><div n="1">(2) {#दुरासदत्वम्।#} </div><div n="I">II Of documents, etc.: </div><div n="1">(1)
-<div n="lb"/>{#दुर्लमता;#} </div><div n="1">(2) {#दुष्प्राप्यता।#}</div>
+{@INACCESSIBILITY:@}¦ <div n="I">I Of places: </div><div n="1">(1) {#अगम्यता;#}</div>
+<div n="1">(2) {#दुरासदत्वम्।#} </div><div n="I">II Of documents, etc.: </div><div n="1">(1)
+{#दुर्लमता;#} </div><div n="1">(2) {#दुष्प्राप्यता।#}</div>
 <LEND>

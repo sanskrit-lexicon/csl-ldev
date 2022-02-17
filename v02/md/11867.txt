@@ -1,8 +1,8 @@
 <L>11867<pc>168-1<k1>पूर्वमध्याह्न<k2>पूर्वमध्याह्न
 {#पूर्वमध्याह्न#}¦pūrva-madhyāhna, {%m.%} forenoon; 
-<>{@-mārin,@} {%a.%} dying before, predeceasing; {@-mī-@}
-<>{@-māṃsā@}, {%f.%} earlier Mīmāṃśā ({%the philosophical %}<lbinfo n="10"/>
-<>{% system founded by Jaimini and dealing %}
-<>{%with the discussion of the sacred text%}); {@-mu-@}
-<>{@-kha,@} {%a.%} facing eastwards.
+{@-mārin,@} {%a.%} dying before, predeceasing; {@-mī-@}
+{@-māṃsā@}, {%f.%} earlier Mīmāṃśā ({%the philosophical %}<lbinfo n="10"/>
+{% system founded by Jaimini and dealing %}
+{%with the discussion of the sacred text%}); {@-mu-@}
+{@-kha,@} {%a.%} facing eastwards.
 <LEND>

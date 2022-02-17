@@ -1,9 +1,9 @@
 <L>9023<pc>285<k1>flower<k2>flower
-<div n="lb"/>{@FLOWER@}¦ (subs.): <div n="I">I In gen. sense: </div><div n="1">(1) {#पुष्पम्,#}
-<div n="lb"/><div n="xe">{%the stars, the f.s of heaven:%}</div> <div n="xs">{#ताराः खपुष्पाणि,#}</div> N.;</div>
-<div n="lb"/><div n="1">(2) {#कुसुमम्,#} <div n="xe">{%f. -bed:%}</div> <div n="xs">{#कुसुमास्तरणम्,#}</div> Ku.; </div><div n="1">(3) {#प्रसूनं#} {%or%}
-<div n="lb"/>{#प्रसवः#} (rare), <div n="xe">{%coming out of f.s:%}</div> <div n="xs">{#प्रसूनस्यागमः,#}</div> U.
-<div n="lb"/><div n="xe">{%In f.:%}</div> <div n="xs">{#कुसुमितः#}</div> ({#ता, तं#}) <div n="xe">{%or%}</div> <div n="xs">{#पुष्पितः#}</div> ({#ता, तं#}), Mah.</div>
-<div n="lb"/><div n="I">II Best part: {#सारमागः।#} <div n="xe">{%F. of life:%}</div> <div n="xs">{#प्रौढयौवनम्#}</div>
-<div n="lb"/>(?). </div><div n="I">III Menstrual discharge: {#पुष्पम्।#}</div>
+{@FLOWER@}¦ (subs.): <div n="I">I In gen. sense: </div><div n="1">(1) {#पुष्पम्,#}
+<div n="xe">{%the stars, the f.s of heaven:%}</div> <div n="xs">{#ताराः खपुष्पाणि,#}</div> N.;</div>
+<div n="1">(2) {#कुसुमम्,#} <div n="xe">{%f. -bed:%}</div> <div n="xs">{#कुसुमास्तरणम्,#}</div> Ku.; </div><div n="1">(3) {#प्रसूनं#} {%or%}
+{#प्रसवः#} (rare), <div n="xe">{%coming out of f.s:%}</div> <div n="xs">{#प्रसूनस्यागमः,#}</div> U.
+<div n="xe">{%In f.:%}</div> <div n="xs">{#कुसुमितः#}</div> ({#ता, तं#}) <div n="xe">{%or%}</div> <div n="xs">{#पुष्पितः#}</div> ({#ता, तं#}), Mah.</div>
+<div n="I">II Best part: {#सारमागः।#} <div n="xe">{%F. of life:%}</div> <div n="xs">{#प्रौढयौवनम्#}</div>
+(?). </div><div n="I">III Menstrual discharge: {#पुष्पम्।#}</div>
 <LEND>

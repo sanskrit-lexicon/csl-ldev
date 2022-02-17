@@ -1,4 +1,4 @@
 <L>17566<pc>537<k1>preceptress<k2>preceptress
-<div n="lb"/>{@PRECEPTRESS:@}¦ <div n="1">(1) {#उपाध्याया, उपाध्यायी;#} </div><div n="1">(2)
-<div n="lb"/>{#अध्यापिका।#}</div>
+{@PRECEPTRESS:@}¦ <div n="1">(1) {#उपाध्याया, उपाध्यायी;#} </div><div n="1">(2)
+{#अध्यापिका।#}</div>
 <LEND>

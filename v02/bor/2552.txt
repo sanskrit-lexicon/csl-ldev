@@ -1,7 +1,7 @@
 <L>2552<pc>087<k1>breed<k2>breed
-<div n="lb"/>{@BREED@}¦ (v. t.): <div n="I">I To beget (Lit and Fig):
-<div n="lb"/>q. v.: {#जनयति#} (c. of {#जन्#}). </div><div n="I">II To bring up:</div>
-<div n="lb"/><div n="1">(1) {#पुष्णाति#} <div n="xe">{%or%}</div> <div n="xs">{#पुष्यति#}</div> ({#पुष्,#} c. 9. and 4.): </div><div n="1">(2)
-<div n="lb"/>{#वर्धयति#} (c. of {#वृध्#}). </div><div n="I">III To educate, instruct:
-<div n="lb"/>q. v.</div>
+{@BREED@}¦ (v. t.): <div n="I">I To beget (Lit and Fig):
+q. v.: {#जनयति#} (c. of {#जन्#}). </div><div n="I">II To bring up:</div>
+<div n="1">(1) {#पुष्णाति#} <div n="xe">{%or%}</div> <div n="xs">{#पुष्यति#}</div> ({#पुष्,#} c. 9. and 4.): </div><div n="1">(2)
+{#वर्धयति#} (c. of {#वृध्#}). </div><div n="I">III To educate, instruct:
+q. v.</div>
 <LEND>

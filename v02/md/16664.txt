@@ -1,9 +1,9 @@
 <L>16664<pc>286-1<k1>विप्रतिकूल<k2>विप्रतिकूल
 {#विप्रतिकूल#}¦vi-prati-kūla, {%a.%} refractory; {@-pat-@}
-<>{@-ti,@} {%f.%} erroneous perception {%or%} notion; contradiction; <lbinfo n="6"/>
-<> divergence of opinion ({%ord. mg.%}); incompatibility <lbinfo n="2"/>
-<> {%of two conceptions,%} antinomy; 
-<>{@-ṣedha,@} {%m.%} keeping in check; contradiction, 
-<>conflict {%of two statements%}; prohibition, negation; <lbinfo n="4"/>
-<> {@-sāra,@} {%m.%} repentance.
+{@-ti,@} {%f.%} erroneous perception {%or%} notion; contradiction; <lbinfo n="6"/>
+ divergence of opinion ({%ord. mg.%}); incompatibility <lbinfo n="2"/>
+ {%of two conceptions,%} antinomy; 
+{@-ṣedha,@} {%m.%} keeping in check; contradiction, 
+conflict {%of two statements%}; prohibition, negation; <lbinfo n="4"/>
+ {@-sāra,@} {%m.%} repentance.
 <LEND>

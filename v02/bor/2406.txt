@@ -1,7 +1,7 @@
 <L>2406<pc>083<k1>bound<k2>bound
-<div n="lb"/>{@BOUND@}¦ (adj.) <div n="I">I Confine: {#बद्धः#} ({#द्धा, द्धं#}): v.
-<div n="lb"/>To bind. </div><div n="I">II Destined: Ph. {%b. for Puri%}
-<div n="lb"/>{#पुरीयात्रिन्#} (f. {#णी#}); <div n="xe">{%where are you b. to%}</div> <div n="xs">{#क्व गच्छसि।#}</div></div>
-<div n="lb"/><div n="I">III Equiv. to must: q. v.: <div n="xe">{%you are b. to do%}
-<div n="lb"/>{%this%}</div> <div n="xs">{#त्वयेदमवश्यं कर्तव्यम्।#}</div></div>
+{@BOUND@}¦ (adj.) <div n="I">I Confine: {#बद्धः#} ({#द्धा, द्धं#}): v.
+To bind. </div><div n="I">II Destined: Ph. {%b. for Puri%}
+{#पुरीयात्रिन्#} (f. {#णी#}); <div n="xe">{%where are you b. to%}</div> <div n="xs">{#क्व गच्छसि।#}</div></div>
+<div n="I">III Equiv. to must: q. v.: <div n="xe">{%you are b. to do%}
+{%this%}</div> <div n="xs">{#त्वयेदमवश्यं कर्तव्यम्।#}</div></div>
 <LEND>

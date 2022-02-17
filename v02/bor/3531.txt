@@ -1,4 +1,4 @@
 <L>3531<pc>117<k1>cherry<k2>cherry
-<div n="lb"/>{@CHERRY:@}¦ <div n="I">I A fruit: {#*चेरिफलं।#} </div><div n="I">II A tree
-<div n="lb"/>{#*चेरिवृक्षः।#}</div>
+{@CHERRY:@}¦ <div n="I">I A fruit: {#*चेरिफलं।#} </div><div n="I">II A tree
+{#*चेरिवृक्षः।#}</div>
 <LEND>

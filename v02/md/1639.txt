@@ -1,10 +1,10 @@
 <L>1639<pc>015-3<k1>अनुग<k2>अनुग
 {#अनुग#}¦anu-gá, {%a.%} following; flying after; 
-<>corresponding to (-°); {%m.%} follower:{%pl.%} retinue; <lbinfo n="4"/>
-<> {@-gati,@} {%f.%} following:{@-ka,@} {%a.%} following; 
-<>imitating; conforming to; {@-gantavya,@} {%fp.%} to 
-<>be followed {%or%} accompanied; {@-gara,@} {%m.%} invitation {%addressed %}<lbinfo n="4"/>
-<>{% to the reciter%}; {@-garjita@}, {%n.%} echo; 
-<>{@-gāmin,@} {%a.%} following, obedient to ({%ac.%}); {%m.%} 
-<>servant; {@-giram,@} {%ad.%} on the mountain.
+corresponding to (-°); {%m.%} follower:{%pl.%} retinue; <lbinfo n="4"/>
+ {@-gati,@} {%f.%} following:{@-ka,@} {%a.%} following; 
+imitating; conforming to; {@-gantavya,@} {%fp.%} to 
+be followed {%or%} accompanied; {@-gara,@} {%m.%} invitation {%addressed %}<lbinfo n="4"/>
+{% to the reciter%}; {@-garjita@}, {%n.%} echo; 
+{@-gāmin,@} {%a.%} following, obedient to ({%ac.%}); {%m.%} 
+servant; {@-giram,@} {%ad.%} on the mountain.
 <LEND>

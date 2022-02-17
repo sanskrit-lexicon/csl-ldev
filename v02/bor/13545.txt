@@ -1,20 +1,20 @@
 <L>13545<pc>416<k1>life<k2>life
-<div n="lb"/>{@LIFE:@}¦ <div n="I">I Of men or animals: </div><div n="1">(1) {#जीवनम्#} {%or%}
-<div n="lb"/>{#जीवितम्,#} <div n="xe">{%I did not quit l.:%}</div> <div n="xs">{#जीवितं नोत्सृष्टवती,#}</div> K.;
-<div n="lb"/>{%longing for my own death simply that he may be%}
-<div n="lb"/>({%recovered%}) <div n="xe">{%to l.:%}</div> <div n="xs">{#तज्जीवितायै वात्ममरणाय स्पृहयन्ती,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#प्राणाः#} (m. pl.), <div n="xe">{%takes one's l.:%}</div> <div n="xs">{#प्राणान् #}
-<div n="lb"/>{# हरति,#}</div> A r.; {%my l. is moving%} ({%i. e. I am dying%}):
-<div n="lb"/>{#प्रचलन्ति हि मे प्राणाः,#} Vi.; {%I will give you my l.:%} [Page417]
-<div n="lb"/>{#प्राणान् ते दास्यामि,#} A. r.; </div><div n="1">(3) {#असवः,#} (m. pl.),
-<div n="lb"/><div n="xe">{%why my l. did not go out at the time:%}</div> <div n="xs">{#असवो मे #}
-<div n="lb"/>{# तत्क्षणे केन हेतुना नोद्गच्छन्ति स्म,#}</div> K. II. Life-
-<div n="lb"/>-time: </div><div n="1">(1) {#जीवनम्#} <div n="xe">{%or%}</div> <div n="xs">{#जीवितम्,#}</div> <div n="xe">{%the l. of animals%}
-<div n="lb"/>{%consists of four or five days:%}</div> <div n="xs">{#जीवितं जन्मवतां #}
-<div n="lb"/>{# चतुःपञ्चान्यहानि,#}</div> D.; <div n="xe">{%throughout one's l.:%}</div> <div n="xs">{#यावज्जीवम्।#}</div>
-<div n="lb"/>H. s.; </div><div n="1">(2) {#आयुस्#} (n.), <div n="xe">{%having long l.:%}</div> <div n="xs">{#दीर्घायुस्#}</div>
-<div n="lb"/>(mfn.), Sr. </div><div n="I">III Fig.: </div><div n="1">(1) {#जीवनम्#} <div n="xe">{%or%}</div> <div n="xs">{#जीवितम्,#}</div>
-<div n="lb"/>{%you are%} ({%my%}) <div n="xe">{%l.:%}</div> <div n="xs">{#त्वं जीवितम्,#}</div> U. iii. 26.; </div><div n="1">(2) {#प्राणाः,#}
-<div n="lb"/><ls>D.</ls> </div><div n="I">IV. Conduct: q. v.: {#वृत्तम्#} <div n="xe">{%or%}</div> <div n="xs">{#वृत्तिः।#}</div> </div><div n="I">V.
-<div n="lb"/>Vivacity, energy: q. v.: perh. {#प्राणाः।#}</div>
+{@LIFE:@}¦ <div n="I">I Of men or animals: </div><div n="1">(1) {#जीवनम्#} {%or%}
+{#जीवितम्,#} <div n="xe">{%I did not quit l.:%}</div> <div n="xs">{#जीवितं नोत्सृष्टवती,#}</div> K.;
+{%longing for my own death simply that he may be%}
+({%recovered%}) <div n="xe">{%to l.:%}</div> <div n="xs">{#तज्जीवितायै वात्ममरणाय स्पृहयन्ती,#}</div>
+K.; </div><div n="1">(2) {#प्राणाः#} (m. pl.), <div n="xe">{%takes one's l.:%}</div> <div n="xs">{#प्राणान् #}
+{# हरति,#}</div> A r.; {%my l. is moving%} ({%i. e. I am dying%}):
+{#प्रचलन्ति हि मे प्राणाः,#} Vi.; {%I will give you my l.:%} [Page417]
+{#प्राणान् ते दास्यामि,#} A. r.; </div><div n="1">(3) {#असवः,#} (m. pl.),
+<div n="xe">{%why my l. did not go out at the time:%}</div> <div n="xs">{#असवो मे #}
+{# तत्क्षणे केन हेतुना नोद्गच्छन्ति स्म,#}</div> K. II. Life-
+-time: </div><div n="1">(1) {#जीवनम्#} <div n="xe">{%or%}</div> <div n="xs">{#जीवितम्,#}</div> <div n="xe">{%the l. of animals%}
+{%consists of four or five days:%}</div> <div n="xs">{#जीवितं जन्मवतां #}
+{# चतुःपञ्चान्यहानि,#}</div> D.; <div n="xe">{%throughout one's l.:%}</div> <div n="xs">{#यावज्जीवम्।#}</div>
+H. s.; </div><div n="1">(2) {#आयुस्#} (n.), <div n="xe">{%having long l.:%}</div> <div n="xs">{#दीर्घायुस्#}</div>
+(mfn.), Sr. </div><div n="I">III Fig.: </div><div n="1">(1) {#जीवनम्#} <div n="xe">{%or%}</div> <div n="xs">{#जीवितम्,#}</div>
+{%you are%} ({%my%}) <div n="xe">{%l.:%}</div> <div n="xs">{#त्वं जीवितम्,#}</div> U. iii. 26.; </div><div n="1">(2) {#प्राणाः,#}
+<ls>D.</ls> </div><div n="I">IV. Conduct: q. v.: {#वृत्तम्#} <div n="xe">{%or%}</div> <div n="xs">{#वृत्तिः।#}</div> </div><div n="I">V.
+Vivacity, energy: q. v.: perh. {#प्राणाः।#}</div>
 <LEND>

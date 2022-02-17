@@ -1,14 +1,14 @@
 <L>13074<pc>403<k1>knot<k2>knot
-<div n="lb"/>{@KNOT@}¦ (subs.): <div n="I">I A tie: </div><div n="1">(1) {#ग्रन्थिः,#} Ku. iii.
-<div n="lb"/>46.; </div><div n="1">(2) {#बन्धः, -नम्,#} M. n. <div n="xe">{%To tie up the hair in%}
-<div n="lb"/>{%a k.:%}</div> <div n="xs">{#वेणीं बध्नाति,#}</div> Mu.; <div n="xe">{%having k. ted hair:%}</div> <div n="xs">{#जटिलः#}</div>
-<div n="lb"/>({#ला, लं#}), S. p. </div><div n="I">II Of plants: {#ग्रन्थिः:#} v.
-<div n="lb"/>Joint. </div><div n="I">III Fig., bond: q.v.: {#बन्धः।#} </div><div n="I">IV A
-<div n="lb"/>cluster, circle: {#मण्डलम्।#} </div><div n="I">V A knotty point:
-<div n="lb"/>{#ग्रन्थिः,#} <div n="xe">{%in this work I have carefully inserted k.s%}
-<div n="lb"/>{%here and there:%}</div> <div n="xs">{#ग्रन्थग्रन्थिरिह क्वचित् क्वचिदपि न्यासि #}
-<div n="lb"/>{# प्रयत्नान्मया,#}</div> N. xxii. 154.; <div n="xe">{%to loosen a k.:%}</div> <div n="xs">{#ग्रन्थिं #}
-<div n="lb"/>{# श्लथीकरोति,#}</div> <ls>N.</ls> </div><div n="I">VI. A bird: {#पक्षिविशेषः।#} </div><div n="I">VII
-<div n="lb"/>In ships: <div n="xe">{%it goes ten k. s an hour:%}</div> <div n="xs">{#*होरायां पञ्च-#}
-<div n="lb"/>{#क्रोशं गच्छति।#}</div></div>
+{@KNOT@}¦ (subs.): <div n="I">I A tie: </div><div n="1">(1) {#ग्रन्थिः,#} Ku. iii.
+46.; </div><div n="1">(2) {#बन्धः, -नम्,#} M. n. <div n="xe">{%To tie up the hair in%}
+{%a k.:%}</div> <div n="xs">{#वेणीं बध्नाति,#}</div> Mu.; <div n="xe">{%having k. ted hair:%}</div> <div n="xs">{#जटिलः#}</div>
+({#ला, लं#}), S. p. </div><div n="I">II Of plants: {#ग्रन्थिः:#} v.
+Joint. </div><div n="I">III Fig., bond: q.v.: {#बन्धः।#} </div><div n="I">IV A
+cluster, circle: {#मण्डलम्।#} </div><div n="I">V A knotty point:
+{#ग्रन्थिः,#} <div n="xe">{%in this work I have carefully inserted k.s%}
+{%here and there:%}</div> <div n="xs">{#ग्रन्थग्रन्थिरिह क्वचित् क्वचिदपि न्यासि #}
+{# प्रयत्नान्मया,#}</div> N. xxii. 154.; <div n="xe">{%to loosen a k.:%}</div> <div n="xs">{#ग्रन्थिं #}
+{# श्लथीकरोति,#}</div> <ls>N.</ls> </div><div n="I">VI. A bird: {#पक्षिविशेषः।#} </div><div n="I">VII
+In ships: <div n="xe">{%it goes ten k. s an hour:%}</div> <div n="xs">{#*होरायां पञ्च-#}
+{#क्रोशं गच्छति।#}</div></div>
 <LEND>

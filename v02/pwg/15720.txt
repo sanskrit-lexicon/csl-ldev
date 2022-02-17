@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>m.</lex> 
 <div n="2"> a) pl. N. eines Kriegerstammes und des von ihm bewohnten Gebietes an der Koromandel-Küste 
 <ls>LIA. I, 168. 180.</ls> <ls>P. 4, 1, 170. 2, 4, 62</ls>, <ls>Sch.</ls> <ls>VOP. 7, 14.</ls> <ls>TRIK. 3, 3, 58.</ls> <ls>H. an. 3, 119.</ls> <ls>MED. g. 31.</ls> <ls>MBH. 3, 10097. fg.</ls> 
-<ls>HARIV. 1693. 6607. 6631. 6725. 11201. 12838.</ls> 
+<ls>HARIV. 1693.</ls> <ls n="HARIV.">6607.</ls> <ls n="HARIV.">6631.</ls> <ls n="HARIV.">6725.</ls> <ls n="HARIV.">11201.</ls> <ls n="HARIV.">12838.</ls> 
 <ls>R. 4, 40, 21. 41, 17.</ls> 
 <ls>RĀJA-TAR. 4, 147.</ls> 
 <ls>VP. 177. 188.</ls> 
@@ -13,7 +13,7 @@
 <ls>HIT. 39, 4.</ls> {#कलिङ्गनगर#} 
 <ls>R. 2, 71, 16.</ls> {#कलिङ्गाधिपति#} 
 <ls>DRAUP. 2, 8.</ls> 
-<ls>HARIV. 4964. 5013. 5494. 6583.</ls> Das Volk wird auf <is>Kaliṅga</is>, einen Sohn des <is>Dīrghatamas</is> und der <is>Sudeṣṇā</is>, der Gemahlin <is>Bali's</is>, zurückgeführt 
+<ls>HARIV. 4964.</ls> <ls n="HARIV.">5013.</ls> <ls n="HARIV.">5494.</ls> <ls n="HARIV.">6583.</ls> Das Volk wird auf <is>Kaliṅga</is>, einen Sohn des <is>Dīrghatamas</is> und der <is>Sudeṣṇā</is>, der Gemahlin <is>Bali's</is>, zurückgeführt 
 <ls>MBH. 1, 4219. fg.</ls> 
 <ls>HARIV. 1685.</ls> 
 <ls>BHĀG. P. 9, 23, 4.</ls> 
@@ -42,7 +42,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>SUŚR. 2, 431, 2. 519, 4.</ls> 
-<div n="1">— 4) <lex>adj.</lex> {%geschickt%} {#(दक्ष)#}; {%verschmitzt%} ({#विदग्ध#}) 
+<div n="1">— 4) <lex>adj.</lex> {%geschickt%} ({#दक्ष#}); {%verschmitzt%} ({#विदग्ध#}) 
 <ls>TRIK.</ls> Diese Bed. fehlt bei 
 <ls>WILSON</ls> und im <ls>ŚKDR.</ls>
 <LEND>

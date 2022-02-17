@@ -1,6 +1,6 @@
 <L>22551<pc>595-b<k1>pittance<k2>pittance
-<div n="lb"/>PITTANCE¦, {%s.%} (Small quantity allowed) {#अल्पांशः, अत्यल्पांशः,#}
-<div n="lb"/>{#अल्पभागः, अल्पवेतनं, परिमितवेतनं, अल्पमूल्यं#}. — (Allowance of
-<div n="lb"/>food, &c., barely sufficient for the day) {#दिननिर्वाहः, दिन-#}
-<div n="lb"/>{#चर्य्या, ग्रासाच्छादनं, अन्नाच्छादनं#}.
+PITTANCE¦, {%s.%} (Small quantity allowed) {#अल्पांशः, अत्यल्पांशः,#}
+{#अल्पभागः, अल्पवेतनं, परिमितवेतनं, अल्पमूल्यं#}. — (Allowance of
+food, &c., barely sufficient for the day) {#दिननिर्वाहः, दिन-#}
+{#चर्य्या, ग्रासाच्छादनं, अन्नाच्छादनं#}.
 <LEND>

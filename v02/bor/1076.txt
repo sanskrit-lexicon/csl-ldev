@@ -1,8 +1,8 @@
 <L>1076<pc>037<k1>arm<k2>arm
-<div n="lb"/>{@ARM@}¦ (v. i.): <div n="I">I To take arms: </div><div n="1">(1) {#संनह्यति#} ({#नह्,#} [Page038]
-<div n="lb"/>c. 4) (=to accoutre), <div n="xe">{%ordered the generals to%}
-<div n="lb"/>{%a.%}</div> <div n="xs">{#सेनापतीन् संनहनार्थमादिशत्,#}</div> Ku. xv. 5.; </div><div n="1">(2)
-<div n="lb"/>{#अस्त्रं गृह्वाति#} ({#ग्रह्,#} c. 9); </div><div n="1">(3) {#सायुधः#} ({#धा, धं#})
-<div n="lb"/>{#भवति।#} </div><div n="I">II To prepare for war {#युद्धाय सज्जी-#}
-<div n="lb"/>{#भवति।#}</div>
+{@ARM@}¦ (v. i.): <div n="I">I To take arms: </div><div n="1">(1) {#संनह्यति#} ({#नह्,#} [Page038]
+c. 4) (=to accoutre), <div n="xe">{%ordered the generals to%}
+{%a.%}</div> <div n="xs">{#सेनापतीन् संनहनार्थमादिशत्,#}</div> Ku. xv. 5.; </div><div n="1">(2)
+{#अस्त्रं गृह्वाति#} ({#ग्रह्,#} c. 9); </div><div n="1">(3) {#सायुधः#} ({#धा, धं#})
+{#भवति।#} </div><div n="I">II To prepare for war {#युद्धाय सज्जी-#}
+{#भवति।#}</div>
 <LEND>

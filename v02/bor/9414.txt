@@ -1,4 +1,4 @@
 <L>9414<pc>298<k1>fresh-water<k2>fresh-water
-<div n="lb"/>{@FRESH-WATER@}¦ (adj.): expr. by comp., <div n="xe">{%f.%}
-<div n="lb"/>{%fishes:%}</div> <div n="xs">{#पेयजलमत्स्याः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#नादेयमत्स्याः#}</div> (= river-f.).
+{@FRESH-WATER@}¦ (adj.): expr. by comp., <div n="xe">{%f.%}
+{%fishes:%}</div> <div n="xs">{#पेयजलमत्स्याः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#नादेयमत्स्याः#}</div> (= river-f.).
 <LEND>

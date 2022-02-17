@@ -1,4 +1,4 @@
 <L>834<pc>029<k1>ant<k2>ant
-<div n="lb"/>{@ANT:@}¦ <div n="1">(1) {#पिपीलिका#} (the common small red a.);</div>
-<div n="lb"/><div n="1">(2) {#पिपीलिकः#} (a large black a.).</div>
+{@ANT:@}¦ <div n="1">(1) {#पिपीलिका#} (the common small red a.);</div>
+<div n="1">(2) {#पिपीलिकः#} (a large black a.).</div>
 <LEND>

@@ -1,3 +1,3 @@
 <L>9729<pc>307<k1>gauge<k2>gauge
-<div n="lb"/>{@GAUGE@}¦ (subs.): {#मापः,#} <div n="xe">{%rain-g.:%}</div> <div n="xs">{#*वृष्टिमापः।#}</div>
+{@GAUGE@}¦ (subs.): {#मापः,#} <div n="xe">{%rain-g.:%}</div> <div n="xs">{#*वृष्टिमापः।#}</div>
 <LEND>

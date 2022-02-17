@@ -20,22 +20,22 @@
 [Page5-0362]
 
 <ls>M. 3, 59.</ls> {#°वाससाम्#} 
-<ls>?8, 357. P. 1, 4, 64. AK. 3, 4, 32 (28), 13. N. 4, 8. 13, 28. MBH. 3, 8587.</ls> {#भर्ता नाम परं नार्या भूषणं भूषणैर्विना#} 
+<ls n="M.">8, 357.</ls> <ls>P. 1, 4, 64.</ls> <ls>AK. 3, 4, 32 (28), 13.</ls> <ls>N. 4, 8. 13, 28.</ls> <ls>MBH. 3, 8587.</ls> {#भर्ता नाम परं नार्या भूषणं भूषणैर्विना#} 
 <ls>Spr. 2021.</ls> 
 <ls>R.1,9,16.3,15,19.</ls> 
 <ls>SUŚR.1,54,13. 223,4.</ls> 
 <ls>VID. 191.</ls> 
-<ls>VET.</ls> in <ls>LA. (II) 8,22.</ls> <ls>Verz. d. Oxf. H. 85,b,22. 103,b,21.</ls> {#°योजन#} 
+<ls>VET. in LA. (II) 8,22.</ls> <ls>Verz. d. Oxf. H. 85,b,22. 103,b,21.</ls> {#°योजन#} 
 <ls>217,a,6.</ls> {#°दायक#} 
 <ls>KĀM. NĪTIS. 12, 46.</ls> masc. <ls>MBH. 3, 8588.</ls> Am Ende eines <lex>adj.</lex> comp. 
 <ls>H. 6.</ls> {#कनक°#} {%mit Gold geschmückt, - verziert%} 
-<ls>MBH. 3, 1721. 1, 1185.</ls> 
+<ls>MBH. 3, 1721.</ls> <ls n="MBH.">1, 1185.</ls> 
 <ls>ṚT. 1, 12.</ls> 
 <ls>KĀM. NĪTIS. 7, 49.</ls> <ls>VĀGBH. 1, 25, 8.</ls> <lex>f.</lex> {#आ#} 
-<ls>MBH. 1, 7209. 5, 1794.</ls> 
+<ls>MBH. 1, 7209.</ls> <ls n="MBH.">5, 1794.</ls> 
 <ls>R. 2, 60, 19.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 8, 60.</ls> 
+
+<ls>R. GORR. 2, 8, 60.</ls> 
 <ls>MṚCCH. 130, 21.</ls> 
 <ls>RAGH. 3, 2. 13, 57.</ls> 
 <ls>VIKR. 53.</ls> 

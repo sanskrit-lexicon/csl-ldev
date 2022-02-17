@@ -1,6 +1,6 @@
 <L>18494<pc>568<k1>radius<k2>radius
-<div n="lb"/>{@RADIUS:@}¦ <div n="I">I In Geo.: </div><div n="1">(1) {#व्यासार्धम्, “व्यासार्धार्धं #}
-<div n="lb"/>{# नयेत् केन्द्रात्”,#} A. b.; </div><div n="1">(2) {#विष्कम्भार्धम्,#} A. b.;</div>
-<div n="lb"/><div n="1">(3) {#त्रिज्या#} ({#जीवा#}) (of the meridian), Su. ii.
-<div n="lb"/>60. </div><div n="I">II A bone: {#बाहुनलकम्#} (?).</div>
+{@RADIUS:@}¦ <div n="I">I In Geo.: </div><div n="1">(1) {#व्यासार्धम्, “व्यासार्धार्धं #}
+{# नयेत् केन्द्रात्”,#} A. b.; </div><div n="1">(2) {#विष्कम्भार्धम्,#} A. b.;</div>
+<div n="1">(3) {#त्रिज्या#} ({#जीवा#}) (of the meridian), Su. ii.
+60. </div><div n="I">II A bone: {#बाहुनलकम्#} (?).</div>
 <LEND>

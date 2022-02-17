@@ -1,9 +1,9 @@
 <L>3455<pc>115<k1>charge<k2>charge
-<div n="lb"/>{@CHARGE@}¦ (subs.): <div n="I">I Attack: q. v.: {#अभियोगः#}</div>
-<div n="lb"/><div n="I">II Accusation: q. v.: {#अभियोगः।#} </div><div n="I">III Burden,
-<div n="lb"/>load: q. v. </div><div n="I">IV Injunction: q. v. </div><div n="I">V A
-<div n="lb"/>trust: q. v.: {#निक्षेपः।#} </div><div n="I">VI Care, management:
-<div n="lb"/>q. v.: {#रक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#रक्षणं,#}</div> <div n="xe">{%to give in c.:%}</div> <div n="xs">{#रक्षणार्थं ददाति।#}</div></div>
-<div n="lb"/><div n="I">VII Money to be paid: </div><div n="1">(1) {#व्ययः#}
-<div n="lb"/>(=expense); </div><div n="1">(2) {#अर्थः#} (=price); </div><div n="1">(3) {#देयम्।#}</div>
+{@CHARGE@}¦ (subs.): <div n="I">I Attack: q. v.: {#अभियोगः#}</div>
+<div n="I">II Accusation: q. v.: {#अभियोगः।#} </div><div n="I">III Burden,
+load: q. v. </div><div n="I">IV Injunction: q. v. </div><div n="I">V A
+trust: q. v.: {#निक्षेपः।#} </div><div n="I">VI Care, management:
+q. v.: {#रक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#रक्षणं,#}</div> <div n="xe">{%to give in c.:%}</div> <div n="xs">{#रक्षणार्थं ददाति।#}</div></div>
+<div n="I">VII Money to be paid: </div><div n="1">(1) {#व्ययः#}
+(=expense); </div><div n="1">(2) {#अर्थः#} (=price); </div><div n="1">(3) {#देयम्।#}</div>
 <LEND>

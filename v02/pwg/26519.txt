@@ -6,13 +6,13 @@
 <ls>ŚAT. BR. 11, 5, 5, 13. 13, 5, 4, 1.</ls> 
 <ls>AIT. BR. 4, 27. 7, 34. 8, 11.</ls> 
 <ls>ŚĀṄKH. ŚR. 16, 8, 25. 9, 1.</ls> 
-<ls>MBH. 1, 3743. 12, 5596. fgg.</ls> 
-<ls>HARIV. 18. fgg. 1813. 11063. fgg.</ls> 
+<ls>MBH. 1, 3743.</ls> <ls n="MBH.">12, 5596. fgg.</ls> 
+<ls>HARIV. 18. fgg.</ls> <ls n="HARIV.">1813.</ls> <ls n="HARIV.">11063. fgg.</ls> 
 <ls>DAŚ. 2, 41.</ls> 
 <ls>VP. 457. 461.</ls> eines Sohnes des <is>Kuru</is> 
 <ls>MBH. 1, 3740.</ls> 
 <ls>HARIV. 1608.</ls> des <is>Pūru</is> 
-<ls>1655.</ls> <ls>MBH. 1, 3764.</ls> <ls>VP. 447.</ls> <ls>BHĀG. P. 9, 20, 2.</ls> des <is>Puraṃjaya</is> 
+<ls n="HARIV.">1655.</ls> <ls>MBH. 1, 3764.</ls> <ls>VP. 447.</ls> <ls>BHĀG. P. 9, 20, 2.</ls> des <is>Puraṃjaya</is> 
 <ls>HARIV. 1671.</ls> 
 <ls>VP. 444.</ls> des <is>Somadatta</is> 
 <ls>354.</ls> des <is>Sumati</is> 

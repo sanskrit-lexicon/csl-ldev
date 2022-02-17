@@ -1,8 +1,8 @@
 <L>22318<pc>703<k1>tender<k2>tender
-<div n="lb"/>{@TENDER@}¦ (adj.): <div n="I">I Soft, delicate: q. v.:
-<div n="lb"/>{#सुकुमारः#} ({#रा, रं#}), <div n="xe">{%delicate weapon:%}</div> <div n="xs">{#सुकुमारमस्त्रम्,#}</div>
-<div n="lb"/>K.; <div n="xe">{%in this t. age:%}</div> <div n="xs">{#अस्मिन् सुकुमारवयसि।#}</div> [Page704]</div>
-<div n="lb"/><div n="I">II Compassionate, kind: q. v.: {%t. sentiment:%}
-<div n="lb"/>{#करुणो रसः,#} U.; <div n="xe">{%the hearts of good men are always%}
-<div n="lb"/>{%t.:%}</div> <div n="xs">{#करुणार्द्राणि सतां खलु भवन्ति सदा चेतांसि।#}</div></div>
+{@TENDER@}¦ (adj.): <div n="I">I Soft, delicate: q. v.:
+{#सुकुमारः#} ({#रा, रं#}), <div n="xe">{%delicate weapon:%}</div> <div n="xs">{#सुकुमारमस्त्रम्,#}</div>
+K.; <div n="xe">{%in this t. age:%}</div> <div n="xs">{#अस्मिन् सुकुमारवयसि।#}</div> [Page704]</div>
+<div n="I">II Compassionate, kind: q. v.: {%t. sentiment:%}
+{#करुणो रसः,#} U.; <div n="xe">{%the hearts of good men are always%}
+{%t.:%}</div> <div n="xs">{#करुणार्द्राणि सतां खलु भवन्ति सदा चेतांसि।#}</div></div>
 <LEND>

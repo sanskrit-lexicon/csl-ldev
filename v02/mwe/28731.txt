@@ -1,10 +1,10 @@
 <L>28731<pc>786-a<k1>sum<k2>sum
-<div n="lb"/>SUM¦, {%s.%} (Aggregate, total) {#संख्या, साकल्यं, समुदायः, समाहारः, सम-#}
-<div n="lb"/>{#वायः, गणनं#}. — (Substance, amount) {#सारः, अर्थः, सारांशः, गर्भः,#}
-<div n="lb"/>{#तात्पर्य्यं#}. — (Compendium), {%see%} SUMMARY, {%s.%} — (Sum of money)
-<div n="lb"/>{#पनभागः, धनांशः, कियद्धनं, किञ्चिद्धनं;#} ‘small sum of money,’
-<div n="lb"/>{#धनलेशः, धनाल्पिका, किञ्चिद्धनं, अल्पधनं;#} ‘large sum,’ {#धनबाहुल्यं,#}
-<div n="lb"/>{#बहुधनं;#} ‘any very large sum,’ {#परार्द्धं#}. — (In arithmetic, figures
-<div n="lb"/>set for an arithmetical operation) {#राशिः#} {%m. f.,%} {#पिण्डः#}. — (In
-<div n="lb"/>sum) {#संक्षेपतस्,#} {%see%} SUMMARILY.
+SUM¦, {%s.%} (Aggregate, total) {#संख्या, साकल्यं, समुदायः, समाहारः, सम-#}
+{#वायः, गणनं#}. — (Substance, amount) {#सारः, अर्थः, सारांशः, गर्भः,#}
+{#तात्पर्य्यं#}. — (Compendium), {%see%} SUMMARY, {%s.%} — (Sum of money)
+{#पनभागः, धनांशः, कियद्धनं, किञ्चिद्धनं;#} ‘small sum of money,’
+{#धनलेशः, धनाल्पिका, किञ्चिद्धनं, अल्पधनं;#} ‘large sum,’ {#धनबाहुल्यं,#}
+{#बहुधनं;#} ‘any very large sum,’ {#परार्द्धं#}. — (In arithmetic, figures
+set for an arithmetical operation) {#राशिः#} {%m. f.,%} {#पिण्डः#}. — (In
+sum) {#संक्षेपतस्,#} {%see%} SUMMARILY.
 <LEND>

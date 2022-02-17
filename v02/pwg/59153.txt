@@ -1,5 +1,5 @@
 <L>59153<pc>5-0664<k1>महासेन<k2>महा/सेन
-{#महा/सेन#}¦ {#(म° + सेना)#} 
+{#महा/सेन#}¦ ({#म° + सेना#}) 
 <div n="1"> 1) <lex>adj.</lex> {%ein grosses Heer habend%} 
 <ls>H. an. 4, 185.</ls> 
 <ls>MED. n. 199.</ls> <ls>ṚV. 7, 34, 19</ls> (nach <ls>SĀY.).</ls> <ls>MBH. 5, 7420.</ls> 
@@ -11,7 +11,7 @@
 <ls>MED.</ls> 
 <ls>HALĀY. 1, 20.</ls> 
 <ls>TAITT. ĀR. 10, 1, 6.</ls> 
-<ls>MBH. 2, 467. 1486. 3, 8203. 14339. 14350. 9, 2681. fg. 12, 12957.</ls> 
+<ls>MBH. 2, 467.</ls> <ls n="MBH. 2,">1486.</ls> <ls n="MBH.">3, 8203.</ls> <ls n="MBH. 3,">14339.</ls> <ls n="MBH. 3,">14350.</ls> <ls n="MBH.">9, 2681. fg.</ls> <ls n="MBH.">12, 12957.</ls> 
 <ls>VIKR. 161.</ls> 
 <ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. 3, 161.</ls> <ls>VĀSAVAD. 14.</ls> <is>Śiva</is> so genannt 
 <ls>MBH. 13, 1186.</ls> 

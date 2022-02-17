@@ -1,6 +1,6 @@
 <L>21959<pc>692<k1>suppurate<k2>suppurate
-<div n="lb"/>{@SUPPURATE:@}¦ <div n="1">(1) {#पाकं गच्छति#} ({#गम्,#} c. 1.), {#पक्वतां #}
-<div n="lb"/>{# व्रजति#} ({#व्रज्,#} c. 1.): etc., Bha.; </div><div n="1">(2) {#पचति#}
-<div n="lb"/>({#पच्,#} c. 1.), Bha. <div n="xe">{%S. ing or s. ive thing:%}</div> <div n="xs">{#पाच-#}
-<div n="lb"/>{#नीयानि द्रव्याणि,#}</div> Bha.</div>
+{@SUPPURATE:@}¦ <div n="1">(1) {#पाकं गच्छति#} ({#गम्,#} c. 1.), {#पक्वतां #}
+{# व्रजति#} ({#व्रज्,#} c. 1.): etc., Bha.; </div><div n="1">(2) {#पचति#}
+({#पच्,#} c. 1.), Bha. <div n="xe">{%S. ing or s. ive thing:%}</div> <div n="xs">{#पाच-#}
+{#नीयानि द्रव्याणि,#}</div> Bha.</div>
 <LEND>

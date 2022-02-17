@@ -1,5 +1,5 @@
 <L>20959<pc>659<k1>solemn<k2>solemn
-<div n="lb"/>{@SOLEMN:@}¦ <div n="1">(1) {#पुण्य#} (f. {#ण्या#}=holy, sacred: q. v.);</div>
-<div n="lb"/><div n="1">(2) {#गम्भीर#} (f. {#रा#} = grave, serious: q. v.).
-<div n="lb"/>Ph.: <div n="xe">{%on s. occasions:%}</div> <div n="xs">{#यात्रोत्सवादिषु,#}</div> D. ii.</div>
+{@SOLEMN:@}¦ <div n="1">(1) {#पुण्य#} (f. {#ण्या#}=holy, sacred: q. v.);</div>
+<div n="1">(2) {#गम्भीर#} (f. {#रा#} = grave, serious: q. v.).
+Ph.: <div n="xe">{%on s. occasions:%}</div> <div n="xs">{#यात्रोत्सवादिषु,#}</div> D. ii.</div>
 <LEND>

@@ -1,18 +1,18 @@
 <L>8826<pc>279<k1>first<k2>first
-<div n="lb"/>{@FIRST@}¦ (adj.): <div n="1">(1) {#प्रथमः#} ({#मा, मं#}) (of time, place,
-<div n="lb"/>or rank), <div n="xe">{%on the f. day. of Aṣāḍha:%}</div> <div n="xs">{#आषढस्य #}
-<div n="lb"/>{# प्रथमदिवसे,#}</div> Me. i. 1.; <div n="xe">{%in the f. court:%}</div> <div n="xs">{#प्रथमे प्रकोष्ठे,#}</div>
-<div n="lb"/>Mr. iv.; {%f. of those, who share in sacrifices:%}
-<div n="lb"/>{#मखांशभाजां प्रथमः,#} R. iii. 44.: v. Also chief;</div>
-<div n="lb"/><div n="1">(2) {#आदि-#} in comp. or {#आद्यः#} ({#द्या, द्यं#}) <div n="xe">{%or%}</div> <div n="xs">{#आदिमः#}</div>
-<div n="lb"/>({#मा, मं#}) (= the beginning), <div n="xe">{%the f. poet:%}</div> <div n="xs">{#आदिकविः;#}</div>
-<div n="lb"/><div n="xe">{%on the f. day of separation:%}</div> <div n="xs">{#आद्ये विरहदिवसे,#}</div> Me.
-<div n="lb"/>ii. 31.; </div><div n="1">(3) {#पूर्व-,#} in comp. (when there is [Page280]
-<div n="lb"/>comparison), <div n="xe">{%the f. half:%}</div> <div n="xs">{#पूर्वार्द्धम्,#}</div> R.; <div n="xe">{%the f.%}
-<div n="lb"/>{%part of the day:%}</div> <div n="xs">{#पूर्वाह्णः;#}</div> </div><div n="1">(4) {#अग्य्रः#} ({#ग्य्रा, ग्य्रं#}) {%or%}
-<div n="lb"/>{#अग्रिमः#} ({#मा, मं#}) <div n="xe">{%or%}</div> <div n="xs">{#अग्रणी#}</div> (n. {#णी#}) (= foremost),
-<div n="lb"/><div n="xe">{%you are the f. to eat:%}</div> <div n="xs">{#भोक्तुं भवानग्रणीः,#}</div> Ma. n.
-<div n="lb"/>ix. 86. Ph.: {%for the f. time:%} </div><div n="1">(1) {#तत्प्रथमम्,#} Si
-<div n="lb"/>xv. 42.; </div><div n="1">(2) {#तत्पूर्वम्,#} Ki. vii. 11.; <div n="xe">{%the f. of%}
-<div n="lb"/>{%archers:%}</div> <div n="xs">{#चापभृतां पुरोगः,#}</div> R.</div>
+{@FIRST@}¦ (adj.): <div n="1">(1) {#प्रथमः#} ({#मा, मं#}) (of time, place,
+or rank), <div n="xe">{%on the f. day. of Aṣāḍha:%}</div> <div n="xs">{#आषढस्य #}
+{# प्रथमदिवसे,#}</div> Me. i. 1.; <div n="xe">{%in the f. court:%}</div> <div n="xs">{#प्रथमे प्रकोष्ठे,#}</div>
+Mr. iv.; {%f. of those, who share in sacrifices:%}
+{#मखांशभाजां प्रथमः,#} R. iii. 44.: v. Also chief;</div>
+<div n="1">(2) {#आदि-#} in comp. or {#आद्यः#} ({#द्या, द्यं#}) <div n="xe">{%or%}</div> <div n="xs">{#आदिमः#}</div>
+({#मा, मं#}) (= the beginning), <div n="xe">{%the f. poet:%}</div> <div n="xs">{#आदिकविः;#}</div>
+<div n="xe">{%on the f. day of separation:%}</div> <div n="xs">{#आद्ये विरहदिवसे,#}</div> Me.
+ii. 31.; </div><div n="1">(3) {#पूर्व-,#} in comp. (when there is [Page280]
+comparison), <div n="xe">{%the f. half:%}</div> <div n="xs">{#पूर्वार्द्धम्,#}</div> R.; <div n="xe">{%the f.%}
+{%part of the day:%}</div> <div n="xs">{#पूर्वाह्णः;#}</div> </div><div n="1">(4) {#अग्य्रः#} ({#ग्य्रा, ग्य्रं#}) {%or%}
+{#अग्रिमः#} ({#मा, मं#}) <div n="xe">{%or%}</div> <div n="xs">{#अग्रणी#}</div> (n. {#णी#}) (= foremost),
+<div n="xe">{%you are the f. to eat:%}</div> <div n="xs">{#भोक्तुं भवानग्रणीः,#}</div> Ma. n.
+ix. 86. Ph.: {%for the f. time:%} </div><div n="1">(1) {#तत्प्रथमम्,#} Si
+xv. 42.; </div><div n="1">(2) {#तत्पूर्वम्,#} Ki. vii. 11.; <div n="xe">{%the f. of%}
+{%archers:%}</div> <div n="xs">{#चापभृतां पुरोगः,#}</div> R.</div>
 <LEND>

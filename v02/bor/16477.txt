@@ -1,5 +1,5 @@
 <L>16477<pc>505<k1>particular<k2>particular
-<div n="lb"/>{@PARTICULAR@}¦ (subs.): <div n="xe">{%in p.:%}</div> <div n="xs">{#विशेषतः;#}</div> <div n="xe">{%p. s of a%}
-<div n="lb"/>{%story:%}</div> <div n="xs">{#घटनावली#}</div> (better expr. with {#विस्तरशः#} =
-<div n="lb"/>in detail); <div n="xe">{%“for his p.”:%}</div> <div n="xs">{#विशिष्टतया।#}</div>
+{@PARTICULAR@}¦ (subs.): <div n="xe">{%in p.:%}</div> <div n="xs">{#विशेषतः;#}</div> <div n="xe">{%p. s of a%}
+{%story:%}</div> <div n="xs">{#घटनावली#}</div> (better expr. with {#विस्तरशः#} =
+in detail); <div n="xe">{%“for his p.”:%}</div> <div n="xs">{#विशिष्टतया।#}</div>
 <LEND>

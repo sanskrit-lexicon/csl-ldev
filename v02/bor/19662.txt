@@ -1,4 +1,4 @@
 <L>19662<pc>611<k1>sake<k2>sake
-<div n="lb"/>{@SAKE:@}¦ Ph.: <div n="xe">{%for the s. of:%}</div> <div n="xs">{#-अर्थम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-अर्थे#}</div> in
-<div n="lb"/>comp.: v. For (III, II.).
+{@SAKE:@}¦ Ph.: <div n="xe">{%for the s. of:%}</div> <div n="xs">{#-अर्थम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-अर्थे#}</div> in
+comp.: v. For (III, II.).
 <LEND>

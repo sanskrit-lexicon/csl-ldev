@@ -1,4 +1,4 @@
 <L>7046<pc>224<k1>duel<k2>duel
-<div n="lb"/>{@DUEL:@}¦ <div n="I">I Subs.: {#द्वन्द्वयुद्धम्।#} </div><div n="I">II Verbs: {#द्वन्द्वयुद्धं #}
-<div n="lb"/>{# करोति।#}</div>
+{@DUEL:@}¦ <div n="I">I Subs.: {#द्वन्द्वयुद्धम्।#} </div><div n="I">II Verbs: {#द्वन्द्वयुद्धं #}
+{# करोति।#}</div>
 <LEND>

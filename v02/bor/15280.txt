@@ -1,5 +1,5 @@
 <L>15280<pc>467<k1>navigation<k2>navigation
-<div n="lb"/>{@NAVIGATION:@}¦ <div n="I">I The art: {#पोतसञ्चालनकला#} and
-<div n="lb"/>sim. comp.s. (?). </div><div n="I">II The act: Ph.: <div n="xe">{%inland%}
-<div n="lb"/>{%n.,%}</div> <div n="xs">{#नद्यादिषु पोतचालनम्#}</div> (?).</div>
+{@NAVIGATION:@}¦ <div n="I">I The art: {#पोतसञ्चालनकला#} and
+sim. comp.s. (?). </div><div n="I">II The act: Ph.: <div n="xe">{%inland%}
+{%n.,%}</div> <div n="xs">{#नद्यादिषु पोतचालनम्#}</div> (?).</div>
 <LEND>

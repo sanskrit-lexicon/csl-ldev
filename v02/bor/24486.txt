@@ -1,5 +1,5 @@
 <L>24486<pc>767<k1>worshipful<k2>worshipful
-<div n="lb"/>{@WORSHIPFUL:@}¦ <div n="1">(1) {#अर्चनीय#} (f. {#या#}), {#अभि, समभि-;#}</div>
-<div n="lb"/><div n="1">(2) {#पूज्य#} (f. {#ज्या#}) <div n="xe">{%or%}</div> <div n="xs">{#पूजनीय#}</div> (f. {#या#}); </div><div n="1">(3) {#उपास्य#}
-<div n="lb"/>(f. {#स्या#}) <div n="xe">{%or%}</div> <div n="xs">{#उपासनीय#}</div> (f. {#या#}); etc.</div>
+{@WORSHIPFUL:@}¦ <div n="1">(1) {#अर्चनीय#} (f. {#या#}), {#अभि, समभि-;#}</div>
+<div n="1">(2) {#पूज्य#} (f. {#ज्या#}) <div n="xe">{%or%}</div> <div n="xs">{#पूजनीय#}</div> (f. {#या#}); </div><div n="1">(3) {#उपास्य#}
+(f. {#स्या#}) <div n="xe">{%or%}</div> <div n="xs">{#उपासनीय#}</div> (f. {#या#}); etc.</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>4411<pc>143<k1>confusion<k2>confusion
-<div n="lb"/>{@CONFUSION:@}¦ <div n="I">I Irregular mixture: {#सङ्करः,#} <div n="xe">{%c.%}
-<div n="lb"/>{%of castes:%}</div> <div n="xs">{#वर्णसङ्करः,#}</div> Kal. </div><div n="I">II Tumult, disor-
-<div n="lb"/>-der: {#विप्लवः,#} <div n="xe">{%when the duties prescribed by the%}
-<div n="lb"/>{%Vedas and Smritis will be in a state of great c.:%}</div>
-<div n="lb"/><div n="xs">{#श्रौतस्मार्तधर्मे विप्लवमत्यन्तमुपगते,#}</div> V. p. Ph.: {%in the c.%}
-<div n="lb"/>(i. e. in the crowd): {#सङ्कुले,#} D. </div><div n="I">III Bewilder-
-<div n="lb"/>-ment: </div><div n="1">(1) {#सम्भ्रमः;#} </div><div n="1">(2) {#वैलक्ष्यम्#} (from shame),
-<div n="lb"/>Ra. </div><div n="I">IV Ruin, defeat: q. v.</div>
+{@CONFUSION:@}¦ <div n="I">I Irregular mixture: {#सङ्करः,#} <div n="xe">{%c.%}
+{%of castes:%}</div> <div n="xs">{#वर्णसङ्करः,#}</div> Kal. </div><div n="I">II Tumult, disor-
+-der: {#विप्लवः,#} <div n="xe">{%when the duties prescribed by the%}
+{%Vedas and Smritis will be in a state of great c.:%}</div>
+<div n="xs">{#श्रौतस्मार्तधर्मे विप्लवमत्यन्तमुपगते,#}</div> V. p. Ph.: {%in the c.%}
+(i. e. in the crowd): {#सङ्कुले,#} D. </div><div n="I">III Bewilder-
+-ment: </div><div n="1">(1) {#सम्भ्रमः;#} </div><div n="1">(2) {#वैलक्ष्यम्#} (from shame),
+Ra. </div><div n="I">IV Ruin, defeat: q. v.</div>
 <LEND>

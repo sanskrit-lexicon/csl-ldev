@@ -1,4 +1,4 @@
 <L>24005<pc>751<k1>vowel<k2>vowel
-<div n="lb"/>{@VOWEL:@}¦ <div n="1">(1) {#स्वरः,#} <div n="xe">{%short v.:%}</div> <div n="xs">{#ह्नस्वस्वरः;#}</div> </div><div n="1">(2) {#अच्#}
-<div n="lb"/>(t. t), <div n="xe">{%ending in a v.:%}</div> <div n="xs">{#अजन्त#}</div> (f. {#न्ता#}), S. k.</div>
+{@VOWEL:@}¦ <div n="1">(1) {#स्वरः,#} <div n="xe">{%short v.:%}</div> <div n="xs">{#ह्नस्वस्वरः;#}</div> </div><div n="1">(2) {#अच्#}
+(t. t), <div n="xe">{%ending in a v.:%}</div> <div n="xs">{#अजन्त#}</div> (f. {#न्ता#}), S. k.</div>
 <LEND>

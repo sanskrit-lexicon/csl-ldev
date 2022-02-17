@@ -1,3 +1,3 @@
 <L>11834<pc>370<k1>incense<k2>incense
-<div n="lb"/>{@INCENSE:@}¦ <div n="1">(1) {#धूपः;#} </div><div n="1">(2) {#सिह्लः#} (rare).</div>
+{@INCENSE:@}¦ <div n="1">(1) {#धूपः;#} </div><div n="1">(2) {#सिह्लः#} (rare).</div>
 <LEND>

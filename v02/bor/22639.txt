@@ -1,13 +1,13 @@
 <L>22639<pc>714<k1>together<k2>together
-<div n="lb"/>{@TOGETHER:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#एकत्र,#} <div n="xe">{%these families%}
-<div n="lb"/>{%t. number fourteen:%}</div> <div n="xs">{#एतान्येकत्र चतुर्दशकुलानि,#}</div> K.;
-<div n="lb"/><div n="xe">{%all excellences do not live t.:%}</div> <div n="xs">{#न वसन्त्येकत्र सर्वेगुणाः,#}</div> [Page715]
-<div n="lb"/>Vi. i. 33.; </div><div n="1">(2) {#सह,#} gen. in comp. (= co-),
-<div n="lb"/><div n="xe">{%coming out t.:%}</div> <div n="xs">{#सहैव निर्यती,#}</div> Ki. xiv. 56.;
-<div n="lb"/><div n="xe">{%living t.:%}</div> <div n="xs">{#सहवसतिः,#}</div> Sa. ii. 3.; </div><div n="1">(3) {#समम्#}
-<div n="lb"/>(rare), <div n="xe">{%flew t.:%}</div> <div n="xs">{#समं समुत्पेतुः,#}</div> Ki. xiv. 45. </div><div n="I">II
-<div n="lb"/>With verbs.: {#सम्#} in comp., <div n="xe">{%mix t.:%}</div> <div n="xs">{#संमिश्रयति;#}</div>
-<div n="lb"/><div n="xe">{%live t.:%}</div> <div n="xs">{#संवसति,#}</div> etc. </div><div n="I">III T. with: {#सह#}
-<div n="lb"/>(rarely {#साकम्, समम्#} <div n="xe">{%or%}</div> <div n="xs">{#सार्धम्#}</div> with ins.): v.
-<div n="lb"/>With.</div>
+{@TOGETHER:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#एकत्र,#} <div n="xe">{%these families%}
+{%t. number fourteen:%}</div> <div n="xs">{#एतान्येकत्र चतुर्दशकुलानि,#}</div> K.;
+<div n="xe">{%all excellences do not live t.:%}</div> <div n="xs">{#न वसन्त्येकत्र सर्वेगुणाः,#}</div> [Page715]
+Vi. i. 33.; </div><div n="1">(2) {#सह,#} gen. in comp. (= co-),
+<div n="xe">{%coming out t.:%}</div> <div n="xs">{#सहैव निर्यती,#}</div> Ki. xiv. 56.;
+<div n="xe">{%living t.:%}</div> <div n="xs">{#सहवसतिः,#}</div> Sa. ii. 3.; </div><div n="1">(3) {#समम्#}
+(rare), <div n="xe">{%flew t.:%}</div> <div n="xs">{#समं समुत्पेतुः,#}</div> Ki. xiv. 45. </div><div n="I">II
+With verbs.: {#सम्#} in comp., <div n="xe">{%mix t.:%}</div> <div n="xs">{#संमिश्रयति;#}</div>
+<div n="xe">{%live t.:%}</div> <div n="xs">{#संवसति,#}</div> etc. </div><div n="I">III T. with: {#सह#}
+(rarely {#साकम्, समम्#} <div n="xe">{%or%}</div> <div n="xs">{#सार्धम्#}</div> with ins.): v.
+With.</div>
 <LEND>

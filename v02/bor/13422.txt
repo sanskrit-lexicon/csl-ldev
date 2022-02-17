@@ -1,4 +1,4 @@
 <L>13422<pc>413<k1>leguminous<k2>leguminous
-<div n="lb"/>{@LEGUMINOUS:@}¦ {#शिम्बिजः#} ({#जा, जं#}), Bha. Ph.: <div n="xe">{%l.%}
-<div n="lb"/>{%plants:%}</div> <div n="xs">{#शिम्बिधान्यम्,#}</div> Bha.
+{@LEGUMINOUS:@}¦ {#शिम्बिजः#} ({#जा, जं#}), Bha. Ph.: <div n="xe">{%l.%}
+{%plants:%}</div> <div n="xs">{#शिम्बिधान्यम्,#}</div> Bha.
 <LEND>

@@ -15,12 +15,12 @@
 <div n="1">— 3) <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%ein geistiges Getränk%} 
 <ls>AK. 2, 10, 40.</ls> 
-<ls>H.</ls> <ls>?902.HALĀY. 2, 174.</ls>
+<ls>H.</ls> <ls>902.HALĀY. 2, 174.</ls>
 [Page5-0479]
 {#मदिरोन्मत्त#} 
-<ls>MAITRYUP. 4, 2.</ls> <ls>M. 11, 148.</ls> <ls>MBH. 1, 5826.</ls> {#गन्धेन जाता#} {%(wohlriechend, aromatisch)%} {#मदिरेव#} 
+<ls>MAITRYUP. 4, 2.</ls> <ls>M. 11, 148.</ls> <ls>MBH. 1, 5826.</ls> {#गन्धेन जाता#} ({%wohlriechend, aromatisch%}) {#मदिरेव#} 
 <ls>4, 379.</ls> <ls>HARIV. 5413. fg.</ls> {#°वशग#} 
-<ls>8350.</ls> <ls>SUŚR. 2, 342, 2. 448, 14.</ls> {#मदिरामयपीडित#} 
+<ls n="HARIV.">8350.</ls> <ls>SUŚR. 2, 342, 2. 448, 14.</ls> {#मदिरामयपीडित#} 
 <ls>487,12.</ls> <ls>KATHĀS. 14,30.</ls> <ls>PRĀYAŚCITTEND. 19,a,3.</ls> {#मदिरोत्कट#} 
 <ls>R. 4, 24, 39. 5, 25, 41.</ls> {#°मदान्ध#} 
 <ls>BHĀG. P. 3, 28, 37.</ls> 
@@ -29,11 +29,11 @@
 <ls>MEGH. 76.</ls> {#मोहमदिरोन्मत्त#} 
 <ls>MAITRYUP. 4, 2.</ls> {#पीत्वा मोहमयीं प्रमादमदिरामुन्मत्तभूतं जगत्#} 
 <ls>Spr. 339.</ls> 
-<div n="2">— b) {%eine brünstige Bachstelze%} {#(मत्तखञ्जन)#} 
+<div n="2">— b) {%eine brünstige Bachstelze%} ({#मत्तखञ्जन#}) 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {%Bachstelze%} überh. 
 <ls>WILSON</ls> nach derselben Aut. 
 <div n="2">— c) {%ein best. Metrum, 4 Mal%} {Ç} 
-<ls>COLEBR. Misc. Ess. II, 163</ls> <ls>?(XVII, 2). CHANDOM. 115.</ls> 
+<ls>COLEBR. Misc. Ess. II, 163</ls> (<ls>XVII, 2).</ls> <ls>CHANDOM. 115.</ls> 
 <div n="2">— d) N. pr. einer der Gemahlinnen des <is>Vasudeva</is> 
 <ls>HARIV. 1947.</ls> 
 <ls>VP. 439.</ls> 

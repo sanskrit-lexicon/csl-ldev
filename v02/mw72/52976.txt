@@ -1,14 +1,14 @@
 <L>52976<pc>1141-b<k1>स्कु<k2>स्कु
 {#स्कु#}¦ {%sku,%} cl. 5. 9. P. A. {%skunoti, skunāti,%}
-<div n="lb"/>{%skunute, skunīte, cuskāva, cuskuve, sko-%}
-<div n="lb"/>{%ṣyati, -te, askauṣīt, askoṣṭa, skotum,%} to go by
-<div n="lb"/>leaps, jump; to raise, lift; to cover, overspread; to
-<div n="lb"/>approach: Caus. {%skāvayati, -yitum,%} Aor. {%acuska-%}
-<div n="lb"/>{%vat:%} Desid. {%cuskūṣati, -te:%} Intens. {%coskūyate%}
-<div n="lb"/>(Ved. {%coṣkūyate%}), {%coskoti;%} [cf. Gr. <lang n="greek">σκευ-ή, σκεῦ-ος,</lang>
-<div n="lb"/><lang n="greek">σκευά-ζ-ω, σκῦ-το-ς, κύ-τ-ος, ἐπι-σκύ-νιο-ν:</lang>
-<div n="lb"/>Lat. <nsi>ob-scu-ru-s, scu-tu-m, cu-ti-s, corium, cavere,</nsi>
-<div n="lb"/><nsi>cautus, causa:</nsi> probably Angl. Sax. <nsi>scuva, scoh,</nsi>
-<div n="lb"/><nsi>sceo, scunian, scawian, sceawian:</nsi> Goth. <nsi>skoh:</nsi>
-<div n="lb"/>Old Germ. <nsi>scur, skiuhan.</nsi>]
+{%skunute, skunīte, cuskāva, cuskuve, sko-%}
+{%ṣyati, -te, askauṣīt, askoṣṭa, skotum,%} to go by
+leaps, jump; to raise, lift; to cover, overspread; to
+approach: Caus. {%skāvayati, -yitum,%} Aor. {%acuska-%}
+{%vat:%} Desid. {%cuskūṣati, -te:%} Intens. {%coskūyate%}
+(Ved. {%coṣkūyate%}), {%coskoti;%} [cf. Gr. <lang n="greek">σκευ-ή, σκεῦ-ος,</lang>
+<lang n="greek">σκευά-ζ-ω, σκῦ-το-ς, κύ-τ-ος, ἐπι-σκύ-νιο-ν:</lang>
+Lat. <nsi>ob-scu-ru-s, scu-tu-m, cu-ti-s, corium, cavere,</nsi>
+<nsi>cautus, causa:</nsi> probably Angl. Sax. <nsi>scuva, scoh,</nsi>
+<nsi>sceo, scunian, scawian, sceawian:</nsi> Goth. <nsi>skoh:</nsi>
+Old Germ. <nsi>scur, skiuhan.</nsi>]
 <LEND>

@@ -1,6 +1,6 @@
 <L>2464<pc>084<k1>brake<k2>brake
-<div n="lb"/>{@BRAKE:@}¦ <div n="I">I For railway cars.: {#*गतिस्तम्भयन्त्रम्।#}</div>
-<div n="lb"/><div n="I">II A cart for breaking in horses: {#*अश्व-#}
-<div n="lb"/>{#दमनयानम्।#} </div><div n="I">III A snaffle: q. v. </div><div n="I">IV A
-<div n="lb"/>thicket: q. v.</div>
+{@BRAKE:@}¦ <div n="I">I For railway cars.: {#*गतिस्तम्भयन्त्रम्।#}</div>
+<div n="I">II A cart for breaking in horses: {#*अश्व-#}
+{#दमनयानम्।#} </div><div n="I">III A snaffle: q. v. </div><div n="I">IV A
+thicket: q. v.</div>
 <LEND>

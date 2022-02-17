@@ -1,10 +1,10 @@
 <L>17785<pc>544<k1>print<k2>print
-<div n="lb"/>{@PRINT@}¦ (subs.): <div n="I">I A mark: q. v.: {#चिह्नम्।#} </div><div n="I">II
-<div n="lb"/>Type: {#*मुद्राक्षराणि#} (n. pl.), {%this is bad p.:%}
-<div n="lb"/>{#*न शोभनान्येतानि मुद्राक्षराणि।#} Ph.: {%this is in p.:%}
-<div n="lb"/>{#*मुद्रयन्त्येतत्;#} <div n="xe">{%it is out of p.:%}</div> <div n="xs">{#*मुद्रितमदो निःशेषितम्;#}</div>
-<div n="lb"/><div n="xe">{%they like to see their names in p.:%}</div> <div n="xs">{#*स्वनामानि #}
-<div n="lb"/>{# मुद्रितानि द्रष्टुमिच्छन्ति।#}</div> </div><div n="I">III A picture: q. v.: [Page545]
-<div n="lb"/>{#अङ्कः।#} </div><div n="I">IV A journal: q. v. V. A p. ed
-<div n="lb"/>fabric: {#अङ्कितं वस्त्रम्#} (?).</div>
+{@PRINT@}¦ (subs.): <div n="I">I A mark: q. v.: {#चिह्नम्।#} </div><div n="I">II
+Type: {#*मुद्राक्षराणि#} (n. pl.), {%this is bad p.:%}
+{#*न शोभनान्येतानि मुद्राक्षराणि।#} Ph.: {%this is in p.:%}
+{#*मुद्रयन्त्येतत्;#} <div n="xe">{%it is out of p.:%}</div> <div n="xs">{#*मुद्रितमदो निःशेषितम्;#}</div>
+<div n="xe">{%they like to see their names in p.:%}</div> <div n="xs">{#*स्वनामानि #}
+{# मुद्रितानि द्रष्टुमिच्छन्ति।#}</div> </div><div n="I">III A picture: q. v.: [Page545]
+{#अङ्कः।#} </div><div n="I">IV A journal: q. v. V. A p. ed
+fabric: {#अङ्कितं वस्त्रम्#} (?).</div>
 <LEND>

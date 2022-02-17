@@ -23,7 +23,7 @@
 <ls>1802.</ls> {#मृत्तिका°#} 
 <ls>RAGH. 3, 3, v. l.</ls> beim Schol. in der ed. Calc. {#तृण°#} 
 <ls>Spr. 965.</ls> {#कुशलाजशमीलवैः । अभिषिक्तस्य#} 
-<ls>MBH. 3, 16078. 14, 2805.</ls> {#जल°#} {%Tropfen%} 
+<ls>MBH. 3, 16078.</ls> <ls n="MBH.">14, 2805.</ls> {#जल°#} {%Tropfen%} 
 <ls>MEGH. 21. 71. 91.</ls> 
 <ls>RAGH. 16, 66.</ls> 
 <ls>Spr. 2543.</ls> 
@@ -49,12 +49,12 @@
 <ls>3, 16, 7. 10, 61, 4.</ls> {#भावानां लवैः#} 
 <ls>DAŚAR. 2, 47.</ls> {#आशीर्भिरलंलवात्मभिः#} 
 <ls>BHĀG. P. 3, 13, 48.</ls> {#लालित्य°#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 6, 503,</ls> <ls>Śl. 6.</ls> <ls>SĀH. D. 40, 11.</ls> {#मधुलवलेश#} 
+<ls>Journ. of the Am. Or. S. 6, 503, Śl. 6.</ls> <ls>SĀH. D. 40, 11.</ls> {#मधुलवलेश#} 
 <ls>Spr. 3520.</ls> {#लवम्#} adv. {%ein wenig%}: {#लवमपि लवङ्गे न रमते#} 
-<ls>SARASVATĪK. 1</ls> <ls>?(nach AUFRECHT).</ls> 
-<div n="2">— d) {%ein best. Zeittheil%} (=  (1/4000) <is>Muhūrta</is> nach 
+<ls>SARASVATĪK. 1</ls> (nach <ls>AUFRECHT</ls>). 
+<div n="2">— d) {%ein best. Zeittheil%} (= (1/4000) <is>Muhūrta</is> nach 
 <ls>PARĀŚARA</ls> bei <ls>UTPALA</ls> zu <ls>VARĀH. BṚH. S. 2</ls>; nach Andern (1/5400 1/20250) <is>Muh</is>.); häufig personif. 
-<ls>TRIK.</ls> <ls>H. 136.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>WEBER, JYOT. 41. fgg. 90. fg. 105.</ls> <ls>Nakṣ. 2, 287.</ls> <ls>Ind. St. 9, 461. 464. fgg.</ls> <ls>MBH. 1, 1292. 6443. 13, 627. 776. 7385.</ls> <ls>HARIV. 9529. 14079.</ls> <ls>VARĀH. BṚH. S. 48, 59.</ls> <ls>BHĀG. P. 1, 18, 13. 3, 11, 6. 7. 4, 30, 34. 7, 3, 31.</ls> <ls>MĀRK. P. 99, 50.</ls> <ls>VP. 22, N. 3.</ls> <ls>HIOUEN-THSANG I, 61.</ls> 
+<ls>TRIK.</ls> <ls>H. 136.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>WEBER, JYOT. 41. fgg. 90. fg. 105.</ls> <ls>Nakṣ. 2, 287.</ls> <ls>Ind. St. 9, 461. 464. fgg.</ls> <ls>MBH. 1, 1292.</ls> <ls n="MBH. 1,">6443.</ls> <ls n="MBH.">13, 627.</ls> <ls n="MBH. 13,">776.</ls> <ls n="MBH. 13,">7385.</ls> <ls>HARIV. 9529.</ls> <ls n="HARIV.">14079.</ls> <ls>VARĀH. BṚH. S. 48, 59.</ls> <ls>BHĀG. P. 1, 18, 13. 3, 11, 6. 7. 4, 30, 34. 7, 3, 31.</ls> <ls>MĀRK. P. 99, 50.</ls> <ls>VP. 22, N. 3.</ls> <ls>HIOUEN-THSANG I, 61.</ls> 
 <div n="2">— e) bei den Astronomen = {#अंश, भाग#} {%Grad%} 
 <ls>GOLĀDHY.</ls> <ls>TRIPRAŚNAV. 32. fgg.</ls> <ls>GAṆITĀDHY.</ls> <ls>BHĀGRAHAYUTYADHY. 7.</ls> <ls>TRIPRAŚNĀDHY. 32.</ls> 
 <div n="2">— f) {%Zähler eines Bruchs%} 
@@ -69,7 +69,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>RAGH. 15, 32.</ls> 
-<ls>Verz. d. B. H. 115</ls> <ls>?(XLIV). UTTARAR. 66, 8 (85, 8). VP. 385. 386, N. 17. BHĀG. P. 9, 11, 11</ls>; vgl. {#कुशीलव#} 
+<ls>Verz. d. B. H. 115</ls> (<ls>XLIV).</ls> <ls>UTTARAR. 66, 8 (85, 8).</ls> <ls>VP. 385. 386, N. 17.</ls> <ls>BHĀG. P. 9, 11, 11</ls>; vgl. {#कुशीलव#} 
 <div n="1"> 3) 
 <div n="3">— β) eines Fürsten von <is>Kāśmīra</is>, Vaters des <is>Kuśa</is>, 
 <ls>RĀJA-TAR. 1, 18. 84.</ls> 

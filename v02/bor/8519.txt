@@ -1,7 +1,7 @@
 <L>8519<pc>270<k1>faulty<k2>faulty
-<div n="lb"/>{@FAULTY:@}¦ <div n="1">(1) {#दोषवत्#} (f. {#ती#}), <div n="xe">{%f. girl:%}</div> <div n="xs">{#दोषवती कन्या,#}</div>
-<div n="lb"/>M. ix. 73.; </div><div n="1">(2) {#दोषिन्#} (f. {#णी#}); </div><div n="1">(3) {#सदोषः#}
-<div n="lb"/>({#षा, षं#}); </div><div n="1">(3) {#दुष्टः#} ({#ष्टा, ष्टं#}) (often=vicious),
-<div n="lb"/><div n="xe">{%afterwards found to be f.:%}</div> <div n="xs">{#*दुष्टं पश्चाद्विभावितम्,#}</div>
-<div n="lb"/>Mit.</div>
+{@FAULTY:@}¦ <div n="1">(1) {#दोषवत्#} (f. {#ती#}), <div n="xe">{%f. girl:%}</div> <div n="xs">{#दोषवती कन्या,#}</div>
+M. ix. 73.; </div><div n="1">(2) {#दोषिन्#} (f. {#णी#}); </div><div n="1">(3) {#सदोषः#}
+({#षा, षं#}); </div><div n="1">(3) {#दुष्टः#} ({#ष्टा, ष्टं#}) (often=vicious),
+<div n="xe">{%afterwards found to be f.:%}</div> <div n="xs">{#*दुष्टं पश्चाद्विभावितम्,#}</div>
+Mit.</div>
 <LEND>

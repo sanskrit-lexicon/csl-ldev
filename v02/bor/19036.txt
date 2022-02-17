@@ -1,6 +1,6 @@
 <L>19036<pc>589<k1>report<k2>report
-<div n="lb"/>{@REPORT@}¦ (v. t.): <div n="I">I To inform, relate: q. v.:
-<div n="lb"/>{#आवेदयति#} (c. of {#विद्#}). </div><div n="I">II To make a r.: <div n="xe">{%to%}
-<div n="lb"/>{%r. about an abortion:%}</div> <div n="xs">{#भ्रूणहत्यावृत्तान्तम् आवेदयति#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#प्रेरयति#}</div> ({#ईर्,#} c. 10 = to send).</div>
+{@REPORT@}¦ (v. t.): <div n="I">I To inform, relate: q. v.:
+{#आवेदयति#} (c. of {#विद्#}). </div><div n="I">II To make a r.: <div n="xe">{%to%}
+{%r. about an abortion:%}</div> <div n="xs">{#भ्रूणहत्यावृत्तान्तम् आवेदयति#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#प्रेरयति#}</div> ({#ईर्,#} c. 10 = to send).</div>
 <LEND>

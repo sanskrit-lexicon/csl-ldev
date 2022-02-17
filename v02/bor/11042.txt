@@ -1,4 +1,4 @@
 <L>11042<pc>347<k1>hitherto<k2>hitherto
-<div n="lb"/>{@HITHERTO:@}¦ <div n="I">I Of time: </div><div n="1">(1) {#अद्यावधि;#} </div><div n="1">(2)
-<div n="lb"/>{#अद्य यावत्।#} </div><div n="I">II Of place: {#एतत्पर्यन्तम्।:#} v. Up to.</div>
+{@HITHERTO:@}¦ <div n="I">I Of time: </div><div n="1">(1) {#अद्यावधि;#} </div><div n="1">(2)
+{#अद्य यावत्।#} </div><div n="I">II Of place: {#एतत्पर्यन्तम्।:#} v. Up to.</div>
 <LEND>

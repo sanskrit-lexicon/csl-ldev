@@ -1,5 +1,5 @@
 <L>7341<pc>232<k1>electrify<k2>electrify
-<div n="lb"/>{@ELECTRIFY:@}¦ <div n="I">I Lit.: <div n="xe">{%to e. a jar:%}</div> <div n="xs">{#*घटं तडित्वन्तं #}
-<div n="lb"/>{# करोति।#}</div> </div><div n="I">II Fig., to surprise: {#परं विस्मयं जनयति#}
-<div n="lb"/>(c. of {#जन्#}).</div>
+{@ELECTRIFY:@}¦ <div n="I">I Lit.: <div n="xe">{%to e. a jar:%}</div> <div n="xs">{#*घटं तडित्वन्तं #}
+{# करोति।#}</div> </div><div n="I">II Fig., to surprise: {#परं विस्मयं जनयति#}
+(c. of {#जन्#}).</div>
 <LEND>

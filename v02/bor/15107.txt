@@ -1,8 +1,8 @@
 <L>15107<pc>462<k1>multitude<k2>multitude
-<div n="lb"/>{@MULTITUDE:@}¦ <div n="I">I A collection, number: </div><div n="1">(1)
-<div n="lb"/>{#समूहः;#} </div><div n="1">(2) {#सङ्घः;#} </div><div n="1">(3) {#ओघः;#} </div><div n="1">(4) {#समवायः:#} v.
-<div n="lb"/>Also many. </div><div n="I">II Of men: {#जनसमवायः#} and
-<div n="lb"/>sim. comp.s.: v. Crowd. </div><div n="I">III = populace:</div>
-<div n="lb"/><div n="1">(1) {#प्रजाः#} (pl. =people); </div><div n="1">(2) {#प्राकृताः#} (= com-
-<div n="lb"/>-mon men).</div>
+{@MULTITUDE:@}¦ <div n="I">I A collection, number: </div><div n="1">(1)
+{#समूहः;#} </div><div n="1">(2) {#सङ्घः;#} </div><div n="1">(3) {#ओघः;#} </div><div n="1">(4) {#समवायः:#} v.
+Also many. </div><div n="I">II Of men: {#जनसमवायः#} and
+sim. comp.s.: v. Crowd. </div><div n="I">III = populace:</div>
+<div n="1">(1) {#प्रजाः#} (pl. =people); </div><div n="1">(2) {#प्राकृताः#} (= com-
+-mon men).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>6689<pc>214<k1>divorce<k2>divorce
-<div n="lb"/>{@DIVORCE@}¦ (v.): <div n="I">I Lit.: {#*विवाहलोपं करोति; #}
-<div n="lb"/>{# त्यजति, परि-,#} ({#त्यज्,#} c. 1.) (= to desert), <div n="xe">{%d.%}
-<div n="lb"/>{%ing an innocent wife:%}</div> <div n="xs">{#निर्दोषां पत्नीं परित्यजन्,#}</div> V. s.</div>
-<div n="lb"/><div n="I">II Fig.: {#निर्वासयति#} (c. of {#वस्#}).</div>
+{@DIVORCE@}¦ (v.): <div n="I">I Lit.: {#*विवाहलोपं करोति; #}
+{# त्यजति, परि-,#} ({#त्यज्,#} c. 1.) (= to desert), <div n="xe">{%d.%}
+{%ing an innocent wife:%}</div> <div n="xs">{#निर्दोषां पत्नीं परित्यजन्,#}</div> V. s.</div>
+<div n="I">II Fig.: {#निर्वासयति#} (c. of {#वस्#}).</div>
 <LEND>

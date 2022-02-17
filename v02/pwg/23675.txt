@@ -36,7 +36,7 @@
 <ls>MṚCCH. 50, 21.</ls> {#तद्ग्रहणार्थं मया क्रमः सज्जितः#} 
 <ls>PAÑCAT. 197, 24.</ls> {#सर्पस्य#} 
 <ls>KATHĀS. 9, 86.</ls> {#न शक्यमस्य ग्रहणं कर्तुम्#} 
-<ls>MBH. 13, 2283. 3, 12452. 7, 458. 715.</ls> 
+<ls>MBH. 13, 2283.</ls> <ls n="MBH.">3, 12452.</ls> <ls n="MBH.">7, 458.</ls> <ls n="MBH. 7,">715.</ls> 
 <ls>R. 5, 29, 21. 24. 38, 22. 88, 8.</ls> 
 <ls>MĀLAV. 9, 3.</ls> {#ग्रहणं समुपागमत्#} {%gerieth in Gefangenschaft%} 
 <ls>R. 1, 1, 73.</ls> {#यदि ग्रहणमभ्येति जीवन्नेव मृगस्तव#} 
@@ -46,7 +46,7 @@
 <ls>MṚCCH. 137, 12.</ls> 
 <ls>BHĀG. P. 3, 25, 26.</ls> 
 <div n="3">— γ) {%das Ergreifen der Sonne und des Mondes, Verfinsterung%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>YĀJÑ.1,218.</ls> <ls>ŚṚNGĀRAT. 6.</ls> <ls>VARĀH. BṚH. S.2,c</ls> <ls>?(Bl.1,b).5,8. 11. 41 (40),1. 82 (80,b),20.</ls> {#ग्रहणज#} 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>YĀJÑ.1,218.</ls> <ls>ŚṚNGĀRAT. 6.</ls> <ls>VARĀH. BṚH. S.2,c</ls> (<ls>Bl.1,b).5,8. 11. 41 (40),1. 82 (80,b),20.</ls> {#ग्रहणज#} 
 <ls>5, 96.</ls> {#ग्रहणगत#} {%verfinstert%} 
 <ls>15, 31.</ls> {#भौमं शानैश्चरं चैव ग्रहणं ग्रहसंज्ञितम्#} 
 <ls>VET. 16, 16.</ls> 
@@ -61,7 +61,7 @@
 <ls>PRAB. 72, 12.</ls> 
 <div n="3">— ζ) {%das Auffassen, Schöpfen%} (von Flüssigkeiten) 
 <ls>ŚAT. BR. 4, 6, 1, 15.</ls> 
-<ls>KĀTY. ŚR. 1, 5, 12. 7, 10. 3, 6, 19 u.s.w.</ls> 
+<ls>KĀTY. ŚR. 1, 5, 12. 7, 10. 3, 6, 19</ls> u.s.w. 
 <div n="3">— η) {%das Auffangen, Aufnehmen, Insichziehen, Ansichziehen%} (von Dünsten, Rauch): {#अम्भोविन्दुग्रहणरभसांश्चातकान्#} 
 <ls>MEGH. 22.</ls> {#नेत्राभ्यां वाष्पग्रहणमकरोत्#} 
 <ls>PAÑCAT. 262, 23.</ls> {#आचारधूम°#} 
@@ -74,7 +74,7 @@
 <ls>MBH. 14, 459.</ls> 
 <ls>DEV. 1, 65.</ls> 
 <div n="3">— τ) {%das Insichbegreifen, Insichschliessen%}: {#अकारः सवर्णग्रहणेन आकारमपि यथा गृह्णीयात्#} 
-<ls>Sch.</ls> zu <ls>P. 8, 4, 68</ls> <ls>?(Bd. II).</ls> <ls>Sch.</ls> zu <ls>3, 1, 20</ls> und <ls>8, 4, 17.</ls> 
+<ls>Sch.</ls> zu <ls>P. 8, 4, 68</ls> (<ls>Bd. II).</ls> <ls>Sch.</ls> zu <ls>3, 1, 20</ls> und <ls>8, 4, 17.</ls> 
 <div n="3">— ι) {%das Aufsichnehmen, Sichhingeben einer Sache%}: {#यथा न पापग्रहणेन गृह्यसे (तथा यतस्व)#} 
 <ls>R. 5, 76, 22.</ls> {#व्रत°#} 
 <ls>PAÑCAT. 34, 9.</ls> 
@@ -84,7 +84,7 @@
 <ls>KĀTY. ŚR. 7, 5, 25. 15, 2, 11.</ls> 
 <ls>LĀṬY. 1, 1, 2. 6.</ls> 
 <ls>VS. PRĀT. 1, 63.</ls> <ls n="VS. PRĀT. 1,">64.</ls> 
-<ls>P. 1, 1, 23, <is>Vārtt</is>. 1. 2. 2, 1, 42, <is>Vārtt</is>. <is>Kār</is>.</ls> zu <ls>P. 7, 1, 6.</ls> <ls>KĀŚ.</ls> zu <ls>1, 1, 50 und 2, 35.</ls> <ls>Sch.</ls> zu <ls>1, 2, 6. 22. 27 und 8, 3, 78.</ls> 
+<ls>P. 1, 1, 23, <is>Vārtt</is>. 1. 2. 2, 1, 42, <is>Vārtt</is>. <is>Kār</is>.</ls> zu <ls>P. 7, 1, 6.</ls> <ls>KĀŚ.</ls> zu <ls>1, 1, 50</ls> und <ls>2, 35.</ls> <ls>Sch.</ls> zu <ls>1, 2, 6. 22. 27 und 8, 3, 78.</ls> 
 <div n="3">— ν) {%das rühmliche Nennen, Achtung%}, = {#आदर#} 
 <ls>H. an.</ls> <ls>MED.</ls> {#सतां#} (subj.) {#ग्रहणमुत्तमम्#} 
 <ls>SUŚR. 1, 96, 3.</ls> 
@@ -98,10 +98,10 @@
 <ls>YĀJÑ. 1, 36.</ls> {#ब्रह्मणः#} 
 <ls>M. 2, 173.</ls> <ls>Z. d. d. m. G. IX, LI.</ls> <ls>MBH. 3, 12509.</ls> <ls>RAGH. 3, 28.</ls> <ls>BHĀG.</ls> <ls>P. 3, 4, 18.</ls> <ls>PRAB. 106, 18.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 27.</ls> <ls>Sch.</ls> zu <ls>JAIM. 1, 1, 1.</ls> <ls>AK. 2, 7, 40.</ls> <ls>H. 310. 842.</ls> {#यत्र ज्ञानवतां प्राप्तिरलिङ्गग्रहणा स्मृता#} 
 <ls>MBH. 14, 1309.</ls> {#आकृतिग्रहणा जातिः#} 
-<ls>?<is>Kār</is>. in P. Bd. II u.</ls> {#जाति#} . 
+<is>Kār</is>. in <ls>P. Bd. II</ls> u. {#जाति#} . 
 <div n="3">— ο) {%das Meinen, Darunterverstehen%}: {#तस्य च तद्विशेषाणां च ग्रहणं भवति#} 
-<ls>P. 1, 1, 68, <is>Vārtt</is>. 4,</ls> 
-<ls>Sch.</ls> 
-<ls>SIDDH. K.</ls> zu <ls>?1, 1, 28. Sch. zu 1, 1, 68 und 2, 48.</ls> 
+<ls>P. 1, 1, 68</ls>, <is>Vārtt</is>. 4, <ls>Sch.</ls> 
+
+<ls>SIDDH. K.</ls> zu <ls n="P.">1, 1, 28.</ls> Sch. zu <ls n="P.">1, 1, 68</ls> und <ls n="P. 1,">2, 48.</ls> 
 <div n="v">— Vgl. {#करग्रहण, केश°, गर्भ°, चक्षुर्ग्रहण, नाम°, पाणि°, पुनर्ग्रहण#} .
 <LEND>

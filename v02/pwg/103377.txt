@@ -5,8 +5,8 @@
 <ls>AK. 2, 6, 1, 12.</ls> 
 <ls>H. 529. 334.</ls> 
 <ls>HALĀY. 2, 332.</ls> 
-<ls>MBH. 3, 2082. 2108. fg. 2605.</ls> 
-<ls>HARIV. 9919. 9923. 9927.</ls> 
+<ls>MBH. 3, 2082.</ls> <ls n="MBH. 3,">2108. fg.</ls> <ls n="MBH. 3,">2605.</ls> 
+<ls>HARIV. 9919.</ls> <ls n="HARIV.">9923.</ls> <ls n="HARIV.">9927.</ls> 
 <ls>MEGH. 76. 86. 92. 101.</ls> 
 <ls>ŚĀK. 9, 5.</ls> 
 <ls>VARĀH. BṚH. S. 78, 4. 9.</ls> 

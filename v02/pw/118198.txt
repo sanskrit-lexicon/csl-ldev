@@ -1,15 +1,15 @@
 <L>118198<pc>7029-1<k1>सत्य<k2>सत्य/<e>100
 {#सत्य/#}¦
-<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ/#}) {%wirklich , in Wirklichkeit vorhanden , wahrhaft , ernstlich , wahr , echt , zutreffend , eintreffend , von Erfolg begleitet , in Erfüllung gehend , zuverlässig , treu , auf den%} oder {%worauf man sich verlassen kann , gültig%}. {#सत्यं कर्#} {%Etwas wahr machen , erfüllen%} <ls>325,2.</ls> {#सत्य/म्#} <ab>Adv.</ab> {%in Wirklichkeit , in Wahrheit , in der That , wirklich , fürwahr , wahrlich , gewiss , mit Recht , recht gut%} (in zustimmender Antwort) , {%so ist es recht%} (einräumend ; auch mit folgenden) {#तु#} {#किं#} {#तु#} oder {#तथापि#} {%aber , jedoch , dennoch). {#यत्सत्यम्#} in der That , fürwahr%} <ls>MṚCCH.44,16.129,15.143,3.</ls> {#जं#} {#सच्चं#} im <is n="1">Prākrit</is> 23 , 25. 68 , 21. 70 , 14. 71 , 24. 122 , 17. 165. 13
+<div n="1">— 1) <lex>Adj.</lex> (<lex>f.</lex> {#आ/#}) {%wirklich , in Wirklichkeit vorhanden , wahrhaft , ernstlich , wahr , echt , zutreffend , eintreffend , von Erfolg begleitet , in Erfüllung gehend , zuverlässig , treu , auf den%} oder {%worauf man sich verlassen kann , gültig%}. {#सत्यं कर्#} {%Etwas wahr machen , erfüllen%} <ls>325,2.</ls> {#सत्य/म्#} <ab>Adv.</ab> {%in Wirklichkeit , in Wahrheit , in der That , wirklich , fürwahr , wahrlich , gewiss , mit Recht , recht gut%} (in zustimmender Antwort) , {%so ist es recht%} (einräumend ; auch mit folgenden) {#तु#} {#किं#} {#तु#} oder {#तथापि#} {%aber , jedoch , dennoch). {#यत्सत्यम्#} in der That , fürwahr%} <ls>MṚCCH. 44,16. 129,15. 143,3.</ls> {#जं#} {#सच्चं#} im <is n="1">Prākrit</is> 23 , 25. 68 , 21. 70 , 14. 71 , 24. 122 , 17. 165. 13
 <div n="1">— 2) <lex>m.</lex>
-<div n="2">— a) {%<bot>Ficus religiosa</bot>%} <ls>RĀJAN.11,115.</ls>
+<div n="2">— a) {%<bot>Ficus religiosa</bot>%} <ls>RĀJAN. 11,115.</ls>
 <div n="2">— b) {%die unter den Welten am höchsten gelegene%} ; <ab>Vgl.</ab> 4)f).
 <div n="2">— c) {%der 9te <is>Kalpa</is> (Weltperiode)%}
 <div n="2">— d) <ab>Bein.</ab>
 <div n="3">— α) <is>Kṛṣṇa</is>'s.
 <div n="3">— β) <is>Rāma</is>'s.
 <div n="2">— e) <ab>N.pr.</ab>
-<div n="3">— α) eines best. Genius <ls>GAUT.26,12.</ls> <ls>HEMĀDRI.1,651,17.654,5.</ls>
+<div n="3">— α) eines best. Genius <ls>GAUT. 26,12.</ls> <ls>HEMĀDRI 1,651,17. 654,5.</ls>
 <div n="3">— β) eines zu den <is>Viśve</is> <is>Deva</is>'s gezählten Wesens.
 <div n="3">— γ) <ab>Pl.</ab> einer Gruppe von Göttern in verschiedenen <is>Manvantara</is>. Auch {#सत्याखयो#} {#गणः#}
 <div n="3">— δ) verschiedener <is>Ṛṣi</is> und anderer Personen. auch eines Astronomen.
@@ -19,7 +19,7 @@
 <div n="3">— α) der <is>Durgā</is>.
 <div n="3">— β) der <is>Sitā</is>.
 <div n="2">— c) abgekürzt für
-<div n="3">— α) {#सत्यभामा#} <ls>ŚIŚ.12,3.</ls>
+<div n="3">— α) {#सत्यभामा#} <ls>ŚIŚ. 12,3.</ls>
 <div n="3">— β) {#सत्यवती#}.
 <div n="2">— d) <ab>N.pr.</ab>
 <div n="3">— α) der Familiengottheit der <is>Kutsa</is> und <is>Atharvan</is>.
@@ -36,5 +36,5 @@ anderer Frauen.
 <div n="2">— g) {%eine der sieben <is>Vyāhṛti</is>.%}
 <div n="2">— h) {%das achte astrologische Haus.%}
 <div n="2">— i) {%eine <is>Satya</is>-Formel.%}
-<div n="2">— k) Name eines <is>Sāman</is>. {#प्रजापतेः#} {#सत्ये#} <ls>ĀRṢ.BR.</ls>
+<div n="2">— k) Name eines <is>Sāman</is>. {#प्रजापतेः#} {#सत्ये#} <ls>ĀRṢ. BR.</ls>
 <LEND>

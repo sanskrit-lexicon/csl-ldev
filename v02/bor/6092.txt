@@ -1,5 +1,5 @@
 <L>6092<pc>196<k1>dialectic<k2>dialectic
-<div n="lb"/>{@DIALECTIC, -AL@}¦ (adj.): <div n="I">I Relating to dialects:
-<div n="lb"/>expr. by comp., <div n="xe">{%d. difference:%}</div> <div n="xs">{#भाषाभेदः।#}</div> </div><div n="I">II
-<div n="lb"/>Logical: q. v.: {#तार्किकः#} ({#की, कं#}).</div>
+{@DIALECTIC, -AL@}¦ (adj.): <div n="I">I Relating to dialects:
+expr. by comp., <div n="xe">{%d. difference:%}</div> <div n="xs">{#भाषाभेदः।#}</div> </div><div n="I">II
+Logical: q. v.: {#तार्किकः#} ({#की, कं#}).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>24075<pc>753<k1>ward<k2>ward
-<div n="lb"/>{@WARD@}¦ (subs.): <div n="I">I Custody, protection:
-<div n="lb"/>q. v.: {#रक्षा।#} </div><div n="I">II Opposed to guardian: perh.
-<div n="lb"/>{#रक्षितो बालः।#} </div><div n="I">III Of a town etc.: {#विभागः।#}</div>
-<div n="lb"/><div n="I">IV In fencing: {#अपसारणम्।#}</div>
+{@WARD@}¦ (subs.): <div n="I">I Custody, protection:
+q. v.: {#रक्षा।#} </div><div n="I">II Opposed to guardian: perh.
+{#रक्षितो बालः।#} </div><div n="I">III Of a town etc.: {#विभागः।#}</div>
+<div n="I">IV In fencing: {#अपसारणम्।#}</div>
 <LEND>

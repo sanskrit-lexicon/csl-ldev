@@ -1,13 +1,13 @@
 <L>15386<pc>471<k1>never<k2>never
-<div n="lb"/>{@NEVER:@}¦ <div n="1">(1) {#न कदाचित् -अपि, न कदापि,#} <div n="xe">{%or%}</div> <div n="xs">{#न कदा-#}
-<div n="lb"/>{#चन,#}</div> {%will n. admit in the presence of Rākṣasa:%}
-<div n="lb"/>{#न कदाचिदपि राक्षसस्याग्रतः प्रतिपत्स्यते,#} Mu.; <div n="xe">{%n.%}
-<div n="lb"/>{%grieve:%}</div> <div n="xs">{#खेदं कदापि मा कृथाः,#}</div> Bham.; </div><div n="1">(2) {#न जातु,#}
-<div n="lb"/><div n="xe">{%the girl n. felt easy:%}</div> <div n="xs">{#न जातु निर्वृतिं बाला लभते स्म,#}</div>
-<div n="lb"/>Ku.; </div><div n="1">(3) Often by sim. {#न,#} {%such a horse n. was%}
-<div n="lb"/>{%and n. will be:%} {#नैवंविधो भूतो भावी वा तुरङ्गमः,#} K.;
-<div n="lb"/>{%n. to open again:%} {#अपुनरून्मीलनाय,#} C.; {%n. -fad-%}
-<div n="lb"/>{%ing:%} {#अजरः#} ({#रा, रं#}), H.; {%n. -failing:%} {#अक्षय्य#}
-<div n="lb"/>(f. {#य्या#}), D. {%N. so%} (= ever so) expr. by
-<div n="lb"/>{#यावत्:#} v. Much as, as. {%N. more:%} {#इतः परं #} {#। न।#}</div>
+{@NEVER:@}¦ <div n="1">(1) {#न कदाचित् -अपि, न कदापि,#} <div n="xe">{%or%}</div> <div n="xs">{#न कदा-#}
+{#चन,#}</div> {%will n. admit in the presence of Rākṣasa:%}
+{#न कदाचिदपि राक्षसस्याग्रतः प्रतिपत्स्यते,#} Mu.; <div n="xe">{%n.%}
+{%grieve:%}</div> <div n="xs">{#खेदं कदापि मा कृथाः,#}</div> Bham.; </div><div n="1">(2) {#न जातु,#}
+<div n="xe">{%the girl n. felt easy:%}</div> <div n="xs">{#न जातु निर्वृतिं बाला लभते स्म,#}</div>
+Ku.; </div><div n="1">(3) Often by sim. {#न,#} {%such a horse n. was%}
+{%and n. will be:%} {#नैवंविधो भूतो भावी वा तुरङ्गमः,#} K.;
+{%n. to open again:%} {#अपुनरून्मीलनाय,#} C.; {%n. -fad-%}
+{%ing:%} {#अजरः#} ({#रा, रं#}), H.; {%n. -failing:%} {#अक्षय्य#}
+(f. {#य्या#}), D. {%N. so%} (= ever so) expr. by
+{#यावत्:#} v. Much as, as. {%N. more:%} {#इतः परं #} {#। न।#}</div>
 <LEND>

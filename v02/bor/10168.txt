@@ -1,8 +1,8 @@
 <L>10168<pc>321<k1>grain<k2>grain
-<div n="lb"/>{@GRAIN@}¦ (subs.): <div n="I">I Corn.: {#धान्यम्,#} {%small g.%}
-<div n="lb"/>(= millet: q.v.): {#क्षुद्रधान्यम्।#} </div><div n="I">II Seed: q.v.:
-<div n="lb"/>{#वीजम्।#} </div><div n="I">III A small particle: {#कणः।#} </div><div n="I">IV Of
-<div n="lb"/>the veins of wood: <div n="xe">{%against the g.:%}</div> <div n="xs">{#प्रतिलोमम्:#}</div> v.
-<div n="lb"/>A weight: expr. by {#रक्तिका#} (= 1¾ g.) Ph.:
-<div n="lb"/>{%in. g.%} i.e. deeply seated: {#अस्थिगतः#} ({#ता, तं#}) (?).</div>
+{@GRAIN@}¦ (subs.): <div n="I">I Corn.: {#धान्यम्,#} {%small g.%}
+(= millet: q.v.): {#क्षुद्रधान्यम्।#} </div><div n="I">II Seed: q.v.:
+{#वीजम्।#} </div><div n="I">III A small particle: {#कणः।#} </div><div n="I">IV Of
+the veins of wood: <div n="xe">{%against the g.:%}</div> <div n="xs">{#प्रतिलोमम्:#}</div> v.
+A weight: expr. by {#रक्तिका#} (= 1¾ g.) Ph.:
+{%in. g.%} i.e. deeply seated: {#अस्थिगतः#} ({#ता, तं#}) (?).</div>
 <LEND>

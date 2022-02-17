@@ -1,4 +1,4 @@
 <L>1469<pc>052<k1>axe<k2>axe
-<div n="lb"/>{@AXE:@}¦ <div n="1">(1) {#कुठारः;#} </div><div n="1">(2) {#परशुः;#} </div><div n="1">(3) {#परश्वधः।#} <div n="xe">{%A%}
-<div n="lb"/>{%small a.%}</div> <div n="xs">{#कुठारिका।#}</div></div>
+{@AXE:@}¦ <div n="1">(1) {#कुठारः;#} </div><div n="1">(2) {#परशुः;#} </div><div n="1">(3) {#परश्वधः।#} <div n="xe">{%A%}
+{%small a.%}</div> <div n="xs">{#कुठारिका।#}</div></div>
 <LEND>

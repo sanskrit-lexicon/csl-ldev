@@ -1,17 +1,17 @@
 <L>21294<pc>0383-b<k1>तृष्<k2>तृष्<h>1
 {#तृष्#} 1¦. {%tṛṣ,%} cl. 4. P. {%tṛṣyati, tatarṣa%}
-<div n="lb"/>(Ved. 3rd pl. {%tātṛṣus,%} part. {%tātṛṣāṇa%}),
-<div n="lb"/>{%atarṣat, tarṣitum,%} to be thirsty, to thirst; to
-<div n="lb"/>thirst for (metaphorically), desire, long for: Caus.
-<div n="lb"/>{%tarṣayati, -yitum,%} to cause to thirst; [cf. Zend
-<div n="lb"/><nsi>tarṣṇa,</nsi> ‘thirst;’ Goth. <nsi>thars,</nsi> ‘to become dry;’
-<div n="lb"/><nsi>thairsa, thars, thaursum; thaursus,</nsi> ‘dry;’ <nsi>thaurs-</nsi>
-<div n="lb"/><nsi>tei,</nsi> ‘thirst;’ <nsi>thaursyan,</nsi> ‘to thirst;’ <nsi>ga-thaurs-</nsi>
-<div n="lb"/><nsi>an-s,</nsi> ‘dry:’ Angl. Sax. <nsi>thurst, thyrr:</nsi> Old Germ.
-<div n="lb"/><nsi>darran,</nsi> ‘to become dry:’ Germ. <nsi>durst:</nsi> Gr. <lang n="greek">τέρσ-</lang>
-<div n="lb"/><lang n="greek">ο-μαι, τερσαίνω, ταρσός, ταρσ-ιά, τρασ-ιά:</lang> Lat.
-<div n="lb"/><nsi>torreo</nsi> for <nsi>torseo, tos-tum</nsi> from <nsi>tors-tum, torris,</nsi>
-<div n="lb"/><nsi>torrens:</nsi> Lith. <nsi>tróksztu,</nsi> ‘to thirst;’ <nsi>trószkulis,</nsi>
-<div n="lb"/>‘thirst:’ Hib. <nsi>tart (tar-t),</nsi> ‘thirst, drought;’ <nsi>tart-</nsi>
-<div n="lb"/><nsi>mhar,</nsi> ‘thirsty, dry.’]
+(Ved. 3rd pl. {%tātṛṣus,%} part. {%tātṛṣāṇa%}),
+{%atarṣat, tarṣitum,%} to be thirsty, to thirst; to
+thirst for (metaphorically), desire, long for: Caus.
+{%tarṣayati, -yitum,%} to cause to thirst; [cf. Zend
+<nsi>tarṣṇa,</nsi> ‘thirst;’ Goth. <nsi>thars,</nsi> ‘to become dry;’
+<nsi>thairsa, thars, thaursum; thaursus,</nsi> ‘dry;’ <nsi>thaurs-</nsi>
+<nsi>tei,</nsi> ‘thirst;’ <nsi>thaursyan,</nsi> ‘to thirst;’ <nsi>ga-thaurs-</nsi>
+<nsi>an-s,</nsi> ‘dry:’ Angl. Sax. <nsi>thurst, thyrr:</nsi> Old Germ.
+<nsi>darran,</nsi> ‘to become dry:’ Germ. <nsi>durst:</nsi> Gr. <lang n="greek">τέρσ-</lang>
+<lang n="greek">ο-μαι, τερσαίνω, ταρσός, ταρσ-ιά, τρασ-ιά:</lang> Lat.
+<nsi>torreo</nsi> for <nsi>torseo, tos-tum</nsi> from <nsi>tors-tum, torris,</nsi>
+<nsi>torrens:</nsi> Lith. <nsi>tróksztu,</nsi> ‘to thirst;’ <nsi>trószkulis,</nsi>
+‘thirst:’ Hib. <nsi>tart (tar-t),</nsi> ‘thirst, drought;’ <nsi>tart-</nsi>
+<nsi>mhar,</nsi> ‘thirsty, dry.’]
 <LEND>

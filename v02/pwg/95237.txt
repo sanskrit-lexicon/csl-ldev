@@ -1,9 +1,9 @@
 <L>95237<pc>6-1356<k1>वेत्र<k2>वेत्र/
 {#वेत्र/#}¦ (von 3. {#वी#}) 
 <ls>UṆĀDIS. 4, 166.</ls> <lex>m.</lex> {%eine grössere Art Calamus%}, etwa {%fasciculatus%}, zu Stöcken gebraucht, 
-<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>KAUŚ. 40.</ls> <ls>MBH. 3, 2404. 12, 3241.</ls> {#वेत्रारूढमहावृक्षा#} 
+<ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>KAUŚ. 40.</ls> <ls>MBH. 3, 2404.</ls> <ls n="MBH.">12, 3241.</ls> {#वेत्रारूढमहावृक्षा#} 
 <ls>HARIV. 14432.</ls> {#यत्रोत्पन्ना महावेत्रा भूतानां दण्डतां ययु\ः#} 
-<ls>14804.</ls> <ls>R. 2, 94, 9. 3, 17, 9.</ls> {#°लताचयैः - सेतुं बबन्धुः#} 
+<ls n="HARIV.">14804.</ls> <ls>R. 2, 94, 9. 3, 17, 9.</ls> {#°लताचयैः - सेतुं बबन्धुः#} 
 <ls>5, 95, 17.</ls> <ls>SUŚR. 2, 252, 1.</ls> {#वेत्राम्ल#} 
 <ls>328, 6.</ls> {#°फल#} 
 <ls>1, 157, 5. 209, 5.</ls> {#°करीर#} 
@@ -17,12 +17,12 @@
 <ls>PAÑCAT. 16, 1 (13, 6</ls> ed. orn.). {#वेत्र#} so v. a. {#वेत्रयष्टि#} 
 <ls>VARĀH. BṚH. S. 72, 4.</ls> 
 <ls>BHĀG. P. 10, 12, 2</ls> (zum Treiben des Viehes). {#पट्टिकावेत्रबाणविकल्पाः#} (so im Comm. zu 
-<ls>BHĀG. P.</ls> <ls>?10,45,36) unter den 64 Künsten Verz. d. Oxf. H. 217,a,11.</ls> {#शृङ्गवेत्रकर#} (<is>Kṛṣṇa</is>) 
+<ls>BHĀG. P. 10, 45, 36</ls>) unter den 64 Künsten <ls>Verz. d. Oxf. H. 217,a,11.</ls> {#शृङ्गवेत्रकर#} (<is>Kṛṣṇa</is>) 
 <ls>PAÑCAR. 4, 8, 113.</ls> beim Thürsteher <ls>BHĀG. P. 3, 15, 30. 7, 5, 16.</ls> {#°व्यासक्तहस्त#} 
 <ls>MBH. 9, 1638.</ls> {#°पाणि#} 
 <ls>HARIV. 5004.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 13, 3.</ls> {#°झर्झरपाणि#} 
+
+<ls>R. GORR. 2, 13, 3.</ls> {#°झर्झरपाणि#} 
 <ls>6, 99, 23.</ls> <ls>MBH. 6, 4436.</ls> {#°हस्त#} 
 <ls>KATHĀS. 108, 2. 124, 75.</ls> {#वामप्रकोष्ठार्पितहेम°#} 
 <ls>KUMĀRAS. 3, 41.</ls> — {#वेत्र#} <lex>n.</lex> 

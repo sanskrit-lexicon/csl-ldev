@@ -1,4 +1,4 @@
 <L>5828<pc>187<k1>dental<k2>dental
-<div n="lb"/>{@DENTAL:@}¦ <div n="I">I Adj.: {#दन्त्यः#} ({#न्त्या, न्त्यं#}). </div><div n="I">II
-<div n="lb"/>Subs.: {#दन्त्यम्, दन्त्यवर्णः।#}</div>
+{@DENTAL:@}¦ <div n="I">I Adj.: {#दन्त्यः#} ({#न्त्या, न्त्यं#}). </div><div n="I">II
+Subs.: {#दन्त्यम्, दन्त्यवर्णः।#}</div>
 <LEND>

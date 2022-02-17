@@ -1,4 +1,4 @@
 <L>17005<pc>520<k1>picture-gallery<k2>picture-gallery
-<div n="lb"/>{@PICTURE-GALLERY:@}¦ {#चित्रावली#} (= pictures);
-<div n="lb"/>{#चित्रशाला#} and sim. comp.s.
+{@PICTURE-GALLERY:@}¦ {#चित्रावली#} (= pictures);
+{#चित्रशाला#} and sim. comp.s.
 <LEND>

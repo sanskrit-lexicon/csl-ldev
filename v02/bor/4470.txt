@@ -1,10 +1,10 @@
 <L>4470<pc>145<k1>conscious<k2>conscious
-<div n="lb"/>{@CONSCIOUS:@}¦ <div n="I">I Possessing c. ness: {#चेतनः#} {%or%}
-<div n="lb"/>{#सचेतनः#} ({#ना, नं#}), {%even by%} ({%those%}) {%who are not c.:%}
-<div n="lb"/>{#विचेतनैरपि,#} Ku. </div><div n="I">II Aware, sensible: expr.
-<div n="lb"/>by the verbs; {#जानाति#} ({#ज्ञा,#} c. 9.), {#वेत्ति#} ({#विद्,#}
-<div n="lb"/>c. 2.), etc, (=to know: q. v.); <div n="xe">{%though c.%}
-<div n="lb"/>{%unable to control the organs:%}</div> <div n="xs">{#जानानाप्यप्रभवन्ती #}
-<div n="lb"/>{# करणानाम्,#}</div> K.; <div n="xe">{%which one can only be c. of:%}</div> <div n="xs">{#स्वसंवेद्यः#}</div>
-<div n="lb"/>({#द्या, द्यं#}), K.</div>
+{@CONSCIOUS:@}¦ <div n="I">I Possessing c. ness: {#चेतनः#} {%or%}
+{#सचेतनः#} ({#ना, नं#}), {%even by%} ({%those%}) {%who are not c.:%}
+{#विचेतनैरपि,#} Ku. </div><div n="I">II Aware, sensible: expr.
+by the verbs; {#जानाति#} ({#ज्ञा,#} c. 9.), {#वेत्ति#} ({#विद्,#}
+c. 2.), etc, (=to know: q. v.); <div n="xe">{%though c.%}
+{%unable to control the organs:%}</div> <div n="xs">{#जानानाप्यप्रभवन्ती #}
+{# करणानाम्,#}</div> K.; <div n="xe">{%which one can only be c. of:%}</div> <div n="xs">{#स्वसंवेद्यः#}</div>
+({#द्या, द्यं#}), K.</div>
 <LEND>

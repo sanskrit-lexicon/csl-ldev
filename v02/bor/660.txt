@@ -1,5 +1,5 @@
 <L>660<pc>024<k1>ambassador<k2>ambassador
-<div n="lb"/>{@AMBASSADOR:@}¦ <div n="1">(1) {#दूतः,#} </div><div n="1">(2) {#राजदूतः।#} Ph. <div n="xe">{%the%}
-<div n="lb"/>{%English a. at Berlin%}</div> <div n="xs">{#*वार्लिनस्य इंलण्डीयराजदूतः#}</div> {%or%}
-<div n="lb"/>{#इंलण्डीयराजमन्त्री।#}</div>
+{@AMBASSADOR:@}¦ <div n="1">(1) {#दूतः,#} </div><div n="1">(2) {#राजदूतः।#} Ph. <div n="xe">{%the%}
+{%English a. at Berlin%}</div> <div n="xs">{#*वार्लिनस्य इंलण्डीयराजदूतः#}</div> {%or%}
+{#इंलण्डीयराजमन्त्री।#}</div>
 <LEND>

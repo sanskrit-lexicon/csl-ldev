@@ -1,5 +1,5 @@
 <L>16613<pc>510<k1>payment<k2>payment
-<div n="lb"/>{@PAYMENT:@}¦ <div n="I">I The act: </div><div n="1">(1) {#दानम्;#} </div><div n="1">(2)
-<div n="lb"/>{#परिशोधः, -नम्;#} (of debts). </div><div n="I">II Requital:
-<div n="lb"/>q. v.: {#परिशोधः।#}</div>
+{@PAYMENT:@}¦ <div n="I">I The act: </div><div n="1">(1) {#दानम्;#} </div><div n="1">(2)
+{#परिशोधः, -नम्;#} (of debts). </div><div n="I">II Requital:
+q. v.: {#परिशोधः।#}</div>
 <LEND>

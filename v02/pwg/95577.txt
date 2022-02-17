@@ -6,13 +6,13 @@ Wort hervorhebt ({#अवधारणे#}
 <ls>AK. 3, 5, 15.</ls> {#हेतौ#} 
 <ls>H. an. 7, 15.</ls> {#पादपूरणे#} ebend. und 
 <ls>AK. 3, 5, 5.</ls> {#संबोधने#} und {#अनुनये#} 
-<ls>ŚKDR.</ls> <ls>?angeblich nach MED.</ls>). Einfluss auf den Ton des verbi finiti 
+<ls>ŚKDR.</ls> <ls>angeblich</ls> nach <ls>MED.</ls>). Einfluss auf den Ton des verbi finiti 
 <ls>P. 8, 1, 64.</ls> kommt in den <is>Saṃhitā</is> selten, in den <is>Brāhmaṇa</is> und wo deren Stil nachgeahmt wird, so wie im Epos über die Maassen häufig vor; in den <is>Sūtra</is> meist nur in der Zusammenstellung {#यद्यु वै#}.{# स वा एषः#} 
 <ls>AIT. BR. 2, 9. 14.</ls> {#स वै#} 
 <ls>M. 1, 76. 2, 160. 10, 18.</ls> 
-<ls>MBH. 3, 2642. 2731. 2908. 2956. 5, 5423.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 79, 44.</ls> 
+<ls>MBH. 3, 2642.</ls> <ls n="MBH. 3,">2731.</ls> <ls n="MBH. 3,">2908.</ls> <ls n="MBH. 3,">2956.</ls> <ls n="MBH.">5, 5423.</ls> 
+
+<ls>R. GORR. 1, 79, 44.</ls> 
 <ls>BHĀG. P. 1, 2, 6. 13, 24.</ls> {#तद्वै#} 
 <ls>M. 1, 73. 3, 170. 238.</ls> 
 <ls>BHĀG. P. 3, 9, 4.</ls> {#ते वै#} 
@@ -63,7 +63,7 @@ Wort hervorhebt ({#अवधारणे#}
 <ls>P. 1, 4, 57. <is>Vārtt</is>. 1</ls> zu <ls>P. 6, 1, 94.</ls> <ls>TS. 2, 6, 6, 3. 3, 2, 9, 2.</ls> <ls>ŚAT. BR. 9, 4, 3, 12. 10, 6, 1, 5. 9.</ls> {#न्वै#} s. bes. {#प्रातर्वै#} 
 <ls>AIT. BR. 2, 15.</ls> {#पूर्वाह्णे वै#} 
 <ls>M. 8, 87.</ls> {#अद्य वै#} 
-<ls>MBH. 1, 5980. 3, 2628.</ls> {#भूयो वै#} 
+<ls>MBH. 1, 5980.</ls> <ls n="MBH.">3, 2628.</ls> {#भूयो वै#} 
 <ls>KĀTY. ŚR. 7, 8, 7.</ls> {#त्रिर्वै#} 
 <ls>M. 11, 77.</ls> {#दुःखं वै स निवत्स्यति#} 
 <ls>MBH. 3, 2623.</ls> {#यथासुखं वै जीव त्वम्#} 
@@ -85,7 +85,7 @@ Wort hervorhebt ({#अवधारणे#}
 <ls>AIT. BR. 4, 5.</ls> {#अमरान्वै निबोधास्मान्#} 
 <ls>MBH. 3, 2137.</ls> {#गोर्वै प्रतिधुक्#} 
 <ls>KĀTY. ŚR. 7, 8, 8.</ls> {#ऋतुपर्णस्य वै काममात्मार्थं च करोम्यहम्#} 
-<ls>MBH. 3, 2778. 2900. 1, 2987.</ls> Comm. in der Einl. zu <ls>CAURAP.</ls> {#(गृह्णामि) शस्त्रं वै#} 
+<ls>MBH. 3, 2778.</ls> <ls n="MBH. 3,">2900.</ls> <ls n="MBH.">1, 2987.</ls> Comm. in der Einl. zu <ls>CAURAP.</ls> {#(गृह्णामि) शस्त्रं वै#} 
 <ls>MBH. 5, 7026.</ls> {#केनोपायेन वै#} 
 <ls>R. 1, 8, 17.</ls> {#मदे^षु\ वै#} 
 <ls>ṚV. 7, 20, 4.</ls> {#वदतो वै वसिष्ठस्य#} 
@@ -105,9 +105,9 @@ Wort hervorhebt ({#अवधारणे#}
 <ls>2793.</ls> <ls>R. 1, 9, 64.</ls> nach einem voc. 
 <ls>MBH. 1, 986</ls> (zu schreiben {#आत्मनोरग वै कृतम्#}). Sehr beliebt ist {#वै#} am Ende eines <is>Pāda</is> 
 <ls>M. 2, 3. 8. 19. 3, 268. fg. 12, 90.</ls> 
-<ls>MBH. 1, 6155. 6198. 7699. 3, 2167. 2249. fg. 2257. 2483. 2609. 2628. 2770. 2848.2897. 2990. 16811. 5, 5946. 5965. 5972. 5981. 7294.</ls>
+<ls>MBH. 1, 6155.</ls> <ls n="MBH. 1,">6198.</ls> <ls n="MBH. 1,">7699.</ls> <ls n="MBH.">3, 2167.</ls> <ls n="MBH. 3,">2249. fg.</ls> <ls n="MBH. 3,">2257.</ls> <ls n="MBH. 3,">2483.</ls> <ls n="MBH. 3,">2609.</ls> <ls n="MBH. 3,">2628.</ls> <ls n="MBH. 3,">2770.</ls> <ls n="MBH. 3,">2848.</ls> <ls n="MBH. 3,">2897.</ls> <ls n="MBH. 3,">2990.</ls> <ls n="MBH. 3,">16811.</ls> <ls n="MBH.">5, 5946.</ls> <ls n="MBH. 5,">5965.</ls> <ls n="MBH. 5,">5972.</ls> <ls n="MBH. 5,">5981.</ls> <ls n="MBH. 5,">7294.</ls>
 [Page6-1386]
 {#न स्त्रीभिः किंचिदन्यद्वै पापीयस्तरमस्ति वै#} 
-<ls>?13, 2213. R. 1, 2, 15. 8, 14. 9, 30. 33. 63. 57, 19. R. GORR. 2, 12, 14. 3, 64, 17. Spr. (II) 670. 2767. BRAHMA-P. in LA. (III) 56, 4.</ls> Fehlerhaft für {#चेद्#} {%wenn%} 
+<ls>13, 2213.</ls> <ls>R. 1, 2, 15. 8, 14. 9, 30. 33. 63. 57, 19.</ls> <ls>R. GORR. 2, 12, 14. 3, 64, 17.</ls> <ls>Spr. (II) 670.</ls> <ls n="Spr. (II)">2767.</ls> <ls>BRAHMA-P. in LA. (III) 56, 4.</ls> Fehlerhaft für {#चेद्#} {%wenn%} 
 <ls>Spr. (II) 1451.</ls>
 <LEND>

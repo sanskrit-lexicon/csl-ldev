@@ -1,7 +1,7 @@
 <L>21828<pc>688<k1>sufficient<k2>sufficient
-<div n="lb"/>{@SUFFICIENT:@}¦ <div n="1">(1) {#पर्याप्त#} (f. {#प्ता#}), <div n="xe">{%s. for mainten-%}
-<div n="lb"/>{%ance of servants:%}</div> <div n="xs">{#पर्याप्तं भृत्यवृत्तये,#}</div> M. xi. 7.: v.
-<div n="lb"/>Enough; </div><div n="1">(2) {#यथेष्ट#} (f. {#ष्टा#}) <div n="xe">{%or%}</div> <div n="xs">{#यथेच्छ#}</div> (f. {#च्छा#})
-<div n="lb"/>(= as much as desired); </div><div n="1">(3) {#प्रचुर#} (f. {#रा#} =
-<div n="lb"/>abundant).</div>
+{@SUFFICIENT:@}¦ <div n="1">(1) {#पर्याप्त#} (f. {#प्ता#}), <div n="xe">{%s. for mainten-%}
+{%ance of servants:%}</div> <div n="xs">{#पर्याप्तं भृत्यवृत्तये,#}</div> M. xi. 7.: v.
+Enough; </div><div n="1">(2) {#यथेष्ट#} (f. {#ष्टा#}) <div n="xe">{%or%}</div> <div n="xs">{#यथेच्छ#}</div> (f. {#च्छा#})
+(= as much as desired); </div><div n="1">(3) {#प्रचुर#} (f. {#रा#} =
+abundant).</div>
 <LEND>

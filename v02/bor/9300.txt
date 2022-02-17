@@ -1,4 +1,4 @@
 <L>9300<pc>295<k1>foul-mouthed<k2>foul-mouthed
-<div n="lb"/>{@FOUL-MOUTHED:@}¦ <div n="1">(1) {#वागदुष्ट#} (f. {#ष्टा#}); </div><div n="1">(2) {#अश्लील-#}
-<div n="lb"/>{#वादिन्#} (f. {#नी#}), etc.</div>
+{@FOUL-MOUTHED:@}¦ <div n="1">(1) {#वागदुष्ट#} (f. {#ष्टा#}); </div><div n="1">(2) {#अश्लील-#}
+{#वादिन्#} (f. {#नी#}), etc.</div>
 <LEND>

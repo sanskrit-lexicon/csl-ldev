@@ -1,18 +1,18 @@
 <L>2056<pc>071<k1>bind<k2>bind
-<div n="lb"/>{@BIND@}¦ (v. t): <div n="I">I Lit., to tie: q. v.: </div><div n="1">(1) {#बध्नाति, #}
-<div n="lb"/>{# नि-,#} ({#बन्ध्,#} c. 9.) <div n="xe">{%b. ing firmly to a post%}</div> <div n="xs">{#स्थूणया #}
-<div n="lb"/>{# सह दृढबन्धनेन बद्ध्वा,#}</div> P. i. 4.; </div><div n="1">(2) {#सं-यच्छति#} ({#यम्,#}
-<div n="lb"/>c. l.) (=to restrain: q. v.), <div n="xe">{%as if bound by%}
-<div n="lb"/>{%chains%}</div> <div n="xs">{#निगडैरिव सं-यताम्,#}</div> <ls>K.</ls> </div><div n="I">II. Fig., to
-<div n="lb"/>restrain, hold in check: {#बध्नाति, नि-,#} ({#बन्ध,#} [Page072]
-<div n="lb"/>c. 9.), <div n="xe">{%bound by affection%}</div> <div n="xs">{#स्नेहनिबद्धः#}</div> ({#द्धा, द्धं#}), Ki.
-<div n="lb"/>ii. 44., <div n="xe">{%b. s my sight%}</div> <div n="xs">{#बध्नाति मे चक्षुः,#}</div> R. xiii.
-<div n="lb"/>47.; </div><div n="1">(2) {#नियन्त्रयति#} ({#यन्त्र्,#} c. 10), <div n="xe">{%laws do not b.%}
-<div n="lb"/>{%him%}</div> <div n="xs">{#*विधयस्तं न नियन्त्रयन्ति।#}</div> Ph. <div n="xe">{%b. him by an%}
-<div n="lb"/>{%oath%}</div> <div n="xs">{#शपथेन तमाबद्धं कुरु#}</div> </div><div n="I">III To render costive:</div>
-<div n="lb"/><div n="1">(1) {#बध्नाति, नि-,#} <div n="xe">{%b. ing of the bowels%}</div> <div n="xs">{#बद्धविट्कता,#}</div>
-<div n="lb"/>Śr.; </div><div n="1">(2) {#आनह्यति#} ({#नह्,#} c. 4.) </div><div n="I">IV To bind
-<div n="lb"/>books: ({#चर्मादिना#}) {#बध्नाति#} (?). V. To protect
-<div n="lb"/>with a border: {#बध्नाति#} (?): V. To border,
-<div n="lb"/>fringe.</div>
+{@BIND@}¦ (v. t): <div n="I">I Lit., to tie: q. v.: </div><div n="1">(1) {#बध्नाति, #}
+{# नि-,#} ({#बन्ध्,#} c. 9.) <div n="xe">{%b. ing firmly to a post%}</div> <div n="xs">{#स्थूणया #}
+{# सह दृढबन्धनेन बद्ध्वा,#}</div> P. i. 4.; </div><div n="1">(2) {#सं-यच्छति#} ({#यम्,#}
+c. l.) (=to restrain: q. v.), <div n="xe">{%as if bound by%}
+{%chains%}</div> <div n="xs">{#निगडैरिव सं-यताम्,#}</div> <ls>K.</ls> </div><div n="I">II. Fig., to
+restrain, hold in check: {#बध्नाति, नि-,#} ({#बन्ध,#} [Page072]
+c. 9.), <div n="xe">{%bound by affection%}</div> <div n="xs">{#स्नेहनिबद्धः#}</div> ({#द्धा, द्धं#}), Ki.
+ii. 44., <div n="xe">{%b. s my sight%}</div> <div n="xs">{#बध्नाति मे चक्षुः,#}</div> R. xiii.
+47.; </div><div n="1">(2) {#नियन्त्रयति#} ({#यन्त्र्,#} c. 10), <div n="xe">{%laws do not b.%}
+{%him%}</div> <div n="xs">{#*विधयस्तं न नियन्त्रयन्ति।#}</div> Ph. <div n="xe">{%b. him by an%}
+{%oath%}</div> <div n="xs">{#शपथेन तमाबद्धं कुरु#}</div> </div><div n="I">III To render costive:</div>
+<div n="1">(1) {#बध्नाति, नि-,#} <div n="xe">{%b. ing of the bowels%}</div> <div n="xs">{#बद्धविट्कता,#}</div>
+Śr.; </div><div n="1">(2) {#आनह्यति#} ({#नह्,#} c. 4.) </div><div n="I">IV To bind
+books: ({#चर्मादिना#}) {#बध्नाति#} (?). V. To protect
+with a border: {#बध्नाति#} (?): V. To border,
+fringe.</div>
 <LEND>

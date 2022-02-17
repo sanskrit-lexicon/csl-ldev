@@ -1,6 +1,6 @@
 <L>7757<pc>245<k1>equal<k2>equal
-<div n="lb"/>{@EQUAL@}¦ (subs.): <div n="1">(1) expr. by adj.: {#समः#} ({#मा, #}
-<div n="lb"/>{# मं#}) <div n="xe">{%or%}</div> <div n="xs">{#समानः#}</div> ({#ना, नं#}), <div n="xe">{%with e. s:%}</div> <div n="xs">{#समैः,#}</div> H.; <div n="xe">{%two%}
-<div n="lb"/>{%e. s:%}</div> <div n="xs">{#समानौ,#}</div> B.; </div><div n="1">(2) {#समानजनः,#} <div n="xe">{%before e. s:%}</div> <div n="xs">{#समान-#}
-<div n="lb"/>{#जनसमक्षम्,#}</div> M. n.</div>
+{@EQUAL@}¦ (subs.): <div n="1">(1) expr. by adj.: {#समः#} ({#मा, #}
+{# मं#}) <div n="xe">{%or%}</div> <div n="xs">{#समानः#}</div> ({#ना, नं#}), <div n="xe">{%with e. s:%}</div> <div n="xs">{#समैः,#}</div> H.; <div n="xe">{%two%}
+{%e. s:%}</div> <div n="xs">{#समानौ,#}</div> B.; </div><div n="1">(2) {#समानजनः,#} <div n="xe">{%before e. s:%}</div> <div n="xs">{#समान-#}
+{#जनसमक्षम्,#}</div> M. n.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>13157<pc>317-a<k1>grandmother<k2>grandmother
-<div n="lb"/>GRANDMOTHER¦, {%s.%} (Paternal) {#पितामही, पितृमाता#} {%f.%} {#(तृ), पितृप्रसूः#} {%f.%}
-<div n="lb"/> — (Maternal) {#मातामही, मातृमाता#} {%f.%} {#(तृ);#} ‘great grandmother,’
-<div n="lb"/>{#प्रपितामही, प्रमातामही#}.
+GRANDMOTHER¦, {%s.%} (Paternal) {#पितामही, पितृमाता#} {%f.%} {#(तृ), पितृप्रसूः#} {%f.%}
+ — (Maternal) {#मातामही, मातृमाता#} {%f.%} {#(तृ);#} ‘great grandmother,’
+{#प्रपितामही, प्रमातामही#}.
 <LEND>

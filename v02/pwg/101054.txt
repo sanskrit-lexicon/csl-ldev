@@ -7,7 +7,7 @@
 <ls>TRIK. 3, 3, 140.</ls> 
 <ls>H. 1395.</ls> 
 <ls>an. 2, 156.</ls> 
-<ls>MED. ṇ. 31. fg.</ls> <ls>HALĀY. 4, 48.</ls> <ls>ROSS</ls> <ls>H. 1242.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 282.</ls> <ls>ṚV. 1, 6, 2.</ls> <ls n="ṚV. 1,">126, 4.</ls> <ls n="ṚV.">3, 35, 3.</ls> <ls n="ṚV.">5, 33, 9.</ls> <ls n="ṚV.">10, 20, 9.</ls> <ls>MBH. 3, 15597. 4, 1677. 1826. 6, 751.</ls> <ls>R. 5, 12, 35.</ls> <ls>KATHĀS. 37, 162. 167.</ls> {#शोणो धावति#} 
+<ls>MED. ṇ. 31. fg.</ls> <ls>HALĀY. 4, 48.</ls> <ls>ROSS</ls> <ls>H. 1242.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 282.</ls> <ls>ṚV. 1, 6, 2.</ls> <ls n="ṚV. 1,">126, 4.</ls> <ls n="ṚV.">3, 35, 3.</ls> <ls n="ṚV.">5, 33, 9.</ls> <ls n="ṚV.">10, 20, 9.</ls> <ls>MBH. 3, 15597.</ls> <ls n="MBH.">4, 1677.</ls> <ls n="MBH. 4,">1826.</ls> <ls n="MBH.">6, 751.</ls> <ls>R. 5, 12, 35.</ls> <ls>KATHĀS. 37, 162. 167.</ls> {#शोणो धावति#} 
 <ls>VEDĀNTAS. (Allah.) No. 105.</ls> {#वृषन्#} 
 <ls>ṚV. 9, 97, 13.</ls> {#यदिदं घृते हुते शोणमिवार्चिरुज्ज्वलति#} 
 <ls>KĀṬH. 8, 9.</ls> 
@@ -16,7 +16,7 @@
 <ls>VARĀH. BṚH. S. 30, 22.</ls> {#°राग#} 
 <ls>KATHĀS. 23, 78. 109, 120.</ls> {#°शिरस्#} <lex>adj.</lex> (Vogel) 
 <ls>HARIV. 1121.</ls> {#तालु#} 
-<ls>1145.</ls> {#मुख#} 
+<ls n="HARIV.">1145.</ls> {#मुख#} 
 <ls>SĀH. D. 34, 4.</ls> {#ओष्ठ#} 
 <ls>KATHĀS. 35, 11.</ls> {#कर#} 
 <ls>105, 2.</ls> {#रोषसुशोणदृष्टि#} 
@@ -48,11 +48,11 @@
 <ls>MED.</ls> 
 <ls>HALĀY. 3, 52.</ls> 
 <ls>LIA. 1, 82.</ls> 
-<ls>MBH. 2, 373. 796. 3, 8150. 12910. 14233.</ls> 
-<ls>HARIV. 9512. 12827.</ls> 
-<ls>R. 1, 33, 20 (34, 18 GORR.).</ls> <ls>R. GORR. 1, 37, 4. 4, 40, 20.</ls> <ls>RAGH. 7, 33.</ls> <ls>VARĀH. BṚH. S. 5, 65. 16, 1. 9.</ls> <ls>PRĀYAŚCITTEND. 11</ls>, {%b%}, 
-<ls>8.</ls> <ls>MĀRK. P. 57, 21.</ls> <ls>BHĀG. P. 5, 19, 18.</ls> <ls>Verz. d. Oxf. H. 255</ls>, {%a%}, 
-<ls>15. 339</ls>, {%a%}, 
+<ls>MBH. 2, 373.</ls> <ls n="MBH. 2,">796.</ls> <ls n="MBH.">3, 8150.</ls> <ls n="MBH. 3,">12910.</ls> <ls n="MBH. 3,">14233.</ls> 
+<ls>HARIV. 9512.</ls> <ls n="HARIV.">12827.</ls> 
+<ls>R. 1, 33, 20 (34, 18 GORR.).</ls> <ls>R. GORR. 1, 37, 4. 4, 40, 20.</ls> <ls>RAGH. 7, 33.</ls> <ls>VARĀH. BṚH. S. 5, 65. 16, 1. 9.</ls> <ls>PRĀYAŚCITTEND. 11,b,</ls> 
+<ls>8.</ls> <ls>MĀRK. P. 57, 21.</ls> <ls>BHĀG. P. 5, 19, 18.</ls> <ls>Verz. d. Oxf. H. 255,a,</ls> 
+<ls>15. 339,a,</ls> 
 <ls>30. fg. 40.</ls> {#°संगम#} 
 <ls>39,b,25.</ls> {#गङ्गाशोणम्#} 
 <ls>P. 2, 4, 7, Schol.</ls> {#शोणा#} 

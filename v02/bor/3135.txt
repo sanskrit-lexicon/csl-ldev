@@ -1,5 +1,5 @@
 <L>3135<pc>105<k1>carry off<k2>carry off
-<div n="lb"/>{@CARRY OFF:@}¦ <div n="I">I Lit.: {#अपवहति।#} </div><div n="I">II Fig.: {#हरति#}
-<div n="lb"/>({#हृ,#} c. l.), <div n="xe">{%let him c. the ensign of triumph%}</div> <div n="xs">{#*स #}
-<div n="lb"/>{# हरतु सुभगपताकाम्,#}</div> D. ii.</div>
+{@CARRY OFF:@}¦ <div n="I">I Lit.: {#अपवहति।#} </div><div n="I">II Fig.: {#हरति#}
+({#हृ,#} c. l.), <div n="xe">{%let him c. the ensign of triumph%}</div> <div n="xs">{#*स #}
+{# हरतु सुभगपताकाम्,#}</div> D. ii.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>7963<pc>252<k1>examiner<k2>examiner
-<div n="lb"/>{@EXAMINER:@}¦ <div n="1">(1) {#परीक्षकः#} <div n="xe">{%or%}</div> <div n="xs">{#परीक्षिन्#}</div> (m.), <div n="xe">{%e. of%}
-<div n="lb"/>{%coins:%}</div> <div n="xs">{#नाणकपरीक्षी,#}</div> Y.; </div><div n="1">(2) {#प्राश्निकः#} (by ques-
-<div n="lb"/>-tions), {%your Reverence should take the post of e.:%}
-<div n="lb"/>{#भगवत्या प्राश्निकपदमध्यासितव्यम्,#} Mal.</div>
+{@EXAMINER:@}¦ <div n="1">(1) {#परीक्षकः#} <div n="xe">{%or%}</div> <div n="xs">{#परीक्षिन्#}</div> (m.), <div n="xe">{%e. of%}
+{%coins:%}</div> <div n="xs">{#नाणकपरीक्षी,#}</div> Y.; </div><div n="1">(2) {#प्राश्निकः#} (by ques-
+-tions), {%your Reverence should take the post of e.:%}
+{#भगवत्या प्राश्निकपदमध्यासितव्यम्,#} Mal.</div>
 <LEND>

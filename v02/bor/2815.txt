@@ -1,5 +1,5 @@
 <L>2815<pc>095<k1>bushy<k2>bushy
-<div n="lb"/>{@BUSHY:@}¦ <div n="I">I Full of bushes: {#गुल्मावृतः#} ({#ता, तं#}):
-<div n="lb"/>Thick like a bush: </div><div n="1">(1) {#निविडः#} ({#डा, डं#});</div>
-<div n="lb"/><div n="1">(2) {#अविरलः#} ({#ला, लं#}). Ph. <div n="xe">{%b. tail:%}</div> <div n="xs">{#दीर्धबालबालधिः।#}</div></div>
+{@BUSHY:@}¦ <div n="I">I Full of bushes: {#गुल्मावृतः#} ({#ता, तं#}):
+Thick like a bush: </div><div n="1">(1) {#निविडः#} ({#डा, डं#});</div>
+<div n="1">(2) {#अविरलः#} ({#ला, लं#}). Ph. <div n="xe">{%b. tail:%}</div> <div n="xs">{#दीर्धबालबालधिः।#}</div></div>
 <LEND>

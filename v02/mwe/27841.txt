@@ -1,7 +1,7 @@
 <L>27841<pc>764-b<k1>sphere<k2>sphere
-<div n="lb"/>SPHERE¦, {%s.%} (Globe, orb) {#मण्डलं, गोलः -लं -लकः, विम्बः -म्बं, वर्त्तुलं,#}
-<div n="lb"/>{#भुवनं,#} {%see%} ORB; ‘celestial sphere,’ {#आकाशमण्डलं#}. — (Circuit
-<div n="lb"/>of action, department, province) {#विषयः, प्रकरणं, धर्म्मः, अधि-#}
-<div n="lb"/>{#कारः, नियोगः, निबन्धनं, देशः;#} ‘one's own sphere of action,’
-<div n="lb"/>{#स्वधर्म्मः, स्वकर्म्म#} {%n.%} ({#न्#}).
+SPHERE¦, {%s.%} (Globe, orb) {#मण्डलं, गोलः -लं -लकः, विम्बः -म्बं, वर्त्तुलं,#}
+{#भुवनं,#} {%see%} ORB; ‘celestial sphere,’ {#आकाशमण्डलं#}. — (Circuit
+of action, department, province) {#विषयः, प्रकरणं, धर्म्मः, अधि-#}
+{#कारः, नियोगः, निबन्धनं, देशः;#} ‘one's own sphere of action,’
+{#स्वधर्म्मः, स्वकर्म्म#} {%n.%} ({#न्#}).
 <LEND>

@@ -1,5 +1,5 @@
 <L>6355<pc>204<k1>discussion<k2>discussion
-<div n="lb"/>{@DISCUSSION:@}¦ {#विचारः,#} {%d. of the sense of passages:%}
-<div n="lb"/>{#वाक्यार्थविचारणा,#} S.: Ph.: <div n="xe">{%now we will follow%}
-<div n="lb"/>{%the subject under d.:%}</div> <div n="xs">{#सम्प्रति प्रकृतमेवानुवर्तामहे,#}</div> S.
+{@DISCUSSION:@}¦ {#विचारः,#} {%d. of the sense of passages:%}
+{#वाक्यार्थविचारणा,#} S.: Ph.: <div n="xe">{%now we will follow%}
+{%the subject under d.:%}</div> <div n="xs">{#सम्प्रति प्रकृतमेवानुवर्तामहे,#}</div> S.
 <LEND>

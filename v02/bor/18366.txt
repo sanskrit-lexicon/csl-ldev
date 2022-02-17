@@ -1,4 +1,4 @@
 <L>18366<pc>564<k1>quarter-day<k2>quarter-day
-<div n="lb"/>{@QUARTER-DAY:@}¦ perh. {#त्रिमासान्तदिनम्; त्रैमासिक-#}
-<div n="lb"/>{#दिवसः।#}
+{@QUARTER-DAY:@}¦ perh. {#त्रिमासान्तदिनम्; त्रैमासिक-#}
+{#दिवसः।#}
 <LEND>

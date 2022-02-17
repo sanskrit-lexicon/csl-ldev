@@ -9,8 +9,8 @@
 <ls>M. 5, 31.</ls> {#प्रकृति#} 
 <ls>BHAG. 9, 12.</ls> {#अस्त्र#} 
 <ls>HARIV. 10616.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 30, 17.</ls> {#रूप#} 
+
+<ls>R. GORR. 1, 30, 17.</ls> {#रूप#} 
 <ls>3, 48, 11.</ls> {#कायलक्षण#} 
 <ls>SUŚR. 1, 336, 2.</ls> {#सेना, बल#} 
 <ls>R. 3, 30, 45. 7, 23, 3, 45.</ls> {#पुरी#} 
@@ -18,14 +18,14 @@
 <ls>7, 15, 30.</ls> {#योनि#} 
 <ls>KATHĀS. 42, 206.</ls> {#शील#} 
 <ls>66, 16.</ls> {#कर्मन्#} 
-<ls>VET.</ls> in <ls>LA. (III) 14, 12.</ls> {#रात्रौ श्राद्धं न कुर्वीत राक्षसी कीर्तिता हि सा#} 
+<ls>VET. in LA. (III) 14, 12.</ls> {#रात्रौ श्राद्धं न कुर्वीत राक्षसी कीर्तिता हि सा#} 
 <ls>M. 3, 280.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) = 2. {#रक्षस्#} 2) = 3. {#रक्षस्#} <is>gaṇa</is> {#प्रज्ञादि#} zu 
 <ls>P. 5, 4, 38.</ls> 
 <ls>AK. 1, 1, 1, 55.</ls> 
 <ls>H. 187.</ls> 
-<ls>MED. s. 31.</ls> <ls>HALĀY. 1, 73. 87.</ls> <ls>KAUŚ. 106.</ls> <ls>MAITRYUP. 1, 4.</ls> <ls>MBH. 1, 5927.</ls> <ls>R. 1, 1, 40. 45.</ls> <ls>SUŚR. 1, 16, 16. 112, 3.</ls> <ls>RAGH. 12, 68.</ls> <ls>VARĀH. BṚH. S. 16, 37.</ls> <ls>KATHĀS. 18, 280. fg.</ls> <ls>WEBER, RĀMAT. UP. 286. 355.</ls> <ls>Lot. de la b. l. 8.</ls> <ls>PAÑCAT. 182, 22.</ls> <ls>VET.</ls> in <ls>LA. (III) 31, 11. fgg.</ls> im {#नक्षत्रचक्र#} neben {#देव#} und {#मानुष#} 
+<ls>MED. s. 31.</ls> <ls>HALĀY. 1, 73. 87.</ls> <ls>KAUŚ. 106.</ls> <ls>MAITRYUP. 1, 4.</ls> <ls>MBH. 1, 5927.</ls> <ls>R. 1, 1, 40. 45.</ls> <ls>SUŚR. 1, 16, 16. 112, 3.</ls> <ls>RAGH. 12, 68.</ls> <ls>VARĀH. BṚH. S. 16, 37.</ls> <ls>KATHĀS. 18, 280. fg.</ls> <ls>WEBER, RĀMAT. UP. 286. 355.</ls> <ls>Lot. de la b. l. 8.</ls> <ls>PAÑCAT. 182, 22.</ls> <ls>VET. in LA. (III) 31, 11. fgg.</ls> im {#नक्षत्रचक्र#} neben {#देव#} und {#मानुष#} 
 <ls>Verz. d. Oxf. H. 96</ls>,a. {#रक्षाम इति यैरुक्तं राक्षसास्ते भवन्तु वः#} 
 <ls>R. 7, 4, 13.</ls> 
 <ls>VP. 41.</ls> {#°राज्य#} 
@@ -62,7 +62,7 @@
 <div n="2"> a) {%ein weibliches%} <is>Rakṣas</is> 
 <ls>TRIK. 3, 3, 247.</ls> 
 <ls>H. an. 3, 753.</ls> 
-<ls>MBH. 1, 5940. 3, 2519.</ls> 
+<ls>MBH. 1, 5940.</ls> <ls n="MBH.">3, 2519.</ls> 
 <ls>R. 1, 1, 44. 3, 30. 28, 7. 2, 74, 8. 3, 23, 12. 62, 34. 4, 41, 38. 5, 27, 9. 6, 108, 35.</ls> 
 <ls>MṚCCH. 121, 1.</ls> 
 <ls>RAGH. 12, 61.</ls> 
@@ -77,7 +77,7 @@
 <div n="1"> 1) am Ende und {#सायाह्नस्त्रिमुहूर्तः स्यात् श्राद्धं तत्र न कारयेत् । राक्षसी नाम सा वेला गर्हिता सर्वकर्मसु ॥#} 
 <ls>TITHYĀDIT.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— c) {%eine Art Parfum%} ({#चण्डा#}) 
-<ls>AK. 2, 4,4,  16.</ls> 
+<ls>AK. 2, 4,4, 16.</ls> 
 <ls>MED.</ls>
 [Page6-0306]
 

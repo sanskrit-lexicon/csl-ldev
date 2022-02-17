@@ -4,10 +4,10 @@
 <ls>SUŚR. 1, 16, 14.</ls> 
 <ls>R. 1, 42, 3. 5, 95, 45.</ls> 
 <ls>VARĀH. BṚH. S. 45, 3. 57. 82.</ls> {#अस्त्र°#} 
-<ls>MBH. 4, 2118. 5, 7282. 6, 3779.</ls> 
+<ls>MBH. 4, 2118.</ls> <ls n="MBH.">5, 7282.</ls> <ls n="MBH.">6, 3779.</ls> 
 <ls>HARIV. 9415.</ls> 
 <ls>ARJ. 3, 53. 5, 7.</ls> {#सर्वेषामेव शापानां प्रतिघातो विद्यते#} 
-<ls>MBH. 1, 1592</ls> <ls>?= MĀRK. P. 106, 28.</ls> {#कृतक्षुत्°#} 
+<ls>MBH. 1, 1592</ls> = <ls>MĀRK. P. 106, 28.</ls> {#कृतक्षुत्°#} 
 <ls>KATHĀS. 20, 144.</ls> {#वृषक्षुद्रपशूनां च पुंस्त्वस्य °घृत्#} so v. a. {%der Männlichkeit beraubend%} 
 <ls>YĀJÑ. 2, 236.</ls> {#प्रतिघातेन सान्त्वस्य दारुणं संप्रवर्तते#} {%wenn gute Worte zurückgewiesen werden%} 
 <ls>MBH. 5, 2650.</ls> {#मूत्र°#} {%Urinverhaltung%} 
@@ -17,12 +17,12 @@
 <ls>KUMĀRAS. 2, 49.</ls> 
 <ls>MBH. 10, 246.</ls> 
 <ls>SUŚR. 1, 96, 17.</ls> {#सैन्यस्य#} {%der Widerstand, den das Heer erfährt%}, 
-<ls>MBH. 7, 1373. 8166.</ls> 
+<ls>MBH. 7, 1373.</ls> <ls n="MBH. 7,">8166.</ls> 
 <ls>R. 6, 79, 34.</ls> {#नेच्छामि प्रतिघातं ते नास्मि विघ्नकरस्तव#} 
 <ls>MBH. 3, 16307.</ls> {#न तासां प्रतिघातो ऽस्ति#} {%Nichts steht ihnen im Wege%} 
 <ls>MĀRK. P. 49, 14.</ls> 
 <ls>VĀYUP.</ls> bei <ls>MUIR, ST. I, 29, N. 49.</ls> {#एवमेव नास्य सर्वज्ञत्वे सर्वकृत्त्वे वा क्वचित्प्रतिघातः#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 312.</ls> {#आत्मनः प्रतिघातमाशङ्कमानः (प्रतिघात = भ्रंश#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 312.</ls> {#आत्मनः प्रतिघातमाशङ्कमानः (प्रतिघात = भ्रंश#} 
 <ls>Schol.</ls>) <ls>BHĀG. P. 5, 9, 3.</ls> {#अ°#} {%Unbehindertheit%} 
 <ls>SUŚR. 1, 50, 17.</ls> {#मनसः#} 
 <ls>2, 154, 3.</ls> {%unbehindert, unwiderstehlich%}: {#दैव#} 

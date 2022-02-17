@@ -1,7 +1,7 @@
 <L>21095<pc>664<k1>spark<k2>spark
-<div n="lb"/>{@SPARK:@}¦ <div n="I">I Of fire: </div><div n="1">(1) {#स्फुलिङ्गः, वि-,#} <div n="xe">{%whose s. s%}
-<div n="lb"/>{%were scattered on all sides:%}</div> <div n="xs">{#विष्वक्विस्तृतस्फुलिङ्गः,#}</div>
-<div n="lb"/>Ki. xvi. 51.; </div><div n="1">(2) {#कणः#} (= particle), {%s. -red:%}
-<div n="lb"/>{#कणारुण-,#} Si. v. 55. </div><div n="I">II A small particle: {#कणः#}
-<div n="lb"/>(= drop).</div>
+{@SPARK:@}¦ <div n="I">I Of fire: </div><div n="1">(1) {#स्फुलिङ्गः, वि-,#} <div n="xe">{%whose s. s%}
+{%were scattered on all sides:%}</div> <div n="xs">{#विष्वक्विस्तृतस्फुलिङ्गः,#}</div>
+Ki. xvi. 51.; </div><div n="1">(2) {#कणः#} (= particle), {%s. -red:%}
+{#कणारुण-,#} Si. v. 55. </div><div n="I">II A small particle: {#कणः#}
+(= drop).</div>
 <LEND>

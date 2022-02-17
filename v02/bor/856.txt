@@ -1,6 +1,6 @@
 <L>856<pc>030<k1>antidote<k2>antidote
-<div n="lb"/>{@ANTIDOTE:@}¦ <div n="I">I Any remedy: q. v.: {#प्रतिकारः।#}</div>
-<div n="lb"/><div n="I">II For poison: {#विषघ्नौषधम्#} etc. {%A dealer in%}
-<div n="lb"/>{%a. s:%} </div><div n="1">(1) {#विषवैद्यः;#} </div><div n="1">(2) {#जाङ्गलिकः,#} </div><div n="1">(3) {#नरेन्द्रः।#}</div>
-<div n="lb"/><div n="I">III For fever: {#ज्वरघ्नौषधम्।#}</div>
+{@ANTIDOTE:@}¦ <div n="I">I Any remedy: q. v.: {#प्रतिकारः।#}</div>
+<div n="I">II For poison: {#विषघ्नौषधम्#} etc. {%A dealer in%}
+{%a. s:%} </div><div n="1">(1) {#विषवैद्यः;#} </div><div n="1">(2) {#जाङ्गलिकः,#} </div><div n="1">(3) {#नरेन्द्रः।#}</div>
+<div n="I">III For fever: {#ज्वरघ्नौषधम्।#}</div>
 <LEND>

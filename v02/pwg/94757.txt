@@ -55,7 +55,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#अमावास्यायां वृत्तायाम्#} 
 <ls>KAUṢ. UP. 2, 8.</ls> {#उत्सवे वृत्तमात्रे#} 
-<ls>MBH. 1, 7652. 3, 1839.</ls> 
+<ls>MBH. 1, 7652.</ls> <ls n="MBH.">3, 1839.</ls> 
 <ls>HARIV. 6714.</ls> {#वृत्ता रजनी#} 
 <ls>R. 3, 5, 4. 68, 27. 4, 58, 4.</ls> {#वृत्ते शरावसंपाते#} 
 <ls>M. 6, 56.</ls> 
@@ -64,14 +64,14 @@
 <ls>SARVADARŚANAS. 10, 6.</ls> {#वृत्ते भाविनि वा रणे#} 
 <ls>AK. 2, 8, 2, 71.</ls> 
 <ls>H. 802.</ls> 
-<div n="2">— g) {%mit dem es vorüber ist, der dahin ist, gänzlich erschöpft%} (=  {#श्रान्त#} Comm.): {#प्र\जाप^तिः प्र\जाः सृ\ष्ट्वा वृ\त्तो^ ऽशयत्#} 
+<div n="2">— g) {%mit dem es vorüber ist, der dahin ist, gänzlich erschöpft%} (= {#श्रान्त#} Comm.): {#प्र\जाप^तिः प्र\जाः सृ\ष्ट्वा वृ\त्तो^ ऽशयत्#} 
 <ls>TBR. 1, 2, 6, 1.</ls> 
 <div n="2">— h) {%verstorben%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>M. 3, 221. 9, 195. 217.</ls> <ls>R. 2, 51, 18. 67, 33. 73, 1. 6. 77, 22. 86, 18.</ls> <ls>R. GORR. 2, 95, 11. 97, 11. 3, 65, 8.</ls> {#अ°#} 
 <ls>6, 8, 10.</ls> 
 <div n="2">— i) {%verfahren seiend gegen%} (loc.), {%sich benommen habend%}: {#स च तस्यां कथं वृत्तः#} 
 <ls>R. 5, 56, 2.</ls> {#सम्यग्वृत्तः सदा त्वयि#} 
-<ls>MBH. 3, 2284. 14, 77</ls> <ls>?(nach der Lesart der ed. Bomb.). Spr. (II) 1838.</ls> 
+<ls>MBH. 3, 2284.</ls> <ls n="MBH.">14, 77</ls> (nach der Lesart der ed. Bomb.). <ls>Spr. (II) 1838.</ls> 
 <div n="2">— k) = {#दृढ#} {%fest%} u. s. w. 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— l) = {#वृत#} {%erwählt%} 
@@ -95,8 +95,8 @@
 <div n="2"> a) {%ein best. Arzeneistoff%} ({#रेणुका#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) Bez. verschiedener Pflanzen: = {#झिञ्झिरिष्टा, प्रियङ्गु#} und {#मांसरोहिणी#} ebend. 
-<div n="2">— c) = {#वृन्ता#} {%ein best. Metrum: 4 Mal%} ˘ ˘ ˘ ˘, ˘ ˘ ˘ ˘ ¯ ¯ ¯  
-<ls>COLEBR. Misc. Ess. II, 160</ls> <ls>?(VI, 10). Ind. St. 8, 377.</ls> 
+<div n="2">— c) = {#वृन्ता#} {%ein best. Metrum: 4 Mal%} ˘ ˘ ˘ ˘, ˘ ˘ ˘ ˘ ¯ ¯ ¯ 
+<ls>COLEBR. Misc. Ess. II, 160</ls> (<ls>VI, 10).</ls> <ls>Ind. St. 8, 377.</ls> 
 <div n="1">— 4) <lex>n.</lex> (m. <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
 <ls>P. 2, 4, 31</ls>). 
 <div n="2"> a) {%Kreis%} 
@@ -110,7 +110,7 @@
 <ls>ṚV. PRĀT. 16, 49.</ls> {#नकारस्योष्मवद्वृत्तम्#} so v. a. {%die Verwandlung eines%} {#न#} {%in einen%} <is>Ūṣman</is> 
 <ls>10, 13.</ls> 
 <div n="2">— c) {%Erscheinung%}: {#क्षणिकमिति समस्तं विद्धि संसारवृत्तम्#} 
-<ls>Spr.</ls> <ls>?(II)2051.</ls>
+<ls>Spr.</ls> (<ls>II)2051.</ls>
 [Page6-1316]
 {#किं°#} {%eine Form von%} {#किम्#} 
 <ls>P. 3, 3, 6. 144. 8, 1, 48</ls>; vgl. {#यद्वृत्त#}. 
@@ -135,10 +135,10 @@
 <ls>ŚAT. BR. 14, 7, 3, 1.</ls> 
 <ls>TAITT. UP. 1, 11, 3.</ls> {#अनेन विप्रो वृत्तेन वर्तयन्#} 
 <ls>M. 4, 260. 5, 166. 7, 122. 135. 8, 86. 187. 9, 301.</ls> {#सतां वृत्तमनुष्ठिताः#} 
-<ls>10, 127.</ls> <ls>YĀJÑ. 3, 44.</ls> <ls>MBH. 3, 1877. 12476. 13, 2167.</ls> <ls>R. 1, 2, 35.</ls> {#वृत्तमीदृशम् । आचरन्त्या#} 
+<ls>10, 127.</ls> <ls>YĀJÑ. 3, 44.</ls> <ls>MBH. 3, 1877.</ls> <ls n="MBH. 3,">12476.</ls> <ls n="MBH.">13, 2167.</ls> <ls>R. 1, 2, 35.</ls> {#वृत्तमीदृशम् । आचरन्त्या#} 
 <ls>2, 35, 12. 40, 6. 102, 4.</ls> {#कस्य यास्याम्यहं वृत्तम्#} 
 <ls>109, 8.</ls> <ls>KĀM. NĪTIS. 3, 36. 13, 58.</ls> {#शत्रौ#} 
-<ls>?8, 57. Spr. (II) 930-1820. KUMĀRAS. 6, 12.</ls> {#बाल्यवृत्तानि#} (so ed. Bomb.) 
+<ls>8, 57.</ls> <ls>Spr. (II) 930.</ls> <ls n="Spr. (II)">1820.</ls> <ls>KUMĀRAS. 6, 12.</ls> {#बाल्यवृत्तानि#} (so ed. Bomb.) 
 <ls>MBH. 3, 16865.</ls> {#रजनी°#} 
 <ls>1868.</ls> {#उदार#} 
 <ls>R. 1, 2, 45.</ls> {#शुभैर्वृत्तैः#} 
@@ -165,7 +165,7 @@
 <ls>KAUŚ. 67.</ls> {#नष्टः खलु भारतानां धर्मस्तथा क्षत्रविदां च वृत्तम्#} 
 <ls>MBH. 2, 2236.</ls> 
 <ls>R. 2, 33, 11. 83, 16.</ls> 
-<ls>Spr. (II) 2351. 2593. (I) 2023.</ls> {#कुलं वृत्तेन रक्ष्यते#} 
+<ls>Spr. (II) 2351.</ls> <ls n="Spr. (II)">2593.</ls> <ls n="Spr.">(I) 2023.</ls> {#कुलं वृत्तेन रक्ष्यते#} 
 <ls>3134. 4345.</ls> {#वृत्तं यत्नेन संरक्षेत् । वृत्ततस्तु हतो हतः#} 
 <ls>5030.</ls> <ls>MBH. 3, 17394.</ls> {#शीलवृत्तेन#} 
 <ls>R. 1, 58, 20. 77, 24.</ls> {#°संपन्न#} 
@@ -178,7 +178,7 @@
 <ls>MBH. 7, 6741.</ls> 
 <div n="2">— h) {%Lebensunterhalt%}, = {#वृत्ति#} 
 <ls>H. an.</ls> <ls>MED.</ls> {#वृत्तानामेष#} (die neuere Ausg. richtiger {#वृत्तीनामेष) वो दाता भविष्यति नराधिपः#} 
-<ls>HARIV.</ls> <ls>?335; vgl. 336.</ls> 
+<ls>HARIV. 335</ls>; vgl. <ls n="HARIV.">336.</ls> 
 <div n="2">— i) {%Rhythmus des Versschlusses%} 
 <ls>ṚV. PRĀT. 1, 15.</ls> <ls n="ṚV. PRĀT.">17, 13.</ls> <ls n="ṚV. PRĀT. 17,">16.</ls> <ls n="ṚV. PRĀT. 17,">22.</ls> 
 <div n="2">— k) {%ein Metrum mit bestimmter Silbenzahl%} (auch {%Metrum%} überh.) 
@@ -186,11 +186,11 @@
 <ls>220, 15.</ls> <ls>VARĀH. BṚH. S. 54, 99. 110. 104, 2. 58</ls> (hier zugleich {%gutes Betragen%}). 
 <ls>60.</ls> <ls>BṚH. 1, 2.</ls> 
 <div n="2">— l) {%ein aus 10 Trochäen bestehendes Metrum%} 
-<ls>COLEBR. Misc. Ess. II, 163</ls> <ls>?(XV, 2). Ind. St. 8, 400.</ls> 
+<ls>COLEBR. Misc. Ess. II, 163</ls> (<ls>XV, 2).</ls> <ls>Ind. St. 8, 400.</ls> 
 <div n="v">— Vgl. {#आर्य°, इति°, उदीच्य°, एवं°#} (auch 
 <ls>YĀJÑ. 3, 155</ls>), {#काम°, किं°, खण्डित°, गण°, गुरु°, छन्दो°, दुर्वृत्त, दृग्वृत्त, पाद°, पुरा°, पुरी°, पूर्व°, प्राग्वृत्त, भिन्न°, मङ्गलादेश°, मध्य°, मात्रा°, यथा°, यद्वृत्त#} (adj. {%wie sich betragend%} 
-<ls>Spr. (II) 1652)</ls>, {#राज°#} (auch 
+<ls>Spr. (II) 1652</ls>), {#राज°#} (auch 
 <ls>MBH. 2, 1950.</ls> 
-<ls>R. 1, 52, 7</ls> <ls>?= 53, 7 GORR.</ls>), {#लोक°#} ({%das Verfahren des grossen Haufens, der Unterthanen%}) 
-<ls>MBH. 2, 1950. 4, (90)</ls>, {#वर्ण°, वस्तु°, विषम°, सद्वृत्त, साधु°, सु°#}.
+<ls>R. 1, 52, 7</ls> = <ls>53, 7 GORR.</ls>), {#लोक°#} ({%das Verfahren des grossen Haufens, der Unterthanen%}) 
+<ls>MBH. 2, 1950.</ls> <ls n="MBH.">4, 90</ls>, {#वर्ण°, वस्तु°, विषम°, सद्वृत्त, साधु°, सु°#}.
 <LEND>

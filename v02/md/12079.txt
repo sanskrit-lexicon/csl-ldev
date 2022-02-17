@@ -1,30 +1,30 @@
 <L>12079<pc>173-1<k1>प्रतिकञ्चुक<k2>प्रतिकञ्चुक
 {#प्रतिकञ्चुक#}¦prati-kañcuka, {%m.%} man armoured 
-<>against {%all assaults%}, obstinate adversary; 
-<>{@-kaṇṭham@}, {%ad.%} singly, one by one; {@-kara,@} {%a.%} 
-<>({@ī@}) counteracting (-°); {%m.%} compensation (-°); 
-<>{@-karkaśa@}, {%a.%} equally hard with, of the same 
-<>hardness as (-°); {@-kartavya,@} {%fp.%} to be requited <lbinfo n="2"/>
-<> ({%of good or evil%}); to be repaid to ({%g.%}); 
-<>to be done by way of compensation; to be 
-<>paid back ({%debt%}); to be opposed {%or%} counteracted; <lbinfo n="7"/>
-<> {%n.%} ({%impl.%}) one should requite ({%d., lc.%}); 
-<>-- repay {%as a debt%} to ({%d.%}); -- counteract {%any %}
-<>{%one%} ({%g.%}); -- give medical aid to ({%g.%}); {@-kartṛ@}, 
-<>{%m.%} requiter; opponent; {@-karma,@} {%ad.%} for every 
-<>act; at every rite {%or%} celebration; {@-karman,@} 
-<>{%n.%} requital; corresponding action (-°); counteraction; <lbinfo n="7"/>
-<> ({%medical%}) treatment; personal adornment; <lbinfo n="5"/>
-<> {@-karṣa,@} {%m.%} combination; {@-kāṅk-@}
-<>{@-ṣin,@} {%a.%} desiring (-°); {@-kāmám,@} {%ad.%} according <lbinfo n="6"/>
-<> to wish, at pleasure; {@-kāmin,@} {%a.%} disagreeable; <lbinfo n="3"/>
-<> {@-kāminī,@} {%f.%} female rival; {@-kāya,@} 
-<>{%m.%} (counter body), adversary; {@-kāra,@} {%m.%} requital <lbinfo n="2"/>
-<> ({%of good or evil%}), compensation for 
-<>(-°); counteraction, employment of remedies; 
-<>alleviation, remedy: {@-karman,@} {%n.%} opposition, 
-<>resistence, {@-vidhāna,@} {%n.%} medical treatment; 
-<>{@-kārin,@} {%a.%} obviating, counteracting (-°); {@-kār-@}
-<>{@-ya,@} {%n.%} reward (to, {%g.%}); {@-kitava,@} {%m.%} adversary <lbinfo n="5"/>
-<> at play; {@-kuñjara@}, {%m.%} hostile elephant.
+against {%all assaults%}, obstinate adversary; 
+{@-kaṇṭham@}, {%ad.%} singly, one by one; {@-kara,@} {%a.%} 
+({@ī@}) counteracting (-°); {%m.%} compensation (-°); 
+{@-karkaśa@}, {%a.%} equally hard with, of the same 
+hardness as (-°); {@-kartavya,@} {%fp.%} to be requited <lbinfo n="2"/>
+ ({%of good or evil%}); to be repaid to ({%g.%}); 
+to be done by way of compensation; to be 
+paid back ({%debt%}); to be opposed {%or%} counteracted; <lbinfo n="7"/>
+ {%n.%} ({%impl.%}) one should requite ({%d., lc.%}); 
+-- repay {%as a debt%} to ({%d.%}); -- counteract {%any %}
+{%one%} ({%g.%}); -- give medical aid to ({%g.%}); {@-kartṛ@}, 
+{%m.%} requiter; opponent; {@-karma,@} {%ad.%} for every 
+act; at every rite {%or%} celebration; {@-karman,@} 
+{%n.%} requital; corresponding action (-°); counteraction; <lbinfo n="7"/>
+ ({%medical%}) treatment; personal adornment; <lbinfo n="5"/>
+ {@-karṣa,@} {%m.%} combination; {@-kāṅk-@}
+{@-ṣin,@} {%a.%} desiring (-°); {@-kāmám,@} {%ad.%} according <lbinfo n="6"/>
+ to wish, at pleasure; {@-kāmin,@} {%a.%} disagreeable; <lbinfo n="3"/>
+ {@-kāminī,@} {%f.%} female rival; {@-kāya,@} 
+{%m.%} (counter body), adversary; {@-kāra,@} {%m.%} requital <lbinfo n="2"/>
+ ({%of good or evil%}), compensation for 
+(-°); counteraction, employment of remedies; 
+alleviation, remedy: {@-karman,@} {%n.%} opposition, 
+resistence, {@-vidhāna,@} {%n.%} medical treatment; 
+{@-kārin,@} {%a.%} obviating, counteracting (-°); {@-kār-@}
+{@-ya,@} {%n.%} reward (to, {%g.%}); {@-kitava,@} {%m.%} adversary <lbinfo n="5"/>
+ at play; {@-kuñjara@}, {%m.%} hostile elephant.
 <LEND>

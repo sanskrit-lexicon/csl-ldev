@@ -1,7 +1,7 @@
 <L>19506<pc>606<k1>royalty<k2>royalty
-<div n="lb"/>{@ROYALTY:@}¦ <div n="1">(1) {#राजत्वम्, -ता,#} and sim. comp. s.,
-<div n="lb"/><div n="xe">{%r. by birth:%}</div> <div n="xs">{#गर्भेश्वरत्वम्,#}</div> <ls>K.</ls> : v. King; </div><div n="1">(2) {#राज-#}
-<div n="lb"/>{#महिमा#} (= majesty) and sim. comp. s., <div n="xe">{%r. is%}
-<div n="lb"/>{%inaccessible:%}</div> <div n="xs">{#दुरासदो राजमहिमा,#}</div> Mal.; </div><div n="1">(3) by
-<div n="lb"/>comp., <div n="xe">{%ensigns of r.:%}</div> <div n="xs">{#राजलक्षणानि#}</div> (n. pl.).</div>
+{@ROYALTY:@}¦ <div n="1">(1) {#राजत्वम्, -ता,#} and sim. comp. s.,
+<div n="xe">{%r. by birth:%}</div> <div n="xs">{#गर्भेश्वरत्वम्,#}</div> <ls>K.</ls> : v. King; </div><div n="1">(2) {#राज-#}
+{#महिमा#} (= majesty) and sim. comp. s., <div n="xe">{%r. is%}
+{%inaccessible:%}</div> <div n="xs">{#दुरासदो राजमहिमा,#}</div> Mal.; </div><div n="1">(3) by
+comp., <div n="xe">{%ensigns of r.:%}</div> <div n="xs">{#राजलक्षणानि#}</div> (n. pl.).</div>
 <LEND>

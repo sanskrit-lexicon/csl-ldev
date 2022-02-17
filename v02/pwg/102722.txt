@@ -9,7 +9,7 @@
 <ls>P. 6, 1, 32.</ls> 
 <ls>VOP. 2, 55.</ls> Ausnahme: {#ततः सुष्वाप सस्तदा#} (am Ende eines <is>Śloka</is>) 
 <ls>HARIV. 11357</ls> (die neuere Ausg. {#सो ऽव्ययः#}). Das {#अ#} des nom. {#स#} verschmilzt bisweilen mit einem folgenden Vocale 
-<ls>ṚV. PRĀT. 2, 33.</ls>  fg.
+<ls>ṚV. PRĀT. 2, 33.</ls> fg.
 <ls>VS. PRĀT. 3, 14</ls> (vgl. {#सौषधीः#} 
 <ls>VS. 12, 36.</ls> {#सेमाम्#} 
 <ls>29, 54</ls> und {#सैषः#} weiter unten). Wenn {#स#} mit dem {#अ#} priv. verbunden ist, fällt das Casuszeichen nicht ab nach 
@@ -71,7 +71,7 @@ Verbindung mit einem Rel. am Anfange eines Satzes: {#स य एनं शस्
 <ls>KATHĀS. 18, 245.</ls> {#सेयम्#} 
 <ls>MĀRK. P. 62, 20.</ls> 
 <ls>ŚĀK. 67, 6.</ls> {#स (शापः) चायमङ्गुलीयकदर्शनावसानः#} 
-<ls>111, 6 </ls> (v. l. ohne {#अयम्)#}.{# याम् - सेयम्#} 
+<ls>111, 6</ls> (v. l. ohne {#अयम्)#}.{# याम् - सेयम्#} 
 <ls>MBH. 3, 2353.</ls> 
 <ls>ŚĀK. 84. 89.</ls> 
 <ls>Spr. (II) 4036.</ls> {#अये सेयमत्रभवती शकुन्तला यैषा#} 
@@ -81,16 +81,16 @@ Verbindung mit einem Rel. am Anfange eines Satzes: {#स य एनं शस्
 <ls>AIT. BR. 1, 7.</ls> {#स त्वा#} ({#तत्त्वा#} 
 <ls>ŚAT. BR. 14, 6, 3, 1</ls>) {#पृच्छामि#} 
 <ls>BṚH. ĀR. UP. 3, 3, 1.</ls> 
-<ls>MBH. 1, 6115. 3, 2484. fgg.</ls> {#सो ऽहमाम्रवणं छित्त्वा पलाशांश्च न्यषेचयम्#} 
+<ls>MBH. 1, 6115.</ls> <ls n="MBH.">3, 2484. fgg.</ls> {#सो ऽहमाम्रवणं छित्त्वा पलाशांश्च न्यषेचयम्#} 
 <ls>R. 2, 63, 9.</ls> 
-<ls>MBH. 1, 5952. 5965. 6142. 6155. 3, 15606.</ls> 
+<ls>MBH. 1, 5952.</ls> <ls n="MBH. 1,">5965.</ls> <ls n="MBH. 1,">6142.</ls> <ls n="MBH. 1,">6155.</ls> <ls n="MBH.">3, 15606.</ls> 
 <ls>ŚĀK. 13, 23.</ls> 
 <ls>RAGH. 1, 5 68</ls> {#साहं हृता#} 
 <ls>MĀRK. P. 70, 5.</ls> {#स एव तस्य भ्राताहम्#} 
 <ls>KATHĀS. 43, 231.</ls> — {#स वै नो ब्रूहि#} 
 <ls>ŚAT. BR. 14, 6, 10, 6. 9. 12. 15. 18. 1, 1, 4, 10.</ls> {#स किं शोचसि#} 
 <ls>Spr. (II) 6647.</ls> {#स कर्म कुरु#} 
-<ls>6646.</ls> <ls>MBH. 1, 5971. 6172. 3, 15650. 15697.</ls> {#स मे नाथो ह्यनाथस्य भव#} 
+<ls>6646.</ls> <ls>MBH. 1, 5971.</ls> <ls n="MBH. 1,">6172.</ls> <ls n="MBH.">3, 15650.</ls> <ls n="MBH. 3,">15697.</ls> {#स मे नाथो ह्यनाथस्य भव#} 
 <ls>R. 1, 62, 7.</ls> {#स नास्ति परमित्येव कुरु बुद्धिम्#} 
 <ls>2, 108, 17.</ls> {#स त्वमातिष्ठ योगम्#} 
 <ls>MBH. 3, 2639.</ls> 

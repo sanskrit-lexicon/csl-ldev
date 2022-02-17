@@ -1,13 +1,13 @@
 <L>20332<pc>635<k1>shave<k2>shave
-<div n="lb"/>{@SHAVE@}¦ (v.): <div n="I">I With a razor: </div><div n="1">(1) {#मुण्डयति#}
-<div n="lb"/>({#मुण्ड्,#} c. 10.) (of the hair of the entire
-<div n="lb"/>head), <div n="xe">{%s. ing the head:%}</div> <div n="xs">{#मुण्डं मुण्डयित्वा,#}</div> Mr.
-<div n="lb"/>v.; <div n="xe">{%the Śakas half-s. n:%}</div> <div n="xs">{#अर्धमुण्डान् शकान्,#}</div> V. p.
-<div n="lb"/>iv. 3. 21.; </div><div n="1">(2) {#क्षुरेण कल्पते#} ({#कॢप्,#} c. 1. = to
-<div n="lb"/>clip), etc., {#तदस्याः पञ्चचूडत्वं क्षुरकॢप्तं शिरः कुरु,#}
-<div n="lb"/>K. s. xii. 163.; </div><div n="1">(3) {#वापयति, आ-, परि-,#} ({#वप्,#}
-<div n="lb"/>c. 10.: rare); </div><div n="1">(4) {#क्षुरति#} ({#क्षुर्,#} c. 6.) (very
-<div n="lb"/>rare). </div><div n="I">II To cut off: q. v.: {#लुनाति#} ({#लू,#} c.
-<div n="lb"/>9.). </div><div n="I">III To skim along: {#आघर्षति#} ({#घृष्,#}
-<div n="lb"/>c. 1.).</div>
+{@SHAVE@}¦ (v.): <div n="I">I With a razor: </div><div n="1">(1) {#मुण्डयति#}
+({#मुण्ड्,#} c. 10.) (of the hair of the entire
+head), <div n="xe">{%s. ing the head:%}</div> <div n="xs">{#मुण्डं मुण्डयित्वा,#}</div> Mr.
+v.; <div n="xe">{%the Śakas half-s. n:%}</div> <div n="xs">{#अर्धमुण्डान् शकान्,#}</div> V. p.
+iv. 3. 21.; </div><div n="1">(2) {#क्षुरेण कल्पते#} ({#कॢप्,#} c. 1. = to
+clip), etc., {#तदस्याः पञ्चचूडत्वं क्षुरकॢप्तं शिरः कुरु,#}
+K. s. xii. 163.; </div><div n="1">(3) {#वापयति, आ-, परि-,#} ({#वप्,#}
+c. 10.: rare); </div><div n="1">(4) {#क्षुरति#} ({#क्षुर्,#} c. 6.) (very
+rare). </div><div n="I">II To cut off: q. v.: {#लुनाति#} ({#लू,#} c.
+9.). </div><div n="I">III To skim along: {#आघर्षति#} ({#घृष्,#}
+c. 1.).</div>
 <LEND>

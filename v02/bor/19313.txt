@@ -1,12 +1,12 @@
 <L>19313<pc>599<k1>rice<k2>rice
-<div n="lb"/>{@RICE:@}¦ <div n="I">I The plant: </div><div n="1">(1) {#शालिः#} (= winter r.),
-<div n="lb"/>{%red%} (= table) <div n="xe">{%r.:%}</div> <div n="xs">{#रक्तशालिः;#}</div> <div n="xe">{%white r.:%}</div> <div n="xs">{#कलमः;#}</div></div>
-<div n="lb"/><div n="1">(2) {#आशुः#} (= {%aus,%} early r.); </div><div n="1">(3) {#व्रीहिः#} (= {%boro,%}
-<div n="lb"/>rice ripening in the rains); </div><div n="1">(4) {#षष्टिका#} (= a
-<div n="lb"/>rice of quick growth); </div><div n="1">(5) {#नीवारः#} (= a wild
-<div n="lb"/>rice). </div><div n="I">II Husked r.: {#तण्डुलः,#} {%grains of r.:%}
-<div n="lb"/>{#तण्डुलकणाः,#} <ls>H.</ls> </div><div n="I">III. Boiled r.: </div><div n="1">(1) {#अन्नम्;#} </div><div n="1">(2)
-<div n="lb"/>{#ओदनम्;#} </div><div n="1">(3) {#अन्धस्,#} </div><div n="1">(4) {#भक्तम्।#} Ph.: <div n="xe">{%r. boiled%}
-<div n="lb"/>{%in milk with sugar:%}</div> <div n="xs">{#पायसम्, परमान्नम्;#}</div> <div n="xe">{%r. boiled%}
-<div n="lb"/>{%with dāl, khichri:%}</div> <div n="xs">{#कृसरा,#}</div> Bha.</div>
+{@RICE:@}¦ <div n="I">I The plant: </div><div n="1">(1) {#शालिः#} (= winter r.),
+{%red%} (= table) <div n="xe">{%r.:%}</div> <div n="xs">{#रक्तशालिः;#}</div> <div n="xe">{%white r.:%}</div> <div n="xs">{#कलमः;#}</div></div>
+<div n="1">(2) {#आशुः#} (= {%aus,%} early r.); </div><div n="1">(3) {#व्रीहिः#} (= {%boro,%}
+rice ripening in the rains); </div><div n="1">(4) {#षष्टिका#} (= a
+rice of quick growth); </div><div n="1">(5) {#नीवारः#} (= a wild
+rice). </div><div n="I">II Husked r.: {#तण्डुलः,#} {%grains of r.:%}
+{#तण्डुलकणाः,#} <ls>H.</ls> </div><div n="I">III. Boiled r.: </div><div n="1">(1) {#अन्नम्;#} </div><div n="1">(2)
+{#ओदनम्;#} </div><div n="1">(3) {#अन्धस्,#} </div><div n="1">(4) {#भक्तम्।#} Ph.: <div n="xe">{%r. boiled%}
+{%in milk with sugar:%}</div> <div n="xs">{#पायसम्, परमान्नम्;#}</div> <div n="xe">{%r. boiled%}
+{%with dāl, khichri:%}</div> <div n="xs">{#कृसरा,#}</div> Bha.</div>
 <LEND>

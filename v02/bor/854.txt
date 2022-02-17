@@ -1,10 +1,10 @@
 <L>854<pc>030<k1>anticipate<k2>anticipate
-<div n="lb"/>{@ANTICIPATE@}¦ (v. t.): <div n="I">I To foresee: Ph. <div n="xe">{%old%}
-<div n="lb"/>{%men can a. what is coming%}</div> <div n="xs">{#वृद्धबुद्धिरनागतं पश्यति#}</div>
-<div n="lb"/>Vi.; <div n="xe">{%even a. ing his death%}</div> <div n="xs">{#तस्य भाविमरणं जानन्नपि।#}</div></div>
-<div n="lb"/><div n="I">II To be before in doing: Ph. <div n="xe">{%I a. d his%}
-<div n="lb"/>{%designs by removing to London%}</div> <div n="xs">{#*तस्याशयं निरूप्य #}
-<div n="lb"/>{# लण्डनमहं जगाम;#}</div> <div n="xe">{%Scipio a. d Hannibal in cross-%}
-<div n="lb"/>{%ing the Po.%}</div> <div n="xs">{#*हेनिबालस्यामिप्रायं ज्ञात्वा सिपियः प्रागेव #}
-<div n="lb"/>{# पोनदीमुत्ततार।#}</div></div>
+{@ANTICIPATE@}¦ (v. t.): <div n="I">I To foresee: Ph. <div n="xe">{%old%}
+{%men can a. what is coming%}</div> <div n="xs">{#वृद्धबुद्धिरनागतं पश्यति#}</div>
+Vi.; <div n="xe">{%even a. ing his death%}</div> <div n="xs">{#तस्य भाविमरणं जानन्नपि।#}</div></div>
+<div n="I">II To be before in doing: Ph. <div n="xe">{%I a. d his%}
+{%designs by removing to London%}</div> <div n="xs">{#*तस्याशयं निरूप्य #}
+{# लण्डनमहं जगाम;#}</div> <div n="xe">{%Scipio a. d Hannibal in cross-%}
+{%ing the Po.%}</div> <div n="xs">{#*हेनिबालस्यामिप्रायं ज्ञात्वा सिपियः प्रागेव #}
+{# पोनदीमुत्ततार।#}</div></div>
 <LEND>

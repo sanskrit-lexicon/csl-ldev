@@ -1,8 +1,8 @@
 <L>7694<pc>243<k1>entrance<k2>entrance
-<div n="lb"/>{@ENTRANCE@}¦ (subs.): <div n="I">I The act or right of
-<div n="lb"/>entering: {#प्रवेशः, -नम्,#} <div n="xe">{%for our e.:%}</div> <div n="xs">{#अस्माकं प्रवेशाय,#}</div>
-<div n="lb"/>V. p.; <div n="xe">{%give me e.:%}</div> <div n="xs">{#देहि भे प्रवेशम्,#}</div> Mu.; {%e. -fee:%}
-<div n="lb"/>{#*प्रवेशनशुल्कम्।#} </div><div n="I">II A place for e.: {#प्रवेशः,#} <div n="xe">{%at the%}
-<div n="lb"/>{%e. of a certain town:%}</div> <div n="xs">{#कस्यचिन्नगरस्य प्रवेशे,#}</div> P. iv.
-<div n="lb"/>6.: v. Door, passage.</div>
+{@ENTRANCE@}¦ (subs.): <div n="I">I The act or right of
+entering: {#प्रवेशः, -नम्,#} <div n="xe">{%for our e.:%}</div> <div n="xs">{#अस्माकं प्रवेशाय,#}</div>
+V. p.; <div n="xe">{%give me e.:%}</div> <div n="xs">{#देहि भे प्रवेशम्,#}</div> Mu.; {%e. -fee:%}
+{#*प्रवेशनशुल्कम्।#} </div><div n="I">II A place for e.: {#प्रवेशः,#} <div n="xe">{%at the%}
+{%e. of a certain town:%}</div> <div n="xs">{#कस्यचिन्नगरस्य प्रवेशे,#}</div> P. iv.
+6.: v. Door, passage.</div>
 <LEND>

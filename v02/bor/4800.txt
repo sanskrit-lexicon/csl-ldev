@@ -1,7 +1,7 @@
 <L>4800<pc>155<k1>corporeal<k2>corporeal
-<div n="lb"/>{@CORPOREAL:@}¦ <div n="I">I Having a body: </div><div n="1">(1) {#देहिन्#}
-<div n="lb"/>(f. {#नी#}); </div><div n="1">(2) {#शरीरिन्#} (f. {#णी#}); </div><div n="1">(3) {#शरीरभाज्#}
-<div n="lb"/>(mfn.); </div><div n="1">(4) {#वपुष्मत्#} (f. {#ती#}); </div><div n="1">(5) {#विग्रहवत्#}
-<div n="lb"/>(f. {#ती#}) (rare). </div><div n="I">II Material: q. v. Ph.: {%c.%}
-<div n="lb"/>{%frame:%} v. Body.</div>
+{@CORPOREAL:@}¦ <div n="I">I Having a body: </div><div n="1">(1) {#देहिन्#}
+(f. {#नी#}); </div><div n="1">(2) {#शरीरिन्#} (f. {#णी#}); </div><div n="1">(3) {#शरीरभाज्#}
+(mfn.); </div><div n="1">(4) {#वपुष्मत्#} (f. {#ती#}); </div><div n="1">(5) {#विग्रहवत्#}
+(f. {#ती#}) (rare). </div><div n="I">II Material: q. v. Ph.: {%c.%}
+{%frame:%} v. Body.</div>
 <LEND>

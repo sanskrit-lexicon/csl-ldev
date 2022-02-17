@@ -3,7 +3,7 @@
 <ls>AK. 1, 1, 1, 60.</ls> 
 <ls>H. 1470.</ls> 
 <ls>M. 9, 94.</ls> 
-<ls>MBH. 5, 7141. 14, 829.</ls> 
+<ls>MBH. 5, 7141.</ls> <ls n="MBH.">14, 829.</ls> 
 <ls>HARIV. 7068.</ls> 
 <ls>RAGH. ed. Calc. 1, 77.</ls> <ls>KATHĀS. 13, 49. 18, 236. 289. 21, 83. 26, 254. 52, 208.</ls> <ls>RĀJA-TAR. 3, 118.</ls> das Schicksal, die Erfüllung des Schicksals 
 <ls>PAÑCAR. 1, 5, 29.</ls> {#सत्वरम्#} adv. {%eiligst, rasch, alsbald%} 
@@ -11,7 +11,7 @@
 <ls>H. 1530.</ls> 
 <ls>HALĀY. 4, 12.</ls> 
 <ls>R. 2, 39, 14. 55, 33. 72, 30. 4, 24, 17.</ls> 
-<ls>Spr. (II) 4528. 6693. 6982.</ls> 
+<ls>Spr. (II) 4528.</ls> <ls n="Spr. (II)">6693.</ls> <ls n="Spr. (II)">6982.</ls> 
 <ls>MEGH. 110.</ls> 
 <ls>ŚĀK. 12, 14. 78, 1, v. l.</ls> 
 <ls>KATHĀS. 22, 173.</ls> 

@@ -1,6 +1,6 @@
 <L>21153<pc>666<k1>spherics<k2>spherics
-<div n="lb"/>{@SPHERICS:@}¦ <div n="1">(1) {#गोलः,#} <div n="xe">{%an astronomer not knowing%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#गोलानभिज्ञो गणकः,#}</div> Go. 3.; </div><div n="1">(2) {#गोलग्रन्थः#} {%or%}
-<div n="lb"/>{#गोलप्रबन्धः#} (= a work on s.), Go. ({#गोलाध्याय#}
-<div n="lb"/>is the part on S. in S. s).</div>
+{@SPHERICS:@}¦ <div n="1">(1) {#गोलः,#} <div n="xe">{%an astronomer not knowing%}
+{%s.:%}</div> <div n="xs">{#गोलानभिज्ञो गणकः,#}</div> Go. 3.; </div><div n="1">(2) {#गोलग्रन्थः#} {%or%}
+{#गोलप्रबन्धः#} (= a work on s.), Go. ({#गोलाध्याय#}
+is the part on S. in S. s).</div>
 <LEND>

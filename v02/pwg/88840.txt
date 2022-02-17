@@ -20,7 +20,7 @@
 <ls n="ṚV.">3, 60, 4.</ls> <ls>AIT. BR. 3, 13.</ls> <ls>AIT. UP. 5, 2.</ls> {#आत्मनो वशः#} 
 <ls>Spr. 1349.</ls> 
 <div n="2">— b) {%Befehl, Herrschaft, Gewalt, Botmässigkeit%}; = {#प्रभुत्व#} und {#आयत्तता#} ({#आयत्तत्व#}) 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>?(n. nach MED. und ŚABDAR.).</ls> {#वशा\ #}
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> (<ls>n.</ls> nach <ls>MED.</ls> und <ls>ŚABDAR.).</ls> {#वशा\ #}
 [Page6-0819]
 {# -हि स\त्या वरु^णस्य\ राज्ञ^ः#} 
 <ls>AV. 1, 10, 1.</ls> {#अ\र्यो वश^स्य पर्ये\तास्ति^#} 
@@ -36,8 +36,8 @@
 <ls>KATHĀS. 33, 9.</ls> 
 <ls>PAÑCAR. 3, 11, 10.</ls> {#बाल्ये पितुर्वशे तिष्ठेत्#} 
 <ls>Spr. 1969.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 53, 10.</ls> 
+
+<ls>R. GORR. 2, 53, 10.</ls> 
 <ls>KATHĀS. 120, 30.</ls> 
 <ls>BHĀG. P. 5, 17, 23.</ls> 
 <ls>MĀRK. P. 62, 31.</ls> {#वशे स्थापयितुं प्रजाः#} 
@@ -71,7 +71,7 @@
 <ls>ŚĀṄKH. BR. 30, 9.</ls> 
 <ls>AIT. BR. 8, 9.</ls> {#यदा च गच्छत्यनुदात्तमक्षरं वशं पदादेरुदयस्य#} 
 <ls>ṚV. PRĀT. 11, 26.</ls> {#कामबाणवशं गता#} 
-<ls>MBH. 3, 1865. 5, 7237.</ls> 
+<ls>MBH. 3, 1865.</ls> <ls n="MBH.">5, 7237.</ls> 
 <ls>R. 2, 21, 2. 30, 19. 64, 26. 78, 4. 4, 35, 10.</ls> 
 <ls>Spr. 331.</ls> 
 <ls>BHĀG. P. 1, 8, 47. 6, 1, 61.</ls> {#निद्रावशमगमत्#} 
@@ -93,7 +93,7 @@
 <ls>SUŚR. 1, 149, 14.</ls> {#राक्षसीनां वशं प्राप्ता#} 
 <ls>R. 3, 62, 37.</ls> 
 <ls>Spr. 2756.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 26, 19.</ls> {#पुनः पुनर्वशमापद्यते मे#} 
+<ls>VET. in LA. (III) 26, 19.</ls> {#पुनः पुनर्वशमापद्यते मे#} 
 <ls>KAṬHOP. 2, 6.</ls> {#अनर्हवशमापन्ना#} 
 <ls>MBH. 1, 6160.</ls> 
 <ls>R. 1, 42, 13 (43, 13 GORR.). 3, 70, 4.</ls> {#कामस्य वशमास्थितः#} 
@@ -109,7 +109,7 @@
 <ls>VARĀH. BṚH. S. 8, 39.</ls> {#वशात्#} dass.: {#प्रकृतेः#} 
 <ls>BHAG. 9, 8.</ls> 
 <ls>Spr. 3246.</ls> {#तपसः#} 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 49, 20.</ls> {#विधेः#} 
+<ls>BRAHMA-P. in LA. (III) 49, 20.</ls> {#विधेः#} 
 <ls>KATHĀS. 25, 273.</ls> {#विधि°#} 
 <ls>MEGH. 6.</ls> {#दैव°#} 
 <ls>DHŪRTAS. 90, 13.</ls> 
@@ -125,19 +125,19 @@
 <ls>Spr. 665. 688. 775.</ls> 
 <ls>AK. 2, 7, 43.</ls> 
 <ls>VARĀH. BṚH. S. 5, 9. 11. 51, 38. 104, 40.</ls> 
-<ls>GOLĀDHY.5, 9.</ls> <ls>KATHĀS. 3, 74. 21, 82. 25, 280. 21, 22. 54, 100.</ls> <ls>RĀJA-TAR. 1, 371.</ls> <ls>DHŪRTAS. 68, 13. 76, 5.</ls> <ls>PAÑCAT. 32, 24. 33, 6. 148, 10. 183, 6. 252, 14. 264, 23. ed. orn. 4, 25.</ls> <ls>HIT. 44, 3.</ls> <ls>VET.</ls> in <ls>LA. (III) 11, 2.</ls> <ls>Schol.</ls> zu <ls>NAIṢ. 22, 45.</ls> <ls>SARVADARŚANAS. 29, 18. 34, 6. 86, 17. 20. 92, 22.</ls>
+<ls>GOLĀDHY.5, 9.</ls> <ls>KATHĀS. 3, 74. 21, 82. 25, 280. 21, 22. 54, 100.</ls> <ls>RĀJA-TAR. 1, 371.</ls> <ls>DHŪRTAS. 68, 13. 76, 5.</ls> <ls>PAÑCAT. 32, 24. 33, 6. 148, 10. 183, 6. 252, 14. 264, 23. ed. orn. 4, 25.</ls> <ls>HIT. 44, 3.</ls> <ls>VET. in LA. (III) 11, 2.</ls> <ls>Schol.</ls> zu <ls>NAIṢ. 22, 45.</ls> <ls>SARVADARŚANAS. 29, 18. 34, 6. 86, 17. 20. 92, 22.</ls>
 [Page6-0820]
 {#चन्द्रवशात् । पञ्चनवते दिनशते#} so v. a. {%in 195 lunaren Tagen%} 
 <ls>VARĀH. BṚH. S. 21, 7.</ls> {#वशतस्#} dass.: {#कर्म°#} 
 <ls>Spr. 2085.</ls> {#अक्ष°#} {%in Folge der geographischen Breite%} 
 <ls>GOLĀDHY. 7, 34.</ls> {#वश#} am Ende eines <lex>adj.</lex> comp. (f. {#आ): काल°#} {%in der Gewalt von - stehend%} 
-<ls>MBH. 13, 66. 1466. 16, 111.</ls> {#प्रतिग्रहो दातृवशः#} 
+<ls>MBH. 13, 66.</ls> <ls n="MBH. 13,">1466.</ls> <ls n="MBH.">16, 111.</ls> {#प्रतिग्रहो दातृवशः#} 
 <ls>R. 1, 69, 14. 3, 61, 4. 5, 16, 51. 7, 24, 11.</ls> {#निद्रा°#} 
 <ls>RAGH. 5, 67.</ls> 
 <ls>Spr. 3197. 3347.</ls> {#सद्यः खेदवशो ऽभवत्#} 
 <ls>KATHĀS. 8, 17. 18, 240. 25, 294.</ls> 
 <ls>BHĀG. P. 1, 13, 39. 2, 7, 39. 5, 23, 3. 8, 7, 15.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 20, 7.</ls> 
+<ls>VET. in LA. (III) 20, 7.</ls> 
 <div n="2">— c) {%die personificirte Herrschaft%}: {#ई\शा व^शस्य\ या जा\या#} 
 <ls>AV. 11, 8, 17.</ls> 
 <div n="2">— d) = {#जन्मन्#} {%Geburt, Ursprung%} 

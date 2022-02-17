@@ -1,7 +1,7 @@
 <L>24326<pc>761<k1>wholesome<k2>wholesome
-<div n="lb"/>{@WHOLESOME:@}¦ <div n="1">(1) {#पथ्य#} (f. {#थ्या#}), <div n="xe">{%is generally%}
-<div n="lb"/>{%very w. for all animals:%}</div> <div n="xs">{#सर्वप्राणिनां सामान्यतः #}
-<div n="lb"/>{# पथ्यतमः,#}</div> Sr.; </div><div n="1">(2) {#हित#} (f. {#ता#} = good), <div n="xe">{%abso-%}
-<div n="lb"/>{%lutely w.:%}</div> <div n="xs">{#एकान्तहित#}</div> (f. {#ता#}), Sr.; </div><div n="1">(3) {#क्षेम्य#}
-<div n="lb"/>(f. {#म्या#}= salutary: q. v.).</div>
+{@WHOLESOME:@}¦ <div n="1">(1) {#पथ्य#} (f. {#थ्या#}), <div n="xe">{%is generally%}
+{%very w. for all animals:%}</div> <div n="xs">{#सर्वप्राणिनां सामान्यतः #}
+{# पथ्यतमः,#}</div> Sr.; </div><div n="1">(2) {#हित#} (f. {#ता#} = good), <div n="xe">{%abso-%}
+{%lutely w.:%}</div> <div n="xs">{#एकान्तहित#}</div> (f. {#ता#}), Sr.; </div><div n="1">(3) {#क्षेम्य#}
+(f. {#म्या#}= salutary: q. v.).</div>
 <LEND>

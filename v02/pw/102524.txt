@@ -1,31 +1,31 @@
 <L>102524<pc>6090-1<k1>विद्<k2>विद्<h>1<e>500
-1. {#विद्#}¦ , {#वेत्ति#} , {#वेद#} (2te Imper. <ls>MBH.3,68,34</ls>), {#विदां#} {#करोति#} (<ls>Spr.6512</ls>), {#वे/द#} Perf. (mit Präsensbedeutung , ganz ausnahmsweise auch als Perf.) ; metrisch hier und da <ab>Med.</ab>
+1. {#विद्#}¦ , {#वेत्ति#} , {#वेद#} (2te Imper. <ls>MBH. 3,68,34</ls>), {#विदां#} {#करोति#} (<ls>Spr. 6512</ls>), {#वे/द#} Perf. (mit Präsensbedeutung , ganz ausnahmsweise auch als Perf.) ; metrisch hier und da <ab>Med.</ab>
 <div n="1">— 1) {%Etwas oder Jmd kennen lernen , erkennen%} ; {%wissen , begreifen , sich auf Etwas verstehen , Etwas%} oder {%Jmd erkennen , wissen von Jmd , ein Bewusstsein von Etwas haben%} (<ls>260,26</ls>), {%eine richtige Vorstellung haben von%} ; in der älteren Sprachen mit <ab>Acc.</ab> oder <ab>Gen.</ab> , in der späteren mit <ab>Acc.</ab> Mit <ab>Infin.</ab> {%verstehen zu%} <ls>136,1.</ls>
 <div n="1">— 2) {%in Jmd oder in Etwas Jmd oder Etwas erkennen , kennen als%} , auch so v.a. {%erklären für , nennen%} ; mit doppeltem <ab>Acc.</ab> (statt des prädicativen <ab>Acc.</ab> auch <ab>Nomin.</ab> mit {#इति#}).
 <div n="1">— 3) {%merken , beachten , achten auf%} ; {%eingedenk sein%} ; mit <ab>Gen.</ab> oder <ab>Acc.</ab>
 <div n="1">— 4) {%wahrnehmen , bemerken%} ; auch mit einem prädicativem <ab>Acc.</ab>
 <div n="1">— 5) {%erfahren , zu geniessen haben , empfinden , an Etwas denken müssen%} ; mit <ab>Acc.</ab> oder <ab>Gen.</ab>
-<div n="1">— 6) {%glauben , wähnen , annehmen , voraussetzen%} ; {%halten für%} (mit doppeltem <ab>Acc.</ab>) <ls>VIKRAMĀṄKAC.17,11.</ls>
+<div n="1">— 6) {%glauben , wähnen , annehmen , voraussetzen%} ; {%halten für%} (mit doppeltem <ab>Acc.</ab>) <ls>VIKRAMĀṄKAC. 17,11.</ls>
 <div n="1">— 7) {%wissen wollen , prüfen , sich erkundigen nach.%}
-<div n="1">— 8) {#विदित/#} {%kennen gelernt , erkannt , gekannt , bekannt , — als%} (<ab>Nomin.</ab>). Auch <lex>n.</lex> impers. {#विदितमस्तु वः#} oder {#अस्तुवो#} {#विदितम्#} {%es sei euch bekannt , wisset%} <ls>Ind.Antiq.6,73.77.86.</ls> {#विदितम्#} <ab>Adv.</ab> {%mit Wissen , — von%}
+<div n="1">— 8) {#विदित/#} {%kennen gelernt , erkannt , gekannt , bekannt , — als%} (<ab>Nomin.</ab>). Auch <lex>n.</lex> impers. {#विदितमस्तु वः#} oder {#अस्तुवो#} {#विदितम्#} {%es sei euch bekannt , wisset%} <ls>Ind. Antiq. 6,73. 77. 86.</ls> {#विदितम्#} <ab>Adv.</ab> {%mit Wissen , — von%}
 [Page6090-2]
 (<ab>Gen.</ab>)
 <div n="1">— 9) {#वित्त#}
 <div n="2">— a) {%erkannt.%}
 <div n="2">— b) {%bekannt , berühmt.%}
-<div n="1">— 10) {#*विन्न#} = {#ज्ञात#} <ls>TRIK.3,3,262.</ls> — {#अविदन्#} und {#विद्यात्#} auch fehlerhaft für {#अविन्दन्#} und {#विन्द्यात्#} (zu 3. {#विद्#}).
+<div n="1">— 10) {#*विन्न#} = {#ज्ञात#} <ls>TRIK. 3,3,262.</ls> — {#अविदन्#} und {#विद्यात्#} auch fehlerhaft für {#अविन्दन्#} und {#विन्द्यात्#} (zu 3. {#विद्#}).
 <div n="m">— <ab>Caus.</ab> {#वेद/यते#} und {#वेदयति#} (seltener)
 <div n="1">— 1) {%ankündigen , mittheilen , melden , anzeigen , angeben%} ; auch mit prädicativem <ab>Acc.</ab>
 <div n="1">— 2) {%lehren , erklären%} ; mit doppeltem <ab>Acc.</ab> <ls>225,29.</ls>
 <div n="1">— 3) {%kund thun%} , so v.a. {%zeigen , anwenden.%}
 <div n="1">— 4) {%kennen , — als%} , so v.a. {%dass ist%} (mit doppeltem <ab>Acc.</ab>) , {%halten für%} (mit doppeltem <ab>Acc.</ab>).
 <div n="1">— 5) {%erkennen , Wahrnehmen , erfahren — , dass ist.%} (mit doppeltem <ab>Acc.</ab>).
-<div n="1">— 6) {%fühlen , empfinden.%} <ab>Act.</ab> <ls>NYĀYAS.4,1,57.</ls> <ab>Med.</ab> <ab>Comm.</ab> zu <ls>3,1,1.4,1,57.</ls>
-<div n="1">— 7) {#वेदयन्ति#} <ls>MBH.13,5186</ls> fehlerhaft für {#रमयन्ति#}.
+<div n="1">— 6) {%fühlen , empfinden.%} <ab>Act.</ab> <ls>NYĀYAS. 4,1,57.</ls> <ab>Med.</ab> <ab>Comm.</ab> zu <ls>3,1,1. 4,1,57.</ls>
+<div n="1">— 7) {#वेदयन्ति#} <ls>MBH. 13,5186</ls> fehlerhaft für {#रमयन्ति#}.
 <div n="m">— <ab>Desid.</ab> {#विविदिषति#} {%zu wissen wünschen , erkennen — , kennen lernen wollen , sich erkundigen nach%} (<ab>Acc.</ab>).
 <div n="m">— <ab>Desid.</ab> vom <ab>Caus.</ab> in {#विवेदयिषु#}.
 <div n="p">— Mit {#अनु#} {%wissen , vollständig kennen.%}
-<div n="m">— <ab>Caus.</ab> = {#समनु#} <ab>Caus.</ab> <ls>ĀPAST.</ls> im <ab>Comm.</ab> zu <ls>AIT.BR.7,25,2.</ls>
+<div n="m">— <ab>Caus.</ab> = {#समनु#} <ab>Caus.</ab> <ls>ĀPAST.</ls> im <ab>Comm.</ab> zu <ls>AIT. BR. 7,25,2.</ls>
 <div n="p">— Mit {#समनु#} <ab>Caus.</ab> {%in Erinnerung rufen.%}
 <div n="p">— Mit {#अभि#} <ab>Caus.</ab> <ab>Act.</ab> {%melden.%}
 <div n="p">— Mit {#व्यव#} {%unterscheiden können.%}
@@ -34,23 +34,23 @@
 <div n="1">— 1) {%anreden , einladen.%}
 <div n="1">— 2) {%ankündigen.%}
 <div n="1">— 3) {%kund thun , mittheilen , melden%} (auch mit prädicativem <ab>Acc.</ab>) {%anzeigen.%} {#आत्मानम्#} {%sich anmelden , seinen Namen nennen.%} {#आवेदित#} {%angemeldet.%}
-<div n="1">— 4) {%vorschreiben%} (vom Arzte gesagt) <ls>Spr.7623.</ls>
+<div n="1">— 4) {%vorschreiben%} (vom Arzte gesagt) <ls>Spr. 7623.</ls>
 <div n="1">— 5) {%Jmd%} (<ab>Acc.</ab>) {%benachrichtigen.%}
 <div n="1">— 6) {%Jmd Etwas melden%} , so v.a. {%anbieten , darbringen.%}
 <div n="p">— Mit {#समा#} <ab>Caus.</ab> {%kund thun , melden.%}
-<div n="p">— Mit {#उप#} <ab>Caus.</ab> {%ankündigen , ansagen%} <ls>HEMĀDRI.1,469,5.7.</ls>
+<div n="p">— Mit {#उप#} <ab>Caus.</ab> {%ankündigen , ansagen%} <ls>HEMĀDRI 1,469,5. 7.</ls>
 <div n="p">— Mit {#नि#} {%kund thun , zu Jmd sprechen.%}
 <div n="m">— <ab>Caus.</ab> <ab>Act.</ab> <ab>Med.</ab>
-<div n="1">— 1) {%Jmd%} (<ab>Dat.</ab> , <ab>Gen.</ab> oder <ab>Loc.</ab>) {%kund thun , melden , sagen , berichten , ankündigen , mittheilen , anzeigen , melden — , sagen dass ist%} (mit prädicativem <ab>Acc.</ab> <ls>Spr.7802</ls>), {%Jmd anmelden.%} {#आत्मानम्#} {%sich anmelden , indem man seinen Namen nennt.%}
+<div n="1">— 1) {%Jmd%} (<ab>Dat.</ab> , <ab>Gen.</ab> oder <ab>Loc.</ab>) {%kund thun , melden , sagen , berichten , ankündigen , mittheilen , anzeigen , melden — , sagen dass ist%} (mit prädicativem <ab>Acc.</ab> <ls>Spr. 7802</ls>), {%Jmd anmelden.%} {#आत्मानम्#} {%sich anmelden , indem man seinen Namen nennt.%}
 <div n="1">— 2) {%nennen%} , mit doppeltem <ab>Acc.</ab>
 <div n="1">— 3) {%Jmd Etwas anmelden%} , so v.a. {%anbieten , übergeben.%}
 <div n="1">— 4) {%überantworten.%} {#आत्मा/नम्#} {%sich zu eigen geben , sich zur Verfügung stellen.%}
 <div n="1">— 5) {#दोषम्#} {%eine Schuld wälzen auf%} (<ab>Dat.</ab>).
-<div n="1">— 6) {#न्यवेदयत्#} <ls>MBH.14,2678</ls> fehlerhaft für {#न्यवेशयत्#}.
+<div n="1">— 6) {#न्यवेदयत्#} <ls>MBH. 14,2678</ls> fehlerhaft für {#न्यवेशयत्#}.
 <div n="p">— Mit {#अतिनि#} <ab>Caus.</ab> {%Jmd Etwas anbieten.%} Vielleicht fehlerhaft für {#अभिनि#}.
 <div n="p">— Mit {#विनि#} <ab>Caus.</ab>
 <div n="1">— 1) {%kund thun , berichten , melden , Jmd anmelden.%}
-<div n="1">— 2) {%Jmd Etwas anbieten , übergeben%} <ls>HEMĀDRI.1,222,14.225,4.</ls>
+<div n="1">— 2) {%Jmd Etwas anbieten , übergeben%} <ls>HEMĀDRI 1,222,14. 225,4.</ls>
 <div n="p">— Mit {#संनि#} <ab>Caus.</ab>
 <div n="1">— 1) {%kund thun , berichten , melden , — dass ist%} (mit prädicativem <ab>Acc.</ab>).
 <div n="1">— 2) {%anbieten.%} {#आत्मानम्#} {%sich Jmd zur Verfügung stellen.%}
@@ -62,35 +62,35 @@
 <div n="1">— 2) verwechselt mit dem <ab>Caus.</ab> von 2. {#दिव्#} mit {#परि#}.
 <div n="p">— Mit {#प्र#} {%kennen , wissen%} ,
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) <ab>Act.</ab> <ab>Med.</ab> {%kund thun , verkünden , berichten%} <ab>Comm.</ab> zu <ls>YOGAS.1,1.</ls>
+<div n="1">— 1) <ab>Act.</ab> <ab>Med.</ab> {%kund thun , verkünden , berichten%} <ab>Comm.</ab> zu <ls>YOGAS. 1,1.</ls>
 <div n="1">— 2) <ab>Act.</ab> {%eine richtige Erkenntniss haben.%}
 <div n="p">— Mit {#अनुप्र#} , {#अ/नु#} {#प्रविद्वान्#} {%genau kennend.%}
 <div n="p">— Mit {#प्रतिप्र#} <ab>Caus.</ab> <ab>Act.</ab> {%verkünden , zu wissen thun.%}
-<div n="p">— Mit {#प्रति#} {%merken , erkennen.%} {#प्र/ति-विद्वा/न्#} <ls>ṚV.5,49,2.</ls>
+<div n="p">— Mit {#प्रति#} {%merken , erkennen.%} {#प्र/ति-विद्वा/न्#} <ls>ṚV. 5,49,2.</ls>
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {%zu wissen thun%} (<ls>VAJRACCH.28,19</ls>), {%ankünden , melden , — dass ist%} (mit prädicativem <ab>Acc.</ab>) , {%anmelden%} ( {%als bereit stehend%} ) , {%Jmd anmelden.%}
+<div n="1">— 1) {%zu wissen thun%} (<ls>VAJRACCH. 28,19</ls>), {%ankünden , melden , — dass ist%} (mit prädicativem <ab>Acc.</ab>) , {%anmelden%} ( {%als bereit stehend%} ) , {%Jmd anmelden.%}
 <div n="1">— 2) {%Jmd mit Etwas bekannt machen%} , mit doppeltem <ab>Acc.</ab>
 <div n="1">— 3) {%Jmd Etwas anbieten , zur Verfügung stellen , übergeben.%}
 <div n="p">— Mit {#संप्रति#} <ab>Caus.</ab> {%zu wissen thun , verkünden.%}
 <div n="p">— Mit {#वि#}
 <div n="1">— 1) {%unterscheiden , wissen.%}
-<div n="1">— 2) {#विविदन्ति#} <ls>MBH.12,265,13</ls> fehlerhaft für {#विवदन्ति#}.
+<div n="1">— 2) {#विविदन्ति#} <ls>MBH. 12,265,13</ls> fehlerhaft für {#विवदन्ति#}.
 <div n="p">— Mit {#सम्#} angeblich stets <ab>Med.</ab>
 <div n="1">— 1) <ab>Act.</ab> <ab>Med.</ab> {%zusammen wissen , wissen , kennen , kennen lernen.%}
 <div n="1">— 2) <ab>Act.</ab> {%empfinden , schmecken%} u.s.w.
 <div n="1">— 3) <ab>Act.</ab> <ab>Med.</ab> {%einverstanden sein mit%} (<ab>Acc.</ab>).
 <div n="1">— 4) {#संविदित#}
 <div n="2">— a) {%erkannt , erfahren , — von%} ( {#सकाशात्#}).
-<div n="2">— b) {%bekannt.%} Impers. {#अस्तु#} {#वः#} {#संविदितम्#} {%es sei euch bekannt , wisset%} <ls>Ind.Antiq.6,12.15.21.</ls>
+<div n="2">— b) {%bekannt.%} Impers. {#अस्तु#} {#वः#} {#संविदितम्#} {%es sei euch bekannt , wisset%} <ls>Ind. Antiq. 6,12. 15. 21.</ls>
 <div n="2">— c) {%durchsucht.%}
 <div n="2">— d) {%worüber man%} (<ab>Gen.</ab>) {%einverstanden ist.%} {#°म्#} {%im Einverständniss mit%} (<ab>Gen.</ab>).
 <div n="2">— e) {%ermahnt.%}
 <div n="m">— <ab>Caus.</ab>
 <div n="1">— 1) {%Jmd zur Erkenntniss bringen , erleuchten.%}
 <div n="1">— 2) {%kund thun , verkünden.%}
-<div n="1">— 3) {%erkennen , wahrnehmen.%} <ab>Med.</ab> {%sich bewusst werden%} <ab>Comm.</ab> zu <ls>NYĀYAS.2,2,20.</ls>
+<div n="1">— 3) {%erkennen , wahrnehmen.%} <ab>Med.</ab> {%sich bewusst werden%} <ab>Comm.</ab> zu <ls>NYĀYAS. 2,2,20.</ls>
 <div n="p">— Mit {#अनुसम्#} {%zugleich mit Etwas — , in Folge von Etwas wissen.%}
 <div n="p">— Mit {#अभिसम्#} {%wissen , kennen.%}
 <div n="p">— Mit {#प्रतिसम्#} in {#प्रतिसंविद्#}.
-<div n="m">— <ab>Caus.</ab> {%empfinden , an sich erfahren%} <ls>LALIT.147,11.439,9.</ls>
+<div n="m">— <ab>Caus.</ab> {%empfinden , an sich erfahren%} <ls>LALIT. 147,11. 439,9.</ls>
 <LEND>

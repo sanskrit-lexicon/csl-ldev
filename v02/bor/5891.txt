@@ -1,8 +1,8 @@
 <L>5891<pc>189<k1>deputation<k2>deputation
-<div n="lb"/>{@DEPUTATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#प्रेरणम्#} (=send-
-<div n="lb"/>-ing); </div><div n="1">(2) {#नियोगः#} (=employing). </div><div n="I">II The
-<div n="lb"/>person or persons deputed: </div><div n="1">(1) {#प्रतिनिधिः,#}
-<div n="lb"/><div n="xe">{%I am sent as his d.:%}</div> <div n="xs">{#स्वप्रतिनिधिः प्रेषितोऽस्मि,#}</div> B. r.;</div>
-<div n="lb"/><div n="1">(2) {#दूतः#} (=ambassador), ({%the king%}) <div n="xe">{%Bhoja%}
-<div n="lb"/>{%sent a d. to Raghu:%}</div> <div n="xs">{#भोजेन दूतो रघवे विसृष्टः,#}</div> R.</div>
+{@DEPUTATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#प्रेरणम्#} (=send-
+-ing); </div><div n="1">(2) {#नियोगः#} (=employing). </div><div n="I">II The
+person or persons deputed: </div><div n="1">(1) {#प्रतिनिधिः,#}
+<div n="xe">{%I am sent as his d.:%}</div> <div n="xs">{#स्वप्रतिनिधिः प्रेषितोऽस्मि,#}</div> B. r.;</div>
+<div n="1">(2) {#दूतः#} (=ambassador), ({%the king%}) <div n="xe">{%Bhoja%}
+{%sent a d. to Raghu:%}</div> <div n="xs">{#भोजेन दूतो रघवे विसृष्टः,#}</div> R.</div>
 <LEND>

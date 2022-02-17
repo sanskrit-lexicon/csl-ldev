@@ -1,11 +1,11 @@
 <L>35490<pc>204,3<k1>उपरम्<k2>उप-रम्<e>1
-<s>उप-√ रम्</s> ¦ <ab>P.</ab> <ab>Ā.</ab> (<ls>Pāṇ. 1-3, 85</ls>) <s>-रमति</s>, <s>-ते</s>, to cease from motion, stop, <ls>TS.</ls>; <ls>TBr.</ls>; <ls>ŚBr.</ls>; <ls>ŚāṅkhŚr.</ls>;
+<s>उप-√ रम्</s> ¦ <ab>P.</ab> <ab>Ā.</ab> (<ls>Pāṇ. i, 3, 85</ls>) <s>-रमति</s>, <s>-ते</s>, to cease from motion, stop, <ls>TS.</ls>; <ls>TBr.</ls>; <ls>ŚBr.</ls>; <ls>ŚāṅkhŚr.</ls>;
 <div n="to"/>to cease from action, be inactive or quiet (as a quietist), <ls>BhP.</ls>; <ls>Bhag.</ls>;
 <div n="to"/>to pause, stop (speaking or doing anything), <ls>ŚBr.</ls>; <ls>ŚāṅkhŚr.</ls>; <ls>ĀśvGṛ.</ls>; <ls>Pañcat.</ls> &c.;
 <div n="to"/>to leave off, desist, give up, renounce (with <ab>abl.</ab>), <ls>MBh.</ls>; <ls>R.</ls>; <ls>BhP.</ls> <ab>Comm.</ab> on <ls>BṛĀrUp.</ls>; <ls>Daś.</ls>;
 <div n="to"/>to await, wait for, <ls>ŚBr. ii, 2, 1, 2; iii, 8, 2, 29</ls>;
 <div n="to"/>to cause to cease or stop;
-<div n="to"/>to render quiet, <ls>Pāṇ. 1-3, 84</ls> :
+<div n="to"/>to render quiet, <ls>Pāṇ. i, 3, 84</ls> :
 <div n="to"/><ab>Caus.</ab> <s>-रमयति</s>, to cause to cease or stop;
 <div n="to"/>to render quiet, <ls>Nir.</ls>; <ls>Kāś.</ls><info verb="pre" cp="PĀ" parse="upa+ram"/>
 <LEND>

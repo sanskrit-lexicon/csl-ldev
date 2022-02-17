@@ -1,4 +1,4 @@
 <L>10468<pc>329<k1>gutteral<k2>gutteral
-<div n="lb"/>{@GUTTERAL:@}¦ {#कण्ठ्य#} (f. {#ण्ठ्या#}), <div n="xe">{%g. letter:%}</div> <div n="xs">{#कण्ठ्यवर्णः।#}</div>
-<div n="lb"/><div n="xe">{%G. sound:%}</div> <div n="xs">{#कण्ठकुहरम्#}</div> (rare).
+{@GUTTERAL:@}¦ {#कण्ठ्य#} (f. {#ण्ठ्या#}), <div n="xe">{%g. letter:%}</div> <div n="xs">{#कण्ठ्यवर्णः।#}</div>
+<div n="xe">{%G. sound:%}</div> <div n="xs">{#कण्ठकुहरम्#}</div> (rare).
 <LEND>

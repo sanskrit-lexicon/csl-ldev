@@ -1,3 +1,3 @@
 <L>21550<pc>679<k1>storage<k2>storage
-<div n="lb"/>{@STORAGE:@}¦ <div n="1">(1) {#सञ्चयः;#} </div><div n="1">(2) {#सम्मारः;#} </div><div n="1">(3) {#समाहारः।#}</div>
+{@STORAGE:@}¦ <div n="1">(1) {#सञ्चयः;#} </div><div n="1">(2) {#सम्मारः;#} </div><div n="1">(3) {#समाहारः।#}</div>
 <LEND>

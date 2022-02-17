@@ -1,6 +1,6 @@
 <L>666<pc>024<k1>ambiguous<k2>ambiguous
-<div n="lb"/>{@AMBIGUOUS@}¦ <div n="1">(1) {#सन्दिग्धः#} ({#ग्धा, ग्धं#}); </div><div n="1">(2) {#सन्दिग्घार्थः#}
-<div n="lb"/>({#र्था, र्थं#}). Ph. {%it is a. here whether the word%}
-<div n="lb"/>{#वन्द्यां#} <div n="xe">{%means ‘captive’ or ‘adorable’%}</div> <div n="xs">{#अत्रवन्द्यामिति #}
-<div n="lb"/>{# किं वन्दीभूतायामुत वन्दनीयमिति सन्देहः#}</div> {%Sah.%}</div>
+{@AMBIGUOUS@}¦ <div n="1">(1) {#सन्दिग्धः#} ({#ग्धा, ग्धं#}); </div><div n="1">(2) {#सन्दिग्घार्थः#}
+({#र्था, र्थं#}). Ph. {%it is a. here whether the word%}
+{#वन्द्यां#} <div n="xe">{%means ‘captive’ or ‘adorable’%}</div> <div n="xs">{#अत्रवन्द्यामिति #}
+{# किं वन्दीभूतायामुत वन्दनीयमिति सन्देहः#}</div> {%Sah.%}</div>
 <LEND>

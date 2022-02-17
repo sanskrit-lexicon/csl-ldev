@@ -1,5 +1,5 @@
 <L>5493<pc>176<k1>dealing<k2>dealing
-<div n="lb"/>{@DEALING:@}¦ <div n="I">I Traffic, trade: q. v.: {#क्रयविक्रयः।#}</div>
-<div n="lb"/><div n="I">II Intercourse, connexion: q. v. {#संसर्गः।#}</div>
-<div n="lb"/><div n="I">III Treatment: q. v.</div>
+{@DEALING:@}¦ <div n="I">I Traffic, trade: q. v.: {#क्रयविक्रयः।#}</div>
+<div n="I">II Intercourse, connexion: q. v. {#संसर्गः।#}</div>
+<div n="I">III Treatment: q. v.</div>
 <LEND>

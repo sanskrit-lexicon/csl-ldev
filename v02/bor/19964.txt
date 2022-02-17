@@ -1,5 +1,5 @@
 <L>19964<pc>621<k1>sculpture<k2>sculpture
-<div n="lb"/>{@SCULPTURE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#तक्षणम्;#} </div><div n="1">(2) {#त्वक्षणम्।#}</div>
-<div n="lb"/><div n="I">II Verb: </div><div n="1">(1) {#त#} ({#त्व#}){#क्षति#} ({#तक्ष्#} <div n="xe">{%or%}</div> <div n="xs">{#त्वक्ष्,#}</div> c. 1.).</div>
-<div n="lb"/><div n="1">(2) {#उल्लिखति#} ({#लिख्,#} c. 6.: rare), Ki.</div>
+{@SCULPTURE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#तक्षणम्;#} </div><div n="1">(2) {#त्वक्षणम्।#}</div>
+<div n="I">II Verb: </div><div n="1">(1) {#त#} ({#त्व#}){#क्षति#} ({#तक्ष्#} <div n="xe">{%or%}</div> <div n="xs">{#त्वक्ष्,#}</div> c. 1.).</div>
+<div n="1">(2) {#उल्लिखति#} ({#लिख्,#} c. 6.: rare), Ki.</div>
 <LEND>

@@ -1,33 +1,33 @@
 <L>10089<pc>318<k1>good<k2>good
-<div n="lb"/>{@GOOD:@}¦ <div n="I">I In ordinary sense: </div><div n="1">(1) {#उत्तमः#} ({#मा, #}
-<div n="lb"/>{# मं#}), <div n="xe">{%the g. things of Camphor island:%}</div> <div n="xs">{#कर्पूरद्विपस्योत्त-#}
-<div n="lb"/>{#मानि वस्तूनि,#}</div> H. iv.; <div n="xe">{%his best painter:%}</div> <div n="xs">{#निजश्चित्र-#}
-<div n="lb"/>{#करोत्तमः,#}</div> K.s. 57. 123.; {%the best of men%} ({%God%}):
-<div n="lb"/>{#पुरुषोत्तमः,#} </div><div n="1">(2) {#उत्कृष्टः#} ({#ष्टा, ष्टं#}) (= excellent),
-<div n="lb"/><div n="xe">{%g., bad, and middling:%}</div> <div n="xs">{#उत्कृष्टापकृष्टमव्यमः,#}</div> K. b.;</div>
-<div n="lb"/><div n="1">(3) {#विशिष्टः#} ({#ष्टा, ष्टं#}) (= very g.), {%very g. cloth:%}
-<div n="lb"/>{#विशिष्टवस्त्रम्,#} P. iii. 9.; </div><div n="1">(4) {#सु#} <div n="xe">{%or%}</div> <div n="xs">{#सत्#}</div> prefixed:
-<div n="lb"/><div n="xe">{%a g. poet:%}</div> <div n="xs">{#सुकविः,#}</div> Bha.; <div n="xe">{%a. g. physician:%}</div> <div n="xs">{#सुचिकि-#}
-<div n="lb"/>{#त्सकः;#}</div> <div n="xe">{%a g. judge:%}</div> <div n="xs">{#सद्विचारकः;#}</div> <div n="xe">{%g. man:%}</div> <div n="xs">{#सज्जनः#}</div> {%or%}
-<div n="lb"/>sim. {#सत्,#} U.; <div n="xe">{%of g. appearance:%}</div> <div n="xs">{#सुरूपः#}</div> ({#पा, पं#});</div>
-<div n="lb"/><div n="1">(5) {#गुणवत्#} (f. {#ती#}) (having g. qualities), <div n="xe">{%g.%}
-<div n="lb"/>{%soil:%}</div> <div n="xs">{#गुणवती भूमिः,#}</div> Ka.; <div n="xe">{%g. wife:%}</div> <div n="xs">{#गुणवती भार्या;#}</div></div>
-<div n="lb"/><div n="1">(6) {#दर्शनीयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#दृश्य#}</div> (f. {#श्या#}) (g. to see),
-<div n="lb"/><div n="xe">{%other g. games:%}</div> <div n="xs">{#क्रीडान्तराणि दर्शनौयानि,#}</div> D. </div><div n="I">II
-<div n="lb"/>Suited, adopted: {#हितः#} ({#ता, तं#}), {%g. for cattle:%}
-<div n="lb"/>{#गोहितः#} ({#ता, तं#}), Ka. iv. 51.; <div n="xe">{%sour gruel is not%}
-<div n="lb"/>{%g. in fever:%}</div> <div n="xs">{#यवागूर्न हिता ज्वरे,#}</div> Bha. </div><div n="I">III Proper:
-<div n="lb"/>right: q.v.: {#श्स्तः#} ({#स्ता, स्तं#}), N. iii. 9. </div><div n="I">IV
-<div n="lb"/>Considerable: {#सु-,#} <div n="xe">{%for a g: while:%}</div> <div n="xs">{#सुचिरम्,#}</div> K.; <div n="xe">{%g.%}
-<div n="lb"/>{%many days:%}</div> <div n="xs">{#सुबहून्दिवसान्,#}</div> C. viii.; <div n="xe">{%a g. number%}
-<div n="lb"/>{%of:%}</div> <div n="xs">{#सुबहु#}</div> (mfn.). </div><div n="I">V Auspicious: q.v.: {#शुभः#}
-<div n="lb"/>({#भा, भं#}). Ph.: <div n="xe">{%g. fellow:%}</div> <div n="xs">{#भद्रः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भद्रमुखः;#}</div> <div n="xe">{%g.-for-%}
-<div n="lb"/>{%nothing:%}</div> <div n="xs">{#अकर्मण्य#}</div> (f. {#ण्या#}) {%or%} sometimes by {#अ-#} in
-<div n="lb"/>comp., <div n="xe">{%a field g.-for-nothing:%}</div> <div n="xs">{#अक्षेत्रम्,#}</div> M.; {%a. g.%}
-<div n="lb"/>{%deal:%} (adv.): {#विशेषेण;#} {%be so g. as, be g. enough:%}
-<div n="lb"/>{#अनुग्रहपुर्वकम्;#} <div n="xe">{%this is a g. day to me:%}</div> <div n="xs">{#अयं मे सुदिवसः,#}</div>
-<div n="lb"/>U. ii. 1. [N.B. Note {#सुदिवसः, सुप्रभातम्#} etc. are
-<div n="lb"/>not used in the English sense for which use
-<div n="lb"/>{#कुशलं ते, कुशलं भवतः,#} etc. <div n="xe">{%or%}</div> <div n="xs">{#स्वागतम्#}</div> to a visitor];
-<div n="lb"/>{%as g. as%} (i.e. in effect): {#वस्तुतः।#}</div>
+{@GOOD:@}¦ <div n="I">I In ordinary sense: </div><div n="1">(1) {#उत्तमः#} ({#मा, #}
+{# मं#}), <div n="xe">{%the g. things of Camphor island:%}</div> <div n="xs">{#कर्पूरद्विपस्योत्त-#}
+{#मानि वस्तूनि,#}</div> H. iv.; <div n="xe">{%his best painter:%}</div> <div n="xs">{#निजश्चित्र-#}
+{#करोत्तमः,#}</div> K.s. 57. 123.; {%the best of men%} ({%God%}):
+{#पुरुषोत्तमः,#} </div><div n="1">(2) {#उत्कृष्टः#} ({#ष्टा, ष्टं#}) (= excellent),
+<div n="xe">{%g., bad, and middling:%}</div> <div n="xs">{#उत्कृष्टापकृष्टमव्यमः,#}</div> K. b.;</div>
+<div n="1">(3) {#विशिष्टः#} ({#ष्टा, ष्टं#}) (= very g.), {%very g. cloth:%}
+{#विशिष्टवस्त्रम्,#} P. iii. 9.; </div><div n="1">(4) {#सु#} <div n="xe">{%or%}</div> <div n="xs">{#सत्#}</div> prefixed:
+<div n="xe">{%a g. poet:%}</div> <div n="xs">{#सुकविः,#}</div> Bha.; <div n="xe">{%a. g. physician:%}</div> <div n="xs">{#सुचिकि-#}
+{#त्सकः;#}</div> <div n="xe">{%a g. judge:%}</div> <div n="xs">{#सद्विचारकः;#}</div> <div n="xe">{%g. man:%}</div> <div n="xs">{#सज्जनः#}</div> {%or%}
+sim. {#सत्,#} U.; <div n="xe">{%of g. appearance:%}</div> <div n="xs">{#सुरूपः#}</div> ({#पा, पं#});</div>
+<div n="1">(5) {#गुणवत्#} (f. {#ती#}) (having g. qualities), <div n="xe">{%g.%}
+{%soil:%}</div> <div n="xs">{#गुणवती भूमिः,#}</div> Ka.; <div n="xe">{%g. wife:%}</div> <div n="xs">{#गुणवती भार्या;#}</div></div>
+<div n="1">(6) {#दर्शनीयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#दृश्य#}</div> (f. {#श्या#}) (g. to see),
+<div n="xe">{%other g. games:%}</div> <div n="xs">{#क्रीडान्तराणि दर्शनौयानि,#}</div> D. </div><div n="I">II
+Suited, adopted: {#हितः#} ({#ता, तं#}), {%g. for cattle:%}
+{#गोहितः#} ({#ता, तं#}), Ka. iv. 51.; <div n="xe">{%sour gruel is not%}
+{%g. in fever:%}</div> <div n="xs">{#यवागूर्न हिता ज्वरे,#}</div> Bha. </div><div n="I">III Proper:
+right: q.v.: {#श्स्तः#} ({#स्ता, स्तं#}), N. iii. 9. </div><div n="I">IV
+Considerable: {#सु-,#} <div n="xe">{%for a g: while:%}</div> <div n="xs">{#सुचिरम्,#}</div> K.; <div n="xe">{%g.%}
+{%many days:%}</div> <div n="xs">{#सुबहून्दिवसान्,#}</div> C. viii.; <div n="xe">{%a g. number%}
+{%of:%}</div> <div n="xs">{#सुबहु#}</div> (mfn.). </div><div n="I">V Auspicious: q.v.: {#शुभः#}
+({#भा, भं#}). Ph.: <div n="xe">{%g. fellow:%}</div> <div n="xs">{#भद्रः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भद्रमुखः;#}</div> <div n="xe">{%g.-for-%}
+{%nothing:%}</div> <div n="xs">{#अकर्मण्य#}</div> (f. {#ण्या#}) {%or%} sometimes by {#अ-#} in
+comp., <div n="xe">{%a field g.-for-nothing:%}</div> <div n="xs">{#अक्षेत्रम्,#}</div> M.; {%a. g.%}
+{%deal:%} (adv.): {#विशेषेण;#} {%be so g. as, be g. enough:%}
+{#अनुग्रहपुर्वकम्;#} <div n="xe">{%this is a g. day to me:%}</div> <div n="xs">{#अयं मे सुदिवसः,#}</div>
+U. ii. 1. [N.B. Note {#सुदिवसः, सुप्रभातम्#} etc. are
+not used in the English sense for which use
+{#कुशलं ते, कुशलं भवतः,#} etc. <div n="xe">{%or%}</div> <div n="xs">{#स्वागतम्#}</div> to a visitor];
+{%as g. as%} (i.e. in effect): {#वस्तुतः।#}</div>
 <LEND>

@@ -1,16 +1,16 @@
 <L>9118<pc>288<k1>foot<k2>foot
-<div n="lb"/>{@FOOT@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#पादः,#} <div n="xe">{%without hand%}
-<div n="lb"/>{%and f.:%}</div> <div n="xs">{#अपाणिपादः#}</div> ({#दा, दं#}). S.; {%to go on f.:%}
-<div n="lb"/>{#पद्भ्यां#} ({%or%} {#पादचारेण#} A.r.) {#गच्छतिः#} Mr.; <div n="xe">{%water%}
-<div n="lb"/>{%for cleaning the feet:%}</div> <div n="xs">{#पाद्यम्;#}</div> <div n="xe">{%water in which feet%}
-<div n="lb"/>{%have been washed:%}</div> <div n="xs">{#पादोदकम्;#}</div> </div><div n="1">(2) {#चरण#} (mn.);</div>
-<div n="lb"/><div n="1">(3) {#पदम्;#} </div><div n="1">(4) {#अंघ्निः।#} </div><div n="I">II Fig.: {#पादः,#} <div n="xe">{%from its%}
-<div n="lb"/>{%f. rises the lake named Hill-water:%}</div> <div n="xs">{#तस्य पादात्#}</div> [Page289]
-<div n="lb"/>{#प्रभवति शैलोदं नाम तत्सरः,#} Mat.: v. Bottom. </div><div n="I">III
-<div n="lb"/>Of a stool etc.: {#पादः#} <div n="xe">{%or%}</div> <div n="xs">{#पदम्।#}</div> </div><div n="I">IV Metrical
-<div n="lb"/>f.: </div><div n="1">(1) {#चरण#} (mn.), <div n="xe">{%a Gāyatri f. consists of six%}
-<div n="lb"/>{%syllables:%}</div> <div n="xs">{#षडक्षरो गायत्रीचरणः,#}</div> Li.; </div><div n="1">(2) {#पादः;#}</div>
-<div n="lb"/><div n="1">(3) {#पदम्।#} V. A measure: expr. by {#हस्तः#}
-<div n="lb"/>(= cubit), <div n="xe">{%three f. in length:%}</div> <div n="xs">{#त्रिहस्तदीर्घः#}</div> ({#र्घा, #}
-<div n="lb"/>{# र्घं#}). </div><div n="I">VI Infantry: </div><div n="1">(1) {#पत्तिः;#} </div><div n="1">(2) {#पदातिः।#}</div>
+{@FOOT@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#पादः,#} <div n="xe">{%without hand%}
+{%and f.:%}</div> <div n="xs">{#अपाणिपादः#}</div> ({#दा, दं#}). S.; {%to go on f.:%}
+{#पद्भ्यां#} ({%or%} {#पादचारेण#} A.r.) {#गच्छतिः#} Mr.; <div n="xe">{%water%}
+{%for cleaning the feet:%}</div> <div n="xs">{#पाद्यम्;#}</div> <div n="xe">{%water in which feet%}
+{%have been washed:%}</div> <div n="xs">{#पादोदकम्;#}</div> </div><div n="1">(2) {#चरण#} (mn.);</div>
+<div n="1">(3) {#पदम्;#} </div><div n="1">(4) {#अंघ्निः।#} </div><div n="I">II Fig.: {#पादः,#} <div n="xe">{%from its%}
+{%f. rises the lake named Hill-water:%}</div> <div n="xs">{#तस्य पादात्#}</div> [Page289]
+{#प्रभवति शैलोदं नाम तत्सरः,#} Mat.: v. Bottom. </div><div n="I">III
+Of a stool etc.: {#पादः#} <div n="xe">{%or%}</div> <div n="xs">{#पदम्।#}</div> </div><div n="I">IV Metrical
+f.: </div><div n="1">(1) {#चरण#} (mn.), <div n="xe">{%a Gāyatri f. consists of six%}
+{%syllables:%}</div> <div n="xs">{#षडक्षरो गायत्रीचरणः,#}</div> Li.; </div><div n="1">(2) {#पादः;#}</div>
+<div n="1">(3) {#पदम्।#} V. A measure: expr. by {#हस्तः#}
+(= cubit), <div n="xe">{%three f. in length:%}</div> <div n="xs">{#त्रिहस्तदीर्घः#}</div> ({#र्घा, #}
+{# र्घं#}). </div><div n="I">VI Infantry: </div><div n="1">(1) {#पत्तिः;#} </div><div n="1">(2) {#पदातिः।#}</div>
 <LEND>

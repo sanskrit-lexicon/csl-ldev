@@ -1,15 +1,15 @@
 <L>37290<pc>0775-c<k1>मास्<k2>मास्<h>2
 {#मास्#} 2¦. {%mās, ās,%} m. (fr. rt. 3. {%mā;%} accord-
-<div n="lb"/>ing to Pāṇini and Vopa-deva used in all cases except
-<div n="lb"/>the nom. sing. du. pl. and acc. sing. du., according
-<div n="lb"/>to the lexicographers and Garga also in the nom.
-<div n="lb"/>sing.; inst. pl., Ved. {%mādbhis%}), the moon; a
-<div n="lb"/>month; [cf. {%pūrṇa-m°, puṣpa-m°;%} cf. also Zend
-<div n="lb"/><nsi>maoñh</nsi>, ‘moon, month;’ <nsi>maoñha</nsi>, ‘moon:’ Gr.
-<div n="lb"/><lang n="greek">μήν</lang> for <lang n="greek">μήνς,</lang> Ion. <lang n="greek">μείς, μήν-η, μην-ιαῖο-ς,</lang> Æol.
-<div n="lb"/><lang n="greek">μῆνν-ος</lang> for <lang n="greek">μῆνσ-ος:</lang> Lat. <nsi>mensis, Mena, men-</nsi>
-<div n="lb"/><nsi>struus;</nsi> Goth. <nsi>mena, menoth-s:</nsi> Old Germ. <nsi>ma-</nsi>
-<div n="lb"/><nsi>not:</nsi> Angl. Sax. <nsi>mona, monadh:</nsi> Lith. <nsi>menu,</nsi>
-<div n="lb"/>‘moon;’ <nsi>ménesi-s,</nsi> ‘month:’ Old Slav. <nsi>mese-ci,</nsi>
-<div n="lb"/>‘moon, month.’]
+ing to Pāṇini and Vopa-deva used in all cases except
+the nom. sing. du. pl. and acc. sing. du., according
+to the lexicographers and Garga also in the nom.
+sing.; inst. pl., Ved. {%mādbhis%}), the moon; a
+month; [cf. {%pūrṇa-m°, puṣpa-m°;%} cf. also Zend
+<nsi>maoñh</nsi>, ‘moon, month;’ <nsi>maoñha</nsi>, ‘moon:’ Gr.
+<lang n="greek">μήν</lang> for <lang n="greek">μήνς,</lang> Ion. <lang n="greek">μείς, μήν-η, μην-ιαῖο-ς,</lang> Æol.
+<lang n="greek">μῆνν-ος</lang> for <lang n="greek">μῆνσ-ος:</lang> Lat. <nsi>mensis, Mena, men-</nsi>
+<nsi>struus;</nsi> Goth. <nsi>mena, menoth-s:</nsi> Old Germ. <nsi>ma-</nsi>
+<nsi>not:</nsi> Angl. Sax. <nsi>mona, monadh:</nsi> Lith. <nsi>menu,</nsi>
+‘moon;’ <nsi>ménesi-s,</nsi> ‘month:’ Old Slav. <nsi>mese-ci,</nsi>
+‘moon, month.’]
 <LEND>

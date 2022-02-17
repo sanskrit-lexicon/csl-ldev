@@ -6,7 +6,7 @@
 <ls>TRIK. 3, 5, 11.</ls> 
 <ls>H. an. 2, 327.</ls> 
 <ls>MED. m. 16.</ls> Das <lex>n.</lex> selten. z. 
-<ls>B.</ls> <ls>MBH. 12, 2260. 9232</ls> ({#धर्माणि#} von {#धर्मन्?#}). 
+<ls>B.</ls> <ls>MBH. 12, 2260.</ls> <ls n="MBH. 12,">9232</ls> ({#धर्माणि#} von {#धर्मन्?#}). 
 <ls>13, 1370.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>12, 7850.</ls> <ls>R. 2, 42, 7.</ls> Der 
 <ls>ṚV.</ls> kennt das Wort noch nich (vgl. 2. {#धर्मन्#}). 
@@ -98,7 +98,7 @@
 <ls>TRIK. 3, 3, 298.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#दशधर्मगत#} {%der die Natur der Zehn angenommen hat%} so v. a. {%der seine eigene Natur aufgegeben hat, in einem schwachen Augenblick sich vergisst%} 
-<ls>HARIV. 744. 1153</ls> {%Die Zehn%} sind nach der ersten Stelle {#मत्तः प्रमत्त उन्मत्तः श्रान्तः क्रुद्धो बुभुक्षितः । त्वरमाणश्च भीरुश्च लुब्धः कामी च#} . Ueber den in dieser Bed. sehr beliebten Gebrauch des Wortes {#धर्म#} bei den Buddhisten s. 
+<ls>HARIV. 744.</ls> <ls n="HARIV.">1153</ls> {%Die Zehn%} sind nach der ersten Stelle {#मत्तः प्रमत्त उन्मत्तः श्रान्तः क्रुद्धो बुभुक्षितः । त्वरमाणश्च भीरुश्च लुब्धः कामी च#} . Ueber den in dieser Bed. sehr beliebten Gebrauch des Wortes {#धर्म#} bei den Buddhisten s. 
 <ls>BURN. Intr. 41. 42. 439.</ls> 
 <ls>HIOUEN-THSANG I, 159. 160.</ls> {#आश्चर्याद्भुतधर्मप्राप्त#} so v. a. {%in Staunen und Verwunderung gerathen%} 
 <ls>SADDH. P. 4, 17</ls>,b. 
@@ -137,7 +137,7 @@
 <ls>8077.</ls> <ls>VARĀH. BṚH. S. 45, 10. 99, 1.</ls> <ls>LALIT. 26.</ls> im Gefolge des Sonnengottes 
 <ls>VYĀḌI</ls> zu <ls>H. 103.</ls> mit <is>Viṣṇu</is> identif. 
 <ls>H. ś. 67.</ls> <ls>HARIV. 2382.</ls> <is>Dharma</is> als <is>Prajāpati</is> und Schwiegersohn <is>Dakṣa's</is> 
-<ls>?143. 11526. 11837. 12455. M. 9, 129. KUMĀRAS. 4, 43. VP. 54. 55. 115. 119. KŪRMA-P. in VP. 49, N. 2. BHĀG. P. 4, 1, 48.</ls> 
+<ls n="HARIV.">143.</ls> <ls n="HARIV.">11526.</ls> <ls n="HARIV.">11837.</ls> <ls n="HARIV.">12455.</ls> <ls>M. 9, 129.</ls> <ls>KUMĀRAS. 4, 43.</ls> <ls>VP. 54. 55. 115. 119.</ls> <ls>KŪRMA-P.</ls> in <ls>VP. 49, N. 2.</ls> <ls>BHĀG. P. 4, 1, 48.</ls> 
 <div n="1">— 10) N. pr. des 15ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is>, aus dem Geschlechte <is>Ikṣvāku's</is>, eines Sohnes des <is>Bhānu</is> von der <is>Suvratā</is>, 
 <ls>H. 28. 35. 37. 40.</ls> 
 <ls>H. an.</ls> eines Sohnes des <is>Anu</is> und Vaters des <is>Ghṛta</is> 

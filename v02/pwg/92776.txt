@@ -6,7 +6,7 @@
 <ls>AK. 3, 4, 18, 129.</ls> 
 <div n="2"> a) {%auseinanderstehend, nicht dicht anschliessend, undicht%}: {#स्तनौ#} 
 <ls>R. 6, 23, 13.</ls> {#विरलाङ्गुली चरणौ#} 
-<ls>VARĀH. BṚH. S. 68,3. 43.</ls> <ls>Verz. d. Oxf. H. 202,b,4. 5. 9.</ls> <ls>UTTARAR. 10,6</ls> <ls>(14,4).</ls> {#दन्ताश्चाविरला मम#} 
+<ls>VARĀH. BṚH. S. 68,3. 43.</ls> <ls>Verz. d. Oxf. H. 202,b,4. 5. 9.</ls> <ls>UTTARAR. 10,6</ls> (<ls>14,4).</ls> {#दन्ताश्चाविरला मम#} 
 <ls>R. 6, 23. 11.</ls> {#अरण्यं विरलद्रुमम्#} 
 <ls>HARIV. 3487.</ls> 
 <ls>KATHĀS. 56, 20.</ls> {#भूर्विरलसस्ययुता#}
@@ -19,8 +19,8 @@
 <ls>Spr. 1719.</ls> {#अविरलाः कराः#} {%dichte Strahlen%} 
 <ls>KATHĀS. 21, 12.</ls> {#अविरलच्छाया#} <lex>adj.</lex> {%dichten Schatten gebend%} 
 <ls>MBH. 3, 11033.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 49, 12.</ls> {#अविरलम्#} adv. {%dicht%} 
+
+<ls>R. GORR. 1, 49, 12.</ls> {#अविरलम्#} adv. {%dicht%} 
 <ls>UTTARAR. 33, 12 (44, 6).</ls> {#अविरलमिव दाम्ना पौण्डरीकेण नद्धः#} 
 <ls>MĀLATĪM. 60, 10.</ls> 
 <div n="2">— b) {%selten, wenig, nicht zahlreich%}: {#प्रचार#} 
@@ -34,10 +34,10 @@
 <ls>Spr. 2091. 5299.</ls> 
 <ls>KATHĀS. 36, 41.</ls> 
 <ls>RĀJA-TAR. 4, 240.</ls> {#पुरुषस्तु विरलपातको भवति#} 
-<ls>VET.</ls> in <ls>LA. (III) 23, 3.</ls> {#संसारे ऽस्मिन्भवति विरलो भाजनं सद्गतीनाम्#} {%hier und da Einer%} 
+<ls>VET. in LA. (III) 23, 3.</ls> {#संसारे ऽस्मिन्भवति विरलो भाजनं सद्गतीनाम्#} {%hier und da Einer%} 
 <ls>Spr. 2978.</ls> {#तं भुवनतिकलकभूतं जनयति जननी सुतं विरलम्#} 
 <ls>2826.</ls> {#विरलः को ऽपि यो वेत्ति रहस्यं कौसुमायुधम्#} 
-<ls>VET.</ls> in <ls>LA. 20, 19.</ls> 
+<ls>VET. in LA. 20, 19.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%saurer Kahm%} ({#दधि#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="v">— Vgl. {#अ°, प्र°#} .

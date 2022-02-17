@@ -1,4 +1,4 @@
 <L>14698<pc>450<k1>misalliance<k2>misalliance
-<div n="lb"/>{@MISALLIANCE:@}¦ in marriage: <div n="1">(1) {#कुसम्बन्धः;#}</div>
-<div n="lb"/><div n="1">(2) {#कुविवाहः।#}</div>
+{@MISALLIANCE:@}¦ in marriage: <div n="1">(1) {#कुसम्बन्धः;#}</div>
+<div n="1">(2) {#कुविवाहः।#}</div>
 <LEND>

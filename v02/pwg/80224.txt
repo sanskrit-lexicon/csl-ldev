@@ -1,6 +1,6 @@
 <L>80224<pc>5-1659<k1>भू<k2>भू<h>1
 1. {#भू#}¦ 
-<ls>?Z. 14 füge 10, 112, 10 nach 1, 76, 4</ls> hinzu. 
+Z. 14 füge <ls>10, 112, 10</ls> nach <ls>1, 76, 4</ls> hinzu. 
 <div n="1"> 1) 
 <div n="2"> e) 
 <ls>ṚV. 7, 32, 13.</ls> 
@@ -27,5 +27,5 @@
 
 <div n="p">— {#प्र#} 
 <div n="1"> 3) {#प्रभूत#} {%stattlich, gross%} 
-<ls>HARIV. 4479. 4481.</ls>
+<ls>HARIV. 4479.</ls> <ls n="HARIV.">4481.</ls>
 <LEND>

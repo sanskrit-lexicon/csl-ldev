@@ -1,5 +1,5 @@
 <L>10852<pc>342<k1>help<k2>help
-<div n="lb"/>{@HELP@}¦ (subs.): {#साहाप्यम्:#} v. Assistance. {%H. h.:%}
-<div n="lb"/>{#त्राहि, त्राहि,#} V. p. <div n="xe">{%or%}</div> <div n="xs">{#परित्रायस्व, परित्रायस्व,#}</div> Sa. vi.;
-<div n="lb"/><div n="xe">{%there is no h. for it:%}</div> <div n="xs">{#अस्य प्रतिक्रिया नास्ति।#}</div>
+{@HELP@}¦ (subs.): {#साहाप्यम्:#} v. Assistance. {%H. h.:%}
+{#त्राहि, त्राहि,#} V. p. <div n="xe">{%or%}</div> <div n="xs">{#परित्रायस्व, परित्रायस्व,#}</div> Sa. vi.;
+<div n="xe">{%there is no h. for it:%}</div> <div n="xs">{#अस्य प्रतिक्रिया नास्ति।#}</div>
 <LEND>

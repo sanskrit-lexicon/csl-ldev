@@ -1,4 +1,4 @@
 <L>24053<pc>752<k1>walnut<k2>walnut
-<div n="lb"/>{@WALNUT:@}¦ <div n="I">I The tree: {#अक्षोटः#} (also {#आखोटः#}).</div>
-<div n="lb"/><div n="I">II The fruit: {#अक्षोटम्।#}</div>
+{@WALNUT:@}¦ <div n="I">I The tree: {#अक्षोटः#} (also {#आखोटः#}).</div>
+<div n="I">II The fruit: {#अक्षोटम्।#}</div>
 <LEND>

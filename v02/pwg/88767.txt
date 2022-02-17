@@ -29,7 +29,7 @@ v. l.) so v. a. {%klingen schön%}
 <div n="1"> 1) <lex>adj.</lex> {%hüpfend, springend%}: {#वत्स#} 
 <ls>VARĀH. BṚH. S. 48, 11.</ls> ({#वारणैः#}) {#रणवल्गितैः#} ({#°गर्वितैः#} die neuere Ausg.) 
 <ls>HARIV. 5469.</ls> {%flatternd%}: {#वल्गिताम्बरैः#} ({#बलिनां वरैः#} die neuere Ausg.) 
-<ls>4992.</ls> {#°भ्रु#} {%sich hinundher bewegend%} 
+<ls n="HARIV.">4992.</ls> {#°भ्रु#} {%sich hinundher bewegend%} 
 <ls>KĀVYĀD. 2, 73.</ls> <ls>BHĀG. P. 10, 35, 2.</ls> so v. a. {%klingend, wohlklingend%}: {#योधानां वल्गितस्वनः#} 
 <ls>HARIV. 14017.</ls> {#°कण्ठ#} 
 <ls>BHĀG. P. 10, 90, 21.</ls> 
@@ -53,8 +53,8 @@ v. l.) so v. a. {%klingen schön%}
 <ls>MBH. 4, 342.</ls> {#आवल्गित#} {%hüpfend, springend%} 
 <ls>9, 600</ls> ({#आवर्तित#} ed. Bomb.). {#विषाणावल्गितगति#} 
 <ls>HARIV. 4103.</ls> {#प्लुतावल्गितपाद#} ({#प्लुतवल्गित°#} die neuere Ausg.) 
-<ls>4302.</ls> {%flatternd%}: {#आवल्गिताम्बर#} ({#आवलिता°#} die neuere Ausg.) 
-<ls>4661. 4686</ls> ({#बलिनां वरम्#} die neuere Ausg.).
+<ls n="HARIV.">4302.</ls> {%flatternd%}: {#आवल्गिताम्बर#} ({#आवलिता°#} die neuere Ausg.) 
+<ls n="HARIV.">4661.</ls> <ls n="HARIV.">4686</ls> ({#बलिनां वरम्#} die neuere Ausg.).
 
 <div n="p">— {#व्या#} {%galoppiren%} 
 <ls>UTTARAR. 92, 3 (119, 4).</ls> {%hüpfen, sich rasch hinundher bewegen%}, vom Busen 
@@ -67,9 +67,9 @@ v. l.) so v. a. {%klingen schön%}
 
 <div n="p">— {#प्र#} {%die Glieder rasch bewegen, hüpfen, springen%} 
 <ls>MBH. 8, 848.</ls> in der Nacht {#इच्छया ते प्रवल्गन्ति ये सत्त्वा रात्रिचारिणः#} 
-<ls>10, 26. med.</ls> <ls>HARIV. 4703. 13591.</ls> {#प्रवल्गन्तमिवोर्मिभिः - सागरम्#} 
+<ls>10, 26.</ls> med. <ls>HARIV. 4703.</ls> <ls n="HARIV.">13591.</ls> {#प्रवल्गन्तमिवोर्मिभिः - सागरम्#} 
 <ls>R. 5, 74, 39.</ls> {#°वल्गित#} {%hüpfend, springend%} 
-<ls>HARIV. 4991. 5470.</ls>
+<ls>HARIV. 4991.</ls> <ls n="HARIV.">5470.</ls>
 
 <div n="p">— {#वि#} {%hüpfen, springen%}: {#माहेन्द्रेण विवल्गतीव धनुषा - अम्बरम्#} 
 <ls>MṚCCH. 85, 15.</ls>

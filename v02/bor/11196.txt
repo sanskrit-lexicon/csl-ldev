@@ -1,7 +1,7 @@
 <L>11196<pc>352<k1>horror<k2>horror
-<div n="lb"/>{@HORROR:@}¦ <div n="I">I A shaking: {#कम्पः,#} Sa. </div><div n="I">II The
-<div n="lb"/>feelings: {#त्रासः, सं-,#} (= terror). </div><div n="I">III Dreari-
-<div n="lb"/>-ness: </div><div n="1">(1) {#घोरता:#} </div><div n="1">(2) {#रौद्रता,#} <div n="xe">{%the great h. of the%}
-<div n="lb"/>{%funeral yard:%}</div> <div n="xs">{#महती श्मशानवाटस्यं रौद्रता,#}</div> Ma. v.;</div>
-<div n="lb"/><div n="1">(3) {#बीमत्सम्, बीभत्समेवाग्रे वर्तते,#} Ma. v.</div>
+{@HORROR:@}¦ <div n="I">I A shaking: {#कम्पः,#} Sa. </div><div n="I">II The
+feelings: {#त्रासः, सं-,#} (= terror). </div><div n="I">III Dreari-
+-ness: </div><div n="1">(1) {#घोरता:#} </div><div n="1">(2) {#रौद्रता,#} <div n="xe">{%the great h. of the%}
+{%funeral yard:%}</div> <div n="xs">{#महती श्मशानवाटस्यं रौद्रता,#}</div> Ma. v.;</div>
+<div n="1">(3) {#बीमत्सम्, बीभत्समेवाग्रे वर्तते,#} Ma. v.</div>
 <LEND>

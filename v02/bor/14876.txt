@@ -1,9 +1,9 @@
 <L>14876<pc>454<k1>moment<k2>moment
-<div n="lb"/>{@MOMENT:@}¦ <div n="I">I Importance: q. v.: {#गुरूत्वम्।#} </div><div n="I">II
-<div n="lb"/>Of time: </div><div n="1">(1) {#मुहूर्त#} (mn.), {%for about a m.:%}
-<div n="lb"/>{#मुहूर्तमिव,#} <ls>K.</ls> ; <div n="xe">{%in a m.:%}</div> <div n="xs">{#मुहूर्तेन,#}</div> <ls>R.</ls> ; <div n="xe">{%but for a%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#मुहूर्तमात्रम्,#}</div> <ls>N.</ls> ; <div n="xe">{%after a m.:%}</div> <div n="xs">{#मुहूर्तापगमे,#}</div> <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(2) {#क्षणः#} <div n="xe">{%in a m.:%}</div> <div n="xs">{#क्षणेन,#}</div> <ls>V.</ls> ; {%even for a m.:%}
-<div n="lb"/>{#क्षणमपि,#} <ls>R.</ls> ; <div n="xe">{%at this very m.:%}</div> <div n="xs">{#अस्मिन्नेव क्षणे,#}</div>
-<div n="lb"/><ls>D.</ls> ; <div n="xe">{%in the next m.:%}</div> <div n="xs">{#तस्मिन्नेव क्षणान्तरे,#}</div> D.</div>
+{@MOMENT:@}¦ <div n="I">I Importance: q. v.: {#गुरूत्वम्।#} </div><div n="I">II
+Of time: </div><div n="1">(1) {#मुहूर्त#} (mn.), {%for about a m.:%}
+{#मुहूर्तमिव,#} <ls>K.</ls> ; <div n="xe">{%in a m.:%}</div> <div n="xs">{#मुहूर्तेन,#}</div> <ls>R.</ls> ; <div n="xe">{%but for a%}
+{%m.:%}</div> <div n="xs">{#मुहूर्तमात्रम्,#}</div> <ls>N.</ls> ; <div n="xe">{%after a m.:%}</div> <div n="xs">{#मुहूर्तापगमे,#}</div> <ls>K.</ls> ;</div>
+<div n="1">(2) {#क्षणः#} <div n="xe">{%in a m.:%}</div> <div n="xs">{#क्षणेन,#}</div> <ls>V.</ls> ; {%even for a m.:%}
+{#क्षणमपि,#} <ls>R.</ls> ; <div n="xe">{%at this very m.:%}</div> <div n="xs">{#अस्मिन्नेव क्षणे,#}</div>
+<ls>D.</ls> ; <div n="xe">{%in the next m.:%}</div> <div n="xs">{#तस्मिन्नेव क्षणान्तरे,#}</div> D.</div>
 <LEND>

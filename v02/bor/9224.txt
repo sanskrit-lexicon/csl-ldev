@@ -1,5 +1,5 @@
 <L>9224<pc>292<k1>forfeiture<k2>forfeiture
-<div n="lb"/>{@FORFEITURE:@}¦ <div n="I">I The act: expr. by {#दण्डः#} {%or%}
-<div n="lb"/>{#हानिः#} (= loss). </div><div n="I">II Anything forfeited:
-<div n="lb"/>{#प्रमादाद्देयो दण्डः#} (?).</div>
+{@FORFEITURE:@}¦ <div n="I">I The act: expr. by {#दण्डः#} {%or%}
+{#हानिः#} (= loss). </div><div n="I">II Anything forfeited:
+{#प्रमादाद्देयो दण्डः#} (?).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>5915<pc>190<k1>descending<k2>descending
-<div n="lb"/>{@DESCENDING@}¦ (adj.): Ph.: <div n="xe">{%d. scale:%}</div> <div n="xs">{#*अवरोहपद्धतिः;#}</div>
-<div n="lb"/><div n="xe">{%d. node:%}</div> <div n="xs">{#पातः।#}</div>
+{@DESCENDING@}¦ (adj.): Ph.: <div n="xe">{%d. scale:%}</div> <div n="xs">{#*अवरोहपद्धतिः;#}</div>
+<div n="xe">{%d. node:%}</div> <div n="xs">{#पातः।#}</div>
 <LEND>

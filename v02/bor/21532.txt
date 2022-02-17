@@ -1,5 +1,5 @@
 <L>21532<pc>678<k1>stone<k2>stone
-<div n="lb"/>{@STONE@}¦ (v.): <div n="xe">{%s. to death:%}</div> <div n="xs">{#उपलघातं हन्ति#}</div> ({#हन्,#} c.
-<div n="lb"/>2. after {#लोष्टघातं हन्ति,#} Mu.): v. To kill,
-<div n="lb"/>beat.
+{@STONE@}¦ (v.): <div n="xe">{%s. to death:%}</div> <div n="xs">{#उपलघातं हन्ति#}</div> ({#हन्,#} c.
+2. after {#लोष्टघातं हन्ति,#} Mu.): v. To kill,
+beat.
 <LEND>

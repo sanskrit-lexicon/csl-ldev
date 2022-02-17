@@ -1,8 +1,8 @@
 <L>22337<pc>704<k1>tenth<k2>tenth
-<div n="lb"/>{@TENTH:@}¦ <div n="I">I Adj.: {#दशमः#} ({#मी, मं#}), <div n="xe">{%t. (in descent)%}
-<div n="lb"/>{%from Prajāpati:%}</div> <div n="xs">{#दशमः प्रजापतेः।#}</div> Mah. i. 70. 1.;
-<div n="lb"/><div n="xe">{%Hundred and t.:%}</div> <div n="xs">{#दशाधिकशततमः#}</div> ({#मी, मं#}). </div><div n="I">II
-<div n="lb"/>Subs.: </div><div n="1">(1) {#दशमः,#} <div n="xe">{%a t. was collected by (her)%}
-<div n="lb"/>{%lover:%}</div> <div n="xs">{#दशमकः संगृहीतः प्रियेण,#}</div> Li. 24.; </div><div n="1">(2) {#दशमांशः;#}</div>
-<div n="lb"/><div n="1">(3) {#दशांशः।#}</div>
+{@TENTH:@}¦ <div n="I">I Adj.: {#दशमः#} ({#मी, मं#}), <div n="xe">{%t. (in descent)%}
+{%from Prajāpati:%}</div> <div n="xs">{#दशमः प्रजापतेः।#}</div> Mah. i. 70. 1.;
+<div n="xe">{%Hundred and t.:%}</div> <div n="xs">{#दशाधिकशततमः#}</div> ({#मी, मं#}). </div><div n="I">II
+Subs.: </div><div n="1">(1) {#दशमः,#} <div n="xe">{%a t. was collected by (her)%}
+{%lover:%}</div> <div n="xs">{#दशमकः संगृहीतः प्रियेण,#}</div> Li. 24.; </div><div n="1">(2) {#दशमांशः;#}</div>
+<div n="1">(3) {#दशांशः।#}</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>4121<pc>134<k1>commentary<k2>commentary
-<div n="lb"/>{@COMMENTARY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#व्याख्या;#} </div><div n="1">(2) {#वृत्तिः,#}
-<div n="lb"/><div n="xe">{%c. on Manu:%}</div> <div n="xs">{#मनुवृत्तिः,#}</div> K. b.; </div><div n="1">(3) {#टीका,#} <div n="xe">{%Rāmā-%}
-<div n="lb"/>{%yaṇa with its c.:%}</div> <div n="xs">{#सटीकं रामायणम्;#}</div> </div><div n="1">(4) {#भाष्यम्#} (=c.
-<div n="lb"/>on aphorisms). </div><div n="I">II Criticism: q. v. Ph.: <div n="xe">{%c. s.%}
-<div n="lb"/>{%of Caesar.:%}</div> <div n="xs">{#*किंशूरव्याख्यानम्।#}</div></div>
+{@COMMENTARY:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#व्याख्या;#} </div><div n="1">(2) {#वृत्तिः,#}
+<div n="xe">{%c. on Manu:%}</div> <div n="xs">{#मनुवृत्तिः,#}</div> K. b.; </div><div n="1">(3) {#टीका,#} <div n="xe">{%Rāmā-%}
+{%yaṇa with its c.:%}</div> <div n="xs">{#सटीकं रामायणम्;#}</div> </div><div n="1">(4) {#भाष्यम्#} (=c.
+on aphorisms). </div><div n="I">II Criticism: q. v. Ph.: <div n="xe">{%c. s.%}
+{%of Caesar.:%}</div> <div n="xs">{#*किंशूरव्याख्यानम्।#}</div></div>
 <LEND>

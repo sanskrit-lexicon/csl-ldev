@@ -13,8 +13,8 @@
 <ls n="ṚV.">4, 41, 17.</ls> {#मनस्#} 
 <ls>VS. 2, 24.</ls> 
 <ls>AIT. BR. 7, 33.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 38, 17.</ls> {#मति#} 
+
+<ls>R. GORR. 1, 38, 17.</ls> {#मति#} 
 <ls>ṚV. 10, 67, 9.</ls> 
 <ls>MĀRK. P. 118, 15.</ls> {#मन्यु#} 
 <ls>AV. 6, 116, 3.</ls> {#नियुत्#} 
@@ -91,19 +91,19 @@ u.s.w.) übergegangen, dessen Hauptbezeichnung dieses Wort wird.
 <ls>VS. 3, 63</ls>; vgl. 
 <ls>16, 41.</ls> <is>Paśupati</is> 
 <ls>ĀŚV. GṚHY. 2, 2, 2. 4, 8, 19.</ls> {#तद्विषम् । प्राग्रसल्लोकरक्षार्थं ब्रह्मणो वचनाच्छिवः#} 
-<ls>MBH. 1, 1153. 3, 11914.</ls> {#शिवमिच्छन्मनुष्याणां तस्मादेव शिवः स्मृतः#} 
+<ls>MBH. 1, 1153.</ls> <ls n="MBH.">3, 11914.</ls> {#शिवमिच्छन्मनुष्याणां तस्मादेव शिवः स्मृतः#} 
 <ls>7, 9622.</ls> {#पशूनामीश्वरः शिवः#} 
 <ls>14, 1178.</ls> {#°स्मरण#} 
 <ls>Spr. 2984.</ls> 
 <ls>VP. 62. 596.</ls> 
 <ls>BHĀG. P. 1, 9, 19. 3, 12, 12. 4, 2, 15. 4, 14. 8, 7, 29.</ls> 
 <ls>SARVADARŚANAS. 81, 12. 84, 9. 86, 9. 88, 20. 103, 19.</ls> {#शिव शिव शिवेति प्रलपतः#} 
-<ls>Spr. (II) 844. 5046.</ls> 
+<ls>Spr. (II) 844.</ls> <ls n="Spr. (II)">5046.</ls> 
 <ls>DHŪRTAS. 80, 16. 95, 15.</ls> {#शिवस्य धारणयन्त्रम्#} 
 <ls>Verz. d. Oxf. H. 96,b,8.</ls> {#°पूजा#} 
 <ls>45,a,23. 85,a,42. 273,b,24.</ls> {#°कवच#} 
 <ls>26,a,37. 74,b,9. 94,a,39.</ls> {#°मन्त्र#} 
-<ls>Spr. 3009.</ls> <ls>Verz. d. Oxf. H. 93</ls>, {%b%}, 
+<ls>Spr. 3009.</ls> <ls>Verz. d. Oxf. H. 93,b,</ls> 
 <ls>11. 106,a,24.fg.</ls> {#°यन्त्र#} 
 <ls>94,b, 13. fg.</ls> {#°स्तोत्र#} 
 <ls>a,39.</ls> {#°चक्र#} 
@@ -116,7 +116,7 @@ zu <ls>P. 2, 4, 14.</ls> {#°शक्त्योः समायोगः#}
 <ls>WEBER, KṚṢṆAJ. 243.</ls> <is>Śiva</is> als Autor 
 <ls>HALL 13. fg. 124.</ls> {#शिवौ#} du. <is>Śiva</is> {%und seine Gattin%} 
 <ls>KIR. 5, 40.</ls> 
-<ls>RĀJA-TAR. 5, 37.</ls> <ls>Verz. d. Oxf. H. 64</ls>, {%a%}, 
+<ls>RĀJA-TAR. 5, 37.</ls> <ls>Verz. d. Oxf. H. 64,a,</ls> 
 <ls>19. fg. 24.</ls> 
 <div n="2">— c) {%ein secundärer%} <is>Śiva</is> bei den <is>Śaiva</is> so v. a. {%ein Erlöster mit übernatürlicher Macht%}: {#मुक्तात्मानो ऽपि शिवाः#} 
 <ls>SARVADARŚANAS. 85, 10. 84, 10.</ls> {#°पद#} 
@@ -143,7 +143,7 @@ zu <ls>P. 2, 4, 14.</ls> {#°शक्त्योः समायोगः#}
 <ls>MED.</ls> {#बालक#} st. dessen 
 <ls>H. an.</ls> 
 <div n="2">— l) = {#पुण्डरीक (द्रुम)#} 
-<ls>H.</ls><ls>an.</ls> <ls>MED.</ls>
+<ls>H. an.</ls> <ls>MED.</ls>
 [Page7-0202]
 
 <div n="2">— m) = {#कृष्णधुस्तूर#} 
@@ -168,7 +168,7 @@ zu <ls>P. 2, 4, 14.</ls> {#°शक्त्योः समायोगः#}
 <ls>Verz. d. B. H. No. 878.</ls> 
 <ls>Notices of Skt. Mss. 118.</ls> 
 <div n="2">— s) = {#शुक्र#} m., {#कालः#} und {#वसु#} 
-m. <ls>NĀNĀRTHADHVANIM.</ls> in <ls>Verz. d. Oxf. H. 194</ls>, {%a%}, 
+m. <ls>NĀNĀRTHADHVANIM.</ls> in <ls>Verz. d. Oxf. H. 194,a,</ls> 
 <ls>No. 445.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#शिवा#} 
 <div n="2"> a) <is>Śiva's</is> {%Energie%}, personif. als {%seine Gattin%} 
@@ -179,14 +179,14 @@ m. <ls>NĀNĀRTHADHVANIM.</ls> in <ls>Verz. d. Oxf. H. 194</ls>, {%a%},
 <ls>VAIJ.</ls> bei <ls>MALLIN.</ls> zu <ls>KIR. 1, 38</ls> ({#उमेति#} st. {#उभेति#} nach 
 <ls>STENZLER</ls> zu lesen). 
 <ls>Spr. (II) 5033, v. l.</ls> 
-<ls>KATHĀS. 78, 92.</ls> <ls>Verz. d. Oxf. H. 19</ls>, {%a%}, 
-<ls>5. 25</ls>, {%a%}, 
-<ls>33. 81</ls>, {%a%}, 
-<ls>?41. Inschr. in Journ. of the Am. Or. S. 6, 506, Śl. 23.</ls> Gattin <is>Śiva's</is> in seiner Form als <is>Īśāna</is> 
+<ls>KATHĀS. 78, 92.</ls> <ls>Verz. d. Oxf. H. 19,a,</ls> 
+<ls>5. 25,a,</ls> 
+<ls>33. 81,a,</ls> 
+<ls>41. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 6, 506, Śl. 23.</ls> Gattin <is>Śiva's</is> in seiner Form als <is>Īśāna</is> 
 <ls>VP. 59.</ls> bei den Buddhisten 
 <ls>TRIK. 1, 1, 18.</ls> <ls>WILSON, Sel. Works 2, 38.</ls> 
 <div n="2">— b) {%Schakal%} (ein Unglück verheissendes Thier, also euphemistisch so genannt) 
-<ls>AK.2,5,5.3,4,27,214.</ls> <ls>H. 1289.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 172.</ls> <ls>HALĀY.2,74.</ls> <ls>VAIJ.</ls> <ls>PĀR. GṚHY.3,15.</ls> <ls>MBH.1,4512.3,16823.</ls> <ls>HARIV. 4260.</ls> <ls>R.3,29,6.6,75,35.</ls> <ls>RAGH.7,47. 11,61. 12,39.</ls> <ls>KIR.1,38.</ls> <ls>VARĀH. BṚH. S. 30,30. 86,37. 90,3. fgg.</ls> <ls>KATHĀS. 25,135. 121,160. 124,108.</ls> <ls>MĀRK. P. 43,21.</ls> <ls>BHĀG. P.1,6,14. 14,12.3,17,9.5,2,16.8,10,11.</ls> <ls>Verz. d. Oxf. H. 51,b,16. 86,b,40.</ls> 
+<ls>AK.2 ,5,5.3,4,27,214.</ls> <ls>H. 1289.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 172.</ls> <ls>HALĀY. 2,74.</ls> <ls>VAIJ.</ls> <ls>PĀR. GṚHY. 3,15.</ls> <ls>MBH. 1, 4512.</ls> <ls n="MBH.">3, 16823.</ls> <ls>HARIV. 4260.</ls> <ls>R.3 ,29,6.6,75,35.</ls> <ls>RAGH. 7,47. 11,61. 12,39.</ls> <ls>KIR. 1,38.</ls> <ls>VARĀH. BṚH. S. 30,30. 86,37. 90,3. fgg.</ls> <ls>KATHĀS. 25,135. 121,160. 124,108.</ls> <ls>MĀRK. P. 43,21.</ls> <ls>BHĀG. P. 1,6,14. 14,12.3,17,9.5,2,16.8,10,11.</ls> <ls>Verz. d. Oxf. H. 51,b,16. 86,b,40.</ls> 
 <div n="2">— c) Bez. verschiedener Pflanzen: = {#शमी#} 
 <ls>AK. 2, 4, 2, 32.</ls> 
 <ls>H. an.</ls> 
@@ -212,7 +212,7 @@ m. <ls>NĀNĀRTHADHVANIM.</ls> in <ls>Verz. d. Oxf. H. 194</ls>, {%a%},
 <ls>RATNAM. 99.</ls> 
 <div n="2">— e) {%ein best. gelbes Pigment%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— f) {%ein best Metrum: 2 Mal%} ˘ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯, ¯ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯  
+<div n="2">— f) {%ein best Metrum: 2 Mal%} ˘ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯, ¯ ¯ ˘ ¯ ¯ ˘ ˘ ¯ ˘ ¯ ¯ 
 <ls>Journ. of the Am. Or. S. 6, 514.</ls> 
 <div n="2">— g) N. pr. der Gattin des <is>Anila</is> 
 <ls>MBH. 1, 2589.</ls> 
@@ -222,7 +222,7 @@ m. <ls>NĀNĀRTHADHVANIM.</ls> in <ls>Verz. d. Oxf. H. 194</ls>, {%a%},
 <ls>H. 40.</ls> der Mutter <is>Rudrabhaṭṭa's</is> 
 <ls>Verz. d. Oxf. H. 318,a, N. 1</ls> (vgl. u. {#चिरज#} in den Nachträgen). 
 <div n="2">— h) N. pr. eines Flusses 
-<ls>VAIJ. a. a. O.</ls> <ls>MBH. 6, 332</ls> <ls>?(VP. 183). HARIV. 9506.</ls> 
+<ls>VAIJ. a. a. O.</ls> <ls>MBH. 6, 332</ls> (<ls>VP. 183</ls>). <ls>HARIV. 9506.</ls> 
 <div n="1">— 4) <lex>f.</lex> {#शिवी = शिवा#} <is>Śiva's</is> {%Gattin%} 
 <ls>H. 204, Schol.</ls> 
 <div n="1">— 5) <lex>n.</lex> 
@@ -231,7 +231,7 @@ u.s.w. <ls>AK. 1, 1, 4, 3.</ls> <ls>TRIK. 1, 1, 113. 3, 3, 423.</ls> <ls>H. 86.<
 <ls>TBR. 3, 1, 2, 3.</ls> {#उपपन्नं ननु शिवं सप्तस्वङ्गेषु यस्य मे#} 
 <ls>RAGH. 1, 60.</ls> {#राज्ञः शिवं भूयात्#} 
 <ls>14, 50.</ls> {#ज्ञानं यत्र शिवं तत्र#} 
-<ls>Spr. (II) 2449. 4479.</ls> 
+<ls>Spr. (II) 2449.</ls> <ls n="Spr. (II)">4479.</ls> 
 <ls>VARĀH. BṚH. S. 4, 8. 5, 31. 23, 10. 24, 21. 32, 29.</ls> {#कृतघ्नानां शिवं कुतः#} 
 <ls>KATHĀS. 3, 44. 41, 57. 50, 116.</ls> 
 <ls>MĀRK. P. 118, 14. 19.</ls> 
@@ -254,9 +254,9 @@ u.s.w. <ls>AK. 1, 1, 4, 3.</ls> <ls>TRIK. 1, 1, 113. 3, 3, 423.</ls> <ls>H. 86.<
 <ls>ṚV. 7, 73, 4.</ls> 
 <ls>MBH. 3, 16901.</ls> 
 <ls>R. 2, 52, 81.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 79, 11. 3, 5, 22. 70, 21. 5, 92, 7.</ls> {#क्षयो ऽस्य वनवासस्य भविष्यति शिवेन मे#} {%zu meinem Glück%} 
-<ls>?2, 38, 42 (GORR.).</ls> {#शिवेनेक्षस्व माम्#} so v. a. {%mit Glück bringendem Auge%} 
+
+<ls>R. GORR. 1, 79, 11. 3, 5, 22. 70, 21. 5, 92, 7.</ls> {#क्षयो ऽस्य वनवासस्य भविष्यति शिवेन मे#} {%zu meinem Glück%} 
+<ls>2, 38, 42</ls> (<ls>GORR.</ls>). {#शिवेनेक्षस्व माम्#} so v. a. {%mit Glück bringendem Auge%} 
 <ls>6, 104, 35.</ls> {#शिवे/भिस्#} als adv. 
 <ls>VS. 27, 7.</ls> {#अ°#} (s. auch bes.) <lex>n.</lex> {%Unheil, Unglück%} 
 <ls>MBH. 1, 4512.</ls> 

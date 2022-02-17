@@ -1,6 +1,6 @@
 <L>4379<pc>142<k1>confident<k2>confident
-<div n="lb"/>{@CONFIDENT:@}¦ <div n="I">I Having confidence: {#विश्वासिन्#}
-<div n="lb"/>(f. {#नी#}). </div><div n="I">II Bold, impudent: q. v.: {#प्रगल्भः#}
-<div n="lb"/>({#ल्भा, ल्भं#}). <div n="xe">{%To be c. of:%}</div> <div n="xs">{#निश्चितः#}</div> ({#ता, तं#}) {#मन्यते,#}
-<div n="lb"/><div n="xe">{%is c. of victory:%}</div> <div n="xs">{#जयं निश्चितं मन्यते:#}</div> v. Certain.</div>
+{@CONFIDENT:@}¦ <div n="I">I Having confidence: {#विश्वासिन्#}
+(f. {#नी#}). </div><div n="I">II Bold, impudent: q. v.: {#प्रगल्भः#}
+({#ल्भा, ल्भं#}). <div n="xe">{%To be c. of:%}</div> <div n="xs">{#निश्चितः#}</div> ({#ता, तं#}) {#मन्यते,#}
+<div n="xe">{%is c. of victory:%}</div> <div n="xs">{#जयं निश्चितं मन्यते:#}</div> v. Certain.</div>
 <LEND>

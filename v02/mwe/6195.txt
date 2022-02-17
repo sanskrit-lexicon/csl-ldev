@@ -1,5 +1,5 @@
 <L>6195<pc>139-a<k1>cost<k2>cost
-<div n="lb"/>COST¦, {%s.%} (Price) {#मूल्यं, अर्घः#}. — (Expense) {#व्ययः;#} ‘high cost,’ {#दुर्मूल्यं,#}
-<div n="lb"/>{#बहुमूल्यं, माहार्ध्यं;#} ‘little cost,’ {#अल्पमूल्यं, अल्पव्ययः;#} ‘at the
-<div n="lb"/>cost of life,’ {#प्राणव्ययेन;#} ‘at the cost of a large sum,’ {#बहुधनव्ययेन#}.
+COST¦, {%s.%} (Price) {#मूल्यं, अर्घः#}. — (Expense) {#व्ययः;#} ‘high cost,’ {#दुर्मूल्यं,#}
+{#बहुमूल्यं, माहार्ध्यं;#} ‘little cost,’ {#अल्पमूल्यं, अल्पव्ययः;#} ‘at the
+cost of life,’ {#प्राणव्ययेन;#} ‘at the cost of a large sum,’ {#बहुधनव्ययेन#}.
 <LEND>

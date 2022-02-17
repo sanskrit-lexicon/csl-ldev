@@ -1,5 +1,5 @@
 <L>16938<pc>519<k1>phenomenon<k2>phenomenon
-<div n="lb"/>{@PHENOMENON:@}¦ <div n="1">(1) gen. by {#विषयः#} (subject)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#वस्तु#}</div> (n. =thing); </div><div n="1">(2) {#उत्पातः#} (extraordi-
-<div n="lb"/>-nary p., portent).</div>
+{@PHENOMENON:@}¦ <div n="1">(1) gen. by {#विषयः#} (subject)
+<div n="xe">{%or%}</div> <div n="xs">{#वस्तु#}</div> (n. =thing); </div><div n="1">(2) {#उत्पातः#} (extraordi-
+-nary p., portent).</div>
 <LEND>

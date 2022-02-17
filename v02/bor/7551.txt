@@ -1,22 +1,22 @@
 <L>7551<pc>238<k1>end<k2>end
-<div n="lb"/>{@END@}¦ (subs.): <div n="I">I Extreme point: {#अन्तः,#} (rarely
-<div n="lb"/>{#पर्यन्तः, प्रान्तः, उपान्तः#}) {%at the e. of the journey:%}
-<div n="lb"/>{#अध्वनोऽन्ते,#} R. xvi. 35.; {%e. of a martle:%}
-<div n="lb"/>{#अंशुकान्तः,#} J. </div><div n="I">II Termination: </div><div n="1">(1) {#अन्तः#} {%or%}
-<div n="lb"/>{#पर्यन्तः,#} <div n="xe">{%at the e. of the year:%}</div> <div n="xs">{#संवत्सरान्ते,#}</div> Mat.;
-<div n="lb"/><div n="xe">{%distressing in the e.:%}</div> <div n="xs">{#पर्यन्तपरितापिन्#}</div> (f. {#नी#}), Ki.;</div>
-<div n="lb"/><div n="1">(2) {#अवसानम्,#} <div n="xe">{%at the e. of the day:%}</div> <div n="xs">{#दिनावसाने,#}</div>
-<div n="lb"/>Sa.; </div><div n="1">(3) {#परिणामः#} <div n="xe">{%or%}</div> <div n="xs">{#परिणतिः,#}</div> {%pleasing in the e.:%}
-<div n="lb"/>{#परिणामसुखः#} ({#खा, खं#}), Ki. </div><div n="I">III Conclusion:</div>
-<div n="lb"/><div n="1">(1) {#अन्तः,#} <div n="xe">{%at the e. of the sacrifice:%}</div> <div n="xs">{#सत्रान्ते,#}</div> R.;</div>
-<div n="lb"/><div n="1">(2) {#अवसानम्,#} <div n="xe">{%at the beginning, middle or e.:%}</div> <div n="xs">{#आदौ #}
-<div n="lb"/>{# मध्येऽवसाने वा,#}</div> N.s. Ph.: <div n="xe">{%put an e. to:%}</div> <div n="xs">{#समापयति#}</div>
-<div n="lb"/>(c. of {#आप्#}), Vi. </div><div n="I">IV Death, destruction:
-<div n="lb"/>q. v.: </div><div n="1">(1) {#अन्तः,#} <div n="xe">{%will surely meet his e.:%}</div> <div n="xs">{#अन्त-#}
-<div n="lb"/>{#मवाप्स्यति ध्रुवम्,#}</div> Ku. xv. 42.; </div><div n="1">(2) {#अवसानम्,#} <div n="xe">{%at%}
-<div n="lb"/>{%the e. of the head-man:%}</div> <div n="xs">{#मूलपुरुषावसाने,#}</div> Sa. </div><div n="I">V
-<div n="lb"/>Aim, object: q. v.: {#आशयः।#} Ph.: {%to no e.:%}
-<div n="lb"/>{#निरर्थकम्;#} <div n="xe">{%to the e. that%}</div> <div n="xs">{#॥॥॥॥एतदभिप्रायकः#}</div> ({#का, #}
-<div n="lb"/>{# कं#}). </div><div n="I">VI Remnant: {#अन्तः,#} <div n="xe">{%in the morning, giving%}
-<div n="lb"/>{%its e. s to the servants:%}</div> <div n="xs">{#प्रत्यूषे तदन्तं कर्मकरान् दत्त्वा,#}</div> P.</div>
+{@END@}¦ (subs.): <div n="I">I Extreme point: {#अन्तः,#} (rarely
+{#पर्यन्तः, प्रान्तः, उपान्तः#}) {%at the e. of the journey:%}
+{#अध्वनोऽन्ते,#} R. xvi. 35.; {%e. of a martle:%}
+{#अंशुकान्तः,#} J. </div><div n="I">II Termination: </div><div n="1">(1) {#अन्तः#} {%or%}
+{#पर्यन्तः,#} <div n="xe">{%at the e. of the year:%}</div> <div n="xs">{#संवत्सरान्ते,#}</div> Mat.;
+<div n="xe">{%distressing in the e.:%}</div> <div n="xs">{#पर्यन्तपरितापिन्#}</div> (f. {#नी#}), Ki.;</div>
+<div n="1">(2) {#अवसानम्,#} <div n="xe">{%at the e. of the day:%}</div> <div n="xs">{#दिनावसाने,#}</div>
+Sa.; </div><div n="1">(3) {#परिणामः#} <div n="xe">{%or%}</div> <div n="xs">{#परिणतिः,#}</div> {%pleasing in the e.:%}
+{#परिणामसुखः#} ({#खा, खं#}), Ki. </div><div n="I">III Conclusion:</div>
+<div n="1">(1) {#अन्तः,#} <div n="xe">{%at the e. of the sacrifice:%}</div> <div n="xs">{#सत्रान्ते,#}</div> R.;</div>
+<div n="1">(2) {#अवसानम्,#} <div n="xe">{%at the beginning, middle or e.:%}</div> <div n="xs">{#आदौ #}
+{# मध्येऽवसाने वा,#}</div> N.s. Ph.: <div n="xe">{%put an e. to:%}</div> <div n="xs">{#समापयति#}</div>
+(c. of {#आप्#}), Vi. </div><div n="I">IV Death, destruction:
+q. v.: </div><div n="1">(1) {#अन्तः,#} <div n="xe">{%will surely meet his e.:%}</div> <div n="xs">{#अन्त-#}
+{#मवाप्स्यति ध्रुवम्,#}</div> Ku. xv. 42.; </div><div n="1">(2) {#अवसानम्,#} <div n="xe">{%at%}
+{%the e. of the head-man:%}</div> <div n="xs">{#मूलपुरुषावसाने,#}</div> Sa. </div><div n="I">V
+Aim, object: q. v.: {#आशयः।#} Ph.: {%to no e.:%}
+{#निरर्थकम्;#} <div n="xe">{%to the e. that%}</div> <div n="xs">{#॥॥॥॥एतदभिप्रायकः#}</div> ({#का, #}
+{# कं#}). </div><div n="I">VI Remnant: {#अन्तः,#} <div n="xe">{%in the morning, giving%}
+{%its e. s to the servants:%}</div> <div n="xs">{#प्रत्यूषे तदन्तं कर्मकरान् दत्त्वा,#}</div> P.</div>
 <LEND>

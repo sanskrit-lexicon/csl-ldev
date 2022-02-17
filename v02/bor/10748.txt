@@ -1,5 +1,5 @@
 <L>10748<pc>338<k1>heal<k2>heal
-<div n="lb"/>{@HEAL@}¦ (v.t.): <div n="I">I Lit.: v. To cure. </div><div n="I">II Fig.:
-<div n="lb"/>{#मार्ष्टि#} <div n="xe">{%or%}</div> <div n="xs">{#मार्जयति, प्र-,#}</div> ({#मृज्,#} c. 2. and 10): v.
-<div n="lb"/>To reconcile, clean, wash.</div>
+{@HEAL@}¦ (v.t.): <div n="I">I Lit.: v. To cure. </div><div n="I">II Fig.:
+{#मार्ष्टि#} <div n="xe">{%or%}</div> <div n="xs">{#मार्जयति, प्र-,#}</div> ({#मृज्,#} c. 2. and 10): v.
+To reconcile, clean, wash.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>10639<pc>255-a<k1>faction<k2>faction
-<div n="lb"/>FACTION¦, {%s.%} (A party) {#पक्षः, शाखा, गणः, दलं;#} ‘one of the oppo-
-<div n="lb"/>site faction,’ {#विपक्षः;#} ‘one's own faction,’ {#आत्मपक्षः;#} ‘fol-
-<div n="lb"/>lowing a faction,’ {#पक्षपातः -तिता, पक्षपातकृतस्नेहः, गणता#}. — 
-<div n="lb"/>(Political dissension) {#भेदः, द्वैधं, द्वन्द्वं, विरोधः, राजद्रोहः#}.
+FACTION¦, {%s.%} (A party) {#पक्षः, शाखा, गणः, दलं;#} ‘one of the oppo-
+site faction,’ {#विपक्षः;#} ‘one's own faction,’ {#आत्मपक्षः;#} ‘fol-
+lowing a faction,’ {#पक्षपातः -तिता, पक्षपातकृतस्नेहः, गणता#}. — 
+(Political dissension) {#भेदः, द्वैधं, द्वन्द्वं, विरोधः, राजद्रोहः#}.
 <LEND>

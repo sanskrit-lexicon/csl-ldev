@@ -1,14 +1,14 @@
 <L>19813<pc>616<k1>scale<k2>scale
-<div n="lb"/>{@SCALE@}¦ (subs.): <div n="I">I In pl.- a balance: q. v.:
-<div n="lb"/>{#तुला:#} <div n="xe">{%the fulcrum:%}</div> <div n="xs">{#धटः,#}</div> Mit. </div><div n="I">II Its dish:</div>
-<div n="lb"/><div n="1">(1) {#शिक्यम्#} (= loop), <div n="xe">{%to put in the s.:%}</div> <div n="xs">{#शिक्यम् #}
-<div n="lb"/>{# आरोपयति,#}</div> V. s.; </div><div n="1">(2) {#पार्श्वः#} (= side), Mit.</div>
-<div n="lb"/><div n="I">III In astro.: {#तुला,#} </div><div n="I">IV Of fishes: </div><div n="1">(1)
-<div n="lb"/>{#शल्कम्, -लम्;#} </div><div n="1">(2) {#वल्कम्, -लम्।#} </div><div n="I">V Of serpents:
-<div n="lb"/>{#मण्डलम्#} (= circular spot), Sr. </div><div n="I">VI Of metal
-<div n="lb"/>etc: {#पत्रम्#} (= leaf); {#फलकम्#} (= plate). </div><div n="I">VII
-<div n="lb"/>A ladder: q. v.: {#सोपानम्।#} </div><div n="I">VIII In music:
-<div n="lb"/>{#ग्रामः,#} Si. i. 10. </div><div n="I">IX A basis: </div><div n="1">(1) Often by
-<div n="lb"/>{#मूलम्#} (= root); </div><div n="1">(2) {#परिमाणम्#} <div n="xe">{%or%}</div> <div n="xs">{#प्रमाणम्#}</div> (= mea-
-<div n="lb"/>-sure). Ph.: <div n="xe">{%on a small s.:%}</div> <div n="xs">{#अल्पपरिमाणम्।#}</div></div>
+{@SCALE@}¦ (subs.): <div n="I">I In pl.- a balance: q. v.:
+{#तुला:#} <div n="xe">{%the fulcrum:%}</div> <div n="xs">{#धटः,#}</div> Mit. </div><div n="I">II Its dish:</div>
+<div n="1">(1) {#शिक्यम्#} (= loop), <div n="xe">{%to put in the s.:%}</div> <div n="xs">{#शिक्यम् #}
+{# आरोपयति,#}</div> V. s.; </div><div n="1">(2) {#पार्श्वः#} (= side), Mit.</div>
+<div n="I">III In astro.: {#तुला,#} </div><div n="I">IV Of fishes: </div><div n="1">(1)
+{#शल्कम्, -लम्;#} </div><div n="1">(2) {#वल्कम्, -लम्।#} </div><div n="I">V Of serpents:
+{#मण्डलम्#} (= circular spot), Sr. </div><div n="I">VI Of metal
+etc: {#पत्रम्#} (= leaf); {#फलकम्#} (= plate). </div><div n="I">VII
+A ladder: q. v.: {#सोपानम्।#} </div><div n="I">VIII In music:
+{#ग्रामः,#} Si. i. 10. </div><div n="I">IX A basis: </div><div n="1">(1) Often by
+{#मूलम्#} (= root); </div><div n="1">(2) {#परिमाणम्#} <div n="xe">{%or%}</div> <div n="xs">{#प्रमाणम्#}</div> (= mea-
+-sure). Ph.: <div n="xe">{%on a small s.:%}</div> <div n="xs">{#अल्पपरिमाणम्।#}</div></div>
 <LEND>

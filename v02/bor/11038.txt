@@ -1,9 +1,9 @@
 <L>11038<pc>347<k1>hit<k2>hit
-<div n="lb"/>{@HIT@}¦ (v.): <div n="I">I To strike: {#प्रहरति#} ({#हृ,#} c. 1.),
-<div n="lb"/><div n="xe">{%look, you are to h. this mark now:%}</div> <div n="xs">{#त्वयेदानीं प्रहर्तव्य-#}
-<div n="lb"/>{#मेतल्लक्ष्यं विलोक्यताम्,#}</div> Mah. i. 131. I. </div><div n="I">II. To h.
-<div n="lb"/>on or upon, i.e. to come by chance: expr.
-<div n="lb"/>by {#लभते#} ({#लभ्,#} c. 1.): v. To get. </div><div n="I">III To
-<div n="lb"/>h. off, i.e. to describe with h. s: perh.
-<div n="lb"/>{#विवृणोति#} ({#वृ,#} c. 5.) (= to expose).</div>
+{@HIT@}¦ (v.): <div n="I">I To strike: {#प्रहरति#} ({#हृ,#} c. 1.),
+<div n="xe">{%look, you are to h. this mark now:%}</div> <div n="xs">{#त्वयेदानीं प्रहर्तव्य-#}
+{#मेतल्लक्ष्यं विलोक्यताम्,#}</div> Mah. i. 131. I. </div><div n="I">II. To h.
+on or upon, i.e. to come by chance: expr.
+by {#लभते#} ({#लभ्,#} c. 1.): v. To get. </div><div n="I">III To
+h. off, i.e. to describe with h. s: perh.
+{#विवृणोति#} ({#वृ,#} c. 5.) (= to expose).</div>
 <LEND>

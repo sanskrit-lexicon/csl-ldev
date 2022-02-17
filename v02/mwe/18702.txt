@@ -1,19 +1,19 @@
 <L>18702<pc>481-b<k1>mansion<k2>mansion
-<div n="lb"/>MANSION¦, {%s.%} {#हर्म्यं, भवनं, मन्दिरं, धाम#} {%n.%} {#(न्), सदनं, सौधं, शाला, सद्म#} {%n.%}
-<div n="lb"/>{#(न्), गृहं, गेहं, वेश्म#} {%n.%} {#(न्), निवेशनं, निकेतनं, आयतनं, वासस्थानं,#}
-<div n="lb"/>{#निवासस्थानं, आलयः, निलयः, निवसतिः#} {%f.%} — (Lunar mansion)
-<div n="lb"/>{#नक्षत्रं, विधुप्रिया, चन्द्रप्रिया, दक्षजा, चन्द्रदाराः#} {%pl.%} The last of
-<div n="lb"/>these words is applied to the twenty-seven lunar man-
-<div n="lb"/>sions collectively, as in mythology they are supposed
-<div n="lb"/>to be so many nymphs, daughters of Daksha, and wedded
-<div n="lb"/>to the moon. The following are the names of the twenty-
-<div n="lb"/>seven {%nakshatras%} in order: 1. {#अश्विनी,#} 2. {#भरणी,#} 3. {#कृत्तिका,#}
-<div n="lb"/>4. {#रोहिणी,#} 5. {#मृगशिरस्#} {%n.,%} 6. {#आर्द्रा,#} 7. {#पुनर्वसुः#} {%m.,%} 8. {#पुष्यः -ष्या,#}
-<div n="lb"/>9. {#आश्लेषा,#} 10. {#मघा,#} 11. {#पूर्व्वफाल्गुनी,#} 12. {#उत्तरफाल्गुनी,#} 13. {#हस्तः,#}
-<div n="lb"/>14. {#चित्रा,#} 15. {#स्वातिः -ती#} {%f.,%} 16. {#विशाखा,#} 17. {#अनुराधा,#} 18. {#ज्येष्ठा,#}
-<div n="lb"/>19. {#मूलः -लं,#} 20. {#पूर्व्वाषाढा,#} 21. {#उत्तराषाढा,#} 22. {#श्रवणः -णा,#} 23. {#धनिष्ठा,#}
-<div n="lb"/>24. {#शतभिषा,#} 25. {#पूर्व्वभाद्रपदा,#} 26. {#उत्तरभाद्रपदा,#} 27. {#रेवती#}. Some
-<div n="lb"/>add a twenty-eighth, {#अभिजित्#}. Astrologers divide the
-<div n="lb"/>twenty-seven lunar mansions into three classes of nine
-<div n="lb"/>each, called {#देवगणः, राक्षसगणः, मनुष्यगणः#}.
+MANSION¦, {%s.%} {#हर्म्यं, भवनं, मन्दिरं, धाम#} {%n.%} {#(न्), सदनं, सौधं, शाला, सद्म#} {%n.%}
+{#(न्), गृहं, गेहं, वेश्म#} {%n.%} {#(न्), निवेशनं, निकेतनं, आयतनं, वासस्थानं,#}
+{#निवासस्थानं, आलयः, निलयः, निवसतिः#} {%f.%} — (Lunar mansion)
+{#नक्षत्रं, विधुप्रिया, चन्द्रप्रिया, दक्षजा, चन्द्रदाराः#} {%pl.%} The last of
+these words is applied to the twenty-seven lunar man-
+sions collectively, as in mythology they are supposed
+to be so many nymphs, daughters of Daksha, and wedded
+to the moon. The following are the names of the twenty-
+seven {%nakshatras%} in order: 1. {#अश्विनी,#} 2. {#भरणी,#} 3. {#कृत्तिका,#}
+4. {#रोहिणी,#} 5. {#मृगशिरस्#} {%n.,%} 6. {#आर्द्रा,#} 7. {#पुनर्वसुः#} {%m.,%} 8. {#पुष्यः -ष्या,#}
+9. {#आश्लेषा,#} 10. {#मघा,#} 11. {#पूर्व्वफाल्गुनी,#} 12. {#उत्तरफाल्गुनी,#} 13. {#हस्तः,#}
+14. {#चित्रा,#} 15. {#स्वातिः -ती#} {%f.,%} 16. {#विशाखा,#} 17. {#अनुराधा,#} 18. {#ज्येष्ठा,#}
+19. {#मूलः -लं,#} 20. {#पूर्व्वाषाढा,#} 21. {#उत्तराषाढा,#} 22. {#श्रवणः -णा,#} 23. {#धनिष्ठा,#}
+24. {#शतभिषा,#} 25. {#पूर्व्वभाद्रपदा,#} 26. {#उत्तरभाद्रपदा,#} 27. {#रेवती#}. Some
+add a twenty-eighth, {#अभिजित्#}. Astrologers divide the
+twenty-seven lunar mansions into three classes of nine
+each, called {#देवगणः, राक्षसगणः, मनुष्यगणः#}.
 <LEND>

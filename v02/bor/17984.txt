@@ -1,5 +1,5 @@
 <L>17984<pc>551<k1>propitiousness<k2>propitiousness
-<div n="lb"/>{@PROPITIOUSNESS:@}¦ <div n="I">I Kindness: q. v.: {#प्रसादः।#}</div>
-<div n="lb"/><div n="I">II Auspiciousness: expr. by adj., <div n="xe">{%p. of%}
-<div n="lb"/>{%season:%}</div> <div n="xs">{#शुभतुः।#}</div></div>
+{@PROPITIOUSNESS:@}¦ <div n="I">I Kindness: q. v.: {#प्रसादः।#}</div>
+<div n="I">II Auspiciousness: expr. by adj., <div n="xe">{%p. of%}
+{%season:%}</div> <div n="xs">{#शुभतुः।#}</div></div>
 <LEND>

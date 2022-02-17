@@ -1,5 +1,5 @@
 <L>22633<pc>714<k1>toast<k2>toast
-<div n="lb"/>{@TOAST:@}¦ <div n="I">I Subs.: {#भृष्टं रोटिखण्डम्।#} </div><div n="I">II Verb.:
-<div n="lb"/>{#भृज्जति#} ({#भ्रस्ज्,#} c. 6.): v. To fry. Ph.: <div n="xe">{%to%}
-<div n="lb"/>{%drink a t.:%}</div> <div n="xs">{#*जलपानं करोति।#}</div></div>
+{@TOAST:@}¦ <div n="I">I Subs.: {#भृष्टं रोटिखण्डम्।#} </div><div n="I">II Verb.:
+{#भृज्जति#} ({#भ्रस्ज्,#} c. 6.): v. To fry. Ph.: <div n="xe">{%to%}
+{%drink a t.:%}</div> <div n="xs">{#*जलपानं करोति।#}</div></div>
 <LEND>

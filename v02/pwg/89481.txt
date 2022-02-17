@@ -8,7 +8,7 @@
 <div n="2"> a) {%zu sprechen, zu sagen, zu verkünden, mitzutheilen, zur Sprache zu bringen, zu besprechen%}: {#यथा वाच्यमृतं च तैः#} 
 <ls>M. 8, 61.</ls> {#इदं ते नातपस्काय वाच्यम्#} 
 <ls>BHAG. 18, 67.</ls> 
-<ls>MBH. 1, 7460. 4, 922.</ls> 
+<ls>MBH. 1, 7460.</ls> <ls n="MBH.">4, 922.</ls> 
 <ls>HARIV. 14403.</ls> 
 <ls>Spr. 439 (II). 1149.</ls> {#सान्त्व, परुष#} 
 <ls>4114.</ls> {#वचन#} 
@@ -24,18 +24,18 @@
 <ls>HARIV. 4695.</ls> <ls>WEBER, RĀMAT. UP. 288. 291. 336. 341.</ls> {#अ°#} {%was nicht in Worte zu fassen ist%} 
 <ls>MAITRYUP. 6, 7.</ls> {%was nicht gesagt werden sollte%} 
 <ls>BHAG. 2, 36.</ls> {#वाच्यावाच्ये हि कुपितो न प्रजानाति कर्हिचित्#} 
-<ls>MBH. 3, 1069. 12, 4220.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 63, 10. 3, 35, 73.</ls> 
+<ls>MBH. 3, 1069.</ls> <ls n="MBH.">12, 4220.</ls> 
+
+<ls>R. GORR. 2, 63, 10. 3, 35, 73.</ls> 
 <ls>KATHĀS. 59, 36.</ls> {#वाच्यम्#} impers. {%zu sagen, zu sprechen%} 
 <ls>YĀJÑ. 1, 238.</ls> 
-<ls>MBH. 1, 4630. 3, 254. 15787. 4, 1125.</ls> 
+<ls>MBH. 1, 4630.</ls> <ls n="MBH.">3, 254.</ls> <ls n="MBH. 3,">15787.</ls> <ls n="MBH.">4, 1125.</ls> 
 <ls>Spr. 2770.</ls> 
-<ls>VEDĀNTAS. (Allah.) No. 106.</ls> <ls>PAÑCAT. 97, 17. 236, 22.</ls> <ls>VET.</ls> in <ls>LA. 9, 7.</ls> <ls>SARVADARŚANAS. 45, 1. 82, 7. 167, 10.</ls> {#अवश्यं च मया वाच्यं लेशमात्रेण - विष्णोरतुलवीर्यस्य#} {%zu sprechen über%} 
+<ls>VEDĀNTAS. (Allah.) No. 106.</ls> <ls>PAÑCAT. 97, 17. 236, 22.</ls> <ls>VET. in LA. 9, 7.</ls> <ls>SARVADARŚANAS. 45, 1. 82, 7. 167, 10.</ls> {#अवश्यं च मया वाच्यं लेशमात्रेण - विष्णोरतुलवीर्यस्य#} {%zu sprechen über%} 
 <ls>HARIV. 9787.</ls> 
 <div n="2">— b) {%anzureden, zu dem man sagen —, - sprechen soll%}: {#आयुष्मान्भव सौम्येति वाच्यो विप्रो ऽभिवादने#} 
 <ls>M. 2, 125.</ls> {#अवाच्यो दीक्षितो नाम्ना#} 
-<ls>?128. BHAR. beim Schol. zu ŚĀK. 1.</ls> {#देवाश्च मुनयश्च भगवन्निति वाच्याः#} zu 
+<ls>128.</ls> <ls>BHAR. beim Schol.</ls> zu <ls>ŚĀK. 1.</ls> {#देवाश्च मुनयश्च भगवन्निति वाच्याः#} zu 
 <ls>52, 3. 22, 23.</ls> <ls>SĀH. D. 171, 13. 15. fg. 172, 11. fg. 15. 18.</ls> {#वाच्यश्च नन्दगोपः#} mit folgender oratio directa 
 <ls>HARIV. 4209.</ls> 
 <ls>RAGH. 14, 61.</ls> {#एवं वाच्यः सः#} 

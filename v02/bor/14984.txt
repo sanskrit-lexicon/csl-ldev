@@ -1,6 +1,6 @@
 <L>14984<pc>458<k1>mortar<k2>mortar
-<div n="lb"/>{@MORTAR:@}¦ <div n="I">I For pounding: {#उदूखलम्।#} </div><div n="I">II A
-<div n="lb"/>cement: {#इष्टकक्षोदलेपः#} and sim. expr. accord-
-<div n="lb"/>-ing to its composition. </div><div n="I">III A kind of can-
-<div n="lb"/>-non: {#*मुषलम्।#}</div>
+{@MORTAR:@}¦ <div n="I">I For pounding: {#उदूखलम्।#} </div><div n="I">II A
+cement: {#इष्टकक्षोदलेपः#} and sim. expr. accord-
+-ing to its composition. </div><div n="I">III A kind of can-
+-non: {#*मुषलम्।#}</div>
 <LEND>

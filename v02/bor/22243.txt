@@ -1,5 +1,5 @@
 <L>22243<pc>701<k1>taunt<k2>taunt
-<div n="lb"/>{@TAUNT:@}¦ <div n="I">I Verb: {#अधिक्षिपति#} ({#क्षिप्,#} c. 6.):
-<div n="lb"/>v. To censure, abuse. </div><div n="I">II Subs.: {#आक्षेपः:#}
-<div n="lb"/>v. Censure, abuse.</div>
+{@TAUNT:@}¦ <div n="I">I Verb: {#अधिक्षिपति#} ({#क्षिप्,#} c. 6.):
+v. To censure, abuse. </div><div n="I">II Subs.: {#आक्षेपः:#}
+v. Censure, abuse.</div>
 <LEND>

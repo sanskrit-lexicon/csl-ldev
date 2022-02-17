@@ -1,7 +1,7 @@
 <L>7709<pc>244<k1>envenom<k2>envenom
-<div n="lb"/>{@ENVENOM@}¦ (v.): <div n="I">I Lit.: {#विषेण लिम्पति#} ({#लिप्,#} c.
-<div n="lb"/>6.) <div n="xe">{%or%}</div> <div n="xs">{#देग्धि#}</div> ({#दिह्,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#अनक्ति#}</div> ({#ञ्ज्,#} c. 2.).</div>
-<div n="lb"/><div n="I">II Fig.: <div n="xe">{%e. ed glance:%}</div> <div n="xs">{#विषेण दिग्धः कटाक्षः,#}</div>
-<div n="lb"/>Ma.; <div n="xe">{%“e. ed tongue of calumny”:%}</div> <div n="xs">{#विषाक्ता #}
-<div n="lb"/>{# पिशुनजिह्वा।#}</div></div>
+{@ENVENOM@}¦ (v.): <div n="I">I Lit.: {#विषेण लिम्पति#} ({#लिप्,#} c.
+6.) <div n="xe">{%or%}</div> <div n="xs">{#देग्धि#}</div> ({#दिह्,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#अनक्ति#}</div> ({#ञ्ज्,#} c. 2.).</div>
+<div n="I">II Fig.: <div n="xe">{%e. ed glance:%}</div> <div n="xs">{#विषेण दिग्धः कटाक्षः,#}</div>
+Ma.; <div n="xe">{%“e. ed tongue of calumny”:%}</div> <div n="xs">{#विषाक्ता #}
+{# पिशुनजिह्वा।#}</div></div>
 <LEND>

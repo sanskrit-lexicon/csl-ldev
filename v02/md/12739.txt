@@ -1,10 +1,10 @@
 <L>12739<pc>193-1<k1>बलभद्र<k2>बलभद्र
 {#बलभद्र#}¦bala-bhadra, {%m.%} (excelling in 
-<>strength), {%N. of a divine being, later identified %}<lbinfo n="6"/>
-<>{% with%} Baladeva; {%N.%}; {@-bhid,@} {%m.%} destroyer 
-<>of Bala, {%ep. of%} Indra; {@-bhṛt@}, {%a.%} strong, powerful; <lbinfo n="5"/>
-<> {@-mukhya,@} {%m.%} leader of an army; {@-yukta,@} 
-<>{%pp.%} endowed with strength, powerful; {@-yuta,@} 
-<>{%pp. id.%}; {@-rāma,@} {%m.%} Rāma the Strong, {%N. of %}
-<>{%Kṛṣṇa's elder brother%}.
+strength), {%N. of a divine being, later identified %}<lbinfo n="6"/>
+{% with%} Baladeva; {%N.%}; {@-bhid,@} {%m.%} destroyer 
+of Bala, {%ep. of%} Indra; {@-bhṛt@}, {%a.%} strong, powerful; <lbinfo n="5"/>
+ {@-mukhya,@} {%m.%} leader of an army; {@-yukta,@} 
+{%pp.%} endowed with strength, powerful; {@-yuta,@} 
+{%pp. id.%}; {@-rāma,@} {%m.%} Rāma the Strong, {%N. of %}
+{%Kṛṣṇa's elder brother%}.
 <LEND>

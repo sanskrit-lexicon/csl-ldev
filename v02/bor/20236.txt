@@ -1,9 +1,9 @@
 <L>20236<pc>631<k1>set on<k2>set on
-<div n="lb"/>{@SET ON:@}¦ <div n="I">I To excite, instigate: q. v.: {#प्रव-#}
-<div n="lb"/>{#र्तयति#} (c. of {#वृत्#}). </div><div n="I">II To employ: <div n="xe">{%s. the%}
-<div n="lb"/>{%heart on:%}</div> <div n="xs">{#मनो बध्नाति#}</div> ({#बन्ध्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#अभि-#}
-<div n="lb"/>{#निवेशयति#}</div> (c. of {#विश्#}) (with loc.). Ph.: (a)
-<div n="lb"/><div n="xe">{%s. on fire:%}</div> <div n="xs">{#ज्वलयति#}</div> (c. of {#ज्वल्#}): v. Fire, set
-<div n="lb"/>on; (b) <div n="xe">{%s. on foot:%}</div> <div n="xs">{#प्रवर्तयति#}</div> (c. of {#वृत्#}): v.
-<div n="lb"/>Also to begin.</div>
+{@SET ON:@}¦ <div n="I">I To excite, instigate: q. v.: {#प्रव-#}
+{#र्तयति#} (c. of {#वृत्#}). </div><div n="I">II To employ: <div n="xe">{%s. the%}
+{%heart on:%}</div> <div n="xs">{#मनो बध्नाति#}</div> ({#बन्ध्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#अभि-#}
+{#निवेशयति#}</div> (c. of {#विश्#}) (with loc.). Ph.: (a)
+<div n="xe">{%s. on fire:%}</div> <div n="xs">{#ज्वलयति#}</div> (c. of {#ज्वल्#}): v. Fire, set
+on; (b) <div n="xe">{%s. on foot:%}</div> <div n="xs">{#प्रवर्तयति#}</div> (c. of {#वृत्#}): v.
+Also to begin.</div>
 <LEND>

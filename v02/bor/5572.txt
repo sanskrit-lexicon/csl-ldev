@@ -1,5 +1,5 @@
 <L>5572<pc>178<k1>decision<k2>decision
-<div n="lb"/>{@DECISION:@}¦ <div n="I">I Adjudication: {#निर्णयः,#} <div n="xe">{%d. of a%}
-<div n="lb"/>{%case:%}</div> <div n="xs">{#व्यवहारनिर्णयः,#}</div> K. b. </div><div n="I">II Firmness: q. v.:
-<div n="lb"/>{#स्थैर्यम्।#} <div n="xe">{%A man of d.:%}</div> <div n="xs">{#स्थिरधीः,#}</div> R.</div>
+{@DECISION:@}¦ <div n="I">I Adjudication: {#निर्णयः,#} <div n="xe">{%d. of a%}
+{%case:%}</div> <div n="xs">{#व्यवहारनिर्णयः,#}</div> K. b. </div><div n="I">II Firmness: q. v.:
+{#स्थैर्यम्।#} <div n="xe">{%A man of d.:%}</div> <div n="xs">{#स्थिरधीः,#}</div> R.</div>
 <LEND>

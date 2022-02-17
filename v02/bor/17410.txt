@@ -1,5 +1,5 @@
 <L>17410<pc>532<k1>pore<k2>pore
-<div n="lb"/>{@PORE@}¦ (subs.): <div n="I">I Of the skin: </div><div n="1">(1) {#रो(लो)मकूपः;#}</div>
-<div n="lb"/><div n="1">(2) {#लो(रो)मरन्ध्रम्।#} </div><div n="I">II In gen.: {#रन्ध्रम्,#} <div n="xe">{%through%}
-<div n="lb"/>{%p. s:%}</div> <div n="xs">{#रन्ध्रैः,#}</div> Vi. v. 2.</div>
+{@PORE@}¦ (subs.): <div n="I">I Of the skin: </div><div n="1">(1) {#रो(लो)मकूपः;#}</div>
+<div n="1">(2) {#लो(रो)मरन्ध्रम्।#} </div><div n="I">II In gen.: {#रन्ध्रम्,#} <div n="xe">{%through%}
+{%p. s:%}</div> <div n="xs">{#रन्ध्रैः,#}</div> Vi. v. 2.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>236947<pc>1178,3<k1>सम्भू<k2>सम्-भू<e>1
 <s>सम्-√ भू</s> ¦ <ab>P.</ab> <ab>Ā.</ab> <s>-भवति</s>, <s>°ते</s> (<ab>ind.p.</ab> <s>-भूय</s>, <ab>q.v.</ab>), to be or come together, assemble, meet, be joined or united with (<ab>instr.</ab> with or without <s>सह</s>, or <ab>loc.</ab>), <ls>RV.</ls> &c. &c.;
-<div n="to"/>to be united sexually with (<ab>instr.</ab> with or without <s>सह</s>, or <s>सा<srs/>र्धम्</s>, or <ab>acc.</ab>), <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.;
+<div n="to"/>to be united sexually with (<ab>instr.</ab> with or without <s>सह</s>, or <s>सा<स्र्स्/>र्धम्</s>, or <ab>acc.</ab>), <ls>AV.</ls>; <ls>ŚBr.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to be born or produced from (<ab>abl.</ab>), arise, spring up, develop, <ls>ib.</ls>;
 <div n="to"/>to happen, occur, be, be found, exist, <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to be possible, <ls>Hit.</ls>; <ls>Vedântas.</ls>;
@@ -11,7 +11,7 @@
 <div n="to"/>to enter into, partake of, attain to (<ab>acc.</ab>), <ls>Yājñ.</ls>;
 <div n="to"/>to find room in, be contained in or numbered among (<ab>loc.</ab>), <ls>RV.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to be adequate, <ls>MBh.</ls>;
-<div n="to"/>to be capable of holding, <ls>Pāṇ. 5-1, 52</ls> :
+<div n="to"/>to be capable of holding, <ls>Pāṇ. v, 1, 52</ls> :
 <div n="to"/><ab>Caus.</ab> <s>-भावयति</s>, to cause to be together, bring together, present or affect any one (<ab>acc.</ab>) with (<ab>instr.</ab>; with <s>दोषेण</s>, ‘to attach blame to’, with <s>अन्नेन</s>, ‘to give food to’), <ls>Kāv.</ls>; <ls>Kathās.</ls>; <ls>BhP.</ls> <pb n="1179,1"/>;
 <div n="to"/>to cause to be born or produced, effect, accomplish, make, <ls>AitBr.</ls>; <ls>MBh.</ls> &c.;
 <div n="to"/>to foster, cherish, <ls>MBh.</ls>;
@@ -21,8 +21,8 @@
 <div n="to"/>to receive or accept graciously, <ls>Pañcat.</ls>;
 <div n="to"/>to imply, suggest a possibility, suppose anything possible in any one (<ab>loc.</ab> or <ab>gen.</ab>), <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to regard or consider as (two <ab>acc.</ab>), <ls>Kālid.</ls>; <ls>Pañcat.</ls>;
-<div n="to"/>to think it possible that (<ab>Pot.</ab> with and without <s>यद्</s>, or <ab>fut.</ab>), <ls>Pāṇ. 3-3, 155</ls> <ab>Sch.</ab>;
-<div n="to"/> (with <s>न</s>) to think it impossible that (<ab>Pot.</ab> with and without <s>यद्</s>, <s>यच्च</s>, <s>यत्र</s>, <s>यदा</s>, <s>यदि</s>, or <s>जातु</s>; <ab>fut.</ab> with and without <s>किं किल</s>), <ls>Pāṇ. 3-3, 145</ls> &c. <ab>Sch.</ab>;
+<div n="to"/>to think it possible that (<ab>Pot.</ab> with and without <s>यद्</s>, or <ab>fut.</ab>), <ls>Pāṇ. iii, 3, 155</ls> <ab>Sch.</ab>;
+<div n="to"/> (with <s>न</s>) to think it impossible that (<ab>Pot.</ab> with and without <s>यद्</s>, <s>यच्च</s>, <s>यत्र</s>, <s>यदा</s>, <s>यदि</s>, or <s>जातु</s>; <ab>fut.</ab> with and without <s>किं किल</s>), <ls>Pāṇ. iii, 3, 145</ls> &c. <ab>Sch.</ab>;
 <div n="to"/> (<ab>Ā.</ab>) to reach, arrive at (<ab>acc.</ab>), <ls>Pat.</ls> :
 <div n="to"/><ab>Pass.</ab> of <ab>Caus.</ab> <s>-भाव्यते</s>, to be brought about or together &c. (See above);
 <div n="to"/>to be (thought) possible or probable or fitting or consistent, <ls>Mṛcch.</ls>; <ls>Kālid.</ls> &c.:

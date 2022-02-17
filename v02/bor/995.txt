@@ -1,7 +1,7 @@
 <L>995<pc>035<k1>apron<k2>apron
-<div n="lb"/>{@APRON:@}¦ <div n="I">I An article of dress: {#युतकम्।#} (?)</div>
-<div n="lb"/><div n="I">II A covering for the legs: {#*चर्ममयः जङ्घा-#}
-<div n="lb"/>{#प्रच्छदः, जङ्धात्राणम्।#} </div><div n="I">III A piece of lead to
-<div n="lb"/>cover the vent of a cannon: no equiv.
-<div n="lb"/>{#पिधानम्#} (=covering) may be used.</div>
+{@APRON:@}¦ <div n="I">I An article of dress: {#युतकम्।#} (?)</div>
+<div n="I">II A covering for the legs: {#*चर्ममयः जङ्घा-#}
+{#प्रच्छदः, जङ्धात्राणम्।#} </div><div n="I">III A piece of lead to
+cover the vent of a cannon: no equiv.
+{#पिधानम्#} (=covering) may be used.</div>
 <LEND>

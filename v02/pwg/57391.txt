@@ -3,12 +3,12 @@
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%gedankenschnell%}: die Rosse der <is>Aśvin</is> 
 <ls>ṚV. 6, 62, 3.</ls> {#तुरग#} 
-<ls>MBH. 1, 1148. 3, 2290.</ls> 
+<ls>MBH. 1, 1148.</ls> <ls n="MBH.">3, 2290.</ls> 
 <ls>KĀM. NĪTIS. 16, 8.</ls> <ls>MĀRK. P. 21, 8.</ls> {#विमानं हंसयुक्तम्#} 
 <ls>MBH. 13, 869.</ls> {#स्यन्दन#} 
 <ls>R. 2, 82, 25.</ls> {#गति#} 
 <ls>R. GORR. 1, 77, 48.</ls> {#अहस्सु विहरानेन यथाकामं मनोजवा#} 
-<ls>MBH. 1, 6059. 6071. 2, 146. 5, 1772.</ls> 
+<ls>MBH. 1, 6059.</ls> <ls n="MBH. 1,">6071.</ls> <ls n="MBH.">2, 146.</ls> <ls n="MBH.">5, 1772.</ls> 
 <ls>BHĀG. P. 8, 21, 8. 9, 5, 6. <is>Śiva</is></ls> 
 <ls>ŚIV.</ls> {#°जवम्#} adv. 
 <ls>R. 1, 76, 15.</ls> 
@@ -17,7 +17,7 @@
 <ls>H. 488,</ls> 
 <ls>Sch.</ls>; vgl. {#मनोजवस#} . 
 <div n="1">— 2) <lex>m.</lex> N. pr. 
-<div n="2"> a) eines Sohnes des <is>Anila</is> {%(Windes)%} 
+<div n="2"> a) eines Sohnes des <is>Anila</is> ({%Windes%}) 
 <ls>MBH. 1, 2589.</ls> <ls>HARIV. 156.</ls> <ls>VP. 120.</ls> 
 <div n="2">— b) eines Sohnes des <is>Rudra</is> <is>Īśāna</is> 
 <ls>VP. 59.</ls> 

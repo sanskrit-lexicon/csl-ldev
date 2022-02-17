@@ -6,8 +6,8 @@
 <ls>AIT. BR. 3, 26.</ls> 
 <ls>Ind. St. 1, 118. 2, 313. 4, 4. 8.</ls> 
 <ls>M. 5, 18. 12, 65.</ls> 
-<ls>MBH. 3, 1322. 9, 2476.</ls> 
-<ls>HARIV. 2295. 14300</ls> (nach der Lesart der neueren Ausg.). 
+<ls>MBH. 3, 1322.</ls> <ls n="MBH.">9, 2476.</ls> 
+<ls>HARIV. 2295.</ls> <ls n="HARIV.">14300</ls> (nach der Lesart der neueren Ausg.). 
 <ls>SUŚR. 1, 203, 1. 9. 2, 535, 15.</ls> 
 <ls>VARĀH. BṚH. S. 86, 23.</ls> 
 <ls>Spr. (II) 3207.</ls> 

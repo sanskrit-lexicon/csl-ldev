@@ -1,16 +1,16 @@
 <L>22447<pc>708<k1>think<k2>think
-<div n="lb"/>{@THINK:@}¦ <div n="1">(1) {#मन्यते#} ({#मन्,#} c. 4.), <div n="xe">{%t.ing that title of%}
-<div n="lb"/>{%lord only remains with you:%}</div> <div n="xs">{#मत्वा भवन्तं प्रभुशब्द-#}
-<div n="lb"/>{#शेषम्,#}</div> R. v. 22.; {%if you t. much of what I say:%}
-<div n="lb"/>{#अस्माकमुक्तं बहुमन्यसे चेत्,#} B. iii. 53.: v. Consider,
-<div n="lb"/>suppose; </div><div n="1">(2) {#चिन्तयति, वि-, सं-, परि-, अनु-#}
-<div n="lb"/>({#चिन्त्,#} c. 10. =reflect) <div n="xe">{%he simply t.s of fears%}
-<div n="lb"/>{%to come from you:%}</div> <div n="xs">{#स चिन्तयत्येव भियस्त्वदेष्यतीः,#}</div>
-<div n="lb"/>Ki. i. 23.; <div n="xe">{%while I was thus t.ing:%}</div> <div n="xs">{#इत्येवं #}
-<div n="lb"/>{# चिन्तयन्तम्,#}</div> K.; </div><div n="1">(3) {#ध्यायति, अनु-#} ({#ध्यै,#} c. 1.=2.)
-<div n="lb"/><div n="xe">{%t. of the child in womb:%}</div> <div n="xs">{#प्रजानिषेकमनुध्यायत,#}</div> R.
-<div n="lb"/>xiv. 60.; </div><div n="1">(4) {#स्मरति, अनु-#} ({#स्मृ,#} c. 1.=rem-
-<div n="lb"/>-ember), <div n="xe">{%to t. of heaven:%}</div> <div n="xs">{#दिवः स्मर्तुम्,#}</div> Ki. v.
-<div n="lb"/>28.; </div><div n="1">(5) {#अध्येति#} ({#इ,#} c. 2.=5), {%t. s only of me:%}
-<div n="lb"/>{#मामेवाध्येति,#} Ki. xi. 74.</div>
+{@THINK:@}¦ <div n="1">(1) {#मन्यते#} ({#मन्,#} c. 4.), <div n="xe">{%t.ing that title of%}
+{%lord only remains with you:%}</div> <div n="xs">{#मत्वा भवन्तं प्रभुशब्द-#}
+{#शेषम्,#}</div> R. v. 22.; {%if you t. much of what I say:%}
+{#अस्माकमुक्तं बहुमन्यसे चेत्,#} B. iii. 53.: v. Consider,
+suppose; </div><div n="1">(2) {#चिन्तयति, वि-, सं-, परि-, अनु-#}
+({#चिन्त्,#} c. 10. =reflect) <div n="xe">{%he simply t.s of fears%}
+{%to come from you:%}</div> <div n="xs">{#स चिन्तयत्येव भियस्त्वदेष्यतीः,#}</div>
+Ki. i. 23.; <div n="xe">{%while I was thus t.ing:%}</div> <div n="xs">{#इत्येवं #}
+{# चिन्तयन्तम्,#}</div> K.; </div><div n="1">(3) {#ध्यायति, अनु-#} ({#ध्यै,#} c. 1.=2.)
+<div n="xe">{%t. of the child in womb:%}</div> <div n="xs">{#प्रजानिषेकमनुध्यायत,#}</div> R.
+xiv. 60.; </div><div n="1">(4) {#स्मरति, अनु-#} ({#स्मृ,#} c. 1.=rem-
+-ember), <div n="xe">{%to t. of heaven:%}</div> <div n="xs">{#दिवः स्मर्तुम्,#}</div> Ki. v.
+28.; </div><div n="1">(5) {#अध्येति#} ({#इ,#} c. 2.=5), {%t. s only of me:%}
+{#मामेवाध्येति,#} Ki. xi. 74.</div>
 <LEND>

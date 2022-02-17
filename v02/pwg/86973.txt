@@ -1,5 +1,5 @@
 <L>86973<pc>6-0598<k1>लोहित<k2>लो/हित
-{#लो/हित#}¦ (=  älterem {#रोहित#}) 
+{#लो/हित#}¦ (= älterem {#रोहित#}) 
 <ls>UṆĀDIS. 3, 94.</ls> 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#लोहिता#} (
 <ls>SUŚR. 1, 135, 1</ls>) und {#लो/हिनी#} 
@@ -19,7 +19,7 @@
 
 <ls>AIT. BR. 3, 34.</ls> 
 <ls>ŚAT. BR. 3, 5, 4, 23. 14, 5, 2, 3.</ls> 
-<ls>KIR. 16, 53. -</ls> <ls>ŚAT. BR. 5, 4, 1, 2. 5, 4, 1. 6, 6, 2, 11.</ls> {#°पिण्ड#} 
+<ls>KIR. 16, 53.</ls> - <ls>ŚAT. BR. 5, 4, 1, 2. 5, 4, 1. 6, 6, 2, 11.</ls> {#°पिण्ड#} 
 <ls>14, 6, 11, 3.</ls> {#°रस#} 
 <ls>13, 4, 4, 10.</ls> {#°सूत्र#} 
 <ls>KAUŚ. 85.</ls> {#अज#} 
@@ -76,16 +76,16 @@
 <ls>P. 4, 1, 18.</ls> {#°स्मृति#} 
 <ls>MACK. Coll. I, 19.</ls> pl. {%seine Nachkommen%} 
 <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 57, 11.</ls> <ls>HARIV. 1465</ls> (st. {#लोहिता यामदूताश्च#} liest die neuere Ausg. {#लोहितायनपूताश्च#}, 
-<ls>1771</ls> lesen beide Ausgg. {#लौहित्याः#}). 
+<ls n="HARIV.">1771</ls> lesen beide Ausgg. {#लौहित्याः#}). 
 <div n="3">— δ) {%eines Flusses%} (der <is>Brahmaputra</is>) 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA a. a. O.</ls> <ls>MBH. 13, 7647.</ls> 
 <div n="3">— ε) eines Meeres: {#लोहितस्योदधेः कन्या क्रूरा लोहितभोजना#} 
-<ls>MBH. 3, 14366. 14494.</ls> {#रक्तजलं घोरं लोहितं नाम सागरम् । गत्वा#} 
+<ls>MBH. 3, 14366.</ls> <ls n="MBH. 3,">14494.</ls> {#रक्तजलं घोरं लोहितं नाम सागरम् । गत्वा#} 
 <ls>R. 4, 40, 39</ls>; vgl. {#लोहितोदो वरुणालयः#} 
 <ls>MBH. 3, 14269.</ls> 
 <div n="3">— ζ) eines Sees: {#लोहिते (लोहितो#} die neuere Ausg.) {#ह्रदे#} 
 <ls>HARIV. 9791</ls>; vgl. 
-<ls>9145 und</ls> <ls>LIA. I, 155, N.</ls> 
+<ls n="HARIV.">9145</ls> und <ls>LIA. I, 155, N.</ls> 
 <div n="3">— η) eines Landes 
 <ls>MBH. 2, 1025.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#लोहिता#} 
@@ -110,7 +110,7 @@
 <ls>R. 4, 44, 65. 5, 14, 18.</ls> 
 <ls>SUŚR. 1, 121, 13.</ls> 
 <ls>BHĀG. P. 3, 26, 59. 67.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 4, 7.</ls> {#सलोहिता दिशश्चासन्#} so v. a. {%blutroth gefärbt%} 
+<ls>VET. in LA. (III) 4, 7.</ls> {#सलोहिता दिशश्चासन्#} so v. a. {%blutroth gefärbt%} 
 <ls>MBH. 3, 11399.</ls> 
 <div n="2">— c) {%Schlacht%} 
 <ls>H. an.</ls> 

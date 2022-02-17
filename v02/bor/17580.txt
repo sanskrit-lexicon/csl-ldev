@@ -1,6 +1,6 @@
 <L>17580<pc>538<k1>preciseness<k2>preciseness
-<div n="lb"/>{@PRECISENESS,@}¦ {@PRECISION:@} <div n="I">I Exactness: </div><div n="1">(1)
-<div n="lb"/>{#विशुद्धता#} (= accuracy); </div><div n="1">(2) {#यथार्थता#} (= actua-
-<div n="lb"/>-lity); </div><div n="1">(3) {#स्थिरता#} (= fixedness). </div><div n="I">II Puncti-
-<div n="lb"/>-liousness: q. v.</div>
+{@PRECISENESS,@}¦ {@PRECISION:@} <div n="I">I Exactness: </div><div n="1">(1)
+{#विशुद्धता#} (= accuracy); </div><div n="1">(2) {#यथार्थता#} (= actua-
+-lity); </div><div n="1">(3) {#स्थिरता#} (= fixedness). </div><div n="I">II Puncti-
+-liousness: q. v.</div>
 <LEND>

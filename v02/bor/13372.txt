@@ -1,12 +1,12 @@
 <L>13372<pc>412<k1>leave<k2>leave
-<div n="lb"/>{@LEAVE@}¦ (v.): <div n="I">I To forsake, abandon: q. v.:
-<div n="lb"/>{#त्यजति, परि-,#} ({#त्यज्,#} c. 1.). Ph.: {%it is not proper%}
-<div n="lb"/><div n="xe">{%to l. him alone:%}</div> <div n="xs">{#न युक्तमेनमेकाकिनं कर्तुम्,#}</div> K.</div>
-<div n="lb"/><div n="I">II To bequeath: q. v.: {#ददाति#} ({#दा,#} c. 3.).</div>
-<div n="lb"/><div n="I">III To suffer to remain: {#स्थापयति#} (c. of {#स्था#}):
-<div n="lb"/>v. To remain. </div><div n="I">IV To entrust: q. v. {#न्यस्यति#}
-<div n="lb"/>({#अस्,#} c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#न्यासीकरोति,#}</div> <div n="xe">{%certainly Rākṣasa%}
-<div n="lb"/>{%will not l. his family with men who are not his%}
-<div n="lb"/>{%equals:%}</div> <div n="xs">{#नूनं ह्यनात्मसदृशेषु राक्षसः कलत्रं न्यासीकरिष्यति,#}</div>
-<div n="lb"/>Mu. i.: v. To refer: perh. {#न्यस्यति।#}</div>
+{@LEAVE@}¦ (v.): <div n="I">I To forsake, abandon: q. v.:
+{#त्यजति, परि-,#} ({#त्यज्,#} c. 1.). Ph.: {%it is not proper%}
+<div n="xe">{%to l. him alone:%}</div> <div n="xs">{#न युक्तमेनमेकाकिनं कर्तुम्,#}</div> K.</div>
+<div n="I">II To bequeath: q. v.: {#ददाति#} ({#दा,#} c. 3.).</div>
+<div n="I">III To suffer to remain: {#स्थापयति#} (c. of {#स्था#}):
+v. To remain. </div><div n="I">IV To entrust: q. v. {#न्यस्यति#}
+({#अस्,#} c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#न्यासीकरोति,#}</div> <div n="xe">{%certainly Rākṣasa%}
+{%will not l. his family with men who are not his%}
+{%equals:%}</div> <div n="xs">{#नूनं ह्यनात्मसदृशेषु राक्षसः कलत्रं न्यासीकरिष्यति,#}</div>
+Mu. i.: v. To refer: perh. {#न्यस्यति।#}</div>
 <LEND>

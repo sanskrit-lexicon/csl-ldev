@@ -4,9 +4,9 @@
 <ls>AK. 1, 1, 5, 5.</ls> 
 <ls>M. 7, 43.</ls> 
 <ls>YĀJÑ. 1, 310.</ls> 
-<ls>MBH. 3, 11295. 5, 4472. 12, 452. 2154. 2669. fgg.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 4, 6.</ls> 
+<ls>MBH. 3, 11295.</ls> <ls n="MBH.">5, 4472.</ls> <ls n="MBH.">12, 452.</ls> <ls n="MBH. 12,">2154.</ls> <ls n="MBH. 12,">2669. fgg.</ls> 
+
+<ls>R. GORR. 1, 4, 6.</ls> 
 <ls>RAGH. 18, 45.</ls> 
 <ls>VARĀH. BṚH. S. 19, 11.</ls> 
 <ls>BHĀG. P. 3, 7, 32. 12, 44.</ls> 

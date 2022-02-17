@@ -1,6 +1,6 @@
 <L>689<pc>025<k1>amiable<k2>amiable
-<div n="lb"/>{@AMIABLE:@}¦ <div n="1">(1) {#सुशीलः#} ({#ला, लं#}) (=of good
-<div n="lb"/>behaviour); </div><div n="1">(2) {#प्रेमार्ह्वः#} ({#र्हा, र्हं#}) (=deserving
-<div n="lb"/>of affection); </div><div n="1">(3) {#रम्यः#} ({#म्या, म्यं#})
-<div n="lb"/>(=pleasant, agreeable)</div>
+{@AMIABLE:@}¦ <div n="1">(1) {#सुशीलः#} ({#ला, लं#}) (=of good
+behaviour); </div><div n="1">(2) {#प्रेमार्ह्वः#} ({#र्हा, र्हं#}) (=deserving
+of affection); </div><div n="1">(3) {#रम्यः#} ({#म्या, म्यं#})
+(=pleasant, agreeable)</div>
 <LEND>

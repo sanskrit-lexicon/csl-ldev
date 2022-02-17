@@ -4,7 +4,7 @@
 <ls>ITIH.</ls> bei <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> {#के ते^ अग्ने रि\पवे\ बन्ध^नासः#} 
 <ls>ṚV. 5, 12, 4.</ls> {#बाल°#} 
 <ls>PĀR. GṚHY. 1, 16.</ls> {#बन्धनस्त्वमसुराणां युधि शत्रुविनाशनः#} 
-<ls>MBH. 13, 1176. 1214.</ls> {#भाव° (प्रेमन्)#} {%die Herzen fesselnd%} 
+<ls>MBH. 13, 1176.</ls> <ls n="MBH. 13,">1214.</ls> {#भाव° (प्रेमन्)#} {%die Herzen fesselnd%} 
 <ls>RAGH. 3, 24.</ls> {#हृदयस्य बन्धनः (मन्त्र)#} 
 <ls>P. 4, 4, 96,</ls> 
 <ls>Sch.</ls> 
@@ -12,7 +12,7 @@
 <div n="2"> a) {%das Binden, Fesseln, Anbinden, Umbinden, Verbinden; Verband%} 
 <ls>AK. 2, 8, 1, 26.</ls> 
 <ls>H. 439.</ls> 
-<ls>P. 1, 4, 78</ls> <ls>?(HALĀY. 5, 53).</ls> {#मातृजङ्घा हि वत्सस्य स्तम्भीभवति बन्धने#} 
+<ls>P. 1, 4, 78</ls> (<ls>HALĀY. 5, 53).</ls> {#मातृजङ्घा हि वत्सस्य स्तम्भीभवति बन्धने#} 
 <ls>Spr. 357.</ls> {#करचरणयोर्बन्धनं कृत्वा#} 
 <ls>DHŪRTAS. 95, 9.</ls> {#दारुबन्धनरज्जु#} 
 <ls>PAÑCAT. 10, 10.</ls> 
@@ -68,14 +68,14 @@
 <ls>HARIV. 7261.</ls> {#तडागानां ब°#} {%das Eindämmen%} 
 <ls>MBH. 13, 2972.</ls> {#दशाननो हरेत्सीतां बन्धनं स्यान्महोदधेः#} {%das Fesseln%} und zugleich {%das Ueberbrücken%} 
 <ls>Spr. 799. 4200.</ls> {%Verbindung%} (von Metallen) so v. a. {%Legirung%} 
-<ls>Verz. d. Oxf. H. 321, 3 v. u.</ls> 
+<ls>Verz. d. Oxf. H. 321, 3</ls> v. u. 
 <div n="2">— c) {%Verbindung, Zusammenhang%}: {#आ\हुस्ते त्रीणि^ दि\वि बन्ध^नानि#} 
 <ls>ṚV. 1, 163, 3.</ls> {#सहायबन्धना ह्यर्थाः सहायाश्चार्थबन्धनाः । अन्योऽन्यबन्धनावेतौ विनान्योऽन्यं न सिध्यतः ॥#} so v. a. {%abhängig von%} 
 <ls>MBH. 5, 1371.</ls> 
 <div n="2">— d) {%das Heften, Richten auf%}: {#धारणा तु क्वचिद्ध्येये चित्तस्य स्थिरबन्धनम्#} 
 <ls>H. 84.</ls> 
 <div n="2">— e) {%Band, Strick, Fessel%} 
-<ls>AK. 3, 3,14.</ls>  
+<ls>AK. 3, 3,14.</ls> 
 <ls>H. 1274.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 122.</ls>
@@ -119,7 +119,7 @@
 <ls>HARIV. 9344.</ls> {#श्लथ° (गात्र)#} 
 <ls>ṚT. 6, 8.</ls> {#कठिनस्कन्ध°#} 
 <ls>HARIV. 4101.</ls> {#निःसृते साश्रुरुधिरे तस्य नेत्रे सबन्धने#} 
-<ls>4730. 4310.</ls> 
+<ls n="HARIV.">4730.</ls> <ls>4310.</ls> 
 <div n="2">— g) {%Stiel%} (einer Frucht, einer Blüthe) 
 <ls>ṚV. 7, 59, 12.</ls> 
 <ls>ŚAT. BR. 14, 7, 1, 41.</ls> 

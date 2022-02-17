@@ -1,19 +1,19 @@
 <L>6957<pc>221<k1>drive<k2>drive
-<div n="lb"/>{@DRIVE@}¦ (v. t.): <div n="I">I To impel: </div><div n="1">(1) {#प्रेरयति#} ({#ईर्,#} [Page222]
-<div n="lb"/>c. 10.), <div n="xe">{%d. n by contrary wind:%}</div> <div n="xs">{#प्रतिवातप्रेरितः#}</div> ({#ता, #}
-<div n="lb"/>{# तं#}), D. vi.; <div n="xe">{%d. the horses fast towards the N.%}
-<div n="lb"/>{%E.:%}</div> <div n="xs">{#ऐशानीं दिशं प्रति प्रेरयाश्वानाशुगमनाय,#}</div> V. i.;</div>
-<div n="lb"/><div n="1">(2) {#नूदति#} <div n="xe">{%or%}</div> <div n="xs">{#नोदयति#}</div> ({#नुद्,#} c. 6. and 10.), <div n="xe">{%d. n%}
-<div n="lb"/>{%by fate:%}</div> <div n="xs">{#नियत्या नोदिताश्वः,#}</div> Si. xx. 2.; <div n="xe">{%d. n by the%}
-<div n="lb"/>{%charioteer:%}</div> <div n="xs">{#सारथिसम्प्रणुन्नः,#}</div> Ku. xvii. 10.; </div><div n="1">(3)
-<div n="lb"/>{#चोदयति, प्र-, सं-,#} ({#चुद्,#} c. 10.), <div n="xe">{%drove the horses on%}
-<div n="lb"/>{%level ground:%}</div> <div n="xs">{#समे देशे हयान् प्राचोदयत्,#}</div> Mah.;</div>
-<div n="lb"/><div n="1">(4) {#वाहयति#} (c. of {#वह्#}), <div n="xe">{%don't d. the car:%}</div> <div n="xs">{#मा तावत् #}
-<div n="lb"/>{# प्रवहणं वाहय,#}</div> Mr. vi.; </div><div n="1">(5) {#चालयति, परि-,#} (c. of
-<div n="lb"/>{#चल्#}) (= cause to move), {%in d. ing chariots:%}
-<div n="lb"/>{#रथस्य परिचालने,#} Nil. Ph.: <div n="xe">{%I will d. you to your%}
-<div n="lb"/>{%house:%}</div> <div n="xs">{#रथेन त्वां गृहं नयामि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रापयामि;#}</div> <div n="xe">{%to d.%}
-<div n="lb"/>{%a nail:%}</div> <div n="xs">{#कीलं प्रवेशयति#}</div> (c. of {#विश्#}). </div><div n="I">II To hunt:
-<div n="lb"/>q. v. </div><div n="I">III To follow, carry on: q. v. </div><div n="I">IV
-<div n="lb"/>To force: q. v.</div>
+{@DRIVE@}¦ (v. t.): <div n="I">I To impel: </div><div n="1">(1) {#प्रेरयति#} ({#ईर्,#} [Page222]
+c. 10.), <div n="xe">{%d. n by contrary wind:%}</div> <div n="xs">{#प्रतिवातप्रेरितः#}</div> ({#ता, #}
+{# तं#}), D. vi.; <div n="xe">{%d. the horses fast towards the N.%}
+{%E.:%}</div> <div n="xs">{#ऐशानीं दिशं प्रति प्रेरयाश्वानाशुगमनाय,#}</div> V. i.;</div>
+<div n="1">(2) {#नूदति#} <div n="xe">{%or%}</div> <div n="xs">{#नोदयति#}</div> ({#नुद्,#} c. 6. and 10.), <div n="xe">{%d. n%}
+{%by fate:%}</div> <div n="xs">{#नियत्या नोदिताश्वः,#}</div> Si. xx. 2.; <div n="xe">{%d. n by the%}
+{%charioteer:%}</div> <div n="xs">{#सारथिसम्प्रणुन्नः,#}</div> Ku. xvii. 10.; </div><div n="1">(3)
+{#चोदयति, प्र-, सं-,#} ({#चुद्,#} c. 10.), <div n="xe">{%drove the horses on%}
+{%level ground:%}</div> <div n="xs">{#समे देशे हयान् प्राचोदयत्,#}</div> Mah.;</div>
+<div n="1">(4) {#वाहयति#} (c. of {#वह्#}), <div n="xe">{%don't d. the car:%}</div> <div n="xs">{#मा तावत् #}
+{# प्रवहणं वाहय,#}</div> Mr. vi.; </div><div n="1">(5) {#चालयति, परि-,#} (c. of
+{#चल्#}) (= cause to move), {%in d. ing chariots:%}
+{#रथस्य परिचालने,#} Nil. Ph.: <div n="xe">{%I will d. you to your%}
+{%house:%}</div> <div n="xs">{#रथेन त्वां गृहं नयामि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रापयामि;#}</div> <div n="xe">{%to d.%}
+{%a nail:%}</div> <div n="xs">{#कीलं प्रवेशयति#}</div> (c. of {#विश्#}). </div><div n="I">II To hunt:
+q. v. </div><div n="I">III To follow, carry on: q. v. </div><div n="I">IV
+To force: q. v.</div>
 <LEND>

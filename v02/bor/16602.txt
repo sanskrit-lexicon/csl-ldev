@@ -1,5 +1,5 @@
 <L>16602<pc>509<k1>pawn<k2>pawn
-<div n="lb"/>{@PAWN@}¦ (subs.): <div n="I">I Pledge, mortgage: q. v.:
-<div n="lb"/>{#आधिः।#} </div><div n="I">II Pan (II): q. v. </div><div n="I">III In chess:
-<div n="lb"/>{#शारः#} ({#रिः#}).</div>
+{@PAWN@}¦ (subs.): <div n="I">I Pledge, mortgage: q. v.:
+{#आधिः।#} </div><div n="I">II Pan (II): q. v. </div><div n="I">III In chess:
+{#शारः#} ({#रिः#}).</div>
 <LEND>

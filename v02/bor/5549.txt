@@ -1,8 +1,8 @@
 <L>5549<pc>178<k1>deceive<k2>deceive
-<div n="lb"/>{@DECEIVE:@}¦ <div n="1">(1) {#प्रतारयति#} (c. of {#तॄ#}), <div n="xe">{%was d. d and%}
-<div n="lb"/>{%drawn away to the bush:%}</div> <div n="xs">{#प्रतार्य तेनाचकृषे लतासु,#}</div> N.;</div>
-<div n="lb"/><div n="1">(2) {#वञ्चयते#} ({#वञ्च्,#} c. 10.), <div n="xe">{%d. ing me:%}</div> <div n="xs">{#मां वञ्चयित्वा,#}</div>
-<div n="lb"/><ls>P.</ls> ; </div><div n="1">(3) {#छलयति#} ({#छल्,#} c. 10), <div n="xe">{%to the d. r of%}
-<div n="lb"/>{%Bali:%}</div> <div n="xs">{#बलिं छलयते,#}</div> Gi.; </div><div n="1">(4) {#विप्रलभते#} ({#लभ्,#} c. 1.);</div>
-<div n="lb"/><div n="1">(5) {#अभिसन्धत्ते#} ({#धा,#} c. 3.), Sa.</div>
+{@DECEIVE:@}¦ <div n="1">(1) {#प्रतारयति#} (c. of {#तॄ#}), <div n="xe">{%was d. d and%}
+{%drawn away to the bush:%}</div> <div n="xs">{#प्रतार्य तेनाचकृषे लतासु,#}</div> N.;</div>
+<div n="1">(2) {#वञ्चयते#} ({#वञ्च्,#} c. 10.), <div n="xe">{%d. ing me:%}</div> <div n="xs">{#मां वञ्चयित्वा,#}</div>
+<ls>P.</ls> ; </div><div n="1">(3) {#छलयति#} ({#छल्,#} c. 10), <div n="xe">{%to the d. r of%}
+{%Bali:%}</div> <div n="xs">{#बलिं छलयते,#}</div> Gi.; </div><div n="1">(4) {#विप्रलभते#} ({#लभ्,#} c. 1.);</div>
+<div n="1">(5) {#अभिसन्धत्ते#} ({#धा,#} c. 3.), Sa.</div>
 <LEND>

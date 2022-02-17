@@ -1,5 +1,5 @@
 <L>24237<pc>758<k1>west<k2>west
-<div n="lb"/>{@WEST:@}¦ <div n="1">(1) {#पश्चिमा दिक्#} and sim. expr.s: v.
-<div n="lb"/>Quarter; </div><div n="1">(2) {#प्रतीची;#} </div><div n="1">(3) {#वारुणी दिक्#} and sim.
-<div n="lb"/>expr.s.</div>
+{@WEST:@}¦ <div n="1">(1) {#पश्चिमा दिक्#} and sim. expr.s: v.
+Quarter; </div><div n="1">(2) {#प्रतीची;#} </div><div n="1">(3) {#वारुणी दिक्#} and sim.
+expr.s.</div>
 <LEND>

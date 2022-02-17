@@ -1,6 +1,6 @@
 <L>6180<pc>198<k1>diluent<k2>diluent
-<div n="lb"/>{@DILUENT:@}¦ {#तनूकरणशीलः#} ({#ला, लं#}) (?). Ph.: <div n="xe">{%“there%}
-<div n="lb"/>{%is no real d. but water”:%}</div> <div n="xs">{#यथार्थतो जलादन्यः पदार्थो #}
-<div n="lb"/>{# नास्ति यः पदार्थान्तरान् तनूकरोति#}</div> (thins) <div n="xe">{%or%}</div> <div n="xs">{#विलयति#}</div>
-<div n="lb"/>(dissolves) <div n="xe">{%or%}</div> <div n="xs">{#क्षीणीकरोति#}</div> (weakens).
+{@DILUENT:@}¦ {#तनूकरणशीलः#} ({#ला, लं#}) (?). Ph.: <div n="xe">{%“there%}
+{%is no real d. but water”:%}</div> <div n="xs">{#यथार्थतो जलादन्यः पदार्थो #}
+{# नास्ति यः पदार्थान्तरान् तनूकरोति#}</div> (thins) <div n="xe">{%or%}</div> <div n="xs">{#विलयति#}</div>
+(dissolves) <div n="xe">{%or%}</div> <div n="xs">{#क्षीणीकरोति#}</div> (weakens).
 <LEND>

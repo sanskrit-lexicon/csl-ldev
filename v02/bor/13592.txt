@@ -1,7 +1,7 @@
 <L>13592<pc>418<k1>lime<k2>lime
-<div n="lb"/>{@LIME@}¦ (subs.): <div n="I">I A tree: {#जम्बीरः।#} </div><div n="I">II Its. fruit:
-<div n="lb"/>{#जम्बीरम्।#} </div><div n="I">III Bird l.: q. v.: {#क्षारकः#} (?), Mah.
-<div n="lb"/>IV. Quick-l.: {#चूर्णम्,#} <div n="xe">{%l. stone:%}</div> <div n="xs">{#चूर्णोपलः#}</div> (?). {#चूर्ण-#}
-<div n="lb"/>{#खण्डः#} (?): Ph.: <div n="xe">{%l. -water:%}</div> <div n="xs">{#सुधा,#}</div> {%l. -water-maker:%}
-<div n="lb"/>{#सुधाकारः,#} Ram.</div>
+{@LIME@}¦ (subs.): <div n="I">I A tree: {#जम्बीरः।#} </div><div n="I">II Its. fruit:
+{#जम्बीरम्।#} </div><div n="I">III Bird l.: q. v.: {#क्षारकः#} (?), Mah.
+IV. Quick-l.: {#चूर्णम्,#} <div n="xe">{%l. stone:%}</div> <div n="xs">{#चूर्णोपलः#}</div> (?). {#चूर्ण-#}
+{#खण्डः#} (?): Ph.: <div n="xe">{%l. -water:%}</div> <div n="xs">{#सुधा,#}</div> {%l. -water-maker:%}
+{#सुधाकारः,#} Ram.</div>
 <LEND>

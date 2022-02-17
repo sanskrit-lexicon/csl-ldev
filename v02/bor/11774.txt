@@ -1,31 +1,31 @@
 <L>11774<pc>368<k1>in<k2>in
-<div n="lb"/>{@IN:@}¦ <div n="I">I Denoting {%where:%} by loc., <div n="xe">{%in the house%}
-<div n="lb"/>{%of Vasudeva:%}</div> <div n="xs">{#वसुदेवसद्मनि,#}</div> Si.; {%in%} ({%the work%})
-<div n="lb"/><div n="xe">{%Yogapradipa:%}</div> <div n="xs">{#योगप्रदीपे,#}</div> </div><div n="I">V p. com.; <div n="xe">{%in the first%}
-<div n="lb"/>{%chapter:%}</div> <div n="xs">{#प्रथमेपादे,#}</div> S. Ph.: <div n="xe">{%in one place:%}</div> <div n="xs">{#एकत्र,#}</div> Vi.;
-<div n="lb"/><div n="xe">{%in my presence:%}</div> <div n="xs">{#पश्यतो मे;#}</div> <div n="xe">{%in the hearing of%}
-<div n="lb"/>{%Sugriva:%}</div> <div n="xs">{#शृण्वतः सुग्रीवस्य,#}</div> Ram. </div><div n="I">II Denoting
-<div n="lb"/>{%when:%} by loc., <div n="xe">{%in childhood:%}</div> <div n="xs">{#शैशवे,#}</div> R.; <div n="xe">{%in the%}
-<div n="lb"/>{%first or the third year:%}</div> <div n="xs">{#प्रथमेऽब्दे तृतीये वा,#}</div> M. </div><div n="I">III
-<div n="lb"/>Denoting {%by what time:%} by ins., ({%he%}) <div n="xe">{%stu-%}
-<div n="lb"/>{%died Anuvāka in a day:%}</div> <div n="xs">{#अह्नानुवाकोऽधीतः,#}</div> S. K.;
-<div n="lb"/><div n="xe">{%in twenty years:%}</div> <div n="xs">{#विंश्त्या वत्सरैः,#}</div> Raj. Ph.: {%in a%}
-<div n="lb"/><div n="xe">{%short time:%}</div> <div n="xs">{#अचिरेण,#}</div> K. </div><div n="I">IV Denoting {%how:%} by
-<div n="lb"/>ins., <div n="xe">{%passing in a balloon:%}</div> <div n="xs">{#विमानेन विगाहमानः,#}</div> R.;
-<div n="lb"/><div n="xe">{%resolving in his mind:%}</div> <div n="xs">{#मनसा निश्चित्य,#}</div> K.; <div n="xe">{%in%}
-<div n="lb"/>{%Anuṣṭubh metre:%}</div> <div n="xs">{#आनुष्टुभेन छन्दसा,#}</div> U.; <div n="xe">{%in the%}
-<div n="lb"/>{%style of butterflies:%}</div> <div n="xs">{#शालभेन विधिना,#}</div> Mu.; <div n="xe">{%in what%}
-<div n="lb"/>{%manner:%}</div> <div n="xs">{#केन प्रकारेण।#}</div> Vet.: <div n="xe">{%in rage:%}</div> <div n="xs">{#क्रुधा,#}</div> Si. Ph.:
-<div n="lb"/><div n="xe">{%in short:%}</div> <div n="xs">{#किं बहुना,#}</div> K. V., of direction: </div><div n="1">(1) by
-<div n="lb"/>ins., <div n="xe">{%16 miles in breadth:%}</div> <div n="xs">{#विस्तारेण योजनद्वयम्,#}</div>
-<div n="lb"/>Mat.; </div><div n="1">(2) better by comp.: v. Length,
-<div n="lb"/>breadth. </div><div n="I">VI To denote {%other circumstances:%}
-<div n="lb"/>by loc., <div n="xe">{%in deciding:%}</div> <div n="xs">{#निर्णये,#}</div> Mr. </div><div n="I">VII The
-<div n="lb"/>interior: {#अभ्यन्तरम्,#} <div n="xe">{%took him in:%}</div> <div n="xs">{#तमभ्यन्तरं निन्ये,#}</div>
-<div n="lb"/>C.; <div n="xe">{%go or come in:%}</div> <div n="xs">{#अभ्यन्तरं प्रविश,#}</div> Vi., Mr.
-<div n="lb"/>Ph.: <div n="xe">{%in most cases:%}</div> <div n="xs">{#बहुशः;#}</div> {%in all likelihood:%}
-<div n="lb"/>{#प्रायेण,#} Sa.; {%“not in man”%} i.e. {%not the nature of%}
-<div n="lb"/>{%man:%} v. Nature; {%in that:%} v. Because;
-<div n="lb"/>{%in consequence of:%} v. On account of; {%in the%}
-<div n="lb"/>{%name of%} (i.e. {%on behalf of%}): {#-अर्थे#} <div n="xe">{%or%}</div> <div n="xs">{#-वचनात्।#}</div></div>
+{@IN:@}¦ <div n="I">I Denoting {%where:%} by loc., <div n="xe">{%in the house%}
+{%of Vasudeva:%}</div> <div n="xs">{#वसुदेवसद्मनि,#}</div> Si.; {%in%} ({%the work%})
+<div n="xe">{%Yogapradipa:%}</div> <div n="xs">{#योगप्रदीपे,#}</div> </div><div n="I">V p. com.; <div n="xe">{%in the first%}
+{%chapter:%}</div> <div n="xs">{#प्रथमेपादे,#}</div> S. Ph.: <div n="xe">{%in one place:%}</div> <div n="xs">{#एकत्र,#}</div> Vi.;
+<div n="xe">{%in my presence:%}</div> <div n="xs">{#पश्यतो मे;#}</div> <div n="xe">{%in the hearing of%}
+{%Sugriva:%}</div> <div n="xs">{#शृण्वतः सुग्रीवस्य,#}</div> Ram. </div><div n="I">II Denoting
+{%when:%} by loc., <div n="xe">{%in childhood:%}</div> <div n="xs">{#शैशवे,#}</div> R.; <div n="xe">{%in the%}
+{%first or the third year:%}</div> <div n="xs">{#प्रथमेऽब्दे तृतीये वा,#}</div> M. </div><div n="I">III
+Denoting {%by what time:%} by ins., ({%he%}) <div n="xe">{%stu-%}
+{%died Anuvāka in a day:%}</div> <div n="xs">{#अह्नानुवाकोऽधीतः,#}</div> S. K.;
+<div n="xe">{%in twenty years:%}</div> <div n="xs">{#विंश्त्या वत्सरैः,#}</div> Raj. Ph.: {%in a%}
+<div n="xe">{%short time:%}</div> <div n="xs">{#अचिरेण,#}</div> K. </div><div n="I">IV Denoting {%how:%} by
+ins., <div n="xe">{%passing in a balloon:%}</div> <div n="xs">{#विमानेन विगाहमानः,#}</div> R.;
+<div n="xe">{%resolving in his mind:%}</div> <div n="xs">{#मनसा निश्चित्य,#}</div> K.; <div n="xe">{%in%}
+{%Anuṣṭubh metre:%}</div> <div n="xs">{#आनुष्टुभेन छन्दसा,#}</div> U.; <div n="xe">{%in the%}
+{%style of butterflies:%}</div> <div n="xs">{#शालभेन विधिना,#}</div> Mu.; <div n="xe">{%in what%}
+{%manner:%}</div> <div n="xs">{#केन प्रकारेण।#}</div> Vet.: <div n="xe">{%in rage:%}</div> <div n="xs">{#क्रुधा,#}</div> Si. Ph.:
+<div n="xe">{%in short:%}</div> <div n="xs">{#किं बहुना,#}</div> K. V., of direction: </div><div n="1">(1) by
+ins., <div n="xe">{%16 miles in breadth:%}</div> <div n="xs">{#विस्तारेण योजनद्वयम्,#}</div>
+Mat.; </div><div n="1">(2) better by comp.: v. Length,
+breadth. </div><div n="I">VI To denote {%other circumstances:%}
+by loc., <div n="xe">{%in deciding:%}</div> <div n="xs">{#निर्णये,#}</div> Mr. </div><div n="I">VII The
+interior: {#अभ्यन्तरम्,#} <div n="xe">{%took him in:%}</div> <div n="xs">{#तमभ्यन्तरं निन्ये,#}</div>
+C.; <div n="xe">{%go or come in:%}</div> <div n="xs">{#अभ्यन्तरं प्रविश,#}</div> Vi., Mr.
+Ph.: <div n="xe">{%in most cases:%}</div> <div n="xs">{#बहुशः;#}</div> {%in all likelihood:%}
+{#प्रायेण,#} Sa.; {%“not in man”%} i.e. {%not the nature of%}
+{%man:%} v. Nature; {%in that:%} v. Because;
+{%in consequence of:%} v. On account of; {%in the%}
+{%name of%} (i.e. {%on behalf of%}): {#-अर्थे#} <div n="xe">{%or%}</div> <div n="xs">{#-वचनात्।#}</div></div>
 <LEND>

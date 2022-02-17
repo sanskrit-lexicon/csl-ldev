@@ -1,8 +1,8 @@
 <L>2307<pc>080<k1>bolt<k2>bolt
-<div n="lb"/>{@BOLT@}¦ (v. t.): <div n="I">I To secure with a bolt: </div><div n="1">(1)
-<div n="lb"/>{#अर्गलेन पिदधाति#} ({#धा,#} c. 3.) <div n="xe">{%or%}</div> <div n="xs">{#रुणद्धि#}</div> ({#रुध्,#} c. 7.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#बध्नाति#}</div> ({#बन्ध्,#} c. 9); </div><div n="1">(2) {#अर्गलं ददाति#} ({#दा#} c.
-<div n="lb"/>3.) (with gen.). </div><div n="I">II To fasten, restrain:
-<div n="lb"/>q. v. </div><div n="I">III To sift: q. v. </div><div n="I">IV To examine:
-<div n="lb"/>q. v. V. To exhibit: q. v.</div>
+{@BOLT@}¦ (v. t.): <div n="I">I To secure with a bolt: </div><div n="1">(1)
+{#अर्गलेन पिदधाति#} ({#धा,#} c. 3.) <div n="xe">{%or%}</div> <div n="xs">{#रुणद्धि#}</div> ({#रुध्,#} c. 7.)
+<div n="xe">{%or%}</div> <div n="xs">{#बध्नाति#}</div> ({#बन्ध्,#} c. 9); </div><div n="1">(2) {#अर्गलं ददाति#} ({#दा#} c.
+3.) (with gen.). </div><div n="I">II To fasten, restrain:
+q. v. </div><div n="I">III To sift: q. v. </div><div n="I">IV To examine:
+q. v. V. To exhibit: q. v.</div>
 <LEND>

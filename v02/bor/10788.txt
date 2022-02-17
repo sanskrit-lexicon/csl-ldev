@@ -1,7 +1,7 @@
 <L>10788<pc>340<k1>heat<k2>heat
-<div n="lb"/>{@HEAT@}¦ (v. t.): <div n="I">I Lit.: {#तापयति#} <div n="xe">{%or%}</div> <div n="xs">{#तपति, सं-, उत्-, #}
-<div n="lb"/>{# प्र-, अभि-, परि-,#}</div> ({#तप्,#} c. 10. and 1.), <div n="xe">{%the earth%}
-<div n="lb"/>{%is h. ed with the rays of the sun:%}</div> <div n="xs">{#सूर्यातपतापिता मही,#}</div>
-<div n="lb"/>Ri.; <div n="xe">{%the h. ed water:%}</div> <div n="xs">{#तप्तं वारि,#}</div> <ls>V.</ls> </div><div n="I">II. Fig.:
-<div n="lb"/>{#उत्तपति#} <div n="xe">{%or%}</div> <div n="xs">{#-तापयति:#}</div> v. To inflame, excite.</div>
+{@HEAT@}¦ (v. t.): <div n="I">I Lit.: {#तापयति#} <div n="xe">{%or%}</div> <div n="xs">{#तपति, सं-, उत्-, #}
+{# प्र-, अभि-, परि-,#}</div> ({#तप्,#} c. 10. and 1.), <div n="xe">{%the earth%}
+{%is h. ed with the rays of the sun:%}</div> <div n="xs">{#सूर्यातपतापिता मही,#}</div>
+Ri.; <div n="xe">{%the h. ed water:%}</div> <div n="xs">{#तप्तं वारि,#}</div> <ls>V.</ls> </div><div n="I">II. Fig.:
+{#उत्तपति#} <div n="xe">{%or%}</div> <div n="xs">{#-तापयति:#}</div> v. To inflame, excite.</div>
 <LEND>

@@ -1,13 +1,13 @@
 <L>21047<pc>662<k1>sound<k2>sound
-<div n="lb"/>{@SOUND@}¦ (subs.): <div n="I">I Noise: q. v.: </div><div n="1">(1) {#शब्दः,#}
-<div n="lb"/><div n="xe">{%the attribute of s. is applied to object emitting%}
-<div n="lb"/>{%s. s:%}</div> <div n="xs">{#शब्दिषु शब्दधर्मश्चर्यते,#}</div> M.n. on Si. v. 58.;</div>
-<div n="lb"/><div n="1">(2) {#ध्वनिः,#} <div n="xe">{%by the s. of drums:%}</div> <div n="xs">{#पटहध्वनिभिः,#}</div> R.
-<div n="lb"/>ix. 71.; </div><div n="1">(3) {#नादः,#} {%heart and ear rending s. s:%}
-<div n="lb"/>{#हृदयश्रोत्रभिन्नादः,#} Si.; </div><div n="1">(4) {#स्वनः, निः-,#} {%emitted s.:%}
-<div n="lb"/>{#स्वनमतुनत,#} Si. vi. 67.; </div><div n="1">(5) {#ह्नादः, निर्-,#} <div n="xe">{%s. of%}
-<div n="lb"/>{%kettle-drums:%}</div> <div n="xs">{#दुन्दुभीनां ह्नादः,#}</div> Ki. viii. 16. </div><div n="I">II
-<div n="lb"/>Note: q. v. {#स्वरः।#} </div><div n="I">III Narrow-sea: {#*सन्धि-#}
-<div n="lb"/>{#सागरः।#} </div><div n="I">IV A fish: {#सिन्धुः।#} </div><div n="I">V A probe:
-<div n="lb"/>perh. {#एषणी।#}</div>
+{@SOUND@}¦ (subs.): <div n="I">I Noise: q. v.: </div><div n="1">(1) {#शब्दः,#}
+<div n="xe">{%the attribute of s. is applied to object emitting%}
+{%s. s:%}</div> <div n="xs">{#शब्दिषु शब्दधर्मश्चर्यते,#}</div> M.n. on Si. v. 58.;</div>
+<div n="1">(2) {#ध्वनिः,#} <div n="xe">{%by the s. of drums:%}</div> <div n="xs">{#पटहध्वनिभिः,#}</div> R.
+ix. 71.; </div><div n="1">(3) {#नादः,#} {%heart and ear rending s. s:%}
+{#हृदयश्रोत्रभिन्नादः,#} Si.; </div><div n="1">(4) {#स्वनः, निः-,#} {%emitted s.:%}
+{#स्वनमतुनत,#} Si. vi. 67.; </div><div n="1">(5) {#ह्नादः, निर्-,#} <div n="xe">{%s. of%}
+{%kettle-drums:%}</div> <div n="xs">{#दुन्दुभीनां ह्नादः,#}</div> Ki. viii. 16. </div><div n="I">II
+Note: q. v. {#स्वरः।#} </div><div n="I">III Narrow-sea: {#*सन्धि-#}
+{#सागरः।#} </div><div n="I">IV A fish: {#सिन्धुः।#} </div><div n="I">V A probe:
+perh. {#एषणी।#}</div>
 <LEND>

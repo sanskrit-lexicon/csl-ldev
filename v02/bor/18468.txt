@@ -1,4 +1,4 @@
 <L>18468<pc>567<k1>quotidian<k2>quotidian
-<div n="lb"/>{@QUOTIDIAN:@}¦ {#दैनन्दिनः#} ({#नी, नं#}): v. Every day.
-<div n="lb"/><div n="xe">{%Q. fever:%}</div> <div n="xs">{#अन्येद्युष्को ज्वरः,#}</div> Ni.
+{@QUOTIDIAN:@}¦ {#दैनन्दिनः#} ({#नी, नं#}): v. Every day.
+<div n="xe">{%Q. fever:%}</div> <div n="xs">{#अन्येद्युष्को ज्वरः,#}</div> Ni.
 <LEND>

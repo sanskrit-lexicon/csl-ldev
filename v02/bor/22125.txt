@@ -1,9 +1,9 @@
 <L>22125<pc>698<k1>table<k2>table
-<div n="lb"/>{@TABLE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#फलकम्;#} </div><div n="1">(2) {#पत्रम्#} (=leaf).</div>
-<div n="lb"/><div n="I">II A picture: {#आलेख्यम्।#} </div><div n="I">III Fig.: {#पत्रम्,#} <div n="xe">{%t.%}
-<div n="lb"/>{%of contents:%}</div> <div n="xs">{#निर्घण्टपत्रम्;#}</div> <div n="xe">{%interest-t. s:%}</div> <div n="xs">{#कुसीदपत्रम्।#}</div></div>
-<div n="lb"/><div n="I">IV Of hand {#रेखाविन्यासः#} <div n="xe">{%or%}</div> <div n="xs">{#रेखाः#}</div> (f. pl.). </div><div n="I">V
-<div n="lb"/>A piece of furniture: no equiv.: {#*स्तम्मलम्।#}
-<div n="lb"/>Ph.: <div n="xe">{%to keep a good t.:%}</div> <div n="xs">{#भोजनविशेषानुपकल्पयति#}</div>
-<div n="lb"/>(c. of {#कॢप्#}). T.-cloth: {#*स्तम्भलास्तरणम्।#}</div>
+{@TABLE:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#फलकम्;#} </div><div n="1">(2) {#पत्रम्#} (=leaf).</div>
+<div n="I">II A picture: {#आलेख्यम्।#} </div><div n="I">III Fig.: {#पत्रम्,#} <div n="xe">{%t.%}
+{%of contents:%}</div> <div n="xs">{#निर्घण्टपत्रम्;#}</div> <div n="xe">{%interest-t. s:%}</div> <div n="xs">{#कुसीदपत्रम्।#}</div></div>
+<div n="I">IV Of hand {#रेखाविन्यासः#} <div n="xe">{%or%}</div> <div n="xs">{#रेखाः#}</div> (f. pl.). </div><div n="I">V
+A piece of furniture: no equiv.: {#*स्तम्मलम्।#}
+Ph.: <div n="xe">{%to keep a good t.:%}</div> <div n="xs">{#भोजनविशेषानुपकल्पयति#}</div>
+(c. of {#कॢप्#}). T.-cloth: {#*स्तम्भलास्तरणम्।#}</div>
 <LEND>

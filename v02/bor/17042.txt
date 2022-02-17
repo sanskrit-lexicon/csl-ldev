@@ -1,6 +1,6 @@
 <L>17042<pc>521<k1>piles<k2>piles
-<div n="lb"/>{@PILES:@}¦ {#अर्शस्#} (n.), <div n="xe">{%internal p.:%}</div> <div n="xs">{#अदृश्यान्यर्शांसि,#}</div> Sr.;
-<div n="lb"/><div n="xe">{%ointments for p.:%}</div> <div n="xs">{#अर्शसामालेपाः;#}</div> <div n="xe">{%suffering from%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#अर्शोभिरुपद्रुतः#}</div> ({#ता, तं#}), Sr. <div n="xe">{%or%}</div> <div n="xs">{#अर्शसः#}</div> ({#सा, #}
-<div n="lb"/>{# सं#}), Bha.
+{@PILES:@}¦ {#अर्शस्#} (n.), <div n="xe">{%internal p.:%}</div> <div n="xs">{#अदृश्यान्यर्शांसि,#}</div> Sr.;
+<div n="xe">{%ointments for p.:%}</div> <div n="xs">{#अर्शसामालेपाः;#}</div> <div n="xe">{%suffering from%}
+{%p.:%}</div> <div n="xs">{#अर्शोभिरुपद्रुतः#}</div> ({#ता, तं#}), Sr. <div n="xe">{%or%}</div> <div n="xs">{#अर्शसः#}</div> ({#सा, #}
+{# सं#}), Bha.
 <LEND>

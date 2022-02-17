@@ -1,10 +1,10 @@
 <L>15670<pc>480<k1>obligation<k2>obligation
-<div n="lb"/>{@OBLIGATION:@}¦ <div n="I">I Binding moral power: </div><div n="1">(1)
-<div n="lb"/>{#बन्धः#} (= bond); </div><div n="1">(2) {#धर्मः#} (= duty). </div><div n="I">II A
-<div n="lb"/>contract: q.v.: {#संविद्#} (f.). </div><div n="I">III Indebted-
-<div n="lb"/>-ness: {%under o.%} expr. by {#ऋणिन्#} (f, {#नी#})
-<div n="lb"/>(= indebted), <div n="xe">{%or%}</div> <div n="xs">{#उपकृतः#}</div> ({#ता, तं#}) (= done [Page481]
-<div n="lb"/>good to) <div n="xe">{%or%}</div> <div n="xs">{#अनुगृहीतः#}</div> ({#ता, तं#}) (= favoured)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#बद्ध#}</div> (f. {#द्धा#}), <div n="xe">{%his generosity lay the whole vill-%}
-<div n="lb"/>{%age under o.:%}</div> <div n="xs">{#*ग्रामः समग्रस्तस्य दयालुतया बद्धः।#}</div></div>
+{@OBLIGATION:@}¦ <div n="I">I Binding moral power: </div><div n="1">(1)
+{#बन्धः#} (= bond); </div><div n="1">(2) {#धर्मः#} (= duty). </div><div n="I">II A
+contract: q.v.: {#संविद्#} (f.). </div><div n="I">III Indebted-
+-ness: {%under o.%} expr. by {#ऋणिन्#} (f, {#नी#})
+(= indebted), <div n="xe">{%or%}</div> <div n="xs">{#उपकृतः#}</div> ({#ता, तं#}) (= done [Page481]
+good to) <div n="xe">{%or%}</div> <div n="xs">{#अनुगृहीतः#}</div> ({#ता, तं#}) (= favoured)
+<div n="xe">{%or%}</div> <div n="xs">{#बद्ध#}</div> (f. {#द्धा#}), <div n="xe">{%his generosity lay the whole vill-%}
+{%age under o.:%}</div> <div n="xs">{#*ग्रामः समग्रस्तस्य दयालुतया बद्धः।#}</div></div>
 <LEND>

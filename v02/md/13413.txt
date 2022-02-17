@@ -1,12 +1,12 @@
 <L>13413<pc>210-3<k1>भोजन<k2>भोजन
 {#भोजन#}¦bhój-ana, {%a.%} feeding (Śiva); {%n.%} enjoying, <lbinfo n="2"/>
-<> using; eating; meal; food (-°, {%a.%} 
-<>living on, affording as food, serving as the 
-<>food of); property, possession ({%V.%}); object 
-<>of enjoyment; pleasure; giving of food, feeding; <lbinfo n="4"/>
-<> preparation of food, cookery: {@-kāla,@} {%m.%} 
-<>meal-time; {@-bhāṇḍa@}, {%n.%} dish for food; {@-bhū-@}
-<>{@-mi,@} {%f.%} eating-place, dining-hall; {@-viśeṣa@}, 
-<>{%m.%} special kind of food, choice food, dainty, 
-<>delicacy.
+ using; eating; meal; food (-°, {%a.%} 
+living on, affording as food, serving as the 
+food of); property, possession ({%V.%}); object 
+of enjoyment; pleasure; giving of food, feeding; <lbinfo n="4"/>
+ preparation of food, cookery: {@-kāla,@} {%m.%} 
+meal-time; {@-bhāṇḍa@}, {%n.%} dish for food; {@-bhū-@}
+{@-mi,@} {%f.%} eating-place, dining-hall; {@-viśeṣa@}, 
+{%m.%} special kind of food, choice food, dainty, 
+delicacy.
 <LEND>

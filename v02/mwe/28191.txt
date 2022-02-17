@@ -1,5 +1,5 @@
 <L>28191<pc>773-a<k1>stealth<k2>stealth
-<div n="lb"/>STEALTH¦, {%s.%} (Stealing), {%see%} above. — (Secret act) {#छलं, निभृत-#}
-<div n="lb"/>{#कर्म्म#} {%n.%} {#(न्), गूढकर्म्म, प्रच्छन्नकर्म्म, निह्नवः;#} ‘by stealth,’ {#छलेन,#}
-<div n="lb"/>{#निभृतं, रहसि, निह्नवेन,#} {%see%} CLANDESTINELY, SECRETLY.
+STEALTH¦, {%s.%} (Stealing), {%see%} above. — (Secret act) {#छलं, निभृत-#}
+{#कर्म्म#} {%n.%} {#(न्), गूढकर्म्म, प्रच्छन्नकर्म्म, निह्नवः;#} ‘by stealth,’ {#छलेन,#}
+{#निभृतं, रहसि, निह्नवेन,#} {%see%} CLANDESTINELY, SECRETLY.
 <LEND>

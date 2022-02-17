@@ -1,10 +1,10 @@
 <L>16739<pc>289-3<k1>विश्<k2>विश्
 {#विश्#}¦víś, {%f.%} ({%nm. t. lc. pl.%} {@vikṣú@}) settlement, <lbinfo n="6"/>
-<> homestead, house ({%RV.%}); {%sg., pl.%} community, <lbinfo n="3"/>
-<> tribe, people ({%pl.%} subjects, folk, troops; 
-<>{%V.%}); {%sg., pl. sp.%} the people = the third caste 
-<>({%Br., C.%}; = Vaiśya): {%sg.%} man of the third caste: 
-<>viśás-páti, lord of the house, {%ep. of%} Indra {%and%} 
-<>Agni; {@viśvara, pati,@} {%or%} {@nātha@}, lord 
-<>of the people, king.
+ homestead, house ({%RV.%}); {%sg., pl.%} community, <lbinfo n="3"/>
+ tribe, people ({%pl.%} subjects, folk, troops; 
+{%V.%}); {%sg., pl. sp.%} the people = the third caste 
+({%Br., C.%}; = Vaiśya): {%sg.%} man of the third caste: 
+viśás-páti, lord of the house, {%ep. of%} Indra {%and%} 
+Agni; {@viśvara, pati,@} {%or%} {@nātha@}, lord 
+of the people, king.
 <LEND>

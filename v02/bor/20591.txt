@@ -1,4 +1,4 @@
 <L>20591<pc>646<k1>singer<k2>singer
-<div n="lb"/>{@SINGER:@}¦ <div n="1">(1) {#गायन#} (f. {#नी#}); </div><div n="1">(2) {#गायक#} (f. {#यिका#});</div>
-<div n="lb"/><div n="1">(3) by verb or comp.</div>
+{@SINGER:@}¦ <div n="1">(1) {#गायन#} (f. {#नी#}); </div><div n="1">(2) {#गायक#} (f. {#यिका#});</div>
+<div n="1">(3) by verb or comp.</div>
 <LEND>

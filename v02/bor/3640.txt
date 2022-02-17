@@ -1,5 +1,5 @@
 <L>3640<pc>120<k1>chromatic<k2>chromatic
-<div n="lb"/>{@CHROMATIC:@}¦ <div n="I">I Relating to colour: {#रङ्ग#}- {%or%}
-<div n="lb"/>{#वर्ण#} in comp., <div n="xe">{%the science of c. s.%}</div> <div n="xs">{#*रङ्गविद्या#}</div> (?).</div>
-<div n="lb"/><div n="I">II In music: {#ग्रामीणः#} ({#णा, णं#}).</div>
+{@CHROMATIC:@}¦ <div n="I">I Relating to colour: {#रङ्ग#}- {%or%}
+{#वर्ण#} in comp., <div n="xe">{%the science of c. s.%}</div> <div n="xs">{#*रङ्गविद्या#}</div> (?).</div>
+<div n="I">II In music: {#ग्रामीणः#} ({#णा, णं#}).</div>
 <LEND>

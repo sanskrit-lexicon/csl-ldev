@@ -1,7 +1,7 @@
 <L>61518<pc>5-0874<k1>मृगव्याध<k2>मृगव्याध
-{#मृगव्याध#}¦ {#(मृग + व्याध)#} <lex>m.</lex> 
+{#मृगव्याध#}¦ ({#मृग + व्याध#}) <lex>m.</lex> 
 <div n="1"> 1) {%Jäger%} 
-<ls>MBH. 3, 2387. 2389.</ls> 
+<ls>MBH. 3, 2387.</ls> <ls n="MBH. 3,">2389.</ls> 
 <ls>Spr. 4846.</ls> 
 <ls>RĀJA-TAR. 5, 196.</ls> 
 <div n="1">— 2) {%der Stern Sirius%} 
@@ -11,7 +11,7 @@
 <ls>MBH. 14, 197.</ls> 
 <div n="1">— 4) N. pr. eines der 
 <ls>11</ls> <is>Rudra</is> 
-<ls>MBH. 1, 2566. 4825.</ls> 
-<ls>HARIV. 11531. 13187. 13631. 13637. 13640. fg. 14169.</ls> 
+<ls>MBH. 1, 2566.</ls> <ls n="MBH. 1,">4825.</ls> 
+<ls>HARIV. 11531.</ls> <ls n="HARIV.">13187.</ls> <ls n="HARIV.">13631.</ls> <ls n="HARIV.">13637.</ls> <ls n="HARIV.">13640. fg.</ls> <ls n="HARIV.">14169.</ls> 
 <ls>VP. 121.</ls>
 <LEND>

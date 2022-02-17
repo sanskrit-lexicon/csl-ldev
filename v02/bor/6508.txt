@@ -1,7 +1,7 @@
 <L>6508<pc>208<k1>dispose of<k2>dispose of
-<div n="lb"/>{@DISPOSE OF:@}¦ <div n="I">I To direct, employ: q. v.:
-<div n="lb"/>{#निर्दिशति#} ({#दिश्,#} c. 6.). </div><div n="I">II To get rid of: </div><div n="1">(1)
-<div n="lb"/>{#ददाति#} ({#दा,#} c. 3.): v. To give; </div><div n="1">(2) {#विक्रीणीते#}
-<div n="lb"/>({#क्री,#} c. 9.): v. To sell. </div><div n="I">III To finish: q. v.:
-<div n="lb"/>{#समापयति#} (c. of {#आप्#}).</div>
+{@DISPOSE OF:@}¦ <div n="I">I To direct, employ: q. v.:
+{#निर्दिशति#} ({#दिश्,#} c. 6.). </div><div n="I">II To get rid of: </div><div n="1">(1)
+{#ददाति#} ({#दा,#} c. 3.): v. To give; </div><div n="1">(2) {#विक्रीणीते#}
+({#क्री,#} c. 9.): v. To sell. </div><div n="I">III To finish: q. v.:
+{#समापयति#} (c. of {#आप्#}).</div>
 <LEND>

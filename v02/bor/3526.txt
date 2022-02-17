@@ -1,6 +1,6 @@
 <L>3526<pc>117<k1>chequer<k2>chequer
-<div n="lb"/>{@CHEQUER:@}¦ <div n="I">I Lit: Ph.: <div n="xe">{%with body c. ed with%}
-<div n="lb"/>{%rainbow like-lines%}</div> <div n="xs">{#आखण्डलचापानुकारिभिर्लेखाभिः #}
-<div n="lb"/>{# कल्माषितशरीरः,#}</div> K.: v. To variegate. </div><div n="I">II To
-<div n="lb"/>vary: {#मिश्रयति#} ({#मिश्र्,#} c. 10.): v. To mix.</div>
+{@CHEQUER:@}¦ <div n="I">I Lit: Ph.: <div n="xe">{%with body c. ed with%}
+{%rainbow like-lines%}</div> <div n="xs">{#आखण्डलचापानुकारिभिर्लेखाभिः #}
+{# कल्माषितशरीरः,#}</div> K.: v. To variegate. </div><div n="I">II To
+vary: {#मिश्रयति#} ({#मिश्र्,#} c. 10.): v. To mix.</div>
 <LEND>

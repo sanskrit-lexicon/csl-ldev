@@ -1,4 +1,4 @@
 <L>14895<pc>455<k1>moneyless<k2>moneyless
-<div n="lb"/>{@MONEYLESS:@}¦ <div n="1">(1) {#निर्धनः#} ({#ना, नं#}); </div><div n="1">(2) {#धनहीनः#}
-<div n="lb"/>({#ना, नं#}) and sim. comp.</div>
+{@MONEYLESS:@}¦ <div n="1">(1) {#निर्धनः#} ({#ना, नं#}); </div><div n="1">(2) {#धनहीनः#}
+({#ना, नं#}) and sim. comp.</div>
 <LEND>

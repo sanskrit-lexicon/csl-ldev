@@ -8,7 +8,7 @@
 <ls>NIR. 12, 14.</ls> 
 <ls>KĀŚ.</ls> zu <ls>P. 5, 4, 30.</ls> <ls>AK. 1, 1, 2, 29.</ls> <ls>H. 95.</ls> <ls>MED. y. 62.</ls> <ls>HALĀY. 1, 35. 5, 53.</ls> {#आ सूर्यो^ बृह\तस्ति^ष्ठ\दज्रा^न्#} 
 <ls>ṚV. 4, 1, 17.</ls> {#उत्सूर्यो\ ज्योति^षा दे\व ए^ति#} 
-<ls n="ṚV.">4, 13, 1.</ls> <ls>fgg. 7, 60, 1. fgg. 63, 1. fgg.</ls> {#इन्द्र\ः सूर्य^मरोचयत्#} 
+<ls n="ṚV.">4, 13, 1. fgg. 7, 60, 1. fgg. 63, 1. fgg.</ls> {#इन्द्र\ः सूर्य^मरोचयत्#} 
 <ls n="ṚV.">8, 3, 6.</ls> {#वि र\श्मिभि^ः ससृजे\ सूर्यो\ गाः#} 
 <ls n="ṚV.">7, 36, 1.</ls> <ls n="ṚV. 7,">81, 2.</ls> ({#उषसः#})
 [Page7-1173]
@@ -51,13 +51,13 @@
 <ls>1, 61, 15.</ls> <is>Indra</is>, <is>Agni</is>, <is>Sūrya</is> 
 <ls>ŚAT. BR. 4, 5, 4, 1.</ls> 
 <ls>TS. 6, 6, 8, 3.</ls> <is>Agni</is>, <is>Vāyu</is>, <is>Sūrya</is> 
-<ls>?3, 5, 4, 1. ŚAT. BR. 11, 2, 3, 11. - WEBER, JYOT. 106. 110. M. 1, 65. 2, 219. fgg. 3, 280. 4, 52. 11, 219. MBH. 3, 1749. 2827. HARIV. 12148. R. 1, 1, 6. 7, 17. 63, 2. 5, 25, 26. MEGH. 39. Spr. (II) 7162. VARĀH. BṚH. S. 5, 7. 10. 24, 30. 30, 1. WEBER, KṚṢṆAJ. 264. Verz. d. B. H. No. 947. BHĀG. P. 4, 5, 3. VET. in LA. (III) 1, 12. LALIT. ed. Calc. 43, 18. 136, 2. Lot. de la b. l. 2. WILSON, Sel. Works 1, 20.</ls> {#सूर्यस्य भ्राजाभ्राजम्#} N. eines <is>Sāman</is> 
+<ls>3, 5, 4, 1.</ls> <ls>ŚAT. BR. 11, 2, 3, 11.</ls> -- <ls>WEBER, JYOT. 106. 110.</ls> <ls>M. 1, 65. 2, 219. fgg. 3, 280. 4, 52. 11, 219.</ls> <ls>MBH. 3, 1749.</ls> <ls n="MBH. 3,">2827.</ls> <ls>HARIV. 12148.</ls> <ls>R. 1, 1, 6. 7, 17. 63, 2. 5, 25, 26.</ls> <ls>MEGH. 39.</ls> <ls>Spr. (II) 7162.</ls> <ls>VARĀH. BṚH. S. 5, 7. 10. 24, 30. 30, 1.</ls> <ls>WEBER, KṚṢṆAJ. 264.</ls> <ls>Verz. d. B. H. No. 947.</ls> <ls>BHĀG. P. 4, 5, 3.</ls> <ls>VET. in LA. (III) 1, 12.</ls> <ls>LALIT. ed. Calc. 43, 18. 136, 2.</ls> <ls>Lot. de la b. l. 2.</ls> <ls>WILSON, Sel. Works 1, 20.</ls> {#सूर्यस्य भ्राजाभ्राजम्#} N. eines <is>Sāman</is> 
 <ls>Ind. St. 3,245,a.</ls> pl. personif. 
 <ls>KATHĀS. 115, 58.</ls> {#सूर्यापाय#} 
 <ls>MEGH. 78.</ls> {#°प्रभवो वंशः#} 
 <ls>RAGH. 1, 2.</ls> {#°चार#} 
 <ls>Verz. d. Oxf. H. 330,a,13.</ls> {#°दर्शनचारफलानि#} 
-<ls>329,b,7 v. u.</ls> {#°कवच#} 
+<ls>329,b,7</ls> v. u. {#°कवच#} 
 <ls>26,a,37. 94,a,35.</ls> <ls>Verz. d. Tüb. H. 20.</ls> {#°पूजा#} 
 <ls>Verz. d. Oxf. H. 45,a,22. 85,a,41.</ls> {#°प्रयोग#} 
 <ls>94,b,20. fg.</ls> {#°मन्त्राः#} 

@@ -1,5 +1,5 @@
 <L>6236<pc>139-b<k1>counter<k2>counter
-<div n="lb"/>COUNTER¦, {%s.%} (Table to count money on) {#गणनफलकं, बणिक्फलकं,#}
-<div n="lb"/>{#बणिजां मुद्रासनं#}. — (Round piece to count with) {#गणनार्थं मुद्रा#}
-<div n="lb"/>or {#काकिनी#} or {#कपर्द्दकः#} or {#वटः#} or {#वराटकः#} or {#अष्ठीला#} or {#अक्षः#}.
+COUNTER¦, {%s.%} (Table to count money on) {#गणनफलकं, बणिक्फलकं,#}
+{#बणिजां मुद्रासनं#}. — (Round piece to count with) {#गणनार्थं मुद्रा#}
+or {#काकिनी#} or {#कपर्द्दकः#} or {#वटः#} or {#वराटकः#} or {#अष्ठीला#} or {#अक्षः#}.
 <LEND>

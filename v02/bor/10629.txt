@@ -1,5 +1,5 @@
 <L>10629<pc>334<k1>hardly<k2>hardly
-<div n="lb"/>{@HARDLY:@}¦ <div n="I">I With difficulty: q.v.: {#कथमपि।#}</div>
-<div n="lb"/><div n="I">II Scarcely: {#कष्टेन।#} </div><div n="I">III Harshly: q.v.:</div>
-<div n="lb"/><div n="1">(1) {#कठिनम्;#} </div><div n="1">(2) {#कठोरम्।#}</div>
+{@HARDLY:@}¦ <div n="I">I With difficulty: q.v.: {#कथमपि।#}</div>
+<div n="I">II Scarcely: {#कष्टेन।#} </div><div n="I">III Harshly: q.v.:</div>
+<div n="1">(1) {#कठिनम्;#} </div><div n="1">(2) {#कठोरम्।#}</div>
 <LEND>

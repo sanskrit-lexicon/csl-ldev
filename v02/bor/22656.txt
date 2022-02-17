@@ -1,6 +1,6 @@
 <L>22656<pc>715<k1>tomorrow<k2>tomorrow
-<div n="lb"/>{@TOMORROW:@}¦ <div n="1">(1) {#श्वः,#} <div n="xe">{%day after t.:%}</div> <div n="xs">{#परश्वः:#}</div> <div n="xe">{%t.%}
-<div n="lb"/>{%morning:%}</div> <div n="xs">{#श्वः प्रभाते,#}</div> Ram.; <div n="xe">{%of t.:%}</div> <div n="xs">{#श्वस्तनः#}</div> ({#नी, #}
-<div n="lb"/>{# नं#}) <div n="xe">{%or%}</div> <div n="xs">{#श्वस्त्य#}</div> (f. {#स्त्या#}); </div><div n="1">(2) {#कल्यम्#} (also =
-<div n="lb"/>yesterday).</div>
+{@TOMORROW:@}¦ <div n="1">(1) {#श्वः,#} <div n="xe">{%day after t.:%}</div> <div n="xs">{#परश्वः:#}</div> <div n="xe">{%t.%}
+{%morning:%}</div> <div n="xs">{#श्वः प्रभाते,#}</div> Ram.; <div n="xe">{%of t.:%}</div> <div n="xs">{#श्वस्तनः#}</div> ({#नी, #}
+{# नं#}) <div n="xe">{%or%}</div> <div n="xs">{#श्वस्त्य#}</div> (f. {#स्त्या#}); </div><div n="1">(2) {#कल्यम्#} (also =
+yesterday).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>13200<pc>407<k1>lapse<k2>lapse
-<div n="lb"/>{@LAPSE@}¦ (subs.): <div n="I">I Flow, motion: q. v.: {#गतिः।#}</div>
-<div n="lb"/><div n="I">II A failing: {#स्खलितम्।#} </div><div n="I">III Fall: q. v.: {#पातः।#}</div>
+{@LAPSE@}¦ (subs.): <div n="I">I Flow, motion: q. v.: {#गतिः।#}</div>
+<div n="I">II A failing: {#स्खलितम्।#} </div><div n="I">III Fall: q. v.: {#पातः।#}</div>
 <LEND>

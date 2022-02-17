@@ -1,6 +1,6 @@
 <L>9413<pc>298<k1>freshness<k2>freshness
-<div n="lb"/>{@FRESHNESS:@}¦ <div n="I">I Newness: {#नवीनता।#} </div><div n="I">II Liveli-
-<div n="lb"/>-ness: {#उल्लासः।#} </div><div n="I">III Pleasantness: {#सुखता।#} </div><div n="I">IV
-<div n="lb"/>Not salted-ness; {#निर्दोषता।#} Better by adj.: v.
-<div n="lb"/>FRESH.</div>
+{@FRESHNESS:@}¦ <div n="I">I Newness: {#नवीनता।#} </div><div n="I">II Liveli-
+-ness: {#उल्लासः।#} </div><div n="I">III Pleasantness: {#सुखता।#} </div><div n="I">IV
+Not salted-ness; {#निर्दोषता।#} Better by adj.: v.
+FRESH.</div>
 <LEND>

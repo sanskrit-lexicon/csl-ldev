@@ -1,5 +1,5 @@
 <L>5494<pc>176<k1>dean<k2>dean
-<div n="lb"/>{@DEAN:@}¦ <div n="I">I Under a bishop: {#*आचार्यः,#} <div n="xe">{%d. and%}
-<div n="lb"/>{%chapter:%}</div> <div n="xs">{#*धर्मसमाजः।#}</div> </div><div n="I">II The president of a
-<div n="lb"/>faculty: {#सभापतिः।#}</div>
+{@DEAN:@}¦ <div n="I">I Under a bishop: {#*आचार्यः,#} <div n="xe">{%d. and%}
+{%chapter:%}</div> <div n="xs">{#*धर्मसमाजः।#}</div> </div><div n="I">II The president of a
+faculty: {#सभापतिः।#}</div>
 <LEND>

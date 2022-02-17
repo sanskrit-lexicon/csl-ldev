@@ -1,4 +1,4 @@
 <L>10890<pc>343<k1>heraldic<k2>heraldic
-<div n="lb"/>{@HERALDIC:@}¦ <div n="xe">{%h. distinctions:%}</div> <div n="xs">{#*कुलचिह्नानि;#}</div> <div n="xe">{%h. deline-%}
-<div n="lb"/>{%ation:%}</div> <div n="xs">{#*कृलचिह्नरचना।#}</div>
+{@HERALDIC:@}¦ <div n="xe">{%h. distinctions:%}</div> <div n="xs">{#*कुलचिह्नानि;#}</div> <div n="xe">{%h. deline-%}
+{%ation:%}</div> <div n="xs">{#*कृलचिह्नरचना।#}</div>
 <LEND>

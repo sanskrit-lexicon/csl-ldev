@@ -1,5 +1,5 @@
 <L>454<pc>018<k1>aggravation<k2>aggravation
-<div n="lb"/>{@AGGRAVATION:@}¦ <div n="I">I Enhancement: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#वृद्धिः;#} </div><div n="1">(2) {#उपचयः।#} </div><div n="I">II Exaggeration:
-<div n="lb"/>q. v. </div><div n="I">III Provocation, irritation: q. v.</div>
+{@AGGRAVATION:@}¦ <div n="I">I Enhancement: q. v.:</div>
+<div n="1">(1) {#वृद्धिः;#} </div><div n="1">(2) {#उपचयः।#} </div><div n="I">II Exaggeration:
+q. v. </div><div n="I">III Provocation, irritation: q. v.</div>
 <LEND>

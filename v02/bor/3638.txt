@@ -1,4 +1,4 @@
 <L>3638<pc>120<k1>christmas<k2>christmas
-<div n="lb"/>{@CHRISTMAS:@}¦ {#*कृष्टजन्मोत्सवः।#} <div n="xe">{%C. -day:%}</div> <div n="xs">{#*कृष्टस्य जन्म-#}
-<div n="lb"/>{#दिनम्।#}</div> <div n="xe">{%C. -eve:%}</div> <div n="xs">{#*कष्टस्य जन्मदिनस्य पूर्वप्रदोषः।#}</div>
+{@CHRISTMAS:@}¦ {#*कृष्टजन्मोत्सवः।#} <div n="xe">{%C. -day:%}</div> <div n="xs">{#*कृष्टस्य जन्म-#}
+{#दिनम्।#}</div> <div n="xe">{%C. -eve:%}</div> <div n="xs">{#*कष्टस्य जन्मदिनस्य पूर्वप्रदोषः।#}</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>18284<pc>561<k1>put to<k2>put to
-<div n="lb"/>{@PUT TO:@}¦ <div n="I">I To add: q. v. </div><div n="I">II To expose:
-<div n="lb"/>q. v. <div n="xe">{%P. hand to:%}</div> <div n="xs">{#हस्तं क्षिपति।#}</div> <div n="xe">{%P. to sea:%}</div> <div n="xs">{#नावं#}</div>
-<div n="lb"/>etc. {#मुक्त्वा समुद्रं गच्छति।#} {%P. to trial:%} v. To
-<div n="lb"/>try. <div n="xe">{%P. to the sword:%}</div> <div n="xs">{#शिरः छिनत्ति#}</div> ({#छिद्,#} c. 7.):
-<div n="lb"/>v. To slay, behead. <div n="xe">{%To p. to it:%}</div> <div n="xs">{#पीडयति:#}</div>
-<div n="lb"/>v. To distress. {%To p. to a stand:%} v. To
-<div n="lb"/>stop. See also put (II)</div>
+{@PUT TO:@}¦ <div n="I">I To add: q. v. </div><div n="I">II To expose:
+q. v. <div n="xe">{%P. hand to:%}</div> <div n="xs">{#हस्तं क्षिपति।#}</div> <div n="xe">{%P. to sea:%}</div> <div n="xs">{#नावं#}</div>
+etc. {#मुक्त्वा समुद्रं गच्छति।#} {%P. to trial:%} v. To
+try. <div n="xe">{%P. to the sword:%}</div> <div n="xs">{#शिरः छिनत्ति#}</div> ({#छिद्,#} c. 7.):
+v. To slay, behead. <div n="xe">{%To p. to it:%}</div> <div n="xs">{#पीडयति:#}</div>
+v. To distress. {%To p. to a stand:%} v. To
+stop. See also put (II)</div>
 <LEND>

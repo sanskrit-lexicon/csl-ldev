@@ -1,12 +1,12 @@
 <L>18881<pc>486-b<k1>mate<k2>mate
-<div n="lb"/>MATE¦, {%s.%} (Companion, associate) {#सहायः, सहचरः -री#} {%f.,%} {#सहवर्त्ती#} {%m.%}
-<div n="lb"/>{#-र्त्तिनी#} {%f.,%} {#सहवासी#} {%m.%} {#-सिनी, सखा#} {%m.%} {#-खी#} {%f.,%} {#सहभावी#} {%m.%} {#-विनी#} {%f.,%}
-<div n="lb"/>{#सङ्गी#} {%m.%} {#-ङ्गिनी#} {%f.,%} {#मित्रं#}. — (Husband) {#भर्त्ता#} {%m.%} {#(र्त्तृ), स्वामी#} {%m.%}
-<div n="lb"/>{#(न्), पतिः#} {%m.%} — (Wife) {#स्त्री, वधूः#} {%f.,%} {#पत्नी, भार्य्या, जाया,#}
-<div n="lb"/>{#वल्लभा, प्रिया, दयिता, प्रियतमा#}. — (The male or female of
-<div n="lb"/>animals which associate for propagation) {#सहचरः#} {%m.%} {#-री#} {%f.%}
-<div n="lb"/>In poetry the above words for husband and wife are
-<div n="lb"/>used in this sense: ‘the elephant's mate,’ {#करिणी#} {%f.,%}
-<div n="lb"/>{#हस्तिनी#} {%f.%} — (An assistant) {#सहकारी#} {%m.%} {#-रिणी#} {%f.%} {#(न्), सहायः;#}
-<div n="lb"/>‘in a ship,’ {#नौपतिसहायः#}.
+MATE¦, {%s.%} (Companion, associate) {#सहायः, सहचरः -री#} {%f.,%} {#सहवर्त्ती#} {%m.%}
+{#-र्त्तिनी#} {%f.,%} {#सहवासी#} {%m.%} {#-सिनी, सखा#} {%m.%} {#-खी#} {%f.,%} {#सहभावी#} {%m.%} {#-विनी#} {%f.,%}
+{#सङ्गी#} {%m.%} {#-ङ्गिनी#} {%f.,%} {#मित्रं#}. — (Husband) {#भर्त्ता#} {%m.%} {#(र्त्तृ), स्वामी#} {%m.%}
+{#(न्), पतिः#} {%m.%} — (Wife) {#स्त्री, वधूः#} {%f.,%} {#पत्नी, भार्य्या, जाया,#}
+{#वल्लभा, प्रिया, दयिता, प्रियतमा#}. — (The male or female of
+animals which associate for propagation) {#सहचरः#} {%m.%} {#-री#} {%f.%}
+In poetry the above words for husband and wife are
+used in this sense: ‘the elephant's mate,’ {#करिणी#} {%f.,%}
+{#हस्तिनी#} {%f.%} — (An assistant) {#सहकारी#} {%m.%} {#-रिणी#} {%f.%} {#(न्), सहायः;#}
+‘in a ship,’ {#नौपतिसहायः#}.
 <LEND>

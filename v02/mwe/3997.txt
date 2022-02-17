@@ -1,4 +1,4 @@
 <L>3997<pc>086-a<k1>centenary<k2>centenary
-<div n="lb"/>CENTENARY¦, {%s.%} {#शतकः, शतं;#} ‘a centenary of years,’ {#वर्षशतं,#}
-<div n="lb"/>{#अब्दशतं, शतवर्षं#}.
+CENTENARY¦, {%s.%} {#शतकः, शतं;#} ‘a centenary of years,’ {#वर्षशतं,#}
+{#अब्दशतं, शतवर्षं#}.
 <LEND>

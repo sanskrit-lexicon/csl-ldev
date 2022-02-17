@@ -16,13 +16,13 @@
 <ls>Sch.</ls> 
 <ls>VOP. 25, 7.</ls> {#न चेन्मुनिकुमारो ऽयमथ को ऽस्य व्यपदेशः#} 
 <ls>ŚĀK. 104, 15.</ls> Führt eine Erzählung oder eine Darstellung weiter fort, oft die Sätze nur äusserlich an einander reihend. In der Prosa steht {#अथ#} am Anfange des Satzes 
-<ls>?(NIR. 2, 2. u.s.w. HIT. 8, 14. 9, 4. 14. 14, 12. 17, 4. 18, 8. 20, 12. 21, 7.</ls> u. s. w.), in der gebundenen Rede dagegen bald am Anfange (
+(<ls>NIR. 2, 2.</ls> u.s.w. <ls>HIT. 8, 14. 9, 4. 14. 14, 12. 17, 4. 18, 8. 20, 12. 21, 7.</ls> u. s. w.), in der gebundenen Rede dagegen bald am Anfange (
 <ls>N. 1, 11. 24. 2, 27. 3, 19. 5, 1. 13, 2. 16, 31. 23, 12.</ls> 
 <ls>VIŚV. 7, 3.</ls> 
 <ls>DAŚ. 2, 27.</ls> 
 <ls>RAGH. 12, 12.</ls> 
-<ls>VID. 18. 138. u.s.w.</ls>), bald in der Mitte 
-<ls>?(N. 5, 11. 9, 7. 17. 11, 15. 12, 66. 75. R. 1, 2, 27. VIŚV. 5, 13. RAGH. 12, 40. VID. 153.</ls> u. s. w.), ausnahmsweise sogar am Ende (
+<ls>VID. 18. 138.</ls> u.s.w.), bald in der Mitte 
+(<ls>N. 5, 11. 9, 7. 17. 11, 15. 12, 66. 75.</ls> <ls>R. 1, 2, 27.</ls> <ls>VIŚV. 5, 13.</ls> <ls>RAGH. 12, 40.</ls> <ls>VID. 153.</ls> u. s. w.), ausnahmsweise sogar am Ende (
 <ls>N. 5, 9.</ls>) des <is>Śloka</is>. Die Bedeutung ist oft so abgeschwächt, dass ein {%alsdann, hierauf%} in der Uebersetzung zu stark sein würde. Wie {#अथ#} reiht auch {#अथापि#} Sätze an einander, 
 <ls>NIR. 2, 2.</ls> u. s. w. In dieser Weise wird {#अथ#} im <is>Veda</is> noch nicht gebraucht, wie schon daraus erhellt, dass im ganzen 
 <ls>ṚV.</ls> nur 3 <is>Ṛc</is> mit {#अथ#} beginnen und zwar solche, die in dem engern Verband einer Strophe, eines <is>Tṛca</is>, mit dem Vorangehenden stehen, 
@@ -77,13 +77,13 @@
 <ls>71, 3, v. l.</ls> {#अथ च#} {%aber auch wenn%} — {#तथापि#} 
 <ls>BHAG. 2, 26.</ls> 
 <div n="1">— 6) bisweilen scheint {#अथ#} in der That nur zur Completirung des Verses da zu stehen, so 
-z. B. <ls>. 9, 128. N. 4, 13.</ls> Die indischen Lexicographen ertheilen {#अथ#} und dem u. 7,a. zu besprechenden {#अथो#} folgende Bedeutungen: 
+z. B. . <ls>9, 128.</ls> <ls>N. 4, 13.</ls> Die indischen Lexicographen ertheilen {#अथ#} und dem u. 7,a. zu besprechenden {#अथो#} folgende Bedeutungen: 
 <div n="2"> a) {#मङ्गले#}, 
 <div n="2"> b) {#अनन्तरे#}, 
 <div n="2"> c) {#आरम्भे#}, 
 <div n="2"> d) {#प्रश्ने#}, 
 <div n="2"> e) {#कार्त्स्न्ये#} oder {#साकल्ये#} 
-<ls>AK. 3, 4, 32,</ls> <ls>?(COL. 28,) 8. H. an. 7, 27. 28. MED. <is>avy</is>. 35.</ls> 
+<ls>AK. 3, 4, 32,</ls> (<ls>COL. 28,) 8.</ls> <ls>H. an. 7, 27. 28.</ls> <ls>MED. <is>avy</is>. 35.</ls> 
 <div n="2">— f) {#संशये#}, 
 <div n="2"> g) {#अधिकारे#}, 
 <div n="2"> h) {#समुच्चये#} 
@@ -165,7 +165,7 @@ Das u.
 <div n="2">— c) {#अथ किम्#} {%wie denn anders? so ist es, allerdings%} 
 <ls>HĀR. 264</ls> ({#अङ्गीकारे#}). 
 <ls>ŚABDAR.</ls> ({#स्वीकारे#}) im 
-<ls>ŚKDR.</ls> <ls>ŚĀK. 28, 1. 61, 10. 108, 7, v. l. 109, 15.</ls> <ls>HIT. 60, 12. u.s.w.</ls> Die <is>Prākṛt</is>-Form {#अहैं#} (
+<ls>ŚKDR.</ls> <ls>ŚĀK. 28, 1. 61, 10. 108, 7, v. l. 109, 15.</ls> <ls>HIT. 60, 12.</ls> u.s.w. Die <is>Prākṛt</is>-Form {#अहैं#} (
 <ls>ŚĀK. 15, 5.</ls>) scheint dafür zu sprechen, dass {#अथ किम्#} als ein Wort gesprochen worden sei. 
 <div n="2">— d) {#अथ किमु#} {%um wie viel mehr%} 
 <ls>ŚAT. BR. 1, 1, 1, 8.</ls> 

@@ -1,4 +1,4 @@
 <L>13448<pc>414<k1>less<k2>less
-<div n="lb"/>{@LESS@}¦ (adj.): <div n="1">(1) {#न्यूनः#} ({#ना, नं#}); </div><div n="1">(2) {#ऊनः#} ({#ना, #}
-<div n="lb"/>{# नं#}), <div n="xe">{%if it is l.:%}</div> <div n="xs">{#ऊनाञ्चेत्,#}</div> V. s.: v. Little.</div>
+{@LESS@}¦ (adj.): <div n="1">(1) {#न्यूनः#} ({#ना, नं#}); </div><div n="1">(2) {#ऊनः#} ({#ना, #}
+{# नं#}), <div n="xe">{%if it is l.:%}</div> <div n="xs">{#ऊनाञ्चेत्,#}</div> V. s.: v. Little.</div>
 <LEND>

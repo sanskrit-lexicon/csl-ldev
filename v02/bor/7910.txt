@@ -1,4 +1,4 @@
 <L>7910<pc>250<k1>evenly<k2>evenly
-<div n="lb"/>{@EVENLY:@}¦ <div n="1">(1) {#समम्;#} </div><div n="1">(2) {#समानम्;#} </div><div n="1">(3) {#तुल्यम्:#}
-<div n="lb"/>v. Equally, uniformly.</div>
+{@EVENLY:@}¦ <div n="1">(1) {#समम्;#} </div><div n="1">(2) {#समानम्;#} </div><div n="1">(3) {#तुल्यम्:#}
+v. Equally, uniformly.</div>
 <LEND>

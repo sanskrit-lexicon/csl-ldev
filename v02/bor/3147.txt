@@ -1,5 +1,5 @@
 <L>3147<pc>105<k1>cartel<k2>cartel
-<div n="lb"/>{@CARTEL:@}¦ <div n="I">I An agreement for the exchange
-<div n="lb"/>of prisoners: {#नियमः।#} </div><div n="I">II A challenge to
-<div n="lb"/>single combat: {#द्वन्द्वयुद्धाय समाह्वानम्।#}</div>
+{@CARTEL:@}¦ <div n="I">I An agreement for the exchange
+of prisoners: {#नियमः।#} </div><div n="I">II A challenge to
+single combat: {#द्वन्द्वयुद्धाय समाह्वानम्।#}</div>
 <LEND>

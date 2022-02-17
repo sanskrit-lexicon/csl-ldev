@@ -1,4 +1,4 @@
 <L>12947<pc>399<k1>jurisdiction<k2>jurisdiction
-<div n="lb"/>{@JURISDICTION:@}¦ {#अधिकारः,#} <div n="xe">{%beyond j.:%}</div> <div n="xs">{#अधिकारबहिभतः#}</div>
-<div n="lb"/>({#ता, तं#}) (?).
+{@JURISDICTION:@}¦ {#अधिकारः,#} <div n="xe">{%beyond j.:%}</div> <div n="xs">{#अधिकारबहिभतः#}</div>
+({#ता, तं#}) (?).
 <LEND>

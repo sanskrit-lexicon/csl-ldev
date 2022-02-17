@@ -14,7 +14,7 @@
 <ls>AIT. BR. 5, 23.</ls> 
 <ls>ŚAT. BR. 7, 2, 3, 1.</ls> 
 <ls>ĀŚV. ŚR. 3, 14, 16.</ls> {#वीरण°#} 
-<ls>MBH. 1, 1816. 1818. 1835.</ls> 
+<ls>MBH. 1, 1816.</ls> <ls n="MBH. 1,">1818.</ls> <ls n="MBH. 1,">1835.</ls> 
 <ls>R. 2, 80, 8 (87, 10 GORR.).</ls> {#इषीका°#} 
 <ls>HARIV. 1350.</ls> {#मुस्ता°#} 
 <ls>RAGH. 15, 19.</ls> {#वेणु°#} 
@@ -23,7 +23,7 @@
 <ls>RĀJA-TAR. 4, 295.</ls> {#ब्रह्मादिस्तम्बपर्यन्तम्#} {%Alles was zwischen%} <is>Brahman</is> {%und dem Grase liegt%} 
 <ls>MBH. 13, 1090.</ls> 
 <ls>SĀṂKHYAK. 54.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 156</ls> ({#स्तम्भ#} fehlerhaft). 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 156</ls> ({#स्तम्भ#} fehlerhaft). 
 <ls>BHĀG. P. 12, 6, 67.</ls> 
 <ls>SARVADARŚANAS. 60, 8.</ls> {#आब्रह्मस्तम्बपर्यन्तम्#} 
 <ls>PAÑCAR. 2, 1, 21.</ls> {#आब्रह्मतृणस्तम्बादीनाम्#} 
@@ -35,8 +35,8 @@
 <div n="1">— 3) {%Berg%} 
 <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> 
 <div n="1">— 4) N. pr. verschiedener Männer 
-<ls>HARIV. 417. 9194. 14150.</ls> 
-<ls>VP. 2te Aufl. 3, 4</ls>  (v. l. für {#स्तम्भ#}) 
+<ls>HARIV. 417.</ls> <ls n="HARIV.">9194.</ls> <ls n="HARIV.">14150.</ls> 
+<ls>VP. 2te Aufl. 3, 4</ls> (v. l. für {#स्तम्भ#}) 
 <ls>MĀRK. P. 67, 4.</ls> — <lex>n.</lex> nach 
 <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON</ls> {%a post, a pillar in general; stupidity, insensibility%}; vgl. {#स्तम्भ#} . fehlerhaft für {#स्तम्भ#} 
 <ls>ŚRUT. 44.</ls> 

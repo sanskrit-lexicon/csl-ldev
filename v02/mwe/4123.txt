@@ -1,7 +1,7 @@
 <L>4123<pc>089-a<k1>channel<k2>channel
-<div n="lb"/>CHANNEL¦, {%s.%} (A strait) {#सङ्कटं#}. — (The bed of a river) {#नदीभाण्डं,#}
-<div n="lb"/>{#नदीपात्रं, गर्भः, नदीगर्भः#}. — (A long excavation, a canal) {#कुल्या,#}
-<div n="lb"/>{#उपकुल्या, स्वातं, नालः, प्रणालः#}. — (A narrow passage) {#सङ्कीर्णपथः#}.
-<div n="lb"/> — (Furrow of a pillar) {#स्तम्भरेखा, स्तम्भसीता#}. — (A stream)
-<div n="lb"/>{#स्रोतः#} {%n.%} {#(स्)#}.
+CHANNEL¦, {%s.%} (A strait) {#सङ्कटं#}. — (The bed of a river) {#नदीभाण्डं,#}
+{#नदीपात्रं, गर्भः, नदीगर्भः#}. — (A long excavation, a canal) {#कुल्या,#}
+{#उपकुल्या, स्वातं, नालः, प्रणालः#}. — (A narrow passage) {#सङ्कीर्णपथः#}.
+ — (Furrow of a pillar) {#स्तम्भरेखा, स्तम्भसीता#}. — (A stream)
+{#स्रोतः#} {%n.%} {#(स्)#}.
 <LEND>

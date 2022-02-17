@@ -1,13 +1,13 @@
 <L>10832<pc>341<k1>height<k2>height
-<div n="lb"/>{@HEIGHT@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#उच्छायः#} (or
-<div n="lb"/>rarely {#उच्छ्रितिः#}), <div n="xe">{%of great h.:%}</div> <div n="xs">{#महोच्छ्रायः#}</div> ({#या, यं#});
-<div n="lb"/><div n="xe">{%and whose h. is three cubits:%}</div> <div n="xs">{#त्रिकरोच्छ्रितिश्च,#}</div> Li.;</div>
-<div n="lb"/><div n="1">(2) {#उत्सेधः,#} M. n.; </div><div n="1">(3) {#उच्चता#} <div n="xe">{%or rarely%}</div> <div n="xs">{#औच्च्यम्,#}</div>
-<div n="lb"/>Li.; </div><div n="1">(4) {#तुङ्गता।:#} v. Also loftiness, tallness. </div><div n="I">II
-<div n="lb"/>Fig.: expr. by the above words: v. Lofti-
-<div n="lb"/>-ness. </div><div n="I">III An elevated place: </div><div n="1">(1) {#उच्चस्थली;#}</div>
-<div n="lb"/><div n="1">(2) {#उन्नतभूमागः;#} etc.: v. Also summit. </div><div n="I">IV
-<div n="lb"/>Utmost degree: expr. by adj.: <div n="xe">{%in the h. of%}
-<div n="lb"/>{%fever:%}</div> <div n="xs">{#प्रबले ज्वरे;#}</div> <div n="xe">{%the h. of wisdom:%}</div> <div n="xs">{#परमं ज्ञानम्:#}</div> v.
-<div n="lb"/>Extreme, acme.</div>
+{@HEIGHT@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#उच्छायः#} (or
+rarely {#उच्छ्रितिः#}), <div n="xe">{%of great h.:%}</div> <div n="xs">{#महोच्छ्रायः#}</div> ({#या, यं#});
+<div n="xe">{%and whose h. is three cubits:%}</div> <div n="xs">{#त्रिकरोच्छ्रितिश्च,#}</div> Li.;</div>
+<div n="1">(2) {#उत्सेधः,#} M. n.; </div><div n="1">(3) {#उच्चता#} <div n="xe">{%or rarely%}</div> <div n="xs">{#औच्च्यम्,#}</div>
+Li.; </div><div n="1">(4) {#तुङ्गता।:#} v. Also loftiness, tallness. </div><div n="I">II
+Fig.: expr. by the above words: v. Lofti-
+-ness. </div><div n="I">III An elevated place: </div><div n="1">(1) {#उच्चस्थली;#}</div>
+<div n="1">(2) {#उन्नतभूमागः;#} etc.: v. Also summit. </div><div n="I">IV
+Utmost degree: expr. by adj.: <div n="xe">{%in the h. of%}
+{%fever:%}</div> <div n="xs">{#प्रबले ज्वरे;#}</div> <div n="xe">{%the h. of wisdom:%}</div> <div n="xs">{#परमं ज्ञानम्:#}</div> v.
+Extreme, acme.</div>
 <LEND>

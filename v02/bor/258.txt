@@ -1,6 +1,6 @@
 <L>258<pc>011<k1>adherent<k2>adherent
-<div n="lb"/>{@ADHERENT@}¦ (subs.): {#अनुगामिन्#} (f. {#नी#}): v.
-<div n="lb"/>Follower. Ph. <div n="xe">{%Anantasira is an a. of Prahara-%}
-<div n="lb"/>{%varma%}</div> <div n="xs">{#अनन्तसीरः प्रहारवर्मणः पक्षः,#}</div> <ls>D.</ls> iii.: v.
-<div n="lb"/>Partisan.
+{@ADHERENT@}¦ (subs.): {#अनुगामिन्#} (f. {#नी#}): v.
+Follower. Ph. <div n="xe">{%Anantasira is an a. of Prahara-%}
+{%varma%}</div> <div n="xs">{#अनन्तसीरः प्रहारवर्मणः पक्षः,#}</div> <ls>D.</ls> iii.: v.
+Partisan.
 <LEND>

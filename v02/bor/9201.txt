@@ -1,7 +1,7 @@
 <L>9201<pc>291<k1>foresee<k2>foresee
-<div n="lb"/>{@FORESEE:@}¦ <div n="1">(1) {#पश्यति, प्र-,#} ({#दृश्,#} c. 1.) (when
-<div n="lb"/>the sense is clear), <div n="xe">{%old man's intellect f.s the%}
-<div n="lb"/>{%future:%}</div> <div n="xs">{#वृद्धबुद्धिरनागतं पश्यति,#}</div> Vi. vi.: v. To see;</div>
-<div n="lb"/><div n="1">(2) expr. with words meaning future, <div n="xe">{%I%}
-<div n="lb"/>{%f. death:%}</div> <div n="xs">{#मम भावि मरणं पश्यामि।#}</div></div>
+{@FORESEE:@}¦ <div n="1">(1) {#पश्यति, प्र-,#} ({#दृश्,#} c. 1.) (when
+the sense is clear), <div n="xe">{%old man's intellect f.s the%}
+{%future:%}</div> <div n="xs">{#वृद्धबुद्धिरनागतं पश्यति,#}</div> Vi. vi.: v. To see;</div>
+<div n="1">(2) expr. with words meaning future, <div n="xe">{%I%}
+{%f. death:%}</div> <div n="xs">{#मम भावि मरणं पश्यामि।#}</div></div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>1905<pc>066<k1>bend<k2>bend
-<div n="lb"/>{@BEND@}¦ (v. i.) <div n="I">I To crook or be curving: </div><div n="1">(1)
-<div n="lb"/>{#नमति, अव-, आ-,#} ({#नम्,#} c. l.)(2) by {#भवति#} and
-<div n="lb"/>any one of the adj.s given under crooked,
-<div n="lb"/>curved. </div><div n="I">II To bow: q. v.: {#नमति।#} </div><div n="I">III
-<div n="lb"/>To be closely directed. Ph. {%bent on revenge%}
-<div n="lb"/>{#प्रतिचिकीर्षु#} (mfn); <div n="xe">{%bent on mischief%}</div> <div n="xs">{#जिघांसु#}</div>
-<div n="lb"/>(mfn.) <div n="xe">{%or%}</div> <div n="xs">{#हिंसापरायणः#}</div> ({#णा, णं#}); {%bent on religion%}
-<div n="lb"/>{#धर्मपरायणः#} ({#णा, णं#}).</div>
+{@BEND@}¦ (v. i.) <div n="I">I To crook or be curving: </div><div n="1">(1)
+{#नमति, अव-, आ-,#} ({#नम्,#} c. l.)(2) by {#भवति#} and
+any one of the adj.s given under crooked,
+curved. </div><div n="I">II To bow: q. v.: {#नमति।#} </div><div n="I">III
+To be closely directed. Ph. {%bent on revenge%}
+{#प्रतिचिकीर्षु#} (mfn); <div n="xe">{%bent on mischief%}</div> <div n="xs">{#जिघांसु#}</div>
+(mfn.) <div n="xe">{%or%}</div> <div n="xs">{#हिंसापरायणः#}</div> ({#णा, णं#}); {%bent on religion%}
+{#धर्मपरायणः#} ({#णा, णं#}).</div>
 <LEND>

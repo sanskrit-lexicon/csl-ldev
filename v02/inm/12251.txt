@@ -1,32 +1,32 @@
 <L>12251<pc>751-2<k1>विविंशति<k2>विविंशति
-{@Viviṃśati,@}¦ a son of Dhṛtarāṣṭra. § 83 (Ādivaṃśāvatāraṇa):
-<div n="lb">I, {@63<lang n="greek"></lang>,@} 2447 (a mahāratha).—§ 130 (Aṃśāvat.): I, {@67,@}
-<div n="lb">2729.—§ 182 (Dhṛtarāṣṭraputranāmak.): I, {@117,@} 4543.—
-<div n="lb">§ 232 (Svayaṃvarap.): I, {@186,@} 698 (came to the svayaṃvara
-<div n="lb">of Draupadī).—§ 298 (Dyūtap.): II, {@58,@} †2004.—§ 512
-<div n="lb">(Ghoṣayātrāp.): III, {@242,@} 14920 (made prisoner by the
-<div n="lb">Gandharvas).—§ 552 (Goharaṇap.): IV, {@35<lang n="greek"></lang>,@} 1151; {@38,@}
-<div n="lb">1243; {@61,@} 1988 (attacked Arjuna), 1994; {@63,@} 2021
-<div n="lb">(attacked Arjuna); {@65,@} †2096; {@66,@} †2109.—§ 556 (Sañjaya-
-<div n="lb">yānap.): V, {@27,@} †791.—§ 561 (Yānasandhip.): V, {@47<lang n="greek"></lang>,@}
-<div n="lb">1799; {@55<lang n="greek"></lang>,@} 2207; {@66<lang n="greek"></lang>,@} 2502.—§ 562 (Bhagavadyānap.):
-<div n="lb">V, {@94,@} 3377; {@95<lang n="greek"></lang>,@} 3402.—§ 567 (do.): V, {@124<lang n="greek"></lang>,@} 4138.—
-<div n="lb">§ 571 (Ulūkadūtāgamanap.): V, {@160,@} 5528 ({%°mahoragaṃ,%}
-<div n="lb">sc. {%puruṣodadhiṃ%}); {@161,@} 5573 ({%°jhasākulaṃ,%} sc. {%puruṣo-%}
-<div n="lb">{%dadhiṃ%}).—§ 576 (Bhagavadgītāp.): VI, {@17,@} 657; {@18<lang n="greek"></lang>,@} 686.
-<div n="lb">—§ 578 (Bhīṣmavadhap.): VI, {@44<lang n="greek"></lang>,@} 1653; {@47<sup>25</sup><lang n="greek"></lang>,@} 1809;
-<div n="lb">{@48<lang n="greek"></lang>,@} 1926.—§ 581 (do.): VI, {@60<lang n="greek"></lang>,@} †2672; {@62<lang n="greek"></lang>,@} 2731,
-<div n="lb">2742.—§ 584 (do.): VI, {@81<lang n="greek"></lang>,@} 3534.—§ 585 (do.): VI, {@87,@}
-<div n="lb">3849; {@92<lang n="greek"></lang>,@} 4119, 4133; {@94<lang n="greek"></lang>,@} 4194; {@98<lang n="greek"></lang>,@} 4489.—§ 587
-<div n="lb">(do.): VI, {@117<lang n="greek"></lang>,@} 5495, 5497.—§ 589 (Droṇābhiṣekap.):
-<div n="lb">VII, {@7<lang n="greek"></lang>,@} 181.—§ 590 (do.): VII, {@14,@} 521, 522 (fought with
-<div n="lb">Bhīmasena).—§ 592 (Saṃśaptakavadhap.): VII, {@25,@} 1088,
-<div n="lb">1089 (fought with Sutasoma).—§ 593 (Abhimanyuvadhap.):
-<div n="lb">VII, {@37<lang n="greek"></lang>,@} 1601, (<lang n="greek"></lang>), 1609.—§ 596 (Pratijñāp.): VII, {@74<lang n="greek"></lang>,@}
-<div n="lb">2627.—§ 598 (Jayadrathavadhap.): VII, {@85<lang n="greek"></lang>,@} 3020.—§ 599
-<div n="lb">(do.): VII, {@95<lang n="greek"></lang>,@} 3525; {@96<lang n="greek"></lang>,@} 3572; {@120<lang n="greek"></lang>,@} 4767; {@127<lang n="greek"></lang>,@}
-<div n="lb">5176.—§ 600 (Ghaṭotkacavadhap.): VII, {@158<lang n="greek"></lang>,@} 7031.—
-<div n="lb">§ 604 (Karṇap.): VIII, {@5<lang n="greek"></lang>,@} 96 (had been slain).—§ 619
-<div n="lb">(Strīvilāpap.): XI, {@19<lang n="greek"></lang>,@} 560, 561, 563 (lamented for as
-<div n="lb">slain).
+{@Viviṃśati@},¦ a son of Dhṛtarāṣṭra. § 83 (Ādivaṃśāvatāraṇa):
+I, {@63@}<lang n="greek">α</lang>, 2447 (a mahāratha).—§ 130 (Aṃśāvat.): I, {@67@},
+2729.—§ 182 (Dhṛtarāṣṭraputranāmak.): I, {@117@}, 4543.—
+§ 232 (Svayaṃvarap.): I, {@186@}, 698 (came to the svayaṃvara
+of Draupadī).—§ 298 (Dyūtap.): II, {@58@}, †2004.—§ 512
+(Ghoṣayātrāp.): III, {@242@}, 14920 (made prisoner by the
+Gandharvas).—§ 552 (Goharaṇap.): IV, {@35@}<lang n="greek">α</lang>, 1151; {@38@},
+1243; {@61@}, 1988 (attacked Arjuna), 1994; {@63@}, 2021
+(attacked Arjuna); {@65@}, †2096; {@66@}, †2109.—§ 556 (Sañjaya-
+yānap.): V, {@27@}, †791.—§ 561 (Yānasandhip.): V, {@47@}<lang n="greek">α</lang>,
+1799; {@55@}<lang n="greek">υ</lang>, 2207; {@66@}<lang n="greek">εε</lang>, 2502.—§ 562 (Bhagavadyānap.):
+V, {@94@}, 3377; {@95@}<lang n="greek">υ</lang>, 3402.—§ 567 (do.): V, {@124@}<lang n="greek">β</lang>, 4138.—
+§ 571 (Ulūkadūtāgamanap.): V, {@160@}, 5528 ({%°mahoragaṃ%},
+sc. {%puruṣodadhiṃ%}); {@161@}, 5573 ({%°jhasākulaṃ%}, sc. {%puruṣo-%}
+{%dadhiṃ%}).—§ 576 (Bhagavadgītāp.): VI, {@17@}, 657; {@18@}<lang n="greek">δ</lang>, 686.
+—§ 578 (Bhīṣmavadhap.): VI, {@44@}<lang n="greek">α</lang>, 1653; {@47<sup>25</sup><lang n="greek">γ</lang>@}, 1809;
+{@48@}<lang n="greek">θ</lang>, 1926.—§ 581 (do.): VI, {@60@}<lang n="greek">β</lang>, †2672; {@62@}<lang n="greek">ζ</lang>, 2731,
+2742.—§ 584 (do.): VI, {@81@}<lang n="greek">α</lang>, 3534.—§ 585 (do.): VI, {@87@},
+3849; {@92@}<lang n="greek">χ</lang>, 4119, 4133; {@94@}<lang n="greek">ω</lang>, 4194; {@98@}<lang n="greek">νν</lang>, 4489.—§ 587
+(do.): VI, {@117@}<lang n="greek">σ</lang>, 5495, 5497.—§ 589 (Droṇābhiṣekap.):
+VII, {@7@}<lang n="greek">δ</lang>, 181.—§ 590 (do.): VII, {@14@}, 521, 522 (fought with
+Bhīmasena).—§ 592 (Saṃśaptakavadhap.): VII, {@25@}, 1088,
+1089 (fought with Sutasoma).—§ 593 (Abhimanyuvadhap.):
+VII, {@37@}<lang n="greek">ι</lang>, 1601, (<lang n="greek">κ</lang>), 1609.—§ 596 (Pratijñāp.): VII, {@74@}<lang n="greek">β</lang>,
+2627.—§ 598 (Jayadrathavadhap.): VII, {@85@}<lang n="greek">α</lang>, 3020.—§ 599
+(do.): VII, {@95@}<lang n="greek">ζ</lang>, 3525; {@96@}<lang n="greek">θ</lang>, 3572; {@120@}<lang n="greek">δδ</lang>, 4767; {@127@}<lang n="greek">νν</lang>,
+5176.—§ 600 (Ghaṭotkacavadhap.): VII, {@158@}<lang n="greek">ψ</lang>, 7031.—
+§ 604 (Karṇap.): VIII, {@5@}<lang n="greek">ζ</lang>, 96 (had been slain).—§ 619
+(Strīvilāpap.): XI, {@19@}<lang n="greek">δ</lang>, 560, 561, 563 (lamented for as
+slain).
 <LEND>

@@ -1,7 +1,7 @@
 <L>3451<pc>114<k1>characterize<k2>characterize
-<div n="lb"/>{@CHARACTERIZE:@}¦ (v.) <div n="I">I To be a charac-
-<div n="lb"/>-teristic of: expr. by subs.: {%this c. s him:%}
-<div n="lb"/>{#एष तस्य स्वभावः।#} </div><div n="I">II To assign a character
-<div n="lb"/>to: </div><div n="1">(1) {#वर्णयति#} ({#वर्ण्,#} c. 10.): v. To
-<div n="lb"/>describe.</div>
+{@CHARACTERIZE:@}¦ (v.) <div n="I">I To be a charac-
+-teristic of: expr. by subs.: {%this c. s him:%}
+{#एष तस्य स्वभावः।#} </div><div n="I">II To assign a character
+to: </div><div n="1">(1) {#वर्णयति#} ({#वर्ण्,#} c. 10.): v. To
+describe.</div>
 <LEND>

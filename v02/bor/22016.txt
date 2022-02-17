@@ -1,5 +1,5 @@
 <L>22016<pc>694<k1>sustenance<k2>sustenance
-<div n="lb"/>{@SUSTENANCE:@}¦ <div n="1">(1) {#वर्तनम्,#} <div n="xe">{%s. money:%}</div> <div n="xs">{#वर्तनधनम्,#}</div>
-<div n="lb"/>Da. 129.; </div><div n="1">(2) {#जीवनम्#} (rarely), {%to give s.:%}
-<div n="lb"/>{#जीवनं ददाति,#} Da.: v. Support, maintenance.</div>
+{@SUSTENANCE:@}¦ <div n="1">(1) {#वर्तनम्,#} <div n="xe">{%s. money:%}</div> <div n="xs">{#वर्तनधनम्,#}</div>
+Da. 129.; </div><div n="1">(2) {#जीवनम्#} (rarely), {%to give s.:%}
+{#जीवनं ददाति,#} Da.: v. Support, maintenance.</div>
 <LEND>

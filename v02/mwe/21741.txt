@@ -1,18 +1,18 @@
 <L>21741<pc>573-b<k1>party<k2>party
-<div n="lb"/>PARTY¦, {%s.%} (Side, cause) {#पक्षः, मतं;#} ‘one's own party,’ {#आत्मपक्षः,#}
-<div n="lb"/>{#स्वपक्षः;#} ‘belonging to one's own party,’ {#स्वपक्षावलम्बी#} {%m.,%}
-<div n="lb"/>{#स्वपक्षपाती, आत्मपक्षधारी#} {%m.%} ({#न्#}); ‘one of the opposite party,’
-<div n="lb"/>{#विपक्षः, प्रतिपक्षः;#} ‘attachment to a party,’ {#पक्षपातः#}. {%See%}
-<div n="lb"/>PARTIALITY, PARTISANSHIP. — (Number of persons associated
-<div n="lb"/>in opposition to others) {#पक्षः, सपक्षिणः#} {%m. pl.,%} {#सपक्षिणां गणः#}
-<div n="lb"/>[Page574-a+ 51]
-<div n="lb"/>or {#संसर्गः#} or {#समूहः#} or {#सङ्घातः#} or {#सङ्गः, शाखा#}. — (One of two
-<div n="lb"/>litigants) {#वादी#} {%m.%} {#(न्), अर्थी#} {%m.%} — (Set of people) {#गणः, पंक्तिः#} {%f.,%}
-<div n="lb"/>{#समूहः, सङ्घः, सङ्घातः, मण्डलं, दलं;#} ‘a party of men,’ {#पुरुषगणः,#}
-<div n="lb"/>{#जनसमूहः;#} ‘of soldiers,’ {#सैन्यदलं;#} ‘of rogues,’ {#धूर्त्तमण्डलं#}. — 
-<div n="lb"/>(Assembly) {#सभा, पंक्तिः#} {%f.,%} {#समाजः, रासेरसः#}. — (Convivial party)
-<div n="lb"/>{#सहभोजनं, सम्भोजनं, सहपानं, सम्पीतिः#} {%f.,%} {#उच्चतालं#}. — (Person par-
-<div n="lb"/>ticularized) {#विवक्षितजनः, व्यक्तिः#} {%f.,%} {#मनुष्यः, जनः, विवक्षितमनुष्यः#}.
-<div n="lb"/> — (One concerned or interested) {#सम्बन्धी#} {%m.%} {#(न्), भागी#} {%m.,%}
-<div n="lb"/>{#अंशी#} {%m.%}
+PARTY¦, {%s.%} (Side, cause) {#पक्षः, मतं;#} ‘one's own party,’ {#आत्मपक्षः,#}
+{#स्वपक्षः;#} ‘belonging to one's own party,’ {#स्वपक्षावलम्बी#} {%m.,%}
+{#स्वपक्षपाती, आत्मपक्षधारी#} {%m.%} ({#न्#}); ‘one of the opposite party,’
+{#विपक्षः, प्रतिपक्षः;#} ‘attachment to a party,’ {#पक्षपातः#}. {%See%}
+PARTIALITY, PARTISANSHIP. — (Number of persons associated
+in opposition to others) {#पक्षः, सपक्षिणः#} {%m. pl.,%} {#सपक्षिणां गणः#}
+[Page574-a+ 51]
+or {#संसर्गः#} or {#समूहः#} or {#सङ्घातः#} or {#सङ्गः, शाखा#}. — (One of two
+litigants) {#वादी#} {%m.%} {#(न्), अर्थी#} {%m.%} — (Set of people) {#गणः, पंक्तिः#} {%f.,%}
+{#समूहः, सङ्घः, सङ्घातः, मण्डलं, दलं;#} ‘a party of men,’ {#पुरुषगणः,#}
+{#जनसमूहः;#} ‘of soldiers,’ {#सैन्यदलं;#} ‘of rogues,’ {#धूर्त्तमण्डलं#}. — 
+(Assembly) {#सभा, पंक्तिः#} {%f.,%} {#समाजः, रासेरसः#}. — (Convivial party)
+{#सहभोजनं, सम्भोजनं, सहपानं, सम्पीतिः#} {%f.,%} {#उच्चतालं#}. — (Person par-
+ticularized) {#विवक्षितजनः, व्यक्तिः#} {%f.,%} {#मनुष्यः, जनः, विवक्षितमनुष्यः#}.
+ — (One concerned or interested) {#सम्बन्धी#} {%m.%} {#(न्), भागी#} {%m.,%}
+{#अंशी#} {%m.%}
 <LEND>

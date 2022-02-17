@@ -1,7 +1,7 @@
 <L>22056<pc>696<k1>swelling<k2>swelling
-<div n="lb"/>{@SWELLING:@}¦ <div n="I">I Lit.: {#स्फीतिः:#} v. Also increase,
-<div n="lb"/>inflation. </div><div n="I">II Of the body: </div><div n="1">(1) {#श्वयथुः,#} <div n="xe">{%to%}
-<div n="lb"/>{%produce a s.:%}</div> <div n="xs">{#श्वयथुं जनयति,#}</div> Si.; {%very deep s.:%}
-<div n="lb"/>{#प्रगाढः श्वयथुः,#} Sr.; </div><div n="1">(2) {#शोथः#} <div n="xe">{%or%}</div> <div n="xs">{#शोफः,#}</div> {%ripe s.:%}
-<div n="lb"/>{#पक्वः शोफः,#} Sr.</div>
+{@SWELLING:@}¦ <div n="I">I Lit.: {#स्फीतिः:#} v. Also increase,
+inflation. </div><div n="I">II Of the body: </div><div n="1">(1) {#श्वयथुः,#} <div n="xe">{%to%}
+{%produce a s.:%}</div> <div n="xs">{#श्वयथुं जनयति,#}</div> Si.; {%very deep s.:%}
+{#प्रगाढः श्वयथुः,#} Sr.; </div><div n="1">(2) {#शोथः#} <div n="xe">{%or%}</div> <div n="xs">{#शोफः,#}</div> {%ripe s.:%}
+{#पक्वः शोफः,#} Sr.</div>
 <LEND>

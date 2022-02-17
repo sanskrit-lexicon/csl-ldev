@@ -1,15 +1,15 @@
 <L>3789<pc>124<k1>clear<k2>clear
-<div n="lb"/>{@CLEAR@}¦ (adj.): <div n="I">I Transparent, bright: </div><div n="1">(1)
-<div n="lb"/>{#विमलः, निर्मलः#} <div n="xe">{%or%}</div> <div n="xs">{#अमलः#}</div> ({#ला, लं#}), <div n="xe">{%c. sky:%}</div> <div n="xs">{#विमलं नभः,#}</div>
-<div n="lb"/>Ki.; <div n="xe">{%c. -rayed moon:%}</div> <div n="xs">{#विमलकिरणचन्द्रः,#}</div> Ri.;</div>
-<div n="lb"/><div n="1">(2) {#प्रसन्नः#} (f. {#न्ना#}), <div n="xe">{%c. sky:%}</div> <div n="xs">{#प्रसन्नं नमः;#}</div> {%the c.%}
-<div n="lb"/>({%lake%}) <div n="xe">{%Mānasa:%}</div> <div n="xs">{#प्रसन्नं मानसम्,#}</div> K.; </div><div n="1">(3) {#विशदः#}
-<div n="lb"/>({#दा, दं#}). </div><div n="I">II Plain, perspicuous: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#प्रसन्नः#} ({#न्ना, न्नं#}); </div><div n="1">(2) {#विशदः#} ({#दा, दं#}); </div><div n="1">(3) {#विमलः#}
-<div n="lb"/>({#ला, लं#}) <div n="xe">{%or%}</div> <div n="xs">{#निर्मलः#}</div> ({#ला, लं#}). </div><div n="I">III Audible: Ph.
-<div n="lb"/><div n="xe">{%c. language:%}</div> <div n="xs">{#विविक्तवर्णा सरस्वती,#}</div> Ki.: <div n="xe">{%in c.%}
-<div n="lb"/>{%voice:%}</div> <div n="xs">{#स्पष्टवर्णया गिरा,#}</div> K. </div><div n="I">IV Evident: q. v.:
-<div n="lb"/>Ph.: <div n="xe">{%c. profit:%}</div> <div n="xs">{#शुद्धलाभः,#}</div> {%my mind is c.%} ({%now%}):
-<div n="lb"/>{#ममान्तरात्माविशदो जातः,#} Sa. iv.; {%c. of any crime:%}
-<div n="lb"/>{#विशुद्धः#} ({#द्धा, द्धं#}), Mr.</div>
+{@CLEAR@}¦ (adj.): <div n="I">I Transparent, bright: </div><div n="1">(1)
+{#विमलः, निर्मलः#} <div n="xe">{%or%}</div> <div n="xs">{#अमलः#}</div> ({#ला, लं#}), <div n="xe">{%c. sky:%}</div> <div n="xs">{#विमलं नभः,#}</div>
+Ki.; <div n="xe">{%c. -rayed moon:%}</div> <div n="xs">{#विमलकिरणचन्द्रः,#}</div> Ri.;</div>
+<div n="1">(2) {#प्रसन्नः#} (f. {#न्ना#}), <div n="xe">{%c. sky:%}</div> <div n="xs">{#प्रसन्नं नमः;#}</div> {%the c.%}
+({%lake%}) <div n="xe">{%Mānasa:%}</div> <div n="xs">{#प्रसन्नं मानसम्,#}</div> K.; </div><div n="1">(3) {#विशदः#}
+({#दा, दं#}). </div><div n="I">II Plain, perspicuous: q. v.: </div><div n="1">(1)
+{#प्रसन्नः#} ({#न्ना, न्नं#}); </div><div n="1">(2) {#विशदः#} ({#दा, दं#}); </div><div n="1">(3) {#विमलः#}
+({#ला, लं#}) <div n="xe">{%or%}</div> <div n="xs">{#निर्मलः#}</div> ({#ला, लं#}). </div><div n="I">III Audible: Ph.
+<div n="xe">{%c. language:%}</div> <div n="xs">{#विविक्तवर्णा सरस्वती,#}</div> Ki.: <div n="xe">{%in c.%}
+{%voice:%}</div> <div n="xs">{#स्पष्टवर्णया गिरा,#}</div> K. </div><div n="I">IV Evident: q. v.:
+Ph.: <div n="xe">{%c. profit:%}</div> <div n="xs">{#शुद्धलाभः,#}</div> {%my mind is c.%} ({%now%}):
+{#ममान्तरात्माविशदो जातः,#} Sa. iv.; {%c. of any crime:%}
+{#विशुद्धः#} ({#द्धा, द्धं#}), Mr.</div>
 <LEND>

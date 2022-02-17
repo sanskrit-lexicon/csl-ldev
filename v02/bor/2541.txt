@@ -1,8 +1,8 @@
 <L>2541<pc>087<k1>breathe<k2>breathe
-<div n="lb"/>{@BREATHE@}¦ (v. i.): <div n="I">I To respire: {#श्वसिति#} ({#श्वस्,#}
-<div n="lb"/>c. l.). <div n="xe">{%to b. the last%}</div> <div n="xs">{#प्राणान् जहाति#}</div> ({#हा,#} c. 3.):
-<div n="lb"/>v. To die. </div><div n="I">II To live: q. v.: {#श्वसिति#} ({%I%})
-<div n="lb"/><div n="xe">{%who b.%}</div> <div n="xs">{#यः श्वसिमि#}</div> N. v. 109. </div><div n="I">III Pause, rest:
-<div n="lb"/>q. v. <div n="xe">{%to b. hard%}</div> <div n="xs">{#विनिःश्वसिति#}</div> N. xii. 2.; <div n="xe">{%to%}
-<div n="lb"/>{%b. freely%}</div> <div n="xs">{#उच्छ्वसिति,#}</div> Ki. ix. 21.</div>
+{@BREATHE@}¦ (v. i.): <div n="I">I To respire: {#श्वसिति#} ({#श्वस्,#}
+c. l.). <div n="xe">{%to b. the last%}</div> <div n="xs">{#प्राणान् जहाति#}</div> ({#हा,#} c. 3.):
+v. To die. </div><div n="I">II To live: q. v.: {#श्वसिति#} ({%I%})
+<div n="xe">{%who b.%}</div> <div n="xs">{#यः श्वसिमि#}</div> N. v. 109. </div><div n="I">III Pause, rest:
+q. v. <div n="xe">{%to b. hard%}</div> <div n="xs">{#विनिःश्वसिति#}</div> N. xii. 2.; <div n="xe">{%to%}
+{%b. freely%}</div> <div n="xs">{#उच्छ्वसिति,#}</div> Ki. ix. 21.</div>
 <LEND>

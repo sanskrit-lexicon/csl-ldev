@@ -1,7 +1,7 @@
 <L>28174<pc>772-b<k1>stay<k2>stay
-<div n="lb"/>STAY¦, STAYING, {%s.%} (Continuance, act of remaining) {#स्थितिः#} {%f.,%}
-<div n="lb"/>{#संस्थितिः#} {%f.,%} {#अवस्थितिः#} {%f.,%} {#संस्था, अवस्थानं, वृत्तिः#} {%f.,%} {#वर्त्तनं, वासः,#}
-<div n="lb"/>{#आसना, आस्या,#} {%see%} RESIDENCE. — (Stop, hinderance) {#रोधः,#}
-<div n="lb"/>{#गतिरोधः, स्तम्भः#}. — (Prop, support) {#उपस्तम्भः, अवष्टम्भः, आधारः,#}
-<div n="lb"/>{%see%} SUPPORT.
+STAY¦, STAYING, {%s.%} (Continuance, act of remaining) {#स्थितिः#} {%f.,%}
+{#संस्थितिः#} {%f.,%} {#अवस्थितिः#} {%f.,%} {#संस्था, अवस्थानं, वृत्तिः#} {%f.,%} {#वर्त्तनं, वासः,#}
+{#आसना, आस्या,#} {%see%} RESIDENCE. — (Stop, hinderance) {#रोधः,#}
+{#गतिरोधः, स्तम्भः#}. — (Prop, support) {#उपस्तम्भः, अवष्टम्भः, आधारः,#}
+{%see%} SUPPORT.
 <LEND>

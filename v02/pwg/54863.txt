@@ -8,11 +8,11 @@
 <ls>Sch.</ls>); {#अभिदत्#} und {#अभैत्सीत्#} (
 <ls>Sch.</ls> zu <ls>P. 3, 1, 57. 7, 2, 3</ls>), {#अभित्त#} (
 <ls>Sch.</ls> zu <ls>P. 1, 2, 11. 3, 1, 57</ls>), {#अभित्थास्, अभित्साताम्#} 
-<ls>?(P. 8, 2, 6, Sch.), ved.</ls> {#भेद्, भेदि, भित्थास्; भेत्स्यति, °ते, भेत्ता#} (<is>Kār</is>. 
-<ls>?3 aus SIDDH. K. zu P. 7, 2, 10. Sch. zu 7, 2, 61. fg.</ls>); {#भित्सीष्ट#} (
-<ls>P. 1, 2, 11,</ls> 
-<ls>Sch.</ls>); inf. {#भेत्तुम्#}, ved. {#भे/त्तवै/#}; pass. {#भिद्यते, भिन्न/#} 
-<ls>?(P. 8, 2, 42).</ls> 
+(<ls>P. 8, 2, 6, Sch.</ls>), ved. {#भेद्, भेदि, भित्थास्; भेत्स्यति, °ते, भेत्ता#} (<is>Kār</is>. 3 
+aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> Sch. zu <ls n="P.">7, 2, 61. fg.</ls>); {#भित्सीष्ट#} 
+(<ls>P. 1, 2, 11, Sch.</ls> ); 
+inf. {#भेत्तुम्#}, ved. {#भे/त्तवै/#}; pass. {#भिद्यते, भिन्न/#} 
+(<ls>P. 8, 2, 42</ls>). 
 <div n="1"> 1) {%spalten, einbrechen, ein Loch in Etwas schlagen, zerschlagen, zersprengen, aufreissen, schlitzen%}: {#पुरः#} 
 <ls>ṚV. 1, 53, 8.</ls> <ls n="ṚV.">2, 14, 6.</ls> 
 <ls>AIT. BR. 1, 25.</ls> {#अद्रिम्#} 
@@ -23,7 +23,7 @@
 <ls n="ṚV.">4, 17, 3.</ls> {#शिरः#} 
 <ls n="ṚV.">8, 6, 6.</ls> <ls>AV. 5, 23, 13.</ls> {#पात्रा#} 
 <ls>ṚV. 1, 104, 8.</ls> <ls n="ṚV.">6, 27, 6.</ls> <ls n="ṚV.">7, 104, 22.</ls> {#यः शुष्ण^स्या\ण्डानि\ भेद^ति#} 
-<ls>?(P. 3, 1, 85, Sch.) 8, 40, 10. AV. 6, 138, 2. VS. 11, 64. 68. AV. 2, 32, 6.</ls> {#मुष्कौ#} 
+(<ls>P. 3, 1, 85, Sch.</ls>) <ls>8, 40, 10.</ls> <ls>AV. 6, 138, 2.</ls> <ls>VS. 11, 64. 68.</ls> <ls>AV. 2, 32, 6.</ls> {#मुष्कौ#} 
 <ls n="ṚV.">4, 37, 7.</ls> {#ना\ड्यौ^#} 
 <ls n="ṚV.">6, 138, 4.</ls> <ls n="ṚV. 6, 138,">5.</ls> {#सपत्नान्#} 
 <ls n="ṚV.">5, 28, 4.</ls> {#भिन्ना नौः#} 
@@ -39,9 +39,9 @@
 <ls>VARĀH. BṚH. S. 46, 77.</ls> {#वने काष्ठानि भिन्दतः (मे)#} 
 <ls>SĀV. 6, 30.</ls> 
 <ls>R. 2, 80, 10.</ls> {#लक्ष्यं भित्त्वा#} 
-<ls>MBH. 1, 152. 7004.</ls> {#लक्षणम्#} 
+<ls>MBH. 1, 152.</ls> <ls n="MBH. 1,">7004.</ls> {#लक्षणम्#} 
 <ls>MAITRYUP. 6, 24.</ls> {#सायकैः कांश्चिदभिनत्#} 
-<ls>MBH. 1, 2834. 1170.</ls> 
+<ls>MBH. 1, 2834.</ls> <ls n="MBH. 1,">1170.</ls> 
 <ls>R. 1, 1, 64. 3, 50, 18. 6, 75, 63.</ls> 
 <ls>RAGH. 5, 55. 12, 77. 91.</ls> 
 <ls>ŚIŚ. 9, 66.</ls> 
@@ -57,7 +57,7 @@
 <ls>R. 1, 40, 18.</ls> {#अतिशीतलमप्यम्भः किं भिनत्ति न भूभृतः#} 
 <ls>Spr. 1853.</ls> 
 <ls>BHAṬṬ. 6, 35. 116. 15, 22.</ls> {#नाभिद्यत महाव्यूहो भीमेन#} 
-<ls>MBH. 6, 2433. 2432. 7, 1521.</ls> {#गिरीणामिव भिद्यताम् (अद्रीणामिव भिन्दताम्#} die ältere Ausg.) {%bersten%} 
+<ls>MBH. 6, 2433.</ls> <ls n="MBH. 6,">2432.</ls> <ls n="MBH.">7, 1521.</ls> {#गिरीणामिव भिद्यताम् (अद्रीणामिव भिन्दताम्#} die ältere Ausg.) {%bersten%} 
 <ls>6, 4125.</ls> {#स्वयमेव काष्ठं भिद्यते, अभेदि#} 
 <ls>VOP. 24, 8.</ls> {#निर्घोषो भिन्दन्निव रसातलम्#} 
 <ls>LA. (II) 90, 6.</ls> {#(ध्वनिः) यज्ञमुषां मनांसि भिन्दन्#} 
@@ -231,7 +231,7 @@
 componirt: {#यौवनभिन्नशैशव#} 
 <ls>RAGH. 3, 32.</ls> {#पुष्पोच्चयः पल्लवभङ्गभिन्नः#} 
 <ls>KUMĀRAS. 3, 61.</ls> 
-<ls>ŚIŚ. 4, 26. 20, 56.</ls> {#तीव्राघातादभिमुखतरुस्कन्धभिन्नैकदन्तः (भिन्न#} v.l. für {#भग्न)#} so v. a. {%hängen geblieben%} (=  {#लग्न#} 
+<ls>ŚIŚ. 4, 26. 20, 56.</ls> {#तीव्राघातादभिमुखतरुस्कन्धभिन्नैकदन्तः (भिन्न#} v.l. für {#भग्न)#} so v. a. {%hängen geblieben%} (= {#लग्न#} 
 <ls>Schol.</ls>) <ls>ŚĀK. 32.</ls> {#दृष्ट्वां भिन्नं (= लग्नं#} Schol.) {#कुङ्कुमं कापि कण्ठे#} {%hängend an, haftend%} 
 <ls>KUVALAY. 174,a,4.</ls> Vgl. {#भिन्नाञ्जन#} .
 
@@ -245,20 +245,20 @@ componirt: {#यौवनभिन्नशैशव#}
 <div n="1">— 2) {%theilen%}: {#षोडशभेदिताः#} {%sechszehnfach getheilt, in 16 Arten zerfallend%} 
 <ls>SĀH. D. 18, 112.</ls> Könnte auch <lex>adj.</lex> von {#षोडश - भेद#} sein. 
 <div n="1">— 3) {%entzweien mit Andern%} oder {%mit sich, Jmd irre machen, auf seine Seite hinüberziehen%} 
-<ls>MBH. 1, 1358. 7399. 13, 555. 558.</ls> {#सुश्लिष्टानपि#} (so die neuere Ausg.) {#लोकेषु भेदयन्#} 
+<ls>MBH. 1, 1358.</ls> <ls n="MBH. 1,">7399.</ls> <ls n="MBH.">13, 555.</ls> <ls n="MBH. 13,">558.</ls> {#सुश्लिष्टानपि#} (so die neuere Ausg.) {#लोकेषु भेदयन्#} 
 <ls>HARIV. 3209.</ls> 
 <ls>R. 4, 54, 6. 7.</ls> 
 <ls>KATHĀS. 34, 209.</ls> {#भयेन भेदयेद्भीरुं शूरमञ्जलिकर्मणा । लुब्धमर्थप्रदानेन समं न्यूनं तथौजसा ॥#} 
 <ls>Spr. 2017. 3013.</ls> {#असकृच्चाप्यहं तेन त्वत्कृते पार्थ भेदितः#} 
 <ls>MBH. 5, 2835.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 18, 15. 77, 2.</ls> {#तमृषिं कौशिकं रम्भे भेदयस्व (= कामोत्पादनेन तपसश्चालय#} Schol.) {#तपस्विनम्#} so v. a. {%verfähre%} 
-<ls>R.</ls> <ls>SCHL. 1, 64, 7.</ls>
+
+<ls>R. GORR. 2, 18, 15. 77, 2.</ls> {#तमृषिं कौशिकं रम्भे भेदयस्व (= कामोत्पादनेन तपसश्चालय#} Schol.) {#तपस्विनम्#} so v. a. {%verfähre%} 
+<ls>R. SCHL. 1, 64, 7.</ls>
 
 <div n="p">— desid. {#विभित्सति#} 
 <ls>P. 1, 2, 10,</ls> 
 <ls>Sch.</ls> {%zu durchbrechen —, zu sprengen beabsichtigen%}: {#अनीकम्#} 
-<ls>MBH. 7, 1480. 1624.</ls> 
+<ls>MBH. 7, 1480.</ls> <ls n="MBH. 7,">1624.</ls> 
 <div n="v">— Vgl. {#बिभित्सा#} fg.
 
 <div n="p">— desid. vom caus. s. {#बिभेदयिषु#} .
@@ -306,7 +306,7 @@ componirt: {#यौवनभिन्नशैशव#}
 <ls>PAÑCAR. 4, 6, 7.</ls> {#नवमेघशब्दादुद्भिन्नया रत्नशलाकयेव#} 
 <ls>KUMĀRAS. 1, 24.</ls> {#उद्भिन्नविद्युद्वलयो मेघः#} 
 <ls>RAGH. 13, 21.</ls> {#उद्भिन्नरुधिर#} 
-<ls>MBH. 7, 3787. 9, 3237.</ls>
+<ls>MBH. 7, 3787.</ls> <ls n="MBH.">9, 3237.</ls>
 [Page5-0285]
 {#रविप्रभोद्भिन्नशिरोमणिप्रभ (फणिन्)#} 
 <ls>ṚT. 1, 19.</ls> {#उद्भिन्नसंभ्रम#} 
@@ -343,21 +343,21 @@ componirt: {#यौवनभिन्नशैशव#}
 <ls>VIKR. 150.</ls> {#निर्भिद्योपरि कर्णिकारकुसुमान्याशेरते षट्पदाः#} 
 <ls>41.</ls> {#एकैकं योजनं भूमेर्निर्भिन्दन्तः#} 
 <ls>R. 1, 40, 15 (41, 16 GORR.).</ls> {#(व्याघ्रगणान्) निर्विभेद च सायकैः#} 
-<ls>MBH. 1, 2834. 4563. 4, 2001. 2097. 7, 4583.</ls> 
-<ls>HARIV. 6648. 10747.</ls> 
+<ls>MBH. 1, 2834.</ls> <ls n="MBH. 1,">4563.</ls> <ls n="MBH.">4, 2001.</ls> <ls n="MBH. 4,">2097.</ls> <ls n="MBH.">7, 4583.</ls> 
+<ls>HARIV. 6648.</ls> <ls n="HARIV.">10747.</ls> 
 <ls>R. 2, 35, 4. 3, 55, 10. 6, 18, 37.</ls> 
 <ls>RAGH. 9, 61.</ls> 
 <ls>KATHĀS. 47, 66.</ls> {#वाजिनः - त्वक्षु निर्भिद्य#} 
 <ls>BHAṬṬ. 9, 67.</ls> {#ययाभियुज्य संग्रामे शत्रुं निर्बिभिदे रणे#} 
 <ls>HARIV. 12151.</ls> {#न च तत्राप्यनिर्भिन्नः कश्चिदासीत्#} 
-<ls>MBH. 6, 3573. 7, 4584.</ls> 
+<ls>MBH. 6, 3573.</ls> <ls n="MBH.">7, 4584.</ls> 
 <ls>R. 2, 97, 30.</ls> 
 <ls>VIKR. 144.</ls> 
 <ls>KATHĀS. 4, 8. 22, 128. 33, 55.</ls> {#निर्भिद्य मूर्धन्#} {%am Kopfe eine Oeffnung durchschlagend%} 
 <ls>BHĀG. P. 2, 2, 11.</ls> {#बहुधा निर्बिभेद खम्#} so v. a. {%bildete eine Menge Oeffnungen%} 
 <ls>3, 26, 53.</ls> {#कण्टकेन - निर्बिभेदास्य लोचने#} {%ausstechen%} 
 <ls>MBH. 3, 10328.</ls> 
-<ls>HARIV. 1068. 1153.</ls> 
+<ls>HARIV. 1068.</ls> <ls n="HARIV.">1153.</ls> 
 <ls>BHĀG. P. 9, 3, 7.</ls> {#हृदयग्रन्थिम्#} {%lösen%} 
 <ls>5, 25, 8.</ls> pass. {%sich spalten, sich öffnen%}: {#आण्डं निरभिद्यत#} 
 <ls>CHĀND. UP. 3, 19, 1.</ls> {#मुखं निरभिद्यत यथाण्डम्#} 
@@ -378,7 +378,7 @@ componirt: {#यौवनभिन्नशैशव#}
 <div n="v">— Vgl. {#निर्भेद#} fg.
 
 <div n="p">— {#विनिस्#} {%auseinanderspalten, aufschlitzen, durchchiessen%}: {#तस्य पार्श्वं विनिर्भिद्य#} 
-<ls>MBH. 3, 8551. 14. 2238.</ls> 
+<ls>MBH. 3, 8551.</ls> <ls n="MBH. 3,">14.</ls> <ls n="MBH. 3,">2238.</ls> 
 <ls>HARIV. 2554.</ls> {#पुरुषो ऽण्डं विनिर्भिद्य#} 
 <ls>BHĀG. P. 2, 10, 10.</ls> {#इषुणा हृदि । विनिर्भिन्नम्#} 
 <ls>DAŚ. 2, 15.</ls> 
@@ -387,7 +387,7 @@ componirt: {#यौवनभिन्नशैशव#}
 <ls>BHĀG. P. 3, 6, 17.</ls>
 
 <div n="p">— {#परा#} {%durchbohren, verwunden%}: {#शरैश्चैनम् - पराभिनत्#} 
-<ls>MBH. 7, 9379. 8, 481.</ls>
+<ls>MBH. 7, 9379.</ls> <ls n="MBH.">8, 481.</ls>
 
 <div n="p">— {#परि#} 
 <div n="1"> 1) {%zerspalten, zerschlagen%}: {#दारूणि परिभिन्नानि वनजैरुपजीविभिः#} 
@@ -422,23 +422,23 @@ componirt: {#यौवनभिन्नशैशव#}
 <ls>253, 18.</ls> {#प्रभिन्नविट्#} so v. a. {%aperiens, evacuans%} 
 <ls>199, 6.</ls> {#प्रभिन्नप्रस्रुताङ्ग#} (so ist zu lesen) {%dessen Glieder nässen und fliessen%} 
 <ls>120, 4.</ls> {#प्रभिन्नकरट#} von einem Elephanten, {%dessen Schläfen sich geöffnet haben und fliessen%} (während der Brunstzeit) 
-<ls>MBH. 1, 7671. 12, 4280.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 28, 8. 6, 18, 3.</ls> {#प्रभिन्नकरटामुख#} 
-<ls>MBH. 3, 441. 8704. 4, 757. 1030. 14, 2183.</ls> {#प्रभिन्न#} allein von einem {%brünstigen%} Elephanten gesagt 
+<ls>MBH. 1, 7671.</ls> <ls n="MBH.">12, 4280.</ls> 
+
+<ls>R. GORR. 2, 28, 8. 6, 18, 3.</ls> {#प्रभिन्नकरटामुख#} 
+<ls>MBH. 3, 441.</ls> <ls n="MBH. 3,">8704.</ls> <ls n="MBH.">4, 757.</ls> <ls n="MBH. 4,">1030.</ls> <ls n="MBH.">14, 2183.</ls> {#प्रभिन्न#} allein von einem {%brünstigen%} Elephanten gesagt 
 <ls>AK. 2, 8, 2, 4.</ls> 
 <ls>H. 1220.</ls> 
 <ls>HALĀY. 2, 65.</ls> 
 <ls>DRAUP. 5, 5.</ls> 
-<ls>MBH. 1, 7074. 8013. 4, 585. 13, 641. 4848.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 20, 4. 6, 4, 10.</ls> 
+<ls>MBH. 1, 7074.</ls> <ls n="MBH. 1,">8013.</ls> <ls n="MBH.">4, 585.</ls> <ls n="MBH.">13, 641.</ls> <ls n="MBH. 13,">4848.</ls> 
+
+<ls>R. GORR. 2, 20, 4. 6, 4, 10.</ls> 
 <ls>KUMĀRAS. 5, 80.</ls> 
 <ls>Spr. 673.</ls> 
 <div n="1">— 2) pass. {%sich spalten%} so v. a. {%sich theilen%}: {#जङ्गमानां च सर्वेषां शरीरे पञ्च धातवः । प्रत्येकशः प्रभिद्यन्ते यैः शरीरं विचेष्टते ॥#} 
 <ls>MBH. 12, 6839.</ls> 
 <div n="1">— 3) {#प्रभिन्न#} {%entstellt, verändert, verstimmt%}: {#न त्वां प्रभिन्नं (= पराजितं#} Schol.). {#जानामि#} 
-<ls>MBH. 16. 259.</ls> 
+<ls>MBH. 16, 259.</ls> 
 <div n="1">— 4) {#प्रभिन्नाञ्जन#} so v. a. {#भिन्नाञ्जन#} {%mit Oel angemachte Augensalbe%} 
 <ls>ṚT. 2, 2.</ls> 
 <ls>PAÑCAR. 4, 6, 8.</ls> 
@@ -460,7 +460,7 @@ componirt: {#यौवनभिन्नशैशव#}
 <ls>ŚIŚ. 9, 58. 10, 35.</ls> 
 <div n="1">— 4) {#प्रतिभिन्न#} wohl {%in unmittelbarer Berührung stehend —, eng verbunden mit%} (instr.): {#दूर्वाप्रवालैः प्रतिभिन्नशोभम्#} {%(cujus splendor divisus est%} <is>Dūrvae</is> {%culminibus%} 
 <ls>ST.</ls>) <ls>KUMĀRAS. 7, 7.</ls> {#चन्द्रेण नित्यं प्रतिभिन्नमौलेः - हरस्य#} {%(cujus crista distincta est luna%} 
-<ls>ST.</ls><ls>) 35.</ls> 
+<ls>ST.</ls>) <ls>35.</ls> 
 <div n="v">— Vgl. {#प्रतिभेद#} fg.
 
 <div n="p">— {#वि#} 
@@ -523,8 +523,8 @@ componirt: {#यौवनभिन्नशैशव#}
 <div n="1">— 8) {#विभिन्न#} {%vermengt mit%} (instr.): {#विभिन्नमम्भोजपलाशशोभया#} 
 <ls>KIR. 4, 27. 5, 34.</ls> — caus. {%Jmd von Jmd%} (abl.) {%entfernen, abspänstig machen%} 
 <ls>MBH. 12, 4108.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 6, 16 (7, 18</ls> <ls>SCHL.</ls><ls>). 8, 55.</ls> 
+
+<ls>R. GORR. 2, 6, 16</ls> (<ls>7, 18 SCHL.</ls>). <ls>8, 55.</ls> 
 <div n="v">— Vgl. {#विभेत्तर्#} u. s. w.
 
 <div n="p">— {#प्रवि#} {%aufreissen, verwunden%}: {#प्रतोदप्रविभिन्नाङ्ग#} 
@@ -535,10 +535,10 @@ componirt: {#यौवनभिन्नशैशव#}
 <ls>AV. 10, 4, 5.</ls> 
 <ls>MBH. 8, 3839.</ls> {#संभिन्नजर्जरितकोष्ठशिरःकपाल#} 
 <ls>SUŚR. 1, 352, 17.</ls> {#संभिन्नचर्मघण्टाः (संभिन्नमर्म°#} ed. Bomb.) 
-<ls>MBH. 7, 4565. 8, 499.</ls> {#संभिन्नमर्याद#} {%der die Schranken durchbrochen hat%} 
+<ls>MBH. 7, 4565.</ls> <ls n="MBH.">8, 499.</ls> {#संभिन्नमर्याद#} {%der die Schranken durchbrochen hat%} 
 <ls>R. 2, 49, 5 (46, 7 GORR.). 67, 28.</ls> {#असंभिन्नार्यमर्याद#} 
 <ls>Spr. 5088.</ls> 
-<ls>MBH. 15, 383. 2, 2443</ls> (wo beide Ausgg. fälschlich {#असंभिन्नार्थ°#} lesen). {#संभिन्नवृत्त#} {%der seinen guten Lebenswandel unterbrochen, - verlassen hat%} 
+<ls>MBH. 15, 383.</ls> <ls n="MBH.">2, 2443</ls> (wo beide Ausgg. fälschlich {#असंभिन्नार्थ°#} lesen). {#संभिन्नवृत्त#} {%der seinen guten Lebenswandel unterbrochen, - verlassen hat%} 
 <ls>12, 788.</ls> 
 <div n="1">— 2) {%zusammenbringen, in Berührung bringen, verbinden, vermengen%}: {#न संभि^नत्ति\ तस्मा\दस^ंभिन्नाः प्रा\णाः#} 
 <ls>TS. 6, 2, 11, 2.</ls> {#अस^ंभिन्द\न्नव^द्यति#} 
@@ -552,7 +552,7 @@ componirt: {#यौवनभिन्नशैशव#}
 <ls>MBH. 4, 794.</ls> {#स्निग्धकुन्तलसंभिन्नकिरीटमुकुटोज्ज्वल#} {%dicht anliegend%} 
 <ls>PAÑCAR. 3, 11, 18.</ls> {#कदम्बसंभिन्नः पवनः#} {%in Berührung gekommen%} 
 <ls>BHAṬṬ. 7, 5.</ls> {#संभिन्नो मारुतो यस्य मर्मस्थानानि कृन्तति#} so v. a. {%compact%} 
-<ls>MĀRK. P. 43,14</ls> <ls>?= VĀYU-P. in Verz. d. Oxf. H. 51,b,6.</ls> {#संभिन्न#} {%verbunden%} neben {#विभिन्न#} als Beiw. <is>Śiva's</is> 
+<ls>MĀRK. P. 43,14</ls> = <ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 51,b,6.</ls> {#संभिन्न#} {%verbunden%} neben {#विभिन्न#} als Beiw. <is>Śiva's</is> 
 <ls>MBH. 12, 10374.</ls> 
 <div n="1">— 3)
 [Page5-0288]

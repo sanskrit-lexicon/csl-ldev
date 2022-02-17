@@ -6,7 +6,7 @@
 <div n="2"> a) patron. und N. pr. verschiedener Männer 
 <ls>ŚAT. BR. 3, 3, 4, 19.</ls> 
 <ls>ĀŚV. ŚR. 12, 11.</ls> 
-<ls>HARIV. 440. 11519. 14072.</ls> 
+<ls>HARIV. 440.</ls> <ls n="HARIV.">11519.</ls> <ls n="HARIV.">14072.</ls> 
 <ls>VP. 264.</ls> 
 <ls>ŚĀK. 27, 23. 50, 16.</ls> 
 <ls>MĀLAV. 21, 18.</ls> {#त्रिपञ्चाशद्गौतमम्#} 
@@ -46,7 +46,7 @@ B. <ls>1, 2, 7. 3, 3. 4, 13</ls>) und <ls>ĀŚV. ŚR. 1, 3. 2, 6. 5, 6. 7, 1.</l
 <ls>33.</ls> <ls>MBH. 7, 6857.</ls> = {#गौतमिनन्दन#} 
 <ls>6847.</ls> {#गौ/तमीपु/त्र#} N. pr. eines Lehrers 
 <ls>ŚAT. BR. 14, 9, 4, 31.</ls> {#महाप्रजापती गौतमी#} 
-<ls>LALIT. 102. 193.</ls> <ls>SCHIEFNER,</ls> <ls>Lebensb. 236 (6).</ls> 
+<ls>LALIT. 102. 193.</ls> <ls>SCHIEFNER, Lebensb. 236 (6).</ls> 
 <div n="2">— b) Bein. der <is>Durgā</is> 
 <ls>TRIK. 1, 1, 54.</ls> 
 <ls>H. ś. 47.</ls> <ls>H. an. 3, 466.</ls> <ls>MED. m. 43.</ls> <ls>HARIV. 10236.</ls> {#°तन्त्र#} 

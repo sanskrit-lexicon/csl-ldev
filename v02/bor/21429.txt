@@ -1,4 +1,4 @@
 <L>21429<pc>675<k1>steam<k2>steam
-<div n="lb"/>{@STEAM@}¦ (subs.): {#बाष्पः,#} <div n="xe">{%s. boat:%}</div> <div n="xs">{#*बाष्पीयतरी,#}</div>
-<div n="lb"/><div n="xe">{%s. -engine:%}</div> <div n="xs">{#*बाष्पीययन्त्रम्।#}</div>
+{@STEAM@}¦ (subs.): {#बाष्पः,#} <div n="xe">{%s. boat:%}</div> <div n="xs">{#*बाष्पीयतरी,#}</div>
+<div n="xe">{%s. -engine:%}</div> <div n="xs">{#*बाष्पीययन्त्रम्।#}</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>19617<pc>609<k1>sacred<k2>sacred
-<div n="lb"/>{@SACRED:@}¦ <div n="1">(1) {#पुण्य#} (f. {#ण्या#}), <div n="xe">{%the most s. Brahma-%}
-<div n="lb"/>{%kshetra:%}</div> <div n="xs">{#ब्रह्मक्षेत्रं महापुण्यम्,#}</div> Mah. iii. 83. 6.;
-<div n="lb"/><div n="xe">{%s. history:%}</div> <div n="xs">{#पुण्या संहिता,#}</div> i. </div><div n="I">I 21.: v. Holy; </div><div n="1">(2)
-<div n="lb"/>{#पवित्र#} (f. {#त्रा#}), <div n="xe">{%s. waters:%}</div> <div n="xs">{#पयः पवित्रम्,#}</div> R. v. 59.; [Page610]
-<div n="lb"/><div n="xe">{%s. throughout the world:%}</div> <div n="xs">{#जगत्पवित्र#}</div> (f. {#त्रा#}), Si.
-<div n="lb"/>iii. 2.: v. Pure; </div><div n="1">(3) {#मेध्य#} (f. {#ध्या:#} rare),
-<div n="lb"/><div n="xe">{%full of sweet and s. flavours:%}</div> <div n="xs">{#स्वादुमेध्यरसोपेत#}</div>
-<div n="lb"/>(f. {#ता#}), Mah. i. 93.: v. Also religious,
-<div n="lb"/>inviolable.</div>
+{@SACRED:@}¦ <div n="1">(1) {#पुण्य#} (f. {#ण्या#}), <div n="xe">{%the most s. Brahma-%}
+{%kshetra:%}</div> <div n="xs">{#ब्रह्मक्षेत्रं महापुण्यम्,#}</div> Mah. iii. 83. 6.;
+<div n="xe">{%s. history:%}</div> <div n="xs">{#पुण्या संहिता,#}</div> i. </div><div n="I">I 21.: v. Holy; </div><div n="1">(2)
+{#पवित्र#} (f. {#त्रा#}), <div n="xe">{%s. waters:%}</div> <div n="xs">{#पयः पवित्रम्,#}</div> R. v. 59.; [Page610]
+<div n="xe">{%s. throughout the world:%}</div> <div n="xs">{#जगत्पवित्र#}</div> (f. {#त्रा#}), Si.
+iii. 2.: v. Pure; </div><div n="1">(3) {#मेध्य#} (f. {#ध्या:#} rare),
+<div n="xe">{%full of sweet and s. flavours:%}</div> <div n="xs">{#स्वादुमेध्यरसोपेत#}</div>
+(f. {#ता#}), Mah. i. 93.: v. Also religious,
+inviolable.</div>
 <LEND>

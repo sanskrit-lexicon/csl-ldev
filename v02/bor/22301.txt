@@ -1,5 +1,5 @@
 <L>22301<pc>703<k1>temporize<k2>temporize
-<div n="lb"/>{@TEMPORIZE:@}¦ <div n="I">I To be a time-server: {#छन्दो-#}
-<div n="lb"/>{#ऽनुरुणद्धि#} ({#रुध्,#} c. 7.) <div n="xe">{%or%}</div> <div n="xs">{#अनुवर्तते#}</div> ({#वृत्,#} c. 1.).</div>
-<div n="lb"/><div n="I">II To delay: q. v.: {#विलम्बते#} ({#लम्ब्,#} c. 1.).</div>
+{@TEMPORIZE:@}¦ <div n="I">I To be a time-server: {#छन्दो-#}
+{#ऽनुरुणद्धि#} ({#रुध्,#} c. 7.) <div n="xe">{%or%}</div> <div n="xs">{#अनुवर्तते#}</div> ({#वृत्,#} c. 1.).</div>
+<div n="I">II To delay: q. v.: {#विलम्बते#} ({#लम्ब्,#} c. 1.).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>6897<pc>220<k1>draw in<k2>draw in
-<div n="lb"/>{@DRAW IN:@}¦ <div n="I">I To bring in: {#कर्षति, आ-, वि-,#} <div n="xe">{%d. s%}
-<div n="lb"/>{%in fortune:%}</div> <div n="xs">{#श्रियं विकर्षति,#}</div> Ki. </div><div n="I">II To entice:
-<div n="lb"/>q. v.</div>
+{@DRAW IN:@}¦ <div n="I">I To bring in: {#कर्षति, आ-, वि-,#} <div n="xe">{%d. s%}
+{%in fortune:%}</div> <div n="xs">{#श्रियं विकर्षति,#}</div> Ki. </div><div n="I">II To entice:
+q. v.</div>
 <LEND>

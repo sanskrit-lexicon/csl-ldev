@@ -1,6 +1,6 @@
 <L>18185<pc>557<k1>punctual<k2>punctual
-<div n="lb"/>{@PUNCTUAL:@}¦ <div n="I">I Exact, precise: q. v. </div><div n="I">II About
-<div n="lb"/>time: </div><div n="1">(1) perh. {#कालानुवर्तिन्#} (f. {#नी#}); </div><div n="1">(2)
-<div n="lb"/>with {#यथासमयम्,#} <div n="xe">{%you are very p. today:%}</div> <div n="xs">{#अद्य यथा-#}
-<div n="lb"/>{#समयमागतो भवान्।#}</div></div>
+{@PUNCTUAL:@}¦ <div n="I">I Exact, precise: q. v. </div><div n="I">II About
+time: </div><div n="1">(1) perh. {#कालानुवर्तिन्#} (f. {#नी#}); </div><div n="1">(2)
+with {#यथासमयम्,#} <div n="xe">{%you are very p. today:%}</div> <div n="xs">{#अद्य यथा-#}
+{#समयमागतो भवान्।#}</div></div>
 <LEND>

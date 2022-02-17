@@ -23,7 +23,7 @@
 <ls>M. 8, 132.</ls> {#पिष्टक#} 
 <ls>Spr. (II) 394.</ls> Sand <ls>R. 1, 2, 7.</ls> {#अञ्जनचूर्ण#} 
 <ls>R. GORR. 1, 36, 16.</ls> Tropfen 
-<ls>R.</ls> <ls>SCHL. 2, 74, 14.</ls> <ls>Spr. (II) 2980.</ls> <ls>ŚĀK. 18. fg.</ls> {#बीजाङ्कुर#} 
+<ls>R. SCHL. 2, 74, 14.</ls> <ls>Spr. (II) 2980.</ls> <ls>ŚĀK. 18. fg.</ls> {#बीजाङ्कुर#} 
 <ls>Spr. (II) 5125.</ls> {#जन्तु#} 
 <ls>7156.</ls> {#स्यन्दन#} 
 <ls>7158.</ls> <ls>AK. 2, 4, 4, 13.</ls> {#°तारक#} 
@@ -65,8 +65,8 @@
 <ls>MBH. 1, 18.</ls> {#ये (अर्थाः) वा स्थूला ये च सूक्ष्मातिसूक्ष्माः#} 
 <ls>MĀRK. P. 23, 46.</ls> {#प्रधानपुरुषान्तर#} 
 <ls>SĀṂKHYAK. 37.</ls> {#धर्म#} 
-<ls>MBH. 2, 1340. 3, 13629.</ls> 
-<ls>Spr. (II) 3263. 7155.</ls> {#धर्मस्य गतिः#} 
+<ls>MBH. 2, 1340.</ls> <ls n="MBH.">3, 13629.</ls> 
+<ls>Spr. (II) 3263.</ls> <ls n="Spr. (II)">7155.</ls> {#धर्मस्य गतिः#} 
 <ls>5439.</ls> <ls>MBH. 3, 13702.</ls> {#आत्मनो गतिः#} 
 <ls>BHĀG. P. 6, 16, 61.</ls> {#कर्मन्#} 
 <ls>R. 4, 21, 6.</ls> {#विधिचेष्टित#} 
@@ -84,13 +84,13 @@
 <ls>WEBER, RĀMAT. UP. 319.</ls> <ls>BHĀG. P. 3, 26, 4. 4, 24, 35. 5, 11, 7. 16, 3. 26, 39. 8, 4, 20. 10, 78, 10</ls> ({#°तर#}). 
 <ls>SARVADARŚANAS. 29, 11. 54, 19. 21. 55, 10. 57, 10. 76, 11.</ls> {#देह#} 
 <ls>87, 3.</ls> <ls>BHĀG. P. 8, 19, 10.</ls> {#शरीर#} 
-<ls>COLEBR. Misc. Ess.1,245. 372. 418.</ls> <ls>Verz. d. Oxf. H. 226,a,2 v. u.</ls> <ls>BHĀG. P.2,10,34</ls> ({#°तम#}). 
-<ls>WEBER, <is>Nakṣ</is>. 2, 314.</ls> {#°भूत#} 
+<ls>COLEBR. Misc. Ess.1,245. 372. 418.</ls> <ls>Verz. d. Oxf. H. 226,a,2</ls> v. u. <ls>BHĀG. P.2,10,34</ls> ({#°तम#}). 
+<ls>WEBER, Nakṣ. 2, 314.</ls> {#°भूत#} 
 <ls>SARVADARŚANAS. 149, 4. 164, 17.</ls> 
 <div n="1">— 2) <lex>m.</lex> (nach den Lexicographen) und <lex>n.</lex> {%Atom, Urstoff; ein unfassbares Ding%} 
 <ls>H. an.</ls> <ls>MED.</ls> {#पञ्चतन्मात्राणां सूक्ष्माभिधानाम्#} 
 <ls>SARVADARŚANAS. 148, 6.</ls> <ls>SĀṂKHYAK. 39. fg.</ls> <ls>YOGAS. 1, 44. fg.</ls> {#सप्त (= महत्, अहंकार#} und {#पञ्च तन्मात्राणि#} 
-<ls>NĪLAK.</ls>) <ls>MBH. 13,1018.</ls> <ls>MĀRK. P. 40,24. fg.</ls> <ls>Verz. d. Oxf. H. 230,b,27.</ls> {#अर्थ°#} 
+<ls>NĪLAK.</ls>) <ls>MBH. 13, 1018.</ls> <ls>MĀRK. P. 40,24. fg.</ls> <ls>Verz. d. Oxf. H. 230,b,27.</ls> {#अर्थ°#} 
 <ls>BHĀG. P. 3, 8, 13.</ls> = {#अध्यात्मन्#}, <lex>n.</lex> 
 <ls>AK. 3, 4, 23, 146.</ls> 
 <ls>H. an.</ls> 
@@ -104,7 +104,7 @@ n. <ls>H. an.</ls> m. <ls>ŚABDAR.</ls> im<ls>ŚKDR.</ls> n. = {#कैतव#}
 <div n="1">— 5) Bez. {%des Lautes%} {#इ#} 
 <ls>WEBER, RĀMAT. UP. 317. fgg.</ls> (am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#}). 
 <div n="1">— 6) <lex>m.</lex> N. pr. eines <is>Dānava</is> 
-<ls>MBH. 1, 2533. 2654.</ls> 
+<ls>MBH. 1, 2533.</ls> <ls n="MBH. 1,">2654.</ls> 
 <ls>HARIV. 201.</ls> 
 <div n="1">— 7) <lex>f.</lex> {#आ#} Bez. verschiedener Pflanzen: = {#यूथिका#} 
 <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> = {#करुणी#} 

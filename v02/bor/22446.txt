@@ -1,11 +1,11 @@
 <L>22446<pc>708<k1>thing<k2>thing
-<div n="lb"/>{@THING:@}¦ <div n="1">(1) {#वस्तु#} (n.), <div n="xe">{%sir, what t. is to be given%}
-<div n="lb"/>{%to your preceptor:%}</div> <div n="xs">{#किं वस्तु विद्वन् गुरवे प्रदेयम्,#}</div> R. v.
-<div n="lb"/>18.;...... <div n="xe">{%why I have been confined or why I have%}
-<div n="lb"/>{%been brought here, about these t.s my curiosity%}
-<div n="lb"/>{%has not been removed:%}</div> <div n="xs">{#किमर्थं वाहं बद्धो बद्ध्वा वा #}
-<div n="lb"/>{# किमर्थमिहानीत इत्यत्र वस्तुन्यहमनपगतकौतुक एव,#}</div> K.;</div>
-<div n="lb"/><div n="1">(2) {#द्रव्यम्#} (=material), <div n="xe">{%he who injures, breaks%}
-<div n="lb"/>{%or crushes t.s:%}</div> <div n="xs">{#क्षतं भङ्गावमर्दौ व कुर्याद्रव्येषु यो नरः,#}</div>
-<div n="lb"/>Kat.; </div><div n="1">(3) {#विषयः#} (=object: q. v. ).</div>
+{@THING:@}¦ <div n="1">(1) {#वस्तु#} (n.), <div n="xe">{%sir, what t. is to be given%}
+{%to your preceptor:%}</div> <div n="xs">{#किं वस्तु विद्वन् गुरवे प्रदेयम्,#}</div> R. v.
+18.;...... <div n="xe">{%why I have been confined or why I have%}
+{%been brought here, about these t.s my curiosity%}
+{%has not been removed:%}</div> <div n="xs">{#किमर्थं वाहं बद्धो बद्ध्वा वा #}
+{# किमर्थमिहानीत इत्यत्र वस्तुन्यहमनपगतकौतुक एव,#}</div> K.;</div>
+<div n="1">(2) {#द्रव्यम्#} (=material), <div n="xe">{%he who injures, breaks%}
+{%or crushes t.s:%}</div> <div n="xs">{#क्षतं भङ्गावमर्दौ व कुर्याद्रव्येषु यो नरः,#}</div>
+Kat.; </div><div n="1">(3) {#विषयः#} (=object: q. v. ).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>1360<pc>048<k1>audaciousness<k2>audaciousness
-<div n="lb"/>{@AUDACIOUSNESS, AUDACITY:@}¦ <div n="1">(1) {#प्रगल्भता;#} </div><div n="1">(2)
-<div n="lb"/>{#प्रागल्भ्यम्;#} </div><div n="1">(3) {#प्रतिभा#} <div n="xe">{%or%}</div> <div n="xs">{#प्रतिभानम्;#}</div> </div><div n="1">(4) {#धाष्टयम्;#}</div>
-<div n="lb"/><div n="1">(5) {#साहसम्#} (=boldness); </div><div n="1">(6) {#निर्लज्जता#}
-<div n="lb"/>(=impudence).</div>
+{@AUDACIOUSNESS, AUDACITY:@}¦ <div n="1">(1) {#प्रगल्भता;#} </div><div n="1">(2)
+{#प्रागल्भ्यम्;#} </div><div n="1">(3) {#प्रतिभा#} <div n="xe">{%or%}</div> <div n="xs">{#प्रतिभानम्;#}</div> </div><div n="1">(4) {#धाष्टयम्;#}</div>
+<div n="1">(5) {#साहसम्#} (=boldness); </div><div n="1">(6) {#निर्लज्जता#}
+(=impudence).</div>
 <LEND>

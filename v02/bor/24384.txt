@@ -1,10 +1,10 @@
 <L>24384<pc>763<k1>wine<k2>wine
-<div n="lb"/>{@WINE:@}¦ <div n="1">(1) {#मद्यम्,#} <div n="xe">{%to drink w.:%}</div> <div n="xs">{#मद्यं पिबति;#}</div> <div n="xe">{%to take%}
-<div n="lb"/>{%w.:%}</div> <div n="xs">{#मद्यं सेवते,#}</div> Ni.; <div n="xe">{%new w.:%}</div> <div n="xs">{#नवं मद्यम्,#}</div> Sr.; <div n="xe">{%w.%}
-<div n="lb"/>{%pot:%}</div> <div n="xs">{#मद्यमाण्डम्,#}</div> P.; {%destroying the smell of w.:%}
-<div n="lb"/>{#भद्यगन्धनाशनम्,#} Bha.; </div><div n="1">(2) {#मदिरा,#} {%w. -tasting:%}
-<div n="lb"/>{#मदिरास्वादः,#} Si.; </div><div n="1">(3) {#मधु#} (poet.), {%sweet w.:%}
-<div n="lb"/>{#स्वादु मधु,#} Si.; </div><div n="1">(4) {#सुरा#} (= spirit), {%to make w.:%}
-<div n="lb"/>{#सुरां करोति,#} Mah.; </div><div n="1">(5) {#आसवः#} (= liquor),
-<div n="lb"/><div n="xe">{%taking of w.:%}</div> <div n="xs">{#आसवसेवनम्,#}</div> D.</div>
+{@WINE:@}¦ <div n="1">(1) {#मद्यम्,#} <div n="xe">{%to drink w.:%}</div> <div n="xs">{#मद्यं पिबति;#}</div> <div n="xe">{%to take%}
+{%w.:%}</div> <div n="xs">{#मद्यं सेवते,#}</div> Ni.; <div n="xe">{%new w.:%}</div> <div n="xs">{#नवं मद्यम्,#}</div> Sr.; <div n="xe">{%w.%}
+{%pot:%}</div> <div n="xs">{#मद्यमाण्डम्,#}</div> P.; {%destroying the smell of w.:%}
+{#भद्यगन्धनाशनम्,#} Bha.; </div><div n="1">(2) {#मदिरा,#} {%w. -tasting:%}
+{#मदिरास्वादः,#} Si.; </div><div n="1">(3) {#मधु#} (poet.), {%sweet w.:%}
+{#स्वादु मधु,#} Si.; </div><div n="1">(4) {#सुरा#} (= spirit), {%to make w.:%}
+{#सुरां करोति,#} Mah.; </div><div n="1">(5) {#आसवः#} (= liquor),
+<div n="xe">{%taking of w.:%}</div> <div n="xs">{#आसवसेवनम्,#}</div> D.</div>
 <LEND>

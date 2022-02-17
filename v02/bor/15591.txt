@@ -1,11 +1,11 @@
 <L>15591<pc>478<k1>number<k2>number
-<div n="lb"/>{@NUMBER@}¦ (v.): <div n="I">I To count: q. v.: {#संख्याति, #}
-<div n="lb"/>{# परि-,#} ({#ख्या,#} c. 2.), {%by n.ing one, two, three:%}
-<div n="lb"/>{#एका द्वे तिस्न इति संख्यानेन,#} M. n. </div><div n="I">II To give
-<div n="lb"/>the n. of, perh. {#संख्याति; संख्यां करोति,#} Mah.</div>
-<div n="lb"/><div n="I">III To reckon as one of a n.: </div><div n="1">(1) {#संख्याति;#}</div>
-<div n="lb"/><div n="1">(2) expr. by {#संख्या,#} <div n="xe">{%or to n. above men:%}</div> <div n="xs">{#मनुष्य-#}
-<div n="lb"/>{#संख्यामतिवर्तितुं वा,#}</div> Ki. iii, 40. </div><div n="I">IV To amount
-<div n="lb"/>to: expr. by {#संख्या,#} <div n="xe">{%n.ing five thousand:%}</div> <div n="xs">{#पञ्च-#}
-<div n="lb"/>{#सहस्रसंख्य#}</div> (f. {#ख्या#}), {#-क#} (f. {#-का#}).</div>
+{@NUMBER@}¦ (v.): <div n="I">I To count: q. v.: {#संख्याति, #}
+{# परि-,#} ({#ख्या,#} c. 2.), {%by n.ing one, two, three:%}
+{#एका द्वे तिस्न इति संख्यानेन,#} M. n. </div><div n="I">II To give
+the n. of, perh. {#संख्याति; संख्यां करोति,#} Mah.</div>
+<div n="I">III To reckon as one of a n.: </div><div n="1">(1) {#संख्याति;#}</div>
+<div n="1">(2) expr. by {#संख्या,#} <div n="xe">{%or to n. above men:%}</div> <div n="xs">{#मनुष्य-#}
+{#संख्यामतिवर्तितुं वा,#}</div> Ki. iii, 40. </div><div n="I">IV To amount
+to: expr. by {#संख्या,#} <div n="xe">{%n.ing five thousand:%}</div> <div n="xs">{#पञ्च-#}
+{#सहस्रसंख्य#}</div> (f. {#ख्या#}), {#-क#} (f. {#-का#}).</div>
 <LEND>

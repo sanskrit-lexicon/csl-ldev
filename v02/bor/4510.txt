@@ -1,5 +1,5 @@
 <L>4510<pc>146<k1>consolatory<k2>consolatory
-<div n="lb"/>{@CONSOLATORY:@}¦ <div n="I">I Adj.: {#आश्वासकः#} ({#सिका, सकं#});</div>
-<div n="lb"/><div n="1">(2) {#शोकापनोदननिपुणः#} ({#णा, णं#}), K. </div><div n="I">II Subs.:
-<div n="lb"/>{#सान्त्वनम्, उप-,#} <div n="xe">{%with mild c. s:%}</div> <div n="xs">{#मृदुभिरुपसान्त्वनैः,#}</div> K.</div>
+{@CONSOLATORY:@}¦ <div n="I">I Adj.: {#आश्वासकः#} ({#सिका, सकं#});</div>
+<div n="1">(2) {#शोकापनोदननिपुणः#} ({#णा, णं#}), K. </div><div n="I">II Subs.:
+{#सान्त्वनम्, उप-,#} <div n="xe">{%with mild c. s:%}</div> <div n="xs">{#मृदुभिरुपसान्त्वनैः,#}</div> K.</div>
 <LEND>

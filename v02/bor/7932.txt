@@ -1,10 +1,10 @@
 <L>7932<pc>250<k1>evidence<k2>evidence
-<div n="lb"/>{@EVIDENCE@}¦ (subs.): <div n="1">(1) {#साक्ष्यम्#} (of witnesses),
-<div n="lb"/><div n="xe">{%to give e.:%}</div> <div n="xs">{#साक्ष्यं ददाति,#}</div> Y.; <div n="xe">{%e. may be direct and%}
-<div n="lb"/>{%also hearsay:%}</div> <div n="xs">{#समक्षदर्शनात् साक्ष्यं श्रवणाच्चैव सिध्यति,#}</div>
-<div n="lb"/>M.; </div><div n="1">(2) {#प्रमाणम्#} (= any proof), {%does not estab-%} [Page251] {%%}
-<div n="lb"/>{%lish his claim by e.:%} {#उक्तं प्रमाणेन न प्रतिपादयति,#}
-<div n="lb"/>K. b.; {%document%} ({%=written%}) {%possession%} ({%= real%})
-<div n="lb"/>{%and witnesses%} ({%=oral%}) <div n="xe">{%are e.:%}</div> <div n="xs">{#प्रमाणं लिखितं भुक्तिः #}
-<div n="lb"/>{# साक्षिणश्च,#}</div> Y.</div>
+{@EVIDENCE@}¦ (subs.): <div n="1">(1) {#साक्ष्यम्#} (of witnesses),
+<div n="xe">{%to give e.:%}</div> <div n="xs">{#साक्ष्यं ददाति,#}</div> Y.; <div n="xe">{%e. may be direct and%}
+{%also hearsay:%}</div> <div n="xs">{#समक्षदर्शनात् साक्ष्यं श्रवणाच्चैव सिध्यति,#}</div>
+M.; </div><div n="1">(2) {#प्रमाणम्#} (= any proof), {%does not estab-%} [Page251] {%%}
+{%lish his claim by e.:%} {#उक्तं प्रमाणेन न प्रतिपादयति,#}
+K. b.; {%document%} ({%=written%}) {%possession%} ({%= real%})
+{%and witnesses%} ({%=oral%}) <div n="xe">{%are e.:%}</div> <div n="xs">{#प्रमाणं लिखितं भुक्तिः #}
+{# साक्षिणश्च,#}</div> Y.</div>
 <LEND>

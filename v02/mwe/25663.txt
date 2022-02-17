@@ -1,15 +1,15 @@
 <L>25663<pc>697-a<k1>room<k2>room
-<div n="lb"/>ROOM¦, {%s.%} (Space, compass, free course) {#अवकाशः, प्रसरः, अवसरः,#}
-<div n="lb"/>{#अन्तरं, विषयः, अपसारणं;#} ‘want of room,’ {#अनवकाशः;#} ‘the
-<div n="lb"/>water flows out to make room for the stone,’ {#पाषाणाय विषयं#}
-<div n="lb"/>{#दत्त्वा जलं वहिर्गच्छति;#} ‘room! make room!’ {#अपसर, अवसर#}. — 
-<div n="lb"/>(Place for reception or admission of any thing) {#स्थानं,#}
-<div n="lb"/>{#आस्पदं, पदं, भूमिः#} {%f.,%} {#प्रदेशः;#} ‘room for suspicion,’ {#शङ्कास्पदं;#}
-<div n="lb"/>‘room for fear,’ {#भयस्थानं;#} ‘there was no room to hold all,’
-<div n="lb"/>{#सर्व्वधारणाय स्थानं नाभवत्#}. — (Opportunity) {#अवसरः, अवकाशः#}. — 
-<div n="lb"/>(Stead, lieu) {#स्थानं, स्थलं, भूमिः#} {%f.;%} ‘in the room of,’ {#स्थाने,#}
-<div n="lb"/>{#भूमौ, स्थले#}. — (Apartment) {#शाला -लिका, आगारः -रं, कोष्ठः -ष्ठकं,#}
-<div n="lb"/>{#गृहं, कक्षः, कुटी, आवासः, प्रकोष्ठः, स्थलं -ली;#} ‘inner room,’ {#उप-#}
-<div n="lb"/>{#रोधकं, अन्तर्गृहं, गर्भगृहं, गर्भागारं, गर्भः;#} ‘top room, upper room,’
-<div n="lb"/>{#शिरोगृहं, चन्द्रशालिका, उपरिशाला#}.
+ROOM¦, {%s.%} (Space, compass, free course) {#अवकाशः, प्रसरः, अवसरः,#}
+{#अन्तरं, विषयः, अपसारणं;#} ‘want of room,’ {#अनवकाशः;#} ‘the
+water flows out to make room for the stone,’ {#पाषाणाय विषयं#}
+{#दत्त्वा जलं वहिर्गच्छति;#} ‘room! make room!’ {#अपसर, अवसर#}. — 
+(Place for reception or admission of any thing) {#स्थानं,#}
+{#आस्पदं, पदं, भूमिः#} {%f.,%} {#प्रदेशः;#} ‘room for suspicion,’ {#शङ्कास्पदं;#}
+‘room for fear,’ {#भयस्थानं;#} ‘there was no room to hold all,’
+{#सर्व्वधारणाय स्थानं नाभवत्#}. — (Opportunity) {#अवसरः, अवकाशः#}. — 
+(Stead, lieu) {#स्थानं, स्थलं, भूमिः#} {%f.;%} ‘in the room of,’ {#स्थाने,#}
+{#भूमौ, स्थले#}. — (Apartment) {#शाला -लिका, आगारः -रं, कोष्ठः -ष्ठकं,#}
+{#गृहं, कक्षः, कुटी, आवासः, प्रकोष्ठः, स्थलं -ली;#} ‘inner room,’ {#उप-#}
+{#रोधकं, अन्तर्गृहं, गर्भगृहं, गर्भागारं, गर्भः;#} ‘top room, upper room,’
+{#शिरोगृहं, चन्द्रशालिका, उपरिशाला#}.
 <LEND>

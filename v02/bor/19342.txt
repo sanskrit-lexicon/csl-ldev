@@ -1,8 +1,8 @@
 <L>19342<pc>600<k1>right<k2>right
-<div n="lb"/>{@RIGHT@}¦ (subs.): <div n="I">I Justice, propriety: q. v.:
-<div n="lb"/>{#धर्मः।#} </div><div n="I">II Just claim, title: </div><div n="1">(1) {#अधिकारः;#}</div>
-<div n="lb"/><div n="1">(2) {#स्वत्वम्।#} </div><div n="I">III. R. side: v. Right. (adj. 1.).</div>
-<div n="lb"/><div n="I">IV What is r.: expr. by adj., <div n="xe">{%neither I%}
-<div n="lb"/>{%did r. to him:%}</div> <div n="xs">{#एतस्मिन्नुचितं न नाम विहितम्,#}</div> Vi.
-<div n="lb"/>v. 46.; <div n="xe">{%you are in the r.:%}</div> <div n="xs">{#सत्ये त्वं वर्तसे#}</div> (?).</div>
+{@RIGHT@}¦ (subs.): <div n="I">I Justice, propriety: q. v.:
+{#धर्मः।#} </div><div n="I">II Just claim, title: </div><div n="1">(1) {#अधिकारः;#}</div>
+<div n="1">(2) {#स्वत्वम्।#} </div><div n="I">III. R. side: v. Right. (adj. 1.).</div>
+<div n="I">IV What is r.: expr. by adj., <div n="xe">{%neither I%}
+{%did r. to him:%}</div> <div n="xs">{#एतस्मिन्नुचितं न नाम विहितम्,#}</div> Vi.
+v. 46.; <div n="xe">{%you are in the r.:%}</div> <div n="xs">{#सत्ये त्वं वर्तसे#}</div> (?).</div>
 <LEND>

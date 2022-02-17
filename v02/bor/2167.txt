@@ -1,16 +1,16 @@
 <L>2167<pc>075<k1>bless<k2>bless
-<div n="lb"/>{@BLESS@}¦ (v. t.): <div n="I">I To pronounce a blessing
-<div n="lb"/>on: </div><div n="1">(1) often by sim. {#आशीर्लिङ्#} <div n="xe">{%or%}</div> <div n="xs">{#लोट्#}</div> when
-<div n="lb"/>any particular blessing is specified, <div n="xe">{%I b.%}
-<div n="lb"/>{%you that you may have a son like yourself,%}</div>
-<div n="lb"/><div n="xs">{#पुत्रं लभस्वात्मगुणानुरूपम्,#}</div> R. v. 34.; </div><div n="1">(2) {#आषिशं #}
-<div n="lb"/>{# ददाति#} ({#दा,#} c. 3) <div n="xe">{%or%}</div> <div n="xs">{#प्रयुनक्ति#}</div> ({#युज्,#} c. 7) (with
-<div n="lb"/>dat.), R. v. 35. </div><div n="1">(3) {#आशास्ते#} ({#शास्,#} c. 2),
-<div n="lb"/><div n="xe">{%I b. you by the Rig Veda%}</div> <div n="xs">{#ऋक्छन्दसाशासे,#}</div> Sa.
-<div n="lb"/>iv.; </div><div n="1">(4) {#आशंसते#} ({#शंस्,#} c. l) (rare), M. n.:
-<div n="lb"/>Ph. <div n="xe">{%God b. you%}</div> <div n="xs">{#ईशस्ते कल्याणं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शुभं वितरतु।#}</div> </div><div n="I">II
-<div n="lb"/>To glorify or praise: q. v.: Ph. <div n="xe">{%b. the%}
-<div n="lb"/>{%Lord, b. his holy name%}</div> <div n="xs">{#*ईशो गीयतां, तस्य पवित्रं #}
-<div n="lb"/>{# नाम गीयताम्।#}</div> </div><div n="I">III To consecrate: q. v. </div><div n="I">IV
-<div n="lb"/>To favour, endow liberally: q. v.</div>
+{@BLESS@}¦ (v. t.): <div n="I">I To pronounce a blessing
+on: </div><div n="1">(1) often by sim. {#आशीर्लिङ्#} <div n="xe">{%or%}</div> <div n="xs">{#लोट्#}</div> when
+any particular blessing is specified, <div n="xe">{%I b.%}
+{%you that you may have a son like yourself,%}</div>
+<div n="xs">{#पुत्रं लभस्वात्मगुणानुरूपम्,#}</div> R. v. 34.; </div><div n="1">(2) {#आषिशं #}
+{# ददाति#} ({#दा,#} c. 3) <div n="xe">{%or%}</div> <div n="xs">{#प्रयुनक्ति#}</div> ({#युज्,#} c. 7) (with
+dat.), R. v. 35. </div><div n="1">(3) {#आशास्ते#} ({#शास्,#} c. 2),
+<div n="xe">{%I b. you by the Rig Veda%}</div> <div n="xs">{#ऋक्छन्दसाशासे,#}</div> Sa.
+iv.; </div><div n="1">(4) {#आशंसते#} ({#शंस्,#} c. l) (rare), M. n.:
+Ph. <div n="xe">{%God b. you%}</div> <div n="xs">{#ईशस्ते कल्याणं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शुभं वितरतु।#}</div> </div><div n="I">II
+To glorify or praise: q. v.: Ph. <div n="xe">{%b. the%}
+{%Lord, b. his holy name%}</div> <div n="xs">{#*ईशो गीयतां, तस्य पवित्रं #}
+{# नाम गीयताम्।#}</div> </div><div n="I">III To consecrate: q. v. </div><div n="I">IV
+To favour, endow liberally: q. v.</div>
 <LEND>

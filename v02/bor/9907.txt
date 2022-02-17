@@ -1,8 +1,8 @@
 <L>9907<pc>313<k1>give out<k2>give out
-<div n="lb"/>{@GIVE OUT:@}¦ 1. To announce: Ph.: <div n="xe">{%g. ing out%}
-<div n="lb"/>{%that the queen was burnt:%}</div> <div n="xs">{#देवी दग्वेति वार्तामुत्पाद्य,#}</div>
-<div n="lb"/>Ra. iv.; <div n="xe">{%should not g. out master's secret acts%}
-<div n="lb"/>{%and counsel:%}</div> <div n="xs">{#गुह्यं कर्म च मन्त्रं च न मर्तुः सम्प्रकाशयेत्,#}</div>
-<div n="lb"/>Ka. v. 31.: v. To disclose, reveal. <div n="I">II To
-<div n="lb"/>emit: q.v. </div><div n="I">III To yield: q.v.</div>
+{@GIVE OUT:@}¦ 1. To announce: Ph.: <div n="xe">{%g. ing out%}
+{%that the queen was burnt:%}</div> <div n="xs">{#देवी दग्वेति वार्तामुत्पाद्य,#}</div>
+Ra. iv.; <div n="xe">{%should not g. out master's secret acts%}
+{%and counsel:%}</div> <div n="xs">{#गुह्यं कर्म च मन्त्रं च न मर्तुः सम्प्रकाशयेत्,#}</div>
+Ka. v. 31.: v. To disclose, reveal. <div n="I">II To
+emit: q.v. </div><div n="I">III To yield: q.v.</div>
 <LEND>

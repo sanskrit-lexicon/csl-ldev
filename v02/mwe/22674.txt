@@ -1,10 +1,10 @@
 <L>22674<pc>600-a<k1>pledge<k2>pledge
-<div n="lb"/>PLEDGE¦, {%s.%} (Any thing deposited as a security) {#न्यासः, निक्षेपः,#}
-<div n="lb"/>{#आधिः#} {%m.,%} {#आधानं, उपन्यासः, बन्धकः, उपनिधिः#} {%m.,%} {#उपनिक्षेपः,#}
-<div n="lb"/>{#उपनिधानं, औपनिधिकं, अन्वाधिः#} {%m.,%} {#पणः, परिपणनं, आधमनं,#}
-<div n="lb"/>{#आधीकरणं;#} ‘counter-pledge,’ {#प्रतिपाणं#}. — (Any thing de-
-<div n="lb"/>posited as security for the repayment of something bor-
-<div n="lb"/>rowed) {#गृहीतस्य द्रव्यस्योपरि विश्वासार्थम् अधमर्णेनोत्तमर्णे न्यस्त#}
-<div n="lb"/>{#आधिः;#} ‘act of depositing a pledge,’ {#आधीकरणं#}. — (Hostage)
-<div n="lb"/>{#बन्धकः, शरीरबन्धकः#}. — (Token) {#अभिज्ञानं#}.
+PLEDGE¦, {%s.%} (Any thing deposited as a security) {#न्यासः, निक्षेपः,#}
+{#आधिः#} {%m.,%} {#आधानं, उपन्यासः, बन्धकः, उपनिधिः#} {%m.,%} {#उपनिक्षेपः,#}
+{#उपनिधानं, औपनिधिकं, अन्वाधिः#} {%m.,%} {#पणः, परिपणनं, आधमनं,#}
+{#आधीकरणं;#} ‘counter-pledge,’ {#प्रतिपाणं#}. — (Any thing de-
+posited as security for the repayment of something bor-
+rowed) {#गृहीतस्य द्रव्यस्योपरि विश्वासार्थम् अधमर्णेनोत्तमर्णे न्यस्त#}
+{#आधिः;#} ‘act of depositing a pledge,’ {#आधीकरणं#}. — (Hostage)
+{#बन्धकः, शरीरबन्धकः#}. — (Token) {#अभिज्ञानं#}.
 <LEND>

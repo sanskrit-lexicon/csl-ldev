@@ -1,7 +1,7 @@
 <L>20834<pc>654<k1>smoke<k2>smoke
-<div n="lb"/>{@SMOKE@}¦ (subs.): <div n="I">I Lit.: {#धूमः(पः)#}, {%dark like s.:%}
-<div n="lb"/>{#धूमधूम्र#} (f. {#म्रा#}), R. xv. 16.; <div n="xe">{%forming clouds of%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#धृतधूममण्डलः,#}</div> Ki. xvi., 59.; <div n="xe">{%where there is%}
-<div n="lb"/>{%s., there is fire:%}</div> <div n="xs">{#यतो धूमस्ततो वह्निः।#}</div> </div><div n="I">II Fig.:
-<div n="lb"/>{%‘ending in s.’:%} perh. {#शून्यगर्भ#} (f. {#र्भा#}).</div>
+{@SMOKE@}¦ (subs.): <div n="I">I Lit.: {#धूमः(पः)#}, {%dark like s.:%}
+{#धूमधूम्र#} (f. {#म्रा#}), R. xv. 16.; <div n="xe">{%forming clouds of%}
+{%s.:%}</div> <div n="xs">{#धृतधूममण्डलः,#}</div> Ki. xvi., 59.; <div n="xe">{%where there is%}
+{%s., there is fire:%}</div> <div n="xs">{#यतो धूमस्ततो वह्निः।#}</div> </div><div n="I">II Fig.:
+{%‘ending in s.’:%} perh. {#शून्यगर्भ#} (f. {#र्भा#}).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>1689<pc>058<k1>bat<k2>bat
-<div n="lb"/>{@BAT:@}¦ <div n="I">I An animal: </div><div n="1">(1) {#भङ्गारी,#} </div><div n="1">(2) {#चर्मचटी#};</div>
-<div n="lb"/><div n="1">(3) {#जतुका।#} </div><div n="I">II A club for playing: {#यष्टिः#} (?)</div>
+{@BAT:@}¦ <div n="I">I An animal: </div><div n="1">(1) {#भङ्गारी,#} </div><div n="1">(2) {#चर्मचटी#};</div>
+<div n="1">(3) {#जतुका।#} </div><div n="I">II A club for playing: {#यष्टिः#} (?)</div>
 <LEND>

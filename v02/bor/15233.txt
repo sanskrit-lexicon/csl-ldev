@@ -1,4 +1,4 @@
 <L>15233<pc>466<k1>narration<k2>narration
-<div n="lb"/>{@NARRATION:@}¦ <div n="I">I Description, relation: {#वर्णना।#}</div>
-<div n="lb"/><div n="I">II Story: {#कथा।#}</div>
+{@NARRATION:@}¦ <div n="I">I Description, relation: {#वर्णना।#}</div>
+<div n="I">II Story: {#कथा।#}</div>
 <LEND>

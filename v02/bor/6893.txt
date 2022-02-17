@@ -1,25 +1,25 @@
 <L>6893<pc>219<k1>draw<k2>draw
-<div n="lb"/>{@DRAW@}¦ (v. t.): <div n="I">I To pull: {#कर्षति, आ-,#} ({#कृष्,#} c.
-<div n="lb"/>1.), <div n="xe">{%d. s a snake out of the basket:%}</div> <div n="xs">{#भुजङ्गमाकर्षति #}
-<div n="lb"/>{# पेटिकायाः,#}</div> V. t.; <div n="xe">{%d. ing his sword:%}</div> <div n="xs">{#खङ्गमाकृष्य,#}</div>
-<div n="lb"/>Ve. iii.; <div n="xe">{%d. n up to the ear:%}</div> <div n="xs">{#आकर्णकृष्टः#}</div> ({#ष्टा, ष्टं#}),
-<div n="lb"/>R. ix. 57.; <div n="xe">{%d. ing the sheet rolled up under his%}
-<div n="lb"/>{%arm-pit:%}</div> <div n="xs">{#कक्षतललुण्ठीकृतं पटमाकृष्य,#}</div> Mr. ii.; <div n="xe">{%to d.%}
-<div n="lb"/>{%a curtain:%}</div> <div n="xs">{#जवनिकाम् आकर्षति#}</div> (?) (there were
-<div n="lb"/>no sliding curtains among the Hindus).
-<div n="lb"/>Fig.; <div n="xe">{%d. n. by fame:%}</div> <div n="xs">{#यशसाकृष्टः#}</div> ({#ष्टा, ष्टं#}): v.
-<div n="lb"/>To allure. </div><div n="I">II To extract: q. v.: {#निष्कर्षति,#}
-<div n="lb"/><div n="xe">{%intend to d. money from Kuvera:%}</div> <div n="xs">{#निष्क्रष्टुमर्थं चकमे #}
-<div n="lb"/>{# कुवेरात्,#}</div> R. v. 26. </div><div n="I">III To lift: q. v.: {#उदञ्चयति#}
-<div n="lb"/>({#अञ्च्,#} c. 10.), {%d. ing water to quench thirst:%}
-<div n="lb"/>{#पिपासां प्रतिकर्तुमुदकमुदञ्चयन्,#} D. </div><div n="I">IV To delineate:
-<div n="lb"/>{#लिखति, अभि-, आ-,#} ({#लिख्,#} c. 6.), <div n="xe">{%the person d. n%}
-<div n="lb"/>{%on the canvas:%}</div> <div n="xs">{#पटे लिखितं पुरुषम्,#}</div> D. iv. V. To
-<div n="lb"/>write: {#लिखति, अभि-।#} </div><div n="I">VI To deduce: q. v.</div>
-<div n="lb"/><div n="I">VII To require a depth of: Ph.: <div n="xe">{%it d. s six%}
-<div n="lb"/>{%feet of water:%}</div> <div n="xs">{#*चतुर्हस्तजले गच्छति।#}</div> </div><div n="I">VIII To
-<div n="lb"/>gain: q. v.: Misc: <div n="xe">{%to d. the breast:%}</div> <div n="xs">{#स्तनम् #}
-<div n="lb"/>{# आकर्षति#}</div> (?) <div n="xe">{%or%}</div> <div n="xs">{#पिबति,#}</div> B. p.; {%to d. an animal:%}
-<div n="lb"/>{#पशोः क्लोमादीन्यपोहति,#} (after D.); {%serpents d. air:%}
-<div n="lb"/>{#सर्पाः पिबन्ति पवनम्,#} P.</div>
+{@DRAW@}¦ (v. t.): <div n="I">I To pull: {#कर्षति, आ-,#} ({#कृष्,#} c.
+1.), <div n="xe">{%d. s a snake out of the basket:%}</div> <div n="xs">{#भुजङ्गमाकर्षति #}
+{# पेटिकायाः,#}</div> V. t.; <div n="xe">{%d. ing his sword:%}</div> <div n="xs">{#खङ्गमाकृष्य,#}</div>
+Ve. iii.; <div n="xe">{%d. n up to the ear:%}</div> <div n="xs">{#आकर्णकृष्टः#}</div> ({#ष्टा, ष्टं#}),
+R. ix. 57.; <div n="xe">{%d. ing the sheet rolled up under his%}
+{%arm-pit:%}</div> <div n="xs">{#कक्षतललुण्ठीकृतं पटमाकृष्य,#}</div> Mr. ii.; <div n="xe">{%to d.%}
+{%a curtain:%}</div> <div n="xs">{#जवनिकाम् आकर्षति#}</div> (?) (there were
+no sliding curtains among the Hindus).
+Fig.; <div n="xe">{%d. n. by fame:%}</div> <div n="xs">{#यशसाकृष्टः#}</div> ({#ष्टा, ष्टं#}): v.
+To allure. </div><div n="I">II To extract: q. v.: {#निष्कर्षति,#}
+<div n="xe">{%intend to d. money from Kuvera:%}</div> <div n="xs">{#निष्क्रष्टुमर्थं चकमे #}
+{# कुवेरात्,#}</div> R. v. 26. </div><div n="I">III To lift: q. v.: {#उदञ्चयति#}
+({#अञ्च्,#} c. 10.), {%d. ing water to quench thirst:%}
+{#पिपासां प्रतिकर्तुमुदकमुदञ्चयन्,#} D. </div><div n="I">IV To delineate:
+{#लिखति, अभि-, आ-,#} ({#लिख्,#} c. 6.), <div n="xe">{%the person d. n%}
+{%on the canvas:%}</div> <div n="xs">{#पटे लिखितं पुरुषम्,#}</div> D. iv. V. To
+write: {#लिखति, अभि-।#} </div><div n="I">VI To deduce: q. v.</div>
+<div n="I">VII To require a depth of: Ph.: <div n="xe">{%it d. s six%}
+{%feet of water:%}</div> <div n="xs">{#*चतुर्हस्तजले गच्छति।#}</div> </div><div n="I">VIII To
+gain: q. v.: Misc: <div n="xe">{%to d. the breast:%}</div> <div n="xs">{#स्तनम् #}
+{# आकर्षति#}</div> (?) <div n="xe">{%or%}</div> <div n="xs">{#पिबति,#}</div> B. p.; {%to d. an animal:%}
+{#पशोः क्लोमादीन्यपोहति,#} (after D.); {%serpents d. air:%}
+{#सर्पाः पिबन्ति पवनम्,#} P.</div>
 <LEND>

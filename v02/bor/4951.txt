@@ -1,9 +1,9 @@
 <L>4951<pc>160<k1>covetous<k2>covetous
-<div n="lb"/>{@COVETOUS:@}¦ <div n="I">I In bad sense: </div><div n="1">(1) {#लुब्ध#} (f. {#ब्धा#}),
-<div n="lb"/><div n="xe">{%c. of riches:%}</div> <div n="xs">{#धनलुब्धः#}</div> (f. {#ब्धा#}), H.; {%a c. man:%}
-<div n="lb"/>{#लुब्धकः,#} P.; </div><div n="1">(2) {#लोभिन्#} (f. {#नी#}); </div><div n="1">(3) {#लोभवत्#} (f.
-<div n="lb"/>{#ती#}); </div><div n="1">(4) {#गृध्नु#} (mfn) (rare). Ph.: <div n="xe">{%your mind%}
-<div n="lb"/>{%is c.:%}</div> <div n="xs">{#तृष्णातरलं भवन्मनः,#}</div> N. {%Very c.:%} </div><div n="1">(1)
-<div n="lb"/>{#लोलुभः#} ({#भा, भं#}); </div><div n="1">(2) {#लोलुपः#} ({#पा, पं#}). </div><div n="I">II In
-<div n="lb"/>good sense, = desirous: q. v.: {#लिप्सु#} (mfn.).</div>
+{@COVETOUS:@}¦ <div n="I">I In bad sense: </div><div n="1">(1) {#लुब्ध#} (f. {#ब्धा#}),
+<div n="xe">{%c. of riches:%}</div> <div n="xs">{#धनलुब्धः#}</div> (f. {#ब्धा#}), H.; {%a c. man:%}
+{#लुब्धकः,#} P.; </div><div n="1">(2) {#लोभिन्#} (f. {#नी#}); </div><div n="1">(3) {#लोभवत्#} (f.
+{#ती#}); </div><div n="1">(4) {#गृध्नु#} (mfn) (rare). Ph.: <div n="xe">{%your mind%}
+{%is c.:%}</div> <div n="xs">{#तृष्णातरलं भवन्मनः,#}</div> N. {%Very c.:%} </div><div n="1">(1)
+{#लोलुभः#} ({#भा, भं#}); </div><div n="1">(2) {#लोलुपः#} ({#पा, पं#}). </div><div n="I">II In
+good sense, = desirous: q. v.: {#लिप्सु#} (mfn.).</div>
 <LEND>

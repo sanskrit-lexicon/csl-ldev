@@ -5,12 +5,12 @@ m. n. <ls>TRIK. 3, 5, 15.</ls>
 <ls>TRIK. 2, 1, 9. 3, 3, 43.</ls> 
 <ls>H. 959.</ls> 
 <ls>an. 3, 96. fg.</ls> 
-<ls>MED. k. 155.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92, 3 v. u.</ls> <ls>MBH. 2, 1030.</ls> {#मलं पृथिव्या वाह्लीकाः#} 
-<ls>?5, 1525. 6, 354 (VP. 189). HARIV. 9600. R. 4, 43, 5. 44, 13. VARĀH. BṚH. S. 16, 1. MĀRK. P. 57, 35. P. 8, 4, 9, Sch. WEBER, Nakṣ. II, 392.</ls> {#°देश्यः स्त्रियः#} 
+<ls>MED. k. 155.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92, 3</ls> v. u. <ls>MBH. 2, 1030.</ls> {#मलं पृथिव्या वाह्लीकाः#} 
+<ls n="MBH.">5, 1525.</ls> <ls n="MBH.">6, 354</ls> (<ls>VP. 189</ls>). <ls>HARIV. 9600.</ls> <ls>R. 4, 43, 5. 44, 13.</ls> <ls>VARĀH. BṚH. S. 16, 1.</ls> <ls>MĀRK. P. 57, 35.</ls> <ls>P. 8, 4, 9</ls>, Sch. <ls>WEBER, Nakṣ. II, 392.</ls> {#°देश्यः स्त्रियः#} 
 <ls>Verz. d. Oxf. H. 217,b,21.</ls> {#°भाषा#} 
 <ls>MUIR, ST. II, 61.</ls> sg. {%ein Fürst dieses Volkes%} <is>gaṇa</is> {#पर्श्वादि#} zu 
-<ls>P. 5, 3, 117</ls> und <ls>4, 1, 177, <is>Vārtt</is>. 2.</ls> <ls>MBH. 1, 224 (S. 8). 2661.</ls> <lex>f.</lex> {#ई (= माद्री)#} {%eine Prinzessin der%} <is>Bālh</is>. 
-<ls>?4886; vgl. LIA. I, 635, N. 5.</ls> 
+<ls>P. 5, 3, 117</ls> und <ls n="P.">4, 1, 177</ls>, <is>Vārtt</is>. 2. <ls>MBH. 1, 224</ls> (S. 8). <ls n="MBH. 1,">2661.</ls> <lex>f.</lex> {#ई (= माद्री)#} {%eine Prinzessin der%} <is>Bālh</is>. 
+<ls>4886</ls>; vgl. <ls>LIA. I, 635, N. 5.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Janamejaya</is> 
 <ls>MBH. 1, 3745.</ls> des <is>Pratīpa</is> 
 <ls>3750. fg. 3797. 5055. fgg.</ls> <ls>VP. 457.</ls> <ls>BHĀG. P. 9, 22, 12. 18.</ls> Vaters der <is>Rohiṇī</is>, der Gemahlin des <is>Vasudeva</is>, 
@@ -25,7 +25,7 @@ m. n. <ls>TRIK. 3, 5, 15.</ls>
 <ls>Verz. d. B. H. 292, 1.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Saffran%} 
-<ls>AK. 2, 6. 3,</ls> <ls>?25.TRIK. H. 645. H. an. MED. RATNAM. 134. SUŚR. 2, 284, 6.</ls>
+<ls>AK. 2, 6. 3, 25.</ls> <ls>TRIK.</ls> <ls>H. 645.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>RATNAM. 134.</ls> <ls>SUŚR. 2, 284, 6.</ls>
 [Page5-0078]
 
 <div n="2">— b) {%Asa foetida%} 
@@ -33,5 +33,5 @@ m. n. <ls>TRIK. 3, 5, 15.</ls>
 <ls>TRIK.</ls> 
 <ls>H. 422.</ls> 
 <ls>H. an.</ls> 
-<ls>MED.</ls> — Fast überall {#बाह्लीक#} {#(वा°)#} geschrieben und nicht selten mit {#बाहीक#} verwechselt.
+<ls>MED.</ls> — Fast überall {#बाह्लीक#} ({#वा°#}) geschrieben und nicht selten mit {#बाहीक#} verwechselt.
 <LEND>

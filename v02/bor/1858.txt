@@ -1,7 +1,7 @@
 <L>1858<pc>065<k1>behind<k2>behind
-<div n="lb"/>{@BEHIND@}¦ (adv.): <div n="1">(1) {#पृष्ठतः#} (=on or from the
-<div n="lb"/>back), <div n="xe">{%shuts the king's eyes from b.%}</div> <div n="xs">{#पृष्ठेनागत्य #}
-<div n="lb"/>{# राज्ञो लोचने संवृणोति,#}</div> V. iii.; </div><div n="1">(2) {#पश्चात्,#} <div n="xe">{%from%}
-<div n="lb"/>{%b.%}</div> <div n="xs">{#पश्चादेत्य।#}</div> V. iii.; <div n="xe">{%putting b.%}</div> <div n="xs">{#पश्चात्क्रिया,#}</div>
-<div n="lb"/>Ki. xviii. 42.</div>
+{@BEHIND@}¦ (adv.): <div n="1">(1) {#पृष्ठतः#} (=on or from the
+back), <div n="xe">{%shuts the king's eyes from b.%}</div> <div n="xs">{#पृष्ठेनागत्य #}
+{# राज्ञो लोचने संवृणोति,#}</div> V. iii.; </div><div n="1">(2) {#पश्चात्,#} <div n="xe">{%from%}
+{%b.%}</div> <div n="xs">{#पश्चादेत्य।#}</div> V. iii.; <div n="xe">{%putting b.%}</div> <div n="xs">{#पश्चात्क्रिया,#}</div>
+Ki. xviii. 42.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>22867<pc>721<k1>tribute<k2>tribute
-<div n="lb"/>{@TRIBUTE:@}¦ <div n="I">I Lit.: {#करः,#} <div n="xe">{%pay in kind some t. to%}
-<div n="lb"/>{%Yudhiṣṭhira:%}</div> <div n="xs">{#युधिष्ठिराय यक्तिंचित् करपण्यं प्रदीयताम्,#}</div>
-<div n="lb"/>Mah. ii. 28. 15. </div><div n="I">II Fig.: {#उपहारः#} (= pre-
-<div n="lb"/>-sent: q. v.).</div>
+{@TRIBUTE:@}¦ <div n="I">I Lit.: {#करः,#} <div n="xe">{%pay in kind some t. to%}
+{%Yudhiṣṭhira:%}</div> <div n="xs">{#युधिष्ठिराय यक्तिंचित् करपण्यं प्रदीयताम्,#}</div>
+Mah. ii. 28. 15. </div><div n="I">II Fig.: {#उपहारः#} (= pre-
+-sent: q. v.).</div>
 <LEND>

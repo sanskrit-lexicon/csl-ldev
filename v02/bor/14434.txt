@@ -1,10 +1,10 @@
 <L>14434<pc>443<k1>member<k2>member
-<div n="lb"/>{@MEMBER@}¦ (subs.): <div n="I">I Of the body: {#अङ्गम्:#}
-<div n="lb"/>v. Limb. </div><div n="I">II Of a sentence: {#अङ्गम्, -वाक्यम्,#}
-<div n="lb"/>Nil. </div><div n="I">III Fig.: {#अङ्गम्,#} <div n="xe">{%those qualities which%}
-<div n="lb"/>{%are m.s. of sentiment:%}</div> <div n="xs">{#ये रसस्याङ्गिनो धर्माः,#}</div> Kav.
-<div n="lb"/>viii. 1. </div><div n="I">IV Of a society: </div><div n="1">(1) {#सभ्यः;#} </div><div n="1">(2)
-<div n="lb"/>{#सदस्यः।#} V. Of a family: {#परिवाराः#} (m. pl.);
-<div n="lb"/>{#अङ्गम्:#} v. Limb (II). </div><div n="I">VI Of an equation:
-<div n="lb"/>{#पक्षः,#} Vij.</div>
+{@MEMBER@}¦ (subs.): <div n="I">I Of the body: {#अङ्गम्:#}
+v. Limb. </div><div n="I">II Of a sentence: {#अङ्गम्, -वाक्यम्,#}
+Nil. </div><div n="I">III Fig.: {#अङ्गम्,#} <div n="xe">{%those qualities which%}
+{%are m.s. of sentiment:%}</div> <div n="xs">{#ये रसस्याङ्गिनो धर्माः,#}</div> Kav.
+viii. 1. </div><div n="I">IV Of a society: </div><div n="1">(1) {#सभ्यः;#} </div><div n="1">(2)
+{#सदस्यः।#} V. Of a family: {#परिवाराः#} (m. pl.);
+{#अङ्गम्:#} v. Limb (II). </div><div n="I">VI Of an equation:
+{#पक्षः,#} Vij.</div>
 <LEND>

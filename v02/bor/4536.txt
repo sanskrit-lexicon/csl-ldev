@@ -1,9 +1,9 @@
 <L>4536<pc>147<k1>constitute<k2>constitute
-<div n="lb"/>{@CONSTITUTE:@}¦ <div n="I">I To enact, establish: q. v.</div>
-<div n="lb"/><div n="I">II To appoint, depute: q. v. </div><div n="I">III To
-<div n="lb"/>form, compose. Ph.: <div n="xe">{%after deciding what c. s%}
-<div n="lb"/>{%a poem:%}</div> <div n="xs">{#काव्यस्वरूपं निरूप्य,#}</div> Kav.; <div n="xe">{%clearness of%}
-<div n="lb"/>{%meaning c. s perspicuity:%}</div> <div n="xs">{#अर्थवैमल्यात्मा प्रसादः,#}</div>
-<div n="lb"/>Kav.; {%body or wealth does not c. manhood:%}
-<div n="lb"/>{#न वपुर्वसु वा पुंस्त्वमूलम्,#} D.</div>
+{@CONSTITUTE:@}¦ <div n="I">I To enact, establish: q. v.</div>
+<div n="I">II To appoint, depute: q. v. </div><div n="I">III To
+form, compose. Ph.: <div n="xe">{%after deciding what c. s%}
+{%a poem:%}</div> <div n="xs">{#काव्यस्वरूपं निरूप्य,#}</div> Kav.; <div n="xe">{%clearness of%}
+{%meaning c. s perspicuity:%}</div> <div n="xs">{#अर्थवैमल्यात्मा प्रसादः,#}</div>
+Kav.; {%body or wealth does not c. manhood:%}
+{#न वपुर्वसु वा पुंस्त्वमूलम्,#} D.</div>
 <LEND>

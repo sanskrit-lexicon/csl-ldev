@@ -1,3 +1,3 @@
 <L>20931<pc>658<k1>soda<k2>soda
-<div n="lb"/>{@SODA:@}¦ {#*क्षारकः,#} <div n="xe">{%s. -water:%}</div> <div n="xs">{#क्षारोदम्।#}</div>
+{@SODA:@}¦ {#*क्षारकः,#} <div n="xe">{%s. -water:%}</div> <div n="xs">{#क्षारोदम्।#}</div>
 <LEND>

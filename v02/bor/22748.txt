@@ -1,6 +1,6 @@
 <L>22748<pc>718<k1>train<k2>train
-<div n="lb"/>{@TRAIN@}¦ (subs.): <div n="I">I A series, succession: {#परम्परा।#}</div>
-<div n="lb"/><div n="I">II Retinue: q. v.: {#परिवर्हः।#} </div><div n="I">III Railway:
-<div n="lb"/>{#*लौहशकटमाला।#} </div><div n="I">IV Of dress: {#पुच्छः#} (?). V.
-<div n="lb"/>Of army: perh. {#परिवर्हः।#}</div>
+{@TRAIN@}¦ (subs.): <div n="I">I A series, succession: {#परम्परा।#}</div>
+<div n="I">II Retinue: q. v.: {#परिवर्हः।#} </div><div n="I">III Railway:
+{#*लौहशकटमाला।#} </div><div n="I">IV Of dress: {#पुच्छः#} (?). V.
+Of army: perh. {#परिवर्हः।#}</div>
 <LEND>

@@ -1,24 +1,24 @@
 <L>2133<pc>073-b<k1>किम्<k2>किम्<h>1
 1. {#किम्#}¦ (Nom. {#कस्, का, किम्,#} gr. 273.) quis; - {%Nota lo-%}
-<div n="lb">{%cutionem cum gen. personae et instr. rei, ad exprimendum,%}
-<div n="lb">quid prodest? {%e. c.%} N. 12. 90.: {#को नु मे जीवितेना#}
-<div n="lb">{#ऽर्थस् तम् ऋते पुरषर्षभम्;#} RAGH. 2. 53.: {#किन् राज्येन#}
-<div n="lb">{#तद्विपरीतवृत्तेः;#} {%nonnunquam part. fut. pass. radicis%} {#कृ#}
-<div n="lb">{%additur, e. c.%} Lass. 12. 20.: {#किम् बहुना मम भाषितेन#}
-<div n="lb">{#कर्तव्यम्#}. {%In hujusmodi locutionibus part. pass. praet.%}
-<div n="lb">{%gerundii loco fungitur, e. c.%} DR. 7. 4. H. 4. 2. - {%Antecedente%}
-<div n="lb">{%quopiam vocabulo interrogativo%} aliquis; BH. 2. 21.: {#कथं#}
-<div n="lb">{#स…कङ् घातयति हन्ति कम्;#} {%cum sequente%} {#अपि#}
-<div n="lb">aliquis, quispiam. HIT. 4. 7.; {%cum antecedente relativo et%}
-<div n="lb">{%sequente%} {#अपि#} quisque, quicunque. N. 26. 9. (Litth. {%kas%}
-<div n="lb">accurate convenit cum nomin. masc. {#कस्;#} goth. {%hva-s%}
-<div n="lb">quis? = {#कस्,#} {%hvô%} quae? = {#का,#} {%hva-ta%} quid? = obso-
-<div n="lb">leto {#कत्,#} zendico <lang n="greek"></lang> {%kaṭ;%} lat. {%quis, quid,%} a Th. {#कि#}
-<div n="lb">{%quo, quod%} (= {#कत्#}), {%qui, quorum, quos,%} a Th. {#क;#} de
-<div n="lb">fem. et neut. pl. {%quae%} pro {%quâ%} = goth. {%hvô%} v. gr. comp.
-<div n="lb">387. 394.; ad Th. {#कि#} etiam pertinet lat. {%hi-c, ci-s, ci-tra,%}
-<div n="lb">l. c. 394. 395. et goth. {%HI,%} unde {%hi-mma, hi-na, hi-ta, hi-%}
-<div n="lb">{%drê,%} angl. {%he, hi-s, hi-m,%} l. c. 397.; gr. HO jon. KO (<lang n="greek"></lang>-
-<div n="lb"><lang n="greek"></lang> etc.); slav. {%ky-ĭ, ka-ja, ko-e,%}
-<div n="lb">gr. comp. 388.; hib. {%cia,%} scot. {%co,%} cambro-brit. {%pa%} quid?)
+{%cutionem cum gen. personae et instr. rei, ad exprimendum,%}
+quid prodest? {%e. c.%} N. 12. 90.: {#को नु मे जीवितेना#}
+{#ऽर्थस् तम् ऋते पुरषर्षभम्;#} RAGH. 2. 53.: {#किन् राज्येन#}
+{#तद्विपरीतवृत्तेः;#} {%nonnunquam part. fut. pass. radicis%} {#कृ#}
+{%additur, e. c.%} Lass. 12. 20.: {#किम् बहुना मम भाषितेन#}
+{#कर्तव्यम्#}. {%In hujusmodi locutionibus part. pass. praet.%}
+{%gerundii loco fungitur, e. c.%} DR. 7. 4. H. 4. 2. - {%Antecedente%}
+{%quopiam vocabulo interrogativo%} aliquis; BH. 2. 21.: {#कथं#}
+{#स…कङ् घातयति हन्ति कम्;#} {%cum sequente%} {#अपि#}
+aliquis, quispiam. HIT. 4. 7.; {%cum antecedente relativo et%}
+{%sequente%} {#अपि#} quisque, quicunque. N. 26. 9. (Litth. {%kas%}
+accurate convenit cum nomin. masc. {#कस्;#} goth. {%hva-s%}
+quis? = {#कस्,#} {%hvô%} quae? = {#का,#} {%hva-ta%} quid? = obso-
+leto {#कत्,#} zendico <lang n="greek"></lang> {%kaṭ;%} lat. {%quis, quid,%} a Th. {#कि#}
+{%quo, quod%} (= {#कत्#}), {%qui, quorum, quos,%} a Th. {#क;#} de
+fem. et neut. pl. {%quae%} pro {%quâ%} = goth. {%hvô%} v. gr. comp.
+387. 394.; ad Th. {#कि#} etiam pertinet lat. {%hi-c, ci-s, ci-tra,%}
+l. c. 394. 395. et goth. {%HI,%} unde {%hi-mma, hi-na, hi-ta, hi-%}
+{%drê,%} angl. {%he, hi-s, hi-m,%} l. c. 397.; gr. HO jon. KO (<lang n="greek"></lang>-
+<lang n="greek"></lang> etc.); slav. {%ky-ĭ, ka-ja, ko-e,%}
+gr. comp. 388.; hib. {%cia,%} scot. {%co,%} cambro-brit. {%pa%} quid?)
 <LEND>

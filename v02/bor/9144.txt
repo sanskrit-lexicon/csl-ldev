@@ -1,12 +1,12 @@
 <L>9144<pc>289<k1>for<k2>for
-<div n="lb"/>{@FOR@}¦ (conj.): <div n="1">(1) {#हि#} (never at the beginning [Page290]
-<div n="lb"/>of a sentence), <div n="xe">{%f. you know the internal (senti-%}
-<div n="lb"/>{%ments) of animals:%}</div> <div n="xs">{#अन्तर्गतं प्राणभृतां हि वेद,#}</div> R. ii.
-<div n="lb"/>43.; {%f. it is not easy to break the meditations of%}
-<div n="lb"/>{%great (men%}): {#न हि महतां सुकरः समाधिभङ्गः,#} Ki. x.
-<div n="lb"/>23. N.B. Note the cons. of {#न हि#} (= f......
-<div n="lb"/>not; </div><div n="1">(2) {#यतः#} <div n="xe">{%or%}</div> <div n="xs">{#यस्मात्,#}</div> <div n="xe">{%f. association of good%}
-<div n="lb"/>{%men......%}</div> <div n="xs">{#यतः सतां सङ्गतं॥॥,#}</div> Ku. v. 39.: v.
-<div n="lb"/>Because. Ph.: <div n="xe">{%f. why:%}</div> <div n="xs">{#कस्मात्, किंनिमित्तम्,#}</div>
-<div n="lb"/>etc.</div>
+{@FOR@}¦ (conj.): <div n="1">(1) {#हि#} (never at the beginning [Page290]
+of a sentence), <div n="xe">{%f. you know the internal (senti-%}
+{%ments) of animals:%}</div> <div n="xs">{#अन्तर्गतं प्राणभृतां हि वेद,#}</div> R. ii.
+43.; {%f. it is not easy to break the meditations of%}
+{%great (men%}): {#न हि महतां सुकरः समाधिभङ्गः,#} Ki. x.
+23. N.B. Note the cons. of {#न हि#} (= f......
+not; </div><div n="1">(2) {#यतः#} <div n="xe">{%or%}</div> <div n="xs">{#यस्मात्,#}</div> <div n="xe">{%f. association of good%}
+{%men......%}</div> <div n="xs">{#यतः सतां सङ्गतं॥॥,#}</div> Ku. v. 39.: v.
+Because. Ph.: <div n="xe">{%f. why:%}</div> <div n="xs">{#कस्मात्, किंनिमित्तम्,#}</div>
+etc.</div>
 <LEND>

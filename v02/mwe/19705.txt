@@ -1,11 +1,11 @@
 <L>19705<pc>511-b<k1>moment<k2>moment
-<div n="lb"/>MOMENT¦, {%s.%} (Minute portion of time) {#क्षणः, विपलं, पलं, त्रुटिः#} {%f.,%}
-<div n="lb"/>{#निमेषः, निमिषः, मात्रा;#} ‘the present moment,’ {#आपातः;#} ‘for
-<div n="lb"/>the present moment,’ {#आपाततस्;#} ‘in a moment,’ {#क्षणात्#}
-<div n="lb"/>{#क्षणेन, निमेषमात्रेण, क्षणमात्रेण, क्षणान्तरे, एकपदे, एकविपले;#} ‘for
-<div n="lb"/>a moment,’ {#क्षणं -णेन, क्षणमात्रं, निमेषमात्रं, मुहूर्त्तं;#} ‘at that
-<div n="lb"/>moment,’ {#तत्क्षणात् -णे, तत्काले, तदानीमेव;#} ‘every moment,’
-<div n="lb"/>{#प्रतिक्षणं, अनुक्षणं, क्षणे क्षणे;#} ‘the next moment,’ {#क्षणान्तरं;#}
-<div n="lb"/>‘auspicious moment,’ {#लग्नं#}. {%See%} INSTANT. (Importance)
-<div n="lb"/>{#गुरुता -त्वं, गौरवं, प्रभावः, भारः#}.
+MOMENT¦, {%s.%} (Minute portion of time) {#क्षणः, विपलं, पलं, त्रुटिः#} {%f.,%}
+{#निमेषः, निमिषः, मात्रा;#} ‘the present moment,’ {#आपातः;#} ‘for
+the present moment,’ {#आपाततस्;#} ‘in a moment,’ {#क्षणात्#}
+{#क्षणेन, निमेषमात्रेण, क्षणमात्रेण, क्षणान्तरे, एकपदे, एकविपले;#} ‘for
+a moment,’ {#क्षणं -णेन, क्षणमात्रं, निमेषमात्रं, मुहूर्त्तं;#} ‘at that
+moment,’ {#तत्क्षणात् -णे, तत्काले, तदानीमेव;#} ‘every moment,’
+{#प्रतिक्षणं, अनुक्षणं, क्षणे क्षणे;#} ‘the next moment,’ {#क्षणान्तरं;#}
+‘auspicious moment,’ {#लग्नं#}. {%See%} INSTANT. (Importance)
+{#गुरुता -त्वं, गौरवं, प्रभावः, भारः#}.
 <LEND>

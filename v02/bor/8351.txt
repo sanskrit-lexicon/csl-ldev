@@ -1,5 +1,5 @@
 <L>8351<pc>264<k1>fairness<k2>fairness
-<div n="lb"/>{@FAIRNESS:@}¦ <div n="I">I Clearness: q.v.: {#वैमल्यम्#} (?).</div>
-<div n="lb"/><div n="I">II Beauty: q.v.: {#सौन्दर्यम्।#} </div><div n="I">III Honesty:
-<div n="lb"/>q.v.: {#आर्जवम्।#} </div><div n="I">IV Distinctness: {#स्पष्टता।#}</div>
+{@FAIRNESS:@}¦ <div n="I">I Clearness: q.v.: {#वैमल्यम्#} (?).</div>
+<div n="I">II Beauty: q.v.: {#सौन्दर्यम्।#} </div><div n="I">III Honesty:
+q.v.: {#आर्जवम्।#} </div><div n="I">IV Distinctness: {#स्पष्टता।#}</div>
 <LEND>

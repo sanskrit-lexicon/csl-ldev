@@ -1,12 +1,12 @@
 <L>19159<pc>593<k1>rest<k2>rest
-<div n="lb"/>{@REST@}¦ (subs.): <div n="I">I Repose: </div><div n="1">(1) {#विश्रामः,#} <div n="xe">{%and let%}
-<div n="lb"/>{%this bow get r.:%}</div> <div n="xs">{#विश्रामं लभतामिदं च धनुः,#}</div> Sa. ii.
-<div n="lb"/>6.; </div><div n="1">(2) {#विश्रान्तिः#} (rare), <div n="xe">{%your majesty also gets%}
-<div n="lb"/>{%r. in the sixth portion of the day:%}</div> <div n="xs">{#षष्ठे काले #}
-<div n="lb"/>{# त्वमपि लभसे देव विश्रान्तिमह्नः,#}</div> Vi. ii. 1.; </div><div n="1">(3) {#विश्रमः#}
-<div n="lb"/>(rare). {#“पश्चात्पुत्रैरुपहितभरः कल्पते विश्रमाय”,#} </div><div n="I">V
-<div n="lb"/>iii. 1. </div><div n="I">II In music: {#यतिः।#} </div><div n="I">III Support,
-<div n="lb"/>prop.: {#अवलम्बः, -नम्।#} </div><div n="I">IV Remainder: </div><div n="1">(1)
-<div n="lb"/>{#अवशिष्ट#} (f. {#ष्टा#}): v. Remaining, remainder;</div>
-<div n="lb"/><div n="1">(2) {#अन्ये#} (= others: in contrasting two).</div>
+{@REST@}¦ (subs.): <div n="I">I Repose: </div><div n="1">(1) {#विश्रामः,#} <div n="xe">{%and let%}
+{%this bow get r.:%}</div> <div n="xs">{#विश्रामं लभतामिदं च धनुः,#}</div> Sa. ii.
+6.; </div><div n="1">(2) {#विश्रान्तिः#} (rare), <div n="xe">{%your majesty also gets%}
+{%r. in the sixth portion of the day:%}</div> <div n="xs">{#षष्ठे काले #}
+{# त्वमपि लभसे देव विश्रान्तिमह्नः,#}</div> Vi. ii. 1.; </div><div n="1">(3) {#विश्रमः#}
+(rare). {#“पश्चात्पुत्रैरुपहितभरः कल्पते विश्रमाय”,#} </div><div n="I">V
+iii. 1. </div><div n="I">II In music: {#यतिः।#} </div><div n="I">III Support,
+prop.: {#अवलम्बः, -नम्।#} </div><div n="I">IV Remainder: </div><div n="1">(1)
+{#अवशिष्ट#} (f. {#ष्टा#}): v. Remaining, remainder;</div>
+<div n="1">(2) {#अन्ये#} (= others: in contrasting two).</div>
 <LEND>

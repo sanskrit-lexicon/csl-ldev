@@ -1,4 +1,4 @@
 <L>15145<pc>463<k1>musician<k2>musician
-<div n="lb"/>{@MUSICIAN:@}¦ <div n="1">(1) {#गान्धर्वज्ञ#} (f. {#ज्ञा#}); </div><div n="1">(2) {#गीतकोविदः#}
-<div n="lb"/>({#दा, दं#}) (vocal), Mah.</div>
+{@MUSICIAN:@}¦ <div n="1">(1) {#गान्धर्वज्ञ#} (f. {#ज्ञा#}); </div><div n="1">(2) {#गीतकोविदः#}
+({#दा, दं#}) (vocal), Mah.</div>
 <LEND>

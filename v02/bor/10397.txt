@@ -1,11 +1,11 @@
 <L>10397<pc>328<k1>guard<k2>guard
-<div n="lb"/>{@GUARD@}¦ (subs.): <div n="I">I G. ing: {#रक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#रक्षणम्:#}</div> v.
-<div n="lb"/>Protection. Ph.: <div n="xe">{%off the g.:%}</div> <div n="xs">{#प्रभत्तः#}</div> ({#त्ता, त्तं#}):
-<div n="lb"/>v. Careless; <div n="xe">{%be on your g.:%}</div> <div n="xs">{#सावधानो भव,#}</div> U. v.:
-<div n="lb"/>v. Careful; <div n="xe">{%to mount g.:%}</div> <div n="xs">{#रक्षम् अधितिष्ठति#}</div> ({#स्था,#}
-<div n="lb"/>c. 1.) (?) </div><div n="I">II One who g. s.: </div><div n="1">(1) {#रक्षिन्#}
-<div n="lb"/>(m.); </div><div n="1">(2) {#रक्षकः;#} </div><div n="1">(3) {#रक्षाधिकृतः।#} N. B. Use
-<div n="lb"/>pl. when it conveys many, <div n="xe">{%life-g.:%}</div> <div n="xs">{#अङ्गरक्षकाः,#}</div>
-<div n="lb"/>Bha. <div n="xe">{%G. -master:%}</div> <div n="xs">{#गुल्मस्थानाधिपः,#}</div> Mu. v. </div><div n="I">III
-<div n="lb"/>In a vessel, a fence: {#आवरणम्#} (?)</div>
+{@GUARD@}¦ (subs.): <div n="I">I G. ing: {#रक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#रक्षणम्:#}</div> v.
+Protection. Ph.: <div n="xe">{%off the g.:%}</div> <div n="xs">{#प्रभत्तः#}</div> ({#त्ता, त्तं#}):
+v. Careless; <div n="xe">{%be on your g.:%}</div> <div n="xs">{#सावधानो भव,#}</div> U. v.:
+v. Careful; <div n="xe">{%to mount g.:%}</div> <div n="xs">{#रक्षम् अधितिष्ठति#}</div> ({#स्था,#}
+c. 1.) (?) </div><div n="I">II One who g. s.: </div><div n="1">(1) {#रक्षिन्#}
+(m.); </div><div n="1">(2) {#रक्षकः;#} </div><div n="1">(3) {#रक्षाधिकृतः।#} N. B. Use
+pl. when it conveys many, <div n="xe">{%life-g.:%}</div> <div n="xs">{#अङ्गरक्षकाः,#}</div>
+Bha. <div n="xe">{%G. -master:%}</div> <div n="xs">{#गुल्मस्थानाधिपः,#}</div> Mu. v. </div><div n="I">III
+In a vessel, a fence: {#आवरणम्#} (?)</div>
 <LEND>

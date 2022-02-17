@@ -1,3 +1,3 @@
 <L>19187<pc>594<k1>retail<k2>retail
-<div n="lb"/>{@RETAIL:@}¦ {#अल्पशः#} <div n="xe">{%or%}</div> <div n="xs">{#पादशः विक्रीणीते#}</div> ({#क्री,#} c. 9.).
+{@RETAIL:@}¦ {#अल्पशः#} <div n="xe">{%or%}</div> <div n="xs">{#पादशः विक्रीणीते#}</div> ({#क्री,#} c. 9.).
 <LEND>

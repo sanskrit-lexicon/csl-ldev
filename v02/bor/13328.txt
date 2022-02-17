@@ -1,6 +1,6 @@
 <L>13328<pc>411<k1>leader<k2>leader
-<div n="lb"/>{@LEADER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#नेतृ#} (m.), {%l. of armies:%}
-<div n="lb"/>{#नेता चमूनाम्,#} <ls>R.</ls> : v. Commander; </div><div n="1">(2) {#नायकः,#}
-<div n="lb"/><div n="xe">{%l. of sailors:%}</div> <div n="xs">{#नाविकनायकः,#}</div> <ls>D.</ls> : v. Chief. </div><div n="I">II A
-<div n="lb"/>leading article: {#*मुख्यप्रबन्धः।#}</div>
+{@LEADER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#नेतृ#} (m.), {%l. of armies:%}
+{#नेता चमूनाम्,#} <ls>R.</ls> : v. Commander; </div><div n="1">(2) {#नायकः,#}
+<div n="xe">{%l. of sailors:%}</div> <div n="xs">{#नाविकनायकः,#}</div> <ls>D.</ls> : v. Chief. </div><div n="I">II A
+leading article: {#*मुख्यप्रबन्धः।#}</div>
 <LEND>

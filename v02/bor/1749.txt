@@ -1,7 +1,7 @@
 <L>1749<pc>060<k1>bear<k2>bear
-<div n="lb"/>{@BEAR@}¦ (subs.): <div n="I">I An animal: </div><div n="1">(1) {#भल्लः;#} </div><div n="1">(2)
-<div n="lb"/>{#भल्लु#} ({#ल्लू#}) {#कः;#} </div><div n="1">(3) {#ऋक्षः;#} </div><div n="1">(4) {#अच्छभल्लः;#} </div><div n="1">(5)
-<div n="lb"/>{#भाल्लूकः।#} </div><div n="I">II A constellation: Ph.: <div n="xe">{%the little%}
-<div n="lb"/>{%b.%}</div> <div n="xs">{#शिशुमारः#}</div> (?) V. p. {%The seven stars of the%}
-<div n="lb"/>{%Great Bear:%} </div><div n="1">(1) {#सप्तर्षिमण्डलम्; चित्रशिखण्डिनः।#}</div>
+{@BEAR@}¦ (subs.): <div n="I">I An animal: </div><div n="1">(1) {#भल्लः;#} </div><div n="1">(2)
+{#भल्लु#} ({#ल्लू#}) {#कः;#} </div><div n="1">(3) {#ऋक्षः;#} </div><div n="1">(4) {#अच्छभल्लः;#} </div><div n="1">(5)
+{#भाल्लूकः।#} </div><div n="I">II A constellation: Ph.: <div n="xe">{%the little%}
+{%b.%}</div> <div n="xs">{#शिशुमारः#}</div> (?) V. p. {%The seven stars of the%}
+{%Great Bear:%} </div><div n="1">(1) {#सप्तर्षिमण्डलम्; चित्रशिखण्डिनः।#}</div>
 <LEND>

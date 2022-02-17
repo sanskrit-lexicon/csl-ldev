@@ -1,8 +1,8 @@
 <L>17314<pc>530<k1>poison<k2>poison
-<div n="lb"/>{@POISON@}¦ (subs.): <div n="1">(1) {#विषम्,#} <div n="xe">{%minor p.:%}</div> <div n="xs">{#उपविषम्,#}</div>
-<div n="lb"/>Bha., <div n="xe">{%p. is medicine for p.:%}</div> <div n="xs">{#विषस्य विषमौषधम्,#}</div> J.;
-<div n="lb"/><div n="xe">{%checked the p. in a moment:%}</div> <div n="xs">{#विषं क्षणादस्तम्मयम्,#}</div>
-<div n="lb"/>D. iv.; <div n="xe">{%gave p. to Bhima:%}</div> <div n="xs">{#भीमाय विषं ददौ,#}</div>
-<div n="lb"/>Mah.; <div n="xe">{%digested that p.:%}</div> <div n="xs">{#जरयामास तद्विषम्,#}</div> V. p.;</div>
-<div n="lb"/><div n="1">(2) {#गरम्, -लम्#} (rare), <div n="xe">{%it is p.:%}</div> <div n="xs">{#गरमेतत्,#}</div> Mah.</div>
+{@POISON@}¦ (subs.): <div n="1">(1) {#विषम्,#} <div n="xe">{%minor p.:%}</div> <div n="xs">{#उपविषम्,#}</div>
+Bha., <div n="xe">{%p. is medicine for p.:%}</div> <div n="xs">{#विषस्य विषमौषधम्,#}</div> J.;
+<div n="xe">{%checked the p. in a moment:%}</div> <div n="xs">{#विषं क्षणादस्तम्मयम्,#}</div>
+D. iv.; <div n="xe">{%gave p. to Bhima:%}</div> <div n="xs">{#भीमाय विषं ददौ,#}</div>
+Mah.; <div n="xe">{%digested that p.:%}</div> <div n="xs">{#जरयामास तद्विषम्,#}</div> V. p.;</div>
+<div n="1">(2) {#गरम्, -लम्#} (rare), <div n="xe">{%it is p.:%}</div> <div n="xs">{#गरमेतत्,#}</div> Mah.</div>
 <LEND>

@@ -5,8 +5,8 @@
 <ls>ŚKDR.</ls> und <ls>WILS.</ls> {%Schild%}) 
 <ls>TRIK. 3, 3, 98.</ls> {#शिला°#} {%ein flacher zum Sitzen sich eignender Stein%} 
 <ls>MBH. 2, 90.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 105, 6.</ls> 
+
+<ls>R. GORR. 2, 105, 6.</ls> 
 <ls>RAGH. 18, 16.</ls> 
 <ls>ŚAK. 33, 2.</ls> {#मणिसिलापट्ट#} im <is>Prākrit</is> 82, 1. Im Index zu 
 <ls>TRIK. 2, 3, 5</ls> bezeichnet {#शिलापट्ट#} {%einen zum Zermahlen dienenden flachen Stein%}, eine Bed., welche auch dem einfachen {#पट्ट#} 
@@ -27,9 +27,9 @@
 <ls>HARIV. 9988.</ls>
 [Page4-0384]
 {#पट्टस्थ#} {%gemalt%} 
-<ls>9985.</ls> {#चित्रपट्ट#} {%Gemälde, Bild%} 
-<ls>10069.</ls> {#चित्रपट्टगत#} {%gemalt%} 
-<ls>9987.</ls> Vgl. {#गौरी°, चीन°, द्वार°#} . 
+<ls n="HARIV.">9985.</ls> {#चित्रपट्ट#} {%Gemälde, Bild%} 
+<ls n="HARIV.">10069.</ls> {#चित्रपट्टगत#} {%gemalt%} 
+<ls n="HARIV.">9987.</ls> Vgl. {#गौरी°, चीन°, द्वार°#} . 
 <div n="1">— 2) <lex>m.</lex> {%Binde, Band, Zeugstreifen, Streifen, Stirnbinde, Turban%}; = {#व्रणादिबन्धन#} 
 <ls>H. an.</ls> <ls>MED.</ls> = {#उष्णीषादि#} 
 <ls>SVĀMIN</ls>, = {#उत्तरीयादि#} (vulg. {#एकपाट्टा#} d. i. eine {%Breite vom Zeug%}) 
@@ -43,16 +43,16 @@
 <ls>MBH. 3, 10066.</ls> {#कम्बलादीनि वस्त्राणि क्षौमपट्टाम्बराणि च#} 
 <ls>R. 1, 74, 3.</ls> {#बबन्धुः शणपट्टैः#} 
 <ls>5, 44, 12.</ls> {#पट्टैः कार्पासिकैः#} 
-<ls>?56, 138 (vgl. 49. 5</ls>, wo {#पटैः#} gelesen wird). {#आमुक्तव्रण°#} 
+<ls>56, 138</ls> (vgl. <ls>49. 5</ls>, wo {#पटैः#} gelesen wird). {#आमुक्तव्रण°#} 
 <ls>RĀJA-TAR. 4, 454.</ls> {#तूणीरपट्टपरिणद्धभुजान्तराल#} 
 <ls>MĀLAV. 85.</ls> {#°वासस्#} 
 <ls>MBH. 12, 11275.</ls> durch {#पट्टवस्त्र#} wird {#चीनांशुक#} erklärt 
 <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 7. 3.</ls> {#धरणिधरस्तनगलितशुक्लपट्टचीन#} 
 <ls>BHAṬṬ. 10, 60.</ls> {#चर्म°#} {%Riemen%} 
-<ls>MBH. 13. 3456.</ls> {#वक्त्र°#} beim Pferde 
+<ls>MBH. 13, 3456.</ls> {#वक्त्र°#} beim Pferde 
 <ls>H. 1251.</ls> {#निर्मोकपट्टाः फणिभिर्वमुक्ताः#} {%Hautstreifen%} 
 <ls>RAGH. 16, 17.</ls> {#(गदा) पट्टबद्धा#} 
-<ls>MBH. 7, 4664. 6, 3875.</ls> {#रुक्मपट्टपिनद्धान्ता#} 
+<ls>MBH. 7, 4664.</ls> <ls n="MBH.">6, 3875.</ls> {#रुक्मपट्टपिनद्धान्ता#} 
 <ls>MBH. 3, 11731.</ls> {#जाम्बूनदमयैः पट्टैर्बद्धाश्च विपुला गदाः#} 
 <ls>8, 2870. 4911.</ls> <ls>HARIV. 12984.</ls> {#(शक्ति) काञ्चनपट्टनद्धा#} 
 <ls>MBH. 5, 7210.</ls> {#(परिघम्) पिनद्धं काञ्चनैः पट्टैः#} 
@@ -60,8 +60,8 @@
 <ls>R. 3, 32, 12.</ls> {#हेमपट्टविभूषित (विमान)#} 
 <ls>6, 106, 23.</ls> <ls>BHĀG. P. 8, 15, 5.</ls> {#निर्वृत्तजाम्बूनदपट्टशोभे#} (ed. Calc. 44 {#बन्धे#} st. {#शोभे) - ललाटे#} 
 <ls>RAGH. 18, 43.</ls> {#बद्ध्वा ललाटे हिमचन्द्रशुभ्रं दुकूलपट्टम्#} 
-<ls>HARIV. 7041. 7075.</ls> {#ब्राह्मणस्य तथा दद्यात्पट्टं रूप्यमयं शुभम् । ललाटं रूपसंपन्नं तेनाप्नोत्यङ्गना सती ॥#} 
-<ls>7867. 10743.</ls> {#रत्नपट्टसुसंचित (सैन्य)#} 
+<ls>HARIV. 7041.</ls> <ls n="HARIV.">7075.</ls> {#ब्राह्मणस्य तथा दद्यात्पट्टं रूप्यमयं शुभम् । ललाटं रूपसंपन्नं तेनाप्नोत्यङ्गना सती ॥#} 
+<ls n="HARIV.">7867.</ls> <ls n="HARIV.">10743.</ls> {#रत्नपट्टसुसंचित (सैन्य)#} 
 <ls>MBH. 6, 3327.</ls> 
 <ls>KATHĀS. 12, 193.</ls> 
 <ls>RĀJA-TAR. 4, 587. 5, 332.</ls> 
@@ -70,7 +70,7 @@
 <ls>Schol.</ls>) = {#नृपमुकुट#} 
 <ls>VARĀH. BṚH. S. 48, 1. fgg.</ls> Es giebt fünf verschiedene {%Stirnbinden%} oder {%Turbane%}: für Könige, Königinnen, Prinzen, Heerführer und {#प्रसादपट्ट#} {%Ehrenbinden%}; darüber handelt der 48ste <is>Adhy</is>. in 
 <ls>VARĀH. BṚH. S.</ls>, der {#पट्टलक्षण#} betitelt ist oder {#पट्टप्रमाण#} 
-<ls>?107 (ANUKRAM.), 6.</ls> {#पट्टबन्ध#} <lex>m.</lex> {%das Umbinden der Stirnbinden%}: {#अथ संमानयामास पट्टबन्धादिना स्वयम् । निजोत्सवे वत्सराजो गोपालकपुलिन्दकौ ॥#} 
+<ls>107 (ANUKRAM.), 6.</ls> {#पट्टबन्ध#} <lex>m.</lex> {%das Umbinden der Stirnbinden%}: {#अथ संमानयामास पट्टबन्धादिना स्वयम् । निजोत्सवे वत्सराजो गोपालकपुलिन्दकौ ॥#} 
 <ls>KATHĀS. 14, 33. 12, 190. 29, 193.</ls> 
 <ls>RĀJA-TAR. 4, 718.</ls> Nicht recht klar ist die Bed. des Wortes 
 <ls>BHĀG. P. 9, 11, 21</ls> und <ls>ŚATR. 10, 935.</ls> 

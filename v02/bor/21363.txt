@@ -1,7 +1,7 @@
 <L>21363<pc>673<k1>standing<k2>standing
-<div n="lb"/>{@STANDING@}¦ (subs.): <div n="I">I Not sitting or walking:
-<div n="lb"/>{#स्थितिः,#} R. i. 89. </div><div n="I">II Continuance: {#स्थितिः।#}
-<div n="lb"/>Ph.: <div n="xe">{%of long s.:%}</div> <div n="xs">{#बहोः कालात्#}</div> (= for a long
-<div n="lb"/>time) and sim. expr. s. </div><div n="I">III Position, rank:
-<div n="lb"/>q. v.: {#स्थानम्।#}</div>
+{@STANDING@}¦ (subs.): <div n="I">I Not sitting or walking:
+{#स्थितिः,#} R. i. 89. </div><div n="I">II Continuance: {#स्थितिः।#}
+Ph.: <div n="xe">{%of long s.:%}</div> <div n="xs">{#बहोः कालात्#}</div> (= for a long
+time) and sim. expr. s. </div><div n="I">III Position, rank:
+q. v.: {#स्थानम्।#}</div>
 <LEND>

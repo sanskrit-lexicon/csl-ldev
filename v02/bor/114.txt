@@ -1,6 +1,6 @@
 <L>114<pc>005<k1>academy<k2>academy
-<div n="lb"/>{@ACADEMY@}¦ <div n="I">I A school: q. v. {#विद्यालयः।#}</div>
-<div n="lb"/><div n="I">II A society of learned men: </div><div n="1">(1) {#विद्वत्सभा#}
-<div n="lb"/>(?); </div><div n="1">(2) {#पण्डितसभा#} (?). <div n="xe">{%The royal a.%}</div> <div n="xs">{#*लण्डन-#}
-<div n="lb"/>{#नगरस्य चित्रकरसभाः।#}</div></div>
+{@ACADEMY@}¦ <div n="I">I A school: q. v. {#विद्यालयः।#}</div>
+<div n="I">II A society of learned men: </div><div n="1">(1) {#विद्वत्सभा#}
+(?); </div><div n="1">(2) {#पण्डितसभा#} (?). <div n="xe">{%The royal a.%}</div> <div n="xs">{#*लण्डन-#}
+{#नगरस्य चित्रकरसभाः।#}</div></div>
 <LEND>

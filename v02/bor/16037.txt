@@ -1,16 +1,16 @@
 <L>16037<pc>493<k1>other<k2>other
-<div n="lb"/>{@OTHER:@}¦ <div n="1">(1) {#अन्यः#} ({#न्या, -न्यत्#}), <div n="xe">{%these and many%}
-<div n="lb"/>{%others:%}</div> <div n="xs">{#एते चान्ये च बहवः,#}</div> D. b.; {%by any o.%}
-<div n="lb"/>({%individual%}): {#त्वदन्येन,#} R. iii. 63.; {%at o. times:%}
-<div n="lb"/>{#अन्यदा,#} R. xi. 78.; <div n="xe">{%in o. places:%}</div> <div n="xs">{#अन्यत्र,#}</div> R.
-<div n="lb"/>xiii. 56.; <div n="xe">{%no. o.:%}</div> <div n="xs">{#नान्यदितः किञ्चित्,#}</div> D. vii.;</div>
-<div n="lb"/><div n="1">(2) {#अपरः#} ({#रा, रं#}), {%the o. went to Vidarbha:%}
-<div n="lb"/>{#ययावपरो विदर्भान्,#} R. v. 60.; {%but o. s blamed:%}
-<div n="lb"/>{#अपरे तु निनिन्दुः,#} D. iv.; <div n="xe">{%the o. end:%}</div> <div n="xs">{#अपरान्तः,#}</div>
-<div n="lb"/>R. iv. 58.; </div><div n="1">(3) {#इतरः#} ({#रा, रत्#}) (= all o.: rare),
-<div n="lb"/><div n="xe">{%of the o. s:%}</div> <div n="xs">{#इतरेषाम्,#}</div> S.; {%not fit for any o.%} ({%man%}):
-<div n="lb"/>{#इतरस्मै न योग्या,#} D. v. Ph.: (a) <div n="xe">{%o.'s:%}</div> <div n="xs">{#पर-#}</div> in
-<div n="lb"/>comp.: v. Another.; (b) {%belonging to o. s.:%}</div>
-<div n="lb"/><div n="1">(1) {#अन्यदीयः#} ({#या, यं#}); </div><div n="1">(2) {#परकीयः#} ({#या, यं#});
-<div n="lb"/>(c) <div n="xe">{%the o. day:%}</div> <div n="xs">{#तस्मिन् दिवसे#}</div> (comp. Beng.).</div>
+{@OTHER:@}¦ <div n="1">(1) {#अन्यः#} ({#न्या, -न्यत्#}), <div n="xe">{%these and many%}
+{%others:%}</div> <div n="xs">{#एते चान्ये च बहवः,#}</div> D. b.; {%by any o.%}
+({%individual%}): {#त्वदन्येन,#} R. iii. 63.; {%at o. times:%}
+{#अन्यदा,#} R. xi. 78.; <div n="xe">{%in o. places:%}</div> <div n="xs">{#अन्यत्र,#}</div> R.
+xiii. 56.; <div n="xe">{%no. o.:%}</div> <div n="xs">{#नान्यदितः किञ्चित्,#}</div> D. vii.;</div>
+<div n="1">(2) {#अपरः#} ({#रा, रं#}), {%the o. went to Vidarbha:%}
+{#ययावपरो विदर्भान्,#} R. v. 60.; {%but o. s blamed:%}
+{#अपरे तु निनिन्दुः,#} D. iv.; <div n="xe">{%the o. end:%}</div> <div n="xs">{#अपरान्तः,#}</div>
+R. iv. 58.; </div><div n="1">(3) {#इतरः#} ({#रा, रत्#}) (= all o.: rare),
+<div n="xe">{%of the o. s:%}</div> <div n="xs">{#इतरेषाम्,#}</div> S.; {%not fit for any o.%} ({%man%}):
+{#इतरस्मै न योग्या,#} D. v. Ph.: (a) <div n="xe">{%o.'s:%}</div> <div n="xs">{#पर-#}</div> in
+comp.: v. Another.; (b) {%belonging to o. s.:%}</div>
+<div n="1">(1) {#अन्यदीयः#} ({#या, यं#}); </div><div n="1">(2) {#परकीयः#} ({#या, यं#});
+(c) <div n="xe">{%the o. day:%}</div> <div n="xs">{#तस्मिन् दिवसे#}</div> (comp. Beng.).</div>
 <LEND>

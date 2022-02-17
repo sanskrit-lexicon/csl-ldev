@@ -1,7 +1,7 @@
 <L>19571<pc>507-b<k1>mission<k2>mission
-<div n="lb"/>MISSION¦, {%s.%} (Sending, commission) {#प्रेरणं, प्रेषणं, नियोजनं, प्रयोजनं,#}
-<div n="lb"/>‘sending on a message,’ {#प्रतिशासनं#}. — (Body of persons sent)
-<div n="lb"/>{#प्रेरितसमूहः, प्रेरितजनसमूहः, प्रेरितगणः, नियुक्तजनसमूहः;#} ‘for re-
-<div n="lb"/>ligious purposes,’ {#धर्म्मप्रचारणार्थं प्रेरितजनाः#} {%m. pl.%} — (State of
-<div n="lb"/>being sent) {#प्रेरितत्वं, प्रेषितत्वं, दूतत्वं, दौत्यं#}.
+MISSION¦, {%s.%} (Sending, commission) {#प्रेरणं, प्रेषणं, नियोजनं, प्रयोजनं,#}
+‘sending on a message,’ {#प्रतिशासनं#}. — (Body of persons sent)
+{#प्रेरितसमूहः, प्रेरितजनसमूहः, प्रेरितगणः, नियुक्तजनसमूहः;#} ‘for re-
+ligious purposes,’ {#धर्म्मप्रचारणार्थं प्रेरितजनाः#} {%m. pl.%} — (State of
+being sent) {#प्रेरितत्वं, प्रेषितत्वं, दूतत्वं, दौत्यं#}.
 <LEND>

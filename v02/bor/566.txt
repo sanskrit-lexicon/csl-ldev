@@ -1,8 +1,8 @@
 <L>566<pc>021<k1>all<k2>all
-<div n="lb"/>{@ALL@}¦ (subs): {#सर्व;#} <div n="xe">{%I want to hear a. about it%}</div> <div n="xs">{#सर्व #}
-<div n="lb"/>{# श्रोतुमिच्छामि।#}</div> Ph.: <div n="xe">{%a. I can%}</div> <div n="xs">{#यथाशक्ति;#}</div> <div n="xe">{%a. of a%}
-<div n="lb"/>{%sudden%}</div> <div n="xs">{#सपदि;#}</div> <div n="xe">{%in a.%}</div> <div n="xs">{#साकल्येन;#}</div> <div n="xe">{%does not breathe%}
-<div n="lb"/>{%at. a.%}</div> <div n="xs">{#न मनागप्युच्छ्वसिति;#}</div> K.; <div n="xe">{%you are not kind%}
-<div n="lb"/>{%at a.%}</div> <div n="xs">{#त्वयि दयालेशोऽपि न विद्यते;#}</div> <div n="xe">{%a. you have to%}
-<div n="lb"/>{%say is this%}</div> <div n="xs">{#*इदमेव#}</div> <div n="xe">{%or%}</div> <div n="xs">{#केवलमिदमेव त्वया वाच्यम्॥।#}</div>
+{@ALL@}¦ (subs): {#सर्व;#} <div n="xe">{%I want to hear a. about it%}</div> <div n="xs">{#सर्व #}
+{# श्रोतुमिच्छामि।#}</div> Ph.: <div n="xe">{%a. I can%}</div> <div n="xs">{#यथाशक्ति;#}</div> <div n="xe">{%a. of a%}
+{%sudden%}</div> <div n="xs">{#सपदि;#}</div> <div n="xe">{%in a.%}</div> <div n="xs">{#साकल्येन;#}</div> <div n="xe">{%does not breathe%}
+{%at. a.%}</div> <div n="xs">{#न मनागप्युच्छ्वसिति;#}</div> K.; <div n="xe">{%you are not kind%}
+{%at a.%}</div> <div n="xs">{#त्वयि दयालेशोऽपि न विद्यते;#}</div> <div n="xe">{%a. you have to%}
+{%say is this%}</div> <div n="xs">{#*इदमेव#}</div> <div n="xe">{%or%}</div> <div n="xs">{#केवलमिदमेव त्वया वाच्यम्॥।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>23792<pc>745<k1>verse<k2>verse
-<div n="lb"/>{@VERSE:@}¦ <div n="I">I Poetry: q. v.: {#कबिता।#} </div><div n="I">II Stanza:
-<div n="lb"/>{#श्लोकः।#} Ph.: {%a poem of seven hundred v. s:%}
-<div n="lb"/>{#सप्तशती।#} </div><div n="I">III Metrical line: </div><div n="1">(1) {#चरणम्;#} </div><div n="1">(2)
-<div n="lb"/>{#पादः;#} </div><div n="1">(3) {#पदम्।#}</div>
+{@VERSE:@}¦ <div n="I">I Poetry: q. v.: {#कबिता।#} </div><div n="I">II Stanza:
+{#श्लोकः।#} Ph.: {%a poem of seven hundred v. s:%}
+{#सप्तशती।#} </div><div n="I">III Metrical line: </div><div n="1">(1) {#चरणम्;#} </div><div n="1">(2)
+{#पादः;#} </div><div n="1">(3) {#पदम्।#}</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>8576<pc>200-b<k1>disturbance<k2>disturbance
-<div n="lb"/>DISTURBANCE¦, {%s.%} (Agitation, disorder) {#क्षोभः, संक्षोभः, विक्षोभः,#}
-<div n="lb"/>{#व्याक्षोभः, व्यस्तता, विमर्द्दः#}. — (Emotion of mind, perturbation)
-<div n="lb"/>{#आकुलत्वं, व्याकुलत्वं, प्रकोपः, वैक्लव्यं, व्यग्रता, मोहः, आवेगः#}. — (Tumult)
-<div n="lb"/>{#विप्लवः, आहवः, डिम्बः, तुमुलं;#} ‘popular disturbance,’ {#प्रकृतिक्षोभः#}.
-<div n="lb"/> — (Interruption) {#भङ्गः, विच्छेदः, खण्डनं, बाधः#}.
+DISTURBANCE¦, {%s.%} (Agitation, disorder) {#क्षोभः, संक्षोभः, विक्षोभः,#}
+{#व्याक्षोभः, व्यस्तता, विमर्द्दः#}. — (Emotion of mind, perturbation)
+{#आकुलत्वं, व्याकुलत्वं, प्रकोपः, वैक्लव्यं, व्यग्रता, मोहः, आवेगः#}. — (Tumult)
+{#विप्लवः, आहवः, डिम्बः, तुमुलं;#} ‘popular disturbance,’ {#प्रकृतिक्षोभः#}.
+ — (Interruption) {#भङ्गः, विच्छेदः, खण्डनं, बाधः#}.
 <LEND>

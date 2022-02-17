@@ -1,4 +1,4 @@
 <L>9828<pc>310<k1>get among<k2>get among
-<div n="lb"/>{@GET AMONG:@}¦ {#मध्ये भवति,#} <div n="xe">{%g. ing among them un-%}
-<div n="lb"/>{%perceived:%}</div> <div n="xs">{#तत्रैव जनानुलीनः,#}</div> D. iv.
+{@GET AMONG:@}¦ {#मध्ये भवति,#} <div n="xe">{%g. ing among them un-%}
+{%perceived:%}</div> <div n="xs">{#तत्रैव जनानुलीनः,#}</div> D. iv.
 <LEND>

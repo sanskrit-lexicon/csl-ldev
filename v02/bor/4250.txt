@@ -1,6 +1,6 @@
 <L>4250<pc>138<k1>compound<k2>compound
-<div n="lb"/>{@COMPOUND@}¦ (subs.): <div n="I">I <div n="xe">{%A. c. substance:%}</div> <div n="xs">{#यौगिक-#}
-<div n="lb"/>{#पदार्थः।#}</div> </div><div n="I">II {%A c. word:%} </div><div n="1">(1) {#योगिकशब्दः;#} </div><div n="1">(2)
-<div n="lb"/>{#समासः,#} <div n="xe">{%determined the analysis of c. s:%}</div> <div n="xs">{#समासयो-#}
-<div n="lb"/>{#र्विग्रहं व्यवससुः,#}</div> Si.</div>
+{@COMPOUND@}¦ (subs.): <div n="I">I <div n="xe">{%A. c. substance:%}</div> <div n="xs">{#यौगिक-#}
+{#पदार्थः।#}</div> </div><div n="I">II {%A c. word:%} </div><div n="1">(1) {#योगिकशब्दः;#} </div><div n="1">(2)
+{#समासः,#} <div n="xe">{%determined the analysis of c. s:%}</div> <div n="xs">{#समासयो-#}
+{#र्विग्रहं व्यवससुः,#}</div> Si.</div>
 <LEND>

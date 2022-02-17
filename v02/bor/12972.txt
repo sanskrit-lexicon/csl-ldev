@@ -1,8 +1,8 @@
 <L>12972<pc>400<k1>keen<k2>keen
-<div n="lb"/>{@KEEN:@}¦ <div n="I">I Sharp: q.v.: {#तीक्ष्ण#} (f. {#क्ष्णा#}), <div n="xe">{%K.-%}
-<div n="lb"/>{%pointed:%}</div> <div n="xs">{#तिक्ष्णाग्र#}</div> (f. {#ग्रा#}), <div n="xe">{%with a k. edge:%}</div> <div n="xs">{#तीक्ष्णधारः#}</div>
-<div n="lb"/>({#रा, रं#}). </div><div n="I">II Severe: q.v.: {#तीज्व्र#} (f. {#व्रा#}),
-<div n="lb"/><div n="xe">{%also, thundering saying with k. impetus:%}</div> <div n="xs">{#अहह #}
-<div n="lb"/>{# तीव्रसंवेगो वाग्वज्रः,#}</div> U. i. </div><div n="I">III Eager: q.v. </div><div n="I">IV
-<div n="lb"/>In mind: {#सूक्ष्मबुद्धि#} (mfn.): v. Also sharp.</div>
+{@KEEN:@}¦ <div n="I">I Sharp: q.v.: {#तीक्ष्ण#} (f. {#क्ष्णा#}), <div n="xe">{%K.-%}
+{%pointed:%}</div> <div n="xs">{#तिक्ष्णाग्र#}</div> (f. {#ग्रा#}), <div n="xe">{%with a k. edge:%}</div> <div n="xs">{#तीक्ष्णधारः#}</div>
+({#रा, रं#}). </div><div n="I">II Severe: q.v.: {#तीज्व्र#} (f. {#व्रा#}),
+<div n="xe">{%also, thundering saying with k. impetus:%}</div> <div n="xs">{#अहह #}
+{# तीव्रसंवेगो वाग्वज्रः,#}</div> U. i. </div><div n="I">III Eager: q.v. </div><div n="I">IV
+In mind: {#सूक्ष्मबुद्धि#} (mfn.): v. Also sharp.</div>
 <LEND>

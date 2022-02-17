@@ -1,5 +1,5 @@
 <L>4165<pc>135<k1>commute<k2>commute
-<div n="lb"/>{@COMMUTE:@}¦ <div n="I">I To exchange: q. v. </div><div n="I">II Of
-<div n="lb"/>punishment: <div n="xe">{%his sentence of death was c. d to%}
-<div n="lb"/>{%banishment:%}</div> <div n="xs">{#*तस्य प्राणदण्डमुन्मूल्य निर्वासनभादिष्टम्।#}</div></div>
+{@COMMUTE:@}¦ <div n="I">I To exchange: q. v. </div><div n="I">II Of
+punishment: <div n="xe">{%his sentence of death was c. d to%}
+{%banishment:%}</div> <div n="xs">{#*तस्य प्राणदण्डमुन्मूल्य निर्वासनभादिष्टम्।#}</div></div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>32274<pc>858-b<k1>humour<k2>humour
-<div n="lb"/>HUMOUR¦, {%s.%} The three humours of the body are, 1. ‘phlegm,’
-<div n="lb"/>{#कफः;#} 2. ‘bile,’ {#पित्तं;#} 3. ‘air or wind,’ {#वायुः#} {%m.,%} {#वातः;#} ‘dis-
-<div n="lb"/>order of any h.,’ {#धातुनाशः;#} ‘vitiation of three h.,’ {#त्रिदोषं,#}
-<div n="lb"/>{#सन्निपातः;#} ‘excess of any of the three h.,’ {#प्रकोपः, उल्वणं;#}
-<div n="lb"/>‘disorder resulting from vitiation of the phlegm,’ {#कफ-#}
-<div n="lb"/>{#विकारः, कफरोगः;#} ‘of the bile,’ {#पित्तविकारः;#} ‘of the wind,’
-<div n="lb"/>{#वातविकारः, वायुविकारः#}.
+HUMOUR¦, {%s.%} The three humours of the body are, 1. ‘phlegm,’
+{#कफः;#} 2. ‘bile,’ {#पित्तं;#} 3. ‘air or wind,’ {#वायुः#} {%m.,%} {#वातः;#} ‘dis-
+order of any h.,’ {#धातुनाशः;#} ‘vitiation of three h.,’ {#त्रिदोषं,#}
+{#सन्निपातः;#} ‘excess of any of the three h.,’ {#प्रकोपः, उल्वणं;#}
+‘disorder resulting from vitiation of the phlegm,’ {#कफ-#}
+{#विकारः, कफरोगः;#} ‘of the bile,’ {#पित्तविकारः;#} ‘of the wind,’
+{#वातविकारः, वायुविकारः#}.
 <LEND>

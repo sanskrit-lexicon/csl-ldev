@@ -1,8 +1,8 @@
 <L>17723<pc>542<k1>pretext<k2>pretext
-<div n="lb"/>{@PRETEXT:@}¦ <div n="1">(1) {#अपदेशः, वि-,#} <div n="xe">{%so that under that p.%}
-<div n="lb"/>{%I will abduct and give her to you:%}</div> <div n="xs">{#तत्तेनैवापदेशेन #}
-<div n="lb"/>{# हृत्वा तुभ्यं ददामि ताम्,#}</div> K. s. x. 184.; <div n="xe">{%under what%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#केनापदेशेन,#}</div> Sa. ii.; </div><div n="1">(2) {#व्याजः,#} <div n="xe">{%under a p. of%}
-<div n="lb"/>{%returning the ring:%}</div> <div n="xs">{#अङ्गुलीयार्पणव्याजात्,#}</div> K. s. x.
-<div n="lb"/>102.</div>
+{@PRETEXT:@}¦ <div n="1">(1) {#अपदेशः, वि-,#} <div n="xe">{%so that under that p.%}
+{%I will abduct and give her to you:%}</div> <div n="xs">{#तत्तेनैवापदेशेन #}
+{# हृत्वा तुभ्यं ददामि ताम्,#}</div> K. s. x. 184.; <div n="xe">{%under what%}
+{%p.:%}</div> <div n="xs">{#केनापदेशेन,#}</div> Sa. ii.; </div><div n="1">(2) {#व्याजः,#} <div n="xe">{%under a p. of%}
+{%returning the ring:%}</div> <div n="xs">{#अङ्गुलीयार्पणव्याजात्,#}</div> K. s. x.
+102.</div>
 <LEND>

@@ -1,13 +1,13 @@
 <L>1779<pc>061<k1>beauty<k2>beauty
-<div n="lb"/>{@BEAUTY:@}¦ <div n="1">(1) {#सौन्दर्यम्;#} </div><div n="1">(2) {#चारुता#} (=loveliness);</div>
-<div n="lb"/><div n="1">(3) {#रमणीयता#} (=pleasantness); </div><div n="1">(4) {#शोभा#}
-<div n="lb"/>(splendour); </div><div n="1">(5) {#रूपम्#} (=b. of person);</div>
-<div n="lb"/><div n="1">(6) {#लावण्यम्#} (=prettiness); </div><div n="1">(7) {#अभिख्या#} (rare).
-<div n="lb"/>Ph.: a. b. (=beautiful girl) {#सुन्दरी;#} <div n="xe">{%the b.%}
-<div n="lb"/>{%s of poem.%}</div> <div n="xs">{#काव्यस्य मधूनि#}</div> (?); <div n="xe">{%enchanted with%}
-<div n="lb"/>{%the b. s of nature%}</div> <div n="xs">{#प्राकृतिकशोभयाहृतचित्तः#}</div> ({#त्ता, त्तं#});
-<div n="lb"/><div n="xe">{%attained the b. of a bed%}</div> <div n="xs">{#शयनीयलक्ष्मीं बभार,#}</div> Ki.
-<div n="lb"/>viii. 57.; <div n="xe">{%vying with the b. of the ocean%}</div> <div n="xs">{#पयोधि-#}
-<div n="lb"/>{#लक्ष्मीमुषि,#}</div> N. i. 117.: N. B. In the same sense
-<div n="lb"/>{#श्री,#} which is more common in comps.</div>
+{@BEAUTY:@}¦ <div n="1">(1) {#सौन्दर्यम्;#} </div><div n="1">(2) {#चारुता#} (=loveliness);</div>
+<div n="1">(3) {#रमणीयता#} (=pleasantness); </div><div n="1">(4) {#शोभा#}
+(splendour); </div><div n="1">(5) {#रूपम्#} (=b. of person);</div>
+<div n="1">(6) {#लावण्यम्#} (=prettiness); </div><div n="1">(7) {#अभिख्या#} (rare).
+Ph.: a. b. (=beautiful girl) {#सुन्दरी;#} <div n="xe">{%the b.%}
+{%s of poem.%}</div> <div n="xs">{#काव्यस्य मधूनि#}</div> (?); <div n="xe">{%enchanted with%}
+{%the b. s of nature%}</div> <div n="xs">{#प्राकृतिकशोभयाहृतचित्तः#}</div> ({#त्ता, त्तं#});
+<div n="xe">{%attained the b. of a bed%}</div> <div n="xs">{#शयनीयलक्ष्मीं बभार,#}</div> Ki.
+viii. 57.; <div n="xe">{%vying with the b. of the ocean%}</div> <div n="xs">{#पयोधि-#}
+{#लक्ष्मीमुषि,#}</div> N. i. 117.: N. B. In the same sense
+{#श्री,#} which is more common in comps.</div>
 <LEND>

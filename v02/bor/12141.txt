@@ -1,5 +1,5 @@
 <L>12141<pc>378<k1>infantry<k2>infantry
-<div n="lb"/>{@INFANTRY:@}¦ <div n="1">(1) {#पत्तिः#} {%or%} in pl. {#पत्तयः#} <div n="xe">{%or%}</div> <div n="xs">{#पत्तिसैन्यम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#पदातयः#} (m. pl.) <div n="xe">{%or%}</div> <div n="xs">{#पदातिबलम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#पादातम्#}</div>
-<div n="lb"/>(rare), etc.</div>
+{@INFANTRY:@}¦ <div n="1">(1) {#पत्तिः#} {%or%} in pl. {#पत्तयः#} <div n="xe">{%or%}</div> <div n="xs">{#पत्तिसैन्यम्;#}</div></div>
+<div n="1">(2) {#पदातयः#} (m. pl.) <div n="xe">{%or%}</div> <div n="xs">{#पदातिबलम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#पादातम्#}</div>
+(rare), etc.</div>
 <LEND>

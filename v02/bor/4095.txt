@@ -1,5 +1,5 @@
 <L>4095<pc>133<k1>comfort<k2>comfort
-<div n="lb"/>{@COMFORT@}¦ (subs.): <div n="I">I Consolation, solace:
-<div n="lb"/>q. v.: {#आश्वासः।#} </div><div n="I">II Pleasure: {#सुखम्,#} <div n="xe">{%enjoying%}
-<div n="lb"/>{%every c.%}</div> <div n="xs">{#सर्वसुखान्यनुमवन्तः,#}</div> K.</div>
+{@COMFORT@}¦ (subs.): <div n="I">I Consolation, solace:
+q. v.: {#आश्वासः।#} </div><div n="I">II Pleasure: {#सुखम्,#} <div n="xe">{%enjoying%}
+{%every c.%}</div> <div n="xs">{#सर्वसुखान्यनुमवन्तः,#}</div> K.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>19961<pc>621<k1>scullery<k2>scullery
-<div n="lb"/>{@SCULLERY:@}¦ <div n="1">(1) {#पिठरम्#} (?), Wilson; </div><div n="1">(2) {#भाण्डा-#}
-<div n="lb"/>{#गारम्#} (?).</div>
+{@SCULLERY:@}¦ <div n="1">(1) {#पिठरम्#} (?), Wilson; </div><div n="1">(2) {#भाण्डा-#}
+{#गारम्#} (?).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>9015<pc>285<k1>flour<k2>flour
-<div n="lb"/>{@FLOUR:@}¦ <div n="I">I Of wheat: </div><div n="1">(1) {#गोधूमचूर्णम्;#} </div><div n="1">(2)
-<div n="lb"/>{#गोधूमपिष्टम्,#} Raj. </div><div n="I">II Of other grains: by {#चूर्णं#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#पिष्टम्,#}</div> <div n="xe">{%barley f.:%}</div> <div n="xs">{#यवचूर्णम्।#}</div> <div n="xe">{%Fried-grain-f.:%}</div> <div n="xs">{#शक्तुः।#}</div></div>
+{@FLOUR:@}¦ <div n="I">I Of wheat: </div><div n="1">(1) {#गोधूमचूर्णम्;#} </div><div n="1">(2)
+{#गोधूमपिष्टम्,#} Raj. </div><div n="I">II Of other grains: by {#चूर्णं#}
+<div n="xe">{%or%}</div> <div n="xs">{#पिष्टम्,#}</div> <div n="xe">{%barley f.:%}</div> <div n="xs">{#यवचूर्णम्।#}</div> <div n="xe">{%Fried-grain-f.:%}</div> <div n="xs">{#शक्तुः।#}</div></div>
 <LEND>

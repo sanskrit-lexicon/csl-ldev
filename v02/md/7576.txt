@@ -1,21 +1,21 @@
 <L>7576<pc>094-2<k1>चित्तखेद<k2>चित्तखेद
 {#चित्तखेद#}¦citta-kheda, {%m.%} affliction, grief; 
-<>{@-caura@}, {%m.%} heart-stealer, lover; {@-ja@}, {%m.%} (heartborn), <lbinfo n="6"/>
-<> love; Kāma; {@-janman@}, {%m. id.%}; {@-jña@}, 
-<>{%a.%} knowing the intentions {%or%} heart of ({%g.%}); 
-<>having knowledge of human nature; {@-nātha,@} 
-<>{%m.%} heart's lord, lower; {@-nāśa@}, {%m.%} loss of consciousness; <lbinfo n="3"/>
-<> {@-nirvṛtti@}, {%f.%} peace of mind; 
-<>{@-pramāthin,@} {%a.%} disturbing the mind; {@-bheda,@} 
-<>{%m.%} depression of mind; {@-bhrama,@} {%m.%} mental <lbinfo n="3"/>
-<> confusion; {@-bhrānti,@} {%f.,%} {@-moha,@} {%m. id.%}; 
-<>{@-yoni,@} {%m.%} (having its origin in the mind), 
-<>love; {@-rañjana@}, {%n.%} gladdening of hearts; 
-<>{@-vat,@} {%a.%} rational, sensible, wise; {@-vikāra,@} {%m.%} 
-<>mental derangement; {@-viplava,@} {%m. id.%}, madness; <lbinfo n="3"/>
-<> {@-viśleṣa@}, {%m.%} alienation of hearts; 
-<>breach of friendship with ({%in.%}); {@-vṛtti@}, {%f.%} 
-<>mental disposition, sentiments, feeling; train 
-<>of thoughts; frame of mind, mental process; 
-<>{@-hārin,@} {%a.%} raviṣing.
+{@-caura@}, {%m.%} heart-stealer, lover; {@-ja@}, {%m.%} (heartborn), <lbinfo n="6"/>
+ love; Kāma; {@-janman@}, {%m. id.%}; {@-jña@}, 
+{%a.%} knowing the intentions {%or%} heart of ({%g.%}); 
+having knowledge of human nature; {@-nātha,@} 
+{%m.%} heart's lord, lower; {@-nāśa@}, {%m.%} loss of consciousness; <lbinfo n="3"/>
+ {@-nirvṛtti@}, {%f.%} peace of mind; 
+{@-pramāthin,@} {%a.%} disturbing the mind; {@-bheda,@} 
+{%m.%} depression of mind; {@-bhrama,@} {%m.%} mental <lbinfo n="3"/>
+ confusion; {@-bhrānti,@} {%f.,%} {@-moha,@} {%m. id.%}; 
+{@-yoni,@} {%m.%} (having its origin in the mind), 
+love; {@-rañjana@}, {%n.%} gladdening of hearts; 
+{@-vat,@} {%a.%} rational, sensible, wise; {@-vikāra,@} {%m.%} 
+mental derangement; {@-viplava,@} {%m. id.%}, madness; <lbinfo n="3"/>
+ {@-viśleṣa@}, {%m.%} alienation of hearts; 
+breach of friendship with ({%in.%}); {@-vṛtti@}, {%f.%} 
+mental disposition, sentiments, feeling; train 
+of thoughts; frame of mind, mental process; 
+{@-hārin,@} {%a.%} raviṣing.
 <LEND>

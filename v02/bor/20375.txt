@@ -1,11 +1,11 @@
 <L>20375<pc>637<k1>shield<k2>shield
-<div n="lb"/>{@SHIELD@}¦ (subs): <div n="I">I For defending: </div><div n="1">(1) {#फलक#}
-<div n="lb"/>(mn.), {%with a s. glittering in the left hand:%}
-<div n="lb"/>{#वामकरतलस्फुरत्फलकः,#} C. iii.; </div><div n="1">(2) {#चर्मन्#} (n.),
-<div n="lb"/><div n="xe">{%carrying sword and s.:%}</div> <div n="xs">{#खङ्गचर्मधरः;#}</div> <div n="xe">{%without sword%}
-<div n="lb"/>{%and s.:%}</div> <div n="xs">{#व्यसिचर्म-,#}</div> Mah. vii. 48. 34. 39.; </div><div n="1">(3)
-<div n="lb"/>{#खेटकः#} (rare), <div n="xe">{%bearing sword and s.:%}</div> <div n="xs">{#खङ्गखेटक-#}
-<div n="lb"/>{#धारिन्#}</div> (f. {#णी#}), Mah. iv. 6. 4. </div><div n="I">II Fig.,
-<div n="lb"/>defence, refuge: q. v.: {#शरणम्।#} </div><div n="I">III In
-<div n="lb"/>heraldry: {#*खेटकः।#}</div>
+{@SHIELD@}¦ (subs): <div n="I">I For defending: </div><div n="1">(1) {#फलक#}
+(mn.), {%with a s. glittering in the left hand:%}
+{#वामकरतलस्फुरत्फलकः,#} C. iii.; </div><div n="1">(2) {#चर्मन्#} (n.),
+<div n="xe">{%carrying sword and s.:%}</div> <div n="xs">{#खङ्गचर्मधरः;#}</div> <div n="xe">{%without sword%}
+{%and s.:%}</div> <div n="xs">{#व्यसिचर्म-,#}</div> Mah. vii. 48. 34. 39.; </div><div n="1">(3)
+{#खेटकः#} (rare), <div n="xe">{%bearing sword and s.:%}</div> <div n="xs">{#खङ्गखेटक-#}
+{#धारिन्#}</div> (f. {#णी#}), Mah. iv. 6. 4. </div><div n="I">II Fig.,
+defence, refuge: q. v.: {#शरणम्।#} </div><div n="I">III In
+heraldry: {#*खेटकः।#}</div>
 <LEND>

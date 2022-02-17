@@ -1,6 +1,6 @@
 <L>20341<pc>635<k1>sheath<k2>sheath
-<div n="lb"/>{@SHEATH:@}¦ <div n="I">I Case: </div><div n="1">(1) {#कोषः#} ({#शः#}), <div n="xe">{%a s. made of%}
-<div n="lb"/>{%tiger-skin:%}</div> <div n="xs">{#वैयाघ्रकोशः;#}</div> <div n="xe">{%in a golden s.:%}</div> <div n="xs">{#हेममये कोशे,#}</div>
-<div n="lb"/>Mah. iv. 42. 12. 15.; </div><div n="1">(2) {#पिधानम्#} (= cover-
-<div n="lb"/>-ing). </div><div n="I">II In botany: {#शुङ्गा।#}</div>
+{@SHEATH:@}¦ <div n="I">I Case: </div><div n="1">(1) {#कोषः#} ({#शः#}), <div n="xe">{%a s. made of%}
+{%tiger-skin:%}</div> <div n="xs">{#वैयाघ्रकोशः;#}</div> <div n="xe">{%in a golden s.:%}</div> <div n="xs">{#हेममये कोशे,#}</div>
+Mah. iv. 42. 12. 15.; </div><div n="1">(2) {#पिधानम्#} (= cover-
+-ing). </div><div n="I">II In botany: {#शुङ्गा।#}</div>
 <LEND>

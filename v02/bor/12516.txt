@@ -1,4 +1,4 @@
 <L>12516<pc>388<k1>intermarry<k2>intermarry
-<div n="lb"/>{@INTERMARRY:@}¦ <div n="xe">{%it is lawful to i. now:%}</div> <div n="xs">{#*अधुना मिन्न-#}
-<div n="lb"/>{#जात्यां विवाहो न विधिविरुद्धः।#}</div>
+{@INTERMARRY:@}¦ <div n="xe">{%it is lawful to i. now:%}</div> <div n="xs">{#*अधुना मिन्न-#}
+{#जात्यां विवाहो न विधिविरुद्धः।#}</div>
 <LEND>

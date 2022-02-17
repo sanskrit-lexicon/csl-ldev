@@ -1,11 +1,11 @@
 <L>21692<pc>684<k1>study<k2>study
-<div n="lb"/>{@STUDY@}¦ (v.): <div n="I">I To learn, read: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#अधीते#} ({#इ,#} c. 2.), <div n="xe">{%he s. ed this with me:%}</div> <div n="xs">{#एतन्मत्तः #}
-<div n="lb"/>{# सोऽधिजगे,#}</div> M. i. 59.; <div n="xe">{%one who has s. ied all%}
-<div n="lb"/>{%Śāstras:%}</div> <div n="xs">{#अधीतसर्वशास्र#}</div> (f. {#स्रा#}), K.; <div n="xe">{%one who%}
-<div n="lb"/>{%has s. ied the four Vedas:%}</div> <div n="xs">{#अधीती चतुर्ष्वाम्नायेषु,#}</div>
-<div n="lb"/>D. v.; </div><div n="1">(2) {#अधिगच्छति#} ({#गम्,#} c. 1. = acquire:
-<div n="lb"/>q. v. ). </div><div n="I">II To practise, learn by rote: q. v.:
-<div n="lb"/>{#अभ्यस्यति#} ({#अस्,#} c. 4.), {%do you s. archery:%}
-<div n="lb"/>{#कच्चिदभ्यस्यते धनुर्वेदस्य सूत्रम्,#} Mah. ii. 5. 121.</div>
+{@STUDY@}¦ (v.): <div n="I">I To learn, read: q. v.: </div><div n="1">(1)
+{#अधीते#} ({#इ,#} c. 2.), <div n="xe">{%he s. ed this with me:%}</div> <div n="xs">{#एतन्मत्तः #}
+{# सोऽधिजगे,#}</div> M. i. 59.; <div n="xe">{%one who has s. ied all%}
+{%Śāstras:%}</div> <div n="xs">{#अधीतसर्वशास्र#}</div> (f. {#स्रा#}), K.; <div n="xe">{%one who%}
+{%has s. ied the four Vedas:%}</div> <div n="xs">{#अधीती चतुर्ष्वाम्नायेषु,#}</div>
+D. v.; </div><div n="1">(2) {#अधिगच्छति#} ({#गम्,#} c. 1. = acquire:
+q. v. ). </div><div n="I">II To practise, learn by rote: q. v.:
+{#अभ्यस्यति#} ({#अस्,#} c. 4.), {%do you s. archery:%}
+{#कच्चिदभ्यस्यते धनुर्वेदस्य सूत्रम्,#} Mah. ii. 5. 121.</div>
 <LEND>

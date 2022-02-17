@@ -1,5 +1,5 @@
 <L>4480<pc>145<k1>consent<k2>consent
-<div n="lb"/>{@CONSENT@}¦ (subs.): {#सम्मतिः,#} {%to obtain your c.:%}
-<div n="lb"/>{#तव सम्मतिमधिगन्तुम्,#} N. ii. 48.; <div n="xe">{%sells without the%}
-<div n="lb"/>{%c. of the owner:%}</div> <div n="xs">{#स्वाम्यसम्मतो विक्रीणीते,#}</div> M.
+{@CONSENT@}¦ (subs.): {#सम्मतिः,#} {%to obtain your c.:%}
+{#तव सम्मतिमधिगन्तुम्,#} N. ii. 48.; <div n="xe">{%sells without the%}
+{%c. of the owner:%}</div> <div n="xs">{#स्वाम्यसम्मतो विक्रीणीते,#}</div> M.
 <LEND>

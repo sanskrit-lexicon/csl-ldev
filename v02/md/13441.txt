@@ -1,47 +1,47 @@
 <L>13441<pc>211-2<k1>भ्रम्<k2>भ्रम्
 {#भ्रम्#}¦BHRAM, I.P. {@bhrama,@} IV.P. 
-<>{@bhrāmya,@} wander about, roam, rove, 
-<>ramble; fly about ({%bees%}); wag ({%tongue%}); 
-<>move about ({%eyes%}); move unsteadily, quiver, 
-<>flicker, flutter ({%of inanimate things%}); reel, 
-<>stagger, totter; waver, be perplexed, doubt; 
-<>err, be mistaken; whirl round, move in a 
-<>circle, revolve; wander {%or%} roam through {%or%} 
-<>over ({%ac.%}): {@bhikṣām@} --, wander about begging: <lbinfo n="3"/>
-<> {%pp.%} {@bhrānta,@} wandering {%or%} roaming 
-<>about; moving about unsteadily, reeling; 
-<>having roamed through ({%ac.%}); wandered 
-<>through; revolving, rolling; perplexed, confused; <lbinfo n="3"/>
-<> erring, mistaken: {@-m,@} {%n. imps.%} one 
-<>has wandered about; {%cs.%} {@bhrămaya,@} P. cause 
-<>to wander {%or%} roam; drive {%or%} move about, 
-<>agitate; cause to revolve, whirl {%or%} turn 
-<>round, wave; drive through ({%ac.%}) {%in a chariot%}; 
-<>disarrange; cause to err, confuse; {@paṭaham@} --, 
-<>send the drum, about, proclaim by beast of 
-<>drum; {%intv.%} {@bambhramīti,@} wander aimlessely; <lbinfo n="3"/>
-<> {@-bambhramyate,@} roam about; wander <lbinfo n="3"/>
-<> through; be wandered through. {@ud,@} 
-<>leap up; rise ({%sun%}): {%pp.%} flying up ({%birds%}); 
-<>raised, agitated ({%waves%}); upturned ({%glance%}); 
-<>flown ({%life%}); wandering about; whirling on; 
-<>excited, agitated, bewildered, distracted; {%cs.%} 
-<>wave, brandish; excite, agitate. {@sam-ud,@} {%pp.%} 
-<>excited, grown intractable ({%horses%}). {@pari,@} 
-<>roam, wander, fly, {%or%} flit about; roam over 
-<>({%ac.%}); turn round, revolve, wheel; describe 
-<>a circle round ({%ac.%}); {%cs.%} move to and fro; 
-<>stir, agitate. {@pra,@} roam about; wander over 
-<>({%ac.%}) {@vi,@} wander about, rove, fly about, hover, 
-<>wheel; reel, quiver; roam over ({%ac.%}); move 
-<>about ({%tail%}); scare away, disperse; be disordered <lbinfo n="3"/>
-<> {%or%} confused; be bewildered {%or%} perplexed: <lbinfo n="3"/>
-<> {%pp.%} moving about, rolling ({%eyes%}); 
-<>spread abroad ({%fame%}); confused, bewildered; 
-<>{%cs.%} confound, confuse, perplex. {@sam,@} wander 
-<>about, rove; fall into error; be perplexed: {%pp.%} 
-<>bewildered, confounded; agitated; sprightly 
-<>({%gait%}); {%cs. ps.%} become perplexed as to, despair 
-<>of ({%ab.%}). {@upa-sam,@} {%pp.%} having leapt up from 
-<>({%ab.%}); excited, bewildered.
+{@bhrāmya,@} wander about, roam, rove, 
+ramble; fly about ({%bees%}); wag ({%tongue%}); 
+move about ({%eyes%}); move unsteadily, quiver, 
+flicker, flutter ({%of inanimate things%}); reel, 
+stagger, totter; waver, be perplexed, doubt; 
+err, be mistaken; whirl round, move in a 
+circle, revolve; wander {%or%} roam through {%or%} 
+over ({%ac.%}): {@bhikṣām@} --, wander about begging: <lbinfo n="3"/>
+ {%pp.%} {@bhrānta,@} wandering {%or%} roaming 
+about; moving about unsteadily, reeling; 
+having roamed through ({%ac.%}); wandered 
+through; revolving, rolling; perplexed, confused; <lbinfo n="3"/>
+ erring, mistaken: {@-m,@} {%n. imps.%} one 
+has wandered about; {%cs.%} {@bhrămaya,@} P. cause 
+to wander {%or%} roam; drive {%or%} move about, 
+agitate; cause to revolve, whirl {%or%} turn 
+round, wave; drive through ({%ac.%}) {%in a chariot%}; 
+disarrange; cause to err, confuse; {@paṭaham@} --, 
+send the drum, about, proclaim by beast of 
+drum; {%intv.%} {@bambhramīti,@} wander aimlessely; <lbinfo n="3"/>
+ {@-bambhramyate,@} roam about; wander <lbinfo n="3"/>
+ through; be wandered through. {@ud,@} 
+leap up; rise ({%sun%}): {%pp.%} flying up ({%birds%}); 
+raised, agitated ({%waves%}); upturned ({%glance%}); 
+flown ({%life%}); wandering about; whirling on; 
+excited, agitated, bewildered, distracted; {%cs.%} 
+wave, brandish; excite, agitate. {@sam-ud,@} {%pp.%} 
+excited, grown intractable ({%horses%}). {@pari,@} 
+roam, wander, fly, {%or%} flit about; roam over 
+({%ac.%}); turn round, revolve, wheel; describe 
+a circle round ({%ac.%}); {%cs.%} move to and fro; 
+stir, agitate. {@pra,@} roam about; wander over 
+({%ac.%}) {@vi,@} wander about, rove, fly about, hover, 
+wheel; reel, quiver; roam over ({%ac.%}); move 
+about ({%tail%}); scare away, disperse; be disordered <lbinfo n="3"/>
+ {%or%} confused; be bewildered {%or%} perplexed: <lbinfo n="3"/>
+ {%pp.%} moving about, rolling ({%eyes%}); 
+spread abroad ({%fame%}); confused, bewildered; 
+{%cs.%} confound, confuse, perplex. {@sam,@} wander 
+about, rove; fall into error; be perplexed: {%pp.%} 
+bewildered, confounded; agitated; sprightly 
+({%gait%}); {%cs. ps.%} become perplexed as to, despair 
+of ({%ab.%}). {@upa-sam,@} {%pp.%} having leapt up from 
+({%ab.%}); excited, bewildered.
 <LEND>

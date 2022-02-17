@@ -1,6 +1,6 @@
 <L>10393<pc>327<k1>guarantee<k2>guarantee
-<div n="lb"/>{@GUARANTEE@}¦ (subs.): <div n="I">I The person: {#प्रत्यय-#}
-<div n="lb"/>{#प्रतिभूः,#} Mit. </div><div n="I">II An engagement: {#प्रत्ययः,#} <div n="xe">{%on%}
-<div n="lb"/>{%my g., give him goods:%}</div> <div n="xs">{#मत्प्रत्ययेनास्य द्रव्यं देहि,#}</div>
-<div n="lb"/>Mit.: v. Security.</div>
+{@GUARANTEE@}¦ (subs.): <div n="I">I The person: {#प्रत्यय-#}
+{#प्रतिभूः,#} Mit. </div><div n="I">II An engagement: {#प्रत्ययः,#} <div n="xe">{%on%}
+{%my g., give him goods:%}</div> <div n="xs">{#मत्प्रत्ययेनास्य द्रव्यं देहि,#}</div>
+Mit.: v. Security.</div>
 <LEND>

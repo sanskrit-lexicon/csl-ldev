@@ -1,4 +1,4 @@
 <L>191<pc>008<k1>acidity<k2>acidity
-<div n="lb"/>{@ACIDITY:@}¦ <div n="1">(1) {#अम्लता;#} </div><div n="1">(2) {#अम्लत्वभ्,#} <div n="xe">{%a. of%}
-<div n="lb"/>{%stomach%}</div> <div n="xs">{#अम्लपित्तः।#}</div></div>
+{@ACIDITY:@}¦ <div n="1">(1) {#अम्लता;#} </div><div n="1">(2) {#अम्लत्वभ्,#} <div n="xe">{%a. of%}
+{%stomach%}</div> <div n="xs">{#अम्लपित्तः।#}</div></div>
 <LEND>

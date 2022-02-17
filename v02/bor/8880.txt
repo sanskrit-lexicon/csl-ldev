@@ -1,3 +1,3 @@
 <L>8880<pc>281<k1>flag-staff<k2>flag-staff
-<div n="lb"/>{@FLAG-STAFF:@}¦ <div n="1">(1) {#ध्वजदण्डः;#} </div><div n="1">(2) {#केतुयष्टिः।#}</div>
+{@FLAG-STAFF:@}¦ <div n="1">(1) {#ध्वजदण्डः;#} </div><div n="1">(2) {#केतुयष्टिः।#}</div>
 <LEND>

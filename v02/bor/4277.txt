@@ -1,15 +1,15 @@
 <L>4277<pc>139<k1>conceal<k2>conceal
-<div n="lb"/>{@CONCEAL@}¦ (v. t.): <div n="1">(1) {#गूहति, -ते#} ({#गूह्,#} c. l.), <div n="xe">{%to%}
-<div n="lb"/>{%c. your good fortune:%}</div> <div n="xs">{#आत्मनो सौमाग्यं निगूहितुम्,#}</div>
-<div n="lb"/>V. ii.; <div n="xe">{%I climbed up a tamarind tree and lay c.%}
-<div n="lb"/>{%ed:%}</div> <div n="xs">{#चिञ्चावृक्षमारुह्य गूढतनुरतिष्ठम्,#}</div> D. iv.; </div><div n="1">(2)
-<div n="lb"/>{#गोपयति#} ({#गुप्,#} c. 10.), <div n="xe">{%if it is not a subject to be%}
-<div n="lb"/>{%c. ed:%}</div> <div n="xs">{#न चेद्गोप्यमस्ति,#}</div> D. iv.; </div><div n="1">(3) {#प्रच्छादयति#} (c.
-<div n="lb"/>of {#छद्#}), {%and those who c. it%} (stolen property):
-<div n="lb"/>{#ये च प्रच्छादयन्ति तान्,#} Kat.: v. To cover; </div><div n="1">(4)
-<div n="lb"/>{#निह्वुते#} ({#ह्नु,#} c. 2.) (=to keep back the truth),
-<div n="lb"/><div n="xe">{%desirous of c. ing from the mistress:%}</div> <div n="xs">{#देव्या निह्नोतु-#}
-<div n="lb"/>{#मिच्छुः,#}</div> Mu.; </div><div n="1">(5) {#लीयते#} ({#ली,#} c. 4.) (=to lie c.
-<div n="lb"/>ed), <div n="xe">{%have now c. ed yourself in the mire:%}</div> <div n="xs">{#पङ्केऽधुना #}
-<div n="lb"/>{# लीयसे,#}</div> Ve.</div>
+{@CONCEAL@}¦ (v. t.): <div n="1">(1) {#गूहति, -ते#} ({#गूह्,#} c. l.), <div n="xe">{%to%}
+{%c. your good fortune:%}</div> <div n="xs">{#आत्मनो सौमाग्यं निगूहितुम्,#}</div>
+V. ii.; <div n="xe">{%I climbed up a tamarind tree and lay c.%}
+{%ed:%}</div> <div n="xs">{#चिञ्चावृक्षमारुह्य गूढतनुरतिष्ठम्,#}</div> D. iv.; </div><div n="1">(2)
+{#गोपयति#} ({#गुप्,#} c. 10.), <div n="xe">{%if it is not a subject to be%}
+{%c. ed:%}</div> <div n="xs">{#न चेद्गोप्यमस्ति,#}</div> D. iv.; </div><div n="1">(3) {#प्रच्छादयति#} (c.
+of {#छद्#}), {%and those who c. it%} (stolen property):
+{#ये च प्रच्छादयन्ति तान्,#} Kat.: v. To cover; </div><div n="1">(4)
+{#निह्वुते#} ({#ह्नु,#} c. 2.) (=to keep back the truth),
+<div n="xe">{%desirous of c. ing from the mistress:%}</div> <div n="xs">{#देव्या निह्नोतु-#}
+{#मिच्छुः,#}</div> Mu.; </div><div n="1">(5) {#लीयते#} ({#ली,#} c. 4.) (=to lie c.
+ed), <div n="xe">{%have now c. ed yourself in the mire:%}</div> <div n="xs">{#पङ्केऽधुना #}
+{# लीयसे,#}</div> Ve.</div>
 <LEND>

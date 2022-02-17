@@ -1,4 +1,4 @@
 <L>17409<pc>532<k1>porcupine<k2>porcupine
-<div n="lb"/>{@PORCUPINE:@}¦ <div n="1">(1) {#शल्यः, -कः;#} </div><div n="1">(2) {#श्वाविध्#} (m.).
-<div n="lb"/><div n="xe">{%Its quill or spine:%}</div> <div n="xs">{#शल#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शलल#}</div> (mn.).</div>
+{@PORCUPINE:@}¦ <div n="1">(1) {#शल्यः, -कः;#} </div><div n="1">(2) {#श्वाविध्#} (m.).
+<div n="xe">{%Its quill or spine:%}</div> <div n="xs">{#शल#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शलल#}</div> (mn.).</div>
 <LEND>

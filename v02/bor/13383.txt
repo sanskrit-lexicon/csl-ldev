@@ -1,4 +1,4 @@
 <L>13383<pc>412<k1>lecture<k2>lecture
-<div n="lb"/>{@LECTURE@}¦ (v.): <div n="I">I Of l.s: {#*प्रपठति#} ({#पठ्,#} c. 1.).</div>
-<div n="lb"/><div n="I">II To reprove: {#शास्ति#} ({#शास्,#} c. 2.).</div>
+{@LECTURE@}¦ (v.): <div n="I">I Of l.s: {#*प्रपठति#} ({#पठ्,#} c. 1.).</div>
+<div n="I">II To reprove: {#शास्ति#} ({#शास्,#} c. 2.).</div>
 <LEND>

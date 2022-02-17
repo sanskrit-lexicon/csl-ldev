@@ -1,5 +1,5 @@
 <L>22159<pc>699<k1>take out<k2>take out
-<div n="lb"/>{@TAKE OUT:@}¦ <div n="I">I Lit.: {#बहिष्करोति,#} <div n="xe">{%t. ing out his son%}
-<div n="lb"/>{%from the granary:%}</div> <div n="xs">{#तत्पुत्रं कुशूलाद्वहिष्कृत्य,#}</div> H. ii.</div>
-<div n="lb"/><div n="I">II To remove: q. v.: {#अपनयति।#}</div>
+{@TAKE OUT:@}¦ <div n="I">I Lit.: {#बहिष्करोति,#} <div n="xe">{%t. ing out his son%}
+{%from the granary:%}</div> <div n="xs">{#तत्पुत्रं कुशूलाद्वहिष्कृत्य,#}</div> H. ii.</div>
+<div n="I">II To remove: q. v.: {#अपनयति।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>20901<pc>657<k1>so and so<k2>so and so
-<div n="lb"/>{@SO AND SO:@}¦ {#अमुकः#} ({#की, कं#}), <div n="xe">{%of such and such a%}
-<div n="lb"/>{%king, son of s.:%}</div> <div n="xs">{#अमुकपुत्रस्यामुकस्य महीपतेः,#}</div> Vy.
+{@SO AND SO:@}¦ {#अमुकः#} ({#की, कं#}), <div n="xe">{%of such and such a%}
+{%king, son of s.:%}</div> <div n="xs">{#अमुकपुत्रस्यामुकस्य महीपतेः,#}</div> Vy.
 <LEND>

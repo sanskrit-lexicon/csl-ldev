@@ -1,4 +1,4 @@
 <L>20417<pc>638<k1>shop-keeper<k2>shop-keeper
-<div n="lb"/>{@SHOP-KEEPER:@}¦ <div n="1">(1) {#आपणिकः;#} </div><div n="1">(2) {#विपणिन्#} (m.);</div>
-<div n="lb"/><div n="1">(3) {#पण्याजीवः#} and sim. comp.s.</div>
+{@SHOP-KEEPER:@}¦ <div n="1">(1) {#आपणिकः;#} </div><div n="1">(2) {#विपणिन्#} (m.);</div>
+<div n="1">(3) {#पण्याजीवः#} and sim. comp.s.</div>
 <LEND>

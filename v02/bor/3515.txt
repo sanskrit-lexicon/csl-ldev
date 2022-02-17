@@ -1,5 +1,5 @@
 <L>3515<pc>117<k1>cheerfully<k2>cheerfully
-<div n="lb"/>{@CHEERFULLY:@}¦ Ph.: <div n="xe">{%let the accomplished enjoy it%}
-<div n="lb"/>{%c.:%}</div> <div n="xs">{#त- त्सुप्रसन्नमनसः कृतिनो भजन्ताम्,#}</div> Vi. i: v.
-<div n="lb"/>Gladly, joyfully.
+{@CHEERFULLY:@}¦ Ph.: <div n="xe">{%let the accomplished enjoy it%}
+{%c.:%}</div> <div n="xs">{#त- त्सुप्रसन्नमनसः कृतिनो भजन्ताम्,#}</div> Vi. i: v.
+Gladly, joyfully.
 <LEND>

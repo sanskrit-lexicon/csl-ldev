@@ -1,6 +1,6 @@
 <L>10524<pc>252-a<k1>extinction<k2>extinction
-<div n="lb"/>EXTINCTION¦, EXTINCUISHMENT, {%s.%} (Quenching) {#निर्वाणं, निर्वापणं,#}
-<div n="lb"/>{#शान्तिः#} {%f.%} — (Abolition, destruction) {#नाशः, विनाशः, प्रणाशः,#}
-<div n="lb"/>{#उच्छेदः, स्रमुच्छेदः, उद्धरणं, लोपः, विलोपनं, क्षयः, संहारः;#} ‘of
-<div n="lb"/>race,’ {#निर्वंशः#}.
+EXTINCTION¦, EXTINCUISHMENT, {%s.%} (Quenching) {#निर्वाणं, निर्वापणं,#}
+{#शान्तिः#} {%f.%} — (Abolition, destruction) {#नाशः, विनाशः, प्रणाशः,#}
+{#उच्छेदः, स्रमुच्छेदः, उद्धरणं, लोपः, विलोपनं, क्षयः, संहारः;#} ‘of
+race,’ {#निर्वंशः#}.
 <LEND>

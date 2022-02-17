@@ -1,10 +1,10 @@
 <L>1016<pc>010-1<k1>अधिकार<k2>अधिकार
 {#अधिकार#}¦adhi-kāra, {%m.%} superintendence, 
-<>administration, control, authority; office, post, 
-<>dignity; sovereignty; eligibility; claim to 
-<>({%lc.%}); striving, endeavour for ({%lc.%}); chapter 
-<>(on, -°); heading rule {%to be supplied with following rules %}<lbinfo n="3"/>
-<>{% till a new section (gr.)%}; {@-puruṣa,@} 
-<>{%m.%} official; {@-vat,@} {%m. id.%}; {@-stha,@} {%a.%} official, in 
-<>office; {@-āḍhya@}, {%a.%} invested with authority.
+administration, control, authority; office, post, 
+dignity; sovereignty; eligibility; claim to 
+({%lc.%}); striving, endeavour for ({%lc.%}); chapter 
+(on, -°); heading rule {%to be supplied with following rules %}<lbinfo n="3"/>
+{% till a new section (gr.)%}; {@-puruṣa,@} 
+{%m.%} official; {@-vat,@} {%m. id.%}; {@-stha,@} {%a.%} official, in 
+office; {@-āḍhya@}, {%a.%} invested with authority.
 <LEND>

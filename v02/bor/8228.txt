@@ -1,6 +1,6 @@
 <L>8228<pc>260<k1>extinguish<k2>extinguish
-<div n="lb"/>{@EXTINGUISH:@}¦ <div n="I">I To put out: q. v.: {#निर्वापयति#}
-<div n="lb"/>(c. of {#वा#}), <div n="xe">{%I will e. the fire of bereavement by%}
-<div n="lb"/>{%quitting life:%}</div> <div n="xs">{#देहमुत्सृज्य विरहाग्निं निर्वापयामि,#}</div> Va.</div>
-<div n="lb"/><div n="I">II To destroy: q. v.: {#उच्छिनक्ति#} ({#छिद्,#} c. 7.).</div>
+{@EXTINGUISH:@}¦ <div n="I">I To put out: q. v.: {#निर्वापयति#}
+(c. of {#वा#}), <div n="xe">{%I will e. the fire of bereavement by%}
+{%quitting life:%}</div> <div n="xs">{#देहमुत्सृज्य विरहाग्निं निर्वापयामि,#}</div> Va.</div>
+<div n="I">II To destroy: q. v.: {#उच्छिनक्ति#} ({#छिद्,#} c. 7.).</div>
 <LEND>

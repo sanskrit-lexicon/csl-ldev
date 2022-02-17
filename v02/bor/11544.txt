@@ -1,11 +1,11 @@
 <L>11544<pc>361<k1>image<k2>image
-<div n="lb"/>{@IMAGE@}¦ (subs.): <div n="I">I Likeness: q.v.: Ph.: {%this%}
-<div n="lb"/>{%boy is the very i.%} ({%of Rāma%}): [{#रामस्य#}] {#सम्पूण प्रति-#}
-<div n="lb"/>{#विम्बितैव निखिलास्मिन् शिशावाकृतिः,#} U. iv. 21. </div><div n="I">II
-<div n="lb"/>An idol: q.v.: </div><div n="1">(1) {#प्रतिमा,#} <div n="xe">{%i. -worship:%}</div> <div n="xs">{#प्रतिमा-#}
-<div n="lb"/>{#पूजा;#}</div> </div><div n="1">(2) {#मूर्तिः,#} <div n="xe">{%how many varieties of i. s.:%}</div> <div n="xs">{#कति #}
-<div n="lb"/>{# मूर्तिभेदाः,#}</div> Li. 241. </div><div n="I">III Reflected i.: </div><div n="1">(1)
-<div n="lb"/>{#प्रतिबिम्बम्;#} </div><div n="1">(2) {#छाया#} (= shadow). </div><div n="I">IV Show,
-<div n="lb"/>appearance: q.v. </div><div n="I">V Mental: {#कल्पना।#} </div><div n="I">VI
-<div n="lb"/>Rhetorical: perh. {#चित्रम्।#}</div>
+{@IMAGE@}¦ (subs.): <div n="I">I Likeness: q.v.: Ph.: {%this%}
+{%boy is the very i.%} ({%of Rāma%}): [{#रामस्य#}] {#सम्पूण प्रति-#}
+{#विम्बितैव निखिलास्मिन् शिशावाकृतिः,#} U. iv. 21. </div><div n="I">II
+An idol: q.v.: </div><div n="1">(1) {#प्रतिमा,#} <div n="xe">{%i. -worship:%}</div> <div n="xs">{#प्रतिमा-#}
+{#पूजा;#}</div> </div><div n="1">(2) {#मूर्तिः,#} <div n="xe">{%how many varieties of i. s.:%}</div> <div n="xs">{#कति #}
+{# मूर्तिभेदाः,#}</div> Li. 241. </div><div n="I">III Reflected i.: </div><div n="1">(1)
+{#प्रतिबिम्बम्;#} </div><div n="1">(2) {#छाया#} (= shadow). </div><div n="I">IV Show,
+appearance: q.v. </div><div n="I">V Mental: {#कल्पना।#} </div><div n="I">VI
+Rhetorical: perh. {#चित्रम्।#}</div>
 <LEND>

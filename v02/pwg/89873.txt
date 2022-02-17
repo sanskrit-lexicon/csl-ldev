@@ -10,12 +10,12 @@
 <ls>BHĀG. P. 4, 14, 45. 7, 5, 40. 7, 3. 8, 10, 47.</ls> 
 <ls>MĀRK. P. 22, 12. 114, 30.</ls> 
 <ls>SARVADARŚANAS. 64, 4.</ls> {#तवास्मीति च वादिनम्#} 
-<ls>MBH. 3, 729. 5, 1037.</ls> 
+<ls>MBH. 3, 729.</ls> <ls n="MBH.">5, 1037.</ls> 
 <ls>R. 5, 91, 14.</ls> {#इति तं वादिनम्#} 
 <ls>KATHĀS. 37, 228. 59, 115. 72, 145. 119, 161.</ls> {#तमेवं वादिनम्#} 
-<ls>MBH. 1, 1576. 7104. 13, 2315.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 67, 17.</ls> 
+<ls>MBH. 1, 1576.</ls> <ls n="MBH. 1,">7104.</ls> <ls n="MBH.">13, 2315.</ls> 
+
+<ls>R. GORR. 1, 67, 17.</ls> 
 <ls>KUMĀRAS. 6, 84.</ls> {#इत्येवं वादिभिः#} 
 <ls>MĀRK. P. 23, 5.</ls> {#इत्येव वादिनम्#} 
 <ls>KATHĀS. 73, 271.</ls> {#तं तथा वादिनम्#} 
@@ -40,7 +40,7 @@
 <ls>KATHĀS. 26, 96. 31, 83.</ls> {#तथ्य°#} 
 <ls>BHĀG. P. 8, 11, 11.</ls> {#गुह्य°#} 
 <ls>1, 10, 24.</ls> {%redend von, sich auslassend über%}: {#स्वगुणोत्कर्ष°#} 
-<ls>SARVADARŚANAS. 64,</ls> <ls>?5.KATHĀS. 6, 27. BHĀG. P. 3, 24, 1. PAÑCAT. 37, 23.</ls>
+<ls>SARVADARŚANAS. 64,</ls> <ls>5.KATHĀS. 6, 27.</ls> <ls>BHĀG. P. 3, 24, 1.</ls> <ls>PAÑCAT. 37, 23.</ls>
 [Page6-0918]
 {#नय°#} so v. a. {%Lehrer, Kenner%} 
 <ls>KĀM. NĪTIS. 8, 33.</ls> {#संहिता°#} 
@@ -48,7 +48,7 @@
 <ls>KATHĀS. 23, 11.</ls> {#भूयोभर्तृसंगम°#} 
 <ls>30, 48. 34, 69. 73.</ls> {#नक्तभोजित्व°#} 
 <ls>69, 67.</ls> {#वादिनी#} 
-<ls>R. 2, 36, 3</ls> vielleicht {%Wahrsagerin%} (=  {#परचित्ताकर्षकवचनचतुरा#} Comm.). 
+<ls>R. 2, 36, 3</ls> vielleicht {%Wahrsagerin%} (= {#परचित्ताकर्षकवचनचतुरा#} Comm.). 
 <div n="1">— 2) {%der eine Theorie behauptet, - verficht, Anhänger einer Theorie, Vertreter einer Ansicht%} 
 <ls>KAP. 1, 112.</ls> 
 <ls>SUŚR. 1, 150, 3.</ls> {#वादिप्रतिवादिनौ#} 
@@ -58,8 +58,8 @@
 <div n="1">— 3) {%Disputant%} 
 <ls>MBH. 3, 10602.</ls> 
 <ls>HARIV. 14467.</ls> 
-<ls>KĀM. NĪTIS. 5, 25.</ls> <ls>RAGH. 12, 92</ls> (=  {#कथक#} 
-<ls>MALLIN.</ls><ls>?). Spr. 606 (II). 1545. 2075. KATHĀS. 66,63. 72,68. fg. RĀJA-TAR.1,112. 178. Verz. d. Oxf. H. 140,a, No. 280. 259,a,14. fg. DHŪRTAS. 92,2. BHĀG. P.6,4,31. WILSON, Sel. Works I,304.</ls> 
+<ls>KĀM. NĪTIS. 5, 25.</ls> <ls>RAGH. 12, 92</ls> (= {#कथक#} 
+<ls>MALLIN.</ls>). <ls>Spr. 606 (II). 1545. 2075.</ls> <ls>KATHĀS. 66,63. 72,68. fg.</ls> <ls>RĀJA-TAR. 1,112. 178.</ls> <ls>Verz. d. Oxf. H. 140,a, No. 280. 259,a,14. fg.</ls> <ls>DHŪRTAS. 92,2.</ls> <ls>BHĀG. P.6,4,31.</ls> <ls>WILSON, Sel. Works I,304.</ls> 
 <div n="1">— 4) {%Kläger%} 
 <ls>YĀJÑ. 2, 73.</ls> 
 <ls>KULL.</ls> zu <ls>M. 8, 254.</ls> 
@@ -71,7 +71,7 @@
 <ls>R. 7, 87, 13.</ls> {#भो°#} {%mit%} <is>bhos</is> {%angeredet%} 
 <ls>MBH. 3, 12843.</ls> 
 <ls>HARIV. 11140.</ls> {#आर्य°#} {%mit%} <is>Ārya</is> {%angeredet%} 
-<ls>MBH. 3,</ls> <ls>?12843: vgl. WEBER, Ind. St. 1, 181.</ls> 
+<ls>MBH. 3, 12843</ls>: vgl. <ls>WEBER</ls>, <ls>Ind. St. 1, 181.</ls> 
 <div n="1">— 8) in der Stelle {#न च विद्वेषेणाहं न चाहंकारवादिना । न चात्मविजिगीषुत्वाद्दूषयामि वचो ऽमृतस् ॥#} 
 <ls>HARIV. 5904</ls> ist {#वादिना#} so v. a. {#वादेन#}, das nicht zum Metrum passt. 
 <div n="v">— Vgl. {#अग्नि°, अनेकान्त°, अन्य°, अहं°, उत्तर°, ऋत°, कोण°, क्रिया°, क्षान्ति°, गुण°#} (auch 

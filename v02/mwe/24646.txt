@@ -1,5 +1,5 @@
 <L>24646<pc>662-a<k1>recipient<k2>recipient
-<div n="lb"/>RECIPIENT¦, {%s.%} (Person) {#ग्राही#} {%m.%} {#(न्), आदाता#} {%m.%} {#(तृ), ग्राहकः,#}
-<div n="lb"/>{#आश्रयिता#} {%m. See%} RECEIVER. — (Thing) {#आधारः, आशयः, पात्रं#}.
-<div n="lb"/>{%See%} RECEIVER.
+RECIPIENT¦, {%s.%} (Person) {#ग्राही#} {%m.%} {#(न्), आदाता#} {%m.%} {#(तृ), ग्राहकः,#}
+{#आश्रयिता#} {%m. See%} RECEIVER. — (Thing) {#आधारः, आशयः, पात्रं#}.
+{%See%} RECEIVER.
 <LEND>

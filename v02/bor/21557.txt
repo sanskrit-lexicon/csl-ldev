@@ -1,9 +1,9 @@
 <L>21557<pc>679<k1>storm<k2>storm
-<div n="lb"/>{@STORM:@}¦ <div n="I">I Of wind: </div><div n="1">(1) {#वात्या;#} </div><div n="1">(2) {#चण्डवातः,#}
-<div n="lb"/>{%heavy rain came on accompanied with violent s.:%}
-<div n="lb"/>{#चण्डवातं महद्वर्षं प्रादुरासीत्,#} Mah. iii. 143. 7.;</div>
-<div n="lb"/><div n="1">(3) {#प्रभञ्जनः; भ्कञ्भ्का, -वातः,#} (=hurricane). </div><div n="I">II
-<div n="lb"/>S. ing: </div><div n="1">(1) {#आस्कन्दः, -नम्#} <div n="xe">{%or%}</div> <div n="xs">{#-न्दितम्;#}</div> </div><div n="1">(2) {#ग्रहणम्#}
-<div n="lb"/>(=taking). </div><div n="I">III Commotion, rage: q. v.:
-<div n="lb"/>{#संरम्भः।#}</div>
+{@STORM:@}¦ <div n="I">I Of wind: </div><div n="1">(1) {#वात्या;#} </div><div n="1">(2) {#चण्डवातः,#}
+{%heavy rain came on accompanied with violent s.:%}
+{#चण्डवातं महद्वर्षं प्रादुरासीत्,#} Mah. iii. 143. 7.;</div>
+<div n="1">(3) {#प्रभञ्जनः; भ्कञ्भ्का, -वातः,#} (=hurricane). </div><div n="I">II
+S. ing: </div><div n="1">(1) {#आस्कन्दः, -नम्#} <div n="xe">{%or%}</div> <div n="xs">{#-न्दितम्;#}</div> </div><div n="1">(2) {#ग्रहणम्#}
+(=taking). </div><div n="I">III Commotion, rage: q. v.:
+{#संरम्भः।#}</div>
 <LEND>

@@ -15,7 +15,7 @@
 <ls n="ṚV.">10, 103, 10.</ls> des <is>Indra</is> 
 <ls n="ṚV.">1, 176, 5.</ls> {#रथ#} {%der rasche Wagen, Kriegswagen%} 
 <ls n="ṚV.">7, 34, 1.</ls> <ls n="ṚV.">9, 22, 1.</ls> <ls>AV. 13, 2, 7.</ls> die Sonne als {%Ross%} 
-<ls>?1, 1. TAITT. UP. 1, 10 (nach ŚAṂK.</ls>; vgl. u. {#वाजिनीवसु)#}.{# रासभ#} 
+<ls>1, 1.</ls> <ls>TAITT. UP. 1, 10</ls> (nach <ls>ŚAṂK.</ls>; vgl. u. {#वाजिनीवसु)#}.{# रासभ#} 
 <ls>ṚV. 1, 34, 9.</ls> <ls n="ṚV. 1,">53, 5.</ls> 
 <ls>VS. 1, 29. 9. 8. 13, 48.</ls> 
 <ls>ŚAT. BR. 10, 6, 4, 1.</ls> {#गावो^ वा\जिनी^ः#} 
@@ -25,10 +25,10 @@
 <ls>H. 1233.</ls> 
 <ls>an. 2, 286.</ls> 
 <ls>HĀR. 52.</ls> 
-<ls>HALĀY. 2, 281. 1, 151.</ls> <ls>ŚAUNAKA</ls> in <ls>Z. f. vgl. Spr. 1, 442.</ls> <ls>M. 8, 209.</ls> <ls>Spr. 2771. 3746.</ls> <ls>MBH. 3, 1720. 2823. 15672.</ls> <ls>HARIV. 11253</ls> (wo mit der neueren Ausg. {#दृश्य वाजिनम्#} zu lesen ist). 
+<ls>HALĀY. 2, 281. 1, 151.</ls> <ls>ŚAUNAKA</ls> in Z. f. vgl. <ls>Spr. 1, 442.</ls> <ls>M. 8, 209.</ls> <ls>Spr. 2771. 3746.</ls> <ls>MBH. 3, 1720.</ls> <ls n="MBH. 3,">2823.</ls> <ls n="MBH. 3,">15672.</ls> <ls>HARIV. 11253</ls> (wo mit der neueren Ausg. {#दृश्य वाजिनम्#} zu lesen ist). 
 <ls>R. 1, 54, 12. 2, 39, 13. 40, 22. 91, 8. 92, 31.</ls> 
 <ls>RAGH. 3, 43.</ls> {#वाजिनीराजना#} 
-<ls>?4, 25. 67. ŚĀK. 8, v. l. 6, 5. 8, 14. VARĀH. BṚH. S. 2, 22. 5, 41. 18, 5. 42, 7. 66, 1. KATHĀS. 18, 96. 26, 85. 72, 52. RĀJA-TAR. 5, 143. BRAHMA-P. in LA. (III) 52, 12. PAÑCAT. 218, 7. Verz. d. B. H. No. 590.</ls> {#वाजिकर्मन्#} 
+<ls>4, 25. 67.</ls> <ls>ŚĀK. 8, v. l. 6, 5. 8, 14.</ls> <ls>VARĀH. BṚH. S. 2, 22. 5, 41. 18, 5. 42, 7. 66, 1.</ls> <ls>KATHĀS. 18, 96. 26, 85. 72, 52.</ls> <ls>RĀJA-TAR. 5, 143.</ls> <ls>BRAHMA-P. in LA. (III) 52, 12.</ls> <ls>PAÑCAT. 218, 7.</ls> <ls>Verz. d. B. H. No. 590.</ls> {#वाजिकर्मन्#} 
 <ls>Verz. d. Oxf. H. 86,b,21.</ls> {#वाजिनी#} {%Stute%} 
 <ls>HALĀY. 2, 285.</ls> Wie alle Worte für {%Pferd%} Bez. {%der Zahl sieben%} 
 <ls>GOLĀDHY. 7, 29.</ls> 
@@ -84,7 +84,7 @@
 <div n="1">— 7) {#वाजिनस्#} pl. so v. a. {#वाजसनेयिनस्#} {%die Schule des%} <is>Vājasaneya</is>, so genannt, weil die Sonne als {%Ross%} dem <is>Yājñavalkya</is> die {#अयातयामसंज्ञानि यजूंषि#} offenbarte, 
 <ls>VP.</ls> bei <ls>MUIR</ls> <ls>ST.3,32</ls> (<ls>VP. 281</ls>). <ls>Verz. d. Oxf. H. 55,a,30. fgg.</ls> 
 <div n="1">— 8) <lex>m.</lex> {%Adhadota Vasika Nees.%} 
-<ls>ŚABDAR.</ls> <ls>?(ŚABDAC. nach WILSON)</ls> im <ls>ŚKDR.</ls> 
+<ls>ŚABDAR.</ls> (<ls>ŚABDAC.</ls> nach <ls>WILSON)</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 9) {#वाजिनी#} <lex>f.</lex> 
 <div n="2"> a) {%Stute%} s. u. 1). 
 <div n="2">— b) = {#अश्वगन्धा#} {%Physalis flexuosa Lin.%} 

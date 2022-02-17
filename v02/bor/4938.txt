@@ -1,7 +1,7 @@
 <L>4938<pc>159<k1>cousin<k2>cousin
-<div n="lb"/>{@COUSIN:@}¦ <div n="1">(1) {#पितृव्यपुत्रः#} (f. {#त्री#}) (=father's bro-
-<div n="lb"/>-ther's child); </div><div n="1">(2) {#पितृस्वस्त्रीयः#} (f. {#या#}) (=f.
-<div n="lb"/>sister's c.); </div><div n="1">(3) {#मातृस्वस्त्रीयः#} (f. {#या#}) (=mother's
-<div n="lb"/>s. c.); </div><div n="1">(4) {#मातुलपुत्रः#} (f. {#त्री#}) (=m. bro-
-<div n="lb"/>-ther's c.).</div>
+{@COUSIN:@}¦ <div n="1">(1) {#पितृव्यपुत्रः#} (f. {#त्री#}) (=father's bro-
+-ther's child); </div><div n="1">(2) {#पितृस्वस्त्रीयः#} (f. {#या#}) (=f.
+sister's c.); </div><div n="1">(3) {#मातृस्वस्त्रीयः#} (f. {#या#}) (=mother's
+s. c.); </div><div n="1">(4) {#मातुलपुत्रः#} (f. {#त्री#}) (=m. bro-
+-ther's c.).</div>
 <LEND>

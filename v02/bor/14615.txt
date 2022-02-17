@@ -1,8 +1,8 @@
 <L>14615<pc>447<k1>milky<k2>milky
-<div n="lb"/>{@MILKY:@}¦ <div n="I">I Yielding milk: v. Milch. </div><div n="I">II
-<div n="lb"/>Relating to or made of m.: expr. by
-<div n="lb"/>comp.: <div n="xe">{%m. cake:%}</div> <div n="xs">{#दुग्धकूपा,#}</div> Bha. </div><div n="I">III Soft,
-<div n="lb"/>mild: q. v. Ph.: <div n="xe">{%m. juice:%}</div> <div n="xs">{#क्षीरम्;#}</div> {%m. trees:%}
-<div n="lb"/>{#क्षीरिणो महीरुहाः,#} Mah. s. 86. 15.; {%m. way:%}</div>
-<div n="lb"/><div n="1">(1) {#मन्दाकिनी;#} </div><div n="1">(2) {#स्वर्नदी;#} </div><div n="1">(3) {#आकाशगङ्गा।#}</div>
+{@MILKY:@}¦ <div n="I">I Yielding milk: v. Milch. </div><div n="I">II
+Relating to or made of m.: expr. by
+comp.: <div n="xe">{%m. cake:%}</div> <div n="xs">{#दुग्धकूपा,#}</div> Bha. </div><div n="I">III Soft,
+mild: q. v. Ph.: <div n="xe">{%m. juice:%}</div> <div n="xs">{#क्षीरम्;#}</div> {%m. trees:%}
+{#क्षीरिणो महीरुहाः,#} Mah. s. 86. 15.; {%m. way:%}</div>
+<div n="1">(1) {#मन्दाकिनी;#} </div><div n="1">(2) {#स्वर्नदी;#} </div><div n="1">(3) {#आकाशगङ्गा।#}</div>
 <LEND>

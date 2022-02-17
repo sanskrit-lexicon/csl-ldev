@@ -1,16 +1,16 @@
 <L>19451<pc>604<k1>root<k2>root
-<div n="lb"/>{@ROOT@}¦ (subs.): <div n="I">I Lit.: {#भूलम्,#} {%r. of a tree:%}
-<div n="lb"/>{#तरुमूलम्,#} Sa.; <div n="xe">{%a hurricane does not pluck up%}
-<div n="lb"/>{%grass by the r.:%}</div> <div n="xs">{#तृणानि नोन्मूलयति प्रभञ्जनः,#}</div> H. ii.
-<div n="lb"/>81. Ph.: <div n="xe">{%Fibrous r.:%}</div> <div n="xs">{#शिफा#}</div> <div n="xe">{%or%}</div> <div n="xs">{#जटा;#}</div> {%bulbous r.:%}
-<div n="lb"/>{#कन्द#} (mn.). </div><div n="I">II Fig.: {#मूलम्,#} {%the r. of faults:%}
-<div n="lb"/>{#मूलं दोषस्य,#} Ki. xi. 20.; <div n="xe">{%with pure progeny from%}
-<div n="lb"/>{%the r.:%}</div> <div n="xs">{#आमूलशुद्धसन्तति,#}</div> Sa. vi. 28.; <div n="xe">{%destroying%}
-<div n="lb"/>{%by the r.:%}</div> <div n="xs">{#समूलघातमघ्नन्तः,#}</div> Si. ii. 33.; <div n="xe">{%firmly%}
-<div n="lb"/>{%taken r.:%}</div> <div n="xs">{#स्थिरबद्धमूल#}</div> (f. {#ला#}), B. xi. 5.: v.
-<div n="lb"/>Also cause, source. </div><div n="I">III In arith.: {#मूलम्,#}
-<div n="lb"/><div n="xe">{%cube r.:%}</div> <div n="xs">{#घनमूलम्,#}</div> Li.; <div n="xe">{%to extract a r.:%}</div> <div n="xs">{#मूली-#}
-<div n="lb"/>{#करोति,#}</div> A.c. </div><div n="I">IV Of words: {#प्रकृतिः।#} Ph.:
-<div n="lb"/><div n="xe">{%verbal r.:%}</div> <div n="xs">{#धातुः;#}</div> <div n="xe">{%secondary r.:%}</div> <div n="xs">{#नामधातुः;#}</div> <div n="xe">{%names%}
-<div n="lb"/>{%are derived from r. s:%}</div> <div n="xs">{#नाम च धातुजम्,#}</div> Kāśikā.</div>
+{@ROOT@}¦ (subs.): <div n="I">I Lit.: {#भूलम्,#} {%r. of a tree:%}
+{#तरुमूलम्,#} Sa.; <div n="xe">{%a hurricane does not pluck up%}
+{%grass by the r.:%}</div> <div n="xs">{#तृणानि नोन्मूलयति प्रभञ्जनः,#}</div> H. ii.
+81. Ph.: <div n="xe">{%Fibrous r.:%}</div> <div n="xs">{#शिफा#}</div> <div n="xe">{%or%}</div> <div n="xs">{#जटा;#}</div> {%bulbous r.:%}
+{#कन्द#} (mn.). </div><div n="I">II Fig.: {#मूलम्,#} {%the r. of faults:%}
+{#मूलं दोषस्य,#} Ki. xi. 20.; <div n="xe">{%with pure progeny from%}
+{%the r.:%}</div> <div n="xs">{#आमूलशुद्धसन्तति,#}</div> Sa. vi. 28.; <div n="xe">{%destroying%}
+{%by the r.:%}</div> <div n="xs">{#समूलघातमघ्नन्तः,#}</div> Si. ii. 33.; <div n="xe">{%firmly%}
+{%taken r.:%}</div> <div n="xs">{#स्थिरबद्धमूल#}</div> (f. {#ला#}), B. xi. 5.: v.
+Also cause, source. </div><div n="I">III In arith.: {#मूलम्,#}
+<div n="xe">{%cube r.:%}</div> <div n="xs">{#घनमूलम्,#}</div> Li.; <div n="xe">{%to extract a r.:%}</div> <div n="xs">{#मूली-#}
+{#करोति,#}</div> A.c. </div><div n="I">IV Of words: {#प्रकृतिः।#} Ph.:
+<div n="xe">{%verbal r.:%}</div> <div n="xs">{#धातुः;#}</div> <div n="xe">{%secondary r.:%}</div> <div n="xs">{#नामधातुः;#}</div> <div n="xe">{%names%}
+{%are derived from r. s:%}</div> <div n="xs">{#नाम च धातुजम्,#}</div> Kāśikā.</div>
 <LEND>

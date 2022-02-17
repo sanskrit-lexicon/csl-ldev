@@ -1,4 +1,4 @@
 <L>12317<pc>383<k1>inquisition<k2>inquisition
-<div n="lb"/>{@INQUISITION:@}¦ <div n="I">I Enquiry, examination:
-<div n="lb"/>q.v.: {#परीक्षा।#} </div><div n="I">II A court: {#*पाषण्डसंयमसभा।#}</div>
+{@INQUISITION:@}¦ <div n="I">I Enquiry, examination:
+q.v.: {#परीक्षा।#} </div><div n="I">II A court: {#*पाषण्डसंयमसभा।#}</div>
 <LEND>

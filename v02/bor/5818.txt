@@ -1,5 +1,5 @@
 <L>5818<pc>186<k1>denominator<k2>denominator
-<div n="lb"/>{@DENOMINATOR:@}¦ <div n="I">I Lit.: {#नामकृत्।#} </div><div n="I">II In arith.:
-<div n="lb"/>{#छेदः,#} <div n="xe">{%having the same d.:%}</div> <div n="xs">{#समच्छेदः#}</div> ({#दा, दं#}),
-<div n="lb"/>Li.; <div n="xe">{%reduction to a common d.:%}</div> <div n="xs">{#सवर्णम्,#}</div> Li.</div>
+{@DENOMINATOR:@}¦ <div n="I">I Lit.: {#नामकृत्।#} </div><div n="I">II In arith.:
+{#छेदः,#} <div n="xe">{%having the same d.:%}</div> <div n="xs">{#समच्छेदः#}</div> ({#दा, दं#}),
+Li.; <div n="xe">{%reduction to a common d.:%}</div> <div n="xs">{#सवर्णम्,#}</div> Li.</div>
 <LEND>

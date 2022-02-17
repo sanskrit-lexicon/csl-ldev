@@ -1,4 +1,4 @@
 <L>6519<pc>209<k1>disputant<k2>disputant
-<div n="lb"/>{@DISPUTANT:@}¦ <div n="1">(1) {#विवदमानः#} ({#ना, नं#}); </div><div n="1">(2)
-<div n="lb"/>{#विवादिन्#} (f. {#नी#}).</div>
+{@DISPUTANT:@}¦ <div n="1">(1) {#विवदमानः#} ({#ना, नं#}); </div><div n="1">(2)
+{#विवादिन्#} (f. {#नी#}).</div>
 <LEND>

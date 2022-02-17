@@ -1,6 +1,6 @@
 <L>21677<pc>683<k1>struggle<k2>struggle
-<div n="lb"/>{@STRUGGLE@}¦ (subs.): <div n="I">I Contest: </div><div n="1">(1) {#युद्धम्#}
-<div n="lb"/>(= fighting); </div><div n="1">(2) {#विवादः#} (= quarrel). </div><div n="I">II
-<div n="lb"/>Great effort: </div><div n="1">(1) {#प्रयासः;#} </div><div n="1">(2) better by
-<div n="lb"/>circumlo.</div>
+{@STRUGGLE@}¦ (subs.): <div n="I">I Contest: </div><div n="1">(1) {#युद्धम्#}
+(= fighting); </div><div n="1">(2) {#विवादः#} (= quarrel). </div><div n="I">II
+Great effort: </div><div n="1">(1) {#प्रयासः;#} </div><div n="1">(2) better by
+circumlo.</div>
 <LEND>

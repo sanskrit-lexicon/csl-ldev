@@ -1,5 +1,5 @@
 <L>9564<pc>303<k1>furious<k2>furious
-<div n="lb"/>{@FURIOUS:@}¦ <div n="I">I Mad, violent: {#मत्तः#} ({#त्ता, त्तं#}), <div n="xe">{%f.%}
-<div n="lb"/>{%elephant:%}</div> <div n="xs">{#मत्तगजः।#}</div> </div><div n="I">II Strong, turbulent: q.v.:
-<div n="lb"/>{#चण्डः#} ({#ण्डा, ण्डां#}), <div n="xe">{%f. wind:%}</div> <div n="xs">{#चण्डवातः।#}</div></div>
+{@FURIOUS:@}¦ <div n="I">I Mad, violent: {#मत्तः#} ({#त्ता, त्तं#}), <div n="xe">{%f.%}
+{%elephant:%}</div> <div n="xs">{#मत्तगजः।#}</div> </div><div n="I">II Strong, turbulent: q.v.:
+{#चण्डः#} ({#ण्डा, ण्डां#}), <div n="xe">{%f. wind:%}</div> <div n="xs">{#चण्डवातः।#}</div></div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>18839<pc>581<k1>refreshment<k2>refreshment
-<div n="lb"/>{@REFRESHMENT:@}¦ <div n="I">I The act: </div><div n="1">(1) {#आश्वासनम्;#}</div>
-<div n="lb"/><div n="1">(2) {#प्रह्लादनम्#}: v. To refresh. </div><div n="I">II Food:
-<div n="lb"/>q. v.: {#अभ्यवहारः,#} <div n="xe">{%to take some r.:%}</div> <div n="xs">{#किञ्चिद् अभ्य-#}
-<div n="lb"/>{#वहरति;#}</div> <div n="xe">{%r. -room:%}</div> <div n="xs">{#*अभ्यवहारशाला।#}</div></div>
+{@REFRESHMENT:@}¦ <div n="I">I The act: </div><div n="1">(1) {#आश्वासनम्;#}</div>
+<div n="1">(2) {#प्रह्लादनम्#}: v. To refresh. </div><div n="I">II Food:
+q. v.: {#अभ्यवहारः,#} <div n="xe">{%to take some r.:%}</div> <div n="xs">{#किञ्चिद् अभ्य-#}
+{#वहरति;#}</div> <div n="xe">{%r. -room:%}</div> <div n="xs">{#*अभ्यवहारशाला।#}</div></div>
 <LEND>

@@ -1,12 +1,12 @@
 <L>8737<pc>277<k1>fill<k2>fill
-<div n="lb"/>{@FILL@}¦ (v.t.); <div n="I">I Lit.: </div><div n="1">(1) {#पूरयति, प्र-, परि-, सं-, #}
-<div n="lb"/>{# आ-, प्रति-,#} ({#पूर्,#} c. 10.), <div n="xe">{%f. -ing the pot with%}
-<div n="lb"/>{%water:%}</div> <div n="xs">{#वारिणा कमण्डलुमापूर्य,#}</div> K.; </div><div n="1">(2) {#बिभर्ति#} ({#भृ,#}
-<div n="lb"/>c. 1.) (rare), {%I%} ({%will%}) {%f. my prison with them:%}
-<div n="lb"/>{#तैर्भिभर्मि स्वकाराम्,#} Vi. </div><div n="I">II To cause to abound:
-<div n="lb"/>{#पूरयति, प्र-, परि-, सं-,#} {%being f. ed with ascetics:%}
-<div n="lb"/>{#पूर्यमाणं तपस्विभिः,#} R. i. 49. </div><div n="I">III To satisfy;
-<div n="lb"/>q.v.: {#पूरयति।#} </div><div n="I">IV Of office etc.: perh.
-<div n="lb"/>{#पूरयति,#} <div n="xe">{%to f. the throne:%}</div> <div n="xs">{#सिंहासनस्य प्रतिपूरणाय,#}</div>
-<div n="lb"/>R. xviii. 40.</div>
+{@FILL@}¦ (v.t.); <div n="I">I Lit.: </div><div n="1">(1) {#पूरयति, प्र-, परि-, सं-, #}
+{# आ-, प्रति-,#} ({#पूर्,#} c. 10.), <div n="xe">{%f. -ing the pot with%}
+{%water:%}</div> <div n="xs">{#वारिणा कमण्डलुमापूर्य,#}</div> K.; </div><div n="1">(2) {#बिभर्ति#} ({#भृ,#}
+c. 1.) (rare), {%I%} ({%will%}) {%f. my prison with them:%}
+{#तैर्भिभर्मि स्वकाराम्,#} Vi. </div><div n="I">II To cause to abound:
+{#पूरयति, प्र-, परि-, सं-,#} {%being f. ed with ascetics:%}
+{#पूर्यमाणं तपस्विभिः,#} R. i. 49. </div><div n="I">III To satisfy;
+q.v.: {#पूरयति।#} </div><div n="I">IV Of office etc.: perh.
+{#पूरयति,#} <div n="xe">{%to f. the throne:%}</div> <div n="xs">{#सिंहासनस्य प्रतिपूरणाय,#}</div>
+R. xviii. 40.</div>
 <LEND>

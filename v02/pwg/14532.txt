@@ -5,10 +5,10 @@
 <div n="2"> a) {%Hals, Kehle%} 
 <ls>AK. 2, 6, 2, 39.</ls> 
 <ls>TRIK. 3, 3, 106.</ls> 
-<ls>H. 588</ls> (nach dem 
-<ls>Sch.</ls> <ls>?auch n.). an. 2, 103. MED. ṭh. 2.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} und {#ई#} 
+<ls>H. 588</ls> (nach dem <ls>Sch.</ls> auch n.). 
+<ls n="H.">an. 2, 103.</ls> <ls>MED. ṭh. 2.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} und {#ई#} 
 <ls>KĀŚ.</ls> zu <ls>P. 4, 1, 54.</ls> Accent eines auf {#कण्ठ#} ausgehenden comp. 
-<ls>P. 6, 2, 114. -</ls> <ls>ŚAT. BR. 13, 3, 4, 3.</ls> <ls>KĀTY. ŚR. 16, 1, 18. 5, 1. 20, 8, 2.</ls> <ls>SUŚR. 1, 66, 16. 77, 16. 101, 12.</ls> {#कण्ठे वाबध्य वाससा#} 
+<ls>P. 6, 2, 114.</ls> - <ls>ŚAT. BR. 13, 3, 4, 3.</ls> <ls>KĀTY. ŚR. 16, 1, 18. 5, 1. 20, 8, 2.</ls> <ls>SUŚR. 1, 66, 16. 77, 16. 101, 12.</ls> {#कण्ठे वाबध्य वाससा#} 
 <ls>M. 11, 205.</ls> {#कण्ठग#} {%bis zum Halse reichend%} ({#आपः#}) 
 <ls>2, 62.</ls> {#कण्ठसज्जन#} {%das Hängen am Halse%} (der Opferschnur) 
 <ls>63.</ls> {#निवीतं कण्ठलम्बितम्#} 
@@ -43,7 +43,7 @@ u.s.w. <ls>3, 14694. 17179. 13, 4928. 4935. 4939.</ls> <ls>R. 5, 11, 23.</ls> <l
 <ls>112, 31.</ls> {#वाष्पापिहित°#} 
 <ls>100, 36.</ls> {#अश्रुचितौष्ठकण्ठी#} 
 <ls>5, 11, 23.</ls> {#वाष्पपूर्णेन कण्ठेन#} 
-<ls>?2, 66, 10 (GORR.).</ls> {#अश्रुकण्ठ#} {%mit Thränen im Halse%} 
+<ls>2, 66, 10</ls> (<ls>GORR.</ls>). {#अश्रुकण्ठ#} {%mit Thränen im Halse%} 
 <ls>2, 74, 28.</ls> <ls>ŚĀK. 107, 8.</ls> <ls>KATHĀS. 4, 132.</ls> {#मुक्तकण्ठो रुरोद ह#} {%aus vollem Halse%} 
 <ls>BHĀG. P. 1, 18, 38. 6, 14, 58.</ls> {#मुक्तकण्ठम्#} (adv.) — {#चक्रन्द#} 
 <ls>RAGH. 14, 68.</ls> 
@@ -59,7 +59,7 @@ u.s.w. <ls>3, 14694. 17179. 13, 4928. 4935. 4939.</ls> <ls>R. 5, 11, 23.</ls> <l
 <ls>SUŚR. 1, 370, 9.</ls> von der auf einem Stiele sitzenden {%Knospe%}: {#विकचसरसिजायाः स्तोकनिर्मुक्तकण्ठं निजमिव कमलिन्याः कर्कशं वृन्तजालम्#} ad 
 <ls>ŚĀK. 19.</ls> 
 <div n="2">— b) {%unmittelbare Nähe%} 
-<ls>H. </ls> <ls>an.</ls> <ls>MED.</ls>
+<ls>H. an.</ls> <ls>MED.</ls>
 [Page2-0035]
 {#वापीकण्ठोपगत#} 
 <ls>PAÑCAT. 247, 14.</ls> Hierher gehört auch die Bed. {%der an eine Feuergrube%} (s. {#कुण्ड#}) {%angrenzende Raum bis zur Entfernung von einer Fingerdicke%}: {#खाताद्बाह्यो ऽङ्गुलः कण्ठः सर्वकुण्डेष्वयं विधिः#} 

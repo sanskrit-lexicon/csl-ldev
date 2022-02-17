@@ -1,6 +1,6 @@
 <L>6289<pc>202<k1>disciple<k2>disciple
-<div n="lb"/>{@DISCIPLE:@}¦ <div n="1">(1) {#शिष्य#} (f. {#ष्या#}), <div n="xe">{%dialogue between a%}
-<div n="lb"/>{%preceptor and his d.%}</div> <div n="xs">{#गुरुशिष्यसंवादः;#}</div> Mah.; </div><div n="1">(2)
-<div n="lb"/>{#अन्तेवासिन्#} (f. {#नी#}) (rare), <div n="xe">{%of her d.:%}</div> <div n="xs">{#तदन्तेवासि-#}
-<div n="lb"/>{#न्याः,#}</div> Mah.</div>
+{@DISCIPLE:@}¦ <div n="1">(1) {#शिष्य#} (f. {#ष्या#}), <div n="xe">{%dialogue between a%}
+{%preceptor and his d.%}</div> <div n="xs">{#गुरुशिष्यसंवादः;#}</div> Mah.; </div><div n="1">(2)
+{#अन्तेवासिन्#} (f. {#नी#}) (rare), <div n="xe">{%of her d.:%}</div> <div n="xs">{#तदन्तेवासि-#}
+{#न्याः,#}</div> Mah.</div>
 <LEND>

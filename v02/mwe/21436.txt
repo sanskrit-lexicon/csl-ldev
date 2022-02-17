@@ -1,6 +1,6 @@
 <L>21436<pc>566-a<k1>packet<k2>packet
-<div n="lb"/>PACKET¦, {%s.%} (Small package) {#कूर्च्चः, पोटलिका, पोट्टली, समुद्गका#}. — 
-<div n="lb"/>(Ship employed in carrying dispatches) {#पत्रवाहिनी नौः,#}
-<div n="lb"/>{#राजपत्रवाहका नौः, लेखहारिणी नौका, वेगवती नौका;#} ‘steam-
-<div n="lb"/>packet,’ {#वाष्यीयनौः#} {%f.%}
+PACKET¦, {%s.%} (Small package) {#कूर्च्चः, पोटलिका, पोट्टली, समुद्गका#}. — 
+(Ship employed in carrying dispatches) {#पत्रवाहिनी नौः,#}
+{#राजपत्रवाहका नौः, लेखहारिणी नौका, वेगवती नौका;#} ‘steam-
+packet,’ {#वाष्यीयनौः#} {%f.%}
 <LEND>

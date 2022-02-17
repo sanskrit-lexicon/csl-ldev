@@ -1,9 +1,9 @@
 <L>2437<pc>083<k1>box<k2>box
-<div n="lb"/>{@BOX@}¦ (subs.): <div n="I">I A chest, etc.: </div><div n="1">(1) {#पेटिका;#} </div><div n="1">(2) [Page084]
-<div n="lb"/>{#समुद्गः, -कः;#} </div><div n="1">(3) {#सम्पुटः, -कः।#} </div><div n="I">II An enclosed
-<div n="lb"/>space with seats in a theatre: {#*कोष्ठः#} {%or%}
-<div n="lb"/>{#निभृतकोष्ठः।#} </div><div n="I">III The driver's seat on a
-<div n="lb"/>carriage; {#सूतासनम्#} (?). </div><div n="I">IV A tree; {#वृक्षविशेषः।#}
-<div n="lb"/>v. A blow: q. v.: {#मुष्टिप्रहारः।#} </div><div n="I">VI A present:
-<div n="lb"/>q. v.</div>
+{@BOX@}¦ (subs.): <div n="I">I A chest, etc.: </div><div n="1">(1) {#पेटिका;#} </div><div n="1">(2) [Page084]
+{#समुद्गः, -कः;#} </div><div n="1">(3) {#सम्पुटः, -कः।#} </div><div n="I">II An enclosed
+space with seats in a theatre: {#*कोष्ठः#} {%or%}
+{#निभृतकोष्ठः।#} </div><div n="I">III The driver's seat on a
+carriage; {#सूतासनम्#} (?). </div><div n="I">IV A tree; {#वृक्षविशेषः।#}
+v. A blow: q. v.: {#मुष्टिप्रहारः।#} </div><div n="I">VI A present:
+q. v.</div>
 <LEND>

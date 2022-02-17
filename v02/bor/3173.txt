@@ -1,5 +1,5 @@
 <L>3173<pc>106<k1>cassia<k2>cassia
-<div n="lb"/>{@CASSIA:@}¦ <div n="1">(1) {#गन्धवल्कलः, -वृक्षः#} (=laurus c.);</div>
-<div n="lb"/><div n="1">(2) {#दद्रुघ्नः#} <div n="xe">{%or%}</div> <div n="xs">{#चक्रमर्दः#}</div> (c. tora) {%C. -bark:%} </div><div n="1">(1)
-<div n="lb"/>{#गन्धवल्कलम्;#} </div><div n="1">(2) {#गुडत्वच्#} (n.).</div>
+{@CASSIA:@}¦ <div n="1">(1) {#गन्धवल्कलः, -वृक्षः#} (=laurus c.);</div>
+<div n="1">(2) {#दद्रुघ्नः#} <div n="xe">{%or%}</div> <div n="xs">{#चक्रमर्दः#}</div> (c. tora) {%C. -bark:%} </div><div n="1">(1)
+{#गन्धवल्कलम्;#} </div><div n="1">(2) {#गुडत्वच्#} (n.).</div>
 <LEND>

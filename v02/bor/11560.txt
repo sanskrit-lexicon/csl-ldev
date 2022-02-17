@@ -1,4 +1,4 @@
 <L>11560<pc>361<k1>imitable<k2>imitable
-<div n="lb"/>{@IMITABLE:@}¦ {#अनुकरणीयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#अनुकार्य#}</div> ({%f.%} {#र्या#});
-<div n="lb"/>better by verb.
+{@IMITABLE:@}¦ {#अनुकरणीयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#अनुकार्य#}</div> ({%f.%} {#र्या#});
+better by verb.
 <LEND>

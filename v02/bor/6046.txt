@@ -1,4 +1,4 @@
 <L>6046<pc>194<k1>devastation<k2>devastation
-<div n="lb"/>{@DEVASTATION:@}¦ <div n="1">(1) {#उच्छेदः, सम्-,#} </div><div n="1">(2) {#उत्सादनम्;#}</div>
-<div n="lb"/><div n="1">(3) {#अवमर्दः।#}</div>
+{@DEVASTATION:@}¦ <div n="1">(1) {#उच्छेदः, सम्-,#} </div><div n="1">(2) {#उत्सादनम्;#}</div>
+<div n="1">(3) {#अवमर्दः।#}</div>
 <LEND>

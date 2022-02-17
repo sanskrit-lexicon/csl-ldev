@@ -1,15 +1,15 @@
 <L>3852<pc>126<k1>close<k2>close
-<div n="lb"/>{@CLOSE@}¦ (adj.): <div n="I">I Shut fast: </div><div n="1">(1) {#पिहितः#} ({#ता, #}
-<div n="lb"/>{# तं#}); </div><div n="1">(2) {#संवृतः#} ({#ता, तं#}); </div><div n="1">(3) {#बद्धः#} ({#द्धा, द्धं#})
-<div n="lb"/>(=bound). </div><div n="I">II Secret, retired: q. v.:
-<div n="lb"/>{#विविक्तः#} ({#क्ता, क्तं#}). </div><div n="I">III Confined, as air: {#निरुद्धः#}
-<div n="lb"/>({#द्धा, द्धं#}). </div><div n="I">IV Reticent, taciturn: q. v. V.
-<div n="lb"/>Niggardly: q. v.: {#बद्धमुष्टि#} (mfn.). </div><div n="I">VI Dense,
-<div n="lb"/>compact: q. v.: {#घनः#} ({#ना, नं#}). </div><div n="I">VII Ad-
-<div n="lb"/>-joining, near: q. v.: {#सन्निहितः#} ({#ता, तं#}), <div n="xe">{%are%}
-<div n="lb"/>{%always c. at hand:%}</div> <div n="xs">{#हस्ते नित्यसान्निध्यानि,#}</div> D. </div><div n="I">VIII
-<div n="lb"/>Of style: v. Concise. </div><div n="I">IX Intimate: </div><div n="1">(1)
-<div n="lb"/>{#घनः#} ({#ना, नं#}); </div><div n="1">(2) {#निविडः#} ({#डा, डं#}), <div n="xe">{%very c.%}
-<div n="lb"/>{%friendship:%}</div> <div n="xs">{#निविडतमा मैत्री,#}</div> Bha. </div><div n="I">X Accurate,
-<div n="lb"/>careful: q. v.</div>
+{@CLOSE@}¦ (adj.): <div n="I">I Shut fast: </div><div n="1">(1) {#पिहितः#} ({#ता, #}
+{# तं#}); </div><div n="1">(2) {#संवृतः#} ({#ता, तं#}); </div><div n="1">(3) {#बद्धः#} ({#द्धा, द्धं#})
+(=bound). </div><div n="I">II Secret, retired: q. v.:
+{#विविक्तः#} ({#क्ता, क्तं#}). </div><div n="I">III Confined, as air: {#निरुद्धः#}
+({#द्धा, द्धं#}). </div><div n="I">IV Reticent, taciturn: q. v. V.
+Niggardly: q. v.: {#बद्धमुष्टि#} (mfn.). </div><div n="I">VI Dense,
+compact: q. v.: {#घनः#} ({#ना, नं#}). </div><div n="I">VII Ad-
+-joining, near: q. v.: {#सन्निहितः#} ({#ता, तं#}), <div n="xe">{%are%}
+{%always c. at hand:%}</div> <div n="xs">{#हस्ते नित्यसान्निध्यानि,#}</div> D. </div><div n="I">VIII
+Of style: v. Concise. </div><div n="I">IX Intimate: </div><div n="1">(1)
+{#घनः#} ({#ना, नं#}); </div><div n="1">(2) {#निविडः#} ({#डा, डं#}), <div n="xe">{%very c.%}
+{%friendship:%}</div> <div n="xs">{#निविडतमा मैत्री,#}</div> Bha. </div><div n="I">X Accurate,
+careful: q. v.</div>
 <LEND>

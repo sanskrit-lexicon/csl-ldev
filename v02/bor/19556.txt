@@ -1,7 +1,7 @@
 <L>19556<pc>608<k1>run<k2>run
-<div n="lb"/>{@RUN@}¦ (v. t.): <div n="I">I Lit.: {#धावयति, सं-#} (c. of {#धाव्#}),
-<div n="lb"/><div n="xe">{%if I ride and r. you:%}</div> <div n="xs">{#यद्यहं तव पृष्ठे समारुह्य धावयामि,#}</div>
-<div n="lb"/>P. iv. 7. </div><div n="I">II To cause to go, move: {#चालयति, #}
-<div n="lb"/>{# सं-,#} (c. of {#चल्#}). </div><div n="I">III To drive: q. v.:
-<div n="lb"/>{#वाहयति#} (c. of {#वह#}).</div>
+{@RUN@}¦ (v. t.): <div n="I">I Lit.: {#धावयति, सं-#} (c. of {#धाव्#}),
+<div n="xe">{%if I ride and r. you:%}</div> <div n="xs">{#यद्यहं तव पृष्ठे समारुह्य धावयामि,#}</div>
+P. iv. 7. </div><div n="I">II To cause to go, move: {#चालयति, #}
+{# सं-,#} (c. of {#चल्#}). </div><div n="I">III To drive: q. v.:
+{#वाहयति#} (c. of {#वह#}).</div>
 <LEND>

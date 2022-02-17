@@ -1,4 +1,4 @@
 <L>22573<pc>712<k1>till<k2>till
-<div n="lb"/>{@TILL@}¦ (prep.): v. Until. <div n="xe">{%T. now:%}</div> <div n="xs">{#अद्यावधि;#}</div>
-<div n="lb"/><div n="xe">{%t. death:%}</div> <div n="xs">{#आ मृत्योः।#}</div>
+{@TILL@}¦ (prep.): v. Until. <div n="xe">{%T. now:%}</div> <div n="xs">{#अद्यावधि;#}</div>
+<div n="xe">{%t. death:%}</div> <div n="xs">{#आ मृत्योः।#}</div>
 <LEND>

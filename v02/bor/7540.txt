@@ -1,5 +1,5 @@
 <L>7540<pc>238<k1>encouragement<k2>encouragement
-<div n="lb"/>{@ENCOURAGEMENT:@}¦ <div n="1">(1) {#आश्वासः, -नम्,#} <div n="xe">{%it found no%}
-<div n="lb"/>{%e. from the public:%}</div> <div n="xs">{#*साधारण्यादाश्वासं न लेभे;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#प्रोत्साहः, -नम्,:#} <div n="xe">{%“with good e.”%}</div> <div n="xs">{#सुप्रोत्साहनेन।#}</div></div>
+{@ENCOURAGEMENT:@}¦ <div n="1">(1) {#आश्वासः, -नम्,#} <div n="xe">{%it found no%}
+{%e. from the public:%}</div> <div n="xs">{#*साधारण्यादाश्वासं न लेभे;#}</div> </div><div n="1">(2)
+{#प्रोत्साहः, -नम्,:#} <div n="xe">{%“with good e.”%}</div> <div n="xs">{#सुप्रोत्साहनेन।#}</div></div>
 <LEND>

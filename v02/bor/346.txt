@@ -1,5 +1,5 @@
 <L>346<pc>014<k1>adventitious<k2>adventitious
-<div n="lb"/>{@ADVENTITIOUS:@}¦ <div n="1">(1) {#आहार्यः#} ({#र्या, र्यं#}); </div><div n="1">(2)
-<div n="lb"/>{#आगन्तुकः#} ({#की, कं#}); </div><div n="1">(3) {#बाह्यः#} ({#ह्या, ह्यं#})
-<div n="lb"/>(=external: q. v.).</div>
+{@ADVENTITIOUS:@}¦ <div n="1">(1) {#आहार्यः#} ({#र्या, र्यं#}); </div><div n="1">(2)
+{#आगन्तुकः#} ({#की, कं#}); </div><div n="1">(3) {#बाह्यः#} ({#ह्या, ह्यं#})
+(=external: q. v.).</div>
 <LEND>

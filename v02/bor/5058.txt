@@ -1,9 +1,9 @@
 <L>5058<pc>163<k1>crescent<k2>crescent
-<div n="lb"/>{@CRESCENT@}¦ (subs.): <div n="I">I Of the moon: </div><div n="1">(1) {#अर्ध-#}
-<div n="lb"/>{#चन्द्रः#} (=half moon); </div><div n="1">(2) {#वर्धमाना चान्द्रमसी #}
-<div n="lb"/>{# लेखा,#} Ku. or sim. {#शशाङ्कलेखा,#} and sim. comp. s.</div>
-<div n="lb"/><div n="I">II The Turkish flag: {#अर्धचन्द्रकेतनम्।#} </div><div n="I">III
-<div n="lb"/>The Turkish power: {#अर्धचन्द्रकेतनास्तुरस्काः#}
-<div n="lb"/>(m. pl.). </div><div n="I">IV Anything c. -shaped: {#अर्ध-#}
-<div n="lb"/>{#चन्द्रः।#}</div>
+{@CRESCENT@}¦ (subs.): <div n="I">I Of the moon: </div><div n="1">(1) {#अर्ध-#}
+{#चन्द्रः#} (=half moon); </div><div n="1">(2) {#वर्धमाना चान्द्रमसी #}
+{# लेखा,#} Ku. or sim. {#शशाङ्कलेखा,#} and sim. comp. s.</div>
+<div n="I">II The Turkish flag: {#अर्धचन्द्रकेतनम्।#} </div><div n="I">III
+The Turkish power: {#अर्धचन्द्रकेतनास्तुरस्काः#}
+(m. pl.). </div><div n="I">IV Anything c. -shaped: {#अर्ध-#}
+{#चन्द्रः।#}</div>
 <LEND>

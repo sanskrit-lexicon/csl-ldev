@@ -1,17 +1,17 @@
 <L>35615<pc>0712-c<k1>भुज्<k2>भुज्<h>1
 {#भुज्#} 1¦. {%bhuj,%} cl. 6. P. {%bhujati, bubhoja,%}
-<div n="lb"/>{%bhoktum,%} to bend, curve, turn round,
-<div n="lb"/>make crooked: Pass. {%bhujyate,%} to be bent, to
-<div n="lb"/>incline one's self; [cf. Gr. <lang n="greek">φεύγ-ω, φυγ-ή, φύζα,</lang>
-<div n="lb"/><lang n="greek">φυγἀ-ς, φύξ-ις, φύξι-μο-ς,</lang> probably <lang n="greek">φυγών</lang> from
-<div n="lb"/><lang n="greek">φυγών:</lang> Lat. <nsi>fug-i-o, fug-a, fug-ax, fugitivu-s,</nsi>
-<div n="lb"/><nsi>fugare:</nsi> Goth. <nsi>biug-an:</nsi> Angl. Sax. <nsi>big-an,</nsi>
-<div n="lb"/><nsi>bug-an, beág, beagrian, boga, eln-boga, el-</nsi>
-<div n="lb"/><nsi>boga:</nsi> Old Germ. <nsi>baug, bogo, elin-bogo, buoc,</nsi>
-<div n="lb"/><nsi>būh:</nsi> Mod. Germ. <nsi>bieg-en:</nsi> Eng. <nsi>bow, elbow:</nsi>
-<div n="lb"/>Slav. <nsi>be†g-a,</nsi> ‘I flee;’ <nsi>be†g-l-ĭ-c-ĭ,</nsi> ‘a deserter:’ Lith.
-<div n="lb"/><nsi>be†g-u,</nsi> ‘I flee, run;’ <nsi>bug-ti,</nsi> ‘to be afraid;’ <nsi>baug-</nsi>
-<div n="lb"/><nsi>ù-s,</nsi> ‘fearful, timid:’ Hib. <nsi>bog-aim,</nsi> ‘I put in
-<div n="lb"/>motion;’ <nsi>bogha,</nsi> ‘bow;’ <nsi>boghaighim,</nsi> ‘I bend;’
-<div n="lb"/><nsi>boghadoir,</nsi> ‘an archer.’]
+{%bhoktum,%} to bend, curve, turn round,
+make crooked: Pass. {%bhujyate,%} to be bent, to
+incline one's self; [cf. Gr. <lang n="greek">φεύγ-ω, φυγ-ή, φύζα,</lang>
+<lang n="greek">φυγἀ-ς, φύξ-ις, φύξι-μο-ς,</lang> probably <lang n="greek">φυγών</lang> from
+<lang n="greek">φυγών:</lang> Lat. <nsi>fug-i-o, fug-a, fug-ax, fugitivu-s,</nsi>
+<nsi>fugare:</nsi> Goth. <nsi>biug-an:</nsi> Angl. Sax. <nsi>big-an,</nsi>
+<nsi>bug-an, beág, beagrian, boga, eln-boga, el-</nsi>
+<nsi>boga:</nsi> Old Germ. <nsi>baug, bogo, elin-bogo, buoc,</nsi>
+<nsi>būh:</nsi> Mod. Germ. <nsi>bieg-en:</nsi> Eng. <nsi>bow, elbow:</nsi>
+Slav. <nsi>be†g-a,</nsi> ‘I flee;’ <nsi>be†g-l-ĭ-c-ĭ,</nsi> ‘a deserter:’ Lith.
+<nsi>be†g-u,</nsi> ‘I flee, run;’ <nsi>bug-ti,</nsi> ‘to be afraid;’ <nsi>baug-</nsi>
+<nsi>ù-s,</nsi> ‘fearful, timid:’ Hib. <nsi>bog-aim,</nsi> ‘I put in
+motion;’ <nsi>bogha,</nsi> ‘bow;’ <nsi>boghaighim,</nsi> ‘I bend;’
+<nsi>boghadoir,</nsi> ‘an archer.’]
 <LEND>

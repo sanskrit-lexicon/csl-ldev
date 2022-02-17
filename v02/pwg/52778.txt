@@ -50,7 +50,7 @@
 <ls>MBH. 3, 15359.</ls> 
 <ls>VP.</ls> bei <ls>MUIR, ST. I, 149, N. 75.</ls> {#°स्तम्भ, °स्तम्भन#} 
 <ls>Verz. d. Oxf. H. No. 758.</ls> {#°पोषण#} 
-<ls>Verz. d. B. H. 278, 7 v. u.</ls> 
+<ls>Verz. d. B. H. 278, 7</ls> v. u. 
 <div n="2">— b) uneig. {%Keim, Element, Anfang, Entstehungsgrund%} 
 <ls>AK. 1, 1, 4, 6.</ls> 
 <ls>TRIK. 3, 3, 87.</ls> 
@@ -69,10 +69,10 @@
 <ls>Spr. 2595.</ls> {#तद्धि वीजमिहापदाम्#} 
 <ls>KATHĀS. 15, 134.</ls> {#भाष्यवीजानुसारिन्#} 
 <ls>Ind. St. 5, 160, 1.</ls> 
-<ls>HAEB. Anth. 410,</ls> <ls>Śl. 3.</ls> <ls>PRAB. 10, 11. 70, 1. 93, 7.</ls> {#एतन्नानावताराणां निधानं वीजमव्ययम्#} 
+<ls>HAEB. Anth. 410, Śl. 3.</ls> <ls>PRAB. 10, 11. 70, 1. 93, 7.</ls> {#एतन्नानावताराणां निधानं वीजमव्ययम्#} 
 <ls>BHĀG. P. 1, 3, 5</ls> (citirt von 
 <ls>NĪLAK.</ls> bei <ls>MUIR, ST. IV, 221). 17, 18. 2, 1, 17. 3, 28, 1. 5, 6, 1. 7, 10, 3.</ls> {#पुरुषायादिवीजाय#} 
-<ls>?8, 3, 2. Schol. zu JAIM. 1, 2.</ls> {%der Keim%} eines Gedichts, eines Zauberspruchs u. s. w., aus dem sich das Uebrige entwickelt, 
+<ls>8, 3, 2. Schol.</ls> zu <ls>JAIM. 1, 2.</ls> {%der Keim%} eines Gedichts, eines Zauberspruchs u. s. w., aus dem sich das Uebrige entwickelt, 
 <ls>R.1,3,1.</ls> <ls>BHĀG. P. I Einl. LXX, N. 1.</ls> <ls>Verz. d. Oxf. H. 4,a ( No. 28). 104,b,10. fg. No. 161.</ls> <ls>Verz. d. B. H. No. 1289. 1350.</ls> eines Dramas 
 <ls>DAŚAR.1,16. 23. 26. 33. 39. 46.3,3.</ls> <ls>PRATĀPAR. 20,b,9.</ls> 
 <div n="2">— c) {%Analysis, Algebra%} 
@@ -94,6 +94,6 @@
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 2) <lex>m.</lex> = {#बीजक, बीजपूरक#} {%Citronenbaum%} 
 <ls>ĀRYABHAṬṬA</ls> in Journ. of the Am. Or. 
-<ls>?S. 6, 558, 6 und COLEBR. Alg. 315.</ls> 
+<ls>S. 6, 558, 6</ls> und <ls>COLEBR. Alg. 315.</ls> 
 <div n="v">— Vgl. {#अवीज, अग्रवीज, ज्योतिर्वीज, पद्मबीज, पीतबीजा, पुष्करबीज, पूर्ण°, वह्नि°#} .
 <LEND>

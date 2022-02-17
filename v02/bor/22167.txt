@@ -1,4 +1,4 @@
 <L>22167<pc>699<k1>talc<k2>talc
-<div n="lb"/>{@TALC:@}¦ <div n="1">(1) {#अभ्रम्, -कम्,#} <div n="xe">{%calx of t.:%}</div> <div n="xs">{#अभ्र्तकभस्मन्#}</div> (n.);</div>
-<div n="lb"/><div n="1">(2) {#अम्बरम्;#} </div><div n="1">(3) {#गिरिजम्।#}</div>
+{@TALC:@}¦ <div n="1">(1) {#अभ्रम्, -कम्,#} <div n="xe">{%calx of t.:%}</div> <div n="xs">{#अभ्र्तकभस्मन्#}</div> (n.);</div>
+<div n="1">(2) {#अम्बरम्;#} </div><div n="1">(3) {#गिरिजम्।#}</div>
 <LEND>

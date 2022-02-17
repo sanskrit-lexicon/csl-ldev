@@ -5,7 +5,7 @@
 <ls>ṚV. 8, 6, 41.</ls> <ls n="ṚV.">10, 14, 15.</ls> 
 <ls>VS. 16, 32.</ls> 
 <ls>M. 9, 31.</ls> die <is>Aśvin</is> 
-<ls>MBH. 1, 722. <is>Viṣṇu</is></ls> 
+<ls>MBH. 1, 722.</ls> <is>Viṣṇu</is>
 <ls>VP. 2.</ls> 
 <ls>BHĀG. P. 2, 5, 1. 7, 10, 25.</ls> {#°देव#} <is>Brahman</is> 
 <ls>MBH. 1, 7284.</ls> {#भ्रातृव्य#} 
@@ -15,11 +15,11 @@
 <ls>H. 551.</ls> 
 <ls>HALĀY. 2, 351.</ls> 
 <ls>M. 2, 226. 3, 171. 9, 122. fg.</ls> 
-<ls>MBH. 3, 10881. 6, 5432. 14, 162.</ls> 
-<ls>HARIV. 563. 565.</ls> 
+<ls>MBH. 3, 10881.</ls> <ls n="MBH.">6, 5432.</ls> <ls n="MBH.">14, 162.</ls> 
+<ls>HARIV. 563.</ls> <ls n="HARIV.">565.</ls> 
 <ls>R. 1, 35, 7. 2, 37, 26. 50, 1. 110, 36.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 52, 11. 6, 16, 1.</ls> 
+
+<ls>R. GORR. 2, 52, 11. 6, 16, 1.</ls> 
 <ls>RAGH. 15, 36.</ls> 
 <ls>RĀJA-TAR. 3, 104.</ls> {#इक्ष्वाकुपूर्वजान्पुत्रान्#} {%unter denen%} <is>Ikṣv</is>. {%der Aelteste war%} 
 <ls>BHĀG. P. 9, 2, 2.</ls> {%Vorfahr, Ahn%}; sg. 

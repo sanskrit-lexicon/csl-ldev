@@ -1,5 +1,5 @@
 <L>2995<pc>101<k1>canon<k2>canon
-<div n="lb"/>{@CANON:@}¦ <div n="I">I A rule: </div><div n="1">(1) {#विधिः;#} </div><div n="1">(2) {#व्यवस्था।#} <div n="xe">{%C.%}
-<div n="lb"/>{%law:%}</div> <div n="xs">{#*पोप-प्रचारितधर्मसंहिता।#}</div> </div><div n="I">II An ecclesias-
-<div n="lb"/>-tical dignitary: {#धर्मोपासकविशेषः।#}</div>
+{@CANON:@}¦ <div n="I">I A rule: </div><div n="1">(1) {#विधिः;#} </div><div n="1">(2) {#व्यवस्था।#} <div n="xe">{%C.%}
+{%law:%}</div> <div n="xs">{#*पोप-प्रचारितधर्मसंहिता।#}</div> </div><div n="I">II An ecclesias-
+-tical dignitary: {#धर्मोपासकविशेषः।#}</div>
 <LEND>

@@ -1,13 +1,13 @@
 <L>19555<pc>608<k1>run<k2>run
-<div n="lb"/>{@RUN@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#धावति, प्र-, परि-#} ({#धाव्,#}
-<div n="lb"/>c. 1.), <div n="xe">{%r. ning through the skies:%}</div> <div n="xs">{#गीर्वाणवर्त्मणा #}
-<div n="lb"/>{# धावन्,#}</div> K. ii.; </div><div n="1">(2) {#द्रवति, वि-,#} ({#द्रु,#} c. 1.), <div n="xe">{%they%}
-<div n="lb"/>{%ran out of fear:%}</div> <div n="xs">{#दुद्रुवुस्ते भयात्,#}</div> Mah. </div><div n="I">II To
-<div n="lb"/>go, pass: </div><div n="1">(1) {#गच्छति#} ({#गम्,#} c. 1.): v. To
-<div n="lb"/>go; </div><div n="1">(2) {#धावति#} (rare), <div n="xe">{%for the road which runs%}
-<div n="lb"/>{%to it:%}</div> <div n="xs">{#अध्वने तत्र धाविते,#}</div> N. xvii. 114.;</div>
-<div n="lb"/><div n="1">(3) {#वहति#} ({#वह्,#} c. 1.), <div n="xe">{%which r.s through%}
-<div n="lb"/>{%Kalinda:%}</div> <div n="xs">{#कलिन्दान्तरवाहिनी,#}</div> Mat.: v. To flow.</div>
-<div n="lb"/><div n="I">III To melt: q. v.: {#द्रवति।#} Ph.: {%r. to seed:%}
-<div n="lb"/>{#बीजानि भवन्ति#} (with gen.).</div>
+{@RUN@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#धावति, प्र-, परि-#} ({#धाव्,#}
+c. 1.), <div n="xe">{%r. ning through the skies:%}</div> <div n="xs">{#गीर्वाणवर्त्मणा #}
+{# धावन्,#}</div> K. ii.; </div><div n="1">(2) {#द्रवति, वि-,#} ({#द्रु,#} c. 1.), <div n="xe">{%they%}
+{%ran out of fear:%}</div> <div n="xs">{#दुद्रुवुस्ते भयात्,#}</div> Mah. </div><div n="I">II To
+go, pass: </div><div n="1">(1) {#गच्छति#} ({#गम्,#} c. 1.): v. To
+go; </div><div n="1">(2) {#धावति#} (rare), <div n="xe">{%for the road which runs%}
+{%to it:%}</div> <div n="xs">{#अध्वने तत्र धाविते,#}</div> N. xvii. 114.;</div>
+<div n="1">(3) {#वहति#} ({#वह्,#} c. 1.), <div n="xe">{%which r.s through%}
+{%Kalinda:%}</div> <div n="xs">{#कलिन्दान्तरवाहिनी,#}</div> Mat.: v. To flow.</div>
+<div n="I">III To melt: q. v.: {#द्रवति।#} Ph.: {%r. to seed:%}
+{#बीजानि भवन्ति#} (with gen.).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>14128<pc>434<k1>manifold<k2>manifold
-<div n="lb"/>{@MANIFOLD:@}¦ <div n="I">I Various: </div><div n="1">(1) {#नानाविधः#} ({#धा, धं#});</div>
-<div n="lb"/><div n="1">(2) {#विविधः#} ({#धा, धं#}); </div><div n="1">(3) {#बहुविधः#} ({#धा, धं#});</div>
-<div n="lb"/><div n="1">(4) {#बहुप्रकारः#} ({#रा, रं#}); etc. </div><div n="I">II Lit.: {#बहुवारान्#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#अनेकवारान्#}</div> (adv.).</div>
+{@MANIFOLD:@}¦ <div n="I">I Various: </div><div n="1">(1) {#नानाविधः#} ({#धा, धं#});</div>
+<div n="1">(2) {#विविधः#} ({#धा, धं#}); </div><div n="1">(3) {#बहुविधः#} ({#धा, धं#});</div>
+<div n="1">(4) {#बहुप्रकारः#} ({#रा, रं#}); etc. </div><div n="I">II Lit.: {#बहुवारान्#}
+<div n="xe">{%or%}</div> <div n="xs">{#अनेकवारान्#}</div> (adv.).</div>
 <LEND>

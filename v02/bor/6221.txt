@@ -1,11 +1,11 @@
 <L>6221<pc>199<k1>direct<k2>direct
-<div n="lb"/>{@DIRECT@}¦ (v. t.): <div n="I">I To aim, point: {#लक्षीकरोति।#} [Page200]
-<div n="lb"/>Ph.: <div n="xe">{%d. ing the mind:%}</div> <div n="xs">{#मनः समाधाय,#}</div> Ki. </div><div n="I">II
-<div n="lb"/>To manage, govern: q. v.: {#शास्ति#} ({#शास्,#} c. 2.).</div>
-<div n="lb"/><div n="I">III To guide: {#दिशति, निर्-, आ-, उप-, प्र-,#}
-<div n="lb"/>({#दिश।#} c. 6.), <div n="xe">{%who would d. the way to Suvarṇa-%}
-<div n="lb"/>{%pura:%}</div> <div n="xs">{#यः सुत्रर्णपुरपन्थानमुपदेक्ष्यति,#}</div> K. IV. To
-<div n="lb"/>order: q. v.: {#नियंक्ते, वि-,#} ({#युज,#} c. 7.), <div n="xe">{%d. me%}
-<div n="lb"/>{%what I shall give:%}</div> <div n="xs">{#प्रयच्छामि कमर्थं विनियुंक्ष्व माम्,#}</div>
-<div n="lb"/>Mah. v. To superscribe: q. v.</div>
+{@DIRECT@}¦ (v. t.): <div n="I">I To aim, point: {#लक्षीकरोति।#} [Page200]
+Ph.: <div n="xe">{%d. ing the mind:%}</div> <div n="xs">{#मनः समाधाय,#}</div> Ki. </div><div n="I">II
+To manage, govern: q. v.: {#शास्ति#} ({#शास्,#} c. 2.).</div>
+<div n="I">III To guide: {#दिशति, निर्-, आ-, उप-, प्र-,#}
+({#दिश।#} c. 6.), <div n="xe">{%who would d. the way to Suvarṇa-%}
+{%pura:%}</div> <div n="xs">{#यः सुत्रर्णपुरपन्थानमुपदेक्ष्यति,#}</div> K. IV. To
+order: q. v.: {#नियंक्ते, वि-,#} ({#युज,#} c. 7.), <div n="xe">{%d. me%}
+{%what I shall give:%}</div> <div n="xs">{#प्रयच्छामि कमर्थं विनियुंक्ष्व माम्,#}</div>
+Mah. v. To superscribe: q. v.</div>
 <LEND>

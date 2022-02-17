@@ -1,27 +1,27 @@
 <L>10022<pc>316<k1>go<k2>go
-<div n="lb"/>{@GO:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#गच्छति#} ({#गम्,#} c. 1.), <div n="xe">{%when%}
-<div n="lb"/>{%Keyūraka had gone:%}</div> <div n="xs">{#गते च केयूरके,#}</div> K.; {%true and%}
-<div n="lb"/>{%going to%} (i.e. reaching) <div n="xe">{%the heart:%}</div> <div n="xs">{#यथार्था हृदयङ्गमा,#}</div>
-<div n="lb"/>Ku.; <div n="xe">{%the danger is gone:%}</div> <div n="xs">{#गतं भयम्,#}</div> </div><div n="I">V i. 5.; <div n="xe">{%is%}
-<div n="lb"/>{%gone, will not return:%}</div> <div n="xs">{#गत एव न निवर्तते,#}</div> Ku. iv.
-<div n="lb"/>30.; <div n="xe">{%a road going to the Golden City:%}</div> <div n="xs">{#सुवर्णपुरगाभी #}
-<div n="lb"/>{# पन्थाः,#}</div> K.; <div n="xe">{%that they should go the way of their%}
-<div n="lb"/>{%husbands:%}</div> <div n="xs">{#यद्भर्तुर्गतिर्गन्तव्येति,#}</div> P. iv.; {%in her%}
-<div n="lb"/>{%absence,%} ({%it%}) <div n="xe">{%goes to the daughter:%}</div> <div n="xs">{#तदभावे दुहितृगामि,#}</div></div>
-<div n="lb"/><div n="I">V s.; </div><div n="1">(2) {#याति#} ({#या,#} c. 2.), {%and you go to%}
-<div n="lb"/>{%another%} ({%man%}): {#अपरञ्च यासि,#} Mr. iv.; <div n="xe">{%the man%}
-<div n="lb"/>{%will go one month:%}</div> <div n="xs">{#मासमेकं नरो याति,#}</div> H.; {%moon-%}
-<div n="lb"/>{%light goes%} ({%away%}) <div n="xe">{%with the moon:%}</div> <div n="xs">{#शशिना सह याति #}
-<div n="lb"/>{# कौमुदी,#}</div> Ku.; </div><div n="1">(3) {#एति#} ({#इ,#} c. 2.), <div n="xe">{%come, come,%}
-<div n="lb"/>{%let us go:%}</div> <div n="xs">{#एह्ये हि वामः;#}</div> U.; </div><div n="1">(4) {#व्रजति#} ({#व्रज्,#} c.
-<div n="lb"/>1.), <div n="xe">{%go and conquer the enemies:%}</div> <div n="xs">{#भ्रज जय रिपुलोकम्,#}</div>
-<div n="lb"/>Ki. </div><div n="I">II To sell: expr. by {#लभते#} ({#लम्,#} c. 1.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#प्राप्नोति#}</div> ({#आप्,#} c. 5.), {%eight go for hundred:%}
-<div n="lb"/>{#अष्टौ लभन्ते शतम्,#} Li. </div><div n="I">III To fare, turn out:
-<div n="lb"/>q.v. Ph.: <div n="xe">{%go in:%}</div> <div n="xs">{#अभ्यन्तरं प्रविश,#}</div> Mr. i.; <div n="xe">{%he has%}
-<div n="lb"/>{%gone too far:%}</div> <div n="xs">{#अतिभूमिमयं गतः,#}</div> K.; {%he is going%}
-<div n="lb"/>(lit. wishes) <div n="xe">{%to say something:%}</div> <div n="xs">{#किमप्ययं विवक्षुः,#}</div>
-<div n="lb"/>Ku.; <div n="xe">{%or%}</div> <div n="xs">{#वक्तुकामः,#}</div> Sa.; ({%I am%}) <div n="xe">{%going to ask%}
-<div n="lb"/>{%something:%}</div> <div n="xs">{#किञ्चित् प्रष्टुमनाः,#}</div> Ku.; {%as the story goes:%}
-<div n="lb"/>{#किल#} (enclitic); <div n="xe">{%to go for nothing:%}</div> <div n="xs">{#विफलीभवति।#}</div></div>
+{@GO:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#गच्छति#} ({#गम्,#} c. 1.), <div n="xe">{%when%}
+{%Keyūraka had gone:%}</div> <div n="xs">{#गते च केयूरके,#}</div> K.; {%true and%}
+{%going to%} (i.e. reaching) <div n="xe">{%the heart:%}</div> <div n="xs">{#यथार्था हृदयङ्गमा,#}</div>
+Ku.; <div n="xe">{%the danger is gone:%}</div> <div n="xs">{#गतं भयम्,#}</div> </div><div n="I">V i. 5.; <div n="xe">{%is%}
+{%gone, will not return:%}</div> <div n="xs">{#गत एव न निवर्तते,#}</div> Ku. iv.
+30.; <div n="xe">{%a road going to the Golden City:%}</div> <div n="xs">{#सुवर्णपुरगाभी #}
+{# पन्थाः,#}</div> K.; <div n="xe">{%that they should go the way of their%}
+{%husbands:%}</div> <div n="xs">{#यद्भर्तुर्गतिर्गन्तव्येति,#}</div> P. iv.; {%in her%}
+{%absence,%} ({%it%}) <div n="xe">{%goes to the daughter:%}</div> <div n="xs">{#तदभावे दुहितृगामि,#}</div></div>
+<div n="I">V s.; </div><div n="1">(2) {#याति#} ({#या,#} c. 2.), {%and you go to%}
+{%another%} ({%man%}): {#अपरञ्च यासि,#} Mr. iv.; <div n="xe">{%the man%}
+{%will go one month:%}</div> <div n="xs">{#मासमेकं नरो याति,#}</div> H.; {%moon-%}
+{%light goes%} ({%away%}) <div n="xe">{%with the moon:%}</div> <div n="xs">{#शशिना सह याति #}
+{# कौमुदी,#}</div> Ku.; </div><div n="1">(3) {#एति#} ({#इ,#} c. 2.), <div n="xe">{%come, come,%}
+{%let us go:%}</div> <div n="xs">{#एह्ये हि वामः;#}</div> U.; </div><div n="1">(4) {#व्रजति#} ({#व्रज्,#} c.
+1.), <div n="xe">{%go and conquer the enemies:%}</div> <div n="xs">{#भ्रज जय रिपुलोकम्,#}</div>
+Ki. </div><div n="I">II To sell: expr. by {#लभते#} ({#लम्,#} c. 1.)
+<div n="xe">{%or%}</div> <div n="xs">{#प्राप्नोति#}</div> ({#आप्,#} c. 5.), {%eight go for hundred:%}
+{#अष्टौ लभन्ते शतम्,#} Li. </div><div n="I">III To fare, turn out:
+q.v. Ph.: <div n="xe">{%go in:%}</div> <div n="xs">{#अभ्यन्तरं प्रविश,#}</div> Mr. i.; <div n="xe">{%he has%}
+{%gone too far:%}</div> <div n="xs">{#अतिभूमिमयं गतः,#}</div> K.; {%he is going%}
+(lit. wishes) <div n="xe">{%to say something:%}</div> <div n="xs">{#किमप्ययं विवक्षुः,#}</div>
+Ku.; <div n="xe">{%or%}</div> <div n="xs">{#वक्तुकामः,#}</div> Sa.; ({%I am%}) <div n="xe">{%going to ask%}
+{%something:%}</div> <div n="xs">{#किञ्चित् प्रष्टुमनाः,#}</div> Ku.; {%as the story goes:%}
+{#किल#} (enclitic); <div n="xe">{%to go for nothing:%}</div> <div n="xs">{#विफलीभवति।#}</div></div>
 <LEND>

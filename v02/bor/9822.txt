@@ -1,23 +1,23 @@
 <L>9822<pc>310<k1>get<k2>get
-<div n="lb"/>{@GET@}¦ (v.t.): <div n="I">I To obtain: </div><div n="1">(1) {#लभते#} ({#लभ्,#} c.
-<div n="lb"/>1.), <div n="xe">{%man g. s what he is to g.:%}</div> <div n="xs">{#प्राप्तव्यमर्थं लभते मनुष्यः,#}</div>
-<div n="lb"/>P. ii. 4.; <div n="xe">{%to g. sleep:%}</div> <div n="xs">{#निद्रां लभते,#}</div> A.r.; {%divid-%}
-<div n="lb"/>{%ing%} ({%we%}) {%g.%} 72.: {#भक्ता लब्धम्#} 72, Li.; <div n="xe">{%or he might%}
-<div n="lb"/>{%g. three fortnights:%}</div> <div n="xs">{#लभोतासौ त्रिपक्षं वा,#}</div> Kat.; </div><div n="1">(2)
-<div n="lb"/>{#आप्नोति, अव-, प्र-, सम्प्र-, समव-,#} ({#आप्,#} c. 5.), <div n="xe">{%got%}
-<div n="lb"/>{%a son by Kusha:%}</div> <div n="xs">{#काकुस्थात् पुत्रमाप,#}</div> R.; <div n="xe">{%to g. one's%}
-<div n="lb"/>{%wishes:%}</div> <div n="xs">{#कामान्प्राप्नोति,#}</div> Mat.; </div><div n="1">(3) {#आ-सादयति, #}
-<div n="lb"/>{# समा-,#} (c. of {#सद्#}), {%where did you g. this ring:%}
-<div n="lb"/>{#कुत्र त्वयैतदङ्गुरीयकं समासादितम्,#} Sa.; </div><div n="1">(4) {#प्रपद्यते, अमि-, #}
-<div n="lb"/>{# समभि-,#} ({#पद्,#} c. 4.), <div n="xe">{%one who wishes to g. beati-%}
-<div n="lb"/>{%tude:%}</div> <div n="xs">{#मुक्तिं प्रपित्सुः,#}</div> Ki.; </div><div n="1">(5) {#अधिगच्छति#} ({#गम्,#} c.
-<div n="lb"/>1.), <div n="xe">{%to g. a saviour:%}</div> <div n="xs">{#त्रातारम् अधिगच्छति,#}</div> A.r. </div><div n="I">II
-<div n="lb"/>To come into possession of: </div><div n="1">(1) {#जायते, सं-,#}
-<div n="lb"/>({#जन्,#} c. 4.) (with gen. of the person g.
-<div n="lb"/>ting), {%I have got headache with this exercise:%}
-<div n="lb"/>{#व्यायामेन ममाऽनेन जाता शिरसि वेदना,#} Mah. iii.
-<div n="lb"/>29:. 3.; </div><div n="1">(2) {#उत्पद्यते, सम्-,#} ({#पद्,#} c. 4.) (same
-<div n="lb"/>cons.), Ra. </div><div n="I">III To induce: expr. by
-<div n="lb"/>causal v., <div n="xe">{%to g. food cooked:%}</div> <div n="xs">{#भक्तानि पाचयति,#}</div>
-<div n="lb"/>Mah.; <div n="xe">{%to g. work done:%}</div> <div n="xs">{#कर्म कारयति,#}</div> M.</div>
+{@GET@}¦ (v.t.): <div n="I">I To obtain: </div><div n="1">(1) {#लभते#} ({#लभ्,#} c.
+1.), <div n="xe">{%man g. s what he is to g.:%}</div> <div n="xs">{#प्राप्तव्यमर्थं लभते मनुष्यः,#}</div>
+P. ii. 4.; <div n="xe">{%to g. sleep:%}</div> <div n="xs">{#निद्रां लभते,#}</div> A.r.; {%divid-%}
+{%ing%} ({%we%}) {%g.%} 72.: {#भक्ता लब्धम्#} 72, Li.; <div n="xe">{%or he might%}
+{%g. three fortnights:%}</div> <div n="xs">{#लभोतासौ त्रिपक्षं वा,#}</div> Kat.; </div><div n="1">(2)
+{#आप्नोति, अव-, प्र-, सम्प्र-, समव-,#} ({#आप्,#} c. 5.), <div n="xe">{%got%}
+{%a son by Kusha:%}</div> <div n="xs">{#काकुस्थात् पुत्रमाप,#}</div> R.; <div n="xe">{%to g. one's%}
+{%wishes:%}</div> <div n="xs">{#कामान्प्राप्नोति,#}</div> Mat.; </div><div n="1">(3) {#आ-सादयति, #}
+{# समा-,#} (c. of {#सद्#}), {%where did you g. this ring:%}
+{#कुत्र त्वयैतदङ्गुरीयकं समासादितम्,#} Sa.; </div><div n="1">(4) {#प्रपद्यते, अमि-, #}
+{# समभि-,#} ({#पद्,#} c. 4.), <div n="xe">{%one who wishes to g. beati-%}
+{%tude:%}</div> <div n="xs">{#मुक्तिं प्रपित्सुः,#}</div> Ki.; </div><div n="1">(5) {#अधिगच्छति#} ({#गम्,#} c.
+1.), <div n="xe">{%to g. a saviour:%}</div> <div n="xs">{#त्रातारम् अधिगच्छति,#}</div> A.r. </div><div n="I">II
+To come into possession of: </div><div n="1">(1) {#जायते, सं-,#}
+({#जन्,#} c. 4.) (with gen. of the person g.
+ting), {%I have got headache with this exercise:%}
+{#व्यायामेन ममाऽनेन जाता शिरसि वेदना,#} Mah. iii.
+29:. 3.; </div><div n="1">(2) {#उत्पद्यते, सम्-,#} ({#पद्,#} c. 4.) (same
+cons.), Ra. </div><div n="I">III To induce: expr. by
+causal v., <div n="xe">{%to g. food cooked:%}</div> <div n="xs">{#भक्तानि पाचयति,#}</div>
+Mah.; <div n="xe">{%to g. work done:%}</div> <div n="xs">{#कर्म कारयति,#}</div> M.</div>
 <LEND>

@@ -1,20 +1,20 @@
 <L>19175<pc>496-b<k1>merit<k2>merit
-<div n="lb"/>MERIT¦, {%s.%} (Desert) {#गुणः, योग्यता, उपयोगः, उपयुक्तता, पात्रता#}. — 
-<div n="lb"/> — (Excellence, great merit) {#गुणोत्कर्षः, गुणप्रकर्षः, गुणवैशेष्यं,#}
-<div n="lb"/>{#गुणिता, गुणपूगं, सगुणता, गुणौघं, गुणवत्ता, गुणता, गुणमहत्#} {%n.,%}
-<div n="lb"/>{#उत्कर्षः, उत्कृष्टता, श्रेष्ठता, शस्यं, प्रशस्यं, सारता -त्वं;#} ‘appreciating
-<div n="lb"/>merit,’ {#गुणग्रहणं;#} ‘one who does so,’ {#गुणग्राही#} {%m.%} {#(न्), गुण-#}
-<div n="lb"/>{#ग्राहकः, गुणज्ञः#}. — (Merits, good or bad) {#गुणागुणं, गुणदोषौ#} {%m.%} du.,
-<div n="lb"/>{#गुणदोषं, सारासारं, पुण्यापुण्यं, धर्म्माधर्म्मं;#} ‘testing one's merits,’
-<div n="lb"/>{#गुणागुणपरीक्षा, गुणदोषपरीक्षणं#}. — (Merit acquired through
-<div n="lb"/>works, according to the Hindu notion) {#पुण्यं, श्रेयस्#} {%n.,%}
-<div n="lb"/>{#सुकृतं, धर्म्मः, वृषः, तपस्#} {%n.,%} {#नियमः, पुण्यसामग्री, सञ्चितं;#} ‘acqui-
-<div n="lb"/>sition of merit,’ {#पुण्यार्जनं, पुण्यसम्पादनं, श्रेयःसम्पादनं;#} ‘acquired
-<div n="lb"/>by merit,’ {#पुण्यार्जितः -ता -तं, पुण्यविजितः -ता -तं;#} ‘reward of
-<div n="lb"/>merits,’ {#पुण्यफलं;#} ‘good fortune, as the result of merits,’
-<div n="lb"/>{#पुण्योदयः;#} ‘merit acquired in some former birth,’ {#पूर्व्वपुण्यं;#}
-<div n="lb"/>‘mightiness of merit,’ {#पुण्यप्रतापः;#} ‘person of great merit,’
-<div n="lb"/>{#पुण्यनिधिः#} {%m.,%} {#श्रेयोनिधिः#} {%m.,%} {#पुण्यसागरः, पुण्यराशिः#} {%m.,%} {#पुण्यात्मा#} {%m.%}
-<div n="lb"/>{#(न्), पुण्यजनः;#} ‘a work giving an account of the merits of
-<div n="lb"/>any holy place or object,’ {#माहात्म्यं#}.
+MERIT¦, {%s.%} (Desert) {#गुणः, योग्यता, उपयोगः, उपयुक्तता, पात्रता#}. — 
+ — (Excellence, great merit) {#गुणोत्कर्षः, गुणप्रकर्षः, गुणवैशेष्यं,#}
+{#गुणिता, गुणपूगं, सगुणता, गुणौघं, गुणवत्ता, गुणता, गुणमहत्#} {%n.,%}
+{#उत्कर्षः, उत्कृष्टता, श्रेष्ठता, शस्यं, प्रशस्यं, सारता -त्वं;#} ‘appreciating
+merit,’ {#गुणग्रहणं;#} ‘one who does so,’ {#गुणग्राही#} {%m.%} {#(न्), गुण-#}
+{#ग्राहकः, गुणज्ञः#}. — (Merits, good or bad) {#गुणागुणं, गुणदोषौ#} {%m.%} du.,
+{#गुणदोषं, सारासारं, पुण्यापुण्यं, धर्म्माधर्म्मं;#} ‘testing one's merits,’
+{#गुणागुणपरीक्षा, गुणदोषपरीक्षणं#}. — (Merit acquired through
+works, according to the Hindu notion) {#पुण्यं, श्रेयस्#} {%n.,%}
+{#सुकृतं, धर्म्मः, वृषः, तपस्#} {%n.,%} {#नियमः, पुण्यसामग्री, सञ्चितं;#} ‘acqui-
+sition of merit,’ {#पुण्यार्जनं, पुण्यसम्पादनं, श्रेयःसम्पादनं;#} ‘acquired
+by merit,’ {#पुण्यार्जितः -ता -तं, पुण्यविजितः -ता -तं;#} ‘reward of
+merits,’ {#पुण्यफलं;#} ‘good fortune, as the result of merits,’
+{#पुण्योदयः;#} ‘merit acquired in some former birth,’ {#पूर्व्वपुण्यं;#}
+‘mightiness of merit,’ {#पुण्यप्रतापः;#} ‘person of great merit,’
+{#पुण्यनिधिः#} {%m.,%} {#श्रेयोनिधिः#} {%m.,%} {#पुण्यसागरः, पुण्यराशिः#} {%m.,%} {#पुण्यात्मा#} {%m.%}
+{#(न्), पुण्यजनः;#} ‘a work giving an account of the merits of
+any holy place or object,’ {#माहात्म्यं#}.
 <LEND>

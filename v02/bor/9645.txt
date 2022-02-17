@@ -1,4 +1,4 @@
 <L>9645<pc>305<k1>galley<k2>galley
-<div n="lb"/>{@GALLEY:@}¦ <div n="I">I A long boat: {#नोः।#} </div><div n="I">II The cook-
-<div n="lb"/>-room of a man-of-war: {#पाकस्थली।#}</div>
+{@GALLEY:@}¦ <div n="I">I A long boat: {#नोः।#} </div><div n="I">II The cook-
+-room of a man-of-war: {#पाकस्थली।#}</div>
 <LEND>

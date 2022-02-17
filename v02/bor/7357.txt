@@ -1,5 +1,5 @@
 <L>7357<pc>233<k1>elevation<k2>elevation
-<div n="lb"/>{@ELEVATION:@}¦ <div n="I">I Rising: </div><div n="1">(1) {#उन्नमनम्;#} </div><div n="1">(2)
-<div n="lb"/>{#उत्तोलनम्।#} </div><div n="I">II Loftiness: q. v.: {#उन्नतत्वम्,#} K.</div>
-<div n="lb"/><div n="I">III Of ground: {#उन्नतभूमिः:#} v. Height.</div>
+{@ELEVATION:@}¦ <div n="I">I Rising: </div><div n="1">(1) {#उन्नमनम्;#} </div><div n="1">(2)
+{#उत्तोलनम्।#} </div><div n="I">II Loftiness: q. v.: {#उन्नतत्वम्,#} K.</div>
+<div n="I">III Of ground: {#उन्नतभूमिः:#} v. Height.</div>
 <LEND>

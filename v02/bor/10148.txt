@@ -1,13 +1,13 @@
 <L>10148<pc>320<k1>grace<k2>grace
-<div n="lb"/>{@GRACE@}¦ (subs.): <div n="I">I Favour: q.v.: {#प्रसादः,#}
-<div n="lb"/><div n="xe">{%she obtaining the g. of the gods:%}</div> <div n="xs">{#प्रसादमासाद्य सुरैः #}
-<div n="lb"/>{# कृतं सा,#}</div> N. xiv. 8. </div><div n="I">II Beauty: q.v.: {#लावण्यम्।#}</div>
-<div n="lb"/><div n="I">III Good quality: {#गुणः।#} </div><div n="I">IV Ornament:
-<div n="lb"/>q.v.: {#भूषणम्,#} {%these various%} ({%actions%}) <div n="xe">{%become their%}
-<div n="lb"/>{%g.s.:%}</div> <div n="xs">{#इति विविधमियाय तासु भूषाम्,#}</div> Ki. x. 59. </div><div n="I">V As
-<div n="lb"/>a title: {#देवः#} (for dukes), {#भगवत्#} (m.) (for
-<div n="lb"/>archbishops). </div><div n="I">VI A goddess: {#अप्सरस्#} (f.).</div>
-<div n="lb"/><div n="I">VII A prayer before or after meal: <div n="xe">{%to%}
-<div n="lb"/>{%say g.:%}</div> <div n="xs">{#*ईश्वरस्य प्रसादं कीर्तयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रसादनाम् आद्रियते#}</div>
-<div n="lb"/>({#दृ,#} c. 4.), N. xiv. 1.</div>
+{@GRACE@}¦ (subs.): <div n="I">I Favour: q.v.: {#प्रसादः,#}
+<div n="xe">{%she obtaining the g. of the gods:%}</div> <div n="xs">{#प्रसादमासाद्य सुरैः #}
+{# कृतं सा,#}</div> N. xiv. 8. </div><div n="I">II Beauty: q.v.: {#लावण्यम्।#}</div>
+<div n="I">III Good quality: {#गुणः।#} </div><div n="I">IV Ornament:
+q.v.: {#भूषणम्,#} {%these various%} ({%actions%}) <div n="xe">{%become their%}
+{%g.s.:%}</div> <div n="xs">{#इति विविधमियाय तासु भूषाम्,#}</div> Ki. x. 59. </div><div n="I">V As
+a title: {#देवः#} (for dukes), {#भगवत्#} (m.) (for
+archbishops). </div><div n="I">VI A goddess: {#अप्सरस्#} (f.).</div>
+<div n="I">VII A prayer before or after meal: <div n="xe">{%to%}
+{%say g.:%}</div> <div n="xs">{#*ईश्वरस्य प्रसादं कीर्तयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रसादनाम् आद्रियते#}</div>
+({#दृ,#} c. 4.), N. xiv. 1.</div>
 <LEND>

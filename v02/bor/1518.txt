@@ -1,4 +1,4 @@
 <L>1518<pc>053<k1>bailable<k2>bailable
-<div n="lb"/>{@BAILABLE:@}¦ Ph. <div n="xe">{%this offence is b.%}</div> <div n="xs">{#*ग्राह्यलग्नकोऽपराघः#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#अस्मिन्नपराघे प्रतिभूर्गृह्यते।#}</div>
+{@BAILABLE:@}¦ Ph. <div n="xe">{%this offence is b.%}</div> <div n="xs">{#*ग्राह्यलग्नकोऽपराघः#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#अस्मिन्नपराघे प्रतिभूर्गृह्यते।#}</div>
 <LEND>

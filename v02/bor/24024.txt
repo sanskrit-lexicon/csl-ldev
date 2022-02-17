@@ -1,9 +1,9 @@
 <L>24024<pc>751<k1>wager<k2>wager
-<div n="lb"/>{@WAGER:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#पणः,#} {%counter w.:%}
-<div n="lb"/>{#प्रतिपणः,#} Mah. ii. 60. 7.; </div><div n="1">(2) {#ग्लहः,#} <div n="xe">{%description%}
-<div n="lb"/>{%of different kinds of w. s:%}</div> <div n="xs">{#ग्लहप्रभेदवर्णनम्,#}</div> D. ii.</div>
-<div n="lb"/><div n="I">II Verb.: </div><div n="1">(1) {#पणते#} ({#पण्,#} c. 1.), <div n="xe">{%one who%}
-<div n="lb"/>{%has no property cannot w. another's property:%}</div>
-<div n="lb"/><div n="xs">{#अस्वो ह्यशक्तः पणितुं परस्वम्,#}</div> Mah. ii. 67. 47.;</div>
-<div n="lb"/><div n="1">(2) {#ग्लहते#} ({#ग्लह्,#} c. 1.), Mah. ii. 61. 1.</div>
+{@WAGER:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#पणः,#} {%counter w.:%}
+{#प्रतिपणः,#} Mah. ii. 60. 7.; </div><div n="1">(2) {#ग्लहः,#} <div n="xe">{%description%}
+{%of different kinds of w. s:%}</div> <div n="xs">{#ग्लहप्रभेदवर्णनम्,#}</div> D. ii.</div>
+<div n="I">II Verb.: </div><div n="1">(1) {#पणते#} ({#पण्,#} c. 1.), <div n="xe">{%one who%}
+{%has no property cannot w. another's property:%}</div>
+<div n="xs">{#अस्वो ह्यशक्तः पणितुं परस्वम्,#}</div> Mah. ii. 67. 47.;</div>
+<div n="1">(2) {#ग्लहते#} ({#ग्लह्,#} c. 1.), Mah. ii. 61. 1.</div>
 <LEND>

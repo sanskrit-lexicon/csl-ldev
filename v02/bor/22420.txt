@@ -1,11 +1,11 @@
 <L>22420<pc>707<k1>therefore<k2>therefore
-<div n="lb"/>{@THEREFORE:@}¦ <div n="1">(1) {#अतः#} (= for this), <div n="xe">{%t. it is%}
-<div n="lb"/>{%mere boldness to say...:%}</div> <div n="xs">{#अतः॥।इति वचनं साहस-#}
-<div n="lb"/>{#मात्रम्,#}</div> S. 4.; <div n="xe">{%t. spirit:%}</div> <div n="xs">{#अतएव प्राणः,#}</div> S. 23.;</div>
-<div n="lb"/><div n="1">(2) {#तस्मात्#} (= from that), <div n="xe">{%t.%}</div> <div n="xs">{#ब्रह्मणः#}</div> <div n="xe">{%is objective%}
-<div n="lb"/>{%genitive:%}</div> <div n="xs">{#तस्माद् ब्रह्मण इति कर्मणि षष्ठी।;#}</div> </div><div n="1">(3) {#ततः#}
-<div n="lb"/>(=2).: v. Then; </div><div n="1">(4) {#तत्#} (=2: rare), <div n="xe">{%t.%}
-<div n="lb"/>{%here:%}</div> <div n="xs">{#तदिह,#}</div> S. i. 2. 2.; </div><div n="1">(5) {#तेन#} (=2), <div n="xe">{%as%}
-<div n="lb"/>{%regards this women are t. better:%}</div> <div n="xs">{#तेनात्र वरमङ्गनाः,#}</div>
-<div n="lb"/>V. m. 74. 12.</div>
+{@THEREFORE:@}¦ <div n="1">(1) {#अतः#} (= for this), <div n="xe">{%t. it is%}
+{%mere boldness to say...:%}</div> <div n="xs">{#अतः॥।इति वचनं साहस-#}
+{#मात्रम्,#}</div> S. 4.; <div n="xe">{%t. spirit:%}</div> <div n="xs">{#अतएव प्राणः,#}</div> S. 23.;</div>
+<div n="1">(2) {#तस्मात्#} (= from that), <div n="xe">{%t.%}</div> <div n="xs">{#ब्रह्मणः#}</div> <div n="xe">{%is objective%}
+{%genitive:%}</div> <div n="xs">{#तस्माद् ब्रह्मण इति कर्मणि षष्ठी।;#}</div> </div><div n="1">(3) {#ततः#}
+(=2).: v. Then; </div><div n="1">(4) {#तत्#} (=2: rare), <div n="xe">{%t.%}
+{%here:%}</div> <div n="xs">{#तदिह,#}</div> S. i. 2. 2.; </div><div n="1">(5) {#तेन#} (=2), <div n="xe">{%as%}
+{%regards this women are t. better:%}</div> <div n="xs">{#तेनात्र वरमङ्गनाः,#}</div>
+V. m. 74. 12.</div>
 <LEND>

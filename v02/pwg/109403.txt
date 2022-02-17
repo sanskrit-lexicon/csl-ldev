@@ -9,7 +9,7 @@
 <ls>MĀRK. P. 118, 15.</ls>
 [Page7-0996]
 {#स्वार्थस्य#} 
-<ls>Spr. (II) 1310. 2564.</ls> 
+<ls>Spr. (II) 1310.</ls> <ls n="Spr. (II)">2564.</ls> 
 <ls>RĀJA-TAR. 2, 97.</ls> {#वाञ्छितार्थस्य#} 
 <ls>VARĀH. BṚH. S. 68, 92.</ls> {#कार्यं नः सिद्धिप्रायं यथेप्सितम्#} 
 <ls>KATHĀS. 33, 84.</ls> {#सिद्धिं गम्#} 
@@ -18,14 +18,14 @@
 <ls>KAP. 1, 79.</ls> {#साध्य°#} 
 <ls>Spr. (II) 6241.</ls> {#कर्म°#} 
 <ls>MAITRYUP. 4, 3.</ls> <ls>R. 1, 57, 13.</ls> <ls>VARĀH. BṚH. S. 71, 9.</ls> {#क्रिया°#} 
-<ls>Spr. (II) 5712. 6145.</ls> {#कार्य°#} 
+<ls>Spr. (II) 5712.</ls> <ls n="Spr. (II)">6145.</ls> {#कार्य°#} 
 <ls>R. 5, 35, 40. 59, 10.</ls> 
 <ls>VARĀH. BṚH. S. 89, 1.</ls> {#यात्रा°#} 
 <ls>87, 6.</ls> {#यज्ञ°#} 
 <ls>M. 1, 23. 11, 12.</ls> 
 <ls>R. 2, 32, 41.</ls> {#धर्म°#} 
 <ls>M. 7, 10.</ls> 
-<ls>Spr. (II) 1494. 3106.</ls> {#तपः°#} 
+<ls>Spr. (II) 1494.</ls> <ls n="Spr. (II)">3106.</ls> {#तपः°#} 
 <ls>RAGH. 1, 94.</ls> {#अर्थ°#} 
 <ls>M. 7, 215.</ls> 
 <ls>R. 2, 50, 4.</ls> 
@@ -67,7 +67,7 @@
 <ls>M. 6, 42. 7, 1. 10, 62.</ls> 
 <ls>R. 1, 57, 19.</ls> {#परा#} 
 <ls>5, 13, 20.</ls> {#सोपसर्गा#} 
-<ls>?18, 13. 65, 9. KĀM. NĪTIS. 5, 10. RAGH, 1, 72 (pl.). 87. Spr. (II) 415. 1714. 2847. 4904, v. l. 6771. 7048. fg. KATHĀS. 6, 150. 37, 42.</ls> {#°विघ्नाः#} 
+<ls>18, 13. 65, 9.</ls> <ls>KĀM. NĪTIS. 5, 10.</ls> <ls>RAGH, 1, 72</ls> (pl.). <ls>87.</ls> <ls>Spr. (II) 415.</ls> <ls n="Spr. (II)">1714.</ls> <ls n="Spr. (II)">2847.</ls> <ls n="Spr. (II)">4904, v. l.</ls> <ls n="Spr. (II)">6771.</ls> <ls n="Spr. (II)">7048. fg.</ls> <ls>KATHĀS. 6, 150. 37, 42.</ls> {#°विघ्नाः#} 
 <ls>RĀJA-TAR. 2, 153.</ls> 
 <ls>BHĀG. P. 3, 2, 19. 4, 11. 5, 20, 6.</ls> 
 <ls>PAÑCAT. III, 76. 256, 23.</ls> <ls>HIT. Pr. 1.</ls> <ls>ŚUK.</ls> in <ls>LA. (III) 36, 8.</ls> {#सिद्ध्यसिद्ध्योः समो भूत्वा#} 
@@ -78,7 +78,7 @@
 <ls>316.</ls> {#सिद्धिं शंसन्ति मृगाः#} 
 <ls>R. 3, 78, 11. 4, 42, 14.</ls> {#सिद्धिं दत्त्वा सुविपुलाम्#} 
 <ls>VARĀH. BṚH. S. 48, 79.</ls> {#अव-आप्#} 
-<ls>?87. R. 1, 62, 20. BRAHMA-P. in LA. (III) 48, 17.</ls> {#प्र-आप्#} 
+<ls>87.</ls> <ls>R. 1, 62, 20.</ls> <ls>BRAHMA-P. in LA. (III) 48, 17.</ls> {#प्र-आप्#} 
 <ls>RĀJA-TAR. 4, 716.</ls> {#भज्#} 
 <ls>R. 7, 26, 21.</ls> {#गम्#} 
 <ls>4, 57, 3.</ls> <ls>Spr. (II) 4061.</ls> {#अनु-गा#} 
@@ -94,24 +94,24 @@
 <ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9, 34</ls> (vielleicht {#सिद्धिमृत्वा#} zu lesen). 
 <ls>SĀṂKHYAK. 46. fg. 49. 51.</ls> 
 <ls>YOGAS. 2, 43.</ls> 
-<ls>TATTVAS. 41. fg.</ls> <ls>?(acht). SARVADARŚANAS. 96, 12. 154, 11. 170, 6. fgg. 179, 2. fgg. Verz. d. Oxf. H. 50</ls>, {%b%}, 
-<ls>12. 88</ls>, {%b%}, 
+<ls>TATTVAS. 41. fg.</ls> (acht). <ls>SARVADARŚANAS. 96, 12. 154, 11. 170, 6. fgg. 179, 2. fgg.</ls> <ls>Verz. d. Oxf. H. 50,b,</ls> 
+<ls>12. 88,b,</ls> 
 <ls>15. fgg. 33.</ls> <ls>VP. 45.</ls> <ls>MĀRK. P. 56, 23.</ls> <ls>BHĀG. P. 4, 18, 19. 6, 11, 25. 8, 22, 6. 11, 15, 3. fgg.</ls> (achtzehn). 
 <ls>PAÑCAR. 1, 4, 17.</ls> 
 <div n="1">— 9) {%Zaubermacht%} überh. (öfters in comp. mit dem Gegenstande, der die eigentliche Zauberkraft enthält) 
 <ls>KATHĀS. 18, 375. 20, 53. 102. fgg. 25, 104. 206. 39, 161. 49, 164. 167. fgg. 65, 52. fg. 73, 298. fg. 336.</ls> 
 <ls>RĀJA-TAR. 3, 268. 465. 467.</ls> 
-<ls>PAÑCAT. 241, 3.</ls> <ls>Verz. d. Oxf. H. 92</ls>, {%b%}, 
-<ls>1 v. u. 93</ls>, {%a%}, 
-<ls>1. 11. 94</ls>, {%b%}, 
-<ls>27. 99</ls>, {%a%}, 
-<ls>?9. fgg. WASSILYEW 191. fgg. 196. TĀRAN. 74 u.s.w.</ls> am Ende eines <lex>adj.</lex> comp. {#°क#} 
+<ls>PAÑCAT. 241, 3.</ls> <ls>Verz. d. Oxf. H. 92,b,</ls> 
+<ls>1</ls> v. u. <ls>93,a,</ls> 
+<ls>1. 11. 94,b,</ls> 
+<ls>27. 99,a,</ls> 
+<ls>9. fgg. WASSILYEW 191. fgg. 196.</ls> <ls>TĀRAN. 74</ls> u.s.w. am Ende eines <lex>adj.</lex> comp. {#°क#} 
 <ls>KATHĀS. 124, 14.</ls>
 [Page7-0997]
 {#सिद्धि = योग#} (von 
 <ls>WILSON</ls> und im <ls>ŚKDR.</ls> in der astr. Bed. gefasst) 
 <ls>H. an.</ls> <ls>MED.</ls> = {#पादुका#} (vgl. {#गुटिकापादुका°#} 
-<ls>Verz. d. Oxf. H. 99</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 99,a,</ls> 
 <ls>9. fg.</ls> <ls>TĀRAN. 101</ls>) <ls>MED.</ls> 
 <div n="1">— 10) {%Wirkungskraft, Leistungsfähigkeit%}: {#यथा काकयवाः प्रोक्ता यथारण्यभवास्तिलाः । नाममात्रा न सिद्धौ#} 
 (v. l. {#सिद्ध्यै#}) {#हि धनहीनास्तथा नराः ॥#} 
@@ -134,7 +134,7 @@
 <ls>RĀJAN. 5, 28.</ls> 
 <div n="1">— 16) {%der Erfolg%} personificirt als göttliches Wesen 
 <ls>MBH. 1, 2794.</ls> 
-<ls>VARĀH. BṚH. S. 48, 56.</ls> <ls>Verz. d. Oxf. H. 78</ls>, {%b%}, 
+<ls>VARĀH. BṚH. S. 48, 56.</ls> <ls>Verz. d. Oxf. H. 78,b,</ls> 
 <ls>32. fg.</ls> ({#°पराजय#}). unter den sieben Müttern (s. u. 1. {#मातर्#}) 
 <ls>H. 201, Schol.</ls> ({#ब्राह्मणीसिद्धी#} zu lesen). unter den Namen der <is>Durgā</is> 
 <ls>KATHĀS. 53, 171.</ls> 

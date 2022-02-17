@@ -1,4 +1,4 @@
 <L>5129<pc>165<k1>cross-bow<k2>cross-bow
-<div n="lb"/>{@CROSS-BOW:@}¦ {#*वक्रचापः।#} <div n="xe">{%C. -man:%}</div> <div n="xs">{#*वक्रचापभृत्#}</div>
-<div n="lb"/>(mfn.) <div n="xe">{%or%}</div> <div n="xs">{#-धरः#}</div> ({#री, रं#}).
+{@CROSS-BOW:@}¦ {#*वक्रचापः।#} <div n="xe">{%C. -man:%}</div> <div n="xs">{#*वक्रचापभृत्#}</div>
+(mfn.) <div n="xe">{%or%}</div> <div n="xs">{#-धरः#}</div> ({#री, रं#}).
 <LEND>

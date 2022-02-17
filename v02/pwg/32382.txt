@@ -16,8 +16,8 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#दहन उपसमाधाय#} 
 <ls>KAUŚ. 15. 46.</ls> 
-<ls>MBH. 3, 1553. 13, 111.</ls> 
-<ls>HARIV. 3765. 10457.</ls> 
+<ls>MBH. 3, 1553.</ls> <ls n="MBH.">13, 111.</ls> 
+<ls>HARIV. 3765.</ls> <ls n="HARIV.">10457.</ls> 
 <ls>R. 3, 19, 7. 42, 10.</ls> 
 <ls>BHARTṚ. 2, 29. 3, 19.</ls> 
 <ls>VARĀH. BṚH. S. 7, 1. 31, 7. 98, 1.</ls> {#कोप°#} 
@@ -29,7 +29,7 @@
 <div n="2">— b) {%eine der fünf Formen des Feuers beim%} <is>Svāhākāra</is> 
 <ls>HARIV. 10465.</ls> 
 <div n="2">— c) N. eines der 11 <is>Rudra</is> 
-<ls>MBH. 1, 2567. 4826.</ls> 
+<ls>MBH. 1, 2567.</ls> <ls n="MBH. 1,">4826.</ls> 
 <ls>MATSYA-P.</ls> in <ls>VP. 121, N. 17.</ls> 
 <div n="2">— d) N. pr. eines Wesens im Gefolge von <is>Skanda</is> 
 <ls>MBH. 9, 2536.</ls> 
@@ -42,7 +42,7 @@
 <div n="2"> a) {%das Verbrennen, Brennen%} (auch med.): {#अग्निहोत्रं जुहोत्या दहनात्#} 
 <ls>KAUŚ. 80.</ls> {#न तस्य दहनं कार्यं नैव पिण्डोदकक्रिया#} 
 <ls>ŚAUNAKA</ls> bei <ls>MALLIN.</ls> zu <ls>RAGH. 8, 25.</ls> {#अपरो दहने स्वकर्मणां ववृते ज्ञानमयेन वह्निना#} 
-<ls>RAGH. 8, 20. -</ls> <ls>SUŚR. 1, 31, 13. 47, 6. 151, 12.</ls> {#°कल्प#} 
+<ls>RAGH. 8, 20.</ls> - <ls>SUŚR. 1, 31, 13. 47, 6. 151, 12.</ls> {#°कल्प#} 
 <ls>2, 48, 5.</ls> {#दहनोपकरण#} 
 <ls>1, 35, 11.</ls> {#यदि स्याच्छीतलो वह्निः शीतांशुर्दहनात्मकः#} 
 <ls>PAÑCAT. I, 288.</ls> {#अतिदहनात्मको ऽयम्#} ({#भानुः#}) 

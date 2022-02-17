@@ -1,4 +1,4 @@
 <L>2050<pc>071<k1>billiards<k2>billiards
-<div n="lb"/>{@BILLIARDS:@}¦ {#*अण्डक्रीडा।#} <div n="xe">{%To play at b.%}</div> <div n="xs">{#*अण्डैः #}
-<div n="lb"/>{# क्रीडति।#}</div>
+{@BILLIARDS:@}¦ {#*अण्डक्रीडा।#} <div n="xe">{%To play at b.%}</div> <div n="xs">{#*अण्डैः #}
+{# क्रीडति।#}</div>
 <LEND>

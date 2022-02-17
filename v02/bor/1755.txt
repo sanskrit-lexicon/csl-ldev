@@ -1,10 +1,10 @@
 <L>1755<pc>060<k1>bearing<k2>bearing
-<div n="lb"/>{@BEARING@}¦ (subs.): <div n="I">I Gesture, mien: q. v.:
-<div n="lb"/>{#चेष्टा;#} <div n="xe">{%his b. is not as before%}</div> <div n="xs">{#अस्य चेष्टा नामायथापूर्वम्#}</div>
-<div n="lb"/><ls>D.</ls> viii. </div><div n="I">II Relation, reference: q. v. Ph.
-<div n="lb"/><div n="xe">{%what b. has your argument on this subject%}</div> <div n="xs">{#*अस्य-#}
-<div n="lb"/>{#विषयस्य तवोपपत्तेश्च कः सम्बन्घः।#}</div> </div><div n="I">III Relative [Page061]
-<div n="lb"/>situation: Ph. {%the b. of the cape is n. w.%}
-<div n="lb"/>{#*अस्मात् पश्चिमोत्तरस्थमन्तरीपम्;#} <div n="xe">{%ascertain the b. s of%}
-<div n="lb"/>{%the lighthouse%}</div> <div n="xs">{#कतमस्मिन्दिग्भागे दीपगृहमिति ज्ञायताम्।#}</div></div>
+{@BEARING@}¦ (subs.): <div n="I">I Gesture, mien: q. v.:
+{#चेष्टा;#} <div n="xe">{%his b. is not as before%}</div> <div n="xs">{#अस्य चेष्टा नामायथापूर्वम्#}</div>
+<ls>D.</ls> viii. </div><div n="I">II Relation, reference: q. v. Ph.
+<div n="xe">{%what b. has your argument on this subject%}</div> <div n="xs">{#*अस्य-#}
+{#विषयस्य तवोपपत्तेश्च कः सम्बन्घः।#}</div> </div><div n="I">III Relative [Page061]
+situation: Ph. {%the b. of the cape is n. w.%}
+{#*अस्मात् पश्चिमोत्तरस्थमन्तरीपम्;#} <div n="xe">{%ascertain the b. s of%}
+{%the lighthouse%}</div> <div n="xs">{#कतमस्मिन्दिग्भागे दीपगृहमिति ज्ञायताम्।#}</div></div>
 <LEND>

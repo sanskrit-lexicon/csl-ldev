@@ -31,7 +31,7 @@
 <ls>Ind. St. 3, 214.</ls> Ein <is>Rājarṣi</is>, dessen Opfers öfters Erwähnung geschieht, 
 <ls>H. 973.</ls> 
 <ls>MED.</ls> {#गयस्य यज्ञः#} 
-<ls>MBH. 1, 2100. 3, 8518. 4, 1768. 9, 2205. 13, 5661.</ls> 
+<ls>MBH. 1, 2100.</ls> <ls n="MBH.">3, 8518.</ls> <ls n="MBH.">4, 1768.</ls> <ls n="MBH.">9, 2205.</ls> <ls n="MBH.">13, 5661.</ls> 
 <ls>R. 2, 107, 11.</ls> von <is>Māndhātar</is> besiegt 
 <ls>MBH. 7, 2281.</ls> Sohn des <is>Amūrtarayas</is> 
 <ls>3, 8527. fgg.</ls> 
@@ -44,8 +44,8 @@
 <ls>VP. 106.</ls> 
 <ls>BHĀG. P. 4, 24, 8.</ls> des <is>Ūru</is> und der <is>Āgneyi</is> 
 <ls>HARIV. 73.</ls> des <is>Vitatha</is> 
-<ls>1732.</ls> des <is>Sudyumna</is> 
-<ls>631.</ls> <ls>VP. 350.</ls> <ls>BHĀG. P. 9, 1, 41.</ls> des <is>Nakta</is> und der <is>Druti</is> 
+<ls n="HARIV.">1732.</ls> des <is>Sudyumna</is> 
+<ls n="HARIV.">631.</ls> <ls>VP. 350.</ls> <ls>BHĀG. P. 9, 1, 41.</ls> des <is>Nakta</is> und der <is>Druti</is> 
 <ls>5, 15, 5.</ls> <ls>VP. 165.</ls> 
 <div n="3">— β) pl. des um <is>Gayā</is> wohnenden Volksstammes und des von ihm eingenommenen Gebietes 
 <ls>MBH. 2, 1872.</ls> {#गयस्य यजमानस्म गयेष्वेव महाक्रतुम्#} 
@@ -65,7 +65,7 @@
 <ls>H. 973.</ls> 
 <ls>MED. y. 15.</ls> <ls>LIA. I, 136. fg.</ls> {#यद्ददाति गयास्थश्च सर्वमानन्त्यमश्नुते#} 
 <ls>YĀJÑ. 1, 260.</ls> {#एष्टव्या बहवः पुत्रा यद्यप्येको गयां व्रजेत्#} 
-<ls>MBH. 3, 8075. 8305. 8060. 13, 1728.</ls> 
+<ls>MBH. 3, 8075.</ls> <ls n="MBH. 3,">8305.</ls> <ls n="MBH. 3,">8060.</ls> <ls n="MBH.">13, 1728.</ls> 
 <ls>HARIV. 632.</ls> 
 <ls>R. 2, 107, 13.</ls> 
 <ls>LALIT. 238.</ls> 

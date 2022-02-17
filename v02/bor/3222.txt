@@ -1,20 +1,20 @@
 <L>3222<pc>107<k1>catch<k2>catch
-<div n="lb"/>{@CATCH@}¦ (v. t.): <div n="I">I To seize: </div><div n="1">(1) {#धारयति#} <div n="xe">{%or%}</div> <div n="xs">{#धरति#}</div>
-<div n="lb"/>({#धृ,#} c. 10. and 1.), {%for which you were caught%}
-<div n="lb"/>{#धृतोऽसि यदर्थम्,#} N. i. 143; <div n="xe">{%for c. ing fish%}</div> <div n="xs">{#मत्स्य-#}
-<div n="lb"/>{#धारणार्थम्,#}</div> Tārānāth; </div><div n="1">(2) {#दधाति, धत्ते#} ({#धा,#} c. 3),
-<div n="lb"/><div n="xe">{%the king caught the bird with his hand%}</div> <div n="xs">{#नृपः पतङ्गं #}
-<div n="lb"/>{# तमधत्त पाणिना,#}</div> N. i. 124; </div><div n="1">(3) {#गृह्णाति#} ({#ग्रह्,#} c. 9),
-<div n="lb"/>{%caught the descending%} ({%ball%}) {%in the air%}
-<div n="lb"/>{#अवपतन्तमाकाश एवाग्रहीत्,#} D. vi.; <div n="xe">{%I was caught%}
-<div n="lb"/>{%stealing%}</div> <div n="xs">{#चोरयित्वा ग्राहितः,#}</div> D. iv.; </div><div n="1">(4) {#बध्नाति#}
-<div n="lb"/>({#बन्ध्,#} c. 9.) (=c. in a trap, etc.), <div n="xe">{%c. ing of%}
-<div n="lb"/>{%elephants%}</div> <div n="xs">{#कुञ्जरबन्धनम्,#}</div> Nil. </div><div n="I">II Of fire: {#उप-#}
-<div n="lb"/>{#गच्छति#} ({#गम्,#} c. l.) <div n="xe">{%or%}</div> <div n="xs">{#उपैति#}</div> ({#इ,#} c. 2.), <div n="xe">{%all of%}
-<div n="lb"/>{%them caught fire and died%}</div> <div n="xs">{#सर्व एव ज्वलनमुपगता #}
-<div n="lb"/>{# उपरताश्च,#}</div> Mu. ii. </div><div n="I">III Of disease: <div n="xe">{%to c. a%}
-<div n="lb"/>{%disease%}</div> <div n="xs">{#व्याधिमधिगच्छति#}</div> ({#गम्,#} c. l.), {#अवाप्नोति#}
-<div n="lb"/>({#आप्,#} c. 5.), etc., Śr. </div><div n="I">IV To ensnare:
-<div n="lb"/>Perh. {#धरति।#} V. To charm: q. v. </div><div n="I">VI To
-<div n="lb"/>overtake: q. v.</div>
+{@CATCH@}¦ (v. t.): <div n="I">I To seize: </div><div n="1">(1) {#धारयति#} <div n="xe">{%or%}</div> <div n="xs">{#धरति#}</div>
+({#धृ,#} c. 10. and 1.), {%for which you were caught%}
+{#धृतोऽसि यदर्थम्,#} N. i. 143; <div n="xe">{%for c. ing fish%}</div> <div n="xs">{#मत्स्य-#}
+{#धारणार्थम्,#}</div> Tārānāth; </div><div n="1">(2) {#दधाति, धत्ते#} ({#धा,#} c. 3),
+<div n="xe">{%the king caught the bird with his hand%}</div> <div n="xs">{#नृपः पतङ्गं #}
+{# तमधत्त पाणिना,#}</div> N. i. 124; </div><div n="1">(3) {#गृह्णाति#} ({#ग्रह्,#} c. 9),
+{%caught the descending%} ({%ball%}) {%in the air%}
+{#अवपतन्तमाकाश एवाग्रहीत्,#} D. vi.; <div n="xe">{%I was caught%}
+{%stealing%}</div> <div n="xs">{#चोरयित्वा ग्राहितः,#}</div> D. iv.; </div><div n="1">(4) {#बध्नाति#}
+({#बन्ध्,#} c. 9.) (=c. in a trap, etc.), <div n="xe">{%c. ing of%}
+{%elephants%}</div> <div n="xs">{#कुञ्जरबन्धनम्,#}</div> Nil. </div><div n="I">II Of fire: {#उप-#}
+{#गच्छति#} ({#गम्,#} c. l.) <div n="xe">{%or%}</div> <div n="xs">{#उपैति#}</div> ({#इ,#} c. 2.), <div n="xe">{%all of%}
+{%them caught fire and died%}</div> <div n="xs">{#सर्व एव ज्वलनमुपगता #}
+{# उपरताश्च,#}</div> Mu. ii. </div><div n="I">III Of disease: <div n="xe">{%to c. a%}
+{%disease%}</div> <div n="xs">{#व्याधिमधिगच्छति#}</div> ({#गम्,#} c. l.), {#अवाप्नोति#}
+({#आप्,#} c. 5.), etc., Śr. </div><div n="I">IV To ensnare:
+Perh. {#धरति।#} V. To charm: q. v. </div><div n="I">VI To
+overtake: q. v.</div>
 <LEND>

@@ -4,6 +4,6 @@
 <ls>JAIM.1,9. 15.</ls> 
 <ls>P.2,1,6.</ls> 
 <ls>VOP.6,58, Anf.</ls> <ls>KĀM. NĪTIS. 14,66.</ls> <ls>SĀH. D. 245,4. 7.</ls> <ls>PRATĀPAR. 100,a,7.</ls> <ls>SARVADARŚANAS. 12,12. 62,7.</ls> {#यौगपद्येन#} instr. = {#युगपद्#} 
-<ls>MBH. 1, 7858. 2, 995. 3, 12142. 15574. 14, 148.</ls> {#अ°#} 
+<ls>MBH. 1, 7858.</ls> <ls n="MBH.">2, 995.</ls> <ls n="MBH.">3, 12142.</ls> <ls n="MBH. 3,">15574.</ls> <ls n="MBH.">14, 148.</ls> {#अ°#} 
 <ls>KAṆ. 3, 2, 3. 8, 1, 11.</ls> <ls>BHĀṢĀP. 84.</ls>
 <LEND>

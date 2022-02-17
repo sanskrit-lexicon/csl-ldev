@@ -1,9 +1,9 @@
 <L>7132<pc>226<k1>eager<k2>eager
-<div n="lb"/>{@EAGER:@}¦ <div n="I">I Desirous: </div><div n="1">(1) {#लालसः#} ({#सा, सं#})
-<div n="lb"/>(best equiv.), <div n="xe">{%e. to see Śiva:%}</div> <div n="xs">{#ईशानसंदर्शनलालसः#}</div>
-<div n="lb"/>({#सा, सं#}), Ku.; </div><div n="1">(2) {#लोलुपः#} ({#पा, पं#}), <div n="xe">{%e. for an%}
-<div n="lb"/>{%embrace:%}</div> <div n="xs">{#आश्लेषलोलुपः#}</div> ({#पा, पं#}), Si. </div><div n="I">II Impe-
-<div n="lb"/>-tuous, fervent: </div><div n="1">(1) {#व्यग्रः#} ({#ग्रा, ग्रं#}); </div><div n="1">(2) {#उत्सुकः#}
-<div n="lb"/>({#का, कं#}), <div n="xe">{%the spring is very e.:%}</div> <div n="xs">{#पर्युत्सुक एष माधवः,#}</div>
-<div n="lb"/>Ku. </div><div n="I">III Brittle: q. v.</div>
+{@EAGER:@}¦ <div n="I">I Desirous: </div><div n="1">(1) {#लालसः#} ({#सा, सं#})
+(best equiv.), <div n="xe">{%e. to see Śiva:%}</div> <div n="xs">{#ईशानसंदर्शनलालसः#}</div>
+({#सा, सं#}), Ku.; </div><div n="1">(2) {#लोलुपः#} ({#पा, पं#}), <div n="xe">{%e. for an%}
+{%embrace:%}</div> <div n="xs">{#आश्लेषलोलुपः#}</div> ({#पा, पं#}), Si. </div><div n="I">II Impe-
+-tuous, fervent: </div><div n="1">(1) {#व्यग्रः#} ({#ग्रा, ग्रं#}); </div><div n="1">(2) {#उत्सुकः#}
+({#का, कं#}), <div n="xe">{%the spring is very e.:%}</div> <div n="xs">{#पर्युत्सुक एष माधवः,#}</div>
+Ku. </div><div n="I">III Brittle: q. v.</div>
 <LEND>

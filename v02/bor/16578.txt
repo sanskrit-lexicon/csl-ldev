@@ -1,6 +1,6 @@
 <L>16578<pc>509<k1>patrol<k2>patrol
-<div n="lb"/>{@PATROL@}¦ (subs.): <div n="I">I The act: {#रात्रिचर्या#} (?);
-<div n="lb"/>{#निशापरिक्रमः#} (?). </div><div n="I">II The men: </div><div n="1">(1) {#रक्षिणः#}
-<div n="lb"/>(m. pl.); </div><div n="1">(2) {#आरक्षकवर्गः;#} and sim. comp.s.
-<div n="lb"/>Ph.: <div n="xe">{%town p.:%}</div> <div n="xs">{#नागरिकबलम्,#}</div> D. ii.</div>
+{@PATROL@}¦ (subs.): <div n="I">I The act: {#रात्रिचर्या#} (?);
+{#निशापरिक्रमः#} (?). </div><div n="I">II The men: </div><div n="1">(1) {#रक्षिणः#}
+(m. pl.); </div><div n="1">(2) {#आरक्षकवर्गः;#} and sim. comp.s.
+Ph.: <div n="xe">{%town p.:%}</div> <div n="xs">{#नागरिकबलम्,#}</div> D. ii.</div>
 <LEND>

@@ -35,7 +35,7 @@
 <ls>M. 4, 182.</ls> {#अस्मिन्कानने#} 
 <ls>N. 12, 23.</ls> {#न केवलं मनुष्येषु दैवं देवेष्वपि प्रभुः#} 
 <ls>Spr. 1356.</ls> {#क्ष्मापण्यस्त्रीक्षण°#} 
-<ls>?1917. - M. 1, 28. 32. 91. 7, 181. 8, 312. N. 12, 34. 13, 37. R. 1, 4, 26. Spr. 1274. 1300. 1862. 1865. 2627. 2980. ŚĀK. 23, 15. VID. 7. 31. KATHĀS, 12, 119. 32, 140.</ls> {#प्रभो#} voc. 
+<ls>1917.</ls> - <ls>M. 1, 28. 32. 91. 7, 181. 8, 312.</ls> <ls>N. 12, 34. 13, 37.</ls> <ls>R. 1, 4, 26.</ls> <ls>Spr. 1274. 1300. 1862. 1865. 2627. 2980.</ls> <ls>ŚĀK. 23, 15.</ls> <ls>VID. 7. 31.</ls> <ls>KATHĀS, 12, 119. 32, 140.</ls> {#प्रभो#} voc. 
 <ls>M. 1, 3. 5, 2.</ls> 
 <ls>HIḌ. 1, 25.</ls> 
 <ls>N. 2, 8.</ls> 
@@ -43,8 +43,8 @@
 <ls>RAGH. 3, 65.</ls> 
 <ls>KATHĀS. 41, 3. 43, 23. 49, 201.</ls> 
 <ls>VID. 47. 307.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. 51, 5.</ls> {#प्रभुं देवम्#} von <is>Brahman</is> 
-<ls>CHĀND. UP. 8, 5,3.</ls>  
+<ls>BRAHMA-P. in LA. 51, 5.</ls> {#प्रभुं देवम्#} von <is>Brahman</is> 
+<ls>CHĀND. UP. 8, 5,3.</ls> 
 <ls>M. 7, 3.</ls> 
 <ls>SUND. 1, 19.</ls>
 [Page4-1043]
@@ -58,7 +58,7 @@ ohne {#देव#} von demselben
 <div n="1">— 2) <lex>m.</lex> N. pr. einer Gottheit unter dem 8ten <is>Manu</is> 
 <ls>MĀRK. P. 80, 7.</ls> eines Sohnes <is>Kardama's</is> 
 <ls>HARIV. 59.</ls> <is>Śuka's</is> von der <is>Pīvarī</is> 
-<ls>981.</ls> <is>Bhaga's</is> von der <is>Siddhi</is> 
+<ls n="HARIV.">981.</ls> <is>Bhaga's</is> von der <is>Siddhi</is> 
 <ls>BHĀG. P. 6, 18, 2.</ls> — Die Lexicographen kennen noch folgende Bedd.: <lex>adj.</lex> {%beständig, ewig%} ({#नित्य#}) 
 <ls>DHAR.</ls>; <lex>m.</lex> {%Laut%} ({#शब्द#}) 
 <ls>DHAR.</ls>; {%Quecksilber%} 

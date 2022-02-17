@@ -1,4 +1,4 @@
 <L>8848<pc>280<k1>fishmonger<k2>fishmonger
-<div n="lb"/>{@FISHMONGER:@}¦ <div n="1">(1) {#मत्स्यविक्रेतृ#} (m.); </div><div n="1">(2) {#मत्स्य-#}
-<div n="lb"/>{#विक्रयिन्#} (m.).</div>
+{@FISHMONGER:@}¦ <div n="1">(1) {#मत्स्यविक्रेतृ#} (m.); </div><div n="1">(2) {#मत्स्य-#}
+{#विक्रयिन्#} (m.).</div>
 <LEND>

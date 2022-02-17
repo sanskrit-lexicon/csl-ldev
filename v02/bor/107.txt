@@ -1,7 +1,7 @@
 <L>107<pc>005<k1>abuse<k2>abuse
-<div n="lb"/>{@ABUSE@}¦ (subs): <div n="I">I Ill-use: </div><div n="1">(1) {#कुव्यवहारः;#}</div>
-<div n="lb"/><div n="1">(2) {#दुर्व्यवहारः;#} </div><div n="1">(3) {#कुप्रयोगः#} (of word); </div><div n="1">(4)
-<div n="lb"/>{#वृथाहरणं#} (of time): </div><div n="I">II Contumely: </div><div n="1">(1)
-<div n="lb"/>{#अधिक्षेपः;#} </div><div n="1">(2) {#तिरस्कारः;#} </div><div n="1">(3) {#आक्रोशः;#} </div><div n="1">(4)
-<div n="lb"/>{#आक्षारः।#}</div>
+{@ABUSE@}¦ (subs): <div n="I">I Ill-use: </div><div n="1">(1) {#कुव्यवहारः;#}</div>
+<div n="1">(2) {#दुर्व्यवहारः;#} </div><div n="1">(3) {#कुप्रयोगः#} (of word); </div><div n="1">(4)
+{#वृथाहरणं#} (of time): </div><div n="I">II Contumely: </div><div n="1">(1)
+{#अधिक्षेपः;#} </div><div n="1">(2) {#तिरस्कारः;#} </div><div n="1">(3) {#आक्रोशः;#} </div><div n="1">(4)
+{#आक्षारः।#}</div>
 <LEND>

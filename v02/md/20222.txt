@@ -1,14 +1,14 @@
 <L>20222<pc>371-2<k1>स्वरभक्ति<k2>स्वरभक्ति
 {#स्वरभक्ति#}¦svara-bhakti, {%f.%} vowel portion, 
-<>{%i. e.%} vocalic sound {%heard after%} r {%or%} l {%when immediately %}<lbinfo n="2"/>
-<>{% followed by a consonant%}; {@-bhūta,@} 
-<>{%pp.%} become a vowel ({%i. e. changed from a semivowel %}<lbinfo n="4"/>
-<>{% + vowal to%} i {%or%} u); {@-bheda,@} {%m.%} indistinctness <lbinfo n="5"/>
-<> of voice, hoarseness; simulation of 
-<>voice; betrayal by {%one's%} voice; difference of 
-<>accent; difference of musical tones: {%in.%} in a 
-<>feigned voice: {@-bhaya,@} {%n.%} fear of betraying 
-<>{%one's%} voice; {@-yoga,@} {%m.%} combination of sounds, 
-<>voice; ({@svára@}) {@-vat,@} {%a.%} ({%Br.%}) sounding loud; 
-<>having a melodious voice; accented ({%also C.%}).
+{%i. e.%} vocalic sound {%heard after%} r {%or%} l {%when immediately %}<lbinfo n="2"/>
+{% followed by a consonant%}; {@-bhūta,@} 
+{%pp.%} become a vowel ({%i. e. changed from a semivowel %}<lbinfo n="4"/>
+{% + vowal to%} i {%or%} u); {@-bheda,@} {%m.%} indistinctness <lbinfo n="5"/>
+ of voice, hoarseness; simulation of 
+voice; betrayal by {%one's%} voice; difference of 
+accent; difference of musical tones: {%in.%} in a 
+feigned voice: {@-bhaya,@} {%n.%} fear of betraying 
+{%one's%} voice; {@-yoga,@} {%m.%} combination of sounds, 
+voice; ({@svára@}) {@-vat,@} {%a.%} ({%Br.%}) sounding loud; 
+having a melodious voice; accented ({%also C.%}).
 <LEND>

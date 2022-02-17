@@ -1,5 +1,5 @@
 <L>15362<pc>470<k1>nephew<k2>nephew
-<div n="lb"/>{@NEPHEW:@}¦ <div n="I">I A brother's son: </div><div n="1">(1) {#भ्रात्रीयः;#}</div>
-<div n="lb"/><div n="1">(2) {#भ्रातृव्यः;#} </div><div n="1">(3) {#भ्रातुष्पुत्रः।#} </div><div n="I">II A sister's son:</div>
-<div n="lb"/><div n="1">(1) {#भागिनेयः;#} </div><div n="1">(2) {#स्वस्रीयः;#} </div><div n="1">(3) {#भगिनीसुतः,#} P.</div>
+{@NEPHEW:@}¦ <div n="I">I A brother's son: </div><div n="1">(1) {#भ्रात्रीयः;#}</div>
+<div n="1">(2) {#भ्रातृव्यः;#} </div><div n="1">(3) {#भ्रातुष्पुत्रः।#} </div><div n="I">II A sister's son:</div>
+<div n="1">(1) {#भागिनेयः;#} </div><div n="1">(2) {#स्वस्रीयः;#} </div><div n="1">(3) {#भगिनीसुतः,#} P.</div>
 <LEND>

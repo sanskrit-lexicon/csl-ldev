@@ -1,7 +1,7 @@
 <L>27439<pc>753-a<k1>smell<k2>smell
-<div n="lb"/>SMELL¦, {%s.%} (Faculty or sense of smell) {#घ्राणं, घ्राणेन्द्रियं, घ्राणशक्तिः#} {%f.,%}
-<div n="lb"/>{#आघ्राणशक्तिः#} {%f.,%} {#गन्धग्रहणशक्तिः#} {%f.%} — (Perception of odour) {#गन्ध-#}
-<div n="lb"/>{#ग्रहणं, घ्राणं, आघ्राणं, अवघ्राणं, घ्रातिः#} {%f.%} — (Odour) {#गन्धः, वासः;#}
-<div n="lb"/>‘bad smell,’ {#दुर्गन्धः,#} {%see%} under ODOUR; ‘good smell,’ {#सुगन्धः,#}
-<div n="lb"/>{#सुवासः,#} {%see%} ODOUR, FRAGRANCE.
+SMELL¦, {%s.%} (Faculty or sense of smell) {#घ्राणं, घ्राणेन्द्रियं, घ्राणशक्तिः#} {%f.,%}
+{#आघ्राणशक्तिः#} {%f.,%} {#गन्धग्रहणशक्तिः#} {%f.%} — (Perception of odour) {#गन्ध-#}
+{#ग्रहणं, घ्राणं, आघ्राणं, अवघ्राणं, घ्रातिः#} {%f.%} — (Odour) {#गन्धः, वासः;#}
+‘bad smell,’ {#दुर्गन्धः,#} {%see%} under ODOUR; ‘good smell,’ {#सुगन्धः,#}
+{#सुवासः,#} {%see%} ODOUR, FRAGRANCE.
 <LEND>

@@ -1,8 +1,8 @@
 <L>20822<pc>654<k1>smile<k2>smile
-<div n="lb"/>{@SMILE@}¦ (v.): <div n="1">(1) {#स्मयते#} ({#स्मि,#} c. 1.), <div n="xe">{%and I s. d a%}
-<div n="lb"/>{%little:%}</div> <div n="xs">{#अहञ्च किञ्चिदस्मैषि,#}</div> D. v.; <div n="xe">{%s. d looking at%}
-<div n="lb"/>{%me and went away:%}</div> <div n="xs">{#मामभिवीक्ष्य स्मित्वा प्रातिष्ठत,#}</div>
-<div n="lb"/>D. ii.; </div><div n="1">(2) {#विहसति#} ({#हस्,#} c. 1.), <div n="xe">{%said s. ing%}
-<div n="lb"/>{%gently:%}</div> <div n="xs">{#मन्दं मन्दं विहस्याब्रवीत्,#}</div> K.: v. Also to
-<div n="lb"/>laugh.</div>
+{@SMILE@}¦ (v.): <div n="1">(1) {#स्मयते#} ({#स्मि,#} c. 1.), <div n="xe">{%and I s. d a%}
+{%little:%}</div> <div n="xs">{#अहञ्च किञ्चिदस्मैषि,#}</div> D. v.; <div n="xe">{%s. d looking at%}
+{%me and went away:%}</div> <div n="xs">{#मामभिवीक्ष्य स्मित्वा प्रातिष्ठत,#}</div>
+D. ii.; </div><div n="1">(2) {#विहसति#} ({#हस्,#} c. 1.), <div n="xe">{%said s. ing%}
+{%gently:%}</div> <div n="xs">{#मन्दं मन्दं विहस्याब्रवीत्,#}</div> K.: v. Also to
+laugh.</div>
 <LEND>

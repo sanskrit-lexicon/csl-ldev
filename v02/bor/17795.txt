@@ -1,6 +1,6 @@
 <L>17795<pc>545<k1>prison<k2>prison
-<div n="lb"/>{@PRISON:@}¦ <div n="1">(1) {#कारागारम्#} and sim. comp.s.; </div><div n="1">(2)
-<div n="lb"/>{#बन्धनागारम्;#} </div><div n="1">(3) {#कारा,#} Vi.; </div><div n="1">(4) {#चारः, -कः,#} D.,
-<div n="lb"/><div n="xe">{%Has escaped from the p.:%}</div> <div n="xs">{#बन्धनं भित्त्वापक्रामति,#}</div>
-<div n="lb"/>Mr.</div>
+{@PRISON:@}¦ <div n="1">(1) {#कारागारम्#} and sim. comp.s.; </div><div n="1">(2)
+{#बन्धनागारम्;#} </div><div n="1">(3) {#कारा,#} Vi.; </div><div n="1">(4) {#चारः, -कः,#} D.,
+<div n="xe">{%Has escaped from the p.:%}</div> <div n="xs">{#बन्धनं भित्त्वापक्रामति,#}</div>
+Mr.</div>
 <LEND>

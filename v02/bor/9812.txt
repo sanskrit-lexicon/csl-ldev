@@ -1,6 +1,6 @@
 <L>9812<pc>310<k1>german<k2>german
-<div n="lb"/>{@GERMAN:@}¦ <div n="I">I Kindred: {#सनाभि#} (mfn.). <div n="xe">{%Cousin%}
-<div n="lb"/>{%g.:%}</div> <div n="xs">{#एकपितामहः#}</div> ({#हा, हं#}). </div><div n="I">II Belonging to
-<div n="lb"/>G. y: {#*शार्मणः#} ({#णी, णं#}). </div><div n="I">III G. language:
-<div n="lb"/>{#*शार्मणभाषा।#} Ph.: G. silver: {#*उपरूप्यम्।#}</div>
+{@GERMAN:@}¦ <div n="I">I Kindred: {#सनाभि#} (mfn.). <div n="xe">{%Cousin%}
+{%g.:%}</div> <div n="xs">{#एकपितामहः#}</div> ({#हा, हं#}). </div><div n="I">II Belonging to
+G. y: {#*शार्मणः#} ({#णी, णं#}). </div><div n="I">III G. language:
+{#*शार्मणभाषा।#} Ph.: G. silver: {#*उपरूप्यम्।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>23820<pc>746<k1>veteran<k2>veteran
-<div n="lb"/>{@VETERAN:@}¦ <div n="xe">{%v. soldiers or v. s:%}</div> <div n="xs">{#योधाः परिदृष्टयुद्धाः;#}</div>
-<div n="lb"/><div n="xe">{%v. skill:%}</div> <div n="xs">{#पक्वकौशलम्;#}</div> <div n="xe">{%v. politician:%}</div> <div n="xs">{#अभ्यस्तनीति-#}
-<div n="lb"/>{#शास्त्र#}</div> (f. {#स्त्रा#}), B. xii. 14. com.: v. Experi-
-<div n="lb"/>-enced, old.
+{@VETERAN:@}¦ <div n="xe">{%v. soldiers or v. s:%}</div> <div n="xs">{#योधाः परिदृष्टयुद्धाः;#}</div>
+<div n="xe">{%v. skill:%}</div> <div n="xs">{#पक्वकौशलम्;#}</div> <div n="xe">{%v. politician:%}</div> <div n="xs">{#अभ्यस्तनीति-#}
+{#शास्त्र#}</div> (f. {#स्त्रा#}), B. xii. 14. com.: v. Experi-
+-enced, old.
 <LEND>

@@ -1,5 +1,5 @@
 <L>17362<pc>436-a<k1>landlady<k2>landlady
-<div n="lb"/>LANDLADY¦, {%s.%} (Woman who has tenants) {#भूस्वामिनी, क्षेत्रस्वामिनी#}.
-<div n="lb"/> — (Mistress of an inn) {#उत्तरणगृहस्वामिनी, उत्तरणशालास्वामिनी,#}
-<div n="lb"/>{#उपकारिकागृहाधिकारिणी, शौण्डिकी#}.
+LANDLADY¦, {%s.%} (Woman who has tenants) {#भूस्वामिनी, क्षेत्रस्वामिनी#}.
+ — (Mistress of an inn) {#उत्तरणगृहस्वामिनी, उत्तरणशालास्वामिनी,#}
+{#उपकारिकागृहाधिकारिणी, शौण्डिकी#}.
 <LEND>

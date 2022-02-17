@@ -1,3 +1,3 @@
 <L>42646<pc>246,2<k1>कतम<k2>कतम/<e>1
-<s>कतम/</s> ¦ <lex>mfn (<s>°अत्</s>). </lex> (superlative of <hom>2.</hom> <s>क</s>; declined as a <ab>pronom.</ab>, Gram. 236), who or which of many? (<ab>e.g.</ab> <s>कतमेन पथा यातास् ते</s>, by which road have they gone?)<info lexcat="LEXID=pron,STEM=katama"/>
+<s>कतम/</s> ¦ <lex>mfn (<s>°अत्</s>). </lex> (superlative of <hom>2.</hom> <s>क</s>; declined as a <ab>pronom.</ab>, <ls>Gram. 236</ls>), who or which of many? (<ab>e.g.</ab> <s>कतमेन पथा यातास् ते</s>, by which road have they gone?)<info lexcat="LEXID=pron,STEM=katama"/>
 <LEND>

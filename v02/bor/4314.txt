@@ -1,6 +1,6 @@
 <L>4314<pc>140<k1>concord<k2>concord
-<div n="lb"/>{@CONCORD:@}¦ <div n="I">I Union: q. v.: {#ऐक्यम्।#} </div><div n="I">II Com-
-<div n="lb"/>-pact: q. v. </div><div n="I">III In gram: </div><div n="1">(1) {#अन्वयः, सम्-;#}</div>
-<div n="lb"/><div n="1">(2) {#योजना,#} <div n="xe">{%remote c.:%}</div> <div n="xs">{#व्यवहितयोजना,#}</div> Da. </div><div n="I">IV
-<div n="lb"/>Harmony: q. v.: {#ऐक्यम्।#}</div>
+{@CONCORD:@}¦ <div n="I">I Union: q. v.: {#ऐक्यम्।#} </div><div n="I">II Com-
+-pact: q. v. </div><div n="I">III In gram: </div><div n="1">(1) {#अन्वयः, सम्-;#}</div>
+<div n="1">(2) {#योजना,#} <div n="xe">{%remote c.:%}</div> <div n="xs">{#व्यवहितयोजना,#}</div> Da. </div><div n="I">IV
+Harmony: q. v.: {#ऐक्यम्।#}</div>
 <LEND>

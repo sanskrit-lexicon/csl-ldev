@@ -1,9 +1,9 @@
 <L>23743<pc>634-a<k1>propension<k2>propension
-<div n="lb"/>PROPENSION¦, PROPENSITY, {%s.%} {#प्रवणता -त्वं, प्रावण्यं, मनःप्रावण्यं, चित्त-#}
-<div n="lb"/>{#प्रावण्यं, उन्मुखता, प्रवृत्तिः#} {%f.,%} {#प्रवाहः, शीलता -त्वं#} in comp., {#आलुता#}
-<div n="lb"/>affixed; ‘propensity to fall,’ {#पतनशीलता, पतयालुता, पतनो-#}
-<div n="lb"/>{#न्मुखता;#} ‘good propensity,’ {#सुशीलता, साधुशीलत्वं;#} ‘having
-<div n="lb"/>good propensities,’ {#सुशीलः -ला -लं;#} ‘evil propensity,’ {#दुर्व्यसनं,#}
-<div n="lb"/>{#व्यसनं, दुःशीलता, दुर्गुणं;#} ‘having evil propensities,’ {#दुर्व्यसनी#}
-<div n="lb"/>{#-निनी -नि (न्), दुःशीलः -ला -लं#}.
+PROPENSION¦, PROPENSITY, {%s.%} {#प्रवणता -त्वं, प्रावण्यं, मनःप्रावण्यं, चित्त-#}
+{#प्रावण्यं, उन्मुखता, प्रवृत्तिः#} {%f.,%} {#प्रवाहः, शीलता -त्वं#} in comp., {#आलुता#}
+affixed; ‘propensity to fall,’ {#पतनशीलता, पतयालुता, पतनो-#}
+{#न्मुखता;#} ‘good propensity,’ {#सुशीलता, साधुशीलत्वं;#} ‘having
+good propensities,’ {#सुशीलः -ला -लं;#} ‘evil propensity,’ {#दुर्व्यसनं,#}
+{#व्यसनं, दुःशीलता, दुर्गुणं;#} ‘having evil propensities,’ {#दुर्व्यसनी#}
+{#-निनी -नि (न्), दुःशीलः -ला -लं#}.
 <LEND>

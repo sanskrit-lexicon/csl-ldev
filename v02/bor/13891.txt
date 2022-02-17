@@ -1,4 +1,4 @@
 <L>13891<pc>427<k1>lukewarmness<k2>lukewarmness
-<div n="lb"/>{@LUKEWARMNESS:@}¦ <div n="I">I Lit.: {#कोष्णता#} <div n="xe">{%or%}</div> <div n="xs">{#कवोष्णता।#}</div></div>
-<div n="lb"/><div n="I">II Indifference: {#मन्दोत्साहः।#}</div>
+{@LUKEWARMNESS:@}¦ <div n="I">I Lit.: {#कोष्णता#} <div n="xe">{%or%}</div> <div n="xs">{#कवोष्णता।#}</div></div>
+<div n="I">II Indifference: {#मन्दोत्साहः।#}</div>
 <LEND>

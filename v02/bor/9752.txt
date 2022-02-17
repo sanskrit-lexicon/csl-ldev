@@ -1,9 +1,9 @@
 <L>9752<pc>308<k1>gender<k2>gender
-<div n="lb"/>{@GENDER:@}¦ {#लिङ्गम्,#} <div n="xe">{%of masculine g.:%}</div> <div n="xs">{#पुंलिङ्गः;#}</div> <div n="xe">{%of feminine%}
-<div n="lb"/>{%g.:%}</div> <div n="xs">{#स्त्रीलिङ्गा;#}</div> <div n="xe">{%of neuter g.:%}</div> <div n="xs">{#क्लीवलिङ्गम्;#}</div> {%of two g. s:%}
-<div n="lb"/>{#द्विलिङ्ग#} ({#ङ्गा, ङ्गं#}), <div n="xe">{%of three g.s:%}</div> <div n="xs">{#त्रिलिङ्गः#}</div> ({#ङ्गा, ङ्गं#});
-<div n="lb"/><div n="xe">{%a predicative noun of invariable g.:%}</div> <div n="xs">{#अजहल्लिङ्गः;#}</div>
-<div n="lb"/>{%these%} ({%words%}) <div n="xe">{%are of masculine g.:%}</div> <div n="xs">{#एतानि पुंसि स्युः;#}</div>
-<div n="lb"/>{%the%} ({%words%}) {#अर्चिः#} <div n="xe">{%is of feminine and neuter g.:%}</div> <div n="xs">{#अर्चिः #}
-<div n="lb"/>{# सित्रयान्नपुंसके च स्यात्,#}</div> S. k.
+{@GENDER:@}¦ {#लिङ्गम्,#} <div n="xe">{%of masculine g.:%}</div> <div n="xs">{#पुंलिङ्गः;#}</div> <div n="xe">{%of feminine%}
+{%g.:%}</div> <div n="xs">{#स्त्रीलिङ्गा;#}</div> <div n="xe">{%of neuter g.:%}</div> <div n="xs">{#क्लीवलिङ्गम्;#}</div> {%of two g. s:%}
+{#द्विलिङ्ग#} ({#ङ्गा, ङ्गं#}), <div n="xe">{%of three g.s:%}</div> <div n="xs">{#त्रिलिङ्गः#}</div> ({#ङ्गा, ङ्गं#});
+<div n="xe">{%a predicative noun of invariable g.:%}</div> <div n="xs">{#अजहल्लिङ्गः;#}</div>
+{%these%} ({%words%}) <div n="xe">{%are of masculine g.:%}</div> <div n="xs">{#एतानि पुंसि स्युः;#}</div>
+{%the%} ({%words%}) {#अर्चिः#} <div n="xe">{%is of feminine and neuter g.:%}</div> <div n="xs">{#अर्चिः #}
+{# सित्रयान्नपुंसके च स्यात्,#}</div> S. k.
 <LEND>

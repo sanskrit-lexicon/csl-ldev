@@ -1,11 +1,11 @@
 <L>26168<pc>713-a<k1>scene<k2>scene
-<div n="lb"/>SCENE¦, {%s.%} (Stage) {#रङ्गः, रङ्गभूमिः#} {%f.,%} {#रङ्गशाला;#} ‘back of the scenes,’
-<div n="lb"/>{#नेपथ्यं;#} ‘behind the scenes,’ {#नेपथ्ये#}. — (Curtain or hanging
-<div n="lb"/>of a theatre) {#अपटी#}. — (Division of an act) {#प्रवेशः, पात्रप्रवेशः,#}
-<div n="lb"/>{#अङ्कपरिच्छेदः;#} ‘introductory scene,’ {#प्रवेशकः#}. — (Place repre-
-<div n="lb"/>sented) {#भूमिः#} {%f.,%} {#स्थलं -ली, स्थानाकारः, स्थानप्रतिरूपं, भूमिप्रतिरूपं#}.
-<div n="lb"/> — (Place where any thing is represented) {#रङ्गः, भूमिः#} {%f.%} — 
-<div n="lb"/>(Painting representing scenery) {#चित्रगता गृहवृक्षादिरचना,#}
-<div n="lb"/>{#वर्णगता दृक्पातविषयरचना#}. — (Assemblage of objects seen at
-<div n="lb"/>one view) {#दृक्पातविषयः, दृक्पथगोचरविषयाः#} {%m. pl.,%} {#दृष्टिपातविषयः#}.
+SCENE¦, {%s.%} (Stage) {#रङ्गः, रङ्गभूमिः#} {%f.,%} {#रङ्गशाला;#} ‘back of the scenes,’
+{#नेपथ्यं;#} ‘behind the scenes,’ {#नेपथ्ये#}. — (Curtain or hanging
+of a theatre) {#अपटी#}. — (Division of an act) {#प्रवेशः, पात्रप्रवेशः,#}
+{#अङ्कपरिच्छेदः;#} ‘introductory scene,’ {#प्रवेशकः#}. — (Place repre-
+sented) {#भूमिः#} {%f.,%} {#स्थलं -ली, स्थानाकारः, स्थानप्रतिरूपं, भूमिप्रतिरूपं#}.
+ — (Place where any thing is represented) {#रङ्गः, भूमिः#} {%f.%} — 
+(Painting representing scenery) {#चित्रगता गृहवृक्षादिरचना,#}
+{#वर्णगता दृक्पातविषयरचना#}. — (Assemblage of objects seen at
+one view) {#दृक्पातविषयः, दृक्पथगोचरविषयाः#} {%m. pl.,%} {#दृष्टिपातविषयः#}.
 <LEND>

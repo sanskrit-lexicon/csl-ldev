@@ -1,4 +1,4 @@
 <L>3258<pc>108<k1>cauliflower<k2>cauliflower
-<div n="lb"/>{@CAULIFLOWER:@}¦ <div n="I">I The plant: {#कबिपुष्पः#};
-<div n="lb"/>{#शाकभेदः।#} </div><div n="I">II The flower: {#*कबिपुष्पम्।#}</div>
+{@CAULIFLOWER:@}¦ <div n="I">I The plant: {#कबिपुष्पः#};
+{#शाकभेदः।#} </div><div n="I">II The flower: {#*कबिपुष्पम्।#}</div>
 <LEND>

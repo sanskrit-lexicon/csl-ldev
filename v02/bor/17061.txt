@@ -1,5 +1,5 @@
 <L>17061<pc>522<k1>pimp<k2>pimp
-<div n="lb"/>{@PIMP@}¦ (v.): {#स्त्रीः#} <div n="xe">{%or%}</div> <div n="xs">{#नारीः संयोजयति#}</div> (c. of {#युज्#}), {%or%}
-<div n="lb"/>{#सज्जयति#} (c. of {#सज्ज्#}), <div n="xe">{%or%}</div> <div n="xs">{#संश्लेषयति#}</div> (c. of {#श्लिष्#}),
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#संगमयति#}</div> (c. of {#गम्#}), M. viii. 362.
+{@PIMP@}¦ (v.): {#स्त्रीः#} <div n="xe">{%or%}</div> <div n="xs">{#नारीः संयोजयति#}</div> (c. of {#युज्#}), {%or%}
+{#सज्जयति#} (c. of {#सज्ज्#}), <div n="xe">{%or%}</div> <div n="xs">{#संश्लेषयति#}</div> (c. of {#श्लिष्#}),
+<div n="xe">{%or%}</div> <div n="xs">{#संगमयति#}</div> (c. of {#गम्#}), M. viii. 362.
 <LEND>

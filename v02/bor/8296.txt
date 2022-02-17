@@ -1,4 +1,4 @@
 <L>8296<pc>262<k1>fabric<k2>fabric
-<div n="lb"/>{@FABRIC:@}¦ <div n="I">I Texture: q.v. </div><div n="I">II Edifice:
-<div n="lb"/>q.v.: {#भवनम्।#} </div><div n="I">III Cloth: q.v.: {#पट्टः।#}</div>
+{@FABRIC:@}¦ <div n="I">I Texture: q.v. </div><div n="I">II Edifice:
+q.v.: {#भवनम्।#} </div><div n="I">III Cloth: q.v.: {#पट्टः।#}</div>
 <LEND>

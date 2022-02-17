@@ -1,5 +1,5 @@
 <L>23699<pc>742<k1>variable<k2>variable
-<div n="lb"/>{@VARIABLE:@}¦ <div n="1">(1) {#अस्थिर#} (f. {#रा#}): v. Inconstant;</div>
-<div n="lb"/><div n="1">(2) {#चञ्चल#} (f. {#ला#}): v. Fickle; </div><div n="1">(3) {#परिवर्तन-#}
-<div n="lb"/>{#शील#} (f. {#ला#} = changeable).</div>
+{@VARIABLE:@}¦ <div n="1">(1) {#अस्थिर#} (f. {#रा#}): v. Inconstant;</div>
+<div n="1">(2) {#चञ्चल#} (f. {#ला#}): v. Fickle; </div><div n="1">(3) {#परिवर्तन-#}
+{#शील#} (f. {#ला#} = changeable).</div>
 <LEND>

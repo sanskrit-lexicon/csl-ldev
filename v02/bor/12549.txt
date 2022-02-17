@@ -1,8 +1,8 @@
 <L>12549<pc>389<k1>interrupt<k2>interrupt
-<div n="lb"/>{@INTERRUPT:@}¦ <div n="1">(1) {#प्रतिबध्नाति#} ({#बन्ध्,#} c. 9.), <div n="xe">{%do not%}
-<div n="lb"/>{%i. him:%}</div> <div n="xs">{#मैनमन्तरा प्रतिबध्नीतम्,#}</div> Sa.; </div><div n="1">(2) {#उप-रुणद्धि, #}
-<div n="lb"/>{# नि-,#} ({#रुध्,#} c. 7.) (= to check), {%to i. his progress:%}
-<div n="lb"/>{#तत्प्रसरं निरोद्धुम्,#} Vi. iv. 6.; </div><div n="1">(3) {#आक्षिपति#} ({#क्षिप्,#}
-<div n="lb"/>c. 6.) (= to throw out), {%i. ing his saying:%}
-<div n="lb"/>{#अस्य वचनमाक्षिप्य,#} K.: v. Also to break off.</div>
+{@INTERRUPT:@}¦ <div n="1">(1) {#प्रतिबध्नाति#} ({#बन्ध्,#} c. 9.), <div n="xe">{%do not%}
+{%i. him:%}</div> <div n="xs">{#मैनमन्तरा प्रतिबध्नीतम्,#}</div> Sa.; </div><div n="1">(2) {#उप-रुणद्धि, #}
+{# नि-,#} ({#रुध्,#} c. 7.) (= to check), {%to i. his progress:%}
+{#तत्प्रसरं निरोद्धुम्,#} Vi. iv. 6.; </div><div n="1">(3) {#आक्षिपति#} ({#क्षिप्,#}
+c. 6.) (= to throw out), {%i. ing his saying:%}
+{#अस्य वचनमाक्षिप्य,#} K.: v. Also to break off.</div>
 <LEND>

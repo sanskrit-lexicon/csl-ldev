@@ -1,5 +1,5 @@
 <L>11235<pc>353<k1>hostility<k2>hostility
-<div n="lb"/>{@HOSTILITY:@}¦ <div n="I">I Enmity: q.v.: {#वैरभावः।#} </div><div n="I">II
-<div n="lb"/>Hostile operations: </div><div n="1">(1) {#विग्रहः;#} </div><div n="1">(2) {#विरोघः:#}
-<div n="lb"/>v. War.</div>
+{@HOSTILITY:@}¦ <div n="I">I Enmity: q.v.: {#वैरभावः।#} </div><div n="I">II
+Hostile operations: </div><div n="1">(1) {#विग्रहः;#} </div><div n="1">(2) {#विरोघः:#}
+v. War.</div>
 <LEND>

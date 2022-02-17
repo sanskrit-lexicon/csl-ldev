@@ -1,6 +1,6 @@
 <L>15676<pc>481<k1>oblique<k2>oblique
-<div n="lb"/>{@OBLIQUE:@}¦ {#वक्र#} (f. {#क्रा#}), <div n="xe">{%o. line:%}</div> <div n="xs">{#वक्ररेखा;#}</div> <div n="xe">{%o.%}
-<div n="lb"/>{%insinuation:%}</div> <div n="xs">{#वक्रोक्तिः;#}</div> <div n="xe">{%o. speech:%}</div> <div n="xs">{#*कथकस्य#}</div>
-<div n="lb"/>i. e. {%teller's%} (in opposition to {#वक्तुः#} = {%speaker's%}
-<div n="lb"/>i. e. direct) {#उक्तिः;#} <div n="xe">{%o. case:%}</div> <div n="xs">{#अप्रधानकारकम्।#}</div>
+{@OBLIQUE:@}¦ {#वक्र#} (f. {#क्रा#}), <div n="xe">{%o. line:%}</div> <div n="xs">{#वक्ररेखा;#}</div> <div n="xe">{%o.%}
+{%insinuation:%}</div> <div n="xs">{#वक्रोक्तिः;#}</div> <div n="xe">{%o. speech:%}</div> <div n="xs">{#*कथकस्य#}</div>
+i. e. {%teller's%} (in opposition to {#वक्तुः#} = {%speaker's%}
+i. e. direct) {#उक्तिः;#} <div n="xe">{%o. case:%}</div> <div n="xs">{#अप्रधानकारकम्।#}</div>
 <LEND>

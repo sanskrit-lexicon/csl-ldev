@@ -1,4 +1,4 @@
 <L>9399<pc>298<k1>french<k2>french
-<div n="lb"/>{@FRENCH:@}¦ {#*फरासीयः#} ({#या, यं#}). Ph.: <div n="xe">{%to take f.%}
-<div n="lb"/>{%leave:%}</div> <div n="xs">{#*चौरप्रस्थानं करोति।#}</div> <div n="xe">{%F. -bean:%}</div> <div n="xs">{#क्षुद्रशिम्बिः।#}</div>
+{@FRENCH:@}¦ {#*फरासीयः#} ({#या, यं#}). Ph.: <div n="xe">{%to take f.%}
+{%leave:%}</div> <div n="xs">{#*चौरप्रस्थानं करोति।#}</div> <div n="xe">{%F. -bean:%}</div> <div n="xs">{#क्षुद्रशिम्बिः।#}</div>
 <LEND>

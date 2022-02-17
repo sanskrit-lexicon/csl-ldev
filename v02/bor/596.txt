@@ -1,7 +1,7 @@
 <L>596<pc>022<k1>allowance<k2>allowance
-<div n="lb"/>{@ALLOWANCE:@}¦ <div n="I">I Acknowledgment: q. v.:
-<div n="lb"/>{#स्वीकारः।#} </div><div n="I">II Permission: q. v.: {#अनुज्ञा।#} </div><div n="I">III
-<div n="lb"/>That which is allowed: no equiv.: {#वृत्तिः,#} <div n="xe">{%of%}
-<div n="lb"/>{%the Pandits enjoying my a. s.%}</div> <div n="xs">{#मद्दत्तां वृत्तिं भुञ्जानानां #}
-<div n="lb"/>{# पण्डितानां,#}</div> P.</div>
+{@ALLOWANCE:@}¦ <div n="I">I Acknowledgment: q. v.:
+{#स्वीकारः।#} </div><div n="I">II Permission: q. v.: {#अनुज्ञा।#} </div><div n="I">III
+That which is allowed: no equiv.: {#वृत्तिः,#} <div n="xe">{%of%}
+{%the Pandits enjoying my a. s.%}</div> <div n="xs">{#मद्दत्तां वृत्तिं भुञ्जानानां #}
+{# पण्डितानां,#}</div> P.</div>
 <LEND>

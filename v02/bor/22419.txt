@@ -1,4 +1,4 @@
 <L>22419<pc>707<k1>thereby<k2>thereby
-<div n="lb"/>{@THEREBY:@}¦ <div n="1">(1) {#तेन;#} </div><div n="1">(2) by {#येन#} (= by which),
-<div n="lb"/><div n="xe">{%t. I will play with you:%}</div> <div n="xs">{#येन दीव्याम्यहं त्वया।#}</div></div>
+{@THEREBY:@}¦ <div n="1">(1) {#तेन;#} </div><div n="1">(2) by {#येन#} (= by which),
+<div n="xe">{%t. I will play with you:%}</div> <div n="xs">{#येन दीव्याम्यहं त्वया।#}</div></div>
 <LEND>

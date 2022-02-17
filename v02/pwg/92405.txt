@@ -5,7 +5,7 @@
 <ls>MED. dh. 36.</ls> {#जनाः#} 
 <ls>PAÑCAT. II, 47.</ls> {#°जन#} 
 <ls>Spr. 2742.</ls> {#आपन्नाशाय विबुधैः कर्तव्याः सुहृदो ऽमलाः#} 
-<ls>Spr. 965 (II). 3089.</ls> <ls>KATHĀS. 63, 105.</ls> <ls>BHĀG. P. 3, 8, 4.</ls> <ls>VET.</ls> in <ls>LA. (III) 20, 16, v. l.</ls> {#अविबुधजन#} 
+<ls>Spr. 965 (II). 3089.</ls> <ls>KATHĀS. 63, 105.</ls> <ls>BHĀG. P. 3, 8, 4.</ls> <ls>VET. in LA. (III) 20, 16, v. l.</ls> {#अविबुधजन#} 
 <ls>Spr. 2297 (II).</ls> 
 <div n="1">— 2) <lex>m.</lex> {%ein Gott%} 
 <ls>AK. 1, 1, 1, 2.</ls> 
@@ -13,9 +13,9 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 1, 4.</ls> 
-<ls>MBH. 1, 1126. 1161. 7700. 3, 2190. 13, 1840.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 46, 35.</ls> 
+<ls>MBH. 1, 1126.</ls> <ls n="MBH. 1,">1161.</ls> <ls n="MBH. 1,">7700.</ls> <ls n="MBH.">3, 2190.</ls> <ls n="MBH.">13, 1840.</ls> 
+
+<ls>R. GORR. 1, 46, 35.</ls> 
 <ls>VARĀH. BṚH. S. 2, Anf. 43, 41. 46, 17. 48, 32.</ls> <ls>GĪT. 10, 15.</ls> <ls>BHĀG. P. 4, 24, 12.</ls> {#विबुधर्षभ#} 
 <ls>4, 1, 23.</ls> {#विबुधाधिपत्य#} 
 <ls>2, 7, 18.</ls> {#विबुधानुचराः#} 

@@ -1,7 +1,7 @@
 <L>14065<pc>432<k1>male<k2>male
-<div n="lb"/>{@MALE@}¦ (subs.): <div n="1">(1) {#पुमान्,#} {%of the m. and the%}
-<div n="lb"/><div n="xe">{%female:%}</div> <div n="xs">{#स्त्रीपुंसयोः,#}</div> <ls>D.</ls> ; </div><div n="1">(2) {#पुरुषः।#} N.B. When
-<div n="lb"/>standing for a m. animal, better expr. by
-<div n="lb"/>the word itself, <div n="xe">{%she said to the m.:%}</div> <div n="xs">{#सा टिट्टि-#}
-<div n="lb"/>{#भमूचे,#}</div> P.</div>
+{@MALE@}¦ (subs.): <div n="1">(1) {#पुमान्,#} {%of the m. and the%}
+<div n="xe">{%female:%}</div> <div n="xs">{#स्त्रीपुंसयोः,#}</div> <ls>D.</ls> ; </div><div n="1">(2) {#पुरुषः।#} N.B. When
+standing for a m. animal, better expr. by
+the word itself, <div n="xe">{%she said to the m.:%}</div> <div n="xs">{#सा टिट्टि-#}
+{#भमूचे,#}</div> P.</div>
 <LEND>

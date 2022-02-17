@@ -3,9 +3,9 @@
 <div n="1"> 1) {%das Eintreten, Hineingehen, Einziehen in%} 
 <ls>KĀTY. ŚR. 4, 15, 29. 11, 1, 22.</ls> 
 <ls>YĀJÑ. 3, 14.</ls> {#सभायाम्#} 
-<ls>MBH. 2, 96. 5, 3108. 12, 1393.</ls> 
+<ls>MBH. 2, 96.</ls> <ls n="MBH.">5, 3108.</ls> <ls n="MBH.">12, 1393.</ls> 
 <ls>HARIV. 10012.</ls> {#द्वारकायाः#} 
-<ls>10017.</ls> <ls>R. GORR. 1, 4, 55. 3, 76, 35.</ls> <ls>SĀH. D. 12, 2.</ls> {#शाला°#} 
+<ls n="HARIV.">10017.</ls> <ls>R. GORR. 1, 4, 55. 3, 76, 35.</ls> <ls>SĀH. D. 12, 2.</ls> {#शाला°#} 
 <ls>KĀTY. ŚR. 12, 4, 9.</ls> {#सभा°#} 
 <ls>PĀR. GṚHY. 3, 13.</ls> {#अग्नि°#} 
 <ls>VID. 202.</ls> 

@@ -1,4 +1,4 @@
 <L>24467<pc>656-a<k1>rarity<k2>rarity
-<div n="lb"/>RARITY¦, {%s.%} (Scarceness), {%see%} the last. — (Rare thing) {#दुर्लभवस्तु#} {%n.,%}
-<div n="lb"/>{#दुर्लभद्रव्यं, उत्कृष्टद्रव्यं, कौतुकं, कौतूहलं#}.
+RARITY¦, {%s.%} (Scarceness), {%see%} the last. — (Rare thing) {#दुर्लभवस्तु#} {%n.,%}
+{#दुर्लभद्रव्यं, उत्कृष्टद्रव्यं, कौतुकं, कौतूहलं#}.
 <LEND>

@@ -1,4 +1,4 @@
 <L>3045<pc>102<k1>capsule<k2>capsule
-<div n="lb"/>{@CAPSULE:@}¦ <div n="1">(1) {#वीजकोशः#} ({#षः#}), Bha; </div><div n="1">(2) {#कर्णिका#},
-<div n="lb"/>Bha.</div>
+{@CAPSULE:@}¦ <div n="1">(1) {#वीजकोशः#} ({#षः#}), Bha; </div><div n="1">(2) {#कर्णिका#},
+Bha.</div>
 <LEND>

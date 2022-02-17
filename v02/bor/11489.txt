@@ -1,3 +1,3 @@
 <L>11489<pc>360<k1>iguana<k2>iguana
-<div n="lb"/>{@IGUANA:@}¦ <div n="1">(1) {#गोधा#} <div n="xe">{%or%}</div> <div n="xs">{#गोधिका;#}</div> </div><div n="1">(2) {#गौधेयः#} ({#रः#}).</div>
+{@IGUANA:@}¦ <div n="1">(1) {#गोधा#} <div n="xe">{%or%}</div> <div n="xs">{#गोधिका;#}</div> </div><div n="1">(2) {#गौधेयः#} ({#रः#}).</div>
 <LEND>

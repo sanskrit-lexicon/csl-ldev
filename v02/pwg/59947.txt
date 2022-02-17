@@ -5,13 +5,13 @@
 <ls>P. 4, 3, 3.</ls> 
 <ls>VOP. 7, 22.</ls> 
 <ls>H. an. 3, 83.</ls> 
-<ls>MED. k. 137.</ls> <ls>ṚV. 10, 17, 14.</ls> <ls n="ṚV. 10,">103, 10.</ls> <ls n="ṚV. 10,">159, 1.</ls> <ls>VS. 19, 46.</ls> <ls>BHAG. 1, 1. 15, 12.</ls> <ls>MBH. 1, 167. 2, 583. 3, 12935. 13513. 4, 314. 12, 2890.</ls> <ls>HARIV. 7086.</ls> <ls>R. 1, 22, 13. 60, 27. 2, 31, 35. 34, 10. 6, 36, 42.</ls> <ls>RĀJA-TAR.  3, 270.</ls> <ls>KATHĀS. 10, 185. 52, 245. 56, 55.</ls> <ls>BHĀG. P. 3, 24, 4.</ls> <ls>MĀRK. P. 23, 83.</ls>
+<ls>MED. k. 137.</ls> <ls>ṚV. 10, 17, 14.</ls> <ls n="ṚV. 10,">103, 10.</ls> <ls n="ṚV. 10,">159, 1.</ls> <ls>VS. 19, 46.</ls> <ls>BHAG. 1, 1. 15, 12.</ls> <ls>MBH. 1, 167.</ls> <ls n="MBH.">2, 583.</ls> <ls n="MBH.">3, 12935.</ls> <ls n="MBH. 3,">13513.</ls> <ls n="MBH.">4, 314.</ls> <ls n="MBH.">12, 2890.</ls> <ls>HARIV. 7086.</ls> <ls>R. 1, 22, 13. 60, 27. 2, 31, 35. 34, 10. 6, 36, 42.</ls> <ls>RĀJA-TAR. 3, 270.</ls> <ls>KATHĀS. 10, 185. 52, 245. 56, 55.</ls> <ls>BHĀG. P. 3, 24, 4.</ls> <ls>MĀRK. P. 23, 83.</ls>
 [Page5-0732]
 <lex>f.</lex> {#मामिका#} 
 <ls>P. 7, 3, 44, <is>Vārtt</is>. 1.</ls> 
 <ls>PAT.</ls> zu <ls>P. 4, 1, 30</ls> {#(मामका#} beim 
 <ls>Schol.</ls> zu <ls>P. 4, 1, 30</ls> fehlerhaft). 
-<ls>MBH. 4, 1622. 7, 3057.</ls> 
+<ls>MBH. 4, 1622.</ls> <ls n="MBH.">7, 3057.</ls> 
 <ls>R. 2, 105, 2. 3, 23, 22.</ls> {#मामकी#} ved. 
 <ls>P. 4, 1, 30.</ls> 
 <ls>KĀŚ.</ls> zu <ls>P. 1, 1, 19.</ls> <ls>BHAG. 9, 7</ls> (die meisten Autt. {#मामिका)#} . 

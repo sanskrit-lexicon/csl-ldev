@@ -1,5 +1,5 @@
 <L>11644<pc>364<k1>imperative<k2>imperative
-<div n="lb"/>{@IMPERATIVE:@}¦ <div n="I">I Absolute, obligatory: {#अखण्ड्य#}
-<div n="lb"/>(f. {#ण्ड्या#}). </div><div n="I">II In gram. {#विञ्यर्थकः#} ({#का, कं#}),
-<div n="lb"/>{#“लोट्प्रत्ययो भवति धातोर्विध्यादिष्वर्थेषु”,#} Kāśikā.</div>
+{@IMPERATIVE:@}¦ <div n="I">I Absolute, obligatory: {#अखण्ड्य#}
+(f. {#ण्ड्या#}). </div><div n="I">II In gram. {#विञ्यर्थकः#} ({#का, कं#}),
+{#“लोट्प्रत्ययो भवति धातोर्विध्यादिष्वर्थेषु”,#} Kāśikā.</div>
 <LEND>

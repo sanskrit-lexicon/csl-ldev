@@ -1,4 +1,4 @@
 <L>24309<pc>760<k1>whit<k2>whit
-<div n="lb"/>{@WHIT:@}¦ {#लेशः:#} v. Iota, Ph.: <div n="xe">{%not a w.:%}</div> <div n="xs">{#न #}
-<div n="lb"/>{# मनागपि;#}</div> <div n="xe">{%every w.:%}</div> <div n="xs">{#सर्वथा।#}</div>
+{@WHIT:@}¦ {#लेशः:#} v. Iota, Ph.: <div n="xe">{%not a w.:%}</div> <div n="xs">{#न #}
+{# मनागपि;#}</div> <div n="xe">{%every w.:%}</div> <div n="xs">{#सर्वथा।#}</div>
 <LEND>

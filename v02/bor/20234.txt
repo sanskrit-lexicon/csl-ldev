@@ -1,7 +1,7 @@
 <L>20234<pc>631<k1>set in<k2>set in
-<div n="lb"/>{@SET IN:@}¦ {#आगच्छति, उप-, समुप-,#} ({#गम्,#} c. 1.), <div n="xe">{%the%}
-<div n="lb"/>{%hot season had s. in:%}</div> <div n="xs">{#वसन्तकालः समुपागतः,#}</div> Ri. i.
-<div n="lb"/>1.: v. To come. Ph.: {%to s. in motion:%}
-<div n="lb"/>{#संचालयति#} (c. of {#चल्#}): v. To move; {%s. in%}
-<div n="lb"/>{%order:%} v. To arrange.
+{@SET IN:@}¦ {#आगच्छति, उप-, समुप-,#} ({#गम्,#} c. 1.), <div n="xe">{%the%}
+{%hot season had s. in:%}</div> <div n="xs">{#वसन्तकालः समुपागतः,#}</div> Ri. i.
+1.: v. To come. Ph.: {%to s. in motion:%}
+{#संचालयति#} (c. of {#चल्#}): v. To move; {%s. in%}
+{%order:%} v. To arrange.
 <LEND>

@@ -1,5 +1,5 @@
 <L>8064<pc>255<k1>exhalation<k2>exhalation
-<div n="lb"/>{@EXHALATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#उद्गारः;#} </div><div n="1">(2)
-<div n="lb"/>{#उत्क्षेपः।#} </div><div n="I">II That which is exhaled: perh.
-<div n="lb"/>{#उद्गारः,#} N.</div>
+{@EXHALATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#उद्गारः;#} </div><div n="1">(2)
+{#उत्क्षेपः।#} </div><div n="I">II That which is exhaled: perh.
+{#उद्गारः,#} N.</div>
 <LEND>

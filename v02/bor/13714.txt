@@ -1,4 +1,4 @@
 <L>13714<pc>422<k1>locality<k2>locality
-<div n="lb"/>{@LOCALITY:@}¦ <div n="I">I Place: q. v.: {#स्थानम्।#} </div><div n="I">II Posi-
-<div n="lb"/>-tion: {#संस्थानम्#} <div n="xe">{%or%}</div> <div n="xs">{#संस्थितिः।#}</div></div>
+{@LOCALITY:@}¦ <div n="I">I Place: q. v.: {#स्थानम्।#} </div><div n="I">II Posi-
+-tion: {#संस्थानम्#} <div n="xe">{%or%}</div> <div n="xs">{#संस्थितिः।#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>11869<pc>371<k1>inclusive<k2>inclusive
-<div n="lb"/>{@INCLUSIVE:@}¦ expr. by ins. or with {#सह्#} <div n="xe">{%there i.%}
-<div n="lb"/>{%of self:%}</div> <div n="xs">{#आत्मना तृतीयः,#}</div> vi. i.; <div n="xe">{%from Monday to%}
-<div n="lb"/>{%Saturday i.:%}</div> <div n="xs">{#सोमवारमारभ्य सशनिवारपर्यन्तम्#}</div> (?).
+{@INCLUSIVE:@}¦ expr. by ins. or with {#सह्#} <div n="xe">{%there i.%}
+{%of self:%}</div> <div n="xs">{#आत्मना तृतीयः,#}</div> vi. i.; <div n="xe">{%from Monday to%}
+{%Saturday i.:%}</div> <div n="xs">{#सोमवारमारभ्य सशनिवारपर्यन्तम्#}</div> (?).
 <LEND>

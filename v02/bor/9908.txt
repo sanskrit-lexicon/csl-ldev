@@ -1,6 +1,6 @@
 <L>9908<pc>313<k1>give up<k2>give up
-<div n="lb"/>{@GIVE UP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#ददाति;#} </div><div n="1">(2) {#समर्पयति:#}
-<div n="lb"/>v. To give (II and V). </div><div n="I">II To despair:
-<div n="lb"/>{#आशां जहाति, त्यजति,#} etc. (with loc.). </div><div n="I">III To
-<div n="lb"/>cease: q.v.</div>
+{@GIVE UP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#ददाति;#} </div><div n="1">(2) {#समर्पयति:#}
+v. To give (II and V). </div><div n="I">II To despair:
+{#आशां जहाति, त्यजति,#} etc. (with loc.). </div><div n="I">III To
+cease: q.v.</div>
 <LEND>

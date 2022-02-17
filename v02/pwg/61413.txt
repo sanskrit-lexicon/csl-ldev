@@ -5,16 +5,16 @@
 <div n="1"> 1) <lex>m.</lex> = {#मूषक#} {%Ratte, Maus%} 
 <ls>AK. 2, 5, 12. 3, 4, 29, 222.</ls> 
 <ls>H. 1300.</ls> 
-<ls>MBH. 1, 1035. 5571. 8391. 5, 5426. 5432. 13, 5462. 16, 37.</ls> 
+<ls>MBH. 1, 1035.</ls> <ls n="MBH. 1,">5571.</ls> <ls n="MBH. 1,">8391.</ls> <ls n="MBH.">5, 5426.</ls> <ls n="MBH. 5,">5432.</ls> <ls n="MBH.">13, 5462.</ls> <ls n="MBH.">16, 37.</ls> 
 <ls>SUŚR. 1, 103, 14. 202, 17</ls> (unter den {#पर्णमृग)#} . 
 <ls>2,257,15. 277,18. 19. 278,6.</ls> <ls>Spr. 608. 1628. 4723.</ls> <ls>Verz. d. Oxf. H. 92,b,33.</ls> <ls>BHĀG. P. 8,6,20.</ls> <ls>MĀRK. P. 15,9.</ls> <ls>PAÑCAT. 190,19.</ls> <ls>HIT. 14,16. 27,17. 58,8. fgg. 113,6. fgg.</ls> {#विवृद्धमूषिका रथ्याः#} 
 <ls>MBH. 16, 37.</ls> Hier und da die v.l. {#मूषक#} . Vgl. {#गन्ध°, महा°#} . 
 <div n="1">— 2) <lex>m.</lex> pl. N. pr. eines Volkes 
-<ls>MBH. 6, 366</ls> <ls>?(VP. 192</ls>; die ed. Bomb. des 
-<ls>MBH.</ls> {#भूषिक#}.{#)#} 
+<ls>MBH. 6, 366</ls> (<ls>VP. 192</ls>; die ed. Bomb. des 
+<ls>MBH.</ls> {#भूषिक#}.) 
 <ls>MĀRK. P. 57, 46. 58, 16</ls> {#(मृ°#} gedr.). 
 <ls>LIA. 2, 176.</ls> {#°राज्य#} 
 <ls>1, 154, N.</ls> 
-<div n="1">— 3) <lex>m.</lex> {%Mimosa Sirissa%} {#(शिरीष)#} {%Roxb.%} 
+<div n="1">— 3) <lex>m.</lex> {%Mimosa Sirissa%} ({#शिरीष#}) {%Roxb.%} 
 <ls>ŚABDAC.</ls> bei <ls>WILSON.</ls>
 <LEND>

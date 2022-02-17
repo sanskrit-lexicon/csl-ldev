@@ -1,6 +1,6 @@
 <L>11095<pc>348<k1>holiday<k2>holiday
-<div n="lb"/>{@HOLIDAY:@}¦ <div n="1">(1) {#पर्वन्#} (n.) (= religious day);</div>
-<div n="lb"/><div n="1">(2) {#अनध्यायः#} (= school h.), {%because to day is a h.:%} [Page349]
-<div n="lb"/>{#अद्यानध्याय इति,#} </div><div n="I">V iv.; </div><div n="1">(2) {#*बन्धः, -दिनम्,#}
-<div n="lb"/>(= court h.): v. Also festival.</div>
+{@HOLIDAY:@}¦ <div n="1">(1) {#पर्वन्#} (n.) (= religious day);</div>
+<div n="1">(2) {#अनध्यायः#} (= school h.), {%because to day is a h.:%} [Page349]
+{#अद्यानध्याय इति,#} </div><div n="I">V iv.; </div><div n="1">(2) {#*बन्धः, -दिनम्,#}
+(= court h.): v. Also festival.</div>
 <LEND>

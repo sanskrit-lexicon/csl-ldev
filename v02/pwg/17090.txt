@@ -10,9 +10,9 @@
 <ls n="ṚV. 1,">59, 6.</ls> {#दि\दृ\क्षेण्य\ः परि\ काष्ठा^सु\ जेन्य^ः#} 
 <ls n="ṚV. 1,">146, 5.</ls> {#अति^ष्ठन्तीनामनिवेश\नाना\ं काष्ठा^ना\ं मध्ये\ निहि^त\ं शरी^रम्#} 
 <ls n="ṚV. 1,">32, 10.</ls> Daher bei den Commentatoren die Bedeutungen {%Weltgegend%} 
-<ls>?(NAIGH. 1, 6. NIR. 2, 15. AK. 1, 1, 2, 2. 3, 4, 10, 43. H. 166. an. 2, 104. MED. ṭh. 2.</ls> In dieser Bed. können wir das Wort nur durch 
+(<ls>NAIGH. 1, 6.</ls> <ls>NIR. 2, 15.</ls> <ls>AK. 1, 1, 2, 2. 3, 4, 10, 43.</ls> <ls>H. 166. an. 2, 104.</ls> <ls>MED. ṭh. 2.</ls> In dieser Bed. können wir das Wort nur durch 
 <ls>BHĀG. P. 4, 24, 1</ls> belegen), {%Wasser%} 
-<ls>?(NIR. 9, 24).</ls> 
+(<ls>NIR. 9, 24).</ls> 
 <div n="1">— 2) {%Ziel, meta%}: {#वाजि^नो\ योज^ना\ मिमा^ना\ः काष्ठा^ं गच्छत#} 
 <ls>VS. 9, 13.</ls> 
 <ls>AV. 2, 14, 6.</ls> {#प\र\मामे\व काष्ठा^ं गच्छति#} 
@@ -33,7 +33,7 @@
 <ls>2.</ls> {#काष्ठ#} 
 <ls>4.</ls> 
 <div n="1">— 3) {%bestimmter Ort, Stand, Standort%}: {#योगेश्वरे कृष्णे - स्वां काष्ठामधुनोपेते#} 
-<ls>?3, 28, 12 (BURNOUF:</ls> {%substance%}). {#काष्ठां भगवतो ध्यायेत्स्वनासाग्रावलोकनः#} 
+<ls>3, 28, 12 (BURNOUF</ls>: {%substance%}). {#काष्ठां भगवतो ध्यायेत्स्वनासाग्रावलोकनः#} 
 <ls>BHĀG. P. 1, 1, 23</ls> (<ls>BURNOUF</ls>: {%forme%}). {#तस्यै नमो ऽस्तु काष्ठायै#} 
 (<ls>BURNOUF</ls>: {%excellente substance%}) {#यत्रात्मा हरिरीश्वरः#} 
 <ls>7, 4, 22.</ls> Von den {%Mondstationen%}: {#स राजपुत्रो ववृध आशु शुक्ल इवोडुपः । आपूर्यमाणः पितृभिः #}
@@ -46,7 +46,7 @@
 <ls>TRIK. 3, 3, 106.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 1, 1292. 13, 7385.</ls> 
+<ls>MBH. 1, 1292.</ls> <ls n="MBH.">13, 7385.</ls> 
 <ls>R. 2, 25, 13.</ls> 
 <ls>DEV. 11, 8.</ls> = (1/30) <is>Kalā</is> 
 <ls>AK. 1, 1, 3, 11.</ls> 

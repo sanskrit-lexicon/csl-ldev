@@ -1,5 +1,5 @@
 <L>5815<pc>186<k1>denizen<k2>denizen
-<div n="lb"/>{@DENIZEN:@}¦ <div n="I">I A naturalized citizen: {#*कृतपौरः।#}</div>
-<div n="lb"/><div n="I">II A dweller: q. v.: {#निवासिन्#} (m.) Ph.:
-<div n="lb"/><div n="xe">{%d. of heaven:%}</div> <div n="xs">{#दिवौकस्#}</div> (m.).</div>
+{@DENIZEN:@}¦ <div n="I">I A naturalized citizen: {#*कृतपौरः।#}</div>
+<div n="I">II A dweller: q. v.: {#निवासिन्#} (m.) Ph.:
+<div n="xe">{%d. of heaven:%}</div> <div n="xs">{#दिवौकस्#}</div> (m.).</div>
 <LEND>

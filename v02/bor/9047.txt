@@ -1,7 +1,7 @@
 <L>9047<pc>286<k1>flute<k2>flute
-<div n="lb"/>{@FLUTE@}¦ (subs.): <div n="I">I A pipe: </div><div n="1">(1) {#वेणुः,#} <div n="xe">{%a lute is%}
-<div n="lb"/>{%played on, a f. is blown:%}</div> <div n="xs">{#वीणा वाद्यते वेणुः पूर्यते,#}</div>
-<div n="lb"/>N.d.; </div><div n="1">(2) {#वंशः, -शी;#} </div><div n="1">(3) {#मुरली,#} <div n="xe">{%enchanted with%}
-<div n="lb"/>{%the music of the f.:%}</div> <div n="xs">{#मुरलीनादमोहितः#}</div> ({#ता, तं#}). </div><div n="I">II
-<div n="lb"/>A channel, groove: {#रेखा#} (?).</div>
+{@FLUTE@}¦ (subs.): <div n="I">I A pipe: </div><div n="1">(1) {#वेणुः,#} <div n="xe">{%a lute is%}
+{%played on, a f. is blown:%}</div> <div n="xs">{#वीणा वाद्यते वेणुः पूर्यते,#}</div>
+N.d.; </div><div n="1">(2) {#वंशः, -शी;#} </div><div n="1">(3) {#मुरली,#} <div n="xe">{%enchanted with%}
+{%the music of the f.:%}</div> <div n="xs">{#मुरलीनादमोहितः#}</div> ({#ता, तं#}). </div><div n="I">II
+A channel, groove: {#रेखा#} (?).</div>
 <LEND>

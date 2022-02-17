@@ -12,9 +12,9 @@
 <ls>TRIK. 3, 3, 396.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> verschieden von {#क्षौम#} 
-<ls>MBH. 13, 5503. 7175.</ls> 
+<ls>MBH. 13, 5503.</ls> <ls n="MBH. 13,">7175.</ls> 
 <ls>MĀRK. P. 15, 28.</ls> {#बद्ध्वा ललाटे हिमचन्द्रशुभं दुकूलपट्टम्#} 
-<ls>HARIV. 7041. 15631.</ls> {#मृदूनि#} 
+<ls>HARIV. 7041.</ls> <ls n="HARIV.">15631.</ls> {#मृदूनि#} 
 <ls>R. GORR. 1, 76, 3.</ls> <ls>SUŚR. 1, 65, 14. 323, 4.</ls> im Gegens. zu {#वल्कल#} 
 <ls>BHARTṚ. 3, 54.</ls> {#वधूदुकूलं कलहंसलक्षणम्#} 
 <ls>KUMĀRAS. 5, 67. 78.</ls> 

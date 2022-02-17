@@ -1,6 +1,6 @@
 <L>11228<pc>352<k1>hospitality<k2>hospitality
-<div n="lb"/>{@HOSPITALITY:@}¦ <div n="1">(1) {#आतिथ्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#आतिथेयम्,#}</div> <div n="xe">{%then our h.%}
-<div n="lb"/>{%is ready:%}</div> <div n="xs">{#ततः सज्जातिथेया वयम्,#}</div> Vi. ii. 50.; <div n="xe">{%did not%}
-<div n="lb"/>{%cease to do h.:%}</div> <div n="xs">{#आतिथेयं कर्तु नाश्रमत्,#}</div> Si. xiv. 35.;</div>
-<div n="lb"/><div n="1">(2) {#अतिथिसत्कारः#} and sim. comp.s.</div>
+{@HOSPITALITY:@}¦ <div n="1">(1) {#आतिथ्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#आतिथेयम्,#}</div> <div n="xe">{%then our h.%}
+{%is ready:%}</div> <div n="xs">{#ततः सज्जातिथेया वयम्,#}</div> Vi. ii. 50.; <div n="xe">{%did not%}
+{%cease to do h.:%}</div> <div n="xs">{#आतिथेयं कर्तु नाश्रमत्,#}</div> Si. xiv. 35.;</div>
+<div n="1">(2) {#अतिथिसत्कारः#} and sim. comp.s.</div>
 <LEND>

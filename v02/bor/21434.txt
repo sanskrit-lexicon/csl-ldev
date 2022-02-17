@@ -1,5 +1,5 @@
 <L>21434<pc>675<k1>steel<k2>steel
-<div n="lb"/>{@STEEL@}¦ (subs.): <div n="I">I Prepared iron: </div><div n="1">(1)
-<div n="lb"/>{#चित्रायसम्;#} </div><div n="1">(2) {#शस्त्रम्:#} v. Iron. </div><div n="I">II Weapon:
-<div n="lb"/>q. v.: {#शस्त्रम्।#}</div>
+{@STEEL@}¦ (subs.): <div n="I">I Prepared iron: </div><div n="1">(1)
+{#चित्रायसम्;#} </div><div n="1">(2) {#शस्त्रम्:#} v. Iron. </div><div n="I">II Weapon:
+q. v.: {#शस्त्रम्।#}</div>
 <LEND>

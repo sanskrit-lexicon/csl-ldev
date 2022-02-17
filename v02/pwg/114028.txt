@@ -17,7 +17,7 @@
 <div n="2">— c) {%an einem Orte stehend, - verweilend, - befindlich%} (von Belebtem und Unbelebtem): {#स्थाणौ रथः#} 
 <ls>KĀTY. ŚR. 14, 3, 12.</ls> {#विषये#} 
 <ls>M. 5, 82.</ls> {#स्वे पथि#} 
-<ls>10, 101.</ls> <ls>R. 2, 94, 26.</ls> <ls>KIR. 5, 49.</ls> <ls>M. 12, 14.</ls> <ls>MBH. 1, 2402. 3, 1722. 2131. 2311.</ls> <ls>R. 4, 21, 17.</ls> <ls>RAGH. 6, 11.</ls> <ls>Spr. (II) 1439. 3902. 5313. 5569. 6443. 7047.</ls> <ls>ŚĀK. 61, 13.</ls> <ls>VARĀH. BṚH. S. 3, 37. 4, 28. 13, 5. 24, 18. 44, 13. 51, 7.</ls> <ls>KATHĀS. 18, 239. 281. 285. 33, 139. 37, 60.</ls> <ls>RĀJA-TAR. 3, 227. fg.</ls> <ls>BHĀG. P. 4, 4, 25.</ls> <ls>HIT. 20, 11.</ls> <ls>LA. (III) 16, 3.</ls> {#मनसि#} 
+<ls>10, 101.</ls> <ls>R. 2, 94, 26.</ls> <ls>KIR. 5, 49.</ls> <ls>M. 12, 14.</ls> <ls>MBH. 1, 2402.</ls> <ls n="MBH.">3, 1722.</ls> <ls n="MBH. 3,">2131.</ls> <ls n="MBH. 3,">2311.</ls> <ls>R. 4, 21, 17.</ls> <ls>RAGH. 6, 11.</ls> <ls>Spr. (II) 1439.</ls> <ls n="Spr. (II)">3902.</ls> <ls n="Spr. (II)">5313.</ls> <ls n="Spr. (II)">5569.</ls> <ls n="Spr. (II)">6443.</ls> <ls n="Spr. (II)">7047.</ls> <ls>ŚĀK. 61, 13.</ls> <ls>VARĀH. BṚH. S. 3, 37. 4, 28. 13, 5. 24, 18. 44, 13. 51, 7.</ls> <ls>KATHĀS. 18, 239. 281. 285. 33, 139. 37, 60.</ls> <ls>RĀJA-TAR. 3, 227. fg.</ls> <ls>BHĀG. P. 4, 4, 25.</ls> <ls>HIT. 20, 11.</ls> <ls>LA. (III) 16, 3.</ls> {#मनसि#} 
 <ls>R. GORR. 2, 51, 6.</ls> <ls>Spr. (II) 2906.</ls> {#प्रमुखे#} 
 <ls>HARIV. 10216.</ls> {#पार्श्वे#} 
 <ls>R. 1, 2, 5.</ls> {#अन्तिके#} 
@@ -30,13 +30,13 @@
 <ls>Spr. (II) 7227.</ls> 
 <ls>KATHĀS. 13, 180.</ls> {#अग्रे#} 
 <ls>RĀJA-TAR. 4, 319.</ls> {#अग्रतस्#} 
-<ls>MBH. 1, 6006. 5, 7006.</ls> 
+<ls>MBH. 1, 6006.</ls> <ls n="MBH.">5, 7006.</ls> 
 <ls>R. 1, 4, 9.</ls> 
 <ls>KATHĀS. 12, 127.</ls> {#अधस्#} 
 <ls>Z. d. d. m. G. 27, 30.</ls> <ls>MĀRK. P. 18, 25.</ls> {#उपरि#} 
 <ls>HARIV. 9640.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 238. KATHĀS. 18,394. Verz. d. Oxf. H. 31,b, N. 3. LA. (III) 19,5. 34,12.</ls> {#पुरस्#} 
-<ls>?ad ŚĀK. 135</ls> (zeitlich so v. a. {%bevorstehend%}). 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 238.</ls> <ls>KATHĀS. 18,394.</ls> <ls>Verz. d. Oxf. H. 31,b, N. 3.</ls> <ls>LA. (III) 19,5. 34,12.</ls> {#पुरस्#} 
+ad <ls>ŚĀK. 135</ls> (zeitlich so v. a. {%bevorstehend%}). 
 <ls>KATHĀS. 29, 156. 32, 5.</ls> 
 <ls>RĀJA-TAR. 6, 356.</ls> {#पुरतस्#} 
 <ls>ŚĀK. CH. 60, 2.</ls> {#पुरस्तात्#} 
@@ -49,7 +49,7 @@
 <ls>R. 2, 87, 5.</ls> 
 <ls>MEGH. 7.</ls> 
 <ls>RAGH. 3, 57.</ls> 
-<ls>Spr. (II) 792. 1193. 2846. 7490. 7525.</ls> 
+<ls>Spr. (II) 792.</ls> <ls n="Spr. (II)">1193.</ls> <ls n="Spr. (II)">2846.</ls> <ls n="Spr. (II)">7490.</ls> <ls n="Spr. (II)">7525.</ls> 
 <ls>VARĀH. BṚH. S. 27, 1. 68, 89.</ls> 
 <ls>KATHĀS. 3, 47. 18, 141.</ls> {#वृष°#} so v. a. {%reitend auf%} 
 <ls>BHĀG. P. 9, 18, 9.</ls> {#मधूच्छिष्ट°#} {%in Wachs stehend%} so v. a. {%mit Wachs bestrichen%} 
@@ -72,7 +72,7 @@
 <ls>VOP. 4, 1.</ls> 
 <div n="3">— β) ein instr.: {#प्रकृत्या#} 
 <ls>Spr. (II) 3330.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 292.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 292.</ls> 
 <div n="3">— γ) ein ablat.: {#दैवं पुरुषकारश्च स्थितावन्योऽन्यसंश्रयात्#} 
 <ls>Spr. (II) 2975.</ls> 
 <div n="3">— δ) im comp. vorangehend: {#प्रकृति°#} 
@@ -103,7 +103,7 @@
 <ls>BHAG. 10, 42.</ls> 
 <ls>HARIV. 14733.</ls> 
 <ls>R. 3, 10, 7</ls> ({#°पीडिताम्#} zu lesen). 
-<ls>?56, 7. 74, 19. MEGH. 59. RAGH. 1, 14. ŚĀK. 1. 21, 1. 55, 1. 77, 10. 78, 8. VIKR. 1. 15, 5. KATHĀS. 7, 70. 43, 54. PAÑCAT. ed. orn. 50, 5. HIT. 9, 15. 22, 1. LA. (III) 10, 7. 14, 18. 20, 4. 88, 15. BHAṬṬ. 1, 6.</ls> 
+<ls>56, 7. 74, 19.</ls> <ls>MEGH. 59.</ls> <ls>RAGH. 1, 14.</ls> <ls>ŚĀK. 1. 21, 1. 55, 1. 77, 10. 78, 8.</ls> <ls>VIKR. 1. 15, 5.</ls> <ls>KATHĀS. 7, 70. 43, 54.</ls> <ls>PAÑCAT. ed. orn. 50, 5.</ls> <ls>HIT. 9, 15. 22, 1.</ls> <ls>LA. (III) 10, 7. 14, 18. 20, 4. 88, 15.</ls> <ls>BHAṬṬ. 1, 6.</ls> 
 <div n="3">— η) ein adv.: {#तेषु (यवनेषु) सम्यक्शास्त्रमिदं स्थितम्#} 
 <ls>VARĀH. BṚH. S. 2, 15.</ls> {#कथमियन्तं कालं मया विरहिता स्थितासि#} 
 <ls>VIKR. 72, 6.</ls> {#तथा#} 
@@ -114,7 +114,7 @@
 <ls>VOP. 8, 14.</ls> {#धिङ्मां यः - एवमेवाधुना स्थितः#} 
 <ls>RĀJA-TAR. 3, 183.</ls> 
 <ls>PAÑCAT. 87, 19.</ls> {#एवं स्थिते#} 
-<ls>?149, 13. daśak. 62, 8. 79, 7.</ls> {#बहुधा#} 
+<ls>149, 13. daśak. 62, 8. 79, 7.</ls> {#बहुधा#} 
 <ls>ṚT. 6, 10.</ls> {#द्वादशधा#} 
 <ls>ŚĀK. 186.</ls> {#तूष्णीम्#} 
 <ls>HIT. 14, 19.</ls> {#अवनताननम्#} 
@@ -135,9 +135,9 @@
 <ls>KATHĀS. 20, 61.</ls> 
 <ls>LA. (III) 49, 22.</ls> <ls>BHĀG. P. 4, 1, 17.</ls> {#शीले सत्ये श्रुते#} 
 <ls>R. 2, 39, 24.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 120, 24.</ls> {#तस्याः प्रिये#} 
-<ls>R.</ls> <ls>SCHL. 2, 96, 28.</ls> {#श्रेयसि#} 
+
+<ls>R. GORR. 2, 120, 24.</ls> {#तस्याः प्रिये#} 
+<ls>R. SCHL. 2, 96, 28.</ls> {#श्रेयसि#} 
 <ls>5, 90, 36.</ls> {#प्रशम°#} 
 <ls>RAGH. 8, 15.</ls> {#तपः°#} 
 <ls>KATHĀS. 19, 6.</ls> {#शौच°#} 
@@ -152,7 +152,7 @@
 <ls>HARIV. 14375.</ls> 
 <ls>KATHĀS. 18, 142.</ls> 
 <div n="2">— g) {%im Amte stehend%} 
-<ls>Spr. (II) 803. 7054.</ls> 
+<ls>Spr. (II) 803.</ls> <ls n="Spr. (II)">7054.</ls> 
 <div n="2">— h) {%zu Jmd%} (loc.) {%stehend, es mit Jmd haltend%} 
 <ls>HARIV. 9129.</ls> 
 <div n="2">— i) {%dauernd%} 
@@ -165,8 +165,8 @@
 <ls>ŚĀṄKH. BR.</ls> bei <ls>WEBER, Nakṣ. 2, 347.</ls> {#या ह्येषा गह्वरी माया निद्रेति जगति स्थिता#} 
 <ls>HARIV. 2845.</ls> {#शाश्वतो ऽयं सदा धर्मः स्थितो ऽस्मासु#} 
 <ls>R. 2, 102, 2.</ls> {#इति स्थितमाक्षिपति#} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 22.</ls> {#इति स्थितम्#} 
-<ls>Kār. 10</ls> <ls>?aus SIDDH. K. zu P. 7, 2, 10. SARVADARŚANAS. 60, 19. 93, 22</ls> ({#स्थितः#} fehlerhaft). 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 22.</ls> {#इति स्थितम्#} 
+<ls>Kār. 10</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>SARVADARŚANAS. 60, 19. 93, 22</ls> ({#स्थितः#} fehlerhaft). 
 <ls>146, 1. 2. 159, 19.</ls> {#पितुः समीपगमनम्#} {%feststehend%} so v. a. {%beschlossen%} 
 <ls>ŚĀK. CH. 108,2.</ls>
 [Page7-1331]
@@ -198,8 +198,8 @@
 <ls>M. 3, 171.</ls> 
 <ls>MBH. 1, 5968.</ls> 
 <ls>R. 2, 23, 36. 102, 2.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 20, 41. 3, 21, 7. 53, 59. 4, 38, 18.</ls> 
+
+<ls>R. GORR. 2, 20, 41. 3, 21, 7. 53, 59. 4, 38, 18.</ls> 
 <ls>KATHĀS. 5, 4. 15, 131. 17, 20. 21, 117. 31, 81. 34, 51. 234.</ls> {#त्वय्यस्थिते#} 
 <ls>42, 159.</ls> {#स्थितास्वप्युत्तराद्यासु प्राक्प्राचीं यान्ति किं नृपाः#} 
 <ls>18, 57.</ls> {#अतिमध्यंदिने स्थिते#} 

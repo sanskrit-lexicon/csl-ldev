@@ -1,5 +1,5 @@
 <L>8406<pc>266<k1>family<k2>family
-<div n="lb"/>{@FAMILY:@}¦ {#कुलम्,#} <div n="xe">{%this girl is the life of the f.:%}</div> <div n="xs">{#कन्येयं #}
-<div n="lb"/>{# कुलजीवितम्,#}</div> Ku.; <div n="xe">{%of good f.:%}</div> <div n="xs">{#कुलजः#}</div> ({#जा, जं#}),
-<div n="lb"/>N.: v. Race, lineage, descent.
+{@FAMILY:@}¦ {#कुलम्,#} <div n="xe">{%this girl is the life of the f.:%}</div> <div n="xs">{#कन्येयं #}
+{# कुलजीवितम्,#}</div> Ku.; <div n="xe">{%of good f.:%}</div> <div n="xs">{#कुलजः#}</div> ({#जा, जं#}),
+N.: v. Race, lineage, descent.
 <LEND>

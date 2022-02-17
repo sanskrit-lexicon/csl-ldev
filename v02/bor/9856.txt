@@ -1,5 +1,5 @@
 <L>9856<pc>311<k1>giant<k2>giant
-<div n="lb"/>{@GIANT:@}¦ <div n="I">I A great man: {#महापुरुषः,#} <div n="xe">{%“a g.'s%}
-<div n="lb"/>{%strength”:%}</div> <div n="xs">{#अतिमानुषं बलम्।#}</div> </div><div n="I">II Atitan: </div><div n="1">(1) {#दैत्यः;#}</div>
-<div n="lb"/><div n="1">(2) {#दानवः।#} <div n="xe">{%G.'s causeway:%}</div> <div n="xs">{#*दानवबन्धः।#}</div></div>
+{@GIANT:@}¦ <div n="I">I A great man: {#महापुरुषः,#} <div n="xe">{%“a g.'s%}
+{%strength”:%}</div> <div n="xs">{#अतिमानुषं बलम्।#}</div> </div><div n="I">II Atitan: </div><div n="1">(1) {#दैत्यः;#}</div>
+<div n="1">(2) {#दानवः।#} <div n="xe">{%G.'s causeway:%}</div> <div n="xs">{#*दानवबन्धः।#}</div></div>
 <LEND>

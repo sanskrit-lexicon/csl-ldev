@@ -1,8 +1,8 @@
 <L>1375<pc>049<k1>augur<k2>augur
-<div n="lb"/>{@AUGUR@}¦ (subs.): <div n="1">(1) {#शकुनज्ञः#} <div n="xe">{%or%}</div> <div n="xs">{#शकुनज्ञानविद्#}</div> (m.)
-<div n="lb"/>(from birds), <div n="xe">{%I heard from the a. that I would%}
-<div n="lb"/>{%meet you just after 30 days%}</div> <div n="xs">{#शकुनज्ञात्तस्मात्त्रिंश #}
-<div n="lb"/>{# द्रिवसावसानन्तरमेव भवत्सङ्गः सम्भविष्यतीत्यशृणवम्,#}</div> D.;</div>
-<div n="lb"/><div n="1">(2) {#निमित्तज्ञः।#} (from any omen) K.: v.
-<div n="lb"/>Soothsayer.</div>
+{@AUGUR@}¦ (subs.): <div n="1">(1) {#शकुनज्ञः#} <div n="xe">{%or%}</div> <div n="xs">{#शकुनज्ञानविद्#}</div> (m.)
+(from birds), <div n="xe">{%I heard from the a. that I would%}
+{%meet you just after 30 days%}</div> <div n="xs">{#शकुनज्ञात्तस्मात्त्रिंश #}
+{# द्रिवसावसानन्तरमेव भवत्सङ्गः सम्भविष्यतीत्यशृणवम्,#}</div> D.;</div>
+<div n="1">(2) {#निमित्तज्ञः।#} (from any omen) K.: v.
+Soothsayer.</div>
 <LEND>

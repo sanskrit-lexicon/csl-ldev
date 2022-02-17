@@ -1,6 +1,6 @@
 <L>12261<pc>381<k1>initiate<k2>initiate
-<div n="lb"/>{@INITIATE:@}¦ <div n="I">I To begin: q.v.: {#आरभते#} ({#रभ्,#} c.
-<div n="lb"/>1.). </div><div n="I">II To instruct: q.v.: {#उपदिशति#} ({#दिश्,#}
-<div n="lb"/>c. 6.). <div n="xe">{%I. d.:%}</div> <div n="xs">{#दीक्षितः#}</div> ({#ता, तं#}) (?). </div><div n="I">III To
-<div n="lb"/>admit: q.v.: {#परिगृह्वाति#} ({#ग्रह्,#} c. 9.).</div>
+{@INITIATE:@}¦ <div n="I">I To begin: q.v.: {#आरभते#} ({#रभ्,#} c.
+1.). </div><div n="I">II To instruct: q.v.: {#उपदिशति#} ({#दिश्,#}
+c. 6.). <div n="xe">{%I. d.:%}</div> <div n="xs">{#दीक्षितः#}</div> ({#ता, तं#}) (?). </div><div n="I">III To
+admit: q.v.: {#परिगृह्वाति#} ({#ग्रह्,#} c. 9.).</div>
 <LEND>

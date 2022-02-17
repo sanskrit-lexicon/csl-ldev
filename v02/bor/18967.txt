@@ -1,5 +1,5 @@
 <L>18967<pc>586<k1>remittance<k2>remittance
-<div n="lb"/>{@REMITTANCE:@}¦ <div n="I">I The act: {#प्रेरणम्:#} v. To
-<div n="lb"/>send. </div><div n="I">II The thing remitted: expr. by
-<div n="lb"/>{#प्रेरित#} <div n="xe">{%or%}</div> <div n="xs">{#प्रेषित#}</div> (f. {#ता#}).</div>
+{@REMITTANCE:@}¦ <div n="I">I The act: {#प्रेरणम्:#} v. To
+send. </div><div n="I">II The thing remitted: expr. by
+{#प्रेरित#} <div n="xe">{%or%}</div> <div n="xs">{#प्रेषित#}</div> (f. {#ता#}).</div>
 <LEND>

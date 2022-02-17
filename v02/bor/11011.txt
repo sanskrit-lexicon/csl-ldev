@@ -1,4 +1,4 @@
 <L>11011<pc>346<k1>hindrance<k2>hindrance
-<div n="lb"/>{@HINDRANCE:@}¦ <div n="I">I The act: </div><div n="1">(1) {#वरणम्, नि-;#} </div><div n="1">(2)
-<div n="lb"/>{#प्रतिषेधः।#} </div><div n="I">II Obstacle: q.v.: {#विघ्नः।#}</div>
+{@HINDRANCE:@}¦ <div n="I">I The act: </div><div n="1">(1) {#वरणम्, नि-;#} </div><div n="1">(2)
+{#प्रतिषेधः।#} </div><div n="I">II Obstacle: q.v.: {#विघ्नः।#}</div>
 <LEND>

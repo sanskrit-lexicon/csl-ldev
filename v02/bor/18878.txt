@@ -1,12 +1,12 @@
 <L>18878<pc>582<k1>regular<k2>regular
-<div n="lb"/>{@REGULAR@}¦ (adj.): <div n="I">I Of men: </div><div n="1">(1) {#नियत#} (f. {#ता#});</div>
-<div n="lb"/><div n="1">(2) {#व्यवस्थित#} (f. {#ता#}): </div><div n="1">(3) {#नियमानुवर्तिन्#} (f. {#नी#})
-<div n="lb"/>and sim. comp.s. </div><div n="I">II Symmetrical,
-<div n="lb"/>arranged in proper order: </div><div n="1">(1) {#अनुपूर्व#}
-<div n="lb"/>(f. {#र्वा#}); </div><div n="1">(2) {#अनुलोम#} (f. {#मा#}); </div><div n="1">(3) {#आनुलोमिक#}
-<div n="lb"/>(f. {#की#}). </div><div n="I">III Coming in order: </div><div n="1">(1) {#यथाक्रम-#}
-<div n="lb"/>-in comp.; </div><div n="1">(2) {#नैयमिक#} (f. {#की#}); </div><div n="1">(3) {#नित्य#}
-<div n="lb"/>(f. {#त्या#} = constant, daily). </div><div n="I">IV Normal,
-<div n="lb"/>proper: </div><div n="1">(1) {#युक्त#} (f. {#क्ता#}); </div><div n="1">(2) {#उचित#} (f. {#ता#}),
-<div n="lb"/>{#सम्-;#} </div><div n="1">(3) {#उपपन्न#} (f. {#न्ना#}).</div>
+{@REGULAR@}¦ (adj.): <div n="I">I Of men: </div><div n="1">(1) {#नियत#} (f. {#ता#});</div>
+<div n="1">(2) {#व्यवस्थित#} (f. {#ता#}): </div><div n="1">(3) {#नियमानुवर्तिन्#} (f. {#नी#})
+and sim. comp.s. </div><div n="I">II Symmetrical,
+arranged in proper order: </div><div n="1">(1) {#अनुपूर्व#}
+(f. {#र्वा#}); </div><div n="1">(2) {#अनुलोम#} (f. {#मा#}); </div><div n="1">(3) {#आनुलोमिक#}
+(f. {#की#}). </div><div n="I">III Coming in order: </div><div n="1">(1) {#यथाक्रम-#}
+-in comp.; </div><div n="1">(2) {#नैयमिक#} (f. {#की#}); </div><div n="1">(3) {#नित्य#}
+(f. {#त्या#} = constant, daily). </div><div n="I">IV Normal,
+proper: </div><div n="1">(1) {#युक्त#} (f. {#क्ता#}); </div><div n="1">(2) {#उचित#} (f. {#ता#}),
+{#सम्-;#} </div><div n="1">(3) {#उपपन्न#} (f. {#न्ना#}).</div>
 <LEND>

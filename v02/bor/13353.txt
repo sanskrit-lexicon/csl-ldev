@@ -1,12 +1,12 @@
 <L>13353<pc>411<k1>learn<k2>learn
-<div n="lb"/>{@LEARN:@}¦ <div n="I">I To gain knowledge: </div><div n="1">(1) {#शिक्षते#}
-<div n="lb"/>({#शिक्ष्,#} c. 1.), <div n="xe">{%shall not l. the language of%}
-<div n="lb"/>{%barbarians:%}</div> <div n="xs">{#न म्लेच्छभाषां शिक्षेत,#}</div> Vas.; </div><div n="1">(2) {#अध्येति#}
-<div n="lb"/>({#इ,#} c. 2 (gen. = to study), <div n="xe">{%he l. t the Vedas%}
-<div n="lb"/>{%as well as their limbs in their entirety:%}</div> <div n="xs">{#अध्यगीष्ट स #}
-<div n="lb"/>{# वेदांश्च वेदाङ्गानि च सवर्शः,#}</div> Mah. i. 128. 37.; </div><div n="1">(3)
-<div n="lb"/>{#शिक्षां गृह्णाति#} ({#ग्रह्,#} c. 9 (with gen.), V. p. </div><div n="I">II
-<div n="lb"/>To get information: {#अवगच्छति#} ({#गम्,#} c. 1.):
-<div n="lb"/>v. To know, understand. </div><div n="I">III To teach:
-<div n="lb"/>q. v.</div>
+{@LEARN:@}¦ <div n="I">I To gain knowledge: </div><div n="1">(1) {#शिक्षते#}
+({#शिक्ष्,#} c. 1.), <div n="xe">{%shall not l. the language of%}
+{%barbarians:%}</div> <div n="xs">{#न म्लेच्छभाषां शिक्षेत,#}</div> Vas.; </div><div n="1">(2) {#अध्येति#}
+({#इ,#} c. 2 (gen. = to study), <div n="xe">{%he l. t the Vedas%}
+{%as well as their limbs in their entirety:%}</div> <div n="xs">{#अध्यगीष्ट स #}
+{# वेदांश्च वेदाङ्गानि च सवर्शः,#}</div> Mah. i. 128. 37.; </div><div n="1">(3)
+{#शिक्षां गृह्णाति#} ({#ग्रह्,#} c. 9 (with gen.), V. p. </div><div n="I">II
+To get information: {#अवगच्छति#} ({#गम्,#} c. 1.):
+v. To know, understand. </div><div n="I">III To teach:
+q. v.</div>
 <LEND>

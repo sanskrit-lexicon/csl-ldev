@@ -1,6 +1,6 @@
 <L>24289<pc>760<k1>while<k2>while
-<div n="lb"/>{@WHILE@}¦ (subs.): <div n="xe">{%for a little w.:%}</div> <div n="xs">{#कियत्क्षणम्#}</div> {%or%}
-<div n="lb"/>{#किञ्चित्कालम्।#} <div n="xe">{%After a long w.:%}</div> <div n="xs">{#चिरेण#}</div>: v.
-<div n="lb"/>Time, moment. Ph.: <div n="xe">{%not worth w.:%}</div> <div n="xs">{#निष्फल#}</div>
-<div n="lb"/>(f. {#ला#}): v. Vain.
+{@WHILE@}¦ (subs.): <div n="xe">{%for a little w.:%}</div> <div n="xs">{#कियत्क्षणम्#}</div> {%or%}
+{#किञ्चित्कालम्।#} <div n="xe">{%After a long w.:%}</div> <div n="xs">{#चिरेण#}</div>: v.
+Time, moment. Ph.: <div n="xe">{%not worth w.:%}</div> <div n="xs">{#निष्फल#}</div>
+(f. {#ला#}): v. Vain.
 <LEND>

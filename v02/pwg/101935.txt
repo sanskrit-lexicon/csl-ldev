@@ -11,10 +11,10 @@
 <ls>KAUṢ. UP. 2, 6. 4, 15. 20.</ls> 
 <ls>M. 1, 100. 12, 38.</ls> 
 <ls>YĀJÑ. 1, 264.</ls> 
-<ls>MBH. 2, 596. 5, 821.</ls> 
+<ls>MBH. 2, 596.</ls> <ls n="MBH.">5, 821.</ls> 
 <ls>Spr. (II) 1201.</ls> 
 <ls>BHĀG. P. 10, 74, 19.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 10.</ls> {#प्रकृति°#} 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> {#प्रकृति°#} 
 <ls>M. 10, 3.</ls> {#वर्ण°#} 
 <ls>MBH. 7, 156.</ls> {#कारण°#} (so ed. Bomb.) 
 <ls>12, 11039.</ls> {#ज्ञाति°#} {%unter den Blutsverwandten%} 

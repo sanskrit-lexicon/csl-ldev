@@ -1,6 +1,6 @@
 <L>16980<pc>520<k1>physical<k2>physical
-<div n="lb"/>{@PHYSICAL:@}¦ <div n="I">I Bodily: q. v.: by comp., <div n="xe">{%p.%}
-<div n="lb"/>{%strength:%}</div> <div n="xs">{#शरीरशक्तिः।#}</div> </div><div n="I">II Natural: q. v.: <div n="xe">{%p.%}
-<div n="lb"/>{%sciences:%}</div> <div n="xs">{#पदार्थशास्त्राणि#}</div> (?). </div><div n="I">III Individual:
-<div n="lb"/>q. v.</div>
+{@PHYSICAL:@}¦ <div n="I">I Bodily: q. v.: by comp., <div n="xe">{%p.%}
+{%strength:%}</div> <div n="xs">{#शरीरशक्तिः।#}</div> </div><div n="I">II Natural: q. v.: <div n="xe">{%p.%}
+{%sciences:%}</div> <div n="xs">{#पदार्थशास्त्राणि#}</div> (?). </div><div n="I">III Individual:
+q. v.</div>
 <LEND>

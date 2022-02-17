@@ -1,5 +1,5 @@
 <L>7918<pc>250<k1>everblooming<k2>everblooming
-<div n="lb"/>{@EVERBLOOMING:@}¦ {#नित्यपुष्पः#} ({#ष्पा, ष्पं#}), and sim.
-<div n="lb"/>comps., <div n="xe">{%where trees are e.:%}</div> <div n="xs">{#यत्र पादपा नित्यपुष्पाः,#}</div>
-<div n="lb"/>Me.
+{@EVERBLOOMING:@}¦ {#नित्यपुष्पः#} ({#ष्पा, ष्पं#}), and sim.
+comps., <div n="xe">{%where trees are e.:%}</div> <div n="xs">{#यत्र पादपा नित्यपुष्पाः,#}</div>
+Me.
 <LEND>

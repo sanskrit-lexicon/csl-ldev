@@ -1,6 +1,6 @@
 <L>57699<pc>5-0557<k1>मन्यु<k2>मन्यु/
 {#मन्यु/#}¦ (von {#मन्)#} 
-<ls>UṆĀDIS. 3,20.</ls> m. f. <ls>SIDDH. K. 251,a,4 v. u.</ls> <lex>m.</lex> 
+<ls>UṆĀDIS. 3,20.</ls> m. f. <ls>SIDDH. K. 251,a,4</ls> v. u. <lex>m.</lex> 
 <div n="1"> 1) {%Muth%} (als Seelenstimmung); {%Sinn%} 
 <ls>NAIGH. 2, 13.</ls> {#सं म\न्युं मर्त्ये\ष्वा चि^केत#} 
 <ls>ṚV. 7, 61, 1.</ls> <ls n="ṚV.">8, 67, 6.</ls> {#ये त\वाश्वा^सो देव सा\धव^ः । अर\ं वह^न्ति म\न्यवे^#} {%deinem Sinne gemäss%} 
@@ -11,7 +11,7 @@
 <ls>TBR. 1, 7, 9, 4.</ls> 
 <ls>ŚAT. BR. 12, 7, 2, 8.</ls> 
 <div n="1">— 2) {%heftiger Muth, Eifer; Unmuth, Zorn, Grimm, Wuth%}; = {#क्रुध्, कोप#} 
-<ls>AK. 3, 4, 24,</ls> <ls>?155.H. 299. an. 2, 376. MED. y. 44. HALĀY. 5, 60.</ls>
+<ls>AK. 3, 4, 24, 155.</ls> <ls>H. 299. an. 2, 376.</ls> <ls>MED. y. 44.</ls> <ls>HALĀY. 5, 60.</ls>
 [Page5-0558]
 {#म\न्युं रिरि^क्षतः#} 
 <ls>ṚV. 7, 36, 4.</ls> <ls n="ṚV. 7,">60, 11.</ls> <ls n="ṚV. 7,">86, 6.</ls> pl. <ls n="ṚV. 7,">56, 22.</ls> {#सं यत्त^ इन्द्र म\न्यव\ः सं च\क्राणि^ दधन्विरे#} {%ardores%} 
@@ -24,7 +24,7 @@
 <ls n="ṚV. 10, 34,">14.</ls> <ls>AV. 1, 10, 2.</ls> {#अ\नु\हाय\ तप^सा म\न्युना^ चो\त दू\रादव^ भिन्दन्त्येनम्#} 
 <ls>5, 18, 9.</ls> <ls>VS. 16, 1. 18, 4. 20, 6.</ls> <ls>TS. 1, 5, 3, 2.</ls> {#मन्युस्तन्मन्युमृच्छति#} (so mit der ed. Calc. zu lesen) {%das ist: Wuth tritt der Wuth entgegen (Nothhilfe)%} 
 <ls>M. 8, 351.</ls> {#तौ मन्युराविशत्#} 
-<ls>MBH. 1, 7727. 3, 2300.</ls> {#प्रदीप्तेव च मन्युना#} 
+<ls>MBH. 1, 7727.</ls> <ls n="MBH.">3, 2300.</ls> {#प्रदीप्तेव च मन्युना#} 
 <ls>2374.</ls> {#प्रजज्वालेव मन्युना#} 
 <ls>2397.</ls> {#°परीत#} 
 <ls>2612.</ls> <ls>R. 1, 9, 69.</ls> {#काममन्युभिः#} 
@@ -69,7 +69,7 @@
 <ls>TAITT. ĀR. 10, 31.</ls> 
 <ls>GOBH. 1, 4, 17.</ls> zugleich Verfasser zweier Lieder des 
 <ls>ṚV.</ls>, Sohn des <is>Tapas</is> (<is>Vasiṣṭha</is>) 
-<ls>ṚV.</ls> <ls>ANUKR.</ls> <ls>Ind. St.3,228,a.</ls> <ls>?= <is>Śiva</is> BHĀG. P.3,14,34.4,5,5.</ls> N. eines <is>Rudra</is> 
+<ls>ṚV. ANUKR.</ls> <ls>Ind. St.3,228,a.</ls> = <ls><is>Śiva</is></ls> <ls>BHĀG. P.3,14,34.4,5,5.</ls> N. eines <is>Rudra</is> 
 <ls>3, 12, 12.</ls> als <is>Agni</is>: {#यः प्रशान्तेषु भूतेषु मन्युर्भवति पावकः#} 
 <ls>MBH. 3, 14151</ls>; vgl. {#भानुमन्त्#} 2. 
 <div n="1">— 6) N. pr. eines Fürsten {#(भवन्मन्यु#} 

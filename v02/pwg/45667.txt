@@ -1,10 +1,10 @@
 <L>45667<pc>4-0753<k1>पुञ्ज<k2>पुञ्ज
 {#पुञ्ज#}¦ <lex>m.</lex> 
-<ls>SIDDH. K.249,b,2 v. u.</ls> {%Haufe, Klumpen, Masse%} 
+<ls>SIDDH. K.249,b,2</ls> v. u. {%Haufe, Klumpen, Masse%} 
 <ls>AK. 2, 5, 42. 3, 4, 28, 216.</ls> 
 <ls>H. 1411.</ls> 
 <ls>HALĀY. 4, 1.</ls> {#अञ्जन°#} 
-<ls>MBH. 3, 9931. 9, 2477.</ls> {#फेन°#} 
+<ls>MBH. 3, 9931.</ls> <ls n="MBH.">9, 2477.</ls> {#फेन°#} 
 <ls>3, 9957.</ls> {#सफेनपुञ्जा#} <lex>adj.</lex> 
 <ls>KUMĀRAS. 7, 26.</ls> {#पांशु°, रजः°, पराग°#} 
 <ls>MBH. 5, 7246.</ls> 
@@ -23,7 +23,7 @@
 <ls>11, 10.</ls> {#श्री°#} 
 <ls>HARIV. 6154.</ls> {#पुण्य°#} 
 <ls>PĀRŚVANĀTHAK.</ls> bei <ls>AUFR.</ls> <ls>HALĀY.</ls> {#यशः°#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 25,</ls> <ls>Śl. 6.</ls> {#आनन्दोद्रेक°#} 
+<ls>Journ. of the Am. Or. S. 7, 25, Śl. 6.</ls> {#आनन्दोद्रेक°#} 
 <ls>RUDRAY.</ls> in <ls>Verz. d. Oxf. H. 88,b,36.</ls> 
 <div n="v">— Vgl. {#नखपुञ्जफला, हेमपुञ्जक#} .
 <LEND>

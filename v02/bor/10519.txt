@@ -1,9 +1,9 @@
 <L>10519<pc>331<k1>half<k2>half
-<div n="lb"/>{@HALF@}¦ (subs.): <div n="1">(1) {#अर्द्धम्,#} <div n="xe">{%h. the day is over:%}</div> <div n="xs">{#अर्द्धं गतं #}
-<div n="lb"/>{# दिवसस्य,#}</div> V.; <div n="xe">{%will take the other h.:%}</div> <div n="xs">{#अपरमर्द्धं #}
-<div n="lb"/>{# गृह्णीयुः,#}</div> Da.; <div n="xe">{%and its h. in width:%}</div> <div n="xs">{#तदर्धेन तु विस्तृता,#}</div>
-<div n="lb"/>A. p.; </div><div n="1">(2) {#अर्द्धभगः#} <div n="xe">{%or%}</div> <div n="xs">{#अर्धांशः,#}</div> <div n="xe">{%with h. of it:%}</div> <div n="xs">{#तदर्द्ध-#}
-<div n="lb"/>{#भागेन,#}</div> Ku. Ph.: {%in h.,%} i.e. in two: {#द्विधा;#} <div n="xe">{%each%}
-<div n="lb"/>{%of them went halves with her:%}</div> <div n="xs">{#अर्द्धार्द्धभागाभ्यां #}
-<div n="lb"/>{# तामयोजयतामुभे,#}</div> R. x. 56.</div>
+{@HALF@}¦ (subs.): <div n="1">(1) {#अर्द्धम्,#} <div n="xe">{%h. the day is over:%}</div> <div n="xs">{#अर्द्धं गतं #}
+{# दिवसस्य,#}</div> V.; <div n="xe">{%will take the other h.:%}</div> <div n="xs">{#अपरमर्द्धं #}
+{# गृह्णीयुः,#}</div> Da.; <div n="xe">{%and its h. in width:%}</div> <div n="xs">{#तदर्धेन तु विस्तृता,#}</div>
+A. p.; </div><div n="1">(2) {#अर्द्धभगः#} <div n="xe">{%or%}</div> <div n="xs">{#अर्धांशः,#}</div> <div n="xe">{%with h. of it:%}</div> <div n="xs">{#तदर्द्ध-#}
+{#भागेन,#}</div> Ku. Ph.: {%in h.,%} i.e. in two: {#द्विधा;#} <div n="xe">{%each%}
+{%of them went halves with her:%}</div> <div n="xs">{#अर्द्धार्द्धभागाभ्यां #}
+{# तामयोजयतामुभे,#}</div> R. x. 56.</div>
 <LEND>

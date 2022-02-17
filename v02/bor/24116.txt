@@ -1,6 +1,6 @@
 <L>24116<pc>754<k1>watch<k2>watch
-<div n="lb"/>{@WATCH@}¦ (subs.): <div n="I">I Keeping awake: {#जागरणम्।#}</div>
-<div n="lb"/><div n="I">II Protection: q. v.: {#रक्षा।#} </div><div n="I">III Guard:
-<div n="lb"/>q. v.: {#रक्षिन्#} (m.). </div><div n="I">IV Of time: </div><div n="1">(1) {#प्रहरः;#}</div>
-<div n="lb"/><div n="1">(2) {#यामः।#} </div><div n="I">V A time-piece: {#कालमापः।#}</div>
+{@WATCH@}¦ (subs.): <div n="I">I Keeping awake: {#जागरणम्।#}</div>
+<div n="I">II Protection: q. v.: {#रक्षा।#} </div><div n="I">III Guard:
+q. v.: {#रक्षिन्#} (m.). </div><div n="I">IV Of time: </div><div n="1">(1) {#प्रहरः;#}</div>
+<div n="1">(2) {#यामः।#} </div><div n="I">V A time-piece: {#कालमापः।#}</div>
 <LEND>

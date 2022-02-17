@@ -1,5 +1,5 @@
 <L>17927<pc>549<k1>prolongation<k2>prolongation
-<div n="lb"/>{@PROLONGATION:@}¦ <div n="1">(1) sometimes with {#प्रपञ्चः,#} <div n="xe">{%p.%}
-<div n="lb"/>{%of discussion:%}</div> <div n="xs">{#वादप्रपञ्चः;#}</div> </div><div n="1">(2) by verb or
-<div n="lb"/>circumlo.</div>
+{@PROLONGATION:@}¦ <div n="1">(1) sometimes with {#प्रपञ्चः,#} <div n="xe">{%p.%}
+{%of discussion:%}</div> <div n="xs">{#वादप्रपञ्चः;#}</div> </div><div n="1">(2) by verb or
+circumlo.</div>
 <LEND>

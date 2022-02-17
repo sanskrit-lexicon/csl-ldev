@@ -1,5 +1,5 @@
 <L>2721<pc>092<k1>buffalo<k2>buffalo
-<div n="lb"/>{@BUFFALO:@}¦ <div n="1">(1) {#महिषः;#} </div><div n="1">(2) {#सैरिभः#} (rare). <div n="xe">{%A she-%}
-<div n="lb"/>{%b.:%}</div> <div n="xs">{#महिषी।#}</div> <div n="xe">{%B. -horn:%}</div> <div n="xs">{#गवलम्।#}</div> <div n="xe">{%B. -milk:%}</div> <div n="xs">{#माहिषं #}
-<div n="lb"/>{# दुग्धम्,#}</div> Bha.</div>
+{@BUFFALO:@}¦ <div n="1">(1) {#महिषः;#} </div><div n="1">(2) {#सैरिभः#} (rare). <div n="xe">{%A she-%}
+{%b.:%}</div> <div n="xs">{#महिषी।#}</div> <div n="xe">{%B. -horn:%}</div> <div n="xs">{#गवलम्।#}</div> <div n="xe">{%B. -milk:%}</div> <div n="xs">{#माहिषं #}
+{# दुग्धम्,#}</div> Bha.</div>
 <LEND>

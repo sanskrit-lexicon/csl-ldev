@@ -1,4 +1,4 @@
 <L>14600<pc>447<k1>mileage<k2>mileage
-<div n="lb"/>{@MILEAGE:@}¦ <div n="xe">{%to draw m.:%}</div> <div n="xs">{#*क्रोशानुसारेण भ्रमणव्ययं #}
-<div n="lb"/>{# निष्कर्षति।#}</div>
+{@MILEAGE:@}¦ <div n="xe">{%to draw m.:%}</div> <div n="xs">{#*क्रोशानुसारेण भ्रमणव्ययं #}
+{# निष्कर्षति।#}</div>
 <LEND>

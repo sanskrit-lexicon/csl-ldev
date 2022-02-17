@@ -3,9 +3,9 @@
 <div n="1"> 1) {%Messung, Maass%}: {#यतश्चाध्वकालनिर्माणम्#} 
 <ls>P. 2, 3, 28, <is>Vārtt</is>. 4.</ls> {#एतौ युद्धविदौ रङ्गे कालनिर्माणयोधिनौ#} wohl so v. a. {%dass man die Zeit darnach messen könnte, regelmässig%} 
 <ls>HARIV. 4211.</ls> {#एकनिर्माणौ#} {%von einerlei Maass%} 
-<ls>?4949 = 5738</ls>; vgl. {#एकनिर्माणनिर्युक्तौ#} 
-<ls>3438.</ls> {#ककुदोदग्रनिर्माण#} {%so hoch wie ein Berggipfel%} 
-<ls>4102.</ls> {%das volle Maass%}: {#अयमव्यक्तनिर्माणो बालः#} {%noch nicht vollkommen ausgewachsen%} 
+<ls n="HARIV.">4949</ls> = <ls n="HARIV.">5738</ls>; vgl. {#एकनिर्माणनिर्युक्तौ#} 
+<ls n="HARIV.">3438.</ls> {#ककुदोदग्रनिर्माण#} {%so hoch wie ein Berggipfel%} 
+<ls n="HARIV.">4102.</ls> {%das volle Maass%}: {#अयमव्यक्तनिर्माणो बालः#} {%noch nicht vollkommen ausgewachsen%} 
 <ls>R. 3, 42, 24.</ls> 
 <div n="1">— 2) {%Strecke%}: {#अनक्षत्रगणं व्योमनिर्माणं घनगर्जितम्#} 
 <ls>R. 4, 44, 44.</ls> 
@@ -28,7 +28,7 @@
 <ls>HARIV. 4424.</ls> {#(तालवनम्) निर्माणभूतमीरिणम्#} {%in eine%}
 [Page4-0202]
 {%Wüste umgewandelt%} 
-<ls>3712.</ls> Bei den Buddh. {%Umformung, Umwandlung%} 
+<ls n="HARIV.">3712.</ls> Bei den Buddh. {%Umformung, Umwandlung%} 
 <ls>BURN. Intr. 606. fg.</ls> {#°काय#} Vie de 
 <ls>HIOUEN-THSANG 231,</ls> 
 <ls>N.</ls> 

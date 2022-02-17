@@ -1,4 +1,4 @@
 <L>5933<pc>190<k1>deshabille<k2>deshabille
-<div n="lb"/>{@DESHABILLE:@}¦ <div n="xe">{%in d.:%}</div> <div n="xs">{#एकवस्त्रः#}</div> (f. {#स्त्रा#}), Mah.:
-<div n="lb"/>v. Undress.
+{@DESHABILLE:@}¦ <div n="xe">{%in d.:%}</div> <div n="xs">{#एकवस्त्रः#}</div> (f. {#स्त्रा#}), Mah.:
+v. Undress.
 <LEND>

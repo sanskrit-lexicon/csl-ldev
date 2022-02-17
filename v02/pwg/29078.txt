@@ -2,8 +2,8 @@
 {#त/ल्प#}¦ (ved., {#तल्प/#}? 
 <ls>UṆĀDIS. 3, 28</ls>) <lex>m.</lex> in der älteren, <lex>n.</lex> in der jüngeren Sprache, 
 <ls>TRIK. 3, 5, 7.</ls> 
-<ls>SIDDH. K. 249</ls>, {%a%}, 
-<ls>6 v. u.</ls> 
+<ls>SIDDH. K. 249,a,</ls> 
+<ls>6</ls> v. u. 
 <div n="1"> 1) {%Lager, Bett; Ruhesitz, Sopha%} 
 <ls>AK. 3, 4, 19, 133.</ls> 
 <ls>H. 682.</ls> 
@@ -24,7 +24,7 @@
 <ls>KATHĀS. 26, 269.</ls> 
 <ls>GĪT. 11, 33.</ls> {#°रचना#} 
 <ls>6, 11.</ls> {#मुख्यश्चैवैष नो धर्मः क्षत्रियाणाम् - यच्छयीमहि संग्रामे शरतल्पगता वयम्#} 
-<ls>MBH. 5, 4248. 1, 183. 13, 5387. 14, 1784.</ls> 
+<ls>MBH. 5, 4248.</ls> <ls n="MBH.">1, 183.</ls> <ls n="MBH.">13, 5387.</ls> <ls n="MBH.">14, 1784.</ls> 
 <ls>GĪT. 4, 4.</ls> {#अहीन्द्रतल्पे ऽधिशयानः#} 
 <ls>BHĀG. P. 3, 8, 10.</ls> {#योगतल्पात्समुत्थितः#} 
 <ls>2, 10, 13.</ls> {#श्राद्धभुग्वृषलीतल्पं तदहर्यो ऽधिगच्छति#} so v. a. {%sich fleischlich vermischen%} 
@@ -33,7 +33,7 @@
 <ls>RĀJA-TAR. 2, 166.</ls> {#गुरोस्तल्पमावसन्#} {%das Ehebett des Lehrers besuchend%} so v. a. {%dasselbe durch Ehebruch entweihend%} 
 <ls>CHĀND. UP. 5, 10, 9</ls>; vgl. {#गुरुतल्प, गुरुतल्पिन्#} . Daher {#तल्प#} {%Gattin, Frau%} 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {%Wagensitz%} 
-<ls>MBH. 3, 14917. 7, 1626</ls>, wo so st. {#कल्प#} zu lesen ist. — Das <lex>f.</lex> {#त/ल्पा#} 
+<ls>MBH. 3, 14917.</ls> <ls n="MBH.">7, 1626</ls>, wo so st. {#कल्प#} zu lesen ist. — Das <lex>f.</lex> {#त/ल्पा#} 
 <ls>AV. 13, 1, 17.</ls> 
 <div n="1">— 2) {%ein zur Vertheidigung dienender Thurm%} ({#अट्ट#}) 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#तल्पैश्चाभ्यासिकैर्युक्तं शुशुभे योधरक्षितम् (पुरम्)#} 

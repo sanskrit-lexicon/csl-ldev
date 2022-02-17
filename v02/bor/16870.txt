@@ -1,7 +1,7 @@
 <L>16870<pc>517<k1>perspiration<k2>perspiration
-<div n="lb"/>{@PERSPIRATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#स्वेदः, -नम्, #}
-<div n="lb"/>{# प्र-;#} </div><div n="1">(2) {#स्वेदस्रावः#} and sim. comp.s. </div><div n="I">II
-<div n="lb"/>Sweat: </div><div n="1">(1) {#स्वेदः,#} {%although drenched with p.:%}
-<div n="lb"/>{#स्वेदसलिलस्नातापि,#} K.; </div><div n="1">(2) {#घर्मः;#} </div><div n="1">(3) {#घर्माम्बु;#}</div>
-<div n="lb"/><div n="1">(4) {#स्वेदजलम्;#} etc.</div>
+{@PERSPIRATION:@}¦ <div n="I">I The act: </div><div n="1">(1) {#स्वेदः, -नम्, #}
+{# प्र-;#} </div><div n="1">(2) {#स्वेदस्रावः#} and sim. comp.s. </div><div n="I">II
+Sweat: </div><div n="1">(1) {#स्वेदः,#} {%although drenched with p.:%}
+{#स्वेदसलिलस्नातापि,#} K.; </div><div n="1">(2) {#घर्मः;#} </div><div n="1">(3) {#घर्माम्बु;#}</div>
+<div n="1">(4) {#स्वेदजलम्;#} etc.</div>
 <LEND>

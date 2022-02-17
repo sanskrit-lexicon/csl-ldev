@@ -1,7 +1,7 @@
 <L>6280<pc>140-b<k1>country<k2>country
-<div n="lb"/>COUNTRY¦, {%s.%} (A region) {#देशः, प्रदेशः, विषयः, राष्ट्रं, दिक्#} {%f.%} {#(श्),#}
-<div n="lb"/>{#आशा, तायिकः, धिष्ण्यं;#} ‘inhabitated country,’ {#जनपदः, नीवृत्;#}
-<div n="lb"/>‘barbarous country,’ {#म्लेच्छदेशः#}. — (As opposed to the town)
-<div n="lb"/>{#ग्रामः, जनपदः#}. — (Native country) {#जन्मभूमिः#} {%f.,%} {#स्वदेशः, स्वराष्ट्रं,#}
-<div n="lb"/>{#स्वविषयः#}. — (Country-road) {#दिङ्मार्गः#}.
+COUNTRY¦, {%s.%} (A region) {#देशः, प्रदेशः, विषयः, राष्ट्रं, दिक्#} {%f.%} {#(श्),#}
+{#आशा, तायिकः, धिष्ण्यं;#} ‘inhabitated country,’ {#जनपदः, नीवृत्;#}
+‘barbarous country,’ {#म्लेच्छदेशः#}. — (As opposed to the town)
+{#ग्रामः, जनपदः#}. — (Native country) {#जन्मभूमिः#} {%f.,%} {#स्वदेशः, स्वराष्ट्रं,#}
+{#स्वविषयः#}. — (Country-road) {#दिङ्मार्गः#}.
 <LEND>

@@ -1,7 +1,7 @@
 <L>9138<pc>289<k1>footstep<k2>footstep
-<div n="lb"/>{@FOOTSTEP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#पदविक्षेपः;#} </div><div n="1">(2) {#पादन्यासः;#}</div>
-<div n="lb"/><div n="1">(3) {#चरणपातः;#} and sim. comp.s. </div><div n="I">II Foot-
-<div n="lb"/>-print: q.v.: {#पदम्,#} <div n="xe">{%by rows of wet f.s.:%}</div> <div n="xs">{#आर्द्रपद-#}
-<div n="lb"/>{#पंक्तिभिः,#}</div> R. ix. 59. </div><div n="I">III Token, mark: q.v.:
-<div n="lb"/>{#लक्षणम्।#}</div>
+{@FOOTSTEP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#पदविक्षेपः;#} </div><div n="1">(2) {#पादन्यासः;#}</div>
+<div n="1">(3) {#चरणपातः;#} and sim. comp.s. </div><div n="I">II Foot-
+-print: q.v.: {#पदम्,#} <div n="xe">{%by rows of wet f.s.:%}</div> <div n="xs">{#आर्द्रपद-#}
+{#पंक्तिभिः,#}</div> R. ix. 59. </div><div n="I">III Token, mark: q.v.:
+{#लक्षणम्।#}</div>
 <LEND>

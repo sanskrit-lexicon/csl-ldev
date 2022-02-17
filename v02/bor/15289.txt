@@ -1,8 +1,8 @@
 <L>15289<pc>468<k1>nearly<k2>nearly
-<div n="lb"/>{@NEARLY@}¦ (adj.): <div n="I">I Within a little: </div><div n="1">(1) {#प्रायः#}
-<div n="lb"/>(= almost: q. v.), <div n="xe">{%n. dead:%}</div> <div n="xs">{#मृतप्रायः#}</div> ({#या, यं#});</div>
-<div n="lb"/><div n="1">(2) {#किञ्चिदूनम्#} (= little less), <div n="xe">{%n. ten thousand%}
-<div n="lb"/>{%winters:%}</div> <div n="xs">{#किञ्चिदूनं शरदामयुतम्,#}</div> R. x. 1. </div><div n="I">II
-<div n="lb"/>Closely: expr. with adj.: v. Near (VI)</div>
-<div n="lb"/><div n="I">III Pressingly: {#भृशम्।#}</div>
+{@NEARLY@}¦ (adj.): <div n="I">I Within a little: </div><div n="1">(1) {#प्रायः#}
+(= almost: q. v.), <div n="xe">{%n. dead:%}</div> <div n="xs">{#मृतप्रायः#}</div> ({#या, यं#});</div>
+<div n="1">(2) {#किञ्चिदूनम्#} (= little less), <div n="xe">{%n. ten thousand%}
+{%winters:%}</div> <div n="xs">{#किञ्चिदूनं शरदामयुतम्,#}</div> R. x. 1. </div><div n="I">II
+Closely: expr. with adj.: v. Near (VI)</div>
+<div n="I">III Pressingly: {#भृशम्।#}</div>
 <LEND>

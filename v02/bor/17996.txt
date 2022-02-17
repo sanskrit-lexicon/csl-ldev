@@ -1,4 +1,4 @@
 <L>17996<pc>552<k1>proprietorship<k2>proprietorship
-<div n="lb"/>{@PROPRIETORSHIP:@}¦ {#स्वाम्यम्, स्वामित्वम्,#} <div n="xe">{%or%}</div> <div n="xs">{#स्वामिभावः,#}</div>
-<div n="lb"/>Da.
+{@PROPRIETORSHIP:@}¦ {#स्वाम्यम्, स्वामित्वम्,#} <div n="xe">{%or%}</div> <div n="xs">{#स्वामिभावः,#}</div>
+Da.
 <LEND>

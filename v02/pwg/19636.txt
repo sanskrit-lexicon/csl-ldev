@@ -6,7 +6,7 @@
 <ls>1, 3, 12.</ls> {#रशना#} 
 <ls>6, 3, 15.</ls> <ls>ŚĀṄKH. ŚR. 16, 12, 19.</ls> {#वृषी#} 
 <ls>SĀV. 3, 4.</ls> 
-<ls>MBH. 3, 10036. 13, 2845.</ls> {#शयन#} 
+<ls>MBH. 3, 10036.</ls> <ls n="MBH.">13, 2845.</ls> {#शयन#} 
 <ls>1409.</ls> {#कौशाम्भस्#} {%mit%} <is>Kuśa</is> {%aufgekochtes Wasser%} 
 <ls>DEV. 11, 12.</ls> 
 <div n="1">— 2) <lex>n.</lex> (sc. {#नगर#}) <is>Kuśa's</is> {%Stadt%}, ein Bein. von <is>Kānyakubja</is> 

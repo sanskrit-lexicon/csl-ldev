@@ -4,7 +4,7 @@
 <ls>P. 3, 2, 178</ls>, <is>Vārtt</is>. 
 <ls>2.</ls> <ls>VOP. 26, 71.</ls> 
 <div n="1"> 1) <lex>adj.</lex> {%beweglich%} (
-<ls>NIR.5,3.9,13.</ls> <ls>AK.3,4,14,82.</ls> <ls>H. 1454.</ls> <ls>MED. t.</ls> <ls>?108); n. SIDDH. K. 251,a,7.</ls> {%das Bewegliche, Lebendige: Menschen%} (
+<ls>NIR. 5,3.9,13.</ls> <ls>AK. 3,4,14,82.</ls> <ls>H. 1454.</ls> <ls>MED. t. 108</ls>); n. <ls>SIDDH. K. 251,a,7.</ls> {%das Bewegliche, Lebendige: Menschen%} (
 <ls>NAIGH. 2, 3</ls>) {%und Thiere%}; oft von {%den Thieren allein im Unterschied vom Menschen%}; später für {%Welt%} (
 <ls>AK. 2, 1, 6. 3, 4, 14, 74.</ls> 
 <ls>TRIK. 3, 3, 157.</ls> 
@@ -43,7 +43,7 @@
 <ls>PRAB. 6, 4.</ls> {#जगती#} du. {%Himmel und Unterwelt%} 
 <ls>KIR. 5, 20.</ls> {#सर्वामरजगत्पति#} von <is>Indra</is> 
 <ls>R. 6, 105, 4.</ls> 
-<div n="1">— 2) <lex>adj.</lex> (=  {#जागत)ः पद#} 
+<div n="1">— 2) <lex>adj.</lex> (= {#जागत)ः पद#} 
 <ls>ṚV. 1, 164, 23.</ls> 
 <ls>ṢAḌV. BR. 1, 4.</ls> 
 <div n="1">— 3) <lex>n.</lex> = {#जगती#} <lex>f.</lex> 
@@ -65,14 +65,14 @@
 <ls>AK. 3, 4, 14, 74.</ls> 
 <ls>H. 937.</ls> 
 <ls>an. 3, 262.</ls> 
-<ls>MED. t. 109.</ls> <ls>ĪŚOP. 1.</ls> <ls>PRAŚNOP. 5, 3.</ls> <ls>MBH. 7,1285.  8160.</ls>
+<ls>MED. t. 109.</ls> <ls>ĪŚOP. 1.</ls> <ls>PRAŚNOP. 5, 3.</ls> <ls>MBH. 7, 1285.</ls> <ls n="MBH. 7,">8160.</ls>
 [Page3-0004]
 {#प्रभावात्पद्मनाभस्य शाश्वती जगती कृता#} 
 <ls>HARIV. 2940.</ls> 
 <ls>R. 3, 4, 12. 6, 20, 20. 99, 5.</ls> 
 <ls>BHĀG. P. 3, 13, 31. 5, 1, 29.</ls> {#सर्वं स्वं ब्राह्मणस्येदं यत्किंचिज्जगतीगतम्#} 
 <ls>M. 1, 100.</ls> {#जगतीस्थानिवाद्रिस्थः#} ({#अभिवीक्षते#}) 
-<ls>MBH. 3, 14789. 12, 5623.</ls> {#°चर#} {%Erdbewohner, Mensch%} 
+<ls>MBH. 3, 14789.</ls> <ls n="MBH.">12, 5623.</ls> {#°चर#} {%Erdbewohner, Mensch%} 
 <ls>6970.</ls> 
 <div n="2">— c) {%der Platz auf dem ein Haus steht%} ({#वास्तु#}) 
 <ls>VAIG.</ls> beim Schol. zu 

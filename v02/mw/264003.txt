@@ -1,7 +1,7 @@
 <L>264003<pc>1303,3<k1>हेतु<k2>हेतु/<h>b<e>2
 <s>हेतु/</s> <hom>b</hom> ¦ <lex>m.</lex> ‘impulse’, motive, cause, cause of, reason for (<ab>loc.</ab>, rarely <ab>dat.</ab> or <ab>gen.</ab>;
 <s>हेतुना</s>, <s>हेतोः</s>, <s>हेतवे</s>, <s>हेतौ</s>, ‘for a cause or reason’, ‘by reason of’, ‘on account of’ [with <ab>gen.</ab> or <ab>comp.</ab> <ab>e.g.</ab> <s>मम हेतोः</s> or <s>मद्-धेतोः</s>, ‘on account of me’];
-<s>कं हेतुम्</s> or <s>को हेतुः</s>, ‘wherefore?’ ‘why?’ <ls>Pāṇ. 2-2, 23</ls>;
+<s>कं हेतुम्</s> or <s>को हेतुः</s>, ‘wherefore?’ ‘why?’ <ls>Pāṇ. ii, 2, 23</ls>;
 <ls>Pat.</ls>;
 <s>यतो हेतोः</s>, ‘because’;
 <s>अनेन हेतुना</s> or <s>इति हेतोः</s>, ‘for this reason’;
@@ -9,6 +9,6 @@
 <s>हेतुर् अलौकिकः</s>, ‘a supernatural cause’;
 <ab>ifc.</ab> <s>हेतु</s> also = ‘having as a cause or motive’, ‘caused or effected or actuated or attracted or impelled by’ <ab>e.g.</ab> <s>कर्म-हेतु</s>, ‘caused by the acts [of a former existence]’ <ls>Mn. i, 49</ls>;
 <s>मांस-हेतु</s>, ‘attracted by [the smell of] flesh’ <ls>MBh. x, 496</ls>;
-<s>कर्म-फल-हेतु</s>, ‘impelled by [the expectation of] the consequences of any act’ <ls>BhP. ii, 47;
-49</ls>), <ls>RV.</ls> &c. &c.<info lex="m"/>
+<s>कर्म-फल-हेतु</s>, ‘impelled by [the expectation of] the consequences of any act’ <ls>BhP. ii, 47; 49</ls>), <ls>RV.</ls> &c. &c.
+<info lex="m"/>
 <LEND>

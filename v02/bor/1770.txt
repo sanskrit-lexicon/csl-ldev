@@ -1,6 +1,6 @@
 <L>1770<pc>061<k1>beatify<k2>beatify
-<div n="lb"/>{@BEATIFY:@}¦ <div n="I">I To bless, make happy: q. v.:
-<div n="lb"/>{#सुखयति।#} </div><div n="I">II t. t. in the Romish church {#*दिवं-#}
-<div n="lb"/>{#गतः#} ({#ता, तं#}) {#इति प्रख्यापयति; दिव्यजनत्वम् आरोप-#}
-<div n="lb"/>{#यति।#}</div>
+{@BEATIFY:@}¦ <div n="I">I To bless, make happy: q. v.:
+{#सुखयति।#} </div><div n="I">II t. t. in the Romish church {#*दिवं-#}
+{#गतः#} ({#ता, तं#}) {#इति प्रख्यापयति; दिव्यजनत्वम् आरोप-#}
+{#यति।#}</div>
 <LEND>

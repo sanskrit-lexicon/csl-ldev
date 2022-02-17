@@ -1,5 +1,5 @@
 <L>176<pc>008<k1>accursed<k2>accursed
-<div n="lb"/>{@ACCURSED:@}¦ <div n="1">(1) {#-हतकः#} ({#का, कं#}), {%the a. moon.%}
-<div n="lb"/>{#चन्द्रहतकः,#} K.; </div><div n="1">(2) {#दग्धः#} ({#ग्धा, ग्धं#}), {%the a. saint%}
-<div n="lb"/>{#दग्धसिद्धः,#} <ls>D.</ls> vii.: v. Detestable, execrable.</div>
+{@ACCURSED:@}¦ <div n="1">(1) {#-हतकः#} ({#का, कं#}), {%the a. moon.%}
+{#चन्द्रहतकः,#} K.; </div><div n="1">(2) {#दग्धः#} ({#ग्धा, ग्धं#}), {%the a. saint%}
+{#दग्धसिद्धः,#} <ls>D.</ls> vii.: v. Detestable, execrable.</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>20828<pc>654<k1>smite<k2>smite
-<div n="lb"/>{@SMITE@}¦ (v.): <div n="I">I To strike, kill: q. v.: {#हन्ति#}
-<div n="lb"/>({#हन्,#} c. 2.). </div><div n="I">II Of love: expr. by {#मदनबाणहतः#}
-<div n="lb"/>({#ता, तं#}) and sim. comp.s. <div n="xe">{%s. ten by love, I set%}
-<div n="lb"/>{%out for Srāvastī:%}</div> <div n="xs">{#अहं पञ्चबाणवश्यः श्रावस्तीमभ्यवर्तिषि।#}</div>
-<div n="lb"/>D. v.</div>
+{@SMITE@}¦ (v.): <div n="I">I To strike, kill: q. v.: {#हन्ति#}
+({#हन्,#} c. 2.). </div><div n="I">II Of love: expr. by {#मदनबाणहतः#}
+({#ता, तं#}) and sim. comp.s. <div n="xe">{%s. ten by love, I set%}
+{%out for Srāvastī:%}</div> <div n="xs">{#अहं पञ्चबाणवश्यः श्रावस्तीमभ्यवर्तिषि।#}</div>
+D. v.</div>
 <LEND>

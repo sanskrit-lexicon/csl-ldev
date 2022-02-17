@@ -1,5 +1,5 @@
 <L>22900<pc>722<k1>trite<k2>trite
-<div n="lb"/>{@TRITE:@}¦ <div n="1">(1) {#क्षुण्ण#} (f. {#ण्णा#}), <div n="xe">{%if one leaves out the%}
-<div n="lb"/>{%subject of Rāma, because it is t.:%}</div> <div n="xs">{#यदि क्षुण्णं पूर्वैरिति #}
-<div n="lb"/>{# जहति रामस्य चरितम्,#}</div> A. n. i. 9.</div>
+{@TRITE:@}¦ <div n="1">(1) {#क्षुण्ण#} (f. {#ण्णा#}), <div n="xe">{%if one leaves out the%}
+{%subject of Rāma, because it is t.:%}</div> <div n="xs">{#यदि क्षुण्णं पूर्वैरिति #}
+{# जहति रामस्य चरितम्,#}</div> A. n. i. 9.</div>
 <LEND>

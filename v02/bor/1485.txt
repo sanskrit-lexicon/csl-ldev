@@ -1,8 +1,8 @@
 <L>1485<pc>052<k1>back<k2>back
-<div n="lb"/>{@BACK@}¦ (subs.): <div n="I">I Of an animal: {#पृष्ठम्,#} <div n="xe">{%whose%}
-<div n="lb"/>{%b. s the enemy has seen%}</div> <div n="xs">{#दृष्टपृष्ठानरातिना,#}</div> Ki. xv.
-<div n="lb"/>19.: Ph. {%behind one's b.:%} </div><div n="1">(1) {#पृष्ठतः;#} </div><div n="1">(2)
-<div n="lb"/>{#परोक्षे#} (in one's absence). </div><div n="I">II As opposed to
-<div n="lb"/>front: </div><div n="1">(1) {#पृष्ठम्,#} <div n="xe">{%on the b. of a writing%}</div> <div n="xs">{#लेखस्य पृष्ठे,#}</div>
-<div n="lb"/>Y.; </div><div n="1">(2) {#पृष्ठदेशः।#}</div>
+{@BACK@}¦ (subs.): <div n="I">I Of an animal: {#पृष्ठम्,#} <div n="xe">{%whose%}
+{%b. s the enemy has seen%}</div> <div n="xs">{#दृष्टपृष्ठानरातिना,#}</div> Ki. xv.
+19.: Ph. {%behind one's b.:%} </div><div n="1">(1) {#पृष्ठतः;#} </div><div n="1">(2)
+{#परोक्षे#} (in one's absence). </div><div n="I">II As opposed to
+front: </div><div n="1">(1) {#पृष्ठम्,#} <div n="xe">{%on the b. of a writing%}</div> <div n="xs">{#लेखस्य पृष्ठे,#}</div>
+Y.; </div><div n="1">(2) {#पृष्ठदेशः।#}</div>
 <LEND>

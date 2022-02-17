@@ -1,10 +1,10 @@
 <L>18541<pc>570<k1>range<k2>range
-<div n="lb"/>{@RANGE@}¦ (subs.): <div n="I">I A row, line: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#श्रेणिः#} ({#णी#}); </div><div n="1">(2) {#राजिः#} ({#जी#}) </div><div n="I">II A class,
-<div n="lb"/>order: q. v.: {#गणः।#} </div><div n="I">III Excursion, wander-
-<div n="lb"/>-ing: q. v.: {#परिभ्रमणम्।#} </div><div n="I">IV Compass, reach:
-<div n="lb"/>q. v.: {#विषयः,#} <div n="xe">{%beyond the r. of Lakṣmaṇa's%}
-<div n="lb"/>{%arrows:%}</div> <div n="xs">{#सौमित्रेरपि पत्रिणामविषये,#}</div> U. iii. 44.: </div><div n="I">V
-<div n="lb"/>Kichen-r.: {#*लौहयोगराजिः।#} </div><div n="I">VI Of a ladder:
-<div n="lb"/>v. Step.</div>
+{@RANGE@}¦ (subs.): <div n="I">I A row, line: q. v.: </div><div n="1">(1)
+{#श्रेणिः#} ({#णी#}); </div><div n="1">(2) {#राजिः#} ({#जी#}) </div><div n="I">II A class,
+order: q. v.: {#गणः।#} </div><div n="I">III Excursion, wander-
+-ing: q. v.: {#परिभ्रमणम्।#} </div><div n="I">IV Compass, reach:
+q. v.: {#विषयः,#} <div n="xe">{%beyond the r. of Lakṣmaṇa's%}
+{%arrows:%}</div> <div n="xs">{#सौमित्रेरपि पत्रिणामविषये,#}</div> U. iii. 44.: </div><div n="I">V
+Kichen-r.: {#*लौहयोगराजिः।#} </div><div n="I">VI Of a ladder:
+v. Step.</div>
 <LEND>

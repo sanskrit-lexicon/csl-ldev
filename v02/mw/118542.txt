@@ -1,5 +1,5 @@
 <L>118542<pc>600,3<k1>परिविद्<k2>परि-विद्<h>a<e>1
-<hom>a.</hom> <s>परि-</s>√ <hom>1.</hom> <s>विद्</s> ¦ (<ab>pf.</ab> <s>-वेदा<shortlong/></s> for <ab>pres.</ab>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">περόοιδε</lang>), 
+<hom>a.</hom> <s>परि-</s>√ <hom>1.</hom> <s>विद्</s> ¦ (<ab>pf.</ab> <s>-वेदा<स्होर्त्लोन्ग्/></s> for <ab>pres.</ab>; <ab>cf.</ab> <ab>Gk.</ab> <lang n="greek">περόοιδε</lang>), 
 <div n="to"/>to know thoroughly, understand fully, <ls>RV.</ls>; <ls>AV.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>-वेदयते</s>, <ls>Nir. xiv, 22.</ls><info verb="pre" cp="" parse="pari+vid"/>
 <LEND>

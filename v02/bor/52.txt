@@ -1,5 +1,5 @@
 <L>52<pc>002<k1>abomination<k2>abomination
-<div n="lb"/>{@ABOMINATION:@}¦ <div n="I">I Hatred: q. v. {#द्वेषः।#} </div><div n="I">II
-<div n="lb"/>That which excites hatred: </div><div n="1">(1) {#जुगुप्सितम्;#}</div>
-<div n="lb"/><div n="1">(2) {#गर्हितम्;#} </div><div n="1">(3) {#घृणितम्।#}</div>
+{@ABOMINATION:@}¦ <div n="I">I Hatred: q. v. {#द्वेषः।#} </div><div n="I">II
+That which excites hatred: </div><div n="1">(1) {#जुगुप्सितम्;#}</div>
+<div n="1">(2) {#गर्हितम्;#} </div><div n="1">(3) {#घृणितम्।#}</div>
 <LEND>

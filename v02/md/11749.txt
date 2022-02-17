@@ -1,10 +1,10 @@
 <L>11749<pc>165-1<k1>पुराण<k2>पुराण
 {#पुराण#}¦purā-ṇá, {%a.%} ({@ī@}) belonging to the olden 
-<>time, primaeval, ancient, old; withered ({%leaf%}); 
-<>{%n.%} things of the olden time; tale of past ages, 
-<>ancient legend; Purāṇa, {%N. of eighteen legendary %}<lbinfo n="5"/>
-<>{% works treating chiefly of cosmogony %}
-<>{%and divine genealogy%}; {%m.%} {%a coin of a certain %}
-<>{%weight%} ({%a measure of silver equal to eighty %}
-<>{%cowries%}).
+time, primaeval, ancient, old; withered ({%leaf%}); 
+{%n.%} things of the olden time; tale of past ages, 
+ancient legend; Purāṇa, {%N. of eighteen legendary %}<lbinfo n="5"/>
+{% works treating chiefly of cosmogony %}
+{%and divine genealogy%}; {%m.%} {%a coin of a certain %}
+{%weight%} ({%a measure of silver equal to eighty %}
+{%cowries%}).
 <LEND>

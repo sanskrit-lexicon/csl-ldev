@@ -1,4 +1,4 @@
 <L>24402<pc>764<k1>wise<k2>wise
-<div n="lb"/>{@WISE@}¦ (subs.): v. Manner, way. Ph.: <div n="xe">{%in no%}
-<div n="lb"/>{%w.:%}</div> <div n="xs">{#न कथञ्चन;#}</div> <div n="xe">{%in any wise:%}</div> <div n="xs">{#केनापि प्रकारेण।#}</div>
+{@WISE@}¦ (subs.): v. Manner, way. Ph.: <div n="xe">{%in no%}
+{%w.:%}</div> <div n="xs">{#न कथञ्चन;#}</div> <div n="xe">{%in any wise:%}</div> <div n="xs">{#केनापि प्रकारेण।#}</div>
 <LEND>

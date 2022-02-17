@@ -13,7 +13,7 @@
 <ls>M. 2, 54. 98. 9, 309.</ls> 
 <ls>MBH. 7, 5988</ls> ({#नाहृष्यद°#} mit der ed. Bomb. zu lesen). 
 <ls>R. 2, 48, 3.</ls> {#कस्त्वया सुखिना न हृष्यति न नन्दति#} 
-<ls>?3, 45, 3. 78, 31. 5, 88, 3. Spr. (II) 3398. 3957. 7411. KATHĀS. 22, 230. DAŚAK. 88, 6. BHĀG. P. 1, 18, 50. 6, 10, 9. Auge RĀJA-TAR. 5, 1.</ls> {#हृष्यन्त्#} 
+<ls>3, 45, 3. 78, 31. 5, 88, 3.</ls> <ls>Spr. (II) 3398.</ls> <ls n="Spr. (II)">3957.</ls> <ls n="Spr. (II)">7411.</ls> <ls>KATHĀS. 22, 230.</ls> <ls>DAŚAK. 88, 6.</ls> <ls>BHĀG. P. 1, 18, 50. 6, 10, 9.</ls> Auge <ls>RĀJA-TAR. 5, 1.</ls> {#हृष्यन्त्#} 
 <ls>KATHĀS. 26, 244. 44, 80. 53, 130</ls> ({#ऽवादीद्धृष्यन्#} zu lesen). 
 <ls>BHĀG. P. 4, 25, 61.</ls> {#जहर्ष#} 
 <ls>R. 5, 7, 23.</ls> 
@@ -22,7 +22,7 @@
 <ls>MBH. 15, 914.</ls> {#अहृषताम्#} 
 <ls>BHAṬṬ. 15, 104.</ls> med. : {#हृष्यसे#} 
 <ls>MĀRK. P. 110, 11</ls> (ohne Noth). {#जहृषे#} 
-<ls>MBH. 2, 1219. 2184. 3, 3017. 11271. 5, 7225. 6, 3411.</ls> 
+<ls>MBH. 2, 1219.</ls> <ls n="MBH. 2,">2184.</ls> <ls n="MBH.">3, 3017.</ls> <ls n="MBH. 3,">11271.</ls> <ls n="MBH.">5, 7225.</ls> <ls n="MBH.">6, 3411.</ls> 
 <ls>HARIV. 8139.</ls> 
 <ls>R. 5, 52, 19.</ls> 
 <ls>MĀRK. P. 110, 7.</ls> {#जहृषिरे#} 
@@ -48,7 +48,7 @@ zu <ls>P. 3, 2, 188.</ls>
 <ls>MED. ṭ. 31.</ls> {#हृष्टं पुष्टं बलम्#} 
 <ls>M. 7, 171.</ls> 
 <ls>R. 1, 53, 5. 6.</ls> 
-<ls>KĀM. NĪTIS. 10, 26.</ls> <ls>YĀJÑ. 1, 347.</ls> <ls>MBH. 1, 5933. 3, 1804. 2128. 2715. 2658. 3058. 5, 7179.</ls> <ls>R. 1, 1, 87. 4, 20. 2, 50, 26. 3, 49, 18.</ls> <ls>ṚT. 6, 25.</ls> <ls>VIKR. 75, 1.</ls> <ls>Spr. (II) 1161. 3642. 6082.</ls> <ls>VARĀH. BṚH. S. 5, 78. 21, 17. 44, 23. 68, 74. 93, 7.</ls> <ls>WEBER, KṚṢṆAJ. 282.</ls> <ls>KATHĀS. 18, 214. 27, 102.</ls> <ls>DAŚAK. 66, 3.</ls> <ls>RĀJA-TAR. 6, 262.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 53, 6.</ls> <ls>ŚUK. ebend. 36, 9.</ls> {#चेतस्#} 
+<ls>KĀM. NĪTIS. 10, 26.</ls> <ls>YĀJÑ. 1, 347.</ls> <ls>MBH. 1, 5933.</ls> <ls n="MBH.">3, 1804.</ls> <ls n="MBH. 3,">2128.</ls> <ls n="MBH. 3,">2715.</ls> <ls n="MBH. 3,">2658.</ls> <ls n="MBH. 3,">3058.</ls> <ls n="MBH.">5, 7179.</ls> <ls>R. 1, 1, 87. 4, 20. 2, 50, 26. 3, 49, 18.</ls> <ls>ṚT. 6, 25.</ls> <ls>VIKR. 75, 1.</ls> <ls>Spr. (II) 1161.</ls> <ls n="Spr. (II)">3642.</ls> <ls n="Spr. (II)">6082.</ls> <ls>VARĀH. BṚH. S. 5, 78. 21, 17. 44, 23. 68, 74. 93, 7.</ls> <ls>WEBER, KṚṢṆAJ. 282.</ls> <ls>KATHĀS. 18, 214. 27, 102.</ls> <ls>DAŚAK. 66, 3.</ls> <ls>RĀJA-TAR. 6, 262.</ls> <ls>BRAHMA-P. in LA. (III) 53, 6.</ls> <ls>ŚUK. ebend. 36, 9.</ls> {#चेतस्#} 
 <ls>R. 2, 40, 13.</ls> {#°चित्त#} ad 
 <ls>MEGH. 113.</ls> {#°चेतन#} 
 <ls>R. 2, 26, 4.</ls> {#°मनस्#} 
@@ -70,7 +70,7 @@ zu <ls>P. 3, 2, 188.</ls>
 <ls>TRIK. 3, 1, 21.</ls> 
 <ls>BHAG. 11, 14.</ls> 
 <ls>MBH. 4, 1239.</ls> 
-<ls>R. 1, 21, 1 (22, 1 GORR.). 51, 1 (52, 1 GORR.).</ls> <ls>R. GORR. 2, 9, 34.</ls> <ls>SUŚR. 1, 120, 18.</ls> <ls>VARĀH. BṚH. S. 92, 3.</ls> <ls>BHĀG. P. 4, 24, 22.</ls> <ls>VET.</ls> in <ls>LA. (III) 3, 22.</ls> {#°तनूरुह#} 
+<ls>R. 1, 21, 1 (22, 1 GORR.). 51, 1 (52, 1 GORR.).</ls> <ls>R. GORR. 2, 9, 34.</ls> <ls>SUŚR. 1, 120, 18.</ls> <ls>VARĀH. BṚH. S. 92, 3.</ls> <ls>BHĀG. P. 4, 24, 22.</ls> <ls>VET. in LA. (III) 3, 22.</ls> {#°तनूरुह#} 
 <ls>MBH. 1, 5296.</ls> 
 <ls>R. 3, 50, 27.</ls> {#°तनु = °तनूरुह#} 
 <ls>BHĀG. P. 2, 9, 17.</ls> {#हृष्ट = रोमाञ्चसंयुत, रोमाञ्चित#} 
@@ -82,7 +82,7 @@ zu <ls>P. 3, 2, 188.</ls>
 <div n="2">— b) {#हृषित/#} 
 <ls>VOP. 26, 113.</ls> 
 <div n="2"> a) {%froh, guter Dinge, munter%} 
-<ls>H. an.</ls><ls>MED. t. 176.</ls> <ls>ṚV. 1, 103, 7.</ls> <ls>BHAG. 11, 45.</ls> <ls>MBH. 8, 4507. 4532.</ls>
+<ls>H. an.</ls> <ls>MED. t. 176.</ls> <ls>ṚV. 1, 103, 7.</ls> <ls>BHAG. 11, 45.</ls> <ls>MBH. 8, 4507.</ls> <ls n="MBH. 8,">4532.</ls>
 [Page7-1563]
 = {#विस्मित#} 
 <ls>P. 7, 2, 29, <is>Vārtt</is>. 2.</ls> 
@@ -90,10 +90,10 @@ zu <ls>P. 3, 2, 188.</ls>
 <ls>MED.</ls> 
 <div n="3">— β) {%starrend, zu Berge stehend%}: {#लोमानि#} 
 <ls>P. 7, 2, 29.</ls> {#केशाः#} <is>Vārtt</is>. {#रोमाणि#} 
-<ls>MBH. 4, 1245. 9, 8403.</ls> = {#रोमाञ्चसंयुत#} 
+<ls>MBH. 4, 1245.</ls> <ls n="MBH.">9, 8403.</ls> = {#रोमाञ्चसंयुत#} 
 <ls>H. an.</ls> = {#हृष्टलोमन्#} 
 <ls>MED.</ls> von Blumen und Kränzen so v. a. {%nicht herabhängend, frisch%} 
-<ls>MBH. 3, 2215. 2938.</ls> von Zähnen so v. a. {%stumpf%}, = {#प्रतिहत#} 
+<ls>MBH. 3, 2215.</ls> <ls n="MBH. 3,">2938.</ls> von Zähnen so v. a. {%stumpf%}, = {#प्रतिहत#} 
 <ls>P. 7, 2, 29, <is>Vārtt</is>. 2.</ls> = {#ऽप्रतिहत#} 
 <ls>H. an.</ls> = {#प्रहत#} 
 <ls>MED.</ls> 
@@ -105,12 +105,12 @@ zu <ls>P. 3, 2, 188.</ls>
 <div n="1"> 1) {%ungeduldig machen, freudig erregen, erfreuen%}: {#इन्द्र\ं जैत्रा^य हर्षय#} 
 <ls>ṚV. 8, 15, 13.</ls> <ls n="ṚV.">9, 111, 3.</ls> <ls n="ṚV.">10, 16, 14.</ls> 
 <ls>M. 3, 233.</ls> 
-<ls>MBH. 1, 4460. 6038. 8280. 5, 7133. 14, 1935.</ls> 
-<ls>HARIV. 9914. 9979. 13698.</ls> 
+<ls>MBH. 1, 4460.</ls> <ls n="MBH. 1,">6038.</ls> <ls n="MBH. 1,">8280.</ls> <ls n="MBH.">5, 7133.</ls> <ls n="MBH.">14, 1935.</ls> 
+<ls>HARIV. 9914.</ls> <ls n="HARIV.">9979.</ls> <ls n="HARIV.">13698.</ls> 
 <ls>R. 2, 96, 17 (105, 16 GORR.).</ls> <ls>R. GORR. 2, 2, 7. 3, 34. 4, 13, 32.</ls> <ls>ŚĀK. 102, v. l.</ls> <ls>KATHĀS. 124, 247.</ls> <ls>BHĀG. P. 3, 13, 24. 6, 10, 14. 8, 4, 26. 10, 73, 32.</ls> med. <ls>MBH. 7, 4875.</ls> {#क्रत्वे\ दक्षा^य हर्षयन्त पी\ताः#} {%erregen%} 
 <ls>ṚV. 4, 37, 2.</ls> 
 <div n="1">— 2) {%starren machen%}: {#लोमानि हर्षयां चक्रे#} (so zu lesen) 
-<ls>Verz. d. Oxf. H. 47,a,16 v. u.</ls> 
+<ls>Verz. d. Oxf. H. 47,a,16</ls> v. u. 
 <div n="1">— 3) {%sich freuen%} 
 <ls>M. 6, 57.</ls> 
 <ls>Spr. (II) 5846.</ls> 
@@ -118,14 +118,14 @@ zu <ls>P. 3, 2, 188.</ls>
 zu <ls>P. 5, 2, 36.</ls> 
 <div n="2"> a) {%erfreut%} 
 <ls>R. 2, 82, 24. 85, 11. 106, 32.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 14, 24. 2, 6, 8. 5, 23, 11.</ls> 
+
+<ls>R. GORR. 1, 14, 24. 2, 6, 8. 5, 23, 11.</ls> 
 <ls>PAÑCAT. 46, 12.</ls> {#परम°#} 
 <ls>HARIV. 13267.</ls> 
 <ls>R. 1, 46, 18 (47, 7 GORR.). 68, 13.</ls> {#सुतजन्म°#} 
 <ls>RAGH. 3, 20.</ls> 
 <div n="2">— b) {%zum Starren gebracht%}: {#तस्य ते सर्वरोमाणि वचसा हर्षितानि#} (so zu lesen) {#यत्#} 
-<ls>Verz. d. Oxf. H.7,b,11 v. u.</ls> 
+<ls>Verz. d. Oxf. H.7,b,11</ls> v. u. 
 <div n="2">— c) <lex>n.</lex> {%Freude%}: {#स°#} <lex>adj.</lex> {%erfreut%} 
 <ls>MBH. 4, 847.</ls> — 
 <div n="1">— 5) partic. {#हर्षितवन्त्#} {%erfreut, sich freuend über%} (gen.) 
@@ -145,7 +145,7 @@ zu <ls>P. 5, 2, 36.</ls>
 <ls>BHĀG. P. 4, 25, 61.</ls>
 
 <div n="p">— {#अभि#} caus. {%erfreuen%} 
-<ls>MBH. 6, 1833. 12, 1894.</ls>
+<ls>MBH. 6, 1833.</ls> <ls n="MBH.">12, 1894.</ls>
 
 <div n="p">— {#समभि#} caus. dass. 
 <ls>MBH. 14, 2159.</ls>
@@ -185,7 +185,7 @@ zu <ls>P. 5, 2, 36.</ls>
 <ls>R. 2, 60, 22.</ls> {#°हृषित#} dass. 
 <ls>MBH. 8, 1206.</ls> — caus. {%hoch erfreuen%} 
 <ls>MBH. 3, 887.</ls> 
-<ls>HARIV.</ls> <ls>?5743.R. 6, 112, 29.</ls>
+<ls>HARIV.</ls> <ls n="HARIV.">5743.</ls> <ls>R. 6, 112, 29.</ls>
 [Page7-1564]
 {#°हर्षित#} partic. 
 <ls>MBH. 7, 2199.</ls> 
@@ -197,9 +197,9 @@ zu <ls>P. 5, 2, 36.</ls>
 
 <div n="p">— {#प्र#} {%sich der Freude hingeben, munter sein%}: {#न प्रहृष्येत्प्रियं प्राप्य#} 
 <ls>BHAG. 5, 20. 11, 36.</ls> {#वाजिनः#} 
-<ls>MBH. 4, 1461. 14, 769.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 45, 6. 71, 6. 5, 37, 2.</ls> 
+<ls>MBH. 4, 1461.</ls> <ls n="MBH.">14, 769.</ls> 
+
+<ls>R. GORR. 2, 45, 6. 71, 6. 5, 37, 2.</ls> 
 <ls>Spr. (II) 266.</ls> {#को न प्रहृष्येद्दुःखेन सुखत्वपरिवर्तिना#} 
 <ls>KATHĀS. 22, 252.</ls> {#प्रजहृषुस्#} 
 <ls>BHĀG. P. 10, 44, 30.</ls> {#प्रहृष्य#} absol. 
@@ -208,7 +208,7 @@ zu <ls>P. 5, 2, 36.</ls>
 <ls>R. 2, 69, 5.</ls> {#प्रहृष्यमाणैरसुभिः#} 
 <ls>BHĀG. P. 3, 24, 11.</ls> — partic. {#प्रहृष्ट#} 
 <div n="1"> 1) {%erfreut, froh%} 
-<ls>MBH. 1, 6202. 3, 2717. 11936.</ls> 
+<ls>MBH. 1, 6202.</ls> <ls n="MBH.">3, 2717.</ls> <ls n="MBH. 3,">11936.</ls> 
 <ls>R. 1, 1, 8. 2, 25, 37. 26, 5. 12. 54, 41. 72, 11.</ls> {#°मुदित#} 
 <ls>83, 18. 88, 20</ls> ({#अ°#}). 
 <ls>91, 48. 96, 6. 3, 48, 3. 55, 42.</ls> {#रक्षसो वधात्#} 
@@ -226,10 +226,10 @@ zu <ls>P. 5, 2, 36.</ls>
 <ls>BHĀG. P. 3, 13, 5. 10, 85, 38.</ls> {#रोमकूपानि#} 
 <ls>MBH. 4, 1464.</ls> — caus. {%aufmuntern, in eine freudige Stimmung versetzen, erfreuen%}: {#प्रहरेति हैनं ब्रह्मोवाच प्रहर्षयन्#} 
 <ls>ŚĀṄKH. BR. 15, 2.</ls> 
-<ls>MBH. 4, 2038. 5, 2411.</ls> 
+<ls>MBH. 4, 2038.</ls> <ls n="MBH.">5, 2411.</ls> 
 <ls>R. 2, 94, 14 (103, 14 GORR.). 106, 2.</ls> <ls>R. GORR. 2, 12, 34. 16, 47. 6, 37, 77.</ls> <ls>Spr. (II) 1855.</ls> <ls>KATHĀS. 106, 183.</ls> — partic. {#प्रहर्षित#} 
 <div n="1"> 1) {%in eine freudige Stimmung versetzt, erfreut%} 
-<ls>MBH.9,658.</ls> <ls>R.2,82,27.</ls> <ls>R.</ls> <ls>GORR.2,6,30.</ls> <ls>WEBER, KṚṢṆAJ. 274.</ls> <ls>KATHĀS. 18,317.</ls> <ls>Verz. d. Oxf. H. 255,a,33.</ls> <ls>MĀRK. P. 125,7.</ls> <ls>BHĀG. P.3,22,22. 28.</ls> <ls>PAÑCAT. 241,16.</ls> {#अनुह्राद°#} 
+<ls>MBH. 9, 658.</ls> <ls>R.2,82,27.</ls> <ls>R.</ls> <ls>GORR.2,6,30.</ls> <ls>WEBER, KṚṢṆAJ. 274.</ls> <ls>KATHĀS. 18,317.</ls> <ls>Verz. d. Oxf. H. 255,a,33.</ls> <ls>MĀRK. P. 125,7.</ls> <ls>BHĀG. P.3,22,22. 28.</ls> <ls>PAÑCAT. 241,16.</ls> {#अनुह्राद°#} 
 <ls>HARIV. 13831.</ls> {#मधुपान°#} 
 <ls>R. 5, 60, 12.</ls> 
 <div n="1">— 2) {%steif gemacht%}: {#नाल#} 
@@ -241,12 +241,12 @@ zu <ls>P. 5, 2, 36.</ls>
 <ls>MBH. 13, 444.</ls> {#°हृष्य#} absol. 
 <ls>6, 2842.</ls> — partic. {#°हृष्ट#} 
 <div n="1"> 1) {%erfreut, froh%} 
-<ls>MBH.1,3107.3,3014.</ls> <ls>R.2,83,10. 84,15</ls> <ls>?(92,6 GORR.). 91,59. 107,4. 17.3,78,5. VARĀH. BṚH. S. 44,28. VP. bei MUIR, ST.1,63. Verz. d. Oxf. H. 256,b,38.</ls> {#°मुख#} 
+<ls>MBH. 1, 3107.</ls> <ls n="MBH.">3, 3014.</ls> <ls>R. 2,83,10. 84,15</ls> (<ls>92,6 GORR.</ls>). <ls n="R. 2,">91,59. 107,4. 17.3,78,5.</ls> <ls>VARĀH. BṚH. S. 44,28.</ls> <ls>VP.</ls> bei <ls>MUIR, ST. 1,63.</ls> <ls>Verz. d. Oxf. H. 256,b,38.</ls> {#°मुख#} 
 <ls>MBH. 2, 775.</ls> {#मनस्#} 
 <ls>R. 1, 64, 9.</ls> {#°मनस्#} <lex>adj.</lex> 
 <ls>36, 11.</ls> <ls>R. GORR. 1, 16, 10. 4, 4, 14.</ls> 
 <div n="1">— 2) {%starrend, zu Berge stehend%}: {#°तनूरुह#} <lex>adj.</lex> 
-<ls>MBH. 1, 4061. 3, 3061. 12056. 4, 2182.</ls> 
+<ls>MBH. 1, 4061.</ls> <ls n="MBH.">3, 3061.</ls> <ls n="MBH. 3,">12056.</ls> <ls n="MBH.">4, 2182.</ls> 
 <ls>R. 5, 3, 6. 6, 36, 26.</ls> 
 <div n="v">— Vgl. {#संप्रहर्ष#} fg. — caus. {%in eine freudige Stimmung versezzen, erfreuen%} 
 <ls>R. 4, 25, 7. 6, 75, 50.</ls> {#°हर्षित#} 
@@ -273,7 +273,7 @@ zu <ls>P. 5, 2, 36.</ls>
 <div n="1">— 3) partic. 
 <div n="2"> a) {#संहृष्ट#} 
 <div n="3"> α) {%erfreut, froh%} 
-<ls>MBH. 1, 6038. 7717. 2, 2183. 12, 10365</ls> <ls>?(<is>Śiva</is>). R. 2, 97, 20. 100, 12. 107, 17. 3, 49, 22. 5, 64, 11. VARĀH. BṚH. S. 8, 30. 19, 17. 47, 5. BHĀG. P. 3, 3, 25.</ls> {#अप्सरोगण°#} 
+<ls>MBH. 1, 6038.</ls> <ls n="MBH. 1,">7717.</ls> <ls n="MBH.">2, 2183.</ls> <ls n="MBH.">12, 10365</ls> (<is>Śiva</is>). <ls>R. 2, 97, 20. 100, 12. 107, 17. 3, 49, 22. 5, 64, 11.</ls> <ls>VARĀH. BṚH. S. 8, 30. 19, 17. 47, 5.</ls> <ls>BHĀG. P. 3, 3, 25.</ls> {#अप्सरोगण°#} 
 <ls>R. GORR. 2, 100, 55.</ls> {#नवसंगम°#} 
 <ls>3, 79, 17.</ls> <ls>BHĀG. P. 1, 2, 1.</ls> {#°वदन#} 
 <ls>R. 2, 85, 11. 112, 8.</ls> {#°मनस्#} 
@@ -286,16 +286,16 @@ zu <ls>P. 5, 2, 36.</ls>
 [Page7-1565]
 
 <div n="3">— β) {%starrend, zu Berge stehend%}: {#°रोमन्#} <lex>adj.</lex> 
-<ls>MBH. 4, 794. 13, 979.</ls> 
+<ls>MBH. 4, 794.</ls> <ls n="MBH.">13, 979.</ls> 
 <ls>R. 3, 55, 5.</ls> {#भय°#} 
 <ls>BHAṬṬ. 9, 22.</ls> {#प्रीति°#} {%dem vor Freude die Haare starren%} 
 <ls>R. 2, 52, 73.</ls> 
 <div n="2">— b) {#संहृषित#} etwa {%erstarrt vor Schreck%} 
 <ls>HARIV. 9973</ls> nach der Lesart der neueren Ausg. ({#प्रधर्षित#} die ältere). 
 <div n="v">— Vgl. {#संहृष्टिन्#} . — caus. {%in eine freudige Stimmung versetzen, erfreuen%} 
-<ls>MBH. 4, 346. 5, 583. 7, 5945. 9238.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 37, 5.</ls> 
+<ls>MBH. 4, 346.</ls> <ls n="MBH.">5, 583.</ls> <ls n="MBH.">7, 5945.</ls> <ls n="MBH. 7,">9238.</ls> 
+
+<ls>R. GORR. 1, 37, 5.</ls> 
 <ls>BHĀG. P. 4, 21, 19.</ls> — partic. {#संहर्षित#} {%starrend, zu Berge stehend%} {#°रोमकूपजात#} 
 <ls>SADDH. P.4,12,b.</ls>
 

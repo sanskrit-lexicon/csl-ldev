@@ -1,6 +1,6 @@
 <L>12422<pc>300-a<k1>gallery<k2>gallery
-<div n="lb"/>GALLERY¦, {%s.%} (Covered way) {#छन्नपथः, छन्नमार्गः#}. — (In a building)
-<div n="lb"/>{#हर्म्ये#} or {#महाभवने इतस्ततो भ्रमणयोग्यः पथः#}. — (Elevated floor fur-
-<div n="lb"/>-nished with seats) {#दीर्घासनयुक्तो मञ्चः#} or {#मञ्चकः#}. — (Covered
-<div n="lb"/>terrace outside a house) {#वहिर्द्वारप्रकोष्ठकं, वरण्डः, निष्काशः#}.
+GALLERY¦, {%s.%} (Covered way) {#छन्नपथः, छन्नमार्गः#}. — (In a building)
+{#हर्म्ये#} or {#महाभवने इतस्ततो भ्रमणयोग्यः पथः#}. — (Elevated floor fur-
+-nished with seats) {#दीर्घासनयुक्तो मञ्चः#} or {#मञ्चकः#}. — (Covered
+terrace outside a house) {#वहिर्द्वारप्रकोष्ठकं, वरण्डः, निष्काशः#}.
 <LEND>

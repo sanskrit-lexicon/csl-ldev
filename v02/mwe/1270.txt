@@ -1,5 +1,5 @@
 <L>1270<pc>026-b<k1>ascendant<k2>ascendant
-<div n="lb"/>ASCENDANT¦, {%s.%} (Height, Elevation) {#ऊर्द्ध्वत्वं, उच्चता, उच्छायः, उत्तुङ्गता#}
-<div n="lb"/> — (Superiority, influence) {#प्रधानता, प्रभुत्वं#}. — (In astronomy)
-<div n="lb"/>{#लग्नं, नाक्षत्रिकी#}.
+ASCENDANT¦, {%s.%} (Height, Elevation) {#ऊर्द्ध्वत्वं, उच्चता, उच्छायः, उत्तुङ्गता#}
+ — (Superiority, influence) {#प्रधानता, प्रभुत्वं#}. — (In astronomy)
+{#लग्नं, नाक्षत्रिकी#}.
 <LEND>

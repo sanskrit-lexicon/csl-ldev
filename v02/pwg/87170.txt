@@ -7,11 +7,11 @@
 <ls>AK. 2, 6, 2, 40.</ls> 
 <ls>H. 572.</ls> 
 <ls>an. 2, 452.</ls> 
-<ls>MED. r. 84.</ls> <ls>HALĀY. 2, 363.</ls> <ls>ŚIKṢĀ</ls> in <ls>Ind. St. 4, 107.</ls> <ls>M. 8, 272.</ls> <ls>MBH. 1, 5932. 12, 4273.</ls> <ls>R. 4, 9, 82.</ls> <ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9, 27.</ls> <ls>SUŚR. 1, 116, 14. 120, 19. 155, 7. 187, 10.</ls> {#नेत्रवक्त्रविकारैः#} 
+<ls>MED. r. 84.</ls> <ls>HALĀY. 2, 363.</ls> <ls>ŚIKṢĀ</ls> in <ls>Ind. St. 4, 107.</ls> <ls>M. 8, 272.</ls> <ls>MBH. 1, 5932.</ls> <ls n="MBH.">12, 4273.</ls> <ls>R. 4, 9, 82.</ls> <ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9, 27.</ls> <ls>SUŚR. 1, 116, 14. 120, 19. 155, 7. 187, 10.</ls> {#नेत्रवक्त्रविकारैः#} 
 <ls>Spr. 310.</ls> {#वक्त्रामृत#} 
 <ls>775.</ls> {#हस्तोद्यमं विना वक्त्रे प्रविशेन्न कथं च न#} ({#भोजनम्#}) 
 <ls>1745.</ls> <ls>VARĀH. BṚH. S. 51, 32. 58, 9. 77, 35. fg.</ls> <ls>KATHĀS. 18, 165.</ls> <ls>PAÑCAT. 264, 1.</ls> {#चन्द्राभ°#} 
-<ls>MBH. 3, 2860. 3000.</ls> 
+<ls>MBH. 3, 2860.</ls> <ls n="MBH. 3,">3000.</ls> 
 <ls>MEGH. 51.</ls> 
 <ls>Spr. 2518. 2696. fg.</ls> 
 <ls>VARĀH. BṚH. S. 68, 56. 103. 69, 24.</ls> 
@@ -21,7 +21,7 @@
 <ls>VARĀH. BṚH. S. 93, 2. 13. 94, 13.</ls> {#कराल°#} ({#ललूक#}) 
 <ls>PAÑCAT. 158, 22.</ls> {#वक्त्रं कर्#} {%den Mund —, das Maul aufsperren%} 
 <ls>R. 5, 56, 17. fg.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
-<ls>MBH.4,185.</ls> <ls>R.5,17,28.</ls> <ls>ṚT.3,1.</ls> <ls>KATHĀS. 28,81. 45,334. 124,98.</ls> <ls>CAURAP. 28.</ls> <ls>Verz. d. Oxf. H. 146,a, No. 310.</ls> —
+<ls>MBH. 4, 185.</ls> <ls>R. 5,17,28.</ls> <ls>ṚT. 3,1.</ls> <ls>KATHĀS. 28,81. 45,334. 124,98.</ls> <ls>CAURAP. 28.</ls> <ls>Verz. d. Oxf. H. 146,a, No. 310.</ls> —
 [Page6-0612]
 
 <div n="1">— 2) {%Spitze%} (eines Pfeils): {#तीक्ष्ण°#} 
@@ -32,7 +32,7 @@
 <div n="1">— 5) {%the initial quantity of the progression; the first term%} 
 <ls>COLEBR. Alg. 52.</ls> 
 <div n="1">— 6) = {#श्लोक#} {%ein aus 4 x 8 Silben bestehendes Metrum%} 
-<ls>H. an.</ls> <ls>COLEBR. Misc. Ess.</ls> <ls>?II,118. 157. Ind. St.8,313. 331. fgg. KĀVYĀD.1,26. SĀH. D. 567. PRATĀPAR. 19,a,7.</ls> 
+<ls>H. an.</ls> <ls>COLEBR. Misc. Ess. II,118. 157.</ls> <ls>Ind. St.8,313. 331. fgg.</ls> <ls>KĀVYĀD.1,26.</ls> <ls>SĀH. D. 567.</ls> <ls>PRATĀPAR. 19,a,7.</ls> 
 <div n="1">— 7) {%eine Art Zeug%} ({#वस्त्रभेद#}) 
 <ls>MED.</ls> 
 <div n="1">— 8) {%die Wurzel von Tabernaemontana coronaria R. Br.%} ({#तगरमूल#}) 

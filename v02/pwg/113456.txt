@@ -11,8 +11,8 @@ m. <ls>SIDDH. K. 250,a,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex>
 <ls>MED. dh. 22.</ls> <ls>HALĀY. 2, 62.</ls> pl. <ls>AV. 6, 135, 1. 9, 7, 3. 10, 2, 4. 9, 20. 12, 5, 67.</ls> <ls>VS. 25, 6.</ls> <ls>TS. 7, 3, 16, 1.</ls> sg. : {#विचल#} 
 <ls>5, 7, 18, 1.</ls> {#°मात्र#} 
 <ls>KĀTY. ŚR. 26, 2, 8.</ls> {#असित°#} 
-<ls>KAUŚ. 40. -</ls> <ls>MBH. 1, 5930. 3, 16488.</ls> <ls>HARIV. 3720.</ls> <ls>SUŚR. 1, 124, 10. 208, 2. 350, 13.</ls> <ls>MĀLATĪM. 84, 17.</ls> <ls>Spr. (II) 7595.</ls> <ls>VARĀH. BṚH. S. 51, 42. 52, 4. 53, 111.</ls> {#स्कन्धमुद्वहति गोपतितुल्यम्#} 
-<ls>BṚH. 26,5.</ls> <ls>KATHĀS. 49,130.</ls> <ls>Verz. d. Oxf. H. 103,a,30. 202,b,13.</ls> <ls>VET.</ls> in <ls>LA. (III) 13,15.</ls> <ls>BHĀG. P.5,23,6.</ls> {#वाह्यमानमयःखण्डं स्कन्धं नैवापकृन्तति#} 
+<ls>KAUŚ. 40.</ls> - <ls>MBH. 1, 5930.</ls> <ls n="MBH.">3, 16488.</ls> <ls>HARIV. 3720.</ls> <ls>SUŚR. 1, 124, 10. 208, 2. 350, 13.</ls> <ls>MĀLATĪM. 84, 17.</ls> <ls>Spr. (II) 7595.</ls> <ls>VARĀH. BṚH. S. 51, 42. 52, 4. 53, 111.</ls> {#स्कन्धमुद्वहति गोपतितुल्यम्#} 
+<ls>BṚH. 26,5.</ls> <ls>KATHĀS. 49,130.</ls> <ls>Verz. d. Oxf. H. 103,a,30. 202,b,13.</ls> <ls>VET. in LA. (III) 13,15.</ls> <ls>BHĀG. P.5,23,6.</ls> {#वाह्यमानमयःखण्डं स्कन्धं नैवापकृन्तति#} 
 <ls>Spr. (II) 6053.</ls> {#चीरमेकं सा स्वस्मिन्स्कन्धे समासृजत्#} 
 <ls>R. GORR. 2, 37, 12.</ls> {#उदकुम्भं स्कन्धे कृत्वा#} 
 <ls>PĀR. GṚHY. 1, 8.</ls> 
@@ -20,11 +20,11 @@ m. <ls>SIDDH. K. 250,a,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex>
 <ls>M. 8, 315.</ls> {#स्कन्धे परशुमादाय#} 
 <ls>R. GORR. 1, 76, 20.</ls> {#स्कन्धैः समादाय कुमारान्विद्रुताः#} 
 <ls>HARIV. 11200.</ls> {#मृतकं स्कन्धे धृत्वा#} 
-<ls>VET.</ls> in <ls>LA. (III) 4, 11. 12, 15.</ls> {#भारं स्कन्धेन स आधत्ते#} 
+<ls>VET. in LA. (III) 4, 11. 12, 15.</ls> {#भारं स्कन्धेन स आधत्ते#} 
 <ls>BHĀG. P. 4, 29, 33.</ls> {#आरुरोह च तस्यैव स्कन्धे#} 
 <ls>KATHĀS. 18, 156.</ls> {#तस्य स्कन्ध उपाविशत्#} 
 <ls>49, 134.</ls> {#स्कन्धेनापि वहेच्छत्रून्#} 
-<ls>Spr. (II) 1706. 6013. 7182.</ls> {#कुम्भः स्कन्धगः#} 
+<ls>Spr. (II) 1706.</ls> <ls n="Spr. (II)">6013.</ls> <ls n="Spr. (II)">7182.</ls> {#कुम्भः स्कन्धगः#} 
 <ls>VARĀH. BṚH. 26, 30.</ls> {#द्विजस्कन्धाधिरूढा अग्नयः#} 
 <ls>R. 2, 45, 21.</ls> 
 <ls>SARVADARŚANAS. 153, 11.</ls> {#अन्धेन पङ्गुः स्कन्धमारोपितः#} 
@@ -51,9 +51,9 @@ m. <ls>SIDDH. K. 250,a,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex>
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 27.</ls> 
 <ls>ŚĀṄKH. GṚHY. 1, 20.</ls> 
-<ls>MBH. 2, 826. 3, 11032.</ls> 
-<ls>HARIV. 3707. 12380.</ls> 
-<ls>R. 2, 96, 13 (105, 12 GORR.). 97, 19.</ls> <ls>R. GORR. 2, 43, 24. 3, 78, 22. 79, 7. 4, 18, 23.</ls> <ls>KĀM. NĪTIS.  16, 37. 39.</ls> <ls>MEGH. 54.</ls> <ls>RAGH. 4, 57.</ls> <ls>ŚĀK. 32. 167.</ls> <ls>Spr. (II) 1129. 1326.</ls> <ls>VARĀH. BṚH. S. 55, 5. 7.</ls> <ls>KATHĀS. 17, 106. 25, 181.</ls> <ls>BHĀG. P. 5, 16, 25. 8, 5, 49.</ls> <ls>PAÑCAR. 1, 7, 13.</ls> <ls>PAÑCAT. III, 149. 134, 5.</ls> <ls>DAŚAK. 201, 1.</ls> <ls>SARVADARŚANAS. 25, 10</ls>
+<ls>MBH. 2, 826.</ls> <ls n="MBH.">3, 11032.</ls> 
+<ls>HARIV. 3707.</ls> <ls n="HARIV.">12380.</ls> 
+<ls>R. 2, 96, 13 (105, 12 GORR.). 97, 19.</ls> <ls>R. GORR. 2, 43, 24. 3, 78, 22. 79, 7. 4, 18, 23.</ls> <ls>KĀM. NĪTIS. 16, 37. 39.</ls> <ls>MEGH. 54.</ls> <ls>RAGH. 4, 57.</ls> <ls>ŚĀK. 32. 167.</ls> <ls>Spr. (II) 1129.</ls> <ls n="Spr. (II)">1326.</ls> <ls>VARĀH. BṚH. S. 55, 5. 7.</ls> <ls>KATHĀS. 17, 106. 25, 181.</ls> <ls>BHĀG. P. 5, 16, 25. 8, 5, 49.</ls> <ls>PAÑCAR. 1, 7, 13.</ls> <ls>PAÑCAT. III, 149. 134, 5.</ls> <ls>DAŚAK. 201, 1.</ls> <ls>SARVADARŚANAS. 25, 10</ls>
 [Page7-1240]
 
 <div n="2">— c) {%Abtheilung, Theil%}: eines Heeres 
@@ -64,12 +64,12 @@ m. <ls>SIDDH. K. 250,a,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex>
 <ls>CHĀND. UP. 2, 23, 1.</ls> sieben {%Striche, Regionen%} oder {%Bahnen%} (vgl. {#मार्ग#} und {#स्कन्धः = पन्थाः#} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>) der Winde 
 <ls>MBH. 3, 14569. fg.</ls> 
-<ls>HARIV. 2479. 2620. 6827</ls>; vgl. den Comm. 
+<ls>HARIV. 2479.</ls> <ls n="HARIV.">2620.</ls> <ls n="HARIV.">6827</ls>; vgl. den Comm. 
 zu <ls>R. 6, 82, 63</ls> bei <ls>GORR. X, 303, 76.</ls> {%Abtheilung eines Lehrbuchs, einer Doctrin%}: {#कटुक°, तिक्त°#} 
 <ls>CARAKA 3, 8.</ls> {#ज्योतिःशास्त्रं °त्रयाधिष्ठितम्#} 
 <ls>VARĀH. BṚH. S. 1, 9.</ls> 
 <ls>BṚH. 27, 6.</ls> <ls>Verz. d. B. H. No. 862. 939.</ls> <ls>Verz. d. Cambr. H. 37.</ls> <ls>MUIR, ST. 2, 170.</ls> zwölf des 
-<ls>BHĀG. P.</ls> <ls>PAÑCAR.2,7,28. -</ls> <ls>Verz. d. Oxf. H. 79,b, No. 136. 189,b,21.</ls> <ls>BURNOUF,</ls> <ls>Intr. 462.</ls> {#°समन्वित, प्रतिस्कन्धं भिन्नः#} 
+<ls>BHĀG. P.</ls> <ls>PAÑCAR.2,7,28.</ls> - <ls>Verz. d. Oxf. H. 79,b, No. 136. 189,b,21.</ls> <ls>BURNOUF, Intr. 462.</ls> {#°समन्वित, प्रतिस्कन्धं भिन्नः#} 
 <ls>PRATĀPAR. 19,b,3.</ls> 
 <div n="2">— d) {%Menge, die ganze Menge, Gesammtheit, Complex%} 
 <ls>AK. 3, 4, 18, 103.</ls> 
@@ -79,8 +79,8 @@ zu <ls>R. 6, 82, 63</ls> bei <ls>GORR. X, 303, 76.</ls> {%Abtheilung eines Lehrb
 <ls>KĀŚ.</ls> zu <ls>P. 4, 2, 51.</ls> <ls>H. 1413.</ls> <ls>HALĀY. 5, 25.</ls> {#धन°#} 
 <ls>SADDH. P.4,11,a.</ls> {#पुण्य°#} 
 <ls>BHĀG. P. 11, 23, 10.</ls> {#शील°, उपादान°#} 
-<ls>BURNOUF,</ls> <ls>Intr. 513.</ls> die fünf <is>Skandha</is> bei den Buddhisten sind {#रूप°, विज्ञान°, वेदना°, संज्ञा°#} und {#संस्कार°#} 
-<ls>H. 233,</ls> <ls>Schol.</ls> <ls>H. an.</ls> <ls>BURNOUF,</ls> <ls>?Intr. 475, N. 1. 491. 511. fgg. WASSILYEW 94 u.s.w. SARVADARŚANAS. 20, 10. fgg. 22, 8. 23, 21. ŚIŚ. 2, 28.</ls> {#पञ्चस्कन्धकृतिन्#} 
+<ls>BURNOUF, Intr. 513.</ls> die fünf <is>Skandha</is> bei den Buddhisten sind {#रूप°, विज्ञान°, वेदना°, संज्ञा°#} und {#संस्कार°#} 
+<ls>H. 233,</ls> <ls>Schol.</ls> <ls>H. an.</ls> <ls>BURNOUF, Intr. 475, N. 1. 491. 511. fgg. WASSILYEW 94</ls> u.s.w. <ls>SARVADARŚANAS. 20, 10. fgg. 22, 8. 23, 21.</ls> <ls>ŚIŚ. 2, 28.</ls> {#पञ्चस्कन्धकृतिन्#} 
 <ls>Verz. d. Oxf. H. 264,a,2.</ls> 
 <div n="2">— e) bei den <is>Jaina</is> = {#पिण्ड#} {%Körper%} im weitesten Sinne: {#द्व्यणुकादयः स्कन्धाः#} 
 <ls>SARVADARŚANAS. 36, 3. fgg. 38, 19.</ls> = {#काय#} 
@@ -88,7 +88,7 @@ zu <ls>R. 6, 82, 63</ls> bei <ls>GORR. X, 303, 76.</ls> {%Abtheilung eines Lehrb
 <div n="2">— f) {%ein best.%} <is>Āryā</is>-{%Metrum%} 
 <ls>MED.</ls> <ls>COLEBR. Misc. Ess.2,154,a</ls>; vgl. {#स्कन्धक#} . 
 <div n="2">— g) bildliche Bez. eines {%Fürsten (der Stamm des Ganzen%}) 
-<ls>H. an.</ls> <ls>MED.</ls><ls>?; vgl. KĀM. NĪTIS. 16, 37. 39</ls> und {#स्कन्धावार#} . 
+<ls>H. an.</ls> <ls>MED.</ls>; vgl. <ls>KĀM. NĪTIS. 16, 37. 39</ls> und {#स्कन्धावार#} . 
 <div n="2">— h) = {#संपराय#} und {#भद्रादि#} 
 <ls>MED.</ls> {%a heron; an engagement, an agreement; a wise old man; a learned man, a teacher; match or equality in the humps of a pair of draft oxen%} 
 <ls>WILSON</ls> nach <ls>ŚABDĀRTHAK.</ls> 
@@ -107,5 +107,5 @@ z. B. <ls>MBH. 13, 907</ls> (ed. Bomb. {#स्कन्द#}).
 <ls>R. 3, 55, 4.</ls> 
 <ls>RAGH. 1, 13. 12, 34</ls>), {#शिव°, स°, सिंह°#} (auch 
 <ls>MBH. 3, 10880.</ls> 
-<ls>R. 2, 59, 26</ls> <ls>?= 24 GORR. 3, 62, 4. VARĀH. BṚH. S. 61, 12</ls>), {#सु°, सुर°#} und {#स्कन्धस्#} .
+<ls>R. 2, 59, 26</ls> = <ls>24 GORR. 3, 62, 4.</ls> <ls>VARĀH. BṚH. S. 61, 12</ls>), {#सु°, सुर°#} und {#स्कन्धस्#} .
 <LEND>

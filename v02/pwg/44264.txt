@@ -71,7 +71,7 @@ u.s.w. <ls>8.</ls> <ls>KĀTY. ŚR. 9, 3, 11. 14. 12, 5, 14.</ls> <ls>NIR. 5, 11.
 <ls>99.</ls> <ls>YĀJÑ. 1, 6. 316.</ls> <ls>MBH. 3, 12490.</ls> {#पात्रं त्वतिथिमासाद्य#} 
 <ls>Spr. 1757.</ls> 
 <ls>KATHĀS. 47, 7.</ls> 
-<ls>MBH. 13, 1528. 1531. 1538. fg. 2184. fgg.</ls> 
+<ls>MBH. 13, 1528.</ls> <ls n="MBH. 13,">1531.</ls> <ls n="MBH. 13,">1538. fg.</ls> <ls n="MBH. 13,">2184. fgg.</ls> 
 <ls>HARIV. 5979.</ls> 
 <ls>Spr. 581.</ls> 
 <ls>MĀLAV. 7, 17.</ls> 
@@ -92,7 +92,7 @@ u.s.w. <ls>8.</ls> <ls>KĀTY. ŚR. 9, 3, 11. 14. 12, 5, 14.</ls> <ls>NIR. 5, 11.
 <ls>MBH. 1, 774.</ls> {#अपात्रः पात्रतां याति यत्र पात्रो न विद्यते#} 
 <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 158.</ls> Der compar. {#पात्रतर#} als <lex>adj.</lex> in der Stelle: {#अतः पात्रतरः को ऽन्यः#} 
 <ls>HARIV. 5978.</ls> {#पात्र#} in derselben Bed.: {#किमतः पात्रमिष्यते#} 
-<ls>14236.</ls> 
+<ls n="HARIV.">14236.</ls> 
 <div n="1">— 5) <lex>n.</lex> {%Minister%} 
 <ls>TRIK. 3, 3, 45.</ls> 
 <ls>H. an.</ls> 
@@ -124,10 +124,10 @@ u.s.w. <ls>8.</ls> <ls>KĀTY. ŚR. 9, 3, 11. 14. 12, 5, 14.</ls> <ls>NIR. 5, 11.
 <ls>6, 8, 13.</ls> <ls>Z. d. d. m. G. IX, VIII.</ls> {#पिष्ट°#} 
 <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 184, 2. 59, 23. fgg.</ls> {#ध्रौवमाज्यं पात्रीस्थम्#} 
 <ls>ŚĀṄKH. ŚR. 5, 8, 2.</ls> {%Schüssel%}: {#पात्रीषु जाम्बूनदराजतीषु#} 
-<ls>MBH. 1, 7215. 2, 1743. 4, 539. 15, 728.</ls> 
+<ls>MBH. 1, 7215.</ls> <ls n="MBH.">2, 1743.</ls> <ls n="MBH.">4, 539.</ls> <ls n="MBH.">15, 728.</ls> 
 <ls>HARIV. 3253.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 13, 10. 15, 6, 8 (9</ls> <ls>SCHL.</ls><ls>?). KATHĀS. 16, 39.</ls> 
+
+<ls>R. GORR. 1, 13, 10. 15, 6, 8 (9</ls> <ls>SCHL.</ls>). <ls>KATHĀS. 16, 39.</ls> 
 <div n="2">— b) Bein. der <is>Durgā</is> 
 <ls>MBH. 4, 188.</ls> — In der Stelle 
 <ls>ṚV. 1, 121, 1</ls> will <ls>SĀY.</ls> {#पात्रम्#} durch 2. {#पातर्#} erklären. Vgl. {#अ°, अङ्गारपात्री, अन्तःपात्र, अलाबु°, आम°, उद°, कर°, धूप°, यान°, सु°, सत्°#} .

@@ -1,39 +1,39 @@
 <L>13318<pc>208-3<k1>भूमिक्षय<k2>भूमिक्षय
 {#भूमिक्षय#}¦bhūmi-kṣaya, {%m.%} loss of territory; <lbinfo n="5"/>
-<> {@-gata,@} {%pp.%} fallen on the ground; {@-gar-@}
-<>{@-ta,@} {%m.%} hole in the ground; {@-gṛha@}, {%n.%} underground <lbinfo n="5"/>
-<> chamber, celler; {@-cala@}, {%m.%}: {@-na,@} {%n.%} 
-<>earthquake; {@-ja@}, {%a.%} produced from the earth; 
-<>{%m. planet%} Mars; {@-jāta@}, {%pp.%} produced {%or%} 
-<>formed on the earth; {@-joṣaṇá@}, {%n.%} choice of 
-<>ground; {@-tanaya,@} {%m.%} son of the earth, {%planet%} 
-<>Mars; {@-tala,@} {%n.%} surface of the earth, ground; 
-<>{@-tuṇḍika@}, {%m. N. of a locality%}; {@-da,@} {%a.%} 
-<>granting land; {@-dāna,@} {%n.%} grant of land; 
-<>{@-deva,@} {%m.%} god on earth, Brāhman; {@-dhara,@} 
-<>{%m.%} supporter of the earth, mountain; prince, 
-<>king; {@-nātha,@} {%m.%} lord of earth, king; 
-<>{@-pa,@} {%m.%} guardian of earth, king; {@-pati,@} {%m.%} 
-<>lord of earth, king: {@-tva,@} {%n.%} sovereignty, 
-<>kingship; {@-parimāṇa@}, {%n.%} square-measure; 
-<>{@-palā,@} {%m.%} protector of earth, prince, king; 
-<>{@-putra,@} {%m.%} son of the earth, {%planet%} Mars; 
-<>{%N.%}; {@-puraṃdara@}, {%m.%} Indra on earth, {%ep. of%} 
-<>Dilīpa; {@-pra,@} {%a.%} ({%V.%}) filling the earth ({%fame%}); 
-<>{@-pracala@}, {%m.%} earthquake; {@-prāpta,@} {%pp.%} fallen 
-<>on the ground; {@-bhāga,@} {%m.%} spot of earth, 
-<>place; {@-bhuj@}, {%m.%} enjoyer of earth, king; 
-<>{@-bhūta,@} {%pp.%} forming the soil {%of anything%}; 
-<>{@-bhṛt@}, {%m.%} supporter of the earth, prince, 
-<>king; {@-bhedin,@} {%a.%} different from {%what is is %}
-<>{%on%} earth; {@-vardhana,@} {%m. n.%} corpse; burden 
-<>of the earth; {@-vāsin,@} {%a.%} dwelling on the 
-<>ground; {@-śaya@}, {%a.%} lying {%or%} living on {%or%} in 
-<>the ground; {%m.%} animal living in the ground; 
-<>{@-ṣṭha@}, {%a.%} standing on the earth {%or%} ground; 
-<>lying in the ground; being in {%his%} country; 
-<>{@-sāmrājya@}, {%n.%} supreme rule over the earth; 
-<>{@-suta,@} ({%pp.%}) {%m.%} son of the earth, {%planet%} Mars; 
-<>{@-spṛś@}, {%a.%} touching the earth; {@-svāmin,@} {%m.%} 
-<>lord of earth, king.
+ {@-gata,@} {%pp.%} fallen on the ground; {@-gar-@}
+{@-ta,@} {%m.%} hole in the ground; {@-gṛha@}, {%n.%} underground <lbinfo n="5"/>
+ chamber, celler; {@-cala@}, {%m.%}: {@-na,@} {%n.%} 
+earthquake; {@-ja@}, {%a.%} produced from the earth; 
+{%m. planet%} Mars; {@-jāta@}, {%pp.%} produced {%or%} 
+formed on the earth; {@-joṣaṇá@}, {%n.%} choice of 
+ground; {@-tanaya,@} {%m.%} son of the earth, {%planet%} 
+Mars; {@-tala,@} {%n.%} surface of the earth, ground; 
+{@-tuṇḍika@}, {%m. N. of a locality%}; {@-da,@} {%a.%} 
+granting land; {@-dāna,@} {%n.%} grant of land; 
+{@-deva,@} {%m.%} god on earth, Brāhman; {@-dhara,@} 
+{%m.%} supporter of the earth, mountain; prince, 
+king; {@-nātha,@} {%m.%} lord of earth, king; 
+{@-pa,@} {%m.%} guardian of earth, king; {@-pati,@} {%m.%} 
+lord of earth, king: {@-tva,@} {%n.%} sovereignty, 
+kingship; {@-parimāṇa@}, {%n.%} square-measure; 
+{@-palā,@} {%m.%} protector of earth, prince, king; 
+{@-putra,@} {%m.%} son of the earth, {%planet%} Mars; 
+{%N.%}; {@-puraṃdara@}, {%m.%} Indra on earth, {%ep. of%} 
+Dilīpa; {@-pra,@} {%a.%} ({%V.%}) filling the earth ({%fame%}); 
+{@-pracala@}, {%m.%} earthquake; {@-prāpta,@} {%pp.%} fallen 
+on the ground; {@-bhāga,@} {%m.%} spot of earth, 
+place; {@-bhuj@}, {%m.%} enjoyer of earth, king; 
+{@-bhūta,@} {%pp.%} forming the soil {%of anything%}; 
+{@-bhṛt@}, {%m.%} supporter of the earth, prince, 
+king; {@-bhedin,@} {%a.%} different from {%what is is %}
+{%on%} earth; {@-vardhana,@} {%m. n.%} corpse; burden 
+of the earth; {@-vāsin,@} {%a.%} dwelling on the 
+ground; {@-śaya@}, {%a.%} lying {%or%} living on {%or%} in 
+the ground; {%m.%} animal living in the ground; 
+{@-ṣṭha@}, {%a.%} standing on the earth {%or%} ground; 
+lying in the ground; being in {%his%} country; 
+{@-sāmrājya@}, {%n.%} supreme rule over the earth; 
+{@-suta,@} ({%pp.%}) {%m.%} son of the earth, {%planet%} Mars; 
+{@-spṛś@}, {%a.%} touching the earth; {@-svāmin,@} {%m.%} 
+lord of earth, king.
 <LEND>

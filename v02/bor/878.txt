@@ -1,23 +1,23 @@
 <L>878<pc>031<k1>any<k2>any
-<div n="lb"/>{@ANY:@}¦ <div n="1">(1) {#कश्चित्#} ({#काचित्, किञ्चित्#}), <div n="xe">{%have you got%}
-<div n="lb"/>{%a. one named Vimardaka%}</div> <div n="xs">{#किमस्ति कश्चिद्विमर्दको #}
-<div n="lb"/>{# नामात्रभवतः;#}</div> <ls>D.</ls> ii.: {%is there a. doubt about it%}
-<div n="lb"/>{#किमत्र काचिद्भ्रान्तिः#} Vi.: <div n="xe">{%I could not find a.%}
-<div n="lb"/>{%thing in the house%}</div> <div n="xs">{#गृहं प्रविश्यन किञ्चिन्मया समासादि-#}
-<div n="lb"/>{#तम्,#}</div> Mr. iii.; </div><div n="1">(2) {#कोऽपि#}, ({#कापि, किमपि#}), <div n="xe">{%a.%}
-<div n="lb"/>{%one else%}</div> <div n="xs">{#अन्यः कोऽपि#}</div> etc.; </div><div n="1">(3) {#कश्चन#} ({#काचन, #}
-<div n="lb"/>{# किञ्चन#}) (rare). Ph. <div n="xe">{%in the ab-sense of a. wit-%}
-<div n="lb"/>{%ness%}</div> <div n="xs">{#साक्ष्यभावे;#}</div> <div n="xe">{%without a. wisdom%}</div> <div n="xs">{#ज्ञानं विना;#}</div>
-<div n="lb"/><div n="xe">{%what power has Dhanañjaya or a. body else even%}
-<div n="lb"/>{%to take the name of your son%}</div> <div n="xs">{#का शक्तिरस्ति धनञ्जय-#}
-<div n="lb"/>{#स्यान्यस्य वा नामापि ग्रहीतुं ते तनयस्य,#}</div> Vi. ii. N. B.
-<div n="lb"/>When {%a.%} means {%any one or anything whatever,%}
-<div n="lb"/>it is expr.: (a) by {#यः कश्चित्#} etc. <div n="xe">{%a. one could be%}
-<div n="lb"/>{%a witness in a house or in a forest%}</div> <div n="xs">{#अन्तर्वेश्मन्यरण्ये #}
-<div n="lb"/>{# वा यः कश्चित् साक्ष्यं कुर्यात्,#}</div> M. viii. 69.; {%I want%}
-<div n="lb"/>{%to give even the gold bracelet of my hand to a. one%}
-<div n="lb"/>({%I meet%}) {#स्वहस्तस्थमपि सुवर्णकङकणं यस्मैकस्मैचिद्दातु-#}
-<div n="lb"/>{#मिच्छामि;#} (b) by {#यः॥॥॥ सः#} etc., <div n="xe">{%they can attack%}
-<div n="lb"/>{%a. number of horsemen%}</div> <div n="xs">{#*यावानश्ववारानधिगच्छन्ति #}
-<div n="lb"/>{# तावानेवामियोक्तुं शक्रुवन्ति।#}</div></div>
+{@ANY:@}¦ <div n="1">(1) {#कश्चित्#} ({#काचित्, किञ्चित्#}), <div n="xe">{%have you got%}
+{%a. one named Vimardaka%}</div> <div n="xs">{#किमस्ति कश्चिद्विमर्दको #}
+{# नामात्रभवतः;#}</div> <ls>D.</ls> ii.: {%is there a. doubt about it%}
+{#किमत्र काचिद्भ्रान्तिः#} Vi.: <div n="xe">{%I could not find a.%}
+{%thing in the house%}</div> <div n="xs">{#गृहं प्रविश्यन किञ्चिन्मया समासादि-#}
+{#तम्,#}</div> Mr. iii.; </div><div n="1">(2) {#कोऽपि#}, ({#कापि, किमपि#}), <div n="xe">{%a.%}
+{%one else%}</div> <div n="xs">{#अन्यः कोऽपि#}</div> etc.; </div><div n="1">(3) {#कश्चन#} ({#काचन, #}
+{# किञ्चन#}) (rare). Ph. <div n="xe">{%in the ab-sense of a. wit-%}
+{%ness%}</div> <div n="xs">{#साक्ष्यभावे;#}</div> <div n="xe">{%without a. wisdom%}</div> <div n="xs">{#ज्ञानं विना;#}</div>
+<div n="xe">{%what power has Dhanañjaya or a. body else even%}
+{%to take the name of your son%}</div> <div n="xs">{#का शक्तिरस्ति धनञ्जय-#}
+{#स्यान्यस्य वा नामापि ग्रहीतुं ते तनयस्य,#}</div> Vi. ii. N. B.
+When {%a.%} means {%any one or anything whatever,%}
+it is expr.: (a) by {#यः कश्चित्#} etc. <div n="xe">{%a. one could be%}
+{%a witness in a house or in a forest%}</div> <div n="xs">{#अन्तर्वेश्मन्यरण्ये #}
+{# वा यः कश्चित् साक्ष्यं कुर्यात्,#}</div> M. viii. 69.; {%I want%}
+{%to give even the gold bracelet of my hand to a. one%}
+({%I meet%}) {#स्वहस्तस्थमपि सुवर्णकङकणं यस्मैकस्मैचिद्दातु-#}
+{#मिच्छामि;#} (b) by {#यः॥॥॥ सः#} etc., <div n="xe">{%they can attack%}
+{%a. number of horsemen%}</div> <div n="xs">{#*यावानश्ववारानधिगच्छन्ति #}
+{# तावानेवामियोक्तुं शक्रुवन्ति।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>22417<pc>707<k1>thereafter<k2>thereafter
-<div n="lb"/>{@THEREAFTER:@}¦ After that: {#ततः परम्।#} <div n="I">II = and
-<div n="lb"/>then: </div><div n="1">(1) {#ततः;#} </div><div n="1">(2) {#तदनु;#} </div><div n="1">(3) {#तदनन्तरम्।#}</div>
+{@THEREAFTER:@}¦ After that: {#ततः परम्।#} <div n="I">II = and
+then: </div><div n="1">(1) {#ततः;#} </div><div n="1">(2) {#तदनु;#} </div><div n="1">(3) {#तदनन्तरम्।#}</div>
 <LEND>

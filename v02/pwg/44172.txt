@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>m.</lex> patron. von {#पाण्डु#} 
 <ls>BHAG. 1, 14. 20. 4, 35.</ls> 
 <ls>N. 5, 25.</ls> pl. {%die fünf Kinder des%} <is>Pāṇḍu</is> (und auch {%ihre Partei%}) 
-<ls>H. ś. 139.</ls> <ls>MBH. 5, 3303.</ls> <ls>HIḌ. 1, 1.</ls> <ls>BHAG. 1, 1. 10, 37.</ls> <ls>HARIV. 8019. 8053. 9797.</ls> {#कुरुपाण्डवाः#} 
+<ls>H. ś. 139.</ls> <ls>MBH. 5, 3303.</ls> <ls>HIḌ. 1, 1.</ls> <ls>BHAG. 1, 1. 10, 37.</ls> <ls>HARIV. 8019.</ls> <ls n="HARIV.">8053.</ls> <ls n="HARIV.">9797.</ls> {#कुरुपाण्डवाः#} 
 <ls>RĀJA-TAR. 1, 51.</ls> {#भेदः कुरुपाण्डवयोः#} (im Sinne des pl.) 
 <ls>MBH. 1, 2234.</ls> {#पाण्डवश्रेष्ठ#} von <is>Yudhiṣṭhira</is> 
 <ls>HIḌ. 1, 48.</ls> {#पाण्डवानीक#} 
@@ -11,9 +11,9 @@
 <ls>LALIT. ed. Calc. 24, 4.</ls> {#°गीता#} 
 <ls>Verz. d. B. H. No. 1318. fg.</ls> 
 <div n="1">— 2) <lex>adj.</lex> (vom vorherg.) <lex>f.</lex> {#ई#} {%den Kindern des%} <is>Pāṇḍu</is> {%gehörig%}: {#सेना#} 
-<ls>MBH. 6, 3303. 7, 4999.</ls> {#श्री#} 
+<ls>MBH. 6, 3303.</ls> <ls n="MBH.">7, 4999.</ls> {#श्री#} 
 <ls>14, 2006.</ls> 
 <div n="1">— 3) <lex>m.</lex> N. pr. eines Berges 
-<ls>LALIT. ed. Calc. 297, 2.</ls> <ls>?17; vgl.</ls> {#पाण्डर#} . 
+<ls>LALIT. ed. Calc. 297, 2.</ls> <ls>17</ls>; vgl. {#पाण्डर#} . 
 <div n="v">— Vgl. {#निष्पाण्डव#} .
 <LEND>

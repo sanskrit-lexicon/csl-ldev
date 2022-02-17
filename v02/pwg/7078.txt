@@ -9,6 +9,6 @@
 <ls>R. 2, 1, 2.</ls> ein König von <is>Madra</is> und Vater von <is>Sāvitrī</is> 
 <ls>SĀV. 1, 3.</ls> 
 <ls>LIA. I, 300, N. 1.</ls> ein <is>Asura</is> 
-<ls>MBH. 1, 2532. 2650.</ls> 
-<ls>HARIV. 2282. 14283.</ls>
+<ls>MBH. 1, 2532.</ls> <ls n="MBH. 1,">2650.</ls> 
+<ls>HARIV. 2282.</ls> <ls n="HARIV.">14283.</ls>
 <LEND>

@@ -1,4 +1,4 @@
 <L>19097<pc>591<k1>rescue<k2>rescue
-<div n="lb"/>{@RESCUE@}¦ (subs.): <div n="1">(1) {#मुक्तिः#} <div n="xe">{%or%}</div> <div n="xs">{#मोक्षः, परि-, वि-;#}</div></div>
-<div n="lb"/><div n="1">(2) {#उद्धारः, सम्-:#} v. Also release, deliverance.</div>
+{@RESCUE@}¦ (subs.): <div n="1">(1) {#मुक्तिः#} <div n="xe">{%or%}</div> <div n="xs">{#मोक्षः, परि-, वि-;#}</div></div>
+<div n="1">(2) {#उद्धारः, सम्-:#} v. Also release, deliverance.</div>
 <LEND>

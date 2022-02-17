@@ -1,13 +1,13 @@
 <L>16280<pc>500<k1>pale<k2>pale
-<div n="lb"/>{@PALE@}¦ (adj.): <div n="I">I Dusky white: </div><div n="1">(1) {#पाण्डु#}
-<div n="lb"/>(mfn.); </div><div n="1">(2) {#पाण्डुरः#} ({#रा, रं#}); </div><div n="1">(3) {#हरिणः#} ({#णी, #}
-<div n="lb"/>{# णं#}), {#“विवर्णो हरिणः कृशः”,#} Mah. 137. </div><div n="I">II Not
-<div n="lb"/>ruddy, wan: {#विवर्ण#} (f. {#र्णा#}), <div n="xe">{%p. with lustre%}
-<div n="lb"/>{%gone:%}</div> <div n="xs">{#विवर्णा विगतश्रीका,#}</div> Mah. i. 8. 18.; <div n="xe">{%those%}
-<div n="lb"/>{%kings grew p.:%}</div> <div n="xs">{#प्रपेदे विवर्णभावं स स भूमिपालः,#}</div> R.
-<div n="lb"/>vi. 67. </div><div n="I">III Dim, not bright: {#मन्दप्रभः#} ({#भा, #}
-<div n="lb"/>{# भं#}) and sim. comp.s., <div n="xe">{%then when the p.%}
-<div n="lb"/>{%moon:%}</div> <div n="xs">{#निधौ कलानामथ मन्दकान्तौ,#}</div> B. xi. 1.</div>
-<div n="lb"/><div n="I">IV Light (of colours): prob. {#पाण्डुर-#} in
-<div n="lb"/>comp.: v. Also slight.</div>
+{@PALE@}¦ (adj.): <div n="I">I Dusky white: </div><div n="1">(1) {#पाण्डु#}
+(mfn.); </div><div n="1">(2) {#पाण्डुरः#} ({#रा, रं#}); </div><div n="1">(3) {#हरिणः#} ({#णी, #}
+{# णं#}), {#“विवर्णो हरिणः कृशः”,#} Mah. 137. </div><div n="I">II Not
+ruddy, wan: {#विवर्ण#} (f. {#र्णा#}), <div n="xe">{%p. with lustre%}
+{%gone:%}</div> <div n="xs">{#विवर्णा विगतश्रीका,#}</div> Mah. i. 8. 18.; <div n="xe">{%those%}
+{%kings grew p.:%}</div> <div n="xs">{#प्रपेदे विवर्णभावं स स भूमिपालः,#}</div> R.
+vi. 67. </div><div n="I">III Dim, not bright: {#मन्दप्रभः#} ({#भा, #}
+{# भं#}) and sim. comp.s., <div n="xe">{%then when the p.%}
+{%moon:%}</div> <div n="xs">{#निधौ कलानामथ मन्दकान्तौ,#}</div> B. xi. 1.</div>
+<div n="I">IV Light (of colours): prob. {#पाण्डुर-#} in
+comp.: v. Also slight.</div>
 <LEND>

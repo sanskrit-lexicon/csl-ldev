@@ -1,6 +1,6 @@
 <L>6606<pc>211<k1>distinct<k2>distinct
-<div n="lb"/>{@DISTINCT:@}¦ <div n="I">I Different, separate: q. v. </div><div n="1">(1)
-<div n="lb"/>{#विभिन्नः#} ({#न्ना, न्नं#}); </div><div n="1">(2) {#विविक्तः#} ({#क्ता, क्तं#}) (in
-<div n="lb"/>philo), S. </div><div n="I">II Clear: {#स्पष्टः#} ({#ष्टा, ष्टं#}): v.
-<div n="lb"/>Clear (III).</div>
+{@DISTINCT:@}¦ <div n="I">I Different, separate: q. v. </div><div n="1">(1)
+{#विभिन्नः#} ({#न्ना, न्नं#}); </div><div n="1">(2) {#विविक्तः#} ({#क्ता, क्तं#}) (in
+philo), S. </div><div n="I">II Clear: {#स्पष्टः#} ({#ष्टा, ष्टं#}): v.
+Clear (III).</div>
 <LEND>

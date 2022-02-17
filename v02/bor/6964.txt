@@ -1,4 +1,4 @@
 <L>6964<pc>222<k1>drivel<k2>drivel
-<div n="lb"/>{@DRIVEL@}¦ (v.): <div n="I">I To slaver: {#लालायते#} (nomi.).</div>
-<div n="lb"/><div n="I">II To dote: <div n="xe">{%d. ing:%}</div> <div n="xs">{#लालायितः#}</div> ({#ता, तं#}).</div>
+{@DRIVEL@}¦ (v.): <div n="I">I To slaver: {#लालायते#} (nomi.).</div>
+<div n="I">II To dote: <div n="xe">{%d. ing:%}</div> <div n="xs">{#लालायितः#}</div> ({#ता, तं#}).</div>
 <LEND>

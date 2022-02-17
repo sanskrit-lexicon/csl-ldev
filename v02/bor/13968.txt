@@ -1,6 +1,6 @@
 <L>13968<pc>429<k1>mace<k2>mace
-<div n="lb"/>{@MACE:@}¦ <div n="I">I A spice: {#जाति(ती)पत्री,#} Bha. <div n="xe">{%Powdered%}
-<div n="lb"/>{%with m. cardamom, and cinnamon:%}</div> <div n="xs">{#त्रिजातकाव-#}
-<div n="lb"/>{#चूर्णितः#}</div> ({#ता, तं#}), D. vi. </div><div n="I">II A heavy staff:
-<div n="lb"/>{#गदा,#} Mah. </div><div n="I">III In gen.: {#दण्डः:#} v. Staff.</div>
+{@MACE:@}¦ <div n="I">I A spice: {#जाति(ती)पत्री,#} Bha. <div n="xe">{%Powdered%}
+{%with m. cardamom, and cinnamon:%}</div> <div n="xs">{#त्रिजातकाव-#}
+{#चूर्णितः#}</div> ({#ता, तं#}), D. vi. </div><div n="I">II A heavy staff:
+{#गदा,#} Mah. </div><div n="I">III In gen.: {#दण्डः:#} v. Staff.</div>
 <LEND>

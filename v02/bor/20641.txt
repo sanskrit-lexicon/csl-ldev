@@ -1,5 +1,5 @@
 <L>20641<pc>647<k1>skate<k2>skate
-<div n="lb"/>{@SKATE@}¦ (subs.): <div n="I">I A fish: {#शंकुः, शङ्कुचिः,#} <div n="xe">{%or%}</div> <div n="xs">{#शङ्कोचः।#}</div></div>
-<div n="lb"/><div n="I">II An ice-shoe: no equiv.: {#*नीहारपादुका, #}
-<div n="lb"/>{# -नाली।#}</div>
+{@SKATE@}¦ (subs.): <div n="I">I A fish: {#शंकुः, शङ्कुचिः,#} <div n="xe">{%or%}</div> <div n="xs">{#शङ्कोचः।#}</div></div>
+<div n="I">II An ice-shoe: no equiv.: {#*नीहारपादुका, #}
+{# -नाली।#}</div>
 <LEND>

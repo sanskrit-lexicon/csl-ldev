@@ -1,4 +1,4 @@
 <L>9472<pc>301<k1>frontlet<k2>frontlet
-<div n="lb"/>{@FRONTLET:@}¦ <div n="I">I Lit.: {#ललाटिका।#} </div><div n="I">II Fig.:
-<div n="lb"/>{#भ्रु(भ्रू)कुटिः; भ्रूभङ्गः।#}</div>
+{@FRONTLET:@}¦ <div n="I">I Lit.: {#ललाटिका।#} </div><div n="I">II Fig.:
+{#भ्रु(भ्रू)कुटिः; भ्रूभङ्गः।#}</div>
 <LEND>

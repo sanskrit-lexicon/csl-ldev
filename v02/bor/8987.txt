@@ -1,4 +1,4 @@
 <L>8987<pc>284<k1>flit<k2>flit
-<div n="lb"/>{@FLIT:@}¦ <div n="I">I To fly: q.v. </div><div n="I">II To flutter: q.v.</div>
-<div n="lb"/><div n="I">III To migrate: q.v.</div>
+{@FLIT:@}¦ <div n="I">I To fly: q.v. </div><div n="I">II To flutter: q.v.</div>
+<div n="I">III To migrate: q.v.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>18324<pc>562<k1>quadrille<k2>quadrille
-<div n="lb"/>{@QUADRILLE:@}¦ <div n="I">I A game at cards: {#*चात्वारिंशम्।#}</div>
-<div n="lb"/><div n="I">II A dance: {#*चतुरस्रनृत्यम्।#}</div>
+{@QUADRILLE:@}¦ <div n="I">I A game at cards: {#*चात्वारिंशम्।#}</div>
+<div n="I">II A dance: {#*चतुरस्रनृत्यम्।#}</div>
 <LEND>

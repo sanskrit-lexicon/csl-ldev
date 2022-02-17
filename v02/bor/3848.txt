@@ -1,8 +1,8 @@
 <L>3848<pc>126<k1>close<k2>close
-<div n="lb"/>{@CLOSE@}¦ (v. i.): <div n="I">I To come together: </div><div n="1">(1) {#नि-#}
-<div n="lb"/>{#मीलति#} ({#मील्,#} c. l) (of the eye); </div><div n="1">(2) {#समा-#}
-<div n="lb"/>{#रोहति#} ({#रुह्,#} c. l) (of wounds).: v. To unite.</div>
-<div n="lb"/><div n="I">II To come to an end: expr. by {#अवसितः#}
-<div n="lb"/>({#ता, तं#}), {#समाप्तः#} ({#प्ता, प्तं#}), etc.; {%when he c. d:%}
-<div n="lb"/>{#वचस्यवसिते तस्मिन्,#} Ku.</div>
+{@CLOSE@}¦ (v. i.): <div n="I">I To come together: </div><div n="1">(1) {#नि-#}
+{#मीलति#} ({#मील्,#} c. l) (of the eye); </div><div n="1">(2) {#समा-#}
+{#रोहति#} ({#रुह्,#} c. l) (of wounds).: v. To unite.</div>
+<div n="I">II To come to an end: expr. by {#अवसितः#}
+({#ता, तं#}), {#समाप्तः#} ({#प्ता, प्तं#}), etc.; {%when he c. d:%}
+{#वचस्यवसिते तस्मिन्,#} Ku.</div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>22342<pc>704<k1>term<k2>term
-<div n="lb"/>{@TERM@}¦ (subs.): Limit, end: q. v.: {#अवधिः।#}
-<div n="lb"/><div n="I">II A period of time: </div><div n="1">(1) {#कालावधिः;#} </div><div n="1">(2)
-<div n="lb"/>not expr.; </div><div n="1">(3) {#अवधिः#} (absol.), <div n="xe">{%or if you wait%}
-<div n="lb"/>{%for a term:%}</div> <div n="xs">{#अथ चेदवधिः प्रतीक्ष्यते,#}</div> Ki. ii. 16. </div><div n="I">III
-<div n="lb"/>A word: q. v.: <div n="xe">{%here the word paśu:%}</div> <div n="xs">{#अत्र पशुपदम्,#}</div>
-<div n="lb"/>Kav. viii. </div><div n="I">IV In plu. = agreement: q. v.:
-<div n="lb"/>{#समयः,#} <div n="xe">{%as t.s (have support) in justice:%}</div> <div n="xs">{#न्यायमवधय #}
-<div n="lb"/>{# इव,#}</div> Ki. xii. 17. </div><div n="I">V State of intercourse:
-<div n="lb"/>{#भावः,#} <div n="xe">{%good t.s:%}</div> <div n="xs">{#सद्भावः:#}</div> v. Friendship; <div n="xe">{%bad%}
-<div n="lb"/>{%t s:%}</div> <div n="xs">{#असद्भावः।#}</div> v. Enmity. </div><div n="I">VI In arith.:
-<div n="lb"/>{#पदम्,#} <div n="xe">{%seven t.s:%}</div> <div n="xs">{#सप्तपदम्,#}</div> Li. 93.; {%first t.:%}
-<div n="lb"/>{#वदनम्, आदिः#} Li. 100; etc.</div>
+{@TERM@}¦ (subs.): Limit, end: q. v.: {#अवधिः।#}
+<div n="I">II A period of time: </div><div n="1">(1) {#कालावधिः;#} </div><div n="1">(2)
+not expr.; </div><div n="1">(3) {#अवधिः#} (absol.), <div n="xe">{%or if you wait%}
+{%for a term:%}</div> <div n="xs">{#अथ चेदवधिः प्रतीक्ष्यते,#}</div> Ki. ii. 16. </div><div n="I">III
+A word: q. v.: <div n="xe">{%here the word paśu:%}</div> <div n="xs">{#अत्र पशुपदम्,#}</div>
+Kav. viii. </div><div n="I">IV In plu. = agreement: q. v.:
+{#समयः,#} <div n="xe">{%as t.s (have support) in justice:%}</div> <div n="xs">{#न्यायमवधय #}
+{# इव,#}</div> Ki. xii. 17. </div><div n="I">V State of intercourse:
+{#भावः,#} <div n="xe">{%good t.s:%}</div> <div n="xs">{#सद्भावः:#}</div> v. Friendship; <div n="xe">{%bad%}
+{%t s:%}</div> <div n="xs">{#असद्भावः।#}</div> v. Enmity. </div><div n="I">VI In arith.:
+{#पदम्,#} <div n="xe">{%seven t.s:%}</div> <div n="xs">{#सप्तपदम्,#}</div> Li. 93.; {%first t.:%}
+{#वदनम्, आदिः#} Li. 100; etc.</div>
 <LEND>

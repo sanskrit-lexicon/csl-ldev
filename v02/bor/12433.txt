@@ -1,7 +1,7 @@
 <L>12433<pc>386<k1>insurance<k2>insurance
-<div n="lb"/>{@INSURANCE:@}¦ <div n="xe">{%i. company:%}</div> <div n="xs">{#*अमिरक्षासमाजः।#}</div> N. B.
-<div n="lb"/>Wilson seems to think {#योगक्षेम#} as a sort of i.
-<div n="lb"/>probably on M. vii. 127., but even
-<div n="lb"/>Kulluka's interpretation does not counten-
-<div n="lb"/>-ance it.
+{@INSURANCE:@}¦ <div n="xe">{%i. company:%}</div> <div n="xs">{#*अमिरक्षासमाजः।#}</div> N. B.
+Wilson seems to think {#योगक्षेम#} as a sort of i.
+probably on M. vii. 127., but even
+Kulluka's interpretation does not counten-
+-ance it.
 <LEND>

@@ -1,7 +1,7 @@
 <L>2677<pc>091<k1>brow<k2>brow
-<div n="lb"/>{@BROW@}¦ (subs.): <div n="I">I The eye b.: </div><div n="1">(1) {#भ्रूः,#} <div n="xe">{%to%}
-<div n="lb"/>{%knit the b. s%}</div> <div n="xs">{#भ्रूकुटिं बध्नाति#}</div> ({#बन्ध्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#भ्रूभङ्गं #}
-<div n="lb"/>{# करोति;#}</div> </div><div n="1">(2) {#भ्रूलता।#} </div><div n="I">II The forehead: q. v.:
-<div n="lb"/>{#ललाटम्।#} </div><div n="I">III Edge of a steep place: v. Edge,
-<div n="lb"/>precipice.</div>
+{@BROW@}¦ (subs.): <div n="I">I The eye b.: </div><div n="1">(1) {#भ्रूः,#} <div n="xe">{%to%}
+{%knit the b. s%}</div> <div n="xs">{#भ्रूकुटिं बध्नाति#}</div> ({#बन्ध्,#} c. 9.) <div n="xe">{%or%}</div> <div n="xs">{#भ्रूभङ्गं #}
+{# करोति;#}</div> </div><div n="1">(2) {#भ्रूलता।#} </div><div n="I">II The forehead: q. v.:
+{#ललाटम्।#} </div><div n="I">III Edge of a steep place: v. Edge,
+precipice.</div>
 <LEND>

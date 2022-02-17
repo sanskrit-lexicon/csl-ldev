@@ -1,7 +1,7 @@
 <L>18698<pc>576<k1>receiver<k2>receiver
-<div n="lb"/>{@RECEIVER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#प्रति(परि)ग्रहीतृ#} (f. {#त्री#});</div>
-<div n="lb"/><div n="1">(2) {#प्रति (परि) ग्राहक#} (f. {#हिका#}); </div><div n="1">(3) {#प्रति(परि)ग्राहिन्#}
-<div n="lb"/>(f. {#णी#}), {%r. s%} ({%of stolen property%}): {#प्रतिग्राहिणः,#}
-<div n="lb"/>Mit. </div><div n="I">II A reservoir: </div><div n="1">(1) {#आधारः;#} </div><div n="1">(2)
-<div n="lb"/>{#भाजनम्।#}</div>
+{@RECEIVER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#प्रति(परि)ग्रहीतृ#} (f. {#त्री#});</div>
+<div n="1">(2) {#प्रति (परि) ग्राहक#} (f. {#हिका#}); </div><div n="1">(3) {#प्रति(परि)ग्राहिन्#}
+(f. {#णी#}), {%r. s%} ({%of stolen property%}): {#प्रतिग्राहिणः,#}
+Mit. </div><div n="I">II A reservoir: </div><div n="1">(1) {#आधारः;#} </div><div n="1">(2)
+{#भाजनम्।#}</div>
 <LEND>

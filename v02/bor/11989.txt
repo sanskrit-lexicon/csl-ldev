@@ -1,3 +1,3 @@
 <L>11989<pc>374<k1>indemnity<k2>indemnity
-<div n="lb"/>{@INDEMNITY:@}¦ <div n="xe">{%act. of i.:%}</div> <div n="xs">{#*रक्षाविधिः; क्षमाविधिः।#}</div>
+{@INDEMNITY:@}¦ <div n="xe">{%act. of i.:%}</div> <div n="xs">{#*रक्षाविधिः; क्षमाविधिः।#}</div>
 <LEND>

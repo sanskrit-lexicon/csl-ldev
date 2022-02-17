@@ -1,5 +1,5 @@
 <L>21833<pc>577-a<k1>patrol<k2>patrol
-<div n="lb"/>PATROL¦, {%s.%} (Walking round by a guard in the night) {#रक्षकेण#}
-<div n="lb"/>{#रात्रौ परिक्रमणं#} or {#परिभ्रमणं#}. — (The guard who goes the round)
-<div n="lb"/>{#रात्रिपरिचरः, रात्रिचरः, रात्रिरक्षकः, रक्षकः, आरक्षकः, रक्षी#} {%m.%} ({#न्#}).
+PATROL¦, {%s.%} (Walking round by a guard in the night) {#रक्षकेण#}
+{#रात्रौ परिक्रमणं#} or {#परिभ्रमणं#}. — (The guard who goes the round)
+{#रात्रिपरिचरः, रात्रिचरः, रात्रिरक्षकः, रक्षकः, आरक्षकः, रक्षी#} {%m.%} ({#न्#}).
 <LEND>

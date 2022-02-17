@@ -1,11 +1,11 @@
 <L>66852<pc>363,2<k1>गै<k2>गै<e>1
-<s>गै</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>गा/यति</s>, rarely <ab>Ā.</ab> <s>°ते</s> (1. <ab>sg.</ab> <s>गा/ये</s> [<ls>RV. viii, 46, 17</ls>] & <s>गायिषे</s> [<ls>RV. vii, 96, 1</ls>] <ls>Lāṭy.</ls>; <ls>MBh.</ls> &c.), exceptionally <ab>cl.</ab> 2. <s>गाति</s> (<ls>MBh. iii, 15850; xii, 10299</ls> : <ab>cl.</ab> 3. <ab>P.</ab> <s>जिगाति</s>, <ls>Dhātup. xxv, 25</ls>; <ab>perf.</ab> <s>जगौ</s>, <ls>AitBr.</ls> &c.; <ab>aor.</ab> <s>अगासीत्</s>; <ab>Prec.</ab> <s>गेयात्</s>, <ls>Pāṇ. 6-4, 67</ls>; <ab>pr. p.</ab> <ab>P.</ab> <s>गा/यत्</s>, <ls>RV.</ls> &c.; <ab>ind.p.</ab> <s>गीत्वा</s> [with <ab>prep.</ab> <s>-गाय</s> (<ls>Pāṇ. 6-4, 69</ls>), <ls>AitBr., or</ls> <s>-गी/य</s>, <ls>ŚBr.</ls> &c.]; <ab>inf.</ab> <s>गातुम्</s>), 
+<s>गै</s> ¦ <ab>cl.</ab> 1. <ab>P.</ab> <s>गा/यति</s>, rarely <ab>Ā.</ab> <s>°ते</s> (1. <ab>sg.</ab> <s>गा/ये</s> [<ls>RV. viii, 46, 17</ls>] & <s>गायिषे</s> [<ls>RV. vii, 96, 1</ls>] <ls>Lāṭy.</ls>; <ls>MBh.</ls> &c.), exceptionally <ab>cl.</ab> 2. <s>गाति</s> (<ls>MBh. iii, 15850; xii, 10299</ls> : <ab>cl.</ab> 3. <ab>P.</ab> <s>जिगाति</s>, <ls>Dhātup. xxv, 25</ls>; <ab>perf.</ab> <s>जगौ</s>, <ls>AitBr.</ls> &c.; <ab>aor.</ab> <s>अगासीत्</s>; <ab>Prec.</ab> <s>गेयात्</s>, <ls>Pāṇ. vi, 4, 67</ls>; <ab>pr. p.</ab> <ab>P.</ab> <s>गा/यत्</s>, <ls>RV.</ls> &c.; <ab>ind.p.</ab> <s>गीत्वा</s> [with <ab>prep.</ab> <s>-गाय</s> (<ls>Pāṇ. vi, 4, 69</ls>), <ls>AitBr., or</ls> <s>-गी/य</s>, <ls>ŚBr.</ls> &c.]; <ab>inf.</ab> <s>गातुम्</s>), 
 <div n="to"/>to sing, speak or recite in a singing manner, sing to (<ab>dat.</ab> <ls>RV.</ls>), praise in song (with <ab>acc.</ab>), relate in metrical language, <ls>RV.</ls>; <ls>AV.</ls> &c.;
 <div n="to"/>to sing before (<ab>acc.</ab>), <ls>Kathās. i, 53</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>गीय/ते</s> (<ab>p.</ab> <s>°य/मान</s>), to be sung or praised in song, <ls>RV.</ls> &c.;
 <div n="to"/>to be called, <ls>MBh. i, 4329</ls>; <ls>Kum. ii, 5</ls>; <ls>Kathās. xci</ls>(<ab>perf.</ab> <s>जगे</s>), &c.:
 <div n="to"/><ab>Caus.</ab> <s>गापयति</s> (<ab>Pot.</ab> 3. <ab>pl.</ab> <s>गाययेयुर्</s>, <ls>JaimUp.</ls>), to cause to sing or praise in song, <ls>Lāṭy.</ls>; <ls>ŚāṅkhGṛ.</ls>; <ls>Ragh.</ls>; <ls>BhP.</ls> &c.:
-<div n="vp"/><ab>Intens.</ab> <s>जेगीयते</s> (<ls>Pāṇ. 6-4, 66</ls>), to sing, <ls>MBh. xii, 12200</ls>;
+<div n="vp"/><ab>Intens.</ab> <s>जेगीयते</s> (<ls>Pāṇ. vi, 4, 66</ls>), to sing, <ls>MBh. xii, 12200</ls>;
 <div n="to"/>to be sung or praised in song, <ls>VarBṛS. xix, 18</ls>; <ls>Daś. i, 6</ls>;
 <div n="to"/>to be asserted obstinately, <ls>Sarvad. iii, 224; xii, 1</ls>;
 <div n="vp"/> <info westergaard="gA,25.25,03.0036"/><info whitneyroots="gA2,35"/><info verb="genuineroot" cp="1P,1Ā,2,3P"/>

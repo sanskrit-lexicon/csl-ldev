@@ -9,7 +9,7 @@
 <ls>MED. d. 37.</ls> <ls>HALĀY. 2, 104</ls>); {%die Grenze —, die Schranken des Meeres, Meeresküste%} (
 <ls>H. 1077.</ls> 
 <ls>HALĀY. 3, 32</ls>); {%die sittlichen Schranken, festgesetzte Ordnung%} überh. 
-<ls>?(AK. 2, 8, 1, 26. 3, 4, 17, 105. TRIK. H. 744. H. an. MED.).</ls> {#का म\र्यादा^ व\युना\ कद्ध^ वा\ममच्छा^ गमेम र\घवो\ न वाज^म्#} 
+(<ls>AK. 2, 8, 1, 26. 3, 4, 17, 105.</ls> <ls>TRIK.</ls> <ls>H. 744.</ls> <ls>H. an.</ls> <ls>MED.</ls>). {#का म\र्यादा^ व\युना\ कद्ध^ वा\ममच्छा^ गमेम र\घवो\ न वाज^म्#} 
 <ls>ṚV. 4, 5, 13.</ls> {#स\प्त म\र्यादा^ः क\वय^स्ततक्षु\स्तासा\मेका\मिद\भ्य^ंहु\रो गा^त्#} 
 <ls n="ṚV.">10, 5, 6.</ls> {#कोसलविदेहानाम्#} 
 <ls>ŚAT. BR. 1, 4, 1, 17.</ls> {#मर्यादाया लोष्टमाहृत्य#} 
@@ -18,7 +18,7 @@
 <ls>M. 9, 291.</ls> {#मर्यादायाः प्रभेदे#} 
 <ls>YĀJÑ. 2, 155.</ls> {#मर्यादां पुनरागमन्#} (so die neuere Ausg.) 
 <ls>HARIV. 3749.</ls> {#मर्यादाया धावनम्#} zur Erkl. von {#आजेः सरणम्#} {%das Rennen nach einem Ziele%} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 44.</ls> {#मर्यादाधावन#} Comm. zu 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 44.</ls> {#मर्यादाधावन#} Comm. zu 
 <ls>TBR. 1, 123, 18.</ls> {#सरितां च पतिः सत्यां मर्यादां स्थापितः पुरा#} 
 <ls>R. GORR. 2, 11, 5.</ls> {#प्रलये भिन्नमर्यादा भवन्ति किल सागराः#} 
 <ls>Spr. 4588.</ls> 
@@ -41,7 +41,7 @@
 <ls>HARIV. 14324.</ls> 
 <ls>Spr. 4201.</ls> {#अस्माभिर्भिद्यमानं तु मर्यादासेतुबन्धनम् । भेत्स्यन्त्यशङ्किता दैत्याः#} 
 <ls>HARIV. 7261.</ls> {#भिन्नमर्याद#} 
-<ls>MBH. 7, 2603. 14, 1007.</ls> 
+<ls>MBH. 7, 2603.</ls> <ls n="MBH.">14, 1007.</ls> 
 <ls>R. 6, 88, 14.</ls> 
 <ls>UTTARARĀMAC. 102, 14.</ls> {#संभिन्नमर्यादा#} <lex>adj.</lex> 
 <ls>R. 2, 49, 5.</ls> {#असंभिन्नार्यमर्याद#} 
@@ -52,7 +52,7 @@
 <ls>R. 2, 35, 11.</ls> {#अहो दुर्मर्यादता दुरात्मनां पौराणाम्#} 
 <ls>UTTARARĀMAC. 88, 6.</ls> {#सुकृता स्थापिता तेन सरसि व्याप्तदिक्तटे । आसंसारं स्थिरा मारमर्यादा झषपक्षिणाम्#} {%eine genau bestimmte Verordnung über das Tödten von Fischen und Vögeln%} 
 <ls>RĀJA-TAR. 5, 119.</ls> {#चकार चैव मर्यादामिमां स्त्रीपुंसयोर्भुवि#} so v. a. {%er setzte diese genau bestimmte Ordnung in dem Verhältniss zwischen Mann und Weib auf Erden fest%} 
-<ls>MBH. 1, 4730. 4725.</ls> {#मर्यादा स्थापिता#} 
+<ls>MBH. 1, 4730.</ls> <ls n="MBH. 1,">4725.</ls> {#मर्यादा स्थापिता#} 
 <ls>4723.</ls> {#स्थिता#} 
 <ls>4731.</ls> {#नैगमीं कुरु मर्यादाम्#} 
 <ls>LA. (II) 88, 21.</ls> {#इति शास्त्र°#} {%so lautet die Bestimmung des Gesetzbuchs%} 

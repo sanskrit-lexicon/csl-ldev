@@ -39,7 +39,7 @@
 <div n="1">— 2) {%erzittern machen, erschrecken, in Furcht setzen%} 
 <ls>ARJ. 9, 22.</ls> 
 <ls>DRAUP. 5, 10.</ls> 
-<ls>MBH. 1, 2489. 8368. 3, 11105. 13, 749.</ls> 
+<ls>MBH. 1, 2489.</ls> <ls n="MBH. 1,">8368.</ls> <ls n="MBH.">3, 11105.</ls> <ls n="MBH.">13, 749.</ls> 
 <ls>R. 2, 43, 3. 54, 9. 3, 1, 23. 6, 21, 19.</ls> 
 <ls>PAÑCAT. 193, 23.</ls> 
 <ls>BHĀG. P. 3, 21, 52. 4, 10, 23.</ls> {#त्रासयेताम्#} imperf. med. 
@@ -92,9 +92,9 @@
 <ls>R. 3, 13, 14.</ls> {#वितत्रास#} 
 <ls>5, 28, 1.</ls> <ls>MBH. 3, 16128.</ls> {#वितत्रसुः#} 
 <ls>6, 1648. 7, 3145.</ls> <ls>BHĀG. P. 7, 8, 17.</ls> {#वित्रेसुः#} 
-<ls>MBH. 1, 8316. 3, 12091. 4, 817. 7, 3143</ls> ({#वित्रेषुः#}). 
+<ls>MBH. 1, 8316.</ls> <ls n="MBH.">3, 12091.</ls> <ls n="MBH.">4, 817.</ls> <ls n="MBH.">7, 3143</ls> ({#वित्रेषुः#}). 
 <ls>R. 2, 103, 41. 4, 13, 47.</ls> {#वित्रस्त#} {%erschrocken, in Angst seiend%} 
-<ls>MBH. 1, 5964. 7632.</ls> 
+<ls>MBH. 1, 5964.</ls> <ls n="MBH. 1,">7632.</ls> 
 <ls>HARIV. 1210.</ls> 
 <ls>BHARTṚ. 1, 8.</ls> 
 <ls>KATHĀS. 21, 13.</ls> 
@@ -103,20 +103,20 @@
 <ls>MBH. 1, 5496.</ls> so ist auch st. {#अन्वत्रस्त#} 
 <ls>5, 181</ls> zulesen. — caus. {%erschrecken, in Angst setzen%} 
 <ls>M. 7, 196.</ls> 
-<ls>MBH. 3, 698. 7, 1177.</ls> 
+<ls>MBH. 3, 698.</ls> <ls n="MBH.">7, 1177.</ls> 
 <ls>R. 6, 15, 17. 37, 29.</ls> {#वित्रासयेताम्#} imperf. med. 
 <ls>MBH. 3, 13566.</ls> {#वित्रासयितुकाम#} 
 <ls>R. 3, 68, 8.</ls> {#वित्रासयित्वा#} 
-<ls>MBH. 4, 1177. 2013.</ls> {#वित्रास्यमान#} 
+<ls>MBH. 4, 1177.</ls> <ls n="MBH. 4,">2013.</ls> {#वित्रास्यमान#} 
 <ls>3, 13566.</ls> <ls>RĀJA-TAR. 6, 3.</ls> {#वित्रासित#} 
-<ls>MBH. 3, 2668. 6, 2588.</ls> 
+<ls>MBH. 3, 2668.</ls> <ls n="MBH.">6, 2588.</ls> 
 <ls>R. 2, 93, 16. 97, 9. 4, 18, 6. 5, 95, 28.</ls>
 
 <div n="p">— {#सम्#} {%erzittern, erschrecken%}: {#कुरुभ्यः संत्रसिष्यन्ति वज्रपाणेरिवासुराः#} 
 <ls>MBH. 7, 103.</ls> {#संतत्रसुः#} 
 <ls>BHAṬṬ. 14, 39.</ls> {#संत्रेसुः#} 
 <ls>37.</ls> {#संत्रस्त#} {%erschrocken%} 
-<ls>MBH. 3, 2362. fg. 2550.</ls> 
+<ls>MBH. 3, 2362. fg.</ls> <ls n="MBH. 3,">2550.</ls> 
 <ls>LA. 47, 18.</ls> 
 <ls>ARJ. 8, 16.</ls> 
 <ls>DAŚ. 1, 50.</ls> 

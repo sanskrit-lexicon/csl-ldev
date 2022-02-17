@@ -1,6 +1,6 @@
 <L>20159<pc>628<k1>sentence<k2>sentence
-<div n="lb"/>{@SENTENCE@}¦ (subs.): <div n="I">I Decision: q. v.: {#निर्णयः।#}</div>
-<div n="lb"/><div n="I">II Condemnation: {#दण्डाज्ञा#} and sim.
-<div n="lb"/>comp. s. III. Maxim: {#सूत्रम्।#} </div><div n="I">IV Of words:
-<div n="lb"/>{#वाक्यम्,#} <div n="xe">{%complex s.:%}</div> <div n="xs">{#महावाक्यम्,#}</div> Sah.</div>
+{@SENTENCE@}¦ (subs.): <div n="I">I Decision: q. v.: {#निर्णयः।#}</div>
+<div n="I">II Condemnation: {#दण्डाज्ञा#} and sim.
+comp. s. III. Maxim: {#सूत्रम्।#} </div><div n="I">IV Of words:
+{#वाक्यम्,#} <div n="xe">{%complex s.:%}</div> <div n="xs">{#महावाक्यम्,#}</div> Sah.</div>
 <LEND>

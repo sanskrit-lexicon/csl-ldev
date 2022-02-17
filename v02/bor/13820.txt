@@ -1,9 +1,9 @@
 <L>13820<pc>425<k1>lotus<k2>lotus
-<div n="lb"/>{@LOTUS:@}¦ <div n="1">(1) {#पद्मम्;#} </div><div n="1">(2) {#कमलम्;#} </div><div n="1">(3) {#नलिनम्;#} </div><div n="1">(4)
-<div n="lb"/>{#अरविन्दम्।#} {%Blue-l.:%} </div><div n="1">(1) {#उत्पलम्;#} </div><div n="1">(2) {#इन्दीवरम्।#}
-<div n="lb"/><div n="xe">{%White-l.:%}</div> <div n="xs">{#पुण्डरीकम्।#}</div> <div n="xe">{%Red-l.:%}</div> <div n="xs">{#कोकनदम्।#}</div> {%The%}
-<div n="lb"/>{%plant:%} </div><div n="1">(1) {#नलिनी;#} </div><div n="1">(2) {#कमलिनी;#} </div><div n="1">(3) {#मृणालिनी;#}</div>
-<div n="lb"/><div n="1">(4) {#पद्मिनी।#} <div n="xe">{%Its stalk:%}</div> <div n="xs">{#नालः।#}</div> <div n="xe">{%Its root:%}</div> <div n="xs">{#शालूकम्।#}</div>
-<div n="lb"/>{%Its film:%} </div><div n="1">(1) {#मृणालम्;#} </div><div n="1">(2) {#विसम्।#} {%Its filament:%}
-<div n="lb"/>{#किञ्जल्कः।#}</div>
+{@LOTUS:@}¦ <div n="1">(1) {#पद्मम्;#} </div><div n="1">(2) {#कमलम्;#} </div><div n="1">(3) {#नलिनम्;#} </div><div n="1">(4)
+{#अरविन्दम्।#} {%Blue-l.:%} </div><div n="1">(1) {#उत्पलम्;#} </div><div n="1">(2) {#इन्दीवरम्।#}
+<div n="xe">{%White-l.:%}</div> <div n="xs">{#पुण्डरीकम्।#}</div> <div n="xe">{%Red-l.:%}</div> <div n="xs">{#कोकनदम्।#}</div> {%The%}
+{%plant:%} </div><div n="1">(1) {#नलिनी;#} </div><div n="1">(2) {#कमलिनी;#} </div><div n="1">(3) {#मृणालिनी;#}</div>
+<div n="1">(4) {#पद्मिनी।#} <div n="xe">{%Its stalk:%}</div> <div n="xs">{#नालः।#}</div> <div n="xe">{%Its root:%}</div> <div n="xs">{#शालूकम्।#}</div>
+{%Its film:%} </div><div n="1">(1) {#मृणालम्;#} </div><div n="1">(2) {#विसम्।#} {%Its filament:%}
+{#किञ्जल्कः।#}</div>
 <LEND>

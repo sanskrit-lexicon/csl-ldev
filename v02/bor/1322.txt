@@ -1,9 +1,9 @@
 <L>1322<pc>047<k1>attempt<k2>attempt
-<div n="lb"/>{@ATTEMPT@}¦ (subs.): <div n="1">(1) {#उद्यमः,#} <div n="xe">{%I have resolved on%}
-<div n="lb"/>{%an a. on his life%}</div> <div n="xs">{#बद्धो वधायोद्यमः,#}</div> Vi. v.; </div><div n="1">(2)
-<div n="lb"/>{#यत्नः, प्रयत्नः#} (=effort), <div n="xe">{%I fancy the a. of Dāru-%}
-<div n="lb"/>{%varmā has been unsuccessful%}</div> <div n="xs">{#अफलं दारुवर्मणः प्रयत्न-#}
-<div n="lb"/>{#मवगच्छामि,#}</div> Mu. iii.; </div><div n="1">(3) {#आरम्भः#} (=beginn-
-<div n="lb"/>-ing), <div n="xe">{%with success proportionate to a. s%}</div> <div n="xs">{#आरम्भ-#}
-<div n="lb"/>{#सदृशोदयः,#}</div> R. i. 15; </div><div n="1">(4) {#चेष्टा।#}</div>
+{@ATTEMPT@}¦ (subs.): <div n="1">(1) {#उद्यमः,#} <div n="xe">{%I have resolved on%}
+{%an a. on his life%}</div> <div n="xs">{#बद्धो वधायोद्यमः,#}</div> Vi. v.; </div><div n="1">(2)
+{#यत्नः, प्रयत्नः#} (=effort), <div n="xe">{%I fancy the a. of Dāru-%}
+{%varmā has been unsuccessful%}</div> <div n="xs">{#अफलं दारुवर्मणः प्रयत्न-#}
+{#मवगच्छामि,#}</div> Mu. iii.; </div><div n="1">(3) {#आरम्भः#} (=beginn-
+-ing), <div n="xe">{%with success proportionate to a. s%}</div> <div n="xs">{#आरम्भ-#}
+{#सदृशोदयः,#}</div> R. i. 15; </div><div n="1">(4) {#चेष्टा।#}</div>
 <LEND>

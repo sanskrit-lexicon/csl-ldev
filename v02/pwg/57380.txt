@@ -1,10 +1,10 @@
 <L>57380<pc>5-0530<k1>मनोगत<k2>मनोगत
-{#मनोगत#}¦ {#(मनस् + गत)#} <lex>adj.</lex> {%im Herzen ruhend, - verborgen%}: {#कामाः#} 
+{#मनोगत#}¦ ({#मनस् + गत#}) <lex>adj.</lex> {%im Herzen ruhend, - verborgen%}: {#कामाः#} 
 <ls>BHAG. 2, 55.</ls> {#आधिहेतु#} 
 <ls>ŚĀK. 59.</ls> <lex>n.</lex> {%das im Herzen Ruhende, Gedanke, Meinung; Wunsch, Verlangen%} 
-<ls>MBH. 1, 3688. 9, 2483. 2485.</ls> 
+<ls>MBH. 1, 3688.</ls> <ls n="MBH.">9, 2483.</ls> <ls n="MBH. 9,">2485.</ls> 
 <ls>HIT. 73, 16.</ls> {#मनोगतं वीर यत्ते तद्ब्रूहि वितराम्यहम्#} 
-<ls>MBH. 3, 11981. fg. 5, 7043. 7, 6337.</ls> 
+<ls>MBH. 3, 11981. fg.</ls> <ls n="MBH.">5, 7043.</ls> <ls n="MBH.">7, 6337.</ls> 
 <ls>KUMĀRAS. 5, 51.</ls> 
 <ls>KATHĀS. 55, 85.</ls> 
 <ls>BHĀG. P. 9, 18, 28.</ls> 

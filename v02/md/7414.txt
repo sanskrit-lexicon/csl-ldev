@@ -1,13 +1,13 @@
 <L>7414<pc>091-3<k1>चन्द्र<k2>चन्द्र
 {#चन्द्र#}¦cand-rá, {%a.%} shining, bright; lovely; 
-<>{%m.%} moon ({%also as a deity%}); -° = chief among --; 
-<>{%N.%}; {%n.%} gold: {@a-ka,@} {%m.%} (-° {%a.%} {@ikā@}) moon; eye 
-<>in a peacock's tail; {%N.%}; {@-kalā,@} {%f.%} sixteenth 
-<>part of the moon's {%disc (as seen on the day %}
-<>{%before or after new moon)%}; {@-kānta,@} {%a.%} lovely 
-<>as the moon; {%m.%} moon-stone ({%a fabulous gem %}
-<>{%formed of the congealed rays of the moon, %}
-<>{%glittering & exuding cool moisture in moonlight %}<lbinfo n="4"/>
-<>{% only%}): {@-maṇi-maya@}, {%a.%} made of moonstone, <lbinfo n="4"/>
-<> {@-maya,@} {%a. id.%}.
+{%m.%} moon ({%also as a deity%}); -° = chief among --; 
+{%N.%}; {%n.%} gold: {@a-ka,@} {%m.%} (-° {%a.%} {@ikā@}) moon; eye 
+in a peacock's tail; {%N.%}; {@-kalā,@} {%f.%} sixteenth 
+part of the moon's {%disc (as seen on the day %}
+{%before or after new moon)%}; {@-kānta,@} {%a.%} lovely 
+as the moon; {%m.%} moon-stone ({%a fabulous gem %}
+{%formed of the congealed rays of the moon, %}
+{%glittering & exuding cool moisture in moonlight %}<lbinfo n="4"/>
+{% only%}): {@-maṇi-maya@}, {%a.%} made of moonstone, <lbinfo n="4"/>
+ {@-maya,@} {%a. id.%}.
 <LEND>

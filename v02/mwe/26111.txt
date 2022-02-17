@@ -1,13 +1,13 @@
 <L>26111<pc>711-b<k1>scale<k2>scale
-<div n="lb"/>SCALE¦, {%s.%} (Balance, pair of scales) {#तुला, तुलायन्त्रं, मापनयन्त्रं,#}
-<div n="lb"/>{#मापनदण्डः, मापनः, धटः, पदार्थमापनार्थं तुलायन्त्रं;#} ‘goldsmith's
-<div n="lb"/>scales,’ {#एषणी -णिका, नाराची -चिका#}. — (The cup or dish of
-<div n="lb"/>a balance) {#धटः, तुलाधटः#}. — (Sign of the balance), {%see%} LIBRA.
-<div n="lb"/> — (Of a fish) {#शल्कं, शल्कलं, वल्कं, मत्स्यवल्कं, मीनवल्कं, वल्कलं,#}
-<div n="lb"/>{#शकलं#}. — (Of an animal) {#कवचः#}. — (Thin plate or crust)
-<div n="lb"/>{#फलकः -कं, शल्कं, शकलं, वल्कं, पत्रं, पटलं#}. — (Ladder) {#सोपानं,#}
-<div n="lb"/>{#सोपानपद्धतिः#} {%f.,%} {#निःश्रेणी#}. — (Regular gradation or series) {#श्रेणी#}
-<div n="lb"/>{#-णिः#} {%f.,%} {#श्रेधी, क्रमः, अनुक्रमः, पंक्तिः#} {%f.,%} {#आवली, पर्य्यायः;#} ‘on a
-<div n="lb"/>small scale,’ {#अल्पपरिमाणः -णा -णं#}. — (In music) {#ग्रामः, रागः,#}
-<div n="lb"/>{#वर्णः,#} {%see%} GAMUT, MODE.
+SCALE¦, {%s.%} (Balance, pair of scales) {#तुला, तुलायन्त्रं, मापनयन्त्रं,#}
+{#मापनदण्डः, मापनः, धटः, पदार्थमापनार्थं तुलायन्त्रं;#} ‘goldsmith's
+scales,’ {#एषणी -णिका, नाराची -चिका#}. — (The cup or dish of
+a balance) {#धटः, तुलाधटः#}. — (Sign of the balance), {%see%} LIBRA.
+ — (Of a fish) {#शल्कं, शल्कलं, वल्कं, मत्स्यवल्कं, मीनवल्कं, वल्कलं,#}
+{#शकलं#}. — (Of an animal) {#कवचः#}. — (Thin plate or crust)
+{#फलकः -कं, शल्कं, शकलं, वल्कं, पत्रं, पटलं#}. — (Ladder) {#सोपानं,#}
+{#सोपानपद्धतिः#} {%f.,%} {#निःश्रेणी#}. — (Regular gradation or series) {#श्रेणी#}
+{#-णिः#} {%f.,%} {#श्रेधी, क्रमः, अनुक्रमः, पंक्तिः#} {%f.,%} {#आवली, पर्य्यायः;#} ‘on a
+small scale,’ {#अल्पपरिमाणः -णा -णं#}. — (In music) {#ग्रामः, रागः,#}
+{#वर्णः,#} {%see%} GAMUT, MODE.
 <LEND>

@@ -1,4 +1,4 @@
 <L>3932<pc>128<k1>cockroach<k2>cockroach
-<div n="lb"/>{@COCKROACH:@}¦ <div n="1">(1) {#तैलपा#} <div n="xe">{%or%}</div> <div n="xs">{#तैलपायिका;#}</div> </div><div n="1">(2) {#परोष्णी;#}</div>
-<div n="lb"/><div n="1">(3) {#खलाधारा।#}</div>
+{@COCKROACH:@}¦ <div n="1">(1) {#तैलपा#} <div n="xe">{%or%}</div> <div n="xs">{#तैलपायिका;#}</div> </div><div n="1">(2) {#परोष्णी;#}</div>
+<div n="1">(3) {#खलाधारा।#}</div>
 <LEND>

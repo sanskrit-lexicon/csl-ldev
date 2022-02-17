@@ -1,5 +1,5 @@
 <L>13604<pc>419<k1>limp<k2>limp
-<div n="lb"/>{@LIMP@}¦ (v.): <div n="1">(1) {#खञ्जति#} ({#खञ्ज्,#} c. 1.): </div><div n="1">(2) {#खोडति#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#खुण्डते#}</div> ({#खोड्#} <div n="xe">{%or%}</div> <div n="xs">{#खुण्ड्,#}</div> c. 1.); </div><div n="1">(3) ({#व#}){#लङ्गति#}
-<div n="lb"/>({#वङ्ग्#} <div n="xe">{%or%}</div> <div n="xs">{#लङ्ग्,#}</div> c. 1.).</div>
+{@LIMP@}¦ (v.): <div n="1">(1) {#खञ्जति#} ({#खञ्ज्,#} c. 1.): </div><div n="1">(2) {#खोडति#}
+<div n="xe">{%or%}</div> <div n="xs">{#खुण्डते#}</div> ({#खोड्#} <div n="xe">{%or%}</div> <div n="xs">{#खुण्ड्,#}</div> c. 1.); </div><div n="1">(3) ({#व#}){#लङ्गति#}
+({#वङ्ग्#} <div n="xe">{%or%}</div> <div n="xs">{#लङ्ग्,#}</div> c. 1.).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>15978<pc>492<k1>organic<k2>organic
-<div n="lb"/>{@ORGANIC:@}¦ by comp., <div n="xe">{%o. pleasure:%}</div> <div n="xs">{#इन्द्रियसुखम्।#}</div>
-<div n="lb"/>Ph.: <div n="xe">{%o. substance:%}</div> <div n="xs">{#*व्यूढपदार्थः।#}</div>
+{@ORGANIC:@}¦ by comp., <div n="xe">{%o. pleasure:%}</div> <div n="xs">{#इन्द्रियसुखम्।#}</div>
+Ph.: <div n="xe">{%o. substance:%}</div> <div n="xs">{#*व्यूढपदार्थः।#}</div>
 <LEND>

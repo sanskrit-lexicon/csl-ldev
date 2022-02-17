@@ -1,4 +1,4 @@
 <L>20248<pc>632<k1>settler<k2>settler
-<div n="lb"/>{@SETTLER:@}¦ <div n="I">I Lit.: {#वासिन्#} (f. {#नी#}), {#अधि-।#} </div><div n="I">II
-<div n="lb"/>Fig.: {#निर्णेतृ#} (f. {#त्री#}).</div>
+{@SETTLER:@}¦ <div n="I">I Lit.: {#वासिन्#} (f. {#नी#}), {#अधि-।#} </div><div n="I">II
+Fig.: {#निर्णेतृ#} (f. {#त्री#}).</div>
 <LEND>

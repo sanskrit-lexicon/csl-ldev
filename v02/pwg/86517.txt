@@ -1,11 +1,11 @@
 <L>86517<pc>6-0560<k1>लुप्<k2>लुप्<h>1
-1. {#लुप्#}¦ (=  älterem {#रुप्), लुम्प/ति, °ते#} 
+1. {#लुप्#}¦ (= älterem {#रुप्), लुम्प/ति, °ते#} 
 <ls>DHĀTUP. 28, 137</ls> ({#छेदने#}). 
 <ls>P. 7, 1, 59.</ls> {#लुलोप#}; erhält keinen Bindevocal 
-<ls>?<is>Kār</is>. 5 aus SIDDH. K. zu P. 7, 2, 10.</ls> {#लुप्त्वा, लोप्तुम्, लुप्यते, लुप्त#} . 
+<ls><is>Kār</is>. 5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#लुप्त्वा, लोप्तुम्, लुप्यते, लुप्त#} . 
 <div n="1"> 1) {%zerbrechen%}: {#लुलुपुश्च पात्राणि#} 
 <ls>HARIV. 12230.</ls> {#अरुजंश्च प्राग्वंशं लुलुपुश्च#} (so die neuere Ausg.) 
-<ls>12231.</ls> {%beschädigen%}: {#विद्धाल्पलुप्तानि#} ({#चामराणि#}) {#न शोभनानि#} 
+<ls n="HARIV.">12231.</ls> {%beschädigen%}: {#विद्धाल्पलुप्तानि#} ({#चामराणि#}) {#न शोभनानि#} 
 <ls>VARĀH. BṚH. S. 72, 2.</ls> 
 <div n="1">— 2) {%Jmd packen, über Jmd herfallen%}: {#लोकान्विश्वासयित्वैव ततो लुम्पेद्यथा वृकः#} 
 <ls>Spr. 3389.</ls> {#नीचः श्लाध्यपदं प्राप्य स्वामिनं लोप्तुमिच्छति#} 
@@ -21,10 +21,10 @@
 <ls>NIR. 10, 34.</ls> {#अर्थ°#} 
 <ls>KAUŚ. 63.</ls> 
 <ls>ŚĀṄKH. ŚR. 14, 40, 26. 2, 14, 7.</ls> {#व्रतलुप्त#} {%gekommen um%} 
-<ls>MBH. 13, 1547. 4397.</ls> {#लुप्त#} <lex>n.</lex> {%geraubtes —, gestohlenes Gut%} 
+<ls>MBH. 13, 1547.</ls> <ls n="MBH. 13,">4397.</ls> {#लुप्त#} <lex>n.</lex> {%geraubtes —, gestohlenes Gut%} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 4) {%unterdrücken, beseitigen, verschwinden machen%}: {#लु/प्यते#} und {#लुप्य/ते#} {%unterdrückt werden, verschwinden, verlorengehen, abfallen, ausfallen%} (von Worten, Silben, Buchstaben): {#नवाहं लुम्पेत्#} 
-<ls>WEBER, <is>Nakṣ</is>. 2, 285.</ls> {#ह्रस्वम् लुम्पन्ति#} 
+<ls>WEBER, Nakṣ. 2, 285.</ls> {#ह्रस्वम् लुम्पन्ति#} 
 <ls>ṚV. PRĀT. 14, 13. 15. 19. fg. <is>Kār</is>.</ls> zu <ls>P. 6, 1, 144.</ls> {#उदात्तस्तावत्सर्वान्स्वराँल्लुम्पति#} 
 <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3, 6.</ls> {#बुद्धिं लुम्पति यद्द्रव्यम्#} 
 <ls>ŚĀRṄG. SAṂH. 1, 4, 21.</ls> {#अस्मत्संवत्सरं लुप्त्वा स्वं तमाविष्करिष्यति#} 
@@ -45,7 +45,7 @@
 <ls>R. GORR. 2, 50, 18.</ls> {#स्मृतिर्मे देवि लुप्यते#} 
 <ls>66, 58.</ls> {#व्रतमस्य न लुप्यते#} 
 <ls>M. 2, 189.</ls> {#कृत्वा मम परित्राणं तव धर्मो न लुप्यते#} 
-<ls>MBH. 1, 7803. 13, 2543.</ls> 
+<ls>MBH. 1, 7803.</ls> <ls n="MBH.">13, 2543.</ls> 
 <ls>HARIV. 5979.</ls> 
 <ls>MĀRK. P. 20, 55. 134, 22. 135, 26.</ls> {#लुप्त#} {%unterdrückt, verschwunden, zu Nichte geworden, verlorengegangen, abgefallen%}: {#लुप्तजप#} 
 <ls>ĀŚV. ŚR. 2, 19, 3.</ls> {#लुप्तवर्णपदं ग्रस्तम्#} 
@@ -169,7 +169,7 @@
 <div n="v">— Vgl. {#परिलोप#} .
 
 <div n="p">— {#विपरि#}, partic. {#°लुप्त#} {%aufgehoben, zu Nichte gemacht%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 213.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 213.</ls> 
 <div n="v">— Vgl. {#विपरिलोप#} .
 
 <div n="p">— {#प्र#} 
@@ -222,7 +222,7 @@
 <ls>MBH. 13, 3084.</ls> {#यज्ञवाटं विलुलुपुः#} 
 <ls>HARIV. 8010.</ls> {#पशुपक्षिमनुष्याद्यैः पत्त्रपुष्पफलान्वितम् । वृक्षं विलुप्यमानं दृष्ट्वा#} 
 <ls>MĀRK. P. 43, 53.</ls> {#संरक्षामि विलुम्पामि#} 
-<ls>MBH. 12, 8130. 14, 2699.</ls> {#विलुम्पन्विसृजन्गृह्णन्#} 
+<ls>MBH. 12, 8130.</ls> <ls n="MBH.">14, 2699.</ls> {#विलुम्पन्विसृजन्गृह्णन्#} 
 <ls>BHĀG. P. 2, 9, 26.</ls> 
 <ls>NAIṢ. 22, 54.</ls> {#कामक्रोधौ शरीरस्थौ प्रज्ञानं तौ विलुम्पतः#} 
 <ls>Spr. 3999. 2872.</ls> {#सतां मार्गान्#} 
@@ -235,7 +235,7 @@
 <ls>R. 2, 64, 63.</ls> {#वदनं कान्तमार्ताया वैदेह्या न विलुप्यते#} 
 <ls>R. GORR. 2, 60, 15.</ls> {#कपित्वे च नास्य प्रज्ञा विलुप्यते#} 
 <ls>KATHĀS. 37, 111. 68, 45.</ls> {#धर्मो वि°#} 
-<ls>MĀRK. P. 77, 18.</ls> <ls>WEBER, <is>Nakṣ</is>. 2, 286.</ls> {#विलुप्त#} {%zu Grunde gegangen u.s.w.%} 
+<ls>MĀRK. P. 77, 18.</ls> <ls>WEBER, Nakṣ. 2, 286.</ls> {#विलुप्त#} {%zu Grunde gegangen u.s.w.%} 
 <ls>MBH. 1, 6251.</ls> 
 <ls>RAGH. 9, 82. 15, 2. 16, 59. 19, 32.</ls> 
 <ls>KUMĀRAS. 4, 2.</ls> <ls>GAUNARDA</ls> bei <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 7, 95.</ls> <ls>KATHĀS. 90, 175. 101, 387. 106, 146.</ls> <ls>SĀH. D. 306, 1.</ls> {#अविलुप्त#} 

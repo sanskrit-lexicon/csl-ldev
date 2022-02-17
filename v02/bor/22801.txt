@@ -1,4 +1,4 @@
 <L>22801<pc>719<k1>transposition<k2>transposition
-<div n="lb"/>{@TRANSPOSITION:@}¦ <div n="1">(1) {#विनिमयः#} (= interchange);</div>
-<div n="lb"/><div n="1">(2) {#व्यत्ययः;#} </div><div n="1">(3) {#व्यत्यासः।#}</div>
+{@TRANSPOSITION:@}¦ <div n="1">(1) {#विनिमयः#} (= interchange);</div>
+<div n="1">(2) {#व्यत्ययः;#} </div><div n="1">(3) {#व्यत्यासः।#}</div>
 <LEND>

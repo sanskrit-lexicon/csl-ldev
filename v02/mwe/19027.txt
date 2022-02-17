@@ -1,11 +1,11 @@
 <L>19027<pc>492-a<k1>medicine<k2>medicine
-<div n="lb"/>MEDICINE¦, {%s.%} (Substance having the property of mitigating
-<div n="lb"/>disease) {#औषधं, भेषजं, भैषजं, भैषज्यं, अगदः, औषधीयद्रव्यं, जायुः#} {%m.,%}
-<div n="lb"/>{#रोगिवल्लभः;#} ‘administering medicine,’ {#औषधोपचारः, भेषजोप-#}
-<div n="lb"/>{#चारः, औषधप्रयोगः, भेषजप्रयोगः;#} ‘mild medicines,’ {#सामोपचारः,#}
-<div n="lb"/>{#साम्योपचारः#}. — (The practice of medicine) {#वैद्योपचारः, चिकि-#}
-<div n="lb"/>{#त्सा, उपचारः, उपचर्य्या, उपचार्य्यः, वैद्यक्रिया, उपक्रमः, वैद्योपक्रमः,#}
-<div n="lb"/>{#रुक्प्रतिक्रिया, परानसा#}. — (Science of medicine) {#वैद्यकं, आयुर्वेदः#}
-<div n="lb"/>{#-दं;#} ‘a treatise on medicine,’ {#वैद्यकशास्त्रं, वैद्यशास्त्रं;#} ‘a com-
-<div n="lb"/>pounder of medicines,’ {#योगविद्#} {%m.%}
+MEDICINE¦, {%s.%} (Substance having the property of mitigating
+disease) {#औषधं, भेषजं, भैषजं, भैषज्यं, अगदः, औषधीयद्रव्यं, जायुः#} {%m.,%}
+{#रोगिवल्लभः;#} ‘administering medicine,’ {#औषधोपचारः, भेषजोप-#}
+{#चारः, औषधप्रयोगः, भेषजप्रयोगः;#} ‘mild medicines,’ {#सामोपचारः,#}
+{#साम्योपचारः#}. — (The practice of medicine) {#वैद्योपचारः, चिकि-#}
+{#त्सा, उपचारः, उपचर्य्या, उपचार्य्यः, वैद्यक्रिया, उपक्रमः, वैद्योपक्रमः,#}
+{#रुक्प्रतिक्रिया, परानसा#}. — (Science of medicine) {#वैद्यकं, आयुर्वेदः#}
+{#-दं;#} ‘a treatise on medicine,’ {#वैद्यकशास्त्रं, वैद्यशास्त्रं;#} ‘a com-
+pounder of medicines,’ {#योगविद्#} {%m.%}
 <LEND>

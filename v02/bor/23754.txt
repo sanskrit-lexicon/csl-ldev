@@ -1,6 +1,6 @@
 <L>23754<pc>744<k1>ventilate<k2>ventilate
-<div n="lb"/>{@VENTILATE:@}¦ <div n="I">I To fan.: q. v.: {#वीजयति#} ({#वीज्,#}
-<div n="lb"/>c. 10.). </div><div n="I">II To cause air to pass: <div n="xe">{%the house%}
-<div n="lb"/>{%is well v. d:%}</div> <div n="xs">{#वायुप्रसारबहुलं गृहम्।#}</div> </div><div n="I">III To circu-
-<div n="lb"/>-late: {#प्रचारयति#} (c. of {#चर्#}).</div>
+{@VENTILATE:@}¦ <div n="I">I To fan.: q. v.: {#वीजयति#} ({#वीज्,#}
+c. 10.). </div><div n="I">II To cause air to pass: <div n="xe">{%the house%}
+{%is well v. d:%}</div> <div n="xs">{#वायुप्रसारबहुलं गृहम्।#}</div> </div><div n="I">III To circu-
+-late: {#प्रचारयति#} (c. of {#चर्#}).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>456<pc>018<k1>aggregate<k2>aggregate
-<div n="lb"/>{@AGGREGATE@}¦ (subs): <div n="1">(1) {#समष्टिः;#} </div><div n="1">(2) {#समुदायः;#}</div>
-<div n="lb"/><div n="1">(3) {#निचयः; सञ्चयः।#}</div>
+{@AGGREGATE@}¦ (subs): <div n="1">(1) {#समष्टिः;#} </div><div n="1">(2) {#समुदायः;#}</div>
+<div n="1">(3) {#निचयः; सञ्चयः।#}</div>
 <LEND>

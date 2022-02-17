@@ -1,10 +1,10 @@
 <L>21997<pc>693<k1>surround<k2>surround
-<div n="lb"/>{@SURROUND:@}¦ <div n="1">(1) {#परिवृणोति#} <div n="xe">{%or%}</div> <div n="xs">{#वारयति#}</div> ({#वृ,#} c. 5.
-<div n="lb"/>and 10.), <div n="xe">{%your (men) s. ed him:%}</div> <div n="xs">{#तं तावकाः #}
-<div n="lb"/>{# पर्यवारयन्,#}</div> Mah. vii. 49. 16.; </div><div n="1">(2) {#वेष्टते#} <div n="xe">{%or%}</div> <div n="xs">{#वेष्टयति, #}
-<div n="lb"/>{# परि-, सं-#}</div> ({#वेष्ट,#} c. 1. and 10.), <div n="xe">{%s. ed by the%}
-<div n="lb"/>{%serpent's coils:%}</div> <div n="xs">{#सर्पभोगेन वेष्टित#}</div> (f. {#ता#}), V. p.
-<div n="lb"/>v. 7. 22.; <div n="xe">{%s. ed by the ocean:%}</div> <div n="xs">{#सागरेणाभिसंवृत#}</div>
-<div n="lb"/>(f. {#ता#}), Ram. v. 9. 14.: v. Also to en-
-<div n="lb"/>-circle.</div>
+{@SURROUND:@}¦ <div n="1">(1) {#परिवृणोति#} <div n="xe">{%or%}</div> <div n="xs">{#वारयति#}</div> ({#वृ,#} c. 5.
+and 10.), <div n="xe">{%your (men) s. ed him:%}</div> <div n="xs">{#तं तावकाः #}
+{# पर्यवारयन्,#}</div> Mah. vii. 49. 16.; </div><div n="1">(2) {#वेष्टते#} <div n="xe">{%or%}</div> <div n="xs">{#वेष्टयति, #}
+{# परि-, सं-#}</div> ({#वेष्ट,#} c. 1. and 10.), <div n="xe">{%s. ed by the%}
+{%serpent's coils:%}</div> <div n="xs">{#सर्पभोगेन वेष्टित#}</div> (f. {#ता#}), V. p.
+v. 7. 22.; <div n="xe">{%s. ed by the ocean:%}</div> <div n="xs">{#सागरेणाभिसंवृत#}</div>
+(f. {#ता#}), Ram. v. 9. 14.: v. Also to en-
+-circle.</div>
 <LEND>

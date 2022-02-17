@@ -4,14 +4,14 @@
 <ls>AK. 2, 8, 1, 31.</ls> 
 <ls>H. 717.</ls> 
 <ls>HALĀY. 2, 268.</ls> 
-<ls>MBH. 2, 2053. 5, 5006.</ls> 
+<ls>MBH. 2, 2053.</ls> <ls n="MBH.">5, 5006.</ls> 
 <ls>R. 1, 4, 26.</ls> 
 <ls>RAGH. 4, 4. 18, 39.</ls> 
 <ls>MĀLAV. 11.</ls> 
 <ls>RĀJA-TAR. 1, 80. 3, 331. 4, 470. 5, 347.</ls> 
 <ls>PAÑCAT. 157, 24.</ls> 
 <ls>HIT. 77, 22.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 1, 13.</ls> <ls>Ind. St. 10, 313.</ls> <ls>HIOUEN-THSANG 1, 67. 193. 250.</ls> {#सिंहासनस्य भङ्गः, °रण#} 
+<ls>VET. in LA. (III) 1, 13.</ls> <ls>Ind. St. 10, 313.</ls> <ls>HIOUEN-THSANG 1, 67. 193. 250.</ls> {#सिंहासनस्य भङ्गः, °रण#} 
 <ls>R. 5, 89, 13.</ls> {#°स्थ#} 
 <ls>MBH. 5, 5012.</ls> <ls>WEBER, RĀMAT. UP. 300.</ls> <ls>PAÑCAT. 159, 10. fg.</ls> {#°गत#} 
 <ls>R. GORR. 2, 35, 2. 4, 23, 7.</ls> {#सिंहासनार्धभाज्#} 
@@ -22,8 +22,8 @@
 <ls>GILD. Bibl. 368</ls> ({#°ती#} gedr.). {#°द्वात्रिंशतिका#} 
 <ls>Verz. d. Cambr. H. 9. 11.</ls> {#°द्वात्रिंशत्कथा#} 
 <ls>Notices of Skt. Mss. 1, 70.</ls> {#°द्वात्रिंशत्पुत्रिकावार्त्ता#} 
-<ls>Verz. d. Oxf. H. 152</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 152,a,</ls> 
 <ls>No. 326.</ls> 
 <div n="1">— 2) Bez. {%einer best. Art zu sitzen%} 
-<ls>Verz. d. Oxf. H. 234</ls>, {%a%}, 23.
+<ls>Verz. d. Oxf. H. 234,a,23.</ls> 
 <LEND>

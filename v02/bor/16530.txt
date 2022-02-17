@@ -1,6 +1,6 @@
 <L>16530<pc>507<k1>past<k2>past
-<div n="lb"/>{@PAST@}¦ (adj.): <div n="1">(1) {#गत#} (f. {#ता#}), <div n="xe">{%p. year:%}</div> <div n="xs">{#गतवर्षम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#अतीत#} (f. {#ता#}). Ph.: <div n="xe">{%p. tense:%}</div> <div n="xs">{#भूतकालः,#}</div> [Page508]
-<div n="lb"/><div n="xe">{%in remote p.:%}</div> <div n="xs">{#भूतेऽनद्यतने,#}</div> S. k.; {%m p. times:%}
-<div n="lb"/>{#पुरा:#} v. Formerly.</div>
+{@PAST@}¦ (adj.): <div n="1">(1) {#गत#} (f. {#ता#}), <div n="xe">{%p. year:%}</div> <div n="xs">{#गतवर्षम्;#}</div></div>
+<div n="1">(2) {#अतीत#} (f. {#ता#}). Ph.: <div n="xe">{%p. tense:%}</div> <div n="xs">{#भूतकालः,#}</div> [Page508]
+<div n="xe">{%in remote p.:%}</div> <div n="xs">{#भूतेऽनद्यतने,#}</div> S. k.; {%m p. times:%}
+{#पुरा:#} v. Formerly.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>4033<pc>131<k1>colonize<k2>colonize
-<div n="lb"/>{@COLONIZE:@}¦ {#*अधिनिवेशयति#} (c. of {#विश्#}), <div n="xe">{%should c.%}
-<div n="lb"/>{%places by the excess population of one's country:%}</div>
-<div n="lb"/><div n="xs">{#जनपदं स्वदेशाभिष्यन्दवमनेन निवेशयेत्,#}</div> M. n.
+{@COLONIZE:@}¦ {#*अधिनिवेशयति#} (c. of {#विश्#}), <div n="xe">{%should c.%}
+{%places by the excess population of one's country:%}</div>
+<div n="xs">{#जनपदं स्वदेशाभिष्यन्दवमनेन निवेशयेत्,#}</div> M. n.
 <LEND>

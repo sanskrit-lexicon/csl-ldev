@@ -1,43 +1,43 @@
 <L>14174<pc>228-1<k1>मित्र<k2>मित्र<h>2
 {#मित्र#}¦mi-trá, {%m.%} [{%prob. for%} mit-tra, {%either %}
-<>{%fr.%} √ mith, accompany, {%or%} √ mid, be oily, adhere: <lbinfo n="2"/>
-<> {%cp.%} sneha], companion, friend; {%N. of %}
-<>{%an Āditya, generally invoked with Varuṇa%} 
-<>({%mostly V.%}); sun ({%sun%}) ({%C.%}); {%n.%} friendship ({%RV.%}); 
-<>friend ({%ord. mg. and gender%}; {%in polity the %}
-<>{%prince whose territory adjoins that of an %}
-<>{%immediate neighbour is called a 'friend'%}); 
-<>friend = image of: -°, = resembling: {@-kar-@}
-<>{@-man,@} {%n.%} friendly act {%or%} service; friendship: 
-<>{@-karma, kṛ@}, conclude friendship with ({%in.%}); 
-<>{@-kāma,@} {%a.%} wishing for friends; {@-kārya,@} {%n.%} 
-<>business of a friend, friendly service; {@-kṛti@}, 
-<>{%f.%} friendly act; {@-kṛtya@}, {%n.%} business of a friend, 
-<>friendly service; ({@á@}) {@-gupta,@} {%pp.%} guarded by 
-<>Mitra; {%m. N.%}; {@-tā,@} {%f.%} friendship; similarity 
-<>with (-°); {@-tva,@} {@n. id.@}; {@-druh,@} {%a.%} ({%nm.%} {@-dhruk@}) 
-<>seeking to injure a friend, treacherous; {@-droha,@} 
-<>{%m.%} injury of a friend, treachery; {@-drohin,@} 
-<>{%a.%} treacherous; {@-bandhu-hīna,@} {%pp.%} destitute <lbinfo n="5"/>
-<> of friends and relations; {@-bhāva,@} {%m.%} 
-<>friendship; {@-bheda,@} {%m.%} separation of friends, 
-<>breach of friendship; {%T. of the first book of %}
-<>{%the Pañcatantra%}; {@-mánhas,@} {%a.%} having abundance <lbinfo n="4"/>
-<> of friends ({%gnly. vc.%}; {%RV.%}); {@-mitra,@} 
-<>{%n.%} friend's friend ({%in polity a prince whose %}
-<>{%dominions are separated from those of another %}<lbinfo n="2"/>
-<>{% by the territories of three other princes%}); 
-<>{@-lābha,@} {%m.%} acquisition of friends; {%T. of the %}
-<>{%first book of the Hitopadeśa%}; {@-vat,@} {%ad.%} like 
-<>a friend ({%ac.%}); {%a.%} possessed of friends; {@-vat-@}
-<>{@-sala,@} {%a.%} devoted to {%one's%} friends; {@-varaṇa@}, 
-<>{%n.%} choice of friends; {@-varman,@} {%m. N.%}; {@-vi-@}
-<>{@-dhavasta,@} {%pp.%} ruined by a friend; {@-vaira,@} {%n.%} 
-<>dissension among friends; {@-śarman@}, {%m. N.%} 
-<>{%of various men%}; {@-saṃprāpti@}, {%f.%} acquisition of 
-<>friends, {%T. of the second book of the Pañcatantra%}; <lbinfo n="10"/>
-<> {@-saha,@} {%m.%} (indulgent to friends), 
-<>{%N. of a prince%}; {@-sāha,@} {%a.%} indulgent towards 
-<>friends; {@-sneha,@} {%m.%} friendly affection, friendship; <lbinfo n="6"/>
-<> {@-han, -hana,@} {%a.%} murdering a friend.
+{%fr.%} √ mith, accompany, {%or%} √ mid, be oily, adhere: <lbinfo n="2"/>
+ {%cp.%} sneha], companion, friend; {%N. of %}
+{%an Āditya, generally invoked with Varuṇa%} 
+({%mostly V.%}); sun ({%sun%}) ({%C.%}); {%n.%} friendship ({%RV.%}); 
+friend ({%ord. mg. and gender%}; {%in polity the %}
+{%prince whose territory adjoins that of an %}
+{%immediate neighbour is called a 'friend'%}); 
+friend = image of: -°, = resembling: {@-kar-@}
+{@-man,@} {%n.%} friendly act {%or%} service; friendship: 
+{@-karma, kṛ@}, conclude friendship with ({%in.%}); 
+{@-kāma,@} {%a.%} wishing for friends; {@-kārya,@} {%n.%} 
+business of a friend, friendly service; {@-kṛti@}, 
+{%f.%} friendly act; {@-kṛtya@}, {%n.%} business of a friend, 
+friendly service; ({@á@}) {@-gupta,@} {%pp.%} guarded by 
+Mitra; {%m. N.%}; {@-tā,@} {%f.%} friendship; similarity 
+with (-°); {@-tva,@} {@n. id.@}; {@-druh,@} {%a.%} ({%nm.%} {@-dhruk@}) 
+seeking to injure a friend, treacherous; {@-droha,@} 
+{%m.%} injury of a friend, treachery; {@-drohin,@} 
+{%a.%} treacherous; {@-bandhu-hīna,@} {%pp.%} destitute <lbinfo n="5"/>
+ of friends and relations; {@-bhāva,@} {%m.%} 
+friendship; {@-bheda,@} {%m.%} separation of friends, 
+breach of friendship; {%T. of the first book of %}
+{%the Pañcatantra%}; {@-mánhas,@} {%a.%} having abundance <lbinfo n="4"/>
+ of friends ({%gnly. vc.%}; {%RV.%}); {@-mitra,@} 
+{%n.%} friend's friend ({%in polity a prince whose %}
+{%dominions are separated from those of another %}<lbinfo n="2"/>
+{% by the territories of three other princes%}); 
+{@-lābha,@} {%m.%} acquisition of friends; {%T. of the %}
+{%first book of the Hitopadeśa%}; {@-vat,@} {%ad.%} like 
+a friend ({%ac.%}); {%a.%} possessed of friends; {@-vat-@}
+{@-sala,@} {%a.%} devoted to {%one's%} friends; {@-varaṇa@}, 
+{%n.%} choice of friends; {@-varman,@} {%m. N.%}; {@-vi-@}
+{@-dhavasta,@} {%pp.%} ruined by a friend; {@-vaira,@} {%n.%} 
+dissension among friends; {@-śarman@}, {%m. N.%} 
+{%of various men%}; {@-saṃprāpti@}, {%f.%} acquisition of 
+friends, {%T. of the second book of the Pañcatantra%}; <lbinfo n="10"/>
+ {@-saha,@} {%m.%} (indulgent to friends), 
+{%N. of a prince%}; {@-sāha,@} {%a.%} indulgent towards 
+friends; {@-sneha,@} {%m.%} friendly affection, friendship; <lbinfo n="6"/>
+ {@-han, -hana,@} {%a.%} murdering a friend.
 <LEND>

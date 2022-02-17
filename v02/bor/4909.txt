@@ -1,4 +1,4 @@
 <L>4909<pc>158<k1>country-folk<k2>country-folk
-<div n="lb"/>{@COUNTRY-FOLK:@}¦ <div n="1">(1) {#ग्राम्यजनाः#} (m. pl.); </div><div n="1">(2)
-<div n="lb"/>{#ग्राम्याः#} (m. pl.): v. Rustic.</div>
+{@COUNTRY-FOLK:@}¦ <div n="1">(1) {#ग्राम्यजनाः#} (m. pl.); </div><div n="1">(2)
+{#ग्राम्याः#} (m. pl.): v. Rustic.</div>
 <LEND>

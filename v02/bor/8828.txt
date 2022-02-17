@@ -1,5 +1,5 @@
 <L>8828<pc>280<k1>first-begotten<k2>first-begotten
-<div n="lb"/>{@FIRST-BEGOTTEN,@}¦ {@FIRST-BORN@} (adj.): <div n="1">(1) {#अग्रजः#}
-<div n="lb"/>({#जा, जं#}); </div><div n="1">(2) {#अग्रजन्मन्#} (mfn.); </div><div n="1">(3) {#पूर्वंजः#}
-<div n="lb"/>({#जा, जं#}); </div><div n="1">(4) {#पूर्वप्रसूतः,#} ({#ता, तं#}) (rare).</div>
+{@FIRST-BEGOTTEN,@}¦ {@FIRST-BORN@} (adj.): <div n="1">(1) {#अग्रजः#}
+({#जा, जं#}); </div><div n="1">(2) {#अग्रजन्मन्#} (mfn.); </div><div n="1">(3) {#पूर्वंजः#}
+({#जा, जं#}); </div><div n="1">(4) {#पूर्वप्रसूतः,#} ({#ता, तं#}) (rare).</div>
 <LEND>

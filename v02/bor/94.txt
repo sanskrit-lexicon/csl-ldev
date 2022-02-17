@@ -1,5 +1,5 @@
 <L>94<pc>004<k1>abstinent<k2>abstinent
-<div n="lb"/>{@ABSTINENT:@}¦ <div n="I">I From food: </div><div n="1">(1) {#यताहारः#} ({#रा, रं#}):
-<div n="lb"/>v. Abstemious. </div><div n="I">II In a winder sense:
-<div n="lb"/>{#संयमिन्#} (f. {#नी#}): v. Continent.</div>
+{@ABSTINENT:@}¦ <div n="I">I From food: </div><div n="1">(1) {#यताहारः#} ({#रा, रं#}):
+v. Abstemious. </div><div n="I">II In a winder sense:
+{#संयमिन्#} (f. {#नी#}): v. Continent.</div>
 <LEND>

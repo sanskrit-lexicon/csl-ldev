@@ -1,6 +1,6 @@
 <L>17959<pc>550<k1>proof<k2>proof
-<div n="lb"/>{@PROOF@}¦ (adj.): <div n="xe">{%water-p.:%}</div> <div n="xs">{#जलाभेद्य#}</div> (f. {#द्या#}); <div n="xe">{%p.%}
-<div n="lb"/>{%against argument:%}</div> <div n="xs">{#युक्तिभिरहार्य#}</div> (f. {#र्या#}); ({%their%})
-<div n="lb"/><div n="xe">{%minds are p. against temptation:%}</div> <div n="xs">{#चलति नयान्न हि #}
-<div n="lb"/>{# चेतः,#}</div> Ki. x. 29.
+{@PROOF@}¦ (adj.): <div n="xe">{%water-p.:%}</div> <div n="xs">{#जलाभेद्य#}</div> (f. {#द्या#}); <div n="xe">{%p.%}
+{%against argument:%}</div> <div n="xs">{#युक्तिभिरहार्य#}</div> (f. {#र्या#}); ({%their%})
+<div n="xe">{%minds are p. against temptation:%}</div> <div n="xs">{#चलति नयान्न हि #}
+{# चेतः,#}</div> Ki. x. 29.
 <LEND>

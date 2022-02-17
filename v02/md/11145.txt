@@ -1,36 +1,36 @@
 <L>11145<pc>153-1<k1>पर<k2>पर
 {#पर#}¦pár-a, {%a.%} [leading beyond: √ ¤2.¤ pṛ], ¤1.¤ 
-<>{%of place%}; farther, than ({%ab.%}); remoter, ulterior; <lbinfo n="2"/>
-<> opposite ({%shore%}); next ({%life%}); ¤2.¤ {%of %}
-<>{%time%}: past, previous, previous; future, subsequent; 
-<>following ({%ab.%}); latest, extreme ({%age%}), high 
-<>({%time%}); ¤3.¤ {%of amount%}: exceeding, more than 
-<>({%ab.,%} -°); remaining over; ¤4.¤ {%of sequence%}: 
-<>following, coming next after ({%ab.,%} -°); {%repeated%}: <lbinfo n="4"/>
-<> each, successive; ¤5.¤ {%of degree%}: superior, <lbinfo n="2"/>
-<> higher, better, worse, than ({%ab.; rarely%} 
-<>-°); supreme, pre-eminent, best; utmost, 
-<>deepest, greatest; ¤6.¤ {%of range%}; transcending 
-<>({%ab.%}); ¤7.¤ {%of relation%}: other; alien, strange, 
-<>hostile; different, from ({%ab.%}); {%m.%} descendant; 
-<>stranger; adversary, foe, enemy; universal 
-<>soul, the Absolute; {%n.%} remotest distance; 
-<>height, summit, acme; supreme bliss; extreme <lbinfo n="2"/>
-<> limit (-°); further {%or%} wider meaning 
-<>{%of a word (-°, a.%} synonymous with); chief 
-<>aim, main thing: -°, {%a.%} having -- as the main 
-<>thing = intent on, absorbed in, deeply affected 
-<>with, mainly consisting in, chiefly meant for, 
-<>altogether based on; {@-m,@} {%ad.%} afterwards, 
-<>subsequently; beyond, after ({%ab.%}); highly, 
-<>excessively; completely; at the most; nothing <lbinfo n="2"/>
-<> but, only; however, but; {@ataḥ param@}, 
-<>beyond that; after that; next; hereafter; 
-<>still further; {@itaḥ param@}, henceforth; {@tataḥ @}
-<>{%or%} {@tataś ca@} --, {%id.%}; thereupon; {@na‡asmāt pa-@}
-<>{@-ram,@} no more of that, enough; {@na param-@}
-<>{@-api,@} not only -- but also; {@na param -- yāvat,@} 
-<>not only -- but even; {@yadi param,@} if at all, 
-<>perhaps; {@paraṃ tu@}, however, but; 
-<>{@paraṃ na-api na,@} not only not -- but also not.
+{%of place%}; farther, than ({%ab.%}); remoter, ulterior; <lbinfo n="2"/>
+ opposite ({%shore%}); next ({%life%}); ¤2.¤ {%of %}
+{%time%}: past, previous, previous; future, subsequent; 
+following ({%ab.%}); latest, extreme ({%age%}), high 
+({%time%}); ¤3.¤ {%of amount%}: exceeding, more than 
+({%ab.,%} -°); remaining over; ¤4.¤ {%of sequence%}: 
+following, coming next after ({%ab.,%} -°); {%repeated%}: <lbinfo n="4"/>
+ each, successive; ¤5.¤ {%of degree%}: superior, <lbinfo n="2"/>
+ higher, better, worse, than ({%ab.; rarely%} 
+-°); supreme, pre-eminent, best; utmost, 
+deepest, greatest; ¤6.¤ {%of range%}; transcending 
+({%ab.%}); ¤7.¤ {%of relation%}: other; alien, strange, 
+hostile; different, from ({%ab.%}); {%m.%} descendant; 
+stranger; adversary, foe, enemy; universal 
+soul, the Absolute; {%n.%} remotest distance; 
+height, summit, acme; supreme bliss; extreme <lbinfo n="2"/>
+ limit (-°); further {%or%} wider meaning 
+{%of a word (-°, a.%} synonymous with); chief 
+aim, main thing: -°, {%a.%} having -- as the main 
+thing = intent on, absorbed in, deeply affected 
+with, mainly consisting in, chiefly meant for, 
+altogether based on; {@-m,@} {%ad.%} afterwards, 
+subsequently; beyond, after ({%ab.%}); highly, 
+excessively; completely; at the most; nothing <lbinfo n="2"/>
+ but, only; however, but; {@ataḥ param@}, 
+beyond that; after that; next; hereafter; 
+still further; {@itaḥ param@}, henceforth; {@tataḥ @}
+{%or%} {@tataś ca@} --, {%id.%}; thereupon; {@na‡asmāt pa-@}
+{@-ram,@} no more of that, enough; {@na param-@}
+{@-api,@} not only -- but also; {@na param -- yāvat,@} 
+not only -- but even; {@yadi param,@} if at all, 
+perhaps; {@paraṃ tu@}, however, but; 
+{@paraṃ na-api na,@} not only not -- but also not.
 <LEND>

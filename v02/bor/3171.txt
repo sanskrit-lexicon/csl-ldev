@@ -1,4 +1,4 @@
 <L>3171<pc>106<k1>casket<k2>casket
-<div n="lb"/>{@CASKET:@}¦ <div n="1">(1) {#समुद्गः, -कः;#} </div><div n="1">(2) {#सम्पुटः, -कः,#} Ph.
-<div n="lb"/><div n="xe">{%gold c.%}</div> <div n="xs">{#सुवर्णभाण्डम्,#}</div> Mr.</div>
+{@CASKET:@}¦ <div n="1">(1) {#समुद्गः, -कः;#} </div><div n="1">(2) {#सम्पुटः, -कः,#} Ph.
+<div n="xe">{%gold c.%}</div> <div n="xs">{#सुवर्णभाण्डम्,#}</div> Mr.</div>
 <LEND>

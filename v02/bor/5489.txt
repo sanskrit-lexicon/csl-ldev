@@ -1,6 +1,6 @@
 <L>5489<pc>176<k1>deal<k2>deal
-<div n="lb"/>{@DEAL@}¦ (subs.): <div n="I">I A quantity: expr. by {#बहु#}
-<div n="lb"/>(mfn.), <div n="xe">{%a great d. of time:%}</div> <div n="xs">{#बहुसमयः:#}</div> v. Much,
-<div n="lb"/><div n="xe">{%a good d.:%}</div> <div n="xs">{#अत्यन्तम्:#}</div> v. Exceedingly. </div><div n="I">II In
-<div n="lb"/>cards: {#वण्टनम्।#} </div><div n="I">III D. wood: {#देवदारु#} (n.) (?).</div>
+{@DEAL@}¦ (subs.): <div n="I">I A quantity: expr. by {#बहु#}
+(mfn.), <div n="xe">{%a great d. of time:%}</div> <div n="xs">{#बहुसमयः:#}</div> v. Much,
+<div n="xe">{%a good d.:%}</div> <div n="xs">{#अत्यन्तम्:#}</div> v. Exceedingly. </div><div n="I">II In
+cards: {#वण्टनम्।#} </div><div n="I">III D. wood: {#देवदारु#} (n.) (?).</div>
 <LEND>

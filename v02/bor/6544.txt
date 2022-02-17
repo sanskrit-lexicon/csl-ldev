@@ -1,6 +1,6 @@
 <L>6544<pc>209<k1>disrobe<k2>disrobe
-<div n="lb"/>{@DISROBE:@}¦ <div n="1">(1) {#विवस्त्रयति#} (nomi.); </div><div n="1">(2) {#विवस्त्री-#}
-<div n="lb"/>{#करोति;#} </div><div n="1">(3) by circumlo., <div n="xe">{%every body has been%}
-<div n="lb"/>{%d. d except one — Bhīṣma:%}</div> <div n="xs">{#एकं शान्तनवं हित्वा सर्वे #}
-<div n="lb"/>{# विवसनाः कृताः,#}</div> Dh.</div>
+{@DISROBE:@}¦ <div n="1">(1) {#विवस्त्रयति#} (nomi.); </div><div n="1">(2) {#विवस्त्री-#}
+{#करोति;#} </div><div n="1">(3) by circumlo., <div n="xe">{%every body has been%}
+{%d. d except one — Bhīṣma:%}</div> <div n="xs">{#एकं शान्तनवं हित्वा सर्वे #}
+{# विवसनाः कृताः,#}</div> Dh.</div>
 <LEND>

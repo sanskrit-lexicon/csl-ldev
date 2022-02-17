@@ -17,7 +17,7 @@
 [Page4-0286]
 
 <ls>MED.</ls> <ls>VIŚVA a. a. O.</ls> (wo {#बन्धुले#} st. {#वेधुनि#} zu lesen ist). — 
-<ls>MBH. 1, 7584. 3, 11569.</ls> 
+<ls>MBH. 1, 7584.</ls> <ls n="MBH.">3, 11569.</ls> 
 <ls>R. 2, 94, 9 (103, 9 GORR.). 3, 79, 38. 5, 9, 7.</ls> <ls>SUŚR. 2, 36, 18.</ls> {#समदनो नीपः प्रदीपायते#} 
 <ls>MṚCCH. 83, 6.</ls> 
 <ls>RAGH. 19, 37.</ls> 
@@ -29,8 +29,8 @@
 <ls>BHĀG. P. 4, 6, 15. 8, 2, 16.</ls> <lex>n.</lex> {%die Frucht%} 
 <ls>SUŚR. 1, 211, 2.</ls> 
 <div n="2">— c) pl. N. pr. eines fürstlichen Geschlechts, das auf einen <is>Nīpa</is>, Sohn <is>Pāra's</is> zurückgeführt wird: {#शतं मत्स्या नृपतयः शतं नीपाः शतं हयाः#} 
-<ls>MBH. 2. 333. 1804. 1844. 5, 2729. 13, 2126.</ls> 
-<ls>HARIV. 1060. fgg. 1072.</ls> 
+<ls>MBH. 2, 333.</ls> <ls n="MBH. 2,">1804.</ls> <ls n="MBH. 2,">1844.</ls> <ls n="MBH.">5, 2729.</ls> <ls n="MBH.">13, 2126.</ls> 
+<ls>HARIV. 1060. fgg.</ls> <ls n="HARIV.">1072.</ls> 
 <ls>RAGH. 6, 46.</ls> 
 <ls>VARĀH. BṚH. S. 14, 2.</ls> 
 <ls>VP. 452.</ls> 

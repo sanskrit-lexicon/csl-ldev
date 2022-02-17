@@ -1,7 +1,7 @@
 <L>8940<pc>283<k1>flee<k2>flee
-<div n="lb"/>{@FLEE@}¦ (v.i.): <div n="I">I Lit.: </div><div n="1">(1) {#पलायते, प्र-, वि-,#} ({#पलाय्,#}
-<div n="lb"/>c. 1.), <div n="xe">{%does not f. from battle:%}</div> <div n="xs">{#नाहवात्पलायते,#}</div> Ki.;</div>
-<div n="lb"/><div n="1">(2) {#द्रवति, वि-, सं-, प्र-,#} ({#द्रु,#} c. I.), Mat.: v.
-<div n="lb"/>Also to go away. </div><div n="I">II To avoid: q.v.:
-<div n="lb"/>{#पलायते,#} <div n="xe">{%piety f.s from there:%}</div> <div n="xs">{#तस्माद्धर्मः पलायते,#}</div> S.p.</div>
+{@FLEE@}¦ (v.i.): <div n="I">I Lit.: </div><div n="1">(1) {#पलायते, प्र-, वि-,#} ({#पलाय्,#}
+c. 1.), <div n="xe">{%does not f. from battle:%}</div> <div n="xs">{#नाहवात्पलायते,#}</div> Ki.;</div>
+<div n="1">(2) {#द्रवति, वि-, सं-, प्र-,#} ({#द्रु,#} c. I.), Mat.: v.
+Also to go away. </div><div n="I">II To avoid: q.v.:
+{#पलायते,#} <div n="xe">{%piety f.s from there:%}</div> <div n="xs">{#तस्माद्धर्मः पलायते,#}</div> S.p.</div>
 <LEND>

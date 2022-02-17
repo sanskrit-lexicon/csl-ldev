@@ -4,7 +4,7 @@
 <ls>AK. 1, 1, 1, 15.</ls> 
 <ls>H. 214.</ls> 
 <ls>MBH. 3, 171.</ls> 
-<ls>HARIV.4006. 4020. 5952.</ls> 
+<ls>HARIV. 4006.</ls> <ls n="HARIV.">4020.</ls> <ls n="HARIV.">5952.</ls> 
 <ls>R. 1, 1, 6. 6, 102, 15.</ls> 
 <ls>GĪTAG. 4, 20</ls>
 [Page1-0992]

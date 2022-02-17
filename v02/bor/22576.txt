@@ -1,4 +1,4 @@
 <L>22576<pc>713<k1>tillage<k2>tillage
-<div n="lb"/>{@TILLAGE:@}¦ <div n="1">(1) {#कृषिः, -कर्मन्#} (n.); </div><div n="1">(2) {#कर्षणम्।#}
-<div n="lb"/>(rare).</div>
+{@TILLAGE:@}¦ <div n="1">(1) {#कृषिः, -कर्मन्#} (n.); </div><div n="1">(2) {#कर्षणम्।#}
+(rare).</div>
 <LEND>

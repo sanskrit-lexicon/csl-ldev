@@ -5,14 +5,14 @@
 = ved. {#शुतुद्री#} {%der Satledsch%} 
 <ls>AK. 1, 2, 3, 32.</ls> 
 <ls>H. 1084.</ls> {#शतधा विद्रुता यस्माच्छतद्रुरिति विश्रुता#} 
-<ls>MBH. 1, 6753. 2, 371. 3, 12907. 8, 2055.</ls> 
+<ls>MBH. 1, 6753.</ls> <ls n="MBH.">2, 371.</ls> <ls n="MBH.">3, 12907.</ls> <ls n="MBH.">8, 2055.</ls> 
 <ls>HARIV. 9506.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 73, 2. 85, 5. 4, 44, 65.</ls> 
+
+<ls>R. GORR. 2, 73, 2. 85, 5. 4, 44, 65.</ls> 
 <ls>VP. 2, 3, 14.</ls> 
 <ls>MĀRK. P. 57, 17.</ls> 
 <ls>BHĀG. P. 5, 19, 18.</ls> 
-<ls>PRĀYAŚCITTEND. 11</ls>, {%b%}, 
+<ls>PRĀYAŚCITTEND. 11,b,</ls> 
 <ls>4.</ls> <ls>HIOUEN-THSANG 1, 205. fg.</ls> {#शतद्रू#} 
 <ls>R. 2, 71, 2.</ls> 
 <ls>VARĀH. BṚH. S. 16, 21.</ls> Nach 

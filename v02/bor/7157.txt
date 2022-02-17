@@ -1,7 +1,7 @@
 <L>7157<pc>227<k1>earnest<k2>earnest
-<div n="lb"/>{@EARNEST@}¦ (adj.): <div n="I">I Eager, zealous: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#व्यग्रः#} ({#ग्रा, ग्रं#}); </div><div n="1">(2) {#सोत्साहः#} ({#हा, हं#}). Ph.:
-<div n="lb"/><div n="xe">{%e. wish:%}</div> <div n="xs">{#एकान्तकामना।#}</div> </div><div n="I">II Intent: </div><div n="1">(1) {#एकाग्रः#}
-<div n="lb"/>({#ग्रा, ग्रं#}); </div><div n="1">(2) {#निविष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">III Seri-
-<div n="lb"/>-ous: q. v.</div>
+{@EARNEST@}¦ (adj.): <div n="I">I Eager, zealous: q. v.:</div>
+<div n="1">(1) {#व्यग्रः#} ({#ग्रा, ग्रं#}); </div><div n="1">(2) {#सोत्साहः#} ({#हा, हं#}). Ph.:
+<div n="xe">{%e. wish:%}</div> <div n="xs">{#एकान्तकामना।#}</div> </div><div n="I">II Intent: </div><div n="1">(1) {#एकाग्रः#}
+({#ग्रा, ग्रं#}); </div><div n="1">(2) {#निविष्टः#} ({#ष्टा, ष्टं#}). </div><div n="I">III Seri-
+-ous: q. v.</div>
 <LEND>

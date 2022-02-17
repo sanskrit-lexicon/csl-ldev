@@ -1,4 +1,4 @@
 <L>3493<pc>116<k1>chat<k2>chat
-<div n="lb"/>{@CHAT@}¦ (subs.): <div n="1">(1) {#विश्रम्भालापः;#} </div><div n="1">(2) {#सङ्कथाः#} v.
-<div n="lb"/>Conversation.</div>
+{@CHAT@}¦ (subs.): <div n="1">(1) {#विश्रम्भालापः;#} </div><div n="1">(2) {#सङ्कथाः#} v.
+Conversation.</div>
 <LEND>

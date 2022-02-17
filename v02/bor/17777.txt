@@ -1,7 +1,7 @@
 <L>17777<pc>544<k1>princely<k2>princely
-<div n="lb"/>{@PRINCELY:@}¦ <div n="I">I Lit.: expr. by ph. or comp.,
-<div n="lb"/><div n="xe">{%p. birth:%}</div> <div n="xs">{#राजवंशप्रसूतिः;#}</div> <div n="xe">{%p. virtues:%}</div> <div n="xs">{#राजधर्माः।#}</div></div>
-<div n="lb"/><div n="I">II Prince-like: {#राजसदृशः#} ({#शी, शं#}): v.
-<div n="lb"/>Like. </div><div n="I">III Becoming a p.: {#राजयोग्यः#} ({#ग्या, #}
-<div n="lb"/>{# ग्यं#}); {#राजोचितः#} ({#ता, तं#}), etc.</div>
+{@PRINCELY:@}¦ <div n="I">I Lit.: expr. by ph. or comp.,
+<div n="xe">{%p. birth:%}</div> <div n="xs">{#राजवंशप्रसूतिः;#}</div> <div n="xe">{%p. virtues:%}</div> <div n="xs">{#राजधर्माः।#}</div></div>
+<div n="I">II Prince-like: {#राजसदृशः#} ({#शी, शं#}): v.
+Like. </div><div n="I">III Becoming a p.: {#राजयोग्यः#} ({#ग्या, #}
+{# ग्यं#}); {#राजोचितः#} ({#ता, तं#}), etc.</div>
 <LEND>

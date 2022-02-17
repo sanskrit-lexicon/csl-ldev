@@ -1,5 +1,5 @@
 <L>2124<pc>074<k1>blade<k2>blade
-<div n="lb"/>{@BLADE:@}¦ <div n="I">I The cutting part of a knife etc.;
-<div n="lb"/>{#धारा।#} </div><div n="I">II Of grass: </div><div n="1">(1) {#दल#} (mn.); </div><div n="1">(2) {#काण्डम्#}
-<div n="lb"/>(?). </div><div n="I">III A rake: q. v.</div>
+{@BLADE:@}¦ <div n="I">I The cutting part of a knife etc.;
+{#धारा।#} </div><div n="I">II Of grass: </div><div n="1">(1) {#दल#} (mn.); </div><div n="1">(2) {#काण्डम्#}
+(?). </div><div n="I">III A rake: q. v.</div>
 <LEND>

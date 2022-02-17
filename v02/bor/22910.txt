@@ -1,5 +1,5 @@
 <L>22910<pc>722<k1>troop<k2>troop
-<div n="lb"/>{@TROOP:@}¦ <div n="I">I In pl.: {#सैनिकाः#} <div n="xe">{%or%}</div> <div n="xs">{#सैन्याः:#}</div> v. Also
-<div n="lb"/>forces, army. </div><div n="I">II Company: q. v.: {#गुल्मः।#}</div>
-<div n="lb"/><div n="I">III Collection, multitude: q. v.: {#यूथम्।#}</div>
+{@TROOP:@}¦ <div n="I">I In pl.: {#सैनिकाः#} <div n="xe">{%or%}</div> <div n="xs">{#सैन्याः:#}</div> v. Also
+forces, army. </div><div n="I">II Company: q. v.: {#गुल्मः।#}</div>
+<div n="I">III Collection, multitude: q. v.: {#यूथम्।#}</div>
 <LEND>

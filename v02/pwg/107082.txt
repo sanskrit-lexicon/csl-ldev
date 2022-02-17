@@ -2,7 +2,7 @@
 {#सर्वस्व#}¦ 
 <div n="1"> 1) <lex>n.</lex> 
 <div n="2"> a) {%die ganze Habe%}: {#°ज्यानि#} 
-<ls>ĀŚV. ŚR. 12, 6, 33.</ls> <ls>KĀTY. ŚR. 22, 2, 26.</ls> Comm. zu <ls>1, 25.</ls> <ls>KAUŚ. 127.</ls> <ls>M. 7, 214. 8, 374. 11, 76. 80. 116.</ls> <ls>R. GORR. 1, 54, 24 (53, 23 SCHL.). 74, 17. 2, 10, 26. 37, 2. 3, 68, 28. 7, 44, 19.</ls> <ls>Spr. (II) 921. 4400. 4798. 5694. 6068.</ls> <ls>KATHĀS. 19, 48. 43, 127. 57, 157.</ls> <ls>RĀJA-TAR. 3, 392. 5, 165.</ls> <ls>PAÑCAR. 1, 1, 48.</ls> {#°भूत#} <lex>adj.</lex> {%die ganze Habe bildend%} 
+<ls>ĀŚV. ŚR. 12, 6, 33.</ls> <ls>KĀTY. ŚR. 22, 2, 26.</ls> Comm. zu <ls>1, 25.</ls> <ls>KAUŚ. 127.</ls> <ls>M. 7, 214. 8, 374. 11, 76. 80. 116.</ls> <ls>R. GORR. 1, 54, 24 (53, 23</ls> <ls>SCHL.). 74, 17. 2, 10, 26. 37, 2. 3, 68, 28. 7, 44, 19.</ls> <ls>Spr. (II) 921.</ls> <ls n="Spr. (II)">4400.</ls> <ls n="Spr. (II)">4798.</ls> <ls n="Spr. (II)">5694.</ls> <ls n="Spr. (II)">6068.</ls> <ls>KATHĀS. 19, 48. 43, 127. 57, 157.</ls> <ls>RĀJA-TAR. 3, 392. 5, 165.</ls> <ls>PAÑCAR. 1, 1, 48.</ls> {#°भूत#} <lex>adj.</lex> {%die ganze Habe bildend%} 
 <ls>R. 5, 70, 13.</ls> {#°नाश#} 
 <ls>Spr. (II) 6938.</ls> {#°हरण#} 
 <ls>6940.</ls> <ls>R. 3, 46, 8.</ls> {#°हार#} 
@@ -20,7 +20,7 @@
 <div n="2">— b) am Ende eines comp. {%Gesammtheit, das Ganze%}: {#धन°#} 
 <ls>Spr. (II) 3674.</ls> {#रत्न°#} 
 <ls>HARIV. 4808.</ls> {#कर°#} ({%Abgabe%}) 
-<ls>15654.</ls> {#वीर्य°#} 
+<ls n="HARIV.">15654.</ls> {#वीर्य°#} 
 <ls>MBH. 3, 10931.</ls> 
 <ls>R. 6, 91, 7.</ls> {#बल°#} 
 <ls>3, 35; 59.</ls> {#कार्य°#} 
@@ -30,7 +30,7 @@
 <ls>Spr. (II) 5776.</ls> {#धर्म°#} 
 <ls>6578.</ls> {#नीति°#} 
 <ls>PAÑCAT. 111, 6.</ls> {#प्राकृत°#} 
-<ls>Verz. d. Oxf. H. 181</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 181,a,</ls> 
 <ls>No. 412.</ls> {#लावण्य°#} 
 <ls>KATHĀS. 17, 109.</ls> {#आब्रह्मसार°#} 
 <ls>PAÑCAR. 4, 3,193.</ls>

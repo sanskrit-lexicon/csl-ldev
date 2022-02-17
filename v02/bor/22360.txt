@@ -1,4 +1,4 @@
 <L>22360<pc>705<k1>territory<k2>territory
-<div n="lb"/>{@TERRITORY:@}¦ <div n="1">(1) {#राष्ट्रम्:#} v. Kingdom; </div><div n="1">(2)
-<div n="lb"/>{#देशः, प्र-:#} Country, province.</div>
+{@TERRITORY:@}¦ <div n="1">(1) {#राष्ट्रम्:#} v. Kingdom; </div><div n="1">(2)
+{#देशः, प्र-:#} Country, province.</div>
 <LEND>

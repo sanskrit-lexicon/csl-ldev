@@ -1,5 +1,5 @@
 <L>20752<pc>651<k1>sling<k2>sling
-<div n="lb"/>{@SLING@}¦ (subs.): <div n="I">I For throwing: </div><div n="1">(1) {#गोफणा#}
-<div n="lb"/>(?), Wilson; </div><div n="1">(2) {#दोला#} (?: used in Bengalee).</div>
-<div n="lb"/><div n="I">II For bandage: {#*श्लथालम्बः।#}</div>
+{@SLING@}¦ (subs.): <div n="I">I For throwing: </div><div n="1">(1) {#गोफणा#}
+(?), Wilson; </div><div n="1">(2) {#दोला#} (?: used in Bengalee).</div>
+<div n="I">II For bandage: {#*श्लथालम्बः।#}</div>
 <LEND>

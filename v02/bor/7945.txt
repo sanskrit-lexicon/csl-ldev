@@ -1,5 +1,5 @@
 <L>7945<pc>251<k1>evolution<k2>evolution
-<div n="lb"/>{@EVOLUTION:@}¦ <div n="I">I Development: {#उद्भेदः,#} <div n="xe">{%e. of%}
-<div n="lb"/>{%affection:%}</div> <div n="xs">{#अनुरागस्योद्भेदः,#}</div> Ma. </div><div n="I">II A series:
-<div n="lb"/>{#परम्परा।#} </div><div n="I">III In arith: {#मूललाभः#} (?).</div>
+{@EVOLUTION:@}¦ <div n="I">I Development: {#उद्भेदः,#} <div n="xe">{%e. of%}
+{%affection:%}</div> <div n="xs">{#अनुरागस्योद्भेदः,#}</div> Ma. </div><div n="I">II A series:
+{#परम्परा।#} </div><div n="I">III In arith: {#मूललाभः#} (?).</div>
 <LEND>

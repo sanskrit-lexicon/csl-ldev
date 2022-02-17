@@ -1,8 +1,8 @@
 <L>14925<pc>456<k1>monstrous<k2>monstrous
-<div n="lb"/>{@MONSTROUS:@}¦ <div n="I">I Unnatural and misshapen:</div>
-<div n="lb"/><div n="1">(1) {#अपरूपः#} ({#पा, पं#}) (?); </div><div n="1">(2) {#विकृताकृति#} (mfn.),
-<div n="lb"/>Vi. v. 29.; and sim. comp.s. </div><div n="I">II Dread-
-<div n="lb"/>-ful, horrible: {#घोरदर्शनः#} ({#ना, नं#}) and sim.
-<div n="lb"/>comp.s.(?). </div><div n="I">III Fig.; revolting to reason:
-<div n="lb"/>{#राक्षस#} (f. {#सी#}) <div n="xe">{%or%}</div> <div n="xs">{#पैशाच#}</div> (f. {#ची#}).</div>
+{@MONSTROUS:@}¦ <div n="I">I Unnatural and misshapen:</div>
+<div n="1">(1) {#अपरूपः#} ({#पा, पं#}) (?); </div><div n="1">(2) {#विकृताकृति#} (mfn.),
+Vi. v. 29.; and sim. comp.s. </div><div n="I">II Dread-
+-ful, horrible: {#घोरदर्शनः#} ({#ना, नं#}) and sim.
+comp.s.(?). </div><div n="I">III Fig.; revolting to reason:
+{#राक्षस#} (f. {#सी#}) <div n="xe">{%or%}</div> <div n="xs">{#पैशाच#}</div> (f. {#ची#}).</div>
 <LEND>

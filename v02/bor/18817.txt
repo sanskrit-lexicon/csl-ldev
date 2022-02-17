@@ -1,7 +1,7 @@
 <L>18817<pc>580<k1>reflect<k2>reflect
-<div n="lb"/>{@REFLECT@}¦ (v. i.): <div n="I">I To think over, ponder:</div>
-<div n="lb"/><div n="1">(1) {#चिन्तयति, परि-, वि-, सं-,#} ({#चिन्त्,#} c. 10.);</div>
-<div n="lb"/><div n="1">(2) {#ध्यायति, अनु-, अभि-, सं-,#} ({#ध्यै,#} c. 1.): v.
-<div n="lb"/>To think, consider. </div><div n="I">II To censure: q. v.:
-<div n="lb"/>{#अधिक्षिपति#} ({#क्षिप्,#} c. 6.).</div>
+{@REFLECT@}¦ (v. i.): <div n="I">I To think over, ponder:</div>
+<div n="1">(1) {#चिन्तयति, परि-, वि-, सं-,#} ({#चिन्त्,#} c. 10.);</div>
+<div n="1">(2) {#ध्यायति, अनु-, अभि-, सं-,#} ({#ध्यै,#} c. 1.): v.
+To think, consider. </div><div n="I">II To censure: q. v.:
+{#अधिक्षिपति#} ({#क्षिप्,#} c. 6.).</div>
 <LEND>

@@ -1,14 +1,14 @@
 <L>54088<pc>5-0200<k1>भद्रासन<k2>भद्रासन
-{#भद्रासन#}¦ {#(भद्र + आ°)#} <lex>n.</lex> 
+{#भद्रासन#}¦ ({#भद्र + आ°#}) <lex>n.</lex> 
 <div n="1"> 1) {%Prachtsitz, Thron%} 
 <ls>AK. 2, 8, 1, 31.</ls> 
 <ls>H. 716.</ls> 
 <ls>HALĀY. 2, 268.</ls> 
 <ls>YĀJÑ. 1, 279.</ls> 
-<ls>MBH. 13, 1487. fg. 3191.</ls> 
+<ls>MBH. 13, 1487. fg.</ls> <ls n="MBH. 13,">3191.</ls> 
 <ls>R. 2, 25, 41. 26, 17.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 12, 4. 82, 10.</ls> 
+
+<ls>R. GORR. 2, 12, 4. 82, 10.</ls> 
 <ls>VARĀH. BṚH. S. 48, 46.</ls> 
 <ls>PAÑCAT. 167, 25.</ls> 
 <div n="1">— 2) {%eine best. Art zu sitzen bei den beschaulichen Asketen%}: {#वृषणाधः पार्श्वपादौ पादपार्ष्णिं#} 

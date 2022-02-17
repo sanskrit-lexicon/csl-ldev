@@ -1,7 +1,7 @@
 <L>17944<pc>550<k1>prompt<k2>prompt
-<div n="lb"/>{@PROMPT@}¦ (v.): <div n="I">I To incite: </div><div n="1">(1) {#उत्साहयति, #}
-<div n="lb"/>{# प्र-,#} (c. of {#सह्#}); </div><div n="1">(2) {#प्र-णो(चो)दयति#} ({#नुद्#} {%or%}
-<div n="lb"/>{#चुद्,#} c. 10.); </div><div n="1">(3) {#प्रवर्तयति#} (c. of {#वृत्#}). </div><div n="I">II
-<div n="lb"/>To Assist by suggesting: perh.: {#अवबोधयति#}
-<div n="lb"/>(c. of {#बुध्#}).</div>
+{@PROMPT@}¦ (v.): <div n="I">I To incite: </div><div n="1">(1) {#उत्साहयति, #}
+{# प्र-,#} (c. of {#सह्#}); </div><div n="1">(2) {#प्र-णो(चो)दयति#} ({#नुद्#} {%or%}
+{#चुद्,#} c. 10.); </div><div n="1">(3) {#प्रवर्तयति#} (c. of {#वृत्#}). </div><div n="I">II
+To Assist by suggesting: perh.: {#अवबोधयति#}
+(c. of {#बुध्#}).</div>
 <LEND>

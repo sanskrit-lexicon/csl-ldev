@@ -1,17 +1,17 @@
 <L>11906<pc>169-2<k1>पृथग्गण<k2>पृथग्गण
 {#पृथग्गण#}¦pṛthag-gaṇa, {%m.%} separate {%or%} distinct 
-<>class:{@-gotra,@} {%a. pl.%} belonging to distinct 
-<>families; {@-jana@}, {%m.%} man of lover classes; 
-<>{%sg. & pl.%} common people; {@-jaya@}, {%m.%} victory 
-<>in a duel; {@-dṛś@}, {%a.%} seeing {%something%} different <lbinfo n="3"/>
-<> from ({%ab.%}); {@-dvāra,@} {%n. pl.%} special 
-<>doors, {%i. e.%} means of attainment; {@-dharma-@}
-<>{@-vid,@} {%a. pl.%} each knowing different institutes 
-<>of law; {@-bhāva,@} {%m.%} separate condition, difference, <lbinfo n="3"/>
-<> variety; {@-yoga,@} {%a. pl.%} having different <lbinfo n="3"/>
-<> lots ({%perhaps incorrect for%} -bhoga {%or%} 
-<>-bhāga); {@-lakṣaṇa@}, {%a.%} having different characteristics; <lbinfo n="3"/>
-<> {@-varṣa,@} {%n. pl.%} a year in each 
-<>case; {@-vidha,@} {%a.%} various, manifold, several; 
-<>different from ({%in.%}).
+class:{@-gotra,@} {%a. pl.%} belonging to distinct 
+families; {@-jana@}, {%m.%} man of lover classes; 
+{%sg. & pl.%} common people; {@-jaya@}, {%m.%} victory 
+in a duel; {@-dṛś@}, {%a.%} seeing {%something%} different <lbinfo n="3"/>
+ from ({%ab.%}); {@-dvāra,@} {%n. pl.%} special 
+doors, {%i. e.%} means of attainment; {@-dharma-@}
+{@-vid,@} {%a. pl.%} each knowing different institutes 
+of law; {@-bhāva,@} {%m.%} separate condition, difference, <lbinfo n="3"/>
+ variety; {@-yoga,@} {%a. pl.%} having different <lbinfo n="3"/>
+ lots ({%perhaps incorrect for%} -bhoga {%or%} 
+-bhāga); {@-lakṣaṇa@}, {%a.%} having different characteristics; <lbinfo n="3"/>
+ {@-varṣa,@} {%n. pl.%} a year in each 
+case; {@-vidha,@} {%a.%} various, manifold, several; 
+different from ({%in.%}).
 <LEND>

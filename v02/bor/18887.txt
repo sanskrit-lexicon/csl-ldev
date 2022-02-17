@@ -1,7 +1,7 @@
 <L>18887<pc>583<k1>reign<k2>reign
-<div n="lb"/>{@REIGN@}¦ (subs.): <div n="1">(1) {#शासनम्;#} </div><div n="1">(2) {#राज्यशासनम्#} and
-<div n="lb"/>sim. comp.s.; </div><div n="1">(3) by verb, {%during whose r.:%}
-<div n="lb"/>{#यस्मिन् महीं शासति,#} R. vi. 75.; <div n="xe">{%when he was%}
-<div n="lb"/>{%thus killed after a r. of twelve years:%}</div> <div n="xs">{#भुक्तक्षितौ #}
-<div n="lb"/>{# द्वादशाब्दांस्तस्मिन् व्यापादिते तथा,#}</div> Raj. iv. 686.</div>
+{@REIGN@}¦ (subs.): <div n="1">(1) {#शासनम्;#} </div><div n="1">(2) {#राज्यशासनम्#} and
+sim. comp.s.; </div><div n="1">(3) by verb, {%during whose r.:%}
+{#यस्मिन् महीं शासति,#} R. vi. 75.; <div n="xe">{%when he was%}
+{%thus killed after a r. of twelve years:%}</div> <div n="xs">{#भुक्तक्षितौ #}
+{# द्वादशाब्दांस्तस्मिन् व्यापादिते तथा,#}</div> Raj. iv. 686.</div>
 <LEND>

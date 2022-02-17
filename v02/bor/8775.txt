@@ -1,4 +1,4 @@
 <L>8775<pc>278<k1>finely<k2>finely
-<div n="lb"/>{@FINELY:@}¦ <div n="I">I Minutely: {#सूक्ष्मम्।#} </div><div n="I">II Elegantly:
-<div n="lb"/>{#शोभनम्;#} better by adj.</div>
+{@FINELY:@}¦ <div n="I">I Minutely: {#सूक्ष्मम्।#} </div><div n="I">II Elegantly:
+{#शोभनम्;#} better by adj.</div>
 <LEND>

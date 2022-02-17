@@ -1,4 +1,4 @@
 <L>18859<pc>582<k1>regardless<k2>regardless
-<div n="lb"/>{@REGARDLESS:@}¦ <div n="xe">{%r. of:%}</div> <div n="xs">{#अनादृत्य, अनवेक्ष्य,#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अगणयित्वा#}</div>
-<div n="lb"/>: v. Also careless.
+{@REGARDLESS:@}¦ <div n="xe">{%r. of:%}</div> <div n="xs">{#अनादृत्य, अनवेक्ष्य,#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अगणयित्वा#}</div>
+: v. Also careless.
 <LEND>

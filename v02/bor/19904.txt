@@ -1,5 +1,5 @@
 <L>19904<pc>619<k1>score<k2>score
-<div n="lb"/>{@SCORE@}¦ (v.): <div n="I">I To mark, note: q. v.: {#अङ्कयति#}
-<div n="lb"/>({#अङ्क्।#} c. 10.). </div><div n="I">II To draw a line across:
-<div n="lb"/>{#रेखया कृन्तति#} ({#कृत्,#} c. 7.: after Bengali).</div>
+{@SCORE@}¦ (v.): <div n="I">I To mark, note: q. v.: {#अङ्कयति#}
+({#अङ्क्।#} c. 10.). </div><div n="I">II To draw a line across:
+{#रेखया कृन्तति#} ({#कृत्,#} c. 7.: after Bengali).</div>
 <LEND>

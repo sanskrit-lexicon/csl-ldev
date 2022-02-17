@@ -1,9 +1,9 @@
 <L>160<pc>007<k1>account of<k2>account of
-<div n="lb"/>{@ACCOUNT OF, ON:@}¦ <div n="1">(1) By the abl.: <div n="xe">{%on a. of%}
-<div n="lb"/>{%having no power%}</div> <div n="xs">{#अप्रभुत्वात्,#}</div> <ls>D.</ls> ; </div><div n="1">(2) Sometimes
-<div n="lb"/>by the ins especially if the word ends in {#ता,#}
-<div n="lb"/><div n="xe">{%on a. of my childhood%}</div> <div n="xs">{#बालतया,;#}</div> </div><div n="1">(3) By {#-निमित्तः#}
-<div n="lb"/>({#त्ता, त्तं#}), <div n="xe">{%as we are reduced to this state on a.%}
-<div n="lb"/>{%of the enemy%}</div> <div n="xs">{#द्विषन्निमित्ता यदियं दशा,#}</div> Ki. i. 41.:
-<div n="lb"/>v. For the sake of.</div>
+{@ACCOUNT OF, ON:@}¦ <div n="1">(1) By the abl.: <div n="xe">{%on a. of%}
+{%having no power%}</div> <div n="xs">{#अप्रभुत्वात्,#}</div> <ls>D.</ls> ; </div><div n="1">(2) Sometimes
+by the ins especially if the word ends in {#ता,#}
+<div n="xe">{%on a. of my childhood%}</div> <div n="xs">{#बालतया,;#}</div> </div><div n="1">(3) By {#-निमित्तः#}
+({#त्ता, त्तं#}), <div n="xe">{%as we are reduced to this state on a.%}
+{%of the enemy%}</div> <div n="xs">{#द्विषन्निमित्ता यदियं दशा,#}</div> Ki. i. 41.:
+v. For the sake of.</div>
 <LEND>

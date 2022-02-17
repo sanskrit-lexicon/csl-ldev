@@ -1,4 +1,4 @@
 <L>11513<pc>360<k1>illiberality<k2>illiberality
-<div n="lb"/>{@ILLIBERALITY:@}¦ <div n="1">(1) {#अनौदार्यम्#} (rare); </div><div n="1">(2) {#कृपणता#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#कार्पव्यम्।#}</div></div>
+{@ILLIBERALITY:@}¦ <div n="1">(1) {#अनौदार्यम्#} (rare); </div><div n="1">(2) {#कृपणता#}
+<div n="xe">{%or%}</div> <div n="xs">{#कार्पव्यम्।#}</div></div>
 <LEND>

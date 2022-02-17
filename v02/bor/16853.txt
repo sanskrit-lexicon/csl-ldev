@@ -1,5 +1,5 @@
 <L>16853<pc>516<k1>personage<k2>personage
-<div n="lb"/>{@PERSONAGE:@}¦ <div n="I">I Character: q. v.: {#रूपम्।#} </div><div n="I">II
-<div n="lb"/>Person: q. v.: {#पुरुषः,#} <div n="xe">{%great p.:%}</div> <div n="xs">{#महापुरुषः,#}</div> U.
-<div n="lb"/>vi. 7.</div>
+{@PERSONAGE:@}¦ <div n="I">I Character: q. v.: {#रूपम्।#} </div><div n="I">II
+Person: q. v.: {#पुरुषः,#} <div n="xe">{%great p.:%}</div> <div n="xs">{#महापुरुषः,#}</div> U.
+vi. 7.</div>
 <LEND>

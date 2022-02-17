@@ -1,6 +1,6 @@
 <L>21916<pc>691<k1>superiority<k2>superiority
-<div n="lb"/>{@SUPERIORITY:@}¦ <div n="1">(1) {#ज्येष्ठता;#} </div><div n="1">(2) {#ज्यैष्ठ्यम्,#} <div n="xe">{%s. in%}
-<div n="lb"/>{%knowledge:%}</div> <div n="xs">{#विद्याजैष्ठ्यम्;#}</div> </div><div n="1">(3) {#आधिक्यम्#} (= state
-<div n="lb"/>of being greater): </div><div n="1">(4) {#श्रेष्ठता:#} v. Excellence;</div>
-<div n="lb"/><div n="1">(5) {#वरिष्ठता#} (=3).</div>
+{@SUPERIORITY:@}¦ <div n="1">(1) {#ज्येष्ठता;#} </div><div n="1">(2) {#ज्यैष्ठ्यम्,#} <div n="xe">{%s. in%}
+{%knowledge:%}</div> <div n="xs">{#विद्याजैष्ठ्यम्;#}</div> </div><div n="1">(3) {#आधिक्यम्#} (= state
+of being greater): </div><div n="1">(4) {#श्रेष्ठता:#} v. Excellence;</div>
+<div n="1">(5) {#वरिष्ठता#} (=3).</div>
 <LEND>

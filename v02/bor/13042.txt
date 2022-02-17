@@ -1,4 +1,4 @@
 <L>13042<pc>402<k1>kitchen-garden<k2>kitchen-garden
-<div n="lb"/>{@KITCHEN-GARDEN:@}¦ <div n="1">(1) {#शाकवाटिका;#} </div><div n="1">(2) {#शाकशकटम्#}
-<div n="lb"/>(rare).</div>
+{@KITCHEN-GARDEN:@}¦ <div n="1">(1) {#शाकवाटिका;#} </div><div n="1">(2) {#शाकशकटम्#}
+(rare).</div>
 <LEND>

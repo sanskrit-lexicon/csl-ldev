@@ -11,18 +11,18 @@
 <ls>13, 47.</ls> <ls>ŚAT. BR. 1, 9, 1, 28. 14, 5, 5, 18.</ls> {#य ईश ऽस्य द्विपदश्चतुष्पदः#} 
 <ls>ŚVETĀŚV. UP. 4, 13.</ls> {#तेषां बहुपदाः श्रेष्ठाश्चतुष्पादस्ततो द्विपात्#} 
 <ls>BHĀG. P. 3, 29, 30.</ls> {#द्विपदां ब्राह्मणो यथा (श्रेष्ठः)#} 
-<ls>MBH. 1, 257. 3, 2232. 8382.</ls> 
+<ls>MBH. 1, 257.</ls> <ls n="MBH.">3, 2232.</ls> <ls n="MBH. 3,">8382.</ls> 
 <ls>R. 2, 55, 26.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 57, 21.</ls> {#द्विपाद्#} (!) acc. neutr.: {#प्र\बो\धय^न्तीरु\षस^ः स\सन्त^ं द्वि\पाच्च^तुष्पाच्च\रथा^य जी\वम्#} 
+
+<ls>R. GORR. 1, 57, 21.</ls> {#द्विपाद्#} (!) acc. neutr.: {#प्र\बो\धय^न्तीरु\षस^ः स\सन्त^ं द्वि\पाच्च^तुष्पाच्च\रथा^य जी\वम्#} 
 <ls>ṚV. 4, 51, 5.</ls> 
 <ls>VS. 14, 8.</ls> 
 <div n="1">— 2) metr. {%zwei%} <is>Pada</is> {%zählend%}: {#वाक#} 
 <ls>ṚV. 1, 164, 24.</ls> {#गायत्री#} 
 <ls>ŚAT. BR. 14, 8, 15, 10.</ls> {#द्विपाद्विराट्#} 
-<ls>COLEBR. Misc. Ess. II, 152</ls> <ls>(I, 9).</ls> <lex>m.</lex> {%ein Metrum von zwei%} <is>Pada</is> (so v. a. {#द्वि/पदा): द्वि\पद\ं छन्द^ः#} (acc.) 
+<ls>COLEBR. Misc. Ess. II, 152</ls> (<ls>I, 9).</ls> <lex>m.</lex> {%ein Metrum von zwei%} <is>Pada</is> (so v. a. {#द्वि/पदा): द्वि\पद\ं छन्द^ः#} (acc.) 
 <ls>VS. 28, 32.</ls> eben so wäre 
 <ls>43</ls> {#द्वि\पदा\ छन्द^सा#} (st. {#द्विप^दा#}) zu erwarten, wie auch die andere Recension 
-<ls>(S. XLI, 8</ls> v. u.) wirklich liest. {#°पदी#} <lex>f.</lex> {%ein best.%} <is>Prākrit</is>-{%Metrum%} 
-<ls>COLEBR. Misc. Ess. II, 156</ls> <ls>(III, 22).</ls>
+(<ls>S. XLI, 8</ls> v. u.) wirklich liest. {#°पदी#} <lex>f.</lex> {%ein best.%} <is>Prākrit</is>-{%Metrum%} 
+<ls>COLEBR. Misc. Ess. II, 156</ls> (<ls>III, 22).</ls>
 <LEND>

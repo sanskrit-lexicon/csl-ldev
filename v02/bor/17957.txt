@@ -1,5 +1,5 @@
 <L>17957<pc>550<k1>pronunciation<k2>pronunciation
-<div n="lb"/>{@PRONUNCIATION:@}¦ {#उच्चारः, -णम्,#} {%p. of words:%}
-<div n="lb"/>{#शब्दोच्चारणम्,#} Say.; <div n="xe">{%knowing p.:%}</div> <div n="xs">{#उच्चारणज्ञः,#}</div> Si.
-<div n="lb"/>iv. 18. <div n="xe">{%Science of Vedic p.:%}</div> <div n="xs">{#शिक्षा,#}</div> Say.
+{@PRONUNCIATION:@}¦ {#उच्चारः, -णम्,#} {%p. of words:%}
+{#शब्दोच्चारणम्,#} Say.; <div n="xe">{%knowing p.:%}</div> <div n="xs">{#उच्चारणज्ञः,#}</div> Si.
+iv. 18. <div n="xe">{%Science of Vedic p.:%}</div> <div n="xs">{#शिक्षा,#}</div> Say.
 <LEND>

@@ -1,5 +1,5 @@
 <L>6252<pc>201<k1>disagreement<k2>disagreement
-<div n="lb"/>{@DISAGREEMENT:@}¦ <div n="I">I Difference: q. v.: {#विसंवादः।#}</div>
-<div n="lb"/><div n="I">II In opinion: {#विप्रतिपत्तिः।#} </div><div n="I">III Dispute:
-<div n="lb"/>{#विवादः; भेदः।#} </div><div n="I">IV Unsuitableness: q. v.</div>
+{@DISAGREEMENT:@}¦ <div n="I">I Difference: q. v.: {#विसंवादः।#}</div>
+<div n="I">II In opinion: {#विप्रतिपत्तिः।#} </div><div n="I">III Dispute:
+{#विवादः; भेदः।#} </div><div n="I">IV Unsuitableness: q. v.</div>
 <LEND>

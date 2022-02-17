@@ -1,4 +1,4 @@
 <L>787<pc>028<k1>animosity<k2>animosity
-<div n="lb"/>{@ANIMOSITY:@}¦ <div n="1">(1) {#द्वेषः;#} </div><div n="1">(2) {#विद्वेषः;#} </div><div n="1">(3) {#वैरम्;#}</div>
-<div n="lb"/><div n="1">(4) {#विरोधः।#}</div>
+{@ANIMOSITY:@}¦ <div n="1">(1) {#द्वेषः;#} </div><div n="1">(2) {#विद्वेषः;#} </div><div n="1">(3) {#वैरम्;#}</div>
+<div n="1">(4) {#विरोधः।#}</div>
 <LEND>

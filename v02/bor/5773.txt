@@ -1,9 +1,9 @@
 <L>5773<pc>185<k1>demand<k2>demand
-<div n="lb"/>{@DEMAND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#अनुयोगः;#} </div><div n="1">(2)
-<div n="lb"/>{#प्रार्थना#} (=asking). Ph.: <div n="xe">{%a debt should be paid%}
-<div n="lb"/>{%on d.:%}</div> <div n="xs">{#ऋणं याचमानाय दातव्यम्,#}</div> Vri. </div><div n="I">II Query:
-<div n="lb"/>{#अनुयोगः।#} </div><div n="I">III Want: {#*ईप्सा,#} <div n="xe">{%horses are in%}
-<div n="lb"/>{%great d. now:%}</div> <div n="xs">{#*इदानीमश्वेप्सा प्रबला।#}</div> </div><div n="I">IV That
-<div n="lb"/>which may be d. ed: {#प्राप्यम्#} (?), {%arrear d.:%}
-<div n="lb"/>{#अवशिष्टप्राप्यम्।#}</div>
+{@DEMAND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#अनुयोगः;#} </div><div n="1">(2)
+{#प्रार्थना#} (=asking). Ph.: <div n="xe">{%a debt should be paid%}
+{%on d.:%}</div> <div n="xs">{#ऋणं याचमानाय दातव्यम्,#}</div> Vri. </div><div n="I">II Query:
+{#अनुयोगः।#} </div><div n="I">III Want: {#*ईप्सा,#} <div n="xe">{%horses are in%}
+{%great d. now:%}</div> <div n="xs">{#*इदानीमश्वेप्सा प्रबला।#}</div> </div><div n="I">IV That
+which may be d. ed: {#प्राप्यम्#} (?), {%arrear d.:%}
+{#अवशिष्टप्राप्यम्।#}</div>
 <LEND>

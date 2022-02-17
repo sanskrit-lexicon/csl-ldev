@@ -1,7 +1,7 @@
 <L>1516<pc>053<k1>bail<k2>bail
-<div n="lb"/>{@BAIL@}¦ (subs.): <div n="I">I {%The person who gives b.:%} </div><div n="1">(1)
-<div n="lb"/>{#प्रतिभूः,#} <div n="xe">{%he who stands a b. to produce a man%}</div> <div n="xs">{#यो #}
-<div n="lb"/>{# यस्य प्रतिभूस्तिष्ठेद्दर्शनायेह मानवः,#}</div> M. viii. 158;</div>
-<div n="lb"/><div n="1">(2) {#लग्नकः।#} </div><div n="I">II Security: {#प्रातिभाव्यम्,#} {%on b.%}
-<div n="lb"/>{#प्रातिभाव्यन।#} <ls>D.</ls> vi.</div>
+{@BAIL@}¦ (subs.): <div n="I">I {%The person who gives b.:%} </div><div n="1">(1)
+{#प्रतिभूः,#} <div n="xe">{%he who stands a b. to produce a man%}</div> <div n="xs">{#यो #}
+{# यस्य प्रतिभूस्तिष्ठेद्दर्शनायेह मानवः,#}</div> M. viii. 158;</div>
+<div n="1">(2) {#लग्नकः।#} </div><div n="I">II Security: {#प्रातिभाव्यम्,#} {%on b.%}
+{#प्रातिभाव्यन।#} <ls>D.</ls> vi.</div>
 <LEND>

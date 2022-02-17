@@ -1,24 +1,24 @@
 <L>19953<pc>365-3<k1>स्थानक<k2>स्थानक
 {#स्थानक#}¦sthāna-ka, {%m. N.%}; {%n.%} attitude ({%in %}
-<>{%shooting etc.%}); {%kind of%} posture; station, rank; 
-<>place, spot: {@-sthānaka,@} {%n. pl. lc.%} in all places, 
-<>everywhere; {@-cintaka@}, {%m.%} quarter-master; 
-<>{@-cyuta@}, {%pp.%} removed from {%one's%} place; {@-tā,@} {%f.%} 
-<>state of being the receptacle of, possession of 
-<>({%g.%}); {@-tyāga,@} {%m.%} abandonment of {%one's%} dwelling-place; <lbinfo n="4"/>
-<> {@-pāla,@} {%m.%} guardian of a place; 
-<>superintendant; {@-bhaṅga,@} {%m.%} ruin {%or%} fall of 
-<>a place; {@-bhraṃśa@}, {%m.%} loss of {%one's%} dwelling; <lbinfo n="4"/>
-<> -- position; {@-bhraṣṭa@}, {%pp.%} removed 
-<>from {%one's%} proper place, displaced; having 
-<>lost {%one's%} position; {@-yoga,@} {%m. pl.%} assignment 
-<>of the proper places ({%for commodities%}); {@-vat,@} 
-<>{%a.%} having local knowledge; {@-sthāna,@} {%n. pl. %}
-<>{%lc.%} in every nook and corner; {@-sthita,@} {%pp.%} 
-<>occupying a {%high%} position; {@-antara,@} {%n.%} another <lbinfo n="2"/>
-<> place; {@-āśraya@}, {%m.%} place on which {%anything%} <lbinfo n="5"/>
-<> stands ({@ska@}-, {%a.%} being in the same 
-<>place); {@-āsana-vihāra-vat,@} {%a.%} occupying the 
-<>abode, the seat, and the recreation ground; 
-<>{@-āsedha,@} {%m.%} local {%or%} personal arrest.
+{%shooting etc.%}); {%kind of%} posture; station, rank; 
+place, spot: {@-sthānaka,@} {%n. pl. lc.%} in all places, 
+everywhere; {@-cintaka@}, {%m.%} quarter-master; 
+{@-cyuta@}, {%pp.%} removed from {%one's%} place; {@-tā,@} {%f.%} 
+state of being the receptacle of, possession of 
+({%g.%}); {@-tyāga,@} {%m.%} abandonment of {%one's%} dwelling-place; <lbinfo n="4"/>
+ {@-pāla,@} {%m.%} guardian of a place; 
+superintendant; {@-bhaṅga,@} {%m.%} ruin {%or%} fall of 
+a place; {@-bhraṃśa@}, {%m.%} loss of {%one's%} dwelling; <lbinfo n="4"/>
+ -- position; {@-bhraṣṭa@}, {%pp.%} removed 
+from {%one's%} proper place, displaced; having 
+lost {%one's%} position; {@-yoga,@} {%m. pl.%} assignment 
+of the proper places ({%for commodities%}); {@-vat,@} 
+{%a.%} having local knowledge; {@-sthāna,@} {%n. pl. %}
+{%lc.%} in every nook and corner; {@-sthita,@} {%pp.%} 
+occupying a {%high%} position; {@-antara,@} {%n.%} another <lbinfo n="2"/>
+ place; {@-āśraya@}, {%m.%} place on which {%anything%} <lbinfo n="5"/>
+ stands ({@ska@}-, {%a.%} being in the same 
+place); {@-āsana-vihāra-vat,@} {%a.%} occupying the 
+abode, the seat, and the recreation ground; 
+{@-āsedha,@} {%m.%} local {%or%} personal arrest.
 <LEND>

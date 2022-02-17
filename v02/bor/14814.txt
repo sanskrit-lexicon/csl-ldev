@@ -1,8 +1,8 @@
 <L>14814<pc>453<k1>mix<k2>mix
-<div n="lb"/>{@MIX@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#मिश्रयति#} ({#मिश्र्,#} c. 10.)
-<div n="lb"/>{#सं-, वि-, व्या-;#} </div><div n="1">(2) by verbs meaning <div n="xe">{%to unite:%}
-<div n="lb"/>{%m.ed with pepper;%}</div> <div n="xs">{#मरिचसंयुतः#}</div> ({#ता, तं#}), Sr.</div>
-<div n="lb"/><div n="I">II Fig.: {#मिश्रयति,#} {%although%} ({%she%}) <div n="xe">{%does not m.%}
-<div n="lb"/>{%words with my words:%}</div> <div n="xs">{#वाचं न मिश्रयति यद्यपि #}
-<div n="lb"/>{# मद्वचोभिः,#}</div> Sa. i. 32.</div>
+{@MIX@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#मिश्रयति#} ({#मिश्र्,#} c. 10.)
+{#सं-, वि-, व्या-;#} </div><div n="1">(2) by verbs meaning <div n="xe">{%to unite:%}
+{%m.ed with pepper;%}</div> <div n="xs">{#मरिचसंयुतः#}</div> ({#ता, तं#}), Sr.</div>
+<div n="I">II Fig.: {#मिश्रयति,#} {%although%} ({%she%}) <div n="xe">{%does not m.%}
+{%words with my words:%}</div> <div n="xs">{#वाचं न मिश्रयति यद्यपि #}
+{# मद्वचोभिः,#}</div> Sa. i. 32.</div>
 <LEND>

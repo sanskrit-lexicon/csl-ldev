@@ -2,19 +2,19 @@
 {#भार्गव/#}¦ 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} {%von%} <is>Bhaṛgu</is> {%stammend, herrührend, ihm gehörend%} {#वंश, गोत्र#} 
 <ls>MBH. 1, 865.</ls> 
-<ls>HARIV. 1597. 1753.</ls> 
+<ls>HARIV. 1597.</ls> <ls n="HARIV.">1753.</ls> 
 <ls>Ind. St. 8, 276.</ls> {#विद्या#} 
 <ls>TAITT. UP. 3, 6.</ls> {#धर्माः#} 
 <ls>Verz. d. Oxf. H. 266,b,18.</ls> {#सामन्#} 
-<ls>Ind. St.3,227,b.</ls> {#भार्गवं नाम#} {%(das Nomen)%} {#इष्यते#} 
+<ls>Ind. St.3,227,b.</ls> {#भार्गवं नाम#} ({%das Nomen%}) {#इष्यते#} 
 <ls>Ind. St. 4, 330.</ls> {#उपपुराण#} 
-<ls>Verz. d. Oxf. H. 8</ls>, {%a%}, 
-<ls>?10. Verz. d. B. H. 127, N. MADHUS. in Ind. St. 1, 18, 21. BURNOUF in der Einl. zu BHĀG. P. I, LXXVII.</ls> patron. (der pl. {#भृगवः)#} 
+<ls>Verz. d. Oxf. H. 8,a,</ls> 
+<ls>10.</ls> <ls>Verz. d. B. H. 127, N.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 21.</ls> <ls>BURNOUF</ls> in der Einl. zu <ls>BHĀG. P. I, LXXVII.</ls> patron. (der pl. {#भृगवः)#} 
 <ls>P. 2, 4, 65.</ls> 
 <ls>VOP. 7, 14.</ls> <is>Cyavana</is> 
 <ls>AIT. BR. 8, 21.</ls> 
 <ls>ŚAT. BR. 4, 1, 5, 1.</ls> 
-<ls>MBH. 1, 870. 1928. 13, 207.</ls> 
+<ls>MBH. 1, 870.</ls> <ls n="MBH. 1,">1928.</ls> <ls n="MBH.">13, 207.</ls> 
 <ls>R. 1. 70, 31. 2, 110, 19. fg. (119, 19 GORR.).</ls> <is>Gṛtsamada</is> 
 <ls>ŚĀṄKH. BR. 22, 4.</ls> <is>Dvigat</is> 
 <ls>PAÑCAV. BR. 14, 9, 32.</ls> <is>Dṛśāna</is> 
@@ -26,22 +26,22 @@
 <ls>TRIK. 3, 3, 302. 418.</ls> 
 <ls>H. 848.</ls> 
 <ls>an. 3, 707.</ls> 
-<ls>MED. v. 45.</ls> <ls>MBH. 5, 7012. 7022. 7308.</ls> <ls>R. 1, 74, 17.</ls> <ls>Spr. 323.</ls> <ls>RAGH. 11, 46.</ls> <ls>Verz. d. Oxf. H. 59</ls>, {%a%}, 30. <is>Pramati</is> 
-<ls>MĀRK. P. 110, 35.</ls> - <ls>ĀŚV. ŚR. 12, 10.</ls> <ls>Ind. St. 7, 467</ls> u. d. W. <ls>KĀTY. ŚR. 15, 4, 1.</ls> <ls>PAÑCAV. BR. 14, 3, 23. 9, 19. 39.</ls> <ls>PRAŚNOP. 1, 1.</ls> <ls>HARIV. 1597. 1741. 1753.</ls> <ls>R.</ls> in <ls>Verz. d. B. H. 121</ls>
+<ls>MED. v. 45.</ls> <ls>MBH. 5, 7012.</ls> <ls n="MBH. 5,">7022.</ls> <ls n="MBH. 5,">7308.</ls> <ls>R. 1, 74, 17.</ls> <ls>Spr. 323.</ls> <ls>RAGH. 11, 46.</ls> <ls>Verz. d. Oxf. H. 59,a,30.</ls> <is>Pramati</is> 
+<ls>MĀRK. P. 110, 35.</ls> - <ls>ĀŚV. ŚR. 12, 10.</ls> <ls>Ind. St. 7, 467</ls> u. d. W. <ls>KĀTY. ŚR. 15, 4, 1.</ls> <ls>PAÑCAV. BR. 14, 3, 23. 9, 19. 39.</ls> <ls>PRAŚNOP. 1, 1.</ls> <ls>HARIV. 1597.</ls> <ls n="HARIV.">1741.</ls> <ls n="HARIV.">1753.</ls> <ls>R.</ls> in <ls>Verz. d. B. H. 121</ls>
 [Page5-0255]
 (st. {#भार्गवो धीमान्#} liest die ed. Bomb. {#प्रचेतसः पुत्रः)#} . 
 <ls>Spr. 2292.</ls> 
-<ls>Verz. d. B. H. 54,3 v. u. 55,1. 90 (21). 93 (54).</ls> <ls>Verz. d. Oxf. H. 32,a,23.b,7. 80,a,15. 101.b,17. 310,a,24. 138,a</ls> <ls>?(No. 270). 279,a,3. 351.a,25.</ls> {#गोवर्धनं पुरं रम्यं भार्गवस्य#} 
+<ls>Verz. d. B. H. 54,3</ls> v. u. <ls>55,1. 90 (21). 93 (54).</ls> <ls>Verz. d. Oxf. H. 32,a,23.b,7. 80,a,15. 101.b,17. 310,a,24. 138,a</ls> (<ls>No. 270). 279,a,3. 351.a,25.</ls> {#गोवर्धनं पुरं रम्यं भार्गवस्य#} 
 <ls>MĀRK. P. 57, 35.</ls> 
 <ls>DAŚAK. 162, 11.</ls> Inschr. in Journ. of the Am. Or. 
-<ls>?S. 6, 508, Śl. 12. Bein. <is>Śiva's</is> MBH. 7, 9527. 14, 200.</ls> 
+<ls>S. 6, 508, Śl. 12.</ls> Bein. <is>Śiva's</is> <ls>MBH. 7, 9527.</ls> <ls n="MBH.">14, 200.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) patron. <is>Śukra's</is>, des Lehrers der <is>Daitya</is>, {%der Planet Venus%}, 
 <ls>AK.1,1,2,26.</ls> <ls>TRIK.3,3,418.</ls> <ls>H. 119.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY.1,48.</ls> <ls>R.</ls> <ls>GORR.2,40,10.5,73,53.</ls> <ls>KĀM. NĪTIS. 14,63.</ls> <ls>SŪRYAS.2,8. 56.7,23.9,3.</ls> <ls>VARĀH. BṚH. S. 18,5. 28,1.</ls> <ls>Verz. d. Oxf. H. 100,a,8.</ls> 
 <div n="2">— b) pl. {%die Nachkommen des%} <is>Bhṛgu</is> (die sonst {#भृगवः#} heissen) 
 <ls>HARIV. 1790.</ls> {#भार्गवश्रेष्ठ#} 
 <ls>MBH. 5, 6048.</ls> N. eines Volksstammes 
-<ls>MBH. 6, 358</ls> <ls>?(VP. 190). MĀRK. P. 57, 43.</ls> 
+<ls>MBH. 6, 358</ls> (<ls>VP. 190).</ls> <ls>MĀRK. P. 57, 43.</ls> 
 <div n="2">— c) {%ein Bogenschütze, ein guter Bogenschütze%} (wie es <is>Paraśurāma</is> war) = {#धन्विन्#} und {#सुधन्वन्#} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> Man beachte, dass 
 <ls>MBH. 7, 9527</ls> und <ls>14, 200</ls> vor {#भार्गवाय#} (als Namen von <is>Śiva</is>) {#धन्विने#} steht. 

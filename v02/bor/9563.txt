@@ -1,4 +1,4 @@
 <L>9563<pc>303<k1>furbisher<k2>furbisher
-<div n="lb"/>{@FURBISHER:@}¦ <div n="1">(1) {#प्रमार्जकः;#} </div><div n="1">(2) {#धावकः#} <div n="xe">{%F. of%}
-<div n="lb"/>{%weapons:%}</div> <div n="xs">{#अस्त्रमार्जः।#}</div></div>
+{@FURBISHER:@}¦ <div n="1">(1) {#प्रमार्जकः;#} </div><div n="1">(2) {#धावकः#} <div n="xe">{%F. of%}
+{%weapons:%}</div> <div n="xs">{#अस्त्रमार्जः।#}</div></div>
 <LEND>

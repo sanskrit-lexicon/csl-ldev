@@ -1,4 +1,4 @@
 <L>8619<pc>273<k1>fenny<k2>fenny
-<div n="lb"/>{@FENNY:@}¦ <div n="1">(1) {#अनूपः#} ({#पा, पं#}), <div n="xe">{%f. land:%}</div> <div n="xs">{#अनूपभूमिः;#}</div></div>
-<div n="lb"/><div n="1">(2) {#पङ्किलः#} ({#ला, लं#}) (= muddy).</div>
+{@FENNY:@}¦ <div n="1">(1) {#अनूपः#} ({#पा, पं#}), <div n="xe">{%f. land:%}</div> <div n="xs">{#अनूपभूमिः;#}</div></div>
+<div n="1">(2) {#पङ्किलः#} ({#ला, लं#}) (= muddy).</div>
 <LEND>

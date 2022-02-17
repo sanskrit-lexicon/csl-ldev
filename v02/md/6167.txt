@@ -1,9 +1,9 @@
 <L>6167<pc>072-1<k1>कूप<k2>कूप
 {#कूप#}¦kū́pa, {%m.%} [ku ap-a], pit, hole; well: {@-ka,@} 
-<>{%m.%} little well; {@-kāra,@} {%m.%} well-digger; {@-kūr-@}
-<>{@-ma,@} {%m.%} tortoise in a well = {%unsophisticated %}
-<>{%person%}; {@-khanana,@} {%n.%} digging of a well; 
-<>{@-khānaka,@} {%m.%} well-digger; {@-cakra@}, {%n.%} water-wheel; <lbinfo n="5"/>
-<> {@-dardura,@} {%m.%} frog in well={%unsophisticated %}<lbinfo n="15"/>
-<>{% person%}; {@-yantra,@} {%n.%} water-wheel.
+{%m.%} little well; {@-kāra,@} {%m.%} well-digger; {@-kūr-@}
+{@-ma,@} {%m.%} tortoise in a well = {%unsophisticated %}
+{%person%}; {@-khanana,@} {%n.%} digging of a well; 
+{@-khānaka,@} {%m.%} well-digger; {@-cakra@}, {%n.%} water-wheel; <lbinfo n="5"/>
+ {@-dardura,@} {%m.%} frog in well={%unsophisticated %}<lbinfo n="15"/>
+{% person%}; {@-yantra,@} {%n.%} water-wheel.
 <LEND>

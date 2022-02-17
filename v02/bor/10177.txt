@@ -1,4 +1,4 @@
 <L>10177<pc>321<k1>granary<k2>granary
-<div n="lb"/>{@GRANARY:@}¦ <div n="1">(1) {#कुशूलः;#} </div><div n="1">(2) {#धान्यकोष्ठः, -कः;#} </div><div n="1">(3) {#मरारः#}
-<div n="lb"/>(rare).</div>
+{@GRANARY:@}¦ <div n="1">(1) {#कुशूलः;#} </div><div n="1">(2) {#धान्यकोष्ठः, -कः;#} </div><div n="1">(3) {#मरारः#}
+(rare).</div>
 <LEND>

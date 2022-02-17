@@ -1,5 +1,5 @@
 <L>4862<pc>157<k1>cough<k2>cough
-<div n="lb"/>{@COUGH@}¦ (subs.): {#कासः#} <div n="xe">{%or%}</div> <div n="xs">{#काशः,#}</div> <div n="xe">{%dry c.:%}</div> <div n="xs">{#शुष्ककासः#}</div>
-<div n="lb"/>(after Sr.); <div n="xe">{%suffering from c.:%}</div> <div n="xs">{#काशिन्#}</div> (f. {#नी#}),
-<div n="lb"/>Sr.
+{@COUGH@}¦ (subs.): {#कासः#} <div n="xe">{%or%}</div> <div n="xs">{#काशः,#}</div> <div n="xe">{%dry c.:%}</div> <div n="xs">{#शुष्ककासः#}</div>
+(after Sr.); <div n="xe">{%suffering from c.:%}</div> <div n="xs">{#काशिन्#}</div> (f. {#नी#}),
+Sr.
 <LEND>

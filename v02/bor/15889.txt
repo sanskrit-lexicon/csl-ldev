@@ -1,16 +1,16 @@
 <L>15889<pc>488<k1>open<k2>open
-<div n="lb"/>{@OPEN@}¦ (adj.): <div n="I">I Unclosed: </div><div n="1">(1) {#विवृतः, अनावृतः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#अपावृतः#}</div> ({#ता, तं#}); </div><div n="1">(2) {#उद्घाटितः#} ({#ता, तं#});</div>
-<div n="lb"/><div n="1">(3) {#उन्मीलितः#} ({#ता, तं#}); </div><div n="1">(4) {#व्यात्त#} (f. {#त्ता#}); </div><div n="1">(5)
-<div n="lb"/>{#उन्मुक्त#} (f. {#क्ता#}); </div><div n="1">(6) {#प्रसारितः#} ({#ता, तं#}), <div n="xe">{%with o.%}
-<div n="lb"/>{%arms:%}</div> <div n="xs">{#प्रसारितभुजाभ्याम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-भुजैः#}</div> (for many): for
-<div n="lb"/>dif.: v. To open. </div><div n="I">II Frank, artless: q.v.:
-<div n="lb"/>{#विवृतः#} ({#ता, तं#}), <div n="xe">{%to lay o.:%}</div> <div n="xs">{#विवृणोति,#}</div> Ki. xiv. 12.</div>
-<div n="lb"/><div n="I">III Public, exposed: {#प्रकाशः#} ({#शा, शं#}), {%what !%}
-<div n="lb"/>{%I have come out into o.%} ({%field%}): {#कथं, प्रकाशं निर्ग-#}
-<div n="lb"/>{#तोऽस्मि,#} Sa. iii.; <div n="xe">{%made woods o.:%}</div> <div n="xs">{#विपिनानि प्रका-#}</div> [Page489]
-<div n="lb"/>-{#शानि चकार,#} R. iv. 31.: v. Also clear. </div><div n="I">IV
-<div n="lb"/>Fig., accessible: <div n="xe">{%the post is o. to all:%}</div> <div n="xs">{#सर्वेषु #}
-<div n="lb"/>{# मुक्तं पदम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#सर्वैरासाद्यं कर्म#}</div>.: v. Not settled: {#न #}
-<div n="lb"/>{# निर्णीतः#} ({#ता, तं#}), etc.: v. To decide.</div>
+{@OPEN@}¦ (adj.): <div n="I">I Unclosed: </div><div n="1">(1) {#विवृतः, अनावृतः#}
+<div n="xe">{%or%}</div> <div n="xs">{#अपावृतः#}</div> ({#ता, तं#}); </div><div n="1">(2) {#उद्घाटितः#} ({#ता, तं#});</div>
+<div n="1">(3) {#उन्मीलितः#} ({#ता, तं#}); </div><div n="1">(4) {#व्यात्त#} (f. {#त्ता#}); </div><div n="1">(5)
+{#उन्मुक्त#} (f. {#क्ता#}); </div><div n="1">(6) {#प्रसारितः#} ({#ता, तं#}), <div n="xe">{%with o.%}
+{%arms:%}</div> <div n="xs">{#प्रसारितभुजाभ्याम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-भुजैः#}</div> (for many): for
+dif.: v. To open. </div><div n="I">II Frank, artless: q.v.:
+{#विवृतः#} ({#ता, तं#}), <div n="xe">{%to lay o.:%}</div> <div n="xs">{#विवृणोति,#}</div> Ki. xiv. 12.</div>
+<div n="I">III Public, exposed: {#प्रकाशः#} ({#शा, शं#}), {%what !%}
+{%I have come out into o.%} ({%field%}): {#कथं, प्रकाशं निर्ग-#}
+{#तोऽस्मि,#} Sa. iii.; <div n="xe">{%made woods o.:%}</div> <div n="xs">{#विपिनानि प्रका-#}</div> [Page489]
+-{#शानि चकार,#} R. iv. 31.: v. Also clear. </div><div n="I">IV
+Fig., accessible: <div n="xe">{%the post is o. to all:%}</div> <div n="xs">{#सर्वेषु #}
+{# मुक्तं पदम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#सर्वैरासाद्यं कर्म#}</div>.: v. Not settled: {#न #}
+{# निर्णीतः#} ({#ता, तं#}), etc.: v. To decide.</div>
 <LEND>

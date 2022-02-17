@@ -1,4 +1,4 @@
 <L>18479<pc>568<k1>race-course<k2>race-course
-<div n="lb"/>{@RACE-COURSE:@}¦ <div n="1">(1) {#रङ्गभूमिः#} (gen. term); </div><div n="1">(2)
-<div n="lb"/>perh. {#वीथिः,#} Si. v. 60.; </div><div n="1">(3) {#चर्याभूमिः।#}</div>
+{@RACE-COURSE:@}¦ <div n="1">(1) {#रङ्गभूमिः#} (gen. term); </div><div n="1">(2)
+perh. {#वीथिः,#} Si. v. 60.; </div><div n="1">(3) {#चर्याभूमिः।#}</div>
 <LEND>

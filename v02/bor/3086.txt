@@ -1,8 +1,8 @@
 <L>3086<pc>104<k1>careless<k2>careless
-<div n="lb"/>{@CARELESS:@}¦ <div n="I">I Inattentive, neglectful: q. v.:
-<div n="lb"/>{#प्रमत्तः#} ({#त्ता, त्तं#}). <div n="xe">{%To be c. of:%}</div> <div n="xs">{#न चिन्तयति#}</div> ({#चिन्त्,#}
-<div n="lb"/>c. 10) <div n="xe">{%or%}</div> <div n="xs">{#विमावयति#}</div> (c. of {#भू#}) (with acc.), <div n="xe">{%is%}
-<div n="lb"/>{%c. even of herself%}</div> <div n="xs">{#आत्मानमपि न विभावयति।#}</div> </div><div n="I">II
-<div n="lb"/>Said or done without care: {#प्रमत्त-#} in comp.</div>
-<div n="lb"/><div n="I">III Free from care: {#निश्चिन्तः#} ({#न्ता, न्तं#}).</div>
+{@CARELESS:@}¦ <div n="I">I Inattentive, neglectful: q. v.:
+{#प्रमत्तः#} ({#त्ता, त्तं#}). <div n="xe">{%To be c. of:%}</div> <div n="xs">{#न चिन्तयति#}</div> ({#चिन्त्,#}
+c. 10) <div n="xe">{%or%}</div> <div n="xs">{#विमावयति#}</div> (c. of {#भू#}) (with acc.), <div n="xe">{%is%}
+{%c. even of herself%}</div> <div n="xs">{#आत्मानमपि न विभावयति।#}</div> </div><div n="I">II
+Said or done without care: {#प्रमत्त-#} in comp.</div>
+<div n="I">III Free from care: {#निश्चिन्तः#} ({#न्ता, न्तं#}).</div>
 <LEND>

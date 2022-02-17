@@ -1,6 +1,6 @@
 <L>15558<pc>477<k1>notwithstanding<k2>notwithstanding
-<div n="lb"/>{@NOTWITHSTANDING:@}¦ <div n="I">I As conj.: {#तथापि।#} </div><div n="I">II
-<div n="lb"/>As prep.: by gen. or loc., <div n="xe">{%n. Bala:%}</div> <div n="xs">{#पश्यतो #}
-<div n="lb"/>{# बलस्य;#}</div> <div n="xe">{%her cries n.:%}</div> <div n="xs">{#रूदत्यास्तस्याः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#रूदत्यामपि #}
-<div n="lb"/>{# तस्याम्;#}</div> <div n="xe">{%n. my advice:%}</div> <div n="xs">{#ममोपदेशमनादृत्य:#}</div> v. Despite.</div>
+{@NOTWITHSTANDING:@}¦ <div n="I">I As conj.: {#तथापि।#} </div><div n="I">II
+As prep.: by gen. or loc., <div n="xe">{%n. Bala:%}</div> <div n="xs">{#पश्यतो #}
+{# बलस्य;#}</div> <div n="xe">{%her cries n.:%}</div> <div n="xs">{#रूदत्यास्तस्याः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#रूदत्यामपि #}
+{# तस्याम्;#}</div> <div n="xe">{%n. my advice:%}</div> <div n="xs">{#ममोपदेशमनादृत्य:#}</div> v. Despite.</div>
 <LEND>

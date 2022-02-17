@@ -1,5 +1,5 @@
 <L>11009<pc>346<k1>hindoo<k2>hindoo
-<div n="lb"/>{@HINDOO:@}¦ <div n="I">I As subs.: {#आर्यः।#} </div><div n="I">II As adj.:
-<div n="lb"/>by comp. or gen., <div n="xe">{%for H. student:%}</div> <div n="xs">{#छात्राणामार्य-#}
-<div n="lb"/>{#देशयानाम्,#}</div> Raj. vi. 8. 7.</div>
+{@HINDOO:@}¦ <div n="I">I As subs.: {#आर्यः।#} </div><div n="I">II As adj.:
+by comp. or gen., <div n="xe">{%for H. student:%}</div> <div n="xs">{#छात्राणामार्य-#}
+{#देशयानाम्,#}</div> Raj. vi. 8. 7.</div>
 <LEND>

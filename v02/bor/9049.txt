@@ -1,4 +1,4 @@
 <L>9049<pc>286<k1>fluter<k2>fluter
-<div n="lb"/>{@FLUTER,@}¦ {@FLUTIST:@} <div n="1">(1) {#वेणुध्मः;#} </div><div n="1">(2) {#वांशिकः;#}</div>
-<div n="lb"/><div n="1">(3) {#वंशीधरः।#}</div>
+{@FLUTER,@}¦ {@FLUTIST:@} <div n="1">(1) {#वेणुध्मः;#} </div><div n="1">(2) {#वांशिकः;#}</div>
+<div n="1">(3) {#वंशीधरः।#}</div>
 <LEND>

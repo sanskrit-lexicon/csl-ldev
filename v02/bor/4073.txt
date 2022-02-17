@@ -1,6 +1,6 @@
 <L>4073<pc>132<k1>come into<k2>come into
-<div n="lb"/>{@COME INTO:@}¦ v. To agree, comply. Ph.: <div n="xe">{%c.%}
-<div n="lb"/>{%into vogue:%}</div> <div n="xs">{#प्रचलितः#}</div> ({#ता, तं#}) {#भवति#} ({#भू,#} c. l);
-<div n="lb"/><div n="xe">{%then they will c. into my power:%}</div> <div n="xs">{#वशमेष्यन्ति मे #}
-<div n="lb"/>{# तदा,#}</div> H. i.
+{@COME INTO:@}¦ v. To agree, comply. Ph.: <div n="xe">{%c.%}
+{%into vogue:%}</div> <div n="xs">{#प्रचलितः#}</div> ({#ता, तं#}) {#भवति#} ({#भू,#} c. l);
+<div n="xe">{%then they will c. into my power:%}</div> <div n="xs">{#वशमेष्यन्ति मे #}
+{# तदा,#}</div> H. i.
 <LEND>

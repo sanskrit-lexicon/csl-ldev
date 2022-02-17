@@ -1,19 +1,19 @@
 <L>6671<pc>213<k1>divide<k2>divide
-<div n="lb"/>{@DIVIDE@}¦ (v. t.): <div n="I">I To apportion: </div><div n="1">(1) {#भजति#}
-<div n="lb"/>(commonly) {#वि-, प्रवि-, सं-,#} ({#भज्,#} c. 1.),
-<div n="lb"/><div n="xe">{%after the demise of the father, the sons should d.%}
-<div n="lb"/>{%his property:%}</div> <div n="xs">{#पितर्यूर्द्धं गते पुत्रा विभजेयुर्धनं पितुः,#}</div> N.
-<div n="lb"/>s.; <div n="xe">{%d. d among the two wives:%}</div> <div n="xs">{#पत्न्योर्विभेजे,#}</div> <ls>R.</ls>
-<div n="lb"/>x. 54.; </div><div n="1">(2) {#वण्टयति#} ({#वण्ट्,#} c. 10.), <div n="xe">{%the rest%}
-<div n="lb"/>{%should be d. d:%}</div> <div n="xs">{#शेषं वण्टनीयम्,#}</div> Viv. </div><div n="I">II In
-<div n="lb"/>arith: </div><div n="1">(1) {#भजति, वि-,#} {%d. ing%} ({%we%}) <div n="xe">{%get the quo-%}
-<div n="lb"/>{%tient:%}</div> <div n="xs">{#भजनाल्लब्धो गुण्यः,#}</div> Li.; </div><div n="1">(2) {#हरति#} ({#हृ,#} c. 1.)
-<div n="lb"/><div n="xe">{%d. d by the remainder:%}</div> <div n="xs">{#शेषैर्हृतः#}</div> ({#ता, तं#}), Li.</div>
-<div n="lb"/><div n="I">III To sever, separate, cut into pieces:
-<div n="lb"/>q. v.: {#विभजति,#} <div n="xe">{%as the Meru was not d. d and%}
-<div n="lb"/>{%made over to the beggars:%}</div> <div n="xs">{#विभज्य मेरुर्न यदर्थिसात्कृतः,#}</div>
-<div n="lb"/>N. <div n="xe">{%To d. into two:%}</div> <div n="xs">{#द्विधाकरोति;#}</div> <div n="xe">{%into three%}
-<div n="lb"/>{%parts:%}</div> <div n="xs">{#त्रिधाकरोति,#}</div> Ve. </div><div n="I">IV In opinion or
-<div n="lb"/>interest: Ph.: ({%they are%}) <div n="xe">{%neither combined nor%}
-<div n="lb"/>{%d. d:%}</div> <div n="xs">{#न संहता न भिन्नवृत्तयः,#}</div> Ki. i. 19.</div>
+{@DIVIDE@}¦ (v. t.): <div n="I">I To apportion: </div><div n="1">(1) {#भजति#}
+(commonly) {#वि-, प्रवि-, सं-,#} ({#भज्,#} c. 1.),
+<div n="xe">{%after the demise of the father, the sons should d.%}
+{%his property:%}</div> <div n="xs">{#पितर्यूर्द्धं गते पुत्रा विभजेयुर्धनं पितुः,#}</div> N.
+s.; <div n="xe">{%d. d among the two wives:%}</div> <div n="xs">{#पत्न्योर्विभेजे,#}</div> <ls>R.</ls>
+x. 54.; </div><div n="1">(2) {#वण्टयति#} ({#वण्ट्,#} c. 10.), <div n="xe">{%the rest%}
+{%should be d. d:%}</div> <div n="xs">{#शेषं वण्टनीयम्,#}</div> Viv. </div><div n="I">II In
+arith: </div><div n="1">(1) {#भजति, वि-,#} {%d. ing%} ({%we%}) <div n="xe">{%get the quo-%}
+{%tient:%}</div> <div n="xs">{#भजनाल्लब्धो गुण्यः,#}</div> Li.; </div><div n="1">(2) {#हरति#} ({#हृ,#} c. 1.)
+<div n="xe">{%d. d by the remainder:%}</div> <div n="xs">{#शेषैर्हृतः#}</div> ({#ता, तं#}), Li.</div>
+<div n="I">III To sever, separate, cut into pieces:
+q. v.: {#विभजति,#} <div n="xe">{%as the Meru was not d. d and%}
+{%made over to the beggars:%}</div> <div n="xs">{#विभज्य मेरुर्न यदर्थिसात्कृतः,#}</div>
+N. <div n="xe">{%To d. into two:%}</div> <div n="xs">{#द्विधाकरोति;#}</div> <div n="xe">{%into three%}
+{%parts:%}</div> <div n="xs">{#त्रिधाकरोति,#}</div> Ve. </div><div n="I">IV In opinion or
+interest: Ph.: ({%they are%}) <div n="xe">{%neither combined nor%}
+{%d. d:%}</div> <div n="xs">{#न संहता न भिन्नवृत्तयः,#}</div> Ki. i. 19.</div>
 <LEND>

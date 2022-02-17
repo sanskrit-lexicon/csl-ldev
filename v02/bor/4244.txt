@@ -1,8 +1,8 @@
 <L>4244<pc>138<k1>composition<k2>composition
-<div n="lb"/>{@COMPOSITION:@}¦ <div n="I">I Of books etc.: </div><div n="1">(1) {#रचना, #}
-<div n="lb"/>{# वि-#}; </div><div n="1">(2) {#प्रणयनम्।#} </div><div n="I">II A book etc. composed:
-<div n="lb"/>expr. by verb, {%this poem is Kālidās's c.:%}
-<div n="lb"/>{#काव्यमिदं कालिदासेन प्रणीतम्:#} v. Work. </div><div n="I">III
-<div n="lb"/>Combinatin: q. v. </div><div n="I">IV Adjustment of an
-<div n="lb"/>obligation: Perh: {#निस्तारः।#}</div>
+{@COMPOSITION:@}¦ <div n="I">I Of books etc.: </div><div n="1">(1) {#रचना, #}
+{# वि-#}; </div><div n="1">(2) {#प्रणयनम्।#} </div><div n="I">II A book etc. composed:
+expr. by verb, {%this poem is Kālidās's c.:%}
+{#काव्यमिदं कालिदासेन प्रणीतम्:#} v. Work. </div><div n="I">III
+Combinatin: q. v. </div><div n="I">IV Adjustment of an
+obligation: Perh: {#निस्तारः।#}</div>
 <LEND>

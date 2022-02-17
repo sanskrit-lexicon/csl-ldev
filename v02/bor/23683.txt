@@ -1,7 +1,7 @@
 <L>23683<pc>742<k1>value<k2>value
-<div n="lb"/>{@VALUE@}¦ (v.): <div n="I">I Lit.: {#मूल्यं#} <div n="xe">{%or%}</div> <div n="xs">{#अर्घं निरूपयति#}</div> ({#रूप्,#}
-<div n="lb"/>c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#स्थापयति, सं-#}</div> (c. of {#स्था#}). </div><div n="I">II
-<div n="lb"/>Estimate: q. v.: </div><div n="1">(1) {#मन्यते#} ({#मन्,#} c. 4.), <div n="xe">{%to%}
-<div n="lb"/>{%v. much:%}</div> <div n="xs">{#बहु मन्यते,#}</div> An.; </div><div n="1">(2) {#आकलयति#} ({#कल्,#}
-<div n="lb"/>c. 10.): v. To consider.</div>
+{@VALUE@}¦ (v.): <div n="I">I Lit.: {#मूल्यं#} <div n="xe">{%or%}</div> <div n="xs">{#अर्घं निरूपयति#}</div> ({#रूप्,#}
+c. 10.) <div n="xe">{%or%}</div> <div n="xs">{#स्थापयति, सं-#}</div> (c. of {#स्था#}). </div><div n="I">II
+Estimate: q. v.: </div><div n="1">(1) {#मन्यते#} ({#मन्,#} c. 4.), <div n="xe">{%to%}
+{%v. much:%}</div> <div n="xs">{#बहु मन्यते,#}</div> An.; </div><div n="1">(2) {#आकलयति#} ({#कल्,#}
+c. 10.): v. To consider.</div>
 <LEND>

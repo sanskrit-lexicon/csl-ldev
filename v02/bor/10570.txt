@@ -1,39 +1,39 @@
 <L>10570<pc>332<k1>hand<k2>hand
-<div n="lb"/>{@HAND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#हस्तः,#} <div n="xe">{%taking%}
-<div n="lb"/>{%each other's h.:%}</div> <div n="xs">{#अन्योन्यहस्तग्राहम्,#}</div> Vi. v.; {%h. to h.:%}
-<div n="lb"/>{#हस्ताहस्ति;#} <div n="xe">{%this kingdom has fallen into the h. s%}
-<div n="lb"/>{%of the king of Ashmaka:%}</div> <div n="xs">{#अस्मकेन्द्रस्य हस्ते राज्यमिदं #}
-<div n="lb"/>{# पतितम्,#}</div> D. viii.; {%they touch each other's h.%}
-<div n="lb"/>(= English shaking of h. s): {#अन्योऽन्यं हस्तं #}
-<div n="lb"/>{# स्पृशतः,#} V. i.; <div n="xe">{%who has earned the title of hero%}
-<div n="lb"/>{%with his own h.:%}</div> <div n="xs">{#स्वहस्तार्जितवीरशब्दः,#}</div> R. ii. 64.;
-<div n="lb"/>{%Chandragupta is now under%} ({%my%}) <div n="xe">{%h.:%}</div> <div n="xs">{#हस्ततलगतः #}
-<div n="lb"/>{# सम्प्रति चन्द्रगुप्तः,#}</div> Mu.; </div><div n="1">(3) {#करः,#} {%taking%} ({%her%}) {%by%}
-<div n="lb"/>{%the h.:%} [{#तां#}] {#आददानः करेण,#} Ku. vii. 94.; {%carrying%}
-<div n="lb"/>{%on one h...., on the other....%} {#एकेन॥। #}
-<div n="lb"/>{# अपरेण #} {#॥॥करेण कलयन्तम्,#} K.; {%right h.:%} {#दक्षिणः#} {%or%}
-<div n="lb"/>{#वामेतरः#} (= other than left) {#करः,#} R. ii. 31.;</div>
-<div n="lb"/><div n="1">(3) {#पाणिः,#} <div n="xe">{%with a club in h.:%}</div> <div n="xs">{#दण्डपाणि#}</div> (mfn.);
-<div n="lb"/>{%pressing of h. s%} (i.e. marriage): {#पाणिपीडनम्,#} Ku.;
-<div n="lb"/>{%this arm is stretched, take%} ({%my%}) {%h. with%} ({%your%})
-<div n="lb"/>{%h.%} ({%in friendship%}): {#गृह्यतां पाणिना पार्ण्बिहुरेष प्रसारितः,#}
-<div n="lb"/>Ram. iv. 4. 13. Ph.: </div><div n="1">(1) {%to join the h. s:%}
-<div n="lb"/>{#हस्तौ समानयति,#} R. ii. 64. or gen. {#अञ्जलिर्बघ्नाति,#}
-<div n="lb"/>M. n.; (b) {%fore h.:%} {#अग्रहस्तः,#} Ku. v. 63.; (c)
-<div n="lb"/>{%on the one.....on the other:%} {#एकतः॥॥॥एकतः#} {%or%}
-<div n="lb"/>{#अन्यतः,#} K.; (d) {%of on the other h.....%} {#अथ यदि #}
-<div n="lb"/>{#॥॥।,#} K.; (e) {%on all h. s.:%} {#सर्वथा,#} K.; (f) {%at h.:%}
-<div n="lb"/>{#प्रत्यासन्नः#} ({#न्ना, न्नं#}), {%The time for going home is at%}
-<div n="lb"/>{%h.:%} {#प्रत्यासीदति गृहगमनकालः,#} K.: v. Near; (g) {%in%}
-<div n="lb"/>{%h.:%} </div><div n="1">(1) lit. {#हस्ते,#} etc.; </div><div n="1">(2) fig. {#हस्तस्थ#} (f. {#स्था#}),
-<div n="lb"/>{#हस्तगतः#} ({#ता, तं#}), etc.; (h) <div n="xe">{%from h. to h.:%}</div> <div n="xs">{#हस्ताद्धस्तम्#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#-द्धस्तान्तरम्;#}</div> (i) {%h. in h.:%} </div><div n="1">(1) =unitedly: q.v.:
-<div n="lb"/>{#हस्ताहस्ति;#} </div><div n="1">(2) =fit: q.v.; (j) {%to lend a h.:%}
-<div n="lb"/>{#हस्तं ददातिः#} v. To help; (k) {%off h.; out of h.:%}
-<div n="lb"/>{#त्वरितम्:#} </div><div n="1">(1) <div n="xe">{%to live from h. to mouth:%}</div> <div n="xs">{#यदर्जयति #}
-<div n="lb"/>{# तदुदरपूरणायैव भवति#}</div> </div><div n="I">II Handwriting: {#हस्तः,#}
-<div n="lb"/><div n="xe">{%under his own h.:%}</div> <div n="xs">{#स्वहस्तपरिचिह्नतिः#}</div> ({#ता, तं#}), Y.
-<div n="lb"/>Ph.: <div n="xe">{%he writes a good h.:%}</div> <div n="xs">{#शोभनं हस्तलिखितं तस्य।#}</div></div>
-<div n="lb"/><div n="I">III Of a clock: {#प्रदर्शनी#} (?), <div n="xe">{%hour -h.:%}</div> <div n="xs">{#*घटिका-#}
-<div n="lb"/>{#प्रदर्शनीः#}</div> v. Gnomon.</div>
+{@HAND@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#हस्तः,#} <div n="xe">{%taking%}
+{%each other's h.:%}</div> <div n="xs">{#अन्योन्यहस्तग्राहम्,#}</div> Vi. v.; {%h. to h.:%}
+{#हस्ताहस्ति;#} <div n="xe">{%this kingdom has fallen into the h. s%}
+{%of the king of Ashmaka:%}</div> <div n="xs">{#अस्मकेन्द्रस्य हस्ते राज्यमिदं #}
+{# पतितम्,#}</div> D. viii.; {%they touch each other's h.%}
+(= English shaking of h. s): {#अन्योऽन्यं हस्तं #}
+{# स्पृशतः,#} V. i.; <div n="xe">{%who has earned the title of hero%}
+{%with his own h.:%}</div> <div n="xs">{#स्वहस्तार्जितवीरशब्दः,#}</div> R. ii. 64.;
+{%Chandragupta is now under%} ({%my%}) <div n="xe">{%h.:%}</div> <div n="xs">{#हस्ततलगतः #}
+{# सम्प्रति चन्द्रगुप्तः,#}</div> Mu.; </div><div n="1">(3) {#करः,#} {%taking%} ({%her%}) {%by%}
+{%the h.:%} [{#तां#}] {#आददानः करेण,#} Ku. vii. 94.; {%carrying%}
+{%on one h...., on the other....%} {#एकेन॥। #}
+{# अपरेण #} {#॥॥करेण कलयन्तम्,#} K.; {%right h.:%} {#दक्षिणः#} {%or%}
+{#वामेतरः#} (= other than left) {#करः,#} R. ii. 31.;</div>
+<div n="1">(3) {#पाणिः,#} <div n="xe">{%with a club in h.:%}</div> <div n="xs">{#दण्डपाणि#}</div> (mfn.);
+{%pressing of h. s%} (i.e. marriage): {#पाणिपीडनम्,#} Ku.;
+{%this arm is stretched, take%} ({%my%}) {%h. with%} ({%your%})
+{%h.%} ({%in friendship%}): {#गृह्यतां पाणिना पार्ण्बिहुरेष प्रसारितः,#}
+Ram. iv. 4. 13. Ph.: </div><div n="1">(1) {%to join the h. s:%}
+{#हस्तौ समानयति,#} R. ii. 64. or gen. {#अञ्जलिर्बघ्नाति,#}
+M. n.; (b) {%fore h.:%} {#अग्रहस्तः,#} Ku. v. 63.; (c)
+{%on the one.....on the other:%} {#एकतः॥॥॥एकतः#} {%or%}
+{#अन्यतः,#} K.; (d) {%of on the other h.....%} {#अथ यदि #}
+{#॥॥।,#} K.; (e) {%on all h. s.:%} {#सर्वथा,#} K.; (f) {%at h.:%}
+{#प्रत्यासन्नः#} ({#न्ना, न्नं#}), {%The time for going home is at%}
+{%h.:%} {#प्रत्यासीदति गृहगमनकालः,#} K.: v. Near; (g) {%in%}
+{%h.:%} </div><div n="1">(1) lit. {#हस्ते,#} etc.; </div><div n="1">(2) fig. {#हस्तस्थ#} (f. {#स्था#}),
+{#हस्तगतः#} ({#ता, तं#}), etc.; (h) <div n="xe">{%from h. to h.:%}</div> <div n="xs">{#हस्ताद्धस्तम्#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#-द्धस्तान्तरम्;#}</div> (i) {%h. in h.:%} </div><div n="1">(1) =unitedly: q.v.:
+{#हस्ताहस्ति;#} </div><div n="1">(2) =fit: q.v.; (j) {%to lend a h.:%}
+{#हस्तं ददातिः#} v. To help; (k) {%off h.; out of h.:%}
+{#त्वरितम्:#} </div><div n="1">(1) <div n="xe">{%to live from h. to mouth:%}</div> <div n="xs">{#यदर्जयति #}
+{# तदुदरपूरणायैव भवति#}</div> </div><div n="I">II Handwriting: {#हस्तः,#}
+<div n="xe">{%under his own h.:%}</div> <div n="xs">{#स्वहस्तपरिचिह्नतिः#}</div> ({#ता, तं#}), Y.
+Ph.: <div n="xe">{%he writes a good h.:%}</div> <div n="xs">{#शोभनं हस्तलिखितं तस्य।#}</div></div>
+<div n="I">III Of a clock: {#प्रदर्शनी#} (?), <div n="xe">{%hour -h.:%}</div> <div n="xs">{#*घटिका-#}
+{#प्रदर्शनीः#}</div> v. Gnomon.</div>
 <LEND>

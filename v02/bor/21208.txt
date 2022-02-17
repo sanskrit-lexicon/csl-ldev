@@ -1,9 +1,9 @@
 <L>21208<pc>668<k1>split<k2>split
-<div n="lb"/>{@SPLIT:@}¦ <div n="I">I Intrans.: </div><div n="1">(1) {#स्फुटति, प्र-, वि-, परि-#}
-<div n="lb"/>({#स्फुट्,#} c. 1.), <div n="xe">{%heart is s. ting:%}</div> <div n="xs">{#स्फुटति हृदयम्,#}</div>
-<div n="lb"/>Mr. iii.; </div><div n="1">(2) {#दीर्यते, वि-,#} (pass. of {#दॄ#}),
-<div n="lb"/><div n="xe">{%sound of s. ting rock:%}</div> <div n="xs">{#विदीर्यमाणाश्मनिनादः,#}</div> Ki.</div>
-<div n="lb"/><div n="I">II Trans.,: {#स्फोटयति#} (c. of {#स्फुट्#}); </div><div n="1">(2)
-<div n="lb"/>{#विदारयति#} (c. of {#दॄ#}). </div><div n="I">III Subs.: </div><div n="1">(1) expr.
-<div n="lb"/>by verb; </div><div n="1">(2) {#छिद्रम्#} (=hole)</div>
+{@SPLIT:@}¦ <div n="I">I Intrans.: </div><div n="1">(1) {#स्फुटति, प्र-, वि-, परि-#}
+({#स्फुट्,#} c. 1.), <div n="xe">{%heart is s. ting:%}</div> <div n="xs">{#स्फुटति हृदयम्,#}</div>
+Mr. iii.; </div><div n="1">(2) {#दीर्यते, वि-,#} (pass. of {#दॄ#}),
+<div n="xe">{%sound of s. ting rock:%}</div> <div n="xs">{#विदीर्यमाणाश्मनिनादः,#}</div> Ki.</div>
+<div n="I">II Trans.,: {#स्फोटयति#} (c. of {#स्फुट्#}); </div><div n="1">(2)
+{#विदारयति#} (c. of {#दॄ#}). </div><div n="I">III Subs.: </div><div n="1">(1) expr.
+by verb; </div><div n="1">(2) {#छिद्रम्#} (=hole)</div>
 <LEND>

@@ -3,15 +3,15 @@
 <ls>DHĀTUP. 16, 23.</ls> 
 <div n="1"> 1) {%scheinen, leuchten%}: {#बृहद्भि^र्भा\नुभि\र्भास^न्#} 
 <ls>VS. 12, 32.</ls> {#भासतस्तेजसात्यर्थम्#} 
-<ls>MBH. 1, 4852. 2, 433. 3, 11862. 4, 1326. 12, 7857.</ls> 
+<ls>MBH. 1, 4852.</ls> <ls n="MBH.">2, 433.</ls> <ls n="MBH.">3, 11862.</ls> <ls n="MBH.">4, 1326.</ls> <ls n="MBH.">12, 7857.</ls> 
 <ls>HARIV. 5724.</ls> med.: {#भास्करो भासमानो द्रवति#} 
 <ls>NIR. 6, 25. 32.</ls> 
 <ls>MBH. 3, 12299.</ls> {#अग्नयश्च न भासन्ते समिद्धाः#} 
 <ls>4, 1461. 6, 2603.</ls> {#बभासे स रणोद्देशः कालसूर्य इवोदितः#} 
 <ls>7, 633.</ls> {#शान्तार्चिष इवाग्नयः । इन्द्रियाणि न भासन्ते#} 
-<ls>?14, 670. HARIV. 3584. 5034 = 5561. 14994. R. 2, 78, 7.</ls> {#(तस्याः) वक्त्रं बभासे सितचारुदन्तं राहोर्मुखाच्चन्द्र इवार्धमुक्तः#} {%leuchtete%} oder {%erschien wie%} 
+<ls n="MBH.">14, 670.</ls> <ls>HARIV. 3584.</ls> <ls n="HARIV.">5034</ls> = <ls n="HARIV.">5561.</ls> <ls n="HARIV.">14994.</ls> <ls>R. 2, 78, 7.</ls> {#(तस्याः) वक्त्रं बभासे सितचारुदन्तं राहोर्मुखाच्चन्द्र इवार्धमुक्तः#} {%leuchtete%} oder {%erschien wie%} 
 <ls>5, 28, 17.</ls> <ls>RAGH. ed. Calc. 7, 21</ls> {#(चकासे#} 
-<ls>ST.</ls><ls>?). KUMĀRAS. 6, 11. BHAṬṬ. 10, 61. 14, 83.</ls> {#विद्युद्भिरिव भासितैः#} {%leuchtend%} 
+<ls>ST.</ls>). <ls>KUMĀRAS. 6, 11.</ls> <ls>BHAṬṬ. 10, 61. 14, 83.</ls> {#विद्युद्भिरिव भासितैः#} {%leuchtend%} 
 <ls>HARIV. 11759.</ls> 
 <div n="1">— 2) med. {%erscheinen, zur Vorstellung kommen, deutlich werden, einleuchten, begriffen werden%}: {#त्वदङ्गमार्दवं द्रष्टुः कस्य चित्ते न भासते । मालतीशशभृल्लेखाकदलीनां कठोरता ॥#} 
 <ls>Spr. 1080.</ls> {#अस्ति नास्तीति संदेहः कस्य चित्ते न भासते ॥#} {%in wessen Geiste taucht nicht der Zweifel auf?%} 
@@ -25,12 +25,12 @@
 
 <div n="p">— caus. aor. {#अबभासत्#} und {#अबीभसत्#} 
 <ls>P. 7, 4, 3.</ls> {%leuchten machen, beleuchten, erhellen%}: {#भासयतीमान् लोकान्#} 
-<ls>MAITRYUP. 6, 7.</ls> <ls>MBH. 3, 1668. 11861. 6, 3179. 5111. 8, 556. 11, 721. 13, 7375.</ls> <ls>HARIV. 1318. 1324. 1331. 6548. 13249.</ls> <ls>R. 5, 11, 2. 14, 32.</ls> <ls>RAGH. 9, 17.</ls> <ls>SŪRYAS. 13, 12.</ls> <ls>KATHĀS. 29, 40.</ls> <ls>VID. 3.</ls> <ls>MĀRK. P. 16, 85. 63, 6. 97, 14.</ls> <ls>LA. (II) 89, 12.</ls> <ls>Verz. d. Oxf. H. 28</ls>, {%b%}, 
-<ls>?17. Inschr. in Journ. of the Am. Or. S. 6, 504, Śl. 14. VEDĀNTAS. (Allah.) No. 112.</ls> med.: {#न तद्भासयते सूर्यो न शशाङ्को न पावकः#} 
+<ls>MAITRYUP. 6, 7.</ls> <ls>MBH. 3, 1668.</ls> <ls n="MBH. 3,">11861.</ls> <ls n="MBH.">6, 3179.</ls> <ls n="MBH. 6,">5111.</ls> <ls n="MBH.">8, 556.</ls> <ls n="MBH.">11, 721.</ls> <ls n="MBH.">13, 7375.</ls> <ls>HARIV. 1318.</ls> <ls n="HARIV.">1324.</ls> <ls n="HARIV.">1331.</ls> <ls n="HARIV.">6548.</ls> <ls n="HARIV.">13249.</ls> <ls>R. 5, 11, 2. 14, 32.</ls> <ls>RAGH. 9, 17.</ls> <ls>SŪRYAS. 13, 12.</ls> <ls>KATHĀS. 29, 40.</ls> <ls>VID. 3.</ls> <ls>MĀRK. P. 16, 85. 63, 6. 97, 14.</ls> <ls>LA. (II) 89, 12.</ls> <ls>Verz. d. Oxf. H. 28,b,</ls> 
+<ls>17. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 6, 504, Śl. 14.</ls> <ls>VEDĀNTAS. (Allah.) No. 112.</ls> med.: {#न तद्भासयते सूर्यो न शशाङ्को न पावकः#} 
 <ls>BHAG. 15, 6. 12.</ls> 
-<ls>MBH. 3, 182. 9, 2010.</ls> pass.: {#देहो धीस्थजीवेन भास्यते#} 
+<ls>MBH. 3, 182.</ls> <ls n="MBH.">9, 2010.</ls> pass.: {#देहो धीस्थजीवेन भास्यते#} 
 <ls>Verz. d. Oxf. H. 222,b,27.</ls> {#भासित#} ebend. 
-<ls>MBH. 2, 1334. 7, 7619.</ls> 
+<ls>MBH. 2, 1334.</ls> <ls n="MBH.">7, 7619.</ls> 
 <ls>KATHĀS. 45, 12.</ls> 
 <ls>MĀRK. P. 65, 5.</ls> {#उदितेन विमलज्ञानेन सद्भासितः#} 
 <ls>ŚATR. 2, 659.</ls> {%erscheinen machen, zeigen%}: {#अबभासन्स्वकाः शक्तीः#} 
@@ -39,7 +39,7 @@
 <ls>Verz. d. Oxf. H. 238,b,19.</ls>
 
 <div n="p">— {#अव#} med. {%scheinen, leuchten%}: {#स तेजसा सूर्य इवावभासते#} 
-<ls>MBH. 5, 1091. 1, 1253.</ls> 
+<ls>MBH. 5, 1091.</ls> <ls n="MBH.">1, 1253.</ls> 
 <ls>BHĀG. P. 5, 23, 2.</ls> {#भासित#} {%scheinend, leuchtend%}: {#सोम#} 
 <ls>MBH. 12, 13221.</ls> {%erscheinen, sich den Augen darstellen%} 
 <ls>Spr. 678.</ls> 
@@ -49,16 +49,16 @@
 <ls>BĀLAB. 17.</ls> {#प्राक्सर्गादेक एतस्मिन्बहुधा यो ऽवभासते#} 
 <ls>Verz. d. Oxf. H. 181,b, No. 413.</ls> {#एतत्त्रयं तप्तायःपिण्डवदेकत्वेनावभासमानम्#} {%als einfach erscheinend%} 
 <ls>VEDĀNTAS. (Allah.) No. 94.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 16.</ls> — caus. {%beleuchten, erhellen%}: {#वैवस्वतो धर्मराजो विमानेनावभासयन् । त्रीँल्लोकान्#} 
-<ls>MBH. 3, 1674. 12, 8345</ls> {#(अवभासयत्#} mit der ed. Bomb. zu lesen). 
-<ls>?13, 4088. ŚAṂK. zu BṚH. ĀR. UP. S. 60. BHĀG. P. 5, 1, 8. 30. VEDĀNTAS. (Allah.) No. 112.</ls> {#अवभासित#} 
-<ls>MBH. 4, 1776. 5, 2525. 7, 6672</ls> {#(अवभासिता#} mit der ed. Bomb. zu lesen). 
+<ls>MBH. 3, 1674.</ls> <ls n="MBH.">12, 8345</ls> {#(अवभासयत्#} mit der ed. Bomb. zu lesen). 
+<ls>13, 4088.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 60.</ls> <ls>BHĀG. P. 5, 1, 8. 30.</ls> <ls>VEDĀNTAS. (Allah.) No. 112.</ls> {#अवभासित#} 
+<ls>MBH. 4, 1776.</ls> <ls n="MBH.">5, 2525.</ls> <ls n="MBH.">7, 6672</ls> {#(अवभासिता#} mit der ed. Bomb. zu lesen). 
 <ls>7601. 7605</ls> {#(दीप्तैस्#} st. {#दीप्तैस्#} mit der ed. Bomb. zu lesen). 
 <ls>12, 13361.</ls> <ls>R. 4, 2, 9. 5, 20, 18.</ls> <ls>SUŚR. 1, 54, 16.</ls> <ls>KATHĀS. 35, 112. 45, 312.</ls> <ls>ŚIŚ. 9, 37.</ls> {#सर्ववर्णानवभासयति#} {%lässt erscheinen%} 
 <ls>SUŚR. 1, 326, 3.</ls> 
 <div n="v">— Vgl. {#अवभास#} fgg.
 
 <div n="p">— {#आ#} med. {%erscheinen wie%} {#(इव): सा वेदिर्वेदसंपन्नैर्देवद्विजमहर्षिभिः । आबभासे समाकीर्णा नक्षत्रैर्द्यौरिवायता ॥#} 
-<ls>MBH. 2, 1313. 8, 204.</ls> 
+<ls>MBH. 2, 1313.</ls> <ls n="MBH.">8, 204.</ls> 
 <ls>RAGH. 7, 40. 60. 14, 12. 16, 41.</ls> 
 <ls>KUMĀRAS. 7, 3.</ls> 
 <ls>KATHĀS. 45, 339.</ls> — caus. {%bescheinen%}: {#एष हि द्यावापृथिव्यावाभासयति#} 
@@ -94,7 +94,7 @@
 <ls>MBH. 3, 5005.</ls> {#प्रभासन्तं भानुमन्तं महान्तं यथादित्यम्#} 
 <ls>17090.</ls> {#प्रभासन्तं महाबाहुं स्थितं मेरुमिवापरम्#} 
 <ls>8, 2202.</ls> {#दन्तैः प्रभासद्भिः#} 
-<ls>HARIV. 6618. 9013.</ls> {#श्रिया च रूपेण च विक्रमेण च प्रभाससे त्वं नृवरो नरेष्विव#} {%erscheinst%} 
+<ls>HARIV. 6618.</ls> <ls n="HARIV.">9013.</ls> {#श्रिया च रूपेण च विक्रमेण च प्रभाससे त्वं नृवरो नरेष्विव#} {%erscheinst%} 
 <ls>MBH. 4, 238.</ls> — caus. {%erleuchten, erhellen%}: {#यथा हि दिवि दीप्तांशुः प्रभासयति तेजसा#} 
 <ls>MBH. 1, 6532.</ls> {#प्रभासयसि तं देशं द्वितीय इव भास्करः#} 
 <ls>R. 4, 43, 50.</ls> 

@@ -1,10 +1,10 @@
 <L>91866<pc>6-1072<k1>विधातर्<k2>विधात/र्
 {#विधात/र्#}¦ (von 1. {#धा#} mit {#वि#}) nom. ag. 
 <div n="1"> 1) <lex>m.</lex> {%Vertheiler, Verleiher; Festsetzer, Ordner, Urheber, Schöpfer u.s.w.%} 
-<ls>NAIGH. 3, 15</ls> (=  {#मेधाविन्)#} . 
+<ls>NAIGH. 3, 15</ls> (= {#मेधाविन्)#} . 
 <ls>5, 5.</ls> <ls>NIR. 11, 11.</ls> <ls>ṚV. 10, 82, 2.</ls> <ls n="ṚV. 10, 82,">3.</ls> <ls n="ṚV. 10,">167, 3.</ls> {#वि\धा\तारो\ वि ते द^धु\रज^स्राः#} 
 <ls n="ṚV.">4, 55, 2.</ls> {#दैव्य^ः#} ({#प्रजापति#} 
-<ls>SĀY.</ls><ls>?) 6, 50, 12. 9, 81, 5. AV. 3, 10, 10. 5, 3, 9. ŚĀṄKH. GṚHY. 2, 14. PĀR. GṚHY. 2, 9.</ls> zur Erklärung von {#वेधस्#} 
+<ls>SĀY.</ls>) <ls>6, 50, 12. 9, 81, 5.</ls> <ls>AV. 3, 10, 10. 5, 3, 9.</ls> <ls>ŚĀṄKH. GṚHY. 2, 14.</ls> <ls>PĀR. GṚHY. 2, 9.</ls> zur Erklärung von {#वेधस्#} 
 <ls>NIR. 10, 6.</ls> — {#त्वं नस्त्राता विधाता च#} {%du bist unser Retter und Verfüger%} sagen die Götter zu <is>Agastya</is> 
 <ls>MBH. 3, 8809.</ls> {#विधाता (= विहितकर्मणामनुष्ठाता#} 
 <ls>KULL.</ls>) {#शासिता वक्ता मैत्रो ब्राह्मण उच्यते#} 
@@ -12,7 +12,7 @@
 <ls>RAGH. 1, 70.</ls> {#अश्वस्तन°#} {%der Vorkehrungen trifft für%} 
 <ls>MBH. 12, 8920</ls>; vgl. {#अनागत°#} (auch 
 <ls>MBH. 12, 4246.</ls> 
-<ls>Spr. (II) 268).</ls> {#तपसः फलानाम्#} {%Verleiher%} 
+<ls>Spr. (II) 268</ls>). {#तपसः फलानाम्#} {%Verleiher%} 
 <ls>KUMĀRAS. 1, 58.</ls> {#प्रसिद्धनेपथ्यविधेः#} {%Ausführer%} 
 <ls>KUMĀRAS. 7, 36.</ls> {#नदीनद°#} {%Urheber%} 
 <ls>PAÑCAR. 4, 8, 45.</ls> <ls>H. 5.</ls> {#जगताम्#} {%Schöpfer%} 
@@ -21,7 +21,7 @@
 <ls>AK. 1, 1, 1, 12.</ls> 
 <ls>H.212.</ls> 
 <ls>an. 3, 303.</ls> 
-<ls>MED. t. 157.</ls> <ls>MBH. 3, 13328.</ls> <ls>HARIV. 3367. 4588.</ls> <ls>Spr. 544 (II). 2418, v. l.</ls>
+<ls>MED. t. 157.</ls> <ls>MBH. 3, 13328.</ls> <ls>HARIV. 3367.</ls> <ls n="HARIV.">4588.</ls> <ls>Spr. 544 (II). 2418, v. l.</ls>
 [Page6-1073]
 {#विधातृविहितं मार्गं न कश्चिदतिवर्तते#} 
 <ls>2809.</ls> {#विधात्रा रचिता रेखा ललाटे#} 
@@ -38,10 +38,10 @@
 <ls>VARĀH. BṚH. S. 99, 1.</ls> <is>Viṣṇu</is> so genannt 
 <ls>H. ś. 70.</ls> <ls>BHĀG. P. 3, 1, 42. <is>Śiva</is> 4, 5, 11.</ls> <ls>ŚIV.</ls> der Liebesgott 
 <ls>H. an.</ls> <ls>MED.</ls> <is>Dhātar</is> und <is>Vidhātar</is> als verschiedene göttliche Wesen neben einander 
-<ls>MBH. 3, 10419. 15591.</ls> 
+<ls>MBH. 3, 10419.</ls> <ls n="MBH. 3,">15591.</ls> 
 <ls>R. 2, 25, 8 (21 GORR.).</ls> <ls>BHĀG. P. 5, 23, 5.</ls> <ls>MĀRK. P. 51, 88.</ls> unter den <is>Āditya</is> 
 <ls>BHĀG. P. 6, 6, 37.</ls> als Söhne <is>Brahman's</is> 
-<ls>MBH. 1, 2614. <is>Bhṛgu's</is></ls> 
+<ls>MBH. 1, 2614.</ls> <is>Bhṛgu's</is> 
 <ls>VP. 59. 82.</ls> 
 <ls>BHĀG. P. 4, 1, 48.</ls> 
 <ls>MĀRK. P. 52, 14. 16.</ls> 

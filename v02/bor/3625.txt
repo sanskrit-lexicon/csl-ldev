@@ -1,5 +1,5 @@
 <L>3625<pc>120<k1>chord<k2>chord
-<div n="lb"/>{@CHORD:@}¦ <div n="I">I A musical string: {#तन्त्री।#} </div><div n="I">II
-<div n="lb"/>Harmony: q. v.: {#एकतानः।#} </div><div n="I">III In geo. {#ज्या#} {%or%}
-<div n="lb"/>{#जीवा,#} Li.</div>
+{@CHORD:@}¦ <div n="I">I A musical string: {#तन्त्री।#} </div><div n="I">II
+Harmony: q. v.: {#एकतानः।#} </div><div n="I">III In geo. {#ज्या#} {%or%}
+{#जीवा,#} Li.</div>
 <LEND>

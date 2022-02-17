@@ -1,8 +1,8 @@
 <L>12411<pc>385<k1>insiruction<k2>insiruction
-<div n="lb"/>{@INSIRUCTION:@}¦ <div n="I">I Teaching: </div><div n="1">(1) {#शिक्षा;#} </div><div n="1">(2)
-<div n="lb"/>{#उपदेशः,#} <div n="xe">{%in receiving i.:%}</div> <div n="xs">{#उपदेशग्रहणे,#}</div> Mal. i. </div><div n="I">II
-<div n="lb"/>Education: </div><div n="1">(1) {#विनयनम्,#} <div n="xe">{%thorough i. in the art%}
-<div n="lb"/>{%of conversation:%}</div> <div n="xs">{#वचनकौशलेषु सम्यग्विनयनेन,#}</div> D. ii.;</div>
-<div n="lb"/><div n="1">(2) by verb. </div><div n="I">III Precept, command:
-<div n="lb"/>q.v.: {#शासनम्।#}</div>
+{@INSIRUCTION:@}¦ <div n="I">I Teaching: </div><div n="1">(1) {#शिक्षा;#} </div><div n="1">(2)
+{#उपदेशः,#} <div n="xe">{%in receiving i.:%}</div> <div n="xs">{#उपदेशग्रहणे,#}</div> Mal. i. </div><div n="I">II
+Education: </div><div n="1">(1) {#विनयनम्,#} <div n="xe">{%thorough i. in the art%}
+{%of conversation:%}</div> <div n="xs">{#वचनकौशलेषु सम्यग्विनयनेन,#}</div> D. ii.;</div>
+<div n="1">(2) by verb. </div><div n="I">III Precept, command:
+q.v.: {#शासनम्।#}</div>
 <LEND>

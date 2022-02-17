@@ -1,5 +1,5 @@
 <L>9988<pc>315<k1>glossy<k2>glossy
-<div n="lb"/>{@GLOSSY:@}¦ <div n="I">I Polished: </div><div n="1">(1) {#स्निग्ध#} (f. {#ग्धा#}), <div n="xe">{%g. black%}
-<div n="lb"/>{%hair:%}</div> <div n="xs">{#स्निग्धनीलो मूर्धजकलापः,#}</div> D.; </div><div n="1">(2) {#चिक्कणः#} ({#णा, णं#}).</div>
-<div n="lb"/><div n="I">II In bad sense: {#बाह्यप्रभः#} ({#भा, भं#}) (?).</div>
+{@GLOSSY:@}¦ <div n="I">I Polished: </div><div n="1">(1) {#स्निग्ध#} (f. {#ग्धा#}), <div n="xe">{%g. black%}
+{%hair:%}</div> <div n="xs">{#स्निग्धनीलो मूर्धजकलापः,#}</div> D.; </div><div n="1">(2) {#चिक्कणः#} ({#णा, णं#}).</div>
+<div n="I">II In bad sense: {#बाह्यप्रभः#} ({#भा, भं#}) (?).</div>
 <LEND>

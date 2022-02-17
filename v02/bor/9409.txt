@@ -1,13 +1,13 @@
 <L>9409<pc>298<k1>fresh<k2>fresh
-<div n="lb"/>{@FRESH:@}¦ <div n="I">I New: q.v.: </div><div n="1">(1) {#अभिनवः#} ({#वा, वं#}),
-<div n="lb"/><div n="xe">{%f. blood:%}</div> <div n="xs">{#अभिनवशोणितम्,#}</div> Sa. vi. 32.; {%f. youth:%}
-<div n="lb"/>{#अभिनवयौवनम्,#} K.; </div><div n="1">(2) {#प्रत्यग्रः#} ({#ग्रा, ग्रं#}), <div n="xe">{%with f.%}
-<div n="lb"/>{%flowers:%}</div> <div n="xs">{#प्रत्यग्रैः कुसुमैः,#}</div> Me.; </div><div n="1">(3) sometimes by
-<div n="lb"/>{#सद्यः,#} <div n="xe">{%f. meat:%}</div> <div n="xs">{#सद्योमांसम्,#}</div> J. </div><div n="I">II Not saline: </div><div n="1">(1)
-<div n="lb"/>{#निर्दोषः#} ({#षा, षं#}); </div><div n="1">(2) {#पेयः#} ({#या, यं#}) (= drink-
-<div n="lb"/>-able). Ph.: <div n="xe">{%having f. water:%}</div> <div n="xs">{#शुद्धोदः#}</div> ({#दा, दं#}),
-<div n="lb"/>D. s.; {#आस्वाद्यतोयः#} ({#या, यं#}), H. </div><div n="I">III Unprac-
-<div n="lb"/>-tised: {#नवः#} ({#वा, वं#}), <div n="xe">{%f. men:%}</div> <div n="xs">{#नवाः; प्रथमवर्षच्छात्राः।#}</div></div>
-<div n="lb"/><div n="I">IV Of wind: <div n="xe">{%f. air:%}</div> <div n="xs">{#शिवा मरुतः,#}</div> Ki. vi. 33.;
-<div n="lb"/>{#सुखा वाताः,#} M. n.</div>
+{@FRESH:@}¦ <div n="I">I New: q.v.: </div><div n="1">(1) {#अभिनवः#} ({#वा, वं#}),
+<div n="xe">{%f. blood:%}</div> <div n="xs">{#अभिनवशोणितम्,#}</div> Sa. vi. 32.; {%f. youth:%}
+{#अभिनवयौवनम्,#} K.; </div><div n="1">(2) {#प्रत्यग्रः#} ({#ग्रा, ग्रं#}), <div n="xe">{%with f.%}
+{%flowers:%}</div> <div n="xs">{#प्रत्यग्रैः कुसुमैः,#}</div> Me.; </div><div n="1">(3) sometimes by
+{#सद्यः,#} <div n="xe">{%f. meat:%}</div> <div n="xs">{#सद्योमांसम्,#}</div> J. </div><div n="I">II Not saline: </div><div n="1">(1)
+{#निर्दोषः#} ({#षा, षं#}); </div><div n="1">(2) {#पेयः#} ({#या, यं#}) (= drink-
+-able). Ph.: <div n="xe">{%having f. water:%}</div> <div n="xs">{#शुद्धोदः#}</div> ({#दा, दं#}),
+D. s.; {#आस्वाद्यतोयः#} ({#या, यं#}), H. </div><div n="I">III Unprac-
+-tised: {#नवः#} ({#वा, वं#}), <div n="xe">{%f. men:%}</div> <div n="xs">{#नवाः; प्रथमवर्षच्छात्राः।#}</div></div>
+<div n="I">IV Of wind: <div n="xe">{%f. air:%}</div> <div n="xs">{#शिवा मरुतः,#}</div> Ki. vi. 33.;
+{#सुखा वाताः,#} M. n.</div>
 <LEND>

@@ -8,8 +8,8 @@ zu <ls>P. 5, 2, 131.</ls> <lex>m.</lex> {%Ackerbauer%}
 <ls>AK. 1, 1, 1, 19.</ls> 
 <ls>H. 224.</ls> 
 <ls>H. an.</ls> 
-<ls>MBH. 3, 10240. 5, 4425. 7, 412. 13, 6860.</ls> 
-<ls>HARIV. 2099. 9469.</ls> 
+<ls>MBH. 3, 10240.</ls> <ls n="MBH.">5, 4425.</ls> <ls n="MBH.">7, 412.</ls> <ls n="MBH.">13, 6860.</ls> 
+<ls>HARIV. 2099.</ls> <ls n="HARIV.">9469.</ls> 
 <ls>CHANDOM. 42.</ls> {#हलिपत्नी#} 
 <ls>TRIK. 3, 3, 179.</ls> 
 <div n="1">— 3) <lex>m.</lex> N. pr. eines <is>Ṛṣi</is> 

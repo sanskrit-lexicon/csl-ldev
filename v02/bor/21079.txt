@@ -1,4 +1,4 @@
 <L>21079<pc>664<k1>spacious<k2>spacious
-<div n="lb"/>{@SPACIOUS:@}¦ <div n="1">(1) {#विस्तीर्ण#} (f. {#र्णा#}): v. Extensive;</div>
-<div n="lb"/><div n="1">(2) {#विशाल#} (f. {#ला#}): v. Large.</div>
+{@SPACIOUS:@}¦ <div n="1">(1) {#विस्तीर्ण#} (f. {#र्णा#}): v. Extensive;</div>
+<div n="1">(2) {#विशाल#} (f. {#ला#}): v. Large.</div>
 <LEND>

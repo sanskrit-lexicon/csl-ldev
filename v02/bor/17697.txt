@@ -1,6 +1,6 @@
 <L>17697<pc>541<k1>presidency<k2>presidency
-<div n="lb"/>{@PRESIDENCY:@}¦ <div n="I">I Superintendence: <div n="xe">{%during%}
-<div n="lb"/>{%my p. of the council:%}</div> <div n="xs">{#सभामधितिष्ठति मयि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मम #}
-<div n="lb"/>{# सभाधिनायकत्वे#}</div> (?). </div><div n="I">II Province.: q. v.: <div n="xe">{%the%}
-<div n="lb"/>{%Bengal p.:%}</div> <div n="xs">{#वङ्गदेशः।#}</div></div>
+{@PRESIDENCY:@}¦ <div n="I">I Superintendence: <div n="xe">{%during%}
+{%my p. of the council:%}</div> <div n="xs">{#सभामधितिष्ठति मयि#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मम #}
+{# सभाधिनायकत्वे#}</div> (?). </div><div n="I">II Province.: q. v.: <div n="xe">{%the%}
+{%Bengal p.:%}</div> <div n="xs">{#वङ्गदेशः।#}</div></div>
 <LEND>

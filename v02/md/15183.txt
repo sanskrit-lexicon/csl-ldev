@@ -1,10 +1,10 @@
 <L>15183<pc>254-1<k1>राज्याङ्ग<k2>राज्याङ्ग
 {#राज्याङ्ग#}¦rājya‡aṅga, {%n.%} member of a kingdom; <lbinfo n="4"/>
-<> {@-adhikāra,@} {%m.%} government of a kingdom; <lbinfo n="4"/>
-<> {@-adhidevatā,@} {%f.%} tutelary deity of royalty; <lbinfo n="3"/>
-<> {@-abhiṣikta,@} {%pp.%} inaugurated in sovereignty; <lbinfo n="4"/>
-<> {@-abhiṣeka,@} {%m.%} royal inauguration; 
-<>{@-āśrama-muni@}, {%m.%} sage in the hermitage 
-<>of royalty, pious king; {@-upakaraṇa@}, {%n. pl.%} 
-<>insignia of royalty.
+ {@-adhikāra,@} {%m.%} government of a kingdom; <lbinfo n="4"/>
+ {@-adhidevatā,@} {%f.%} tutelary deity of royalty; <lbinfo n="3"/>
+ {@-abhiṣikta,@} {%pp.%} inaugurated in sovereignty; <lbinfo n="4"/>
+ {@-abhiṣeka,@} {%m.%} royal inauguration; 
+{@-āśrama-muni@}, {%m.%} sage in the hermitage 
+of royalty, pious king; {@-upakaraṇa@}, {%n. pl.%} 
+insignia of royalty.
 <LEND>

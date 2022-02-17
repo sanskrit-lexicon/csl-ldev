@@ -5,10 +5,10 @@
 <ls>TBR. 3, 8, 20, 4.</ls> 
 <ls>ŚAT. BR. 12, 8, 3, 15. 13, 2, 2, 19. 3, 1, 3.</ls> {#वादन#} 
 <ls>KĀTY. ŚR. 13, 2, 20.</ls> {%Korb aus Rohr%} 
-<ls>19, 2, 11. -</ls> <ls>KAUŚ. 27.</ls> {#°शाखाः#} 
+<ls>19, 2, 11.</ls> - <ls>KAUŚ. 27.</ls> {#°शाखाः#} 
 <ls>R. 2, 55, 15.</ls> {#अश्वमेधस्य चैकस्य (यज्ञस्य#} ed. Bomb.) {#वैतसो भाग इष्यते#} 
 <ls>1, 13, 42</ls> ({#वैतसे कटे निधाय अवदातव्य इष्यते#} Comm.). {#वैतसी वृत्तिः#} {%das Verfahren des spanischen Rohres%} so v. a. {%das Sichschmiegen, Sichfügen in die Verhältnisse%} 
-<ls>MBH. 4, 1560. 12, 4209. 15, 231.</ls> 
+<ls>MBH. 4, 1560.</ls> <ls n="MBH.">12, 4209.</ls> <ls n="MBH.">15, 231.</ls> 
 <ls>RAGH. 4, 35.</ls> 
 <ls>Spr. 3175.</ls> 
 <ls>KATHĀS. 5, 6. 69, 73.</ls> 

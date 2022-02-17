@@ -3,6 +3,6 @@
 <ls>ŚABDAM.</ls> {%Beschützer%} 
 <ls>WILS.</ls> {#मित्र#} {%Freund%} 
 <ls>ŚKDR.</ls> : {%Herr; Feuer; der Mond%} 
-<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS. ŚKDR.</ls> {%die Sonne%} 
+<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls> {%die Sonne%} 
 <ls>WILSON.</ls>
 <LEND>

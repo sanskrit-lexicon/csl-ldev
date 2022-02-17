@@ -1,22 +1,22 @@
 <L>15886<pc>488<k1>open<k2>open
-<div n="lb"/>{@OPEN@}¦ (v. t.): <div n="I">I To unclose: </div><div n="1">(1) {#वि-वृणोति, #}
-<div n="lb"/>{# अपा-,#} ({#वृ,#} c. 5.), <div n="xe">{%o. the back door:%}</div> <div n="xs">{#अपावृणु #}
-<div n="lb"/>{# पक्षद्वारकम्,#}</div> Mr.; <div n="xe">{%to o. the mouth:%}</div> <div n="xs">{#आस्यं #}
-<div n="lb"/>{# विवृणोति,#}</div> V.p.; </div><div n="1">(2) {#उद्घाटयति#} (c. of {#घट्#}),
-<div n="lb"/>(from some fastening, etc.), {%o. the door:%}
-<div n="lb"/>{#उद्घाटय द्वारम्,#} Mr.; </div><div n="1">(3) {#उन्मोचयति#} ({#मुच्,#} c. 10.)
-<div n="lb"/>(= to free, as from a cover) <div n="xe">{%o. ed and read%}
-<div n="lb"/>{%it:%}</div> <div n="xs">{#तदुन्मुच्य पपाठ,#}</div> K.; </div><div n="1">(4) {#उन्मीलयति#} (c. of
-<div n="lb"/>{#मील्#}) (of the eyes); </div><div n="1">(5) {#व्यादत्ते, -ददाति#} ({#दा,#}
-<div n="lb"/>c. 2 (to open wide, as the mouth); </div><div n="1">(6)
-<div n="lb"/>{#प्रसारयति#} (c. of {#सृ#}) (= to stretch, put forth,
-<div n="lb"/>as the hands). </div><div n="I">II To disclose, reveal:
-<div n="lb"/>q.v.: {#विवृणोति।#} </div><div n="I">III To explain, expound:
-<div n="lb"/>q.v.: {#विवृणोति।#} </div><div n="I">IV Of roads, etc.: </div><div n="1">(1)
-<div n="lb"/>{#करोति:#} v. To make; </div><div n="1">(2) {#शोधयति#} (c. of
-<div n="lb"/>{#शुध्#}) (= to clear), {#कुर्वन्तः शोधयन्तश्च पन्थानं गहने #}
-<div n="lb"/>{# वने,#} Ram. V. To begin: q.v.: {#प्रस्तौति#} ({#स्तु,#}
-<div n="lb"/>c. 2.). </div><div n="I">VI To lance: {#विध्यति#} ({#व्यध्,#} c. 4.),
-<div n="lb"/>Sr. </div><div n="I">VII Of the bowels: {#रेचयति#} ({#रिच्,#}
-<div n="lb"/>c. 10.).</div>
+{@OPEN@}¦ (v. t.): <div n="I">I To unclose: </div><div n="1">(1) {#वि-वृणोति, #}
+{# अपा-,#} ({#वृ,#} c. 5.), <div n="xe">{%o. the back door:%}</div> <div n="xs">{#अपावृणु #}
+{# पक्षद्वारकम्,#}</div> Mr.; <div n="xe">{%to o. the mouth:%}</div> <div n="xs">{#आस्यं #}
+{# विवृणोति,#}</div> V.p.; </div><div n="1">(2) {#उद्घाटयति#} (c. of {#घट्#}),
+(from some fastening, etc.), {%o. the door:%}
+{#उद्घाटय द्वारम्,#} Mr.; </div><div n="1">(3) {#उन्मोचयति#} ({#मुच्,#} c. 10.)
+(= to free, as from a cover) <div n="xe">{%o. ed and read%}
+{%it:%}</div> <div n="xs">{#तदुन्मुच्य पपाठ,#}</div> K.; </div><div n="1">(4) {#उन्मीलयति#} (c. of
+{#मील्#}) (of the eyes); </div><div n="1">(5) {#व्यादत्ते, -ददाति#} ({#दा,#}
+c. 2 (to open wide, as the mouth); </div><div n="1">(6)
+{#प्रसारयति#} (c. of {#सृ#}) (= to stretch, put forth,
+as the hands). </div><div n="I">II To disclose, reveal:
+q.v.: {#विवृणोति।#} </div><div n="I">III To explain, expound:
+q.v.: {#विवृणोति।#} </div><div n="I">IV Of roads, etc.: </div><div n="1">(1)
+{#करोति:#} v. To make; </div><div n="1">(2) {#शोधयति#} (c. of
+{#शुध्#}) (= to clear), {#कुर्वन्तः शोधयन्तश्च पन्थानं गहने #}
+{# वने,#} Ram. V. To begin: q.v.: {#प्रस्तौति#} ({#स्तु,#}
+c. 2.). </div><div n="I">VI To lance: {#विध्यति#} ({#व्यध्,#} c. 4.),
+Sr. </div><div n="I">VII Of the bowels: {#रेचयति#} ({#रिच्,#}
+c. 10.).</div>
 <LEND>

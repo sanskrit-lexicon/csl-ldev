@@ -1,16 +1,16 @@
 <L>8303<pc>262<k1>face<k2>face
-<div n="lb"/>{@FACE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#मुखम्,#} <div n="xe">{%struck%}
-<div n="lb"/>{%Yudhisṭhira on the f.:%}</div> <div n="xs">{#युधिष्ठिरं मुखेऽहनम्,#}</div> Mah.:
-<div n="lb"/><div n="xe">{%with a f. beautiful as the moon:%}</div> <div n="xs">{#इन्दुसुन्दरमुखी,#}</div>
-<div n="lb"/>Ma.; <div n="xe">{%how (we) will shew our f. to men:%}</div> <div n="xs">{#कथं #}
-<div n="lb"/>{# लोकस्य मुखं द्रक्ष्यामः,#}</div> Ana.; <div n="xe">{%makes thousands of%}
-<div n="lb"/>{%f. s:%}</div> <div n="xs">{#मुखभङ्गिसहस्राणि कुरुते,#}</div> K.; <div n="xe">{%is it proper for a%}
-<div n="lb"/>{%king to turn his f. from duty:%}</div> <div n="xs">{#किं धर्मं प्रति विमुख-#}
-<div n="lb"/>{#तोचिता राझः,#}</div> Sa.; {%you have come before my f.%}
-<div n="lb"/>(= eyes: v. Eye): {#मत्सम्मुखभागतोऽसि,#} Ve.; <div n="xe">{%the%}
-<div n="lb"/>{%f.s of the quarters:%}</div> <div n="xs">{#दिशां मुखानि,#}</div> N.; </div><div n="1">(2)
-<div n="lb"/>{#आननम्;#} </div><div n="1">(3) {#वदनम्;#} </div><div n="1">(4) {#वक्त्रम्;#} </div><div n="1">(5) {#आस्यम्।#}
-<div n="lb"/>Ph.: <div n="xe">{%in the f. of the Vedāntas:%}</div> <div n="xs">{#वेदान्तोषु जागरुकेषु,#}</div>
-<div n="lb"/>D.s. </div><div n="I">II In Geo.: {#पाश्र्वः,#} K. d.: {#*मुखम्,#} <div n="xe">{%hav-%}
-<div n="lb"/>{%ing six f. s:%}</div> <div n="xs">{#षण्मुखः#}</div> ({#खी, खं#}).</div>
+{@FACE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#मुखम्,#} <div n="xe">{%struck%}
+{%Yudhisṭhira on the f.:%}</div> <div n="xs">{#युधिष्ठिरं मुखेऽहनम्,#}</div> Mah.:
+<div n="xe">{%with a f. beautiful as the moon:%}</div> <div n="xs">{#इन्दुसुन्दरमुखी,#}</div>
+Ma.; <div n="xe">{%how (we) will shew our f. to men:%}</div> <div n="xs">{#कथं #}
+{# लोकस्य मुखं द्रक्ष्यामः,#}</div> Ana.; <div n="xe">{%makes thousands of%}
+{%f. s:%}</div> <div n="xs">{#मुखभङ्गिसहस्राणि कुरुते,#}</div> K.; <div n="xe">{%is it proper for a%}
+{%king to turn his f. from duty:%}</div> <div n="xs">{#किं धर्मं प्रति विमुख-#}
+{#तोचिता राझः,#}</div> Sa.; {%you have come before my f.%}
+(= eyes: v. Eye): {#मत्सम्मुखभागतोऽसि,#} Ve.; <div n="xe">{%the%}
+{%f.s of the quarters:%}</div> <div n="xs">{#दिशां मुखानि,#}</div> N.; </div><div n="1">(2)
+{#आननम्;#} </div><div n="1">(3) {#वदनम्;#} </div><div n="1">(4) {#वक्त्रम्;#} </div><div n="1">(5) {#आस्यम्।#}
+Ph.: <div n="xe">{%in the f. of the Vedāntas:%}</div> <div n="xs">{#वेदान्तोषु जागरुकेषु,#}</div>
+D.s. </div><div n="I">II In Geo.: {#पाश्र्वः,#} K. d.: {#*मुखम्,#} <div n="xe">{%hav-%}
+{%ing six f. s:%}</div> <div n="xs">{#षण्मुखः#}</div> ({#खी, खं#}).</div>
 <LEND>

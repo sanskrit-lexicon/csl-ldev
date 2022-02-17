@@ -6,7 +6,7 @@
 <ls>HALĀY. 2, 4.</ls> n. sg. und pl. {%Grasplatz, Rasen%} 
 <ls>PĀR. GṚHY. 3, 4.</ls> 
 <ls>YĀJÑ. 3, 7.</ls> 
-<ls>MBH. 3, 11036. 11611. 5, 3833. 13, 2828.</ls> 
+<ls>MBH. 3, 11036.</ls> <ls n="MBH. 3,">11611.</ls> <ls n="MBH.">5, 3833.</ls> <ls n="MBH.">13, 2828.</ls> 
 <ls>HARIV. 583.</ls> 
 <ls>R. 2, 30, 14 (16 GORR.). 91, 29 (100, 26 GORR.). 3, 50, 14. 73, 39. 78, 29. 4, 60, 12. 5, 4, 4. 9, 5. 55, 1. 6, 15, 6.</ls> <ls>KĀM. NĪTIS. 14, 30.</ls> <ls>RAGH. 2, 17.</ls> <ls>VIKR. 57, 18.</ls> <ls>Spr. 2958.5391.</ls> <ls>KIR. 5, 37.</ls> <ls>VARĀH. BṚH. S. 45, 7. 51, 2. 88, 20. 89, 1. 95, 34.</ls> <ls>KATHĀS. 65, 7. 111, 4.</ls> <ls>RĀJA-TAR. 2, 167. 3, 225. 6, 120.</ls> <ls>BHĀG. P. 10, 20, 30.</ls>
 [Page7-0140]
@@ -14,10 +14,10 @@
 <ls>18, 5.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>MBH. 4, 2015.</ls> 
 <ls>HARIV. 8128.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 65, 16. 4, 44, 86.</ls> 
+
+<ls>R. GORR. 2, 65, 16. 4, 44, 86.</ls> 
 <ls>KIR. 7, 26.</ls> Für das <lex>adj.</lex> führt 
-<ls>AUFRECHT</ls> <ls>?(UṆĀDIS. Ind.)</ls> folgende Stellen auf: {#शाद्वले धरणीतले#} 
+<ls>AUFRECHT</ls> (<ls>UṆĀDIS. Ind.</ls>) folgende Stellen auf: {#शाद्वले धरणीतले#} 
 <ls>BHAVIṢYOTTARAP. 122, 42.</ls> {#नहि कोटरसंस्थे ऽग्नौ तरुर्भवति शाद्वलः#} so v. a. {%belaubt%} 
 <ls>KṢĪRASV.</ls> {#शाद्वलैः कोमलतृणैः पूजयेच्च सकौतुकम्#} {%grün, frisch%} 
 <ls>KĀŚĪKH. 32, 50.</ls> das Wort wird häufig fälschlich {#शाड्वल#} (auch wohl {#शाड्वल#}) geschrieben.

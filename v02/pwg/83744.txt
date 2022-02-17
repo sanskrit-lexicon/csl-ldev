@@ -1,6 +1,6 @@
 <L>83744<pc>6-0294<k1>रसन<k2>रसन<h>2
 2. {#रसन#}¦ (von {#रसय्#}) 
-<div n="1"> 1) <lex>m.</lex> {%das Phlegma%} {#(कफ)#}, sofern es in der Zunge den {%Geschmack%} bewirkt, 
+<div n="1"> 1) <lex>m.</lex> {%das Phlegma%} ({#कफ#}), sofern es in der Zunge den {%Geschmack%} bewirkt, 
 <ls>ŚĀRṄG. SAṂH. 1, 5, 11.</ls> 
 <ls>WISE 46.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} 
@@ -23,7 +23,7 @@
 <ls>MED.</ls> 
 <ls>YĀJÑ. 3, 77.</ls> 
 <ls>BHAG. 15, 9.</ls> 
-<ls>MBH. 12, 6835. 8983.</ls> 
+<ls>MBH. 12, 6835.</ls> <ls n="MBH. 12,">8983.</ls> 
 <ls>SUŚR. 1, 243, 7. 8.</ls> {#रसनेन्द्रिय#} 
 <ls>30, 73.</ls> <ls>MĀRK. P. 39, 57.</ls> {#इन्द्रियं रसग्राहकं रसनं जिह्वाग्रवर्ति#} 
 <ls>TARKAS. 7. 13.</ls> <ls>SĀṂKHYAK. 26.</ls> <ls>BHĀṢĀP. 39.</ls> <ls>BHĀG. P. 2, 2, 29. 3, 26, 13. 48. 8, 7, 26. 11, 8, 20. fg.</ls> {%das Empfinden, Fühlen%} 

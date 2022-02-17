@@ -1,10 +1,10 @@
 <L>14274<pc>438<k1>match<k2>match
-<div n="lb"/>{@MATCH@}¦ (v.): <div n="I">I In gen. sense: expr. by the
-<div n="lb"/>adj.s {#सदृशः#} ({#शी, शं#}); {#तुल्यः#} ({#ल्या, ल्यं#}); {#अनुरूपः#}
-<div n="lb"/>({#पा, पं#}); etc.: <div n="xe">{%a husband to m.:%}</div> <div n="xs">{#सदृश उपयन्ता,#}</div>
-<div n="lb"/>R. vii. 1.; <div n="xe">{%the battle was between m. ing com-%}
-<div n="lb"/>{%batants:%}</div> <div n="xs">{#तुल्यप्रतिद्वन्द्वि बभूव युद्धम्,#}</div> R. vii. 37.: v.
-<div n="lb"/>Equal, worthy. </div><div n="I">II To marry: </div><div n="1">(1) {#योजयति#}
-<div n="lb"/>({#युज्,#} c. 10.); </div><div n="1">(2) {#समानयति#} (c. of {#नी#}), Sa.
-<div n="lb"/>v.; </div><div n="1">(3) {#घटनां कारयति#} (c. of {#कृ#}), K.</div>
+{@MATCH@}¦ (v.): <div n="I">I In gen. sense: expr. by the
+adj.s {#सदृशः#} ({#शी, शं#}); {#तुल्यः#} ({#ल्या, ल्यं#}); {#अनुरूपः#}
+({#पा, पं#}); etc.: <div n="xe">{%a husband to m.:%}</div> <div n="xs">{#सदृश उपयन्ता,#}</div>
+R. vii. 1.; <div n="xe">{%the battle was between m. ing com-%}
+{%batants:%}</div> <div n="xs">{#तुल्यप्रतिद्वन्द्वि बभूव युद्धम्,#}</div> R. vii. 37.: v.
+Equal, worthy. </div><div n="I">II To marry: </div><div n="1">(1) {#योजयति#}
+({#युज्,#} c. 10.); </div><div n="1">(2) {#समानयति#} (c. of {#नी#}), Sa.
+v.; </div><div n="1">(3) {#घटनां कारयति#} (c. of {#कृ#}), K.</div>
 <LEND>

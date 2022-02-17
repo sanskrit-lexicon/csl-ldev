@@ -1,4 +1,4 @@
 <L>12639<pc>391<k1>inventory<k2>inventory
-<div n="lb"/>{@INVENTORY:@}¦ {#परिसंख्या,#} <div n="xe">{%“i. of all I have”:%}</div> <div n="xs">{#मम #}
-<div n="lb"/>{# सर्वस्वपरिसंख्या#}</div> (?).
+{@INVENTORY:@}¦ {#परिसंख्या,#} <div n="xe">{%“i. of all I have”:%}</div> <div n="xs">{#मम #}
+{# सर्वस्वपरिसंख्या#}</div> (?).
 <LEND>

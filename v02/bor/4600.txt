@@ -1,5 +1,5 @@
 <L>4600<pc>149<k1>continental<k2>continental
-<div n="lb"/>{@CONTINENTAL:@}¦ <div n="I">I Lit.: {#*वर्षीयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#वर्ष#}</div> in
-<div n="lb"/>comp., <div n="xe">{%c. congress:%}</div> <div n="xs">{#*वर्षसभा।#}</div> </div><div n="I">II Of Europe:
-<div n="lb"/>expr. by comp., <div n="xe">{%c. tour:%}</div> <div n="xs">{#इयुरुपवर्षभ्रमणम्।#}</div></div>
+{@CONTINENTAL:@}¦ <div n="I">I Lit.: {#*वर्षीयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#वर्ष#}</div> in
+comp., <div n="xe">{%c. congress:%}</div> <div n="xs">{#*वर्षसभा।#}</div> </div><div n="I">II Of Europe:
+expr. by comp., <div n="xe">{%c. tour:%}</div> <div n="xs">{#इयुरुपवर्षभ्रमणम्।#}</div></div>
 <LEND>

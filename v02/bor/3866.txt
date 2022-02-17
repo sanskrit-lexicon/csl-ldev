@@ -1,4 +1,4 @@
 <L>3866<pc>126<k1>clothier<k2>clothier
-<div n="lb"/>{@CLOTHIER:@}¦ <div n="1">(1) {#पट-#} <div n="xe">{%or%}</div> <div n="xs">{#पट्टकारः#}</div> (maker); </div><div n="1">(2)
-<div n="lb"/>{#वस्त्रविक्रेतृ#} (m.) (seller).</div>
+{@CLOTHIER:@}¦ <div n="1">(1) {#पट-#} <div n="xe">{%or%}</div> <div n="xs">{#पट्टकारः#}</div> (maker); </div><div n="1">(2)
+{#वस्त्रविक्रेतृ#} (m.) (seller).</div>
 <LEND>

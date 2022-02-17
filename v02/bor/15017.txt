@@ -1,8 +1,8 @@
 <L>15017<pc>459<k1>motive<k2>motive
-<div n="lb"/>{@MOTIVE@}¦ (subs.): {%rewards are m.s for action:%}
-<div n="lb"/>{#पारितोषिकलाभेच्छया नराः कर्मणि प्रवर्तन्ते;#} <div n="xe">{%money%}
-<div n="lb"/>{%was the m. for murdering her:%}</div> <div n="xs">{#अर्थस्य कारणादेषा #}
-<div n="lb"/>{# मारिता,#}</div> Mr.; {%whose m.s cannot be thought of:%}
-<div n="lb"/>{#अचिन्त्यहेतुकः#} ({#का, कं#}), Ku. v. 75.: v. Reason,
-<div n="lb"/>ground, why.
+{@MOTIVE@}¦ (subs.): {%rewards are m.s for action:%}
+{#पारितोषिकलाभेच्छया नराः कर्मणि प्रवर्तन्ते;#} <div n="xe">{%money%}
+{%was the m. for murdering her:%}</div> <div n="xs">{#अर्थस्य कारणादेषा #}
+{# मारिता,#}</div> Mr.; {%whose m.s cannot be thought of:%}
+{#अचिन्त्यहेतुकः#} ({#का, कं#}), Ku. v. 75.: v. Reason,
+ground, why.
 <LEND>

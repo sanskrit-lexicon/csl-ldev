@@ -1,4 +1,4 @@
 <L>11888<pc>371<k1>incompletely<k2>incompletely
-<div n="lb"/>{@INCOMPLETELY:@}¦ <div n="1">(1) {#असम्पूर्णम्;#} </div><div n="1">(2) {#न पूर्णम्#} {%or%}
-<div n="lb"/>{#सम्पूर्णम्#} <div n="xe">{%or%}</div> <div n="xs">{#परिपूर्णम्।#}</div></div>
+{@INCOMPLETELY:@}¦ <div n="1">(1) {#असम्पूर्णम्;#} </div><div n="1">(2) {#न पूर्णम्#} {%or%}
+{#सम्पूर्णम्#} <div n="xe">{%or%}</div> <div n="xs">{#परिपूर्णम्।#}</div></div>
 <LEND>

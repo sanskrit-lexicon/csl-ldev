@@ -1,5 +1,5 @@
 <L>16596<pc>509<k1>pave<k2>pave
-<div n="lb"/>{@PAVE@}¦ (v.) {#प्रस्तरैः#} (stones) <div n="xe">{%or%}</div> <div n="xs">{#इष्टकाभिः#}</div> (bricks)
-<div n="lb"/>{#खचयति#} ({#खच्,#} c. 10.), <div n="xe">{%p. d:%}</div> <div n="xs">{#उपलखचित#}</div> (f. {#ता#}),
-<div n="lb"/>etc.; <div n="xe">{%p. d resting places:%}</div> <div n="xs">{#इष्टकाखचितविश्रामाः,#}</div> K.
+{@PAVE@}¦ (v.) {#प्रस्तरैः#} (stones) <div n="xe">{%or%}</div> <div n="xs">{#इष्टकाभिः#}</div> (bricks)
+{#खचयति#} ({#खच्,#} c. 10.), <div n="xe">{%p. d:%}</div> <div n="xs">{#उपलखचित#}</div> (f. {#ता#}),
+etc.; <div n="xe">{%p. d resting places:%}</div> <div n="xs">{#इष्टकाखचितविश्रामाः,#}</div> K.
 <LEND>

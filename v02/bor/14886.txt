@@ -1,5 +1,5 @@
 <L>14886<pc>455<k1>monarchy<k2>monarchy
-<div n="lb"/>{@MONARCHY:@}¦ <div n="I">I M.cal government: </div><div n="1">(1)
-<div n="lb"/>{#राजशासनम्;#} </div><div n="1">(2) {#राजतन्त्रम्।#} </div><div n="I">II Kingdom: q. v.:
-<div n="lb"/>{#राज्यम्।#}</div>
+{@MONARCHY:@}¦ <div n="I">I M.cal government: </div><div n="1">(1)
+{#राजशासनम्;#} </div><div n="1">(2) {#राजतन्त्रम्।#} </div><div n="I">II Kingdom: q. v.:
+{#राज्यम्।#}</div>
 <LEND>

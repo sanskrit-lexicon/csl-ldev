@@ -13,7 +13,7 @@
 <ls>KĀTY. ŚR. 5, 1, 1.</ls> {#फाल्गुणचैत्रौ वसन्तः#} 
 <ls>SUŚR. 1, 20, 4.</ls> 
 <ls>M. 7, 182.</ls> 
-<ls>MBH. 3, 5068. 13, 5154.</ls> 
+<ls>MBH. 3, 5068.</ls> <ls n="MBH.">13, 5154.</ls> 
 <ls>R. 1, 19, 1.</ls> {#चैत्रे विचित्राः क्षपाः#} 
 <ls>BHARTṚ. 1, 35.</ls> 
 <ls>MĀLAV. 82.</ls> 
@@ -24,7 +24,7 @@
 <div n="2">— c) {%ein buddhistischer Bettler%} 
 <ls>TRIK. 1, 1, 24.</ls> 
 <div n="2">— d) ein gangharer Mannsname, der wie {%Cajus%} zur allgemeinen Bez. einer unbestimmten Person gebraucht wird, 
-<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 5. 7.</ls> <ls>Z. d. d. m. G.</ls> <ls>?VII, 310. Sch. zu PRAB. 50, 11.</ls> Hierher gehört wohl auch: {#चैत्रो मैत्रात्पूर्वदेशे#} 
+<ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 5. 7.</ls> <ls>Z. d. d. m. G.</ls> <ls>VII, 310. Sch.</ls> zu <ls>PRAB. 50, 11.</ls> Hierher gehört wohl auch: {#चैत्रो मैत्रात्पूर्वदेशे#} 
 <ls>P. 2, 3, 29,</ls> 
 <ls>Sch.</ls> 
 <div n="2">— e) metron. von <is>Citrā</is>, ein Sohn <is>Budha's</is> und Grossvater des <is>Suratha</is> 
@@ -34,7 +34,7 @@
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 26.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#ई#} (mit oder ohne {#पौर्णमासी#}) {%Vollmondstag im Monat%} <is>Caitra</is> {%und das an demselben übliche Opfer%} 
 <ls>Z. d. d. m. G. IX, LXXIII.</ls> <ls>KĀTY. ŚR. 13, 1, 4. 5.</ls> <ls>LĀṬY. 10, 5, 18.</ls> <ls>ŚĀṄKH. ŚR. 3, 13, 2.</ls> {#चैत्रीपक्ष#} 
-<ls>LĀṬY. 10, 20, 2. -</ls> <ls>P. 4, 2, 23.</ls> <ls>MBH. 12, 3691. 14, 2086.</ls> 
+<ls>LĀṬY. 10, 20, 2.</ls> - <ls>P. 4, 2, 23.</ls> <ls>MBH. 12, 3691.</ls> <ls n="MBH.">14, 2086.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Grabmal%}, = {#मृतकचैत्य#} 
 <ls>H. an.</ls> = {#मृत#} 

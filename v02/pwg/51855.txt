@@ -7,10 +7,10 @@
 <ls>AK. 2, 8, 2, 76.</ls> 
 <ls>H. 1405.</ls> 
 <ls>HALĀY. 1, 151.</ls> 
-<ls>MBH. 1, 1365. 2819. 7, 1557.</ls> 
+<ls>MBH. 1, 1365.</ls> <ls n="MBH. 1,">2819.</ls> <ls n="MBH.">7, 1557.</ls> 
 <ls>HARIV. 6315.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 65, 21.</ls> 
+
+<ls>R. GORR. 2, 65, 21.</ls> 
 <ls>SUŚR. 1, 107, 10.</ls> 
 <ls>RAGH. 9, 73.</ls>
 <LEND>

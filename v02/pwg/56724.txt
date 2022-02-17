@@ -13,7 +13,7 @@
 <ls>HARIV. 7086.</ls> 
 <ls>ṚT. 1, 3.</ls> 
 <ls>ŚĀK. 26. 44. 65.</ls> 
-<ls>MBH. 3, 1829.10324.</ls>
+<ls>MBH. 3, 1829.</ls> <ls n="MBH. 3,">10324.</ls>
 [Page5-0474]
 {#हतमपि निहन्त्येव मदनः#} 
 <ls>Spr. 729. 2461.</ls> 
@@ -23,7 +23,7 @@
 <ls>SĀH. D. 99.</ls> {#मदनेन विमोहितः#} 
 <ls>R. 1, 63, 7.</ls> {#मदनातुरा#} 
 <ls>RAGH. 12, 32.</ls> 
-<ls>VET.</ls> in <ls>LA. (II) 16, 14.</ls> {#°क्लिष्टा#} 
+<ls>VET. in LA. (II) 16, 14.</ls> {#°क्लिष्टा#} 
 <ls>ŚĀK. 58.</ls> {#मदनोत्सुक#} 
 <ls>VIKR. 22, 8.</ls> {#°वह्निशिखावली#} 
 <ls>Spr. 117.</ls> {#°शिखिपीडा#} 
@@ -61,8 +61,8 @@
 <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> = {#मङ्कोठ#} d. i. wohl {#अङ्कोठ#} {%Alangium hexapetalum; Mimusops Elengi%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— g) N. pr. verschiedener Männer 
-<ls>Verz. d. B. H. 117</ls> <ls>?(LXX). Verz. d. Oxf. H. 124,a,50. 127,a, No. 228. 150,b,32. 275,a,17. 276,a,15. 323,a, No. 765. HALL in der Einl. zu VĀSAVAD. S. 7. RĀJA-TAR.7,301. 580. 888. 924. 1130. 1206. 1213. ŚUK. in LA. (II) 32,9.</ls> Inschr. in Journ. of the Am. Or. 
-<ls>?S. 7, 29, 3. 33, 8. WILSON, Sel. Works I, 211</ls> (wohl fehlerhaft für {#दमन#}; vgl. die Note ebend.). Vgl. {#भट्ट°, मदननृप, मदनपाल, मदनराज#} . 
+<ls>Verz. d. B. H. 117</ls> (<ls>LXX</ls>). <ls>Verz. d. Oxf. H. 124,a,50. 127,a, No. 228. 150,b,32. 275,a,17. 276,a,15. 323,a, No. 765.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. S. 7.</ls> <ls>RĀJA-TAR.7,301. 580. 888. 924. 1130. 1206. 1213.</ls> <ls>ŚUK.</ls> in <ls>LA. (II) 32,9.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 7, 29, 3. 33, 8.</ls> 
+<ls>WILSON, Sel. Works I, 211</ls> (wohl fehlerhaft für {#दमन#}; vgl. die Note ebend.). Vgl. {#भट्ट°, मदननृप, मदनपाल, मदनराज#} . 
 <div n="1">— 3) <lex>f.</lex> {#आ#} {%ein berauschendes Getränk%} 
 <ls>H. 903.</ls> 
 <div n="1">— 4) <lex>f.</lex> {#ई#} 

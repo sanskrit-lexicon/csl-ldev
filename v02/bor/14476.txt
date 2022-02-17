@@ -1,8 +1,8 @@
 <L>14476<pc>444<k1>merchant<k2>merchant
-<div n="lb"/>{@MERCHANT:@}¦ <div n="1">(1) {#वणिज्#} (m.), {%dealing of m.s:%}
-<div n="lb"/>{#वणिजां पणाः,#} B.; <div n="xe">{%voyaging m.:%}</div> <div n="xs">{#पोतवणिक्,#}</div> H.;
-<div n="lb"/><div n="xe">{%business of a m.:%}</div> <div n="xs">{#वणिक्कर्म,#}</div> P.; <div n="xe">{%a m. dealing in%}
-<div n="lb"/>{%knowledge:%}</div> <div n="xs">{#ज्ञानपण्यो वणिक्,#}</div> Mal. i. 17.; </div><div n="1">(2)
-<div n="lb"/>{#श्रेष्ठिन्#} (m (= a class of m. s), {%m. quarter:%}
-<div n="lb"/>{#श्रेष्ठिचत्वरम्,#} Mr. ii.</div>
+{@MERCHANT:@}¦ <div n="1">(1) {#वणिज्#} (m.), {%dealing of m.s:%}
+{#वणिजां पणाः,#} B.; <div n="xe">{%voyaging m.:%}</div> <div n="xs">{#पोतवणिक्,#}</div> H.;
+<div n="xe">{%business of a m.:%}</div> <div n="xs">{#वणिक्कर्म,#}</div> P.; <div n="xe">{%a m. dealing in%}
+{%knowledge:%}</div> <div n="xs">{#ज्ञानपण्यो वणिक्,#}</div> Mal. i. 17.; </div><div n="1">(2)
+{#श्रेष्ठिन्#} (m (= a class of m. s), {%m. quarter:%}
+{#श्रेष्ठिचत्वरम्,#} Mr. ii.</div>
 <LEND>

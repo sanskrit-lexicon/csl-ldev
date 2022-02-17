@@ -1,4 +1,4 @@
 <L>614<pc>023<k1>alms<k2>alms
-<div n="lb"/>{@ALMS:@}¦ <div n="1">(1) {#भिक्षा;#} </div><div n="1">(2) {#भैक्षम्।#} <div n="xe">{%To beg a.%}</div> <div n="xs">{#भिक्षते#}</div>
-<div n="lb"/>({#भिक्ष्,#} c. 1).</div>
+{@ALMS:@}¦ <div n="1">(1) {#भिक्षा;#} </div><div n="1">(2) {#भैक्षम्।#} <div n="xe">{%To beg a.%}</div> <div n="xs">{#भिक्षते#}</div>
+({#भिक्ष्,#} c. 1).</div>
 <LEND>

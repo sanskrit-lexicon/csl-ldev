@@ -1,31 +1,31 @@
 <L>36697<pc>0753-a<k1>मह्<k2>मह्<h>1
 {#मह्#} 1¦. {%mah%} (orginally perhaps {%magh,%}
-<div n="lb"/>meaning ‘to be great,’ cf. rts. {%maṃh,%}
-<div n="lb"/>{%makh%}), cl. 1. P. (Ved. and ep. also A.) {%mahati%}
-<div n="lb"/>{%(-te), mamāha, mahitā, mahiṣyati, mahitum%}
-<div n="lb"/>(Ved. inf. {%mahe%}); cl. 10. P. A. {%mahayati, -te,%}
-<div n="lb"/>&c. (Vedic forms {%māmahe, māmahasva, māma-%}
-<div n="lb"/>{%has%}), to gladden, make cheerful, enliven, inspirit,
-<div n="lb"/>excite; (Sāy.) to make great, increase, aggrandize
-<div n="lb"/>(e. g. {%mā naḥ kāmam mahayantam ā dhak,%} dis-
-<div n="lb"/>appoint not the desire that would make us great,
-<div n="lb"/>Ṛg-veda 1. 178, 1); to value highly, esteem highly,
-<div n="lb"/>hold in great esteem, honour, revere, do honour to,
-<div n="lb"/>worship, adore; (A., Ved.) to rejoice in, delight in;
-<div n="lb"/>to be honoured or glorified, (in Ṛg-veda VI. 15, 2,
-<div n="lb"/>{%praśastibhir mahayase%} is rendered by Sāy. ‘thou
-<div n="lb"/>art honoured by excellent hymns’): Caus. {%māhayati,%}
-<div n="lb"/>{%yitum:%} Desid. {%mimahiṣati:%} Intens. {%māmah-%}
-<div n="lb"/>{%yate,%} to honour, protect, preserve (Ved.); [cf. Gr.
-<div n="lb"/><lang n="greek">μέγ-α-ς, μέγ-εθ-ος, μῆχ-ος, μῆχ-αρ, μηχ-ανή,</lang>
-<div n="lb"/><lang n="greek">μηχανᾶ-σθαι, μόγ-ος, μόχθ-ος, μέγαρον:</lang> Lat.
-<div n="lb"/><nsi>magnus, mactus:</nsi> Goth. <nsi>mag,</nsi> ‘I can;’ <nsi>mah-t-s,</nsi>
-<div n="lb"/>‘might;’ <nsi>magaths, magus,</nsi> ‘a boy;’ <nsi>magan,</nsi>
-<div n="lb"/><nsi>magu, mavi:</nsi> Old Germ. <nsi>magan,</nsi> ‘great, heavy;’
-<div n="lb"/><nsi>machôn,</nsi> ‘to make:’ Mod.; Germ. <nsi>gemach:</nsi> Angl.
-<div n="lb"/>Sax. <nsi>mag, magan, mæht, meaht, miht, mægn,</nsi>
-<div n="lb"/><nsi>meagn, macian:</nsi> Slav. <nsi>mog-a,</nsi> ‘I can;’ <nsi>po-mos-ti,</nsi>
-<div n="lb"/>‘to help:’ Lith. <nsi>mag-oju,</nsi> ‘help:’ Hib. <nsi>mogh,</nsi>
-<div n="lb"/><nsi>modh,</nsi> ‘respect, honour:’ Cambro-Brit. <nsi>myged,</nsi>
-<div n="lb"/>‘respect;’ <nsi>mygaw,</nsi> ‘to revere.’]
+meaning ‘to be great,’ cf. rts. {%maṃh,%}
+{%makh%}), cl. 1. P. (Ved. and ep. also A.) {%mahati%}
+{%(-te), mamāha, mahitā, mahiṣyati, mahitum%}
+(Ved. inf. {%mahe%}); cl. 10. P. A. {%mahayati, -te,%}
+&c. (Vedic forms {%māmahe, māmahasva, māma-%}
+{%has%}), to gladden, make cheerful, enliven, inspirit,
+excite; (Sāy.) to make great, increase, aggrandize
+(e. g. {%mā naḥ kāmam mahayantam ā dhak,%} dis-
+appoint not the desire that would make us great,
+Ṛg-veda 1. 178, 1); to value highly, esteem highly,
+hold in great esteem, honour, revere, do honour to,
+worship, adore; (A., Ved.) to rejoice in, delight in;
+to be honoured or glorified, (in Ṛg-veda VI. 15, 2,
+{%praśastibhir mahayase%} is rendered by Sāy. ‘thou
+art honoured by excellent hymns’): Caus. {%māhayati,%}
+{%yitum:%} Desid. {%mimahiṣati:%} Intens. {%māmah-%}
+{%yate,%} to honour, protect, preserve (Ved.); [cf. Gr.
+<lang n="greek">μέγ-α-ς, μέγ-εθ-ος, μῆχ-ος, μῆχ-αρ, μηχ-ανή,</lang>
+<lang n="greek">μηχανᾶ-σθαι, μόγ-ος, μόχθ-ος, μέγαρον:</lang> Lat.
+<nsi>magnus, mactus:</nsi> Goth. <nsi>mag,</nsi> ‘I can;’ <nsi>mah-t-s,</nsi>
+‘might;’ <nsi>magaths, magus,</nsi> ‘a boy;’ <nsi>magan,</nsi>
+<nsi>magu, mavi:</nsi> Old Germ. <nsi>magan,</nsi> ‘great, heavy;’
+<nsi>machôn,</nsi> ‘to make:’ Mod.; Germ. <nsi>gemach:</nsi> Angl.
+Sax. <nsi>mag, magan, mæht, meaht, miht, mægn,</nsi>
+<nsi>meagn, macian:</nsi> Slav. <nsi>mog-a,</nsi> ‘I can;’ <nsi>po-mos-ti,</nsi>
+‘to help:’ Lith. <nsi>mag-oju,</nsi> ‘help:’ Hib. <nsi>mogh,</nsi>
+<nsi>modh,</nsi> ‘respect, honour:’ Cambro-Brit. <nsi>myged,</nsi>
+‘respect;’ <nsi>mygaw,</nsi> ‘to revere.’]
 <LEND>

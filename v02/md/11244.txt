@@ -1,33 +1,33 @@
 <L>11244<pc>155-3<k1>परिभय<k2>परिभय
 {#परिभय#}¦pari-bhaya, {%m.%} apprehension, fear; 
-<>{@-bhava,@} {%m.%} disrespect, contumely, insult, injury, <lbinfo n="2"/>
-<> humiliation; disregard, contempt, for 
-<>({%g., lc.,%} -°), on the part of ({%in., ab.%} -°): {@-pa-@}
-<>{@-da, -āspada,@} {%n.%} object of contempt; {@-bhav-@}
-<>{@-ana,@} {%n.%} humiliation: {@ī-ya,@} {%fp.%} who can be 
-<>insulted {%or%} humiliated; to be humbled; 
-<>{@-bhavin,@} {%a.%} insulting, despising, mocking ({%g.%}); 
-<>{@-bhāva,@} {%m.%} disregard, contumely; {@-bhāvanā,@} 
-<>{%f.%} thought, reflexion; {@-bhāvin,@} {%a.%} slighting; 
-<>mocking, baffling (-°); {@-bhāvuka,@} {%a.%} surpassing <lbinfo n="3"/>
-<> ({%ac.%}); {@-bhāṣaṇa@}, {%n.%} conversation, 
-<>chatter; reproof, reprimand: {@ī-ya,@} {%fp.%} to be 
-<>reproved; {@-bhāṣā,@} {%f.%} speech; censure, reproach, <lbinfo n="2"/>
-<> contumely; general rule {%or%} maxim; 
-<>rule defining the application {%of (grammatical) %}
-<>{%sūtras%}; {@-bhāṣin,@} {%a.%} speaking (-°); {@-bhū́,@} {%a.%} 
-<>({%with ac.%}) surrounding, encompassing; pervading; <lbinfo n="6"/>
-<> superior, guiding; ({@pári@}) {@-bhūti,@} {%f.%} superior <lbinfo n="2"/>
-<> might ({%V.%}); disrespect, contumely, humiliation <lbinfo n="2"/>
-<> ({%sts. pl.%}); {@-bhūṣaṇa@}, {%m.%} ({%sc.%} Saṃdhi) 
-<>peace bought by the cession of all the revenues 
-<>of a country; {@-bheda,@} {%m.%} injury; {@-bhoktṛ@}, 
-<>{%m.%} enjoyer; one who lives on another; sponge; 
-<>{@-bhoga,@} {%m.%} enjoyment; sexual intercourse; 
-<>means of enjoyment {%or%} subsistence; {@-bhraṃśa@}, 
-<>{%m.%} escape: {@-na,@} {%n.%} loss, of ({%ab.%}); {@-bhrama,@} 
-<>{%m.%} digressions, irrelevant talk: {@-ṇa@}, {%n.%} turning, <lbinfo n="4"/>
-<> revolution; going to and fro; circumference; <lbinfo n="9"/>
-<> {@-bhraṣṭsukha@}, {%a.%} whose joy has 
-<>departed, joyless.
+{@-bhava,@} {%m.%} disrespect, contumely, insult, injury, <lbinfo n="2"/>
+ humiliation; disregard, contempt, for 
+({%g., lc.,%} -°), on the part of ({%in., ab.%} -°): {@-pa-@}
+{@-da, -āspada,@} {%n.%} object of contempt; {@-bhav-@}
+{@-ana,@} {%n.%} humiliation: {@ī-ya,@} {%fp.%} who can be 
+insulted {%or%} humiliated; to be humbled; 
+{@-bhavin,@} {%a.%} insulting, despising, mocking ({%g.%}); 
+{@-bhāva,@} {%m.%} disregard, contumely; {@-bhāvanā,@} 
+{%f.%} thought, reflexion; {@-bhāvin,@} {%a.%} slighting; 
+mocking, baffling (-°); {@-bhāvuka,@} {%a.%} surpassing <lbinfo n="3"/>
+ ({%ac.%}); {@-bhāṣaṇa@}, {%n.%} conversation, 
+chatter; reproof, reprimand: {@ī-ya,@} {%fp.%} to be 
+reproved; {@-bhāṣā,@} {%f.%} speech; censure, reproach, <lbinfo n="2"/>
+ contumely; general rule {%or%} maxim; 
+rule defining the application {%of (grammatical) %}
+{%sūtras%}; {@-bhāṣin,@} {%a.%} speaking (-°); {@-bhū́,@} {%a.%} 
+({%with ac.%}) surrounding, encompassing; pervading; <lbinfo n="6"/>
+ superior, guiding; ({@pári@}) {@-bhūti,@} {%f.%} superior <lbinfo n="2"/>
+ might ({%V.%}); disrespect, contumely, humiliation <lbinfo n="2"/>
+ ({%sts. pl.%}); {@-bhūṣaṇa@}, {%m.%} ({%sc.%} Saṃdhi) 
+peace bought by the cession of all the revenues 
+of a country; {@-bheda,@} {%m.%} injury; {@-bhoktṛ@}, 
+{%m.%} enjoyer; one who lives on another; sponge; 
+{@-bhoga,@} {%m.%} enjoyment; sexual intercourse; 
+means of enjoyment {%or%} subsistence; {@-bhraṃśa@}, 
+{%m.%} escape: {@-na,@} {%n.%} loss, of ({%ab.%}); {@-bhrama,@} 
+{%m.%} digressions, irrelevant talk: {@-ṇa@}, {%n.%} turning, <lbinfo n="4"/>
+ revolution; going to and fro; circumference; <lbinfo n="9"/>
+ {@-bhraṣṭsukha@}, {%a.%} whose joy has 
+departed, joyless.
 <LEND>

@@ -1,4 +1,4 @@
 <L>15573<pc>477<k1>now-a-days<k2>now-a-days
-<div n="lb"/>{@NOW-A-DAYS:@}¦ {#एषु दिवसेषु,#} V. <div n="xe">{%People n.:%}</div> <div n="xs">{#इदानी-#}
-<div n="lb"/>{#न्तनाः#}</div> ({#लोकाः#}), S.
+{@NOW-A-DAYS:@}¦ {#एषु दिवसेषु,#} V. <div n="xe">{%People n.:%}</div> <div n="xs">{#इदानी-#}
+{#न्तनाः#}</div> ({#लोकाः#}), S.
 <LEND>

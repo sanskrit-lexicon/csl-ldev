@@ -1,7 +1,7 @@
 <L>20214<pc>630<k1>servility<k2>servility
-<div n="lb"/>{@SERVILITY,@}¦ {@SERVILENESS:@} <div n="I">I Lit.: </div><div n="1">(1) {#दास्यम्;#}</div>
-<div n="lb"/><div n="1">(2) {#दासता, -त्वम्#} (also {#दासीता, -त्वम्#} of females).</div>
-<div n="lb"/><div n="I">II Slavish deference: </div><div n="1">(1) expr. with
-<div n="lb"/>{#दासवत्;#} </div><div n="1">(2) {#चरणावपातः#} and sim. comp. s.: v.
-<div n="lb"/>Also meanness.</div>
+{@SERVILITY,@}¦ {@SERVILENESS:@} <div n="I">I Lit.: </div><div n="1">(1) {#दास्यम्;#}</div>
+<div n="1">(2) {#दासता, -त्वम्#} (also {#दासीता, -त्वम्#} of females).</div>
+<div n="I">II Slavish deference: </div><div n="1">(1) expr. with
+{#दासवत्;#} </div><div n="1">(2) {#चरणावपातः#} and sim. comp. s.: v.
+Also meanness.</div>
 <LEND>

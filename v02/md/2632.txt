@@ -1,15 +1,15 @@
 <L>2632<pc>027-3<k1>अर्थयुक्त<k2>अर्थयुक्त
 {#अर्थयुक्त#}¦artha-yukta, {%pp.%} significant; {@-yukti,@} 
-<>{%f.%} gain, advantage; {@-rāśi@}, {%m.%} wealth; {@-ruci@}, 
-<>{%a.%} avaricious; {@-lābha,@} {%m.%} acquisition of wealth; 
-<>{%-lubdha,%} {%pp.%} avaricious; {@-lolupa-tā,@} {%f.%} love 
-<>of money; {@-vat,@} {%a.%} wealthy; significant; intelligible; <lbinfo n="2"/>
-<> {%ad.%} judiciously: {@-tā,@} {%f.,%} {@-tva,@} {%n.%} 
-<>significance; {@-varjita@}, {%pp.%} meaningless; 
-<>{@-varman,@} {%m. N.%}; {@-vāda,@} {%m.%} explanation of the 
-<>purpose; praise; {@-vādin,@} {%a.%} reporting facts; 
-<>{@-vid,@} {%a.%} knowing the sense; {@-vināśana@}, {%a.%} detrimental; <lbinfo n="2"/>
-<> {@-viparyaya@}, {%m.%} impoverishment; 
-<>poverty; {@-vṛddhi@}, {%f.%} increase of wealth; {@-vy-@}
-<>{@-avahāra@}, {%m.%} pecuniary suit.
+{%f.%} gain, advantage; {@-rāśi@}, {%m.%} wealth; {@-ruci@}, 
+{%a.%} avaricious; {@-lābha,@} {%m.%} acquisition of wealth; 
+{%-lubdha,%} {%pp.%} avaricious; {@-lolupa-tā,@} {%f.%} love 
+of money; {@-vat,@} {%a.%} wealthy; significant; intelligible; <lbinfo n="2"/>
+ {%ad.%} judiciously: {@-tā,@} {%f.,%} {@-tva,@} {%n.%} 
+significance; {@-varjita@}, {%pp.%} meaningless; 
+{@-varman,@} {%m. N.%}; {@-vāda,@} {%m.%} explanation of the 
+purpose; praise; {@-vādin,@} {%a.%} reporting facts; 
+{@-vid,@} {%a.%} knowing the sense; {@-vināśana@}, {%a.%} detrimental; <lbinfo n="2"/>
+ {@-viparyaya@}, {%m.%} impoverishment; 
+poverty; {@-vṛddhi@}, {%f.%} increase of wealth; {@-vy-@}
+{@-avahāra@}, {%m.%} pecuniary suit.
 <LEND>

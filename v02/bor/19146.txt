@@ -1,5 +1,5 @@
 <L>19146<pc>592<k1>respire<k2>respire
-<div n="lb"/>{@RESPIRE:@}¦ <div n="I">I To breathe: q. v.: {#श्वसिति#} ({#श्वस्,#}
-<div n="lb"/>c. 2.). </div><div n="I">II To inhale: q. v.: {#आचामति#} ({#चम्,#}
-<div n="lb"/>c. 1).</div>
+{@RESPIRE:@}¦ <div n="I">I To breathe: q. v.: {#श्वसिति#} ({#श्वस्,#}
+c. 2.). </div><div n="I">II To inhale: q. v.: {#आचामति#} ({#चम्,#}
+c. 1).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>998<pc>035<k1>apt<k2>apt
-<div n="lb"/>{@APT:@}¦ <div n="I">I Fit, suitable: q. v.: {#उपयुक्तः#} ({#क्ता, #}
-<div n="lb"/>{# क्तं#}). </div><div n="I">II Inclined, prone: </div><div n="1">(1) by {#शीलः#}
-<div n="lb"/>({#ला, लं#}) in comp., <div n="xe">{%a. to forget%}</div> <div n="xs">{#विस्मरणशीलः#}</div> ({#ला, #}
-<div n="lb"/>{# लं#}); </div><div n="1">(2) in some cases by a deriv: {%a. to break%}
-<div n="lb"/>{#भङ्गुरः#} ({#रा, रं#}); <div n="xe">{%a. to fall%}</div> <div n="xs">{#पातुकः#}</div> ({#का, कं#}), <div n="xe">{%not%}
-<div n="lb"/>{%a. to perish%}</div> <div n="xs">{#अविनश्वरः#}</div> ({#रा, रं#}). </div><div n="I">III Ready,
-<div n="lb"/>prompt: q. v.</div>
+{@APT:@}¦ <div n="I">I Fit, suitable: q. v.: {#उपयुक्तः#} ({#क्ता, #}
+{# क्तं#}). </div><div n="I">II Inclined, prone: </div><div n="1">(1) by {#शीलः#}
+({#ला, लं#}) in comp., <div n="xe">{%a. to forget%}</div> <div n="xs">{#विस्मरणशीलः#}</div> ({#ला, #}
+{# लं#}); </div><div n="1">(2) in some cases by a deriv: {%a. to break%}
+{#भङ्गुरः#} ({#रा, रं#}); <div n="xe">{%a. to fall%}</div> <div n="xs">{#पातुकः#}</div> ({#का, कं#}), <div n="xe">{%not%}
+{%a. to perish%}</div> <div n="xs">{#अविनश्वरः#}</div> ({#रा, रं#}). </div><div n="I">III Ready,
+prompt: q. v.</div>
 <LEND>

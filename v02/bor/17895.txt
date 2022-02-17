@@ -1,5 +1,5 @@
 <L>17895<pc>548<k1>profoundness<k2>profoundness
-<div n="lb"/>{@PROFOUNDNESS,@}¦ {@PROFUNDITY:@} <div n="I">I Lit.: </div><div n="1">(1)
-<div n="lb"/>{#अगाधता;#} </div><div n="1">(2) {#अतिगर्भीरता।#} </div><div n="I">II Fig.: {#प्रगाढता।#}</div>
-<div n="lb"/><div n="I">III Abstruseness: </div><div n="1">(1) {#गहनता;#} </div><div n="1">(2) {#निगूढता।#}</div>
+{@PROFOUNDNESS,@}¦ {@PROFUNDITY:@} <div n="I">I Lit.: </div><div n="1">(1)
+{#अगाधता;#} </div><div n="1">(2) {#अतिगर्भीरता।#} </div><div n="I">II Fig.: {#प्रगाढता।#}</div>
+<div n="I">III Abstruseness: </div><div n="1">(1) {#गहनता;#} </div><div n="1">(2) {#निगूढता।#}</div>
 <LEND>

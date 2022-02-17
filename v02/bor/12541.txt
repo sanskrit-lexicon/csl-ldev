@@ -1,4 +1,4 @@
 <L>12541<pc>389<k1>interpreter<k2>interpreter
-<div n="lb"/>{@INTERPRETER:@}¦ <div n="I">I An. expositor: {#व्याख्यातृ#} (m.).</div>
-<div n="lb"/><div n="I">II A translator: <div n="xe">{%Persian i.:%}</div> <div n="xs">{#*पारसिकमाषाबोधकः।#}</div></div>
+{@INTERPRETER:@}¦ <div n="I">I An. expositor: {#व्याख्यातृ#} (m.).</div>
+<div n="I">II A translator: <div n="xe">{%Persian i.:%}</div> <div n="xs">{#*पारसिकमाषाबोधकः।#}</div></div>
 <LEND>

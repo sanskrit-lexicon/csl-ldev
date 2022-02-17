@@ -1,5 +1,5 @@
 <L>13423<pc>413<k1>leisure<k2>leisure
-<div n="lb"/>{@LEISURE:@}¦ <div n="1">(1) {#अवकाशः;#} </div><div n="1">(2) {#अवसरः,#} Sa. Ph.:
-<div n="lb"/><div n="xe">{%at l.:%}</div> <div n="xs">{#प्राप्तावसरः#}</div> ({#रा, रं#}), {#लब्धावसरः#} ({#रा, रं#}), etc.;
-<div n="lb"/><div n="xe">{%want of l.:%}</div> <div n="xs">{#अनवकाशः,#}</div> etc.</div>
+{@LEISURE:@}¦ <div n="1">(1) {#अवकाशः;#} </div><div n="1">(2) {#अवसरः,#} Sa. Ph.:
+<div n="xe">{%at l.:%}</div> <div n="xs">{#प्राप्तावसरः#}</div> ({#रा, रं#}), {#लब्धावसरः#} ({#रा, रं#}), etc.;
+<div n="xe">{%want of l.:%}</div> <div n="xs">{#अनवकाशः,#}</div> etc.</div>
 <LEND>

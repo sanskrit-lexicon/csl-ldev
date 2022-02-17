@@ -1,15 +1,15 @@
 <L>249<pc>010<k1>address<k2>address
-<div n="lb"/>{@ADDRESS@}¦ (subs.): <div n="I">I A speaking to; </div><div n="1">(1)
-<div n="lb"/>{#सम्बोधनम्;#} </div><div n="1">(2) {#अभिभाषणम्;#} </div><div n="1">(3) {#वचनम्।#} </div><div n="I">II A
-<div n="lb"/>massage of respect: perh. {#अभिवादः।#} </div><div n="I">III
-<div n="lb"/>Manner of speaking to another: Ph. <div n="xe">{%of%}
-<div n="lb"/>{%pleasing a.%}</div> <div n="xs">{#प्रियम्बदः#}</div> ({#दा, दं#}) <div n="xe">{%or%}</div> <div n="xs">{#मिष्टभाषिन्#}</div> (f. {#णी#})
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#मधुरालापिन्#}</div> (f. {#नी#}). </div><div n="I">IV Tact, dexterity:
-<div n="lb"/>q. v. {#दक्षता:#} V. In pl.: of courtship: Ph.
-<div n="lb"/><div n="xe">{%his a. es were rejected%}</div> <div n="xs">{#*तस्यामन्त्रणं प्रत्यादिष्टम्।#}</div> </div><div n="I">VI
-<div n="lb"/>The superscription of a letter: {#बाह्यनामन्#} (n.)
-<div n="lb"/><div n="xe">{%get this letter written by Sakatadasa without%}
-<div n="lb"/>{%putting any a.:%}</div> <div n="xs">{#अदत्तबाह्यनामानं लेखं शकटदासेन #}
-<div n="lb"/>{# लेखयित्वा#}</div> Mu. i. </div><div n="I">VII The direction {#नामधमनी#}
-<div n="lb"/>(n. du.).</div>
+{@ADDRESS@}¦ (subs.): <div n="I">I A speaking to; </div><div n="1">(1)
+{#सम्बोधनम्;#} </div><div n="1">(2) {#अभिभाषणम्;#} </div><div n="1">(3) {#वचनम्।#} </div><div n="I">II A
+massage of respect: perh. {#अभिवादः।#} </div><div n="I">III
+Manner of speaking to another: Ph. <div n="xe">{%of%}
+{%pleasing a.%}</div> <div n="xs">{#प्रियम्बदः#}</div> ({#दा, दं#}) <div n="xe">{%or%}</div> <div n="xs">{#मिष्टभाषिन्#}</div> (f. {#णी#})
+<div n="xe">{%or%}</div> <div n="xs">{#मधुरालापिन्#}</div> (f. {#नी#}). </div><div n="I">IV Tact, dexterity:
+q. v. {#दक्षता:#} V. In pl.: of courtship: Ph.
+<div n="xe">{%his a. es were rejected%}</div> <div n="xs">{#*तस्यामन्त्रणं प्रत्यादिष्टम्।#}</div> </div><div n="I">VI
+The superscription of a letter: {#बाह्यनामन्#} (n.)
+<div n="xe">{%get this letter written by Sakatadasa without%}
+{%putting any a.:%}</div> <div n="xs">{#अदत्तबाह्यनामानं लेखं शकटदासेन #}
+{# लेखयित्वा#}</div> Mu. i. </div><div n="I">VII The direction {#नामधमनी#}
+(n. du.).</div>
 <LEND>

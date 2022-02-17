@@ -1,4 +1,4 @@
 <L>895<pc>031<k1>aphoristic<k2>aphoristic
-<div n="lb"/>{@APHORISTIC:@}¦ Ph. {%the method of the book is a.%}
-<div n="lb"/>{#*सूत्रैर्ग्रथितो ग्रन्थः।#}
+{@APHORISTIC:@}¦ Ph. {%the method of the book is a.%}
+{#*सूत्रैर्ग्रथितो ग्रन्थः।#}
 <LEND>

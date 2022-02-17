@@ -1,6 +1,6 @@
 <L>1890<pc>040-b<k1>bathing<k2>bathing
-<div n="lb"/>BATHING¦, {%s.%} (Act of) {#स्नानं, मज्जनं, निमज्जनं, आप्लवः, आप्लावः, अव-#}
-<div n="lb"/>{#गाहनं, अभिषेकः#}. — (Religious bathing) {#सवनं, अभिषवः, सूत्या#}.
-<div n="lb"/> — (Relating to bathing) {#स्नानीयः -या -यं#}. — (Bathing-gown)
-<div n="lb"/>{#स्नानवस्त्रं#}.
+BATHING¦, {%s.%} (Act of) {#स्नानं, मज्जनं, निमज्जनं, आप्लवः, आप्लावः, अव-#}
+{#गाहनं, अभिषेकः#}. — (Religious bathing) {#सवनं, अभिषवः, सूत्या#}.
+ — (Relating to bathing) {#स्नानीयः -या -यं#}. — (Bathing-gown)
+{#स्नानवस्त्रं#}.
 <LEND>

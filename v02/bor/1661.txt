@@ -1,12 +1,12 @@
 <L>1661<pc>057<k1>base<k2>base
-<div n="lb"/>{@BASE@}¦ (adj.): <div n="I">I Of mean parentage: </div><div n="1">(1)
-<div n="lb"/>{#अनभिजातः#} ({#ता, तं#}); </div><div n="1">(2) {#अकुलीनः#} ({#ना, नं#}); </div><div n="1">(3)
-<div n="lb"/>{#दुष्कुलीनः#} ({#ना, नं#}). {%A b. man:%} </div><div n="1">(1) {#प्राकृतः;#} </div><div n="1">(2)
-<div n="lb"/>{#पृथग्जनः,#} Ki. </div><div n="I">II A bastard: {#विजन्मन्#} (mfn.).</div>
-<div n="lb"/><div n="I">III Mean, disingenuous: </div><div n="1">(1) {#निकृष्टः#} ({#ष्टा, #}
-<div n="lb"/>{# ष्टं#}); </div><div n="1">(2) {#अपकृष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(3) {#कदर्यः#} ({#र्या, #}
-<div n="lb"/>{# र्यं#}); </div><div n="1">(4) {#जघन्यः#} ({#न्या, न्यं#}); </div><div n="1">(5) {#पामरः#} ({#रा, #}
-<div n="lb"/>{# रं#}). </div><div n="I">IV Of musical tones: {#गम्भीरः#} ({#रा, #}
-<div n="lb"/>{# रं#}): v. Grave, deep. V. Of metals:
-<div n="lb"/>{#निकृष्टः#} <div n="xe">{%or%}</div> <div n="xs">{#अपकृष्टः#}</div> ({#ष्टा, ष्टं#}). Ph. <div n="xe">{%b. metal%}</div> <div n="xs">{#कुप्यम्।#}</div></div>
+{@BASE@}¦ (adj.): <div n="I">I Of mean parentage: </div><div n="1">(1)
+{#अनभिजातः#} ({#ता, तं#}); </div><div n="1">(2) {#अकुलीनः#} ({#ना, नं#}); </div><div n="1">(3)
+{#दुष्कुलीनः#} ({#ना, नं#}). {%A b. man:%} </div><div n="1">(1) {#प्राकृतः;#} </div><div n="1">(2)
+{#पृथग्जनः,#} Ki. </div><div n="I">II A bastard: {#विजन्मन्#} (mfn.).</div>
+<div n="I">III Mean, disingenuous: </div><div n="1">(1) {#निकृष्टः#} ({#ष्टा, #}
+{# ष्टं#}); </div><div n="1">(2) {#अपकृष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(3) {#कदर्यः#} ({#र्या, #}
+{# र्यं#}); </div><div n="1">(4) {#जघन्यः#} ({#न्या, न्यं#}); </div><div n="1">(5) {#पामरः#} ({#रा, #}
+{# रं#}). </div><div n="I">IV Of musical tones: {#गम्भीरः#} ({#रा, #}
+{# रं#}): v. Grave, deep. V. Of metals:
+{#निकृष्टः#} <div n="xe">{%or%}</div> <div n="xs">{#अपकृष्टः#}</div> ({#ष्टा, ष्टं#}). Ph. <div n="xe">{%b. metal%}</div> <div n="xs">{#कुप्यम्।#}</div></div>
 <LEND>

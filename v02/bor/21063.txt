@@ -1,5 +1,5 @@
 <L>21063<pc>663<k1>south-east<k2>south-east
-<div n="lb"/>{@SOUTH-EAST:@}¦ <div n="1">(1) {#दक्षिणपूर्वा#} <div n="xe">{%or%}</div> <div n="xs">{#पूर्वदक्षिणा दिक्#}</div> and
-<div n="lb"/>sim. comp.s; </div><div n="1">(2) {#आग्नेयी दिक्#} <div n="xe">{%or%}</div> <div n="xs">{#आग्ने यो दिग्मागः#}</div>
-<div n="lb"/>and sim. comp.s; </div><div n="1">(3) {#प्रागवाची।#}</div>
+{@SOUTH-EAST:@}¦ <div n="1">(1) {#दक्षिणपूर्वा#} <div n="xe">{%or%}</div> <div n="xs">{#पूर्वदक्षिणा दिक्#}</div> and
+sim. comp.s; </div><div n="1">(2) {#आग्नेयी दिक्#} <div n="xe">{%or%}</div> <div n="xs">{#आग्ने यो दिग्मागः#}</div>
+and sim. comp.s; </div><div n="1">(3) {#प्रागवाची।#}</div>
 <LEND>

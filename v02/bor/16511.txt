@@ -1,6 +1,6 @@
 <L>16511<pc>507<k1>passable<k2>passable
-<div n="lb"/>{@PASSABLE:@}¦ <div n="I">I Lit.: <div n="xe">{%the road is not p.:%}</div> <div n="xs">{#अगम्योऽयं #}
-<div n="lb"/>{# पन्थाः;#}</div> <div n="xe">{%the stream is p. by boats:%}</div> <div n="xs">{#नौतार्येयं सरित्:#}</div>
-<div n="lb"/>v. To pass. </div><div n="I">II Current: q. v.: {#प्रचलः#} ({#ला, #}
-<div n="lb"/>{# लं#}), </div><div n="I">III Mediocre, middling: q. v.</div>
+{@PASSABLE:@}¦ <div n="I">I Lit.: <div n="xe">{%the road is not p.:%}</div> <div n="xs">{#अगम्योऽयं #}
+{# पन्थाः;#}</div> <div n="xe">{%the stream is p. by boats:%}</div> <div n="xs">{#नौतार्येयं सरित्:#}</div>
+v. To pass. </div><div n="I">II Current: q. v.: {#प्रचलः#} ({#ला, #}
+{# लं#}), </div><div n="I">III Mediocre, middling: q. v.</div>
 <LEND>

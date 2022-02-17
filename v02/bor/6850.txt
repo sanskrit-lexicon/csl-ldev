@@ -1,4 +1,4 @@
 <L>6850<pc>218<k1>downfall<k2>downfall
-<div n="lb"/>{@DOWNFALL:@}¦ <div n="1">(1) {#विनिपातः;#} </div><div n="1">(2) {#अवपातः;#} </div><div n="1">(3) {#पतनम्;#}</div>
-<div n="lb"/><div n="1">(4) {#क्षयः:#} v. Ruin. destruction.</div>
+{@DOWNFALL:@}¦ <div n="1">(1) {#विनिपातः;#} </div><div n="1">(2) {#अवपातः;#} </div><div n="1">(3) {#पतनम्;#}</div>
+<div n="1">(4) {#क्षयः:#} v. Ruin. destruction.</div>
 <LEND>

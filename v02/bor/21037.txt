@@ -1,8 +1,8 @@
 <L>21037<pc>662<k1>sorrowful<k2>sorrowful
-<div n="lb"/>{@SORROWFUL:@}¦ <div n="I">I Full of sorrow: </div><div n="1">(1) {#शोकार्त#}
-<div n="lb"/>(f. {#र्ता#}); </div><div n="1">(2) {#सशोक#} (f. {#का#}); </div><div n="1">(3) {#शोकान्वित#}
-<div n="lb"/>(f. {#ता#}); </div><div n="1">(4) {#शोकोपहत#} (f. {#ता#}); </div><div n="1">(4) {#शोकोपसृष्ट#}
-<div n="lb"/>(f. {#ष्टा#}), and sim. comp.s: v. Also sad.</div>
-<div n="lb"/><div n="I">II Wretched, lamentable: q. v.: {#शोच्य#}
-<div n="lb"/>(f. {#च्या#}) <div n="xe">{%or%}</div> <div n="xs">{#शोचनीय#}</div> (f. {#या#}), {#परि-, अनु-, सं-।#}</div>
+{@SORROWFUL:@}¦ <div n="I">I Full of sorrow: </div><div n="1">(1) {#शोकार्त#}
+(f. {#र्ता#}); </div><div n="1">(2) {#सशोक#} (f. {#का#}); </div><div n="1">(3) {#शोकान्वित#}
+(f. {#ता#}); </div><div n="1">(4) {#शोकोपहत#} (f. {#ता#}); </div><div n="1">(4) {#शोकोपसृष्ट#}
+(f. {#ष्टा#}), and sim. comp.s: v. Also sad.</div>
+<div n="I">II Wretched, lamentable: q. v.: {#शोच्य#}
+(f. {#च्या#}) <div n="xe">{%or%}</div> <div n="xs">{#शोचनीय#}</div> (f. {#या#}), {#परि-, अनु-, सं-।#}</div>
 <LEND>

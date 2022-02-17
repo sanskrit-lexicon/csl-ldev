@@ -5,18 +5,18 @@
 <ls>TBR. 1, 7, 9, 4.</ls> 
 <ls>ŚAT. BR. 5, 4, 3, 19.</ls> 
 <ls>LĀṬY. 9, 1, 24.</ls> {#मांस#} {%Fleisch vom Wildschwein%} 
-<ls>YĀJÑ.1,258.</ls> <ls>MBH.2,97.</ls> <ls>R.2,91,66</ls> <ls>?(100,64 GORR.). SUŚR.1,205,7. Verz. d. Oxf. H. 60,a,18. VARĀH. BṚH. S. 81,23.</ls> {#रूप#} {%die Gestalt eines Ebers%} 
-<ls>MBH. 3, 1558. 5088. 10959. 15829.</ls> 
-<ls>HARIV. 2135. 5862.</ls> 
+<ls>YĀJÑ. 1,258.</ls> <ls>MBH. 2, 97.</ls> <ls>R. 2,91,66</ls> (<ls>100,64 GORR.</ls>). <ls>SUŚR. 1,205,7.</ls> <ls>Verz. d. Oxf. H. 60,a,18.</ls> <ls>VARĀH. BṚH. S. 81,23.</ls> {#रूप#} {%die Gestalt eines Ebers%} 
+<ls>MBH. 3, 1558.</ls> <ls n="MBH. 3,">5088.</ls> <ls n="MBH. 3,">10959.</ls> <ls n="MBH. 3,">15829.</ls> 
+<ls>HARIV. 2135.</ls> <ls n="HARIV.">5862.</ls> 
 <ls>KATHĀS. 11, 56. 26, 179.</ls> 
 <ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. IV, 34.</ls> {#तनु#} 
 <ls>HARIV. 12420.</ls> 
 <ls>BHĀG. P. 3, 18, 20.</ls> 
 <ls>MĀRK. P. 88, 18.</ls> {#वपुस्#} 
-<ls>?21, 36. 47, 7. VP. bei MUIR, ST.IV, 31.</ls>
+<ls>21, 36. 47, 7.</ls> <ls>VP.</ls> bei <ls>MUIR, ST.IV, 31.</ls>
 [Page6-0940]
 {#प्रादुर्भाव#} 
-<ls>HARIV. 2131. 2226</ls> (die ältere Ausg. fälschlich {#वराह)#}.{# जातक#} 
+<ls>HARIV. 2131.</ls> <ls n="HARIV.">2226</ls> (die ältere Ausg. fälschlich {#वराह)#}.{# जातक#} 
 <ls>KATHĀS. 72, 120.</ls> {#आसन#} 
 <ls>Verz. d. Oxf. H. 11,a, N. 1.</ls> {#पुट#} s. u. {#गज#} 5). {#क्षेत्र#} 
 <ls>KATHĀS. 39, 37.</ls> 
@@ -28,10 +28,10 @@
 <ls>Verz. d. Oxf. H. 82,a,34.</ls> {#गायत्री#} 
 <ls>COLEBR. Misc. Ess. II, 152.</ls> <ls>Ind. St. 8, 239.fg.</ls> 
 <div n="2">— b) {%von%} <is>Varāhamihira</is> {%verfasst, - ausgesprochen%}: {#संहिता#} Titel von <is>Varāhamihira's</is> <is>Bṛhatsaṃhitā</is> in den Hdschrr. {#°ताजिकमुकुन्दमत#} 
-<ls>Verz. d. B. H. No. 880</ls> <ls>?= Verz. d. Oxf. H. 334,a,3.</ls> 
+<ls>Verz. d. B. H. No. 880</ls> = <ls>Verz. d. Oxf. H. 334,a,3.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) <is>Viṣṇu</is> {%als Eber%} 
-<ls>MBH. 3, 10927</ls> <ls>?(vgl. aber 10944). 17205</ls> ({#वराह#} ed. Bomb.). 
+<ls>MBH. 3, 10927</ls> (vgl. aber <ls>10944</ls>). <ls>17205</ls> ({#वराह#} ed. Bomb.). 
 <ls>PAÑCAR. 4, 7, 5.</ls> <ls>WEBER, KṚṢṆAJ. 294. 296.</ls> 
 <div n="2">— b) {%ein Banner mit dem Bilde eines Ebers%} 
 <ls>MBH. 6, 4134</ls> nach der Lesart der ed. Bomb. ({#वराह#} ed. Calc.). 
@@ -39,13 +39,13 @@
 <ls>SUŚR. 1, 226, 4.</ls> = 
 <div n="2"> d) N. pr. eines Berges (vgl. {#वराह#}) 
 <ls>MBH. 12, 13422</ls> ({#वराह#} ed. Bomb.). 
-<ls>HARIV. 12407. 12559.</ls> 
+<ls>HARIV. 12407.</ls> <ls n="HARIV.">12559.</ls> 
 <div n="2">— e) pl. N. pr. einer Schule 
 <ls>Ind. St. 3, 258.</ls> — Die dem <lex>m.</lex> {#वाराह#} zugetheilten Bedd. 
 <ls>H. an. 3, 768.fg.</ls> kommen {#वराह#} zu, wie ohne Zweifel auch zu lesen ist. 
 <div n="1">— 3) <lex>f.</lex> {#ई#} 
 <div n="2"> a) {%die personif. Energie%} <is>Viṣṇu's</is> {%als Eber%} 
-<ls>H. 201,</ls> <ls>Schol.</ls> <ls>an.3,769.</ls> <ls>MED. h. 22.</ls> <ls>MIT. 142,10.</ls> <ls>WEBER, RĀMAT. UP. 326.</ls> <ls>Verz. d. Oxf. H. 23,b,25. 25,b, N. 5. 71,b,12. 81,a,41. 184,a,5. 9.</ls> pl. unter den Müttern <is>Skanda's</is> 
+<ls>H. 201,</ls> Schol. <ls n="H.">an. 3,769.</ls> <ls>MED. h. 22.</ls> <ls>MIT. 142,10.</ls> <ls>WEBER, RĀMAT. UP. 326.</ls> <ls>Verz. d. Oxf. H. 23,b,25. 25,b, N. 5. 71,b,12. 81,a,41. 184,a,5. 9.</ls> pl. unter den Müttern <is>Skanda's</is> 
 <ls>MBH. 9, 2556.</ls> 
 <div n="2">— b) {%Dioscorea%} 
 <ls>AK. 2, 4, 5, 16.</ls> 

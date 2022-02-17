@@ -1,4 +1,4 @@
 <L>22203<pc>586-b<k1>personage<k2>personage
-<div n="lb"/>PERSONAGE¦, {%s.%} {#जनः, व्यक्तिः#} {%f.,%} {#पुरुषः, मनुष्यः#}. {%See%} PERSON. — 
-<div n="lb"/>(Eminent person) {#श्रेष्ठजनः, शिष्टजनः, महाजनः#}.
+PERSONAGE¦, {%s.%} {#जनः, व्यक्तिः#} {%f.,%} {#पुरुषः, मनुष्यः#}. {%See%} PERSON. — 
+(Eminent person) {#श्रेष्ठजनः, शिष्टजनः, महाजनः#}.
 <LEND>

@@ -5,21 +5,21 @@
 <ls>H. an. 3, 473.</ls> 
 <ls>MED. m. 54.</ls> <ls>ŚAT. BR. 1, 7, 3, 23. 3, 5, 1, 1. fgg. 12, 9, 2, 5.</ls> <ls>KĀTY. ŚR. 19, 5, 15.</ls> {#°त्रय#} 
 <ls>MBH. 3, 15844.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 32, 7. 5, 1, 54. 2, 45. 5, 3.</ls> {#द्वितीयहरि°#} 
+
+<ls>R. GORR. 1, 32, 7. 5, 1, 54. 2, 45. 5, 3.</ls> {#द्वितीयहरि°#} 
 <ls>ŚĀK. 165.</ls> 
 <ls>BHĀG. P. 2, 6, 6.</ls> {%Gang, Bewegung%}: {#आकूतिर्विक्रमो बाह्यो मृगतृष्णां धावति#} 
 <ls>4, 29, 20. 5, 2, 8.</ls> {#काल°#} 
 <ls>2, 9, 10.</ls> {%Art und Weise zu gehen%} 
 <ls>R. 5, 1, 43.</ls> {#सु°#} <lex>adj.</lex> 
 <ls>1, 1, 12.</ls> {#गजेन्द्र°#} <lex>adj.</lex> 
-<ls>MBH. 3, 2454. 2863.</ls> 
+<ls>MBH. 3, 2454.</ls> <ls n="MBH. 3,">2863.</ls> 
 <ls>R. 2, 23, 26.</ls> {#स्थिर°#} <lex>adj.</lex> 
 <ls>VARĀH. BṚH. S. 86, 8. 9.</ls> {#पञ्च°#} {%fünf Gangweisen habend%} ({#रथ#}) 
 <ls>BHĀG. P. 4, 26, 2.</ls> {#त्वरित°#} {%eiligen Schrittes, - Ganges%} 
-<ls>HARIV. 3182. 4507.</ls> 
+<ls>HARIV. 3182.</ls> <ls n="HARIV.">4507.</ls> 
 <ls>R. 7, 107, 8.</ls> {#शीघ्रविक्रमा#} 
-<ls>HARIV. 3409. 9453.</ls> 
+<ls>HARIV. 3409.</ls> <ls n="HARIV.">9453.</ls> 
 <ls>R. 2, 39, 12.</ls> {#द्रुत°#} 
 <ls>BHĀG. P. 4, 4, 4.</ls> {#वाक्यं समग्रं नृपतेर्यथावदुवाच चानुक्रमविक्रमेण#} so v. a. {#अनुक्रमेण#} allein d. i. {%der Reihe nach%} 
 <ls>MBH. 1, 7188.</ls> 
@@ -29,8 +29,8 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 4, 38. 5, 34.</ls> 
-<ls>MBH. 1, 5971. 7021.</ls> {#लभते क्षत्रियो विक्रमेण श्रियम्#} 
-<ls>?13, 313. R. 2, 21, 38. 3, 4, 48. 36, 13. 4, 8, 7. 5, 80, 8. 9 (pl.). ṚT. 1, 14. RAGH. 12, 87. 93. VIKR. 11, 11. Spr. 1806. 2298. 2825. 2948. 3159. 3957. VARĀH. BṚH. S. 69, 11. BṚH. 11, 9. KATHĀS. 18, 343. BHĀG. P. 3, 11, 27. 5, 20, 6. 9, 1, 5 (pl.). HIT. 81, 4. III, 1.</ls> {#नास्ति विक्रमेण#} so v. a. {%dieses kann nicht mit Gewalt erreicht werden%} 
+<ls>MBH. 1, 5971.</ls> <ls n="MBH. 1,">7021.</ls> {#लभते क्षत्रियो विक्रमेण श्रियम्#} 
+<ls>13, 313.</ls> <ls>R. 2, 21, 38. 3, 4, 48. 36, 13. 4, 8, 7. 5, 80, 8. 9</ls> (pl.). <ls>ṚT. 1, 14.</ls> <ls>RAGH. 12, 87. 93.</ls> <ls>VIKR. 11, 11.</ls> <ls>Spr. 1806. 2298. 2825. 2948. 3159. 3957.</ls> <ls>VARĀH. BṚH. S. 69, 11.</ls> <ls>BṚH. 11, 9.</ls> <ls>KATHĀS. 18, 343.</ls> <ls>BHĀG. P. 3, 11, 27. 5, 20, 6. 9, 1, 5</ls> (pl.). <ls>HIT. 81, 4. III, 1.</ls> {#नास्ति विक्रमेण#} so v. a. {%dieses kann nicht mit Gewalt erreicht werden%} 
 <ls>RĀJA-TAR. 8, 1687.</ls> {#विक्रमं कर्#} {%seine Kraft entwickeln, Muth an den Tag legen%} 
 <ls>MBH. 1, 6004.</ls> 
 <ls>Spr. 1046.</ls> 
@@ -48,7 +48,7 @@
 <ls>KIR. 2, 15.</ls> 
 <div n="1">— 3) {%Intensität%}: {#छाया#} ({%Teint%}) {#युक्ता तेजोविक्रमैः सप्रतापैः#} {%mit intensivem Glanze%} 
 <ls>VARĀH. BṚH. S. 68, 92.</ls> 
-<div n="1">— 4) {%das Bestehen%} (=  {#स्थिति#} Comm.): {#संप्लवः सर्वभूतानां विक्रमः प्रतिसंक्रमः#} 
+<div n="1">— 4) {%das Bestehen%} (= {#स्थिति#} Comm.): {#संप्लवः सर्वभूतानां विक्रमः प्रतिसंक्रमः#} 
 <ls>BHĀG. P. 2, 8, 21.</ls> 
 <div n="1">— 5) {%die unbetonte Silbe zwischen betonten%} (oder {%zwischen%} {#प्रचय#} {%und betonter%}) 
 <ls>TS. PRĀT. 17, 6.</ls> <ls n="TS. PRĀT.">19, 1.</ls> 
@@ -58,7 +58,7 @@
 <ls>ṚV. PRĀT. 13, 11.</ls> {#अ°#} 
 <ls>6, 1. 11, 22. 14, 11.</ls> 
 <div n="1">— 8) Bez. {%des 14ten Jahres im 60jährigen Jupitercyclus%} 
-<ls>VARĀH. BṚH. S.8,33. fg.</ls> <ls>Verz. d. Oxf. H. 331,b,5 v. u.</ls> 
+<ls>VARĀH. BṚH. S.8,33. fg.</ls> <ls>Verz. d. Oxf. H. 331,b,5</ls> v. u. 
 <div n="1">— 9) Bez. {%des%}
 [Page6-0994]
 {%5ten astrologischen Hauses%} 

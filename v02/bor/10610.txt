@@ -1,5 +1,5 @@
 <L>10610<pc>334<k1>happily<k2>happily
-<div n="lb"/>{@HAPPILY:@}¦ <div n="I">I Luckily: </div><div n="1">(1) {#सौभाग्येन;#} </div><div n="1">(2) {#दिष्ट्या।#}</div>
-<div n="lb"/><div n="I">II In a happy manner: </div><div n="1">(1) {#सुखेन;#} </div><div n="1">(2)
-<div n="lb"/>{#सुखान्यनुभवत्#} (f. {#न्ती#}).</div>
+{@HAPPILY:@}¦ <div n="I">I Luckily: </div><div n="1">(1) {#सौभाग्येन;#} </div><div n="1">(2) {#दिष्ट्या।#}</div>
+<div n="I">II In a happy manner: </div><div n="1">(1) {#सुखेन;#} </div><div n="1">(2)
+{#सुखान्यनुभवत्#} (f. {#न्ती#}).</div>
 <LEND>

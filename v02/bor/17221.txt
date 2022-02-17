@@ -1,12 +1,12 @@
 <L>17221<pc>527<k1>please<k2>please
-<div n="lb"/>{@PLEASE@}¦ (v. i.): <div n="1">(1) by passive imperative or
-<div n="lb"/>occasionally by sim. imper, <div n="xe">{%p. sit here:%}</div> <div n="xs">{#इत #}
-<div n="lb"/>{# आस्यताम्,#}</div> U. i.; <div n="xe">{%p. take this seat:%}</div> <div n="xs">{#इदमासनम्, #}
-<div n="lb"/>{# उपविशत्वार्यः,#}</div> Mu. ii.; </div><div n="1">(2) by {#अर्हति#} ({#अर्ह,#} c. 1.),
-<div n="lb"/>{#अनुगृह्णाति#} ({#ग्रह,#} c. 9.), <div n="xe">{%or%}</div> <div n="xs">{#प्रसीदति#}</div> ({#सद्,#} c. 1.),
-<div n="lb"/><div n="xe">{%p. put on these ornaments:%}</div> <div n="xs">{#इमान्याभरणानि #}
-<div n="lb"/>{# धारयितुमर्हत्यार्यः,#}</div> Mu. ii.; <div n="xe">{%p. promise:%}</div> <div n="xs">{#प्रसीद #}
-<div n="lb"/>{# सन्धेहि,#}</div> Ki. i. 42. Ph.: <div n="xe">{%as you p.:%}</div> <div n="xs">{#यदभिरोचते #}
-<div n="lb"/>{# भवते,#}</div> </div><div n="I">V ii. (note also {#यदाज्ञापयति देवः,#}
-<div n="lb"/>Mal. 1.).</div>
+{@PLEASE@}¦ (v. i.): <div n="1">(1) by passive imperative or
+occasionally by sim. imper, <div n="xe">{%p. sit here:%}</div> <div n="xs">{#इत #}
+{# आस्यताम्,#}</div> U. i.; <div n="xe">{%p. take this seat:%}</div> <div n="xs">{#इदमासनम्, #}
+{# उपविशत्वार्यः,#}</div> Mu. ii.; </div><div n="1">(2) by {#अर्हति#} ({#अर्ह,#} c. 1.),
+{#अनुगृह्णाति#} ({#ग्रह,#} c. 9.), <div n="xe">{%or%}</div> <div n="xs">{#प्रसीदति#}</div> ({#सद्,#} c. 1.),
+<div n="xe">{%p. put on these ornaments:%}</div> <div n="xs">{#इमान्याभरणानि #}
+{# धारयितुमर्हत्यार्यः,#}</div> Mu. ii.; <div n="xe">{%p. promise:%}</div> <div n="xs">{#प्रसीद #}
+{# सन्धेहि,#}</div> Ki. i. 42. Ph.: <div n="xe">{%as you p.:%}</div> <div n="xs">{#यदभिरोचते #}
+{# भवते,#}</div> </div><div n="I">V ii. (note also {#यदाज्ञापयति देवः,#}
+Mal. 1.).</div>
 <LEND>

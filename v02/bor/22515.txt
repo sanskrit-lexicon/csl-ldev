@@ -1,5 +1,5 @@
 <L>22515<pc>711<k1>through<k2>through
-<div n="lb"/>{@THROUGH@}¦ (adv.): expr. by adj. {%all:%} q. v.:
-<div n="lb"/><div n="xe">{%to read a book t.:%}</div> <div n="xs">{#समग्रं ग्रन्थं पठति;#}</div> {%to see t.:%}
-<div n="lb"/>{#सर्वं पशयति;#} etc.
+{@THROUGH@}¦ (adv.): expr. by adj. {%all:%} q. v.:
+<div n="xe">{%to read a book t.:%}</div> <div n="xs">{#समग्रं ग्रन्थं पठति;#}</div> {%to see t.:%}
+{#सर्वं पशयति;#} etc.
 <LEND>

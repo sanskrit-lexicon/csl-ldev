@@ -1,3 +1,3 @@
 <L>2850<pc>096<k1>buying<k2>buying
-<div n="lb"/>{@BUYING:@}¦ {#क्रयः।#} <div n="xe">{%B. and selling%}</div> <div n="xs">{#क्रयविक्रयः।#}</div>
+{@BUYING:@}¦ {#क्रयः।#} <div n="xe">{%B. and selling%}</div> <div n="xs">{#क्रयविक्रयः।#}</div>
 <LEND>

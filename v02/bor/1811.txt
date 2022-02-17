@@ -1,5 +1,5 @@
 <L>1811<pc>063<k1>bee<k2>bee
-<div n="lb"/>{@BEE:@}¦ <div n="1">(1) {#क्षुद्रा;#} </div><div n="1">(2) {#सरघा;#} </div><div n="1">(2) {#मधुमक्षिका;#} <div n="xe">{%as b. s%}
-<div n="lb"/>{%follow their queen%}</div> <div n="xs">{#यथा मधुकरराजं मघुमक्षिका अनु-#}
-<div n="lb"/>{#वर्तन्ते,#}</div> D. s.</div>
+{@BEE:@}¦ <div n="1">(1) {#क्षुद्रा;#} </div><div n="1">(2) {#सरघा;#} </div><div n="1">(2) {#मधुमक्षिका;#} <div n="xe">{%as b. s%}
+{%follow their queen%}</div> <div n="xs">{#यथा मधुकरराजं मघुमक्षिका अनु-#}
+{#वर्तन्ते,#}</div> D. s.</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>20038<pc>623<k1>secret<k2>secret
-<div n="lb"/>{@SECRET, KEEP:@}¦ <div n="1">(1) {#निह्नुते#} ({#ह्नु,#} c. 2.: with
-<div n="lb"/>abl.), {%keeping%} ({%it%}) {%very s. for two, three, four%}
-<div n="lb"/>({%days%}): {#द्वित्रिचतुरमतिनिह्नु त्यापि,#} D. ii.; </div><div n="1">(2)
-<div n="lb"/>{#गोपायति#} ({#गुप्,#} c. 10.), (gen. with dat.), {%not%}
-<div n="lb"/>{%to k.%} ({%it%}) <div n="xe">{%s. from you:%}</div> <div n="xs">{#किं ते गोपायित्वा,#}</div> D. vi.;</div>
-<div n="lb"/><div n="1">(3) {#नि-गुहति, -ते#} ({#गुह्,#} c. 1.: with dat, or
-<div n="lb"/>abl.), <div n="xe">{%why do you k. this disease s.:%}</div> <div n="xs">{#किमेतमात्मन #}
-<div n="lb"/>{# उपद्रवं निगूहसि,#}</div> Sa. iii.</div>
+{@SECRET, KEEP:@}¦ <div n="1">(1) {#निह्नुते#} ({#ह्नु,#} c. 2.: with
+abl.), {%keeping%} ({%it%}) {%very s. for two, three, four%}
+({%days%}): {#द्वित्रिचतुरमतिनिह्नु त्यापि,#} D. ii.; </div><div n="1">(2)
+{#गोपायति#} ({#गुप्,#} c. 10.), (gen. with dat.), {%not%}
+{%to k.%} ({%it%}) <div n="xe">{%s. from you:%}</div> <div n="xs">{#किं ते गोपायित्वा,#}</div> D. vi.;</div>
+<div n="1">(3) {#नि-गुहति, -ते#} ({#गुह्,#} c. 1.: with dat, or
+abl.), <div n="xe">{%why do you k. this disease s.:%}</div> <div n="xs">{#किमेतमात्मन #}
+{# उपद्रवं निगूहसि,#}</div> Sa. iii.</div>
 <LEND>

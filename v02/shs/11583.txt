@@ -1,10 +1,10 @@
 <L>11583<pc>203-b<k1>केन्द्र<k2>केन्द्र
 {#केन्द्र#}¦ n. ({#-न्द्रं#}) 1. The centre of a circle. 2. The argument of an equation.
-<>3. The distance of a planet from the first point of its orbit in the
-<>fourth, seventh, or tenth degree. (In astronomy.) It is variously
-<>applied in combination, as {#पतनकेन्द्रं#} argument of the latitude;
-<>{#द्वितीयकेन्द्रं#} the distance of the higher apsis from a planet in any
-<>point of its orbit; {#शीघ्रकेन्द्रं#} commutation, the distance of the sun
-<>from a superior planet or of an inferior planet from the sun;
-<>{#मन्दकेन्द्रं#} argument of anomaly.
+3. The distance of a planet from the first point of its orbit in the
+fourth, seventh, or tenth degree. (In astronomy.) It is variously
+applied in combination, as {#पतनकेन्द्रं#} argument of the latitude;
+{#द्वितीयकेन्द्रं#} the distance of the higher apsis from a planet in any
+point of its orbit; {#शीघ्रकेन्द्रं#} commutation, the distance of the sun
+from a superior planet or of an inferior planet from the sun;
+{#मन्दकेन्द्रं#} argument of anomaly.
 <LEND>

@@ -1,12 +1,12 @@
 <L>21511<pc>677<k1>stock<k2>stock
-<div n="lb"/>{@STOCK@}¦ (subs.): <div n="I">I Capital: q. v.: {#मूलम्, -धनम्।#}
-<div n="lb"/>Ph.: <div n="xe">{%s. of cattle:%}</div> <div n="xs">{#गोधनम्,#}</div> Mah.; {%live s.:%}
-<div n="lb"/>perh. {#जीवसम्पत्तिः।#} </div><div n="I">II Lineage, origin: q. v.:
-<div n="lb"/>{#मूलम्,#} <div n="xe">{%of noble s.:%}</div> <div n="xs">{#मौल#}</div> (f. {#ली#}), K. </div><div n="I">III Store,
-<div n="lb"/>accumulation: q. v.: {#संचयः#} q. v. </div><div n="I">IV Stem:
-<div n="lb"/>q. v.: {#प्रकाण्डः।#} </div><div n="I">V Block-head: q. v.: {#स्थूलबुद्धि#}
-<div n="lb"/>(mfn.). </div><div n="I">VI Pillar: q. v.: {#स्तम्भः।#} </div><div n="I">VII
-<div n="lb"/>Handle: q. v.: {#दण्डः।#} </div><div n="I">VIII In pl. for
-<div n="lb"/>vessels: {#*अवष्टम्भः।#} </div><div n="I">IX For the feet: {#निगडः#}
-<div n="lb"/>(fetters: q. v.).</div>
+{@STOCK@}¦ (subs.): <div n="I">I Capital: q. v.: {#मूलम्, -धनम्।#}
+Ph.: <div n="xe">{%s. of cattle:%}</div> <div n="xs">{#गोधनम्,#}</div> Mah.; {%live s.:%}
+perh. {#जीवसम्पत्तिः।#} </div><div n="I">II Lineage, origin: q. v.:
+{#मूलम्,#} <div n="xe">{%of noble s.:%}</div> <div n="xs">{#मौल#}</div> (f. {#ली#}), K. </div><div n="I">III Store,
+accumulation: q. v.: {#संचयः#} q. v. </div><div n="I">IV Stem:
+q. v.: {#प्रकाण्डः।#} </div><div n="I">V Block-head: q. v.: {#स्थूलबुद्धि#}
+(mfn.). </div><div n="I">VI Pillar: q. v.: {#स्तम्भः।#} </div><div n="I">VII
+Handle: q. v.: {#दण्डः।#} </div><div n="I">VIII In pl. for
+vessels: {#*अवष्टम्भः।#} </div><div n="I">IX For the feet: {#निगडः#}
+(fetters: q. v.).</div>
 <LEND>

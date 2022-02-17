@@ -1,6 +1,6 @@
 <L>8445<pc>268<k1>farm<k2>farm
-<div n="lb"/>{@FARM@}¦ (v.): <div n="I">I To let: q.v.: {#भाटेन#} <div n="xe">{%or%}</div> <div n="xs">{#भाटकेन #}
-<div n="lb"/>{# ददाति#}</div> ({#दा,#} c. 8.). </div><div n="I">II To hire: {#भाटयति#} (c. of
-<div n="lb"/>{#भट्#}) <div n="xe">{%or%}</div> <div n="xs">{#भाटकेन गृह्णाति#}</div> ({#ग्रह्,#} c. 9.), Viv. </div><div n="I">III
-<div n="lb"/>To cultivate: q.v.: {#क्षेत्रं करोति।#}</div>
+{@FARM@}¦ (v.): <div n="I">I To let: q.v.: {#भाटेन#} <div n="xe">{%or%}</div> <div n="xs">{#भाटकेन #}
+{# ददाति#}</div> ({#दा,#} c. 8.). </div><div n="I">II To hire: {#भाटयति#} (c. of
+{#भट्#}) <div n="xe">{%or%}</div> <div n="xs">{#भाटकेन गृह्णाति#}</div> ({#ग्रह्,#} c. 9.), Viv. </div><div n="I">III
+To cultivate: q.v.: {#क्षेत्रं करोति।#}</div>
 <LEND>

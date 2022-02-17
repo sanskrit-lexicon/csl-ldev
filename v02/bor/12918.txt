@@ -1,4 +1,4 @@
 <L>12918<pc>398<k1>judgment-hall<k2>judgment-hall
-<div n="lb"/>{@JUDGMENT-HALL:@}¦ <div n="1">(1) {#विचारसभा;#} </div><div n="1">(2) {#दह्र्मसभा।#}
-<div n="lb"/>Court of j.: {#धर्माधिकरणम्।#}</div>
+{@JUDGMENT-HALL:@}¦ <div n="1">(1) {#विचारसभा;#} </div><div n="1">(2) {#दह्र्मसभा।#}
+Court of j.: {#धर्माधिकरणम्।#}</div>
 <LEND>

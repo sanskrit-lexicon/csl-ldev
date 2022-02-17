@@ -1,9 +1,9 @@
 <L>68437.1<pc>370,3<k1>ग्रन्थ्<k2>ग्रन्थ्<h>1<e>1
-<hom>1.</hom> <s>ग्रथ्</s> ¦ or <s>ग्रन्थ्</s> <ab>cl.</ab> 9. <ab>P.</ab> <s>ग्रथ्ना/ति</s> (<ab>fut.</ab> <ab>p.</ab> <s>ग्रन्थिष्यत्</s>, <ls>Kāṭh. xxv, 8</ls>; <ab>perf.</ab> 3. <ab>pl.</ab> <s>जग्रन्थुर्</s> or <s>ग्रेथुर्</s>, <ls>Pāṇ. 1-2, 6</ls>; <ls>Siddh.</ls>; <ab>ind.p.</ab> <s>ग्रन्थित्वा</s> or <s>ग्रथ्°</s>, <ls>23</ls>; <ls>Kāś.</ls>), 
+<hom>1.</hom> <s>ग्रथ्</s> ¦ or <s>ग्रन्थ्</s> <ab>cl.</ab> 9. <ab>P.</ab> <s>ग्रथ्ना/ति</s> (<ab>fut.</ab> <ab>p.</ab> <s>ग्रन्थिष्यत्</s>, <ls>Kāṭh. xxv, 8</ls>; <ab>perf.</ab> 3. <ab>pl.</ab> <s>जग्रन्थुर्</s> or <s>ग्रेथुर्</s>, <ls>Pāṇ. i, 2, 6</ls>; <ls>Siddh.</ls>; <ab>ind.p.</ab> <s>ग्रन्थित्वा</s> or <s>ग्रथ्°</s>, <ls>23</ls>; <ls>Kāś.</ls>), 
 <div n="to"/>to fasten, tie or string together, arrange, connect in a regular series, <ls>TS. vi f.</ls>; <ls>Kāṭh. xxv, 8</ls>; <ls>Bhaṭṭ.</ls>;
 <div n="to"/>to string words together, compose (a literary work), <ls>Prab. vi, 5</ls> : <ab>cl.</ab> 1. <ab>Ā.</ab> <ab>P.</ab> <s>ग्रथति</s>, <s>°ते</s>, <ls>Dhātup.</ls> (<ab>v.l.</ab>);
 <div n="vp"/> <ab>P.</ab> <s>ग्रन्थति</s>, <ls>xxxiv, 31</ls>;
-<div n="to"/> <ab>Ā.</ab> <s>ग्रन्थते</s> (<ab>aor.</ab> <s>अग्रन्थिष्ट</s>), to be strung together or composed (a literary work), <ls>Bhāradv.</ls> on <ls>Pāṇ. 3-1, 89</ls> :
+<div n="to"/> <ab>Ā.</ab> <s>ग्रन्थते</s> (<ab>aor.</ab> <s>अग्रन्थिष्ट</s>), to be strung together or composed (a literary work), <ls>Bhāradv.</ls> on <ls>Pāṇ. iii, 1, 89</ls> :
 <div n="vp"/><ab>Caus.</ab> <ab>Ā.</ab> <ab>P.</ab> <s>ग्रन्थयति</s>, <s>°ते</s>, to string together, <ls>MBh. iv, 262</ls>;
 <div n="vp"/> <info whitneyroots="graT,39"/><info verb="genuineroot" cp="9P,1P,1Ā"/><info or="68437,graT;68437.1,granT"/>
 <LEND>

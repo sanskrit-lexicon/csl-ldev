@@ -1,6 +1,6 @@
 <L>15812<pc>485<k1>oft<k2>oft
-<div n="lb"/>{@OFT, OFTEN:@}¦ <div n="1">(1) {#बहुशः;#} </div><div n="1">(2) {#अनेकशः;#} </div><div n="1">(3) {#असकृत्;#}</div>
-<div n="lb"/><div n="1">(4) {#अमीक्ष्णम्:#} v. Frequently. Ph.: </div><div n="1">(1) {%how o.:%}
-<div n="lb"/>{#कतिशः;#} </div><div n="1">(2) <div n="xe">{%as o. as..so o.:%}</div> <div n="xs">{#यावतो वारान्॥ #}
-<div n="lb"/>{# तावतो वारान्।#}</div></div>
+{@OFT, OFTEN:@}¦ <div n="1">(1) {#बहुशः;#} </div><div n="1">(2) {#अनेकशः;#} </div><div n="1">(3) {#असकृत्;#}</div>
+<div n="1">(4) {#अमीक्ष्णम्:#} v. Frequently. Ph.: </div><div n="1">(1) {%how o.:%}
+{#कतिशः;#} </div><div n="1">(2) <div n="xe">{%as o. as..so o.:%}</div> <div n="xs">{#यावतो वारान्॥ #}
+{# तावतो वारान्।#}</div></div>
 <LEND>

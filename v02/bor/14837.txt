@@ -1,5 +1,5 @@
 <L>14837<pc>453<k1>mode<k2>mode
-<div n="lb"/>{@MODE:@}¦ <div n="I">I Manner: q. v. </div><div n="I">II Fashion: q. v.</div>
-<div n="lb"/><div n="I">III Variety: {#प्रकारः।#} </div><div n="I">IV In logic: {#रूपम्#}
-<div n="lb"/>(?). </div><div n="I">V In music: {#रागः#} (f. {#रागिणी#}).</div>
+{@MODE:@}¦ <div n="I">I Manner: q. v. </div><div n="I">II Fashion: q. v.</div>
+<div n="I">III Variety: {#प्रकारः।#} </div><div n="I">IV In logic: {#रूपम्#}
+(?). </div><div n="I">V In music: {#रागः#} (f. {#रागिणी#}).</div>
 <LEND>

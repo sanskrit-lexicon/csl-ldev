@@ -16,7 +16,7 @@
 <ls n="ṚV. 1,">130, 8.</ls> <ls n="ṚV.">9, 41, 1.</ls> {#अभ्व^म्#} 
 <ls n="ṚV.">1, 140, 5.</ls> <ls n="ṚV. 1,">92, 5.</ls> {#लोमानि#} 
 <ls>ŚAT. BR. 1, 1, 4, 2.</ls> {#शकुन#} 
-?<ls n="ŚAT. BR.">14, 1, 1, 31.</ls> <ls>ṚV. 10, 16, 6.</ls> <ls>AV. 7, 64, 1.</ls> Kuh <ls>ŚAT. BR. 2, 2, 4, 15. 9, 2, 3, 30.</ls> Pferd 
+<ls n="ŚAT. BR.">14, 1, 1, 31.</ls> <ls>ṚV. 10, 16, 6.</ls> <ls>AV. 7, 64, 1.</ls> Kuh <ls>ŚAT. BR. 2, 2, 4, 15. 9, 2, 3, 30.</ls> Pferd 
 <ls>LĀṬY. 3, 1.</ls> Kleid 
 <ls>ŚAT. BR. 5, 2, 5, 17.</ls> Schuhe 
 <ls>KĀTY. ŚR. 22, 4, 21.</ls> {#अ\न्यद्रोच^ते कृ\ष्णम\न्यत्#} 
@@ -88,22 +88,22 @@
 <ls>HARIV. 3304. fgg.</ls> 
 <ls>VP. 502. fgg.</ls> hat Tausende von Frauen, unter denen acht besonders hervorgehoben werden, 
 <ls>HARIV. 6694. fgg.</ls> 
-<ls>9177. fgg.</ls> 
+<ls n="HARIV.">9177. fgg.</ls> 
 <ls>VP. 427. fg.</ls> 
 <ls>573. fg.</ls> 
 <ls>578. 590.</ls> seine Liebesspiele mit den Hirtinnen 
 <ls>HARIV. 4078. fgg.</ls> 
-<ls>8301. fgg.</ls> 
+<ls n="HARIV.">8301. fgg.</ls> 
 <ls>VP. 531.</ls> 
 <ls>GĪT.</ls> sein Kampf mit <is>Indra</is> 
 <ls>HARIV. 3787. fgg.</ls> 
-<ls>7456. fgg.</ls> 
+<ls n="HARIV.">7456. fgg.</ls> 
 <ls>VP. 522. fgg.</ls> 
 <ls>584. fgg.</ls> <is>Indra</is> von <is>Kṛṣṇa</is> besiegt, weiht seinen Nebenbuhler zum König der Kühe: {#अहं किलेन्द्रो देवानां त्वं गवामिन्द्रतां गतः ॥ गोविन्द इति लोकास्त्वां स्तोष्यन्ति भुवि शाश्वतम् । ममोपरि यथेन्द्रस्त्वं स्थापितो गोभिरीश्वरः ॥ उपेन्द्र इति कृष्ण त्वां गास्यन्ति दिवि देवताः ।#} 
 <ls>HARIV. 4004. fgg.</ls> <is>Kṛṣṇa</is> ist der Vater <is>Pradyumna's</is> oder des Liebesgottes; dieser heisst daher: {#कृष्णज#} 
-<ls>9322.</ls> {#कृष्णनन्दन#} 
-<ls>9331.</ls> {#कृष्णसूनु#} 
-<ls>9324.</ls> <ls>WEBER</ls> hat die Ansicht ausgesprochen, dass eine Bekanntschaft
+<ls n="HARIV.">9322.</ls> {#कृष्णनन्दन#} 
+<ls n="HARIV.">9331.</ls> {#कृष्णसूनु#} 
+<ls n="HARIV.">9324.</ls> <ls>WEBER</ls> hat die Ansicht ausgesprochen, dass eine Bekanntschaft
 [Page2-0414]
 mit Christus und dem Christenthum stark auf die Entwickelung der Sage von <is>Kṛṣṇa</is> eingewirkt habe, eine Ansicht, die an 
 <ls>LASSEN</ls> einen entschiedenen Gegner gefunden hat. 
@@ -141,11 +141,11 @@ mit Christus und dem Christenthum stark auf die Entwickelung der Sage von <is>K�
 <ls>VP. 106.</ls> 
 <ls>BHĀG. P. 4, 24, 8.</ls> — ein Sohn <is>Arjuna's</is> 
 <ls>HARIV. 1892.</ls> — ein Adoptivsohn von <is>Asamañjas</is> 
-<ls>2039.</ls> — ein Fürst der <is>Andhra</is> 
+<ls n="HARIV.">2039.</ls> — ein Fürst der <is>Andhra</is> 
 <ls>VP. 472.</ls> — verschiedene Autoren, namentlich Scholiasten 
 <ls>COLEBR. Misc. Ess. II, 452. fg.</ls> 
-<ls>Verz. d. B. H. No. 109 u.s.w.</ls> — {#श्रीकृष्ण#} ebend. 
-<ls>No. 739 u.s.w.</ls> 
+<ls>Verz. d. B. H. No. 109</ls> u.s.w. — {#श्रीकृष्ण#} ebend. 
+<ls>No. 739</ls> u.s.w. 
 <div n="2">— i) Name einer Hölle 
 <ls>VP. 207. 209.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#कृष्णा#} 
@@ -160,7 +160,7 @@ mit Christus und dem Christenthum stark auf die Entwickelung der Sage von <is>K�
 <ls>HĀR. 261</ls> (masc.); {%die Indigopflanze; der Weinstock mit dunklen Trauben%} 
 <ls>H. an.</ls> <ls>MED.</ls> = {#नीलपुनर्नवा; गम्भारी; कृष्णजीरक; सारिवाविशेष; राजसर्षप#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#सोमराजी; काकोली#} 
-<ls>JAṬĀDH.</ls> im <ls>ŚKDR. -</ls> <ls>SUŚR. 1, 162, 16. 2, 88, 1. 206, 5. 222, 12. 322, 12. 439, 19. 504, 5. 506, 7.</ls> {#कृष्णावीजम्#} 
+<ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> - <ls>SUŚR. 1, 162, 16. 2, 88, 1. 206, 5. 222, 12. 322, 12. 439, 19. 504, 5. 506, 7.</ls> {#कृष्णावीजम्#} 
 <ls>330, 16.</ls> 
 <div n="2">— c) {%ein best. Parfum%} (s. {#पर्पटी#}) 
 <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> 

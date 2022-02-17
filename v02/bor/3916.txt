@@ -1,4 +1,4 @@
 <L>3916<pc>128<k1>cobble<k2>cobble
-<div n="lb"/>{@COBBLE:@}¦ <div n="I">I To mend: q. v. </div><div n="I">II To do
-<div n="lb"/>badly: v. To do, badly.</div>
+{@COBBLE:@}¦ <div n="I">I To mend: q. v. </div><div n="I">II To do
+badly: v. To do, badly.</div>
 <LEND>

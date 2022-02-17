@@ -1,7 +1,7 @@
 <L>1217<pc>043<k1>assemble<k2>assemble
-<div n="lb"/>{@ASSEMBLE@}¦ (v. t.): <div n="1">(1) {#संगमयति#} (c. of {#गम्#}); </div><div n="1">(2)
-<div n="lb"/>{#मेलयति, सं-,#} (c. of {#मिल्#}), M. n.; </div><div n="1">(3) {#समाहरति#}
-<div n="lb"/>({#हृ,#} c. 1.), <div n="xe">{%who a. d the kings%}</div> <div n="xs">{#समाहृतराजलोकम्,#}</div> R.
-<div n="lb"/>v. 64; </div><div n="1">(4) {#सन्नि-पातयति#} (c. of {#पत्#}), <div n="xe">{%a. ing the%}
-<div n="lb"/>{%citizens%}</div> <div n="xs">{#सन्निपात्य पुरौकसः,#}</div> R. xv. 75.</div>
+{@ASSEMBLE@}¦ (v. t.): <div n="1">(1) {#संगमयति#} (c. of {#गम्#}); </div><div n="1">(2)
+{#मेलयति, सं-,#} (c. of {#मिल्#}), M. n.; </div><div n="1">(3) {#समाहरति#}
+({#हृ,#} c. 1.), <div n="xe">{%who a. d the kings%}</div> <div n="xs">{#समाहृतराजलोकम्,#}</div> R.
+v. 64; </div><div n="1">(4) {#सन्नि-पातयति#} (c. of {#पत्#}), <div n="xe">{%a. ing the%}
+{%citizens%}</div> <div n="xs">{#सन्निपात्य पुरौकसः,#}</div> R. xv. 75.</div>
 <LEND>

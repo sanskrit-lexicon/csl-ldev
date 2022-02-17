@@ -25,7 +25,7 @@
 <ls>PAÑCAV. BR. 21, 14, 14.</ls> {#चरु#} 
 <ls>VARĀH. BṚH. S. 46, 37.</ls> {#परमाणवः#} 
 <ls>MĀRK. P. 23, 33.</ls> {#रजस्#} {%Staub der Erde%} 
-<ls>MBH. 4, 1041. 9, 944.</ls> 
+<ls>MBH. 4, 1041.</ls> <ls n="MBH.">9, 944.</ls> 
 <ls>VARĀH. BṚH. S. 32, 9.</ls> {%vom Lande einkommend%} (Abgabe) <is>gaṇa</is> {#शुण्डिकादि#} zu 
 <ls>P. 4, 3, 76.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
@@ -41,16 +41,16 @@
 <ls>KAUŚ. 38.</ls> 
 <ls>PĀR. GṚHY. 2, 14.</ls> 
 <div n="3">— β) <is>Atri</is> 
-<ls>ṚV.</ls> <ls>ANUKR.</ls> 
+<ls>ṚV. ANUKR.</ls> 
 <div n="3">— γ) der <is>Daitya</is> <is>Naraka</is> 
 <ls>TRIK. 3, 3, 301.</ls> 
 <ls>H. an. 2, 332.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 3, 477. 12590. 5, 1887. 12, 12956.</ls> 
-<ls>HARIV. 3117. 6800.</ls> 
+<ls>MBH. 3, 477.</ls> <ls n="MBH. 3,">12590.</ls> <ls n="MBH.">5, 1887.</ls> <ls n="MBH.">12, 12956.</ls> 
+<ls>HARIV. 3117.</ls> <ls n="HARIV.">6800.</ls> 
 <ls>BHĀG. P. 1, 10, 29.</ls> <ls>WILSON</ls> hat {#नरक#} fälschlich als {%Hölle%} gefasst. 
 <div n="3">— δ) {%der Planet Mars%} 
-<ls>AK.1,1,2,27.</ls> <ls>TRIK.</ls> <ls>H. 116,</ls> <ls>Sch.</ls> <ls>H. an.</ls> <ls>H. ś. 13.</ls> <ls>MED.</ls> <ls>HĀR. 35.</ls> <ls>HALĀY.1,46.</ls> <ls>MBH. 13,7643.</ls> <ls>SŪRYAS.2,10. 43.</ls> <ls>VARĀH. BṚH. S.5,60.6,6. 17,15.</ls> <ls>KATHĀS. 48,70.</ls> <ls>VP. 240.</ls> <ls>MĀRK. P. 123,8.</ls> <ls>PAÑCAT. 50,20.</ls> <ls>Verz. d. Oxf. H. 251,a,35. 339,a,40.</ls> {#वारो भौमस्य#} {%Dienstag%} 
+<ls>AK. 1,1,2,27.</ls> <ls>TRIK.</ls> <ls>H. 116,</ls> <ls>Sch.</ls> <ls>H. an.</ls> <ls>H. ś. 13.</ls> <ls>MED.</ls> <ls>HĀR. 35.</ls> <ls>HALĀY. 1,46.</ls> <ls>MBH. 13, 7643.</ls> <ls>SŪRYAS. 2,10. 43.</ls> <ls>VARĀH. BṚH. S.5,60.6,6. 17,15.</ls> <ls>KATHĀS. 48,70.</ls> <ls>VP. 240.</ls> <ls>MĀRK. P. 123,8.</ls> <ls>PAÑCAT. 50,20.</ls> <ls>Verz. d. Oxf. H. 251,a,35. 339,a,40.</ls> {#वारो भौमस्य#} {%Dienstag%} 
 <ls>31,a,35.</ls> {#°पूजा#} 
 <ls>Verz. d. B. H. No. 1264. 1271.</ls> {#°व्रत#} 
 <ls>1269.</ls> {#°स्तोत्र#} 

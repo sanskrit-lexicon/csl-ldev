@@ -1,4 +1,4 @@
 <L>14001<pc>430<k1>magistracy<k2>magistracy
-<div n="lb"/>{@MAGISTRACY:@}¦ {#दण्डनायकत्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#दण्डनायकाधिकारः#}</div>
-<div n="lb"/>(??).
+{@MAGISTRACY:@}¦ {#दण्डनायकत्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#दण्डनायकाधिकारः#}</div>
+(??).
 <LEND>

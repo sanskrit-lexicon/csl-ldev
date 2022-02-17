@@ -4,7 +4,7 @@
 <ls>ṚV. 2, 18, 3.</ls> <ls n="ṚV.">1, 36, 1.</ls> <ls n="ṚV.">5, 44, 4.</ls> <ls n="ṚV.">9, 90, 6.</ls> 
 <ls>AV. 20, 127, 4.</ls> 
 <ls>VS. 18, 5.</ls> {#सूक्तं सुशर्मणा वाक्यम्#} 
-<ls>MBH.4,984.5,2663.</ls> <ls>HARIV. 8616.</ls> <ls>Verz. d. Oxf. H. 47,a,11 v. u.</ls> <ls>BHĀG. P.4,1,26. 12,10,34.</ls> 
+<ls>MBH. 4, 984.</ls> <ls n="MBH.">5, 2663.</ls> <ls>HARIV. 8616.</ls> <ls>Verz. d. Oxf. H. 47,a,11</ls> v. u. <ls>BHĀG. P. 4,1,26. 12,10,34.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} {%Predigerkrähe (schön sprechend%}, also <lex>adj.</lex> comp.) 
 <ls>TRIK. 2, 5, 22.</ls> 
 <div n="1">— 3) <lex>n.</lex> 
@@ -18,8 +18,8 @@
 <ls>HARIV. 1398.</ls> 
 <ls>MṚCCH. 63, 9.</ls> 
 <ls>RAGH. 15, 97.</ls> 
-<ls>Spr. (II) 1548, v. l. 5072. 6330. 7137.</ls> {#सूक्तैस्तुष्टाव तं देवम्#} 
-<ls>KATHĀS. 55, 179. 180</ls> (=  {#सुभाषित#}). 
+<ls>Spr. (II) 1548, v. l.</ls> <ls n="Spr. (II)">5072.</ls> <ls n="Spr. (II)">6330.</ls> <ls n="Spr. (II)">7137.</ls> {#सूक्तैस्तुष्टाव तं देवम्#} 
+<ls>KATHĀS. 55, 179. 180</ls> (= {#सुभाषित#}). 
 <ls>RĀJA-TAR. 3, 186.</ls> 
 <ls>PRAB. 20, 11.</ls> 
 <ls>BHĀG. P. 1, 5, 22. 3, 7, 15. 25, 36. 4, 22, 17. 5, 19, 28. 9, 14, 33.</ls> {#सत्कवि°#} 

@@ -1,16 +1,16 @@
 <L>12986<pc>200-a1<k1>भक्त<k2>भक्त
 {#भक्त#}¦bhak-tá, {%pp.%} (√ bhaj) devoted, {%etc.%}; 
-<>{%m.%} worshipper; {%n.%} food; meal: {@-kara,@} {%m.%} preparer <lbinfo n="3"/>
-<> of food, cook; {@-cchanda@}, {%n.%} appetite; 
-<>{@-tva,@} {%n.%} being a part of {%or%} belonging to (-°); 
-<>{@-da, -dāyaka,@} {%a.%} presenting food to ({%g.%}); {@-dā-@}
-<>{@-sa,@} {%m.%} one who serves {%in return%} for {%his daily%} 
-<>food; {@-dveṣa,@} {%m.%} aversion to food, lack of 
-<>appetite; {@-dveṣin,@} {%a.%} disliking food, lacking 
-<>appetite; {@-pātra,@} {%n.%} dish of food; {@-ruci@}, {%f.%} 
-<>appetite; {@-rocana@}, {%a.%} stimulating appetite; 
-<>{@-śaraṇa@}, {%n.%} kitchen; {@-śālā@}, {%f.%} dining-hall; 
-<>{@-ākāṅkṣā,@} {%f.%} appetite; {@-abhilāṣa,@} {%m. id.%}; 
-<>{@-abhisāra,@} {%m.%} dining-room; {@-aruci@}, {%f.%} aversion <lbinfo n="4"/>
-<> for food.
+{%m.%} worshipper; {%n.%} food; meal: {@-kara,@} {%m.%} preparer <lbinfo n="3"/>
+ of food, cook; {@-cchanda@}, {%n.%} appetite; 
+{@-tva,@} {%n.%} being a part of {%or%} belonging to (-°); 
+{@-da, -dāyaka,@} {%a.%} presenting food to ({%g.%}); {@-dā-@}
+{@-sa,@} {%m.%} one who serves {%in return%} for {%his daily%} 
+food; {@-dveṣa,@} {%m.%} aversion to food, lack of 
+appetite; {@-dveṣin,@} {%a.%} disliking food, lacking 
+appetite; {@-pātra,@} {%n.%} dish of food; {@-ruci@}, {%f.%} 
+appetite; {@-rocana@}, {%a.%} stimulating appetite; 
+{@-śaraṇa@}, {%n.%} kitchen; {@-śālā@}, {%f.%} dining-hall; 
+{@-ākāṅkṣā,@} {%f.%} appetite; {@-abhilāṣa,@} {%m. id.%}; 
+{@-abhisāra,@} {%m.%} dining-room; {@-aruci@}, {%f.%} aversion <lbinfo n="4"/>
+ for food.
 <LEND>

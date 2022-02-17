@@ -1,5 +1,5 @@
 <L>21923<pc>691<k1>supersede<k2>supersede
-<div n="lb"/>{@SUPERSEDE:@}¦ <div n="I">I In office: {%s. d me in this post:%}
-<div n="lb"/>{#मामुल्लङ्घ्य पदमिदमधिजगाम।#} </div><div n="I">II To set aside:
-<div n="lb"/>{#व्यावर्तयति#} (c. of {#वृत्#}).</div>
+{@SUPERSEDE:@}¦ <div n="I">I In office: {%s. d me in this post:%}
+{#मामुल्लङ्घ्य पदमिदमधिजगाम।#} </div><div n="I">II To set aside:
+{#व्यावर्तयति#} (c. of {#वृत्#}).</div>
 <LEND>

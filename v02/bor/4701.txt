@@ -1,5 +1,5 @@
 <L>4701<pc>153<k1>conviction<k2>conviction
-<div n="lb"/>{@CONVICTION:@}¦ <div n="I">I The act of finding guilty:
-<div n="lb"/>{#अपराधनिर्णयः#} </div><div n="I">II Confutation: q. v. </div><div n="I">III
-<div n="lb"/>Relief: {#विश्वासः।#}</div>
+{@CONVICTION:@}¦ <div n="I">I The act of finding guilty:
+{#अपराधनिर्णयः#} </div><div n="I">II Confutation: q. v. </div><div n="I">III
+Relief: {#विश्वासः।#}</div>
 <LEND>

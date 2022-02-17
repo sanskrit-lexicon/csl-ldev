@@ -10,7 +10,7 @@
 <ls>MBH. 3, 14195.</ls> {#देवदानवयक्षाणां मानवानां च#} 
 <ls>7, 2864.</ls> <ls>MĀRK. P. 99, 27.</ls> {#संकल्प°#} 
 <ls>HARIV. 1361</ls> (nach der Lesart der neueren Ausg.). {#सत्य°#} so v. a. {%wahrmachend%} 
-<ls>12044.</ls> {#विक्रम°#} 
+<ls n="HARIV.">12044.</ls> {#विक्रम°#} 
 <ls>R. 3, 33, 15.</ls> {#तत्साधनं कर्म#} 
 <ls>MUIR, ST. 1, 140.</ls> {#शतसहस्रं शिष्याणां ध्यानसाधनम्#} so v. a. {%obliegend%} 
 <ls>Verz. d. Oxf. H. 53,a,9.</ls> ohne Object {%wirkend%}: {#प्रदीपवत्साधना वृत्तिः#} 
@@ -37,8 +37,8 @@ zu <ls>P. 3, 1, 134.</ls> N. pr. eines Mannes mit dem patron. <is>Bhauvana</is>,
 <ls>KATHĀS. 26, 235. 28, 163. 55, 208. 73, 261.</ls> {#शाकिनी°#} 
 <ls>PAÑCAT. 241, 2.</ls> {#विद्याखड्गमालादि°#} 
 <ls>KATHĀS. 24, 17.</ls> {#विमान°#} 
-<ls>44, 36.</ls> <ls>Verz. d. Oxf. H. 88</ls>, {%a%}, 
-<ls>16. fgg. 93</ls>, {%a%}, 5. {%b%}, 32. 
+<ls>44, 36.</ls> <ls>Verz. d. Oxf. H. 88,a,</ls> 
+<ls>16. fgg. 93,a,5.</ls> {%b%}, 32. 
 <div n="2">— b) {%das Ausführen, zu-Wege-Bringen, Vollführen%} 
 <ls>NIR. 12, 40.</ls> {#उपायाश्चास्य साधने#} 
 <ls>MBH. 14, 595.</ls> {#साधनोपायाः#} 
@@ -89,7 +89,7 @@ zu <ls>P. 3, 1, 134.</ls> N. pr. eines Mannes mit dem patron. <is>Bhauvana</is>,
 [Page7-0910]
 {# साधनम्#} 
 <ls>ŚĀRṄG. SAṂH. 1, 5, 32.</ls> {#शरीरं धर्मसाधनम्#} 
-<ls>KĀM. NĪTIS. 6, 4.</ls> <ls>KAP. 1, 7.</ls> <ls>RAGH. 1, 19. 82. 5, 9. 10, 2. 13, 50.</ls> <ls>KUMĀRAS. 5, 33. 52. 64.</ls> <ls>Spr. (II) 822. 3735. 4538.</ls> <ls>Z. d. d. m. G. 27, 38.</ls> <ls>KATHĀS. 15, 50.</ls> <ls>SĀH. D. 2, 13.</ls> <ls>PAÑCAR. 3, 7, 1.</ls> <ls>VEDĀNTAS. (Allah.) No. 6. 7.</ls> Comm. zu 
+<ls>KĀM. NĪTIS. 6, 4.</ls> <ls>KAP. 1, 7.</ls> <ls>RAGH. 1, 19. 82. 5, 9. 10, 2. 13, 50.</ls> <ls>KUMĀRAS. 5, 33. 52. 64.</ls> <ls>Spr. (II) 822.</ls> <ls n="Spr. (II)">3735.</ls> <ls n="Spr. (II)">4538.</ls> <ls>Z. d. d. m. G. 27, 38.</ls> <ls>KATHĀS. 15, 50.</ls> <ls>SĀH. D. 2, 13.</ls> <ls>PAÑCAR. 3, 7, 1.</ls> <ls>VEDĀNTAS. (Allah.) No. 6. 7.</ls> Comm. zu 
 <ls>NAIṢ. 22, 49. 53.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) 
 <ls>KUMĀRAS. 5, 22.</ls> {#हीन°#} 
 <ls>Spr. (II) 500.</ls> {#अ°#} 
@@ -123,7 +123,7 @@ zu <ls>P. 3, 1, 134.</ls> N. pr. eines Mannes mit dem patron. <is>Bhauvana</is>,
 <ls>PĀTĀDH. 1.</ls> {%das Beweisen, Darthun%} 
 <ls>SĀH. D. 447. 711.</ls> 
 <ls>SARVADARŚANAS. 129, 20.</ls> {%Beweismittel, Beweis%} 
-<ls>?5, 6. 8. 7, 11. fg. 8, 12. 17, 16. 74, 7. YĀJÑ. 2, 7. KAP. 1, 139. TARKAS. 45. KULL. zu M. 8, 56.</ls> 
+<ls>5, 6. 8. 7, 11. fg. 8, 12. 17, 16. 74, 7.</ls> <ls>YĀJÑ. 2, 7.</ls> <ls>KAP. 1, 139.</ls> <ls>TARKAS. 45.</ls> <ls>KULL.</ls> zu <ls>M. 8, 56.</ls> 
 <div n="2">— o) {%Erfolg, Ergebniss%}: {#वैर°#} 
 <ls>PAÑCAT. 81, 24. 86, 24.</ls> — Die Lexicographen geben für {#साधन#} <lex>n.</lex> folgende Bedd. an: {#आराघन#} 
 <ls>AK. 3, 4, 18, 128.</ls> {#मारण, मृतसंस्कार, गति, द्रव्य, अर्थदापन, निवर्तन, उपकरण, अनुव्रज्या#} 

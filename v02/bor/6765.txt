@@ -1,4 +1,4 @@
 <L>6765<pc>216<k1>dome<k2>dome
-<div n="lb"/>{@DOME:@}¦ <div n="I">I A house: {#हर्म्यम्।#} </div><div n="I">II A cupola:
-<div n="lb"/>{#अर्धगोलशृङ्गम्#} (?).</div>
+{@DOME:@}¦ <div n="I">I A house: {#हर्म्यम्।#} </div><div n="I">II A cupola:
+{#अर्धगोलशृङ्गम्#} (?).</div>
 <LEND>

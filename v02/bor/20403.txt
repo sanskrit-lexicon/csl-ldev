@@ -1,8 +1,8 @@
 <L>20403<pc>638<k1>shock<k2>shock
-<div n="lb"/>{@SHOCK@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#अभिघातः#} (=
-<div n="lb"/>blow, collision: lit. and fig.); </div><div n="1">(2) {#अभिषङ्गः#}
-<div n="lb"/>(fig.), <div n="xe">{%arising from the severe s.:%}</div> <div n="xs">{#तीव्राभिषङ्ग-#}
-<div n="lb"/>{#प्रभव#}</div> (f. {#वा#}), Ku. iii. 73.; <div n="xe">{%then shot with the%}
-<div n="lb"/>{%quick s.:%}</div> <div n="xs">{#ततोऽभिषङ्गानिलविप्रविद्धा,#}</div> R. xiv. 54.</div>
-<div n="lb"/><div n="I">III A pile: </div><div n="1">(1) {#राशिः;#} </div><div n="1">(2) {#चितिः।#}</div>
+{@SHOCK@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#अभिघातः#} (=
+blow, collision: lit. and fig.); </div><div n="1">(2) {#अभिषङ्गः#}
+(fig.), <div n="xe">{%arising from the severe s.:%}</div> <div n="xs">{#तीव्राभिषङ्ग-#}
+{#प्रभव#}</div> (f. {#वा#}), Ku. iii. 73.; <div n="xe">{%then shot with the%}
+{%quick s.:%}</div> <div n="xs">{#ततोऽभिषङ्गानिलविप्रविद्धा,#}</div> R. xiv. 54.</div>
+<div n="I">III A pile: </div><div n="1">(1) {#राशिः;#} </div><div n="1">(2) {#चितिः।#}</div>
 <LEND>

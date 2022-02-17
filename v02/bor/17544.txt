@@ -1,8 +1,8 @@
 <L>17544<pc>537<k1>prayer<k2>prayer
-<div n="lb"/>{@PRAYER:@}¦ <div n="I">I To a deity: </div><div n="1">(1) {#स्तवः;#} </div><div n="1">(2) {#स्तोत्रम्:#}
-<div n="lb"/>v. To pray; </div><div n="1">(3) {#स्तुतिः#} (rare), <div n="xe">{%this p. was%}
-<div n="lb"/>{%addressed by the son of Indra:%}</div> <div n="xs">{#स्तुतिरिति जगदे #}
-<div n="lb"/>{# हरेः सूनुना,#}</div> Ki. xviii. 21. </div><div n="I">II Entreaty, supp-
-<div n="lb"/>-lication: q. v.: {#याच्ञा।#} Ph.: {%one who grants%}
-<div n="lb"/>{%p. s%} ({%of deities%}): {#वरद#} (f. {#दा#}) Mah. iv. 6. 7.</div>
+{@PRAYER:@}¦ <div n="I">I To a deity: </div><div n="1">(1) {#स्तवः;#} </div><div n="1">(2) {#स्तोत्रम्:#}
+v. To pray; </div><div n="1">(3) {#स्तुतिः#} (rare), <div n="xe">{%this p. was%}
+{%addressed by the son of Indra:%}</div> <div n="xs">{#स्तुतिरिति जगदे #}
+{# हरेः सूनुना,#}</div> Ki. xviii. 21. </div><div n="I">II Entreaty, supp-
+-lication: q. v.: {#याच्ञा।#} Ph.: {%one who grants%}
+{%p. s%} ({%of deities%}): {#वरद#} (f. {#दा#}) Mah. iv. 6. 7.</div>
 <LEND>

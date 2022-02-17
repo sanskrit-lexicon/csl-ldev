@@ -1,10 +1,10 @@
 <L>7635<pc>241<k1>enquire<k2>enquire
-<div n="lb"/>{@ENQUIRE:@}¦ <div n="I">I To ask: q. v.: {#अनुयुंक्ते#} ({#युज्,#} c. 7.),
-<div n="lb"/>{%e. d of him what was to be given and how much:%}
-<div n="lb"/>{#किं प्रदेयं कियद्वेति तमन्वयुंक्त,#} R. </div><div n="I">II To seek to
-<div n="lb"/>know: {#जिज्ञासते,#} <div n="xe">{%we will now e. into the nature%}
-<div n="lb"/>{%of spirit:%}</div> <div n="xs">{#प्राणः किंस्वरूप इतीदानीं जिज्ञास्यते,#}</div> S.</div>
-<div n="lb"/><div n="I">III To examine, consider: q. v.: {#अनुसन्द-#}
-<div n="lb"/>{#धाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.), <div n="xe">{%personally e. d into dis-%}
-<div n="lb"/>{%putes:%}</div> <div n="xs">{#विवादान् स्वयमनुसन्दधौ,#}</div> M. n.</div>
+{@ENQUIRE:@}¦ <div n="I">I To ask: q. v.: {#अनुयुंक्ते#} ({#युज्,#} c. 7.),
+{%e. d of him what was to be given and how much:%}
+{#किं प्रदेयं कियद्वेति तमन्वयुंक्त,#} R. </div><div n="I">II To seek to
+know: {#जिज्ञासते,#} <div n="xe">{%we will now e. into the nature%}
+{%of spirit:%}</div> <div n="xs">{#प्राणः किंस्वरूप इतीदानीं जिज्ञास्यते,#}</div> S.</div>
+<div n="I">III To examine, consider: q. v.: {#अनुसन्द-#}
+{#धाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.), <div n="xe">{%personally e. d into dis-%}
+{%putes:%}</div> <div n="xs">{#विवादान् स्वयमनुसन्दधौ,#}</div> M. n.</div>
 <LEND>

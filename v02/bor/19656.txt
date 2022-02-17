@@ -1,12 +1,12 @@
 <L>19656<pc>611<k1>sail<k2>sail
-<div n="lb"/>{@SAIL@}¦ (v.): <div n="I">I To be impelled by wind: {#वायुना #}
-<div n="lb"/>{# चोद्यते#} (pass. of {#चुद्#}) etc., {%s. ing against wind:%}
-<div n="lb"/>{#अननुकूलवातनुन्ना,#} D. vi.: v. To drive. </div><div n="I">II To
-<div n="lb"/>set on a voyage: {#पोतेन#} (= on a boat) {%or%}
-<div n="lb"/>{#समुद्रेण#} (by sea) {#गच्छति#} ({#गम्,#} c. 1. etc.), <div n="xe">{%s. to%}
-<div n="lb"/>{%the island:%}</div> <div n="xs">{#प्रवहणेन द्वीपं गच्छ,#}</div> K. s. 25.
-<div n="lb"/>36.; <div n="xe">{%s. ed on his ship:%}</div> <div n="xs">{#तदीयं यानपात्रमधिरुह्य #}
-<div n="lb"/>{# प्रतस्थेऽम्बुधिवर्त्मना,#}</div> 40.; {%s. ing%} ({%vessels%}): {#समुद्र-#}
-<div n="lb"/>{#यायिन्#} (f. {#नी#}) and sim. comp.s, M.n.: v.
-<div n="lb"/>Ship, sea, go, pass.</div>
+{@SAIL@}¦ (v.): <div n="I">I To be impelled by wind: {#वायुना #}
+{# चोद्यते#} (pass. of {#चुद्#}) etc., {%s. ing against wind:%}
+{#अननुकूलवातनुन्ना,#} D. vi.: v. To drive. </div><div n="I">II To
+set on a voyage: {#पोतेन#} (= on a boat) {%or%}
+{#समुद्रेण#} (by sea) {#गच्छति#} ({#गम्,#} c. 1. etc.), <div n="xe">{%s. to%}
+{%the island:%}</div> <div n="xs">{#प्रवहणेन द्वीपं गच्छ,#}</div> K. s. 25.
+36.; <div n="xe">{%s. ed on his ship:%}</div> <div n="xs">{#तदीयं यानपात्रमधिरुह्य #}
+{# प्रतस्थेऽम्बुधिवर्त्मना,#}</div> 40.; {%s. ing%} ({%vessels%}): {#समुद्र-#}
+{#यायिन्#} (f. {#नी#}) and sim. comp.s, M.n.: v.
+Ship, sea, go, pass.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>20723<pc>650<k1>sleeping<k2>sleeping
-<div n="lb"/>{@SLEEPING@}¦ (subs.): {#शयनम्;#} <div n="1">(2) rarely {#स्वापः, #}
-<div n="lb"/>{# सुप्तिः,#} <div n="xe">{%or%}</div> <div n="xs">{#स्वप्नः।#}</div></div>
+{@SLEEPING@}¦ (subs.): {#शयनम्;#} <div n="1">(2) rarely {#स्वापः, #}
+{# सुप्तिः,#} <div n="xe">{%or%}</div> <div n="xs">{#स्वप्नः।#}</div></div>
 <LEND>

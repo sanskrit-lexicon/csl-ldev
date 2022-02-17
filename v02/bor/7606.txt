@@ -1,4 +1,4 @@
 <L>7606<pc>240<k1>engulf<k2>engulf
-<div n="lb"/>{@ENGULF:@}¦ <div n="1">(1) {#ग्रसते#} ({#ग्रस्,#} c. 1.) (= to swallow);</div>
-<div n="lb"/><div n="1">(2) {#प्लावयति#} (c. of {#प्लु#}) (= to drown).</div>
+{@ENGULF:@}¦ <div n="1">(1) {#ग्रसते#} ({#ग्रस्,#} c. 1.) (= to swallow);</div>
+<div n="1">(2) {#प्लावयति#} (c. of {#प्लु#}) (= to drown).</div>
 <LEND>

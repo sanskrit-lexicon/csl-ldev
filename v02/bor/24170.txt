@@ -1,6 +1,6 @@
 <L>24170<pc>756<k1>wean<k2>wean
-<div n="lb"/>{@WEAN:@}¦ <div n="I">I Lit.: {#स्तन्यं त्याजयति, परि-#} (c. of
-<div n="lb"/>{#त्यज्#}) <div n="xe">{%or%}</div> <div n="xs">{#हापयति, परि-#}</div> (c. of {#हा#}) <div n="xe">{%or%}</div> <div n="xs">{#विसर्जयति#}</div>
-<div n="lb"/>(c. of {#सृज्#}). </div><div n="I">II Fig.: {#वियोजयति#} ({#युज्,#} c. 10)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#विधटयति#}</div> ({#घट्,#} c. 10.): v. To separate.</div>
+{@WEAN:@}¦ <div n="I">I Lit.: {#स्तन्यं त्याजयति, परि-#} (c. of
+{#त्यज्#}) <div n="xe">{%or%}</div> <div n="xs">{#हापयति, परि-#}</div> (c. of {#हा#}) <div n="xe">{%or%}</div> <div n="xs">{#विसर्जयति#}</div>
+(c. of {#सृज्#}). </div><div n="I">II Fig.: {#वियोजयति#} ({#युज्,#} c. 10)
+<div n="xe">{%or%}</div> <div n="xs">{#विधटयति#}</div> ({#घट्,#} c. 10.): v. To separate.</div>
 <LEND>

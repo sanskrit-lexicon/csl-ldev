@@ -1,4 +1,4 @@
 <L>4643<pc>151<k1>contribution<k2>contribution
-<div n="lb"/>{@CONTRIBUTION:@}¦ <div n="I">I A giver: {#दातृ#} (m.). </div><div n="I">II
-<div n="lb"/>Literary: {#लेखकः#} (=writer).</div>
+{@CONTRIBUTION:@}¦ <div n="I">I A giver: {#दातृ#} (m.). </div><div n="I">II
+Literary: {#लेखकः#} (=writer).</div>
 <LEND>

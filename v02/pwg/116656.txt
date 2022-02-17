@@ -9,7 +9,7 @@
 <ls>AV. 12, 1, 25.</ls> {#दन्त°#} {%mit Fangzähnen und Rüssel versehen%} 
 <ls>R. 1, 6, 24.</ls> 
 <div n="2">— c) (von 2) {%a%} {%mit einem Elephanten versehen, auf einem E. sitzend%}: {#रथी च रथिना नागी हस्तिना हयिना हयी । अयुध्यन्त#} 
-<ls>MĀRK. P. S. 656, Z. 8 v. u.</ls> 
+<ls>MĀRK. P. S. 656, Z. 8</ls> v. u. 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Elephant%} 
 <ls>P. 5, 2, 133.</ls> 
@@ -26,14 +26,14 @@
 <ls>KAUŚ. 15. 106.</ls> 
 <ls>PAÑCAV. BR. 6, 8, 8. 23, 13, 2.</ls> {#हस्तिनमारूढः#} 
 <ls>M. 4, 120. 7, 96. 12, 43.</ls> 
-<ls>MBH. 3, 2114. 2510. 2546.</ls> {#दुष्ट°#} 
+<ls>MBH. 3, 2114.</ls> <ls n="MBH. 3,">2510.</ls> <ls n="MBH. 3,">2546.</ls> {#दुष्ट°#} 
 <ls>8, 2579. 12, 4281.</ls> <ls>R. 1, 5, 16.</ls> {#हस्तिभिर्गीताः श्लोकाः#} 
 <ls>5, 88, 6.</ls> <ls>Spr. (II) 1306.</ls> {#काष्ठमय#} 
-<ls>?5094. 7378. fgg. VARĀH. BṚH. S. 16, 23. 19, 3. 45, 5. 51, 19. LA. (III) 92, 17. Verz. d. B. H. No. 897. 945.</ls> <is>Śākyamuni</is> als {%El.%} 
+<ls>5094. 7378. fgg.</ls> <ls>VARĀH. BṚH. S. 16, 23. 19, 3. 45, 5. 51, 19.</ls> <ls>LA. (III) 92, 17.</ls> <ls>Verz. d. B. H. No. 897. 945.</ls> <is>Śākyamuni</is> als {%El.%} 
 <ls>VYĀḌI</ls> beim Schol. zu <ls>H. 233.</ls> {#हस्तिकाय#} 
 <ls>HIOUENTHSANG 1, 82. 2, 81.</ls> {#°स्कन्ध#} 
 <ls>SUŚR. 1, 98, 9.</ls> {#°हस्त#} 
-<ls>MBH. 1, 5970. 3, 2669. 6, 4382.</ls> 
+<ls>MBH. 1, 5970.</ls> <ls n="MBH.">3, 2669.</ls> <ls n="MBH.">6, 4382.</ls> 
 <ls>R. 4, 9, 106. 5, 21, 15.</ls> {#°कपोल#} s. u. {#पलाप#}.{# °बल#} 
 <ls>Verz. d. Oxf. H. 230,b,27.</ls> {#°यूथ#} 
 <ls>MBH. 3, 2537.</ls> {#°कर्मन्#} 

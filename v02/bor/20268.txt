@@ -1,6 +1,6 @@
 <L>20268<pc>632<k1>sexual<k2>sexual
-<div n="lb"/>{@SEXUAL:@}¦ {#स्त्रीपुंस-#} in comp., {%s. characteristics:%}
-<div n="lb"/>{#स्त्रीपुंस-#} <div n="xe">{%or%}</div> <div n="xs">{#पुंस्त्रीलक्षणम्,#}</div> (see V. s. 78. ch.) Ph.:
-<div n="lb"/><div n="xe">{%s. desire:%}</div> <div n="xs">{#कामः:#}</div> v. Passion; {%s. intercourse:%}
-<div n="lb"/>{#संसर्गः:#} v. Intercourse, copulation.
+{@SEXUAL:@}¦ {#स्त्रीपुंस-#} in comp., {%s. characteristics:%}
+{#स्त्रीपुंस-#} <div n="xe">{%or%}</div> <div n="xs">{#पुंस्त्रीलक्षणम्,#}</div> (see V. s. 78. ch.) Ph.:
+<div n="xe">{%s. desire:%}</div> <div n="xs">{#कामः:#}</div> v. Passion; {%s. intercourse:%}
+{#संसर्गः:#} v. Intercourse, copulation.
 <LEND>

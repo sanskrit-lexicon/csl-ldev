@@ -1,6 +1,6 @@
 <L>21398<pc>674<k1>station<k2>station
-<div n="lb"/>{@STATION@}¦ (subs.): <div n="I">I As civil, military or
-<div n="lb"/>railway: {#निवेशः।#} </div><div n="I">II Position, rank: q. v.:
-<div n="lb"/>{#पदम्,#} <div n="xe">{%high s.:%}</div> <div n="xs">{#उन्नतं पदम्,#}</div> Ku. </div><div n="I">III Situation,
-<div n="lb"/>position: q. v.</div>
+{@STATION@}¦ (subs.): <div n="I">I As civil, military or
+railway: {#निवेशः।#} </div><div n="I">II Position, rank: q. v.:
+{#पदम्,#} <div n="xe">{%high s.:%}</div> <div n="xs">{#उन्नतं पदम्,#}</div> Ku. </div><div n="I">III Situation,
+position: q. v.</div>
 <LEND>

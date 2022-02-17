@@ -3,10 +3,10 @@
 <div n="1"> 1) <lex>adj.</lex> {%kaltstrahlig%}; davon nom. abstr. {#°त्व#} 
 n. <ls>ŚĀK. 54.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%der Mond%} 
-<ls>MBH. 6, 485. 13, 2645.</ls> 
-<ls>HARIV. 8721. 14995.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 16, 44.</ls> 
+<ls>MBH. 6, 485.</ls> <ls n="MBH.">13, 2645.</ls> 
+<ls>HARIV. 8721.</ls> <ls n="HARIV.">14995.</ls> 
+
+<ls>R. GORR. 2, 16, 44.</ls> 
 <ls>Spr. (II) 2468.</ls> 
 <ls>VARĀH. BṚH. S. 4, 23. 31. 96, 15.</ls> 
 <ls>BṚH. 2, 2.</ls> {#°ज#} <lex>m.</lex> {%der Sohn des Mondes%} d. i. {%Mercur%} 

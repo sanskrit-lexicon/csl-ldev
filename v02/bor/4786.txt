@@ -1,4 +1,4 @@
 <L>4786<pc>155<k1>corner-stone<k2>corner-stone
-<div n="lb"/>{@CORNER-STONE:@}¦ <div n="I">I Lit.: {#कोणप्रस्तरः#} (?). </div><div n="I">II
-<div n="lb"/>Fig.: {#स्तम्भः#} (=pillar)</div>
+{@CORNER-STONE:@}¦ <div n="I">I Lit.: {#कोणप्रस्तरः#} (?). </div><div n="I">II
+Fig.: {#स्तम्भः#} (=pillar)</div>
 <LEND>

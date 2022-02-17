@@ -1,9 +1,9 @@
 <L>1201<pc>025-a<k1>arms<k2>arms
-<div n="lb"/>ARMS¦, {%s.%} {#अस्त्रं, शस्त्रं, आयुधः, युद्धास्त्रं, शस्त्रास्त्रं#}. — (War in gene-
-<div n="lb"/>ral) {#विग्रहः, समरः, रणः, युद्धं, सङ्ग्रामः#}. — (State of hostility)
-<div n="lb"/>{#युद्धावस्था, रणसमयः;#} ‘dexterity in arms,’ {#अस्त्रलाघवं;#} ‘the
-<div n="lb"/>taking up of arms,’ {#अस्त्रग्रहणं, युद्धे प्रवृत्तिः, अस्त्रधारणं;#} ‘pas-
-<div n="lb"/>sage of arms,’ {#अस्त्रशिक्षा, शस्त्राभ्यासः;#} ‘a brother in arms,’
-<div n="lb"/>{#सहयुध्वा#} {%m.%} ({#न्#}). — (The ensigns armorial of a family) {#कुली-#}
-<div n="lb"/>{#नपदसूचकचिह्नं, कुलचिह्नं#}.
+ARMS¦, {%s.%} {#अस्त्रं, शस्त्रं, आयुधः, युद्धास्त्रं, शस्त्रास्त्रं#}. — (War in gene-
+ral) {#विग्रहः, समरः, रणः, युद्धं, सङ्ग्रामः#}. — (State of hostility)
+{#युद्धावस्था, रणसमयः;#} ‘dexterity in arms,’ {#अस्त्रलाघवं;#} ‘the
+taking up of arms,’ {#अस्त्रग्रहणं, युद्धे प्रवृत्तिः, अस्त्रधारणं;#} ‘pas-
+sage of arms,’ {#अस्त्रशिक्षा, शस्त्राभ्यासः;#} ‘a brother in arms,’
+{#सहयुध्वा#} {%m.%} ({#न्#}). — (The ensigns armorial of a family) {#कुली-#}
+{#नपदसूचकचिह्नं, कुलचिह्नं#}.
 <LEND>

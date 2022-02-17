@@ -3,10 +3,10 @@
 <ls>AK. 2, 8, 2, 42.</ls> 
 <ls>H. ś. 151.</ls> {#रथ#} 
 <ls>ṚV. 1, 102, 3.</ls> <ls n="ṚV.">10, 103, 5.</ls> 
-<ls>MBH. 2, 490. 940. 2064. 3, 16510. 5, 3645. 7, 2479.</ls> 
+<ls>MBH. 2, 490.</ls> <ls n="MBH. 2,">940.</ls> <ls n="MBH. 2,">2064.</ls> <ls n="MBH.">3, 16510.</ls> <ls n="MBH.">5, 3645.</ls> <ls n="MBH.">7, 2479.</ls> 
 <ls>RAGH. 12, 85.</ls> 
 <ls>BHĀG. P. 3, 21, 52. 4, 10, 4. 16, 20.</ls> 
-<ls>VP. 610</ls> <ls>?(nach WILS.</ls> N. von <is>Kṛṣṇa's</is> Wagen). 
+<ls>VP. 610</ls> (nach <ls>WILS.</ls> N. von <is>Kṛṣṇa's</is> Wagen). 
 <ls>DAŚAK. 37, 8.</ls> {#°पताकिन्#} 
 <ls>MBH. 7, 6884.</ls> {#धनुस्#} 
 <ls>RAGH. 4, 16.</ls> {#आभरण#} 

@@ -1,7 +1,7 @@
 <L>6326<pc>203<k1>discourage<k2>discourage
-<div n="lb"/>{@DISCOURAGE:@}¦ <div n="I">I To deject: q. v.: {#उत्साहभङ्गं #}
-<div n="lb"/>{# करोति,#} <div n="xe">{%d. d:%}</div> <div n="xs">{#भग्नोत्साहः#}</div> ({#हा, हं#}). {%To be d. d:%}</div>
-<div n="lb"/><div n="1">(1) {#सत्त्वात् परिभ्रश्यते#} (pass. of {#भ्रश्#}); </div><div n="1">(2) {#तेजसः #}
-<div n="lb"/>{# प्र-भ्रश्यते,#} Mr. </div><div n="I">II To deter: q. v.: {#निषेधति#}
-<div n="lb"/>({#सिध्,#} c. 1.).</div>
+{@DISCOURAGE:@}¦ <div n="I">I To deject: q. v.: {#उत्साहभङ्गं #}
+{# करोति,#} <div n="xe">{%d. d:%}</div> <div n="xs">{#भग्नोत्साहः#}</div> ({#हा, हं#}). {%To be d. d:%}</div>
+<div n="1">(1) {#सत्त्वात् परिभ्रश्यते#} (pass. of {#भ्रश्#}); </div><div n="1">(2) {#तेजसः #}
+{# प्र-भ्रश्यते,#} Mr. </div><div n="I">II To deter: q. v.: {#निषेधति#}
+({#सिध्,#} c. 1.).</div>
 <LEND>

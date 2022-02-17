@@ -1,8 +1,8 @@
 <L>132<pc>006<k1>accession<k2>accession
-<div n="lb"/>{@ACCESSION:@}¦ <div n="I">I The act of joining: </div><div n="1">(1) {#योगः;#}</div>
-<div n="lb"/><div n="1">(2) {#सङ्गमः।#} </div><div n="I">II A coming to power. Ph. <div n="xe">{%on%}
-<div n="lb"/>{%his a. to the throne%}</div> <div n="xs">{#राज्यमवाप्य#}</div> etc. <div n="xe">{%or%}</div> <div n="xs">{#सिंहासन-#}
-<div n="lb"/>{#मारुह्य।#}</div> </div><div n="I">III Increase: q. v. {#वृद्धिः,#} Ph.: <div n="xe">{%a.%}
-<div n="lb"/>{%of wealth%}</div> <div n="xs">{#धनागमः।#}</div> </div><div n="I">IV Of disease: </div><div n="1">(1) {#आगमः;#}</div>
-<div n="lb"/><div n="1">(2) {#आविर्भावः;#} </div><div n="1">(3) {#अवतारः।#}</div>
+{@ACCESSION:@}¦ <div n="I">I The act of joining: </div><div n="1">(1) {#योगः;#}</div>
+<div n="1">(2) {#सङ्गमः।#} </div><div n="I">II A coming to power. Ph. <div n="xe">{%on%}
+{%his a. to the throne%}</div> <div n="xs">{#राज्यमवाप्य#}</div> etc. <div n="xe">{%or%}</div> <div n="xs">{#सिंहासन-#}
+{#मारुह्य।#}</div> </div><div n="I">III Increase: q. v. {#वृद्धिः,#} Ph.: <div n="xe">{%a.%}
+{%of wealth%}</div> <div n="xs">{#धनागमः।#}</div> </div><div n="I">IV Of disease: </div><div n="1">(1) {#आगमः;#}</div>
+<div n="1">(2) {#आविर्भावः;#} </div><div n="1">(3) {#अवतारः।#}</div>
 <LEND>

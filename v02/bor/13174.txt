@@ -1,5 +1,5 @@
 <L>13174<pc>406<k1>landmark<k2>landmark
-<div n="lb"/>{@LANDMARK:@}¦ <div n="1">(1) {#सीमाचिह्नम्#} <div n="xe">{%or%}</div> <div n="xs">{#सीमालिङ्गम्,#}</div> <div n="xe">{%shall%}
-<div n="lb"/>{%always cause these public l.s.:%}</div> <div n="xs">{#प्रकाशचिह्नान्येतानि #}
-<div n="lb"/>{# सीमायां कारयेत् सदा,#}</div> Vri.</div>
+{@LANDMARK:@}¦ <div n="1">(1) {#सीमाचिह्नम्#} <div n="xe">{%or%}</div> <div n="xs">{#सीमालिङ्गम्,#}</div> <div n="xe">{%shall%}
+{%always cause these public l.s.:%}</div> <div n="xs">{#प्रकाशचिह्नान्येतानि #}
+{# सीमायां कारयेत् सदा,#}</div> Vri.</div>
 <LEND>

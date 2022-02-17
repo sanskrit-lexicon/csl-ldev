@@ -1,14 +1,14 @@
 <L>21287<pc>670<k1>square<k2>square
-<div n="lb"/>{@SQUARE@}¦ (subs.): <div n="I">I In arith.: </div><div n="1">(1) {#वर्गः,#} <div n="xe">{%s. of%}
-<div n="lb"/>{%a. s.:%}</div> <div n="xs">{#वर्गवर्गः,#}</div> Li.; <div n="xe">{%s. root:%}</div> <div n="xs">{#वर्गमूलम्,#}</div> Li. <div n="xe">{%or%}</div> <div n="xs">{#पदम्;#}</div>
-<div n="lb"/><div n="xe">{%the root of the sum of their s. s:%}</div> <div n="xs">{#तत्कृत्योर्योगपदम्,#}</div>
-<div n="lb"/>Li. 108.; <div n="xe">{%to take the s. root:%}</div> <div n="xs">{#पदीकरोति,#}</div> A. b.;</div>
-<div n="lb"/><div n="1">(2) {#कृतिः,#} <div n="xe">{%its s.:%}</div> <div n="xs">{#अस्य कृतिः,#}</div> Li. 30. </div><div n="I">II In
-<div n="lb"/>Geo.: </div><div n="1">(1) {#वर्गः,#} {%a s. is an equal quadrilateral:%}
-<div n="lb"/>{#वर्गः समचतुरस्रः,#} A. b.; </div><div n="1">(2) {#तुल्यश्रुतिस्तुल्यचतुर्भुजः,#}
-<div n="lb"/>and sim. comp.s., Li. 148. </div><div n="I">III In towns:
-<div n="lb"/>no equiv.: {#चतुरस्रम्#} may be used: v. Also
-<div n="lb"/>court. </div><div n="I">IV Of armies: {#वर्गव्यूहः#} (?): comp.
-<div n="lb"/>{#पद्मव्यूहः#} etc., Mah. vii. 87. 24. </div><div n="I">V An intru-
-<div n="lb"/>-ment: {#*समयन्त्रम्।#}</div>
+{@SQUARE@}¦ (subs.): <div n="I">I In arith.: </div><div n="1">(1) {#वर्गः,#} <div n="xe">{%s. of%}
+{%a. s.:%}</div> <div n="xs">{#वर्गवर्गः,#}</div> Li.; <div n="xe">{%s. root:%}</div> <div n="xs">{#वर्गमूलम्,#}</div> Li. <div n="xe">{%or%}</div> <div n="xs">{#पदम्;#}</div>
+<div n="xe">{%the root of the sum of their s. s:%}</div> <div n="xs">{#तत्कृत्योर्योगपदम्,#}</div>
+Li. 108.; <div n="xe">{%to take the s. root:%}</div> <div n="xs">{#पदीकरोति,#}</div> A. b.;</div>
+<div n="1">(2) {#कृतिः,#} <div n="xe">{%its s.:%}</div> <div n="xs">{#अस्य कृतिः,#}</div> Li. 30. </div><div n="I">II In
+Geo.: </div><div n="1">(1) {#वर्गः,#} {%a s. is an equal quadrilateral:%}
+{#वर्गः समचतुरस्रः,#} A. b.; </div><div n="1">(2) {#तुल्यश्रुतिस्तुल्यचतुर्भुजः,#}
+and sim. comp.s., Li. 148. </div><div n="I">III In towns:
+no equiv.: {#चतुरस्रम्#} may be used: v. Also
+court. </div><div n="I">IV Of armies: {#वर्गव्यूहः#} (?): comp.
+{#पद्मव्यूहः#} etc., Mah. vii. 87. 24. </div><div n="I">V An intru-
+-ment: {#*समयन्त्रम्।#}</div>
 <LEND>

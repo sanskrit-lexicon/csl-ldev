@@ -1,5 +1,5 @@
 <L>8568<pc>272<k1>feed<k2>feed
-<div n="lb"/>{@FEED@}¦ (subs.): <div n="I">I Food: q.v.: {#भोजनम्,#} <div n="xe">{%she is%}
-<div n="lb"/>{%my f.:%}</div> <div n="xs">{#सा भोजनं मे,#}</div> M.n. </div><div n="I">II Pasture-land:
-<div n="lb"/>{#प्रचारभूमिः।#} </div><div n="I">III Of a boiler. {#*पोषकम्; जलम्।#}</div>
+{@FEED@}¦ (subs.): <div n="I">I Food: q.v.: {#भोजनम्,#} <div n="xe">{%she is%}
+{%my f.:%}</div> <div n="xs">{#सा भोजनं मे,#}</div> M.n. </div><div n="I">II Pasture-land:
+{#प्रचारभूमिः।#} </div><div n="I">III Of a boiler. {#*पोषकम्; जलम्।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>10989<pc>346<k1>highlander<k2>highlander
-<div n="lb"/>{@HIGHLANDER:@}¦ <div n="I">I Lit.: {#पार्वतीयः#} ({#या, यं#}) (?).</div>
-<div n="lb"/><div n="I">II A Scot: {#*स्कुदः#} ({#दा, दं#}).</div>
+{@HIGHLANDER:@}¦ <div n="I">I Lit.: {#पार्वतीयः#} ({#या, यं#}) (?).</div>
+<div n="I">II A Scot: {#*स्कुदः#} ({#दा, दं#}).</div>
 <LEND>

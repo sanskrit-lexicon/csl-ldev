@@ -1,10 +1,10 @@
 <L>18512<pc>569<k1>rain<k2>rain
-<div n="lb"/>{@RAIN@}¦ (v. i.): <div n="1">(1) {#वर्षति, प्र-, अभि-,#} ({#वृष्,#} c. 1.)
-<div n="lb"/>(taking as nom. {%cloud, sky, or Indra%}), <div n="xe">{%Indra%}
-<div n="lb"/>{%did not r. for twelve years:%}</div> <div n="xs">{#न ववर्ष वर्षाणि द्वादश #}
-<div n="lb"/>{# दशशताक्षः,#}</div> D.; {%it%} (lit. the sky) {%r. ed heavily:%}
-<div n="lb"/>{#नभस्तलं गाढं ववर्ष,#} Ku.; {%when it%} (lit. the
-<div n="lb"/>cloud) <div n="xe">{%was r. ing gently:%}</div> <div n="xs">{#मन्दं मन्दं प्रवर्षति पर्जन्ये,#}</div>
-<div n="lb"/>P.; </div><div n="1">(2) {#वृष्टिर्भवति,#} {%it r. ed heavily in torrents:%}
-<div n="lb"/>{#धारासारैर्महती वृष्टिर्बभूव,#} H. <div n="xe">{%R. off:%}</div> <div n="xs">{#निर्वर्षति।#}</div></div>
+{@RAIN@}¦ (v. i.): <div n="1">(1) {#वर्षति, प्र-, अभि-,#} ({#वृष्,#} c. 1.)
+(taking as nom. {%cloud, sky, or Indra%}), <div n="xe">{%Indra%}
+{%did not r. for twelve years:%}</div> <div n="xs">{#न ववर्ष वर्षाणि द्वादश #}
+{# दशशताक्षः,#}</div> D.; {%it%} (lit. the sky) {%r. ed heavily:%}
+{#नभस्तलं गाढं ववर्ष,#} Ku.; {%when it%} (lit. the
+cloud) <div n="xe">{%was r. ing gently:%}</div> <div n="xs">{#मन्दं मन्दं प्रवर्षति पर्जन्ये,#}</div>
+P.; </div><div n="1">(2) {#वृष्टिर्भवति,#} {%it r. ed heavily in torrents:%}
+{#धारासारैर्महती वृष्टिर्बभूव,#} H. <div n="xe">{%R. off:%}</div> <div n="xs">{#निर्वर्षति।#}</div></div>
 <LEND>

@@ -1,15 +1,15 @@
 <L>9372<pc>297<k1>free<k2>free
-<div n="lb"/>{@FREE@}¦ (adj.): <div n="I">I At liberty: </div><div n="1">(1) {#स्वाधीनः#} ({#ना, #}
-<div n="lb"/>{# नं#}), <div n="xe">{%he is f.:%}</div> <div n="xs">{#स्वाधीनोऽयम्,#}</div> K., <div n="xe">{%“f. town”:%}</div> <div n="xs">{#*स्वाधीन-#}
-<div n="lb"/>{#नगरम्;#}</div> </div><div n="1">(2) {#स्वतन्त्र#} (f. {#न्त्रा#}), <div n="xe">{%who being f. sells%}
-<div n="lb"/>{%himself:%}</div> <div n="xs">{#विक्रीणीते स्वतन्त्रः सन्नात्मानं यः,#}</div> N.s.; <div n="xe">{%“f.%}
-<div n="lb"/>{%country”.%}</div> <div n="xs">{#स्वतन्त्रराज्यम्।#}</div> Ph.: <div n="xe">{%according to one's f.%}
-<div n="lb"/>{%will:%}</div> <div n="xs">{#स्वेच्छया;#}</div> <div n="xe">{%she should be made f.:%}</div> <div n="xs">{#सादासी कर्तव्या,#}</div>
-<div n="lb"/>Kat.: v. Slave; <div n="xe">{%f. agency,%}</div> <div n="xs">{#स्वच्छन्दता।#}</div> </div><div n="I">II
-<div n="lb"/>Liberated: {#मुक्तः#} ({#क्ता, क्तं#}), {#वि-, निर्-; मोक्षितः#}
-<div n="lb"/>({#ता, तं#}), {#वि-।#} </div><div n="I">III Unrestrained: {#निर्यन्त्रण#}
-<div n="lb"/>(f. {#णा#}); {#अयन्त्रितः#} ({#ता, तं#}). </div><div n="I">IV {#मुक्तहस्तः#} ({#स्ता, #}
-<div n="lb"/>{# स्तं#}). </div><div n="I">V Not obstructed, open: {#मुक्तः#} ({#क्ता, क्तं#}).</div>
-<div n="lb"/><div n="I">VI Gratuitous: expr. by {#विना मुल्येन।#} </div><div n="I">VII
-<div n="lb"/>Unreserved: {#असंवृतः#} ({#ता, तं#}).</div>
+{@FREE@}¦ (adj.): <div n="I">I At liberty: </div><div n="1">(1) {#स्वाधीनः#} ({#ना, #}
+{# नं#}), <div n="xe">{%he is f.:%}</div> <div n="xs">{#स्वाधीनोऽयम्,#}</div> K., <div n="xe">{%“f. town”:%}</div> <div n="xs">{#*स्वाधीन-#}
+{#नगरम्;#}</div> </div><div n="1">(2) {#स्वतन्त्र#} (f. {#न्त्रा#}), <div n="xe">{%who being f. sells%}
+{%himself:%}</div> <div n="xs">{#विक्रीणीते स्वतन्त्रः सन्नात्मानं यः,#}</div> N.s.; <div n="xe">{%“f.%}
+{%country”.%}</div> <div n="xs">{#स्वतन्त्रराज्यम्।#}</div> Ph.: <div n="xe">{%according to one's f.%}
+{%will:%}</div> <div n="xs">{#स्वेच्छया;#}</div> <div n="xe">{%she should be made f.:%}</div> <div n="xs">{#सादासी कर्तव्या,#}</div>
+Kat.: v. Slave; <div n="xe">{%f. agency,%}</div> <div n="xs">{#स्वच्छन्दता।#}</div> </div><div n="I">II
+Liberated: {#मुक्तः#} ({#क्ता, क्तं#}), {#वि-, निर्-; मोक्षितः#}
+({#ता, तं#}), {#वि-।#} </div><div n="I">III Unrestrained: {#निर्यन्त्रण#}
+(f. {#णा#}); {#अयन्त्रितः#} ({#ता, तं#}). </div><div n="I">IV {#मुक्तहस्तः#} ({#स्ता, #}
+{# स्तं#}). </div><div n="I">V Not obstructed, open: {#मुक्तः#} ({#क्ता, क्तं#}).</div>
+<div n="I">VI Gratuitous: expr. by {#विना मुल्येन।#} </div><div n="I">VII
+Unreserved: {#असंवृतः#} ({#ता, तं#}).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>17260<pc>528<k1>plumage<k2>plumage
-<div n="lb"/>{@PLUMAGE:@}¦ <div n="1">(1) {#पक्षाः#} (m. pl.), <div n="xe">{%seeing my golden%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#समीक्ष्य पक्षान् मम हेमजन्मनः,#}</div> N. i. 130.;</div>
-<div n="lb"/><div n="1">(2) {#पर्णाः#} (m. pl.), <div n="xe">{%having beautiful p.:%}</div> <div n="xs">{#सुपर्ण#}</div>
-<div n="lb"/>(f. {#णा#}), Mah.</div>
+{@PLUMAGE:@}¦ <div n="1">(1) {#पक्षाः#} (m. pl.), <div n="xe">{%seeing my golden%}
+{%p.:%}</div> <div n="xs">{#समीक्ष्य पक्षान् मम हेमजन्मनः,#}</div> N. i. 130.;</div>
+<div n="1">(2) {#पर्णाः#} (m. pl.), <div n="xe">{%having beautiful p.:%}</div> <div n="xs">{#सुपर्ण#}</div>
+(f. {#णा#}), Mah.</div>
 <LEND>

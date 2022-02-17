@@ -1,8 +1,8 @@
 <L>1527<pc>054<k1>balance<k2>balance
-<div n="lb"/>{@BALANCE@}¦ (v. t.): <div n="I">I To bring to an equipoise;
-<div n="lb"/>{#तुलयति#} ({#तुल्,#} c. 10) (Lit. and Fig.): Ph. <div n="xe">{%their%}
-<div n="lb"/>{%equipment is not b. d%}</div> <div n="xs">{#न तुलाधृतस्तावदनयोः परिकरः,#}</div>
-<div n="lb"/>Vi. vi. </div><div n="I">II To counterpoise: q. v. </div><div n="I">III Of
-<div n="lb"/>accounts: </div><div n="1">(1) {#समीकरोति#} ({#कृ,#} c. 8.); </div><div n="1">(2) {#एकीक-#}
-<div n="lb"/>{#रोति#} (?), <div n="xe">{%b. ing the account%}</div> <div n="xs">{#गणनामेकीकृत्य,#}</div> Raj.</div>
+{@BALANCE@}¦ (v. t.): <div n="I">I To bring to an equipoise;
+{#तुलयति#} ({#तुल्,#} c. 10) (Lit. and Fig.): Ph. <div n="xe">{%their%}
+{%equipment is not b. d%}</div> <div n="xs">{#न तुलाधृतस्तावदनयोः परिकरः,#}</div>
+Vi. vi. </div><div n="I">II To counterpoise: q. v. </div><div n="I">III Of
+accounts: </div><div n="1">(1) {#समीकरोति#} ({#कृ,#} c. 8.); </div><div n="1">(2) {#एकीक-#}
+{#रोति#} (?), <div n="xe">{%b. ing the account%}</div> <div n="xs">{#गणनामेकीकृत्य,#}</div> Raj.</div>
 <LEND>

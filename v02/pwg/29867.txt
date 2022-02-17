@@ -35,7 +35,7 @@
 <ls>24, 58.</ls> {#तत्कमलरेणुसुगन्धि वक्त्रं तत्प्रेमवारि मकरध्वजतापहारि - सुरतैकतीर्थम्#} 
 <ls>CAURAP. 42.</ls> {#सत्कर्णपीयूषे - तीर्थवरे#} 
 <ls>BHĀG. P. 9, 24, 61.</ls> {#अगाधे विमले शुद्धे सत्यतोये धृतिह्रदे । स्नातव्यं मानसे तीर्थे सत्यमालम्ब्य शाश्वतम् ॥#} 
-<ls>MBH. 13, 5351. 5361.</ls> {#मनसश्च पृथिव्याश्च पुण्यास्तीर्थास्तथापरे । उभयोरेव यः स्नायात्स सिद्धिं शीघ्रमाप्नुयात्#} 
+<ls>MBH. 13, 5351.</ls> <ls n="MBH. 13,">5361.</ls> {#मनसश्च पृथिव्याश्च पुण्यास्तीर्थास्तथापरे । उभयोरेव यः स्नायात्स सिद्धिं शीघ्रमाप्नुयात्#} 
 <ls>5367.</ls> {#शरीरस्थानि तीर्थानि प्रोक्तान्येतानि भारत । पृथिव्यां यानि तीर्थानि पुण्यानि #}
 [Page3-0346]
 {# शृणु तान्यपि ॥#} 
@@ -100,7 +100,7 @@
 <ls>M. 2, 58. 59. 61.</ls> 
 <ls>YĀJÑ. 1, 19.</ls> 
 <ls>MBH. 13, 5058.</ls> 
-<ls>MĀRK. P. 34, 103. fgg.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 291, 5 v. u. 380, 20. 413</ls>, ult. {#सौम्यं तीर्थम्#} {%die Mitte der Hand%} 
+<ls>MĀRK. P. 34, 103. fgg.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 291, 5</ls> v. u. <ls>380, 20. 413</ls>, ult. {#सौम्यं तीर्थम्#} {%die Mitte der Hand%} 
 <ls>H. ś. 152.</ls> 
 <div n="1">— 7) {%ein Gegenstand der Verehrung, ein heiliger Gegenstand%}: {#तीर्थश्रवस्#} <lex>adj.</lex> {%dessen Ruf schon heiligt%} 
 <ls>BHĀG. P. 2, 7, 15. 8, 17, 8.</ls> {#तीर्थकीर्ति#} dass. 
@@ -120,9 +120,9 @@
 <ls>M. 7, 99</ls>, wo dafür {#पात्रेषु) निक्षिपेत्#} 
 <ls>HIT. II, 7.</ls> {#न तथा (सुलभाः) तीर्थ आयाते श्रद्धया ये धनत्यजः#} 
 <ls>BHĀG. P. 8, 20, 9.</ls> Hierher gehören wohl die Personennamen {#आनन्दतीर्थ, कृष्ण°, जय°#} . {%ein Brahman%} 
-<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS. ŚKDR.</ls> 
+<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls> 
 <div n="1">— 9) Bez. {%bestimmter Personen in der nächsten Umgebung eines Fürsten%}: {#कच्चिदष्टादशान्येषु स्वपक्षे दश पञ्च च । त्रिभिस्त्रिभिरविज्ञातैर्वेत्सि तीर्थानि चारकैः ॥#} 
-<ls>MBH. 2, 171</ls> <ls>?= R. GORR. 2, 109, 45</ls>; vgl. 
+<ls>MBH. 2, 171</ls> = <ls>R. GORR. 2, 109, 45</ls>; vgl. 
 <ls>PAÑCAT. p. 156</ls>, wo {#तीर्थ#} durch {#युक्तकर्मन्#} (nicht <lex>n.</lex> {%eine brauchbare Sache%}, wie 
 <ls>BENFEY</ls> übersetzt, sondern <lex>m.</lex> {%der ein bestimmtes Amt bekleidet%}) erklärt wird, und wo auch {%die 18 Personen auf des Feindes und die 15 auf der eigenen Seite%} aufgezählt werden; anders beim 
 <ls>Schol.</ls> zu <ls>R.</ls> bei <ls>GORR. Bd. VII, S. 341.</ls> {#आ तीर्थादप्रतीघातं स तस्याः (राजनीत्याः) फलमानशे#} 
@@ -144,6 +144,6 @@
 <ls>TRIK. 3, 3, 197.</ls> 
 <div n="1">— 14) = {#निदान#} {%Diagnose.%} 
 <div n="1">— 15) {%Feuer%} 
-<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS. ŚKDR.</ls> 
+<ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> <ls>ŚKDR.</ls> 
 <div n="v">— Vgl. {#मृग°, सु°#} .
 <LEND>

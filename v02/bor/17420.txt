@@ -1,4 +1,4 @@
 <L>17420<pc>533<k1>port<k2>port
-<div n="lb"/>{@PORT:@}¦ <div n="I">I Harbour: {#*क्रोडः।#} </div><div n="I">II Bearing, ges-
-<div n="lb"/>-ture: {#चेष्टा।#} </div><div n="I">III A wine: {#*पूर्तम्; मदिराविशेषः।#}</div>
+{@PORT:@}¦ <div n="I">I Harbour: {#*क्रोडः।#} </div><div n="I">II Bearing, ges-
+-ture: {#चेष्टा।#} </div><div n="I">III A wine: {#*पूर्तम्; मदिराविशेषः।#}</div>
 <LEND>

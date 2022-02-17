@@ -1,9 +1,9 @@
 <L>7044<pc>224<k1>due<k2>due
-<div n="lb"/>{@DUE@}¦ (adj.): <div n="I">I Owed: </div><div n="1">(1) {#देयः#} ({#या, यं#}) (= to
-<div n="lb"/>be given); </div><div n="1">(2) {#प्राप्यः#} ({#प्या, प्यं#}) (= to be
-<div n="lb"/>received.) </div><div n="I">II Proper, fit: q. v.: {#उपयुक्तः#} ({#क्ता, #}
-<div n="lb"/>{# क्तं#}). </div><div n="I">III Owing: <div n="xe">{%the fall of rain is d. to its%}
-<div n="lb"/>{%heaviness:%}</div> <div n="xs">{#अपां पतनं तद्गुरुत्वकारणकम्,#}</div> V. d.: v.
-<div n="lb"/>Accout of, on-. Ph.: <div n="xe">{%the mail is d. now:%}</div> <div n="xs">{#अद्य #}
-<div n="lb"/>{# पत्राणि समागन्तव्यानि।#}</div></div>
+{@DUE@}¦ (adj.): <div n="I">I Owed: </div><div n="1">(1) {#देयः#} ({#या, यं#}) (= to
+be given); </div><div n="1">(2) {#प्राप्यः#} ({#प्या, प्यं#}) (= to be
+received.) </div><div n="I">II Proper, fit: q. v.: {#उपयुक्तः#} ({#क्ता, #}
+{# क्तं#}). </div><div n="I">III Owing: <div n="xe">{%the fall of rain is d. to its%}
+{%heaviness:%}</div> <div n="xs">{#अपां पतनं तद्गुरुत्वकारणकम्,#}</div> V. d.: v.
+Accout of, on-. Ph.: <div n="xe">{%the mail is d. now:%}</div> <div n="xs">{#अद्य #}
+{# पत्राणि समागन्तव्यानि।#}</div></div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>39117<pc>4-0170<k1>नियोग<k2>नियोग
 {#नियोग#}¦ (von {#युज्#} mit {#नि#}) <lex>m.</lex> 
 <div n="1"> 1) {%das Anbinden%}: {#°पाश#} wohl {%Halfter%} 
-<ls>HARIV. 3537. 3731.</ls> 
+<ls>HARIV. 3537.</ls> <ls n="HARIV.">3731.</ls> 
 <div n="1">— 2) {%Verwendung%} 
 <ls>LĀṬY. 9, 1, 9.</ls> {#एककार्य°#} {%Anstellung bei einem und demselben Geschäfte%} 
 <ls>MṚCCH. 101, 19.</ls> 
@@ -27,8 +27,8 @@
 <ls>ŚĀK. 61, 1.</ls> {#त्वमपि स्वं नियोगमशून्यं कुरु#} 
 <ls>24, 16.</ls> <ls>MĀLAV. 19, 7.</ls> {#स्वामिनियोगं संपादयावः#} 
 <ls>PRAB. 103, 5.</ls> {#मयैव पूर्वं निर्दिष्टो नियोगः प्रतिपाल्यताम्#} 
-<ls>HARIV. 12588. 12587.</ls> {#एष ते प्रथमः कृष्ण नियोगो गोषु यः कृतः#} 
-<ls>4031.</ls> {#अनियोज्ये नियोगे मां नियुनक्षि#} 
+<ls>HARIV. 12588.</ls> <ls n="HARIV.">12587.</ls> {#एष ते प्रथमः कृष्ण नियोगो गोषु यः कृतः#} 
+<ls n="HARIV.">4031.</ls> {#अनियोज्ये नियोगे मां नियुनक्षि#} 
 <ls>MBH. 1, 3267.</ls> {#न नियोज्याश्च वः शिष्या अनियोगे महाभये#} {%ein unangemessener Auftrag%} 
 <ls>12, 12358.</ls> {#अनियोगे नियुक्तेन त्वया राज्ञा#} 
 <ls>R. GORR. 2, 68, 17.</ls> {#स्वस्वनियोगव्यापृतपरिजन#} 
@@ -38,6 +38,6 @@
 <ls>Sch.</ls> 
 <div n="1">— 4) {%Bestimmtheit, Nothwendigkeit%} 
 <ls>P. 2, 1, 43, <is>Vārtt</is>.</ls> {#नियोगेन#} {%nothwendig, bestimmt, gewiss%} 
-<ls>RAGH. 17, 49</ls> <ls>?(Schol. in der Calc.</ls> Ausg. = {#निश्चयेन#}). 
+<ls>RAGH. 17, 49</ls> (<ls>Schol. in der Calc.</ls> Ausg. = {#निश्चयेन#}). 
 <ls>KĀŚ.</ls> zu <ls>P. 4, 4, 66.</ls>
 <LEND>

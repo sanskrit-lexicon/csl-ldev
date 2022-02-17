@@ -1,5 +1,5 @@
 <L>20507<pc>642<k1>sidelong<k2>sidelong
-<div n="lb"/>{@SIDELONG:@}¦ <div n="I">I Adj.: {#वक्र#} (f. {#क्रा#}): v. Oblique.</div>
-<div n="lb"/><div n="I">II Adv.: </div><div n="1">(1) {#पार्श्वतः#} (= on the side); </div><div n="1">(2)
-<div n="lb"/>{#अनुपार्श्वम्#} (= laterally).</div>
+{@SIDELONG:@}¦ <div n="I">I Adj.: {#वक्र#} (f. {#क्रा#}): v. Oblique.</div>
+<div n="I">II Adv.: </div><div n="1">(1) {#पार्श्वतः#} (= on the side); </div><div n="1">(2)
+{#अनुपार्श्वम्#} (= laterally).</div>
 <LEND>

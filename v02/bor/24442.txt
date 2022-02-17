@@ -1,7 +1,7 @@
 <L>24442<pc>766<k1>wonder<k2>wonder
-<div n="lb"/>{@WONDER@}¦ (v.): <div n="1">(1) {#विस्मयते#} ({#स्मि,#} c. 1.), <div n="xe">{%neither%}
-<div n="lb"/>{%w. ed nor felt dejected:%}</div> <div n="xs">{#न विसिस्मिये न विषसाद,#}</div>
-<div n="lb"/>Ki. xi. 5.; </div><div n="1">(2) gen. by subs. or adj.;
-<div n="lb"/><div n="xe">{%w. ing at the speech:%}</div> <div n="xs">{#तां श्रुत्वा सञ्जातविस्मयः,#}</div> K.;
-<div n="lb"/><div n="xe">{%w. ing:%}</div> <div n="xs">{#सविस्मयः,#}</div> R. xvi. 6.</div>
+{@WONDER@}¦ (v.): <div n="1">(1) {#विस्मयते#} ({#स्मि,#} c. 1.), <div n="xe">{%neither%}
+{%w. ed nor felt dejected:%}</div> <div n="xs">{#न विसिस्मिये न विषसाद,#}</div>
+Ki. xi. 5.; </div><div n="1">(2) gen. by subs. or adj.;
+<div n="xe">{%w. ing at the speech:%}</div> <div n="xs">{#तां श्रुत्वा सञ्जातविस्मयः,#}</div> K.;
+<div n="xe">{%w. ing:%}</div> <div n="xs">{#सविस्मयः,#}</div> R. xvi. 6.</div>
 <LEND>

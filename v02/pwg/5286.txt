@@ -1,6 +1,6 @@
 <L>5286<pc>1-0384<k1>अम्बरीष<k2>अम्ब/रीष
 {#अम्ब/रीष#}¦ <lex>n.</lex> 
-<ls>SIDDH. K.249</ls>, {%b%}, 
+<ls>SIDDH. K.249,b,</ls> 
 <ls>5.</ls> 
 <div n="1"> 1) {%Bratpfanne%}, <lex>n.</lex> 
 <ls>AK. 2, 9, 30.</ls> 
@@ -34,12 +34,12 @@
 <ls>R. 1, 70, 40. 2, 110, 32.</ls> 
 <ls>VIŚV. 11, 5. fgg.</ls> 
 <ls>Ind. St. 2, 119.</ls> ein Sohn <is>Nābhāga's</is> 
-<ls>MBH. 12, 993. fgg. 3615. fgg. 8597.</ls> 
-<ls>HARIV. 641. 813.</ls> 
+<ls>MBH. 12, 993. fgg.</ls> <ls n="MBH. 12,">3615. fgg.</ls> <ls n="MBH. 12,">8597.</ls> 
+<ls>HARIV. 641.</ls> <ls n="HARIV.">813.</ls> 
 <ls>VP. 351,</ls> 
-<ls>N. 7</ls> <ls>?(vgl. HARIV. 637). 379.</ls> <is>Pulaha's</is> 
-<ls>83, N. 6.</ls> <is>Māṃdhātar's</is> 
-<ls>363.</ls> eines <is>Purohita</is> 
-<ls>SCHIEFNER,</ls> <ls>Lebensb. 287 (57).</ls> {#नारदाम्बरीषसंवाद#} 
+<ls>N. 7</ls> (vgl. <ls>HARIV. 637</ls>). <ls n="HARIV.">379.</ls> <is>Pulaha's</is> 
+<ls n="HARIV.">83, N. 6.</ls> <is>Māṃdhātar's</is> 
+<ls n="HARIV.">363.</ls> eines <is>Purohita</is> 
+<ls>SCHIEFNER, Lebensb. 287 (57).</ls> {#नारदाम्बरीषसंवाद#} 
 <ls>PADMA-P.</ls> in <ls>Verz. d. B. H. No. 453. -</ls> <ls>COLEBR. Misc. Ess. I, 24.</ls> <ls>LIA. I, 750. Anh. VI, N. VIII. IX.</ls>
 <LEND>

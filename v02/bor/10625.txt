@@ -1,5 +1,5 @@
 <L>10625<pc>334<k1>harden<k2>harden
-<div n="lb"/>{@HARDEN:@}¦ <div n="I">I Trans: </div><div n="1">(1) {#कठिनीकरोति,#} Ki. i.
-<div n="lb"/>36.; </div><div n="1">(2) {#कठिनं#} (f. {#नां#}) {#करोति।#} </div><div n="I">II Intrans:</div>
-<div n="lb"/><div n="1">(1) {#कठिनीभवति;#} </div><div n="1">(2) {#कठिनः#} ({#ना, नं#}) {#भवति।#}</div>
+{@HARDEN:@}¦ <div n="I">I Trans: </div><div n="1">(1) {#कठिनीकरोति,#} Ki. i.
+36.; </div><div n="1">(2) {#कठिनं#} (f. {#नां#}) {#करोति।#} </div><div n="I">II Intrans:</div>
+<div n="1">(1) {#कठिनीभवति;#} </div><div n="1">(2) {#कठिनः#} ({#ना, नं#}) {#भवति।#}</div>
 <LEND>

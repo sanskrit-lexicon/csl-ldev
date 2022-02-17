@@ -1,7 +1,7 @@
 <L>53320<pc>5-0131<k1>ब्रह्मचारिन्<k2>ब्रह्मचारि/न्
-{#ब्रह्मचारि/न्#}¦ {#(ब्रह्मन् + चा°)#} 
+{#ब्रह्मचारि/न्#}¦ ({#ब्रह्मन् + चा°#}) 
 <div n="1"> 1) <lex>adj.</lex> {%die heilige Wissenschaft studirend, Brahmanenschüler%} 
-<ls>?(AK. 2, 7, 3. 42. TRIK. 2, 7, 1. H. 807. fg. HALĀY. 2, 238. fg.</ls>); im Besonderen {%Enthaltsamkeit —, Keuschheit übend%} 
+(<ls>AK. 2, 7, 3. 42.</ls> <ls>TRIK. 2, 7, 1.</ls> <ls>H. 807. fg.</ls> <ls>HALĀY. 2, 238. fg.</ls>); im Besonderen {%Enthaltsamkeit —, Keuschheit übend%} 
 <ls>ṚV. 10, 109, 5.</ls> 
 <ls>AV. 6, 108, 2. 133, 3. 11, 5, 1. fgg.</ls> 
 <ls>ĀŚV. GṚHY. 1, 20, 7. 21, 2.</ls> 
@@ -35,10 +35,10 @@
 <ls>ŚIV.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#°चारिणी#} 
 <div n="2"> a) Bein. der <is>Durgā</is> 
-<ls>H. ś. 53.</ls> <ls>Verz. d. Oxf. H. 110,b</ls> <ls>?(No. 174). DEVĪ-P. 45</ls> im <ls>ŚKDR.</ls> 
+<ls>H. ś. 53.</ls> <ls>Verz. d. Oxf. H. 110,b</ls> (<ls>No. 174).</ls> <ls>DEVĪ-P. 45</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) N. verschiedener Pflanzen: {%Clerodendrum Siphonanthus R. Br.%} 
 <ls>RATNAM. 37.</ls> = {#करुणी#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> {%Thespesia populnea Corr.%} 
-<ls>NIGH. PR. -</ls> <ls>SUŚR. 1, 71, 16.</ls> 
+<ls>NIGH. PR.</ls> - <ls>SUŚR. 1, 71, 16.</ls> 
 <div n="v">— Vgl. {#स°#} .
 <LEND>

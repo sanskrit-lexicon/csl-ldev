@@ -1,4 +1,4 @@
 <L>510<pc>019<k1>air-shaft<k2>air-shaft
-<div n="lb"/>{@AIR-SHAFT:@}¦ (in mines): <div n="1">(1) {#वायुच्छिद्रम्;#} </div><div n="1">(2)
-<div n="lb"/>{#आलोकपथः#} (?).</div>
+{@AIR-SHAFT:@}¦ (in mines): <div n="1">(1) {#वायुच्छिद्रम्;#} </div><div n="1">(2)
+{#आलोकपथः#} (?).</div>
 <LEND>

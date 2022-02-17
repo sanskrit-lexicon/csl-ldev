@@ -1,7 +1,7 @@
 <L>8034<pc>254<k1>excuse<k2>excuse
-<div n="lb"/>{@EXCUSE@}¦ (subs.): <div n="I">I Release: {#मोचनम्।#} </div><div n="I">II For-
-<div n="lb"/>-giving: {#मर्षणम्,#} <div n="xe">{%“in e. for it”:%}</div> <div n="xs">{#तन्मर्षणाय।#}</div> </div><div n="I">III
-<div n="lb"/>Plea, apology: {#उत्तरम्#} (= reply). </div><div n="I">IV That
-<div n="lb"/>which e. s: expr. by verb: <div n="xe">{%“it hath the e. of%}
-<div n="lb"/>{%youth”:%}</div> <div n="xs">{#शैशवाद्धेतोरिदं मर्षयितव्यम्।#}</div></div>
+{@EXCUSE@}¦ (subs.): <div n="I">I Release: {#मोचनम्।#} </div><div n="I">II For-
+-giving: {#मर्षणम्,#} <div n="xe">{%“in e. for it”:%}</div> <div n="xs">{#तन्मर्षणाय।#}</div> </div><div n="I">III
+Plea, apology: {#उत्तरम्#} (= reply). </div><div n="I">IV That
+which e. s: expr. by verb: <div n="xe">{%“it hath the e. of%}
+{%youth”:%}</div> <div n="xs">{#शैशवाद्धेतोरिदं मर्षयितव्यम्।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>22498<pc>710<k1>three hundred<k2>three hundred
-<div n="lb"/>{@THREE HUNDRED:@}¦ {#त्रिशतम्,#} <div n="xe">{%T. th:%}</div> <div n="xs">{#त्रिशतः#}</div> ({#ती, #}
-<div n="lb"/>{# तं#}) <div n="xe">{%or%}</div> <div n="xs">{#त्रिशततमः#}</div> ({#मी, मं#}).
+{@THREE HUNDRED:@}¦ {#त्रिशतम्,#} <div n="xe">{%T. th:%}</div> <div n="xs">{#त्रिशतः#}</div> ({#ती, #}
+{# तं#}) <div n="xe">{%or%}</div> <div n="xs">{#त्रिशततमः#}</div> ({#मी, मं#}).
 <LEND>

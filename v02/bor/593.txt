@@ -1,5 +1,5 @@
 <L>593<pc>022<k1>allotment<k2>allotment
-<div n="lb"/>{@ALLOTMENT:@}¦ <div n="I">I The act of allotting: </div><div n="1">(1)
-<div n="lb"/>{#विमागः;#} </div><div n="1">(2) {#विमजनम्।#} </div><div n="I">II That which is
-<div n="lb"/>allotted: {#अंशः#} v. Share.</div>
+{@ALLOTMENT:@}¦ <div n="I">I The act of allotting: </div><div n="1">(1)
+{#विमागः;#} </div><div n="1">(2) {#विमजनम्।#} </div><div n="I">II That which is
+allotted: {#अंशः#} v. Share.</div>
 <LEND>

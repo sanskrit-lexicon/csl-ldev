@@ -1,6 +1,6 @@
 <L>22683<pc>716<k1>torment<k2>torment
-<div n="lb"/>{@TORMENT@}¦ (v.): <div n="1">(1) {#खलीकरोति,#} <div n="xe">{%this man is t.ed%}
-<div n="lb"/>{%by the head gambler:%}</div> <div n="xs">{#अयं सभिकेन खलीक्रियते,#}</div>
-<div n="lb"/>Mr. ii.; </div><div n="1">(2) {#बाधते:#} v. To vex, trouble,
-<div n="lb"/>pain.</div>
+{@TORMENT@}¦ (v.): <div n="1">(1) {#खलीकरोति,#} <div n="xe">{%this man is t.ed%}
+{%by the head gambler:%}</div> <div n="xs">{#अयं सभिकेन खलीक्रियते,#}</div>
+Mr. ii.; </div><div n="1">(2) {#बाधते:#} v. To vex, trouble,
+pain.</div>
 <LEND>

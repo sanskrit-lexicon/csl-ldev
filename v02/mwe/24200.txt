@@ -1,29 +1,29 @@
 <L>24200<pc>648-b<k1>quarter<k2>quarter
-<div n="lb"/>QUARTER¦, {%s.%} (Fourth part) {#पादः, चतुर्थांशः, चतुर्थभागः, तुरीयभागः,#}
-<div n="lb"/>{#तुरीयांशः, तुरीयः, चतुर्भागः, पादिकः, पादिनः, अर्द्धार्द्धः, टः;#} ‘three
-<div n="lb"/>quarters, or a whole minus a quarter,’ {#पादोनः -ना -नं#}. — 
-<div n="lb"/>(Region or quarter of the sky) {#दिक्#} {%f.%} {#(श्), दिशा, दिशाः#} {%f.%}
-<div n="lb"/>{#(स्), आशा, काष्ठा, ककुभ्#} {%f.,%} {#हरित्#} {%f.,%} {#दिग्विभागः, सनिः -नी#} {%m. f.,%}
-<div n="lb"/>{#विदेशिनी;#} the four quarters are, East {#प्राची, पूर्व्वदिक्#} {%f.,%} {#पूर्व्व-#}
-<div n="lb"/>{#काष्ठा,#} South {#अवाची, दक्षिणा, दक्षिणाशा,#} West {#प्रतीची, पश्चिमाशा,#}
-<div n="lb"/>{#पश्चिमकाष्ठा,#} North {#उदीची, उत्तरा, उत्तराशा;#} ‘intermediate
-<div n="lb"/>quarter or point,’ {#विदिक्#} {%f.%} {#(श्), प्रदिक्, अपदिशं;#} these are
-<div n="lb"/>‘South-east,’ {#दक्षिणपूर्व्वा;#} ‘South-west,’ {#नैरृतिः#} {%f.,%} {#दक्षिणपश्चिमा;#}
-<div n="lb"/>‘North-west,’ {#वायवी, पश्चादुत्तरा, पश्चादुदीची, उत्तरपश्चिमा;#} ‘North-
-<div n="lb"/>east,’ {#प्रागुत्तरा, प्रागुदीची, उत्तरपूर्व्वा;#} ‘Regent of a quarter,’
-<div n="lb"/>{#दिक्पालः, लोकपालः;#} ‘the eight regents,’ {#अष्टदिक्पालाः#} {%m. pl.,%}
-<div n="lb"/>{%see%} REGENT; ‘quarter of the wind,’ {#वायवी;#} ‘from every
-<div n="lb"/>quarter.’ {#चतुर्दिग्भ्यः;#} ‘in every quarter,’ {#चतुर्दिक्षु;#} ‘from
-<div n="lb"/>various quarters,’ {#नानादिग्भ्यः#} — (Region, in general) {#देशः,#}
-<div n="lb"/>{#प्रदेशः, उद्देशः, अपदशः,#} ‘from various quarters,’ {#नानादेशेभ्यः,#}
-<div n="lb"/>{#नानादिग्देशेभ्यः#}. — (Quarters, lodgings) {#वासस्थानं, आवामस्थानं।#}
-<div n="lb"/>[Page649-a+ 51]
-<div n="lb"/>{#वसतिस्थानं, वस्तिः#} {%f.,%} {#निवसतिः#} {%f.,%} {#निकेतनं;#} ‘of an army,’ {#सैन्य-#}
-<div n="lb"/>{#निवेशः -शनं, सैन्यनिकेतः -तनं, बलस्थितिः#} {%f.,%} {#सैन्यस्थितिः#} {%f.,%} {#कटकः;#}
-<div n="lb"/>‘head-quarters,’ {#सेनापतिनिकेतः -तनं#}. — (Indulgence shewn
-<div n="lb"/>in battle) {#जीवदानं, प्राणदानं, दया, क्षमा, कृपा, धर्म्मः;#} ‘quarter
-<div n="lb"/>shall be given to him,’ {#तस्य दया#} or {#धर्म्मो भविष्य्यति;#} ‘quarter!’
-<div n="lb"/>{#दयस्व, क्षमस्व, क्षम्यतां#}. — (Quarter of a year) {#वत्सरपादः, मासत्रयं,#}
-<div n="lb"/>{#त्रिमासं#}. — (Close quarters) {#बाहुबाहवि, हस्ताहस्ति;#} ‘to come to
-<div n="lb"/>close quarters in battle,’ {#बाहुयुद्धं कृ#}.
+QUARTER¦, {%s.%} (Fourth part) {#पादः, चतुर्थांशः, चतुर्थभागः, तुरीयभागः,#}
+{#तुरीयांशः, तुरीयः, चतुर्भागः, पादिकः, पादिनः, अर्द्धार्द्धः, टः;#} ‘three
+quarters, or a whole minus a quarter,’ {#पादोनः -ना -नं#}. — 
+(Region or quarter of the sky) {#दिक्#} {%f.%} {#(श्), दिशा, दिशाः#} {%f.%}
+{#(स्), आशा, काष्ठा, ककुभ्#} {%f.,%} {#हरित्#} {%f.,%} {#दिग्विभागः, सनिः -नी#} {%m. f.,%}
+{#विदेशिनी;#} the four quarters are, East {#प्राची, पूर्व्वदिक्#} {%f.,%} {#पूर्व्व-#}
+{#काष्ठा,#} South {#अवाची, दक्षिणा, दक्षिणाशा,#} West {#प्रतीची, पश्चिमाशा,#}
+{#पश्चिमकाष्ठा,#} North {#उदीची, उत्तरा, उत्तराशा;#} ‘intermediate
+quarter or point,’ {#विदिक्#} {%f.%} {#(श्), प्रदिक्, अपदिशं;#} these are
+‘South-east,’ {#दक्षिणपूर्व्वा;#} ‘South-west,’ {#नैरृतिः#} {%f.,%} {#दक्षिणपश्चिमा;#}
+‘North-west,’ {#वायवी, पश्चादुत्तरा, पश्चादुदीची, उत्तरपश्चिमा;#} ‘North-
+east,’ {#प्रागुत्तरा, प्रागुदीची, उत्तरपूर्व्वा;#} ‘Regent of a quarter,’
+{#दिक्पालः, लोकपालः;#} ‘the eight regents,’ {#अष्टदिक्पालाः#} {%m. pl.,%}
+{%see%} REGENT; ‘quarter of the wind,’ {#वायवी;#} ‘from every
+quarter.’ {#चतुर्दिग्भ्यः;#} ‘in every quarter,’ {#चतुर्दिक्षु;#} ‘from
+various quarters,’ {#नानादिग्भ्यः#} — (Region, in general) {#देशः,#}
+{#प्रदेशः, उद्देशः, अपदशः,#} ‘from various quarters,’ {#नानादेशेभ्यः,#}
+{#नानादिग्देशेभ्यः#}. — (Quarters, lodgings) {#वासस्थानं, आवामस्थानं।#}
+[Page649-a+ 51]
+{#वसतिस्थानं, वस्तिः#} {%f.,%} {#निवसतिः#} {%f.,%} {#निकेतनं;#} ‘of an army,’ {#सैन्य-#}
+{#निवेशः -शनं, सैन्यनिकेतः -तनं, बलस्थितिः#} {%f.,%} {#सैन्यस्थितिः#} {%f.,%} {#कटकः;#}
+‘head-quarters,’ {#सेनापतिनिकेतः -तनं#}. — (Indulgence shewn
+in battle) {#जीवदानं, प्राणदानं, दया, क्षमा, कृपा, धर्म्मः;#} ‘quarter
+shall be given to him,’ {#तस्य दया#} or {#धर्म्मो भविष्य्यति;#} ‘quarter!’
+{#दयस्व, क्षमस्व, क्षम्यतां#}. — (Quarter of a year) {#वत्सरपादः, मासत्रयं,#}
+{#त्रिमासं#}. — (Close quarters) {#बाहुबाहवि, हस्ताहस्ति;#} ‘to come to
+close quarters in battle,’ {#बाहुयुद्धं कृ#}.
 <LEND>

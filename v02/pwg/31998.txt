@@ -6,7 +6,7 @@
 <div n="2"> a) {%Elephant%} 
 <ls>AK. 2, 8, 2, 2.</ls> 
 <ls>H. 1217.</ls> 
-<ls>MBH. 1, 288. 3, 12587. 4, 2096.</ls> 
+<ls>MBH. 1, 288.</ls> <ls n="MBH.">3, 12587.</ls> <ls n="MBH.">4, 2096.</ls> 
 <ls>N. 26. 2.</ls> 
 <ls>RAGH. 1, 71.</ls> 
 <ls>HIT. I, 30.</ls> <ls>KATHĀS. 13, 7. 20, 79.</ls> <ls>PRAB. 35, 3.</ls> {#दन्तिस्थ#} 

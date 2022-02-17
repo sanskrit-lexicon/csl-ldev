@@ -1,9 +1,9 @@
 <L>17234<pc>604,2<k1>सूत्र<k2>सूत्र
 {@sūtra@}¦, nt. (also {@sūtrānta@}, q.v.), ({@1@}) (= Pali sutta)
-<div n="lb">{%discourse%}, as a type of Buddhist sacred text ({@pravacana@}),
-<div n="lb">one of twelve, Mvy 1267, or nine, Dharmas 62; ({@2@}) also
-<div n="lb">= {@sūtra-piṭaka@}, q.v. (= Pali sutta-piṭaka), {%the (collection%}
-<div n="lb">{%of) discourses%}, one of the three grand divisions of the
-<div n="lb">Buddhist canon: Mvy 1412; Divy 333.7; sūtravinayābhi-
-<div n="lb">dharmeṇa Laṅk 290.8.
+{%discourse%}, as a type of Buddhist sacred text ({@pravacana@}),
+one of twelve, Mvy 1267, or nine, Dharmas 62; ({@2@}) also
+= {@sūtra-piṭaka@}, q.v. (= Pali sutta-piṭaka), {%the (collection%}
+{%of) discourses%}, one of the three grand divisions of the
+Buddhist canon: Mvy 1412; Divy 333.7; sūtravinayābhi-
+dharmeṇa Laṅk 290.8.
 <LEND>

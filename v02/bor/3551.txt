@@ -1,6 +1,6 @@
 <L>3551<pc>118<k1>chide<k2>chide
-<div n="lb"/>{@CHIDE:@}¦ <div n="I">I To reprove, scold: q. v.: {#भर्त्सयति, #}
-<div n="lb"/>{# निर्-,#} ({#भर्त्स्,#} c. 10.), {%but she chid her and rejected%}
-<div n="lb"/>({%her proposal%}): {#सा चैनां निर्भर्त्सयन्ती प्रत्याचचक्षे।#}</div>
-<div n="lb"/><div n="I">II To roar: q. v.: {#रसति#} ({#रस्,#} c. l.).</div>
+{@CHIDE:@}¦ <div n="I">I To reprove, scold: q. v.: {#भर्त्सयति, #}
+{# निर्-,#} ({#भर्त्स्,#} c. 10.), {%but she chid her and rejected%}
+({%her proposal%}): {#सा चैनां निर्भर्त्सयन्ती प्रत्याचचक्षे।#}</div>
+<div n="I">II To roar: q. v.: {#रसति#} ({#रस्,#} c. l.).</div>
 <LEND>

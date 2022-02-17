@@ -1,4 +1,4 @@
 <L>16421<pc>503<k1>parental<k2>parental
-<div n="lb"/>{@PARENTAL:@}¦ <div n="1">(1) {#पितृमातृ-#} in comp.; </div><div n="1">(2) {#पैतृकः#}
-<div n="lb"/>({#की, कं#}), Da. 54. Ph.: <div n="xe">{%p. affection:%}</div> <div n="xs">{#वात्सल्यम्।#}</div></div>
+{@PARENTAL:@}¦ <div n="1">(1) {#पितृमातृ-#} in comp.; </div><div n="1">(2) {#पैतृकः#}
+({#की, कं#}), Da. 54. Ph.: <div n="xe">{%p. affection:%}</div> <div n="xs">{#वात्सल्यम्।#}</div></div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>2600<pc>088<k1>bright<k2>bright
-<div n="lb"/>{@BRIGHT:@}¦ <div n="I">I Shining, lustrous: </div><div n="1">(1) {#उज्ज्वलः#} ({#ला, #}
-<div n="lb"/>{# लं#}); </div><div n="1">(2) {#भासुरः#} ({#रा, रं#}); </div><div n="1">(3) {#दीप्रः#} ({#प्रा, प्रं#}); </div><div n="1">(4)
-<div n="lb"/>{#द्योतनः#} ({#ना, नं#}); </div><div n="1">(5) {#रोचिष्णु#} (mfn.). </div><div n="I">II Clear,
-<div n="lb"/>transparent: q. v.: {#उज्ज्वलः#} ({#ला, लं#}). </div><div n="I">III
-<div n="lb"/>Sparkling with wit, clever: Perh. {#उज्ज्वल#}
-<div n="lb"/>({#ला, लं#}).</div>
+{@BRIGHT:@}¦ <div n="I">I Shining, lustrous: </div><div n="1">(1) {#उज्ज्वलः#} ({#ला, #}
+{# लं#}); </div><div n="1">(2) {#भासुरः#} ({#रा, रं#}); </div><div n="1">(3) {#दीप्रः#} ({#प्रा, प्रं#}); </div><div n="1">(4)
+{#द्योतनः#} ({#ना, नं#}); </div><div n="1">(5) {#रोचिष्णु#} (mfn.). </div><div n="I">II Clear,
+transparent: q. v.: {#उज्ज्वलः#} ({#ला, लं#}). </div><div n="I">III
+Sparkling with wit, clever: Perh. {#उज्ज्वल#}
+({#ला, लं#}).</div>
 <LEND>

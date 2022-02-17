@@ -1,9 +1,9 @@
 <L>21078<pc>664<k1>space<k2>space
-<div n="lb"/>{@SPACE:@}¦ <div n="1">(1) {#आकाशम्,#} <div n="xe">{%s. is distinguished by egress%}
-<div n="lb"/>{%and ingress:%}</div> <div n="xs">{#निष्क्रामणं प्रवेशनमित्याकाशस्य लिङ्गम्,#}</div> V.
-<div n="lb"/>ii. 1. 20.: v. Sky; </div><div n="1">(2) {#दिश्#} (f=relative s.):
-<div n="lb"/>v. Quarter. </div><div n="I">II Interval: q. v.: {#अन्तरम्।#}</div>
-<div n="lb"/><div n="I">III Room: </div><div n="1">(1) {#अवकाशः,#} <div n="xe">{%to give s.:%}</div> <div n="xs">{#अवकाशं #}
-<div n="lb"/>{# ददाति,#}</div> R.; </div><div n="1">(2) {#स्थानम्:#} v. Place. </div><div n="I">IV Of
-<div n="lb"/>time: not expr., <div n="xe">{%what s. of time:%}</div> <div n="xs">{#कियत्कालम्।#}</div></div>
+{@SPACE:@}¦ <div n="1">(1) {#आकाशम्,#} <div n="xe">{%s. is distinguished by egress%}
+{%and ingress:%}</div> <div n="xs">{#निष्क्रामणं प्रवेशनमित्याकाशस्य लिङ्गम्,#}</div> V.
+ii. 1. 20.: v. Sky; </div><div n="1">(2) {#दिश्#} (f=relative s.):
+v. Quarter. </div><div n="I">II Interval: q. v.: {#अन्तरम्।#}</div>
+<div n="I">III Room: </div><div n="1">(1) {#अवकाशः,#} <div n="xe">{%to give s.:%}</div> <div n="xs">{#अवकाशं #}
+{# ददाति,#}</div> R.; </div><div n="1">(2) {#स्थानम्:#} v. Place. </div><div n="I">IV Of
+time: not expr., <div n="xe">{%what s. of time:%}</div> <div n="xs">{#कियत्कालम्।#}</div></div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>9290<pc>119-3<k1>दिन<k2>दिन<h>2
 {#दिन#}¦dína, {%n.%} day: {@-kara,@} {%m.%} (day-making), 
-<>sun; {%N.%}; {@-kartavya,@} {%n.%} daily observance; 
-<>{@-kartṛ@}, {%m.%} (day-maker), sun; {@-kārya,@} {%n.%} 
-<>daily observance; {@-kṛt@}, {%m.%} sun; {@-kṛtya@}, {%n.%} 
-<>= -kārya; {@-kṣaya,@} {%m.%} decline of day, evening; <lbinfo n="4"/>
-<> {@-naktam,@} {%ad.%} day and night; {@-nātha,@} 
-<>{%m.%} (lord of day), sun; {@-pati,@} {%m. id.%}; {@-bhartṛ@}, 
-<>{%m. id.%}; {@-maṇi@}, {%m. id.%} (gem of day); {@-mukha,@} 
-<>{%n.%} day-break.
+sun; {%N.%}; {@-kartavya,@} {%n.%} daily observance; 
+{@-kartṛ@}, {%m.%} (day-maker), sun; {@-kārya,@} {%n.%} 
+daily observance; {@-kṛt@}, {%m.%} sun; {@-kṛtya@}, {%n.%} 
+= -kārya; {@-kṣaya,@} {%m.%} decline of day, evening; <lbinfo n="4"/>
+ {@-naktam,@} {%ad.%} day and night; {@-nātha,@} 
+{%m.%} (lord of day), sun; {@-pati,@} {%m. id.%}; {@-bhartṛ@}, 
+{%m. id.%}; {@-maṇi@}, {%m. id.%} (gem of day); {@-mukha,@} 
+{%n.%} day-break.
 <LEND>

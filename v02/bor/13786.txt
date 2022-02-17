@@ -1,8 +1,8 @@
 <L>13786<pc>424<k1>look<k2>look
-<div n="lb"/>{@LOOK@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#विलोकनम्, अव-,#} {%even%}
-<div n="lb"/>{%by%} ({%your%}) <div n="xe">{%l.:%}</div> <div n="xs">{#विलोकनेनैव,#}</div> Si.; </div><div n="1">(2) {#दृष्टिः#} <div n="xe">{%or%}</div> <div n="xs">{#दर्शनम्,#}</div>
-<div n="lb"/><div n="xe">{%with a favourable and pleasant l.:%}</div> <div n="xs">{#दृष्ट्या प्रसादामलया,#}</div>
-<div n="lb"/>R. II. Expression of countenance, aspect:
-<div n="lb"/>{#दर्शनम्,#} <div n="xe">{%oh, how sweet is their l.:%}</div> <div n="xs">{#अहो मघुरमासां #}
-<div n="lb"/>{# दर्शनम्,#}</div> Sa. i.</div>
+{@LOOK@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#विलोकनम्, अव-,#} {%even%}
+{%by%} ({%your%}) <div n="xe">{%l.:%}</div> <div n="xs">{#विलोकनेनैव,#}</div> Si.; </div><div n="1">(2) {#दृष्टिः#} <div n="xe">{%or%}</div> <div n="xs">{#दर्शनम्,#}</div>
+<div n="xe">{%with a favourable and pleasant l.:%}</div> <div n="xs">{#दृष्ट्या प्रसादामलया,#}</div>
+R. II. Expression of countenance, aspect:
+{#दर्शनम्,#} <div n="xe">{%oh, how sweet is their l.:%}</div> <div n="xs">{#अहो मघुरमासां #}
+{# दर्शनम्,#}</div> Sa. i.</div>
 <LEND>

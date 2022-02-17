@@ -29,7 +29,7 @@
 <ls>P. 3, 1, 107. 2, 45. 3, 18.</ls> 
 <ls>VOP. 26, 1.</ls> 
 <ls>AK. 3, 6, 2, 15.</ls> das Nomen abstractum 
-<ls>P. 5, 1, 119. 4, 4, 144.</ls> = {#शब्दप्रवृत्तिहेतु#} H. an. ein angefügtes {#भाव#} bildet Nomina abstracta und ist oft ganz gleichbedeutend mit den Suffixen {#त्व#} und {#ता#} . z. B. {#व्रात्य°#} 
+<ls>P. 5, 1, 119. 4, 4, 144.</ls> = {#शब्दप्रवृत्तिहेतु#} <ls>H. an.</ls> ein angefügtes {#भाव#} bildet Nomina abstracta und ist oft ganz gleichbedeutend mit den Suffixen {#त्व#} und {#ता#} . z. B. {#व्रात्य°#} 
 <ls>KĀTY. ŚR. 22, 4, 27.</ls> {#शेष°#} 
 <ls>1, 6, 5.</ls> {#समानोदक°#} 
 <ls>M. 5, 60.</ls> {#वैश्य°#} 
@@ -58,7 +58,7 @@ n. <ls>R. 1, 34, 15.</ls>
 <ls>VIKR. 102.</ls> {#भावोन्नता#} 
 <ls>SĀH. D. 41, 18.</ls> 
 <ls>Spr. 3319.</ls> {#सा च तं कामजैर्भावैः - रमयामास#} 
-<ls>BRAHMA-P.</ls> in <ls>LA. (II) 54, 13.</ls> 
+<ls>BRAHMA-P. in LA. (II) 54, 13.</ls> 
 <div n="1">— 3) {%Zustand, Lage. Verhältniss%}: {#कस्यचिद्भावस्याचिख्यासा, परिदेवना कस्माच्चिद्भावात्#} 
 <ls>NIR. 7, 3.</ls> {#भावो यो ऽयमनुप्राप्तो भवितव्यमिदं मम#} 
 <ls>MBH. 12, 8199.</ls> {#त्वामप्येतादृशो भावः क्षिप्रमेव गमिष्यति#} 
@@ -69,9 +69,9 @@ n. <ls>R. 1, 34, 15.</ls>
 <ls>SUŚR. 2, 87, 9.</ls> {#श्रेष्ठं द्रव्यमतो ज्ञेयं शेषा#} (d. i. {#गुण, रस, वीर्य) भावास्तदाश्रयाः#} 
 <ls>SUŚR. 1, 150, 14.</ls> {#धर्म, ज्ञान, वैराग्य#} und {#ऐश्वर्य#} so genannt 
 <ls>SĀṂKHYAK. 40. 43. 52.</ls> {#द्रव्य, गुण, कर्मन्#}.{# सामान्य#}.{# विशेष, समवाय#} 
-<ls>Verz. d. Oxf. H. 259,a,24.</ls> <ls>COLEBR. Misc. Ess.</ls> <ls>?I,264</ls>; vgl. {#पदार्थ, अहिंसा समता तुष्टिस्तपो दानं यशो ऽयशः । भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ॥#} 
+<ls>Verz. d. Oxf. H. 259,a,24.</ls> <ls>COLEBR. Misc. Ess. I,264</ls>; vgl. {#पदार्थ, अहिंसा समता तुष्टिस्तपो दानं यशो ऽयशः । भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ॥#} 
 <ls>BHAG. 10, 5.</ls> {#तत्त्वभावभूतानि#} {%the conditions of intellect%} 
-<ls>?(BALL.) TATTVAS. 41.</ls> Oft lässt sich das Wort durch {%Weise%} übersetzen: {#अथ भावान्प्रवक्ष्यामः प्रगाणं यैर्विधीयते#} 
+(<ls>BALL.</ls>) <ls>TATTVAS. 41.</ls> Oft lässt sich das Wort durch {%Weise%} übersetzen: {#अथ भावान्प्रवक्ष्यामः प्रगाणं यैर्विधीयते#} 
 <ls>Ind. St. 1, 47, 15. fgg.</ls> {#चत्वारिंशत्#} 
 <ls>PAÑCAT. V, 44.</ls> In der Astr. {%der Zustand, das Verhältniss. in dem sich ein Planet befindet%}; es werden deren zwölf angenommen: {#गमनं चापवेशश्च नेत्रपाणिः प्रकाशनम् । गमनं गमनेच्छा च सभायां वसतिस्तथा ॥ आगमनं भोजनं च नृत्यलिप्सा च कौतुकम् । निद्रा ग्रहाणां भावाश्च द्वादशैते प्रकीर्तिताः ॥#} 
 <ls>ŚKDR.</ls> nach dem <ls>JĀTARATNA</ls> und <ls>KOṢṬHĪPRADĪPA</ls>. 
@@ -84,8 +84,8 @@ Lesart müsste man die Bedeutung {%Fähigkeit%} annehmen.
 <ls>BHAG. 9, 11.</ls> 
 <ls>Spr. 2443</ls> (vgl. 
 <ls>HARIV. 8332. fg.</ls>). 
-<ls>4045</ls> (zugleich {%Sinn).%} 
-<ls>4672. 5009.</ls> {#स्वयोनिं मानयत्येष भावो भावं निगच्छति#} (so ist st. {#नियछनि#} zu lesen; die Scholien: {#भावः स्वजातिभावः भावं बुद्धिं नियच्छति मार्गान्तरादपकर्षति)#} so v. a. {%Gleiches gesellt sich zu Gleichem%} 
+<ls n="HARIV.">4045</ls> (zugleich {%Sinn).%} 
+<ls n="HARIV.">4672.</ls> <ls n="HARIV.">5009.</ls> {#स्वयोनिं मानयत्येष भावो भावं निगच्छति#} (so ist st. {#नियछनि#} zu lesen; die Scholien: {#भावः स्वजातिभावः भावं बुद्धिं नियच्छति मार्गान्तरादपकर्षति)#} so v. a. {%Gleiches gesellt sich zu Gleichem%} 
 <ls>MBH. 13, 1878.</ls> {#एक°#} {%Einfalt, schlichtes Wesen%} 
 <ls>Spr. 3304.</ls> {#एको भावः#} 
 dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भावः#} 
@@ -94,15 +94,15 @@ dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भाव
 <ls>AK.</ls> <ls>H. 1383.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY.</ls> {#हर्ष, क्रोध, भय#} sind {#भावाः#} Cit. beim 
 <ls>Schol.</ls> zu <ls>ŚĀK. 13, 12.</ls> <ls>R. 2, 22, 16.</ls> {#वाह्यैर्विर्भावयेल्लिङ्गैर्भावमन्तर्गतं नृणाम्#} 
 <ls>M. 8, 25.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 1, 23. 6, 100, 1.</ls> 
+
+<ls>R. GORR. 2, 1, 23. 6, 100, 1.</ls> 
 <ls>RAGH. 2, 26. 43.</ls> {#भावं स्वं रक्षेद्विद्यात्परस्य च#} 
 <ls>KĀM. NĪTIS. 12, 15.</ls> <ls>RĀJA-TAR. 3, 274. 4, 409. 5, 262.</ls> {#तद्भावभाविता#} und {#तद्भावभावित्व#} {%das Sichrichten nach Jmdes Denkweise%} 
 <ls>KĀM. NĪTIS. 11, 29. 18, 3.</ls> {#यादृशेन तु भावेन यद्यत्कर्म निषेवते#} {%mit welcher Gesinnung%} 
 <ls>M. 12, 81.</ls> 
 <ls>BHĀG. P. 6, 18, 26.</ls> {#नहि मे शुध्यते भावः कदाचिद्विनशेदपि#} so v. a. {%ich komme mit mir nicht in's Klare%} 
 <ls>N. 8, 18.</ls> {#मुह्यते खलु मे भावः स्वप्नो ऽयमिति मे मतिः#} 
-<ls>R. 2, 88, 5 (96, 12 GORR.).</ls> {#विदितस्ते मया भावः#} (=  {#मनोरथः#} Schol.) so v. a. {%deine Gedanken%} 
+<ls>R. 2, 88, 5 (96, 12 GORR.).</ls> {#विदितस्ते मया भावः#} (= {#मनोरथः#} Schol.) so v. a. {%deine Gedanken%} 
 <ls>SŪRYAS. 1, 5.</ls> {#तस्माद्भावं दृढं कृत्वा#} so v. a. {%einen festen Beschluss fassen%} 
 <ls>Spr. 1597.</ls> {#निराकृतनिमेषाभिर्नेत्रपङ्क्तिभिरुन्मुखः नवामिन्दुकलां लोकः केन भावेन पश्यति#} {%mit welchem Gefühle%} ad 
 <ls>ŚĀK. 25, 7.</ls> {#येन येन तु भावेन यद्यद्दानं प्रयच्छति । तत्तत्तेनैव भावेन प्राप्नोति प्रतिपूजितः ॥#} 
@@ -114,7 +114,7 @@ dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भाव
 <ls>MBH. 3, 2347.</ls> 
 <ls>R. 1, 22, 14. 66, 19. 3, 49, 56.</ls> {#सु°#} 
 <ls>R. GORR. 2, 10, 28.</ls> {#दुष्टभावता#} 
-<ls>R.</ls> <ls>SCHL. 1, 3, 11.</ls> {#विप्रदुष्ट°#} 
+<ls>R. SCHL. 1, 3, 11.</ls> {#विप्रदुष्ट°#} 
 <ls>M. 2, 97.</ls> {#पापाभिजनभावा#} 
 <ls>R. 2, 59, 20.</ls> {#शुद्ध°#} {%eine reine Gesinnung habend%} 
 <ls>MBH. 15, 748.</ls> {#विशुद्ध°#} 
@@ -125,7 +125,7 @@ dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भाव
 <ls>SĀH. D. 51, 3. 7, 1. 7. 50, 12. 19. 51, 10.</ls> {#रसाभिज्ञानयोग्यत्वं भाव इत्यभिधीयते#} 
 <ls>PRATĀPAR. 55,a,5.</ls> {#स्थायिन्, संचारिन्, मात्त्विक#} 
 <ls>SĀH. D. 76, 12.</ls> {#रत्यादिः स्थायी भावः#} 
-<ls>?22, 12. Verz. d. B. H. No. 824. H. 295.</ls> {#शृङ्गार°#} 
+<ls>22, 12.</ls> <ls>Verz. d. B. H. No. 824. H. 295.</ls> {#शृङ्गार°#} 
 <ls>AK. 1, 1, 7, 32.</ls> {#हावभावविलासाढ्यान्कुर्वन्तो ऽभिनपान्#} 
 <ls>MĀRK. P. 106, 60.</ls> {#भावहावहेलास्त्रयो ऽङ्गजाः (अलंकाराः)#} 
 <ls>H. 509.</ls> = {#विकारो मानसः#} 
@@ -155,7 +155,7 @@ dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भाव
 <ls>MĀLAV. 38.</ls> {#°स्थ#} {%verliebt%} 
 <ls>KUMĀRAS. 5, 58.</ls> 
 <ls>BHĀG. P. 9, 14, 23.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (II) 57, 10.</ls> {#कमपरमवशं न विप्रकुर्युर्विभुमपि तं यदमी स्पृशन्ति भावाः#} 
+<ls>BRAHMA-P. in LA. (II) 57, 10.</ls> {#कमपरमवशं न विप्रकुर्युर्विभुमपि तं यदमी स्पृशन्ति भावाः#} 
 <ls>KUMĀRAS. 6, 95.</ls> {#सर्वभावैरनाश्रित्य पुराणं पुरुषोत्तमम्#} 
 <ls>PAÑCAR. 4, 2, 20.</ls> <ls>DHŪRTAS.</ls> in <ls>LA. 73, 15.</ls> {#अनन्यभावा#} 
 <ls>R. 2, 27, 22.</ls> {#परभावा#} 

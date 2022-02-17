@@ -1,17 +1,17 @@
 <L>6061<pc>195<k1>devoid of<k2>devoid of
-<div n="lb"/>{@DEVOID OF:@}¦ <div n="1">(1) {#हीनः#} ({#ना, नं#}), {#वि-, परि-,#} <div n="xe">{%d. of%}
-<div n="lb"/>{%spirits:%}</div> <div n="xs">{#तेजोविहीनः#}</div> ({#ना, नं#}), Ki; </div><div n="1">(2) {#रहितः#}
-<div n="lb"/>({#ता, तं#}), {#वि-,#} <div n="xe">{%d. of wealth:%}</div> <div n="xs">{#धनैर्विरहितः#}</div> ({#ता,#}),
-<div n="lb"/>Mr.; </div><div n="1">(3) {#शून्यः#} ({#न्या, न्यं#}), <div n="xe">{%d. of the power of%}
-<div n="lb"/>{%combustion:%}</div> <div n="xs">{#दाहशक्तिशून्यः#}</div> ({#न्या, न्यं#}), S. p. b.;</div>
-<div n="lb"/><div n="1">(4) {#वर्जितः#} ({#ता, तं#}), {#वि-, परि-,#} <div n="xe">{%d. of covetousness%}
-<div n="lb"/>{%and anger:%}</div> <div n="xs">{#लोभक्रोधविवर्जितः#}</div> ({#ता, तं#}), Mah.;</div>
-<div n="lb"/><div n="1">(5) {#वीत-, विगत-,#} etc. in comp. (=gone: of
-<div n="lb"/>what was once possessed), {%d. of care:%}
-<div n="lb"/>{#वीतचिन्तः#} ({#न्ता, न्तं#}), Sa.; </div><div n="1">(6) often by a neg.
-<div n="lb"/>comp., <div n="xe">{%d. of hands and feet:%}</div> <div n="xs">{#अपाणिपादः#}</div> ({#दा, दं#}),
-<div n="lb"/>S.; <div n="xe">{%d. of flies:%}</div> <div n="xs">{#निर्मक्षिकः#}</div> ({#का, कं#}), <ls>V.</ls> ; <div n="xe">{%d. of%}
-<div n="lb"/>{%clouds:%}</div> <div n="xs">{#व्यभ्रः#}</div> ({#भ्रा, भ्रं#}), V. p. N. B. </div><div n="1">(1) to </div><div n="1">(4)
-<div n="lb"/>are used as second member of a comp. or
-<div n="lb"/>with ins.</div>
+{@DEVOID OF:@}¦ <div n="1">(1) {#हीनः#} ({#ना, नं#}), {#वि-, परि-,#} <div n="xe">{%d. of%}
+{%spirits:%}</div> <div n="xs">{#तेजोविहीनः#}</div> ({#ना, नं#}), Ki; </div><div n="1">(2) {#रहितः#}
+({#ता, तं#}), {#वि-,#} <div n="xe">{%d. of wealth:%}</div> <div n="xs">{#धनैर्विरहितः#}</div> ({#ता,#}),
+Mr.; </div><div n="1">(3) {#शून्यः#} ({#न्या, न्यं#}), <div n="xe">{%d. of the power of%}
+{%combustion:%}</div> <div n="xs">{#दाहशक्तिशून्यः#}</div> ({#न्या, न्यं#}), S. p. b.;</div>
+<div n="1">(4) {#वर्जितः#} ({#ता, तं#}), {#वि-, परि-,#} <div n="xe">{%d. of covetousness%}
+{%and anger:%}</div> <div n="xs">{#लोभक्रोधविवर्जितः#}</div> ({#ता, तं#}), Mah.;</div>
+<div n="1">(5) {#वीत-, विगत-,#} etc. in comp. (=gone: of
+what was once possessed), {%d. of care:%}
+{#वीतचिन्तः#} ({#न्ता, न्तं#}), Sa.; </div><div n="1">(6) often by a neg.
+comp., <div n="xe">{%d. of hands and feet:%}</div> <div n="xs">{#अपाणिपादः#}</div> ({#दा, दं#}),
+S.; <div n="xe">{%d. of flies:%}</div> <div n="xs">{#निर्मक्षिकः#}</div> ({#का, कं#}), <ls>V.</ls> ; <div n="xe">{%d. of%}
+{%clouds:%}</div> <div n="xs">{#व्यभ्रः#}</div> ({#भ्रा, भ्रं#}), V. p. N. B. </div><div n="1">(1) to </div><div n="1">(4)
+are used as second member of a comp. or
+with ins.</div>
 <LEND>

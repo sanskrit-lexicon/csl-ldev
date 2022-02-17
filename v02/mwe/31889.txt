@@ -1,8 +1,8 @@
 <L>31889<pc>852-a<k1>arithmetic<k2>arithmetic
-<div n="lb"/>ARITHMETIC¦, {%s.%} {#व्यक्तं, व्यक्तगणितं, संख्याविद्या;#} ‘the eight rules of
-<div n="lb"/>arithmetic,’ {#परिकर्म्माष्टकं#}. These are, 1. Addition, {#सङ्कलनं;#}
-<div n="lb"/>2. Subtraction, {#व्यवकलनं;#} 3. Multiplication, {#गुणनं;#} 4. Divi-
-<div n="lb"/>sion, {#भजनं;#} 5. Raising to the square, {#वर्गः;#} 6. Extracting
-<div n="lb"/>the square-root, {#वर्गपदं;#} 7. Raising to the cube, {#घनः;#}
-<div n="lb"/>8. Extracting the cube-root, {#घनपदं#}.
+ARITHMETIC¦, {%s.%} {#व्यक्तं, व्यक्तगणितं, संख्याविद्या;#} ‘the eight rules of
+arithmetic,’ {#परिकर्म्माष्टकं#}. These are, 1. Addition, {#सङ्कलनं;#}
+2. Subtraction, {#व्यवकलनं;#} 3. Multiplication, {#गुणनं;#} 4. Divi-
+sion, {#भजनं;#} 5. Raising to the square, {#वर्गः;#} 6. Extracting
+the square-root, {#वर्गपदं;#} 7. Raising to the cube, {#घनः;#}
+8. Extracting the cube-root, {#घनपदं#}.
 <LEND>

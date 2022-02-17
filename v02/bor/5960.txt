@@ -1,9 +1,9 @@
 <L>5960<pc>191<k1>despatch<k2>despatch
-<div n="lb"/>{@DESPATCH@}¦ (v. t.): <div n="I">I To send, depute: q. v.:
-<div n="lb"/>{#प्रेरयति#} ({#ईर्,#} c. 10.). </div><div n="I">II To kill: q. v.:
-<div n="lb"/>({#शमनसदनं#}) {#प्रेरयति,#} ({%the son of Śiva%}) <div n="xe">{%having%}
-<div n="lb"/>{%thus d. ed the demon-king:%}</div> <div n="xs">{#इति#}</div> ({#हरतनयेन#})
-<div n="lb"/>{#प्रेरिते दानवेन्द्रे,#} Ku. xvii. 56. </div><div n="I">III To perform.
-<div n="lb"/>execute: q. v.: {#समादधाति#} <div n="xe">{%or%}</div> <div n="xs">{#त्वरितं समादधाति#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.).</div>
+{@DESPATCH@}¦ (v. t.): <div n="I">I To send, depute: q. v.:
+{#प्रेरयति#} ({#ईर्,#} c. 10.). </div><div n="I">II To kill: q. v.:
+({#शमनसदनं#}) {#प्रेरयति,#} ({%the son of Śiva%}) <div n="xe">{%having%}
+{%thus d. ed the demon-king:%}</div> <div n="xs">{#इति#}</div> ({#हरतनयेन#})
+{#प्रेरिते दानवेन्द्रे,#} Ku. xvii. 56. </div><div n="I">III To perform.
+execute: q. v.: {#समादधाति#} <div n="xe">{%or%}</div> <div n="xs">{#त्वरितं समादधाति#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.).</div>
 <LEND>

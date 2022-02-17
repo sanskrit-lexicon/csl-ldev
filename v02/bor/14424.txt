@@ -1,4 +1,4 @@
 <L>14424<pc>442<k1>melodiousness<k2>melodiousness
-<div n="lb"/>{@MELODIOUSNESS:@}¦ <div n="1">(1) {#मधुरता;#} </div><div n="1">(2) {#मञ्जुलता;#}</div>
-<div n="lb"/><div n="1">(3) {#सुस्वरता।#}</div>
+{@MELODIOUSNESS:@}¦ <div n="1">(1) {#मधुरता;#} </div><div n="1">(2) {#मञ्जुलता;#}</div>
+<div n="1">(3) {#सुस्वरता।#}</div>
 <LEND>

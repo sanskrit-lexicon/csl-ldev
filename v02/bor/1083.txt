@@ -1,6 +1,6 @@
 <L>1083<pc>038<k1>armistice<k2>armistice
-<div n="lb"/>{@ARMISTICE:@}¦ <div n="1">(1) {#अयुद्धम्;#} </div><div n="1">(2) {#युद्धविरतिः;#} and sim.
-<div n="lb"/>comp. s. Ph. <div n="xe">{%from filial affection, asked for%}
-<div n="lb"/>{%two day's a.%}</div> <div n="xs">{#ययाचे पुत्रवात्सल्यादयुद्धं दिवसद्वयम्;#}</div> Raj.
-<div n="lb"/>v. Truce.</div>
+{@ARMISTICE:@}¦ <div n="1">(1) {#अयुद्धम्;#} </div><div n="1">(2) {#युद्धविरतिः;#} and sim.
+comp. s. Ph. <div n="xe">{%from filial affection, asked for%}
+{%two day's a.%}</div> <div n="xs">{#ययाचे पुत्रवात्सल्यादयुद्धं दिवसद्वयम्;#}</div> Raj.
+v. Truce.</div>
 <LEND>

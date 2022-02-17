@@ -1,10 +1,10 @@
 <L>1961<pc>068<k1>bespeak<k2>bespeak
-<div n="lb"/>{@BESPEAK@}¦ (v. t.): <div n="I">I To order before hand:
-<div n="lb"/>Ph. {%I bespoke a vessel to carry me to London%}
-<div n="lb"/>{#*पूर्वमेव मयादेशि यानं यानाय लण्डने:#} v. To engage,
-<div n="lb"/>hire. </div><div n="I">II To be taken: q. v.: </div><div n="1">(1) {#कथयति#}
-<div n="lb"/>Śr.; </div><div n="1">(2) {#वदति#} ({#वद्#} c. 1.), ({%these signs%}) <div n="xe">{%b.%}
-<div n="lb"/>{%this death%}</div> <div n="xs">{#तं वदन्ति गतायुषम्,#}</div> Śr.; </div><div n="1">(3) {#आवेदयति#}
-<div n="lb"/>(c. of {#विद्#}), <ls>K.</ls> </div><div n="I">III. To address: q. v. {#भाषते#}
-<div n="lb"/>({#माष्।,#} c. l.)</div>
+{@BESPEAK@}¦ (v. t.): <div n="I">I To order before hand:
+Ph. {%I bespoke a vessel to carry me to London%}
+{#*पूर्वमेव मयादेशि यानं यानाय लण्डने:#} v. To engage,
+hire. </div><div n="I">II To be taken: q. v.: </div><div n="1">(1) {#कथयति#}
+Śr.; </div><div n="1">(2) {#वदति#} ({#वद्#} c. 1.), ({%these signs%}) <div n="xe">{%b.%}
+{%this death%}</div> <div n="xs">{#तं वदन्ति गतायुषम्,#}</div> Śr.; </div><div n="1">(3) {#आवेदयति#}
+(c. of {#विद्#}), <ls>K.</ls> </div><div n="I">III. To address: q. v. {#भाषते#}
+({#माष्।,#} c. l.)</div>
 <LEND>

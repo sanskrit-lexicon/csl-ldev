@@ -1,8 +1,8 @@
 <L>20010<pc>622<k1>season<k2>season
-<div n="lb"/>{@SEASON@}¦ (subs.): <div n="I">I Of the year: </div><div n="1">(1) {#ऋतुः,#}
-<div n="lb"/>{%the s. s attend him like common gardeners:%}
-<div n="lb"/>{#उद्यानपालसामान्यमृतवस्तमुपासते,#} Ku. ii. 36.; </div><div n="1">(2)
-<div n="lb"/>{#कालः#} (= time), <div n="xe">{%the hot s.:%}</div> <div n="xs">{#निदाघकालः,#}</div> Ri. </div><div n="I">II
-<div n="lb"/>= time: q. v.: {#कालः,#} <div n="xe">{%for a s.:%}</div> <div n="xs">{#कञ्चित् कालम्,#}</div>
-<div n="lb"/>Mu. i.; <div n="xe">{%in due s.:%}</div> <div n="xs">{#काले।#}</div></div>
+{@SEASON@}¦ (subs.): <div n="I">I Of the year: </div><div n="1">(1) {#ऋतुः,#}
+{%the s. s attend him like common gardeners:%}
+{#उद्यानपालसामान्यमृतवस्तमुपासते,#} Ku. ii. 36.; </div><div n="1">(2)
+{#कालः#} (= time), <div n="xe">{%the hot s.:%}</div> <div n="xs">{#निदाघकालः,#}</div> Ri. </div><div n="I">II
+= time: q. v.: {#कालः,#} <div n="xe">{%for a s.:%}</div> <div n="xs">{#कञ्चित् कालम्,#}</div>
+Mu. i.; <div n="xe">{%in due s.:%}</div> <div n="xs">{#काले।#}</div></div>
 <LEND>

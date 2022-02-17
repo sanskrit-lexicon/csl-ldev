@@ -1,6 +1,6 @@
 <L>13375<pc>412<k1>leave off<k2>leave off
-<div n="lb"/>{@LEAVE OFF:@}¦ <div n="I">I To cease, desist: q. v.: <div n="xe">{%l. ing%}
-<div n="lb"/>{%off crying:%}</div> <div n="xs">{#विलापाद्विरता,#}</div> R. xiv. 71; <div n="xe">{%when the%}
-<div n="lb"/>{%rain left off:%}</div> <div n="xs">{#शान्ते पानीयवर्षे,#}</div> H. </div><div n="I">II To leave,
-<div n="lb"/>abandon: q. v.</div>
+{@LEAVE OFF:@}¦ <div n="I">I To cease, desist: q. v.: <div n="xe">{%l. ing%}
+{%off crying:%}</div> <div n="xs">{#विलापाद्विरता,#}</div> R. xiv. 71; <div n="xe">{%when the%}
+{%rain left off:%}</div> <div n="xs">{#शान्ते पानीयवर्षे,#}</div> H. </div><div n="I">II To leave,
+abandon: q. v.</div>
 <LEND>

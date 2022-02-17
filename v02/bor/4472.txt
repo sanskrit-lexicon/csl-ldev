@@ -1,6 +1,6 @@
 <L>4472<pc>145<k1>consciousness<k2>consciousness
-<div n="lb"/>{@CONSCIOUSNESS:@}¦ <div n="I">I Sensation: {#चेतना#} <div n="xe">{%or%}</div> <div n="xs">{#चैतन्यम्,#}</div>
-<div n="lb"/><div n="xe">{%deprived her of c.:%}</div> <div n="xs">{#तस्याश्चेतनां जहार,#}</div> K.; </div><div n="1">(2)
-<div n="lb"/>{#संज्ञा,#} <div n="xe">{%to restore c.:%}</div> <div n="xs">{#संज्ञां ग्राहयति,#}</div> K. </div><div n="I">II Know-
-<div n="lb"/>-ledge: </div><div n="1">(1) {#ज्ञानम्;#} </div><div n="1">(2) {#उपलब्धिः।#}</div>
+{@CONSCIOUSNESS:@}¦ <div n="I">I Sensation: {#चेतना#} <div n="xe">{%or%}</div> <div n="xs">{#चैतन्यम्,#}</div>
+<div n="xe">{%deprived her of c.:%}</div> <div n="xs">{#तस्याश्चेतनां जहार,#}</div> K.; </div><div n="1">(2)
+{#संज्ञा,#} <div n="xe">{%to restore c.:%}</div> <div n="xs">{#संज्ञां ग्राहयति,#}</div> K. </div><div n="I">II Know-
+-ledge: </div><div n="1">(1) {#ज्ञानम्;#} </div><div n="1">(2) {#उपलब्धिः।#}</div>
 <LEND>

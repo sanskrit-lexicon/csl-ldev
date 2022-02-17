@@ -1,13 +1,13 @@
 <L>7822<pc>247<k1>escape<k2>escape
-<div n="lb"/>{@ESCAPE@}¦ (v. t.): <div n="I">I To get out of: </div><div n="1">(1) {#मुच्यते, #}
-<div n="lb"/>{# वि-, परि-,#} (pass. of {#मुच्#}) (with abl.), <div n="xe">{%who e. s%}
-<div n="lb"/>{%the great snare:%}</div> <div n="xs">{#यो महापाशाद्विमुक्तः,#}</div> V. c.; </div><div n="1">(2)
-<div n="lb"/>{#तरति, उत्- निर्-, सम्-, अभि,#} ({#तॄ,#} c. 1.) (= to
-<div n="lb"/>cross, overcome), {%without e. ing an accusation:%}
-<div n="lb"/>{#अभियोगमनिस्तीर्य,#} Y.; <div n="xe">{%to e. death:%}</div> <div n="xs">{#मृत्युं तरति,#}</div>
-<div n="lb"/>Vi. </div><div n="I">II To avoid: q. v.: {#परिहरति#} ({#हृ,#} c. 1.),
-<div n="lb"/><div n="xe">{%infamy has been e. d:%}</div> <div n="xs">{#परिहृतमयशः,#}</div> Mu. </div><div n="I">III
-<div n="lb"/>Of observation, etc.: <div n="xe">{%e. d the notice of the%}
-<div n="lb"/>{%guards:%}</div> <div n="xs">{#न लक्षितो रक्षिभटैः,#}</div> N.; <div n="xe">{%it e. d his%}
-<div n="lb"/>{%notice:%}</div> <div n="xs">{#स एतन्नालक्षयत्#}</div> ({#लक्ष्,#} c. 10.).</div>
+{@ESCAPE@}¦ (v. t.): <div n="I">I To get out of: </div><div n="1">(1) {#मुच्यते, #}
+{# वि-, परि-,#} (pass. of {#मुच्#}) (with abl.), <div n="xe">{%who e. s%}
+{%the great snare:%}</div> <div n="xs">{#यो महापाशाद्विमुक्तः,#}</div> V. c.; </div><div n="1">(2)
+{#तरति, उत्- निर्-, सम्-, अभि,#} ({#तॄ,#} c. 1.) (= to
+cross, overcome), {%without e. ing an accusation:%}
+{#अभियोगमनिस्तीर्य,#} Y.; <div n="xe">{%to e. death:%}</div> <div n="xs">{#मृत्युं तरति,#}</div>
+Vi. </div><div n="I">II To avoid: q. v.: {#परिहरति#} ({#हृ,#} c. 1.),
+<div n="xe">{%infamy has been e. d:%}</div> <div n="xs">{#परिहृतमयशः,#}</div> Mu. </div><div n="I">III
+Of observation, etc.: <div n="xe">{%e. d the notice of the%}
+{%guards:%}</div> <div n="xs">{#न लक्षितो रक्षिभटैः,#}</div> N.; <div n="xe">{%it e. d his%}
+{%notice:%}</div> <div n="xs">{#स एतन्नालक्षयत्#}</div> ({#लक्ष्,#} c. 10.).</div>
 <LEND>

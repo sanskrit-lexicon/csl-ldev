@@ -1,17 +1,17 @@
 <L>58784<pc>5-0644<k1>महामात्र<k2>महामात्र
-{#महामात्र#}¦ {#(म° + मात्रा)#} 
+{#महामात्र#}¦ ({#म° + मात्रा#}) 
 <div n="1"> 1) <lex>adj.</lex> {%dem Maasse nach gross, der grösste, beste, vorzüglichste%}: <is>Śiva</is> 
 <ls>MBH. 13, 1199.</ls> {#सर्वायुध° (धनुस्)#} 
 <ls>1, 8180. 4, 1309. 1344.</ls> {#वृष्ण्यन्धक°#} 
 <ls>1, 7988.</ls> {#देवासुर°#} 
 <ls>13, 1258.</ls> {#शाखामृग°#} 
-<ls>R. 4, 25 (26 ed. Bomb. ), 1.</ls> Ohne nähere Bestimmung <lex>m.</lex> {%ein im Range hochstehender Mann, ein hoher Beamter des Fürsten, Minister%} (=  {#प्रधान#} 
+<ls>R. 4, 25 (26 ed. Bomb. ), 1.</ls> Ohne nähere Bestimmung <lex>m.</lex> {%ein im Range hochstehender Mann, ein hoher Beamter des Fürsten, Minister%} (= {#प्रधान#} 
 <ls>AK. 2, 8, 1, 5.</ls> 
 <ls>H. 720.</ls> 
 <ls>an. 4, 275.</ls> 
 <ls>HALĀY. 2, 272.</ls> = {#अमात्य#} 
 <ls>MED. r. 291.</ls> = {#समृद्ध#} 
-<ls>H. an.</ls> <ls>MED.</ls>) <ls>MBH. 2, 1166. 6, 4748. 15, 1042.</ls> <ls>R. 2, 36, 8. 37, 1. 4, 25, 21.</ls> <ls>KĀM. NĪTIS. 8, 58. 9, 69. 12, 44.</ls> {#राजपुत्राश्च महामात्रदुहितरश्च#} 
+<ls>H. an.</ls> <ls>MED.</ls>) <ls>MBH. 2, 1166.</ls> <ls n="MBH.">6, 4748.</ls> <ls n="MBH.">15, 1042.</ls> <ls>R. 2, 36, 8. 37, 1. 4, 25, 21.</ls> <ls>KĀM. NĪTIS. 8, 58. 9, 69. 12, 44.</ls> {#राजपुत्राश्च महामात्रदुहितरश्च#} 
 <ls>Verz. d. Oxf. H. 216,b,39. 217,a,27.</ls> <ls>Spr. 2096</ls> {%(Minister%} und zugleich {%Elephantenlenker).%} 
 <div n="1">— 2) <lex>m.</lex> {%Elephantenlenker%} 
 <ls>H. 762.</ls> 
@@ -19,8 +19,8 @@
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 70.</ls> 
 <ls>M. 9, 259.</ls> 
-<ls>MBH. 4, 1761. 6, 2287. 3155</ls> (wo mit der ed. Bomb. {#सतोमरैर्महा°#} zu lesen ist; man streiche also diese Stelle u. {#तोरण)#} . 
-<ls>7, 837. 4320.</ls> <ls>HARIV. 4552. 5053. 5581. 9377. 13497. 13619.</ls> <ls>VARĀH. BṚH. S. 9, 28. 15, 11. 19.</ls> <ls>KATHĀS. 13, 17.</ls> <ls>Spr. 2096</ls> (zugleich {%Minister).%} 
+<ls>MBH. 4, 1761.</ls> <ls n="MBH.">6, 2287.</ls> <ls n="MBH. 6,">3155</ls> (wo mit der ed. Bomb. {#सतोमरैर्महा°#} zu lesen ist; man streiche also diese Stelle u. {#तोरण)#} . 
+<ls>7, 837. 4320.</ls> <ls>HARIV. 4552.</ls> <ls n="HARIV.">5053.</ls> <ls n="HARIV.">5581.</ls> <ls n="HARIV.">9377.</ls> <ls n="HARIV.">13497.</ls> <ls n="HARIV.">13619.</ls> <ls>VARĀH. BṚH. S. 9, 28. 15, 11. 19.</ls> <ls>KATHĀS. 13, 17.</ls> <ls>Spr. 2096</ls> (zugleich {%Minister).%} 
 <div n="1">— 3) <lex>f.</lex> {#ई#} {%die Frau des Lehrers%} 
 <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> 
 <div n="v">— Vgl. {#गणना°, धर्म°#} .

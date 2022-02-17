@@ -1,4 +1,4 @@
 <L>12306<pc>382<k1>inoculation<k2>inoculation
-<div n="lb"/>{@INOCULATION:@}¦ <div n="I">I In gen.: {#निवेशनम्।#} </div><div n="I">II In
-<div n="lb"/>medicine: {#शीतलाबीजनिवेशनम्#} (?).</div>
+{@INOCULATION:@}¦ <div n="I">I In gen.: {#निवेशनम्।#} </div><div n="I">II In
+medicine: {#शीतलाबीजनिवेशनम्#} (?).</div>
 <LEND>

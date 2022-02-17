@@ -1,7 +1,7 @@
 <L>16140<pc>396-b<k1>inside<k2>inside
-<div n="lb"/>INSIDE¦, {%s.%} (Interior of any thing) {#अभ्यन्तरं, अन्तरं, गर्भः, उदरं, क्रोडं,#}
-<div n="lb"/>{#अन्तःभागः, अभ्यन्तरभागः, विलं, विवरं, कुहरं;#} ‘the inside of a
-<div n="lb"/>house,’ {#गृहाभ्यन्तरं, अन्तर्गृहं, अन्तर्भवनं, भवनोदरं;#} ‘the inside of
-<div n="lb"/>a boiler,’ {#स्थालीविलं;#} ‘the inside of a tree,’ {#तरुकोटरः -रं,#}
-<div n="lb"/>{#तरुक्रोडं#}.
+INSIDE¦, {%s.%} (Interior of any thing) {#अभ्यन्तरं, अन्तरं, गर्भः, उदरं, क्रोडं,#}
+{#अन्तःभागः, अभ्यन्तरभागः, विलं, विवरं, कुहरं;#} ‘the inside of a
+house,’ {#गृहाभ्यन्तरं, अन्तर्गृहं, अन्तर्भवनं, भवनोदरं;#} ‘the inside of
+a boiler,’ {#स्थालीविलं;#} ‘the inside of a tree,’ {#तरुकोटरः -रं,#}
+{#तरुक्रोडं#}.
 <LEND>

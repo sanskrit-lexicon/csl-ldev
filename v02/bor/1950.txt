@@ -1,8 +1,8 @@
 <L>1950<pc>068<k1>beside<k2>beside
-<div n="lb"/>{@BESIDE@}¦ (prep.): <div n="I">I Near, by the side of:
-<div n="lb"/>q. v.: {#पार्श्वे#} (with gen.) <div n="xe">{%b. her father%}</div> <div n="xs">{#पितुः पार्श्वे,#}</div>
-<div n="lb"/>Ku. vi. 84. </div><div n="I">II Over and above: v.
-<div n="lb"/>Besides. </div><div n="I">III Not belonging to: {#बहिः#} (with
-<div n="lb"/>abl.), <div n="xe">{%b. my theme%}</div> <div n="xs">{#प्रबन्धाद्वहिः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रबन्धस्य बहिर्भूतः#}</div>
-<div n="lb"/>({#ता, तं#}).</div>
+{@BESIDE@}¦ (prep.): <div n="I">I Near, by the side of:
+q. v.: {#पार्श्वे#} (with gen.) <div n="xe">{%b. her father%}</div> <div n="xs">{#पितुः पार्श्वे,#}</div>
+Ku. vi. 84. </div><div n="I">II Over and above: v.
+Besides. </div><div n="I">III Not belonging to: {#बहिः#} (with
+abl.), <div n="xe">{%b. my theme%}</div> <div n="xs">{#प्रबन्धाद्वहिः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रबन्धस्य बहिर्भूतः#}</div>
+({#ता, तं#}).</div>
 <LEND>

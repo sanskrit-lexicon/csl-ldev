@@ -1,5 +1,5 @@
 <L>1151<pc>041<k1>as for<k2>as for
-<div n="lb"/>{@AS FOR, AS TO:@}¦ {#विषयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#विषयकः#}</div> ({#का, कं#})
-<div n="lb"/>in comp.: <div n="xe">{%as for his valour, I will not say a%}
-<div n="lb"/>{%word%}</div> <div n="xs">{#तस्य शौर्यविषयं न किञ्चिद् वदामि।#}</div>
+{@AS FOR, AS TO:@}¦ {#विषयः#} ({#या, यं#}) <div n="xe">{%or%}</div> <div n="xs">{#विषयकः#}</div> ({#का, कं#})
+in comp.: <div n="xe">{%as for his valour, I will not say a%}
+{%word%}</div> <div n="xs">{#तस्य शौर्यविषयं न किञ्चिद् वदामि।#}</div>
 <LEND>

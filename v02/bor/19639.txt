@@ -1,10 +1,10 @@
 <L>19639<pc>610<k1>safe<k2>safe
-<div n="lb"/>{@SAFE@}¦ (adj.): <div n="1">(1) {#सुरक्षित#} (f. = well-protected),
-<div n="lb"/><div n="xe">{%and naturally s.:%}</div> <div n="xs">{#प्रकृत्या च सुरक्षितम्,#}</div> Mah. iii.
-<div n="lb"/>15. 17.; </div><div n="1">(2) {#सुस्थ#} (f. {#स्था#} = uninjured, as of
-<div n="lb"/>parts: v. Healthy, well); </div><div n="1">(3) {#अलङ्घ्य#} (f. {#ङ्घ्या#}
-<div n="lb"/>= inviolable), <div n="xe">{%we are made s. against the%}
-<div n="lb"/>{%enemies of gods:%}</div> <div n="xs">{#त्रिदशप्रतिपक्षस्यालङ्घनीये कृते स्वः,#}</div>
-<div n="lb"/>V. ii.; </div><div n="1">(4) {#निराबाध#} (f. {#धा#}), {#असम्बाध#} (f. {#धा#}),
-<div n="lb"/>and sim. comp. s. (rare).</div>
+{@SAFE@}¦ (adj.): <div n="1">(1) {#सुरक्षित#} (f. = well-protected),
+<div n="xe">{%and naturally s.:%}</div> <div n="xs">{#प्रकृत्या च सुरक्षितम्,#}</div> Mah. iii.
+15. 17.; </div><div n="1">(2) {#सुस्थ#} (f. {#स्था#} = uninjured, as of
+parts: v. Healthy, well); </div><div n="1">(3) {#अलङ्घ्य#} (f. {#ङ्घ्या#}
+= inviolable), <div n="xe">{%we are made s. against the%}
+{%enemies of gods:%}</div> <div n="xs">{#त्रिदशप्रतिपक्षस्यालङ्घनीये कृते स्वः,#}</div>
+V. ii.; </div><div n="1">(4) {#निराबाध#} (f. {#धा#}), {#असम्बाध#} (f. {#धा#}),
+and sim. comp. s. (rare).</div>
 <LEND>

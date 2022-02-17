@@ -1,6 +1,6 @@
 <L>5419<pc>173<k1>dark<k2>dark
-<div n="lb"/>{@DARK@}¦ (subs.): <div n="I">I Darkness: q. v. </div><div n="I">II
-<div n="lb"/>Secrecy: q. v. Ph.: <div n="xe">{%in d.:%}</div> <div n="xs">{#गूढम्:#}</div> v. Secretly.</div>
-<div n="lb"/><div n="I">III Ignorance: q. v.: <div n="xe">{%in the d.:%}</div> <div n="xs">{#अनभिज्ञः#}</div>
-<div n="lb"/>({#ज्ञा, ज्ञं#}).</div>
+{@DARK@}¦ (subs.): <div n="I">I Darkness: q. v. </div><div n="I">II
+Secrecy: q. v. Ph.: <div n="xe">{%in d.:%}</div> <div n="xs">{#गूढम्:#}</div> v. Secretly.</div>
+<div n="I">III Ignorance: q. v.: <div n="xe">{%in the d.:%}</div> <div n="xs">{#अनभिज्ञः#}</div>
+({#ज्ञा, ज्ञं#}).</div>
 <LEND>

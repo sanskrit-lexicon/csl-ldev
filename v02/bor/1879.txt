@@ -1,5 +1,5 @@
 <L>1879<pc>065<k1>bell<k2>bell
-<div n="lb"/>{@BELL:@}¦ {#घण्टा,#} <div n="xe">{%to ring a b.%}</div> <div n="xs">{#घण्टां वादयति#}</div> (c. of {#वद्#});
-<div n="lb"/><div n="xe">{%small tinkling b. s%}</div> <div n="xs">{#किङ्किणी,#}</div> {%B. man:%} v. Bell-
-<div n="lb"/>-ringer.
+{@BELL:@}¦ {#घण्टा,#} <div n="xe">{%to ring a b.%}</div> <div n="xs">{#घण्टां वादयति#}</div> (c. of {#वद्#});
+<div n="xe">{%small tinkling b. s%}</div> <div n="xs">{#किङ्किणी,#}</div> {%B. man:%} v. Bell-
+-ringer.
 <LEND>

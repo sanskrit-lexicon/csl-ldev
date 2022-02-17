@@ -1,6 +1,6 @@
 <L>2475<pc>085<k1>brandish<k2>brandish
-<div n="lb"/>{@BRANDISH:@}¦ <div n="1">(1) {#लासयति#} (c. of {#लस#}); </div><div n="1">(2) {#भ्रमयति#}
-<div n="lb"/>(c. of {#भ्रम्#}), <div n="xe">{%b. ed the pikes%}</div> <div n="xs">{#शूलानि भ्रमयांचक्रुः।#}</div> B.
-<div n="lb"/>xiv. 9. Ph. <div n="xe">{%b. ed their bows%}</div> <div n="xs">{#धनूंष्यास्फालितानि#}</div>
-<div n="lb"/>(after Śi.).</div>
+{@BRANDISH:@}¦ <div n="1">(1) {#लासयति#} (c. of {#लस#}); </div><div n="1">(2) {#भ्रमयति#}
+(c. of {#भ्रम्#}), <div n="xe">{%b. ed the pikes%}</div> <div n="xs">{#शूलानि भ्रमयांचक्रुः।#}</div> B.
+xiv. 9. Ph. <div n="xe">{%b. ed their bows%}</div> <div n="xs">{#धनूंष्यास्फालितानि#}</div>
+(after Śi.).</div>
 <LEND>

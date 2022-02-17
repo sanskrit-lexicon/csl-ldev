@@ -1,5 +1,5 @@
 <L>395<pc>009-b<k1>affirmation<k2>affirmation
-<div n="lb"/>AFFIRMATION¦, {%s.%} (Declaring positively) {#दृढोक्तिः#} {%f.,%} {#वचनं, दृढवचनं#}.
-<div n="lb"/> — (Argumentative statement) {#पक्षः#}. — (Confirmation)
-<div n="lb"/>{#प्रमाणीकरणं, निश्चयः, दृढीकरणं, स्थिरीकरणं#}. — (False) {#विप्रलापः#}.
+AFFIRMATION¦, {%s.%} (Declaring positively) {#दृढोक्तिः#} {%f.,%} {#वचनं, दृढवचनं#}.
+ — (Argumentative statement) {#पक्षः#}. — (Confirmation)
+{#प्रमाणीकरणं, निश्चयः, दृढीकरणं, स्थिरीकरणं#}. — (False) {#विप्रलापः#}.
 <LEND>

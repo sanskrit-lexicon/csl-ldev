@@ -1,22 +1,22 @@
 <L>12977<pc>400<k1>keep<k2>keep
-<div n="lb"/>{@KEEP@}¦ (v. t.): <div n="I">I To retain: </div><div n="1">(1) {#रक्षति, सं-, परि-, #}
-<div n="lb"/>{# अभि-#} ({#रक्ष्,#} c. 1.), <div n="xe">{%Mālavikā is kept out of the%}
-<div n="lb"/>{%sight of His Majesty:%}</div> <div n="xs">{#मालविका भर्तूर्दर्शनपथाद्रक्ष्यते,#}</div>
-<div n="lb"/>Mal. i.; <div n="xe">{%to k. counsel;%}</div> <div n="xs">{#मन्त्रं संरक्षति,#}</div> Ka.; <div n="xe">{%can%}
-<div n="lb"/>{%I k. my tongue now:%}</div> <div n="xs">{#किमिदानीहं जिह्वां रक्षितुं #}
-<div n="lb"/>{# समर्थेऽस्मि,#}</div> </div><div n="I">V ii.; </div><div n="1">(2) {#धरति#} <div n="xe">{%or%}</div> <div n="xs">{#धारयति#}</div> ({#धृ,#} c.
-<div n="lb"/>l. and 10.) (= to hold), {%should k. in mind:%}
-<div n="lb"/>{#हृदि धर्तुमर्हसि,#} M. n.; {%therefore you k.%} ({%it%}): {#तस्मात् #}
-<div n="lb"/>{# स्वयं धारय,#} Mr. iii. </div><div n="I">II Fig., to observe:
-<div n="lb"/>{#रक्षति, सं-,#} etc., <div n="xe">{%to keep a promise:%}</div> <div n="xs">{#प्रतिज्ञां परिरक्षति,#}</div>
-<div n="lb"/>Sca.; <div n="xe">{%k. ing of a vow:%}</div> <div n="xs">{#व्रताभिरक्षा,#}</div> Ki. </div><div n="I">III To
-<div n="lb"/>preserve: {#रक्षति,#} etc., <div n="xe">{%to k. the hair:%}</div> <div n="xs">{#केशानां #}
-<div n="lb"/>{# रक्षणार्थाय,#}</div> Pa. </div><div n="I">IV To have: q.v.: {#रक्षति#} (?:
-<div n="lb"/>used in Bengali). Ph.: <div n="xe">{%have you kept the%}
-<div n="lb"/>{%secret I entrusted:%}</div> <div n="xs">{#रक्ष्यते भवता रहस्यनिक्षेपः,#}</div> </div><div n="I">V ii.;
-<div n="lb"/>{%to k. daily accounts of receipts and expenses:%}
-<div n="lb"/>{#नित्यमायव्यये अनुतिष्ठति#} ({#स्था,#} c. 1.) (?), Mah.
-<div n="lb"/>ii. 5. 72.; <div n="xe">{%to k. bed:%}</div> <div n="xs">{#शय्यायां तिष्ठति;#}</div> <div n="xe">{%he k. s a%}
-<div n="lb"/>{%school:%}</div> <div n="xs">{#तस्य विद्यागृहमस्ति;#}</div> <div n="xe">{%to k. bad hours:%}</div> <div n="xs">{#विलम्बेन #}
-<div n="lb"/>{# शय्यां गच्छति#}</div> (?).</div>
+{@KEEP@}¦ (v. t.): <div n="I">I To retain: </div><div n="1">(1) {#रक्षति, सं-, परि-, #}
+{# अभि-#} ({#रक्ष्,#} c. 1.), <div n="xe">{%Mālavikā is kept out of the%}
+{%sight of His Majesty:%}</div> <div n="xs">{#मालविका भर्तूर्दर्शनपथाद्रक्ष्यते,#}</div>
+Mal. i.; <div n="xe">{%to k. counsel;%}</div> <div n="xs">{#मन्त्रं संरक्षति,#}</div> Ka.; <div n="xe">{%can%}
+{%I k. my tongue now:%}</div> <div n="xs">{#किमिदानीहं जिह्वां रक्षितुं #}
+{# समर्थेऽस्मि,#}</div> </div><div n="I">V ii.; </div><div n="1">(2) {#धरति#} <div n="xe">{%or%}</div> <div n="xs">{#धारयति#}</div> ({#धृ,#} c.
+l. and 10.) (= to hold), {%should k. in mind:%}
+{#हृदि धर्तुमर्हसि,#} M. n.; {%therefore you k.%} ({%it%}): {#तस्मात् #}
+{# स्वयं धारय,#} Mr. iii. </div><div n="I">II Fig., to observe:
+{#रक्षति, सं-,#} etc., <div n="xe">{%to keep a promise:%}</div> <div n="xs">{#प्रतिज्ञां परिरक्षति,#}</div>
+Sca.; <div n="xe">{%k. ing of a vow:%}</div> <div n="xs">{#व्रताभिरक्षा,#}</div> Ki. </div><div n="I">III To
+preserve: {#रक्षति,#} etc., <div n="xe">{%to k. the hair:%}</div> <div n="xs">{#केशानां #}
+{# रक्षणार्थाय,#}</div> Pa. </div><div n="I">IV To have: q.v.: {#रक्षति#} (?:
+used in Bengali). Ph.: <div n="xe">{%have you kept the%}
+{%secret I entrusted:%}</div> <div n="xs">{#रक्ष्यते भवता रहस्यनिक्षेपः,#}</div> </div><div n="I">V ii.;
+{%to k. daily accounts of receipts and expenses:%}
+{#नित्यमायव्यये अनुतिष्ठति#} ({#स्था,#} c. 1.) (?), Mah.
+ii. 5. 72.; <div n="xe">{%to k. bed:%}</div> <div n="xs">{#शय्यायां तिष्ठति;#}</div> <div n="xe">{%he k. s a%}
+{%school:%}</div> <div n="xs">{#तस्य विद्यागृहमस्ति;#}</div> <div n="xe">{%to k. bad hours:%}</div> <div n="xs">{#विलम्बेन #}
+{# शय्यां गच्छति#}</div> (?).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>19948<pc>519-b<k1>mucus<k2>mucus
-<div n="lb"/>MUCUS¦, {%s.%} (Viscid substance secreted by a mucous membrane)
-<div n="lb"/>{#श्लेष्मा#} {%m.%} {#(न्), श्लेष्मादिमलं, कफादिमलं, मलं, इन्द्रियमलं;#} ‘of the
-<div n="lb"/>nose,’ {#सिंहानं, सिंहाणं, सिङ्घाणं -णकं, शिङ्घाणकं, नासामलं, नासि#}
-<div n="lb"/>{#कामलं;#} ‘of the throat,’ {#कफः, श्लेष्मा#} {%m.%} {#(न्), क्लेदनः, क्लेदकः#}
-<div n="lb"/>‘of the urethra, &c.,’ {#पुष्पिका#} ‘of the bowels,’ {#आमः#}.
+MUCUS¦, {%s.%} (Viscid substance secreted by a mucous membrane)
+{#श्लेष्मा#} {%m.%} {#(न्), श्लेष्मादिमलं, कफादिमलं, मलं, इन्द्रियमलं;#} ‘of the
+nose,’ {#सिंहानं, सिंहाणं, सिङ्घाणं -णकं, शिङ्घाणकं, नासामलं, नासि#}
+{#कामलं;#} ‘of the throat,’ {#कफः, श्लेष्मा#} {%m.%} {#(न्), क्लेदनः, क्लेदकः#}
+‘of the urethra, &c.,’ {#पुष्पिका#} ‘of the bowels,’ {#आमः#}.
 <LEND>

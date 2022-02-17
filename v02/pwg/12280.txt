@@ -4,5 +4,5 @@
 <ls>VOP. 4, 24.</ls> 
 <ls>AK. 2, 6, 1, 15.</ls> 
 <ls>H. 523.</ls> 
-<ls>MBH. 1, 750. 758. 759.</ls>
+<ls>MBH. 1, 750.</ls> <ls n="MBH. 1,">758.</ls> <ls n="MBH. 1,">759.</ls>
 <LEND>

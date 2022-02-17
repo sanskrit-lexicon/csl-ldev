@@ -1,4 +1,4 @@
 <L>3145<pc>105<k1>cart-load<k2>cart-load
-<div n="lb"/>{@CART-LOAD:@}¦ <div n="1">(1) {#शाकटीनः;#} </div><div n="1">(2) better by
-<div n="lb"/>circum. <div n="xe">{%five c. s of things%}</div> <div n="xs">{#पञ्जशकटपूर्णानि द्रव्याणि।#}</div></div>
+{@CART-LOAD:@}¦ <div n="1">(1) {#शाकटीनः;#} </div><div n="1">(2) better by
+circum. <div n="xe">{%five c. s of things%}</div> <div n="xs">{#पञ्जशकटपूर्णानि द्रव्याणि।#}</div></div>
 <LEND>

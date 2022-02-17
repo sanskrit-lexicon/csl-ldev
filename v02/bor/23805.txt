@@ -1,9 +1,9 @@
 <L>23805<pc>745<k1>very<k2>very
-<div n="lb"/>{@VERY@}¦ (adj.): <div n="I">I Real, actual: q. v.: expr. by
-<div n="lb"/>adv. {#सत्यम्#} etc. </div><div n="I">II Same: q. v., <div n="xe">{%he is the v.%}
-<div n="lb"/>{%man:%}</div> <div n="xs">{#अयं सः।#}</div> </div><div n="I">III Emphatic: expr. with {#एव,#}
-<div n="lb"/><div n="xe">{%it is the v. same forest:%}</div> <div n="xs">{#एतत्तदेव हि वनम्,#}</div> U. ii.
-<div n="lb"/>22.; <div n="xe">{%these are the v. same mountains:%}</div> <div n="xs">{#एते त एव #}
-<div n="lb"/>{# गिरयः,#}</div> U. ii. 23.; <div n="xe">{%this very day:%}</div> <div n="xs">{#अद्यैव,#}</div> Ve.
-<div n="lb"/>iv. 1.</div>
+{@VERY@}¦ (adj.): <div n="I">I Real, actual: q. v.: expr. by
+adv. {#सत्यम्#} etc. </div><div n="I">II Same: q. v., <div n="xe">{%he is the v.%}
+{%man:%}</div> <div n="xs">{#अयं सः।#}</div> </div><div n="I">III Emphatic: expr. with {#एव,#}
+<div n="xe">{%it is the v. same forest:%}</div> <div n="xs">{#एतत्तदेव हि वनम्,#}</div> U. ii.
+22.; <div n="xe">{%these are the v. same mountains:%}</div> <div n="xs">{#एते त एव #}
+{# गिरयः,#}</div> U. ii. 23.; <div n="xe">{%this very day:%}</div> <div n="xs">{#अद्यैव,#}</div> Ve.
+iv. 1.</div>
 <LEND>

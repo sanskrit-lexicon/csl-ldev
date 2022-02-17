@@ -5,8 +5,8 @@
 <ls>AK. 2, 6, 1, 27. 3, 4, 14, 63.</ls> 
 <ls>H. 542.</ls> 
 <ls>an. 2, 207.</ls> 
-<ls>MED. t. 71.</ls> <ls>HALĀY. 2, 342.</ls> <ls>M. 1, 62. 2, 28. 208. 3, 16. fg. 38. 41. 174 u.s.w.</ls> <ls>MBH. 3, 2072.</ls> <ls>R. 1, 1, 20.</ls> <ls>SUŚR. 1, 322, 14.</ls> <ls>RAGH. 3, 4. 5, 6.</ls> <ls>VARĀH. BṚH. S. 7, 5. 11. 16, 42. 51, 40.</ls> <ls>Spr. (II) 2991. 4848.</ls> <ls>BHĀG. P. 3, 1, 7.</ls> <ls>VET.</ls> in <ls>LA. (III) 23, 14.</ls> <ls>ŚUK. ebend. 32, 9.</ls> {#सुतौ#} du. auch für {%Sohn und Tochter%} 
-<ls>MBH. 1, 6150. fg. 3, 2946.</ls> {#दारसुतम्#} {%Frau und Kinder%} 
+<ls>MED. t. 71.</ls> <ls>HALĀY. 2, 342.</ls> <ls>M. 1, 62. 2, 28. 208. 3, 16. fg. 38. 41. 174</ls> u.s.w. <ls>MBH. 3, 2072.</ls> <ls>R. 1, 1, 20.</ls> <ls>SUŚR. 1, 322, 14.</ls> <ls>RAGH. 3, 4. 5, 6.</ls> <ls>VARĀH. BṚH. S. 7, 5. 11. 16, 42. 51, 40.</ls> <ls>Spr. (II) 2991.</ls> <ls n="Spr. (II)">4848.</ls> <ls>BHĀG. P. 3, 1, 7.</ls> <ls>VET. in LA. (III) 23, 14.</ls> <ls>ŚUK. ebend. 32, 9.</ls> {#सुतौ#} du. auch für {%Sohn und Tochter%} 
+<ls>MBH. 1, 6150. fg.</ls> <ls n="MBH.">3, 2946.</ls> {#दारसुतम्#} {%Frau und Kinder%} 
 <ls>YĀJÑ. 2, 175.</ls> {#निष्पतिसुता#} <lex>adj.</lex> 
 <ls>H. 530.</ls> 
 <div n="2">— b) {%Fürst%} 
@@ -25,7 +25,7 @@
 <ls>H. 542.</ls> 
 <ls>MED.</ls> 
 <ls>M. 3, 28. 9, 127.</ls> 
-<ls>MBH. 1, 6153. 3, 2110. 2273. 5, 5950.</ls> 
+<ls>MBH. 1, 6153.</ls> <ls n="MBH.">3, 2110.</ls> <ls n="MBH. 3,">2273.</ls> <ls n="MBH.">5, 5950.</ls> 
 <ls>RAGH. 1, 81. 3, 33.</ls> 
 <ls>GĪT. 12, 27.</ls> 
 <ls>KATHĀS. 18, 163. 25, 197.</ls> 

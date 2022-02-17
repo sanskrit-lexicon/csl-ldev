@@ -1,6 +1,6 @@
 <L>14165<pc>435<k1>many<k2>many
-<div n="lb"/>{@MANY,@}¦ {@HOW:@} <div n="1">(1) {#कति,#} (mfn.), {%h. m. years.:%}
-<div n="lb"/>{#कति वर्षाणि,#} A.r.; </div><div n="1">(3) {#कियत्#} (f. {#ती#}), <div n="xe">{%and in h.%}
-<div n="lb"/>{%m. days:%}</div> <div n="xs">{#कियद्भिर्वा दिवसैः,#}</div> K. Ph.: <div n="xe">{%h. m.%}
-<div n="lb"/>{%times:%}</div> <div n="xs">{#कतिशः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#कति वारान्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#कियतो वारान्।#}</div></div>
+{@MANY,@}¦ {@HOW:@} <div n="1">(1) {#कति,#} (mfn.), {%h. m. years.:%}
+{#कति वर्षाणि,#} A.r.; </div><div n="1">(3) {#कियत्#} (f. {#ती#}), <div n="xe">{%and in h.%}
+{%m. days:%}</div> <div n="xs">{#कियद्भिर्वा दिवसैः,#}</div> K. Ph.: <div n="xe">{%h. m.%}
+{%times:%}</div> <div n="xs">{#कतिशः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#कति वारान्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#कियतो वारान्।#}</div></div>
 <LEND>

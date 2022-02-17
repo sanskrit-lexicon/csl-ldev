@@ -12,10 +12,10 @@
 <ls>KAṬHOP. 1, 25.</ls> 
 <ls>M. 5, 77. 79. 8, 108.</ls> 
 <ls>BHAG. 2, 34.</ls> 
-<ls>MBH. 1, 4318. 6032. 3, 2342. 13, 70.</ls> 
+<ls>MBH. 1, 4318.</ls> <ls n="MBH. 1,">6032.</ls> <ls n="MBH.">3, 2342.</ls> <ls n="MBH.">13, 70.</ls> 
 <ls>R. 1, 1, 88. 3, 12. 2, 72, 18.</ls> {#मृत्युं मरणधर्मेण योजयेयम्#} 
 <ls>3, 29, 18.</ls> <ls>SUŚR. 1, 18, 19. 34, 17. 45, 21. 102, 12. 109, 17.</ls> <ls>SĀṂKHYAK. 18. 55.</ls> <ls>Spr. 159. 311. 446. 452. 1581. 2061. 2646. 2742. 3791. 4697.</ls> <ls>VARĀH. BṚH. S. 11, 59. 46, 33.</ls> <ls>KATHĀS. 36, 80.</ls> <ls>MĀRK. P. 16, 43.</ls> <ls>CAURAP. 49.</ls> <ls>PAÑCAT. 128, 7.</ls> <ls>SĀH. D. 64, 4</ls> {#(°गर्वा म°#} zu trennen). 
-<ls>VET.</ls> in <ls>LA. (II) 8, 8. 28, 3.</ls> {#क्षत्रियः शस्त्रमरणः#} {%durch Waffen den Tod findend%} 
+<ls>VET. in LA. (II) 8, 8. 28, 3.</ls> {#क्षत्रियः शस्त्रमरणः#} {%durch Waffen den Tod findend%} 
 <ls>MBH. 2, 657.</ls> {%das Ersterben%}: {#विद्युतः, वृष्टेः#} 
 <ls>AIT. BR. 8, 28.</ls> Vgl. {#काम्य°, धी°, सह°, आमरणान्त#} . 
 <div n="1">— 2) {%ein best. Gift%}, = {#वत्सनाभ#} 

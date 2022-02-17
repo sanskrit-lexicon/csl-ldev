@@ -6,7 +6,7 @@
 <s>दुह्रे/</s>, <ls>vii, 101, 1</ls> &c.;
 <ab>impf.</ab> <ab>P.</ab> <s>अ/धोक्</s>, <ls>iii, 19, 7</ls>;
 <s>दुहु/र्</s>, <ls>ii, 34, 10</ls> &c.;
-<ab>Ā.</ab> <s>अदुग्ध</s> [according to, <ls>Pāṇ. 7-3, 73</ls> <ab>aor.</ab>] <ab>pl.</ab> <s>अदुह्र</s>, i, <ls>AV. viii, 10, 14; 3</ls> <ab>sg.</ab> <s>अदुह</s> <ab>pl.</ab> <s>°ह्र</s>, <ls>MaitrS.</ls> [<ab>cf.</ab> <ls>Pāṇ. 7-1, 8; 41</ls>; <ls>Kāś.</ls>];
+<ab>Ā.</ab> <s>अदुग्ध</s> [according to, <ls>Pāṇ. vii, 3, 73</ls> <ab>aor.</ab>] <ab>pl.</ab> <s>अदुह्र</s>, i, <ls>AV. viii, 10, 14; 3</ls> <ab>sg.</ab> <s>अदुह</s> <ab>pl.</ab> <s>°ह्र</s>, <ls>MaitrS.</ls> [<ab>cf.</ab> <ls>Pāṇ. vii, 1, 8</ls>; <ls n="Pāṇ. vii, 1">41</ls>; <ls>Kāś.</ls>];
 <ab>Impv.</ab> <s>धुक्ष्व</s>, <ls>RV.</ls>; <ls>AV.</ls>; 3/ <ab>sg.</ab> <s>दुहा/म्</s>, <ls>RV. i, 164, 27</ls>;
 <ab>pl.</ab> <s>दुह्रा/म्</s>, <s>°र/ताम्</s>, <ls>AV.</ls>;
 <s>धुङ्ग्ध्वम्</s>, <ls>ĀśvŚr.</ls>;
@@ -19,7 +19,7 @@
 <ab>cl.</ab> 4. <s>दुह्यति</s>, <s>°ते</s>, <ls>MBh.</ls>;
 <ab>pf.</ab> <s>दुदो/ह</s> [<s>°हिथ</s>, <ls>RV. ii, 3, 16</ls>], <s>दुदुहे/</s>, 3 <ab>pl.</ab> <s>दुदुहुर्</s> [<s>दुदूहुर्</s>, <ls>BhP. v, 15, 9</ls>] <ls>RV.</ls> &c.;
 <ab>Ā.</ab> <s>दुदुह्रे</s>, <ls>RV. iii, 57, 2</ls> &c.[<ls>ix, 70, 1</ls>; <ls>SV.</ls> <s>°ह्रिरे</s>];
-<ab>fut.</ab> <s>धोक्ष्यति</s>, <s>°ते</s>, <ls>Pāṇ. 8-2, 37</ls>; <ls>Kāś.</ls>;
+<ab>fut.</ab> <s>धोक्ष्यति</s>, <s>°ते</s>, <ls>Pāṇ. viii, 2, 37</ls>; <ls>Kāś.</ls>;
 <ab>aor.</ab> <s>अ/धुक्षत्</s>, <s>°षत</s> [3 <ab>sg.</ab> <ls>ix, 2, 3</ls> <ab>pl.</ab> <ls>110, 8</ls>], <s>अदुक्षत्</s>, <ls>i, 33, 10</ls>;
 <s>दुक्षत</s>, 3 <ab>sg.</ab> <ls>i, 160, 3</ls>;
 <ab>Impv.</ab> <s>धुक्ष/स्व</s>, <ls>RV.</ls>;
@@ -32,7 +32,7 @@
 <div n="to"/>to milk or squeeze out, extract (milk, <s1 slp1="soma">Soma</s1> <ab>e.g.</ab> any good thing);
 <div n="vp"/> draw anything out of another thing (with 2 <ab>acc.</ab>), <ls>RV.</ls> &c. &c.;
 <div n="to"/> (mostly <ab>Ā.</ab>) to give milk, yield any desired object (<ab>acc.</ab>, rarely <ab>gen.</ab>), <ls>RV.</ls> &c. &c.:
-<div n="vp"/><ab>Pass.</ab> <s>दुह्य/ते</s> <ab>aor.</ab> <s>अदोहि</s> (<ls>Pāṇ. 3-1, 63</ls>; <ls>Kāś.</ls>) to be milked, to be drawn or extracted from, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> &c.:
+<div n="vp"/><ab>Pass.</ab> <s>दुह्य/ते</s> <ab>aor.</ab> <s>अदोहि</s> (<ls>Pāṇ. iii, 1, 63</ls>; <ls>Kāś.</ls>) to be milked, to be drawn or extracted from, <ls>RV.</ls>; <ls>AV.</ls>; <ls>MBh.</ls> &c.:
 <div n="vp"/><ab>Caus.</ab> <s>दोह/यति</s>, <s>°ते</s> <ab>aor.</ab> <s>अदूदुहत्</s> <ab>Pass.</ab> <s>दोह्य/ते</s>, to cause to milk or be milked;
 <div n="to"/>to milk, milk out, extract, <ls>ŚBr.</ls>; <ls>Vait.</ls>; <ls>Mn.</ls>; <ls>BhP.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>दु/दुक्षति</s> (<ls>RV.</ls>), <s>दुधुक्षति</s> (<ls>Bhartṛ. ii, 38</ls> <ab>cf.</ab> <s>दुधुक्षु</s>), to wish to milk.<info whitneyroots="duh,76"/><info verb="genuineroot" cp="2P,2Ā,6P,6Ā,4Ā"/>

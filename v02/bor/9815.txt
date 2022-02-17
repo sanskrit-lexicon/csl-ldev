@@ -1,4 +1,4 @@
 <L>9815<pc>310<k1>germination<k2>germination
-<div n="lb"/>{@GERMINATION:@}¦ <div n="1">(1) {#अङ्कुरोद्गमः;#} </div><div n="1">(2) {#अङ्कुरोद्भेदः;#}
-<div n="lb"/>etc.</div>
+{@GERMINATION:@}¦ <div n="1">(1) {#अङ्कुरोद्गमः;#} </div><div n="1">(2) {#अङ्कुरोद्भेदः;#}
+etc.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>1064<pc>022-a<k1>appointment<k2>appointment
-<div n="lb"/>APPOINTMENT¦, {%s.%} {#नियोगः, -जनं, नियुक्तिः#} {%f.,%} {#प्रस्थापनं, निरूपणं, कल्पनं#}. — 
-<div n="lb"/>(Engagement) {#समयः, प्रज्ञप्तिः#} {%f.%} — (Breaking an appointment)
-<div n="lb"/>{#समयभेदः, समयव्यभिचारः#}. — (Stipulation) {#समयः, नियमः, सङ्केतः#}. — 
-<div n="lb"/>(Order) {#आज्ञा#}. — (Decree) {#नियमः, विधिः#} {%m.%} — (Office) {#अधिकारः,#}
-<div n="lb"/>{#पदं#}. — (Equipment, furniture) {#सज्जा, उपकरणं, सामग्री#}. — (Al-
-<div n="lb"/>lowance) {#वर्त्तनं, निरूपितमूल्यं#}. — (Assignation) {#अभिसारः#}.
+APPOINTMENT¦, {%s.%} {#नियोगः, -जनं, नियुक्तिः#} {%f.,%} {#प्रस्थापनं, निरूपणं, कल्पनं#}. — 
+(Engagement) {#समयः, प्रज्ञप्तिः#} {%f.%} — (Breaking an appointment)
+{#समयभेदः, समयव्यभिचारः#}. — (Stipulation) {#समयः, नियमः, सङ्केतः#}. — 
+(Order) {#आज्ञा#}. — (Decree) {#नियमः, विधिः#} {%m.%} — (Office) {#अधिकारः,#}
+{#पदं#}. — (Equipment, furniture) {#सज्जा, उपकरणं, सामग्री#}. — (Al-
+lowance) {#वर्त्तनं, निरूपितमूल्यं#}. — (Assignation) {#अभिसारः#}.
 <LEND>

@@ -12,16 +12,16 @@
 <ls n="ṚV.">7, 103, 5.</ls> {#इ\मां धिय\ं शिक्ष^माणस्य\ सं शि^शाधि#} 
 <ls n="ṚV.">8, 42, 3.</ls> {#सकाशादग्रजन्मनः । स्वं स्वं चरित्रं शिक्षेरन्#} 
 <ls>M. 2, 20.</ls> {#कथं द्रोणात् - सर्वाण्यस्त्राण्यशिक्षत#} 
-<ls>MBH. 1, 6326. 2, 128.</ls> {#शिक्षस्व बुद्धिं स्थविराणां सकाशात्#} 
-<ls>2126. 4, 1537.</ls> <ls>RAGH. 3, 31.</ls> <ls>ŚĀK. 23.</ls> <ls>Spr. (II) 694. 2183. (I) 2494. 5006.</ls> <ls>KATHĀS. 25, 119. 113, 23.</ls> <ls>MĀRK. P. 27, 17.</ls> {#अशिक्षिष्ट#} 
+<ls>MBH. 1, 6326.</ls> <ls n="MBH.">2, 128.</ls> {#शिक्षस्व बुद्धिं स्थविराणां सकाशात्#} 
+<ls>2126. 4, 1537.</ls> <ls>RAGH. 3, 31.</ls> <ls>ŚĀK. 23.</ls> <ls>Spr. (II) 694.</ls> <ls n="Spr. (II)">2183.</ls> <ls n="Spr.">(I) 2494. 5006.</ls> <ls>KATHĀS. 25, 119. 113, 23.</ls> <ls>MĀRK. P. 27, 17.</ls> {#अशिक्षिष्ट#} 
 <ls>BHAṬṬ. 15, 87.</ls> {#शिक्षमाण#} 
 <ls>R. GORR. 1, 80, 10.</ls> {#शिक्षाण#} 
 <ls>MBH. 3, 12048.</ls> {#शिक्षितुम्#} 
 <ls>ŚĀṄKH. BR. 7, 6</ls> in <ls>Ind. St. 1, 153, N.</ls> {#शिक्षित्वा#} 
 <ls>KATHĀS. 35, 90. 38, 60. 66.</ls> act. : {#शिक्षेत्#} 
 <ls>ŚAT. BR. 14, 8, 2, 4</ls> (ohne Noth). 
-<ls>MBH. 1, 5520. 3, 12020.</ls> 
-<ls>Spr. (II) 4654. (I) 3252.</ls> <ls>BHĀG. P. 7, 5, 22. 11, 3, 22. 33.</ls> mit einem loc. {%sich üben in%}: {#विद्यासु शिक्षते#} 
+<ls>MBH. 1, 5520.</ls> <ls n="MBH.">3, 12020.</ls> 
+<ls>Spr. (II) 4654.</ls> <ls n="Spr.">(I) 3252.</ls> <ls>BHĀG. P. 7, 5, 22. 11, 3, 22. 33.</ls> mit einem loc. {%sich üben in%}: {#विद्यासु शिक्षते#} 
 <ls>P. 1, 3, 21, <is>Vārtt</is>. 3, Schol.</ls> {#वीणासु शिक्षन्ते#} 
 <ls>KATHĀS. 106, 13.</ls> pass. {%erlernt werden%}: {#लोकयात्रा शिक्ष्यताम्#} 
 <ls>KAṬHĀS. 6, 52.</ls> {#शिक्षित#} {%erlernt%}: {#अशिक्षितनयः#} (so ist zu lesen) {#सिंहः#} 
@@ -41,10 +41,10 @@
 <ls>BHĀG. P. 8, 1, 16.</ls> {#मूढबुद्धिः प्रभुश्चायमुक्ष्णानेन शिक्ष्यते#} 
 <ls>KATHĀS. 60, 74.</ls> mit acc. der Sache 
 <ls>MBH. 1, 5099.</ls> 
-<ls>Spr. (II) 2801. (I) 2990.</ls> <ls>DAŚAK. 70, 5.</ls> <ls>BHĀG. P. 9, 10, 53.</ls> mit doppeltem acc. 
+<ls>Spr. (II) 2801.</ls> <ls n="Spr.">(I) 2990.</ls> <ls>DAŚAK. 70, 5.</ls> <ls>BHĀG. P. 9, 10, 53.</ls> mit doppeltem acc. 
 <ls>M. 2, 69.</ls> 
 <ls>YĀJÑ. 1, 15.</ls> 
-<ls>MBH. 1, 5238. 4, 56. 309.</ls> 
+<ls>MBH. 1, 5238.</ls> <ls n="MBH.">4, 56.</ls> <ls n="MBH. 4,">309.</ls> 
 <ls>KATHĀS. 6, 145. fg. 12, 28. 34, 162. 37, 113. 49, 34. 61, 168.</ls> 
 <ls>RĀJA-TAR. 4, 51.</ls> mit acc. der Person und loc. der Sache 
 <ls>MBH. 1, 5239.</ls> {#प्रजा धर्मेषु#} 
@@ -68,7 +68,7 @@
 <ls>H. 342.</ls> 
 <ls>HALĀY. 2, 180. 316</ls> (in Waffenübungen). 
 <ls>VS. 28, 15.</ls> 
-<ls>Spr. (II) 2812. (I) 3069.</ls> <ls>ŚĀK. 2.</ls> {#अ°#} 
+<ls>Spr. (II) 2812.</ls> <ls n="Spr.">(I) 3069.</ls> <ls>ŚĀK. 2.</ls> {#अ°#} 
 <ls>KATHĀS. 32, 87.</ls> 
 <ls>DAŚAK. 70, 6.</ls> 
 <ls>RĀJA-TAR. 4, 265</ls> (ein
@@ -81,7 +81,7 @@ Pferd). {#सु°#}
 <ls>BHĀG. P. 5, 10, 14.</ls>
 
 <div n="p">— {#अनु#} {%lernen, erlernen%}, mit acc. der Sache und gen. oder abl. der Person; med. 
-<ls>BHĀG. P. 5, 4, 8.</ls> <ls>?act. 4, 11, 12. 8, 1, 22. 11, 7, 35. fg.</ls> {#अनुशिक्षित#} {%gelernt, erlernt%} 
+<ls>BHĀG. P. 5, 4, 8.</ls> <ls>act. 4, 11, 12. 8, 1, 22. 11, 7, 35. fg.</ls> {#अनुशिक्षित#} {%gelernt, erlernt%} 
 <ls>UTTARAR. 48, 17 (63, 2).</ls> <ls>BHĀG. P. 6, 7, 24. 8, 3, 1.</ls> {#गुर्वनुशिक्षित#} {%vom Lehrer%} 
 <ls>7, 8, 1.</ls> Vgl. {#अनुशिक्षिन्#} . — caus. {%belehren%} 
 <ls>MBH. 1, 5761</ls> ({#°शिक्ष्य#}). 

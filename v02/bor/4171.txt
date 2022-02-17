@@ -1,10 +1,10 @@
 <L>4171<pc>135<k1>companion<k2>companion
-<div n="lb"/>{@COMPANION:@}¦ <div n="1">(1) {#सहचरः#} (f. {#री#}), <div n="xe">{%in the hand of%}
-<div n="lb"/>{%his c. spring:%}</div> <div n="xs">{#सहचरमधुहस्ते,#}</div> Ku.; </div><div n="1">(2) {#सखा#}
-<div n="lb"/>(f. {#खी#}) (=boon c.), <div n="xe">{%in the presence of her two%}
-<div n="lb"/>{%c. s.:%}</div> <div n="xs">{#सख्योः समक्षम्,#}</div> Ku.; </div><div n="1">(3) {#सहचारिन्#} (f. {#णी#}),
-<div n="lb"/><div n="xe">{%they were c. s from childhood and exceedingly%}
-<div n="lb"/>{%fond of each other:%}</div> <div n="xs">{#तौ बाल्यात् प्रभृति सहचारिणौ, #}
-<div n="lb"/>{# परस्परमतीव स्नेहपरौ,#}</div> P.: v. Also partner,
-<div n="lb"/>attendant.</div>
+{@COMPANION:@}¦ <div n="1">(1) {#सहचरः#} (f. {#री#}), <div n="xe">{%in the hand of%}
+{%his c. spring:%}</div> <div n="xs">{#सहचरमधुहस्ते,#}</div> Ku.; </div><div n="1">(2) {#सखा#}
+(f. {#खी#}) (=boon c.), <div n="xe">{%in the presence of her two%}
+{%c. s.:%}</div> <div n="xs">{#सख्योः समक्षम्,#}</div> Ku.; </div><div n="1">(3) {#सहचारिन्#} (f. {#णी#}),
+<div n="xe">{%they were c. s from childhood and exceedingly%}
+{%fond of each other:%}</div> <div n="xs">{#तौ बाल्यात् प्रभृति सहचारिणौ, #}
+{# परस्परमतीव स्नेहपरौ,#}</div> P.: v. Also partner,
+attendant.</div>
 <LEND>

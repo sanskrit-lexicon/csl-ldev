@@ -1,7 +1,7 @@
 <L>20084<pc>523-a<k1>mutter<k2>mutter
-<div n="lb"/>MUTTER¦, MUTTERING, {%s.%} (Uttering with a low voice) {#अस्पष्टोच्चारणं,#}
-<div n="lb"/>{#अव्यक्तोच्चारणं, नीचभाषणं, नीचवाक्यं, नीचस्वरेण भाषणं, उपांशु वादः#}.
-<div n="lb"/> — (Low rumbling sound) {#गर्जनं, गर्जितं, आमन्द्रशब्दः, गम्भी-#}
-<div n="lb"/>{#रशब्दः;#} ‘of clouds,’ {#मेघनिर्घोषः#}. — (Inaudible repetition of
-<div n="lb"/>prayers, &c.) {#जपः, जापः, जपनं, स्वाध्यायः, जाप्यं, जपजाप्यं, उपांशुः#} {%m.%}
+MUTTER¦, MUTTERING, {%s.%} (Uttering with a low voice) {#अस्पष्टोच्चारणं,#}
+{#अव्यक्तोच्चारणं, नीचभाषणं, नीचवाक्यं, नीचस्वरेण भाषणं, उपांशु वादः#}.
+ — (Low rumbling sound) {#गर्जनं, गर्जितं, आमन्द्रशब्दः, गम्भी-#}
+{#रशब्दः;#} ‘of clouds,’ {#मेघनिर्घोषः#}. — (Inaudible repetition of
+prayers, &c.) {#जपः, जापः, जपनं, स्वाध्यायः, जाप्यं, जपजाप्यं, उपांशुः#} {%m.%}
 <LEND>

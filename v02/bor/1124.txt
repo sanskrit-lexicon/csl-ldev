@@ -1,10 +1,10 @@
 <L>1124<pc>039<k1>art<k2>art
-<div n="lb"/>{@ART:@}¦ <div n="I">I As opposed to nature: {#शिल्पम्।#} </div><div n="I">II
-<div n="lb"/>As opposed to science: {#कला,#} <div n="xe">{%in the a. s of%}
-<div n="lb"/>{%dancing, singing, playing, and acting%}</div> <div n="xs">{#नृत्यगीत-#}
-<div n="lb"/>{#वाद्यनाट्यकलासु,#}</div> <ls>D.</ls> ii. Ph. {%the industrial a. s%}
-<div n="lb"/>{#शिल्पविद्या;#} <div n="xe">{%the fine a. s%}</div> <div n="xs">{#सङ्गीतादि-कला#}</div> (?) {%or%}
-<div n="lb"/>{#*श्रेष्ठकलाः#} (f. pl.). </div><div n="I">III Skill, dexterity:
-<div n="lb"/>q. v.: {#कौशलम्।#} </div><div n="I">IV Cunning, artifice: q. v.
-<div n="lb"/>{#छलम्।#}</div>
+{@ART:@}¦ <div n="I">I As opposed to nature: {#शिल्पम्।#} </div><div n="I">II
+As opposed to science: {#कला,#} <div n="xe">{%in the a. s of%}
+{%dancing, singing, playing, and acting%}</div> <div n="xs">{#नृत्यगीत-#}
+{#वाद्यनाट्यकलासु,#}</div> <ls>D.</ls> ii. Ph. {%the industrial a. s%}
+{#शिल्पविद्या;#} <div n="xe">{%the fine a. s%}</div> <div n="xs">{#सङ्गीतादि-कला#}</div> (?) {%or%}
+{#*श्रेष्ठकलाः#} (f. pl.). </div><div n="I">III Skill, dexterity:
+q. v.: {#कौशलम्।#} </div><div n="I">IV Cunning, artifice: q. v.
+{#छलम्।#}</div>
 <LEND>

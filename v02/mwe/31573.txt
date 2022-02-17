@@ -1,15 +1,15 @@
 <L>31573<pc>845-a<k1>work<k2>work
-<div n="lb"/>WORK¦, {%s.%} (Employment) {#कर्म्म#} {%n.%} {#(न्), व्यापारः, कार्य्यं, व्यवसायः,#}
-<div n="lb"/>{%see%} OCCUPATION; ‘a laborious work,’ {#श्रमकर्म्म#} {%n.%} — (Labour,
-<div n="lb"/>exertion) {#श्रमः, आयासः, क्लेशः, उद्योगः, उत्साहः, उद्यमः, यत्नः,#}
-<div n="lb"/>[Page845-b+ 51]
-<div n="lb"/>{#कष्टं#}. — (That which is done of made) {#कर्म्म#} {%n.%} {#(न्), कार्य्यं#}
-<div n="lb"/>{#क्रिया, कृतिः#} {%f.,%} {#कृत्यं#}. — (Composition, work of an author)
-<div n="lb"/>{#ग्रन्थः, क्रिया, कृतिः#} {%f.%} — (Religious act) {#कर्म्म#} {%n.%} {#(न्), क्रिया अनु-#}
-<div n="lb"/>{#ष्ठानं;#} ‘good works,’ {#सत्कर्म्म#} {%n.,%} {#सत्क्रिया, सुकर्म्म#} {%n.,%} {#पुण्यकर्म्म#} {%n.,%}
-<div n="lb"/>{#धर्म्मकार्य्यं, धर्म्मकृत्यं, पुण्यं, साधनं;#} ‘way of salvation by works,’
-<div n="lb"/>{#कर्म्ममार्गः;#} ‘one who seeks salvation by work,’ {#कर्म्ममार्गो#}
-<div n="lb"/>{#(न्), धूमपथः, धूम्रधीः#} {%m.;%} ‘rich in good works,’ {#पुण्यपुञ्जः,#}
-<div n="lb"/>‘reward of them,’ {#पुण्यफलं;#} ‘abandonment of them,’ {#कर्म्म-#}
-<div n="lb"/>{#त्यागः#}. — (Needle-work), {%see%} EMBROIDERY, NEEDLE-WORK.
+WORK¦, {%s.%} (Employment) {#कर्म्म#} {%n.%} {#(न्), व्यापारः, कार्य्यं, व्यवसायः,#}
+{%see%} OCCUPATION; ‘a laborious work,’ {#श्रमकर्म्म#} {%n.%} — (Labour,
+exertion) {#श्रमः, आयासः, क्लेशः, उद्योगः, उत्साहः, उद्यमः, यत्नः,#}
+[Page845-b+ 51]
+{#कष्टं#}. — (That which is done of made) {#कर्म्म#} {%n.%} {#(न्), कार्य्यं#}
+{#क्रिया, कृतिः#} {%f.,%} {#कृत्यं#}. — (Composition, work of an author)
+{#ग्रन्थः, क्रिया, कृतिः#} {%f.%} — (Religious act) {#कर्म्म#} {%n.%} {#(न्), क्रिया अनु-#}
+{#ष्ठानं;#} ‘good works,’ {#सत्कर्म्म#} {%n.,%} {#सत्क्रिया, सुकर्म्म#} {%n.,%} {#पुण्यकर्म्म#} {%n.,%}
+{#धर्म्मकार्य्यं, धर्म्मकृत्यं, पुण्यं, साधनं;#} ‘way of salvation by works,’
+{#कर्म्ममार्गः;#} ‘one who seeks salvation by work,’ {#कर्म्ममार्गो#}
+{#(न्), धूमपथः, धूम्रधीः#} {%m.;%} ‘rich in good works,’ {#पुण्यपुञ्जः,#}
+‘reward of them,’ {#पुण्यफलं;#} ‘abandonment of them,’ {#कर्म्म-#}
+{#त्यागः#}. — (Needle-work), {%see%} EMBROIDERY, NEEDLE-WORK.
 <LEND>

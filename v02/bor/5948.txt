@@ -1,11 +1,11 @@
 <L>5948<pc>191<k1>desire<k2>desire
-<div n="lb"/>{@DESIRE@}¦ (subs.): <div n="1">(1) {#इच्छा,#} <div n="xe">{%although I have not%}
-<div n="lb"/>{%satisfied your d.:%}</div> <div n="xs">{#अनिच्छापूरकोऽपि,#}</div> Sa. iii.; </div><div n="1">(2)
-<div n="lb"/>{#अभिलाषः,#} <div n="xe">{%d. for Tilottamā:%}</div> <div n="xs">{#तिलोत्तमायामभिलाषः,#}</div>
-<div n="lb"/>D. ii.; </div><div n="1">(2) {#वाञ्छा,#} <div n="xe">{%d. rises from it:%}</div> <div n="xs">{#ततो वाञ्छा #}
-<div n="lb"/>{# प्रवर्तते,#}</div> <ls>H.</ls> ; </div><div n="1">(4) {#मनोरथ:#} (wish: q. v.); </div><div n="1">(5)
-<div n="lb"/>{#कामना#} (=wish); </div><div n="1">(6) {#स्पृहा#} (=longing: q. v.);</div>
-<div n="lb"/><div n="1">(7) {#कामः#} (often =lust); </div><div n="1">(8) by desi. noun, <div n="xe">{%d.%}
-<div n="lb"/>{%to see:%}</div> <div n="xs">{#दिदृक्षा;#}</div> </div><div n="1">(9) {#इष्टम्#} (=object of d.), <div n="xe">{%be%}
-<div n="lb"/>{%united with your d.:%}</div> <div n="xs">{#इष्टेन युज्यस्व,#}</div> Sa.</div>
+{@DESIRE@}¦ (subs.): <div n="1">(1) {#इच्छा,#} <div n="xe">{%although I have not%}
+{%satisfied your d.:%}</div> <div n="xs">{#अनिच्छापूरकोऽपि,#}</div> Sa. iii.; </div><div n="1">(2)
+{#अभिलाषः,#} <div n="xe">{%d. for Tilottamā:%}</div> <div n="xs">{#तिलोत्तमायामभिलाषः,#}</div>
+D. ii.; </div><div n="1">(2) {#वाञ्छा,#} <div n="xe">{%d. rises from it:%}</div> <div n="xs">{#ततो वाञ्छा #}
+{# प्रवर्तते,#}</div> <ls>H.</ls> ; </div><div n="1">(4) {#मनोरथ:#} (wish: q. v.); </div><div n="1">(5)
+{#कामना#} (=wish); </div><div n="1">(6) {#स्पृहा#} (=longing: q. v.);</div>
+<div n="1">(7) {#कामः#} (often =lust); </div><div n="1">(8) by desi. noun, <div n="xe">{%d.%}
+{%to see:%}</div> <div n="xs">{#दिदृक्षा;#}</div> </div><div n="1">(9) {#इष्टम्#} (=object of d.), <div n="xe">{%be%}
+{%united with your d.:%}</div> <div n="xs">{#इष्टेन युज्यस्व,#}</div> Sa.</div>
 <LEND>

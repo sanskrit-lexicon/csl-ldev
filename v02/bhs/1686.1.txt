@@ -1,85 +1,85 @@
 <L>1686.1<pc>058,2<k1>अभिसंबुध्यते<k2>अभिसंबुध्यते, °ति, °बोधति, °बुधति (?),°बुद्धति
 {@abhisaṃbudhyate, °ti, °bodhati, °budhati (?),°buddhati@}¦
- (on the last two see Chap. 43, s.v. budh;
-<div n="lb">= Pali °bujjhati; very rare in Skt., recorded BR and pw
-<div n="lb">only once, ppp. °buddhaḥ, with atra, {%well skilled, learned,%}
-<div n="lb">{%enlightened%} on this matter, Mbh. Crit. ed. 3.178.27; the
-<div n="lb">pres. °bodhati implied in ger. °bodhitvā), ({@1@}) {%becomes%}
-<div n="lb">{%enlightened, attains complete enlightenment%} (i.e. becomes a
-<div n="lb">Buddha); the common meaning in BHS. Used absolutely:
-<div n="lb">°budhyati (v.l. °buddhati) Mvy 6907; fut. °bhotsyate Mvy
-<div n="lb">6905; ppp. °buddho bhagavān LV 350.15; gdve. °boddha-
-<div n="lb">vyam {%one ought to become enlightened%} Mv i.8.13; 229.10;
+(on the last two see Chap. 43, s.v. budh;
+= Pali °bujjhati; very rare in Skt., recorded BR and pw
+only once, ppp. °buddhaḥ, with atra, {%well skilled, learned,%}
+{%enlightened%} on this matter, Mbh. Crit. ed. 3.178.27; the
+pres. °bodhati implied in ger. °bodhitvā), ({@1@}) {%becomes%}
+{%enlightened, attains complete enlightenment%} (i.e. becomes a
+Buddha); the common meaning in BHS. Used absolutely:
+°budhyati (v.l. °buddhati) Mvy 6907; fut. °bhotsyate Mvy
+6905; ppp. °buddho bhagavān LV 350.15; gdve. °boddha-
+vyam {%one ought to become enlightened%} Mv i.8.13; 229.10;
 [Page059-a+ 71]
-<div n="lb">ii.133.11. Much more often with ‘cognate’ acc., regularly
-<div n="lb">anuttarāṃ samyaksaṃbodhim, {%unto supreme perfect en-%}
-<div n="lb">{%lightenment%}, the subject being a Buddha or other person:
-<div n="lb">°budhyate SP 159.4; LV 85.11; opt. °budhyeyam Sukh
-<div n="lb">11.10--11; °buddheyam Sādh 225.8; fut. °bhotsyasi SP
-<div n="lb">216.7; 220.7; °se LV 39.4--5; °sye (1 sg.) Av i.171.15;
-<div n="lb">°syante SP 207.2; 221.8; Suv 97.3; °budhiṣyam (sic!) Mv
-<div n="lb">ii.265.6; °buddhiṣyati Mv ii.313.11; °ṣyasi ii.400.14;
-<div n="lb">°ṣyāmi ii.314.16; aor. °buddhe Mv ii.285.3; ppp. °buddha,
-<div n="lb">still with acc. of complement (anuttarāṃ samyak°),
-<div n="lb">°buddho Mv i.229.11; ii.133.12; °buddho bhaviṣyati Kv
-<div n="lb">37.25; °buddhaḥ with complement bodhim Mvy 6906;
-<div n="lb">saṃbodhim an-abhisaṃbuddho Mv ii.136.14; (on the same
-<div n="lb">ppp. in passive sense see below;) ger. °buddhitvā (anutta-
-<div n="lb">rāṃ samvak°) Mv iii.111.17; 272.18; 349.6; °bodhitvā Mv
-<div n="lb">i.312.18; ii.348.15 (here v.l. °buddhitvā); inf. °boddhu-
-<div n="lb">kāmena Samādh 8.1; instead of acc., loc. of same comple-
-<div n="lb">ment, opt. °buddheyaṃ (anuttarāyāṃ samyaksaṃbodhau)
-<div n="lb">LV 38.18, and ppp. °buddhaḥ Mvy 6355; the pres. °budhy-
-<div n="lb">ate, the ppp., and the gdve., are also used passively,
-<div n="lb">subject being anuttarā samyaksaṃbodhiḥ, and the person
-<div n="lb">put in the instr.: Vaj 37.8--9 (tathāgatena…) an°rā
-<div n="lb">samy°dhir abhisaṃbuddhā, {%supreme enlightenment was%}
-<div n="lb">{%attained, realized%}; so also SP 218.11--12; LV 377.2; Divy
-<div n="lb">393.9; pres. °budhyate Vaj 41.19; gdve. °boddhavyā Kv
-<div n="lb">18.18; note also the cpd. abhisaṃbuddha-bodhis (tathā-
-<div n="lb">gataḥ) LV 377.1, {%the T. having attained enlightenment%};
-<div n="lb">({@2@}) the verb is however also used (as in the isolated Skt.
-<div n="lb">occurrence noted above) in the sense of {%learns thoroughly,%}
-<div n="lb">{%becomes skilled in, comprehends perfectly%}: SP 210.3--4
-<div n="lb">asmābhir…tathāgatajñāne abhisaṃboddhavye (loc.
-<div n="lb">abs.), {%when the T. knowledge ought to have been realized%}
-<div n="lb">(thoroughly learned) {%by us%}; Ud xviii.18 (kāyaṃ) marīcidhar-
-<div n="lb">maṃ °budhānaḥ (so oldest ms., with Pali Dhp. 46; later
-<div n="lb">mss. paribudhya caiva, see {@paribudhyati@}), {%learning to%}
-<div n="lb">{%know%} (realizing) {%the body as having the nature of a mirage%};
-<div n="lb">LV 263.21 nāsau mārgaḥ śakya evaṃ…°boddhum, {%that%}
-<div n="lb">{%Way cannot be realized%} (made the object of enlightened
-<div n="lb">understanding) {%in this manner%}; Bhīk 22b.5 kaccid evaṃ-
-<div n="lb">rūpaṃ sthānam abhisaṃbhotsyase? abhisaṃbhotsye, {%you%}
-<div n="lb">{%will learn perfectly such-and-such a point%} (of duty), {%won't%}
-<div n="lb">{%you? I will%}; ({@3@}) when the subject is dharma, and perhaps
-<div n="lb">in some other cases, it may not be clear whether the verb
-<div n="lb">means {%understands%} or {%illumines, makes clear%}; in Mv iii.314.1
-<div n="lb">dharmaḥ abhisaṃbuddho (said by the Buddha shortly
-<div n="lb">after his enlightenment) probably means {%the Law that I have%}
-<div n="lb">{%perfectly comprehended%}, but possibly {%made clear%} (to myself);
-<div n="lb">in Mv iii.331.10, 14 tathāgatenāryasmiṃ dharmavinaye
-<div n="lb">madhyamā pratipadā abhisaṃbuddhā, apparently {%the%}
-<div n="lb">{%middle course of conduct, perfectly illumined%} (made clear)
-<div n="lb">{%by the T. in the noble dharma%} (i.e. sūtras) {%and vinaya%}; Vaj
-<div n="lb">32.13 yas tathāgatena dharmo 'bhisaṃbuddho deśito
-<div n="lb">nidhyāto; Vaj 37.11--12 yaś ca…tathāgatena dharmo
-<div n="lb">'bhisambuddho deśto vā, {%realized (? made clear) or taught%};
-<div n="lb">and ({@4@}) we even find, in a few curious passages in Vaj,
-<div n="lb">the complement anuttarāṃ (or °rā) samyaksaṃbodhim
-<div n="lb">(or °dhir), as in (1) above, with dharmaḥ…abhisaṃ-
-<div n="lb">buddhaḥ; the precise meaning is not too clear: Vaj 36.8--9
-<div n="lb">asti sa kaścid dharmo yas tathāgatena dīpaṃkarasya…
-<div n="lb">antikād anuttarāṃ samy° °bodhim abhisaṃbuddhaḥ
-<div n="lb">(repeated below), {%is there any principle which has been%}
-<div n="lb">{%realized (comprehended? made clear?), unto supreme perfect%}
-<div n="lb">{%enlightenment, by the T%}. (taking it) {%from D.?%} (the transl.
-<div n="lb">in SBE 49 pt. 2, p. 132 is very loose); Vaj 37.10--11 nāsti…
-<div n="lb">dharmo yas tathāgatenānuttarāṃ samy° °bodhim °bud-
-<div n="lb">dhaḥ: and with nom. of complement, Vaj 24.2--3 asti sa kaś-
-<div n="lb">cid dharmo yas tathāgatenānuttarā samy° °bodhir ity abhi-
-<div n="lb">saṃbuddhaḥ,…{%any principle which was realized as (?)…%}
-<div n="lb">(SBE 49 pt. 2, p. 118 {%known under the name of%}); perhaps
-<div n="lb">the nom. of the complement (apparently isolated) is a
-<div n="lb">corruption for the acc., used at least twice in such a phrase.
+ii.133.11. Much more often with ‘cognate’ acc., regularly
+anuttarāṃ samyaksaṃbodhim, {%unto supreme perfect en-%}
+{%lightenment%}, the subject being a Buddha or other person:
+°budhyate SP 159.4; LV 85.11; opt. °budhyeyam Sukh
+11.10--11; °buddheyam Sādh 225.8; fut. °bhotsyasi SP
+216.7; 220.7; °se LV 39.4--5; °sye (1 sg.) Av i.171.15;
+°syante SP 207.2; 221.8; Suv 97.3; °budhiṣyam (sic!) Mv
+ii.265.6; °buddhiṣyati Mv ii.313.11; °ṣyasi ii.400.14;
+°ṣyāmi ii.314.16; aor. °buddhe Mv ii.285.3; ppp. °buddha,
+still with acc. of complement (anuttarāṃ samyak°),
+°buddho Mv i.229.11; ii.133.12; °buddho bhaviṣyati Kv
+37.25; °buddhaḥ with complement bodhim Mvy 6906;
+saṃbodhim an-abhisaṃbuddho Mv ii.136.14; (on the same
+ppp. in passive sense see below;) ger. °buddhitvā (anutta-
+rāṃ samvak°) Mv iii.111.17; 272.18; 349.6; °bodhitvā Mv
+i.312.18; ii.348.15 (here v.l. °buddhitvā); inf. °boddhu-
+kāmena Samādh 8.1; instead of acc., loc. of same comple-
+ment, opt. °buddheyaṃ (anuttarāyāṃ samyaksaṃbodhau)
+LV 38.18, and ppp. °buddhaḥ Mvy 6355; the pres. °budhy-
+ate, the ppp., and the gdve., are also used passively,
+subject being anuttarā samyaksaṃbodhiḥ, and the person
+put in the instr.: Vaj 37.8--9 (tathāgatena…) an°rā
+samy°dhir abhisaṃbuddhā, {%supreme enlightenment was%}
+{%attained, realized%}; so also SP 218.11--12; LV 377.2; Divy
+393.9; pres. °budhyate Vaj 41.19; gdve. °boddhavyā Kv
+18.18; note also the cpd. abhisaṃbuddha-bodhis (tathā-
+gataḥ) LV 377.1, {%the T. having attained enlightenment%};
+({@2@}) the verb is however also used (as in the isolated Skt.
+occurrence noted above) in the sense of {%learns thoroughly,%}
+{%becomes skilled in, comprehends perfectly%}: SP 210.3--4
+asmābhir…tathāgatajñāne abhisaṃboddhavye (loc.
+abs.), {%when the T. knowledge ought to have been realized%}
+(thoroughly learned) {%by us%}; Ud xviii.18 (kāyaṃ) marīcidhar-
+maṃ °budhānaḥ (so oldest ms., with Pali Dhp. 46; later
+mss. paribudhya caiva, see {@paribudhyati@}), {%learning to%}
+{%know%} (realizing) {%the body as having the nature of a mirage%};
+LV 263.21 nāsau mārgaḥ śakya evaṃ…°boddhum, {%that%}
+{%Way cannot be realized%} (made the object of enlightened
+understanding) {%in this manner%}; Bhīk 22b.5 kaccid evaṃ-
+rūpaṃ sthānam abhisaṃbhotsyase? abhisaṃbhotsye, {%you%}
+{%will learn perfectly such-and-such a point%} (of duty), {%won't%}
+{%you? I will%}; ({@3@}) when the subject is dharma, and perhaps
+in some other cases, it may not be clear whether the verb
+means {%understands%} or {%illumines, makes clear%}; in Mv iii.314.1
+dharmaḥ abhisaṃbuddho (said by the Buddha shortly
+after his enlightenment) probably means {%the Law that I have%}
+{%perfectly comprehended%}, but possibly {%made clear%} (to myself);
+in Mv iii.331.10, 14 tathāgatenāryasmiṃ dharmavinaye
+madhyamā pratipadā abhisaṃbuddhā, apparently {%the%}
+{%middle course of conduct, perfectly illumined%} (made clear)
+{%by the T. in the noble dharma%} (i.e. sūtras) {%and vinaya%}; Vaj
+32.13 yas tathāgatena dharmo 'bhisaṃbuddho deśito
+nidhyāto; Vaj 37.11--12 yaś ca…tathāgatena dharmo
+'bhisambuddho deśto vā, {%realized (? made clear) or taught%};
+and ({@4@}) we even find, in a few curious passages in Vaj,
+the complement anuttarāṃ (or °rā) samyaksaṃbodhim
+(or °dhir), as in (1) above, with dharmaḥ…abhisaṃ-
+buddhaḥ; the precise meaning is not too clear: Vaj 36.8--9
+asti sa kaścid dharmo yas tathāgatena dīpaṃkarasya…
+antikād anuttarāṃ samy° °bodhim abhisaṃbuddhaḥ
+(repeated below), {%is there any principle which has been%}
+{%realized (comprehended? made clear?), unto supreme perfect%}
+{%enlightenment, by the T%}. (taking it) {%from D.?%} (the transl.
+in SBE 49 pt. 2, p. 132 is very loose); Vaj 37.10--11 nāsti…
+dharmo yas tathāgatenānuttarāṃ samy° °bodhim °bud-
+dhaḥ: and with nom. of complement, Vaj 24.2--3 asti sa kaś-
+cid dharmo yas tathāgatenānuttarā samy° °bodhir ity abhi-
+saṃbuddhaḥ,…{%any principle which was realized as (?)…%}
+(SBE 49 pt. 2, p. 118 {%known under the name of%}); perhaps
+the nom. of the complement (apparently isolated) is a
+corruption for the acc., used at least twice in such a phrase.
 <LEND>

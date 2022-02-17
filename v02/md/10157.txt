@@ -1,8 +1,8 @@
 <L>10157<pc>134-3<k1>ध्यान<k2>ध्यान
 {#ध्यान#}¦dhyā‡ana, {%n.%} meditation; religious 
-<>contemplation: {@-tatpara,@} {%a.%} lost in thought; 
-<>{@-dhīra,@} {%a.%} absorbed in thought; {@-para,@} {%a. %}
-<>{%id.%}; {@-yoga,@} {%m.%} deep meditation, religious absorption; <lbinfo n="2"/>
-<> {@-vat,@} {%a.%} devoted to religious meditation; <lbinfo n="4"/>
-<> {@-sthita,@} {%pp.%} absorbed in thought.
+contemplation: {@-tatpara,@} {%a.%} lost in thought; 
+{@-dhīra,@} {%a.%} absorbed in thought; {@-para,@} {%a. %}
+{%id.%}; {@-yoga,@} {%m.%} deep meditation, religious absorption; <lbinfo n="2"/>
+ {@-vat,@} {%a.%} devoted to religious meditation; <lbinfo n="4"/>
+ {@-sthita,@} {%pp.%} absorbed in thought.
 <LEND>

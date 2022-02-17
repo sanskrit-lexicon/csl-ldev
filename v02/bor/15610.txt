@@ -1,10 +1,10 @@
 <L>15610<pc>479<k1>nurse<k2>nurse
-<div n="lb"/>{@NURSE@}¦ (v. t.): <div n="I">I To nourish: q.v.: {#वर्धयति, #}
-<div n="lb"/>{# वि-#} (c. of {#वृध्#}), <div n="xe">{%n. ed the plants:%}</div> <div n="xs">{#वृक्षकान् व्यव-#}
-<div n="lb"/>{#र्धयत्,#}</div> Ku. v. 14. </div><div n="I">II To tend: {#उप-चरति, परि-#}
-<div n="lb"/>({#चर्,#} c. 1.), <div n="xe">{%the wounded king was n.d by%}
-<div n="lb"/>{%you yourself:%}</div> <div n="xs">{#राजा शस्त्रपरिक्षतः त्वयोपचरितः स्वयम्,#}</div>
-<div n="lb"/>Ram. ii. 8. 14. </div><div n="I">III To suckle: q.v.: {#दुग्धं #}
-<div n="lb"/>{# पाययति#} (c. of {#पा#}), Sr. </div><div n="I">IV To protect,
-<div n="lb"/>cherish: q.v.</div>
+{@NURSE@}¦ (v. t.): <div n="I">I To nourish: q.v.: {#वर्धयति, #}
+{# वि-#} (c. of {#वृध्#}), <div n="xe">{%n. ed the plants:%}</div> <div n="xs">{#वृक्षकान् व्यव-#}
+{#र्धयत्,#}</div> Ku. v. 14. </div><div n="I">II To tend: {#उप-चरति, परि-#}
+({#चर्,#} c. 1.), <div n="xe">{%the wounded king was n.d by%}
+{%you yourself:%}</div> <div n="xs">{#राजा शस्त्रपरिक्षतः त्वयोपचरितः स्वयम्,#}</div>
+Ram. ii. 8. 14. </div><div n="I">III To suckle: q.v.: {#दुग्धं #}
+{# पाययति#} (c. of {#पा#}), Sr. </div><div n="I">IV To protect,
+cherish: q.v.</div>
 <LEND>

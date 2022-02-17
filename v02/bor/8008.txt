@@ -1,5 +1,5 @@
 <L>8008<pc>253<k1>exclamation<k2>exclamation
-<div n="lb"/>{@EXCLAMATION:@}¦ <div n="I">I Expressing exclamation:
-<div n="lb"/>{#आक्रोशव्यञ्जक#} (mn.) (?). </div><div n="I">II Using excla-
-<div n="lb"/>-mation: {#आक्रोशिन्#} (f. {#नी#}) (?).</div>
+{@EXCLAMATION:@}¦ <div n="I">I Expressing exclamation:
+{#आक्रोशव्यञ्जक#} (mn.) (?). </div><div n="I">II Using excla-
+-mation: {#आक्रोशिन्#} (f. {#नी#}) (?).</div>
 <LEND>

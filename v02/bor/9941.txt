@@ -1,4 +1,4 @@
 <L>9941<pc>314<k1>glass-work<k2>glass-work
-<div n="lb"/>{@GLASS-WORK:@}¦ <div n="I">I The work: {#काचकर्मन्#} (n.) (?).</div>
-<div n="lb"/><div n="I">II The place: {#*काचागारम्।#}</div>
+{@GLASS-WORK:@}¦ <div n="I">I The work: {#काचकर्मन्#} (n.) (?).</div>
+<div n="I">II The place: {#*काचागारम्।#}</div>
 <LEND>

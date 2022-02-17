@@ -1,4 +1,4 @@
 <L>10184<pc>321<k1>grandiloquence<k2>grandiloquence
-<div n="lb"/>{@GRANDILOQUENCE:@}¦ <div n="1">(1) {#अतिशयोक्तिः;#} </div><div n="1">(2) {#उच्च-#}
-<div n="lb"/>{#वादः।#}</div>
+{@GRANDILOQUENCE:@}¦ <div n="1">(1) {#अतिशयोक्तिः;#} </div><div n="1">(2) {#उच्च-#}
+{#वादः।#}</div>
 <LEND>

@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>adj.</lex> 
 <ls>P. 4, 1, 85,</ls> 
 <ls>Sch.</ls> <lex>f.</lex> {#°पत्या#} 
-<ls>?(TBR. 2, 1, 2, 2</ls> und sonst) und {#°पती#} (
+(<ls>TBR. 2, 1, 2, 2</ls> und sonst) und {#°पती#} (
 <ls>KĀTY. ŚR. 25, 14, 19.</ls> 
 <ls>KAUŚ. 79</ls>); {%von%} <is>Prajāpati</is> {%stammend, ihm gehörig, - geweiht, ihn betreffend u.s.w.%}: {#पृथ\क्सर्वे^ प्राजाप\त्याः प्रा\णाना\त्मसु^ बिभ्रति#} 
 <ls>AV. 11, 5, 22.</ls> Götter, <is>Asura</is> und Menschen 
@@ -30,10 +30,10 @@
 <ls>Ind. St. 8, 117. 230.</ls> 
 <ls>ṚV. PRĀT. 17, 7.</ls> {#कर्मन्#} 
 <ls>HARIV. 2547</ls> ({#प्रजा°#} gedr.). 
-<ls>5194. 5231.</ls> {#अस्त्र#} 
-<ls>MBH. 4, 2058. 5, 7259.</ls> 
+<ls n="HARIV.">5194.</ls> <ls n="HARIV.">5231.</ls> {#अस्त्र#} 
+<ls>MBH. 4, 2058.</ls> <ls n="MBH.">5, 7259.</ls> 
 <ls>MADHUS.</ls> in <ls>Ind. St. 1, 21.</ls> {#अहोरात्राणि#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 21.</ls> {#मान#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 21.</ls> {#मान#} 
 <ls>SŪRYAS. 14, 1. 21.</ls> {#लोक#} 
 <ls>M. 4, 182.</ls> 
 <ls>MBH. 13, 4882.</ls> {#स्थान#} 
@@ -42,11 +42,11 @@
 <ls>MĀRK. P. 96, 18.</ls> {#नक्षत्र, भ#} (meist <lex>n.</lex> mit Ergänzung dieser Substantiva) {%das%} <is>Nakṣatra</is> <is>Rohiṇi</is> 
 <ls>MBH. 5, 4840.</ls> 
 <ls>VARĀH. BṚH. S. 6, 6. 11. 7, 2. 23, 8. 31, 16.</ls> {#शकट#} {%der Wagen der%} <is>Rohiṇi</is> 
-<ls>Spr. 1886. -</ls> <ls>AIT. BR. 3, 38.</ls> <ls>VS. 24, 1.</ls> <ls>ŚAT. BR. 4, 6, 3, 3. 14, 7, 2, 5.</ls> <ls>KAUŚ. 127.</ls> <ls>MBH. 13, 3674.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 289.</ls> superlat. 
+<ls>Spr. 1886.</ls> - <ls>AIT. BR. 3, 38.</ls> <ls>VS. 24, 1.</ls> <ls>ŚAT. BR. 4, 6, 3, 3. 14, 7, 2, 5.</ls> <ls>KAUŚ. 127.</ls> <ls>MBH. 13, 3674.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 289.</ls> superlat. 
 <ls>KĀṬH. 19, 2. 21, 7.</ls> {#कृच्छ्र, उपवास#} (auch substantivisch) 
 <ls>M. 11,211.</ls> 
 <ls>YĀJÑ.3,320.</ls> 
-<ls>SAṂSK. K. 38,a.</ls> <ls>M. 11,105. 124.</ls> <ls>YĀJÑ.3,260.</ls> <ls>ĀPASTAMBA</ls> bei <ls>COLEBR. Misc. Ess. I, 118.</ls> <ls>MBH. 3,14180.</ls> (?) <ls>BHĀG. P.3,12,42.</ls> {#विवाह#} die dritte, bei <is>Manu</is> die vierte, Form der {%Eheschliessung%}, wenn der Vater die Tochter ohne Brautkauf hingiebt in der Ueberzeugung, dass die Eheleute pflichtgetreu zusammen leben werden: {#सह धर्मं चरत इति प्राजापत्यः#} 
+<ls>SAṂSK. K. 38,a.</ls> <ls>M. 11,105. 124.</ls> <ls>YĀJÑ. 3,260.</ls> <ls>ĀPASTAMBA</ls> bei <ls>COLEBR. Misc. Ess. I, 118.</ls> <ls>MBH. 3, 14180.</ls> (?) <ls>BHĀG. P. 3,12,42.</ls> {#विवाह#} die dritte, bei <is>Manu</is> die vierte, Form der {%Eheschliessung%}, wenn der Vater die Tochter ohne Brautkauf hingiebt in der Ueberzeugung, dass die Eheleute pflichtgetreu zusammen leben werden: {#सह धर्मं चरत इति प्राजापत्यः#} 
 <ls>ĀŚV. GṚHY. 1, 6.</ls> 
 <ls>M. 3, 30. 21. 9, 196.</ls> 
 <ls>MBH. 1, 2962.</ls> {#तिथि#} {%der 8te Tag in der dunkelen Hälfte des Monats%} <is>Pauṣa</is> 

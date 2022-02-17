@@ -1,8 +1,8 @@
 <L>135<pc>006<k1>accident<k2>accident
-<div n="lb"/>{@ACCIDENT:@}¦ <div n="I">I Chance, casualty: q. v. ph.
-<div n="lb"/><div n="xe">{%seen by a.%}</div> <div n="xs">{#समापत्तिदृष्टाः,#}</div> <ls>D.</ls> v.: v. Accidentally.</div>
-<div n="lb"/><div n="I">II An unlucky event: {#दुर्घटनम्#} {%or%} sim.
-<div n="lb"/>{#घटना#} (when the sense is clear). </div><div n="I">III A non-
-<div n="lb"/>-essential property: </div><div n="1">(1) {#न प्रकृतिः;#} </div><div n="1">(2) {#असहजो #}
-<div n="lb"/>{# धर्मः#} <div n="xe">{%or%}</div> <div n="xs">{#गुणः#}</div> (?)</div>
+{@ACCIDENT:@}¦ <div n="I">I Chance, casualty: q. v. ph.
+<div n="xe">{%seen by a.%}</div> <div n="xs">{#समापत्तिदृष्टाः,#}</div> <ls>D.</ls> v.: v. Accidentally.</div>
+<div n="I">II An unlucky event: {#दुर्घटनम्#} {%or%} sim.
+{#घटना#} (when the sense is clear). </div><div n="I">III A non-
+-essential property: </div><div n="1">(1) {#न प्रकृतिः;#} </div><div n="1">(2) {#असहजो #}
+{# धर्मः#} <div n="xe">{%or%}</div> <div n="xs">{#गुणः#}</div> (?)</div>
 <LEND>

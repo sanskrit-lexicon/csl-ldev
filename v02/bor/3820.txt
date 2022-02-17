@@ -1,4 +1,4 @@
 <L>3820<pc>125<k1>clientship<k2>clientship
-<div n="lb"/>{@CLIENTSHIP:@}¦ <div n="I">I Dependency: q. v.: {#अधीनता।#}</div>
-<div n="lb"/><div n="I">II In law: {#*श्रावकत्वम्।#}</div>
+{@CLIENTSHIP:@}¦ <div n="I">I Dependency: q. v.: {#अधीनता।#}</div>
+<div n="I">II In law: {#*श्रावकत्वम्।#}</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>15030<pc>459<k1>mount<k2>mount
-<div n="lb"/>{@MOUNT@}¦ (v.t.): <div n="I">I Lit.: to get up: {#आ-रोहति, #}
-<div n="lb"/>{# अधि-,#} ({#रूह्,#} c. 1.). </div><div n="I">II To furnish with
-<div n="lb"/>horses: {#आ-रोहयति, अधि-,#} (c. of {#रुह्#}). </div><div n="I">III To
-<div n="lb"/>set: {#निदधाति#} ({#धा,#} c. 3.). </div><div n="I">IV To raise:
-<div n="lb"/>{#उच्चैः करोति।#} Ph.: <div n="xe">{%to m. guard:%}</div> <div n="xs">{#रक्षास्थानमधितिष्ठति#}</div>
-<div n="lb"/>(?).</div>
+{@MOUNT@}¦ (v.t.): <div n="I">I Lit.: to get up: {#आ-रोहति, #}
+{# अधि-,#} ({#रूह्,#} c. 1.). </div><div n="I">II To furnish with
+horses: {#आ-रोहयति, अधि-,#} (c. of {#रुह्#}). </div><div n="I">III To
+set: {#निदधाति#} ({#धा,#} c. 3.). </div><div n="I">IV To raise:
+{#उच्चैः करोति।#} Ph.: <div n="xe">{%to m. guard:%}</div> <div n="xs">{#रक्षास्थानमधितिष्ठति#}</div>
+(?).</div>
 <LEND>

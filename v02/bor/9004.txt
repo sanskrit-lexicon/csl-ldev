@@ -1,5 +1,5 @@
 <L>9004<pc>285<k1>flora<k2>flora
-<div n="lb"/>{@FLORA:@}¦ <div n="I">I The goddess of flowers: {#नन्दन-#}
-<div n="lb"/>{#वनदेवता#} (?), K. </div><div n="I">II A list of plants: <div n="xe">{%f. of%}
-<div n="lb"/>{%Bengal:%}</div> <div n="xs">{#वङ्गानां पुष्पावलिः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#लताकोषः#}</div> (?).</div>
+{@FLORA:@}¦ <div n="I">I The goddess of flowers: {#नन्दन-#}
+{#वनदेवता#} (?), K. </div><div n="I">II A list of plants: <div n="xe">{%f. of%}
+{%Bengal:%}</div> <div n="xs">{#वङ्गानां पुष्पावलिः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#लताकोषः#}</div> (?).</div>
 <LEND>

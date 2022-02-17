@@ -1,4 +1,4 @@
 <L>5714<pc>183<k1>deistical<k2>deistical
-<div n="lb"/>{@DEISTICAL:@}¦ Ph.: <div n="xe">{%d. writer:%}</div> <div n="xs">{#*ईश्वरवादी लेखकः;#}</div>
-<div n="lb"/><div n="xe">{%d. work:%}</div> <div n="xs">{#ईश्वरवादविषयको ग्रन्थः।#}</div>
+{@DEISTICAL:@}¦ Ph.: <div n="xe">{%d. writer:%}</div> <div n="xs">{#*ईश्वरवादी लेखकः;#}</div>
+<div n="xe">{%d. work:%}</div> <div n="xs">{#ईश्वरवादविषयको ग्रन्थः।#}</div>
 <LEND>

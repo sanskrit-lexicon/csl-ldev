@@ -1,4 +1,4 @@
 <L>3362<pc>112<k1>certificate<k2>certificate
-<div n="lb"/>{@CERTIFICATE:@}¦ {#*निदर्शनम्,#} {%c. of good behaviour%}
-<div n="lb"/>{#*सद्व्यवहारनिदर्शनम्।#}
+{@CERTIFICATE:@}¦ {#*निदर्शनम्,#} {%c. of good behaviour%}
+{#*सद्व्यवहारनिदर्शनम्।#}
 <LEND>

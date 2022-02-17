@@ -1,4 +1,4 @@
 <L>18575<pc>571<k1>rarity<k2>rarity
-<div n="lb"/>{@RARITY:@}¦ <div n="I">I Rareness: q. v. </div><div n="I">II A rare thing:
-<div n="lb"/>{#अपूर्ववस्तु#} (n.).</div>
+{@RARITY:@}¦ <div n="I">I Rareness: q. v. </div><div n="I">II A rare thing:
+{#अपूर्ववस्तु#} (n.).</div>
 <LEND>

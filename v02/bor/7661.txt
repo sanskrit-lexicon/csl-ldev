@@ -1,19 +1,19 @@
 <L>7661<pc>242<k1>enter<k2>enter
-<div n="lb"/>{@ENTER@}¦ (v.): <div n="I">I In gen.: {#विशति, प्र-,#} (rarely
-<div n="lb"/>{#आ-, समा-,#}) (with acc.) <div n="xe">{%or%}</div> <div n="xs">{#निविशते#}</div> (with loc.)
-<div n="lb"/>(rare) ({#विश्,#} c. 6.), <div n="xe">{%e. ed the house of Vasanta-%}
-<div n="lb"/>{%senā:%}</div> <div n="xs">{#वसन्तसेनागृहं प्रविष्टः,#}</div> Mr. ii.; <div n="xe">{%if a Śuka%}
-<div n="lb"/>{%thorn e. s the foot:%}</div> <div n="xs">{#निविशते यदि शुकशिखा पदे,#}</div> N.
-<div n="lb"/>iv. </div><div n="I">II.; <div n="xe">{%e. d the hearts of the ascetics:%}</div> <div n="xs">{#तपोभृतां #}
-<div n="lb"/>{# हृदयानि समाविवेश,#}</div> Ki.; {%you e.%} ({%on your story%}):
-<div n="lb"/>{#अत्रभवान् प्रविशतु,#} D. v.: v. To begin; {%you have%}
-<div n="lb"/>{%e. ed into the sixth year%} ({%of your school life%}):
-<div n="lb"/>{#प्रविष्टोऽसि षष्ठं वर्षम्,#} K. v. To attain; <div n="xe">{%e. ed%}
-<div n="lb"/>{%into reflection:%}</div> <div n="xs">{#चिन्तां विवेश,#}</div> K.:; <div n="xe">{%e. ed into com-%}
-<div n="lb"/>{%bat:%}</div> <div n="xs">{#प्राविशातां रणे,#}</div> B. p. v. To engage in.
-<div n="lb"/>Ph.: <div n="xe">{%to e. into an alliance:%}</div> <div n="xs">{#सन्धिं करोति,#}</div> Ve.</div>
-<div n="lb"/><div n="I">II To make an entry of: {#निवेशयति, सं-,#} (c.
-<div n="lb"/>of {#विश्#}), <div n="xe">{%should e. (his) name with (his) own%}
-<div n="lb"/>{%hand:%}</div> <div n="xs">{#नाम स्वहस्तेन निवेशयेत्,#}</div> Y.; </div><div n="1">(2) (= to
-<div n="lb"/>write: q. v.).</div>
+{@ENTER@}¦ (v.): <div n="I">I In gen.: {#विशति, प्र-,#} (rarely
+{#आ-, समा-,#}) (with acc.) <div n="xe">{%or%}</div> <div n="xs">{#निविशते#}</div> (with loc.)
+(rare) ({#विश्,#} c. 6.), <div n="xe">{%e. ed the house of Vasanta-%}
+{%senā:%}</div> <div n="xs">{#वसन्तसेनागृहं प्रविष्टः,#}</div> Mr. ii.; <div n="xe">{%if a Śuka%}
+{%thorn e. s the foot:%}</div> <div n="xs">{#निविशते यदि शुकशिखा पदे,#}</div> N.
+iv. </div><div n="I">II.; <div n="xe">{%e. d the hearts of the ascetics:%}</div> <div n="xs">{#तपोभृतां #}
+{# हृदयानि समाविवेश,#}</div> Ki.; {%you e.%} ({%on your story%}):
+{#अत्रभवान् प्रविशतु,#} D. v.: v. To begin; {%you have%}
+{%e. ed into the sixth year%} ({%of your school life%}):
+{#प्रविष्टोऽसि षष्ठं वर्षम्,#} K. v. To attain; <div n="xe">{%e. ed%}
+{%into reflection:%}</div> <div n="xs">{#चिन्तां विवेश,#}</div> K.:; <div n="xe">{%e. ed into com-%}
+{%bat:%}</div> <div n="xs">{#प्राविशातां रणे,#}</div> B. p. v. To engage in.
+Ph.: <div n="xe">{%to e. into an alliance:%}</div> <div n="xs">{#सन्धिं करोति,#}</div> Ve.</div>
+<div n="I">II To make an entry of: {#निवेशयति, सं-,#} (c.
+of {#विश्#}), <div n="xe">{%should e. (his) name with (his) own%}
+{%hand:%}</div> <div n="xs">{#नाम स्वहस्तेन निवेशयेत्,#}</div> Y.; </div><div n="1">(2) (= to
+write: q. v.).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>22430<pc>707<k1>thick<k2>thick
-<div n="lb"/>{@THICK,@}¦ {@THICKLY@} (adv.): <div n="I">I Closely, densely:
-<div n="lb"/>q. v.:expr. by comp., <div n="xe">{%t. sown:%}</div> <div n="xs">{#घनोप्त#}</div> (f. {#प्ता#});
-<div n="lb"/><div n="xe">{%t. covered:%}</div> <div n="xs">{#सान्द्रावृत#}</div> (f. {#ता#}); etc. </div><div n="I">II Qui-
-<div n="lb"/>-ckly, uninterrupted: q. v.: {#निरन्तरम्।#}</div>
+{@THICK,@}¦ {@THICKLY@} (adv.): <div n="I">I Closely, densely:
+q. v.:expr. by comp., <div n="xe">{%t. sown:%}</div> <div n="xs">{#घनोप्त#}</div> (f. {#प्ता#});
+<div n="xe">{%t. covered:%}</div> <div n="xs">{#सान्द्रावृत#}</div> (f. {#ता#}); etc. </div><div n="I">II Qui-
+-ckly, uninterrupted: q. v.: {#निरन्तरम्।#}</div>
 <LEND>

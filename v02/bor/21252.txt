@@ -1,13 +1,13 @@
 <L>21252<pc>669<k1>spring<k2>spring
-<div n="lb"/>{@SPRING@}¦ (subs.): <div n="I">I The season; </div><div n="1">(1) {#वसन्तः,#}
-<div n="lb"/><div n="xe">{%s. -time:%}</div> <div n="xs">{#वसन्तकालः,#}</div> Ki.; <div n="xe">{%s. -festival:%}</div> <div n="xs">{#वसन्तोत्सवः,#}</div>
-<div n="lb"/>Pri.; <div n="xe">{%oh, how beautiful is s.:%}</div> <div n="xs">{#अहो रमणीयता #}
-<div n="lb"/>{# वसन्तस्य,#}</div> V. t.; </div><div n="1">(2) {#सुरभिः#} (rare), <div n="xe">{%beginning of%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#सुरभिमुखम्,#}</div> Ki. x. 30.; </div><div n="1">(3) {#मघुः#} (rare),
-<div n="lb"/><div n="xe">{%the s. will assist you unasked:%}</div> <div n="xs">{#मधुरनुक्तोऽपि सहाय #}
-<div n="lb"/>{# एव,#}</div> Ku. iii. 21. Ph.: <div n="xe">{%s. of life:%}</div> <div n="xs">{#अयातयामं #}
-<div n="lb"/>{# वयः,#}</div> D. viii. </div><div n="I">II Of water: {#उत्सः:#} v. Foun-
-<div n="lb"/>-tain. </div><div n="I">III Any source: q. v.: {#प्रभवः।#} </div><div n="I">IV
-<div n="lb"/>A leap: q. v.: {#उत्प्लवः।#} </div><div n="I">V An elastic body:
-<div n="lb"/>no equiv.: {#*प्लवः।#}</div>
+{@SPRING@}¦ (subs.): <div n="I">I The season; </div><div n="1">(1) {#वसन्तः,#}
+<div n="xe">{%s. -time:%}</div> <div n="xs">{#वसन्तकालः,#}</div> Ki.; <div n="xe">{%s. -festival:%}</div> <div n="xs">{#वसन्तोत्सवः,#}</div>
+Pri.; <div n="xe">{%oh, how beautiful is s.:%}</div> <div n="xs">{#अहो रमणीयता #}
+{# वसन्तस्य,#}</div> V. t.; </div><div n="1">(2) {#सुरभिः#} (rare), <div n="xe">{%beginning of%}
+{%s.:%}</div> <div n="xs">{#सुरभिमुखम्,#}</div> Ki. x. 30.; </div><div n="1">(3) {#मघुः#} (rare),
+<div n="xe">{%the s. will assist you unasked:%}</div> <div n="xs">{#मधुरनुक्तोऽपि सहाय #}
+{# एव,#}</div> Ku. iii. 21. Ph.: <div n="xe">{%s. of life:%}</div> <div n="xs">{#अयातयामं #}
+{# वयः,#}</div> D. viii. </div><div n="I">II Of water: {#उत्सः:#} v. Foun-
+-tain. </div><div n="I">III Any source: q. v.: {#प्रभवः।#} </div><div n="I">IV
+A leap: q. v.: {#उत्प्लवः।#} </div><div n="I">V An elastic body:
+no equiv.: {#*प्लवः।#}</div>
 <LEND>

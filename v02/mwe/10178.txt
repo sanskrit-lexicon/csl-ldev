@@ -1,10 +1,10 @@
 <L>10178<pc>242-a<k1>example<k2>example
-<div n="lb"/>EXAMPLE¦, {%s.%} (Pattern for imitation) {#प्रमाणं, प्रमा, आदर्शः, प्रतिरूपं,#}
-<div n="lb"/>{#प्रतिमा -मानं;#} ‘to follow an example,’ {#अनुकृ;#} ‘following an
-<div n="lb"/>example,’ {#अनुकरणं;#} ‘whatever example he sets, the world
-<div n="lb"/>follows,’ {#यत् प्रमाणं स कुरुते लोकस् तद् अनुवर्त्तते;#} ‘men follow
-<div n="lb"/>my example,’ {#मम वर्त्म मनुष्या अनुवर्त्तन्ते#} or {#अनुगच्छन्ति#}. — (Person
-<div n="lb"/>fit for an example) {#प्रमाणं, प्रमाता#} {%m.%} {#(तृ)#}. — (Instance serving
-<div n="lb"/>for illustration) {#दृष्टान्तः, निदर्शनं, उदाहारः -हरणं, उपोद्घातः;#}
-<div n="lb"/>‘for example,’ {#दृष्टान्तरूपेण, दृष्टान्तक्रमेण, यथा, तथाहि#}.
+EXAMPLE¦, {%s.%} (Pattern for imitation) {#प्रमाणं, प्रमा, आदर्शः, प्रतिरूपं,#}
+{#प्रतिमा -मानं;#} ‘to follow an example,’ {#अनुकृ;#} ‘following an
+example,’ {#अनुकरणं;#} ‘whatever example he sets, the world
+follows,’ {#यत् प्रमाणं स कुरुते लोकस् तद् अनुवर्त्तते;#} ‘men follow
+my example,’ {#मम वर्त्म मनुष्या अनुवर्त्तन्ते#} or {#अनुगच्छन्ति#}. — (Person
+fit for an example) {#प्रमाणं, प्रमाता#} {%m.%} {#(तृ)#}. — (Instance serving
+for illustration) {#दृष्टान्तः, निदर्शनं, उदाहारः -हरणं, उपोद्घातः;#}
+‘for example,’ {#दृष्टान्तरूपेण, दृष्टान्तक्रमेण, यथा, तथाहि#}.
 <LEND>

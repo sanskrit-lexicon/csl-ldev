@@ -1,7 +1,7 @@
 <L>11982<pc>289-b<k1>fraction<k2>fraction
-<div n="lb"/>FRACTION¦, {%s.%} (In arithmetic) {#भिन्नं, भागः, अंशः, राशिः#} {%m. f.,%} {#राशि-#}
-<div n="lb"/>{#-भागः, अपूर्णः;#} ‘multiplication of fractions,’ {#भिन्नगुणनं;#} ‘addi-
-<div n="lb"/>-tion,’ {#भिन्नसङ्कलितं;#} ‘subtraction,’ {#भिन्नव्यवकलितं;#} ‘division,’
-<div n="lb"/>{#भिन्नभागहरः;#} ‘square of a fraction,’ {#भिन्नवर्गः;#} ‘cube,’ {#भिन्नघनं;#}
-<div n="lb"/>‘assimilation of fractions,’ {#भागजातिः#} {%f.%}
+FRACTION¦, {%s.%} (In arithmetic) {#भिन्नं, भागः, अंशः, राशिः#} {%m. f.,%} {#राशि-#}
+{#-भागः, अपूर्णः;#} ‘multiplication of fractions,’ {#भिन्नगुणनं;#} ‘addi-
+-tion,’ {#भिन्नसङ्कलितं;#} ‘subtraction,’ {#भिन्नव्यवकलितं;#} ‘division,’
+{#भिन्नभागहरः;#} ‘square of a fraction,’ {#भिन्नवर्गः;#} ‘cube,’ {#भिन्नघनं;#}
+‘assimilation of fractions,’ {#भागजातिः#} {%f.%}
 <LEND>

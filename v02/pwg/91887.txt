@@ -12,7 +12,7 @@
 <ls>H. 839.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>HALĀY. 5, 40. -</ls> <ls>P. 3, 3, 161.</ls> <ls>KĀTY. ŚR. 1, 5, 17. 4, 3, 8.</ls> {#सवन°#} 
+<ls>HALĀY. 5, 40.</ls> - <ls>P. 3, 3, 161.</ls> <ls>KĀTY. ŚR. 1, 5, 17. 4, 3, 8.</ls> {#सवन°#} 
 <ls>24, 7, 26.</ls> {#मन्त्र°#} 
 <ls>LĀṬY. 1, 1, 2. 6, 3, 1. 10, 8, 9.</ls> 
 <ls>KAUŚ. 1.</ls> 
@@ -112,7 +112,7 @@ u.s.w. <ls>MAITRYUP. 4, 1.</ls> {#को ऽयं विधिः#} {%was ist d
 <ls>GĪT. 1, 13.</ls> {#निर्वासन°#} 
 <ls>KATHĀS. 12, 97.</ls> {#रक्षा°#} 
 <ls>34, 72.</ls> {#विवाहविधये बुद्धिं व्यधाद्वत्सेश्वरस्तयोः#} 
-<ls>?34, 104. PRAB. 8, 5 (pl.). DHŪRTAS. 83, 13. PAÑCAT. 117, 11. 260, 17. HIT. 16, 14.</ls> {#नेपथ्य°#} 
+<ls>34, 104.</ls> <ls>PRAB. 8, 5</ls> (pl.). <ls>DHŪRTAS. 83, 13.</ls> <ls>PAÑCAT. 117, 11. 260, 17.</ls> <ls>HIT. 16, 14.</ls> {#नेपथ्य°#} 
 <ls>KUMĀRAS. 7, 36.</ls> {#शृङ्गारविधिं विधाय#} 
 <ls>PAÑCAT. 36, 15.</ls> {#सकलकार्यविधौ समर्थः#} 
 <ls>Spr. (II) 1431.</ls> {#विघ्नेश°#} {%der von%} <is>Gaṇeśa</is> {%kommende Act%} so v. a. {%Hinderniss%} 
@@ -136,7 +136,7 @@ u.s.w. <ls>MAITRYUP. 4, 1.</ls> {#को ऽयं विधिः#} {%was ist d
 <ls>Spr. 2792.</ls> {#मङ्गल°#} 
 <ls>DAŚAK. 60, 10.fg.</ls> 
 <div n="2">— f) {%Schöpfung%} 
-<ls>KIR. 7, 7</ls> <ls>?(pl.). KUMĀRAS. 3, 28:</ls> 
+<ls>KIR. 7, 7</ls> (pl.). <ls>KUMĀRAS. 3, 28</ls>: 
 <div n="2">— g) {%Schicksal%} 
 <ls>AK. 1, 1, 4, 6. 3, 4, 18, 102.</ls> 
 <ls>H. 1379.</ls> 
@@ -144,17 +144,17 @@ u.s.w. <ls>MAITRYUP. 4, 1.</ls> {#को ऽयं विधिः#} {%was ist d
 <ls>MED.</ls> 
 <ls>HALĀY. 1, 86.</ls> {#शुभावह#} 
 <ls>AK. 1, 1, 4, 5.</ls> {#अहो ममोपरि विधेः संरम्भो दारुणो महान्#} 
-<ls>MBH. 3, 2562. 13, 343.</ls> {#यम, मृत्यु, काल, विधि#} 
+<ls>MBH. 3, 2562.</ls> <ls n="MBH.">13, 343.</ls> {#यम, मृत्यु, काल, विधि#} 
 <ls>R. 3, 69, 20.</ls> {#वैरिन्#} 
 <ls>MEGH. 100.</ls> 
 <ls>Spr. (II) 2060.</ls> {#पराङ्मुख#} 
-<ls>(I) 2028. 2813. fg.</ls> <ls>ŚĀK. 43.</ls> <ls>KATHĀS. 18, 267. 32, 57.</ls> <ls>RĀJA-TAR. 2, 92.</ls> <ls>MĀRK. P. 8, 183.</ls>
+(<ls>I) 2028. 2813. fg.</ls> <ls>ŚĀK. 43.</ls> <ls>KATHĀS. 18, 267. 32, 57.</ls> <ls>RĀJA-TAR. 2, 92.</ls> <ls>MĀRK. P. 8, 183.</ls>
 [Page6-1078]
 {#विधेर्वशात्#} 
 <ls>KATHĀS. 25, 273.</ls> {#°वशात्#} 
 <ls>MEGH. 6.</ls> 
 <ls>Spr. (II) 645</ls>; vgl. {#दैवो विधिः#} {%ein Gebot der Götter%} 
-<ls>(I) 4487.</ls> {#दैवविधिषु#} 
+(<ls>I) 4487.</ls> {#दैवविधिषु#} 
 <ls>3256.</ls> 
 <div n="2">— h) {%die Zeit%} 
 <ls>TRIK. 3, 3, 222.</ls> 
@@ -171,7 +171,7 @@ u.s.w. <ls>MAITRYUP. 4, 1.</ls> {#को ऽयं विधिः#} {%was ist d
 <ls>MED.</ls> 
 <ls>HALĀY. 1, 6.</ls> 
 <ls>ŚĀK. 42.</ls> 
-<ls>Spr. (II) 945. 1180. 1545. (I) 1970. 2858.</ls> <ls>NAIṢ. 22, 47. 57.</ls> <ls>PAÑCAR. 1, 2, 13. 9, 39.</ls> <is>Viṣṇu</is> 
+<ls>Spr. (II) 945.</ls> <ls n="Spr. (II)">1180.</ls> <ls n="Spr. (II)">1545.</ls> <ls n="Spr.">(I) 1970. 2858.</ls> <ls>NAIṢ. 22, 47. 57.</ls> <ls>PAÑCAR. 1, 2, 13. 9, 39.</ls> <is>Viṣṇu</is> 
 <ls>HALĀY. 1, 25.</ls> 
 <div n="2">— k) {%Arzt%} 
 <ls>RĀJA.</ls> im <ls>ŚKDR.</ls> 

@@ -1,6 +1,6 @@
 <L>16771<pc>514<k1>perfidious<k2>perfidious
-<div n="lb"/>{@PERFIDIOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#असत्यसन्ध#} (f. {#न्धा#});</div>
-<div n="lb"/><div n="1">(2) {#विश्वासधातिन्#} (f. {#नी#}): v. Treacherous;</div>
-<div n="lb"/><div n="1">(3) {#शठ#} (f. {#ठा#}): v. Wicked. </div><div n="I">II Of acts:
-<div n="lb"/>{#अनार्य#} (f. {#र्या#}): v. Dishonest.</div>
+{@PERFIDIOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#असत्यसन्ध#} (f. {#न्धा#});</div>
+<div n="1">(2) {#विश्वासधातिन्#} (f. {#नी#}): v. Treacherous;</div>
+<div n="1">(3) {#शठ#} (f. {#ठा#}): v. Wicked. </div><div n="I">II Of acts:
+{#अनार्य#} (f. {#र्या#}): v. Dishonest.</div>
 <LEND>

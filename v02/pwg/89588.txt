@@ -16,8 +16,8 @@
 <ls>BHĀG. P. 10, 11, 15.</ls> {#समाज°#} 
 <ls>MBH. 1, 6960.</ls> 
 <ls>HARIV. 4538.</ls> {#चमू°#} 
-<ls>8684.</ls> {#मञ्च°#} 
-<ls>4528. 4533.</ls> {#श्मशान°#} 
+<ls n="HARIV.">8684.</ls> {#मञ्च°#} 
+<ls n="HARIV.">4528.</ls> <ls n="HARIV.">4533.</ls> {#श्मशान°#} 
 <ls>MĀLATĪM. 77, 7.</ls> {#हयमेध°#} 
 <ls>BHĀG. P. 8, 18, 23.</ls> {#वेश°#} 
 <ls>DAŚAK. 80, 16.</ls> {#प्राच्य°, प्रतीच्य°#} so v. a. {%Bezirk%} 
@@ -33,7 +33,7 @@
 <ls>H. an.</ls> 
 <ls>VYUTP. 132.</ls> 
 <ls>SĀH. D. 117.</ls> 
-<ls>BHĀG. P.1,6,11.</ls> <ls>Verz. d. Oxf. H. 17,b, No. 63,</ls> <ls>Śl. 5.</ls> <ls>DAŚAK. 108,12.</ls> {#शृगाल°#} 
+<ls>BHĀG. P.1,6,11.</ls> <ls>Verz. d. Oxf. H. 17,b, No. 63, Śl. 5.</ls> <ls>DAŚAK. 108,12.</ls> {#शृगाल°#} 
 <ls>HARIV. 7964.</ls> 
 <div n="2">— b) = {#कुटी#} 
 <ls>MED.</ls> = {#कटी#} 

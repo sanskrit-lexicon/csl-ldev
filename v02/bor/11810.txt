@@ -1,7 +1,7 @@
 <L>11810<pc>369<k1>inattentive<k2>inattentive
-<div n="lb"/>{@INATTENTIVE:@}¦ <div n="1">(1) {#असावधानः#} ({#ना, नं#}); </div><div n="1">(2)
-<div n="lb"/>{#अनवधानः#} ({#ना, नं#}) <div n="xe">{%or%}</div> <div n="xs">{#अनवहितः#}</div> ({#ता, तं#}) (= in-
-<div n="lb"/>-advertent); </div><div n="1">(3) {#प्रमत्तः#} ({#त्ता, त्तं#}) (= careless);</div>
-<div n="lb"/><div n="1">(4) {#अमनोयोगिन्#} (f. {#नी#}) (rare); </div><div n="1">(5) {#अनवेक्षिन्#}
-<div n="lb"/>(f. {#णी#}) (= not looking after).</div>
+{@INATTENTIVE:@}¦ <div n="1">(1) {#असावधानः#} ({#ना, नं#}); </div><div n="1">(2)
+{#अनवधानः#} ({#ना, नं#}) <div n="xe">{%or%}</div> <div n="xs">{#अनवहितः#}</div> ({#ता, तं#}) (= in-
+-advertent); </div><div n="1">(3) {#प्रमत्तः#} ({#त्ता, त्तं#}) (= careless);</div>
+<div n="1">(4) {#अमनोयोगिन्#} (f. {#नी#}) (rare); </div><div n="1">(5) {#अनवेक्षिन्#}
+(f. {#णी#}) (= not looking after).</div>
 <LEND>

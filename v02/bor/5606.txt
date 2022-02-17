@@ -1,5 +1,5 @@
 <L>5606<pc>179<k1>decrease<k2>decrease
-<div n="lb"/>{@DECREASE@}¦ (subs.): <div n="1">(1) {#ह्रासः,#} {%from gradual d.:%}
-<div n="lb"/>{#अल्पाल्पह्रासात्,#} V. p.; </div><div n="1">(2) {#क्षयः#} (=gen. decay),
-<div n="lb"/><div n="xe">{%d. and increase:%}</div> <div n="xs">{#क्षयवृद्धी,#}</div> Su.; </div><div n="1">(2) {#अपक्षयः#} (rare).</div>
+{@DECREASE@}¦ (subs.): <div n="1">(1) {#ह्रासः,#} {%from gradual d.:%}
+{#अल्पाल्पह्रासात्,#} V. p.; </div><div n="1">(2) {#क्षयः#} (=gen. decay),
+<div n="xe">{%d. and increase:%}</div> <div n="xs">{#क्षयवृद्धी,#}</div> Su.; </div><div n="1">(2) {#अपक्षयः#} (rare).</div>
 <LEND>

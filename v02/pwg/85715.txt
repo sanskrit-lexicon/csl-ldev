@@ -29,7 +29,7 @@
 <ls>MBH. 9, 2254.</ls> {#महोदरस्य तल्लग्नं जङ्घायाम्#} 
 <ls>2257. fg.</ls> {#लग्नैः शङ्खनखैर्गात्रे#} (so die ed. Bomb.) 
 <ls>13, 2660.</ls> {#लग्नगर्भा विमुच्येत#} 
-<ls>?12, 13126 = HARIV. 14383</ls> ({#प्रमुच्येत#}). {#कण्ठे लग्ना#} {%am Halse hängend%} (eine Geliebte) 
+<ls n="MBH.">12, 13126</ls> = <ls>HARIV. 14383</ls> ({#प्रमुच्येत#}). {#कण्ठे लग्ना#} {%am Halse hängend%} (eine Geliebte) 
 <ls>KATHĀS. 12, 88. 37, 227.</ls> {#कण्ठलग्ना#} 
 <ls>MEGH. 110.</ls> 
 <ls>KATHĀS. 50, 98.</ls> 
@@ -80,13 +80,13 @@
 <ls>Spr. 161.</ls> {#रेखाभिर्भ्रूलग्नाभिः#} 
 <ls>VARĀH. BṚH. S. 68,78.</ls> <ls>Verz. d. Oxf. H. 202,a,43.</ls> <ls>SĀH. D. 278.</ls> {#पृष्ठे लग्नाः#} {%sich an den Rücken schmiegend%} so v. a. {%auf dem Fusse folgend%} 
 <ls>Z. d. d. m. G. 14, 572, 9.</ls> {#पृष्ठतो लग्नः#} 
-<ls>VET.</ls> in <ls>LA. (III) 20, 10.</ls> {#अस्य पृष्ठलग्नानाम्#} 
+<ls>VET. in LA. (III) 20, 10.</ls> {#अस्य पृष्ठलग्नानाम्#} 
 <ls>PAÑCAT. 125, 11. 106, 13.</ls> {#नयनं यत्र लग्नम्#} {%geheftet auf%} 
 <ls>BHĀG. P. 11, 30, 3.</ls> {#यस्मिन्मनो दृगपि नो न वियाति लग्नम्#} 
 <ls>5, 2, 16.</ls> {#मानसं तस्यां लग्नसमाधि#} 
 <ls>GĪT. 3, 15.</ls> 
 <ls>MṚCCH. 1, 4.</ls> {#मार्गे#} so v. d. {%auf dem Wege bleibend, den Weg verfolgend%} 
-<ls>VET.</ls> in <ls>LA. (III) 17, 20.</ls> {%sich berührend mit%} so v. a. {%schneidend%} (von Linien:) {#तुङ्गोर्ध्वरेखा यत्र लग्ना#} ({#प्रतिमण्डले#}) 
+<ls>VET. in LA. (III) 17, 20.</ls> {%sich berührend mit%} so v. a. {%schneidend%} (von Linien:) {#तुङ्गोर्ध्वरेखा यत्र लग्ना#} ({#प्रतिमण्डले#}) 
 <ls>GOLĀDHY.</ls> <ls>SPHUṬAGATIV. 13.</ls> {#तिर्यग्रेखा यत्र कक्षायां लग्ना#} Comm. zu 
 <ls>GOLĀDHY.</ls> <ls>GRAHMAṆAV. 13.</ls> 
 <div n="3">— β) {%sich anschliessend, unmittelbar folgend%}: {#तच्छ्रुतं यद्द्वादशवार्षिकावृष्टिः संपद्यते लग्ना#} 
@@ -94,7 +94,7 @@
 [Page6-0477]
 ({#लग्नः?#}) 
 <ls>92, 6.</ls> {#तत्र कानिचिद्वारसाणि लग्नानि#} so v. a. {%darüber gingen mehrere Tage hin%} 
-<ls>VET.</ls> in <ls>LA. (III) 19, 1.</ls> 
+<ls>VET. in LA. (III) 19, 1.</ls> 
 <div n="3">— γ) {%im Zusammenhange mit Etwas stehend%}: {#अल/ग्न#} ({#अलग्ल#} der Text) 
 <ls>ŚAT. BR. 3, 2, 4, 11.</ls> {#किमस्य वणिजो भक्तव्ययेन शाकसूपादिना परिव्ययेन लग्नम्#} so v. a. {%wie viele Unkosten fallen auf?%} 
 <ls>KULL.</ls> zu <ls>M. 7, 127.</ls> 
@@ -104,7 +104,7 @@
 <ls>HALĀY. 2, 65.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%ein Sänger, dessen Amt es ist, den Fürsten am Morgen aus dem Schlaf zu wecken%}, 
 <ls>TRIK. 2, 8, 56.</ls> 
-<div n="1">— 3) <lex>n.</lex> {%der Punkt, in dem sich zwei Linien berühren (schneiden%}), insbes. {%der Punkt, in dem der Horizont und die Bahn der Sonne oder der Planeten zusammentreffen, der Aufgangspunkt der Sonne und der Planeten%} (=  {#राशीनामुदयः#} 
+<div n="1">— 3) <lex>n.</lex> {%der Punkt, in dem sich zwei Linien berühren (schneiden%}), insbes. {%der Punkt, in dem der Horizont und die Bahn der Sonne oder der Planeten zusammentreffen, der Aufgangspunkt der Sonne und der Planeten%} (= {#राशीनामुदयः#} 
 <ls>AK. 1, 1, 2, 29.</ls> 
 <ls>TRIK.</ls> 
 <ls>H. 116.</ls> 
@@ -141,7 +141,7 @@
 u.s.w. : {#लग्नो वां शोभनो राजन्नस्ति मासेष्वितस्त्रिषु#} 
 <ls>KATHĀS. 36, 53. 52, 141. 54, 149.</ls> {#निर्णीय शुभलग्नम्#} 
 <ls>HIT. 94, 9.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 16, 11.</ls> {#लग्नो ऽनुकूलो ऽस्ति राज्ञो मासेषु षट्स्वितः#} 
+<ls>VET. in LA. (III) 16, 11.</ls> {#लग्नो ऽनुकूलो ऽस्ति राज्ञो मासेषु षट्स्वितः#} 
 <ls>KATHĀS. 32, 6.</ls> {#लग्नः कलिङ्गसेनाया देवस्य च शुभावहः । विवाहमङ्गलायेह किं नाद्यैव विलोक्यते ॥#} 
 <ls>3.</ls> {#शुभफलदमपृच्छल्लग्नम्#} 
 <ls>34, 247.</ls> {#कुलग्नेनागता गेहाद्विवाहस्तेन दूरतः#} 
@@ -162,7 +162,7 @@ v. l. {#आसादने#})
 <div n="v">— Vgl. {#रक्, लक्#} .
 
 <div n="p">— {#अनु#} {%sich heften an, unmittelbar folgen%}: {#शब्दानुलग्न#} {%dem Laute nachgehend%} 
-<ls>VET.</ls> in <ls>LA. (III) 25, 6.</ls>
+<ls>VET. in LA. (III) 25, 6.</ls>
 
 <div n="p">— {#अव#}, partic. {#अवलग्न#} {%herabhängend, hängend an%}: {#तां स्तिमितवस्त्रमिवावलग्नाम्#} 
 <ls>CAURAP. 23</ls> in <ls>HAEB. Anth. S. 231.</ls> {#स्कन्धावलग्नोद्धृतपद्मिनीक#} ({#द्विप#}) 
@@ -211,13 +211,13 @@ wohl (nicht zum simpl.) {#अवलगित#}
 <ls>KATHĀS. 101, 191.</ls> {#पुरो विलग्नैर्हरदृष्टिपातैः#} {%geheftet%} 
 <ls>KUMĀRAS. 7, 50.</ls> {#गोभिस्तृणविलग्नाभिः#} so v. a. {%auf dem Grase liegend%} 
 <ls>HARIV. 3388.</ls> {#केशिवक्त्र°#} ({#बाहु#}) {%ruhend auf%} 
-<ls>4313.</ls> {%herabhängend%}: {#स्तनद्वय#} 
+<ls n="HARIV.">4313.</ls> {%herabhängend%}: {#स्तनद्वय#} 
 <ls>R. GORR. 2, 8, 41.</ls> {#क्रौञ्ची#} wohl so v. a. {%im Käfig hängend%} 
-<ls>R.</ls> <ls>SCHL. 2, 78, 26.</ls> 
+<ls>R. SCHL. 2, 78, 26.</ls> 
 <div n="2">— b) {%vergangen, verflossen%}: {#तया सह त्वदर्थे कलहायतो ममेयती वेला विलग्ना#} 
 <ls>PAÑCAT. 207, 22.</ls> 
 <div n="2">— c) {%dünn, schmal%} (von der Taille; vgl. 2, {%b)%} {#विलग्नमध्या#} 
-<ls>MBH. 1, 6426. 3, 10054.</ls> {#वेदिविलग्नमध्या#} 
+<ls>MBH. 1, 6426.</ls> <ls n="MBH.">3, 10054.</ls> {#वेदिविलग्नमध्या#} 
 <ls>4, 1195.</ls> <ls>KUMĀRAS. 1, 39.</ls> 
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) = {#लग्न#} {%Aufgang eines Gestirns, Horoskop u.s.w.%} 
@@ -225,7 +225,7 @@ wohl (nicht zum simpl.) {#अवलगित#}
 <ls>DĪPIKĀ</ls> im <ls>ŚKDR.</ls> {#गोचरे वा विलग्ने वा ये ग्रहा रिष्टिसूचकाः । गोचरे स्वराश्यपेक्षया यदा कदापि । विलग्ने जन्मलग्ने । इति संस्कारतत्त्वम्#} 
 <ls>ŚKDR.</ls> 
 <div n="2">— b) {%Taille%} (wo Ober- und Unterkörper {%sich berühren%}; vgl. {#अवलग्न#} 1, {%c)%} 
-<ls>TRIK.</ls> <ls>H. 607.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>?(m. n.). HALĀY. 2, 362.</ls> — {#विलगित#} ({#उपतापे#}) wird 
+<ls>TRIK.</ls> <ls>H. 607.</ls> <ls>H. an.</ls> <ls>MED.</ls> (m. n.). <ls>HALĀY. 2, 362.</ls> — {#विलगित#} ({#उपतापे#}) wird 
 <ls>P. 6, 4, 24. <is>Vārtt</is>. 1</ls> auf {#लङ्ग्#} zurückgeführt.
 
 <div n="p">— {#सम्#}, partic. {#संलग्न#} {%stecken geblieben, steckend in%}: {#रजस्तमसि संलग्नं#} ({#संमग्नं#} ed. Bomb.) {#पङ्के द्विपमिवावशम्#} 

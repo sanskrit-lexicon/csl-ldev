@@ -1,8 +1,8 @@
 <L>10842<pc>342<k1>hell<k2>hell
-<div n="lb"/>{@HELL:@}¦ <div n="1">(1) {#नरकः,#} <div n="xe">{%resident of the h.:%}</div> <div n="xs">{#नरकवासिन्,#}</div> K.;</div>
-<div n="lb"/><div n="1">(2) {#निरयः,#} <div n="xe">{%leading to h.:%}</div> <div n="xs">{#निरयफलः#}</div> ({#ला, लं#}),
-<div n="lb"/>D. ii.; </div><div n="1">(6) {#पातालम्,#} <div n="xe">{%the heart of h.:%}</div> <div n="xs">{#पातालोदरम्,#}</div>
-<div n="lb"/>U. v. 14.; </div><div n="1">(4) {#रसातलम्,#} <div n="xe">{%let caste go to h.:%}</div> <div n="xs">{#जातिर्यातु #}
-<div n="lb"/>{# रसातलम्,#}</div> J. N. B. (1), </div><div n="1">(2) = place of punish-
-<div n="lb"/>-ment; (3), (4)=lower world.</div>
+{@HELL:@}¦ <div n="1">(1) {#नरकः,#} <div n="xe">{%resident of the h.:%}</div> <div n="xs">{#नरकवासिन्,#}</div> K.;</div>
+<div n="1">(2) {#निरयः,#} <div n="xe">{%leading to h.:%}</div> <div n="xs">{#निरयफलः#}</div> ({#ला, लं#}),
+D. ii.; </div><div n="1">(6) {#पातालम्,#} <div n="xe">{%the heart of h.:%}</div> <div n="xs">{#पातालोदरम्,#}</div>
+U. v. 14.; </div><div n="1">(4) {#रसातलम्,#} <div n="xe">{%let caste go to h.:%}</div> <div n="xs">{#जातिर्यातु #}
+{# रसातलम्,#}</div> J. N. B. (1), </div><div n="1">(2) = place of punish-
+-ment; (3), (4)=lower world.</div>
 <LEND>

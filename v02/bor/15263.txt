@@ -1,6 +1,6 @@
 <L>15263<pc>467<k1>naturalize<k2>naturalize
-<div n="lb"/>{@NATURALIZE:@}¦ <div n="I">I To make as if native: {#देशीयं#}
-<div n="lb"/>(f. {#यां#}) {#करोति#} (?); <div n="xe">{%n.d German:%}</div> <div n="xs">{#*लब्धजर्मना-#}
-<div n="lb"/>{#धिकारः; जर्मनीकृतः।#}</div> </div><div n="I">II To adopt: {#स्वीकरोति।#}</div>
-<div n="lb"/><div n="I">III To adapt: {#उपयुक्तं#} (f. {#क्तां#}) {#करोति।#}</div>
+{@NATURALIZE:@}¦ <div n="I">I To make as if native: {#देशीयं#}
+(f. {#यां#}) {#करोति#} (?); <div n="xe">{%n.d German:%}</div> <div n="xs">{#*लब्धजर्मना-#}
+{#धिकारः; जर्मनीकृतः।#}</div> </div><div n="I">II To adopt: {#स्वीकरोति।#}</div>
+<div n="I">III To adapt: {#उपयुक्तं#} (f. {#क्तां#}) {#करोति।#}</div>
 <LEND>

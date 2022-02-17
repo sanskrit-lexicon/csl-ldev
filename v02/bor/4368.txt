@@ -1,6 +1,6 @@
 <L>4368<pc>142<k1>confer<k2>confer
-<div n="lb"/>{@CONFER@}¦ (v. t.); {#वितरति#} ({#तॄ,#} c. l.), <div n="xe">{%to c. know-%}
-<div n="lb"/>{%ledge:%}</div> <div n="xs">{#विद्यां वितरति,#}</div> U.: v. To give. <div n="xe">{%C. a%}
-<div n="lb"/>{%favour:%}</div> <div n="xs">{#अनुगृह्वाति#}</div> ({#ग्रह्,#} c. 9.): v. To
-<div n="lb"/>favour.
+{@CONFER@}¦ (v. t.); {#वितरति#} ({#तॄ,#} c. l.), <div n="xe">{%to c. know-%}
+{%ledge:%}</div> <div n="xs">{#विद्यां वितरति,#}</div> U.: v. To give. <div n="xe">{%C. a%}
+{%favour:%}</div> <div n="xs">{#अनुगृह्वाति#}</div> ({#ग्रह्,#} c. 9.): v. To
+favour.
 <LEND>

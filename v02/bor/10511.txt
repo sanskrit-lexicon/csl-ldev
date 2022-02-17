@@ -1,7 +1,7 @@
 <L>10511<pc>331<k1>hairless<k2>hairless
-<div n="lb"/>{@HAIRLESS:@}¦ <div n="I">I Of the head: </div><div n="1">(1) {#अकेशः#} ({#शा, शं#});</div>
-<div n="lb"/><div n="1">(2) {#केशहीनः#} ({#ना, नं#}) and sim. comp. <div n="xe">{%s, like a%}
-<div n="lb"/>{%crest on a h. head:%}</div> <div n="xs">{#शिरसीव कङ्कणमपेतमूर्द्धजे,#}</div> Si. xv.
-<div n="lb"/>33. </div><div n="I">II Of the body: {#निर्लोमन्#} (mfn.) and
-<div n="lb"/>sim. comp.s.</div>
+{@HAIRLESS:@}¦ <div n="I">I Of the head: </div><div n="1">(1) {#अकेशः#} ({#शा, शं#});</div>
+<div n="1">(2) {#केशहीनः#} ({#ना, नं#}) and sim. comp. <div n="xe">{%s, like a%}
+{%crest on a h. head:%}</div> <div n="xs">{#शिरसीव कङ्कणमपेतमूर्द्धजे,#}</div> Si. xv.
+33. </div><div n="I">II Of the body: {#निर्लोमन्#} (mfn.) and
+sim. comp.s.</div>
 <LEND>

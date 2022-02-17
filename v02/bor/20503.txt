@@ -1,33 +1,33 @@
 <L>20503<pc>642<k1>side<k2>side
-<div n="lb"/>{@SIDE@}¦ (subs.): <div n="I">I Of the body: </div><div n="1">(1) {#पाश्व#}
-<div n="lb"/>(mn.), <div n="xe">{%to sleep on the left s.:%}</div> <div n="xs">{#वामपार्श्वे संविशति,#}</div>
-<div n="lb"/>Sr.; <div n="xe">{%pain in the s. s:%}</div> <div n="xs">{#पार्श्व शूलम्,#}</div> Bha.; <div n="xe">{%sleeping%}
-<div n="lb"/>{%on the s. s:%}</div> <div n="xs">{#पार्श्वशयः#}</div> ({#यी, यं#}), S. k.; </div><div n="1">(2) {#पक्षः#}
-<div n="lb"/>(rare), R. v. 72. </div><div n="I">II Of anything: {#पार्श्व#}
-<div n="lb"/>(mn.), {%in front, on the rear, and on the s. s.:%}
-<div n="lb"/>{#अग्रे पृष्ठे च पार्श्वयोः,#} A. r. vi. 1. 30.; {%rises from%}
-<div n="lb"/>({%this%}) <div n="xe">{%s. of the Meru:%}</div> <div n="xs">{#मेरोः पार्श्वात् प्रभवति,#}</div> Mat.
-<div n="lb"/>120. 67.; <div n="xe">{%keep them at the s.:%}</div> <div n="xs">{#तं पार्श्वे कुर्वन्ति,#}</div>
-<div n="lb"/><ls>K.</ls> ; {%one who remains at the s.%} (attendant):
-<div n="lb"/>{#पार्श्ववर्तिन्#} (f. {#नी#}); R. ii. 46.; {%s. by s.%}
-<div n="lb"/>(= abreast): {#पार्श्वापार्श्वि#} (adv.); {%two s. s of%}
-<div n="lb"/>{%an equation%}: {#द्वौ पक्षौ,#} Vij. </div><div n="I">III Party.: {#पक्षः,#}
-<div n="lb"/><div n="xe">{%the kings on the s. of Śiśupāla:%}</div> <div n="xs">{#शिशुपालपक्षपृथिवी-#}
-<div n="lb"/>{#भृतां गणः,#}</div> Si. xv. 47.; <div n="xe">{%opposite s.:%}</div> <div n="xs">{#प्रतिपक्षः,#}</div>
-<div n="lb"/>D. s. Ph.: {%the gods were on the s. of Arjuna:%}
-<div n="lb"/>{#देवा अर्जुनतोऽभवन्,#} S. k.; {#पाण्डवतोऽभवन्,#} Mah.
-<div n="lb"/>viii. 87. 51. </div><div n="I">IV Of consanguinity: {#पक्षः,#}
-<div n="lb"/><div n="xe">{%on the father's, mother's s.:%}</div> <div n="xs">{#पितृपक्षे, मातृपक्षे,#}</div> Mah.
-<div n="lb"/>v. 140. 10.: v. Of an argument: {#पक्षः,#} <div n="xe">{%the%}
-<div n="lb"/>{%first s.:%}</div> <div n="xs">{#पूर्वपक्षः,#}</div> S. </div><div n="I">VI Of rivers: {#पारः,#} <div n="xe">{%take me%}
-<div n="lb"/>{%on the raft to the other s. of the Jamunā:%}</div>
-<div n="lb"/><div n="xs">{#प्रापयस्व परं पारं कालिन्द्या उडुपेन माम्।#}</div> </div><div n="I">VII
-<div n="lb"/>Quarter: q. v.: </div><div n="1">(1) {#दिश्#} (f.); </div><div n="1">(2) gen.
-<div n="lb"/>expr. with {#तस्,#} {%on both s. s of the road:%}
-<div n="lb"/>{#उमयतः पथि,#} Mah. v. 83. 60.; <div n="xe">{%on one s...on%}
-<div n="lb"/>{%the other s.:%}</div> <div n="xs">{#एकतः॥।अन्यतः,#}</div> R. vi. 86.; <div n="xe">{%on%}
-<div n="lb"/>{%all s. s:%}</div> <div n="xs">{#सर्वतः,#}</div> R.; <div n="xe">{%on the left s.:%}</div> <div n="xs">{#वामतः,#}</div> D.</div>
-<div n="lb"/><div n="I">VIII In geo.: {#भुजः#} (rarely {#बाहु#} <div n="xe">{%or%}</div> <div n="xs">{#दोस्#}</div>),
-<div n="lb"/><div n="xe">{%four-s. d:%}</div> <div n="xs">{#चतुर्भुजः#}</div> ({#जा, जं#}), Li.; <div n="xe">{%s. s of a right-%}
-<div n="lb"/>{%angled triangle containing the r. a:%}</div> <div n="xs">{#भुजकोटी।#}</div></div>
+{@SIDE@}¦ (subs.): <div n="I">I Of the body: </div><div n="1">(1) {#पाश्व#}
+(mn.), <div n="xe">{%to sleep on the left s.:%}</div> <div n="xs">{#वामपार्श्वे संविशति,#}</div>
+Sr.; <div n="xe">{%pain in the s. s:%}</div> <div n="xs">{#पार्श्व शूलम्,#}</div> Bha.; <div n="xe">{%sleeping%}
+{%on the s. s:%}</div> <div n="xs">{#पार्श्वशयः#}</div> ({#यी, यं#}), S. k.; </div><div n="1">(2) {#पक्षः#}
+(rare), R. v. 72. </div><div n="I">II Of anything: {#पार्श्व#}
+(mn.), {%in front, on the rear, and on the s. s.:%}
+{#अग्रे पृष्ठे च पार्श्वयोः,#} A. r. vi. 1. 30.; {%rises from%}
+({%this%}) <div n="xe">{%s. of the Meru:%}</div> <div n="xs">{#मेरोः पार्श्वात् प्रभवति,#}</div> Mat.
+120. 67.; <div n="xe">{%keep them at the s.:%}</div> <div n="xs">{#तं पार्श्वे कुर्वन्ति,#}</div>
+<ls>K.</ls> ; {%one who remains at the s.%} (attendant):
+{#पार्श्ववर्तिन्#} (f. {#नी#}); R. ii. 46.; {%s. by s.%}
+(= abreast): {#पार्श्वापार्श्वि#} (adv.); {%two s. s of%}
+{%an equation%}: {#द्वौ पक्षौ,#} Vij. </div><div n="I">III Party.: {#पक्षः,#}
+<div n="xe">{%the kings on the s. of Śiśupāla:%}</div> <div n="xs">{#शिशुपालपक्षपृथिवी-#}
+{#भृतां गणः,#}</div> Si. xv. 47.; <div n="xe">{%opposite s.:%}</div> <div n="xs">{#प्रतिपक्षः,#}</div>
+D. s. Ph.: {%the gods were on the s. of Arjuna:%}
+{#देवा अर्जुनतोऽभवन्,#} S. k.; {#पाण्डवतोऽभवन्,#} Mah.
+viii. 87. 51. </div><div n="I">IV Of consanguinity: {#पक्षः,#}
+<div n="xe">{%on the father's, mother's s.:%}</div> <div n="xs">{#पितृपक्षे, मातृपक्षे,#}</div> Mah.
+v. 140. 10.: v. Of an argument: {#पक्षः,#} <div n="xe">{%the%}
+{%first s.:%}</div> <div n="xs">{#पूर्वपक्षः,#}</div> S. </div><div n="I">VI Of rivers: {#पारः,#} <div n="xe">{%take me%}
+{%on the raft to the other s. of the Jamunā:%}</div>
+<div n="xs">{#प्रापयस्व परं पारं कालिन्द्या उडुपेन माम्।#}</div> </div><div n="I">VII
+Quarter: q. v.: </div><div n="1">(1) {#दिश्#} (f.); </div><div n="1">(2) gen.
+expr. with {#तस्,#} {%on both s. s of the road:%}
+{#उमयतः पथि,#} Mah. v. 83. 60.; <div n="xe">{%on one s...on%}
+{%the other s.:%}</div> <div n="xs">{#एकतः॥।अन्यतः,#}</div> R. vi. 86.; <div n="xe">{%on%}
+{%all s. s:%}</div> <div n="xs">{#सर्वतः,#}</div> R.; <div n="xe">{%on the left s.:%}</div> <div n="xs">{#वामतः,#}</div> D.</div>
+<div n="I">VIII In geo.: {#भुजः#} (rarely {#बाहु#} <div n="xe">{%or%}</div> <div n="xs">{#दोस्#}</div>),
+<div n="xe">{%four-s. d:%}</div> <div n="xs">{#चतुर्भुजः#}</div> ({#जा, जं#}), Li.; <div n="xe">{%s. s of a right-%}
+{%angled triangle containing the r. a:%}</div> <div n="xs">{#भुजकोटी।#}</div></div>
 <LEND>

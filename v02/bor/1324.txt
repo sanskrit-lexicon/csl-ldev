@@ -1,11 +1,11 @@
 <L>1324<pc>047<k1>attend<k2>attend
-<div n="lb"/>{@ATTEND@}¦ (v. t.) <div n="I">I To attend on or upon: q. v.</div>
-<div n="lb"/><div n="I">II To await, stay for: q. v. {#प्रतीक्षते#} ({#ईक्ष्,#} c.
-<div n="lb"/>1.) </div><div n="I">III To be present at: </div><div n="1">(1) {#उप-तिष्ठति#}
-<div n="lb"/>({#स्था,#} c. 1.) (see Ki. vi. 29); </div><div n="1">(2) {#संनि-दधाति#}
-<div n="lb"/>or {#धत्ते#} ({#धा,#} c. 3.) <div n="xe">{%I a. ed it with my friend%}
-<div n="lb"/>{%Dhanamitra%}</div> <div n="xs">{#अहं च सह सख्या धनमित्रेण तत्र सन्नयधिषि,#}</div>
-<div n="lb"/><ls>D.</ls> ii.; </div><div n="1">(3) better by {#गच्छति, सङ्गच्छति#} {%or%}
-<div n="lb"/>{#आगच्छति, समागच्छति,#} according as it means
-<div n="lb"/>{%going%} or {%coming.%} </div><div n="I">IV To attend to: q. v.</div>
+{@ATTEND@}¦ (v. t.) <div n="I">I To attend on or upon: q. v.</div>
+<div n="I">II To await, stay for: q. v. {#प्रतीक्षते#} ({#ईक्ष्,#} c.
+1.) </div><div n="I">III To be present at: </div><div n="1">(1) {#उप-तिष्ठति#}
+({#स्था,#} c. 1.) (see Ki. vi. 29); </div><div n="1">(2) {#संनि-दधाति#}
+or {#धत्ते#} ({#धा,#} c. 3.) <div n="xe">{%I a. ed it with my friend%}
+{%Dhanamitra%}</div> <div n="xs">{#अहं च सह सख्या धनमित्रेण तत्र सन्नयधिषि,#}</div>
+<ls>D.</ls> ii.; </div><div n="1">(3) better by {#गच्छति, सङ्गच्छति#} {%or%}
+{#आगच्छति, समागच्छति,#} according as it means
+{%going%} or {%coming.%} </div><div n="I">IV To attend to: q. v.</div>
 <LEND>

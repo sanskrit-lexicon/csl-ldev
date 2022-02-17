@@ -1,8 +1,8 @@
 <L>502<pc>019<k1>aim<k2>aim
-<div n="lb"/>{@AIM@}¦ (v.): <div n="I">I To direct an arrow etc.: {#लक्षीकृत्य #}
-<div n="lb"/>{# क्षिपति, अस्यति,#} etc. Ph.: <div n="xe">{%a. ing at Śiva%}</div> <div n="xs">{#हरबद्ध-#}
-<div n="lb"/>{#लक्ष्यः,#}</div> Ku. </div><div n="I">II To aspire, endeavour to
-<div n="lb"/>attain: </div><div n="1">(1) {#आकाङ्क्षति#} ({#काङ्क्ष्,#} c. 1), <div n="xe">{%a. ing at%}
-<div n="lb"/>{%your post%}</div> <div n="xs">{#पदकाङ्क्षिणा ते,#}</div> Ku.; </div><div n="1">(2) {#ईप्सति#} (desi.
-<div n="lb"/>of {#आप्#}).</div>
+{@AIM@}¦ (v.): <div n="I">I To direct an arrow etc.: {#लक्षीकृत्य #}
+{# क्षिपति, अस्यति,#} etc. Ph.: <div n="xe">{%a. ing at Śiva%}</div> <div n="xs">{#हरबद्ध-#}
+{#लक्ष्यः,#}</div> Ku. </div><div n="I">II To aspire, endeavour to
+attain: </div><div n="1">(1) {#आकाङ्क्षति#} ({#काङ्क्ष्,#} c. 1), <div n="xe">{%a. ing at%}
+{%your post%}</div> <div n="xs">{#पदकाङ्क्षिणा ते,#}</div> Ku.; </div><div n="1">(2) {#ईप्सति#} (desi.
+of {#आप्#}).</div>
 <LEND>

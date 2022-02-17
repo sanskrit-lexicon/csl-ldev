@@ -1,5 +1,5 @@
 <L>8345<pc>264<k1>faintness<k2>faintness
-<div n="lb"/>{@FAINTNESS:@}¦ <div n="I">I Dejection, inactivity: q.v.:
-<div n="lb"/>{#अवसादः।#} </div><div n="I">II Feeblness: q.v.: {#दौर्बल्यम्।#} </div><div n="I">III
-<div n="lb"/>Dulness: {#मान्द्यम्।#}</div>
+{@FAINTNESS:@}¦ <div n="I">I Dejection, inactivity: q.v.:
+{#अवसादः।#} </div><div n="I">II Feeblness: q.v.: {#दौर्बल्यम्।#} </div><div n="I">III
+Dulness: {#मान्द्यम्।#}</div>
 <LEND>

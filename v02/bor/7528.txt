@@ -1,8 +1,8 @@
 <L>7528<pc>237<k1>encircle<k2>encircle
-<div n="lb"/>{@ENCIRCLE:@}¦ <div n="1">(1) {#परि-वेष्टयति#} ({#वेष्ट्,#} c. 10.), <div n="xe">{%e.%}
-<div n="lb"/>{%whatever be on the side:%}</div> <div n="xs">{#यत्पार्श्वतो भवति तत्परि-#}
-<div n="lb"/>{#वेष्टयन्ति,#}</div> P.; <div n="xe">{%to e. in the arms:%}</div> <div n="xs">{#भुजाभ्यां परि-#}
-<div n="lb"/>{#वेष्टयन्ति,#}</div> D.; </div><div n="1">(2) {#परिगच्छति#} ({#गम्,#} c. 2.) (= to
-<div n="lb"/>go round), <div n="xe">{%e. d by the Vetravatī:%}</div> <div n="xs">{#वेत्रवत्या परिगता,#}</div>
-<div n="lb"/>K.</div>
+{@ENCIRCLE:@}¦ <div n="1">(1) {#परि-वेष्टयति#} ({#वेष्ट्,#} c. 10.), <div n="xe">{%e.%}
+{%whatever be on the side:%}</div> <div n="xs">{#यत्पार्श्वतो भवति तत्परि-#}
+{#वेष्टयन्ति,#}</div> P.; <div n="xe">{%to e. in the arms:%}</div> <div n="xs">{#भुजाभ्यां परि-#}
+{#वेष्टयन्ति,#}</div> D.; </div><div n="1">(2) {#परिगच्छति#} ({#गम्,#} c. 2.) (= to
+go round), <div n="xe">{%e. d by the Vetravatī:%}</div> <div n="xs">{#वेत्रवत्या परिगता,#}</div>
+K.</div>
 <LEND>

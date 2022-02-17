@@ -1,15 +1,15 @@
 <L>2393<pc>082<k1>bottom<k2>bottom
-<div n="lb"/>{@BOTTOM@}¦ (subs.): <div n="I">I The lowest part: </div><div n="1">(1)
-<div n="lb"/>{#तल्लम्,#} <div n="xe">{%whose b. cannot be touched%}</div> <div n="xs">{#अतलस्पर्शः#}</div> ({#र्शा, #}
-<div n="lb"/>{# र्शं#}); <div n="xe">{%who were sitting at the b. of the tree%}</div> <div n="xs">{#तरु-#}
-<div n="lb"/>{#तलेऽवस्थितान्,#}</div> H. ii.; </div><div n="1">(2) {#अधोभागः;#} </div><div n="1">(3) {#पादः#}
-<div n="lb"/>(of a hill: v. Foot). </div><div n="I">II Fig.: Ph. <div n="xe">{%one who%}
-<div n="lb"/>{%has dived to the b. of Philosophy%}</div> <div n="xs">{#दर्शनपारदर्शी;#}</div>
-<div n="lb"/><div n="xe">{%one who has gone to the b. of all śāstras%}</div> <div n="xs">{#सकल-#}
-<div n="lb"/>{#शास्त्रपारङ्गमः,#}</div> P. i. 10; <div n="xe">{%you should examine it to%}
-<div n="lb"/>{%the b.%}</div> <div n="xs">{#त्वयेदमामूलं परीक्षितव्यम्;#}</div> <div n="xe">{%you are at the b.%}
-<div n="lb"/>{%of this mischief%}</div> <div n="xs">{#त्वमस्यानर्थस्य भूलं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#निदानम्।#}</div> </div><div n="I">III
-<div n="lb"/>A valley: q. v.; {#निम्नभूमिः।#} </div><div n="I">IV A ship:
-<div n="lb"/>q. v.: {#पोतः।#} V. Stamina: q. v. </div><div n="I">VI Dregs:
-<div n="lb"/>q. v.: {#मलम्।#}</div>
+{@BOTTOM@}¦ (subs.): <div n="I">I The lowest part: </div><div n="1">(1)
+{#तल्लम्,#} <div n="xe">{%whose b. cannot be touched%}</div> <div n="xs">{#अतलस्पर्शः#}</div> ({#र्शा, #}
+{# र्शं#}); <div n="xe">{%who were sitting at the b. of the tree%}</div> <div n="xs">{#तरु-#}
+{#तलेऽवस्थितान्,#}</div> H. ii.; </div><div n="1">(2) {#अधोभागः;#} </div><div n="1">(3) {#पादः#}
+(of a hill: v. Foot). </div><div n="I">II Fig.: Ph. <div n="xe">{%one who%}
+{%has dived to the b. of Philosophy%}</div> <div n="xs">{#दर्शनपारदर्शी;#}</div>
+<div n="xe">{%one who has gone to the b. of all śāstras%}</div> <div n="xs">{#सकल-#}
+{#शास्त्रपारङ्गमः,#}</div> P. i. 10; <div n="xe">{%you should examine it to%}
+{%the b.%}</div> <div n="xs">{#त्वयेदमामूलं परीक्षितव्यम्;#}</div> <div n="xe">{%you are at the b.%}
+{%of this mischief%}</div> <div n="xs">{#त्वमस्यानर्थस्य भूलं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#निदानम्।#}</div> </div><div n="I">III
+A valley: q. v.; {#निम्नभूमिः।#} </div><div n="I">IV A ship:
+q. v.: {#पोतः।#} V. Stamina: q. v. </div><div n="I">VI Dregs:
+q. v.: {#मलम्।#}</div>
 <LEND>

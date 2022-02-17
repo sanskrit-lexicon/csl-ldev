@@ -1,7 +1,7 @@
 <L>256<pc>011<k1>adhere<k2>adhere
-<div n="lb"/>{@ADHERE@}¦ (v. i.): <div n="1">(1) {#सज्जते#} ({#सज्ज्,#} c. 1), <div n="xe">{%who%}
-<div n="lb"/>{%a. s to my dress%}</div> <div n="xs">{#को नु निवसने मे सज्जते,#}</div> Sa. iv.;</div>
-<div n="lb"/><div n="1">(2) {#लगति, सं-,#} ({#लग्,#} c. 1) <div n="xe">{%again a. d to the%}
-<div n="lb"/>{%Sinsapa tree%}</div> <div n="xs">{#शिंशपावृक्षे पुनर्ललाग,#}</div> etc. v. To
-<div n="lb"/>stick, cling to.</div>
+{@ADHERE@}¦ (v. i.): <div n="1">(1) {#सज्जते#} ({#सज्ज्,#} c. 1), <div n="xe">{%who%}
+{%a. s to my dress%}</div> <div n="xs">{#को नु निवसने मे सज्जते,#}</div> Sa. iv.;</div>
+<div n="1">(2) {#लगति, सं-,#} ({#लग्,#} c. 1) <div n="xe">{%again a. d to the%}
+{%Sinsapa tree%}</div> <div n="xs">{#शिंशपावृक्षे पुनर्ललाग,#}</div> etc. v. To
+stick, cling to.</div>
 <LEND>

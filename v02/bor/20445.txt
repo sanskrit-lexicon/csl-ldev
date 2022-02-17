@@ -1,10 +1,10 @@
 <L>20445<pc>640<k1>show<k2>show
-<div n="lb"/>{@SHOW@}¦ (subs.): <div n="I">I Look: q. v.: </div><div n="1">(1) {#दर्शनम्;#}</div>
-<div n="lb"/><div n="1">(2) by verb. </div><div n="I">II Appearance, semblance:</div>
-<div n="lb"/><div n="1">(1) {#आभासः;#} </div><div n="1">(2) by verb: {#भाति, प्रति-#} ({#भा,#}
-<div n="lb"/>c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#भासते, अव-,#}</div> ({#भास्,#} c. 1.). </div><div n="I">III A
-<div n="lb"/>spectacle: </div><div n="1">(1) {#दृश्यम्;#} </div><div n="1">(2) {#रङ्गः#} (for amuse-
-<div n="lb"/>-ment); </div><div n="1">(3) {#यात्रा#} (= procession, theatrical s.).</div>
-<div n="lb"/><div n="I">IV Pretence: q. v.: {#व्यपदेशः।#} </div><div n="I">V Display,
-<div n="lb"/>pomp: {#आडम्बरः।#}</div>
+{@SHOW@}¦ (subs.): <div n="I">I Look: q. v.: </div><div n="1">(1) {#दर्शनम्;#}</div>
+<div n="1">(2) by verb. </div><div n="I">II Appearance, semblance:</div>
+<div n="1">(1) {#आभासः;#} </div><div n="1">(2) by verb: {#भाति, प्रति-#} ({#भा,#}
+c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#भासते, अव-,#}</div> ({#भास्,#} c. 1.). </div><div n="I">III A
+spectacle: </div><div n="1">(1) {#दृश्यम्;#} </div><div n="1">(2) {#रङ्गः#} (for amuse-
+-ment); </div><div n="1">(3) {#यात्रा#} (= procession, theatrical s.).</div>
+<div n="I">IV Pretence: q. v.: {#व्यपदेशः।#} </div><div n="I">V Display,
+pomp: {#आडम्बरः।#}</div>
 <LEND>

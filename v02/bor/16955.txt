@@ -1,6 +1,6 @@
 <L>16955<pc>519<k1>philosophy<k2>philosophy
-<div n="lb"/>{@PHILOSOPHY:@}¦ <div n="I">I Lit.: {#दर्शनम्, -शास्त्रम्,#} <div n="xe">{%learned%}
-<div n="lb"/>{%in the six schools of p.:%}</div> <div n="xs">{#षड्दर्शनवेत्ता;#}</div> <div n="xe">{%epitome of%}
-<div n="lb"/>{%all the schools of p.:%}</div> <div n="xs">{#सर्वदर्शनसंग्रहः,#}</div> D. s. </div><div n="I">II
-<div n="lb"/>Principles, theory: {#विज्ञानम्।#}</div>
+{@PHILOSOPHY:@}¦ <div n="I">I Lit.: {#दर्शनम्, -शास्त्रम्,#} <div n="xe">{%learned%}
+{%in the six schools of p.:%}</div> <div n="xs">{#षड्दर्शनवेत्ता;#}</div> <div n="xe">{%epitome of%}
+{%all the schools of p.:%}</div> <div n="xs">{#सर्वदर्शनसंग्रहः,#}</div> D. s. </div><div n="I">II
+Principles, theory: {#विज्ञानम्।#}</div>
 <LEND>

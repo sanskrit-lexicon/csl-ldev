@@ -1,4 +1,4 @@
 <L>15626<pc>479<k1>nutritiousness<k2>nutritiousness
-<div n="lb"/>{@NUTRITIOUSNESS:@}¦ <div n="1">(1) {#पुष्टिकरत्वम्;#} </div><div n="1">(2) {#पौष्टिकता;#}</div>
-<div n="lb"/><div n="1">(3) {#बृंहणत्वम्।#}</div>
+{@NUTRITIOUSNESS:@}¦ <div n="1">(1) {#पुष्टिकरत्वम्;#} </div><div n="1">(2) {#पौष्टिकता;#}</div>
+<div n="1">(3) {#बृंहणत्वम्।#}</div>
 <LEND>

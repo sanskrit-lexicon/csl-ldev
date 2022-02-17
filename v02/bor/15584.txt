@@ -1,6 +1,6 @@
 <L>15584<pc>478<k1>nuisance<k2>nuisance
-<div n="lb"/>{@NUISANCE:@}¦ <div n="I">I Of men, etc.: </div><div n="1">(1) {#उत्पातः;#} </div><div n="1">(2)
-<div n="lb"/>{#कण्टक#} (mn.) (= thorn), <div n="xe">{%clearing n.s:%}</div> <div n="xs">{#कण्टकान् #}
-<div n="lb"/>{# विशोघयन्,#}</div> D. vii. </div><div n="I">II In law: no equiv.:
-<div n="lb"/>{#*सम्पीडनम्,#} <div n="xe">{%public n.:%}</div> <div n="xs">{#*साधारणसम्पीडनम्।#}</div></div>
+{@NUISANCE:@}¦ <div n="I">I Of men, etc.: </div><div n="1">(1) {#उत्पातः;#} </div><div n="1">(2)
+{#कण्टक#} (mn.) (= thorn), <div n="xe">{%clearing n.s:%}</div> <div n="xs">{#कण्टकान् #}
+{# विशोघयन्,#}</div> D. vii. </div><div n="I">II In law: no equiv.:
+{#*सम्पीडनम्,#} <div n="xe">{%public n.:%}</div> <div n="xs">{#*साधारणसम्पीडनम्।#}</div></div>
 <LEND>

@@ -20,15 +20,15 @@
 <ls>AK. 2, 8, 2, 12.</ls> 
 <ls>H. 1233.</ls> 
 <ls>an. 2, 602.</ls> 
-<ls>MED. h. 9.</ls> <ls>HALĀY. 2, 281.</ls> <ls>MBH. 1, 6484. 2, 2086. 3, 943. 2535. 12003. 15609. 15727. 4, 1648. 10, 2. 12, 6041. 13, 3505.</ls> <ls>HARIV. 5489.</ls> <ls>RAGH. 4, 56. 5, 73. 14, 52.</ls> <ls>KATHĀS. 59, 121. 67, 24</ls> {#(°विद्यारहस्यविद्)#} . 
+<ls>MED. h. 9.</ls> <ls>HALĀY. 2, 281.</ls> <ls>MBH. 1, 6484.</ls> <ls n="MBH.">2, 2086.</ls> <ls n="MBH.">3, 943.</ls> <ls n="MBH. 3,">2535.</ls> <ls n="MBH. 3,">12003.</ls> <ls n="MBH. 3,">15609.</ls> <ls n="MBH. 3,">15727.</ls> <ls n="MBH.">4, 1648.</ls> <ls n="MBH.">10, 2.</ls> <ls n="MBH.">12, 6041.</ls> <ls n="MBH.">13, 3505.</ls> <ls>HARIV. 5489.</ls> <ls>RAGH. 4, 56. 5, 73. 14, 52.</ls> <ls>KATHĀS. 59, 121. 67, 24</ls> ({#°विद्यारहस्यविद्#}) . 
 <ls>75, 92.</ls> <ls>RĀJA-TAR. 6, 251.</ls> <ls>PRAB. 79, 8.</ls> <ls>BHĀG. P. 1, 10, 35. 14, 13. 7, 10, 65. 8, 10, 40.</ls> {%Stier%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>KUMĀRAS. 7, 49.</ls> {%Wagen%}: {#अश्वयुक्तमिव वाहम्#} 
 <ls>ŚVETĀŚV. UP. 2, 9.</ls> 
-<ls>MBH. 1, 3680. 3, 698. 11903. 15, 905.</ls> 
+<ls>MBH. 1, 3680.</ls> <ls n="MBH.">3, 698.</ls> <ls n="MBH. 3,">11903.</ls> <ls n="MBH.">15, 905.</ls> 
 <ls>BHĀG. P. 6, 8, 1.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) — {%zum Vehikel habend%}: {#वृषभ°#} {%reitend auf%} 
 <ls>MBH. 13, 891.</ls> 
 <ls>HARIV. 10682.</ls> {#सिंहवाहा#} 
-<ls>9428.</ls> {#हंस°#} 
+<ls n="HARIV.">9428.</ls> {#हंस°#} 
 <ls>BHĀG. P. 7, 3, 24.</ls> {#गरुड°, इभारि°#} 
 <ls>8, 10, 55.</ls> {#सिंह°#} 
 <ls>11, 14.</ls> {#विमान°#} {%fahrend in%} 
@@ -39,8 +39,8 @@
 <ls>AK. 2, 9, 89.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> = <is>Droṇī</is> 
-<ls>ŚĀRṄG. SAṂH. 1, 1, 21.</ls> <ls>?= 4</ls> <is>Bhāra</is> 
-<ls>BHAR.</ls> zu <ls>AK.</ls> <ls>?= 10</ls> <is>Kumbha</is> 
+<ls>ŚĀRṄG. SAṂH. 1, 1, 21.</ls> = <ls>4</ls> <is>Bhāra</is> 
+<ls>BHAR.</ls> zu <ls>AK.</ls> = <ls>10</ls> <is>Kumbha</is> 
 <ls>SVĀMIN</ls> zu <ls>AK.</ls> nach <ls>ŚKDR.</ls> 
 <div n="2">— d) bildliche Bez. des <is>Veda</is> 
 <ls>KUVALAY. 105,b,4.</ls> 
@@ -48,7 +48,7 @@
 <ls>MBH. 12, 9384.</ls> {%das Fahren, Reiten%} 
 <ls>Spr. 3812.</ls> 
 <ls>KULL.</ls> zu <ls>M. 4, 172.</ls> <ls>KATHĀS. 62, 157.</ls> {%das Tragen%}: {#अतिभार°#} 
-<ls>HIT. 81, 12 </ls> (v. l. {#वाहन)#} . {%Strömung%}: {#गङ्गायमुनयोर्वाहौ#} 
+<ls>HIT. 81, 12</ls> (v. l. {#वाहन)#} . {%Strömung%}: {#गङ्गायमुनयोर्वाहौ#} 
 <ls>KATHĀS. 93, 81.</ls> {#चन्दनसंछन्नवाहनिर्झर#} 
 <ls>90, 38.</ls> 
 <div n="v">— Vgl. {#अग्नि°, अज°, अम्बु°#} ({%Wolke%} auch 

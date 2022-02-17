@@ -1,8 +1,8 @@
 <L>16844<pc>516<k1>persevering<k2>persevering
-<div n="lb"/>{@PERSEVERING@}¦ (adj.): <div n="1">(1) {#अभियोगभाज्#} (mfn.)
-<div n="lb"/>K. iii. 40.; </div><div n="1">(2) {#अभिनिवेशवत्#} (f. {#ती#}), M. n.;</div>
-<div n="lb"/><div n="1">(3) {#अभियुक्त#} (f. {#क्ता#}), <div n="xe">{%fate cannot be changed%}
-<div n="lb"/>{%even by perseverance:%}</div> <div n="xs">{#न हि शक्यं दैवमन्यथाकर्तुमभि-#}
-<div n="lb"/>{#युक्तेनापि,#}</div> K.; </div><div n="1">(4) {#अभिनिविष्ट#} (f. {#ष्टा#}); </div><div n="1">(5) {#अध्य-#}
-<div n="lb"/>{#वसायिन्#} (f. {#नी#}); etc.</div>
+{@PERSEVERING@}¦ (adj.): <div n="1">(1) {#अभियोगभाज्#} (mfn.)
+K. iii. 40.; </div><div n="1">(2) {#अभिनिवेशवत्#} (f. {#ती#}), M. n.;</div>
+<div n="1">(3) {#अभियुक्त#} (f. {#क्ता#}), <div n="xe">{%fate cannot be changed%}
+{%even by perseverance:%}</div> <div n="xs">{#न हि शक्यं दैवमन्यथाकर्तुमभि-#}
+{#युक्तेनापि,#}</div> K.; </div><div n="1">(4) {#अभिनिविष्ट#} (f. {#ष्टा#}); </div><div n="1">(5) {#अध्य-#}
+{#वसायिन्#} (f. {#नी#}); etc.</div>
 <LEND>

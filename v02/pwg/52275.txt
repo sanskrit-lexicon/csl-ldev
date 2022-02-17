@@ -43,16 +43,16 @@
 <ls>LĀṬY. 8, 5, 4.</ls> 
 <ls>BHAG. 18, 24.</ls> 
 <ls>N. 13, 11. 35.</ls> 
-<ls>MBH. 1, 1347. fg. 2292. 5173. 7276. 7905. 4, 292. 934. 1250. 5, 1967.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 89, 13.</ls> 
+<ls>MBH. 1, 1347. fg.</ls> <ls n="MBH. 1,">2292.</ls> <ls n="MBH. 1,">5173.</ls> <ls n="MBH. 1,">7276.</ls> <ls n="MBH. 1,">7905.</ls> <ls n="MBH.">4, 292.</ls> <ls n="MBH. 4,">934.</ls> <ls n="MBH. 4,">1250.</ls> <ls n="MBH.">5, 1967.</ls> 
+
+<ls>R. GORR. 2, 89, 13.</ls> 
 <ls>Spr. 2475. 2744. 3317.</ls> 
 <ls>BHĀG. P. 3, 28, 33.</ls> {#बहुल आत्मा वैश्वानरः#} 
 <ls>CHĀND. UP. 5, 15, 1.</ls> compar. in Verbindung mit {#विद्या#} 
 <ls>ŚAT. BR. 4, 2, 3, 8.</ls> {%reich an, voll von Etwas%} (instr., in der Regel im comp. vorangehend): {#बहुलो ऽसि प्रजया च धनेन च#} 
 <ls>CHĀND. UP. 5, 15, 1.</ls> {#व्याधि° (ग्राम)#} 
 <ls>M. 4, 60.</ls> {#दोष° (वन)#} 
-<ls>MBH. 3, 49. 5, 7368. 13, 6403.</ls> 
+<ls>MBH. 3, 49.</ls> <ls n="MBH.">5, 7368.</ls> <ls n="MBH.">13, 6403.</ls> 
 <ls>BHAG. 2, 43.</ls> {#कुमारीबहुलाः स्त्रियः#} {%unter denen viele Jungfrauen sind%} 
 <ls>R. 2, 65, 9. 3, 39, 29. 6, 28, 25. fg.</ls> 
 <ls>Spr. 935. 2032. 3520. 4136.</ls> 
@@ -63,7 +63,7 @@
 <ls>Sch.</ls> {#दिव्यस्त्रीगीतबहुलो मारुतो ऽभिमुखो ववौ#} {%begleitet von%} 
 <ls>MBH. 13, 642.</ls> Vgl. {#पात्रे°#}.{# बहुलम्#} adv. {%oft%} 
 <ls>NIR. 2, 24. 3, 18. 7, 3. 4. 11, 2.</ls> 
-<ls>ṚV. PRĀT. 16, 49.</ls> <ls>VS. PRĀT. 3, 17.</ls> <ls>AV. PRĀT. 3, 8.</ls> <ls n="AV. PRĀT. 3,">13.</ls> <ls n="AV. PRĀT. 3,">17.</ls> <ls>P. 2, 4, 39. 73. 76. 3, 2, 88. 5, 2, 122. 6, 1, 34. 7, 1, 8 u.s.w.</ls> <ls>VOP. 26, 220.</ls> 
+<ls>ṚV. PRĀT. 16, 49.</ls> <ls>VS. PRĀT. 3, 17.</ls> <ls>AV. PRĀT. 3, 8.</ls> <ls n="AV. PRĀT. 3,">13.</ls> <ls n="AV. PRĀT. 3,">17.</ls> <ls>P. 2, 4, 39. 73. 76. 3, 2, 88. 5, 2, 122. 6, 1, 34. 7, 1, 8</ls> u.s.w. <ls>VOP. 26, 220.</ls> 
 <div n="2">— d) {%schwarz%} 
 <ls>AK. 3, 4, 26, 201.</ls> 
 <ls>H. an.</ls> 
@@ -77,7 +77,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 1, 50.</ls> 
-<ls>MBH. 1, 1292. 13, 6040. 6042. 6162.</ls> 
+<ls>MBH. 1, 1292.</ls> <ls n="MBH.">13, 6040.</ls> <ls n="MBH. 13,">6042.</ls> <ls n="MBH. 13,">6162.</ls> 
 <ls>RAGH. 11, 15.</ls> 
 <ls>KUMĀRAS. 4, 13. 7, 8.</ls> 
 <ls>RĀJA-TAR. 6, 148.</ls> 
@@ -107,7 +107,7 @@
 <ls>MED.</ls> 
 <div n="2">— c) {%die Indigopflanze%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
-<div n="2">— d) {%die Plejaden%} {#(कृत्तिकाः)#} 
+<div n="2">— d) {%die Plejaden%} ({#कृत्तिकाः#}) 
 <ls>AK. 3, 4, 26, 201.</ls> 
 <ls>H. 109.</ls> 
 <ls>MED.</ls> 
@@ -122,9 +122,9 @@
 <div n="2">— g) N. pr. der Gattin <is>Uttama's</is>, eines Sohnes des <is>Uttānapāda</is>, einer <is>Bābhravyā</is>, 
 <ls>MĀRK. P. 69, 6.</ls> 
 <div n="2">— h) N. pr. einer mythischen Kuh 
-<ls>COLEBR. Misc. Ess.</ls> <ls>?I,193, N. Verz. d. Oxf. H.5,b,33 (Verz. d. B. H. No. 436)</ls>; vgl. 3,a. 
+<ls>COLEBR. Misc. Ess. I,193, N.</ls> <ls>Verz. d. Oxf. H.5,b,33 (Verz. d. B. H. No. 436)</ls>; vgl. 3,a. 
 <div n="2">— i) N. pr. eines Flusses 
-<ls>MBH. 6, 330</ls> <ls>?(VP. 183).</ls> 
+<ls>MBH. 6, 330</ls> (<ls>VP. 183).</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Luft%} 
 <ls>H. an.</ls> <ls>MED.</ls> 

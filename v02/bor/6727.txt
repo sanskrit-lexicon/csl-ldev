@@ -1,9 +1,9 @@
 <L>6727<pc>215<k1>dog<k2>dog
-<div n="lb"/>{@DOG@}¦ (subs.): <div n="I">I The animal: </div><div n="1">(1) {#कुक्करः,#}
-<div n="lb"/><div n="xe">{%barked at by d. s:%}</div> <div n="xs">{#कुक्कुरैर्वुक्क्यमानः,#}</div> Mr.; <div n="xe">{%to throw to%}
-<div n="lb"/>{%the d. s:%}</div> <div n="xs">{#कुक्कुरेभ्यः क्षिपति#}</div> (?); </div><div n="1">(2) {#श्वन्#} (m.),
-<div n="lb"/><div n="xe">{%human d.:%}</div> <div n="xs">{#श्वनरः,#}</div> Mah.; <div n="xe">{%let go the d. s:%}</div> <div n="xs">{#विमुच्यन्तां #}
-<div n="lb"/>{# श्वानः,#}</div> K.; <div n="xe">{%all that will go to the d. s:%}</div> <div n="xs">{#तत् सर्वं शुनो #}
-<div n="lb"/>{# गच्छेत्,#}</div> M. viii. 90. Ph.: <div n="xe">{%hunting-d.:%}</div> <div n="xs">{#आखेटिकः;#}</div>
-<div n="lb"/><div n="xe">{%mad-d.:%}</div> <div n="xs">{#अलर्कः।#}</div> </div><div n="I">II A constellation: {#श्वनक्षत्रम्।#}</div>
+{@DOG@}¦ (subs.): <div n="I">I The animal: </div><div n="1">(1) {#कुक्करः,#}
+<div n="xe">{%barked at by d. s:%}</div> <div n="xs">{#कुक्कुरैर्वुक्क्यमानः,#}</div> Mr.; <div n="xe">{%to throw to%}
+{%the d. s:%}</div> <div n="xs">{#कुक्कुरेभ्यः क्षिपति#}</div> (?); </div><div n="1">(2) {#श्वन्#} (m.),
+<div n="xe">{%human d.:%}</div> <div n="xs">{#श्वनरः,#}</div> Mah.; <div n="xe">{%let go the d. s:%}</div> <div n="xs">{#विमुच्यन्तां #}
+{# श्वानः,#}</div> K.; <div n="xe">{%all that will go to the d. s:%}</div> <div n="xs">{#तत् सर्वं शुनो #}
+{# गच्छेत्,#}</div> M. viii. 90. Ph.: <div n="xe">{%hunting-d.:%}</div> <div n="xs">{#आखेटिकः;#}</div>
+<div n="xe">{%mad-d.:%}</div> <div n="xs">{#अलर्कः।#}</div> </div><div n="I">II A constellation: {#श्वनक्षत्रम्।#}</div>
 <LEND>

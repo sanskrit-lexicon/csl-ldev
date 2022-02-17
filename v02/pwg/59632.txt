@@ -5,7 +5,7 @@
 <ls>M. 9, 72.</ls> {#रिक्थ#} 
 <ls>192.</ls> {#धन#} 
 <ls>DĀYABH. 127, 4.</ls> {#अन्वय#} 
-<ls>MBH. 6, 4043. 4046.</ls> 
+<ls>MBH. 6, 4043.</ls> <ls n="MBH. 6,">4046.</ls> 
 <ls>Spr. 2171.</ls> 
 <ls>RAGH. 11, 64. 90.</ls> {#तिस्रः पूज्याः पितुः पक्षे तिस्रः पूज्याश्च मातृके#} 
 <ls>SAṂSK. K. 24,a,2.</ls> {#न पित्र्य- मनुवर्तन्ते मातृकं द्विपदाः#} {%die Natur der Mutter%} 
@@ -29,11 +29,11 @@
 <div n="2">— d) {%Grossmutter%} 
 <ls>VAIJ.</ls> bei <ls>WILSON, DAŚAK. 62, N.</ls> {#न मातुर्मातृकाया वा शासनातिवृत्तिः#} 
 <ls>DAŚAK. 62, 8.</ls> 
-<div n="2">— e) Bez. {%von acht Gefässen%} {#(सिरा)#} {%auf beiden Seiten des Nackens%} (wohl nach den {%acht göttlichen Müttern%} so genannt) 
+<div n="2">— e) Bez. {%von acht Gefässen%} ({#सिरा#}) {%auf beiden Seiten des Nackens%} (wohl nach den {%acht göttlichen Müttern%} so genannt) 
 <ls>SUŚR. 1, 345, 11. 15. 350, 8.</ls> 
 <div n="2">— f) Bez. {%der in Diagramme u.s.w. geschriebenen Buchstaben, denen eine magische Kraft beigelegt wird%}; coll. auch {%die Gesammtheit solcher Buchstaben, das in solcher Weise angewandte Alphabet.%} Ursprünglich hiessen so (nach den {%16 göttlichen Müttern)%} wohl nur {%die 14 Vocale mit dem%} <is>Anusvāra</is> {%und dem%} <is>Visarga</is>. = {#स्वर#} 
 <ls>H. an.</ls> = {#वर्णसमाम्नाय#} und {#वर्णमाला#} 
-<ls>H. an.</ls> <ls>MED. -</ls> <ls>PAÑCAR.3,15,18.</ls> <ls>Verz. d. Oxf. H. 105,a,2.</ls> {#°वर्ण#} 
+<ls>H. an.</ls> <ls>MED.</ls> - <ls>PAÑCAR.3,15,18.</ls> <ls>Verz. d. Oxf. H. 105,a,2.</ls> {#°वर्ण#} 
 <ls>5. 7.</ls> {#मातृकार्ण#} dass. 
 <ls>149,b,30. 39. 42.</ls> {#चतुर्मातृकासंयुतं वं शं षं सं इति क्रमात्#} 
 <ls>27.</ls> <ls>Ind. St. 9, 113.</ls> {#°न्यास#} 
@@ -49,7 +49,7 @@
 <ls>H. an.</ls> 
 <div n="2">— i) bei den Buddhisten Bez. des <is>Abhidharmapiṭaka</is> 
 <ls>BURN. Intr. 46. 48. 317,</ls> 
-<ls>N. 2.</ls> <ls>SCHIEFNER,</ls> <ls>Lebensb. 307 (77).</ls> {#°धर#} 
+<ls>N. 2.</ls> <ls>SCHIEFNER, Lebensb. 307 (77).</ls> {#°धर#} 
 <ls>VYUTP. 124.</ls> 
 <div n="2">— k) N. pr. der Gattin <is>Aryaman's</is> 
 <ls>BHĀG. P. 6, 6, 40.</ls> 

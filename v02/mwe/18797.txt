@@ -1,22 +1,22 @@
 <L>18797<pc>484-a<k1>marriage<k2>marriage
-<div n="lb"/>MARRIAGE¦, {%s.%} {#विवाहः, उद्वाहः -हनं, उद्वहनं, परिणयः -यनं, पाणिग्रहः#}
-<div n="lb"/>{#-हणं, पाणिग्राहः, पाणिपीडनं, हस्तेकरणं, दारपरिग्रहः, दारसङ्ग्रहः,#}
-<div n="lb"/>{#दारक्रिया, दारकर्म्म#} {%n.%} {#(न्), दाराधिगमनं, उपयमः, उपयामः, लग्न-#}
-<div n="lb"/>{#कार्य्यं, मैथुनं, वाधुक्यं, निवेशः;#} ‘marriage-rite,’ {#विवाहविधिः#} {%m.,%}
-<div n="lb"/>{#विवाहक्रिया, विवाहसंस्कारः;#} ‘giving in marriage,’ {#दारिकादानं,#}
-<div n="lb"/>{#दारिकाप्रदानं;#} ‘marriage-contract,’ {#वाङ्निश्चयः;#} ‘marriage-
-<div n="lb"/>settlement,’ {#शुल्कः -ल्कं;#} ‘auspicious season for marriage,’
-<div n="lb"/>{#लग्नतिथिः#} {%f.,%} {#लग्नमुहूर्त्तः -र्त्तं;#} ‘marriage-string, or ring hung
-<div n="lb"/>round the neck of the bride, who wears it till she be-
-<div n="lb"/>comes a widow, when it is broken,’ {#मङ्गलसूत्रं, माङ्गल्यतन्तुः#} {%m.,%}
-<div n="lb"/>{#सौभाग्यतन्तुः#} {%m.,%} {#कौतुकं;#} ‘marriage gifts,’ {#यौतकं, औद्वाहिकं,#}
-<div n="lb"/>{#पारिणाय्यं, हरणं, सुदायः -यं;#} ‘marriage festival,’ {#विवाहोत्सवः,#}
-<div n="lb"/>{#विवाहमहोत्सवः;#} ‘ablution at marriage,’ {#मङ्गलस्नानं;#} ‘com-
-<div n="lb"/>pliments at marriage,’ {#जम्बूलः, जम्बूलमालिका;#} ‘second mar-
-<div n="lb"/>riage,’ {#द्वितीयविवाहः, द्वितीयसम्बन्धः#}. The following are diffe-
-<div n="lb"/>rent forms of marriage, explained in Manu, chap. iii.
-<div n="lb"/>verses 27 et seq.: {#आसुरविवाहः, आर्षविवाहः, गन्धर्व्ववि-#}
-<div n="lb"/>{#वाहः, दैवविवाहः, पैशाचविवाहः, प्राजापत्यविवाहः, ब्राह्मविवाहः,#}
-<div n="lb"/>{#राक्षसविवाहः, प्रीतिविवाहः#}. The {#स्वयंवरः#} is a form of mar-
-<div n="lb"/>riage in which a girl chooses her own husband.
+MARRIAGE¦, {%s.%} {#विवाहः, उद्वाहः -हनं, उद्वहनं, परिणयः -यनं, पाणिग्रहः#}
+{#-हणं, पाणिग्राहः, पाणिपीडनं, हस्तेकरणं, दारपरिग्रहः, दारसङ्ग्रहः,#}
+{#दारक्रिया, दारकर्म्म#} {%n.%} {#(न्), दाराधिगमनं, उपयमः, उपयामः, लग्न-#}
+{#कार्य्यं, मैथुनं, वाधुक्यं, निवेशः;#} ‘marriage-rite,’ {#विवाहविधिः#} {%m.,%}
+{#विवाहक्रिया, विवाहसंस्कारः;#} ‘giving in marriage,’ {#दारिकादानं,#}
+{#दारिकाप्रदानं;#} ‘marriage-contract,’ {#वाङ्निश्चयः;#} ‘marriage-
+settlement,’ {#शुल्कः -ल्कं;#} ‘auspicious season for marriage,’
+{#लग्नतिथिः#} {%f.,%} {#लग्नमुहूर्त्तः -र्त्तं;#} ‘marriage-string, or ring hung
+round the neck of the bride, who wears it till she be-
+comes a widow, when it is broken,’ {#मङ्गलसूत्रं, माङ्गल्यतन्तुः#} {%m.,%}
+{#सौभाग्यतन्तुः#} {%m.,%} {#कौतुकं;#} ‘marriage gifts,’ {#यौतकं, औद्वाहिकं,#}
+{#पारिणाय्यं, हरणं, सुदायः -यं;#} ‘marriage festival,’ {#विवाहोत्सवः,#}
+{#विवाहमहोत्सवः;#} ‘ablution at marriage,’ {#मङ्गलस्नानं;#} ‘com-
+pliments at marriage,’ {#जम्बूलः, जम्बूलमालिका;#} ‘second mar-
+riage,’ {#द्वितीयविवाहः, द्वितीयसम्बन्धः#}. The following are diffe-
+rent forms of marriage, explained in Manu, chap. iii.
+verses 27 et seq.: {#आसुरविवाहः, आर्षविवाहः, गन्धर्व्ववि-#}
+{#वाहः, दैवविवाहः, पैशाचविवाहः, प्राजापत्यविवाहः, ब्राह्मविवाहः,#}
+{#राक्षसविवाहः, प्रीतिविवाहः#}. The {#स्वयंवरः#} is a form of mar-
+riage in which a girl chooses her own husband.
 <LEND>

@@ -1,4 +1,4 @@
 <L>3566<pc>118<k1>childishness<k2>childishness
-<div n="lb"/>{@CHILDISHNESS:@}¦ <div n="1">(1) {#शिशुत्वम्#} (rare), N. iii. 15.;</div>
-<div n="lb"/><div n="1">(2) {#बालिश्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#बालिशता।#}</div></div>
+{@CHILDISHNESS:@}¦ <div n="1">(1) {#शिशुत्वम्#} (rare), N. iii. 15.;</div>
+<div n="1">(2) {#बालिश्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#बालिशता।#}</div></div>
 <LEND>

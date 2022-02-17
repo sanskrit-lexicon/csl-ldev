@@ -1,6 +1,6 @@
 <L>20888<pc>656<k1>snowy<k2>snowy
-<div n="lb"/>{@SNOWY:@}¦ <div n="1">(1) by comp., <div n="xe">{%s. mountain:%}</div> <div n="xs">{#हिमाद्रिः;#}</div>
-<div n="lb"/><div n="xe">{%s.-famed:%}</div> <div n="xs">{#तुहिनयशस्#}</div> (mfn.), Mat. 114. 19.;</div>
-<div n="lb"/><div n="1">(2) {#हैम#} (f. {#मी#}); </div><div n="1">(3) {#महाहिम#} (f. {#मा#} = very s.);</div>
-<div n="lb"/><div n="1">(4) {#हिमवत्#} (f. {#ती#} = having snow); etc.</div>
+{@SNOWY:@}¦ <div n="1">(1) by comp., <div n="xe">{%s. mountain:%}</div> <div n="xs">{#हिमाद्रिः;#}</div>
+<div n="xe">{%s.-famed:%}</div> <div n="xs">{#तुहिनयशस्#}</div> (mfn.), Mat. 114. 19.;</div>
+<div n="1">(2) {#हैम#} (f. {#मी#}); </div><div n="1">(3) {#महाहिम#} (f. {#मा#} = very s.);</div>
+<div n="1">(4) {#हिमवत्#} (f. {#ती#} = having snow); etc.</div>
 <LEND>

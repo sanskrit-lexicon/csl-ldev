@@ -1,19 +1,19 @@
 <L>17769<pc>449-a<k1>letter<k2>letter
-<div n="lb"/>LETTER¦, {%s.%} (Of the alphabet, character) {#अक्षरं, वर्णः -र्णं, मातृका,#}
-<div n="lb"/>{#अभिनिष्ठानः, अर्णः, कारः;#} the latter word is only used in
-<div n="lb"/>naming any letter; as, ‘the letter a,’ {#अकारः;#} the letter
-<div n="lb"/>‘r,’ is called {#रेफः#}. — (Printing letter or type) {#मुद्राक्षरं,#}
-<div n="lb"/>{#अक्षरमुद्रा;#} ‘compound letter,’ {#संयुक्ताक्षरं, सन्ध्यक्षरं;#} ‘letter by
-<div n="lb"/>letter,’ {#अक्षरशस्;#} ‘beginning to learn the letters,’ {#अक्षरारम्भः#}.
-<div n="lb"/> — (Epistle) {#पत्रं, लेखः, लेख्यं, पत्रिका, पत्री, पत्रकं, लिखितं,#}
-<div n="lb"/>{#सन्देशपत्रं, लिपिः#} {%f.;%} ‘by letter,’ {#पत्रद्वारा, पत्रद्वारेण;#} ‘on sight
-<div n="lb"/>of the letter,’ {#पत्रदर्शनात्;#} ‘a letter from an inferior to a
-<div n="lb"/>superior,’ {#निवेदनपत्रं, आवेदनपत्रं, विज्ञापनपत्रं;#} ‘from a superior
-<div n="lb"/>officer,’ {#आज्ञापत्रं;#} ‘a letter to a son, daughter, &c.,’ {#आशी-#}
-<div n="lb"/>[Page449-b+ 51]
-<div n="lb"/>{#र्वादपत्रं#}. — (The literal meaning, verbal expression) {#शब्दार्थः,#}
-<div n="lb"/>{#अक्षरार्थः, वाच्यार्थः, प्रथमार्थः, पदार्थः, वचनं, ग्रन्थार्थः;#} ‘in the
-<div n="lb"/>spirit and in the letter,’ {#अर्थतो ग्रन्थतश्च, अर्थतो वचनतश्च#}. — 
-<div n="lb"/>(Letters, literature) {#अक्षरं, विद्या, शास्त्रं;#} ‘a man of letters,’
-<div n="lb"/>{#शिक्षिताक्षरः, साक्षरजनः, कृतविद्यः#}. — (Dead letter) {#निरर्थकविधिः#} {%m.%}
+LETTER¦, {%s.%} (Of the alphabet, character) {#अक्षरं, वर्णः -र्णं, मातृका,#}
+{#अभिनिष्ठानः, अर्णः, कारः;#} the latter word is only used in
+naming any letter; as, ‘the letter a,’ {#अकारः;#} the letter
+‘r,’ is called {#रेफः#}. — (Printing letter or type) {#मुद्राक्षरं,#}
+{#अक्षरमुद्रा;#} ‘compound letter,’ {#संयुक्ताक्षरं, सन्ध्यक्षरं;#} ‘letter by
+letter,’ {#अक्षरशस्;#} ‘beginning to learn the letters,’ {#अक्षरारम्भः#}.
+ — (Epistle) {#पत्रं, लेखः, लेख्यं, पत्रिका, पत्री, पत्रकं, लिखितं,#}
+{#सन्देशपत्रं, लिपिः#} {%f.;%} ‘by letter,’ {#पत्रद्वारा, पत्रद्वारेण;#} ‘on sight
+of the letter,’ {#पत्रदर्शनात्;#} ‘a letter from an inferior to a
+superior,’ {#निवेदनपत्रं, आवेदनपत्रं, विज्ञापनपत्रं;#} ‘from a superior
+officer,’ {#आज्ञापत्रं;#} ‘a letter to a son, daughter, &c.,’ {#आशी-#}
+[Page449-b+ 51]
+{#र्वादपत्रं#}. — (The literal meaning, verbal expression) {#शब्दार्थः,#}
+{#अक्षरार्थः, वाच्यार्थः, प्रथमार्थः, पदार्थः, वचनं, ग्रन्थार्थः;#} ‘in the
+spirit and in the letter,’ {#अर्थतो ग्रन्थतश्च, अर्थतो वचनतश्च#}. — 
+(Letters, literature) {#अक्षरं, विद्या, शास्त्रं;#} ‘a man of letters,’
+{#शिक्षिताक्षरः, साक्षरजनः, कृतविद्यः#}. — (Dead letter) {#निरर्थकविधिः#} {%m.%}
 <LEND>

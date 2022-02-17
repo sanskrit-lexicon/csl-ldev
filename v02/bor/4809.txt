@@ -1,4 +1,4 @@
 <L>4809<pc>155<k1>correction<k2>correction
-<div n="lb"/>{@CORRECTION:@}¦ {#शोधनं#} <div n="xe">{%or%}</div> <div n="xs">{#शुद्धिः, वि-, परि-, सं-,#}</div> {%its c.%}
-<div n="lb"/>{#तस्य विशुद्धिः,#} Tārānātha.
+{@CORRECTION:@}¦ {#शोधनं#} <div n="xe">{%or%}</div> <div n="xs">{#शुद्धिः, वि-, परि-, सं-,#}</div> {%its c.%}
+{#तस्य विशुद्धिः,#} Tārānātha.
 <LEND>

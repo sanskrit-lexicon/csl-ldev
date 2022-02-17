@@ -16,7 +16,7 @@
 <ls>P. 2, 1, 71.</ls> 
 <ls>BHĀG. P. 3, 29, 30.</ls> {#°पाद्भ्याः#} 
 <ls>P. 4, 1, 135.</ls> {#गौर्वरिष्ठा चतुष्पदाम्#} 
-<ls>MBH. 1, 258. 3044.</ls> {#°पदः#} gen. 
+<ls>MBH. 1, 258.</ls> <ls n="MBH. 1,">3044.</ls> {#°पदः#} gen. 
 <ls>BHĀG. P. 1, 17, 12.</ls> {#धर्म#} (als {%Stier%} gedacht) 
 <ls>M. 1, 81.</ls> 
 <ls>MBH. 3, 13017.</ls> 
@@ -27,7 +27,7 @@
 <ls>ŚĀṄKH. GṚHY. 1, 14.</ls> 
 <div n="1">— 3) {%aus 4 Gliedern bestehend, viertheilig%}: {#आत्मन्#} 
 <ls>MĀṆḌ. UP. 2.</ls> {#धनुर्वेद#} 
-<ls>MBH. 5, 5352. 7548.</ls> {#चतुष्पदी निःश्रेणी#} {%eine viersprossige Leiter%} 
+<ls>MBH. 5, 5352.</ls> <ls n="MBH. 5,">7548.</ls> {#चतुष्पदी निःश्रेणी#} {%eine viersprossige Leiter%} 
 <ls>12, 8838.</ls> {#व्यवहार#} 
 <ls>YĀJÑ. 2, 8.</ls> {%aus vier%} <is>Pāda</is> {%bestehend%} 
 <ls>ṚV. 1, 164, 24.</ls> {#अनुष्टुभ्#} u. s. w. 

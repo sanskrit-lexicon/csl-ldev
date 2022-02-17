@@ -20,14 +20,14 @@
 <ls>3, 10, 2.</ls> {#ऋग्वेदो देवदैवत्यो यजुर्वेदस्तु मानुषः । सामवेदः स्मृतः पित्र्यः#} 
 <ls>M. 4, 124.</ls> {#लोक#} 
 <ls>BHAG. 4, 12.</ls> {#अहोरात्राणि#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 21.</ls> {#क्रियाः#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 21.</ls> {#क्रियाः#} 
 <ls>MBH. 13, 4773.</ls> {#आपद्#} 
 <ls>RAGH. 1, 60.</ls> {#आसुरी मानुषी दैवी चिकित्सा सा त्रिधा मता#} (daher <lex>f.</lex> {%a branch of medicine, the administering of drugs and herbs%} bei 
 <ls>WILSON</ls>) <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> {#सर्ग#} 
 <ls>Verz. d. Oxf. H. 82,b,17.</ls> {#भोगाः#} 
 <ls>R. 3, 53, 3.</ls> {#देह#} 
 <ls>BHĀG. P. 10, 33, 37.</ls> {#रूप#} 
-<ls>MBH. 1, 5946. 3, 2584.</ls> {#तनु#} 
+<ls>MBH. 1, 5946.</ls> <ls n="MBH.">3, 2584.</ls> {#तनु#} 
 <ls>BHAG.9,11.</ls> <ls>RAGH. 16,22.</ls> <ls>LA. (II) 87,20.</ls> <ls>Verz. d. Oxf. H. 253,b,24.</ls> {#वाच्#} 
 <ls>DAŚ. 1, 24.</ls> {#गिर्#} 
 <ls>MBH. 3, 2097.</ls> {#गन्ध#} 
@@ -38,14 +38,14 @@
 <ls>MUIR, ST. 4, 319, N. 284.</ls> {#कर्मन्#} 
 <ls>MBH. 13, 314.</ls> {#अहोरात्रे मानुषदैविके#} 
 <ls>M. 1, 65.</ls> {#विधाने दैवमानुषे#} 
-<ls>7, 205.</ls> <ls>MBH. 3, 2925. 2928. 13, 297</ls> {#(दैव°#} ed. Bomb.). 
+<ls>7, 205.</ls> <ls>MBH. 3, 2925.</ls> <ls n="MBH. 3,">2928.</ls> <ls n="MBH.">13, 297</ls> {#(दैव°#} ed. Bomb.). 
 <div n="2">— b) {%menschlich%} so v. a. {%menschenfreundlich%} 
 <ls>NIR. 14, 37.</ls> <is>Indra</is> 
 <ls>ṚV. 2, 11, 10.</ls> <is>Agni</is> 
 <ls n="ṚV.">3, 9, 6.</ls> <is>Āpas</is> 
 <ls n="ṚV.">6, 50, 7.</ls> <ls n="ṚV.">9, 63, 7.</ls> <is>Uṣas</is> 
 <ls n="ṚV.">7, 75, 2.</ls> <is>Marut</is> 
-<ls>AV. 7, 78, 3</ls> <ls>?(TS. v. l.).</ls> 
+<ls>AV. 7, 78, 3</ls> (<ls>TS. v. l.).</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Mensch%} 
 <ls>P. 4, 1, 161</ls> (proparox.). <ls>AK. 2, 6, 1, 1.</ls> <ls>H. 337.</ls> <ls>HALĀY. 2, 176.</ls> <ls>ṚV. 1, 25, 15.</ls> <ls n="ṚV. 1,">37, 7.</ls> <ls n="ṚV. 1,">84, 2.</ls> {#यज्ञियाः, मानुषाः#} 
@@ -53,10 +53,10 @@
 <ls n="ṚV. 4,">54, 3.</ls> {#जनि^म\ मानु^षाणाम्#} 
 <ls n="ṚV.">6, 18, 7.</ls> <ls n="ṚV.">10, 13, 2.</ls> {#यदमा^नुषीषु\ मानु^षो नि\षेवे^#} 
 <ls n="ṚV. 10,">95, 8.</ls> <ls>VS. 6, 8.</ls> {#पञ्च\ मानु^षाः#} 
-<ls>ṚV. 8, 9, 2.</ls> - <ls>ŚAT. BR. 3, 6, 3, 21. 9, 5, 1, 54.</ls> <ls>M. 9, 284. 10, 86.</ls> <ls>MBH. 1, 5937. fg. 3, 2085. 2098. 2244.</ls> <ls>R. 1, 15, 1.</ls> <ls>ŚĀK. 104, 14.</ls> <ls>Spr. 2182.</ls> <ls>VID. 164.</ls> <ls>PAÑCAT. 61, 10.</ls> <ls>HIT. 10, 20.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
-<ls>KATHĀS. 43, 17</ls> {#(अमानुषा क्ष्मा)#} . 
+<ls>ṚV. 8, 9, 2.</ls> - <ls>ŚAT. BR. 3, 6, 3, 21. 9, 5, 1, 54.</ls> <ls>M. 9, 284. 10, 86.</ls> <ls>MBH. 1, 5937. fg.</ls> <ls n="MBH.">3, 2085.</ls> <ls n="MBH. 3,">2098.</ls> <ls n="MBH. 3,">2244.</ls> <ls>R. 1, 15, 1.</ls> <ls>ŚĀK. 104, 14.</ls> <ls>Spr. 2182.</ls> <ls>VID. 164.</ls> <ls>PAÑCAT. 61, 10.</ls> <ls>HIT. 10, 20.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
+<ls>KATHĀS. 43, 17</ls> ({#अमानुषा क्ष्मा#}) . 
 <div n="2">— b) Bez. {%der Zodiakalbilder Zwillinge, Jungfrau und Wage%} (nebst ihren Unterabtheilungen, den {#नवांश)#} 
-<ls>VARĀH. BṚH. S. 100,</ls> <ls>?2; vgl. LAGHUJ. 1, 11-13 in Ind. St.2, 280.</ls>
+<ls>VARĀH. BṚH. S. 100, 2</ls>; vgl. <ls>LAGHUJ. 1, 11-13</ls> in <ls>Ind. St. 2, 280.</ls>
 [Page5-0729]
 
 <div n="1">— 3) <lex>f.</lex> {#ई#} {%ein menschliches Weib%} 

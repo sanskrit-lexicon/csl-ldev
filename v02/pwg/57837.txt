@@ -13,7 +13,7 @@
 <ls n="ṚV.">1, 170, 2.</ls> {#इन्द्रामरुतः#} 
 <ls n="ṚV.">2, 29, 3.</ls> drei mal sechzig <is>Marut</is> 
 <ls n="ṚV.">8, 85, 8.</ls> {#म\रुतो^ दे\वाना\ं विश^ः#} 
-<ls>TS. 2, 2, 5, 7.</ls> sieben Schaaren {#(गण)#} ebend. und 
+<ls>TS. 2, 2, 5, 7.</ls> sieben Schaaren ({#गण#}) ebend. und 
 <ls>11, 1.</ls> <ls>TBR. 2, 7, 2, 2.</ls> <ls>ŚAT. BR. 4, 3, 3, 6. 5, 2, 17. 2, 5, 1, 12. 2, 10. 3, 3. 20. 13, 4, 2, 16.</ls> {#देवानां भूयिष्ठाः#} 
 <ls>PAÑCAV. BR. 21, 14, 3.</ls> 
 <ls>ĀŚV. GṚHY. 2, 4, 14.</ls> 
@@ -22,7 +22,7 @@
 <ls>CHĀND. UP. 3, 9, 1.</ls> zu den Götterschaaren des mittleren Gebiets gezählt 
 <ls>NAIGH. 5, 5.</ls> 
 <ls>NIR. 11, 13.</ls> {#वसवः, रुद्राः, आदित्याः, मरुतः, साध्याः#} 
-<ls>CHĀND. BR.</ls> in <ls>Ind. St. 1, 258.</ls> <ls>M. 3, 88. 11, 221.</ls> <ls>MBH. 3, 1768.</ls> <ls>BHAG. 11, 6. 22.</ls> <ls>HARIV. 441. 11050. 12112. 13162. 14077. 14171.</ls>
+<ls>CHĀND. BR.</ls> in <ls>Ind. St. 1, 258.</ls> <ls>M. 3, 88. 11, 221.</ls> <ls>MBH. 3, 1768.</ls> <ls>BHAG. 11, 6. 22.</ls> <ls>HARIV. 441.</ls> <ls n="HARIV.">11050.</ls> <ls n="HARIV.">12112.</ls> <ls n="HARIV.">13162.</ls> <ls n="HARIV.">14077.</ls> <ls n="HARIV.">14171.</ls>
 [Page5-0570]
 {#मरुदुत्पत्ति#} 
 <ls>Verz. d. Oxf. H. 12,b,48. 46,b,31. 83,a,12.</ls> Kinder der <is>Diti</is> und sieben oder sieben mal sieben an der Zahl 
@@ -34,7 +34,7 @@
 <ls>VIKR. 36.</ls> {#मरीचिर्मरुतामस्मि#} (sagt <is>Kṛṣṇa</is>) 
 <ls>BHAG. 10, 21.</ls> {#मरुतां छन्दांसि#} 
 <ls>Ind. St. 8, 76.</ls> die Gottheiten des <is>Nakṣatra</is> <is>Mārgaśīrṣa</is> 
-<ls>WEBER, <is>Nakṣ</is>. II, 370. 379.</ls> {#मरुतामर्कः, कालकाक्रन्दः, ज्याह्रौदौ, धेनु, प्रक्रीडः#} oder {#संक्रीडः#} oder {#नि क्रीडः, प्रेङ्खः, संस्तोभः#} und {#सवेशीयम्#} Namen von <is>Sāman</is> 
+<ls>WEBER, Nakṣ. II, 370. 379.</ls> {#मरुतामर्कः, कालकाक्रन्दः, ज्याह्रौदौ, धेनु, प्रक्रीडः#} oder {#संक्रीडः#} oder {#नि क्रीडः, प्रेङ्खः, संस्तोभः#} und {#सवेशीयम्#} Namen von <is>Sāman</is> 
 <ls>Ind. St. 3, 228.</ls> Wie <is>Indra</is> als Lieblingsgott des arischen Volkes allmählich in den Vordergrund tritt, so auch seine Gefährten, die <is>Marut</is>, und zwar in dem Grade, dass schliesslich {#मरुतः#} gleichbedeutend mit {#देवाः#} wird. 
 <ls>AK. 3, 4, 14, 61.</ls> 
 <ls>H. 89.</ls> 
@@ -64,7 +64,7 @@
 <ls>8, 19.</ls> {#मरुत्पित्तज्वरचिकित्सा#} 
 <ls>Verz. d. B. H. No. 949.</ls> {%Luft%}: {#धूमज्योतिःसलिलमरुतां संनिपातः (मेघः)#} 
 <ls>MEGH. 5.</ls> 
-<ls>BHĀṢĀP. 2.</ls> <ls>Verz. d. Oxf. H. 226,a, No. 554,</ls> <ls>Śl. 4.</ls> {%Athem%}: {#योगिनो जितमरुन्मनसः#} 
+<ls>BHĀṢĀP. 2.</ls> <ls>Verz. d. Oxf. H. 226,a, No. 554, Śl. 4.</ls> {%Athem%}: {#योगिनो जितमरुन्मनसः#} 
 <ls>BHĀG. P. 3, 32, 10.</ls> 
 <div n="2">— d) N. pr. eines <is>Sādhya</is> 
 <ls>HARIV. 11536</ls>; die neuere Ausg. hat eine andere Lesart. 
@@ -76,7 +76,7 @@
 <ls>BHĀVAPR.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— h) fehlerhaft für {#मरु#} 
 <ls>MĀRK. P. 40, 3.</ls> 
-<div n="1">— 2) <lex>f.</lex> {%Trigonella corniculata Lin.%} {#(पृक्का)#} 
+<div n="1">— 2) <lex>f.</lex> {%Trigonella corniculata Lin.%} ({#पृक्का#}) 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 3) <lex>n.</lex> {%eine best. wohlriechende Pflanze%}, = {#ग्रन्थिपर्ण#} 
 <ls>MED.</ls>; vgl. 

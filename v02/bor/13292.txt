@@ -1,4 +1,4 @@
 <L>13292<pc>409<k1>lawsuit<k2>lawsuit
-<div n="lb"/>{@LAWSUIT:@}¦ <div n="1">(1) {#व्यवहारः#} v. Action; </div><div n="1">(2) {#विवादः:#}
-<div n="lb"/>v. Dispute.</div>
+{@LAWSUIT:@}¦ <div n="1">(1) {#व्यवहारः#} v. Action; </div><div n="1">(2) {#विवादः:#}
+v. Dispute.</div>
 <LEND>

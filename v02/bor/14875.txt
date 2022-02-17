@@ -1,5 +1,5 @@
 <L>14875<pc>454<k1>molten<k2>molten
-<div n="lb"/>{@MOLTEN:@}¦ <div n="I">I Melted: {#विलीनः#} ({#ना, नं#}), etc.</div>
-<div n="lb"/><div n="I">II Made of melted metal: {#धातुमयः#} ({#यी, यं#})
-<div n="lb"/>and sim. comp.s.</div>
+{@MOLTEN:@}¦ <div n="I">I Melted: {#विलीनः#} ({#ना, नं#}), etc.</div>
+<div n="I">II Made of melted metal: {#धातुमयः#} ({#यी, यं#})
+and sim. comp.s.</div>
 <LEND>

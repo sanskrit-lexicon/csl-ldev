@@ -1,4 +1,4 @@
 <L>7929<pc>250<k1>everywhere<k2>everywhere
-<div n="lb"/>{@EVERYWHERE:@}¦ <div n="1">(1) {#सर्वत्र;#} </div><div n="1">(2) {#सर्वतः,#} {%you go e.:%}
-<div n="lb"/>{#त्वं सर्वतोगामि,#} Ku.</div>
+{@EVERYWHERE:@}¦ <div n="1">(1) {#सर्वत्र;#} </div><div n="1">(2) {#सर्वतः,#} {%you go e.:%}
+{#त्वं सर्वतोगामि,#} Ku.</div>
 <LEND>

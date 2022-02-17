@@ -1,8 +1,8 @@
 <L>3661<pc>120<k1>church<k2>church
-<div n="lb"/>{@CHURCH@}¦ (subs.): <div n="I">I Any temple: q. v. </div><div n="I">II.
-<div n="lb"/>A Christian temple: {#*सिद्धायतनम्#} <div n="xe">{%or%}</div> <div n="xs">{#धर्ममन्दिरम्#}</div>
-<div n="lb"/>(when the context determines the mean-
-<div n="lb"/>-ing); {#कृष्टधर्मानुयायिनां सिद्धायतनम्।#} </div><div n="I">III A
-<div n="lb"/>body of Christians: {#धर्मः,#} {%the c. of Christ%} :
-<div n="lb"/>{#*कृष्टधर्मः;#} <div n="xe">{%the c. of England:%}</div> <div n="xs">{#इंलण्डीयधर्मः।#}</div></div>
+{@CHURCH@}¦ (subs.): <div n="I">I Any temple: q. v. </div><div n="I">II.
+A Christian temple: {#*सिद्धायतनम्#} <div n="xe">{%or%}</div> <div n="xs">{#धर्ममन्दिरम्#}</div>
+(when the context determines the mean-
+-ing); {#कृष्टधर्मानुयायिनां सिद्धायतनम्।#} </div><div n="I">III A
+body of Christians: {#धर्मः,#} {%the c. of Christ%} :
+{#*कृष्टधर्मः;#} <div n="xe">{%the c. of England:%}</div> <div n="xs">{#इंलण्डीयधर्मः।#}</div></div>
 <LEND>

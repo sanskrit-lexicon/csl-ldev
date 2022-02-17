@@ -1,8 +1,8 @@
 <L>1894<pc>066<k1>belong<k2>belong
-<div n="lb"/>{@BELONG@}¦ (v. i.): <div n="I">I To be the property of:
-<div n="lb"/>expr. by the gen. with {#भू#} gen. understood:
-<div n="lb"/><div n="xe">{%it is said that a field b. s to him who clears the%}
-<div n="lb"/>{%jungle%}</div> <div n="xs">{#स्थानुच्छेदकस्य केदारमाहुः,#}</div> M. ix. 44: v.
-<div n="lb"/>Belonging to, have. </div><div n="I">II To relate to, con-
-<div n="lb"/>-cern: q. v.</div>
+{@BELONG@}¦ (v. i.): <div n="I">I To be the property of:
+expr. by the gen. with {#भू#} gen. understood:
+<div n="xe">{%it is said that a field b. s to him who clears the%}
+{%jungle%}</div> <div n="xs">{#स्थानुच्छेदकस्य केदारमाहुः,#}</div> M. ix. 44: v.
+Belonging to, have. </div><div n="I">II To relate to, con-
+-cern: q. v.</div>
 <LEND>

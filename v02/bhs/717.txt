@@ -1,60 +1,60 @@
 <L>717<pc>024,1<k1>अनिञ्ज्य<k2>अनिञ्ज्य
 {@aniñjya:@}¦ variants {@āniñja, an°, āniñjya, ānijya,@}
-<div n="lb">{@āneñj(y)a, an°@}, qq.v. The nasalless ānijya occurs without
-<div n="lb">v.l. only once and may be an accidental corruption
-<div n="lb">(anusvāra omitted); but see § 2.73. The omission of y
-<div n="lb">after j is called ‘une orthographe prâcritisante’ by Senart,
-<div n="lb">Mv i.399; at any rate it occurs frequently in the mss.
-<div n="lb">In Pali the same word is written ānejja, ānañja, āneñja,
-<div n="lb">and with short initial a- (stigmatized as wrong reading in
-<div n="lb">CPD); forms with i in the penult are very rare in Pali,
-<div n="lb">but CPD records aniñja-ppatta once; this surely cannot
-<div n="lb">be separated from the common āneñja- (ānejja-, ānañja-)-
-<div n="lb">ppatta. BHS has no ānañj- or ānejj-, which are not in-
-<div n="lb">frequent in Pali. The wild variety of spellings in Pali
-<div n="lb">itself shows that it early became an obscure word in the
-<div n="lb">tradition. BHS occurrences of the spelling aniñjya include
-<div n="lb">SP 161.10; Mvy 554, Śikṣ 237.1 (and 223.3, 4 in the ms.);
-<div n="lb">perhaps Mv i.133.13 (Senart āniñjya, em., mss. mostly
-<div n="lb">anīca [{%not low?%}], one aniṃca, perhaps intending aniñj[y]a);
-<div n="lb">either an- or ān- (uncertain because of saṃdhi) Mv i.228.11,
-<div n="lb">15; 229.6; ii.132.15 (here v.l. °nijya-). For examples of
-<div n="lb">the other spellings see s.vv. There seems to be no difference
+{@āneñj(y)a, an°@}, qq.v. The nasalless ānijya occurs without
+v.l. only once and may be an accidental corruption
+(anusvāra omitted); but see § 2.73. The omission of y
+after j is called ‘une orthographe prâcritisante’ by Senart,
+Mv i.399; at any rate it occurs frequently in the mss.
+In Pali the same word is written ānejja, ānañja, āneñja,
+and with short initial a- (stigmatized as wrong reading in
+CPD); forms with i in the penult are very rare in Pali,
+but CPD records aniñja-ppatta once; this surely cannot
+be separated from the common āneñja- (ānejja-, ānañja-)-
+ppatta. BHS has no ānañj- or ānejj-, which are not in-
+frequent in Pali. The wild variety of spellings in Pali
+itself shows that it early became an obscure word in the
+tradition. BHS occurrences of the spelling aniñjya include
+SP 161.10; Mvy 554, Śikṣ 237.1 (and 223.3, 4 in the ms.);
+perhaps Mv i.133.13 (Senart āniñjya, em., mss. mostly
+anīca [{%not low?%}], one aniṃca, perhaps intending aniñj[y]a);
+either an- or ān- (uncertain because of saṃdhi) Mv i.228.11,
+15; 229.6; ii.132.15 (here v.l. °nijya-). For examples of
+the other spellings see s.vv. There seems to be no difference
 [Page024-b+ 71]
-<div n="lb">in mg. between the various spellings; any of them may
-<div n="lb">be an adj., {%immobile, immovable%}, or a nt. n., {%immovability%}.
-<div n="lb">As adj., āniṃjehi vihārehi Mv i.34.11; ii.419.11, {%in im-%}
-<div n="lb">{%movable conditions%}; ep. of citta Mv i.133.13 (see above
-<div n="lb">on form); oftener °niñjyaprāpta, of citta, LV 344.6; Mv
-<div n="lb">i.228.11, 15; 229.6; ii.132.15; aniñja-prāpta, of citta, SP
-<div n="lb">5.10; aniñjya-bhūta, of citta, SP 161.10; ānijyāṃ śāntim
-<div n="lb">Av ii.199.5; aniñjyo (ŚsP aniñjo) nāma samādhiḥ Mvy
-<div n="lb">554; ŚsP 1418.22; virajasko (a)neñjyaś ca Mmk 476.14;
-<div n="lb">clearly noun, āniñjyam Mvy 6387 = Tib. mi gyo ba,
-<div n="lb">{%not moving%}; doubtless noun also in cpds. with -prāpta
-<div n="lb">(Pali -ppatta) and -bhūta, above; apparently primarily
-<div n="lb">adj. as third of a triad, the first two members of which
-<div n="lb">are puṇya and apuṇya, or kuśala and akuśala; all three
-<div n="lb">are applied to {%deeds%} (karman), or the {%performance%} or
-<div n="lb">{%accumulation%} thereof ({@abhisaṃskāra@}, q.v.), or the {%under-%}
-<div n="lb">{%lying conditions%} (saṃskāra; cf. Śāl 81.5, abhisaṃskārār-
-<div n="lb">thena saṃskārāḥ), or finally the {%states of existence%} (dharmāḥ)
-<div n="lb">to which such various acts lead as fruit. The first two,
-<div n="lb">meritorious and demeritorious, relate to good and bad
-<div n="lb">deeds as leading to rebirth in the kāmāvacara and (only
-<div n="lb">good deeds) in the rūpāvacara states, or to these resulting
-<div n="lb">states; the word aniñj(y)a, aneñj(y)a, or ā°, refers to
-<div n="lb">deeds leading to rebirth in the arūpāvacara states, or
-<div n="lb">to those states themselves (the dhyāna states), cf. Bbh
-<div n="lb">90.16 āniñjya-caturtha-dhyāna-vihāraḥ; on the subject
-<div n="lb">in Pali see Warren, B. in Tr. 179 f. (from Vism.), and in
-<div n="lb">general La Vallée-Poussin, note on MadhK 334.8; a good
-<div n="lb">Pali passage is DN iii.217.25 tayo saṃkhārā, puññābhisaṃ-
-<div n="lb">khāro, apuññā°, ānañjā° (see Comm. iii.998.29). In BHS,
-<div n="lb">Śāl 82.3--4 (cited Śikṣ 222.11--223.1) evam avidyāyāṃ
-<div n="lb">satyāṃ trividhāḥ saṃskārā abhinivartante, puṇyopagā
-<div n="lb">apuṇyo° āneñjyo° (Śikṣ āniñjyo°); Dbh 48.7 puṇyā-
-<div n="lb">puṇyāneñjyān abhisaṃskārān; karmāṇi kuśalākuśalāneñ-
-<div n="lb">jāni MadhK 334.7-8 (cf. 543.1 with note); (dharmāḥ)
-<div n="lb">kuśalā vā 'kuśalā vā aniñjyā vā Śikṣ 237.1.
+in mg. between the various spellings; any of them may
+be an adj., {%immobile, immovable%}, or a nt. n., {%immovability%}.
+As adj., āniṃjehi vihārehi Mv i.34.11; ii.419.11, {%in im-%}
+{%movable conditions%}; ep. of citta Mv i.133.13 (see above
+on form); oftener °niñjyaprāpta, of citta, LV 344.6; Mv
+i.228.11, 15; 229.6; ii.132.15; aniñja-prāpta, of citta, SP
+5.10; aniñjya-bhūta, of citta, SP 161.10; ānijyāṃ śāntim
+Av ii.199.5; aniñjyo (ŚsP aniñjo) nāma samādhiḥ Mvy
+554; ŚsP 1418.22; virajasko (a)neñjyaś ca Mmk 476.14;
+clearly noun, āniñjyam Mvy 6387 = Tib. mi gyo ba,
+{%not moving%}; doubtless noun also in cpds. with -prāpta
+(Pali -ppatta) and -bhūta, above; apparently primarily
+adj. as third of a triad, the first two members of which
+are puṇya and apuṇya, or kuśala and akuśala; all three
+are applied to {%deeds%} (karman), or the {%performance%} or
+{%accumulation%} thereof ({@abhisaṃskāra@}, q.v.), or the {%under-%}
+{%lying conditions%} (saṃskāra; cf. Śāl 81.5, abhisaṃskārār-
+thena saṃskārāḥ), or finally the {%states of existence%} (dharmāḥ)
+to which such various acts lead as fruit. The first two,
+meritorious and demeritorious, relate to good and bad
+deeds as leading to rebirth in the kāmāvacara and (only
+good deeds) in the rūpāvacara states, or to these resulting
+states; the word aniñj(y)a, aneñj(y)a, or ā°, refers to
+deeds leading to rebirth in the arūpāvacara states, or
+to those states themselves (the dhyāna states), cf. Bbh
+90.16 āniñjya-caturtha-dhyāna-vihāraḥ; on the subject
+in Pali see Warren, B. in Tr. 179 f. (from Vism.), and in
+general La Vallée-Poussin, note on MadhK 334.8; a good
+Pali passage is DN iii.217.25 tayo saṃkhārā, puññābhisaṃ-
+khāro, apuññā°, ānañjā° (see Comm. iii.998.29). In BHS,
+Śāl 82.3--4 (cited Śikṣ 222.11--223.1) evam avidyāyāṃ
+satyāṃ trividhāḥ saṃskārā abhinivartante, puṇyopagā
+apuṇyo° āneñjyo° (Śikṣ āniñjyo°); Dbh 48.7 puṇyā-
+puṇyāneñjyān abhisaṃskārān; karmāṇi kuśalākuśalāneñ-
+jāni MadhK 334.7-8 (cf. 543.1 with note); (dharmāḥ)
+kuśalā vā 'kuśalā vā aniñjyā vā Śikṣ 237.1.
 <LEND>

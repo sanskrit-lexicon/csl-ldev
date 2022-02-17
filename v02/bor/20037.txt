@@ -1,13 +1,13 @@
 <L>20037<pc>623<k1>secret<k2>secret
-<div n="lb"/>{@SECRET:@}¦ (adj.): <div n="I">I Concealed, hid: </div><div n="1">(1) {#गुढ#}
-<div n="lb"/>(f. {#ढा#}), {#नि-,#} <div n="xe">{%surrounded by s. emissaries:%}</div> <div n="xs">{#गुढ-#}
-<div n="lb"/>{#पुरुषैः परिवृतः,#}</div> D. viii.; </div><div n="1">(2) {#गुप्त#} (f. {#प्ता#}); </div><div n="1">(3)
-<div n="lb"/>{#छन्न#} (f. {#न्ना#}), {#प्र-।#} </div><div n="I">II What should be
-<div n="lb"/>concealed: </div><div n="1">(1) {#गुह्य#} (f. {#ह्या#}), <div n="xe">{%shall not dis-%}
-<div n="lb"/>{%close master's s. doings and plans:%}</div> <div n="xs">{#गुह्यं कर्म च #}
-<div n="lb"/>{# मन्त्रं च न भर्तुः सम्प्रकाशयेत्,#}</div> Ka. v. 31.; </div><div n="1">(2) {#रहस्य#}
-<div n="lb"/>(f. {#स्या#}): </div><div n="1">(3) {#गोप्य#} (f. {#प्या#}); </div><div n="1">(4) {#गोपनीय#}
-<div n="lb"/>(f. {#या#}): v. Secret (subs.). </div><div n="I">III Occult:</div>
-<div n="lb"/><div n="1">(1) {#गूढ#} (f. {#ढा#}), {#नि-;#} </div><div n="1">(2) {#गुह्य#} (f. {#ह्या#}). </div><div n="I">IV
-<div n="lb"/>Secluded, retired: q. v.: {#गूढ#} (f. {#ढा#}), {#नि-।#}</div>
+{@SECRET:@}¦ (adj.): <div n="I">I Concealed, hid: </div><div n="1">(1) {#गुढ#}
+(f. {#ढा#}), {#नि-,#} <div n="xe">{%surrounded by s. emissaries:%}</div> <div n="xs">{#गुढ-#}
+{#पुरुषैः परिवृतः,#}</div> D. viii.; </div><div n="1">(2) {#गुप्त#} (f. {#प्ता#}); </div><div n="1">(3)
+{#छन्न#} (f. {#न्ना#}), {#प्र-।#} </div><div n="I">II What should be
+concealed: </div><div n="1">(1) {#गुह्य#} (f. {#ह्या#}), <div n="xe">{%shall not dis-%}
+{%close master's s. doings and plans:%}</div> <div n="xs">{#गुह्यं कर्म च #}
+{# मन्त्रं च न भर्तुः सम्प्रकाशयेत्,#}</div> Ka. v. 31.; </div><div n="1">(2) {#रहस्य#}
+(f. {#स्या#}): </div><div n="1">(3) {#गोप्य#} (f. {#प्या#}); </div><div n="1">(4) {#गोपनीय#}
+(f. {#या#}): v. Secret (subs.). </div><div n="I">III Occult:</div>
+<div n="1">(1) {#गूढ#} (f. {#ढा#}), {#नि-;#} </div><div n="1">(2) {#गुह्य#} (f. {#ह्या#}). </div><div n="I">IV
+Secluded, retired: q. v.: {#गूढ#} (f. {#ढा#}), {#नि-।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>23262<pc>731<k1>undress<k2>undress
-<div n="lb"/>{@UNDRESS@}¦ (v.): {#वस्त्रं#} <div n="xe">{%or%}</div> <div n="xs">{#वासः अपनयति#}</div> ({#नी,#} c. 1.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#अवतारयति#}</div> (c. of {#तॄ#}) <div n="xe">{%or%}</div> <div n="xs">{#उन्मुञ्चति#}</div> ({#मुच्,#} c.
-<div n="lb"/>6.).
+{@UNDRESS@}¦ (v.): {#वस्त्रं#} <div n="xe">{%or%}</div> <div n="xs">{#वासः अपनयति#}</div> ({#नी,#} c. 1.)
+<div n="xe">{%or%}</div> <div n="xs">{#अवतारयति#}</div> (c. of {#तॄ#}) <div n="xe">{%or%}</div> <div n="xs">{#उन्मुञ्चति#}</div> ({#मुच्,#} c.
+6.).
 <LEND>

@@ -1,17 +1,17 @@
 <L>19620<pc>610<k1>sacrifice<k2>sacrifice
-<div n="lb"/>{@SACRIFICE@}¦ (subs.): <div n="I">I The ceremony: </div><div n="1">(1)
-<div n="lb"/>{#यज्ञः;#} </div><div n="1">(2) {#क्रतुः;#} </div><div n="1">(3) {#यागः;#} </div><div n="1">(4) {#इज्या;#} </div><div n="1">(5)
-<div n="lb"/>{#होमः;#} </div><div n="1">(6) {#मखः;#} </div><div n="1">(7) {#सत्रम्;#} </div><div n="1">(8) {#सवनम्;#} </div><div n="1">(9)
-<div n="lb"/>{#अध्वरः:#} for dif.: v. Special works. Ph.:
-<div n="lb"/><div n="xe">{%horse-s.:%}</div> <div n="xs">{#अश्वमेधः;#}</div> <div n="xe">{%human-s.:%}</div> <div n="xs">{#नरमेधः;#}</div> {%imperial-s.:%}
-<div n="lb"/>{#राजसूयः;#} <div n="xe">{%present at i.-s.:%}</div> <div n="xs">{#राजसूयकीः दक्षिणाः,#}</div> Si.
-<div n="lb"/>xiv. 33. </div><div n="I">II Offering, oblation: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#उत्सर्गः#} (= abandonment, giving up: q. v.),
-<div n="lb"/>{%s. of things in the name of gods is s.:%}
-<div n="lb"/>{#देवतोद्देशेन द्रव्यत्यागो यागः,#} M.n. on Si. xiv. 20.;</div>
-<div n="lb"/><div n="1">(2) {#आलम्भः, सम्-#} (= killing: of animals).</div>
-<div n="lb"/><div n="I">III In gen.: </div><div n="1">(1) {#उत्सर्गः,#} {%s. one's self:%}
-<div n="lb"/>{#आत्मोत्सर्गः:#} v. Surrender, destruction; </div><div n="1">(2)
-<div n="lb"/>{#व्ययः#} (= expense: q. v.), {%at the s. of life:%}
-<div n="lb"/>{#प्राणव्ययेनापि,#} Mu.</div>
+{@SACRIFICE@}¦ (subs.): <div n="I">I The ceremony: </div><div n="1">(1)
+{#यज्ञः;#} </div><div n="1">(2) {#क्रतुः;#} </div><div n="1">(3) {#यागः;#} </div><div n="1">(4) {#इज्या;#} </div><div n="1">(5)
+{#होमः;#} </div><div n="1">(6) {#मखः;#} </div><div n="1">(7) {#सत्रम्;#} </div><div n="1">(8) {#सवनम्;#} </div><div n="1">(9)
+{#अध्वरः:#} for dif.: v. Special works. Ph.:
+<div n="xe">{%horse-s.:%}</div> <div n="xs">{#अश्वमेधः;#}</div> <div n="xe">{%human-s.:%}</div> <div n="xs">{#नरमेधः;#}</div> {%imperial-s.:%}
+{#राजसूयः;#} <div n="xe">{%present at i.-s.:%}</div> <div n="xs">{#राजसूयकीः दक्षिणाः,#}</div> Si.
+xiv. 33. </div><div n="I">II Offering, oblation: q. v.: </div><div n="1">(1)
+{#उत्सर्गः#} (= abandonment, giving up: q. v.),
+{%s. of things in the name of gods is s.:%}
+{#देवतोद्देशेन द्रव्यत्यागो यागः,#} M.n. on Si. xiv. 20.;</div>
+<div n="1">(2) {#आलम्भः, सम्-#} (= killing: of animals).</div>
+<div n="I">III In gen.: </div><div n="1">(1) {#उत्सर्गः,#} {%s. one's self:%}
+{#आत्मोत्सर्गः:#} v. Surrender, destruction; </div><div n="1">(2)
+{#व्ययः#} (= expense: q. v.), {%at the s. of life:%}
+{#प्राणव्ययेनापि,#} Mu.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>14333<pc>440<k1>meagre<k2>meagre
-<div n="lb"/>{@MEAGRE:@}¦ <div n="I">I Thin, lean: q. v.: {#कृशः#} ({#शा, #}
-<div n="lb"/>{# शं#}). </div><div n="I">II Scanty, insufficient: {#स्वल्प#} (f. {#ल्पा#}).</div>
-<div n="lb"/><div n="I">III Wanting in richness: </div><div n="1">(1) {#फल्गु#} (mfn.);</div>
-<div n="lb"/><div n="1">(2) {#असारः#} ({#रा, रं#}).</div>
+{@MEAGRE:@}¦ <div n="I">I Thin, lean: q. v.: {#कृशः#} ({#शा, #}
+{# शं#}). </div><div n="I">II Scanty, insufficient: {#स्वल्प#} (f. {#ल्पा#}).</div>
+<div n="I">III Wanting in richness: </div><div n="1">(1) {#फल्गु#} (mfn.);</div>
+<div n="1">(2) {#असारः#} ({#रा, रं#}).</div>
 <LEND>

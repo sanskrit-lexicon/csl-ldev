@@ -1,5 +1,5 @@
 <L>14797<pc>452<k1>mistranslate<k2>mistranslate
-<div n="lb"/>{@MISTRANSLATE:@}¦ expr. by circumlo., <div n="xe">{%he has m.d%}
-<div n="lb"/>{%the verses:%}</div> <div n="xs">{#*न तेनाञ्जसा#}</div> ({%or%} {#याथातथ्येन#}) {#भाषान्तरी-#}
-<div n="lb"/>{#कृताः श्लोकाः।#}
+{@MISTRANSLATE:@}¦ expr. by circumlo., <div n="xe">{%he has m.d%}
+{%the verses:%}</div> <div n="xs">{#*न तेनाञ्जसा#}</div> ({%or%} {#याथातथ्येन#}) {#भाषान्तरी-#}
+{#कृताः श्लोकाः।#}
 <LEND>

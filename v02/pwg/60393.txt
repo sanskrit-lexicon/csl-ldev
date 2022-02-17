@@ -51,17 +51,17 @@
 <ls>ṚV. 7, 61, 1.</ls> <ls n="ṚV. 7,">63, 1.</ls> <ls n="ṚV.">10, 37, 1</ls>; vgl. 
 <ls>VS. 5, 34.</ls> 
 <ls>ŚĀṄKH. ŚR. 4, 7, 5.</ls> {#न वै मित्रः कं चन हिनस्ति न मित्रं कश्चन हिनस्ति#} 
-<ls>ŚAT. BR. 5, 3, 2,</ls> <ls>?7; vgl. 4, 1, 4, 8.</ls> {#°गुप्त#} 
-<ls>?6,5,4,14. 11,4,3,3. 11. ŚĀṄKH. ŚR. 10,15,9. ĀŚV. GṚHY.2,9,5. - MBH.1,2523. 4823. HARIV. 176. 593. 11549. 12456. 12911. 13143. 14166. VP. 122. BHĀG. P.2,5,30 (vgl. Verz. d. Oxf. H. 104,b,25).6,6,37. WEBER, RĀMAT. UP. 304. 313. VARĀH. BṚH. S. 53,47. 98,4.</ls> Gottheit des Sternbildes <is>Anurādhā</is> 
+<ls>ŚAT. BR. 5, 3, 2, 7</ls>; vgl. <ls>4, 1, 4, 8.</ls> {#°गुप्त#} 
+<ls>6,5,4,14. 11,4,3,3. 11.</ls> <ls>ŚĀṄKH. ŚR. 10,15,9.</ls> <ls>ĀŚV. GṚHY. 2,9,5.</ls> - <ls>MBH. 1, 2523.</ls> <ls n="MBH. 1,">4823.</ls> <ls>HARIV. 176.</ls> <ls n="HARIV.">593.</ls> <ls n="HARIV.">11549.</ls> <ls n="HARIV.">12456.</ls> <ls n="HARIV.">12911.</ls> <ls n="HARIV.">13143.</ls> <ls n="HARIV.">14166.</ls> <ls>VP. 122.</ls> <ls>BHĀG. P. 2,5,30</ls> (vgl. <ls>Verz. d. Oxf. H. 104,b,25</ls>). <ls>6,6,37.</ls> <ls>WEBER, RĀMAT. UP. 304. 313.</ls> <ls>VARĀH. BṚH. S. 53,47. 98,4.</ls> Gottheit des Sternbildes <is>Anurādhā</is> 
 <ls>TBR.</ls> in <ls>Z. f. d. K. d. M. 7,270.</ls> <ls>WEBER, Nakṣ. 2, 300. 374.</ls> <ls>JYOT. 32. fg. 94.</ls>
 [Page5-0770]
 {#पायुरध्यात्ममित्याहुर्यथातत्त्वार्थदर्शिनः । विसर्गमधिभूतं च मित्रस्तत्राधिदैवतम् ॥#} 
 <ls>MBH. 12, 11608.</ls> 
 <ls>SUŚR. 1, 311, 7.</ls> 
 <ls>M. 12, 121.</ls> 
-<ls>BHĀG. P. 2, 6, 8. 10, 27. 3, 6, 20.</ls> <is>Mitra</is> Vater des <is>Utsarga</is> {%(der Entleerung)%} 
+<ls>BHĀG. P. 2, 6, 8. 10, 27. 3, 6, 20.</ls> <is>Mitra</is> Vater des <is>Utsarga</is> ({%der Entleerung%}) 
 <ls>6, 18, 5.</ls> {#मित्रौ = मित्रावरुणौ#} 
-<ls>?2, 1, 32. neutr. MBH. 14, 631</ls> (in beiden Ausgg.) und 
+<ls>2, 1, 32.</ls> neutr. <ls>MBH. 14, 631</ls> (in beiden Ausgg.) und 
 <ls>SUŚR. 1, 311, 7.</ls> 
 <div n="2">— c) {%die Sonne%} 
 <ls>AK. 1, 1, 2, 31. 3, 4, 25, 169.</ls> 
@@ -77,7 +77,7 @@
 <div n="2"> a) einer <is>Apsaras</is> 
 <ls>MBH. 13, 1424.</ls> {#चित्रा#} ed. Bomb. 
 <div n="2">— b) der Mutter <is>Maitreya's</is> und der <is>Maitreyī</is> 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>?S. 91. BHĀG. P. 3, 4, 36. Ind. St. 1, 38.</ls> = {#सुमित्रा#} (die Mutter <is>Śatrughna's</is>) 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 91.</ls> <ls>BHĀG. P. 3, 4, 36.</ls> <ls>Ind. St. 1, 38.</ls> = {#सुमित्रा#} (die Mutter <is>Śatrughna's</is>) 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#मित्री#} 
 <ls>WILSON</ls> nach ders. Aut. 
 <div n="1">— 3) <lex>n.</lex> 
@@ -101,7 +101,7 @@
 <ls>1344.</ls> {#न मातरि न दारेषु न सोदर्ये न चात्मजे । विश्रम्भस्तादृशः पुंसां यादृङ्मित्रे निरन्तरे ॥#} 
 <ls>1432.</ls> {#माता मित्रं पिता चेति स्वभावात्त्रितयं हितम्#} 
 <ls>2166. 5116.</ls> {#स्वभावजं तु यन्मित्रम्#} 
-<ls>?5349. KATHĀS. 4, 55. VET. in LA. (II) 6, 3. 9, 5. HIT. 17, 17.</ls> {#सुहृन्मित्रं न लभते#} 
+<ls>5349.</ls> <ls>KATHĀS. 4, 55.</ls> <ls>VET. in LA. (II) 6, 3. 9, 5.</ls> <ls>HIT. 17, 17.</ls> {#सुहृन्मित्रं न लभते#} 
 <ls>MBH. 5, 1005.</ls> {#स°#} 
 <ls>7449.</ls> In der Politik heisst {%der unmittelbar an den benachbarten Fürsten gränzende Fürst - der Freund%} 
 <ls>AK. 2, 8, 1, 9.</ls> 
@@ -114,5 +114,5 @@
 <ls>HARIV. 15978</ls>, v.l. für {#भिन्न#} . 
 <div n="v">— Vgl. {#अ°, अश्व°#} (N. pr. eines Mannes 
 <ls>Ind. St. 4, 374</ls>), {#कु°, छाग°, दास°, दुर्मित्र, द्रोघ°, धन°, पुरु°, पुष्प°, पूष°, प्रति°#} (fehlerhaft für {#प्रत्यमित्र#}, wie die ed. Bomb. hat), {#बहु°#} {%(viele Freunde habend%} 
-<ls>VARĀH. BṚH. S. 101, 10</ls> <ls>?= BṚH. 16, 10</ls>), {#बुद्ध°, ब्रह्म°, भानु°, भूमि°, मार्ग°, मूल°, वत्स°, वरुण°, विश्वा°, विष्णु°, श्राद्ध°, साध°, सिन्धु°, सु°, सुधा°, सोम°, मैत्र, मैत्रि, मैत्रेय, मैत्र्य#} .
+<ls>VARĀH. BṚH. S. 101, 10</ls> = <ls>BṚH. 16, 10</ls>), {#बुद्ध°, ब्रह्म°, भानु°, भूमि°, मार्ग°, मूल°, वत्स°, वरुण°, विश्वा°, विष्णु°, श्राद्ध°, साध°, सिन्धु°, सु°, सुधा°, सोम°, मैत्र, मैत्रि, मैत्रेय, मैत्र्य#} .
 <LEND>

@@ -1,3 +1,3 @@
 <L>4911<pc>158<k1>county<k2>county
-<div n="lb"/>{@COUNTY:@}¦ {#प्रदेशः#} (?), <div n="xe">{%c. town:%}</div> <div n="xs">{#पत्तनम्#}</div> (?).
+{@COUNTY:@}¦ {#प्रदेशः#} (?), <div n="xe">{%c. town:%}</div> <div n="xs">{#पत्तनम्#}</div> (?).
 <LEND>

@@ -1,5 +1,5 @@
 <L>9737<pc>308<k1>gaze<k2>gaze
-<div n="lb"/>{@GAZE@}¦ (subs.): <div n="I">I The act: </div><div n="1">(1) {#स्थिदृष्टिः;#} </div><div n="1">(2)
-<div n="lb"/>{#बद्धदृष्टिः, नि-।#} </div><div n="I">II The object: {#स्थिर-#} <div n="xe">{%or%}</div> <div n="xs">{#बद्धलक्ष्यम्,#}</div>
-<div n="lb"/>K.</div>
+{@GAZE@}¦ (subs.): <div n="I">I The act: </div><div n="1">(1) {#स्थिदृष्टिः;#} </div><div n="1">(2)
+{#बद्धदृष्टिः, नि-।#} </div><div n="I">II The object: {#स्थिर-#} <div n="xe">{%or%}</div> <div n="xs">{#बद्धलक्ष्यम्,#}</div>
+K.</div>
 <LEND>

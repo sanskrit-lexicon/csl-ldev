@@ -12,7 +12,7 @@
 <ls>AK. 3, 2, 53.</ls> 
 <ls>H. 1491.</ls> {#भ्रष्टाभरणकेशान्ता भ्रष्टाभरणवाससः#} 
 <ls>MBH. 1, 7632.</ls> {#उत्तरीयमधो ऽपश्यद्भ्रष्टम्#} 
-<ls>?3, 2809. BRAHMA-P. in LA. (II) 53, 7. RĀJA-TAR. 6, 315. KATHĀS. 27, 186.</ls> {#दन्तावली#} 
+<ls>3, 2809.</ls> <ls>BRAHMA-P. in LA. (II) 53, 7.</ls> <ls>RĀJA-TAR. 6, 315.</ls> <ls>KATHĀS. 27, 186.</ls> {#दन्तावली#} 
 <ls>Spr. 831.</ls> {#भ्रष्टं नृपतिकिरीटाद्भूमौ पतितं रत्नम्#} 
 <ls>2078.</ls> {#मूषिकशावकः श्येनमुखाद्भ्रष्टः#} 
 <ls>HIT. 113, 7.</ls> {#महोल्केव भ्रष्टाम्बराद्गामिव संपतन्ती#} 
@@ -31,7 +31,7 @@ In comp. mit dem im abl. gedachten Worte: {#तच्छंकरशिरोभ
 <ls>ŚUK.</ls> in <ls>LA. (II) 32, 16. 17.</ls> 
 <div n="1">— 2) {%fallen, zu Fall kommen, stürzen%} in übertr. Bed.: {#ये तीक्ष्णमुनवर्तन्ते भ्रश्यन्ते सह तेन ते#} 
 <ls>R. 3, 45, 12.</ls> {#(मुनयः) भ्रश्यन्ते काममन्युभिः#} 
-<ls>R.</ls> <ls>SCHL. 2, 22, 23.</ls> {#भ्रष्टं नृपं मन्त्रिणः (त्यजन्ति)#} 
+<ls>R. SCHL. 2, 22, 23.</ls> {#भ्रष्टं नृपं मन्त्रिणः (त्यजन्ति)#} 
 <ls>Spr. 2883. 3965.</ls> {#स्वयं मायामोहितश्च परं भ्रष्टं करोति#} 
 <ls>PAÑCAR. 1, 10, 14.</ls> {#शापभ्रष्टा अप्सराः#} {%in Folge eines Fluchs%} (aus dem Himmel) {%gestürzt, zur Erde verbannt%} 
 <ls>KATHĀS. 6, 17.</ls> 
@@ -96,7 +96,7 @@ In comp. mit dem im abl. gedachten Worte: {#तच्छंकरशिरोभ
 <ls>RĀJA-TAR. 4, 541.</ls> {#गोकर्णस्योपरिष्टात्तु भ्रंशितः स महासुरः । पपात चेलगङ्गायाः पुलिने#} 
 <ls>HARIV. 8493.</ls> 
 <div n="1">— 2) {%stürzen%} (trans.) in übertr. Bed.: {#स चागस्त्येन क्रुद्धेन भ्रंशितो भूतलं गतः#} 
-<ls>MBH. 13, 4806. 2, 2630.</ls> {#मनुं यदा भ्रंशयितुं भोगा न शेकुः#}
+<ls>MBH. 13, 4806.</ls> <ls n="MBH.">2, 2630.</ls> {#मनुं यदा भ्रंशयितुं भोगा न शेकुः#}
 [Page5-0396]
 
 <ls>BHĀG. P. 3, 22, 34.</ls> Die Scholien trennen {#यद् - आ°#} und erklären: {#आभ्रंशयितुं आ ईषदपि भ्रं° अभिभवितुम्#} . 
@@ -106,14 +106,14 @@ In comp. mit dem im abl. gedachten Worte: {#तच्छंकरशिरोभ
 <ls>4190.</ls> 
 <div n="1">— 4) {%Jmd%} (acc.) {%um Etwas%} (abl.) {%bringen%}: {#राज्यात्#} 
 <ls>MBH. 3, 2253.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 75, 2.</ls> 
+
+<ls>R. GORR. 2, 75, 2.</ls> 
 <ls>MAHĀN. 181.</ls> {#ऐश्वर्यात्, स्वर्गात्#} 
 <ls>MBH. 1, 2482.</ls> {#त्रैलोक्यात्#} 
 <ls>3, 8759.</ls> {#स मामपनयः - भ्रंशयामास वै श्रियः#} 
 <ls>3, 12524.</ls> {#स्थानात्#} 
 <ls>R. GORR. 1, 35, 17.</ls> <ls>BHĀG. P. 9, 18, 3.</ls> {#जीवितात्#} 
-<ls>MBH. 3, 1571. 5, 4191.</ls> 
+<ls>MBH. 3, 1571.</ls> <ls n="MBH.">5, 4191.</ls> 
 <ls>R. 6, 36, 65.</ls> {#फलात्#} 
 <ls>MBH. 13, 4293.</ls> {#उपवासाद्व्रताच्च#} {%um den Lohn der Fasten und Gelübde%} 
 <ls>HARIV. 7775.</ls> {#भ्रंशितान्मार्गात्#} {%vom Wege abgebracht%} 
@@ -155,7 +155,7 @@ In comp. mit dem im abl. gedachten Worte: {#तच्छंकरशिरोभ
 <ls>MBH. 3, 2677.</ls> 
 <ls>Spr. 3008.</ls> {#साम्राज्य°#} 
 <ls>RĀJA-TAR. 5, 256.</ls> {#मार्गद्वय°#} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>?S. 2. PRAB. 21, 9. ŚUK. in LA. (II) 33, 21, v. l.</ls> {#सावित्री°#} 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 2.</ls> <ls>PRAB. 21, 9.</ls> <ls>ŚUK.</ls> in <ls>LA. (II) 33, 21, v. l.</ls> {#सावित्री°#} 
 <ls>M. 10, 20.</ls> {#मत्स्यमांस°#} 
 <ls>PAÑCAT. IV, 64.</ls> {#पतिधनजार°#} 
 <ls>227, 4.</ls> {#कुलजाति°#} 
@@ -195,13 +195,13 @@ In comp. mit dem im abl. gedachten Worte: {#तच्छंकरशिरोभ
 <ls>R. 2, 48, 29.</ls> {#विभ्रष्टतिमिरं नभः#} 
 <ls>R. GORR. 2, 38, 17.</ls> {#विभ्रष्टपादलेप#} 
 <ls>MĀRK. P. 61, 27.</ls> {#अविभ्रष्टरूपेण#} so v. a. {%ungeschwächt%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 281.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 281.</ls> 
 <div n="1">— 3) {%scheitern bei Etwas, keinen Erfolg haben in%} (loc.): {#त्रिरात्रे#} 
 <ls>PAÑCAV. BR. 16, 8, 2.</ls> {#अग्निर्वा एतस्य हव्यमत्ति यो यज्ञे विभ्रंशते न देवता हव्यं गमयति#} 
 <ls>3. 17, 8, 3.</ls> {#यज्ञ/विभ्रष्ट#} 
 <ls>TS. 2, 3, 3, 1.</ls> 
 <ls>KĀTY. ŚR. 22, 4, 30</ls> {#(यज्ञो विभ्रष्टो यस्य सः#} 
-<ls>Schol.</ls><ls>?). PAÑCAV. BR. 8, 2, 9. 17, 8, 1. ṢAḌV. BR. 2, 9.</ls> {#विभ्रष्टमिव वै सप्तममहः#} so v. a. {%vergeblich gewesen%} 
+<ls>Schol.</ls>). <ls>PAÑCAV. BR. 8, 2, 9. 17, 8, 1.</ls> <ls>ṢAḌV. BR. 2, 9.</ls> {#विभ्रष्टमिव वै सप्तममहः#} so v. a. {%vergeblich gewesen%} 
 <ls>PAÑCAV. BR. 14, 3, 22.</ls> 
 <div n="1">— 4) {%sich verlaufen von%} (abl.); {%sich trennen von, kommen um%}: {#मृगीव यूथविभ्रष्टा#} 
 <ls>KATHĀS. 33, 207.</ls> {#ऐश्वर्यविभ्रष्ट#} {%um die Herrschaft gekommen%} 

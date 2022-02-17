@@ -1,5 +1,5 @@
 <L>18997<pc>587<k1>renown<k2>renown
-<div n="lb"/>{@RENOWN:@}¦ <div n="1">(1) {#कीर्तिः,#} <div n="xe">{%of world-wide r.:%}</div> <div n="xs">{#विश्व-#}
-<div n="lb"/>{#विख्यातकीर्तिः,#}</div> D. s.; </div><div n="1">(2) {#ख्याति, प्र-;#} </div><div n="1">(3) {#यशस#}
-<div n="lb"/>(n.): v. Fame.</div>
+{@RENOWN:@}¦ <div n="1">(1) {#कीर्तिः,#} <div n="xe">{%of world-wide r.:%}</div> <div n="xs">{#विश्व-#}
+{#विख्यातकीर्तिः,#}</div> D. s.; </div><div n="1">(2) {#ख्याति, प्र-;#} </div><div n="1">(3) {#यशस#}
+(n.): v. Fame.</div>
 <LEND>

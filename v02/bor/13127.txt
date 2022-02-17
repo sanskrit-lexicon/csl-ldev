@@ -1,5 +1,5 @@
 <L>13127<pc>405<k1>ladle<k2>ladle
-<div n="lb"/>{@LADLE@}¦ (subs.): {#दर्विः#} <div n="xe">{%or%}</div> <div n="xs">{#दर्वी,#}</div> {%giving two l. s of rice:%}
-<div n="lb"/>{#ओदनस्य दर्वीद्वयं दत्त्वा,#} D. vi. <div n="xe">{%Sacrificial l:%}</div> <div n="xs">{#श्रुवः,#}</div>
-<div n="lb"/>Vi.
+{@LADLE@}¦ (subs.): {#दर्विः#} <div n="xe">{%or%}</div> <div n="xs">{#दर्वी,#}</div> {%giving two l. s of rice:%}
+{#ओदनस्य दर्वीद्वयं दत्त्वा,#} D. vi. <div n="xe">{%Sacrificial l:%}</div> <div n="xs">{#श्रुवः,#}</div>
+Vi.
 <LEND>

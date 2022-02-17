@@ -1,6 +1,6 @@
 <L>1929<pc>067<k1>benighted<k2>benighted
-<div n="lb"/>{@BENIGHTED:@}¦ <div n="I">I Lit: Ph. <div n="xe">{%we were b. in the%}
-<div n="lb"/>{%wood%}</div> <div n="xs">{#वन एवास्माकं निशा जगाम।#}</div> </div><div n="I">II Fig., of mind
-<div n="lb"/>etc. </div><div n="1">(1) {#तिमिरावृतः#} ({#ता, तं#}); </div><div n="1">(2) {#तमोवृतः#}
-<div n="lb"/>({#ता, तं#}).</div>
+{@BENIGHTED:@}¦ <div n="I">I Lit: Ph. <div n="xe">{%we were b. in the%}
+{%wood%}</div> <div n="xs">{#वन एवास्माकं निशा जगाम।#}</div> </div><div n="I">II Fig., of mind
+etc. </div><div n="1">(1) {#तिमिरावृतः#} ({#ता, तं#}); </div><div n="1">(2) {#तमोवृतः#}
+({#ता, तं#}).</div>
 <LEND>

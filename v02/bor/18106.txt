@@ -1,3 +1,3 @@
 <L>18106<pc>555<k1>psalmist<k2>psalmist
-<div n="lb"/>{@PSALMIST:@}¦ {#*स्तोत्रकारः#} <div n="xe">{%or%}</div> <div n="xs">{#-रचयितृ#}</div> (m.) <div n="xe">{%or%}</div> <div n="xs">{#-लेखकः।#}</div>
+{@PSALMIST:@}¦ {#*स्तोत्रकारः#} <div n="xe">{%or%}</div> <div n="xs">{#-रचयितृ#}</div> (m.) <div n="xe">{%or%}</div> <div n="xs">{#-लेखकः।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>10933<pc>344<k1>heroine<k2>heroine
-<div n="lb"/>{@HEROINE:@}¦ <div n="I">I Lit.: {#वीराङ्गना,#} and sim. comp.s.</div>
-<div n="lb"/><div n="I">II Of a play: {#नायिका,#} Sah.</div>
+{@HEROINE:@}¦ <div n="I">I Lit.: {#वीराङ्गना,#} and sim. comp.s.</div>
+<div n="I">II Of a play: {#नायिका,#} Sah.</div>
 <LEND>

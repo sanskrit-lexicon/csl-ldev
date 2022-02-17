@@ -1,10 +1,10 @@
 <L>12397<pc>385<k1>instead of<k2>instead of
-<div n="lb"/>{@INSTEAD OF:@}¦ <div n="I">I Before a subs.: {#स्थाने,#} <div n="xe">{%i. of%}
-<div n="lb"/>{%self:%}</div> <div n="xs">{#आत्मस्थाने,#}</div> P. i. 4.; <div n="xe">{%some read%}</div> <div n="xs">{#लासिका,#}</div> {%i. of%}
-<div n="lb"/>{#विलासिका: केचिद्विलासिकास्थाने लासिकेति पठन्ति,#} Sah.</div>
-<div n="lb"/><div n="I">II Before pres. parts: expr. by negative,
-<div n="lb"/>may be strengthened with {#वस्तुतः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्युत#}</div>
-<div n="lb"/>(= in fact): <div n="xe">{%i. of amassing he squandered his%}
-<div n="lb"/>{%money:%}</div> <div n="xs">{#सञ्चयमकृत्वा स धनं क्षपयामास।#}</div> </div><div n="I">III Equal
-<div n="lb"/>to: q.v.</div>
+{@INSTEAD OF:@}¦ <div n="I">I Before a subs.: {#स्थाने,#} <div n="xe">{%i. of%}
+{%self:%}</div> <div n="xs">{#आत्मस्थाने,#}</div> P. i. 4.; <div n="xe">{%some read%}</div> <div n="xs">{#लासिका,#}</div> {%i. of%}
+{#विलासिका: केचिद्विलासिकास्थाने लासिकेति पठन्ति,#} Sah.</div>
+<div n="I">II Before pres. parts: expr. by negative,
+may be strengthened with {#वस्तुतः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्युत#}</div>
+(= in fact): <div n="xe">{%i. of amassing he squandered his%}
+{%money:%}</div> <div n="xs">{#सञ्चयमकृत्वा स धनं क्षपयामास।#}</div> </div><div n="I">III Equal
+to: q.v.</div>
 <LEND>

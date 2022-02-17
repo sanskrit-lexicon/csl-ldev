@@ -1,10 +1,10 @@
 <L>20797<pc>653<k1>small<k2>small
-<div n="lb"/>{@SMALL@}¦ (adj.): <div n="I">I In gen.: </div><div n="1">(1) {#क्षुद्र#} (f. {#द्रा:#}
-<div n="lb"/>not of quantity), <div n="xe">{%s. craft:%}</div> <div n="xs">{#क्षुद्रनौः;#}</div> <div n="xe">{%s. whirl-%}
-<div n="lb"/>{%wind:%}</div> <div n="xs">{#क्षुद्रनिर्घातः,#}</div> K.; <div n="xe">{%s. enemy:%}</div> <div n="xs">{#क्षुद्रारातिः,#}</div> Ve.
-<div n="lb"/>iii.; </div><div n="1">(2) {#अल्प#} (f. {#ल्पा#} = little: q. v.), <div n="xe">{%and my%}
-<div n="lb"/>{%intellect of s. range:%}</div> <div n="xs">{#क्व चाल्पविषया मतिः,#}</div> R. i. 2.;
-<div n="lb"/><div n="xe">{%at a very s. price:%}</div> <div n="xs">{#अल्पीयसा मूल्येन,#}</div> D. iii. Ph.:
-<div n="lb"/><div n="xe">{%in a s. degree:%}</div> <div n="xs">{#ईषत्,:#}</div> v. Little (adv.), some-
-<div n="lb"/>-what. </div><div n="I">II Of the voice: v. Weak, low.</div>
+{@SMALL@}¦ (adj.): <div n="I">I In gen.: </div><div n="1">(1) {#क्षुद्र#} (f. {#द्रा:#}
+not of quantity), <div n="xe">{%s. craft:%}</div> <div n="xs">{#क्षुद्रनौः;#}</div> <div n="xe">{%s. whirl-%}
+{%wind:%}</div> <div n="xs">{#क्षुद्रनिर्घातः,#}</div> K.; <div n="xe">{%s. enemy:%}</div> <div n="xs">{#क्षुद्रारातिः,#}</div> Ve.
+iii.; </div><div n="1">(2) {#अल्प#} (f. {#ल्पा#} = little: q. v.), <div n="xe">{%and my%}
+{%intellect of s. range:%}</div> <div n="xs">{#क्व चाल्पविषया मतिः,#}</div> R. i. 2.;
+<div n="xe">{%at a very s. price:%}</div> <div n="xs">{#अल्पीयसा मूल्येन,#}</div> D. iii. Ph.:
+<div n="xe">{%in a s. degree:%}</div> <div n="xs">{#ईषत्,:#}</div> v. Little (adv.), some-
+-what. </div><div n="I">II Of the voice: v. Weak, low.</div>
 <LEND>

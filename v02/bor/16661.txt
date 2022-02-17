@@ -1,5 +1,5 @@
 <L>16661<pc>511<k1>peddlery<k2>peddlery
-<div n="lb"/>{@PEDDLERY:@}¦ <div n="I">I The wares: {#तुच्छभाण्डानि#} (n.
-<div n="lb"/>pl. ?); {#क्षुद्रपण्यानि#} (n. pl. ?). </div><div n="I">II The busi-
-<div n="lb"/>-ness: {#पादकार्यम्#} (?).</div>
+{@PEDDLERY:@}¦ <div n="I">I The wares: {#तुच्छभाण्डानि#} (n.
+pl. ?); {#क्षुद्रपण्यानि#} (n. pl. ?). </div><div n="I">II The busi-
+-ness: {#पादकार्यम्#} (?).</div>
 <LEND>

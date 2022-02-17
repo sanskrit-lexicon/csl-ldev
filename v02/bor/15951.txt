@@ -1,4 +1,4 @@
 <L>15951<pc>491<k1>orator<k2>orator
-<div n="lb"/>{@ORATOR:@}¦ <div n="1">(1) {#वाक्यकोविदः#} (?); </div><div n="1">(2) {#वक्तृ#} (m.)
-<div n="lb"/>(= speaker).</div>
+{@ORATOR:@}¦ <div n="1">(1) {#वाक्यकोविदः#} (?); </div><div n="1">(2) {#वक्तृ#} (m.)
+(= speaker).</div>
 <LEND>

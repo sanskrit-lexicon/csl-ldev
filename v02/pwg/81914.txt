@@ -17,7 +17,7 @@
 <ls>MBH. 1, 143</ls> in der Unterschr. {#समुद्र°#} 
 <ls>HARIV. 8304.</ls> {#मार्गशीर्षे शुभे मासि यायाद्यात्रां महीपतिः#} {%einen Feldzug unternehmen%} 
 <ls>M. 7, 182. 207.</ls> 
-<ls>MBH. 2, 192. 12, 2662. fg.</ls> 
+<ls>MBH. 2, 192.</ls> <ls n="MBH.">12, 2662. fg.</ls> 
 <ls>R. 2, 82, 23.</ls> {#°गमन#} 
 <ls>24. 3, 22, 7. 4, 30, 3. 6, 1, 7.</ls> {#यात्रायुक्त#} 
 <ls>SUŚR. 1, 122, 5.</ls> 
@@ -30,22 +30,22 @@
 <ls>KṚṢISAM̃GR. 8, 18. 21.</ls> {#तस्मिन्प्रयाते परलोकयात्राम्#} {%der Gang in die andere Welt%} 
 <ls>RAGH. 18, 15.</ls> {#प्राणान्तिकी#} so v. a. {%Tod%} 
 <ls>HARIV. 4713.</ls> {#और्ध्वदेहिकी#} dass. 
-<ls>4803.</ls> 
+<ls n="HARIV.">4803.</ls> 
 <div n="1">— 2) {%ein festlicher Zug, Procession%}; = {#उत्सव#} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>KATHĀS. 10, 87. 34, 174.</ls> {#जन्ययात्राजन#} 
 <ls>30, 96. 123, 159.</ls> {#यात्रायागादि नागानाम्#} 
 <ls>RĀJA-TAR. 1, 185. 220.</ls> {#अमरेश्वर°#} 
-<ls>?267. Verz. d. B. H. No. 1236. SĀH. D. 109. HIT. 85, 12.</ls> {#देव°#} 
+<ls>267.</ls> <ls>Verz. d. B. H. No. 1236.</ls> <ls>SĀH. D. 109.</ls> <ls>HIT. 85, 12.</ls> {#देव°#} 
 <ls>Verz. d. Oxf. H. 200,a,15.</ls> <ls>TRIK.2,7,8.</ls> 
 <div n="1">— 3) {%Lebensunterhalt%}, = {#यापन#} ({%passing away time%} 
 <ls>COLEBR.</ls> und <ls>WILSON</ls>), {#वृत्ति#} 
 <ls>AK. 3, 4, 25, 177.</ls> 
 <ls>MED.</ls> 
 <ls>H. an.</ls> 
-<ls>HALĀY. 5, 33</ls> (=  {#अनुवृत्ति?#}). 
+<ls>HALĀY. 5, 33</ls> (= {#अनुवृत्ति?#}). 
 <ls>M. 4, 3.</ls> 
 <ls>YĀJÑ. 3, 54. 59.</ls> {#तस्मिन्हि यात्रा लोकस्य#} 
-<ls>MBH. 5, 3027. 13, 2089. 14, 1281.</ls> 
+<ls>MBH. 5, 3027.</ls> <ls n="MBH.">13, 2089.</ls> <ls n="MBH.">14, 1281.</ls> 
 <ls>Spr. 4872.</ls> 
 <ls>BHĀG. P. 7, 15, 15. 10, 86, 15.</ls> {#शरीर°#} {%Unterhalt des Körpers%} 
 <ls>BHAG. 3, 8.</ls> 

@@ -1,5 +1,5 @@
 <L>13571<pc>418<k1>lightness<k2>lightness
-<div n="lb"/>{@LIGHTNESS:@}¦ <div n="1">(1) {#लधुता;#} </div><div n="1">(2) {#लघिमन्#} (m.), <div n="xe">{%cause%}
-<div n="lb"/>{%of the l. of women:%}</div> <div n="xs">{#योषितां लघिम्नः कारणम्#}</div>:, K.:
-<div n="lb"/>v. Levity.</div>
+{@LIGHTNESS:@}¦ <div n="1">(1) {#लधुता;#} </div><div n="1">(2) {#लघिमन्#} (m.), <div n="xe">{%cause%}
+{%of the l. of women:%}</div> <div n="xs">{#योषितां लघिम्नः कारणम्#}</div>:, K.:
+v. Levity.</div>
 <LEND>

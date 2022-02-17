@@ -1,5 +1,5 @@
 <L>16532<pc>508<k1>past<k2>past
-<div n="lb"/>{@PAST@}¦ (= prep.): <div n="xe">{%p. the time:%}</div> <div n="xs">{#अतीतकालः,#}</div> R. v.
-<div n="lb"/>14.: v. After; <div n="xe">{%p. the house:%}</div> <div n="xs">{#गृहमतिक्रम्य:#}</div> v.
-<div n="lb"/>Beyond.
+{@PAST@}¦ (= prep.): <div n="xe">{%p. the time:%}</div> <div n="xs">{#अतीतकालः,#}</div> R. v.
+14.: v. After; <div n="xe">{%p. the house:%}</div> <div n="xs">{#गृहमतिक्रम्य:#}</div> v.
+Beyond.
 <LEND>

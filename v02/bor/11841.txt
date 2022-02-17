@@ -1,6 +1,6 @@
 <L>11841<pc>370<k1>incestuous<k2>incestuous
-<div n="lb"/>{@INCESTUOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#अगम्यागामी;#} </div><div n="1">(2)
-<div n="lb"/>{#अगम्यागन्तृ#} (m.). </div><div n="I">II Of acts: by comp., <div n="xe">{%for i.%}
-<div n="lb"/>{%intercourse:%}</div> <div n="xs">{#अगम्यागमनार्थम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अगम्यार्थम्,#}</div> N.
-<div n="lb"/>xvii. 15.</div>
+{@INCESTUOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#अगम्यागामी;#} </div><div n="1">(2)
+{#अगम्यागन्तृ#} (m.). </div><div n="I">II Of acts: by comp., <div n="xe">{%for i.%}
+{%intercourse:%}</div> <div n="xs">{#अगम्यागमनार्थम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अगम्यार्थम्,#}</div> N.
+xvii. 15.</div>
 <LEND>

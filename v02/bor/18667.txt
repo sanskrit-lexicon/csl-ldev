@@ -1,6 +1,6 @@
 <L>18667<pc>575<k1>reason<k2>reason
-<div n="lb"/>{@REASON@}¦ (v.): <div n="1">(1) {#तर्कयति, वि-,#} ({#तर्क्,#} c. 10.);</div>
-<div n="lb"/><div n="1">(2) {#विचारयति#} (c. of {#चर्#}): v. To argue,
-<div n="lb"/>debate. Ph.: <div n="xe">{%r. ing faculty:%}</div> <div n="xs">{#धीशक्तिः:#}</div> v.
-<div n="lb"/>Reason (I).</div>
+{@REASON@}¦ (v.): <div n="1">(1) {#तर्कयति, वि-,#} ({#तर्क्,#} c. 10.);</div>
+<div n="1">(2) {#विचारयति#} (c. of {#चर्#}): v. To argue,
+debate. Ph.: <div n="xe">{%r. ing faculty:%}</div> <div n="xs">{#धीशक्तिः:#}</div> v.
+Reason (I).</div>
 <LEND>

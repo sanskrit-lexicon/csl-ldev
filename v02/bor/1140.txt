@@ -1,8 +1,8 @@
 <L>1140<pc>040<k1>artillery<k2>artillery
-<div n="lb"/>{@ARTILLERY:@}¦ <div n="I">I Weapons in general: {#अस्त्राणि#}
-<div n="lb"/>(n. pl.). </div><div n="I">II Cannon with all that apper-
-<div n="lb"/>-tains to them: {#*कामानानि#} {%or%} (when the
-<div n="lb"/>meaning is not clear) {#सोपकरणकामानानि#}
-<div n="lb"/>(n. pl.). </div><div n="I">III The troops who manage can-
-<div n="lb"/>-non etc.: {#*कामानबलम्।#}</div>
+{@ARTILLERY:@}¦ <div n="I">I Weapons in general: {#अस्त्राणि#}
+(n. pl.). </div><div n="I">II Cannon with all that apper-
+-tains to them: {#*कामानानि#} {%or%} (when the
+meaning is not clear) {#सोपकरणकामानानि#}
+(n. pl.). </div><div n="I">III The troops who manage can-
+-non etc.: {#*कामानबलम्।#}</div>
 <LEND>

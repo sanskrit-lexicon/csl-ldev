@@ -1,11 +1,11 @@
 <L>15864<pc>488<k1>one another<k2>one another
-<div n="lb"/>{@ONE ANOTHER,@}¦ {@ONE@} {@.THE OTHER:@} <div n="1">(1) {#अन्योन्यः #}
-<div n="lb"/>{# (न्या, न्यत्#}), <div n="xe">{%why do you eat o. a.'s flesh:%}</div> <div n="xs">{#कस्माद्यू-#}
-<div n="lb"/>{#यमन्योन्यं मांसं भक्षयथ,#}</div> Kar.; <div n="xe">{%placing o. a.'s%}
-<div n="lb"/>{%attributes on o. a.:%}</div> <div n="xs">{#अन्योन्यस्मिन्नन्योन्यधर्मानध्यस्य,#}</div>
-<div n="lb"/>S.; </div><div n="1">(2) {#इतरेतरः,#} ({#रा, रत्#}) <div n="xe">{%feeding o. a.:%}</div> <div n="xs">{#इतरेतरं #}
-<div n="lb"/>{# भोजयतः,#}</div> S. k.; <div n="xe">{%without distinguishing one from%}
-<div n="lb"/>{%the other:%}</div> <div n="xs">{#इतरेतराविवेकेन,#}</div> S.; </div><div n="1">(3) {#परस्परः,#} ({#रा, रं#})
-<div n="lb"/><div n="xe">{%all spoke to o. a.:%}</div> <div n="xs">{#ऊचुः सर्वे परस्परम्,#}</div> A. r.;
-<div n="lb"/><div n="xe">{%one with the other:%}</div> <div n="xs">{#परस्परेण,#}</div> R. vii. 14.</div>
+{@ONE ANOTHER,@}¦ {@ONE@} {@.THE OTHER:@} <div n="1">(1) {#अन्योन्यः #}
+{# (न्या, न्यत्#}), <div n="xe">{%why do you eat o. a.'s flesh:%}</div> <div n="xs">{#कस्माद्यू-#}
+{#यमन्योन्यं मांसं भक्षयथ,#}</div> Kar.; <div n="xe">{%placing o. a.'s%}
+{%attributes on o. a.:%}</div> <div n="xs">{#अन्योन्यस्मिन्नन्योन्यधर्मानध्यस्य,#}</div>
+S.; </div><div n="1">(2) {#इतरेतरः,#} ({#रा, रत्#}) <div n="xe">{%feeding o. a.:%}</div> <div n="xs">{#इतरेतरं #}
+{# भोजयतः,#}</div> S. k.; <div n="xe">{%without distinguishing one from%}
+{%the other:%}</div> <div n="xs">{#इतरेतराविवेकेन,#}</div> S.; </div><div n="1">(3) {#परस्परः,#} ({#रा, रं#})
+<div n="xe">{%all spoke to o. a.:%}</div> <div n="xs">{#ऊचुः सर्वे परस्परम्,#}</div> A. r.;
+<div n="xe">{%one with the other:%}</div> <div n="xs">{#परस्परेण,#}</div> R. vii. 14.</div>
 <LEND>

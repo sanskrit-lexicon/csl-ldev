@@ -1,6 +1,6 @@
 <L>6491<pc>208<k1>dispense<k2>dispense
-<div n="lb"/>{@DISPENSE@}¦ (v.): <div n="I">I To distribute: q. v. </div><div n="I">II
-<div n="lb"/>To d. with: Ph.: {%I cannot d. with a cap:%}
-<div n="lb"/>{#*शिरस्त्रं विना स्थातुं न शक्नोमि;#} <div n="xe">{%he can d. with%}
-<div n="lb"/>{%your presence:%}</div> <div n="xs">{#*तवानुपस्थितिमनुमन्तुं शक्तः।#}</div></div>
+{@DISPENSE@}¦ (v.): <div n="I">I To distribute: q. v. </div><div n="I">II
+To d. with: Ph.: {%I cannot d. with a cap:%}
+{#*शिरस्त्रं विना स्थातुं न शक्नोमि;#} <div n="xe">{%he can d. with%}
+{%your presence:%}</div> <div n="xs">{#*तवानुपस्थितिमनुमन्तुं शक्तः।#}</div></div>
 <LEND>

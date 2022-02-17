@@ -1,6 +1,6 @@
 <L>18779<pc>579<k1>redemption<k2>redemption
-<div n="lb"/>{@REDEMPTION:@}¦ <div n="I">I Buying back: </div><div n="1">(1) {#मोक्षः, #}
-<div n="lb"/>{# -णम्, परि-, वि-, सं-;#} </div><div n="1">(2) by circumlo.: v. To
-<div n="lb"/>redeem. </div><div n="I">II Liberation, deliverance: q. v.:
-<div n="lb"/>{#मोक्षः, -णम्।#}</div>
+{@REDEMPTION:@}¦ <div n="I">I Buying back: </div><div n="1">(1) {#मोक्षः, #}
+{# -णम्, परि-, वि-, सं-;#} </div><div n="1">(2) by circumlo.: v. To
+redeem. </div><div n="I">II Liberation, deliverance: q. v.:
+{#मोक्षः, -णम्।#}</div>
 <LEND>

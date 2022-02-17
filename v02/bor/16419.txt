@@ -1,9 +1,9 @@
 <L>16419<pc>503<k1>parent<k2>parent
-<div n="lb"/>{@PARENT:@}¦ 1. Father or mother: q. v.: <div n="xe">{%with-%}
-<div n="lb"/>{%out p. s.:%}</div> <div n="xs">{#पितृमातृवर्जितः#}</div> ({#ता, तं#}), Mah. iv. 11.
-<div n="lb"/>9.; <div n="xe">{%p. s.:%}</div> <div n="xs">{#मातापितरौ,#}</div> Mah. <div n="xe">{%The P. s of the%}
-<div n="lb"/>{%world:%}</div> <div n="xs">{#जगतः पितरौ,#}</div> R.; {%(I) carried%} ({%them%}) <div n="xe">{%to%}
-<div n="lb"/>{%my p.s:%}</div> <div n="xs">{#मम पित्रोः सन्निधिमनैषम्,#}</div> <ls>D.</ls> ii. Fig.:
-<div n="lb"/>{#प्रसूतिः,#} <div n="xe">{%p. of the Vedas:%}</div> <div n="xs">{#श्रुतीनां प्रसूतिः,#}</div> Ki. iii.
-<div n="lb"/>4.: v. Source.
+{@PARENT:@}¦ 1. Father or mother: q. v.: <div n="xe">{%with-%}
+{%out p. s.:%}</div> <div n="xs">{#पितृमातृवर्जितः#}</div> ({#ता, तं#}), Mah. iv. 11.
+9.; <div n="xe">{%p. s.:%}</div> <div n="xs">{#मातापितरौ,#}</div> Mah. <div n="xe">{%The P. s of the%}
+{%world:%}</div> <div n="xs">{#जगतः पितरौ,#}</div> R.; {%(I) carried%} ({%them%}) <div n="xe">{%to%}
+{%my p.s:%}</div> <div n="xs">{#मम पित्रोः सन्निधिमनैषम्,#}</div> <ls>D.</ls> ii. Fig.:
+{#प्रसूतिः,#} <div n="xe">{%p. of the Vedas:%}</div> <div n="xs">{#श्रुतीनां प्रसूतिः,#}</div> Ki. iii.
+4.: v. Source.
 <LEND>

@@ -6,11 +6,11 @@
 <ls>P. 6, 3, 109.</ls> 
 <div n="1"> 1) <lex>m.</lex> 
 <div n="2"> a) {%Pfau%} 
-<ls>AK.2,5,30.</ls> <ls>TRIK.2,5,26.</ls> <ls>H. 1319.</ls> <ls>an.3,593.</ls> <ls>MED. r. 200.</ls> <ls>HALĀY.2,86.</ls> <ls>VS. 24,23. 27.</ls> <ls>LĀṬY.8,12,6.</ls> <ls>Ind. St.4,108.8,267.</ls> <ls>HARIV. 10775. fg.</ls> <ls>R.3,79,15. 16.</ls> <ls>SUŚR.1,74,18. 114,10. 201,1. 228,13.</ls> <ls>RAGH.3,56.</ls> <ls>ṚT.1,13.</ls> <ls>ŚĀK. 105,1.</ls> <ls>?ad 78. Spr. 2504. WEBER, JYOT. 21. Verz. d. B. H. No. 897. Verz. d. Oxf. H. 86,b,38. 92,b,40. 123,a,18.</ls> {#वरमद्य कपोतो न श्वो मयूरः#} 
+<ls>AK.2,5,30.</ls> <ls>TRIK.2,5,26.</ls> <ls>H. 1319. an.3,593.</ls> <ls>MED. r. 200.</ls> <ls>HALĀY.2,86.</ls> <ls>VS. 24,23. 27.</ls> <ls>LĀṬY.8,12,6.</ls> <ls>Ind. St.4,108.8,267.</ls> <ls>HARIV. 10775. fg.</ls> <ls>R.3,79,15. 16.</ls> <ls>SUŚR.1,74,18. 114,10. 201,1. 228,13.</ls> <ls>RAGH.3,56.</ls> <ls>ṚT.1,13.</ls> <ls>ŚĀK. 105,1.</ls> ad <ls>78.</ls> <ls>Spr. 2504.</ls> <ls>WEBER, JYOT. 21.</ls> <ls>Verz. d. B. H. No. 897.</ls> <ls>Verz. d. Oxf. H. 86,b,38. 92,b,40. 123,a,18.</ls> {#वरमद्य कपोतो न श्वो मयूरः#} 
 <ls>216,a,41.</ls> {#°पिच्छ#} 
 <ls>ŚĀRṄG. SAṂH. 3, 9, 10.</ls> {#°ध्वज#} 
-<ls>Verz. d. B. H. No. 434</ls> <ls>(LXI).</ls> {#°चित्रक#} <lex>n.</lex> Titel des 
-<ls>47ten</ls> <is>Adhyāya</is> in 
+<ls>Verz. d. B. H. No. 434</ls> (<ls>LXI).</ls> {#°चित्रक#} <lex>n.</lex> Titel des 
+47ten <is>Adhyāya</is> in 
 <ls>VARĀH. BṚH. S.</ls>; vgl. {#बर्हिचित्रक#} 
 <ls>47, 2.</ls> {#°राज#} 
 <ls>HIOUEN-THSANG I, 138.</ls> {#मयू/री#} <lex>f.</lex> {%Pfauhenne%} 
@@ -25,7 +25,7 @@
 <ls>AK. 2, 4, 3, 30.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> {%Achyranthes aspera%} (s. {#अपामार्ग)#} 
-<ls>H. an.</ls> <ls>MED. -</ls> <ls>SUŚR. 2, 134, 21.</ls> 
+<ls>H. an.</ls> <ls>MED.</ls> - <ls>SUŚR. 2, 134, 21.</ls> 
 <div n="2">— c) {%ein best. zur Bestimmung der Zeit dienendes Instrument%} 
 <ls>SŪRYAS. 13, 21.</ls> 
 <div n="2">— d) N. pr. eines <is>Asura</is> 

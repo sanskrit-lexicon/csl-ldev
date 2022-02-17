@@ -1,5 +1,5 @@
 <L>5927<pc>190<k1>desertion<k2>desertion
-<div n="lb"/>{@DESERTION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#त्यागः, परि-;#} </div><div n="1">(2)
-<div n="lb"/>{#उत्सर्गः।#} </div><div n="I">II Military: {#*नियोगत्यागः, नियोगाद-#}
-<div n="lb"/>{#पसरणम्।#}</div>
+{@DESERTION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#त्यागः, परि-;#} </div><div n="1">(2)
+{#उत्सर्गः।#} </div><div n="I">II Military: {#*नियोगत्यागः, नियोगाद-#}
+{#पसरणम्।#}</div>
 <LEND>

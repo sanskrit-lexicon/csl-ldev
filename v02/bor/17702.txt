@@ -1,7 +1,7 @@
 <L>17702<pc>542<k1>press<k2>press
-<div n="lb"/>{@PRESS@}¦ (subs.): <div n="I">I P. ing: {#पीडनम्, सं-, नि-।#} </div><div n="I">II
-<div n="lb"/>Printing-p.: {#*मुद्रायन्त्रम्।#} </div><div n="I">III Printed publi-
-<div n="lb"/>-cations: <div n="xe">{%the English p. is free:%}</div> <div n="xs">{#अयन्त्रितानीं-#}
-<div n="lb"/>{#लण्डीयमुद्रितानि।#}</div> </div><div n="I">IV Urgency: {%p. of business:%}
-<div n="lb"/>{#कार्योपरोधः।#}</div>
+{@PRESS@}¦ (subs.): <div n="I">I P. ing: {#पीडनम्, सं-, नि-।#} </div><div n="I">II
+Printing-p.: {#*मुद्रायन्त्रम्।#} </div><div n="I">III Printed publi-
+-cations: <div n="xe">{%the English p. is free:%}</div> <div n="xs">{#अयन्त्रितानीं-#}
+{#लण्डीयमुद्रितानि।#}</div> </div><div n="I">IV Urgency: {%p. of business:%}
+{#कार्योपरोधः।#}</div>
 <LEND>

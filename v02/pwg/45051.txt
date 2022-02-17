@@ -31,7 +31,7 @@
 <ls>MBH. 7, 6148.</ls> {#विद्युत्संपात°#} 
 <ls>3, 11145.</ls> {#हेम°#} 
 <ls>R. 1, 1, 66. 4, 3, 27.</ls> {#मधु°#} 
-<ls>MBH. 3, 11151. 13, 832.</ls> 
+<ls>MBH. 3, 11151.</ls> <ls n="MBH.">13, 832.</ls> 
 <ls>R. 5, 74, 10.</ls> 
 <ls>VARĀH. BṚH. S. 67, 64.</ls> 
 <ls>BṚH. 2, 8.</ls> {#सिन्दूर°#} 
@@ -63,14 +63,14 @@
 <ls>ŚĀṄKH. GṚHY. 4, 16.</ls> N. pr. eines <is>Rudra</is> 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>MATSYA-P.</ls> in <ls>VP. 121, N. 17.</ls> Bei <ls>WILSON</ls> <is>Śiva</is>. 
 <div n="2">— k) N. pr. eines <is>Yakṣa</is> 
-<ls>MBH.3,14565.</ls> <ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 42,a, Kap. 167.</ls> 
+<ls>MBH. 3, 14565.</ls> <ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 42,a,</ls> <ls>Kap. 167.</ls> 
 <div n="2">— l) N. pr. eines Wesens im Gefolge des <is>Śiva</is> 
 <ls>KATHĀS. 45, 352.</ls> 
 <div n="2">— m) N. pr. eines <is>Dānava</is> 
 <ls>KATHĀS. 47, 12.</ls> 
 <div n="2">— n) N. pr. eines <is>Nāga</is> 
-<ls>MED.</ls> <ls>VYUTP. 87. 85</ls> <ls>?(<is>Nāgarāja</is>). MBH. 1, 1554.</ls> angeblicher Verfasser des <is>Chandas</is> 
-<ls>COLEBR. Misc. Ess.</ls> <ls>?II,63. fgg. 97. MÜLLER, SL. 147. fgg. 244. Verz. d. B. H. No. 380. fgg. 1353. fg. Verz. d. Oxf. H. No. 457. fgg. S. 113,a. Ind. St.1,17. 59.</ls> {#छन्दोज्ञाननिधिं जघान मकरो #}
+<ls>MED.</ls> <ls>VYUTP. 87. 85</ls> (<is>Nāgarāja</is>). <ls>MBH. 1, 1554.</ls> angeblicher Verfasser des <is>Chandas</is> 
+<ls>COLEBR. Misc. Ess. II,63. fgg. 97.</ls> <ls>MÜLLER, SL. 147. fgg. 244.</ls> <ls>Verz. d. B. H. No. 380. fgg. 1353. fg.</ls> <ls>Verz. d. Oxf. H. No. 457. fgg. S. 113,a.</ls> <ls>Ind. St.1,17. 59.</ls> {#छन्दोज्ञाननिधिं जघान मकरो #}
 [Page4-0702]
 {# वेलातटे पिङ्गलम्#} 
 <ls>PAÑCAT. II, 34.</ls> {#°वृत्ति#} <lex>f.</lex> {%Commentar%} zur Metrik des <is>Piṅgala</is> 
@@ -78,7 +78,7 @@
 <ls>91. 92. 102.</ls> {#°सारविकाशिनी#} 
 <ls>Verz. d. Oxf. H. No. 457.</ls> 
 <div n="2">— o) N. pr. verschiedener alter Weisen 
-<ls>H. an.</ls> <ls>MBH. 1, 2046. 2047.</ls> <ls>R. 2, 32, 28.</ls> mit dem Bein. {#वत्साजीव#} N. eines Bettlers 
+<ls>H. an.</ls> <ls>MBH. 1, 2046.</ls> <ls n="MBH. 1,">2047.</ls> <ls>R. 2, 32, 28.</ls> mit dem Bein. {#वत्साजीव#} N. eines Bettlers 
 <ls>BURN. Intr. 360.</ls> 
 <div n="2">— p) pl. N. pr. eines Volkes 
 <ls>MĀRK. P. 58, 45.</ls> Vgl. {#अनन्तपिङ्गलान्पिङ्गान्#} 
@@ -98,14 +98,14 @@
 <div n="2">— d) {%ein best. Metall%} ({#राजरीति#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— e) {%eine best. Arterie%} 
-<ls>H. an.</ls> <ls>Ind. St.2,172.</ls> <ls>Verz. d. Oxf. H. 104,b,40. No.</ls> <ls>?167; vgl. CHĀND. UP.8,6,1.</ls> 
+<ls>H. an.</ls> <ls>Ind. St.2,172.</ls> <ls>Verz. d. Oxf. H. 104,b,40. No.</ls> <ls>167</ls>; vgl. <ls>CHĀND. UP.8,6,1.</ls> 
 <div n="2">— f) N. pr. des Weibchens des Elephanten <is>Vāmana</is> 
 <ls>AK. 1, 1, 2, 6. <is>Kumuda</is></ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HĀR. 147.</ls> 
 <div n="2">— g) N. pr. einer später fromm gewordenen Buhldirne 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 263.</ls> <ls>MBH. 12,6513. fgg. 6646.</ls> <ls>KAP. 4,11.</ls> <ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 74,b, Kap. 22.</ls> <ls>MADHUS.</ls> in <ls>Ind. St.1,22.</ls> 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 263.</ls> <ls>MBH. 12, 6513. fgg.</ls> <ls n="MBH. 12,">6646.</ls> <ls>KAP. 4,11.</ls> <ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 74,b,</ls> <ls>Kap. 22.</ls> <ls>MADHUS.</ls> in <ls>Ind. St.1,22.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%ein best. Metall%} ({#रीति#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 

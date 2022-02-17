@@ -1,5 +1,5 @@
 <L>6069<pc>195<k1>devotional<k2>devotional
-<div n="lb"/>{@DEVOTIONAL:@}¦ <div n="I">I Devout: </div><div n="1">(1) {#धर्मपरायणः#} (f. {#णा#});</div>
-<div n="lb"/><div n="1">(2) {#धर्मनिष्ठः#} ({#ष्ठा, ष्ठं#}). </div><div n="I">II Relating to devo-
-<div n="lb"/>-tion: expr. by {#धर्म#}- in comp.</div>
+{@DEVOTIONAL:@}¦ <div n="I">I Devout: </div><div n="1">(1) {#धर्मपरायणः#} (f. {#णा#});</div>
+<div n="1">(2) {#धर्मनिष्ठः#} ({#ष्ठा, ष्ठं#}). </div><div n="I">II Relating to devo-
+-tion: expr. by {#धर्म#}- in comp.</div>
 <LEND>

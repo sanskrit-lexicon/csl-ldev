@@ -1,4 +1,4 @@
 <L>7956<pc>251<k1>exaggeration<k2>exaggeration
-<div n="lb"/>{@EXAGGERATION:@}¦ <div n="1">(1) {#अत्युक्तिः#} <div n="xe">{%or%}</div> <div n="xs">{#अतिशयोक्तिः#}</div>
-<div n="lb"/>(= hyperbole).</div>
+{@EXAGGERATION:@}¦ <div n="1">(1) {#अत्युक्तिः#} <div n="xe">{%or%}</div> <div n="xs">{#अतिशयोक्तिः#}</div>
+(= hyperbole).</div>
 <LEND>

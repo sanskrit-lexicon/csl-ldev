@@ -1,5 +1,5 @@
 <L>9229<pc>292<k1>forget<k2>forget
-<div n="lb"/>{@FORGET:@}¦ <div n="1">(1) {#विस्मरति#} ({#स्मृ,#} c. 1.), {%who f. s wrongs:%}
-<div n="lb"/>{#योऽपकृतं विस्मरति,#} Mr. ii.; </div><div n="1">(2) {#न स्मरति,#} <div n="xe">{%who f.s%}
-<div n="lb"/>{%his mother land:%}</div> <div n="xs">{#केन जन्मभूमिर्न स्मर्यते,#}</div> V.p.</div>
+{@FORGET:@}¦ <div n="1">(1) {#विस्मरति#} ({#स्मृ,#} c. 1.), {%who f. s wrongs:%}
+{#योऽपकृतं विस्मरति,#} Mr. ii.; </div><div n="1">(2) {#न स्मरति,#} <div n="xe">{%who f.s%}
+{%his mother land:%}</div> <div n="xs">{#केन जन्मभूमिर्न स्मर्यते,#}</div> V.p.</div>
 <LEND>

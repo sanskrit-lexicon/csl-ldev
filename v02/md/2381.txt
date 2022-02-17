@@ -1,15 +1,15 @@
 <L>2381<pc>025-1<k1>अमर<k2>अमर
 {#अमर#}¦a-mára, {%a.%} ({@ā, ī@}) immortal; {%m.%} god; 
-<>{@-garbha,@} {%m.%} divine child; {@-guru,@} {%m.%} Bṛhaspati, <lbinfo n="10"/>
-<> the planet Jupiter; {@-taṭinī@}, {%f.%} river 
-<>of the gods, Ganges; {@-taru,@} {%m. a certain%} tree; 
-<>{@-tā,@} {%f.,%} {@-tva,@} {%n.%} divinity; immortality; {@-dat-@}
-<>{@-ta,@} {%m. N.%}; {@-druma,@} {%m.%} tree of the gods, Pātijāta; 
-<>{@-dviṣ,@} {%m.%} Asura; {@-pakṣa-pātin,@} {%m.%} friend 
-<>of the gods; {@-pati-kamāra,@} {%m.%} son of Indra 
-<>(Jayanta); {@-parvata,@} {%m. N. of a mtn.%}; {@-pura,@} 
-<>{%n.,%} {@ī,@} {%f.%} city of the gods; {@-prakhya,@} {%a.%} like 
-<>an immortal; {@-prabha,@} {%a.%} bright as an immortal; <lbinfo n="2"/>
-<> {@-prāthita,@} {%pp.%} wooed by immortals; 
-<>{@-mṛgī-dṛś@}, {%f.%} Apsaras.
+{@-garbha,@} {%m.%} divine child; {@-guru,@} {%m.%} Bṛhaspati, <lbinfo n="10"/>
+ the planet Jupiter; {@-taṭinī@}, {%f.%} river 
+of the gods, Ganges; {@-taru,@} {%m. a certain%} tree; 
+{@-tā,@} {%f.,%} {@-tva,@} {%n.%} divinity; immortality; {@-dat-@}
+{@-ta,@} {%m. N.%}; {@-druma,@} {%m.%} tree of the gods, Pātijāta; 
+{@-dviṣ,@} {%m.%} Asura; {@-pakṣa-pātin,@} {%m.%} friend 
+of the gods; {@-pati-kamāra,@} {%m.%} son of Indra 
+(Jayanta); {@-parvata,@} {%m. N. of a mtn.%}; {@-pura,@} 
+{%n.,%} {@ī,@} {%f.%} city of the gods; {@-prakhya,@} {%a.%} like 
+an immortal; {@-prabha,@} {%a.%} bright as an immortal; <lbinfo n="2"/>
+ {@-prāthita,@} {%pp.%} wooed by immortals; 
+{@-mṛgī-dṛś@}, {%f.%} Apsaras.
 <LEND>

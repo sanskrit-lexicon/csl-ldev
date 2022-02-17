@@ -1,10 +1,10 @@
 <L>20156<pc>628<k1>sensual<k2>sensual
-<div n="lb"/>{@SENSUAL:@}¦ <div n="I">I Lit.: by comp.: v. Sense. </div><div n="I">II
-<div n="lb"/>Carnal: expr. with {#विषय#} <div n="xe">{%or%}</div> <div n="xs">{#इन्द्रिय#}</div> in comp.,
-<div n="lb"/><div n="xe">{%became indifferent to s. pleasures:%}</div> <div n="xs">{#विषयेषु निःस्पृहो-#}
-<div n="lb"/>{#ऽभवत्,#}</div> R. viii. 10.; <div n="xe">{%turning the mind from s.%}
-<div n="lb"/>{%pleasures:%}</div> <div n="xs">{#निवर्त्य विषयसुखेभ्यो मनः,#}</div> K. </div><div n="I">III
-<div n="lb"/>Voluptuous: </div><div n="1">(1) {#विषयासक्तचेतस्#} (mfn.) and
-<div n="lb"/>sim. comp.s; </div><div n="1">(2) {#इन्द्रियसुखनिरत#} (f. {#ता#}) and
-<div n="lb"/>sim. comp.s.</div>
+{@SENSUAL:@}¦ <div n="I">I Lit.: by comp.: v. Sense. </div><div n="I">II
+Carnal: expr. with {#विषय#} <div n="xe">{%or%}</div> <div n="xs">{#इन्द्रिय#}</div> in comp.,
+<div n="xe">{%became indifferent to s. pleasures:%}</div> <div n="xs">{#विषयेषु निःस्पृहो-#}
+{#ऽभवत्,#}</div> R. viii. 10.; <div n="xe">{%turning the mind from s.%}
+{%pleasures:%}</div> <div n="xs">{#निवर्त्य विषयसुखेभ्यो मनः,#}</div> K. </div><div n="I">III
+Voluptuous: </div><div n="1">(1) {#विषयासक्तचेतस्#} (mfn.) and
+sim. comp.s; </div><div n="1">(2) {#इन्द्रियसुखनिरत#} (f. {#ता#}) and
+sim. comp.s.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>11876<pc>371<k1>income<k2>income
-<div n="lb"/>{@INCOME:@}¦ {#आयः,#} <div n="xe">{%without thinking of the i.:%}</div> <div n="xs">{#आयमना-#}
-<div n="lb"/>{#लोच्य,#}</div> H.; <div n="xe">{%sources of i.:%}</div> <div n="xs">{#आयद्वाराणि,#}</div> Mat.
+{@INCOME:@}¦ {#आयः,#} <div n="xe">{%without thinking of the i.:%}</div> <div n="xs">{#आयमना-#}
+{#लोच्य,#}</div> H.; <div n="xe">{%sources of i.:%}</div> <div n="xs">{#आयद्वाराणि,#}</div> Mat.
 <LEND>

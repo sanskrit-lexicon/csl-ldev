@@ -1,5 +1,5 @@
 <L>16188<pc>497<k1>overture<k2>overture
-<div n="lb"/>{@OVERTURE:@}¦ <div n="I">I Proposal: {#उपन्यासः#} (?); {#प्रस्तावना#}
-<div n="lb"/>(?). </div><div n="I">II A musical introduction: {#प्रस्तावना#}
-<div n="lb"/>(?).</div>
+{@OVERTURE:@}¦ <div n="I">I Proposal: {#उपन्यासः#} (?); {#प्रस्तावना#}
+(?). </div><div n="I">II A musical introduction: {#प्रस्तावना#}
+(?).</div>
 <LEND>

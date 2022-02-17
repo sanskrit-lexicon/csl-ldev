@@ -1,5 +1,5 @@
 <L>452<pc>018<k1>aggrandizement<k2>aggrandizement
-<div n="lb"/>{@AGGRANDIZEMENT:@}¦ <div n="1">(1) {#वृद्धिः;#} </div><div n="1">(2) {#विवृद्धिः;#}</div>
-<div n="lb"/><div n="1">(3) {#वर्धनम्।#} v. Advancement, exaltation,
-<div n="lb"/>enlargement.</div>
+{@AGGRANDIZEMENT:@}¦ <div n="1">(1) {#वृद्धिः;#} </div><div n="1">(2) {#विवृद्धिः;#}</div>
+<div n="1">(3) {#वर्धनम्।#} v. Advancement, exaltation,
+enlargement.</div>
 <LEND>

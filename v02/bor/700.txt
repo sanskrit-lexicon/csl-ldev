@@ -1,7 +1,7 @@
 <L>700<pc>025<k1>amorous<k2>amorous
-<div n="lb"/>{@AMOROUS:@}¦ <div n="I">I Prone to love: </div><div n="1">(1) {#कामिन्#} (f.
-<div n="lb"/>{#र्ना#}); </div><div n="1">(2) {#कामुकः#} ({#का, कं#}); </div><div n="1">(3) {#प्रेमशीलः#} ({#ला, #}
-<div n="lb"/>{# लं#}). </div><div n="I">II In love: v. Enamoured. </div><div n="I">III Per-
-<div n="lb"/>-taining to love: {#काम-#} (in comp.): v. Ama-
-<div n="lb"/>-tory.</div>
+{@AMOROUS:@}¦ <div n="I">I Prone to love: </div><div n="1">(1) {#कामिन्#} (f.
+{#र्ना#}); </div><div n="1">(2) {#कामुकः#} ({#का, कं#}); </div><div n="1">(3) {#प्रेमशीलः#} ({#ला, #}
+{# लं#}). </div><div n="I">II In love: v. Enamoured. </div><div n="I">III Per-
+-taining to love: {#काम-#} (in comp.): v. Ama-
+-tory.</div>
 <LEND>

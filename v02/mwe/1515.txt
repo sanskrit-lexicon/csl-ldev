@@ -1,5 +1,5 @@
 <L>1515<pc>032-b<k1>auditory<k2>auditory
-<div n="lb"/>AUDITORY¦, {%s.%} (A collection of hearers) {#श्रोतारः#} {%m. pl.,%} {#सभासदः#} {%m.%}
-<div n="lb"/>{%pl.,%} {#सभा, सदः#} {%n.%} {#(स्), परिपद्#} {%f.%} — (A lecture room) {#पाठश ला,#}
-<div n="lb"/>{#श्रवणशाला#}.
+AUDITORY¦, {%s.%} (A collection of hearers) {#श्रोतारः#} {%m. pl.,%} {#सभासदः#} {%m.%}
+{%pl.,%} {#सभा, सदः#} {%n.%} {#(स्), परिपद्#} {%f.%} — (A lecture room) {#पाठश ला,#}
+{#श्रवणशाला#}.
 <LEND>

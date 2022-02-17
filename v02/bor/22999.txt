@@ -1,4 +1,4 @@
 <L>22999<pc>724<k1>turn off<k2>turn off
-<div n="lb"/>{@TURN OFF:@}¦ <div n="I">I Divert: {#विवर्तयति#} (c. of {#वृत्#}).</div>
-<div n="lb"/><div n="I">II To dismiss, discharge: q. v.: {#दूरीकरोति।#}</div>
+{@TURN OFF:@}¦ <div n="I">I Divert: {#विवर्तयति#} (c. of {#वृत्#}).</div>
+<div n="I">II To dismiss, discharge: q. v.: {#दूरीकरोति।#}</div>
 <LEND>

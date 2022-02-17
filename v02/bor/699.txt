@@ -1,7 +1,7 @@
 <L>699<pc>025<k1>among<k2>among
-<div n="lb"/>{@AMONG:@}¦ <div n="I">I Amidst: q. v.: {#मध्ये#} (with gen.).</div>
-<div n="lb"/><div n="I">II Making part of a number of: </div><div n="1">(1) {#मध्ये#}
-<div n="lb"/>(with gen.), <div n="xe">{%a. his very many sons%}</div> <div n="xs">{#अतिप्रभूतानां #}
-<div n="lb"/>{# सुतानां मध्ये,#}</div> <ls>K.</ls> ; </div><div n="1">(2) by loc., <div n="xe">{%Rambhā a. women%}
-<div n="lb"/>{%and Rāma a. kings%}</div> <div n="xs">{#नारीषु रम्भा नृपतिषु रामः।#}</div></div>
+{@AMONG:@}¦ <div n="I">I Amidst: q. v.: {#मध्ये#} (with gen.).</div>
+<div n="I">II Making part of a number of: </div><div n="1">(1) {#मध्ये#}
+(with gen.), <div n="xe">{%a. his very many sons%}</div> <div n="xs">{#अतिप्रभूतानां #}
+{# सुतानां मध्ये,#}</div> <ls>K.</ls> ; </div><div n="1">(2) by loc., <div n="xe">{%Rambhā a. women%}
+{%and Rāma a. kings%}</div> <div n="xs">{#नारीषु रम्भा नृपतिषु रामः।#}</div></div>
 <LEND>

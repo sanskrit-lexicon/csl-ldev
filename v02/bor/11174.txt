@@ -1,7 +1,7 @@
 <L>11174<pc>351<k1>horizon<k2>horizon
-<div n="lb"/>{@HORIZON:@}¦ <div n="1">(1) {#हरिजम्,#} {%as a sign comes to the h.:%}
-<div n="lb"/>{#यद्वद्राशिर्व्रजति हरिजम्,#} Ja. v. 17.; </div><div n="1">(2) {#क्षितिजम्,#}
-<div n="lb"/><div n="xe">{%that point is then on the h.:%}</div> <div n="xs">{#तल्लग्नं क्षितिजे तदा,#}</div> Su.
-<div n="lb"/>iii. 48. N.B. Colloquially {#दिङ्मण्डलः#} and sim.
-<div n="lb"/>comp.s. would do.</div>
+{@HORIZON:@}¦ <div n="1">(1) {#हरिजम्,#} {%as a sign comes to the h.:%}
+{#यद्वद्राशिर्व्रजति हरिजम्,#} Ja. v. 17.; </div><div n="1">(2) {#क्षितिजम्,#}
+<div n="xe">{%that point is then on the h.:%}</div> <div n="xs">{#तल्लग्नं क्षितिजे तदा,#}</div> Su.
+iii. 48. N.B. Colloquially {#दिङ्मण्डलः#} and sim.
+comp.s. would do.</div>
 <LEND>

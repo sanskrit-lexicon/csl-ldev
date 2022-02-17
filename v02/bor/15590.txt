@@ -1,18 +1,18 @@
 <L>15590<pc>478<k1>number<k2>number
-<div n="lb"/>{@NUMBER@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#संख्या,#} <div n="xe">{%tell the%}
-<div n="lb"/>{%total n. of the flock:%}</div> <div n="xs">{#सकलां यूथस्य संख्यां वद,#}</div> Li.;
-<div n="lb"/><div n="xe">{%beyond n.:%}</div> <div n="xs">{#अतीतसंख्यः#}</div> ({#ख्या, ख्यं#}), Ki.; <div n="xe">{%accord-%}
-<div n="lb"/>{%ing to the n. of the sciences:%}</div> <div n="xs">{#विद्यापरिसंख्यया,#}</div> R.;
-<div n="lb"/><div n="xe">{%prime n.:%}</div> <div n="xs">{#*मूलसंख्या;#}</div> <div n="xe">{%theory of n.s:%}</div> <div n="xs">{#*संख्यातत्त्वम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#राशिः#} (= quantity) <div n="xe">{%what n.:%}</div> <div n="xs">{#को राशिः।#}</div></div>
-<div n="lb"/><div n="I">II A great n.: </div><div n="1">(1) expr. by {#बहु#} (f. {#ह्वी#})
-<div n="lb"/>(= many: q. v.); </div><div n="1">(2) {#सङ्घः#} (= crowd, multi-
-<div n="lb"/>-tude: q. v.), <div n="xe">{%in n. s:%}</div> <div n="xs">{#सङ्घशः।#}</div> </div><div n="I">III Nume-
-<div n="lb"/>-rousness: </div><div n="1">(1) {#संख्या,#} <div n="xe">{%the strength of an army%}
-<div n="lb"/>{%does not depend on its n.:%}</div> <div n="xs">{#*बलानां बलं न संख्याधीनम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#बहुत्वम्।#} </div><div n="I">III In gram.: {#वचनम्,#} <div n="xe">{%n. and%}
-<div n="lb"/>{%person:%}</div> <div n="xs">{#पुरूषवचने,#}</div> S. k.; <div n="xe">{%the singular n.:%}</div> <div n="xs">{#एकवचनम्;#}</div>
-<div n="lb"/><div n="xe">{%the dual n.:%}</div> <div n="xs">{#द्विवचनम्;#}</div> <div n="xe">{%the plural n.:%}</div> <div n="xs">{#वहुबचनम्।#}</div></div>
-<div n="lb"/><div n="I">IV In pl., poetry, metre: q. v.: {#छन्दस्#} (n.).</div>
-<div n="lb"/><div n="I">V In. pl., <div n="xe">{%the book of n.s:%}</div> <div n="xs">{#*संख्याध्यायः।#}</div></div>
+{@NUMBER@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#संख्या,#} <div n="xe">{%tell the%}
+{%total n. of the flock:%}</div> <div n="xs">{#सकलां यूथस्य संख्यां वद,#}</div> Li.;
+<div n="xe">{%beyond n.:%}</div> <div n="xs">{#अतीतसंख्यः#}</div> ({#ख्या, ख्यं#}), Ki.; <div n="xe">{%accord-%}
+{%ing to the n. of the sciences:%}</div> <div n="xs">{#विद्यापरिसंख्यया,#}</div> R.;
+<div n="xe">{%prime n.:%}</div> <div n="xs">{#*मूलसंख्या;#}</div> <div n="xe">{%theory of n.s:%}</div> <div n="xs">{#*संख्यातत्त्वम्;#}</div></div>
+<div n="1">(2) {#राशिः#} (= quantity) <div n="xe">{%what n.:%}</div> <div n="xs">{#को राशिः।#}</div></div>
+<div n="I">II A great n.: </div><div n="1">(1) expr. by {#बहु#} (f. {#ह्वी#})
+(= many: q. v.); </div><div n="1">(2) {#सङ्घः#} (= crowd, multi-
+-tude: q. v.), <div n="xe">{%in n. s:%}</div> <div n="xs">{#सङ्घशः।#}</div> </div><div n="I">III Nume-
+-rousness: </div><div n="1">(1) {#संख्या,#} <div n="xe">{%the strength of an army%}
+{%does not depend on its n.:%}</div> <div n="xs">{#*बलानां बलं न संख्याधीनम्;#}</div></div>
+<div n="1">(2) {#बहुत्वम्।#} </div><div n="I">III In gram.: {#वचनम्,#} <div n="xe">{%n. and%}
+{%person:%}</div> <div n="xs">{#पुरूषवचने,#}</div> S. k.; <div n="xe">{%the singular n.:%}</div> <div n="xs">{#एकवचनम्;#}</div>
+<div n="xe">{%the dual n.:%}</div> <div n="xs">{#द्विवचनम्;#}</div> <div n="xe">{%the plural n.:%}</div> <div n="xs">{#वहुबचनम्।#}</div></div>
+<div n="I">IV In pl., poetry, metre: q. v.: {#छन्दस्#} (n.).</div>
+<div n="I">V In. pl., <div n="xe">{%the book of n.s:%}</div> <div n="xs">{#*संख्याध्यायः।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>2550<pc>087<k1>breech<k2>breech
-<div n="lb"/>{@BREECH:@}¦ <div n="1">(1) {#कटिदेशः#} </div><div n="1">(2) {#नितम्बः।#} {%B. of a gun:%}
-<div n="lb"/>{#*पश्चाद्भागः।#}</div>
+{@BREECH:@}¦ <div n="1">(1) {#कटिदेशः#} </div><div n="1">(2) {#नितम्बः।#} {%B. of a gun:%}
+{#*पश्चाद्भागः।#}</div>
 <LEND>

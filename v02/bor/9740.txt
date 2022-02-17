@@ -1,5 +1,5 @@
 <L>9740<pc>308<k1>gazetteer<k2>gazetteer
-<div n="lb"/>{@GAZETTEER:@}¦ <div n="I">I A gazetter-writer: {#*वार्तावह-#}
-<div n="lb"/>{#लेखकः।#} </div><div n="I">II Of places: {#*स्थानकोषः,#} {%g. of India%}
-<div n="lb"/>{#*भारतवर्षस्थानकोषः।#}</div>
+{@GAZETTEER:@}¦ <div n="I">I A gazetter-writer: {#*वार्तावह-#}
+{#लेखकः।#} </div><div n="I">II Of places: {#*स्थानकोषः,#} {%g. of India%}
+{#*भारतवर्षस्थानकोषः।#}</div>
 <LEND>

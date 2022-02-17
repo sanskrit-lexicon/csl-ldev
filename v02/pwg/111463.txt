@@ -9,7 +9,7 @@
 <ls>ṢAḌV. BR. 4, 7.</ls> 
 <ls>ṚV. PRĀT. 17, 9.</ls> 
 <ls>Ind. St. 8, 273.</ls> {#दासी#} 
-<ls>MBH. 3, 14695. 13, 3427.</ls> 
+<ls>MBH. 3, 14695.</ls> <ls n="MBH.">13, 3427.</ls> 
 <ls>ŚRUT. 22.</ls> {#मार्जार#} 
 <ls>MBH. 5, 5437.</ls> Besonders von der Farbe des Goldes: {#सु\वर्ण\ं हिर^ण्यम्#} 
 <ls>TBR. 1, 4, 7, 4. 8, 9, 1. 2, 2, 4, 5. 3, 3, 4, 5. 8, 2, 4.</ls> 
@@ -38,7 +38,7 @@
 <ls>R. 2, 32, 14.</ls> 
 <ls>SUŚR. 1, 142, 17. 227, 19.</ls> {#°चूर्ण#} 
 <ls>369, 4.</ls> {#दुर्जनहुताशतप्तं काव्यसुवर्णं विशुद्धिमायाति#} 
-<ls>Spr. (II) 2858. 4074.</ls> 
+<ls>Spr. (II) 2858.</ls> <ls n="Spr. (II)">4074.</ls> 
 <ls>VARĀH. BṚH. S. 41, 7. 42, 6.</ls> <ls>WEBER, RĀMAT. UP. 356.</ls> <ls>BHĀG. P. 5, 16, 21.</ls> <ls>PAÑCAT. 191, 25.</ls> {#°मणिकुल्या#} 
 <ls>RĀJA-TAR. 1, 97.</ls> {#°मुष्टि#} 
 <ls>LALIT. ed. Calc. 202, 4.</ls> {#°भस्मन\#} 
@@ -56,9 +56,9 @@
 <ls>RĀJA-TAR. 6, 102.</ls> {#साष्टे शते सुवर्णानाम्#} 
 <ls>AK.3,4,1,13.</ls> <ls>MṚCCH. 34,13. 18.</ls> <ls>Verz. d. Oxf. H. 151,a,10.</ls> <ls>PAÑCAT. 134,3. fgg.</ls> <ls>HIT. 98,11, v. l.</ls> {#द्विसुवर्णधनम्#} 
 <ls>P. 6, 2, 55, Schol.</ls> {#अध्यर्ध°, द्वि°#} <lex>adj.</lex> 
-<ls>?5, 1, 29, <is>Vārtt</is>., Schol. VET. in LA. (III) 23, 18. 28, 4.</ls> {#टङ्कसहस्रसुवर्ण#} 
+<ls>5, 1, 29, <is>Vārtt</is>., Schol.</ls> <ls>VET. in LA. (III) 23, 18. 28, 4.</ls> {#टङ्कसहस्रसुवर्ण#} 
 <ls>24, 4</ls> schwerlich richtig ({#सुवर्ण#} wohl zu streichen). 
-<ls>BURNOUF,</ls> <ls>?Intr. 238. HIOUEN-THSANG 2, 29.</ls> 
+<ls>BURNOUF, Intr. 238.</ls> <ls>HIOUEN-THSANG 2, 29.</ls> 
 <div n="1">— 4) <lex>n.</lex> {%Geld, Reichthum%} 
 <ls>H. an.</ls> 
 <div n="1">— 5) Bez. verschiedener Pflanzen: = {#सुवर्णालु (सुवर्णानु#} 
@@ -66,9 +66,9 @@
 n. <ls>H. an.</ls> m. <ls>MED. n.</ls> = {#हरिचन्दन#} 
 <ls>MED.</ls> = {#नागकेसर#} 
 <ls>RĀJAN. 6, 179.</ls> = {#गौरसुवर्ण#} 
-<ls>?7, 152. m.</ls> = {#कणगुग्गुलु#} (vgl. {#सुवर्णकण#}) 
+<ls>7, 152.</ls> m. = {#कणगुग्गुलु#} (vgl. {#सुवर्णकण#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> {%Stechapfel%} 
-<ls>ŚKDR.</ls> nach <ls>AK.</ls> <ls>?(vgl. 2, 4, 2, 58).</ls>
+<ls>ŚKDR.</ls> nach <ls>AK.</ls> (vgl. <ls>2, 4, 2, 58</ls>).
 [Page7-1125]
 
 <div n="1">— 6) <lex>n.</lex> {%eine Art Röthel%} ({#स्वर्णगैरिक#}) 

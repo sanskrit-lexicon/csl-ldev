@@ -1,4 +1,4 @@
 <L>2313<pc>080<k1>bombardment<k2>bombardment
-<div n="lb"/>{@BOMBARDMENT:@}¦ {#*आग्नेयगुलीभिर्मर्दनं#} <div n="xe">{%or%}</div> <div n="xs">{#विमर्दनं#}</div> {%or%}
-<div n="lb"/>{#मन्थनम्।#}
+{@BOMBARDMENT:@}¦ {#*आग्नेयगुलीभिर्मर्दनं#} <div n="xe">{%or%}</div> <div n="xs">{#विमर्दनं#}</div> {%or%}
+{#मन्थनम्।#}
 <LEND>

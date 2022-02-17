@@ -1,10 +1,10 @@
 <L>18501<pc>568<k1>rage<k2>rage
-<div n="lb"/>{@RAGE@}¦ (subs.): <div n="I">I Violent anger: </div><div n="1">(1) {#रोषः#}
-<div n="lb"/>(rarely {#रुष्, -षा#}), <div n="xe">{%tears of r.:%}</div> <div n="xs">{#रुषाश्रु,#}</div> Si. xv.
-<div n="lb"/>4.: v. Anger; </div><div n="1">(2) {#संरम्भः,#} <div n="xe">{%Sita's laugh%}
-<div n="lb"/>{%excited her r.:%}</div> <div n="xs">{#संरम्भं मैथिलीहासो निनाय ताम्,#}</div> R.
-<div n="lb"/>xii. 36.; <div n="xe">{%the excitement of r.:%}</div> <div n="xs">{#संरम्भवेगः,#}</div> Ki.
-<div n="lb"/>xvii. 49. </div><div n="I">II Vehemence, excitement:
-<div n="lb"/>q. v.: {#प्रकोपः।#} </div><div n="I">III Violent passion: </div><div n="1">(1)
-<div n="lb"/>{#व्यसनम्;#} </div><div n="1">(2) {#लालसा#} (= longing).</div>
+{@RAGE@}¦ (subs.): <div n="I">I Violent anger: </div><div n="1">(1) {#रोषः#}
+(rarely {#रुष्, -षा#}), <div n="xe">{%tears of r.:%}</div> <div n="xs">{#रुषाश्रु,#}</div> Si. xv.
+4.: v. Anger; </div><div n="1">(2) {#संरम्भः,#} <div n="xe">{%Sita's laugh%}
+{%excited her r.:%}</div> <div n="xs">{#संरम्भं मैथिलीहासो निनाय ताम्,#}</div> R.
+xii. 36.; <div n="xe">{%the excitement of r.:%}</div> <div n="xs">{#संरम्भवेगः,#}</div> Ki.
+xvii. 49. </div><div n="I">II Vehemence, excitement:
+q. v.: {#प्रकोपः।#} </div><div n="I">III Violent passion: </div><div n="1">(1)
+{#व्यसनम्;#} </div><div n="1">(2) {#लालसा#} (= longing).</div>
 <LEND>

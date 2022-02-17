@@ -1,6 +1,6 @@
 <L>21121<pc>665<k1>species<k2>species
-<div n="lb"/>{@SPECIES:@}¦ <div n="1">(1) {#जातिः,#} <div n="xe">{%of the same s.:%}</div> <div n="xs">{#सजातीय#}</div> {%or%}
-<div n="lb"/>{#एकजातीय#} (f. {#या#}), Sr.; {%whatever is best in a s. is%}
-<div n="lb"/>{%called%} ({%its%}) <div n="xe">{%gem:%}</div> <div n="xs">{#जातौ जातौ यदुत्कृष्टं तद्रत्नं कथ्यते #}
-<div n="lb"/>{# बधैः,#}</div> M. n. </div><div n="I">II {#प्रकारः:#} v. Kind.</div>
+{@SPECIES:@}¦ <div n="1">(1) {#जातिः,#} <div n="xe">{%of the same s.:%}</div> <div n="xs">{#सजातीय#}</div> {%or%}
+{#एकजातीय#} (f. {#या#}), Sr.; {%whatever is best in a s. is%}
+{%called%} ({%its%}) <div n="xe">{%gem:%}</div> <div n="xs">{#जातौ जातौ यदुत्कृष्टं तद्रत्नं कथ्यते #}
+{# बधैः,#}</div> M. n. </div><div n="I">II {#प्रकारः:#} v. Kind.</div>
 <LEND>

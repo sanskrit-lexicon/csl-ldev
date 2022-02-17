@@ -1,5 +1,5 @@
 <L>13547<pc>417<k1>life<k2>life
-<div n="lb"/>{@LIFE,@}¦ {@COME TO:@} {#उज्जीवति#} ({#जीव्,#} c. 1.), <div n="xe">{%the living%}
-<div n="lb"/>{%beings suddenly came to l.:%}</div> <div n="xs">{#उदजीवत् सहसैव #}
-<div n="lb"/>{# जीवलोकः,#}</div> Si.
+{@LIFE,@}¦ {@COME TO:@} {#उज्जीवति#} ({#जीव्,#} c. 1.), <div n="xe">{%the living%}
+{%beings suddenly came to l.:%}</div> <div n="xs">{#उदजीवत् सहसैव #}
+{# जीवलोकः,#}</div> Si.
 <LEND>

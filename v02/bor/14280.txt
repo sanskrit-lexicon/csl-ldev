@@ -1,5 +1,5 @@
 <L>14280<pc>438<k1>material<k2>material
-<div n="lb"/>{@MATERIAL@}¦ (subs.): <div n="1">(1) {#साधनम्,#} <div n="xe">{%m. s being%}
-<div n="lb"/>{%collected:%}</div> <div n="xs">{#संभृतसाधनत्वात्,#}</div> R. xvi. 38.; </div><div n="1">(2)
-<div n="lb"/>{#उपकरणम्,#} M. n.: v. Thing.</div>
+{@MATERIAL@}¦ (subs.): <div n="1">(1) {#साधनम्,#} <div n="xe">{%m. s being%}
+{%collected:%}</div> <div n="xs">{#संभृतसाधनत्वात्,#}</div> R. xvi. 38.; </div><div n="1">(2)
+{#उपकरणम्,#} M. n.: v. Thing.</div>
 <LEND>

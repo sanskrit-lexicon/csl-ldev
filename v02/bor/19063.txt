@@ -1,4 +1,4 @@
 <L>19063<pc>590<k1>reproduce<k2>reproduce
-<div n="lb"/>{@REPRODUCE:@}¦ <div n="1">(1) {#प्रत्युत्पादयति#} (c. of {#पद्#}); </div><div n="1">(2)
-<div n="lb"/>{#पुनर् जनयति#} (c. of {#जन्#}); etc.</div>
+{@REPRODUCE:@}¦ <div n="1">(1) {#प्रत्युत्पादयति#} (c. of {#पद्#}); </div><div n="1">(2)
+{#पुनर् जनयति#} (c. of {#जन्#}); etc.</div>
 <LEND>

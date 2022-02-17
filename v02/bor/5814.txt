@@ -1,5 +1,5 @@
 <L>5814<pc>186<k1>denier<k2>denier
-<div n="lb"/>{@DENIER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अस्वीकर्तृ#} (f. {#त्री#}); </div><div n="1">(2)
-<div n="lb"/>{#अपह्रोतृ#} (f. {#त्री#}); </div><div n="1">(3) {#अपलापिन्#} (f. {#नी#}). </div><div n="I">II A
-<div n="lb"/>small coin: {#वराटिका।#}</div>
+{@DENIER:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#अस्वीकर्तृ#} (f. {#त्री#}); </div><div n="1">(2)
+{#अपह्रोतृ#} (f. {#त्री#}); </div><div n="1">(3) {#अपलापिन्#} (f. {#नी#}). </div><div n="I">II A
+small coin: {#वराटिका।#}</div>
 <LEND>

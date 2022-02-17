@@ -1,6 +1,6 @@
 <L>23029<pc>725<k1>twice<k2>twice
-<div n="lb"/>{@TWICE:@}¦ <div n="1">(1) {#द्विः;#} </div><div n="1">(2) {#द्विवारम्,#} <div n="xe">{%T. born:%}</div> <div n="xs">{#द्विजः#}</div>
-<div n="lb"/>({#जा, जं#}); <div n="xe">{%t. ploughed:%}</div> <div n="xs">{#द्विगुणाकृतः#}</div> ({#ता, तं#}); <div n="xe">{%t. as%}
-<div n="lb"/>{%valiant as he:%}</div> <div n="xs">{#तस्माद्विगुणपराक्रान्तः#}</div> ({#न्ता, न्तं#});
-<div n="lb"/><div n="xe">{%t. a day:%}</div> <div n="xs">{#द्विरह्रः।#}</div></div>
+{@TWICE:@}¦ <div n="1">(1) {#द्विः;#} </div><div n="1">(2) {#द्विवारम्,#} <div n="xe">{%T. born:%}</div> <div n="xs">{#द्विजः#}</div>
+({#जा, जं#}); <div n="xe">{%t. ploughed:%}</div> <div n="xs">{#द्विगुणाकृतः#}</div> ({#ता, तं#}); <div n="xe">{%t. as%}
+{%valiant as he:%}</div> <div n="xs">{#तस्माद्विगुणपराक्रान्तः#}</div> ({#न्ता, न्तं#});
+<div n="xe">{%t. a day:%}</div> <div n="xs">{#द्विरह्रः।#}</div></div>
 <LEND>

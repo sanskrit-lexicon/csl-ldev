@@ -1,5 +1,5 @@
 <L>17248<pc>528<k1>plod<k2>plod
-<div n="lb"/>{@PLOD@}¦ (v.): {#सततं श्राम्यति#} ({#श्रम्,#} c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#आत्मानम् #}
-<div n="lb"/>{# आयासयति#}</div> (c. of {#यस्#} ?), {%a p. ding student:%}
-<div n="lb"/>{#सततपठनश्रमी#} <div n="xe">{%or%}</div> <div n="xs">{#सततश्रमाध्यायी।#}</div>
+{@PLOD@}¦ (v.): {#सततं श्राम्यति#} ({#श्रम्,#} c. 4.) <div n="xe">{%or%}</div> <div n="xs">{#आत्मानम् #}
+{# आयासयति#}</div> (c. of {#यस्#} ?), {%a p. ding student:%}
+{#सततपठनश्रमी#} <div n="xe">{%or%}</div> <div n="xs">{#सततश्रमाध्यायी।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>775<pc>016-b<k1>amount<k2>amount
-<div n="lb"/>AMOUNT¦, {%s.%} {#परिमाणं, सङ्ख्या, समुदायः, उपचायः, सारः, अर्थः;#} ‘money
-<div n="lb"/>to the amount of a lac,’ {#लक्षसंख्यानि धनानि#}. — (Value, price) {#मूल्यं#}.
+AMOUNT¦, {%s.%} {#परिमाणं, सङ्ख्या, समुदायः, उपचायः, सारः, अर्थः;#} ‘money
+to the amount of a lac,’ {#लक्षसंख्यानि धनानि#}. — (Value, price) {#मूल्यं#}.
 <LEND>

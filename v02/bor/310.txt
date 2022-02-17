@@ -1,8 +1,8 @@
 <L>310<pc>012<k1>adoptive<k2>adoptive
-<div n="lb"/>{@ADOPTIVE:@}¦ <div n="I">I One who adopts: {#परिग्रहीतृ#} (f.
-<div n="lb"/>{#त्री#}): v. Adopter. </div><div n="I">II One who is a. ed:</div>
-<div n="lb"/><div n="1">(1) {#कृत्रिमः#} ({#मा, मं#}); </div><div n="1">(2) {#दत्तकः#} (a son given);</div>
-<div n="lb"/><div n="1">(3) {#क्रीतः#} (a son bought). {%See%} M. ix. 168.
-<div n="lb"/>169. 174. 177.: Ph. <div n="xe">{%a. daughter%}</div> <div n="xs">{#अपत्यकृतिका,#}</div>
-<div n="lb"/><ls>U.</ls> i.</div>
+{@ADOPTIVE:@}¦ <div n="I">I One who adopts: {#परिग्रहीतृ#} (f.
+{#त्री#}): v. Adopter. </div><div n="I">II One who is a. ed:</div>
+<div n="1">(1) {#कृत्रिमः#} ({#मा, मं#}); </div><div n="1">(2) {#दत्तकः#} (a son given);</div>
+<div n="1">(3) {#क्रीतः#} (a son bought). {%See%} M. ix. 168.
+169. 174. 177.: Ph. <div n="xe">{%a. daughter%}</div> <div n="xs">{#अपत्यकृतिका,#}</div>
+<ls>U.</ls> i.</div>
 <LEND>

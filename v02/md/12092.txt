@@ -1,10 +1,10 @@
 <L>12092<pc>173-2<k1>प्रतिज्ञा<k2>प्रतिज्ञा
 {#प्रतिज्ञा#}¦prati-jñā, {%f.%} agreement, understanding, <lbinfo n="5"/>
-<> assent; promise; assertion, declaration; <lbinfo n="7"/>
-<> prosecution, action ({%leg.%}); announcement <lbinfo n="8"/>
-<> of a proposition {%in an argument%} ({%logic%}); 
-<>{@-jñāta@}, {%pp.%} promised, agreed; propounded, 
-<>proposed; {%n.%} promise; {@-jñāna@}, {%n.%} admission, 
-<>assent; promise; assertion; propounding a 
-<>subject.
+ assent; promise; assertion, declaration; <lbinfo n="7"/>
+ prosecution, action ({%leg.%}); announcement <lbinfo n="8"/>
+ of a proposition {%in an argument%} ({%logic%}); 
+{@-jñāta@}, {%pp.%} promised, agreed; propounded, 
+proposed; {%n.%} promise; {@-jñāna@}, {%n.%} admission, 
+assent; promise; assertion; propounding a 
+subject.
 <LEND>

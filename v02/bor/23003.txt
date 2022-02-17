@@ -1,5 +1,5 @@
 <L>23003<pc>725<k1>turn round<k2>turn round
-<div n="lb"/>{@TURN ROUND:@}¦ {#परि- वर्तते, परा-, वि-#} ({#वृत्,#} c. 1.),
-<div n="lb"/><div n="xe">{%t. ing round and seeing the king:%}</div> <div n="xs">{#परिवृत्य राजनमव-#}
-<div n="lb"/>{#लोक्य,#}</div> Ve.
+{@TURN ROUND:@}¦ {#परि- वर्तते, परा-, वि-#} ({#वृत्,#} c. 1.),
+<div n="xe">{%t. ing round and seeing the king:%}</div> <div n="xs">{#परिवृत्य राजनमव-#}
+{#लोक्य,#}</div> Ve.
 <LEND>

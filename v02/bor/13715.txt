@@ -1,4 +1,4 @@
 <L>13715<pc>422<k1>locally<k2>locally
-<div n="lb"/>{@LOCALLY:@}¦ gen. expr. by {#तत्र#} (there) <div n="xe">{%or%}</div> <div n="xs">{#यत्र#}</div>
-<div n="lb"/>(where).
+{@LOCALLY:@}¦ gen. expr. by {#तत्र#} (there) <div n="xe">{%or%}</div> <div n="xs">{#यत्र#}</div>
+(where).
 <LEND>

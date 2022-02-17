@@ -1,5 +1,5 @@
 <L>8187<pc>259<k1>expressible<k2>expressible
-<div n="lb"/>{@EXPRESSIBLE:@}¦ <div n="I">I What can be declared: </div><div n="1">(1)
-<div n="lb"/>{#कथनीयः#} ({#या, यं#}); </div><div n="1">(2) {#आख्येयः#} ({#या, यं#}). </div><div n="I">II
-<div n="lb"/>What can be squeezed: {#निष्कर्षणीयः#} ({#या, यं#}).</div>
+{@EXPRESSIBLE:@}¦ <div n="I">I What can be declared: </div><div n="1">(1)
+{#कथनीयः#} ({#या, यं#}); </div><div n="1">(2) {#आख्येयः#} ({#या, यं#}). </div><div n="I">II
+What can be squeezed: {#निष्कर्षणीयः#} ({#या, यं#}).</div>
 <LEND>

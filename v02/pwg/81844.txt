@@ -4,11 +4,11 @@
 <ls>DRĀHY. 9, 13, 27. 29.</ls> 
 <ls>M. 1, 88. 8, 340. 10, 75. fgg. 103. 109. fgg. 11, 180.</ls> 
 <ls>YĀJÑ. 1, 118.</ls> 
-<ls>MBH. 1, 8113. 3, 5048. 12, 6733. 14, 127. 176.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 60, 6.</ls> 
-<ls>KĀM. NĪTIS. 2, 19.</ls> <ls>Verz. d. Oxf. H. 266</ls>, {%b%}, 
-<ls>33. 267</ls>, {%a%}, 
+<ls>MBH. 1, 8113.</ls> <ls n="MBH.">3, 5048.</ls> <ls n="MBH.">12, 6733.</ls> <ls n="MBH.">14, 127.</ls> <ls n="MBH. 14,">176.</ls> 
+
+<ls>R. GORR. 1, 60, 6.</ls> 
+<ls>KĀM. NĪTIS. 2, 19.</ls> <ls>Verz. d. Oxf. H. 266,b,</ls> 
+<ls>33. 267,a,</ls> 
 <ls>7. fgg.</ls> <ls>MĀRK. P. 14, 83.</ls> {#व्रात्यानाम्#} 
 <ls>M. 11, 197. 60.</ls> 
 <ls>YĀJÑ. 3, 237.</ls> 

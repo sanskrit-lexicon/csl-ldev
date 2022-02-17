@@ -1,28 +1,28 @@
 <L>1238<pc>012-1<k1>अनन्यगामिन्<k2>अनन्यगामिन्
 {#अनन्यगामिन्#}¦ananya-gāmin, {%a.%} going to no 
-<>other; {@-guru,@} {%a.%} having no other father, fatherless; <lbinfo n="2"/>
-<> {@-citta@}, {%a.%} thinking exclusively of 
-<>({%lc.%}); {@-cetas@}, {%a. id.%}; {@-ja@}, {%a.%} legitimately born; 
-<>{@-jāni@}, {%a.%} having no other wife; {@-dṛṣṭi@}, {%a.%} 
-<>looking at nothing else; {@-nātha,@} {%a.%} having no 
-<>other protector; {@-nāri-kamanīya,@} {%fp.%} not to 
-<>be desired by another woman; {@-nārī-sāmā-@}
-<>{@-nya,@} {%a.%} having communion with no other woman; <lbinfo n="2"/>
-<> {@-para,@} {%a.%} intent on nothing else; {@-pa-@}
-<>{@-rāyana,@} {%a.%} devoted to no one else; {@-pūrva,@} 
-<>{%a.%} not married to any one else before; 
-<>{@-pūrvikā,@} {%f.%} not married before; {@-prati-@}
-<>{@-kriya,@} {%a.%} having no other expedient; {@-bhāj@}, 
-<>{%a.%} devoted to no one else; {@-manas,@} {%a.%} thinking <lbinfo n="5"/>
-<> of no one else; {@-mānasa,@} {%a. id.%}; {@-ruci@}, {%a.%} 
-<>liking nothing else; {@-viṣaya,@} {%a.%} relating to 
-<>nothing else; {@-vyāpāra,@} {%a.%} occupied with nothing <lbinfo n="2"/>
-<> else; {@-śaraṇa@}, {%a.%} having no other refuge; <lbinfo n="2"/>
-<> {@-śāsana@}, {%a.%} under no one else's commands; <lbinfo n="3"/>
-<> {@-saṃtati@}, {%a.%} without other offspring; 
-<>{@-sama,@} {%a.%} like no one else, unequalled; {@-sā-@}
-<>{@-dhāraṇa@}, {%a.%} ({@ī@}) common to no one else; {@-sā-@}
-<>{@-mānya,@} {%a.%} unequalled; {@-adhīna,@} {%a.%} depending 
-<>on no other; {@-apatya,@} {%a.%} having no other offspring; <lbinfo n="3"/>
-<> {@-āśrita@}, {%pp.%} not transferred to another.
+other; {@-guru,@} {%a.%} having no other father, fatherless; <lbinfo n="2"/>
+ {@-citta@}, {%a.%} thinking exclusively of 
+({%lc.%}); {@-cetas@}, {%a. id.%}; {@-ja@}, {%a.%} legitimately born; 
+{@-jāni@}, {%a.%} having no other wife; {@-dṛṣṭi@}, {%a.%} 
+looking at nothing else; {@-nātha,@} {%a.%} having no 
+other protector; {@-nāri-kamanīya,@} {%fp.%} not to 
+be desired by another woman; {@-nārī-sāmā-@}
+{@-nya,@} {%a.%} having communion with no other woman; <lbinfo n="2"/>
+ {@-para,@} {%a.%} intent on nothing else; {@-pa-@}
+{@-rāyana,@} {%a.%} devoted to no one else; {@-pūrva,@} 
+{%a.%} not married to any one else before; 
+{@-pūrvikā,@} {%f.%} not married before; {@-prati-@}
+{@-kriya,@} {%a.%} having no other expedient; {@-bhāj@}, 
+{%a.%} devoted to no one else; {@-manas,@} {%a.%} thinking <lbinfo n="5"/>
+ of no one else; {@-mānasa,@} {%a. id.%}; {@-ruci@}, {%a.%} 
+liking nothing else; {@-viṣaya,@} {%a.%} relating to 
+nothing else; {@-vyāpāra,@} {%a.%} occupied with nothing <lbinfo n="2"/>
+ else; {@-śaraṇa@}, {%a.%} having no other refuge; <lbinfo n="2"/>
+ {@-śāsana@}, {%a.%} under no one else's commands; <lbinfo n="3"/>
+ {@-saṃtati@}, {%a.%} without other offspring; 
+{@-sama,@} {%a.%} like no one else, unequalled; {@-sā-@}
+{@-dhāraṇa@}, {%a.%} ({@ī@}) common to no one else; {@-sā-@}
+{@-mānya,@} {%a.%} unequalled; {@-adhīna,@} {%a.%} depending 
+on no other; {@-apatya,@} {%a.%} having no other offspring; <lbinfo n="3"/>
+ {@-āśrita@}, {%pp.%} not transferred to another.
 <LEND>

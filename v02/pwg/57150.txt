@@ -25,7 +25,7 @@
 <ls>ṚV. 7, 32, 16.</ls> <ls n="ṚV.">8, 41, 2</ls> (Comm.). {#इमं लोकम्, मध्यमम्, ब्रह्मलोकम्#} 
 <ls>M. 2, 233.</ls> {#पितुः पदं मध्यमम्#} 
 <ls>VIKR. 19.</ls> {#क्रान्तं येन (चन्द्रेण) मध्यमं धाम विष्णोः#} ad 
-<ls>ŚĀK. 78. -</ls> <ls>NIR. 2, 8.</ls> {#अग्नि#} 
+<ls>ŚĀK. 78.</ls> - <ls>NIR. 2, 8.</ls> {#अग्नि#} 
 <ls>7, 16.</ls> {#°धर्म#} 
 <ls>23. 10, 2. 12, 26.</ls> {#मध्यमैः स्पर्शवर्गैः#} 
 <ls>ṚV. PRĀT. 5, 21.</ls> {#पिण्ड#} 
@@ -56,8 +56,8 @@
 <ls>3.</ls> <ls>Spr. 1077. 2376.</ls> {#उत्तम, म°, कनीयंस्#} 
 <ls>PAÑCAT. 16, 7.</ls> {#मुख्य (महन्त्), म°, जघन्य#} 
 <ls>MBH. 2, 176. fg.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 109, 20.</ls> {#उत्तम, म°, जघन्य#} 
+
+<ls>R. GORR. 2, 109, 20.</ls> {#उत्तम, म°, जघन्य#} 
 <ls>M. 12, 43. 46.</ls> {#नीचाः, म°, उत्तमाः#} 
 <ls>Spr. 1979.</ls> {#श्रेष्ठा, म°, अधमा (नायिका)#} Cit. beim 
 <ls>Schol.</ls> zu <ls>ŚĀK. 9, 6.</ls> {#प्रथम, म°, उत्तम#} 
@@ -83,7 +83,7 @@
 <ls>SŪRYAS. 1, 56.</ls> 
 <ls>VARĀH.</ls> <ls>LAGHUJ. 2, 16</ls> in <ls>Ind. St. 2, 286.</ls> {#°यौवना#} 
 <ls>Schol.</ls> zu <ls>ŚIŚ. 8, 36.</ls> {#कैशिकी, मध्यमारभटी#} 
-<ls>Verz. d. Oxf. H. 208</ls>, {%a%}, 35. fg. 
+<ls>Verz. d. Oxf. H. 208,a,35.</ls> fg. 
 <ls>PRATĀPAR. 11,a,1. 2.</ls> {#परा, पश्यन्ती, म°, वैखरी (अवस्था)#} 
 <ls>WEBER, RĀMAT. UP. 335. fg.</ls> <ls>ALAṂKĀRAKAUSTUBHA</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— d) {%zwischen zwei feindlichen Parteien stehend, unbetheiligt, neutral%}: {#म°, विजिगीषु, उदासीन, शत्रु#} 
@@ -99,7 +99,7 @@
 <ls>MED.</ls> 
 <div n="2">— b) Bez. {%der mittleren%} d. i. {%4ten (5ten%} 
 <ls>AK.</ls>) {%Note%} 
-<ls>AK.1,1,7,1.</ls> <ls>TRIK.3,3,301.</ls> <ls>H. 1401.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 12,6859. 14,1419.</ls> <ls>Ind. St.4,105. 139. fg. 351.8,259. fg. 269.</ls> <ls>Verz. d. Oxf. H. 200,b,17.</ls> <ls>As. Res.3,68.9,456. fgg.</ls> {%die mittlere der drei musikalischen Scalas%}: {#षड्जमध्यमगान्धारग्रामत्रयविशारदाः#} 
+<ls>AK. 1,1,7,1.</ls> <ls>TRIK. 3,3,301.</ls> <ls>H. 1401.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 12, 6859.</ls> <ls n="MBH.">14, 1419.</ls> <ls>Ind. St. 4,105. 139. fg. 351.8,259. fg. 269.</ls> <ls>Verz. d. Oxf. H. 200,b,17.</ls> <ls>As. Res. 3,68.9,456. fgg.</ls> {%die mittlere der drei musikalischen Scalas%}: {#षड्जमध्यमगान्धारग्रामत्रयविशारदाः#} 
 <ls>MĀRK. P. 106, 58.</ls> 
 <ls>As. Res. 9, 459. fgg.</ls> {%ein best.%} <is>Rāga</is> 
 <ls>DHAR.</ls> im <ls>ŚKDR.</ls> 
@@ -119,13 +119,13 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 362.</ls> {#तनुमध्यमा#} 
-<ls>MBH. 3, 2777. 4, 255.</ls> 
+<ls>MBH. 3, 2777.</ls> <ls n="MBH.">4, 255.</ls> 
 <ls>R. 1, 9, 22.</ls> {#चारुमध्यमा#} 
 <ls>52.</ls> {#सुमध्यमा#} 
-<ls>MBH. 1, 2081. 2099.</ls> 
+<ls>MBH. 1, 2081.</ls> <ls n="MBH. 1,">2099.</ls> 
 <ls>R. 3, 52, 49.</ls> 
 <ls>ŚRUT. 31.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (II) 53, 10. 57, 18.</ls> <ls>KATHĀS. 59, 5.</ls> 
+<ls>BRAHMA-P. in LA. (II) 53, 10. 57, 18.</ls> <ls>KATHĀS. 59, 5.</ls> 
 <div n="1">— 4) <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%der Mittelfinger%} 
 <ls>AK. 2, 6, 2, 33.</ls> 
@@ -150,9 +150,9 @@
 <div n="2"> a) {%Mitte%}: {#मिथोऽवगृह्ययोर्मध्यमेन#} {%zwischen%} 
 <ls>AV. PRĀT. 4, 42.</ls> 
 <div n="2">— b) N. des 
-<ls>12ten</ls> <is>Kāṇḍa</is> im <is>Śatapathabrāhmaṇa</is> 
+12ten <is>Kāṇḍa</is> im <is>Śatapathabrāhmaṇa</is> 
 <ls>WEBER, Lit. 114. fg.</ls> des 
-<ls>14ten</ls> (in der <is>Kāṇva</is>-Schule) 
+14ten (in der <is>Kāṇva</is>-Schule) 
 <ls>Verz. d. Oxf. H. 395,a, No. 116. fg.</ls> 
 <div n="v">— Vgl. {#अ°, यव°, सिलिक°, मध्य, माध्यम, माध्यमिनेय#} .
 <LEND>

@@ -1,7 +1,7 @@
 <L>15320<pc>469<k1>needle<k2>needle
-<div n="lb"/>{@NEEDLE:@}¦ <div n="1">(1) {#सूचिः#} <div n="xe">{%or%}</div> <div n="xs">{#सूची,#}</div> {%the eye of a n.:%}
-<div n="lb"/>{#सूचिरन्ध्रम्;#} <div n="xe">{%the point of a n.:%}</div> <div n="xs">{#सूच्यग्रम्;#}</div> {%n. woman:%}
-<div n="lb"/>{#सूचिका;#} <div n="xe">{%to sew with a sharp n.:%}</div> <div n="xs">{#तीक्ष्णया सूच्या #}
-<div n="lb"/>{# सीव्यति,#}</div> Kāśikā; </div><div n="1">(2) {#सेवनी,#} <div n="xe">{%n. -maker:%}</div> <div n="xs">{#सेवनी-#}
-<div n="lb"/>{#कारः#}</div> (?). <div n="xe">{%The magnetic n.:%}</div> <div n="xs">{#*अयस्कान्तशलाका।#}</div></div>
+{@NEEDLE:@}¦ <div n="1">(1) {#सूचिः#} <div n="xe">{%or%}</div> <div n="xs">{#सूची,#}</div> {%the eye of a n.:%}
+{#सूचिरन्ध्रम्;#} <div n="xe">{%the point of a n.:%}</div> <div n="xs">{#सूच्यग्रम्;#}</div> {%n. woman:%}
+{#सूचिका;#} <div n="xe">{%to sew with a sharp n.:%}</div> <div n="xs">{#तीक्ष्णया सूच्या #}
+{# सीव्यति,#}</div> Kāśikā; </div><div n="1">(2) {#सेवनी,#} <div n="xe">{%n. -maker:%}</div> <div n="xs">{#सेवनी-#}
+{#कारः#}</div> (?). <div n="xe">{%The magnetic n.:%}</div> <div n="xs">{#*अयस्कान्तशलाका।#}</div></div>
 <LEND>

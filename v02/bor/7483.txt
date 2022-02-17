@@ -1,5 +1,5 @@
 <L>7483<pc>236<k1>emphatically<k2>emphatically
-<div n="lb"/>{@EMPHATICALLY:@}¦ <div n="1">(1) {#दृढम्#} (= firmly); </div><div n="1">(2) {#निश्चितम्#}
-<div n="lb"/>(= certainly): </div><div n="1">(3) {#बलात्#} (=forcibly); </div><div n="1">(4)
-<div n="lb"/>{#सगौरवम्#} (= gravely).</div>
+{@EMPHATICALLY:@}¦ <div n="1">(1) {#दृढम्#} (= firmly); </div><div n="1">(2) {#निश्चितम्#}
+(= certainly): </div><div n="1">(3) {#बलात्#} (=forcibly); </div><div n="1">(4)
+{#सगौरवम्#} (= gravely).</div>
 <LEND>

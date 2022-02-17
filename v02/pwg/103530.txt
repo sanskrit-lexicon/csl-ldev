@@ -6,7 +6,7 @@
 <ls>AK. 3, 4, 1, 5.</ls> 
 <ls>H. 1432.</ls> 
 <ls>HALĀY. 4, 81.</ls> 
-<ls>MBH. 1, 41. 102.</ls> {#शाकद्वीपस्य संक्षेपो यथावत् - उक्त एषः#} 
+<ls>MBH. 1, 41.</ls> <ls n="MBH. 1,">102.</ls> {#शाकद्वीपस्य संक्षेपो यथावत् - उक्त एषः#} 
 <ls>6, 411. 413.</ls> {#काव्य°#} 
 <ls>R. 1, 1</ls> in der Unterschr. 
 <ls>Ind. St. 5, 159.</ls> 
@@ -15,7 +15,7 @@
 <ls>VARĀH. BṚH. S. 46, 1. 49, 1. 79, 32.</ls> 
 <ls>KATHĀS. 1, 10</ls> (nach 
 <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 23</ls> {#°मात्रं#} zu lesen). 
-<ls>21,32. 22,121.</ls> <ls>Verz. d. Oxf. H. 50,a,12. 200,b,</ls> <ls>No. 476.</ls> <ls>PAÑCAT. 4,17.</ls> <ls>PRATĀPAR. 22</ls>, {%b%}, 
+<ls>21,32. 22,121.</ls> <ls>Verz. d. Oxf. H. 50,a,12. 200,b, No. 476.</ls> <ls>PAÑCAT. 4,17.</ls> <ls>PRATĀPAR. 22,b,</ls> 
 <ls>6.</ls> Comm. zu <ls>TS. PRĀT. 12, 6.</ls> <ls>SARVADARŚANAS. 108, 17. 124, 6.</ls> {#सत्यस्य संक्षेपः (= अनादरः#} Comm.) so v. a. {%kurze Darlegung der Wahrheit%} 
 <ls>R. 6, 93, 15.</ls> {#तस्यैष करसंक्षेपो जिह्वाच्छेदः#} so v. a. {%um die Sache mit der Abgabe kurz abzumachen, so wird ihm dafür die Zunge abgeschnitten%} 
 <ls>HARIV. 15802.</ls> {#संक्षेपात्#} {%mit kurzen Worten, in aller Kürze%} 
@@ -25,7 +25,7 @@
 <ls>DHŪRTAS. 79, 17.</ls> 
 <ls>SĀH. D. 465.</ls> 
 <ls>SARVADARŚANAS. 32, 3.</ls> <ls>HIT. 93, 19.</ls> {#संक्षेपतस्#} dass. 
-<ls>MBH.3,11915. 16677.</ls> <ls>SUŚR.2,304,13.</ls> <ls>Spr. (II) 3253, v. l.</ls> <ls>PRATĀPAR.</ls> <ls>?69,b,2.SARVADARŚANAS. 33,19. ŚAṂK. zu CHĀND. UP. S. 1. BHĀG. P.8,13,7.</ls>
+<ls>MBH. 3, 11915.</ls> <ls n="MBH. 3,">16677.</ls> <ls>SUŚR. 2,304,13.</ls> <ls>Spr. (II) 3253, v. l.</ls> <ls>PRATĀPAR. 69,b,2.</ls> <ls>SARVADARŚANAS. 33,19.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 1.</ls> <ls>BHĀG. P. 8,13,7.</ls>
 [Page7-0528]
 {#संक्षेपेण#} dass. 
 <ls>R. 5, 55, 24.</ls> 
@@ -36,7 +36,7 @@
 <ls>Verz. d. B. H. No. 1174.</ls> {#°पुरश्चरणविधि#} 
 <ls>Notices of Skt. Mss. 218.</ls> {#°शंकरजय#} 
 <ls>Verz. d. Oxf. H. 252,b, No. 626. 260, No. 627. fg.</ls> {#°शारीरक#} 
-<ls>?72,b,13. 226,b, No. 555. COLEBR. Misc. Ess.1,335. HALL 90. 203. Verz. d. B. H. No. 609</ls> {#(°व्याख्यान)#}.{# संक्षेपानुक्रमणिका#} 
+<ls>72,b,13. 226,b, No. 555.</ls> <ls>COLEBR. Misc. Ess. 1,335.</ls> <ls>HALL 90. 203.</ls> <ls>Verz. d. B. H. No. 609</ls> ({#°व्याख्यान#}).{# संक्षेपानुक्रमणिका#} 
 <ls>Verz. d. Oxf. H. 44,b,10.</ls> 
 <div n="1">— 3) {%Zusammenfassung%} so v. a. {%Summe%}: {#संक्षेपेण द्विसप्ततिः#} 
 <ls>M. 7, 157.</ls> {#संक्षेपतस्#} 

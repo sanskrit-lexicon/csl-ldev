@@ -1,4 +1,4 @@
 <L>16936<pc>519<k1>phase<k2>phase
-<div n="lb"/>{@PHASE:@}¦ <div n="xe">{%p. s of the moon:%}</div> <div n="xs">{#चन्द्रस्य हासवृद्धी#}</div> (?);
-<div n="lb"/><div n="xe">{%p. s of an eclipse:%}</div> <div n="xs">{#ग्रहणस्य प्रग्रहस्थितिमोक्षाः#}</div> (?).
+{@PHASE:@}¦ <div n="xe">{%p. s of the moon:%}</div> <div n="xs">{#चन्द्रस्य हासवृद्धी#}</div> (?);
+<div n="xe">{%p. s of an eclipse:%}</div> <div n="xs">{#ग्रहणस्य प्रग्रहस्थितिमोक्षाः#}</div> (?).
 <LEND>

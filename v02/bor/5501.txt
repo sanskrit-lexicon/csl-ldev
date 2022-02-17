@@ -1,4 +1,4 @@
 <L>5501<pc>176<k1>death-bed<k2>death-bed
-<div n="lb"/>{@DEATH-BED:@}¦ {#मृत्युशय्या।#} <div n="xe">{%On one's d.:%}</div> <div n="xs">{#मृत्यकाले#}</div> {%or%}
-<div n="lb"/>{#मरणसमये,#} Vet.
+{@DEATH-BED:@}¦ {#मृत्युशय्या।#} <div n="xe">{%On one's d.:%}</div> <div n="xs">{#मृत्यकाले#}</div> {%or%}
+{#मरणसमये,#} Vet.
 <LEND>

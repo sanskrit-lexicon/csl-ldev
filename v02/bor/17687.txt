@@ -1,4 +1,4 @@
 <L>17687<pc>541<k1>presentation<k2>presentation
-<div n="lb"/>{@PRESENTATION:@}¦ <div n="I">I The act: v. To present.</div>
-<div n="lb"/><div n="I">II Nomination: {#निर्वाचनम्।#}</div>
+{@PRESENTATION:@}¦ <div n="I">I The act: v. To present.</div>
+<div n="I">II Nomination: {#निर्वाचनम्।#}</div>
 <LEND>

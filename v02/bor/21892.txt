@@ -1,5 +1,5 @@
 <L>21892<pc>690<k1>sunset<k2>sunset
-<div n="lb"/>{@SUNSET:@}¦ {#सूर्यास्तमयः, -नम्#} and sim. comp.s; <div n="xe">{%at%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#अस्तं गच्छति सूर्ये#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अस्ताचलचूडावलम्बिनि #}
-<div n="lb"/>{# भास्करे;#}</div> <div n="xe">{%after s.:%}</div> <div n="xs">{#अस्तं गते सूर्ये।#}</div>
+{@SUNSET:@}¦ {#सूर्यास्तमयः, -नम्#} and sim. comp.s; <div n="xe">{%at%}
+{%s.:%}</div> <div n="xs">{#अस्तं गच्छति सूर्ये#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अस्ताचलचूडावलम्बिनि #}
+{# भास्करे;#}</div> <div n="xe">{%after s.:%}</div> <div n="xs">{#अस्तं गते सूर्ये।#}</div>
 <LEND>

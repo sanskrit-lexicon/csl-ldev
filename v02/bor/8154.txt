@@ -1,7 +1,7 @@
 <L>8154<pc>258<k1>explanation<k2>explanation
-<div n="lb"/>{@EXPLANATION:@}¦ <div n="1">(1) {#व्याख्या, -नम्;#} <div n="xe">{%from the various%}
-<div n="lb"/>{%e. s of former writers:%}</div> <div n="xs">{#बहुविधपूर्वनिबन्धृव्याख्यातः,#}</div>
-<div n="lb"/>Da.; </div><div n="1">(2) {#विवृतिः#} (= exposition), <div n="xe">{%in the e. of%}
-<div n="lb"/>{%Manu's sayings:%}</div> <div n="xs">{#मनूक्तविवृतौ,#}</div> K. b.: v. To
-<div n="lb"/>explain.</div>
+{@EXPLANATION:@}¦ <div n="1">(1) {#व्याख्या, -नम्;#} <div n="xe">{%from the various%}
+{%e. s of former writers:%}</div> <div n="xs">{#बहुविधपूर्वनिबन्धृव्याख्यातः,#}</div>
+Da.; </div><div n="1">(2) {#विवृतिः#} (= exposition), <div n="xe">{%in the e. of%}
+{%Manu's sayings:%}</div> <div n="xs">{#मनूक्तविवृतौ,#}</div> K. b.: v. To
+explain.</div>
 <LEND>

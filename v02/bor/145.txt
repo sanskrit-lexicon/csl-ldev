@@ -1,10 +1,10 @@
 <L>145<pc>006<k1>accompany<k2>accompany
-<div n="lb"/>{@ACCOMPANY:@}¦ <div n="I">I To go with: </div><div n="1">(1) {#अनु-गच्छति, #}
-<div n="lb"/>{# अन्वेति,#} etc.: {%a. d by some of the chief Kiratas%}
-<div n="lb"/>{#अन्वीतः स कतिपयैः किरातवर्यैः#} Ki. xii. 52: v. To
-<div n="lb"/>go after, follow; </div><div n="1">(2) {#सहचरः#} ({#री, रं#}) {#भवति#}
-<div n="lb"/>({#भू,#} c. i.) (with gen.); </div><div n="1">(3) {#गच्छति, याति#} etc.
-<div n="lb"/>with {#सह#} and ins.: <div n="xe">{%I will a. you%}</div> <div n="xs">{#त्वया सह गमि-#}
-<div n="lb"/>{#ष्यामि।#}</div> </div><div n="I">II To play in accompaniment: </div><div n="1">(1)
-<div n="lb"/>{#अनुगच्छति#} ({#गम्,#} c. 1.); </div><div n="1">(2) {#अनुसरति#} ({#सृ,#} c. 1.)</div>
+{@ACCOMPANY:@}¦ <div n="I">I To go with: </div><div n="1">(1) {#अनु-गच्छति, #}
+{# अन्वेति,#} etc.: {%a. d by some of the chief Kiratas%}
+{#अन्वीतः स कतिपयैः किरातवर्यैः#} Ki. xii. 52: v. To
+go after, follow; </div><div n="1">(2) {#सहचरः#} ({#री, रं#}) {#भवति#}
+({#भू,#} c. i.) (with gen.); </div><div n="1">(3) {#गच्छति, याति#} etc.
+with {#सह#} and ins.: <div n="xe">{%I will a. you%}</div> <div n="xs">{#त्वया सह गमि-#}
+{#ष्यामि।#}</div> </div><div n="I">II To play in accompaniment: </div><div n="1">(1)
+{#अनुगच्छति#} ({#गम्,#} c. 1.); </div><div n="1">(2) {#अनुसरति#} ({#सृ,#} c. 1.)</div>
 <LEND>

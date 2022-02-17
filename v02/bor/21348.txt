@@ -1,20 +1,20 @@
 <L>21348<pc>672<k1>stand<k2>stand
-<div n="lb"/>{@STAND@}¦ (v. i.): <div n="I">I Opposed to sit: {#तिष्ठति#} ({#स्था,#}
-<div n="lb"/>c. 1.), <div n="xe">{%stood determined to fight:%}</div> <div n="xs">{#तस्थौ #}
-<div n="lb"/>{# सिसंग्रामिषुः,#}</div> B. iii. 47.; <div n="xe">{%why do you experience%}
-<div n="lb"/>{%the pain of long s. ing:%}</div> <div n="xs">{#किमिति चिरस्थितिक्लेशोऽनु-#}
-<div n="lb"/>{#भूयते,#}</div> D. v. </div><div n="I">II Not to move: {#तिष्ठति,#} <div n="xe">{%s. ing%}
-<div n="lb"/>{%when she stood, going when she moved:%}</div> <div n="xs">{#स्थितः #}
-<div n="lb"/>{# स्थितामुच्चलितः प्रयाताम्,#}</div> R. ii. 6.; <div n="xe">{%s. s. wretched%}
-<div n="lb"/>{%goblin:%}</div> <div n="xs">{#तिष्ठ तिष्ठ कौणपापसद,#}</div> Sa. vi. </div><div n="I">III To
-<div n="lb"/>remain: q. v.: {#तिष्ठति,#} <div n="xe">{%I stood resolved not to%}
-<div n="lb"/>{%leave the ground on which I slept without ascer-%}
-<div n="lb"/>{%taining the facts of the case:%}</div> <div n="xs">{#नाहमिदं तत्त्वतोऽनव-#}
-<div n="lb"/>{#बुध्य मोक्ष्यामि भूमिशय्यामिति निश्चितमतिरतिष्ठम्,#}</div> D.
-<div n="lb"/>v. </div><div n="I">IV To be situated: {#तिष्ठति, अव-#} <div n="xe">{%or%}</div> <div n="xs">{#सं-तिष्ठते,#}</div>
-<div n="lb"/><div n="xe">{%so s. s the Fig Continent, surrounding the Salt%}
-<div n="lb"/>{%Ocean:%}</div> <div n="xs">{#संवेष्ट्य क्षारमुदधिं प्लक्षद्वीपस्तथा स्थितः,#}</div> V. p.
-<div n="lb"/>ii. 4. 1. V. To adhere: {#तिष्ठते, आ-,#} <div n="xe">{%who s. s%}
-<div n="lb"/>{%with Karṇa and others:%}</div> <div n="xs">{#कर्णादिषु तिष्ठते यः,#}</div> Ki.
-<div n="lb"/>iii. 14. </div><div n="I">VI To be, become: q. v.: {#भवति।#}</div>
+{@STAND@}¦ (v. i.): <div n="I">I Opposed to sit: {#तिष्ठति#} ({#स्था,#}
+c. 1.), <div n="xe">{%stood determined to fight:%}</div> <div n="xs">{#तस्थौ #}
+{# सिसंग्रामिषुः,#}</div> B. iii. 47.; <div n="xe">{%why do you experience%}
+{%the pain of long s. ing:%}</div> <div n="xs">{#किमिति चिरस्थितिक्लेशोऽनु-#}
+{#भूयते,#}</div> D. v. </div><div n="I">II Not to move: {#तिष्ठति,#} <div n="xe">{%s. ing%}
+{%when she stood, going when she moved:%}</div> <div n="xs">{#स्थितः #}
+{# स्थितामुच्चलितः प्रयाताम्,#}</div> R. ii. 6.; <div n="xe">{%s. s. wretched%}
+{%goblin:%}</div> <div n="xs">{#तिष्ठ तिष्ठ कौणपापसद,#}</div> Sa. vi. </div><div n="I">III To
+remain: q. v.: {#तिष्ठति,#} <div n="xe">{%I stood resolved not to%}
+{%leave the ground on which I slept without ascer-%}
+{%taining the facts of the case:%}</div> <div n="xs">{#नाहमिदं तत्त्वतोऽनव-#}
+{#बुध्य मोक्ष्यामि भूमिशय्यामिति निश्चितमतिरतिष्ठम्,#}</div> D.
+v. </div><div n="I">IV To be situated: {#तिष्ठति, अव-#} <div n="xe">{%or%}</div> <div n="xs">{#सं-तिष्ठते,#}</div>
+<div n="xe">{%so s. s the Fig Continent, surrounding the Salt%}
+{%Ocean:%}</div> <div n="xs">{#संवेष्ट्य क्षारमुदधिं प्लक्षद्वीपस्तथा स्थितः,#}</div> V. p.
+ii. 4. 1. V. To adhere: {#तिष्ठते, आ-,#} <div n="xe">{%who s. s%}
+{%with Karṇa and others:%}</div> <div n="xs">{#कर्णादिषु तिष्ठते यः,#}</div> Ki.
+iii. 14. </div><div n="I">VI To be, become: q. v.: {#भवति।#}</div>
 <LEND>

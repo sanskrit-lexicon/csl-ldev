@@ -1,5 +1,5 @@
 <L>58607<pc>5-0634<k1>महापथ<k2>महापथ
-{#महापथ#}¦ {#(म° + पथ)#} 
+{#महापथ#}¦ ({#म° + पथ#}) 
 <div n="1"> 1) <lex>m.</lex> 
 <ls>VOP. 6, 69.</ls> 
 <div n="2"> a) {%Hauptstrasse%} (in einer Stadt), {%Landstrasse%} 
@@ -7,7 +7,7 @@
 <ls>AIT. BR.4,17.</ls> 
 <ls>LĀṬY.1,1,16.</ls> 
 <ls>CHĀND. UP.8,6,2.</ls> 
-<ls>MBH.1,2263.5,3349.</ls> 
+<ls>MBH. 1, 2263.</ls> <ls n="MBH.">5, 3349.</ls> 
 <ls>R.2,80,19. 114,13.</ls> 
 <ls>KUMĀRAS.7,3.</ls> <ls>Verz. d. Oxf. H. 51,a,28.</ls> {#देवयाने महापथे#} 
 <ls>HARIV. 16256.</ls> Beiw. <is>Śiva's</is> 

@@ -1,4 +1,4 @@
 <L>24335<pc>761<k1>why<k2>why
-<div n="lb"/>{@WHY@}¦ (interj.): <div n="xe">{%w. what have I done:%}</div> <div n="xs">{#किं नाम #}
-<div n="lb"/>{# मया कृतम्;#}</div> <div n="xe">{%w. yes I say so:%}</div> <div n="xs">{#वाढं ब्रवीम्येवम्।#}</div>
+{@WHY@}¦ (interj.): <div n="xe">{%w. what have I done:%}</div> <div n="xs">{#किं नाम #}
+{# मया कृतम्;#}</div> <div n="xe">{%w. yes I say so:%}</div> <div n="xs">{#वाढं ब्रवीम्येवम्।#}</div>
 <LEND>

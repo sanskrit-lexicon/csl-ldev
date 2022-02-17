@@ -1,10 +1,10 @@
 <L>15301<pc>468<k1>necessary<k2>necessary
-<div n="lb"/>{@NECESSARY@}¦ (adj.): <div n="I">I Subs., as must be: </div><div n="1">(1)
-<div n="lb"/>{#अवश्यम्भाविन्#} (f. {#नी#}); </div><div n="1">(2) {#अवश्यमव्य#} (f. {#व्या#}),
-<div n="lb"/>{%in%} ({%all%}) {%n.%} ({%matters%}): {#अवश्यभव्येषु,#} N. i. 120.</div>
-<div n="lb"/><div n="I">II Indispensable, requisite: </div><div n="1">(1) {#आवश्यकीयः#}
-<div n="lb"/>({#या, यं#}), <div n="xe">{%satisfying the n. calls of nature:%}</div> <div n="xs">{#शौच-#}
-<div n="lb"/>{#मावश्यकं कृत्वा,#}</div> Mah. s. 193. 4.; </div><div n="1">(2) {#प्रयोजनीयः#}
-<div n="lb"/>({#या, यं#}). </div><div n="I">III Not free: {#परवत्#} (f. {#ती#}): v.
-<div n="lb"/>Dependent.</div>
+{@NECESSARY@}¦ (adj.): <div n="I">I Subs., as must be: </div><div n="1">(1)
+{#अवश्यम्भाविन्#} (f. {#नी#}); </div><div n="1">(2) {#अवश्यमव्य#} (f. {#व्या#}),
+{%in%} ({%all%}) {%n.%} ({%matters%}): {#अवश्यभव्येषु,#} N. i. 120.</div>
+<div n="I">II Indispensable, requisite: </div><div n="1">(1) {#आवश्यकीयः#}
+({#या, यं#}), <div n="xe">{%satisfying the n. calls of nature:%}</div> <div n="xs">{#शौच-#}
+{#मावश्यकं कृत्वा,#}</div> Mah. s. 193. 4.; </div><div n="1">(2) {#प्रयोजनीयः#}
+({#या, यं#}). </div><div n="I">III Not free: {#परवत्#} (f. {#ती#}): v.
+Dependent.</div>
 <LEND>

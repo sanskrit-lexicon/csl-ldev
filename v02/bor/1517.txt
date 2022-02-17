@@ -1,7 +1,7 @@
 <L>1517<pc>053<k1>bail<k2>bail
-<div n="lb"/>{@BAIL@}¦ (v. t.): <div n="I">I As applied to securities: Ph.
-<div n="lb"/><div n="xe">{%I will b. you%}</div> <div n="xs">{#तवाहं प्रतिभूर्मवामि#}</div> ({#भू,#} c. 1.) {%or%}
-<div n="lb"/>{#तिष्ठामि#} ({#स्था,#} c. 1.) </div><div n="I">II as applied to magis-
-<div n="lb"/>-trates: {#प्रतिभाव्येन मुञ्चति#} ({#मुञ्च्,#} c. 6.) <div n="xe">{%or%}</div> <div n="xs">{#मोचयति#}</div>
-<div n="lb"/>({#मुच्#} c. 10.).</div>
+{@BAIL@}¦ (v. t.): <div n="I">I As applied to securities: Ph.
+<div n="xe">{%I will b. you%}</div> <div n="xs">{#तवाहं प्रतिभूर्मवामि#}</div> ({#भू,#} c. 1.) {%or%}
+{#तिष्ठामि#} ({#स्था,#} c. 1.) </div><div n="I">II as applied to magis-
+-trates: {#प्रतिभाव्येन मुञ्चति#} ({#मुञ्च्,#} c. 6.) <div n="xe">{%or%}</div> <div n="xs">{#मोचयति#}</div>
+({#मुच्#} c. 10.).</div>
 <LEND>

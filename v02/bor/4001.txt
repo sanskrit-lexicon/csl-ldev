@@ -1,6 +1,6 @@
 <L>4001<pc>130<k1>collateral<k2>collateral
-<div n="lb"/>{@COLLATERAL:@}¦ <div n="I">I Indirect: q. v.: {#प्रासङ्गिकः#}
-<div n="lb"/>({#की, कं#}). </div><div n="I">II Of pedigree: not in the direct
-<div n="lb"/>line: {#मिन्नशास्वः#} ({#खा, खं#}) (?); {#उपलोमः#} ({#मा, #}
-<div n="lb"/>{# मं#}) (?).</div>
+{@COLLATERAL:@}¦ <div n="I">I Indirect: q. v.: {#प्रासङ्गिकः#}
+({#की, कं#}). </div><div n="I">II Of pedigree: not in the direct
+line: {#मिन्नशास्वः#} ({#खा, खं#}) (?); {#उपलोमः#} ({#मा, #}
+{# मं#}) (?).</div>
 <LEND>

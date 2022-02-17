@@ -1,6 +1,6 @@
 <L>62381<pc>5-0932<k1>म्ला<k2>म्ला
 {#म्ला#}¦, {#म्ला/यति#} 
-<ls>DHĀTUP. 22, 8</ls> {#(गात्रविनामे, कान्तिसंक्षये)#}.{# म्लायते#} 
+<ls>DHĀTUP. 22, 8</ls> ({#गात्रविनामे, कान्तिसंक्षये#}).{# म्लायते#} 
 <ls>MBH. 12, 6831.</ls> 
 <ls>Spr. 1143.</ls> {#म्लान्ति#} 
 <ls>MBH. 3, 15683.</ls> {#मलौ, मम्ले#} (
@@ -18,7 +18,7 @@
 <ls>Spr. 440.</ls> 
 <ls>UTTARARĀMAC. 17, 9.</ls> <ls>LA. (II) 91, 22.</ls> {#अम्लानान्यपि तत्रासन्कुसुमानि#} 
 <ls>MBH. 13, 2357.</ls> 
-<ls>HARIV.7008.</ls> 
+<ls>HARIV. 7008.</ls> 
 <ls>KATHĀS. 13, 84.</ls> 
 <ls>PAÑCAR. 1, 7, 34. 11, 37.</ls>
 [Page5-0933]
@@ -60,7 +60,7 @@ vom Gesicht, das durch Krankheit, Sorgen, Leidenschaften {%ein welkes, leidendes
 
 <div n="p">— {#अभि#} s. {#अनभिम्लात#} und {#अनभिम्लान#} (in den Nachträgen).
 
-<div n="p">— {#आ#}, partic. {#आम्लान#} {%welk%} oder {%ein wenig%} {#(आ)#} {%welk%}: {#°मुखारविन्द#} 
+<div n="p">— {#आ#}, partic. {#आम्लान#} {%welk%} oder {%ein wenig%} ({#आ#}) {%welk%}: {#°मुखारविन्द#} 
 <ls>RAGH. 16, 75.</ls>
 
 <div n="p">— {#परि#} {%verwelken, dahinwelken%}: {#वृक्षाः परिम्लानाः#} 
@@ -79,9 +79,9 @@ vom Gesicht, das durch Krankheit, Sorgen, Leidenschaften {%ein welkes, leidendes
 
 <div n="p">— {#प्र#} {%verwelken, welk werden%} 
 <ls>BHAṬṬ. 6, 13, v. l.</ls> {#प्रम्लाना इव च स्रजः#} 
-<ls>MBH. 8, 859. 11, 717.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 57, 5. 59, 8. 73, 18.</ls> {#°बीजाङ्कुर#} 
+<ls>MBH. 8, 859.</ls> <ls n="MBH.">11, 717.</ls> 
+
+<ls>R. GORR. 2, 57, 5. 59, 8. 73, 18.</ls> {#°बीजाङ्कुर#} 
 <ls>RAGH. 7, 24.</ls> {#°भाव#} 
 <ls>KĀM. NĪTIS. 7, 21.</ls> {#प्रम्लानीभू#} 
 <ls>PAÑCAR. 3, 5, 30.</ls> {#प्रम्लानबदन#} {%das Gesicht verziehend%} 

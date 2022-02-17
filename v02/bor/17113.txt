@@ -1,7 +1,7 @@
 <L>17113<pc>523<k1>pitch<k2>pitch
-<div n="lb"/>{@PITCH@}¦ (subs.): <div n="I">I The resin: {#तिन्दु, -कम्।#} </div><div n="I">II
-<div n="lb"/>Degree of elevation: <div n="xe">{%highest, lowest p.:%}</div> <div n="xs">{#परा #}
-<div n="lb"/>{# कोटिः,#}</div> K. </div><div n="I">III In music: <div n="xe">{%at the highest p. of%}
-<div n="lb"/>{%the voice:%}</div> <div n="xs">{#अत्युच्चैःस्वरेण।#}</div> </div><div n="I">IV Declivity, slope:
-<div n="lb"/>q. v.</div>
+{@PITCH@}¦ (subs.): <div n="I">I The resin: {#तिन्दु, -कम्।#} </div><div n="I">II
+Degree of elevation: <div n="xe">{%highest, lowest p.:%}</div> <div n="xs">{#परा #}
+{# कोटिः,#}</div> K. </div><div n="I">III In music: <div n="xe">{%at the highest p. of%}
+{%the voice:%}</div> <div n="xs">{#अत्युच्चैःस्वरेण।#}</div> </div><div n="I">IV Declivity, slope:
+q. v.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>295<pc>012<k1>admission<k2>admission
-<div n="lb"/>{@ADMISSION@}¦ (subs): <div n="I">I Acknowledgment:
-<div n="lb"/>q. v.: {#स्वीकारः।#} </div><div n="I">II Admittance, entrance:</div>
-<div n="lb"/><div n="1">(1) {#प्रवेशः;#} </div><div n="1">(2) {#प्रवेशनम्।#}</div>
+{@ADMISSION@}¦ (subs): <div n="I">I Acknowledgment:
+q. v.: {#स्वीकारः।#} </div><div n="I">II Admittance, entrance:</div>
+<div n="1">(1) {#प्रवेशः;#} </div><div n="1">(2) {#प्रवेशनम्।#}</div>
 <LEND>

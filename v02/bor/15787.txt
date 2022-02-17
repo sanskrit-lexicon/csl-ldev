@@ -1,9 +1,9 @@
 <L>15787<pc>484<k1>offence<k2>offence
-<div n="lb"/>{@OFFENCE@}¦ (subs.): <div n="I">I Crime., fault: q.v.:
-<div n="lb"/>fault: {#अपराधः,#} <div n="xe">{%punishing according to the nature%}
-<div n="lb"/>{%of the o.:%}</div> <div n="xs">{#यथापराधदण्ड#}</div> (f. {#ण्डा#}), R. i. 6.;
-<div n="lb"/>{%shall not forgive any one for a second o.:%}
-<div n="lb"/>{#द्वितीयमपराधं न कस्यचित् क्षमेत,#} V. s.; <div n="xe">{%it is not%}
-<div n="lb"/>{%master's o.:%}</div> <div n="xs">{#नास्ति प्रभवतोऽपराधः,#}</div> V. ii. </div><div n="I">II
-<div n="lb"/>Displeasure, resentment: q.v.: {#विरागः।#}</div>
+{@OFFENCE@}¦ (subs.): <div n="I">I Crime., fault: q.v.:
+fault: {#अपराधः,#} <div n="xe">{%punishing according to the nature%}
+{%of the o.:%}</div> <div n="xs">{#यथापराधदण्ड#}</div> (f. {#ण्डा#}), R. i. 6.;
+{%shall not forgive any one for a second o.:%}
+{#द्वितीयमपराधं न कस्यचित् क्षमेत,#} V. s.; <div n="xe">{%it is not%}
+{%master's o.:%}</div> <div n="xs">{#नास्ति प्रभवतोऽपराधः,#}</div> V. ii. </div><div n="I">II
+Displeasure, resentment: q.v.: {#विरागः।#}</div>
 <LEND>

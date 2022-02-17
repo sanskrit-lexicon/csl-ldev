@@ -1,4 +1,4 @@
 <L>15490<pc>474<k1>non-conductor<k2>non-conductor
-<div n="lb"/>{@NON-CONDUCTOR:@}¦ {#अप्रवाहकः,#} <div n="xe">{%n. of electricity:%}</div> <div n="xs">{#न #}
-<div n="lb"/>{# तडित्प्रवाहकः।#}</div>
+{@NON-CONDUCTOR:@}¦ {#अप्रवाहकः,#} <div n="xe">{%n. of electricity:%}</div> <div n="xs">{#न #}
+{# तडित्प्रवाहकः।#}</div>
 <LEND>

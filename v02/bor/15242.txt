@@ -1,4 +1,4 @@
 <L>15242<pc>466<k1>narrowness<k2>narrowness
-<div n="lb"/>{@NARROWNESS:@}¦ <div n="I">I Contractedness: {#संकीर्णता#} (?)</div>
-<div n="lb"/><div n="I">II Meanness: {#क्षुद्रता।#} </div><div n="I">III Poverty: {#दैन्यम्।#}</div>
+{@NARROWNESS:@}¦ <div n="I">I Contractedness: {#संकीर्णता#} (?)</div>
+<div n="I">II Meanness: {#क्षुद्रता।#} </div><div n="I">III Poverty: {#दैन्यम्।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>23891<pc>748<k1>vintage<k2>vintage
-<div n="lb"/>{@VINTAGE:@}¦ <div n="I">I Produce: {#द्राक्षा।#} </div><div n="I">II Season:
-<div n="lb"/>{#द्राक्षाहरणकालः#} and sim. comp. s.</div>
+{@VINTAGE:@}¦ <div n="I">I Produce: {#द्राक्षा।#} </div><div n="I">II Season:
+{#द्राक्षाहरणकालः#} and sim. comp. s.</div>
 <LEND>

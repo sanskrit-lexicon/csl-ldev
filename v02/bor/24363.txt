@@ -1,8 +1,8 @@
 <L>24363<pc>762<k1>will<k2>will
-<div n="lb"/>{@WILL@}¦ (v.): <div n="I">I To resolve, determine: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#संकल्पयति#} ({#कॢप,#} c. 10.); </div><div n="1">(2) {#संकल्पं करोति।#}</div>
-<div n="lb"/><div n="I">II To direct, order: q. v.: {#निर्दिशति#} ({#दिश,#}
-<div n="lb"/>c. 6.). </div><div n="I">III To devise by will: {#*इच्छापत्रेण #}
-<div n="lb"/>{# ददाति#} ({#दा,#} c. 3.). </div><div n="I">IV Denoting future:
-<div n="lb"/>expr. by {#ऌट्#} <div n="xe">{%or%}</div> <div n="xs">{#लुट्#}</div> (Vide Grammar).</div>
+{@WILL@}¦ (v.): <div n="I">I To resolve, determine: q. v.:</div>
+<div n="1">(1) {#संकल्पयति#} ({#कॢप,#} c. 10.); </div><div n="1">(2) {#संकल्पं करोति।#}</div>
+<div n="I">II To direct, order: q. v.: {#निर्दिशति#} ({#दिश,#}
+c. 6.). </div><div n="I">III To devise by will: {#*इच्छापत्रेण #}
+{# ददाति#} ({#दा,#} c. 3.). </div><div n="I">IV Denoting future:
+expr. by {#ऌट्#} <div n="xe">{%or%}</div> <div n="xs">{#लुट्#}</div> (Vide Grammar).</div>
 <LEND>

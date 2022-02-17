@@ -1,25 +1,25 @@
 <L>15497<pc>260-3<k1>लब्ध<k2>लब्ध
 {#लब्ध#}¦lab-dha, {%pp.%} (√ labh) obtained, acquired, <lbinfo n="2"/>
-<> found {%etc.%}: {@-kāma,@} {%a.%} having obtained 
-<>a desire, fulfilled ({%reguest%}); {@-datta,@} {%m. N. of %}
-<>{%a man%} who gave away what he received; 
-<>{@-nāman,@} {%a.%} having obtained a name, renowned, <lbinfo n="2"/>
-<> for ({%lc.%}); {@-nāśa@}, {%m.%} loss of {%what has %}
-<>{%been%} acquired; {@-nidrā-sukha,@} {%a.%} enjoying 
-<>the pleasure of sleep; {@-para-bhāga,@} {%a.%} preeminent <lbinfo n="3"/>
-<> above, surpassing ({%ab.%}); {@-praṇāśa@}, 
-<>{%m.%} loss of {%what has been%} acquired: {%T. of the %}
-<>{%fourth book of the Pañcatantra%}; {@-pratyaya,@} 
-<>{%a.%} having a firm belief {%in anything%}: {@-tā,@} {%f. %}
-<>{%abst. N.%} ({%Pr.%}); {@-prasara,@} {%a.%} having obtained 
-<>free scope, unchecked; {@-lakṣa,@} {%a.%} having 
-<>obtained the victory, tried, in ({%in.%}); {@-lakṣ-@}
-<>{@-aṇa@}, {%a.%} having obtained an opportunity; {@-lā-@}
-<>{@-bha,@} {%a.%} having attained {%one's%} object; having 
-<>successfully obtained (-°); successfully acquired; <lbinfo n="2"/>
-<> {@-vat,@} {%pp. act.%} (he) obtained; {@-vara,@} 
-<>{%a.%} having obtained a boon; {%m. N. of a dancing %}<lbinfo n="4"/>
-<>{% master%}; {@-varṇa@}, {%a.%} (having learned {%one's%} 
-<>letters), learned, in ({%lc.%}): {@-bhāj@}, {%a.%} patronizing <lbinfo n="6"/>
-<> the learned.
+ found {%etc.%}: {@-kāma,@} {%a.%} having obtained 
+a desire, fulfilled ({%reguest%}); {@-datta,@} {%m. N. of %}
+{%a man%} who gave away what he received; 
+{@-nāman,@} {%a.%} having obtained a name, renowned, <lbinfo n="2"/>
+ for ({%lc.%}); {@-nāśa@}, {%m.%} loss of {%what has %}
+{%been%} acquired; {@-nidrā-sukha,@} {%a.%} enjoying 
+the pleasure of sleep; {@-para-bhāga,@} {%a.%} preeminent <lbinfo n="3"/>
+ above, surpassing ({%ab.%}); {@-praṇāśa@}, 
+{%m.%} loss of {%what has been%} acquired: {%T. of the %}
+{%fourth book of the Pañcatantra%}; {@-pratyaya,@} 
+{%a.%} having a firm belief {%in anything%}: {@-tā,@} {%f. %}
+{%abst. N.%} ({%Pr.%}); {@-prasara,@} {%a.%} having obtained 
+free scope, unchecked; {@-lakṣa,@} {%a.%} having 
+obtained the victory, tried, in ({%in.%}); {@-lakṣ-@}
+{@-aṇa@}, {%a.%} having obtained an opportunity; {@-lā-@}
+{@-bha,@} {%a.%} having attained {%one's%} object; having 
+successfully obtained (-°); successfully acquired; <lbinfo n="2"/>
+ {@-vat,@} {%pp. act.%} (he) obtained; {@-vara,@} 
+{%a.%} having obtained a boon; {%m. N. of a dancing %}<lbinfo n="4"/>
+{% master%}; {@-varṇa@}, {%a.%} (having learned {%one's%} 
+letters), learned, in ({%lc.%}): {@-bhāj@}, {%a.%} patronizing <lbinfo n="6"/>
+ the learned.
 <LEND>

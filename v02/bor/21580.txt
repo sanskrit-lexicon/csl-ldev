@@ -1,6 +1,6 @@
 <L>21580<pc>679<k1>strain<k2>strain
-<div n="lb"/>{@STRAIN@}¦ (subs.): <div n="I">I The act.: </div><div n="1">(1) {#आयासः;#}</div>
-<div n="lb"/><div n="1">(2) {#आयासितम्,#} (rare). </div><div n="I">II Style: q. v.: {#रीतिः।#}</div>
-<div n="lb"/><div n="I">III Of music: {#रागः।#} </div><div n="I">IV Theme: q. v.:
-<div n="lb"/>{#विषयः।#} </div><div n="I">V Tendency: q. v.: {#प्रवणता।#}</div>
+{@STRAIN@}¦ (subs.): <div n="I">I The act.: </div><div n="1">(1) {#आयासः;#}</div>
+<div n="1">(2) {#आयासितम्,#} (rare). </div><div n="I">II Style: q. v.: {#रीतिः।#}</div>
+<div n="I">III Of music: {#रागः।#} </div><div n="I">IV Theme: q. v.:
+{#विषयः।#} </div><div n="I">V Tendency: q. v.: {#प्रवणता।#}</div>
 <LEND>

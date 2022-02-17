@@ -1,8 +1,8 @@
 <L>15170<pc>464<k1>mutilate<k2>mutilate
-<div n="lb"/>{@MUTILATE:@}¦ <div n="I">I Lit.: {#व्यङ्गीकरोति,#} <div n="xe">{%why you m.d%}
-<div n="lb"/>{%your wife:%}</div> <div n="xs">{#किमर्थं त्वया भार्या व्यङ्गिता,#}</div> P. i. 4.</div>
-<div n="lb"/><div n="I">II Fig.: Perh. {#विकलीकरोति,#} {%“m.d poets”:%}
-<div n="lb"/>{#विकलीकृतकवयः;#} <div n="xe">{%the Vyaktiviveka and Ālochana%}
-<div n="lb"/>{%are here only in a m.d form:%}</div> <div n="xs">{#व्यक्तिविवेकालोचन-#}
-<div n="lb"/>{#ग्रन्थावत्र खण्डितावेव स्तः,#}</div> Mahesha.</div>
+{@MUTILATE:@}¦ <div n="I">I Lit.: {#व्यङ्गीकरोति,#} <div n="xe">{%why you m.d%}
+{%your wife:%}</div> <div n="xs">{#किमर्थं त्वया भार्या व्यङ्गिता,#}</div> P. i. 4.</div>
+<div n="I">II Fig.: Perh. {#विकलीकरोति,#} {%“m.d poets”:%}
+{#विकलीकृतकवयः;#} <div n="xe">{%the Vyaktiviveka and Ālochana%}
+{%are here only in a m.d form:%}</div> <div n="xs">{#व्यक्तिविवेकालोचन-#}
+{#ग्रन्थावत्र खण्डितावेव स्तः,#}</div> Mahesha.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>3216<pc>107<k1>catalogue<k2>catalogue
-<div n="lb"/>{@CATALOGUE:@}¦ {#*नामावलिः,#} <div n="xe">{%c. of books:%}</div> <div n="xs">{#पुस्तक-#}
-<div n="lb"/>{#नामावलिः।#}</div>
+{@CATALOGUE:@}¦ {#*नामावलिः,#} <div n="xe">{%c. of books:%}</div> <div n="xs">{#पुस्तक-#}
+{#नामावलिः।#}</div>
 <LEND>

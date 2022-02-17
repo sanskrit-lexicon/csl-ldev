@@ -1,9 +1,9 @@
 <L>9262<pc>293<k1>forth<k2>forth
-<div n="lb"/>{@FORTH:@}¦ <div n="I">I Of time: Ph.: {%from this day f.:%}
-<div n="lb"/>{#अद्यप्रभृति;#} <div n="xe">{%from that time f.:%}</div> <div n="xs">{#तदाप्रभृति।#}</div> </div><div n="I">II Of
-<div n="lb"/>place: {#बहिः#} v. Out and the verbs to
-<div n="lb"/>which f. is joined, </div><div n="I">III Of succession: Ph.:
-<div n="lb"/><div n="xe">{%and so f.:%}</div> <div n="xs">{#इत्यादि#}</div> (mfn.) (always agreeing
-<div n="lb"/>with a subs. gen. expressed and sometimes
-<div n="lb"/>understood: see U. iii. 26).</div>
+{@FORTH:@}¦ <div n="I">I Of time: Ph.: {%from this day f.:%}
+{#अद्यप्रभृति;#} <div n="xe">{%from that time f.:%}</div> <div n="xs">{#तदाप्रभृति।#}</div> </div><div n="I">II Of
+place: {#बहिः#} v. Out and the verbs to
+which f. is joined, </div><div n="I">III Of succession: Ph.:
+<div n="xe">{%and so f.:%}</div> <div n="xs">{#इत्यादि#}</div> (mfn.) (always agreeing
+with a subs. gen. expressed and sometimes
+understood: see U. iii. 26).</div>
 <LEND>

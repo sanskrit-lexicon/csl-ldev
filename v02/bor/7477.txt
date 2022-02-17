@@ -1,8 +1,8 @@
 <L>7477<pc>236<k1>emotion<k2>emotion
-<div n="lb"/>{@EMOTION:@}¦ <div n="I">I Feeling: q. v.: {#रसः,#} {%the tender e.:%}
-<div n="lb"/>{#करुणरसः,#} U. </div><div n="I">II Excitement: q. v.: </div><div n="1">(1) {#विकारः, #}
-<div n="lb"/>{# विकृतिः,#} <div n="xe">{%or%}</div> <div n="xs">{#विक्रिया,#}</div> {%seeing the e. s%} ({%of Nala%})
-<div n="lb"/><div n="xe">{%of holy fame:%}</div> <div n="xs">{#पुण्यश्लोकस्य विकारं दृष्ट्वा,#}</div> Mah.;</div>
-<div n="lb"/><div n="1">(2) {#अपकृतिः#} (rare), {%unable to control her e. s:%}
-<div n="lb"/>{#अपकृतीर्विनियन्तुमक्षमा,#} Ki. i. 27.</div>
+{@EMOTION:@}¦ <div n="I">I Feeling: q. v.: {#रसः,#} {%the tender e.:%}
+{#करुणरसः,#} U. </div><div n="I">II Excitement: q. v.: </div><div n="1">(1) {#विकारः, #}
+{# विकृतिः,#} <div n="xe">{%or%}</div> <div n="xs">{#विक्रिया,#}</div> {%seeing the e. s%} ({%of Nala%})
+<div n="xe">{%of holy fame:%}</div> <div n="xs">{#पुण्यश्लोकस्य विकारं दृष्ट्वा,#}</div> Mah.;</div>
+<div n="1">(2) {#अपकृतिः#} (rare), {%unable to control her e. s:%}
+{#अपकृतीर्विनियन्तुमक्षमा,#} Ki. i. 27.</div>
 <LEND>

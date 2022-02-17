@@ -1,8 +1,8 @@
 <L>20816<pc>654<k1>smell<k2>smell
-<div n="lb"/>{@SMELL@}¦ (v. i.): expr. with {#गन्धः,#} {%it s. s of flesh:%}
-<div n="lb"/>{#इदमामिषगन्धं वाति,#} Sa. v.; <div n="xe">{%s. ing like fat:%}</div> <div n="xs">{#वसागन्ध#}</div>
-<div n="lb"/>(f. {#न्धा#}), Ve. iii.; <div n="xe">{%strong-s.ing:%}</div> <div n="xs">{#उग्रगन्ध#}</div>
-<div n="lb"/>(f. {#न्धा#}), Bha. <div n="xe">{%or%}</div> <div n="xs">{#उद्गन्धि#}</div> (mfn.: G. A. 25.);
-<div n="lb"/><div n="xe">{%honey-s.ing:%}</div> <div n="xs">{#मधुगन्धिन्#}</div> (f. {#नी#}), Bha.; <div n="xe">{%s. ing%}
-<div n="lb"/>{%elephant:%}</div> <div n="xs">{#गन्धद्विपः,#}</div> R. vi. 7.
+{@SMELL@}¦ (v. i.): expr. with {#गन्धः,#} {%it s. s of flesh:%}
+{#इदमामिषगन्धं वाति,#} Sa. v.; <div n="xe">{%s. ing like fat:%}</div> <div n="xs">{#वसागन्ध#}</div>
+(f. {#न्धा#}), Ve. iii.; <div n="xe">{%strong-s.ing:%}</div> <div n="xs">{#उग्रगन्ध#}</div>
+(f. {#न्धा#}), Bha. <div n="xe">{%or%}</div> <div n="xs">{#उद्गन्धि#}</div> (mfn.: G. A. 25.);
+<div n="xe">{%honey-s.ing:%}</div> <div n="xs">{#मधुगन्धिन्#}</div> (f. {#नी#}), Bha.; <div n="xe">{%s. ing%}
+{%elephant:%}</div> <div n="xs">{#गन्धद्विपः,#}</div> R. vi. 7.
 <LEND>

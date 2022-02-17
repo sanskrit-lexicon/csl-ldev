@@ -1,6 +1,6 @@
 <L>32175<pc>856-b<k1>ellipsis<k2>ellipsis
-<div n="lb"/>ELLIPSIS¦, {%s.%} {#पदन्यूनता, पदाकांक्षा, पदापेक्षा, वाक्यन्यूनता, वाक्याकांक्षा;#}
-<div n="lb"/>‘supplying an e.,’ {#आकांक्षापूरणं;#} ‘word required to supply
-<div n="lb"/>an e.,’ {#अध्याहार्य्यपदं;#} ‘word brought to supply an e.,’ {#अध्या-#}
-<div n="lb"/>{#हृतपदं -वाक्यं#}.
+ELLIPSIS¦, {%s.%} {#पदन्यूनता, पदाकांक्षा, पदापेक्षा, वाक्यन्यूनता, वाक्याकांक्षा;#}
+‘supplying an e.,’ {#आकांक्षापूरणं;#} ‘word required to supply
+an e.,’ {#अध्याहार्य्यपदं;#} ‘word brought to supply an e.,’ {#अध्या-#}
+{#हृतपदं -वाक्यं#}.
 <LEND>

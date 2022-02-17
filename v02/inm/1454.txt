@@ -1,773 +1,773 @@
 <L>1454<pc>127-1<k1>भीम<k2>भीम<h>6
 {@Bhīma@}<sup>6</sup>¦ = Bhīmasena (Bhs.) or Bhīma (Bh.) Pāṇḍava. § 4
-<div n="lb">(Anukram.): I, {@1,@} 109 (Bhs.), 123 (Bhs.), 129 (Bh.), 134
-<div n="lb">(Bh.), 153 (Bhs.), 164 (Bh.), 195 (Bh.), 202 (Bh., Bhs.),
-<div n="lb">211 (Bhs.).—§ 9 (Parvas.): I, {@2,@} 301 (Bh.; fought mace
-<div n="lb">in hand with Duryodhana for half a day).—§ 11 (do.): {@2,@}
-<div n="lb">389 (Bhs.), 411 (Bh.), 425 (Bhs.), 430 (Bh.), 452 (Bhs.),
-<div n="lb">456 (Bh.), 463 (Bh.), 474 (Bh.), 486 (Bhs.), 534 (Bh.), 554
-<div n="lb">(Bh.), 556 (Bh.), 558 (Bh.), 574 (Bh.), 575 (Bhs.), 582
-<div n="lb">(Bhs.).—§ 71 (Ādivaṃś. p.): I, {@61,@} 2240 (Bh. {%Vṛkodaraḥ%}) (is
-<div n="lb">poisoned), 2241 (Bh.; is thrown into the Gaṅgā), 2242 (Bhs.),
-<div n="lb">2255 (Bh.), 2258 (Bhs.), 2267 (Bhs.).—§ 83 (Ādivaṃś.):
-<div n="lb">I, {@63,@} [2451] (Vṛkodara, i.e. {%Bh.,%} begat Sutasoma), 2452
+(Anukram.): I, {@1@}, 109 (Bhs.), 123 (Bhs.), 129 (Bh.), 134
+(Bh.), 153 (Bhs.), 164 (Bh.), 195 (Bh.), 202 (Bh., Bhs.),
+211 (Bhs.).—§ 9 (Parvas.): I, {@2@}, 301 (Bh.; fought mace
+in hand with Duryodhana for half a day).—§ 11 (do.): {@2@},
+389 (Bhs.), 411 (Bh.), 425 (Bhs.), 430 (Bh.), 452 (Bhs.),
+456 (Bh.), 463 (Bh.), 474 (Bh.), 486 (Bhs.), 534 (Bh.), 554
+(Bh.), 556 (Bh.), 558 (Bh.), 574 (Bh.), 575 (Bhs.), 582
+(Bhs.).—§ 71 (Ādivaṃś. p.): I, {@61@}, 2240 (Bh. {%Vṛkodaraḥ%}) (is
+poisoned), 2241 (Bh.; is thrown into the Gaṅgā), 2242 (Bhs.),
+2255 (Bh.), 2258 (Bhs.), 2267 (Bhs.).—§ 83 (Ādivaṃś.):
+I, {@63@}, [2451] (Vṛkodara, i.e. {%Bh.%}, begat Sutasoma), 2452
 [Page127-b+ 63]
-<div n="lb">(Bh.).—§ 130 (Aṃśāvat.): I, {@67,@} 2742 (Bhs.), 2746 ({%Bhs°n%}
-<div n="lb">{%tu Vātasya,%} sc. {%putram%}).—§ 157 (Pūruvaṃś.): I, {@95,@} ††3814
-<div n="lb">{%(Mārutād Bhīmasenaḥ).%}—§ 159 (do.): I, {@95@} [3827, father
-<div n="lb">of Sutasoma], ††3829 (Bhs. {%Kāśyāṃ Balandharāṃ nāmopayeme%}
-<div n="lb">{%vīryaśulkāṃ, tasyāṃ putraṃ Sarvagaṃ nāmotpādayām āsa%}),
-<div n="lb">††3833 ({%pūrvam eva Hiḍimbāyāṃ rākṣasaṃ Ghaṭotkacaṃ%}
-<div n="lb">{%putram utpādayām āsa,%} Bhs.).—§ 190{%c%} (Pāṇḍavotpatti):
-<div n="lb">I, {@123,@} 4772 (Bh.): Vāyu came to Kuntī riding upon
-<div n="lb">a deer; a celestial voice was also heard after the birth
-<div n="lb">of {%Bh.;%} he fell from the lap of his mother, who had been
-<div n="lb">frightened by a tiger, and broke into 100 fragments the
-<div n="lb">rock on which he fell; he was born on the same day as
-<div n="lb">Duryodhana.—§ 192 (Pāṇḍavotp.): I, {@124,@} 4854 (Bhs. {%tu%}
-<div n="lb">{%madhyamaḥ%}).—§ 194 (Ṛṣisaṃv.): I, {@126,@} 4920 {%(Mātariśvā%}
-<div n="lb">{%dadau putram Bhīmaṃ nāma mahābalam).%}—§ 197 (Bhīma-
-<div n="lb">senarasapāna): I, {@128,@} 4979 (Bhs.), 4984 (Bh.), 4988 (Bhs.),
-<div n="lb">4993 (Bh.), 5008 (Bhs.), 5010 (Bh.), 5014 (Bh.), 5017 (Bhs.),
-<div n="lb">5018 (Bh.), 5022 (Bh.), 5025 (Bh.), 5031 (Bh.), 5033 (Bhs.);
-<div n="lb">{@129,@} 5034 (Bh.), 5035 (Bhs.), 5038 (Bh.), 5042 (Bhs.),
-<div n="lb">5043 (Bh.), 5044 (Bh.), 5046 (Bhs.), 5047 (Bh.), 5061 (Bhs.),
-<div n="lb">5064 (Bhs.), 5066 (Bh.).—§ 205{%a%} (cf. Droṇa): I, {@132,@} 5275
-<div n="lb">(Bhs.), 5288 {%(Bhīmādīn):%} Duryodhana and Bhīma became
-<div n="lb">very skilled in the use of the mace, and were jealous of each
-<div n="lb">other.—§ 206 (Droṇa): I, {@132@}{%f%} (Droṇa tests his pupils).—
-<div n="lb">§ 208 (Astradarśana): I, {@135,@} 5348 (Bh.), 5350 (Bh.)
-<div n="lb">(a combat with maces between Duryodhana and {%Bh.%}); {@137,@}
-<div n="lb">5423 (Bhs.), 5428 (Bhs.).—§ 209 (Drupadaśāsana): I, {@138,@}
-<div n="lb">5468 (Bhs.), 5469 (Bhs.), 5470 (Bh.), 5471 (Bhs.), 5500
-<div n="lb">(Bh.), 5501 (Bhs.).—§ 210{%b%} (cf. Sambhavaparvan): I, {@139,@}
-<div n="lb">5521 (Bh.): Vṛkodara (i.e. {%Bh.%}) received lessons in arms
-<div n="lb">from Saṅkarṣaṇa (i.e. Balarāma), and became like to
-<div n="lb">Dyumatsena himself in strength.—§ 211 (Sambhavap.): I,
-<div n="lb">{@139,@} 5538 (Bhs.).—§ 213 (Jatugṛhap.): I, {@141,@} 5654 (Bhs.);
-<div n="lb">{@145,@} 5741 (Bh.); {@146,@} 5780 (Bhs.), (5786) (Bhs.); {@148,@}
-<div n="lb">5820 (Bhs.), 5828 (Bh.), 5838 (Bhs.); {@150,@} 5871 (Bh.),
-<div n="lb">5878 (Bhs.), 5881 (Bhs.); {@151,@} 5886 (Bh.), 5895 (Bhs.)
-<div n="lb">5896 (Bh.), 5926 (Bh.).—§ 214 (Hiḍimbavadhap.): I, {@152,@}
-<div n="lb">5941 (Bhs.), 5942 (Bhs.), 5946 (Bhs.), 5947 (Bhs.), (5956)
-<div n="lb">(Bhs.), (5959) (Bh.); {@153,@} 5964 (Bhs.), (5968) (Bh.), 5973
-<div n="lb">(Bhs.), 5982 (Bh.), 5983 (Bhs.), 5999 (Bhs.), 6000 (Bh.),
-<div n="lb">6001 (Bh.), 6002 (Bhs.), 6004 (Bhs.); {@154,@} 6023 (Bh.), 6024
-<div n="lb">(Bh.), (6026) (Bh.), 6029 (Bh.), 6030 (Bh.), (6032) (Bh.),
-<div n="lb">6036 (Bhs.), 6037 (Bh.), 6038 (Bhs.), 6039 (Bhs.); {@155,@}
-<div n="lb">(6042) (Bhs.), 6043 (Bh.), 6046 (Bhs.), 6053 (Bhs.), 6058
-<div n="lb">(Bhs.), 6059 (Bhs.), 6060 (Bhs.), 6062 (Bhs.), 6071 (Bh.), 6072
-<div n="lb">(Bhs.); {@156,@} 6096 (Bhs.).—§ 215 (Bakavadhap.): I, {@157,@} 6108
-<div n="lb">(Bh.), 6110 (Bhs.), 6113 (Bh.), (6118) (Bhs.); {@162,@} 6241 (Bh.),
-<div n="lb">6243 (Bh.), 6255 (Bh.), 6256 (Bh.), 6259 (Bh.); {@163,@} 6268
-<div n="lb">(Bh.), 6270 (Bhs.), 6272 (Bh.), 6275 (Bhs.), 6277 (Bhs.), 6278
-<div n="lb">(Bhs.), 6281 (Bh.), 6282 (Bh.), 6283 (Bh.), 6284 (Bh.), 6285
-<div n="lb">(Bh.), 6287 (Bhs.), 6288 (Bhs.), 6289 (Bh.), 6294 (Bh.); {@164,@}
-<div n="lb">6297 (Bh.), 6301 (Bh.), 6303 (Bh.).—§ 219 (Caitrarathap.):
-<div n="lb">I, {@168,@} 6419 (Bhs.).—§ 233 (Svayaṃvarap.): I, {@187,@} †7014
-<div n="lb">(Bh.).—§ 234 (do.): I, {@189,@} †7075 (Bhs.), †7076 (Bh.);
-<div n="lb">{@190,@} 7088 (Bh.), 7092 (Bhs.), 7111 (Bh.), 7112 (Bhs.),
-<div n="lb">7113 (Bhs.), 7121 (Bh.), 7124 (Bhs.).—§ 235 (do.): I, {@191,@}
-<div n="lb">7138 (Bh.).—§ 236 (do.): I, {@192,@} 7158 (Bh.), †7161 (Bh.).
-<div n="lb">—§ 237 (Vaivāhikap.): I, {@193,@} 7194 (Bh.), 7195 (Bh.);
-<div n="lb">{@195,@} 7226 (Bhs.), 7235 (Bhs.), 7241 (Bhs.).—§ 241
-<div n="lb">(Vidurāgam.): I, {@200,@} 7368 (Bh.); {@201,@} 7405 (Bhs.), 7409
-<div n="lb">(Bhs.).—§ 243 (do.): I, {@205,@} 7504 (Bhs.).—§ 244 (Rājyalā-
-<div n="lb">bhap.): I, {@207,@} 7547 (Bhs.).—§ 253 (Haraṇāharaṇap.):
-<div n="lb">I, {@221,@} 8001 (Bh.), 8042 (Bhs.).—§ 262 (Bhagavadvāna):
+(Bh.).—§ 130 (Aṃśāvat.): I, {@67@}, 2742 (Bhs.), 2746 ({%Bhs°n%}
+{%tu Vātasya%}, sc. {%putram%}).—§ 157 (Pūruvaṃś.): I, {@95@}, ††3814
+({%Mārutād Bhīmasenaḥ%}).—§ 159 (do.): I, {@95@} [3827, father
+of Sutasoma], ††3829 (Bhs. {%Kāśyāṃ Balandharāṃ nāmopayeme%}
+{%vīryaśulkāṃ, tasyāṃ putraṃ Sarvagaṃ nāmotpādayām āsa%}),
+††3833 ({%pūrvam eva Hiḍimbāyāṃ rākṣasaṃ Ghaṭotkacaṃ%}
+{%putram utpādayām āsa%}, Bhs.).—§ 190{%c%} (Pāṇḍavotpatti):
+I, {@123@}, 4772 (Bh.): Vāyu came to Kuntī riding upon
+a deer; a celestial voice was also heard after the birth
+of {%Bh.%}; he fell from the lap of his mother, who had been
+frightened by a tiger, and broke into 100 fragments the
+rock on which he fell; he was born on the same day as
+Duryodhana.—§ 192 (Pāṇḍavotp.): I, {@124@}, 4854 (Bhs. {%tu%}
+{%madhyamaḥ%}).—§ 194 (Ṛṣisaṃv.): I, {@126@}, 4920 ({%Mātariśvā%}
+{%dadau putram Bhīmaṃ nāma mahābalam%}).—§ 197 (Bhīma-
+senarasapāna): I, {@128@}, 4979 (Bhs.), 4984 (Bh.), 4988 (Bhs.),
+4993 (Bh.), 5008 (Bhs.), 5010 (Bh.), 5014 (Bh.), 5017 (Bhs.),
+5018 (Bh.), 5022 (Bh.), 5025 (Bh.), 5031 (Bh.), 5033 (Bhs.);
+{@129@}, 5034 (Bh.), 5035 (Bhs.), 5038 (Bh.), 5042 (Bhs.),
+5043 (Bh.), 5044 (Bh.), 5046 (Bhs.), 5047 (Bh.), 5061 (Bhs.),
+5064 (Bhs.), 5066 (Bh.).—§ 205{%a%} (cf. Droṇa): I, {@132@}, 5275
+(Bhs.), 5288 ({%Bhīmādīn%}): Duryodhana and Bhīma became
+very skilled in the use of the mace, and were jealous of each
+other.—§ 206 (Droṇa): I, {@132@}{%f%} (Droṇa tests his pupils).—
+§ 208 (Astradarśana): I, {@135@}, 5348 (Bh.), 5350 (Bh.)
+(a combat with maces between Duryodhana and {%Bh%}.); {@137@},
+5423 (Bhs.), 5428 (Bhs.).—§ 209 (Drupadaśāsana): I, {@138@},
+5468 (Bhs.), 5469 (Bhs.), 5470 (Bh.), 5471 (Bhs.), 5500
+(Bh.), 5501 (Bhs.).—§ 210{%b%} (cf. Sambhavaparvan): I, {@139@},
+5521 (Bh.): Vṛkodara (i.e. {%Bh%}.) received lessons in arms
+from Saṅkarṣaṇa (i.e. Balarāma), and became like to
+Dyumatsena himself in strength.—§ 211 (Sambhavap.): I,
+{@139@}, 5538 (Bhs.).—§ 213 (Jatugṛhap.): I, {@141@}, 5654 (Bhs.);
+{@145@}, 5741 (Bh.); {@146@}, 5780 (Bhs.), (5786) (Bhs.); {@148@},
+5820 (Bhs.), 5828 (Bh.), 5838 (Bhs.); {@150@}, 5871 (Bh.),
+5878 (Bhs.), 5881 (Bhs.); {@151@}, 5886 (Bh.), 5895 (Bhs.)
+5896 (Bh.), 5926 (Bh.).—§ 214 (Hiḍimbavadhap.): I, {@152@},
+5941 (Bhs.), 5942 (Bhs.), 5946 (Bhs.), 5947 (Bhs.), (5956)
+(Bhs.), (5959) (Bh.); {@153@}, 5964 (Bhs.), (5968) (Bh.), 5973
+(Bhs.), 5982 (Bh.), 5983 (Bhs.), 5999 (Bhs.), 6000 (Bh.),
+6001 (Bh.), 6002 (Bhs.), 6004 (Bhs.); {@154@}, 6023 (Bh.), 6024
+(Bh.), (6026) (Bh.), 6029 (Bh.), 6030 (Bh.), (6032) (Bh.),
+6036 (Bhs.), 6037 (Bh.), 6038 (Bhs.), 6039 (Bhs.); {@155@},
+(6042) (Bhs.), 6043 (Bh.), 6046 (Bhs.), 6053 (Bhs.), 6058
+(Bhs.), 6059 (Bhs.), 6060 (Bhs.), 6062 (Bhs.), 6071 (Bh.), 6072
+(Bhs.); {@156@}, 6096 (Bhs.).—§ 215 (Bakavadhap.): I, {@157@}, 6108
+(Bh.), 6110 (Bhs.), 6113 (Bh.), (6118) (Bhs.); {@162@}, 6241 (Bh.),
+6243 (Bh.), 6255 (Bh.), 6256 (Bh.), 6259 (Bh.); {@163@}, 6268
+(Bh.), 6270 (Bhs.), 6272 (Bh.), 6275 (Bhs.), 6277 (Bhs.), 6278
+(Bhs.), 6281 (Bh.), 6282 (Bh.), 6283 (Bh.), 6284 (Bh.), 6285
+(Bh.), 6287 (Bhs.), 6288 (Bhs.), 6289 (Bh.), 6294 (Bh.); {@164@},
+6297 (Bh.), 6301 (Bh.), 6303 (Bh.).—§ 219 (Caitrarathap.):
+I, {@168@}, 6419 (Bhs.).—§ 233 (Svayaṃvarap.): I, {@187@}, †7014
+(Bh.).—§ 234 (do.): I, {@189@}, †7075 (Bhs.), †7076 (Bh.);
+{@190@}, 7088 (Bh.), 7092 (Bhs.), 7111 (Bh.), 7112 (Bhs.),
+7113 (Bhs.), 7121 (Bh.), 7124 (Bhs.).—§ 235 (do.): I, {@191@},
+7138 (Bh.).—§ 236 (do.): I, {@192@}, 7158 (Bh.), †7161 (Bh.).
+—§ 237 (Vaivāhikap.): I, {@193@}, 7194 (Bh.), 7195 (Bh.);
+{@195@}, 7226 (Bhs.), 7235 (Bhs.), 7241 (Bhs.).—§ 241
+(Vidurāgam.): I, {@200@}, 7368 (Bh.); {@201@}, 7405 (Bhs.), 7409
+(Bhs.).—§ 243 (do.): I, {@205@}, 7504 (Bhs.).—§ 244 (Rājyalā-
+bhap.): I, {@207@}, 7547 (Bhs.).—§ 253 (Haraṇāharaṇap.):
+I, {@221@}, 8001 (Bh.), 8042 (Bhs.).—§ 262 (Bhagavadvāna):
 [Page128-a+ 63]
-<div n="lb">II, {@2,@} 38 (Bhs.), 41 (Bhs.).—§ 263 (Sabhākriyāp.): II,
-<div n="lb">{@3,@} 64 (Bh.), 78 ({%gadāñ ca,%} Bh.).—§ 272 (Rājasūyāram-
-<div n="lb">bhap.): II, {@13,@} 523 {%(Bhīmasya paripālanāt),%} 556 (Bh.).—
-<div n="lb">§ 274 (do.): II, {@15,@} 643 (Bhs.), 644 (Bh.), (645) (Bh.);
-<div n="lb">{@16,@} 661 {%(Bhīmārjunāv ubhau netre).%}—§ 276 (Jarāsandha-
-<div n="lb">vadhap.): II, {@20,@} 770 {%(balaṃ Bhīme),%} 772 (Bhs.), 774
-<div n="lb">(Bhs.), 775 (Bh.), 787 (Bh.), 791 (Bh.).—§ 277 (do.): {@21,@}
-<div n="lb">823 (Bh.), 830 {%(Pārtha-Bhīmayoḥ);%} {@23,@} 892 (Bhs.), 896
-<div n="lb">(Bh.), 897 (Bhs.), 898 (Bhs.), 920 (Bh.); {@24,@} 925 (Bhs.),
-<div n="lb">928 (Bh.), 929 (Bh.), 932 (Bhs.), 933 (Bhs.), 938 (Bh.),
-<div n="lb">954 (Bh.), 969 (Bh.), 970 (Bhs.), 971 (Bhs.), 977 (Bhs.).—
-<div n="lb">§ 278 (Digvijayap.): II, {@25,@} 990 (Bhs.), 992 (Bhs.).—§ 280
-<div n="lb">(do.): II, {@29,@} 1059 (Bhs.), 1064 (Bhs.), 1065 (Bh.), 1072
-<div n="lb">(Bh.), 1073 (Bh.), 1074 (Bh.); {@30,@} 1081 (Bh.), 1104
-<div n="lb">(Bh.): {%Bh.%} vanquished the Pañcālas, etc.; the Dāśārṇa king
-<div n="lb">Sudhanvan fought with {%Bh.%} without weapons, and was there-
-<div n="lb">fore appointed commander-in-chief {%(adhisenāpati)%} by him;
-<div n="lb">the Cedi king Śiśupāla offered his kingdom to {%Bh.,%} who
-<div n="lb">dwelt with him for thirty nights (II, {@29@}). {%Bh.%} vanquished
-<div n="lb">king Śreṇimat of the Kumāra country, etc., and returned to
-<div n="lb">Indraprastha (II, {@30@}).—§ 286 (Rājasūyikap.): II, {@33,@}
-<div n="lb">1221 (Bh.).—§ 290 (Śiśupālavadh.): II, {@42,@} 1475 (Bhs.);
-<div n="lb">1478 (Bh.), 1482 (Bhs.), 1487 (Bh.), 1489 (Bhs.), 1491
-<div n="lb">(Bhs.), 1493 (Bhs.); {@44,@} 1520 (Bhs.).—§ 292{%a%} (Rāja-
-<div n="lb">sūyikaparvan): II, {@45,@} 1607 (Bhs.): Bhīmasena followed
-<div n="lb">Bhīṣma and Dhṛtarāṣṭra.—§ 293 (Dyūtap.): II, {@46,@} 1640
-<div n="lb">(Bh.).—§ 294 (do.): II, {@47,@} 1668 (Bhs.), 1669 (Bhs.),
-<div n="lb">1716 (Bhs.); {@50,@} 1811 (Bh. {%Vṛkodaraṃ%}), 1819 (Bhs.).—
-<div n="lb">§ 296 (do.): II, {@53,@} 1920 (Bhs.).—§ 298 (do.): II, {@58,@}
-<div n="lb">2021 (Bhs.); {@63,@} 2112 (Bhs. pl.); {@65,@} 2157 (Bhs.), †2163
-<div n="lb">(Bh.), 2165 (Bhs.).—§ 299 (do.): II, {@68,@} 2257 (Bhs.),
-<div n="lb">(2260) (Bhs.), 2299 (Bh.), (2300) (Bhs.).—§ 300 (do.): II,
-<div n="lb">{@70,@} †2363 (Bh.), 2370 (Bhs.), 2371 (Bhs.); {@71,@} †2383
-<div n="lb">(Bhs.), †2385 (Bhs.), 2387 (Bhs.), 2388 (Bh.), 2391 (Bh.),
-<div n="lb">2392 (Bhs.), †2395 (Bhs.), †2399 (Bh.), 2411 (Bhs.); {@72,@}
-<div n="lb">2419 (Bhs.), (2425) (Bh.), 2427 (Bhs.); {@73,@} 2447 {%(Bhīmasene%}
-<div n="lb">{%parākramaḥ).%}—§ 304 (Anudyātap.): II, {@77,@} †2528 (Bhs.),
-<div n="lb">(†2533) (Bhs.), †2536 (Bhs.), †2538 (Bh.), 2543 (Bh.),
-<div n="lb">(2544) (Bhs.), 2545 (Bhs.), 2546 (Bh.).—§ 305 (do.): II,
-<div n="lb">{@77,@} 2553 (Bh.); {@78,@} 2569 (Bhs.).—§ 306 (do.): II, {@80,@}
-<div n="lb">2621 (Bhs.), 2623 (Bh.), 2632 (Bh.), 2633 (Bh.), 2653 (Bh.):
-<div n="lb">Bhīma had gone away looking at his arms, desiring to destroy
-<div n="lb">his enemies.—§ 307 (do.): II, {@81,@} 2703 (Bhs.), 2705 (Bh.),
-<div n="lb">2707 (Bh.).—§ 311 (Āraṇyakap.): III, {@4,@} †228 (Bhs.),
-<div n="lb">†229 (Bh.), †234 (Bhs.).—§ 312 (do.): III, {@5,@} †246
-<div n="lb">(Bhs.), †248 (Bhs.).—§ 313 (do.): III, {@6,@} 275 (Bh.).—
-<div n="lb">§ 315 (Maitreyaśāpa): III, {@10,@} 369 (Bh.), 370 (Bh.), 379
-<div n="lb">(Bh.), 382 (Bh.).—§ 316 (Kirmīravadh.): III, {@11,@} 385
-<div n="lb">(Bhs.), 386 (Bh.), 411 (Bhs.), 413 (Bhs.), 420 (Bhs.), 423
-<div n="lb">(Bh.), 425 (Bh.), 427 (Bh.), 430 (Bh.), 436 (Bh.), 442 (Bhs.),
-<div n="lb">445 (Bh.), †453 (Bh.), †454 (Bh.), 457 (Bh.), 458 (Bh.), 459
-<div n="lb">(Bh.).—§ 317 (Arjunābhigam.): III, {@12,@} 527 (Bhs.), 537
-<div n="lb">(Bh.), 538 (Bhs.), 540 (Bhs.), 541 (Bh.), 543 (Bhs.), 544
-<div n="lb">(Bhs.), 549 (Bh.), 555 (Bhs.), 556 (Bh.), 557 (Bh.), 560 (Bh.),
-<div n="lb">564 (Bhs.), 565 (Bhs.), 566 (Bhs.), 567 (Bhs.), 568 (Bhs.),
-<div n="lb">569 (Bh.), 574 (Bh.), 595 {%(Duryodhanaṃ Bhīmasenaḥ.%}
-<div n="lb">{%…hantā).%}—§ 321 (Saubhavadhop.): III, {@22,@} 893 (Bh.).
-<div n="lb">—§ 322 (Dvaitavanapr.): III, {@23,@} †903 (Bhs.); {@24,@} †943
-<div n="lb">(Bh.).—§ 323 (do.): III, {@25,@} †950 (Bhs.).—§ 325 (Drau-
-<div n="lb">padīparitāpavākya): III, {@27,@} 1008 (Bhs.), 1009 (Bhs.).—
-<div n="lb">§ 327 (do.): III, {@30,@} 1123 (Bhs.); {@34,@} †1354 (Bhs.), †1357
-<div n="lb">(Bhs.), †1359 (Bhs.), †1360 (Bhs.), †1369 (Bh.), †1371 (Bhs.);
-<div n="lb">{@35,@} (1376) (Bh.).—§ 328 (Kāmyakavanaprav.): III, {@36,@} 1411
+II, {@2@}, 38 (Bhs.), 41 (Bhs.).—§ 263 (Sabhākriyāp.): II,
+{@3@}, 64 (Bh.), 78 ({%gadāñ ca%}, Bh.).—§ 272 (Rājasūyāram-
+bhap.): II, {@13@}, 523 ({%Bhīmasya paripālanāt%}), 556 (Bh.).—
+§ 274 (do.): II, {@15@}, 643 (Bhs.), 644 (Bh.), (645) (Bh.);
+{@16@}, 661 ({%Bhīmārjunāv ubhau netre%}).—§ 276 (Jarāsandha-
+vadhap.): II, {@20@}, 770 ({%balaṃ Bhīme%}), 772 (Bhs.), 774
+(Bhs.), 775 (Bh.), 787 (Bh.), 791 (Bh.).—§ 277 (do.): {@21@},
+823 (Bh.), 830 ({%Pārtha-Bhīmayoḥ%}); {@23@}, 892 (Bhs.), 896
+(Bh.), 897 (Bhs.), 898 (Bhs.), 920 (Bh.); {@24@}, 925 (Bhs.),
+928 (Bh.), 929 (Bh.), 932 (Bhs.), 933 (Bhs.), 938 (Bh.),
+954 (Bh.), 969 (Bh.), 970 (Bhs.), 971 (Bhs.), 977 (Bhs.).—
+§ 278 (Digvijayap.): II, {@25@}, 990 (Bhs.), 992 (Bhs.).—§ 280
+(do.): II, {@29@}, 1059 (Bhs.), 1064 (Bhs.), 1065 (Bh.), 1072
+(Bh.), 1073 (Bh.), 1074 (Bh.); {@30@}, 1081 (Bh.), 1104
+(Bh.): {%Bh%}. vanquished the Pañcālas, etc.; the Dāśārṇa king
+Sudhanvan fought with {%Bh%}. without weapons, and was there-
+fore appointed commander-in-chief ({%adhisenāpati%}) by him;
+the Cedi king Śiśupāla offered his kingdom to {%Bh.%}, who
+dwelt with him for thirty nights (II, {@29@}). {%Bh%}. vanquished
+king Śreṇimat of the Kumāra country, etc., and returned to
+Indraprastha (II, {@30@}).—§ 286 (Rājasūyikap.): II, {@33@},
+1221 (Bh.).—§ 290 (Śiśupālavadh.): II, {@42@}, 1475 (Bhs.);
+1478 (Bh.), 1482 (Bhs.), 1487 (Bh.), 1489 (Bhs.), 1491
+(Bhs.), 1493 (Bhs.); {@44@}, 1520 (Bhs.).—§ 292{%a%} (Rāja-
+sūyikaparvan): II, {@45@}, 1607 (Bhs.): Bhīmasena followed
+Bhīṣma and Dhṛtarāṣṭra.—§ 293 (Dyūtap.): II, {@46@}, 1640
+(Bh.).—§ 294 (do.): II, {@47@}, 1668 (Bhs.), 1669 (Bhs.),
+1716 (Bhs.); {@50@}, 1811 (Bh. {%Vṛkodaraṃ%}), 1819 (Bhs.).—
+§ 296 (do.): II, {@53@}, 1920 (Bhs.).—§ 298 (do.): II, {@58@},
+2021 (Bhs.); {@63@}, 2112 (Bhs. pl.); {@65@}, 2157 (Bhs.), †2163
+(Bh.), 2165 (Bhs.).—§ 299 (do.): II, {@68@}, 2257 (Bhs.),
+(2260) (Bhs.), 2299 (Bh.), (2300) (Bhs.).—§ 300 (do.): II,
+{@70@}, †2363 (Bh.), 2370 (Bhs.), 2371 (Bhs.); {@71@}, †2383
+(Bhs.), †2385 (Bhs.), 2387 (Bhs.), 2388 (Bh.), 2391 (Bh.),
+2392 (Bhs.), †2395 (Bhs.), †2399 (Bh.), 2411 (Bhs.); {@72@},
+2419 (Bhs.), (2425) (Bh.), 2427 (Bhs.); {@73@}, 2447 ({%Bhīmasene%}
+{%parākramaḥ%}).—§ 304 (Anudyātap.): II, {@77@}, †2528 (Bhs.),
+(†2533) (Bhs.), †2536 (Bhs.), †2538 (Bh.), 2543 (Bh.),
+(2544) (Bhs.), 2545 (Bhs.), 2546 (Bh.).—§ 305 (do.): II,
+{@77@}, 2553 (Bh.); {@78@}, 2569 (Bhs.).—§ 306 (do.): II, {@80@},
+2621 (Bhs.), 2623 (Bh.), 2632 (Bh.), 2633 (Bh.), 2653 (Bh.):
+Bhīma had gone away looking at his arms, desiring to destroy
+his enemies.—§ 307 (do.): II, {@81@}, 2703 (Bhs.), 2705 (Bh.),
+2707 (Bh.).—§ 311 (Āraṇyakap.): III, {@4@}, †228 (Bhs.),
+†229 (Bh.), †234 (Bhs.).—§ 312 (do.): III, {@5@}, †246
+(Bhs.), †248 (Bhs.).—§ 313 (do.): III, {@6@}, 275 (Bh.).—
+§ 315 (Maitreyaśāpa): III, {@10@}, 369 (Bh.), 370 (Bh.), 379
+(Bh.), 382 (Bh.).—§ 316 (Kirmīravadh.): III, {@11@}, 385
+(Bhs.), 386 (Bh.), 411 (Bhs.), 413 (Bhs.), 420 (Bhs.), 423
+(Bh.), 425 (Bh.), 427 (Bh.), 430 (Bh.), 436 (Bh.), 442 (Bhs.),
+445 (Bh.), †453 (Bh.), †454 (Bh.), 457 (Bh.), 458 (Bh.), 459
+(Bh.).—§ 317 (Arjunābhigam.): III, {@12@}, 527 (Bhs.), 537
+(Bh.), 538 (Bhs.), 540 (Bhs.), 541 (Bh.), 543 (Bhs.), 544
+(Bhs.), 549 (Bh.), 555 (Bhs.), 556 (Bh.), 557 (Bh.), 560 (Bh.),
+564 (Bhs.), 565 (Bhs.), 566 (Bhs.), 567 (Bhs.), 568 (Bhs.),
+569 (Bh.), 574 (Bh.), 595 ({%Duryodhanaṃ Bhīmasenaḥ%}.
+{%…hantā%}).—§ 321 (Saubhavadhop.): III, {@22@}, 893 (Bh.).
+—§ 322 (Dvaitavanapr.): III, {@23@}, †903 (Bhs.); {@24@}, †943
+(Bh.).—§ 323 (do.): III, {@25@}, †950 (Bhs.).—§ 325 (Drau-
+padīparitāpavākya): III, {@27@}, 1008 (Bhs.), 1009 (Bhs.).—
+§ 327 (do.): III, {@30@}, 1123 (Bhs.); {@34@}, †1354 (Bhs.), †1357
+(Bhs.), †1359 (Bhs.), †1360 (Bhs.), †1369 (Bh.), †1371 (Bhs.);
+{@35@}, (1376) (Bh.).—§ 328 (Kāmyakavanaprav.): III, {@36@}, 1411
 [Page128-b+ 63]
-<div n="lb">(Bhs.), 1414 (Bhs.), 1431 (Bhs.).—§ 340 (Indralokābhigam.):
-<div n="lb">III, {@49,@} 1941 (Bh.), 1954 (Bh.).—§ 341 (do.): III, {@50,@}
-<div n="lb">†1965 {%(dakṣiṇāṃ Bhīmasenaḥ).%}—§ 342 (do.): III, {@51,@} 1973
-<div n="lb">(Bh.), 1978 (Bh.), 1979 (Bh.), 1993 (Bh.), 2009 (Bh.).—
-<div n="lb">§ 343 (Nalop.): III, {@52,@} 2017 (Bh.), 2048 (Bh.), 2052 (Bh.).
-<div n="lb">—§ 356 (Tīrthay.): III, {@80,@} 4006 (Bhs.), 4016 ({%Bhīmād%}
-<div n="lb">{%avarajaṃ,%} i.e. Arjuna).—§ 378 (do.): III, {@93,@} 8473 (Bhs.),
-<div n="lb">8477 (Bh.).—§ 402 (do.): III, {@120,@} †10282 (Bh.).—§ 406
-<div n="lb">(do.): III, {@125,@} 10417 (Bhs.).—§ 418 (do.): III, {@139,@}
-<div n="lb">10832 {%(Bhīmasenabalena),%} †10838 (Bh.).—§ 419 (Gandha-
-<div n="lb">mādanapr.): III, {@140,@} (10847) (Bh.), 10857 (Bh.), 10862
-<div n="lb">(Bhs.).—§ 420 (do.): III, {@141,@} 10871 (Bhs.), 10890 (Bh.),
-<div n="lb">10896 (Bh.).—§ 423 (do.): III, {@143,@} 10976 (Bhs.); {@144,@}
-<div n="lb">10993 (Bh.), 11006 (Bhs.), (11008) (Bhs.), 11012 (Bhs.,
-<div n="lb">father of Ghaṭotkaca), 11013 (Bhs.); {@145,@} 11014 (Bh.),
-<div n="lb">11016 (Bhs.).—§ 424 (Bhīmakadalīkhaṇḍapr.): III, {@146,@}
-<div n="lb">11072 (Bhs.), 11073 (Bh.), 11076 (Bhs.), 11077 (Bh.), 11104
-<div n="lb">(Bh.), 11108 (Bh.), 11114 (Bhs.), 11117 (Bhs.), 11118
-<div n="lb">(Bhs.), 11122 (Bh.), 11124 (Bhs.), 11130 (Bh., blows his
-<div n="lb">conch), 11131 {%(Bhīmasenaraveṇa),%} 11134 (Bhs.), 11135 (Bh.),
-<div n="lb">11136 (Bh.), 11143 (Bhs.), 11153 (Bh.), 11154 (Bh.); {@147,@}
-<div n="lb">(11167) (Bhs.), 11169 ({%Pāṇḍavo Vāyutanayaḥ,%} Bhs.), (11172)
-<div n="lb">(Bhs.), (11174) (Bh.), (11177) (Bhs.), 11183 (Bh.), 11185
-<div n="lb">(Bh.), 11186 (Bh.), 11187 (Bh.).—§ 425 (Hanūmat-Bhīma-s.):
-<div n="lb">III, {@148,@} 11218 (Bh.).—§ 426 (do.): III, {@149,@} 11224
-<div n="lb">(Bhs.), (11233) (Bhs.).—§ 430 (do.): III, {@150,@} (11265)
-<div n="lb">(Bhs.), 11266 (Bh.), 11271 (Bh.), 11274 (Bh.), 11275 (Bh.),
-<div n="lb">11281 (Bh.).—§ 431 (Saugandhikāharaṇap.): III, {@151,@}
-<div n="lb">11318 (Bhs.), 11319 (Bh.), 11321 (Bh.), 11325 (Bh.), 11329
-<div n="lb">(Bhs.), 11332 (Bhs.), 11336 (Bh.).—§ 432 (do.): {@152,@}
-<div n="lb">11337 (Bh.), 11343 (Bhs.), 11346 (Bh.); {@153,@} 11362
-<div n="lb">(Bh.); {@154,@} (11367) (Bhs.), 11379 (Bhs.), †11383 (Bhs.),
-<div n="lb">†11385 (Bh.), †11387 (Bh.), †11389 (Bh.), †11392 (Bh.),
-<div n="lb">†11393 (Bh.), †11394 (Bh.).—§ 433 (do.): III, {@155,@}
-<div n="lb">11398 (Bh.), 11403 (Bhs.), 11404 (Bh.), 11408 (Bhs.), 11412
-<div n="lb">(Bh.), 11418 (Bh.), 11420 (Bh.).—§ 434 (do.): III, {@156,@} 11441
-<div n="lb">(Bh.), 11450 (Bhs.).—§ 435 (Jaṭāsurav.): III, {@157,@} 11452
-<div n="lb">(Bhs.), 11457 (Bhs.), 11461 (Bhs.), 11486 (Bhs.), 11490
-<div n="lb">(Bh.), 11497 (Bh.), 11500 (Bh.), 11501 (Bh.), 11507 (Bh.),
-<div n="lb">11517 (Bh.), 11518 (Bhs.), 11519 (Bh.), 11521 (Bhs.).—§ 436
-<div n="lb">(Yakṣayuddhap.): III, {@158,@} 11600 (Bh.), 11606 (Bh.),
-<div n="lb">11609 (Bh.), 11621 (Bh.); {@159,@} 11629 (Bh.).—§ 437 (do.):
-<div n="lb">{@160,@} 11664 (Bhs.), 11679 (Bhs.), 11685 (Bhs.) 11686 (Bh.),
-<div n="lb">11706 (Bhs.), 11710 (Bhs.), 11713 (Bhs.), 11717 (Bhs.),
-<div n="lb">11718 (Bh.), 11724 (Bhs.), 11725 (Bhs.), 11726 (Bhs.),
-<div n="lb">11729 (Bh.), 11732 (Bh.), 11733 (Bhs.), 11737 (Bhs.).—
-<div n="lb">§ 438 (do.): III, {@161,@} 11740 (Bhs.), 11742 (Bhs.),
-<div n="lb">11743 (Bhs.), 11748 (Bh.), 11749 (Bhs.), 11753 (Bhs.),
-<div n="lb">11754 (Bhs.), 11761 (Bh.), 11778 (Bhs.), 11779 (Bhs.),
-<div n="lb">11781 (Bh.), 11782 (Bhs.), 11784 (Bhs.), 11785 (Bhs.), 11802
-<div n="lb">(Bh.); {@162,@} 11812 (Bhs.).—§ 450 (Ājagarap.): III, {@178,@}
-<div n="lb">12363 (Bh.), 12374 (Bh.), 12375 (Bh.), 12379 (Bh.), 12380
-<div n="lb">(Bhs.), 12381 (Bhs.), 12383 (Bhs.), 12384 (Bh.), 12385 (Bhs.),
-<div n="lb">12390 (Bh.), 12391 (Bhs.), 12392 (Bhs.), 12393 (Bh.); {@179,@}
-<div n="lb">12396 (Bhs.), 12398 (Bhs.), 12403 (Bh.), 12420 (Bhs.),
-<div n="lb">12441 (Bh.), 12444 (Bhs.); {@180,@} (12453) (Bhs.); {@181,@} 12532
-<div n="lb">(Bhs.), 12537 (Bh.), 12538 (Bh.).—§ 452 (Mārkaṇḍeyas.):
-<div n="lb">III, {@183,@} 12564 (Bh.), †12578 (Bh.).—§ 512 (Ghoṣayātr.):
-<div n="lb">III, {@236,@} †14753 (Bh.), †14758 (Bh.); {@238,@} 14803 (Bh.),
-<div n="lb">14806 (Bhs.); {@239,@} 14828 (Bhs.); {@242,@} 14926 (Bhs.),
-<div n="lb">14934 (Bhs.); {@243,@} 14950 (Bh.), 14952 (Bh.); {@244,@} 14957
-<div n="lb">(Bhs.); {@245,@} 14986 (Bh.), 15008 (Bh.); {@248,@} 15063 (Bh.).
-<div n="lb">—§ 516 (Duryodhanayajña): III, {@256,@} 15312 (Bh.).—
+(Bhs.), 1414 (Bhs.), 1431 (Bhs.).—§ 340 (Indralokābhigam.):
+III, {@49@}, 1941 (Bh.), 1954 (Bh.).—§ 341 (do.): III, {@50@},
+†1965 ({%dakṣiṇāṃ Bhīmasenaḥ%}).—§ 342 (do.): III, {@51@}, 1973
+(Bh.), 1978 (Bh.), 1979 (Bh.), 1993 (Bh.), 2009 (Bh.).—
+§ 343 (Nalop.): III, {@52@}, 2017 (Bh.), 2048 (Bh.), 2052 (Bh.).
+—§ 356 (Tīrthay.): III, {@80@}, 4006 (Bhs.), 4016 ({%Bhīmād%}
+{%avarajaṃ%}, i.e. Arjuna).—§ 378 (do.): III, {@93@}, 8473 (Bhs.),
+8477 (Bh.).—§ 402 (do.): III, {@120@}, †10282 (Bh.).—§ 406
+(do.): III, {@125@}, 10417 (Bhs.).—§ 418 (do.): III, {@139@},
+10832 ({%Bhīmasenabalena%}), †10838 (Bh.).—§ 419 (Gandha-
+mādanapr.): III, {@140@}, (10847) (Bh.), 10857 (Bh.), 10862
+(Bhs.).—§ 420 (do.): III, {@141@}, 10871 (Bhs.), 10890 (Bh.),
+10896 (Bh.).—§ 423 (do.): III, {@143@}, 10976 (Bhs.); {@144@},
+10993 (Bh.), 11006 (Bhs.), (11008) (Bhs.), 11012 (Bhs.,
+father of Ghaṭotkaca), 11013 (Bhs.); {@145@}, 11014 (Bh.),
+11016 (Bhs.).—§ 424 (Bhīmakadalīkhaṇḍapr.): III, {@146@},
+11072 (Bhs.), 11073 (Bh.), 11076 (Bhs.), 11077 (Bh.), 11104
+(Bh.), 11108 (Bh.), 11114 (Bhs.), 11117 (Bhs.), 11118
+(Bhs.), 11122 (Bh.), 11124 (Bhs.), 11130 (Bh., blows his
+conch), 11131 ({%Bhīmasenaraveṇa%}), 11134 (Bhs.), 11135 (Bh.),
+11136 (Bh.), 11143 (Bhs.), 11153 (Bh.), 11154 (Bh.); {@147@},
+(11167) (Bhs.), 11169 ({%Pāṇḍavo Vāyutanayaḥ%}, Bhs.), (11172)
+(Bhs.), (11174) (Bh.), (11177) (Bhs.), 11183 (Bh.), 11185
+(Bh.), 11186 (Bh.), 11187 (Bh.).—§ 425 (Hanūmat-Bhīma-s.):
+III, {@148@}, 11218 (Bh.).—§ 426 (do.): III, {@149@}, 11224
+(Bhs.), (11233) (Bhs.).—§ 430 (do.): III, {@150@}, (11265)
+(Bhs.), 11266 (Bh.), 11271 (Bh.), 11274 (Bh.), 11275 (Bh.),
+11281 (Bh.).—§ 431 (Saugandhikāharaṇap.): III, {@151@},
+11318 (Bhs.), 11319 (Bh.), 11321 (Bh.), 11325 (Bh.), 11329
+(Bhs.), 11332 (Bhs.), 11336 (Bh.).—§ 432 (do.): {@152@},
+11337 (Bh.), 11343 (Bhs.), 11346 (Bh.); {@153@}, 11362
+(Bh.); {@154@}, (11367) (Bhs.), 11379 (Bhs.), †11383 (Bhs.),
+†11385 (Bh.), †11387 (Bh.), †11389 (Bh.), †11392 (Bh.),
+†11393 (Bh.), †11394 (Bh.).—§ 433 (do.): III, {@155@},
+11398 (Bh.), 11403 (Bhs.), 11404 (Bh.), 11408 (Bhs.), 11412
+(Bh.), 11418 (Bh.), 11420 (Bh.).—§ 434 (do.): III, {@156@}, 11441
+(Bh.), 11450 (Bhs.).—§ 435 (Jaṭāsurav.): III, {@157@}, 11452
+(Bhs.), 11457 (Bhs.), 11461 (Bhs.), 11486 (Bhs.), 11490
+(Bh.), 11497 (Bh.), 11500 (Bh.), 11501 (Bh.), 11507 (Bh.),
+11517 (Bh.), 11518 (Bhs.), 11519 (Bh.), 11521 (Bhs.).—§ 436
+(Yakṣayuddhap.): III, {@158@}, 11600 (Bh.), 11606 (Bh.),
+11609 (Bh.), 11621 (Bh.); {@159@}, 11629 (Bh.).—§ 437 (do.):
+{@160@}, 11664 (Bhs.), 11679 (Bhs.), 11685 (Bhs.) 11686 (Bh.),
+11706 (Bhs.), 11710 (Bhs.), 11713 (Bhs.), 11717 (Bhs.),
+11718 (Bh.), 11724 (Bhs.), 11725 (Bhs.), 11726 (Bhs.),
+11729 (Bh.), 11732 (Bh.), 11733 (Bhs.), 11737 (Bhs.).—
+§ 438 (do.): III, {@161@}, 11740 (Bhs.), 11742 (Bhs.),
+11743 (Bhs.), 11748 (Bh.), 11749 (Bhs.), 11753 (Bhs.),
+11754 (Bhs.), 11761 (Bh.), 11778 (Bhs.), 11779 (Bhs.),
+11781 (Bh.), 11782 (Bhs.), 11784 (Bhs.), 11785 (Bhs.), 11802
+(Bh.); {@162@}, 11812 (Bhs.).—§ 450 (Ājagarap.): III, {@178@},
+12363 (Bh.), 12374 (Bh.), 12375 (Bh.), 12379 (Bh.), 12380
+(Bhs.), 12381 (Bhs.), 12383 (Bhs.), 12384 (Bh.), 12385 (Bhs.),
+12390 (Bh.), 12391 (Bhs.), 12392 (Bhs.), 12393 (Bh.); {@179@},
+12396 (Bhs.), 12398 (Bhs.), 12403 (Bh.), 12420 (Bhs.),
+12441 (Bh.), 12444 (Bhs.); {@180@}, (12453) (Bhs.); {@181@}, 12532
+(Bhs.), 12537 (Bh.), 12538 (Bh.).—§ 452 (Mārkaṇḍeyas.):
+III, {@183@}, 12564 (Bh.), †12578 (Bh.).—§ 512 (Ghoṣayātr.):
+III, {@236@}, †14753 (Bh.), †14758 (Bh.); {@238@}, 14803 (Bh.),
+14806 (Bhs.); {@239@}, 14828 (Bhs.); {@242@}, 14926 (Bhs.),
+14934 (Bhs.); {@243@}, 14950 (Bh.), 14952 (Bh.); {@244@}, 14957
+(Bhs.); {@245@}, 14986 (Bh.), 15008 (Bh.); {@248@}, 15063 (Bh.).
+—§ 516 (Duryodhanayajña): III, {@256@}, 15312 (Bh.).—
 [Page129-a+ 63]
-<div n="lb">§ 519 (Vrīhidrauṇikap.): III, {@259,@} 15375 (Bh.).—§ 521
-<div n="lb">(Draupadīhar.): III, {@263,@} 15546 (Bhs.; B. {%Sahadevaṃ%}),
-<div n="lb">15547 (Bhs.; B. {%Sahadevaḥ%}), 15557 (Bhs.; B. {%Sahadevaḥ%}).—
-<div n="lb">§ 522 (do.): III, {@266,@} †15607 (Bhs.), †15608 (Bhs.); {@268,@}
-<div n="lb">†15644 (Bhs.), †15658 (Bh.); {@269,@} †15673 (Bh.), †15691
-<div n="lb">(Bh.); {@270,@} 15695 (Bhs.), †15704 (Bh.); {@271,@} 15717 (Bh.),
-<div n="lb">15719 (Bh.), 15721 (Bh.), 15722 (Bh.), 15738 (Bhs.), 15739
-<div n="lb">(Bh.), 15741 (Bh.), 15751 (Bh.), 15754 (Bhs.), 15759 (Bh.),
-<div n="lb">15767 (Bhs.), 15770 (Bh.), 15775 (Bh.).—§ 523 (Jaya-
-<div n="lb">drathavim.): III, {@272,@} 15778 (Bhs.), 15779 (Bh.), 15781
-<div n="lb">(Bh.), 15782 (Bhs.), (15783) (Bh.), 15788 (Bh.), 15790
-<div n="lb">(Bh.), 15791 (Bh.), 15792 (Bh.).—§ 544 (Yudhiṣṭhirāśvāsa):
-<div n="lb">III, {@292,@} 16607 (Bh.).—§ 547 (Kuṇḍalāhar.): III, {@310,@}
-<div n="lb">17205 (Bhs.).—§ 548 (Āraṇeyap.): III, {@312,@} (17243) (Bh.),
-<div n="lb">17274 (Bhs.), 17276 (Bhs.), 17277 (Bh.), 17281 (Bh.); {@313,@}
-<div n="lb">17289 (Bhs.); 17299 (Bhs.), 17409 (Bhs.), 17410 (Bh.),
-<div n="lb">17411 (Bhs.); {@315,@} 17470 (Bhs.), 17474 (Bhs.).—§ 549
-<div n="lb">(Pāṇḍavaprav.): IV, {@2,@} (28) (Bhs.); {@5,@} 162 (Bhs.), 164 (Bhs.);
-<div n="lb">{@8,@} (†239) (Bh.), †243 (Bh.).—§ 550 (Samayapālanap.): IV,
-<div n="lb">{@13,@} 331 (Bhs.), 344 (Bh.), 359 (Bh.).—§ 551 (Kīcakava-
-<div n="lb">dhap.): IV, {@16,@} 464 (Bhs.), 465 (Bh.), 468 (Bh.), 469 (Bhs.);
-<div n="lb">{@17,@} 506 (Bh.), †508 (Bhs.), 510 (Bh.), 511 (Bh.), 515 (Bhs.),
-<div n="lb">516 (Bhs.); {@18,@} 556 (Bh.); {@19,@} 569 (Bh.), 576 (Bh.), 580
-<div n="lb">(C. {%Bhīmā%}), 581 (Bhs.), 589 (Bhs.); {@20,@} 609 (Bhs.), 619
-<div n="lb">(Bh.), 636 (Bhs.), 637 (Bhs.); {@21,@} 659 (Bh.), 660 (Bhs.),
-<div n="lb">661 (Bh.), 663 (Bh.), 685 (Bhs.), 689 (Bhs.), 690 (Bh.),
-<div n="lb">693 (Bh.); {@22,@} 717 (Bh.), (724) (Bhs.), (731) (Bhs.), 734 (Bh.),
-<div n="lb">737 (Bh.), (744) (Bhs.), 746 (Bh.), 754 (Bh.), 758 (Bh.), 761
-<div n="lb">(Bh.), 762 (Bh.), 763 (Bh.), 766 (Bh.), 767 (Bh.), 770 (Bh.),
-<div n="lb">780 (Bhs.), 782 (Bh.); {@23,@} 795 (Bhs.), 807 (Bh.), 810 (Bhs.),
-<div n="lb">812 (Bh.), 820 (Bhs.), 821 (Bh.); {@24,@} 839 (Bhs.), 842 (Bhs.),
-<div n="lb">(844) (Bh.).—§ 552 (Goharaṇap.): IV, {@31,@} 1024 (Bh.);
-<div n="lb">{@33,@} 1077 (Bhs.), 1079 (Bhs.), 1080 (Bhs.), 1084 (Bh.), 1085
-<div n="lb">(Bh.), 1086 (Bh.), 1088 (Bhs.), 1089 (Bh.), 1092 (Bhs.),
-<div n="lb">1093 (Bhs.), 1099 (Bh.), 1109 (Bh.), 1111 (Bh.), 1112 (Bh.),
-<div n="lb">1113 (Bhs.), 1115 (Bh.), 1119 (Bh.), 1123 (Bh.), 1124 (Bh.);
-<div n="lb">{@40,@} 1307 (Bh.), 1311 (Bh.); {@43,@} 1351 (Bhs.), 1357
-<div n="lb">(Bh.), 1363 (Bhs.); {@44,@} 1368 (Bhs.), 1371 (Bhs.); {@50,@}
-<div n="lb">1565 (Bh.).—§ 553 (Vaivāhikap.): IV, {@71,@} 2289 (Bh.),
-<div n="lb">2291 (Bh.), 2297 {%(Bhīmāă1 avarajaḥ…Arjunaḥ),%} 2313
-<div n="lb">(Bhs.), 2319 (Bh.).—§ 554 (Sainyodyog.): V, {@1,@} †5 (Bh.);
-<div n="lb">{@3,@} 56 (Bh.).—§ 555 (do.): V, {@8,@} 199 (Bh.); {@18,@} 561 (Bh.).
-<div n="lb">§ 556 (Sañjayayānap.): V, {@20,@} 619 (Bhs.); {@22,@} †658 (Bh.),
-<div n="lb">†678 (Bh.); {@23,@} †688 (Bh.), 707 (Bhs.), 710 (Bhs.), 711
-<div n="lb">(Bhs.); {@24,@} †717 (Bhs.); {@26,@} †762 (Bhs.), †763 (Bhs.);
-<div n="lb">{@29,@} †827 (Bhs), †858 (Bh.), †859 (Bhs.), †861 (Bhs.,
-<div n="lb">{%gadāhastaḥ%}); {@30,@} †868 (Bhs.).—§ 561 (Yānasandhip.): V,
-<div n="lb">{@48,@} †1816 (Bhs.), †1824 (Bhs.), †1825 (Bhs.), †1826 (Bhs.),
-<div n="lb">†1831 (Bhs.); {@49,@} †1959 (Bh.); {@50,@} 1986 (Bhs.); {@51,@} 2018
-<div n="lb">(Bh.), 2019 (Bhs.), 2026 (Bh.), 2029 (Bh.), 2030 (Bh.),
-<div n="lb">2031 (Bh.), 2032 (Bhs.), 2037 (Bhs.), 2040 (Bh.), 2043
-<div n="lb">{%(Bhīmasenamayaṃ),%} 2053 (Bhs.); {@53,@} 2111 (Bhs.); {@54,@}
-<div n="lb">2135 (Bh.); {@55,@} 2176 (Bh.), 2178 (Bh.), 2203 (Bhs.); {@56,@}
-<div n="lb">2215 (Bhs.).—§ 561{%h%} (Arjuna): V, {@56,@} 2222 (Bhs.).—
-<div n="lb">§ 561{%j%} (Yanas.): to Bhīmasena's chariot are yoked coursers
-<div n="lb">endued with the speed of the wind and the splendour
-<div n="lb">of the stars {%(ṛkṣaprakhyāḥ):%} V, {@56,@} †2228 (Bhs.).—
-<div n="lb">§ 561 (do.): V, {@57,@} 2245 (Bhs.), 2257 (Bh.); {@58,@} 2317
-<div n="lb">(Bhs.), 2318 (Bh.), 2319 (Bh.), 2320 (Bhs.), 2321 (Bhs.),
-<div n="lb">2322 (Bhs.); {@62,@} †2425 (Bhs.); {@65,@} 2485 (Bhs.); {@69,@} 2548
-<div n="lb">(Bhs.); {@74,@} (2717) (Bhs.).—§ 562 (Bhagavadyānap.): V, {@75,@}
-<div n="lb">2740 (Bh.), 2742 (Bh.), 2743 (Bhs.), 2745 (Bh.), 2747 (Bh.),
-<div n="lb">2750 (Bh.), 2754 (Bh.), 2760 (Bhs.); {@76,@} 2766 (Bhs.); {@77,@}
+§ 519 (Vrīhidrauṇikap.): III, {@259@}, 15375 (Bh.).—§ 521
+(Draupadīhar.): III, {@263@}, 15546 (Bhs.; B. {%Sahadevaṃ%}),
+15547 (Bhs.; B. {%Sahadevaḥ%}), 15557 (Bhs.; B. {%Sahadevaḥ%}).—
+§ 522 (do.): III, {@266@}, †15607 (Bhs.), †15608 (Bhs.); {@268@},
+†15644 (Bhs.), †15658 (Bh.); {@269@}, †15673 (Bh.), †15691
+(Bh.); {@270@}, 15695 (Bhs.), †15704 (Bh.); {@271@}, 15717 (Bh.),
+15719 (Bh.), 15721 (Bh.), 15722 (Bh.), 15738 (Bhs.), 15739
+(Bh.), 15741 (Bh.), 15751 (Bh.), 15754 (Bhs.), 15759 (Bh.),
+15767 (Bhs.), 15770 (Bh.), 15775 (Bh.).—§ 523 (Jaya-
+drathavim.): III, {@272@}, 15778 (Bhs.), 15779 (Bh.), 15781
+(Bh.), 15782 (Bhs.), (15783) (Bh.), 15788 (Bh.), 15790
+(Bh.), 15791 (Bh.), 15792 (Bh.).—§ 544 (Yudhiṣṭhirāśvāsa):
+III, {@292@}, 16607 (Bh.).—§ 547 (Kuṇḍalāhar.): III, {@310@},
+17205 (Bhs.).—§ 548 (Āraṇeyap.): III, {@312@}, (17243) (Bh.),
+17274 (Bhs.), 17276 (Bhs.), 17277 (Bh.), 17281 (Bh.); {@313@},
+17289 (Bhs.); 17299 (Bhs.), 17409 (Bhs.), 17410 (Bh.),
+17411 (Bhs.); {@315@}, 17470 (Bhs.), 17474 (Bhs.).—§ 549
+(Pāṇḍavaprav.): IV, {@2@}, (28) (Bhs.); {@5@}, 162 (Bhs.), 164 (Bhs.);
+{@8@}, (†239) (Bh.), †243 (Bh.).—§ 550 (Samayapālanap.): IV,
+{@13@}, 331 (Bhs.), 344 (Bh.), 359 (Bh.).—§ 551 (Kīcakava-
+dhap.): IV, {@16@}, 464 (Bhs.), 465 (Bh.), 468 (Bh.), 469 (Bhs.);
+{@17@}, 506 (Bh.), †508 (Bhs.), 510 (Bh.), 511 (Bh.), 515 (Bhs.),
+516 (Bhs.); {@18@}, 556 (Bh.); {@19@}, 569 (Bh.), 576 (Bh.), 580
+(C. {%Bhīmā%}), 581 (Bhs.), 589 (Bhs.); {@20@}, 609 (Bhs.), 619
+(Bh.), 636 (Bhs.), 637 (Bhs.); {@21@}, 659 (Bh.), 660 (Bhs.),
+661 (Bh.), 663 (Bh.), 685 (Bhs.), 689 (Bhs.), 690 (Bh.),
+693 (Bh.); {@22@}, 717 (Bh.), (724) (Bhs.), (731) (Bhs.), 734 (Bh.),
+737 (Bh.), (744) (Bhs.), 746 (Bh.), 754 (Bh.), 758 (Bh.), 761
+(Bh.), 762 (Bh.), 763 (Bh.), 766 (Bh.), 767 (Bh.), 770 (Bh.),
+780 (Bhs.), 782 (Bh.); {@23@}, 795 (Bhs.), 807 (Bh.), 810 (Bhs.),
+812 (Bh.), 820 (Bhs.), 821 (Bh.); {@24@}, 839 (Bhs.), 842 (Bhs.),
+(844) (Bh.).—§ 552 (Goharaṇap.): IV, {@31@}, 1024 (Bh.);
+{@33@}, 1077 (Bhs.), 1079 (Bhs.), 1080 (Bhs.), 1084 (Bh.), 1085
+(Bh.), 1086 (Bh.), 1088 (Bhs.), 1089 (Bh.), 1092 (Bhs.),
+1093 (Bhs.), 1099 (Bh.), 1109 (Bh.), 1111 (Bh.), 1112 (Bh.),
+1113 (Bhs.), 1115 (Bh.), 1119 (Bh.), 1123 (Bh.), 1124 (Bh.);
+{@40@}, 1307 (Bh.), 1311 (Bh.); {@43@}, 1351 (Bhs.), 1357
+(Bh.), 1363 (Bhs.); {@44@}, 1368 (Bhs.), 1371 (Bhs.); {@50@},
+1565 (Bh.).—§ 553 (Vaivāhikap.): IV, {@71@}, 2289 (Bh.),
+2291 (Bh.), 2297 ({%Bhīmāă1 avarajaḥ…Arjunaḥ%}), 2313
+(Bhs.), 2319 (Bh.).—§ 554 (Sainyodyog.): V, {@1@}, †5 (Bh.);
+{@3@}, 56 (Bh.).—§ 555 (do.): V, {@8@}, 199 (Bh.); {@18@}, 561 (Bh.).
+§ 556 (Sañjayayānap.): V, {@20@}, 619 (Bhs.); {@22@}, †658 (Bh.),
+†678 (Bh.); {@23@}, †688 (Bh.), 707 (Bhs.), 710 (Bhs.), 711
+(Bhs.); {@24@}, †717 (Bhs.); {@26@}, †762 (Bhs.), †763 (Bhs.);
+{@29@}, †827 (Bhs), †858 (Bh.), †859 (Bhs.), †861 (Bhs.,
+{%gadāhastaḥ%}); {@30@}, †868 (Bhs.).—§ 561 (Yānasandhip.): V,
+{@48@}, †1816 (Bhs.), †1824 (Bhs.), †1825 (Bhs.), †1826 (Bhs.),
+†1831 (Bhs.); {@49@}, †1959 (Bh.); {@50@}, 1986 (Bhs.); {@51@}, 2018
+(Bh.), 2019 (Bhs.), 2026 (Bh.), 2029 (Bh.), 2030 (Bh.),
+2031 (Bh.), 2032 (Bhs.), 2037 (Bhs.), 2040 (Bh.), 2043
+({%Bhīmasenamayaṃ%}), 2053 (Bhs.); {@53@}, 2111 (Bhs.); {@54@},
+2135 (Bh.); {@55@}, 2176 (Bh.), 2178 (Bh.), 2203 (Bhs.); {@56@},
+2215 (Bhs.).—§ 561{%h%} (Arjuna): V, {@56@}, 2222 (Bhs.).—
+§ 561{%j%} (Yanas.): to Bhīmasena's chariot are yoked coursers
+endued with the speed of the wind and the splendour
+of the stars ({%ṛkṣaprakhyāḥ%}): V, {@56@}, †2228 (Bhs.).—
+§ 561 (do.): V, {@57@}, 2245 (Bhs.), 2257 (Bh.); {@58@}, 2317
+(Bhs.), 2318 (Bh.), 2319 (Bh.), 2320 (Bhs.), 2321 (Bhs.),
+2322 (Bhs.); {@62@}, †2425 (Bhs.); {@65@}, 2485 (Bhs.); {@69@}, 2548
+(Bhs.); {@74@}, (2717) (Bhs.).—§ 562 (Bhagavadyānap.): V, {@75@},
+2740 (Bh.), 2742 (Bh.), 2743 (Bhs.), 2745 (Bh.), 2747 (Bh.),
+2750 (Bh.), 2754 (Bh.), 2760 (Bhs.); {@76@}, 2766 (Bhs.); {@77@},
 [Page129-b+ 63]
-<div n="lb">2785 (Bh.), 2794 (Bhs.), 2799 (Bhs.); {@80,@} 2845 (Bhs.),
-<div n="lb">2855 (Bhs.); {@81,@} 2865 (Bh.); {@82,@} 2873 (Bhs.), 2901 (Bhs.),
-<div n="lb">2907 (Bh.), 2911 (Bh.), 2916 (Bh.); {@83,@} 2949 (Bhs.); {@90,@}
-<div n="lb">3150 (Bh.), 3154 (Bh.), 3154 (Bhs.), 3177 (Bhs.), 3210 (Bh.),
-<div n="lb">3212 (Bhs.), 3213 (Bh.), 3219 (Bh.); {@95,@} 3403 (Bhs.).—
-<div n="lb">§ 564 (Mātalīyopākhy.): V, {@105,@} 3707 (Bh.).—§ 567
-<div n="lb">(Bhagavadyānap.): V, {@124,@} 4169 (Bhs.); {@126,@} 4217 (Bhs.),
-<div n="lb">4218 (Bhs.); {@129<lang n="greek"></lang>,@} 4358 (Bhs.); {@131,@} 4426 (Bh.).—§ 569
-<div n="lb">(do.): V, {@137,@} 4646 (Bhs.), 4654 (Bh.), 4665 (Bh.); {@138,@}
-<div n="lb">4680 (Bh.), 4689 {%(Bhīmapūrvajaḥ Yudhiṣṭhiraḥ),%} 4690 (Bh.),
-<div n="lb">4702 (Bh.), 4745 (Bhs.); {@141,@} 4778 (Bh.), 4781 (Bhs.),
-<div n="lb">4788 (Bh.), 4804 (Bhs.); {@142,@} 4822 (Bhs.); {@144,@} 4887
-<div n="lb">(Bh.); {@146,@} 4949 (Bh.).—§ 570 (Sainyaniryānap.): V, {@151,@}
-<div n="lb">5101 (Bhs.), (5126) (Bhs.), 5143 (Bhs.); <lang n="greek"></lang>, 5152 (Bhs.), 5153
-<div n="lb">(Bhs.); {@153,@} 5197 (Bhs.), 5198 (Bhs.); {@154,@} 5232 (Bh.),
-<div n="lb">5234 (Bhs.); {@157,@} 5318 (Bhs.), 5347 (Bhs.).—§ 571
-<div n="lb">(Ulūkadūt.): V, {@160,@} 5471 {%(Bhīmasenakaṃ),%} 5519 (Bhs.),
-<div n="lb">5522 (Bhs.); {@161,@} 5544 (Bhs.), 5563 (Bhs.), 5564 (Bhs.,
-<div n="lb">{%sagadād%}), 5568 (Bhs.); {@162,@} 5581 (Bhs.), 5592 (Bhs.), 5608
-<div n="lb">(Bhs.), 5614 (Bh.), 5615 (Bhs.), 5617 (Bh.), 5641 (Bhs.),
-<div n="lb">5642 (Bhs.); {@163,@} 5657 (Bhs.), 5664 (Bhs.), 5672 (Bhs.),
-<div n="lb">5696 (Bh.); {@164,@} 5704 (Bhs.), 5706 (Bh.).—§ 572
-<div n="lb">(Rathātirathas.): V, {@166,@} 5759 (Bhīmasenānuja, i.e. Arjuna);
-<div n="lb">{@169,@} 5853 (Bhs.); {@171,@} 5913 (Bhs.); {@172,@} 5922 (Bhs.).—
-<div n="lb">§ 573 (Ambopākhy.): V, {@193,@} 7560 (Bh.); {@194,@} 7598
-<div n="lb">(Bhs.); {@196,@} 7630 (Bh.), 7637 (Bhs.).—§ 576 (Bhaga-
-<div n="lb">vadgītāp.): VI, {@19,@} 702 (Bh.), 705 (Bh.), 709 (Bhs.), 711
-<div n="lb">(Bh.), 715 (Bhs.), 717 (Bhs.), 724 (Bhs.), 727 (Bhs.), 740
-<div n="lb">(Bhs.); {@20,@} 741 {%(Bhīmanetrāḥ);%} {@22,@} 779 (Bhs.), 788 (Bhs.);
-<div n="lb">{@25<lang n="greek"></lang>,@} 833 (Bh.), 839 (Bh.).—§ 577 (Bhīṣmavadhap.): VI,
-<div n="lb">{@43@} (1544) (Bhs.), 1560 (Bh.).—§ 578 (do.): VI, {@44,@} 1640
-<div n="lb">(Bhs.), 1645 (Bhs.), 1647 (Bhs.), 1660 (Bh.); {@45<sup>4</sup>,@} 1688
-<div n="lb">(Bhs.); {@47,@} 1833 (Bh.), 1837 (Bh.), 1839 (Bhs.), 1840 (Bhs.),
-<div n="lb">1865 (Bhs.).—§ 578{%d%} (do.): VI, {@47:@} {%Bh.'s%} standard was
-<div n="lb">made of gold and showed the device of a lion.—§ 578 (do.):
-<div n="lb">VI, {@48<sup>36</sup><lang n="greek"></lang>,@} 1962 (Bhs.), 1968 (Bhs.), 1969 (Bhs.); {@49,@}
-<div n="lb">1994 (Bh.); {@50,@} 2049 (Bh.), 2067 (Bh.); <lang n="greek"></lang>, 2082 (Bhs.;
-<div n="lb">{%Bh.%} and Dhṛṣṭadyumna were the wings of the Krauñcāruṇa
-<div n="lb">vyūha); {@51,@} 2096 (Bh.); {@52<sup>1</sup><lang n="greek"></lang>,@} 2128 (Bhs.).—§ 579 (do.):
-<div n="lb">VI, {@53<sup>5</sup> f.,@} 2228 (Bhīma attacks Droṇa), 2231. (Bh.), 2234
-<div n="lb">(Bh.); {@54<sup>9</sup> f.,@} 2237 (Bh.), 2239 (Bhs.), 2240 (Bh.), 2243
-<div n="lb">(Bhs.), 2250 (Bhs.), 2251 (Bhs.), 2253 (Bh.), 2255 (Bhs.),
-<div n="lb">2256 (Bh.), 2257 (Bhs.), 2260 (Bh.), 2263 (Bhs.), 2264
-<div n="lb">(Bhs.), 2265 (Bhs.), 2267 (Bh.); {@54,@} 2268 (Bh.), 2269
-<div n="lb">(Bh.), 2271 (Bh.), 2278 (Bh.), 2283 (Bhs.), 2300 (Bhs.),
-<div n="lb">2301 (Bhs.), 2302 (Bhs.), 2303 (Bhs.), 2304 (Bh.), 2305
-<div n="lb">(Bh.), 2307 (Bh.), 2311 (Bhs.), 2314 (Bh.), 2316 (Bh.), 2318
-<div n="lb">(Bh.), 2320 (Bhs.), 2322 (Bhs.), 2323 (Bh.), 2327 (Bhs.),
-<div n="lb">2328 (Bh.), 2329 (Bhs.), 2331 (Bhs.), 2332 (Bhs.), 2336
-<div n="lb">(Bh.), 2337 (Bhs.), 2338 (Bhs.), 2339 (Bh.), 2340 (Bhs.),
-<div n="lb">2343 (Bh.), 2344 (Bhs.), 2346 (Bhs.), 2348 (Bh.), 2350
-<div n="lb">(Bhs.), 2355 (Bhs.), 2358 (Bh.).—§ 580 (do.): VI, {@56<sup>2</sup>,@} 2413
-<div n="lb">(Bhīmasena on the right horn of Arjuna's and Dhṛṣṭa-
-<div n="lb">dyumna's array after the form of a half-moon); {@57,@} 2433
-<div n="lb">(Bh.); <lang n="greek"></lang>, 2454 (Bhs.); {@58<sup>10</sup> f.,@} 2475 (Bhs. vanquishes
-<div n="lb">Duryodhana), 2477 (Bhs.), 2480 (Bh.); {@59,@} †2595 (Bh.).—
-<div n="lb">§ 581 (do.): VI, {@62<lang n="greek"></lang>,@} 2733 (Bh.); do.<sup>6</sup>, 2747 (Bhs. attacks
-<div n="lb">Dury.), 2748 (Bhs.), 2750 (Bhs.), 2753 (Bhs.), 2754 (Bh.),
-<div n="lb">2756 (Bh.), 2764 (Bhs.), 2765 (Bhs.), 2769 (Bh.), 2770
-<div n="lb">(Bhs.), 2773 (Bhs.), 2774 (Bhs.), 2777 (Bh.), 2779 (Bh.);
-<div n="lb">{@63<sup>7</sup>,@} 2780 (Bhs.), 2781 (Bhs.), 2784 (Bhs.), 2785 (Bhs.),
-<div n="lb">2786 (Bhs.), 2787 (Bh.), 2789 (Bhs.), 2791 (Bh.), 2795
-<div n="lb">(Bhs.), 2798 (Bhs.), 2805 (Bhs.); {@64<sup>12</sup>,@} 2817 (Bhs.), 2818
+2785 (Bh.), 2794 (Bhs.), 2799 (Bhs.); {@80@}, 2845 (Bhs.),
+2855 (Bhs.); {@81@}, 2865 (Bh.); {@82@}, 2873 (Bhs.), 2901 (Bhs.),
+2907 (Bh.), 2911 (Bh.), 2916 (Bh.); {@83@}, 2949 (Bhs.); {@90@},
+3150 (Bh.), 3154 (Bh.), 3154 (Bhs.), 3177 (Bhs.), 3210 (Bh.),
+3212 (Bhs.), 3213 (Bh.), 3219 (Bh.); {@95@}, 3403 (Bhs.).—
+§ 564 (Mātalīyopākhy.): V, {@105@}, 3707 (Bh.).—§ 567
+(Bhagavadyānap.): V, {@124@}, 4169 (Bhs.); {@126@}, 4217 (Bhs.),
+4218 (Bhs.); {@129@}<lang n="greek">μ</lang>, 4358 (Bhs.); {@131@}, 4426 (Bh.).—§ 569
+(do.): V, {@137@}, 4646 (Bhs.), 4654 (Bh.), 4665 (Bh.); {@138@},
+4680 (Bh.), 4689 ({%Bhīmapūrvajaḥ Yudhiṣṭhiraḥ%}), 4690 (Bh.),
+4702 (Bh.), 4745 (Bhs.); {@141@}, 4778 (Bh.), 4781 (Bhs.),
+4788 (Bh.), 4804 (Bhs.); {@142@}, 4822 (Bhs.); {@144@}, 4887
+(Bh.); {@146@}, 4949 (Bh.).—§ 570 (Sainyaniryānap.): V, {@151@},
+5101 (Bhs.), (5126) (Bhs.), 5143 (Bhs.); <lang n="greek">ν</lang>, 5152 (Bhs.), 5153
+(Bhs.); {@153@}, 5197 (Bhs.), 5198 (Bhs.); {@154@}, 5232 (Bh.),
+5234 (Bhs.); {@157@}, 5318 (Bhs.), 5347 (Bhs.).—§ 571
+(Ulūkadūt.): V, {@160@}, 5471 ({%Bhīmasenakaṃ%}), 5519 (Bhs.),
+5522 (Bhs.); {@161@}, 5544 (Bhs.), 5563 (Bhs.), 5564 (Bhs.,
+{%sagadād%}), 5568 (Bhs.); {@162@}, 5581 (Bhs.), 5592 (Bhs.), 5608
+(Bhs.), 5614 (Bh.), 5615 (Bhs.), 5617 (Bh.), 5641 (Bhs.),
+5642 (Bhs.); {@163@}, 5657 (Bhs.), 5664 (Bhs.), 5672 (Bhs.),
+5696 (Bh.); {@164@}, 5704 (Bhs.), 5706 (Bh.).—§ 572
+(Rathātirathas.): V, {@166@}, 5759 (Bhīmasenānuja, i.e. Arjuna);
+{@169@}, 5853 (Bhs.); {@171@}, 5913 (Bhs.); {@172@}, 5922 (Bhs.).—
+§ 573 (Ambopākhy.): V, {@193@}, 7560 (Bh.); {@194@}, 7598
+(Bhs.); {@196@}, 7630 (Bh.), 7637 (Bhs.).—§ 576 (Bhaga-
+vadgītāp.): VI, {@19@}, 702 (Bh.), 705 (Bh.), 709 (Bhs.), 711
+(Bh.), 715 (Bhs.), 717 (Bhs.), 724 (Bhs.), 727 (Bhs.), 740
+(Bhs.); {@20@}, 741 ({%Bhīmanetrāḥ%}); {@22@}, 779 (Bhs.), 788 (Bhs.);
+{@25@}<lang n="greek">θ</lang>, 833 (Bh.), 839 (Bh.).—§ 577 (Bhīṣmavadhap.): VI,
+{@43@} (1544) (Bhs.), 1560 (Bh.).—§ 578 (do.): VI, {@44@}, 1640
+(Bhs.), 1645 (Bhs.), 1647 (Bhs.), 1660 (Bh.); {@45<sup>4</sup>@}, 1688
+(Bhs.); {@47@}, 1833 (Bh.), 1837 (Bh.), 1839 (Bhs.), 1840 (Bhs.),
+1865 (Bhs.).—§ 578{%d%} (do.): VI, {@47@}: {%Bh.'s%} standard was
+made of gold and showed the device of a lion.—§ 578 (do.):
+VI, {@48<sup>36</sup><lang n="greek">χ</lang>@}, 1962 (Bhs.), 1968 (Bhs.), 1969 (Bhs.); {@49@},
+1994 (Bh.); {@50@}, 2049 (Bh.), 2067 (Bh.); <lang n="greek">π</lang>, 2082 (Bhs.;
+{%Bh%}. and Dhṛṣṭadyumna were the wings of the Krauñcāruṇa
+vyūha); {@51@}, 2096 (Bh.); {@52<sup>1</sup><lang n="greek">α</lang>@}, 2128 (Bhs.).—§ 579 (do.):
+VI, {@53<sup>5</sup> f.@}, 2228 (Bhīma attacks Droṇa), 2231. (Bh.), 2234
+(Bh.); {@54<sup>9</sup> f.@}, 2237 (Bh.), 2239 (Bhs.), 2240 (Bh.), 2243
+(Bhs.), 2250 (Bhs.), 2251 (Bhs.), 2253 (Bh.), 2255 (Bhs.),
+2256 (Bh.), 2257 (Bhs.), 2260 (Bh.), 2263 (Bhs.), 2264
+(Bhs.), 2265 (Bhs.), 2267 (Bh.); {@54@}, 2268 (Bh.), 2269
+(Bh.), 2271 (Bh.), 2278 (Bh.), 2283 (Bhs.), 2300 (Bhs.),
+2301 (Bhs.), 2302 (Bhs.), 2303 (Bhs.), 2304 (Bh.), 2305
+(Bh.), 2307 (Bh.), 2311 (Bhs.), 2314 (Bh.), 2316 (Bh.), 2318
+(Bh.), 2320 (Bhs.), 2322 (Bhs.), 2323 (Bh.), 2327 (Bhs.),
+2328 (Bh.), 2329 (Bhs.), 2331 (Bhs.), 2332 (Bhs.), 2336
+(Bh.), 2337 (Bhs.), 2338 (Bhs.), 2339 (Bh.), 2340 (Bhs.),
+2343 (Bh.), 2344 (Bhs.), 2346 (Bhs.), 2348 (Bh.), 2350
+(Bhs.), 2355 (Bhs.), 2358 (Bh.).—§ 580 (do.): VI, {@56<sup>2</sup>@}, 2413
+(Bhīmasena on the right horn of Arjuna's and Dhṛṣṭa-
+dyumna's array after the form of a half-moon); {@57@}, 2433
+(Bh.); <lang n="greek">χ</lang>, 2454 (Bhs.); {@58<sup>10</sup> f.@}, 2475 (Bhs. vanquishes
+Duryodhana), 2477 (Bhs.), 2480 (Bh.); {@59@}, †2595 (Bh.).—
+§ 581 (do.): VI, {@62@}<lang n="greek">η</lang>, 2733 (Bh.); do.<sup>6</sup>, 2747 (Bhs. attacks
+Dury.), 2748 (Bhs.), 2750 (Bhs.), 2753 (Bhs.), 2754 (Bh.),
+2756 (Bh.), 2764 (Bhs.), 2765 (Bhs.), 2769 (Bh.), 2770
+(Bhs.), 2773 (Bhs.), 2774 (Bhs.), 2777 (Bh.), 2779 (Bh.);
+{@63<sup>7</sup>@}, 2780 (Bhs.), 2781 (Bhs.), 2784 (Bhs.), 2785 (Bhs.),
+2786 (Bhs.), 2787 (Bh.), 2789 (Bhs.), 2791 (Bh.), 2795
+(Bhs.), 2798 (Bhs.), 2805 (Bhs.); {@64<sup>12</sup>@}, 2817 (Bhs.), 2818
 [Page130-a+ 63]
-<div n="lb">(Bhs.), 2819 (Bhs.), 2820 (Bh.), 2825 (Bh.), 2826 (Bh.),
-<div n="lb">2827 (Bh.), 2831 (Bhs.), 2833 (Bh.), 2835 (Bhs.), 2837
-<div n="lb">(Bh.), 2839 (Bhs.), 2840 (Bhs.), 2845 (Bhs.), 2846 (Bh.),
-<div n="lb">2847 (Bhs.), 2848 (Bh.), 2849 (Bh.), 2851 (Bhs.), 2852 (Bh.),
-<div n="lb">2853 (Bhs.), 2854 (Bhs.), 2860 (Bhs.), 2862 (Bhs.), 2863
-<div n="lb">(Bh.), 2892 (Bhs.); {@65,@} 2907 (Bh.).—§ 582 (do.); {@69<lang n="greek"></lang>,@}
-<div n="lb">3063 (Bhs. in the beak of the Śyena array), 3068<sup>1</sup> (Bh.
-<div n="lb">attacks Bhīṣma), 3079 (Bhs.), 3080 (Bhs.); {@70,@} 3090
-<div n="lb">(Bhs.), 3110 (Bh.); {@71<lang n="greek"></lang>,@} 3138 (Bhs. fights with Bhīṣma,
-<div n="lb">etc.); {@72,@} 3165 (Bhs.), 3182 (Bhs.), 3183 (Bh.), 3186
-<div n="lb">(Bhs.); {@73,@} 3213 (Bhs.), 3217 (Bhs.), 3218 (Bh.); {@74,@} 3267
-<div n="lb">(Bhs.).—§ 583 (do.): VI, {@75,@} 3283 (Bhs.); <lang n="greek"></lang>, 3303 (Bhs.),
-<div n="lb">3305 (Bhs.), 3306 (Bh.), 3307 (Bh.), 3310 (Bh.); {@77<sup>3</sup><lang n="greek"></lang>,@}
-<div n="lb">3342 (Bhs.), 3351 (Bhs.), 3353 (Bhs.), 3354 (Bhs.), 3356
-<div n="lb">(Bh.), 3363 (Bhs.), 3364 (Bh.), 3366 (Bh.), 3368 (Bhs.),
-<div n="lb">3369 (Bh.), 3371 (Bhs.), 3373 (Bhs.), 3374 (Bhs.), †3375
-<div n="lb">(Bhs.), †3376 (Bhs.), 3388 (Bh.), 3390 (Bh.), 3391 (Bh.),
-<div n="lb">3396 (Bhs.), 3408 (Bhs.); {@78<sup>10</sup> f.,@} 3413 (Bh.), 3414 (Bh.),
-<div n="lb">3417 (Bhs.), 3422 (Bhs.), 3426 (Bhs.), 3428 (Bh.), 3430
-<div n="lb">(Bhs.); {@79,@} 3450 (Bh.), 3451 (Bhs.), 3465 (Bh.), 3468
-<div n="lb">(Bhs.), 3469 (Bh.); {@80,@} †3516 (Bh.).—§ 584 (do.): VI, {@81,@}
-<div n="lb">3558 (Bhs.), 3563 (Bh.); {@82,@} 3632 (Bh.), 3634 (Bh.), 3638
-<div n="lb">(Bhs.); {@84,@} 3737 (Bh.); {@85,@} †3764 (Bhs.), †3767 (Bhs.),
-<div n="lb">†3782 (Bhs.), †3785 (Bhs.); {@86,@} 3836 (Bhs.).—§ 585 (do.):
-<div n="lb">VI, {@87,@} 3864 (Bhs.); {@88,@} 3894 (Bhs.), 3895 (Bh.), 3898
-<div n="lb">(Bh.), 3903 (Bh.), 3905 (Bhs.), 3906 (Bh.), 3908 (Bh. slays
-<div n="lb">Aparājita), 3915 (Bh.), 3917 (Bh.), 3923 (Bhs.), 3928 (Bh.),
-<div n="lb">{@89,@} 3938 (Bhs.), 3950 (Bhs.), 3956 (Bhs.), 3959 (Bh.); {@91,@}
-<div n="lb">4019 (Bhs.), 4057 (Bhs.); {@93,@} 4145 (Bhs.), 4156 (Bhs.);
-<div n="lb">{@94,@} 4182 (Bhs.), 4184 (Bhs.), 4186 (Bhs.), 4187 (Bhs.),
-<div n="lb">4192 (Bhs.), 4197 (Bh.), 4197 (Bhs.), 4201 (Bhs.), 4202
-<div n="lb">(Bhs.), 4205 (Bhs.), 4207 (Bh.), 4207 (Bhs.), 4210 (Bh.);
-<div n="lb">{@95,@} 4237 (Bhs.), 4243 (Bhs.); <lang n="greek"></lang>, 4254 (Bhs.), 4263 (Bhs.),
-<div n="lb">4266 (Bh.), 4267 (Bhs.), 4268 (Bhs.), 4269 (Bhs.), 4270
-<div n="lb">(Bhs.), 4282 (Bh.), 4304 (Bhs.).—§ 585{%b%} (Bhīṣmav.): VI,
-<div n="lb">{@95,@} 4307 (Bhīma's standard showed the device of a lion).—
-<div n="lb">§ 585 (do.): VI, {@95,@} 4310 (Bhs.), 4313 (Bh.), 4316 (Bhs.),
-<div n="lb">4322 (Bhs.); {@96,@} 4338 (Bhs.), 4342 (Bhs.), 4345 (Bh.),
-<div n="lb">4348 (Bhs.), 4351 (Bhs.), 4354 (Bh.).—§ 586 (do.): VI, {@99,@}
-<div n="lb">4508 (Bhs.), 4515 (Bhs.); {@101,@} 4586 (Bh.), 4589 (Bhs.);
-<div n="lb">{@102,@} 4668 (Bh.), 4671 (Bh.), 4673 (Bhs.), 4675 (Bhs.);
-<div n="lb">{@103<lang n="greek"></lang>,@} 4694 (Bh.); {@104,@} 4746 (Bhs.), 4753 (Bhs.); {@105,@}
-<div n="lb">4799 (Bh.); {@106<lang n="greek"></lang>,@} 4803 (Bh.), 4805 (Bhs.), 4806 (Bhs.);
-<div n="lb">{@107<lang n="greek"></lang>,@} 4912 (Bhs.), 4945 (Bh.).—§ 587 (do.): VI, {@108,@}
-<div n="lb">4998 (Bhs.), 5012 (Bh.); {@109,@} 5073 (Bh.); {@110<lang n="greek"></lang>,@} 5103
-<div n="lb">(Bhs.), 5184 (Bh.); {@111,@} 5183 (Bhs.), 5187 (Bh.); {@112<lang n="greek"></lang>,@}
-<div n="lb">5228 (Bhs.); {@113,@} 5241 (Bhs.), 5242 (Bhs.), 5250 (Bh.),
-<div n="lb">5251 (Bh.), 5252 (Bhs.), 5255 (Bhs.), 5259 (Bhs.), 5260
-<div n="lb">(Bh.), 5262 (Bh.), 5264 (Bhs.), 5267 (Bhs.), 5272 (Bh.),
-<div n="lb">5275 (Bh.), 5279 (Bhs.), 5281 (Bhs.), 5282 (Bh.), 5284
-<div n="lb">(Bh.), 5286 (Bh.), 5287 (Bhs.), 5289 (Bh.); {@114,@} 5295 (Bh.),
-<div n="lb">5298 (Bhs.), 5300 (Bhs.), 5308 (Bh.), 5310 (Bh.), 5316
-<div n="lb">(Bhs.), 5318 (Bhs.), 5319 (Bh.), 5320 (Bh.), 5322 (Bhs.),
-<div n="lb">5323 (Bh.), 5325 (Bhs.); {@115,@} 5353 (Bhs.), 5363 (Bhs.);
-<div n="lb">{@116,@} 5412 (Bhs.); {@118,@} 5553 (Bhs.); {@119<lang n="greek"></lang>,@} 5577 (Bh.);
-<lang n="greek"></lang>, 5587 (Bhs.), 5684 (Bhs.); {@120,@} 5708 (Bhs.).—§ 588
-<div n="lb">(do.): VI, {@121,@} †5798 (Bh.), 5809 (Bhs.).—§ 589 (Droṇā-
-<div n="lb">bhiṣekap.): VII, {@2<lang n="greek"></lang>,@} †82 (Bhs.); {@8,@} 227 (Bhs.), †248
-<div n="lb">(Bhs.); <lang n="greek"></lang>, †251 (Bh.); {@10,@} 319 (Bhs.).—§ 590 (do.): VII,
-<div n="lb">{@14,@} 521 (Bhs.), 522 (Bh.), 524 (Bhs.); <lang n="greek"></lang>, 577 (Bh.); {@15,@}
-<div n="lb">586 (Bh.), 587 (Bh.), 589 (Bh.), 592 (Bhs.), 594 ({%paṭṭair%}
-<div n="lb">{%jāmbūnadair baddhā babhūva…viddhā Bhīmena mahatī,%}
-<div n="lb">sc. {%gadā%}). 598 (Bhs.), 599 (Bhs.), 601 (Bhs.), 606 (Bh.),
+(Bhs.), 2819 (Bhs.), 2820 (Bh.), 2825 (Bh.), 2826 (Bh.),
+2827 (Bh.), 2831 (Bhs.), 2833 (Bh.), 2835 (Bhs.), 2837
+(Bh.), 2839 (Bhs.), 2840 (Bhs.), 2845 (Bhs.), 2846 (Bh.),
+2847 (Bhs.), 2848 (Bh.), 2849 (Bh.), 2851 (Bhs.), 2852 (Bh.),
+2853 (Bhs.), 2854 (Bhs.), 2860 (Bhs.), 2862 (Bhs.), 2863
+(Bh.), 2892 (Bhs.); {@65@}, 2907 (Bh.).—§ 582 (do.); {@69@}<lang n="greek">α</lang>,
+3063 (Bhs. in the beak of the Śyena array), 3068<sup>1</sup> (Bh.
+attacks Bhīṣma), 3079 (Bhs.), 3080 (Bhs.); {@70@}, 3090
+(Bhs.), 3110 (Bh.); {@71@}<lang n="greek">δ</lang>, 3138 (Bhs. fights with Bhīṣma,
+etc.); {@72@}, 3165 (Bhs.), 3182 (Bhs.), 3183 (Bh.), 3186
+(Bhs.); {@73@}, 3213 (Bhs.), 3217 (Bhs.), 3218 (Bh.); {@74@}, 3267
+(Bhs.).—§ 583 (do.): VI, {@75@}, 3283 (Bhs.); <lang n="greek">η</lang>, 3303 (Bhs.),
+3305 (Bhs.), 3306 (Bh.), 3307 (Bh.), 3310 (Bh.); {@77<sup>3</sup><lang n="greek">κ</lang>@},
+3342 (Bhs.), 3351 (Bhs.), 3353 (Bhs.), 3354 (Bhs.), 3356
+(Bh.), 3363 (Bhs.), 3364 (Bh.), 3366 (Bh.), 3368 (Bhs.),
+3369 (Bh.), 3371 (Bhs.), 3373 (Bhs.), 3374 (Bhs.), †3375
+(Bhs.), †3376 (Bhs.), 3388 (Bh.), 3390 (Bh.), 3391 (Bh.),
+3396 (Bhs.), 3408 (Bhs.); {@78<sup>10</sup> f.@}, 3413 (Bh.), 3414 (Bh.),
+3417 (Bhs.), 3422 (Bhs.), 3426 (Bhs.), 3428 (Bh.), 3430
+(Bhs.); {@79@}, 3450 (Bh.), 3451 (Bhs.), 3465 (Bh.), 3468
+(Bhs.), 3469 (Bh.); {@80@}, †3516 (Bh.).—§ 584 (do.): VI, {@81@},
+3558 (Bhs.), 3563 (Bh.); {@82@}, 3632 (Bh.), 3634 (Bh.), 3638
+(Bhs.); {@84@}, 3737 (Bh.); {@85@}, †3764 (Bhs.), †3767 (Bhs.),
+†3782 (Bhs.), †3785 (Bhs.); {@86@}, 3836 (Bhs.).—§ 585 (do.):
+VI, {@87@}, 3864 (Bhs.); {@88@}, 3894 (Bhs.), 3895 (Bh.), 3898
+(Bh.), 3903 (Bh.), 3905 (Bhs.), 3906 (Bh.), 3908 (Bh. slays
+Aparājita), 3915 (Bh.), 3917 (Bh.), 3923 (Bhs.), 3928 (Bh.),
+{@89@}, 3938 (Bhs.), 3950 (Bhs.), 3956 (Bhs.), 3959 (Bh.); {@91@},
+4019 (Bhs.), 4057 (Bhs.); {@93@}, 4145 (Bhs.), 4156 (Bhs.);
+{@94@}, 4182 (Bhs.), 4184 (Bhs.), 4186 (Bhs.), 4187 (Bhs.),
+4192 (Bhs.), 4197 (Bh.), 4197 (Bhs.), 4201 (Bhs.), 4202
+(Bhs.), 4205 (Bhs.), 4207 (Bh.), 4207 (Bhs.), 4210 (Bh.);
+{@95@}, 4237 (Bhs.), 4243 (Bhs.); <lang n="greek">δδ</lang>, 4254 (Bhs.), 4263 (Bhs.),
+4266 (Bh.), 4267 (Bhs.), 4268 (Bhs.), 4269 (Bhs.), 4270
+(Bhs.), 4282 (Bh.), 4304 (Bhs.).—§ 585{%b%} (Bhīṣmav.): VI,
+{@95@}, 4307 (Bhīma's standard showed the device of a lion).—
+§ 585 (do.): VI, {@95@}, 4310 (Bhs.), 4313 (Bh.), 4316 (Bhs.),
+4322 (Bhs.); {@96@}, 4338 (Bhs.), 4342 (Bhs.), 4345 (Bh.),
+4348 (Bhs.), 4351 (Bhs.), 4354 (Bh.).—§ 586 (do.): VI, {@99@},
+4508 (Bhs.), 4515 (Bhs.); {@101@}, 4586 (Bh.), 4589 (Bhs.);
+{@102@}, 4668 (Bh.), 4671 (Bh.), 4673 (Bhs.), 4675 (Bhs.);
+{@103@}<lang n="greek">γ</lang>, 4694 (Bh.); {@104@}, 4746 (Bhs.), 4753 (Bhs.); {@105@},
+4799 (Bh.); {@106@}<lang n="greek">δ</lang>, 4803 (Bh.), 4805 (Bhs.), 4806 (Bhs.);
+{@107@}<lang n="greek">χ</lang>, 4912 (Bhs.), 4945 (Bh.).—§ 587 (do.): VI, {@108@},
+4998 (Bhs.), 5012 (Bh.); {@109@}, 5073 (Bh.); {@110@}<lang n="greek">ζ</lang>, 5103
+(Bhs.), 5184 (Bh.); {@111@}, 5183 (Bhs.), 5187 (Bh.); {@112@}<lang n="greek">ζ</lang>,
+5228 (Bhs.); {@113@}, 5241 (Bhs.), 5242 (Bhs.), 5250 (Bh.),
+5251 (Bh.), 5252 (Bhs.), 5255 (Bhs.), 5259 (Bhs.), 5260
+(Bh.), 5262 (Bh.), 5264 (Bhs.), 5267 (Bhs.), 5272 (Bh.),
+5275 (Bh.), 5279 (Bhs.), 5281 (Bhs.), 5282 (Bh.), 5284
+(Bh.), 5286 (Bh.), 5287 (Bhs.), 5289 (Bh.); {@114@}, 5295 (Bh.),
+5298 (Bhs.), 5300 (Bhs.), 5308 (Bh.), 5310 (Bh.), 5316
+(Bhs.), 5318 (Bhs.), 5319 (Bh.), 5320 (Bh.), 5322 (Bhs.),
+5323 (Bh.), 5325 (Bhs.); {@115@}, 5353 (Bhs.), 5363 (Bhs.);
+{@116@}, 5412 (Bhs.); {@118@}, 5553 (Bhs.); {@119@}<lang n="greek">χ</lang>, 5577 (Bh.);
+<lang n="greek">ω</lang>, 5587 (Bhs.), 5684 (Bhs.); {@120@}, 5708 (Bhs.).—§ 588
+(do.): VI, {@121@}, †5798 (Bh.), 5809 (Bhs.).—§ 589 (Droṇā-
+bhiṣekap.): VII, {@2@}<lang n="greek">α</lang>, †82 (Bhs.); {@8@}, 227 (Bhs.), †248
+(Bhs.); <lang n="greek">θ</lang>, †251 (Bh.); {@10@}, 319 (Bhs.).—§ 590 (do.): VII,
+{@14@}, 521 (Bhs.), 522 (Bh.), 524 (Bhs.); <lang n="greek">α</lang>, 577 (Bh.); {@15@},
+586 (Bh.), 587 (Bh.), 589 (Bh.), 592 (Bhs.), 594 ({%paṭṭair%}
+{%jāmbūnadair baddhā babhūva…viddhā Bhīmena mahatī%},
+sc. {%gadā%}). 598 (Bhs.), 599 (Bhs.), 601 (Bhs.), 606 (Bh.),
 [Page130-b+ 63]
-<div n="lb">607 {%(Bhīma-gadā-),%} 614 (Bh.); {@16<lang n="greek"></lang>,@} 633 (Bh.).—§ 592
-<div n="lb">(Saṃśaptakav.): VII, {@22,@} 935 (Bh.), 943 (Bh.); {@23,@} 950
-<div n="lb">(Bh.), 1027 (Bhs.), 1030 (Bhs.); <lang n="greek"></lang>, 1038 (Bhs.); {@25,@} 1070
-<div n="lb">(Bh.), 1071 (Bh.); {@26,@} 1131 (Bh.), 1134 (Bhs.), 1136 (Bh.),
-<div n="lb">1137 (Bh.), 1139 (Bh.), 1140 (Bhs.), 1142 (Bh.), 1143 (Bhs.),
-<div n="lb">1147 (Bh.), 1149 (Bh.), 1152 (Bh.), 1153 (Bh.), 1154 (Bhs.),
-<div n="lb">1155 (Bh.), 1156 (Bh.), 1174 (Bh.), 1176 (Bh.), 1177 (Bh.);
-<div n="lb">{@32<lang n="greek"></lang>,@} 1376 (Bhs.), 1379 (Bhs.); 1381 {%(Bhīmaprabhṛtayaḥ);%} <lang n="greek"></lang>,
-<div n="lb">1427 (Bh.), 1435 (Bh.); <lang n="greek"></lang>, 1443 (Bh.).—§ 593 (Abhimanyu-
-<div n="lb">vadhap.): VII, {@34,@} 1485 (Bhs.), 1490 (Bhs.); {@35,@} 1507
-<div n="lb">(Bhs.); <lang n="greek"></lang>, (1528) (Bh.); {@39<lang n="greek"></lang>,@} 1657 (Bhs.); {@40,@} 1680 (Bh.),
-<div n="lb">1685 (Bh.); {@42<lang n="greek"></lang>,@} 1743 (Bhs.), 1752 (Bhs.); {@43,@} 1774 (Bh.),
-<div n="lb">1775 (Bh.).—§ 596 (Pratijñāp.): VII, {@78<lang n="greek"></lang>,@} 2743 (Bhs.).—
-<div n="lb">§ 597 (do.): VII, {@83<lang n="greek"></lang>,@} 2949 (Bhs.).—§ 599 (Jayadratha-
-<div n="lb">vadhap.): VII, {@95<lang n="greek"></lang>,@} 3525 (Bhs.); {@96<lang n="greek"></lang>,@} 3572 (Bhs.); {@97,@}
-<div n="lb">3574 (Bhs.); {@98<lang n="greek"></lang>,@} 3660 (Bhs.); {@106,@} 3980 (Bhs.); {@108,@}
-<div n="lb">4065 (Bhs.), 4067 (Bh.), 4068 (Bh.), 4069 (Bh.), 4070 (Bh.),
-<div n="lb">4074 {%(Bhīma-cāpa-),%} 4075 (Bhs.), 4078 (Bh.), 4079 (Bh.),
-<div n="lb">4093 (Bhs.), 4094 (Bhs.); {@109,@} 4107 {%(Bhīmasenādayaḥ),%} 4113
-<div n="lb">(Bhs.); {@110,@} 4151 (Bhs.), 4197 (Bh.), 4204 (Bhs.); {@111,@}
-<div n="lb">4281 (Bh.); {@112,@} 4358 (Bhs.), 4360 (Bh.), 4361 (Bh.), 4362
-<div n="lb">(Bh.), 4364 (Bh.), 4365 (Bhs.), 4367 (Bh.), 4368 (Bh.);
-<div n="lb">{@113,@} 4431 (Bh.), 4436 (Bhs.); {@114,@} 4500 (Bh.), 4505 (Bh.),
-<div n="lb">4508 (Bhs.), 4511 (Bh.), 4510 (Bhs.), 4514 (Bh.), 4516 (Bh.),
-<div n="lb">4517 (Bhs.), 4518 (Bhs.); {@122<lang n="greek"></lang>,@} 4877 (Bhs.), 4883 (Bh.);
-<div n="lb">{@123,@} 4969 (Bhs.); {@124<lang n="greek"></lang>,@} 4983 (Bhs.), 4987 (Bhs.), 5000
-<div n="lb">(Bhs.), 5001 (Bhs.); {@125,@} 5074 (Bhs.); {@126,@} 5114 (Bh.),
-<div n="lb">5115 (Bh.), 5118 (Bhs.), 5120 (Bh.), 5122 (Bh.), 5123 (Bh.),
-<div n="lb">5123 (Bhs.), 5124 (Bh.), 5126 (Bhs.), 5134 (Bh.); {@127,@}
-<div n="lb">(5144) (Bh.), 5147 (Bhs.), 5159 (Bhs.), 5162 (Bhs.), 5164
-<div n="lb">(Bh.), 5167 (Bh.), 5170 (Bh.), 5179 (Bhs.), 5182 (Bh.), 5188
-<div n="lb">(Bhs.), 5190 (Bh.), 5193 (Bh.), 5193 (Bhs.), 5196 (Bh.),
-<div n="lb">5199 (Bhs.), 5201 (Bh.), 5203 (Bh.), 5206 (Bh.), 5207 (Bh.),
-<div n="lb">5213 (Bhs.), 5215 (Bh.), 5215 (Bhs.), 5216 (Bhs.), 5217
-<div n="lb">(Bh.); {@128,@} 5222 (Bh.), 5227 (Bh.), 5230 (Bh.), 5230 (Bhs.),
-<div n="lb">5232 (Bh.), 5235 (Bh.), 5236 (Bh.), 5238 (Bhs.), 5241 (Bhs.),
-<div n="lb">5244 (Bhs.), 5248 (Bhs.), 5250 {%(Bhīmasena-ravaṃ),%} 5252
-<div n="lb">(Bhs.), 5254 (Bh.), 5268 (Bhs.); {@129,@} 5272 (Bhs.), 5273
-<div n="lb">(Bhs.), 5276 (Bh.), 5277 (Bhs.), 5278 (Bh.), 5279 (Bh.),
-<div n="lb">5280 (Bh.), 5281 (Bhs.), 5283 (Bh.), 5285 (Bh.), 5286 (Bhs.),
-<div n="lb">5290 (Bh.), 5291 (Bh.), 5292 (Bhs.), 5293 (Bh.), 5297 (Bh.),
-<div n="lb">5301 (Bh.), 5305 (Bhs.), 5306 (Bhs.), 5308 (Bh.); {@130,@} 5311
-<div n="lb">(Bhs.), 5314 (Bhs.), 5316 (Bh.), 5318 (Bhs.); {@131,@} 5356
-<div n="lb">(Bh.); <lang n="greek"></lang>, 5357 (Bh.), 5358 (Bhs.), 5359 (Bh.), 5361 (Bh.),
-<div n="lb">5362 (Bh.), 5364 (Bh.), 5365 (Bh.), 5367 (Bhs.), 5368 (Bh.),
-<div n="lb">5369 (Bh.), 5370 (Bh.), 5371 (Bh.), 5373 (Bhs.), 5375 (Bh.),
-<div n="lb">5376 (Bh.), 5378 (Bhs.), 5380 (Bhs.), 5384 (Bhs.), 5386
-<div n="lb">(Bhs.), 5389 (Bhs.), 5393 (Bh.), 5394 (Bhs.), 5395 (Bhs.),
-<div n="lb">5396 (Bh.), 5397 (Bhs.), 5402 (Bhs.), 5403 (Bh.), 5405
-<div n="lb">(Bhs.), 5406 (Bh.), 5409 (Bhs.); {@132,@} 5413 (Bh.), 5414
-<div n="lb">(Bh.), 415 (Bhs.), 5417 (Bhs.), 5418 (Bhs.), 5419 (Bh.); <lang n="greek"></lang>,
-<div n="lb">5423 (Bhs.), 5433 (Bh.), 5434 (Bhs.), 5435 (Bh.), 5439 (Bh.),
-<div n="lb">5451 (Bh.); {@133<lang n="greek"></lang>,@} 5455 (Bhs.), 5460 (Bhs.), 5468 (Bh.),
-<div n="lb">5469 (Bh.), 5470 (Bh.), 5471 (Bh.), 5472 (Bh.), 5473 (Bh.),
-<div n="lb">5474 (Bhs.), 5476 (Bhs.), 5478 (Bh.), 5479 (Bh.), 5483
-<div n="lb">(Bh.), 5489 (Bh.), 5494 (Bhs.), 5495 (Bh.), 5496 (Bhs.),
-<div n="lb">5499 (Bh.); {@134,@} 5500 (Bh.), 5502 (Bhs.), 5503 (Bh.), 5504
-<div n="lb">(Bh.), 5507 (Bhs.), 5509 (Bh.), 5511 (Bh.), 5515 (Bh.), 5517
-<div n="lb">(Bh.), 5524 (Bhs.), 5528 (Bhs.), 5530 (Bh.), 5531 (Bh.), 5532
-<div n="lb">(Bh.), 5533 (Bhs.); {@135,@} 5542 (Bh.), 5545 (Bhs.), 5547
-<div n="lb">(Bh.), 5549 (Bhs.), 5550 (Bhs.), 5552 (Bh.), 5553 (Bh.),
-<div n="lb">5554 (Bhs.), 5556 (Bh.), 5557 (Bh.), 5563 (Bhs.), 5566
-<div n="lb">(Bhs.), 5568 (Bh.), 5567 (Bhs.), 5569 (Bhs.), 5570 (Bh.),
+607 ({%Bhīma-gadā-%}), 614 (Bh.); {@16@}<lang n="greek">β</lang>, 633 (Bh.).—§ 592
+(Saṃśaptakav.): VII, {@22@}, 935 (Bh.), 943 (Bh.); {@23@}, 950
+(Bh.), 1027 (Bhs.), 1030 (Bhs.); <lang n="greek">β</lang>, 1038 (Bhs.); {@25@}, 1070
+(Bh.), 1071 (Bh.); {@26@}, 1131 (Bh.), 1134 (Bhs.), 1136 (Bh.),
+1137 (Bh.), 1139 (Bh.), 1140 (Bhs.), 1142 (Bh.), 1143 (Bhs.),
+1147 (Bh.), 1149 (Bh.), 1152 (Bh.), 1153 (Bh.), 1154 (Bhs.),
+1155 (Bh.), 1156 (Bh.), 1174 (Bh.), 1176 (Bh.), 1177 (Bh.);
+{@32@}<lang n="greek">χ</lang>, 1376 (Bhs.), 1379 (Bhs.); 1381 ({%Bhīmaprabhṛtayaḥ%}); <lang n="greek">ββ</lang>,
+1427 (Bh.), 1435 (Bh.); <lang n="greek">ζζ</lang>, 1443 (Bh.).—§ 593 (Abhimanyu-
+vadhap.): VII, {@34@}, 1485 (Bhs.), 1490 (Bhs.); {@35@}, 1507
+(Bhs.); <lang n="greek">ζ</lang>, (1528) (Bh.); {@39@}<lang n="greek">ν</lang>, 1657 (Bhs.); {@40@}, 1680 (Bh.),
+1685 (Bh.); {@42@}<lang n="greek">π</lang>, 1743 (Bhs.), 1752 (Bhs.); {@43@}, 1774 (Bh.),
+1775 (Bh.).—§ 596 (Pratijñāp.): VII, {@78@}<lang n="greek">ε</lang>, 2743 (Bhs.).—
+§ 597 (do.): VII, {@83@}<lang n="greek">α</lang>, 2949 (Bhs.).—§ 599 (Jayadratha-
+vadhap.): VII, {@95@}<lang n="greek">ζ</lang>, 3525 (Bhs.); {@96@}<lang n="greek">θ</lang>, 3572 (Bhs.); {@97@},
+3574 (Bhs.); {@98@}<lang n="greek">κ</lang>, 3660 (Bhs.); {@106@}, 3980 (Bhs.); {@108@},
+4065 (Bhs.), 4067 (Bh.), 4068 (Bh.), 4069 (Bh.), 4070 (Bh.),
+4074 ({%Bhīma-cāpa-%}), 4075 (Bhs.), 4078 (Bh.), 4079 (Bh.),
+4093 (Bhs.), 4094 (Bhs.); {@109@}, 4107 ({%Bhīmasenādayaḥ%}), 4113
+(Bhs.); {@110@}, 4151 (Bhs.), 4197 (Bh.), 4204 (Bhs.); {@111@},
+4281 (Bh.); {@112@}, 4358 (Bhs.), 4360 (Bh.), 4361 (Bh.), 4362
+(Bh.), 4364 (Bh.), 4365 (Bhs.), 4367 (Bh.), 4368 (Bh.);
+{@113@}, 4431 (Bh.), 4436 (Bhs.); {@114@}, 4500 (Bh.), 4505 (Bh.),
+4508 (Bhs.), 4511 (Bh.), 4510 (Bhs.), 4514 (Bh.), 4516 (Bh.),
+4517 (Bhs.), 4518 (Bhs.); {@122@}<lang n="greek">θθ</lang>, 4877 (Bhs.), 4883 (Bh.);
+{@123@}, 4969 (Bhs.); {@124@}<lang n="greek">κκ</lang>, 4983 (Bhs.), 4987 (Bhs.), 5000
+(Bhs.), 5001 (Bhs.); {@125@}, 5074 (Bhs.); {@126@}, 5114 (Bh.),
+5115 (Bh.), 5118 (Bhs.), 5120 (Bh.), 5122 (Bh.), 5123 (Bh.),
+5123 (Bhs.), 5124 (Bh.), 5126 (Bhs.), 5134 (Bh.); {@127@},
+(5144) (Bh.), 5147 (Bhs.), 5159 (Bhs.), 5162 (Bhs.), 5164
+(Bh.), 5167 (Bh.), 5170 (Bh.), 5179 (Bhs.), 5182 (Bh.), 5188
+(Bhs.), 5190 (Bh.), 5193 (Bh.), 5193 (Bhs.), 5196 (Bh.),
+5199 (Bhs.), 5201 (Bh.), 5203 (Bh.), 5206 (Bh.), 5207 (Bh.),
+5213 (Bhs.), 5215 (Bh.), 5215 (Bhs.), 5216 (Bhs.), 5217
+(Bh.); {@128@}, 5222 (Bh.), 5227 (Bh.), 5230 (Bh.), 5230 (Bhs.),
+5232 (Bh.), 5235 (Bh.), 5236 (Bh.), 5238 (Bhs.), 5241 (Bhs.),
+5244 (Bhs.), 5248 (Bhs.), 5250 ({%Bhīmasena-ravaṃ%}), 5252
+(Bhs.), 5254 (Bh.), 5268 (Bhs.); {@129@}, 5272 (Bhs.), 5273
+(Bhs.), 5276 (Bh.), 5277 (Bhs.), 5278 (Bh.), 5279 (Bh.),
+5280 (Bh.), 5281 (Bhs.), 5283 (Bh.), 5285 (Bh.), 5286 (Bhs.),
+5290 (Bh.), 5291 (Bh.), 5292 (Bhs.), 5293 (Bh.), 5297 (Bh.),
+5301 (Bh.), 5305 (Bhs.), 5306 (Bhs.), 5308 (Bh.); {@130@}, 5311
+(Bhs.), 5314 (Bhs.), 5316 (Bh.), 5318 (Bhs.); {@131@}, 5356
+(Bh.); <lang n="greek">ρρ</lang>, 5357 (Bh.), 5358 (Bhs.), 5359 (Bh.), 5361 (Bh.),
+5362 (Bh.), 5364 (Bh.), 5365 (Bh.), 5367 (Bhs.), 5368 (Bh.),
+5369 (Bh.), 5370 (Bh.), 5371 (Bh.), 5373 (Bhs.), 5375 (Bh.),
+5376 (Bh.), 5378 (Bhs.), 5380 (Bhs.), 5384 (Bhs.), 5386
+(Bhs.), 5389 (Bhs.), 5393 (Bh.), 5394 (Bhs.), 5395 (Bhs.),
+5396 (Bh.), 5397 (Bhs.), 5402 (Bhs.), 5403 (Bh.), 5405
+(Bhs.), 5406 (Bh.), 5409 (Bhs.); {@132@}, 5413 (Bh.), 5414
+(Bh.), 415 (Bhs.), 5417 (Bhs.), 5418 (Bhs.), 5419 (Bh.); <lang n="greek">σσ</lang>,
+5423 (Bhs.), 5433 (Bh.), 5434 (Bhs.), 5435 (Bh.), 5439 (Bh.),
+5451 (Bh.); {@133@}<lang n="greek">ττ</lang>, 5455 (Bhs.), 5460 (Bhs.), 5468 (Bh.),
+5469 (Bh.), 5470 (Bh.), 5471 (Bh.), 5472 (Bh.), 5473 (Bh.),
+5474 (Bhs.), 5476 (Bhs.), 5478 (Bh.), 5479 (Bh.), 5483
+(Bh.), 5489 (Bh.), 5494 (Bhs.), 5495 (Bh.), 5496 (Bhs.),
+5499 (Bh.); {@134@}, 5500 (Bh.), 5502 (Bhs.), 5503 (Bh.), 5504
+(Bh.), 5507 (Bhs.), 5509 (Bh.), 5511 (Bh.), 5515 (Bh.), 5517
+(Bh.), 5524 (Bhs.), 5528 (Bhs.), 5530 (Bh.), 5531 (Bh.), 5532
+(Bh.), 5533 (Bhs.); {@135@}, 5542 (Bh.), 5545 (Bhs.), 5547
+(Bh.), 5549 (Bhs.), 5550 (Bhs.), 5552 (Bh.), 5553 (Bh.),
+5554 (Bhs.), 5556 (Bh.), 5557 (Bh.), 5563 (Bhs.), 5566
+(Bhs.), 5568 (Bh.), 5567 (Bhs.), 5569 (Bhs.), 5570 (Bh.),
 [Page131-a+ 63]
-<div n="lb">5572 (Bhs.), 5573 (Bh.), 5574 (Bhs.); {@136,@} 5576 (Bh.), 5578
-<div n="lb">(Bh.), 5581 (Bhs.), 5582 (Bh.), 5584 (Bh.), 5587 (Bhs.),
-<div n="lb">5589 (Bh.), 5591 (Bhs.), 5595 (Bhs.), 5603 (Bh.), 5609
-<div n="lb">(Bh.), 5610 (Bh.), 5611 (Bh.), 5612 (Bhs.), 5613 (Bh.);
-<div n="lb">{@137,@} 5615 (Bhs.), 5616 (Bhs.), 5628 (Bhs.), 5633 {%(Bhīma-%}
-<div n="lb">{%cāpa-),%} 5634 (Bhs.), 5639 (Bhs.), 5640 (Bhs.), 5650 (Bhs.),
-<div n="lb">5660 (Bhs.), 5665 (Bh.); {@138,@} 5670 (Bh.), 5671 (Bhs.), 5672
-<div n="lb">(Bh.), 5674 {%(Bhīma-cāpa-),%} 5676 {%(Bhīma-cāpa-),%} 5678 (Bh.),
-<div n="lb">5679 (Bh.), 5698 (Bh.), 5695 (Bh.); {@139,@} 5697 (Bhs.), 5701
-<div n="lb">(Bh.), 5706 (Bh.), 5712 (Bh.), 5717 (Bh.), 5726 (Bhs.), 5729
-<div n="lb">(Bh.), 5731 (Bh.), 5733 (Bh.), 5734 (Bhs.), 5735 (Bhs.),
-<div n="lb">5737 (Bh.), 5742 (Bh.), 5747 (Bh.), 5748 (Bhs.), 5749 (Bh.),
-<div n="lb">5750 (Bh.), 5753 (Bh.), 5755 (Bh.), 5767 (Bhs.), 5768 (Bh.),
-<div n="lb">5780 (Bh.), 5782 (Bh.), 5785 (Bhs.), 5794 (Bh.), 5797 (Bhs.),
-<div n="lb">5800 (Bh.), 5805 (Bhs.), 5806 (Bh.); {@140,@} 5819 (Bh.),
-<div n="lb">†5825 (Bh.); {@143,@} 5997 (Bh.), 6004 (Bh.); {@145,@} 6079
-<div n="lb">(Bhs.), 6094 (Bhs.), 6115 (Bhs.), 6116 (Bhs.); {@146,@} 6288
-<div n="lb">(Bhs.); {@147,@} 6368 (Bh.), 6369 (Bhs.), 6385 (Bhs.); {@148,@}
-<div n="lb">6388 (Bh.), 6389 (Bhs.), 6394 (Bh.), 6398 (Bh.), 6402 (Bhs.);
-<div n="lb">{@149,@} 6482 (Bh.); {@150,@} 6496 (Bhs.); {@152,@} 6582 (Bhs.).—
-<div n="lb">§ 600 (Ghaṭotkacavadhap.): VII, {@153<lang n="greek"></lang>,@} 6626 (Bhs.); {@154<lang n="greek"></lang>,@}
-<div n="lb">6649 (Bhs.); {@155,@} 6703 (Bhs.), 6704 (Bh.), 6707 (Bhs.),
-<div n="lb">6708 (Bh.), 6709 (Bhs.), 6714 (Bh.), 6716 (Bh.), 6718 (Bh.),
-<div n="lb">6719 (Bh.), 6723 (Bh.); {@156,@} 6763 (Bhs.), 6776 (Bhs.),
-<div n="lb">6781 (Bhs.), 6809 {%(pautreṇa Bhīmasenasya…Añjana-%}
-<div n="lb">{%parvaṇā),%} 6817 (Bh.); 6826 (Bh.), 6853 (Bh.), 6895 (Bh.),
-<div n="lb">6898 (Bhs.); {@157<lang n="greek"></lang>,@} 6923 (Bhs.), 6926 (Bh.), 6929 (Bhs.),
-<div n="lb">6933 (Bh.), 6934 (Bh.), 6935 (Bh.), 6937 (Bh.), 6939 (Bh.),
-<div n="lb">6941 (Bh.), 6942 (Bh.), 6943 (Bh.), 6945 (Bhs.), 6964 (Bhs.),
-<div n="lb">6965 (Bh.); {@158,@} 7015 (Bh.); {@161,@} 7204 (Bhs.), 7208 (Bh.),
-<div n="lb">7215 (Bhs.); {@162,@} 7247 (Bh.), 7274 (Bh.), 7276 (Bh.);
-<div n="lb">{@163<lang n="greek"></lang>,@} 7281 (Bh.); {@164,@} 7346 (Bhs.); {@165,@} 7363 (Bhs.);
-<div n="lb">{@166,@} 7438 (Bhs.), 7439 (Bhs.), 7441 (Bh.), 7442 (Bh.),
-<div n="lb">7443 (Bhs.), 7444 (Bh.), 7445 (Bhs.), 7446 (Bhs.), 7448 (Bh.),
-<div n="lb">7452 (Bhs.), 7454 (Bh.), 7455 (Bh.); {@170<lang n="greek"></lang>,@} 7672 (Bhs.); {@172,@}
-<div n="lb">7754 (Bhs.), 7763 (Bh.); {@173,@} 7814 (Bh.), 7835 (Bhs.);
-<div n="lb">{@176,@} 8008 (Bh.), 8009 (Bh.), 8016 (Bh.), 8041 (Bhs.), 8043
-<div n="lb">(Bh.), 8044 (Bhs.), 8047 (Bhs.), 8049 (Bh.), 8051 (Bhs.),
-<div n="lb">8052 (Bh.), 8054 (Bh.), 8058 (Bh.), 8064 (Bh.), 8065 (Bhs.),
-<div n="lb">8068 (Bhs.); {@177,@} 8073 (Bhs.); {@178,@} 8074 (Bh.), 8075
-<div n="lb">(Bh.), 8083 (Bh.), 8112 (Bhs.), 8114 (Bhs.); {@179,@} †8163
-<div n="lb">(Bh.); {@181,@} 8227 (Bhs.), 8235 (Bhs.); {@183,@} 8314 (Bhs.),
-<div n="lb">8315 (Bh.), 8330 (Bhs.), 8343 (Bhs.).—§ 601 (Droṇa-
-<div n="lb">vadhap.): VII, {@184,@} 8364 (Bh.).—§ 602 (do.): VII, {@186,@}
-<div n="lb">8464 (Bhs.), (8465) (Bhs.), 8468 (Bh.), 8506 (Bhs.), (8508)
-<div n="lb">(Bhs.); {@187,@} 8544 (Bhs.); {@188,@} 8584 (Bh.), 8585 (Bh.),
-<div n="lb">8587 (Bhs.), 8588 (Bh.), 8589 (Bh.), 8590 (Bh.), 8591 (Bh.),
-<div n="lb">8596 (Bh.); {@189,@} 8676 (Bhs.), 8678 (Bhs.), 8681 (Bhs.),
-<div n="lb">8689 (Bhs.), 8690 (Bhs.); {@190,@} 8707 (Bh.), 8709 (Bhs.),
-<div n="lb">8710 (Bh.), 8711 (Bhs.), 8735 (Bhs.), 8743 (Bhs.); {@191,@}
-<div n="lb">8805 (Bh.); {@192,@} 8811 (Bhs.), 8834 (Bh.), 8844 (Bh.), 8850
-<div n="lb">(Bhs.), 8887 (Bhs.), 8888 (Bh.), 8890 (Bh.).—§ 603 (Nārā-
-<div n="lb">yaṇāstramokṣap.): VII, {@193,@} 8946 (Bhs.), 8949 (Bh.);
-<div n="lb">{@195<lang n="greek"></lang>,@} 9007 (Bhs.); {@197<lang n="greek"></lang>,@} 9083 (Bhs.); {@198,@} 9133 (Bh.),
-<div n="lb">9175 (Bhs.), 9177 (Bh.), 9186 (Bh.), 9191 (Bh.); {@199,@} 9238
-<div n="lb">(Bhs.), 9247 (Bh.), 9248 (Bh.), 9252 (Bhs.), 9254 (Bh.),
-<div n="lb">9256 (Bh.), 9257 (Bhs.); {@200,@} 9261 (Bhs.), 9263 (Bh.),
-<div n="lb">9265 (Bh.), 9267 (Bh.), 9270 (Bh.), 9279 (Bh.); <lang n="greek"></lang>, 9330
-<div n="lb">(Bhs.), †9337 (Bh.), †9338 (Bhs.), 9344 (Bhs.), 9346 (Bh.),
-<div n="lb">9348 (Bh.), 9349 {%(Bhīmanāmāṅkitā vāṇāḥ),%} 9350 (Bh.), 9352
-<div n="lb">(Bh.), 9357 (Bhs.), 9358 (Bh.), 9360 (Bhs.), 9364 (Bh.),
-<div n="lb">9369 (Bhs.), 9371 (Bh.), 9372 (Bhs.), 9378 (Bh.), 9381
-<div n="lb">(Bh.), 9382 (Bhs.), 9385 (Bhs.), 9386 (Bhs.); <lang n="greek"></lang>, 9401 (Bh.).
+5572 (Bhs.), 5573 (Bh.), 5574 (Bhs.); {@136@}, 5576 (Bh.), 5578
+(Bh.), 5581 (Bhs.), 5582 (Bh.), 5584 (Bh.), 5587 (Bhs.),
+5589 (Bh.), 5591 (Bhs.), 5595 (Bhs.), 5603 (Bh.), 5609
+(Bh.), 5610 (Bh.), 5611 (Bh.), 5612 (Bhs.), 5613 (Bh.);
+{@137@}, 5615 (Bhs.), 5616 (Bhs.), 5628 (Bhs.), 5633 ({%Bhīma-%}
+{%cāpa-%}), 5634 (Bhs.), 5639 (Bhs.), 5640 (Bhs.), 5650 (Bhs.),
+5660 (Bhs.), 5665 (Bh.); {@138@}, 5670 (Bh.), 5671 (Bhs.), 5672
+(Bh.), 5674 ({%Bhīma-cāpa-%}), 5676 ({%Bhīma-cāpa-%}), 5678 (Bh.),
+5679 (Bh.), 5698 (Bh.), 5695 (Bh.); {@139@}, 5697 (Bhs.), 5701
+(Bh.), 5706 (Bh.), 5712 (Bh.), 5717 (Bh.), 5726 (Bhs.), 5729
+(Bh.), 5731 (Bh.), 5733 (Bh.), 5734 (Bhs.), 5735 (Bhs.),
+5737 (Bh.), 5742 (Bh.), 5747 (Bh.), 5748 (Bhs.), 5749 (Bh.),
+5750 (Bh.), 5753 (Bh.), 5755 (Bh.), 5767 (Bhs.), 5768 (Bh.),
+5780 (Bh.), 5782 (Bh.), 5785 (Bhs.), 5794 (Bh.), 5797 (Bhs.),
+5800 (Bh.), 5805 (Bhs.), 5806 (Bh.); {@140@}, 5819 (Bh.),
+†5825 (Bh.); {@143@}, 5997 (Bh.), 6004 (Bh.); {@145@}, 6079
+(Bhs.), 6094 (Bhs.), 6115 (Bhs.), 6116 (Bhs.); {@146@}, 6288
+(Bhs.); {@147@}, 6368 (Bh.), 6369 (Bhs.), 6385 (Bhs.); {@148@},
+6388 (Bh.), 6389 (Bhs.), 6394 (Bh.), 6398 (Bh.), 6402 (Bhs.);
+{@149@}, 6482 (Bh.); {@150@}, 6496 (Bhs.); {@152@}, 6582 (Bhs.).—
+§ 600 (Ghaṭotkacavadhap.): VII, {@153@}<lang n="greek">α</lang>, 6626 (Bhs.); {@154@}<lang n="greek">β</lang>,
+6649 (Bhs.); {@155@}, 6703 (Bhs.), 6704 (Bh.), 6707 (Bhs.),
+6708 (Bh.), 6709 (Bhs.), 6714 (Bh.), 6716 (Bh.), 6718 (Bh.),
+6719 (Bh.), 6723 (Bh.); {@156@}, 6763 (Bhs.), 6776 (Bhs.),
+6781 (Bhs.), 6809 ({%pautreṇa Bhīmasenasya…Añjana-%}
+{%parvaṇā%}), 6817 (Bh.); 6826 (Bh.), 6853 (Bh.), 6895 (Bh.),
+6898 (Bhs.); {@157@}<lang n="greek">ξ</lang>, 6923 (Bhs.), 6926 (Bh.), 6929 (Bhs.),
+6933 (Bh.), 6934 (Bh.), 6935 (Bh.), 6937 (Bh.), 6939 (Bh.),
+6941 (Bh.), 6942 (Bh.), 6943 (Bh.), 6945 (Bhs.), 6964 (Bhs.),
+6965 (Bh.); {@158@}, 7015 (Bh.); {@161@}, 7204 (Bhs.), 7208 (Bh.),
+7215 (Bhs.); {@162@}, 7247 (Bh.), 7274 (Bh.), 7276 (Bh.);
+{@163@}<lang n="greek">ηη</lang>, 7281 (Bh.); {@164@}, 7346 (Bhs.); {@165@}, 7363 (Bhs.);
+{@166@}, 7438 (Bhs.), 7439 (Bhs.), 7441 (Bh.), 7442 (Bh.),
+7443 (Bhs.), 7444 (Bh.), 7445 (Bhs.), 7446 (Bhs.), 7448 (Bh.),
+7452 (Bhs.), 7454 (Bh.), 7455 (Bh.); {@170@}<lang n="greek">νν</lang>, 7672 (Bhs.); {@172@},
+7754 (Bhs.), 7763 (Bh.); {@173@}, 7814 (Bh.), 7835 (Bhs.);
+{@176@}, 8008 (Bh.), 8009 (Bh.), 8016 (Bh.), 8041 (Bhs.), 8043
+(Bh.), 8044 (Bhs.), 8047 (Bhs.), 8049 (Bh.), 8051 (Bhs.),
+8052 (Bh.), 8054 (Bh.), 8058 (Bh.), 8064 (Bh.), 8065 (Bhs.),
+8068 (Bhs.); {@177@}, 8073 (Bhs.); {@178@}, 8074 (Bh.), 8075
+(Bh.), 8083 (Bh.), 8112 (Bhs.), 8114 (Bhs.); {@179@}, †8163
+(Bh.); {@181@}, 8227 (Bhs.), 8235 (Bhs.); {@183@}, 8314 (Bhs.),
+8315 (Bh.), 8330 (Bhs.), 8343 (Bhs.).—§ 601 (Droṇa-
+vadhap.): VII, {@184@}, 8364 (Bh.).—§ 602 (do.): VII, {@186@},
+8464 (Bhs.), (8465) (Bhs.), 8468 (Bh.), 8506 (Bhs.), (8508)
+(Bhs.); {@187@}, 8544 (Bhs.); {@188@}, 8584 (Bh.), 8585 (Bh.),
+8587 (Bhs.), 8588 (Bh.), 8589 (Bh.), 8590 (Bh.), 8591 (Bh.),
+8596 (Bh.); {@189@}, 8676 (Bhs.), 8678 (Bhs.), 8681 (Bhs.),
+8689 (Bhs.), 8690 (Bhs.); {@190@}, 8707 (Bh.), 8709 (Bhs.),
+8710 (Bh.), 8711 (Bhs.), 8735 (Bhs.), 8743 (Bhs.); {@191@},
+8805 (Bh.); {@192@}, 8811 (Bhs.), 8834 (Bh.), 8844 (Bh.), 8850
+(Bhs.), 8887 (Bhs.), 8888 (Bh.), 8890 (Bh.).—§ 603 (Nārā-
+yaṇāstramokṣap.): VII, {@193@}, 8946 (Bhs.), 8949 (Bh.);
+{@195@}<lang n="greek">θ</lang>, 9007 (Bhs.); {@197@}<lang n="greek">μ</lang>, 9083 (Bhs.); {@198@}, 9133 (Bh.),
+9175 (Bhs.), 9177 (Bh.), 9186 (Bh.), 9191 (Bh.); {@199@}, 9238
+(Bhs.), 9247 (Bh.), 9248 (Bh.), 9252 (Bhs.), 9254 (Bh.),
+9256 (Bh.), 9257 (Bhs.); {@200@}, 9261 (Bhs.), 9263 (Bh.),
+9265 (Bh.), 9267 (Bh.), 9270 (Bh.), 9279 (Bh.); <lang n="greek">γγ</lang>, 9330
+(Bhs.), †9337 (Bh.), †9338 (Bhs.), 9344 (Bhs.), 9346 (Bh.),
+9348 (Bh.), 9349 ({%Bhīmanāmāṅkitā vāṇāḥ%}), 9350 (Bh.), 9352
+(Bh.), 9357 (Bhs.), 9358 (Bh.), 9360 (Bhs.), 9364 (Bh.),
+9369 (Bhs.), 9371 (Bh.), 9372 (Bhs.), 9378 (Bh.), 9381
+(Bh.), 9382 (Bhs.), 9385 (Bhs.), 9386 (Bhs.); <lang n="greek">εε</lang>, 9401 (Bh.).
 [Page131-b+ 63]
-<div n="lb">—§ 604 (Karṇap.): VIII, {@3,@} 62 (Bhs.); {@4,@} 89 (Bhs.); {@5<lang n="greek"></lang>,@}
-<div n="lb">98 (Bhs.), 108 (Bhs.), 111 (Bhs.), 119 (Bhs.), 121 (Bhs.),
-<div n="lb">124 (Bhs.), 131 (Bhs.), 133 (Bhs.); {@9,@} 297 (Bhs.).—§ 605
-<div n="lb">(do.): VIII, {@11<lang n="greek"></lang>,@} 426 (Bhs.); {@12,@} 472 (Bh.), 473 (Bhs.),
-<div n="lb">474 (Bh.), 476 (Bh.), 477 (Bhs.), 478 (Bh.), 479 (Bhs.), 481
-<div n="lb">(Bh.), 482 (Bhs.), 483 (Bh.); {@13,@} 492 (Bhs.); {@14,@} 564
-<div n="lb">(Bhs.); {@15,@} 566 (Bhs.), 568 (Bhs.), 572 (Bh.), 583 (Bh.),
-<div n="lb">595 (Bh.), 600 (Bh.); {@21,@} 829 (Bhs.); {@26,@} 1053 (Bhs.),
-<div n="lb">1055 (Bh.); {@28,@} 1167 (Bhs.); {@29,@} 1201 (Bh.), 1203 (Bh.),
-<div n="lb">—§ 606 (do.): VIII, {@35,@} 1637 (Bhs.).—§ 607 (do.): VIII,
-<div n="lb">{@36,@} 1688 (Bhs.); <lang n="greek"></lang>, 1690 (Bhs.); <lang n="greek"></lang>, 1694 (Bhs.), 1700 (Bh.);
-<div n="lb">{@37,@} †1728 (Bhs.).—§ 608 (do.): VIII, {@46<lang n="greek"></lang>,@} 2126 (Bhs.),
-<div n="lb">2156 (Bhs.); {@48<lang n="greek"></lang>,@} 2257 (Bhs.), 2262 (Bh.), 2266 (Bhs.),
-<div n="lb">2280 (Bhs.); <lang n="greek"></lang>, 2286 (Bhs.); {@49,@} 2334 (Bhs.), 2365 (Bhs.),
-<div n="lb">2386 (Bhs.); {@50,@} 2393 (Bh.), 2394 (Bh.), 2396 (Bhs.), 2397
-<div n="lb">(Bh.), 2404 (Bh.), 2409 (Bh.), 2410 (Bhs.), 2415 (Bh.),
-<div n="lb">2416 (Bhs.), 2418 (Bhs.), 2419 (Bhs.), 2422 (Bh.), 2423
-<div n="lb">(Bh.), 2424 (Bhs.), 2437 (Bhs.), 2439 (Bhs.); {@51,@} 2440
-<div n="lb">(Bh.), 2442 (Bh.), 2444 (Bhs.), 2445 (Bhs.), 2448 (Bhs.),
-<div n="lb">2451 (Bhs.), 2453 (Bh.), 2454 (Bh.), 2455 (Bh.), 2457 (Bh.),
-<div n="lb">2459 (Bhs.), 2461 (Bhs.), 2463 (Bh.), 2464 (Bh.), 2465
-<div n="lb">(Bh.), 2467 (Bh.), 2472 (Bh.), 2474 (Bhs.), 2481 (Bhs.),
-<div n="lb">2483 (Bh.), 2484 (Bh.), 2490 (Bh.), 2491 (Bh.), 2492 (Bh.),
-<div n="lb">2494 (Bh.), 2501 (Bh.), 2502 (Bhs.); {@54,@} 2625 (Bhs.);
-<div n="lb">{@56,@} 2692 (Bhs.), 2693 (Bhs.), 2694 (Bhs.), 2761 (Bhs.),
-<div n="lb">2763 (Bh.), 2765 (Bh.), 2766 (Bhs.), 2767 (Bhs.), 2772
-<div n="lb">(Bhs.); {@57<lang n="greek"></lang>,@} 2849 (Bhs.); {@58,@} 2857 (Bhs.), 2901 (Bh.);
-<div n="lb">{@60,@} 2983 (Bh.), 2995 (Bhs.), 3002 (Bh.), 3008 (Bhs.), 3033
-<div n="lb">(Bh.), 3035 (Bhs.), 3036 (Bh.), 3037 (Bhs.), 3042 (Bhs.),
-<div n="lb">3052 (Bh.), 3053 (Bhs.), 3054 (Bh.), 3056 (Bh.), 3062
-<div n="lb">(Bhs.), 3063 (Bhs.); {@61<lang n="greek"></lang>,@} 3067 (Bhs.), 3069 (Bhs.), 3070
-<div n="lb">(Bhs.); <lang n="greek"></lang>, 3073 (Bhs.), 3081 (Bhs.), 3118 (Bhs.), 3119
-<div n="lb">(Bhs.), 3120 (Bhs.), 3126 (Bhs.), 3128 (Bh.), 3132 (Bh.),
-<div n="lb">3133 (Bh.), 3137 (Bhs.), 3139 (Bhs.), 3140 (Bhs.); {@62<lang n="greek"></lang>,@}
-<div n="lb">3149 (Bhs.), 3175 (Bh.); {@63,@} 3178 (Bhs.), 3201 (Bhs.),
-<div n="lb">3201 (Bh.), 3202 (Bhs.), 3205 (Bh.), 3211 (Bhs.), 3213
-<div n="lb">(Bh.); {@65,@} †3287 (Bh.), (3288) (Bhs.), †3291 (Bh.), (†3292)
-<div n="lb">(Bhs.), †3294 (Bhs.), †3295 (Bhs.), 3299 (Bh.), 3301 (Bhs.);
-<div n="lb">{@66,@} 3322 (Bhs.); {@67,@} †3378 (Bh.); {@68,@} †3381 (Bh.), †3382
-<div n="lb">(Bh.), †3383 (Bhs.); {@69,@} 3405 (Bhs.), †3476 (Bh.), †3485
-<div n="lb">(Bh.); {@70,@} †3493 (Bh.), †3498 (Bhs.), †3499 (Bh.), †3502
-<div n="lb">(Bh.), †3532 (Bh.), †3537 (Bhs.), †3538 (Bh.); {@71,@} 3573
-<div n="lb">(Bh.); {@73,@} 3651 (Bh.), 3659 (Bh.), 3660 (Bh.), 3745 (Bh.);
-<div n="lb">{@74,@} 3796 (Bh.), †3803 (Bh.); {@75,@} †3815 (Bh.), [†3820]
-<div n="lb">(Bh.), †3822 (Bhs.); {@76,@} †3823 (Bh.), †3824 (Bh.), †3825
-<div n="lb">(Bh.), †3826 (Bh.), †3827 (Bh.), †3830 (Bhs.), †3839 (Bh.),
-<div n="lb">(†3839) (Bhs.), †3840 (Bhs.), †3841 (Bhs.), †3848 (Bh.),
-<div n="lb">(†3860) (Bhs.); {@77,@} 3862 (Bh.), 3883 (Bhs.), 3884 (Bhs.),
-<div n="lb">3885 (Bh.), 3887 (Bh.), 3889 (Bhs.), 3892 (Bh.), 3897 (Bh.),
-<div n="lb">3899 (Bh.), 3907 (Bhs.), 3908 (Bhs.), 3910 (Bh.), 3911
-<div n="lb">(Bh.), 3913 (Bh.), 3915 (Bh.), 3918 (Bh.), 3919 (Bhs.), 3920
-<div n="lb">(Bh.), 3922 (Bhs.), 3928 (Bh.), 3931 (Bhs.), 3932 (Bh.),
-<div n="lb">3935 (Bh.), 3936 (Bh.); {@78,@} 3940 (Bhs.), 3946 (Bhs.), 3947
-<div n="lb">(Bh.), 3948 (Bhs.); <lang n="greek"></lang>, 3955 (Bh.), 3959 (Bhs.), 3962 (Bhs.),
-<div n="lb">4003 (Bh.); {@79,@} 4010 (Bhs.); {@80,@} 4091 (Bh.), 4111 (Bhs.),
-<div n="lb">4113 (Bh.), 4114 (Bhs.); {@81,@} 4143 (Bhs.), 4145 (Bh.), 4146
-<div n="lb">(Bh.), 4152 (Bh.), 4153 (Bh.), 4155 (Bh.), 4157 (Bhs.), 4168
-<div n="lb">(Bhs.); {@82,@} †4193 (Bhs.), †4209 (Bh.), †4213 (Bh.), †4214
-<div n="lb">(Bh.); {@83,@} †4216 (Bh.), †4217 (Bh.), †4217 (Bhs.), †4218
-<div n="lb">(Bhs.), †4220 (Bh.), †4221 (Bh.), †4223 (Bh.), †4224 (Bhs.),
-<div n="lb">†4228 (Bh.), †4236 (Bh.), †4239 (Bh.), †4240 (Bhs.), †4242
-<div n="lb">(Bh.), †4243 (Bh.), 4248 (Bh.), †4258 (Bhs.); {@84,@} 4262 (Bh.),
-<div n="lb">4264 (Bhs.), 4265 (Bh.), 4268 (Bh.), 4270 (Bhs.), 4290 (Bh.),
+—§ 604 (Karṇap.): VIII, {@3@}, 62 (Bhs.); {@4@}, 89 (Bhs.); {@5@}<lang n="greek">ζ</lang>,
+98 (Bhs.), 108 (Bhs.), 111 (Bhs.), 119 (Bhs.), 121 (Bhs.),
+124 (Bhs.), 131 (Bhs.), 133 (Bhs.); {@9@}, 297 (Bhs.).—§ 605
+(do.): VIII, {@11@}<lang n="greek">χ</lang>, 426 (Bhs.); {@12@}, 472 (Bh.), 473 (Bhs.),
+474 (Bh.), 476 (Bh.), 477 (Bhs.), 478 (Bh.), 479 (Bhs.), 481
+(Bh.), 482 (Bhs.), 483 (Bh.); {@13@}, 492 (Bhs.); {@14@}, 564
+(Bhs.); {@15@}, 566 (Bhs.), 568 (Bhs.), 572 (Bh.), 583 (Bh.),
+595 (Bh.), 600 (Bh.); {@21@}, 829 (Bhs.); {@26@}, 1053 (Bhs.),
+1055 (Bh.); {@28@}, 1167 (Bhs.); {@29@}, 1201 (Bh.), 1203 (Bh.),
+—§ 606 (do.): VIII, {@35@}, 1637 (Bhs.).—§ 607 (do.): VIII,
+{@36@}, 1688 (Bhs.); <lang n="greek">α</lang>, 1690 (Bhs.); <lang n="greek">β</lang>, 1694 (Bhs.), 1700 (Bh.);
+{@37@}, †1728 (Bhs.).—§ 608 (do.): VIII, {@46@}<lang n="greek">α</lang>, 2126 (Bhs.),
+2156 (Bhs.); {@48@}<lang n="greek">ξ</lang>, 2257 (Bhs.), 2262 (Bh.), 2266 (Bhs.),
+2280 (Bhs.); <lang n="greek">ρ</lang>, 2286 (Bhs.); {@49@}, 2334 (Bhs.), 2365 (Bhs.),
+2386 (Bhs.); {@50@}, 2393 (Bh.), 2394 (Bh.), 2396 (Bhs.), 2397
+(Bh.), 2404 (Bh.), 2409 (Bh.), 2410 (Bhs.), 2415 (Bh.),
+2416 (Bhs.), 2418 (Bhs.), 2419 (Bhs.), 2422 (Bh.), 2423
+(Bh.), 2424 (Bhs.), 2437 (Bhs.), 2439 (Bhs.); {@51@}, 2440
+(Bh.), 2442 (Bh.), 2444 (Bhs.), 2445 (Bhs.), 2448 (Bhs.),
+2451 (Bhs.), 2453 (Bh.), 2454 (Bh.), 2455 (Bh.), 2457 (Bh.),
+2459 (Bhs.), 2461 (Bhs.), 2463 (Bh.), 2464 (Bh.), 2465
+(Bh.), 2467 (Bh.), 2472 (Bh.), 2474 (Bhs.), 2481 (Bhs.),
+2483 (Bh.), 2484 (Bh.), 2490 (Bh.), 2491 (Bh.), 2492 (Bh.),
+2494 (Bh.), 2501 (Bh.), 2502 (Bhs.); {@54@}, 2625 (Bhs.);
+{@56@}, 2692 (Bhs.), 2693 (Bhs.), 2694 (Bhs.), 2761 (Bhs.),
+2763 (Bh.), 2765 (Bh.), 2766 (Bhs.), 2767 (Bhs.), 2772
+(Bhs.); {@57@}<lang n="greek">ϕ</lang>, 2849 (Bhs.); {@58@}, 2857 (Bhs.), 2901 (Bh.);
+{@60@}, 2983 (Bh.), 2995 (Bhs.), 3002 (Bh.), 3008 (Bhs.), 3033
+(Bh.), 3035 (Bhs.), 3036 (Bh.), 3037 (Bhs.), 3042 (Bhs.),
+3052 (Bh.), 3053 (Bhs.), 3054 (Bh.), 3056 (Bh.), 3062
+(Bhs.), 3063 (Bhs.); {@61@}<lang n="greek">δδδ</lang>, 3067 (Bhs.), 3069 (Bhs.), 3070
+(Bhs.); <lang n="greek">εεε</lang>, 3073 (Bhs.), 3081 (Bhs.), 3118 (Bhs.), 3119
+(Bhs.), 3120 (Bhs.), 3126 (Bhs.), 3128 (Bh.), 3132 (Bh.),
+3133 (Bh.), 3137 (Bhs.), 3139 (Bhs.), 3140 (Bhs.); {@62@}<lang n="greek">ζζζ</lang>,
+3149 (Bhs.), 3175 (Bh.); {@63@}, 3178 (Bhs.), 3201 (Bhs.),
+3201 (Bh.), 3202 (Bhs.), 3205 (Bh.), 3211 (Bhs.), 3213
+(Bh.); {@65@}, †3287 (Bh.), (3288) (Bhs.), †3291 (Bh.), (†3292)
+(Bhs.), †3294 (Bhs.), †3295 (Bhs.), 3299 (Bh.), 3301 (Bhs.);
+{@66@}, 3322 (Bhs.); {@67@}, †3378 (Bh.); {@68@}, †3381 (Bh.), †3382
+(Bh.), †3383 (Bhs.); {@69@}, 3405 (Bhs.), †3476 (Bh.), †3485
+(Bh.); {@70@}, †3493 (Bh.), †3498 (Bhs.), †3499 (Bh.), †3502
+(Bh.), †3532 (Bh.), †3537 (Bhs.), †3538 (Bh.); {@71@}, 3573
+(Bh.); {@73@}, 3651 (Bh.), 3659 (Bh.), 3660 (Bh.), 3745 (Bh.);
+{@74@}, 3796 (Bh.), †3803 (Bh.); {@75@}, †3815 (Bh.), [†3820]
+(Bh.), †3822 (Bhs.); {@76@}, †3823 (Bh.), †3824 (Bh.), †3825
+(Bh.), †3826 (Bh.), †3827 (Bh.), †3830 (Bhs.), †3839 (Bh.),
+(†3839) (Bhs.), †3840 (Bhs.), †3841 (Bhs.), †3848 (Bh.),
+(†3860) (Bhs.); {@77@}, 3862 (Bh.), 3883 (Bhs.), 3884 (Bhs.),
+3885 (Bh.), 3887 (Bh.), 3889 (Bhs.), 3892 (Bh.), 3897 (Bh.),
+3899 (Bh.), 3907 (Bhs.), 3908 (Bhs.), 3910 (Bh.), 3911
+(Bh.), 3913 (Bh.), 3915 (Bh.), 3918 (Bh.), 3919 (Bhs.), 3920
+(Bh.), 3922 (Bhs.), 3928 (Bh.), 3931 (Bhs.), 3932 (Bh.),
+3935 (Bh.), 3936 (Bh.); {@78@}, 3940 (Bhs.), 3946 (Bhs.), 3947
+(Bh.), 3948 (Bhs.); <lang n="greek">γ</lang>, 3955 (Bh.), 3959 (Bhs.), 3962 (Bhs.),
+4003 (Bh.); {@79@}, 4010 (Bhs.); {@80@}, 4091 (Bh.), 4111 (Bhs.),
+4113 (Bh.), 4114 (Bhs.); {@81@}, 4143 (Bhs.), 4145 (Bh.), 4146
+(Bh.), 4152 (Bh.), 4153 (Bh.), 4155 (Bh.), 4157 (Bhs.), 4168
+(Bhs.); {@82@}, †4193 (Bhs.), †4209 (Bh.), †4213 (Bh.), †4214
+(Bh.); {@83@}, †4216 (Bh.), †4217 (Bh.), †4217 (Bhs.), †4218
+(Bhs.), †4220 (Bh.), †4221 (Bh.), †4223 (Bh.), †4224 (Bhs.),
+†4228 (Bh.), †4236 (Bh.), †4239 (Bh.), †4240 (Bhs.), †4242
+(Bh.), †4243 (Bh.), 4248 (Bh.), †4258 (Bhs.); {@84@}, 4262 (Bh.),
+4264 (Bhs.), 4265 (Bh.), 4268 (Bh.), 4270 (Bhs.), 4290 (Bh.),
 [Page132-a+ 63]
-<div n="lb">†4297 (Bhs.), †4298 (Bhs.), †4301 (Bh.); {@85,@} †4329 (Bh.),
-<div n="lb">†4341 (Bhs.); {@89,@} †4559 (Bh.), †4572 (Bh.), †4576 (Bh.),
-<div n="lb">†4585 (Bh.); {@91,@} 4752 (Bhs.); {@92,@} †4824 (Bh.); {@93,@} 4848
-<div n="lb">(Bhs.), 4854 (Bhs.), 4855 (Bhs.), 4856 (Bh.), 4860 (Bhs.),
-<div n="lb">4861 (Bh.), 4862 (Bh.), 4870 (Bhs.), 4891 (Bhs.).—§ 609
-<div n="lb">(Śalyap.): IX, {@1,@} 12 (Bhs.); {@2,@} 105 (Bhs.).—§ 610 (do.):
-<div n="lb">IX, {@3,@} 140 (Bhs.), 146 (Bhs.), 147 (Bhs.), 148 (Bh.), 152
-<div n="lb">(Bh.), 152 (Bhs.), 153 (Bh.), 154 (Bh.), 161 (Bhs.), 181
-<div n="lb">(Bhs.); {@4,@} 203 (Bh.), 223 (Bhs.), 234 (Bhs.); {@5,@} 252 (Bhs.);
-<div n="lb">{@7,@} 351 (Bh.).—§ 611 (do.): IX, {@8,@} 381 (Bhs.), 399 (Bhs.);
-<div n="lb">{@9,@} 448 (Bhs.), 450 (Bhs.); {@10,@} 516 (Bhs.); {@11<lang n="greek"></lang>,@} 549 (Bhs.),
-<div n="lb">565 (Bhs.), 569 (Bh.), 573 (Bhs.), 577 (Bh.), 591 (Bhs.);
-<div n="lb">{@12,@} 595 (Bh.), 598 (Bhs.), 603 (Bh.), 604 (Bh.), 605 (Bh.),
-<div n="lb">608 (Bhs.), 609 (Bh.), 618 (Bhs.), 646 (Bhs.), 652 (Bhs.);
-<div n="lb">{@13,@} 656 (Bhs.), 659 (Bhs.), 663 (Bhs.), 667 (Bhs.), 675
-<div n="lb">(Bhs.), 676 (Bhs.), 679 (Bh.), 687 (Bhs.), 703 (Bhs.); {@15,@}
-<div n="lb">768 (Bhs.), 770 (Bhs.), 775 (Bhs.), 779 (Bhs.); {@16,@} 798
-<div n="lb">(Bh.), 802 (Bhs.), 806 (Bh.), 820 (Bh.), 831 (Bh.), 834 (Bh.),
-<div n="lb">835 (Bhs.); {@17<lang n="greek"></lang>,@} 866 (Bhs.), †871 (Bhs.), †873 (Bhs.), †886
-<div n="lb">(Bh.), †889 (Bhs.), †890 (Bhs.), †891 (Bh.), †892 (Bh.), †892
-<div n="lb">(Bhs.), †895 (Bh.), †896 (Bh.), †898 (Bh.); {@18<lang n="greek"></lang>,@} 961 (Bh.);
-<div n="lb">{@19,@} 1016 (Bh.), 1017 (Bh.), 1017 (Bhs.), 1020 (Bhs.), 1027
-<div n="lb">(Bhs.), 1037 (Bhs.), 1038 (Bh.), 1039 (Bhs.), 1040 (Bh.),
-<div n="lb">1042 (Bh.), 1045 (Bh.), 1058 (Bhs.); {@20<lang n="greek"></lang>,@} †1084 (Bh.);
-<div n="lb">{@22<lang n="greek"></lang>,@} 1138 (Bhs.), 1144 (Bhs.), 1149 (Bhs.); {@24,@} 1302
-<div n="lb">(Bhs.); {@25,@} 1367 (Bhs.), 1370 (Bhs.), 1371 (Bhs.), 1395
-<div n="lb">(Bhs.), 1397 (Bhs.); {@26,@} 1401 (Bhs.), 1404 (Bhs.), 1407
-<div n="lb">(Bh.), 1407 (Bhs.), 1408 (Bh.), 1409 (Bh.), 1409 (Bhs.),
-<div n="lb">1411 (Bh.), 1413 (Bh.), 1414 (Bh.), 1420 (Bh.), 1421 (Bh.),
-<div n="lb">1424 (Bhs.), 1427 (Bhs.), 1428 (Bh.), 1429 (Bh.), 1434
-<div n="lb">(Bhs.), 1435 (Bhs.), 1436 (Bh.), 1439 (Bhs.); {@27,@} 1455
-<div n="lb">(Bh.); <lang n="greek"></lang>, 1471 (Bhs.), 1473 (Bhs.), 1491 (Bh.), 1494 (Bh.),
-<div n="lb">1495 (Bh.), 1496 (Bh.); {@28,@} 1503 (Bh.), 1506 (Bh.), 1517
-<div n="lb">(Bhs.), 1527 (Bhs.), 1528 (Bh.), 1529 (Bhs.), 1530 (Bh.).—
-<div n="lb">§ 612 (Hradapraveśap.): IX, {@29,@} 1568 (Bhs.), 1643 (Bhs.),
-<div n="lb">1651 (Bhs.); {@30,@} 1697 (Bhs.), 1706 (Bhs.), 1714 (Bhs.),
-<div n="lb">1715 (Bhs.), 1718 (Bhs.); <lang n="greek"></lang>, 1725 (Bhs.).—§ 613 (Gadā-
-<div n="lb">yuddhap.): IX, {@32,@} 1882 (Bh.); {@33<lang n="greek"></lang>,@} 1893 (Bhs.), 1896
-<div n="lb">(Bh.), 1900 (Bh.), (1905) (Bhs.), 1918 (Bh.), 1918 (Bhs.),
-<div n="lb">1930 (Bhs.).—§ 614 (do.): IX, {@34,@} 1957 (Bhs.).—§ 615
-<div n="lb">(Baladevatīrthay.): IX, {@54,@} 3068 (Bh.).—§ 615 (Gadā-
-<div n="lb">yuddhap.): {@55,@} 3078 (Bh.), 3095 (Bh.), 3097 (Bh.), 3101
-<div n="lb">(Bhs.), 3102 (Bh.), 3122 (Bh.); {@56,@} 3135 (Bh.), 3157
-<div n="lb">(Bhs.); {@57,@} 3175 (Bhs.), 3187 (Bhs.), 3191 (Bhs.), 3200
-<div n="lb">(Bh.), 3200 (Bhs.), 3201 (Bh.), 3203 (Bhs.), 3206 (Bh.),
-<div n="lb">3207 (Bhs.), 3212 (Bh.), 3213 (Bh.), 3215 (Bhs.), 3218
-<div n="lb">(Bh.), 3220 (Bh.), 3221 (Bh.), 3222 (Bh.), 3224 (Bh.), 3224
-<div n="lb">(Bhs.), 3225 (Bh.), 3228 (Bh.), 3230 (Bhs.), 3234 (Bhs.),
-<div n="lb">3235 (Bh.), 3235 (Bhs.), †3239 (Bhs.), †3242 (Bh.); {@58,@}
-<div n="lb">3248 (Bh.), 3249 (Bhs.), 3251 (Bh.), 3252 (Bh.), 3264
-<div n="lb">(Bhs.), 3266 (Bhs.), 3267 (Bh.), 3269 (Bhs.), 3272 (Bh.),
-<div n="lb">3283 (Bhs.), 3285 (Bh.), 3287 (Bhs.), 3290 (Bhs.), 3293
-<div n="lb">(Bhs.); {@59,@} 3311 (Bhs.), 3314 (Bh.), †3321 (Bhs.), 3326
-<div n="lb">(Bh.), 3329 (Bhs.), 3330 (Bhs.); {@60,@} 3344 (Bhs.), 3345
-<div n="lb">(Bh.), 3348 (Bh.), 3356 (Bh.), 3357 (Bh.), 3362 (Bhs.), 3373
-<div n="lb">(Bh.), 3376 (Bhs.), 3379 (Bh.), 3380 (Bhs.); {@61,@} 3388
-<div n="lb">(Bhs.), 3389 (Bhs.), 3393 (Bhs.), 3401 (Bh.), 3404 (Bhs.),
-<div n="lb">3415 (Bh.), 3430 (Bhs.); {@62,@} 3480 (Bhs.); {@63,@} 3510 (Bhs.);
-<div n="lb">{@64,@} 3592 (Bhs.), 3597 (Bhs.), 3612 (Bhs.).—§ 616
-<div n="lb">(Sauptikap.): X, {@1,@} 7 (Bh.), 15 (Bh.); {@1,@} 60 (Bhs.); {@5,@} 198
-<div n="lb">(Bh.), 199 (Bhs.); {@9,@} 499 (Bhs.), 500 (Bhs.), 502 (Bhs.).—
-<div n="lb">§ 617 (Aiṣīkap.): {@10,@} 550<lang n="greek"></lang> (Bhs.); {@11,@} 582 (Bhs.), 595
-<div n="lb">(Bh.), 595 (Bhs.), 601 (Kaunteya, Bhs.); {@12,@} 608 (Bh.);
+†4297 (Bhs.), †4298 (Bhs.), †4301 (Bh.); {@85@}, †4329 (Bh.),
+†4341 (Bhs.); {@89@}, †4559 (Bh.), †4572 (Bh.), †4576 (Bh.),
+†4585 (Bh.); {@91@}, 4752 (Bhs.); {@92@}, †4824 (Bh.); {@93@}, 4848
+(Bhs.), 4854 (Bhs.), 4855 (Bhs.), 4856 (Bh.), 4860 (Bhs.),
+4861 (Bh.), 4862 (Bh.), 4870 (Bhs.), 4891 (Bhs.).—§ 609
+(Śalyap.): IX, {@1@}, 12 (Bhs.); {@2@}, 105 (Bhs.).—§ 610 (do.):
+IX, {@3@}, 140 (Bhs.), 146 (Bhs.), 147 (Bhs.), 148 (Bh.), 152
+(Bh.), 152 (Bhs.), 153 (Bh.), 154 (Bh.), 161 (Bhs.), 181
+(Bhs.); {@4@}, 203 (Bh.), 223 (Bhs.), 234 (Bhs.); {@5@}, 252 (Bhs.);
+{@7@}, 351 (Bh.).—§ 611 (do.): IX, {@8@}, 381 (Bhs.), 399 (Bhs.);
+{@9@}, 448 (Bhs.), 450 (Bhs.); {@10@}, 516 (Bhs.); {@11@}<lang n="greek">λ</lang>, 549 (Bhs.),
+565 (Bhs.), 569 (Bh.), 573 (Bhs.), 577 (Bh.), 591 (Bhs.);
+{@12@}, 595 (Bh.), 598 (Bhs.), 603 (Bh.), 604 (Bh.), 605 (Bh.),
+608 (Bhs.), 609 (Bh.), 618 (Bhs.), 646 (Bhs.), 652 (Bhs.);
+{@13@}, 656 (Bhs.), 659 (Bhs.), 663 (Bhs.), 667 (Bhs.), 675
+(Bhs.), 676 (Bhs.), 679 (Bh.), 687 (Bhs.), 703 (Bhs.); {@15@},
+768 (Bhs.), 770 (Bhs.), 775 (Bhs.), 779 (Bhs.); {@16@}, 798
+(Bh.), 802 (Bhs.), 806 (Bh.), 820 (Bh.), 831 (Bh.), 834 (Bh.),
+835 (Bhs.); {@17@}<lang n="greek">χ</lang>, 866 (Bhs.), †871 (Bhs.), †873 (Bhs.), †886
+(Bh.), †889 (Bhs.), †890 (Bhs.), †891 (Bh.), †892 (Bh.), †892
+(Bhs.), †895 (Bh.), †896 (Bh.), †898 (Bh.); {@18@}<lang n="greek">ββ</lang>, 961 (Bh.);
+{@19@}, 1016 (Bh.), 1017 (Bh.), 1017 (Bhs.), 1020 (Bhs.), 1027
+(Bhs.), 1037 (Bhs.), 1038 (Bh.), 1039 (Bhs.), 1040 (Bh.),
+1042 (Bh.), 1045 (Bh.), 1058 (Bhs.); {@20@}<lang n="greek">θθ</lang>, †1084 (Bh.);
+{@22@}<lang n="greek">λλ</lang>, 1138 (Bhs.), 1144 (Bhs.), 1149 (Bhs.); {@24@}, 1302
+(Bhs.); {@25@}, 1367 (Bhs.), 1370 (Bhs.), 1371 (Bhs.), 1395
+(Bhs.), 1397 (Bhs.); {@26@}, 1401 (Bhs.), 1404 (Bhs.), 1407
+(Bh.), 1407 (Bhs.), 1408 (Bh.), 1409 (Bh.), 1409 (Bhs.),
+1411 (Bh.), 1413 (Bh.), 1414 (Bh.), 1420 (Bh.), 1421 (Bh.),
+1424 (Bhs.), 1427 (Bhs.), 1428 (Bh.), 1429 (Bh.), 1434
+(Bhs.), 1435 (Bhs.), 1436 (Bh.), 1439 (Bhs.); {@27@}, 1455
+(Bh.); <lang n="greek">ϕϕ</lang>, 1471 (Bhs.), 1473 (Bhs.), 1491 (Bh.), 1494 (Bh.),
+1495 (Bh.), 1496 (Bh.); {@28@}, 1503 (Bh.), 1506 (Bh.), 1517
+(Bhs.), 1527 (Bhs.), 1528 (Bh.), 1529 (Bhs.), 1530 (Bh.).—
+§ 612 (Hradapraveśap.): IX, {@29@}, 1568 (Bhs.), 1643 (Bhs.),
+1651 (Bhs.); {@30@}, 1697 (Bhs.), 1706 (Bhs.), 1714 (Bhs.),
+1715 (Bhs.), 1718 (Bhs.); <lang n="greek">ε</lang>, 1725 (Bhs.).—§ 613 (Gadā-
+yuddhap.): IX, {@32@}, 1882 (Bh.); {@33@}<lang n="greek">ε</lang>, 1893 (Bhs.), 1896
+(Bh.), 1900 (Bh.), (1905) (Bhs.), 1918 (Bh.), 1918 (Bhs.),
+1930 (Bhs.).—§ 614 (do.): IX, {@34@}, 1957 (Bhs.).—§ 615
+(Baladevatīrthay.): IX, {@54@}, 3068 (Bh.).—§ 615 (Gadā-
+yuddhap.): {@55@}, 3078 (Bh.), 3095 (Bh.), 3097 (Bh.), 3101
+(Bhs.), 3102 (Bh.), 3122 (Bh.); {@56@}, 3135 (Bh.), 3157
+(Bhs.); {@57@}, 3175 (Bhs.), 3187 (Bhs.), 3191 (Bhs.), 3200
+(Bh.), 3200 (Bhs.), 3201 (Bh.), 3203 (Bhs.), 3206 (Bh.),
+3207 (Bhs.), 3212 (Bh.), 3213 (Bh.), 3215 (Bhs.), 3218
+(Bh.), 3220 (Bh.), 3221 (Bh.), 3222 (Bh.), 3224 (Bh.), 3224
+(Bhs.), 3225 (Bh.), 3228 (Bh.), 3230 (Bhs.), 3234 (Bhs.),
+3235 (Bh.), 3235 (Bhs.), †3239 (Bhs.), †3242 (Bh.); {@58@},
+3248 (Bh.), 3249 (Bhs.), 3251 (Bh.), 3252 (Bh.), 3264
+(Bhs.), 3266 (Bhs.), 3267 (Bh.), 3269 (Bhs.), 3272 (Bh.),
+3283 (Bhs.), 3285 (Bh.), 3287 (Bhs.), 3290 (Bhs.), 3293
+(Bhs.); {@59@}, 3311 (Bhs.), 3314 (Bh.), †3321 (Bhs.), 3326
+(Bh.), 3329 (Bhs.), 3330 (Bhs.); {@60@}, 3344 (Bhs.), 3345
+(Bh.), 3348 (Bh.), 3356 (Bh.), 3357 (Bh.), 3362 (Bhs.), 3373
+(Bh.), 3376 (Bhs.), 3379 (Bh.), 3380 (Bhs.); {@61@}, 3388
+(Bhs.), 3389 (Bhs.), 3393 (Bhs.), 3401 (Bh.), 3404 (Bhs.),
+3415 (Bh.), 3430 (Bhs.); {@62@}, 3480 (Bhs.); {@63@}, 3510 (Bhs.);
+{@64@}, 3592 (Bhs.), 3597 (Bhs.), 3612 (Bhs.).—§ 616
+(Sauptikap.): X, {@1@}, 7 (Bh.), 15 (Bh.); {@1@}, 60 (Bhs.); {@5@}, 198
+(Bh.), 199 (Bhs.); {@9@}, 499 (Bhs.), 500 (Bhs.), 502 (Bhs.).—
+§ 617 (Aiṣīkap.): {@10@}, 550<lang n="greek">α</lang> (Bhs.); {@11@}, 582 (Bhs.), 595
+(Bh.), 595 (Bhs.), 601 (Kaunteya, Bhs.); {@12@}, 608 (Bh.);
 [Page132-b+ 61]
-<div n="lb">{@13,@} 657 (Bhs.), 663 (Bhs.); {@15,@} 699 (Bhs.), 700 (Bhs.);
-<div n="lb">{@16,@} 748 (Bhs.).—§ 618 (Jalapradānikap.): XI, {@11,@} 299
-<div n="lb">(Bhs.); {@12,@} 325 (Bh.), 326 (Bhs. {%°mayaṃ dāvaṃ%}), 327 (Bh.),
-<div n="lb">329 (Bhs.), 330 (Bh.), 333 (Bh.), 334 (Bhs.), 335 (Bh.),
-<div n="lb">339 (Bh.), 340 (Bhs.); {@13,@} 351 (Bh.), 352 (Bhs.), 356 (Bh.),
-<div n="lb">359<lang n="greek"></lang> (Bh.); {@14,@} 378 (Bh.); {@15,@} 381<lang n="greek"></lang> (Bhs.), 395 (Bhs.).—
-<div n="lb">§ 619 (Strīvilāpap.): {@17,@} 502 (Bhs.), 503 (Bhs.), 505 (Bhs.);
-<div n="lb">{@18,@} 519<lang n="greek"></lang> (Bhs.), 537 (Bh.), 538 (Bhs.), 543 (Bhs.), 545
-<div n="lb">(Bhs.), 546 (Bhs.); {@20,@} 547 (Bh.); {@22,@} 617<lang n="greek"></lang> (Bhs.).—
-<div n="lb">§ 621 (Rājadh.): XII, {@1,@} 13<lang n="greek"></lang> (Bh.), 26 (Bh.); {@2,@} 51 (Bhs.);
-<div n="lb">{@10,@} 277 (Bhs.).—§ 623 (do.): {@16,@} 482<lang n="greek"></lang> (Bhs.).—§ 635 (do.):
-<div n="lb">{@33,@} 1175 (Bh.); {@37,@} 1377 (Bh. Kaunteya); {@38,@} 1396<lang n="greek"></lang>
-<div n="lb">(Bhs.).—§ 637 (do.): {@40,@} 1445 (Bhs.), 1464 (Bhs., Pāṇḍ.);
-<div n="lb">{@41<lang n="greek"></lang>,@} 1475 (Bhs. {%Kaunteyaṃ%}); {@44,@} 1517 (Bh.); {@47,@} 1695
-<div n="lb">(Bhs.).—§ 639 (do.): {@53<lang n="greek"></lang>,@} 1914 (Bh.); <lang n="greek"></lang>, 1921 (Bh.).—
-<div n="lb">§ 640 (do.): {@54,@} 1929<lang n="greek"></lang> (Bh.).—§ 657 (Āpaddh.): {@167,@}
-<div n="lb">6238 (Bhs.), †6252 (Bh.), 6239 (Bhs.).—§ 730 (Ānuśāsan.):
-<div n="lb">XIII, {@15,@} 1033 (Bh. {%°pūrvaja,%} i.e. Yudh.).—§ 777 (Svar-
-<div n="lb">gārohaṇikap.): {@169,@} 7771<lang n="greek"></lang> (Bhs.).—§ 778 (Āśvamedhikap.):
-<div n="lb">XIV, {@1,@} 3 (Bh.).—§ 780 (do.): {@14,@} 356<lang n="greek"></lang> (Bh.); {@15,@} 384<lang n="greek"></lang>
-<div n="lb">(Bhs.), 389 (Bh.).—§ 783 (Anugītāp.): {@52,@} 1504<lang n="greek"></lang> (Bhs.),
-<div n="lb">1508 (Bh.), 1524 (Bh.), †1533 (Bh.).—§ 785 (do.): {@60,@} 1787
-<div n="lb">(Bh.), 1799 (Bhs.), 1802 (Bhs.); {@61,@} 1845 (Bh.); {@63,@} 1874
-<div n="lb">(Bhs.), 1880 (Bh.), 1881 (Bhs.), 1886 (Bh.); {@66,@} 1954<lang n="greek"></lang>
-<div n="lb">(Bh.); {@67,@} 1967 (Bhs.), 1969 (Bhs.); {@68,@} 1997<lang n="greek"></lang> (Bhs.);
-<div n="lb">{@71<lang n="greek"></lang>,@} 2081 (Bhs.); {@72,@} 2097 ({%Bhīmasenād avarajaḥ,%} i.e.
-<div n="lb">Arjuna), 2102 (Bhs.), 2108 (Bh.); {@77,@} 2223 ({%Bhīmasenād%}
-<div n="lb">{%anantarād,%} i.e. Arjuna); {@85<lang n="greek"></lang>,@} 2514 (Bh.), 2515 (Bh.), 2516
-<div n="lb">(Bhs.), 2519 (Bh.), 2520 (Bhs.), 2526 (Bhs.), 2537 (Bhs.);
-<div n="lb">{@86,@} 2553 (Bhs.), 2555 (Bhs.), 2558 (Bh.); {@87,@} 2586 (Bh.),
-<lang n="greek"></lang>, 2598 (Bh.); {@88<lang n="greek"></lang>,@} 2608 (Bh.), 2612 (Bh.), 2627 (Bhs.),
-<div n="lb">2632 (Bh.); {@91,@} 2814 (Bh.).—§ 787 (Āśramavāsik.): XV,
-<div n="lb">{@1,@} 27 (Bh.); {@2,@} 35 (Bh.), 57 (Bh.); {@3,@} 61 (Bh.), 62 (Bhs.),
-<div n="lb">64 (Bh.), 66 (Bh.), 72 (Bh.), 124 (Bhs.); {@10,@} 333<lang n="greek"></lang> (Bh.),
-<div n="lb">346 (Bh.); {@11,@} 362 (Bh.), 363 (Bhs.), 364 (Bh.), 371 (Bhs.);
-<div n="lb">{@12,@} 382 (Bh.), 386 (Bh.), 387—8 (Bhs.), 389 (Bh.), 391
-<div n="lb">(Bh.); {@13,@} 399 (Bh.), 401 (Bh.); {@16,@} 455<lang n="greek"></lang> (Bhs.), 465
-<div n="lb">(Bh.); {@17,@} 479 (Bh.), 480 (Bhs.), 483 (Bh.), 494 (Bhs.).—
-<div n="lb">§ 788 (do.): {@24,@} 646<lang n="greek"></lang> (Bhs.); {@25,@} 658 (Bh.); {@26,@} 710
-<div n="lb">(Bhs.); {@27,@} 733 (Bhs.); {@28<lang n="greek"></lang>,@} 737 (Bhs.), 747 (Bh.).—§ 789
-<div n="lb">(Putradarśanap.): {@31<lang n="greek"></lang>,@} 853 {%(Marudgaṇād Bhīmasenaṃ).%}—
-<div n="lb">§ 791 (do.): {@36,@} 1003<lang n="greek"></lang> (Bh.).—§ 792 (Nāradāgamanap.):
-<div n="lb">XV, {@37,@} 1053 (Bhs.); {@38,@} 1066 (Bh.), 1073 (Bh.).—§ 793
-<div n="lb">(Mausalap.): XVI, {@7,@} 179<lang n="greek"></lang> (Bhs.); {@8,@} 284 (Bh.).—§ 794
-<div n="lb">(Mahāprasthānikap.): XVIII, {@1,@} 5 (Bhs.), 20 (Bh.), 31 (Bh.),
-<div n="lb">37<lang n="greek"></lang> (Bhs.); {@2,@} 50 (Bhs.), 54 (Bh.), 59 (Bh.), 61 (Bhs.),
-<div n="lb">65 (Bh.), 69 (Bh.); {@3,@} 92 (Bh.).—§ 795 (Svargārohaṇap.):
-<div n="lb">XVIII, {@2,@} 36 (Bh.), 66<lang n="greek"></lang> (Bhs.); {@3<lang n="greek"></lang>,@} 96 (Bh.), 118 (Bh.);
-<div n="lb">{@4<lang n="greek"></lang>,@} 131 {%(Bhīmasenaṃ Marudgaṇavṛtaṃ).%}
+{@13@}, 657 (Bhs.), 663 (Bhs.); {@15@}, 699 (Bhs.), 700 (Bhs.);
+{@16@}, 748 (Bhs.).—§ 618 (Jalapradānikap.): XI, {@11@}, 299
+(Bhs.); {@12@}, 325 (Bh.), 326 (Bhs. {%°mayaṃ dāvaṃ%}), 327 (Bh.),
+329 (Bhs.), 330 (Bh.), 333 (Bh.), 334 (Bhs.), 335 (Bh.),
+339 (Bh.), 340 (Bhs.); {@13@}, 351 (Bh.), 352 (Bhs.), 356 (Bh.),
+359<lang n="greek">ν</lang> (Bh.); {@14@}, 378 (Bh.); {@15@}, 381<lang n="greek">ο</lang> (Bhs.), 395 (Bhs.).—
+§ 619 (Strīvilāpap.): {@17@}, 502 (Bhs.), 503 (Bhs.), 505 (Bhs.);
+{@18@}, 519<lang n="greek">γ</lang> (Bhs.), 537 (Bh.), 538 (Bhs.), 543 (Bhs.), 545
+(Bhs.), 546 (Bhs.); {@20@}, 547 (Bh.); {@22@}, 617<lang n="greek">η</lang> (Bhs.).—
+§ 621 (Rājadh.): XII, {@1@}, 13<lang n="greek">γ</lang> (Bh.), 26 (Bh.); {@2@}, 51 (Bhs.);
+{@10@}, 277 (Bhs.).—§ 623 (do.): {@16@}, 482<lang n="greek">ν</lang> (Bhs.).—§ 635 (do.):
+{@33@}, 1175 (Bh.); {@37@}, 1377 (Bh. Kaunteya); {@38@}, 1396<lang n="greek">ε</lang>
+(Bhs.).—§ 637 (do.): {@40@}, 1445 (Bhs.), 1464 (Bhs., Pāṇḍ.);
+{@41@}<lang n="greek">β</lang>, 1475 (Bhs. {%Kaunteyaṃ%}); {@44@}, 1517 (Bh.); {@47@}, 1695
+(Bhs.).—§ 639 (do.): {@53@}<lang n="greek">ζ</lang>, 1914 (Bh.); <lang n="greek">θ</lang>, 1921 (Bh.).—
+§ 640 (do.): {@54@}, 1929<lang n="greek">α</lang> (Bh.).—§ 657 (Āpaddh.): {@167@},
+6238 (Bhs.), †6252 (Bh.), 6239 (Bhs.).—§ 730 (Ānuśāsan.):
+XIII, {@15@}, 1033 (Bh. {%°pūrvaja%}, i.e. Yudh.).—§ 777 (Svar-
+gārohaṇikap.): {@169@}, 7771<lang n="greek">α</lang> (Bhs.).—§ 778 (Āśvamedhikap.):
+XIV, {@1@}, 3 (Bh.).—§ 780 (do.): {@14@}, 356<lang n="greek">β</lang> (Bh.); {@15@}, 384<lang n="greek">α</lang>
+(Bhs.), 389 (Bh.).—§ 783 (Anugītāp.): {@52@}, 1504<lang n="greek">ν</lang> (Bhs.),
+1508 (Bh.), 1524 (Bh.), †1533 (Bh.).—§ 785 (do.): {@60@}, 1787
+(Bh.), 1799 (Bhs.), 1802 (Bhs.); {@61@}, 1845 (Bh.); {@63@}, 1874
+(Bhs.), 1880 (Bh.), 1881 (Bhs.), 1886 (Bh.); {@66@}, 1954<lang n="greek">μ</lang>
+(Bh.); {@67@}, 1967 (Bhs.), 1969 (Bhs.); {@68@}, 1997<lang n="greek">ξ</lang> (Bhs.);
+{@71@}<lang n="greek">ρ</lang>, 2081 (Bhs.); {@72@}, 2097 ({%Bhīmasenād avarajaḥ%}, i.e.
+Arjuna), 2102 (Bhs.), 2108 (Bh.); {@77@}, 2223 ({%Bhīmasenād%}
+{%anantarād%}, i.e. Arjuna); {@85@}<lang n="greek">δ</lang>, 2514 (Bh.), 2515 (Bh.), 2516
+(Bhs.), 2519 (Bh.), 2520 (Bhs.), 2526 (Bhs.), 2537 (Bhs.);
+{@86@}, 2553 (Bhs.), 2555 (Bhs.), 2558 (Bh.); {@87@}, 2586 (Bh.),
+<lang n="greek">υ</lang>, 2598 (Bh.); {@88@}<lang n="greek">χ</lang>, 2608 (Bh.), 2612 (Bh.), 2627 (Bhs.),
+2632 (Bh.); {@91@}, 2814 (Bh.).—§ 787 (Āśramavāsik.): XV,
+{@1@}, 27 (Bh.); {@2@}, 35 (Bh.), 57 (Bh.); {@3@}, 61 (Bh.), 62 (Bhs.),
+64 (Bh.), 66 (Bh.), 72 (Bh.), 124 (Bhs.); {@10@}, 333<lang n="greek">ν</lang> (Bh.),
+346 (Bh.); {@11@}, 362 (Bh.), 363 (Bhs.), 364 (Bh.), 371 (Bhs.);
+{@12@}, 382 (Bh.), 386 (Bh.), 387—8 (Bhs.), 389 (Bh.), 391
+(Bh.); {@13@}, 399 (Bh.), 401 (Bh.); {@16@}, 455<lang n="greek">ϕ</lang> (Bhs.), 465
+(Bh.); {@17@}, 479 (Bh.), 480 (Bhs.), 483 (Bh.), 494 (Bhs.).—
+§ 788 (do.): {@24@}, 646<lang n="greek">β</lang> (Bhs.); {@25@}, 658 (Bh.); {@26@}, 710
+(Bhs.); {@27@}, 733 (Bhs.); {@28@}<lang n="greek">ε</lang>, 737 (Bhs.), 747 (Bh.).—§ 789
+(Putradarśanap.): {@31@}<lang n="greek">η</lang>, 853 ({%Marudgaṇād Bhīmasenaṃ%}).—
+§ 791 (do.): {@36@}, 1003<lang n="greek">β</lang> (Bh.).—§ 792 (Nāradāgamanap.):
+XV, {@37@}, 1053 (Bhs.); {@38@}, 1066 (Bh.), 1073 (Bh.).—§ 793
+(Mausalap.): XVI, {@7@}, 179<lang n="greek">λ</lang> (Bhs.); {@8@}, 284 (Bh.).—§ 794
+(Mahāprasthānikap.): XVIII, {@1@}, 5 (Bhs.), 20 (Bh.), 31 (Bh.),
+37<lang n="greek">α</lang> (Bhs.); {@2@}, 50 (Bhs.), 54 (Bh.), 59 (Bh.), 61 (Bhs.),
+65 (Bh.), 69 (Bh.); {@3@}, 92 (Bh.).—§ 795 (Svargārohaṇap.):
+XVIII, {@2@}, 36 (Bh.), 66<lang n="greek">ε</lang> (Bhs.); {@3@}<lang n="greek">η</lang>, 96 (Bh.), 118 (Bh.);
+{@4@}<lang n="greek">κ</lang>, 131 ({%Bhīmasenaṃ Marudgaṇavṛtaṃ%}).
 <div n="P">Cf. also the following synonyms:
 <div n="P">{@Acyutānuja@} (“younger brother of Yudhiṣṭhira”):
-<div n="lb">IV, 236.
+IV, 236.
 <div n="P">{@Anilātmaja@} (“son of the wind”): VI, 5279; VII, 1138.
 <div n="P">{@Arjunāgraja@} (“elder brother of Arjuna”): I, 5472.
 <div n="P">{@Arjunapūrvaja@} (do.): VI, 4356.
 <div n="P">{@Ballava@} (q.v.).
-<div n="P">{@Bhīmadhanvan:@} X, 663.
-<div n="P">{@Jaya:@} VII, 5159 ({%pradeśitajayo Jayaḥ%} (B. {%Dayaḥ%})
-<div n="lb">{%Bhīmasenaḥ…%}).
-<div n="P">{@Kaunteya,@} etc. (q.v.).
-<div n="P">{@Kaurava,@} etc., {@Kuruśārdūla,@} etc. (q.v.).
+<div n="P">{@Bhīmadhanvan@}: X, 663.
+<div n="P">{@Jaya@}: VII, 5159 ({%pradeśitajayo Jayaḥ%} (B. {%Dayaḥ%})
+{%Bhīmasenaḥ…%}).
+<div n="P">{@Kaunteya@}, etc. (q.v.).
+<div n="P">{@Kaurava@}, etc., {@Kuruśārdūla@}, etc. (q.v.).
 [Page133-a+ 62]
 <div n="P">{@Mārutātmaja@} (“son of the wind”): IX, 3245
-<div n="lb">{%(Vṛkodaṛaḥ).%}
+({%Vṛkodaṛaḥ%}).
 <div n="P">{@Māruti@} (do.): VII, 4509; VIII, 2500, 3051, †4302.
-<div n="P">{@Pāṇḍava,@} etc. (q.v.).
-<div n="P">{@Pārtha,@} etc. (q.v.).
+<div n="P">{@Pāṇḍava@}, etc. (q.v.).
+<div n="P">{@Pārtha@}, etc. (q.v.).
 <div n="P">{@Pavanātmaja@} (“son of the wind”): III, 11275;
-<div n="lb">XV, 626.
+XV, 626.
 <div n="P">{@Prabhañjanasuta@} (do.): VII, 6268.
 <div n="P">{@Rākṣasakaṇṭaka@} (“thorn of the Rākṣasas”):
-<div n="lb">III, 420.
+III, 420.
 <div n="P">{@Samīraṇasya sutaḥ@} (“son of the wind”): III, †14755.
 <div n="P">{@Vāyuputra@} (do.): V, 3707.
 <div n="P">{@Vāyusuta@} (do.): III, 11116.
-<div n="P">{@Vṛkodara@} (“wolf's belly”): I, 455 {%(Jaṭāsurasya ca%}
-<div n="lb">{%vadho rākṣasasya Vṛkodarāt),%} 483 {%(duṣṭātmano vadho yatra%}
-<div n="lb">{%Kīvakasya Vṛkodaṛāt),%} 547, 2240, 2257, 2288, 2444 {%(Mārutāc%}
-<div n="lb">{%ca Vṛkodaraḥ…jajñe),%} ††3827 ({%Sutasomaṃ Vṛkodaraḥ,%}
-<div n="lb">sc. {%utpādayām āsa%}), 4773, 4777, 4981, 4987, 4990, 4991, 5036,
-<div n="lb">5040, 5343, 5428, 5473, 5840, 5923, 6035, 6039, 6252, 6256,
-<div n="lb">6257, 6291, 7107, 7117, 7139, 7408, 8039 {%(Sutasomaṃ%}
-<div n="lb">{%Vṛkodarāt Pañcālī suṣuve);%} II, 782, 924, 1810, 1811,
-<div n="lb">†2118, 2221, †2250, 2393, 2534, 2537; III, 421, 440, 444,
-<div n="lb">446, 449, 533 {%(Sutasomo Vṛkodarāt),%} 549, 567, 918, 1012, 1246,
-<div n="lb">1430, 10250, 10253, 10283, 10840, 10875, 10877, 10878,
-<div n="lb">10879, 10882, 10895, 11105, 11365, 11371, 11411, 11504,
-<div n="lb">11506, 11607, 11609, 11788, 11815, 11818 {%(yathā Jiṣṇur%}
-<div n="lb">{%Mahendrasya, yathā Vāyor Vṛkodaraḥ…),%} 11830, †11907,
-<div n="lb">†12356, 12367, 12442, 12467, 12488, †14751, †14757, †14760,
-<div n="lb">14945, 14949, 14953, 15694, †15703, 15720, 15785, 15786,
-<div n="lb">15789, 17278, 17291; IV, 27, 45, 361, 366, 639, 760, 769,
-<div n="lb">771, 773, 823, 1104 {%(Kuntīputraḥ),%} 1121, 2302; V, 653, †724,
-<div n="lb">1988, 1989 {%(Kuntīputraḥ),%} 2020, 2024 {%(gadāṃ bibhrad),%} 2036,
-<div n="lb">2051, 2173, 2180, 2741, 2786, 2801, 2973, 3155, 3200, 3204,
-<div n="lb">3213, 4228, 4652, 4867, 5334<lang n="greek"></lang>, 5476, 5595; VI, 706, 788,
-<div n="lb">789, 844, 1554, 2115, 2333, 2751, 2768, 2769, 2803,
-<div n="lb">3118, 3367, 3372, 3398, 3401, 3511, 3783, 4149, 4355, 4357,
-<div n="lb">4670, 5234<lang n="greek"></lang>, 5236, 5271, 5288; VII, †67, †81, 376 ({%sadyo%}
-<div n="lb">{%Vṛkodarāj jāto māyāvī rākṣasaḥ,%} i.e. {%Ghaṭotkacaḥ%}), 593, 596,
-<div n="lb">940, 944, 951, 1046<lang n="greek"></lang>, 1063, 1145, 1149 {%(°rathaṃ),%} 1152, 1157,
-<div n="lb">1158, 1373, 1769<lang n="greek"></lang>, 3047<lang n="greek"></lang>, 3082, 3083, 3095<lang n="greek"></lang>, 5109, 5152,
-<div n="lb">5169, 5188, 5249, 5326, 5363, 5384, 5392, 5401, 5431, 5436,
-<div n="lb">5443, 5565, 5578, 5585, 5619, 5624, 5632, 5644, 5653, 5700,
-<div n="lb">5714 (only in B.), 5789, 5790, 5792, 6403, 6492, 6705, 6712,
-<div n="lb">†6725, †6726, †6727, 6780, 6909, 6966, 7216, 7459, 7732, 7762,
-<div n="lb">8243, 8310, 8512, 8553, 8583, 9334, 9382; VIII, 168, 453,
-<div n="lb">461, 484, 582, 2395, 2408, 2411, 2421, 2430, 2696, 2836, 3058,
-<div n="lb">3129, 3131, 3211, 3896, 4027, †4209, †4212, †4213, †4227,
-<div n="lb">†4233, 4256, †4279, †4303, †4512, †4520, †4584, 4843, 4851,
-<div n="lb">4857, 4991, 4999, 5030; IX, 135, 143, 149, 560, 588, 599,
-<div n="lb">600, 761, 838, 1369, 1494, 1716, 1830 (Pārthāt), 1894 (id.),
-<div n="lb">1902, 1910, 1940, 1953, 3103, 3119, 3143, 3165, 3166, 3173
-<div n="lb">{%(Pāṇḍavaḥ),%} 3184, 3189, 3248, 3281, 3289, 3318, 3323, 3346,
-<div n="lb">3374, 3396, 3596 {%(Pāṇḍuputraḥ);%} X, 61, 501, 504, 581, 646;
-<div n="lb">XI, 329, 341, 376 {%(Pārthaḥ),%} 394; XII, 1522; XIV,
-<div n="lb">3517; XV, 63, 70, 402, 403 {%(°kṛte),%} 435, 626 {%(Pavanātmajaḥ),%}
-<div n="lb">664, 667 {%(°sya parigrahaḥ);%} XVII, 63.
+<div n="P">{@Vṛkodara@} (“wolf's belly”): I, 455 ({%Jaṭāsurasya ca%}
+{%vadho rākṣasasya Vṛkodarāt%}), 483 ({%duṣṭātmano vadho yatra%}
+{%Kīvakasya Vṛkodaṛāt%}), 547, 2240, 2257, 2288, 2444 ({%Mārutāc%}
+{%ca Vṛkodaraḥ…jajñe%}), ††3827 ({%Sutasomaṃ Vṛkodaraḥ%},
+sc. {%utpādayām āsa%}), 4773, 4777, 4981, 4987, 4990, 4991, 5036,
+5040, 5343, 5428, 5473, 5840, 5923, 6035, 6039, 6252, 6256,
+6257, 6291, 7107, 7117, 7139, 7408, 8039 ({%Sutasomaṃ%}
+{%Vṛkodarāt Pañcālī suṣuve%}); II, 782, 924, 1810, 1811,
+†2118, 2221, †2250, 2393, 2534, 2537; III, 421, 440, 444,
+446, 449, 533 ({%Sutasomo Vṛkodarāt%}), 549, 567, 918, 1012, 1246,
+1430, 10250, 10253, 10283, 10840, 10875, 10877, 10878,
+10879, 10882, 10895, 11105, 11365, 11371, 11411, 11504,
+11506, 11607, 11609, 11788, 11815, 11818 ({%yathā Jiṣṇur%}
+{%Mahendrasya, yathā Vāyor Vṛkodaraḥ…%}), 11830, †11907,
+†12356, 12367, 12442, 12467, 12488, †14751, †14757, †14760,
+14945, 14949, 14953, 15694, †15703, 15720, 15785, 15786,
+15789, 17278, 17291; IV, 27, 45, 361, 366, 639, 760, 769,
+771, 773, 823, 1104 ({%Kuntīputraḥ%}), 1121, 2302; V, 653, †724,
+1988, 1989 ({%Kuntīputraḥ%}), 2020, 2024 ({%gadāṃ bibhrad%}), 2036,
+2051, 2173, 2180, 2741, 2786, 2801, 2973, 3155, 3200, 3204,
+3213, 4228, 4652, 4867, 5334<lang n="greek">λ</lang>, 5476, 5595; VI, 706, 788,
+789, 844, 1554, 2115, 2333, 2751, 2768, 2769, 2803,
+3118, 3367, 3372, 3398, 3401, 3511, 3783, 4149, 4355, 4357,
+4670, 5234<lang n="greek">θ</lang>, 5236, 5271, 5288; VII, †67, †81, 376 ({%sadyo%}
+{%Vṛkodarāj jāto māyāvī rākṣasaḥ%}, i.e. {%Ghaṭotkacaḥ%}), 593, 596,
+940, 944, 951, 1046<lang n="greek">δ</lang>, 1063, 1145, 1149 ({%°rathaṃ%}), 1152, 1157,
+1158, 1373, 1769<lang n="greek">ρ</lang>, 3047<lang n="greek">δ</lang>, 3082, 3083, 3095<lang n="greek">η</lang>, 5109, 5152,
+5169, 5188, 5249, 5326, 5363, 5384, 5392, 5401, 5431, 5436,
+5443, 5565, 5578, 5585, 5619, 5624, 5632, 5644, 5653, 5700,
+5714 (only in B.), 5789, 5790, 5792, 6403, 6492, 6705, 6712,
+†6725, †6726, †6727, 6780, 6909, 6966, 7216, 7459, 7732, 7762,
+8243, 8310, 8512, 8553, 8583, 9334, 9382; VIII, 168, 453,
+461, 484, 582, 2395, 2408, 2411, 2421, 2430, 2696, 2836, 3058,
+3129, 3131, 3211, 3896, 4027, †4209, †4212, †4213, †4227,
+†4233, 4256, †4279, †4303, †4512, †4520, †4584, 4843, 4851,
+4857, 4991, 4999, 5030; IX, 135, 143, 149, 560, 588, 599,
+600, 761, 838, 1369, 1494, 1716, 1830 (Pārthāt), 1894 (id.),
+1902, 1910, 1940, 1953, 3103, 3119, 3143, 3165, 3166, 3173
+({%Pāṇḍavaḥ%}), 3184, 3189, 3248, 3281, 3289, 3318, 3323, 3346,
+3374, 3396, 3596 ({%Pāṇḍuputraḥ%}); X, 61, 501, 504, 581, 646;
+XI, 329, 341, 376 ({%Pārthaḥ%}), 394; XII, 1522; XIV,
+3517; XV, 63, 70, 402, 403 ({%°kṛte%}), 435, 626 ({%Pavanātmajaḥ%}),
+664, 667 ({%°sya parigrahaḥ%}); XVII, 63.
 <LEND>

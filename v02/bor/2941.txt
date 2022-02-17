@@ -1,5 +1,5 @@
 <L>2941<pc>099<k1>caltrop<k2>caltrop
-<div n="lb"/>{@CALTROP:@}¦ <div n="I">I A thistle: {#गोक्षुरः।#} </div><div n="I">II A mili-
-<div n="lb"/>-tary instrument: {#*चतुःशूलम्; अश्वारोहाणां गति-#}
-<div n="lb"/>{#निरोधाय युद्धयन्त्रविशेषः।#}</div>
+{@CALTROP:@}¦ <div n="I">I A thistle: {#गोक्षुरः।#} </div><div n="I">II A mili-
+-tary instrument: {#*चतुःशूलम्; अश्वारोहाणां गति-#}
+{#निरोधाय युद्धयन्त्रविशेषः।#}</div>
 <LEND>

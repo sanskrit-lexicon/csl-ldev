@@ -1,5 +1,5 @@
 <L>2171<pc>047-a<k1>benefit<k2>benefit
-<div n="lb"/>BENEFIT¦, {%s.%} (Favour conferred) {#हितं, उपकारः, उपकृतं, उपकारकत्वं#}
-<div n="lb"/>{#-ता, अनुग्रहः, प्रसादः, मङ्गलं#}. — (Advantage, profit) {#फलं, लाभः,#}
-<div n="lb"/>{#अर्थः;#} ‘for the public benefit,’ {#प्रजार्थं#}.
+BENEFIT¦, {%s.%} (Favour conferred) {#हितं, उपकारः, उपकृतं, उपकारकत्वं#}
+{#-ता, अनुग्रहः, प्रसादः, मङ्गलं#}. — (Advantage, profit) {#फलं, लाभः,#}
+{#अर्थः;#} ‘for the public benefit,’ {#प्रजार्थं#}.
 <LEND>

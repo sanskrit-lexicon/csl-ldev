@@ -1,6 +1,6 @@
 <L>10544<pc>331<k1>hall<k2>hall
-<div n="lb"/>{@HALL:@}¦ <div n="1">(1) {#शाला;#} </div><div n="1">(2) {#सभा#} (= public h.), <div n="xe">{%the h.%}
-<div n="lb"/>{%of Brahmā is not supported by columns:%}</div> <div n="xs">{#ब्राह्मी सभा #}
-<div n="lb"/>{# स्तम्मैर्न धृता,#}</div> Mah.; </div><div n="1">(3) {#चैत्यम्, -कम्#} (= religious
-<div n="lb"/>h. of Buddhists), Mah. ii. 21. 19.</div>
+{@HALL:@}¦ <div n="1">(1) {#शाला;#} </div><div n="1">(2) {#सभा#} (= public h.), <div n="xe">{%the h.%}
+{%of Brahmā is not supported by columns:%}</div> <div n="xs">{#ब्राह्मी सभा #}
+{# स्तम्मैर्न धृता,#}</div> Mah.; </div><div n="1">(3) {#चैत्यम्, -कम्#} (= religious
+h. of Buddhists), Mah. ii. 21. 19.</div>
 <LEND>

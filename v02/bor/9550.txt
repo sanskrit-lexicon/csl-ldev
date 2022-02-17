@@ -1,4 +1,4 @@
 <L>9550<pc>303<k1>fundamental<k2>fundamental
-<div n="lb"/>{@FUNDAMENTAL:@}¦ {#मूल-,#} in comp., <div n="xe">{%f. bodies:%}</div> <div n="xs">{#मूल-#}
-<div n="lb"/>{#पदार्थाः;#}</div> <div n="xe">{%f. cause:%}</div> <div n="xs">{#मूलकारणम्;#}</div> <div n="xe">{%f. sound:%}</div> <div n="xs">{#मूलध्वनिः।#}</div>
+{@FUNDAMENTAL:@}¦ {#मूल-,#} in comp., <div n="xe">{%f. bodies:%}</div> <div n="xs">{#मूल-#}
+{#पदार्थाः;#}</div> <div n="xe">{%f. cause:%}</div> <div n="xs">{#मूलकारणम्;#}</div> <div n="xe">{%f. sound:%}</div> <div n="xs">{#मूलध्वनिः।#}</div>
 <LEND>

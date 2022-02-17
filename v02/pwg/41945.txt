@@ -1,19 +1,19 @@
 <L>41945<pc>4-0418<k1>पत्त्रिन्<k2>पत्त्रिन्
 {#पत्त्रिन्#}¦ (von {#पत्त्र#}) 
 <div n="1"> 1) <lex>adj.</lex> {%beflügelt%}; <lex>m.</lex> {%Vogel%} 
-<ls>?(AK. 2, 5, 33. 3, 4, 18, 108. H. an. 2, 275. MED. n. 87. HALĀY. 2, 82):</ls> {#द्विज#} 
+(<ls>AK. 2, 5, 33. 3, 4, 18, 108.</ls> <ls>H. an. 2, 275.</ls> <ls>MED. n. 87.</ls> <ls>HALĀY. 2, 82</ls>): {#द्विज#} 
 <ls>R. 1, 2, 15.</ls> {#वाजिभिर्वायुसंकाशैः प्लवद्भिरिव पत्त्रिभिः#} 
 <ls>HARIV. 5470.</ls> 
 <ls>RAGH. 11, 29.</ls> 
 <ls>ŚĀK. 78, 19.</ls> {#शिखरिपत्त्रिणः#} {%die beflügelten, fliegenden Berge%} 
 <ls>Spr. 419.</ls> 
 <div n="1">— 2) <lex>adj.</lex> {%befiedert, mit Federn besteckt%}; <lex>m.</lex> {%Pfeil%} 
-<ls>?(AK. 2, 8, 2, 55. 3, 4, 18, 108. H. 778. H. an. MED. HĀR. 53. HALĀY. 2, 311):</ls> {#बाण, शर#} 
-<ls>MBH. 3, 709. 8, 1821.</ls> 
+(<ls>AK. 2, 8, 2, 55. 3, 4, 18, 108.</ls> <ls>H. 778.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 53.</ls> <ls>HALĀY. 2, 311</ls>): {#बाण, शर#} 
+<ls>MBH. 3, 709.</ls> <ls n="MBH.">8, 1821.</ls> 
 <ls>HARIV. 12256.</ls> {#सु°#} 
 <ls>MBH. 1, 4563.</ls> 
 <ls>R. 6, 67, 21.</ls> {#मयूर°#} {%mit Pfauenfedern besteckt%} 
-<ls>RAGH. 3, 56.</ls> subst. <ls>MBH. 1, 1956. 8238. 4, 1654. 6, 2632.</ls> <ls>R. GORR. 2, 66, 14.</ls> <ls>RAGH. 3, 53. 57. 9, 61. 11, 17.</ls> <ls>KATHĀS. 33, 203.</ls> 
+<ls>RAGH. 3, 56.</ls> subst. <ls>MBH. 1, 1956.</ls> <ls n="MBH. 1,">8238.</ls> <ls n="MBH.">4, 1654.</ls> <ls n="MBH.">6, 2632.</ls> <ls>R. GORR. 2, 66, 14.</ls> <ls>RAGH. 3, 53. 57. 9, 61. 11, 17.</ls> <ls>KATHĀS. 33, 203.</ls> 
 <div n="1">— 3) <lex>m.</lex> {%Falke, Habicht%} 
 <ls>AK. 2, 5, 15.</ls> 
 <ls>H. 1334.</ls> 

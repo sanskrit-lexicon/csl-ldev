@@ -1,7 +1,7 @@
 <L>7156<pc>227<k1>earn<k2>earn
-<div n="lb"/>{@EARN@}¦ (v.): <div n="1">(1) {#अर्जयति, उप-,#} ({#अर्ज्,#} c. 10.), <div n="xe">{%e.%}
-<div n="lb"/>{%ing fleeting fortune:%}</div> <div n="xs">{#अर्जयन् गत्वरीः श्रियः,#}</div> Ki,;</div>
-<div n="lb"/><div n="1">(2) {#अर्जनं#} <div n="xe">{%or%}</div> <div n="xs">{#उपार्जनं करोति,#}</div> <div n="xe">{%after e. ing three%}
-<div n="lb"/>{%hundred sovereigns:%}</div> <div n="xs">{#सुवर्णशतत्रयोपार्जनं कृत्वा,#}</div> P.: v.
-<div n="lb"/>To acquire.</div>
+{@EARN@}¦ (v.): <div n="1">(1) {#अर्जयति, उप-,#} ({#अर्ज्,#} c. 10.), <div n="xe">{%e.%}
+{%ing fleeting fortune:%}</div> <div n="xs">{#अर्जयन् गत्वरीः श्रियः,#}</div> Ki,;</div>
+<div n="1">(2) {#अर्जनं#} <div n="xe">{%or%}</div> <div n="xs">{#उपार्जनं करोति,#}</div> <div n="xe">{%after e. ing three%}
+{%hundred sovereigns:%}</div> <div n="xs">{#सुवर्णशतत्रयोपार्जनं कृत्वा,#}</div> P.: v.
+To acquire.</div>
 <LEND>

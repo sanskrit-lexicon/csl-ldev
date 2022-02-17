@@ -3,12 +3,12 @@
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%von schöner Gestalt, schön%}; von Personen 
 <ls>M. 7, 64.</ls> 
-<ls>MBH. 1, 1149. 7695. 3, 16755. 13, 3862.</ls> 
+<ls>MBH. 1, 1149.</ls> <ls n="MBH. 1,">7695.</ls> <ls n="MBH.">3, 16755.</ls> <ls n="MBH.">13, 3862.</ls> 
 <ls>R. 5, 2, 5. 7, 41, 19.</ls> 
 <ls>VARĀH. BṚH. S. 2, S. 3, 69, 15.</ls> <ls>MĀRK. P. 60, 1. 98, 5. 132, 47.</ls> von Leblosem: {#मञ्चवाट#} 
 <ls>HARIV. 4533.</ls> {#छत्त्र#} 
-<ls>10933.</ls> {#गिरि#} 
-<ls>12392.</ls> {#विमान#} 
+<ls n="HARIV.">10933.</ls> {#गिरि#} 
+<ls n="HARIV.">12392.</ls> {#विमान#} 
 <ls>R. 2, 64, 18.</ls> 
 <div n="2">— b) {%verkörpert, leibhaftig%}: {#पुण्यसंचय#} 
 <ls>KIR. 2, 56.</ls> 

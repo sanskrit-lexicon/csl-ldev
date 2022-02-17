@@ -1,6 +1,6 @@
 <L>30776<pc>827-b<k1>vegetable<k2>vegetable
-<div n="lb"/>VEGETABLE¦, {%s.%} (Plant, any thing germinating) {#उद्भिद्#} {%m. f. n.,%}
-<div n="lb"/>{#उद्भिज्जं, उद्भिदं, ओषधिः -धी#} {%f.,%} {#तृणं;#} ‘the vegetable kingdom,’
-<div n="lb"/>{#तृणजातिः#} {%f.%} {#-तं#}. — (Edible plant) {#शाकः, शदः;#} ‘abounding
-<div n="lb"/>with vegetables,’ {#शाकिनः -नी -नं#}.
+VEGETABLE¦, {%s.%} (Plant, any thing germinating) {#उद्भिद्#} {%m. f. n.,%}
+{#उद्भिज्जं, उद्भिदं, ओषधिः -धी#} {%f.,%} {#तृणं;#} ‘the vegetable kingdom,’
+{#तृणजातिः#} {%f.%} {#-तं#}. — (Edible plant) {#शाकः, शदः;#} ‘abounding
+with vegetables,’ {#शाकिनः -नी -नं#}.
 <LEND>

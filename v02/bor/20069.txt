@@ -1,5 +1,5 @@
 <L>20069<pc>624<k1>seditious<k2>seditious
-<div n="lb"/>{@SEDITIOUS:@}¦ <div n="1">(1) by comp., <div n="xe">{%one who uses s.%}
-<div n="lb"/>{%language:%}</div> <div n="xs">{#राजाक्रोशकारिन्#}</div> (f. {#णी#}), Y. ii. 305.;</div>
-<div n="lb"/><div n="1">(2) {#राज्यभेदक#} (f. {#दिका#}) and sim. comp. s. (?).</div>
+{@SEDITIOUS:@}¦ <div n="1">(1) by comp., <div n="xe">{%one who uses s.%}
+{%language:%}</div> <div n="xs">{#राजाक्रोशकारिन्#}</div> (f. {#णी#}), Y. ii. 305.;</div>
+<div n="1">(2) {#राज्यभेदक#} (f. {#दिका#}) and sim. comp. s. (?).</div>
 <LEND>

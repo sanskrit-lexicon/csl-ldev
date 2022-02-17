@@ -1,7 +1,7 @@
 <L>13721<pc>218-1<k1>मन्थ<k2>मन्थ
 {#मन्थ#}¦manth-á, {%m.%} churning; killing; mixed 
-<>beverage ({%gnly. milk with parched barleymeal%}); <lbinfo n="6"/>
-<> stirring-spoon; churning-stick; {%instrument %}<lbinfo n="4"/>
-<>{% for%} kindling {%fire%} by attrition: ({@a@})-
-<>{@daṇḍa@}: {@-ka,@} {%m.%} churning-stick.
+beverage ({%gnly. milk with parched barleymeal%}); <lbinfo n="6"/>
+ stirring-spoon; churning-stick; {%instrument %}<lbinfo n="4"/>
+{% for%} kindling {%fire%} by attrition: ({@a@})-
+{@daṇḍa@}: {@-ka,@} {%m.%} churning-stick.
 <LEND>

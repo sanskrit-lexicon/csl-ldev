@@ -1,4 +1,4 @@
 <L>15136<pc>463<k1>muscle<k2>muscle
-<div n="lb"/>{@MUSCLE:@}¦ <div n="I">I Of the body: {#पेशी, मांस-,#} Bha.</div>
-<div n="lb"/><div n="I">II A kind of fish: {#शम्बूकविशेषः।#}</div>
+{@MUSCLE:@}¦ <div n="I">I Of the body: {#पेशी, मांस-,#} Bha.</div>
+<div n="I">II A kind of fish: {#शम्बूकविशेषः।#}</div>
 <LEND>

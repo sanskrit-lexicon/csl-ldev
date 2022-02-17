@@ -1,27 +1,27 @@
 <L>105113<pc>6131-3<k1>विष्<k2>विष्<h>1<e>500
-1. {#विष्#}¦ , {#विवेष्टि#} , {#अवेषन्#} (<ls>ṚV.1,178,2</ls> und episch), {#वे/षन्तीस्#} (<ls>ṚV.1,181,6</ls>) und <ab>Intens.</ab> {#वे/वेष्टि#} , {#*वेविष्टे#} , {#वेविषति#} , {#वे/विषत्#} (<ab>Partic.</ab>) und {#वे/विषाण#} ; <ab>Partic.</ab> {#विष्ट/#}.
+1. {#विष्#}¦ , {#विवेष्टि#} , {#अवेषन्#} (<ls>ṚV. 1,178,2</ls> und episch), {#वे/षन्तीस्#} (<ls>ṚV. 1,181,6</ls>) und <ab>Intens.</ab> {#वे/वेष्टि#} , {#*वेविष्टे#} , {#वेविषति#} , {#वे/विषत्#} (<ab>Partic.</ab>) und {#वे/विषाण#} ; <ab>Partic.</ab> {#विष्ट/#}.
 <div n="1">— 1) {%wirken , thätig sein ; zu Stande bringen , ausrichten , thun.%}
-<div n="1">— 2) von Gewässern so v.a. {%rinnen%} <ls>ṚV.1,178,2.181,6.</ls>
+<div n="1">— 2) von Gewässern so v.a. {%rinnen%} <ls>ṚV. 1,178,2. 181,6.</ls>
 <div n="1">— 3) {%dienend thätig sein oder ausführen , dienen.%}
 <div n="1">— 4) {%fertig bringen%} , so v.a. {%bewältigen , in die Gewalt bekommen , beherrschen.%}
 <div n="1">— 5) eine Speise {%fertig bringen%} , so v.a. {%aufzehren.%}
 <div n="1">— 6) {#वे/विषाण#} etwa so v.a. {%unterstützt von%} (<ab>Instr.</ab>).
-<div n="1">— 7) {%enthalten sein in%} (<ab>Acc.</ab>) <ls>TATTVAK.19,2.</ls>
-<div n="m">— <ab>Caus.</ab> {#वेषयति#} {%bekleiden%} <ls>BHĀG.P.11,1,14.</ls>
+<div n="1">— 7) {%enthalten sein in%} (<ab>Acc.</ab>) <ls>TATTVAK. 19,2.</ls>
+<div n="m">— <ab>Caus.</ab> {#वेषयति#} {%bekleiden%} <ls>BHĀG. P. 11,1,14.</ls>
 <div n="p">— Mit {#आ#} in {#*आवेषण#}.
 <div n="p">— Mit {#उप#}
 <div n="1">— 1) {%besorgen , bedienen%} ; mit <ab>Acc.</ab>
-<div n="1">— 2) {%sich aneignen%} <ls>ṚV.10,61,12.</ls>
+<div n="1">— 2) {%sich aneignen%} <ls>ṚV. 10,61,12.</ls>
 <div n="p">— Mit {#नि#} in {#निवेष्य#} und {#निवेष्य^#}
 <div n="p">— Mit {#निस्#} fehlerhaft für 1. {#विश्#}
 <div n="p">— Mit {#निस्#}.
 <div n="p">— Mit {#परि#}
-<div n="1">— 1) {%bedienen , aufwarten , Jmd%} (<ab>Acc.</ab>) {%Speisen auftragen%} <ls>42,9.</ls> <ls>MBH.3,99,5.13,23,47.14,85,42.</ls> {#परिविष्यमाण#} so v.a. {%beim Essen seiend.%}
-<div n="1">— 2) ein Mahl — , Speisen {%zurüsten , — anrichten%} <ls>MBH.13,23,9.10.</ls> {#प/रिविष्ट#} {%zugerüstet , angerichtet%} (Speise).
-<div n="1">— 3) {#परिविष्यते#} {%einen Hof bekommen%} oder {%haben%} (von Sonne und Mond) <ls>GOBH.4,5,31.</ls> {#परिविष्ट#} {%mit einem Hofe versehen.%}
+<div n="1">— 1) {%bedienen , aufwarten , Jmd%} (<ab>Acc.</ab>) {%Speisen auftragen%} <ls>42,9.</ls> <ls>MBH. 3,99,5. 13,23,47. 14,85,42.</ls> {#परिविष्यमाण#} so v.a. {%beim Essen seiend.%}
+<div n="1">— 2) ein Mahl — , Speisen {%zurüsten , — anrichten%} <ls>MBH. 13,23,9. 10.</ls> {#प/रिविष्ट#} {%zugerüstet , angerichtet%} (Speise).
+<div n="1">— 3) {#परिविष्यते#} {%einen Hof bekommen%} oder {%haben%} (von Sonne und Mond) <ls>GOBH. 4,5,31.</ls> {#परिविष्ट#} {%mit einem Hofe versehen.%}
 <div n="m">— <ab>Caus.</ab>
-<div n="1">— 1) {%Jmd%} (<ab>Acc.</ab>) {%Speisen auftragen%} <ls>MBH.1,193,9.</ls>
-<div n="1">— 2) Speisen {%zurichten , — anrichten%} <ls>CAMPAKA.501.</ls>
+<div n="1">— 1) {%Jmd%} (<ab>Acc.</ab>) {%Speisen auftragen%} <ls>MBH. 1,193,9.</ls>
+<div n="1">— 2) Speisen {%zurichten , — anrichten%} <ls>CAMPAKA. 501.</ls>
 <div n="p">— Mit {#प्रवि#}{# (प्रवी)#} <ab>Desid.</ab> in {#प्रवीविविक्ष्#}.
 <div n="p">— Mit {#सम्#}
 <div n="1">— 1) {%zubereiten , beschaffen.%}

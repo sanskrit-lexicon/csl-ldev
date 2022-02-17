@@ -55,15 +55,15 @@
 <ls>MED.</ls> Auf {#घोष#} ausgehende compp. haben den Ton auf der ersten Silbe 
 <ls>P. 6, 2, 85.</ls> {#दा/क्षिघोष#} 
 <ls>Sch.</ls> {#कच्चिन्नगरगुप्त्यर्थं ग्रामा नगरवत्कृताः । ग्रामवच्च कृता घोषाः#} 
-<ls>MBH. 2, 215. 3, 10085. 10089. 14814.</ls> {#घोषान्विद्राव्य#} ({%die Bewohner einer solchen Station%}) 
+<ls>MBH. 2, 215.</ls> <ls n="MBH.">3, 10085.</ls> <ls n="MBH. 3,">10089.</ls> <ls n="MBH. 3,">14814.</ls> {#घोषान्विद्राव्य#} ({%die Bewohner einer solchen Station%}) 
 <ls>4, 1152. 1154. 12, 2558.</ls> {#घोषान्न्यसेत्तु मार्गेषु ग्रामानुत्पादयेदपि#} 
 <ls>2630.</ls> {#ग्रामान् - पल्लीघोषांश्च#} 
 <ls>12234.</ls> <ls>N. 17, 45.</ls> <ls>HARIV. 3464.</ls> <ls>R. 1, 18, 8.</ls> <ls>MṚCCH. 66, 25.</ls> {#घोषे ऽरण्ये च#} 
 <ls>BHĀG. P. 3, 17, 12. 4, 18, 31.</ls> {#ग्रामघोषमहत्तराः#} 
 <ls>R. 2, 83, 15.</ls> {#घोषवृद्धाः#} 
 <ls>RAGH. 1, 45.</ls> {#घोषयात्रा#} 
-<ls>MBH. 1, 470. 5, 710.</ls> {#घोषयात्रापर्वन्#} 
-<ls>?3, ADHY. 235 - 257.</ls> {#भूः सुघोषघोषा#} 
+<ls>MBH. 1, 470.</ls> <ls n="MBH.">5, 710.</ls> {#घोषयात्रापर्वन्#} 
+<ls>3, ADHY. 235 - 257.</ls> {#भूः सुघोषघोषा#} 
 <ls>12, 8424.</ls> {%Hirt%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— c) {%Mücke%} 
@@ -79,7 +79,7 @@
 <div n="2">— f) N. pr. eines Mannes (nach 
 <ls>SĀY.</ls>) <ls>ṚV. 1, 120, 5.</ls> — Bein. <is>Śiva's</is> 
 <ls>MBH. 12, 10386.</ls> — ein Sohn der <is>Lambā</is>, einer Tochter <is>Dakṣa's</is> und Gemahlin <is>Dharma's</is>, 
-<ls>HARIV. 148. 12480.</ls> 
+<ls>HARIV. 148.</ls> <ls n="HARIV.">12480.</ls> 
 <ls>VP. 120.</ls> — ein <is>Arhant</is> 
 <ls>HIOUEN-THSANG I, 159.</ls> — v.l. für {#घोषवसु#}, N. eines Fürsten der <is>Kāṇva</is> - Dynastie 
 <ls>BHĀG. P.</ls> in <ls>VP. 471, N. 33.</ls> — ein in der Schreiberkaste u. s. w. üblicher Name 

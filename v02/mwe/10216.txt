@@ -1,6 +1,6 @@
 <L>10216<pc>243-b<k1>exchequer<k2>exchequer
-<div n="lb"/>EXCHEQUER¦, {%s.%} (Treasury) {#राजकोषः, राजधनागारः, राजधनगृहं।#}
-<div n="lb"/>{#राजस्वकोषः;#} ‘chancellor of the exchequer,’ {#कोषाध्यक्षः, कोषा#}
-<div n="lb"/>{#धीशः, कोशाधीशः, राजधनाधिकारी#} {%m.%} {#(न्), राजस्वपालकः, गञ्जाधिपः#}
-<div n="lb"/> — (Court). {%See%} CHANCERY.
+EXCHEQUER¦, {%s.%} (Treasury) {#राजकोषः, राजधनागारः, राजधनगृहं।#}
+{#राजस्वकोषः;#} ‘chancellor of the exchequer,’ {#कोषाध्यक्षः, कोषा#}
+{#धीशः, कोशाधीशः, राजधनाधिकारी#} {%m.%} {#(न्), राजस्वपालकः, गञ्जाधिपः#}
+ — (Court). {%See%} CHANCERY.
 <LEND>

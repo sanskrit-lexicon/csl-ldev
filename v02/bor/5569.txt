@@ -1,3 +1,3 @@
 <L>5569<pc>178<k1>decimation<k2>decimation
-<div n="lb"/>{@DECIMATION:@}¦ {#दशमभागस्य वधः#} <div n="xe">{%or%}</div> <div n="xs">{#प्राणदण्डः।#}</div>
+{@DECIMATION:@}¦ {#दशमभागस्य वधः#} <div n="xe">{%or%}</div> <div n="xs">{#प्राणदण्डः।#}</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>19375<pc>601<k1>riot<k2>riot
-<div n="lb"/>{@RIOT@}¦ (subs.): <div n="I">I Tumult, uproar: q. v.:
-<div n="lb"/>{#संक्षोभः।#} </div><div n="I">II In law: breach of the peace:
-<div n="lb"/>perh.: {#सम्भूयाभिघातः, -अवमर्दः#} <div n="xe">{%or%}</div> <div n="xs">{#-अभिद्रोहः।#}</div> </div><div n="I">III
-<div n="lb"/>Revelry, excess q. v. Ph.: {%to run r.:%}
-<div n="lb"/>expr. with {#निरवग्रह#} (f. {#हा#}), {#अनियन्त्रित#} (f. {#ता#}),
-<div n="lb"/>etc.; {%that%} ({%vicious elephant%}) <div n="xe">{%has run r. in the%}
-<div n="lb"/>{%highway:%}</div> <div n="xs">{#स#}</div> ({#दुष्टहस्ती#}) {#महान्तं संक्षोभं कुर्वन् राज-#}
-<div n="lb"/>{#मार्गमवतीर्णः,#} Mr. ii.</div>
+{@RIOT@}¦ (subs.): <div n="I">I Tumult, uproar: q. v.:
+{#संक्षोभः।#} </div><div n="I">II In law: breach of the peace:
+perh.: {#सम्भूयाभिघातः, -अवमर्दः#} <div n="xe">{%or%}</div> <div n="xs">{#-अभिद्रोहः।#}</div> </div><div n="I">III
+Revelry, excess q. v. Ph.: {%to run r.:%}
+expr. with {#निरवग्रह#} (f. {#हा#}), {#अनियन्त्रित#} (f. {#ता#}),
+etc.; {%that%} ({%vicious elephant%}) <div n="xe">{%has run r. in the%}
+{%highway:%}</div> <div n="xs">{#स#}</div> ({#दुष्टहस्ती#}) {#महान्तं संक्षोभं कुर्वन् राज-#}
+{#मार्गमवतीर्णः,#} Mr. ii.</div>
 <LEND>

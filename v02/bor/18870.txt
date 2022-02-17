@@ -1,8 +1,8 @@
 <L>18870<pc>582<k1>region<k2>region
-<div n="lb"/>{@REGION:@}¦ <div n="I">I Country, tract.: q. v.: {#देशः, प्र-,#}
-<div n="lb"/><div n="xe">{%and not in this r.:%}</div> <div n="xs">{#न चास्मिन् प्रदेशे,#}</div> K. Ph.:
-<div n="lb"/><div n="xe">{%the lower r. s:%}</div> <div n="xs">{#अधोलोकः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-भुवनम्;#}</div> {%the upper r. s:%}
-<div n="lb"/>{#ऊर्द्ध लोकः।#} </div><div n="I">II Of the sky: {#दिश्#} (f.): v.
-<div n="lb"/>Quarter. </div><div n="I">III Of the body: {#देशः, प्र-,#}
-<div n="lb"/><div n="xe">{%umbilical r.:%}</div> <div n="xs">{#नाभिप्रदेशः।#}</div></div>
+{@REGION:@}¦ <div n="I">I Country, tract.: q. v.: {#देशः, प्र-,#}
+<div n="xe">{%and not in this r.:%}</div> <div n="xs">{#न चास्मिन् प्रदेशे,#}</div> K. Ph.:
+<div n="xe">{%the lower r. s:%}</div> <div n="xs">{#अधोलोकः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#-भुवनम्;#}</div> {%the upper r. s:%}
+{#ऊर्द्ध लोकः।#} </div><div n="I">II Of the sky: {#दिश्#} (f.): v.
+Quarter. </div><div n="I">III Of the body: {#देशः, प्र-,#}
+<div n="xe">{%umbilical r.:%}</div> <div n="xs">{#नाभिप्रदेशः।#}</div></div>
 <LEND>

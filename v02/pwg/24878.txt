@@ -6,12 +6,12 @@ gelber Blüthe,
 <ls>AK. 2, 4, 2, 44.</ls> 
 <ls>TRIK. 2, 4, 18.</ls> 
 <ls>H. 1146.</ls> 
-<ls>MBH. 3, 11572. 13, 2359.</ls> 
+<ls>MBH. 3, 11572.</ls> <ls n="MBH.">13, 2359.</ls> 
 <ls>R. 1, 17, 35. 3, 17, 11.</ls> 
 <ls>SUŚR. 1, 103, 12. 171, 7. 2, 286, 2.</ls> 
 <ls>HIT. 17, 22.</ls> 
 <ls>BHĀG. P. 3, 15, 19.</ls> 
-<ls>LALIT. 201 u.s.w.</ls> <lex>n.</lex> {%die Blüthe%} 
+<ls>LALIT. 201</ls> u.s.w. <lex>n.</lex> {%die Blüthe%} 
 <ls>SUŚR. 1, 223, 21.</ls> 
 <ls>MBH. 4, 261.</ls> 
 <ls>SĀH. D. 41, 14.</ls> {#चम्पकदामगौरी#} 

@@ -1,9 +1,9 @@
 <L>15032<pc>459<k1>mountain<k2>mountain
-<div n="lb"/>{@MOUNTAIN:@}¦ <div n="1">(1) {#पर्वतः,#} <div n="xe">{%a range of m.s:%}</div> <div n="xs">{#कुलपर्वतः,#}</div>
-<div n="lb"/>V. p.; </div><div n="1">(2) {#गिरिः,#} {%waters of m.-streams:%}
-<div n="lb"/>{#गिरिनदीसलिलानि,#} Sa.; </div><div n="1">(3) {#शैलम्,#} {%m.-residence:%}
-<div n="lb"/>{#शैलवासः,#} Ki.; </div><div n="1">(4) {#अद्रिः,#} {%the summit of a m.:%}
-<div n="lb"/>{#अद्रेः शृङ्गम्;#} </div><div n="1">(5) {#नगः,#} <div n="xe">{%chief of m.s:%}</div> <div n="xs">{#नगाधिराजः,#}</div>
-<div n="lb"/>Ku.; </div><div n="1">(6) {#भूधरः#} and sim. comp.s.; </div><div n="1">(7) {#अचलः;#}</div>
-<div n="lb"/><div n="1">(8) {#शिखरिन्#} (m.).</div>
+{@MOUNTAIN:@}¦ <div n="1">(1) {#पर्वतः,#} <div n="xe">{%a range of m.s:%}</div> <div n="xs">{#कुलपर्वतः,#}</div>
+V. p.; </div><div n="1">(2) {#गिरिः,#} {%waters of m.-streams:%}
+{#गिरिनदीसलिलानि,#} Sa.; </div><div n="1">(3) {#शैलम्,#} {%m.-residence:%}
+{#शैलवासः,#} Ki.; </div><div n="1">(4) {#अद्रिः,#} {%the summit of a m.:%}
+{#अद्रेः शृङ्गम्;#} </div><div n="1">(5) {#नगः,#} <div n="xe">{%chief of m.s:%}</div> <div n="xs">{#नगाधिराजः,#}</div>
+Ku.; </div><div n="1">(6) {#भूधरः#} and sim. comp.s.; </div><div n="1">(7) {#अचलः;#}</div>
+<div n="1">(8) {#शिखरिन्#} (m.).</div>
 <LEND>

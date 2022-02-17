@@ -1,5 +1,5 @@
 <L>19889<pc>618<k1>scion<k2>scion
-<div n="lb"/>{@SCION:@}¦ <div n="I">I Lit.: {#नवपल्लवः:#} v. Shoot. </div><div n="I">II A
-<div n="lb"/>descendant: q. v.: <div n="xe">{%s. s of nobility:%}</div> <div n="xs">{#कुलीनाः #}
-<div n="lb"/>{# कुमाराः,#}</div> N.</div>
+{@SCION:@}¦ <div n="I">I Lit.: {#नवपल्लवः:#} v. Shoot. </div><div n="I">II A
+descendant: q. v.: <div n="xe">{%s. s of nobility:%}</div> <div n="xs">{#कुलीनाः #}
+{# कुमाराः,#}</div> N.</div>
 <LEND>

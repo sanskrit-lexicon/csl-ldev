@@ -1,6 +1,6 @@
 <L>5924<pc>190<k1>desert<k2>desert
-<div n="lb"/>{@DESERT@}¦ (subs.): <div n="I">I A waste place: </div><div n="1">(1) {#मरु-#}
-<div n="lb"/>{#भूमिः;#} </div><div n="1">(2) {#धन्वन्#} (m.) (rare). Ph.: {%a sandy d.:%}
-<div n="lb"/>{#वालुकार्णवः,#} Mah. </div><div n="I">II Merit: q. v.: {#गुणः,#} <div n="xe">{%d.%}
-<div n="lb"/>{%and not acquaintance:%}</div> <div n="xs">{#गुणा न संस्तवः,#}</div> Ki.</div>
+{@DESERT@}¦ (subs.): <div n="I">I A waste place: </div><div n="1">(1) {#मरु-#}
+{#भूमिः;#} </div><div n="1">(2) {#धन्वन्#} (m.) (rare). Ph.: {%a sandy d.:%}
+{#वालुकार्णवः,#} Mah. </div><div n="I">II Merit: q. v.: {#गुणः,#} <div n="xe">{%d.%}
+{%and not acquaintance:%}</div> <div n="xs">{#गुणा न संस्तवः,#}</div> Ki.</div>
 <LEND>

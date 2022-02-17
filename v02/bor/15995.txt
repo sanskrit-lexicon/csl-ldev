@@ -1,5 +1,5 @@
 <L>15995<pc>492<k1>originator<k2>originator
-<div n="lb"/>{@ORIGINATOR:@}¦ <div n="1">(1) {#मूलम्#} (= origin: q. v.); </div><div n="1">(2)
-<div n="lb"/>{#प्रभवः#} (= source: q. v.); </div><div n="1">(3) {#स्रष्टृ#} (m.) (= crea-
-<div n="lb"/>-tor: q. v.).</div>
+{@ORIGINATOR:@}¦ <div n="1">(1) {#मूलम्#} (= origin: q. v.); </div><div n="1">(2)
+{#प्रभवः#} (= source: q. v.); </div><div n="1">(3) {#स्रष्टृ#} (m.) (= crea-
+-tor: q. v.).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>23531<pc>627-a<k1>prize<k2>prize
-<div n="lb"/>PRIZE¦, {%s.%} (That which is taken in war) {#युद्धजितद्रव्यं, युद्धसम्पादि-#}
-<div n="lb"/>{#तद्रव्यं, युद्धोपार्जितद्रव्यं, युद्धजितधनं#}. — (That which is gained as
-<div n="lb"/>the reward of success or victory) {#जयफलं, सिद्धिफलं, जयल-#}
-<div n="lb"/>{#ब्धफलं, जयलाभः, जयलब्धवस्तु#} {%n.,%} {#पणजितद्रव्यं, जयपारितोषिकं,#}
-<div n="lb"/>{#स्पर्द्धाफलं#}. — (That which is offered as the reward of con-
-<div n="lb"/>test) {#स्पर्द्धाजेयं, पणजेयं, पणः#}. — (Reward) {#फलं, प्रतिफलं, यारि-#}
-<div n="lb"/>{#तोषिकं#}. — (Valuable acquisition) {#रत्नं, निधिः#} {%m.%}
+PRIZE¦, {%s.%} (That which is taken in war) {#युद्धजितद्रव्यं, युद्धसम्पादि-#}
+{#तद्रव्यं, युद्धोपार्जितद्रव्यं, युद्धजितधनं#}. — (That which is gained as
+the reward of success or victory) {#जयफलं, सिद्धिफलं, जयल-#}
+{#ब्धफलं, जयलाभः, जयलब्धवस्तु#} {%n.,%} {#पणजितद्रव्यं, जयपारितोषिकं,#}
+{#स्पर्द्धाफलं#}. — (That which is offered as the reward of con-
+test) {#स्पर्द्धाजेयं, पणजेयं, पणः#}. — (Reward) {#फलं, प्रतिफलं, यारि-#}
+{#तोषिकं#}. — (Valuable acquisition) {#रत्नं, निधिः#} {%m.%}
 <LEND>

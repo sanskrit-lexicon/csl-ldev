@@ -7,7 +7,7 @@
 <ls>H. 1504.</ls> 
 <ls>HALĀY. 5, 41.</ls> {#नातिविस्तार°#} 
 <ls>KĀM. NĪTIS. 16, 2.</ls> {#मार्ग#} 
-<ls>?7, 30. Spr. (II) 6119. 6662. KULL. zu M. 7, 70.</ls> {#वन°#} ({#अध्वन्#}) 
+<ls>7, 30.</ls> <ls>Spr. (II) 6119.</ls> <ls n="Spr. (II)">6662.</ls> <ls>KULL.</ls> zu <ls>M. 7, 70.</ls> {#वन°#} ({#अध्वन्#}) 
 <ls>KĀM. NĪTIS. 18, 50.</ls> Thür, Thor 
 <ls>MBH. 12, 2639.</ls> 
 <ls>VARĀH. BṚH. S. 53, 80.</ls> {#छिद्र#} 
@@ -19,9 +19,9 @@
 <ls>4, 351.</ls> {#भूमि#} 
 <ls>KATHĀS. 47, 36.</ls> {#देशान्विषमसंकटान्#} 
 <ls>MBH. 3, 10967.</ls> {#वल्लीलतासंकटेषु कुटजेषु#} 
-<ls>?11586. 7, 6833 = 7962. 1977.</ls> {#नर्मदातीरे दारुणोपलसंकटे#} 
+<ls>11586. 7, 6833 = 7962. 1977.</ls> {#नर्मदातीरे दारुणोपलसंकटे#} 
 <ls>HARIV. 5218.</ls> {#शिलासंकटपादप#} 
-<ls>5361.</ls> {#लताविटप° (वन)#} 
+<ls n="HARIV.">5361.</ls> {#लताविटप° (वन)#} 
 <ls>R. 2, 52, 95.</ls> {#पद्मिनीं पद्मसंकटाम्#} 
 <ls>97. 56, 9. 4, 12, 12. 5, 54, 5.</ls> {#नगरी विषमोच्चयसंकटा#} 
 <ls>HARIV. 5025.</ls> {#दुष्टबकोटसंकटतट#}
@@ -34,7 +34,7 @@
 <div n="2">— b) {%schwierig, worüber man nicht leicht hinüberkommt%} (in übertr. Bed.): {#प्रश्नः सुसंकटः#} 
 <ls>MBH. 12, 11181.</ls> {#धर्मश्चातुराश्रम्यसंकटः#} 
 <ls>12284.</ls> {#संसारचक्र#} 
-<ls>MĀRK. P. 10, 26. 45, 5</ls> {#(अति°)#}.{# युद्धं परमसंकटम्#} so v. a. {%überaus gefährlich%} 
+<ls>MĀRK. P. 10, 26. 45, 5</ls> ({#अति°#}).{# युद्धं परमसंकटम्#} so v. a. {%überaus gefährlich%} 
 <ls>MBH. 7, 3086.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. 
 <div n="2"> a) {%eine Personification der schwierigen Durchgänge%} als Sohn <is>Kakubh's</is> 
@@ -51,7 +51,7 @@
 <ls>Verz. d. Pet. H. No. 51.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Enge, ein beengter Raum, ein schmaler Pfad, ein schwieriger Durchgang%} 
-<ls>MBH. 3, 2930. 11, 143.</ls> 
+<ls>MBH. 3, 2930.</ls> <ls n="MBH.">11, 143.</ls> 
 <ls>Spr. (II) 3372.</ls> 
 <ls>MṚCCH. 50, 18.</ls> 
 <ls>RĀJA-TAR. 4, 368.</ls> 
@@ -69,7 +69,7 @@
 <div n="2">— b) {%Schwierigkeit; eine schwierige Lage, Verlegenheit, Noth, Gefahr%}: {#यथा यथेदं निपुणं विचार्यते तथा तथा संकटमेव दृश्यते#} 
 <ls>MṚCCH. 149, 2.</ls> {#°नाशन#} 
 <ls>KĀM. NĪTIS. 18, 3.</ls> {#संकटे ऽस्मिन्#} 
-<ls>KATHĀS. 6, 152. 18, 341</ls> <ls>?(pl.). 27, 179.</ls> {#संकटे हि परीक्ष्यन्ते प्राज्ञाः शूराश्च संगरे#} 
+<ls>KATHĀS. 6, 152. 18, 341</ls> (pl.). <ls>27, 179.</ls> {#संकटे हि परीक्ष्यन्ते प्राज्ञाः शूराश्च संगरे#} 
 <ls>31, 93. 35, 52. 49, 72. 50, 27.</ls> <ls>SĀH. D. 492.</ls> {#यद्यत्र संकटं जातु युवयोः स्यात्#} 
 <ls>KATHĀS. 42, 82. 36, 28.</ls> {#द्रौपद्याः#} 
 <ls>MBH. 3, 15537.</ls> {#स्वानाम्#} 
@@ -82,11 +82,11 @@
 <ls>70, 26.</ls> {#संकटे पतिताः स्मः#} 
 <ls>NĀGĀN. 24, 4.</ls> {#निपत्य संकटे#} 
 <ls>RĀJA-TAR. 6, 349.</ls> {#तस्मान्मुच्यस्व संकटात्#} 
-<ls>MBH. 3, 15965. 7, 8920.</ls> 
+<ls>MBH. 3, 15965.</ls> <ls n="MBH.">7, 8920.</ls> 
 <ls>MĀLAV. 58, 9.</ls> 
 <ls>KATHĀS. 104, 157.</ls> 
 <ls>MĀRK. P. 92, 28.</ls> 
-<ls>RĀJA-TAR. 6, 352.</ls> <ls>Verz. d. Oxf. H. 88</ls>, {%b%}, 
+<ls>RĀJA-TAR. 6, 352.</ls> <ls>Verz. d. Oxf. H. 88,b,</ls> 
 <ls>12. 34.</ls> {#संकटादुद्धर्तुम्#} 
 <ls>MBH. 3, 15536.</ls> {#येनास्मान्निस्तरिष्यामः संकटात्#} 
 <ls>KATHĀS. 49, 73.</ls> {#संकटोत्तीर्ण#} 
@@ -97,17 +97,17 @@
 <ls>8, 19, 43.</ls> {#स्वस्वामिगृह°#} 
 <ls>KATHĀS. 119, 67.</ls> {#धर्म°#} 
 <ls>MBH. 11, 150.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 18, 43.</ls> 
+
+<ls>R. GORR. 2, 18, 43.</ls> 
 <ls>BHĀG. P. 9, 4, 38.</ls> {#शब्दार्थन्यायसंकटेषु#} 
 <ls>DURGA</ls> bei <ls>MUIR, ST. 2, 184.</ls> 
 <div n="3">— β) mit dem, was {%Gefahr%} bringt: {#शस्त्र°#} 
 <ls>MBH. 7, 7370.</ls> {#शत्रु°#} 
-<ls>4, 209.</ls> <ls>Spr. (II) 1221. 5727.</ls> <ls>KATHĀS. 33, 119. 106, 145.</ls> {#भव°#} 
+<ls>4, 209.</ls> <ls>Spr. (II) 1221.</ls> <ls n="Spr. (II)">5727.</ls> <ls>KATHĀS. 33, 119. 106, 145.</ls> {#भव°#} 
 <ls>Verz. d. Oxf. H. 80,b,37.</ls> {#अज्ञान°#} (so zu fassen) 
 <ls>BHĀG. P. 3, 7, 7.</ls> — {#महा°#} 
 <ls>Spr. (II) 4497.</ls> {#अति°#} 
-<ls>?3170. MĀLATĪM. 103, 19. MALLIN. zu KUMĀRAS. 3, 23.</ls> {#सु°#} 
+<ls>3170.</ls> <ls>MĀLATĪM. 103, 19.</ls> <ls>MALLIN.</ls> zu <ls>KUMĀRAS. 3, 23.</ls> {#सु°#} 
 <ls>BHĀG. P. 10, 88, 16.</ls> — {#सङ्कटाख्यम्#} 
 <ls>MBH. 8, 3018</ls> fehlerhaft für {#सकटाक्षम्#}, wie die ed. Bomb. liest. 
 <div n="v">— Vgl. {#प्राण°, वन°, वृक्ष°#} .

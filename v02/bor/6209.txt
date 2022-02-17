@@ -1,4 +1,4 @@
 <L>6209<pc>199<k1>diocese<k2>diocese
-<div n="lb"/>{@DIOCESE:@}¦ {#अधिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रदेशः#}</div> (when the exact
-<div n="lb"/>sense is not clear), {#प्रधानाचार्यस्याधिकारः।#}
+{@DIOCESE:@}¦ {#अधिकारः#} <div n="xe">{%or%}</div> <div n="xs">{#प्रदेशः#}</div> (when the exact
+sense is not clear), {#प्रधानाचार्यस्याधिकारः।#}
 <LEND>

@@ -1,5 +1,5 @@
 <L>17742<pc>543<k1>prey<k2>prey
-<div n="lb"/>{@PREY@}¦ (subs.): {#आमिषम्,#} <div n="xe">{%became the p. of the%}
-<div n="lb"/>{%enemies:%}</div> <div n="xs">{#द्विषामामिषतां ययौ,#}</div> R. xii. 11. ({%Beast%})
-<div n="lb"/>{%of p.:%}) {#आमिषाशिन्#} (m.) <div n="xe">{%or%}</div> <div n="xs">{#मांसादः।#}</div>
+{@PREY@}¦ (subs.): {#आमिषम्,#} <div n="xe">{%became the p. of the%}
+{%enemies:%}</div> <div n="xs">{#द्विषामामिषतां ययौ,#}</div> R. xii. 11. ({%Beast%})
+{%of p.:%}) {#आमिषाशिन्#} (m.) <div n="xe">{%or%}</div> <div n="xs">{#मांसादः।#}</div>
 <LEND>

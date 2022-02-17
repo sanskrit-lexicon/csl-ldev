@@ -1,12 +1,12 @@
 <L>1331<pc>047<k1>attention<k2>attention
-<div n="lb"/>{@ATTENTION:@}¦ <div n="I">I The act or state of attending:</div>
-<div n="lb"/><div n="1">(1) {#अवधानम्,#} {%please lend me your a. for a moment%}
-<div n="lb"/>{#मां मुहूर्तमवधानदानेनानुगृह्वन्तु,#} Ma. ix.; </div><div n="1">(2) {#मनोयोगः;#}</div>
-<div n="lb"/><div n="1">(3) {#अप्रमादः#} <div n="xe">{%or%}</div> <div n="xs">{#अप्रमत्तता#}</div> (=carefulness); </div><div n="1">(4)
-<div n="lb"/>{#अभिनिवेशः#} (=application, study); </div><div n="1">(5) {#अवेक्षा#}
-<div n="lb"/>(=looking after). Ph.: <div n="xe">{%his whole a. being%}
-<div n="lb"/>{%devoted to it%}</div> <div n="xs">{#अनन्यहृदयतया,#}</div> K.; {%it engages my a.%}
-<div n="lb"/>{#मनो मे बध्नाति,#} (after R. xiii. 47.); <div n="xe">{%to draw%}
-<div n="lb"/>{%the a. of the king%}</div> <div n="xs">{#नरपतिप्रबोधनार्थम्,#}</div> <ls>K.</ls> </div><div n="I">II.
-<div n="lb"/>Politeness, courtesy: q. v. {#आदरः#} <div n="xe">{%or%}</div> <div n="xs">{#समादरः।#}</div></div>
+{@ATTENTION:@}¦ <div n="I">I The act or state of attending:</div>
+<div n="1">(1) {#अवधानम्,#} {%please lend me your a. for a moment%}
+{#मां मुहूर्तमवधानदानेनानुगृह्वन्तु,#} Ma. ix.; </div><div n="1">(2) {#मनोयोगः;#}</div>
+<div n="1">(3) {#अप्रमादः#} <div n="xe">{%or%}</div> <div n="xs">{#अप्रमत्तता#}</div> (=carefulness); </div><div n="1">(4)
+{#अभिनिवेशः#} (=application, study); </div><div n="1">(5) {#अवेक्षा#}
+(=looking after). Ph.: <div n="xe">{%his whole a. being%}
+{%devoted to it%}</div> <div n="xs">{#अनन्यहृदयतया,#}</div> K.; {%it engages my a.%}
+{#मनो मे बध्नाति,#} (after R. xiii. 47.); <div n="xe">{%to draw%}
+{%the a. of the king%}</div> <div n="xs">{#नरपतिप्रबोधनार्थम्,#}</div> <ls>K.</ls> </div><div n="I">II.
+Politeness, courtesy: q. v. {#आदरः#} <div n="xe">{%or%}</div> <div n="xs">{#समादरः।#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>6853<pc>218<k1>downright<k2>downright
-<div n="lb"/>{@DOWNRIGHT@}¦ (adj.): <div n="I">I Plain, artless: q. v.:
-<div n="lb"/>{#स्पष्टः#} ({#ष्टा, ष्टं#}), </div><div n="I">II Open, absolute. {#स्पष्टः#}
-<div n="lb"/>({#ष्टा, ष्टं#}), <div n="xe">{%d. nonsense:%}</div> <div n="xs">{#स्पष्टनिरर्थकमाषितम्।#}</div></div>
+{@DOWNRIGHT@}¦ (adj.): <div n="I">I Plain, artless: q. v.:
+{#स्पष्टः#} ({#ष्टा, ष्टं#}), </div><div n="I">II Open, absolute. {#स्पष्टः#}
+({#ष्टा, ष्टं#}), <div n="xe">{%d. nonsense:%}</div> <div n="xs">{#स्पष्टनिरर्थकमाषितम्।#}</div></div>
 <LEND>

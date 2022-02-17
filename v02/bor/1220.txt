@@ -1,9 +1,9 @@
 <L>1220<pc>043<k1>assent<k2>assent
-<div n="lb"/>{@ASSENT@}¦ (v. i.): <div n="1">(1) {#सम्मतः#} ({#ता, तं#}) {#भवति#} ({#भू,#} c. 1.);</div>
-<div n="lb"/><div n="1">(2) {#अभ्युपैति#} ({#इ,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#अभ्युपगच्छति#}</div> ({#गम्,#} c. 1.)
-<div n="lb"/>(with acc.) <div n="xe">{%he is sure to a. to this also%}</div> <div n="xs">{#तदप्य-#}
-<div n="lb"/>{#वश्यमसावभ्युपेष्यति#}</div> <ls>D.</ls> ii.; </div><div n="1">(4) {#स्वीकरोति#} (=to
-<div n="lb"/>accept: q. v.); </div><div n="1">(4) {#अनु-मन्यते#} ({#मन्,#} c. 4.) (rare
-<div n="lb"/>in this sense), {%I a. ed to my father's proposal,%}
-<div n="lb"/>{#तातस्य मतमन्वमंसि,#} <ls>D.</ls> iv.</div>
+{@ASSENT@}¦ (v. i.): <div n="1">(1) {#सम्मतः#} ({#ता, तं#}) {#भवति#} ({#भू,#} c. 1.);</div>
+<div n="1">(2) {#अभ्युपैति#} ({#इ,#} c. 2.) <div n="xe">{%or%}</div> <div n="xs">{#अभ्युपगच्छति#}</div> ({#गम्,#} c. 1.)
+(with acc.) <div n="xe">{%he is sure to a. to this also%}</div> <div n="xs">{#तदप्य-#}
+{#वश्यमसावभ्युपेष्यति#}</div> <ls>D.</ls> ii.; </div><div n="1">(4) {#स्वीकरोति#} (=to
+accept: q. v.); </div><div n="1">(4) {#अनु-मन्यते#} ({#मन्,#} c. 4.) (rare
+in this sense), {%I a. ed to my father's proposal,%}
+{#तातस्य मतमन्वमंसि,#} <ls>D.</ls> iv.</div>
 <LEND>

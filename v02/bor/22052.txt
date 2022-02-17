@@ -1,5 +1,5 @@
 <L>22052<pc>696<k1>sweetness<k2>sweetness
-<div n="lb"/>{@SWEETNESS:@}¦ <div n="1">(1) {#मधुरता#} <div n="xe">{%or%}</div> <div n="xs">{#माधुर्यम्,#}</div> {%s. of voice:%}
-<div n="lb"/>{#स्वरे मधुरता,#} K.; </div><div n="1">(2) {#माधुरी;#} </div><div n="1">(3) {#मिष्टता:#} v.
-<div n="lb"/>Also tastefulness, pleasantness.</div>
+{@SWEETNESS:@}¦ <div n="1">(1) {#मधुरता#} <div n="xe">{%or%}</div> <div n="xs">{#माधुर्यम्,#}</div> {%s. of voice:%}
+{#स्वरे मधुरता,#} K.; </div><div n="1">(2) {#माधुरी;#} </div><div n="1">(3) {#मिष्टता:#} v.
+Also tastefulness, pleasantness.</div>
 <LEND>

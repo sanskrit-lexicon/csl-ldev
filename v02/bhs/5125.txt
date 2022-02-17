@@ -1,51 +1,51 @@
 <L>5125<pc>191,1<k1>कृत्वा<k2>-कृत्वा<h>1
 1 {@-kṛtvā@}¦ (also -kṛtva, -kṛtvaṃ), for Skt. -kṛtvas,
-<div n="lb">adv.,…{%time(s)%}, after numerals in comp.; kṛtvā is the
-<div n="lb">only non-Skt. form noted outside of Mv, viz. in Suv
-<div n="lb">115.4; 116.7 (only v.l. triḥ° for triṣ-kṛtvā); Divy 95.24
-<div n="lb">and 124.20 ṣaṭkṛtvā (mss., ed. em. °tvo); Śikṣ 290.10, 12
-<div n="lb">triṣkṛtvā. In the mss. of Mv this form is found, along
-<div n="lb">with many others (partial list Senart, note on i.212.5);
-<div n="lb">Senart's text is highly arbitrary and inconsistent, paying
-<div n="lb">often little attention to the mss., but also not attempting
-<div n="lb">to standardize. In the following list the readings of the
-<div n="lb">mss. as given by Senart are cited. Forms showing u in
-<div n="lb">the penult of course are related to AMg. khutto, M.
-<div n="lb">huttaṃ (Pischel 451); those with final nasal, to the latter
-<div n="lb">and to Pali khattuṃ; the vowel u seems not to occur in
-<div n="lb">the final syllable except when preceded by a single t,
-<div n="lb">in which case -tu- is apparently only a misreading or
-<div n="lb">miswriting for -tta- (Senart, l.c.). Forms in -tya, -tyā,
-<div n="lb">tyo, -tyaṃ seem to be unparalleled in other dialects
-<div n="lb">but are quite common in Mv, which shows (in mss.) the
-<div n="lb">following: -kṛtvā, -kṛtva, -kṛtvaṃ, and very rarely -kṛto,
-<div n="lb">kṛtaṃ; -kṛtya, -kṛtyā, -kṛtyo, -kṛtyaṃ; -khuttaṃ (cf.
-<div n="lb">the Pkt. forms above), -khutta, -kṣuttaṃ (hyper-Skt.),
-<div n="lb">kṣunto; -khattaṃ (cf. Pali, above), -kṣattaṃ, -kṣatto,
-<div n="lb">kuttaṃ, and a few other readings too obviously corrupt
-<div n="lb">to be worth listing (but noted below): Mv (S = Senart's
-<div n="lb">text) i.212.5 S trikhuttaṃ, mss. triṣutum, triṣkṛtvā;
-<div n="lb">212.13 S triṣkhuttaṃ, mss. °khutaṃ, °kṛtya; 213.5 S
-<div n="lb">triṣkṛtvo, mss. °tvā, °tya; 231.1 S triṣkṛtyo, mss. °tya,
-<div n="lb">°tvā; 246.5 S trikhutto, mss. trikṣunto, trikhattaṃ;
-<div n="lb">246.8 S trikhutto, mss. trikṣunto, °kṣuttaṃ; 256.15 S
-<div n="lb">triṣkhuttaṃ, mss. triṣkṛtya, triṣṭūbhyaṃ (?); ii.16.1
-<div n="lb">triṣkṛtyo, v.l. °tya; 16.8 triṣkṛtyo without v.l., so
-<div n="lb">also 268.3 and iii.302.19 (mss.); ii.131.14 and 313.13
-<div n="lb">triṣkṛtyo, v.l. °tya; 177.19 S triṣkṛtvo, mss. triṣkṛtya,
-<div n="lb">triskṛtvā (dental s); 258.2 triṣkṛtyo, v.l. °tya (passage
-<div n="lb">repeated 259.1 where mss. °kṛtya, Senart em. °tyo);
-<div n="lb">282.6 S triṣkṛtvo, mss. °tvā, °tyā; ii.45.2 śatakhutto, no
-<div n="lb">v.l.; 412.5, twice, first triṣkṛto in mss. (S em. °tyo), then
-<div n="lb">°tyo, v.l. °to; 424.20 S trikṣutto, mss. trikṣatto, triṣkṛtya;
-<div n="lb">425.3 trikṣuttaṃ, v.l. triṣkṛtyaṃ; 425.15 S triṣkṣuttaṃ,
-<div n="lb">mss. triṣkṣattaṃ, triṣkṛtyaṃ; 426.7 S triṣkṣuttaṃ, mss.
-<div n="lb">triṣkuttaṃ, triṣkṛtyaṃ; iii.76.2 triṣkṛtyaṃ, no v.l.; 111.8
-<div n="lb">trikhuttaṃ, v.l. triṣkṛtyaṃ; 76.11 S triṣkṛtvo, mss. °tvā,
-<div n="lb">°ttyā; 139.4 S trikhuttaṃ, mss. triṣkṛtyaṃ, trittaṃ;
-<div n="lb">139.9 trikṣuttaṃ, v.l. triṣkṛtyaṃ; 255.6 S triṣkṛtvaṃ,
-<div n="lb">mss. °tva, °taṃ; 298.16 and 311.12 triṣkuttaṃ, 301.2
-<div n="lb">saptakuttaṃ (twice with v.l. °kṛtyaṃ); 410.16 S tri-
-<div n="lb">khuttaṃ, mss. trikṣustaṃ, triṣkṛtyaṃ; 446.6 S trikhuttaṃ,
-<div n="lb">mss. tṛkṣuttaṃ, triṣkṛtyaṃ.
+adv.,…{%time(s)%}, after numerals in comp.; kṛtvā is the
+only non-Skt. form noted outside of Mv, viz. in Suv
+115.4; 116.7 (only v.l. triḥ° for triṣ-kṛtvā); Divy 95.24
+and 124.20 ṣaṭkṛtvā (mss., ed. em. °tvo); Śikṣ 290.10, 12
+triṣkṛtvā. In the mss. of Mv this form is found, along
+with many others (partial list Senart, note on i.212.5);
+Senart's text is highly arbitrary and inconsistent, paying
+often little attention to the mss., but also not attempting
+to standardize. In the following list the readings of the
+mss. as given by Senart are cited. Forms showing u in
+the penult of course are related to AMg. khutto, M.
+huttaṃ (Pischel 451); those with final nasal, to the latter
+and to Pali khattuṃ; the vowel u seems not to occur in
+the final syllable except when preceded by a single t,
+in which case -tu- is apparently only a misreading or
+miswriting for -tta- (Senart, l.c.). Forms in -tya, -tyā,
+tyo, -tyaṃ seem to be unparalleled in other dialects
+but are quite common in Mv, which shows (in mss.) the
+following: -kṛtvā, -kṛtva, -kṛtvaṃ, and very rarely -kṛto,
+kṛtaṃ; -kṛtya, -kṛtyā, -kṛtyo, -kṛtyaṃ; -khuttaṃ (cf.
+the Pkt. forms above), -khutta, -kṣuttaṃ (hyper-Skt.),
+kṣunto; -khattaṃ (cf. Pali, above), -kṣattaṃ, -kṣatto,
+kuttaṃ, and a few other readings too obviously corrupt
+to be worth listing (but noted below): Mv (S = Senart's
+text) i.212.5 S trikhuttaṃ, mss. triṣutum, triṣkṛtvā;
+212.13 S triṣkhuttaṃ, mss. °khutaṃ, °kṛtya; 213.5 S
+triṣkṛtvo, mss. °tvā, °tya; 231.1 S triṣkṛtyo, mss. °tya,
+°tvā; 246.5 S trikhutto, mss. trikṣunto, trikhattaṃ;
+246.8 S trikhutto, mss. trikṣunto, °kṣuttaṃ; 256.15 S
+triṣkhuttaṃ, mss. triṣkṛtya, triṣṭūbhyaṃ (?); ii.16.1
+triṣkṛtyo, v.l. °tya; 16.8 triṣkṛtyo without v.l., so
+also 268.3 and iii.302.19 (mss.); ii.131.14 and 313.13
+triṣkṛtyo, v.l. °tya; 177.19 S triṣkṛtvo, mss. triṣkṛtya,
+triskṛtvā (dental s); 258.2 triṣkṛtyo, v.l. °tya (passage
+repeated 259.1 where mss. °kṛtya, Senart em. °tyo);
+282.6 S triṣkṛtvo, mss. °tvā, °tyā; ii.45.2 śatakhutto, no
+v.l.; 412.5, twice, first triṣkṛto in mss. (S em. °tyo), then
+°tyo, v.l. °to; 424.20 S trikṣutto, mss. trikṣatto, triṣkṛtya;
+425.3 trikṣuttaṃ, v.l. triṣkṛtyaṃ; 425.15 S triṣkṣuttaṃ,
+mss. triṣkṣattaṃ, triṣkṛtyaṃ; 426.7 S triṣkṣuttaṃ, mss.
+triṣkuttaṃ, triṣkṛtyaṃ; iii.76.2 triṣkṛtyaṃ, no v.l.; 111.8
+trikhuttaṃ, v.l. triṣkṛtyaṃ; 76.11 S triṣkṛtvo, mss. °tvā,
+°ttyā; 139.4 S trikhuttaṃ, mss. triṣkṛtyaṃ, trittaṃ;
+139.9 trikṣuttaṃ, v.l. triṣkṛtyaṃ; 255.6 S triṣkṛtvaṃ,
+mss. °tva, °taṃ; 298.16 and 311.12 triṣkuttaṃ, 301.2
+saptakuttaṃ (twice with v.l. °kṛtyaṃ); 410.16 S tri-
+khuttaṃ, mss. trikṣustaṃ, triṣkṛtyaṃ; 446.6 S trikhuttaṃ,
+mss. tṛkṣuttaṃ, triṣkṛtyaṃ.
 <LEND>

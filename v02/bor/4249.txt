@@ -1,4 +1,4 @@
 <L>4249<pc>138<k1>compound<k2>compound
-<div n="lb"/>{@COMPOUND@}¦ (adj.): {#यौगिकः#} ({#किं, कं#}), {%c. word:%}
-<div n="lb"/>{#यौगिकशब्दः।#} Ph.: <div n="xe">{%c. interest%}</div> <div n="xs">{#चक्रवृद्धिः,#}</div> Viv.
+{@COMPOUND@}¦ (adj.): {#यौगिकः#} ({#किं, कं#}), {%c. word:%}
+{#यौगिकशब्दः।#} Ph.: <div n="xe">{%c. interest%}</div> <div n="xs">{#चक्रवृद्धिः,#}</div> Viv.
 <LEND>

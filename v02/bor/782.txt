@@ -1,7 +1,7 @@
 <L>782<pc>028<k1>animal<k2>animal
-<div n="lb"/>{@ANIMAL@}¦ (adj.): Expr. by gen. of above:
-<div n="lb"/>Ph. <div n="xe">{%a. food%}</div> <div n="xs">{#आमिषम्:#}</div> v. {%Or%} meat; {%a. pleasures%}
-<div n="lb"/>{#विषयाः#} <div n="xe">{%or%}</div> <div n="xs">{#विषयसुखानि#}</div> (pl.): <div n="xe">{%a. passions%}</div> <div n="xs">{#इन्द्रियाणि#}</div>
-<div n="lb"/>(n. pl.) (lit. organs of sense), <div n="xe">{%or,%}</div> <div n="xs">{#कामादयः #}
-<div n="lb"/>{# षड्रिपवः;#}</div> <div n="xe">{%the a. kingdom%}</div> <div n="xs">{#*जीवसृष्टिः, निखिलप्राणिवर्गः#}</div>
+{@ANIMAL@}¦ (adj.): Expr. by gen. of above:
+Ph. <div n="xe">{%a. food%}</div> <div n="xs">{#आमिषम्:#}</div> v. {%Or%} meat; {%a. pleasures%}
+{#विषयाः#} <div n="xe">{%or%}</div> <div n="xs">{#विषयसुखानि#}</div> (pl.): <div n="xe">{%a. passions%}</div> <div n="xs">{#इन्द्रियाणि#}</div>
+(n. pl.) (lit. organs of sense), <div n="xe">{%or,%}</div> <div n="xs">{#कामादयः #}
+{# षड्रिपवः;#}</div> <div n="xe">{%the a. kingdom%}</div> <div n="xs">{#*जीवसृष्टिः, निखिलप्राणिवर्गः#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>9831<pc>233-a<k1>entry<k2>entry
-<div n="lb"/>ENTRY¦, {%s.%} (Passage for entrance) {#द्वारं, द्वारवर्त्म#} {%n.%} {#(न्), गमनाग-#}
-<div n="lb"/>{#-मनपथः#}. — (Ingress) {#प्रवेशः -शनं#}. — (Committing to writing)
-<div n="lb"/>{#अभिलिखनं, लेख्यारोपणं, पुस्तकारोपणं, समारोपणं#}.
+ENTRY¦, {%s.%} (Passage for entrance) {#द्वारं, द्वारवर्त्म#} {%n.%} {#(न्), गमनाग-#}
+{#-मनपथः#}. — (Ingress) {#प्रवेशः -शनं#}. — (Committing to writing)
+{#अभिलिखनं, लेख्यारोपणं, पुस्तकारोपणं, समारोपणं#}.
 <LEND>

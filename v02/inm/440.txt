@@ -1,11 +1,11 @@
 <L>440<pc>033-1<k1>अंश<k2>अंश
-{@Aṃśa,@}¦ one of the Ādityas. § 88 (Aṃśāvat.): I, {@65,@} 2523.—
-<div n="lb">§ 191 (Arjuna): I, {@123<lang n="greek"></lang>,@} 4822 (came to the birth of Arjuna).
-<div n="lb">—§ 258 (Khāṇḍavad.): I, {@227,@} 8267 (seized a lance).—
-<div n="lb">§ 615{%u%} (Skanda): IX, {@45<lang n="greek"></lang>,@} 2507<lang n="greek"></lang>, 2537 (gave five com-
-<div n="lb">panions to Skanda).—§ 665 (Mokṣadh.): XII, {@208<lang n="greek"></lang>,@} 7581
-<div n="lb">(enumeration).—§ 748 (Tārakavadhop.): XIII, {@86<lang n="greek"></lang>,@} 4201
-<div n="lb">(among those who came to see the newborn Skanda).—
-<div n="lb">§ 770 (Ānuśāsanik.): XIII, {@151<lang n="greek"></lang>,@} 7092 (enumeration of
-<div n="lb">the Ādityas). Cf. Sūrya.
+{@Aṃśa@},¦ one of the Ādityas. § 88 (Aṃśāvat.): I, {@65@}, 2523.—
+§ 191 (Arjuna): I, {@123@}<lang n="greek">α</lang>, 4822 (came to the birth of Arjuna).
+—§ 258 (Khāṇḍavad.): I, {@227@}, 8267 (seized a lance).—
+§ 615{%u%} (Skanda): IX, {@45@}<lang n="greek">γ</lang>, 2507<lang n="greek">δ</lang>, 2537 (gave five com-
+panions to Skanda).—§ 665 (Mokṣadh.): XII, {@208@}<lang n="greek">β</lang>, 7581
+(enumeration).—§ 748 (Tārakavadhop.): XIII, {@86@}{%a%}, 4201
+(among those who came to see the newborn Skanda).—
+§ 770 (Ānuśāsanik.): XIII, {@151@}<lang n="greek">γ</lang>, 7092 (enumeration of
+the Ādityas). Cf. Sūrya.
 <LEND>

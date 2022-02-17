@@ -1,7 +1,7 @@
 <L>21989<pc>693<k1>surprise<k2>surprise
-<div n="lb"/>{@SURPRISE@}¦ (v.): <div n="I">I Lit.: </div><div n="1">(1) {#चमत्करोति,#} <div n="xe">{%they%}
-<div n="lb"/>{%were all s. ed with it:%}</div> <div n="xs">{#तेन चमत्कृताः सर्वे,#}</div> Bha.;</div>
-<div n="lb"/><div n="1">(2) {#विस्मापयति#} (c. of {#स्मि#}): v. To astonish.</div>
-<div n="lb"/><div n="I">II To attack suddenly: {#अतर्कितं परति,#} ({#पत्,#}
-<div n="lb"/>c. 1.: with loc.), Pri.</div>
+{@SURPRISE@}¦ (v.): <div n="I">I Lit.: </div><div n="1">(1) {#चमत्करोति,#} <div n="xe">{%they%}
+{%were all s. ed with it:%}</div> <div n="xs">{#तेन चमत्कृताः सर्वे,#}</div> Bha.;</div>
+<div n="1">(2) {#विस्मापयति#} (c. of {#स्मि#}): v. To astonish.</div>
+<div n="I">II To attack suddenly: {#अतर्कितं परति,#} ({#पत्,#}
+c. 1.: with loc.), Pri.</div>
 <LEND>

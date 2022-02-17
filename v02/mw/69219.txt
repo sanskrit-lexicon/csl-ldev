@@ -1,13 +1,13 @@
 <L>69219<pc>375,1<k1>घट्<k2>घट्<e>1
 <s>घट्</s> ¦ <ab>cl.</ab> 1. <ab>Ā.</ab> <s>°टते</s> (exceptionally <ab>P.</ab> <s>°ति</s>, <ls>MBh. iii, 14703</ls>; <ls>Vet. ii, 9/10</ls>; <s>जघटे</s>, <s>घटिष्यते</s> [<ls>Naiṣ.</ls>], <s>अघटिष्ट</s>, <ls>Bhaṭṭ.</ls>), 
-<div n="to"/>to be intently occupied about, be busy with, strive or endeavour after, exert one's self for (<ab>loc.</ab> <ab>dat.</ab> <ab>acc.</ab> [<ls>MBh. iii, 14703</ls>], <s>प्रति</s>, <s>-अर्थम्</s> and <s>अर्थे</s>; <ab>inf.</ab> <ls>Pāṇ. 3-4, 65</ls>; <ls>Bhaṭṭ.</ls>);
+<div n="to"/>to be intently occupied about, be busy with, strive or endeavour after, exert one's self for (<ab>loc.</ab> <ab>dat.</ab> <ab>acc.</ab> [<ls>MBh. iii, 14703</ls>], <s>प्रति</s>, <s>-अर्थम्</s> and <s>अर्थे</s>; <ab>inf.</ab> <ls>Pāṇ. iii, 4, 65</ls>; <ls>Bhaṭṭ.</ls>);
 <div n="to"/>to reach, come to (<ab>loc.</ab>), <ls>Vet. ii, 9/10</ls>;
 <div n="to"/>to fall to the share of (<ab>loc.</ab>), <ls>Naiṣ. x, 47</ls>;
 <div n="to"/>to take effect, answer, <ls>Kathās. cxxiv</ls>; <ls>Rājat. vi, 361</ls>;
 <div n="to"/>to happen, take place, be possible, suit, <ls>BhP.</ls>; <ls>Hcar.</ls>; <ls>Śiś. ix, 4</ls>; <ls>Ratnâv.</ls>; <ls>Naiṣ.</ls>; <ls>Sarvad.</ls> &c.;
 <div n="to"/>to be in connection or united with (<ab>instr.</ab>), <ls>Mālatīm. ii, 8</ls>; <ls>Daś. viii, 34</ls>; <ls>Rājat. iv, 617</ls>;
 <div n="to"/> (for √ <s>घट्ट्</s>) to hurt with words, speak of malignantly, <ls>Hariv. ii, 1, 31</ls> :
-<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>घटयति</s> (<ls>Pāṇ. 6-4, 92</ls>; exceptionally <ab>Ā.</ab> <s>°ते</s>, <ls>Rājat. iv, 543</ls>), 
+<div n="vp"/><ab>Caus.</ab> <ab>P.</ab> <s>घटयति</s> (<ls>Pāṇ. vi, 4, 92</ls>; exceptionally <ab>Ā.</ab> <s>°ते</s>, <ls>Rājat. iv, 543</ls>), 
 <div n="to"/>to join together, connect, bring together, unite, <ls>Suśr.</ls>; <ls>Śiś. ix, 87</ls>; <ls>Naiṣ. i, 46</ls>; <ls>Ratnâv.</ls>;
 <div n="to"/>to shut, <ls>Hcar. v, 253</ls> (<ab>v.l.</ab>);
 <div n="to"/>to put or place or lay on (<ab>loc.</ab>), <ls>Gīt. v, vii, xii</ls>;
@@ -16,7 +16,7 @@
 <div n="to"/>to do a service (<ab>acc.</ab>) to any one (<ab>gen.</ab>), <ls>Rājat. v, 543</ls>;
 <div n="to"/>to impel, <ls>Bhaṭṭ. x, 73</ls>;
 <div n="to"/>to exert one's self, <ls>MBh. iii, 14702</ls>;
-<div n="to"/> (for √ <s>घट्ट्</s>, <ab>Caus.</ab>) to rub, graze, touch, move, agitate, <ls>iv, vi (C), vii, xii (5363, C)</ls>:
+<div n="to"/> (for √ <s>घट्ट्</s>, <ab>Caus.</ab>) to rub, graze, touch, move, agitate, <ls>iv, vi (<ab>C</ab>), vii, xii (5363, <ab>C</ab>)</ls>:
 <div n="vp"/><ab>Caus.</ab> <s>घाटयति</s>, to hurt, injure, <ls>Dhātup. xxxiii, 49</ls>;
 <div n="to"/>to unite or put together, <ls>ib.</ls>;
 <div n="vp"/> ‘to speak’ or ‘to shine’ <ls> 93.</ls><info westergaard="Gawa,33.49,10.0165"/><info whitneyroots="Gaw,41"/><info verb="genuineroot" cp="1Ā,1P"/>

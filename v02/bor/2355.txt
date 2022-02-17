@@ -1,4 +1,4 @@
 <L>2355<pc>081<k1>booth<k2>booth
-<div n="lb"/>{@BOOTH:@}¦ <div n="1">(1) {#पर्णशाला#} (=hut); </div><div n="1">(2) {#दूष्यम्#} (=tent):</div>
-<div n="lb"/><div n="1">(3) {#उपकार्या#} (rare).</div>
+{@BOOTH:@}¦ <div n="1">(1) {#पर्णशाला#} (=hut); </div><div n="1">(2) {#दूष्यम्#} (=tent):</div>
+<div n="1">(3) {#उपकार्या#} (rare).</div>
 <LEND>

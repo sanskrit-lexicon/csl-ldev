@@ -1,4 +1,4 @@
 <L>19134<pc>592<k1>resource<k2>resource
-<div n="lb"/>{@RESOURCE:@}¦ <div n="I">I Means, remedy: q. v.: {#उपायः।#}</div>
-<div n="lb"/><div n="I">II In pl., fortune, affluence: q. v.: {#विभवः।#}</div>
+{@RESOURCE:@}¦ <div n="I">I Means, remedy: q. v.: {#उपायः।#}</div>
+<div n="I">II In pl., fortune, affluence: q. v.: {#विभवः।#}</div>
 <LEND>

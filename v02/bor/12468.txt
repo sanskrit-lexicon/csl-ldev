@@ -1,4 +1,4 @@
 <L>12468<pc>387<k1>intensive<k2>intensive
-<div n="lb"/>{@INTENSIVE:@}¦ In gram.: {#भृशार्थकः#} ({#का, कं#}), {#यङ्#} <div n="xe">{%is%}
-<div n="lb"/>{%also i.:%}</div> <div n="xs">{#भृशार्थे च यङ् स्यात्।#}</div>
+{@INTENSIVE:@}¦ In gram.: {#भृशार्थकः#} ({#का, कं#}), {#यङ्#} <div n="xe">{%is%}
+{%also i.:%}</div> <div n="xs">{#भृशार्थे च यङ् स्यात्।#}</div>
 <LEND>

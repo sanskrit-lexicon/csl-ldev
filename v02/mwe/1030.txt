@@ -1,7 +1,7 @@
 <L>1030<pc>021-a<k1>appearance<k2>appearance
-<div n="lb"/>APPEARANCE¦, {%s.%} (Coming into sight) {#दर्शनं, सन्दर्शनं#}. — (Entry into
-<div n="lb"/>a place or company) {#उपस्थितिः#} {%f.,%} {#प्रवेशनं#}. — (The thing seen)
-<div n="lb"/>{#रूपं, आकृतिः#} {%f.,%} {#मूर्त्तिः#} {%f.,%} {#आकारः#}. — (Semblance, not reality)
-<div n="lb"/>{#छाया, आभासः, आभा, अवस्तुता#}. — (Presence, mien) {#रूपं, अवस्था,#}
-<div n="lb"/>{#भावः, आकारः#}. — (Probability) {#अनुमेयत्वं, अनुभवनीयत्वं#}.
+APPEARANCE¦, {%s.%} (Coming into sight) {#दर्शनं, सन्दर्शनं#}. — (Entry into
+a place or company) {#उपस्थितिः#} {%f.,%} {#प्रवेशनं#}. — (The thing seen)
+{#रूपं, आकृतिः#} {%f.,%} {#मूर्त्तिः#} {%f.,%} {#आकारः#}. — (Semblance, not reality)
+{#छाया, आभासः, आभा, अवस्तुता#}. — (Presence, mien) {#रूपं, अवस्था,#}
+{#भावः, आकारः#}. — (Probability) {#अनुमेयत्वं, अनुभवनीयत्वं#}.
 <LEND>

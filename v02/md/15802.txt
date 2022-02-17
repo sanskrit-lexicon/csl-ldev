@@ -1,12 +1,12 @@
 <L>15802<pc>267-3<k1>वणिक्कटक<k2>वणिक्कटक
 {#वणिक्कटक#}¦vaṇik-kaṭaka, {%m.%} trading caravan; <lbinfo n="4"/>
-<> {@-karman,@} {%n.%} business of a merchant, 
-<>trade; {@-tva,@} {%n.%} position of a merchant; {@-pa-@}
-<>{@-tha,@} {%m.%} pursuits of a merchant, trade; merchant's <lbinfo n="3"/>
-<> shop; merchant; {%Líbra%} ({%sign of the %}
-<>{%zodiac%}); {@-putra,@} {%m.%} merchant's son; {@-puru-@}
-<>{@-ṣa,@} {%m.%} merchant; {@-sārtha,@} {%m.%} trading caravan; <lbinfo n="4"/>
-<> {@-suta,@} {%m.%} merchant's son; {@-sutā,@} {%f.%} 
-<>merchant's daughter; {@-sūnu,@} {%m.%} merchant's 
-<>son.
+ {@-karman,@} {%n.%} business of a merchant, 
+trade; {@-tva,@} {%n.%} position of a merchant; {@-pa-@}
+{@-tha,@} {%m.%} pursuits of a merchant, trade; merchant's <lbinfo n="3"/>
+ shop; merchant; {%Líbra%} ({%sign of the %}
+{%zodiac%}); {@-putra,@} {%m.%} merchant's son; {@-puru-@}
+{@-ṣa,@} {%m.%} merchant; {@-sārtha,@} {%m.%} trading caravan; <lbinfo n="4"/>
+ {@-suta,@} {%m.%} merchant's son; {@-sutā,@} {%f.%} 
+merchant's daughter; {@-sūnu,@} {%m.%} merchant's 
+son.
 <LEND>

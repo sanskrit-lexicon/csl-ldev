@@ -1,5 +1,5 @@
 <L>24003<pc>751<k1>vow<k2>vow
-<div n="lb"/>{@VOW@}¦ (subs.): <div n="1">(1) {#व्रतः, -तम्#} (= religious), <div n="xe">{%breach%}
-<div n="lb"/>{%of v.:%}</div> <div n="xs">{#व्रतभङ्गः,#}</div> K.; </div><div n="1">(2) {#संकल्पः#} (= resolution);</div>
-<div n="lb"/><div n="1">(3) {#प्रतिज्ञा#} (= promise).</div>
+{@VOW@}¦ (subs.): <div n="1">(1) {#व्रतः, -तम्#} (= religious), <div n="xe">{%breach%}
+{%of v.:%}</div> <div n="xs">{#व्रतभङ्गः,#}</div> K.; </div><div n="1">(2) {#संकल्पः#} (= resolution);</div>
+<div n="1">(3) {#प्रतिज्ञा#} (= promise).</div>
 <LEND>

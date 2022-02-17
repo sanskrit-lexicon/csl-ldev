@@ -1,9 +1,9 @@
 <L>18881<pc>583<k1>regulate<k2>regulate
-<div n="lb"/>{@REGULATE:@}¦ <div n="I">I To adjust, arrange: q. v.:</div>
-<div n="lb"/><div n="1">(1) {#संवि-दधाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.); </div><div n="1">(2) {#परि-#}
-<div n="lb"/>{#कल्पयति, उप-,#} ({#क्ल्टप्,#} c. 10.). </div><div n="I">II To manage,
-<div n="lb"/>rule: q. v.: </div><div n="1">(1) {#शास्ति, अनु-#} ({#शास्,#} c. 2.);</div>
-<div n="lb"/><div n="1">(2) {#नियच्छति#} ({#यम्,#} c. l. = to control). </div><div n="I">III
-<div n="lb"/>To adjust by rule: perh. {#व्यवस्थापयति#} (c. of
-<div n="lb"/>{#स्था#}).</div>
+{@REGULATE:@}¦ <div n="I">I To adjust, arrange: q. v.:</div>
+<div n="1">(1) {#संवि-दधाति#} <div n="xe">{%or%}</div> <div n="xs">{#धत्ते#}</div> ({#धा,#} c. 3.); </div><div n="1">(2) {#परि-#}
+{#कल्पयति, उप-,#} ({#क्ल्टप्,#} c. 10.). </div><div n="I">II To manage,
+rule: q. v.: </div><div n="1">(1) {#शास्ति, अनु-#} ({#शास्,#} c. 2.);</div>
+<div n="1">(2) {#नियच्छति#} ({#यम्,#} c. l. = to control). </div><div n="I">III
+To adjust by rule: perh. {#व्यवस्थापयति#} (c. of
+{#स्था#}).</div>
 <LEND>

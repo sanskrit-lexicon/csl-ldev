@@ -1,21 +1,21 @@
 <L>15189<pc>254-1<k1>रात्रि<k2>रात्रि
 {#रात्रि#}¦rā́-tr-i, {%f.%} ({%only%} {@ī@} {%in RV., which later %}
-<>{%became shortned%}), night; {%abbreviation for%} 
-<>rātri-paryāya: {@-ka,@} {%a.%} nocturnal: -° {%after a %}
-<>{%numeral,%} staying {%or%} lasting ({%so and so many%}) 
-<>nights; {@-kara,@} {%m.%} (night-maker), moon; {@-ca-@}
-<>{@-ra@}, {%m.%} (night-walker), watchman; Rākṣasa; 
-<>{@-caryā@}, {%f.%} night-wandering; nocturnal ceremony; <lbinfo n="4"/>
-<> {@-jāgara@}, {%m.%} wakefulness at night; 
-<>{@-devata,@} {%a.%} having the night as a deity; 
-<>{@-nātha,@} {%m.%} lord of night, moon; {@-ṃ diva@}, {%n.%} 
-<>night and day: {@-m, ā,@} {%ad.%} by night and by 
-<>day; {@-paryāya,@} {%m. the three%} ritual turns {%in %}
-<>{%the Atirātra ceremony%}; {@-bhujaṃga@}, {%m.%} 
-<>moon; {@-m-aṭa@}, {%m.%} (night-rover), demon; 
-<>{@-maya,@} {%a.%} nocturnal; {@-rakṣaka,@} {%m.%} watchman; <lbinfo n="5"/>
-<> {@-vāsas,@} {%n.%} night-dress; {@-śeṣa@}, {%m.%} remainder <lbinfo n="2"/>
-<> {%or%} last part of the night; {@-sūkta,@} {%n.%} 
-<>hymn to night ({%designation of the hymn interpolated %}<lbinfo n="2"/>
-<>{% after RV.%} X, ¤127¤).
+{%became shortned%}), night; {%abbreviation for%} 
+rātri-paryāya: {@-ka,@} {%a.%} nocturnal: -° {%after a %}
+{%numeral,%} staying {%or%} lasting ({%so and so many%}) 
+nights; {@-kara,@} {%m.%} (night-maker), moon; {@-ca-@}
+{@-ra@}, {%m.%} (night-walker), watchman; Rākṣasa; 
+{@-caryā@}, {%f.%} night-wandering; nocturnal ceremony; <lbinfo n="4"/>
+ {@-jāgara@}, {%m.%} wakefulness at night; 
+{@-devata,@} {%a.%} having the night as a deity; 
+{@-nātha,@} {%m.%} lord of night, moon; {@-ṃ diva@}, {%n.%} 
+night and day: {@-m, ā,@} {%ad.%} by night and by 
+day; {@-paryāya,@} {%m. the three%} ritual turns {%in %}
+{%the Atirātra ceremony%}; {@-bhujaṃga@}, {%m.%} 
+moon; {@-m-aṭa@}, {%m.%} (night-rover), demon; 
+{@-maya,@} {%a.%} nocturnal; {@-rakṣaka,@} {%m.%} watchman; <lbinfo n="5"/>
+ {@-vāsas,@} {%n.%} night-dress; {@-śeṣa@}, {%m.%} remainder <lbinfo n="2"/>
+ {%or%} last part of the night; {@-sūkta,@} {%n.%} 
+hymn to night ({%designation of the hymn interpolated %}<lbinfo n="2"/>
+{% after RV.%} X, ¤127¤).
 <LEND>

@@ -1,21 +1,21 @@
 <L>10259<pc>324<k1>great<k2>great
-<div n="lb"/>{@GREAT:@}¦ <div n="1">(1) {#महत्#} (f. {#ती#}): in most senses: (a)
-<div n="lb"/>of size: <div n="xe">{%a g. forest:%}</div> <div n="xs">{#महावनम्,#}</div> Mu.: v. Large.
-<div n="lb"/>(b) of quantity: <div n="xe">{%g. collection:%}</div> <div n="xs">{#महान्निचयः,#}</div> Ki.;
-<div n="lb"/><div n="xe">{%a g. crowd:%}</div> <div n="xs">{#महाजनसमूहः,#}</div> Ku. (c) of weight:
-<div n="lb"/><div n="xe">{%g. news:%}</div> <div n="xs">{#महती वार्त्ता,#}</div> H.; <div n="xe">{%for g. result:%}</div> <div n="xs">{#महते फलाय,#}</div>
-<div n="lb"/>Ki.: v. Important. (d) eminent, noble:
-<div n="lb"/><div n="xe">{%of the g.:%}</div> <div n="xs">{#महताम्,#}</div> Ki.; <div n="xe">{%g. man:%}</div> <div n="xs">{#महाजनः,#}</div> Mah.;
-<div n="lb"/><div n="xe">{%g. -minded:%}</div> <div n="xs">{#महात्मन्#}</div> (mfn.), K.: v. Principal,
-<div n="lb"/>chief. (e) of degree, etc.: <div n="xe">{%a g. while:%}</div> <div n="xs">{#महान् #}
-<div n="lb"/>{# कालः,#}</div> K.; <div n="xe">{%g. effort:%}</div> <div n="xs">{#महान् यन्टः,#}</div> R.; {%g. sinner:%}
-<div n="lb"/>{#महापातकिन्,#} Vi.; <div n="xe">{%of g. price:%}</div> <div n="xs">{#महार्ह#}</div> (f. {#र्हा#}), Ku.;
-<div n="lb"/><div n="xe">{%g. interval:%}</div> <div n="xs">{#महन्दतरम्।#}</div> P.; </div><div n="1">(2) {#सु#} (= good) {%or%}
-<div n="lb"/>{#अति#} (= very) prefixed (to intensify the
-<div n="lb"/>meaning), <div n="xe">{%to a g. distance:%}</div> <div n="xs">{#सुटूरम्,#}</div> K.; {%g. many:%}
-<div n="lb"/>{#सुबहु#} (mfn.), K.; <div n="xe">{%to a g. degree:%}</div> <div n="xs">{#अत्यर्थम्,#}</div> Ki.;</div>
-<div n="lb"/><div n="1">(3) {#अधिकः#} ({#का, कं#}) (when there is compari-
-<div n="lb"/>-son), <div n="xe">{%the g. animals did not harass the little:%}</div> <div n="xs">{#ऊनं #}
-<div n="lb"/>{# न सत्त्वेष्वधिको बबाधे,#}</div> R. ii. 14.; {%g. er devotion:%}
-<div n="lb"/>{#अधिका भक्तिः,#} K.: v. More.</div>
+{@GREAT:@}¦ <div n="1">(1) {#महत्#} (f. {#ती#}): in most senses: (a)
+of size: <div n="xe">{%a g. forest:%}</div> <div n="xs">{#महावनम्,#}</div> Mu.: v. Large.
+(b) of quantity: <div n="xe">{%g. collection:%}</div> <div n="xs">{#महान्निचयः,#}</div> Ki.;
+<div n="xe">{%a g. crowd:%}</div> <div n="xs">{#महाजनसमूहः,#}</div> Ku. (c) of weight:
+<div n="xe">{%g. news:%}</div> <div n="xs">{#महती वार्त्ता,#}</div> H.; <div n="xe">{%for g. result:%}</div> <div n="xs">{#महते फलाय,#}</div>
+Ki.: v. Important. (d) eminent, noble:
+<div n="xe">{%of the g.:%}</div> <div n="xs">{#महताम्,#}</div> Ki.; <div n="xe">{%g. man:%}</div> <div n="xs">{#महाजनः,#}</div> Mah.;
+<div n="xe">{%g. -minded:%}</div> <div n="xs">{#महात्मन्#}</div> (mfn.), K.: v. Principal,
+chief. (e) of degree, etc.: <div n="xe">{%a g. while:%}</div> <div n="xs">{#महान् #}
+{# कालः,#}</div> K.; <div n="xe">{%g. effort:%}</div> <div n="xs">{#महान् यन्टः,#}</div> R.; {%g. sinner:%}
+{#महापातकिन्,#} Vi.; <div n="xe">{%of g. price:%}</div> <div n="xs">{#महार्ह#}</div> (f. {#र्हा#}), Ku.;
+<div n="xe">{%g. interval:%}</div> <div n="xs">{#महन्दतरम्।#}</div> P.; </div><div n="1">(2) {#सु#} (= good) {%or%}
+{#अति#} (= very) prefixed (to intensify the
+meaning), <div n="xe">{%to a g. distance:%}</div> <div n="xs">{#सुटूरम्,#}</div> K.; {%g. many:%}
+{#सुबहु#} (mfn.), K.; <div n="xe">{%to a g. degree:%}</div> <div n="xs">{#अत्यर्थम्,#}</div> Ki.;</div>
+<div n="1">(3) {#अधिकः#} ({#का, कं#}) (when there is compari-
+-son), <div n="xe">{%the g. animals did not harass the little:%}</div> <div n="xs">{#ऊनं #}
+{# न सत्त्वेष्वधिको बबाधे,#}</div> R. ii. 14.; {%g. er devotion:%}
+{#अधिका भक्तिः,#} K.: v. More.</div>
 <LEND>

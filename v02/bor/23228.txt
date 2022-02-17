@@ -1,5 +1,5 @@
 <L>23228<pc>730<k1>underground<k2>underground
-<div n="lb"/>{@UNDERGROUND@}¦ (adj.): {#अन्तर्मौम#} (f. {#मी#}). Ph.:
-<div n="lb"/><div n="xe">{%u. building:%}</div> <div n="xs">{#भूमिगृहम्,#}</div> D. iv.; <div n="xe">{%u. passage:%}</div> <div n="xs">{#सुरङ्गम्, #}
-<div n="lb"/>{# -ङ्गा,#}</div> D. ii.
+{@UNDERGROUND@}¦ (adj.): {#अन्तर्मौम#} (f. {#मी#}). Ph.:
+<div n="xe">{%u. building:%}</div> <div n="xs">{#भूमिगृहम्,#}</div> D. iv.; <div n="xe">{%u. passage:%}</div> <div n="xs">{#सुरङ्गम्, #}
+{# -ङ्गा,#}</div> D. ii.
 <LEND>

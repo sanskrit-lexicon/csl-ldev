@@ -1,5 +1,5 @@
 <L>13420<pc>413<k1>legitimate<k2>legitimate
-<div n="lb"/>{@LEGITIMATE:@}¦ <div n="I">I Legal: {#वैधः#} ({#धी, धं#}) (?). </div><div n="I">II
-<div n="lb"/>Of birth: {#सुजन्मन्#} (mfn (?). </div><div n="I">III Genuine:
-<div n="lb"/>{#यथार्थ#} (f. {#र्था#}).</div>
+{@LEGITIMATE:@}¦ <div n="I">I Legal: {#वैधः#} ({#धी, धं#}) (?). </div><div n="I">II
+Of birth: {#सुजन्मन्#} (mfn (?). </div><div n="I">III Genuine:
+{#यथार्थ#} (f. {#र्था#}).</div>
 <LEND>

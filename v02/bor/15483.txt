@@ -1,3 +1,3 @@
 <L>15483<pc>474<k1>nominative<k2>nominative
-<div n="lb"/>{@NOMINATIVE:@}¦ {#कर्ता,#} <div n="xe">{%n. case:%}</div> <div n="xs">{#कर्तृकारकम्।#}</div>
+{@NOMINATIVE:@}¦ {#कर्ता,#} <div n="xe">{%n. case:%}</div> <div n="xs">{#कर्तृकारकम्।#}</div>
 <LEND>

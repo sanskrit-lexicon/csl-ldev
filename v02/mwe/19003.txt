@@ -1,5 +1,5 @@
 <L>19003<pc>491-a<k1>medalist<k2>medalist
-<div n="lb"/>MEDALIST¦, {%s.%} (Person skilled in medals) {#मुद्राविद्याज्ञः, मुद्राविद्#} {%m.,%}
-<div n="lb"/>{#मुद्रापरीक्षकः#}. — (One who has gained a medal) {#कीर्त्तिमुद्रा-#}
-<div n="lb"/>{#धारी#} {%m.%} {#(न्), कीर्त्तिमुद्रावान्#} {%m.%} ({#त्#}).
+MEDALIST¦, {%s.%} (Person skilled in medals) {#मुद्राविद्याज्ञः, मुद्राविद्#} {%m.,%}
+{#मुद्रापरीक्षकः#}. — (One who has gained a medal) {#कीर्त्तिमुद्रा-#}
+{#धारी#} {%m.%} {#(न्), कीर्त्तिमुद्रावान्#} {%m.%} ({#त्#}).
 <LEND>

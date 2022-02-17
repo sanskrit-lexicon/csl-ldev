@@ -1,10 +1,10 @@
 <L>15053<pc>460<k1>move<k2>move
-<div n="lb"/>{@MOVE@}¦ (v. i.): <div n="I">I In gen.: </div><div n="1">(1) {#चलति#} ({#चल्,#}
-<div n="lb"/>c. l.), <div n="xe">{%m.ing dust:%}</div> <div n="xs">{#चरद्धराधूलि-,#}</div> Ku.; <div n="xe">{%the%}
-<div n="lb"/>{%girl m.d:%}</div> <div n="xs">{#चचाल बाला,#}</div> Ku. v. 84.; {%for the minds%}
-<div n="lb"/>{%of%} ({%persons%}) <div n="xe">{%seeking victory do not m. from%}
-<div n="lb"/>{%policy:%}</div> <div n="xs">{#चलति नयान्न जिगीषतां हि चेतः,#}</div> Ki. x. 29.;</div>
-<div n="lb"/><div n="1">(2) {#गच्छति#} (= to go) q.v.: v. Also to
-<div n="lb"/>remove. </div><div n="I">II To make a motion: {#*प्रस्तावं#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#प्रस्तावनां करोति।#}</div></div>
+{@MOVE@}¦ (v. i.): <div n="I">I In gen.: </div><div n="1">(1) {#चलति#} ({#चल्,#}
+c. l.), <div n="xe">{%m.ing dust:%}</div> <div n="xs">{#चरद्धराधूलि-,#}</div> Ku.; <div n="xe">{%the%}
+{%girl m.d:%}</div> <div n="xs">{#चचाल बाला,#}</div> Ku. v. 84.; {%for the minds%}
+{%of%} ({%persons%}) <div n="xe">{%seeking victory do not m. from%}
+{%policy:%}</div> <div n="xs">{#चलति नयान्न जिगीषतां हि चेतः,#}</div> Ki. x. 29.;</div>
+<div n="1">(2) {#गच्छति#} (= to go) q.v.: v. Also to
+remove. </div><div n="I">II To make a motion: {#*प्रस्तावं#}
+<div n="xe">{%or%}</div> <div n="xs">{#प्रस्तावनां करोति।#}</div></div>
 <LEND>

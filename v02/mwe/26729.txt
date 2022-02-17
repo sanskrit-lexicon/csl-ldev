@@ -1,6 +1,6 @@
 <L>26729<pc>731-a<k1>set<k2>set
-<div n="lb"/>SET¦, {%s.%} (Number of things of the same kind) {#गणः, समूहः, वर्गः,#}
-<div n="lb"/>{#संघः, श्रेणी, पंक्तिः#} {%f.;%} ‘a set of dishes,’ {#भोजनपात्रसमूहः;#} ‘a
-<div n="lb"/>set of numbers,’ {#संख्याश्रेणी#}. — (Number of persons) {#जनसमूहः,#}
-<div n="lb"/>{#पंक्तिः#} {%f.,%} {#गणः, वर्गः#}.
+SET¦, {%s.%} (Number of things of the same kind) {#गणः, समूहः, वर्गः,#}
+{#संघः, श्रेणी, पंक्तिः#} {%f.;%} ‘a set of dishes,’ {#भोजनपात्रसमूहः;#} ‘a
+set of numbers,’ {#संख्याश्रेणी#}. — (Number of persons) {#जनसमूहः,#}
+{#पंक्तिः#} {%f.,%} {#गणः, वर्गः#}.
 <LEND>

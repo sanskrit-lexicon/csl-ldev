@@ -1,4 +1,4 @@
 <L>21163<pc>667<k1>spiky<k2>spiky
-<div n="lb"/>{@SPIKY:@}¦ <div n="1">(1) {#तीक्ष्णाग्र#} (f. {#ग्रा#} = sharp-pointed);</div>
-<div n="lb"/><div n="1">(2) {#कीलचित#} (f. {#ता#} = furnished with spikes).</div>
+{@SPIKY:@}¦ <div n="1">(1) {#तीक्ष्णाग्र#} (f. {#ग्रा#} = sharp-pointed);</div>
+<div n="1">(2) {#कीलचित#} (f. {#ता#} = furnished with spikes).</div>
 <LEND>

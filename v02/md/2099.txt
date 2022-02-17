@@ -1,9 +1,9 @@
 <L>2099<pc>022-1<k1>अप्रसन्न<k2>अप्रसन्न
 {#अप्रसन्न#}¦a-pra-sanna, {%pp.%} not appeased; unreconciled, <lbinfo n="2"/>
-<> angry with ({%lc.%}); {@-sahiṣṇu@}, {%a.%} incapable; <lbinfo n="2"/>
-<> {@-sāda,@} {%m.%} disfavour, unfriendliness; 
-<>{@-sādita,@} {%pp.%} unclarified; {@-siddha,@} {%pp.%} unaccomplished; <lbinfo n="2"/>
-<> unknown; unheard of; {@-sūta,@} 
-<>{%pp.%} not having borne, barren; {@-sphuṭa@}, {%a.%} indistinct, <lbinfo n="2"/>
-<> unintelligible.
+ angry with ({%lc.%}); {@-sahiṣṇu@}, {%a.%} incapable; <lbinfo n="2"/>
+ {@-sāda,@} {%m.%} disfavour, unfriendliness; 
+{@-sādita,@} {%pp.%} unclarified; {@-siddha,@} {%pp.%} unaccomplished; <lbinfo n="2"/>
+ unknown; unheard of; {@-sūta,@} 
+{%pp.%} not having borne, barren; {@-sphuṭa@}, {%a.%} indistinct, <lbinfo n="2"/>
+ unintelligible.
 <LEND>

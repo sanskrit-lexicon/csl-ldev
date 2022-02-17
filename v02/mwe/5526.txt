@@ -1,12 +1,12 @@
 <L>5526<pc>121-b<k1>confidence<k2>confidence
-<div n="lb"/>CONFIDENCE¦, {%s.%} (Trust, firm belief) {#विश्वासः, प्रत्ययः, विश्रम्भः -म्भणं,#}
-<div n="lb"/>{#समाश्वासः, दृढप्रत्ययः, असंशयः, असन्देहः, असन्दिग्धता, श्रद्धं -द्धा, आशा-#}
-<div n="lb"/>{#बन्धः;#} ‘breach of confidence,’ {#विश्वासभङ्गः;#} ‘an object of
-<div n="lb"/>confidence,’ {#विश्वासभूमिः#} {%f.,%} {#विश्वासपात्रं;#} ‘worthy of confidence,’
-<div n="lb"/>{#विश्वास्यः -स्या -स्यं;#} ‘one whose confidence has been gained,’
-<div n="lb"/>{#विश्वासप्रतिपन्नः -न्ना -न्नं;#} ‘to inspire with confidence,’ {#आश्वस्#}
-<div n="lb"/>in caus. ({#-श्वासयति -यितुं#}) or {#विश्वस्;#} ‘inspired with confi-
-<div n="lb"/>dence,’ {#विश्वासितः -ता -तं#}. — (Conviction, certainty) {#निश्चयः,#}
-<div n="lb"/>{#दृढज्ञानं, दृढप्रमाणं#}. — (Boldness, want of modesty) {#प्रगल्भता,#}
-<div n="lb"/>{#प्रतिभा -भानं, अविशङ्का, धार्ष्ट्यं, निर्लज्जता#}.
+CONFIDENCE¦, {%s.%} (Trust, firm belief) {#विश्वासः, प्रत्ययः, विश्रम्भः -म्भणं,#}
+{#समाश्वासः, दृढप्रत्ययः, असंशयः, असन्देहः, असन्दिग्धता, श्रद्धं -द्धा, आशा-#}
+{#बन्धः;#} ‘breach of confidence,’ {#विश्वासभङ्गः;#} ‘an object of
+confidence,’ {#विश्वासभूमिः#} {%f.,%} {#विश्वासपात्रं;#} ‘worthy of confidence,’
+{#विश्वास्यः -स्या -स्यं;#} ‘one whose confidence has been gained,’
+{#विश्वासप्रतिपन्नः -न्ना -न्नं;#} ‘to inspire with confidence,’ {#आश्वस्#}
+in caus. ({#-श्वासयति -यितुं#}) or {#विश्वस्;#} ‘inspired with confi-
+dence,’ {#विश्वासितः -ता -तं#}. — (Conviction, certainty) {#निश्चयः,#}
+{#दृढज्ञानं, दृढप्रमाणं#}. — (Boldness, want of modesty) {#प्रगल्भता,#}
+{#प्रतिभा -भानं, अविशङ्का, धार्ष्ट्यं, निर्लज्जता#}.
 <LEND>

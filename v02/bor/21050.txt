@@ -1,7 +1,7 @@
 <L>21050<pc>663<k1>sound<k2>sound
-<div n="lb"/>{@SOUND@}¦ (adj.): <div n="I">I In good condition: {#सुस्थ#}
-<div n="lb"/>(f. {#स्था#}). </div><div n="I">II Good, pure: q. v.: {#सारवत्#} (f.
-<div n="lb"/>{#ती#}). </div><div n="I">III Severe: q. v.: {#गुरु#} (f. also
-<div n="lb"/>{#र्वी#}). </div><div n="I">IV Deep, profound: q. v.: {#गभीर#}
-<div n="lb"/>(f. {#रा#}).</div>
+{@SOUND@}¦ (adj.): <div n="I">I In good condition: {#सुस्थ#}
+(f. {#स्था#}). </div><div n="I">II Good, pure: q. v.: {#सारवत्#} (f.
+{#ती#}). </div><div n="I">III Severe: q. v.: {#गुरु#} (f. also
+{#र्वी#}). </div><div n="I">IV Deep, profound: q. v.: {#गभीर#}
+(f. {#रा#}).</div>
 <LEND>

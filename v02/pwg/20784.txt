@@ -1,7 +1,7 @@
 <L>20784<pc>2-0587<k1>खचर<k2>खचर
 {#खचर#}¦ ({#ख + चर#}) 
 <div n="1"> 1) <lex>adj.</lex> {%im Luftraum sich bewegend, fliegend%} 
-<ls>MBH. 3, 12205. 14962. 14968. 7, 222. 13, 897. 1147.</ls> 
+<ls>MBH. 3, 12205.</ls> <ls n="MBH. 3,">14962.</ls> <ls n="MBH. 3,">14968.</ls> <ls n="MBH.">7, 222.</ls> <ls n="MBH.">13, 897.</ls> <ls n="MBH. 13,">1147.</ls> 
 <ls>ARJ. 10, 26.</ls> 
 <ls>BHĀG. P. 3, 13, 27.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
@@ -18,5 +18,5 @@
 <ls>ŚKDR.</ls> 
 <div n="2">— f) N. pr. eines Volkes 
 <ls>VARĀH. BṚH. S. 14, 28</ls> in <ls>Verz. d. B. H. 241.</ls> — Als Beleg für die verschiedenen Bedeutungen des Wortes führt 
-<ls>ŚKDR.</ls> <ls>?aus MBH.</ls> 7 folgende Verse an: {#खचरस्य सुतस्य सुतः खचरः खचरस्य पिता न पुनः खचरः । खचरस्य सुतेन हतः खचरः खचरी#} (sic) {#परिरोदिति हा खचर ॥#}
+<ls>ŚKDR.</ls> aus <ls>MBH.</ls> 7 folgende Verse an: {#खचरस्य सुतस्य सुतः खचरः खचरस्य पिता न पुनः खचरः । खचरस्य सुतेन हतः खचरः खचरी#} (sic) {#परिरोदिति हा खचर ॥#}
 <LEND>

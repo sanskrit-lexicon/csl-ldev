@@ -1,7 +1,7 @@
 <L>24049<pc>752<k1>wall<k2>wall
-<div n="lb"/>{@WALL:@}¦ <div n="I">I Of a house: </div><div n="1">(1) {#भित्तिः;#} </div><div n="1">(2) {#कृड्यम्।#}</div>
-<div n="lb"/><div n="I">II An inclosing w.: </div><div n="1">(1) {#प्राकारः;#} </div><div n="1">(2) {#वरणः;#}</div>
-<div n="lb"/><div n="1">(3) {#सालः।#} Ph.: (a) {%to drive to the w.:%}
-<div n="lb"/>{#अवसादयति#} (c. of {#सद्#}); (b) {%to go to the w.:%}
-<div n="lb"/>{#अवसीदति#} ({#सद्,#} c. 1.).</div>
+{@WALL:@}¦ <div n="I">I Of a house: </div><div n="1">(1) {#भित्तिः;#} </div><div n="1">(2) {#कृड्यम्।#}</div>
+<div n="I">II An inclosing w.: </div><div n="1">(1) {#प्राकारः;#} </div><div n="1">(2) {#वरणः;#}</div>
+<div n="1">(3) {#सालः।#} Ph.: (a) {%to drive to the w.:%}
+{#अवसादयति#} (c. of {#सद्#}); (b) {%to go to the w.:%}
+{#अवसीदति#} ({#सद्,#} c. 1.).</div>
 <LEND>

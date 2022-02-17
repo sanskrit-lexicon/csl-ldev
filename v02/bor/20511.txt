@@ -1,6 +1,6 @@
 <L>20511<pc>643<k1>siege<k2>siege
-<div n="lb"/>{@SIEGE:@}¦ {#रोधः, अव-, नि-,#} <div n="xe">{%to raise a s.:%}</div> <div n="xs">{#रोधं मुञ्चति#}</div> {%or%}
-<div n="lb"/>sim. {#व्यपायाति#} ({#या,#} c. 2. = to go away), Mah.
-<div n="lb"/>iii. 19-26. Ph.: <div n="xe">{%to lay a s. to:%}</div> <div n="xs">{#रुणद्धि#}</div> ({#रुध्,#} c.
-<div n="lb"/>7.), Mah. iii. 15. 3.: v. To besiege.
+{@SIEGE:@}¦ {#रोधः, अव-, नि-,#} <div n="xe">{%to raise a s.:%}</div> <div n="xs">{#रोधं मुञ्चति#}</div> {%or%}
+sim. {#व्यपायाति#} ({#या,#} c. 2. = to go away), Mah.
+iii. 19-26. Ph.: <div n="xe">{%to lay a s. to:%}</div> <div n="xs">{#रुणद्धि#}</div> ({#रुध्,#} c.
+7.), Mah. iii. 15. 3.: v. To besiege.
 <LEND>

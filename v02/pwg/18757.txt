@@ -3,7 +3,7 @@
 <ls>Uṇ. 4, 123.</ls> (Die Schreibart ist so wechselnd, dass 
 z. B. im <ls>AV.</ls> kaum eine Stelle ist, in welcher nicht die Handschriften sowohl die eine als die andere darböten; der besseren Uebersicht wegen haben wir Alles unter {#कृमि#} zusammengestellt, welche Form sich näher an die der verwandten Sprachen anschliesst.) 
 <div n="1"> 1) <lex>m.</lex> 
-<ls>SIDDH. K.249,b,3 v. u.</ls> 
+<ls>SIDDH. K.249,b,3</ls> v. u. 
 <div n="2"> a) {%Wurm, Made%} 
 <ls>AK. 2, 5, 13. 2, 6, 3, 12. 3, 1, 51.</ls> 
 <ls>H. 1202. 21.</ls> 
@@ -13,7 +13,7 @@ z. B. im <ls>AV.</ls> kaum eine Stelle ist, in welcher nicht die Handschriften s
 <ls>5, 23, 1. fgg.</ls> 
 <ls>ŚAT. BR. 5, 4, 1, 2. 14, 9, 2, 14.</ls> 
 <ls>M. 1, 40. 2, 201. 3, 92. 8, 232. 10, 91. 11, 70. 12, 42. 56. 59.</ls> 
-<ls>MBH. 1, 1796. 1798. 14, 1136.</ls> 
+<ls>MBH. 1, 1796.</ls> <ls n="MBH. 1,">1798.</ls> <ls n="MBH.">14, 1136.</ls> 
 <ls>SUŚR. 1, 4, 20. 155, 12. 172, 7. 2, 509, 11. fgg.</ls> (Aufzählung der versch. Arten). 
 <ls>BHARTṚ. 1, 63.</ls> 
 <ls>BHĀG. P. 3, 31, 6. 27. 5, 26, 18.</ls> {%Spinne%} 
@@ -22,7 +22,7 @@ z. B. im <ls>AV.</ls> kaum eine Stelle ist, in welcher nicht die Handschriften s
 <div n="2">— b) {%die von einem Insect herrührende rothe Farbe%} {#लाक्षा#} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— c) N. pr. eines Sohnes von <is>Uśīnara</is> 
-<ls>HARIV. 1676. 1678.</ls> 
+<ls>HARIV. 1676.</ls> <ls n="HARIV.">1678.</ls> 
 <ls>VP. 444.</ls> von <is>Bhajamāna</is> 
 <ls>HARIV. 2002.</ls> 
 <ls>VP. 424,</ls> 

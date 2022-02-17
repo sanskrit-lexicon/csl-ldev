@@ -1,6 +1,6 @@
 <L>26106<pc>711-b<k1>scaffold<k2>scaffold
-<div n="lb"/>SCAFFOLD¦, SCAFFOLDING, {%s.%} {#मञ्चः, मञ्चकः, इन्द्रकोषः, कर्णवंशः, ताराङ्गणं#}.
-<div n="lb"/> — (For spectators) {#प्रेक्षामञ्चः -ञ्चकः, प्रेक्षागारं, मञ्चः#}. — (For the
-<div n="lb"/>execution of a criminal) {#मधनञ्चः, धातमञ्चः, बध्यथातमम्बः, बध-#}
-<div n="lb"/>{#स्थानं, घातस्थानं#}.
+SCAFFOLD¦, SCAFFOLDING, {%s.%} {#मञ्चः, मञ्चकः, इन्द्रकोषः, कर्णवंशः, ताराङ्गणं#}.
+ — (For spectators) {#प्रेक्षामञ्चः -ञ्चकः, प्रेक्षागारं, मञ्चः#}. — (For the
+execution of a criminal) {#मधनञ्चः, धातमञ्चः, बध्यथातमम्बः, बध-#}
+{#स्थानं, घातस्थानं#}.
 <LEND>

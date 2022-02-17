@@ -1,4 +1,4 @@
 <L>17034<pc>521<k1>pigtail<k2>pigtail
-<div n="lb"/>{@PIGTAIL:@}¦ <div n="xe">{%dressing the hair in p.:%}</div> <div n="xs">{#*शूकरपुच्छवत् #}
-<div n="lb"/>{# केशानि विरचय्य।#}</div>
+{@PIGTAIL:@}¦ <div n="xe">{%dressing the hair in p.:%}</div> <div n="xs">{#*शूकरपुच्छवत् #}
+{# केशानि विरचय्य।#}</div>
 <LEND>

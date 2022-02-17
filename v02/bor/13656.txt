@@ -1,4 +1,4 @@
 <L>13656<pc>420<k1>listless<k2>listless
-<div n="lb"/>{@LISTLESS:@}¦ <div n="1">(1) {#अनवहितः#} ({#ता, तं#}) (= careless);</div>
-<div n="lb"/><div n="1">(2) {#निरीहः#} ({#हा, हं#}) (= indolent, indifferent).</div>
+{@LISTLESS:@}¦ <div n="1">(1) {#अनवहितः#} ({#ता, तं#}) (= careless);</div>
+<div n="1">(2) {#निरीहः#} ({#हा, हं#}) (= indolent, indifferent).</div>
 <LEND>

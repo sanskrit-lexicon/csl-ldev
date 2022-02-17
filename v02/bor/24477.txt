@@ -1,24 +1,24 @@
 <L>24477<pc>767<k1>world<k2>world
-<div n="lb"/>{@WORLD:@}¦ Lit.: <div n="1">(1) {#विश्वम्#} (= universe), <div n="xe">{%of w.%}
-<div n="lb"/>{%wide reputation:%}</div> <div n="xs">{#विश्वविख्यातकीर्तिः,#}</div> D. s.; <div n="xe">{%con-%}
-<div n="lb"/>{%ducive to the good of the w.:%}</div> <div n="xs">{#विश्वजनीनः#}</div> ({#ना, नं#})
-<div n="lb"/>Si. i. 41.; <div n="xe">{%supporter of the w.:%}</div> <div n="xs">{#विश्वम्भरः,#}</div> Si. i. 38.;</div>
-<div n="lb"/><div n="1">(2) {#जगत्#} (= the whole w., also particular w.-
-<div n="lb"/>s), {%the w. is now an empty withered wilderness:%}
-<div n="lb"/>{#शून्यमधुना जीर्णारण्यं जगत्,#} U. i.; <div n="xe">{%the whole w.%}
-<div n="lb"/>{%from God to worm:%}</div> <div n="xs">{#आब्रह्म कीटान्तमिदं समस्तं जगत्,#}</div>
-<div n="lb"/>V. m. 74. 20.; </div><div n="1">(3) {#लोकः#} (any w.), <div n="xe">{%the w. of%}
-<div n="lb"/>{%gods:%}</div> <div n="xs">{#अमरलोकः,#}</div> Ve. vii.; {%has left the w.%} ({%i. e.%}
-<div n="lb"/>{%died%}): {#परलोकमितो गतः,#} Ve. iii. 15.; </div><div n="1">(4) {#भुवनम्#}
-<div n="lb"/>(= 3), <div n="xe">{%the three w. s robbed of their jewel:%}</div> <div n="xs">{#परि-#}
-<div n="lb"/>{#मुषितरत्न त्रिभुवनम्,#}</div> Ma. v. 29.; </div><div n="1">(5) {#संसारः#} (=
-<div n="lb"/>living w.), <div n="xe">{%throughout the w.:%}</div> <div n="xs">{#यावत्संसारमण्डलम्,#}</div>
-<div n="lb"/>Si.; </div><div n="1">(6) {#भूः#} (= earth: q. v.). Ph.: <div n="xe">{%in this%}
-<div n="lb"/>{%w.:%}</div> <div n="xs">{#इह:#}</div> v. Here; <div n="xe">{%of this w.:%}</div> <div n="xs">{#ऐहिकः#}</div> ({#की, #}
-<div n="lb"/>{# कम्#}); <div n="xe">{%of the next w.%}</div> <div n="xs">{#पारत्रिक#}</div> (f. {#की#}) {%or%}
-<div n="lb"/>{#आमुष्मिक#} (f. {#की#}), D. ii. </div><div n="I">II People: q. v.:
-<div n="lb"/>{#लोकः।#} </div><div n="I">III Mundane w.: {#संसारः,#} <div n="xe">{%snares of the%}
-<div n="lb"/>{%w.:%}</div> <div n="xs">{#संसारमाया#}</div> (also sim. {#मायाजालम्, मोहपाशः,#}
-<div n="lb"/>etc.). <div n="xe">{%To renounce the w.:%}</div> <div n="xs">{#संन्यस्यति#}</div> ({#अस्,#} c.
-<div n="lb"/>4.); <div n="xe">{%aversion to w.:%}</div> <div n="xs">{#वैराग्यम्।#}</div></div>
+{@WORLD:@}¦ Lit.: <div n="1">(1) {#विश्वम्#} (= universe), <div n="xe">{%of w.%}
+{%wide reputation:%}</div> <div n="xs">{#विश्वविख्यातकीर्तिः,#}</div> D. s.; <div n="xe">{%con-%}
+{%ducive to the good of the w.:%}</div> <div n="xs">{#विश्वजनीनः#}</div> ({#ना, नं#})
+Si. i. 41.; <div n="xe">{%supporter of the w.:%}</div> <div n="xs">{#विश्वम्भरः,#}</div> Si. i. 38.;</div>
+<div n="1">(2) {#जगत्#} (= the whole w., also particular w.-
+s), {%the w. is now an empty withered wilderness:%}
+{#शून्यमधुना जीर्णारण्यं जगत्,#} U. i.; <div n="xe">{%the whole w.%}
+{%from God to worm:%}</div> <div n="xs">{#आब्रह्म कीटान्तमिदं समस्तं जगत्,#}</div>
+V. m. 74. 20.; </div><div n="1">(3) {#लोकः#} (any w.), <div n="xe">{%the w. of%}
+{%gods:%}</div> <div n="xs">{#अमरलोकः,#}</div> Ve. vii.; {%has left the w.%} ({%i. e.%}
+{%died%}): {#परलोकमितो गतः,#} Ve. iii. 15.; </div><div n="1">(4) {#भुवनम्#}
+(= 3), <div n="xe">{%the three w. s robbed of their jewel:%}</div> <div n="xs">{#परि-#}
+{#मुषितरत्न त्रिभुवनम्,#}</div> Ma. v. 29.; </div><div n="1">(5) {#संसारः#} (=
+living w.), <div n="xe">{%throughout the w.:%}</div> <div n="xs">{#यावत्संसारमण्डलम्,#}</div>
+Si.; </div><div n="1">(6) {#भूः#} (= earth: q. v.). Ph.: <div n="xe">{%in this%}
+{%w.:%}</div> <div n="xs">{#इह:#}</div> v. Here; <div n="xe">{%of this w.:%}</div> <div n="xs">{#ऐहिकः#}</div> ({#की, #}
+{# कम्#}); <div n="xe">{%of the next w.%}</div> <div n="xs">{#पारत्रिक#}</div> (f. {#की#}) {%or%}
+{#आमुष्मिक#} (f. {#की#}), D. ii. </div><div n="I">II People: q. v.:
+{#लोकः।#} </div><div n="I">III Mundane w.: {#संसारः,#} <div n="xe">{%snares of the%}
+{%w.:%}</div> <div n="xs">{#संसारमाया#}</div> (also sim. {#मायाजालम्, मोहपाशः,#}
+etc.). <div n="xe">{%To renounce the w.:%}</div> <div n="xs">{#संन्यस्यति#}</div> ({#अस्,#} c.
+4.); <div n="xe">{%aversion to w.:%}</div> <div n="xs">{#वैराग्यम्।#}</div></div>
 <LEND>

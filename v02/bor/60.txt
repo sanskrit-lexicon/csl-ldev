@@ -1,5 +1,5 @@
 <L>60<pc>003<k1>about<k2>about
-<div n="lb"/>{@ABOUT, BE:@}¦ {#उद्यतः#} ({#ता, तं#}): v. Point of, on the;
-<div n="lb"/>ready. Ph.: <div n="xe">{%What is the king a. now%}</div> <div n="xs">{#अथ स #}
-<div n="lb"/>{# राजा किमारम्भः सम्प्रति,#}</div> U. ii.
+{@ABOUT, BE:@}¦ {#उद्यतः#} ({#ता, तं#}): v. Point of, on the;
+ready. Ph.: <div n="xe">{%What is the king a. now%}</div> <div n="xs">{#अथ स #}
+{# राजा किमारम्भः सम्प्रति,#}</div> U. ii.
 <LEND>

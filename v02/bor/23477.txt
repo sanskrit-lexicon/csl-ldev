@@ -1,5 +1,5 @@
 <L>23477<pc>737<k1>unreservedly<k2>unreservedly
-<div n="lb"/>{@UNRESERVEDLY:@}¦ <div n="I">I Frankly: </div><div n="1">(1) {#असंवृतम्;#}</div>
-<div n="lb"/><div n="1">(2) {#असङ्कोचम्।#} </div><div n="I">II Without any limitation:
-<div n="lb"/>{#असंयतम्।#}</div>
+{@UNRESERVEDLY:@}¦ <div n="I">I Frankly: </div><div n="1">(1) {#असंवृतम्;#}</div>
+<div n="1">(2) {#असङ्कोचम्।#} </div><div n="I">II Without any limitation:
+{#असंयतम्।#}</div>
 <LEND>

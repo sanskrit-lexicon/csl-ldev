@@ -1,8 +1,8 @@
 <L>15609<pc>478<k1>nurse<k2>nurse
-<div n="lb"/>{@NURSE@}¦ (subs.): <div n="I">I Lit.: {#धात्री,#} <div n="xe">{%wet-n.:%}</div> <div n="xs">{#दोग्ध्री घात्री,#}</div>
-<div n="lb"/>Sr.; {%by Mālatī's n.'s daughter Lavangikā:%}
-<div n="lb"/>{#मालतीधात्रेय्या लवङ्गिकया,#} Ma. </div><div n="I">II For sick [Page479]
-<div n="lb"/>men: {#परिचारिका।#} </div><div n="I">III Fig.: </div><div n="1">(1) {#पालयितृ#} (f.
-<div n="lb"/>{#त्री#}); </div><div n="1">(2) {#सम्भावयितृ#} (f. {#त्री#}), {%the n. of the wise:%}
-<div n="lb"/>{#सम्भावयिता बुद्धान्,#} D.</div>
+{@NURSE@}¦ (subs.): <div n="I">I Lit.: {#धात्री,#} <div n="xe">{%wet-n.:%}</div> <div n="xs">{#दोग्ध्री घात्री,#}</div>
+Sr.; {%by Mālatī's n.'s daughter Lavangikā:%}
+{#मालतीधात्रेय्या लवङ्गिकया,#} Ma. </div><div n="I">II For sick [Page479]
+men: {#परिचारिका।#} </div><div n="I">III Fig.: </div><div n="1">(1) {#पालयितृ#} (f.
+{#त्री#}); </div><div n="1">(2) {#सम्भावयितृ#} (f. {#त्री#}), {%the n. of the wise:%}
+{#सम्भावयिता बुद्धान्,#} D.</div>
 <LEND>

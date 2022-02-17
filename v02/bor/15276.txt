@@ -1,7 +1,7 @@
 <L>15276<pc>467<k1>nave<k2>nave
-<div n="lb"/>{@NAVE:@}¦ <div n="I">I Of a wheel: </div><div n="1">(1) {#नाभिः#} ({#भी#}) (f.);</div>
-<div n="lb"/><div n="1">(2) {#पिण्डिः (ण्डी#}) (f.). </div><div n="I">II Of a church: perh.
-<div n="lb"/>{#नाभिः; मध्यमागः#} </div><div n="I">III Fig.: {#नाभिः,#} <div n="xe">{%you are the%}
-<div n="lb"/>{%n. of this world:%}</div> <div n="xs">{#त्वमस्य जगतो नाभिः,#}</div> V. p.v.
-<div n="lb"/>7. 35.</div>
+{@NAVE:@}¦ <div n="I">I Of a wheel: </div><div n="1">(1) {#नाभिः#} ({#भी#}) (f.);</div>
+<div n="1">(2) {#पिण्डिः (ण्डी#}) (f.). </div><div n="I">II Of a church: perh.
+{#नाभिः; मध्यमागः#} </div><div n="I">III Fig.: {#नाभिः,#} <div n="xe">{%you are the%}
+{%n. of this world:%}</div> <div n="xs">{#त्वमस्य जगतो नाभिः,#}</div> V. p.v.
+7. 35.</div>
 <LEND>

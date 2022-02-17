@@ -17,14 +17,14 @@
 <ls>KĀṬH. 27, 5.</ls> — {#श्रेयो भोक्तुं भैक्षमपीह लोके#} 
 <ls>BHAG. 2, 5.</ls> {#सर्वैः सह मृतं श्रेयो न च मे जीवितं क्षमम्#} 
 <ls>MBH. 1, 6142.</ls> {#किं नु मे मरणं श्रेयः परित्यागो जनस्य वा#} 
-<ls>?3, 2342. R. 2, 21, 26 (18, 29 GORR.). 4, 19, 27. SĀṂKHYAK. 2. Spr. (II) 3045. 6580. PRAB. 6, 7. BHĀG. P. 1, 7, 51. HIT. 32, 22.</ls> {#उत्सर्गं मन्यते श्रेयो दमयन्त्याः#} 
+<ls>3, 2342.</ls> <ls>R. 2, 21, 26 (18, 29 GORR.). 4, 19, 27.</ls> <ls>SĀṂKHYAK. 2.</ls> <ls>Spr. (II) 3045.</ls> <ls n="Spr. (II)">6580.</ls> <ls>PRAB. 6, 7.</ls> <ls>BHĀG. P. 1, 7, 51.</ls> <ls>HIT. 32, 22.</ls> {#उत्सर्गं मन्यते श्रेयो दमयन्त्याः#} 
 <ls>MBH. 3, 2345.</ls> mit abl.: {#श्रेयो मूहूर्तं तव संनिधानं ममैव कृत्स्नादपि जीवलोकात्#} 
 <ls>R. 2, 21, 52.</ls> {#तस्मान्न देवाः श्रेयांसं लोके ऽन्यं पुरुषं विदुः#} 
 <ls>M. 8, 96.</ls> {#प्रतिग्रहाच्छिलः श्रेयान्#} 
-<ls>10, 112.</ls> <ls>Spr. (II) 4201. 6581. fgg.</ls> <ls>BHĀG. P. 3, 29, 32.</ls> {#श्रेयान्#} (gew. neutr. {#श्रेयः) - न#} (auch mit Wiederholung von {#श्रे°#}) {%besser - als%} (vgl. {#वरम् - न): मृत्युः श्रेयानिहैव नः । न चाहं यौवराज्ये वै सुग्रीवेणाभिषेचितः ॥#} 
+<ls>10, 112.</ls> <ls>Spr. (II) 4201.</ls> <ls n="Spr. (II)">6581. fgg.</ls> <ls>BHĀG. P. 3, 29, 32.</ls> {#श्रेयान्#} (gew. neutr. {#श्रेयः) - न#} (auch mit Wiederholung von {#श्रे°#}) {%besser - als%} (vgl. {#वरम् - न): मृत्युः श्रेयानिहैव नः । न चाहं यौवराज्ये वै सुग्रीवेणाभिषेचितः ॥#} 
 <ls>R. 4, 53, 12. fg.</ls> {#विपत्तिरपि वा तत्र श्रेयो मे नेह जीवितम्#} 
 <ls>2, 29, 5.</ls> {#मम मृतं श्रेयो न जीवितम्#} 
-<ls>68, 29. 3, 48, 16.</ls> <ls>Spr. (II) 580. fg. 4094. 5876.</ls> — im comp. nach einem nom. act. (welches seinen Ton behält) 
+<ls>68, 29. 3, 48, 16.</ls> <ls>Spr. (II) 580. fg.</ls> <ls n="Spr. (II)">4094.</ls> <ls n="Spr. (II)">5876.</ls> — im comp. nach einem nom. act. (welches seinen Ton behält) 
 <ls>P. 6, 2, 25.</ls> {#गमन°#} {%besser zum Gehen%} Schol. — {#श्रेयस्सु गुरुवद्वृत्तिं नित्यमेव समाचरेत्#} {%gegen Angesehenere, - Höhere%} 
 <ls>M. 2, 207. 119.</ls> {#सम, अवकृष्टजाति, श्रेयंस्#} 
 <ls>8, 177. 10, 64.</ls> Gegens. {#पापीयंस्#} 
@@ -62,7 +62,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>RATNAM. 47.</ls> = {#रास्ना#} 
-<ls>?49. H. an. VIŚVA im ŚKDR. - CARAKA 1, 27.</ls> 
+<ls>49.</ls> <ls>H. an.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> - <ls>CARAKA 1, 27.</ls> 
 <div n="2">— b) N. pr. einer <is>Bodhivṛkṣadevatā</is> 
 <ls>LALIT. ed. Calc. 421, 16.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
@@ -79,10 +79,10 @@
 <ls>224.</ls> {#प्रेत्य श्रेयो ऽभिकाङ्क्षिणः#} 
 <ls>4, 91.</ls> {#परं श्रेयो ऽधिगच्छति#} 
 <ls>258.</ls> {#श्रेयो वै ते भविष्यति#} 
-<ls>MBH. 3, 1794. 2520.</ls> 
+<ls>MBH. 3, 1794.</ls> <ls n="MBH. 3,">2520.</ls> 
 <ls>R. 4, 18, 14. 5, 1, 11.</ls> 
 <ls>MĀRK. P. 126, 5.</ls> {#आत्मानं श्रेयसा योक्ष्ये#} 
-<ls>MBH. 3, 2489. 2629.</ls> 
+<ls>MBH. 3, 2489.</ls> <ls n="MBH. 3,">2629.</ls> 
 <ls>R. 3, 17, 26.</ls> 
 <ls>MBH. 3, 2614.</ls> {#तत्र ते ऽहं श्रेयो धास्यामि यत्परम्#} 
 <ls>2618.</ls> {#स ते श्रेयो विधास्यति#} 
@@ -99,7 +99,7 @@
 <ls>VARĀH. BṚH. S. 49, 4.</ls> {#श्रेयोलवावह#} 
 <ls>RĀJA-TAR. 3, 35.</ls> 
 <ls>BHĀG. P. 1, 1, 9. 4, 25. 2, 1, 12.</ls> 
-<ls>PAÑCAT. 182, 1.</ls> plur. <ls>SUŚR. 1, 122, 21.</ls> <ls>ŚĀK. 99, 21.</ls> <ls>VIKR. 68, 6. 7.</ls> <ls>Spr. (II) 3470. 4252. 4310.</ls> <ls>KIR. 5, 49.</ls> <ls>VARĀH. BṚH. S. 68, 93.</ls> <ls>BHĀG. P. 1, 2, 23. 4, 24, 75. 31, 12. fg. 7, 14, 29.</ls> Die Lexicographen geben dem Neutrum folgende Bedeutungen: {#मङ्गल#} 
+<ls>PAÑCAT. 182, 1.</ls> plur. <ls>SUŚR. 1, 122, 21.</ls> <ls>ŚĀK. 99, 21.</ls> <ls>VIKR. 68, 6. 7.</ls> <ls>Spr. (II) 3470.</ls> <ls n="Spr. (II)">4252.</ls> <ls n="Spr. (II)">4310.</ls> <ls>KIR. 5, 49.</ls> <ls>VARĀH. BṚH. S. 68, 93.</ls> <ls>BHĀG. P. 1, 2, 23. 4, 24, 75. 31, 12. fg. 7, 14, 29.</ls> Die Lexicographen geben dem Neutrum folgende Bedeutungen: {#मङ्गल#} 
 u.s.w. <ls>H. 86.</ls> <ls>H. an.</ls> <ls>HALĀY. 1, 122.</ls> {#धर्म#} 
 <ls>AK. 1, 1, 4, 2.</ls> 
 <ls>H. 1379.</ls> 

@@ -1,12 +1,12 @@
 <L>14890<pc>455<k1>money<k2>money
-<div n="lb"/>{@MONEY:@}¦ <div n="1">(1) {#धनम्,#} <div n="xe">{%to make m.:%}</div> <div n="xs">{#धनं करोति,#}</div> <ls>H.</ls> ;
-<div n="lb"/><div n="xe">{%to acquire much m.:%}</div> <div n="xs">{#महद्धनम् उपार्जयति,#}</div> <ls>D.</ls> ; <div n="xe">{%if%}
-<div n="lb"/>{%we are rich with m. dug in the middle of a%}
-<div n="lb"/>{%house:%}</div> <div n="xs">{#गृहमध्यनिखातेन धनेन धनिनो यदि,#}</div> <ls>P.</ls> ; <div n="xe">{%what%}
-<div n="lb"/>{%is the use of m. who does not give, does not%}
-<div n="lb"/>{%enjoy:%}</div> <div n="xs">{#धनेन किं यो न ददाति न्मश्नुते,#}</div> <ls>H.</ls> ; </div><div n="1">(2)
-<div n="lb"/>{#अर्थः,#} <div n="xe">{%loss of m.:%}</div> <div n="xs">{#अर्थनाशः,#}</div> <ls>H.</ls> ; <div n="xe">{%man is slave of%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#अर्थस्य पुरुषो दासः,#}</div> <ls>J.</ls> ; </div><div n="1">(3) {#वित्तम्,#} <div n="xe">{%buying%}
-<div n="lb"/>{%his poverty with own m.:%}</div> <div n="xs">{#वित्तैर्निजैः क्रीत्वा दारिद्रम्,#}</div>
-<div n="lb"/><ls>D.</ls> : v. Coin, wealth.</div>
+{@MONEY:@}¦ <div n="1">(1) {#धनम्,#} <div n="xe">{%to make m.:%}</div> <div n="xs">{#धनं करोति,#}</div> <ls>H.</ls> ;
+<div n="xe">{%to acquire much m.:%}</div> <div n="xs">{#महद्धनम् उपार्जयति,#}</div> <ls>D.</ls> ; <div n="xe">{%if%}
+{%we are rich with m. dug in the middle of a%}
+{%house:%}</div> <div n="xs">{#गृहमध्यनिखातेन धनेन धनिनो यदि,#}</div> <ls>P.</ls> ; <div n="xe">{%what%}
+{%is the use of m. who does not give, does not%}
+{%enjoy:%}</div> <div n="xs">{#धनेन किं यो न ददाति न्मश्नुते,#}</div> <ls>H.</ls> ; </div><div n="1">(2)
+{#अर्थः,#} <div n="xe">{%loss of m.:%}</div> <div n="xs">{#अर्थनाशः,#}</div> <ls>H.</ls> ; <div n="xe">{%man is slave of%}
+{%m.:%}</div> <div n="xs">{#अर्थस्य पुरुषो दासः,#}</div> <ls>J.</ls> ; </div><div n="1">(3) {#वित्तम्,#} <div n="xe">{%buying%}
+{%his poverty with own m.:%}</div> <div n="xs">{#वित्तैर्निजैः क्रीत्वा दारिद्रम्,#}</div>
+<ls>D.</ls> : v. Coin, wealth.</div>
 <LEND>

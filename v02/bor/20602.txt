@@ -1,5 +1,5 @@
 <L>20602<pc>646<k1>singularity<k2>singularity
-<div n="lb"/>{@SINGULARITY:@}¦ <div n="1">(1) {#अपूर्वता#} (uncommonness);</div>
-<div n="lb"/><div n="1">(2) {#अपरूपता#} (= oddness); </div><div n="1">(3) {#विशिष्टता#}
-<div n="lb"/>(= particularity).</div>
+{@SINGULARITY:@}¦ <div n="1">(1) {#अपूर्वता#} (uncommonness);</div>
+<div n="1">(2) {#अपरूपता#} (= oddness); </div><div n="1">(3) {#विशिष्टता#}
+(= particularity).</div>
 <LEND>

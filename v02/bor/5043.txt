@@ -1,9 +1,9 @@
 <L>5043<pc>162<k1>credit<k2>credit
-<div n="lb"/>{@CREDIT@}¦ (subs.): <div n="I">I Belief: q. v.: {#विश्वासः।#} </div><div n="I">II
-<div n="lb"/>Esteem, reputation: q. v.: {#प्रतिष्ठा।#} Ph.:
-<div n="lb"/><div n="xe">{%it reflects c. on you:%}</div> <div n="xs">{#एतत्ते दाक्ष्यं दर्शयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#त्वां #}
-<div n="lb"/>{# प्रतिष्ठापयति#}</div> (?). </div><div n="I">III Authority: {#प्रामाण्यम्।#} </div><div n="I">IV
-<div n="lb"/>In a commercial sense: {#*विश्वासः,#} <div n="xe">{%to sell on%}
-<div n="lb"/>{%c.:%}</div> <div n="xs">{#*विश्वासेन विक्रीणीते।#}</div> Ph.: {%c. side%} (of an
-<div n="lb"/>account) {#*प्राप्तधनभागः।#}</div>
+{@CREDIT@}¦ (subs.): <div n="I">I Belief: q. v.: {#विश्वासः।#} </div><div n="I">II
+Esteem, reputation: q. v.: {#प्रतिष्ठा।#} Ph.:
+<div n="xe">{%it reflects c. on you:%}</div> <div n="xs">{#एतत्ते दाक्ष्यं दर्शयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#त्वां #}
+{# प्रतिष्ठापयति#}</div> (?). </div><div n="I">III Authority: {#प्रामाण्यम्।#} </div><div n="I">IV
+In a commercial sense: {#*विश्वासः,#} <div n="xe">{%to sell on%}
+{%c.:%}</div> <div n="xs">{#*विश्वासेन विक्रीणीते।#}</div> Ph.: {%c. side%} (of an
+account) {#*प्राप्तधनभागः।#}</div>
 <LEND>

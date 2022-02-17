@@ -24,7 +24,7 @@
 <ls n="ṚV. 2,">4, 7.</ls> <ls n="ṚV.">7, 20, 2.</ls> {#प्र बो^धया\ पुर^ंधिं जा\र आ स^स\तीमि^व#} 
 <ls n="ṚV.">1, 134, 3.</ls> {#उदी^रय पि\तरा^ जा\र आ भग^म्#} 
 <ls n="ṚV.">10, 11, 6.</ls> <ls n="ṚV. 10,">22, 3.</ls> <ls>AV. 6, 33, 1. 7, 22, 1.</ls> {#तद्देवा ज्योतिषां ज्योतिरायुर्ह्योपासते ऽमृतम्#} 
-<ls>ŚAT. BR. 14, 7, 2, 20</ls> <ls>?(= BṚH. ĀR. UP. 4, 4, 16). 9, 2, 3, 44.</ls> {#तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा इतीति न्यमीमिषदा#} 
+<ls>ŚAT. BR. 14, 7, 2, 20</ls> (= <ls>BṚH. ĀR. UP. 4, 4, 16). 9, 2, 3, 44.</ls> {#तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा इतीति न्यमीमिषदा#} 
 <ls>KENOP. 29.</ls> Aus Stellen wie ein Theil der hier angeführten wurde die Bedeutung {%wie%} abgeleitet, welche aber nicht unmittelbar im Worte liegt. 
 <ls>NIR. 3, 13.</ls> 
 <ls>ŚAṂK.</ls> zu <ls>KENOP. 19.</ls> 
@@ -32,7 +32,7 @@
 <ls>ṚV. 9, 67, 23.</ls> {#अधि#} 
 <ls n="ṚV. 9,">73, 5.</ls> <ls n="ṚV. 9, 73,">6.</ls> {#अनु#} 
 <ls n="ṚV.">2, 38, 7.</ls> {#सचा#} 
-<ls>?1, 9, 3. S. u. d. Ww.</ls> 
+<ls>1, 9, 3. S. u. d. Ww.</ls> 
 <div n="1">— 2) praep. 
 <div n="2"> a) {%zu - hin, bis an, bis zu, bis auf, bevor%}: 
 <div n="3"> α) mit vorang. acc.: {#ताँ आ #}
@@ -54,7 +54,7 @@
 <ls>18, 3, 62. 1, 14, 3.</ls> {#शीर्ष्ण आ पुच्छात्#} 
 <ls>ŚAT. BR. 10, 2, 1, 9. 3, 1, 3, 9. 12, 8, 3, 17.</ls> {#ऐतस्मात्कालात्#} 
 <ls>4, 2, 4, 5. 1, 5, 2, 9. 2, 4, 2, 21. 3, 2, 1, 7.</ls> {#यदिदं किं च मिथुनमा पिपीलिकाभ्यः#} 
-<ls>14, 4, 2, 9 (=</ls> <ls>BṚH. ĀR. UP. 1, 4, 4).</ls> {#यत्तपस्तप्यत आ मैथुनात्#} 
+<ls>14, 4, 2, 9</ls> (= <ls>BṚH. ĀR. UP. 1, 4, 4).</ls> {#यत्तपस्तप्यत आ मैथुनात्#} 
 <ls>10, 4, 4, 4.</ls> <ls>KĀTY. ŚR. 2, 2, 2. 6, 9. 12, 4, 1. 6, 18.</ls> {#आ समुद्रात्तु वै पूर्वादा समुद्रात्तु पश्चिमात् । तयोरेवान्तरं गिर्योरार्यावर्तं विदुर्बुधाः ॥#} 
 <ls>M. 2, 22.</ls> {#आ हैव स नखाग्रेभ्यः परमं तप्यते तपः#} 
 <ls>167.</ls> {#आ षोडशात्#} {%bis zum 16ten%} (Jahre) 
@@ -144,12 +144,12 @@ v. l. zu <ls>ŚĀK. 69, 2.</ls> {#आनील#} {%bläulich%}
 <ls>ŚĀK. 184.</ls> {#आतिरश्चीन#} {%etwas in die Quere gehend%} 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 23.</ls> {#आपक्व#} (s. d.) 
 <ls>AK. 2, 9, 47.</ls> {#आलोल#} 
-<ls>BHARTṚ. 3, 48</ls> {#(आलोलायतलोचनाः)#}.{# आलक्ष्य#} {%kaum, eben sichtbar%} 
+<ls>BHARTṚ. 3, 48</ls> ({#आलोलायतलोचनाः#}).{# आलक्ष्य#} {%kaum, eben sichtbar%} 
 <ls>ŚĀK. 176.</ls> {#आभुग्न#} {%ein wenig gebogen%} 
 <ls>RAGH. 1, 83.</ls> — Um diese Partikel von der interj. {#आ#} zu unterscheiden, versehen die indischen Grammatiker und Lexicographen dieselbe mit einem {#ङ्#} am Ende ({#आङ्#}). 
 <ls>P. 1, 1, 14. 4, 89. 2, 1, 13. 3, 10.</ls> 
 <ls>VOP. 1, 8. 2, 19.</ls> 
-<ls>AK. 3, 4, 32,</ls> <ls>?(COL. 28,) 1. H. an. 7, 2. MED. avy. 13.</ls> Euphonische Regeln in Betreff dieses {#आ#} 
+<ls>AK. 3, 4, 32,</ls> (<ls>COL. 28,) 1.</ls> <ls>H. an. 7, 2.</ls> <ls>MED. avy. 13.</ls> Euphonische Regeln in Betreff dieses {#आ#} 
 <ls>P. 6, 1, 74. 95. 126</ls> ({#आँ#}). 
 <ls>VOP. 2, 5. 19.</ls> In vielen in Europa gedruckten Werken, in denen sonst die Trennung der Wörter beobachtet wird, findet man {#आ#} mit einem folgenden abl. fälschlich zu einem comp. verbunden.
 <LEND>

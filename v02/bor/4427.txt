@@ -1,9 +1,9 @@
 <L>4427<pc>143<k1>congratulate<k2>congratulate
-<div n="lb"/>{@CONGRATULATE:@}¦ {#अभिनन्दति#} ({#नन्द्,#} c. l.), {%c. d.%} [Page144]
-<div n="lb"/><div n="xe">{%by the nuns:%}</div> <div n="xs">{#तापसीभिरभिनन्द्यमाना,#}</div> Sa. N. B.
-<div n="lb"/>Often expr. by {#दिष्टया#} (lit. by luck), <div n="xe">{%I c.%}
-<div n="lb"/>{%you on having such a boy as the gentle Rāma:%}</div>
-<div n="lb"/><div n="xs">{#दिष्टया वर्धसे यदीदृशस्ते वत्सो रामभद्रः,#}</div> Vi.; <div n="xe">{%we%}
-<div n="lb"/>{%should c. ourselves that the king has returned to%}
-<div n="lb"/>{%the city:%}</div> <div n="xs">{#दिष्टया राजा प्रतिनिवृत्तो नगरम्,#}</div> V.
+{@CONGRATULATE:@}¦ {#अभिनन्दति#} ({#नन्द्,#} c. l.), {%c. d.%} [Page144]
+<div n="xe">{%by the nuns:%}</div> <div n="xs">{#तापसीभिरभिनन्द्यमाना,#}</div> Sa. N. B.
+Often expr. by {#दिष्टया#} (lit. by luck), <div n="xe">{%I c.%}
+{%you on having such a boy as the gentle Rāma:%}</div>
+<div n="xs">{#दिष्टया वर्धसे यदीदृशस्ते वत्सो रामभद्रः,#}</div> Vi.; <div n="xe">{%we%}
+{%should c. ourselves that the king has returned to%}
+{%the city:%}</div> <div n="xs">{#दिष्टया राजा प्रतिनिवृत्तो नगरम्,#}</div> V.
 <LEND>

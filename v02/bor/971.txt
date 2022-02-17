@@ -1,4 +1,4 @@
 <L>971<pc>034<k1>apprehensive<k2>apprehensive
-<div n="lb"/>{@APPREHENSIVE:@}¦ <div n="1">(1) {#शङ्कितः#} ({#ता, तं#}); </div><div n="1">(2) {#शङ्कान्वितः#}
-<div n="lb"/>({#ता, तं#}). <div n="xe">{%to be a.%}</div> <div n="xs">{#शङ्कते।#}</div></div>
+{@APPREHENSIVE:@}¦ <div n="1">(1) {#शङ्कितः#} ({#ता, तं#}); </div><div n="1">(2) {#शङ्कान्वितः#}
+({#ता, तं#}). <div n="xe">{%to be a.%}</div> <div n="xs">{#शङ्कते।#}</div></div>
 <LEND>

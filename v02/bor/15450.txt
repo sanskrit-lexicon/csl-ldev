@@ -1,10 +1,10 @@
 <L>15450<pc>473<k1>no<k2>no
-<div n="lb"/>{@NO@}¦ (adj.): <div n="1">(1) {#न,#} {%he is no other than Arjuna:%}
-<div n="lb"/>{#नैषोऽन्यः सव्यसाचिनः,#} Mah.; <div n="xe">{%and there is no cessa-%}
-<div n="lb"/>{%tion of sorrow but from spiritual knowledge:%}</div>
-<div n="lb"/><div n="xs">{#न चान्यत्र परमात्मज्ञानाच्छोकविनिवृत्तिरस्ति,#}</div> S. iii. 8.;</div>
-<div n="lb"/><div n="1">(2) {#अ#} ({%or%} {#अन्#} before vowels), <div n="xe">{%if forced no%}
-<div n="lb"/>{%evidence:%}</div> <div n="xs">{#बलात्कारितमप्रमाणम्,#}</div> V.s.; <div n="xe">{%paying no%}
-<div n="lb"/>{%attention:%}</div> <div n="xs">{#अनादृत्य,#}</div> Sa.; {%seeing no other recourse;%}
-<div n="lb"/>{#अन्यदुपायान्तरमपश्यन्,#} K.</div>
+{@NO@}¦ (adj.): <div n="1">(1) {#न,#} {%he is no other than Arjuna:%}
+{#नैषोऽन्यः सव्यसाचिनः,#} Mah.; <div n="xe">{%and there is no cessa-%}
+{%tion of sorrow but from spiritual knowledge:%}</div>
+<div n="xs">{#न चान्यत्र परमात्मज्ञानाच्छोकविनिवृत्तिरस्ति,#}</div> S. iii. 8.;</div>
+<div n="1">(2) {#अ#} ({%or%} {#अन्#} before vowels), <div n="xe">{%if forced no%}
+{%evidence:%}</div> <div n="xs">{#बलात्कारितमप्रमाणम्,#}</div> V.s.; <div n="xe">{%paying no%}
+{%attention:%}</div> <div n="xs">{#अनादृत्य,#}</div> Sa.; {%seeing no other recourse;%}
+{#अन्यदुपायान्तरमपश्यन्,#} K.</div>
 <LEND>

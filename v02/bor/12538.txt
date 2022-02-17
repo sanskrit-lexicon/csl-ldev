@@ -1,4 +1,4 @@
 <L>12538<pc>389<k1>interposition<k2>interposition
-<div n="lb"/>{@INTERPOSITION:@}¦ <div n="I">I A coming between: {#मध्य-#}
-<div n="lb"/>{#वर्तिता।#} </div><div n="I">II Mediation: {#माध्यस्थम्।#}</div>
+{@INTERPOSITION:@}¦ <div n="I">I A coming between: {#मध्य-#}
+{#वर्तिता।#} </div><div n="I">II Mediation: {#माध्यस्थम्।#}</div>
 <LEND>

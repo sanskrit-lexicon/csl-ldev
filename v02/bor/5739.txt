@@ -1,9 +1,9 @@
 <L>5739<pc>184<k1>delicacy<k2>delicacy
-<div n="lb"/>{@DELICACY:@}¦ <div n="I">I Of flavour, odour, etc.: </div><div n="1">(1)
-<div n="lb"/>{#माधुर्यम्।#} </div><div n="I">II Fineness: {#सौकुमार्यम्,#} <div n="xe">{%from great%}
-<div n="lb"/>{%d.:%}</div> <div n="xs">{#अतिसौकुमार्यत्,#}</div> M. n. </div><div n="I">III Elegance:
-<div n="lb"/>{#लालित्यम्।#} </div><div n="I">IV Of manners: {#अत्यादरः।#} V. Of
-<div n="lb"/>character: {#मार्दवम्।#} </div><div n="I">VI Luxury; self-in-
-<div n="lb"/>-dulgence: q. v. </div><div n="I">VII A dainty: {#विशिष्ट-#}
-<div n="lb"/>{#भोजनम्।#}</div>
+{@DELICACY:@}¦ <div n="I">I Of flavour, odour, etc.: </div><div n="1">(1)
+{#माधुर्यम्।#} </div><div n="I">II Fineness: {#सौकुमार्यम्,#} <div n="xe">{%from great%}
+{%d.:%}</div> <div n="xs">{#अतिसौकुमार्यत्,#}</div> M. n. </div><div n="I">III Elegance:
+{#लालित्यम्।#} </div><div n="I">IV Of manners: {#अत्यादरः।#} V. Of
+character: {#मार्दवम्।#} </div><div n="I">VI Luxury; self-in-
+-dulgence: q. v. </div><div n="I">VII A dainty: {#विशिष्ट-#}
+{#भोजनम्।#}</div>
 <LEND>

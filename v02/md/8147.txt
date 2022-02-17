@@ -1,11 +1,11 @@
 <L>8147<pc>103-1<k1>ज्ञाति<k2>ज्ञाति
 {#ज्ञाति#}¦jñā-ti, {%m.%} near blood-relation; kinsman: <lbinfo n="4"/>
-<> {@-karman,@} {%n.%} business of a kinsman; 
-<>{@-kārya,@} {%n.%} kinsman's duty; {@-tva,@} {%n.%} consanguinity; <lbinfo n="9"/>
-<> {@-putra,@} {%m.%} son of a relative: {@-prabhu-@}
-<>{@-ka,@} {%a.%} of high position among relatives; {@-prā-@}
-<>{@ya,@} {%a.%} meant specially for blood-relations; {@-bhā-@}
-<>{@-va,@} {%m.%} relationship: {@-tas,@} {%ad.%} on the strength 
-<>of his relationship; {@-bheda,@} {%m.%} quarrel among 
-<>kinsmen; {@-mat,@} {%a.%} having near kinsmen.
+ {@-karman,@} {%n.%} business of a kinsman; 
+{@-kārya,@} {%n.%} kinsman's duty; {@-tva,@} {%n.%} consanguinity; <lbinfo n="9"/>
+ {@-putra,@} {%m.%} son of a relative: {@-prabhu-@}
+{@-ka,@} {%a.%} of high position among relatives; {@-prā-@}
+{@ya,@} {%a.%} meant specially for blood-relations; {@-bhā-@}
+{@-va,@} {%m.%} relationship: {@-tas,@} {%ad.%} on the strength 
+of his relationship; {@-bheda,@} {%m.%} quarrel among 
+kinsmen; {@-mat,@} {%a.%} having near kinsmen.
 <LEND>

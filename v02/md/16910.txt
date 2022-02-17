@@ -1,23 +1,23 @@
 <L>16910<pc>294-1<k1>वीरतर<k2>वीरतर
 {#वीरतर#}¦vīrá-tara, {%m.%} greater hero, than ({%ab.%}); 
-<>{%n. a fragrant grass%} ({%Andropogon muricatus%}); 
-<>({@á@}) {@-tā,@} {%f.%} manliness, heroism; {@-tva,@} {%n. id.%}; 
-<>{@-deva,@} {%m. N.%}; {@-dhara,@} {%m. N. of a wheelwright%}; <lbinfo n="5"/>
-<> {@-nātha,@} {%a.%} having a hero as a protector; <lbinfo n="3"/>
-<> {%m. N.%}; {@-paṭṭa@}, {%m.%} hero's band ({%round %}
-<>{%the forehead%}); ({@á@}) {@-patnī,@} {%f.%} wife of a hero; 
-<>{@-pāna,@} {%n.%} hero's drink ({%taken before or after %}
-<>{%battle%}); {@-pura,@} {%n. N. of a%} town {%in the territory %}<lbinfo n="5"/>
-<>{% of Kānyakubga%}; {%N. of a mythical%} town 
-<>{%in the Himālaya%}; {@-puruṣa,@} {%m.%} brave man, 
-<>hero; {@-prajāyinī@}, {%f.%} mother of heroes; {@-pra-@}
-<>{@-bha,@} {%m. N.%}; {@-prasavinī, -prasū,@} {%f.%} mother 
-<>of a hero; {@-bāhu,@} {%m. N.%}; {@-bhaṭa@}, {%m.%} warrior; 
-<>{%N. of a king%}; {@-bhadra,@} {%m. N. of a Rudra%}; 
-<>{%N. of an attendant of%} Ś{%iva, who destroyed %}
-<>{%Dakṣa's sacrifice%}; {@-bhavat,@} {%m.%} your heroic 
-<>presence ({%honorific term of address%}); {@-bhāva,@} 
-<>{%m.%} heroism; {@-bhuja@}, {%m. N. of two kings%}; 
-<>{@-mānin,@} {%a.%} considering oneself a hero; {@-mār-@}
-<>{@-ga,@} {%m.%} heroic career; {@-ṃ-manya@}, {%a. id.%}.
+{%n. a fragrant grass%} ({%Andropogon muricatus%}); 
+({@á@}) {@-tā,@} {%f.%} manliness, heroism; {@-tva,@} {%n. id.%}; 
+{@-deva,@} {%m. N.%}; {@-dhara,@} {%m. N. of a wheelwright%}; <lbinfo n="5"/>
+ {@-nātha,@} {%a.%} having a hero as a protector; <lbinfo n="3"/>
+ {%m. N.%}; {@-paṭṭa@}, {%m.%} hero's band ({%round %}
+{%the forehead%}); ({@á@}) {@-patnī,@} {%f.%} wife of a hero; 
+{@-pāna,@} {%n.%} hero's drink ({%taken before or after %}
+{%battle%}); {@-pura,@} {%n. N. of a%} town {%in the territory %}<lbinfo n="5"/>
+{% of Kānyakubga%}; {%N. of a mythical%} town 
+{%in the Himālaya%}; {@-puruṣa,@} {%m.%} brave man, 
+hero; {@-prajāyinī@}, {%f.%} mother of heroes; {@-pra-@}
+{@-bha,@} {%m. N.%}; {@-prasavinī, -prasū,@} {%f.%} mother 
+of a hero; {@-bāhu,@} {%m. N.%}; {@-bhaṭa@}, {%m.%} warrior; 
+{%N. of a king%}; {@-bhadra,@} {%m. N. of a Rudra%}; 
+{%N. of an attendant of%} Ś{%iva, who destroyed %}
+{%Dakṣa's sacrifice%}; {@-bhavat,@} {%m.%} your heroic 
+presence ({%honorific term of address%}); {@-bhāva,@} 
+{%m.%} heroism; {@-bhuja@}, {%m. N. of two kings%}; 
+{@-mānin,@} {%a.%} considering oneself a hero; {@-mār-@}
+{@-ga,@} {%m.%} heroic career; {@-ṃ-manya@}, {%a. id.%}.
 <LEND>

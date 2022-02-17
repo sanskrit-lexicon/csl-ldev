@@ -1,6 +1,6 @@
 <L>7530<pc>237<k1>enclosure<k2>enclosure
-<div n="lb"/>{@ENCLOSURE:@}¦ <div n="I">I Fence: {#वृतिः, परि-,#} <div n="xe">{%e. s of%}
-<div n="lb"/>{%parks:%}</div> <div n="xs">{#उपवनवृतयः,#}</div> Me.; <div n="xe">{%over the e. s:%}</div> <div n="xs">{#वृतीनामुपरि,#}</div>
-<div n="lb"/>Si. </div><div n="I">II That which is enclosed: <div n="xe">{%there was%}
-<div n="lb"/>{%no e. s with letter:%}</div> <div n="xs">{#*पत्रेण सहितं न किञ्चित् प्रेरितम्।#}</div></div>
+{@ENCLOSURE:@}¦ <div n="I">I Fence: {#वृतिः, परि-,#} <div n="xe">{%e. s of%}
+{%parks:%}</div> <div n="xs">{#उपवनवृतयः,#}</div> Me.; <div n="xe">{%over the e. s:%}</div> <div n="xs">{#वृतीनामुपरि,#}</div>
+Si. </div><div n="I">II That which is enclosed: <div n="xe">{%there was%}
+{%no e. s with letter:%}</div> <div n="xs">{#*पत्रेण सहितं न किञ्चित् प्रेरितम्।#}</div></div>
 <LEND>

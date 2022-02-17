@@ -1,10 +1,10 @@
 <L>18858<pc>582<k1>regard<k2>regard
-<div n="lb"/>{@REGARD@}¦ (sub.): <div n="I">I Esteem, respect, honour:
-<div n="lb"/>q. v.: </div><div n="1">(1) {#आदरः, सम्-;#} </div><div n="1">(2) {#प्रतीक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्यबेक्षा,#}</div>
-<div n="lb"/><div n="xe">{%to those to whom you should pay r.:%}</div> <div n="xs">{#प्रतीक्ष्येषु,#}</div> R.
-<div n="lb"/>v. 14. </div><div n="I">II Consideration, attention, care:
-<div n="lb"/>q. v.: {#अवेक्षा।#} Ph.: <div n="xe">{%to have r. for:%}</div> <div n="xs">{#अवेक्षते#}</div> ({#ईक्ष्,#}
-<div n="lb"/>c. l.): v. To regard (II). </div><div n="I">III Relation,
-<div n="lb"/>reference: Ph.: {%with, in r. to:%} </div><div n="1">(1) {#उद्दिश्य, #}
-<div n="lb"/>{# सम्-;#} </div><div n="1">(2) {#अधिकृत्य;#} </div><div n="1">(3) {#प्रतीक्ष्य,#} etc.</div>
+{@REGARD@}¦ (sub.): <div n="I">I Esteem, respect, honour:
+q. v.: </div><div n="1">(1) {#आदरः, सम्-;#} </div><div n="1">(2) {#प्रतीक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#प्रत्यबेक्षा,#}</div>
+<div n="xe">{%to those to whom you should pay r.:%}</div> <div n="xs">{#प्रतीक्ष्येषु,#}</div> R.
+v. 14. </div><div n="I">II Consideration, attention, care:
+q. v.: {#अवेक्षा।#} Ph.: <div n="xe">{%to have r. for:%}</div> <div n="xs">{#अवेक्षते#}</div> ({#ईक्ष्,#}
+c. l.): v. To regard (II). </div><div n="I">III Relation,
+reference: Ph.: {%with, in r. to:%} </div><div n="1">(1) {#उद्दिश्य, #}
+{# सम्-;#} </div><div n="1">(2) {#अधिकृत्य;#} </div><div n="1">(3) {#प्रतीक्ष्य,#} etc.</div>
 <LEND>

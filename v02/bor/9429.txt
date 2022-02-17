@@ -1,6 +1,6 @@
 <L>9429<pc>299<k1>friendless<k2>friendless
-<div n="lb"/>{@FRIENDLESS:@}¦ <div n="1">(1) {#बन्धुहीनः#} ({#ना, नं#}), <div n="xe">{%I live in this%}
-<div n="lb"/>{%wood f. as dead:%}</div> <div n="xs">{#अत्रारण्ये बन्धुहीनो मृतवन्निवसामि,#}</div> H.;</div>
-<div n="lb"/><div n="1">(2) {#मित्रहीनः#} ({#ना, नं#}); </div><div n="1">(3) {#असहायः#} ({#या, यं#})
-<div n="lb"/>(= without a helper).</div>
+{@FRIENDLESS:@}¦ <div n="1">(1) {#बन्धुहीनः#} ({#ना, नं#}), <div n="xe">{%I live in this%}
+{%wood f. as dead:%}</div> <div n="xs">{#अत्रारण्ये बन्धुहीनो मृतवन्निवसामि,#}</div> H.;</div>
+<div n="1">(2) {#मित्रहीनः#} ({#ना, नं#}); </div><div n="1">(3) {#असहायः#} ({#या, यं#})
+(= without a helper).</div>
 <LEND>

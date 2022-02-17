@@ -1,8 +1,8 @@
 <L>91096<pc>6-1006<k1>विच्<k2>विच्<h>1
 1. {#विच्#}¦, {#विनक्ति, विङ्क्ते#} 
-<ls>DHĀTUP. 29, 5</ls> {#(पृथग्भावे)#}.{# वेवेक्ति#} 
+<ls>DHĀTUP. 29, 5</ls> ({#पृथग्भावे#}).{# वेवेक्ति#} 
 <ls>25, 12.</ls> {#विवेक्षि#}; erhält nicht den Bindevocal {#इ#} <is>Kār</is>. 
-<ls>?2 aus SIDDH. K. zu P. 7, 2, 10.</ls> {%durch%}
+<ls>2</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {%durch%}
 [Page6-1007]
 {%Schwingen%} oder {%Worfeln aussondern%} (Getraide von der Spreu u.s.w.); überh. {%sondern%}: {#यव\ं न द^स्म जु\ह्वा^ विवेक्षि#} {%wie Getraide sonderst du mit deiner Zunge (der Flamme%} d. h. {%nimmst nur das dürre Gras und lässest Anderes stehen%}) 
 <ls>ṚV. 7, 3, 4.</ls> nach <ls>SĀY.</ls> = {#भक्षयसि#} oder {#व्याप्नोषि#}.{# प्र मे^ विवि\क्वाँ अ^विदन्मनी\षाम्#} 
@@ -80,7 +80,7 @@
 <ls>KATHĀS. 17, 1. 33, 149.</ls> {#°शरण#} 
 <ls>BHĀG. P. 3, 27, 8. 7, 15, 30.</ls> {#विविक्ते#} 
 <ls>M. 4, 258.</ls> 
-<ls>MBH. 3, 1870. 12, 540. 16, 105.</ls> 
+<ls>MBH. 3, 1870.</ls> <ls n="MBH.">12, 540.</ls> <ls n="MBH.">16, 105.</ls> 
 <ls>VIKR. 40, 5.</ls> 
 <ls>KATHĀS. 7, 75</ls> ({#गत्वा#}). 
 <ls>PRAB. 105, 12.</ls> 
@@ -88,7 +88,7 @@
 <ls>M. 3, 207.</ls> 
 <div n="1">— 3) {%frei von%}: {#स्वल्पेन खलु कालेन विविक्तं पृथिवीतलम् । भविप्यति नरेन्द्रौघैः शतशो विनिपातितैः ॥#} 
 <ls>HARIV. 4986</ls> (vgl. 
-<ls>5465</ls>). {#पांसुविविक्तवात#} 
+<ls n="HARIV.">5465</ls>). {#पांसुविविक्तवात#} 
 <ls>KUMĀRAS. 1, 23.</ls> 
 <div n="1">— 4) ({%von allem Ungehörigen getrennt) rein, lauter%} 
 <ls>AK. 3, 4, 14, 85.</ls> 
@@ -107,7 +107,7 @@
 <ls>M. 11, 6.</ls> 
 <ls>MBH. 13, 6202.</ls> 
 <ls>BHĀG. P. 5, 19, 12.</ls> <lex>n.</lex> {%Reinheit, Lauterkeit%}: {#प्रज्ञाबुद्धिविविक्तद#} 
-<ls>MĀRK. P. S. 658, Z. 6 v. u.</ls> 
+<ls>MĀRK. P. S. 658, Z. 6</ls> v. u. 
 <div n="1">— 5) {%klar, deutlich%}: {#विविक्ताकारदर्शन (तालवन)#} 
 <ls>HARIV. 3725.</ls> {#°दर्शनस्थाने (एकान्तदर्शने तादृशस्थाने#} Comm.) {#रहस्ये च#} 
 <ls>KĀM. NĪTIS. 5, 36.</ls> 
@@ -129,7 +129,7 @@
 <ls>Spr. 3094.</ls> 
 <div n="1">— 2) {%fein%}: {#विविक्ताहारतर#} 
 <ls>ŚAT. BR. 14, 6, 11, 4.</ls> {#°भुज्#} 
-<ls>MĀṆḌ. UP. 4</ls> <ls>?(vgl. NṚS. TĀP. UP. in Ind. St. 9, 125. WEBER, RĀMAT. UP. 338. VEDĀNTAS. Allah. No. 66).</ls> {#°चक्षुस्#} {%ein feines —, scharfes Auge habend%} 
+<ls>MĀṆḌ. UP. 4</ls> (vgl. <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 125.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>VEDĀNTAS. Allah. No. 66).</ls> {#°चक्षुस्#} {%ein feines —, scharfes Auge habend%} 
 <ls>MBH. 12, 889.</ls> 
 <div n="v">— Vgl. {#प्रविवेक#} .
 <LEND>

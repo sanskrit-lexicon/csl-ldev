@@ -1,22 +1,22 @@
 <L>10731<pc>338<k1>head<k2>head
-<div n="lb"/>{@HEAD@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#शिरस्#} (n.), <div n="xe">{%the h.%}
-<div n="lb"/>{%aches:%}</div> <div n="xs">{#शिरो रुजति,#}</div> Sr.; {%with a shake of the h.:%}
-<div n="lb"/>{#सशिरःकम्पम्,#} Ve.; </div><div n="1">(2) {#मूर्द्धन्#} (m.), {%three-h. ed:%}
-<div n="lb"/>{#त्रिमूर्द्धन्#} (mfn.), Vi.; </div><div n="1">(3) {#मस्तकम्,#} <div n="xe">{%I will hash%}
-<div n="lb"/>{%your h.:%}</div> <div n="xs">{#मस्तकं ते कुट्टयिष्यामि,#}</div> Mr.; </div><div n="1">(4) {#शीर्षम्,#} <div n="xe">{%with%}
-<div n="lb"/>{%the frightful h. s. cut off:%}</div> <div n="xs">{#छिन्नैः शीर्षैर्भयङ्करैः,#}</div> A. r.;</div>
-<div n="lb"/><div n="1">(5) {#मुण्डम्#} (in contempt), <div n="xe">{%shaving the h.:%}</div> <div n="xs">{#मुण्डं #}
-<div n="lb"/>{# मुण्डयित्वा,#}</div> Mu.; </div><div n="1">(6) {#तुण्डम्#} (rare), {%the h. is grey:%}
-<div n="lb"/>{#पलितं तुण्डम्,#} J. </div><div n="I">II Chief, leader: q.v.: {#अग्रणी।#}
-<div n="lb"/>Ph.: <div n="xe">{%the h. of the atheists:%}</div> <div n="xs">{#नास्तिकशिरोमणिः,#}</div> Da.</div>
-<div n="lb"/><div n="I">III Of things: {#अग्रम्।#} Ph.: <div n="xe">{%at the h. of a%}
-<div n="lb"/>{%battle:%}</div> <div n="xs">{#रणशिरसि, रणमूर्द्धनि,#}</div> etc.; {%h. of a mount:%}
-<div n="lb"/>{#गिरिमूर्द्धा;#} <div n="xe">{%h. of a wound:%}</div> <div n="xs">{#व्रणमुखम्,#}</div> Ki. </div><div n="I">IV
-<div n="lb"/>Source: q.v. </div><div n="I">V A topic of discourse:
-<div n="lb"/>{#विषयः।#} </div><div n="I">VI Intellect: q.v.: </div><div n="I">VII An indi-
-<div n="lb"/>-vidual: q.v.: </div><div n="I">VIII Force, strength: q.v.
-<div n="lb"/>Ph.: {%to come to a h.%} ({%of wounds%}): {#पाकं व्रजति;#}
-<div n="lb"/><div n="xe">{%h. or tail:%}</div> <div n="xs">{#एष पार्श्वोऽन्यो वा#}</div> (?).; {%neither h. nor tail:%}
-<div n="lb"/>{#न किञ्चिदपि;#} <div n="xe">{%to one's h.:%}</div> <div n="xs">{#समक्षम्;#}</div> {%to make h.:%} v.
-<div n="lb"/>To advance.</div>
+{@HEAD@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#शिरस्#} (n.), <div n="xe">{%the h.%}
+{%aches:%}</div> <div n="xs">{#शिरो रुजति,#}</div> Sr.; {%with a shake of the h.:%}
+{#सशिरःकम्पम्,#} Ve.; </div><div n="1">(2) {#मूर्द्धन्#} (m.), {%three-h. ed:%}
+{#त्रिमूर्द्धन्#} (mfn.), Vi.; </div><div n="1">(3) {#मस्तकम्,#} <div n="xe">{%I will hash%}
+{%your h.:%}</div> <div n="xs">{#मस्तकं ते कुट्टयिष्यामि,#}</div> Mr.; </div><div n="1">(4) {#शीर्षम्,#} <div n="xe">{%with%}
+{%the frightful h. s. cut off:%}</div> <div n="xs">{#छिन्नैः शीर्षैर्भयङ्करैः,#}</div> A. r.;</div>
+<div n="1">(5) {#मुण्डम्#} (in contempt), <div n="xe">{%shaving the h.:%}</div> <div n="xs">{#मुण्डं #}
+{# मुण्डयित्वा,#}</div> Mu.; </div><div n="1">(6) {#तुण्डम्#} (rare), {%the h. is grey:%}
+{#पलितं तुण्डम्,#} J. </div><div n="I">II Chief, leader: q.v.: {#अग्रणी।#}
+Ph.: <div n="xe">{%the h. of the atheists:%}</div> <div n="xs">{#नास्तिकशिरोमणिः,#}</div> Da.</div>
+<div n="I">III Of things: {#अग्रम्।#} Ph.: <div n="xe">{%at the h. of a%}
+{%battle:%}</div> <div n="xs">{#रणशिरसि, रणमूर्द्धनि,#}</div> etc.; {%h. of a mount:%}
+{#गिरिमूर्द्धा;#} <div n="xe">{%h. of a wound:%}</div> <div n="xs">{#व्रणमुखम्,#}</div> Ki. </div><div n="I">IV
+Source: q.v. </div><div n="I">V A topic of discourse:
+{#विषयः।#} </div><div n="I">VI Intellect: q.v.: </div><div n="I">VII An indi-
+-vidual: q.v.: </div><div n="I">VIII Force, strength: q.v.
+Ph.: {%to come to a h.%} ({%of wounds%}): {#पाकं व्रजति;#}
+<div n="xe">{%h. or tail:%}</div> <div n="xs">{#एष पार्श्वोऽन्यो वा#}</div> (?).; {%neither h. nor tail:%}
+{#न किञ्चिदपि;#} <div n="xe">{%to one's h.:%}</div> <div n="xs">{#समक्षम्;#}</div> {%to make h.:%} v.
+To advance.</div>
 <LEND>

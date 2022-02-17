@@ -1,4 +1,4 @@
 <L>6204<pc>199<k1>dinnerless<k2>dinnerless
-<div n="lb"/>{@DINNERLESS:@}¦ <div n="1">(1) {#भोजनविरहितः#} ({#ता, तं#}); </div><div n="1">(2)
-<div n="lb"/>{#अनशनेन#} <div n="xe">{%or%}</div> <div n="xs">{#निराहारेण#}</div> (=without food).</div>
+{@DINNERLESS:@}¦ <div n="1">(1) {#भोजनविरहितः#} ({#ता, तं#}); </div><div n="1">(2)
+{#अनशनेन#} <div n="xe">{%or%}</div> <div n="xs">{#निराहारेण#}</div> (=without food).</div>
 <LEND>

@@ -10,7 +10,7 @@
 <ls>P. 3, 2, 108.</ls> {#सेदु/षस्#} 
 <ls>ṚV. 5, 15, 2.</ls> {#असदत्#} 
 <ls>VOP. 8, 126.</ls> {#सत्स्यति#} (vgl. 
-<ls>?<is>Kār</is>. 3 aus SIDDH. K. zu P. 7, 2, 10).</ls> {#(आ) सत्स्यन्त्#} partic. {#°सीदिष्यति#} 
+<ls><is>Kār</is>. 3</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10).</ls> {#(आ) सत्स्यन्त्#} partic. {#°सीदिष्यति#} 
 <ls>MĀRK. P.</ls> und <ls>ŚATR.</ls> med. hier und da aus metrischen Rücksichten. pass. {#असादि#} 
 <ls>ṚV. 7, 7, 5.</ls> {#°सीदितुम्#} 
 <ls>MBH.</ls> <ls>R.</ls> 
@@ -48,11 +48,11 @@
 <ls>M. 4, 34. 7, 134. 11, 21.</ls> 
 <ls>YĀJÑ. 1, 130.</ls> 
 <ls>M. 10, 101. 113.</ls> {#संमोहात्#} 
-<ls>MBH. 1, 2061. 2, 2591.</ls> 
+<ls>MBH. 1, 2061.</ls> <ls n="MBH.">2, 2591.</ls> 
 <ls>R. 2, 40, 36. 42, 12.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 9, 35. 11, 24. 32, 28. 35, 15. 53, 38.</ls> {#स कर्मसु न सीदति#} 
-<ls>5, 8, 19. 53, 21. 18, 3.</ls> <ls>Spr. (II) 658. 1183. 1331. 2151. 2164. 2691. 2829. 3092</ls> (Gegens. {#प्र-भू#}). 
+
+<ls>R. GORR. 2, 9, 35. 11, 24. 32, 28. 35, 15. 53, 38.</ls> {#स कर्मसु न सीदति#} 
+<ls>5, 8, 19. 53, 21. 18, 3.</ls> <ls>Spr. (II) 658.</ls> <ls n="Spr. (II)">1183.</ls> <ls n="Spr. (II)">1331.</ls> <ls n="Spr. (II)">2151.</ls> <ls n="Spr. (II)">2164.</ls> <ls n="Spr. (II)">2691.</ls> <ls n="Spr. (II)">2829.</ls> <ls n="Spr. (II)">3092</ls> (Gegens. {#प्र-भू#}). 
 <ls>3486. 5004. 5866. 6695. 6751. 7052</ls> (Gegens. {#वि-लस्#}). 
 <ls>VARĀH. BṚH. S. 17, 14. 19, 2.</ls> 
 <ls>KATHĀS. 11, 25. 66, 100.</ls> 
@@ -66,9 +66,9 @@
 <ls>ŚAT. BR. 11, 2, 7, 32.</ls> {#सीदता चातकेन#} 
 <ls>Spr. (II) 3360.</ls> {#तेन सीदति मे मनः#} {%weiss sich nicht zu fassen%} 
 <ls>R. 2, 71, 27.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 123, 9.</ls> {#हृदयम्#} 
-<ls>?17, 38. R. SCHL. 2, 64, 67.</ls> {#धर्मे सीदति#} {%in Verfall gerathend%} 
+
+<ls>R. GORR. 2, 123, 9.</ls> {#हृदयम्#} 
+<ls>17, 38.</ls> <ls>R. SCHL. 2, 64, 67.</ls> {#धर्मे सीदति#} {%in Verfall gerathend%} 
 <ls>M. 9, 94.</ls> {#वर्णधर्मा न सीदन्ति यस्य राज्ये तथाश्रमाः#} 
 <ls>MĀRK. P. 27, 29.</ls> {#सीदन्त्#} im Gegens. zu {#उद्यन्त्#} so v. a. {%verschwindend%} 
 <ls>BHĀG. P. 11, 22, 37.</ls> med.: {#सीदते#} 
@@ -138,19 +138,19 @@
 <ls>ŚĀṄKH. ŚR. 3, 14, 11. 5, 9, 4.</ls> {#सादित#} 
 <ls>BHĀG. P. 4, 13, 27.</ls> 
 <div n="1">— 2) {%in Noth —, in eine schlimme Lage versetzen, in's Verderben bringen%}: {#ब्राह्मणानां परिक्लेशो दैवतान्यपि सादयेत्#} 
-<ls>MBH. 3, 50. 54. 1950. 7, 6320. 12, 3817. 13, 7163.</ls> 
+<ls>MBH. 3, 50.</ls> <ls n="MBH. 3,">54.</ls> <ls n="MBH. 3,">1950.</ls> <ls n="MBH.">7, 6320.</ls> <ls n="MBH.">12, 3817.</ls> <ls n="MBH.">13, 7163.</ls> 
 <ls>Spr. (II) 1116.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 38, 15.</ls> 
+
+<ls>R. GORR. 1, 38, 15.</ls> 
 <ls>BHĀG. P. 3, 19, 31.</ls> {#साद्यते#} 
 <ls>GHAṬ. 11.</ls> {#साद्यमान#} 
 <ls>Spr. (II) 5534.</ls> {#सादित#} 
-<ls>MBH. 1, 183. 3, 15744. 7, 434</ls> ({#सूदित#} ed. Bomb.). 
+<ls>MBH. 1, 183.</ls> <ls n="MBH.">3, 15744.</ls> <ls n="MBH.">7, 434</ls> ({#सूदित#} ed. Bomb.). 
 <ls>585.</ls> <ls>RAGH. 6, 53. 7, 41.</ls> <ls>KIR. 14, 57.</ls> überh. {%zu Grunde richten, zu Nichte machen%}: {#मुष्टिभिश्चोत्तमाङ्गानि तलैर्गात्राणि चासकृत् । सादितानि#} ({%zerschlagen%}) 
 <ls>HARIV. 13791.</ls> {#शरौघम्, उत्साहम्#} 
 <ls>KIR. 14, 57.</ls> {#प्रतिष्ठाम्#} 
 <ls>VIKR. 42.</ls> {#सादिता मौरवाः पाशाः#} 
-<ls>HARIV. 9132. -</ls> <ls>BHĀG. P. 5, 5, 14</ls> ist nicht {#सादित#}, sondern {#आसादित#} anzunehmen.
+<ls>HARIV. 9132.</ls> - <ls>BHĀG. P. 5, 5, 14</ls> ist nicht {#सादित#}, sondern {#आसादित#} anzunehmen.
 
 <div n="p">— intens. {#सासद्यते (भावगर्हायाम्)#} 
 <ls>P. 3, 1, 24.</ls> 
@@ -178,16 +178,16 @@ s. w.), {%an sich selbst verzweifeln, nicht zu bleiben —, sich nicht zu fassen
 <ls>R. 4, 27, 14.</ls> {#वर्षासु क्लिन्नकटवत्तिष्ठन्नेवावसीदति#} 
 <ls>Spr. (II) 4534.</ls> {#अवसीदेत्सुदुर्बुद्धिरामो घट इवोदके#} 
 <ls>5661.</ls> {#अवासीदद्रथोपस्थे#} 
-<ls>MBH. 7, 6305. 6315.</ls> {#क्षुधा#} 
+<ls>MBH. 7, 6305.</ls> <ls n="MBH. 7,">6315.</ls> {#क्षुधा#} 
 <ls>M. 4, 187.</ls> {#न कृच्छ्रेष्ववसीदति#} 
 <ls>MBH. 1, 255.</ls> {#शोकेन#} 
 <ls>3, 2674.</ls> {#शत्रुदमने नावसीदितुमर्हसि#} (so ed. Bomb.) 
-<ls>4, 1964.</ls> <ls>HARIV. 1293.</ls> <ls>R. GORR. 2, 84, 4. 4, 6, 11. 5, 19, 27.</ls> <ls>KĀM. NĪTIS. 1, 59.</ls> <ls>Spr. (II) 1030. 1859. 2692. 2843. 2872. 3135. 4419</ls> ({#राष्ट्रम्#}). 
+<ls>4, 1964.</ls> <ls>HARIV. 1293.</ls> <ls>R. GORR. 2, 84, 4. 4, 6, 11. 5, 19, 27.</ls> <ls>KĀM. NĪTIS. 1, 59.</ls> <ls>Spr. (II) 1030.</ls> <ls n="Spr. (II)">1859.</ls> <ls n="Spr. (II)">2692.</ls> <ls n="Spr. (II)">2843.</ls> <ls n="Spr. (II)">2872.</ls> <ls n="Spr. (II)">3135.</ls> <ls n="Spr. (II)">4419</ls> ({#राष्ट्रम्#}). 
 <ls>4595. 4865. 4911. 6556. 6801. 6951. 7298.</ls> <ls>KIR. 2, 7.</ls> <ls>KATHĀS. 18, 301. 27, 95</ls> ({#शनैर्भाव°#} wohl so v. a. {%allmählich%}). 
 <ls>62, 169. 171.</ls> <ls>RĀJA-TAR. 4, 108.</ls> <ls>PRAB. 37, 7.</ls> <ls>DAŚAK. 82, 2.</ls> <ls>MĀRK. P. 137, 5.</ls> <ls>BHĀG. P. 6, 15, 19. 8, 1, 15. 10, 49, 11. 11, 7, 73. 9, 26.</ls> {#हेम^न्प\शवो ऽव^ सीदन्ति#} {%herunterkommen, abmagern%} 
 <ls>TS. 6, 1, 1, 1.</ls> 
 <ls>PAÑCAV. BR. 21, 14, 15.</ls> {#सत्त्वतमसी स्वयमक्रियतया स्वकार्यप्रवृत्तिं प्रत्यवसीदतः#} {%schlaff —, lass sein in Bezug auf%} 
-<ls>WILSON,</ls> <ls>SĀṂKHYAK. S. 55.</ls> {#अवसीदन्ति मे प्राणाः#} {%erschlaffen, vergehen%} 
+<ls>WILSON, SĀṂKHYAK. S. 55.</ls> {#अवसीदन्ति मे प्राणाः#} {%erschlaffen, vergehen%} 
 <ls>MBH. 4, 1962.</ls> {#हृदयं मे ऽवसीदति#} {%weiss sich nicht zu fassen%} 
 <ls>R. 2, 71, 28.</ls> {#नात्मावसीदति#} 
 <ls>BHĀG. P. 3, 9, 34.</ls> {#नावसीदेत्कुलं च नः#} {%zu Ende gehen, erlöschen%} 
@@ -267,8 +267,8 @@ s. w.), {%an sich selbst verzweifeln, nicht zu bleiben —, sich nicht zu fassen
 <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> <ls>BHAṬṬ. 7, 31.</ls> {#पथि प्रच्छन्नम्#} 
 <ls>MBH. 1, 5887.</ls> {#शैलम्#} 
 <ls>R. 2, 56, 12. 68, 21.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 79, 35. 3, 4, 22. 65, 18.</ls> 
+
+<ls>R. GORR. 1, 79, 35. 3, 4, 22. 65, 18.</ls> 
 <ls>KUMĀRAS. 6, 36.</ls> {#आसेदिवान्रत्नवदासनस्#} 
 <ls>RAGH. 6, 4. 11, 23.</ls> {#स्वं ग्राममासदत्#} 
 <ls>KATHĀS. 64, 11.</ls> {#अनघाँल्लोकान्#} 
@@ -314,11 +314,11 @@ u.s.w. <ls>4, 43.</ls>
 <ls>TS. PRĀT. 1, 25.</ls> <ls>P. 5, 2, 34.</ls> <ls>R. 2, 54, 23</ls> ({#इतः#}). 
 <ls>MEGH. 24. 93.</ls> 
 <ls>RAGH. 10, 20. 12, 24.</ls> 
-<ls>Spr. (II) 1066. 2390. 3234.</ls> 
+<ls>Spr. (II) 1066.</ls> <ls n="Spr. (II)">2390.</ls> <ls n="Spr. (II)">3234.</ls> 
 <ls>VARĀH. BṚH. S. 12, 9. 13, 5. 17, 3. 25, 4. 53, 86. 54, 24.</ls> 
 <ls>KATHĀS. 4, 12.</ls> 
-<ls>RĀJA-TAR. 1, 282. 2, 169. 3, 231. 369. 407. 4, 534</ls> ({#आशन्न#} 
-<ls>TR.</ls><ls>?). 5, 59. BHĀG. P. 4, 16, 11. HIT. 38, 22. 43, 20.</ls> {#आसन्नम्#} {%in die Nähe%} 
+<ls>RĀJA-TAR. 1, 282. 2, 169. 3, 231. 369. 407. 4, 534</ls> ({#आशन्न#} <ls>TR.</ls>). 
+<ls>5, 59.</ls> <ls>BHĀG. P. 4, 16, 11.</ls> <ls>HIT. 38, 22. 43, 20.</ls> {#आसन्नम्#} {%in die Nähe%} 
 <ls>MBH. 7, 4921.</ls> {#यथासन्नं प्रधाविताः#} 
 <ls>R. GORR. 2, 111, 42.</ls> {#आसन्ने#} {%in der Nähe%} 
 <ls>3, 50, 10.</ls> <ls>Spr. (II) 4748.</ls> {#राजगृहासन्ने#} 
@@ -332,7 +332,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>P. 3, 2, 117.</ls> {#°कालिक#} 
 <ls>5, 4, 20, Schol.</ls> {#निर्वाण#} 
 <ls>RAGH. 12, 1.</ls> {#मरण#} 
-<ls>Spr. (II) 1253. 5939.</ls> 
+<ls>Spr. (II) 1253.</ls> <ls n="Spr. (II)">5939.</ls> 
 <ls>YOGAS. 1, 21.</ls> 
 <ls>VARĀH. BṚH. S. 28, 13.</ls> 
 <ls>KATHĀS. 10, 4. 14, 79. 31, 73. 46, 190.</ls> 
@@ -369,7 +369,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>BHĀG. P. 3, 8, 12. 30, 33. 5, 5, 14</ls> ({#अविद्ययासादितं#} zu schreiben). 
 <ls>6, 18.</ls> 
 <div n="1">— 3) {%gelangen zu, auf, erreichen%} 
-<ls>DHĀTUP. 34, 25</ls> {#(पद्यर्थे)#}.{# पुण्यं सुरेन्द्रलोकम्#} 
+<ls>DHĀTUP. 34, 25</ls> ({#पद्यर्थे#}).{# पुण्यं सुरेन्द्रलोकम्#} 
 <ls>BHAG. 9, 20.</ls> {#गुहाम्#} 
 <ls>MBH. 2, 1122.</ls> {#वेलां पश्चिमाम्#} 
 <ls>3, 2536.</ls> {#पुरम्#} 
@@ -378,7 +378,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>2929.</ls> {#अन्तं तस्य#} 
 <ls>12929.</ls> {#वैष्णवं यूपम्#} 
 <ls>R. 1, 62, 19.</ls> {#कौशिकीतीरम्#} 
-<ls>63, 15. 2, 52, 96. 56, 33. 71, 15. 3, 76, 5.</ls> <ls>MEGH. 35.</ls> <ls>Spr. (II) 1658. 2130.</ls> {#दुष्टं पन्थानम्#} 
+<ls>63, 15. 2, 52, 96. 56, 33. 71, 15. 3, 76, 5.</ls> <ls>MEGH. 35.</ls> <ls>Spr. (II) 1658.</ls> <ls n="Spr. (II)">2130.</ls> {#दुष्टं पन्थानम्#} 
 <ls>2889. 5309.</ls> {#पारम्#} 
 <ls>VARĀH. BṚH. S. 2, 4.</ls> 
 <ls>KATHĀS. 18, 73. 25, 26.</ls> 
@@ -394,7 +394,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>DAŚAK. 84, 13. fg.</ls> 
 <ls>PAÑCAT. 69, 14.</ls> {%Jmd treffen, mit Jmd zusammentreffen, auf Jmd stossen, Jmd finden%} 
 <ls>M. 4, 227.</ls> 
-<ls>MBH. 3, 2260. 2697. 3007. 3033. 15665. 5, 5978. fg. 7429. 7504.</ls> 
+<ls>MBH. 3, 2260.</ls> <ls n="MBH. 3,">2697.</ls> <ls n="MBH. 3,">3007.</ls> <ls n="MBH. 3,">3033.</ls> <ls n="MBH. 3,">15665.</ls> <ls n="MBH.">5, 5978. fg.</ls> <ls n="MBH. 5,">7429.</ls> <ls n="MBH. 5,">7504.</ls> 
 <ls>HARIV. 4919.</ls> 
 <ls>Spr. (II) 6556.</ls> 
 <ls>R. 1, 1, 29. 41, 11 (42, 10 GORR.). 2, 32, 33. 3, 68, 2</ls> (med.). {%gerathen in%}: {#द्वंद्वम्#} 
@@ -403,7 +403,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>R. 3, 45, 17.</ls> 
 <ls>KUSUM. 28, 5.</ls> {#अनेन रथवेगेन पूर्वप्रस्थितं वैनतेयमप्यासादयेयम्#} so v. a. {%einholen%} 
 <ls>VIKR. 6, 7.</ls> {%in feindlicher Absicht auf Jmd losgehen%} 
-<ls>MBH. 1, 5984. 4, 1663. 7, 9186.</ls> 
+<ls>MBH. 1, 5984.</ls> <ls n="MBH.">4, 1663.</ls> <ls n="MBH.">7, 9186.</ls> 
 <ls>R. 1, 21, 12. 3, 41, 5.</ls> 
 <ls>BHĀG. P. 1, 7, 33.</ls> 
 <ls>BHAṬṬ. 6, 95. 8, 37.</ls> {#वायुरिवाभ्रमासाद्य#} 
@@ -419,7 +419,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>105, 32.</ls> {#मृत्युम्#} 
 <ls>3, 49, 53.</ls> {#शुष्कमिन्धनमासाद्य वनेष्विव हुताशनः#} 
 <ls>5, 49, 6.</ls> {#अन्तरम्#} {%Gelegenheit%} 
-<ls>2, 50, 1. 3, 52, 4.</ls> <ls>VIKR. 73, 4.</ls> <ls>Spr. (II) 2671. 3341. 5558. 5837.</ls> <ls>KATHĀS. 6, 28. 29, 131. 45, 374.</ls> {#रतम्#} 
+<ls>2, 50, 1. 3, 52, 4.</ls> <ls>VIKR. 73, 4.</ls> <ls>Spr. (II) 2671.</ls> <ls n="Spr. (II)">3341.</ls> <ls n="Spr. (II)">5558.</ls> <ls n="Spr. (II)">5837.</ls> <ls>KATHĀS. 6, 28. 29, 131. 45, 374.</ls> {#रतम्#} 
 <ls>50, 159. 106, 161.</ls> <ls>GĪT. 5, 7.</ls> <ls>RĀJA-TAR. 4, 349.</ls> <ls>MĀRK. P. 121, 3.</ls> <ls>BHĀG. P. 3, 4, 12.</ls> <ls>SARVADARŚANAS. 59, 22.</ls> <ls>DAŚAK. 86, 11.</ls> <ls>PAÑCAT. 95, 24.</ls> <ls>KUSUM. 42, 7.</ls> <ls>AK. 3, 2, 54.</ls> {#सूकराकृतिम्#} {%die Gestalt eines Ebers annehmen%} 
 <ls>BHĀG. P. 3, 18, 3.</ls> {#पुंस्त्वम्#} 
 <ls>MBH. 5, 7496.</ls> {#दिव्यत्वम्#} 
@@ -493,9 +493,9 @@ u.s.w. <ls>4, 43.</ls>
 <ls>KIR. 11, 36.</ls> — partic. {#प्रत्यासन्न#} 
 <div n="1"> 1) {%nahe%} 
 <div n="2"> a) im Raume: {%in unmittelbarer Nähe befindlich, benachbart%}; die Ergänzung im gen. oder im comp. vorangehend 
-<ls>MBH. 5, 4747. 8, 1769.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 28, 12. 3, 32, 9.</ls> 
+<ls>MBH. 5, 4747.</ls> <ls n="MBH.">8, 1769.</ls> 
+
+<ls>R. GORR. 2, 28, 12. 3, 32, 9.</ls> 
 <ls>MEGH. 76.</ls> 
 <ls>ŚĀK. 17, 21.</ls> 
 <ls>PRAB. 26, 9.</ls> 
@@ -506,7 +506,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>13769.</ls> 
 <div n="2">— b) in der Zeit: {%nahe bevorstehend%} 
 <ls>MEGH. 4.</ls> 
-<ls>Spr. (II) 585. 4193.</ls> 
+<ls>Spr. (II) 585.</ls> <ls n="Spr. (II)">4193.</ls> 
 <ls>KATHĀS. 26, 5. 50, 195.</ls> 
 <ls>PRAB. 78, 8.</ls> 
 <ls>PAÑCAT. 10, 9.</ls> 
@@ -526,7 +526,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>KUMĀRAS. 3, 58.</ls> {#परं पारम्#} 
 <ls>RĀJA-TAR. 4, 250. 577.</ls> {#राज्ञः संनिधौ#} {%sich begeben in die Nähe von%} 
 <ls>DAŚAK. 65, 20.</ls> {%zu Jmd%} (acc.) {%herantreten, mit Jmd zusammentreffen%} 
-<ls>MBH. 2, 553. 3, 10087. 5, 7496.</ls> 
+<ls>MBH. 2, 553.</ls> <ls n="MBH.">3, 10087.</ls> <ls n="MBH.">5, 7496.</ls> 
 <ls>R. 4, 47, 7.</ls> {#अप्सरोभिः#} 
 <ls>HARIV. 15902.</ls> {%in feindlicher Absicht auf Jmd losgehen%} 
 <ls>MBH. 5, 7134.</ls> {%gelangen zu%} so v. a. {%erlangen, bekommen%}:
@@ -538,7 +538,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>KATHĀS. 22, 221.</ls> {#वेलासमासन्नशैल#} 
 <ls>RAGH. 10, 36.</ls> {#मृत्युदेश° (जन)#} 
 <ls>YĀJÑ. 2, 281.</ls> Vgl. {#समासत्ति#} . — caus. {%gelangen zu, erreichen%}: {#नरनारायणाश्रमम्#} 
-<ls>MBH. 12, 4661. 13, 3922.</ls> 
+<ls>MBH. 12, 4661.</ls> <ls n="MBH.">13, 3922.</ls> 
 <ls>R. 1, 1, 71 (76 GORR.). 2, 5.</ls> {#तं वृक्षम्#} 
 <ls>2, 53, 1.</ls> <ls>R. GORR. 2, 12, 35. 55, 3.</ls> {%gerathen in%}: {#पतंगाः पावकम्#} 
 <ls>6, 19, 25.</ls> {#कक्षं वह्निः#} 
@@ -602,7 +602,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>HARIV. 3020.</ls> {#°भय#} <lex>adj.</lex> 
 <ls>BHĀG. P. 4, 9, 1.</ls> {#उच्छन्न#} 
 <ls>SUŚR. 2, 395, 10</ls> fehlerhaft für {#उत्सन्न#} (vgl. {#उच्छादन#}) oder {#उच्छिन्न#} (vgl. 
-<ls>Spr. (II) 4600,</ls> v. l.<ls>)</ls> 
+<ls>Spr. (II) 4600, v. l.</ls>)
 <div n="v">— Vgl. {#उत्साद#} . — caus. 
 <div n="1"> 1) {%aussetzen, bei Seite schaffen, wegräumen%}: {#प्रवर्ग्यम्#} 
 <ls>ŚAT. BR. 14, 3, 1, 1. 9, 2, 1, 19. 5, 1, 22.</ls> 
@@ -615,7 +615,7 @@ u.s.w. <ls>4, 43.</ls>
 [Page7-0598]
 {%Nichte machen%}: {#तस्करान्#} 
 <ls>M. 9, 267.</ls> {#सर्वं क्षत्रम्#} 
-<ls>MBH. 1, 273. 3, 5097. 7, 3344. 7510. 12, 1711.</ls> 
+<ls>MBH. 1, 273.</ls> <ls n="MBH.">3, 5097.</ls> <ls n="MBH.">7, 3344.</ls> <ls n="MBH. 7,">7510.</ls> <ls n="MBH.">12, 1711.</ls> 
 <ls>R. 1, 74, 20 (76, 23. fg. GORR.). 75, 24. 3, 1, 16. 23, 27. 5, 56, 105.</ls> <ls>Spr. (II) 6816.</ls> <ls>KATHĀS. 46, 8</ls> ({#उत्सादनीय#}). 
 <ls>120, 23. 121, 261.</ls> <ls>LA. (III) 87, 11.</ls> {#लोकमिमम्#} 
 <ls>MBH. 5, 1376.</ls> 
@@ -629,7 +629,7 @@ u.s.w. <ls>4, 43.</ls>
 <ls>R. GORR. 2, 61, 18.</ls> 
 <div n="1">— 3) {%einreiben, salben%}: {#गौरसर्षपकल्केन साज्येनोत्सादितः#} 
 <ls>YĀJÑ. 1, 276.</ls> 
-<ls>MBH. 7, 2920. 13, 1487.</ls> 
+<ls>MBH. 7, 2920.</ls> <ls n="MBH.">13, 1487.</ls> 
 <div n="v">— Vgl. {#उत्सादक#} fgg.
 
 <div n="p">— {#अभ्युद्#} caus. {#अभ्युत्सादयामकः#} ved. 
@@ -709,14 +709,14 @@ u.s.w. <ls>4, 43.</ls>
 <ls>KAUŚ. 1.</ls> 
 <div n="1">— 2) {%bewirken, dass Jmd%} oder {%Etwas naht, hinführen zu, herbeiführen, zuführen%}; nur partic. {#°सादित#} 
 <ls>BHĀG. P. 3, 31, 21. 42.4, 8, 29. 9, 27. 21, 50. 5, 8, 6. 9, 9. 10, 1. 6, 9, 42. 10, 59, 31. 34. 12, 4, 6.</ls> 
-<ls>Spr. (II) 5254</ls> <ls>?(BHĀG. P.).</ls>
+<ls>Spr. (II) 5254</ls> (<ls>BHĀG. P.).</ls>
 [Page7-0599]
 
 <div n="1">— 3) {%finden, bekommen, erlangen%}: {#उपसाद्य गुरौ वृत्तिम्#} 
 <ls>BHĀG. P. 10, 45, 32.</ls>
 
 <div n="p">— {#अभ्युप#} caus. {%gelangen zu, erreichen%}: {#आशापुरीमभ्युपसाद्य#} 
-<ls>Verz. d. Oxf. H. 149</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 149,a,</ls> 
 <ls>26.</ls>
 
 <div n="p">— {#समुप#} {%sich hinbegeben zu%}: {#स तं यज्ञं समुपासदत्#} 
@@ -754,10 +754,10 @@ u.s.w. <ls>VS. PRĀT. 3, 58.</ls> <ls>P. 8, 3, 63. fg. 66. 118. fg.</ls> <ls>VOP
 <ls>BHĀG. P. 3, 8, 21.</ls> {#न्यसीदत्#} (!) 
 <ls>R. GORR. 2, 100, 37.</ls> {#न्यसीदताम्#} (!) 
 <ls>3, 9, 21.</ls> {#निषसाद#} 
-<ls>MBH. 1, 60. 7253. 3, 2337. 16752.</ls> 
+<ls>MBH. 1, 60.</ls> <ls n="MBH. 1,">7253.</ls> <ls n="MBH.">3, 2337.</ls> <ls n="MBH. 3,">16752.</ls> 
 <ls>R. 2, 97, 1.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 34, 20. 4, 7, 13. 18, 25.</ls> 
+
+<ls>R. GORR. 1, 34, 20. 4, 7, 13. 18, 25.</ls> 
 <ls>BHĀG. P. 4, 2, 7. 4, 24. 8, 24, 40.</ls> 
 <ls>PAÑCAT. 8, 18</ls> (ed. orn. 
 <ls>4, 14. 16</ls>). {#निषेदतुः#} 
@@ -832,7 +832,7 @@ u.s.w. <ls>VS. PRĀT. 3, 58.</ls> <ls>P. 8, 3, 63. fg. 66. 118. fg.</ls> <ls>VOP
 <ls>13, 4682.</ls> {#°षीदत#} med. 
 <ls>7, 4671.</ls> {#संनिषण्ण#} {%niedersitzend%} 
 <ls>8, 2999</ls> ({#संनिषेव्य#} ed. Bomb. {#संनिषण्ण = अवसन्न#} 
-<ls>NĪLAK.</ls><ls>?). R. GORR. 1, 52, 3.</ls>
+<ls>NĪLAK.</ls>). <ls>R. GORR. 1, 52, 3.</ls>
 
 <div n="p">— {#परि#}, {#°षसाद#} 
 <ls>P. 8, 3, 118, Schol.</ls> 
@@ -865,13 +865,13 @@ u.s.w. <ls>VS. PRĀT. 3, 58.</ls> <ls>P. 8, 3, 63. fg. 66. 118. fg.</ls> <ls>VOP
 <ls>Spr. (II) 3730</ls> (Gegens. {#प्रकुप्#}). 
 <ls>4088.</ls> <ls>MĀLATĪM. 46, 12.</ls> {#प्रसीद देवेश#} 
 <ls>BHAG. 11, 25. 31.</ls> 
-<ls>MBH. 1, 1259. 3, 1860</ls> ({#तत्प्रसीद#} mit der ed. Bomb. zu lesen). 
+<ls>MBH. 1, 1259.</ls> <ls n="MBH.">3, 1860</ls> ({#तत्प्रसीद#} mit der ed. Bomb. zu lesen). 
 <ls>2529. 12015. 12768. 5, 7072</ls> ({#मा#} mit der ed. Bomb. zu lesen). 
 <ls>R. 2, 64, 18.</ls> 
 <ls>KUMĀRAS. 3, 9.</ls> 
 <ls>ŚĀK. 110, 13.</ls> 
 <ls>VIKR. 39.</ls> <ls>WEBER, RĀMAT. UP. 288. 357.</ls> <ls>KṚṢṆAJ. 290. fg.</ls> <ls>Spr. (II) 2036.</ls> <ls>DAŚAK. 85, 9.</ls> <ls>SARVADARŚANAS. 57, 15.</ls> <ls>BHĀG. P. 3, 13, 47. 8, 21, 24.</ls> {#प्रसीदस्व#} 
-<ls>MBH. 1, 4700. 5, 370.</ls> mit infin. {%geruhen%} 
+<ls>MBH. 1, 4700.</ls> <ls n="MBH.">5, 370.</ls> mit infin. {%geruhen%} 
 <ls>RAGH. 2, 45. 6, 64.</ls> 
 <div n="1">— 2) {%gut von Statten gehen, gelingen%}: {#क्रिया हि वस्तूपहिता प्रसीदति#} 
 <ls>RAGH. 3, 29.</ls> 
@@ -885,7 +885,7 @@ u.s.w. <ls>VS. PRĀT. 3, 58.</ls> <ls>P. 8, 3, 63. fg. 66. 118. fg.</ls> <ls>VOP
 <ls>MED. n. 86.</ls> Wasser 
 <ls>MBH. 3, 2511.</ls> 
 <ls>R. 2, 68, 15. 4, 13, 5. 5, 31, 3</ls> ({#सु°#}) 
-<ls>?6, 112, 74. SUŚR. 1, 20, 11. MEGH. 41. KUMĀRAS. 7, 74. ŚĀK. 117. BRAHMAP. in LA. (III) 52, 4.</ls> {#रस#} {%Saft%} 
+<ls>6, 112, 74.</ls> <ls>SUŚR. 1, 20, 11.</ls> <ls>MEGH. 41.</ls> <ls>KUMĀRAS. 7, 74.</ls> <ls>ŚĀK. 117.</ls> <ls>BRAHMAP.</ls> in <ls>LA. (III) 52, 4.</ls> {#रस#} {%Saft%} 
 <ls>Spr. (II) 532.</ls> {#तीर्थ#} 
 <ls>R. 1, 2, 6.</ls> {#शशिमण्डल#} 
 <ls>Spr. (II) 4900.</ls> {#प्रसन्नात्मा सोमः#} 
@@ -901,8 +901,8 @@ u.s.w. <ls>VS. PRĀT. 3, 58.</ls> <ls>P. 8, 3, 63. fg. 66. 118. fg.</ls> <ls>VOP
 <ls>4, 3, 26.</ls> {#प्रसन्नाग्र#} {%mit blanker Spitze%}:
 [Page7-0601]
 Pfeile 
-<ls>MBH. 4, 1166. 7, 5399.</ls> 
-<ls>HARIV. 13387. 13390.</ls> {%heiter%} von einem Gesicht 
+<ls>MBH. 4, 1166.</ls> <ls n="MBH.">7, 5399.</ls> 
+<ls>HARIV. 13387.</ls> <ls n="HARIV.">13390.</ls> {%heiter%} von einem Gesicht 
 <ls>MBH. 3, 15688.</ls> 
 <ls>RAGH. 2, 68.</ls> 
 <ls>Spr. (II) 2544</ls> ({#सु°#}). 
@@ -915,8 +915,8 @@ Pfeile
 <ls>MĀLATĪM. 20, 3.</ls> {%klar, deutlich%} von Sinneseindrücken: {#रसाः स्पर्शाश्च गन्धाश्च शब्दाश्चापि - दृश्यानि च प्रसन्नानि यत्र राजा युधिष्ठिरः#} 
 <ls>MBH. 4, 936.</ls> {%frei von aller Aufregung, ruhig%}: {#इन्द्रियाणि#} 
 <ls>R. 1, 56, 24.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 15, 7</ls> ({#अ°#}). 
+
+<ls>R. GORR. 2, 15, 7</ls> ({#अ°#}). 
 <ls>VARĀH. BṚH. S. 69, 24.</ls> {%heiter, gut —, gnädig gestimmt%}; = {#संतुष्ट#} 
 <ls>MED.</ls> {#प्रसन्नात्मन्#} 
 <ls>MAITRYUP. 6, 20.</ls> <ls>BHAG. 18, 54.</ls> <ls>SARVADARŚANAS. 57, 16.</ls> {#सबाह्यान्तरात्मन्#} 
@@ -930,10 +930,10 @@ Pfeile
 <ls>KUMĀRAS. 7, 74.</ls> von Menschen und höheren Wesen 
 <ls>Ind. St. 2, 48,</ls> 
 <ls>N. 3.</ls> 
-<ls>MBH. 3, 2079. 5, 7252.</ls> 
+<ls>MBH. 3, 2079.</ls> <ls n="MBH.">5, 7252.</ls> 
 <ls>RAGH. 2, 63.</ls> 
 <ls>ŚĀK. 1.</ls> 
-<ls>Spr. (II) 3898. 4281.</ls> <ls>WEBER, RĀMAT. UP. 321. 344.</ls> <ls>DAŚAK. 92, 19</ls> ({#°कल्प#}). 
+<ls>Spr. (II) 3898.</ls> <ls n="Spr. (II)">4281.</ls> <ls>WEBER, RĀMAT. UP. 321. 344.</ls> <ls>DAŚAK. 92, 19</ls> ({#°कल्प#}). 
 <ls>PAÑCAT. 223, 9.</ls> 
 <ls>LA. (III) 28, 12. 37, 6.</ls> {#देवाः प्रसन्नास्ते#} 
 <ls>MBH. 1, 5919.</ls> 
@@ -958,10 +958,10 @@ Pfeile
 <ls>82, 28. 6, 108, 41.</ls> <ls>RAGH. 1, 88.</ls> <ls>VIKR. 54.</ls> <ls>MĀLAV. 42, 19.</ls> <ls>Spr. (II) 2222.</ls> <ls>KATHĀS. 14, 52. 45, 411.</ls> <ls>MĀRK. P. 16, 49. fg. 34, 38. 75, 54.</ls> <ls>LA. (III) 91, 14.</ls> <ls>BHĀG. P. 3, 16, 4. 4, 6, 5.</ls> <ls>PAÑCAT. 71, 17.</ls> {#प्रसाद्यमानापि न तुष्यति#} 
 <ls>223, 9.</ls> {#शिरसा#} 
 <ls>R. 1, 11, 2. 2, 88, 25.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 18, 33.</ls> {#प्रणम्य#} 
+
+<ls>R. GORR. 2, 18, 33.</ls> {#प्रणम्य#} 
 <ls>4, 6, 12.</ls> {#पादेषु#} 
-<ls>R.</ls> <ls>SCHL. 2, 100, 16.</ls> {#पादयोः पतित्वा#} 
+<ls>R. SCHL. 2, 100, 16.</ls> {#पादयोः पतित्वा#} 
 <ls>PAÑCAT. 223, 11.</ls> {#आहारपानवस्त्रैः#} 
 <ls>KATHĀS. 23, 37.</ls> {#प्रसादये त्वां शिरसा गन्तुमिच्छामि वनम्#} 
 <ls>R. 2, 21, 30.</ls> {#प्रसादये त्वामहम् - अर्हसि देव सोढुम्#} 
@@ -991,8 +991,8 @@ Pfeile
 <ls>ṚV. 4, 1, 13.</ls> {#व\रेभि^र्व\राँ अ\भि षु प्र\सीद^तः#} 
 <ls n="ṚV.">10, 32, 1.</ls> — caus. {%Jmd in gute Laune versetzen, besänftigen, geneigt zu machen suchen, um Etwas angehen%} 
 <ls>R. 1, 61, 12. 2, 5, 8. 77, 24.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 20, 46. 5, 69, 28.</ls> {#अभिप्रसादयमृषिं गिरा त्राहीति मां तदा#} 
+
+<ls>R. GORR. 2, 20, 46. 5, 69, 28.</ls> {#अभिप्रसादयमृषिं गिरा त्राहीति मां तदा#} 
 <ls>MBH. 3, 14063.</ls>
 
 <div n="p">— {#उपप्र#} {%beziehen%}: {#गृ\हान्#} 
@@ -1005,12 +1005,12 @@ Pfeile
 <ls>BHĀG. P. 3, 7, 35. 9, 40. 4, 11, 13.</ls> partic. {#°सन्न#} {%beruhigt, ruhig%} 
 <ls>CHĀND. UP. 8, 11, 1.</ls> {%gnädig gestimmt, gewogen%} 
 <ls>BHĀG. P. 4, 11, 14.</ls> Vgl. {#संप्रसाद#} . — caus. {%Jmd besänftigen, gewogen machen%} 
-<ls>MBH. 3, 14039. 15, 313.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 108, 15. 4, 9, 1.</ls> 
+<ls>MBH. 3, 14039.</ls> <ls n="MBH.">15, 313.</ls> 
+
+<ls>R. GORR. 2, 108, 15. 4, 9, 1.</ls> 
 <ls>Spr. (II) 3828.</ls> {#तां वाचं मयि संप्रसादय#} 
-<ls>Verz. d. Oxf. H. 110</ls>, {%a%}, 
-<ls>No. 173,</ls> <ls>Śl. 2.</ls>
+<ls>Verz. d. Oxf. H. 110,a,</ls> 
+<ls>No. 173, Śl. 2.</ls>
 
 <div n="p">— {#प्रति#}, {#°सीदति#} 
 <ls>P. 8, 3, 66.</ls> 
@@ -1025,7 +1025,7 @@ Pfeile
 <ls>KATHĀS. 26, 112.</ls> 
 <ls>BHĀG. P. 3, 20, 36.</ls> {#विषीदन्त्#} 
 <ls>BHAG. 1, 28.</ls> 
-<ls>MBH. 3, 448. 4, 775.</ls> 
+<ls>MBH. 3, 448.</ls> <ls n="MBH.">4, 775.</ls> 
 <ls>KATHĀS. 53, 37.</ls> 
 <ls>BHĀG. P. 8, 11, 37.</ls> 
 <ls>BHAṬṬ. 7, 89.</ls> {#व्यषीदन्#} 

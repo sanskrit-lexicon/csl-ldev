@@ -1,3 +1,3 @@
 <L>10951<pc>344<k1>hexagon<k2>hexagon
-<div n="lb"/>{@HEXAGON:@}¦ <div n="1">(1) {#षड्भुजः;#} </div><div n="1">(2) {#षडस्रः;#} </div><div n="1">(3) {#षट्कोणः।#}</div>
+{@HEXAGON:@}¦ <div n="1">(1) {#षड्भुजः;#} </div><div n="1">(2) {#षडस्रः;#} </div><div n="1">(3) {#षट्कोणः।#}</div>
 <LEND>

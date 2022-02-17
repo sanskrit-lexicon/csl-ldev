@@ -6,9 +6,9 @@
 <ls>R. 3, 25, 2.</ls> {#मम कालविचारिणः#} 
 <ls>HARIV. 4009.</ls> {#जलस्थल°#} (so die ed. Bomb.) 
 <ls>MBH. 12, 6138.</ls> {#सर्वव्रज°#} 
-<ls>HARIV. 3447. 3726. 4600. 10914. 14536.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 21, 17. 7, 18, 29.</ls> 
+<ls>HARIV. 3447.</ls> <ls n="HARIV.">3726.</ls> <ls n="HARIV.">4600.</ls> <ls n="HARIV.">10914.</ls> <ls n="HARIV.">14536.</ls> 
+
+<ls>R. GORR. 2, 21, 17. 7, 18, 29.</ls> 
 <ls>MĀRK. P. 131, 6.</ls> {%durchlaufend%}: {#नभसो ऽर्ध°#} 
 <ls>VARĀH. BṚH. S. 11, 31.</ls> 
 <div n="1">— 2) {%verfahrend%}: {#मायाशत°#} so v. a. {%anwendend%} 

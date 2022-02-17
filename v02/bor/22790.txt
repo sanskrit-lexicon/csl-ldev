@@ -1,7 +1,7 @@
 <L>22790<pc>719<k1>transmit<k2>transmit
-<div n="lb"/>{@TRANSMIT:@}¦ <div n="I">I To send: q. v.: {#प्रेरयति#} ({#ईर्,#}
-<div n="lb"/>c. 10.). {%To be t. ted:%} (= to pass): q. v.:
-<div n="lb"/>{#गच्छति#} ({#गम्,#} c. 1.). </div><div n="I">II To suffer, to pass
-<div n="lb"/>through: <div n="xe">{%iron t. s electricity:%}</div> <div n="xs">{#*लौहेन #}
-<div n="lb"/>{# विद्युन्निष्पतति।#}</div></div>
+{@TRANSMIT:@}¦ <div n="I">I To send: q. v.: {#प्रेरयति#} ({#ईर्,#}
+c. 10.). {%To be t. ted:%} (= to pass): q. v.:
+{#गच्छति#} ({#गम्,#} c. 1.). </div><div n="I">II To suffer, to pass
+through: <div n="xe">{%iron t. s electricity:%}</div> <div n="xs">{#*लौहेन #}
+{# विद्युन्निष्पतति।#}</div></div>
 <LEND>

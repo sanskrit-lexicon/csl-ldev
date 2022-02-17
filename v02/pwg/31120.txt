@@ -9,8 +9,8 @@
 <ls>MED.</ls> 
 <ls>M. 2, 224. 7, 27.</ls> 
 <ls>YĀJÑ. 1, 74.</ls> 
-<ls>MBH. 1, 6844. 13, 2028. fg.</ls> 
-<ls>HARIV. 4135. 11421.</ls> 
+<ls>MBH. 1, 6844.</ls> <ls n="MBH.">13, 2028. fg.</ls> 
+<ls>HARIV. 4135.</ls> <ls n="HARIV.">11421.</ls> 
 <ls>R. 1, 6, 5.</ls> 
 <ls>KUMĀRAS. 5, 38.</ls> 
 <ls>KATHĀS. 24, 151.</ls> 
@@ -20,6 +20,6 @@
 <ls>MED.</ls> 
 <ls>MBH. 12, 2664.</ls> = {#सत्त्व, रजस्#} und {#तमस्#} (s. {#त्रिगुण#}) 
 <ls>MED.</ls> {%die drei oberen Kasten%} 
-<ls>MBH. 13, 6464. 6605.</ls> = {#सुनीति#} {%gutes Benehmen%} 
+<ls>MBH. 13, 6464.</ls> <ls n="MBH. 13,">6605.</ls> = {#सुनीति#} {%gutes Benehmen%} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 <LEND>

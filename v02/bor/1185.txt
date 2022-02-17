@@ -1,6 +1,6 @@
 <L>1185<pc>042<k1>asleep<k2>asleep
-<div n="lb"/>{@ASLEEP:@}¦ <div n="1">(1) {#सुप्तः#} ({#प्ता, प्तं#}): <div n="xe">{%fast a.%}</div> <div n="xs">{#प्रसुप्तः#}</div> ({#प्ता, प्तं#})
-<div n="lb"/><div n="xe">{%whether apparently or really a.%}</div> <div n="xs">{#किं लक्ष्यसुप्तमुत #}
-<div n="lb"/>{# परमार्थसुप्तम्,#}</div> Mr. iii.; </div><div n="1">(2) {#निद्रितः#} ({#ता, तं#}); </div><div n="1">(3)
-<div n="lb"/>{#शयितः#} ({#ता, तं#}).</div>
+{@ASLEEP:@}¦ <div n="1">(1) {#सुप्तः#} ({#प्ता, प्तं#}): <div n="xe">{%fast a.%}</div> <div n="xs">{#प्रसुप्तः#}</div> ({#प्ता, प्तं#})
+<div n="xe">{%whether apparently or really a.%}</div> <div n="xs">{#किं लक्ष्यसुप्तमुत #}
+{# परमार्थसुप्तम्,#}</div> Mr. iii.; </div><div n="1">(2) {#निद्रितः#} ({#ता, तं#}); </div><div n="1">(3)
+{#शयितः#} ({#ता, तं#}).</div>
 <LEND>

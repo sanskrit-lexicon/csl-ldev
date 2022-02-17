@@ -1,15 +1,15 @@
 <L>20388<pc>637<k1>ship<k2>ship
-<div n="lb"/>{@SHIP@}¦ (subs.): <div n="1">(1) {#पोतः,#} <div n="xe">{%struck by a succession of%}
-<div n="lb"/>{%billows, the s. sank in the waters of the sea:%}</div>
-<div n="lb"/><div n="xs">{#कल्लोलमालाभिहतः पोतः समुद्राम्भस्यमज्जत्,#}</div> D.; </div><div n="1">(2)
-<div n="lb"/>{#यानम्, -पात्रम्#} (= vessel), <div n="xe">{%s. -wreck;%}</div> <div n="xs">{#यानभङ्गः,#}</div> Ra.
-<div n="lb"/>i.; <div n="xe">{%embarking on the s.:%}</div> <div n="xs">{#यानपात्रं समारुह्य,#}</div> K. s.
-<div n="lb"/>18. 293.; </div><div n="1">(3) {#प्र-वहनम्#} (= {#यानम्#}), <div n="xe">{%and the s.%}
-<div n="lb"/>{%went up and down every moment:%}</div> <div n="xs">{#ययौ च तत् #}
-<div n="lb"/>{# प्रवहणं क्षणमूर्ध्वमधः क्षणम्,#}</div> K. s. 25. 44.; <div n="xe">{%the s.%}
-<div n="lb"/>{%wrecked:%}</div> <div n="xs">{#तद्वहनं समभज्यत,#}</div> 45.; </div><div n="1">(4) {#वहित्रम्#} (= 3:
-<div n="lb"/>rare), {%early in the morning, a s. was to be seen:%}
-<div n="lb"/>{#प्रत्यूषस्यदृश्यत किमपि वहित्रम्,#} D. vi.; </div><div n="1">(5) {#तरी#}
-<div n="lb"/>(= boat), Si. iii. 76.; {#समुद्रवाहिनी नौः, -का,#}
-<div n="lb"/>M. n. and sim. comp.s (best equiv.).</div>
+{@SHIP@}¦ (subs.): <div n="1">(1) {#पोतः,#} <div n="xe">{%struck by a succession of%}
+{%billows, the s. sank in the waters of the sea:%}</div>
+<div n="xs">{#कल्लोलमालाभिहतः पोतः समुद्राम्भस्यमज्जत्,#}</div> D.; </div><div n="1">(2)
+{#यानम्, -पात्रम्#} (= vessel), <div n="xe">{%s. -wreck;%}</div> <div n="xs">{#यानभङ्गः,#}</div> Ra.
+i.; <div n="xe">{%embarking on the s.:%}</div> <div n="xs">{#यानपात्रं समारुह्य,#}</div> K. s.
+18. 293.; </div><div n="1">(3) {#प्र-वहनम्#} (= {#यानम्#}), <div n="xe">{%and the s.%}
+{%went up and down every moment:%}</div> <div n="xs">{#ययौ च तत् #}
+{# प्रवहणं क्षणमूर्ध्वमधः क्षणम्,#}</div> K. s. 25. 44.; <div n="xe">{%the s.%}
+{%wrecked:%}</div> <div n="xs">{#तद्वहनं समभज्यत,#}</div> 45.; </div><div n="1">(4) {#वहित्रम्#} (= 3:
+rare), {%early in the morning, a s. was to be seen:%}
+{#प्रत्यूषस्यदृश्यत किमपि वहित्रम्,#} D. vi.; </div><div n="1">(5) {#तरी#}
+(= boat), Si. iii. 76.; {#समुद्रवाहिनी नौः, -का,#}
+M. n. and sim. comp.s (best equiv.).</div>
 <LEND>

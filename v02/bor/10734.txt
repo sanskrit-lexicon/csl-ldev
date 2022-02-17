@@ -1,8 +1,8 @@
 <L>10734<pc>338<k1>headache<k2>headache
-<div n="lb"/>{@HEADACHE:@}¦ <div n="1">(1) {#शिरोवेदना, शिरःपीडा,#} and sim.
-<div n="lb"/>comp.s., <div n="xe">{%violent h.:%}</div> <div n="xs">{#प्रबला शिरोवेदना,#}</div> K.; <div n="xe">{%I have%}
-<div n="lb"/>{%got h. by looking into this picture:%}</div> <div n="xs">{#मभेदं चित्रं #}
-<div n="lb"/>{# पश्यन्त्याः शीर्षवेदना समुत्पन्ना,#}</div> Ra. ii.; </div><div n="1">(2) {#शिरःशूलम्,#}
-<div n="lb"/>(rare), D.; </div><div n="1">(3) {#शिरोरोगः#} (= any disease of
-<div n="lb"/>the head).</div>
+{@HEADACHE:@}¦ <div n="1">(1) {#शिरोवेदना, शिरःपीडा,#} and sim.
+comp.s., <div n="xe">{%violent h.:%}</div> <div n="xs">{#प्रबला शिरोवेदना,#}</div> K.; <div n="xe">{%I have%}
+{%got h. by looking into this picture:%}</div> <div n="xs">{#मभेदं चित्रं #}
+{# पश्यन्त्याः शीर्षवेदना समुत्पन्ना,#}</div> Ra. ii.; </div><div n="1">(2) {#शिरःशूलम्,#}
+(rare), D.; </div><div n="1">(3) {#शिरोरोगः#} (= any disease of
+the head).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>13652<pc>328-b<k1>hall<k2>hall
-<div n="lb"/>HALL¦, {%s.%} (Large room at the entrance of a house) {#शाला,#}
-<div n="lb"/>{#वहिर्द्वारशाला, द्वारोपान्ते महाशाला, वाह्यकोष्ठः, कक्षा, कक्ष्या, किर्म्मी;#}
-<div n="lb"/>‘a temporary hall,’ {#मण्डपः -पा, जनाश्रयः;#} ‘a judgment-hall,’
-<div n="lb"/>{#विचारशाला#}.
+HALL¦, {%s.%} (Large room at the entrance of a house) {#शाला,#}
+{#वहिर्द्वारशाला, द्वारोपान्ते महाशाला, वाह्यकोष्ठः, कक्षा, कक्ष्या, किर्म्मी;#}
+‘a temporary hall,’ {#मण्डपः -पा, जनाश्रयः;#} ‘a judgment-hall,’
+{#विचारशाला#}.
 <LEND>

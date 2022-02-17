@@ -1,4 +1,4 @@
 <L>22868<pc>721<k1>trice<k2>trice
-<div n="lb"/>{@TRICE:@}¦ {#निमेषः,#} <div n="xe">{%in a t.:%}</div> <div n="xs">{#निमेषमात्रेण#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मात्रात्,#}</div>
-<div n="lb"/>R. iii. 61.
+{@TRICE:@}¦ {#निमेषः,#} <div n="xe">{%in a t.:%}</div> <div n="xs">{#निमेषमात्रेण#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मात्रात्,#}</div>
+R. iii. 61.
 <LEND>

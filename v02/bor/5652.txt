@@ -1,6 +1,6 @@
 <L>5652<pc>181<k1>defection<k2>defection
-<div n="lb"/>{@DEFECTION:@}¦ Ph.: {%d. from one's own religion:%}
-<div n="lb"/>{#स्वधर्मत्यागः;#} <div n="xe">{%“d. to Popery”%}</div> <div n="xs">{#रोमकधर्मपरिग्रहः;#}</div>
-<div n="lb"/>“{%d. of a realm%}” {#*राष्ट्रविघटनम्।:#} v. Revolt,
-<div n="lb"/>apostacy.
+{@DEFECTION:@}¦ Ph.: {%d. from one's own religion:%}
+{#स्वधर्मत्यागः;#} <div n="xe">{%“d. to Popery”%}</div> <div n="xs">{#रोमकधर्मपरिग्रहः;#}</div>
+“{%d. of a realm%}” {#*राष्ट्रविघटनम्।:#} v. Revolt,
+apostacy.
 <LEND>

@@ -1,7 +1,7 @@
 <L>3886<pc>127<k1>clump<k2>clump
-<div n="lb"/>{@CLUMP:@}¦ <div n="1">(1) {#गुच्छः;#} </div><div n="1">(2) {#निचयः, संहतिः,#} etc. in
-<div n="lb"/>comp., <div n="xe">{%a c. of creepers:%}</div> <div n="xs">{#विरुन्निचयः,#}</div> Ve.; <div n="xe">{%c. of%}
-<div n="lb"/>{%plantain trees:%}</div> <div n="xs">{#कदलीषण्डः,#}</div> Mah. <div n="xe">{%or%}</div> <div n="xs">{#कदलीगुल्मः#}</div>
-<div n="lb"/>Ra.; </div><div n="1">(3) {#वनम्#} (a large c.), <div n="xe">{%a c. of lotus:%}</div> <div n="xs">{#कुमु-#}
-<div n="lb"/>{#द्वनम्,#}</div> Ki.</div>
+{@CLUMP:@}¦ <div n="1">(1) {#गुच्छः;#} </div><div n="1">(2) {#निचयः, संहतिः,#} etc. in
+comp., <div n="xe">{%a c. of creepers:%}</div> <div n="xs">{#विरुन्निचयः,#}</div> Ve.; <div n="xe">{%c. of%}
+{%plantain trees:%}</div> <div n="xs">{#कदलीषण्डः,#}</div> Mah. <div n="xe">{%or%}</div> <div n="xs">{#कदलीगुल्मः#}</div>
+Ra.; </div><div n="1">(3) {#वनम्#} (a large c.), <div n="xe">{%a c. of lotus:%}</div> <div n="xs">{#कुमु-#}
+{#द्वनम्,#}</div> Ki.</div>
 <LEND>

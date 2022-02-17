@@ -1,5 +1,5 @@
 <L>5414<pc>118-b<k1>conclave<k2>conclave
-<div n="lb"/>CONCLAVE¦, {%s.%} (Assembly of cardinals) {#रोमनगरे धर्म्माधिपतिसभा#}. — 
-<div n="lb"/>(Secret assembly) {#गूढसभा, गूढसमाजः#}. — (Private apartment)
-<div n="lb"/>{#अवरोधनं, कक्षान्तरं, अन्तःशाला#}.
+CONCLAVE¦, {%s.%} (Assembly of cardinals) {#रोमनगरे धर्म्माधिपतिसभा#}. — 
+(Secret assembly) {#गूढसभा, गूढसमाजः#}. — (Private apartment)
+{#अवरोधनं, कक्षान्तरं, अन्तःशाला#}.
 <LEND>

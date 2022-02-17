@@ -1,7 +1,7 @@
 <L>13247<pc>408<k1>latitude<k2>latitude
-<div n="lb"/>{@LATITUDE:@}¦ <div n="I">I Geo.: {#अक्षांशः,#} Su. com.; {#अक्ष-#}
-<div n="lb"/>{#भागः,#} Gan. Ph.: <div n="xe">{%place of no. l.:%}</div> <div n="xs">{#निरक्षदेशः;#}</div> <div n="xe">{%they%}
-<div n="lb"/>{%have no l.:%}</div> <div n="xs">{#तासु नाक्षस्योन्नतिरष्यते,#}</div> Su. xii. 42.;
-<div n="lb"/><div n="xe">{%celestial l:%}</div> <div n="xs">{#विक्षेपः,#}</div> Su. </div><div n="I">II Breadth: q. v. </div><div n="I">III
-<div n="lb"/>Laxity, freedom: {#गुरुलाघवम्#} (??).</div>
+{@LATITUDE:@}¦ <div n="I">I Geo.: {#अक्षांशः,#} Su. com.; {#अक्ष-#}
+{#भागः,#} Gan. Ph.: <div n="xe">{%place of no. l.:%}</div> <div n="xs">{#निरक्षदेशः;#}</div> <div n="xe">{%they%}
+{%have no l.:%}</div> <div n="xs">{#तासु नाक्षस्योन्नतिरष्यते,#}</div> Su. xii. 42.;
+<div n="xe">{%celestial l:%}</div> <div n="xs">{#विक्षेपः,#}</div> Su. </div><div n="I">II Breadth: q. v. </div><div n="I">III
+Laxity, freedom: {#गुरुलाघवम्#} (??).</div>
 <LEND>

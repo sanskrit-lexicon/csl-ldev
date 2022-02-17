@@ -1,7 +1,7 @@
 <L>202<pc>009<k1>acquainted with<k2>acquainted with
-<div n="lb"/>{@ACQUAINTED WITH:@}¦ {#अभिञ्जः#} ({#ञ्जा, ञ्जं#}) (with gen.),
-<div n="lb"/><div n="xe">{%I am not a. with such affairs%}</div> <div n="xs">{#एवं विधानां वृत्तान्ताना-#}
-<div n="lb"/>{#मनमिञ्जास्मि;#}</div> <ls>K.</ls> : Ph. <div n="xe">{%we are not a. with love%}
-<div n="lb"/>{%affairs%}</div> <div n="xs">{#अनभ्यन्तरा खलु वयं मदनगतस्य वृत्तान्तस्य,#}</div>
-<div n="lb"/>Sa. iii.
+{@ACQUAINTED WITH:@}¦ {#अभिञ्जः#} ({#ञ्जा, ञ्जं#}) (with gen.),
+<div n="xe">{%I am not a. with such affairs%}</div> <div n="xs">{#एवं विधानां वृत्तान्ताना-#}
+{#मनमिञ्जास्मि;#}</div> <ls>K.</ls> : Ph. <div n="xe">{%we are not a. with love%}
+{%affairs%}</div> <div n="xs">{#अनभ्यन्तरा खलु वयं मदनगतस्य वृत्तान्तस्य,#}</div>
+Sa. iii.
 <LEND>

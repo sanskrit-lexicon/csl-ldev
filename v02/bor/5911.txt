@@ -1,5 +1,5 @@
 <L>5911<pc>190<k1>descant<k2>descant
-<div n="lb"/>{@DESCANT@}¦ (subs.) <div n="I">I To songs: q. v.: {#गीतम्।#}</div>
-<div n="lb"/><div n="I">II A discourse: </div><div n="1">(1) {#वाग्जालम्,#} Si. ii. 27.;</div>
-<div n="lb"/><div n="1">(2) {#वागाडम्बरः,#} M. n.</div>
+{@DESCANT@}¦ (subs.) <div n="I">I To songs: q. v.: {#गीतम्।#}</div>
+<div n="I">II A discourse: </div><div n="1">(1) {#वाग्जालम्,#} Si. ii. 27.;</div>
+<div n="1">(2) {#वागाडम्बरः,#} M. n.</div>
 <LEND>

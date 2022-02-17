@@ -1,4 +1,4 @@
 <L>4096<pc>133<k1>comfortable<k2>comfortable
-<div n="lb"/>{@COMFORTABLE:@}¦ <div n="xe">{%are you c. here:%}</div> <div n="xs">{#अप्यत्र भवत्याः #}
-<div n="lb"/>{# सुखम्?#}</div> V. p.: v. Pleasant.
+{@COMFORTABLE:@}¦ <div n="xe">{%are you c. here:%}</div> <div n="xs">{#अप्यत्र भवत्याः #}
+{# सुखम्?#}</div> V. p.: v. Pleasant.
 <LEND>

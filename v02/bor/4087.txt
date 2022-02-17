@@ -1,5 +1,5 @@
 <L>4087<pc>132<k1>comedian<k2>comedian
-<div n="lb"/>{@COMEDIAN:@}¦ <div n="I">I An actor: q. v.: {#नटः।#} </div><div n="I">II A
-<div n="lb"/>writer: {#*हर्षप्रधाननाटकलेखकः,#} <div n="xe">{%or%}</div> <div n="xs">{#रचयितृ#}</div> (m.) {%or%}
-<div n="lb"/>-{#कृत,#}</div>
+{@COMEDIAN:@}¦ <div n="I">I An actor: q. v.: {#नटः।#} </div><div n="I">II A
+writer: {#*हर्षप्रधाननाटकलेखकः,#} <div n="xe">{%or%}</div> <div n="xs">{#रचयितृ#}</div> (m.) {%or%}
+-{#कृत,#}</div>
 <LEND>

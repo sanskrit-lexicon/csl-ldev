@@ -1,9 +1,9 @@
 <L>1363<pc>048<k1>audience<k2>audience
-<div n="lb"/>{@AUDIENCE:@}¦ <div n="I">I A hearing: Ph. <div n="xe">{%to give a.%}</div> <div n="xs">{#कर्णं #}
-<div n="lb"/>{# ददाति#}</div> ({#दा,#} c. 3); <div n="xe">{%to gain a.%}</div> <div n="xs">{#श्रोतारं लभते#}</div> ({#लभ्,#}
-<div n="lb"/>c. 1). </div><div n="I">II Admittance to a hearing: {#दर्शनम्,#}
-<div n="lb"/><div n="xe">{%to give a.%}</div> <div n="xs">{#दर्शनं ददाति,#}</div> R.; <div n="xe">{%to get an a. to the%}
-<div n="lb"/>{%king%}</div> <div n="xs">{#राजदर्शनार्थम्।#}</div> </div><div n="I">III A body of hearers:</div>
-<div n="lb"/><div n="1">(1) {#श्रोतारः#} (m. pl.); </div><div n="1">(2) {#श्रोतृवर्गः;#} </div><div n="1">(3) {#प्रेक्षकाः#}
-<div n="lb"/>(m. pl.) (=spectators).</div>
+{@AUDIENCE:@}¦ <div n="I">I A hearing: Ph. <div n="xe">{%to give a.%}</div> <div n="xs">{#कर्णं #}
+{# ददाति#}</div> ({#दा,#} c. 3); <div n="xe">{%to gain a.%}</div> <div n="xs">{#श्रोतारं लभते#}</div> ({#लभ्,#}
+c. 1). </div><div n="I">II Admittance to a hearing: {#दर्शनम्,#}
+<div n="xe">{%to give a.%}</div> <div n="xs">{#दर्शनं ददाति,#}</div> R.; <div n="xe">{%to get an a. to the%}
+{%king%}</div> <div n="xs">{#राजदर्शनार्थम्।#}</div> </div><div n="I">III A body of hearers:</div>
+<div n="1">(1) {#श्रोतारः#} (m. pl.); </div><div n="1">(2) {#श्रोतृवर्गः;#} </div><div n="1">(3) {#प्रेक्षकाः#}
+(m. pl.) (=spectators).</div>
 <LEND>

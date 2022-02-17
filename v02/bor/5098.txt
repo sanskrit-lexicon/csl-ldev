@@ -1,11 +1,11 @@
 <L>5098<pc>164<k1>critical<k2>critical
-<div n="lb"/>{@CRITICAL:@}¦ <div n="I">I Relating to criticism: expr.
-<div n="lb"/>by comp., <div n="xe">{%c. dissertation:%}</div> <div n="xs">{#गुणदोषविचारप्रबन्ध।:#}</div> </div><div n="I">II
-<div n="lb"/>Possessing skill to criticize: {#गुणदोपविचारकुशलः#}
-<div n="lb"/>({#ला, लं#}), and sim. comp. s (?). {%C. power:%}
-<div n="lb"/>{#गुणदोषविचारशक्तिः#} (?). </div><div n="I">III Captious, fastidious:
-<div n="lb"/>q. v. </div><div n="I">IV Belonging to a crisis: Ph: <div n="xe">{%c.%}
-<div n="lb"/>{%position:%}</div> <div n="xs">{#सङ्कटम्;#}</div> <div n="xe">{%whose intellect does not fail in c.%}
-<div n="lb"/>{%circumstances:%}</div> <div n="xs">{#कार्यसङ्कटेष्वविषण्णधीः,#}</div> K.; <div n="xe">{%c. philoso-%}
-<div n="lb"/>{%phy:%}</div> <div n="xs">{#*कण्ठदर्शनम्।#}</div></div>
+{@CRITICAL:@}¦ <div n="I">I Relating to criticism: expr.
+by comp., <div n="xe">{%c. dissertation:%}</div> <div n="xs">{#गुणदोषविचारप्रबन्ध।:#}</div> </div><div n="I">II
+Possessing skill to criticize: {#गुणदोपविचारकुशलः#}
+({#ला, लं#}), and sim. comp. s (?). {%C. power:%}
+{#गुणदोषविचारशक्तिः#} (?). </div><div n="I">III Captious, fastidious:
+q. v. </div><div n="I">IV Belonging to a crisis: Ph: <div n="xe">{%c.%}
+{%position:%}</div> <div n="xs">{#सङ्कटम्;#}</div> <div n="xe">{%whose intellect does not fail in c.%}
+{%circumstances:%}</div> <div n="xs">{#कार्यसङ्कटेष्वविषण्णधीः,#}</div> K.; <div n="xe">{%c. philoso-%}
+{%phy:%}</div> <div n="xs">{#*कण्ठदर्शनम्।#}</div></div>
 <LEND>

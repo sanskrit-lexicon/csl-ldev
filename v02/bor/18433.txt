@@ -1,8 +1,8 @@
 <L>18433<pc>566<k1>quiet<k2>quiet
-<div n="lb"/>{@QUIET@}¦ (v.): {#शमयति, प्र-, उप-, सं-, परि-,#} (c. of
-<div n="lb"/>{#शम्#}), <div n="xe">{%you q. disputes:%}</div> <div n="xs">{#प्रशमयसि विवादम्,#}</div> Sa. v.
-<div n="lb"/>7.; <div n="xe">{%with a show of q. ed rage:%}</div> <div n="xs">{#प्रशान्तसंरम्भ इव,#}</div>
-<div n="lb"/>Ki. xiv. 2.; <div n="1">(2) {#शा(सा)न्त्वयति, परि-, उप-, #}
-<div n="lb"/>{# अभि-,#} ({#शान्त्व्#} <div n="xe">{%or%}</div> <div n="xs">{#सान्त्व्,#}</div> c. 10.), <div n="xe">{%q. ing with%}
-<div n="lb"/>{%sweet words:%}</div> <div n="xs">{#सान्त्वयन् मधुरैर्वाक्यैः,#}</div> Ram.</div>
+{@QUIET@}¦ (v.): {#शमयति, प्र-, उप-, सं-, परि-,#} (c. of
+{#शम्#}), <div n="xe">{%you q. disputes:%}</div> <div n="xs">{#प्रशमयसि विवादम्,#}</div> Sa. v.
+7.; <div n="xe">{%with a show of q. ed rage:%}</div> <div n="xs">{#प्रशान्तसंरम्भ इव,#}</div>
+Ki. xiv. 2.; <div n="1">(2) {#शा(सा)न्त्वयति, परि-, उप-, #}
+{# अभि-,#} ({#शान्त्व्#} <div n="xe">{%or%}</div> <div n="xs">{#सान्त्व्,#}</div> c. 10.), <div n="xe">{%q. ing with%}
+{%sweet words:%}</div> <div n="xs">{#सान्त्वयन् मधुरैर्वाक्यैः,#}</div> Ram.</div>
 <LEND>

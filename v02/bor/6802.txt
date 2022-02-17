@@ -1,4 +1,4 @@
 <L>6802<pc>217<k1>dorsal<k2>dorsal
-<div n="lb"/>{@DORSAL:@}¦ <div n="1">(1) {#पृष्ठ-#} in comp., <div n="xe">{%d. bone:%}</div> <div n="xs">{#पृष्ठवंशः;#}</div> </div><div n="1">(2)
-<div n="lb"/>{#पृष्ठ्यः#} ({#ष्ठ्या, ष्ठ्यं#}).</div>
+{@DORSAL:@}¦ <div n="1">(1) {#पृष्ठ-#} in comp., <div n="xe">{%d. bone:%}</div> <div n="xs">{#पृष्ठवंशः;#}</div> </div><div n="1">(2)
+{#पृष्ठ्यः#} ({#ष्ठ्या, ष्ठ्यं#}).</div>
 <LEND>

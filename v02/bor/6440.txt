@@ -1,4 +1,4 @@
 <L>6440<pc>206<k1>disjunctive<k2>disjunctive
-<div n="lb"/>{@DISJUNCTIVE:@}¦ Ph.: <div n="xe">{%d. conjunction:%}</div> <div n="xs">{#*विकल्पसूचक-#}
-<div n="lb"/>{#मव्ययम्;#}</div> <div n="xe">{%d. proposition:%}</div> <div n="xs">{#विकल्पः,#}</div> Sr.
+{@DISJUNCTIVE:@}¦ Ph.: <div n="xe">{%d. conjunction:%}</div> <div n="xs">{#*विकल्पसूचक-#}
+{#मव्ययम्;#}</div> <div n="xe">{%d. proposition:%}</div> <div n="xs">{#विकल्पः,#}</div> Sr.
 <LEND>

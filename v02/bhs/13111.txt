@@ -1,44 +1,44 @@
 <L>13111<pc>466,1<k1>व<k2>व
 {@va (1)@}¦ (= Pali id.; see also {@vā@}), MIndic for Skt. iva,
-<div n="lb">most commonly in vss, {%as, like%}; often written ca in mss.
-<div n="lb">of Mv, and em. by Senart; among the cases where mss.
-<div n="lb">read va (sometimes with v.l. ca) are: dharmaṃ imaṃ
-<div n="lb">pāṇitala va (v.l. ca) darśaye Mv i.297.14 (vs); others,
-<div n="lb">iii.5.5 (vs); 14.13 (vs); 78.11 (vs); 110.11 (vs, v.l. ca);
-<div n="lb">119.12 (vs, v.l. ca); 123.19 (vs, v.l. ca); 290.12 (prose);
-<div n="lb">384.19 (vs); padumaṃ va vāriṇā SP 313.3 (vs, no v.l.);
-<div n="lb">gagane va pakṣī Gv 473.15 (vs); others after final -e or
-<div n="lb">o, SP 26.7; 127.9; 128.13; LV 49.21; 173.6; 188.14; Mv
-<div n="lb">i.75.6; ii.115.4; Samādh 19.26; Bhad 20; abhramukto va
-<div n="lb">Ud xvi.5, 7, oldest ms., changed in later mss. to °mukta
-<div n="lb">iva (unmetr.) or °muktaiva; after -ā, Mv i.203.2 = ii.6.19;
-<div n="lb">after -ā for -ās, drumā va SP 131.4; after -a for -am, kāṣṭha
-<div n="lb">va LV 322.8; bhadraṃ va Ud xix.12, oldest ms., later
-<div n="lb">v.l. bhadram iva (unmetr.); naḍāgāram iva kuñjaraḥ Divy
-<div n="lb">68.20 = 138.27 (vs), so text, but meter requires °raṃ
-<div n="lb">va (or °reva?); a few cases where va is Senart's em., but
-<div n="lb">quite certainly right, are: Mv ii.241.8 (vs; mss. vā or yā;
-<div n="lb">meter requires va; for iva); in the rest Mv mss. ca, em.
-<div n="lb">Senart va: Mv ii.38.12 (vs); āmapātraṃ va ambunā 240.11
-<div n="lb">(vs; same line, āmapātram ivāmbunā LV 263.1); 250.2;
-<div n="lb">iii.110.10; 123.20; there are many other cases where Senart
-<div n="lb">reads va for mss. ca, not all certain; ({@2@}) (see also {@vā@})
-<div n="lb">perhaps for Skt. eva, as in Pali, but the cases noted are
-<div n="lb">few, and most could be em. to ca (the reverse of ca for
-<div n="lb">va = iva, just mentioned): kālaṃ (mss. kāla; metr. in-
-<div n="lb">different) va nātināmenti Mv i.192.14 (vs); (tam rājyenā-
-<div n="lb">bhiṣiñcatha,) so va rājā bhaviṣyati Mv ii.436.14 (prose),
-<div n="lb">possibly {%he and no other%} (but prob., with ca, {%and he%}) {%will%}
-<div n="lb">{%become king%}; (amṛtaṃ) mayā bhikṣavaḥ sākṣātkṛto(!)
-<div n="lb">'mṛtagāmī va (v.l. ya; Weller 38 ‘Schreibfehler für ca’,
-<div n="lb">prob. rightly) mārgaḥ LV 409.8 (prose); darśenti dharma-
-<div n="lb">caryāṃ (meter requires cariyāṃ) va sudharmaniṣṭhāṃ
-<div n="lb">Gv 477.6 (vs: printed vasudhar°, which is impossible;
-<div n="lb">va = eva could be assumed); kukṣigatā va Mv i.144.13
-<div n="lb">(prose), here clearly = eva, {%still in their mothers' wombs%};
-<div n="lb">viśiṣṭarūpaṃ v' iha SP 90.11 (vs), all mss., could be for
-<div n="lb">eva; both edd. em. c’ iha; in 91.12 (vs) WT em. va, with
-<div n="lb">Tib. ñid, for mss. ca (plausibly); ({@3@}) va m.c. for vā (as
-<div n="lb">in Pali), {%or%}: mañjughoṣu yatha yādṛśo va ham Gv 489.10
-<div n="lb">(vs), {%like Mañjughoṣa, or such as I%} (Maitreya) {%am%}.
+most commonly in vss, {%as, like%}; often written ca in mss.
+of Mv, and em. by Senart; among the cases where mss.
+read va (sometimes with v.l. ca) are: dharmaṃ imaṃ
+pāṇitala va (v.l. ca) darśaye Mv i.297.14 (vs); others,
+iii.5.5 (vs); 14.13 (vs); 78.11 (vs); 110.11 (vs, v.l. ca);
+119.12 (vs, v.l. ca); 123.19 (vs, v.l. ca); 290.12 (prose);
+384.19 (vs); padumaṃ va vāriṇā SP 313.3 (vs, no v.l.);
+gagane va pakṣī Gv 473.15 (vs); others after final -e or
+o, SP 26.7; 127.9; 128.13; LV 49.21; 173.6; 188.14; Mv
+i.75.6; ii.115.4; Samādh 19.26; Bhad 20; abhramukto va
+Ud xvi.5, 7, oldest ms., changed in later mss. to °mukta
+iva (unmetr.) or °muktaiva; after -ā, Mv i.203.2 = ii.6.19;
+after -ā for -ās, drumā va SP 131.4; after -a for -am, kāṣṭha
+va LV 322.8; bhadraṃ va Ud xix.12, oldest ms., later
+v.l. bhadram iva (unmetr.); naḍāgāram iva kuñjaraḥ Divy
+68.20 = 138.27 (vs), so text, but meter requires °raṃ
+va (or °reva?); a few cases where va is Senart's em., but
+quite certainly right, are: Mv ii.241.8 (vs; mss. vā or yā;
+meter requires va; for iva); in the rest Mv mss. ca, em.
+Senart va: Mv ii.38.12 (vs); āmapātraṃ va ambunā 240.11
+(vs; same line, āmapātram ivāmbunā LV 263.1); 250.2;
+iii.110.10; 123.20; there are many other cases where Senart
+reads va for mss. ca, not all certain; ({@2@}) (see also {@vā@})
+perhaps for Skt. eva, as in Pali, but the cases noted are
+few, and most could be em. to ca (the reverse of ca for
+va = iva, just mentioned): kālaṃ (mss. kāla; metr. in-
+different) va nātināmenti Mv i.192.14 (vs); (tam rājyenā-
+bhiṣiñcatha,) so va rājā bhaviṣyati Mv ii.436.14 (prose),
+possibly {%he and no other%} (but prob., with ca, {%and he%}) {%will%}
+{%become king%}; (amṛtaṃ) mayā bhikṣavaḥ sākṣātkṛto(!)
+'mṛtagāmī va (v.l. ya; Weller 38 ‘Schreibfehler für ca’,
+prob. rightly) mārgaḥ LV 409.8 (prose); darśenti dharma-
+caryāṃ (meter requires cariyāṃ) va sudharmaniṣṭhāṃ
+Gv 477.6 (vs: printed vasudhar°, which is impossible;
+va = eva could be assumed); kukṣigatā va Mv i.144.13
+(prose), here clearly = eva, {%still in their mothers' wombs%};
+viśiṣṭarūpaṃ v' iha SP 90.11 (vs), all mss., could be for
+eva; both edd. em. c’ iha; in 91.12 (vs) WT em. va, with
+Tib. ñid, for mss. ca (plausibly); ({@3@}) va m.c. for vā (as
+in Pali), {%or%}: mañjughoṣu yatha yādṛśo va ham Gv 489.10
+(vs), {%like Mañjughoṣa, or such as I%} (Maitreya) {%am%}.
 <LEND>

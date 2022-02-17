@@ -1,8 +1,8 @@
 <L>11938<pc>372<k1>increase<k2>increase
-<div n="lb"/>{@INCREASE@}¦ (subs.): <div n="1">(1) {#वृद्धिः,#} (rarely) {#वि-, सं-,#}
-<div n="lb"/><div n="xe">{%causing the i. of wealth:%}</div> <div n="xs">{#धनवृद्धिकरः#}</div> ({#री, रं#}), [Page373]
-<div n="lb"/>K. b.; {%i. and decrease%} ({%of days%}): {#हानिवृद्धि-,#} Su.
-<div n="lb"/>xii. 56.; {%the i.%} (i.e. {%interest%}) <div n="xe">{%allowed by%}
-<div n="lb"/>{%Vasistha:%}</div> <div n="xs">{#वसिष्ठविहिता वृद्धिः,#}</div> M. viii. 140.; </div><div n="1">(2)
-<div n="lb"/>{#वर्धनम्, सम्-, वि-,#} (= the act of i. ing).</div>
+{@INCREASE@}¦ (subs.): <div n="1">(1) {#वृद्धिः,#} (rarely) {#वि-, सं-,#}
+<div n="xe">{%causing the i. of wealth:%}</div> <div n="xs">{#धनवृद्धिकरः#}</div> ({#री, रं#}), [Page373]
+K. b.; {%i. and decrease%} ({%of days%}): {#हानिवृद्धि-,#} Su.
+xii. 56.; {%the i.%} (i.e. {%interest%}) <div n="xe">{%allowed by%}
+{%Vasistha:%}</div> <div n="xs">{#वसिष्ठविहिता वृद्धिः,#}</div> M. viii. 140.; </div><div n="1">(2)
+{#वर्धनम्, सम्-, वि-,#} (= the act of i. ing).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>4151<pc>089-b<k1>character<k2>character
-<div n="lb"/>CHARACTER¦, {%s.%} (Disposition) {#शीलः -लं, शीलत्वं -ता, स्वभावः, वृत्तिः#}
-<div n="lb"/>{%f.,%} {#स्वरूपं, स्वाभिप्रायः, चारित्रं#}. — (Property, peculiarity) {#भावः,#}
-<div n="lb"/>{#गुणः, विशेषः#}. — (Natural character) {#स्वभावः, निसर्गः, प्रकृतिः#} {%f.%}
-<div n="lb"/> — (Mark) {#लक्षणं, चिह्नं, अभिज्ञानं#}. — (Letter) {#अक्षरं, वर्णः -र्णं#}. — 
-<div n="lb"/>(Handwriting) {#स्वहस्ताक्षरं#}. — (Personage in a drama) {#भूमिका#}.
-<div n="lb"/> — (Reputation, honour) {#मर्य्यादा, कीर्त्तिः#} {%f.,%} {#यशः#} {%n.%} ({#स्#}). — 
-<div n="lb"/>(Dignity) {#गौरवं#}
+CHARACTER¦, {%s.%} (Disposition) {#शीलः -लं, शीलत्वं -ता, स्वभावः, वृत्तिः#}
+{%f.,%} {#स्वरूपं, स्वाभिप्रायः, चारित्रं#}. — (Property, peculiarity) {#भावः,#}
+{#गुणः, विशेषः#}. — (Natural character) {#स्वभावः, निसर्गः, प्रकृतिः#} {%f.%}
+ — (Mark) {#लक्षणं, चिह्नं, अभिज्ञानं#}. — (Letter) {#अक्षरं, वर्णः -र्णं#}. — 
+(Handwriting) {#स्वहस्ताक्षरं#}. — (Personage in a drama) {#भूमिका#}.
+ — (Reputation, honour) {#मर्य्यादा, कीर्त्तिः#} {%f.,%} {#यशः#} {%n.%} ({#स्#}). — 
+(Dignity) {#गौरवं#}
 <LEND>

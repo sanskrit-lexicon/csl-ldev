@@ -1,41 +1,41 @@
 <L>1147<pc>040<k1>as<k2>as
-<div n="lb"/>{@AS:@}¦ <div n="I">I As a particle of comparison: </div><div n="1">(1)
-<div n="lb"/>{#वत्#} affixed, ({%he who looks on%}) {%other's wives as%}
-<div n="lb"/><div n="xe">{%mothers, on other's things as clods%}</div> <div n="xs">{#मातृवत् परदारेषु #}
-<div n="lb"/>{# परद्रव्येषु लोष्ट्रवत्,#}</div> <ls>H.</ls> i.; <div n="xe">{%as before%}</div> <div n="xs">{#पूर्ववत्;#}</div> </div><div n="1">(2) {#यथा#}
-<div n="lb"/>(either in comp. to expr. {%sim. comparison,%}
-<div n="lb"/>{%or%} with {#तथा#} <div n="xe">{%or%}</div> <div n="xs">{#एवं#}</div> to expr. {%as......so......%}
-<div n="lb"/>also to introduce illustrations): {%as ordered%}
-<div n="lb"/>{#यथानिदेशं;#} <div n="xe">{%as prescribed%}</div> <div n="xs">{#यथाविधि;#}</div> {%as before%}
-<div n="lb"/>{#यथापुरा,#} Sa. vi.; <div n="xe">{%as eating is inferred from%}
-<div n="lb"/>{%nourishment or country from its language, so is%}
-<div n="lb"/>{%knowable inferred from knowledge,%}</div> <div n="xs">{#यथा पुष्टया #}
-<div n="lb"/>{# भोजनमनुमीयते यथा च भाषया देशः तथा ज्ञानाकारेण #}
-<div n="lb"/>{# ज्ञेयमनुमेयम्।#}</div> <ls>D.</ls> s. (see also R. iii. 23 and
-<div n="lb"/>notice the repetition of {#यथा#} in such cases);
-<div n="lb"/><div n="xe">{%as animals attempt to fly away when they see%}
-<div n="lb"/>{%men with sticks, so....%}</div> <div n="xs">{#यथा पश्वादयः दण्डोद्यतकरं #}
-<div n="lb"/>{# पुरूषमभिमुखमुपलभ्य पलायितुमारभन्ते एवं॥#}</div> <ls>S.</ls> i. p.;
-<div n="lb"/><div n="xe">{%as for instance, fire is inferred from smoke%}</div> <div n="xs">{#यथा #}
-<div n="lb"/>{# धूमेनाग्निरिति,#}</div> N. d. {%As for instance:%} sometimes
-<div n="lb"/>expr. by {#तथाहिः#} <div n="xe">{%he, as a rule, enjoyed the pleasures%}
-<div n="lb"/>{%of youth as for instance, sometimes roamed over%}
-<div n="lb"/>{%artificial mountains, sometimes walked through%}
-<div n="lb"/>{%summer houses%}</div> <div n="xs">{#स प्रायशो यौवनसुखमनुबभूव, तथाहि #}
-<div n="lb"/>{# कदाचित् क्रीडापर्वतेषु विचचार कदाचिल्लतागृहेषु बभ्राम,#}</div>
-<div n="lb"/><ls>K.</ls> </div><div n="I">II. While: expr. by the pres. part:
-<div n="lb"/><div n="xe">{%as he went, he thought%}</div> <div n="xs">{#व्रजंश्च समर्थयामास,#}</div> <ls>K.</ls></div>
-<div n="lb"/><div n="I">III. Since, in as much as: q. v.: </div><div n="1">(1) by the
-<div n="lb"/>abl. and when the subs. ends in {#ता#} <div n="xe">{%or%}</div> <div n="xs">{#आ#}</div> by
-<div n="lb"/>the ins.: {%as the motion of the vessels%} ({%at sea%})
-<div n="lb"/><div n="xe">{%depends on wind%}</div> <div n="xs">{#वाताधीनपोतगमनत्वात्,#}</div> K. b.;
-<div n="lb"/><div n="xe">{%as there was much political work%}</div> <div n="xs">{#राजकार्यस्य #}
-<div n="lb"/>{# बहुलतया#}</div> Sa. vi.; </div><div n="1">(2) {#यतः॥।ततः॥#} Miscell:
-<div n="lb"/><div n="xe">{%as long as one lives%}</div> <div n="xs">{#यावज्जीवं;#}</div> {%as far as the ocean%}
-<div n="lb"/>{#आ समुद्रात्;#} <div n="xe">{%as high as the knee%}</div> <div n="xs">{#जानुदघ्नः#}</div> ({#घ्ना, घ्नं#});
-<div n="lb"/><div n="xe">{%as yet%}</div> <div n="xs">{#अद्यापि।#}</div> N. B. {%as,%} when it connects two
-<div n="lb"/>subs. s in apposition is expr. by {#भूत्वा#} <div n="xe">{%or%}</div> <div n="xs">{#कृत्वा:#}</div>
-<div n="lb"/><div n="xe">{%I will remain as your queen%}</div> <div n="xs">{#तव महिषी भूत्वा तिष्ठामि;#}</div>
-<div n="lb"/><div n="xe">{%sent me to you as his agent%}</div> <div n="xs">{#मां प्रतिनिधिं कृत्वा #}
-<div n="lb"/>{# त्वत्सकाशं प्रेरयामास।#}</div></div>
+{@AS:@}¦ <div n="I">I As a particle of comparison: </div><div n="1">(1)
+{#वत्#} affixed, ({%he who looks on%}) {%other's wives as%}
+<div n="xe">{%mothers, on other's things as clods%}</div> <div n="xs">{#मातृवत् परदारेषु #}
+{# परद्रव्येषु लोष्ट्रवत्,#}</div> <ls>H.</ls> i.; <div n="xe">{%as before%}</div> <div n="xs">{#पूर्ववत्;#}</div> </div><div n="1">(2) {#यथा#}
+(either in comp. to expr. {%sim. comparison,%}
+{%or%} with {#तथा#} <div n="xe">{%or%}</div> <div n="xs">{#एवं#}</div> to expr. {%as......so......%}
+also to introduce illustrations): {%as ordered%}
+{#यथानिदेशं;#} <div n="xe">{%as prescribed%}</div> <div n="xs">{#यथाविधि;#}</div> {%as before%}
+{#यथापुरा,#} Sa. vi.; <div n="xe">{%as eating is inferred from%}
+{%nourishment or country from its language, so is%}
+{%knowable inferred from knowledge,%}</div> <div n="xs">{#यथा पुष्टया #}
+{# भोजनमनुमीयते यथा च भाषया देशः तथा ज्ञानाकारेण #}
+{# ज्ञेयमनुमेयम्।#}</div> <ls>D.</ls> s. (see also R. iii. 23 and
+notice the repetition of {#यथा#} in such cases);
+<div n="xe">{%as animals attempt to fly away when they see%}
+{%men with sticks, so....%}</div> <div n="xs">{#यथा पश्वादयः दण्डोद्यतकरं #}
+{# पुरूषमभिमुखमुपलभ्य पलायितुमारभन्ते एवं॥#}</div> <ls>S.</ls> i. p.;
+<div n="xe">{%as for instance, fire is inferred from smoke%}</div> <div n="xs">{#यथा #}
+{# धूमेनाग्निरिति,#}</div> N. d. {%As for instance:%} sometimes
+expr. by {#तथाहिः#} <div n="xe">{%he, as a rule, enjoyed the pleasures%}
+{%of youth as for instance, sometimes roamed over%}
+{%artificial mountains, sometimes walked through%}
+{%summer houses%}</div> <div n="xs">{#स प्रायशो यौवनसुखमनुबभूव, तथाहि #}
+{# कदाचित् क्रीडापर्वतेषु विचचार कदाचिल्लतागृहेषु बभ्राम,#}</div>
+<ls>K.</ls> </div><div n="I">II. While: expr. by the pres. part:
+<div n="xe">{%as he went, he thought%}</div> <div n="xs">{#व्रजंश्च समर्थयामास,#}</div> <ls>K.</ls></div>
+<div n="I">III. Since, in as much as: q. v.: </div><div n="1">(1) by the
+abl. and when the subs. ends in {#ता#} <div n="xe">{%or%}</div> <div n="xs">{#आ#}</div> by
+the ins.: {%as the motion of the vessels%} ({%at sea%})
+<div n="xe">{%depends on wind%}</div> <div n="xs">{#वाताधीनपोतगमनत्वात्,#}</div> K. b.;
+<div n="xe">{%as there was much political work%}</div> <div n="xs">{#राजकार्यस्य #}
+{# बहुलतया#}</div> Sa. vi.; </div><div n="1">(2) {#यतः॥।ततः॥#} Miscell:
+<div n="xe">{%as long as one lives%}</div> <div n="xs">{#यावज्जीवं;#}</div> {%as far as the ocean%}
+{#आ समुद्रात्;#} <div n="xe">{%as high as the knee%}</div> <div n="xs">{#जानुदघ्नः#}</div> ({#घ्ना, घ्नं#});
+<div n="xe">{%as yet%}</div> <div n="xs">{#अद्यापि।#}</div> N. B. {%as,%} when it connects two
+subs. s in apposition is expr. by {#भूत्वा#} <div n="xe">{%or%}</div> <div n="xs">{#कृत्वा:#}</div>
+<div n="xe">{%I will remain as your queen%}</div> <div n="xs">{#तव महिषी भूत्वा तिष्ठामि;#}</div>
+<div n="xe">{%sent me to you as his agent%}</div> <div n="xs">{#मां प्रतिनिधिं कृत्वा #}
+{# त्वत्सकाशं प्रेरयामास।#}</div></div>
 <LEND>

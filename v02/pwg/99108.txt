@@ -4,10 +4,10 @@
 <ls>H. 957.</ls> 
 <ls>LIA. 1, 613. fgg.</ls> 
 <ls>GOP. BR. 2, 9.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 92 (50).</ls> <ls>WEBER, Nakṣ. 2, 392.</ls> <ls>P. 4, 1, 173.</ls> <is>gaṇa</is> {#भर्गादि#} 
-zu <ls>178.</ls> <ls>MBH. 2, 590. 3, 16664. 16904. 4, 12. 6, 346</ls> (<ls>VP. 185</ls>). <ls>8, 2106.</ls> <ls>HARIV. 784.</ls> <ls>R. 4, 43, 23.</ls> <ls>VARĀH. BṚH. S. 5, 76. 14, 2. 16, 21. 17, 13. 18.</ls> <ls>VP. 2, 3, 17.</ls> {#°नीपाः#} 
+zu <ls>178.</ls> <ls>MBH. 2, 590.</ls> <ls n="MBH.">3, 16664.</ls> <ls n="MBH. 3,">16904.</ls> <ls n="MBH.">4, 12.</ls> <ls n="MBH.">6, 346</ls> (<ls>VP. 185</ls>). <ls>8, 2106.</ls> <ls>HARIV. 784.</ls> <ls>R. 4, 43, 23.</ls> <ls>VARĀH. BṚH. S. 5, 76. 14, 2. 16, 21. 17, 13. 18.</ls> <ls>VP. 2, 3, 17.</ls> {#°नीपाः#} 
 <ls>MĀRK. P. 58, 6.</ls> {#शाल्मवेश्मकाः#} (wohl {#शाल्व°#}) 
 <ls>35.</ls> {#°राज (°राजन्)#} 
-<ls>MBH. 1, 4108. 3, 667. fg. 5, 5974. 6007. 6089. 6093. 7017. 12, 8607. 13, 6267.</ls> 
+<ls>MBH. 1, 4108.</ls> <ls n="MBH.">3, 667. fg.</ls> <ls n="MBH.">5, 5974.</ls> <ls n="MBH. 5,">6007.</ls> <ls n="MBH. 5,">6089.</ls> <ls n="MBH. 5,">6093.</ls> <ls n="MBH. 5,">7017.</ls> <ls n="MBH.">12, 8607.</ls> <ls n="MBH.">13, 6267.</ls> 
 <ls>HARIV. 4969.</ls> {#°पति#} 
 <ls>MBH. 5, 7016.</ls> {#°नगर#} 
 <ls>HARIV. 15759.</ls> 
@@ -15,8 +15,8 @@ zu <ls>178.</ls> <ls>MBH. 2, 590. 3, 16664. 16904. 4, 12. 6, 346</ls> (<ls>VP. 1
 <ls>P. 4, 2, 135.</ls> <is>gaṇa</is> {#कच्छादि#} 
 zu <ls>133.</ls> <is>gaṇa</is> {#सिन्ध्वादि#} 
 zu <ls>3, 93.</ls> <lex>m.</lex> {%ein Fürst der%} <is>Śālva</is> 
-<ls>MBH. 1, 2653. 4113. 4714</ls> ({#त्रयः#}). 
-<ls>3, 491. 669. 5, 6076. 6078. 6087.</ls> <ls>HARIV. 2360. 5080. 5501. 5927. 9138. 9795.</ls> <ls>BHĀG. P. 2, 7, 34.</ls>
+<ls>MBH. 1, 2653.</ls> <ls n="MBH. 1,">4113.</ls> <ls n="MBH. 1,">4714</ls> ({#त्रयः#}). 
+<ls>3, 491. 669. 5, 6076. 6078. 6087.</ls> <ls>HARIV. 2360.</ls> <ls n="HARIV.">5080.</ls> <ls n="HARIV.">5501.</ls> <ls n="HARIV.">5927.</ls> <ls n="HARIV.">9138.</ls> <ls n="HARIV.">9795.</ls> <ls>BHĀG. P. 2, 7, 34.</ls>
 [Page7-0163]
 unter den Feinden <is>Viṣṇu's</is> 
 <ls>H. 220.</ls> {#शाल्वारि#} <lex>m.</lex> <is>Śālva's</is> {%Feind%} als N. <is>Viṣṇu's</is> 

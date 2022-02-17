@@ -1,6 +1,6 @@
 <L>19851<pc>617<k1>scene<k2>scene
-<div n="lb"/>{@SCENE:@}¦ <div n="I">I Stage: q. v.: {#रङ्गः, -भूमिः।#} </div><div n="I">II Part
-<div n="lb"/>of a play: {#अंकांशः,#} Sa. v.; {#परिच्छेदः#} (?). </div><div n="I">III
-<div n="lb"/>A sight, spectacle: {#दृश्यम्:#} v. Also s. ry.</div>
-<div n="lb"/><div n="I">IV Place: q. v.: {#भूमिः।#}</div>
+{@SCENE:@}¦ <div n="I">I Stage: q. v.: {#रङ्गः, -भूमिः।#} </div><div n="I">II Part
+of a play: {#अंकांशः,#} Sa. v.; {#परिच्छेदः#} (?). </div><div n="I">III
+A sight, spectacle: {#दृश्यम्:#} v. Also s. ry.</div>
+<div n="I">IV Place: q. v.: {#भूमिः।#}</div>
 <LEND>

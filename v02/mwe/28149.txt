@@ -1,16 +1,16 @@
 <L>28149<pc>772-a<k1>state<k2>state
-<div n="lb"/>STATE¦, {%s.%} (Condition) {#अवस्था, दशा, स्थितिः#} {%f.,%} {#वृत्तिः#} {%f.,%} {#भावः, गतिः#} {%f.,%}
-<div n="lb"/>{#ता#} or {#त्वं#} affixed, {%see%} CONDITION; ‘former state,’ {#पूर्व्वस्थितिः#} {%f.;%}
-<div n="lb"/>‘good state,’ {#सुस्थितिः#} {%f.;%} ‘bad state,’ {#दुःस्थितिः#} {%f.,%} {#दुर्दशा;#}
-<div n="lb"/>‘natural state,’ {#स्वभावः;#} ‘state of mind,’ {#चित्तवृत्तिः#} {%f.;%} ‘the
-<div n="lb"/>two states of life, viz. happiness and misery,’ {#अवस्थाद्वयं;#}
-<div n="lb"/>‘the four states, viz. childhood, youth, manhood, and old
-<div n="lb"/>age,’ {#अवस्थाचतुष्टयं#}. — (Grandeur, pomp) {#ऐश्वर्य्यं, प्रतापः, श्रीः#} {%f.,%}
-<div n="lb"/>{#ऐश्वर्य्यप्रतापः, राज्यप्रतापः,#} {%see%} POMP, MAJESTY. — (Ruling power,
-<div n="lb"/>government) {#परमाधिकारः, राज्याधिकारः, राज्यं, राज#} in comp.,
-<div n="lb"/>{%see%} GOVERNMENT; ‘state affairs,’ {#राजकार्य्यं;#} ‘state elephant,’
-<div n="lb"/>{#राजहस्ती#} {%m.,%} {#राजेभः;#} ‘state maxim or rule,’ {#राजधर्म्मः;#} ‘state
-<div n="lb"/>secret,’ {#राजगुह्यं;#} ‘eight offices of state,’ {#अष्टाधिकाराः#} {%m. pl.%}
-<div n="lb"/> — (Whole body of people united under one government)
-<div n="lb"/>{#राज्यं, राष्ट्रं, प्रजागणः, प्रजासमूहः#}.
+STATE¦, {%s.%} (Condition) {#अवस्था, दशा, स्थितिः#} {%f.,%} {#वृत्तिः#} {%f.,%} {#भावः, गतिः#} {%f.,%}
+{#ता#} or {#त्वं#} affixed, {%see%} CONDITION; ‘former state,’ {#पूर्व्वस्थितिः#} {%f.;%}
+‘good state,’ {#सुस्थितिः#} {%f.;%} ‘bad state,’ {#दुःस्थितिः#} {%f.,%} {#दुर्दशा;#}
+‘natural state,’ {#स्वभावः;#} ‘state of mind,’ {#चित्तवृत्तिः#} {%f.;%} ‘the
+two states of life, viz. happiness and misery,’ {#अवस्थाद्वयं;#}
+‘the four states, viz. childhood, youth, manhood, and old
+age,’ {#अवस्थाचतुष्टयं#}. — (Grandeur, pomp) {#ऐश्वर्य्यं, प्रतापः, श्रीः#} {%f.,%}
+{#ऐश्वर्य्यप्रतापः, राज्यप्रतापः,#} {%see%} POMP, MAJESTY. — (Ruling power,
+government) {#परमाधिकारः, राज्याधिकारः, राज्यं, राज#} in comp.,
+{%see%} GOVERNMENT; ‘state affairs,’ {#राजकार्य्यं;#} ‘state elephant,’
+{#राजहस्ती#} {%m.,%} {#राजेभः;#} ‘state maxim or rule,’ {#राजधर्म्मः;#} ‘state
+secret,’ {#राजगुह्यं;#} ‘eight offices of state,’ {#अष्टाधिकाराः#} {%m. pl.%}
+ — (Whole body of people united under one government)
+{#राज्यं, राष्ट्रं, प्रजागणः, प्रजासमूहः#}.
 <LEND>

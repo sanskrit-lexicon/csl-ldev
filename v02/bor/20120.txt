@@ -1,8 +1,8 @@
 <L>20120<pc>626<k1>sell<k2>sell
-<div n="lb"/>{@SELL@}¦ (v. t.): <div n="1">(1) {#विक्रीणीते#} ({#क्री,#} c. 9.), <div n="xe">{%s. ing it%}
-<div n="lb"/>{%to others:%}</div> <div n="xs">{#विक्रीणानस्तदन्यत्र,#}</div> N. s.; {%Oh.,%} ({%you%})
-<div n="lb"/><div n="xe">{%attempted to s. us like meat:%}</div> <div n="xs">{#प्रारब्धा मांसवदहो #}
-<div n="lb"/>{# विक्रेतुमेते वयम्,#}</div> Mu. v. 21.; </div><div n="1">(2) {#विक्रयं करोति:#}
-<div n="lb"/><div n="xe">{%I will very mercilessly s. you:%}</div> <div n="xs">{#करोम्येष विक्रयं ते #}
-<div n="lb"/>{# सुनिर्घृणः,#}</div> D. b. vii. 22-1.</div>
+{@SELL@}¦ (v. t.): <div n="1">(1) {#विक्रीणीते#} ({#क्री,#} c. 9.), <div n="xe">{%s. ing it%}
+{%to others:%}</div> <div n="xs">{#विक्रीणानस्तदन्यत्र,#}</div> N. s.; {%Oh.,%} ({%you%})
+<div n="xe">{%attempted to s. us like meat:%}</div> <div n="xs">{#प्रारब्धा मांसवदहो #}
+{# विक्रेतुमेते वयम्,#}</div> Mu. v. 21.; </div><div n="1">(2) {#विक्रयं करोति:#}
+<div n="xe">{%I will very mercilessly s. you:%}</div> <div n="xs">{#करोम्येष विक्रयं ते #}
+{# सुनिर्घृणः,#}</div> D. b. vii. 22-1.</div>
 <LEND>

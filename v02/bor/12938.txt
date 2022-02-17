@@ -1,5 +1,5 @@
 <L>12938<pc>399<k1>juncture<k2>juncture
-<div n="lb"/>{@JUNCTURE:@}¦ <div n="I">I In gen.: {#सन्धिः,#} <div n="xe">{%in the j. of the%}
-<div n="lb"/>{%Tretā and Dwāpara:%}</div> <div n="xs">{#त्रेताद्वापरयोः सन्धौ,#}</div> Mah.</div>
-<div n="lb"/><div n="I">II Of time: {#क्षणम्:#} v. Time, opportunity.</div>
+{@JUNCTURE:@}¦ <div n="I">I In gen.: {#सन्धिः,#} <div n="xe">{%in the j. of the%}
+{%Tretā and Dwāpara:%}</div> <div n="xs">{#त्रेताद्वापरयोः सन्धौ,#}</div> Mah.</div>
+<div n="I">II Of time: {#क्षणम्:#} v. Time, opportunity.</div>
 <LEND>

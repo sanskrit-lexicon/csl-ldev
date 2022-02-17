@@ -1,4 +1,4 @@
 <L>3062<pc>103<k1>caravan<k2>caravan
-<div n="lb"/>{@CARAVAN:@}¦ {#सङ्घः,#} <div n="xe">{%c. of pilgrims%}</div> <div n="xs">{#यात्रिकसङ्घः;#}</div> <div n="xe">{%c. of%}
-<div n="lb"/>{%merchants%}</div> <div n="xs">{#वणिग्गणः,#}</div> Mal.
+{@CARAVAN:@}¦ {#सङ्घः,#} <div n="xe">{%c. of pilgrims%}</div> <div n="xs">{#यात्रिकसङ्घः;#}</div> <div n="xe">{%c. of%}
+{%merchants%}</div> <div n="xs">{#वणिग्गणः,#}</div> Mal.
 <LEND>

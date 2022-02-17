@@ -1,7 +1,7 @@
 <L>14594<pc>447<k1>mild<k2>mild
-<div n="lb"/>{@MILD:@}¦ {#मृदु#} (f. {#द्वी#}), <div n="xe">{%was neither harsh nor very%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#न खरो न च भूयसा मृदुः।#}</div> R. viii. 9.: <div n="xe">{%m.%}
-<div n="lb"/>{%things:%}</div> <div n="xs">{#मृदु वस्तु;#}</div> <div n="xe">{%m. air:%}</div> <div n="xs">{#मृदुपवनः,#}</div> <ls>V.</ls> ;
-<div n="lb"/><div n="xe">{%m. speech:%}</div> <div n="xs">{#मृद्वी वाक्,#}</div> N. iii. 60.; {%m. action:%}
-<div n="lb"/>{#मृदुक्रिया,#} Sr.: v. Also soft, gentle.
+{@MILD:@}¦ {#मृदु#} (f. {#द्वी#}), <div n="xe">{%was neither harsh nor very%}
+{%m.:%}</div> <div n="xs">{#न खरो न च भूयसा मृदुः।#}</div> R. viii. 9.: <div n="xe">{%m.%}
+{%things:%}</div> <div n="xs">{#मृदु वस्तु;#}</div> <div n="xe">{%m. air:%}</div> <div n="xs">{#मृदुपवनः,#}</div> <ls>V.</ls> ;
+<div n="xe">{%m. speech:%}</div> <div n="xs">{#मृद्वी वाक्,#}</div> N. iii. 60.; {%m. action:%}
+{#मृदुक्रिया,#} Sr.: v. Also soft, gentle.
 <LEND>

@@ -1,6 +1,6 @@
 <L>6158<pc>198<k1>digit<k2>digit
-<div n="lb"/>{@DIGIT:@}¦ <div n="I">I A measure: {#अङ्गुलम्,#} <div n="xe">{%measuring three%}
-<div n="lb"/>{%d. s:%}</div> <div n="xs">{#त्रङ्गुलः#}</div> ({#ला, लं#}), Pa. </div><div n="I">II Any number
-<div n="lb"/>under ten: {#*आदिसंख्या,#} Ph.: {%an eclipse of%}
-<div n="lb"/>{%six d. s%} (d=½): {#अर्द्धग्रासः,#} Su.</div>
+{@DIGIT:@}¦ <div n="I">I A measure: {#अङ्गुलम्,#} <div n="xe">{%measuring three%}
+{%d. s:%}</div> <div n="xs">{#त्रङ्गुलः#}</div> ({#ला, लं#}), Pa. </div><div n="I">II Any number
+under ten: {#*आदिसंख्या,#} Ph.: {%an eclipse of%}
+{%six d. s%} (d=½): {#अर्द्धग्रासः,#} Su.</div>
 <LEND>

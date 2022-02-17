@@ -1,5 +1,5 @@
 <L>9426<pc>299<k1>friction<k2>friction
-<div n="lb"/>{@FRICTION:@}¦ <div n="1">(1) {#घर्षणम्;#} </div><div n="1">(2) {#घर्षः, नि-, सं-, उत्-,#} <div n="xe">{%fire%}
-<div n="lb"/>{%rising from the f. of the roots of branches:%}</div> <div n="xs">{#शाखान्त-#}
-<div n="lb"/>{#निघर्षजोऽनलः,#}</div> Ki.</div>
+{@FRICTION:@}¦ <div n="1">(1) {#घर्षणम्;#} </div><div n="1">(2) {#घर्षः, नि-, सं-, उत्-,#} <div n="xe">{%fire%}
+{%rising from the f. of the roots of branches:%}</div> <div n="xs">{#शाखान्त-#}
+{#निघर्षजोऽनलः,#}</div> Ki.</div>
 <LEND>

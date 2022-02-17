@@ -1,5 +1,5 @@
 <L>18711<pc>576<k1>recital<k2>recital
-<div n="lb"/>{@RECITAL, RECITATION:@}¦ <div n="I">I Reading: </div><div n="1">(1) {#पाठः, #}
-<div n="lb"/>{# प्र-;#} </div><div n="1">(2) {#वाचनम्, निर्-#} (as of letters). </div><div n="I">II
-<div n="lb"/>Narration, description: q. v.: {#वर्णना।#}</div>
+{@RECITAL, RECITATION:@}¦ <div n="I">I Reading: </div><div n="1">(1) {#पाठः, #}
+{# प्र-;#} </div><div n="1">(2) {#वाचनम्, निर्-#} (as of letters). </div><div n="I">II
+Narration, description: q. v.: {#वर्णना।#}</div>
 <LEND>

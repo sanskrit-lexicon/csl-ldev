@@ -1,11 +1,11 @@
 <L>4133<pc>134<k1>commission<k2>commission
-<div n="lb"/>{@COMMISSION@}¦ (subs.): <div n="I">I Perpetration: q. v.:
-<div n="lb"/>Ph.: <div n="xe">{%c. of sin:%}</div> <div n="xs">{#पापाचरणम्,#}</div> K. b.; <div n="xe">{%was caught in%}
-<div n="lb"/>{%the c. of theft:%}</div> <div n="xs">{#चौर्यं कुर्वन् गृहीतः।#}</div> </div><div n="I">II Entrusting:
-<div n="lb"/>{#अर्पणम्, सम्-।#} </div><div n="I">III The business entrusted:
-<div n="lb"/>{#नियोगः,#} <div n="xe">{%attend to your c.:%}</div> <div n="xs">{#स्वं नियोगमशून्यं कुरु,#}</div> Sa.</div>
-<div n="lb"/><div n="I">IV A number of persons joined in an
-<div n="lb"/>office or trust: {#*परीक्षकाः#} (m. pl.). V. Allow-
-<div n="lb"/>-ance for transacting business: no equiv.:
-<div n="lb"/>expr. by circum. </div><div n="I">VI In the army: {#पदम्#} (?).</div>
+{@COMMISSION@}¦ (subs.): <div n="I">I Perpetration: q. v.:
+Ph.: <div n="xe">{%c. of sin:%}</div> <div n="xs">{#पापाचरणम्,#}</div> K. b.; <div n="xe">{%was caught in%}
+{%the c. of theft:%}</div> <div n="xs">{#चौर्यं कुर्वन् गृहीतः।#}</div> </div><div n="I">II Entrusting:
+{#अर्पणम्, सम्-।#} </div><div n="I">III The business entrusted:
+{#नियोगः,#} <div n="xe">{%attend to your c.:%}</div> <div n="xs">{#स्वं नियोगमशून्यं कुरु,#}</div> Sa.</div>
+<div n="I">IV A number of persons joined in an
+office or trust: {#*परीक्षकाः#} (m. pl.). V. Allow-
+-ance for transacting business: no equiv.:
+expr. by circum. </div><div n="I">VI In the army: {#पदम्#} (?).</div>
 <LEND>

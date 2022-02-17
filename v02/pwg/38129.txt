@@ -10,14 +10,14 @@
 <ls>SĀY.</ls> = {#महासर्प#}; es könnte aber auch ein {%Elephant%} gemeint sein) 
 <ls>ŚAT. BR. 11, 2, 7, 12.</ls> 
 <ls>MBH. 8, 2593.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 25, 30.</ls> 
-<ls>VET.</ls> in <ls>LA. 16, 17.</ls> In der Myth. {%Schlangen mit einem menschlichen Angesicht%}, die unter der Erde in der Stadt <is>Bhogavatī</is> wohnen und gewöhnlich als Kinder der <is>Kadrū</is> (auch <is>Surasā</is>) bezeichnet werden; sie werden häufig von den {#सर्प#} unterschieden. 
+
+<ls>R. GORR. 2, 25, 30.</ls> 
+<ls>VET. in LA. 16, 17.</ls> In der Myth. {%Schlangen mit einem menschlichen Angesicht%}, die unter der Erde in der Stadt <is>Bhogavatī</is> wohnen und gewöhnlich als Kinder der <is>Kadrū</is> (auch <is>Surasā</is>) bezeichnet werden; sie werden häufig von den {#सर्प#} unterschieden. 
 <ls>AK. 1, 2, 1, 4.</ls> 
 <ls>H. 1307.</ls> 
 <ls>ĀŚV. GṚHY. 3, 4.</ls> 
 <ls>M. 1, 37.</ls> 
-<ls>MBH. 1, 1076. 1551. fgg. 3, 2617.</ls> {#अनन्तश्चास्मि नागानाम्#} 
+<ls>MBH. 1, 1076.</ls> <ls n="MBH. 1,">1551. fgg.</ls> <ls n="MBH.">3, 2617.</ls> {#अनन्तश्चास्मि नागानाम्#} 
 <ls>BHAG. 10, 29.</ls> 
 <ls>SUND. 2, 8.</ls> 
 <ls>N. 14, 4.</ls> {#ते (पाण्डवाः) तया (कृष्णया) तैश्च सा वीरैः पतिभिः सह पञ्चभिः । बभूव परमप्रीता नागैरिव सरस्वती ॥#} 
@@ -32,11 +32,11 @@
 <ls>VP. 370.</ls> 
 <ls>BHĀG. P. 1, 11, 12. 6, 6, 22.</ls> 
 <ls>BURN. Intr. 313,</ls> 
-<ls>N. 1. 317. 423.</ls> <ls>Lot. de la b. l. 3.</ls> <ls>LALIT. 11 u.s.w.</ls> {#त्रिशीर्षा इव नागपोताः#} 
+<ls>N. 1. 317. 423.</ls> <ls>Lot. de la b. l. 3.</ls> <ls>LALIT. 11</ls> u.s.w. {#त्रिशीर्षा इव नागपोताः#} 
 <ls>HARIV. 12744.</ls> {#नागीभूत#} 
 <ls>RĀJA-TAR. 1, 268.</ls> Nach 
 <ls>VP. 149</ls> N. pr. eines <is>Nāga</is>, aber wohl auch hier nur N. appell., welches mit {#एलापत्त्र#} oder {#कर्कोट#} zu verbinden ist. Das <lex>f.</lex> {#नागी/#} 
-<ls>?(P. 4, 1, 42, Sch. VOP. 4, 26) MBH. 1, 8239.</ls> 
+(<ls>P. 4, 1, 42</ls>, Sch. <ls>VOP. 4, 26</ls>) <ls>MBH. 1, 8239.</ls> 
 <div n="2">— b) {%Elephant%} 
 <ls>AK. 2, 8, 2, 2. 3, 4, 3, 22.</ls> 
 <ls>TRIK.</ls> 
@@ -45,8 +45,8 @@
 <ls>MED.</ls> {#प्लुषि, मशक, नाग (= हस्तिन्#} nach den Erklärern) 
 <ls>ŚAT. BR. 14, 4, 1, 24.</ls> Cit. in <ls>AIT. BR. 8, 22.</ls> <ls>R. 1, 6, 22. 3, 76, 31. 5, 3, 19.</ls> <ls>BHARTṚ. 3, 73.</ls> <ls>ŚĀK. 37.</ls> <ls>MEGH. 37.</ls> <ls>VARĀH. BṚH. S. 35, 5. 66, 3.</ls> <ls>BHĀG. P. 4, 15, 12.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>MBH. 3, 12589.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 106, 29.</ls> {#नागी/#} (
+
+<ls>R. GORR. 2, 106, 29.</ls> {#नागी/#} (
 <ls>P. 4, 1, 42,</ls> 
 <ls>Sch.</ls> 
 <ls>VOP. 4, 26</ls>) {%Elephantenweibchen%} 
@@ -76,7 +76,7 @@ zu
 <div n="2">— h) = {#नागदन्तक#} {%Pflock%} diess. 
 <div n="2">— i) {%ein best. Wind des Körpers, der das Erbrechen hervorruft%}, 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VEDĀNTAS. (Allah.) No. 55.</ls> Schliesst sich nach 
-<ls>BALLANTYNE</ls> <ls>?an Bed 1. an.</ls> 
+<ls>BALLANTYNE</ls> <ls>an Bed 1. an.</ls> 
 <div n="2">— k) bildliche Bez. {%der Zahl sieben%} 
 <ls>SŪRYAS. 2, 20. 24. 8, 5. 12, 89. 90.</ls> Geht wohl auf {%7 mythische Schlangen%} zurück. 
 <ls>TRIK. 1, 2, 6</ls> werden aber 8 {%Schlangenfürsten%} aufgeführt. 
@@ -87,11 +87,11 @@ zu
 <ls>HARIV. 11537.</ls> eines buddhistischen Lehrers 
 <ls>WASSILJEW 30. fgg. 59. 77. 225. fg.</ls> eines Königs von <is>Āryāvarta</is>, Zeitgenossen des <is>Samudragupta</is>, 
 <ls>LIA. II, 952.</ls> N. einer Dynastie (aus 9 oder 7 Fürsten bestehend) 
-<ls>VP.</ls> <ls>?479; vgl. N. 70.</ls> N. pr. verschiedener Männer 
-<ls>RĀJA-TAR. 7, 101. 768. 1024. 8, 2960 u.s.w.</ls> 
+<ls>VP. 479</ls>; vgl. N. 70. N. pr. verschiedener Männer 
+<ls>RĀJA-TAR. 7, 101. 768. 1024. 8, 2960</ls> u.s.w. 
 <div n="2">— n) N. pr. eines Berges 
-<ls>VP. 169. 180,</ls> 
-<ls>N. 3.</ls> 
+<ls>VP. 169. 180, N. 3.</ls> 
+
 <ls>BHĀG. P. 5, 16, 27.</ls> einer Gegend 
 <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> 
 <div n="1">— 2) <lex>n.</lex> 
@@ -101,7 +101,7 @@ zu
 <ls>H. 1041.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> {%Zinn%} 
-<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED. -</ls> <ls>Verz. d. B. H. No. 969. 971.</ls> Nach 
+<ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> - <ls>Verz. d. B. H. No. 969. 971.</ls> Nach 
 <ls>ŚKDR.</ls> masc. in medicinischen Werken. 
 <div n="2">— b) N. {%des dritten festen%} <is>Karaṇa</is> (s. u. 2. {#करण#} 3, {%m%}) 
 <ls>H. an.</ls> (wo {#करणान्तरे#} st. {#कणान्तरे#} zu lesen ist) und 

@@ -1,4 +1,4 @@
 <L>12013<pc>374<k1>indictment<k2>indictment
-<div n="lb"/>{@INDICTMENT:@}¦ {#समभियोगः#} (?), <div n="xe">{%bill of i.:%}</div> <div n="xs">{#*सममियोग-#}
-<div n="lb"/>{#पत्रम्।#}</div>
+{@INDICTMENT:@}¦ {#समभियोगः#} (?), <div n="xe">{%bill of i.:%}</div> <div n="xs">{#*सममियोग-#}
+{#पत्रम्।#}</div>
 <LEND>

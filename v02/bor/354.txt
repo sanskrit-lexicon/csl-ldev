@@ -1,4 +1,4 @@
 <L>354<pc>014<k1>adverse<k2>adverse
-<div n="lb"/>{@ADVERSE:@}¦ <div n="1">(1) {#प्रतिकूलः#} ({#ला, लं#}); </div><div n="1">(2) {#विपक्षः#}
-<div n="lb"/>({#क्षा, क्षं#}): v. Inimical, hostile.</div>
+{@ADVERSE:@}¦ <div n="1">(1) {#प्रतिकूलः#} ({#ला, लं#}); </div><div n="1">(2) {#विपक्षः#}
+({#क्षा, क्षं#}): v. Inimical, hostile.</div>
 <LEND>

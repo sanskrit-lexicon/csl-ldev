@@ -4,7 +4,7 @@ u.s.w.) <ls>UṆĀDIS. 2, 84.</ls>
 <div n="1"> 1) <lex>adj.</lex> {#महान्, महान्तम्, महता, महान्तौ, महान्तस्, महतस्#} (acc. pl.) 
 <ls>P. 6, 4, 10.</ls> 
 <ls>VOP. 3, 87. 148.</ls> st. die acc. masc. {#महान्तम्#} im Epos aus metrischen Rücksichten nicht selten die neutrale Form {#महत्#}, z. B. {#महदध्वानम्#} 
-<ls>MBH. 3, 2786. 11025. 16021.</ls> {#सुमहदध्वानम्#} 
+<ls>MBH. 3, 2786.</ls> <ls n="MBH. 3,">11025.</ls> <ls n="MBH. 3,">16021.</ls> {#सुमहदध्वानम्#} 
 <ls>16236.</ls> {#महद्धर्मम्#} 
 <ls>13, 3213.</ls> {#विजयं चात्मनो महत्#} 
 <ls>7, 5650.</ls> {#कृत्वा वंशमिमं महत्#} 
@@ -13,7 +13,7 @@ u.s.w.) <ls>UṆĀDIS. 2, 84.</ls>
 <ls>34, 14.</ls> {#ग्रन्थम्#} 
 <ls>MUIR, ST. 4, 417.</ls> <lex>f.</lex> {#महती/#} <is>gaṇa</is> {#गौरादि#} zu 
 <ls>P. 4, 1, 41.</ls> Nur als substantivirtes Adjectiv erscheint {#महन्त्#} am Anfange eines Compositum; in attributivem und adverbialem Verhältniss (vor Adjectiven) wird {#महा#} gebraucht; die wenigen Ausnahmen (wie {#महत्क्षेत्र, महदावास, महद्भय)#} haben wir besonders aufgeführt. {%Gross, magnus%} (im Raume, in der Zeit, der Zahl, der Menge, dem Grade nach); auch so v. a. {%erwachsen%}; = {#बृहन्त्, पृथु#} 
-u.s.w. <ls>AK. 3, 2, 10. 3, 4, 25, 194.</ls> <ls>H. 1430.</ls> <ls>an. 2, 185.</ls> <ls>MED. t. 141.</ls> <ls>HALĀY. 4, 14.</ls> {#नमो^ म\हद्ध्यो\ नमो^ अर्भ\केभ्य^ः#} 
+u.s.w. <ls>AK. 3, 2, 10. 3, 4, 25, 194.</ls> <ls>H. 1430. an. 2, 185.</ls> <ls>MED. t. 141.</ls> <ls>HALĀY. 4, 14.</ls> {#नमो^ म\हद्ध्यो\ नमो^ अर्भ\केभ्य^ः#} 
 <ls>ṚV. 1, 27, 13.</ls> <ls n="ṚV. 1,">102, 10.</ls> {#शत्रू^न\भि ष्या^म मह\तो मन्य^मानान्#} 
 <ls n="ṚV. 1,">178, 5.</ls> <ls n="ṚV.">7, 98, 4.</ls> {#म\हान्म\हीभि^रू\तिभि^ः सर\ण्यन्#} 
 <ls n="ṚV.">3, 1, 19.</ls> {#म\हाँ अ^सि महिष\ वृष्ण्ये^भिः#} 
@@ -38,7 +38,7 @@ u.s.w. <ls>AK. 3, 2, 10. 3, 4, 25, 194.</ls> <ls>H. 1430.</ls> <ls>an. 2, 185.</
 <ls>AIT. BR. 4, 30.</ls> 
 <ls>ŚAT. BR. 14, 6, 11, 1.</ls> 
 <ls>ĀŚV. GṚHY. 3, 7, 10.</ls> 
-<ls>MBH. 3, 2786. 11025. 16021.</ls> {#कालेन महता#} 
+<ls>MBH. 3, 2786.</ls> <ls n="MBH. 3,">11025.</ls> <ls n="MBH. 3,">16021.</ls> {#कालेन महता#} 
 <ls>BHAG. 4, 2.</ls> 
 <ls>MBH. 5, 5424.</ls> 
 <ls>R. 1, 39, 18. 60, 10.</ls> {#आयुस्#} {%langes Leben%} 
@@ -56,7 +56,7 @@ u.s.w. <ls>AK. 3, 2, 10. 3, 4, 25, 194.</ls> <ls>H. 1430.</ls> <ls>an. 2, 185.</
 <ls>6, 101, 2.</ls> {#जनस्तु सुमहांस्तत्र बालवृद्धः समागतः#} 
 <ls>33.</ls> {#अन्ववाय#} 
 <ls>HARIV. 1078.</ls> {#पायसानि#} {%viel, reichlich%} 
-<ls>16111.</ls> {#भोजन#} 
+<ls n="HARIV.">16111.</ls> {#भोजन#} 
 <ls>PAÑCAT. 21, 12.</ls> {#फल#} {%grosser Lohn%} 
 <ls>ŚĀK. 151.</ls> 
 <ls>MBH. 13, 3227.</ls> {#पुण्यपण्य#} {%hoher Preis%} 
@@ -71,19 +71,19 @@ u.s.w. <ls>AK. 3, 2, 10. 3, 4, 25, 194.</ls> <ls>H. 1430.</ls> <ls>an. 2, 185.</
 <ls>ĀŚV. GṚHY. 3, 9, 6.</ls> 
 <ls>TBR. 3, 7, 10, 1.</ls> 
 <ls>KĀTY. ŚR. 2, 1, 18. 19.</ls> 
-<ls>MAITRYUP. 5, 32.</ls> <ls>ARJ. 3, 20.</ls> <ls>MBH. 1, 1290. 6, 3014. fg. 13, 3220. 3227.</ls> <ls>HARIV. 8153.</ls> {#भूतानि महान्ति#} (vgl. {#महाभूत)#} {%die%} (fünf) {%groben Elemente%} 
+<ls>MAITRYUP. 5, 32.</ls> <ls>ARJ. 3, 20.</ls> <ls>MBH. 1, 1290.</ls> <ls n="MBH.">6, 3014. fg.</ls> <ls n="MBH.">13, 3220.</ls> <ls n="MBH. 13,">3227.</ls> <ls>HARIV. 8153.</ls> {#भूतानि महान्ति#} (vgl. {#महाभूत)#} {%die%} (fünf) {%groben Elemente%} 
 <ls>M. 1, 18.</ls> 
-<ls>MBH. 12, 8521. 13, 2231.</ls> 
+<ls>MBH. 12, 8521.</ls> <ls n="MBH.">13, 2231.</ls> 
 <ls>BHĀG. P. 3, 26, 24.</ls> {#तमस्#} {%dichte Finsterniss%} 
 <ls>MBH. 5, 1551.</ls> {#अन्तर#} {%ein grosser Unterschied%} 
 <ls>Spr. 2771.</ls> {#तेजस्#} 
 <ls>ŚĀK. 174.</ls> {#उद्द्योत#} 
-<ls>VET.</ls> in <ls>LA. (II) 2, 9.</ls> {#यज्ञ#} 
+<ls>VET. in LA. (II) 2, 9.</ls> {#यज्ञ#} 
 <ls>Spr. 2135.</ls> {#विघ्न#} 
 <ls>R. 1, 61, 2.</ls> {#ब्रह्मबल#} 
 <ls>56, 4.</ls> {#प्रिय#} {%ein grosser Gefallen%} 
 <ls>4, 44, 128.</ls> <ls>VIKR. 11, 18.</ls> {#महदुपकृतं तपसा#} {%Grosses%} 
-<ls>UTTARARĀMAC. 31, 1 v. u.</ls> {#द्यूतमेतत्पुराकल्पे दृष्टं वैरकरं महत्#} 
+<ls>UTTARARĀMAC. 31, 1</ls> v. u. {#द्यूतमेतत्पुराकल्पे दृष्टं वैरकरं महत्#} 
 <ls>M. 9, 227.</ls> {#बुद्धि, अभ्युदय#} 
 <ls>R. 2, 40, 26.</ls> {#पिपासा#} 
 <ls>Spr. 1694.</ls> 
@@ -104,7 +104,7 @@ u.s.w. <ls>AK. 3, 2, 10. 3, 4, 25, 194.</ls> <ls>H. 1430.</ls> <ls>an. 2, 185.</
 <ls>R. 1, 56, 24. 62, 28.</ls> {#प्रायश्चित्त#} 
 <ls>61, 8.</ls> {#अपनय#} 
 <ls>MBH. 7, 5667.</ls> {#अपराध#} 
-<ls>VET.</ls> in <ls>LA. (II) 11, 16.</ls> {#पातक#} 
+<ls>VET. in LA. (II) 11, 16.</ls> {#पातक#} 
 <ls>Spr. 3323. 4640.</ls> {#किल्विष#} 
 <ls>M. 3, 98.</ls> {#पाप#} 
 <ls>DAŚ. 2, 2.</ls> {#एनस्#} 
@@ -138,7 +138,7 @@ u.s.w. <ls>AK. 3, 2, 10. 3, 4, 25, 194.</ls> <ls>H. 1430.</ls> <ls>an. 2, 185.</
 <ls>Spr. 4554.</ls> {#आत्मन्#} {%die grosse Seele%} so v. a. {%der Intellect%} 
 <ls>M. 1, 15.</ls> {#इन्द्रियाः, अर्थाः, मनः, बुद्धिः, आत्मा महान्#} 
 <ls>KAṬHOP. 3, 10.</ls> subst. {%ein grosser —, ein hochstehender Mann%} (Gegens. {#नीच, अल्प)#} 
-<ls>ŚĀK. 101, 5.</ls> <ls>?ad ŚĀK. 78. Spr. 11. 245. 689. 908. 1477. 2131. fg. 2136. fgg. 2142. 2153. fg. 3007. 4700.</ls> {#मानो हि महतां धनम्#} 
+<ls>ŚĀK. 101, 5.</ls> ad <ls>ŚĀK. 78.</ls> <ls>Spr. 11. 245. 689. 908. 1477. 2131. fg. 2136. fgg. 2142. 2153. fg. 3007. 4700.</ls> {#मानो हि महतां धनम्#} 
 <ls>VṚDDHA-CĀṆ. 8, 1.</ls> <ls>KĀM. NĪTIS. 3, 14.</ls> <ls>VID. 58.</ls> <ls>PAÑCAT. 23, 22</ls> (Gegens. {#दीन)#} . 
 <ls>Verz. d. Oxf. H. 123,a,19.</ls> {#महान्त्यष्टौ#} {%die acht grossen Dinge, die acht Grössen%} (bei
 [Page5-0614]
@@ -150,10 +150,10 @@ einem Menschen)
 <ls>GĀRUḌA-P. 141</ls> im <ls>ŚKDR.</ls> {#महती पञ्चमूली#} (
 <ls>SUŚR. 1, 168, 4</ls>) s. u. {#पञ्चमूल#} . Ein Scholiast zu 
 <ls>BHAṬṬ. 1, 4</ls> führt die Wörter auf, mit denen {#महन्त्#} angeblich nicht verbunden werde: {#शङ्खे तैले तथा मांसे वैद्ये ज्यौतिषिके द्विजे । यात्रायां पथि निद्रायां महच्छब्दो न दीयते ॥#} Compar. {#महत्तर#} s. bes.; superl. {#महत्तम#} {%überaus gross%}: {#गुप्ताः (साध्व्यः) स्वसत्त्वविभवेन महत्तमेन#} 
-<ls>KATHĀS. 29,</ls> <ls>?196; vgl. 36, 7.</ls> {%ein überaus grosser, hochstehender Mann%} 
+<ls>KATHĀS. 29, 196</ls>; vgl. <ls>36, 7.</ls> {%ein überaus grosser, hochstehender Mann%} 
 <ls>BHĀG. P. 1, 18, 18. fg.</ls> 
 <div n="1">— 2) <lex>m.</lex> (sc. {#आत्मन्)#}, selten <lex>n.</lex> (sc. {#तत्त्व#}) {%der Intellect%} 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>MAITRYUP.6,10.</ls> <ls>M. 12,14. 24. 50.</ls> <ls>MBH.2,1393. 12,6777. 11231. 14,1097. 1204.</ls> <ls>SŪRYAS. 12,17</ls> <ls>?(nach dem Schol.). KAP.1,61. 71. SĀṂKHYAK. 3. 8. 22. 40. 56. TATTVAS. 8. NĪLAK. 13. Ind. St.1,23,17. WEBER, RĀMAT. UP. 335. 342. MUIR, ST.4,35. fgg. BHĀG. P.3,2,15. 26,21. Verz. d. Oxf. H. 14,a,1. 82,b,13. 225,a, No. 549.</ls> Vgl. {#महत्तत्त्व#} . 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>MAITRYUP. 6,10.</ls> <ls>M. 12,14. 24. 50.</ls> <ls>MBH. 2, 1393.</ls> <ls n="MBH.">12, 6777.</ls> <ls n="MBH. 12,">11231.</ls> <ls n="MBH.">14, 1097.</ls> <ls n="MBH. 14,">1204.</ls> <ls>SŪRYAS. 12,17</ls> (nach dem Schol.). <ls>KAP. 1,61. 71.</ls> <ls>SĀṂKHYAK. 3. 8. 22. 40. 56.</ls> <ls>TATTVAS. 8.</ls> <ls>NĪLAK. 13.</ls> <ls>Ind. St.1,23,17.</ls> <ls>WEBER, RĀMAT. UP. 335. 342.</ls> <ls>MUIR, ST.4,35. fgg.</ls> <ls>BHĀG. P.3,2,15. 26,21.</ls> <ls>Verz. d. Oxf. H. 14,a,1. 82,b,13. 225,a, No. 549.</ls> Vgl. {#महत्तत्त्व#} . 
 <div n="1">— 3) <lex>m.</lex> 
 <div n="2"> a) {%Vorsteher eines Klosters%} 
 <ls>WILSON, Sel. Works 1, 50. fgg. 57. 59. 75. 96. fg. 101. fg. 151. 157. 159. 201. 214.</ls> Vgl. {#महन्त#} . 
@@ -166,7 +166,7 @@ einem Menschen)
 <ls>MĀRK. P. 96, 46.</ls> 
 <div n="2">— e) N. pr. eines <is>Dānava</is> 
 <ls>HARIV. 14288.</ls> eines Fürsten 
-<ls>1078.</ls> 
+<ls n="HARIV.">1078.</ls> 
 <div n="1">— 4) <lex>f.</lex> {#महती#} 
 <div n="2"> a) {%Eierpflanze%} (vgl. {#बृहती)#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
@@ -189,7 +189,7 @@ einem Menschen)
 <ls>TS. 7, 5, 5, 1.</ls> 
 <ls>PAÑCAV. BR. 9, 4, 1.</ls> 
 <div n="2">— c) {%der Intellect%} s. u. 2. 
-<div n="2">— d) {%die heilige Weisheit%} (=  {#ब्रह्मन्#} <lex>n.</lex> Schol.): {#तपसा विन्दते महत् (श्रोत्रियः)#} 
-<ls>MBH. 3, 17333. 17332.</ls> 
+<div n="2">— d) {%die heilige Weisheit%} (= {#ब्रह्मन्#} <lex>n.</lex> Schol.): {#तपसा विन्दते महत् (श्रोत्रियः)#} 
+<ls>MBH. 3, 17333.</ls> <ls n="MBH. 3,">17332.</ls> 
 <div n="v">— Vgl. {#वि°, सु°, माहत#} .
 <LEND>

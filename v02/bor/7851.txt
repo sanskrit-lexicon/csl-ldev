@@ -1,7 +1,7 @@
 <L>7851<pc>248<k1>establishment<k2>establishment
-<div n="lb"/>{@ESTABLISHMENT:@}¦ <div n="I">I Settlement: {#स्थापनम्, सं-।#}</div>
-<div n="lb"/><div n="I">II Confirmation: {#स्थिरीकरणम्।#} </div><div n="I">III Prov-
-<div n="lb"/>-ing: {#प्रतिपादनम्।#} </div><div n="I">IV System, government:
-<div n="lb"/>{#स्थितिः।#} v. Domestic: expr. by circumlo.:
-<div n="lb"/><div n="xe">{%he keeps a large e.:%}</div> <div n="xs">{#बहूनि भृत्यादीनि रक्षति।#}</div></div>
+{@ESTABLISHMENT:@}¦ <div n="I">I Settlement: {#स्थापनम्, सं-।#}</div>
+<div n="I">II Confirmation: {#स्थिरीकरणम्।#} </div><div n="I">III Prov-
+-ing: {#प्रतिपादनम्।#} </div><div n="I">IV System, government:
+{#स्थितिः।#} v. Domestic: expr. by circumlo.:
+<div n="xe">{%he keeps a large e.:%}</div> <div n="xs">{#बहूनि भृत्यादीनि रक्षति।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>3144<pc>105<k1>cart-horse<k2>cart-horse
-<div n="lb"/>{@CART-HORSE:@}¦ {#शाकटी#} <div n="xe">{%or%}</div> <div n="xs">{#शाकटीनोऽश्वः,#}</div> etc.: v.
-<div n="lb"/>Horse.
+{@CART-HORSE:@}¦ {#शाकटी#} <div n="xe">{%or%}</div> <div n="xs">{#शाकटीनोऽश्वः,#}</div> etc.: v.
+Horse.
 <LEND>

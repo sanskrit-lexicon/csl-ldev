@@ -1,7 +1,7 @@
 <L>22659<pc>715<k1>tone<k2>tone
-<div n="lb"/>{@TONE@}¦ (subs.): <div n="I">I Voice: q. v.: {#स्वरः।#} </div><div n="I">II
-<div n="lb"/>Manner: </div><div n="1">(1) {#भावः;#} </div><div n="1">(2) {#चेष्टा#} <div n="xe">{%or%}</div> <div n="xs">{#चेष्टितम्,#}</div> D.
-<div n="lb"/>viii. </div><div n="I">III In music: {#स्वरम्,#} <div n="xe">{%quarter t.:%}</div> <div n="xs">{#श्रुतिः,#}</div>
-<div n="lb"/>Si. xi. 1. </div><div n="I">IV Of the body: {#बलम्:#} v.
-<div n="lb"/>Strength. </div><div n="I">V In painting: {#औज्ज्वल्यम्।#}</div>
+{@TONE@}¦ (subs.): <div n="I">I Voice: q. v.: {#स्वरः।#} </div><div n="I">II
+Manner: </div><div n="1">(1) {#भावः;#} </div><div n="1">(2) {#चेष्टा#} <div n="xe">{%or%}</div> <div n="xs">{#चेष्टितम्,#}</div> D.
+viii. </div><div n="I">III In music: {#स्वरम्,#} <div n="xe">{%quarter t.:%}</div> <div n="xs">{#श्रुतिः,#}</div>
+Si. xi. 1. </div><div n="I">IV Of the body: {#बलम्:#} v.
+Strength. </div><div n="I">V In painting: {#औज्ज्वल्यम्।#}</div>
 <LEND>

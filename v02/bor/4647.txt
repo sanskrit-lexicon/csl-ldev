@@ -1,6 +1,6 @@
 <L>4647<pc>151<k1>contrivance<k2>contrivance
-<div n="lb"/>{@CONTRIVANCE:@}¦ <div n="I">I The act: {#कल्पना:#} v. In-
-<div n="lb"/>-vention. </div><div n="I">II Plan, artifice: q. v.: </div><div n="1">(1) {#उपायः;#}</div>
-<div n="lb"/><div n="1">(2) {#उपाधिः,#} <div n="xe">{%this object cannot be accomplished%}
-<div n="lb"/>{%without some c.:%}</div> <div n="xs">{#विनोपाधिनायमर्थो न साध्यः,#}</div> D.</div>
+{@CONTRIVANCE:@}¦ <div n="I">I The act: {#कल्पना:#} v. In-
+-vention. </div><div n="I">II Plan, artifice: q. v.: </div><div n="1">(1) {#उपायः;#}</div>
+<div n="1">(2) {#उपाधिः,#} <div n="xe">{%this object cannot be accomplished%}
+{%without some c.:%}</div> <div n="xs">{#विनोपाधिनायमर्थो न साध्यः,#}</div> D.</div>
 <LEND>

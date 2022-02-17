@@ -1,11 +1,11 @@
 <L>16492<pc>506<k1>party<k2>party
-<div n="lb"/>{@PARTY:@}¦ <div n="I">I A faction: an assembly: {#पक्षः,#}
-<div n="lb"/><div n="xe">{%the p. of the bridegroom:%}</div> <div n="xs">{#वरपक्षः,#}</div> R. vi. 86.;
-<div n="lb"/><div n="xe">{%because he is of Prahāravarmā's p.:%}</div> <div n="xs">{#प्रहारवर्मणः #}
-<div n="lb"/>{# पक्ष इति,#}</div> D. iii.; {%by the Bhojas of Akrūras p.:%}
-<div n="lb"/>{#अक्रूरपक्षीयैर्भोजैः,#} V. p. iv. 13. 52. </div><div n="I">II In law:
-<div n="lb"/>{#पक्षः,#} <div n="xe">{%opposite p.:%}</div> <div n="xs">{#प्रतिपक्षः,#}</div> Mit.; {%the first p.:%}
-<div n="lb"/>{#पूर्वपक्षः,#} Y. ii. 17. </div><div n="I">III Social: expr. with
-<div n="lb"/>{#भोजनम्#} <div n="xe">{%or%}</div> <div n="xs">{#भोजयति:#}</div> v. To feed. </div><div n="I">IV Mili-
-<div n="lb"/>-tary: {#दलम्।#}</div>
+{@PARTY:@}¦ <div n="I">I A faction: an assembly: {#पक्षः,#}
+<div n="xe">{%the p. of the bridegroom:%}</div> <div n="xs">{#वरपक्षः,#}</div> R. vi. 86.;
+<div n="xe">{%because he is of Prahāravarmā's p.:%}</div> <div n="xs">{#प्रहारवर्मणः #}
+{# पक्ष इति,#}</div> D. iii.; {%by the Bhojas of Akrūras p.:%}
+{#अक्रूरपक्षीयैर्भोजैः,#} V. p. iv. 13. 52. </div><div n="I">II In law:
+{#पक्षः,#} <div n="xe">{%opposite p.:%}</div> <div n="xs">{#प्रतिपक्षः,#}</div> Mit.; {%the first p.:%}
+{#पूर्वपक्षः,#} Y. ii. 17. </div><div n="I">III Social: expr. with
+{#भोजनम्#} <div n="xe">{%or%}</div> <div n="xs">{#भोजयति:#}</div> v. To feed. </div><div n="I">IV Mili-
+-tary: {#दलम्।#}</div>
 <LEND>

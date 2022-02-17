@@ -1,4 +1,4 @@
 <L>1108<pc>039<k1>arrest<k2>arrest
-<div n="lb"/>{@ARREST@}¦ (subs.): <div n="1">(1) {#आसेधः;#} </div><div n="1">(2) {#धृतिः#} (?). Ph.
-<div n="lb"/><div n="xe">{%a. of judgment%}</div> <div n="xs">{#*निर्णयरोधः।#}</div></div>
+{@ARREST@}¦ (subs.): <div n="1">(1) {#आसेधः;#} </div><div n="1">(2) {#धृतिः#} (?). Ph.
+<div n="xe">{%a. of judgment%}</div> <div n="xs">{#*निर्णयरोधः।#}</div></div>
 <LEND>

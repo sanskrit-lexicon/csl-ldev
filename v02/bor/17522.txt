@@ -1,4 +1,4 @@
 <L>17522<pc>536<k1>practitioner<k2>practitioner
-<div n="lb"/>{@PRACTITIONER:@}¦ <div n="xe">{%medical p.:%}</div> <div n="xs">{#वैद्यः:#}</div> v. Physi-
-<div n="lb"/>-cian; <div n="xe">{%legal p.:%}</div> <div n="xs">{#*व्यवहाराजीवः।#}</div>
+{@PRACTITIONER:@}¦ <div n="xe">{%medical p.:%}</div> <div n="xs">{#वैद्यः:#}</div> v. Physi-
+-cian; <div n="xe">{%legal p.:%}</div> <div n="xs">{#*व्यवहाराजीवः।#}</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>3331<pc>111<k1>centaur<k2>centaur
-<div n="lb"/>{@CENTAUR:@}¦ {#*नराश्वः#} (after {#नरसिंहः#}); <div n="xe">{%or%}</div> <div n="xs">{#*अश्व-#}
-<div n="lb"/>{#शरीरः#}</div> (after {#अश्वमुखः#})
+{@CENTAUR:@}¦ {#*नराश्वः#} (after {#नरसिंहः#}); <div n="xe">{%or%}</div> <div n="xs">{#*अश्व-#}
+{#शरीरः#}</div> (after {#अश्वमुखः#})
 <LEND>

@@ -1,13 +1,13 @@
 <L>13234<pc>408<k1>late<k2>late
-<div n="lb"/>{@LATE@}¦ (adj.): <div n="I">I Long delayed: expr. with
-<div n="lb"/>{#विलम्बेन#} <div n="xe">{%or%}</div> <div n="xs">{#चिरेण,#}</div> {%the summer is l. this year:%}
-<div n="lb"/>{#*अस्मिन् वर्षे चिरेणागतो निदाघः।#} </div><div n="I">II Far advanced:
-<div n="lb"/>{#परिणतः#} ({#ता, तं#}), <div n="xe">{%l. in the day:%}</div> <div n="xs">{#परिणते दिवसे।#}</div> Ph.:
-<div n="lb"/>{%at l. hours%} ({%of night%}): {#अकाले#} {%or%} (?) {#रिरंसाकाले,#} D.</div>
-<div n="lb"/><div n="I">III Departed, out of office: {#पूर्वतनः#} ({#नी, नं#}).</div>
-<div n="lb"/><div n="I">IV Not long past: expr. with {#इतः किञ्चित् #}
-<div n="lb"/>{# पूर्षम्,#} L. p.: </div><div n="1">(1) {#परः#} ({#रा, रं#}); </div><div n="1">(2) {#अधस्तनः#} ({#नी, नं#})
-<div n="lb"/>(of persons or things in position), {%l. r than%}
-<div n="lb"/><div n="xe">{%the works.%}</div> <div n="xs">{#ग्रन्थानामधस्तनः,#}</div> Mahesha.: v.
-<div n="lb"/>Deceased: q. v.</div>
+{@LATE@}¦ (adj.): <div n="I">I Long delayed: expr. with
+{#विलम्बेन#} <div n="xe">{%or%}</div> <div n="xs">{#चिरेण,#}</div> {%the summer is l. this year:%}
+{#*अस्मिन् वर्षे चिरेणागतो निदाघः।#} </div><div n="I">II Far advanced:
+{#परिणतः#} ({#ता, तं#}), <div n="xe">{%l. in the day:%}</div> <div n="xs">{#परिणते दिवसे।#}</div> Ph.:
+{%at l. hours%} ({%of night%}): {#अकाले#} {%or%} (?) {#रिरंसाकाले,#} D.</div>
+<div n="I">III Departed, out of office: {#पूर्वतनः#} ({#नी, नं#}).</div>
+<div n="I">IV Not long past: expr. with {#इतः किञ्चित् #}
+{# पूर्षम्,#} L. p.: </div><div n="1">(1) {#परः#} ({#रा, रं#}); </div><div n="1">(2) {#अधस्तनः#} ({#नी, नं#})
+(of persons or things in position), {%l. r than%}
+<div n="xe">{%the works.%}</div> <div n="xs">{#ग्रन्थानामधस्तनः,#}</div> Mahesha.: v.
+Deceased: q. v.</div>
 <LEND>

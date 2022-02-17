@@ -1,15 +1,15 @@
 <L>7186<pc>228<k1>eat<k2>eat
-<div n="lb"/>{@EAT@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#खादति#} ({#खाद्,#} c. 1.),
-<div n="lb"/><div n="xe">{%should not e. fishes:%}</div> <div n="xs">{#मत्स्यान्न खादेत्,#}</div> K. b.;</div>
-<div n="lb"/><div n="1">(2) {#अत्ति#} ({#अद्,#} c. 2.), <div n="xe">{%we e. Brahmins:%}</div> <div n="xs">{#अह्मो #}
-<div n="lb"/>{# द्विजान्,#}</div> B.; </div><div n="1">(3) {#अश्नाति#} ({#अश्,#} c. 9.), <div n="xe">{%and nobody%}
-<div n="lb"/>{%returned without e. ing who wanted to e.:%}</div> <div n="xs">{#इच्छता-#}
-<div n="lb"/>{#शितुमनाशुषा न च प्रत्यगामि,#}</div> Si.; </div><div n="1">(4) {#भक्षति#} {%or%}
-<div n="lb"/>{#भक्षयति#} ({#भक्ष्,#} c. 1. and 10.), {%will e. us all:%}
-<div n="lb"/>{#भक्षयिष्यति नः सर्वान्,#} A. r.; </div><div n="1">(5) {#भुंक्ते#} ({#भुज्,#} c. 7.),
-<div n="lb"/><div n="xe">{%they ate belly-ful:%}</div> <div n="xs">{#अमीभिराकण्ठममोजि,#}</div> N.;</div>
-<div n="lb"/><div n="1">(6) {#जक्षिति#} ({#जक्ष्,#} c. 2.) (rare); </div><div n="1">(7) {#घसति#}
-<div n="lb"/>({#घस्,#} c. 1.) (rare); </div><div n="1">(8) {#प्साति#} ({#प्सा,#} c. 2.)
-<div n="lb"/>(rare). </div><div n="I">II To corrode: {#खादति:#} Ph.: <div n="xe">{%to e.%}
-<div n="lb"/>{%one's own words:%}</div> <div n="xs">{#स्ववचनं वितथं करोति#}</div> (?).</div>
+{@EAT@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#खादति#} ({#खाद्,#} c. 1.),
+<div n="xe">{%should not e. fishes:%}</div> <div n="xs">{#मत्स्यान्न खादेत्,#}</div> K. b.;</div>
+<div n="1">(2) {#अत्ति#} ({#अद्,#} c. 2.), <div n="xe">{%we e. Brahmins:%}</div> <div n="xs">{#अह्मो #}
+{# द्विजान्,#}</div> B.; </div><div n="1">(3) {#अश्नाति#} ({#अश्,#} c. 9.), <div n="xe">{%and nobody%}
+{%returned without e. ing who wanted to e.:%}</div> <div n="xs">{#इच्छता-#}
+{#शितुमनाशुषा न च प्रत्यगामि,#}</div> Si.; </div><div n="1">(4) {#भक्षति#} {%or%}
+{#भक्षयति#} ({#भक्ष्,#} c. 1. and 10.), {%will e. us all:%}
+{#भक्षयिष्यति नः सर्वान्,#} A. r.; </div><div n="1">(5) {#भुंक्ते#} ({#भुज्,#} c. 7.),
+<div n="xe">{%they ate belly-ful:%}</div> <div n="xs">{#अमीभिराकण्ठममोजि,#}</div> N.;</div>
+<div n="1">(6) {#जक्षिति#} ({#जक्ष्,#} c. 2.) (rare); </div><div n="1">(7) {#घसति#}
+({#घस्,#} c. 1.) (rare); </div><div n="1">(8) {#प्साति#} ({#प्सा,#} c. 2.)
+(rare). </div><div n="I">II To corrode: {#खादति:#} Ph.: <div n="xe">{%to e.%}
+{%one's own words:%}</div> <div n="xs">{#स्ववचनं वितथं करोति#}</div> (?).</div>
 <LEND>

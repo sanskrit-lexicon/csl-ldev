@@ -1,5 +1,5 @@
 <L>10657<pc>335<k1>harmonize<k2>harmonize
-<div n="lb"/>{@HARMONIZE:@}¦ expr. by adj., <div n="xe">{%the tones h.:%}</div> <div n="xs">{#श्लिष्टाः #}
-<div n="lb"/>{# स्वराः;#}</div> <div n="xe">{%the arguments h.:%}</div> <div n="xs">{#संवसन्ति तर्काः:#}</div> v. To
-<div n="lb"/>agree; <div n="xe">{%h. the sound:%}</div> <div n="xs">{#नादं रक्तं कुरु#}</div> (?).
+{@HARMONIZE:@}¦ expr. by adj., <div n="xe">{%the tones h.:%}</div> <div n="xs">{#श्लिष्टाः #}
+{# स्वराः;#}</div> <div n="xe">{%the arguments h.:%}</div> <div n="xs">{#संवसन्ति तर्काः:#}</div> v. To
+agree; <div n="xe">{%h. the sound:%}</div> <div n="xs">{#नादं रक्तं कुरु#}</div> (?).
 <LEND>

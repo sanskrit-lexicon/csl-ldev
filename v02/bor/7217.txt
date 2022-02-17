@@ -1,4 +1,4 @@
 <L>7217<pc>229<k1>economist<k2>economist
-<div n="lb"/>{@ECONOMIST:@}¦ <div n="I">I Lit.: {#विवेकव्ययिन्#} (f. {#नी#}) (?).</div>
-<div n="lb"/><div n="I">II <div n="xe">{%Political e.:%}</div> <div n="xs">{#अर्थशास्त्रविद्#}</div> (mfn.) (?).</div>
+{@ECONOMIST:@}¦ <div n="I">I Lit.: {#विवेकव्ययिन्#} (f. {#नी#}) (?).</div>
+<div n="I">II <div n="xe">{%Political e.:%}</div> <div n="xs">{#अर्थशास्त्रविद्#}</div> (mfn.) (?).</div>
 <LEND>

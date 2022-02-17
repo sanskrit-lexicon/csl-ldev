@@ -1,10 +1,10 @@
 <L>20266<pc>529-b<k1>negation<k2>negation
-<div n="lb"/>NEGATION¦, {%s.%} {#निह्नवः, अपह्नवः, निह्नुतिः#} {%f.,%} {#अपह्नुतिः#} {%f.,%} {#अपलापः, प्रत्या-#}
-<div n="lb"/>{#ख्यानं, अपवादः, अस्वीकारः, निषेधः, प्रत्यादेशः#}. — (In logic) {#अभावः#}
-<div n="lb"/>according to one division it is of two kinds, ‘universal
-<div n="lb"/>negation,’ {#संसर्गाभावः;#} ‘relative or mutual negation,’
-<div n="lb"/>{#अन्योन्याभावः;#} according to another division it is of four
-<div n="lb"/>kinds, viz. ‘extinction,’ {#प्रध्वंसाभावः;#} ‘antecedent non-
-<div n="lb"/>existence,’ {#प्रागभावः;#} ‘reciprocal negation,’ {#अन्योन्याभावः;#}
-<div n="lb"/>‘simple non-existence,’ {#अत्यन्ताभावः#}.
+NEGATION¦, {%s.%} {#निह्नवः, अपह्नवः, निह्नुतिः#} {%f.,%} {#अपह्नुतिः#} {%f.,%} {#अपलापः, प्रत्या-#}
+{#ख्यानं, अपवादः, अस्वीकारः, निषेधः, प्रत्यादेशः#}. — (In logic) {#अभावः#}
+according to one division it is of two kinds, ‘universal
+negation,’ {#संसर्गाभावः;#} ‘relative or mutual negation,’
+{#अन्योन्याभावः;#} according to another division it is of four
+kinds, viz. ‘extinction,’ {#प्रध्वंसाभावः;#} ‘antecedent non-
+existence,’ {#प्रागभावः;#} ‘reciprocal negation,’ {#अन्योन्याभावः;#}
+‘simple non-existence,’ {#अत्यन्ताभावः#}.
 <LEND>

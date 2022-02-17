@@ -1,5 +1,5 @@
 <L>8825<pc>279<k1>firmness<k2>firmness
-<div n="lb"/>{@FIRMNESS:@}¦ <div n="1">(1) {#दृढता;#} </div><div n="1">(2) {#दार्ढ्यम्;#} </div><div n="1">(3) {#द्रढिमन्#}
-<div n="lb"/>(m.); </div><div n="1">(4) {#स्थैर्यं#} <div n="xe">{%or%}</div> <div n="xs">{#स्थिरता#}</div> (= constancy); </div><div n="1">(5)
-<div n="lb"/>{#संहतिः#} (= compactness).</div>
+{@FIRMNESS:@}¦ <div n="1">(1) {#दृढता;#} </div><div n="1">(2) {#दार्ढ्यम्;#} </div><div n="1">(3) {#द्रढिमन्#}
+(m.); </div><div n="1">(4) {#स्थैर्यं#} <div n="xe">{%or%}</div> <div n="xs">{#स्थिरता#}</div> (= constancy); </div><div n="1">(5)
+{#संहतिः#} (= compactness).</div>
 <LEND>

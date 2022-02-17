@@ -1,5 +1,5 @@
 <L>13816<pc>425<k1>lot<k2>lot
-<div n="lb"/>{@LOT:@}¦ <div n="I">I Part, share: q. v.: {#भागः।#} </div><div n="I">II Fate,
-<div n="lb"/>fortune: q. v.: {#भाग्यम्।#} </div><div n="I">III Chance, hazard:
-<div n="lb"/><div n="xe">{%casting of l.s:%}</div> <div n="xs">{#गुटिकापातः,#}</div> Da.</div>
+{@LOT:@}¦ <div n="I">I Part, share: q. v.: {#भागः।#} </div><div n="I">II Fate,
+fortune: q. v.: {#भाग्यम्।#} </div><div n="I">III Chance, hazard:
+<div n="xe">{%casting of l.s:%}</div> <div n="xs">{#गुटिकापातः,#}</div> Da.</div>
 <LEND>

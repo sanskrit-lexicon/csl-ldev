@@ -1,16 +1,16 @@
 <L>19205<pc>346-3<k1>सानुकम्प<k2>सानुकम्प
 {#सानुकम्प#}¦sa‡anukampa, {%a.%} compassionate, towards <lbinfo n="2"/>
-<> ({%lc.%}): {@-m,@} {%ad.%} compassionately; {@-anu-@}
-<>{@-kūla,@} {%a.%} propitious, favourable; {@-ānukūl-@}
-<>{@-ya,@} {%n.%} assistance; {@-anukrośa@}, {%a.%} tender, 
-<>compassionate, merciful: {@-m,@} {%ad.%} compassionately, <lbinfo n="6"/>
-<> {@-tā,@} {%f.%} compassion; {@-anuga,@} {%a.%} 
-<>together with {%his%} retinue; {@-anutaraham,@} 
-<>{%ad.%} by means of thirst; {@-anutāpa,@} {%a.%} repenting; <lbinfo n="2"/>
-<> {@-anunaya,@} {%a.%} courteous, friendly: 
-<>{@-m,@} {%ad.%} kindly; {@-anunāsika,@} {%a.%} nasalised; 
-<>{@-anubandha,@} {%a.%} continuous, uninterrupted; 
-<>entailing consequences; with {%one's%} belongings: <lbinfo n="6"/>
-<> {@-ka,@} {%a.%} provided with an indicatory 
-<>letter {%or%} syllable.
+ ({%lc.%}): {@-m,@} {%ad.%} compassionately; {@-anu-@}
+{@-kūla,@} {%a.%} propitious, favourable; {@-ānukūl-@}
+{@-ya,@} {%n.%} assistance; {@-anukrośa@}, {%a.%} tender, 
+compassionate, merciful: {@-m,@} {%ad.%} compassionately, <lbinfo n="6"/>
+ {@-tā,@} {%f.%} compassion; {@-anuga,@} {%a.%} 
+together with {%his%} retinue; {@-anutaraham,@} 
+{%ad.%} by means of thirst; {@-anutāpa,@} {%a.%} repenting; <lbinfo n="2"/>
+ {@-anunaya,@} {%a.%} courteous, friendly: 
+{@-m,@} {%ad.%} kindly; {@-anunāsika,@} {%a.%} nasalised; 
+{@-anubandha,@} {%a.%} continuous, uninterrupted; 
+entailing consequences; with {%one's%} belongings: <lbinfo n="6"/>
+ {@-ka,@} {%a.%} provided with an indicatory 
+letter {%or%} syllable.
 <LEND>

@@ -1,6 +1,6 @@
 <L>2139<pc>074<k1>blank<k2>blank
-<div n="lb"/>{@BLANK@}¦ (subs.): <div n="I">I A void space: Ph. <div n="xe">{%don't%}
-<div n="lb"/>{%leave so much b.%}</div> <div n="xs">{#एतावदलिखितं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शुद्धं#}</div> (?) {#मा #}
-<div n="lb"/>{# रक्षीः:#} </div><div n="I">II A b. ticket {#*शुद्धनिदर्शनी।#} </div><div n="I">III A
-<div n="lb"/>b. ballot {#*शुद्धगुटिका।#}</div>
+{@BLANK@}¦ (subs.): <div n="I">I A void space: Ph. <div n="xe">{%don't%}
+{%leave so much b.%}</div> <div n="xs">{#एतावदलिखितं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#शुद्धं#}</div> (?) {#मा #}
+{# रक्षीः:#} </div><div n="I">II A b. ticket {#*शुद्धनिदर्शनी।#} </div><div n="I">III A
+b. ballot {#*शुद्धगुटिका।#}</div>
 <LEND>

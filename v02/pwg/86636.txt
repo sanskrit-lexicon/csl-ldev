@@ -22,7 +22,7 @@
 <ls>9, 1, 23.</ls> {#ये पृ^थि\व्यां पुण्या^ लो\काः#} 
 <ls>15, 13, 1.</ls> <ls>TS. 5, 7, 5, 3.</ls> <ls>AIT. BR. 3, 18. 1, 24.</ls> <ls>PAÑCAV. BR. 17, 13, 1.</ls> <ls>ŚAT. BR. 6, 2, 2, 28.</ls> {#यावन्तं लोकं जयति#} {%Strecke, Gebiet%} 
 <ls>11, 8, 3, 5. 13, 2, 7, 13. 14, 6, 9, 11. fgg.</ls> (vgl. 
-<ls>BṚH. ĀR. UP. 3, 9, 10.</ls> <ls>fgg.). 9, 4, 3.</ls> {#आत्मा सर्वेषां भूतानां लोकः#} 
+<ls>BṚH. ĀR. UP. 3, 9, 10. fgg.). 9, 4, 3.</ls> {#आत्मा सर्वेषां भूतानां लोकः#} 
 <ls>4, 2, 29.</ls> {#जगतीनां लोके त्रिष्टुभः#} {%statt der%} 
 <ls>J.</ls> <ls>ṢAḌV. BR. 3, 7.</ls> {%Zwischenraum%} 
 <ls>KAUŚ. 86.</ls> {#लोको ऽयम्#} {%diese Stätte, dieses Land, das von uns bewohnte Land%} 
@@ -60,7 +60,7 @@
 <ls>AIT. BR. 1, 5.</ls> 
 <ls>ŚAT. BR. 13, 1, 7, 3. 14, 4, 3, 24.</ls> 
 <ls>M. 2, 230. 232. 11, 261. 12, 97.</ls> 
-<ls>MBH. 1, 5910. 7642. 3, 10660. 13, 312.</ls> 
+<ls>MBH. 1, 5910.</ls> <ls n="MBH. 1,">7642.</ls> <ls n="MBH.">3, 10660.</ls> <ls n="MBH.">13, 312.</ls> 
 <ls>R. 1, 6, 2. 2, 96, 45. 6, 102, 23.</ls> 
 <ls>Spr. 1512.</ls> 
 <ls>VARĀH. BṚH. S. 6, 6. 26, 4.</ls> {#°त्रयी#} 
@@ -70,16 +70,16 @@
 <ls>MĀRK. P. 22, 36.</ls> 
 <ls>P. 1, 3, 54, Schol.</ls> {#°द्वय#} 
 <ls>KĀM. NĪTIS. 7, 55. 10, 24.</ls> <ls>RĀJA-TAR. 5, 184.</ls> {#सप्त इमे लोकाः#} 
-<ls>MUṆḌ. UP.2,1,8.</ls> <ls>MBH.3,175. 13,5288. 5292.</ls> <ls>RAGH. 10,22.</ls> <ls>Verz. d. Oxf. H. 49,b,11. 57,a,3 v. u.</ls> (daher Bez. {%der Zahl sieben%} 
+<ls>MUṆḌ. UP. 2,1,8.</ls> <ls>MBH. 3, 175.</ls> <ls n="MBH.">13, 5288.</ls> <ls n="MBH. 13,">5292.</ls> <ls>RAGH. 10,22.</ls> <ls>Verz. d. Oxf. H. 49,b,11. 57,a,3</ls> v. u. (daher Bez. {%der Zahl sieben%} 
 <ls>Ind. St. 8, 386. 395</ls>). {#अयम्#} 
 <ls>AV. 5, 30, 17. 8, 8, 8. 12, 5, 38. 19, 54, 5.</ls> 
 <ls>VS. 19, 46.</ls> 
 <ls>ŚAT. BR. 13, 5, 1, 2. 2, 11, 2.</ls> 
 <ls>M. 10, 128.</ls> {#लोके ऽस्मिन्#} 
-<ls>7, 3. 8, 343. 9, 24. 12, 53.</ls> <ls>MBH. 3, 2637. 2904. 2982.</ls> <ls>R. 1, 1, 2. 92.</ls> <ls>Spr. 5188.</ls> {#इमं लोकम्, मध्यमम्, ब्रह्मलोकम्#} 
+<ls>7, 3. 8, 343. 9, 24. 12, 53.</ls> <ls>MBH. 3, 2637.</ls> <ls n="MBH. 3,">2904.</ls> <ls n="MBH. 3,">2982.</ls> <ls>R. 1, 1, 2. 92.</ls> <ls>Spr. 5188.</ls> {#इमं लोकम्, मध्यमम्, ब्रह्मलोकम्#} 
 <ls>M. 2, 233.</ls> {#इहैवास्ते तु सा लोके#} 
 <ls>3, 141. 10, 158. 12, 102.</ls> {#लोके#} so v. a. {#इह लोके#} {%hier auf Erden%} 
-<ls>1, 11. 84. 4, 157. 5, 50.</ls> <ls>MBH. 1, 6122. 3, 2776. 2980.</ls> <ls>Spr. 1539. 3626. 4374. 4759. 5346</ls> (Gegens. {#परत्र#}). 
+<ls>1, 11. 84. 4, 157. 5, 50.</ls> <ls>MBH. 1, 6122.</ls> <ls n="MBH.">3, 2776.</ls> <ls n="MBH. 3,">2980.</ls> <ls>Spr. 1539. 3626. 4374. 4759. 5346</ls> (Gegens. {#परत्र#}). 
 <ls>DHŪRTAS. 96, 7.</ls> {#लोके कृत्स्ने#} {%auf der ganzen Erde%} 
 <ls>MBH. 3, 2119.</ls> {#ततो दुर्गं च राष्ट्रं च लोकं च सचराचरम् । अन्तरिक्षगतांश्चैव मुनीन्देवांश्च पीडयेत् ॥#} {%die ganze Erde%} 
 <ls>M. 7, 29.</ls> {#लोकं प्रजहाति#} {%er verlässt die Erde%} 
@@ -138,7 +138,7 @@
 <ls>AK.</ls> <ls>H. 501.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 129.</ls> {#लोकानां हितकाम्यया#} 
 <ls>M. 12, 117.</ls> {#लोकेषु यशः प्राप#} 
 <ls>MBH. 3, 2081.</ls> {#लोकेष्वप्रतिमो भुवि#} 
-<ls>?2086. 13,6804. 15,900. HARIV. 4005. R.1,2,39. R. GORR.2,108,29. Spr. 311. 560. 1276. 1936. 2071. 2621. 4582. KATHĀS. 12,177. fg. RĀJA-TAR.1,352. BHĀG. P.3,14,11. Verz. d. Oxf. H. 156,a,23. 25. PAÑCAT. 246,2. VET. in LA. (III)1,3.</ls> {#सर्वे#} 
+<ls n="MBH. 3,">2086.</ls> <ls n="MBH.">13, 6804.</ls> <ls n="MBH.">15, 900.</ls> <ls>HARIV. 4005.</ls> <ls>R. 1,2,39.</ls> <ls>R. GORR. 2,108,29.</ls> <ls>Spr. 311. 560. 1276. 1936. 2071. 2621. 4582.</ls> <ls>KATHĀS. 12,177. fg.</ls> <ls>RĀJA-TAR. 1,352.</ls> <ls>BHĀG. P. 3,14,11.</ls> <ls>Verz. d. Oxf. H. 156,a,23. 25.</ls> <ls>PAÑCAT. 246,2.</ls> <ls>VET. in LA. (III) 1,3.</ls> {#सर्वे#} 
 <ls>MBH. 15, 871.</ls> 
 <ls>R. 3, 54, 7.</ls> 
 <ls>Spr. 3127. 4582.</ls> 
@@ -146,17 +146,17 @@
 <ls>R. 1, 59, 20.</ls> {#बहवः#} 
 <ls>Spr. 4583.</ls> {#सर्वे पुरनिवासिनो राजसंनिधिलोकाश्च#} 
 <ls>PAÑCAT. 26, 20.</ls> {#लोकाः स्त्रीषु रताः#} so v. a. {%die Männer%} 
-<ls>VET.</ls> in <ls>LA. (III) 30, 9.</ls> {#गृहलोकाः#} 
+<ls>VET. in LA. (III) 30, 9.</ls> {#गृहलोकाः#} 
 <ls>HIT. 88, 18.</ls> sg. <ls>ŚAT. BR. 11, 5, 7, 1.</ls> <ls>NIR. 7, 4.</ls> {#प्रिया भवन्ति लोकस्य#} 
 <ls>M. 8, 42. 353. 9, 324. 11, 84.</ls> 
 <ls>R. 1, 1, 87. 3, 1. 9.</ls> 
 <ls>SĀṂKHYAK. 58.</ls> 
-<ls>ŚĀK. 77. 192.</ls> <ls>?ad 25, 7. Spr. 1443.2316, v. l. 2331. 2602. 2684. 3734. 4958. RAGH. 6, 30. KATHĀS. 10, 113. 21, 116. 29, 179. 34, 143. RĀJA-TAR. 5, 263. DAŚAK. 66, 3. BHĀG. P. 5, 24, 3. PAÑCAT. 48, 25.</ls>
+<ls>ŚĀK. 77. 192.</ls> ad <ls>25, 7.</ls> <ls>Spr. 1443.2316, v. l. 2331. 2602. 2684. 3734. 4958.</ls> <ls>RAGH. 6, 30.</ls> <ls>KATHĀS. 10, 113. 21, 116. 29, 179. 34, 143.</ls> <ls>RĀJA-TAR. 5, 263.</ls> <ls>DAŚAK. 66, 3.</ls> <ls>BHĀG. P. 5, 24, 3.</ls> <ls>PAÑCAT. 48, 25.</ls>
 [Page6-0580]
 {#सर्वस्य लोकस्य#} 
 <ls>RAGH. 4, 8.</ls> 
 <ls>Spr. 5207.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 45. fg.</ls> {#सर्वलोकः#} {%Jedermann%} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 45. fg.</ls> {#सर्वलोकः#} {%Jedermann%} 
 <ls>MBH. 1, 8051.</ls> 
 <ls>Spr. 3580.</ls> 
 <ls>VARĀH. BṚH. S. 4, 8.</ls> 
@@ -168,7 +168,7 @@
 <ls>VARĀH. BṚH. S. 8, 47.</ls> {#लोकहेतोः#} 
 <ls>ŚĀK. 104.</ls> {#कृपणलोकमत#} 
 <ls>Spr. 1012. 2680.</ls> {#लोकवदश्राम्यत्#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 55.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 55.</ls> 
 <div n="1">— 4) {%Gemeinschaft, Gesellschaft%}: {#सतां लोकात् - भ्रश्यतु#} 
 <ls>R. 2, 75, 34.</ls> {#नर°#} so v. a. {%die Menschen%} 
 <ls>R. GORR. 2, 1, 42.</ls> <ls>RAGH. 6, 1.</ls> {#राक्षस°#} 
@@ -181,7 +181,7 @@
 <ls>22, 203.</ls> {#वणिग्लोक#} 
 <ls>29, 107.</ls> {#ज्ञातिलोकतस्#} 
 <ls>VARĀH. BṚH. S. 52, 8.</ls> 
-<ls>PAÑCAT. ed. orn. 58, 13.</ls> <ls>VET.</ls> in <ls>LA. (III) 9, 18.</ls> {#कुटुम्ब°#} 
+<ls>PAÑCAT. ed. orn. 58, 13.</ls> <ls>VET. in LA. (III) 9, 18.</ls> {#कुटुम्ब°#} 
 <ls>21, 18.</ls> {#नृतिर्यक्सुरलोकभाषा#} 
 <ls>H. 59.</ls> Im Bengalischen ist {#लोक#} geradezu zum Pluralsuffix geworden. 
 <div n="1">— 5) {%das gemeine Leben%}, oft im Gegens. zur {%Wissenschaft%}, insbes. {%der heiligen%}, zum <is>Veda</is>. 

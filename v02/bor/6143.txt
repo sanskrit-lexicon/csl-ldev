@@ -1,5 +1,5 @@
 <L>6143<pc>197<k1>diffuse<k2>diffuse
-<div n="lb"/>{@DIFFUSE@}¦ (adj.): <div n="1">(1) {#विस्तृतः#} ({#ता, तं#}); </div><div n="1">(2)
-<div n="lb"/>{#विततः#} ({#ता, तं#}); </div><div n="1">(3) {#सुविस्तरः#} ({#रा, रं#}), <div n="xe">{%very d.%}
-<div n="lb"/>{%discourse:%}</div> <div n="xs">{#सुविस्तरतरा वाचः,#}</div> Si. ii. 24.</div>
+{@DIFFUSE@}¦ (adj.): <div n="1">(1) {#विस्तृतः#} ({#ता, तं#}); </div><div n="1">(2)
+{#विततः#} ({#ता, तं#}); </div><div n="1">(3) {#सुविस्तरः#} ({#रा, रं#}), <div n="xe">{%very d.%}
+{%discourse:%}</div> <div n="xs">{#सुविस्तरतरा वाचः,#}</div> Si. ii. 24.</div>
 <LEND>

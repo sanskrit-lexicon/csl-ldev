@@ -1,5 +1,5 @@
 <L>23726<pc>743<k1>vegetate<k2>vegetate
-<div n="lb"/>{@VEGETATE:@}¦ <div n="I">I To grow, come out: q. v.:
-<div n="lb"/>{#उद्भिद्यते#} (pass. {#भिद्#}). </div><div n="I">II Fig.: perh. {#शाक-#}
-<div n="lb"/>{#वृत्तिमुपजीवति,#} etc.</div>
+{@VEGETATE:@}¦ <div n="I">I To grow, come out: q. v.:
+{#उद्भिद्यते#} (pass. {#भिद्#}). </div><div n="I">II Fig.: perh. {#शाक-#}
+{#वृत्तिमुपजीवति,#} etc.</div>
 <LEND>

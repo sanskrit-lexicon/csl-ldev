@@ -1,5 +1,5 @@
 <L>3316<pc>16,2<k1>अती<k2>अती<e>1
-<s>अती<srs/></s> ¦ (<s>√ इ</s>) <ab>cl.</ab> 2. <ab>P.</ab> <s>अत्य्-एति</s>, <s>-एतुम्</s>, to pass by, elapse, pass over, overflow;
+<s>अती<स्र्स्/></s> ¦ (<s>√ इ</s>) <ab>cl.</ab> 2. <ab>P.</ab> <s>अत्य्-एति</s>, <s>-एतुम्</s>, to pass by, elapse, pass over, overflow;
 <div n="to"/>to pass on;
 <div n="to"/>to get over;
 <div n="to"/> (<ab>Ved.</ab> <ab>Inf.</ab> <s>अ/त्य्-एतवै</s>), to pass through, <ls>RV. v, 83, 10</ls>;
@@ -10,5 +10,5 @@
 <div n="to"/>to overstep, violate;
 <div n="to"/>to be redundant;
 <div n="to"/>to die:
-<div n="vp"/><ab>Intens.</ab> <s>अती<srs/>यते</s>, to overcome.<info verb="pre" cp="2P" parse="ati+i"/>
+<div n="vp"/><ab>Intens.</ab> <s>अती<स्र्स्/>यते</s>, to overcome.<info verb="pre" cp="2P" parse="ati+i"/>
 <LEND>

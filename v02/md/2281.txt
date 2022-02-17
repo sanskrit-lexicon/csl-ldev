@@ -1,9 +1,9 @@
 <L>2281<pc>024-1<k1>अभिसंधक<k2>अभिसंधक
 {#अभिसंधक#}¦abhi-saṃdhaka, {%a.%} cheating; 
-<>{@-saṃdhā@}, {%f.%} statement, speech; {@-saṃdhāna@}, 
-<>{%n.%} connexion; statement; intention; deception; <lbinfo n="5"/>
-<> {@-saṃdhi@}, {%m.%} intention; scheme; condition; <lbinfo n="3"/>
-<> {@-pūrva,@} {%a.%} intentional: {@-kam,@} {%ad.%} 
-<>with a definite purpose; {@-saṃbandha@}, {%m.%} 
-<>connex on; relation.
+{@-saṃdhā@}, {%f.%} statement, speech; {@-saṃdhāna@}, 
+{%n.%} connexion; statement; intention; deception; <lbinfo n="5"/>
+ {@-saṃdhi@}, {%m.%} intention; scheme; condition; <lbinfo n="3"/>
+ {@-pūrva,@} {%a.%} intentional: {@-kam,@} {%ad.%} 
+with a definite purpose; {@-saṃbandha@}, {%m.%} 
+connex on; relation.
 <LEND>

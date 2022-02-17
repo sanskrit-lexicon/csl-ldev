@@ -1,7 +1,7 @@
 <L>1530<pc>054<k1>bald<k2>bald
-<div n="lb"/>{@BALD@}¦ (adj.): <div n="I">I Hairless: q. v.: </div><div n="1">(1) {#अकेशः#}
-<div n="lb"/>({#शा, शं#}); </div><div n="1">(2) {#खलति#} (mfn.) (by disease). </div><div n="I">II
-<div n="lb"/>Without natural covering: {#अनावृतः#} ({#ता, तं#}).</div>
-<div n="lb"/><div n="I">III Unadorned, inelegant: q. v.: {#असंस्कृतः#}
-<div n="lb"/>({#ता, तं#}).</div>
+{@BALD@}¦ (adj.): <div n="I">I Hairless: q. v.: </div><div n="1">(1) {#अकेशः#}
+({#शा, शं#}); </div><div n="1">(2) {#खलति#} (mfn.) (by disease). </div><div n="I">II
+Without natural covering: {#अनावृतः#} ({#ता, तं#}).</div>
+<div n="I">III Unadorned, inelegant: q. v.: {#असंस्कृतः#}
+({#ता, तं#}).</div>
 <LEND>

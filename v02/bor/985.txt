@@ -1,4 +1,4 @@
 <L>985<pc>035<k1>appropriation<k2>appropriation
-<div n="lb"/>{@APPROPRIATION:@}¦ <div n="1">(1) {#प्रयोगः;#} </div><div n="1">(2) {#विनियोगः;#}</div>
-<div n="lb"/><div n="1">(3) {#उपकल्पनम्#} (?).</div>
+{@APPROPRIATION:@}¦ <div n="1">(1) {#प्रयोगः;#} </div><div n="1">(2) {#विनियोगः;#}</div>
+<div n="1">(3) {#उपकल्पनम्#} (?).</div>
 <LEND>

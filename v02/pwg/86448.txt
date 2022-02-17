@@ -6,15 +6,15 @@
 <ls>an. 2, 508.</ls> 
 <ls>MED. l. 46.</ls> {#क्रीडन्ति लीलाम्#} 
 <ls>HARIV. 4339.</ls> {#°विधान#} 
-<ls>15787.</ls> {#लीला विदधतः#} 
+<ls n="HARIV.">15787.</ls> {#लीला विदधतः#} 
 <ls>BHĀG. P. 1, 1, 18.</ls> {#लीलाः कर्#} 
 <ls>HARIV. 2463.</ls> {#सहजां लीलां धारयन्#} 
-<ls>2985.</ls> {#लीलाढ्यो नारदः#} 
-<ls>MBH. 13,252.</ls> 
+<ls n="HARIV.">2985.</ls> {#लीलाढ्यो नारदः#} 
+<ls>MBH. 13, 252.</ls> 
 <ls>BHAR.</ls> 
 <ls>NĀṬYAŚ. 34,82.</ls> <ls>Spr. 685. 3318. fg.</ls> <ls>RAGH. 16,71.</ls> <ls>ŚIŚ.8,24.</ls> <ls>BHĀG. P. 10,11,32.</ls> <ls>Verz. d. Oxf. H. 127,a, No. 223.</ls> {#स्त्रीभिर्लीलैव प्रोच्यते लीला#} 
 <ls>PRASAṄGĀBH. 14</ls>,b. {#शिशुलीलां ततः कुर्वन्#} 
-<ls>HARIV. 3407. 3650.</ls> {#बाल°#} 
+<ls>HARIV. 3407.</ls> <ls n="HARIV.">3650.</ls> {#बाल°#} 
 <ls>BHĀG. P. 3, 2, 2.</ls> {#बाललीलाधर#} 
 <ls>SUŚR. 2, 394, 11.</ls> {#बिभ्रतीं चाम्बिकालीलाम् (जाह्नवीम्)#} 
 <ls>KATHĀS. 93, 78.</ls> {#कृष्ण°#} 
@@ -77,10 +77,10 @@
 <ls>RAGH. 5, 70.</ls> 
 <ls>RĀJA-TAR. 4, 302.</ls> {#°हसित#} 
 <ls>BHĀG. P. 2, 2, 12.</ls> {#°गति#} 
-<ls>RAGH. 7, 7</ls> <ls>?(= KUMĀRAS. 7, 58).</ls> {#लीलावलोकन#} 
+<ls>RAGH. 7, 7</ls> (= <ls>KUMĀRAS. 7, 58).</ls> {#लीलावलोकन#} 
 <ls>BHĀG. P. 3, 20, 30. 8, 8, 7.</ls> {#°वलयरणित#} 
 <ls>Spr. 23.</ls> 
-<div n="1">— 6) {%ein best. Metrum: 4 Mal%} ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯  
-<ls>COLEBR. Misc. Ess. II, 162</ls> <ls>(XI, 6).</ls> — Das Wort wird gewöhnlich als eine Corruption von {#क्रीडा#} betrachtet, könnte aber vielleicht mit 3. {#ली#} in Verbindung stehen. 
+<div n="1">— 6) {%ein best. Metrum: 4 Mal%} ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ ˘ ˘ ¯ 
+<ls>COLEBR. Misc. Ess. II, 162</ls> (<ls>XI, 6).</ls> — Das Wort wird gewöhnlich als eine Corruption von {#क्रीडा#} betrachtet, könnte aber vielleicht mit 3. {#ली#} in Verbindung stehen. 
 <div n="v">— Vgl. {#अन्त°, अव°, आदि°, तुरगलीलक, भागवतलीलारहस्य, मध्य°, महालीलसरस्वती, राजलीलानामन्, सलील#}.
 <LEND>

@@ -1,8 +1,8 @@
 <L>16256<pc>2-0210<k1>कात्यायन<k2>कात्यायन
 {#कात्यायन#}¦ patron. von <is>Kati</is> oder <is>Kātya</is>: {#कतिश्चैव यस्मात्कात्यायनाः स्मृताः#} 
-<ls>HARIV. 1461. 1768.</ls> <ls>SCHIEFNER, Lebensb. 249 (19).</ls> <ls>R. 2, 67, 2.</ls> Name des Verfassers mehrerer Schriften zum vedischen Ritual, zur Grammatik u. s. w. 
+<ls>HARIV. 1461.</ls> <ls n="HARIV.">1768.</ls> <ls>SCHIEFNER, Lebensb. 249 (19).</ls> <ls>R. 2, 67, 2.</ls> Name des Verfassers mehrerer Schriften zum vedischen Ritual, zur Grammatik u. s. w. 
 <ls>WEBER, Lit. 135. fgg.</ls> 
-<ls>Ind. St. 1, 16 u.s.w.</ls> {#इत्याह स्वरसंस्कारप्रतिष्ठापयिता भगवान्कात्यायनः#} Schluss des 
+<ls>Ind. St. 1, 16</ls> u.s.w. {#इत्याह स्वरसंस्कारप्रतिष्ठापयिता भगवान्कात्यायनः#} Schluss des 
 <ls>VS. PRĀT.</ls> <ls>YĀJÑ. 1, 4.</ls> Mit <is>Vararuci</is> identificirt 
 <ls>TRIK. 2, 7, 25.</ls> 
 <ls>H. 852.</ls> 
@@ -20,7 +20,7 @@
 <ls>H. 203.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>HARIV. 3270. 9423.10233.</ls> 
+<ls>HARIV. 3270.</ls> <ls n="HARIV.">9423.</ls> <ls n="HARIV.">10233.</ls> 
 <ls>LALIT. 241.</ls> 
 <ls>VID. 90.</ls> 
 <ls>DEV. 8, 28.</ls> 

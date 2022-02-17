@@ -1,11 +1,11 @@
 <L>8892<pc>114-1<k1>त्रेता<k2>त्रेता
 {#त्रेता#}¦tré-tā, {%f.%} triad; the three sacred fires; 
-<>die {%or%} side of a die {%marked%} with three {%points%}; 
-<>the second age of the world (the age of threes, 
-<>{%sl called from three being contained in the %}
-<>{%numbers expressing its duration: it is described %}<lbinfo n="2"/>
-<>{% as lasting ¤3000¤ years of the gods, etc.%}): 
-<>{@-agni,@} {%m. sg.%} the three sacred fires; {@-yuga,@} 
-<>{%n.%} the second age of the world; {@-hṛta-sar-@}
-<>{@-vasva@}, {%a.%} robbed of one's all by the three die.
+die {%or%} side of a die {%marked%} with three {%points%}; 
+the second age of the world (the age of threes, 
+{%sl called from three being contained in the %}
+{%numbers expressing its duration: it is described %}<lbinfo n="2"/>
+{% as lasting ¤3000¤ years of the gods, etc.%}): 
+{@-agni,@} {%m. sg.%} the three sacred fires; {@-yuga,@} 
+{%n.%} the second age of the world; {@-hṛta-sar-@}
+{@-vasva@}, {%a.%} robbed of one's all by the three die.
 <LEND>

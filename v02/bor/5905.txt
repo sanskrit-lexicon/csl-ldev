@@ -1,9 +1,9 @@
 <L>5905<pc>189<k1>derive<k2>derive
-<div n="lb"/>{@DERIVE@}¦ v.: <div n="I">I To draw from: Ph.: <div n="xe">{%the race d. d%}
-<div n="lb"/>{%from the sun:%}</div> <div n="xs">{#सूर्यप्रभवो वंशः,#}</div> R.; <div n="xe">{%one who is d. d%}
-<div n="lb"/>{%from Virasena:%}</div> <div n="xs">{#वोरसेनोद्भूतिः,#}</div> N.: v. Origin,
-<div n="lb"/>arising from. II. Of words: {#व्युत्पत्तिं वदति#}
-<div n="lb"/>({#वद्,#} c. l.): v. To say. <div n="xe">{%To be d. d:%}</div> <div n="xs">{#व्युत्प-#}
-<div n="lb"/>{#द्यते#}</div> ({#पद्,#} c. 4), <div n="xe">{%as being d. d in the passive%}
-<div n="lb"/>{%sense:%}</div> <div n="xs">{#कर्मव्युत्पन्नतया,#}</div> Da. com.</div>
+{@DERIVE@}¦ v.: <div n="I">I To draw from: Ph.: <div n="xe">{%the race d. d%}
+{%from the sun:%}</div> <div n="xs">{#सूर्यप्रभवो वंशः,#}</div> R.; <div n="xe">{%one who is d. d%}
+{%from Virasena:%}</div> <div n="xs">{#वोरसेनोद्भूतिः,#}</div> N.: v. Origin,
+arising from. II. Of words: {#व्युत्पत्तिं वदति#}
+({#वद्,#} c. l.): v. To say. <div n="xe">{%To be d. d:%}</div> <div n="xs">{#व्युत्प-#}
+{#द्यते#}</div> ({#पद्,#} c. 4), <div n="xe">{%as being d. d in the passive%}
+{%sense:%}</div> <div n="xs">{#कर्मव्युत्पन्नतया,#}</div> Da. com.</div>
 <LEND>

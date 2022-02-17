@@ -1,4 +1,4 @@
 <L>579<pc>021<k1>allegiance<k2>allegiance
-<div n="lb"/>{@ALLEGIANCE:@}¦ {#भक्तिः,#} <div n="xe">{%they took an oath of a. to%}
-<div n="lb"/>{%Caesar%}</div> <div n="xs">{#*वयं सिजारथक्ता इति शपथं चक्रुः।#}</div>
+{@ALLEGIANCE:@}¦ {#भक्तिः,#} <div n="xe">{%they took an oath of a. to%}
+{%Caesar%}</div> <div n="xs">{#*वयं सिजारथक्ता इति शपथं चक्रुः।#}</div>
 <LEND>

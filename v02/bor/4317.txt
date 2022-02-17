@@ -1,4 +1,4 @@
 <L>4317<pc>140<k1>concrement<k2>concrement
-<div n="lb"/>{@CONCREMENT:@}¦ <div n="1">(1) {#संहतिः;#} </div><div n="1">(2) {#सङ्घातः,#} {%hard by c.:%}
-<div n="lb"/>{#सङ्घातकठिनः#} ({#ना, नं#}), Ku.</div>
+{@CONCREMENT:@}¦ <div n="1">(1) {#संहतिः;#} </div><div n="1">(2) {#सङ्घातः,#} {%hard by c.:%}
+{#सङ्घातकठिनः#} ({#ना, नं#}), Ku.</div>
 <LEND>

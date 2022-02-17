@@ -1,13 +1,13 @@
 <L>29286<pc>798-b<k1>term<k2>term
-<div n="lb"/>TERM¦, {%s.%} (Limit, end) {#अन्तः, पर्य्यन्तः -न्तं,#} {%see%} LIMIT. — (Period)
-<div n="lb"/>{#अवधिः#} {%m.,%} {#कालावधिः#} {%m., see%} PERIOD; ‘of days,’ {#अहर्गणः;#}
-<div n="lb"/>‘utmost term,’ {#परमावधिः#} {%m.;%} ‘of life,’ {#आयुर्मर्य्यादा#}. — (Word,
-<div n="lb"/>expression, appellation) {#संज्ञा, पदं, वाक्यं, शब्दः, वचनं, अभि-#}
-<div n="lb"/>{#धानं, आख्या, नाम#} {%n.%} {#(न्), पद्धतिः#} {%f.%} — (Conditions) {#सङ्केतः, प्रतिज्ञा,#}
-<div n="lb"/>{#नियमः, नियमवाक्यं#}. — (State of intercourse) {#व्यवहारः, वृत्तिः#} {%f.,%}
-<div n="lb"/>{#परिचयभावः, परिचयः;#} ‘good terms,’ {#प्रीतिः#} {%f.,%} {#मैत्र्यं, संवित्तिः#} {%f.;%}
-<div n="lb"/>‘ill terms,’ {#वितुष्टं, अतुष्टिः#} {%f.,%} {#अप्रीतिः#} {%f.%} — (Time of business)
-<div n="lb"/>{#व्यवहारकालः, कार्य्यनिर्वाहकालः,#} {%see%} SESSION. — (Of a syllogism)
-<div n="lb"/>{#अवयवः#}. — (Of an arithmetical series) {#पदं;#} ‘first term,’
-<div n="lb"/>{#आदिपदं, मुखं;#} ‘last term,’ {#अन्त्यपदं#}.
+TERM¦, {%s.%} (Limit, end) {#अन्तः, पर्य्यन्तः -न्तं,#} {%see%} LIMIT. — (Period)
+{#अवधिः#} {%m.,%} {#कालावधिः#} {%m., see%} PERIOD; ‘of days,’ {#अहर्गणः;#}
+‘utmost term,’ {#परमावधिः#} {%m.;%} ‘of life,’ {#आयुर्मर्य्यादा#}. — (Word,
+expression, appellation) {#संज्ञा, पदं, वाक्यं, शब्दः, वचनं, अभि-#}
+{#धानं, आख्या, नाम#} {%n.%} {#(न्), पद्धतिः#} {%f.%} — (Conditions) {#सङ्केतः, प्रतिज्ञा,#}
+{#नियमः, नियमवाक्यं#}. — (State of intercourse) {#व्यवहारः, वृत्तिः#} {%f.,%}
+{#परिचयभावः, परिचयः;#} ‘good terms,’ {#प्रीतिः#} {%f.,%} {#मैत्र्यं, संवित्तिः#} {%f.;%}
+‘ill terms,’ {#वितुष्टं, अतुष्टिः#} {%f.,%} {#अप्रीतिः#} {%f.%} — (Time of business)
+{#व्यवहारकालः, कार्य्यनिर्वाहकालः,#} {%see%} SESSION. — (Of a syllogism)
+{#अवयवः#}. — (Of an arithmetical series) {#पदं;#} ‘first term,’
+{#आदिपदं, मुखं;#} ‘last term,’ {#अन्त्यपदं#}.
 <LEND>

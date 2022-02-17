@@ -1,12 +1,12 @@
 <L>18198<pc>558<k1>punishment<k2>punishment
-<div n="lb"/>{@PUNISHMENT:@}¦ <div n="1">(1) {#दण्डः,#} <div n="xe">{%wise men consider p. to%}
-<div n="lb"/>{%be virtue:%}</div> <div n="xs">{#दण्डं धर्मं विदुर्बुधाः,#}</div> M. vii. 18.; <div n="xe">{%to in-%}
-<div n="lb"/>{%flict p. on those who deserve it;%}</div> <div n="xs">{#दण्डं दण्ड्ये षु #}
-<div n="lb"/>{# प्रणयति,#}</div> 20.; {%or%} rarely {#पातयति,#} B. iv. 32.; {%to%}
-<div n="lb"/>{%award p.%} ({%fine%}): {#दण्डं दापयति,#} V. s.; <div n="xe">{%corporeal%}
-<div n="lb"/>{%p.:%}</div> <div n="xs">{#शारीरो दण्डः,#}</div> Mr. ix.; <div n="xe">{%ignoble p.:%}</div> <div n="xs">{#निकारदण्डः,#}</div>
-<div n="lb"/>Mr. ix.; </div><div n="1">(2) {#दमः#} (rare: of fines), M. N. B.
-<div n="lb"/>Legal writers use {#उत्तमसाहसम्#} (= highest p.),
-<div n="lb"/>{#मध्यमसाहसम्#} (= intermediate p.), {#प्रथमसाहसम्#}
-<div n="lb"/>(= first or lowest p.).</div>
+{@PUNISHMENT:@}¦ <div n="1">(1) {#दण्डः,#} <div n="xe">{%wise men consider p. to%}
+{%be virtue:%}</div> <div n="xs">{#दण्डं धर्मं विदुर्बुधाः,#}</div> M. vii. 18.; <div n="xe">{%to in-%}
+{%flict p. on those who deserve it;%}</div> <div n="xs">{#दण्डं दण्ड्ये षु #}
+{# प्रणयति,#}</div> 20.; {%or%} rarely {#पातयति,#} B. iv. 32.; {%to%}
+{%award p.%} ({%fine%}): {#दण्डं दापयति,#} V. s.; <div n="xe">{%corporeal%}
+{%p.:%}</div> <div n="xs">{#शारीरो दण्डः,#}</div> Mr. ix.; <div n="xe">{%ignoble p.:%}</div> <div n="xs">{#निकारदण्डः,#}</div>
+Mr. ix.; </div><div n="1">(2) {#दमः#} (rare: of fines), M. N. B.
+Legal writers use {#उत्तमसाहसम्#} (= highest p.),
+{#मध्यमसाहसम्#} (= intermediate p.), {#प्रथमसाहसम्#}
+(= first or lowest p.).</div>
 <LEND>

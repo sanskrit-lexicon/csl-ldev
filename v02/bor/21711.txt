@@ -1,5 +1,5 @@
 <L>21711<pc>684<k1>stupor<k2>stupor
-<div n="lb"/>{@STUPOR:@}¦ <div n="1">(1) {#जाड्यम्;#} </div><div n="1">(2) {#जडता;#} </div><div n="1">(3) {#जडत्वम्;#}</div>
-<div n="lb"/><div n="1">(4) {#जडिमन्#} (m.): <div n="xe">{%to cause s.:%}</div> <div n="xs">{#जाड्यं जनयति;#}</div>
-<div n="lb"/><div n="xe">{%internal s.:%}</div> <div n="xs">{#अन्तर्जडिमा,#}</div> Gi. vi. 10.</div>
+{@STUPOR:@}¦ <div n="1">(1) {#जाड्यम्;#} </div><div n="1">(2) {#जडता;#} </div><div n="1">(3) {#जडत्वम्;#}</div>
+<div n="1">(4) {#जडिमन्#} (m.): <div n="xe">{%to cause s.:%}</div> <div n="xs">{#जाड्यं जनयति;#}</div>
+<div n="xe">{%internal s.:%}</div> <div n="xs">{#अन्तर्जडिमा,#}</div> Gi. vi. 10.</div>
 <LEND>

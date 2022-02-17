@@ -1,4 +1,4 @@
 <L>7725<pc>245<k1>epic<k2>epic
-<div n="lb"/>{@EPIC: Ph.:@}¦ <div n="xe">{%e. poem:%}</div> <div n="xs">{#महाकाव्यम्;#}</div> <div n="xe">{%e. poet:%}</div> <div n="xs">{#महाकाव्य-#}
-<div n="lb"/>{#लेखकः;#}</div> etc.
+{@EPIC: Ph.:@}¦ <div n="xe">{%e. poem:%}</div> <div n="xs">{#महाकाव्यम्;#}</div> <div n="xe">{%e. poet:%}</div> <div n="xs">{#महाकाव्य-#}
+{#लेखकः;#}</div> etc.
 <LEND>

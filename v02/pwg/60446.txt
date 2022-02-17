@@ -1,10 +1,10 @@
 <L>60446<pc>5-0773<k1>मित्रविन्द<k2>मित्रविन्द
-{#मित्रविन्द#}¦ {#(मित्र + विन्द)#} 
+{#मित्रविन्द#}¦ ({#मित्र + विन्द#}) 
 <div n="1"> 1) <lex>adj.</lex> {%Freunde gewinnend%}, Bez. eines <is>Agni</is> 
 <ls>MBH. 3, 14174.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. 
 <div n="2"> a) eines Sohnes des 
-<ls>12ten</ls> <is>Manu</is> 
+12ten <is>Manu</is> 
 <ls>MĀRK. P. 94, 26.</ls> 
 <div n="2">— b) eines Sohnes <is>Kṛṣṇa's</is> 
 <ls>HARIV. 9186.</ls> 
@@ -16,7 +16,7 @@
 <ls>ŚĀṄKH. ŚR. 3, 7, 1.</ls> 
 <ls>KĀTY. ŚR. 5, 12, 1.</ls> <ls>Schol. 110, 19. 111, 15.</ls> <ls>MĀRK. P. 51, 48. 72, 8.</ls> 
 <div n="2">— b) N. pr. einer Gattin <is>Kṛṣṇa's</is> 
-<ls>HARIV. 6701. 8986. 9180.</ls> 
+<ls>HARIV. 6701.</ls> <ls n="HARIV.">8986.</ls> <ls n="HARIV.">9180.</ls> 
 <ls>VP. 578.</ls> 
 <ls>PAÑCAR. 3, 7, 31. 15, 10.</ls>
 <LEND>

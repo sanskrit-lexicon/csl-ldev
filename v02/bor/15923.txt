@@ -1,10 +1,10 @@
 <L>15923<pc>490<k1>oppress<k2>oppress
-<div n="lb"/>{@OPPRESS:@}¦ <div n="1">(1) {#पीडयति, प्र-, उत्-, नि-, सं-, उप-#}
-<div n="lb"/>({#पीड्,#} c. 10.), <div n="xe">{%unjustly o. es men:%}</div> <div n="xs">{#अन्यायतः पीडयति #}
-<div n="lb"/>{# मानवान्,#}</div> Ram. i. 14. 17.; <div n="xe">{%was o. ed with the%}
-<div n="lb"/>{%enjoined price of (this) daughter:%}</div> <div n="xs">{#पीडितो दुहितृ-#}
-<div n="lb"/>{#शुल्कसंस्थया,#}</div> R. xi. 38.; </div><div n="1">(2) {#बाधते#} <div n="xe">{%or%}</div> <div n="xs">{#बाधयति, प्र-, #}
-<div n="lb"/>{# परि-,#}</div> ({#बाध्,#} c. </div><div n="I">I and c. 10.), <div n="xe">{%he o. es the three%}
-<div n="lb"/>{%worlds:%}</div> <div n="xs">{#स बाधयति लोकांस्त्रीन्,#}</div> Ram.; </div><div n="1">(3) {#उपप्लवते#}
-<div n="lb"/>({#प्ल,#} c. 1 (rare), Si.</div>
+{@OPPRESS:@}¦ <div n="1">(1) {#पीडयति, प्र-, उत्-, नि-, सं-, उप-#}
+({#पीड्,#} c. 10.), <div n="xe">{%unjustly o. es men:%}</div> <div n="xs">{#अन्यायतः पीडयति #}
+{# मानवान्,#}</div> Ram. i. 14. 17.; <div n="xe">{%was o. ed with the%}
+{%enjoined price of (this) daughter:%}</div> <div n="xs">{#पीडितो दुहितृ-#}
+{#शुल्कसंस्थया,#}</div> R. xi. 38.; </div><div n="1">(2) {#बाधते#} <div n="xe">{%or%}</div> <div n="xs">{#बाधयति, प्र-, #}
+{# परि-,#}</div> ({#बाध्,#} c. </div><div n="I">I and c. 10.), <div n="xe">{%he o. es the three%}
+{%worlds:%}</div> <div n="xs">{#स बाधयति लोकांस्त्रीन्,#}</div> Ram.; </div><div n="1">(3) {#उपप्लवते#}
+({#प्ल,#} c. 1 (rare), Si.</div>
 <LEND>

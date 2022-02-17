@@ -1,6 +1,6 @@
 <L>205<pc>009<k1>acquire<k2>acquire
-<div n="lb"/>{@ACQUIRE@}¦ (v. t.): <div n="1">(1) {#अर्जति, उप-,#} ({#अर्ज्,#} c. 1)
-<div n="lb"/>{%or%} commonly, {#उपार्जनं करोति#} (with gen.);</div>
-<div n="lb"/><div n="1">(2) {#अधि-गच्छति#} ({#गम्,#} c. 1), <div n="xe">{%to a. fame%}</div> <div n="xs">{#यशोधि-#}
-<div n="lb"/>{#गन्तुम्,#}</div> Ki. iii. 40. v. To gain, obtain.</div>
+{@ACQUIRE@}¦ (v. t.): <div n="1">(1) {#अर्जति, उप-,#} ({#अर्ज्,#} c. 1)
+{%or%} commonly, {#उपार्जनं करोति#} (with gen.);</div>
+<div n="1">(2) {#अधि-गच्छति#} ({#गम्,#} c. 1), <div n="xe">{%to a. fame%}</div> <div n="xs">{#यशोधि-#}
+{#गन्तुम्,#}</div> Ki. iii. 40. v. To gain, obtain.</div>
 <LEND>

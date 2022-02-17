@@ -1,7 +1,7 @@
 <L>95263<pc>491,1<k1>दृश्<k2>दृश्<h>1<e>1
 <hom>1.</hom> <s>दृश्</s> ¦ 
-(Pres. forms supplied by √ <s>पश्</s> <ab>q.v.</ab>;
-<ab>pf.</ab> <ab>P.</ab> <s>दद/र्श</s>, <ls>RV.</ls> &c. [2. <ab>sg.</ab> <s>ददर्शिथ</s> and <s>दद्रष्ठ</s>, <ls>Pāṇ. 7-2, 65</ls>];
+(<ab>Pres.</ab> forms supplied by √ <s>पश्</s> <ab>q.v.</ab>;
+<ab>pf.</ab> <ab>P.</ab> <s>दद/र्श</s>, <ls>RV.</ls> &c. [2. <ab>sg.</ab> <s>ददर्शिथ</s> and <s>दद्रष्ठ</s>, <ls>Pāṇ. vii, 2, 65</ls>];
 <ab>Ā.</ab> <s>ददृशे/</s>, <ls>AV.</ls> [<s>द/दृशे</s>, 3 <ab>pl.</ab> <s>°दृश्रे</s>, <ls>RV.</ls>;
 <s>°श्रिरे</s>, <ls>TBr.</ls>];
 <ab>p.</ab> <ab>P.</ab> <s>ददृश्व/स्</s>, <ls>RV.</ls>;
@@ -37,7 +37,7 @@
 <div n="to"/>to be shown or manifested, appear as (<s>इव</s>), prove, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.:
 <div n="vp"/><ab>Caus.</ab> <ab>Ā.</ab> <ab>P.</ab> <s>दर्शयति</s>, <s>°ते</s>, <ls>AV.</ls> &c.;
 <div n="vp"/> <ab>aor.</ab> <s>अदीदृशत्</s>, <ls>Br.</ls>;
-<div n="to"/> <s>अददर्शत्</s>, <ls>Pāṇ. 7-4, 7</ls>, to cause to see or be seen, to show a thing (<ab>Ā.</ab> <ab>esp.</ab> of something belonging to one's self) or person (<ab>P.</ab> and <ab>Ā.</ab> with or <ab>scil.</ab> <s>आत्मानम्</s>, also one's self), to (<ab>acc.</ab> <ls>AV. iv, 20, 6</ls>; <ls>ŚBr.</ls> &c.; <ab>gen.</ab> <ls>Mn. iv, 59</ls>; <ls>MBh.</ls> &c.; <ab>dat.</ab> <ls>R. ii, 31, 33</ls>; <ls>Ragh.</ls> &c.; <ab>instr.</ab> after <ab>Ā.</ab> refl, <ls>Pāṇ. 1-4, 53</ls>; <ls>Kāś.</ls>);
+<div n="to"/> <s>अददर्शत्</s>, <ls>Pāṇ. vii, 4, 7</ls>, to cause to see or be seen, to show a thing (<ab>Ā.</ab> <ab>esp.</ab> of something belonging to one's self) or person (<ab>P.</ab> and <ab>Ā.</ab> with or <ab>scil.</ab> <s>आत्मानम्</s>, also one's self), to (<ab>acc.</ab> <ls>AV. iv, 20, 6</ls>; <ls>ŚBr.</ls> &c.; <ab>gen.</ab> <ls>Mn. iv, 59</ls>; <ls>MBh.</ls> &c.; <ab>dat.</ab> <ls>R. ii, 31, 33</ls>; <ls>Ragh.</ls> &c.; <ab>instr.</ab> after <ab>Ā.</ab> refl, <ls>Pāṇ. i, 4, 53</ls>; <ls>Kāś.</ls>);
 <div n="to"/>to show = prove, demonstrate, <ls>Mn.</ls>; <ls>MBh.</ls>; <ls>Kāv.</ls> &c.;
 <div n="to"/>to produce (money) <ab>i.e.</ab> pay, <ls>Mn. viii, 155</ls>;
 <div n="vp"/> (a witness), <ls>158</ls> :
@@ -45,5 +45,5 @@
 <div n="vp"/><ab>Desid.</ab> of <ab>Caus.</ab> <s>दिदर्शयिषति</s>, to wish to show, <ls>Śaṃk.</ls>;
 <div n="vp"/> <s>अदिदर्शयिषीत्</s>, <ls>Nid.</ls> :
 <div n="to"/><ab>Intens.</ab> <s>दरीदृश्यते</s>, to be always visible, <ls>Bhojapr.</ls>;
-<div n="vp"/> <s>दरी<shortlong/>दर्ष्टि</s> or <s>दर्द्°</s>, <ls>Pāṇ. 7-4, 90; 91.</ls> <info whitneyroots="dfS,78"/><info verb="genuineroot" cp="0P,0Ā"/>
+<div n="vp"/> <s>दरी<स्होर्त्लोन्ग्/>दर्ष्टि</s> or <s>दर्द्°</s>, <ls>Pāṇ. vii, 4, 90</ls>; <ls n="Pāṇ. vii, 4">91</ls>. <info whitneyroots="dfS,78"/><info verb="genuineroot" cp="0P,0Ā"/>
 <LEND>

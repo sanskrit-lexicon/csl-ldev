@@ -1,6 +1,6 @@
 <L>20581<pc>645<k1>sincerity<k2>sincerity
-<div n="lb"/>{@SINCERITY:@}¦ <div n="1">(1) {#अकृत्रिमता#} (= unaffectedness);</div>
-<div n="lb"/><div n="1">(2) {#विशुद्धता#} (= purity); </div><div n="1">(3) {#सरलता#} (= simpli-
-<div n="lb"/>-city); </div><div n="1">(4) {#निव्यार्जता#} (= guilelessness); </div><div n="1">(5)
-<div n="lb"/>{#यथार्थता#} (= genuineness, reality).</div>
+{@SINCERITY:@}¦ <div n="1">(1) {#अकृत्रिमता#} (= unaffectedness);</div>
+<div n="1">(2) {#विशुद्धता#} (= purity); </div><div n="1">(3) {#सरलता#} (= simpli-
+-city); </div><div n="1">(4) {#निव्यार्जता#} (= guilelessness); </div><div n="1">(5)
+{#यथार्थता#} (= genuineness, reality).</div>
 <LEND>

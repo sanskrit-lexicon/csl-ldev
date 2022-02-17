@@ -1,13 +1,13 @@
 <L>3422<pc>113<k1>change<k2>change
-<div n="lb"/>{@CHANGE@}¦ (v. t.): <div n="I">I To alter: </div><div n="1">(1) {#परिवर्तयति#} (c.
-<div n="lb"/>of {#वृत्#}) <div n="xe">{%or%}</div> <div n="xs">{#परिवर्त्तं, परिवर्तनं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#परिवृत्तिं करोति,#}</div> <div n="xe">{%should%}
-<div n="lb"/>{%c. the deed%}</div> <div n="xs">{#करणं परिवर्तयेत्,#}</div> M.; <div n="xe">{%what, she had c. d%}
-<div n="lb"/>{%her voice%}</div> <div n="xs">{#कथं स्वरपरिवर्तः कृतः,#}</div> Mr. i.; </div><div n="1">(2) by
-<div n="lb"/>{#अन्यः#} ({#न्या, न्यत्#}) <div n="xe">{%or%}</div> <div n="xs">{#भिन्नः#}</div> ({#न्ना, न्नं#}) <div n="xe">{%or%}</div> <div n="xs">{#अन्तर#}</div>-
-<div n="lb"/>-affixed: <div n="xe">{%as if you are c. d in appearance%}</div> <div n="xs">{#त्वमन्य-#}
-<div n="lb"/>{#माकारमिवाभिपन्नः।#}</div> Ki. iii. 43. </div><div n="I">II To substi-
-<div n="lb"/>-tute one for another: <div n="xe">{%c. ing our rings%}</div> <div n="xs">{#अङ्गुलीयक-#}
-<div n="lb"/>{#विनिमयं कृत्वा,#}</div> D. ii. </div><div n="I">III To exchange: </div><div n="1">(1)
-<div n="lb"/>{#परिवर्तयति#} (?); </div><div n="1">(2) by circulo: <div n="xe">{%go and c. this%}
-<div n="lb"/>{%note%}</div> <div n="xs">{#*पत्रमिदं दत्त्वा टङ्कमानय।#}</div></div>
+{@CHANGE@}¦ (v. t.): <div n="I">I To alter: </div><div n="1">(1) {#परिवर्तयति#} (c.
+of {#वृत्#}) <div n="xe">{%or%}</div> <div n="xs">{#परिवर्त्तं, परिवर्तनं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#परिवृत्तिं करोति,#}</div> <div n="xe">{%should%}
+{%c. the deed%}</div> <div n="xs">{#करणं परिवर्तयेत्,#}</div> M.; <div n="xe">{%what, she had c. d%}
+{%her voice%}</div> <div n="xs">{#कथं स्वरपरिवर्तः कृतः,#}</div> Mr. i.; </div><div n="1">(2) by
+{#अन्यः#} ({#न्या, न्यत्#}) <div n="xe">{%or%}</div> <div n="xs">{#भिन्नः#}</div> ({#न्ना, न्नं#}) <div n="xe">{%or%}</div> <div n="xs">{#अन्तर#}</div>-
+-affixed: <div n="xe">{%as if you are c. d in appearance%}</div> <div n="xs">{#त्वमन्य-#}
+{#माकारमिवाभिपन्नः।#}</div> Ki. iii. 43. </div><div n="I">II To substi-
+-tute one for another: <div n="xe">{%c. ing our rings%}</div> <div n="xs">{#अङ्गुलीयक-#}
+{#विनिमयं कृत्वा,#}</div> D. ii. </div><div n="I">III To exchange: </div><div n="1">(1)
+{#परिवर्तयति#} (?); </div><div n="1">(2) by circulo: <div n="xe">{%go and c. this%}
+{%note%}</div> <div n="xs">{#*पत्रमिदं दत्त्वा टङ्कमानय।#}</div></div>
 <LEND>

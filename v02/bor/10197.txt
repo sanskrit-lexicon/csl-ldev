@@ -1,7 +1,7 @@
 <L>10197<pc>322<k1>grape<k2>grape
-<div n="lb"/>{@GRAPE:@}¦ {#द्राक्षा,#} <div n="xe">{%mountain- g.:%}</div> <div n="xs">{#वर्वतजा द्राक्षा;#}</div> <div n="xe">{%g. with-%}
-<div n="lb"/>{%out stone or seedless g.:%}</div> <div n="xs">{#अवीजा द्राक्षा;#}</div> {%large g.:%}
-<div n="lb"/>{#गोस्तनी द्राक्षा,#} Bha. N.B. These words are
-<div n="lb"/>often applied to {%raisins,%} Bha.: for distinc-
-<div n="lb"/>-tion, add {#आमा#} <div n="xe">{%or%}</div> <div n="xs">{#पक्वा।#}</div>
+{@GRAPE:@}¦ {#द्राक्षा,#} <div n="xe">{%mountain- g.:%}</div> <div n="xs">{#वर्वतजा द्राक्षा;#}</div> <div n="xe">{%g. with-%}
+{%out stone or seedless g.:%}</div> <div n="xs">{#अवीजा द्राक्षा;#}</div> {%large g.:%}
+{#गोस्तनी द्राक्षा,#} Bha. N.B. These words are
+often applied to {%raisins,%} Bha.: for distinc-
+-tion, add {#आमा#} <div n="xe">{%or%}</div> <div n="xs">{#पक्वा।#}</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>14340<pc>440<k1>mean<k2>mean
-<div n="lb"/>{@MEAN@}¦ (v.): <div n="I">I To intend: q. v.: {#अभिप्रैति#} ({#इ,#}
-<div n="lb"/>c. 2.). </div><div n="I">II To indicate: q. v.: {#सूचयति#} ({#सूच्,#}
-<div n="lb"/>c. 10.). </div><div n="I">III To denote, signify: expr.
-<div n="lb"/>with {#अर्थः,#} {%I will call the mistress and ascer-%}
-<div n="lb"/>{%tain what%} ({%all this%}) <div n="xe">{%really m.s:%}</div> <div n="xs">{#कुटुम्बिनीं शब्दाय्य #}
-<div n="lb"/>{# परमार्थं ज्ञास्यामि,#}</div> Mr. i.</div>
+{@MEAN@}¦ (v.): <div n="I">I To intend: q. v.: {#अभिप्रैति#} ({#इ,#}
+c. 2.). </div><div n="I">II To indicate: q. v.: {#सूचयति#} ({#सूच्,#}
+c. 10.). </div><div n="I">III To denote, signify: expr.
+with {#अर्थः,#} {%I will call the mistress and ascer-%}
+{%tain what%} ({%all this%}) <div n="xe">{%really m.s:%}</div> <div n="xs">{#कुटुम्बिनीं शब्दाय्य #}
+{# परमार्थं ज्ञास्यामि,#}</div> Mr. i.</div>
 <LEND>

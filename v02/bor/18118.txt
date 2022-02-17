@@ -1,12 +1,12 @@
 <L>18118<pc>555<k1>public<k2>public
-<div n="lb"/>{@PUBLIC@}¦ (adj.): <div n="I">I Of the p.: expr. by comp.
-<div n="lb"/>or gen., <div n="xe">{%for the p. good:%}</div> <div n="xs">{#प्रकृतिहिताय,#}</div> Sa. vii.,
-<div n="lb"/>{#लोकानुग्रहः,#} R. x. 31.; {%afraid of p. scandal:%}
-<div n="lb"/>{#जननिर्वादभयात्,#} Ki. ii. 10. </div><div n="I">II Relating to the
-<div n="lb"/>state: <div n="xe">{%p. affairs:%}</div> <div n="xs">{#राजकार्याणि;#}</div> {%at the p. expenses:%}
-<div n="lb"/>{#राजव्ययेन#} (better {#राष्ट्रव्ययेन,#} though uncommon).</div>
-<div n="lb"/><div n="I">III Not private or secret: {#प्रकाश#} (f. {#शा#}).
-<div n="lb"/><div n="xe">{%keeping in p.:%}</div> <div n="xs">{#प्रकाशावस्थापनम्,#}</div> D. iv.; <div n="xe">{%p.%}
-<div n="lb"/>{%woman:%}</div> <div n="xs">{#प्रकाशनारी,#}</div> Mr. iii. </div><div n="I">IV Open to
-<div n="lb"/>common uses: {#साधारण-#} in comp.</div>
+{@PUBLIC@}¦ (adj.): <div n="I">I Of the p.: expr. by comp.
+or gen., <div n="xe">{%for the p. good:%}</div> <div n="xs">{#प्रकृतिहिताय,#}</div> Sa. vii.,
+{#लोकानुग्रहः,#} R. x. 31.; {%afraid of p. scandal:%}
+{#जननिर्वादभयात्,#} Ki. ii. 10. </div><div n="I">II Relating to the
+state: <div n="xe">{%p. affairs:%}</div> <div n="xs">{#राजकार्याणि;#}</div> {%at the p. expenses:%}
+{#राजव्ययेन#} (better {#राष्ट्रव्ययेन,#} though uncommon).</div>
+<div n="I">III Not private or secret: {#प्रकाश#} (f. {#शा#}).
+<div n="xe">{%keeping in p.:%}</div> <div n="xs">{#प्रकाशावस्थापनम्,#}</div> D. iv.; <div n="xe">{%p.%}
+{%woman:%}</div> <div n="xs">{#प्रकाशनारी,#}</div> Mr. iii. </div><div n="I">IV Open to
+common uses: {#साधारण-#} in comp.</div>
 <LEND>

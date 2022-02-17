@@ -1,4 +1,4 @@
 <L>15126<pc>462<k1>murderer<k2>murderer
-<div n="lb"/>{@MURDERER:@}¦ {#घातकः,#} <div n="xe">{%secret m.:%}</div> <div n="xs">{#उपांशुघातकः,#}</div> Vri.:
-<div n="lb"/>v. Killer.
+{@MURDERER:@}¦ {#घातकः,#} <div n="xe">{%secret m.:%}</div> <div n="xs">{#उपांशुघातकः,#}</div> Vri.:
+v. Killer.
 <LEND>

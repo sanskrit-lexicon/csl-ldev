@@ -5,8 +5,8 @@
 <ls>MBH. 1, 7682.</ls> {#अस्त्र#} 
 <ls>3, 11900. 6, 5802.</ls> {#स्थान#} 
 <ls>HARIV. 2703.</ls> {#कर्मन्#} 
-<ls>2162. 12311.</ls> {#वाक्य#} 
-<ls>9660.</ls> {#धिषण#} 
+<ls n="HARIV.">2162.</ls> <ls n="HARIV.">12311.</ls> {#वाक्य#} 
+<ls n="HARIV.">9660.</ls> {#धिषण#} 
 <ls>BHĀG. P. 6, 7, 13.</ls> {#धामन्#} 
 <ls>7, 3, 33.</ls> {#पद#} 
 <ls>9, 15, 39.</ls> <lex>n.</lex> pl. {%die Insignien des Oberhauptes, die königlichen Insignien%} 

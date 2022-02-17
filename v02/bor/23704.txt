@@ -1,11 +1,11 @@
 <L>23704<pc>743<k1>variegate<k2>variegate
-<div n="lb"/>{@VARIEGATE:@}¦ <div n="1">(1) {#चित्रयति#} (nomi.); </div><div n="1">(2) {#चित्री-#}
-<div n="lb"/>{#करोति;#} </div><div n="1">(3) {#कर्वुरीकरोति;#} </div><div n="1">(4) {#शबलीकरोति,#} V. d:</div>
-<div n="lb"/><div n="1">(1) {#चित्र#} (f. {#त्रा#}); </div><div n="1">(2) {#चित्रविचित्र#} (f. {#त्रा#});</div>
-<div n="lb"/><div n="1">(3) {#कवुर#} (f. {#रा#}) <div n="xe">{%or%}</div> <div n="xs">{#कर्वुरित#}</div> (f. {#ता#}), <div n="xe">{%v. d like the%}
-<div n="lb"/>{%dove:%}</div> <div n="xs">{#कपोतकर्वुर#}</div> (f. {#रा#}), Ku. iv. 27.; </div><div n="1">(4)
-<div n="lb"/>{#किर्मीर#} (f. {#रा#}) <div n="xe">{%or%}</div> <div n="xs">{#किर्मीरित#}</div> (f. {#ता#}), <div n="xe">{%v. d with%}
-<div n="lb"/>{%planets:%}</div> <div n="xs">{#ग्राहौघकिर्मीरित#}</div> (f. {#ता#}), N. xxii. 18.:</div>
-<div n="lb"/><div n="1">(5) {#शबल#} (f. {#ला#}), <div n="xe">{%the v. d sky:%}</div> <div n="xs">{#शबलं विहायः,#}</div> Vi.
-<div n="lb"/>vii. 26.; </div><div n="1">(6) {#कम्बर#} (f. {#राः#} rare).</div>
+{@VARIEGATE:@}¦ <div n="1">(1) {#चित्रयति#} (nomi.); </div><div n="1">(2) {#चित्री-#}
+{#करोति;#} </div><div n="1">(3) {#कर्वुरीकरोति;#} </div><div n="1">(4) {#शबलीकरोति,#} V. d:</div>
+<div n="1">(1) {#चित्र#} (f. {#त्रा#}); </div><div n="1">(2) {#चित्रविचित्र#} (f. {#त्रा#});</div>
+<div n="1">(3) {#कवुर#} (f. {#रा#}) <div n="xe">{%or%}</div> <div n="xs">{#कर्वुरित#}</div> (f. {#ता#}), <div n="xe">{%v. d like the%}
+{%dove:%}</div> <div n="xs">{#कपोतकर्वुर#}</div> (f. {#रा#}), Ku. iv. 27.; </div><div n="1">(4)
+{#किर्मीर#} (f. {#रा#}) <div n="xe">{%or%}</div> <div n="xs">{#किर्मीरित#}</div> (f. {#ता#}), <div n="xe">{%v. d with%}
+{%planets:%}</div> <div n="xs">{#ग्राहौघकिर्मीरित#}</div> (f. {#ता#}), N. xxii. 18.:</div>
+<div n="1">(5) {#शबल#} (f. {#ला#}), <div n="xe">{%the v. d sky:%}</div> <div n="xs">{#शबलं विहायः,#}</div> Vi.
+vii. 26.; </div><div n="1">(6) {#कम्बर#} (f. {#राः#} rare).</div>
 <LEND>

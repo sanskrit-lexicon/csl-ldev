@@ -1,6 +1,6 @@
 <L>8040<pc>254<k1>execution<k2>execution
-<div n="lb"/>{@EXECUTION:@}¦ <div n="I">I Accomplishment: </div><div n="1">(1)
-<div n="lb"/>{#अनुष्ठानम्;#} </div><div n="1">(2) {#निष्पादनम्;#} </div><div n="1">(3) {#निर्वाहः।#} </div><div n="I">II Of
-<div n="lb"/>deeds: {#करणम्।#} </div><div n="I">III Putting to death:
-<div n="lb"/>{#व्यापादनम्।#} Ph.: <div n="xe">{%place of e.:%}</div> <div n="xs">{#वध्यभूमिः,#}</div> Mu.</div>
+{@EXECUTION:@}¦ <div n="I">I Accomplishment: </div><div n="1">(1)
+{#अनुष्ठानम्;#} </div><div n="1">(2) {#निष्पादनम्;#} </div><div n="1">(3) {#निर्वाहः।#} </div><div n="I">II Of
+deeds: {#करणम्।#} </div><div n="I">III Putting to death:
+{#व्यापादनम्।#} Ph.: <div n="xe">{%place of e.:%}</div> <div n="xs">{#वध्यभूमिः,#}</div> Mu.</div>
 <LEND>

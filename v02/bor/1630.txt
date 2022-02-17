@@ -1,4 +1,4 @@
 <L>1630<pc>057<k1>barley<k2>barley
-<div n="lb"/>{@BARLEY:@}¦ {#यवः।#} <div n="xe">{%Fit for producing b.%}</div> <div n="xs">{#यवक्यः#}</div> ({#क्या, #}
-<div n="lb"/>{# क्यं#}). <div n="xe">{%made of b.%}</div> <div n="xs">{#यवमयः#}</div> ({#यी, यं#}).
+{@BARLEY:@}¦ {#यवः।#} <div n="xe">{%Fit for producing b.%}</div> <div n="xs">{#यवक्यः#}</div> ({#क्या, #}
+{# क्यं#}). <div n="xe">{%made of b.%}</div> <div n="xs">{#यवमयः#}</div> ({#यी, यं#}).
 <LEND>

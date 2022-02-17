@@ -1,5 +1,5 @@
 <L>15085<pc>461<k1>muffler<k2>muffler
-<div n="lb"/>{@MUFFLER:@}¦ <div n="1">(1) {#अवगुण्ठनम्,#} {%let me remove your m.:%}
-<div n="lb"/>{#अपनेष्यामि तावत्तेऽवगुण्ठनम्,#} Sa.; </div><div n="1">(2) {#अंशुकम्#} (when
-<div n="lb"/>the sense is clear), Ki. ix. 24.</div>
+{@MUFFLER:@}¦ <div n="1">(1) {#अवगुण्ठनम्,#} {%let me remove your m.:%}
+{#अपनेष्यामि तावत्तेऽवगुण्ठनम्,#} Sa.; </div><div n="1">(2) {#अंशुकम्#} (when
+the sense is clear), Ki. ix. 24.</div>
 <LEND>

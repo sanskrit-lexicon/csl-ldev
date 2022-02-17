@@ -1,8 +1,8 @@
 <L>19230<pc>596<k1>return<k2>return
-<div n="lb"/>{@RETURN, IN:@}¦ {#प्रति-#} in comp. <div n="xe">{%If I do not do some%}
-<div n="lb"/>{%good to you in r.:%}</div> <div n="xs">{#प्रतिप्रियं चेद्भवतो न कुर्याम्,#}</div> R. v.
-<div n="lb"/>56.; <div n="xe">{%Ś. has done befitting good to f. in r. for%}
-<div n="lb"/>{%his life:%}</div> <div n="xs">{#प्राणप्रदस्य सुसदृशं प्रत्युपकृतं जीमूतवाहनस्य #}
-<div n="lb"/>{# शङ्खचूडेन,#}</div> Na. v.; <div n="xe">{%action in r.:%}</div> <div n="xs">{#प्रतिक्रिया,#}</div>
-<div n="lb"/>Mr. iii.
+{@RETURN, IN:@}¦ {#प्रति-#} in comp. <div n="xe">{%If I do not do some%}
+{%good to you in r.:%}</div> <div n="xs">{#प्रतिप्रियं चेद्भवतो न कुर्याम्,#}</div> R. v.
+56.; <div n="xe">{%Ś. has done befitting good to f. in r. for%}
+{%his life:%}</div> <div n="xs">{#प्राणप्रदस्य सुसदृशं प्रत्युपकृतं जीमूतवाहनस्य #}
+{# शङ्खचूडेन,#}</div> Na. v.; <div n="xe">{%action in r.:%}</div> <div n="xs">{#प्रतिक्रिया,#}</div>
+Mr. iii.
 <LEND>

@@ -20,13 +20,13 @@
 {#क्षुधार्तश्चात्तुमभ्यागाद्विश्वामित्रः श्वजाघनीम् । चण्डालहस्तादादाय धर्माधर्मविचक्षणः ॥#} 
 <ls>M. 10, 108.</ls> 
 <ls>VP. 371.</ls> {#°प्रभृतयः प्राप्ता ब्रह्मत्वमव्ययम्#} 
-<ls>MBH. 1, 5432. 5, 3907. fgg. 9, 2296. fgg. 13, 246. fgg.</ls> 
-<ls>HARIV. 440. 725. fgg. 1457. fgg. 1766. fgg. 14148.</ls> 
+<ls>MBH. 1, 5432.</ls> <ls n="MBH.">5, 3907. fgg.</ls> <ls n="MBH.">9, 2296. fgg.</ls> <ls n="MBH.">13, 246. fgg.</ls> 
+<ls>HARIV. 440.</ls> <ls n="HARIV.">725. fgg.</ls> <ls n="HARIV.">1457. fgg.</ls> <ls n="HARIV.">1766. fgg.</ls> <ls n="HARIV.">14148.</ls> 
 <ls>R. 1, 20, 2. fgg.</ls> 
 <ls>Spr. 2853.</ls> 
 <ls>VP. 264. 400. 404. fg.</ls> 
 <ls>RĀJA-TAR. 4, 646.</ls> sein Zwist mit <is>Vasiṣṭha</is> 
-<ls>MBH. 1, 6710. fgg. 9, 2365. fgg.</ls> 
+<ls>MBH. 1, 6710. fgg.</ls> <ls n="MBH.">9, 2365. fgg.</ls> 
 <ls>R. 1, 51. fgg.</ls> 
 <ls>VP. 373,</ls> 
 <ls>N. 9.</ls> Verfasser eines Gesetzbuchs 
@@ -46,7 +46,7 @@
 <ls>MBH. 13, 4493.</ls> 
 <ls>MĀRK. P. 8, 234.fg.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ#} N. pr. eines Flusses 
-<ls>MBH. 6, 334</ls> <ls>?(VP. 183)</ls>; vgl. {#विश्वामित्रनदी#} 
+<ls>MBH. 6, 334</ls> (<ls>VP. 183</ls>); vgl. {#विश्वामित्रनदी#} 
 <ls>3, 8362.</ls> 
 <div n="v">— Vgl. {#वैश्वामित्र#} .
 <LEND>

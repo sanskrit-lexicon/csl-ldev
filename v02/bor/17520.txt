@@ -1,19 +1,19 @@
 <L>17520<pc>536<k1>practice<k2>practice
-<div n="lb"/>{@PRACTICE@}¦ (subs.): <div n="I">I Customary actions:</div>
-<div n="lb"/><div n="1">(1) {#अभ्यासः,#} <div n="xe">{%from great p.:%}</div> <div n="xs">{#अत्याभ्यासात्,#}</div> Mah.
-<div n="lb"/>i. 130. 22. com.; </div><div n="1">(2) {#खुरली#} (military: rare),
-<div n="lb"/><div n="xe">{%who has had p. in the use of arms:%}</div> <div n="xs">{#अस्त्रप्रयोग-#}
-<div n="lb"/>{#खुरली,#}</div> Vi. ii. 34.; </div><div n="1">(3) {#शिक्षा#} (= learning),
-<div n="lb"/><div n="xe">{%gifted with use and p.:%}</div> <div n="xs">{#प्रयोगशिक्षागुणभूषणेषु,#}</div> Ki.
-<div n="lb"/>xvi. 6.; </div><div n="1">(4) {#अनुग्रहणम्#} (?), Mah. i. 130.
-<div n="lb"/>24. </div><div n="1">(5) {#योग्या#} (medical or military), <div n="xe">{%to%}
-<div n="lb"/>{%train up in p.:%}</div> <div n="xs">{#योग्यां कारयति,#}</div> Sr. i. 9. </div><div n="I">II
-<div n="lb"/>Custom: q. v.: {#आचारः।#} </div><div n="I">III Habitually
-<div n="lb"/>doing: </div><div n="1">(1) {#क्रियाप्रबन्धः,#} R. vi. 23.; </div><div n="1">(2)
-<div n="lb"/>{#अनुष्ठानसातत्यम्,#} M. n.; and sim. comp.s. </div><div n="I">IV
-<div n="lb"/>Use, action: q. v.: {#व्यवहारः।#} Ph.: <div n="xe">{%consumma-%}
-<div n="lb"/>{%tion of bad p. s:%}</div> <div n="xs">{#दुष्कर्मणां परिपाकः,#}</div> Vi. </div><div n="I">V Exer-
-<div n="lb"/>-cise of any profession: expr. by circumlo.,
-<div n="lb"/><div n="xe">{%the doctor has great p.:%}</div> <div n="xs">{#*बहुभिराहूयते वैद्यः।#}</div> </div><div n="I">VI
-<div n="lb"/>Stratagem: {#कौशलम्।#}</div>
+{@PRACTICE@}¦ (subs.): <div n="I">I Customary actions:</div>
+<div n="1">(1) {#अभ्यासः,#} <div n="xe">{%from great p.:%}</div> <div n="xs">{#अत्याभ्यासात्,#}</div> Mah.
+i. 130. 22. com.; </div><div n="1">(2) {#खुरली#} (military: rare),
+<div n="xe">{%who has had p. in the use of arms:%}</div> <div n="xs">{#अस्त्रप्रयोग-#}
+{#खुरली,#}</div> Vi. ii. 34.; </div><div n="1">(3) {#शिक्षा#} (= learning),
+<div n="xe">{%gifted with use and p.:%}</div> <div n="xs">{#प्रयोगशिक्षागुणभूषणेषु,#}</div> Ki.
+xvi. 6.; </div><div n="1">(4) {#अनुग्रहणम्#} (?), Mah. i. 130.
+24. </div><div n="1">(5) {#योग्या#} (medical or military), <div n="xe">{%to%}
+{%train up in p.:%}</div> <div n="xs">{#योग्यां कारयति,#}</div> Sr. i. 9. </div><div n="I">II
+Custom: q. v.: {#आचारः।#} </div><div n="I">III Habitually
+doing: </div><div n="1">(1) {#क्रियाप्रबन्धः,#} R. vi. 23.; </div><div n="1">(2)
+{#अनुष्ठानसातत्यम्,#} M. n.; and sim. comp.s. </div><div n="I">IV
+Use, action: q. v.: {#व्यवहारः।#} Ph.: <div n="xe">{%consumma-%}
+{%tion of bad p. s:%}</div> <div n="xs">{#दुष्कर्मणां परिपाकः,#}</div> Vi. </div><div n="I">V Exer-
+-cise of any profession: expr. by circumlo.,
+<div n="xe">{%the doctor has great p.:%}</div> <div n="xs">{#*बहुभिराहूयते वैद्यः।#}</div> </div><div n="I">VI
+Stratagem: {#कौशलम्।#}</div>
 <LEND>

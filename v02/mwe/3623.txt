@@ -1,10 +1,10 @@
 <L>3623<pc>078-a<k1>capital<k2>capital
-<div n="lb"/>CAPITAL¦, {%a.%} (Relating to the head) {#मस्तकसम्बन्धी -न्धिनी -न्धि (न्)#}.
-<div n="lb"/> — (Chief, principal) {#परमः -मा -मं, मुख्यः -ख्या -ख्यं, उत्तमः -मा -मं,#}
-<div n="lb"/>{#अग्र्यः -ग्र्या -ग्र्यं, विशिष्टः -ष्टा -ष्टं, श्रेष्ठः -ष्ठा -ष्ठं, प्रधानः#} in comp.
-<div n="lb"/> — (Criminal in the highest degree, worthy of death)
-<div n="lb"/>{#महापातकी -किनी -कि (न्), बधार्हः -र्हा -र्हं, बधदण्ड्यः -ण्ड्या -ण्ड्यं;#} ‘a
-<div n="lb"/>capital crime,’ {#महापातकं, महापापं#}. — (A capital city) {#पुरोत्तमः,#}
-<div n="lb"/>{%see%} the next. — (Capital punishment) {#बधदण्डं, उत्तमसाहसं,#}
-<div n="lb"/>{#प्राणहननं, प्राणदण्डः#}. — (Capital stock) {#मूलद्रव्यं#}.
+CAPITAL¦, {%a.%} (Relating to the head) {#मस्तकसम्बन्धी -न्धिनी -न्धि (न्)#}.
+ — (Chief, principal) {#परमः -मा -मं, मुख्यः -ख्या -ख्यं, उत्तमः -मा -मं,#}
+{#अग्र्यः -ग्र्या -ग्र्यं, विशिष्टः -ष्टा -ष्टं, श्रेष्ठः -ष्ठा -ष्ठं, प्रधानः#} in comp.
+ — (Criminal in the highest degree, worthy of death)
+{#महापातकी -किनी -कि (न्), बधार्हः -र्हा -र्हं, बधदण्ड्यः -ण्ड्या -ण्ड्यं;#} ‘a
+capital crime,’ {#महापातकं, महापापं#}. — (A capital city) {#पुरोत्तमः,#}
+{%see%} the next. — (Capital punishment) {#बधदण्डं, उत्तमसाहसं,#}
+{#प्राणहननं, प्राणदण्डः#}. — (Capital stock) {#मूलद्रव्यं#}.
 <LEND>

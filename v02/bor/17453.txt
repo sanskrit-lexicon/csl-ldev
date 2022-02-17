@@ -1,6 +1,6 @@
 <L>17453<pc>534<k1>possibly<k2>possibly
-<div n="lb"/>{@POSSIBLY:@}¦ <div n="I">I Lit.: expr. by {#शक्यते#} (pass. of
-<div n="lb"/>{#शक्#}), <div n="xe">{%what can p. be known:%}</div> <div n="xs">{#यत् ज्ञातुं शक्यते।#}</div></div>
-<div n="lb"/><div n="I">II Perhaps, probably: q. v.: </div><div n="1">(1) {#सम्भवतः;#}</div>
-<div n="lb"/><div n="1">(2) {#सम्भावयामि#} etc. (= I think).</div>
+{@POSSIBLY:@}¦ <div n="I">I Lit.: expr. by {#शक्यते#} (pass. of
+{#शक्#}), <div n="xe">{%what can p. be known:%}</div> <div n="xs">{#यत् ज्ञातुं शक्यते।#}</div></div>
+<div n="I">II Perhaps, probably: q. v.: </div><div n="1">(1) {#सम्भवतः;#}</div>
+<div n="1">(2) {#सम्भावयामि#} etc. (= I think).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>3611<pc>119<k1>choice<k2>choice
-<div n="lb"/>{@CHOICE@}¦ (adj.): <div n="I">I Superior in quality: </div><div n="1">(1)
-<div n="lb"/>{#विशिष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(2) {#सर्वोत्तमः#} ({#मा, मं#}) (=best);</div>
-<div n="lb"/><div n="1">(3) {#महार्हः#} ({#र्हा, र्हं#}) (=valuable), <div n="xe">{%c. bed:%}</div> <div n="xs">{#भहार्ह-#}
-<div n="lb"/>{#शय्या,#}</div> Ki. Ph.: <div n="xe">{%with c. food:%}</div> <div n="xs">{#भोजनविशेषैः,#}</div> A.</div>
-<div n="lb"/><div n="I">II Select: q. v. </div><div n="I">III Frugal: q. v.</div>
+{@CHOICE@}¦ (adj.): <div n="I">I Superior in quality: </div><div n="1">(1)
+{#विशिष्टः#} ({#ष्टा, ष्टं#}); </div><div n="1">(2) {#सर्वोत्तमः#} ({#मा, मं#}) (=best);</div>
+<div n="1">(3) {#महार्हः#} ({#र्हा, र्हं#}) (=valuable), <div n="xe">{%c. bed:%}</div> <div n="xs">{#भहार्ह-#}
+{#शय्या,#}</div> Ki. Ph.: <div n="xe">{%with c. food:%}</div> <div n="xs">{#भोजनविशेषैः,#}</div> A.</div>
+<div n="I">II Select: q. v. </div><div n="I">III Frugal: q. v.</div>
 <LEND>

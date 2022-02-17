@@ -1,8 +1,8 @@
 <L>1047<pc>036<k1>ardent<k2>ardent
-<div n="lb"/>{@ARDENT:@}¦ <div n="I">I Fiery, hot: q. v.: {#प्रचण्डः#} ({#ण्डा, ण्डं#}).</div>
-<div n="lb"/><div n="I">II Eager: Ph. {%a. eyes%} (of a lover) {#सतृष्णनयने।#}</div>
-<div n="lb"/><div n="I">III Warm, affectionate: {#अत्यन्तः#} ({#न्ता, न्तं#})
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#निरतिशयः#}</div> ({#या, यं#}) (=excessive), {%a. love%} [Page037]
-<div n="lb"/>{#निरतिशयानुरागः:#} Ph. {%a. vows%} (of a lover) {#शपथाः#}
-<div n="lb"/>(m. pl.).</div>
+{@ARDENT:@}¦ <div n="I">I Fiery, hot: q. v.: {#प्रचण्डः#} ({#ण्डा, ण्डं#}).</div>
+<div n="I">II Eager: Ph. {%a. eyes%} (of a lover) {#सतृष्णनयने।#}</div>
+<div n="I">III Warm, affectionate: {#अत्यन्तः#} ({#न्ता, न्तं#})
+<div n="xe">{%or%}</div> <div n="xs">{#निरतिशयः#}</div> ({#या, यं#}) (=excessive), {%a. love%} [Page037]
+{#निरतिशयानुरागः:#} Ph. {%a. vows%} (of a lover) {#शपथाः#}
+(m. pl.).</div>
 <LEND>

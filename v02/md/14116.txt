@@ -1,9 +1,9 @@
 <L>14116<pc>227-1<k1>मालती<k2>मालती
 {#मालती#}¦mālatī ({%rarely%} i), {%f. kind of%} jasmine 
-<>{%with fragrant white flowers which open towards %}<lbinfo n="2"/>
-<>{% evening%} ({%Jasminum grandiflorum%}); 
-<>{%N.%}: {@i-kā,@} {%f. N.%}; {@ī-mādhava,@} {%n.%} Mālatī and 
-<>Mādhava ({%names of the hero and heroine%}), 
-<>{%T. of a play by Bhavabhūti%}; {@-mālā,@} {%f.%} wreath 
-<>of jasmine.
+{%with fragrant white flowers which open towards %}<lbinfo n="2"/>
+{% evening%} ({%Jasminum grandiflorum%}); 
+{%N.%}: {@i-kā,@} {%f. N.%}; {@ī-mādhava,@} {%n.%} Mālatī and 
+Mādhava ({%names of the hero and heroine%}), 
+{%T. of a play by Bhavabhūti%}; {@-mālā,@} {%f.%} wreath 
+of jasmine.
 <LEND>

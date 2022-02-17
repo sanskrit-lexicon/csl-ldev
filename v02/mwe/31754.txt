@@ -1,10 +1,10 @@
 <L>31754<pc>850-a<k1>ablution<k2>ablution
-<div n="lb"/>ABLUTION¦, {%s.%} (Of the body) {#अङ्गस्नानं;#} ‘of the feet,’ {#पादप्रक्षालनं;#}
-<div n="lb"/>‘of the head,’ {#शिरःस्नानं;#} ‘of the mouth,’ {#मुखमार्जनं, मुखधावनं,#}
-<div n="lb"/>{#मुखशुद्धिः#} {%f.,%} {#आचमनं;#} ‘morning a.,’ {#प्रातःस्नानं;#} ‘by rubbing
-<div n="lb"/>earth on the body,’ {#मृत्तिकास्नानं;#} ‘by rubbing cowdung,’
-<div n="lb"/>{#गोमयस्नानं;#} ‘by rubbing ashes,’ {#भस्मस्नानं;#} ‘servant who
-<div n="lb"/>assists at a.,’ {#स्नापकः;#} ‘rules of a.,’ {#शौचविधिः#} {%m.;%} ‘one
-<div n="lb"/>who performs a.,’ {#स्नायी#} {%m.%} ({#न्#}); ‘cloth put on after a.,’
-<div n="lb"/>{#स्नानवस्त्रं#}.
+ABLUTION¦, {%s.%} (Of the body) {#अङ्गस्नानं;#} ‘of the feet,’ {#पादप्रक्षालनं;#}
+‘of the head,’ {#शिरःस्नानं;#} ‘of the mouth,’ {#मुखमार्जनं, मुखधावनं,#}
+{#मुखशुद्धिः#} {%f.,%} {#आचमनं;#} ‘morning a.,’ {#प्रातःस्नानं;#} ‘by rubbing
+earth on the body,’ {#मृत्तिकास्नानं;#} ‘by rubbing cowdung,’
+{#गोमयस्नानं;#} ‘by rubbing ashes,’ {#भस्मस्नानं;#} ‘servant who
+assists at a.,’ {#स्नापकः;#} ‘rules of a.,’ {#शौचविधिः#} {%m.;%} ‘one
+who performs a.,’ {#स्नायी#} {%m.%} ({#न्#}); ‘cloth put on after a.,’
+{#स्नानवस्त्रं#}.
 <LEND>

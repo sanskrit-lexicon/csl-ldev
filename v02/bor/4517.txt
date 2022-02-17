@@ -1,5 +1,5 @@
 <L>4517<pc>147<k1>consonant<k2>consonant
-<div n="lb"/>{@CONSONANT@}¦ (subs.): <div n="1">(1) {#व्यञ्जनम्#} <div n="xe">{%or%}</div> <div n="xs">{#व्यञ्जनवर्णम्;#}</div></div>
-<div n="lb"/><div n="1">(2) {#हल्#} (according to the arrangement of
-<div n="lb"/>Pāṇini), <div n="xe">{%ending in a c.:%}</div> <div n="xs">{#हलन्त#}</div> (f. {#न्ता#}).</div>
+{@CONSONANT@}¦ (subs.): <div n="1">(1) {#व्यञ्जनम्#} <div n="xe">{%or%}</div> <div n="xs">{#व्यञ्जनवर्णम्;#}</div></div>
+<div n="1">(2) {#हल्#} (according to the arrangement of
+Pāṇini), <div n="xe">{%ending in a c.:%}</div> <div n="xs">{#हलन्त#}</div> (f. {#न्ता#}).</div>
 <LEND>

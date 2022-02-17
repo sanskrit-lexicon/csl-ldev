@@ -10,7 +10,7 @@
 <ls>ŚAT. BR. 5, 4, 5, 4.</ls> 
 <ls>M. 11, 149.</ls> 
 <ls>BHAG. 9, 20.</ls> 
-<ls>MBH. 1, 4615. 3, 2450.</ls> {#गणा देवानामूष्मपाः सोमपाश्च#} 
+<ls>MBH. 1, 4615.</ls> <ls n="MBH.">3, 2450.</ls> {#गणा देवानामूष्मपाः सोमपाश्च#} 
 <ls>13, 1371. 6495. 7306. fg. 14, 288.</ls> <ls>VARĀH. BṚH. S. 16, 7.</ls> <ls>RĀJA-TAR. 5, 392.</ls> <ls>BHĀG. P. 4, 7, 56. 6, 18, 66.</ls> {#°सत्तमाः#} 
 <ls>MBH. 14, 2624.</ls> {#°पा#} <lex>f.</lex> <is>Durgā</is> 
 <ls>HARIV. 10248.</ls> {#अ°#} 
@@ -29,7 +29,7 @@
 <div n="2">— d) pl. eines <is>Ṛṣi</is> - Geschlechts 
 <ls>MBH. 12, 6143.</ls> {#सोमव#} ed. Bomb. 
 <div n="2">— e) pl. einer Klasse von Manen 
-<ls>M.3,197. fg.</ls> <ls>MBH.2,463.</ls> <ls>HARIV. 940. 997.</ls> <ls>MĀRK. P. 96,40. 42.</ls> <ls>Verz. d. Oxf. H. 40,a,4.</ls> 
+<ls>M. 3,197. fg.</ls> <ls>MBH. 2, 463.</ls> <ls>HARIV. 940.</ls> <ls n="HARIV.">997.</ls> <ls>MĀRK. P. 96,40. 42.</ls> <ls>Verz. d. Oxf. H. 40,a,4.</ls> 
 <div n="2">— f) pl. eines Volkes 
 <ls>VARĀH. BṚH. S. 5, 70.</ls> 
 <div n="v">— Vgl. {#सोमपा#} .

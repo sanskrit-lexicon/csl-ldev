@@ -1,11 +1,11 @@
 <L>11027<pc>346<k1>his<k2>his
-<div n="lb"/>{@HIS:@}¦ <div n="1">(1) {#तदीयः#} ({#या, यं#}) (of that); </div><div n="1">(2) {#पतदीयः#}
-<div n="lb"/>({#या, यं#}) (of this); </div><div n="1">(3) by gen. N.B.
-<div n="lb"/>When not emphatic, it is not expr. when
-<div n="lb"/>the sense is clear and when emphatic,
-<div n="lb"/>it is expr. by those words given under own.
-<div n="lb"/><div n="xe">{%Confining with h. family:%}</div> <div n="xs">{#एनं सपुत्रकलत्रं नियम्य,#}</div>
-<div n="lb"/>Mu.; {%as this%} ({%man%}) <div n="xe">{%quits h. life:%}</div> <div n="xs">{#यथायं प्राणान् #}</div> [Page347]
-<div n="lb"/>{# त्यजति,#} Mu. 1; <div n="xe">{%with h. fortitude:%}</div> <div n="xs">{#निजेन धैर्यगुणेन,#}</div>
-<div n="lb"/>Ki. xiv. 39.</div>
+{@HIS:@}¦ <div n="1">(1) {#तदीयः#} ({#या, यं#}) (of that); </div><div n="1">(2) {#पतदीयः#}
+({#या, यं#}) (of this); </div><div n="1">(3) by gen. N.B.
+When not emphatic, it is not expr. when
+the sense is clear and when emphatic,
+it is expr. by those words given under own.
+<div n="xe">{%Confining with h. family:%}</div> <div n="xs">{#एनं सपुत्रकलत्रं नियम्य,#}</div>
+Mu.; {%as this%} ({%man%}) <div n="xe">{%quits h. life:%}</div> <div n="xs">{#यथायं प्राणान् #}</div> [Page347]
+{# त्यजति,#} Mu. 1; <div n="xe">{%with h. fortitude:%}</div> <div n="xs">{#निजेन धैर्यगुणेन,#}</div>
+Ki. xiv. 39.</div>
 <LEND>

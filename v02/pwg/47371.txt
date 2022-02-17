@@ -15,7 +15,7 @@
 
 <ls>Spr. 2520.</ls> von {%jungen Bäumen%}: {#द्रुम°#} 
 <ls>HARIV. 3478.</ls> {#शाल°#} 
-<ls>MBH. 3, 11690. 7, 2504.</ls> 
+<ls>MBH. 3, 11690.</ls> <ls n="MBH.">7, 2504.</ls> 
 <ls>HIḌ. 2, 18.</ls> {#पूग°#} 
 <ls>BHĀG. P. 4, 9, 54. 21, 3.</ls> {#चूत°#} 
 <ls>3, 21, 42.</ls> {#शाक°#} viell. {%eine best. Gemüsepflanze%} 
@@ -30,7 +30,7 @@
 <ls>UJJVAL.</ls> {#भिन्न° (बणिज्)#} 
 <ls>MBH. 7, 2522.</ls> {#धर्मपोतेन संतर#} 
 <ls>12, 12061.</ls> {#पोतैः पवनविक्षिप्तैः#} 
-<ls>HARIV. 3530. 8363</ls> (neben {#यानपात्र#}). 
+<ls>HARIV. 3530.</ls> <ls n="HARIV.">8363</ls> (neben {#यानपात्र#}). 
 <ls>Spr. 1823.</ls> 
 <ls>VARĀH. BṚH. S. 47, 12.</ls> {#°च्युत#} 
 <ls>HIT. III, 51.</ls> <ls>RĀJA-TAR. 4, 503.</ls> {#भवसिन्धु°#} 

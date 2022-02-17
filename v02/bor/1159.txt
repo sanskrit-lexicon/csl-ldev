@@ -1,6 +1,6 @@
 <L>1159<pc>041<k1>ascendancy<k2>ascendancy
-<div n="lb"/>{@ASCENDANCY:@}¦ {#प्रभुत्वम्:#} v. Authority, influence.
-<div n="lb"/>Ph: <div n="xe">{%Chandrapālita, by various amusements,%}
-<div n="lb"/>{%gained complete a. over Bihārabhadra%}</div> <div n="xs">{#चन्द्रपालितो #}
-<div n="lb"/>{# विविघाभिः क्रीडाभिर्विहारभद्रमात्मसादकरोत्,#}</div> <ls>D.</ls> viii.
+{@ASCENDANCY:@}¦ {#प्रभुत्वम्:#} v. Authority, influence.
+Ph: <div n="xe">{%Chandrapālita, by various amusements,%}
+{%gained complete a. over Bihārabhadra%}</div> <div n="xs">{#चन्द्रपालितो #}
+{# विविघाभिः क्रीडाभिर्विहारभद्रमात्मसादकरोत्,#}</div> <ls>D.</ls> viii.
 <LEND>

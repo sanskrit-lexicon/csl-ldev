@@ -1,6 +1,6 @@
 <L>6050<pc>194<k1>deviation<k2>deviation
-<div n="lb"/>{@DEVIATION:@}¦ <div n="1">(1) {#अतिक्रमः#} (=transgression);</div>
-<div n="lb"/><div n="1">(2) {#विचलनम्#} (=swerving); </div><div n="1">(3) {#च्युतिः#} (=fall-
-<div n="lb"/>-ing); </div><div n="1">(4) {#उन्मार्गगमनम्#} (=going by a wrong
-<div n="lb"/>path); </div><div n="1">(5) {#भ्रमः#} (=error).</div>
+{@DEVIATION:@}¦ <div n="1">(1) {#अतिक्रमः#} (=transgression);</div>
+<div n="1">(2) {#विचलनम्#} (=swerving); </div><div n="1">(3) {#च्युतिः#} (=fall-
+-ing); </div><div n="1">(4) {#उन्मार्गगमनम्#} (=going by a wrong
+path); </div><div n="1">(5) {#भ्रमः#} (=error).</div>
 <LEND>

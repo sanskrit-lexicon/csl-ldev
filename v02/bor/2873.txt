@@ -1,7 +1,7 @@
 <L>2873<pc>097<k1>cabinet<k2>cabinet
-<div n="lb"/>{@CABINET:@}¦ <div n="I">I A closet: q. v. </div><div n="I">II A piece of
-<div n="lb"/>furniture: {#*दराजः:#} v. Chest. </div><div n="I">III The
-<div n="lb"/>select council of a ruler: {#प्रधानमन्त्रिणां सभा।#}
-<div n="lb"/>Ph. <div n="xe">{%c. minister:%}</div> <div n="xs">{#मुख्यमन्त्रिन्#}</div> (m.). </div><div n="I">IV A
-<div n="lb"/>room for c. council: {#इन्द्रकम्#} (?).</div>
+{@CABINET:@}¦ <div n="I">I A closet: q. v. </div><div n="I">II A piece of
+furniture: {#*दराजः:#} v. Chest. </div><div n="I">III The
+select council of a ruler: {#प्रधानमन्त्रिणां सभा।#}
+Ph. <div n="xe">{%c. minister:%}</div> <div n="xs">{#मुख्यमन्त्रिन्#}</div> (m.). </div><div n="I">IV A
+room for c. council: {#इन्द्रकम्#} (?).</div>
 <LEND>

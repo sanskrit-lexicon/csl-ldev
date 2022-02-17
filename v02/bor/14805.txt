@@ -1,6 +1,6 @@
 <L>14805<pc>453<k1>misunderstanding<k2>misunderstanding
-<div n="lb"/>{@MISUNDERSTANDING:@}¦ <div n="I">I Mistake: q. v.: {#अन्य-#}
-<div n="lb"/>{#थाग्रहणम्#} <div n="xe">{%or%}</div> <div n="xs">{#-बोधः।#}</div> </div><div n="I">II Dis-agreement, differ-
-<div n="lb"/>-ence: {#वैमत्यम्; मनोभेदः#} (?) (comp. Bengali
-<div n="lb"/>{#मनान्तर#}).</div>
+{@MISUNDERSTANDING:@}¦ <div n="I">I Mistake: q. v.: {#अन्य-#}
+{#थाग्रहणम्#} <div n="xe">{%or%}</div> <div n="xs">{#-बोधः।#}</div> </div><div n="I">II Dis-agreement, differ-
+-ence: {#वैमत्यम्; मनोभेदः#} (?) (comp. Bengali
+{#मनान्तर#}).</div>
 <LEND>

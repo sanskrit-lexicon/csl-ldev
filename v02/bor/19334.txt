@@ -1,7 +1,7 @@
 <L>19334<pc>600<k1>riding<k2>riding
-<div n="lb"/>{@RIDING:@}¦ (subs.): <div n="I">I The act: {#अश्वारोहणम्#} and
-<div n="lb"/>sim. comp. s., <div n="xe">{%skill in r.:%}</div> <div n="xs">{#तुरङ्गारोहणपाटवम्,#}</div> D.;
-<div n="lb"/><div n="xe">{%r. -habit:%}</div> <div n="xs">{#तुरङ्गाधिरोहणोचितो वेषः,#}</div> <ls>K.</ls> : v. Horse,
-<div n="lb"/>to ride. </div><div n="I">II Of a country: {#*मण्डलखण्डः; #}
-<div n="lb"/>{# प्रमण्डलम्।#}</div>
+{@RIDING:@}¦ (subs.): <div n="I">I The act: {#अश्वारोहणम्#} and
+sim. comp. s., <div n="xe">{%skill in r.:%}</div> <div n="xs">{#तुरङ्गारोहणपाटवम्,#}</div> D.;
+<div n="xe">{%r. -habit:%}</div> <div n="xs">{#तुरङ्गाधिरोहणोचितो वेषः,#}</div> <ls>K.</ls> : v. Horse,
+to ride. </div><div n="I">II Of a country: {#*मण्डलखण्डः; #}
+{# प्रमण्डलम्।#}</div>
 <LEND>

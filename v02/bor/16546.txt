@@ -1,6 +1,6 @@
 <L>16546<pc>508<k1>pat<k2>pat
-<div n="lb"/>{@PAT:@}¦ <div n="I">I Adj.: {#सङ्गत#} (f. {#ता#}): v. Also fit.</div>
-<div n="lb"/><div n="I">II Verb: {#हस्तेन स्पृशति#} ({#स्पृश्,#} c. 6.), <div n="xe">{%Indra%}
-<div n="lb"/>{%p. ted his body:%}</div> <div n="xs">{#हस्तेन पस्पर्श तदङ्गमिन्द्रः,#}</div> Ku.
-<div n="lb"/>iii. 22.</div>
+{@PAT:@}¦ <div n="I">I Adj.: {#सङ्गत#} (f. {#ता#}): v. Also fit.</div>
+<div n="I">II Verb: {#हस्तेन स्पृशति#} ({#स्पृश्,#} c. 6.), <div n="xe">{%Indra%}
+{%p. ted his body:%}</div> <div n="xs">{#हस्तेन पस्पर्श तदङ्गमिन्द्रः,#}</div> Ku.
+iii. 22.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>1557<pc>055<k1>band<k2>band
-<div n="lb"/>{@BAND@}¦ (subs.): <div n="I">I That which binds: </div><div n="1">(1)
-<div n="lb"/>{#बन्घः:#} <div n="xe">{%b. of hope%}</div> <div n="xs">{#आशाबन्घः#}</div>, Me. i. 10; </div><div n="1">(2)
-<div n="lb"/>{#बन्घनम्;#} </div><div n="1">(3) {#बन्घनी।#} </div><div n="I">II A company of
-<div n="lb"/>persons: </div><div n="1">(1) {#दलम्;#} </div><div n="1">(2) {#गुल्मः#} (b. of troops).</div>
-<div n="lb"/><div n="I">III Musical instruments: </div><div n="1">(1) {#वाद्यभाण्डम्।#}
-<div n="lb"/>(?); </div><div n="1">(2) {#तूर्यैघः#} (?).</div>
+{@BAND@}¦ (subs.): <div n="I">I That which binds: </div><div n="1">(1)
+{#बन्घः:#} <div n="xe">{%b. of hope%}</div> <div n="xs">{#आशाबन्घः#}</div>, Me. i. 10; </div><div n="1">(2)
+{#बन्घनम्;#} </div><div n="1">(3) {#बन्घनी।#} </div><div n="I">II A company of
+persons: </div><div n="1">(1) {#दलम्;#} </div><div n="1">(2) {#गुल्मः#} (b. of troops).</div>
+<div n="I">III Musical instruments: </div><div n="1">(1) {#वाद्यभाण्डम्।#}
+(?); </div><div n="1">(2) {#तूर्यैघः#} (?).</div>
 <LEND>

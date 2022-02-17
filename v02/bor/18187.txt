@@ -1,4 +1,4 @@
 <L>18187<pc>557<k1>punctually<k2>punctually
-<div n="lb"/>{@PUNCTUALLY:@}¦ <div n="1">(1) {#यथासमयम्;#} </div><div n="1">(2) {#यथाकालम्;#}</div>
-<div n="lb"/><div n="1">(3) {#नियमितकाले।#}</div>
+{@PUNCTUALLY:@}¦ <div n="1">(1) {#यथासमयम्;#} </div><div n="1">(2) {#यथाकालम्;#}</div>
+<div n="1">(3) {#नियमितकाले।#}</div>
 <LEND>

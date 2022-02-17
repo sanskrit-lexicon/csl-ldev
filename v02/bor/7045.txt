@@ -1,6 +1,6 @@
 <L>7045<pc>224<k1>due<k2>due
-<div n="lb"/>{@DUE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#देयम्;#} </div><div n="1">(2) {#ऋणम्#} (= debt).
-<div n="lb"/>Ph.: <div n="xe">{%respect. is d. to elders:%}</div> <div n="xs">{#पूज्या गुरवः:#}</div> v.
-<div n="lb"/>Ought. </div><div n="I">II Right: q. v. </div><div n="I">III In pl., taxes:
-<div n="lb"/>{#शुल्कः।#}</div>
+{@DUE@}¦ (subs.): <div n="I">I Lit.: </div><div n="1">(1) {#देयम्;#} </div><div n="1">(2) {#ऋणम्#} (= debt).
+Ph.: <div n="xe">{%respect. is d. to elders:%}</div> <div n="xs">{#पूज्या गुरवः:#}</div> v.
+Ought. </div><div n="I">II Right: q. v. </div><div n="I">III In pl., taxes:
+{#शुल्कः।#}</div>
 <LEND>

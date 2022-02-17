@@ -1,6 +1,6 @@
 <L>5467<pc>175<k1>day-light<k2>day-light
-<div n="lb"/>{@DAY-LIGHT:@}¦ {#दिवालोकः#} and sim. comp. s, <div n="xe">{%yet it%}
-<div n="lb"/>{%was like d. day and night:%}</div> <div n="xs">{#तथापि दिवसाकारं #}
-<div n="lb"/>{# प्रकाशं तदहर्निशम्,#}</div> Mat. Ph.: <div n="xe">{%in the d.:%}</div> <div n="xs">{#तपति तपने;#}</div>
-<div n="lb"/><div n="xe">{%before d.:%}</div> <div n="xs">{#अनुदिते भास्करे।#}</div>
+{@DAY-LIGHT:@}¦ {#दिवालोकः#} and sim. comp. s, <div n="xe">{%yet it%}
+{%was like d. day and night:%}</div> <div n="xs">{#तथापि दिवसाकारं #}
+{# प्रकाशं तदहर्निशम्,#}</div> Mat. Ph.: <div n="xe">{%in the d.:%}</div> <div n="xs">{#तपति तपने;#}</div>
+<div n="xe">{%before d.:%}</div> <div n="xs">{#अनुदिते भास्करे।#}</div>
 <LEND>

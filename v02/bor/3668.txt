@@ -1,7 +1,7 @@
 <L>3668<pc>120<k1>churn<k2>churn
-<div n="lb"/>{@CHURN@}¦ (v. t.): {#मथति#} <div n="xe">{%or%}</div> <div n="xs">{#मन्थति#}</div> ({#मथ्,#} c. l.)
-<div n="lb"/><div n="xe">{%c. nectar:%}</div> <div n="xs">{#मथ्यताममृतम्,#}</div> V. p.; {%c. ing of the ocean%} :
-<div n="lb"/>{#समुद्रमन्थनम्,#} M. n. {%C. -staff,; C. -stick:%} <div n="1">(1)
-<div n="lb"/>{#मन्थः;#} </div><div n="1">(2) {#मन्थनः;#} </div><div n="1">(3) {#मन्थानः;#} </div><div n="1">(4) {#मन्थदण्ड#} [Page121]
-<div n="lb"/>{%C. ing-rope:%} </div><div n="1">(1) {#मन्थनरज्जुः;#} </div><div n="1">(2) {#नेत्रम्,#} V. p.</div>
+{@CHURN@}¦ (v. t.): {#मथति#} <div n="xe">{%or%}</div> <div n="xs">{#मन्थति#}</div> ({#मथ्,#} c. l.)
+<div n="xe">{%c. nectar:%}</div> <div n="xs">{#मथ्यताममृतम्,#}</div> V. p.; {%c. ing of the ocean%} :
+{#समुद्रमन्थनम्,#} M. n. {%C. -staff,; C. -stick:%} <div n="1">(1)
+{#मन्थः;#} </div><div n="1">(2) {#मन्थनः;#} </div><div n="1">(3) {#मन्थानः;#} </div><div n="1">(4) {#मन्थदण्ड#} [Page121]
+{%C. ing-rope:%} </div><div n="1">(1) {#मन्थनरज्जुः;#} </div><div n="1">(2) {#नेत्रम्,#} V. p.</div>
 <LEND>

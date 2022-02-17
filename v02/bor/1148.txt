@@ -1,6 +1,6 @@
 <L>1148<pc>040<k1>as being<k2>as being
-<div n="lb"/>{@AS BEING:@}¦ Expr. By the ins. of subs. s in {#ता#} {%or%}
-<div n="lb"/>by the abl. in other cases: <div n="xe">{%a. few%}</div> <div n="xs">{#अल्पतया;#}</div> <div n="xe">{%a.%}
-<div n="lb"/>{%a child%}</div> <div n="xs">{#बालतया;#}</div> <div n="xe">{%a. weak%}</div> <div n="xs">{#दौर्बल्यात्;#}</div> <div n="xe">{%a. wonder-%}
-<div n="lb"/>{%ful%}</div> <div n="xs">{#अद्भुतत्वात्।#}</div>
+{@AS BEING:@}¦ Expr. By the ins. of subs. s in {#ता#} {%or%}
+by the abl. in other cases: <div n="xe">{%a. few%}</div> <div n="xs">{#अल्पतया;#}</div> <div n="xe">{%a.%}
+{%a child%}</div> <div n="xs">{#बालतया;#}</div> <div n="xe">{%a. weak%}</div> <div n="xs">{#दौर्बल्यात्;#}</div> <div n="xe">{%a. wonder-%}
+{%ful%}</div> <div n="xs">{#अद्भुतत्वात्।#}</div>
 <LEND>

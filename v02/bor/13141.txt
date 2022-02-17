@@ -1,5 +1,5 @@
 <L>13141<pc>405<k1>lake<k2>lake
-<div n="lb"/>{@LAKE:@}¦ <div n="1">(1) {#ह्रदः,#} <div n="xe">{%in a deep l.:%}</div> <div n="xs">{#ह्रदे गमीरे,#}</div> N.; </div><div n="1">(2)
-<div n="lb"/>{#सरस्#} (n.), {#-वरः,#} <div n="xe">{%the l. called Achchhoda:%}</div> <div n="xs">{#अच्छोदं #}
-<div n="lb"/>{# नाम सरः,#}</div> K.</div>
+{@LAKE:@}¦ <div n="1">(1) {#ह्रदः,#} <div n="xe">{%in a deep l.:%}</div> <div n="xs">{#ह्रदे गमीरे,#}</div> N.; </div><div n="1">(2)
+{#सरस्#} (n.), {#-वरः,#} <div n="xe">{%the l. called Achchhoda:%}</div> <div n="xs">{#अच्छोदं #}
+{# नाम सरः,#}</div> K.</div>
 <LEND>

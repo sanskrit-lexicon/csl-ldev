@@ -1,8 +1,8 @@
 <L>23965<pc>750<k1>void<k2>void
-<div n="lb"/>{@VOID@}¦ (adj.): <div n="I">I Empty, vacant: q. v.: {#शून्य#}
-<div n="lb"/>(f. {#न्या#}). </div><div n="I">II Devoid: q. v.: {%v. of anything:%}
-<div n="lb"/>{#अकिञ्चन#} (f. {#ना#}). </div><div n="I">III Null, invalid: </div><div n="1">(1)
-<div n="lb"/>{#निरर्थक#} (f. {#का#}); </div><div n="1">(2) {#अकिञ्चित्कर#} (f. {#रा#}), {#असिद्ध#}
-<div n="lb"/>(f. {#द्धा#}). Ph.: <div n="xe">{%such a document is v.:%}</div> <div n="xs">{#तदप्रमाणं #}
-<div n="lb"/>{# लिखितम्,#}</div> N. s.</div>
+{@VOID@}¦ (adj.): <div n="I">I Empty, vacant: q. v.: {#शून्य#}
+(f. {#न्या#}). </div><div n="I">II Devoid: q. v.: {%v. of anything:%}
+{#अकिञ्चन#} (f. {#ना#}). </div><div n="I">III Null, invalid: </div><div n="1">(1)
+{#निरर्थक#} (f. {#का#}); </div><div n="1">(2) {#अकिञ्चित्कर#} (f. {#रा#}), {#असिद्ध#}
+(f. {#द्धा#}). Ph.: <div n="xe">{%such a document is v.:%}</div> <div n="xs">{#तदप्रमाणं #}
+{# लिखितम्,#}</div> N. s.</div>
 <LEND>

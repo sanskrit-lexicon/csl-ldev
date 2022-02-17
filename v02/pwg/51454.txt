@@ -13,11 +13,11 @@
 <ls>BHĀG. P. 1, 10, 5.</ls> {#नाधर्मश्चरितो लोके सद्यः फलति गौरिव#} 
 <ls>Spr. 1529.</ls> {#व्यवसायं विना कर्म#} ({%das Schicksal%}) {#न फलति#} 
 <ls>PAÑCAT. 133, 17.</ls> {#फलिष्यति न ते विद्या#} 
-<ls>MBH. 1, 3275. 12, 12359.</ls> {#स्वकृतं कर्म#} 
+<ls>MBH. 1, 3275.</ls> <ls n="MBH.">12, 12359.</ls> {#स्वकृतं कर्म#} 
 <ls>3, 12635. 13, 304.</ls> <ls>Spr. 1932.</ls> <ls>VOP. 2, 47.</ls> {#एवं कुकर्म सर्वस्य फलत्मात्मनि सर्वदा#} 
 <ls>KATHĀS. 17, 148.</ls> 
 <ls>MBH. 5, 1700.</ls> 
-<ls>HARIV. 965.</ls> <ls>?ad. MEGH. 18.</ls> {#धातुः फलति लावण्यनिर्माणं तदिदं त्वयि#} 
+<ls>HARIV. 965.</ls> <ls>ad.</ls> <ls>MEGH. 18.</ls> {#धातुः फलति लावण्यनिर्माणं तदिदं त्वयि#} 
 <ls>KATHĀS. 30, 34.</ls> {#खलः करोति दुर्वृत्तं नूनं फलति साधुषु#} so v. a. {%Gute müssen es büssen%} 
 <ls>Spr. 799.</ls> {#अमोघं हि महर्षीणां वीर्यं फलति तत्क्षणम्#} 
 <ls>KATHĀS. 32, 103.</ls> {#नैवाकृतिः फलति नैव कुलं न शीलम्#} 
@@ -39,8 +39,8 @@
 <ls>P. 5, 2, 36.</ls> 
 <ls>VOP. 7, 80.</ls> {%Früchte tragend, mit Früchten versehen%}: {#वनस्पति#} 
 <ls>MBH. 1, 5884.</ls> {#लता#} 
-<ls>3, 10042. 5, 1117</ls> (st. dessen {#फलवन्त्#} 
-<ls>?1, 5608. 12, 5277). Spr. 3706. RAGH. 13, 53. KATHĀS. 42, 5.</ls> {%was Früchte gebracht hat, Erfolg gehabt hat%}: {#व्रत#} 
+<ls>3, 10042. 5, 1117</ls> (st. dessen {#फलवन्त्#} <ls>1, 5608. 12, 5277</ls>).
+<ls>Spr. 3706.</ls> <ls>RAGH. 13, 53.</ls> <ls>KATHĀS. 42, 5.</ls> {%was Früchte gebracht hat, Erfolg gehabt hat%}: {#व्रत#} 
 <ls>3, 23. 21, 101.</ls> {#श्वश्रूकृता व्यापदिहापि फलिता मम#} 
 <ls>29, 109.</ls> {#कार्य#} 
 <ls>Spr. 2430.</ls> {#तव सुनीतिः#} 
@@ -58,5 +58,5 @@
 <ls>RĀJA-TAR. 2, 142</ls> ist mit der Calc. Ausg. {#सफलयन्#} zu schreiben.
 
 <div n="p">— {#वि#} {%Früchte ansetzen, zur Reife gelangen%}: {#भव्यमुख्याः समारम्भाः प्रत्यवेक्षानिरत्ययाः । गर्भशालिसधर्माणस्तस्य गूढं विफेलिरे (विपेचिरे#} 
-<ls>STENZLER</ls><ls>?) || RAGH. ed. Calc. 17, 52.</ls>
+<ls>STENZLER</ls>) <ls>||</ls> <ls>RAGH. ed. Calc. 17, 52.</ls>
 <LEND>

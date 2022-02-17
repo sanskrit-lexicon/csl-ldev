@@ -1,11 +1,11 @@
 <L>5832<pc>130-b<k1>content<k2>content
-<div n="lb"/>CONTENT¦, {%s.%} (Contentment) {#सन्तोषः, तृप्तिः#} {%f.,%} {#तुष्टिः#} {%f.,%} {#तोषः, परितोषः,#}
-<div n="lb"/>{#शान्तिः#} {%f.,%} {#कामप्रशान्तिः#} {%f.,%} {#कामनिवृत्तिः#} {%f.,%} {#चित्तप्रशमः, अलोभः,#}
-<div n="lb"/>{#अलुब्धत्वं, अलिप्सा, अस्पृहा, वितृष्णता, वैतृष्ण्यं, धृतिः,#} {%f.,%} {#सौहित्यं;#}
-<div n="lb"/>‘to the heart's content,’ {#यथातृप्तं -तृप्ति;#} ‘fruit to the heart's
-<div n="lb"/>content,’ {#प्रकामफलं#}. — (Contents, that which fills) {#पूरकः -कं,#}
-<div n="lb"/>{#भरकः -कं;#} ‘that which is contained,’ {#अर्न्तगतं, अन्तर्भूतं, अन्तर्वर्त्ती#}
-<div n="lb"/>{#-र्त्तिनी -र्त्ति (न्);#} ‘the contents of a vessel,’ {#भाण्डभरकः;#} ‘con-
-<div n="lb"/>tents of a writing,’ {#अर्थः;#} ‘contents of a solid in geometry,’
-<div n="lb"/>{#घनफलं#}. — (Table of contents) {#अनुक्रमणिका, पत्रपञ्जी#}.
+CONTENT¦, {%s.%} (Contentment) {#सन्तोषः, तृप्तिः#} {%f.,%} {#तुष्टिः#} {%f.,%} {#तोषः, परितोषः,#}
+{#शान्तिः#} {%f.,%} {#कामप्रशान्तिः#} {%f.,%} {#कामनिवृत्तिः#} {%f.,%} {#चित्तप्रशमः, अलोभः,#}
+{#अलुब्धत्वं, अलिप्सा, अस्पृहा, वितृष्णता, वैतृष्ण्यं, धृतिः,#} {%f.,%} {#सौहित्यं;#}
+‘to the heart's content,’ {#यथातृप्तं -तृप्ति;#} ‘fruit to the heart's
+content,’ {#प्रकामफलं#}. — (Contents, that which fills) {#पूरकः -कं,#}
+{#भरकः -कं;#} ‘that which is contained,’ {#अर्न्तगतं, अन्तर्भूतं, अन्तर्वर्त्ती#}
+{#-र्त्तिनी -र्त्ति (न्);#} ‘the contents of a vessel,’ {#भाण्डभरकः;#} ‘con-
+tents of a writing,’ {#अर्थः;#} ‘contents of a solid in geometry,’
+{#घनफलं#}. — (Table of contents) {#अनुक्रमणिका, पत्रपञ्जी#}.
 <LEND>

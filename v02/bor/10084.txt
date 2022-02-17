@@ -1,4 +1,4 @@
 <L>10084<pc>318<k1>gold-thread<k2>gold-thread
-<div n="lb"/>{@GOLD-THREAD@}¦ {%or%} {@WIRE:@} <div n="1">(1) {#कनकसूत्रम्;#} </div><div n="1">(2) {#सुवर्ण-#}
-<div n="lb"/>{#सूत्रम्;#} </div><div n="1">(3) {#सुवर्णतन्तुः।#}</div>
+{@GOLD-THREAD@}¦ {%or%} {@WIRE:@} <div n="1">(1) {#कनकसूत्रम्;#} </div><div n="1">(2) {#सुवर्ण-#}
+{#सूत्रम्;#} </div><div n="1">(3) {#सुवर्णतन्तुः।#}</div>
 <LEND>

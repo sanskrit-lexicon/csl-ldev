@@ -1,4 +1,4 @@
 <L>13171<pc>406<k1>landing<k2>landing
-<div n="lb"/>{@LANDING@}¦ (subs.): {#अवतरणम्#} <div n="xe">{%or%}</div> <div n="xs">{#उत्तरणम्।#}</div> {%L. place:%}
-<div n="lb"/>{#तरः, -स्थानम्।#}
+{@LANDING@}¦ (subs.): {#अवतरणम्#} <div n="xe">{%or%}</div> <div n="xs">{#उत्तरणम्।#}</div> {%L. place:%}
+{#तरः, -स्थानम्।#}
 <LEND>

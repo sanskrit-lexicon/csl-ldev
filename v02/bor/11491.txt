@@ -1,8 +1,8 @@
 <L>11491<pc>360<k1>ill<k2>ill
-<div n="lb"/>{@ILL:@}¦ <div n="I">I Bad: q.v.: expr. by {#दुर्-#} <div n="xe">{%or%}</div> <div n="xs">{#अ-#}</div> in
-<div n="lb"/>comp., <div n="xe">{%i. health:%}</div> <div n="xs">{#असुस्थता।#}</div> </div><div n="I">II In ill health:</div>
-<div n="lb"/><div n="1">(1) {#असुस्थशरीरः#} ({#रा, रं#}), {%Kādambari, who is very i.:%}
-<div n="lb"/>{#बलवदसुस्थशरीरा कादभ्बरी,#} K.; </div><div n="1">(2) {#असुस्थ#} <div n="xe">{%or%}</div> <div n="xs">{#अस्वस्थ#}</div>
-<div n="lb"/>(f. {#स्था#}); </div><div n="1">(3) {#पीडितः,#} <div n="xe">{%i. with fever:%}</div> <div n="xs">{#ज्वरपीडितः#}</div>
-<div n="lb"/>({#ता, तं#}): v. Also sick.</div>
+{@ILL:@}¦ <div n="I">I Bad: q.v.: expr. by {#दुर्-#} <div n="xe">{%or%}</div> <div n="xs">{#अ-#}</div> in
+comp., <div n="xe">{%i. health:%}</div> <div n="xs">{#असुस्थता।#}</div> </div><div n="I">II In ill health:</div>
+<div n="1">(1) {#असुस्थशरीरः#} ({#रा, रं#}), {%Kādambari, who is very i.:%}
+{#बलवदसुस्थशरीरा कादभ्बरी,#} K.; </div><div n="1">(2) {#असुस्थ#} <div n="xe">{%or%}</div> <div n="xs">{#अस्वस्थ#}</div>
+(f. {#स्था#}); </div><div n="1">(3) {#पीडितः,#} <div n="xe">{%i. with fever:%}</div> <div n="xs">{#ज्वरपीडितः#}</div>
+({#ता, तं#}): v. Also sick.</div>
 <LEND>

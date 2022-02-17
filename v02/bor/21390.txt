@@ -1,7 +1,7 @@
 <L>21390<pc>674<k1>state<k2>state
-<div n="lb"/>{@STATE@}¦ (subs.): <div n="I">I Condition: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#अवस्था;#} </div><div n="1">(2) {#दशा।#} </div><div n="I">II Government, sover-
-<div n="lb"/>-eignty: q. v.: {#राज्यम्,#} Ph.: {%s. affairs:%}
-<div n="lb"/>{#राजकार्याणि;#} <div n="xe">{%s. servant:%}</div> <div n="xs">{#राजसेवक#}</div> (f. {#विका#}); etc.</div>
-<div n="lb"/><div n="I">III Grandeur, splendour: q. v.: {#ऐश्वर्यम।#}</div>
+{@STATE@}¦ (subs.): <div n="I">I Condition: q. v.: </div><div n="1">(1)
+{#अवस्था;#} </div><div n="1">(2) {#दशा।#} </div><div n="I">II Government, sover-
+-eignty: q. v.: {#राज्यम्,#} Ph.: {%s. affairs:%}
+{#राजकार्याणि;#} <div n="xe">{%s. servant:%}</div> <div n="xs">{#राजसेवक#}</div> (f. {#विका#}); etc.</div>
+<div n="I">III Grandeur, splendour: q. v.: {#ऐश्वर्यम।#}</div>
 <LEND>

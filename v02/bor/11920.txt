@@ -1,6 +1,6 @@
 <L>11920<pc>372<k1>inconvenient<k2>inconvenient
-<div n="lb"/>{@INCONVENIENT:@}¦ <div n="I">I Unfit: q.v.: {#अयोग्य#} (f. {#न्या#}).</div>
-<div n="lb"/><div n="I">II Incommodious: </div><div n="1">(1) {#असुखकरः#} ({#री, रं#})
-<div n="lb"/>(?); </div><div n="1">(2) {#क्लेशकरः#} ({#री, रं#}) (?); </div><div n="1">(3) {#पीडाकरः#}
-<div n="lb"/>({#री, रं#}) (?).</div>
+{@INCONVENIENT:@}¦ <div n="I">I Unfit: q.v.: {#अयोग्य#} (f. {#न्या#}).</div>
+<div n="I">II Incommodious: </div><div n="1">(1) {#असुखकरः#} ({#री, रं#})
+(?); </div><div n="1">(2) {#क्लेशकरः#} ({#री, रं#}) (?); </div><div n="1">(3) {#पीडाकरः#}
+({#री, रं#}) (?).</div>
 <LEND>

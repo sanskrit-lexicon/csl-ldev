@@ -1,6 +1,6 @@
 <L>19467<pc>605<k1>rotation<k2>rotation
-<div n="lb"/>{@ROTATION:@}¦ <div n="I">I Revolution: q. v.: {#चक्रभ्रमणम्,#}
-<div n="lb"/><div n="xe">{%from the r. of the planets round the earth:%}</div> <div n="xs">{#ग्रहाणां #}
-<div n="lb"/>{# भूमेः परितो भ्रमणतः,#}</div> A.c. </div><div n="I">II Succession:
-<div n="lb"/>{#पर्यायवृत्तिः,#} <div n="xe">{%in r.:%}</div> <div n="xs">{#पर्यायेण।#}</div></div>
+{@ROTATION:@}¦ <div n="I">I Revolution: q. v.: {#चक्रभ्रमणम्,#}
+<div n="xe">{%from the r. of the planets round the earth:%}</div> <div n="xs">{#ग्रहाणां #}
+{# भूमेः परितो भ्रमणतः,#}</div> A.c. </div><div n="I">II Succession:
+{#पर्यायवृत्तिः,#} <div n="xe">{%in r.:%}</div> <div n="xs">{#पर्यायेण।#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>20629<pc>647<k1>sit up<k2>sit up
-<div n="lb"/>{@SIT UP:@}¦ <div n="I">I Lit. {#तिष्ठति#} ({#स्था,#} c. 1.), R. i. 89.</div>
-<div n="lb"/><div n="I">II To watch: {#जागर्ति#} ({#जागृ,#} c. 2.), <div n="xe">{%by s.%}
-<div n="lb"/>{%ting up late at night:%}</div> <div n="xs">{#रात्रिजागरणात्।#}</div></div>
+{@SIT UP:@}¦ <div n="I">I Lit. {#तिष्ठति#} ({#स्था,#} c. 1.), R. i. 89.</div>
+<div n="I">II To watch: {#जागर्ति#} ({#जागृ,#} c. 2.), <div n="xe">{%by s.%}
+{%ting up late at night:%}</div> <div n="xs">{#रात्रिजागरणात्।#}</div></div>
 <LEND>

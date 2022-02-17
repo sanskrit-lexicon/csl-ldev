@@ -1,10 +1,10 @@
 <L>21730<pc>685<k1>subject<k2>subject
-<div n="lb"/>{@SUBJECT@}¦ (v.): <div n="I">I To subjugate: q. v.: {#वशी-#}
-<div n="lb"/>{#करोति।#} </div><div n="I">II To expose, make liable: expr.
-<div n="lb"/>by circumlo., {%cowardice s. s people in danger:%}
-<div n="lb"/>{#विपदोऽभिभवन्त्यविक्रमम्,#} Ki. ii. 14.; <div n="xe">{%foolish men%}
-<div n="lb"/>{%s. themselves to passion:%}</div> <div n="xs">{#मूढो मदनेनायास्यते,#}</div> K.;
-<div n="lb"/>{%God, without any effort, s. s men to ridicule:%}
-<div n="lb"/>{#अयत्नेनैव खलूपहासास्पदतामीश्वरो नयति,#} K.: v.
-<div n="lb"/>Also to attack, possess.</div>
+{@SUBJECT@}¦ (v.): <div n="I">I To subjugate: q. v.: {#वशी-#}
+{#करोति।#} </div><div n="I">II To expose, make liable: expr.
+by circumlo., {%cowardice s. s people in danger:%}
+{#विपदोऽभिभवन्त्यविक्रमम्,#} Ki. ii. 14.; <div n="xe">{%foolish men%}
+{%s. themselves to passion:%}</div> <div n="xs">{#मूढो मदनेनायास्यते,#}</div> K.;
+{%God, without any effort, s. s men to ridicule:%}
+{#अयत्नेनैव खलूपहासास्पदतामीश्वरो नयति,#} K.: v.
+Also to attack, possess.</div>
 <LEND>

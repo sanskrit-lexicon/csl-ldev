@@ -1,7 +1,7 @@
 <L>2138<pc>074<k1>blank<k2>blank
-<div n="lb"/>{@BLANK@}¦ (adj.): <div n="I">I Not filled or written on:
-<div n="lb"/>{#शुद्धः#} ({#द्धा, द्धं#}) (?). </div><div n="I">II White pale or dis-
-<div n="lb"/>-mayed: q. v.: Ph. <div n="xe">{%b. verse:%}</div> <div n="xs">{#अमित्राक्षरछन्दः;#}</div>
-<div n="lb"/><div n="xe">{%b. cartridge%}</div> <div n="xs">{#*केवलचूर्णकोषः;#}</div> <div n="xe">{%b. endorsement%}</div> <div n="xs">{#लेखक। #}
-<div n="lb"/>{# -नामविरहितं हुण्ड्यादौ पृष्ठलिखनम्।#}</div></div>
+{@BLANK@}¦ (adj.): <div n="I">I Not filled or written on:
+{#शुद्धः#} ({#द्धा, द्धं#}) (?). </div><div n="I">II White pale or dis-
+-mayed: q. v.: Ph. <div n="xe">{%b. verse:%}</div> <div n="xs">{#अमित्राक्षरछन्दः;#}</div>
+<div n="xe">{%b. cartridge%}</div> <div n="xs">{#*केवलचूर्णकोषः;#}</div> <div n="xe">{%b. endorsement%}</div> <div n="xs">{#लेखक। #}
+{# -नामविरहितं हुण्ड्यादौ पृष्ठलिखनम्।#}</div></div>
 <LEND>

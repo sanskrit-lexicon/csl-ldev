@@ -1,16 +1,16 @@
 <L>100716<pc>7-0287<k1>शृङ्ग<k2>शृ/ङ्ग
 {#शृ/ङ्ग#}¦ 
 <ls>UṆĀDIS. 1, 125.</ls> m. n. <is>gaṇa</is> {#अर्धर्चादि#} 
-zu <ls>P. 2, 4, 31.</ls> <ls>TRIK. 3, 5, 12.</ls> <ls>SIDDH. K. 251</ls>, {%a%}, 
-<ls>1 v. u.</ls> 
+zu <ls>P. 2, 4, 31.</ls> <ls>TRIK. 3, 5, 12.</ls> <ls>SIDDH. K. 251,a,</ls> 
+<ls>1</ls> v. u. 
 <div n="1"> 1) <lex>n.</lex> 
 <div n="2"> a) {%Horn%} 
 <ls>AK. 2, 9, 100. 3, 4, 13, 58.</ls> 
 <ls>H. 1264.</ls> 
 <ls>an. 2, 50.</ls> 
 <ls>MED. g. 25. fg.</ls> <ls>HALĀY. 2, 112. 123. 4, 79. 5, 69.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} (
-<ls>MBH. 1, 6662. 9, 2003. 13, 3815</ls>) und {#ई/#} 
-<ls>?(YĀJÑ. 1, 204. MBH. 3, 12727. 7, 2204. 13, 3795. KATHĀS. 37, 74. MĀRK. P. 110, 43) P. 4, 1, 55.</ls> Accent eines <lex>adj.</lex> comp. auf {#शृङ्ग#} 
+<ls>MBH. 1, 6662.</ls> <ls n="MBH.">9, 2003.</ls> <ls n="MBH.">13, 3815</ls>) und {#ई/#} 
+(<ls>YĀJÑ. 1, 204.</ls> <ls>MBH. 3, 12727.</ls> <ls n="MBH.">7, 2204.</ls> <ls n="MBH.">13, 3795.</ls> <ls>KATHĀS. 37, 74.</ls> <ls>MĀRK. P. 110, 43</ls>) <ls>P. 4, 1, 55.</ls> Accent eines <lex>adj.</lex> comp. auf {#शृङ्ग#} 
 <ls>6, 2, 15.</ls> — 
 <ls>ṚV. 1, 140, 6.</ls> <ls n="ṚV. 1,">163, 11.</ls> <ls n="ṚV.">2, 39, 3.</ls> <ls n="ṚV.">3, 8, 10.</ls> <ls n="ṚV.">4, 58, 3.</ls> {#शिशा^नो वृष\भो य^था\ग्निः शृङ्गे\ दवि^ध्वत्#} 
 <ls n="ṚV.">8, 49, 13.</ls>
@@ -52,9 +52,9 @@ zu <ls>P. 2, 4, 31.</ls> <ls>TRIK. 3, 5, 12.</ls> <ls>SIDDH. K. 251</ls>, {%a%},
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 11. 5, 35.</ls> <ls>UTPALINĪ a. a. O.</ls> {#शैल°#} 
-<ls>MBH. 1, 1164. 3, 2437. 2540. 12129.</ls> {#सशृङ्ग इव पर्वतः#} 
+<ls>MBH. 1, 1164.</ls> <ls n="MBH.">3, 2437.</ls> <ls n="MBH. 3,">2540.</ls> <ls n="MBH. 3,">12129.</ls> {#सशृङ्ग इव पर्वतः#} 
 <ls>5, 7275.</ls> <ls>R. 2, 54, 29. 5, 11, 7.</ls> <ls>MEGH. 14. 53. 59.</ls> <ls>RAGH. 13, 26.</ls> <ls>Spr. 2731. (II) 2094. 3466.</ls> <ls>VARĀH. BṚH. S. 12, 6.</ls> <ls>KATHĀS. 25, 207.</ls> <ls>DAŚAK. 75, 5.</ls> {#वल्मीक°#} 
-<ls>KĀŚĪKH. 35, 35</ls> <ls>?(nach AUFRECHT). PAÑCAT. 9, 7.</ls> 
+<ls>KĀŚĪKH. 35, 35</ls> (nach <ls>AUFRECHT</ls>). <ls>PAÑCAT. 9, 7.</ls> 
 <div n="2">— f) {%Thürmchen eines Tempels, Palastes u.s.w.:%} {#प्रासादवरशृङ्गस्थ#} 
 <ls>MBH. 1, 2821.</ls> {#वेश्म°#} 
 <ls>R. GORR. 2, 33, 4.</ls> {#विमान°#} 
@@ -134,7 +134,7 @@ zu <ls>2, 82.</ls>
 <ls>SUŚR. 2, 207, 17. 252, 6.</ls> 
 <div n="2">— c) {%zu Schmucksachen dienendes Gold%} (vgl. {#शृङ्गीकनक#}) 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA</ls> und <ls>UTPALINĪ a. a. O.</ls> Hierher vielleicht {#°दान#} 
-<ls>Verz. d. Oxf. H. 87</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 87,a,</ls> 
 <ls>35.</ls> 
 <div n="v">— Vgl. {#अज°, अवा°, ऋष्य°, एक°, कर्कट°, कुलीर°, चतुः°, तिग्म°, त्रिधातु°, तीक्ष्ण°, नृ°, पुत्र°, पृश्नि°, पृष्ठ°, प्रा°, बस्त°, बहु°, बाल°, भूरि°, मणि°, मेष°, राज°, वक्र°, वि°, वैडूर्य°, शत°, शश°, हिरण्य°, शार्ङ्ग#} .
 <LEND>

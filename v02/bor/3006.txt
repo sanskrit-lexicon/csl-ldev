@@ -1,4 +1,4 @@
 <L>3006<pc>101<k1>canticle<k2>canticle
-<div n="lb"/>{@CANTICLE:@}¦ <div n="I">I Of the Bible: {#*गीतकाण्डः।#} </div><div n="I">II
-<div n="lb"/>A canto: q. v.</div>
+{@CANTICLE:@}¦ <div n="I">I Of the Bible: {#*गीतकाण्डः।#} </div><div n="I">II
+A canto: q. v.</div>
 <LEND>

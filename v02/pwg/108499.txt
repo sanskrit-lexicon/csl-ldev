@@ -12,11 +12,11 @@
 <ls>KĀM. NĪTIS. 8, 51.</ls> {#सामान्याभूद्द्वयोरपि । जयश्रीः#} 
 <ls>RAGH. 12, 93.</ls> {#°धात्री#} 
 <ls>13, 62.</ls> <ls>KUMĀRAS. 7, 44.</ls> <ls>SĀṂKHYAK. 11. 29</ls> (auch {#अ°)#}.{# या (लक्ष्मीः) न वेश्येव सामान्या#} 
-<ls>Spr. (II) 1749. 4310.</ls> 
+<ls>Spr. (II) 1749.</ls> <ls n="Spr. (II)">4310.</ls> 
 <ls>RĀJA-TAR. 1, 42.</ls> 
 <ls>NĪLAK. 53.</ls> 
 <ls>SĀH. D. 69.</ls> 
-<ls>BHĀṢĀP. 91.</ls> {#°नायिका#} (=  {#साधारणस्त्री#} 
+<ls>BHĀṢĀP. 91.</ls> {#°नायिका#} (= {#साधारणस्त्री#} 
 <ls>96</ls>) <ls>SĀH. D. 45, 17.</ls> <ls>VĀYU-P.</ls> bei <ls>MUIR, ST. 1, 31,</ls> <ls>N. 56.</ls> <ls>PAÑCAT. 264, 2.</ls> {#निमित्तानि सामान्यानि च जगतः प्रतिपुरुषं पार्थिवे च#} 
 <ls>VARĀH. BṚH. S. 2, S. 7, Z. 8.</ls> {#आहारनिद्राभयमैथुनानि सामान्यमेतत्पशुभिर्नराणाम्#} 
 <ls>Spr. (II) 1077.</ls> {#सामान्यं कृपणस्य धनं परैः#} 
@@ -29,14 +29,14 @@
 <div n="2">— c) {%allgemein%} so v. a. {%nicht nach den Unterarten%} u. s. w. {%unterschieden%} (Gegens. {#वैशेषिक#}) 
 <ls>SUŚR. 1, 96, 20. 97, 2. 2, 1, 14. 2, 1. 87, 13. 134, 12.</ls> 
 <ls>VARĀH. BṚH. S. 17, 24. 21, 17. 60, 22. 86, 7.</ls> {#°कविप्रशंसा#} {%der Dichter im Allgemeinen%} (nicht der einzelnen Dichter) 
-<ls>Verz. d. Oxf. H. 123</ls>, {%a%}, 
-<ls>44. fg. 281</ls>, {%b%}, 
+<ls>Verz. d. Oxf. H. 123,a,</ls> 
+<ls>44. fg. 281,b,</ls> 
 <ls>25. 35.</ls> {#°रोगाधिकार#} 
 <ls>Verz. d. B. H. No. 966.</ls> {#काण्ड#} {%Allgemeines betreffend%} 
 <ls>AK.</ls> am Ende in der Unterschr. {#सामान्ये#} so v. a. {%in der allgemeinen Grammatik%} 
 <ls>AV. PRĀT. 1, 2.</ls> 
 <div n="2">— d) {%von gemeinem, gewöhnlichem Schlage, durch nichts Besonderes ausgezeichnet, wie jeder andere%}: Personen 
-<ls>Spr. (II) 1460. 2720. 7014.</ls> 
+<ls>Spr. (II) 1460.</ls> <ls n="Spr. (II)">2720.</ls> <ls n="Spr. (II)">7014.</ls> 
 <ls>KATHĀS. 21, 54. 24, 141. 34, 211.</ls> {#दिव्यैषा हि न सामान्या#} 
 <ls>241. 60, 2. 63, 56.</ls> <ls>RĀJA-TAR. 5, 197. 6, 85.</ls> <ls>PAÑCAR. 4, 3, 200.</ls> {#विष्णुसामान्यदर्शिन्#} {%in%} <is>Viṣṇu</is> {%einen gewöhnlichen Menschen sehend%} 186. {#°देशवत्#} {%wie jedes andere Land%} 
 <ls>RĀJA-TAR. 1, 118.</ls> {#सामन्यतरकौलिकाः#} {%ganz gewöhnlichen Schlages%} 
@@ -52,7 +52,7 @@
 <ls>MBH. 12, 8336.</ls> {#सुखदुःखयोः#} 
 <ls>Spr. (II) 6480, v. l.</ls> {#सर्वतन्त्र°#} 
 <ls>SUŚR. 1, 3, 15. 89, 3.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 7.</ls> Comm. zu <ls>AV. PRĀT. S. 261 (4, I, 9).</ls> zu <ls>TS. PRĀT. 1, 29.</ls> {#सामान्यतस्#} {%in gleicher Weise%} 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 7.</ls> Comm. zu <ls>AV. PRĀT. S. 261 (4, I, 9).</ls> zu <ls>TS. PRĀT. 1, 29.</ls> {#सामान्यतस्#} {%in gleicher Weise%} 
 <ls>BHĀG. P. 7, 7, 38.</ls> {%nach der Analogie%} 
 <ls>KAP. 1, 104.</ls> 
 <ls>SĀṂKHYAK. 6.</ls> 
@@ -74,14 +74,14 @@
 zu <ls>3, 3, 142.</ls> {#सामान्यतस्#} {%im Allgemeinen, ohne in's Einzelne zu gehen%} 
 <ls>KAṆ. 2, 1, 16.</ls> <ls>SUŚR. 1, 95, 2. 127, 5. 193, 7. 261, 3.</ls> Comm. zu <ls>BHĀG. P. 10, 33, 30.</ls> {#सामान्यात्#} dass. Comm. zu 
 <ls>TS. PRĀT. 2, 9.</ls> {#सामान्येन#} dass. 
-<ls>KAP. 1, 139.</ls> <ls>Verz. d. Oxf. H. 281</ls>, {%b%}, 
+<ls>KAP. 1, 139.</ls> <ls>Verz. d. Oxf. H. 281,b,</ls> 
 <ls>10.</ls> <ls>UTPALA</ls> zu <ls>VARĀH. BṚH. 19 (17), 4.</ls> Comm. zu <ls>TS. PRĀT. 14, 28.</ls> <ls n="TS. PRĀT.">15, 8.</ls> <ls>VEDĀNTAS. (Allah.) No. 79.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 21.</ls> {#इत्येतेषां सामान्येन ग्रहणं ल इति#} 
-zu <ls>4, 1, 1. 8, 4, 28.</ls> {#°ग्रहण#} (=  {#सामान्येन ग्र°#}) 
+zu <ls>4, 1, 1. 8, 4, 28.</ls> {#°ग्रहण#} (= {#सामान्येन ग्र°#}) 
 zu <ls>3, 1, 8. 4, 77.</ls> {#सामान्योक्त#} Comm. zu 
 <ls>TS. PRĀT. 5, 22.</ls> {#सामान्योक्ति#} 
 zu <ls>2, 23. 10, 12.</ls> 
 <div n="2">— d) als rhet. Figur: {%Gleichheit%} 
-<ls>PRATĀPAR. 88</ls>, {%b%}, 4. {#यत्र सादृश्याद्विशेषो नोपलक्ष्यते#} 
+<ls>PRATĀPAR. 88,b,4.</ls> {#यत्र सादृश्याद्विशेषो नोपलक्ष्यते#} 
 <ls>KUVALAY. 142</ls>,a. Beispiel: {#पद्माकरप्रविष्टानां मुखं नोपालक्षि सुभ्रुवाम्#} . 
 <div n="1">— 4) {#°म्#} adv. 
 <div n="2"> a) am Ende eines comp. {%nach Art von, wie%}: {#त्वयाहं तपस्विसामन्यमवेक्षणीया#} 

@@ -1,6 +1,6 @@
 <L>20502<pc>642<k1>sickness<k2>sickness
-<div n="lb"/>{@SICKNESS:@}¦ <div n="I">I Nausea: </div><div n="1">(1) {#विवमिषा#} (the
-<div n="lb"/>feeling); </div><div n="1">(2) {#वमनम्#} (= vomiting); </div><div n="1">(3) {#छर्दिः#}
-<div n="lb"/>(= 2.) </div><div n="I">II Illness: </div><div n="1">(1) {#पीडितता;#} </div><div n="1">(2) {#असुस्थता;#}</div>
-<div n="lb"/><div n="1">(3) {#रोगिता:#} v. Also disease.</div>
+{@SICKNESS:@}¦ <div n="I">I Nausea: </div><div n="1">(1) {#विवमिषा#} (the
+feeling); </div><div n="1">(2) {#वमनम्#} (= vomiting); </div><div n="1">(3) {#छर्दिः#}
+(= 2.) </div><div n="I">II Illness: </div><div n="1">(1) {#पीडितता;#} </div><div n="1">(2) {#असुस्थता;#}</div>
+<div n="1">(3) {#रोगिता:#} v. Also disease.</div>
 <LEND>

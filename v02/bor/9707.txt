@@ -1,4 +1,4 @@
 <L>9707<pc>307<k1>garter<k2>garter
-<div n="lb"/>{@GARTER:@}¦ {#*पादावरणबन्धनी।#} <div n="xe">{%Order of the G.:%}</div> <div n="xs">{#*राज-#}
-<div n="lb"/>{#मालाश्रेणी।#}</div> <div n="xe">{%Knight of the G.:%}</div> <div n="xs">{#राजमालिन्#}</div> (f. {#नी#}).
+{@GARTER:@}¦ {#*पादावरणबन्धनी।#} <div n="xe">{%Order of the G.:%}</div> <div n="xs">{#*राज-#}
+{#मालाश्रेणी।#}</div> <div n="xe">{%Knight of the G.:%}</div> <div n="xs">{#राजमालिन्#}</div> (f. {#नी#}).
 <LEND>

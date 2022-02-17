@@ -1,16 +1,16 @@
 <L>9452<pc>122-3<k1>दुश्चर<k2>दुश्चर
 {#दुश्चर#}¦duś-cara, {%a.%} hard to traverse; inaccessible; <lbinfo n="4"/>
-<> hard to pass ({%time%}); difficult to practise: <lbinfo n="4"/>
-<> {@-tva,@} {%n.%} difficulty of practising; {@-car-@}
-<>{@-ita@}, {%pp.%} behaving ill, doing ill deeds; {%n.%} 
-<>({@dúś-@}), ill-conduct, misdeed, folly; {@-cárman@}, 
-<>{%a.%} having a skin disease; {@-cāritra@}, {%a.%} ill-conducted; <lbinfo n="3"/>
-<> {@-cārin@}, {%a. id.%}; {@-cikitsā@}, {%f.%} wrong 
-<>medical treatment; {@-cikitsita@}, {%pp.%} hard to 
-<>cure; {@-cikitsya@}, {%fp. id.%}: {@-tva,@} {%n.%} difficulty of 
-<>curing; {@-citta@}, {%a.%} dejected, sad; {@-cetas@}, {%a.%} 
-<>ill-disposed; {@-ceṣṭā@}, {%f.%} bad conduct, perverseness; <lbinfo n="8"/>
-<> {@-ceṣṭita@}, {%pp. n. id.: pl.%} ill-doings; 
-<>{@-cyavaná@}, {%a.%} hard to overthrow, immovable; 
-<>{@-cyāva@}, {%a. id.%}; {@-chid@}, {%a.%} hard to destroy.
+ hard to pass ({%time%}); difficult to practise: <lbinfo n="4"/>
+ {@-tva,@} {%n.%} difficulty of practising; {@-car-@}
+{@-ita@}, {%pp.%} behaving ill, doing ill deeds; {%n.%} 
+({@dúś-@}), ill-conduct, misdeed, folly; {@-cárman@}, 
+{%a.%} having a skin disease; {@-cāritra@}, {%a.%} ill-conducted; <lbinfo n="3"/>
+ {@-cārin@}, {%a. id.%}; {@-cikitsā@}, {%f.%} wrong 
+medical treatment; {@-cikitsita@}, {%pp.%} hard to 
+cure; {@-cikitsya@}, {%fp. id.%}: {@-tva,@} {%n.%} difficulty of 
+curing; {@-citta@}, {%a.%} dejected, sad; {@-cetas@}, {%a.%} 
+ill-disposed; {@-ceṣṭā@}, {%f.%} bad conduct, perverseness; <lbinfo n="8"/>
+ {@-ceṣṭita@}, {%pp. n. id.: pl.%} ill-doings; 
+{@-cyavaná@}, {%a.%} hard to overthrow, immovable; 
+{@-cyāva@}, {%a. id.%}; {@-chid@}, {%a.%} hard to destroy.
 <LEND>

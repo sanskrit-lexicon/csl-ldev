@@ -1,4 +1,4 @@
 <L>9499<pc>301<k1>fruitfulness<k2>fruitfulness
-<div n="lb"/>{@FRUITFULNESS:@}¦ <div n="1">(1) {#फलवत्ता;#} </div><div n="1">(2) {#फलशालिता;#}</div>
-<div n="lb"/><div n="1">(3) {#फलप्रदत्वम्।#}</div>
+{@FRUITFULNESS:@}¦ <div n="1">(1) {#फलवत्ता;#} </div><div n="1">(2) {#फलशालिता;#}</div>
+<div n="1">(3) {#फलप्रदत्वम्।#}</div>
 <LEND>

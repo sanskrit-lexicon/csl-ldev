@@ -1,7 +1,7 @@
 <L>7414<pc>234<k1>embark<k2>embark
-<div n="lb"/>{@EMBARK@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#नावं#} <div n="xe">{%or%}</div> <div n="xs">{#पोतम् आ-#}
-<div n="lb"/>{#रोहति, अधि-,#}</div> ({#रुह्,#} c. 1.) etc., <div n="xe">{%without e. ing%}
-<div n="lb"/>{%on a vessel:%}</div> <div n="xs">{#पोताधिरोहेण विनैव,#}</div> Tar.; </div><div n="1">(2) {#नौकया #}
-<div n="lb"/>{# प्रतिष्ठते#} ({#स्था,#} c. 1.) (= to depart). </div><div n="I">II To
-<div n="lb"/>engage: {#व्याप्रियते#} ({#पृ,#} c. 4.).</div>
+{@EMBARK@}¦ (v. i.): <div n="I">I Lit.: </div><div n="1">(1) {#नावं#} <div n="xe">{%or%}</div> <div n="xs">{#पोतम् आ-#}
+{#रोहति, अधि-,#}</div> ({#रुह्,#} c. 1.) etc., <div n="xe">{%without e. ing%}
+{%on a vessel:%}</div> <div n="xs">{#पोताधिरोहेण विनैव,#}</div> Tar.; </div><div n="1">(2) {#नौकया #}
+{# प्रतिष्ठते#} ({#स्था,#} c. 1.) (= to depart). </div><div n="I">II To
+engage: {#व्याप्रियते#} ({#पृ,#} c. 4.).</div>
 <LEND>

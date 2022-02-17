@@ -1,4 +1,4 @@
 <L>21752<pc>686<k1>subordination<k2>subordination
-<div n="lb"/>{@SUBORDINATION:@}¦ <div n="I">I Subjection: q. v.: {#वश्यता।#}</div>
-<div n="lb"/><div n="I">II Inferiority: q. v.: {#अप्रधानता।#}</div>
+{@SUBORDINATION:@}¦ <div n="I">I Subjection: q. v.: {#वश्यता।#}</div>
+<div n="I">II Inferiority: q. v.: {#अप्रधानता।#}</div>
 <LEND>

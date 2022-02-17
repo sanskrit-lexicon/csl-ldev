@@ -1,7 +1,7 @@
 <L>22004<pc>694<k1>survivor<k2>survivor
-<div n="lb"/>{@SURVIVOR:@}¦ <div n="1">(1) expr. by verb; </div><div n="1">(2) {#शेष#} (f. {#षा#}
-<div n="lb"/>=remaining), {%the s.s submitted to him:%}
-<div n="lb"/>{#शेषास्तं शरणं ययुः,#} R. iv. 64.; <div n="xe">{%alas ! I heard that%}
-<div n="lb"/>{%there were ten s.s:%}</div> <div n="xs">{#कष्टं युद्धे दश शेषाः श्रुता मे,#}</div>
-<div n="lb"/>Mah. i. 1. 220.</div>
+{@SURVIVOR:@}¦ <div n="1">(1) expr. by verb; </div><div n="1">(2) {#शेष#} (f. {#षा#}
+=remaining), {%the s.s submitted to him:%}
+{#शेषास्तं शरणं ययुः,#} R. iv. 64.; <div n="xe">{%alas ! I heard that%}
+{%there were ten s.s:%}</div> <div n="xs">{#कष्टं युद्धे दश शेषाः श्रुता मे,#}</div>
+Mah. i. 1. 220.</div>
 <LEND>

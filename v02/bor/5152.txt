@@ -1,11 +1,11 @@
 <L>5152<pc>166<k1>crown<k2>crown
-<div n="lb"/>{@CROWN@}¦ (subs.): <div n="I">I The ornament: </div><div n="1">(1) {#किरीट#}
-<div n="lb"/>(mn.); </div><div n="1">(2) {#मुकुटम्;#} </div><div n="1">(3) {#मौलिः#} </div><div n="I">II Fig., royal
-<div n="lb"/>power: <div n="xe">{%got the c. of Italy:%}</div> <div n="xs">{#इतालिराज्यमवाप;#}</div>
-<div n="lb"/><div n="xe">{%placed the c. on his son:%}</div> <div n="xs">{#तदात्मसम्मवं राज्ये समादधुः,#}</div>
-<div n="lb"/>R. xvii. 8. </div><div n="I">III Fig., sovereign: q. v. Ph.:
-<div n="lb"/><div n="xe">{%servant of the c.:%}</div> <div n="xs">{#राजसेवकः।#}</div> </div><div n="I">IV Any garland:
-<div n="lb"/>q. v.: {#माला।#} V. Of the head: {#चूडा।#} </div><div n="I">VI
-<div n="lb"/>Summit: q. v.: {#चूडा।#} </div><div n="I">VII A coin: {#इंलण्डीय-#}
-<div n="lb"/>{#रूप्यमुद्राविशेषः।#}</div>
+{@CROWN@}¦ (subs.): <div n="I">I The ornament: </div><div n="1">(1) {#किरीट#}
+(mn.); </div><div n="1">(2) {#मुकुटम्;#} </div><div n="1">(3) {#मौलिः#} </div><div n="I">II Fig., royal
+power: <div n="xe">{%got the c. of Italy:%}</div> <div n="xs">{#इतालिराज्यमवाप;#}</div>
+<div n="xe">{%placed the c. on his son:%}</div> <div n="xs">{#तदात्मसम्मवं राज्ये समादधुः,#}</div>
+R. xvii. 8. </div><div n="I">III Fig., sovereign: q. v. Ph.:
+<div n="xe">{%servant of the c.:%}</div> <div n="xs">{#राजसेवकः।#}</div> </div><div n="I">IV Any garland:
+q. v.: {#माला।#} V. Of the head: {#चूडा।#} </div><div n="I">VI
+Summit: q. v.: {#चूडा।#} </div><div n="I">VII A coin: {#इंलण्डीय-#}
+{#रूप्यमुद्राविशेषः।#}</div>
 <LEND>

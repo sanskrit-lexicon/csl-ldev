@@ -1,5 +1,5 @@
 <L>23873<pc>747<k1>village<k2>village
-<div n="lb"/>{@VILLAGE@}¦ (subs.): <div n="1">(1) {#ग्रामः,#} {%head of a v.:%}
-<div n="lb"/>{#ग्रामाध्यक्षः,#} V. s.; {#ग्रामणीः,#} M. n.; {%head of ten v. s:%}
-<div n="lb"/>{#दशाध्यक्ष्यः,#} V. s.</div>
+{@VILLAGE@}¦ (subs.): <div n="1">(1) {#ग्रामः,#} {%head of a v.:%}
+{#ग्रामाध्यक्षः,#} V. s.; {#ग्रामणीः,#} M. n.; {%head of ten v. s:%}
+{#दशाध्यक्ष्यः,#} V. s.</div>
 <LEND>

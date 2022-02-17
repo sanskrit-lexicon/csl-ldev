@@ -1,5 +1,5 @@
 <L>16575<pc>509<k1>patriotic<k2>patriotic
-<div n="lb"/>{@PATRIOTIC:@}¦ expr. by circumlo., {%p. zeal:%}
-<div n="lb"/>{#स्वदेशहिताग्रहः;#} <div n="xe">{%p. sentiments:%}</div> <div n="xs">{#*स्वदेशनिष्ठानि #}
-<div n="lb"/>{# मतानि।#}</div>
+{@PATRIOTIC:@}¦ expr. by circumlo., {%p. zeal:%}
+{#स्वदेशहिताग्रहः;#} <div n="xe">{%p. sentiments:%}</div> <div n="xs">{#*स्वदेशनिष्ठानि #}
+{# मतानि।#}</div>
 <LEND>

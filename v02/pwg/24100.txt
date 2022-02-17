@@ -11,7 +11,7 @@
 <ls>R. 5, 56, 139.</ls> {#यद्व^श्चि\त्रं यु\गे यु^गे\ नव्य\ं घोषा\दम^र्त्यम्#} 
 <ls>ṚV. 1, 139, 8.</ls> Nach 
 <ls>SĀY.</ls> abl. von {#घोष#}; vgl. auch {#घोषि#}.{# अहो दानं घुष्यते ते स्वर्गे स्वर्गवासिभिः#} 
-<ls>MBH. 14, 2773. 2692. 13, 811.</ls> 
+<ls>MBH. 14, 2773.</ls> <ls n="MBH. 14,">2692.</ls> <ls n="MBH.">13, 811.</ls> 
 <ls>R. 4, 10, 12.</ls> 
 <ls>MṚCCH. 159, 5.</ls> 
 <ls>ŚĀK. 150.</ls> {#घुषितं वाक्यम्#} 
@@ -25,7 +25,7 @@
 <ls>P. 7, 2, 23</ls> hat das partic. praet. pass. {#अविशब्दने#} d. i. {%wenn eine andere Bed. als «lautes Verkünden» gemeint ist%}, keinen Bindevocal. Im 
 <ls>DHĀTUP.</ls> erhält sowohl das simpl. als auch das caus. (nach der v. l.) die Bed. {#अविशब्दन#}, welches Einige durch {%jede beliebige Thätigkeit mit Ausnahme des lauten Verkündens%} erklären; in Folge dessen finden wir 
 <ls>BHAṬṬ. 5, 57</ls> {#घुष्ट#} in der Bed. von {#घृष्ट#} {%gerieben%} gebraucht. Nach dem 
-<ls>KAVIKALPADRUMA</ls> <ls>?(ŚKDR.)</ls> bedeutet {#घोषति#} {%tödten%} ({#वधे#}). — caus. {%berufen%}: {#(दैव्या जनिमानि) अ\मृ\त\त्वाय^ घो\षय^ः#} 
+<ls>KAVIKALPADRUMA</ls> (<ls>ŚKDR.</ls>) bedeutet {#घोषति#} {%tödten%} ({#वधे#}). — caus. {%berufen%}: {#(दैव्या जनिमानि) अ\मृ\त\त्वाय^ घो\षय^ः#} 
 <ls>ṚV. 9, 108, 3.</ls> {%laut verkünden%} 
 <ls>DHĀTUP. 33, 53.</ls> {#इति स द्रुपदो राजा स्वयंवरमघोषयत्#} (hier und im folg. Beispiele würde {%laut verkündigen lassen%} besser passen) 
 <ls>MBH. 1, 6956.</ls> {#घोषयामास वै पुरे#} 
@@ -41,7 +41,7 @@
 
 <div n="p">— {#अव#} {%laut verkünden%}: {#ततो ऽवघुष्यत तदा घोषे तत्प्राकृतैर्जनैः#} 
 <ls>HARIV. 3522.</ls> {%berufen, zu sich bescheiden%}: {#अवघुष्टे समाजे#} 
-<ls>MBH. 1, 5321</ls> <ls>?(HARIV. 4696</ls> bedeutet {#अवघुष्ट#} in derselben Verbindung {%laut angerufen, zum Hören aufgefordert%}). {#मच्छासनावघुष्टः स बिभेति कथं भवान्#} 
+<ls>MBH. 1, 5321</ls> (<ls>HARIV. 4696</ls> bedeutet {#अवघुष्ट#} in derselben Verbindung {%laut angerufen, zum Hören aufgefordert%}). {#मच्छासनावघुष्टः स बिभेति कथं भवान्#} 
 <ls>R. 3, 47, 9.</ls> {%ausbieten%}: {#अवघुष्टं च यद्भुक्तमव्रतेन#} (vgl. {#घुष्टान्न#} 
 <ls>M. 4, 209.</ls> {#संघुष्ट#} 
 <ls>YĀJÑ. 1, 168</ls>) <ls>MBH. 13, 1576.</ls> {%mit Geschrei erfüllen%}: {#नदीषु - क्रौञ्चावघुष्टासु#} 
@@ -114,7 +114,7 @@
 <ls>Sch.</ls> 
 <ls>VOP. 26, 113.</ls> {%ausbieten%}: {#संघुष्ट#} (von einer Speise) 
 <ls>YĀJÑ. 1, 168.</ls> {%mit Geschrei u.s.w. erfüllen%}: {#द्विजसंघुष्टं सरः#} 
-<ls>MBH. 3, 10406. 11559.</ls> 
+<ls>MBH. 3, 10406.</ls> <ls n="MBH. 3,">11559.</ls> 
 <ls>R. 2, 31, 4. 3, 55, 46. 79, 41. 5, 17, 17.</ls> {#संघुषित#} <lex>n.</lex> {%Geschrei%} 
 <ls>BHAṬṬ. 5, 35.</ls>
 

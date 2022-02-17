@@ -1,8 +1,8 @@
 <L>19541<pc>607<k1>rule<k2>rule
-<div n="lb"/>{@RULE@}¦ (v.): <div n="I">I To reign, govern: q. v.: {#शास्ति, #}
-<div n="lb"/>{# प्र-,#} ({#शास्,#} c. 2.). </div><div n="I">II To regulate, check:
-<div n="lb"/>q. v.: {#शास्ति।#} </div><div n="I">III To lay down as in a deci-
-<div n="lb"/>-sion: perh. {#शास्ति; व्यवस्थापयति#} (c. of {#स्था#}).</div>
-<div n="lb"/><div n="I">IV To mark with lines: perh. {#रेखाभिर् #}
-<div n="lb"/>{# अङ्कयति#} ({#अङ्क्,#} c. 10.).</div>
+{@RULE@}¦ (v.): <div n="I">I To reign, govern: q. v.: {#शास्ति, #}
+{# प्र-,#} ({#शास्,#} c. 2.). </div><div n="I">II To regulate, check:
+q. v.: {#शास्ति।#} </div><div n="I">III To lay down as in a deci-
+-sion: perh. {#शास्ति; व्यवस्थापयति#} (c. of {#स्था#}).</div>
+<div n="I">IV To mark with lines: perh. {#रेखाभिर् #}
+{# अङ्कयति#} ({#अङ्क्,#} c. 10.).</div>
 <LEND>

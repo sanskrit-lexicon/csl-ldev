@@ -1,5 +1,5 @@
 <L>1042<pc>036<k1>archives<k2>archives
-<div n="lb"/>{@ARCHIVES:@}¦ <div n="I">I Records: {#*प्राचीनपत्रसञ्चयः।#} </div><div n="I">II
-<div n="lb"/>The place where they are kept: {#*प्राचीन-#}
-<div n="lb"/>{#पत्रागारम्।#}</div>
+{@ARCHIVES:@}¦ <div n="I">I Records: {#*प्राचीनपत्रसञ्चयः।#} </div><div n="I">II
+The place where they are kept: {#*प्राचीन-#}
+{#पत्रागारम्।#}</div>
 <LEND>

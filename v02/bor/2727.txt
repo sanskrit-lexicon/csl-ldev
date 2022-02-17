@@ -1,5 +1,5 @@
 <L>2727<pc>092<k1>bugbear<k2>bugbear
-<div n="lb"/>{@BUGBEAR:@}¦ <div n="1">(1) {#भूतः#} (ghost); </div><div n="1">(2) {#त्रासजननः#}
-<div n="lb"/>({#नी, नं#}) (=terrific), {%he was a b. to the station%}
-<div n="lb"/>{#स पुरस्य त्रासजनन आसीत्।#}</div>
+{@BUGBEAR:@}¦ <div n="1">(1) {#भूतः#} (ghost); </div><div n="1">(2) {#त्रासजननः#}
+({#नी, नं#}) (=terrific), {%he was a b. to the station%}
+{#स पुरस्य त्रासजनन आसीत्।#}</div>
 <LEND>

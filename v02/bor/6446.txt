@@ -1,4 +1,4 @@
 <L>6446<pc>206<k1>dislocation<k2>dislocation
-<div n="lb"/>{@DISLOCATION:@}¦ <div n="I">I The act: {#विसन्धीकरणम्।#} </div><div n="I">II
-<div n="lb"/>The state: </div><div n="1">(1) {#सन्धिमुक्तिः;#} </div><div n="1">(2) {#सन्धिविश्लेषः।#}</div>
+{@DISLOCATION:@}¦ <div n="I">I The act: {#विसन्धीकरणम्।#} </div><div n="I">II
+The state: </div><div n="1">(1) {#सन्धिमुक्तिः;#} </div><div n="1">(2) {#सन्धिविश्लेषः।#}</div>
 <LEND>

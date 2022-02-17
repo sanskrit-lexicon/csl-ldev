@@ -1,6 +1,6 @@
 <L>24418<pc>764<k1>withhold<k2>withhold
-<div n="lb"/>{@WITHHOLD:@}¦ <div n="1">(1) {#संहरति#} ({#हृ,#} c. 1. draw back),
-<div n="lb"/><div n="xe">{%w. your anger:%}</div> <div n="xs">{#क्रोधं संहर,#}</div> Ku. iii. 72.; </div><div n="1">(2)
-<div n="lb"/>{#निगृह्नाति#} ({#ग्रह्,#} c. 9.): v. To restrain, check;</div>
-<div n="lb"/><div n="1">(3) {#प्रतिबध्नाति#} ({#बन्ध्,#} c. 9.): v. To obstruct.</div>
+{@WITHHOLD:@}¦ <div n="1">(1) {#संहरति#} ({#हृ,#} c. 1. draw back),
+<div n="xe">{%w. your anger:%}</div> <div n="xs">{#क्रोधं संहर,#}</div> Ku. iii. 72.; </div><div n="1">(2)
+{#निगृह्नाति#} ({#ग्रह्,#} c. 9.): v. To restrain, check;</div>
+<div n="1">(3) {#प्रतिबध्नाति#} ({#बन्ध्,#} c. 9.): v. To obstruct.</div>
 <LEND>

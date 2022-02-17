@@ -1,4 +1,4 @@
 <L>22326<pc>704<k1>tenement<k2>tenement
-<div n="lb"/>{@TENEMENT:@}¦ <div n="I">I In law: {#स्थावरम्।#} </div><div n="I">II A house:
-<div n="lb"/>{#भवनम्।#}</div>
+{@TENEMENT:@}¦ <div n="I">I In law: {#स्थावरम्।#} </div><div n="I">II A house:
+{#भवनम्।#}</div>
 <LEND>

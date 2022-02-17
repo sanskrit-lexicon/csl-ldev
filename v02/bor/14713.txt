@@ -1,4 +1,4 @@
 <L>14713<pc>450<k1>miscarriage<k2>miscarriage
-<div n="lb"/>{@MISCARRIAGE:@}¦ <div n="I">I Abortion: q. v.: {#गर्भपातः।#}</div>
-<div n="lb"/><div n="I">II Failure: q. v.</div>
+{@MISCARRIAGE:@}¦ <div n="I">I Abortion: q. v.: {#गर्भपातः।#}</div>
+<div n="I">II Failure: q. v.</div>
 <LEND>

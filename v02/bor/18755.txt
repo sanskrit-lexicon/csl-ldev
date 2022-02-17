@@ -1,5 +1,5 @@
 <L>18755<pc>578<k1>recreation<k2>recreation
-<div n="lb"/>{@RECREATION:@}¦ <div n="1">(1) {#विनोदः#} (= amusement);</div>
-<div n="lb"/><div n="1">(2) {#विहारः#} (by walking about); </div><div n="1">(3) {#विश्रामः#}
-<div n="lb"/>(= rest). {%To take r.:%} v. To amuse, rest.</div>
+{@RECREATION:@}¦ <div n="1">(1) {#विनोदः#} (= amusement);</div>
+<div n="1">(2) {#विहारः#} (by walking about); </div><div n="1">(3) {#विश्रामः#}
+(= rest). {%To take r.:%} v. To amuse, rest.</div>
 <LEND>

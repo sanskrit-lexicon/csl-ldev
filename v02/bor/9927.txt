@@ -1,9 +1,9 @@
 <L>9927<pc>313<k1>glance<k2>glance
-<div n="lb"/>{@GLANCE@}¦ (v.): <div n="I">I To cast the eyes rapidly:</div>
-<div n="lb"/><div n="1">(1) {#दृष्टिं क्षिपति#} ({#क्षिप्,#} c. 6.); </div><div n="1">(2) {#कटाक्षपातं #}
-<div n="lb"/>{# करोति।#} </div><div n="I">II To graze: {#घर्षति#} ({#घृष्,#} c. 1.). </div><div n="I">III
-<div n="lb"/>To allude: {#कटाक्षेण वदति#} ({#वद्,#} c. 1.), {#वक्ति#}
-<div n="lb"/>({#वच्,#} c. 1.), etc. Tārānāth. </div><div n="I">IV To move
-<div n="lb"/>quickly: {#स्फुरति#} ({#स्फुर्,#} c. 6.). V. To dart
-<div n="lb"/>aside: {#जवात् निष्पतति#} ({#पत्,#} c. 1.).</div>
+{@GLANCE@}¦ (v.): <div n="I">I To cast the eyes rapidly:</div>
+<div n="1">(1) {#दृष्टिं क्षिपति#} ({#क्षिप्,#} c. 6.); </div><div n="1">(2) {#कटाक्षपातं #}
+{# करोति।#} </div><div n="I">II To graze: {#घर्षति#} ({#घृष्,#} c. 1.). </div><div n="I">III
+To allude: {#कटाक्षेण वदति#} ({#वद्,#} c. 1.), {#वक्ति#}
+({#वच्,#} c. 1.), etc. Tārānāth. </div><div n="I">IV To move
+quickly: {#स्फुरति#} ({#स्फुर्,#} c. 6.). V. To dart
+aside: {#जवात् निष्पतति#} ({#पत्,#} c. 1.).</div>
 <LEND>

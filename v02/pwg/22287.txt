@@ -8,19 +8,19 @@
 <ls>CHĀND. UP. 2, 11, 1.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#ई/#} 
 <div n="2"> a) {%ein in dem bekannten alten 24silbigen Metrum abgefasstes Lied%} und {%dieses Metrum selbst%} 
-<ls>?(AK. 2, 7, 22. TRIK. 3, 3, 344. H. an. 3, 551. MED. r. 151).</ls> {#त्रि\ष्टुब्गा^य\त्री छन्दा^ंसि\ सर्वा\ ता य\म आहि^ता#} 
+(<ls>AK. 2, 7, 22.</ls> <ls>TRIK. 3, 3, 344.</ls> <ls>H. an. 3, 551.</ls> <ls>MED. r. 151).</ls> {#त्रि\ष्टुब्गा^य\त्री छन्दा^ंसि\ सर्वा\ ता य\म आहि^ता#} 
 <ls>ṚV. 10, 14, 16.</ls> {#अ\ग्नेर्गा^प\त्र्य^भवत्स\युग्वोष्णि^हया सवि\ता सं ब^भूव#} 
 <ls n="ṚV. 10,">130, 4.</ls> <ls>VS. 9, 32. 23, 33.</ls> {#व\त्सं गा^य\त्रामनु\ ता इ\हागु^ः#} (wo 
 <ls>TBR.</ls> : {#गायत्रम्#}) 
 <ls>AV. 13, 1, 10. 3, 3, 2. 8, 9, 14. 20. 10, 12.</ls> {#अष्टाक्षरा#} 
 <ls>AIT. BR. 1, 1. 4, 29.</ls> {#चतुर्विंशत्यक्षरा#} 
 ? <ls n="AIT. BR.">3, 40.</ls> <ls>ŚAT. BR. 6, 2, 1, 22.</ls> <ls>NIR. 7, 8.</ls> <ls>ŚAT. BR. 1, 4, 1, 34. 7, 1, 1. 3, 2, 4, 2</ls> u.s.w. <ls>CHĀND. UP. 3, 12. 1. 2. 5. 16, 1.</ls> <ls>ṚV. PRĀT. 16, 10.</ls> fgg., wo die verschiedenen Modificationen des Metrums aufgeführt werden. 
-<ls>MBH. 6. 172. fg.</ls> {#गायत्री छन्दसामहम्#} 
+<ls>MBH. 6, 172. fg.</ls> {#गायत्री छन्दसामहम्#} 
 <ls>BHAG. 10, 35.</ls> 
 <ls>VP. 42.</ls> 
 <ls>BHĀG. P. 3, 12, 45.</ls> 
-<ls>COLEBR. Misc. Ess. II, 152. 159</ls> ({%jedes aus 4 X 6 Silben bestehende Metrum%}). Alg. 
-<ls>49.</ls> 
+<ls>COLEBR. Misc. Ess. II, 152. 159</ls> ({%jedes aus 4 X 6 Silben bestehende Metrum%}). 
+<ls n="COLEBR.">Alg. 49.</ls> 
 <div n="2">— b) {%die%} <is>Gāyatrī</is> {%im ausgez. Sinne, der an%} <is>Savitar</is> {%gerichtete Vers%} 
 <ls>ṚV. 3, 62, 10</ls> 
 <ls>TRIK. 2, 7. 12.</ls> 
@@ -29,8 +29,8 @@
 <ls>SUŚR. 1, 111, 11.</ls> 
 <ls>VP. 222.</ls> {#(ब्रह्मा) ततो ऽसृजद्वै त्रिपदां गायत्रीं वेदमातरम् । अकरोच्चैव चतुरो वेदान्गायत्रिसंभवान् ॥#} 
 <ls>HARIV. 11516.</ls> <is>Brahman</is> zeugt mit der G. die vier <is>Veda</is> 
-<ls>11666. fgg.</ls> {#एकानंशां नमस्यामि गायत्रीं यज्ञसत्कृताम् । सावित्रीं चापि विप्राणां नमस्ये ऽहम्#} 
-<ls>9429.</ls> Zuweilen werden auch andere für einen bestimmten Zweck geläufige Verse dieses Metrums kurzhin so bezeichnet, z. B. {#अद्भिश्च गायत्र्यभिमन्त्रिताभिः#} 
+<ls n="HARIV.">11666. fgg.</ls> {#एकानंशां नमस्यामि गायत्रीं यज्ञसत्कृताम् । सावित्रीं चापि विप्राणां नमस्ये ऽहम्#} 
+<ls n="HARIV.">9429.</ls> Zuweilen werden auch andere für einen bestimmten Zweck geläufige Verse dieses Metrums kurzhin so bezeichnet, z. B. {#अद्भिश्च गायत्र्यभिमन्त्रिताभिः#} 
 <ls>SUŚR. 2, 385, 20</ls>, worunter 
 <ls>ṚV. 10, 9, 1</ls> gemeint sein kann. 
 <div n="2">— c) die <is>Gāyatrī</is> (nicht von einem einzelnen <is>Veda</is> - Verse, sondern von der Liedform zu verstehen) steht öfters verbunden mit dem <is>Amṛta</is>, gleichsam als {%die Grundform und%}
@@ -42,6 +42,6 @@
 <div n="1">— 3) <lex>n.</lex> {%ein Lied, welches in dem Metrum, das nachmals den Namen%} <is>Gāyatrī</is> {%führt, abgefasst ist und in dieser Sangweise vorgetragen wird.%} In den meisten Stellen lässt sich zwischen dem <lex>m.</lex> und <lex>n.</lex> äusserlich nicht scheiden; es giebt aber schwerlich eine Stelle, in welcher das <lex>m.</lex> in dem besondern technischen Sinne gebraucht wäre, während umgekehrt das <lex>n.</lex> öfters die allgemeine Bedeutung (s. 
 <ls>1.</ls>) hat. {#याभ्या^ं गाय\त्रमृ\च्यते^#} 
 <ls>ṚV. 8, 38, 10.</ls> {#यद्गा^य\त्रे अधि^ गाय\त्रमाहि^तम्#} 
-<ls n="ṚV.">1, 164, 23.</ls> <ls>fgg.</ls> {#उ\भे वाचौ^ वदति साम\गा इ^व गाय\त्रं च\ त्रैष्टु^भ\ं चानु^ राजति#} 
+<ls n="ṚV.">1, 164, 23. fgg.</ls> {#उ\भे वाचौ^ वदति साम\गा इ^व गाय\त्रं च\ त्रैष्टु^भ\ं चानु^ राजति#} 
 <ls n="ṚV.">2, 43, 1.</ls>
 <LEND>

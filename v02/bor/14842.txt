@@ -1,9 +1,9 @@
 <L>14842<pc>454<k1>moderate<k2>moderate
-<div n="lb"/>{@MODERATE@}¦ (adj.): <div n="I">I Within due measure:
-<div n="lb"/>{#मितः#} ({#ता, तं#}), {#परि-,#} {%one whose expenses are m.:%}
-<div n="lb"/>{#मितव्ययिन्#} (f. {#नी#}); {%whose language is m.%} ({%for the%}
-<div n="lb"/>{%sake of%}) <div n="xe">{%truth:%}</div> <div n="xs">{#सत्याय मितभाषिणाम्,#}</div> R. i. 7.</div>
-<div n="lb"/><div n="I">II Of a middle rate: expr. with negative,
-<div n="lb"/><div n="xe">{%of m. height:%}</div> <div n="xs">{#अनतिदीर्घ#}</div> (f. {#र्घा#}); {%of m. abilities:%}
-<div n="lb"/>{#अनतितीक्ष्णबुद्धि#} (mfn); etc.</div>
+{@MODERATE@}¦ (adj.): <div n="I">I Within due measure:
+{#मितः#} ({#ता, तं#}), {#परि-,#} {%one whose expenses are m.:%}
+{#मितव्ययिन्#} (f. {#नी#}); {%whose language is m.%} ({%for the%}
+{%sake of%}) <div n="xe">{%truth:%}</div> <div n="xs">{#सत्याय मितभाषिणाम्,#}</div> R. i. 7.</div>
+<div n="I">II Of a middle rate: expr. with negative,
+<div n="xe">{%of m. height:%}</div> <div n="xs">{#अनतिदीर्घ#}</div> (f. {#र्घा#}); {%of m. abilities:%}
+{#अनतितीक्ष्णबुद्धि#} (mfn); etc.</div>
 <LEND>

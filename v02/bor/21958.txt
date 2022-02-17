@@ -1,6 +1,6 @@
 <L>21958<pc>692<k1>suppression<k2>suppression
-<div n="lb"/>{@SUPPRESSION:@}¦ <div n="I">I Putting down: {#दमनम्:#} v.
-<div n="lb"/>Irradication, destruction. </div><div n="I">II Restraint:
-<div n="lb"/>q. v.: {#निग्रहः।#} </div><div n="I">II Concealment: q. v.: {#गोपनम्#}</div>
-<div n="lb"/><div n="I">IV Stoppage: {#स्तम्मः।#}</div>
+{@SUPPRESSION:@}¦ <div n="I">I Putting down: {#दमनम्:#} v.
+Irradication, destruction. </div><div n="I">II Restraint:
+q. v.: {#निग्रहः।#} </div><div n="I">II Concealment: q. v.: {#गोपनम्#}</div>
+<div n="I">IV Stoppage: {#स्तम्मः।#}</div>
 <LEND>

@@ -1,11 +1,11 @@
 <L>5116<pc>164<k1>crooked<k2>crooked
-<div n="lb"/>{@CROOKED@}¦ (adj.): <div n="I">I Not straight: </div><div n="1">(1) {#वक्र#}
-<div n="lb"/>(f. {#क्रा#}); </div><div n="1">(2) {#कुटिलः#} ({#ला, लं#}); </div><div n="1">(3) {#वक्रिमः#} ({#मा, #}
-<div n="lb"/>{# मं#}); </div><div n="1">(4) {#अरालः#} ({#ला, लं#}); </div><div n="1">(5) {#जिह्य, वि-,#} (f.
-<div n="lb"/>{#ह्मा#}); </div><div n="1">(6) {#वृजिनः#} ({#ना, नं#}). </div><div n="I">II In moral
-<div n="lb"/>sense: </div><div n="1">(1) {#वक्र#} (f. {#क्रा#}) (rare), <div n="xe">{%c. nature%}</div> <div n="xs">{#वक्र-#}
-<div n="lb"/>{#भावः,#}</div> N.; </div><div n="1">(2) {#कुटिलः#} ({#ला, लं#}), <div n="xe">{%c. minded%}</div> <div n="xs">{#कुटिल-#}
-<div n="lb"/>{#मति#}</div> (mfn.), Mu.; </div><div n="1">(3) {#जिह्म#} (f. {#ह्मा#}), {%yet than%}
-<div n="lb"/>{%c.%} (man.): {#तथापि जिह्मः सः,#} Ki.; </div><div n="1">(4) {#अनृजु#}
-<div n="lb"/>(mfn.).</div>
+{@CROOKED@}¦ (adj.): <div n="I">I Not straight: </div><div n="1">(1) {#वक्र#}
+(f. {#क्रा#}); </div><div n="1">(2) {#कुटिलः#} ({#ला, लं#}); </div><div n="1">(3) {#वक्रिमः#} ({#मा, #}
+{# मं#}); </div><div n="1">(4) {#अरालः#} ({#ला, लं#}); </div><div n="1">(5) {#जिह्य, वि-,#} (f.
+{#ह्मा#}); </div><div n="1">(6) {#वृजिनः#} ({#ना, नं#}). </div><div n="I">II In moral
+sense: </div><div n="1">(1) {#वक्र#} (f. {#क्रा#}) (rare), <div n="xe">{%c. nature%}</div> <div n="xs">{#वक्र-#}
+{#भावः,#}</div> N.; </div><div n="1">(2) {#कुटिलः#} ({#ला, लं#}), <div n="xe">{%c. minded%}</div> <div n="xs">{#कुटिल-#}
+{#मति#}</div> (mfn.), Mu.; </div><div n="1">(3) {#जिह्म#} (f. {#ह्मा#}), {%yet than%}
+{%c.%} (man.): {#तथापि जिह्मः सः,#} Ki.; </div><div n="1">(4) {#अनृजु#}
+(mfn.).</div>
 <LEND>

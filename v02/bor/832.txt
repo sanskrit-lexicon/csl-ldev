@@ -1,7 +1,7 @@
 <L>832<pc>029<k1>answer<k2>answer
-<div n="lb"/>{@ANSWER@}¦ (subs): <div n="1">(1) {#उत्तरं;#} </div><div n="1">(2) {#प्रतिवचनम्;#} </div><div n="1">(3)
-<div n="lb"/>{#प्रत्युक्तिः;#} </div><div n="1">(4) {#प्रतिवाक्यम्।#} N. B. The last three
-<div n="lb"/>words are applicable only to speaking in
-<div n="lb"/>reply, while the first {#उत्तरं#} is applicable also
-<div n="lb"/>to legal replies and solutions of problems.</div>
+{@ANSWER@}¦ (subs): <div n="1">(1) {#उत्तरं;#} </div><div n="1">(2) {#प्रतिवचनम्;#} </div><div n="1">(3)
+{#प्रत्युक्तिः;#} </div><div n="1">(4) {#प्रतिवाक्यम्।#} N. B. The last three
+words are applicable only to speaking in
+reply, while the first {#उत्तरं#} is applicable also
+to legal replies and solutions of problems.</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>17710<pc>542<k1>presumption<k2>presumption
-<div n="lb"/>{@PRESUMPTION:@}¦ <div n="I">I Conjecture, guess: q. v.: {#तर्कः#}</div>
-<div n="lb"/><div n="I">II Presumptuousness: </div><div n="1">(1) {#साहसम्#} (= bold-
-<div n="lb"/>-ness: q. v.); </div><div n="1">(2) {#प्रगल्भता#} (= audacity: q. v.);</div>
-<div n="lb"/><div n="1">(3) {#अवलेपः#} (= arrogance: q. v.). </div><div n="I">III In law:
-<div n="lb"/>perh. {#सम्भावना, अनुमानम्#} (= inference).</div>
+{@PRESUMPTION:@}¦ <div n="I">I Conjecture, guess: q. v.: {#तर्कः#}</div>
+<div n="I">II Presumptuousness: </div><div n="1">(1) {#साहसम्#} (= bold-
+-ness: q. v.); </div><div n="1">(2) {#प्रगल्भता#} (= audacity: q. v.);</div>
+<div n="1">(3) {#अवलेपः#} (= arrogance: q. v.). </div><div n="I">III In law:
+perh. {#सम्भावना, अनुमानम्#} (= inference).</div>
 <LEND>

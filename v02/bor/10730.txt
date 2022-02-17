@@ -1,14 +1,14 @@
 <L>10730<pc>338<k1>he<k2>he
-<div n="lb"/>{@HE:@}¦ <div n="I">I Pron.: </div><div n="1">(1) {#तद्#} (= that), <div n="xe">{%I am he:%}</div> <div n="xs">{#एषोऽस्मि #}
-<div n="lb"/>{# सः,#}</div> Mu. vii. 4.; <div n="xe">{%here is he:%}</div> <div n="xs">{#अयं सः,#}</div> Sa.; <div n="xe">{%he%}
-<div n="lb"/>{%also:%}</div> <div n="xs">{#सोऽपि,#}</div> D.; </div><div n="1">(2) {#अदस्,#} {%which of them is he:%}
-<div n="lb"/>{#कतमोऽसौ,#} D.; {%what he would have done to you:%}
-<div n="lb"/>{#त्वय्यसौ यदकरिष्यत्,#} K. </div><div n="1">(3) {#इदम्#} (= this), <div n="xe">{%is he a%}
-<div n="lb"/>{%new-comer:%}</div> <div n="xs">{#किमयमागन्तुकः,#}</div> Mu.; </div><div n="1">(4) {#एतद्,#}
-<div n="lb"/>(= this: q.v.); </div><div n="1">(5) not expr. when the
-<div n="lb"/>meaning is clear, <div n="xe">{%moreover he is cruel:%}</div> <div n="xs">{#अपरञ्च #}
-<div n="lb"/>{# क्रूरः,#}</div> P. Ph.: <div n="xe">{%things he is a Śudra:%}</div> <div n="xs">{#शूद्रोऽहमिति #}
-<div n="lb"/>{# मन्यते,#}</div> G. p.: v. That. </div><div n="I">II He who, he
-<div n="lb"/>that: {#यद्॥॥तद्:#} v. Who. </div><div n="I">III A male:
-<div n="lb"/>q.v.: expr. by m. gender: <div n="xe">{%he-goat:%}</div> <div n="xs">{#छागः।#}</div></div>
+{@HE:@}¦ <div n="I">I Pron.: </div><div n="1">(1) {#तद्#} (= that), <div n="xe">{%I am he:%}</div> <div n="xs">{#एषोऽस्मि #}
+{# सः,#}</div> Mu. vii. 4.; <div n="xe">{%here is he:%}</div> <div n="xs">{#अयं सः,#}</div> Sa.; <div n="xe">{%he%}
+{%also:%}</div> <div n="xs">{#सोऽपि,#}</div> D.; </div><div n="1">(2) {#अदस्,#} {%which of them is he:%}
+{#कतमोऽसौ,#} D.; {%what he would have done to you:%}
+{#त्वय्यसौ यदकरिष्यत्,#} K. </div><div n="1">(3) {#इदम्#} (= this), <div n="xe">{%is he a%}
+{%new-comer:%}</div> <div n="xs">{#किमयमागन्तुकः,#}</div> Mu.; </div><div n="1">(4) {#एतद्,#}
+(= this: q.v.); </div><div n="1">(5) not expr. when the
+meaning is clear, <div n="xe">{%moreover he is cruel:%}</div> <div n="xs">{#अपरञ्च #}
+{# क्रूरः,#}</div> P. Ph.: <div n="xe">{%things he is a Śudra:%}</div> <div n="xs">{#शूद्रोऽहमिति #}
+{# मन्यते,#}</div> G. p.: v. That. </div><div n="I">II He who, he
+that: {#यद्॥॥तद्:#} v. Who. </div><div n="I">III A male:
+q.v.: expr. by m. gender: <div n="xe">{%he-goat:%}</div> <div n="xs">{#छागः।#}</div></div>
 <LEND>

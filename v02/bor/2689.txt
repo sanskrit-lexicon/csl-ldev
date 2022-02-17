@@ -1,8 +1,8 @@
 <L>2689<pc>091<k1>brush<k2>brush
-<div n="lb"/>{@BRUSH@}¦ (vt.): <div n="I">I To take the dirt of: </div><div n="1">(1)
-<div n="lb"/>{#मार्ष्टि#} ({#मृज्,#} c. 2.); </div><div n="1">(2) {#शोधयति#} (c. of {#शुध्#})</div>
-<div n="lb"/><div n="I">II To touch gently: {#घर्षति#} ({#घृष्,#} c. l.).</div>
-<div n="lb"/><div n="I">III To b. off or away: {#निष्कासयति#} (c. of
-<div n="lb"/>{#कस्#}): v. To remove. </div><div n="I">IV To b. up: v. To
-<div n="lb"/>furnish.</div>
+{@BRUSH@}¦ (vt.): <div n="I">I To take the dirt of: </div><div n="1">(1)
+{#मार्ष्टि#} ({#मृज्,#} c. 2.); </div><div n="1">(2) {#शोधयति#} (c. of {#शुध्#})</div>
+<div n="I">II To touch gently: {#घर्षति#} ({#घृष्,#} c. l.).</div>
+<div n="I">III To b. off or away: {#निष्कासयति#} (c. of
+{#कस्#}): v. To remove. </div><div n="I">IV To b. up: v. To
+furnish.</div>
 <LEND>

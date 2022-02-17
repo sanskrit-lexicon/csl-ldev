@@ -1,10 +1,10 @@
 <L>10753<pc>339<k1>health<k2>health
-<div n="lb"/>{@HEALTH:@}¦ <div n="1">(1) {#आरोग्यम्#} (best equiv.) (also
-<div n="lb"/>{#अरोगिता#} <div n="xe">{%or%}</div> <div n="xs">{#अरोगता#}</div>), <div n="xe">{%strength, h.:%}</div> <div n="xs">{#शक्तिरागोग्यम्,#}</div>
-<div n="lb"/>Ph.: <div n="xe">{%to recover h.:%}</div> <div n="xs">{#आरोग्यं प्राप्नोति;#}</div> {%to wish h.:%}
-<div n="lb"/>{#आरोग्यमिच्छति,#} Kat.; </div><div n="1">(2) {#स्वास्थ्यम्,#} {%to keep h.:%}
-<div n="lb"/>{#स्वास्थ्यं रक्षति,#} Sr.; </div><div n="1">(3) {#अनामयम्#} (rare), <div n="xe">{%says this,%}
-<div n="lb"/>{%wishing you h.:%}</div> <div n="xs">{#अनामयप्रश्नपूर्वकमिदमाह,#}</div> Sa. v. <div n="xe">{%To%}
-<div n="lb"/>{%be in good, bad h.:%}</div> <div n="xs">{#सुस्थः#}</div> ({#स्था, स्थं#}), {#अ-:#} v.
-<div n="lb"/>Well, ill.</div>
+{@HEALTH:@}¦ <div n="1">(1) {#आरोग्यम्#} (best equiv.) (also
+{#अरोगिता#} <div n="xe">{%or%}</div> <div n="xs">{#अरोगता#}</div>), <div n="xe">{%strength, h.:%}</div> <div n="xs">{#शक्तिरागोग्यम्,#}</div>
+Ph.: <div n="xe">{%to recover h.:%}</div> <div n="xs">{#आरोग्यं प्राप्नोति;#}</div> {%to wish h.:%}
+{#आरोग्यमिच्छति,#} Kat.; </div><div n="1">(2) {#स्वास्थ्यम्,#} {%to keep h.:%}
+{#स्वास्थ्यं रक्षति,#} Sr.; </div><div n="1">(3) {#अनामयम्#} (rare), <div n="xe">{%says this,%}
+{%wishing you h.:%}</div> <div n="xs">{#अनामयप्रश्नपूर्वकमिदमाह,#}</div> Sa. v. <div n="xe">{%To%}
+{%be in good, bad h.:%}</div> <div n="xs">{#सुस्थः#}</div> ({#स्था, स्थं#}), {#अ-:#} v.
+Well, ill.</div>
 <LEND>

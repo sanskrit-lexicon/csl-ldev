@@ -1,6 +1,6 @@
 <L>12208<pc>380<k1>infusion<k2>infusion
-<div n="lb"/>{@INFUSION:@}¦ <div n="I">I Pouring in: {#नीषेकः।#} </div><div n="I">II Inspi-
-<div n="lb"/>-ration: {#आधानम्, सम्-।#} </div><div n="I">III A liquid obtained
-<div n="lb"/>by i.: </div><div n="1">(1) {#जलम्#} (= water), <div n="xe">{%i. of rice:%}</div> <div n="xs">{#तण्डुल-#}
-<div n="lb"/>{#जलम्,#}</div> Bha.; </div><div n="1">(2) {#क्वाथः#} (= decoction).</div>
+{@INFUSION:@}¦ <div n="I">I Pouring in: {#नीषेकः।#} </div><div n="I">II Inspi-
+-ration: {#आधानम्, सम्-।#} </div><div n="I">III A liquid obtained
+by i.: </div><div n="1">(1) {#जलम्#} (= water), <div n="xe">{%i. of rice:%}</div> <div n="xs">{#तण्डुल-#}
+{#जलम्,#}</div> Bha.; </div><div n="1">(2) {#क्वाथः#} (= decoction).</div>
 <LEND>

@@ -1,7 +1,7 @@
 <L>19136<pc>592<k1>respect<k2>respect
-<div n="lb"/>{@RESPECT@}¦ (subs.): <div n="I">I Reference: Ph.: {%with r.%}
-<div n="lb"/>{%to:%} v. R. ing. </div><div n="I">II Honour, regard: </div><div n="1">(1)
-<div n="lb"/>{#सम्मानः#} (= honour); </div><div n="1">(2) {#आदरः#} (= attention,
-<div n="lb"/>consideration; </div><div n="1">(3) {#गौरवम्#} (= reverence);</div>
-<div n="lb"/><div n="1">(4) {#पूजा#} <div n="xe">{%or%}</div> <div n="xs">{#अर्चना#}</div> (= adoration).</div>
+{@RESPECT@}¦ (subs.): <div n="I">I Reference: Ph.: {%with r.%}
+{%to:%} v. R. ing. </div><div n="I">II Honour, regard: </div><div n="1">(1)
+{#सम्मानः#} (= honour); </div><div n="1">(2) {#आदरः#} (= attention,
+consideration; </div><div n="1">(3) {#गौरवम्#} (= reverence);</div>
+<div n="1">(4) {#पूजा#} <div n="xe">{%or%}</div> <div n="xs">{#अर्चना#}</div> (= adoration).</div>
 <LEND>

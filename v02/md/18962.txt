@@ -1,14 +1,14 @@
 <L>18962<pc>340-2<k1>सम्यक्<k2>सम्यक्
 {#सम्यक्#}¦samyák, {%ad.%} ({%n. of%} samyañc), {%RV., %}
-<>{%E.%}; in one direction, together; {%C.%}: rightly, 
-<>correctly, truly, duly, properly ({%sts. pred. instead %}<lbinfo n="2"/>
-<>{% of a.%}); entirely, completely ({%rare%}; {%with%} 
-<>{@na,@} not at all): -{@kṛ@}, make true ({%a promise%}); 
-<>{@-sthā,@} associate with ({%lc.%}): {@-tā,@} {%f.%} rightness, 
-<>correct manner; {@-tva,@} {%n. id.%}; perfection; 
-<>{@-pālana,@} {%n.%} due protection; {@-prayoga,@} {%m.%} 
-<>correct employment: {%in., ab.%} by the employment <lbinfo n="6"/>
-<> of proper means; {@-saṃkalpa@}, {%m.%} correct 
-<>will; {@-saṃbodha@}, {%m.%} complete enlightenment <lbinfo n="9"/>
-<> ({%of Buddha%}).
+{%E.%}; in one direction, together; {%C.%}: rightly, 
+correctly, truly, duly, properly ({%sts. pred. instead %}<lbinfo n="2"/>
+{% of a.%}); entirely, completely ({%rare%}; {%with%} 
+{@na,@} not at all): -{@kṛ@}, make true ({%a promise%}); 
+{@-sthā,@} associate with ({%lc.%}): {@-tā,@} {%f.%} rightness, 
+correct manner; {@-tva,@} {%n. id.%}; perfection; 
+{@-pālana,@} {%n.%} due protection; {@-prayoga,@} {%m.%} 
+correct employment: {%in., ab.%} by the employment <lbinfo n="6"/>
+ of proper means; {@-saṃkalpa@}, {%m.%} correct 
+will; {@-saṃbodha@}, {%m.%} complete enlightenment <lbinfo n="9"/>
+ ({%of Buddha%}).
 <LEND>

@@ -1,9 +1,9 @@
 <L>18034<pc>553<k1>protection<k2>protection
-<div n="lb"/>{@PROTECTION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#रक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#रक्षणम्, अभि-, #}
-<div n="lb"/>{# परि-, सं-;#}</div> </div><div n="1">(2) {#गुप्तिः,#} {%p. of the three worlds:%}
-<div n="lb"/>{#त्रिभुवनगुप्तिः,#} Ki. x. 15. </div><div n="I">II That which
-<div n="lb"/>protects: </div><div n="1">(1) {#आश्रयः;#} </div><div n="1">(2) {#शरणम्,#} <div n="xe">{%how can I%}
-<div n="lb"/>{%seek another for p.:%}</div> <div n="xs">{#कथं प्रपत्स्ये शरणार्थमन्यम्,#}</div> R.
-<div n="lb"/>xiv. 64. </div><div n="I">III In commerce: {#स्वदेशपण्यरक्षार्थं #}
-<div n="lb"/>{# विदेशीयपण्यानामुपर्यधिकशुल्कसंस्थापनम्।#}</div>
+{@PROTECTION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#रक्षा#} <div n="xe">{%or%}</div> <div n="xs">{#रक्षणम्, अभि-, #}
+{# परि-, सं-;#}</div> </div><div n="1">(2) {#गुप्तिः,#} {%p. of the three worlds:%}
+{#त्रिभुवनगुप्तिः,#} Ki. x. 15. </div><div n="I">II That which
+protects: </div><div n="1">(1) {#आश्रयः;#} </div><div n="1">(2) {#शरणम्,#} <div n="xe">{%how can I%}
+{%seek another for p.:%}</div> <div n="xs">{#कथं प्रपत्स्ये शरणार्थमन्यम्,#}</div> R.
+xiv. 64. </div><div n="I">III In commerce: {#स्वदेशपण्यरक्षार्थं #}
+{# विदेशीयपण्यानामुपर्यधिकशुल्कसंस्थापनम्।#}</div>
 <LEND>

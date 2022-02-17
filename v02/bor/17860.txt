@@ -1,6 +1,6 @@
 <L>17860<pc>547<k1>prodigy<k2>prodigy
-<div n="lb"/>{@PRODIGY:@}¦ <div n="I">I A monster: expr. with {#अद्भुत#}
-<div n="lb"/>(f. {#ता#} = wonderful: q. v.). </div><div n="I">II A portent:
-<div n="lb"/>{#उत्पातः।#} Ph.: <div n="xe">{%“a p. of learning”:%}</div> <div n="xs">{#असाधारण-#}
-<div n="lb"/>{#पण्डितः।#}</div></div>
+{@PRODIGY:@}¦ <div n="I">I A monster: expr. with {#अद्भुत#}
+(f. {#ता#} = wonderful: q. v.). </div><div n="I">II A portent:
+{#उत्पातः।#} Ph.: <div n="xe">{%“a p. of learning”:%}</div> <div n="xs">{#असाधारण-#}
+{#पण्डितः।#}</div></div>
 <LEND>

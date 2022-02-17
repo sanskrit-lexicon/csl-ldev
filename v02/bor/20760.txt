@@ -1,7 +1,7 @@
 <L>20760<pc>652<k1>slippery<k2>slippery
-<div n="lb"/>{@SLIPPERY:@}¦ <div n="I">I Lit.: {#पिच्छिल#} (f. {#ला#}), {%in the%}
-<div n="lb"/>{%battle-field s. with mud.%} ({%formed by%}) {%blood:%}
-<div n="lb"/>{#रणाङ्गने शोणितपङ्कपिच्छिले,#} Ku. xvi. 50. </div><div n="I">II Un-
-<div n="lb"/>-stable, uncertain: q. v.: {#अस्थिरः।#} </div><div n="I">III Of
-<div n="lb"/>men: {#चपलः#} ({#ला, लं#}), Sa. ii.</div>
+{@SLIPPERY:@}¦ <div n="I">I Lit.: {#पिच्छिल#} (f. {#ला#}), {%in the%}
+{%battle-field s. with mud.%} ({%formed by%}) {%blood:%}
+{#रणाङ्गने शोणितपङ्कपिच्छिले,#} Ku. xvi. 50. </div><div n="I">II Un-
+-stable, uncertain: q. v.: {#अस्थिरः।#} </div><div n="I">III Of
+men: {#चपलः#} ({#ला, लं#}), Sa. ii.</div>
 <LEND>

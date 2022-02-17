@@ -1,12 +1,12 @@
 <L>21090<pc>664<k1>spare<k2>spare
-<div n="lb"/>{@SPARE@}¦ (v.): <div n="I">I Not to throw away: </div><div n="1">(1) {#न #}
-<div n="lb"/>{# क्षिपति, वि-, विनि-, प्र-#} ({#क्षिप्,#} c. 1.); </div><div n="1">(2) {#संचि-#}
-<div n="lb"/>{#नोति#} ({#चि,#} c. 5.): v. To save; </div><div n="1">(3) {#रक्षति, #}
-<div n="lb"/>{# सं-,#} ({#रक्ष्,#} c. 1. = to keep), <div n="xe">{%shall s. money for%}
-<div n="lb"/>{%calamities:%}</div> <div n="xs">{#आपदर्थे धनं रक्षेत्,#}</div> H. </div><div n="I">II To grant,
-<div n="lb"/>give: q. v.: {#ददाति#} ({#दा,#} c. 3.). Ph.: <div n="xe">{%s.%}
-<div n="lb"/>{%him:%}</div> <div n="xs">{#मुच्यताम्,#}</div> Mr. x.: v. To release. </div><div n="I">III
-<div n="lb"/>To give up: {#जहाति, वि-,#} ({#हा,#} c. 3.: v.
-<div n="lb"/>To abandon). </div><div n="I">IV To omit, forbear:
-<div n="lb"/>q. v.</div>
+{@SPARE@}¦ (v.): <div n="I">I Not to throw away: </div><div n="1">(1) {#न #}
+{# क्षिपति, वि-, विनि-, प्र-#} ({#क्षिप्,#} c. 1.); </div><div n="1">(2) {#संचि-#}
+{#नोति#} ({#चि,#} c. 5.): v. To save; </div><div n="1">(3) {#रक्षति, #}
+{# सं-,#} ({#रक्ष्,#} c. 1. = to keep), <div n="xe">{%shall s. money for%}
+{%calamities:%}</div> <div n="xs">{#आपदर्थे धनं रक्षेत्,#}</div> H. </div><div n="I">II To grant,
+give: q. v.: {#ददाति#} ({#दा,#} c. 3.). Ph.: <div n="xe">{%s.%}
+{%him:%}</div> <div n="xs">{#मुच्यताम्,#}</div> Mr. x.: v. To release. </div><div n="I">III
+To give up: {#जहाति, वि-,#} ({#हा,#} c. 3.: v.
+To abandon). </div><div n="I">IV To omit, forbear:
+q. v.</div>
 <LEND>

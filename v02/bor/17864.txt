@@ -1,6 +1,6 @@
 <L>17864<pc>547<k1>product<k2>product
-<div n="lb"/>{@PRODUCT@}¦ (subs.): <div n="I">I Produce: q. v.: {#फलम्।#}</div>
-<div n="lb"/><div n="I">II Work: q. v.: {#कर्मन्#} (n.). </div><div n="I">III In arith.:</div>
-<div n="lb"/><div n="1">(1) {#गुणनफलम्,#} Vij.; </div><div n="1">(2) {#बधः#} <div n="xe">{%or%}</div> <div n="xs">{#घातः,#}</div> {%their p.:%}
-<div n="lb"/>{#अनयोर्घातः,#} Li.</div>
+{@PRODUCT@}¦ (subs.): <div n="I">I Produce: q. v.: {#फलम्।#}</div>
+<div n="I">II Work: q. v.: {#कर्मन्#} (n.). </div><div n="I">III In arith.:</div>
+<div n="1">(1) {#गुणनफलम्,#} Vij.; </div><div n="1">(2) {#बधः#} <div n="xe">{%or%}</div> <div n="xs">{#घातः,#}</div> {%their p.:%}
+{#अनयोर्घातः,#} Li.</div>
 <LEND>

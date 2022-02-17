@@ -1,13 +1,13 @@
 <L>36683<pc>3-0951<k1>धार्तराष्ट्र<k2>धार्तराष्ट्र
 {#धार्तराष्ट्र#}¦ 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} {%dem%} <is>Dhṛtarāṣṭra</is> {%gehörig u.s.w.%}: {#सेना#} 
-<ls>MBH. 8, 376. 6, 5230.</ls> {#श्री#} 
+<ls>MBH. 8, 376.</ls> <ls n="MBH.">6, 5230.</ls> {#श्री#} 
 <ls>3, 1996.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%ein Sohn des%} <is>Dhṛtarāṣṭra</is>, insbes. patron. des <is>Duryodhana</is>, des ältesten Sohnes, 
 <ls>H. an. 4, 260.</ls> 
-<ls>MED. r. 271.</ls> <ls>MBH. 1, 2726. 3748. 5, 906. 4404.</ls> <ls>BHAG. 1, 23.</ls> pl. = {#कुरवः#} 
+<ls>MED. r. 271.</ls> <ls>MBH. 1, 2726.</ls> <ls n="MBH. 1,">3748.</ls> <ls n="MBH.">5, 906.</ls> <ls n="MBH. 5,">4404.</ls> <ls>BHAG. 1, 23.</ls> pl. = {#कुरवः#} 
 <ls>19. 20. 36. 37.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आः निर्धार्तराष्ट्रां पृथिवीं कर्तास्मि#} 
-<ls>MBH. 2, 2558. 3, 10280. 8, 3790.</ls> 
+<ls>MBH. 2, 2558.</ls> <ls n="MBH.">3, 10280.</ls> <ls n="MBH.">8, 3790.</ls> 
 <div n="1">— 3) <lex>m.</lex> {%eine Art Schlange%} (vgl. {#धृतराष्ट्र#}) 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 4) <lex>m.</lex> (von {#धृतराष्ट्री#}) {%eine weisse Gansart mit schwarzen Beinen und schwarzem Schnabel%} 
@@ -16,5 +16,5 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>VYUTP. 118.</ls> {#हंसान्धार्तराष्ट्रान्देवलोकनिवासिनः#} 
-<ls>HARIV. 8585. 8608. 12670.</ls>
+<ls>HARIV. 8585.</ls> <ls n="HARIV.">8608.</ls> <ls n="HARIV.">12670.</ls>
 <LEND>

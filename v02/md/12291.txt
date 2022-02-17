@@ -1,32 +1,32 @@
 <L>12291<pc>182-1<k1>प्रशंसक<k2>प्रशंसक
 {#प्रशंसक#}¦pra-śaṃsa-ka, {%a.%} praising (-°); 
-<>{@-śaṃsana@}, {%n.%} laudation; {@-śaṃsanīya@}, {%fp.%} to 
-<>be praised; {@-śaṃsā́@}, {%f.%} praise, eulogy, applause <lbinfo n="2"/>
-<> ({%sts. pl.%}); fame: {@-nāman,@} {%n.%} term of 
-<>praise, {@-ālāpa,@} {%m.%} applause, {@-vacana@}, {%n.%} 
-<>laudatory remark, {@-āvali,@} {%f.%} panegyric poem; 
-<>{@-śaṃsin@}, {%a.%} praising, extolling (-°); {@-śaṃ-@}
-<>{@-sā-‡upamā@}, {%f.%} comparison implying praise 
-<>({%rh.%}); {@-śaṃstavya@}, {%fp.%} praiseworthy; {@-śáṃs-@}
-<>{@-ya@}, {%fp. id.%}; better than ({%ab.%}); {@-śama@}, {%m.%} 
-<>tranquilization, pacification, appeasement; 
-<>composure, calm; cessation, extinction ({%of %}
-<>{%fire%}), abatement, removal ({%of obstacles, pain, %}
-<>{%etc.%}); mental calm, quietude; {@-śamaka@}, {%a.%} 
-<>tranquilizing, rendering innocuous (-°); {@-śam-@}
-<>{@-aṃ -kara@}, {%a.%} causing the cessation of ({%g.%}), 
-<>disturbing; {@-śamana@}, {%a.%} tranquilizing, 
-<>calming, allaying, extinguishing, curing; {%n.%} 
-<>tranquilization, pacification; alleviation, 
-<>mitigation; healing; rendering innocuous; 
-<>securing ({%property%}); {@-śas@}, {%f.%} axe, knife; 
-<>{@-śasta@}, {%pp.%} (√ śaṃs) praised, commended, {%etc.%}: 
-<>{@-kalaśa@}, {%m. N.%}, {@-tva,@} {%n.%} excellence; {@-śastav-@}
-<>{@-ya@}, {%fp.%} praiseworthy; ({@á@}) {@-śasti@}, {%f.%} praise, 
-<>laudation; glory; direction, guidance; benediction <lbinfo n="4"/>
-<> {%expressing a desire for peace in the %}
-<>{%realm%} ({%dr.%}); ({%metrical%}) eulogistic inscription: 
-<>{@-kṛt@}, {%a.%} bestowing praise, approving; {@-paṭṭa@}, 
-<>{%m.%} written edict; {@-śásya@}, {%fp.%} praiseworthy, commendable, <lbinfo n="3"/>
-<> excellent; blessed: {@-tā,@} {%f.%} excellence. 
+{@-śaṃsana@}, {%n.%} laudation; {@-śaṃsanīya@}, {%fp.%} to 
+be praised; {@-śaṃsā́@}, {%f.%} praise, eulogy, applause <lbinfo n="2"/>
+ ({%sts. pl.%}); fame: {@-nāman,@} {%n.%} term of 
+praise, {@-ālāpa,@} {%m.%} applause, {@-vacana@}, {%n.%} 
+laudatory remark, {@-āvali,@} {%f.%} panegyric poem; 
+{@-śaṃsin@}, {%a.%} praising, extolling (-°); {@-śaṃ-@}
+{@-sā-‡upamā@}, {%f.%} comparison implying praise 
+({%rh.%}); {@-śaṃstavya@}, {%fp.%} praiseworthy; {@-śáṃs-@}
+{@-ya@}, {%fp. id.%}; better than ({%ab.%}); {@-śama@}, {%m.%} 
+tranquilization, pacification, appeasement; 
+composure, calm; cessation, extinction ({%of %}
+{%fire%}), abatement, removal ({%of obstacles, pain, %}
+{%etc.%}); mental calm, quietude; {@-śamaka@}, {%a.%} 
+tranquilizing, rendering innocuous (-°); {@-śam-@}
+{@-aṃ -kara@}, {%a.%} causing the cessation of ({%g.%}), 
+disturbing; {@-śamana@}, {%a.%} tranquilizing, 
+calming, allaying, extinguishing, curing; {%n.%} 
+tranquilization, pacification; alleviation, 
+mitigation; healing; rendering innocuous; 
+securing ({%property%}); {@-śas@}, {%f.%} axe, knife; 
+{@-śasta@}, {%pp.%} (√ śaṃs) praised, commended, {%etc.%}: 
+{@-kalaśa@}, {%m. N.%}, {@-tva,@} {%n.%} excellence; {@-śastav-@}
+{@-ya@}, {%fp.%} praiseworthy; ({@á@}) {@-śasti@}, {%f.%} praise, 
+laudation; glory; direction, guidance; benediction <lbinfo n="4"/>
+ {%expressing a desire for peace in the %}
+{%realm%} ({%dr.%}); ({%metrical%}) eulogistic inscription: 
+{@-kṛt@}, {%a.%} bestowing praise, approving; {@-paṭṭa@}, 
+{%m.%} written edict; {@-śásya@}, {%fp.%} praiseworthy, commendable, <lbinfo n="3"/>
+ excellent; blessed: {@-tā,@} {%f.%} excellence. 
 <LEND>

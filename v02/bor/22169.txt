@@ -1,6 +1,6 @@
 <L>22169<pc>699<k1>talent<k2>talent
-<div n="lb"/>{@TALENT:@}¦ <div n="I">I Natural ability: {#शक्तिः:#} v.
-<div n="lb"/>Genius. </div><div n="I">II Intellectual ability: {#धीशक्तिः#}
-<div n="lb"/>and sim. comp. s. </div><div n="I">III A coin or
-<div n="lb"/>weight.</div>
+{@TALENT:@}¦ <div n="I">I Natural ability: {#शक्तिः:#} v.
+Genius. </div><div n="I">II Intellectual ability: {#धीशक्तिः#}
+and sim. comp. s. </div><div n="I">III A coin or
+weight.</div>
 <LEND>

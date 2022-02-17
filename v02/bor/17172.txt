@@ -1,4 +1,4 @@
 <L>17172<pc>525<k1>planet<k2>planet
-<div n="lb"/>{@PLANET:@}¦ {#ग्रहः,#} <div n="xe">{%superior, inferior p.:%}</div> <div n="xs">{#अधःस्थः, #}
-<div n="lb"/>{# ऊर्द्धस्थो ग्रहः#}</div> (after Su.). <div n="xe">{%Minor p.:%}</div> <div n="xs">{#उपग्रहः।#}</div>
+{@PLANET:@}¦ {#ग्रहः,#} <div n="xe">{%superior, inferior p.:%}</div> <div n="xs">{#अधःस्थः, #}
+{# ऊर्द्धस्थो ग्रहः#}</div> (after Su.). <div n="xe">{%Minor p.:%}</div> <div n="xs">{#उपग्रहः।#}</div>
 <LEND>

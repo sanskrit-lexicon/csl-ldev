@@ -1,8 +1,8 @@
 <L>8563<pc>271<k1>fee<k2>fee
-<div n="lb"/>{@FEE@}¦ (subs.): <div n="I">I Property, possession: q.v.</div>
-<div n="lb"/><div n="I">II Charge, pay: {#शुल्क#} (mn.), <div n="xe">{%even a Śūdra%}
-<div n="lb"/>{%should not take f., giving away a daughter:%}</div>
-<div n="lb"/><div n="xs">{#आददीत न शूद्रोऽपि शुल्कं दुहितरं ददत्,#}</div> M. ix. 98.;
-<div n="lb"/><div n="xe">{%f. giver:%}</div> <div n="xs">{#शुल्कदः,#}</div> M. iii. <div n="xe">{%F. -simple:%}</div> <div n="xs">{#चिरस्थायिनी #}
-<div n="lb"/>{# भूमिः#}</div> (?).</div>
+{@FEE@}¦ (subs.): <div n="I">I Property, possession: q.v.</div>
+<div n="I">II Charge, pay: {#शुल्क#} (mn.), <div n="xe">{%even a Śūdra%}
+{%should not take f., giving away a daughter:%}</div>
+<div n="xs">{#आददीत न शूद्रोऽपि शुल्कं दुहितरं ददत्,#}</div> M. ix. 98.;
+<div n="xe">{%f. giver:%}</div> <div n="xs">{#शुल्कदः,#}</div> M. iii. <div n="xe">{%F. -simple:%}</div> <div n="xs">{#चिरस्थायिनी #}
+{# भूमिः#}</div> (?).</div>
 <LEND>

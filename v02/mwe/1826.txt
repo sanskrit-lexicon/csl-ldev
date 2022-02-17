@@ -1,4 +1,4 @@
 <L>1826<pc>039-a<k1>barrel<k2>barrel
-<div n="lb"/>BARREL¦, {%s.%} (A small cask) {#दीर्घगोलाकारं काष्ठनिर्म्मितं पात्रं#} or {#भाण्डं#}.
-<div n="lb"/> — (A cylinder, as of a gun) {#नाडिः -डी#} {%f.,%} {#नाली#} or {#-ला#}.
+BARREL¦, {%s.%} (A small cask) {#दीर्घगोलाकारं काष्ठनिर्म्मितं पात्रं#} or {#भाण्डं#}.
+ — (A cylinder, as of a gun) {#नाडिः -डी#} {%f.,%} {#नाली#} or {#-ला#}.
 <LEND>

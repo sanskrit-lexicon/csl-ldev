@@ -1,14 +1,14 @@
 <L>14176<pc>435<k1>march<k2>march
-<div n="lb"/>{@MARCH@}¦ (subs.): <div n="I">I The month: {#उत्तरफाल्गुन-#}
-<div n="lb"/>{#पूर्वचैत्रसंवादीयुरूपीयवर्षस्य तृतीयो मासः।#} </div><div n="I">II Journey:</div>
-<div n="lb"/><div n="1">(1) {#यात्रा#} (also fig.), <div n="xe">{%obstructor of the m. of the%}
-<div n="lb"/>{%world:%}</div> <div n="xs">{#लोकयात्राविघातकः,#}</div> Mah.; </div><div n="1">(2) {#यानम्, प्र-,#}
-<div n="lb"/><div n="xe">{%broke off m. ing. for three nights:%}</div> <div n="xs">{#त्रिरात्रं प्रयाण-#}
-<div n="lb"/>{#भङ्गमकरोत्,#}</div> <ls>P.</ls> ; </div><div n="1">(3) {#प्रस्थानम्#} (= setting out on
-<div n="lb"/>a m.), {%just ascertain a day proper for our m.:%}
-<div n="lb"/>{#निरूप्यतां तावदस्माकं प्रस्थानयोग्यदिवसः,#} Mu. iv.</div>
-<div n="lb"/><div n="I">II As measure of distance: </div><div n="1">(1) {#प्रयाणम्, -कम्,#}
-<div n="lb"/><div n="xe">{%followed a few m. es:%}</div> <div n="xs">{#कतिचित्प्रयाणकान्यनुवव्राज,#}</div>
-<div n="lb"/>C. v.; </div><div n="1">(2) {#अध्वन्#} (m (= way), <div n="xe">{%after three%}
-<div n="lb"/>{%m. es:%}</div> <div n="xs">{#अध्वसु त्रिषु,#}</div> R. xi. 57.</div>
+{@MARCH@}¦ (subs.): <div n="I">I The month: {#उत्तरफाल्गुन-#}
+{#पूर्वचैत्रसंवादीयुरूपीयवर्षस्य तृतीयो मासः।#} </div><div n="I">II Journey:</div>
+<div n="1">(1) {#यात्रा#} (also fig.), <div n="xe">{%obstructor of the m. of the%}
+{%world:%}</div> <div n="xs">{#लोकयात्राविघातकः,#}</div> Mah.; </div><div n="1">(2) {#यानम्, प्र-,#}
+<div n="xe">{%broke off m. ing. for three nights:%}</div> <div n="xs">{#त्रिरात्रं प्रयाण-#}
+{#भङ्गमकरोत्,#}</div> <ls>P.</ls> ; </div><div n="1">(3) {#प्रस्थानम्#} (= setting out on
+a m.), {%just ascertain a day proper for our m.:%}
+{#निरूप्यतां तावदस्माकं प्रस्थानयोग्यदिवसः,#} Mu. iv.</div>
+<div n="I">II As measure of distance: </div><div n="1">(1) {#प्रयाणम्, -कम्,#}
+<div n="xe">{%followed a few m. es:%}</div> <div n="xs">{#कतिचित्प्रयाणकान्यनुवव्राज,#}</div>
+C. v.; </div><div n="1">(2) {#अध्वन्#} (m (= way), <div n="xe">{%after three%}
+{%m. es:%}</div> <div n="xs">{#अध्वसु त्रिषु,#}</div> R. xi. 57.</div>
 <LEND>

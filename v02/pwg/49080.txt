@@ -34,7 +34,7 @@
 [Page4-1012]
 {# ननु श्रुतिरियम्#} 
 <ls>Spr. 1812.</ls> {#तेन गन्धवतीत्येवं नामास्याः प्रथितं भुवि#} 
-<ls>MBH. 1, 2411. 13, 1111.</ls> {#यद्यपि त्रिषु लोकेषु प्रथितं ते महद्यशः#} 
+<ls>MBH. 1, 2411.</ls> <ls n="MBH.">13, 1111.</ls> {#यद्यपि त्रिषु लोकेषु प्रथितं ते महद्यशः#} 
 <ls>R. 2, 61, 2.</ls> 
 <ls>Spr. 1135.</ls> 
 <ls>MĀLAV. 3, 12.</ls> 
@@ -43,7 +43,7 @@
 <ls>P. 8, 4, 67,</ls> 
 <ls>Sch.</ls> {#उन्मादिनीति नाम्ना च कन्यका सापि पप्रथे#} 
 <ls>KATHĀS. 15, 65.</ls> 
-<ls>MBH. 9, 3009. 13, 4679.</ls> 
+<ls>MBH. 9, 3009.</ls> <ls n="MBH.">13, 4679.</ls> 
 <ls>RAGH. 15, 101.</ls> 
 <ls>ŚATR. 7, 1</ls> (wo wohl {#यन्नाम्ना#} zu lesen ist). 
 <ls>10, 312.</ls> {#प्रथित#} {%allgemein bekannt, berühmt%} 
@@ -53,11 +53,11 @@
 <ls>M. 3, 127. 8, 131.</ls> {#लोके वेदे च प्रथितः पुरुषोत्तमः#} 
 <ls>BHAG. 15, 18.</ls> 
 <ls>DRAUP. 3, 4.</ls> 
-<ls>MBH. 5, 3159. 7367. 12, 6851.</ls> 
-<ls>HARIV. 3882. 15056.</ls> 
+<ls>MBH. 5, 3159.</ls> <ls n="MBH. 5,">7367.</ls> <ls n="MBH.">12, 6851.</ls> 
+<ls>HARIV. 3882.</ls> <ls n="HARIV.">15056.</ls> 
 <ls>R. 1, 8, 9. 11. 9, 62. 41, 24. 2, 110, 29.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 1, 2. 3, 53, 12.</ls> 
+
+<ls>R. GORR. 1, 1, 2. 3, 53, 12.</ls> 
 <ls>RAGH. 5, 65. 9, 76.</ls> {#प्रजासु पश्चात्प्रथितं तदाख्यया#} 
 <ls>KUMĀRAS. 5, 7.</ls> 
 <ls>MEGH. 25.</ls> 
@@ -66,12 +66,12 @@
 <ls>SŪRYAS. 14, 7.</ls> 
 <ls>RĀJA-TAR. 4, 31.</ls> 
 <ls>KATHĀS. 30, 64.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 318. PRAB. 2, 13. ŚIŚ. 9, 16.</ls> {#वचस्#} (nach dem 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 318.</ls> <ls>PRAB. 2, 13.</ls> <ls>ŚIŚ. 9, 16.</ls> {#वचस्#} (nach dem 
 <ls>Schol.</ls> {%Allen hörbar%}) 
 <ls>R. 2, 2, 1.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 77, 39.</ls> Die Form {#पृथित#} 
-<ls>HARIV. 6781. 15054</ls> ist ohne Zweifel fehlerhaft. 
+
+<ls>R. GORR. 1, 77, 39.</ls> Die Form {#पृथित#} 
+<ls>HARIV. 6781.</ls> <ls n="HARIV.">15054</ls> ist ohne Zweifel fehlerhaft. 
 <div n="2">— c) {%an den Tag —, zum Vorschein kommen, auftauchen, entstehen%}: {#श्रमो नु तासां मदनो नु पप्रथे (= प्रादुर्बभूव#} 
 <ls>Schol.</ls>) <ls>KIR. 8, 53.</ls> {#कर्तुं पुरं स्वनामाङ्कं पप्रथे स मनोरथः#} 
 <ls>RĀJA-TAR. 3, 336.</ls> {#दृग्व्यापारैः स्वसंवेद्यैः संलाप इव पप्रथे#} 
@@ -90,15 +90,15 @@
 <ls>ŚAT. BR. 6, 5, 2, 3.</ls> {#अ\ञ्जन्ति\ यं प्रथय^न्तो\ न विप्रा^ व\पाव^न्त\ं नाग्निना\ तपन्तः#} ({%über dem Feuer ausbreiten) rösten, braten%} 
 <ls>ṚV. 5, 43, 7.</ls> — {#वस्तूनि प्रथयति च संकोचयति च#} 
 <ls>Spr. 1713.</ls> {#श्रेयः#} 
-<ls>Verz. d. Oxf. H. No. 289,</ls> <ls>Śl. 1.</ls> {#यशः#} 
+<ls>Verz. d. Oxf. H. No. 289, Śl. 1.</ls> {#यशः#} 
 <ls>MBH. 1, 4794.</ls> 
 <ls>R. 6, 95, 58.</ls> 
 <ls>BHĀG. P. 2, 7, 20.</ls> 
 <div n="2">— b) {%verbreiten%} so v. a. {%allgemein bekannt —, berühmt machen%} 
-<ls>HARIV. 353. 6326.</ls> 
+<ls>HARIV. 353.</ls> <ls n="HARIV.">6326.</ls> 
 <ls>R. 1, 4, 1.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 2, 35.</ls> {#सज्जना एव साधूनां प्रथयन्ति गुणोत्करम्#} 
+
+<ls>R. GORR. 1, 2, 35.</ls> {#सज्जना एव साधूनां प्रथयन्ति गुणोत्करम्#} 
 <ls>Spr. 3109.</ls> 
 <ls>BHĀG. P. 9, 24, 65.</ls> 
 <ls>BHAṬṬ. 15, 72.</ls> {#प्राथयति#} 
@@ -106,7 +106,7 @@
 <div n="2">— c) {%entfalten, an den Tag legen, vor Augen führen, verrathen%}: {#कण्टकितेन प्रथयति मय्यनुरागं कपोलेन#} 
 <ls>ŚĀK. 63.</ls> 
 <ls>Spr. 294.</ls> {#श्रुते ऽत्यन्तासक्तिः पुरुषमभिजातं प्रथयति#} (v. l. {#कथयति#}) 
-<ls>?1859, v. l. MEGH. 26. GĪT. 8, 8. KIR. 5, 3. CAURAP. 44. BHĀG. P. 9, 10, 11.</ls> {#ततो मायामयान्मूर्ध्नो राक्षसो ऽप्रथयद्रणे#} 
+<ls>1859, v. l.</ls> <ls>MEGH. 26.</ls> <ls>GĪT. 8, 8.</ls> <ls>KIR. 5, 3.</ls> <ls>CAURAP. 44.</ls> <ls>BHĀG. P. 9, 10, 11.</ls> {#ततो मायामयान्मूर्ध्नो राक्षसो ऽप्रथयद्रणे#} 
 <ls>BHAṬṬ. 17, 107.</ls> {#दौर्जन्यमात्मनि परं प्रथितं विधात्रा भूर्जद्रुमस्य विफलत्वसमर्पणेन#} {%dadurch, dass der Schöpfer der Birke keine Früchte verlieh, hat er nur%} ({#परम्#}) {%gegen sich selbst Schlechtigkeit an den Tag gelegt, hat er nur gegen sich selbst schlecht gehandelt%} 
 <ls>Spr. 1259.</ls> 
 <ls>SĀH. D. 12, 13. 41, 7.</ls> 
@@ -148,7 +148,7 @@
 <div n="1"> 1) {%ausbreiten, verbreiten%} 
 <ls>ṚV. 1, 62, 5.</ls> {#उत त्रि\धातु^ प्रथय\द्वि भूम^#} 
 <ls n="ṚV.">4, 42, 4.</ls> <ls n="ṚV.">10, 62, 3.</ls> {#परं यशो विप्रथयंस्तव सेनासु#} 
-<ls>MBH. 5, 5894. 12, 1955.</ls> 
+<ls>MBH. 5, 5894.</ls> <ls n="MBH.">12, 1955.</ls> 
 <div n="1">— 2) {%entfalten, an den Tag legen, zeigen%}: {#कुलोचितं विप्रथयन्तु कर्म#} 
 <ls>MBH. 3, 10277.</ls>
 

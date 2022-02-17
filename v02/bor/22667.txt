@@ -1,8 +1,8 @@
 <L>22667<pc>715<k1>tool<k2>tool
-<div n="lb"/>{@TOOL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#उपकरणम्,#} <div n="xe">{%t. and apparatus%}
-<div n="lb"/>{%of artisans:%}</div> <div n="xs">{#शिल्पिनां द्रव्योपकरणम्,#}</div> Mah. ii. 5.
-<div n="lb"/>128.; {%t. s by which he earns his livelihood:%}
-<div n="lb"/>{#यद् यद् यस्योपकरणं तेन जीवन्ति जीविकाम्,#} N. s. </div><div n="I">II
-<div n="lb"/>Fig.: <div n="xe">{%he is a mere t. in his hands:%}</div> <div n="xs">{#स तेन यन्त्र-#}
-<div n="lb"/>{#वच्चाल्यते।#}</div></div>
+{@TOOL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#उपकरणम्,#} <div n="xe">{%t. and apparatus%}
+{%of artisans:%}</div> <div n="xs">{#शिल्पिनां द्रव्योपकरणम्,#}</div> Mah. ii. 5.
+128.; {%t. s by which he earns his livelihood:%}
+{#यद् यद् यस्योपकरणं तेन जीवन्ति जीविकाम्,#} N. s. </div><div n="I">II
+Fig.: <div n="xe">{%he is a mere t. in his hands:%}</div> <div n="xs">{#स तेन यन्त्र-#}
+{#वच्चाल्यते।#}</div></div>
 <LEND>

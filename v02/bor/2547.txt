@@ -1,4 +1,4 @@
 <L>2547<pc>087<k1>baeathing-time<k2>baeathing-time
-<div n="lb"/>{@BAEATHING-TIME:@}¦ Ph. <div n="xe">{%give me b.%}</div> <div n="xs">{#श्वसितुमवकाश #}
-<div n="lb"/>{# देहि:#}</div> v. Pause, respite.
+{@BAEATHING-TIME:@}¦ Ph. <div n="xe">{%give me b.%}</div> <div n="xs">{#श्वसितुमवकाश #}
+{# देहि:#}</div> v. Pause, respite.
 <LEND>

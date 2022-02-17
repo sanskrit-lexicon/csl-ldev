@@ -1,7 +1,7 @@
 <L>30846<pc>829-a<k1>verse<k2>verse
-<div n="lb"/>VERSE¦, {%s.%} (Metrical composition) {#पद्यं, कविता, काव्यं, छन्दस्#} {%n.,%}
-<div n="lb"/>{#गा;#} ‘measured by time,’ {#जातिः#} {%f.;%} ‘syllabic,’ {#वृत्तं;#} ‘blank,’
-<div n="lb"/>{#मुक्तप्रासः;#} ‘prose and verse,’ {#गद्यपद्यं#}. — (Stanza) {#श्लोकः, गाथा,#}
-<div n="lb"/>{#रूपं#}. — (Line of a stanza) {#पादः, चरणः -णं, पदं;#} ‘verse by
-<div n="lb"/>verse,’ {#पादशस्#}.
+VERSE¦, {%s.%} (Metrical composition) {#पद्यं, कविता, काव्यं, छन्दस्#} {%n.,%}
+{#गा;#} ‘measured by time,’ {#जातिः#} {%f.;%} ‘syllabic,’ {#वृत्तं;#} ‘blank,’
+{#मुक्तप्रासः;#} ‘prose and verse,’ {#गद्यपद्यं#}. — (Stanza) {#श्लोकः, गाथा,#}
+{#रूपं#}. — (Line of a stanza) {#पादः, चरणः -णं, पदं;#} ‘verse by
+verse,’ {#पादशस्#}.
 <LEND>

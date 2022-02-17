@@ -1,42 +1,42 @@
 <L>26399<pc>719-b<k1>season<k2>season
-<div n="lb"/>SEASON¦, {%s.%} (Fit time or opportunity) {#अवसरः, अवकाशः, कालः,#}
-<div n="lb"/>{#समयः, प्रस्तावः, प्रसङ्गः, कालयोगः, कालसन्धिः#} {%m.,%} {#सन्धिः#} {%m.,%} {#सुयोगः;#}
-<div n="lb"/>‘season for action,’ {#कार्य्यकालः, कार्य्यावसरः, कार्य्यसमयः;#} ‘sea-
-<div n="lb"/>son for ablution,’ {#स्नानावसरः;#} ‘wrong season,’ {#अकालः,#}
-<div n="lb"/>{#अनवसरः;#} ‘out of season,’ {#अकालेन, अनवसरेण;#} ‘born out
-<div n="lb"/>of season,’ {#अकालजः -जा -जं#}. — (Any time) {#कालः, समयः, वेला,#}
-<div n="lb"/>{%see%} TIME. — (Auspicious moment) {#मुहूर्त्तः -र्त्तं, लग्नः -ग्नं, शुभ-#}
-<div n="lb"/>{#लग्नः -ग्नं, शुभमुहूर्त्तः -र्त्तं#}. — (One of the divisions of the year)
-<div n="lb"/>{#ऋतुः#} {%m.,%} {#कालः, समयः;#} ‘revolution of the seasons,’ {#ऋतुपर्य्यायः,#}
-<div n="lb"/>{%see%} REVOLUTION; ‘the interval or junction between two
-<div n="lb"/>seasons,’ {#ऋतुसन्धिः#} {%m.;%} ‘the seasons collectively,’ {#ऋतुगणः,#}
-<div n="lb"/>{#ऋतुवर्गः;#} ‘the six seasons,’ {#षडृतवः#} {%m. pl.%} The year is di-
-<div n="lb"/>vided into six seasons, according to the Hindūs, viz.
-<div n="lb"/>1. Spring, {#वसन्तः, वसन्तसमयः,#} comprising, according to the
-<div n="lb"/>reckoning which refers to the Northern parts of India,
-<div n="lb"/>the two months of {#चैत्रः#} and {#वैशाखः,#} {%i. e.%} from the middle
-<div n="lb"/>of March to the middle of May, {%see%} SPRING. 2. The hot
-<div n="lb"/>season or Summer, {#ग्रीष्मः, ग्रीष्मकालः, निदाघकालः,#} compris-
-<div n="lb"/>ing the two months of {#ज्येष्टः#} and {#आषाढः,#} {%i. e.%} from the
-<div n="lb"/>middle of May to the middle of July, {%see%} SUMMER. 3. The
-<div n="lb"/>rainy season, the rains, {#वर्षाः#} {%m. pl.,%} {#वर्षाकालः, वृष्टिकालः,#} com-
-<div n="lb"/>prising the two months {#श्रावणः#} and {#भाद्रः,#} {%i. e.%} from the
-<div n="lb"/>middle of July to the middle of September, {%see%} under
-<div n="lb"/>RAIN, RAINY. 4. The autumnal season, {#शरद्, शरत्कालः,#}
-<div n="lb"/>{#शरदृतुः#} {%m.,%} comprising the two months {#आश्विनः#} and {#कार्त्तिकः,#}
-<div n="lb"/>{%i. e.%} from the middle of September to the middle of No-
-<div n="lb"/>vember, {%see%} AUTUMN. 5. The cold season, {#हेमन्तः,#} comprising
-<div n="lb"/>the two months {#मार्गशीर्षः#} and {#पौषः,#} {%i. e.%} from the middle of
-<div n="lb"/>November to the middle of January. 6. The dewy season
-<div n="lb"/>or season of hoar frost, {#शिशिरः, शिशिरकालः,#} comprising the
-<div n="lb"/>[Page720-a+ 51]
-<div n="lb"/>two months {#माघः#} and {#फाल्गुनः,#} {%i. e.%} from the middle of
-<div n="lb"/>January to the middle of March. According to more
-<div n="lb"/>modern authorities the season of Spring begins with the
-<div n="lb"/>month Phālguna, or the middle of February. This
-<div n="lb"/>reckoning will place each of the succeeding seasons a
-<div n="lb"/>month earlier. Sometimes the word {#आगमः#} is used in
-<div n="lb"/>composition for ‘the coming on of a season,’ or for the
-<div n="lb"/>season itself, as ‘the rainy season,’ {#वर्षागमः, मेघागमः;#} ‘the
-<div n="lb"/>hot season,’ {#ग्रीष्मागमः, उष्मागमः#}.
+SEASON¦, {%s.%} (Fit time or opportunity) {#अवसरः, अवकाशः, कालः,#}
+{#समयः, प्रस्तावः, प्रसङ्गः, कालयोगः, कालसन्धिः#} {%m.,%} {#सन्धिः#} {%m.,%} {#सुयोगः;#}
+‘season for action,’ {#कार्य्यकालः, कार्य्यावसरः, कार्य्यसमयः;#} ‘sea-
+son for ablution,’ {#स्नानावसरः;#} ‘wrong season,’ {#अकालः,#}
+{#अनवसरः;#} ‘out of season,’ {#अकालेन, अनवसरेण;#} ‘born out
+of season,’ {#अकालजः -जा -जं#}. — (Any time) {#कालः, समयः, वेला,#}
+{%see%} TIME. — (Auspicious moment) {#मुहूर्त्तः -र्त्तं, लग्नः -ग्नं, शुभ-#}
+{#लग्नः -ग्नं, शुभमुहूर्त्तः -र्त्तं#}. — (One of the divisions of the year)
+{#ऋतुः#} {%m.,%} {#कालः, समयः;#} ‘revolution of the seasons,’ {#ऋतुपर्य्यायः,#}
+{%see%} REVOLUTION; ‘the interval or junction between two
+seasons,’ {#ऋतुसन्धिः#} {%m.;%} ‘the seasons collectively,’ {#ऋतुगणः,#}
+{#ऋतुवर्गः;#} ‘the six seasons,’ {#षडृतवः#} {%m. pl.%} The year is di-
+vided into six seasons, according to the Hindūs, viz.
+1. Spring, {#वसन्तः, वसन्तसमयः,#} comprising, according to the
+reckoning which refers to the Northern parts of India,
+the two months of {#चैत्रः#} and {#वैशाखः,#} {%i. e.%} from the middle
+of March to the middle of May, {%see%} SPRING. 2. The hot
+season or Summer, {#ग्रीष्मः, ग्रीष्मकालः, निदाघकालः,#} compris-
+ing the two months of {#ज्येष्टः#} and {#आषाढः,#} {%i. e.%} from the
+middle of May to the middle of July, {%see%} SUMMER. 3. The
+rainy season, the rains, {#वर्षाः#} {%m. pl.,%} {#वर्षाकालः, वृष्टिकालः,#} com-
+prising the two months {#श्रावणः#} and {#भाद्रः,#} {%i. e.%} from the
+middle of July to the middle of September, {%see%} under
+RAIN, RAINY. 4. The autumnal season, {#शरद्, शरत्कालः,#}
+{#शरदृतुः#} {%m.,%} comprising the two months {#आश्विनः#} and {#कार्त्तिकः,#}
+{%i. e.%} from the middle of September to the middle of No-
+vember, {%see%} AUTUMN. 5. The cold season, {#हेमन्तः,#} comprising
+the two months {#मार्गशीर्षः#} and {#पौषः,#} {%i. e.%} from the middle of
+November to the middle of January. 6. The dewy season
+or season of hoar frost, {#शिशिरः, शिशिरकालः,#} comprising the
+[Page720-a+ 51]
+two months {#माघः#} and {#फाल्गुनः,#} {%i. e.%} from the middle of
+January to the middle of March. According to more
+modern authorities the season of Spring begins with the
+month Phālguna, or the middle of February. This
+reckoning will place each of the succeeding seasons a
+month earlier. Sometimes the word {#आगमः#} is used in
+composition for ‘the coming on of a season,’ or for the
+season itself, as ‘the rainy season,’ {#वर्षागमः, मेघागमः;#} ‘the
+hot season,’ {#ग्रीष्मागमः, उष्मागमः#}.
 <LEND>

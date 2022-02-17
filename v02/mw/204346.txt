@@ -1,3 +1,3 @@
 <L>204346<pc>1009,2<k1>वृत्<k2>वृत्<e>2B
-<s>वृत्</s> ¦ <lex>ind.</lex> finished, ended (a gram. term used only in the <ls>Dhātup.</ls> and signifying that a series of roots acted on by a rule and beginning with a root followed by <s>आदि</s> or <s>प्रभृति</s>, ends with the word preceding <s>वृत्</s>). <info lex="ind"/>
+<s>वृत्</s> ¦ <lex>ind.</lex> finished, ended (a <ab>gram.</ab> term used only in the <ls>Dhātup.</ls> and signifying that a series of roots acted on by a rule and beginning with a root followed by <s>आदि</s> or <s>प्रभृति</s>, ends with the word preceding <s>वृत्</s>). <info lex="ind"/>
 <LEND>

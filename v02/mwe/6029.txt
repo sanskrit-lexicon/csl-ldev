@@ -1,5 +1,5 @@
 <L>6029<pc>135-b<k1>cooperage<k2>cooperage
-<div n="lb"/>COOPERAGE¦, {%s.%} (Price paid for cooper's work) {#काष्ठपात्रादितक्षकस्य कर्म्म#} {%n.%}
-<div n="lb"/>{#मूल्यं#} or {#भृतिः#} {%f.%} — (Cooper's work) {#काष्ठपात्रादितक्षकस्य कर्म्म#} {%n.%}
-<div n="lb"/>({#न्#}) or {#व्यापारः#}.
+COOPERAGE¦, {%s.%} (Price paid for cooper's work) {#काष्ठपात्रादितक्षकस्य कर्म्म#} {%n.%}
+{#मूल्यं#} or {#भृतिः#} {%f.%} — (Cooper's work) {#काष्ठपात्रादितक्षकस्य कर्म्म#} {%n.%}
+({#न्#}) or {#व्यापारः#}.
 <LEND>

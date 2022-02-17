@@ -1,9 +1,9 @@
 <L>87085<pc>6-0605<k1>वंश<k2>वंश/
 {#वंश/#}¦ 
 <div n="1"> 1) <lex>m.</lex> 
-<ls>SIDDH. K.249,b,1 v. u.</ls> 
+<ls>SIDDH. K.249,b,1</ls> v. u. 
 <div n="2"> a) {%Rohr%}, besonders {%des Bambus%} 
-<ls>?(AK. 2, 4, 5, 26. 3, 4, 11, 45. 28, 216. TRIK. 2, 4, 38. H. 1153. an. 2, 554. MED. ś. 12. HĀR. 176. 270. HALĀY. 2, 49; nach RĀJAN.</ls> im <ls>ŚKDR.</ls> auch {%Zuckerrohr%} und {%Shorea robusta); die Sparren und Latten eines Hauses, die auf den Balken aufliegen%}; insbes. {%die in der Längenrichtung des Daches laufenden, welche die Orientirung des Hauses anzeigen%} (vgl. {#प्राचीनवंश#} 
+(<ls>AK. 2, 4, 5, 26. 3, 4, 11, 45. 28, 216.</ls> <ls>TRIK. 2, 4, 38.</ls> <ls>H. 1153. an. 2, 554.</ls> <ls>MED. ś. 12.</ls> <ls>HĀR. 176. 270.</ls> <ls>HALĀY. 2, 49</ls>; nach <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> auch {%Zuckerrohr%} und {%Shorea robusta); die Sparren und Latten eines Hauses, die auf den Balken aufliegen%}; insbes. {%die in der Längenrichtung des Daches laufenden, welche die Orientirung des Hauses anzeigen%} (vgl. {#प्राचीनवंश#} 
 u.s.w.). <ls>NIR. 5, 5.</ls> {#इन्द्र\मुद्व\ंशमि^व येमिरे#} 
 <ls>ṚV. 1, 10, 1.</ls> 
 <ls>AV. 3, 12, 6. 9, 3, 4.</ls> {#यथा\ शाला^यै\ पक्ष^सी मध्य\मं व\ंशम\भिस^मा\यच्छ^ति#} 
@@ -25,7 +25,7 @@ u.s.w.). <ls>NIR. 5, 5.</ls> {#इन्द्र\मुद्व\ंशमि^�
 <ls>PAÑCAT. 117, 6. 7.</ls> 
 <ls>HIT. 27, 15. 32, 9.</ls> {#वक्रवंशस्य सरलत्वम्#} 
 <ls>Verz. d. Oxf. H. 155,b,22.</ls> {#वंशो नाम स्थूणासु निहितस्तिर्यग्वेणुः#} Comm. zu 
-<ls>BHĀG. P. 11, 8, 32.</ls> {%Querbalken, Querstrich, Diagonale%} (=  {#कोणात्कोणगतानि सूत्राणि#} Comm.) 
+<ls>BHĀG. P. 11, 8, 32.</ls> {%Querbalken, Querstrich, Diagonale%} (= {#कोणात्कोणगतानि सूत्राणि#} Comm.) 
 <ls>VARĀH. BṚH. S. 33, 57. 65.</ls> {%Bambus%} und zugleich {%Stamm, Geschlecht%} 
 <ls>Spr. 679. 2397. 2429.</ls> 
 <div n="2">— b) {%Rohrpfeife, Flöte%} 
@@ -59,7 +59,7 @@ u.s.w.). <ls>NIR. 5, 5.</ls> {#इन्द्र\मुद्व\ंशमि^�
 <ls>Ind. St. 4, 374.</ls> {#पितृ°, मातृ°#} 
 <ls>ŚĀṄKH. GṚHY. 4, 10.</ls> {#विवृद्ध्यर्थं स्ववंशस्य#} 
 <ls>M. 9, 128.</ls> 
-<ls>MBH. 3, 1856. fg. 1859.</ls> {#गोप्ता निषधवंशस्य#} 
+<ls>MBH. 3, 1856. fg.</ls> <ls n="MBH. 3,">1859.</ls> {#गोप्ता निषधवंशस्य#} 
 <ls>2478.</ls> {#उभौ वंशौ#} (d. i. des Vaters und der Mutter) 
 <ls>Spr. 5089.</ls> 
 <ls>R. 1, 1, 10. 92. 5, 3.</ls> 
@@ -80,7 +80,7 @@ u.s.w.). <ls>NIR. 5, 5.</ls> {#इन्द्र\मुद्व\ंशमि^�
 <div n="2">— i) {%eine Menge gleichartiger Dinge%} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#रथ°#} (s. bes.), {#स्यन्दन°#} 
 <ls>RAGH. 7, 36.</ls> {#नक्षत्र°#} 
-<ls>HARIV. 10258</ls> <ls>?(pl.). R. GORR. 1, 62, 22</ls> (vgl. {#नक्षत्रगण#} 
+<ls>HARIV. 10258</ls> (pl.). <ls>R. GORR. 1, 62, 22</ls> (vgl. {#नक्षत्रगण#} 
 <ls>23</ls>). {#तीर्थ°#} 
 <ls>MBH. 1, 347.</ls> 
 <div n="2">— k) {%Tabaschir%} 

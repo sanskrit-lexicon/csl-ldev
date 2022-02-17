@@ -1,5 +1,5 @@
 <L>2571<pc>088<k1>brick<k2>brick
-<div n="lb"/>{@BRICK@}¦ (subs.): {#इष्टका,#} <div n="xe">{%baked b.%}</div> <div n="xs">{#पक्वेष्टका;#}</div> <div n="xe">{%unbaked%}
-<div n="lb"/>{%b.%}</div> <div n="xs">{#आभेष्टका,#}</div> Mr. <div n="xe">{%A b. house%}</div> <div n="xs">{#इष्टकागृहम्;#}</div> <div n="xe">{%a pile%}
-<div n="lb"/>{%of b. s%}</div> <div n="xs">{#इष्टकाराशिः।#}</div>
+{@BRICK@}¦ (subs.): {#इष्टका,#} <div n="xe">{%baked b.%}</div> <div n="xs">{#पक्वेष्टका;#}</div> <div n="xe">{%unbaked%}
+{%b.%}</div> <div n="xs">{#आभेष्टका,#}</div> Mr. <div n="xe">{%A b. house%}</div> <div n="xs">{#इष्टकागृहम्;#}</div> <div n="xe">{%a pile%}
+{%of b. s%}</div> <div n="xs">{#इष्टकाराशिः।#}</div>
 <LEND>

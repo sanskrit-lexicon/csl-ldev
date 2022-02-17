@@ -1,5 +1,5 @@
 <L>21548<pc>678<k1>stoppage<k2>stoppage
-<div n="lb"/>{@STOPPAGE:@}¦ <div n="I">I Stay, rest: q. v.: {#स्थितिः, अव-।#}</div>
-<div n="lb"/><div n="I">II Obstruction, hindrance: q. v.: {#स्तम्भः, #}
-<div n="lb"/>{# प्रति-।#}</div>
+{@STOPPAGE:@}¦ <div n="I">I Stay, rest: q. v.: {#स्थितिः, अव-।#}</div>
+<div n="I">II Obstruction, hindrance: q. v.: {#स्तम्भः, #}
+{# प्रति-।#}</div>
 <LEND>

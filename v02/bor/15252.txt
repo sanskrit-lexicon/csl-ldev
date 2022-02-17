@@ -1,4 +1,4 @@
 <L>15252<pc>466<k1>national<k2>national
-<div n="lb"/>{@NATIONAL:@}¦ <div n="1">(1) {#देश-#} in comp., {%n. language:%}
-<div n="lb"/>{#देशभाषा;#} </div><div n="1">(2) {#देशीयः#} ({#या, यं#}), <div n="xe">{%n. dress:%}</div> <div n="xs">{#देशीयवेषः।#}</div></div>
+{@NATIONAL:@}¦ <div n="1">(1) {#देश-#} in comp., {%n. language:%}
+{#देशभाषा;#} </div><div n="1">(2) {#देशीयः#} ({#या, यं#}), <div n="xe">{%n. dress:%}</div> <div n="xs">{#देशीयवेषः।#}</div></div>
 <LEND>

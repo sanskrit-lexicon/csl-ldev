@@ -1,9 +1,9 @@
 <L>291<pc>012<k1>admire<k2>admire
-<div n="lb"/>{@ADMIRE@}¦ (v. t.): <div n="1">(1) {#प्र-शंसति#} ({#शंस्,#} c. 1), {%Indra%}
-<div n="lb"/>{%a. d the speed%} <div n="xe">{%...%}</div> <div n="xs">{#बलस्य शत्रुः प्रशशंस शीघ्रताम्,#}</div>
-<div n="lb"/>Si. i. 52.; </div><div n="1">(2) {#श्लाघते#} ({#श्लाघ्,#} c. 1), <div n="xe">{%a. d by%}
-<div n="lb"/>{%the assembled gods%}</div> <div n="xs">{#श्लाषितो देवसङ्घैः,#}</div> Ki. xviii.
-<div n="lb"/>48; </div><div n="1">(3) {#स्तवीति#} ({#स्तु,#} c. 2) ({%some%}) {%a. deep sense%}
-<div n="lb"/>{#स्तुवन्ति गुर्वीमभिघेयसम्पदम्,#} Ki. xiv. 5.: v. To
-<div n="lb"/>praise.</div>
+{@ADMIRE@}¦ (v. t.): <div n="1">(1) {#प्र-शंसति#} ({#शंस्,#} c. 1), {%Indra%}
+{%a. d the speed%} <div n="xe">{%...%}</div> <div n="xs">{#बलस्य शत्रुः प्रशशंस शीघ्रताम्,#}</div>
+Si. i. 52.; </div><div n="1">(2) {#श्लाघते#} ({#श्लाघ्,#} c. 1), <div n="xe">{%a. d by%}
+{%the assembled gods%}</div> <div n="xs">{#श्लाषितो देवसङ्घैः,#}</div> Ki. xviii.
+48; </div><div n="1">(3) {#स्तवीति#} ({#स्तु,#} c. 2) ({%some%}) {%a. deep sense%}
+{#स्तुवन्ति गुर्वीमभिघेयसम्पदम्,#} Ki. xiv. 5.: v. To
+praise.</div>
 <LEND>

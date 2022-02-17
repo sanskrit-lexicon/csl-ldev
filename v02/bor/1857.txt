@@ -1,9 +1,9 @@
 <L>1857<pc>064<k1>behind<k2>behind
-<div n="lb"/>{@BEHIND@}¦ (prep.): <div n="I">I At the back of: </div><div n="1">(1)
-<div n="lb"/>{#पृष्ठतः#} (with gen.); </div><div n="1">(2) {#अनु#} (with acc.); </div><div n="1">(3)
-<div n="lb"/>{#पश्चात्#} (with gen.), <div n="xe">{%b. them%}</div> <div n="xs">{#तासां पश्चात्,#}</div> Ku.
-<div n="lb"/>Ph. <div n="xe">{%from b. the bushes%}</div> <div n="xs">{#लताव्यवहितः#}</div> ({#ता, तं#}), [Page065]
-<div n="lb"/>Sa. iii. </div><div n="I">II In a state of inferiority to: </div><div n="1">(1)
-<div n="lb"/>{#नीचः#} ({#चा, चं#}): </div><div n="1">(2) {#अधःस्थः#} ({#स्था, स्थं#}): v.
-<div n="lb"/>Inferior.</div>
+{@BEHIND@}¦ (prep.): <div n="I">I At the back of: </div><div n="1">(1)
+{#पृष्ठतः#} (with gen.); </div><div n="1">(2) {#अनु#} (with acc.); </div><div n="1">(3)
+{#पश्चात्#} (with gen.), <div n="xe">{%b. them%}</div> <div n="xs">{#तासां पश्चात्,#}</div> Ku.
+Ph. <div n="xe">{%from b. the bushes%}</div> <div n="xs">{#लताव्यवहितः#}</div> ({#ता, तं#}), [Page065]
+Sa. iii. </div><div n="I">II In a state of inferiority to: </div><div n="1">(1)
+{#नीचः#} ({#चा, चं#}): </div><div n="1">(2) {#अधःस्थः#} ({#स्था, स्थं#}): v.
+Inferior.</div>
 <LEND>

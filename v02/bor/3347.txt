@@ -1,6 +1,6 @@
 <L>3347<pc>111<k1>century<k2>century
-<div n="lb"/>{@CENTURY:@}¦ <div n="I">I A hundred; q. v.: {#शतम।#} </div><div n="I">II A
-<div n="lb"/>hundred years: </div><div n="1">(1) {#वर्षशतम्#} and sim.
-<div n="lb"/>comp. s, <div n="xe">{%ten c. s%}</div> <div n="xs">{#वर्षसहस्रम्;#}</div> </div><div n="1">(2) {#शतवर्षम्,#} and
-<div n="lb"/>sim. comp. s.</div>
+{@CENTURY:@}¦ <div n="I">I A hundred; q. v.: {#शतम।#} </div><div n="I">II A
+hundred years: </div><div n="1">(1) {#वर्षशतम्#} and sim.
+comp. s, <div n="xe">{%ten c. s%}</div> <div n="xs">{#वर्षसहस्रम्;#}</div> </div><div n="1">(2) {#शतवर्षम्,#} and
+sim. comp. s.</div>
 <LEND>

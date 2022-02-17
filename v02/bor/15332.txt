@@ -1,6 +1,6 @@
 <L>15332<pc>469<k1>negative<k2>negative
-<div n="lb"/>{@NEGATIVE@}¦ (subs.): <div n="xe">{%and it is the nature of the n.%}
-<div n="lb"/>{%that it denies the existence of its connection:%}</div> <div n="xs">{#नव-#}
-<div n="lb"/>{#श्चैष स्वभावो यत् स्वसम्बन्धिनोऽमावं बोधयति,#}</div> S. i. 4.;
-<div n="lb"/><div n="xe">{%to reply in the n.:%}</div> <div n="xs">{#नेति वदति।#}</div>
+{@NEGATIVE@}¦ (subs.): <div n="xe">{%and it is the nature of the n.%}
+{%that it denies the existence of its connection:%}</div> <div n="xs">{#नव-#}
+{#श्चैष स्वभावो यत् स्वसम्बन्धिनोऽमावं बोधयति,#}</div> S. i. 4.;
+<div n="xe">{%to reply in the n.:%}</div> <div n="xs">{#नेति वदति।#}</div>
 <LEND>

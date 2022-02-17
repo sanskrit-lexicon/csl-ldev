@@ -1,24 +1,24 @@
 <L>14875<pc>246-3<k1>युद्ध<k2>युद्ध
 {#युद्ध#}¦yud-dhá, {%pp.%} (√ yudh) combatted; {%n.%} 
-<>fight, battle, combat; conflict {%or%} opposition 
-<>({%of planets%}): {@-ka,@} {%n.%} contest, battle; {@-kāṇḍa@}, 
-<>{%n.%} Book of the Battle, {%T. of the sixth%} book {%of %}
-<>{%the Rāmāyaṇa%}; {@-kār-in,@} {%a.%} making war, 
-<>fighting: ({@i@}) {@-tva,@} {%n.%} conflict; {@-gāndharva,@} 
-<>{%n.%} battle-music; {@-tantra,@} {%n.%} military science; 
-<>{@-dyūta,@} {%n.%} game of war; {@-dharma,@} {%m.%} laws 
-<>of war; {@-pravīṇa@}, {%a.%} skilled in war; {@-bhū,@} 
-<>{@-bhūmi,@} {%f.%} battle-field; {@-maya,@} {%a.%} derived 
-<>from war; {@-mārga,@} {%m. sg. pl.%} methods of 
-<>war, military tactics; {@-medinī,@} {%f.%} battlefield; <lbinfo n="6"/>
-<> {@-raṅga,@} {%m.%} arena of battle, battlefield; <lbinfo n="6"/>
-<> {@-varṇa@}, {%m.%} sort of battle; {@-vastu,@} {%n.%} 
-<>implements of war; {@-vīra,@} {%m.%} hero in war, 
-<>champion; heroism ({%as a sentiment%}: {%rh.%}); 
-<>{@-śālin@}, {%a.%} brave; {@-ācārya@}, {%m.%} military preceptor; <lbinfo n="3"/>
-<> {@-adhvan,@} {%a.%} going to war, engaging 
-<>in battle; {@-arthin,@} {%a.%} eager for war; {@-ud-@}
-<>{@-yoga,@} {%m.%} vigorous preparation for war; {@un-@}
-<>{@-matta,@} {%pp.%} frenzied in fight; {@-upakaraṇa@}, 
-<>{%n.%} implement of war.
+fight, battle, combat; conflict {%or%} opposition 
+({%of planets%}): {@-ka,@} {%n.%} contest, battle; {@-kāṇḍa@}, 
+{%n.%} Book of the Battle, {%T. of the sixth%} book {%of %}
+{%the Rāmāyaṇa%}; {@-kār-in,@} {%a.%} making war, 
+fighting: ({@i@}) {@-tva,@} {%n.%} conflict; {@-gāndharva,@} 
+{%n.%} battle-music; {@-tantra,@} {%n.%} military science; 
+{@-dyūta,@} {%n.%} game of war; {@-dharma,@} {%m.%} laws 
+of war; {@-pravīṇa@}, {%a.%} skilled in war; {@-bhū,@} 
+{@-bhūmi,@} {%f.%} battle-field; {@-maya,@} {%a.%} derived 
+from war; {@-mārga,@} {%m. sg. pl.%} methods of 
+war, military tactics; {@-medinī,@} {%f.%} battlefield; <lbinfo n="6"/>
+ {@-raṅga,@} {%m.%} arena of battle, battlefield; <lbinfo n="6"/>
+ {@-varṇa@}, {%m.%} sort of battle; {@-vastu,@} {%n.%} 
+implements of war; {@-vīra,@} {%m.%} hero in war, 
+champion; heroism ({%as a sentiment%}: {%rh.%}); 
+{@-śālin@}, {%a.%} brave; {@-ācārya@}, {%m.%} military preceptor; <lbinfo n="3"/>
+ {@-adhvan,@} {%a.%} going to war, engaging 
+in battle; {@-arthin,@} {%a.%} eager for war; {@-ud-@}
+{@-yoga,@} {%m.%} vigorous preparation for war; {@un-@}
+{@-matta,@} {%pp.%} frenzied in fight; {@-upakaraṇa@}, 
+{%n.%} implement of war.
 <LEND>

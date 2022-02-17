@@ -1,8 +1,8 @@
 <L>5148<pc>166<k1>crowd<k2>crowd
-<div n="lb"/>{@CROWD@}¦ (subs.): <div n="I">I Of people: </div><div n="1">(1) {#जनसमूहः,#}
-<div n="lb"/>Mr.; </div><div n="1">(2) {#जनसंमर्दः#} (=men pressed together
-<div n="lb"/>without order), <div n="xe">{%a great c.:%}</div> <div n="xs">{#महान् जनसंमर्दः,#}</div>
-<div n="lb"/>Mr. x.; </div><div n="1">(3) {#सङ्कुलम्#} (={#जनसंमर्दः#}), D. iv.; </div><div n="1">(4)
-<div n="lb"/>{#जनौघः,#} and sim. comp. s </div><div n="I">II Populace:
-<div n="lb"/>q. v. </div><div n="I">III Any c.: v. Throng, multitude.</div>
+{@CROWD@}¦ (subs.): <div n="I">I Of people: </div><div n="1">(1) {#जनसमूहः,#}
+Mr.; </div><div n="1">(2) {#जनसंमर्दः#} (=men pressed together
+without order), <div n="xe">{%a great c.:%}</div> <div n="xs">{#महान् जनसंमर्दः,#}</div>
+Mr. x.; </div><div n="1">(3) {#सङ्कुलम्#} (={#जनसंमर्दः#}), D. iv.; </div><div n="1">(4)
+{#जनौघः,#} and sim. comp. s </div><div n="I">II Populace:
+q. v. </div><div n="I">III Any c.: v. Throng, multitude.</div>
 <LEND>

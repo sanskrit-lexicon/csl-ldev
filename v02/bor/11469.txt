@@ -1,10 +1,10 @@
 <L>11469<pc>359<k1>idol<k2>idol
-<div n="lb"/>{@IDOL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#प्रतिमा,#} <div n="xe">{%oh. a wooden i.; no, no,%}
-<div n="lb"/>{%of stone:%}</div> <div n="xs">{#कथं काष्ठप्रतिमा, न न शैलप्रतिमा,#}</div> Mr. ii.;
-<div n="lb"/>{%i. of the goddes%} ({%Durgā%}): {#देवीप्रतिमा,#} A. p.;</div>
-<div n="lb"/><div n="1">(2) {#मूर्तिः#} (= form; when the sense is clear);</div>
-<div n="lb"/><div n="1">(3) {#विग्रहः#} (rare); </div><div n="1">(4) {#शालग्रामः#} (of Viṣṇu),
-<div n="lb"/>A. p.; </div><div n="1">(5) {#लिङ्गम्#} (of Śiva). </div><div n="I">II Fig.: perh.
-<div n="lb"/>{#देवता;#} better by {#आराधयति#} (c. of {#राध्#}) (= to
-<div n="lb"/>worship).</div>
+{@IDOL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#प्रतिमा,#} <div n="xe">{%oh. a wooden i.; no, no,%}
+{%of stone:%}</div> <div n="xs">{#कथं काष्ठप्रतिमा, न न शैलप्रतिमा,#}</div> Mr. ii.;
+{%i. of the goddes%} ({%Durgā%}): {#देवीप्रतिमा,#} A. p.;</div>
+<div n="1">(2) {#मूर्तिः#} (= form; when the sense is clear);</div>
+<div n="1">(3) {#विग्रहः#} (rare); </div><div n="1">(4) {#शालग्रामः#} (of Viṣṇu),
+A. p.; </div><div n="1">(5) {#लिङ्गम्#} (of Śiva). </div><div n="I">II Fig.: perh.
+{#देवता;#} better by {#आराधयति#} (c. of {#राध्#}) (= to
+worship).</div>
 <LEND>

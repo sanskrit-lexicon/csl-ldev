@@ -1,12 +1,12 @@
 <L>8882<pc>207-b<k1>draught<k2>draught
-<div n="lb"/>DRAUGHT¦, {%s.%} (Act of drinking) {#पानं#}. — (Quantity drunk at
-<div n="lb"/>once) {#पीतं, पेयं, पानं, एकपानं;#} ‘a draught of milk,’ {#पयःपान#}
-<div n="lb"/> — (Abstract) {#सङ्ग्रहः, सारः, वस्तु, वस्तुमात्रं#}. — (Delineation, sketch)
-<div n="lb"/>{#आलेख्यं, आलेखनं, पाण्डुलेख्यं, चित्रारम्भः, वस्तुमात्रं#}. — (Picture
-<div n="lb"/>drawn, resemblance) {#चित्रं, उपमा -मानं, प्रतिमानं, प्रतिमूर्त्तिः#} {%f.%}
-<div n="lb"/> — (Detachment from the main army) {#महासैन्यमघ्याद् आनीतः#}
-<div n="lb"/>{#सैन्यगुल्मः#}. — (Sewer, drain) {#सङ्करः, कर्द्दमाटकः#}. — (Draught of a
-<div n="lb"/>ship) {#यत् जलपरिमाणं नावं प्लावयति#}. — (Order for money),
-<div n="lb"/>{%See%} DRAFT. (Act of drawing) {#आकर्षणं, आकृष्टिः#} {%f.;%} ‘a
-<div n="lb"/>draught ox,’ {#शाकटः, प्रासङ्ग्यः, प्राप्तभारः#}.
+DRAUGHT¦, {%s.%} (Act of drinking) {#पानं#}. — (Quantity drunk at
+once) {#पीतं, पेयं, पानं, एकपानं;#} ‘a draught of milk,’ {#पयःपान#}
+ — (Abstract) {#सङ्ग्रहः, सारः, वस्तु, वस्तुमात्रं#}. — (Delineation, sketch)
+{#आलेख्यं, आलेखनं, पाण्डुलेख्यं, चित्रारम्भः, वस्तुमात्रं#}. — (Picture
+drawn, resemblance) {#चित्रं, उपमा -मानं, प्रतिमानं, प्रतिमूर्त्तिः#} {%f.%}
+ — (Detachment from the main army) {#महासैन्यमघ्याद् आनीतः#}
+{#सैन्यगुल्मः#}. — (Sewer, drain) {#सङ्करः, कर्द्दमाटकः#}. — (Draught of a
+ship) {#यत् जलपरिमाणं नावं प्लावयति#}. — (Order for money),
+{%See%} DRAFT. (Act of drawing) {#आकर्षणं, आकृष्टिः#} {%f.;%} ‘a
+draught ox,’ {#शाकटः, प्रासङ्ग्यः, प्राप्तभारः#}.
 <LEND>

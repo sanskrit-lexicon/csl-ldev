@@ -1,5 +1,5 @@
 <L>9727<pc>307<k1>gaudy<k2>gaudy
-<div n="lb"/>{@GAUDY:@}¦ <div n="I">I Showy: </div><div n="1">(1) {#उज्ज्वलः#} ({#ला, लं#}) (?);</div>
-<div n="lb"/><div n="1">(2) {#शोभनः#} ({#ना, नं#}) (?). </div><div n="I">II Merry: {%“g. day”:%}
-<div n="lb"/>{#हर्षदिनम्।#}</div>
+{@GAUDY:@}¦ <div n="I">I Showy: </div><div n="1">(1) {#उज्ज्वलः#} ({#ला, लं#}) (?);</div>
+<div n="1">(2) {#शोभनः#} ({#ना, नं#}) (?). </div><div n="I">II Merry: {%“g. day”:%}
+{#हर्षदिनम्।#}</div>
 <LEND>

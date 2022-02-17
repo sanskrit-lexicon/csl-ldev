@@ -1,4 +1,4 @@
 <L>4959<pc>160<k1>cow-house<k2>cow-house
-<div n="lb"/>{@COW-HOUSE, COW-PEN:@}¦ <div n="1">(1) {#व्रजः;#} </div><div n="1">(2) {#गोष्ठम्;#}</div>
-<div n="lb"/><div n="1">(3) {#गोशाला;#} </div><div n="1">(4) {#गोकुलम्।#}</div>
+{@COW-HOUSE, COW-PEN:@}¦ <div n="1">(1) {#व्रजः;#} </div><div n="1">(2) {#गोष्ठम्;#}</div>
+<div n="1">(3) {#गोशाला;#} </div><div n="1">(4) {#गोकुलम्।#}</div>
 <LEND>

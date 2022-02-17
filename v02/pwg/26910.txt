@@ -3,7 +3,7 @@
 <div n="1"> 1) {%Regenwolke%} 
 <ls>AK. 1, 1, 2. 8.</ls> 
 <ls>H. 164.</ls> 
-<ls>MBH. 1, 5331. 3, 1691. 7, 7163.</ls> 
+<ls>MBH. 1, 5331.</ls> <ls n="MBH.">3, 1691.</ls> <ls n="MBH.">7, 7163.</ls> 
 <ls>HIḌ. 2, 2.</ls> 
 <ls>HARIV. 3822.</ls> 
 <ls>R. 5, 7, 17. 6, 90, 28.</ls> 
@@ -20,5 +20,5 @@
 <div n="1">— 4) {%Dalbergia ougeinensis Roxb.%} ({#तिनिश#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 5) N. eines aus 4 x 32 Moren bestehenden Metrums 
-<ls>COLEBR. Misc. Ess. II, 157</ls> <ls>(III, 40).</ls>
+<ls>COLEBR. Misc. Ess. II, 157</ls> (<ls>III, 40).</ls>
 <LEND>

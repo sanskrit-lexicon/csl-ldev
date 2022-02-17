@@ -1,12 +1,12 @@
 <L>17700<pc>541<k1>press<k2>press
-<div n="lb"/>{@PRESS@}¦ (v. t.): <div n="I">I To squeeze: {#पीडयति, सं-, नि-, #}
-<div n="lb"/>{# अभि-, आ-,#} ({#पीड्,#} c. 10.), {%without being p. ed:%}
-<div n="lb"/>{#न खलु पीडितः,#} Vid. i.; <div n="xe">{%drunk after being fully%}
-<div n="lb"/>{%p. ed:%}</div> <div n="xs">{#निष्पीडितपीत#}</div> (f. {#ता#}), B. xii. 18. </div><div n="I">II
-<div n="lb"/>To embrace: </div><div n="1">(1) {#निष्पीडयति;#} </div><div n="1">(2) {#निष्पिनष्टि#} [Page542]
-<div n="lb"/>({#पिष्,#} c. 7.), Ki. xvii. 13. </div><div n="I">III To urge,
-<div n="lb"/>constrain: q. v.: {#अनुरुणद्धि#} ({#रुध्,#} c. 7.), <div n="xe">{%being%}
-<div n="lb"/>{%p. ed about improper things:%}</div> <div n="xs">{#अयुक्तमनुरुध्यमानः,#}</div>
-<div n="lb"/>Vi. v. </div><div n="I">IV To impress (IV): q. v.: {#धरति#}
-<div n="lb"/>({#धृ,#} c. 1.).</div>
+{@PRESS@}¦ (v. t.): <div n="I">I To squeeze: {#पीडयति, सं-, नि-, #}
+{# अभि-, आ-,#} ({#पीड्,#} c. 10.), {%without being p. ed:%}
+{#न खलु पीडितः,#} Vid. i.; <div n="xe">{%drunk after being fully%}
+{%p. ed:%}</div> <div n="xs">{#निष्पीडितपीत#}</div> (f. {#ता#}), B. xii. 18. </div><div n="I">II
+To embrace: </div><div n="1">(1) {#निष्पीडयति;#} </div><div n="1">(2) {#निष्पिनष्टि#} [Page542]
+({#पिष्,#} c. 7.), Ki. xvii. 13. </div><div n="I">III To urge,
+constrain: q. v.: {#अनुरुणद्धि#} ({#रुध्,#} c. 7.), <div n="xe">{%being%}
+{%p. ed about improper things:%}</div> <div n="xs">{#अयुक्तमनुरुध्यमानः,#}</div>
+Vi. v. </div><div n="I">IV To impress (IV): q. v.: {#धरति#}
+({#धृ,#} c. 1.).</div>
 <LEND>

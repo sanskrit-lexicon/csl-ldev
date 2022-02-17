@@ -1,21 +1,21 @@
 <L>9950<pc>130-3<k1>धर्मशासन<k2>धर्मशासन
 {#धर्मशासन#}¦dharma-śāsana, {%n.%} manual of 
-<>law; {@-śāstra@}, {%n.%} authoritative compendium 
-<>of law; law-book; {@-śāstrin@}, {%m.%} adherent of 
-<>the law-books: {%pl. a certain school%}; {@-śīla@}, 
-<>{%a.%} just, virtuous; {%m. N.%}; {@-saṃyukta@}, {%pp.%} 
-<>legal; {@saṃśrita@}, {%pp.%} just, virtuous; {@-saṃka-@}
-<>{@-thā@}, {%f. pl.%} discourses on virtue; {@-saṃ-jñā@}, {%f.%} 
-<>sense of duty; {@-samaya,@} {%m.%} obligation entered <lbinfo n="2"/>
-<> into; {@-sādnana,@} {%n.%} fulfilment of duty; 
-<>necessary means for the fulfilment of duty; 
-<>{@-sūtra,@} {%n.%} sūtra treatise on customary law; 
-<>{@-sena,@} {%m. N. of a merchant%}; {@-sevana,@} {%n.%} 
-<>fulfilment of duty; {@-skandha,@} {%m.%} chapter on 
-<>law; {@-stha,@} {%m.%} judge; {@-sthūṇā-rāja@}, {%m.%} 
-<>main pillar of the law; {@-svāmin,@} {%m. N. of a %}
-<>{%temple erected by king Dharma%}; {@-hantṛ@}, 
-<>{%m.%} ({@-trī,@} {%f.%}) violator of the law; {@-hāni,@} {%f.%} 
-<>neglect of duty; {@-hīna,@} {%pp.%} excluded from {%the %}
-<>{%pala of%} the law.
+law; {@-śāstra@}, {%n.%} authoritative compendium 
+of law; law-book; {@-śāstrin@}, {%m.%} adherent of 
+the law-books: {%pl. a certain school%}; {@-śīla@}, 
+{%a.%} just, virtuous; {%m. N.%}; {@-saṃyukta@}, {%pp.%} 
+legal; {@saṃśrita@}, {%pp.%} just, virtuous; {@-saṃka-@}
+{@-thā@}, {%f. pl.%} discourses on virtue; {@-saṃ-jñā@}, {%f.%} 
+sense of duty; {@-samaya,@} {%m.%} obligation entered <lbinfo n="2"/>
+ into; {@-sādnana,@} {%n.%} fulfilment of duty; 
+necessary means for the fulfilment of duty; 
+{@-sūtra,@} {%n.%} sūtra treatise on customary law; 
+{@-sena,@} {%m. N. of a merchant%}; {@-sevana,@} {%n.%} 
+fulfilment of duty; {@-skandha,@} {%m.%} chapter on 
+law; {@-stha,@} {%m.%} judge; {@-sthūṇā-rāja@}, {%m.%} 
+main pillar of the law; {@-svāmin,@} {%m. N. of a %}
+{%temple erected by king Dharma%}; {@-hantṛ@}, 
+{%m.%} ({@-trī,@} {%f.%}) violator of the law; {@-hāni,@} {%f.%} 
+neglect of duty; {@-hīna,@} {%pp.%} excluded from {%the %}
+{%pala of%} the law.
 <LEND>

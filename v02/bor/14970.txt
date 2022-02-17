@@ -1,4 +1,4 @@
 <L>14970<pc>457<k1>morn<k2>morn
-<div n="lb"/>{@MORN:@}¦ <div n="1">(1) {#विभातम्;#} </div><div n="1">(2) {#दिनमुखम्,#} <ls>R.</ls> : v.
-<div n="lb"/>Morning.</div>
+{@MORN:@}¦ <div n="1">(1) {#विभातम्;#} </div><div n="1">(2) {#दिनमुखम्,#} <ls>R.</ls> : v.
+Morning.</div>
 <LEND>

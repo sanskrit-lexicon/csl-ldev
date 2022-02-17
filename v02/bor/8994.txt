@@ -1,5 +1,5 @@
 <L>8994<pc>284<k1>flog<k2>flog
-<div n="lb"/>{@FLOG@}¦ (v.): <div n="1">(1) {#कशया#} (whip) <div n="xe">{%or%}</div> <div n="xs">{#वेत्रेण#}</div> (rattan)
-<div n="lb"/>{#प्रहरति#} ({#हृ,#} c. 1.): v. To beat; </div><div n="1">(2) {#कशाघातं#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#वेत्राघातं करोति।#}</div></div>
+{@FLOG@}¦ (v.): <div n="1">(1) {#कशया#} (whip) <div n="xe">{%or%}</div> <div n="xs">{#वेत्रेण#}</div> (rattan)
+{#प्रहरति#} ({#हृ,#} c. 1.): v. To beat; </div><div n="1">(2) {#कशाघातं#}
+<div n="xe">{%or%}</div> <div n="xs">{#वेत्राघातं करोति।#}</div></div>
 <LEND>

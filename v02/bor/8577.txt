@@ -1,12 +1,12 @@
 <L>8577<pc>272<k1>feeling<k2>feeling
-<div n="lb"/>{@FEELING@}¦ (subs.): <div n="I">I The sense: {#स्पर्शः।#} </div><div n="I">II
-<div n="lb"/>Perception: </div><div n="1">(1) {#अनुभवः,#} (rarely) {#अनुभूतिः; #}
-<div n="lb"/>{# उपलब्धिः;#} (rarely), </div><div n="1">(2) {#उपलम्मः।#} (actual f.), <div n="xe">{%from%}
-<div n="lb"/>{%the f. of pleasure:%}</div> <div n="xs">{#सुखोपलम्भात्,#}</div> R.; </div><div n="1">(3) {#संवेदः, -नम्#}
-<div n="lb"/>(= knowledge), <div n="xe">{%only for f. pain:%}</div> <div n="xs">{#दुःखसंवेदनायैव,#}</div>
-<div n="lb"/>U. i. 47. </div><div n="I">III Susceptibility to emotions:
-<div n="lb"/>expr. by {#हृदयम्#} (= heart), <div n="xe">{%a man of f.:%}</div> <div n="xs">{#सहृदयः#}</div>
-<div n="lb"/>({#या, यं#}), <div n="xe">{%destitute of f.:%}</div> <div n="xs">{#निष्करुण#}</div> (f. {#णा#}): v.
-<div n="lb"/>Hard. </div><div n="I">IV Any state of mind: </div><div n="1">(1) {#भावः;#}</div>
-<div n="lb"/><div n="1">(2) {#वृत्तिः।#} Ph.: <div n="xe">{%f. of pride:%}</div> <div n="xs">{#अभिमानिता।#}</div></div>
+{@FEELING@}¦ (subs.): <div n="I">I The sense: {#स्पर्शः।#} </div><div n="I">II
+Perception: </div><div n="1">(1) {#अनुभवः,#} (rarely) {#अनुभूतिः; #}
+{# उपलब्धिः;#} (rarely), </div><div n="1">(2) {#उपलम्मः।#} (actual f.), <div n="xe">{%from%}
+{%the f. of pleasure:%}</div> <div n="xs">{#सुखोपलम्भात्,#}</div> R.; </div><div n="1">(3) {#संवेदः, -नम्#}
+(= knowledge), <div n="xe">{%only for f. pain:%}</div> <div n="xs">{#दुःखसंवेदनायैव,#}</div>
+U. i. 47. </div><div n="I">III Susceptibility to emotions:
+expr. by {#हृदयम्#} (= heart), <div n="xe">{%a man of f.:%}</div> <div n="xs">{#सहृदयः#}</div>
+({#या, यं#}), <div n="xe">{%destitute of f.:%}</div> <div n="xs">{#निष्करुण#}</div> (f. {#णा#}): v.
+Hard. </div><div n="I">IV Any state of mind: </div><div n="1">(1) {#भावः;#}</div>
+<div n="1">(2) {#वृत्तिः।#} Ph.: <div n="xe">{%f. of pride:%}</div> <div n="xs">{#अभिमानिता।#}</div></div>
 <LEND>

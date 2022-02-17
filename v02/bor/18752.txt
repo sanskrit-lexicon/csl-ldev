@@ -1,6 +1,6 @@
 <L>18752<pc>578<k1>recovery<k2>recovery
-<div n="lb"/>{@RECOVERY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#पुनर्लाभः;#} </div><div n="1">(2)
-<div n="lb"/>{#पुनःप्राप्तिः;#} </div><div n="1">(3) better by verb. </div><div n="I">II From
-<div n="lb"/>illness: </div><div n="1">(1) {#रोगसमुत्थानम्;#} </div><div n="1">(2) {#स्वास्थ्यलाभः;#}
-<div n="lb"/>and sim. expr. s.</div>
+{@RECOVERY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#पुनर्लाभः;#} </div><div n="1">(2)
+{#पुनःप्राप्तिः;#} </div><div n="1">(3) better by verb. </div><div n="I">II From
+illness: </div><div n="1">(1) {#रोगसमुत्थानम्;#} </div><div n="1">(2) {#स्वास्थ्यलाभः;#}
+and sim. expr. s.</div>
 <LEND>

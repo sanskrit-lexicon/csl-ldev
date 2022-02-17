@@ -1,9 +1,9 @@
 <L>9870<pc>312<k1>gift<k2>gift
-<div n="lb"/>{@GIFT@}¦ (subs.): <div n="I">I A present: q.v.: </div><div n="1">(1) {#दानम्,#}
-<div n="lb"/><div n="xe">{%great g.:%}</div> <div n="xs">{#महादानम्,#}</div> He.; </div><div n="1">(2) {#दत्तम्,#} {%g.s from brothers:%}
-<div n="lb"/>{#भ्रातृदत्तम्,#} N.s.; </div><div n="1">(3) {#दायः#} (rare), {%g. of love:%}
-<div n="lb"/>{#प्रीतिदायः,#} Ram. </div><div n="I">II An endowment: <div n="xe">{%you%}
-<div n="lb"/>{%have all the g.s of nature:%}</div> <div n="xs">{#*सर्वाणि ते स्वामाविका-#}
-<div n="lb"/>{#न्यभिलषणीयानि सन्ति; शक्तिः#}</div> (= faculty,
-<div n="lb"/>power).</div>
+{@GIFT@}¦ (subs.): <div n="I">I A present: q.v.: </div><div n="1">(1) {#दानम्,#}
+<div n="xe">{%great g.:%}</div> <div n="xs">{#महादानम्,#}</div> He.; </div><div n="1">(2) {#दत्तम्,#} {%g.s from brothers:%}
+{#भ्रातृदत्तम्,#} N.s.; </div><div n="1">(3) {#दायः#} (rare), {%g. of love:%}
+{#प्रीतिदायः,#} Ram. </div><div n="I">II An endowment: <div n="xe">{%you%}
+{%have all the g.s of nature:%}</div> <div n="xs">{#*सर्वाणि ते स्वामाविका-#}
+{#न्यभिलषणीयानि सन्ति; शक्तिः#}</div> (= faculty,
+power).</div>
 <LEND>

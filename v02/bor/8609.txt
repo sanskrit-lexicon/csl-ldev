@@ -1,9 +1,9 @@
 <L>8609<pc>273<k1>female<k2>female
-<div n="lb"/>{@FEMALE@}¦ (adj.): Not male: <div n="1">(1) by a feminine
-<div n="lb"/>termination {#आ#} <div n="xe">{%or%}</div> <div n="xs">{#ई:#}</div> <div n="xe">{%f. preceptor:%}</div> <div n="xs">{#उपाध्याया;#}</div>
-<div n="lb"/><div n="xe">{%a f. monkey:%}</div> <div n="xs">{#वानरी;#}</div> <div n="xe">{%a f. dove:%}</div> <div n="xs">{#कपोतिका,;#}</div></div>
-<div n="lb"/><div n="1">(2) by {#वधू#} affixed (denoting the f. of a
-<div n="lb"/>couple), <div n="xe">{%the f. Chakra:%}</div> <div n="xs">{#चक्रवाकवधूः,#}</div> M.n. </div><div n="I">II
-<div n="lb"/>Belonging to a woman: expr. by comp.:
-<div n="lb"/><div n="xe">{%f. form:%}</div> <div n="xs">{#स्त्रीरूपम्।#}</div></div>
+{@FEMALE@}¦ (adj.): Not male: <div n="1">(1) by a feminine
+termination {#आ#} <div n="xe">{%or%}</div> <div n="xs">{#ई:#}</div> <div n="xe">{%f. preceptor:%}</div> <div n="xs">{#उपाध्याया;#}</div>
+<div n="xe">{%a f. monkey:%}</div> <div n="xs">{#वानरी;#}</div> <div n="xe">{%a f. dove:%}</div> <div n="xs">{#कपोतिका,;#}</div></div>
+<div n="1">(2) by {#वधू#} affixed (denoting the f. of a
+couple), <div n="xe">{%the f. Chakra:%}</div> <div n="xs">{#चक्रवाकवधूः,#}</div> M.n. </div><div n="I">II
+Belonging to a woman: expr. by comp.:
+<div n="xe">{%f. form:%}</div> <div n="xs">{#स्त्रीरूपम्।#}</div></div>
 <LEND>

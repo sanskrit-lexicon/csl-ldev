@@ -1,5 +1,5 @@
 <L>3489<pc>116<k1>chastisement<k2>chastisement
-<div n="lb"/>{@CHASTISEMENT:@}¦ {#निग्रहः,#} <div n="xe">{%I will inflict proper c. on%}
-<div n="lb"/>{%you:%}</div> <div n="xs">{#तव यथोचितं निग्रहं करोमि,#}</div> P.: v. Punish-
-<div n="lb"/>-ment.
+{@CHASTISEMENT:@}¦ {#निग्रहः,#} <div n="xe">{%I will inflict proper c. on%}
+{%you:%}</div> <div n="xs">{#तव यथोचितं निग्रहं करोमि,#}</div> P.: v. Punish-
+-ment.
 <LEND>

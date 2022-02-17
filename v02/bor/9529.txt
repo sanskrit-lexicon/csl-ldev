@@ -1,5 +1,5 @@
 <L>9529<pc>302<k1>fully<k2>fully
-<div n="lb"/>{@FULLY:@}¦ <div n="I">I Completely, altogether: </div><div n="1">(1)
-<div n="lb"/>{#सम्पूर्णम्;#} </div><div n="1">(2) {#अशेषेण।#} </div><div n="I">II At length: </div><div n="1">(1) {#विस्तरेण;#}</div>
-<div n="lb"/><div n="1">(2) {#सुविस्तरम्।#}</div>
+{@FULLY:@}¦ <div n="I">I Completely, altogether: </div><div n="1">(1)
+{#सम्पूर्णम्;#} </div><div n="1">(2) {#अशेषेण।#} </div><div n="I">II At length: </div><div n="1">(1) {#विस्तरेण;#}</div>
+<div n="1">(2) {#सुविस्तरम्।#}</div>
 <LEND>

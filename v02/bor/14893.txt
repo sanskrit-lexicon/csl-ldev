@@ -1,6 +1,6 @@
 <L>14893<pc>455<k1>moneyed<k2>moneyed
-<div n="lb"/>{@MONEYED:@}¦ <div n="I">I Rich: </div><div n="1">(1) {#धनवत्#} (f. {#ती#}); </div><div n="1">(2)
-<div n="lb"/>{#धनिन्#} (f. {#नी,#}); </div><div n="1">(3) {#धनशालिन्#} (f. {#नी#}); </div><div n="1">(4)
-<div n="lb"/>{#धनाढ्य#} (f. {#ढ्या#}). </div><div n="I">II Composed of money:
-<div n="lb"/><div n="xe">{%“m. capital”:%}</div> <div n="xs">{#सारधनम्,#}</div> D.</div>
+{@MONEYED:@}¦ <div n="I">I Rich: </div><div n="1">(1) {#धनवत्#} (f. {#ती#}); </div><div n="1">(2)
+{#धनिन्#} (f. {#नी,#}); </div><div n="1">(3) {#धनशालिन्#} (f. {#नी#}); </div><div n="1">(4)
+{#धनाढ्य#} (f. {#ढ्या#}). </div><div n="I">II Composed of money:
+<div n="xe">{%“m. capital”:%}</div> <div n="xs">{#सारधनम्,#}</div> D.</div>
 <LEND>

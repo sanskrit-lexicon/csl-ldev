@@ -1,7 +1,7 @@
 <L>18265<pc>560<k1>push<k2>push
-<div n="lb"/>{@PUSH@}¦ (subs.): <div n="I">I A thrust: q. v.: {#आवेधः।#} </div><div n="I">II
-<div n="lb"/>Any pressure or force applied: {#आधातः, #}
-<div n="lb"/>{# अभिघातः,#} <div n="xe">{%or%}</div> <div n="xs">{#समाधातः।#}</div> </div><div n="I">III P. ing aside:
-<div n="lb"/>{#अपसारणम्।#} </div><div n="I">IV Vigorous effort: {#अभियोगः।#}
-<div n="lb"/>V. Extremity, emergency: {#सङ्कटम्।#}</div>
+{@PUSH@}¦ (subs.): <div n="I">I A thrust: q. v.: {#आवेधः।#} </div><div n="I">II
+Any pressure or force applied: {#आधातः, #}
+{# अभिघातः,#} <div n="xe">{%or%}</div> <div n="xs">{#समाधातः।#}</div> </div><div n="I">III P. ing aside:
+{#अपसारणम्।#} </div><div n="I">IV Vigorous effort: {#अभियोगः।#}
+V. Extremity, emergency: {#सङ्कटम्।#}</div>
 <LEND>

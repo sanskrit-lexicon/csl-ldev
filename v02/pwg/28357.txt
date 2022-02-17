@@ -15,8 +15,8 @@
 <ls>ŚĀṄKH. GṚHY. 4, 18.</ls> 
 <ls>KAUŚ. 28. 29. 56.</ls> 
 <ls>Ind. St. 1, 35.</ls> 
-<ls>MBH. 1, 774. fg. 1550. 1704. 1979. fgg. 2149. fgg. 2549. 3778. 8236. 3, 5032. 5, 3625. 6, 4900. 7, 7873. 8, 4078.</ls> 
-<ls>HARIV. 227. 267. 375. 11233. 12466. 12821.</ls> 
+<ls>MBH. 1, 774. fg.</ls> <ls n="MBH. 1,">1550.</ls> <ls n="MBH. 1,">1704.</ls> <ls n="MBH. 1,">1979. fgg.</ls> <ls n="MBH. 1,">2149. fgg.</ls> <ls n="MBH. 1,">2549.</ls> <ls n="MBH. 1,">3778.</ls> <ls n="MBH. 1,">8236.</ls> <ls n="MBH.">3, 5032.</ls> <ls n="MBH.">5, 3625.</ls> <ls n="MBH.">6, 4900.</ls> <ls n="MBH.">7, 7873.</ls> <ls n="MBH.">8, 4078.</ls> 
+<ls>HARIV. 227.</ls> <ls n="HARIV.">267.</ls> <ls n="HARIV.">375.</ls> <ls n="HARIV.">11233.</ls> <ls n="HARIV.">12466.</ls> <ls n="HARIV.">12821.</ls> 
 <ls>R. 3, 36, 13. 5, 78, 9. 6, 37, 64.</ls> 
 <ls>SUŚR. 2, 275, 21.</ls> 
 <ls>RAGH. 16, 88.</ls> 

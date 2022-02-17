@@ -1,10 +1,10 @@
 <L>19107<pc>591<k1>reserve<k2>reserve
-<div n="lb"/>{@RESERVE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#संवृतिः,#} <div n="xe">{%r.%}
-<div n="lb"/>{%only disclose one's affections:%}</div> <div n="xs">{#कथयति संवृतिरेव #}
-<div n="lb"/>{# कामितानि,#}</div> Ki. x. 44.; <div n="xe">{%r. d mind:%}</div> <div n="xs">{#संवृतिमन्मनः,#}</div>
-<div n="lb"/>Si. xv. 11.; </div><div n="1">(2) {#संवरणम्,#} {%it is%} ({%his%}) <div n="xe">{%r.:%}</div> <div n="xs">{#संवरणं #}
-<div n="lb"/>{# हि तत्,#}</div> Mal. i. Ph.: <div n="xe">{%without r.:%}</div> <div n="xs">{#विवृतम्;#}</div> </div><div n="1">(3)
-<div n="lb"/>{#संकोचः,#} M. n. on Si. vi. 74; </div><div n="1">(4) {#आशङ्का#}
-<div n="lb"/>(= apprehension), <div n="xe">{%without r.:%}</div> <div n="xs">{#समुद्ध्टताशङ्कम्,#}</div> Si.:
-<div n="lb"/>v. Also openly. </div><div n="I">II Of troops: {#परि#} ({#प्रति#}) {#ग्रहः।#}</div>
+{@RESERVE@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#संवृतिः,#} <div n="xe">{%r.%}
+{%only disclose one's affections:%}</div> <div n="xs">{#कथयति संवृतिरेव #}
+{# कामितानि,#}</div> Ki. x. 44.; <div n="xe">{%r. d mind:%}</div> <div n="xs">{#संवृतिमन्मनः,#}</div>
+Si. xv. 11.; </div><div n="1">(2) {#संवरणम्,#} {%it is%} ({%his%}) <div n="xe">{%r.:%}</div> <div n="xs">{#संवरणं #}
+{# हि तत्,#}</div> Mal. i. Ph.: <div n="xe">{%without r.:%}</div> <div n="xs">{#विवृतम्;#}</div> </div><div n="1">(3)
+{#संकोचः,#} M. n. on Si. vi. 74; </div><div n="1">(4) {#आशङ्का#}
+(= apprehension), <div n="xe">{%without r.:%}</div> <div n="xs">{#समुद्ध्टताशङ्कम्,#}</div> Si.:
+v. Also openly. </div><div n="I">II Of troops: {#परि#} ({#प्रति#}) {#ग्रहः।#}</div>
 <LEND>

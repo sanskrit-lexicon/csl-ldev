@@ -1,6 +1,6 @@
 <L>4622<pc>150<k1>contract<k2>contract
-<div n="lb"/>{@CONTRACT@}¦ (subs,): <div n="I">I Lit.: </div><div n="1">(1) {#नियमः;#} </div><div n="1">(2)
-<div n="lb"/>{#समयः;#} </div><div n="1">(3) {#संविद्, -दा#} (f.), <div n="xe">{%breach of c.:%}</div> <div n="xs">{#संविद्-#}
-<div n="lb"/>{#व्यतिक्रमः,#}</div> M. </div><div n="I">II A contracted word: {#संक्षिप्त-#}
-<div n="lb"/>{#पदम्#} (?).</div>
+{@CONTRACT@}¦ (subs,): <div n="I">I Lit.: </div><div n="1">(1) {#नियमः;#} </div><div n="1">(2)
+{#समयः;#} </div><div n="1">(3) {#संविद्, -दा#} (f.), <div n="xe">{%breach of c.:%}</div> <div n="xs">{#संविद्-#}
+{#व्यतिक्रमः,#}</div> M. </div><div n="I">II A contracted word: {#संक्षिप्त-#}
+{#पदम्#} (?).</div>
 <LEND>

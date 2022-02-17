@@ -1,4 +1,4 @@
 <L>3697<pc>121<k1>circumpacent<k2>circumpacent
-<div n="lb"/>{@CIRCUMPACENT:@}¦ <div n="1">(1) {#चतुर्दिश्यः#} ({#श्या, श्यं#}); </div><div n="1">(2)
-<div n="lb"/>{#परितः स्थितः#} ({#ता, तं#}).</div>
+{@CIRCUMPACENT:@}¦ <div n="1">(1) {#चतुर्दिश्यः#} ({#श्या, श्यं#}); </div><div n="1">(2)
+{#परितः स्थितः#} ({#ता, तं#}).</div>
 <LEND>

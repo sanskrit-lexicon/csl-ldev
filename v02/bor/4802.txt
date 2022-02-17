@@ -1,4 +1,4 @@
 <L>4802<pc>155<k1>corpse<k2>corpse
-<div n="lb"/>{@CORPSE:@}¦ <div n="1">(1) {#शव#} (mn.); </div><div n="1">(2) {#कुणप#} (mn.) (rare):
-<div n="lb"/>v. Dead and body.</div>
+{@CORPSE:@}¦ <div n="1">(1) {#शव#} (mn.); </div><div n="1">(2) {#कुणप#} (mn.) (rare):
+v. Dead and body.</div>
 <LEND>

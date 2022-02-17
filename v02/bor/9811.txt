@@ -1,6 +1,6 @@
 <L>9811<pc>310<k1>germ<k2>germ
-<div n="lb"/>{@GERM:@}¦ {#अङ्कुरः#} ({%or%} {#अङ्कूरः#}) (lit. and fig.), <div n="xe">{%generation%}
-<div n="lb"/>{%of g.s in seeds:%}</div> <div n="xs">{#वीजेऽङ्कुरजननम्,#}</div> D.s; {%the journey%}
-<div n="lb"/>{%of%} ({%his%}) <div n="xe">{%sister to deceive them is the g.:%}</div> <div n="xs">{#अङ्कुरः #}
-<div n="lb"/>{# स्वसुर्यात्रा तौ परिवञ्चितुम्,#}</div> Vi. vi. 1.
+{@GERM:@}¦ {#अङ्कुरः#} ({%or%} {#अङ्कूरः#}) (lit. and fig.), <div n="xe">{%generation%}
+{%of g.s in seeds:%}</div> <div n="xs">{#वीजेऽङ्कुरजननम्,#}</div> D.s; {%the journey%}
+{%of%} ({%his%}) <div n="xe">{%sister to deceive them is the g.:%}</div> <div n="xs">{#अङ्कुरः #}
+{# स्वसुर्यात्रा तौ परिवञ्चितुम्,#}</div> Vi. vi. 1.
 <LEND>

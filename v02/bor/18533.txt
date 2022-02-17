@@ -1,6 +1,6 @@
 <L>18533<pc>570<k1>rampant<k2>rampant
-<div n="lb"/>{@RAMPANT:@}¦ <div n="I">I Wild, ferocious: q. v.: </div><div n="1">(1)
-<div n="lb"/>{#निरवग्रह#} (f. {#हा#}); </div><div n="1">(2) {#अनियन्त्रित#} (f. {#ता#}); etc.</div>
-<div n="lb"/><div n="I">II Standing on the hind legs: {#पश्चात्पादयोः #}
-<div n="lb"/>{# स्थित#} (f. {#ता#}).</div>
+{@RAMPANT:@}¦ <div n="I">I Wild, ferocious: q. v.: </div><div n="1">(1)
+{#निरवग्रह#} (f. {#हा#}); </div><div n="1">(2) {#अनियन्त्रित#} (f. {#ता#}); etc.</div>
+<div n="I">II Standing on the hind legs: {#पश्चात्पादयोः #}
+{# स्थित#} (f. {#ता#}).</div>
 <LEND>

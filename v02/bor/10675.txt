@@ -1,6 +1,6 @@
 <L>10675<pc>336<k1>harshness<k2>harshness
-<div n="lb"/>{@HARSHNESS:@}¦ <div n="1">(1) {#कर्कशता, -त्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#कार्कश्यम्,#}</div> R.; </div><div n="1">(2)
-<div n="lb"/>{#रूक्ष्ता#} <div n="xe">{%or%}</div> <div n="xs">{#रौक्ष्यम्,#}</div> <div n="xe">{%forgive my h.:%}</div> <div n="xs">{#रौक्ष्यं मे क्षमस्व,#}</div> R.
-<div n="lb"/>xiv. 56.; </div><div n="1">(3) {#परुषता#} <div n="xe">{%or%}</div> <div n="xs">{#पारुष्यम्#}</div> (of language),
-<div n="lb"/><div n="xe">{%h. is not good:%}</div> <div n="xs">{#परुषता न साध्वी,#}</div> Ki. ix. 39.</div>
+{@HARSHNESS:@}¦ <div n="1">(1) {#कर्कशता, -त्वम्#} <div n="xe">{%or%}</div> <div n="xs">{#कार्कश्यम्,#}</div> R.; </div><div n="1">(2)
+{#रूक्ष्ता#} <div n="xe">{%or%}</div> <div n="xs">{#रौक्ष्यम्,#}</div> <div n="xe">{%forgive my h.:%}</div> <div n="xs">{#रौक्ष्यं मे क्षमस्व,#}</div> R.
+xiv. 56.; </div><div n="1">(3) {#परुषता#} <div n="xe">{%or%}</div> <div n="xs">{#पारुष्यम्#}</div> (of language),
+<div n="xe">{%h. is not good:%}</div> <div n="xs">{#परुषता न साध्वी,#}</div> Ki. ix. 39.</div>
 <LEND>

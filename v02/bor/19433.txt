@@ -1,13 +1,13 @@
 <L>19433<pc>603<k1>roll<k2>roll
-<div n="lb"/>{@ROLL@}¦ (v. t.): <div n="I">I To revolve: </div><div n="1">(1) {#भ्र(भ्रा)मयति, #}
-<div n="lb"/>{# परि-#} (c. of {#भ्रम्#}), <div n="xe">{%r. ing all beings:%}</div> <div n="xs">{#भ्रामयन् सर्व-#}
-<div n="lb"/>{#भूतानि,#}</div> G. xviii. 61.; </div><div n="1">(2) {#घूर्णयति, वि-, परि-#} (c.
-<div n="lb"/>of {#घूर्ण्#}), <div n="xe">{%r. ing the eyes:%}</div> <div n="xs">{#दृशौ घूर्णयन्,#}</div> Si. ii. 16.</div>
-<div n="lb"/><div n="I">II On the ground: {#लोट(ठ)यति#} (c. of {#लुट्#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#लुठ्#}</div>). </div><div n="I">III To r. up, wrap round on
-<div n="lb"/>itself: </div><div n="1">(1) {#पिण्डीकरोति;#} </div><div n="1">(2) {#संपुटीकरोति।#} </div><div n="I">IV
-<div n="lb"/>To enwrap, encircle: q. v.: {#वेष्टयति, परि-#}
-<div n="lb"/>(c. of {#वेष्ट्#}). </div><div n="I">V To press with a r. er: </div><div n="1">(1)
-<div n="lb"/>{#वेल्लति#} ({#वेल्ल्,#} c. 1.: to r. flour etc. for cake);</div>
-<div n="lb"/><div n="1">(2) {#समीकरोति#} (= to level).</div>
+{@ROLL@}¦ (v. t.): <div n="I">I To revolve: </div><div n="1">(1) {#भ्र(भ्रा)मयति, #}
+{# परि-#} (c. of {#भ्रम्#}), <div n="xe">{%r. ing all beings:%}</div> <div n="xs">{#भ्रामयन् सर्व-#}
+{#भूतानि,#}</div> G. xviii. 61.; </div><div n="1">(2) {#घूर्णयति, वि-, परि-#} (c.
+of {#घूर्ण्#}), <div n="xe">{%r. ing the eyes:%}</div> <div n="xs">{#दृशौ घूर्णयन्,#}</div> Si. ii. 16.</div>
+<div n="I">II On the ground: {#लोट(ठ)यति#} (c. of {#लुट्#}
+<div n="xe">{%or%}</div> <div n="xs">{#लुठ्#}</div>). </div><div n="I">III To r. up, wrap round on
+itself: </div><div n="1">(1) {#पिण्डीकरोति;#} </div><div n="1">(2) {#संपुटीकरोति।#} </div><div n="I">IV
+To enwrap, encircle: q. v.: {#वेष्टयति, परि-#}
+(c. of {#वेष्ट्#}). </div><div n="I">V To press with a r. er: </div><div n="1">(1)
+{#वेल्लति#} ({#वेल्ल्,#} c. 1.: to r. flour etc. for cake);</div>
+<div n="1">(2) {#समीकरोति#} (= to level).</div>
 <LEND>

@@ -7,7 +7,7 @@
 <div n="to"/>to fall or get into or among (<ab>loc.</ab>), <ls>Kathās.</ls>; <ls>Hit.</ls>;
 <div n="to"/>to occur, come to pass, happen, <ls>Pañc.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>पत/यति</s>, to fly or move rapidly along, <ls>RV.</ls>; <ls>VS.</ls>;
-<div n="to"/>to speed (trans.; <ab>cf.</ab> <s>पतय/त्</s>);
+<div n="to"/>to speed (<ab>trans.</ab>; <ab>cf.</ab> <s>पतय/त्</s>);
 <div n="to"/> <s>°ते</s>, to drive away or throw down (?), <ls>RV. i, 169, 7</ls>;
 <div n="vp"/> <s>पात/यति</s> (<ab>ep.</ab> also <s>°ते</s>; <ab>aor.</ab> <s>अपीपतत्</s>, <ls>AV.</ls>; <ab>Pass.</ab> <s>पात्यते</s>, <ls>MBh.</ls> &c.), 
 <div n="to"/>to let fly or cause to fall, to fling, hurl, throw, <ls>AV.</ls> &c. &c.;
@@ -25,6 +25,6 @@
 <div n="to"/> (with <s>द्वेधा</s>) to divide in two, <ls>ŚBr.</ls>;
 <div n="to"/>to subtract, <ls>Jyot.</ls> <ab>Sch.</ab>;
 <div n="to"/> (<ab>Ā.</ab>) to rush on, hasten, <ls>RV. viii, 46, 8</ls> :
-<div n="vp"/><ab>Desid.</ab> <s>पिपतिषति</s> (<ls>AV.</ls>; <ls>MaitrS.</ls>; <ls>ŚBr.</ls>) and <s>पित्सति</s> (<ls>Pāṇ. 7-4, 54</ls>), to be about to fly or fall:
-<div n="vp"/><ab>Intens.</ab> <s>पनीपत्यते</s> or <s>°पातीति</s>, <ls>Pāṇ. 7-4, 84.</ls><info westergaard="patx,20.15,01.0570"/><info whitneyroots="pat1,94"/><info verb="genuineroot" cp="1P,1Ā"/>
+<div n="vp"/><ab>Desid.</ab> <s>पिपतिषति</s> (<ls>AV.</ls>; <ls>MaitrS.</ls>; <ls>ŚBr.</ls>) and <s>पित्सति</s> (<ls>Pāṇ. vii, 4, 54</ls>), to be about to fly or fall:
+<div n="vp"/><ab>Intens.</ab> <s>पनीपत्यते</s> or <s>°पातीति</s>, <ls>Pāṇ. vii, 4, 84.</ls><info westergaard="patx,20.15,01.0570"/><info whitneyroots="pat1,94"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

@@ -1,17 +1,17 @@
 <L>20538<pc>536-b<k1>nose<k2>nose
-<div n="lb"/>NOSE¦, {%s.%} {#नासा -सिका, नसा, नस्या, घ्राणं, घोणा, गन्धवहा, गन्धवाहः,#}
-<div n="lb"/>{#गन्धज्ञा, गन्धनाली, घ्रतिः#} {%f.,%} {#नाः#} {%f.%} {#(स्), नस्तः, नासिक्यं, नासिक्यकं,#}
-<div n="lb"/>{#सिङ्घिनी, विकूणिका, तनुभस्त्रा, नक्रं, नकुटं, नर्कुटकं;#} ‘aquiline nose,’
-<div n="lb"/>{#शुकनासिका;#} ‘having a sharp nose,’ {#स्वरणसः -सा -सं, स्वरणाः#}
-<div n="lb"/>{#-णाः -णः (स्);#} ‘having a nose like a hoof,’ {#खुरणसः -सा -सं,#}
-<div n="lb"/>{#स्वुरणाः -णाः -णः (स्);#} ‘having a flat nose,’ {#नतनासिकः -का -कं,#}
-<div n="lb"/>{#अवटीटः -टा -टं, अवनाटः -टा -टं, अवभ्रटः -टा -टं;#} ‘having a
-<div n="lb"/>prominent nose,’ {#प्रलम्बघोणः -णा -णं;#} ‘having a large nose,’
-<div n="lb"/>{#उग्रनासिकः -का -कं;#} ‘tip of the nose,’ {#नासिकाग्रं, नासाग्रं;#}
-<div n="lb"/>‘mucus of the nose,’ {#नासिकामलं;#} ‘running at the nose,’
-<div n="lb"/>{#नासिकास्रावः, नासापरिस्रावः;#} ‘thickening of the membrane
-<div n="lb"/>of the nose, {#नासानाहः;#} ‘dryness of the nose,’ {#नासाशोषः;#}
-<div n="lb"/>‘breathing through the nose,’ {#नासिकन्धमः -मा -मं;#} ‘drinking
-<div n="lb"/>through the nose,’ {#नासिकन्धयः -यी -यं;#} ‘led by the nose,
-<div n="lb"/>as cattle, &c. {#नस्तितः, नस्तोतः, नस्योतः#}.
+NOSE¦, {%s.%} {#नासा -सिका, नसा, नस्या, घ्राणं, घोणा, गन्धवहा, गन्धवाहः,#}
+{#गन्धज्ञा, गन्धनाली, घ्रतिः#} {%f.,%} {#नाः#} {%f.%} {#(स्), नस्तः, नासिक्यं, नासिक्यकं,#}
+{#सिङ्घिनी, विकूणिका, तनुभस्त्रा, नक्रं, नकुटं, नर्कुटकं;#} ‘aquiline nose,’
+{#शुकनासिका;#} ‘having a sharp nose,’ {#स्वरणसः -सा -सं, स्वरणाः#}
+{#-णाः -णः (स्);#} ‘having a nose like a hoof,’ {#खुरणसः -सा -सं,#}
+{#स्वुरणाः -णाः -णः (स्);#} ‘having a flat nose,’ {#नतनासिकः -का -कं,#}
+{#अवटीटः -टा -टं, अवनाटः -टा -टं, अवभ्रटः -टा -टं;#} ‘having a
+prominent nose,’ {#प्रलम्बघोणः -णा -णं;#} ‘having a large nose,’
+{#उग्रनासिकः -का -कं;#} ‘tip of the nose,’ {#नासिकाग्रं, नासाग्रं;#}
+‘mucus of the nose,’ {#नासिकामलं;#} ‘running at the nose,’
+{#नासिकास्रावः, नासापरिस्रावः;#} ‘thickening of the membrane
+of the nose, {#नासानाहः;#} ‘dryness of the nose,’ {#नासाशोषः;#}
+‘breathing through the nose,’ {#नासिकन्धमः -मा -मं;#} ‘drinking
+through the nose,’ {#नासिकन्धयः -यी -यं;#} ‘led by the nose,
+as cattle, &c. {#नस्तितः, नस्तोतः, नस्योतः#}.
 <LEND>

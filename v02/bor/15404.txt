@@ -1,8 +1,8 @@
 <L>15404<pc>472<k1>nice<k2>nice
-<div n="lb"/>{@NICE:@}¦ <div n="I">I Delicate, dainty: </div><div n="1">(1) {#ललितः#}
-<div n="lb"/>({#ता, तं#}); </div><div n="1">(2) {#स्वादु#} (mfn.) (= sweet). </div><div n="I">II
-<div n="lb"/>Agreeable, delightful: {#रूचिरः#} ({#रा, रं#}). </div><div n="I">III
-<div n="lb"/>Delicate, refined: {#सूक्षम#} (f. {#क्ष्मा#}). </div><div n="I">IV
-<div n="lb"/>Exact, accurate: {#विशुद्ध#} (f. {#द्धा#}). V. Fasti-
-<div n="lb"/>-dious, scrupulous: {#सूक्ष्मप्रियः#} ({#या, यं#}) (??).</div>
+{@NICE:@}¦ <div n="I">I Delicate, dainty: </div><div n="1">(1) {#ललितः#}
+({#ता, तं#}); </div><div n="1">(2) {#स्वादु#} (mfn.) (= sweet). </div><div n="I">II
+Agreeable, delightful: {#रूचिरः#} ({#रा, रं#}). </div><div n="I">III
+Delicate, refined: {#सूक्षम#} (f. {#क्ष्मा#}). </div><div n="I">IV
+Exact, accurate: {#विशुद्ध#} (f. {#द्धा#}). V. Fasti-
+-dious, scrupulous: {#सूक्ष्मप्रियः#} ({#या, यं#}) (??).</div>
 <LEND>

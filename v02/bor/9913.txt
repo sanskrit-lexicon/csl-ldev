@@ -1,5 +1,5 @@
 <L>9913<pc>313<k1>giving<k2>giving
-<div n="lb"/>{@GIVING@}¦ (adj.): <div n="1">(1) {#-दः#} <div n="xe">{%or%}</div> <div n="xs">{#-प्रदः#}</div> ({#दा, दं#}), {%life-g.:%}
-<div n="lb"/>{#प्राणप्रदः#} ({#दा, दं#}); <div n="xe">{%strength g:%}</div> <div n="xs">{#बलदः#}</div> ({#दा, दं#}), Bha.;</div>
-<div n="lb"/><div n="1">(2) {#-दायिन्#} (f. {#नी#}).</div>
+{@GIVING@}¦ (adj.): <div n="1">(1) {#-दः#} <div n="xe">{%or%}</div> <div n="xs">{#-प्रदः#}</div> ({#दा, दं#}), {%life-g.:%}
+{#प्राणप्रदः#} ({#दा, दं#}); <div n="xe">{%strength g:%}</div> <div n="xs">{#बलदः#}</div> ({#दा, दं#}), Bha.;</div>
+<div n="1">(2) {#-दायिन्#} (f. {#नी#}).</div>
 <LEND>

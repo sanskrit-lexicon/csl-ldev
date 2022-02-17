@@ -32,7 +32,7 @@
 <ls>KATHĀS. 32, 156.</ls> {#मन्दमन्दम्#} {%ganz langsam, - gemächlich%}: {#व्रजन्त्यः#}
 [Page5-0549]
 
-<ls>ṚT. 5, 14.</ls> <ls>?ad ŚĀK. 14.</ls> {#शोकश्च मनसो मे ऽद्य मन्दमन्दमपैति च#} 
+<ls>ṚT. 5, 14.</ls> ad <ls>ŚĀK. 14.</ls> {#शोकश्च मनसो मे ऽद्य मन्दमन्दमपैति च#} 
 <ls>R. 3, 78, 9.</ls> {#मन्दं मन्दं नुदति पवनश्चानुकूलो यथा त्वाम्#} 
 <ls>MEGH. 9.</ls> {#मन्दं मन्दं प्रतिगच्छति#} 
 <ls>PAÑCAT. 21, 9. 55, 5. 90, 21.</ls> 
@@ -73,7 +73,7 @@
 <ls>Spr. 914.</ls> {#अमन्दरस#} {%reichlich%} 
 <ls>RĀJA-TAR. 1, 24.</ls> 
 <ls>Spr. 3141</ls> {#(सदामन्द°#} zu lesen). {#मन्दम्#} adv. {%schwach, wenig%}: {#मन्दं प्रख्यायमानेन रूपेण#} 
-<ls>MBH. 3, 2661. 15602.</ls> {#उच्छूसन्#} 
+<ls>MBH. 3, 2661.</ls> <ls n="MBH. 3,">15602.</ls> {#उच्छूसन्#} 
 <ls>R. 4, 21, 1.</ls> 
 <ls>VARĀH. BṚH. S. 19, 21.</ls> {#मारुतो सुमुखो ववौ#} 
 <ls>HARIV. 12688.</ls> {#मन्दविरिक्त#} 
@@ -94,13 +94,13 @@
 <ls>HALĀY. 2, 181.</ls> 
 <ls>KAṬHOP. 2, 2.</ls> 
 <ls>BHAG. 3, 29.</ls> 
-<ls>MBH. 3, 343. 2643. 2646. 4, 1246. 5, 6006. 12, 306. 13, 4813.</ls> 
+<ls>MBH. 3, 343.</ls> <ls n="MBH. 3,">2643.</ls> <ls n="MBH. 3,">2646.</ls> <ls n="MBH.">4, 1246.</ls> <ls n="MBH.">5, 6006.</ls> <ls n="MBH.">12, 306.</ls> <ls n="MBH.">13, 4813.</ls> 
 <ls>R. 3, 45, 12.</ls> 
 <ls>RAGH. 1, 3.</ls> 
 <ls>KUMĀRAS. 5, 75.</ls> 
 <ls>Spr. 1654. 1896. 2122. 4393. 4648.</ls> 
 <ls>KATHĀS. 61, 289.</ls> <ls>MUIR,</ls> <ls>ST. 4, 310,</ls> <ls>N. 275.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 71.</ls> zu <ls>KĀTY.</ls> <ls>ŚR. 151, 13.</ls> <ls>NĪLAK. 34.</ls> {#अ°#} {%klug%} 
-<ls>LA.</ls> <ls>?(II.) 88, 3. PAÑCAR. 1, 10, 92</ls> (wo wohl {#तथामन्दा#} zu lesen ist). 
+<ls>LA.</ls> (<ls>II.) 88, 3.</ls> <ls>PAÑCAR. 1, 10, 92</ls> (wo wohl {#तथामन्दा#} zu lesen ist). 
 <div n="2">— e) {%unglücklich%} 
 <ls>AK. 3, 4, 16, 97.</ls> 
 <ls>H. an.</ls> 
@@ -129,7 +129,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 60</ls>; vgl. {#मन्द्र, भद्रमन्द#} und {#मृगमन्द#} . 
-<div n="2">— e) {%das Ende der Welt%} {#(प्रलय)#} 
+<div n="2">— e) {%das Ende der Welt%} ({#प्रलय#}) 
 <ls>AJAYA</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#मन्दा#} <is>gaṇa</is> {#अजादि#} zu 
 <ls>P. 4, 1, 4.</ls> 
@@ -139,7 +139,7 @@
 <ls>48.</ls> 
 <div n="2">— b) in der Astr. {%eine best. Conjunction%}, eig. <lex>adj.</lex> <lex>f.</lex> (sc. {#संक्रान्ति)#} 
 <ls>TITHYĀDIT.</ls> im <ls>ŚKDR.</ls> 
-<div n="2">— c) N. der <is>Dākṣāyaṇī</is> {#(हिमवतः पृष्ठे)#} 
+<div n="2">— c) N. der <is>Dākṣāyaṇī</is> ({#हिमवतः पृष्ठे#}) 
 <ls>Verz. d. Oxf. H. 39,b,1, v. l.</ls> für {#नन्दा#} . 
 <div n="v">— Vgl. {#अ°, परि°, पिचु°, मान्द, मान्द्य#} .
 <LEND>

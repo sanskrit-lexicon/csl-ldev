@@ -1,7 +1,7 @@
 <L>20365<pc>636<k1>shelter<k2>shelter
-<div n="lb"/>{@SHELTER@}¦ (v.): <div n="I">I To protect, save: q. v.:
-<div n="lb"/>{#त्रायति#} ({#त्रै,#} c. 1.). </div><div n="I">II To give s.: {#आश्रयं ददाति#}
-<div n="lb"/>({#दा,#} c. 3). </div><div n="I">III To take s.: </div><div n="1">(1) {#आश्रयं याति#}
-<div n="lb"/>({#या,#} c. 3.), {#शरणं गच्छति#} ({#गम्,#} c. 1.), etc.
-<div n="lb"/>(with gen.); </div><div n="1">(2) {#आश्रयति, -ते, सम्-#} ({#श्रि,#} c. 1.).</div>
+{@SHELTER@}¦ (v.): <div n="I">I To protect, save: q. v.:
+{#त्रायति#} ({#त्रै,#} c. 1.). </div><div n="I">II To give s.: {#आश्रयं ददाति#}
+({#दा,#} c. 3). </div><div n="I">III To take s.: </div><div n="1">(1) {#आश्रयं याति#}
+({#या,#} c. 3.), {#शरणं गच्छति#} ({#गम्,#} c. 1.), etc.
+(with gen.); </div><div n="1">(2) {#आश्रयति, -ते, सम्-#} ({#श्रि,#} c. 1.).</div>
 <LEND>

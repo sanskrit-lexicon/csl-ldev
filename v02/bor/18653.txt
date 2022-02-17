@@ -1,6 +1,6 @@
 <L>18653<pc>574<k1>reality<k2>reality
-<div n="lb"/>{@REALITY:@}¦ <div n="I">I The condition: </div><div n="1">(1) {#सत्यता;#} </div><div n="1">(2)
-<div n="lb"/>{#प्रकृतता;#} </div><div n="1">(3) {#वास्तविकता;#} </div><div n="1">(4) {#व्यलीकता;#} </div><div n="1">(5)
-<div n="lb"/>{#अकृत्रिमता।#} Ph.: <div n="xe">{%in r.:%}</div> <div n="xs">{#तत्त्वतः,#}</div> K. xviii. 27.</div>
-<div n="lb"/><div n="I">II Anything real: {#सत्यम्:#} v. Real. (1).</div>
+{@REALITY:@}¦ <div n="I">I The condition: </div><div n="1">(1) {#सत्यता;#} </div><div n="1">(2)
+{#प्रकृतता;#} </div><div n="1">(3) {#वास्तविकता;#} </div><div n="1">(4) {#व्यलीकता;#} </div><div n="1">(5)
+{#अकृत्रिमता।#} Ph.: <div n="xe">{%in r.:%}</div> <div n="xs">{#तत्त्वतः,#}</div> K. xviii. 27.</div>
+<div n="I">II Anything real: {#सत्यम्:#} v. Real. (1).</div>
 <LEND>

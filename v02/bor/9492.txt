@@ -1,11 +1,11 @@
 <L>9492<pc>301<k1>fruit<k2>fruit
-<div n="lb"/>{@FRUIT:@}¦ <div n="1">(1) (lit. and fig.), <div n="xe">{%raw, ripe, dry, juicy,%}
-<div n="lb"/>{%insect-contaminated f.:%}</div> <div n="xs">{#आमं, पक्वं, शुष्कं, सरसं, #}
-<div n="lb"/>{# कीटद्गषितं फलम्,#}</div> Bha.; <div n="xe">{%and to enjoy the sweet f. s%}
-<div n="lb"/>{%of the life-tree:%}</div> <div n="xs">{#भोक्तुं, स्वादु फलञ्च जीविततरोः,#}</div> B. i.;
-<div n="lb"/>{%you will get%} ({%its%}) <div n="xe">{%f. also:%}</div> <div n="xs">{#फलमपि प्राप्स्यसि,#}</div> Mr.
-<div n="lb"/>ii.; <div n="xe">{%considering very important production of%}
-<div n="lb"/>{%f. s:%}</div> <div n="xs">{#गरीयसीं फलनिष्पत्तिं विगणय्य,#}</div> Ki. ii. 35.;</div>
-<div n="lb"/><div n="1">(2) {#प्रसवः#} (of trees, of animals), {%about f. s:%}
-<div n="lb"/>{#प्रसवं प्रति,#} M. ix. 55.</div>
+{@FRUIT:@}¦ <div n="1">(1) (lit. and fig.), <div n="xe">{%raw, ripe, dry, juicy,%}
+{%insect-contaminated f.:%}</div> <div n="xs">{#आमं, पक्वं, शुष्कं, सरसं, #}
+{# कीटद्गषितं फलम्,#}</div> Bha.; <div n="xe">{%and to enjoy the sweet f. s%}
+{%of the life-tree:%}</div> <div n="xs">{#भोक्तुं, स्वादु फलञ्च जीविततरोः,#}</div> B. i.;
+{%you will get%} ({%its%}) <div n="xe">{%f. also:%}</div> <div n="xs">{#फलमपि प्राप्स्यसि,#}</div> Mr.
+ii.; <div n="xe">{%considering very important production of%}
+{%f. s:%}</div> <div n="xs">{#गरीयसीं फलनिष्पत्तिं विगणय्य,#}</div> Ki. ii. 35.;</div>
+<div n="1">(2) {#प्रसवः#} (of trees, of animals), {%about f. s:%}
+{#प्रसवं प्रति,#} M. ix. 55.</div>
 <LEND>

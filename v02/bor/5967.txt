@@ -1,8 +1,8 @@
 <L>5967<pc>192<k1>despise<k2>despise
-<div n="lb"/>{@DESPISE:@}¦ <div n="1">(1) {#अवजानाति#} ({#ज्ञा,#} c. l.), <div n="xe">{%d. ed in%}
-<div n="lb"/>{%mind:%}</div> <div n="xs">{#मनसावज्ञातवान्,#}</div> <ls>D.</ls> ; </div><div n="1">(2) {#अवमन्यते#} ({#मन्,#}
-<div n="lb"/>c. 4.), <div n="xe">{%I will not d. high Brahmins:%}</div> <div n="xs">{#नावमंस्ये #}
-<div n="lb"/>{# ब्राह्मणर्षभान्,#}</div> Mah.; </div><div n="1">(3) {#जुगुप्सते#} (=to hate:
-<div n="lb"/>q. v.); </div><div n="1">(4) {#तुच्छयति#} (nomi.): </div><div n="1">(5) {#तृणीकरोति;#}</div>
-<div n="lb"/><div n="1">(6) {#न गणयति#} ({#गण्,#} c. 10.): v. To care.</div>
+{@DESPISE:@}¦ <div n="1">(1) {#अवजानाति#} ({#ज्ञा,#} c. l.), <div n="xe">{%d. ed in%}
+{%mind:%}</div> <div n="xs">{#मनसावज्ञातवान्,#}</div> <ls>D.</ls> ; </div><div n="1">(2) {#अवमन्यते#} ({#मन्,#}
+c. 4.), <div n="xe">{%I will not d. high Brahmins:%}</div> <div n="xs">{#नावमंस्ये #}
+{# ब्राह्मणर्षभान्,#}</div> Mah.; </div><div n="1">(3) {#जुगुप्सते#} (=to hate:
+q. v.); </div><div n="1">(4) {#तुच्छयति#} (nomi.): </div><div n="1">(5) {#तृणीकरोति;#}</div>
+<div n="1">(6) {#न गणयति#} ({#गण्,#} c. 10.): v. To care.</div>
 <LEND>

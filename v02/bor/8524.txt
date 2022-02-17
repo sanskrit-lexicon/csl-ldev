@@ -1,4 +1,4 @@
 <L>8524<pc>270<k1>favourableness<k2>favourableness
-<div n="lb"/>{@FAVOURABLENESS:@}¦ <div n="1">(1) {#अनुकूलता;#} </div><div n="1">(2) {#प्रसन्नता:#} v.
-<div n="lb"/>FAVOURABLE.</div>
+{@FAVOURABLENESS:@}¦ <div n="1">(1) {#अनुकूलता;#} </div><div n="1">(2) {#प्रसन्नता:#} v.
+FAVOURABLE.</div>
 <LEND>

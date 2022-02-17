@@ -1,14 +1,14 @@
 <L>22991<pc>724<k1>turn<k2>turn
-<div n="lb"/>{@TURN@}¦ (subs.): <div n="I">I Revolution: q. v.: {#आवर्तः, #}
-<div n="lb"/>{# -नम्#} <div n="xe">{%or%}</div> <div n="xs">{#आवृत्तिः।#}</div> </div><div n="I">II Bend, curve: {#वङ्कः।#} </div><div n="I">III
-<div n="lb"/>Change, vicissitude: q. v.: {#परिवृत्तिः।#} </div><div n="I">IV
-<div n="lb"/>Alternation: {#पर्यायः,#} <div n="xe">{%by t. s, in t.:%}</div> <div n="xs">{#पर्यायेण#}</div> {%or%}
-<div n="lb"/>{#पर्याय-#} in comp., Ki. xvii. 18. </div><div n="I">V Successive
-<div n="lb"/>course: {#वारः,#} <div n="xe">{%one day a hare's t. came:%}</div> <div n="xs">{#अथ #}
-<div n="lb"/>{# कदाचिच्छशकस्य वारः समायातः,#}</div> H. </div><div n="I">VI Of mind:
-<div n="lb"/>{#गतिः:#} v. Also inclination. </div><div n="I">VII Of ex-
-<div n="lb"/>-pression: {#भङ्गिः(ङ्गी):#} v. Also form. </div><div n="I">VIII
-<div n="lb"/>Of requital: <div n="xe">{%good t.:%}</div> <div n="xs">{#उपकारः;#}</div> <div n="xe">{%ill t.:%}</div> <div n="xs">{#अपकारः।#}</div></div>
-<div n="lb"/><div n="I">IX A short walk: {#परिक्रमः।#} </div><div n="I">X Course: q. v.:
-<div n="lb"/>{#गतिः।#} </div><div n="I">XI Occasion, opportunity: {#अवसरः।#}</div>
+{@TURN@}¦ (subs.): <div n="I">I Revolution: q. v.: {#आवर्तः, #}
+{# -नम्#} <div n="xe">{%or%}</div> <div n="xs">{#आवृत्तिः।#}</div> </div><div n="I">II Bend, curve: {#वङ्कः।#} </div><div n="I">III
+Change, vicissitude: q. v.: {#परिवृत्तिः।#} </div><div n="I">IV
+Alternation: {#पर्यायः,#} <div n="xe">{%by t. s, in t.:%}</div> <div n="xs">{#पर्यायेण#}</div> {%or%}
+{#पर्याय-#} in comp., Ki. xvii. 18. </div><div n="I">V Successive
+course: {#वारः,#} <div n="xe">{%one day a hare's t. came:%}</div> <div n="xs">{#अथ #}
+{# कदाचिच्छशकस्य वारः समायातः,#}</div> H. </div><div n="I">VI Of mind:
+{#गतिः:#} v. Also inclination. </div><div n="I">VII Of ex-
+-pression: {#भङ्गिः(ङ्गी):#} v. Also form. </div><div n="I">VIII
+Of requital: <div n="xe">{%good t.:%}</div> <div n="xs">{#उपकारः;#}</div> <div n="xe">{%ill t.:%}</div> <div n="xs">{#अपकारः।#}</div></div>
+<div n="I">IX A short walk: {#परिक्रमः।#} </div><div n="I">X Course: q. v.:
+{#गतिः।#} </div><div n="I">XI Occasion, opportunity: {#अवसरः।#}</div>
 <LEND>

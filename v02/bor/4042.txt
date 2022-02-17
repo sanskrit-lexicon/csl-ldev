@@ -1,5 +1,5 @@
 <L>4042<pc>131<k1>coloured<k2>coloured
-<div n="lb"/>{@COLOURED@}¦ (adj.): Ph.: <div n="xe">{%red -c.%}</div> <div n="xs">{#रक्तवर्णः#}</div> ({#र्णा, र्णं#});
-<div n="lb"/><div n="xe">{%many -c.%}</div> <div n="xs">{#नानावर्णः#}</div> ({#र्णा, र्णं#}) <div n="xe">{%c. people.%}</div> <div n="xs">{#आफ्रिकादि-#}
-<div n="lb"/>{#देशीयकृष्णवर्णलोकाः।#}</div>
+{@COLOURED@}¦ (adj.): Ph.: <div n="xe">{%red -c.%}</div> <div n="xs">{#रक्तवर्णः#}</div> ({#र्णा, र्णं#});
+<div n="xe">{%many -c.%}</div> <div n="xs">{#नानावर्णः#}</div> ({#र्णा, र्णं#}) <div n="xe">{%c. people.%}</div> <div n="xs">{#आफ्रिकादि-#}
+{#देशीयकृष्णवर्णलोकाः।#}</div>
 <LEND>

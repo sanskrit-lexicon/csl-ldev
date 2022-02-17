@@ -1,7 +1,7 @@
 <L>1445<pc>051<k1>awake<k2>awake
-<div n="lb"/>{@AWAKE@}¦ (v. t.): <div n="I">I From sleep: </div><div n="1">(1) {#बोधयति, #}
-<div n="lb"/>{# प्र-, वि-, प्रति-, विप्र-,#} (c. of {#बुध्#}); </div><div n="1">(2) {#जागरयति#}
-<div n="lb"/>(c. of {#जागृ#}); </div><div n="1">(3) {#निद्रां भनक्ति#} ({#भन्ज्,#} c. 7)
-<div n="lb"/>(with gen.). </div><div n="I">II From inattention, {%or%} inac-
-<div n="lb"/>-tion: v. To arouse, rouse.</div>
+{@AWAKE@}¦ (v. t.): <div n="I">I From sleep: </div><div n="1">(1) {#बोधयति, #}
+{# प्र-, वि-, प्रति-, विप्र-,#} (c. of {#बुध्#}); </div><div n="1">(2) {#जागरयति#}
+(c. of {#जागृ#}); </div><div n="1">(3) {#निद्रां भनक्ति#} ({#भन्ज्,#} c. 7)
+(with gen.). </div><div n="I">II From inattention, {%or%} inac-
+-tion: v. To arouse, rouse.</div>
 <LEND>

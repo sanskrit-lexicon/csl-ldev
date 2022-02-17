@@ -1,8 +1,8 @@
 <L>15963<pc>491<k1>ordeal<k2>ordeal
-<div n="lb"/>{@ORDEAL:@}¦ <div n="I">I Lit.: {%here the o. s for clearing%} ({%one-%}
-<div n="lb"/>{%self%}) <div n="xe">{%are by balance, by fire, by water, by poison,%}
-<div n="lb"/>{%by drinking divine water:%}</div> <div n="xs">{#तुलाग्नवापो विषं कोषो #}
-<div n="lb"/>{# दिव्यानीह विशुद्धये,#}</div> Y. ii. 97.; {%to accept an o.:%}
-<div n="lb"/>{#दिव्यं करोति,#} V. s. </div><div n="I">II Fig., severe trial:
-<div n="lb"/>expr. with {#व्यसनम्#} <div n="xe">{%or%}</div> <div n="xs">{#विपद्#}</div> (= calamity: q. v.).</div>
+{@ORDEAL:@}¦ <div n="I">I Lit.: {%here the o. s for clearing%} ({%one-%}
+{%self%}) <div n="xe">{%are by balance, by fire, by water, by poison,%}
+{%by drinking divine water:%}</div> <div n="xs">{#तुलाग्नवापो विषं कोषो #}
+{# दिव्यानीह विशुद्धये,#}</div> Y. ii. 97.; {%to accept an o.:%}
+{#दिव्यं करोति,#} V. s. </div><div n="I">II Fig., severe trial:
+expr. with {#व्यसनम्#} <div n="xe">{%or%}</div> <div n="xs">{#विपद्#}</div> (= calamity: q. v.).</div>
 <LEND>

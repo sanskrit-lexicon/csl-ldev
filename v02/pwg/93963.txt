@@ -1,11 +1,11 @@
 <L>93963<pc>6-1260<k1>विष्टर<k2>विष्टर
 {#विष्टर#}¦ (von {#स्तर्#} mit {#वि#}) 
 <ls>VS. PRĀT. 5, 41.</ls> 
-<div n="1"> 1) <lex>m.</lex> {%Büschel von Schilf und dgl. zum Sitzen%} (=  {#कुशपूलक, दर्भासन#} nach den Comm.), = {#दर्भमुष्टि, कुशमुष्टि, बर्हिर्मुष्टि#} 
+<div n="1"> 1) <lex>m.</lex> {%Büschel von Schilf und dgl. zum Sitzen%} (= {#कुशपूलक, दर्भासन#} nach den Comm.), = {#दर्भमुष्टि, कुशमुष्टि, बर्हिर्मुष्टि#} 
 <ls>AK. 3, 4, 25, 171.</ls> 
 <ls>H. 835.</ls> 
 <ls>an. 3, 601. fg.</ls> 
-<ls>MED. r. 216. -</ls> <ls>ĀŚV. GṚHY. 1, 24, 7. 8.</ls> <ls>GOBH. 4, 10, 3. 4.</ls> <ls>LĀṬY. 1, 2, 2.</ls> <ls>PĀR. GṚHY. 1, 3.</ls> {#आसने विष्टरोत्तरे#} 
+<ls>MED. r. 216.</ls> - <ls>ĀŚV. GṚHY. 1, 24, 7. 8.</ls> <ls>GOBH. 4, 10, 3. 4.</ls> <ls>LĀṬY. 1, 2, 2.</ls> <ls>PĀR. GṚHY. 1, 3.</ls> {#आसने विष्टरोत्तरे#} 
 <ls>MBH. 3, 1881.</ls> 
 <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%Sitz%} überh. 
 <ls>P. 8, 3, 93.</ls> 
@@ -20,13 +20,13 @@
 <ls>MBH. 13, 4339.</ls> {#काञ्चन#} 
 <ls>1, 2218.</ls> <ls>R. 4, 50, 37.</ls> <ls>MBH. 5, 3874.</ls> {#वरं तु विष्टरं कौश्यं कृष्णाजिनकुशोत्तरम् । प्रतिपेदे#} 
 <ls>15, 739. fg.</ls> <ls>HARIV. 4448.</ls> <ls>RAGH. 8, 18. 15, 79.</ls> {#°भाज्#} 
-<ls>?5, 3. KUMĀRAS. 7, 72. VIKR. 86, 15 (m.).</ls> {#सूत्राम°#} 
+<ls>5, 3.</ls> <ls>KUMĀRAS. 7, 72.</ls> <ls>VIKR. 86, 15 (m.).</ls> {#सूत्राम°#} 
 <ls>RĀJA-TAR. 1, 100. 4, 110.</ls> {#गजस्कन्धनिबद्ध#} 
 <ls>263. 555. 719.</ls> {#उत्तमश्लोकपदाब्ज°#} 
 <ls>BHĀG. P. 6, 16, 32.</ls> 
 <ls>PAÑCAR. 3, 6, 2.</ls> {#हृदयाम्भोज°#} <lex>adj.</lex> 
 <ls>BHĀG. P. 3, 28, 16.</ls> {#पुष्कर°#} Bein. <is>Brahman's</is> 
-<ls>?19, 31. Als neutr. HARIV. 14544. 15711. ŚATR. 14, 51.</ls> 
+<ls n="BHĀG. P. 3,">19, 31.</ls> Als neutr. <ls>HARIV. 14544.</ls> <ls n="HARIV.">15711.</ls> <ls>ŚATR. 14, 51.</ls> 
 <div n="1">— 3) <lex>m.</lex> {%Baum%} 
 <ls>P. 8, 3, 93.</ls> 
 <ls>AK.</ls> 

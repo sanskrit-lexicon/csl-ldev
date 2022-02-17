@@ -1,4 +1,4 @@
 <L>7772<pc>246<k1>equilateral<k2>equilateral
-<div n="lb"/>{@EQUILATERAL:@}¦ {#समभुजः#} ({#जा, जं#}). {%E. triangle:%}
-<div n="lb"/>{#समत्रिभुजः;#} <div n="xe">{%e. pentagon:%}</div> <div n="xs">{#समपञ्चभुजः;#}</div> and so on.
+{@EQUILATERAL:@}¦ {#समभुजः#} ({#जा, जं#}). {%E. triangle:%}
+{#समत्रिभुजः;#} <div n="xe">{%e. pentagon:%}</div> <div n="xs">{#समपञ्चभुजः;#}</div> and so on.
 <LEND>

@@ -1,5 +1,5 @@
 <L>21321<pc>671<k1>stagnation<k2>stagnation
-<div n="lb"/>{@STAGNATION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#स्थैर्यम्, स्थिरता, स्थिर-#}
-<div n="lb"/>{#त्वम्;#} </div><div n="1">(2) {#निश्चलता।#} </div><div n="I">II Fig.: </div><div n="1">(1) {#मान्द्यम्;#}</div>
-<div n="lb"/><div n="1">(2) {#श्लथता;#} </div><div n="1">(3) {#शिथिलता।#}</div>
+{@STAGNATION:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#स्थैर्यम्, स्थिरता, स्थिर-#}
+{#त्वम्;#} </div><div n="1">(2) {#निश्चलता।#} </div><div n="I">II Fig.: </div><div n="1">(1) {#मान्द्यम्;#}</div>
+<div n="1">(2) {#श्लथता;#} </div><div n="1">(3) {#शिथिलता।#}</div>
 <LEND>

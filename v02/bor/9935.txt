@@ -1,9 +1,9 @@
 <L>9935<pc>314<k1>glass<k2>glass
-<div n="lb"/>{@GLASS@}¦ (subs.): <div n="I">I The material: </div><div n="1">(1) {#काचः;#}</div>
-<div n="lb"/><div n="1">(2) {#स्फटिकः#} (= crystal). </div><div n="I">II A mirror: q.v.:
-<div n="lb"/>{#दर्पणः।#} </div><div n="I">III A g. instrument: perh. {#काचयन्त्रम्ः#}
-<div n="lb"/>v. Telescope, microscope, etc. </div><div n="I">IV A drink-
-<div n="lb"/>-ing. g.: {#चषक#} (mn.) (= cup); <div n="xe">{%wine-g.:%}</div> <div n="xs">{#*काच-#}
-<div n="lb"/>{#निर्मितं भद्यपानपात्रम्।#}</div> V. Glassware: {#*काचपात्राणि#}
-<div n="lb"/>(n. pl.).</div>
+{@GLASS@}¦ (subs.): <div n="I">I The material: </div><div n="1">(1) {#काचः;#}</div>
+<div n="1">(2) {#स्फटिकः#} (= crystal). </div><div n="I">II A mirror: q.v.:
+{#दर्पणः।#} </div><div n="I">III A g. instrument: perh. {#काचयन्त्रम्ः#}
+v. Telescope, microscope, etc. </div><div n="I">IV A drink-
+-ing. g.: {#चषक#} (mn.) (= cup); <div n="xe">{%wine-g.:%}</div> <div n="xs">{#*काच-#}
+{#निर्मितं भद्यपानपात्रम्।#}</div> V. Glassware: {#*काचपात्राणि#}
+(n. pl.).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>590<pc>022<k1>allodial<k2>allodial
-<div n="lb"/>{@ALLODIAL:@}¦ Ph. <div n="xe">{%a. land%}</div> <div n="xs">{#निष्करभूमिः#}</div> (?). <div n="xe">{%a. land%}
-<div n="lb"/>{%belonging to a Brahmin%}</div> <div n="xs">{#ब्रह्मोत्तरः#}</div> (?).
+{@ALLODIAL:@}¦ Ph. <div n="xe">{%a. land%}</div> <div n="xs">{#निष्करभूमिः#}</div> (?). <div n="xe">{%a. land%}
+{%belonging to a Brahmin%}</div> <div n="xs">{#ब्रह्मोत्तरः#}</div> (?).
 <LEND>

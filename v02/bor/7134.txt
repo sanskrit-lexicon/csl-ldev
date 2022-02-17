@@ -1,5 +1,5 @@
 <L>7134<pc>226<k1>eagerness<k2>eagerness
-<div n="lb"/>{@EAGERNESS:@}¦ <div n="I">I Eager desire: </div><div n="1">(1) {#लालसा;#} </div><div n="1">(2)
-<div n="lb"/>{#तृष्णा#} (= thirst). </div><div n="I">II Impetuosity: {#व्यग्रता।#}</div>
-<div n="lb"/><div n="I">III Zeal: {#उत्साहः।#}</div>
+{@EAGERNESS:@}¦ <div n="I">I Eager desire: </div><div n="1">(1) {#लालसा;#} </div><div n="1">(2)
+{#तृष्णा#} (= thirst). </div><div n="I">II Impetuosity: {#व्यग्रता।#}</div>
+<div n="I">III Zeal: {#उत्साहः।#}</div>
 <LEND>

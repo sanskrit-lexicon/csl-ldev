@@ -1,8 +1,8 @@
 <L>7413<pc>234<k1>embark<k2>embark
-<div n="lb"/>{@EMBARK@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#नौकायाम् आरोपयति#}
-<div n="lb"/>(c. of {#रुह्#}) <div n="xe">{%or%}</div> <div n="xs">{#निदधाति#}</div> ({#धा,#} c. 3.) (= put on
-<div n="lb"/>board), <div n="xe">{%e. ing them all:%}</div> <div n="xs">{#अस्यां निधाय सर्वास्तान्,#}</div>
-<div n="lb"/>Mat.; </div><div n="1">(2) {#नौकया प्रस्थापयति#} (c. of {#स्था#}) (= to
-<div n="lb"/>send by boat). </div><div n="I">II To engage: {#व्यापारयति#}
-<div n="lb"/>(c. of {#पृ#}).</div>
+{@EMBARK@}¦ (v. t.): <div n="I">I Lit.: </div><div n="1">(1) {#नौकायाम् आरोपयति#}
+(c. of {#रुह्#}) <div n="xe">{%or%}</div> <div n="xs">{#निदधाति#}</div> ({#धा,#} c. 3.) (= put on
+board), <div n="xe">{%e. ing them all:%}</div> <div n="xs">{#अस्यां निधाय सर्वास्तान्,#}</div>
+Mat.; </div><div n="1">(2) {#नौकया प्रस्थापयति#} (c. of {#स्था#}) (= to
+send by boat). </div><div n="I">II To engage: {#व्यापारयति#}
+(c. of {#पृ#}).</div>
 <LEND>

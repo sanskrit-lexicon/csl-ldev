@@ -1,16 +1,16 @@
 <L>6461<pc>076-3<k1>क्रीडा<k2>क्रीडा
 {#क्रीडा#}¦krīḍ-ā́, {%f.%} play, sport, jest, dalliance: 
-<>{@-kapi-tva,@} {%n.%} jesting imitation of a monkey; 
-<>{@-kānana,@} {%n.%} pleasure-grove; {@-kāsāra,@} {%m.%} pleasure-pond; <lbinfo n="4"/>
-<> {@-kopa,@} {%n.%} simulated anger; {@-kau-@}
-<>{@-tuka,@} {%n.%} wanton curiosity; {@-kauśala@}, {%n.%} art of 
-<>jesting; {@-gṛha@}, {%m. n.%} pleasure-house; {@-par-@}
-<>{@-vata,@} {%m.%} ({%artificial%}) pleasure-hill: {@-ka,@} {%m.%} 
-<>{%id.%}; {@-mayūra,@} {%m.%} pet peacock; {@-markaṭa-@}
-<>{@-pota@}, {%m.%} pet young monkey; {@-mahīdhra,@} {%m.%} 
-<>pleasure-hill; {@-rasa,@} {%m.%} enjoyment of sport 
-<>{%or%} fun: {@-maya,@} {%a.%} consisting in the water of 
-<>play; {@-veśman@}, {%n.%} pleasure-house; {@-śakun-@}
-<>{@-ta@}, {%m.%} pet bird; {@-śaila@}, {%m.%} pleasure-hill; 
-<>{@-saras,@} {%n.%} pleasure-lake.
+{@-kapi-tva,@} {%n.%} jesting imitation of a monkey; 
+{@-kānana,@} {%n.%} pleasure-grove; {@-kāsāra,@} {%m.%} pleasure-pond; <lbinfo n="4"/>
+ {@-kopa,@} {%n.%} simulated anger; {@-kau-@}
+{@-tuka,@} {%n.%} wanton curiosity; {@-kauśala@}, {%n.%} art of 
+jesting; {@-gṛha@}, {%m. n.%} pleasure-house; {@-par-@}
+{@-vata,@} {%m.%} ({%artificial%}) pleasure-hill: {@-ka,@} {%m.%} 
+{%id.%}; {@-mayūra,@} {%m.%} pet peacock; {@-markaṭa-@}
+{@-pota@}, {%m.%} pet young monkey; {@-mahīdhra,@} {%m.%} 
+pleasure-hill; {@-rasa,@} {%m.%} enjoyment of sport 
+{%or%} fun: {@-maya,@} {%a.%} consisting in the water of 
+play; {@-veśman@}, {%n.%} pleasure-house; {@-śakun-@}
+{@-ta@}, {%m.%} pet bird; {@-śaila@}, {%m.%} pleasure-hill; 
+{@-saras,@} {%n.%} pleasure-lake.
 <LEND>

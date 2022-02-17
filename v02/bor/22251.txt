@@ -1,7 +1,7 @@
 <L>22251<pc>701<k1>tax<k2>tax
-<div n="lb"/>{@TAX@}¦ (v.): <div n="I">I Lit.: {#करं न्यस्यति#} ({#अस्,#} c. 4.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#निदधाति#}</div> ({#धा,#} c. 3.) (with loc.). </div><div n="I">II Fig.,
-<div n="lb"/>as to t. one's energies: {#आयासयति#} (nomi.).</div>
-<div n="lb"/><div n="I">III To censure: q. v.: {#अनुशास्ति#} ({#शास्,#}
-<div n="lb"/>c. 2.).</div>
+{@TAX@}¦ (v.): <div n="I">I Lit.: {#करं न्यस्यति#} ({#अस्,#} c. 4.)
+<div n="xe">{%or%}</div> <div n="xs">{#निदधाति#}</div> ({#धा,#} c. 3.) (with loc.). </div><div n="I">II Fig.,
+as to t. one's energies: {#आयासयति#} (nomi.).</div>
+<div n="I">III To censure: q. v.: {#अनुशास्ति#} ({#शास्,#}
+c. 2.).</div>
 <LEND>

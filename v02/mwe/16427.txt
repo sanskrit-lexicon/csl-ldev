@@ -1,5 +1,5 @@
 <L>16427<pc>406-b<k1>interrogative<k2>interrogative
-<div n="lb"/>INTERROGATIVE¦, {%s.%} (Word used in asking questions) {#प्रश्नार्थकसर्व्व-#}
-<div n="lb"/>{#नाम#} {%n.%} ({#न्#}). Interrogative words are such as {#किं, किन्नु,#}
-<div n="lb"/>{#किंस्विद्#}.
+INTERROGATIVE¦, {%s.%} (Word used in asking questions) {#प्रश्नार्थकसर्व्व-#}
+{#नाम#} {%n.%} ({#न्#}). Interrogative words are such as {#किं, किन्नु,#}
+{#किंस्विद्#}.
 <LEND>

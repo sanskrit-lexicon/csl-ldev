@@ -1,7 +1,7 @@
 <L>3892<pc>083-b<k1>cattle<k2>cattle
-<div n="lb"/>CATTLE¦, {%s.%} {#गावः#} {%m. pl.,%} {#गोधनं, गोकुलं;#} ‘cattle for draught,’
-<div n="lb"/>{#धुरीणः, धुर्य्यः;#} ‘fit for any draught,’ {#सर्व्वधुरीणः, सर्व्वधुरावहः;#}
-<div n="lb"/>‘rich in cattle,’ {#गोमान् -मती -मत् (त्), गोमी -मिनी -मि (न्);#}
-<div n="lb"/>‘capture of cattle,’ {#गोग्रहः;#} ‘cattle-keeper,’ {#गोपालः, पशुपालः;#}
-<div n="lb"/>‘the keeping of cattle,’ {#पाशुपाल्यं#}.
+CATTLE¦, {%s.%} {#गावः#} {%m. pl.,%} {#गोधनं, गोकुलं;#} ‘cattle for draught,’
+{#धुरीणः, धुर्य्यः;#} ‘fit for any draught,’ {#सर्व्वधुरीणः, सर्व्वधुरावहः;#}
+‘rich in cattle,’ {#गोमान् -मती -मत् (त्), गोमी -मिनी -मि (न्);#}
+‘capture of cattle,’ {#गोग्रहः;#} ‘cattle-keeper,’ {#गोपालः, पशुपालः;#}
+‘the keeping of cattle,’ {#पाशुपाल्यं#}.
 <LEND>

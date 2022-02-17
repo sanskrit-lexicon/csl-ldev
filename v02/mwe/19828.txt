@@ -1,8 +1,8 @@
 <L>19828<pc>515-b<k1>morrow<k2>morrow
-<div n="lb"/>MORROW¦, {%s.%} (The day next after the present) {#परदिवसः, परदिनं,#}
-<div n="lb"/>{#श्वस्तनदिवसः, आगामिदिवसः, कल्यं;#} ‘to-morrow, on the morrow,’
-<div n="lb"/>{#श्वस्, परेद्युस्, परदिने, परदिवसे, परेद्यवि, कल्लि, कल्ये, अन्येद्युस्#}. — 
-<div n="lb"/>(The next day subsequent to any day) {#उत्तरदिवसः, उत्तरदिनं,#}
-<div n="lb"/>{#उत्तरेद्युस्;#} ‘the day after to-morrow,’ {#परश्वस;#} ‘to-morrow
-<div n="lb"/>morning,’ {#श्वः प्रभाते#}.
+MORROW¦, {%s.%} (The day next after the present) {#परदिवसः, परदिनं,#}
+{#श्वस्तनदिवसः, आगामिदिवसः, कल्यं;#} ‘to-morrow, on the morrow,’
+{#श्वस्, परेद्युस्, परदिने, परदिवसे, परेद्यवि, कल्लि, कल्ये, अन्येद्युस्#}. — 
+(The next day subsequent to any day) {#उत्तरदिवसः, उत्तरदिनं,#}
+{#उत्तरेद्युस्;#} ‘the day after to-morrow,’ {#परश्वस;#} ‘to-morrow
+morning,’ {#श्वः प्रभाते#}.
 <LEND>

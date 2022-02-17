@@ -1,5 +1,5 @@
 <L>53364<pc>5-0134<k1>ब्रह्मदत्त<k2>ब्रह्मदत्त
-{#ब्रह्मदत्त#}¦ {#(ब्रह्मन् + दत्त)#} 
+{#ब्रह्मदत्त#}¦ ({#ब्रह्मन् + दत्त#}) 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%von%} <is>Brahman</is> {%gegeben%}: {#इषवः#} 
 <ls>R. 3, 18, 38.</ls> {#°वरः स्कन्दः#} 
@@ -12,12 +12,12 @@
 <ls>ŚAT. BR. 14, 4, 1, 26.</ls> eines Fürsten 
 <ls>MBH. 2, 331.</ls> pl. {%seine Nachkommen%} 
 <ls>334.</ls> N. pr. eines Fürsten der <is>Pañkāla</is> in <is>Kāmpilya</is> 
-<ls>R. 1, 34, 45. fg. (35, 44 GORR.).</ls> <ls>MBH. 12, 5136 fgg. 8603.</ls> <ls>HARIV. 981. 1039. fgg. 1252. fgg.</ls> <ls>VP. 452.</ls> <ls>BHĀG. P. 9, 21, 25.</ls> <ls>P. 2, 3, 9</ls>, <ls>Sch.</ls> der <is>Śālva</is> 
+<ls>R. 1, 34, 45. fg. (35, 44 GORR.).</ls> <ls>MBH. 12, 5136. fgg.</ls> <ls n="MBH. 12,">8603.</ls> <ls>HARIV. 981.</ls> <ls n="HARIV.">1039. fgg.</ls> <ls n="HARIV.">1252. fgg.</ls> <ls>VP. 452.</ls> <ls>BHĀG. P. 9, 21, 25.</ls> <ls>P. 2, 3, 9</ls>, <ls>Sch.</ls> der <is>Śālva</is> 
 <ls>HARIV. 15387. fgg.</ls> in <is>Vārāṇasī</is> 
 <ls>BURN. Intr. 140.</ls> <ls>SCHIEFNER, Lebensb. 235(5).</ls> <ls>KATHĀS. 3, 27. 19, 54.</ls> in <is>Campā</is> 
 <ls>SCHIEFNER, Lebensb. 235(5).</ls> in <is>Śrāvastī</is> ebend. 
 <ls>234 (4).</ls> in <is>Kusumapura</is> 
-<ls>HIOUEN-THSANG 1, 244. -</ls> <ls>LALIT. ed. Calc. 199, 10.</ls> N. pr. des 12ten <is>Cakravartin</is> in <is>Bhārata</is> 
+<ls>HIOUEN-THSANG 1, 244.</ls> - <ls>LALIT. ed. Calc. 199, 10.</ls> N. pr. des 12ten <is>Cakravartin</is> in <is>Bhārata</is> 
 <ls>H. 694.</ls> N. pr. eines Brahmanen 
 <ls>HARIV. 7994. fgg.</ls> 
 <ls>PAÑCAT. 264, 22.</ls> 

@@ -1,4 +1,4 @@
 <L>15513<pc>475<k1>noontide<k2>noontide
-<div n="lb"/>{@NOONTIDE:@}¦ <div n="1">(1) {#मध्याह्नवेला;#} </div><div n="1">(2) {#मध्याह्नकालः;#}
-<div n="lb"/>etc.</div>
+{@NOONTIDE:@}¦ <div n="1">(1) {#मध्याह्नवेला;#} </div><div n="1">(2) {#मध्याह्नकालः;#}
+etc.</div>
 <LEND>

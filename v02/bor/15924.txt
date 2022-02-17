@@ -1,7 +1,7 @@
 <L>15924<pc>490<k1>oppression<k2>oppression
-<div n="lb"/>{@OPPRESSION:@}¦ <div n="I">I The act or that which op-
-<div n="lb"/>-presses: </div><div n="1">(1) {#पीडनम्, उत्-, प्र-,#} {%o. of people:%}
-<div n="lb"/>{#प्रजापीडनम्;#} </div><div n="1">(2) {#उपद्रवः;#} </div><div n="1">(3) {#उपप्लवः#} (rare).</div>
-<div n="lb"/><div n="I">II Misery: q.v.: {#पीडा।#} </div><div n="I">III A sense of
-<div n="lb"/>weight: {#भारः।#}</div>
+{@OPPRESSION:@}¦ <div n="I">I The act or that which op-
+-presses: </div><div n="1">(1) {#पीडनम्, उत्-, प्र-,#} {%o. of people:%}
+{#प्रजापीडनम्;#} </div><div n="1">(2) {#उपद्रवः;#} </div><div n="1">(3) {#उपप्लवः#} (rare).</div>
+<div n="I">II Misery: q.v.: {#पीडा।#} </div><div n="I">III A sense of
+weight: {#भारः।#}</div>
 <LEND>

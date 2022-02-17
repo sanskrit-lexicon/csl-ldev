@@ -4,7 +4,7 @@
 <ls>AK. 2, 4, 2, 14.</ls> 
 <ls>H. 1133.</ls> 
 <ls>SUŚR. 1, 141, 13. 2, 479, 21.</ls> 
-<ls>MBH. 1, 7584. 2, 703. 704. 3, 11567.</ls> 
+<ls>MBH. 1, 7584.</ls> <ls n="MBH.">2, 703.</ls> <ls n="MBH. 2,">704.</ls> <ls n="MBH.">3, 11567.</ls> 
 <ls>N. 12, 3.</ls> 
 <ls>R. 2, 35, 14. 94, 8. 3, 17, 7.</ls> 
 <ls>ŚĀK. 78, 16.</ls> 
@@ -12,6 +12,6 @@
 <ls>P. 8, 4, 5.</ls> 
 <ls>DAŚ. 1, 7. 9.</ls> 
 <ls>R. 1, 5, 12</ls> ({#°वन#}). <lex>n.</lex> {%die Frucht des Baumes%}, bekannt wegen ihres Wohlgeschmacks, 
-<ls>SIDDH. K.251</ls>, {%a%}, 
-<ls>?7. SUŚR. 1, 210, 14. 74, 13. ŚAT. BR. 14, 7, 1, 41 (= BṚH. ĀR. UP. 4, 3, 36).</ls>
+<ls>SIDDH. K.251,a,</ls> 
+<ls>7.</ls> <ls>SUŚR. 1, 210, 14. 74, 13.</ls> <ls>ŚAT. BR. 14, 7, 1, 41</ls> (= <ls>BṚH. ĀR. UP. 4, 3, 36).</ls>
 <LEND>

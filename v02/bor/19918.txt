@@ -1,6 +1,6 @@
 <L>19918<pc>619<k1>scout<k2>scout
-<div n="lb"/>{@SCOUT@}¦ (v.): <div n="I">I As s. s; {#चरति, सं-#} ({#चर्,#} c. 1.),
-<div n="lb"/><div n="xe">{%let the s.s s. through every hermitage:%}</div> <div n="xs">{#प्रतिमुनि-#}
-<div n="lb"/>{#निलयं ते च चाराश्चरन्तु,#}</div> Ve. vi. 2. </div><div n="I">II To reject,
-<div n="lb"/>scorn: q. v.</div>
+{@SCOUT@}¦ (v.): <div n="I">I As s. s; {#चरति, सं-#} ({#चर्,#} c. 1.),
+<div n="xe">{%let the s.s s. through every hermitage:%}</div> <div n="xs">{#प्रतिमुनि-#}
+{#निलयं ते च चाराश्चरन्तु,#}</div> Ve. vi. 2. </div><div n="I">II To reject,
+scorn: q. v.</div>
 <LEND>

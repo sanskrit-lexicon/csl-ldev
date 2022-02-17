@@ -1,6 +1,6 @@
 <L>9150<pc>290<k1>forbear<k2>forbear
-<div n="lb"/>{@FORBEAR:@}¦ <div n="I">I To desist, abstain from: q.v.:
-<div n="lb"/>{#निवर्तते#} ({#वृत्,#} c. 1.) </div><div n="I">II To bear with: </div><div n="1">(1)
-<div n="lb"/>{#सहते#} ({#सह्,#} c. 1.); </div><div n="1">(2) {#क्षमते,#} ({#क्षम्,#} c. 1.).</div>
-<div n="lb"/><div n="I">III To refuse: q.v.</div>
+{@FORBEAR:@}¦ <div n="I">I To desist, abstain from: q.v.:
+{#निवर्तते#} ({#वृत्,#} c. 1.) </div><div n="I">II To bear with: </div><div n="1">(1)
+{#सहते#} ({#सह्,#} c. 1.); </div><div n="1">(2) {#क्षमते,#} ({#क्षम्,#} c. 1.).</div>
+<div n="I">III To refuse: q.v.</div>
 <LEND>

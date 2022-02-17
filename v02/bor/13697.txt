@@ -1,5 +1,5 @@
 <L>13697<pc>421<k1>load<k2>load
-<div n="lb"/>{@LOAD@}¦ (subs.): <div n="I">I Burden: q. v.: {#भारः।#} II. A
-<div n="lb"/>quantity carried at once: {#भारः,#} <div n="xe">{%brought a l.%}
-<div n="lb"/>{%of fuel:%}</div> <div n="xs">{#इध्मानां भारमाजह्रे,#}</div> Mah.</div>
+{@LOAD@}¦ (subs.): <div n="I">I Burden: q. v.: {#भारः।#} II. A
+quantity carried at once: {#भारः,#} <div n="xe">{%brought a l.%}
+{%of fuel:%}</div> <div n="xs">{#इध्मानां भारमाजह्रे,#}</div> Mah.</div>
 <LEND>

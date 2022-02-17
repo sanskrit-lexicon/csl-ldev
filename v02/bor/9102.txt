@@ -1,11 +1,11 @@
 <L>9102<pc>288<k1>fond<k2>fond
-<div n="lb"/>{@FOND:@}¦ <div n="I">I Foolish: q.v. </div><div n="I">II Doting: </div><div n="1">(1)
-<div n="lb"/>{#अनुरागवत्#} (f. {#ती#}), <div n="xe">{%the old husband was very f. of%}
-<div n="lb"/>{%her:%}</div> <div n="xs">{#स वृद्धपतिस्तस्यामतीवानुरागवान्,#}</div> H.; </div><div n="1">(2) expr.
-<div n="lb"/>by {#आसक्तः#} ({#क्ता, क्तं#}), {#रक्तः#} ({#क्ता, क्तं#}), etc., {%boys%}
-<div n="lb"/>{%are f. of%} (lit. attached to) <div n="xe">{%sports, young men%}
-<div n="lb"/>{%of young women:%}</div> <div n="xs">{#बालस्तावत् क्रीडासक्तस्तरुणस्तावत्तरुणी-#}
-<div n="lb"/>{#रक्तः,#}</div> J.; </div><div n="1">(3) {#वत्सलः#} ({#ला, लं#}) (as a parent).</div>
-<div n="lb"/><div n="I">III Liking: {#प्रियः#} ({#या, यं#}) in comp.s., <div n="xe">{%f. of%}
-<div n="lb"/>{%wine:%}</div> <div n="xs">{#मद्यप्रियः#}</div> ({#या, यं#}).</div>
+{@FOND:@}¦ <div n="I">I Foolish: q.v. </div><div n="I">II Doting: </div><div n="1">(1)
+{#अनुरागवत्#} (f. {#ती#}), <div n="xe">{%the old husband was very f. of%}
+{%her:%}</div> <div n="xs">{#स वृद्धपतिस्तस्यामतीवानुरागवान्,#}</div> H.; </div><div n="1">(2) expr.
+by {#आसक्तः#} ({#क्ता, क्तं#}), {#रक्तः#} ({#क्ता, क्तं#}), etc., {%boys%}
+{%are f. of%} (lit. attached to) <div n="xe">{%sports, young men%}
+{%of young women:%}</div> <div n="xs">{#बालस्तावत् क्रीडासक्तस्तरुणस्तावत्तरुणी-#}
+{#रक्तः,#}</div> J.; </div><div n="1">(3) {#वत्सलः#} ({#ला, लं#}) (as a parent).</div>
+<div n="I">III Liking: {#प्रियः#} ({#या, यं#}) in comp.s., <div n="xe">{%f. of%}
+{%wine:%}</div> <div n="xs">{#मद्यप्रियः#}</div> ({#या, यं#}).</div>
 <LEND>

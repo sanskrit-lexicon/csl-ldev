@@ -1,4 +1,4 @@
 <L>3345<pc>111<k1>centripetal<k2>centripetal
-<div n="lb"/>{@CENTRIPETAL:@}¦ Ph. <div n="xe">{%c. force%}</div> <div n="xs">{#*केन्द्राभिसारिणी शक्तिः,#}</div>
-<div n="lb"/>and sim. comp. s.
+{@CENTRIPETAL:@}¦ Ph. <div n="xe">{%c. force%}</div> <div n="xs">{#*केन्द्राभिसारिणी शक्तिः,#}</div>
+and sim. comp. s.
 <LEND>

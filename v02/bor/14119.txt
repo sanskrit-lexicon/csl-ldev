@@ -1,6 +1,6 @@
 <L>14119<pc>433<k1>manhood<k2>manhood
-<div n="lb"/>{@MANHOOD:@}¦ <div n="I">I Human nature: </div><div n="1">(1) {#भनुष्यत्वम्;#} [Page434]</div>
-<div n="lb"/><div n="1">(2) {#मानुषता।#} </div><div n="I">II Puberty: </div><div n="1">(1) {#यौवनम्#}
-<div n="lb"/>(= youth); </div><div n="1">(2) {#वयः#} (= age); </div><div n="1">(3) by {#मानुषः#} (?).</div>
-<div n="lb"/><div n="I">III Manliness: {#पौरुषम्।#}</div>
+{@MANHOOD:@}¦ <div n="I">I Human nature: </div><div n="1">(1) {#भनुष्यत्वम्;#} [Page434]</div>
+<div n="1">(2) {#मानुषता।#} </div><div n="I">II Puberty: </div><div n="1">(1) {#यौवनम्#}
+(= youth); </div><div n="1">(2) {#वयः#} (= age); </div><div n="1">(3) by {#मानुषः#} (?).</div>
+<div n="I">III Manliness: {#पौरुषम्।#}</div>
 <LEND>

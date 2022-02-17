@@ -25,7 +25,7 @@
 <ls>14, 9, 1, 18. 4, 24. 28.</ls> <ls>M. 1, 42. 2, 2. 4. 5. 2, 166.</ls> <ls>N. 13, 18. 24, 33.</ls> <ls>HIT. I, 29. 78.</ls> <ls>VID. 2.</ls> {#इह - अमुत्र#} 
 <ls>M. 3, 181. 5, 55. 9, 322. 12, 89.</ls> {#इह - परत्र#} 
 <ls>5, 166.</ls> <ls>PAÑCAT. II, 24.</ls> <ls>RAGH. 1, 69.</ls> {#इह - प्रेत्य#} 
-<ls>M. 2, 9. 26. 146. u.s.w.</ls> <ls>R. 2, 27, 6.</ls> {#इह - परलोके#} 
+<ls>M. 2, 9. 26. 146.</ls> u.s.w. <ls>R. 2, 27, 6.</ls> {#इह - परलोके#} 
 <ls>M. 5, 153.</ls> bisweilen liegt auf dem {%hienieden%} ein so geringer Nachdruck, dass man das Wort in der Uebersetzung ganz übergehen muss, 
 <ls>M. 8, 222. 228. 10, 93.</ls> 
 <ls>DAŚ. 1, 11.</ls> 
@@ -51,7 +51,7 @@
 <ls>Sch.</ls> {#जन्मनि#} 
 <ls>KATHĀS. 13, 134.</ls> {#समये#} 
 <ls>HIT. 104, 15.</ls> {#इह#} tritt mit dem loc. an den Anfang eines comp.: {#इहलोकस्थ#} 
-<ls>MBH. 14, 953. 1324.</ls> Vgl. {#ऐहलौकिक#} . Substantivisch auf einen vorher erwähnten Gegenstand hinweisend: {#दोषानप्यस्य मे ब्रूहि यदि सन्तीह#} ({%in ihm%}) {#केचन#} 
+<ls>MBH. 14, 953.</ls> <ls n="MBH. 14,">1324.</ls> Vgl. {#ऐहलौकिक#} . Substantivisch auf einen vorher erwähnten Gegenstand hinweisend: {#दोषानप्यस्य मे ब्रूहि यदि सन्तीह#} ({%in ihm%}) {#केचन#} 
 <ls>SĀV. 2, 21.</ls> {#महति त्विह#} (d. i. {#तरंगे#}) {#लहरी#} 
 <ls>H. 1075.</ls> 
 <ls>AK. 2, 9, 9.</ls> 

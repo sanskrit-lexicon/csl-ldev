@@ -1,7 +1,7 @@
 <L>24641<pc>662-a<k1>receptacle<k2>receptacle
-<div n="lb"/>RECEPTACLE¦, {%s.%} {#आधारः, पात्रं, भाजनं, आशयः, निधानं, निधिः#} {%m.,%}
-<div n="lb"/>{#आधानं, आश्रयः, अधिश्रयः, अधिकरणं, गर्भः, आस्पदं, विन्यासः, वीजं#}.
-<div n="lb"/>The word {#आशयः#} is especially used in composition thus,
-<div n="lb"/>‘the receptacle of the blood,’ {#रक्ताशयः;#} ‘of the food,’ {#अन्ना-#}
-<div n="lb"/>{#शयः, आमाशयः;#} ‘of bile,’ {#पित्ताशयः#}.
+RECEPTACLE¦, {%s.%} {#आधारः, पात्रं, भाजनं, आशयः, निधानं, निधिः#} {%m.,%}
+{#आधानं, आश्रयः, अधिश्रयः, अधिकरणं, गर्भः, आस्पदं, विन्यासः, वीजं#}.
+The word {#आशयः#} is especially used in composition thus,
+‘the receptacle of the blood,’ {#रक्ताशयः;#} ‘of the food,’ {#अन्ना-#}
+{#शयः, आमाशयः;#} ‘of bile,’ {#पित्ताशयः#}.
 <LEND>

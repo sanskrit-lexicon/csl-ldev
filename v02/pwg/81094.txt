@@ -16,7 +16,7 @@
 <ls>ṚV. 1, 98, 1.</ls> {#(उषासः) यत^माना र\श्मिभि\ः सूर्य^स्य#} 
 <ls n="ṚV. 1,">123, 12.</ls> <ls n="ṚV.">5, 4, 4.</ls> <ls n="ṚV.">10, 62, 11.</ls> {#परि^ वा\मिष^ः पुरू\चीरी\युर्गी\र्भिर्यत^मानाः#} 
 <ls n="ṚV.">3, 58, 8.</ls> <ls n="ṚV.">10, 113, 7.</ls> {#क्ष\त्रेणा^ग्ने\ स्वायु\ः सं र^भस्व मि\त्रेणा^ग्ने मित्र\धेये^ यतस्व#} 
-<ls>?(P. 5, 4, 36, <is>Vārtt</is>. 3, Sch.) VS. 27, 5. 7, 45. 10, 29.</ls> {#पि\तुर्न पु\त्रः क्रतु^भिर्यता\नः#} {%wie ein Sohn des Vaters Willen sich fügend%} 
+(<ls>P. 5, 4, 36, <is>Vārtt</is>. 3, Sch.)</ls> <ls>VS. 27, 5. 7, 45. 10, 29.</ls> {#पि\तुर्न पु\त्रः क्रतु^भिर्यता\नः#} {%wie ein Sohn des Vaters Willen sich fügend%} 
 <ls>ṚV. 9, 97, 30.</ls> 
 <div n="1">— 4) med. {%sich zu vereinigen suchen mit%} (loc.), {%zu erreichen suchen%} (einen Ort), {%zustreben, auf Etwas zuhalten%}: {#दि\वि स्व\नो य^तते#} 
 <ls>ṚV. 10, 75, 3.</ls> {#म\हः पार्थि^वे\ सद^ने यतस्व#} 
@@ -43,7 +43,7 @@
 <ls>MĀLAV. 9, 3.</ls> {#तस्य नाशाय#} 
 <ls>Spr. 95.</ls> {#परमार्थसिद्ध्यै#} 
 <ls>1901.</ls> <ls>BHAG. 7, 3.</ls> <ls>HARIV. 15636.</ls> {#जरामरणमोक्षाय#} 
-<ls>BHAG. 7,</ls> <ls>?29.MBH. 5, 5957. KATHĀS. 27, 40.</ls>
+<ls>BHAG. 7,</ls> <ls>29.MBH. 5, 5957.</ls> <ls>KATHĀS. 27, 40.</ls>
 [Page6-0025]
 {#उदयाय#} 
 <ls>RAGH. 9, 7.</ls> {#अपुनर्मृताय#} 
@@ -73,9 +73,9 @@
 <div n="3"> α) am Ende. 
 <div n="2">— f) mit infin. 
 <ls>M. 9, 6.</ls> 
-<ls>MBH. 1, 6360. 3, 2637.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 13, 14. 3, 23, 22.</ls> 
+<ls>MBH. 1, 6360.</ls> <ls n="MBH.">3, 2637.</ls> 
+
+<ls>R. GORR. 2, 13, 14. 3, 23, 22.</ls> 
 <ls>RAGH. 5, 17. 25.</ls> 
 <ls>KUMĀRAS. 2, 59.</ls> 
 <ls>KATHĀS. 5, 128. 19, 51.</ls> 
@@ -83,7 +83,7 @@
 <ls>BHĀG. P. 3, 24, 28.</ls> 
 <ls>BHAṬṬ. 15, 58.</ls> 
 <div n="2">— g) ohne Ergänzung {%sich anstrengen, alle seine Kräfte anwenden, Sorge tragen, auf seiner Hut sein, sich vorsehen%}: {#यतमाना वनं राजन्गहनं प्रतिपेदिरे#} 
-<ls>MBH. 1, 5877. 3, 8814.</ls> 
+<ls>MBH. 1, 5877.</ls> <ls n="MBH.">3, 8814.</ls> 
 <ls>R. 1, 63, 22. 3, 34, 21. 26. 44, 27.</ls> 
 <ls>SUŚR. 2, 23, 8.</ls> {#तथा नित्यं यतेयाताम् - यथा न#} 
 <ls>M. 9, 102.</ls> 
@@ -102,9 +102,9 @@
 <ls>6, 5, 5.</ls> {#यत्तो (यत्नो#} die neuere Ausg.) {#ऽभूद्रक्षां प्रति#} 
 <ls>HARIV. 9118.</ls> mit infin. 
 <ls>MBH. 3, 14944.</ls> {%zu Allem vorbereitet, der seine Maassregeln getroffen hat, auf seiner Hut seiend, sich vorsehend%}: {#शप्तो ऽसि मम पुत्रेण यत्तो भव महीपते#} 
-<ls>MBH. 1, 1976. 3, 790. 4, 1282. 1291.</ls> 
+<ls>MBH. 1, 1976.</ls> <ls n="MBH.">3, 790.</ls> <ls n="MBH.">4, 1282.</ls> <ls n="MBH. 4,">1291.</ls> 
 <ls>R. 1, 32, 6. 7. 2, 55, 18. 93, 24 (102, 26 GORR.). 97, 13 (106, 9 GORR.).</ls> <ls>BHĀG. P. 4, 10, 22. 8, 7, 2. 10, 1. 9, 2, 3.</ls> mit pass. Bed. {%besorgt —, gelenkt von%}: {#रथ#} 
-<ls>MBH. 2, 2011. 5, 1703.</ls> {#हरयः#} 
+<ls>MBH. 2, 2011.</ls> <ls n="MBH.">5, 1703.</ls> {#हरयः#} 
 <ls>3, 12111.</ls> <ls>WESTERGAARD</ls> stellt dieses {#यत्त#} zu {#यम्#}; an der ersten und dritten Stelle würde {#यत#} nicht zum Metrum passen; vgl. unter — {#अभिसम्#} . 
 <div n="3">— β) {#यतित#} mit einem infin. {%derjenige, den zu - man sich bemüht hat%} (vgl. {#शकित): असकृद्यतितो ह्येष हन्तुं व्याघ्र वने त्वया#} 
 <ls>MBH. 1, 5570.</ls> {#अपनेतुं च यतितो न चैव शकितो मया#} 
@@ -139,7 +139,7 @@
 <ls>1382.</ls> {#वैरं ते यातितं#} ({#पातितं#} ed. Bomb.) {#मया#} 
 <ls>13, 567.</ls> {#यत्राबला बलिनं यातयन्ति#} 
 <ls>4858.</ls> med. {%den Lohn für Etwas empfangen%}: {#तत्र त्वाहं हस्तिनं यातयिष्ये#} so v. a. {%dort werde ich dir den Elephanten abtreten%} 
-<ls>4856. 4858. 4860 u.s.w.</ls> {#तत्राहं ते भवने भूरितेजसो राजन्निमं हस्तिनं यातयिष्ये#} 
+<ls>4856. 4858. 4860</ls> u.s.w. {#तत्राहं ते भवने भूरितेजसो राजन्निमं हस्तिनं यातयिष्ये#} 
 <ls>4880.</ls> 
 <div n="1">— 5) {%sich bemühen lassen%} (nach 
 <ls>SĀY.</ls>) <ls>AIT. BR. 1, 14.</ls> — 
@@ -170,10 +170,10 @@
 <ls>AK. 3, 1, 16.</ls> {#अमात्ये दण्ड आयत्तो दण्डे वैनयिकी क्रिया । नृपतौ कोषराष्ट्रे च दूते संधिविपर्ययौ ॥#} 
 <ls>M. 7, 65. 205.</ls> 
 <ls>Spr. 5274.</ls> 
-<ls>MBH. 14, 2084. 2351.</ls> 
+<ls>MBH. 14, 2084.</ls> <ls n="MBH. 14,">2351.</ls> 
 <ls>HARIV. 5021.</ls> 
 <ls>R. 1, 53, 14. fg.</ls> 
-<ls>?(54, 15. fg. GORR.). 2, 45, 28. MEGH. 16. KATHĀS. 46, 180.</ls> {#तवायत्ताः प्रजाश्चेमाः#} 
+(<ls>54, 15. fg. GORR.). 2, 45, 28.</ls> <ls>MEGH. 16.</ls> <ls>KATHĀS. 46, 180.</ls> {#तवायत्ताः प्रजाश्चेमाः#} 
 <ls>R. GORR. 2, 2, 26.</ls> {#प्रावृट्कालस्य चान्नमायत्तम्#} 
 <ls>VARĀH. BṚH. S. 21, 1.</ls> 
 <ls>KATHĀS. 46, 19.</ls> 
@@ -188,7 +188,7 @@
 <ls>RĀJA-TAR. 4, 491.</ls> 
 <ls>Ind. St. 2, 305, 1.</ls> 
 <ls>PAÑCAT. 85, 17.</ls> 
-<ls>HIT. 52, 9. 130, 3. ed. JOHNS. 1086.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 197, 19.</ls> <ls>H. 918.</ls> <ls>VOP. 7, 85.</ls> {#मदेकायत्ततां गता#} 
+<ls>HIT. 52, 9. 130, 3. ed.</ls> <ls>JOHNS. 1086.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 197, 19.</ls> <ls>H. 918.</ls> <ls>VOP. 7, 85.</ls> {#मदेकायत्ततां गता#} 
 <ls>KATHĀS. 32, 171.</ls> {#ईश्वरेच्छायत्तत्व#} 
 <ls>SARVADARŚANAS. 79, 14.</ls> ohne Ergänzung 
 <ls>R. 7, 38, 9.</ls> 
@@ -222,7 +222,7 @@
 <ls>9, 2, 22.</ls> <ls>ŚĀṄKH. ŚR. 12, 9, 8. 13, 20, 9. 14, 3, 1. 5, 5.</ls>
 
 <div n="p">— {#समा#}, partic. {#°यत्त#} {%beruhend auf, abhängig von%} (loc.): {#आसां प्राणाः समायत्ता मम चात्रैकपुत्रके#} 
-<ls>MBH. 3, 10484. 7, 5458.</ls> 
+<ls>MBH. 3, 10484.</ls> <ls n="MBH.">7, 5458.</ls> 
 <ls>R. 7, 35, 30.</ls>
 
 <div n="p">— {#उप#} med. {%betreffen%}: {#इदं न्विमं स पाप्मा नोपयतते#} 
@@ -232,7 +232,7 @@
 <ls>ṚV. 1, 186, 11.</ls>
 
 <div n="p">— {#निस्#} caus. 
-<div n="1"> 1) {%fortreissen, fortschaffen, wegführen%}: {#संयुज्यमानानि निशम्य लोके निर्यात्यमानानि#} (=  {#निपीड्यमानानि#} 
+<div n="1"> 1) {%fortreissen, fortschaffen, wegführen%}: {#संयुज्यमानानि निशम्य लोके निर्यात्यमानानि#} (= {#निपीड्यमानानि#} 
 <ls>NILAK.</ls>) {#च सात्त्विकानि#} 
 <ls>MBH. 12, 13789.</ls> {#पुत्रो निर्यातितः क्रोधात्#} (so die neuere Ausg., es ist aber wohl {#क्रोडात्#} zu lesen) 
 <ls>HARIV. 4857.</ls> {#निर्यातयत मे सेनाम्#} 
@@ -244,10 +244,10 @@
 <ls>HARIV. 4013.</ls> {#निर्यात्य महिषं तस्य#} 
 <ls>KATHĀS. 62,224.</ls> 
 <ls>SADDH. P.4,25.b.</ls> <ls>M. 11,164.</ls> {#न्यासम्#} 
-<ls>MBH. 3, 16596. 5, 3979. fg. 4021. fg.</ls> 
-<ls>HARIV. 2770. 4061. 6778.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 71, 23. 2, 117, 7. 5, 37, 8. 66, 24. 26. 89, 56. 6, 16, 69. 94, 21. 7, 30, 26. 98, 6. 8. med. 5, 76, 18. 7, 59, 10.</ls> <ls>MṚCCH. 25, 9.</ls> {#वैरम्#} {%eine Feindschaft erwiedern, Rache nehmen%}: {#रामलक्ष्मणयोर्वैरं स्वयं निर्यातयामि वै#} 
+<ls>MBH. 3, 16596.</ls> <ls n="MBH.">5, 3979. fg.</ls> <ls n="MBH. 5,">4021. fg.</ls> 
+<ls>HARIV. 2770.</ls> <ls n="HARIV.">4061.</ls> <ls n="HARIV.">6778.</ls> 
+
+<ls>R. GORR. 1, 71, 23. 2, 117, 7. 5, 37, 8. 66, 24. 26. 89, 56. 6, 16, 69. 94, 21. 7, 30, 26. 98, 6. 8.</ls> med. <ls>5, 76, 18. 7, 59, 10.</ls> <ls>MṚCCH. 25, 9.</ls> {#वैरम्#} {%eine Feindschaft erwiedern, Rache nehmen%}: {#रामलक्ष्मणयोर्वैरं स्वयं निर्यातयामि वै#} 
 <ls>R. 6, 33, 4. 3, 60, 33.</ls> 
 <ls>MBH. 2, 2660.</ls> 
 <div n="1">— 3) {%verbringen, verleben%}: {#चतुर्दश समा वीर वने निर्यातितास्त्वया#} 
@@ -270,7 +270,7 @@
 <ls>LĀṬY. 8, 8, 1.</ls> {#धर्मे#} 
 <ls>HARIV. 2870.</ls> 
 <ls>R. 1, 58, 21 (60, 24 GORR.). 2, 82, 10 (88, 10 GORR.).</ls> <ls>SUŚR. 1, 127, 14.</ls> <ls>ŚĀK. 113, 3, v. l.</ls> {#प्रयतेत्तस्य रक्षणे#} 
-<ls>MBH. 14, 1186. 3, 2726. 14417</ls> (wo mit der ed. Bomb. {#भेदे प्रयतिष्यन्ति#} zu lesen ist). 
+<ls>MBH. 14, 1186.</ls> <ls n="MBH.">3, 2726.</ls> <ls n="MBH. 3,">14417</ls> (wo mit der ed. Bomb. {#भेदे प्रयतिष्यन्ति#} zu lesen ist). 
 <ls>HARIV. 5284.</ls> {#मया - तद्व्याख्यायां प्रयत्यते#} 
 <ls>Verz. d. Oxf. H. 264,a,20.</ls> {#अतः प्रयतितं राज्ये - मया तव#} 
 <ls>MBH. 1, 5508.</ls> mit dat.: {#प्रयतेतार्थसिद्धये#} 
@@ -279,7 +279,7 @@
 <ls>3, 14944.</ls> mit {#अर्थे, अर्थम्, हेतोस्#} 
 <ls>R. 2, 39, 7. 3, 57, 31.</ls> 
 <ls>MBH. 4, 1205.</ls> 
-<ls>HARIV. 1503</ls> <ls>?(act.). PRAB. 19, 9. BHĀG. P. 1, 5, 18.</ls> mit acc.: {#धर्मार्थयोगान्प्रयतन्ति#} (so die ed. Bomb.) 
+<ls>HARIV. 1503</ls> (<ls>act.).</ls> <ls>PRAB. 19, 9.</ls> <ls>BHĀG. P. 1, 5, 18.</ls> mit acc.: {#धर्मार्थयोगान्प्रयतन्ति#} (so die ed. Bomb.) 
 <ls>MBH. 5, 649.</ls> {#मखक्रियाम् । प्रयतन्ते#} 
 <ls>14, 46.</ls> {#तस्मात्तत् (युद्धं) प्रयताम्यहम्#} 
 <ls>HARIV. 8022.</ls> mit infin.: {#विजेतुं प्रयतेतारीन्#} 
@@ -307,7 +307,7 @@
 <ls>ŚAT. BR. 9, 2, 3, 3.</ls> {#आश्रमपीडा यथा न भविष्यति तथा प्रतियतिष्यामहे#} 
 (v. l. für {#प्रयति°#}) 
 <ls>ŚĀK. 18, 14.</ls> — caus. {%zurückgeben, erwiedern%}: {#वैराणि, वैरम्#} so v. a. {%Rache nehmen%} 
-<ls>MBH. 3, 14728. 9, 3256.</ls> 
+<ls>MBH. 3, 14728.</ls> <ls n="MBH.">9, 3256.</ls> 
 <div n="v">— Vgl. {#प्रतियातन#} .
 
 <div n="p">— {#वि#} med. etwa {%in verschiedene Reihen bringen%} 

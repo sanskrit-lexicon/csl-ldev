@@ -5,8 +5,8 @@
 <ls>TRIK. 1, 1, 37.</ls> 
 <ls>H. 228.</ls> 
 <ls>HALĀY. 1, 32.</ls> 
-<ls>MBH. 1, 2786. 10, 636. 12, 12902. 12905. 13, 617.</ls> 
-<ls>HARIV. 6697. 8622. fgg. 9181. 9208. fgg.</ls> 
+<ls>MBH. 1, 2786.</ls> <ls n="MBH.">10, 636.</ls> <ls n="MBH.">12, 12902.</ls> <ls n="MBH. 12,">12905.</ls> <ls n="MBH.">13, 617.</ls> 
+<ls>HARIV. 6697.</ls> <ls n="HARIV.">8622. fgg.</ls> <ls n="HARIV.">9181.</ls> <ls n="HARIV.">9208. fgg.</ls> 
 <ls>MADHUS.</ls> in <ls>Ind. St. 1, 23, 6.</ls> {#चापभृत्#} 
 <ls>VARĀH. BṚH. S. 58, 40,</ls> 
 <ls>VP. 574. fgg.</ls> 

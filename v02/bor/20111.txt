@@ -1,4 +1,4 @@
 <L>20111<pc>626<k1>seldom<k2>seldom
-<div n="lb"/>{@SELDOM:@}¦ <div n="1">(1) {#क्वचित्;#} </div><div n="1">(2) {#कदाचित्;#} </div><div n="1">(3) {#कर्हिचित्#}
-<div n="lb"/>(rare).</div>
+{@SELDOM:@}¦ <div n="1">(1) {#क्वचित्;#} </div><div n="1">(2) {#कदाचित्;#} </div><div n="1">(3) {#कर्हिचित्#}
+(rare).</div>
 <LEND>

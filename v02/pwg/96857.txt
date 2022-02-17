@@ -11,8 +11,8 @@
 <ls>SUŚR. 2, 2, 1.</ls> {#वृणोति यस्माद्रूढे ऽपि व्रणवस्तु न नश्यति । आ देहधारणात्तस्माद्ब्रण इत्युच्यते#} 
 <ls>1, 83, 8. 88, 18.</ls> <ls>M. 8, 287.</ls> {#प्रतोदेन व्रणा ये मे त्वया कृताः#} 
 <ls>MBH. 13, 2815.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 49, 25.</ls> {#वज्राशनिकृत°#} 
+
+<ls>R. GORR. 2, 49, 25.</ls> {#वज्राशनिकृत°#} 
 <ls>3, 36, 8.</ls> <ls>RĀJA-TAR. 4, 653.</ls> {#मक्षिका व्रणमिच्छन्ति#} 
 <ls>Spr. 4680.</ls> 
 <ls>VARĀH. BṚH. S. 52, 10.</ls> {#व्रणाङ्कितशिरस्#} 
@@ -42,12 +42,12 @@
 <ls>83, 10.</ls> {#°वस्तु#} {%Sitz —, Ort einer Wunde%} 
 <ls>8. 11.</ls> {#°वेदना#} 
 <ls>85, 7.</ls> <ls>RAGH. 12, 99.</ls> {#°धूपन#} 
-<ls>SUŚR. 1, 133,</ls> <ls>?12; vgl.</ls> {#°धूम#} 
+<ls>SUŚR. 1, 133,</ls> <ls>12</ls>; vgl. {#°धूम#} 
 <ls>2, 235, 16.</ls> {#°शोषिन्#} {%an Wunden —, an Geschwüren abzehrend%} 
 <ls>2, 6, 14.</ls> {#°शोथ#} 
 <ls>Verz. d. Oxf. H. 314,a,2.</ls> {#दुष्ट°#} 
 <ls>SUŚR. 2, 26, 2. 399, 10.</ls> 
-<ls>Spr. (II) 1072. 3590.</ls> {#शारीर°#} 
+<ls>Spr. (II) 1072.</ls> <ls n="Spr. (II)">3590.</ls> {#शारीर°#} 
 <ls>Verz. d. Oxf. H. 314,a,5.</ls> {#सद्यो°#} 
 <ls>6. 7. 308,b,25.</ls> {#भग्न°#} 
 <ls>314,a,9. 10.</ls> {#नाडी°#} 
@@ -55,14 +55,14 @@
 <ls>Spr. (II) 3567</ls> (n.). {#कुलिश°#} 
 <ls>RAGH. 3, 68.</ls> 
 <div n="1">— 2) {%Scharte, Riss, Verletzung, Fehler%}: an einem Schwerte 
-<ls>VARĀH. BṚH. S. 50, 1. 3. 10.</ls> <ls>?an Edelsteinen 82, 11.</ls> an einem goldenen {#पट्ट#} 
+<ls>VARĀH. BṚH. S. 50, 1. 3. 10.</ls> <ls>an Edelsteinen 82, 11.</ls> an einem goldenen {#पट्ट#} 
 <ls>49, 7.</ls> {#°द्वाराणि#} 
 <ls>MBH. 12, 11311.</ls> {#स°#} 
 <ls>HARIV. 12245.</ls> 
 <div n="v">— Vgl. {#अ°#} (auch 
 <ls>BHĀG. P. 8, 5, 27.</ls> {#दण्ड#} 
 <ls>Verz. d. Oxf. H. 269,b,8.</ls> {#गाण्डीव#} 
-<ls>MBH. 1, 8181. 4, 1310.</ls> {#असि#} 
+<ls>MBH. 1, 8181.</ls> <ls n="MBH.">4, 1310.</ls> {#असि#} 
 <ls>231.</ls> {#लिङ्ग#} 
 <ls>12, 11310.</ls> {#व्रत#} 
 <ls>BHĀG. P. 8, 3, 7</ls>), {#अकृत°, चरु°, द्विज°, निर्व्रण#} (von Baumen 

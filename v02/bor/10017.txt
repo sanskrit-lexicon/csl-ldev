@@ -1,4 +1,4 @@
 <L>10017<pc>316<k1>gnomon<k2>gnomon
-<div n="lb"/>{@GNOMON:@}¦ <div n="I">I Of a dial: </div><div n="1">(1) {#अङ्कुः;#} </div><div n="1">(2) {#कीलः;#}</div>
-<div n="lb"/><div n="1">(3) {#मयूखः।#} </div><div n="I">II In geo.: {#*स्वरूपच्छेदः; कीलः।#}</div>
+{@GNOMON:@}¦ <div n="I">I Of a dial: </div><div n="1">(1) {#अङ्कुः;#} </div><div n="1">(2) {#कीलः;#}</div>
+<div n="1">(3) {#मयूखः।#} </div><div n="I">II In geo.: {#*स्वरूपच्छेदः; कीलः।#}</div>
 <LEND>

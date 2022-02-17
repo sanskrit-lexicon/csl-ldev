@@ -2,7 +2,7 @@
 3. {#शिष्#}¦, {#शिनष्टि#} ({#विशेषणे#}) 
 <ls>DHĀTUP. 29, 14.</ls> {#शिंषति, शिंषन्ति; शिण्ढि#} 
 <ls>KĀŚ.</ls> zu <ls>P. 8, 4, 65.</ls> Schol. zu <ls>1, 1, 58.</ls> {#शेक्ष्यते#} (vgl. <is>Kār</is>. 
-<ls>?6 aus SIDDH. K. zu P. 7, 2, 10</ls>); {#शिष्ट्वा#}; partic. {#शिष्ट#} s. bes. {%übrig lassen%}: {#यज^मानायै\व तल्लो\कं शि^ंषति#} 
+<ls>6</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>); {#शिष्ट्वा#}; partic. {#शिष्ट#} s. bes. {%übrig lassen%}: {#यज^मानायै\व तल्लो\कं शि^ंषति#} 
 <ls>TBR. 3, 3, 8, 2.</ls> {#भूयिष्ठं स्रुचि शिष्ट्वा#} 
 <ls>ĀŚV. ŚR. 2, 3, 20. 16, 2.</ls> 
 <ls>KĀTY. ŚR. 5, 8, 30. 19, 7, 4.</ls> pass. {%übrig bleiben%} 
@@ -39,10 +39,10 @@
 <div n="p">— {#अव#} pass. {%übrig bleiben%} 
 <ls>TBR. 3, 7, 6, 20.</ls> 
 <ls>ŚAT. BR. 14, 8, 1, 1.</ls> {#किं कार्यमवशिष्यते#} 
-<ls>MBH. 3, 15222. 5, 2638.</ls> {#नेह भूयो ऽन्यज्ज्ञातव्यमवशिष्यते#} 
+<ls>MBH. 3, 15222.</ls> <ls n="MBH.">5, 2638.</ls> {#नेह भूयो ऽन्यज्ज्ञातव्यमवशिष्यते#} 
 <ls>BHAG. 7, 2.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 116, 23.</ls> 
+
+<ls>R. GORR. 2, 116, 23.</ls> 
 <ls>RĀJA-TAR. 2, 83. 3, 178</ls> (zu lesen {#यामिन्या यामः सार्धो ऽव°#}). 
 <ls>BHĀG. P. 2, 9, 32. 9, 5, 16.</ls> 
 <ls>SARVADARŚANAS. 118, 2.</ls> partic. {#°शिष्ट#} {%übrig geblieben, übrig; verschont%} 
@@ -90,7 +90,7 @@
 <ls>ṚV. 6, 75, 16.</ls> 
 <ls>AV. 6, 127, 1. 10, 1, 17.</ls> 
 <ls>KĀTH. 25, 8.</ls> {#न पशुभ्यो जीवनमुच्छिंषेत्#} 
-<ls>?31, 1. TBR. 1, 2, 6, 4. pass.</ls> : {#मैषा\मुच्छे^षि\ किं च\न#} 
+<ls>31, 1.</ls> <ls>TBR. 1, 2, 6, 4. pass.</ls> : {#मैषा\मुच्छे^षि\ किं च\न#} 
 <ls>AV. 11, 9, 13.</ls> 
 <ls>ŚAT. BR. 13, 1, 1, 1.</ls> 
 <ls>PAÑCAV. BR. 8, 1, 4.</ls> 
@@ -102,19 +102,19 @@
 <ls>M. 4, 151. 10, 125.</ls> {#शूद्रोच्छिष्टा आपः#} 
 <ls>11, 148. 152.</ls> <ls>R. GORR. 2, 33, 22.</ls> {#अर्धोच्छिष्ट (आमलक)#} 
 <ls>KATHĀS. 61, 298.</ls> 
-<ls>Spr. (II) 382. 1615.</ls> 
+<ls>Spr. (II) 382.</ls> <ls n="Spr. (II)">1615.</ls> 
 <ls>RĀJA-TAR. 5, 392.</ls> 
 <ls>PRAB. 59, 10. 60, 6.</ls> 
 <ls>BHĀG. P. 4, 6, 53.</ls> Vgl. {#उच्छिष्ट#} (als <lex>adj.</lex> in der Bed. {%unrein%} auch 
 <ls>YĀJÑ. 1, 155.</ls> 
-<ls>MBH. 13, 2293. 6145.</ls> 
+<ls>MBH. 13, 2293.</ls> <ls n="MBH. 13,">6145.</ls> 
 <ls>R. 3, 5, 20. 42, 8.</ls> 
 <ls>VARĀH. BṚH. S. 46, 79.</ls> 
 <ls>MĀRK. P. 18, 28.</ls> 
 <ls>BHĀG. P. 3, 20, 41. 6, 18, 59.</ls> als <lex>n.</lex> in der Bed. {%Ueberbleibsel%} auch 
 <ls>ŚAT. BR. 12, 4, 2, 8.</ls> 
 <ls>YĀJÑ. 1, 33.</ls> 
-<ls>MBH. 4, 275. 278.</ls> 
+<ls>MBH. 4, 275.</ls> <ls n="MBH. 4,">278.</ls> 
 <ls>VARĀH. BṚH. S. 53, 66.</ls> 
 <ls>Spr. (II) 1193.</ls> 
 <ls>RĀJA-TAR. 5, 387.</ls> 
@@ -128,7 +128,7 @@
 <div n="p">— {#परि#} {%übrig lassen%} 
 <ls>AIT. BR. 1, 23. 3, 21.</ls> {#यद्दिवा वाचं विसृजेरन्नहर्भ्रातृव्याय परिशिंष्युः#} 
 <ls>5, 24. 7, 32.</ls> <ls>ŚAT. BR. 2, 1, 4, 14.</ls> {#उभौ समिधौ परिशिंष्टः#} 
-<ls>?5, 2, 19. 3, 8, 3, 29. pass.</ls> {%übrig bleiben%} 
+<ls>5, 2, 19. 3, 8, 3, 29. pass.</ls> {%übrig bleiben%} 
 <ls>AIT. BR. 7, 18.</ls> 
 <ls>ŚAT. BR. 1, 3, 3, 4. 3, 8, 3, 25.</ls> 
 <ls>KAṬHOP. 4, 3.</ls> 
@@ -143,7 +143,7 @@
 <ls>ĀŚV. ŚR. 10, 2, 30.</ls> 
 <ls>CHĀND. UP. 6, 7, 3.</ls> 
 <ls>Spr. (II) 4842.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 109. Verz. d. Oxf. H. 174</ls>, {%b%}, 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 109.</ls> <ls>Verz. d. Oxf. H. 174,b,</ls> 
 <ls>6. 12.</ls> <ls>P. 1, 2, 32, Schol.</ls> Vgl. {#परिशिष्ट, °शेष#} fg. — caus. 
 <div n="1"> 1) {%übrig lassen, verschonen%}: {#न किंचित्पर्यशेषयत्#} 
 <ls>RAGH. 12, 79.</ls> 
@@ -159,7 +159,7 @@
 <div n="p">— {#वि#} 
 <div n="1"> 1) {%unterscheiden, durch besondere Attribute näher bezeichnen, als etwas Besonderes hinstellen, näher characterisiren%}: {#विशिनष्टि प्रधानपुरुषान्तरम्#} 
 <ls>SĀṂKHYAK. 37.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 251.</ls> zu <ls>CHĀND. UP. S. 45. 61.</ls> <ls>DĀYABH. 270, 16.</ls> <ls>WILSON, SĀṂKHYAK. S. 26.</ls> Comm. zu <ls>TS. PRĀT. 4, 7.</ls> <ls>SARVADARŚANAS. 59, 1.</ls> {#°शिष्य#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 251.</ls> zu <ls>CHĀND. UP. S. 45. 61.</ls> <ls>DĀYABH. 270, 16.</ls> <ls>WILSON, SĀṂKHYAK. S. 26.</ls> Comm. zu <ls>TS. PRĀT. 4, 7.</ls> <ls>SARVADARŚANAS. 59, 1.</ls> {#°शिष्य#} 
 <ls>62, 18.</ls> pass. {%sich unterscheiden, als etwas Anderes erscheinen%}; mit abl. 
 <ls>RAGH. 17, 62.</ls> mit instr. 
 <ls>ṚV. PRĀT. 14, 30.</ls> {%durch Etwas%} (instr.) {%näher bezeichnet werden%} Comm. zu 
@@ -168,16 +168,16 @@
 <ls>MBH. 3, 14735.</ls> pass. {%hoch über Allen stehen, mehr gelten, höher stehen, vorzüglicher sein%}: {#अद्भिरेव द्विजाग्र्याणां कर्म विशिष्यते#} 
 <ls>M. 3, 35.</ls> {#स्त्रीणां पवित्रं परमं पतिरेको विशिष्यते#} 
 <ls>R. 2, 39, 24. 4, 20, 2. 23, 9.</ls> 
-<ls>Spr. (II) 1377, v. l. 1570. 3203. (I) 4953.</ls> <ls>KATHĀS. 78, 131.</ls> mit einem abl.: {#कर्मसंन्यासात्कर्मयोगो विशिष्यते#} 
+<ls>Spr. (II) 1377, v. l.</ls> <ls n="Spr. (II)">1570.</ls> <ls n="Spr. (II)">3203.</ls> <ls n="Spr.">(I) 4953.</ls> <ls>KATHĀS. 78, 131.</ls> mit einem abl.: {#कर्मसंन्यासात्कर्मयोगो विशिष्यते#} 
 <ls>BHAG. 5, 2. 12, 12.</ls> 
 <ls>M. 2, 83. 3, 203. 278. 8, 104.</ls> 
 <ls>Spr. (II) 5003.</ls> 
 <ls>MBH. 7, 682.</ls> 
 <ls>R. 3, 3, 9.</ls> mit einem instr. 
-<ls>MBH. 1, 6166. 7761. 3, 4059.</ls> 
+<ls>MBH. 1, 6166.</ls> <ls n="MBH. 1,">7761.</ls> <ls n="MBH.">3, 4059.</ls> 
 <ls>HARIV. 7311.</ls> 
 <ls>R. 2, 27, 9. 35, 8.</ls> 
-<ls>Spr. (II) 1116. 1319.</ls> mit einem gen. pl. (du.) {%am Höchsten stehen unter%}: {#सर्वेषामेव दानानां ब्रह्मदानं विशिष्यते#} 
+<ls>Spr. (II) 1116.</ls> <ls n="Spr. (II)">1319.</ls> mit einem gen. pl. (du.) {%am Höchsten stehen unter%}: {#सर्वेषामेव दानानां ब्रह्मदानं विशिष्यते#} 
 <ls>M. 4, 233. 7, 71.</ls> {#तेषां ज्ञानी विशिष्यते#} 
 <ls>BHAG. 7, 17.</ls> {#गुणैरप्सरसां दिव्यैर्मेनके त्वं विशिष्यसे#} 
 <ls>MBH. 1, 2916.</ls> eben so mit einem loc.: {#मूर्खसहस्रेषु प्राज्ञ एको विशिष्यते#} {%unter ihnen ragt er hoch empor%} 
@@ -190,7 +190,7 @@
 <div n="1">— 5) partic. {#विशिष्ट#} mit {#कृत#} u. s. w. compon. <is>gaṇa</is> {#श्रेण्यादि#} 
 zu <ls>P. 2, 1, 59.</ls> 
 <div n="2"> a) {%verschieden, ein besonderer%}: {#°कविप्रशंसा#} 
-<ls>Verz. d. Oxf. H. 123</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 123,a,</ls> 
 <ls>31. fg.</ls> <ls>RĀJA-TAR. 3, 147.</ls> {#°लिङ्ग#} <lex>adj.</lex> {%verschiedenen Geschlechts seiend%} 
 <ls>P. 2, 4, 7.</ls> 
 <ls>SARVADARŚANAS. 87, 19.</ls> {#अविशिष्टा देवानाम्#} so v. a. {%nicht niedriger stehend als die Götter%} 
@@ -204,12 +204,12 @@ zu <ls>P. 2, 1, 59.</ls>
 <ls>NYĀYAS. 2, 1, 50.</ls> {#संनिवेशविशिष्टत्व#} 
 <ls>SARVADARŚANAS. 81, 22. 50, 15.</ls> 
 <div n="2">— b) {%hervorragend, ausgezeichnet, über Alles hochstehend, viel geltend, vorzüglich; der vorzüglichste, beste; mehr geltend, vorzüglicher, besser%}: {#विशिष्टाया विशिष्टेन संगमो गुणवान्भवेत्#} 
-<ls>MBH. 3, 2101. 16009. 4, 45. 5, 7138.</ls> {#विशिष्टं कुत्रचिद्बीजं स्त्रीयोनिस्त्वेव कुत्रचित्#} 
+<ls>MBH. 3, 2101.</ls> <ls n="MBH. 3,">16009.</ls> <ls n="MBH.">4, 45.</ls> <ls n="MBH.">5, 7138.</ls> {#विशिष्टं कुत्रचिद्बीजं स्त्रीयोनिस्त्वेव कुत्रचित्#} 
 <ls>M. 9, 34. 297. 10, 80. 123.</ls> {#गुरोर्वाक्यम्#} 
-<ls>MBH. 7, 4297. 13, 7442.</ls> 
+<ls>MBH. 7, 4297.</ls> <ls n="MBH.">13, 7442.</ls> 
 <ls>HARIV. 8379.</ls> {#विशिष्ट, सम, हीन#} 
 <ls>KAṆ. 6, 1, 10. fgg. 16.</ls> <ls>R. 1, 7, 17.</ls> <ls>R. GORR. 2, 27, 21. 5, 38, 47.</ls> <ls>Spr. 2384. 3358.</ls> {#°कुल#} 
-<ls>?(II) 2241. DAŚAK. 65, 10. MĀRK. P. 100, 7. PAÑCAR. 1, 7, 94. 8, 33. VET. in LA. (III) 16, 8.</ls> {#बुद्ध्या च प्रज्ञया तपसा तथा#} {%hervorragend%}
+(<ls>II) 2241.</ls> <ls>DAŚAK. 65, 10.</ls> <ls>MĀRK. P. 100, 7.</ls> <ls>PAÑCAR. 1, 7, 94. 8, 33.</ls> <ls>VET. in LA. (III) 16, 8.</ls> {#बुद्ध्या च प्रज्ञया तपसा तथा#} {%hervorragend%}
 [Page7-0215]
 {%durch%} 
 <ls>MBH. 13, 1866.</ls> {#गुणतः#} 
@@ -223,19 +223,19 @@ zu <ls>P. 2, 1, 59.</ls>
 <ls>HARIV. 7317.</ls> 
 <ls>R. 5, 2, 12.</ls> mit einem abl. {%vorzüglicher, besser als%} 
 <ls>M. 2, 85.</ls> 
-<ls>MBH. 3, 12187. 13, 340.</ls> 
+<ls>MBH. 3, 12187.</ls> <ls n="MBH.">13, 340.</ls> 
 <ls>R. 5, 11, 22.</ls> 
 <ls>Spr. 4923. (II) 48. 3560.</ls> {#भवद्विशिष्ट#} {%besser als du%} 
 <ls>R. 3, 40, 33. 5, 53, 22. 69, 20.</ls> {#पापं भ्रूणहंत्याविशिष्टम्#} {%schlimmer als%} 
 <ls>MBH. 12, 4011.</ls> {#विशिष्टतर#} 
-<ls>?7, 4297. ŚAṂK. zu CHĀND. UP. S. 79. MĀRK. P. 111, 6.</ls> {#विशिष्टतम#} mit abl. 
+<ls>7, 4297.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 79.</ls> <ls>MĀRK. P. 111, 6.</ls> {#विशिष्टतम#} mit abl. 
 <ls>MBH. 15, 851.</ls> 
 <ls>MṚCCH. 67, 5</ls>, 
 <div n="v">— Vgl. {#विशेष, महाविशिष्ट#} . — caus. 
 <div n="1"> 1) {%näher bestimmen, characterisiren%}: {#धातुना संयोगं विशेषयिष्यामः#} 
-<ls>PAT.</ls> zu <ls>P. 6, 4, 82.</ls> <ls>KĀŚ.</ls> zu <ls>?4, 1, 163. Schol. zu 7, 3, 77. pass. ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 84. Schol.</ls> zu <ls>KĀTY. ŚR. 25, 4, 16. 11, 5.</ls> {#विशेषित#} 
+<ls>PAT.</ls> zu <ls>P. 6, 4, 82.</ls> <ls>KĀŚ.</ls> zu <ls n="P.">4, 1, 163.</ls> Schol. zu <ls n="P.">7, 3, 77.</ls> pass. <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 84. Schol.</ls> zu <ls>KĀTY. ŚR. 25, 4, 16. 11, 5.</ls> {#विशेषित#} 
 <ls>H. 506.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 61</ls> ({#यथावि°#} zu lesen). 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 61</ls> ({#यथावि°#} zu lesen). 
 <ls>252.</ls> Comm. zu <ls>TS. PRĀT. 14, 5.</ls> {#भिन्नं तु व्यवच्छिन्नं विशेषितम्#} so v. a. {#भिन्न#} {%wird durch%} {#व्य°#} {%definirt%} 
 <ls>TRIK. 3, 1, 18.</ls> 
 <div n="1">— 2) {%Jmd bevorzugen%}: {#जीवद्विभागे तु पिता नैकं पुत्रं विशेषयेत्#} 
@@ -250,10 +250,10 @@ zu <ls>P. 2, 1, 59.</ls>
 <ls>8603</ls> ({#विशेषितुम् = विशेषयितुम्#}; statt {#पाण्डवस्य#} ist mit der ed. Bomb. {#पाण्डवं स्म#} zu lesen). 
 <ls>14, 107. 1329.</ls> {#मदनमपि गुणैर्विशेषयन्ती#} 
 <ls>MṚCCH. 59, 14.</ls> mit acc. der Sache: {#लघुतां युयुधानस्य लाघवेन विशेषयन्#} 
-<ls>MBH. 7, 4655. 12, 11869.</ls> {#पदैर्मम पदानि विशेषयन्ती#} 
+<ls>MBH. 7, 4655.</ls> <ls n="MBH.">12, 11869.</ls> {#पदैर्मम पदानि विशेषयन्ती#} 
 <ls>MṚCCH. 10, 22.</ls> {#विशेषित#} {%übertroffen%}: {#विशेषितस्त्वया दैत्येन्द्रः#} 
 <ls>HARIV. 14032.</ls> {#सुरेश्वरस्य#} u. s. w. {#विशेषितास्त्वया यज्ञाः#} 
-<ls>14223.</ls> {#रक्ताशोकलताविशेषितगुणो बिम्बाधरालक्तकः#} 
+<ls n="HARIV.">14223.</ls> {#रक्ताशोकलताविशेषितगुणो बिम्बाधरालक्तकः#} 
 <ls>MĀLAV. 40.</ls> 
 <div n="v">— Vgl. {#विशेषक, विशेषण, विशेष्य#} .
 
@@ -263,8 +263,8 @@ zu <ls>P. 2, 1, 59.</ls>
 
 <div n="p">— {#प्रतिवि#}, partic. {#°विशिष्ट#} {%vorzüglicher, besser%}: {#त्वत्तः#} 
 <ls>MBH. 1, 4684.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 53, 24.</ls> {%schlimmer%}: {#अतः प्रतिविशिष्टानि दुःखान्यन्यानि#} 
+
+<ls>R. GORR. 2, 53, 24.</ls> {%schlimmer%}: {#अतः प्रतिविशिष्टानि दुःखान्यन्यानि#} 
 <ls>MBH. 4, 602.</ls> 
 <div n="v">— Vgl. {#प्रतिविशेष#} .
 

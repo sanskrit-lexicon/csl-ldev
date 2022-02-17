@@ -1,12 +1,12 @@
 <L>20516<pc>643<k1>sight<k2>sight
-<div n="lb"/>{@SIGHT@}¦ (subs.): <div n="I">I The act.: </div><div n="1">(1) {#दृष्टिः;#} </div><div n="1">(2)
-<div n="lb"/>{#दर्शनम्;#} </div><div n="1">(3) {#वि-लोकनम्, अव-, आ-;#} </div><div n="1">(4) {#ईक्षणम्, प्र-, #}
-<div n="lb"/>{# अव-।#} </div><div n="I">II View: {#दृष्टिपथः, -मार्गः, -विषयः, -गोचरः,#}
-<div n="lb"/>and sim. comp.s, <div n="xe">{%falling within s.:%}</div> <div n="xs">{#आलोक-#}
-<div n="lb"/>{#पथावतारिन्#}</div> (f. {#णी#}), Vi. ii. 45. </div><div n="I">III Appea-
-<div n="lb"/>-rance, spectacle: q. v.: {#दर्शनम्,#} <div n="xe">{%as by their%}
-<div n="lb"/>{%gay s.:%}</div> <div n="xs">{#दर्शनेन लघुना यथा तयोः,#}</div> R. xi. 12. </div><div n="I">IV
-<div n="lb"/>Eye: q. v.: </div><div n="1">(1) {#दृष्टिः,#} {%diseases affecting s.:%}
-<div n="lb"/>{#दृष्टिगतरोगाः,#} Sr.; </div><div n="1">(2) <div n="xe">{%sense of s.:%}</div> <div n="xs">{#दर्शनेन्द्रियम्;#}</div></div>
-<div n="lb"/><div n="1">(3) {#दृश्#} (f.: rare), N.</div>
+{@SIGHT@}¦ (subs.): <div n="I">I The act.: </div><div n="1">(1) {#दृष्टिः;#} </div><div n="1">(2)
+{#दर्शनम्;#} </div><div n="1">(3) {#वि-लोकनम्, अव-, आ-;#} </div><div n="1">(4) {#ईक्षणम्, प्र-, #}
+{# अव-।#} </div><div n="I">II View: {#दृष्टिपथः, -मार्गः, -विषयः, -गोचरः,#}
+and sim. comp.s, <div n="xe">{%falling within s.:%}</div> <div n="xs">{#आलोक-#}
+{#पथावतारिन्#}</div> (f. {#णी#}), Vi. ii. 45. </div><div n="I">III Appea-
+-rance, spectacle: q. v.: {#दर्शनम्,#} <div n="xe">{%as by their%}
+{%gay s.:%}</div> <div n="xs">{#दर्शनेन लघुना यथा तयोः,#}</div> R. xi. 12. </div><div n="I">IV
+Eye: q. v.: </div><div n="1">(1) {#दृष्टिः,#} {%diseases affecting s.:%}
+{#दृष्टिगतरोगाः,#} Sr.; </div><div n="1">(2) <div n="xe">{%sense of s.:%}</div> <div n="xs">{#दर्शनेन्द्रियम्;#}</div></div>
+<div n="1">(3) {#दृश्#} (f.: rare), N.</div>
 <LEND>

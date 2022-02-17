@@ -1,7 +1,7 @@
 <L>20858<pc>655<k1>snap<k2>snap
-<div n="lb"/>{@SNAP,@}¦ {@-PING@} (subs.): <div n="I">I As of fingers: </div><div n="1">(1)
-<div n="lb"/>{#आस्फोटनम्;#} </div><div n="1">(2) {#मोटनम्।#} </div><div n="I">II As of bows:
-<div n="lb"/>{#आस्फालनम्#} <div n="xe">{%or%}</div> <div n="xs">{#आस्फालितम्।#}</div> </div><div n="I">III Barking: {#भषितम्।#}</div>
-<div n="lb"/><div n="I">IV Bite: q. v.: {#दंशः।#} </div><div n="I">V Sudden break-
-<div n="lb"/>-ing: </div><div n="1">(1) {#त्रोटनम्;#} </div><div n="1">(2) {#स्फोटनम्।#}</div>
+{@SNAP,@}¦ {@-PING@} (subs.): <div n="I">I As of fingers: </div><div n="1">(1)
+{#आस्फोटनम्;#} </div><div n="1">(2) {#मोटनम्।#} </div><div n="I">II As of bows:
+{#आस्फालनम्#} <div n="xe">{%or%}</div> <div n="xs">{#आस्फालितम्।#}</div> </div><div n="I">III Barking: {#भषितम्।#}</div>
+<div n="I">IV Bite: q. v.: {#दंशः।#} </div><div n="I">V Sudden break-
+-ing: </div><div n="1">(1) {#त्रोटनम्;#} </div><div n="1">(2) {#स्फोटनम्।#}</div>
 <LEND>

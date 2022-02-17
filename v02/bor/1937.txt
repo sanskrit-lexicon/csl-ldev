@@ -1,9 +1,9 @@
 <L>1937<pc>067<k1>bequeath<k2>bequeath
-<div n="lb"/>{@BEQUEATH:@}¦ <div n="1">(1) {#ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#यच्छति, प्र-#}</div> ({#दा,#} c. 3
-<div n="lb"/>{%or%} 1.); </div><div n="1">(2) {#प्रतिपादयति#} (c. of {#पद्#}); </div><div n="1">(3) {#समर्पयति#} [Page068]
-<div n="lb"/>(c. of {#कृ#}). N. B. These words simply mean
-<div n="lb"/>{%to give:%} when precision is wanted, some
-<div n="lb"/>qualifying words must be added: <div n="xe">{%b. ed%}
-<div n="lb"/>{%all his personal property to me%}</div> <div n="xs">{#*सर्वा अस्थावर-#}
-<div n="lb"/>{#सम्पत्तीर्मामिच्छापत्रेण प्रदत्तवान्।#}</div></div>
+{@BEQUEATH:@}¦ <div n="1">(1) {#ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#यच्छति, प्र-#}</div> ({#दा,#} c. 3
+{%or%} 1.); </div><div n="1">(2) {#प्रतिपादयति#} (c. of {#पद्#}); </div><div n="1">(3) {#समर्पयति#} [Page068]
+(c. of {#कृ#}). N. B. These words simply mean
+{%to give:%} when precision is wanted, some
+qualifying words must be added: <div n="xe">{%b. ed%}
+{%all his personal property to me%}</div> <div n="xs">{#*सर्वा अस्थावर-#}
+{#सम्पत्तीर्मामिच्छापत्रेण प्रदत्तवान्।#}</div></div>
 <LEND>

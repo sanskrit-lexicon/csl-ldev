@@ -1,7 +1,7 @@
 <L>2624<pc>089<k1>bring over<k2>bring over
-<div n="lb"/>{@BRING OVER:@}¦ <div n="I">I To bear across: {#आनयति#} (with
-<div n="lb"/>double acc.), {%I brought him over to London%}
-<div n="lb"/>{#*तमहं लण्डनमानीतवान्।#} </div><div n="I">II To draw to a new
-<div n="lb"/>party or opinion: Ph. <div n="xe">{%b. ing the Brahmins%}
-<div n="lb"/>{%over by gold%}</div> <div n="xs">{#द्विजान् स्वीकृत्य स्वर्णेन,#}</div> Raj.</div>
+{@BRING OVER:@}¦ <div n="I">I To bear across: {#आनयति#} (with
+double acc.), {%I brought him over to London%}
+{#*तमहं लण्डनमानीतवान्।#} </div><div n="I">II To draw to a new
+party or opinion: Ph. <div n="xe">{%b. ing the Brahmins%}
+{%over by gold%}</div> <div n="xs">{#द्विजान् स्वीकृत्य स्वर्णेन,#}</div> Raj.</div>
 <LEND>

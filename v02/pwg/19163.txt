@@ -27,10 +27,10 @@
 <is>Kṛṣṇa</is> erschlagenen <is>Asura</is> 
 <ls>H. 220.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 1, 2531. 3, 14248. fgg.</ls> 
-<ls>HARIV. 202. 3110. 4277. fgg.</ls> 
-<ls>4337. 5876. 5954. 13071. fgg.</ls> 
-<ls>13189. 13677. fgg.</ls> 
+<ls>MBH. 1, 2531.</ls> <ls n="MBH.">3, 14248. fgg.</ls> 
+<ls>HARIV. 202.</ls> <ls n="HARIV.">3110.</ls> <ls n="HARIV.">4277. fgg.</ls> 
+<ls n="HARIV.">4337.</ls> <ls n="HARIV.">5876.</ls> <ls n="HARIV.">5954.</ls> <ls n="HARIV.">13071. fgg.</ls> 
+<ls n="HARIV.">13189.</ls> <ls n="HARIV.">13677. fgg.</ls> 
 <ls>VP. 539. fg.</ls> 
 <ls>VIKR. 11, 15.</ls> <is>Kṛṣṇa</is> erhält in Folge dessen die Beinamen: {#केशिमथन#} 
 <ls>GĪT. 2, 11.</ls> {#केशिनिसूदन#} 
@@ -56,9 +56,9 @@
 <ls>R. 1, 39, 3. 13. 16.</ls> 
 <ls>VP. 377.</ls> der Gemahlin <is>Ājamīḍha's</is> (<is>Suhotra's</is>) und Mutter <is>Jahnu's</is> 
 <ls>MBH. 1, 3722.</ls> 
-<ls>HARIV. 1416. 1756.</ls> der Gemahlin von <is>Viśravas</is> und Mutter von <is>Rāvaṇa</is> und <is>Kumbhakarṇa</is> 
+<ls>HARIV. 1416.</ls> <ls n="HARIV.">1756.</ls> der Gemahlin von <is>Viśravas</is> und Mutter von <is>Rāvaṇa</is> und <is>Kumbhakarṇa</is> 
 <ls>BHĀG. P. 7, 1, 43.</ls> einer <is>Rākṣasī</is> 
-<ls>BURN. Lot. de la b. l. 240.</ls> einer Dienerin von <is>Damayanti</is> 
+<ls>BURN.</ls> <ls>Lot. de la b. l. 240.</ls> einer Dienerin von <is>Damayanti</is> 
 <ls>N. 22, 1.</ls> einer Brahmanento hter 
-<ls>SCHIEFNER,</ls> <ls>Lebensb. 269 (39).</ls>
+<ls>SCHIEFNER, Lebensb. 269 (39).</ls>
 <LEND>

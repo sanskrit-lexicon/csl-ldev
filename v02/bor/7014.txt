@@ -1,9 +1,9 @@
 <L>7014<pc>223<k1>dry<k2>dry
-<div n="lb"/>{@DRY@}¦ (adj.): <div n="1">(1) {#शुष्कः#} ({#ष्का, ष्कं#}) (in all the
-<div n="lb"/>senses of the English word), <div n="xe">{%a heap of d.%}
-<div n="lb"/>{%leaves:%}</div> <div n="xs">{#शुष्कपत्रसञ्चयः,#}</div> Mr.; {%when it becomes d.:%}
-<div n="lb"/>{#अस्मिन् शुष्के,#} V.; <div n="xe">{%d. grinding:%}</div> <div n="xs">{#शुष्कपेषः,#}</div> B.; <div n="xe">{%d.%}
-<div n="lb"/>{%altercation:%}</div> <div n="xs">{#शुष्कविग्रहः,#}</div> B. p.; </div><div n="1">(2) {#परि-शुष्कः, #}
-<div n="lb"/>{# सम्-, उत्-, वि-,#} ({#ष्का, ष्कं#}). Ph.: <div n="xe">{%d. land:%}</div> <div n="xs">{#स्थलम्;#}</div>
-<div n="lb"/><div n="xe">{%d. measure:%}</div> <div n="xs">{#*शुष्कमानम्;#}</div> <div n="xe">{%d. wine:%}</div> <div n="xs">{#*शुष्कासवः।#}</div></div>
+{@DRY@}¦ (adj.): <div n="1">(1) {#शुष्कः#} ({#ष्का, ष्कं#}) (in all the
+senses of the English word), <div n="xe">{%a heap of d.%}
+{%leaves:%}</div> <div n="xs">{#शुष्कपत्रसञ्चयः,#}</div> Mr.; {%when it becomes d.:%}
+{#अस्मिन् शुष्के,#} V.; <div n="xe">{%d. grinding:%}</div> <div n="xs">{#शुष्कपेषः,#}</div> B.; <div n="xe">{%d.%}
+{%altercation:%}</div> <div n="xs">{#शुष्कविग्रहः,#}</div> B. p.; </div><div n="1">(2) {#परि-शुष्कः, #}
+{# सम्-, उत्-, वि-,#} ({#ष्का, ष्कं#}). Ph.: <div n="xe">{%d. land:%}</div> <div n="xs">{#स्थलम्;#}</div>
+<div n="xe">{%d. measure:%}</div> <div n="xs">{#*शुष्कमानम्;#}</div> <div n="xe">{%d. wine:%}</div> <div n="xs">{#*शुष्कासवः।#}</div></div>
 <LEND>

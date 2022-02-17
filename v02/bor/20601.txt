@@ -1,7 +1,7 @@
 <L>20601<pc>646<k1>singular<k2>singular
-<div n="lb"/>{@SINGULAR:@}¦ <div n="I">I Single: {#एक#} (f. {#का#}), {%s. number:%}
-<div n="lb"/>{#एकवचनम्,#} Sa. </div><div n="I">II Remarkable, unpara-
-<div n="lb"/>-lleled: q. v.: </div><div n="1">(1) {#अपूर्व#} (f. {#र्वा#}); </div><div n="1">(2) {#अपरूप#}
-<div n="lb"/>(f. {#पा#} = odd: spe. in bad sense): v. Also
-<div n="lb"/>strange.</div>
+{@SINGULAR:@}¦ <div n="I">I Single: {#एक#} (f. {#का#}), {%s. number:%}
+{#एकवचनम्,#} Sa. </div><div n="I">II Remarkable, unpara-
+-lleled: q. v.: </div><div n="1">(1) {#अपूर्व#} (f. {#र्वा#}); </div><div n="1">(2) {#अपरूप#}
+(f. {#पा#} = odd: spe. in bad sense): v. Also
+strange.</div>
 <LEND>

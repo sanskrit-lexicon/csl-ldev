@@ -1,11 +1,11 @@
 <L>17476<pc>439-b<k1>latitude<k2>latitude
-<div n="lb"/>LATITUDE¦, {%s.%} (Terrestrial) {#अक्षः, फलः, विषुववृत्तान्तरं, विषुवरेखान्तरं#}.
-<div n="lb"/> — (Celestial) {#विक्षेपः, शरः;#} ‘a degree of latitude,’ {#अक्षभागः,#}
-<div n="lb"/>{#अक्षांशः;#} ‘opposite degrees of latitude,’ {#अनुपातः;#} ‘latitude
-<div n="lb"/>of a planet,’ {#पतनं;#} ‘argument of latitude,’ {#अक्षकर्णः;#}
-<div n="lb"/>‘circle or parallel of latitude,’ {#अक्षवृत्तं, अक्षांशवृत्तं, स्वदेशप-#}
-<div n="lb"/>{#रिधिः#} {%m.,%} {#स्वदेशमध्यपरिधिः#} {%m.;%} ‘having no latitude,’ {#निरक्षः#}
-<div n="lb"/>{#-क्षा -क्षं#}. — (Breadth) {#पृथुता, प्रथिमा#} {%m.%} {#(न्), विस्तृतिः#} {%f.,%} {#प्रस्थः#}. — 
-<div n="lb"/>(Laxity) {#शैथिल्यं, शिथिलता -त्वं, अनिर्बन्धः, निर्बन्धहीनता, नियमा-#}
-<div n="lb"/>{#तिक्रमः, नियमोपेक्षा, अधृतिः#} {%f.%}
+LATITUDE¦, {%s.%} (Terrestrial) {#अक्षः, फलः, विषुववृत्तान्तरं, विषुवरेखान्तरं#}.
+ — (Celestial) {#विक्षेपः, शरः;#} ‘a degree of latitude,’ {#अक्षभागः,#}
+{#अक्षांशः;#} ‘opposite degrees of latitude,’ {#अनुपातः;#} ‘latitude
+of a planet,’ {#पतनं;#} ‘argument of latitude,’ {#अक्षकर्णः;#}
+‘circle or parallel of latitude,’ {#अक्षवृत्तं, अक्षांशवृत्तं, स्वदेशप-#}
+{#रिधिः#} {%m.,%} {#स्वदेशमध्यपरिधिः#} {%m.;%} ‘having no latitude,’ {#निरक्षः#}
+{#-क्षा -क्षं#}. — (Breadth) {#पृथुता, प्रथिमा#} {%m.%} {#(न्), विस्तृतिः#} {%f.,%} {#प्रस्थः#}. — 
+(Laxity) {#शैथिल्यं, शिथिलता -त्वं, अनिर्बन्धः, निर्बन्धहीनता, नियमा-#}
+{#तिक्रमः, नियमोपेक्षा, अधृतिः#} {%f.%}
 <LEND>

@@ -1,14 +1,14 @@
 <L>1994<pc>069<k1>between<k2>between
-<div n="lb"/>{@BETWEEN, BETWIXT@}¦ <div n="1">(1) by the gen. (not of
-<div n="lb"/>time), <div n="xe">{%the distance b. the Hemakūta and the%}
-<div n="lb"/>{%Vindhyas is very great%}</div> <div n="xs">{#विप्रकृष्टमन्तरं हेमकूटविन्ध्या-#}
-<div n="lb"/>{#चलयोः,#}</div> K.; <div n="xe">{%the space b. the divine rivers%}
-<div n="lb"/>{%Sarasvati and Drishadvati%}</div> <div n="xs">{#सरस्वतीदृषद्वत्योर्देव-#}
-<div n="lb"/>{#नद्योर्यदन्तरम्,#}</div> M. ii. 17.; <div n="xe">{%enmity b. us%}</div> <div n="xs">{#तस्य च#}</div> [Page070]
-<div n="lb"/>{#मम च वैरम्,#} D. ii.; <div n="xe">{%the conflict b. the two im-%}
-<div n="lb"/>{%portant duties%}</div> <div n="xs">{#विप्रतिषेधं तं गुरुणोरथ कार्ययोः,#}</div> Si. ii.
-<div n="lb"/>6.; </div><div n="1">(2) {#मध्ये#} <div n="xe">{%or%}</div> <div n="xs">{#अन्तरे#}</div> (with gen.) (of time
-<div n="lb"/>and occasionally of other relations):
-<div n="lb"/><div n="xe">{%middle age is b. sixteen and seventy years%}</div> <div n="xs">{#षोडश-#}
-<div n="lb"/>{#सप्तत्योरन्तरे मध्यं वयः।#}</div> Śr.</div>
+{@BETWEEN, BETWIXT@}¦ <div n="1">(1) by the gen. (not of
+time), <div n="xe">{%the distance b. the Hemakūta and the%}
+{%Vindhyas is very great%}</div> <div n="xs">{#विप्रकृष्टमन्तरं हेमकूटविन्ध्या-#}
+{#चलयोः,#}</div> K.; <div n="xe">{%the space b. the divine rivers%}
+{%Sarasvati and Drishadvati%}</div> <div n="xs">{#सरस्वतीदृषद्वत्योर्देव-#}
+{#नद्योर्यदन्तरम्,#}</div> M. ii. 17.; <div n="xe">{%enmity b. us%}</div> <div n="xs">{#तस्य च#}</div> [Page070]
+{#मम च वैरम्,#} D. ii.; <div n="xe">{%the conflict b. the two im-%}
+{%portant duties%}</div> <div n="xs">{#विप्रतिषेधं तं गुरुणोरथ कार्ययोः,#}</div> Si. ii.
+6.; </div><div n="1">(2) {#मध्ये#} <div n="xe">{%or%}</div> <div n="xs">{#अन्तरे#}</div> (with gen.) (of time
+and occasionally of other relations):
+<div n="xe">{%middle age is b. sixteen and seventy years%}</div> <div n="xs">{#षोडश-#}
+{#सप्तत्योरन्तरे मध्यं वयः।#}</div> Śr.</div>
 <LEND>

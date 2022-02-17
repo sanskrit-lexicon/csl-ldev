@@ -1,9 +1,9 @@
 <L>7498<pc>237<k1>empty<k2>empty
-<div n="lb"/>{@EMPTY@}¦ (adj.): <div n="I">I Lit.: </div><div n="1">(1) {#शून्यः#} ({#न्या, न्यं#}),
-<div n="lb"/>{#परि-,#} <div n="xe">{%the street is e.:%}</div> <div n="xs">{#शून्यो राजमार्गः,#}</div> Mr. i.;
-<div n="lb"/><div n="xe">{%today my bed is e.:%}</div> <div n="xs">{#परिशून्यं शयनीयमद्य मे,#}</div> R.;</div>
-<div n="lb"/><div n="1">(2) {#रिक्तः#} ({#क्ता, क्तं#}) (rare), <div n="xe">{%in the e. mouth of%}
-<div n="lb"/>{%the quiver:%}</div> <div n="xs">{#रिक्ते निषङ्गवक्त्रे,#}</div> Ki. </div><div n="I">II Fig.: {#असारः#}
-<div n="lb"/>({#रा, रं#}), <div n="xe">{%in this e. world:%}</div> <div n="xs">{#असारे संसारे,#}</div> Va.: v.
-<div n="lb"/>Vain.</div>
+{@EMPTY@}¦ (adj.): <div n="I">I Lit.: </div><div n="1">(1) {#शून्यः#} ({#न्या, न्यं#}),
+{#परि-,#} <div n="xe">{%the street is e.:%}</div> <div n="xs">{#शून्यो राजमार्गः,#}</div> Mr. i.;
+<div n="xe">{%today my bed is e.:%}</div> <div n="xs">{#परिशून्यं शयनीयमद्य मे,#}</div> R.;</div>
+<div n="1">(2) {#रिक्तः#} ({#क्ता, क्तं#}) (rare), <div n="xe">{%in the e. mouth of%}
+{%the quiver:%}</div> <div n="xs">{#रिक्ते निषङ्गवक्त्रे,#}</div> Ki. </div><div n="I">II Fig.: {#असारः#}
+({#रा, रं#}), <div n="xe">{%in this e. world:%}</div> <div n="xs">{#असारे संसारे,#}</div> Va.: v.
+Vain.</div>
 <LEND>

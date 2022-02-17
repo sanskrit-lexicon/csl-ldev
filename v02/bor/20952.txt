@@ -1,6 +1,6 @@
 <L>20952<pc>659<k1>soldier-like<k2>soldier-like
-<div n="lb"/>{@SOLDIER-LIKE,@}¦ {@SOLDIERLY:@} <div n="I">I Like a soldier:
-<div n="lb"/>expr. with {#सैनिकवत्#} <div n="xe">{%or%}</div> <div n="xs">{#सैनिक इव।#}</div> </div><div n="I">II Brave,
-<div n="lb"/>martial: q. v.: <div n="xe">{%s. conduct:%}</div> <div n="xs">{#भटता#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भाट्यम्,#}</div>
-<div n="lb"/>Vi. vi. 11.</div>
+{@SOLDIER-LIKE,@}¦ {@SOLDIERLY:@} <div n="I">I Like a soldier:
+expr. with {#सैनिकवत्#} <div n="xe">{%or%}</div> <div n="xs">{#सैनिक इव।#}</div> </div><div n="I">II Brave,
+martial: q. v.: <div n="xe">{%s. conduct:%}</div> <div n="xs">{#भटता#}</div> <div n="xe">{%or%}</div> <div n="xs">{#भाट्यम्,#}</div>
+Vi. vi. 11.</div>
 <LEND>

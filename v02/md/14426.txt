@@ -1,12 +1,12 @@
 <L>14426<pc>234-2<k1>मृदुक<k2>मृदुक
 {#मृदुक#}¦mṛdu-ka, {%a.%} soft: {@-m,@} {%ad.%} gently, 
-<>softly; {@-kopa,@} {%a.%} slow to anger; {@-gir,@} {%a.%} soft-voiced; <lbinfo n="4"/>
-<> {@-tā,@} {%f.%} softness; gentleness; weakness; <lbinfo n="4"/>
-<> mollification; {@-tīkṣṇa@}, {%a.%} gentle and 
-<>harsh {%at the same time%}: {@-tara,@} {%cpv.%}; {@-tva@} 
-<>{%n.%} softness, gentleness, tenderness; {@-pūrva,@} 
-<>{%a.%} soft, bland ({%speech%}): {@-m,@} {%ad.%} gently, coaxingly; <lbinfo n="4"/>
-<> {@-prayatna,@} {%a.%} pronounced with gentle 
-<>effort; {@-bhāva,@} {%m.%} gentleness; {@-bhāṣ-in,@} {%a.%} 
-<>speaking gently: ({@-i@}) {@-tā,@} {%f.%} gentle speech.
+softly; {@-kopa,@} {%a.%} slow to anger; {@-gir,@} {%a.%} soft-voiced; <lbinfo n="4"/>
+ {@-tā,@} {%f.%} softness; gentleness; weakness; <lbinfo n="4"/>
+ mollification; {@-tīkṣṇa@}, {%a.%} gentle and 
+harsh {%at the same time%}: {@-tara,@} {%cpv.%}; {@-tva@} 
+{%n.%} softness, gentleness, tenderness; {@-pūrva,@} 
+{%a.%} soft, bland ({%speech%}): {@-m,@} {%ad.%} gently, coaxingly; <lbinfo n="4"/>
+ {@-prayatna,@} {%a.%} pronounced with gentle 
+effort; {@-bhāva,@} {%m.%} gentleness; {@-bhāṣ-in,@} {%a.%} 
+speaking gently: ({@-i@}) {@-tā,@} {%f.%} gentle speech.
 <LEND>

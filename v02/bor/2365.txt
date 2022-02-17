@@ -1,7 +1,7 @@
 <L>2365<pc>081<k1>bore<k2>bore
-<div n="lb"/>{@BORE@}¦ (subs.): <div n="I">I That which bores: </div><div n="1">(1)
-<div n="lb"/>{#वेधनी;#} </div><div n="1">(2) {#वेधनिका;#} </div><div n="1">(3) {#आविधः।#} </div><div n="I">II A hole
-<div n="lb"/>made by boring: </div><div n="1">(1) {#छिद्रम्;#} </div><div n="1">(2) {#रन्ध्रम्।#} </div><div n="I">III
-<div n="lb"/>Calibre: q. v. </div><div n="I">IV A high tide: {#वानम्।#} v. A
-<div n="lb"/>troublesome fellow: {#उद्वेजकः#} (?).</div>
+{@BORE@}¦ (subs.): <div n="I">I That which bores: </div><div n="1">(1)
+{#वेधनी;#} </div><div n="1">(2) {#वेधनिका;#} </div><div n="1">(3) {#आविधः।#} </div><div n="I">II A hole
+made by boring: </div><div n="1">(1) {#छिद्रम्;#} </div><div n="1">(2) {#रन्ध्रम्।#} </div><div n="I">III
+Calibre: q. v. </div><div n="I">IV A high tide: {#वानम्।#} v. A
+troublesome fellow: {#उद्वेजकः#} (?).</div>
 <LEND>

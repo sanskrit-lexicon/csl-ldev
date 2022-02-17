@@ -1,7 +1,7 @@
 <L>6235<pc>200<k1>dirty<k2>dirty
-<div n="lb"/>{@DIRTY@}¦ (adj.): <div n="1">(1) {#मलिनः#} ({#ना, नं#}), <div n="xe">{%an old d. rag%}
-<div n="lb"/>{%torn into hundred pieces:%}</div> <div n="xs">{#जीर्णशतखण्डमलिनकन्था,#}</div>
-<div n="lb"/>J.; <div n="xe">{%d. by birth and in acts:%}</div> <div n="xs">{#जन्मकर्मतो मलिनः,#}</div>
-<div n="lb"/>({#ना, नं#}), K.; </div><div n="1">(2) {#मलीमसः#} ({#सा, सं#}), {%a d. track:%}
-<div n="lb"/>{#मलीमसा पद्धतिः,#} R.; </div><div n="1">(3) {#समलः#} ({#ला, लं#}).</div>
+{@DIRTY@}¦ (adj.): <div n="1">(1) {#मलिनः#} ({#ना, नं#}), <div n="xe">{%an old d. rag%}
+{%torn into hundred pieces:%}</div> <div n="xs">{#जीर्णशतखण्डमलिनकन्था,#}</div>
+J.; <div n="xe">{%d. by birth and in acts:%}</div> <div n="xs">{#जन्मकर्मतो मलिनः,#}</div>
+({#ना, नं#}), K.; </div><div n="1">(2) {#मलीमसः#} ({#सा, सं#}), {%a d. track:%}
+{#मलीमसा पद्धतिः,#} R.; </div><div n="1">(3) {#समलः#} ({#ला, लं#}).</div>
 <LEND>

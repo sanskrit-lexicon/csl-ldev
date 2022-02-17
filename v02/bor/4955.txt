@@ -1,5 +1,5 @@
 <L>4955<pc>160<k1>cow<k2>cow
-<div n="lb"/>{@COW@}¦ (subs.): {#गो#} (mf.) <div n="xe">{%c.' s milk:%}</div> <div n="xs">{#गोदुग्धम्;#}</div> <div n="xe">{%killing%}
-<div n="lb"/>{%a c.:%}</div> <div n="xs">{#गोहत्या;#}</div> <div n="xe">{%milch c.:%}</div> <div n="xs">{#धेनुः।#}</div> {%C. -dung:%} <div n="1">(1)
-<div n="lb"/>{#गोमय#} (mn.); </div><div n="1">(2) {#गोविष्#} (f.). <div n="xe">{%Dry c.:%}</div> <div n="xs">{#करीर#}</div> (mn.)</div>
+{@COW@}¦ (subs.): {#गो#} (mf.) <div n="xe">{%c.' s milk:%}</div> <div n="xs">{#गोदुग्धम्;#}</div> <div n="xe">{%killing%}
+{%a c.:%}</div> <div n="xs">{#गोहत्या;#}</div> <div n="xe">{%milch c.:%}</div> <div n="xs">{#धेनुः।#}</div> {%C. -dung:%} <div n="1">(1)
+{#गोमय#} (mn.); </div><div n="1">(2) {#गोविष्#} (f.). <div n="xe">{%Dry c.:%}</div> <div n="xs">{#करीर#}</div> (mn.)</div>
 <LEND>

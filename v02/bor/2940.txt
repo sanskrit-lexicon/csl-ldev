@@ -1,3 +1,3 @@
 <L>2940<pc>099<k1>calorific<k2>calorific
-<div n="lb"/>{@CALORIFIC:@}¦ {#तापनः#} ({#नी, नं#}) <div n="xe">{%or%}</div> <div n="xs">{#तापकः#}</div> ({#का, कं#}).
+{@CALORIFIC:@}¦ {#तापनः#} ({#नी, नं#}) <div n="xe">{%or%}</div> <div n="xs">{#तापकः#}</div> ({#का, कं#}).
 <LEND>

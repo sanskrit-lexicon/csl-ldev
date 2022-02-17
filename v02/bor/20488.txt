@@ -1,4 +1,4 @@
 <L>20488<pc>642<k1>shutter<k2>shutter
-<div n="lb"/>{@SHUTTER:@}¦ in pl., of windows etc.: {#*आवरणम्#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#आवृतिः।#}</div>
+{@SHUTTER:@}¦ in pl., of windows etc.: {#*आवरणम्#}
+<div n="xe">{%or%}</div> <div n="xs">{#आवृतिः।#}</div>
 <LEND>

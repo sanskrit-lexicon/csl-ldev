@@ -6,10 +6,10 @@
 <ls>H. an. 2, 168. fg.</ls> 
 <ls>MED. t. 19.</ls> <ls>BURN. Intr. 487. 493.</ls> <ls>Lot. de la b. l. 331.</ls> {#आचार्यस्त्वस्य यां जातिं विधिवद्वेदपारगः । उत्पादयति सावित्र्या सा सत्या साजरामरा ॥#} 
 <ls>M. 2, 148.</ls> {#जात्यन्ध#} {%von Geburt blind, blindgeboren%} 
-<ls>9, 201.</ls> <ls>MBH. 1, 4193. 13, 1825.</ls> <ls>BHARTṚ. 1, 89.</ls> {#सप्त जातिशतान्येव मृतपाः संभवन्तु ते#} 
+<ls>9, 201.</ls> <ls>MBH. 1, 4193.</ls> <ls n="MBH.">13, 1825.</ls> <ls>BHARTṚ. 1, 89.</ls> {#सप्त जातिशतान्येव मृतपाः संभवन्तु ते#} 
 <ls>R. 1, 59, 18.</ls> {#जातिषु#} {%bei den Wiedergeburten%} 
 <ls>62, 17.</ls> Auch {#जातीः जातीमरणभीरु#} 
-<ls>MBH. 13, 1051. 14, 427. 471.</ls> {#न संसरति जातीषु परमं स्थानमाश्रितः#} 
+<ls>MBH. 13, 1051.</ls> <ls n="MBH.">14, 427.</ls> <ls n="MBH. 14,">471.</ls> {#न संसरति जातीषु परमं स्थानमाश्रितः#} 
 <ls>1266.</ls> 
 <div n="1">— 2) {%die durch die Geburt bestimmte Daseinsform%} (als Mensch, Thier u. s. w.): {#जात्यायुर्भोगः#} 
 <ls>YOGAS. 2, 13.</ls> {#वेदाभ्यासेन सततं शौचेन तपसैव च । अद्रोहेण च भूतानां जातिं स्मरति पौर्विकीम् ॥#} 
@@ -42,7 +42,7 @@
 <ls>271. 273.</ls> {#कुलानि जातीः श्रेणीश्च गणाञ्जनपदानपि#} 
 <ls>YĀJÑ. 1, 360.</ls> {#वर्णजात्युत्तराधरैः#} 
 <ls>2, 206. St.</ls> {#जातिद्रव्यविनाकृत#} 
-<ls>N.</ls> <ls>?(BOPP) 13, 25</ls> ist mit 
+<ls>N. (BOPP) 13, 25</ls> ist mit 
 <ls>MBH. 3, 2556</ls> {#ज्ञाति°#} zu lesen. 
 <div n="1">— 5) {%Gattung%} (im Gegens. zur Art), {%Art%} (im Gegens. zum Individuum) 
 <ls>AK. 1, 1, 4, 9. 3, 4, 14, 70.</ls> 
@@ -50,7 +50,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#समानप्रसवात्मिका जातिः#} 
 <ls>NYĀYA-S. 2, 134.</ls> {#आकृतिग्रहणा जातिर्लिङ्गानां च न सर्वभाक् । सकृदाख्यातनिर्ग्राह्या गोत्रं च चरणैः सह ॥#} <is>Kār</is>. zu 
-<ls>P.</ls> <ls>?(Bd. II, S. 462).</ls> {#प्रादुर्भावविनाशाभ्यां सत्त्वस्य युगपद्गुणैः । असर्वलिङ्गां बह्वर्थां तां जातिं कवयो विदुः ॥ गोत्रं च चरणानि च#} eine andere <is>Kār</is>. ebend. {#जातिपरत्व#} 
+<ls>P.</ls> (<ls>Bd. II, S. 462).</ls> {#प्रादुर्भावविनाशाभ्यां सत्त्वस्य युगपद्गुणैः । असर्वलिङ्गां बह्वर्थां तां जातिं कवयो विदुः ॥ गोत्रं च चरणानि च#} eine andere <is>Kār</is>. ebend. {#जातिपरत्व#} 
 <ls>KAP. 1, 155.</ls> 
 <ls>P. 1, 2, 52. 58. 2, 1, 63. 65. 4, 6. 3, 2, 98. 4, 1, 63.</ls> {#सर्वमेव क्षीरं प्राणिनामप्रतिषिद्धं जांतिसात्म्यात्#} 
 <ls>SUŚR. 1, 175, 4.</ls> {#यथाजाति मृगान्#} 
@@ -73,7 +73,7 @@
 <div n="1">— 7) {%Zurückführung von Brüchen auf einen gemeinschaftlichen Nenner%} 
 <ls>COLEBR. Alg. 13. 283.</ls> 
 <div n="1">— 8) {%falsche Verallgemeinerung%} 
-<ls>?(MÜLLER in Z. d. d. m. G. 6, 4):</ls> {#साधर्म्यवैधर्म्याभ्यां प्रत्यवस्थानं जातिः#} 
+(<ls>MÜLLER</ls> in <ls>Z. d. d. m. G. 6, 4</ls>): {#साधर्म्यवैधर्म्याभ्यां प्रत्यवस्थानं जातिः#} 
 <ls>NYĀYA-S. 1, 58.</ls> {%a futile answer, or selfconfuting reply%} 
 <ls>COLEBR. Misc. Ess. I, 294.</ls> 
 <div n="1">— 9) = {#वाक्यजाति#} {%eine best. Darstellungsweise, Redefigur%}: {#अनेकजातिवैचित्र्य#} ist eine der 35 {#वाग्गुणाः#} der <is>Arhant</is> 
@@ -84,8 +84,8 @@
 <ls>R. 1, 4, 6</ls>; vgl. u. {#छन्दस्#} 
 <ls>4.</ls> 
 <div n="1">— 11) {%Sangweise%}: {#ततः प्रवृत्ता सुकुमारजातिः#} 
-<ls>HARIV. 8460. 8464.</ls> {#गान्धर्वजाति#} 
-<ls>8462.</ls> 
+<ls>HARIV. 8460.</ls> <ls n="HARIV.">8464.</ls> {#गान्धर्वजाति#} 
+<ls n="HARIV.">8462.</ls> 
 <div n="1">— 12) {%Ofen%} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 13) N. verschiedener Pflanzen: 

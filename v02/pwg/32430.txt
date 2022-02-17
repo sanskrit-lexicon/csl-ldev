@@ -8,7 +8,7 @@
 <div n="2"> a) (von {#दक्षिण#}) {%ein rücksichtsvolles, liebenswürdiges, freundliches, zuvorkommendes Wesen%} oder {%Benehmen, Pietät%} 
 <ls>H. 1377.</ls> {#दाक्षिण्यं चेष्टया वाचा परचित्तानुवर्तनम्#} 
 <ls>SĀH. D. 457.</ls> 
-<ls>HARIV. 7129. 8335. 8338.</ls> 
+<ls>HARIV. 7129.</ls> <ls n="HARIV.">8335.</ls> <ls n="HARIV.">8338.</ls> 
 <ls>R. 4, 33, 28. 6, 99, 26.</ls> 
 <ls>SUŚR. 1, 192, 4.</ls> 
 <ls>MṚCCH. 87, 7. 130, 20.</ls> 
@@ -16,7 +16,7 @@
 <ls>VIKR. 23.</ls> 
 <ls>MĀLAV. 23, 22. 72.</ls> 
 <ls>RAGH. 1, 31.</ls> 
-<ls>HIT. I, 89. IV, 103.</ls> <ls>?ad I, 100. VARĀH. BṚH. S. 68, 7. 74, 6. 76, 13. BRAHMA-P. 56, 13.</ls> {#दाक्षिण्यं स्वजने#} 
+<ls>HIT. I, 89. IV, 103.</ls> <ls>ad I, 100.</ls> <ls>VARĀH. BṚH. S. 68, 7. 74, 6. 76, 13.</ls> <ls>BRAHMA-P. 56, 13.</ls> {#दाक्षिण्यं स्वजने#} 
 <ls>BHARTṚ. 2, 19.</ls> 
 <ls>VIKR. 2.</ls> {#दाक्षिण्यात्प्राणदस्यास्य#} {%gegen%} 
 <ls>RĀJA-TAR. 3, 524. 138.</ls> {#पितृ°#} {%Pietät gegen den Vater%} 

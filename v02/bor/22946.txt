@@ -1,9 +1,9 @@
 <L>22946<pc>723<k1>trust<k2>trust
-<div n="lb"/>{@TRUST@}¦ (subs.): <div n="I">I Confidence: </div><div n="1">(1) {#विश्वासः,#}
-<div n="lb"/><div n="xe">{%never repose your t. on women and courts:%}</div> <div n="xs">{#विश्वासो #}
-<div n="lb"/>{# नैव कर्तव्यः स्त्रीषु राजकुलेषु च,#}</div> H.; </div><div n="1">(2) {#विश्रम्भः,#} <div n="xe">{%out%}
-<div n="lb"/>{%of t.:%}</div> <div n="xs">{#विश्रम्भतः,#}</div> Mu. v. 7.; </div><div n="1">(3) {#प्रत्ययः,#} {%give%}
-<div n="lb"/><div n="xe">{%him things on my t.:%}</div> <div n="xs">{#मत्प्रत्ययेनास्य द्रव्यं देहि,#}</div> Mit.</div>
-<div n="lb"/><div n="I">II Any thing t. ed: </div><div n="1">(1) {#निःक्षेपः;#} </div><div n="1">(2) {#न्यासः,#}
-<div n="lb"/>Ph.: <div n="xe">{%t.-property:%}</div> <div n="xs">{#विश्वासधनम्।#}</div></div>
+{@TRUST@}¦ (subs.): <div n="I">I Confidence: </div><div n="1">(1) {#विश्वासः,#}
+<div n="xe">{%never repose your t. on women and courts:%}</div> <div n="xs">{#विश्वासो #}
+{# नैव कर्तव्यः स्त्रीषु राजकुलेषु च,#}</div> H.; </div><div n="1">(2) {#विश्रम्भः,#} <div n="xe">{%out%}
+{%of t.:%}</div> <div n="xs">{#विश्रम्भतः,#}</div> Mu. v. 7.; </div><div n="1">(3) {#प्रत्ययः,#} {%give%}
+<div n="xe">{%him things on my t.:%}</div> <div n="xs">{#मत्प्रत्ययेनास्य द्रव्यं देहि,#}</div> Mit.</div>
+<div n="I">II Any thing t. ed: </div><div n="1">(1) {#निःक्षेपः;#} </div><div n="1">(2) {#न्यासः,#}
+Ph.: <div n="xe">{%t.-property:%}</div> <div n="xs">{#विश्वासधनम्।#}</div></div>
 <LEND>

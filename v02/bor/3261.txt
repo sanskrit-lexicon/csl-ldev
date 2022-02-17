@@ -1,5 +1,5 @@
 <L>3261<pc>108<k1>causation<k2>causation
-<div n="lb"/>{@CAUSATION:@}¦ <div n="I">I Causality: expr. by {#कारणम्#}</div>
-<div n="lb"/><div n="I">II The act of causing: V. Cause, pro-
-<div n="lb"/>-duction, creation.</div>
+{@CAUSATION:@}¦ <div n="I">I Causality: expr. by {#कारणम्#}</div>
+<div n="I">II The act of causing: V. Cause, pro-
+-duction, creation.</div>
 <LEND>

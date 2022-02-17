@@ -1,5 +1,5 @@
 <L>1648<pc>057<k1>barrel<k2>barrel
-<div n="lb"/>{@BARREL@}¦ (subs.): <div n="I">I A kind of cask: {#भाण्डम्#}
-<div n="lb"/>(any vessel). </div><div n="I">II A cylinder or tube, as
-<div n="lb"/>of a gun or watch: {#नाला#} <div n="xe">{%or%}</div> <div n="xs">{#नाली#}</div> (?)</div>
+{@BARREL@}¦ (subs.): <div n="I">I A kind of cask: {#भाण्डम्#}
+(any vessel). </div><div n="I">II A cylinder or tube, as
+of a gun or watch: {#नाला#} <div n="xe">{%or%}</div> <div n="xs">{#नाली#}</div> (?)</div>
 <LEND>

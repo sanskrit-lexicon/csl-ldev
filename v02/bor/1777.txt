@@ -1,4 +1,4 @@
 <L>1777<pc>061<k1>beautifully<k2>beautifully
-<div n="lb"/>{@BEAUTIFULLY:@}¦ <div n="1">(1) {#सुन्दरम्;#} </div><div n="1">(2) {#चारु;#} </div><div n="1">(3) {#शोभनम्;#}</div>
-<div n="lb"/><div n="1">(4) by the adj.</div>
+{@BEAUTIFULLY:@}¦ <div n="1">(1) {#सुन्दरम्;#} </div><div n="1">(2) {#चारु;#} </div><div n="1">(3) {#शोभनम्;#}</div>
+<div n="1">(4) by the adj.</div>
 <LEND>

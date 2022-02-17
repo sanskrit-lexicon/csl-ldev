@@ -1,16 +1,16 @@
 <L>2044<pc>071<k1>bill<k2>bill
-<div n="lb"/>{@BILL@}¦ (sub.): <div n="I">I A declaration in writing {#लेखः,#}
-<div n="lb"/><div n="xe">{%a b. of indictment%}</div> <div n="xs">{#अभियोगलेखः।#}</div> </div><div n="I">II A bill of
-<div n="lb"/>exchange: {#*हुण्डिः,#} <div n="xe">{%a b. payable at sight%}</div> <div n="xs">{#*दर्शन-#}
-<div n="lb"/>{#देयो हुण्डिः।#}</div> </div><div n="I">III Proposed law: {#*पाण्डुलिपिः,#}
-<div n="lb"/><div n="xe">{%the House of Commons rejected the b. by a great%}
-<div n="lb"/>{%majority%}</div> <div n="xs">{#*बहुसभ्यानामैकमत्येन साधारणसभा पाण्डुलिपिं #}
-<div n="lb"/>{# प्रत्यादिदेश।#}</div> </div><div n="I">IV A written or printed notice:
-<div n="lb"/>{#घोषणापत्रम्:#} v. Advertisement, placard. V. An
-<div n="lb"/>account (rendered) of money due: {#*देयपत्रम्,#}
-<div n="lb"/><div n="xe">{%make out a b. for me.%}</div> <div n="xs">{#मया यत्तुभ्यं देयं तस्य गणनां #}
-<div n="lb"/>{# कुरु।#}</div> Miscell.: <div n="xe">{%a. b. of sale%}</div> <div n="xs">{#विक्रयपत्रम्;#}</div> <div n="xe">{%a b. of%}
-<div n="lb"/>{%lading%}</div> <div n="xs">{#*प्रेरणपत्रम्।#}</div> </div><div n="I">VI The beak of a bird:</div>
-<div n="lb"/><div n="1">(1) {#चञ्चुः;#} </div><div n="1">(2) {#चञ्चुपुटः।#} </div><div n="I">VII A mattock, a
-<div n="lb"/>hatchet: q. v.: {#दात्रम्।#}</div>
+{@BILL@}¦ (sub.): <div n="I">I A declaration in writing {#लेखः,#}
+<div n="xe">{%a b. of indictment%}</div> <div n="xs">{#अभियोगलेखः।#}</div> </div><div n="I">II A bill of
+exchange: {#*हुण्डिः,#} <div n="xe">{%a b. payable at sight%}</div> <div n="xs">{#*दर्शन-#}
+{#देयो हुण्डिः।#}</div> </div><div n="I">III Proposed law: {#*पाण्डुलिपिः,#}
+<div n="xe">{%the House of Commons rejected the b. by a great%}
+{%majority%}</div> <div n="xs">{#*बहुसभ्यानामैकमत्येन साधारणसभा पाण्डुलिपिं #}
+{# प्रत्यादिदेश।#}</div> </div><div n="I">IV A written or printed notice:
+{#घोषणापत्रम्:#} v. Advertisement, placard. V. An
+account (rendered) of money due: {#*देयपत्रम्,#}
+<div n="xe">{%make out a b. for me.%}</div> <div n="xs">{#मया यत्तुभ्यं देयं तस्य गणनां #}
+{# कुरु।#}</div> Miscell.: <div n="xe">{%a. b. of sale%}</div> <div n="xs">{#विक्रयपत्रम्;#}</div> <div n="xe">{%a b. of%}
+{%lading%}</div> <div n="xs">{#*प्रेरणपत्रम्।#}</div> </div><div n="I">VI The beak of a bird:</div>
+<div n="1">(1) {#चञ्चुः;#} </div><div n="1">(2) {#चञ्चुपुटः।#} </div><div n="I">VII A mattock, a
+hatchet: q. v.: {#दात्रम्।#}</div>
 <LEND>

@@ -6,6 +6,6 @@
 <ls>VS. 16, 35.</ls> 
 <ls>ŚAT. BR. 13, 5, 4, 16. fg.</ls> 
 <ls>PĀR. GṚHY. 2, 17.</ls> 
-<ls>MBH. 1, 1482. 7654. 7765. 5, 1863. 5362. 7, 3103. 8025.</ls> 
+<ls>MBH. 1, 1482.</ls> <ls n="MBH. 1,">7654.</ls> <ls n="MBH. 1,">7765.</ls> <ls n="MBH.">5, 1863.</ls> <ls n="MBH. 5,">5362.</ls> <ls n="MBH.">7, 3103.</ls> <ls n="MBH. 7,">8025.</ls> 
 <ls>HARIV. 3582.</ls>
 <LEND>

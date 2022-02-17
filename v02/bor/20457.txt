@@ -1,6 +1,6 @@
 <L>20457<pc>640<k1>shriek<k2>shriek
-<div n="lb"/>{@SHRIEK:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#क्रन्दितम्:#} v. Cry;</div>
-<div n="lb"/><div n="1">(2) {#चीत्कारः:#} v. Scream. </div><div n="I">II Verb: </div><div n="1">(1)
-<div n="lb"/>{#आ-क्रन्दति#} ({#क्रन्द्,#} c. 1.): v. To cry; </div><div n="1">(2)
-<div n="lb"/>{#चीत्करोति:#} v. To scream.</div>
+{@SHRIEK:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#क्रन्दितम्:#} v. Cry;</div>
+<div n="1">(2) {#चीत्कारः:#} v. Scream. </div><div n="I">II Verb: </div><div n="1">(1)
+{#आ-क्रन्दति#} ({#क्रन्द्,#} c. 1.): v. To cry; </div><div n="1">(2)
+{#चीत्करोति:#} v. To scream.</div>
 <LEND>

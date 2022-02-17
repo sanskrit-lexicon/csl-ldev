@@ -1,5 +1,5 @@
 <L>8097<pc>186-b<k1>disbursement<k2>disbursement
-<div n="lb"/>DISBURSEMENT¦, {%s.%} {#व्ययः, धनव्ययः, व्ययीकरणं, विनियोगः, विसर्गः,#}
-<div n="lb"/>{#त्यागः, अपचितिः#} {%f.,%} {#अपचयः;#} ‘receipt and disbursement,’
-<div n="lb"/>{#आयव्ययौ#}.
+DISBURSEMENT¦, {%s.%} {#व्ययः, धनव्ययः, व्ययीकरणं, विनियोगः, विसर्गः,#}
+{#त्यागः, अपचितिः#} {%f.,%} {#अपचयः;#} ‘receipt and disbursement,’
+{#आयव्ययौ#}.
 <LEND>

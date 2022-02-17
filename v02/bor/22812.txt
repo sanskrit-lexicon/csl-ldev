@@ -1,4 +1,4 @@
 <L>22812<pc>719<k1>travel<k2>travel
-<div n="lb"/>{@TRAVEL,@}¦ {@TRAVELLING:@} <div n="1">(1) {#परिभ्रमणम्;#} </div><div n="1">(2)
-<div n="lb"/>{#पर्यटनम्;#} </div><div n="1">(3) {#विचरणम्।#}</div>
+{@TRAVEL,@}¦ {@TRAVELLING:@} <div n="1">(1) {#परिभ्रमणम्;#} </div><div n="1">(2)
+{#पर्यटनम्;#} </div><div n="1">(3) {#विचरणम्।#}</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>15860<pc>487<k1>once<k2>once
-<div n="lb"/>{@ONCE:@}¦ <div n="I">I One time: </div><div n="1">(1) {#सकृत्,#} <div n="xe">{%even o.:%}</div> <div n="xs">{#सकृदपि,#}</div>
-<div n="lb"/>K.; </div><div n="1">(2) {#एकवारम्,#} {%o. and again:%} </div><div n="1">(1) {#असकृत्;#}</div>
-<div n="lb"/><div n="1">(2) {#वारं वारम्;#} </div><div n="1">(3) {#मुहुः।#} </div><div n="I">II At one time: {#कदा-#}
-<div n="lb"/>{#चित्।#} </div><div n="I">III Formerly: q.v.: {#पुरा।#}</div>
+{@ONCE:@}¦ <div n="I">I One time: </div><div n="1">(1) {#सकृत्,#} <div n="xe">{%even o.:%}</div> <div n="xs">{#सकृदपि,#}</div>
+K.; </div><div n="1">(2) {#एकवारम्,#} {%o. and again:%} </div><div n="1">(1) {#असकृत्;#}</div>
+<div n="1">(2) {#वारं वारम्;#} </div><div n="1">(3) {#मुहुः।#} </div><div n="I">II At one time: {#कदा-#}
+{#चित्।#} </div><div n="I">III Formerly: q.v.: {#पुरा।#}</div>
 <LEND>

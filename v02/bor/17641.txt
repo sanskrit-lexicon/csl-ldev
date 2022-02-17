@@ -1,5 +1,5 @@
 <L>17641<pc>539<k1>preliminary<k2>preliminary
-<div n="lb"/>{@PRELIMINARY:@}¦ <div n="xe">{%p. Investigation:%}</div> <div n="xs">{#प्रथममनुसन्धानम्;#}</div>
-<div n="lb"/>(?); <div n="xe">{%p. observation:%}</div> <div n="xs">{#मौखिकमनुशासनम्;#}</div> <div n="xe">{%p.s of%}
-<div n="lb"/>{%peace:%}</div> <div n="xs">{#प्रशमस्य पूर्वकार्याणि#}</div> (?).
+{@PRELIMINARY:@}¦ <div n="xe">{%p. Investigation:%}</div> <div n="xs">{#प्रथममनुसन्धानम्;#}</div>
+(?); <div n="xe">{%p. observation:%}</div> <div n="xs">{#मौखिकमनुशासनम्;#}</div> <div n="xe">{%p.s of%}
+{%peace:%}</div> <div n="xs">{#प्रशमस्य पूर्वकार्याणि#}</div> (?).
 <LEND>

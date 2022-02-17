@@ -1,9 +1,9 @@
 <L>3611<pc>077-b<k1>capacity<k2>capacity
-<div n="lb"/>CAPACITY¦, {%s.%} (Size) {#परिमाणं#}. — (Power of holding) {#धारणशक्तिः#} {%f.,%}
-<div n="lb"/>{#कोष्ठः#}. — (Room) {#प्रसरः, विस्तृतिः#} {%f.,%} {#विस्तारः#}. — (Power of the
-<div n="lb"/>mind) {#धीशक्तिः#} {%f.,%} {#बुद्धिपात्रता#}. — (Power, ability, fitness) {#शक्तिः#} {%f.,%}
-<div n="lb"/>{#सामर्थ्यं, बलं, योग्यता, उपयुक्तता, उपयोगित्वं, पात्रता;#} ‘according
-<div n="lb"/>to one's capacity,’ {#यथाशक्ति, यथासामर्थ्यं, यथाबलं;#} ‘beyond
-<div n="lb"/>one's capacity,’ {#अतिशक्ति#}. — (State, profession) {#भावः, दशा,#}
-<div n="lb"/>{#अवस्था, वृत्तिः#} {%f.%}
+CAPACITY¦, {%s.%} (Size) {#परिमाणं#}. — (Power of holding) {#धारणशक्तिः#} {%f.,%}
+{#कोष्ठः#}. — (Room) {#प्रसरः, विस्तृतिः#} {%f.,%} {#विस्तारः#}. — (Power of the
+mind) {#धीशक्तिः#} {%f.,%} {#बुद्धिपात्रता#}. — (Power, ability, fitness) {#शक्तिः#} {%f.,%}
+{#सामर्थ्यं, बलं, योग्यता, उपयुक्तता, उपयोगित्वं, पात्रता;#} ‘according
+to one's capacity,’ {#यथाशक्ति, यथासामर्थ्यं, यथाबलं;#} ‘beyond
+one's capacity,’ {#अतिशक्ति#}. — (State, profession) {#भावः, दशा,#}
+{#अवस्था, वृत्तिः#} {%f.%}
 <LEND>

@@ -1,5 +1,5 @@
 <L>8093<pc>256<k1>exorable<k2>exorable
-<div n="lb"/>{@EXORABLE:@}¦ <div n="1">(1) {#अनुनेयः#} ({#या, यं#}); </div><div n="1">(2) {#प्रसादनीयः#}
-<div n="lb"/>({#या, यं#}); </div><div n="1">(3) or by circumlo., <div n="xe">{%he is e.:%}</div> <div n="xs">{#स #}
-<div n="lb"/>{# अनुनयं गृह्णाति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रसादयितुं शक्यः।#}</div></div>
+{@EXORABLE:@}¦ <div n="1">(1) {#अनुनेयः#} ({#या, यं#}); </div><div n="1">(2) {#प्रसादनीयः#}
+({#या, यं#}); </div><div n="1">(3) or by circumlo., <div n="xe">{%he is e.:%}</div> <div n="xs">{#स #}
+{# अनुनयं गृह्णाति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#प्रसादयितुं शक्यः।#}</div></div>
 <LEND>

@@ -1,3 +1,3 @@
 <L>7374<pc>233<k1>ellipse<k2>ellipse
-<div n="lb"/>{@ELLIPSE:@}¦ {#*अण्डवृत्तम्#} <div n="xe">{%or%}</div> <div n="xs">{#उपवृत्तम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उपमण्डलम्।#}</div>
+{@ELLIPSE:@}¦ {#*अण्डवृत्तम्#} <div n="xe">{%or%}</div> <div n="xs">{#उपवृत्तम्#}</div> <div n="xe">{%or%}</div> <div n="xs">{#उपमण्डलम्।#}</div>
 <LEND>

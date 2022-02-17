@@ -15,7 +15,7 @@
 <ls>MED.</ls> 
 <ls>HĀR. 151.</ls> 
 <ls>LIA. I, 159. fgg.</ls> 
-<ls>MBH. 2, 372. 3, 8164. 12910. 14232. 13, 7648.</ls> 
+<ls>MBH. 2, 372.</ls> <ls n="MBH.">3, 8164.</ls> <ls n="MBH. 3,">12910.</ls> <ls n="MBH. 3,">14232.</ls> <ls n="MBH.">13, 7648.</ls> 
 <ls>HARIV. 12825.</ls> 
 <ls>R. 4, 41, 21. 25.</ls> 
 <ls>RAGH. 4, 45.</ls> 
@@ -23,6 +23,6 @@
 <ls>RĀJA-TAR. 4, 155.</ls> 
 <ls>KĀD.</ls> in <ls>Z. d. d. m. G. 7, 583.</ls> <ls>VP. 182.</ls> <ls>BHĀG. P. 5, 19, 18. 7, 13, 12.</ls> Nach der Legende eine Tochter <is>Yuvanāśva's</is> und Gemahlin <is>Jahnu's</is>, in Folge eines Fluchs des Vaters aus der Hälfte der <is>Gaṅgā</is> (daher auch {#अर्धगङ्गा, अर्धजाह्नवी#} genannt) in einen Fluss umgewandelt, 
 <ls>HARIV. 1421. fg.</ls> 
-<ls>1761. fg.</ls> {#कावेरीपुरघट्ट#} 
+<ls n="HARIV.">1761. fg.</ls> {#कावेरीपुरघट्ट#} 
 <ls>LIA. I, 160.</ls>
 <LEND>

@@ -1,6 +1,6 @@
 <L>9106<pc>288<k1>fondness<k2>fondness
-<div n="lb"/>{@FONDNESS:@}¦ <div n="I">I Affection: </div><div n="1">(1) {#अनुरागः;#} </div><div n="1">(2)
-<div n="lb"/>{#अनुरक्तिः;#} </div><div n="1">(3) {#रागः#} (rare), D. </div><div n="I">II Likeness:
-<div n="lb"/>{#प्रियता#} in comp., <div n="xe">{%f. of wine:%}</div> <div n="xs">{#मद्यप्रियता।#}</div> </div><div n="I">III
-<div n="lb"/>Foolishness: q.v.</div>
+{@FONDNESS:@}¦ <div n="I">I Affection: </div><div n="1">(1) {#अनुरागः;#} </div><div n="1">(2)
+{#अनुरक्तिः;#} </div><div n="1">(3) {#रागः#} (rare), D. </div><div n="I">II Likeness:
+{#प्रियता#} in comp., <div n="xe">{%f. of wine:%}</div> <div n="xs">{#मद्यप्रियता।#}</div> </div><div n="I">III
+Foolishness: q.v.</div>
 <LEND>

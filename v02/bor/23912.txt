@@ -1,8 +1,8 @@
 <L>23912<pc>748<k1>virtuous<k2>virtuous
-<div n="lb"/>{@VIRTUOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#धार्मिक#} (f. {#की#});</div>
-<div n="lb"/><div n="1">(2) {#कर्मशील#} (f. {#ला#}); </div><div n="1">(3) {#साधु#} (f. also {#ध्वी#} =
-<div n="lb"/>good); </div><div n="1">(4) {#पुण्यात्मन्#} (mfn.); etc. Ph.: <div n="xe">{%a%}
-<div n="lb"/>{%v. woman:%}</div> <div n="xs">{#सती:#}</div> v. Chaste. </div><div n="I">II Of acts
-<div n="lb"/>etc.: </div><div n="1">(1) {#धर्म्य#} (f. {#र्म्या#}); </div><div n="1">(2) {#पुण्य#} (f. {#ण्या#});</div>
-<div n="lb"/><div n="1">(3) {#साधु#} (f. also {#ध्वी#}); etc.</div>
+{@VIRTUOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#धार्मिक#} (f. {#की#});</div>
+<div n="1">(2) {#कर्मशील#} (f. {#ला#}); </div><div n="1">(3) {#साधु#} (f. also {#ध्वी#} =
+good); </div><div n="1">(4) {#पुण्यात्मन्#} (mfn.); etc. Ph.: <div n="xe">{%a%}
+{%v. woman:%}</div> <div n="xs">{#सती:#}</div> v. Chaste. </div><div n="I">II Of acts
+etc.: </div><div n="1">(1) {#धर्म्य#} (f. {#र्म्या#}); </div><div n="1">(2) {#पुण्य#} (f. {#ण्या#});</div>
+<div n="1">(3) {#साधु#} (f. also {#ध्वी#}); etc.</div>
 <LEND>

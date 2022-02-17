@@ -24,8 +24,8 @@
 <ls>BHĀG. P. 7, 10, 17.</ls> {#लोकपावनी (नदी)#} 
 <ls>MBH. 3, 8127.</ls> 
 <ls>R. 1, 36, 17. 42, 19.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 37, 12. 18.</ls> {#सर्व°#} 
+
+<ls>R. GORR. 1, 37, 12. 18.</ls> {#सर्व°#} 
 <ls>MBH. 13, 1027.</ls> {#विश्व°#} 
 <ls>BHĀG. P. 8, 20, 18.</ls> 
 <ls>MĀRK. P. 56, 2.</ls> {#त्रिभुवनपावना#} (v. l. richtig {#°पावनी) वाराणसी#} 
@@ -68,7 +68,7 @@
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%das Reinigen, Läutern, Heiligen%}: {#सा (निष्कृतिः) तेषां पावनाय स्यात्#} 
 <ls>M. 11, 85.</ls> 
-<ls>MBH. 1, 7819. 2, 1146. 5, 263.</ls> 
+<ls>MBH. 1, 7819.</ls> <ls n="MBH.">2, 1146.</ls> <ls n="MBH.">5, 263.</ls> 
 <ls>R. 1, 60, 24. 6, 103, 13.</ls> 
 <ls>KUMĀRAS. 6, 61.</ls> 
 <ls>RAGH. ed. Calc. 1, 35.</ls> <ls>KATHĀS. 49, 23.</ls> <ls>BHĀG. P. 4, 30, 37.</ls> <ls>ŚATR. 10, 5.</ls> {#तत्पावनाय#} {%um diese Schuld zu reinigen%} 

@@ -6,7 +6,7 @@
 <ls>TRIK. 3, 3, 169.</ls> = {#निपातन#} 
 <ls>MED. t. 32.</ls> 
 <div n="1"> 1) {%Flug, Flugart%}: {#शतमेकं च पातानां पतितास्मि#} 
-<ls>MBH. 8, 1898. 1905. 1907.</ls> {#वडवे इव संयुक्ते श्येनपाते#} 
+<ls>MBH. 8, 1898.</ls> <ls n="MBH. 8,">1905.</ls> <ls n="MBH. 8,">1907.</ls> {#वडवे इव संयुक्ते श्येनपाते#} 
 <ls>3, 10646.</ls> 
 <div n="1">— 2) {%das Sichstürzen in%}: {#वरं वह्नौ पातः#} 
 <ls>BHARTṚ. 2, 77.</ls> {#यावन्मुमूर्षुः पातेन व्यवहार्यस्ति सो ऽम्बुधुए#} (lies {#ऽम्बुधौ#}) 
@@ -19,7 +19,7 @@
 <ls>VARĀH. BṚH. S. 27,c,13.</ls> {#कपर्दानाम्#} (beim Spiele) 
 <ls>P. 2, 1, 10,</ls> 
 <ls>Sch.</ls> {#उत्तमास्त्रं महापातम्#} 
-<ls>HARIV. 6901. 6908.</ls> {#वेधः पातश्च लक्ष्येषु योगश्चैव तवार्जुन#} {%Wurf%} 
+<ls>HARIV. 6901.</ls> <ls n="HARIV.">6908.</ls> {#वेधः पातश्च लक्ष्येषु योगश्चैव तवार्जुन#} {%Wurf%} 
 <ls>MBH. 8, 3615.</ls> {#पाताय नरकार्णवे#} 
 <ls>KATHĀS. 49, 55.</ls> {#गर्भस्य#} {%Abgang des Fötus%} (vgl. {#गर्भपात#}) 
 <ls>SUŚR. 1, 279, 1.</ls> {#करनिहितकन्दुकसमाः पातोत्पाता मनुष्याणाम्#} 
@@ -58,12 +58,12 @@
 <ls>RAGH. 11, 36.</ls> {#खङ्ग°#} {%das Niederfallen des Säbels, Säbelhieb%} 
 <ls>KATHĀS. 27, 50.</ls> {#शलाकानखपातैः#} 
 <ls>MBH. 3, 353.</ls> 
-<ls>HARIV. 4719. 13868.</ls> {#कटाक्ष°#} {%Seitenblick%} 
+<ls>HARIV. 4719.</ls> <ls n="HARIV.">13868.</ls> {#कटाक्ष°#} {%Seitenblick%} 
 <ls>MBH. 2, 2238.</ls> {#दृष्टि°#} (s. auch bes.) 
 <ls>RAGH. 13, 18.</ls> {#लोचन° (लोचनापात#} dem Versmaass entsprechender 
 <ls>KATHĀS. 4, 41).</ls> <ls>UPAK. 39.</ls> {#शरीर°#} {%der Fall —, der Untergang des Körpers%} 
 <ls>KUMĀRAS. 3, 44.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 227. 230. GAUḌAP. zu SĀṂKHYAK. 67.</ls> {#देह°#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 227. 230.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 67.</ls> {#देह°#} 
 <ls>KATHĀS. 49, 96.</ls> das einfache {#पात#} in ders. Bed. 
 <ls>WIND.</ls> <is>Sancara</is> 
 <ls>122.</ls> {#आत्म°#} {%der Fall%} so v. a. {%die Wiederkehr der Seele%} 
@@ -85,7 +85,7 @@
 <ls>ŚUK.</ls> in <ls>LA. 43, 8.</ls> 
 <div n="1">— 5) {%Fall%} so v. a. {%das Eintreten, Erscheinen%}: {#अकाण्डपातोपनता कं न लक्ष्मीर्विमोहयेत्#} 
 <ls>KATHĀS. 5, 2.</ls> {#अकाण्डपातजातानाम् - शोकप्रहाराणाम्#} 
-<ls>Spr. 5</ls> <ls>?(= PRAB. 94.) DAŚAR. 1, 56.</ls> 
+<ls>Spr. 5</ls> (= <ls>PRAB. 94.)</ls> <ls>DAŚAR. 1, 56.</ls> 
 <div n="1">— 6) {%Fehler, Versehen%} 
 <ls>SŪRYAS. 11, 4.</ls> 
 <div n="1">— 7) in der Astrol. {%ein schlimmer Aspect%} 

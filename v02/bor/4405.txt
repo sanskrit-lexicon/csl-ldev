@@ -1,10 +1,10 @@
 <L>4405<pc>143<k1>confound<k2>confound
-<div n="lb"/>{@CONFOUND:@}¦ <div n="I">I To mix and confuse: expr.
-<div n="lb"/>by {#मन्यते#} ({#मन्,#} c. 4), <div n="xe">{%c. s ignorance of distinc-%}
-<div n="lb"/>{%tion as impartiality:%}</div> <div n="xs">{#अविशेषज्ञतापक्षपातित्वमिति #}
-<div n="lb"/>{# मन्यते,#}</div> Ph.: {%c. ing,%} (lit. coupling) <div n="xe">{%truth and%}
-<div n="lb"/>{%falsehood:%}</div> <div n="xs">{#सत्यानृते मिथुनीकृत्य,#}</div> S. </div><div n="I">II To per-
-<div n="lb"/>-plex: q. v.: {#आकुलीकरोति#} ({#कृ,#} c. 8.). Ph.: {%being%}
-<div n="lb"/><div n="xe">{%c. ed:%}</div> <div n="xs">{#ससम्भ्रमम्,#}</div> <ls>V.</ls> </div><div n="I">III. To ruin: q. v.:
-<div n="lb"/>{#उच्छिनति#} ({#छिद्,#} c. 7).</div>
+{@CONFOUND:@}¦ <div n="I">I To mix and confuse: expr.
+by {#मन्यते#} ({#मन्,#} c. 4), <div n="xe">{%c. s ignorance of distinc-%}
+{%tion as impartiality:%}</div> <div n="xs">{#अविशेषज्ञतापक्षपातित्वमिति #}
+{# मन्यते,#}</div> Ph.: {%c. ing,%} (lit. coupling) <div n="xe">{%truth and%}
+{%falsehood:%}</div> <div n="xs">{#सत्यानृते मिथुनीकृत्य,#}</div> S. </div><div n="I">II To per-
+-plex: q. v.: {#आकुलीकरोति#} ({#कृ,#} c. 8.). Ph.: {%being%}
+<div n="xe">{%c. ed:%}</div> <div n="xs">{#ससम्भ्रमम्,#}</div> <ls>V.</ls> </div><div n="I">III. To ruin: q. v.:
+{#उच्छिनति#} ({#छिद्,#} c. 7).</div>
 <LEND>

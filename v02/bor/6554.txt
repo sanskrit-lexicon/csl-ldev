@@ -1,7 +1,7 @@
 <L>6554<pc>210<k1>disseminate<k2>disseminate
-<div n="lb"/>{@DISSEMINATE:@}¦ <div n="I">I To disperse: {#प्रकिरति#} ({#कॄ,#} c.
-<div n="lb"/>6.), <div n="xe">{%seeds d. d on the ground:%}</div> <div n="xs">{#बीजानि प्रकीर्णानि #}
-<div n="lb"/>{# महीतले,#}</div> Vri. </div><div n="I">II To spread: {#प्रसर्पति#} ({#सृप्,#} c.
-<div n="lb"/>1.), <div n="xe">{%the rumour d. d in every direction:%}</div> <div n="xs">{#प्रतिदिशं #}
-<div n="lb"/>{# लोकवादः प्रासर्पत्,#}</div> D.</div>
+{@DISSEMINATE:@}¦ <div n="I">I To disperse: {#प्रकिरति#} ({#कॄ,#} c.
+6.), <div n="xe">{%seeds d. d on the ground:%}</div> <div n="xs">{#बीजानि प्रकीर्णानि #}
+{# महीतले,#}</div> Vri. </div><div n="I">II To spread: {#प्रसर्पति#} ({#सृप्,#} c.
+1.), <div n="xe">{%the rumour d. d in every direction:%}</div> <div n="xs">{#प्रतिदिशं #}
+{# लोकवादः प्रासर्पत्,#}</div> D.</div>
 <LEND>

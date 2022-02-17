@@ -1,11 +1,11 @@
 <L>20171<pc>628<k1>separate<k2>separate
-<div n="lb"/>{@SEPARATE@}¦ (v. t.): <div n="1">(1) {#पृथक्करोति#} ({#कृ,#} c. 8.),
-<div n="lb"/><div n="xe">{%s. d the rice from the husk:%}</div> <div n="xs">{#तुषैस्तण्डुलान् पृथक्चकार,#}</div>
-<div n="lb"/>D. vi.; </div><div n="1">(2) {#वि-योजयति#} <div n="xe">{%or%}</div> <div n="xs">{#-युंक्ते, विप्र-, विसं-,#}</div>
-<div n="lb"/>({#युज्,#} c. 10. and 7. = to disunite), <div n="xe">{%you will be%}
-<div n="lb"/>{%s. d from your darling:%}</div> <div n="xs">{#वियोक्ष्यसे वल्लभया,#}</div> N. i.
-<div n="lb"/>38.; </div><div n="1">(4) {#विश्लेषयति#} (c. of {#श्लिष्,#} = 2); </div><div n="1">(4)
-<div n="lb"/>{#विच्छिनत्ति#} ({#छिद्,#} c. 7. = to sever); </div><div n="1">(5) {#अन्त-#}
-<div n="lb"/>{#रयति#} (nomi. = to keep apart): v. Also to
-<div n="lb"/>distinguish, divide.</div>
+{@SEPARATE@}¦ (v. t.): <div n="1">(1) {#पृथक्करोति#} ({#कृ,#} c. 8.),
+<div n="xe">{%s. d the rice from the husk:%}</div> <div n="xs">{#तुषैस्तण्डुलान् पृथक्चकार,#}</div>
+D. vi.; </div><div n="1">(2) {#वि-योजयति#} <div n="xe">{%or%}</div> <div n="xs">{#-युंक्ते, विप्र-, विसं-,#}</div>
+({#युज्,#} c. 10. and 7. = to disunite), <div n="xe">{%you will be%}
+{%s. d from your darling:%}</div> <div n="xs">{#वियोक्ष्यसे वल्लभया,#}</div> N. i.
+38.; </div><div n="1">(4) {#विश्लेषयति#} (c. of {#श्लिष्,#} = 2); </div><div n="1">(4)
+{#विच्छिनत्ति#} ({#छिद्,#} c. 7. = to sever); </div><div n="1">(5) {#अन्त-#}
+{#रयति#} (nomi. = to keep apart): v. Also to
+distinguish, divide.</div>
 <LEND>

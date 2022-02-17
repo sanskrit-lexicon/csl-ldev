@@ -1,5 +1,5 @@
 <L>55234<pc>5-0338<k1>भूतपति<k2>भूतप/ति
-{#भूतप/ति#}¦ {#(भूत + प°)#} <lex>m.</lex> 
+{#भूतप/ति#}¦ ({#भूत + प°#}) <lex>m.</lex> 
 <div n="1"> 1) {%Herr der Wesen%}, namentlich {%böser Wesen%} 
 <ls>AV. 2, 14, 4.</ls> <is>Rudra</is> 
 <ls>ŚĀṄKH. ŚR. 4, 20, 1. <is>Agni</is></ls> 
@@ -7,7 +7,7 @@
 <ls>AV. 11, 2, 1. 6, 21.</ls> 
 <ls>SĀY.</ls> zu <ls>AIT. BR. 3, 33.</ls> <is>Śiva</is> 
 <ls>H. 199.</ls> 
-<ls>MBH. 3, 904. 5, 3558. 13, 6569.</ls> 
+<ls>MBH. 3, 904.</ls> <ls n="MBH.">5, 3558.</ls> <ls n="MBH.">13, 6569.</ls> 
 <ls>KUMĀRAS. 3, 43. 74.</ls> 
 <ls>MĀRK. P. 34, 100.</ls> 
 <ls>BHĀG. P. 4, 3, 7.</ls> pl. <ls>1, 2, 26. 4, 27, 11.</ls> Vgl. {#भूतस्य#} und {#भूतानां पतिः#} u. {#भूत#} 3. 

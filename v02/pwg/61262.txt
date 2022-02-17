@@ -1,6 +1,6 @@
 <L>61262<pc>5-0851<k1>मूर्छ्<k2>मूर्छ्
 {#मूर्छ्#}¦ {#(मुर्छ्), मू/र्छति#} 
-<ls>DHĀTUP. 7, 32</ls> {#(मोहसमुच्छ्राययोः)#} . 
+<ls>DHĀTUP. 7, 32</ls> ({#मोहसमुच्छ्राययोः#}) . 
 <ls>P. 8, 2, 78.</ls> {#मुमूर्छ, अमूर्छीत्, मूर्छिता#} 
 <ls>P. 8, 2, 78,</ls> 
 <ls>Sch.</ls> {#मूर्त्वा#} 
@@ -16,7 +16,7 @@
 <lang n="Old-Church-Slavonic">мразити сѧ</lang>
  ({%congelari%}),
 <lang n="greek">ῥῖγος,</lang> {%frigus.%} 
-<div n="1">— 2) {%fest werden%} so v. a. {%sich bilden, entstehen%} (aus einem weniger dichten Stoff): {#कृमयो यथात्र मूर्छन्ति मूर्छन्त्यथ मक्षिकाश्च#} {%(generatio aequivoca)%} 
+<div n="1">— 2) {%fest werden%} so v. a. {%sich bilden, entstehen%} (aus einem weniger dichten Stoff): {#कृमयो यथात्र मूर्छन्ति मूर्छन्त्यथ मक्षिकाश्च#} ({%generatio aequivoca%}) 
 <ls>SUŚR. 2, 109, 4. 373, 3.</ls> 
 <div n="1">— 3) {%ohnmächtig (starr) —, betäubt werden%} 
 <ls>DHĀTUP.</ls> <ls>SUŚR. 1, 38, 17. 100, 18. 2, 380, 1. 475, 8.</ls> <ls>GĪT. 4, 19. 11, 10.</ls> <ls>PRAB. 67, 4.</ls> <ls>ŚATR. 14, 208.</ls> {#जहौ संज्ञां महाबाहुर्मुमोह च मुमूर्छ च#} 
@@ -30,8 +30,8 @@
 [Page5-0852]
 {#पपात भुवि मूर्छितः#} 
 <ls>R. 2, 34, 17.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 66, 18.</ls> {#तासां निद्रावशत्वाच्च मूर्छितानां मदेन च#} 
+
+<ls>R. GORR. 2, 66, 18.</ls> {#तासां निद्रावशत्वाच्च मूर्छितानां मदेन च#} 
 <ls>5, 13, 62.</ls> {#विष°#} 
 <ls>SUŚR. 2, 475, 15.</ls> 
 <ls>MṚCCH. 128, 23.</ls> 
@@ -40,9 +40,9 @@
 <ls>KATHĀS. 10, 188. 28, 158. 36, 25. 67, 103.</ls> {#मूर्छितजनाघातेन किं पौरुषम्#} 
 <ls>GĪT. 3, 12.</ls> 
 <ls>BHĀG. P. 3, 30, 24. 5, 26, 15.</ls> 
-<ls>PAÑCAR. 1, 12, 9.</ls> <ls>PRAB. 47, 6.</ls> <ls>VET.</ls> in <ls>LA. (II) 6, 3.</ls> {#मूर्छितं#} (impers.) {#तस्य दारैः#} 
+<ls>PAÑCAR. 1, 12, 9.</ls> <ls>PRAB. 47, 6.</ls> <ls>VET. in LA. (II) 6, 3.</ls> {#मूर्छितं#} (impers.) {#तस्य दारैः#} 
 <ls>RĀJA-TAR. 1, 373.</ls> 
-<div n="1">— 4) {%fest werden, sich verdichten%} so v. a. {%erstarken, an Umfang gewinnen, intensiver werden, Macht bekommen, - haben%} {#(समुच्छ्राय)#} 
+<div n="1">— 4) {%fest werden, sich verdichten%} so v. a. {%erstarken, an Umfang gewinnen, intensiver werden, Macht bekommen, - haben%} ({#समुच्छ्राय#}) 
 <ls>DHĀTUP.</ls> {#स्वाभाविकं विनीतत्वं तेषां विनयकर्मणा । मुमूर्छ सहजं तेजो हविषेव हविर्भुजाम्#} 
 <ls>RAGH. 10, 80.</ls> {#तमसां निशि मूर्छताम्#} 
 <ls>VIKR. 48.</ls> 
@@ -57,26 +57,26 @@
 <ls>ŚĀK. 191.</ls> {#मूर्छित#} {%dicht, mächtig, stark, intensiv (geworden%}), = {#सोछ्रय#} 
 <ls>AK. 3, 4, 14, 85.</ls> 
 <ls>H. an.</ls> 
-<ls>MED.</ls> {#यदिदं भारतं वर्षं यत्रेदं मूर्छितं बलम्#} {%(Heer)%} 
+<ls>MED.</ls> {#यदिदं भारतं वर्षं यत्रेदं मूर्छितं बलम्#} ({%Heer%}) 
 <ls>MBH. 6, 309.</ls> {#कदम्बाः - संततासारमूर्छिताः#} 
 <ls>HARIV. 4585.</ls> {#पाथैः प्रासैश्च (प्रासैः पाशैश्च#} die neuere Ausg.) {#मूर्छितैः#} 
-<ls>2656.</ls> {#पयोधिरिन्दूदयमूर्छितो यथा#} {%mächtig angeschwollen%} 
+<ls n="HARIV.">2656.</ls> {#पयोधिरिन्दूदयमूर्छितो यथा#} {%mächtig angeschwollen%} 
 <ls>SĀH. D. 72, 11.</ls> {#कालाग्निरिव मूर्छितः#} 
 <ls>R. 6, 75, 4.</ls> {#तन्नादं दिक्षु मूर्छितम्#} so v. a. {%kräftig ertönend%} 
 <ls>KATHĀS. 60, 21.</ls> {#न मूर्छितः कटुकान्याह#} so v. a. {%aufgeregt%} (nicht {%wenn er unterliegt)%} 
 <ls>Spr. 4907.</ls> {#क्रोध°#} so v. a. {%voller Zorn, von Zorn erfüllt%} (vgl. {%avoir le coeur gros de%} —) 
-<ls>MBH. 3, 1864. 5, 7243</ls> (=  {#वृद्धिं गतः#} 
-<ls>Schol.</ls><ls>?). HARIV. 4734. R. 1, 1, 48. 60, 21. 2, 98, 1. 6, 75, 10.</ls> {#शोक°#} 
+<ls>MBH. 3, 1864.</ls> <ls n="MBH.">5, 7243</ls> (= {#वृद्धिं गतः#} 
+Schol.). <ls>HARIV. 4734.</ls> <ls>R. 1, 1, 48. 60, 21. 2, 98, 1. 6, 75, 10.</ls> {#शोक°#} 
 <ls>DAŚ. 2, 20.</ls> 
 <ls>HIT. 123, 18</ls> {#(शोकेन मूर्छितः#} ed. 
-<ls>JOHNS. 2622).</ls> <ls>BHAṬṬ. 6, 23</ls> (=  {#मोहं नीतः#} Schol.). Am Ende eines comp. überh. {%verstärkt durch, erfüllt von, vereinigt mit%}: {#त्रिफला - त्रिभागघृतमूर्छिता#} {%versetzt mit%} 
+<ls>JOHNS. 2622).</ls> <ls>BHAṬṬ. 6, 23</ls> (= {#मोहं नीतः#} Schol.). Am Ende eines comp. überh. {%verstärkt durch, erfüllt von, vereinigt mit%}: {#त्रिफला - त्रिभागघृतमूर्छिता#} {%versetzt mit%} 
 <ls>SUŚR. 1, 167, 7.</ls> {#सहकारकुसुमकेसरनिकरभरामोदमूर्छितदिगन्त#} 
 <ls>Spr. 3224.</ls> 
 <div n="1">— 5) {%betäuben%} 
 <ls>KAURAP. 34</ls>, wo mit 
 <ls>SCHÜTZ</ls> {#ध्वाने ऽपि मूर्छती#} zu lesen ist. 
 <div n="1">— 6) {%kräftig ertönen lassen%}: {#वीणेव मधुरालापा गान्धारं साधु मूर्छती (= मूर्छयन्ती#} 
-<ls>Schol.</ls><ls>?). MBH. 4, 515.</ls> {#मूर्छित#} <lex>n.</lex> Bez. {%einer Art von Gesang%}: {#कलपदायत°#} 
+<ls>Schol.</ls>). <ls>MBH. 4, 515.</ls> {#मूर्छित#} <lex>n.</lex> Bez. {%einer Art von Gesang%}: {#कलपदायत°#} 
 <ls>BHĀG. P. 2, 7, 33.</ls> {#मूर्छितमालापविशेषयुक्तं गीतम्#} Schol. — {#मूर्छित#} 
 <ls>KĀM. NĪTIS.</ls> wohl fehlerhaft für {#मुद्रित#}, wie die v.l. hat.
 

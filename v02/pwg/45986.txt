@@ -11,7 +11,7 @@
 <ls>AV. 8, 8, 1.</ls> 
 <ls>INDR. 3, 2.</ls> 
 <ls>ARJ. 2, 6.</ls> 
-<ls>HARIV. 3793. 7210. 12490.</ls> 
+<ls>HARIV. 3793.</ls> <ls n="HARIV.">7210.</ls> <ls n="HARIV.">12490.</ls> 
 <ls>R. 1, 45, 50. 2, 41, 18.</ls> 
 <ls>RAGH. 2, 74. 3, 23. 51. 12, 84.</ls> 
 <ls>Spr. 514.</ls> 

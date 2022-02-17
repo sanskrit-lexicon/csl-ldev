@@ -1,5 +1,5 @@
 <L>21113<pc>665<k1>speaker<k2>speaker
-<div n="lb"/>{@SPEAKER:@}¦ <div n="1">(1) {#वक्तृ#} (f. {#क्त्री#}), <div n="xe">{%indifferent to%}
-<div n="lb"/>{%particular s. s:%}</div> <div n="xs">{#वक्तृविशेषनिःस्पृहाः,#}</div> Ki. ii. 5.; </div><div n="1">(2)
-<div n="lb"/>{#वाग्मिन्#} (f. {#नी#} =orator).</div>
+{@SPEAKER:@}¦ <div n="1">(1) {#वक्तृ#} (f. {#क्त्री#}), <div n="xe">{%indifferent to%}
+{%particular s. s:%}</div> <div n="xs">{#वक्तृविशेषनिःस्पृहाः,#}</div> Ki. ii. 5.; </div><div n="1">(2)
+{#वाग्मिन्#} (f. {#नी#} =orator).</div>
 <LEND>

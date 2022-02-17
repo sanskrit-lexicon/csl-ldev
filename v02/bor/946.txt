@@ -1,5 +1,5 @@
 <L>946<pc>033<k1>apple<k2>apple
-<div n="lb"/>{@APPLE:@}¦ <div n="I">I A tree: {#*आतावृक्षः।#} </div><div n="I">II Its fruits:
-<div n="lb"/>{#आताफलम्।#} </div><div n="I">III Of the eye: {#तारा:#} v.
-<div n="lb"/>Pupil.</div>
+{@APPLE:@}¦ <div n="I">I A tree: {#*आतावृक्षः।#} </div><div n="I">II Its fruits:
+{#आताफलम्।#} </div><div n="I">III Of the eye: {#तारा:#} v.
+Pupil.</div>
 <LEND>

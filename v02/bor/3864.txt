@@ -1,10 +1,10 @@
 <L>3864<pc>126<k1>clothe<k2>clothe
-<div n="lb"/>{@CLOTHE@}¦ (v.): <div n="I">I To put on c. s: <div n="xe">{%c. ing her-%}
-<div n="lb"/>{%self:%}</div> <div n="xs">{#गृहीतवस्त्रा,#}</div> Ku.; <div n="xe">{%c. ing himself:%}</div> <div n="xs">{#परिधाय #}
-<div n="lb"/>{# वाससी,#}</div> K.: v. To put on clothes. </div><div n="I">II To
-<div n="lb"/>invest with raiment: {#वस्त्रं#} etc. {#परिधापयति#} (c.
-<div n="lb"/>of {#धा#}) <div n="xe">{%or%}</div> <div n="xs">{#वासयति#}</div> (c. of {#वस्#}). </div><div n="I">III To pro-
-<div n="lb"/>-vide with c. s: {%but should feed and c. her:%}
-<div n="lb"/>{#ग्रासाच्छादनन्तु देयमेव,#} K. b. </div><div n="I">IV To cover or
-<div n="lb"/>invest: q. v.</div>
+{@CLOTHE@}¦ (v.): <div n="I">I To put on c. s: <div n="xe">{%c. ing her-%}
+{%self:%}</div> <div n="xs">{#गृहीतवस्त्रा,#}</div> Ku.; <div n="xe">{%c. ing himself:%}</div> <div n="xs">{#परिधाय #}
+{# वाससी,#}</div> K.: v. To put on clothes. </div><div n="I">II To
+invest with raiment: {#वस्त्रं#} etc. {#परिधापयति#} (c.
+of {#धा#}) <div n="xe">{%or%}</div> <div n="xs">{#वासयति#}</div> (c. of {#वस्#}). </div><div n="I">III To pro-
+-vide with c. s: {%but should feed and c. her:%}
+{#ग्रासाच्छादनन्तु देयमेव,#} K. b. </div><div n="I">IV To cover or
+invest: q. v.</div>
 <LEND>

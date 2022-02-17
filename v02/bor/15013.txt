@@ -1,11 +1,11 @@
 <L>15013<pc>459<k1>motion<k2>motion
-<div n="lb"/>{@MOTION@}¦ (subs.): <div n="I">I Movement: q. v.: {#गतिः,#}
-<div n="lb"/><div n="xe">{%eastward m.:%}</div> <div n="xs">{#पूर्वगतिः,#}</div> Gan.; {%apparent m.:%}
-<div n="lb"/>{#स्फुटगतिः,#} com.; {%mean%} ({%daily%}) {%m. of the moon:%}
-<div n="lb"/>{#चन्द्रस्य#} ({#दैनिकी#}) {#मध्यमगतिः#} Su. com. <div n="xe">{%To be in%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#चलति:#}</div> v. To move.: {%to set in m.:%}
-<div n="lb"/>{#चालयति#} (c. of {#चल्#}). </div><div n="I">II Impulse: q. v.:
-<div n="lb"/>Ph.: <div n="xe">{%of one's own m.:%}</div> <div n="xs">{#स्वेच्छया।#}</div> </div><div n="I">III Feeling:
-<div n="lb"/>{#भावः।#} </div><div n="I">IV Proposal: {#प्रस्तावः।#} (?), <div n="xe">{%to second a%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#प्रस्तावनाम् अनुमोदते।#}</div></div>
+{@MOTION@}¦ (subs.): <div n="I">I Movement: q. v.: {#गतिः,#}
+<div n="xe">{%eastward m.:%}</div> <div n="xs">{#पूर्वगतिः,#}</div> Gan.; {%apparent m.:%}
+{#स्फुटगतिः,#} com.; {%mean%} ({%daily%}) {%m. of the moon:%}
+{#चन्द्रस्य#} ({#दैनिकी#}) {#मध्यमगतिः#} Su. com. <div n="xe">{%To be in%}
+{%m.:%}</div> <div n="xs">{#चलति:#}</div> v. To move.: {%to set in m.:%}
+{#चालयति#} (c. of {#चल्#}). </div><div n="I">II Impulse: q. v.:
+Ph.: <div n="xe">{%of one's own m.:%}</div> <div n="xs">{#स्वेच्छया।#}</div> </div><div n="I">III Feeling:
+{#भावः।#} </div><div n="I">IV Proposal: {#प्रस्तावः।#} (?), <div n="xe">{%to second a%}
+{%m.:%}</div> <div n="xs">{#प्रस्तावनाम् अनुमोदते।#}</div></div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>7517<pc>237<k1>enamour<k2>enamour
-<div n="lb"/>{@ENAMOUR:@}¦ Ph.: <div n="xe">{%he is e. ed of her:%}</div> <div n="xs">{#अयमस्यामासक्त-#}
-<div n="lb"/>{#भावः,#}</div> D.; <div n="xe">{%I am e. ed of these books:%}</div> <div n="xs">{#*एतेषु पुस्त-#}
-<div n="lb"/>{#केषु बद्धभावोऽस्मि।#}</div>
+{@ENAMOUR:@}¦ Ph.: <div n="xe">{%he is e. ed of her:%}</div> <div n="xs">{#अयमस्यामासक्त-#}
+{#भावः,#}</div> D.; <div n="xe">{%I am e. ed of these books:%}</div> <div n="xs">{#*एतेषु पुस्त-#}
+{#केषु बद्धभावोऽस्मि।#}</div>
 <LEND>

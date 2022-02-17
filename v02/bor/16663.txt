@@ -1,5 +1,5 @@
 <L>16663<pc>511<k1>pedestrian<k2>pedestrian
-<div n="lb"/>{@PEDESTRIAN:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#पादचारिन्#} (f. {#णी#});</div>
-<div n="lb"/><div n="1">(2) {#पदग#} (f. {#गा#}); </div><div n="1">(3) {#पदाति#} (mfn.); etc.</div>
-<div n="lb"/><div n="I">II Adj.: by comp.</div>
+{@PEDESTRIAN:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#पादचारिन्#} (f. {#णी#});</div>
+<div n="1">(2) {#पदग#} (f. {#गा#}); </div><div n="1">(3) {#पदाति#} (mfn.); etc.</div>
+<div n="I">II Adj.: by comp.</div>
 <LEND>

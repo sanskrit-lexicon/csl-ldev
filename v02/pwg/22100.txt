@@ -7,7 +7,7 @@
 <ls>AIT. BR. 2, 8. 3, 34.</ls> 
 <ls>ŚAT. BR. 1, 2, 3, 9.</ls> 
 <ls>ŚĀṄKH. ŚR. 16, 3, 14. 12, 13.</ls> 
-<ls>MBH. 3, 11028. 13, 4246.</ls> 
+<ls>MBH. 3, 11028.</ls> <ls n="MBH.">13, 4246.</ls> 
 <ls>DRAUP. 4, 15.</ls> 
 <ls>R. 2, 103, 41.</ls> 
 <ls>PAÑCAT. 53, 20.</ls> 
@@ -15,7 +15,7 @@
 <ls>ṚT. 1, 23.</ls> 
 <ls>BHĀG. P. 3, 10, 20. 21, 44. 8, 10, 10.</ls> {#गवयी/#} <lex>f.</lex> {%das Weibchen%} 
 <ls>P. 4, 1, 63, <is>Vārtt</is>. 2.</ls> <is>gaṇa</is> {#गौरादि#} zu 
-<ls>41.</ls> <ls>RĀJAN.</ls> (=  {#भिल्लगवी#}) im 
+<ls>41.</ls> <ls>RĀJAN.</ls> (= {#भिल्लगवी#}) im 
 <ls>ŚKDR.</ls> <ls>VS. 24, 30.</ls> Vgl. {#गोमृग#} . 
 <div n="1">— 2) N. pr. eines Affen im Gefolge von <is>Rāma</is> 
 <ls>MBH. 3, 16271.</ls> 

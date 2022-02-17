@@ -1,5 +1,5 @@
 <L>24527<pc>769<k1>wrinkled<k2>wrinkled
-<div n="lb"/>{@WRINKLED:@}¦ <div n="1">(1) {#बलितः#} ({#ता, तं#}), <div n="xe">{%eyes with%}
-<div n="lb"/>{%w. edges:%}</div> <div n="xs">{#बलितापाङ्गलोचनः,#}</div> Ki. xi. 4.; </div><div n="1">(2)
-<div n="lb"/>{#बलिमत्#} (f. {#ती#}); </div><div n="1">(3) {#बलिभः#} ({#भा, भं#}).</div>
+{@WRINKLED:@}¦ <div n="1">(1) {#बलितः#} ({#ता, तं#}), <div n="xe">{%eyes with%}
+{%w. edges:%}</div> <div n="xs">{#बलितापाङ्गलोचनः,#}</div> Ki. xi. 4.; </div><div n="1">(2)
+{#बलिमत्#} (f. {#ती#}); </div><div n="1">(3) {#बलिभः#} ({#भा, भं#}).</div>
 <LEND>

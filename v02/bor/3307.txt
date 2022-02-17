@@ -1,4 +1,4 @@
 <L>3307<pc>110<k1>celestial<k2>celestial
-<div n="lb"/>{@CELESTIAL:@}¦ {#दिव्यः#} ({#व्या, व्यं#}): v. Heavenly,
-<div n="lb"/>divine. Ph.: <div n="xe">{%c. sphere:%}</div> <div n="xs">{#खगोलः।#}</div>
+{@CELESTIAL:@}¦ {#दिव्यः#} ({#व्या, व्यं#}): v. Heavenly,
+divine. Ph.: <div n="xe">{%c. sphere:%}</div> <div n="xs">{#खगोलः।#}</div>
 <LEND>

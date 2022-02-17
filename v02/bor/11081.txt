@@ -1,8 +1,8 @@
 <L>11081<pc>348<k1>hold<k2>hold
-<div n="lb"/>{@HOLD@}¦ (v. i.): <div n="I">I To stand, stop: q.v.: {#निष्ठति#}
-<div n="lb"/>({#स्था,#} c. 1.). </div><div n="I">II To last, remain: q.v.:
-<div n="lb"/>{#तिष्ठति।#} </div><div n="I">II To apply: q.v.: {#लगति#} ({#लग्,#} c.
-<div n="lb"/>1.). </div><div n="I">IV To think: q.v.: {#मन्यते।#} </div><div n="I">V To
-<div n="lb"/>refrain, desist: q.v.: {#निवर्तते#} ({#वृत्,#} c. 1.).</div>
-<div n="lb"/><div n="I">VI To defend, derive: q.v.</div>
+{@HOLD@}¦ (v. i.): <div n="I">I To stand, stop: q.v.: {#निष्ठति#}
+({#स्था,#} c. 1.). </div><div n="I">II To last, remain: q.v.:
+{#तिष्ठति।#} </div><div n="I">II To apply: q.v.: {#लगति#} ({#लग्,#} c.
+1.). </div><div n="I">IV To think: q.v.: {#मन्यते।#} </div><div n="I">V To
+refrain, desist: q.v.: {#निवर्तते#} ({#वृत्,#} c. 1.).</div>
+<div n="I">VI To defend, derive: q.v.</div>
 <LEND>

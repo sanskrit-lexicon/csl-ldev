@@ -1,15 +1,15 @@
 <L>3790<pc>124<k1>clear<k2>clear
-<div n="lb"/>{@CLEAR@}¦ (v. t.): <div n="I">I To make bright: </div><div n="1">(1) {#विशदी-#}
-<div n="lb"/>{#करोति,#} <div n="xe">{%I may c. your sight:%}</div> <div n="xs">{#दृष्टिं विशदां करवाणि,#}</div>
-<div n="lb"/>Sa. iii.; </div><div n="1">(2) {#प्रसादयति#} (c. of {#सद्#}) (rare). </div><div n="I">II
-<div n="lb"/>To exculpate: {#शोधयति#} <div n="xe">{%Kṛṣṇa accepted that%}
-<div n="lb"/>{%precious gem to c. himself:%}</div> <div n="xs">{#अच्युतस्तन्मणिरत्नमात्म-#}
-<div n="lb"/>{#शोधनाय जग्राह,#}</div> V. p. </div><div n="I">III To make open:
-<div n="lb"/>{#शोधयति,#} <div n="xe">{%to c. a road:%}</div> <div n="xs">{#मार्गं शोधयति,#}</div> M. vii.
-<div n="lb"/>185.; <div n="xe">{%with c. ed back:%}</div> <div n="xs">{#शुद्धपार्ष्णिः,#}</div> R. Ph.: <div n="xe">{%c.%}
-<div n="lb"/>{%ed forests:%}</div> <div n="xs">{#विपिनानि प्रकाशानि चकार,#}</div> R. iv. 31.</div>
-<div n="lb"/><div n="I">IV Of profits: v. To gain. Ph. <div n="xe">{%to c. a%}
-<div n="lb"/>{%doubt:%}</div> <div n="xs">{#संशयं छिनत्ति,#}</div> Da.; {%to c. a debt:%}
-<div n="lb"/>{#ऋणं शोधयति,#} K. b.; {%to c.%} (i. e. to leap over) <div n="xe">{%a%}
-<div n="lb"/>{%ditch:%}</div> <div n="xs">{#परिखाम् उल्लङ्घयति।#}</div></div>
+{@CLEAR@}¦ (v. t.): <div n="I">I To make bright: </div><div n="1">(1) {#विशदी-#}
+{#करोति,#} <div n="xe">{%I may c. your sight:%}</div> <div n="xs">{#दृष्टिं विशदां करवाणि,#}</div>
+Sa. iii.; </div><div n="1">(2) {#प्रसादयति#} (c. of {#सद्#}) (rare). </div><div n="I">II
+To exculpate: {#शोधयति#} <div n="xe">{%Kṛṣṇa accepted that%}
+{%precious gem to c. himself:%}</div> <div n="xs">{#अच्युतस्तन्मणिरत्नमात्म-#}
+{#शोधनाय जग्राह,#}</div> V. p. </div><div n="I">III To make open:
+{#शोधयति,#} <div n="xe">{%to c. a road:%}</div> <div n="xs">{#मार्गं शोधयति,#}</div> M. vii.
+185.; <div n="xe">{%with c. ed back:%}</div> <div n="xs">{#शुद्धपार्ष्णिः,#}</div> R. Ph.: <div n="xe">{%c.%}
+{%ed forests:%}</div> <div n="xs">{#विपिनानि प्रकाशानि चकार,#}</div> R. iv. 31.</div>
+<div n="I">IV Of profits: v. To gain. Ph. <div n="xe">{%to c. a%}
+{%doubt:%}</div> <div n="xs">{#संशयं छिनत्ति,#}</div> Da.; {%to c. a debt:%}
+{#ऋणं शोधयति,#} K. b.; {%to c.%} (i. e. to leap over) <div n="xe">{%a%}
+{%ditch:%}</div> <div n="xs">{#परिखाम् उल्लङ्घयति।#}</div></div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>17752<pc>543<k1>pride<k2>pride
-<div n="lb"/>{@PRIDE@}¦ (subs.): <div n="I">I In good sense: </div><div n="1">(1) {#मानः, #}
-<div n="lb"/>{# अभि-;#} </div><div n="1">(2) {#मानिता।#} </div><div n="I">II In bad sense: </div><div n="1">(1)
-<div n="lb"/>{#अहङ्कारः;#} </div><div n="1">(2) {#दर्पः;#} </div><div n="1">(3) {#गर्वः#} (best equiv.),
-<div n="lb"/><div n="xe">{%whose p. used to look down on the world as%}
-<div n="lb"/>{%straw:%}</div> <div n="xs">{#तृणमिव परिभूतो यस्य गर्वेण लोकः,#}</div> Ve. v.</div>
-<div n="lb"/><div n="I">III Ornament: q. v.: {#अलङ्कारः#} <div n="xe">{%the p. of the%}
-<div n="lb"/>{%heaven:%}</div> <div n="xs">{#अलङ्कारः स्वर्गस्य#}</div> ({#सा नः प्रियसखी॥॥॥#}),
-<div n="lb"/>V. i.</div>
+{@PRIDE@}¦ (subs.): <div n="I">I In good sense: </div><div n="1">(1) {#मानः, #}
+{# अभि-;#} </div><div n="1">(2) {#मानिता।#} </div><div n="I">II In bad sense: </div><div n="1">(1)
+{#अहङ्कारः;#} </div><div n="1">(2) {#दर्पः;#} </div><div n="1">(3) {#गर्वः#} (best equiv.),
+<div n="xe">{%whose p. used to look down on the world as%}
+{%straw:%}</div> <div n="xs">{#तृणमिव परिभूतो यस्य गर्वेण लोकः,#}</div> Ve. v.</div>
+<div n="I">III Ornament: q. v.: {#अलङ्कारः#} <div n="xe">{%the p. of the%}
+{%heaven:%}</div> <div n="xs">{#अलङ्कारः स्वर्गस्य#}</div> ({#सा नः प्रियसखी॥॥॥#}),
+V. i.</div>
 <LEND>

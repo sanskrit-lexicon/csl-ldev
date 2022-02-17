@@ -1,4 +1,4 @@
 <L>3014<pc>101<k1>canvasser<k2>canvasser
-<div n="lb"/>{@CANVASSER:@}¦ <div n="I">I One who solicits votes:
-<div n="lb"/>{#*मतप्रार्थकः।#} </div><div n="I">II Examiner: q. v.: {#परीक्षकः।#}</div>
+{@CANVASSER:@}¦ <div n="I">I One who solicits votes:
+{#*मतप्रार्थकः।#} </div><div n="I">II Examiner: q. v.: {#परीक्षकः।#}</div>
 <LEND>

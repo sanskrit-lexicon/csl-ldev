@@ -1,5 +1,5 @@
 <L>21857<pc>689<k1>sulphate<k2>sulphate
-<div n="lb"/>{@SULPHATE:@}¦ <div n="1">(1) <div n="xe">{%of copper:%}</div> <div n="xs">{#तुत्थम्;#}</div> </div><div n="1">(2) <div n="xe">{%red s.%}
-<div n="lb"/>{%of iron:%}</div> <div n="xs">{#काशी(सी)शम्;#}</div> </div><div n="1">(3) {%green s. of iron.:%}
-<div n="lb"/>{#धातुशेखरः।#}</div>
+{@SULPHATE:@}¦ <div n="1">(1) <div n="xe">{%of copper:%}</div> <div n="xs">{#तुत्थम्;#}</div> </div><div n="1">(2) <div n="xe">{%red s.%}
+{%of iron:%}</div> <div n="xs">{#काशी(सी)शम्;#}</div> </div><div n="1">(3) {%green s. of iron.:%}
+{#धातुशेखरः।#}</div>
 <LEND>

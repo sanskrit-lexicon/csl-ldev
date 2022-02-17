@@ -1,4 +1,4 @@
 <L>22723<pc>717<k1>townsman<k2>townsman
-<div n="lb"/>{@TOWNSMAN, TOWNSWOMAN:@}¦ <div n="1">(1) {#नागरिक#} (f.
-<div n="lb"/>{#की#}); </div><div n="1">(2) {#पौर#} (f. {#री#}); </div><div n="1">(3) {#पौरजनः#} (f. {#वधूः#}).</div>
+{@TOWNSMAN, TOWNSWOMAN:@}¦ <div n="1">(1) {#नागरिक#} (f.
+{#की#}); </div><div n="1">(2) {#पौर#} (f. {#री#}); </div><div n="1">(3) {#पौरजनः#} (f. {#वधूः#}).</div>
 <LEND>

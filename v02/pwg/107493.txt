@@ -10,7 +10,7 @@ u.s.w. <ls>AK. 2, 6, 1, 34.</ls> <ls>H. 551.</ls> {%gleichzeitig geboren%}
 [Page7-0862]
 
 <ls>KATHĀS. 36, 95.</ls> {%angeboren%} ({%ererbt%}), {%von der Geburt —, von Anfang an daseiend%}: {#सहजं कवचं बिभ्रत्#} 
-<ls>MBH. 1, 4399. 5380. 3, 14436. 17187. 17189.</ls> {#द्रोणपुत्रस्य सहजो मणिः शिरसि मे श्रुतः#} 
+<ls>MBH. 1, 4399.</ls> <ls n="MBH. 1,">5380.</ls> <ls n="MBH.">3, 14436.</ls> <ls n="MBH. 3,">17187.</ls> <ls n="MBH. 3,">17189.</ls> {#द्रोणपुत्रस्य सहजो मणिः शिरसि मे श्रुतः#} 
 <ls>10, 593.</ls> {#पिप्लु#} 
 <ls>3, 2698.</ls> {#लक्ष्मन्#} 
 <ls>VARĀH. BṚH. 5, 27.</ls> {#अर्शांसि#} 
@@ -21,9 +21,9 @@ u.s.w. <ls>AK. 2, 6, 1, 34.</ls> <ls>H. 551.</ls> {%gleichzeitig geboren%}
 <ls>HARIV. 2857.</ls> {#धीरता#} 
 <ls>RAGH. 8, 43.</ls> {#गुणाः#} 
 <ls>MBH. 3, 1806.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 19, 27.</ls> 
-<ls>Spr. (II) 2748. 6968.</ls> {#दोष, गुण#} 
+
+<ls>R. GORR. 1, 19, 27.</ls> 
+<ls>Spr. (II) 2748.</ls> <ls n="Spr. (II)">6968.</ls> {#दोष, गुण#} 
 <ls>R. 6, 12, 11.</ls> {#बल#} 
 <ls>Spr. (II) 4395.</ls> {#लोभ#} 
 <ls>5164.</ls> {#बोध#} 
@@ -42,7 +42,7 @@ u.s.w. <ls>AK. 2, 6, 1, 34.</ls> <ls>H. 551.</ls> {%gleichzeitig geboren%}
 <ls>Spr. (II) 1269.</ls> {#वैर#} 
 <ls>PAÑCAT. 110, 15.</ls> Freund, Feind d. i. {%natürlich%} 
 <ls>MBH. 12, 2985.</ls> 
-<ls>KĀM. NĪTIS. 8, 56.</ls> <ls>R. GORR. 2, 7, 29.</ls> <ls>Spr. (II) 4073. 6102. 6658.</ls> Freund, Feind und Neutraler 
+<ls>KĀM. NĪTIS. 8, 56.</ls> <ls>R. GORR. 2, 7, 29.</ls> <ls>Spr. (II) 4073.</ls> <ls n="Spr. (II)">6102.</ls> <ls n="Spr. (II)">6658.</ls> Freund, Feind und Neutraler 
 <ls>MIT. I, 52</ls>,b. {#संयोग, परिणतिवियोग#} {%naturgemäss%} 
 <ls>Spr. (II) 5193.</ls> {#विकाराः#} Cit. beim Schol. zu 
 <ls>ŚĀK. 13, 12.</ls> die Sonne ist {#सहजभूषणं नभसः#} 
@@ -56,7 +56,7 @@ u.s.w. <ls>AK. 2, 6, 1, 34.</ls> <ls>H. 551.</ls> {%gleichzeitig geboren%}
 <ls>TRIK.</ls> <ls>H. 1376.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. verschiedener Personen 
 <ls>MBH. 5, 2732</ls> (ein Fürst der <is>Cedi</is> und <is>Matsya</is>). 
-<ls>RĀJA-TAR. 7, 675.</ls> <ls>Verz. d. Oxf. H. 101</ls>, {%b%}, 
+<ls>RĀJA-TAR. 7, 675.</ls> <ls>Verz. d. Oxf. H. 101,b,</ls> 
 <ls>13. fg.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} N. pr. verschiedener Frauen 
 <ls>RĀJA-TAR. 7, 851. 854. 8, 1934.</ls> 
@@ -64,8 +64,8 @@ u.s.w. <ls>AK. 2, 6, 1, 34.</ls> <ls>H. 551.</ls> {%gleichzeitig geboren%}
 <div n="1">— 4) <lex>n.</lex> (sc. {#स्थान#} 
 u.s.w.) 
 <div n="2"> a) Bez. {%des 3ten astrologischen Hauses%} 
-<ls>JYOTIST.</ls> im <ls>ŚKDR.</ls> <ls>VARĀH. BṚH. S. 104, 20.</ls> <ls>BṚH. 1, 19. 2, 18.</ls> <ls>LAGHUJ. 1, 15. 2, 11.</ls> <ls>Verz. d. B. H. No. 878.</ls> <ls>Verz. d. Oxf. H. 330</ls>, {%a%}, 33. fg. 331, {%a%}, 9. 334, {%a%}, 
-<ls>?44. fg. nach ŚKDR.</ls> masc. 
+<ls>JYOTIST.</ls> im <ls>ŚKDR.</ls> <ls>VARĀH. BṚH. S. 104, 20.</ls> <ls>BṚH. 1, 19. 2, 18.</ls> <ls>LAGHUJ. 1, 15. 2, 11.</ls> <ls>Verz. d. B. H. No. 878.</ls> <ls>Verz. d. Oxf. H. 330,a,33.</ls> fg. 331, {%a%}, 9. 334, {%a%}, 
+<ls>44. fg.</ls> nach <ls>ŚKDR.</ls> masc. 
 <div n="2">— b) {%eine Erlösung bei Lebzeiten%} 
 <ls>Verz. d. Oxf. H. 235,b,6. 236,a,2.</ls> — {#सहजं जात°#} 
 <ls>MBH. 12, 5151</ls> fehlerhaft für {#सहसंजात°#}, wie die ed. Bomb. liest. 

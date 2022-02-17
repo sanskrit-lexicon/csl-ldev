@@ -1,5 +1,5 @@
 <L>17098<pc>523<k1>pirate<k2>pirate
-<div n="lb"/>{@PIRATE@}¦ (v.): <div n="I">I Lit.: {#समुद्रे दस्युतां करोति।#} </div><div n="I">II
-<div n="lb"/>Fig.: {#चोरयति#} ({#चुर्,#} c. 10.), <div n="xe">{%p. d poem:%}</div> <div n="xs">{#चोरितं #}
-<div n="lb"/>{# काव्यम्।#}</div></div>
+{@PIRATE@}¦ (v.): <div n="I">I Lit.: {#समुद्रे दस्युतां करोति।#} </div><div n="I">II
+Fig.: {#चोरयति#} ({#चुर्,#} c. 10.), <div n="xe">{%p. d poem:%}</div> <div n="xs">{#चोरितं #}
+{# काव्यम्।#}</div></div>
 <LEND>

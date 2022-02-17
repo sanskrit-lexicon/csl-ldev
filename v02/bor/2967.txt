@@ -1,5 +1,5 @@
 <L>2967<pc>100<k1>cancellation<k2>cancellation
-<div n="lb"/>{@CANCELLATION:@}¦ <div n="I">I Erasing: {#कुण्डलनाक्रिया।#} </div><div n="I">II
-<div n="lb"/>Annulment: {#अवलोपः#} (?). </div><div n="I">III Striking out
-<div n="lb"/>common factors: {#अपवर्तनम्।#}</div>
+{@CANCELLATION:@}¦ <div n="I">I Erasing: {#कुण्डलनाक्रिया।#} </div><div n="I">II
+Annulment: {#अवलोपः#} (?). </div><div n="I">III Striking out
+common factors: {#अपवर्तनम्।#}</div>
 <LEND>

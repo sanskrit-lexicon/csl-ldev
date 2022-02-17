@@ -1,4 +1,4 @@
 <L>16245<pc>499<k1>paddy<k2>paddy
-<div n="lb"/>{@PADDY:@}¦ {#धान्यम्।#} <div n="xe">{%Winter p.:%}</div> <div n="xs">{#शालिधान्यम्;#}</div> <div n="xe">{%autum-%}
-<div n="lb"/>{%nal p.:%}</div> <div n="xs">{#आशुधान्यम्।#}</div>
+{@PADDY:@}¦ {#धान्यम्।#} <div n="xe">{%Winter p.:%}</div> <div n="xs">{#शालिधान्यम्;#}</div> <div n="xe">{%autum-%}
+{%nal p.:%}</div> <div n="xs">{#आशुधान्यम्।#}</div>
 <LEND>

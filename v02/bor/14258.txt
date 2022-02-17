@@ -1,22 +1,22 @@
 <L>14258<pc>437<k1>master<k2>master
-<div n="lb"/>{@MASTER@}¦ (subs.): <div n="I">I Lord: q. v.: </div><div n="1">(1) {#प्रभुः,#}
-<div n="lb"/>{%who wishing to become the m. of the three worlds:%}
-<div n="lb"/>{#प्रभुर्बुभूषुर्भुवनत्रयस्य यः,#} Si. i. 49.; <div n="xe">{%in the absence of%}
-<div n="lb"/>{%my m.:%}</div> <div n="xs">{#प्रभुणा विना मे,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#स्वामिन्#} (m.)
-<div n="lb"/>(= owner and with ref. to servants), <div n="xe">{%if a%}
-<div n="lb"/>{%m. were to leave a servant before time:%}</div> <div n="xs">{#स्वामी #}
-<div n="lb"/>{# चेद्भृ तकमपूर्णे काले जह्यात्,#}</div> Mit.; </div><div n="1">(3) {#पतिः#} (= hus-
-<div n="lb"/>-band, guardian), <div n="xe">{%m. of a family:%}</div> <div n="xs">{#कुलपतिः;#}</div></div>
-<div n="lb"/><div n="1">(4) {#भर्तृ#} (m (as opposed to {#भृत्य#}), <div n="xe">{%m.'s%}
-<div n="lb"/>{%pleasure:%}</div> <div n="xs">{#भर्तुः परितोषः,#}</div> Sa. Ph.: <div n="xe">{%I am not my%}
-<div n="lb"/>{%own m.:%}</div> <div n="xs">{#नाहमात्मनः प्रभुः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आत्मानं नियन्तुं न #}
-<div n="lb"/>{# शक्नोमि।#}</div> </div><div n="I">II Manager, director: q. v.: {#नायकः,#}
-<div n="lb"/><div n="xe">{%'m. of the rolls':%}</div> <div n="xs">{#राजपत्रनायकः।#}</div> </div><div n="I">III A teacher:
-<div n="lb"/>q. v.: {#शिक्षकः।#} </div><div n="I">IV An adept: {%m. of knowledge:%}
-<div n="lb"/>{#विद्यानिधिः;#} <div n="xe">{%m. of dialectics:%}</div> <div n="xs">{#तर्कवाचस्पतिः;#}</div> {%m.%} [Page438]
-<div n="lb"/><div n="xe">{%of eloquence:%}</div> <div n="xs">{#श्रीकण्ठः;#}</div> {%m. of the entire Vedas:%}
-<div n="lb"/>{#वेदसमुदायकोविदः,#} <ls>D.</ls> : v. Proficient. </div><div n="I">V A
-<div n="lb"/>painter or sculptor: <div n="xe">{%the old m.s:%}</div> <div n="xs">{#*प्राचीन-#}
-<div n="lb"/>{#चित्रकोविदाः।#}</div> </div><div n="I">VI In addressing: not expr.:
-<div n="lb"/>{#श्रीमत्#} (m (in writing).</div>
+{@MASTER@}¦ (subs.): <div n="I">I Lord: q. v.: </div><div n="1">(1) {#प्रभुः,#}
+{%who wishing to become the m. of the three worlds:%}
+{#प्रभुर्बुभूषुर्भुवनत्रयस्य यः,#} Si. i. 49.; <div n="xe">{%in the absence of%}
+{%my m.:%}</div> <div n="xs">{#प्रभुणा विना मे,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#स्वामिन्#} (m.)
+(= owner and with ref. to servants), <div n="xe">{%if a%}
+{%m. were to leave a servant before time:%}</div> <div n="xs">{#स्वामी #}
+{# चेद्भृ तकमपूर्णे काले जह्यात्,#}</div> Mit.; </div><div n="1">(3) {#पतिः#} (= hus-
+-band, guardian), <div n="xe">{%m. of a family:%}</div> <div n="xs">{#कुलपतिः;#}</div></div>
+<div n="1">(4) {#भर्तृ#} (m (as opposed to {#भृत्य#}), <div n="xe">{%m.'s%}
+{%pleasure:%}</div> <div n="xs">{#भर्तुः परितोषः,#}</div> Sa. Ph.: <div n="xe">{%I am not my%}
+{%own m.:%}</div> <div n="xs">{#नाहमात्मनः प्रभुः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#आत्मानं नियन्तुं न #}
+{# शक्नोमि।#}</div> </div><div n="I">II Manager, director: q. v.: {#नायकः,#}
+<div n="xe">{%'m. of the rolls':%}</div> <div n="xs">{#राजपत्रनायकः।#}</div> </div><div n="I">III A teacher:
+q. v.: {#शिक्षकः।#} </div><div n="I">IV An adept: {%m. of knowledge:%}
+{#विद्यानिधिः;#} <div n="xe">{%m. of dialectics:%}</div> <div n="xs">{#तर्कवाचस्पतिः;#}</div> {%m.%} [Page438]
+<div n="xe">{%of eloquence:%}</div> <div n="xs">{#श्रीकण्ठः;#}</div> {%m. of the entire Vedas:%}
+{#वेदसमुदायकोविदः,#} <ls>D.</ls> : v. Proficient. </div><div n="I">V A
+painter or sculptor: <div n="xe">{%the old m.s:%}</div> <div n="xs">{#*प्राचीन-#}
+{#चित्रकोविदाः।#}</div> </div><div n="I">VI In addressing: not expr.:
+{#श्रीमत्#} (m (in writing).</div>
 <LEND>

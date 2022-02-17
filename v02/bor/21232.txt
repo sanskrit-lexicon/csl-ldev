@@ -1,5 +1,5 @@
 <L>21232<pc>669<k1>sport<k2>sport
-<div n="lb"/>{@SPORT@}¦ (subs.): <div n="I">I Play, amusement: {#क्रीडा।#}</div>
-<div n="lb"/><div n="I">II Hunting: q. v.: {#मृगया।#} </div><div n="I">III Ridicule,
-<div n="lb"/>derision: q. v.: {#उपहासः।#}</div>
+{@SPORT@}¦ (subs.): <div n="I">I Play, amusement: {#क्रीडा।#}</div>
+<div n="I">II Hunting: q. v.: {#मृगया।#} </div><div n="I">III Ridicule,
+derision: q. v.: {#उपहासः।#}</div>
 <LEND>

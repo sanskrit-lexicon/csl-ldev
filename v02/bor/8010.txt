@@ -1,5 +1,5 @@
 <L>8010<pc>254<k1>exclusion<k2>exclusion
-<div n="lb"/>{@EXCLUSION:@}¦ <div n="I">I Turning out: </div><div n="1">(1) {#बहिष्करणम्;#}</div>
-<div n="lb"/><div n="1">(2) {#निःसारणम्।#} </div><div n="I">II Exception: {#बर्जनम्, वि-, #}
-<div n="lb"/>{# परि-।#} </div><div n="I">III Rejection: {#प्रत्याख्यानम्।#}</div>
+{@EXCLUSION:@}¦ <div n="I">I Turning out: </div><div n="1">(1) {#बहिष्करणम्;#}</div>
+<div n="1">(2) {#निःसारणम्।#} </div><div n="I">II Exception: {#बर्जनम्, वि-, #}
+{# परि-।#} </div><div n="I">III Rejection: {#प्रत्याख्यानम्।#}</div>
 <LEND>

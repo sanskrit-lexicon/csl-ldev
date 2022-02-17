@@ -1,6 +1,6 @@
 <L>18545<pc>570<k1>rank<k2>rank
-<div n="lb"/>{@RANK@}¦ (v. i.): expr. by {#वर्तते#} ({#वृत्,#} c. 1. = to be)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#तिष्ठति#}</div> ({#स्था,#} c. 1. = to stand), <div n="xe">{%character r. s%}
-<div n="lb"/>{%at the head of all excellences:%}</div> <div n="xs">{#अतीत्य हि गुणान् #}
-<div n="lb"/>{# सर्वान् स्वभावो मूर्ध्नि वर्तते,#}</div> H.
+{@RANK@}¦ (v. i.): expr. by {#वर्तते#} ({#वृत्,#} c. 1. = to be)
+<div n="xe">{%or%}</div> <div n="xs">{#तिष्ठति#}</div> ({#स्था,#} c. 1. = to stand), <div n="xe">{%character r. s%}
+{%at the head of all excellences:%}</div> <div n="xs">{#अतीत्य हि गुणान् #}
+{# सर्वान् स्वभावो मूर्ध्नि वर्तते,#}</div> H.
 <LEND>

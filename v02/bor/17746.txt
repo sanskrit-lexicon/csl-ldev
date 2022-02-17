@@ -1,3 +1,3 @@
 <L>17746<pc>543<k1>price-current<k2>price-current
-<div n="lb"/>{@PRICE-CURRENT:@}¦ {#पण्यमूल्यनिर्धण्टः#} (??).
+{@PRICE-CURRENT:@}¦ {#पण्यमूल्यनिर्धण्टः#} (??).
 <LEND>

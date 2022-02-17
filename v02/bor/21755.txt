@@ -1,7 +1,7 @@
 <L>21755<pc>686<k1>subscribe<k2>subscribe
-<div n="lb"/>{@SUBSCRIBE@}¦ (v.): <div n="I">I Lit.: {#निम्ने नाम लिखति#}
-<div n="lb"/>({#लिख्,#} c. 6.) <div n="xe">{%or%}</div> <div n="xs">{#निवेशयति#}</div> (c. of {#विश्#}). </div><div n="I">II
-<div n="lb"/>Promise to pay or take: {#दातुं ग्रहीतुं वा प्रतिजनीते#}
-<div n="lb"/>({#ज्ञा,#} c. 9.). </div><div n="I">III To assent: {#स्वीकरोति#} (with
-<div n="lb"/>acc.).</div>
+{@SUBSCRIBE@}¦ (v.): <div n="I">I Lit.: {#निम्ने नाम लिखति#}
+({#लिख्,#} c. 6.) <div n="xe">{%or%}</div> <div n="xs">{#निवेशयति#}</div> (c. of {#विश्#}). </div><div n="I">II
+Promise to pay or take: {#दातुं ग्रहीतुं वा प्रतिजनीते#}
+({#ज्ञा,#} c. 9.). </div><div n="I">III To assent: {#स्वीकरोति#} (with
+acc.).</div>
 <LEND>

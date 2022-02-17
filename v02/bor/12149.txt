@@ -1,5 +1,5 @@
 <L>12149<pc>378<k1>infectious<k2>infectious
-<div n="lb"/>{@INFECTIOUS:@}¦ <div n="1">(1) {#स्पर्शसम्चारिन्#} (f. {#णी#}), <div n="xe">{%the disease%}
-<div n="lb"/>{%was i.:%}</div> <div n="xs">{#आमयः स्पर्शसंचारी,#}</div> Raj.; </div><div n="1">(2) {#सांक्रामिकः#}
-<div n="lb"/>({#की, कं#}).</div>
+{@INFECTIOUS:@}¦ <div n="1">(1) {#स्पर्शसम्चारिन्#} (f. {#णी#}), <div n="xe">{%the disease%}
+{%was i.:%}</div> <div n="xs">{#आमयः स्पर्शसंचारी,#}</div> Raj.; </div><div n="1">(2) {#सांक्रामिकः#}
+({#की, कं#}).</div>
 <LEND>

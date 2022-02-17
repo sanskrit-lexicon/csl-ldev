@@ -1,11 +1,11 @@
 <L>58040<pc>5-0598<k1>मलय<k2>मलय
 {#मलय#}¦ proparox. 
-<ls>UṆĀDIS.4,99.</ls> parox. <ls>ŚĀNT. 3,4.</ls> m. n. <ls>SIDDH. K. 249,a,1 v. u.</ls> 
+<ls>UṆĀDIS.4,99.</ls> parox. <ls>ŚĀNT. 3,4.</ls> m. n. <ls>SIDDH. K. 249,a,1</ls> v. u. 
 <div n="1"> 1) <lex>m.</lex> N. pr. eines Gebirges in <is>Malabar</is>, der Heimath des Sandelbaumes, 
 <ls>TRIK. 2, 3, 3. 4.</ls> 
 <ls>H. 1029.</ls> 
 <ls>an. 3, 499.</ls> 
-<ls>MED. y. 98.</ls> <ls>HIOUEN-THSANG II, 122.</ls> <ls>MBH. 2, 412. 7, 2098.</ls> <ls>HARIV. 12397. 12837.</ls> <ls>R. 2, 91, 24.</ls> <ls>SUŚR. 1, 172, 7. 2, 169, 1. 173, 13.</ls> <ls>RAGH. 4, 51. 9, 25.</ls> <ls>VARĀH. BṚH. S. 14, 11.</ls> <ls>SIDDHĀNTAŚIR. 3, 42. 12, 2.</ls> <ls>VP. 174.</ls> <ls>BHĀG. P. 5, 19, 16.</ls> <ls>MĀRK. P. 57, 10.</ls> {#विना मलयमन्यत्र चन्दनं न विवर्धते#} 
+<ls>MED. y. 98.</ls> <ls>HIOUEN-THSANG II, 122.</ls> <ls>MBH. 2, 412.</ls> <ls n="MBH.">7, 2098.</ls> <ls>HARIV. 12397.</ls> <ls n="HARIV.">12837.</ls> <ls>R. 2, 91, 24.</ls> <ls>SUŚR. 1, 172, 7. 2, 169, 1. 173, 13.</ls> <ls>RAGH. 4, 51. 9, 25.</ls> <ls>VARĀH. BṚH. S. 14, 11.</ls> <ls>SIDDHĀNTAŚIR. 3, 42. 12, 2.</ls> <ls>VP. 174.</ls> <ls>BHĀG. P. 5, 19, 16.</ls> <ls>MĀRK. P. 57, 10.</ls> {#विना मलयमन्यत्र चन्दनं न विवर्धते#} 
 <ls>Spr. 2615.</ls> {#मलयस्य वायुभिः#} 
 <ls>2099.</ls> {#°मरु- तां व्राताः#} (so richtig) 
 <ls>2130.</ls> {#°वात#} 
@@ -25,7 +25,7 @@
 <ls>MBH. 5, 3599</ls> {#(मालय#} ed. Bomb.). eines Sohnes des <is>Ṛṣabha</is> 
 <ls>BHĀG. P. 5, 4, 10.</ls> 
 <div n="1">— 4) <lex>m.</lex> {%Garten%} 
-<ls>H. an.</ls> <ls>MED.</ls> N. pr. eines Hains der Götter {#(नन्दनवन)#} 
+<ls>H. an.</ls> <ls>MED.</ls> N. pr. eines Hains der Götter ({#नन्दनवन#}) 
 <ls>DHAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 5) <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%Ipomoea Turpethum R. Br.%} 

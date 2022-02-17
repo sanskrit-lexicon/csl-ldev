@@ -1,6 +1,6 @@
 <L>51985<pc>5-0037<k1>बलि<k2>बलि/<h>1
 1. {#बलि/#}¦ <lex>m.</lex> 
-<ls>SIDDH. K.249,b,3 v. u.</ls> 
+<ls>SIDDH. K.249,b,3</ls> v. u. 
 <div n="1"> 1) {%Steuer, Abgabe, Tribut%} (
 <ls>AK. 2, 8, 1, 27. 3, 4, 25, 166. 26, 197.</ls> 
 <ls>H. 745.</ls> 
@@ -27,8 +27,8 @@
 <ls>12, 2873.</ls> — So heissen insbes. 
 <div n="1"> 2) {%Spenden, welche als Abgabe von Speisen oder Opfern Göttern, halbgöttlichen Wesen, Menschen oder Thieren, namentlich Vögeln, aber auch leblosen Gegenständen gereicht werden; jede nicht unter den engern Begriff des Opfers fallende Huldigungsgabe%}, 
 <ls>AK. 2, 7, 13. 3, 4, 26. 197.</ls> 
-<ls>H. 447. 822</ls> (=  {#भूतयज्ञ)#} . 
-<ls>?857. H. an. MED. HALĀY. 1, 128.</ls> {#अहरहर्भूतेभ्यो बलिं हरेत्#} 
+<ls>H. 447. 822</ls> (= {#भूतयज्ञ)#} . 
+<ls>857.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 128.</ls> {#अहरहर्भूतेभ्यो बलिं हरेत्#} 
 <ls>ŚAT. BR. 11, 5, 6, 2.</ls> {#यद्बलिं करोति स भूतयज्ञः#} 
 <ls>ĀŚV. GṚHY. 3, 1, 9. 4, 8, 22. 4, 9. 8.</ls> 
 <ls>GOBH. 1, 4, 9. fgg.</ls> 
@@ -40,7 +40,7 @@
 <ls>ŚĀṄKH. GṚHY. 2, 17.</ls> {#चैत्याय#} 
 <ls>ĀŚV. GṚHY. 1, 12, 1.</ls> {#दिश्य#} 
 <ls>KAUŚ. 8. 34. 51.</ls> — {#अध्यापनं ब्रह्मयज्ञः पितृयज्ञस्तु तर्पणम् । होमोदैवो बलिर्भौतो नृयज्ञो ऽतिथिपूजनम् ॥#} 
-<ls>M.3,70</ls> <ls>?(Verz. d. Oxf. H. 267,b,42. fg.). 74. 6. 34. HARIV. 4534. R.1,53,13.</ls> {#प्रसीदन्ति जपैर्देवा बलिभिर्भूतविग्रहाः#} 
+<ls>M. 3,70</ls> (<ls>Verz. d. Oxf. H. 267,b,42. fg.</ls>). <ls n="M.">74. 6. 34.</ls> <ls>HARIV. 4534.</ls> <ls>R. 1,53,13.</ls> {#प्रसीदन्ति जपैर्देवा बलिभिर्भूतविग्रहाः#} 
 <ls>Spr. 3154.</ls> {#बलिं नाश्नन्ति वायसाः#} 
 <ls>SUŚR. 1, 116. 20. 323, 21.</ls> {#रणभूमेर्बलिक्षमम् - तच्छिरःकमलोच्चयम्#} 
 <ls>RAGH. 10, 45. 70</ls> {#इन्द्रान्तकाप्पतीन्दुभ्यः सानुगेभ्यो बलिं हरेत्#} 
@@ -48,8 +48,8 @@
 <ls>MṚCCH. 8, 23.</ls> 
 <ls>MBH. 14, 1916.</ls> {#यद्भक्ष्यं स्यात्ततो दद्याद्बलिम्#} 
 <ls>M. 6, 7.</ls> 
-<ls>VET.</ls> in <ls>LA. 31, 7.</ls> <ls>MĀRK. P. 93, 8.</ls> {#काले च पुप्पैर्बलयः क्रियन्ते#} 
-<ls>MBH. 13, 524. 14, 1918.</ls> 
+<ls>VET. in LA. 31, 7.</ls> <ls>MĀRK. P. 93, 8.</ls> {#काले च पुप्पैर्बलयः क्रियन्ते#} 
+<ls>MBH. 13, 524.</ls> <ls n="MBH.">14, 1918.</ls> 
 <ls>SUŚR. 1, 15, 6.</ls> 
 <ls>MṚCCH. 8, 22.</ls> {#तरोः#} 
 <ls>KATHĀS. 20, 27. 45, 40.</ls> {#रुद्रस्य वलिसंभारं कारयामास#} 

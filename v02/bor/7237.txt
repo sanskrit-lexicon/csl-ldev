@@ -1,3 +1,3 @@
 <L>7237<pc>230<k1>edition<k2>edition
-<div n="lb"/>{@EDITION:@}¦ {#*संस्करणम्,#} <div n="xe">{%first e.:%}</div> <div n="xs">{#प्रथमसंस्करणम्।#}</div>
+{@EDITION:@}¦ {#*संस्करणम्,#} <div n="xe">{%first e.:%}</div> <div n="xs">{#प्रथमसंस्करणम्।#}</div>
 <LEND>

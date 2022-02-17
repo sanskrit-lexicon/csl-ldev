@@ -1,10 +1,10 @@
 <L>148<pc>007<k1>accomplished<k2>accomplished
-<div n="lb"/>{@ACCOMPLISHED@}¦ (adj.): <div n="I">I Finished, performed:</div>
-<div n="lb"/><div n="1">(1) {#सिद्धः#} ({#द्धा, द्धं#}); </div><div n="1">(2) {#निष्पन्नः#} ({#न्ना, न्नं#});</div>
-<div n="lb"/><div n="1">(3) {#निवृत्तः#} ({#त्ता, त्तं#}) </div><div n="I">II Clever, refined:</div>
-<div n="lb"/><div n="1">(1) {#विशारदः#} ({#दा, दं#}); </div><div n="1">(2) {#विचक्षणः#} ({#णा, णं#});</div>
-<div n="lb"/><div n="1">(3) {#कृतिन्#} (f. {#नी#}): <div n="xe">{%let the a. enjoy it with%}
-<div n="lb"/>{%pleasure%}</div> <div n="xs">{#तत् सुप्रसन्नमनसः कृतिनो भजन्ताम्,#}</div> Vi. i.
-<div n="lb"/>N. B. The last word generally used absol.
-<div n="lb"/>But see Ki. xiv. 2.</div>
+{@ACCOMPLISHED@}¦ (adj.): <div n="I">I Finished, performed:</div>
+<div n="1">(1) {#सिद्धः#} ({#द्धा, द्धं#}); </div><div n="1">(2) {#निष्पन्नः#} ({#न्ना, न्नं#});</div>
+<div n="1">(3) {#निवृत्तः#} ({#त्ता, त्तं#}) </div><div n="I">II Clever, refined:</div>
+<div n="1">(1) {#विशारदः#} ({#दा, दं#}); </div><div n="1">(2) {#विचक्षणः#} ({#णा, णं#});</div>
+<div n="1">(3) {#कृतिन्#} (f. {#नी#}): <div n="xe">{%let the a. enjoy it with%}
+{%pleasure%}</div> <div n="xs">{#तत् सुप्रसन्नमनसः कृतिनो भजन्ताम्,#}</div> Vi. i.
+N. B. The last word generally used absol.
+But see Ki. xiv. 2.</div>
 <LEND>

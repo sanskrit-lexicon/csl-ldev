@@ -1,12 +1,12 @@
 <L>203329<pc>1004,1<k1>वी<k2>वी<h>1<e>1
-<hom>1.</hom> <s>वी</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 39</ls>) <s>वेति</s> (<ab>accord.</ab> to some in the <ab n="conjugational">conjug.</ab> tenses substituted for √ <s>अज्</s>; 2. <ab>sg.</ab> <s>वे/षि</s> also as <ab>Impv.</ab> <ls>RV.</ls>; 3. <ab>pl.</ab> <s>व्य/न्ति</s>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ab>Subj.</ab> 2. 3. <ab>sg.</ab> <s>वेस्</s>, <ls>RV.</ls>; <ab>Impv.</ab> <s>वी<shortlong/>हि/</s>, <s>वीतात्</s>, <ls>ib.</ls>; 3. <ab>pl.</ab> <s>वियन्तु</s>, <ls>TS.</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>व्यान/</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>विवाय</s>, <s>विव्ये</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अवैषीत्</s> <ab>Gr.</ab>; 3. <ab>pl.</ab> <s>अवेषन्</s> <ab>Subj.</ab> <s>वेषत्</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>वेता</s>, <s>वेष्यति</s> <ab>inf.</ab> <s>वेतुम्</s> <ab>Gr.</ab>), 
+<hom>1.</hom> <s>वी</s> ¦ <ab>cl.</ab> 2. <ab>P.</ab> (<ls>Dhātup. xxiv, 39</ls>) <s>वेति</s> (<ab>accord.</ab> to some in the <ab n="conjugational">conjug.</ab> tenses substituted for √ <s>अज्</s>; 2. <ab>sg.</ab> <s>वे/षि</s> also as <ab>Impv.</ab> <ls>RV.</ls>; 3. <ab>pl.</ab> <s>व्य/न्ति</s>, <ls>RV.</ls>; <ls>AV.</ls>; <ls>Br.</ls>; <ab>Subj.</ab> 2. 3. <ab>sg.</ab> <s>वेस्</s>, <ls>RV.</ls>; <ab>Impv.</ab> <s>वी<स्होर्त्लोन्ग्/>हि/</s>, <s>वीतात्</s>, <ls>ib.</ls>; 3. <ab>pl.</ab> <s>वियन्तु</s>, <ls>TS.</ls>; <ab>p.</ab> <ab>Ā.</ab> <s>व्यान/</s>, <ls>RV.</ls>; <ab>pf.</ab> <s>विवाय</s>, <s>विव्ये</s>, <ls>ib.</ls>; <ab>aor.</ab> <s>अवैषीत्</s> <ab>Gr.</ab>; 3. <ab>pl.</ab> <s>अवेषन्</s> <ab>Subj.</ab> <s>वेषत्</s>, <ls>RV.</ls>; <ab>fut.</ab> <s>वेता</s>, <s>वेष्यति</s> <ab>inf.</ab> <s>वेतुम्</s> <ab>Gr.</ab>), 
 <div n="to"/>to go, approach, (either as a friend <ab>i.e.</ab> ‘seek or take eagerly, grasp, seize, accept, enjoy’, or as an enemy <ab>i.e.</ab> ‘fall upon, attack, assail, visit, punish, avenge’), <ls>RV.</ls>; <ls>AV.</ls>; <ls>TS.</ls>; <ls>Br.</ls>;
 <div n="to"/>to set in motion, arouse, excite, impel, <ls>RV.</ls>;
 <div n="to"/>to further, promote, lead or bring or help any one to (two <ab>acc.</ab>), <ls>ib.</ls>;
 <div n="to"/>to get, procure, <ls>ib.</ls> :
 <div n="vp"/><ab>Pass.</ab> <s>-वीय/ते</s> &c., <ls>AV.</ls>; <ls>Br.</ls> :
 <div n="vp"/><ab>Caus.</ab> <s>वाययति</s> or <s>वापयति</s> (<ab>aor.</ab> <s>अवीवयत्</s>), to cause to go or approach &c.;
-<div n="to"/>to impregnate, <ls>Pāṇ. 6-1, 55</ls> :
+<div n="to"/>to impregnate, <ls>Pāṇ. vi, 1, 55</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>विवीषति</s> <ab>Gr.</ab>:
 <div n="vp"/><ab>Intens.</ab>, See <s>आ-√ वी</s> and √ <s>वेवी</s>. <info westergaard="vI,24.39,02.0051"/><info whitneyroots="vI1,161"/><info verb="genuineroot" cp="2P,2Ā"/>
 <LEND>

@@ -7,7 +7,7 @@
 <div n="2"> a) {%Entstehung, Ursprung, Quelle, Ausgangspunkt, Ursache der Entstehung, Geburtsstätte%} 
 <ls>P. 3, 3, 24,</ls> 
 <ls>Sch.</ls> = {#जन्मन्#} 
-<ls>ŚABDAR. </ls> im <ls>ŚKDR.</ls>
+<ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls>
 [Page4-1038]
 = {#जन्महेतु#} und {#स्थानमाद्योपलब्धये#} 
 <ls>AK. 3, 4, 27, 212.</ls> = {#जन्मकारण, आद्योपलब्धसुस्थान#} (!) und {#अपां मूलम्#} 
@@ -18,19 +18,19 @@
 <ls>VARĀH. BṚH. S. 45, 82.</ls> 
 <ls>P. 1, 4, 31.</ls> {#गङ्गायाः#} 
 <ls>R. 1, 37, 27.</ls> {#यमुना°#} {%Quelle%} 
-<ls>MBH. 3, 8022. 8024. 8151.</ls> {#यो देवानां प्रभवश्चोद्भवश्च#} 
+<ls>MBH. 3, 8022.</ls> <ls n="MBH. 3,">8024.</ls> <ls n="MBH. 3,">8151.</ls> {#यो देवानां प्रभवश्चोद्भवश्च#} 
 <ls>ŚVETĀŚV. UP. 3, 4.</ls> {#(ते) प्रभवं प्रभुं च#} 
 <ls>DRAUP. 2, 5.</ls> 
 <ls>MEGH. 53.</ls> {#लोकानां प्रभवस्तु सः#} so v. a. {%Schöpfer%} 
-<ls>MBH. 1, 2598. 2499. 3, 13556.</ls> {#तथा नरेन्द्रो राष्ट्रस्य प्रभवः सत्यधर्मयोः#} 
+<ls>MBH. 1, 2598.</ls> <ls n="MBH. 1,">2499.</ls> <ls n="MBH.">3, 13556.</ls> {#तथा नरेन्द्रो राष्ट्रस्य प्रभवः सत्यधर्मयोः#} 
 <ls>R. 2, 67, 29.</ls> 
 <ls>MĀLAV. 92.</ls> 
 <ls>KUMĀRAS. 2, 5. 12. 5, 77. 6, 70. 7, 36.</ls> {#अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा#} 
 <ls>BHAG. 7, 6.</ls> 
 <ls>VOP. 5, 1.</ls> 
-<ls>Ind. St. 1, 113, 3 v. u.</ls> Gegens. {#अप्यय#} 
+<ls>Ind. St. 1, 113, 3</ls> v. u. Gegens. {#अप्यय#} 
 <ls>KAṬHOP. 6, 11.</ls> 
-<ls>MBH. 1, 2517. 2, 1214. 12, 9211</ls> (an den beiden letzten Stellen ist {#अप्यय#} st. {#अव्यय#} zu lesen). Häufig am Ende eines <lex>adj.</lex> comp. (f. {#आ): वदरीप्रभवा (नदी)#} {%entspringend aus%} 
+<ls>MBH. 1, 2517.</ls> <ls n="MBH.">2, 1214.</ls> <ls n="MBH.">12, 9211</ls> (an den beiden letzten Stellen ist {#अप्यय#} st. {#अव्यय#} zu lesen). Häufig am Ende eines <lex>adj.</lex> comp. (f. {#आ): वदरीप्रभवा (नदी)#} {%entspringend aus%} 
 <ls>MBH. 3, 10902.</ls> 
 <ls>HARIV. 8129.</ls> 
 <ls>SUŚR. 1, 172, 6.</ls> 

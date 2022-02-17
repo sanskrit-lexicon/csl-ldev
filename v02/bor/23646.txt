@@ -1,5 +1,5 @@
 <L>23646<pc>741<k1>vacancy<k2>vacancy
-<div n="lb"/>{@VACANCY:@}¦ <div n="I">I The state: </div><div n="1">(1) {#शून्यता;#} </div><div n="1">(2)
-<div n="lb"/>{#रिक्तता।#} </div><div n="I">II Vacant post, etc.: </div><div n="1">(1) {#शून्यम्;#}</div>
-<div n="lb"/><div n="1">(2) {#रिक्तम्।#}</div>
+{@VACANCY:@}¦ <div n="I">I The state: </div><div n="1">(1) {#शून्यता;#} </div><div n="1">(2)
+{#रिक्तता।#} </div><div n="I">II Vacant post, etc.: </div><div n="1">(1) {#शून्यम्;#}</div>
+<div n="1">(2) {#रिक्तम्।#}</div>
 <LEND>

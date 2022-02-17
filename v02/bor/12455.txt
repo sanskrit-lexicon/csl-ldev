@@ -1,4 +1,4 @@
 <L>12455<pc>386<k1>intelligibility<k2>intelligibility
-<div n="lb"/>{@INTELLIGIBILITY:@}¦ <div n="1">(1) {#बोधगम्यता;#} </div><div n="1">(2) {#सुबोधता;#}</div>
-<div n="lb"/><div n="1">(3) {#स्पष्टता।#}</div>
+{@INTELLIGIBILITY:@}¦ <div n="1">(1) {#बोधगम्यता;#} </div><div n="1">(2) {#सुबोधता;#}</div>
+<div n="1">(3) {#स्पष्टता।#}</div>
 <LEND>

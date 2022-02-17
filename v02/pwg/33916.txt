@@ -1,9 +1,9 @@
 <L>33916<pc>3-0699<k1>दुष्<k2>दुष्<h>1
 1. {#दुष्#}¦, {#दु/ष्यति#} (ep. auch {#°ते#}) 
 <ls>DHĀTUP. 26, 76.</ls> erhalt keinen Bindevocal <is>Kār</is>. 
-<ls>?6 aus SIDDH. K. zu P. 7, 2, 10.</ls> {%verderben, schlecht werden, zu Grunde gehen, Schaden nehmen; verunreinigt werden, sich verunreinigen, einen Fehltritt —, eine Sünde begehen%}: {#मेदं प्रजापते रेतो दुषत्#} 
+<ls>6</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {%verderben, schlecht werden, zu Grunde gehen, Schaden nehmen; verunreinigt werden, sich verunreinigen, einen Fehltritt —, eine Sünde begehen%}: {#मेदं प्रजापते रेतो दुषत्#} 
 <ls>AIT. BR. 3, 33.</ls> {#यस्य सायंदुग्धं सांनाय्यं दुष्येत्#} 
-<ls>?7, 4. Schol. zu KĀTY. ŚR.25, 4, 15. NIDĀNA. 1, 6.</ls>
+<ls>7, 4. Schol.</ls> zu <ls>KĀTY. ŚR.25, 4, 15.</ls> <ls>NIDĀNA. 1, 6.</ls>
 [Page3-0700]
 {#ग्रहणी#} 
 <ls>SUŚR. 2, 443, 7.</ls> {#त्वत्संयोगाच्च दुष्येत कन्याभावो मम#} 
@@ -20,7 +20,7 @@
 <ls>M. 7, 24.</ls> {#अनघेयं द्विजश्रेष्ठा जगन्माता न दुष्यते । यथांशुमाला सूर्यस्य द्विजचण्डालसङ्गिना ॥#} 
 <ls>MĀRK. P. 18, 32.</ls> {#नात्ता दुष्यत्यदन्नाद्यान्प्राणिनः#} 
 <ls>M. 5, 30. 32. 8, 349. 10, 127.</ls> 
-<ls>MBH. 3. 1043. 4, 1557.</ls> 
+<ls>MBH. 3, 1043.</ls> <ls n="MBH.">4, 1557.</ls> 
 <ls>R. 2. 39, 21.</ls> {%vom Uebel sein, fehlerhaft sein%}: {#अहोरात्रादपि स्नेहः प्रत्यागच्छेन्न दुष्यति (दू°#} gedr.) 
 <ls>SUŚR. 2, 214, 15. 16, 15.</ls> {#विषादे विस्मये#} u. s. w. {#द्विस्त्रिरुक्तं वा न दुष्यति#} Cit. beim Schol. zu 
 <ls>ŚĀK. 5, 5.</ls> Statt des med. {#दुष्यते#} und {#दुष्येत#} könnte hie und da, ohne dass der Sinn oder dass Versmaas darunter litte, das pass. vom caus. {#दूष्यते#} und {#दूष्येत#} gelesen werden. Bei 
@@ -72,7 +72,7 @@
 <ls>M. 5, 108.</ls> {#योनि°#} 
 <ls>HARIV. 7755.</ls> {#वाग्दुष्ट#} 
 <ls>M. 3, 156. 8, 345.</ls> 
-<ls>HARIV. 1189. 7757.</ls> {#हेतुदुष्ट#} 
+<ls>HARIV. 1189.</ls> <ls n="HARIV.">7757.</ls> {#हेतुदुष्ट#} 
 <ls>MBH. 13, 6198.</ls> {#दुष्ट#} <lex>n.</lex> {%Vergehen, Schuld%}: {#सदुष्ट#} {%schuldig%} neben {#अदुष्ट#} {%unschuldig%} 
 <ls>R. 5, 91, 2.</ls> {#योनिदुष्टे स्त्रिया नास्ति प्रायश्चित्तं हतैव सा । वाग्दुष्टे विहितं सद्भिः प्रायश्चित्तं पुरातने#} 
 <ls>HARIV. 7760.</ls> {#श्रुति°#} {%ein Vergehen gegen das Ohr%} 
@@ -133,7 +133,7 @@
 <div n="1">— 3) {%Jmd schlecht machen, entsittlichen, demoralisiren%}: {#(लक्ष्माः) दूषयत्युन्नतात्मनः#} 
 <ls>RĀJA-TAR. 5, 6.</ls> {%Jmd schlecht machen%} so v. a. {%einer Schlechtigkeit zeihen, beschuldigen, beschimpfen%} 
 <ls>YĀJÑ. 1, 66.</ls> {#महोदयश्च दुर्बुद्धिर्मामदूष्यं ह्यदूषयत् । दूषितः सर्वलोकेषु निषादत्वं गमिष्यति ॥#} 
-<ls>R. 1, 59, 20. 17 (GORR. 61, 18).</ls> {#यः सौहृदे पुरुष स्थापयित्वा पश्चादेनं दूषयते स बालः#} 
+<ls>R. 1, 59, 20. 17</ls> (<ls>GORR. 61, 18</ls>). {#यः सौहृदे पुरुष स्थापयित्वा पश्चादेनं दूषयते स बालः#} 
 <ls>MBH. 2, 2133.</ls> {#परस्परं दूषयन्तौ#} 
 <ls>PAÑCAT. 97, 1. 59, 11.</ls> 
 <ls>BHARTṚ. 2, 59.</ls> {#दूषित#} {%einer Schlechtigkeit geziehen, mit einem Makel behaftet, blossgestellt%} 

@@ -1,4 +1,4 @@
 <L>21278<pc>670<k1>squadron<k2>squadron
-<div n="lb"/>{@SQUADRON:@}¦ <div n="I">I Of army: </div><div n="1">(1) {#गुल्मद्वयम्;#} </div><div n="1">(2)
-<div n="lb"/>{#गणः#} ((2/3) of s.). </div><div n="I">II Of ships: {#पोतावली।#}</div>
+{@SQUADRON:@}¦ <div n="I">I Of army: </div><div n="1">(1) {#गुल्मद्वयम्;#} </div><div n="1">(2)
+{#गणः#} ((2/3) of s.). </div><div n="I">II Of ships: {#पोतावली।#}</div>
 <LEND>

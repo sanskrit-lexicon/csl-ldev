@@ -1,16 +1,16 @@
 <L>24551<pc>658-b<k1>reach<k2>reach
-<div n="lb"/>REACH¦, {%s.%} (Extend, compass, range) {#पर्य्यन्तः -न्तं, प्रमाणं, परिमाणं,#}
-<div n="lb"/>{#विषयः, प्रसरः, गोचरः -रं;#} ‘the utmost reach,’ {#पारः;#} ‘the
-<div n="lb"/>reach of a man,’ {#पौरुषं, पुरुषविषयः;#} ‘of the eye,’ {#चक्षुर्विषयः;#}
-<div n="lb"/>‘of an arrow,’ {#वाणगोचरः -रं;#} ‘beyond the reach,’ {#अविषयः#}
-<div n="lb"/>{#-या -यं, विषयातिक्रान्तः -न्ता -न्तं, विषयातीतः -ता -तं, अगम्यः -म्या#}
-<div n="lb"/>{#-म्यं, अतीतः#} &c., {#अतिगः -गा -गं, अपारणीयः -या -यं, अति#} pre-
-<div n="lb"/>fixed; ‘beyond the reach of the wise,’ {#धीमताम् अपि अविषयः#}
-<div n="lb"/>{#-या -यं;#} ‘beyond the reach of the understanding,’ {#बुद्यगम्यः#}
-<div n="lb"/>{#-म्या -म्यं, बुद्ध्यग्राह्यः -ह्या -ह्यं, बुद्ध्यतीतः -ता -तं, बोधातीतः#} &c.;
-<div n="lb"/>‘beyond the reach of mortals,’ {#अतिमानुषः -षा -षं, अतिमर्यः#}
-<div n="lb"/>{#-र्त्या -र्त्यं, जनातिगः -गा -गं;#} ‘within the reach,’ {#विषय#} in comp.,
-<div n="lb"/>{#गम्यः -म्या -म्यं, ग्राह्यः#} &c.; ‘within the reach of the under-
-<div n="lb"/>standing,’ {#बुद्धिगम्यः -म्या -म्यं;#} ‘within reach of the hand,’
-<div n="lb"/>{#हस्तग्राह्यः#} &c., {#हस्तस्पर्शनीयः -या -यं, हस्तप्राष्यः#} &c.
+REACH¦, {%s.%} (Extend, compass, range) {#पर्य्यन्तः -न्तं, प्रमाणं, परिमाणं,#}
+{#विषयः, प्रसरः, गोचरः -रं;#} ‘the utmost reach,’ {#पारः;#} ‘the
+reach of a man,’ {#पौरुषं, पुरुषविषयः;#} ‘of the eye,’ {#चक्षुर्विषयः;#}
+‘of an arrow,’ {#वाणगोचरः -रं;#} ‘beyond the reach,’ {#अविषयः#}
+{#-या -यं, विषयातिक्रान्तः -न्ता -न्तं, विषयातीतः -ता -तं, अगम्यः -म्या#}
+{#-म्यं, अतीतः#} &c., {#अतिगः -गा -गं, अपारणीयः -या -यं, अति#} pre-
+fixed; ‘beyond the reach of the wise,’ {#धीमताम् अपि अविषयः#}
+{#-या -यं;#} ‘beyond the reach of the understanding,’ {#बुद्यगम्यः#}
+{#-म्या -म्यं, बुद्ध्यग्राह्यः -ह्या -ह्यं, बुद्ध्यतीतः -ता -तं, बोधातीतः#} &c.;
+‘beyond the reach of mortals,’ {#अतिमानुषः -षा -षं, अतिमर्यः#}
+{#-र्त्या -र्त्यं, जनातिगः -गा -गं;#} ‘within the reach,’ {#विषय#} in comp.,
+{#गम्यः -म्या -म्यं, ग्राह्यः#} &c.; ‘within the reach of the under-
+standing,’ {#बुद्धिगम्यः -म्या -म्यं;#} ‘within reach of the hand,’
+{#हस्तग्राह्यः#} &c., {#हस्तस्पर्शनीयः -या -यं, हस्तप्राष्यः#} &c.
 <LEND>

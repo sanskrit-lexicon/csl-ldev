@@ -1,6 +1,6 @@
 <L>16181<pc>497<k1>overtake<k2>overtake
-<div n="lb"/>{@OVERTAKE:@}¦ <div n="I">I To come up with: <div n="xe">{%I could o.%}
-<div n="lb"/>{%even Garuḍa:%}</div> <div n="xs">{#पूर्वप्रस्थितं वैनतेयमप्यासादयेयम्,#}</div> V. i.:
-<div n="lb"/>v. To reach, catch. </div><div n="I">II To fall upon:
-<div n="lb"/>{#पतति, नि-,#} ({#पत्,#} c. 1 (with loc.).</div>
+{@OVERTAKE:@}¦ <div n="I">I To come up with: <div n="xe">{%I could o.%}
+{%even Garuḍa:%}</div> <div n="xs">{#पूर्वप्रस्थितं वैनतेयमप्यासादयेयम्,#}</div> V. i.:
+v. To reach, catch. </div><div n="I">II To fall upon:
+{#पतति, नि-,#} ({#पत्,#} c. 1 (with loc.).</div>
 <LEND>

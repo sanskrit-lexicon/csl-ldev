@@ -1,8 +1,8 @@
 <L>373<pc>014<k1>aerial<k2>aerial
-<div n="lb"/>{@AERIAL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#वायवः#} ({#वी, वं#}); </div><div n="1">(2) {#वायु-#}
-<div n="lb"/>{#सम्भवः#} ({#वा, वं#}) (=produced in the air); </div><div n="1">(3)
-<div n="lb"/>{#वैहायसः#} (=through the air). Ph. {%a. flight:%}</div>
-<div n="lb"/><div n="1">(1) {#नभोगतिः;#} </div><div n="1">(2) {#वियदुत्पतनं;#} <div n="xe">{%a. spirit%}</div> <div n="xs">{#नभश्चरः#}</div> [Page015]
-<div n="lb"/>({#री, रं#}). — </div><div n="I">II Fig.: lofty: {#व्योमस्पृश्#} (mfn)
-<div n="lb"/>and sim. comp.</div>
+{@AERIAL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#वायवः#} ({#वी, वं#}); </div><div n="1">(2) {#वायु-#}
+{#सम्भवः#} ({#वा, वं#}) (=produced in the air); </div><div n="1">(3)
+{#वैहायसः#} (=through the air). Ph. {%a. flight:%}</div>
+<div n="1">(1) {#नभोगतिः;#} </div><div n="1">(2) {#वियदुत्पतनं;#} <div n="xe">{%a. spirit%}</div> <div n="xs">{#नभश्चरः#}</div> [Page015]
+({#री, रं#}). — </div><div n="I">II Fig.: lofty: {#व्योमस्पृश्#} (mfn)
+and sim. comp.</div>
 <LEND>

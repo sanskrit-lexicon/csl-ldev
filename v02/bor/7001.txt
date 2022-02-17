@@ -1,4 +1,4 @@
 <L>7001<pc>223<k1>drug<k2>drug
-<div n="lb"/>{@DRUG@}¦ (v.): <div n="I">I Intrans: {#औषधं ददाति।#} </div><div n="I">II
-<div n="lb"/>Trans: {#मिश्रयति#} ({#पिश्र्,#} c. 1.): v. To mix.</div>
+{@DRUG@}¦ (v.): <div n="I">I Intrans: {#औषधं ददाति।#} </div><div n="I">II
+Trans: {#मिश्रयति#} ({#पिश्र्,#} c. 1.): v. To mix.</div>
 <LEND>

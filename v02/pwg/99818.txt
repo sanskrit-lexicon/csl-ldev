@@ -5,13 +5,13 @@
 <div n="1"> 1) <lex>adj.</lex> {%zu lehren, tradendus%}: {#तदशिष्यम्#} 
 <ls>P. 1, 2, 53.</ls> 
 <div n="1">— 2) <lex>adj.</lex> {%zu belehren, zu unterweisen%}: {#अ°#} {%der nicht verdient unterwiesen zu werden%} 
-<ls>Spr. (II) 720. 3578.</ls> 
+<ls>Spr. (II) 720.</ls> <ls n="Spr. (II)">3578.</ls> 
 <div n="1">— 3) <lex>m.</lex> {%Schüler%} 
 <ls>AK. 2, 7, 10.</ls> 
 <ls>H. 79.</ls> 
 <ls>HALĀY. 2, 245.</ls> {#शिष्यो वेदविद्यार्थी । अन्तेवासी शिल्पशिक्षार्थी#} 
 <ls>MIT. 267, 15.</ls> 
-<ls>ṚV. PRĀT. 13, 19.</ls>  <ls n="ṚV. PRĀT.">15, 1.</ls>  fgg.
+<ls>ṚV. PRĀT. 13, 19.</ls> <ls n="ṚV. PRĀT.">15, 1.</ls> fgg.
 <ls>ṢAḌV. BR. 4, 1.</ls> 
 <ls>KAUŚ. 139. 141.</ls> 
 <ls>GOBH. 3, 3, 2.</ls> 
@@ -20,9 +20,9 @@
 <ls>SĀṂKHYAK. 71.</ls> 
 <ls>Spr. (II) 4074.</ls> 
 <ls>LA. (III) 87, 18.</ls> {#°हत्या#} 
-<ls>PAÑCAR. 2, 8, 27. 3, 9, 11. 17.</ls> <ls>Verz. d. Oxf. H. 45</ls>, {%a%}, 
-<ls>21. fg. 85</ls>, {%a%}, 
-<ls>20. 93</ls>, {%a%}, 
+<ls>PAÑCAR. 2, 8, 27. 3, 9, 11. 17.</ls> <ls>Verz. d. Oxf. H. 45,a,</ls> 
+<ls>21. fg. 85,a,</ls> 
+<ls>20. 93,a,</ls> 
 <ls>No. 149.</ls> {#गुरुशिष्य#} <lex>n.</lex> {%Lehrer und Schüler%} 
 <ls>Spr. (II) 4638.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>KATHĀS. 20, 145.</ls> {#शिष्या#} <lex>f.</lex> {%Schülerin%} 

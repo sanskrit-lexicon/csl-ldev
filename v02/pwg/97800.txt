@@ -1,8 +1,8 @@
 <L>97800<pc>7-0065<k1>शब्द<k2>श/ब्द
 {#श/ब्द#}¦ 
-<ls>UṆĀDIS. 4, 97.</ls> m. <ls>SIDDH. K. 250</ls>, {%a%}, 
-<ls>?3 (n. DHYĀNABINDŪP. in Ind. St. 2, 1).</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
-<ls>MBH. 4, 932. 9, 3053.</ls> 
+<ls>UṆĀDIS. 4, 97.</ls> m. <ls>SIDDH. K. 250,a,3</ls> 
+(n. <ls>DHYĀNABINDŪP.</ls> in <ls>Ind. St. 2, 1</ls>). am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
+<ls>MBH. 4, 932.</ls> <ls n="MBH.">9, 3053.</ls> 
 <ls>KUMĀRAS. 1, 1, 46.</ls> 
 <ls>ŚĀK. 169.</ls> 
 <ls>KATHĀS. 25, 125.</ls> 
@@ -26,7 +26,7 @@
 <ls n="TS. PRĀT.">22, 1.</ls> {#वर्णपृक्तः शब्दो वाच उत्पत्तिः#} 
 <ls n="TS. PRĀT.">23, 3.</ls> <ls>VS. PRĀT. 1, 7.</ls> <ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9, 24.</ls> fg. <ls>M. 1, 75. 12, 98.</ls> <ls>SUŚR. 1, 35, 20. 313, 2. 2, 176, 18.</ls> <ls>KAṆ. 2, 1, 25. 2, 1.</ls> <ls>TATTVAS. 11.</ls> <ls>BHĀG. P. 2, 5, 25.</ls> {#वेदये न च संयुक्तान् शब्दस्पर्शरसानहम्#} 
 <ls>R. 2, 64, 67.</ls> 
-<ls>VET.</ls> in <ls>LA. (III) 17, 19.</ls> {#°मात्रान्न भेतव्यम्#} 
+<ls>VET. in LA. (III) 17, 19.</ls> {#°मात्रान्न भेतव्यम्#} 
 <ls>Spr. 2955.</ls> {#शब्दं सहन्ते मृगाः#} 
 <ls>ŚĀK. 14.</ls> {#मधुरान्निशम्य शब्दान्#} 
 <ls>99.</ls> {#त्रयः शब्दाः#} 
@@ -44,23 +44,23 @@
 <ls>ŚĀK. 52.</ls> {#पद°#} 
 <ls>MṚCCH. 50, 12.</ls> {#कोकिलस्य#} 
 <ls>R. 1, 64, 10.</ls> {#कृकलास°#} 
-u.s.w. <ls>Verz. d. Oxf. H. 92</ls>, {%b%}, 
+u.s.w. <ls>Verz. d. Oxf. H. 92,b,</ls> 
 <ls>32. fgg.</ls> {#भगवच्छब्दं श्रुत्वा#} {%Stimme%} 
 <ls>MBH. 1, 693.</ls> {#शब्दमाज्ञाय#} 
 <ls>R. 2, 75, 5.</ls> {#शब्दानुसारेणावलोक्य#} 
 <ls>ŚĀK. 101, 20.</ls> {#जनानाम्#} 
 <ls>KATHĀS. 32, 67.</ls> 
 <ls>PAÑCAT. 123, 24.</ls> {#गुरुतरशब्देन रोदितव्यम्#} 
-<ls>VET.</ls> in <ls>LA. (III) 21, 16. fgg.</ls> {#लब्ध°#} <lex>adj.</lex> 
+<ls>VET. in LA. (III) 21, 16. fgg.</ls> {#लब्ध°#} <lex>adj.</lex> 
 <ls>R. 2, 63, 10.</ls> {#हरि°#} {%Laut, Ausruf%} <is>Hari</is> 
 <ls>WEBER, KṚṢṆAJ. 267.</ls> {#धिक्°#} 
 <ls>R. GORR. 2, 37, 15.</ls> {#गीयतां पीयतां चेति शब्दश्चासीद्गृहे गृहे#} {%lautes Rufen%} 
 <ls>MBH. 1, 7649.</ls> 
 <ls>R. 1, 13, 13.</ls> {#हा हेति सहसा मुक्तः शब्दः#} 
-<ls>MBH. 3, 2219. 2609.</ls> {#मा शब्दः सुखसुप्तानां भ्रातॄणां मे भवेत्#} {%Lärm%} 
+<ls>MBH. 3, 2219.</ls> <ls n="MBH. 3,">2609.</ls> {#मा शब्दः सुखसुप्तानां भ्रातॄणां मे भवेत्#} {%Lärm%} 
 <ls>1, 6003.</ls> {#मा शब्द इति सर्वत्र प्रचक्रामाथ तां सभाम्#} 
 <ls>HARIV. 2911.</ls> {#मा शब्द इत्येवं ब्रुवन्तः#} 
-<ls>5004.</ls> {#शब्दं कर्#} {%einen Laut von sich geben, seine Stimme erheben, laut rufen%} 
+<ls n="HARIV.">5004.</ls> {#शब्दं कर्#} {%einen Laut von sich geben, seine Stimme erheben, laut rufen%} 
 <ls>P. 4, 4, 34.</ls> 
 <ls>VOP. 21, 10.</ls> 
 <ls>R. 5, 29, 18. fg.</ls> 
@@ -68,7 +68,7 @@ u.s.w. <ls>Verz. d. Oxf. H. 92</ls>, {%b%},
 <ls>MBH. 1, 691.</ls> 
 <ls>KATHĀS. 12, 153. 32, 79.</ls> 
 <ls>PAÑCAR. 1, 3, 62.</ls> <ls>HIT. 23, 8.</ls> {#शब्दं दा#} dass. 
-<ls>VET.</ls> in <ls>LA. (III) 24, 8.</ls> 
+<ls>VET. in LA. (III) 24, 8.</ls> 
 <div n="1">— 2) {%Wort%} 
 <ls>AK. 1, 1, 5, 2.</ls> 
 <ls>NIR. 1, 2. 16.</ls> {#एकार्थमनेकशब्दम्#} 

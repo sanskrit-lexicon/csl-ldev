@@ -1,7 +1,7 @@
 <L>3023<pc>101<k1>caparison<k2>caparison
-<div n="lb"/>{@CAPARISON:@}¦ <div n="I">I (subs.): {#कुथः:#} v. Trappings.</div>
-<div n="lb"/><div n="I">II Verb: {#कुथेन मण्डयति,#} etc.; <div n="xe">{%saw Indrāyudha%}
-<div n="lb"/>{%c. ed with red cloth%}</div> <div n="xs">{#अरुणेनाश्वलङ्कारेणालङ्कृतमिन्द्रायु-#}
-<div n="lb"/>{#धमद्राक्षीत्,#}</div> <ls>K.</ls> C. ed: {#विभूषितः#} ({#ता, तं#}). N.
-<div n="lb"/>i. 57.</div>
+{@CAPARISON:@}¦ <div n="I">I (subs.): {#कुथः:#} v. Trappings.</div>
+<div n="I">II Verb: {#कुथेन मण्डयति,#} etc.; <div n="xe">{%saw Indrāyudha%}
+{%c. ed with red cloth%}</div> <div n="xs">{#अरुणेनाश्वलङ्कारेणालङ्कृतमिन्द्रायु-#}
+{#धमद्राक्षीत्,#}</div> <ls>K.</ls> C. ed: {#विभूषितः#} ({#ता, तं#}). N.
+i. 57.</div>
 <LEND>

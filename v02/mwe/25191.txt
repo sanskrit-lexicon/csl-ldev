@@ -1,11 +1,11 @@
 <L>25191<pc>680-b<k1>require<k2>require
-<div n="lb"/>{%To%} REQUIRE¦, {%v. a.%} (Ask, demand) {#प्रार्थ्#} (c. 10. {#-अर्थयति -ते -यितुं#}),
-<div n="lb"/>{#याच्#} (c. 1. {#याचति -चितुं#}), {#अभियाच्#}. — (Need, call for) {#आकांक्ष्#}
-<div n="lb"/>(c. 1. {#-कांक्षति -क्षितुं#}), {#अभिकांक्ष्, कांक्ष्, अर्ह्#} (c. 1. {#अर्हति -र्हितुं#}),
-<div n="lb"/>{#प्रार्थ्;#} or expressed by {#भू#} or {#अस्#} in conjunction with the
-<div n="lb"/>nouns {#प्रयोजनं, उपयोगः#} or {#कार्य्यं#}. {%See To%} NEED. The desid.
-<div n="lb"/>form may sometimes be used to express the sense of
-<div n="lb"/>‘require,’ thus; ‘three quantities being given, it is re-
-<div n="lb"/>quired to find a fourth,’ {#त्रीन् राशीन् निर्दिश्य चतुर्थो जिज्ञास्यते#}
-<div n="lb"/>(desid. pass. of {#ज्ञा#}).
+{%To%} REQUIRE¦, {%v. a.%} (Ask, demand) {#प्रार्थ्#} (c. 10. {#-अर्थयति -ते -यितुं#}),
+{#याच्#} (c. 1. {#याचति -चितुं#}), {#अभियाच्#}. — (Need, call for) {#आकांक्ष्#}
+(c. 1. {#-कांक्षति -क्षितुं#}), {#अभिकांक्ष्, कांक्ष्, अर्ह्#} (c. 1. {#अर्हति -र्हितुं#}),
+{#प्रार्थ्;#} or expressed by {#भू#} or {#अस्#} in conjunction with the
+nouns {#प्रयोजनं, उपयोगः#} or {#कार्य्यं#}. {%See To%} NEED. The desid.
+form may sometimes be used to express the sense of
+‘require,’ thus; ‘three quantities being given, it is re-
+quired to find a fourth,’ {#त्रीन् राशीन् निर्दिश्य चतुर्थो जिज्ञास्यते#}
+(desid. pass. of {#ज्ञा#}).
 <LEND>

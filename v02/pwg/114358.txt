@@ -9,11 +9,11 @@ m. (n. <ls>BHĀG. P. 3, 5, 32</ls>) <ls>P. 3, 3, 16.</ls> am Ende eines <lex>adj
 <div n="2"> a) {%Berührung%} 
 <ls>H. an.</ls> <ls>MED.</ls> {#हन्ति स्पर्शेनावरवर्णजः#} 
 <ls>M. 3, 241.</ls> {#मक्षिकाः#} u. s. w. {#स्पर्शे मेध्यानि#} 
-<ls>5, 133.</ls> <ls>MEGH. 89.</ls> <ls>Spr. (II) 3418. 6992.</ls> {#तं पतिं स्पर्शे ऽप्यवर्जयत्#} 
+<ls>5, 133.</ls> <ls>MEGH. 89.</ls> <ls>Spr. (II) 3418.</ls> <ls n="Spr. (II)">6992.</ls> {#तं पतिं स्पर्शे ऽप्यवर्जयत्#} 
 <ls>KATHĀS. 27, 186.</ls> {#°क्षम#} 
 <ls>ŚĀK. 27.</ls> {#भूषणवाससाम्#} 
 <ls>M. 8, 357.</ls> 
-<ls>Spr. (II) 3420. 6522.</ls> {#सुतस्य#} 
+<ls>Spr. (II) 3420.</ls> <ls n="Spr. (II)">6522.</ls> {#सुतस्य#} 
 <ls>VIKR. 149.</ls> {#पाद°#} 
 <ls>M. 3, 230.</ls> {#भस्मपङ्करजः°#} 
 <ls>YĀJÑ. 2, 213.</ls> 
@@ -24,7 +24,7 @@ m. (n. <ls>BHĀG. P. 3, 5, 32</ls>) <ls>P. 3, 3, 16.</ls> am Ende eines <lex>adj
 <ls>VARĀH. BṚH. S. 51,30.</ls> 
 <ls>MĀRK. P. 69,9.</ls> 
 <ls>KATHĀS.4,63.</ls> <ls>Verz. d. Oxf. H. 283,a,1. fgg.</ls> <ls>RĀJA-TAR.3,411.4,535.</ls> <ls>BHĀG. P.1,8,5. 11,23.</ls> <ls>HIT. 40,3.</ls> am Ende eines <lex>adj.</lex> comp. 
-<ls>R. GORR. 2, 47, 2.</ls> <ls>MEGH. 61.</ls> <ls>Spr. (II)</ls> <ls>?6597.KATHĀS. 71, 304. RĀJA-TAR. 4, 22.</ls>
+<ls>R. GORR. 2, 47, 2.</ls> <ls>MEGH. 61.</ls> <ls>Spr. (II) 6597.</ls> <ls>KATHĀS. 71, 304.</ls> <ls>RĀJA-TAR. 4, 22.</ls>
 [Page7-1363]
 
 <div n="2">— b) {%Berührung%} in astr. Sinne 
@@ -43,8 +43,8 @@ m. (n. <ls>BHĀG. P. 3, 5, 32</ls>) <ls>P. 3, 3, 16.</ls> am Ende eines <lex>adj
 <ls>ŚAT. BR. 14, 5, 4, 11.</ls> {#त्वचा स्पर्शान्वेदयते#} 
 <ls>6, 2, 9.</ls> {#वायुः स्पर्शगुणः#} 
 <ls>M. 1, 76. 12, 98.</ls> {#वायव्यस्तु गुणः स्पर्शः स्पर्शश्च बहुधा स्मृतः । उष्णः शीतः#} 
-u.s.w. <ls>MBH. 12, 6855. fgg. 14, 1415. fgg.</ls> <ls>KAṆ. 2, 1, 9.</ls> <ls>NYĀYAS. 1, 1, 14.</ls> <ls>SUŚR. 1, 355, 13.</ls> {#°दोष#} 
-<ls>?171,1. TARKAS. 14. TATTVAS. 12. Verz. d. Oxf. H. 225,a, No. 549. BHĀG. P.3,5,32. SARVADARŚANAS. 19,22. 87,12. 149,4. BHĀṢĀP. 3. VEDĀNTAS. (Allah.) No. 69. BURNOUF, Intr. 487. 500.</ls> {#स्पर्शान् - त्वगधिगच्छति#} 
+u.s.w. <ls>MBH. 12, 6855. fgg.</ls> <ls n="MBH.">14, 1415. fgg.</ls> <ls>KAṆ. 2, 1, 9.</ls> <ls>NYĀYAS. 1, 1, 14.</ls> <ls>SUŚR. 1, 355, 13.</ls> {#°दोष#} 
+<ls>171,1.</ls> <ls>TARKAS. 14.</ls> <ls>TATTVAS. 12.</ls> <ls>Verz. d. Oxf. H. 225,a, No. 549.</ls> <ls>BHĀG. P.3,5,32.</ls> <ls>SARVADARŚANAS. 19,22. 87,12. 149,4.</ls> <ls>BHĀṢĀP. 3.</ls> <ls>VEDĀNTAS. (Allah.) No. 69.</ls> <ls>BURNOUF, Intr. 487. 500.</ls> {#स्पर्शान् - त्वगधिगच्छति#} 
 <ls>MBH. 14, 663.</ls> {#वेदये न च संयुक्तान् शब्दस्पर्शरसानहम्#} 
 <ls>R. 2, 64, 67.</ls> {#ईदृशस्तु त्वया स्पर्शः स्पृष्टपूर्वो न कर्हिचित्#} 
 <ls>MBH. 4, 744.</ls> {#स्पर्शं वेत्सि#} 

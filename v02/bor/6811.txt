@@ -1,8 +1,8 @@
 <L>6811<pc>217<k1>double<k2>double
-<div n="lb"/>{@DOUBLE@}¦ (adj.): <div n="I">I Two-fold: </div><div n="1">(1) {#द्वि-#} in
-<div n="lb"/>comp.; </div><div n="1">(2) {#द्विकः#} ({#का, कं#}). </div><div n="I">II As much
-<div n="lb"/>again: {#द्विगुणः#} ({#णा, णं#}), <div n="xe">{%d. pay:%}</div> <div n="xs">{#द्विगुणवेतनम्।#}</div> </div><div n="I">III
-<div n="lb"/>In pairs: {#द्वन्द्वीभूय।#} </div><div n="I">IV Deceitful, ambiguous;
-<div n="lb"/>q. v.: perh. {#द्वि-#} in comp., {%having a d. meaning:%}
-<div n="lb"/>{#द्व्यर्थः#} ({#र्था, र्थं#}), Va.</div>
+{@DOUBLE@}¦ (adj.): <div n="I">I Two-fold: </div><div n="1">(1) {#द्वि-#} in
+comp.; </div><div n="1">(2) {#द्विकः#} ({#का, कं#}). </div><div n="I">II As much
+again: {#द्विगुणः#} ({#णा, णं#}), <div n="xe">{%d. pay:%}</div> <div n="xs">{#द्विगुणवेतनम्।#}</div> </div><div n="I">III
+In pairs: {#द्वन्द्वीभूय।#} </div><div n="I">IV Deceitful, ambiguous;
+q. v.: perh. {#द्वि-#} in comp., {%having a d. meaning:%}
+{#द्व्यर्थः#} ({#र्था, र्थं#}), Va.</div>
 <LEND>

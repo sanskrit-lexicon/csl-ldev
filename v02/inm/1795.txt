@@ -1,41 +1,41 @@
 <L>1795<pc>166-1<k1>ब्रह्मास्त्र<k2>ब्रह्मास्त्र
-{@Brahmāstra,@}¦ a celestial weapon. § 217 (Caitrarathap.):
-<div n="lb">I, {@166,@} 6340 (acquired by Droṇa from Rāma Jāmadagnya).
-<div n="lb">—§ 218 (Draupadīsambhava): I, {@167,@} 6378 (known by
-<div n="lb">Droṇa).—§ 320 (Saubhavadhop.): III, {@19,@} 766 (employed
-<div n="lb">by Pradyumna).—§ 442 (Nivātakavacayuddhap.): III, {@167,@}
-<div n="lb">11968 (employed by Arjuna), 11971.—§ 444 (do.): III,
-<div n="lb">{@170,@} 12120 {%(°parimantritaiḥ…sāyakaiḥ).%}—§ 478
-<div n="lb">(Dhundhumārop.): III, {@204,@} 13612 (employed by Kuva-
-<div n="lb">lāśva).—§ 526 (Rāmopākhyānap.): III, {@275<lang n="greek"></lang>,@} 15918
-<div n="lb">(acquired by Vibhīṣaṇa).—§ 539 (Kumbhakarṇādivadha):
-<div n="lb">III, {@287,@} 16426 (employed by Lakṣmaṇa).—§ 542 (Rāvaṇa-
-<div n="lb">vadha): III, {@290@} 16523 {%(vāṇavaryaṃ Rāmeṇa B°%}
-<div n="lb">{%nānumantritaṃ),%} 16525, 16529, 16530.—§ 552 (Goharaṇap.):
-<div n="lb">IV, {@55,@} 1590, 1592.—§ 573 (Ambopākhyānap.): V, {@184,@}
-<div n="lb">7283 (dual., employed by Bhīṣma and Rāma Jāmadagnya);
-<div n="lb">{@185,@} 7296.—§ 578 (Bhīṣmavadhap.): VI, {@48,@} 1975 {%(°ena%}
-<div n="lb">{%saṃyuktaṃ śaraṃ).%}—§ 592 (Saṃśaptakavadhap.): VII, {@27,@}
-<div n="lb">1214 (employed by Arjuna).—§ 599 (Jayadrathavadhap.):
-<div n="lb">VII, {@92,@} 3269 ({%°ṃ samudīrayan,%} sc. Arjuna), 3272; {@106,@}
-<div n="lb">4000 (employed by Yudhiṣṭhira); {@125,@} 5029.—§ 600
-<div n="lb">(Ghaṭotkacavadhap.): VII, {@157,@} 6961.—§ 601 (Droṇa-
-<div n="lb">vadhap.): VII, {@185,@} 8423 (pl.).—§ 602 (do.): VII, {@188,@}
-<div n="lb">8624 (employed by Arjuna); {@190,@} 8733.—§ 603 (Nārā-
-<div n="lb">yaṇāstramokṣap.): VII, {@193,@} 8935; {@197,@} 9113 (pl.);
-<div n="lb">{@199<lang n="greek"></lang>,@} 9228 ({%°viduṣā,%} i.e. Droṇa).—§ 608 (Karṇap.): VIII,
-<div n="lb">{@90,@} 4720 (employed by Karṇa), 4724 ({%°ṃ…saṃmantrya%}
-<div n="lb">{%samayojayat,%} sc. Arjuna), {@91,@} 4768 (employed by Karṇa),
-<div n="lb">4769 (employed by Arjuna).—§ 615 (Gadāyuddhap.): IX,
-<div n="lb">{@62<lang n="greek"></lang>,@} 3478, 3488.—§ 617 (Aiṣīkap.): X, {@15,@} 707 (acquired
-<div n="lb">by Arjuna from Droṇa).—§ 621 (Rājadh.): XII, {@2,@} 55
-<div n="lb">({%°ṃ vettum icchāmi,%} says Karṇa), 58 {%(°ṃ brāhmaṇo vidyāt%}
-<div n="lb">{%yathāvaccaritavrataḥ | kṣatriyo vā tapasvī yo nānyo vidyāt%}
-<div n="lb">{%kathañcana);%} {@3,@} 76 (obtained by Karṇa from Rāma Jāma-
-<div n="lb">dagnya), 104 ({%yasmān mithyopacarito hy astralobhād iha tvayā |%}
-<div n="lb">{%tasmād etan na te mūḍha B°ṃ pratibhāsyati,%} says Rāma to
-<div n="lb">Karṇa).—§ 785 (Anugītāp.): XIV, {@66,@} 1944 (afflicted by
-<div n="lb">{%B.,%} Parikṣit was stillborn); {@68,@} 1999 (do.), 2005 (do.);
-<div n="lb">{@69,@} 2024 (Kṛṣṇa touched water and withdrew {%B.%}); {@70,@}
-<div n="lb">2033 (do., Parikṣit was revived)
+{@Brahmāstra@},¦ a celestial weapon. § 217 (Caitrarathap.):
+I, {@166@}, 6340 (acquired by Droṇa from Rāma Jāmadagnya).
+—§ 218 (Draupadīsambhava): I, {@167@}, 6378 (known by
+Droṇa).—§ 320 (Saubhavadhop.): III, {@19@}, 766 (employed
+by Pradyumna).—§ 442 (Nivātakavacayuddhap.): III, {@167@},
+11968 (employed by Arjuna), 11971.—§ 444 (do.): III,
+{@170@}, 12120 ({%°parimantritaiḥ…sāyakaiḥ%}).—§ 478
+(Dhundhumārop.): III, {@204@}, 13612 (employed by Kuva-
+lāśva).—§ 526 (Rāmopākhyānap.): III, {@275@}<lang n="greek">γ</lang>, 15918
+(acquired by Vibhīṣaṇa).—§ 539 (Kumbhakarṇādivadha):
+III, {@287@}, 16426 (employed by Lakṣmaṇa).—§ 542 (Rāvaṇa-
+vadha): III, {@290@} 16523 ({%vāṇavaryaṃ Rāmeṇa B°%}
+{%nānumantritaṃ%}), 16525, 16529, 16530.—§ 552 (Goharaṇap.):
+IV, {@55@}, 1590, 1592.—§ 573 (Ambopākhyānap.): V, {@184@},
+7283 (dual., employed by Bhīṣma and Rāma Jāmadagnya);
+{@185@}, 7296.—§ 578 (Bhīṣmavadhap.): VI, {@48@}, 1975 ({%°ena%}
+{%saṃyuktaṃ śaraṃ%}).—§ 592 (Saṃśaptakavadhap.): VII, {@27@},
+1214 (employed by Arjuna).—§ 599 (Jayadrathavadhap.):
+VII, {@92@}, 3269 ({%°ṃ samudīrayan%}, sc. Arjuna), 3272; {@106@},
+4000 (employed by Yudhiṣṭhira); {@125@}, 5029.—§ 600
+(Ghaṭotkacavadhap.): VII, {@157@}, 6961.—§ 601 (Droṇa-
+vadhap.): VII, {@185@}, 8423 (pl.).—§ 602 (do.): VII, {@188@},
+8624 (employed by Arjuna); {@190@}, 8733.—§ 603 (Nārā-
+yaṇāstramokṣap.): VII, {@193@}, 8935; {@197@}, 9113 (pl.);
+{@199@}<lang n="greek">χ</lang>, 9228 ({%°viduṣā%}, i.e. Droṇa).—§ 608 (Karṇap.): VIII,
+{@90@}, 4720 (employed by Karṇa), 4724 ({%°ṃ…saṃmantrya%}
+{%samayojayat%}, sc. Arjuna), {@91@}, 4768 (employed by Karṇa),
+4769 (employed by Arjuna).—§ 615 (Gadāyuddhap.): IX,
+{@62@}<lang n="greek">ω</lang>, 3478, 3488.—§ 617 (Aiṣīkap.): X, {@15@}, 707 (acquired
+by Arjuna from Droṇa).—§ 621 (Rājadh.): XII, {@2@}, 55
+({%°ṃ vettum icchāmi%}, says Karṇa), 58 ({%°ṃ brāhmaṇo vidyāt%}
+{%yathāvaccaritavrataḥ | kṣatriyo vā tapasvī yo nānyo vidyāt%}
+{%kathañcana%}); {@3@}, 76 (obtained by Karṇa from Rāma Jāma-
+dagnya), 104 ({%yasmān mithyopacarito hy astralobhād iha tvayā |%}
+{%tasmād etan na te mūḍha B°ṃ pratibhāsyati%}, says Rāma to
+Karṇa).—§ 785 (Anugītāp.): XIV, {@66@}, 1944 (afflicted by
+{%B.%}, Parikṣit was stillborn); {@68@}, 1999 (do.), 2005 (do.);
+{@69@}, 2024 (Kṛṣṇa touched water and withdrew {%B%}.); {@70@},
+2033 (do., Parikṣit was revived)
 <LEND>

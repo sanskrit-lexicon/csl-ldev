@@ -1,7 +1,7 @@
 <L>8490<pc>269<k1>father<k2>father
-<div n="lb"/>{@FATHER:@}¦ (subs.): <div n="1">(1) {#पितृ#} (m.), <div n="xe">{%he was the f.,%}
-<div n="lb"/>{%their f. s were only begetters:%}</div> <div n="xs">{#स पिता पितरस्तासां #}
-<div n="lb"/>{# केवलं जन्महेतवः,#}</div> R. i. 24.; <div n="xe">{%you are the f. of%}
-<div n="lb"/>{%f.s:%}</div> <div n="xs">{#त्वं पितॄणामसि पिता,#}</div> Ku. ii. 14.; </div><div n="1">(2) {#जनकः;#}</div>
-<div n="lb"/><div n="1">(3) {#जनयितृ#} (m.); </div><div n="1">(4) {#तातः#} (= papa).</div>
+{@FATHER:@}¦ (subs.): <div n="1">(1) {#पितृ#} (m.), <div n="xe">{%he was the f.,%}
+{%their f. s were only begetters:%}</div> <div n="xs">{#स पिता पितरस्तासां #}
+{# केवलं जन्महेतवः,#}</div> R. i. 24.; <div n="xe">{%you are the f. of%}
+{%f.s:%}</div> <div n="xs">{#त्वं पितॄणामसि पिता,#}</div> Ku. ii. 14.; </div><div n="1">(2) {#जनकः;#}</div>
+<div n="1">(3) {#जनयितृ#} (m.); </div><div n="1">(4) {#तातः#} (= papa).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>14338<pc>440<k1>mealy<k2>mealy
-<div n="lb"/>{@MEALY:@}¦ <div n="I">I Consisting of meal: {#चूर्णमयः#} ({#यी, यं#})
-<div n="lb"/>etc. </div><div n="I">II Like meal: {#चूर्णसदृशः#} ({#शी, शं#}), etc.</div>
-<div n="lb"/><div n="I">III Soft: q. v.: {#मृदु#} (f. {#द्वी#}), {%m.-mouthed:%}
-<div n="lb"/>{#मृदुभाषिन्#} (f. {#णी#}) and sim. comp.s.</div>
+{@MEALY:@}¦ <div n="I">I Consisting of meal: {#चूर्णमयः#} ({#यी, यं#})
+etc. </div><div n="I">II Like meal: {#चूर्णसदृशः#} ({#शी, शं#}), etc.</div>
+<div n="I">III Soft: q. v.: {#मृदु#} (f. {#द्वी#}), {%m.-mouthed:%}
+{#मृदुभाषिन्#} (f. {#णी#}) and sim. comp.s.</div>
 <LEND>

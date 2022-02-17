@@ -1,12 +1,12 @@
 <L>7849<pc>248<k1>establish<k2>establish
-<div n="lb"/>{@ESTABLISH:@}¦ <div n="I">I To found, settle: q. v.: {#स्थाप-#}
-<div n="lb"/>{#यति, सं-, प्रति-,#} (c. of {#स्था#}), <div n="xe">{%will e. Kaivartas%}
-<div n="lb"/>{%in his kingdom:%}</div> <div n="xs">{#कैवर्तान् राज्ये स्थापयिष्यति,#}</div> V. p.
-<div n="lb"/>Ph: <div n="xe">{%the e. ed church:%}</div> <div n="xs">{#*प्रतिष्ठापितधर्मः।#}</div> </div><div n="I">II To
-<div n="lb"/>confirm: q. v.: {#स्थिरीकरोति।#} </div><div n="I">III To prove:
-<div n="lb"/>q. v.: </div><div n="1">(1) {#प्रति-पादयति, उप-,#} (c. of {#पद,#}), <div n="xe">{%does%}
-<div n="lb"/>{%not e. his claim by evidence:%}</div> <div n="xs">{#उक्तं प्रमाणेन न #}
-<div n="lb"/>{# प्रतिपादयति,#}</div> K. b.; </div><div n="1">(2) {#भावयति, वि-,#} (c. of {#भू#})
-<div n="lb"/>(rare), <div n="xe">{%a case e. ed by witness:%}</div> <div n="xs">{#साक्षिभिर्भावितं #}
-<div n="lb"/>{# कार्यम्,#}</div> Kat.</div>
+{@ESTABLISH:@}¦ <div n="I">I To found, settle: q. v.: {#स्थाप-#}
+{#यति, सं-, प्रति-,#} (c. of {#स्था#}), <div n="xe">{%will e. Kaivartas%}
+{%in his kingdom:%}</div> <div n="xs">{#कैवर्तान् राज्ये स्थापयिष्यति,#}</div> V. p.
+Ph: <div n="xe">{%the e. ed church:%}</div> <div n="xs">{#*प्रतिष्ठापितधर्मः।#}</div> </div><div n="I">II To
+confirm: q. v.: {#स्थिरीकरोति।#} </div><div n="I">III To prove:
+q. v.: </div><div n="1">(1) {#प्रति-पादयति, उप-,#} (c. of {#पद,#}), <div n="xe">{%does%}
+{%not e. his claim by evidence:%}</div> <div n="xs">{#उक्तं प्रमाणेन न #}
+{# प्रतिपादयति,#}</div> K. b.; </div><div n="1">(2) {#भावयति, वि-,#} (c. of {#भू#})
+(rare), <div n="xe">{%a case e. ed by witness:%}</div> <div n="xs">{#साक्षिभिर्भावितं #}
+{# कार्यम्,#}</div> Kat.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>23832<pc>746<k1>vicarage<k2>vicarage
-<div n="lb"/>{@VICARAGE:@}¦ <div n="I">I Residence: {#*अन्वाचार्यवासः,#} etc.</div>
-<div n="lb"/><div n="I">II The benefice: {#*अन्वाचार्याधिकारः:#} {%or%} sim.
-<div n="lb"/>{#अधिकारः#} (when sense is clear).</div>
+{@VICARAGE:@}¦ <div n="I">I Residence: {#*अन्वाचार्यवासः,#} etc.</div>
+<div n="I">II The benefice: {#*अन्वाचार्याधिकारः:#} {%or%} sim.
+{#अधिकारः#} (when sense is clear).</div>
 <LEND>

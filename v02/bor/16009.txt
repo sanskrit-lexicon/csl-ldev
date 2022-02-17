@@ -1,5 +1,5 @@
 <L>16009<pc>493<k1>orphan<k2>orphan
-<div n="lb"/>{@ORPHAN:@}¦ <div n="1">(1) {#अनाथः#} ({#था, थं#}) (= masterless),
-<div n="lb"/><div n="xe">{%o. asylum:%}</div> <div n="xs">{#*अनाथाश्रमः;#}</div> </div><div n="1">(2) {#पितृमातृविवर्जितः#}
-<div n="lb"/>({#ता, तं#}), Mah.</div>
+{@ORPHAN:@}¦ <div n="1">(1) {#अनाथः#} ({#था, थं#}) (= masterless),
+<div n="xe">{%o. asylum:%}</div> <div n="xs">{#*अनाथाश्रमः;#}</div> </div><div n="1">(2) {#पितृमातृविवर्जितः#}
+({#ता, तं#}), Mah.</div>
 <LEND>

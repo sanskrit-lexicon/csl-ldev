@@ -1,4 +1,4 @@
 <L>329<pc>013<k1>adulterer<k2>adulterer
-<div n="lb"/>{@ADULTERER:@}¦ <div n="1">(1) {#पारदारिकः;#} </div><div n="1">(2) {#पारतल्पिकः;#}</div>
-<div n="lb"/><div n="1">(3) {#परस्त्रीकामिन्#} (m).</div>
+{@ADULTERER:@}¦ <div n="1">(1) {#पारदारिकः;#} </div><div n="1">(2) {#पारतल्पिकः;#}</div>
+<div n="1">(3) {#परस्त्रीकामिन्#} (m).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>2568<pc>088<k1>bribe<k2>bribe
-<div n="lb"/>{@BRIBE@}¦ (v. t.): {#उत्कोचं ददाति#} ({#दा,#} c. 3.) Ph. <div n="xe">{%the%}
-<div n="lb"/>{%judge has been b. d%}</div> <div n="xs">{#उत्कोचदानेन वशीकृतो विचारकः।#}</div>
+{@BRIBE@}¦ (v. t.): {#उत्कोचं ददाति#} ({#दा,#} c. 3.) Ph. <div n="xe">{%the%}
+{%judge has been b. d%}</div> <div n="xs">{#उत्कोचदानेन वशीकृतो विचारकः।#}</div>
 <LEND>

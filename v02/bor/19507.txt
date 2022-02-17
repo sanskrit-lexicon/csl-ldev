@@ -1,13 +1,13 @@
 <L>19507<pc>606<k1>rub<k2>rub
-<div n="lb"/>{@RUB@}¦ (v.): <div n="I">I In gen.: {#घर्षति, उत्-, नि-, विनि-, #}
-<div n="lb"/>{# सं-,#} ({#घृष्,#} c. 1.), <div n="xe">{%r. bed diadems:%}</div> <div n="xs">{#चूडामणिभिरु-#}
-<div n="lb"/>{#द्घृष्ट#}</div> (f. {#ष्टा#}), R. xvii. 28.; <div n="xe">{%r. bing his ring%}
-<div n="lb"/>{%against a bed of red arsenic:%}</div> <div n="xs">{#निघृष्याङ्गुलिं मनःशिला-#}
-<div n="lb"/>{#गिरौ,#}</div> Ram. ii. 105. 17. </div><div n="I">II To besmear:
-<div n="lb"/>q. v.: {#अभ्यनक्ति#} ({#अञ्ज्,#} c. 7.). </div><div n="I">III To sham-
-<div n="lb"/>-poo: q. v.: {#संवाहयति#} (c. of {#वह्#}). </div><div n="I">IV To r.
-<div n="lb"/>down, out, off, away, i. e. to cleanse, erase:
-<div n="lb"/>q. v.: {#प्र-मार्ष्टि#} <div n="xe">{%or%}</div> <div n="xs">{#मार्जयति#}</div> ({#मृज्,#} c. 2. and c. 10).</div>
-<div n="lb"/><div n="I">V To r. off, i. e. wear away: q. v.: {#क्षीयते#}
-<div n="lb"/>(pass. of {#क्षी#}).</div>
+{@RUB@}¦ (v.): <div n="I">I In gen.: {#घर्षति, उत्-, नि-, विनि-, #}
+{# सं-,#} ({#घृष्,#} c. 1.), <div n="xe">{%r. bed diadems:%}</div> <div n="xs">{#चूडामणिभिरु-#}
+{#द्घृष्ट#}</div> (f. {#ष्टा#}), R. xvii. 28.; <div n="xe">{%r. bing his ring%}
+{%against a bed of red arsenic:%}</div> <div n="xs">{#निघृष्याङ्गुलिं मनःशिला-#}
+{#गिरौ,#}</div> Ram. ii. 105. 17. </div><div n="I">II To besmear:
+q. v.: {#अभ्यनक्ति#} ({#अञ्ज्,#} c. 7.). </div><div n="I">III To sham-
+-poo: q. v.: {#संवाहयति#} (c. of {#वह्#}). </div><div n="I">IV To r.
+down, out, off, away, i. e. to cleanse, erase:
+q. v.: {#प्र-मार्ष्टि#} <div n="xe">{%or%}</div> <div n="xs">{#मार्जयति#}</div> ({#मृज्,#} c. 2. and c. 10).</div>
+<div n="I">V To r. off, i. e. wear away: q. v.: {#क्षीयते#}
+(pass. of {#क्षी#}).</div>
 <LEND>

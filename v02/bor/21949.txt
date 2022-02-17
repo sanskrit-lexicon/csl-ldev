@@ -1,10 +1,10 @@
 <L>21949<pc>692<k1>support<k2>support
-<div n="lb"/>{@SUPPORT@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#आलम्बः, -नम्,#}
-<div n="lb"/><div n="xe">{%s. to (men) in distress:%}</div> <div n="xs">{#विपत्तिमग्नाय करावलम्बनम्,#}</div>
-<div n="lb"/>P. h.; </div><div n="1">(2) {#अवलम्बः, -नम्,#} <div n="xe">{%manliness is the highest%}
-<div n="lb"/>{%s. for self:%}</div> <div n="xs">{#मतमालम्बनमात्मपौरुषम्,#}</div> Ki. ii. 13.;</div>
-<div n="lb"/><div n="1">(3) {#आश्रयः:#} v. Refuge; </div><div n="1">(4) {#उपघ्नः#} (rare), <div n="xe">{%s.%}
-<div n="lb"/>{%ing tree:%}</div> <div n="xs">{#उपघ्नतरुः,#}</div> R. xiv. 1.; </div><div n="1">(5) {#अवष्टम्भः,#} <div n="xe">{%s.%}
-<div n="lb"/>{%from knowledge:%}</div> <div n="xs">{#ज्ञानावष्टम्भः,#}</div> K. </div><div n="I">II Nourish-
-<div n="lb"/>-ment, maintenance: q. v.</div>
+{@SUPPORT@}¦ (subs.): <div n="I">I In gen.: </div><div n="1">(1) {#आलम्बः, -नम्,#}
+<div n="xe">{%s. to (men) in distress:%}</div> <div n="xs">{#विपत्तिमग्नाय करावलम्बनम्,#}</div>
+P. h.; </div><div n="1">(2) {#अवलम्बः, -नम्,#} <div n="xe">{%manliness is the highest%}
+{%s. for self:%}</div> <div n="xs">{#मतमालम्बनमात्मपौरुषम्,#}</div> Ki. ii. 13.;</div>
+<div n="1">(3) {#आश्रयः:#} v. Refuge; </div><div n="1">(4) {#उपघ्नः#} (rare), <div n="xe">{%s.%}
+{%ing tree:%}</div> <div n="xs">{#उपघ्नतरुः,#}</div> R. xiv. 1.; </div><div n="1">(5) {#अवष्टम्भः,#} <div n="xe">{%s.%}
+{%from knowledge:%}</div> <div n="xs">{#ज्ञानावष्टम्भः,#}</div> K. </div><div n="I">II Nourish-
+-ment, maintenance: q. v.</div>
 <LEND>

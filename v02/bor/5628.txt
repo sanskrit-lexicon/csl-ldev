@@ -1,5 +1,5 @@
 <L>5628<pc>180<k1>deed<k2>deed
-<div n="lb"/>{@DEED:@}¦ <div n="I">I An act: q. v.: </div><div n="1">(1) {#कर्मन्#} (n.); </div><div n="1">(2)
-<div n="lb"/>{#अवदानम्#} (=a noble d.), Sa. </div><div n="I">II A legal ins-
-<div n="lb"/>-trument: {#पत्रम्,#} <div n="xe">{%d. of sale:%}</div> <div n="xs">{#विक्रयपत्रम्,#}</div> Raj.</div>
+{@DEED:@}¦ <div n="I">I An act: q. v.: </div><div n="1">(1) {#कर्मन्#} (n.); </div><div n="1">(2)
+{#अवदानम्#} (=a noble d.), Sa. </div><div n="I">II A legal ins-
+-trument: {#पत्रम्,#} <div n="xe">{%d. of sale:%}</div> <div n="xs">{#विक्रयपत्रम्,#}</div> Raj.</div>
 <LEND>

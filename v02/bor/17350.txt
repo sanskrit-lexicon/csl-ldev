@@ -1,9 +1,9 @@
 <L>17350<pc>531<k1>pollute<k2>pollute
-<div n="lb"/>{@POLLUTE@}¦ (v. t.): <div n="1">(1) {#दूषयति, सं-, वि-, प्र-,#} (c. of
-<div n="lb"/>{#दुष्#}), <div n="xe">{%some animal p. d the offering:%}</div> <div n="xs">{#हविः #}
-<div n="lb"/>{# कश्चिन्मृगोऽदूदुषत्,#}</div> Say.; <div n="xe">{%you are p. d, you are%}
-<div n="lb"/>{%disgraced by the wretched Rāma:%}</div> <div n="xs">{#दूषिताः स्थ #}
-<div n="lb"/>{# परिभूताः स्थ रामहतकेन,#}</div> U.; <div n="xe">{%who p. s an unwilling%}
-<div n="lb"/>{%virgin:%}</div> <div n="xs">{#योऽकामां दूषयेत् कन्याम्,#}</div> M.; </div><div n="1">(2) {#कलङ्कयति#}
-<div n="lb"/>(= to stain); </div><div n="1">(3) {#मलिनयति#} (= to befoul).</div>
+{@POLLUTE@}¦ (v. t.): <div n="1">(1) {#दूषयति, सं-, वि-, प्र-,#} (c. of
+{#दुष्#}), <div n="xe">{%some animal p. d the offering:%}</div> <div n="xs">{#हविः #}
+{# कश्चिन्मृगोऽदूदुषत्,#}</div> Say.; <div n="xe">{%you are p. d, you are%}
+{%disgraced by the wretched Rāma:%}</div> <div n="xs">{#दूषिताः स्थ #}
+{# परिभूताः स्थ रामहतकेन,#}</div> U.; <div n="xe">{%who p. s an unwilling%}
+{%virgin:%}</div> <div n="xs">{#योऽकामां दूषयेत् कन्याम्,#}</div> M.; </div><div n="1">(2) {#कलङ्कयति#}
+(= to stain); </div><div n="1">(3) {#मलिनयति#} (= to befoul).</div>
 <LEND>

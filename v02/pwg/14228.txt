@@ -6,7 +6,7 @@
 <ls>TRIK. 2, 5, 16. 3, 3, 15.</ls> 
 <ls>H. 1333. 1247.</ls> 
 <ls>an. 2, 3.</ls> 
-<ls>MED. k. 18.</ls> <ls>HĀR. 186.</ls> <ls>VS. 24, 31.</ls> <ls>SV. II, 9, 3, 6, 1.</ls> <ls>ADBH. BR.</ls> in <ls>Ind. St. 1, 40.</ls> <ls>MBH. 1, 3603. 13, 5473.</ls> <ls>HIḌ. 4, 9.</ls> <ls>R. 6, 90, 25.</ls> <ls>SUŚR. 1, 114, 8. 118, 5. 132, 8. 202, 13. 2, 196, 17.</ls> <ls>MṚCCH. 144, 11.</ls> <ls>PRAB. 87, 12.</ls> <ls>BHĀG. P. 3, 10, 23.</ls> {#(शराः) कङ्कबर्हिणवाससः#} 
+<ls>MED. k. 18.</ls> <ls>HĀR. 186.</ls> <ls>VS. 24, 31.</ls> <ls>SV. II, 9, 3, 6, 1.</ls> <ls>ADBH. BR.</ls> in <ls>Ind. St. 1, 40.</ls> <ls>MBH. 1, 3603.</ls> <ls n="MBH.">13, 5473.</ls> <ls>HIḌ. 4, 9.</ls> <ls>R. 6, 90, 25.</ls> <ls>SUŚR. 1, 114, 8. 118, 5. 132, 8. 202, 13. 2, 196, 17.</ls> <ls>MṚCCH. 144, 11.</ls> <ls>PRAB. 87, 12.</ls> <ls>BHĀG. P. 3, 10, 23.</ls> {#(शराः) कङ्कबर्हिणवाससः#} 
 <ls>MBH. 4, 1867.</ls> {#कङ्कवाससः#} 
 <ls>R. 6, 19, 63.</ls> {%der Urreiher%} ein Sohn der <is>Surasā</is> 
 <ls>MBH. 1, 2633.</ls> {#कङ्कचि/त्#} {%in Gestalt eines Reihers geschichtet%} 
@@ -17,14 +17,14 @@
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— c) ein Bein. <is>Yama's</is> 
 <ls>TRIK. 3, 3, 15.</ls> 
-<ls>H. an.</ls>  
+<ls>H. an.</ls> 
 <ls>MED.</ls>
 [Page2-0014]
 
 <div n="2">— d) N. pr. eines Königs 
-<ls>MBH. 1, 227. 2, 623. 1274.</ls> ein <is>Vṛṣṇi</is> 
+<ls>MBH. 1, 227.</ls> <ls n="MBH.">2, 623.</ls> <ls n="MBH. 2,">1274.</ls> ein <is>Vṛṣṇi</is> 
 <ls>1, 6999.</ls> ein Sohn <is>Ugrasena's</is> 
-<ls>HARIV. 2028. 5081. 6627.</ls> 
+<ls>HARIV. 2028.</ls> <ls n="HARIV.">5081.</ls> <ls n="HARIV.">6627.</ls> 
 <ls>BHĀG. P. 9, 24, 23.</ls> 
 <ls>VP. 436.</ls> ein Sohn <is>Śūra's</is> 
 <ls>BHĀG. P. 9, 24, 28. 43.</ls> 
@@ -32,7 +32,7 @@
 <ls>MBH. 2, 1850.</ls> 
 <ls>VARĀH. BṚH. S. 14, 4.</ls> in <ls>Verz. d. B. H. 240.</ls> <ls>BHĀG. P. 2, 4, 18. 9, 20, 30.</ls> <ls>LIA. I, 851.</ls> 
 <div n="2">— f) ein Name, den <is>Yudhiṣṭhira</is> beim König <is>Virāṭa</is> annimmt, wobei er sich für einen Brahmanen ausgiebt, 
-<ls>MBH. 4, 23. 224. 227.</ls> 
+<ls>MBH. 4, 23.</ls> <ls n="MBH. 4,">224.</ls> <ls n="MBH. 4,">227.</ls> 
 <ls>TRIK. 2, 8, 14.</ls> 
 <ls>H. 707.</ls> Daher 
 <div n="2">— g) {%ein Brahman dem Scheine nach%} 

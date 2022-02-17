@@ -1,19 +1,19 @@
 <L>19706<pc>612<k1>same<k2>same
-<div n="lb"/>{@SAME:@}¦ <div n="I">I Identical: expr. by {#तद्,#} <div n="xe">{%it is like%}
-<div n="lb"/>{%it, but not the s.:%}</div> <div n="xs">{#सदृश एषः, न पुनः सः,#}</div> Mr. ix.;
-<div n="lb"/><div n="xe">{%it is certainly the s.:%}</div> <div n="xs">{#नियतं स एषः,#}</div> U. iii. 12.;
-<div n="lb"/><div n="xe">{%saying he is the s.:%}</div> <div n="xs">{#सोऽयमितीरयित्वा,#}</div> Ma. i.
-<div n="lb"/>25.; {%the order is to go to the very s. place:%}
-<div n="lb"/>{#तत्रैव गमनादेशः,#} Vi. iv. 43.; <div n="xe">{%what I am, the s.%}
-<div n="lb"/>{%is the son of Sun to you:%}</div> <div n="xs">{#योऽहं सूर्यसुतः स एष #}
-<div n="lb"/>{# भवताम्,#}</div> Vi. v. 55. </div><div n="I">II One, not different:</div>
-<div n="lb"/><div n="1">(1) {#स-#} in certain comp. s. (G. § 109. A.),
-<div n="lb"/><div n="xe">{%of the s. colour:%}</div> <div n="xs">{#सवर्ण#}</div> (f. {#र्णा#}), Me.; <div n="xe">{%at the%}
-<div n="lb"/>{%s. time:%}</div> <div n="xs">{#सममेव,#}</div> Ki. xiv. 44.; </div><div n="1">(2) {#एकः#}
-<div n="lb"/>({#का, कं#}), <div n="xe">{%living in the s. place:%}</div> <div n="xs">{#एकायतनः#}</div>
-<div n="lb"/>({#ना, नं#}), Mah.; <div n="xe">{%in the s. place:%}</div> <div n="xs">{#एकत्र,#}</div> C. i.;
-<div n="lb"/><div n="xe">{%getting on the s. chariot:%}</div> <div n="xs">{#एकं स्यन्दमास्थितौ,#}</div> R. i.
-<div n="lb"/>36. </div><div n="I">III Corresponding: {#समः#} ({#मा, मं#}) {%or%}
-<div n="lb"/>{#समानः#} ({#ना, नं#}): v. Equal, like, Ph.: <div n="xe">{%in%}
-<div n="lb"/>{%the s. manner:%}</div> <div n="xs">{#तथा, तद्वत्;#}</div> <div n="xe">{%s. as:%}</div> <div n="xs">{#यथा॥।तथैव।#}</div></div>
+{@SAME:@}¦ <div n="I">I Identical: expr. by {#तद्,#} <div n="xe">{%it is like%}
+{%it, but not the s.:%}</div> <div n="xs">{#सदृश एषः, न पुनः सः,#}</div> Mr. ix.;
+<div n="xe">{%it is certainly the s.:%}</div> <div n="xs">{#नियतं स एषः,#}</div> U. iii. 12.;
+<div n="xe">{%saying he is the s.:%}</div> <div n="xs">{#सोऽयमितीरयित्वा,#}</div> Ma. i.
+25.; {%the order is to go to the very s. place:%}
+{#तत्रैव गमनादेशः,#} Vi. iv. 43.; <div n="xe">{%what I am, the s.%}
+{%is the son of Sun to you:%}</div> <div n="xs">{#योऽहं सूर्यसुतः स एष #}
+{# भवताम्,#}</div> Vi. v. 55. </div><div n="I">II One, not different:</div>
+<div n="1">(1) {#स-#} in certain comp. s. (G. § 109. A.),
+<div n="xe">{%of the s. colour:%}</div> <div n="xs">{#सवर्ण#}</div> (f. {#र्णा#}), Me.; <div n="xe">{%at the%}
+{%s. time:%}</div> <div n="xs">{#सममेव,#}</div> Ki. xiv. 44.; </div><div n="1">(2) {#एकः#}
+({#का, कं#}), <div n="xe">{%living in the s. place:%}</div> <div n="xs">{#एकायतनः#}</div>
+({#ना, नं#}), Mah.; <div n="xe">{%in the s. place:%}</div> <div n="xs">{#एकत्र,#}</div> C. i.;
+<div n="xe">{%getting on the s. chariot:%}</div> <div n="xs">{#एकं स्यन्दमास्थितौ,#}</div> R. i.
+36. </div><div n="I">III Corresponding: {#समः#} ({#मा, मं#}) {%or%}
+{#समानः#} ({#ना, नं#}): v. Equal, like, Ph.: <div n="xe">{%in%}
+{%the s. manner:%}</div> <div n="xs">{#तथा, तद्वत्;#}</div> <div n="xe">{%s. as:%}</div> <div n="xs">{#यथा॥।तथैव।#}</div></div>
 <LEND>

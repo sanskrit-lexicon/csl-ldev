@@ -1,7 +1,7 @@
 <L>13949<pc>428<k1>luxurious<k2>luxurious
-<div n="lb"/>{@LUXURIOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#विलासप्रियः#} ({#या, #}
-<div n="lb"/>{# यं#}); </div><div n="1">(2) {#भोगासक्त#} (f. {#क्ता#}); </div><div n="1">(3) {#विषयसुखनिरतः#}
-<div n="lb"/>({#ता, तं#}); etc. </div><div n="I">II Of things, etc.: {#विलासमयः#}
-<div n="lb"/>({#यी, यं#}) (?); {#अतिसुखावहः#} ({#हा, हं#}) (?). </div><div n="I">III
-<div n="lb"/>Abundant: {#प्रचुरः#} ({#रा, रं#}).</div>
+{@LUXURIOUS:@}¦ <div n="I">I Of men: </div><div n="1">(1) {#विलासप्रियः#} ({#या, #}
+{# यं#}); </div><div n="1">(2) {#भोगासक्त#} (f. {#क्ता#}); </div><div n="1">(3) {#विषयसुखनिरतः#}
+({#ता, तं#}); etc. </div><div n="I">II Of things, etc.: {#विलासमयः#}
+({#यी, यं#}) (?); {#अतिसुखावहः#} ({#हा, हं#}) (?). </div><div n="I">III
+Abundant: {#प्रचुरः#} ({#रा, रं#}).</div>
 <LEND>

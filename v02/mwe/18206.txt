@@ -1,9 +1,9 @@
 <L>18206<pc>465-a<k1>longitude<k2>longitude
-<div n="lb"/>LONGITUDE¦, {%s.%} {#द्राधिमा#} {%m.%} {#(न्), ध्रुवकः#}. — (Position to east or west)
-<div n="lb"/>{#रेखान्तरं, रेखांशः;#} ‘of a country,’ {#देशान्तरं#}. — (Of the earth)
-<div n="lb"/>{#रेखांशः, रेखापरिधिः#} {%m.,%} {#रेखागणः, रेखासमूहः#}. — (Of any point or
-<div n="lb"/>object in the heavens) {#भोगः;#} ‘of the sun,’ {#रविभोगः;#} ‘of a
-<div n="lb"/>planet reckoned from the vernal equinoctial point,’ {#सायनं#}.
-<div n="lb"/> — (Meridian or circle of longitude) {#याम्योत्तरवृत्तं, रेखावृत्तं,#}
-<div n="lb"/>{#रेखांशवृत्तं#}.
+LONGITUDE¦, {%s.%} {#द्राधिमा#} {%m.%} {#(न्), ध्रुवकः#}. — (Position to east or west)
+{#रेखान्तरं, रेखांशः;#} ‘of a country,’ {#देशान्तरं#}. — (Of the earth)
+{#रेखांशः, रेखापरिधिः#} {%m.,%} {#रेखागणः, रेखासमूहः#}. — (Of any point or
+object in the heavens) {#भोगः;#} ‘of the sun,’ {#रविभोगः;#} ‘of a
+planet reckoned from the vernal equinoctial point,’ {#सायनं#}.
+ — (Meridian or circle of longitude) {#याम्योत्तरवृत्तं, रेखावृत्तं,#}
+{#रेखांशवृत्तं#}.
 <LEND>

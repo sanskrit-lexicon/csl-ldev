@@ -1,6 +1,6 @@
 <L>9686<pc>306<k1>garden<k2>garden
-<div n="lb"/>{@GARDEN:@}¦ <div n="1">(1) {#उद्यानम्,#} {%the beauty of the old g.:%}
-<div n="lb"/>{#जीर्णोद्यानस्य सश्रीकता,#} Mr. vii.; </div><div n="1">(2) {#आराप्नः#}
-<div n="lb"/>(= pleasure.-g.); </div><div n="1">(3) {#आक्रीडः#} (=2.); </div><div n="1">(4) {#वाटिका,#}
-<div n="lb"/><div n="xe">{%Kitchen g.:%}</div> <div n="xs">{#शाकवाटिका।#}</div></div>
+{@GARDEN:@}¦ <div n="1">(1) {#उद्यानम्,#} {%the beauty of the old g.:%}
+{#जीर्णोद्यानस्य सश्रीकता,#} Mr. vii.; </div><div n="1">(2) {#आराप्नः#}
+(= pleasure.-g.); </div><div n="1">(3) {#आक्रीडः#} (=2.); </div><div n="1">(4) {#वाटिका,#}
+<div n="xe">{%Kitchen g.:%}</div> <div n="xs">{#शाकवाटिका।#}</div></div>
 <LEND>

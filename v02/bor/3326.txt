@@ -1,8 +1,8 @@
 <L>3326<pc>110<k1>censure<k2>censure
-<div n="lb"/>{@CENSURE@}¦ (subs.): <div n="1">(1) {#निन्दा#} (=blame): </div><div n="1">(2)
-<div n="lb"/>{#उपालम्भः#} (=reproach), <div n="xe">{%I have received this c.%}
-<div n="lb"/>{%from Your Highness%}</div> <div n="xs">{#मया कुमारादयमुपालम्भोऽधिगत#}</div>
-<div n="lb"/>Mu. v.; </div><div n="1">(3) {#भर्त्सना#} (reproof); </div><div n="1">(4) {#तिर #}
-<div n="lb"/>{# स्कारः#} (=abuse, rebuke); </div><div n="1">(5) {#गर्हा#} (rare in
-<div n="lb"/>this sense).</div>
+{@CENSURE@}¦ (subs.): <div n="1">(1) {#निन्दा#} (=blame): </div><div n="1">(2)
+{#उपालम्भः#} (=reproach), <div n="xe">{%I have received this c.%}
+{%from Your Highness%}</div> <div n="xs">{#मया कुमारादयमुपालम्भोऽधिगत#}</div>
+Mu. v.; </div><div n="1">(3) {#भर्त्सना#} (reproof); </div><div n="1">(4) {#तिर #}
+{# स्कारः#} (=abuse, rebuke); </div><div n="1">(5) {#गर्हा#} (rare in
+this sense).</div>
 <LEND>

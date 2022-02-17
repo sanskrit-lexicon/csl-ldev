@@ -1,6 +1,6 @@
 <L>14107<pc>433<k1>mane<k2>mane
-<div n="lb"/>{@MANE:@}¦ <div n="1">(1) {#केश(स)रः,#} <div n="xe">{%with the lustre of the hair%}
-<div n="lb"/>{%of the m.:%}</div> <div n="xs">{#केशरकेशरश्मिभिः,#}</div> <ls>N.</ls> ; </div><div n="1">(2) {#सटा,#} <div n="xe">{%a%}
-<div n="lb"/>{%flowing m.:%}</div> <div n="xs">{#सटाच्छटा,#}</div> Si. {%M. d.:%} i. e. <div n="xe">{%having%}
-<div n="lb"/>{%m.:%}</div> <div n="xs">{#केशरिन्#}</div> (f. {#णी#}).</div>
+{@MANE:@}¦ <div n="1">(1) {#केश(स)रः,#} <div n="xe">{%with the lustre of the hair%}
+{%of the m.:%}</div> <div n="xs">{#केशरकेशरश्मिभिः,#}</div> <ls>N.</ls> ; </div><div n="1">(2) {#सटा,#} <div n="xe">{%a%}
+{%flowing m.:%}</div> <div n="xs">{#सटाच्छटा,#}</div> Si. {%M. d.:%} i. e. <div n="xe">{%having%}
+{%m.:%}</div> <div n="xs">{#केशरिन्#}</div> (f. {#णी#}).</div>
 <LEND>

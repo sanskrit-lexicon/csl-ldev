@@ -1,6 +1,6 @@
 <L>59333<pc>5-0675<k1>महेश्वर<k2>महेश्वर
 {#महेश्वर#}¦ 
-<div n="1"> 1) <lex>m.</lex> {#(महा + ई°)#} 
+<div n="1"> 1) <lex>m.</lex> ({#महा + ई°#}) 
 <div n="2"> a) {%der grosse Herr, Oberherr, Haupt%} 
 <ls>MED. r. 292.</ls> {#तमीश्वराणां परमं महेश्वरम्#} 
 <ls>ŚVETĀŚV. UP. 6, 7.</ls> {#त्रिदशानाम्#} (<is>Indra</is>) 
@@ -12,9 +12,9 @@
 <ls>N. 3, 8. 4, 23. 5, 21.</ls> sg. {%Gott%} (im Gegens. zu {#प्रकृति)#} 
 <ls>ŚVETĀŚV. UP. 4, 10.</ls> 
 <ls>Ind. St. 2, 92.</ls> <ls>MUIR, ST. 3, 5. 71. 222.</ls> Insbes. Bein. <is>Śiva's</is> 
-<ls>AK.1,1,1,25.3,4,9,37.</ls> <ls>H. 198.</ls> <ls>MED.</ls> <ls>AV. PARIŚ. 42,3.</ls> <ls>Ind. St.4,359.</ls> <ls>MBH.1,1154. 7701. 12,12957. 14,141.</ls> <ls>HARIV. 7586.</ls> <ls>R.1,37,27. 44,5. 76,17.5,5,7.</ls> <ls>RAGH.3,49.</ls> <ls>Spr. 9. 2159.</ls> <ls>KATHĀS. 69,37.</ls> <ls>VP. 65. 66.</ls> <ls>MĀRK. P. 51,56.</ls> <ls>Verz. d. Oxf. H. 45,a,6. 76,a,6. 103,a,31.</ls> <ls>LALIT. ed. Calc. 340,1 v. u.</ls> <ls>WASSILJEW</ls> 198. 214. <ls>HIOUEN-THSANG 1,124. 237. 264. 354.2,157. 178.</ls> {#°लिङ्ग#} 
+<ls>AK. 1,1,1,25.3,4,9,37.</ls> <ls>H. 198.</ls> <ls>MED.</ls> <ls>AV. PARIŚ. 42,3.</ls> <ls>Ind. St. 4,359.</ls> <ls>MBH. 1, 1154.</ls> <ls n="MBH. 1,">7701.</ls> <ls n="MBH.">12, 12957.</ls> <ls n="MBH.">14, 141.</ls> <ls>HARIV. 7586.</ls> <ls>R. 1,37,27. 44,5. 76,17.5,5,7.</ls> <ls>RAGH. 3,49.</ls> <ls>Spr. 9. 2159.</ls> <ls>KATHĀS. 69,37.</ls> <ls>VP. 65. 66.</ls> <ls>MĀRK. P. 51,56.</ls> <ls>Verz. d. Oxf. H. 45,a,6. 76,a,6. 103,a,31.</ls> <ls>LALIT. ed. Calc. 340,1</ls> v. u. <ls>WASSILJEW 198. 214.</ls> <ls>HIOUEN-THSANG 1,124. 237. 264. 354.2,157. 178.</ls> {#°लिङ्ग#} 
 <ls>KṢITĪŚ. 26, 4.</ls> Bez. <is>Viṣṇu's</is> 
-<ls>WEBER, RĀMAT. UP. 352.</ls> <ls>Spr.</ls> <ls>?4512(?).</ls> 
+<ls>WEBER, RĀMAT. UP. 352.</ls> <ls>Spr.</ls> <ls>4512(?).</ls> 
 <div n="2">— b) N. pr. eines <is>Devaputra</is> 
 <ls>LALIT. ed. Calc. 3, 16. 4, 15. 6, 19. 7, 12.</ls> <ls>Lot. de la b. l. 3.</ls> eines <is>Yakṣa</is> 
 <ls>BURN. Intr. 256.</ls> 

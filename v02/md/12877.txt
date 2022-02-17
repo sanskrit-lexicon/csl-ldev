@@ -1,11 +1,11 @@
 <L>12877<pc>196-2<k1>बिल्व<k2>बिल्व
 {#बिल्व#}¦bilvâ, {%m.%} {%a tree%} ({%Aegle Marmelos%}) 
-<>{%bearing delicious fruit%} ({%which when unripe %}
-<>{%is used medicinally%}); {%n.%} Bilva fruit; {%a certain %}<lbinfo n="3"/>
-<>{% weight%} (= ¤1¤ pala): ({@a@}) {@-daṇḍa@}, {%a.%} having 
-<>a staff of Bilva wood; {@-daṇḍin@}, {%a. id.%}; 
-<>{@-pattra-maya,@} {%a.%} consisting of Bilva leaves; 
-<>{@-mātra,@} {%m.%} weight of a Bilva fruit; {%a.%} of the 
-<>size of a Bilva fruit; having the weight of 
-<>a Bilva fruit; {@-vana,@} {%n.%} a Bilva forest.
+{%bearing delicious fruit%} ({%which when unripe %}
+{%is used medicinally%}); {%n.%} Bilva fruit; {%a certain %}<lbinfo n="3"/>
+{% weight%} (= ¤1¤ pala): ({@a@}) {@-daṇḍa@}, {%a.%} having 
+a staff of Bilva wood; {@-daṇḍin@}, {%a. id.%}; 
+{@-pattra-maya,@} {%a.%} consisting of Bilva leaves; 
+{@-mātra,@} {%m.%} weight of a Bilva fruit; {%a.%} of the 
+size of a Bilva fruit; having the weight of 
+a Bilva fruit; {@-vana,@} {%n.%} a Bilva forest.
 <LEND>

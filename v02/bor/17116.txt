@@ -1,5 +1,5 @@
 <L>17116<pc>523<k1>pitchy<k2>pitchy
-<div n="lb"/>{@PITCHY:@}¦ <div n="I">I Lit.: {#तिन्दुलिप्त#} (f. {#प्ता#}) and sim.
-<div n="lb"/>comp.s. </div><div n="I">II Fig.: <div n="xe">{%p. darkness:%}</div> <div n="xs">{#सूचिभेद्यं तमः#}</div>
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#अन्धतमसम्।#}</div></div>
+{@PITCHY:@}¦ <div n="I">I Lit.: {#तिन्दुलिप्त#} (f. {#प्ता#}) and sim.
+comp.s. </div><div n="I">II Fig.: <div n="xe">{%p. darkness:%}</div> <div n="xs">{#सूचिभेद्यं तमः#}</div>
+<div n="xe">{%or%}</div> <div n="xs">{#अन्धतमसम्।#}</div></div>
 <LEND>

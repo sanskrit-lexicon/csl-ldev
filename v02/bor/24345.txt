@@ -1,5 +1,5 @@
 <L>24345<pc>761<k1>widow<k2>widow
-<div n="lb"/>{@WIDOW:@}¦ <div n="1">(1) {#विधवा;#} </div><div n="1">(2) {#गतभर्तृका;#} </div><div n="1">(3) {#रण्डा#}
-<div n="lb"/>(specially as a term of abuse). <div n="xe">{%A w. before%}
-<div n="lb"/>{%puberty:%}</div> <div n="xs">{#बालविधवा;#}</div> a <div n="xe">{%childless w.:%}</div> <div n="xs">{#अवीरा,#}</div> A.</div>
+{@WIDOW:@}¦ <div n="1">(1) {#विधवा;#} </div><div n="1">(2) {#गतभर्तृका;#} </div><div n="1">(3) {#रण्डा#}
+(specially as a term of abuse). <div n="xe">{%A w. before%}
+{%puberty:%}</div> <div n="xs">{#बालविधवा;#}</div> a <div n="xe">{%childless w.:%}</div> <div n="xs">{#अवीरा,#}</div> A.</div>
 <LEND>

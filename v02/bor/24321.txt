@@ -1,10 +1,10 @@
 <L>24321<pc>761<k1>who<k2>who
-<div n="lb"/>{@WHO:@}¦ <div n="I">I Interro.: {#किम्,#} <div n="xe">{%w. is here:%}</div> <div n="xs">{#कः कोऽत्र #}
-<div n="lb"/>{# मोः,#}</div> U.; <div n="xe">{%w. does not know Agastya:%}</div> <div n="xs">{#कः #}
-<div n="lb"/>{# पुनरगस्त्यं न जानाति,#}</div> B. r.; <div n="xe">{%w. is this girl:%}</div> <div n="xs">{#केयं #}
-<div n="lb"/>{# कन्यका,#}</div> K. </div><div n="I">II Rel.: </div><div n="1">(1) {#यद्,#} <div n="xe">{%I w. with two%}
-<div n="lb"/>{%arms:%}</div> <div n="xs">{#योऽहं दाभ्यां भुजाभ्याम्,#}</div> Vi. vi. ii.; <div n="xe">{%whom%}
-<div n="lb"/>{%the wise call resplendent lustre:%}</div> <div n="xs">{#प्रेद्धं धाम यदा-#}
-<div n="lb"/>{#मनन्ति सुधियः,#}</div> Vi. iv. 30. (G. § 145); </div><div n="1">(2) by
-<div n="lb"/>bah. comp. (G. § 298).</div>
+{@WHO:@}¦ <div n="I">I Interro.: {#किम्,#} <div n="xe">{%w. is here:%}</div> <div n="xs">{#कः कोऽत्र #}
+{# मोः,#}</div> U.; <div n="xe">{%w. does not know Agastya:%}</div> <div n="xs">{#कः #}
+{# पुनरगस्त्यं न जानाति,#}</div> B. r.; <div n="xe">{%w. is this girl:%}</div> <div n="xs">{#केयं #}
+{# कन्यका,#}</div> K. </div><div n="I">II Rel.: </div><div n="1">(1) {#यद्,#} <div n="xe">{%I w. with two%}
+{%arms:%}</div> <div n="xs">{#योऽहं दाभ्यां भुजाभ्याम्,#}</div> Vi. vi. ii.; <div n="xe">{%whom%}
+{%the wise call resplendent lustre:%}</div> <div n="xs">{#प्रेद्धं धाम यदा-#}
+{#मनन्ति सुधियः,#}</div> Vi. iv. 30. (G. § 145); </div><div n="1">(2) by
+bah. comp. (G. § 298).</div>
 <LEND>

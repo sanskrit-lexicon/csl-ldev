@@ -1,5 +1,5 @@
 <L>10187<pc>321<k1>grandmother<k2>grandmother
-<div n="lb"/>{@GRANDMOTHER:@}¦ <div n="1">(1) {#पितामही#} (= paternal);</div>
-<div n="lb"/><div n="1">(2) {#मातामही#} (= maternal). <div n="xe">{%Great g.:%}</div> <div n="xs">{#प्रपितामही,#}</div>
-<div n="lb"/>etc. <div n="xe">{%Great g.g.:%}</div> <div n="xs">{#वृद्धप्रपितामही,#}</div> etc.</div>
+{@GRANDMOTHER:@}¦ <div n="1">(1) {#पितामही#} (= paternal);</div>
+<div n="1">(2) {#मातामही#} (= maternal). <div n="xe">{%Great g.:%}</div> <div n="xs">{#प्रपितामही,#}</div>
+etc. <div n="xe">{%Great g.g.:%}</div> <div n="xs">{#वृद्धप्रपितामही,#}</div> etc.</div>
 <LEND>

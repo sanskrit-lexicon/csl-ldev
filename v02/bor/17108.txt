@@ -1,10 +1,10 @@
 <L>17108<pc>523<k1>pit<k2>pit
-<div n="lb"/>{@PIT@}¦ (subs.): <div n="I">I A hole: </div><div n="1">(1) {#गर्तः;#} </div><div n="1">(2) {#अवटः,#}
-<div n="lb"/><div n="xe">{%putting the body in a p.:%}</div> <div n="xs">{#कबन्धमवटे कृत्वा#}</div> (rare),
-<div n="lb"/>Ram.; </div><div n="1">(3) {#गह्वरम्।#} (prop. a cave), <div n="xe">{%thus men%}
-<div n="lb"/>{%are thrown in p. s of impropriety:%}</div> <div n="xs">{#एवं पुंमासोऽयुक्त-#}
-<div n="lb"/>{#गह्वरे पात्यन्ते,#}</div> Vi. v. </div><div n="I">II Arm-p.: q. v.: {#कक्षः।#}</div>
-<div n="lb"/><div n="I">III, The grave: q. v. </div><div n="I">IV of the
-<div n="lb"/>stomach: {#मणिपूरम्।#} V. Of a theatre: perh.
-<div n="lb"/>{#अङ्गणम्।#}</div>
+{@PIT@}¦ (subs.): <div n="I">I A hole: </div><div n="1">(1) {#गर्तः;#} </div><div n="1">(2) {#अवटः,#}
+<div n="xe">{%putting the body in a p.:%}</div> <div n="xs">{#कबन्धमवटे कृत्वा#}</div> (rare),
+Ram.; </div><div n="1">(3) {#गह्वरम्।#} (prop. a cave), <div n="xe">{%thus men%}
+{%are thrown in p. s of impropriety:%}</div> <div n="xs">{#एवं पुंमासोऽयुक्त-#}
+{#गह्वरे पात्यन्ते,#}</div> Vi. v. </div><div n="I">II Arm-p.: q. v.: {#कक्षः।#}</div>
+<div n="I">III, The grave: q. v. </div><div n="I">IV of the
+stomach: {#मणिपूरम्।#} V. Of a theatre: perh.
+{#अङ्गणम्।#}</div>
 <LEND>

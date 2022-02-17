@@ -1,10 +1,10 @@
 <L>19903<pc>619<k1>score<k2>score
-<div n="lb"/>{@SCORE@}¦ (subs.): <div n="I">I Mark of number: {#चिह्नम्:#}
-<div n="lb"/>v. Mark. </div><div n="I">II Total number gained: expr.
-<div n="lb"/>by circumlo., <div n="xe">{%what is the s.:%}</div> <div n="xs">{#कस्य कति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#किमा-#}
-<div n="lb"/>{#वाभ्यामासादितम्:#}</div> v. To get. </div><div n="I">III Account,
-<div n="lb"/>bill: q. v. </div><div n="I">IV Indebtedness: expr. with
-<div n="lb"/>{#देय#} (f. {#या#}). </div><div n="I">V Twenty: q. v.: {#विंशतिः।#} </div><div n="I">VI
-<div n="lb"/>Reason, sake: q. v.: <div n="xe">{%on the same s.:%}</div> <div n="xs">{#तदेवार्ये।#}</div></div>
-<div n="lb"/><div n="I">VII In music: perh. {#विन्यासः।#}</div>
+{@SCORE@}¦ (subs.): <div n="I">I Mark of number: {#चिह्नम्:#}
+v. Mark. </div><div n="I">II Total number gained: expr.
+by circumlo., <div n="xe">{%what is the s.:%}</div> <div n="xs">{#कस्य कति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#किमा-#}
+{#वाभ्यामासादितम्:#}</div> v. To get. </div><div n="I">III Account,
+bill: q. v. </div><div n="I">IV Indebtedness: expr. with
+{#देय#} (f. {#या#}). </div><div n="I">V Twenty: q. v.: {#विंशतिः।#} </div><div n="I">VI
+Reason, sake: q. v.: <div n="xe">{%on the same s.:%}</div> <div n="xs">{#तदेवार्ये।#}</div></div>
+<div n="I">VII In music: perh. {#विन्यासः।#}</div>
 <LEND>

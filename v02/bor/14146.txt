@@ -1,4 +1,4 @@
 <L>14146<pc>434<k1>mansion<k2>mansion
-<div n="lb"/>{@MANSION:@}¦ <div n="1">(1) {#हर्म्यम्;#} </div><div n="1">(2) {#मन्दिरम्;#} </div><div n="1">(3) {#सौधम्;#}</div>
-<div n="lb"/><div n="1">(4) {#सद्मन्#} (n.). <div n="xe">{%Lunar m.:%}</div> <div n="xs">{#नक्षत्रम्।#}</div></div>
+{@MANSION:@}¦ <div n="1">(1) {#हर्म्यम्;#} </div><div n="1">(2) {#मन्दिरम्;#} </div><div n="1">(3) {#सौधम्;#}</div>
+<div n="1">(4) {#सद्मन्#} (n.). <div n="xe">{%Lunar m.:%}</div> <div n="xs">{#नक्षत्रम्।#}</div></div>
 <LEND>

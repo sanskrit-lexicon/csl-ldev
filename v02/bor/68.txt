@@ -1,4 +1,4 @@
 <L>68<pc>003<k1>abridgement<k2>abridgement
-<div n="lb"/>{@ABRIDGEMENT:@}¦ <div n="1">(1) {#संक्षेपः;#} </div><div n="1">(2) {#प्रत्याहारः;#} </div><div n="1">(3)
-<div n="lb"/>{#समाहारः;#} </div><div n="1">(4) {#समासः।#}</div>
+{@ABRIDGEMENT:@}¦ <div n="1">(1) {#संक्षेपः;#} </div><div n="1">(2) {#प्रत्याहारः;#} </div><div n="1">(3)
+{#समाहारः;#} </div><div n="1">(4) {#समासः।#}</div>
 <LEND>

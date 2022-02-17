@@ -1,8 +1,8 @@
 <L>22434<pc>707<k1>thickness<k2>thickness
-<div n="lb"/>{@THICKNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#घनता;#} </div><div n="1">(2) {#सान्द्रता;#}</div>
-<div n="lb"/><div n="1">(3) better by adj. </div><div n="I">II In measurement:</div>
-<div n="lb"/><div n="1">(1) {#वेध#} (= depth), Li.; </div><div n="1">(2) {#विस्तृतिः#} (= bre-
-<div n="lb"/>-adth as of a heap of bricks), Li. 198.; </div><div n="1">(3) [Page708]
-<div n="lb"/>{#पिण्डः#} (as of wood), Li. 203. </div><div n="I">III Of voice:</div>
-<div n="lb"/><div n="1">(1) {#स्वरोपघातः;#} </div><div n="1">(2) {#स्वरभङ्गः;#} and sim. comp.s.</div>
+{@THICKNESS:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#घनता;#} </div><div n="1">(2) {#सान्द्रता;#}</div>
+<div n="1">(3) better by adj. </div><div n="I">II In measurement:</div>
+<div n="1">(1) {#वेध#} (= depth), Li.; </div><div n="1">(2) {#विस्तृतिः#} (= bre-
+-adth as of a heap of bricks), Li. 198.; </div><div n="1">(3) [Page708]
+{#पिण्डः#} (as of wood), Li. 203. </div><div n="I">III Of voice:</div>
+<div n="1">(1) {#स्वरोपघातः;#} </div><div n="1">(2) {#स्वरभङ्गः;#} and sim. comp.s.</div>
 <LEND>

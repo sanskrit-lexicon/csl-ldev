@@ -1,5 +1,5 @@
 <L>6376<pc>204<k1>disencumber<k2>disencumber
-<div n="lb"/>{@DISENCUMBER:@}¦ <div n="I">I Lit.: {#भारं हरति#} ({#हृ,#} c. 1.)
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#अपनयति#}</div> ({#नी,#} c. 1.). </div><div n="I">II Fig.: to free:
-<div n="lb"/>{#मोचयति#} ({#मुच्,#} c. 10.).</div>
+{@DISENCUMBER:@}¦ <div n="I">I Lit.: {#भारं हरति#} ({#हृ,#} c. 1.)
+<div n="xe">{%or%}</div> <div n="xs">{#अपनयति#}</div> ({#नी,#} c. 1.). </div><div n="I">II Fig.: to free:
+{#मोचयति#} ({#मुच्,#} c. 10.).</div>
 <LEND>

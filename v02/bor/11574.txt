@@ -1,6 +1,6 @@
 <L>11574<pc>362<k1>immediate<k2>immediate
-<div n="lb"/>{@IMMEDIATE:@}¦ <div n="I">I Proximate, close: </div><div n="1">(1) {#अनन्तरः#}
-<div n="lb"/>({#रा, रं#}); </div><div n="1">(2) {#अव्यवहितः#} ({#ता, तं#}). </div><div n="I">II Instant:
-<div n="lb"/>expr. by adv. </div><div n="I">III Acting or cognized
-<div n="lb"/>directly: perh {#अव्यवहितः#} ({#ता, तं#}).</div>
+{@IMMEDIATE:@}¦ <div n="I">I Proximate, close: </div><div n="1">(1) {#अनन्तरः#}
+({#रा, रं#}); </div><div n="1">(2) {#अव्यवहितः#} ({#ता, तं#}). </div><div n="I">II Instant:
+expr. by adv. </div><div n="I">III Acting or cognized
+directly: perh {#अव्यवहितः#} ({#ता, तं#}).</div>
 <LEND>

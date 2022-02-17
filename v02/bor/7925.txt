@@ -1,6 +1,6 @@
 <L>7925<pc>250<k1>everyday<k2>everyday
-<div n="lb"/>{@EVERYDAY@}¦ (adj.): <div n="1">(1) {#प्रात्यहिकः#} ({#की, कं#}), <div n="xe">{%e.%}
-<div n="lb"/>{%hunger:%}</div> <div n="xs">{#प्रात्यहिकक्षुत्,#}</div> S. d.; </div><div n="1">(2) {#नित्यः#} ({#त्या, त्यं#})
-<div n="lb"/>(= regular), <div n="xe">{%e. present:%}</div> <div n="xs">{#नित्यदक्षिणा,#}</div> Mal.: v.
-<div n="lb"/>Daily.</div>
+{@EVERYDAY@}¦ (adj.): <div n="1">(1) {#प्रात्यहिकः#} ({#की, कं#}), <div n="xe">{%e.%}
+{%hunger:%}</div> <div n="xs">{#प्रात्यहिकक्षुत्,#}</div> S. d.; </div><div n="1">(2) {#नित्यः#} ({#त्या, त्यं#})
+(= regular), <div n="xe">{%e. present:%}</div> <div n="xs">{#नित्यदक्षिणा,#}</div> Mal.: v.
+Daily.</div>
 <LEND>

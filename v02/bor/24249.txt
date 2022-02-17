@@ -1,7 +1,7 @@
 <L>24249<pc>759<k1>what<k2>what
-<div n="lb"/>{@WHAT@}¦ (interj.): <div n="1">(1) {#किम्,#} {%w. disgrace of Droṇa:%}
-<div n="lb"/>{#किं किं भारद्वाजस्य परिभवः,#} Ve.; </div><div n="1">(2) {#कथम्,#} <div n="xe">{%w.%}
-<div n="lb"/>{%vying with me:%}</div> <div n="xs">{#कथं मया सह स्पर्धते,#}</div> Mu.; </div><div n="1">(3)
-<div n="lb"/>{#आः,#} <div n="xe">{%w. is this also to be asked:%}</div> <div n="xs">{#आः इदमपि #}
-<div n="lb"/>{# किं प्रष्टव्यः,#}</div> Pra.</div>
+{@WHAT@}¦ (interj.): <div n="1">(1) {#किम्,#} {%w. disgrace of Droṇa:%}
+{#किं किं भारद्वाजस्य परिभवः,#} Ve.; </div><div n="1">(2) {#कथम्,#} <div n="xe">{%w.%}
+{%vying with me:%}</div> <div n="xs">{#कथं मया सह स्पर्धते,#}</div> Mu.; </div><div n="1">(3)
+{#आः,#} <div n="xe">{%w. is this also to be asked:%}</div> <div n="xs">{#आः इदमपि #}
+{# किं प्रष्टव्यः,#}</div> Pra.</div>
 <LEND>

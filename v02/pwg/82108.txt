@@ -4,7 +4,7 @@
 <ls>P. 7, 3, 89,</ls> 
 <ls>Sch.</ls> {#युना/ति, युनीते#} 
 <ls>DHĀTUP. 31, 9</ls> ({#बन्धने#}). erhält den Bindevocal {#इ#} 
-<ls>?<is>Kār</is>. 1. 9 aus SIDDH. K. zu P. 7, 2, 10. VOP. 8, 60.</ls> {#युयविथ#} 
+<ls><is>Kār</is>. 1. 9</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>VOP. 8, 60.</ls> {#युयविथ#} 
 <ls>P. 6, 4, 126,</ls> 
 <ls>Sch.</ls> {#यविता#} 
 <ls>VOP. 9, 11.</ls> {#युत्वा#} 
@@ -43,8 +43,8 @@
 <ls>48.</ls> {#लब्ध°#} 
 <ls>2, 59. 3, 23. 9, 5. 10, 2.</ls> <ls>VARĀH. BṚH. S. 8, 20. 53, 6. 10. 13.</ls> {#चतुर्युता विंशतिः#} {%vierundzwanzig%} 
 <ls>58, 17. 23. 81, 32.</ls> {#षड्द्विकपञ्चद्वियुतः शककालस्तस्य राज्यस्य#} so v. a. {%2526 Jahre vor der%} <is>Śaka</is>-{%Aera%} 
-<ls>?13, 3 (= RĀJA-TAR. 1, 56). BHĀṢĀP. 31.</ls> {#दिव्यै रत्नमयैर्वृक्षैः फलपुष्पप्रदैर्युता#} ({#सभा#}) {%versehen mit%} 
-<ls>MBH. 2, 354. 3, 2402.</ls> {#तेजसा यशसा लक्ष्म्या स्थित्या च परया युता#} ({#वैदर्भी#}) 
+<ls>13, 3</ls> (= <ls>RĀJA-TAR. 1, 56).</ls> <ls>BHĀṢĀP. 31.</ls> {#दिव्यै रत्नमयैर्वृक्षैः फलपुष्पप्रदैर्युता#} ({#सभा#}) {%versehen mit%} 
+<ls>MBH. 2, 354.</ls> <ls n="MBH.">3, 2402.</ls> {#तेजसा यशसा लक्ष्म्या स्थित्या च परया युता#} ({#वैदर्भी#}) 
 <ls>2410. 12004.</ls> {#हृष्टपुष्टजनैर्युता#} ({#नगरी#}) 
 <ls>R. 1, 5, 14.</ls> 
 <ls>BHAṬṬ. 1, 7.</ls> {#स्वपत्न्या युतः सर्वैः स ददृशे वणिक्#} so v. a. {%der Kaufmann mit seiner Frau%} 
@@ -52,7 +52,7 @@
 <ls>H. an.</ls> <ls>BHĀG. P. 9, 10, 32.</ls> {#पयः शकृता युतम्#} 
 <ls>VARĀH. BṚH. S. 50, 25. 51, 5.</ls> {#गुणैरपरैर्युतम्#} ({#सलिलम्#}) 
 <ls>54, 122. 56, 20. 27.</ls> {#मुदा#} (könnte auch {#मुद् + आयुत#} sein) 
-<ls>MBH. 5, 6061. 7226.</ls> {#स्नायु°#} 
+<ls>MBH. 5, 6061.</ls> <ls n="MBH. 5,">7226.</ls> {#स्नायु°#} 
 <ls>M. 6, 76.</ls> {#मधु°#} 
 <ls>SUŚR. 2, 162, 13.</ls> {#श्री°#} R. Einl. {#राष्ट्राणि धनधान्ययुतानि#} 
 <ls>1, 1, 90.</ls> {#गोयुतानूप#} 
@@ -124,7 +124,7 @@
 <div n="1">— 3) {%Jmd Etwas verschaffen%}: {#राय^स्योष\ त्वम\स्मभ्य\ं गवा^ं कु\ल्मिं जी\वस\ आयु^वस्व#} 
 <ls>TS. 2, 4, 5, 2.</ls> 
 <div n="1">— 4) {#आयुत#} am Ende eines comp. {%verbunden —, versehen mit%}: {#सिंहशार्दूलमातङ्गवराहर्क्षमृगायुत#} ({#वन#}) 
-<ls>MBH. 3, 2439. 2464.</ls> {#पद्मसौगन्धिकायुत#} 
+<ls>MBH. 3, 2439.</ls> <ls n="MBH. 3,">2464.</ls> {#पद्मसौगन्धिकायुत#} 
 <ls>12041. 14, 2548.</ls> <ls>R. 1, 50, 5. 53, 5. 2, 31, 3. 55, 33. 59, 31. 94, 23. 96, 3.</ls> <ls>R. GORR. 2, 57, 5. 3, 79, 40. 5, 14, 43.</ls> <ls>BHĀG. P. 11, 14, 41.</ls> Ueberall am Ende eines <is>Śloka</is> durch das Metrum bedingt für das einfache {#युत#} . 
 <div n="v">— Vgl. {#आयवन#} ({%Geräth zum Mengen%}). — intens. etwa {%sich zusammenziehen, sich hineinschmiegen%}: {#आ\योयु^वानो वृष\भस्य^ नी\ळे#} 
 <ls>ṚV. 4, 1, 11.</ls>
@@ -170,7 +170,7 @@
 <ls>NIR. 2, 8.</ls>
 
 <div n="p">— {#प्र#} {%umrühren, mengen%}: {#पा\र्श्वेन^ वसाहो\मं प्रयौ^ति#} 
-<ls>TS. 6, 3, 11, 1.</ls> <ls>?auch ŚAT. BR. 3, 8, 3, 24</ls>, wo damit in Verbindung gesetzt ist {#प्रयु^त\ं द्वेष^ः#} 
+<ls>TS. 6, 3, 11, 1.</ls> <ls>auch</ls> <ls>ŚAT. BR. 3, 8, 3, 24</ls>, wo damit in Verbindung gesetzt ist {#प्रयु^त\ं द्वेष^ः#} 
 <ls>VS. 6, 18</ls>; etwa durch {%verstört%} wiederzugeben. Hierher das <lex>adj.</lex> {#प्रयु/त्#} in {#प्र\युतो^ न पातारः#} (irrig betont) {%Menger%} oder {%Verstörer%} (des <is>Soma</is>), {%nicht Trinker%}, von den Steinen gesagt. {#प्रयुवती गच्छति#} {%mengend%} 
 <ls>NIR. 9, 26.</ls> {#युवा प्रयौति कर्माणि#} {%vermengt, stört%} 
 <ls>4, 19.</ls> {#प्रयुवतीमिव शरमयीमिषुम्#} {%zerstörend%} 
@@ -225,7 +225,7 @@
 <ls>MBH. 4, 938.</ls> 
 <ls>Spr. 4118.</ls> {#मृत्यु/संयुत#} 
 <ls>TS. 1, 5, 9, 4.</ls> {#तपोनियमसंयुताः#} ({#दिवौकसः#}) 
-<ls>MBH. 1, 1108. 5, 7479.</ls> {#शमसंयुता#} ({#गौतमी#}) 
+<ls>MBH. 1, 1108.</ls> <ls n="MBH.">5, 7479.</ls> {#शमसंयुता#} ({#गौतमी#}) 
 <ls>13, 17.</ls> {#मुखवैवर्ण्य°#} 
 <ls>Spr. 372.</ls> {#प्रतिष्ठां भाग्यसंयुताम्#} 
 <ls>3965.</ls> <ls>RAGH. 9, 54.</ls> {#वित्त°#} 
@@ -233,7 +233,7 @@
 <ls>KATHĀS. 44, 163.</ls> 
 <ls>BHĀG. P. 1, 1, 3. 2, 1, 25. 3, 33, 17. 4, 20, 13.</ls> {#विद्याविक्रम°#} 
 <ls>RĀJA-TAR. 4, 530.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 49, 14.</ls> {#अशीतिसंयुतं शतम्#} {%hundert%}
+<ls>BRAHMA-P. in LA. (III) 49, 14.</ls> {#अशीतिसंयुतं शतम्#} {%hundert%}
 [Page6-0141]
 {%und achtzig%} 
 <ls>VARĀH. BṚH. S. 32, 31. 7, 13. 53, 13. 54, 85.</ls> 

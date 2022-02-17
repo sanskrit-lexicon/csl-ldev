@@ -1,15 +1,15 @@
 <L>19171<pc>593<k1>restore<k2>restore
-<div n="lb"/>{@RESTORE:@}¦ <div n="1">(1) often expr. by {#पुनर्लभते#} ({#लभ्,#} c.
-<div n="lb"/>1.), {#अवाप्नोति#} ({#आप्,#} c. 5.), etc. (= to get
-<div n="lb"/>back = be r. d), <div n="xe">{%and Puru was r. d to his former%}
-<div n="lb"/>{%youth:%}</div> <div n="xs">{#यौवनं प्रतिपेदे च पुरुः स्वं पुनरात्मनः,#}</div> Mah. i.
-<div n="lb"/>83. 18.; <div n="xe">{%let the king be r. d to his sight and%}
-<div n="lb"/>{%strength:%}</div> <div n="xs">{#स लब्धचक्षुर्बलवान् भवेन्न्टपः,#}</div> Mah. iii.
-<div n="lb"/>297. 27.; {%r. d to life%} (lit. form): {#प्रतिपन्नमूर्ति#}
-<div n="lb"/>(mfn.), Ku. vii. 92.; </div><div n="1">(2) {#प्रतिददाति#} <div n="xe">{%or%}</div> <div n="xs">{#पुनर् #}
-<div n="lb"/>{# ददाति#}</div> ({#दा,#} c. 3.) and sim. comp.s. (= to
-<div n="lb"/>give back); </div><div n="1">(3) {#नवीकरोति#} (= repair: q. v.),</div>
-<div n="lb"/><div n="1">(4) {#प्रत्यानयति#} ({#नी,#} c. 1. = to bring back:
-<div n="lb"/>q. v.); </div><div n="1">(5) {#उद्धरति#} ({#हृ,#} c. 1. = to save, free:
-<div n="lb"/>q. v.).</div>
+{@RESTORE:@}¦ <div n="1">(1) often expr. by {#पुनर्लभते#} ({#लभ्,#} c.
+1.), {#अवाप्नोति#} ({#आप्,#} c. 5.), etc. (= to get
+back = be r. d), <div n="xe">{%and Puru was r. d to his former%}
+{%youth:%}</div> <div n="xs">{#यौवनं प्रतिपेदे च पुरुः स्वं पुनरात्मनः,#}</div> Mah. i.
+83. 18.; <div n="xe">{%let the king be r. d to his sight and%}
+{%strength:%}</div> <div n="xs">{#स लब्धचक्षुर्बलवान् भवेन्न्टपः,#}</div> Mah. iii.
+297. 27.; {%r. d to life%} (lit. form): {#प्रतिपन्नमूर्ति#}
+(mfn.), Ku. vii. 92.; </div><div n="1">(2) {#प्रतिददाति#} <div n="xe">{%or%}</div> <div n="xs">{#पुनर् #}
+{# ददाति#}</div> ({#दा,#} c. 3.) and sim. comp.s. (= to
+give back); </div><div n="1">(3) {#नवीकरोति#} (= repair: q. v.),</div>
+<div n="1">(4) {#प्रत्यानयति#} ({#नी,#} c. 1. = to bring back:
+q. v.); </div><div n="1">(5) {#उद्धरति#} ({#हृ,#} c. 1. = to save, free:
+q. v.).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>19489<pc>606<k1>roundly<k2>roundly
-<div n="lb"/>{@ROUNDLY:@}¦ <div n="I">I Plainly, openly: q. v.: {#स्पष्टम्।#}</div>
-<div n="lb"/><div n="I">II Briskly, vigorously: q. v.: {#वामम्।#} </div><div n="I">III
-<div n="lb"/>Circularly: {#मण्डलशः।#}</div>
+{@ROUNDLY:@}¦ <div n="I">I Plainly, openly: q. v.: {#स्पष्टम्।#}</div>
+<div n="I">II Briskly, vigorously: q. v.: {#वामम्।#} </div><div n="I">III
+Circularly: {#मण्डलशः।#}</div>
 <LEND>

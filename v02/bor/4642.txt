@@ -1,5 +1,5 @@
 <L>4642<pc>151<k1>contributor<k2>contributor
-<div n="lb"/>{@CONTRIBUTOR:@}¦ <div n="I">I In gen. sense: {#दानम्।#} </div><div n="I">II
-<div n="lb"/>Literary: {#प्रबन्धः#} (?), {%sends c. s to many papers:%}
-<div n="lb"/>{#*बह्वीषु पत्रिकासु स प्रबन्धांँल्लिखति।#}</div>
+{@CONTRIBUTOR:@}¦ <div n="I">I In gen. sense: {#दानम्।#} </div><div n="I">II
+Literary: {#प्रबन्धः#} (?), {%sends c. s to many papers:%}
+{#*बह्वीषु पत्रिकासु स प्रबन्धांँल्लिखति।#}</div>
 <LEND>

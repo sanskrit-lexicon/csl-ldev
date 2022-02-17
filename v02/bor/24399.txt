@@ -1,5 +1,5 @@
 <L>24399<pc>763<k1>wire<k2>wire
-<div n="lb"/>{@WIRE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#तन्त्रम्(न्त्री#}); </div><div n="1">(2) {#तारः।#} </div><div n="I">II
-<div n="lb"/>Verb: {#ताडिततन्त्रेण प्रेषयति#} (c. of {#इष्#}): v. To
-<div n="lb"/>send.</div>
+{@WIRE:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#तन्त्रम्(न्त्री#}); </div><div n="1">(2) {#तारः।#} </div><div n="I">II
+Verb: {#ताडिततन्त्रेण प्रेषयति#} (c. of {#इष्#}): v. To
+send.</div>
 <LEND>

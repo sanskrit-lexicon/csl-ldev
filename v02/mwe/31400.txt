@@ -1,15 +1,15 @@
 <L>31400<pc>840-b<k1>who<k2>who
-<div n="lb"/>WHO¦, {%pron.%} (Relat.) {#यः या यद्, यौ#} {%m. du.,%} {#ये#} {%f. n. du.,%} {#ये#} {%m. pl.,%}
-<div n="lb"/>{#यः#} {%f. pl.,%} {#यानि#} {%n. pl.%} The relative pronoun is not much
-<div n="lb"/>used in Sanskrit excepting at the beginning of a sentence;
-<div n="lb"/>as, ‘he who desires great riches is not wise,’ {#यो बहुधनम्#}
-<div n="lb"/>{#आकांक्षति स बुद्धिहीनः#}. In other cases it is more usually
-<div n="lb"/>expressed by {#स च#} or is inherent in a compound word or
-<div n="lb"/>indecl. part.; thus, ‘in that city there dwelt a king who
-<div n="lb"/>was beloved by his subjects,’ {#तस्मिन् नगरे वसति राजा स च#}
-<div n="lb"/>{#प्रजावल्लभः;#} ‘a saint who has subdued his organs of sense,’
-<div n="lb"/>{#जितेन्द्रियो मुनिः;#} ‘by all the birds who had assembled,’ {#सर्व्वैः#}
-<div n="lb"/>{#पक्षिभिर् मिलित्वा#}. — (Interrog.) {#कः का किं, कौ#} {%m. du.,%} {#के#} {%f. n. du.,%}
-<div n="lb"/>{#के#} {%m. pl.,%} {#काः#} {%f. pl.,%} {#कानि#} {%n. pl.;%} ‘who are you?’ {#कस् त्वं;#}
-<div n="lb"/>‘who's there,’ {#कोऽत्र#}.
+WHO¦, {%pron.%} (Relat.) {#यः या यद्, यौ#} {%m. du.,%} {#ये#} {%f. n. du.,%} {#ये#} {%m. pl.,%}
+{#यः#} {%f. pl.,%} {#यानि#} {%n. pl.%} The relative pronoun is not much
+used in Sanskrit excepting at the beginning of a sentence;
+as, ‘he who desires great riches is not wise,’ {#यो बहुधनम्#}
+{#आकांक्षति स बुद्धिहीनः#}. In other cases it is more usually
+expressed by {#स च#} or is inherent in a compound word or
+indecl. part.; thus, ‘in that city there dwelt a king who
+was beloved by his subjects,’ {#तस्मिन् नगरे वसति राजा स च#}
+{#प्रजावल्लभः;#} ‘a saint who has subdued his organs of sense,’
+{#जितेन्द्रियो मुनिः;#} ‘by all the birds who had assembled,’ {#सर्व्वैः#}
+{#पक्षिभिर् मिलित्वा#}. — (Interrog.) {#कः का किं, कौ#} {%m. du.,%} {#के#} {%f. n. du.,%}
+{#के#} {%m. pl.,%} {#काः#} {%f. pl.,%} {#कानि#} {%n. pl.;%} ‘who are you?’ {#कस् त्वं;#}
+‘who's there,’ {#कोऽत्र#}.
 <LEND>

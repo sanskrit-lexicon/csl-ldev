@@ -1,14 +1,14 @@
 <L>2652<pc>028-1<k1>अर्धपण<k2>अर्धपण
 {#अर्धपण#}¦ardha-paṇa, {%m.%} half a paṇa; {@-patha,@} 
-<>{%m.%} half-way; {@-pāda,@} {%m.%} tip to the foot; {@-pād-@}
-<>{@-ika,@} {%a.%} having half a foot; {@-pīta,@} {%pp.%} half-drunk; 
-<>{@-pulāyita,@} {%n. kind of gait in the horse%}; {@-bṛ-@}
-<>{@galá@}, {%n.%} half a piece; {@-bhakṣita,@} {%pp.%} half-eaten; <lbinfo n="4"/>
-<> {@-bhagna,@} {%pp.%} half-broken; {@-bhāgika,@} 
-<>{%a.%} the half; {@-māgadhā,@} {%f.%} semi-Māgadhī 
-<>({%dialect%}); {@-mārga,@} {%m.%} half-way; {@-māsá,@} {%m.%} 
-<>half a month; {@-māsika,@} {%a.%} lasting half a 
-<>month; {@-mīlita,@} {%pp.%} half-closed; {@-mukulī-@}
-<>{@-kṛ@}, half close ({%eyes%}); {@-muṇḍita@}, {%pp. having %}
-<>{%the head%} half shaved.
+{%m.%} half-way; {@-pāda,@} {%m.%} tip to the foot; {@-pād-@}
+{@-ika,@} {%a.%} having half a foot; {@-pīta,@} {%pp.%} half-drunk; 
+{@-pulāyita,@} {%n. kind of gait in the horse%}; {@-bṛ-@}
+{@galá@}, {%n.%} half a piece; {@-bhakṣita,@} {%pp.%} half-eaten; <lbinfo n="4"/>
+ {@-bhagna,@} {%pp.%} half-broken; {@-bhāgika,@} 
+{%a.%} the half; {@-māgadhā,@} {%f.%} semi-Māgadhī 
+({%dialect%}); {@-mārga,@} {%m.%} half-way; {@-māsá,@} {%m.%} 
+half a month; {@-māsika,@} {%a.%} lasting half a 
+month; {@-mīlita,@} {%pp.%} half-closed; {@-mukulī-@}
+{@-kṛ@}, half close ({%eyes%}); {@-muṇḍita@}, {%pp. having %}
+{%the head%} half shaved.
 <LEND>

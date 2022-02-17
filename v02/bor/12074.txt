@@ -1,6 +1,6 @@
 <L>12074<pc>376<k1>indulgence<k2>indulgence
-<div n="lb"/>{@INDULGENCE:@}¦ <div n="I">I Humouring: {#लालनम्।#} </div><div n="I">II
-<div n="lb"/>Gratification: q.v.: <div n="xe">{%i. of passions:%}</div> <div n="xs">{#इन्द्रियासक्तिः।#}</div></div>
-<div n="lb"/><div n="I">III Favour granted: {#प्रसादः।#} Ph.: {%to treat%}
-<div n="lb"/>{%with i.:%} v. To indulge.</div>
+{@INDULGENCE:@}¦ <div n="I">I Humouring: {#लालनम्।#} </div><div n="I">II
+Gratification: q.v.: <div n="xe">{%i. of passions:%}</div> <div n="xs">{#इन्द्रियासक्तिः।#}</div></div>
+<div n="I">III Favour granted: {#प्रसादः।#} Ph.: {%to treat%}
+{%with i.:%} v. To indulge.</div>
 <LEND>

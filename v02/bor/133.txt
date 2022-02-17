@@ -1,4 +1,4 @@
 <L>133<pc>006<k1>accessory<k2>accessory
-<div n="lb"/>{@ACCESSORY@}¦ (subs): <div n="1">(1) {#सहायः;#} </div><div n="1">(2) {#सहकारी;#}</div>
-<div n="lb"/><div n="1">(3) {#प्रवर्तकः:#} v. Instigator.</div>
+{@ACCESSORY@}¦ (subs): <div n="1">(1) {#सहायः;#} </div><div n="1">(2) {#सहकारी;#}</div>
+<div n="1">(3) {#प्रवर्तकः:#} v. Instigator.</div>
 <LEND>

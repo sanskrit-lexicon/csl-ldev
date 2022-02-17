@@ -1,5 +1,5 @@
 <L>4846<pc>156<k1>cost<k2>cost
-<div n="lb"/>{@COST@}¦ (subs.): <div n="I">I Price: q. v.: {#सूल्यम्।#}
-<div n="lb"/>Expense: q. v.: {#व्ययः,#} <div n="xe">{%even at the c. of one%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#प्राणव्ययेनापि,#}</div> <ls>H.</ls></div>
+{@COST@}¦ (subs.): <div n="I">I Price: q. v.: {#सूल्यम्।#}
+Expense: q. v.: {#व्ययः,#} <div n="xe">{%even at the c. of one%}
+{%life:%}</div> <div n="xs">{#प्राणव्ययेनापि,#}</div> <ls>H.</ls></div>
 <LEND>

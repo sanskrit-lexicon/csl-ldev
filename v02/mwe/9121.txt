@@ -1,6 +1,6 @@
 <L>9121<pc>213-b<k1>duration<k2>duration
-<div n="lb"/>DURATION¦, {%s.%} {#स्थितिः#} {%f.,%} {#संस्थितिः#} {%f.;%} ‘duration of an eclipse,’
-<div n="lb"/>{#उपसर्गस्थितिः#} {%f.%} — (Space of time) {#परिमाणं, प्रमाणं;#} ‘duration
-<div n="lb"/>of day and night,’ {#अहोरात्रस्य परिमाणं#}. — (Long duration)
-<div n="lb"/>{#स्थायित्वं, स्थिरता, स्थावरत्वं, घ्रुवता, घ्रौव्यं, अविरामः#}.
+DURATION¦, {%s.%} {#स्थितिः#} {%f.,%} {#संस्थितिः#} {%f.;%} ‘duration of an eclipse,’
+{#उपसर्गस्थितिः#} {%f.%} — (Space of time) {#परिमाणं, प्रमाणं;#} ‘duration
+of day and night,’ {#अहोरात्रस्य परिमाणं#}. — (Long duration)
+{#स्थायित्वं, स्थिरता, स्थावरत्वं, घ्रुवता, घ्रौव्यं, अविरामः#}.
 <LEND>

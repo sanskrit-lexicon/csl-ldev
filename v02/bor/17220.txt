@@ -1,11 +1,11 @@
 <L>17220<pc>527<k1>please<k2>please
-<div n="lb"/>{@PLEASE@}¦ (v. t.): <div n="I">I To delight: q. v.: {#सुखयति,#}
-<div n="lb"/><div n="xe">{%the same rays of the moon p. the body:%}</div> <div n="xs">{#पादास्त #}
-<div n="lb"/>{# एव शशिनः सुखयन्ति गात्रम्,#}</div> V. iii. </div><div n="I">II To
-<div n="lb"/>satisfy: q. v.: {#प्रीणाति#} {%or%} {#प्रीणयति#} ({#प्री,#} c. 9.
-<div n="lb"/>and 10.) {%when Śiva will be p. d%} ({%with you%}):
-<div n="lb"/>{#प्रीते पिनाकिनि,#} Ki. xi. 81. Ph.: {%to be p. d.%}
-<div n="lb"/>{%to%} <div n="xe">{%.:%} not expr., {%His Majesty Chandragupta%}
-<div n="lb"/>{%is p. d to command:%}</div> <div n="xs">{#देवश्चन्द्रगुप्तः समाज्ञापयति,#}</div> Mu.
-<div n="lb"/>iii.</div>
+{@PLEASE@}¦ (v. t.): <div n="I">I To delight: q. v.: {#सुखयति,#}
+<div n="xe">{%the same rays of the moon p. the body:%}</div> <div n="xs">{#पादास्त #}
+{# एव शशिनः सुखयन्ति गात्रम्,#}</div> V. iii. </div><div n="I">II To
+satisfy: q. v.: {#प्रीणाति#} {%or%} {#प्रीणयति#} ({#प्री,#} c. 9.
+and 10.) {%when Śiva will be p. d%} ({%with you%}):
+{#प्रीते पिनाकिनि,#} Ki. xi. 81. Ph.: {%to be p. d.%}
+{%to%} <div n="xe">{%.:%} not expr., {%His Majesty Chandragupta%}
+{%is p. d to command:%}</div> <div n="xs">{#देवश्चन्द्रगुप्तः समाज्ञापयति,#}</div> Mu.
+iii.</div>
 <LEND>

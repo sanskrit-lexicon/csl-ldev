@@ -1,7 +1,7 @@
 <L>15658<pc>380-b<k1>index<k2>index
-<div n="lb"/>INDEX¦, {%s.%} (That which points out, as the forefinger) {#देशी#} {%m.%}
-<div n="lb"/>{#(न्), प्रदेशिनी, प्रदेशनी, देशकः, प्रदर्शकः, दर्शयिता#} {%m.%} {#(तृ), दर्शकः,#}
-<div n="lb"/>{#प्रकाशकः#}. — (Table of contents) {#सूचीपत्रं, सूचिः#} {%f.%} {#-ची, अनुक्र-#}
-<div n="lb"/>{#मणिका, पत्रपञ्जी, निर्वचनं, निर्घण्टः;#} ‘index of names,’ {#नामावलिः#} {%f.;%}
-<div n="lb"/>‘index of a letter, in algebra,’ {#घातमापकः#}.
+INDEX¦, {%s.%} (That which points out, as the forefinger) {#देशी#} {%m.%}
+{#(न्), प्रदेशिनी, प्रदेशनी, देशकः, प्रदर्शकः, दर्शयिता#} {%m.%} {#(तृ), दर्शकः,#}
+{#प्रकाशकः#}. — (Table of contents) {#सूचीपत्रं, सूचिः#} {%f.%} {#-ची, अनुक्र-#}
+{#मणिका, पत्रपञ्जी, निर्वचनं, निर्घण्टः;#} ‘index of names,’ {#नामावलिः#} {%f.;%}
+‘index of a letter, in algebra,’ {#घातमापकः#}.
 <LEND>

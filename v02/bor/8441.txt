@@ -1,5 +1,5 @@
 <L>8441<pc>267<k1>farewell<k2>farewell
-<div n="lb"/>{@FAREWELL:@}¦ v. Adieu. {%Bid your companion f.:%}
-<div n="lb"/>{#आमन्त्रयस्व सहचरम्,#} Sa.; {%I have done, f. to you:%}
-<div n="lb"/>{#साधयाम्यहमविघ्नमस्तु ते,#} R.; <div n="xe">{%“f.:”%}</div> <div n="xs">{#शिवमस्तु।#}</div>
+{@FAREWELL:@}¦ v. Adieu. {%Bid your companion f.:%}
+{#आमन्त्रयस्व सहचरम्,#} Sa.; {%I have done, f. to you:%}
+{#साधयाम्यहमविघ्नमस्तु ते,#} R.; <div n="xe">{%“f.:”%}</div> <div n="xs">{#शिवमस्तु।#}</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>18560<pc>571<k1>rape<k2>rape
-<div n="lb"/>{@RAPE: I.@}¦ Abduction: {#हरणम्,#} {%the r. of Draupadī:%}
-<div n="lb"/>{#द्रौपदीहरणम्,#} Mah. <div n="I">II Violence on chastity:
-<div n="lb"/>{#बलात्कारेण सम्भोगः,#} M. n. on R. x. 47., {%or%}
-<div n="lb"/>sim. {#बलात्कारः,#} Mit. Ph.: {%to commit r.:%}
-<div n="lb"/>{#बलात्कारेण रमते, गच्छति,#} etc. <div n="xe">{%or%}</div> <div n="xs">{#बलाद् व्रजति,#}</div> M.;
-<div n="lb"/><div n="xe">{%attempted to r. me:%}</div> <div n="xs">{#मां बलात्कारेण रन्तुमुद्युंक्ते,#}</div> <ls>D.</ls></div>
-<div n="lb"/><div n="I">III. A tree: {#खसः#} (?), <div n="xe">{%r. -seed-oil:%}</div> <div n="xs">{#खसबीजानां #}
-<div n="lb"/>{# तैलम्#}</div> (?), Bha.</div>
+{@RAPE: I.@}¦ Abduction: {#हरणम्,#} {%the r. of Draupadī:%}
+{#द्रौपदीहरणम्,#} Mah. <div n="I">II Violence on chastity:
+{#बलात्कारेण सम्भोगः,#} M. n. on R. x. 47., {%or%}
+sim. {#बलात्कारः,#} Mit. Ph.: {%to commit r.:%}
+{#बलात्कारेण रमते, गच्छति,#} etc. <div n="xe">{%or%}</div> <div n="xs">{#बलाद् व्रजति,#}</div> M.;
+<div n="xe">{%attempted to r. me:%}</div> <div n="xs">{#मां बलात्कारेण रन्तुमुद्युंक्ते,#}</div> <ls>D.</ls></div>
+<div n="I">III. A tree: {#खसः#} (?), <div n="xe">{%r. -seed-oil:%}</div> <div n="xs">{#खसबीजानां #}
+{# तैलम्#}</div> (?), Bha.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>6418<pc>206<k1>dishonour<k2>dishonour
-<div n="lb"/>{@DISHONOUR@}¦ (v. t.): <div n="I">I To disgrace: q.v.:
-<div n="lb"/>{#अपमानयति#} (c. of {#मन्#}). </div><div n="I">II To defile; q.v.:
-<div n="lb"/><div n="xe">{%in d. ing respectable women:%}</div> <div n="xs">{#कुलवधूनां शीलपातने,#}</div>
-<div n="lb"/><ls>D.</ls> </div><div n="I">III. Not to accept: {#प्रत्यारव्याति#} ({#रव्या,#} c. 2.).</div>
+{@DISHONOUR@}¦ (v. t.): <div n="I">I To disgrace: q.v.:
+{#अपमानयति#} (c. of {#मन्#}). </div><div n="I">II To defile; q.v.:
+<div n="xe">{%in d. ing respectable women:%}</div> <div n="xs">{#कुलवधूनां शीलपातने,#}</div>
+<ls>D.</ls> </div><div n="I">III. Not to accept: {#प्रत्यारव्याति#} ({#रव्या,#} c. 2.).</div>
 <LEND>

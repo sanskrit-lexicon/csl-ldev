@@ -18,12 +18,12 @@
 <ls>HIT. I, 196.</ls> {#स्थूलकृशौ नरौ#} 
 <ls>SUŚR. 1, 53, 17. 129, 16. 207, 16. 2, 444, 1.</ls> {#अतिकृश#} 
 <ls>1, 53, 6.</ls> {#कृशा#} 
-<ls>MBH. 4, 519. 13, 3361.</ls> 
+<ls>MBH. 4, 519.</ls> <ls n="MBH.">13, 3361.</ls> 
 <ls>N. 2, 2. 12, 85. 13, 22. 16, 8.</ls> {#कृशोदर#} 
 <ls>ŚĀK. 38.</ls> {#कृशोदरी#} 
 <ls>ŚRUT. 31.</ls> {#अल्पतराहारकृशीकृततनु#} 
 <ls>KATHĀS. 24, 135.</ls> {#कृश#} als Beiw. von <is>Śiva</is> 
-<ls>MBH. 12, 10365. 14, 194.</ls> ebenso {#कृशनाश#} {%die Schwächlichen vernichtend%} 
+<ls>MBH. 12, 10365.</ls> <ls n="MBH.">14, 194.</ls> ebenso {#कृशनाश#} {%die Schwächlichen vernichtend%} 
 <ls>12, 10365.</ls> 
 <div n="2">— b) {%dünn, schwach, unbedeutend, dürftig%} 
 <ls>AK. 3, 2, 11.</ls> 
@@ -43,6 +43,6 @@
 <ls>1682. fgg.</ls> 
 <ls>13, 1764.</ls> Verfassers von 
 <ls>VĀLAKH. 6.</ls> 
-<ls>ṚV.</ls> 
-<ls>ANUKR.</ls> <ls>Ind. St. 1, 293, N. 2.</ls>
+<ls>ṚV. ANUKR.</ls> 
+<ls>Ind. St. 1, 293, N. 2.</ls>
 <LEND>

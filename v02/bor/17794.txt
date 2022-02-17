@@ -1,4 +1,4 @@
 <L>17794<pc>545<k1>prismatic<k2>prismatic
-<div n="lb"/>{@PRISMATIC,@}¦ {@-AL:@} <div n="xe">{%of p. form:%}</div> <div n="xs">{#*क्रकचायताकारः#}</div>
-<div n="lb"/>({#रा, रं#}); <div n="xe">{%p. colours:%}</div> <div n="xs">{#*क्रकचायतविश्लेषिता वर्णाः।#}</div>
+{@PRISMATIC,@}¦ {@-AL:@} <div n="xe">{%of p. form:%}</div> <div n="xs">{#*क्रकचायताकारः#}</div>
+({#रा, रं#}); <div n="xe">{%p. colours:%}</div> <div n="xs">{#*क्रकचायतविश्लेषिता वर्णाः।#}</div>
 <LEND>

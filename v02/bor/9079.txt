@@ -1,4 +1,4 @@
 <L>9079<pc>287<k1>fogginess<k2>fogginess
-<div n="lb"/>{@FOGGINESS:@}¦ <div n="1">(1) {#कुज्भ्कटिकाच्छन्नता;#} </div><div n="1">(2) {#कुहावृतता;#}</div>
-<div n="lb"/><div n="1">(3) {#धूमलता।#}</div>
+{@FOGGINESS:@}¦ <div n="1">(1) {#कुज्भ्कटिकाच्छन्नता;#} </div><div n="1">(2) {#कुहावृतता;#}</div>
+<div n="1">(3) {#धूमलता।#}</div>
 <LEND>

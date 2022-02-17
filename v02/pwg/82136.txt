@@ -2,7 +2,7 @@
 {#युग/#}¦ (von 1. {#युज्#}) <is>gaṇa</is> {#उञ्छादि#} zu 
 <ls>P. 6, 1, 160.</ls> 
 <div n="1"> 1) <lex>n.</lex> <lex>m.</lex> {%Joch%} 
-<ls>AK. 3, 4, 3, 25</ls> <ls>?(m.). H. 756. an. 2, 43. MED. g. 17 (m.).</ls> {#युगादीनां च वोढारो युग्यप्रासङ्ग्यशाकटाः#} 
+<ls>AK. 3, 4, 3, 25</ls> (m.). <ls>H. 756. an. 2, 43.</ls> <ls>MED. g. 17</ls> (m.). {#युगादीनां च वोढारो युग्यप्रासङ्ग्यशाकटाः#} 
 <ls>AK. 2, 9, 64.</ls> 
 <ls>H. 1261.</ls> 
 <ls>ṚV. 2, 39, 4.</ls> {#मा यु\गं वि शा^रि#} 
@@ -12,16 +12,16 @@
 <ls>ŚAT. BR. 3, 5, 1, 24. 34.</ls> 
 <ls>KAUŚ. 20. 37.76.</ls>
 [Page6-0145]
-{#युगेन#} (=  {#योगेन = युगपद्#} Comm.) 
+{#युगेन#} (= {#योगेन = युगपद्#} Comm.) 
 <ls>TBR. 3, 7, 10, 1.</ls> {#भग्नयुगे#} 
 <ls>M. 8, 291.</ls> {#°भङ्ग#} 
 <ls>KATHĀS. 60, 12.</ls> 
 <ls>PAÑCAT. ed. orn. 4, 13.</ls> {#अन्धेनेव#} (so die ed. Bomb., {#विधात्रा#} 
 <ls>NĪLAK.</ls>) {#युगं#} ({#द्वापराख्यं#} 
 <ls>NĪLAK.</ls>) {#नद्धं विपर्यस्तम्#} 
-<ls>MBH. 2, 1932. 3, 14909.</ls> {#पार्थच्छिन्नयुगा हयाः#} 
+<ls>MBH. 2, 1932.</ls> <ls n="MBH.">3, 14909.</ls> {#पार्थच्छिन्नयुगा हयाः#} 
 <ls>4, 1707. 5, 7214. 6, 3879.</ls> {#°मध्ये, °संनहनेषु, °पालीषु#} 
-<ls>7, 3597. 8783. fg.</ls> <ls>HARIV. 2656. 12538.</ls> <ls>R. 3, 34, 32. 6, 18, 54.</ls> <ls>YĀJÑ. 2, 299.</ls> <ls>VARĀH. BṚH. S. 11, 37. 46, 9.</ls> <ls>KATHĀS. 97, 6.</ls> <ls>ŚIŚ. 3, 68.</ls> {#रथयुगः#} 
+<ls>7, 3597. 8783. fg.</ls> <ls>HARIV. 2656.</ls> <ls n="HARIV.">12538.</ls> <ls>R. 3, 34, 32. 6, 18, 54.</ls> <ls>YĀJÑ. 2, 299.</ls> <ls>VARĀH. BṚH. S. 11, 37. 46, 9.</ls> <ls>KATHĀS. 97, 6.</ls> <ls>ŚIŚ. 3, 68.</ls> {#रथयुगः#} 
 <ls>BHĀG. P. 5, 21, 15.</ls> {#°व्यायतबाहु#} 
 <ls>RAGH. 3, 34.</ls> {#°दीर्घैर्दोर्भिः#} 
 <ls>10, 87.</ls> {#°बाहुभ्यः#} 
@@ -76,7 +76,7 @@
 <ls>HARIV. 1013.</ls> {#प्राजापत्ये#} (so die ed. Bomb.) 
 <ls>MBH. 12, 4176.</ls> {#ब्रह्म°, क्षत्रस्य#} {%Zeitalter der%} <is>Br</is>., {%der%} <is>Kṣ</is>. 
 <ls>HARIV. 11808.</ls> {#वैकुण्ठत्वं च देवेषु कृष्णत्वं मानुषे युगे#} ({#मानुषेषु च#} die neuere Ausg.) so v. a. {%unter den Menschen%} 
-<ls>2379.</ls> {#पुरुष°#} <lex>m.</lex> {%Generation%} 
+<ls n="HARIV.">2379.</ls> {#पुरुष°#} <lex>m.</lex> {%Generation%} 
 <ls>MAHOPAN.</ls> in <ls>Ind. St. 2, 8, N. 2.</ls> 
 <div n="1">— 5) <lex>n.</lex> {%eine Periode von fünf Jahren%} ({#पञ्चके युगे#} 
 <ls>PAÑCAV. BR. 17, 13, 17</ls>), insbes. {%ein Lustrum im 60jährigen Jupitercyclus%}: {#संवत्सराः पञ्च युगम्#} 
@@ -88,21 +88,21 @@
 <ls>VARĀH. BṚH. S. 2, S. 4. 8, 21. 26, 31. 33. 35. 37. fgg.</ls> 
 <div n="1">— 6) <lex>n.</lex> {%Weltperiode, Weltalter, Cyklus%}, deren vier (nämlich <is>Kṛta</is> oder <is>Satya</is>, <is>Tretā</is>, <is>Dvāpara</is> und <is>Kali</is>) <is>ein</is> Weltleben bilden; s. 
 <ls>ROTH</ls>, Ueber den Mythus von den Menschengeschlechtern, 
-<ls>?S. 24. fgg. AK. 3, 4, 3, 25. 14, 71. H. an. MED.</ls> {#श\तं ते\ ऽयुत^ं हाय\नान्द्वे #}
+<ls>S. 24. fgg.</ls> <ls>AK. 3, 4, 3, 25. 14, 71.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#श\तं ते\ ऽयुत^ं हाय\नान्द्वे #}
 [Page6-0146]
 {# यु\गे त्रीणि^ च\त्वारि कृण्मः#} 
 <ls>AV. 8, 2, 21.</ls> 
 <ls>M. 1, 68. 85. 9, 301.</ls> 
 <ls>YĀJÑ. 3, 173.</ls> 
 <ls>MBH. 6, 387. fgg.</ls> 
-<ls>HARIV. 515. fg. 12322.</ls> 
+<ls>HARIV. 515. fg.</ls> <ls n="HARIV.">12322.</ls> 
 <ls>SŪRYAS. 1, 8. 9. 17. 18. 20. 22. fg. 29. 33. fg. 37. 46. 56. 3, 9. 13, 18.</ls> 
 <ls>VP. 23.</ls> 
 <ls>BHĀG. P. 1, 6, 31. 3, 11, 20. 22. 22, 36.</ls> {#चतुर्युग#} <lex>n.</lex> {%die vier Weltalter%} <is>gaṇa</is> {#पात्रादि#} zu 
-<ls>P.2,4,17, <is>Vārtt</is>. 4.</ls> <ls>VOP.6,53.</ls> <ls>AK.3,6,1,3.</ls> <ls>M.1,71.</ls> <ls>MBH. 12,11227.</ls> <ls>HARIV. 516.</ls> <ls>SŪRYAS.1,15. fg.</ls> <ls>Verz. d. Oxf. H. 21,b, N. 2. 44,b,25.</ls> <ls>BHĀG. P.3,11,18.</ls> {#कृतं युगम्#} 
+<ls>P. 2,4,17, <is>Vārtt</is>. 4.</ls> <ls>VOP. 6,53.</ls> <ls>AK. 3,6,1,3.</ls> <ls>M. 1,71.</ls> <ls>MBH. 12, 11227.</ls> <ls>HARIV. 516.</ls> <ls>SŪRYAS. 1,15. fg.</ls> <ls>Verz. d. Oxf. H. 21,b, N. 2. 44,b,25.</ls> <ls>BHĀG. P. 3,11,18.</ls> {#कृतं युगम्#} 
 <ls>M. 1, 69. 81. 9, 302.</ls> 
-<ls>MBH. 3, 11234. fgg. 12831.</ls> 
-<ls>HARIV. 511. 11304.</ls> 
+<ls>MBH. 3, 11234. fgg.</ls> <ls n="MBH. 3,">12831.</ls> 
+<ls>HARIV. 511.</ls> <ls n="HARIV.">11304.</ls> 
 <ls>SŪRYAS. 1, 23.</ls> 
 <ls>VARĀH. BṚH. S. 4, 26.</ls> {#प्रथम#} 
 <ls>BHĀG. P. 6, 10, 16.</ls> {#आदि°#} 
@@ -110,9 +110,9 @@
 <ls>R. 7, 76, 36.</ls> {#द्वापरं युगम्#} 
 <ls>M. 9, 302.</ls> {#द्वापरे युगपर्यये#} 
 <ls>HARIV. 11316.</ls> {#कलौ युगे#} 
-<ls>11321.</ls> <ls>M. 1, 86.</ls> {#कष्टं युगम्#} 
-<ls>VET.</ls> in <ls>LA. (III) 30, 2.</ls> {#°सहस्र#} 
-<ls>NIR. 14, 4</ls> <ls>?= BHAG. 8, 17.</ls> {#देवानाम्#} 
+<ls n="HARIV.">11321.</ls> <ls>M. 1, 86.</ls> {#कष्टं युगम्#} 
+<ls>VET. in LA. (III) 30, 2.</ls> {#°सहस्र#} 
+<ls>NIR. 14, 4</ls> = <ls>BHAG. 8, 17.</ls> {#देवानाम्#} 
 <ls>M. 1, 71.</ls> {#दैविक#} 
 <ls>72. 79.</ls> {#दैव#} 
 <ls>AK. 1, 1, 3, 21.</ls> 

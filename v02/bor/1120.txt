@@ -1,5 +1,5 @@
 <L>1120<pc>039<k1>arrowy<k2>arrowy
-<div n="lb"/>{@ARROWY:@}¦ <div n="I">I Of arrows: {#शर-#} (in comp.)
-<div n="lb"/><div n="xe">{%a. shower%}</div> <div n="xs">{#शरवर्षः।#}</div> </div><div n="I">II Crooked like an arrow:
-<div n="lb"/>{#कुटिलः#} ({#ला, लं#}): v. Crooked.</div>
+{@ARROWY:@}¦ <div n="I">I Of arrows: {#शर-#} (in comp.)
+<div n="xe">{%a. shower%}</div> <div n="xs">{#शरवर्षः।#}</div> </div><div n="I">II Crooked like an arrow:
+{#कुटिलः#} ({#ला, लं#}): v. Crooked.</div>
 <LEND>

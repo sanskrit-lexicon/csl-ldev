@@ -2,7 +2,7 @@
 {#व्यय#}¦ (von 3. {#इ#} mit {#वि#}) 
 <div n="1"> 1) <lex>adj.</lex> {%vergänglich%} (stets in Verbindung mit {#अव्यय): संभवत्यव्ययाद्व्ययम्#} 
 <ls>M. 1, 19.</ls> 
-<ls>MBH. 3, 8353. 12, 8525.</ls> 
+<ls>MBH. 3, 8353.</ls> <ls n="MBH.">12, 8525.</ls> 
 <ls>VP. 13,</ls> 
 <ls>N. 19.</ls> 
 <ls>MĀRK. P. 48, 38.</ls> 
@@ -22,7 +22,7 @@
 <ls>R. 7, 18, 32.</ls> 
 <ls>RAGH. 15, 3.</ls> 
 <ls>MĀRK. P. 20, 46.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 57, 15.</ls> {#आपाद्यते न व्ययमन्तरायैः कच्चिन्महर्षेस्त्रिविधं तपस्तत्#} 
+<ls>BRAHMA-P. in LA. (III) 57, 15.</ls> {#आपाद्यते न व्ययमन्तरायैः कच्चिन्महर्षेस्त्रिविधं तपस्तत्#} 
 <ls>RAGH. 5, 5.</ls> {#तपो°#} 
 <ls>15, 37.</ls> {#तपोबलव्ययं कृत्वा सुचिरात्संभृतं तदा#} 
 <ls>MBH. 15, 754.</ls> {#संयम°#} 
@@ -65,8 +65,8 @@
 <ls>60, 217.</ls> <ls>VARĀH. BṚH. S. 53, 77. 79, 5. 104, 10. 18.</ls> <ls>PAÑCAT. 138, 4.</ls> {#आयव्ययौ#} 
 <ls>M. 8, 419.</ls> 
 <ls>YĀJÑ. 1, 326.</ls> 
-<ls>MBH. 3, 8599.fg.</ls> {#आये व्यये महद्दुःखम्#} 
-<ls>Spr. (II) 605. (I) 5055.</ls> {#क्रियतां व्ययः#} (so ed. Bomb., {#व्ययं#} ed. Calc.) 
+<ls>MBH. 3, 8599. fg.</ls> {#आये व्यये महद्दुःखम्#} 
+<ls>Spr. (II) 605.</ls> <ls n="Spr.">(I) 5055.</ls> {#क्रियतां व्ययः#} (so ed. Bomb., {#व्ययं#} ed. Calc.) 
 <ls>MBH. 15, 393.</ls> 
 <ls>MĀRK. P. 81, 14.</ls>
 [Page6-1449]
@@ -84,7 +84,7 @@
 <ls>Spr. 2222. 5394.</ls> 
 <ls>HIT. 46, 8</ls> ({#°व्यये#} mit 
 <ls>JOHNS.</ls> zu lesen). {#अति°#} 
-<ls>Spr. (II) 154. 1959.</ls> 
+<ls>Spr. (II) 154.</ls> <ls n="Spr. (II)">1959.</ls> 
 <ls>HIT. 104, 15.</ls> {#अतुल°#} <lex>adj.</lex> 
 <ls>RĀJA-TAR. 8, 733.</ls> {#नित्यव्यया#} <lex>adj.</lex> 
 <ls>Spr. 3132.</ls> {#अर्ध्यपात्रानुमितव्ययस्य राघोः#} so v. a. {%Verausgabung alles Geldes%} 
@@ -94,7 +94,7 @@
 <div n="2">— c) {%Declination%} (durch Casus) 
 <ls>NIR. 1, 8. 5, 23.</ls> 
 <div n="2">— d) Bez. {%des 20ten Jahres im 60jährigen Jupitercyclus%} 
-<ls>VARĀH. BṚH. S.8,36.</ls> <ls>Verz. d. Oxf. H. 331,b,3 v. u.</ls> 
+<ls>VARĀH. BṚH. S.8,36.</ls> <ls>Verz. d. Oxf. H. 331,b,3</ls> v. u. 
 <div n="2">— e) N. pr. eines Schlangendämons 
 <ls>MBH. 1, 2157.</ls> {#अ°#} ed. Bomb. 
 <div n="1">— 3) <lex>m.</lex> <lex>n.</lex> in der Astrol. Bez. {%des 12ten Hauses%} 

@@ -1,6 +1,6 @@
 <L>15080<pc>461<k1>muddy<k2>muddy
-<div n="lb"/>{@MUDDY:@}¦ <div n="1">(1) {#पङ्किलः#} ({#ला, लं#}); </div><div n="1">(2) {#सपङ्क#} (f. {#ङ्का#}),
-<div n="lb"/><div n="xe">{%from pond whose water was m.:%}</div> <div n="xs">{#सपङ्कतोयात् सरसः,#}</div>
-<div n="lb"/>Ri. i. 18.; </div><div n="1">(3) {#कलुषः#} ({#षा, षं#}) (= turbid,
-<div n="lb"/>foul).</div>
+{@MUDDY:@}¦ <div n="1">(1) {#पङ्किलः#} ({#ला, लं#}); </div><div n="1">(2) {#सपङ्क#} (f. {#ङ्का#}),
+<div n="xe">{%from pond whose water was m.:%}</div> <div n="xs">{#सपङ्कतोयात् सरसः,#}</div>
+Ri. i. 18.; </div><div n="1">(3) {#कलुषः#} ({#षा, षं#}) (= turbid,
+foul).</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>24603<pc>772<k1>zone<k2>zone
-<div n="lb"/>{@ZONE:@}¦ <div n="I">I A girdle: q. v.: {#मेखला।#} </div><div n="I">II Of
-<div n="lb"/>the earth: {#*मण्डलम्#} (?), <div n="xe">{%torrid, frigid z.:%}</div> <div n="xs">{#*घर्म-#}
-<div n="lb"/>{#मण्डलम्, शीतमण्डलम्।#}</div></div>
+{@ZONE:@}¦ <div n="I">I A girdle: q. v.: {#मेखला।#} </div><div n="I">II Of
+the earth: {#*मण्डलम्#} (?), <div n="xe">{%torrid, frigid z.:%}</div> <div n="xs">{#*घर्म-#}
+{#मण्डलम्, शीतमण्डलम्।#}</div></div>
 <LEND>

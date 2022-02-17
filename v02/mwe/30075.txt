@@ -1,8 +1,8 @@
 <L>30075<pc>815-b<k1>twilight<k2>twilight
-<div n="lb"/>TWILIGHT¦, {%s.%} {#सन्ध्या, सन्ध्याकालः, सन्ध्यासमयः, सन्धिप्रकाशः, विकालः#}
-<div n="lb"/>{#-लकः, सन्ध्यांशः, उत्सूरः, सबलिः#} {%m.,%} {#अध्वान्तं, निशादिः#} {%m.%} Twilight
-<div n="lb"/>is personified as the daughter of Brahmā, and hence
-<div n="lb"/>called {#पितृप्रसूः#} {%f.,%} {#पितृसूः#} {%f.,%} {#ब्रह्मभूतिः#} {%f.;%} ‘the morning twilight,’
-<div n="lb"/>{#पूर्व्वसन्ध्या, प्राक्सन्ध्या, सन्ध्या, दिनादिः#} {%m.;%} ‘the two twilights,’
-<div n="lb"/>{#सन्ध्ये#} {%f. du.%}
+TWILIGHT¦, {%s.%} {#सन्ध्या, सन्ध्याकालः, सन्ध्यासमयः, सन्धिप्रकाशः, विकालः#}
+{#-लकः, सन्ध्यांशः, उत्सूरः, सबलिः#} {%m.,%} {#अध्वान्तं, निशादिः#} {%m.%} Twilight
+is personified as the daughter of Brahmā, and hence
+called {#पितृप्रसूः#} {%f.,%} {#पितृसूः#} {%f.,%} {#ब्रह्मभूतिः#} {%f.;%} ‘the morning twilight,’
+{#पूर्व्वसन्ध्या, प्राक्सन्ध्या, सन्ध्या, दिनादिः#} {%m.;%} ‘the two twilights,’
+{#सन्ध्ये#} {%f. du.%}
 <LEND>

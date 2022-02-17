@@ -1,4 +1,4 @@
 <L>13070<pc>403<k1>knock<k2>knock
-<div n="lb"/>{@KNOCK,@}¦ {@KNOCKING@} (subs.): <div n="1">(1) {#आघातः, सम्-;#}</div>
-<div n="lb"/><div n="1">(2) {#अभिघातः।#}</div>
+{@KNOCK,@}¦ {@KNOCKING@} (subs.): <div n="1">(1) {#आघातः, सम्-;#}</div>
+<div n="1">(2) {#अभिघातः।#}</div>
 <LEND>

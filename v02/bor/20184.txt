@@ -1,5 +1,5 @@
 <L>20184<pc>629<k1>sequel<k2>sequel
-<div n="lb"/>{@SEQUEL:@}¦ <div n="I">I A succeeding part: {#परिशिष्टम्।#}
-<div n="lb"/>Ph.: <div n="xe">{%in the s.:%}</div> <div n="xs">{#उपरिष्टात्।#}</div> </div><div n="I">II Consequence:
-<div n="lb"/>q. v.: {#परिणामः।#}</div>
+{@SEQUEL:@}¦ <div n="I">I A succeeding part: {#परिशिष्टम्।#}
+Ph.: <div n="xe">{%in the s.:%}</div> <div n="xs">{#उपरिष्टात्।#}</div> </div><div n="I">II Consequence:
+q. v.: {#परिणामः।#}</div>
 <LEND>

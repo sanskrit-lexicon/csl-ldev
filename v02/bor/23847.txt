@@ -1,7 +1,7 @@
 <L>23847<pc>746<k1>victorious<k2>victorious
-<div n="lb"/>{@VICTORIOUS:@}¦ <div n="1">(1) {#वि-जयिन्#} (f. {#नी#}), {%v. prowess:%}
-<div n="lb"/>{#विजयि वीर्यम्,#} Vi. i. 8.; </div><div n="1">(2) {#जैत्र#} (f. {#त्री#}), <div n="xe">{%v.%}
-<div n="lb"/>{%hymns:%}</div> <div n="xs">{#जैत्रानुबाकान्,#}</div> Vi. iii. 23.; </div><div n="1">(3) {#जित्वर#}
-<div n="lb"/>(f. {#री:#} rare): v. Also to conquer, van.
-<div n="lb"/>-quish.</div>
+{@VICTORIOUS:@}¦ <div n="1">(1) {#वि-जयिन्#} (f. {#नी#}), {%v. prowess:%}
+{#विजयि वीर्यम्,#} Vi. i. 8.; </div><div n="1">(2) {#जैत्र#} (f. {#त्री#}), <div n="xe">{%v.%}
+{%hymns:%}</div> <div n="xs">{#जैत्रानुबाकान्,#}</div> Vi. iii. 23.; </div><div n="1">(3) {#जित्वर#}
+(f. {#री:#} rare): v. Also to conquer, van.
+-quish.</div>
 <LEND>

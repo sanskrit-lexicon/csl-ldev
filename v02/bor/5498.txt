@@ -1,5 +1,5 @@
 <L>5498<pc>176<k1>dearness<k2>dearness
-<div n="lb"/>{@DEARNESS:@}¦ <div n="I">I High price: </div><div n="1">(1) {#दुर्मूल्यता;#} </div><div n="1">(2)
-<div n="lb"/>{#महार्घता#} </div><div n="1">(3) {#दुर्लभता#} (scarcity). </div><div n="I">II Tender-
-<div n="lb"/>-ness: {#प्रियत्वम्, -ता।#}</div>
+{@DEARNESS:@}¦ <div n="I">I High price: </div><div n="1">(1) {#दुर्मूल्यता;#} </div><div n="1">(2)
+{#महार्घता#} </div><div n="1">(3) {#दुर्लभता#} (scarcity). </div><div n="I">II Tender-
+-ness: {#प्रियत्वम्, -ता।#}</div>
 <LEND>

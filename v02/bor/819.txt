@@ -1,12 +1,12 @@
 <L>819<pc>029<k1>anoint<k2>anoint
-<div n="lb"/>{@ANOINT:@}¦ <div n="I">I To besmear; q. v.: </div><div n="1">(1) {#लिम्पति#}
-<div n="lb"/>({#लिप्,#} c. 6.), <div n="xe">{%as if a. ing, as if filling my sense%}
-<div n="lb"/>{%of smell,%}</div> <div n="xs">{#अनुलिम्पन्तमिव पूरयन्तमिव घ्राणोन्द्रियम्,#}</div> <ls>K.</ls> ;</div>
-<div n="lb"/><div n="1">(2) {#अनक्ति, अभि-,#} ({#अञ्ज्,#} c. 7.), Sa. v.; </div><div n="1">(3)
-<div n="lb"/>{#दिग्धे#} ({#दिह्#} c. 2.) <div n="xe">{%a. ed with nectar as well as%}
-<div n="lb"/>{%poison%}</div> <div n="xs">{#दिग्धोऽमृतेन च विषेण च,#}</div> Ma. 1.; </div><div n="1">(4)
-<div n="lb"/>{#समालभते#} ({#लभ्,#} c. 1.), <div n="xe">{%I will prepare auspicious%}
-<div n="lb"/>{%ointments%}</div> <div n="xs">{#मङ्गलसमालम्भं विरचयामि,#}</div> Sa. iv. </div><div n="I">II
-<div n="lb"/>To consecrate by unction: {#अभिषिञ्चति#} ({#सिच्,#}
-<div n="lb"/>c. 6.), B. iii. 2.</div>
+{@ANOINT:@}¦ <div n="I">I To besmear; q. v.: </div><div n="1">(1) {#लिम्पति#}
+({#लिप्,#} c. 6.), <div n="xe">{%as if a. ing, as if filling my sense%}
+{%of smell,%}</div> <div n="xs">{#अनुलिम्पन्तमिव पूरयन्तमिव घ्राणोन्द्रियम्,#}</div> <ls>K.</ls> ;</div>
+<div n="1">(2) {#अनक्ति, अभि-,#} ({#अञ्ज्,#} c. 7.), Sa. v.; </div><div n="1">(3)
+{#दिग्धे#} ({#दिह्#} c. 2.) <div n="xe">{%a. ed with nectar as well as%}
+{%poison%}</div> <div n="xs">{#दिग्धोऽमृतेन च विषेण च,#}</div> Ma. 1.; </div><div n="1">(4)
+{#समालभते#} ({#लभ्,#} c. 1.), <div n="xe">{%I will prepare auspicious%}
+{%ointments%}</div> <div n="xs">{#मङ्गलसमालम्भं विरचयामि,#}</div> Sa. iv. </div><div n="I">II
+To consecrate by unction: {#अभिषिञ्चति#} ({#सिच्,#}
+c. 6.), B. iii. 2.</div>
 <LEND>

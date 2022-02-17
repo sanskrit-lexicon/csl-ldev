@@ -1,12 +1,12 @@
 <L>20108<pc>626<k1>seize<k2>seize
-<div n="lb"/>{@SEIZE:@}¦ <div n="I">I To catch: q. v.: {#गृह्नाति#} ({#ग्रह्,#} c.
-<div n="lb"/>9.), <div n="xe">{%to s. me:%}</div> <div n="xs">{#ग्रहणे मम,#}</div> Mah. vii. 73. 1.;
-<div n="lb"/><div n="xe">{%s. s by the hair:%}</div> <div n="xs">{#केशैर्गृह्नाति,#}</div> P. </div><div n="I">II To take
-<div n="lb"/>possession of: {#गृह्नाति,#} <div n="xe">{%your house has been s. d%}
-<div n="lb"/>{%by another alligator:%}</div> <div n="xs">{#त्वदीयं गृहमपरेण मकरेण गृहीतम्,#}</div>
-<div n="lb"/>P. iv. 9.: v. Also to enter. </div><div n="I">III To in-
-<div n="lb"/>-vade, attack: q. v.: {#आक्रामति#} ({#क्रम्,#} c. 1.):
-<div n="lb"/>v. Also to possess. </div><div n="I">IV To apprehend:
-<div n="lb"/>{#गृह्नाति, प्र-,#} <div n="xe">{%to s. on suspicion:%}</div> <div n="xs">{#शङ्कया गृह्णाति,#}</div> Y.:
-<div n="lb"/>v. To arrest.</div>
+{@SEIZE:@}¦ <div n="I">I To catch: q. v.: {#गृह्नाति#} ({#ग्रह्,#} c.
+9.), <div n="xe">{%to s. me:%}</div> <div n="xs">{#ग्रहणे मम,#}</div> Mah. vii. 73. 1.;
+<div n="xe">{%s. s by the hair:%}</div> <div n="xs">{#केशैर्गृह्नाति,#}</div> P. </div><div n="I">II To take
+possession of: {#गृह्नाति,#} <div n="xe">{%your house has been s. d%}
+{%by another alligator:%}</div> <div n="xs">{#त्वदीयं गृहमपरेण मकरेण गृहीतम्,#}</div>
+P. iv. 9.: v. Also to enter. </div><div n="I">III To in-
+-vade, attack: q. v.: {#आक्रामति#} ({#क्रम्,#} c. 1.):
+v. Also to possess. </div><div n="I">IV To apprehend:
+{#गृह्नाति, प्र-,#} <div n="xe">{%to s. on suspicion:%}</div> <div n="xs">{#शङ्कया गृह्णाति,#}</div> Y.:
+v. To arrest.</div>
 <LEND>

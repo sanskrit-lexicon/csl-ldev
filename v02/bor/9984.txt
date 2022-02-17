@@ -1,7 +1,7 @@
 <L>9984<pc>315<k1>gloss<k2>gloss
-<div n="lb"/>{@GLOSS@}¦ (subs.): <div n="I">I Comment, interpretation:</div>
-<div n="lb"/><div n="1">(1) {#टीका;#} </div><div n="1">(2) {#टीप्यनी;#} </div><div n="1">(3) {#व्याखया,#} <div n="xe">{%in the g.%}
-<div n="lb"/>{%of the Mīmānsā styled “light of the glorious%}
-<div n="lb"/>{%commentary”:%}</div> <div n="xs">{#मीमांसकव्याख्यायां भाष्यरन्तप्रभायाम्।#}</div> </div><div n="I">II
-<div n="lb"/>A specious appearance: {#बाह्यशोभा।#}</div>
+{@GLOSS@}¦ (subs.): <div n="I">I Comment, interpretation:</div>
+<div n="1">(1) {#टीका;#} </div><div n="1">(2) {#टीप्यनी;#} </div><div n="1">(3) {#व्याखया,#} <div n="xe">{%in the g.%}
+{%of the Mīmānsā styled “light of the glorious%}
+{%commentary”:%}</div> <div n="xs">{#मीमांसकव्याख्यायां भाष्यरन्तप्रभायाम्।#}</div> </div><div n="I">II
+A specious appearance: {#बाह्यशोभा।#}</div>
 <LEND>

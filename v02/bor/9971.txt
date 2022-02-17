@@ -1,6 +1,6 @@
 <L>9971<pc>315<k1>globe<k2>globe
-<div n="lb"/>{@GLOBE:@}¦ <div n="I">I A sphere: {#रोलः,#} <div n="xe">{%terrestrial g.:%}</div> <div n="xs">{#पृठिवी-#}
-<div n="lb"/>{#गोलः,#}</div> Su. xiii. 3. </div><div n="I">II The earth: q.v.:
-<div n="lb"/>{#भूगोलः,#} <div n="xe">{%the Meru is in the center of the g.:%}</div> <div n="xs">{#भूगोल-#}
-<div n="lb"/>{#मव्यगो मेरुः,#}</div> Su.</div>
+{@GLOBE:@}¦ <div n="I">I A sphere: {#रोलः,#} <div n="xe">{%terrestrial g.:%}</div> <div n="xs">{#पृठिवी-#}
+{#गोलः,#}</div> Su. xiii. 3. </div><div n="I">II The earth: q.v.:
+{#भूगोलः,#} <div n="xe">{%the Meru is in the center of the g.:%}</div> <div n="xs">{#भूगोल-#}
+{#मव्यगो मेरुः,#}</div> Su.</div>
 <LEND>

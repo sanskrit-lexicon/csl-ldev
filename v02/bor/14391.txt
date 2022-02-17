@@ -1,6 +1,6 @@
 <L>14391<pc>442<k1>meditation<k2>meditation
-<div n="lb"/>{@MEDITATION:@}¦ <div n="1">(1) {#ध्यानम्,#} <div n="xe">{%whose eyes were fixed%}
-<div n="lb"/>{%with m.:%}</div> <div n="xs">{#ध्यानस्तिमितलोचनः,#}</div> R.; </div><div n="1">(2) {#समाधिः,#}
-<div n="lb"/><div n="xe">{%to break m.:%}</div> <div n="xs">{#समाधिं भनक्ति,#}</div> <ls>V.</ls> ; </div><div n="1">(3) {#प्रणिधानम्,#}
-<div n="lb"/>R. i. 74.</div>
+{@MEDITATION:@}¦ <div n="1">(1) {#ध्यानम्,#} <div n="xe">{%whose eyes were fixed%}
+{%with m.:%}</div> <div n="xs">{#ध्यानस्तिमितलोचनः,#}</div> R.; </div><div n="1">(2) {#समाधिः,#}
+<div n="xe">{%to break m.:%}</div> <div n="xs">{#समाधिं भनक्ति,#}</div> <ls>V.</ls> ; </div><div n="1">(3) {#प्रणिधानम्,#}
+R. i. 74.</div>
 <LEND>

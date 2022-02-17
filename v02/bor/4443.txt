@@ -1,5 +1,5 @@
 <L>4443<pc>144<k1>conjugal<k2>conjugal
-<div n="lb"/>{@CONJUGAL:@}¦ Ph.: <div n="xe">{%c. love:%}</div> <div n="xs">{#दम्पत्योः प्रेम;#}</div> <div n="xe">{%transgression%}
-<div n="lb"/>{%of c. duties:%}</div> <div n="xs">{#दम्पत्योः परस्परं धर्मव्यतिक्रमः,#}</div> K. b.;
-<div n="lb"/><div n="xe">{%c. fidelity:%}</div> <div n="xs">{#अव्यमिचारः,#}</div> K. b.: v. Chastity.
+{@CONJUGAL:@}¦ Ph.: <div n="xe">{%c. love:%}</div> <div n="xs">{#दम्पत्योः प्रेम;#}</div> <div n="xe">{%transgression%}
+{%of c. duties:%}</div> <div n="xs">{#दम्पत्योः परस्परं धर्मव्यतिक्रमः,#}</div> K. b.;
+<div n="xe">{%c. fidelity:%}</div> <div n="xs">{#अव्यमिचारः,#}</div> K. b.: v. Chastity.
 <LEND>

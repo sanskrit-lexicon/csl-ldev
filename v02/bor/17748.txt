@@ -1,7 +1,7 @@
 <L>17748<pc>543<k1>prick<k2>prick
-<div n="lb"/>{@PRICK@}¦ (v.): <div n="I">I To puncture: q. v.: {#विध्यति#}
-<div n="lb"/>({#व्यध्,#} c. 4.). </div><div n="I">II To goad: q. v.: {#तुदति#}
-<div n="lb"/>({#तुद्,#} c. 5.). </div><div n="I">III Fig., to sting: </div><div n="1">(1) {#विध्यति;#}</div>
-<div n="lb"/><div n="1">(2) {#तुदति,#} Rām. ii. 11. 24. Ph.: <div n="xe">{%with p. ed%}
-<div n="lb"/>{%up ears:%}</div> <div n="xs">{#स्तब्धकर्ण#}</div> (f. {#र्णा#}), H. ii.</div>
+{@PRICK@}¦ (v.): <div n="I">I To puncture: q. v.: {#विध्यति#}
+({#व्यध्,#} c. 4.). </div><div n="I">II To goad: q. v.: {#तुदति#}
+({#तुद्,#} c. 5.). </div><div n="I">III Fig., to sting: </div><div n="1">(1) {#विध्यति;#}</div>
+<div n="1">(2) {#तुदति,#} Rām. ii. 11. 24. Ph.: <div n="xe">{%with p. ed%}
+{%up ears:%}</div> <div n="xs">{#स्तब्धकर्ण#}</div> (f. {#र्णा#}), H. ii.</div>
 <LEND>

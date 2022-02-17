@@ -1,4 +1,4 @@
 <L>19868<pc>618<k1>scholarship<k2>scholarship
-<div n="lb"/>{@SCHOLARSHIP:@}¦ <div n="I">I Learning: q. v.: {#पाण्डित्यम्।#}</div>
-<div n="lb"/><div n="I">II Stipend: {#वृत्तिः।#}</div>
+{@SCHOLARSHIP:@}¦ <div n="I">I Learning: q. v.: {#पाण्डित्यम्।#}</div>
+<div n="I">II Stipend: {#वृत्तिः।#}</div>
 <LEND>

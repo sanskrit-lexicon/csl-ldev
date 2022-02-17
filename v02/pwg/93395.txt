@@ -9,7 +9,7 @@
 <ls>AV. 4, 11, 5.</ls> {#यस्या^ं य\ज्ञं त\न्वते^ वि\श्वक^र्माणः#} 
 <ls>12, 1, 13.</ls> <ls>VS. 1, 4.</ls> <is>Prajāpati</is> 
 <ls>12, 61.</ls> <ls>TS. 2, 4, 3, 1.</ls> <ls>ŚAT. BR. 4, 6, 4, 5. 9, 2, 2, 2.</ls> <ls>KAUŚ. 139.</ls> <is>Viṣṇu</is> (<is>Kṛṣṇa</is>) 
-<ls>MBH. 6, 2944. 14, 1485. 1573.</ls> {#त्वष्टा तथैवोर्जितविश्वकर्मा#} 
+<ls>MBH. 6, 2944.</ls> <ls n="MBH.">14, 1485.</ls> <ls n="MBH. 14,">1573.</ls> {#त्वष्टा तथैवोर्जितविश्वकर्मा#} 
 <ls>HARIV. 13143.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) N. {%eines weltbildenden Genius%}, ähnlich dem <is>Prajāpati</is>, oft auch nicht von ihm zu unterscheiden, 
@@ -24,8 +24,8 @@
 <ls>AK. 3, 4, 18, 111.</ls> 
 <ls>H. 182.</ls> 
 <ls>an. 4, 192.</ls> 
-<ls>MED. n. 245.</ls> <ls>HALĀY. 1, 84.</ls> <ls>MBH. 1, 7688. fgg. 2, 311.</ls> <ls>HARIV. 6512. fgg.</ls> {#(प्रजापतिसुत)#} . 
-<ls>?8937. fgg. 12149. 12385. 13178. R.2,91,11. fg. (100,10. fg. GORR.). 28. KĀM. NĪTIS. 19,6. KATHĀS. 15,136. VP. 76. BHĀG. P.6,9,53. PAÑCAR.1,1,80. 11,12. Verz.d. Oxf. H. 76,b,28. wann er schläft 46,a,44. fgg. BURN. Intr. 131.</ls>
+<ls>MED. n. 245.</ls> <ls>HALĀY. 1, 84.</ls> <ls>MBH. 1, 7688. fgg.</ls> <ls n="MBH.">2, 311.</ls> <ls>HARIV. 6512. fgg.</ls> ({#प्रजापतिसुत#}) . 
+<ls n="HARIV.">8937.</ls> fgg. <ls n="HARIV.">12149.</ls> <ls n="HARIV.">12385.</ls> <ls n="HARIV.">13178.</ls> <ls>R. 2,91,11. fg. (100,10. fg. GORR.). 28.</ls> <ls>KĀM. NĪTIS. 19,6.</ls> <ls>KATHĀS. 15,136.</ls> <ls>VP. 76.</ls> <ls>BHĀG. P. 6,9,53.</ls> <ls>PAÑCAR. 1,1,80. 11,12.</ls> <ls>Verz.d. Oxf. H. 76,b,28.</ls> wann er schläft <ls n="Verz.d. Oxf. H.">46,a,44. fgg.</ls> <ls>BURN. Intr. 131.</ls>
 [Page6-1225]
 <is>Maya</is> ist <is>Viśvakarman</is> der <is>Dānava</is> 
 <ls>MBH. 2, 5.</ls> ein <is>Avatāra</is> des <is>Viśvakarman</is> 
@@ -42,7 +42,7 @@
 <ls>Verz. d. Oxf. H. 21,b,16.</ls> {#विश्वकर्ममाहात्म्य#} 
 <ls>MACK. Coll. 1, 84.</ls> {#विश्वकर्मपुराण#} 
 <ls>46.</ls> {#विश्वकर्मपुराणसंग्रह#} 
-<ls>?166. Nach H. an. und MED.</ls> ist <is>Viśvakarman</is> auch N. pr. eines <is>Muni</is>. 
+<ls>166.</ls> nach <ls>H. an.</ls> und <ls>MED.</ls> ist <is>Viśvakarman</is> auch N. pr. eines <is>Muni</is>. 
 <div n="2">— b) Bez. {%der Sonne%} 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MĀRK. P. 107, 11.</ls> <ls>VĀSAVAD. 14.</ls> 
 <div n="2">— c) N. einer der 

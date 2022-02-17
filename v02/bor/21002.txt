@@ -1,12 +1,12 @@
 <L>21002<pc>661<k1>song<k2>song
-<div n="lb"/>{@SONG:@}¦ <div n="1">(1) {#गीतम्,#} <div n="xe">{%at the end of the song:%}</div> <div n="xs">{#गीतान्ते,#}</div>
-<div n="lb"/>Mal. ii.; <div n="xe">{%fond of s. s:%}</div> <div n="xs">{#प्रियगीत#}</div> (f. {#ता#}), K.;
-<div n="lb"/><div n="xe">{%s. s of Govinda:%}</div> <div n="xs">{#गीतगोविन्दम्,#}</div> Gi.; <div n="xe">{%intent to hear%}
-<div n="lb"/>{%their s. s:%}</div> <div n="xs">{#तद्गीतश्रवणैकाग्रा,#}</div> K. xv. 66.; <div n="xe">{%by the%}
-<div n="lb"/>{%auspicious s. s of bees:%}</div> <div n="xs">{#भृङ्गावलीमङ्गलगीतनादैः,#}</div> P. h.;</div>
-<div n="lb"/><div n="1">(2) {#गीतिः,#} <div n="xe">{%by auspicious eulogistic s. s:%}</div> <div n="xs">{#स्तुतिगीति-#}
-<div n="lb"/>{#मङ्गलैः,#}</div> Ki. i. 38.; {#गीत्या देवं विरूपाक्षमुपवीणयन्ति,#}
-<div n="lb"/>K.; </div><div n="1">(3) {#गानम्,#} <div n="xe">{%dry s.:%}</div> <div n="xs">{#शुष्कं गानम्,#}</div> Sah. vi.;
-<div n="lb"/><div n="xe">{%consisting of s.;%}</div> <div n="xs">{#गानात्मक#}</div> (f. {#त्मिका#}), Say.;</div>
-<div n="lb"/><div n="1">(4) {#रुतम्#} (= cry: q. v.)</div>
+{@SONG:@}¦ <div n="1">(1) {#गीतम्,#} <div n="xe">{%at the end of the song:%}</div> <div n="xs">{#गीतान्ते,#}</div>
+Mal. ii.; <div n="xe">{%fond of s. s:%}</div> <div n="xs">{#प्रियगीत#}</div> (f. {#ता#}), K.;
+<div n="xe">{%s. s of Govinda:%}</div> <div n="xs">{#गीतगोविन्दम्,#}</div> Gi.; <div n="xe">{%intent to hear%}
+{%their s. s:%}</div> <div n="xs">{#तद्गीतश्रवणैकाग्रा,#}</div> K. xv. 66.; <div n="xe">{%by the%}
+{%auspicious s. s of bees:%}</div> <div n="xs">{#भृङ्गावलीमङ्गलगीतनादैः,#}</div> P. h.;</div>
+<div n="1">(2) {#गीतिः,#} <div n="xe">{%by auspicious eulogistic s. s:%}</div> <div n="xs">{#स्तुतिगीति-#}
+{#मङ्गलैः,#}</div> Ki. i. 38.; {#गीत्या देवं विरूपाक्षमुपवीणयन्ति,#}
+K.; </div><div n="1">(3) {#गानम्,#} <div n="xe">{%dry s.:%}</div> <div n="xs">{#शुष्कं गानम्,#}</div> Sah. vi.;
+<div n="xe">{%consisting of s.;%}</div> <div n="xs">{#गानात्मक#}</div> (f. {#त्मिका#}), Say.;</div>
+<div n="1">(4) {#रुतम्#} (= cry: q. v.)</div>
 <LEND>

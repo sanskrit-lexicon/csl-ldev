@@ -1,6 +1,6 @@
 <L>15383<pc>471<k1>neutral<k2>neutral
-<div n="lb"/>{@NEUTRAL:@}¦ <div n="1">(1) {#मध्यस्थ#} (f. {#स्था#}), <div n="xe">{%but others rema-%}
-<div n="lb"/>{%ined n.:%}</div> <div n="xs">{#मध्यस्थास्त्वपरेऽमवन्,#}</div> Mah. ii. 45. 32.;</div>
-<div n="lb"/><div n="1">(2) {#मध्यमः#} ({#मा, मं#}) (rare), R. xiii. 7.: v.
-<div n="lb"/>Indifferent.</div>
+{@NEUTRAL:@}¦ <div n="1">(1) {#मध्यस्थ#} (f. {#स्था#}), <div n="xe">{%but others rema-%}
+{%ined n.:%}</div> <div n="xs">{#मध्यस्थास्त्वपरेऽमवन्,#}</div> Mah. ii. 45. 32.;</div>
+<div n="1">(2) {#मध्यमः#} ({#मा, मं#}) (rare), R. xiii. 7.: v.
+Indifferent.</div>
 <LEND>

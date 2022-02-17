@@ -8,7 +8,7 @@
 <ls>ṚV. 10, 72, 6.</ls> <ls n="ṚV. 10,">94, 5.</ls> 
 <ls>ŚAT. BR. 3, 2, 4, 6.</ls> 
 <ls>KAUŚ. 93. 105.</ls> 
-<ls>ADBH. BR.</ls> in <ls>Ind. St. 1, 41, 9.</ls> <ls>M. 4. 64.</ls> <ls>HIḌ. 2, 15.</ls> <ls>ARJ. 4, 60.</ls> <ls>MBH. 1, 4809. 3, 6090. 4, 305.</ls> <ls>R. 2, 40, 43. 91, 60.</ls> <ls>SUŚR. 1, 110, 1.</ls> <ls>BHĀG. P. 3, 24, 7.</ls> <ls>PRAB. 3, 13.</ls> {#नृत्यति#} (so ist mit der v.l. zu lesen)
+<ls>ADBH. BR.</ls> in <ls>Ind. St. 1, 41, 9.</ls> <ls>M. 4. 64.</ls> <ls>HIḌ. 2, 15.</ls> <ls>ARJ. 4, 60.</ls> <ls>MBH. 1, 4809.</ls> <ls n="MBH.">3, 6090.</ls> <ls n="MBH.">4, 305.</ls> <ls>R. 2, 40, 43. 91, 60.</ls> <ls>SUŚR. 1, 110, 1.</ls> <ls>BHĀG. P. 3, 24, 7.</ls> <ls>PRAB. 3, 13.</ls> {#नृत्यति#} (so ist mit der v.l. zu lesen)
 [Page4-0061]
 {#कबन्धः#} 
 <ls>PAÑCAT. I, 443.</ls> <ls>DHŪRTAS. 66, 15.</ls> {#(यदि शिखिनः) न नृत्येयुः#} 
@@ -16,7 +16,7 @@
 <ls>MBH. 5, 7181.</ls> 
 <ls>RĀJA-TAR. 5, 342.</ls> {#(समुद्रम्) नृत्यन्तमिव#} 
 <ls>MBH. 1, 1214.</ls> {#ननर्त#} 
-<ls>5187.</ls> <ls>HARIV. 3686. 14751.</ls> <ls>BHĀG. P. 5, 9, 29.</ls> {#ननृतुः#} 
+<ls>5187.</ls> <ls>HARIV. 3686.</ls> <ls n="HARIV.">14751.</ls> <ls>BHĀG. P. 5, 9, 29.</ls> {#ननृतुः#} 
 <ls>MBH. 3, 1786.</ls> 
 <ls>HARIV. 6037.</ls> 
 <ls>R. 1, 19, 10. 73, 35.</ls> 
@@ -33,7 +33,7 @@
 <ls>MATSYOP. 41.</ls> {%als Schauspieler spielen%} 
 <ls>KATHĀS. 2, 35.</ls> {%aufführen, spielen ein Stück%}; mit dem acc.: {#रम्भाभिसारं कौवेरं नाटकं ननृतुः#} 
 <ls>HARIV. 8694.</ls> {#एतत्प्रकरणं वीरा ननृतुः#} 
-<ls>8697.</ls> — {#नृत्त/#} <lex>n.</lex> {%Tanz%} 
+<ls n="HARIV.">8697.</ls> — {#नृत्त/#} <lex>n.</lex> {%Tanz%} 
 <ls>H. 280.</ls> 
 <ls>VS. 30, 6. 20.</ls> 
 <ls>ŚAT. BR. 3, 2, 4, 6.</ls> 
@@ -75,7 +75,7 @@
 <ls>VARĀH. BṚH. S. 13, 2.</ls> {#यावद्दृष्टिर्मृगाक्षीणां न नरीनर्त्ति#} 
 <ls>DHŪRTAS. 84, 9.</ls> {#नरीनृत्यमान#} 
 <ls>67, 7.</ls> {#नरीनत्यति#} {%lässt hinundhertanzen%}, mit dem acc. 
-<ls>Verz. d. Oxf. H. No. 233,</ls> <ls>Śl. 1.</ls>
+<ls>Verz. d. Oxf. H. No. 233, Śl. 1.</ls>
 
 <div n="p">— {#अधि#} {%tanzen auf%} (acc.): {#ग्रावा^ त्वै\षो ऽधि^ नृत्यतु#} 
 <ls>AV. 10, 9, 2. 5, 20, 10.</ls>
@@ -99,9 +99,9 @@
 
 <div n="p">— {#उप#} {%Jmd%} (acc.) {%vortanzen%}: {#यमुपनृत्यन्ति शतशो ऽप्यप्सरोगणाः#} 
 <ls>HARIV. 2458.</ls> 
-<ls>R. 2, 91, 45. (GORR. 100, 46). 6, 92, 71. med.</ls> : {#उपानृत्यन्त देवेशम्#} 
+<ls>R. 2, 91, 45.</ls> (<ls>GORR. 100, 46</ls>). <ls n="R.">6, 92, 71.</ls> med. : {#उपानृत्यन्त देवेशम्#} 
 <ls>HARIV. 14155.</ls> {#उपनृत्यमान#} (ohne obj.) 
-<ls>8787.</ls> pass.: {#उपगीतोपनृत्तश्च गन्धर्वाप्सरसां गणैः#} 
+<ls n="HARIV.">8787.</ls> pass.: {#उपगीतोपनृत्तश्च गन्धर्वाप्सरसां गणैः#} 
 <ls>MBH. 5, 4100.</ls> {%vor Jmd die Gebärden des Tanzens machen%} (als Hohn): {#ये ऽस्मान्पुरोपनृत्यन्त मूढा गौरिति गौरिति#} 
 <ls>9, 3315.</ls>
 
@@ -123,7 +123,7 @@
 <div n="1"> 1) {%tanzend schreiten, forttanzen; zu tanzen anfangen, tanzen%}: {#क्ली\बा इ^व\ प्रनृ^त्यन्तो\ वने\ ये कु\र्वते\ घोष^म्#} 
 <ls>AV. 8, 6, 11.</ls> {#व\शा स^मु\द्रे प्रानृ^त्यत्#} 
 <ls>10, 10, 14.</ls> <ls>SUŚR. 1, 110, 6.</ls> {#प्रनृत्यतीव संग्रामे चापहस्तो धनंजयः#} 
-<ls>MBH. 4, 2006. 7, 806. 3396.</ls> 
+<ls>MBH. 4, 2006.</ls> <ls n="MBH.">7, 806.</ls> <ls n="MBH. 7,">3396.</ls> 
 <ls>HARIV. 10847.</ls> 
 <ls>R. 5, 25, 51.</ls> {#(गङ्गा) महातरंगौघवती प्रनृत्यन्तीव#} 
 <ls>R. GORR. 1, 45, 26.</ls> {#शिखिनां प्रनृत्यताम्#} 
@@ -142,7 +142,7 @@
 <ls>1, 1299.</ls>
 
 <div n="p">— {#प्रति#} {%es Jmd%} (acc.) {%entgelten dadurch, dass man wieder vor ihm hinundhertanzt%}: {#ये तदास्मान्प्रनृत्यन्ति पुनर्गौरिति गौरिति ॥ तान्वयं प्रतिनृत्यामः पुनर्गौरिति गौरिति ।#} 
-<ls>MBH. 8, 4251. fg. 9, 3316.</ls>
+<ls>MBH. 8, 4251. fg.</ls> <ls n="MBH.">9, 3316.</ls>
 
 <div n="p">— {#वि#} {%zu tanzen anheben, Gebärden des Tanzens machen%}: {#तस्मा^दे\वं वि\द्वान् वीव^ नृत्येत्#} 
 <ls>TBR. 2, 3, 9, 9.</ls>

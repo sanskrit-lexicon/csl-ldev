@@ -11,7 +11,7 @@ m. <ls>TRIK. 3, 5, 4.</ls> {%klebriger Stoff, Schleim%}
 <ls>MBH. 14, 150.</ls> 
 <ls>SUŚR. 1, 20, 14. 2, 136, 8. 246, 19.</ls> {#मुखं श्लेष्मागारम्#} 
 <ls>Spr. 3297.</ls> {#गुडेन वर्धितः श्लेष्मा यतो निःशेषतां व्रजेत्#} 
-<ls>(II) 1164. 4909.</ls> <ls>VARĀH. BṚH. S. 51, 27.</ls> {#श्लेष्मत्याग#} 
+(<ls>II) 1164. 4909.</ls> <ls>VARĀH. BṚH. S. 51, 27.</ls> {#श्लेष्मत्याग#} 
 <ls>33.</ls> <ls>MĀRK. P. 14, 79.</ls> <ls>BHĀG. P. 5, 26, 23.</ls> {#श्लेष्मापिहितलोचन#} 
 <ls>MBH. 12, 5360.</ls> In der Medicin Bez. {%einer der Grundstoffe des menschlichen Leibes%} (auch {#कफ#} genannt), {%Phlegma%} 
 <ls>AK. 2, 6, 2, 13. 3, 4, 14, 67.</ls> 
@@ -24,9 +24,9 @@ m. <ls>TRIK. 3, 5, 4.</ls> {%klebriger Stoff, Schleim%}
 <ls>48, 7. 77, 3. 80, 14. 2, 186, 4. 318, 1.</ls> {#श्लेष्मसंघातजौ स्तनौ#} 
 <ls>YĀJÑ. 3, 97.</ls> {#षट् (अञ्जलयः) श्लेष्मा#} im Körper 106. {#श्लेष्माणं निहन्ति#} 
 <ls>Spr. (II) 1992.</ls> {#श्लेष्मज्वर#} 
-<ls>Verz. d. Oxf. H. 318</ls>, {%b%}, 
-<ls>4 v. u.</ls> {#°पित्तज्वर#} 
-<ls>3 v. u.</ls> {#°कृता रोगाः#} 
+<ls>Verz. d. Oxf. H. 318,b,</ls> 
+<ls>4</ls> v. u. {#°पित्तज्वर#} 
+<ls>3</ls> v. u. {#°कृता रोगाः#} 
 <ls>VARĀH. BṚH. S. 8, 28.</ls> {#°दुष्ट#} 
 <ls>SUŚR. 1, 45, 5.</ls> {#°क्षय#} 
 <ls>48, 19.</ls> {#°वृद्धि#} 

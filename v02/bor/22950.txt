@@ -1,8 +1,8 @@
 <L>22950<pc>723<k1>truth<k2>truth
-<div n="lb"/>{@TRUTH:@}¦ <div n="I">I What is true: </div><div n="1">(1) {#सत्यम्;#} </div><div n="1">(2)
-<div n="lb"/>{#तथ्यम्;#} </div><div n="1">(3) {#ऋतम्;#} </div><div n="1">(4) {#अवितथम्#} and sim.
-<div n="lb"/>comp. s, <div n="xe">{%t. although sweet:%}</div> <div n="xs">{#प्रियमप्यमिथ्या।#}</div> </div><div n="I">II
-<div n="lb"/>Trueness: </div><div n="1">(1) {#सत्यता, -त्वम्;#} </div><div n="1">(2) {#तथ्यता, -त्वम्;#}</div>
-<div n="lb"/><div n="1">(3) {#याथार्थ्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#यथार्थता;#}</div> </div><div n="1">(4) {#तत्त्वम्।#} Ph.: {%in t.:%}
-<div n="lb"/>{#सत्यम्:#} v. Truly.</div>
+{@TRUTH:@}¦ <div n="I">I What is true: </div><div n="1">(1) {#सत्यम्;#} </div><div n="1">(2)
+{#तथ्यम्;#} </div><div n="1">(3) {#ऋतम्;#} </div><div n="1">(4) {#अवितथम्#} and sim.
+comp. s, <div n="xe">{%t. although sweet:%}</div> <div n="xs">{#प्रियमप्यमिथ्या।#}</div> </div><div n="I">II
+Trueness: </div><div n="1">(1) {#सत्यता, -त्वम्;#} </div><div n="1">(2) {#तथ्यता, -त्वम्;#}</div>
+<div n="1">(3) {#याथार्थ्यम्#} <div n="xe">{%or%}</div> <div n="xs">{#यथार्थता;#}</div> </div><div n="1">(4) {#तत्त्वम्।#} Ph.: {%in t.:%}
+{#सत्यम्:#} v. Truly.</div>
 <LEND>

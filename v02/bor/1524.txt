@@ -1,4 +1,4 @@
 <L>1524<pc>054<k1>bake-house<k2>bake-house
-<div n="lb"/>{@BAKE-HOUSE, BAKERY:@}¦ <div n="1">(1) {#पूपशाला#} (?); </div><div n="1">(2)
-<div n="lb"/>{#पाकशाला#} (?).</div>
+{@BAKE-HOUSE, BAKERY:@}¦ <div n="1">(1) {#पूपशाला#} (?); </div><div n="1">(2)
+{#पाकशाला#} (?).</div>
 <LEND>

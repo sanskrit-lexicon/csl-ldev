@@ -1,7 +1,7 @@
 <L>24485<pc>767<k1>worship<k2>worship
-<div n="lb"/>{@WORSHIP@}¦ (v.): <div n="1">(1) {#उपास्ते,#} ({#आस्,#} c. 2.), <div n="xe">{%who%}
-<div n="lb"/>{%w. s other gods:%}</div> <div n="xs">{#योऽन्यां देवतामुपास्ते,#}</div> San. iv.;</div>
-<div n="lb"/><div n="1">(2) {#पूजयति#} ({#पूज्,#} c. 10.), <div n="xe">{%I will describe how%}
-<div n="lb"/>{%to w. Śiva:%}</div> <div n="xs">{#शिवपूजां प्रवक्ष्यामि,#}</div> A. p.: v. Also
-<div n="lb"/>to honour, serve.</div>
+{@WORSHIP@}¦ (v.): <div n="1">(1) {#उपास्ते,#} ({#आस्,#} c. 2.), <div n="xe">{%who%}
+{%w. s other gods:%}</div> <div n="xs">{#योऽन्यां देवतामुपास्ते,#}</div> San. iv.;</div>
+<div n="1">(2) {#पूजयति#} ({#पूज्,#} c. 10.), <div n="xe">{%I will describe how%}
+{%to w. Śiva:%}</div> <div n="xs">{#शिवपूजां प्रवक्ष्यामि,#}</div> A. p.: v. Also
+to honour, serve.</div>
 <LEND>

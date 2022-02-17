@@ -3,7 +3,7 @@
 <ls>Uṇ. 3, 60.</ls> 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} und {#ई#} (ved.). 
 <div n="2"> a) {%röthlich, rothbraun; die Farbe des Morgens%} im Gegensatz {%zum Schwarz der Nacht%}: {#कृ\ष्णं च\ वर्ण^मरु\णं च\ सं धु^ः#} 
-<ls>ṚV. 1, 73, 7</ls> <ls>?(AV. 12, 1, 52).</ls> der Strahlen, Rinder, Rosse der Morgenröthe 
+<ls>ṚV. 1, 73, 7</ls> (<ls>AV. 12, 1, 52).</ls> der Strahlen, Rinder, Rosse der Morgenröthe 
 <ls n="ṚV. 1,">92, 2.</ls> <ls n="ṚV. 1, 92,">15.</ls> <ls n="ṚV. 1,">113, 14.</ls> <ls n="ṚV. 1,">124, 11.</ls> <ls n="ṚV.">5, 80, 3.</ls> des <is>Soma</is> und der <is>Soma</is>-Pflanze: {#वृ\क्षस्य\ शाखा^मरु\णस्य\ बप्स^तः#} 
 <ls n="ṚV.">10, 94, 3.</ls> <ls n="ṚV.">7, 98, 1.</ls> <ls n="ṚV.">9, 45, 3.</ls> des Wolfs 
 <ls n="ṚV.">1, 105, 18.</ls> des Aussatzes (vgl. 2,c.) 
@@ -13,7 +13,7 @@
 <ls>KĀTY. ŚR. 25, 12, 18.</ls> {#प्राची दिगियमभवत्तावदरुणा#} 
 <ls>ŚṚṄGĀRAT. 8.</ls> {#कुरवकः#} 
 <ls>AK. 2, 4, 2, 55.</ls> {#पल्लव#} 
-<ls>BRAHMA-P.</ls> in <ls>LA. 59, 10.</ls> {#कपोताङ्गारुणो धूमः#} 
+<ls>BRAHMA-P. in LA. 59, 10.</ls> {#कपोताङ्गारुणो धूमः#} 
 <ls>R. 3, 5, 7.</ls> {#भस्मारुणम् - दग्धास्थिस्थानमण्डलम्#} 
 <ls>2, 77, 8.</ls> {#पाण्डरारुणवर्णानि नीललोहितकानि च - महाभ्राणि चकाशिरे#} 
 <ls>5, 55, 15.</ls> {#पाण्डुरारुणवर्णानि स्रोतांसि विमलान्यपि । सुस्रुवुर्गिरिधातुभ्यः सभस्मानि भुजंगवत् ॥#} 
@@ -52,7 +52,7 @@
 <ls>ŚĀK. 77.</ls> {#किं वाभविष्यदरुणस्तमसां विभेत्ता तं चेत्सहस्रकिरणो धुरि नाकरिष्यत्#} 
 <ls>163.</ls> <ls>KUMĀRAS. 5, 44.</ls> ein Sohn der <is>Vinatā</is> und Bruder <is>Garuḍa's</is> 
 <ls>R. 3, 20, 33.</ls> 
-<ls>HARIV. 224. 2499. 11556. 12507. 14175.</ls> 
+<ls>HARIV. 224.</ls> <ls n="HARIV.">2499.</ls> <ls n="HARIV.">11556.</ls> <ls n="HARIV.">12507.</ls> <ls n="HARIV.">14175.</ls> 
 <ls>VP. 149.</ls> Schüler des <is>Sūrya</is> 
 <ls>Verz. d. B. H. No. 939.</ls> 
 <div n="2">— b) {%Sonne%} 
@@ -79,7 +79,7 @@
 <ls>14, 9, 4, 33</ls> (hier proparox.) = 
 <ls>BṚH. ĀR. UP. 6, 5, 3.</ls> <ls>WEBER, Lit. 129.</ls> Vater von <is>Uddālaka</is> 
 <ls>COLEBR. Misc. Ess. I, 37. 54. 83. 84. 87.</ls> Sohn <is>Vītadravya's</is> 
-<ls>ṚV.</ls> <ls>ANUKR.</ls> zu <ls>10, 91.</ls> Vgl. {#आरुणि#} . — ein <is>Asura</is> ({#त्रैलोक्ये महाबाधां करिष्यति#}) 
+<ls>ṚV. ANUKR.</ls> zu <ls>10, 91.</ls> Vgl. {#आरुणि#} . — ein <is>Asura</is> ({#त्रैलोक्ये महाबाधां करिष्यति#}) 
 <ls>DEV. 11, 49.</ls> — <is>Aruṇa</is> <is>Āṭa</is> ein Schlangenpriester 
 <ls>PAÑCAV. BR.</ls> in <ls>Ind. St. 1, 35.</ls> — ein König aus dem Sonnengeschlecht 
 <ls>LIA. I, Anh. CVI</ls> (zu <ls>S. VI, N. 8</ls>). 

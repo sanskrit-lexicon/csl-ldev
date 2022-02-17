@@ -1,6 +1,6 @@
 <L>16241<pc>276-2<k1>वात<k2>वात<h>1
 {#वात#}¦vā́-ta [{%pp.%} √ ¤1.¤ vā, blow: {%with change %}
-<>{%of accent%}; {%cp.%} márta], {%m.%} wind; god of wind 
-<>({%pl.%} the Maruts); air, wind {%as one of the humours %}<lbinfo n="2"/>
-<>{% of the body%}; disorder caused by wind.
+{%of accent%}; {%cp.%} márta], {%m.%} wind; god of wind 
+({%pl.%} the Maruts); air, wind {%as one of the humours %}<lbinfo n="2"/>
+{% of the body%}; disorder caused by wind.
 <LEND>

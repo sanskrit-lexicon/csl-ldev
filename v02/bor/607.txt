@@ -1,6 +1,6 @@
 <L>607<pc>022<k1>ally<k2>ally
-<div n="lb"/>{@ALLY@}¦ (v. t.) <div n="I">I To unite or connect: {#सम्बन्धं करोति, #}
-<div n="lb"/>{# संबध्नाति#} ({#बन्ध्,#} c. 9.) </div><div n="I">II To form an alliance
-<div n="lb"/>with (between states).: {#सन्धिं करोति#} <div n="xe">{%or%}</div> <div n="xs">{#संदधाति#}</div>
-<div n="lb"/>({#धा,#} c. 3.).</div>
+{@ALLY@}¦ (v. t.) <div n="I">I To unite or connect: {#सम्बन्धं करोति, #}
+{# संबध्नाति#} ({#बन्ध्,#} c. 9.) </div><div n="I">II To form an alliance
+with (between states).: {#सन्धिं करोति#} <div n="xe">{%or%}</div> <div n="xs">{#संदधाति#}</div>
+({#धा,#} c. 3.).</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>3694<pc>121<k1>circumference<k2>circumference
-<div n="lb"/>{@CIRCUMFERENCE:@}¦ <div n="1">(1) {#परिधिः;#} </div><div n="1">(2) {#परिवेशः;#}</div>
-<div n="lb"/><div n="1">(3) {#परिवेष्टनम्।#}</div>
+{@CIRCUMFERENCE:@}¦ <div n="1">(1) {#परिधिः;#} </div><div n="1">(2) {#परिवेशः;#}</div>
+<div n="1">(3) {#परिवेष्टनम्।#}</div>
 <LEND>

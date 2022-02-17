@@ -1,9 +1,9 @@
 <L>2627<pc>056-b<k1>board<k2>board
-<div n="lb"/>BOARD¦, {%s.%} (A plank) {#फलकः -कं, दीर्घकाष्ठं#}. — (A table) {#भोजनाधारः,#}
-<div n="lb"/>{#फलकः, भोजनासनं, मञ्चः#}. — (Food) {#भोजनं, आहारः, भृतिः#} {%f.,%} {#अन्नजलं#}.
-<div n="lb"/>‘board and clothing,’ {#ग्रासाच्छादनं;#} ‘board and lodging,’
-<div n="lb"/>{#ग्रासावासौ#} {%du.%} — (A council) {#सभा;#} ‘the members of it,’ {#सभासदः#}
-<div n="lb"/>{%m. pl.%} — (The deck of a ship) {#नौकापृष्ठं, पोतपृष्ठं, नौकातलं,#}
-<div n="lb"/>{#नौकाफलकं, पोतास्तरणं;#} ‘on board,’ {#नौकारूढः -ढा -ढं#}. — (A
-<div n="lb"/>board for playing drafts, &c.) {#अष्टापदं, शारिफलं, नयपीठी#}.
+BOARD¦, {%s.%} (A plank) {#फलकः -कं, दीर्घकाष्ठं#}. — (A table) {#भोजनाधारः,#}
+{#फलकः, भोजनासनं, मञ्चः#}. — (Food) {#भोजनं, आहारः, भृतिः#} {%f.,%} {#अन्नजलं#}.
+‘board and clothing,’ {#ग्रासाच्छादनं;#} ‘board and lodging,’
+{#ग्रासावासौ#} {%du.%} — (A council) {#सभा;#} ‘the members of it,’ {#सभासदः#}
+{%m. pl.%} — (The deck of a ship) {#नौकापृष्ठं, पोतपृष्ठं, नौकातलं,#}
+{#नौकाफलकं, पोतास्तरणं;#} ‘on board,’ {#नौकारूढः -ढा -ढं#}. — (A
+board for playing drafts, &c.) {#अष्टापदं, शारिफलं, नयपीठी#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>21882<pc>690<k1>sumptuously<k2>sumptuously
-<div n="lb"/>{@SUMPTUOUSLY:@}¦ <div n="I">I Costly: expr. by comp.,
-<div n="lb"/><div n="xe">{%s. dressed:%}</div> <div n="xs">{#महार्घवेष#}</div> (f. {#षा#}). </div><div n="I">II Splendidly:
-<div n="lb"/><div n="xe">{%s. fed:%}</div> <div n="xs">{#मोजनविशेषैस्तर्पित#}</div> (f. {#ता#}).</div>
+{@SUMPTUOUSLY:@}¦ <div n="I">I Costly: expr. by comp.,
+<div n="xe">{%s. dressed:%}</div> <div n="xs">{#महार्घवेष#}</div> (f. {#षा#}). </div><div n="I">II Splendidly:
+<div n="xe">{%s. fed:%}</div> <div n="xs">{#मोजनविशेषैस्तर्पित#}</div> (f. {#ता#}).</div>
 <LEND>

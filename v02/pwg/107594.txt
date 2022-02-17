@@ -36,7 +36,7 @@
 <ls>ṚV. 1, 103, 3.</ls> {#दुष्टर#} 
 <ls n="ṚV.">2, 34, 7.</ls> {#दैव्य#} 
 <ls n="ṚV.">4, 42, 6.</ls> <ls n="ṚV.">10, 108, 9.</ls> {#देवजूत#} 
-<ls>?7, 25, 5. - ŚAT. BR. 12, 7, 1, 8. AIT. BR. 3, 8.</ls> {#सहसः स्वजो ऽभवत्#} {%Gewalt des Schusses%} 26. {#तद^स्य\ सह\सादि^त्सन्त#} 
+<ls>7, 25, 5.</ls> - <ls>ŚAT. BR. 12, 7, 1, 8.</ls> <ls>AIT. BR. 3, 8.</ls> {#सहसः स्वजो ऽभवत्#} {%Gewalt des Schusses%} 26. {#तद^स्य\ सह\सादि^त्सन्त#} 
 <ls>TS. 1, 5, 1, 1.</ls> <is>Agni</is> als der durch {%Kraft%} der Reibung erzeugte (vgl. 
 <ls>ṚV. 5, 11, 6.</ls> <ls n="ṚV.">6, 48, 5</ls>) führt die Bezeichnung {#सह^सस्पु\त्रः#} 
 ? (<ls>VS. PRĀT. 3, 24.</ls> <ls>TS. PRĀT. 8, 28</ls>) <ls>ṚV. 2, 7, 6.</ls> <ls n="ṚV.">3, 16, 5.</ls> <ls n="ṚV.">5, 11, 6.</ls> {#सू\नुः#} 
@@ -59,12 +59,12 @@
 <ls>KĀTY. ŚR. 4, 15, 16. fg. 7, 8, 27.</ls> 
 <ls>M. 3, 225.</ls> 
 <ls>BHAG. 1, 13.</ls> 
-<ls>MBH. 1, 1152. 5837. 3, 2219. 2339. 2382. 2542. 2686. 2874. 2934. 2948. fg. 2957. 11903.</ls> 
+<ls>MBH. 1, 1152.</ls> <ls n="MBH. 1,">5837.</ls> <ls n="MBH.">3, 2219.</ls> <ls n="MBH. 3,">2339.</ls> <ls n="MBH. 3,">2382.</ls> <ls n="MBH. 3,">2542.</ls> <ls n="MBH. 3,">2686.</ls> <ls n="MBH. 3,">2874.</ls> <ls n="MBH. 3,">2934.</ls> <ls n="MBH. 3,">2948. fg.</ls> <ls n="MBH. 3,">2957.</ls> <ls n="MBH. 3,">11903.</ls> 
 <ls>R. 1, 2, 27. 9, 56. 50, 7. 2, 34, 19. 35, 1. 39, 32. 57, 21. 64, 16. 69, 13.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 39, 17. 3, 54, 9. 4, 1, 5.</ls> 
+
+<ls>R. GORR. 1, 39, 17. 3, 54, 9. 4, 1, 5.</ls> 
 <ls>SUŚR. 1, 119, 5.</ls> 
-<ls>ITIH.</ls> bei <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> <ls>RAGH. 3, 15. 7, 6. 16, 48.</ls> <ls>KUMĀRAS. 3, 71.</ls> <ls>ŚĀK. 9. 28. 74.</ls> <ls>Spr. (II) 77. 179. 867. 991. 3567. 4039. 4295. 5526. 5577. 6192. 6971.</ls> <ls>VARĀH.</ls> <ls>BṚH. S. 33, 5. 53, 2.</ls> <ls>KATHĀS. 18, 97. 157. 222. 249. 360. 34, 221. 49, 65.</ls> <ls>RĀJA-TAR. 6, 143.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 52, 20. 54, 4.</ls> <ls>PRAB. 86, 4.</ls> <ls>DHŪRTAS. 82, 9. 85, 16.</ls> <ls>PAÑCAT. 122, 23. 182, 14.</ls> <ls>HIT. 29, 12.</ls> {#नाराजके जनपदे हृष्टैः परमवाजिभिः । नराः संयान्ति सहसा#} so v. a. {%sie bedenken sich, ehe sie u.s.w.%} 
+<ls>ITIH.</ls> bei <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> <ls>RAGH. 3, 15. 7, 6. 16, 48.</ls> <ls>KUMĀRAS. 3, 71.</ls> <ls>ŚĀK. 9. 28. 74.</ls> <ls>Spr. (II) 77.</ls> <ls n="Spr. (II)">179.</ls> <ls n="Spr. (II)">867.</ls> <ls n="Spr. (II)">991.</ls> <ls n="Spr. (II)">3567.</ls> <ls n="Spr. (II)">4039.</ls> <ls n="Spr. (II)">4295.</ls> <ls n="Spr. (II)">5526.</ls> <ls n="Spr. (II)">5577.</ls> <ls n="Spr. (II)">6192.</ls> <ls n="Spr. (II)">6971.</ls> <ls>VARĀH.</ls> <ls>BṚH. S. 33, 5. 53, 2.</ls> <ls>KATHĀS. 18, 97. 157. 222. 249. 360. 34, 221. 49, 65.</ls> <ls>RĀJA-TAR. 6, 143.</ls> <ls>BRAHMA-P. in LA. (III) 52, 20. 54, 4.</ls> <ls>PRAB. 86, 4.</ls> <ls>DHŪRTAS. 82, 9. 85, 16.</ls> <ls>PAÑCAT. 122, 23. 182, 14.</ls> <ls>HIT. 29, 12.</ls> {#नाराजके जनपदे हृष्टैः परमवाजिभिः । नराः संयान्ति सहसा#} so v. a. {%sie bedenken sich, ehe sie u.s.w.%} 
 <ls>Spr. (II) 3642.</ls> oft mit dem Nebenbegriff {%der Uebereilung, Unüberlegtheit%}: {#मयायमर्थः संमोहात्स्त्रीहेतोः सहसा कृतः#} (als comp. zu fassen nach 
 <ls>P. 6, 3, 3</ls>) <ls>R. 2, 59, 21.</ls> {#सहसा हि कृतं पापम्#} 
 <ls>KATHĀS. 42, 114.</ls> {#अज्ञानाद्भवतः पुत्रः सहसाभिहतो मया#} 

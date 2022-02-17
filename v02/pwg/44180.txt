@@ -18,7 +18,7 @@
 <ls>2, 2, 8.</ls> {#शशाङ्कः कामिनीगण्डपाण्डुः#} 
 <ls>MṚCCH. 25, 24.</ls> {#क्षौमम् - इन्दुपाण्डु#} 
 <ls>ŚĀK. 80.</ls> {#पाण्डुदुकूल#} 
-<ls>LALIT. ed. Calc. 332, 13 u.s.w.</ls> {#पत्त्र#} 
+<ls>LALIT. ed. Calc. 332, 13</ls> u.s.w. {#पत्त्र#} 
 <ls>ŚĀK. 18. 110.</ls> {#°वर्णा (दमयन्ती)#} 
 <ls>N. 2, 3.</ls> {#मुखेन रोध्रपाण्डुना#} 
 <ls>RAGH. 3, 2.</ls> {#°मुखी#} 
@@ -40,8 +40,8 @@
 <ls>TRIK. 2, 8, 13. 3, 3, 113.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91.</ls> <ls>MBH. 1, 95. 2213. 2441. 2721. 3808. 4291</ls> (Ursprung des Namens). 
-<ls>15, 851.</ls> <ls>HARIV. 1932. 3010. 4055.</ls> <ls>KATHĀS. 21, 20. fgg.</ls> <ls>VP. 437. 459.</ls> <ls>BHĀG. P. 9, 22, 24.</ls> 
+<ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 91.</ls> <ls>MBH. 1, 95.</ls> <ls n="MBH. 1,">2213.</ls> <ls n="MBH. 1,">2441.</ls> <ls n="MBH. 1,">2721.</ls> <ls n="MBH. 1,">3808.</ls> <ls n="MBH. 1,">4291</ls> (Ursprung des Namens). 
+<ls>15, 851.</ls> <ls>HARIV. 1932.</ls> <ls n="HARIV.">3010.</ls> <ls n="HARIV.">4055.</ls> <ls>KATHĀS. 21, 20. fgg.</ls> <ls>VP. 437. 459.</ls> <ls>BHĀG. P. 9, 22, 24.</ls> 
 <div n="2">— e) N. pr. eines Sohnes des <is>Janamejaya</is> und Bruders des <is>Dhṛtarāṣṭra</is> 
 <ls>MBH. 1, 3745.</ls> 
 <ls>LIA. I, Anh. XXIV.</ls> 

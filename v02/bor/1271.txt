@@ -1,4 +1,4 @@
 <L>1271<pc>045<k1>astonishment<k2>astonishment
-<div n="lb"/>{@ASTONISHMENT:@}¦ {#विस्मयः,#} <div n="xe">{%with a.%}</div> <div n="xs">{#सविस्मयम्:#}</div> v.
-<div n="lb"/>Wonder.
+{@ASTONISHMENT:@}¦ {#विस्मयः,#} <div n="xe">{%with a.%}</div> <div n="xs">{#सविस्मयम्:#}</div> v.
+Wonder.
 <LEND>

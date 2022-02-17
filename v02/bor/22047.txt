@@ -1,13 +1,13 @@
 <L>22047<pc>695<k1>sweet<k2>sweet
-<div n="lb"/>{@SWEET:@}¦ <div n="1">(1) {#मधुर#} (f. {#रा#}), <div n="xe">{%s. glances:%}</div> <div n="xs">{#मधुरा: #}
-<div n="lb"/>{# कटाक्षाः,#}</div> Ma. i. 26.; <div n="xe">{%in the s. moon-like face%}
-<div n="lb"/>{%of Rādhā:%}</div> <div n="xs">{#मधुरे राधामुखेन्दौ,#}</div> Gi. iii. 16.; <div n="xe">{%is light,%}
-<div n="lb"/>{%s. and removes thirst:%}</div> <div n="xs">{#तृष्णाघ्नं मधुरं लघु,#}</div> Bha.;
-<div n="lb"/><div n="xe">{%by s. looks:%}</div> <div n="xs">{#मधुरैर्निरीक्षितैः,#}</div> Ki. ii. 55.; <div n="xe">{%what%}
-<div n="lb"/>{%does not adorn s. figures:%}</div> <div n="xs">{#किमिव हि मधुराणां मण्डनं #}
-<div n="lb"/>{# नाकृतीनाम्,#}</div> S. i. 19.; </div><div n="1">(3) {#मिष्ट#} (f. {#ष्टा#}), <div n="xe">{%eating%}
-<div n="lb"/>{%s. things:%}</div> <div n="xs">{#मिष्टभोजिन्#}</div> (f. {#नी#}), N. xvi. 111.;</div>
-<div n="lb"/><div n="1">(3) {#मधुमय#} (f. {#यी:#} =honied), {%by s. words;%} [Page696]
-<div n="lb"/>{#मधुमयीभिर्वाग्भिः,#} D.: v. Also tasteful, plea-
-<div n="lb"/>-sant.</div>
+{@SWEET:@}¦ <div n="1">(1) {#मधुर#} (f. {#रा#}), <div n="xe">{%s. glances:%}</div> <div n="xs">{#मधुरा: #}
+{# कटाक्षाः,#}</div> Ma. i. 26.; <div n="xe">{%in the s. moon-like face%}
+{%of Rādhā:%}</div> <div n="xs">{#मधुरे राधामुखेन्दौ,#}</div> Gi. iii. 16.; <div n="xe">{%is light,%}
+{%s. and removes thirst:%}</div> <div n="xs">{#तृष्णाघ्नं मधुरं लघु,#}</div> Bha.;
+<div n="xe">{%by s. looks:%}</div> <div n="xs">{#मधुरैर्निरीक्षितैः,#}</div> Ki. ii. 55.; <div n="xe">{%what%}
+{%does not adorn s. figures:%}</div> <div n="xs">{#किमिव हि मधुराणां मण्डनं #}
+{# नाकृतीनाम्,#}</div> S. i. 19.; </div><div n="1">(3) {#मिष्ट#} (f. {#ष्टा#}), <div n="xe">{%eating%}
+{%s. things:%}</div> <div n="xs">{#मिष्टभोजिन्#}</div> (f. {#नी#}), N. xvi. 111.;</div>
+<div n="1">(3) {#मधुमय#} (f. {#यी:#} =honied), {%by s. words;%} [Page696]
+{#मधुमयीभिर्वाग्भिः,#} D.: v. Also tasteful, plea-
+-sant.</div>
 <LEND>

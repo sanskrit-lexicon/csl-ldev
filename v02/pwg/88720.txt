@@ -7,12 +7,12 @@
 <ls>AK. 2, 6, 3, 8. 3, 4, 1, 18.</ls> 
 <ls>H. 663.</ls> 
 <ls>an. 3, 504.</ls> 
-<ls>MED. y. 95.</ls> <ls>HALĀY. 2, 402.</ls> <ls>MBH. 4, 53. 185. 1418.</ls> <ls>HARIV. 8678.</ls> <ls>R. 2, 32, 5. 5, 13, 67.</ls> {#मुञ्ज°#} 
+<ls>MED. y. 95.</ls> <ls>HALĀY. 2, 402.</ls> <ls>MBH. 4, 53.</ls> <ls n="MBH. 4,">185.</ls> <ls n="MBH. 4,">1418.</ls> <ls>HARIV. 8678.</ls> <ls>R. 2, 32, 5. 5, 13, 67.</ls> {#मुञ्ज°#} 
 <ls>SUŚR. 1, 171, 19.</ls> {#मृणाल°#} 
 <ls>2, 284, 13.</ls> {#कनक°#} 
 <ls>MEGH. 2. 61. fg. 77.</ls> 
 <ls>RAGH. 13, 21.</ls> {#अक्षमाला°#} 
-<ls>?43. UTTARAR. 82, 10 (106, 2). KUMĀRAS. 2, 64. ŚĀK. 57. 61. 66, v. l. 133. ŚIŚ. 9, 8. KATHĀS. 9, 87. 108, 131. Spr. 77 (II). 490. 573. 2792. 3719. BHĀG. P. 1, 15, 40. 3, 15, 40. 28, 15. 27. 4, 8, 48. 10, 18. 5, 25, 5. 6, 4, 38. 8, 8, 34. SĀH. D. 54, 1. 55, 20. MĀRK. P. 88, 15. PRAB. 12, 1. Inschr. in Journ. of the Am. Or. S. 7, 26, 16. BHAṬṬ. 3, 22</ls> (=  {#अवैधव्यचिह्न#} Comm.). Wellen als {%Armspangen%} eines Teiches 
+<ls>43.</ls> <ls>UTTARAR. 82, 10 (106, 2).</ls> <ls>KUMĀRAS. 2, 64.</ls> <ls>ŚĀK. 57. 61. 66, v. l. 133.</ls> <ls>ŚIŚ. 9, 8.</ls> <ls>KATHĀS. 9, 87. 108, 131.</ls> <ls>Spr. 77 (II). 490. 573. 2792. 3719.</ls> <ls>BHĀG. P. 1, 15, 40. 3, 15, 40. 28, 15. 27. 4, 8, 48. 10, 18. 5, 25, 5. 6, 4, 38. 8, 8, 34.</ls> <ls>SĀH. D. 54, 1. 55, 20.</ls> <ls>MĀRK. P. 88, 15.</ls> <ls>PRAB. 12, 1. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 7, 26, 16.</ls> <ls>BHAṬṬ. 3, 22</ls> (= {#अवैधव्यचिह्न#} Comm.). Wellen als {%Armspangen%} eines Teiches 
 u.s.w. <ls>VARĀH. BṚH. S. 12, 10.</ls> <ls>Spr. 344 (II). 477.</ls> 
 <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%Kreis%} 
 <ls>GOLĀDHY. 6, 1. 3.</ls> <ls>SUŚR. 1, 36, 10.</ls> <ls>VIKR. 140.</ls> {%Umkreis,%}
@@ -21,7 +21,7 @@ u.s.w. <ls>VARĀH. BṚH. S. 12, 10.</ls> <ls>Spr. 344 (II). 477.</ls>
 <ls>MĀRK. P. 20, 49.</ls> {#भू°#} (s. bes.), {#अवनी°#} 
 <ls>KATHĀS. 103, 238.</ls> {#पृथ्वी°#} 
 <ls>119, 209.</ls> {#धात्री°#} Inschr. in 
-<ls>Journ. of the Am. Or. S. 7, 26,</ls> <ls>Śl. 16.</ls> {#दिग्वलय#} 
+<ls>Journ. of the Am. Or. S. 7, 26, Śl. 16.</ls> {#दिग्वलय#} 
 <ls>ŚIŚ. 9, 8.</ls> {#नभो°#} 
 <ls>BHĀG. P. 5, 22, 5.</ls> {#मन्थान°#} 
 <ls>HARIV. 3396.</ls> {#वेलावप्रवलया (उर्वी)#} {%rundum begrenzt von%} 

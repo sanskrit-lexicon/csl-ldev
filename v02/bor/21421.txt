@@ -1,8 +1,8 @@
 <L>21421<pc>674<k1>steady<k2>steady
-<div n="lb"/>{@STEADY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#स्थिर#} (f. {#रा#} = cons-
-<div n="lb"/>-tant, fixed), <div n="xe">{%s. minded:%}</div> <div n="xs">{#स्थिरधीः,#}</div> R. viii. 22.;
-<div n="lb"/><div n="xe">{%one whose actions are steady:%}</div> <div n="xs">{#स्थिरकर्मन्#}</div> (mfn.);</div>
-<div n="lb"/><div n="1">(2) {#दृढ#} (f. {#ढा#} = firm: q. v.). </div><div n="I">II Of men:
-<div n="lb"/>{#धीर#} (f. {#रा#}). Ph.: <div n="xe">{%to lead a s. life:%}</div> <div n="xs">{#न व्यभिचरति,#}</div>
-<div n="lb"/>({#चर्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#सन्मार्गे तिष्ठति#}</div> ({#स्था,#} c. 1.).</div>
+{@STEADY:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#स्थिर#} (f. {#रा#} = cons-
+-tant, fixed), <div n="xe">{%s. minded:%}</div> <div n="xs">{#स्थिरधीः,#}</div> R. viii. 22.;
+<div n="xe">{%one whose actions are steady:%}</div> <div n="xs">{#स्थिरकर्मन्#}</div> (mfn.);</div>
+<div n="1">(2) {#दृढ#} (f. {#ढा#} = firm: q. v.). </div><div n="I">II Of men:
+{#धीर#} (f. {#रा#}). Ph.: <div n="xe">{%to lead a s. life:%}</div> <div n="xs">{#न व्यभिचरति,#}</div>
+({#चर्,#} c. 1.) <div n="xe">{%or%}</div> <div n="xs">{#सन्मार्गे तिष्ठति#}</div> ({#स्था,#} c. 1.).</div>
 <LEND>

@@ -1,10 +1,10 @@
 <L>21915<pc>691<k1>superior<k2>superior
-<div n="lb"/>{@SUPERIOR:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#ज्यायस्#} (f. {#सी#}),
-<div n="lb"/><div n="xe">{%and the enemy is s. (to you) in the strength of his%}
-<div n="lb"/>{%arms and forces:%}</div> <div n="xs">{#ज्यायांश्च वीर्यास्रबलैर्विपक्षः,#}</div> Ki.
-<div n="lb"/>iii. 17.; </div><div n="1">(2) {#अधिक#} (f. {#का#} =greater), <div n="xe">{%the s.%}
-<div n="lb"/>{%animals did not torment the lower ones:%}</div> <div n="xs">{#ऊनं न #}
-<div n="lb"/>{# सत्वेष्वधिको बबाधे,#}</div> R. ii. 14.: v. Also excellent,
-<div n="lb"/>to excel. </div><div n="I">II A senior: </div><div n="1">(1) {#गुरुः;#} </div><div n="1">(2) {#ज्येष्ठ#}
-<div n="lb"/>(f. {#ष्ठा:#} rare).</div>
+{@SUPERIOR:@}¦ <div n="I">I In gen.: </div><div n="1">(1) {#ज्यायस्#} (f. {#सी#}),
+<div n="xe">{%and the enemy is s. (to you) in the strength of his%}
+{%arms and forces:%}</div> <div n="xs">{#ज्यायांश्च वीर्यास्रबलैर्विपक्षः,#}</div> Ki.
+iii. 17.; </div><div n="1">(2) {#अधिक#} (f. {#का#} =greater), <div n="xe">{%the s.%}
+{%animals did not torment the lower ones:%}</div> <div n="xs">{#ऊनं न #}
+{# सत्वेष्वधिको बबाधे,#}</div> R. ii. 14.: v. Also excellent,
+to excel. </div><div n="I">II A senior: </div><div n="1">(1) {#गुरुः;#} </div><div n="1">(2) {#ज्येष्ठ#}
+(f. {#ष्ठा:#} rare).</div>
 <LEND>

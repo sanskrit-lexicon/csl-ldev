@@ -23,7 +23,7 @@
 <ls>RAGH. 5, 75.</ls> 
 <ls>MEGH. 32.</ls> {#शिखण्डिनां पटुतरं केकाभिराक्रन्दितः (मेघः)#} 
 <ls>MṚCCH. 84, 21.</ls> {#°घण्टानाम्#} 
-<ls>MBH. 1, 8014. 9, 581.</ls> {#रौक्मे पटुवर्मणी#} 886. {#पटह#} 
+<ls>MBH. 1, 8014.</ls> <ls n="MBH.">9, 581.</ls> {#रौक्मे पटुवर्मणी#} 886. {#पटह#} 
 <ls>RAGH. 9, 71.</ls> 
 <ls>VARĀH. BṚH. S. 42 (43), 59.</ls> {%scharf%} (vom Geschmack); s. {#त्रि°#} . {%scharf%}, von den Sinnesorganen 
 <ls>MEGH. 5.</ls> vom Verstande ({#बुद्धि#}) 
@@ -44,7 +44,7 @@
 <ls>RAGH. 9, 46.</ls> mit einem im loc. gedachten subst. compon. <is>gaṇa</is> {#शौण्डादि#} zu 
 <ls>P. 2, 1, 40.</ls> {#हेषित°#} 
 <ls>HARIV. 3716.</ls> {#रण°#} 
-<ls>13024.</ls> {#क्रिया° (नेत्र)#} 
+<ls n="HARIV.">13024.</ls> {#क्रिया° (नेत्र)#} 
 <ls>SUŚR. 2, 354, 14.</ls> {#वाक्°#} 
 <ls>CĀṆ. 106.</ls> {#प्रवचन°#} 
 <ls>BHARTṚ. 2, 48.</ls> {#वचन°#} 
@@ -60,7 +60,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> = {#स्फुट#} 
 <ls>H. an.</ls> {%beredt%} 
-<ls>UJJVAL.</ls><ls>?; vgl. COLEBR. und LOIS. zu AK. 3, 1, 35.</ls> {%rauh, hart%} ({#निष्ठुर#}) 
+<ls>UJJVAL.</ls>; vgl. <ls>COLEBR.</ls> und <ls>LOIS.</ls> zu <ls>AK. 3, 1, 35.</ls> {%rauh, hart%} ({#निष्ठुर#}) 
 <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%Trichosanthes dioeca Roxb.%} 
 <ls>AK. 2, 4, 5, 20.</ls> 

@@ -1,28 +1,28 @@
 <L>14698<pc>241-1<k1>यदि<k2>यदि
 {#यदि#}¦yád-i ({%V. also%} {@ī@} {%metr.%}), {%cj.%} if ({%in V. w. %}
-<>{%ind., subj., pot., ft., the pcls.%} id, u, uta, cid, 
-<>ha vai {%being sts. added, while the apodosis %}
-<>{%is gnly. without a pcl.%}; {%in C., from Manu %}
-<>{%onwards, it is used with (a) pr.%}; {%in apodosis %}
-<>{%pr., pot., impv., ft., no finite vb.%}; ({%b%}) {%pot.%}; 
-<>{%in apodosis., pot., cond., pr., impv., ft., no vb.%}; 
-<>({%c%}) {@ft.@}; {%in apodosis ft., pr., no vb.%}; (ḍ) {%cond.%}; 
-<>{%in apodosis cond.%}; ({%e%}) {%impf. or aor.%}; {%in apodosis %}<lbinfo n="3"/>
-<>{% cond., pot.%}; ({%f%}) {%no finite vb.%}; {%in apodosis %}<lbinfo n="3"/>
-<>{% pr., pot., ft., no vb.%}; {%the apodosis in %}
-<>{%all these cases has%} tarhi, tataḥ, tad, tadā, 
-<>{%rarely%} atra, atha, tatra, tadānīm, tataḥ param); <lbinfo n="2"/>
-<> if = as sure as ({%in asseverations, followed %}<lbinfo n="3"/>
-<>{% by impv.%} ± tathā {%or%} tena, {%or pot. with%} 
-<>tad); whether ({%with pr., pot., or no vb.%}; {@yadi @}
-<>{@-- na vā,@} whether -- or not); that ({%after 'not %}
-<>{%believe,' 'not suffer'%}); if perchance, perhaps 
-<>({%w. pot.%} ± iti, {%pr. or ft.%}); {@yadi ced@}, if; {@-yadi @}
-<>{@tāvat@}, how {%would it be%} if ({%w. pr. or impv.%}); 
-<>{@yádi‡api,@} even if, although (rarely {@api yadi@}; 
-<>{%apodosis%} ± tathā‡api {%or%} tad api); {@yádi@} ({%vā%}) 
-<>{@-yádi vā, yádivā -- yádi, yadi vā- vā, vā @}
-<>{@-- yadi vā, yad vā -- yadivā,@} if -- or if, whether 
-<>-- or; {@yadi -- vā ná vā@}, whether -- or not; {@ya-@}
-<>{@-di vā@} ({%alone%}), or if, or rather; {%sts.%} = however.
+{%ind., subj., pot., ft., the pcls.%} id, u, uta, cid, 
+ha vai {%being sts. added, while the apodosis %}
+{%is gnly. without a pcl.%}; {%in C., from Manu %}
+{%onwards, it is used with (a) pr.%}; {%in apodosis %}
+{%pr., pot., impv., ft., no finite vb.%}; ({%b%}) {%pot.%}; 
+{%in apodosis., pot., cond., pr., impv., ft., no vb.%}; 
+({%c%}) {@ft.@}; {%in apodosis ft., pr., no vb.%}; (ḍ) {%cond.%}; 
+{%in apodosis cond.%}; ({%e%}) {%impf. or aor.%}; {%in apodosis %}<lbinfo n="3"/>
+{% cond., pot.%}; ({%f%}) {%no finite vb.%}; {%in apodosis %}<lbinfo n="3"/>
+{% pr., pot., ft., no vb.%}; {%the apodosis in %}
+{%all these cases has%} tarhi, tataḥ, tad, tadā, 
+{%rarely%} atra, atha, tatra, tadānīm, tataḥ param); <lbinfo n="2"/>
+ if = as sure as ({%in asseverations, followed %}<lbinfo n="3"/>
+{% by impv.%} ± tathā {%or%} tena, {%or pot. with%} 
+tad); whether ({%with pr., pot., or no vb.%}; {@yadi @}
+{@-- na vā,@} whether -- or not); that ({%after 'not %}
+{%believe,' 'not suffer'%}); if perchance, perhaps 
+({%w. pot.%} ± iti, {%pr. or ft.%}); {@yadi ced@}, if; {@-yadi @}
+{@tāvat@}, how {%would it be%} if ({%w. pr. or impv.%}); 
+{@yádi‡api,@} even if, although (rarely {@api yadi@}; 
+{%apodosis%} ± tathā‡api {%or%} tad api); {@yádi@} ({%vā%}) 
+{@-yádi vā, yádivā -- yádi, yadi vā- vā, vā @}
+{@-- yadi vā, yad vā -- yadivā,@} if -- or if, whether 
+-- or; {@yadi -- vā ná vā@}, whether -- or not; {@ya-@}
+{@-di vā@} ({%alone%}), or if, or rather; {%sts.%} = however.
 <LEND>

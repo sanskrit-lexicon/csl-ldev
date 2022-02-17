@@ -3,9 +3,9 @@
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%zu besuchen, besuchenswerth für%} (gen.), {%einen passenden Aufenthaltsort abgebend%} 
 <ls>HARIV. 4327.</ls> 
-<ls>Spr. (II) 4811. 4902.</ls> 
+<ls>Spr. (II) 4811.</ls> <ls n="Spr. (II)">4902.</ls> 
 <ls>KATHĀS. 50, 173.</ls> 
-<ls>PAÑCAT. 31, 1</ls> {#(अ°)#}.{# पद्धतिं साधुसेव्याम्#} {%einzuschlagen%} 
+<ls>PAÑCAT. 31, 1</ls> ({#अ°#}).{# पद्धतिं साधुसेव्याम्#} {%einzuschlagen%} 
 <ls>RĀJA-TAR. 4, 30.</ls> {#अग्निरापः स्त्रियो मूर्खाः सर्पाः राजकुलानि च । नित्यं यत्नेन सेव्यानि#} so v. a. {%diesen soll man stets mit Vorsicht nahekommen%} 
 <ls>Spr. (II) 64.</ls> {#सेव्या मध्यभावेन राजवह्निगुरुस्त्रियः#} 
 <ls>176.</ls> 
@@ -19,9 +19,9 @@
 <div n="2">— c) {%zu ehren, - verehren, mit Ehrerbietung zu behandeln%} 
 <ls>YĀJÑ. 1, 78.</ls> 
 <ls>MBH. 7, 2881.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 24, 17.</ls> 
-<ls>Spr. (II) 1044. 3568. 6909.</ls> 
+
+<ls>R. GORR. 2, 24, 17.</ls> 
+<ls>Spr. (II) 1044.</ls> <ls n="Spr. (II)">3568.</ls> <ls n="Spr. (II)">6909.</ls> 
 <ls>VARĀH. BṚH. S. 74, 19.</ls> {#सत्°#} 
 <ls>BHĀG. P. 1, 19, 32.</ls> {#यो यं प्रति #}
 [Page7-1196]

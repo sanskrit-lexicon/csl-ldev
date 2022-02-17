@@ -1,4 +1,4 @@
 <L>13016<pc>401<k1>kiln<k2>kiln
-<div n="lb"/>{@KILN:@}¦ <div n="1">(1) {#पाकपुटी;#} </div><div n="1">(2) {#आपाकः,#} <div n="xe">{%like pots, etc.%}
-<div n="lb"/>{%thrown in the k.:%}</div> <div n="xs">{#आपाके निक्षिप्तस्य घटादेः,#}</div> V. d.</div>
+{@KILN:@}¦ <div n="1">(1) {#पाकपुटी;#} </div><div n="1">(2) {#आपाकः,#} <div n="xe">{%like pots, etc.%}
+{%thrown in the k.:%}</div> <div n="xs">{#आपाके निक्षिप्तस्य घटादेः,#}</div> V. d.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>633<pc>014-a<k1>allotment<k2>allotment
-<div n="lb"/>ALLOTMENT¦, {%s.%} (Distributing by lot) {#विभागः, अंशनं, विभागकल्पना#}.
-<div n="lb"/> — (The portion granted) {#अंशः, भागः, विभागः#}.
+ALLOTMENT¦, {%s.%} (Distributing by lot) {#विभागः, अंशनं, विभागकल्पना#}.
+ — (The portion granted) {#अंशः, भागः, विभागः#}.
 <LEND>

@@ -1,5 +1,5 @@
 <L>8288<pc>262<k1>eye-shot<k2>eye-shot
-<div n="lb"/>{@EYE-SHOT,@}¦ {@EYE-REACH:@} {#चक्षुर्विषयः,#} and sim.
-<div n="lb"/>comp.s, <div n="xe">{%when they were out of e.:%}</div> <div n="xs">{#चक्षुर्विषयमति-#}
-<div n="lb"/>{#क्रान्तेषु तेषु,#}</div> H.i.
+{@EYE-SHOT,@}¦ {@EYE-REACH:@} {#चक्षुर्विषयः,#} and sim.
+comp.s, <div n="xe">{%when they were out of e.:%}</div> <div n="xs">{#चक्षुर्विषयमति-#}
+{#क्रान्तेषु तेषु,#}</div> H.i.
 <LEND>

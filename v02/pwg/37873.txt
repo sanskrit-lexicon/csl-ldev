@@ -15,14 +15,14 @@
 <ls>14, 2528.</ls> {#नर्दन्ति धरणीधराः#} 
 <ls>R. 6, 16, 4.</ls> med. : {#नर्दमाना वृषा इव#} 
 <ls>HARIV. 11936.</ls> {#सेन्द्राशनिरिवाम्भोदो नर्दमानो महावृषः#} 
-<ls>4110.</ls> {#मृगो भूत्वा नर्दमानः#} 
-<ls>12235.</ls> {#(कपयः) नर्दमानाः#} 
+<ls n="HARIV.">4110.</ls> {#मृगो भूत्वा नर्दमानः#} 
+<ls n="HARIV.">12235.</ls> {#(कपयः) नर्दमानाः#} 
 <ls>R. 1, 16, 25.</ls> {#नर्दमानो महानादं प्रावृषीव बलाहकः#} 
 <ls>MBH. 6, 4556.</ls> 
 <ls>R. 3, 31, 4.</ls> {#ते नर्दमाना इव कालमेघाः कथा विचित्रा कथयां बभूवुः#} 
-<ls>MBH. 1, 7184. 7021. 9, 862.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 29, 7.</ls> {#नर्दते#} 
+<ls>MBH. 1, 7184.</ls> <ls n="MBH. 1,">7021.</ls> <ls n="MBH.">9, 862.</ls> 
+
+<ls>R. GORR. 1, 29, 7.</ls> {#नर्दते#} 
 <ls>HARIV. 10817.</ls> {#नर्दित#} 
 <div n="1"> 1) <lex>n.</lex> {%Gebrüll%} 
 <ls>R. 4, 8, 38.</ls> 
@@ -37,7 +37,7 @@
 
 <div n="p">— {#अभि#} {%anbrüllen%}: {#अन्यो ऽन्यमभिनर्दन्तः#} 
 <ls>MBH. 6, 2738.</ls> {#एनमभिनर्दन्तः#} 
-<ls>7, 6111. 9, 912. med. 8, 1806.</ls>
+<ls>7, 6111. 9, 912.</ls> med. <ls>8, 1806.</ls>
 
 <div n="p">— {#अव#} technischer Ausdruck aus dem Singsang der Litaneien, welcher den Uebergang des Tones aus der Höhe zur Tiefe und umgekehrt auf einer und derselben Silbe oder auch auf mehreren Silben zu bezeichnen scheint, etwa {%schleifen%} oder {%trillern%}: {#द्विरवनर्देद्धिंकुर्यात्तृतीयम्#} 
 <ls>PAÑCAV. BR. 7, 1, 2. 3.</ls>
@@ -69,7 +69,7 @@
 <ls>10, 62. 354.</ls> <ls>R. 6, 27, 23.</ls> <ls>BHAṬṬ. 9, 18.</ls> {#(घनाः) औत्पातिका विनर्दन्तः#} 
 <ls>R. 6, 87, 3.</ls> 
 <ls>HARIV. 13084.</ls> {#विनर्दमानाः शरदीव मेघाः#} 
-<ls>12949.</ls> <ls>MBH. 3, 11108.</ls>
+<ls n="HARIV.">12949.</ls> <ls>MBH. 3, 11108.</ls>
 
 <div n="p">— {#अनुवि#} {%Jmd mit Gebrüll antworten%}: {#मृगाननुविनर्दताम् । मृगाणाम्#} 
 <ls>HARIV. 14559.</ls>

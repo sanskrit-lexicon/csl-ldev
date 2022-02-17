@@ -7,11 +7,11 @@
 <ls>HALĀY. 2, 280.</ls> 
 <ls>M. 3, 158. 8, 360.</ls> 
 <ls>YĀJÑ. 1, 165.</ls> 
-<ls>MBH. 1, 449. 3, 16011. 14846. 14, 402.</ls> 
+<ls>MBH. 1, 449.</ls> <ls n="MBH.">3, 16011.</ls> <ls n="MBH. 3,">14846.</ls> <ls n="MBH.">14, 402.</ls> 
 <ls>HARIV. 6996.</ls> 
 <ls>R. 2, 65, 1.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 67, 3.</ls> 
+
+<ls>R. GORR. 2, 67, 3.</ls> 
 <ls>VIKR. 76.</ls> 
 <ls>RAGH. 4, 6. 6, 8. 9, 71. 17, 15.</ls> 
 <ls>VARĀH. BṚH. S. 48, 49.</ls> 
@@ -19,11 +19,11 @@
 <ls>KATHĀS. 14, 12. 71, 69. fgg. 122, 73. 77.</ls> 
 <ls>RĀJA-TAR. 5, 351.</ls> 
 <ls>PAÑCAT. 158, 2.</ls> {#बन्दिमागधसूतैः#} 
-<ls>MBH. 5, 3144. 15, 624.</ls> 
+<ls>MBH. 5, 3144.</ls> <ls n="MBH.">15, 624.</ls> 
 <ls>HARIV. 5964.</ls> 
 <ls>R. 1, 9, 13. 2, 26, 12.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 12, 36. 26, 14. 67, 4.</ls> 
+
+<ls>R. GORR. 2, 12, 36. 26, 14. 67, 4.</ls> 
 <ls>BHĀG. P. 10, 70, 20.</ls> {#विद्याधर°#} 
 <ls>KATHĀS. 44, 141.</ls> {#बन्दिपुत्र = बन्दिन्#} 
 <ls>RAGH. 5, 75.</ls> {#निजविज्ञान°#} {%ein Lobsänger seiner eigenen Künste%} 

@@ -1,5 +1,5 @@
 <L>21260<pc>670<k1>sprout<k2>sprout
-<div n="lb"/>{@SPROUT:@}¦ <div n="I">I Subs.: {#पल्लवः:#} v. Shoot. Ph.:
-<div n="lb"/><div n="xe">{%Brussels s. s:%}</div> <div n="xs">{#*कपिभेदः।#}</div> </div><div n="I">II verb: {#उद्भिनत्ति#}
-<div n="lb"/>({#भिद्,#} c. 7.): v. To shoot.</div>
+{@SPROUT:@}¦ <div n="I">I Subs.: {#पल्लवः:#} v. Shoot. Ph.:
+<div n="xe">{%Brussels s. s:%}</div> <div n="xs">{#*कपिभेदः।#}</div> </div><div n="I">II verb: {#उद्भिनत्ति#}
+({#भिद्,#} c. 7.): v. To shoot.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>11135<pc>350<k1>honey<k2>honey
-<div n="lb"/>{@HONEY:@}¦ {#मधु#} (n.), <div n="xe">{%h. -bees make h. by gathering%}
-<div n="lb"/>{%the juice of divers trees:%}</div> <div n="xs">{#भधुकरमक्षिका नानाजातीनां #}
-<div n="lb"/>{# वृक्षाणां रसान् समाहृत्य मधु निष्पादयन्ति,#}</div> S. c.; {%old%}
-<div n="lb"/>({%h.%}) <div n="xe">{%is binding and astringent:%}</div> <div n="xs">{#पुराणं ग्राहकं रूक्षं,#}</div>
-<div n="lb"/>Bha; {%of this%} ({%king%}) <div n="xe">{%who is h. in mouth and%}
-<div n="lb"/>{%poison at heart:%}</div> <div n="xs">{#अस्य मुखमधोर्हृ दयविषस्य,#}</div> Sa. v.
+{@HONEY:@}¦ {#मधु#} (n.), <div n="xe">{%h. -bees make h. by gathering%}
+{%the juice of divers trees:%}</div> <div n="xs">{#भधुकरमक्षिका नानाजातीनां #}
+{# वृक्षाणां रसान् समाहृत्य मधु निष्पादयन्ति,#}</div> S. c.; {%old%}
+({%h.%}) <div n="xe">{%is binding and astringent:%}</div> <div n="xs">{#पुराणं ग्राहकं रूक्षं,#}</div>
+Bha; {%of this%} ({%king%}) <div n="xe">{%who is h. in mouth and%}
+{%poison at heart:%}</div> <div n="xs">{#अस्य मुखमधोर्हृ दयविषस्य,#}</div> Sa. v.
 <LEND>

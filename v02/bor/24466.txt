@@ -1,12 +1,12 @@
 <L>24466<pc>766<k1>work<k2>work
-<div n="lb"/>{@WORK@}¦ (subs.): <div n="1">(1) {#कर्मन्#} (n.: in every sense),
-<div n="lb"/><div n="xe">{%to leave w.:%}</div> <div n="xs">{#कर्म त्यजति,#}</div> Y.; <div n="xe">{%who commencing%}
-<div n="lb"/>{%a w.:%}</div> <div n="xs">{#कर्मारम्भं तु यः कृत्वा,#}</div> Mit.; {%driver's w.:%}
-<div n="lb"/>{#यन्तृकर्म,#} Si. xvii. 35.; </div><div n="1">(2) {#क्रिया,#} <div n="xe">{%this w. of%}
-<div n="lb"/>{%Kālidāsa:%}</div> <div n="xs">{#क्रियामिमां कालिदासस्य,#}</div> V. i. 2.;
-<div n="lb"/><div n="xe">{%obstruction to religious w. s:%}</div> <div n="xs">{#धर्मक्रियाविघ्नः,#}</div> Sa. v.
-<div n="lb"/>15.; </div><div n="1">(3) {#कार्यम्,#} <div n="xe">{%in this important w.:%}</div> <div n="xs">{#कार्ये #}
-<div n="lb"/>{# गुरुणि,#}</div> Ku. iii. 13.; </div><div n="1">(4) {#कृतिः#} (rare), <div n="xe">{%in a w.%}
-<div n="lb"/>{%of Kālidāsa:%}</div> <div n="xs">{#कालिदासस्य कृतौ,#}</div> Mal. i.: v.
-<div n="lb"/>Also occupation, labour, deed.</div>
+{@WORK@}¦ (subs.): <div n="1">(1) {#कर्मन्#} (n.: in every sense),
+<div n="xe">{%to leave w.:%}</div> <div n="xs">{#कर्म त्यजति,#}</div> Y.; <div n="xe">{%who commencing%}
+{%a w.:%}</div> <div n="xs">{#कर्मारम्भं तु यः कृत्वा,#}</div> Mit.; {%driver's w.:%}
+{#यन्तृकर्म,#} Si. xvii. 35.; </div><div n="1">(2) {#क्रिया,#} <div n="xe">{%this w. of%}
+{%Kālidāsa:%}</div> <div n="xs">{#क्रियामिमां कालिदासस्य,#}</div> V. i. 2.;
+<div n="xe">{%obstruction to religious w. s:%}</div> <div n="xs">{#धर्मक्रियाविघ्नः,#}</div> Sa. v.
+15.; </div><div n="1">(3) {#कार्यम्,#} <div n="xe">{%in this important w.:%}</div> <div n="xs">{#कार्ये #}
+{# गुरुणि,#}</div> Ku. iii. 13.; </div><div n="1">(4) {#कृतिः#} (rare), <div n="xe">{%in a w.%}
+{%of Kālidāsa:%}</div> <div n="xs">{#कालिदासस्य कृतौ,#}</div> Mal. i.: v.
+Also occupation, labour, deed.</div>
 <LEND>

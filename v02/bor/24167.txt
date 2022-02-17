@@ -1,5 +1,5 @@
 <L>24167<pc>756<k1>weal<k2>weal
-<div n="lb"/>{@WEAL:@}¦ <div n="I">I Welfare, happiness: q. v.: {#क्षेमम्।#}
-<div n="lb"/>Ph.: <div n="xe">{%for the public w.:%}</div> <div n="xs">{#प्रकृतिहिताय,#}</div> Sa. vii.</div>
-<div n="lb"/><div n="I">II Mark of a blow: {#क्षतचिह्नम्।#}</div>
+{@WEAL:@}¦ <div n="I">I Welfare, happiness: q. v.: {#क्षेमम्।#}
+Ph.: <div n="xe">{%for the public w.:%}</div> <div n="xs">{#प्रकृतिहिताय,#}</div> Sa. vii.</div>
+<div n="I">II Mark of a blow: {#क्षतचिह्नम्।#}</div>
 <LEND>

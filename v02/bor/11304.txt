@@ -1,5 +1,5 @@
 <L>11304<pc>355<k1>hull<k2>hull
-<div n="lb"/>{@HULL:@}¦ <div n="I">I Of fruits: {#पुटः।#} </div><div n="I">II Of grain: {#तुषः।#}</div>
-<div n="lb"/><div n="I">III Of a ship: expr. by {#पोतः#} <div n="xe">{%or%}</div> <div n="xs">{#नौः#}</div> {%or%}
-<div n="lb"/>{#नौका।#}</div>
+{@HULL:@}¦ <div n="I">I Of fruits: {#पुटः।#} </div><div n="I">II Of grain: {#तुषः।#}</div>
+<div n="I">III Of a ship: expr. by {#पोतः#} <div n="xe">{%or%}</div> <div n="xs">{#नौः#}</div> {%or%}
+{#नौका।#}</div>
 <LEND>

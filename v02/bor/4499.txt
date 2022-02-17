@@ -1,15 +1,15 @@
 <L>4499<pc>146<k1>consideration<k2>consideration
-<div n="lb"/>{@CONSIDERATION:@}¦ <div n="I">I Deliberation: </div><div n="1">(1) {#विचारः#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#विचारणा,#}</div> <div n="xe">{%agreed without c%}</div> <div n="xs">{#अविचारानुमतः#}</div> ({#ता, #}
-<div n="lb"/>{# तं#}), D. ii.; </div><div n="1">(2) {#आलोचना, सम-, परि-;#} </div><div n="1">(3)
-<div n="lb"/>{#विमर्शः;#} </div><div n="1">(4) {#समीक्षा#} (=circumspection); </div><div n="1">(5)
-<div n="lb"/>{#चिन्ता#} (=thinking). </div><div n="I">II Regard: {#आदरः।#} <div n="xe">{%To%}
-<div n="lb"/>{%have c. for:%}</div> <div n="xs">{#आद्रियते#}</div> ({#दृ,#} c. 4.), <div n="xe">{%has no c. for%}
-<div n="lb"/>{%munificence:%}</div> <div n="xs">{#न त्यागमाद्रियते,#}</div> K. In c. of: expr.
-<div n="lb"/>by inde. past. part., {%in c. of its being the first%}
-<div n="lb"/>({%offence%}): {#प्रथममिति प्रेक्ष्य,#} Sa.: v. Account
-<div n="lb"/>of, on. </div><div n="I">III Respectability: {#प्रतिष्ठा,#} <div n="xe">{%of%}
-<div n="lb"/>{%c.:%}</div> <div n="xs">{#लब्धप्रतिष्ठः#}</div> ({#ष्ठा, ष्ठं#}): v. Chief. </div><div n="I">IV
-<div n="lb"/>Motive, reason: q. v.: {#कारणम्।#} V. In law:
-<div n="lb"/>{#अर्थः#} (?).</div>
+{@CONSIDERATION:@}¦ <div n="I">I Deliberation: </div><div n="1">(1) {#विचारः#}
+<div n="xe">{%or%}</div> <div n="xs">{#विचारणा,#}</div> <div n="xe">{%agreed without c%}</div> <div n="xs">{#अविचारानुमतः#}</div> ({#ता, #}
+{# तं#}), D. ii.; </div><div n="1">(2) {#आलोचना, सम-, परि-;#} </div><div n="1">(3)
+{#विमर्शः;#} </div><div n="1">(4) {#समीक्षा#} (=circumspection); </div><div n="1">(5)
+{#चिन्ता#} (=thinking). </div><div n="I">II Regard: {#आदरः।#} <div n="xe">{%To%}
+{%have c. for:%}</div> <div n="xs">{#आद्रियते#}</div> ({#दृ,#} c. 4.), <div n="xe">{%has no c. for%}
+{%munificence:%}</div> <div n="xs">{#न त्यागमाद्रियते,#}</div> K. In c. of: expr.
+by inde. past. part., {%in c. of its being the first%}
+({%offence%}): {#प्रथममिति प्रेक्ष्य,#} Sa.: v. Account
+of, on. </div><div n="I">III Respectability: {#प्रतिष्ठा,#} <div n="xe">{%of%}
+{%c.:%}</div> <div n="xs">{#लब्धप्रतिष्ठः#}</div> ({#ष्ठा, ष्ठं#}): v. Chief. </div><div n="I">IV
+Motive, reason: q. v.: {#कारणम्।#} V. In law:
+{#अर्थः#} (?).</div>
 <LEND>

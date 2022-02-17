@@ -9,17 +9,17 @@
 <ls>NIR. 5, 1. 11, 16. 12, 22.</ls> — {#रथस्य#} {%Wagenpferd%} 
 <ls>AK. 2, 8, 2, 14.</ls> 
 <ls>H. 1234.</ls> {#हलस्य#} ein Stier 
-<ls>MBH. 3, 12724. 13, 8599.</ls> 
+<ls>MBH. 3, 12724.</ls> <ls n="MBH.">13, 8599.</ls> 
 <ls>AK. 2, 9, 64.</ls> {#युगादीनाम्#} 
-<ls>?ebend. H. 1261.</ls> {#धुरः#} 
+ebend. <ls>H. 1261.</ls> {#धुरः#} 
 <ls>MBH. 7, 373.</ls> {#अग्र्यधुरायाम्#} ein Stier 
-<ls>PAÑCAT.  8, 16.</ls>
+<ls>PAÑCAT. 8, 16.</ls>
 [Page6-1426]
 <lex>m.</lex> {%Zugochs, Stier%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> <ls>MBH. 11, 760.</ls> {%Wagenlenker%} 
 <ls>H. an. 2, 131.</ls> 
 <ls>MED. ḍh. 4.</ls> {#देवानाम्#} {%Führer%} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH.</ls> <ls>AR. UP.</ls> <ls>S. 25.</ls> {#भागीरथीनिर्झरसीकराणाम्#} {%zuführend%} (Wind) 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. AR. UP. S. 25.</ls> {#भागीरथीनिर्झरसीकराणाम्#} {%zuführend%} (Wind) 
 <ls>KUMĀRAS. 1, 15.</ls> {#कुरबकरजसाम्#} 
 <ls>MĀLAV. 44.</ls> {#हव्यकव्यानाम्#} {%Darbringer%} 
 <ls>MBH. 13, 2023.</ls> 

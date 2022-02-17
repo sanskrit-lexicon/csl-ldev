@@ -1,6 +1,6 @@
 <L>6058<pc>136-b<k1>copy<k2>copy
-<div n="lb"/>COPY¦, {%s.%} (Transcript from an original) {#प्रतिलिपिः#} {%f.,%} {#प्रतिरूपं#}. — 
-<div n="lb"/>(An individual book) {#एकपुस्तकं, एकग्रन्थः#}. — (An original
-<div n="lb"/>from which any thing is copied) {#आदर्शः, मूलं#}. — (Autograph)
-<div n="lb"/>{#स्वहस्तलिखितं, हस्ताक्षरं, हस्तलिपिः#} {%f.%}
+COPY¦, {%s.%} (Transcript from an original) {#प्रतिलिपिः#} {%f.,%} {#प्रतिरूपं#}. — 
+(An individual book) {#एकपुस्तकं, एकग्रन्थः#}. — (An original
+from which any thing is copied) {#आदर्शः, मूलं#}. — (Autograph)
+{#स्वहस्तलिखितं, हस्ताक्षरं, हस्तलिपिः#} {%f.%}
 <LEND>

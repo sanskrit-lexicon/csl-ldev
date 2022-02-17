@@ -1,5 +1,5 @@
 <L>14520<pc>445<k1>message<k2>message
-<div n="lb"/>{@MESSAGE:@}¦ {#सन्देशः,#} <div n="xe">{%represented the return m. of%}
-<div n="lb"/>{%Darpasāra:%}</div> <div n="xs">{#दर्पसारस्य प्रतिसन्देशमावेदयत्,#}</div> D.;
-<div n="lb"/><div n="xe">{%convey this m.:%}</div> <div n="xs">{#सन्देशं मे हर,#}</div> Me.: v. News.
+{@MESSAGE:@}¦ {#सन्देशः,#} <div n="xe">{%represented the return m. of%}
+{%Darpasāra:%}</div> <div n="xs">{#दर्पसारस्य प्रतिसन्देशमावेदयत्,#}</div> D.;
+<div n="xe">{%convey this m.:%}</div> <div n="xs">{#सन्देशं मे हर,#}</div> Me.: v. News.
 <LEND>

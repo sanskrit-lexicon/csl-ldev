@@ -1,4 +1,4 @@
 <L>10169<pc>321<k1>grain<k2>grain
-<div n="lb"/>{@GRAIN@}¦ (v.): <div n="I">I To dye: {#दृढं रञ्जयति#} (c. of {#रञ्ज#}).</div>
-<div n="lb"/><div n="I">II To form into g s: {#कणमयं#} (f. {#यीं#}) {#करोति#} (?).</div>
+{@GRAIN@}¦ (v.): <div n="I">I To dye: {#दृढं रञ्जयति#} (c. of {#रञ्ज#}).</div>
+<div n="I">II To form into g s: {#कणमयं#} (f. {#यीं#}) {#करोति#} (?).</div>
 <LEND>

@@ -1,13 +1,13 @@
 <L>20536<pc>644<k1>silent<k2>silent
-<div n="lb"/>{@SILENT:@}¦ <div n="1">(1) {#मौनिन्#} (f. {#नी#}), <div n="xe">{%with s. steps:%}</div> <div n="xs">{#चरणेन #}
-<div n="lb"/>{# मौनिना,#}</div> N. i. 124.; {%in some points you are s.:%}
-<div n="lb"/>{#कियत्सु मौनं#} ({#तव#}), N. ix. 15.; </div><div n="1">(2) expr. with
-<div n="lb"/>{#तूष्णीम्#} (rarely {#तूष्णीकः, -का, -कम्#}), <div n="xe">{%why are you%}
-<div n="lb"/>{%s.:%}</div> <div n="xs">{#किं भवान् तूष्णीमास्ते,#}</div> V. ii.; <div n="xe">{%seeing the bard%}
-<div n="lb"/>{%become s.:%}</div> <div n="xs">{#तूष्णीम्भूतं सूतपुत्रं निशम्य,#}</div> Mah. iii.
-<div n="lb"/>134. 21.; </div><div n="1">(3) {#मूक#} (f. {#का:#} poet), <div n="xe">{%with the%}
-<div n="lb"/>{%birds s.:%}</div> <div n="xs">{#मूकाण्डजम्,#}</div> Ku. iii. 42.; <div n="xe">{%when the lute%}
-<div n="lb"/>{%became s.:%}</div> <div n="xs">{#मूकीभूतवीणा,#}</div> K.; </div><div n="1">(4) {#निःशब्द#} (f.
-<div n="lb"/>{#ब्दा#}), {#नीरव#} (f. {#वा#}), and sim. comp. s. (= with-
-<div n="lb"/>-out any sound).</div>
+{@SILENT:@}¦ <div n="1">(1) {#मौनिन्#} (f. {#नी#}), <div n="xe">{%with s. steps:%}</div> <div n="xs">{#चरणेन #}
+{# मौनिना,#}</div> N. i. 124.; {%in some points you are s.:%}
+{#कियत्सु मौनं#} ({#तव#}), N. ix. 15.; </div><div n="1">(2) expr. with
+{#तूष्णीम्#} (rarely {#तूष्णीकः, -का, -कम्#}), <div n="xe">{%why are you%}
+{%s.:%}</div> <div n="xs">{#किं भवान् तूष्णीमास्ते,#}</div> V. ii.; <div n="xe">{%seeing the bard%}
+{%become s.:%}</div> <div n="xs">{#तूष्णीम्भूतं सूतपुत्रं निशम्य,#}</div> Mah. iii.
+134. 21.; </div><div n="1">(3) {#मूक#} (f. {#का:#} poet), <div n="xe">{%with the%}
+{%birds s.:%}</div> <div n="xs">{#मूकाण्डजम्,#}</div> Ku. iii. 42.; <div n="xe">{%when the lute%}
+{%became s.:%}</div> <div n="xs">{#मूकीभूतवीणा,#}</div> K.; </div><div n="1">(4) {#निःशब्द#} (f.
+{#ब्दा#}), {#नीरव#} (f. {#वा#}), and sim. comp. s. (= with-
+-out any sound).</div>
 <LEND>

@@ -7,7 +7,7 @@
 <ls>TRIK. 3, 3, 451.</ls> 
 <ls>H. 1432.</ls> 
 <ls>an. 2, 591.</ls> 
-<ls>MED. s. 11.</ls> <ls>HALĀY. 4, 81. 5, 19.</ls> <ls>MBH. 1, 51. 85. 3, 67.</ls> {#व्यासेन#} {%ausführlich%} 
+<ls>MED. s. 11.</ls> <ls>HALĀY. 4, 81. 5, 19.</ls> <ls>MBH. 1, 51.</ls> <ls n="MBH. 1,">85.</ls> <ls n="MBH.">3, 67.</ls> {#व्यासेन#} {%ausführlich%} 
 <ls>SUŚR. 2, 17, 3. 513, 6.</ls> 
 <ls>PAÑCAR. 2, 3, 46.</ls> {#व्यासात्#} dass. 
 <ls>SUŚR. 1, 261, 3.</ls> {#व्यासतस्#} dass. 
@@ -31,9 +31,9 @@
 <ls>TAITT. ĀR. 1, 9, 2.</ls> 
 <ls>Ind. St. 4, 377.</ls> 
 <ls>BHAG. 10, 13.</ls> {#मुनीनामप्यहं व्यासः#} (sagt <is>Kṛṣṇa</is>) 
-<ls>13, 37. 18, 75.</ls> <ls>MBH. 1, 21. 2047.</ls> {#विव्यास विदान्यस्मात्स तस्माद्व्यास इति स्मृतः#} 
-<ls>2417.</ls> <ls>HARIV. 2. 4. 5. 453. 7999. 10692.</ls> {#मत्सीतनूज#} 
-<ls>Spr. (II) 1110.</ls> <ls>Verz. d. Oxf. H. 47,b,21. fgg. 59,a,35.</ls> <ls>BHĀG. P.1,6,1.</ls> <ls>BURNOUF,</ls> <ls>?Intr. 568. TATTVAS. 22. HALL 9. 86. Verfasser eines Gesetzbuchs YĀJÑ.1,5. Ind. St.1,20. 232. fgg. 467. GILD. Bibl. 455.</ls> achtundzwanzig <is>Vyāsa</is> 
+<ls>13, 37. 18, 75.</ls> <ls>MBH. 1, 21.</ls> <ls n="MBH. 1,">2047.</ls> {#विव्यास विदान्यस्मात्स तस्माद्व्यास इति स्मृतः#} 
+<ls>2417.</ls> <ls>HARIV. 2.</ls> <ls n="HARIV.">4.</ls> <ls n="HARIV.">5.</ls> <ls n="HARIV.">453.</ls> <ls n="HARIV.">7999.</ls> <ls n="HARIV.">10692.</ls> {#मत्सीतनूज#} 
+<ls>Spr. (II) 1110.</ls> <ls>Verz. d. Oxf. H. 47,b,21. fgg. 59,a,35.</ls> <ls>BHĀG. P.1,6,1.</ls> <ls>BURNOUF, Intr. 568.</ls> <ls>TATTVAS. 22.</ls> <ls>HALL 9. 86.</ls> Verfasser eines Gesetzbuchs <ls>YĀJÑ.1,5.</ls> <ls>Ind. St. 1,20. 232. fgg. 467.</ls> <ls>GILD. Bibl. 455.</ls> achtundzwanzig <is>Vyāsa</is> 
 <ls>VP. 272.</ls> <ls>Verz. d. Oxf. H. 52,a. fgg. 80,a.</ls> Astronom <ls>Ind. St. 2,247.</ls> {#स्कान्द#} 
 <ls>3, 280.</ls> {#°मातर् = सत्यवती#} 
 <ls>TRIK. 2, 8, 11.</ls> {#°सू#} desgl. 

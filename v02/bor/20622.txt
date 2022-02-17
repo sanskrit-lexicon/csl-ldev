@@ -1,8 +1,8 @@
 <L>20622<pc>647<k1>sister<k2>sister
-<div n="lb"/>{@SISTER:@}¦ <div n="1">(1) {#भगिनी#} (any sort of s.); </div><div n="1">(2) {#स्वसृ#}
-<div n="lb"/>(f. =.: rare), R.; </div><div n="1">(3) {#सहोदरी, सोदर्या#} <div n="xe">{%or%}</div> <div n="xs">{#सगर्भा#}</div>
-<div n="lb"/>(= by the same mother). <div n="xe">{%Elder s.:%}</div> <div n="xs">{#अग्रजा,#}</div>
-<div n="lb"/><div n="xe">{%Younger s.:%}</div> <div n="xs">{#अवरजा,#}</div> {%S.'s son:%} </div><div n="1">(1) {#भागिनेयः;#}</div>
-<div n="lb"/><div n="1">(2) {#स्वस्रेयः#} (rare). {%S.'s daughter:%} </div><div n="1">(1) {#भागिनेयी;#}</div>
-<div n="lb"/><div n="1">(2) {#स्वस्रेयी#} <div n="xe">{%or%}</div> <div n="xs">{#स्वस्रि#}</div> ({#स्री#}){#या#} (rare).</div>
+{@SISTER:@}¦ <div n="1">(1) {#भगिनी#} (any sort of s.); </div><div n="1">(2) {#स्वसृ#}
+(f. =.: rare), R.; </div><div n="1">(3) {#सहोदरी, सोदर्या#} <div n="xe">{%or%}</div> <div n="xs">{#सगर्भा#}</div>
+(= by the same mother). <div n="xe">{%Elder s.:%}</div> <div n="xs">{#अग्रजा,#}</div>
+<div n="xe">{%Younger s.:%}</div> <div n="xs">{#अवरजा,#}</div> {%S.'s son:%} </div><div n="1">(1) {#भागिनेयः;#}</div>
+<div n="1">(2) {#स्वस्रेयः#} (rare). {%S.'s daughter:%} </div><div n="1">(1) {#भागिनेयी;#}</div>
+<div n="1">(2) {#स्वस्रेयी#} <div n="xe">{%or%}</div> <div n="xs">{#स्वस्रि#}</div> ({#स्री#}){#या#} (rare).</div>
 <LEND>

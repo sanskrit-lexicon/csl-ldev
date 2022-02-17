@@ -1,8 +1,8 @@
 <L>22443<pc>708<k1>thin<k2>thin
-<div n="lb"/>{@THIN@}¦ (adj.): <div n="1">(1) {#सूक्ष्म#} (f. {#क्ष्मा#}), <div n="xe">{%t. oil:%}</div> <div n="xs">{#सूक्ष्मं #}
-<div n="lb"/>{# तैलम्,#}</div> Bha.: v. Fine.; </div><div n="1">(2) {#तनु#} (f. also {#न्वी#}),
-<div n="lb"/><div n="xe">{%t. dress:%}</div> <div n="xs">{#तन्वंशुकम्,#}</div> Ri. iv. 3.: v. Slender,
-<div n="lb"/>lean, little; </div><div n="1">(3) {#विरल#} (f. {#ला:#} rare), <div n="xe">{%having%}
-<div n="lb"/>{%t. arrangement:%}</div> <div n="xs">{#विरलभक्ति#}</div> (mfn.), R. v. 74.:
-<div n="lb"/>v. Rare, scarce.</div>
+{@THIN@}¦ (adj.): <div n="1">(1) {#सूक्ष्म#} (f. {#क्ष्मा#}), <div n="xe">{%t. oil:%}</div> <div n="xs">{#सूक्ष्मं #}
+{# तैलम्,#}</div> Bha.: v. Fine.; </div><div n="1">(2) {#तनु#} (f. also {#न्वी#}),
+<div n="xe">{%t. dress:%}</div> <div n="xs">{#तन्वंशुकम्,#}</div> Ri. iv. 3.: v. Slender,
+lean, little; </div><div n="1">(3) {#विरल#} (f. {#ला:#} rare), <div n="xe">{%having%}
+{%t. arrangement:%}</div> <div n="xs">{#विरलभक्ति#}</div> (mfn.), R. v. 74.:
+v. Rare, scarce.</div>
 <LEND>

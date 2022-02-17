@@ -1,4 +1,4 @@
 <L>3254<pc>069-b<k1>bureau<k2>bureau
-<div n="lb"/>BUREAU¦, {%s.%} (A chest, receptacle) {#आगारं, आधारः, निधानं, गोपनस्थानं।#}
-<div n="lb"/>{#भाण्डागारं#}. — (An office for writing, &c.) {#लेख्यस्थानं, ग्रन्थकुटी#}.
+BUREAU¦, {%s.%} (A chest, receptacle) {#आगारं, आधारः, निधानं, गोपनस्थानं।#}
+{#भाण्डागारं#}. — (An office for writing, &c.) {#लेख्यस्थानं, ग्रन्थकुटी#}.
 <LEND>

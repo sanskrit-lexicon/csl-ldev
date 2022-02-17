@@ -1,7 +1,7 @@
 <L>32598<pc>3-0594<k1>दारण<k2>दारण
 {#दारण#}¦ (vom caus. von 1. {#दर्#}) 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} {%bersten machend, zerspaltend, zerreissend%}: {#वाणं गिरीणामपि दारणम्#} 
-<ls>MBH. 8, 2319. 6, 4295.</ls> {#शक्तिम् - गिरीणामपि दारणीम्#} 
+<ls>MBH. 8, 2319.</ls> <ls n="MBH.">6, 4295.</ls> {#शक्तिम् - गिरीणामपि दारणीम्#} 
 <ls>5594.</ls> {#(गदाम्) प्राकाराट्टपुरद्वारदारणीम्#} 
 <ls>8, 4147.</ls> {#शम्बर°#} 
 <ls>GĪT. 12, 24.</ls> {#क्रौञ्च°#} 
@@ -9,7 +9,7 @@
 <ls>H. 209,</ls> 
 <ls>Sch.</ls> {#नमस्ये शुम्भहननीं निशुम्भदारणीम् (दुर्गाम्)#} 
 <ls>HARIV. 9424.</ls> {#दारणी#} ohne weiteren Zusatz als Beiw. der <is>Durgā</is> 
-<ls>10246.</ls> Vgl. {#अश्म°, गो°, दारिन्#} . 
+<ls n="HARIV.">10246.</ls> Vgl. {#अश्म°, गो°, दारिन्#} . 
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) {%das Berstenmachen, Zerreissen, Oeffnen; Bersten, Aufspringen%} 
 <ls>KUMĀRAS.</ls> in <ls>Verz. d. Oxf. H. 117,a,8.</ls> <ls>SUŚR.1,25,17. 31,13. 99,17. 151,13. 265,7.2,7,4.</ls> 

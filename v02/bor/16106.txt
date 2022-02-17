@@ -1,10 +1,10 @@
 <L>16106<pc>495<k1>over<k2>over
-<div n="lb"/>{@OVER@}¦ (adv.): <div n="I">I From side to side: expr.
-<div n="lb"/>with {#वेधः।#} </div><div n="I">II On the opposite side: {#अपारे#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#परपारे।#}</div> </div><div n="I">III With verbs: v. The several
-<div n="lb"/>verbs. </div><div n="I">IV Beyond a limit: expr. with
-<div n="lb"/>{#शिष्ट#} (f. {#ष्टा#}): v. To remain. Ph.: (a) <div n="xe">{%o.%}
-<div n="lb"/>{%again:%}</div> <div n="xs">{#पुनरपि;#}</div> (b) <div n="xe">{%o. and o.:%}</div> <div n="xs">{#पुनः पुनः:#}</div> v. Re-
-<div n="lb"/>-peatedly.; (c) <div n="xe">{%o. against:%}</div> <div n="xs">{#अभितः#}</div> (with acc.);
-<div n="lb"/>(d) {%o. and above:%} expr. with {#अपरञ्च।#}</div>
+{@OVER@}¦ (adv.): <div n="I">I From side to side: expr.
+with {#वेधः।#} </div><div n="I">II On the opposite side: {#अपारे#}
+<div n="xe">{%or%}</div> <div n="xs">{#परपारे।#}</div> </div><div n="I">III With verbs: v. The several
+verbs. </div><div n="I">IV Beyond a limit: expr. with
+{#शिष्ट#} (f. {#ष्टा#}): v. To remain. Ph.: (a) <div n="xe">{%o.%}
+{%again:%}</div> <div n="xs">{#पुनरपि;#}</div> (b) <div n="xe">{%o. and o.:%}</div> <div n="xs">{#पुनः पुनः:#}</div> v. Re-
+-peatedly.; (c) <div n="xe">{%o. against:%}</div> <div n="xs">{#अभितः#}</div> (with acc.);
+(d) {%o. and above:%} expr. with {#अपरञ्च।#}</div>
 <LEND>

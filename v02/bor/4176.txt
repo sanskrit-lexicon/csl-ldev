@@ -1,8 +1,8 @@
 <L>4176<pc>135<k1>comparative<k2>comparative
-<div n="lb"/>{@COMPARATIVE@}¦ <div n="I">I Not positive: Ph.: <div n="xe">{%c. levity to%}
-<div n="lb"/>{%water:%}</div> <div n="xs">{#*जलापेक्षया लाघवम्;#}</div> <div n="xe">{%the c. advantages of%}
-<div n="lb"/>{%this place:%}</div> <div n="xs">{#अन्यान्यस्थानापेक्षायास्य स्थानस्य गुणाः।#}</div> </div><div n="I">II
-<div n="lb"/>In gram.: {#द्वयोरेकस्यातिशयद्योतकः#} ({#का, कं#}). </div><div n="I">III
-<div n="lb"/>Based on comprehensive comparison:
-<div n="lb"/><div n="xe">{%c. anatomy:%}</div> <div n="xs">{#*विश्वव्यवच्छेदविद्यासारः।#}</div></div>
+{@COMPARATIVE@}¦ <div n="I">I Not positive: Ph.: <div n="xe">{%c. levity to%}
+{%water:%}</div> <div n="xs">{#*जलापेक्षया लाघवम्;#}</div> <div n="xe">{%the c. advantages of%}
+{%this place:%}</div> <div n="xs">{#अन्यान्यस्थानापेक्षायास्य स्थानस्य गुणाः।#}</div> </div><div n="I">II
+In gram.: {#द्वयोरेकस्यातिशयद्योतकः#} ({#का, कं#}). </div><div n="I">III
+Based on comprehensive comparison:
+<div n="xe">{%c. anatomy:%}</div> <div n="xs">{#*विश्वव्यवच्छेदविद्यासारः।#}</div></div>
 <LEND>

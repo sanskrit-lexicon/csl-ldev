@@ -17,7 +17,7 @@
 <ls n="ṚV.">6, 11, 3.</ls> {#विप्रा^ उ\क्थेभि^ः क\वयो^ गृणन्ति#} 
 <ls n="ṚV.">3, 34, 7.</ls> <ls n="ṚV.">1, 129, 2.</ls> <ls n="ṚV. 1, 129,">11.</ls> {#इन्द्रा^य\ ब्रह्म^ जनयन्त\ विप्रा^ः#} 
 <ls n="ṚV.">7, 31, 11.</ls> {#ऋषि#} 
-<ls>?1, 162, 7. 4, 26, 1. 7, 22, 9. 10, 108, 11. sieben 3, 7, 7. 31, 5. 4, 2, 15. 6, 22, 2.</ls> {#ऋषि\र्विप्रा^णाम्#} 
+<ls>1, 162, 7. 4, 26, 1. 7, 22, 9. 10, 108, 11.</ls> sieben <ls>3, 7, 7. 31, 5. 4, 2, 15. 6, 22, 2.</ls> {#ऋषि\र्विप्रा^णाम्#} 
 <ls n="ṚV.">9, 96, 6.</ls> <ls>VS. 9, 4.</ls> <ls>ŚAT. BR. 1, 4, 2, 7.</ls> <ls>TS. 2, 5, 9, 1.</ls> {%Priester%} 
 <ls>VARĀH. BṚH. S. 44, 21.</ls> neben {#पुरोहित#} 
 <ls>29, 10.</ls> {%Priester%} <is>Brahman's</is> 
@@ -35,11 +35,11 @@ z. B. <ls n="ṚV.">3, 2, 13.</ls> <ls n="ṚV. 3,">5, 1.</ls> <ls n="ṚV. 3,">
 <ls>TRIK. 2, 7, 2.</ls> 
 <ls>H. 812.</ls> 
 <ls>HALĀY. 2, 236.</ls> 
-<ls>M. 1, 98. 109. 2, 37. 42. 150 u.s.w.</ls> (fast eben so häufig wie {#ब्राह्मण#} gebraucht). 
+<ls>M. 1, 98. 109. 2, 37. 42. 150</ls> u.s.w. (fast eben so häufig wie {#ब्राह्मण#} gebraucht). 
 <ls>YĀJÑ. 1, 91.</ls> 
-<ls>MBH. 1, 6119. 3, 11914.</ls> 
+<ls>MBH. 1, 6119.</ls> <ls n="MBH.">3, 11914.</ls> 
 <ls>R. 1, 8, 13. 61, 6. 2, 32, 2. 82, 31.</ls> 
-<ls>Spr. 1705 (II). 1399. 2631. 4334. 5013. fgg.</ls> <ls>SUŚR. 1, 15, 6. 111, 10.</ls> <ls>VARĀH. BṚH. S. 3, 25. 5, 32. 98. 30, 17. 33, 18.</ls> <ls>WEBER, RĀMAT. UP. 362.</ls> <ls>KATHĀS. 4, 110. 18, 107. 403.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 56, 6.</ls> <ls>DHŪRTAS. 76, 6.</ls> <ls>PAÑCAT. 158, 2.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
+<ls>Spr. 1705 (II). 1399. 2631. 4334. 5013. fgg.</ls> <ls>SUŚR. 1, 15, 6. 111, 10.</ls> <ls>VARĀH. BṚH. S. 3, 25. 5, 32. 98. 30, 17. 33, 18.</ls> <ls>WEBER, RĀMAT. UP. 362.</ls> <ls>KATHĀS. 4, 110. 18, 107. 403.</ls> <ls>BRAHMA-P. in LA. (III) 56, 6.</ls> <ls>DHŪRTAS. 76, 6.</ls> <ls>PAÑCAT. 158, 2.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>MBH. 12, 5341.</ls> {#विप्रा#} <lex>f.</lex> {%eine Frau aus der Brahmanenkaste%} 
 <ls>GOTAMA</ls> bei <ls>COLEBR. Misc. Ess. I, 120.</ls> <ls>M. 8, 378. 10, 12.</ls> <ls>BHĀG. P. 6, 1, 65.</ls> <ls>PAÑCAR. 1, 4, 42. 44.</ls>
 [Page6-1112]
@@ -57,6 +57,6 @@ z. B. <ls n="ṚV.">3, 2, 13.</ls> <ls n="ṚV. 3,">5, 1.</ls> <ls n="ṚV. 3,">
 <div n="1">— 10) <lex>m.</lex> N. pr. eines Sohnes des <is>Śliṣṭi</is> 
 <ls>VP. 98</ls> ({#रिप्र#} 
 <ls>HARIV.</ls>). des <is>Śrutaṃjaya</is> (<is>Sṛtaṃjaya</is>) 
-<ls>465.</ls> <ls>BHĀG. P. 9, 22, 46.</ls> 
+<ls n="HARIV.">465.</ls> <ls>BHĀG. P. 9, 22, 46.</ls> 
 <div n="v">— Vgl. {#अ°#} und {#वेपिष्ठ#} .
 <LEND>

@@ -1,6 +1,6 @@
 <L>12569<pc>390<k1>intimacy<k2>intimacy
-<div n="lb"/>{@INTIMACY:@}¦ {#गाढसौहृदम्:#} v. Friendship. Ph.:
-<div n="lb"/><div n="xe">{%Your Majesty were in terms of the greatest i.%}
-<div n="lb"/>{%with the poet Kālidāsa:%}</div> <div n="xs">{#देव! कालिदासकविना सह#}</div>
-<div n="lb"/>[{#भवतः#}] {#नितान्तं निविडतमा मैत्री#} [{#आसीत्#}] Bho.
+{@INTIMACY:@}¦ {#गाढसौहृदम्:#} v. Friendship. Ph.:
+<div n="xe">{%Your Majesty were in terms of the greatest i.%}
+{%with the poet Kālidāsa:%}</div> <div n="xs">{#देव! कालिदासकविना सह#}</div>
+[{#भवतः#}] {#नितान्तं निविडतमा मैत्री#} [{#आसीत्#}] Bho.
 <LEND>

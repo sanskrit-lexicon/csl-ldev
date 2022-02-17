@@ -16,7 +16,7 @@
 <ls>7, 2. 12, 4, 25. 13, 4, 42.</ls> {#सर्व^ं स\ंसिच्य\ मर्त्य^ं दे\वाः पुरु^ष\मावि^शन्#} 
 <ls>11, 8, 13. 18.</ls> {#यथा^ मृ\गाः स^ंवि\जन्त^ आर\ण्याः पुरु^षा\दधि^#} 
 <ls>5, 21, 4. 3, 21, 1.</ls> {#ए\षा त्व\चां पुरु^षे\ सं ब^भू\वान^ग्ना\ः सर्वे^ प\शवो\ ये अ\न्ये#} 
-<ls>?12, 3, 51 (vgl. ŚAT. BR. 3, 1, 2, 13. fgg.).</ls> {#देवकृता, पुरुषैः कृता#} 
+<ls>12, 3, 51</ls> (vgl. <ls>ŚAT. BR. 3, 1, 2, 13. fgg.).</ls> {#देवकृता, पुरुषैः कृता#} 
 <ls>5, 14, 7. 4, 18, 5.</ls> {#यथे\ह पुरु\षो ऽस^त्#} 
 <ls>VS. 2, 33. 16, 3.</ls> {#नमो\ ऽग्नये^ प्र\चर^ते\ पुरु^षाय च ते\ नम^ः#} 
 <ls>AV. 9, 3, 12.</ls> {#पुरुषस्य वा एषो ऽश्नाति यो ऽग्नीषोमीयस्य पशोरश्नाति#} 
@@ -33,14 +33,14 @@
 <ls>ŚAT. BR. 6, 2, 1, 18. 7, 5, 2, 17.</ls> Herr der Thiere 
 <ls>KĀṬH. 20, 10.</ls> der nächste an <is>Prajāpati</is> 
 <ls>ŚAT. BR. 2, 5, 1, 1.</ls> {#पुंसि वै पुरुषे रेतः#} {%männliche Person%} 
-<ls>ŚĀṄKH. GṚHY. 1, 19. -</ls> <ls>KĀTY. ŚR. 7, 1, 8. 10, 2, 23. 15, 4, 26.</ls> {#पुरुष, नारी#} 
+<ls>ŚĀṄKH. GṚHY. 1, 19.</ls> - <ls>KĀTY. ŚR. 7, 1, 8. 10, 2, 23. 15, 4, 26.</ls> {#पुरुष, नारी#} 
 <ls>M. 1, 32.</ls> 
 <ls>SUŚR. 1, 56, 19. 116, 7.</ls> {#अस्वतन्त्राः स्त्रियः कार्याः पुरुषैर्दिवानिशम्#} 
 (<ls>KULL.</ls>: {#भर्त्रादिभिः#}) 
 <ls>M. 9, 2</ls>; vgl. {#पुरुषघ्न#} . 
 <ls>4, 20. 136. 8, 98.</ls> {#एतावान्पुरुषस्तात कृतं यस्मिन्न नश्यति#} 
 <ls>BRĀHMAṆ. 1, 8.</ls> 
-<ls>MBH. 1, 3322. 5, 4525.</ls> {#पुरुषो भव#} 
+<ls>MBH. 1, 3322.</ls> <ls n="MBH.">5, 4525.</ls> {#पुरुषो भव#} 
 <ls>R. 6, 16, 80.</ls> {#इदमत्यद्भुतं चात्र चकार पुरुषो#} (so v. a. {%Held%}) {#ऽर्जुनः#} 
 <ls>MBH. 3, 15768.</ls> {#स राजा पुरुषो दण्डः स नेता शासिता च सः#} so v. a. {%die personificirte Strafgewalt%} (s. 
 <ls>JOHAENTGEN</ls>, Ueber d. Ges. des <is>Manu</is>, 
@@ -62,7 +62,7 @@
 <ls>4, 7.</ls> <ls>ŚAT. BR. 1, 2, 5, 14.</ls> <ls>VARĀH. BṚH. S. 32, 8. 53, 6. fgg.</ls> {#द्विपुरुषा (रज्जु)#} {%zwei Manneslängen lang%} 
 <ls>KĀTY. ŚR. 16, 8, 1.</ls> fem. in dieser Bed. auch {#ई#}, sonst aber nur {#आ#} 
 <ls>P. 4, 1, 124.</ls> 
-<ls>VOP. 6,</ls> <ls>?56; vgl. MBH. 6, 8. HARIV. 3099.</ls> Des Menschen Person wird verschieden zusammengesetzt gedacht: aus fünf Theilen 
+<ls>VOP. 6, 56</ls>; vgl. <ls>MBH. 6, 8.</ls> <ls>HARIV. 3099.</ls> Des Menschen Person wird verschieden zusammengesetzt gedacht: aus fünf Theilen 
 <ls>AV. 12, 3, 10.</ls> 
 <ls>AIT. BR. 2, 14. 6, 29.</ls> 
 <ls>PAÑCAV. BR. 14, 5, 26.</ls> aus sechs 
@@ -93,7 +93,7 @@
 <ls>ŚAT. BR. 14, 6, 9, 11. fgg.</ls> in der Sonne, im Monde, im Winde u. s. w.: {#य एष एतस्मिन्मण्डले पुरुषः#} 
 <ls>10, 5, 2, 1. fgg. 14, 5, 2, 1. 12. 13. 5, 1. fgg.</ls> — {#ततः सत्यवतः कायात्पाशबद्धं वशं गतम् । अङ्गुष्ठमात्रं पुरुषं निश्चकर्ष यमो बलात् ॥#} 
 <ls>SĀV. 5, 16.</ls> {#प्रकृति, पुरुष#} 
-<ls>SĀṂKHYAK. 3 u.s.w.</ls> <ls>KAPILA 1, 67. 134</ls> <ls>YOGAS. 1, 16.</ls> <ls>TATTVAS. 17.</ls> <ls>ŚIŚ. 4, 55.</ls> {#पुरुषो मानसः#} 
+<ls>SĀṂKHYAK. 3</ls> u.s.w. <ls>KAPILA 1, 67. 134</ls> <ls>YOGAS. 1, 16.</ls> <ls>TATTVAS. 17.</ls> <ls>ŚIŚ. 4, 55.</ls> {#पुरुषो मानसः#} 
 <ls>YĀJÑ. 3, 194.</ls> {#पुराण्यनेन #}
 [Page4-0795]
 {# सृष्टानि नृतिर्यगृषिदेवताः । शेते जीवेन रूपेण पुरेषु पुरुषो ह्यसौ ॥#} 
@@ -110,7 +110,7 @@
 <ls>JOHAENTGEN a. a. O. S. 5. 18</ls>) {#पुरुषाणाम्#} 
 <ls>M. 1, 19.</ls> {#पुरुष = ब्रह्मन्#} 
 <ls>H. ś. 62.</ls> = {#विष्णु#} 
-<ls>?67. ŚABDAR. im ŚKDR. R. 6, 102, 12.</ls> {#एवं पुराणः पुरुषो विष्णुर्वेदेषु पठ्यते#} 
+<ls>67.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>R. 6, 102, 12.</ls> {#एवं पुराणः पुरुषो विष्णुर्वेदेषु पठ्यते#} 
 <ls>HARIV. 7355.</ls> als Beiw. <is>Śiva's</is> 
 <ls>MBH. 14, 194.</ls> der <is>Durgā</is> 
 <ls>DEVĪ-P. 45</ls> im <ls>ŚKDR.</ls> 
@@ -121,7 +121,7 @@
 <ls>MĀRK. P. 118, 31.</ls> {#पूर्व°#} {%die Vorfahren%} 
 <ls>PAÑCAT. 235, 11.</ls> 
 <ls>LALIT. ed. Calc. 25, 14.</ls> {#द्विपुरुषम्#} adv. {%durch zwei Generationen hindurch%} 
-<ls>AIT. BR. 8, 7</ls> <ls>?(nach SĀY.</ls> <lex>adj.</lex> {%mit Sohn und Enkel verbunden%}, was nicht passt, da die Reihe {%Vater und Sohn%} fehlen würde). {#द्विपुरुषासोमपीथिन्#} 
+<ls>AIT. BR. 8, 7</ls> (nach <ls>SĀY.</ls> <lex>adj.</lex> {%mit Sohn und Enkel verbunden%}, was nicht passt, da die Reihe {%Vater und Sohn%} fehlen würde). {#द्विपुरुषासोमपीथिन्#} 
 <ls>KĀTY. ŚR. 7, 1, 5.</ls> Vgl. {#त्रि°, दश°#} . 
 <div n="2">— e) {%Person des Verbi%}: {#प्रथम#} (unsere {%3te Person%}), {#मध्यम, उत्तम#} 
 <ls>NIR. 7, 1. 2.</ls> 
@@ -144,7 +144,7 @@
 <ls>P.</ls> <ls>N.</ls> <ls>KĀTY. ŚR. 24, 7, 36.</ls> <ls>ŚĀṄKH. ŚR. 16, 13, 1.</ls> <is>Ayana</is> des 
 <ls>P.</ls> <ls>N.</ls> <ls>LĀṬY. 10, 13, 4.</ls> {%das Urindividuum, aus welchem der Makrokosmus sich entwickelt%}, geschildert im sog. <is>Puruṣa</is>-Liede 
 <ls>ṚV. 10, 90.</ls> {#विराजमसृजद्विष्णुः सो ऽसृजत्पुरुषं विराट् । पुरुषं तं मनुं विद्धि#} 
-<ls>HARIV. 51. fgg. 11604. 11606.</ls> 
+<ls>HARIV. 51. fgg.</ls> <ls n="HARIV.">11604.</ls> <ls n="HARIV.">11606.</ls> 
 <div n="2">— k) N. pr. eines der Söhne des <is>Manu</is> <is>Cākṣuṣa</is> 
 <ls>BHĀG. P. 8, 5, 7</ls> ({#पू°#}). pl. Bez. der den Brahmanen entsprechenden Bewohner von <is>Krauñca-Dvipa</is> 
 <ls>5, 20, 22.</ls> 

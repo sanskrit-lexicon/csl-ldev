@@ -1,6 +1,6 @@
 <L>11088<pc>348<k1>hold up<k2>hold up
-<div n="lb"/>{@HOLD UP:@}¦ <div n="I">I To raise: q.v.: {#उन्नमयति#} (c.
-<div n="lb"/>of {#नम्#}). </div><div n="I">II To support one's self: {#आत्मानं #}
-<div n="lb"/>{# संधारयति।#} </div><div n="I">III To cease raining: <div n="xe">{%let the%}
-<div n="lb"/>{%weather h. up:%}</div> <div n="xs">{#भवतु वृष्टेरुपशमः,#}</div> H.</div>
+{@HOLD UP:@}¦ <div n="I">I To raise: q.v.: {#उन्नमयति#} (c.
+of {#नम्#}). </div><div n="I">II To support one's self: {#आत्मानं #}
+{# संधारयति।#} </div><div n="I">III To cease raining: <div n="xe">{%let the%}
+{%weather h. up:%}</div> <div n="xs">{#भवतु वृष्टेरुपशमः,#}</div> H.</div>
 <LEND>

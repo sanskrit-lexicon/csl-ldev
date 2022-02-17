@@ -1,14 +1,14 @@
 <L>20574<pc>645<k1>sin<k2>sin
-<div n="lb"/>{@SIN@}¦ (subs.): <div n="1">(1) {#पापम्,#} <div n="xe">{%becomes purified of all%}
-<div n="lb"/>{%s. s:%}</div> <div n="xs">{#सर्वपापेभ्यः पूतो भवति,#}</div> V. s.; </div><div n="1">(2) {#पातकम्,#}
-<div n="lb"/>{%attacked by the%} ({%passions%}), ({%men%}) <div n="xe">{%s. about deadly%}
-<div n="lb"/>{%s. s, great s. s, minor s. s, and venial s. s:%}</div> <div n="xs">{#तेनाय-#}
-<div n="lb"/>{#माक्रान्तोऽतिपातकमहापातकानुपातकोपपातकेषु प्रवर्तते,#}</div>
-<div n="lb"/>V. s.; </div><div n="1">(3) {#पाप्मन्#} (m.), {%is absolved of all s. s:%}
-<div n="lb"/>{#तरति सर्वं पाप्मानम्,#} Ga.; </div><div n="1">(4) {#एनस्#} (n.), <div n="xe">{%he who%}
-<div n="lb"/>{%commits a s. at night by action, in mind,%}
-<div n="lb"/>{%or by words:%}</div> <div n="xs">{#कर्मणा मनसा वाचा यदेनः कुरुते #}
-<div n="lb"/>{# निशि,#}</div> At.; </div><div n="1">(5) {#अघम्,#} {%s. -absolving%} ({%formula%}):
-<div n="lb"/>{#अघमर्षणम्,#} Vi.; </div><div n="1">(6) {#वृजिनम्;#} </div><div n="1">(7) {#अंहस्#} ({#अंधस्#})
-<div n="lb"/>(n.).</div>
+{@SIN@}¦ (subs.): <div n="1">(1) {#पापम्,#} <div n="xe">{%becomes purified of all%}
+{%s. s:%}</div> <div n="xs">{#सर्वपापेभ्यः पूतो भवति,#}</div> V. s.; </div><div n="1">(2) {#पातकम्,#}
+{%attacked by the%} ({%passions%}), ({%men%}) <div n="xe">{%s. about deadly%}
+{%s. s, great s. s, minor s. s, and venial s. s:%}</div> <div n="xs">{#तेनाय-#}
+{#माक्रान्तोऽतिपातकमहापातकानुपातकोपपातकेषु प्रवर्तते,#}</div>
+V. s.; </div><div n="1">(3) {#पाप्मन्#} (m.), {%is absolved of all s. s:%}
+{#तरति सर्वं पाप्मानम्,#} Ga.; </div><div n="1">(4) {#एनस्#} (n.), <div n="xe">{%he who%}
+{%commits a s. at night by action, in mind,%}
+{%or by words:%}</div> <div n="xs">{#कर्मणा मनसा वाचा यदेनः कुरुते #}
+{# निशि,#}</div> At.; </div><div n="1">(5) {#अघम्,#} {%s. -absolving%} ({%formula%}):
+{#अघमर्षणम्,#} Vi.; </div><div n="1">(6) {#वृजिनम्;#} </div><div n="1">(7) {#अंहस्#} ({#अंधस्#})
+(n.).</div>
 <LEND>

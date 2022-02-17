@@ -1,5 +1,5 @@
 <L>18742<pc>577<k1>reconnoitre<k2>reconnoitre
-<div n="lb"/>{@RECONNOITRE:@}¦ <div n="1">(1) {#गवेषयति#} ({#गवेष्,#} c. 10.);</div>
-<div n="lb"/><div n="1">(2) {#परीक्षते#} ({#ईक्ष्,#} c. 1. = to examine). Ph.:
-<div n="lb"/><div n="xe">{%r. ing party:%}</div> <div n="xs">{#चाराः#}</div> (= spies), Ram. vi. 1.</div>
+{@RECONNOITRE:@}¦ <div n="1">(1) {#गवेषयति#} ({#गवेष्,#} c. 10.);</div>
+<div n="1">(2) {#परीक्षते#} ({#ईक्ष्,#} c. 1. = to examine). Ph.:
+<div n="xe">{%r. ing party:%}</div> <div n="xs">{#चाराः#}</div> (= spies), Ram. vi. 1.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>6980<pc>222<k1>drop<k2>drop
-<div n="lb"/>{@DROP@}¦ (v. i.): <div n="I">I To fall in d. s: expr. by
-<div n="lb"/>subs, <div n="xe">{%by the d. ping of water:%}</div> <div n="xs">{#जलबिन्दुनिपातेन,#}</div> H.</div>
-<div n="lb"/><div n="I">II To fall: {#पतति, नि-,#} ({#पत्,#} c. 1.), <div n="xe">{%Nakula%}
-<div n="lb"/>{%has d.’d down on the ground:%}</div> <div n="xs">{#नकुलः पतितो मुवि,#}</div>
-<div n="lb"/>Mah. </div><div n="I">III Fig.: to come out: q. v.:
-<div n="lb"/>{#निर् -एति#} ({#इ,#} c. 2.). </div><div n="I">IV To cease: q. v.</div>
+{@DROP@}¦ (v. i.): <div n="I">I To fall in d. s: expr. by
+subs, <div n="xe">{%by the d. ping of water:%}</div> <div n="xs">{#जलबिन्दुनिपातेन,#}</div> H.</div>
+<div n="I">II To fall: {#पतति, नि-,#} ({#पत्,#} c. 1.), <div n="xe">{%Nakula%}
+{%has d.’d down on the ground:%}</div> <div n="xs">{#नकुलः पतितो मुवि,#}</div>
+Mah. </div><div n="I">III Fig.: to come out: q. v.:
+{#निर् -एति#} ({#इ,#} c. 2.). </div><div n="I">IV To cease: q. v.</div>
 <LEND>

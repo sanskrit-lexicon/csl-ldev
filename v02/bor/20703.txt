@@ -1,16 +1,16 @@
 <L>20703<pc>650<k1>slave<k2>slave
-<div n="lb"/>{@SLAVE@}¦ (subs.): <div n="I">I Lit.: {#दासः#} (f. {#सी#}), ({%s.s%})
-<div n="lb"/><div n="xe">{%home-bred, bought, got and hereditary:%}</div> <div n="xs">{#गृहजात-#}
-<div n="lb"/>{#क्रीतलब्धपारम्परीणाः,#}</div> Viv.; <div n="xe">{%who wishes to make his%}
-<div n="lb"/>{%s. a free man:%}</div> <div n="xs">{#यः स्वं दासमदासं कर्तुमिच्छेत्,#}</div> N. s.;
-<div n="lb"/>{%it is s.'s property, the master is not entitled to it:%}
-<div n="lb"/>{#तद्दासधनं स्वामी नार्हति,#} Viv.; <div n="xe">{%even a free woman%}
-<div n="lb"/>{%married by a s. becomes a s.:%}</div> <div n="xs">{#दासेनोढा त्वदासी या #}
-<div n="lb"/>{# सापि दासीत्वमाप्नु यात्,#}</div> Kat.; <div n="xe">{%a born s.:%}</div> <div n="xs">{#गर्भदासः#}</div>
-<div n="lb"/>(f. {#सी#}), Mr.; {%eating female and male s. s:%}
-<div n="lb"/>{#दासीदासजनं भक्षयित्वा,#} D. vi.; <div n="xe">{%I am your atten-%}
-<div n="lb"/>{%dant s. with a thousand s. girls:%}</div> <div n="xs">{#अहं दासीसहस्रेण #}
-<div n="lb"/>{# दासी ते परिचारिका,#}</div> Mah. i. 77. 22. </div><div n="I">II Fig.</div>
-<div n="lb"/><div n="1">(1) {#दासः;#} </div><div n="1">(2) expr. by {#वश,#} <div n="xe">{%a s. of the%}
-<div n="lb"/>{%passions:%}</div> <div n="xs">{#इन्द्रियपरवशः#}</div> ({#शा, शं#}): v. Give way.</div>
+{@SLAVE@}¦ (subs.): <div n="I">I Lit.: {#दासः#} (f. {#सी#}), ({%s.s%})
+<div n="xe">{%home-bred, bought, got and hereditary:%}</div> <div n="xs">{#गृहजात-#}
+{#क्रीतलब्धपारम्परीणाः,#}</div> Viv.; <div n="xe">{%who wishes to make his%}
+{%s. a free man:%}</div> <div n="xs">{#यः स्वं दासमदासं कर्तुमिच्छेत्,#}</div> N. s.;
+{%it is s.'s property, the master is not entitled to it:%}
+{#तद्दासधनं स्वामी नार्हति,#} Viv.; <div n="xe">{%even a free woman%}
+{%married by a s. becomes a s.:%}</div> <div n="xs">{#दासेनोढा त्वदासी या #}
+{# सापि दासीत्वमाप्नु यात्,#}</div> Kat.; <div n="xe">{%a born s.:%}</div> <div n="xs">{#गर्भदासः#}</div>
+(f. {#सी#}), Mr.; {%eating female and male s. s:%}
+{#दासीदासजनं भक्षयित्वा,#} D. vi.; <div n="xe">{%I am your atten-%}
+{%dant s. with a thousand s. girls:%}</div> <div n="xs">{#अहं दासीसहस्रेण #}
+{# दासी ते परिचारिका,#}</div> Mah. i. 77. 22. </div><div n="I">II Fig.</div>
+<div n="1">(1) {#दासः;#} </div><div n="1">(2) expr. by {#वश,#} <div n="xe">{%a s. of the%}
+{%passions:%}</div> <div n="xs">{#इन्द्रियपरवशः#}</div> ({#शा, शं#}): v. Give way.</div>
 <LEND>

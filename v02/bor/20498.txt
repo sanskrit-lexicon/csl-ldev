@@ -1,7 +1,7 @@
 <L>20498<pc>642<k1>sicken<k2>sicken
-<div n="lb"/>{@SICKEN:@}¦ <div n="I">I To disgust: {#विरक्तिं#} <div n="xe">{%or%}</div> <div n="xs">{#वैतृष्णं जनयति#}</div>
-<div n="lb"/>(c. of {#जन्#}). </div><div n="I">II To fall sick: {#रोगेण#} {%or%}
-<div n="lb"/>{#व्याधिना अभिभूयते#} (pass. of {#भू#}), {#क्लिश्यते#} (pass.
-<div n="lb"/>of {#क्लिश्#}), etc.: v. Also sick. </div><div n="I">III To
-<div n="lb"/>languish: q. v.</div>
+{@SICKEN:@}¦ <div n="I">I To disgust: {#विरक्तिं#} <div n="xe">{%or%}</div> <div n="xs">{#वैतृष्णं जनयति#}</div>
+(c. of {#जन्#}). </div><div n="I">II To fall sick: {#रोगेण#} {%or%}
+{#व्याधिना अभिभूयते#} (pass. of {#भू#}), {#क्लिश्यते#} (pass.
+of {#क्लिश्#}), etc.: v. Also sick. </div><div n="I">III To
+languish: q. v.</div>
 <LEND>

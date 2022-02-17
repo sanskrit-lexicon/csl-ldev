@@ -1,9 +1,9 @@
 <L>93843<pc>6-1252<k1>विषयिन्<k2>विषयिन्
 {#विषयिन्#}¦ (von {#विषय#}) <is>gaṇa</is> {#ग्रहादि#} zu 
-<ls>P. 3, 1, 134</ls> {#(देशे)#} . 
+<ls>P. 3, 1, 134</ls> ({#देशे#}) . 
 <div n="1"> 1) <lex>adj.</lex> {%den Sinnengenüssen fröhnend, ein Genussmensch%} 
 <ls>H. an. 3, 419.</ls> 
-<ls>MED. n. 208.</ls> <ls>YĀJÑ. 3, 138.</ls> <ls>Spr. (II) 1942. (I) 1484. 1802.</ls> <ls>CĀṆ. 70</ls> bei <ls>WEBER;</ls> <ls>ŚĀK. 68, 14.</ls> <ls>HIT. 9, 11.</ls> <lex>m.</lex> {%ein Materialist%} ({#वैषयिक#}) 
+<ls>MED. n. 208.</ls> <ls>YĀJÑ. 3, 138.</ls> <ls>Spr. (II) 1942.</ls> <ls n="Spr.">(I) 1484. 1802.</ls> <ls>CĀṆ. 70</ls> bei <ls>WEBER</ls>; <ls>ŚĀK. 68, 14.</ls> <ls>HIT. 9, 11.</ls> <lex>m.</lex> {%ein Materialist%} ({#वैषयिक#}) 
 <ls>H. an.</ls> <ls>MED.</ls> = {#कामिन्#} {%ein Verliebter%} 
 <ls>TRIK. 3, 3, 261.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
@@ -13,7 +13,7 @@
 <ls>PAÑCAR. 1, 14, 10.</ls> 
 <div n="2">— c) {%Subject, das Ich%} 
 <ls>MBH. 14, 1374.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>?S. 162. zu BRAHMAS. S. 7. PAÑCAR. 2, 1, 37.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 162.</ls> zu <ls>BRAHMAS. S. 7.</ls> <ls>PAÑCAR. 2, 1, 37.</ls> 
 <div n="2">— d) {%der Liebesgott%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— e) im Tropus {%das Bild%} im Gegens. zum eigentlich gemeinten Gegenstande 

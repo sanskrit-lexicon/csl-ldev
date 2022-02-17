@@ -1,7 +1,7 @@
 <L>3013<pc>101<k1>canvass<k2>canvass
-<div n="lb"/>{@CANVASS, CANVASSING@}¦ (subs.): <div n="I">I Inspection:
-<div n="lb"/>q. v.: {#परीक्षा।#} </div><div n="I">II Discussion: q. v.: {#विचारः।#}</div>
-<div n="lb"/><div n="I">III Solicitation for votes: {#*मतप्रार्थना#} {%or%}
-<div n="lb"/>simply {#प्रार्थना#} (when the context determines
-<div n="lb"/>the meaning).</div>
+{@CANVASS, CANVASSING@}¦ (subs.): <div n="I">I Inspection:
+q. v.: {#परीक्षा।#} </div><div n="I">II Discussion: q. v.: {#विचारः।#}</div>
+<div n="I">III Solicitation for votes: {#*मतप्रार्थना#} {%or%}
+simply {#प्रार्थना#} (when the context determines
+the meaning).</div>
 <LEND>

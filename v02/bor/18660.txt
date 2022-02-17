@@ -1,7 +1,7 @@
 <L>18660<pc>574<k1>reap<k2>reap
-<div n="lb"/>{@REAP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#लुनाति#} ({#लू,#} c. 9.), <div n="xe">{%r. ing%}
-<div n="lb"/>{%machine:%}</div> <div n="xs">{#लवित्रम्;#}</div> </div><div n="1">(2) {#छिनत्ति#} ({#छिद्,#} c. 7.),
-<div n="lb"/><div n="xe">{%time for r. ing crops:%}</div> <div n="xs">{#शस्यछेदनकालः,#}</div> Nil. on
-<div n="lb"/>Mah. ii. 5. 64.: Also to gather. </div><div n="I">II To
-<div n="lb"/>get: q. v.: {#लभते#} ({#लभ्,#} c. 1.): v. To sow.</div>
+{@REAP:@}¦ <div n="I">I Lit.: </div><div n="1">(1) {#लुनाति#} ({#लू,#} c. 9.), <div n="xe">{%r. ing%}
+{%machine:%}</div> <div n="xs">{#लवित्रम्;#}</div> </div><div n="1">(2) {#छिनत्ति#} ({#छिद्,#} c. 7.),
+<div n="xe">{%time for r. ing crops:%}</div> <div n="xs">{#शस्यछेदनकालः,#}</div> Nil. on
+Mah. ii. 5. 64.: Also to gather. </div><div n="I">II To
+get: q. v.: {#लभते#} ({#लभ्,#} c. 1.): v. To sow.</div>
 <LEND>

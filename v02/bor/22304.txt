@@ -1,5 +1,5 @@
 <L>22304<pc>703<k1>temptation<k2>temptation
-<div n="lb"/>{@TEMPTATION:@}¦ <div n="1">(1) {#प्रलोभनम्;#} </div><div n="1">(2) {#विलोभनम्,#} <div n="xe">{%who%}
-<div n="lb"/>{%is not allured by other t. s:%}</div> <div n="xs">{#अहृतस्य विलोभनान्तरैः,#}</div>
-<div n="lb"/>R. viii. 69.</div>
+{@TEMPTATION:@}¦ <div n="1">(1) {#प्रलोभनम्;#} </div><div n="1">(2) {#विलोभनम्,#} <div n="xe">{%who%}
+{%is not allured by other t. s:%}</div> <div n="xs">{#अहृतस्य विलोभनान्तरैः,#}</div>
+R. viii. 69.</div>
 <LEND>

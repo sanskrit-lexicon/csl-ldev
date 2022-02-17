@@ -1,19 +1,19 @@
 <L>15182<pc>254-1<k1>राज्यकर<k2>राज्यकर
 {#राज्यकर#}¦rājya-kara, ¤1.¤ {%a.%} ruling; ¤2.¤ {%m.%} 
-<>tribute of a feudatory prince; {@-kṛt@}, {%a.%} ruling 
-<>({%conj.%}); {@-khaṇḍa@}, {%n.%} kingdom; {@-cyuti@}, {%f.%} 
-<>loss of sovereignty, dethronement; {@-tantra,@} 
-<>{%n. sg. & pl.%} system of administration, government; <lbinfo n="6"/>
-<> {@-devī,@} {%f. N. of Bāṇa's mother%}; {@-dha-@}
-<>{@-ra,@} {%m.%} (regent), {%N.%}; {@-paribhraṣṭa@}, {%pp.%} 
-<>fallen from {%his%} royal estate; {@-bhaṅga,@} {%m.%} 
-<>subversion of sovereignty; {@-bheda,@} {%m.%} discord <lbinfo n="3"/>
-<> in the realm; {@-lābha,@} {%m.%} obtainment of 
-<>sovereignty, succession to the throne; {@-līlāy-@}
-<>{@-ita,@} ({%den. pp.%}) {%n.%} playing the part of a king; 
-<>{@-lobha,@} {%m.%} lust of dominion; {@-vardhana,@} {%m.%} 
-<>{%N. of two prince%}; {@-śrī@}, {%f.%} royal dignity ({%also %}
-<>{%personified%}); {%N.%}; {@-sukha,@} {%n.%} pleasures of 
-<>royalty; {@-stha,@} {%a.,%} {@-sthāyin,@} {%a.%} ruling; {@-sthi-@}
-<>{@-ti,@} {%f.%} government.
+tribute of a feudatory prince; {@-kṛt@}, {%a.%} ruling 
+({%conj.%}); {@-khaṇḍa@}, {%n.%} kingdom; {@-cyuti@}, {%f.%} 
+loss of sovereignty, dethronement; {@-tantra,@} 
+{%n. sg. & pl.%} system of administration, government; <lbinfo n="6"/>
+ {@-devī,@} {%f. N. of Bāṇa's mother%}; {@-dha-@}
+{@-ra,@} {%m.%} (regent), {%N.%}; {@-paribhraṣṭa@}, {%pp.%} 
+fallen from {%his%} royal estate; {@-bhaṅga,@} {%m.%} 
+subversion of sovereignty; {@-bheda,@} {%m.%} discord <lbinfo n="3"/>
+ in the realm; {@-lābha,@} {%m.%} obtainment of 
+sovereignty, succession to the throne; {@-līlāy-@}
+{@-ita,@} ({%den. pp.%}) {%n.%} playing the part of a king; 
+{@-lobha,@} {%m.%} lust of dominion; {@-vardhana,@} {%m.%} 
+{%N. of two prince%}; {@-śrī@}, {%f.%} royal dignity ({%also %}
+{%personified%}); {%N.%}; {@-sukha,@} {%n.%} pleasures of 
+royalty; {@-stha,@} {%a.,%} {@-sthāyin,@} {%a.%} ruling; {@-sthi-@}
+{@-ti,@} {%f.%} government.
 <LEND>

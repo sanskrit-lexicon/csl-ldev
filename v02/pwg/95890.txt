@@ -8,7 +8,7 @@
 <ls>P. 4, 2, 12.</ls> 
 <ls>AK. 2, 8, 2, 21.</ls> 
 <ls>H. 755.</ls> 
-<ls>MBH. 2, 2063. 7, 3892. 8, 3598.</ls> {%in ein Tigerfell gehüllt%} 
+<ls>MBH. 2, 2063.</ls> <ls n="MBH.">7, 3892.</ls> <ls n="MBH.">8, 3598.</ls> {%in ein Tigerfell gehüllt%} 
 <ls>4, 1738.</ls> 
 <div n="2">— b) {%von%} <is>Vyāghra</is> {%herrührend%}: {#धर्माः#} 
 <ls>Verz. d. Oxf. H. 266,b,25.</ls> 
@@ -16,6 +16,6 @@
 <ls>AV. 4, 8, 4.</ls> 
 <ls>ŚĀṄKH. ŚR. 14, 33, 26.</ls> 
 <ls>HARIV. 6199.</ls> {#°परिवारित#} 
-<ls>MBH. 2, 1854. 7, 268.</ls> {#°परिवारण#} 
+<ls>MBH. 2, 1854.</ls> <ls n="MBH.">7, 268.</ls> {#°परिवारण#} 
 <ls>5, 2837. 7101.</ls> <ls>R. 7, 23, 4, 32.</ls>
 <LEND>

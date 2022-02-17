@@ -4,7 +4,7 @@
 zu <ls>ŚĀNT. 2, 15.</ls> 
 <div n="1"> 1) <lex>m.</lex> 
 <div n="2"> a) {%Saft%}, <is>Soma</is> (eig. und als göttliches Wesen personificirt); {%die%} <is>Soma</is>-{%Pflanze%} (dafür gilt {%Sarcostemma acidum R. Br.%}, welche einen milden säuerlichen Milchsaft enthält, aber in südlicheren Strecken wächst als die Sitze des <is>Veda</is>. Volkes. 
-<ls>ROXB. Fl. ind. 2, 31.</ls> <ls>VOIGT,</ls> <ls>Hort. Calc. 542.</ls> Wahrscheinlich hat mit den Wohnsitzen auch die Pflanze gewechselt). 
+<ls>ROXB.</ls> <ls>Fl. ind. 2, 31.</ls> <ls>VOIGT,</ls> <ls>Hort. Calc. 542.</ls> Wahrscheinlich hat mit den Wohnsitzen auch die Pflanze gewechselt). 
 <ls>NAIGH. 5, 5.</ls> 
 <ls>NIR. 11, 2.</ls> 
 <ls>H. an. 2, 431. fg.</ls> 
@@ -12,7 +12,7 @@ zu <ls>ŚĀNT. 2, 15.</ls>
 <ls>ṚV.</ls> ist dem <is>Soma</is> gewidmet. {#सुत#} 
 <ls>ṚV. 3, 35, 5.</ls> {#सुषुत#} 
 <ls n="ṚV.">4, 20, 4.</ls> {#तीव्र#} 
-<ls n="ṚV.">5, 27, 5.</ls> <ls n="ṚV.">4, 28, 1.</ls> <ls>fgg.</ls> {#शुक्र#} 
+<ls n="ṚV.">5, 27, 5.</ls> <ls n="ṚV.">4, 28, 1. fgg.</ls> {#शुक्र#} 
 <ls n="ṚV.">7, 64, 5.</ls> {#मधुमन्त्#} 
 <ls n="ṚV.">4, 45, 5.</ls> {#बभ्रुधूत#} 
 <ls n="ṚV.">5, 30, 11.</ls> {#गोसखि#} 
@@ -39,7 +39,7 @@ zu <ls>ŚĀNT. 2, 15.</ls>
 <ls>TS. 6, 1, 9, 1.</ls> 
 <ls>AV. 2, 10, 2. 36, 5. 5, 21, 11. 6, 15, 3. 8, 7, 20. 12, 3, 31.</ls> 
 <ls>VS. 6, 26. 9, 23. 40. 10, 30. 12, 98.</ls> 
-<ls>ŚAT. BR. 1, 6, 3, 3. 11, 4, 3, 3. -</ls> <ls>M. 3, 257. 10, 88. 11, 7. 8.</ls> {#सुषाव स बहून्सोमान्#} 
+<ls>ŚAT. BR. 1, 6, 3, 3. 11, 4, 3, 3.</ls> - <ls>M. 3, 257. 10, 88. 11, 7. 8.</ls> {#सुषाव स बहून्सोमान्#} 
 <ls>MBH. 1, 4695.</ls> {#सुते °सहस्रे#} 
 <ls>8042.</ls> {#अध्वरग#} 
 <ls>3, 15687.</ls> {#चतुर्विधात्मकं सोमं ये पिबन्ति#} 
@@ -69,14 +69,14 @@ zu <ls>ŚĀNT. 2, 15.</ls>
 <ls>ṢAḌV. BR. 3, 12.</ls> 
 <ls>ĀŚV. GṚHY. 4, 9, 2.</ls> 
 <ls>M. 3, 85. 4, 52. 5, 96. 7, 7.</ls> {#राजन्#} 
-<ls>9, 129.</ls> <ls>MBH. 1, 1145. 8042.</ls> {#तरुण#} 
+<ls>9, 129.</ls> <ls>MBH. 1, 1145.</ls> <ls n="MBH. 1,">8042.</ls> {#तरुण#} 
 <ls>5, 3804. 7131. 7, 979. 2343. 12, 7541. 13, 7298. fg.</ls> <ls>HARIV. 7152.</ls> {#कनखलं सोमो वै यत्र चोत्थितः#} 
-<ls>9521.</ls> {#°वत्प्रियदर्शनः#} 
+<ls n="HARIV.">9521.</ls> {#°वत्प्रियदर्शनः#} 
 <ls>R. 1, 1, 18. 2, 25, 10. 91, 20.</ls> {#(यैः) क्षयी चाप्यायितः सोमः#} (so ist zu lesen) 
 <ls>Spr. (II) 5582.</ls> 
 <ls>SUŚR. 1, 17, 2. 19, 12. 135, 16. 176, 11.</ls> 
 <ls>VARĀH. BṚH. S. 5, 26. 8, 23. 43, 52. 53, 45. 97, 1.</ls> 
-<ls>BRAHMA-P.</ls> in <ls>LA. (III) 58, 6.</ls> <ls>BHĀG. P. 5, 20, 11. fg.</ls> {#(अप्रीणयत्) कलाभिरमृतार्द्राभिः सोमः सुरपितॄनिव#} 
+<ls>BRAHMA-P. in LA. (III) 58, 6.</ls> <ls>BHĀG. P. 5, 20, 11. fg.</ls> {#(अप्रीणयत्) कलाभिरमृतार्द्राभिः सोमः सुरपितॄनिव#} 
 <ls>RĀJA-TAR. 7, 519.</ls> {#°च्छाया#} 
 <ls>Verz. d. Oxf. H. 51,a,28.</ls> {#सत्यात्सोमः प्रभवति#} 
 <ls>R. GORR. 2, 61, 12.</ls> {#सोमः शौचं ददौ स्त्रीणाम्#} 
@@ -84,27 +84,27 @@ zu <ls>ŚĀNT. 2, 15.</ls>
 <ls>7193.</ls> {#ओषधीनां पतिः सोमः#} 
 <ls>MBH. 14, 1178.</ls> {#विप्राणां सोमो राजा#} 
 <ls>1179.</ls> {#द्विजानां वीरुधां चैव नक्षत्रग्रहयोस्तथा । यज्ञानां तपसां चैव सोमं राज्ये ऽभ्यषेचयत् ॥#} 
-<ls>HARIV. 258. 1330. 11802. 12491.</ls> 
+<ls>HARIV. 258.</ls> <ls n="HARIV.">1330.</ls> <ls n="HARIV.">11802.</ls> <ls n="HARIV.">12491.</ls> 
 <ls>VP. 153.</ls> {#वनस्पति#} 
 <ls>BHĀG. P. 8, 18, 15.</ls> Sohn <is>Atri's</is> 
 <ls>MBH. 7, 6028</ls> (und Vater <is>Budha's</is>). 
-<ls>HARIV. 1309. fgg. 1663.</ls> 
+<ls>HARIV. 1309. fgg.</ls> <ls n="HARIV.">1663.</ls> 
 <ls>VP. 83. 392. fg.</ls> 
 <ls>MĀRK. P. 52, 22.</ls> 
 <ls>BHĀG. P. 4, 1, 15. 9, 14, 3.</ls> unter den Söhnen {#मारीचस्य काश्यपस्य प्रजापतेः#} 
 <ls>MĀRK. P. 80, 8.</ls> heirathet 27 Töchter <is>Dakṣa's</is> 
-<ls>MBH. 1, 2580. 9, 2013. fgg.</ls> 
-<ls>HARIV. 104. 144. 11524. 11837.</ls> 
+<ls>MBH. 1, 2580.</ls> <ls n="MBH.">9, 2013. fgg.</ls> 
+<ls>HARIV. 104.</ls> <ls n="HARIV.">144.</ls> <ls n="HARIV.">11524.</ls> <ls n="HARIV.">11837.</ls> 
 <ls>BHĀG. P. 8, 4, 22.</ls> Vater des <is>Varcas</is> 
 <ls>HARIV. 12843.</ls> Liedverfasser 
 <ls>Ind. St.3,245,a.</ls> Verfasser eines Gesetzbuchs 
 <ls>Ind. St. 1, 234.</ls> verschiedene Legenden über ihn 
-<ls>HARIV. 1311. fgg. 2475. fgg. 2583. fgg.</ls> 
+<ls>HARIV. 1311. fgg.</ls> <ls n="HARIV.">2475. fgg.</ls> <ls n="HARIV.">2583. fgg.</ls> 
 <ls>VP. 392. fg.</ls> 
 <ls>BHĀG. P.6,4,6. fgg. 9,14,1. fgg.</ls> <ls>Verz. d. Oxf. H. 40,a,31.</ls> unter den 8 <is>Vasu</is> 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf. H. 190,a,34.</ls> <ls>MBH.1,2582. 13,7094.</ls> <ls>HARIV. 152. 11524. 11539.</ls> <ls>VP. 120.</ls> <ls>WEBER, RĀMAT. UP. 307. 312.</ls> = <is>Viṣṇu</is> 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf. H. 190,a,34.</ls> <ls>MBH. 1, 2582.</ls> <ls n="MBH.">13, 7094.</ls> <ls>HARIV. 152.</ls> <ls n="HARIV.">11524.</ls> <ls n="HARIV.">11539.</ls> <ls>VP. 120.</ls> <ls>WEBER, RĀMAT. UP. 307. 312.</ls> = <is>Viṣṇu</is> 
 <ls>H. ś. 65.</ls> <ls>HARIV. 2382.</ls> = <is>Śiva</is> 
-<ls>7581.</ls> <ls>KATHĀS. 35, 101.</ls> = <is>Yama</is> und <is>Kubera</is> 
+<ls n="HARIV.">7581.</ls> <ls>KATHĀS. 35, 101.</ls> = <is>Yama</is> und <is>Kubera</is> 
 <ls>H. an.</ls> <ls>MED.</ls> {#सोमरुद्रा/ (°रुद्रौ)#} 
 <ls>P. 6, 2, 142.</ls> 
 <ls>ṚV. 6, 74, 1.</ls> fgg. 
@@ -129,7 +129,7 @@ zu <ls>VĀSAVAD. 53.</ls> ein <is>Muni</is> mit dem patron. <is>Śuṣmāyaṇa<
 
 <ls>Verz. d. Oxf. H. 80,a,15</ls> (<ls>HALL</ls>None in der 2ten Ausg. des 
 <ls>VP.</ls> führt noch andere Varianten an und vermuthet {#सौमशुष्मायण#}). ein Sohn <is>Mudgala's</is> 
-<ls>?200,a, No. 475. - Verz. d. B. H. No. 969. KṢITĪŚ.5,9.</ls> 
+<ls>200,a, No. 475.</ls> - <ls>Verz. d. B. H. No. 969.</ls> <ls>KṢITĪŚ.5,9.</ls> 
 <div n="3">— β) eines Affen 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="3">— γ) eines Berges 

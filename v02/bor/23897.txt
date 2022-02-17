@@ -1,8 +1,8 @@
 <L>23897<pc>748<k1>violent<k2>violent
-<div n="lb"/>{@VIOLENT:@}¦ <div n="I">I Vehement: {#प्रचण्ड#} (f. {#ण्डा#}); </div><div n="1">(2)
-<div n="lb"/>{#उग्र#} (f. {#ग्रा#}): v. Sharp.; </div><div n="1">(3) {#गाढ#} (f. {#ढा#}):
-<div n="lb"/>v. Deep; </div><div n="1">(4) {#गुरु#} (f. also {#र्वी#}): v. Heavy;</div>
-<div n="lb"/><div n="1">(5) {#प्रबल#} (f. {#ला#}): v. Strong, powerful. </div><div n="I">II
-<div n="lb"/>Outrageous: {#साहसिक#} (f. {#की#}). Ph.: {%v. end:%}
-<div n="lb"/>{#दारुणः परिणामः;#} <div n="xe">{%v. death:%}</div> <div n="xs">{#अपघातः।#}</div></div>
+{@VIOLENT:@}¦ <div n="I">I Vehement: {#प्रचण्ड#} (f. {#ण्डा#}); </div><div n="1">(2)
+{#उग्र#} (f. {#ग्रा#}): v. Sharp.; </div><div n="1">(3) {#गाढ#} (f. {#ढा#}):
+v. Deep; </div><div n="1">(4) {#गुरु#} (f. also {#र्वी#}): v. Heavy;</div>
+<div n="1">(5) {#प्रबल#} (f. {#ला#}): v. Strong, powerful. </div><div n="I">II
+Outrageous: {#साहसिक#} (f. {#की#}). Ph.: {%v. end:%}
+{#दारुणः परिणामः;#} <div n="xe">{%v. death:%}</div> <div n="xs">{#अपघातः।#}</div></div>
 <LEND>

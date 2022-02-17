@@ -1,4 +1,4 @@
 <L>9471<pc>300<k1>frontispiece<k2>frontispiece
-<div n="lb"/>{@FRONTISPIECE:@}¦ <div n="I">I Of a book: {#प्रथमचित्रम्#} (?).</div>
-<div n="lb"/><div n="I">II Of a building: {#सम्मुखम्।#}</div>
+{@FRONTISPIECE:@}¦ <div n="I">I Of a book: {#प्रथमचित्रम्#} (?).</div>
+<div n="I">II Of a building: {#सम्मुखम्।#}</div>
 <LEND>

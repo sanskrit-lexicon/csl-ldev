@@ -1,9 +1,9 @@
 <L>118<pc>005<k1>accent<k2>accent
-<div n="lb"/>{@ACCENT@}¦ (subs.): <div n="I">I In speaking: {#स्वरः।#} <div n="xe">{%The%}
-<div n="lb"/>{%acute a.%}</div> <div n="xs">{#उदात्तः;#}</div> <div n="xe">{%the grave a.%}</div> <div n="xs">{#अनुदात्तः;#}</div> <div n="xe">{%the%}
-<div n="lb"/>{%circumflex a.%}</div> <div n="xs">{#स्वरितः।#}</div> </div><div n="I">II A peculiar tone in
-<div n="lb"/>speaking {#स्वरः;#} <div n="xe">{%with distinct articulation and%}
-<div n="lb"/>{%a.%}</div> <div n="xs">{#अतिस्पष्टवर्णस्वरसंस्कारया#}</div> <ls>K.</ls> </div><div n="I">III. An accentual
-<div n="lb"/>mark: {#स्वरचिह्रम्#} (?). </div><div n="I">IV Language, expre-
-<div n="lb"/>-ssions: q. v.</div>
+{@ACCENT@}¦ (subs.): <div n="I">I In speaking: {#स्वरः।#} <div n="xe">{%The%}
+{%acute a.%}</div> <div n="xs">{#उदात्तः;#}</div> <div n="xe">{%the grave a.%}</div> <div n="xs">{#अनुदात्तः;#}</div> <div n="xe">{%the%}
+{%circumflex a.%}</div> <div n="xs">{#स्वरितः।#}</div> </div><div n="I">II A peculiar tone in
+speaking {#स्वरः;#} <div n="xe">{%with distinct articulation and%}
+{%a.%}</div> <div n="xs">{#अतिस्पष्टवर्णस्वरसंस्कारया#}</div> <ls>K.</ls> </div><div n="I">III. An accentual
+mark: {#स्वरचिह्रम्#} (?). </div><div n="I">IV Language, expre-
+-ssions: q. v.</div>
 <LEND>

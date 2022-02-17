@@ -1,5 +1,5 @@
 <L>4228<pc>137<k1>compliant<k2>compliant
-<div n="lb"/>{@COMPLIANT:@}¦ <div n="I">I Pliant: q. v. </div><div n="I">II Obliging:</div>
-<div n="lb"/><div n="1">(1) {#अनुरोधिन्#} (f. {#नी#}); </div><div n="1">(2) {#अनुविधायिन्#} (f. {#नी#});</div>
-<div n="lb"/><div n="1">(3) {#अनुवृत्तिकुशलः#} ({#ला, लं#}).</div>
+{@COMPLIANT:@}¦ <div n="I">I Pliant: q. v. </div><div n="I">II Obliging:</div>
+<div n="1">(1) {#अनुरोधिन्#} (f. {#नी#}); </div><div n="1">(2) {#अनुविधायिन्#} (f. {#नी#});</div>
+<div n="1">(3) {#अनुवृत्तिकुशलः#} ({#ला, लं#}).</div>
 <LEND>

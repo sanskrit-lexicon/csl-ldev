@@ -1,4 +1,4 @@
 <L>12152<pc>378<k1>inferable<k2>inferable
-<div n="lb"/>{@INFERABLE:@}¦ <div n="1">(1) {#अनुमेयः#} ({#या, यं#}); </div><div n="1">(2) {#आनुमानिकः#}
-<div n="lb"/>({#की, कं#}) (= inferential).</div>
+{@INFERABLE:@}¦ <div n="1">(1) {#अनुमेयः#} ({#या, यं#}); </div><div n="1">(2) {#आनुमानिकः#}
+({#की, कं#}) (= inferential).</div>
 <LEND>

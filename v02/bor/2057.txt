@@ -1,6 +1,6 @@
 <L>2057<pc>072<k1>bind over<k2>bind over
-<div n="lb"/>{@BIND OVER:@}¦ {#आबध्नाति#} <div n="xe">{%or%}</div> <div n="xs">{#आबद्धः#}</div> ({#द्धा, द्धं#}) {#करोति#} (?).
-<div n="lb"/>Ph. <div n="xe">{%b. him over in 100 Rs. recognizance to keep%}
-<div n="lb"/>{%the peace%}</div> <div n="xs">{#*शान्तिरक्षार्थं शतरूप्यमुद्रादानप्रतिज्ञया #}
-<div n="lb"/>{# तमाबद्धं कुरु।#}</div>
+{@BIND OVER:@}¦ {#आबध्नाति#} <div n="xe">{%or%}</div> <div n="xs">{#आबद्धः#}</div> ({#द्धा, द्धं#}) {#करोति#} (?).
+Ph. <div n="xe">{%b. him over in 100 Rs. recognizance to keep%}
+{%the peace%}</div> <div n="xs">{#*शान्तिरक्षार्थं शतरूप्यमुद्रादानप्रतिज्ञया #}
+{# तमाबद्धं कुरु।#}</div>
 <LEND>

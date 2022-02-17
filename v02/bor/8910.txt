@@ -1,9 +1,9 @@
 <L>8910<pc>282<k1>flat<k2>flat
-<div n="lb"/>{@FLAT@}¦ (adj.): <div n="I">I Plain, level: {#समः#} ({#मा, मं#}), <div n="xe">{%to%}
-<div n="lb"/>{%lay f.:%}</div> <div n="xs">{#समीकरोति,#}</div> Ku. or fig. {#पातयति#} (c. of
-<div n="lb"/>{#पत्#}) (= to fell), V. p. </div><div n="I">II Dull, insipid:
-<div n="lb"/>{#नीरसः#} ({#सा, सं#}). </div><div n="I">III Positive, clear: {#स्फुटः#}
-<div n="lb"/>({#टा, टं#}), <div n="xe">{%“that is f.”:%}</div> <div n="xs">{#स्फुटमेतत्।#}</div> </div><div n="I">IV Of
-<div n="lb"/>letters: {#घोषवत्#} (f. {#ती#}), T. p. i. 14. V. Of
-<div n="lb"/>nose, etc.: {#स्थूलः#} ({#ला, लं#}).</div>
+{@FLAT@}¦ (adj.): <div n="I">I Plain, level: {#समः#} ({#मा, मं#}), <div n="xe">{%to%}
+{%lay f.:%}</div> <div n="xs">{#समीकरोति,#}</div> Ku. or fig. {#पातयति#} (c. of
+{#पत्#}) (= to fell), V. p. </div><div n="I">II Dull, insipid:
+{#नीरसः#} ({#सा, सं#}). </div><div n="I">III Positive, clear: {#स्फुटः#}
+({#टा, टं#}), <div n="xe">{%“that is f.”:%}</div> <div n="xs">{#स्फुटमेतत्।#}</div> </div><div n="I">IV Of
+letters: {#घोषवत्#} (f. {#ती#}), T. p. i. 14. V. Of
+nose, etc.: {#स्थूलः#} ({#ला, लं#}).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>32189<pc>857-a<k1>evidence<k2>evidence
-<div n="lb"/>EVIDENCE¦, {%s.%} {#प्रमाणं;#} ‘of sense,’ {#प्रत्यक्षप्रमाणं;#} ‘of inference,’ {#अनु-#}
-<div n="lb"/>{#मानप्रमाणं;#} ‘of analogy,’ {#उपमानप्रमाणं;#} ‘of ordeal,’ {#दिव्यप्रमाणं;#}
-<div n="lb"/>‘of profession,’ {#भोगप्रमाणं;#} ‘documentary evidence,’ {#लेख-#}
-<div n="lb"/>{#प्रमाणं;#} ‘ocular,’ {#दृक्प्रत्ययः#}.
+EVIDENCE¦, {%s.%} {#प्रमाणं;#} ‘of sense,’ {#प्रत्यक्षप्रमाणं;#} ‘of inference,’ {#अनु-#}
+{#मानप्रमाणं;#} ‘of analogy,’ {#उपमानप्रमाणं;#} ‘of ordeal,’ {#दिव्यप्रमाणं;#}
+‘of profession,’ {#भोगप्रमाणं;#} ‘documentary evidence,’ {#लेख-#}
+{#प्रमाणं;#} ‘ocular,’ {#दृक्प्रत्ययः#}.
 <LEND>

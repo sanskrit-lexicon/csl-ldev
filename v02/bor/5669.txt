@@ -1,6 +1,6 @@
 <L>5669<pc>182<k1>deficiency<k2>deficiency
-<div n="lb"/>{@DEFICIENCY:@}¦ <div n="1">(1) {#अभावः#} (=want: q. v.);</div>
-<div n="lb"/><div n="1">(2) {#न्यूनता#} (=state of being less); </div><div n="1">(3) {#वैकल्यम्#}
-<div n="lb"/>(=incompleteness), <div n="xe">{%d. of strength:%}</div> <div n="xs">{#शाक्ति-#}
-<div n="lb"/>{#वैकल्यम्,#}</div> Ki.</div>
+{@DEFICIENCY:@}¦ <div n="1">(1) {#अभावः#} (=want: q. v.);</div>
+<div n="1">(2) {#न्यूनता#} (=state of being less); </div><div n="1">(3) {#वैकल्यम्#}
+(=incompleteness), <div n="xe">{%d. of strength:%}</div> <div n="xs">{#शाक्ति-#}
+{#वैकल्यम्,#}</div> Ki.</div>
 <LEND>

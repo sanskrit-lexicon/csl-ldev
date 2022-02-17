@@ -1,4 +1,4 @@
 <L>8833<pc>280<k1>fiscal<k2>fiscal
-<div n="lb"/>{@FISCAL:@}¦ {#कोषः#} in comp. <div n="xe">{%or%}</div> <div n="xs">{#कोषस्य#}</div> (gen): v.
-<div n="lb"/>Also financial.
+{@FISCAL:@}¦ {#कोषः#} in comp. <div n="xe">{%or%}</div> <div n="xs">{#कोषस्य#}</div> (gen): v.
+Also financial.
 <LEND>

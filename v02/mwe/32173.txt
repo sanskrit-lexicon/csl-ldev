@@ -1,10 +1,10 @@
 <L>32173<pc>856-b<k1>element<k2>element
-<div n="lb"/>ELEMENT¦, {%s.%} (As earth, air, &c.) {#भूतं, महाभूतं;#} ‘the five e., or
-<div n="lb"/>earth, air, fire, water and ākāṣa,’ {#पञ्चभूतानि, पञ्चमहाभूतानि,#}
-<div n="lb"/>{#पञ्चता -त्वं, धातुजातं;#} ‘reduction to order of the five e.,’
-<div n="lb"/>{#पञ्चीकरणं;#} ‘relation of an e. with its combinations,’ {#प्रकृति-#}
-<div n="lb"/>{#विकृतिभावः;#} ‘the five subtile rudiments of the five e.,’
-<div n="lb"/>{#पञ्चतन्मात्राणि#}. — (Seven elements of the body) {#सप्तधातवः#} {%m. pl.%}
-<div n="lb"/>({#तृ#}). These are, 1. chyle, {#रसः;#} 2. blood, {#रक्तं;#} 3. flesh, {#मांसं;#}
-<div n="lb"/>4. fat, {#मेदस्;#} 5. marrow, {#मज्जा;#} 6. bone, {#अस्थि;#} 7. semen, {#शुक्रं#}.
+ELEMENT¦, {%s.%} (As earth, air, &c.) {#भूतं, महाभूतं;#} ‘the five e., or
+earth, air, fire, water and ākāṣa,’ {#पञ्चभूतानि, पञ्चमहाभूतानि,#}
+{#पञ्चता -त्वं, धातुजातं;#} ‘reduction to order of the five e.,’
+{#पञ्चीकरणं;#} ‘relation of an e. with its combinations,’ {#प्रकृति-#}
+{#विकृतिभावः;#} ‘the five subtile rudiments of the five e.,’
+{#पञ्चतन्मात्राणि#}. — (Seven elements of the body) {#सप्तधातवः#} {%m. pl.%}
+({#तृ#}). These are, 1. chyle, {#रसः;#} 2. blood, {#रक्तं;#} 3. flesh, {#मांसं;#}
+4. fat, {#मेदस्;#} 5. marrow, {#मज्जा;#} 6. bone, {#अस्थि;#} 7. semen, {#शुक्रं#}.
 <LEND>

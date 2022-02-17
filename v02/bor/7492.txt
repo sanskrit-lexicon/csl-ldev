@@ -1,3 +1,3 @@
 <L>7492<pc>236<k1>employer<k2>employer
-<div n="lb"/>{@EMPLOYER:@}¦ <div n="1">(1) {#नियोजकः;#} </div><div n="1">(2) {#प्रयोजकः।#}</div>
+{@EMPLOYER:@}¦ <div n="1">(1) {#नियोजकः;#} </div><div n="1">(2) {#प्रयोजकः।#}</div>
 <LEND>

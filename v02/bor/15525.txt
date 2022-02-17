@@ -1,4 +1,4 @@
 <L>15525<pc>475<k1>north-west<k2>north-west
-<div n="lb"/>{@NORTH-WEST@}¦ (subs.): {#पश्चिमोत्तरा#} <div n="xe">{%or%}</div> <div n="xs">{#उत्तरपश्चिमा#}</div> {%or%}
-<div n="lb"/>{#वायवी दिक्, आशा,#} etc.
+{@NORTH-WEST@}¦ (subs.): {#पश्चिमोत्तरा#} <div n="xe">{%or%}</div> <div n="xs">{#उत्तरपश्चिमा#}</div> {%or%}
+{#वायवी दिक्, आशा,#} etc.
 <LEND>

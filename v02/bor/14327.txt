@@ -1,4 +1,4 @@
 <L>14327<pc>439<k1>mayoralty<k2>mayoralty
-<div n="lb"/>{@MAYORALTY:@}¦ {#*अधिनायकत्वम्,-ता; अधिनायकपदम्#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#-अधिकारः।#}</div>
+{@MAYORALTY:@}¦ {#*अधिनायकत्वम्,-ता; अधिनायकपदम्#}
+<div n="xe">{%or%}</div> <div n="xs">{#-अधिकारः।#}</div>
 <LEND>

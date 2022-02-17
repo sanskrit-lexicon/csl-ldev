@@ -26,8 +26,8 @@
 <ls>KUVALAY. 74,b.</ls> {#न मे विशेषः पुत्रेषु स्वेषु पाण्डुसुतेषु वा#} 
 <ls>MBH. 1, 142.</ls> 
 <ls>R. 2, 22, 17.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 6, 32.</ls> {#पात्रस्य हि विशेषेण#} so v. a. {%je nach der Würdigkeit der Person%} 
+
+<ls>R. GORR. 2, 6, 32.</ls> {#पात्रस्य हि विशेषेण#} so v. a. {%je nach der Würdigkeit der Person%} 
 <ls>Spr. 4525.</ls> {#पात्रापात्रविशेषेण#} 
 <ls>2088 (II).</ls> {#कर्मविशेषेण#} 
 <ls>M. 11, 52.</ls> 
@@ -55,7 +55,7 @@
 <ls>VOP. 21, 17.</ls> {#शृगाल°#} {%ein besonderer Schakal%} 
 <ls>PAÑCAT. 63, 2.</ls> {#दशा°#} 
 <ls>HIT. 36, 5.</ls> {#तपस्वि°#} 
-<ls>VET.</ls> in <ls>LA. (III) 10, 7.</ls> {#अतिक्रम्य तांस्तान्विशेषान्#} so v. a. {%mannichfache Gegenstände%} 
+<ls>VET. in LA. (III) 10, 7.</ls> {#अतिक्रम्य तांस्तान्विशेषान्#} so v. a. {%mannichfache Gegenstände%} 
 <ls>MEGH. 58.</ls> {#प्रासादास्त्वां तुलयितुमलं यत्र तैस्तैर्विशेषैः#} 
 <ls>65.</ls> {#दंशमशकवातातपप्रभृतिभिर्विशेषैः#} 
 <ls>SUŚR. 1, 67, 6.</ls> {#येन येन विशेषेण#} {%auf jede beliebige Weise%} 
@@ -70,7 +70,7 @@
 <ls>Verz. d. Oxf. H. 281,b,20. fg.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 109.fg.</ls> {#°दान#} 
 <ls>Verz. d. Oxf. H. 85,b,27.</ls> 
 <div n="2">— b) {%eine specifische Eigenschaft%}: {#विशेषाः पञ्च भूतानाम्#} 
-<ls>MBH. 14, 984. 1404.</ls> {#अविशेष #}
+<ls>MBH. 14, 984.</ls> <ls n="MBH. 14,">1404.</ls> {#अविशेष #}
 [Page6-1216]
 {# आत्मनि#} 
 <ls>BHĀG. P. 1, 10, 21. 4, 9, 13.</ls> 
@@ -97,14 +97,14 @@
 <ls>VIKR. 22.</ls> {#मणि°#} 
 <ls>142.</ls> {#इक्षोरग्रात्क्रमशः पर्वणि पर्वणि यथा रसविशेषः#} 
 <ls>Spr. (II) 1088.</ls> {#पात्र°#} 
-<ls>(I) 1785.</ls> {#कविजनविशेषैः#} 
+(<ls>I) 1785.</ls> {#कविजनविशेषैः#} 
 <ls>3297.</ls> <ls>RĀJA-TAR. 4, 423. 5, 306.</ls> Auch voranstehend im comp.: {#°प्रतिपत्तिभिः#} {%mit ausserordentlichen Ehrenbezeigungen%} 
 <ls>RAGH. 15, 12.</ls> {#°विक्रमरुचि#} 
 <ls>Spr. 3159.</ls> {#विशेषेण#} {%gar sehr, vorzüglich, vornehmlich, besonders, vor Allem, zumal%} 
 <ls>M. 7, 150. 11, 11.</ls> 
-<ls>MBH. 3, 1855. 2126.</ls> 
+<ls>MBH. 3, 1855.</ls> <ls n="MBH. 3,">2126.</ls> 
 <ls>R. 1, 77, 28. 4, 35, 12.</ls> 
-<ls>KĀM. NĪTIS. 11, 57.</ls> <ls>Spr. (II) 900. 2364.</ls> <ls>ŚĀK. 66, 5.</ls> <ls>VARĀH. BṚH. S. 90, 4.</ls> <ls>KATHĀS. 24, 204. 33, 75.</ls> <ls>MĀRK. P. 75, 38.</ls> <ls>BRAHMA-P.</ls> in <ls>LA. (III) 56, 16.</ls> <ls>PRAB. 62, 9.</ls> <ls>PAÑCAT. 142, 15.</ls> {#विशेषात्#} dass. 
+<ls>KĀM. NĪTIS. 11, 57.</ls> <ls>Spr. (II) 900.</ls> <ls n="Spr. (II)">2364.</ls> <ls>ŚĀK. 66, 5.</ls> <ls>VARĀH. BṚH. S. 90, 4.</ls> <ls>KATHĀS. 24, 204. 33, 75.</ls> <ls>MĀRK. P. 75, 38.</ls> <ls>BRAHMA-P. in LA. (III) 56, 16.</ls> <ls>PRAB. 62, 9.</ls> <ls>PAÑCAT. 142, 15.</ls> {#विशेषात्#} dass. 
 <ls>ŚĀK. 120.</ls> 
 <ls>Spr. 1542. 2299. 2848.</ls> 
 <ls>KATHĀS. 72, 332.</ls> 
@@ -121,7 +121,7 @@ u.s.w. <ls>VARĀH. BṚH. S. 5, 1.</ls>
 <ls>ŚĀK. 41, 2.</ls> 
 <div n="2">— e) in der Rhetorik {%Specialisirung, Varirung%}: {#यदेकं वस्त्वनेकत्र वर्ण्यते#}, z. B. {#अन्तर्बहिः पुरः पश्चात्सर्वदिक्ष्वपि सैव मे#} 
 <ls>KUVALAY. 110,a.</ls> 
-<div n="2">— f) {%ein unterscheidendes Sectenzeichen, Stirnzeichen%} überh. (=  {#तिलक#}) 
+<div n="2">— f) {%ein unterscheidendes Sectenzeichen, Stirnzeichen%} überh. (= {#तिलक#}) 
 <ls>HĀR. 257.</ls> 
 <div n="2">— g) Bez. {%der Elemente%} {#(महाभूत): महदाद्यं विशेषान्तं लिङ्गम्#} 
 <ls>MAITRYUP. 6, 10.</ls> <ls>SĀṂKHYAK. 38. 41. 56.</ls> <ls>VP.</ls> bei <ls>MUIR, ST. 4, 34.</ls> sg. {%Erde als Element%} 

@@ -1,4 +1,4 @@
 <L>18726<pc>577<k1>recognizable<k2>recognizable
-<div n="lb"/>{@RECOGNIZABLE:@}¦ <div n="1">(1) {#अभिज्ञेयः#} ({#या, यं#}), {#प्रति-;#}</div>
-<div n="lb"/><div n="1">(2) {#संवेद्य#} (f. {#द्या#}) <div n="xe">{%or%}</div> <div n="xs">{#-दनीय#}</div> (f. {#या#}), {#प्रति-#} (rare).</div>
+{@RECOGNIZABLE:@}¦ <div n="1">(1) {#अभिज्ञेयः#} ({#या, यं#}), {#प्रति-;#}</div>
+<div n="1">(2) {#संवेद्य#} (f. {#द्या#}) <div n="xe">{%or%}</div> <div n="xs">{#-दनीय#}</div> (f. {#या#}), {#प्रति-#} (rare).</div>
 <LEND>

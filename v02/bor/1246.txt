@@ -1,9 +1,9 @@
 <L>1246<pc>044<k1>associate<k2>associate
-<div n="lb"/>{@ASSOCIATE, WITH:@}¦ {#संसर्गं करोति#} <div n="xe">{%or%}</div> <div n="xs">{#व्रजति#}</div> {%or%}
-<div n="lb"/>{#संसृजति#} ({#सृज्,#} c. 8.) (rare) (with ins. {%or%} ins.
-<div n="lb"/>and {#सह#}): Ph. {%leave off a. ing with bad men%}
-<div n="lb"/>{#असत्सङ्गं परिहर;#} <div n="xe">{%a. ion with lewd women%}</div> <div n="xs">{#संसर्गः सह#}</div>
-<div n="lb"/>{#पुंश्चलीमिः;#} <div n="xe">{%by a. ing with inferior men%}</div> <div n="xs">{#हीनैः सह #}
-<div n="lb"/>{# समागमात्;#}</div> <div n="xe">{%a. ing with the fallen%}</div> <div n="xs">{#पतितेन#}
-<div n="lb"/>{# सहाचरन्।#}</div>
+{@ASSOCIATE, WITH:@}¦ {#संसर्गं करोति#} <div n="xe">{%or%}</div> <div n="xs">{#व्रजति#}</div> {%or%}
+{#संसृजति#} ({#सृज्,#} c. 8.) (rare) (with ins. {%or%} ins.
+and {#सह#}): Ph. {%leave off a. ing with bad men%}
+{#असत्सङ्गं परिहर;#} <div n="xe">{%a. ion with lewd women%}</div> <div n="xs">{#संसर्गः सह#}</div>
+{#पुंश्चलीमिः;#} <div n="xe">{%by a. ing with inferior men%}</div> <div n="xs">{#हीनैः सह #}
+{# समागमात्;#}</div> <div n="xe">{%a. ing with the fallen%}</div> <div n="xs">{#पतितेन#}
+{# सहाचरन्।#}</div>
 <LEND>

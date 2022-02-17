@@ -1,4 +1,4 @@
 <L>9895<pc>312<k1>girth<k2>girth
-<div n="lb"/>{@GIRTH:@}¦ <div n="I">I Of a horse: </div><div n="1">(1) {#वरत्रा;#} </div><div n="1">(2) {#वर्द्ध्रम्।#}</div>
-<div n="lb"/><div n="I">II The middle: {#मध्यम्।#}</div>
+{@GIRTH:@}¦ <div n="I">I Of a horse: </div><div n="1">(1) {#वरत्रा;#} </div><div n="1">(2) {#वर्द्ध्रम्।#}</div>
+<div n="I">II The middle: {#मध्यम्।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>6900<pc>220<k1>draw on<k2>draw on
-<div n="lb"/>{@DRAW ON:@}¦ <div n="I">I To draw in: q. v. </div><div n="I">II To
-<div n="lb"/>draw near: q. v. </div><div n="I">III <div n="xe">{%To make a draft to d.%}
-<div n="lb"/>{%on the Bank of Bengal:%}</div> <div n="xs">{#*वङ्गधनागारात् निष्कर्षति।#}</div></div>
+{@DRAW ON:@}¦ <div n="I">I To draw in: q. v. </div><div n="I">II To
+draw near: q. v. </div><div n="I">III <div n="xe">{%To make a draft to d.%}
+{%on the Bank of Bengal:%}</div> <div n="xs">{#*वङ्गधनागारात् निष्कर्षति।#}</div></div>
 <LEND>

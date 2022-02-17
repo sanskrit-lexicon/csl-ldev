@@ -13,11 +13,11 @@
 <ls>ṚV. 1, 64, 8.</ls> <ls n="ṚV.">10, 67, 9.</ls> <ls n="ṚV.">1, 95, 5.</ls> <ls n="ṚV. 1,">174, 3.</ls> {#नानद#} 
 <ls n="ṚV.">3, 2, 11.</ls> <ls n="ṚV. 3,">9, 4.</ls> <ls n="ṚV. 3,">26, 5.</ls> {#सि\ंहस्य^ स्त\नथा^ः#} 
 <ls n="ṚV.">5, 83, 3.</ls> <ls n="ṚV. 5,">74, 4.</ls> <ls n="ṚV.">9, 89, 3.</ls> <ls n="ṚV.">10, 28, 10.</ls> {#भीम#} 
-?<ls n="ṚV.">4, 16, 14.</ls> <ls n="ṚV.">9, 97, 28.</ls> <ls>VS. 14, 9.</ls> <ls>AV. 4, 36, 6. 5, 20, 1. 2. 21, 6. 8, 7, 15.</ls> <ls>KĀṬH. 12, 10 in Ind. St. 3, 464.</ls> <ls>ŚAT. BR. 5, 5, 4, 10.</ls> {#°लोम/न्#} 
+?<ls n="ṚV.">4, 16, 14.</ls> <ls n="ṚV.">9, 97, 28.</ls> <ls>VS. 14, 9.</ls> <ls>AV. 4, 36, 6. 5, 20, 1. 2. 21, 6. 8, 7, 15.</ls> <ls>KĀṬH. 12, 10</ls> in <ls>Ind. St. 3, 464.</ls> <ls>ŚAT. BR. 5, 5, 4, 10.</ls> {#°लोम/न्#} 
 <ls>18. 12, 7, 1, 8. 2, 8. 9, 1, 6.</ls> <ls>KAUŚ. 13.</ls> <ls>KĀTY. ŚR. 19, 2, 22.</ls> <ls>TS. 5, 5, 21, 1.</ls> wird zu den {#गुहाशय#} gerechnet 
 <ls>SUŚR. 1, 202, 9.</ls> 
 <ls>RĀJAN. 19, 1.</ls> zu der {#मध्यमा तामसी गतिः#} 
-<ls>M. 12, 43. -</ls> <ls>MBH. 3, 2402.</ls> {#स प्रविश्याश्रमं पुण्यं सिंहगोष्ठं वृको यथा#} 
+<ls>M. 12, 43.</ls> - <ls>MBH. 3, 2402.</ls> {#स प्रविश्याश्रमं पुण्यं सिंहगोष्ठं वृको यथा#} 
 <ls>15618. 12, 4285.</ls> <ls>R. 3, 53, 46.</ls> <ls>RAGH. 2, 27.</ls> {#सिंहवत्पराक्रमेत्#} 
 <ls>Spr. (II) 4378.</ls> {#अपमाने त्रयो यान्ति सिंहाः सत्पुरुषा गजाः#} 
 <ls>2638. 7224.</ls> der Donner erschreckt ihn 
@@ -29,7 +29,7 @@
 <ls>7044.</ls> tödtet <is>Pāṇini</is> 
 <ls>7045.</ls> besiegt den Elephanten 
 <ls>7038. 7040. 7504.</ls> dem Schakal gegenüber 
-<ls>?7042. - VARĀH. BṚH. S. 43. 57. 48, 13. KATHĀS. 70, 101. RĀJA-TAR. 4, 450.</ls> {#°दंपती#} 
+<ls>7042.</ls> - <ls>VARĀH. BṚH. S. 43. 57. 48, 13.</ls> <ls>KATHĀS. 70, 101.</ls> <ls>RĀJA-TAR. 4, 450.</ls> {#°दंपती#} 
 <ls>PAÑCAT. 218, 21.</ls> {#सिंहान्योक्तयः#} 
 <ls>Verz. d. Oxf. H. 123,a,46.</ls> mit dem <is>Ātman</is> identificirt 
 <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 104. 144. 158. 162.</ls> {#अद्भुत°#} <is>Viṣṇu</is> 
@@ -61,10 +61,10 @@ zu <ls>P. 2, 1, 56.</ls> <ls>AK. 3, 2, 9.</ls> <ls>TRIK.</ls> <ls>H. 1440.</ls> 
 <ls>P. 5, 3, 81, Schol.</ls> ein Sohn <is>Kṛṣṇa's</is> 
 <ls>BHĀG. P. 10, 61, 15.</ls> ein Fürst der <is>Vidyādhara</is> 
 <ls>KATHĀS. 106, 37.</ls> ein Kaufmann 
-<ls>BURNOUF,</ls> <ls>?Intr. 223. HIOUEN-THSANG 2, 132. - Lot. de la b. l. 2. SCHIEFNER, Lebensb. 268 (38). WASSILYEW 52. fg. 208. TĀRAN. 3. 58. 146. 158. 299. 306. fg. RĀJA-TAR. 8, 959. 1008. 1047.</ls> {#°भूभृत्#} 
+<ls>BURNOUF, Intr. 223.</ls> <ls>HIOUEN-THSANG 2, 132.</ls> - <ls>Lot. de la b. l. 2.</ls> <ls>SCHIEFNER, Lebensb. 268 (38).</ls> <ls>WASSILYEW 52. fg. 208.</ls> <ls>TĀRAN. 3. 58. 146. 158. 299. 306. fg.</ls> <ls>RĀJA-TAR. 8, 959. 1008. 1047.</ls> {#°भूभृत्#} 
 <ls>2008.</ls> {#°महीपति#} 
 <ls>2021.</ls> {#°नृप#} 
-<ls>Verz. d. Oxf. H. 280</ls>, {%b%}, 14. 
+<ls>Verz. d. Oxf. H. 280,b,14.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#आ = नाडी#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#ई#} 
@@ -100,7 +100,7 @@ zu <ls>P. 2, 1, 56.</ls> <ls>AK. 3, 2, 9.</ls> <ls>TRIK.</ls> <ls>H. 1440.</ls> 
 <div n="v">— Vgl. {#अमर°, ग्राम°, तृण°, धृति°, नर°, नृ°, पक्षि°, पुरुष°, बाल°, बुद्ध°, भ्रातृ°, मदन°, मनोहर°, महा°#} ({%ein grosser Löwe%} auch 
 <ls>MBH. 3, 2193</ls>), {#महेन्द्र°, माधव°, मान°, राज°#} (in Bed. 
 <div n="1"> 1) auch 
-<ls>MBH. 4, 285. 12, 725.</ls> 
+<ls>MBH. 4, 285.</ls> <ls n="MBH.">12, 725.</ls> 
 <ls>R. 1, 62, 21. fg. 3, 42, 20.</ls> 
 <ls>RĀJA-TAR. 4, 450</ls>), {#राम°, रुद्र°, विक्रम°, विजय°, विश्व°, विष्णु°, विहारि°, शक्ति°, शाक्य°, शिव°, शूर°, शृङ्गार°, शोभा°, संग्राम°, सबल°, सभा°, हेम्मत°, मातृसिंही, श्वेत°, सित°, सैंह#} .
 <LEND>

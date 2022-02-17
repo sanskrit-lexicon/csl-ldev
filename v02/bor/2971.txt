@@ -1,6 +1,6 @@
 <L>2971<pc>100<k1>candid<k2>candid
-<div n="lb"/>{@CANDID:@}¦ <div n="I">I White: {#विशदः#} ({#दा, दं#}). </div><div n="I">II Fair
-<div n="lb"/>frank, sincere: q. v.: </div><div n="1">(1) {#न्याय्यः#} ({#य्या, य्यं#}
-<div n="lb"/>(=fair); </div><div n="1">(2) {#स्फुटभाषिन्#} (f. {#णी#}) (=frank)</div>
-<div n="lb"/><div n="1">(3) {#निष्कपटः#} ({#टा, टं#}) (sincere).</div>
+{@CANDID:@}¦ <div n="I">I White: {#विशदः#} ({#दा, दं#}). </div><div n="I">II Fair
+frank, sincere: q. v.: </div><div n="1">(1) {#न्याय्यः#} ({#य्या, य्यं#}
+(=fair); </div><div n="1">(2) {#स्फुटभाषिन्#} (f. {#णी#}) (=frank)</div>
+<div n="1">(3) {#निष्कपटः#} ({#टा, टं#}) (sincere).</div>
 <LEND>

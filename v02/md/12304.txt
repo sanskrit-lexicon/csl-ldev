@@ -1,10 +1,10 @@
 <L>12304<pc>182-2<k1>प्रश्लित<k2>प्रश्लित
 {#प्रश्लित#}¦pra-ślita, {%pp.%} (= śrita), changing 'as' 
-<>to 'o' before sonant letters (saṃdhi); {@-śliṣṭa@}, 
-<>{%pp.%} slurred, coalescent ({%euphonic combination %}<lbinfo n="7"/>
-<>{% of%} a {%or%} ā {%with a following vowel or of %}
-<>{%other vowels with homogeneous ones%}); vowel 
-<>{%resulting from%} coalescence {%or%} accent of a 
-<>coalescent vowel ({%gr.%}); {@-śleṣa@}, {%m.%} close contact <lbinfo n="3"/>
-<> {%or%} pressure; coalescence ({%of vowels%}).
+to 'o' before sonant letters (saṃdhi); {@-śliṣṭa@}, 
+{%pp.%} slurred, coalescent ({%euphonic combination %}<lbinfo n="7"/>
+{% of%} a {%or%} ā {%with a following vowel or of %}
+{%other vowels with homogeneous ones%}); vowel 
+{%resulting from%} coalescence {%or%} accent of a 
+coalescent vowel ({%gr.%}); {@-śleṣa@}, {%m.%} close contact <lbinfo n="3"/>
+ {%or%} pressure; coalescence ({%of vowels%}).
 <LEND>

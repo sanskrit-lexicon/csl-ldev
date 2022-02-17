@@ -1,12 +1,12 @@
 <L>20779<pc>652<k1>slow<k2>slow
-<div n="lb"/>{@SLOW:@}¦ <div n="1">(1) {#मन्द#} (f. {#न्दा#}), <div n="xe">{%s. motion:%}</div> <div n="xs">{#मन्दगतिः,#}</div>
-<div n="lb"/>P. h.; <div n="xe">{%s. digestion:%}</div> <div n="xs">{#मन्दाग्निः,#}</div> Sr.; <div n="xe">{%having s.%}
-<div n="lb"/>{%poison:%}</div> <div n="xs">{#मन्दविषः,#}</div> J.; <div n="xe">{%being s. I did not see that%}
-<div n="lb"/>{%my companions would perceive it:%}</div> <div n="xs">{#सखीजनोऽप्युप-#}
-<div n="lb"/>{#लक्षयतीति मन्दया न लक्षितम्,#}</div> H.; {%to help s. minds:%}
-<div n="lb"/>{#मन्दात्मानुजिघृक्षया,#} K.; <div n="xe">{%are not s.:%}</div> <div n="xs">{#न मन्दायन्ते,#}</div>
-<div n="lb"/>Me. i. 41.; </div><div n="1">(2) {#मन्थर#} (f. {#रा#}), {%the s. maid:%}
-<div n="lb"/>{#मन्थरा,#} Ram.; <div n="xe">{%s. to recognize:%}</div> <div n="xs">{#प्रत्यभिज्ञानमन्थर#}</div>
-<div n="lb"/>(f. {#रा#}), Sa. iv.; </div><div n="1">(3) {#बिलम्बित#} (f. {#ता#} = de-
-<div n="lb"/>-layed), <div n="xe">{%quick and s.:%}</div> <div n="xs">{#द्रुतबिलम्बित-,#}</div> P. h.</div>
+{@SLOW:@}¦ <div n="1">(1) {#मन्द#} (f. {#न्दा#}), <div n="xe">{%s. motion:%}</div> <div n="xs">{#मन्दगतिः,#}</div>
+P. h.; <div n="xe">{%s. digestion:%}</div> <div n="xs">{#मन्दाग्निः,#}</div> Sr.; <div n="xe">{%having s.%}
+{%poison:%}</div> <div n="xs">{#मन्दविषः,#}</div> J.; <div n="xe">{%being s. I did not see that%}
+{%my companions would perceive it:%}</div> <div n="xs">{#सखीजनोऽप्युप-#}
+{#लक्षयतीति मन्दया न लक्षितम्,#}</div> H.; {%to help s. minds:%}
+{#मन्दात्मानुजिघृक्षया,#} K.; <div n="xe">{%are not s.:%}</div> <div n="xs">{#न मन्दायन्ते,#}</div>
+Me. i. 41.; </div><div n="1">(2) {#मन्थर#} (f. {#रा#}), {%the s. maid:%}
+{#मन्थरा,#} Ram.; <div n="xe">{%s. to recognize:%}</div> <div n="xs">{#प्रत्यभिज्ञानमन्थर#}</div>
+(f. {#रा#}), Sa. iv.; </div><div n="1">(3) {#बिलम्बित#} (f. {#ता#} = de-
+-layed), <div n="xe">{%quick and s.:%}</div> <div n="xs">{#द्रुतबिलम्बित-,#}</div> P. h.</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>6666<pc>213<k1>diversity<k2>diversity
-<div n="lb"/>{@DIVERSITY:@}¦ <div n="I">I Dissimilitude: {#भिन्नता।#} </div><div n="I">II
-<div n="lb"/>Variety: {#नानाविधत्वम्;#} better by adj. </div><div n="I">III
-<div n="lb"/>Distinctness: {#पृथक्त्वम्।#}</div>
+{@DIVERSITY:@}¦ <div n="I">I Dissimilitude: {#भिन्नता।#} </div><div n="I">II
+Variety: {#नानाविधत्वम्;#} better by adj. </div><div n="I">III
+Distinctness: {#पृथक्त्वम्।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>18938<pc>585<k1>reluctant<k2>reluctant
-<div n="lb"/>{@RELUCTANT:@}¦ <div n="1">(1) {#अनिच्छु#} (mfn.), {#-क#} (f. {#का#});</div>
-<div n="lb"/><div n="1">(2) {#विमनस्#} (mfn.); </div><div n="1">(3) {#विरक्त#} (f. {#क्ता#} = averse);</div>
-<div n="lb"/><div n="1">(4) {#असन्तुष्ट#} (f. {#ष्टा#} = dissatisfied).</div>
+{@RELUCTANT:@}¦ <div n="1">(1) {#अनिच्छु#} (mfn.), {#-क#} (f. {#का#});</div>
+<div n="1">(2) {#विमनस्#} (mfn.); </div><div n="1">(3) {#विरक्त#} (f. {#क्ता#} = averse);</div>
+<div n="1">(4) {#असन्तुष्ट#} (f. {#ष्टा#} = dissatisfied).</div>
 <LEND>

@@ -1,12 +1,12 @@
 <L>10853<pc>342<k1>help<k2>help
-<div n="lb"/>{@HELP@}¦ (v.): <div n="I">I To assist: {#साहाय्यं#} ({#कं#}) {#करोति,#} <div n="xe">{%I%}
-<div n="lb"/>{%will h. you:%}</div> <div n="xs">{#साहाय्यं वः करिष्यामि,#}</div> </div><div n="I">V p. v. 11. 5.;
-<div n="lb"/><div n="xe">{%the spring will of course h. you:%}</div> <div n="xs">{#मधुस्ते सहाय एव,#}</div>
-<div n="lb"/>Ku. iii. 21. Ph.: {%‘so h. me God’%} (in oaths):
-<div n="lb"/>perh. {#प्रसीद भगवन्।#} </div><div n="I">II To avoid, prevent: q.v.:
-<div n="lb"/><div n="xe">{%I cant's h. saying:%}</div> <div n="xs">{#मयावश्य वक्तव्यम्:#}</div> v. Must; <div n="xe">{%what%}
-<div n="lb"/>{%can I h.:%}</div> <div n="xs">{#किं करोमि,#}</div> K.; {%this evil cannot be h. ed%}
-<div n="lb"/>(lit. has no remedy): {#निष्प्रतीकारेयमापत्,#} K. </div><div n="I">III
-<div n="lb"/>At table: {#परिवेषयति#} ({#विष्,#} c. 10.) (= to
-<div n="lb"/>serve); perh. {#ददाति#} ({#दा,#} c. 3.).</div>
+{@HELP@}¦ (v.): <div n="I">I To assist: {#साहाय्यं#} ({#कं#}) {#करोति,#} <div n="xe">{%I%}
+{%will h. you:%}</div> <div n="xs">{#साहाय्यं वः करिष्यामि,#}</div> </div><div n="I">V p. v. 11. 5.;
+<div n="xe">{%the spring will of course h. you:%}</div> <div n="xs">{#मधुस्ते सहाय एव,#}</div>
+Ku. iii. 21. Ph.: {%‘so h. me God’%} (in oaths):
+perh. {#प्रसीद भगवन्।#} </div><div n="I">II To avoid, prevent: q.v.:
+<div n="xe">{%I cant's h. saying:%}</div> <div n="xs">{#मयावश्य वक्तव्यम्:#}</div> v. Must; <div n="xe">{%what%}
+{%can I h.:%}</div> <div n="xs">{#किं करोमि,#}</div> K.; {%this evil cannot be h. ed%}
+(lit. has no remedy): {#निष्प्रतीकारेयमापत्,#} K. </div><div n="I">III
+At table: {#परिवेषयति#} ({#विष्,#} c. 10.) (= to
+serve); perh. {#ददाति#} ({#दा,#} c. 3.).</div>
 <LEND>

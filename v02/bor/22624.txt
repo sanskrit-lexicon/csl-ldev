@@ -1,4 +1,4 @@
 <L>22624<pc>714<k1>title-deed<k2>title-deed
-<div n="lb"/>{@TITLE-DEED:@}¦ <div n="1">(1) {#आगमः, -पत्रम्;#} </div><div n="1">(2) {#पट्टोलिका#}
-<div n="lb"/>(rare).</div>
+{@TITLE-DEED:@}¦ <div n="1">(1) {#आगमः, -पत्रम्;#} </div><div n="1">(2) {#पट्टोलिका#}
+(rare).</div>
 <LEND>

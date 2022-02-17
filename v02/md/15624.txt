@@ -1,13 +1,13 @@
 <L>15624<pc>263-3<k1>लुठ्<k2>लुठ्<h>1
 {#लुठ्#}¦LUṬH, VI.P. {@luṭha@}, wallow, roll; 
-<>move about, flutter, dangle; touch; agitate: <lbinfo n="3"/>
-<> {%pp.%} {@luṭhita@}, rolling; {%cs.%} {@loṭhaya@}, P. 
-<>set in motion, agitate; {%des.%} {@luluṭhiṣa@}, Ā. 
-<>be about to roll; {%intv.%} {@loluṭhīti@}, roll about 
-<>({%of a drunken man%}). {@ud@} ({@ulluṭhati@}), move 
-<>convulsively. {@nis,@} {%pp.%} {@nirluṭhita@}, having 
-<>rolled down; issuing ({%from the womb%}); {%cs.%} 
-<>roll down ({%tr.%}). {@pari-nis,@} roll down ({%int.%}). 
-<>{@pari,@} roll about. {@pra,@} roll ({%on the ground%}). 
-<>{@vi,@} roll {%or%} dart about.
+move about, flutter, dangle; touch; agitate: <lbinfo n="3"/>
+ {%pp.%} {@luṭhita@}, rolling; {%cs.%} {@loṭhaya@}, P. 
+set in motion, agitate; {%des.%} {@luluṭhiṣa@}, Ā. 
+be about to roll; {%intv.%} {@loluṭhīti@}, roll about 
+({%of a drunken man%}). {@ud@} ({@ulluṭhati@}), move 
+convulsively. {@nis,@} {%pp.%} {@nirluṭhita@}, having 
+rolled down; issuing ({%from the womb%}); {%cs.%} 
+roll down ({%tr.%}). {@pari-nis,@} roll down ({%int.%}). 
+{@pari,@} roll about. {@pra,@} roll ({%on the ground%}). 
+{@vi,@} roll {%or%} dart about.
 <LEND>

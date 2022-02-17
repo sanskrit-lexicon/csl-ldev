@@ -1,8 +1,8 @@
 <L>31402<pc>840-b<k1>whole<k2>whole
-<div n="lb"/>WHOLE¦, {%a.%} {#सर्व्वः -र्व्वा -र्व्वं, सकलः -ला -लं, समग्रः -ग्रा -ग्रं, विश्वः -श्वा#}
-<div n="lb"/>{#-श्वं, कृत्स्नः -त्स्ना -त्स्नं;#} ‘the whole earth,’ {#सर्व्वमही;#} ‘the whole
-<div n="lb"/>world,’ {#सर्व्वलोकः;#} ‘the whole night,’ {#सर्व्वरात्रः;#} ‘the whole
-<div n="lb"/>day,’ {#सर्व्वाह्लः;#} ‘the whole business from beginning to end,’
-<div n="lb"/>{#साद्यन्तं कर्म्म, आगमनिर्गमौ#} {%m. du.;%} ‘for the whole month,’
-<div n="lb"/>{#मासपर्य्यन्तं;#} ‘whole number,’ {#अभिन्नसंख्या#}.
+WHOLE¦, {%a.%} {#सर्व्वः -र्व्वा -र्व्वं, सकलः -ला -लं, समग्रः -ग्रा -ग्रं, विश्वः -श्वा#}
+{#-श्वं, कृत्स्नः -त्स्ना -त्स्नं;#} ‘the whole earth,’ {#सर्व्वमही;#} ‘the whole
+world,’ {#सर्व्वलोकः;#} ‘the whole night,’ {#सर्व्वरात्रः;#} ‘the whole
+day,’ {#सर्व्वाह्लः;#} ‘the whole business from beginning to end,’
+{#साद्यन्तं कर्म्म, आगमनिर्गमौ#} {%m. du.;%} ‘for the whole month,’
+{#मासपर्य्यन्तं;#} ‘whole number,’ {#अभिन्नसंख्या#}.
 <LEND>

@@ -1,6 +1,6 @@
 <L>24218<pc>758<k1>welcome<k2>welcome
-<div n="lb"/>{@WELCOME@}¦ (subs.): <div n="I">I Lit.: {#स्वागतम्,#} <div n="xe">{%w. to you%}
-<div n="lb"/>{%sir:%}</div> <div n="xs">{#स्वागतमार्याय,#}</div> Mr. i.; <div n="xe">{%bade him w.:%}</div> <div n="xs">{#तस्मै #}
-<div n="lb"/>{# स्वागतं व्याजहार,#}</div> Me. i. 4. </div><div n="I">II Fig.: {#सभाजनम्:#}
-<div n="lb"/>v. Greeting, salute, honour.</div>
+{@WELCOME@}¦ (subs.): <div n="I">I Lit.: {#स्वागतम्,#} <div n="xe">{%w. to you%}
+{%sir:%}</div> <div n="xs">{#स्वागतमार्याय,#}</div> Mr. i.; <div n="xe">{%bade him w.:%}</div> <div n="xs">{#तस्मै #}
+{# स्वागतं व्याजहार,#}</div> Me. i. 4. </div><div n="I">II Fig.: {#सभाजनम्:#}
+v. Greeting, salute, honour.</div>
 <LEND>

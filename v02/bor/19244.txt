@@ -1,7 +1,7 @@
 <L>19244<pc>596<k1>revenue<k2>revenue
-<div n="lb"/>{@REVENUE:@}¦ <div n="1">(1) {#करः,#} <div n="xe">{%annual r.:%}</div> <div n="xs">{#आब्दिकः करः,#}</div> M.
-<div n="lb"/>vii. 129.; </div><div n="1">(2) {#बलिः,#} {%he took r. from them:%}
-<div n="lb"/>{#स ताभ्यो बलिमग्रहीत्,#} R. i. 18.; </div><div n="1">(3) {#भागधेयः#}
-<div n="lb"/>(rare), A.; </div><div n="1">(4) {#राजस्वम्#} (royal): v. Also
-<div n="lb"/>fruit, produce.</div>
+{@REVENUE:@}¦ <div n="1">(1) {#करः,#} <div n="xe">{%annual r.:%}</div> <div n="xs">{#आब्दिकः करः,#}</div> M.
+vii. 129.; </div><div n="1">(2) {#बलिः,#} {%he took r. from them:%}
+{#स ताभ्यो बलिमग्रहीत्,#} R. i. 18.; </div><div n="1">(3) {#भागधेयः#}
+(rare), A.; </div><div n="1">(4) {#राजस्वम्#} (royal): v. Also
+fruit, produce.</div>
 <LEND>

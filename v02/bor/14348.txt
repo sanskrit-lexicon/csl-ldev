@@ -1,6 +1,6 @@
 <L>14348<pc>440<k1>meanly<k2>meanly
-<div n="lb"/>{@MEANLY:@}¦ <div n="I">I Humbly: <div n="xe">{%m. born:%}</div> <div n="xs">{#अपजातः#}</div> ({#ता, #}
-<div n="lb"/>{# तं#}); <div n="xe">{%m. clad:%}</div> <div n="xs">{#कृपणवेषः#}</div> ({#षा, षं#}), etc. </div><div n="I">II
-<div n="lb"/>Dishonourably: {#नीचम्#} <div n="xe">{%or%}</div> <div n="xs">{#नीच#}</div>- in comp. </div><div n="I">III
-<div n="lb"/>Moderately: {#नाधिकम्।#}</div>
+{@MEANLY:@}¦ <div n="I">I Humbly: <div n="xe">{%m. born:%}</div> <div n="xs">{#अपजातः#}</div> ({#ता, #}
+{# तं#}); <div n="xe">{%m. clad:%}</div> <div n="xs">{#कृपणवेषः#}</div> ({#षा, षं#}), etc. </div><div n="I">II
+Dishonourably: {#नीचम्#} <div n="xe">{%or%}</div> <div n="xs">{#नीच#}</div>- in comp. </div><div n="I">III
+Moderately: {#नाधिकम्।#}</div>
 <LEND>

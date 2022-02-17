@@ -1,5 +1,5 @@
 <L>23724<pc>743<k1>vegetable<k2>vegetable
-<div n="lb"/>{@VEGETABLE@}¦ (subs.): for table: {#शाक#} (mn.),
-<div n="lb"/><div n="xe">{%we shall now speak of v. s:%}</div> <div n="xs">{#शाकान्यत ऊर्ध्वं वक्ष्यामः,#}</div>
-<div n="lb"/>Sr.
+{@VEGETABLE@}¦ (subs.): for table: {#शाक#} (mn.),
+<div n="xe">{%we shall now speak of v. s:%}</div> <div n="xs">{#शाकान्यत ऊर्ध्वं वक्ष्यामः,#}</div>
+Sr.
 <LEND>

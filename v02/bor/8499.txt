@@ -1,4 +1,4 @@
 <L>8499<pc>269<k1>fathom<k2>fathom
-<div n="lb"/>{@FATHOM:@}¦ <div n="I">I Subs.: {#व्यामः#} <div n="xe">{%or%}</div> <div n="xs">{#व्यायामः।#}</div> </div><div n="I">II Verb:
-<div n="lb"/>{#मापयति#} (c. of {#मा#}): v. To measure.</div>
+{@FATHOM:@}¦ <div n="I">I Subs.: {#व्यामः#} <div n="xe">{%or%}</div> <div n="xs">{#व्यायामः।#}</div> </div><div n="I">II Verb:
+{#मापयति#} (c. of {#मा#}): v. To measure.</div>
 <LEND>

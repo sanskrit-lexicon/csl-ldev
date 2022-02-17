@@ -1,4 +1,4 @@
 <L>8256<pc>261<k1>extravasation<k2>extravasation
-<div n="lb"/>{@EXTRAVASATION:@}¦ Ph.: <div n="xe">{%e. of blood:%}</div> <div n="xs">{#रक्तनिर्गमः:#}</div> v.
-<div n="lb"/>Effusion.
+{@EXTRAVASATION:@}¦ Ph.: <div n="xe">{%e. of blood:%}</div> <div n="xs">{#रक्तनिर्गमः:#}</div> v.
+Effusion.
 <LEND>

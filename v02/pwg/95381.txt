@@ -2,7 +2,7 @@
 {#वेदान्त#}¦ (1. {#वेद + अन्त#}) <lex>m.</lex> 
 <div n="1"> 1) {%das Ende des%} <is>Veda</is> 
 <ls>TAITT. ĀR. 10, 12, 17</ls> (s. u. {#वेदादि)#}.{# °ग = वेदपारग#} {%der den%} <is>Veda</is> {%durchstudirt hat, vollkommen vertraut mit dem%} <ab n="?">V.</ab> 
-<ls>MBH. 12, 1224. 13, 1749.</ls> {%Ende des <is>Veda</is>-Studiums%}: {#वेदान्तावभृथप्लुत#} 
+<ls>MBH. 12, 1224.</ls> <ls n="MBH.">13, 1749.</ls> {%Ende des <is>Veda</is>-Studiums%}: {#वेदान्तावभृथप्लुत#} 
 <ls>2, 1908.</ls> 
 <div n="1">— 2) {%ein den Schluss eines%} <is>Veda</is> {%bildender Text, eine%} <is>Upaniṣad</is> (
 <ls>H. 250.</ls> 
@@ -12,11 +12,11 @@
 <ls>ŚVETĀŚV. UP. 6, 22.</ls> {#वेदान्तोपगतं फलम्#} 
 <ls>M. 2, 160.</ls> {#वेदान्ताभिहित#} 
 <ls>6, 83.</ls> {#वेदान्तं विधिवच्छ्रुत्वा#} 
-<ls>?94. MBH. 13, 1080. pl. 4, 1593.</ls> {#सर्वे वेदान्ताः#} 
+<ls n="M. 6,">94.</ls> <ls>MBH. 13, 1080.</ls> pl. <ls n="MBH.">4, 1593.</ls> {#सर्वे वेदान्ताः#} 
 <ls>NĪLAK. 9.</ls> 
 <ls>Ind. St. 1, 19. 2, 172. 208. 3, 386.</ls> 
 <ls>VIKR. 1.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 10.</ls> {#प्रत्यक्षादिप्रमासिद्धविरुद्धार्थाभिधायिनः । वेदान्ता यदि शास्त्राणि बैद्धैः किमपराध्यते ॥#} 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> {#प्रत्यक्षादिप्रमासिद्धविरुद्धार्थाभिधायिनः । वेदान्ता यदि शास्त्राणि बैद्धैः किमपराध्यते ॥#} 
 <ls>PRAB. 20, 17. fg.</ls> 
 <ls>SARVADARŚANAS. 61, 19.</ls> {#वेदान्तयोस्तैत्तिरीयबृहदारण्यसंज्ञयोः#} 
 <ls>Verz. d. Oxf. H. 257,b, N. 6.</ls> {#°निष्ठ#} 
@@ -39,10 +39,10 @@
 <ls>PRAB. 20, 15.</ls> 
 <ls>MADHUS.</ls> in <ls>Ind. St. 1, 13, 8.</ls> Werke, die über den <is>Vedānta</is> handeln: {#°कतक#} 
 <ls>HALL 154. 165.</ls> {#°कल्पतरु#} 
-<ls>?87. COLEBR. Misc. Ess. I,333. Verz. d. Oxf. H. 277,a,13. 292,b,17. Verz. d. Tüb. H. 18.</ls> {#°कल्पतरुटीका#} ebend. {#°कल्पतरुपरिमल#} 
+<ls>87.</ls> <ls>COLEBR. Misc. Ess. I,333.</ls> <ls>Verz. d. Oxf. H. 277,a,13. 292,b,17.</ls> <ls>Verz. d. Tüb. H. 18.</ls> {#°कल्पतरुटीका#} ebend. {#°कल्पतरुपरिमल#} 
 <ls>HALL 88.</ls> 
 <ls>COLEBR. Misc. Ess. I, 333.</ls> {#°कल्पतरुमञ्जरी#} ebend. {#°कल्पलतिका#} 
-<ls>?337. HALL 132. Verz. d. B. H. No. 627. Verz. d. Oxf. 226,b, No. 555.</ls> {#°चिन्तामणि#} 
+<ls>337.</ls> <ls>HALL 132.</ls> <ls>Verz. d. B. H. No. 627.</ls> <ls>Verz. d. Oxf. 226,b, No. 555.</ls> {#°चिन्तामणि#} 
 <ls>HALL 97.</ls> {#°तत्त्वदीपन#} 
 <ls>89.</ls> {#°दीप#} 
 <ls>95.</ls> <ls>Verz. d. Tüb. H. 18.</ls> {#°नयनभूषण#} 
@@ -50,14 +50,14 @@
 <ls>Verz. d. Tüb. H. 18.</ls> {#°परिभाषा#} 
 <ls>19.</ls> <ls>HALL 100.</ls> <ls>COLEBR. Misc. Ess. I, 335.</ls> <ls>MACK. Coll. I, 15.</ls> {#°पारिजात#} 
 <ls>HALL 114.</ls> {#°प्रदीप#} 
-<ls>?92. WILSON, Sel. Works I,43. Verz. d. Oxf. H. 221,b, No. 536.</ls> {#°भाष्य#} 
-<ls>?393,a, No. 90. MACK. Coll. I,15.</ls> {#°रत्नमञ्जूषा#} 
+<ls>92.</ls> <ls>WILSON, Sel. Works I,43.</ls> <ls>Verz. d. Oxf. H. 221,b, No. 536.</ls> {#°भाष्य#} 
+<ls>393,a, No. 90.</ls> <ls>MACK. Coll. I,15.</ls> {#°रत्नमञ्जूषा#} 
 <ls>HALL 114.</ls> {#°रहस्य#} 
 <ls>104.</ls> {#°शतश्लोकी#} 
 <ls>119.</ls> {#°शिखामणि#} 
 <ls>100.</ls> <ls>COLEBR. Misc. Ess. I, 304. 336.</ls> {#°संज्ञाप्रक्रिया#} 
 <ls>HALL 127.</ls> {#°सार#} (zwei Werke dieses Titels) 
-<ls>?92. 95. 101. GILD. Bibl. 421. fg. WILSON, Sel. Works I,43. Verz. d. B. H. No. 619. Verz. d. Oxf. H. 226,a, No. 553. Verz. d. Tüb. H. 19.</ls> {#°सारसंग्रह#} 
+<ls>92. 95. 101.</ls> <ls>GILD. Bibl. 421. fg.</ls> <ls>WILSON, Sel. Works I,43.</ls> <ls>Verz. d. B. H. No. 619.</ls> <ls>Verz. d. Oxf. H. 226,a, No. 553.</ls> <ls>Verz. d. Tüb. H. 19.</ls> {#°सारसंग्रह#} 
 <ls>HALL 101.</ls> {#°सारसार#} 
 <ls>102.</ls> {#°सिंह#} 
 <ls>119.</ls> {#°सिद्धान्त#} 

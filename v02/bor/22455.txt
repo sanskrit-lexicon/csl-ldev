@@ -1,10 +1,10 @@
 <L>22455<pc>708<k1>thirst<k2>thirst
-<div n="lb"/>{@THIRST@}¦ (subs.): <div n="1">(1) {#तृष्णा#} (lit. and fig.), <div n="xe">{%t. for%}
-<div n="lb"/>{%wealth:%}</div> <div n="xs">{#धनागमतृष्णा,#}</div> J.; <div n="xe">{%t., you are still not%}
-<div n="lb"/>{%satisfied:%}</div> <div n="xs">{#तृष्णे नाद्यापि सन्तुष्यसि,#}</div> J.; </div><div n="1">(2) {#पिपासा#}
-<div n="lb"/>(lit.), <div n="xe">{%to quench t.:%}</div> <div n="xs">{#पिपासां प्रतिकर्तुम्,#}</div> D. viii.;
-<div n="lb"/><div n="xe">{%to remove t.:%}</div> <div n="xs">{#पिपासामपनयति,#}</div> D.; {%very great t.:%}
-<div n="lb"/>{#अतिप्रबलपिपासा,#} K.; </div><div n="1">(3) {#उदन्या#} (=2: rare),
-<div n="lb"/><div n="xe">{%quenching of t.:%}</div> <div n="xs">{#उदन्याप्रतीकारः,#}</div> Ve. vi.; </div><div n="1">(4)
-<div n="lb"/>{#तृष्#} <div n="xe">{%or%}</div> <div n="xs">{#तृषा#}</div> (=1: rare).</div>
+{@THIRST@}¦ (subs.): <div n="1">(1) {#तृष्णा#} (lit. and fig.), <div n="xe">{%t. for%}
+{%wealth:%}</div> <div n="xs">{#धनागमतृष्णा,#}</div> J.; <div n="xe">{%t., you are still not%}
+{%satisfied:%}</div> <div n="xs">{#तृष्णे नाद्यापि सन्तुष्यसि,#}</div> J.; </div><div n="1">(2) {#पिपासा#}
+(lit.), <div n="xe">{%to quench t.:%}</div> <div n="xs">{#पिपासां प्रतिकर्तुम्,#}</div> D. viii.;
+<div n="xe">{%to remove t.:%}</div> <div n="xs">{#पिपासामपनयति,#}</div> D.; {%very great t.:%}
+{#अतिप्रबलपिपासा,#} K.; </div><div n="1">(3) {#उदन्या#} (=2: rare),
+<div n="xe">{%quenching of t.:%}</div> <div n="xs">{#उदन्याप्रतीकारः,#}</div> Ve. vi.; </div><div n="1">(4)
+{#तृष्#} <div n="xe">{%or%}</div> <div n="xs">{#तृषा#}</div> (=1: rare).</div>
 <LEND>

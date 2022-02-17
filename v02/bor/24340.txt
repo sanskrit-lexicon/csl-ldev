@@ -1,4 +1,4 @@
 <L>24340<pc>761<k1>wicker<k2>wicker
-<div n="lb"/>{@WICKER:@}¦ <div n="1">(1) {#वैदल#} (f. {#ली#}); </div><div n="1">(2) {#वैणव#} (f. {#वी#}),
-<div n="lb"/><div n="xe">{%w.-work:%}</div> <div n="xs">{#वैदलम्।#}</div></div>
+{@WICKER:@}¦ <div n="1">(1) {#वैदल#} (f. {#ली#}); </div><div n="1">(2) {#वैणव#} (f. {#वी#}),
+<div n="xe">{%w.-work:%}</div> <div n="xs">{#वैदलम्।#}</div></div>
 <LEND>

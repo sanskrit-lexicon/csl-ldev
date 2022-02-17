@@ -1,4 +1,4 @@
 <L>18869<pc>582<k1>regimental<k2>regimental
-<div n="lb"/>{@REGIMENTAL:@}¦ <div n="I">I Adj.: by comp. </div><div n="I">II In pl.,
-<div n="lb"/><div n="xe">{%r. dress:%}</div> <div n="xs">{#वाहिनीवेषः#}</div> (?).</div>
+{@REGIMENTAL:@}¦ <div n="I">I Adj.: by comp. </div><div n="I">II In pl.,
+<div n="xe">{%r. dress:%}</div> <div n="xs">{#वाहिनीवेषः#}</div> (?).</div>
 <LEND>

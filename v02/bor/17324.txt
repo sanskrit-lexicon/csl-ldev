@@ -1,6 +1,6 @@
 <L>17324<pc>530<k1>pole<k2>pole
-<div n="lb"/>{@POLE:@}¦ <div n="I">I A long staff: {#यष्टिः,#} {%golden p.:%}
-<div n="lb"/>{#काञ्चनी यष्टिः,#} Me. </div><div n="I">II Of a carriage: </div><div n="1">(1)
-<div n="lb"/>{#धुर्, -रा#} (f.); </div><div n="1">(2) {#युगन्धरः।#} </div><div n="I">III A measure:
-<div n="lb"/>{#दण्डः।#} </div><div n="I">IV In ast.: {#ध्रुवः, -कः।#}</div>
+{@POLE:@}¦ <div n="I">I A long staff: {#यष्टिः,#} {%golden p.:%}
+{#काञ्चनी यष्टिः,#} Me. </div><div n="I">II Of a carriage: </div><div n="1">(1)
+{#धुर्, -रा#} (f.); </div><div n="1">(2) {#युगन्धरः।#} </div><div n="I">III A measure:
+{#दण्डः।#} </div><div n="I">IV In ast.: {#ध्रुवः, -कः।#}</div>
 <LEND>

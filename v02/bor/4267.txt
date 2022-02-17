@@ -1,5 +1,5 @@
 <L>4267<pc>139<k1>compulsory<k2>compulsory
-<div n="lb"/>{@COMPULSORY:@}¦ <div n="I">I Compelling: expr. by {#बल#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#बलात्कारः,#}</div> <div n="xe">{%c. gift:%}</div> <div n="xs">{#बलाद्दत्तम्,#}</div> M. </div><div n="I">II Obli-
-<div n="lb"/>-gatory: expr. by {#अवश्यम्।#}</div>
+{@COMPULSORY:@}¦ <div n="I">I Compelling: expr. by {#बल#}
+<div n="xe">{%or%}</div> <div n="xs">{#बलात्कारः,#}</div> <div n="xe">{%c. gift:%}</div> <div n="xs">{#बलाद्दत्तम्,#}</div> M. </div><div n="I">II Obli-
+-gatory: expr. by {#अवश्यम्।#}</div>
 <LEND>

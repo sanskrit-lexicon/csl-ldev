@@ -1,4 +1,4 @@
 <L>3346<pc>072-a<k1>buttery<k2>buttery
-<div n="lb"/>BUTTERY¦, {%s.%} (The room where provisions are laid up) {#खाद्य-#}
-<div n="lb"/>{#द्रव्यागारं, विद्यालये पूपनवनीतयवसुरादिकोष्ठकं, कुशूलः, अन्नकोष्ठकं#}.
+BUTTERY¦, {%s.%} (The room where provisions are laid up) {#खाद्य-#}
+{#द्रव्यागारं, विद्यालये पूपनवनीतयवसुरादिकोष्ठकं, कुशूलः, अन्नकोष्ठकं#}.
 <LEND>

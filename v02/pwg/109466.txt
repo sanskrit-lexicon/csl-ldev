@@ -18,7 +18,7 @@
 <ls n="ṚV.">1, 143, 3.</ls> {#गभीर#} 
 <ls n="ṚV.">3, 32, 16.</ls> {#पिन्वमान#} 
 <ls n="ṚV.">6, 52, 4.</ls> {#मातृतमा#} 
-<ls>?3, 33, 3 (vgl. 10, 35, 2).</ls> {#पति\ः सिन्धू^नामसि रे\वती^नाम्#} 
+<ls>3, 33, 3</ls> (vgl. <ls>10, 35, 2</ls>). {#पति\ः सिन्धू^नामसि रे\वती^नाम्#} 
 <ls n="ṚV.">10, 180, 1.</ls> Die {%sieben Flüsse%}, sowohl unbestimmt als auch von {%den arischen Siebenströmen%} gebraucht 
 <ls>ṚV. 1, 35, 8.</ls> <ls n="ṚV. 1,">32, 12.</ls> <ls n="ṚV.">2, 12, 3.</ls> <ls n="ṚV. 2, 12,">12.</ls> <ls n="ṚV.">4, 28, 1.</ls> 
 <ls>VĀLAKH. 6, 4.</ls> 
@@ -26,7 +26,7 @@
 <ls>AV. 4, 6, 2. 6, 3, 1. 61, 3.</ls> {#आर्या^त्स\प्त सिन्धु^षु#} 
 <ls>ṚV. 8, 24, 27.</ls> {#याव^च्च स\प्त सिन्ध^वो वितस्थि\रे#} 
 <ls>VS. 38, 26.</ls> 
-<ls>TS. 3, 2, 6, 1. -</ls> <ls>MUṆḌ. UP. 2, 1, 9.</ls> <ls>MBH. 7, 356.</ls> <ls>R. 1, 1, 17.</ls> <ls>MEGH. 47.</ls> <ls>KUMĀRAS. 3, 6.</ls> <ls>RAGH. 4, 35. 13, 9.</ls> <ls>ŚĀK. 117.</ls> <ls>Spr. (II) 1643. 1716. 2470. 4757.</ls> <ls>AK. 1, 2, 2, 2.</ls> <ls>RĀJA-TAR. 3, 360. 4, 49. 181. 5, 112.</ls> 
+<ls>TS. 3, 2, 6, 1.</ls> - <ls>MUṆḌ. UP. 2, 1, 9.</ls> <ls>MBH. 7, 356.</ls> <ls>R. 1, 1, 17.</ls> <ls>MEGH. 47.</ls> <ls>KUMĀRAS. 3, 6.</ls> <ls>RAGH. 4, 35. 13, 9.</ls> <ls>ŚĀK. 117.</ls> <ls>Spr. (II) 1643.</ls> <ls n="Spr. (II)">1716.</ls> <ls n="Spr. (II)">2470.</ls> <ls n="Spr. (II)">4757.</ls> <ls>AK. 1, 2, 2, 2.</ls> <ls>RĀJA-TAR. 3, 360. 4, 49. 181. 5, 112.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%Fluth%} überh. (auch am Himmel; vgl. {#समुद्र): यु\वमे\तं च^क्रथु\ः सिन्धु^षु प्ल\वम्#} 
 <ls>ṚV. 1, 182, 5.</ls> {#सिन्धु^ं दि\व्य^स्कभायत्#} 
 <ls n="ṚV. 1,">164, 25.</ls> <ls n="ṚV.">2, 15, 6.</ls> {#सिन्धु^र्ह वां र\सया^ सिञ्च\दश्वा^न्#} 
@@ -46,7 +46,7 @@ zu <ls>KUMĀRAS. 3, 26.</ls>
 <ls n="ṚV.">10, 66, 1.</ls> {#अदि^ति\ः सिन्धु^ः पृथि\वी उ\त द्यौः#} 
 <ls n="ṚV.">1, 94, 16.</ls> Stellen wie {#आपो\ न सिन्धु^म\भि यत्सम\क्षर^न्#} 
 <ls n="ṚV.">10, 43, 7.</ls> <ls n="ṚV.">1, 83, 1.</ls> <ls n="ṚV.">5, 11, 5.</ls> sind nach der Anschauung der alten Zeit eher zu der folgenden Bedeutung zu ziehen. Man vergleiche {#हि\मव^त\ः प्र स्र^वन्ति\ सिन्धौ^ समह संग\मः#} 
-<ls>AV. 6, 24, 1. -</ls> <ls>Spr. (II) 1095.</ls> <ls>RĀJA-TAR. 6, 317.</ls> <ls>BHĀG. P. 3, 11, 30. 4, 9, 14. 8, 7, 16. 12, 45. 20, 24</ls> (sieben). 
+<ls>AV. 6, 24, 1.</ls> - <ls>Spr. (II) 1095.</ls> <ls>RĀJA-TAR. 6, 317.</ls> <ls>BHĀG. P. 3, 11, 30. 4, 9, 14. 8, 7, 16. 12, 45. 20, 24</ls> (sieben). 
 <ls>9, 10, 13. 47</ls> (vier). {#भव°#} {%das Meer des weltlichen Daseins%} 
 <ls>1, 6, 35. 3, 21, 14. 4, 23, 39.</ls> {#ज्ञान°#} {%ein Meer von Wissen%} ({#शंकर#}) 
 <ls>PAÑCAR. 1, 2, 7.</ls> {#दया°#} {%ein Meer von Barmherzigkeit%} 
@@ -64,17 +64,17 @@ zu <ls>KUMĀRAS. 3, 26.</ls>
 <ls n="ṚV.">7, 95, 1.</ls> {#येन\ सिन्धु^ं म\हीरपो रथा^ं इव प्रचो\दय^ः#} 
 <ls n="ṚV.">8, 12, 3.</ls> <ls n="ṚV. 8,">25, 14.</ls> <ls n="ṚV. 8,">20, 25.</ls> <ls n="ṚV. 8,">26, 18.</ls> <ls n="ṚV.">10, 64, 9.</ls> {#यथा\ सिन्धु^र्न\दीना\ं साम्रा^ज्यं सुषु\वे वृषा^#} 
 <ls>AV. 14, 1, 43.</ls> {#यस्या^ं समु\द्र उ\त सिन्धु\राप^ः#} 
-<ls>?12,1,3. VS.8,59. MBH.1,3730.3,14229.6,243. 321 (VP. 180).8,2055. HARIV. 9514. 12826. R.1,44,15.4,43,13.7,100,11. RAGH.4,67. VARĀH. BṚH. S.5,66. 80. MĀRK. P. 57,16. RĀJA-TAR.4,391. 534.5,215.6,305. BHĀG. P.5,19,18.6,5,3. PAÑCAT. 79,15. Verz. d. Oxf. H. 149,a,26.</ls> {#°षष्ठीनां नदीनामन्तरालीयाः स्त्रियः#} (vgl. {#पञ्चानां °षष्ठानां नदीनां ये ऽन्तराश्रिताः#} 
-<ls>MBH.</ls><ls>8,2030) 217,b,23. fg.</ls> {#उपसिन्धुगान्धाराः#} 
+<ls>12, 1, 3.</ls> <ls>VS. 8,59.</ls> <ls>MBH. 1, 3730.</ls> <ls n="MBH.">3, 14229.</ls> <ls n="MBH.">6, 243.</ls> <ls n="MBH. 6,">321</ls> (<ls>VP. 180</ls>). <ls n="MBH.">8, 2055.</ls> <ls>HARIV. 9514.</ls> <ls n="HARIV.">12826.</ls> <ls>R. 1,44,15.4,43,13.7,100,11.</ls> <ls>RAGH. 4, 67.</ls> <ls>VARĀH. BṚH. S. 5, 66. 80.</ls> <ls>MĀRK. P. 57, 16.</ls> <ls>RĀJA-TAR. 4, 391. 534. 5, 215. 6, 305.</ls> <ls>BHĀG. P. 5, 19, 18. 6, 5, 3.</ls> <ls>PAÑCAT. 79, 15.</ls> <ls>Verz. d. Oxf. H. 149,a,26.</ls> {#°षष्ठीनां नदीनामन्तरालीयाः स्त्रियः#} (vgl. {#पञ्चानां °षष्ठानां नदीनां ये ऽन्तराश्रिताः#} 
+<ls>MBH. 8, 2030</ls>) <ls>217,b,23. fg.</ls> {#उपसिन्धुगान्धाराः#} 
 <ls>RĀJA-TAR. 1, 66.</ls> der Name wird auch von andern Flüssen gebraucht 
-<ls>MBH. 6, 329</ls> <ls>?(VP. 183). VARĀH. BṚH. S. 16, 10</ls> (in <is>Avanti</is>). 
+<ls>MBH. 6, 329</ls> (<ls>VP. 183</ls>). <ls>VARĀH. BṚH. S. 16, 10</ls> (in <is>Avanti</is>). 
 <ls>MEGH. 30.</ls> 
 <ls>MĀRK. P. 57, 19.</ls> 
 <div n="1">— 5) <lex>m.</lex> {%das am Indus belegene Land und dessen Bewohner%} (pl.) 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#राजा सिन्धूनाम्#} 
 <ls>MBH. 3, 15576.</ls> {#सौवीरान्सह सिन्धुभिः#} 
 <ls>15621.</ls> <ls>BHĀG. P. 5, 12, 6.</ls> {#°पुलिन्दकाः#} 
-<ls>MBH. 6, 348</ls> <ls>?(VP. 186). VARĀH. BṚH. S. 4, 23. 14, 19. 18, 6.</ls> {#लाटसिन्धुविषयप्रभृतीन्#} 
+<ls>MBH. 6, 348</ls> (<ls>VP. 186).</ls> <ls>VARĀH. BṚH. S. 4, 23. 14, 19. 18, 6.</ls> {#लाटसिन्धुविषयप्रभृतीन्#} 
 <ls>69, 11.</ls> {#सिन्धौ#} 
 <ls>VARĀH.</ls> <ls>YOGAYĀTRĀ 3, 19.</ls> {#देशं °नामकम्#} 
 <ls>RAGH. 15, 87.</ls> {#°भर्तर्#} 

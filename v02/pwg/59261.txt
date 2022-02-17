@@ -1,5 +1,5 @@
 <L>59261<pc>5-0671<k1>महीधर<k2>महीधर
-{#महीधर#}¦ {#(म° + धर)#} 
+{#महीधर#}¦ ({#म° + धर#}) 
 <div n="1"> 1) <lex>adj.</lex> {%die Erde tragend%}: {#नाग#} 
 <ls>HARIV. 11556.</ls> {#गज#} 
 <ls>ŚATR. 14, 20.</ls> 
@@ -7,7 +7,7 @@
 <div n="2"> a) {%Berg%} 
 <ls>H. 1027,</ls> 
 <ls>Sch.</ls> 
-<ls>MBH.1,1132.3,2442. 8518.5,55.</ls> 
+<ls>MBH. 1, 1132.</ls> <ls n="MBH.">3, 2442.</ls> <ls n="MBH. 3,">8518.</ls> <ls n="MBH.">5, 55.</ls> 
 <ls>R.2,48,13.6,36,11.</ls> 
 <ls>RAGH.6,52.</ls> 
 <ls>KUMĀRAS.6,89.</ls> 
@@ -21,6 +21,6 @@
 <ls>KATHĀS. 7, 103.</ls> eines Kaufmanns 
 <ls>67, 44.</ls> eines <is>Sūtradhāra</is> Journ. of the Am. Or. 
 <ls>S. 6, 533.</ls> verschiedener Scholiasten (unter Anderen eines der 
-<ls>VS.</ls><ls>?) u.s.w. GILD. Bibl. 80. Verz. d. B. H. No. 542. 640. Verz. d. Oxf. H. 99,a, No. 154. 100,b, No. 155. 172,b, No. 382. 232,b, No. 563. 357,a, No. 848. HALL 122.</ls> 
+<ls>VS.</ls>) u.s.w. <ls>GILD. Bibl. 80.</ls> <ls>Verz. d. B. H. No. 542. 640.</ls> <ls>Verz. d. Oxf. H. 99,a, No. 154. 100,b, No. 155. 172,b, No. 382. 232,b, No. 563. 357,a, No. 848.</ls> <ls>HALL 122.</ls> 
 <div n="v">— Vgl. {#महीध्र#} .
 <LEND>

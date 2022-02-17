@@ -1,5 +1,5 @@
 <L>22527<pc>711<k1>throw up<k2>throw up
-<div n="lb"/>{@THROW UP:@}¦ <div n="1">(1) {#उत्क्षिपति,#} {%t. n up for a moment:%}
-<div n="lb"/>{#क्षणोत्क्षिप्त,#} Si. i. 4.; </div><div n="1">(2) {#उदस्यति,#} <div n="xe">{%t. ing up for-%}
-<div n="lb"/>{%titude:%}</div> <div n="xs">{#उदस्य धैर्यम्,#}</div> Ki. viii. 50.</div>
+{@THROW UP:@}¦ <div n="1">(1) {#उत्क्षिपति,#} {%t. n up for a moment:%}
+{#क्षणोत्क्षिप्त,#} Si. i. 4.; </div><div n="1">(2) {#उदस्यति,#} <div n="xe">{%t. ing up for-%}
+{%titude:%}</div> <div n="xs">{#उदस्य धैर्यम्,#}</div> Ki. viii. 50.</div>
 <LEND>

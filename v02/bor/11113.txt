@@ -1,4 +1,4 @@
 <L>11113<pc>349<k1>home-bred<k2>home-bred
-<div n="lb"/>{@HOME-BRED:@}¦ <div n="I">I Lit.: {#गृहजः#} ({#जा, जं#}) <div n="xe">{%or%}</div> <div n="xs">{#जातः#}</div>
-<div n="lb"/>({#ता, तं#}). </div><div n="I">II Rude: {#ग्राम्य#} (f. {#म्या#}).</div>
+{@HOME-BRED:@}¦ <div n="I">I Lit.: {#गृहजः#} ({#जा, जं#}) <div n="xe">{%or%}</div> <div n="xs">{#जातः#}</div>
+({#ता, तं#}). </div><div n="I">II Rude: {#ग्राम्य#} (f. {#म्या#}).</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>18365<pc>564<k1>quarter<k2>quarter
-<div n="lb"/>{@QUARTER@}¦ (v.): <div n="I">I To divide into four parts:</div>
-<div n="lb"/><div n="1">(1) {#पादीकरोति;#} </div><div n="1">(2) {#चतुर्धा विभजति#} ({#भज्,#} c. 1.).</div>
-<div n="lb"/><div n="I">II To divide q. v.: {#विभजति।#} </div><div n="I">III To
-<div n="lb"/>lodge: q. v.: {#वासयति#} (c. of {#वस्:#} rare; {#वासं #}
-<div n="lb"/>{# ददाति#} ({#दा,#} c. 3.). <div n="xe">{%To be q. ed:%}</div> <div n="xs">{#वसति,#}</div> ({#वस्,#} c.
-<div n="lb"/>1.). </div><div n="I">VI To bear, as arms: {#बिभर्ति#} ({#भृ,#} c.
-<div n="lb"/>3.): v. To bear.</div>
+{@QUARTER@}¦ (v.): <div n="I">I To divide into four parts:</div>
+<div n="1">(1) {#पादीकरोति;#} </div><div n="1">(2) {#चतुर्धा विभजति#} ({#भज्,#} c. 1.).</div>
+<div n="I">II To divide q. v.: {#विभजति।#} </div><div n="I">III To
+lodge: q. v.: {#वासयति#} (c. of {#वस्:#} rare; {#वासं #}
+{# ददाति#} ({#दा,#} c. 3.). <div n="xe">{%To be q. ed:%}</div> <div n="xs">{#वसति,#}</div> ({#वस्,#} c.
+1.). </div><div n="I">VI To bear, as arms: {#बिभर्ति#} ({#भृ,#} c.
+3.): v. To bear.</div>
 <LEND>

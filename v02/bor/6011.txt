@@ -1,5 +1,5 @@
 <L>6011<pc>193<k1>detective<k2>detective
-<div n="lb"/>{@DETECTIVE:@}¦ Ph.: {%d. officer:%} <div n="1">(1) {#चरः#} <div n="xe">{%or%}</div> <div n="xs">{#चारः#}</div>
-<div n="lb"/>(=spy), Ve. vi.; {#सुनिपुणसञ्चारालापादिभिस्तस्करा-#}
-<div n="lb"/>{#दिप्रकाशकः।#}</div>
+{@DETECTIVE:@}¦ Ph.: {%d. officer:%} <div n="1">(1) {#चरः#} <div n="xe">{%or%}</div> <div n="xs">{#चारः#}</div>
+(=spy), Ve. vi.; {#सुनिपुणसञ्चारालापादिभिस्तस्करा-#}
+{#दिप्रकाशकः।#}</div>
 <LEND>

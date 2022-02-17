@@ -1,4 +1,4 @@
 <L>6367<pc>204<k1>disembarkation<k2>disembarkation
-<div n="lb"/>{@DISEMBARKATION:@}¦ <div n="1">(1) {#अवतरणम्;#} </div><div n="1">(2) {#अवरोहणम्#}
-<div n="lb"/>(rare).</div>
+{@DISEMBARKATION:@}¦ <div n="1">(1) {#अवतरणम्;#} </div><div n="1">(2) {#अवरोहणम्#}
+(rare).</div>
 <LEND>

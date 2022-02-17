@@ -1,6 +1,6 @@
 <L>17757<pc>544<k1>priesthood<k2>priesthood
-<div n="lb"/>{@PRIESTHOOD:@}¦ <div n="I">I The office: {#पौरोहित्यम्।#} </div><div n="I">II
-<div n="lb"/>Priests collectively: by pl., {#पुरोहिताः,#} etc.;
-<div n="lb"/>{#ब्राह्मण्यम्#} (= Brahmins, the Indian p.): v.
-<div n="lb"/>Priest.</div>
+{@PRIESTHOOD:@}¦ <div n="I">I The office: {#पौरोहित्यम्।#} </div><div n="I">II
+Priests collectively: by pl., {#पुरोहिताः,#} etc.;
+{#ब्राह्मण्यम्#} (= Brahmins, the Indian p.): v.
+Priest.</div>
 <LEND>

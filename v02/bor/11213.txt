@@ -1,4 +1,4 @@
 <L>11213<pc>352<k1>horse-power<k2>horse-power
-<div n="lb"/>{@HORSE-POWER:@}¦ {#अश्वबलम्#} (?), <div n="xe">{%of 100 h.:%}</div> <div n="xs">{#*शताश्व-#}
-<div n="lb"/>{#बलः#}</div> ({#ला, लं#}).
+{@HORSE-POWER:@}¦ {#अश्वबलम्#} (?), <div n="xe">{%of 100 h.:%}</div> <div n="xs">{#*शताश्व-#}
+{#बलः#}</div> ({#ला, लं#}).
 <LEND>

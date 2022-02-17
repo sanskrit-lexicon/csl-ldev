@@ -1,17 +1,17 @@
 <L>19101<pc>0333-c<k1>छिद्<k2>छिद्<h>1
 {#छिद्#} 1¦. {%chid,%} cl. 7. P. A. {%chinatti, chintte,%}
-<div n="lb"/>{%ciccheda, cicchide, chetsyati, -te, acchi-%}
-<div n="lb"/>{%dat%} or {%acchaitsīt, acchitta, chettum,%} to cut, cut off,
-<div n="lb"/>amputate, cut through, hew, chop, rend, split, pierce,
-<div n="lb"/>separate, divide, unfasten; to take away, remove, de-
-<div n="lb"/>prive of; to interrupt, disturb; to destroy, annihilate,
-<div n="lb"/>efface, blot out: Pass. {%chidyate,%} to be split, to be
-<div n="lb"/>cut, to break, be torn, &c.: Caus. P. {%chedayati,%}
-<div n="lb"/>{%yitum;%} Aor. {%acicchidat,%} to cut off; to cause to
-<div n="lb"/>cut off or through: Desid. {%cicchitsati, -te:%} Intens.
-<div n="lb"/>{%cecchidyate, cecchidīti, cecchetti;%} [cf. Lat. <nsi>scindo:</nsi>
-<div n="lb"/>Gr. <lang n="greek">σχίζω, σχίδη, σχέδη, σχινδαλμός, σκινδαλμός, </lang>
-<div n="lb"/><lang n="greek">σκίδνημι; σκάζω</lang> (?): Goth. <nsi>skeida:</nsi> Germ. <nsi>scheide:</nsi>
-<div n="lb"/>Old Germ. <nsi>schîte; splitar:</nsi> Mod. Germ. <nsi>splitter:</nsi>
-<div n="lb"/>Hib. <nsi>scaithim,</nsi> ‘I cut off, lop,’ &c.]
+{%ciccheda, cicchide, chetsyati, -te, acchi-%}
+{%dat%} or {%acchaitsīt, acchitta, chettum,%} to cut, cut off,
+amputate, cut through, hew, chop, rend, split, pierce,
+separate, divide, unfasten; to take away, remove, de-
+prive of; to interrupt, disturb; to destroy, annihilate,
+efface, blot out: Pass. {%chidyate,%} to be split, to be
+cut, to break, be torn, &c.: Caus. P. {%chedayati,%}
+{%yitum;%} Aor. {%acicchidat,%} to cut off; to cause to
+cut off or through: Desid. {%cicchitsati, -te:%} Intens.
+{%cecchidyate, cecchidīti, cecchetti;%} [cf. Lat. <nsi>scindo:</nsi>
+Gr. <lang n="greek">σχίζω, σχίδη, σχέδη, σχινδαλμός, σκινδαλμός, </lang>
+<lang n="greek">σκίδνημι; σκάζω</lang> (?): Goth. <nsi>skeida:</nsi> Germ. <nsi>scheide:</nsi>
+Old Germ. <nsi>schîte; splitar:</nsi> Mod. Germ. <nsi>splitter:</nsi>
+Hib. <nsi>scaithim,</nsi> ‘I cut off, lop,’ &c.]
 <LEND>

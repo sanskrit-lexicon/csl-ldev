@@ -1,6 +1,6 @@
 <L>2980<pc>100<k1>cane<k2>cane
-<div n="lb"/>{@CANE@}¦ (subs.): <div n="I">I The rattan: q. v.: {#वेतसः#}</div>
-<div n="lb"/><div n="I">II A stick: {#वेत्रं#} <div n="xe">{%or%}</div> <div n="xs">{#वेत्रयष्टिः,#}</div> {%A seat made of c.%}
-<div n="lb"/>{#वेत्रासनम्:#} v. Also Sugar-cane, bamboo,
-<div n="lb"/>reed.</div>
+{@CANE@}¦ (subs.): <div n="I">I The rattan: q. v.: {#वेतसः#}</div>
+<div n="I">II A stick: {#वेत्रं#} <div n="xe">{%or%}</div> <div n="xs">{#वेत्रयष्टिः,#}</div> {%A seat made of c.%}
+{#वेत्रासनम्:#} v. Also Sugar-cane, bamboo,
+reed.</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>3825<pc>125<k1>climb<k2>climb
-<div n="lb"/>{@CLIMB@}¦ (v.): {#अरोहति, अधि-#} ({#रुह्।#} c. 1), (with
-<div n="lb"/>acc.) <div n="xe">{%to c. up the top of a tree:%}</div> <div n="xs">{#वृक्षाग्रमारोहति,#}</div> S.
-<div n="lb"/>c. Ph.: <div n="xe">{%c. d over the wall:%}</div> <div n="xs">{#प्राकारमत्यलङ्घयम्,#}</div> D.
-<div n="lb"/>iii.; <div n="xe">{%he knows how to c.:%}</div> <div n="xs">{#स वृक्षाद्यारोढुं जानाति#}</div>
-<div n="lb"/>(sim. {#आरोढुं#}) (will be ambiguous, as it
-<div n="lb"/>often means riding.).
+{@CLIMB@}¦ (v.): {#अरोहति, अधि-#} ({#रुह्।#} c. 1), (with
+acc.) <div n="xe">{%to c. up the top of a tree:%}</div> <div n="xs">{#वृक्षाग्रमारोहति,#}</div> S.
+c. Ph.: <div n="xe">{%c. d over the wall:%}</div> <div n="xs">{#प्राकारमत्यलङ्घयम्,#}</div> D.
+iii.; <div n="xe">{%he knows how to c.:%}</div> <div n="xs">{#स वृक्षाद्यारोढुं जानाति#}</div>
+(sim. {#आरोढुं#}) (will be ambiguous, as it
+often means riding.).
 <LEND>

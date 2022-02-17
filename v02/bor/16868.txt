@@ -1,6 +1,6 @@
 <L>16868<pc>517<k1>perspicuous<k2>perspicuous
-<div n="lb"/>{@PERSPICUOUS:@}¦ <div n="1">(1) {#प्रसन्न#} (f. {#न्ना#}), <div n="xe">{%language at%}
-<div n="lb"/>{%once p. and deep:%}</div> <div n="xs">{#प्रसन्नगम्भीरपदा सरस्वती,#}</div> Ki.
-<div n="lb"/>xiv. 3.; </div><div n="1">(2) {#विशदः#} ({#दा, दं#}); </div><div n="1">(3) {#निर्मलः#}
-<div n="lb"/>({#ला, लं#}) (= clear: q. v.).</div>
+{@PERSPICUOUS:@}¦ <div n="1">(1) {#प्रसन्न#} (f. {#न्ना#}), <div n="xe">{%language at%}
+{%once p. and deep:%}</div> <div n="xs">{#प्रसन्नगम्भीरपदा सरस्वती,#}</div> Ki.
+xiv. 3.; </div><div n="1">(2) {#विशदः#} ({#दा, दं#}); </div><div n="1">(3) {#निर्मलः#}
+({#ला, लं#}) (= clear: q. v.).</div>
 <LEND>

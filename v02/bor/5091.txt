@@ -1,4 +1,4 @@
 <L>5091<pc>164<k1>crisis<k2>crisis
-<div n="lb"/>{@CRISIS:@}¦ {#सङ्कटम्,#} <div n="xe">{%c. of an affair:%}</div> <div n="xs">{#कार्यसङ्कटकम्,#}</div> K.
-<div n="lb"/>Ph.: <div n="xe">{%at this c.:%}</div> <div n="xs">{#तस्मिन् क्षणे#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अत्रान्तरे,#}</div> K.
+{@CRISIS:@}¦ {#सङ्कटम्,#} <div n="xe">{%c. of an affair:%}</div> <div n="xs">{#कार्यसङ्कटकम्,#}</div> K.
+Ph.: <div n="xe">{%at this c.:%}</div> <div n="xs">{#तस्मिन् क्षणे#}</div> <div n="xe">{%or%}</div> <div n="xs">{#अत्रान्तरे,#}</div> K.
 <LEND>

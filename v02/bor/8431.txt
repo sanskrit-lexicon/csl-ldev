@@ -1,5 +1,5 @@
 <L>8431<pc>267<k1>fantastic<k2>fantastic
-<div n="lb"/>{@FANTASTIC,@}¦ {@-AL:@} <div n="I">I Not real: {#कल्पितः#} ({#ता, तं#})</div>
-<div n="lb"/><div n="I">II Capricious: {#चपलः#} ({#ला, लं#}). </div><div n="I">III Irregular,
-<div n="lb"/>wild: q.v.</div>
+{@FANTASTIC,@}¦ {@-AL:@} <div n="I">I Not real: {#कल्पितः#} ({#ता, तं#})</div>
+<div n="I">II Capricious: {#चपलः#} ({#ला, लं#}). </div><div n="I">III Irregular,
+wild: q.v.</div>
 <LEND>

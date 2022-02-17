@@ -1,4 +1,4 @@
 <L>18515<pc>569<k1>rainfall<k2>rainfall
-<div n="lb"/>{@RAINFALL:@}¦ <div n="1">(1) {#वृष्टिपातः,#} R.; </div><div n="1">(2) {#वर्षपातः,#} Mr.
-<div n="lb"/>v.; and sim. comp.s.</div>
+{@RAINFALL:@}¦ <div n="1">(1) {#वृष्टिपातः,#} R.; </div><div n="1">(2) {#वर्षपातः,#} Mr.
+v.; and sim. comp.s.</div>
 <LEND>

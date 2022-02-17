@@ -9,9 +9,9 @@
 <ls>Sch.</ls>) {%erfreuend%} 
 <ls>H. an. 3, 385.</ls> 
 <ls>MED. n. 80.</ls> {#पुष्पमनुत्तमम् - मनसो मम नन्दनम्#} 
-<ls>MBH. 3, 11073. 7, 3937.</ls> {#मनोहृदय°#} 
+<ls>MBH. 3, 11073.</ls> <ls n="MBH.">7, 3937.</ls> {#मनोहृदय°#} 
 <ls>3, 11564. 1, 4786.</ls> <ls>HIḌ. 1, 42.</ls> <ls>R. 4, 26, 21.</ls> <ls>VARĀH. BṚH. S. 8, 47.</ls> <ls>HIT. I, 68. II, 6.</ls> {#कुलनन्दन#} 
-<ls>VET.</ls> in <ls>LA. 1, 15.</ls> {#कुलनन्दना#} 
+<ls>VET. in LA. 1, 15.</ls> {#कुलनन्दना#} 
 <ls>PAÑCAT. 187, 4.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Sohn (den als Vater —, die als Mutter erfreuend%}) 
@@ -22,7 +22,7 @@
 <ls>YĀJÑ. 1, 274.</ls> {#पाण्डु°#} 
 <ls>HIḌ. 1, 4. 4, 56.</ls> 
 <ls>N. 20, 13.</ls> {#माद्रि°#} (mit verkürztem Auslaute des Versmaasses wegen) 
-<ls>MBH. 2, 1116. 3, 19.</ls> {#रुक्मिणि°#} 
+<ls>MBH. 2, 1116.</ls> <ls n="MBH.">3, 19.</ls> {#रुक्मिणि°#} 
 <ls>708.</ls> {#राजर्षि°#} 
 <ls>R. GORR. 2, 120, 16.</ls> <ls>RAGH. 3, 41.</ls> <ls>BHĀG. P. 4, 24, 79.</ls> {#नन्दना#} <lex>f.</lex> {%Tochter%} 
 <ls>H. 542.</ls> 
@@ -41,7 +41,7 @@
 <ls>BHĀG. P. 4, 6, 34.</ls> 
 <div n="2">— h) N. pr. einer buddh. Gottheit 
 <ls>LALIT. 7</ls> (hier hat die ed. Calc. {#नन्द#}). 
-<ls>?8 (ed. Calc. 6, 19). 401.</ls> 
+<ls>8 (ed. Calc. 6, 19). 401.</ls> 
 <div n="2">— i) bei den <is>Jaina</is> N. pr. des 7ten unter den 9 weissen <is>Bala</is> 
 <ls>H. 698.</ls> 
 <div n="2">— k) N. pr. eines Berges 
@@ -59,17 +59,17 @@
 <ls>H. 178.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 3, 3065. 10958. 5, 352. 7, 2127. 13, 4865.</ls> 
+<ls>MBH. 3, 3065.</ls> <ls n="MBH. 3,">10958.</ls> <ls n="MBH.">5, 352.</ls> <ls n="MBH.">7, 2127.</ls> <ls n="MBH.">13, 4865.</ls> 
 <ls>N. 26, 34.</ls> 
 <ls>INDR. 2, 3.</ls> 
 <ls>ARJ. 4, 45.</ls> 
-<ls>HARIV. 7462. 7468. 8948.</ls> 
-<ls>R. 2, 91, 43 (GORR. 100, 44). 74 (GORR. 100, 75). 99, 10. 3, 49, 32. 6, 95, 21.</ls> <ls>LALIT. 33. 56. 83.</ls> <ls>KATHĀS. 9, 20.</ls> <ls>VP. 169.</ls> <ls>BHĀG. P. 3, 23, 40. 5, 16, 15.</ls> {#°द्रुमाः#} 
+<ls>HARIV. 7462.</ls> <ls n="HARIV.">7468.</ls> <ls n="HARIV.">8948.</ls> 
+<ls>R. 2, 91, 43</ls> (<ls>GORR. 100, 44</ls>). <ls n="R. 2, 91,">74</ls> (<ls>GORR. 100, 75</ls>). <ls n="R. 2,">99, 10. 3, 49, 32. 6, 95, 21.</ls> <ls>LALIT. 33. 56. 83.</ls> <ls>KATHĀS. 9, 20.</ls> <ls>VP. 169.</ls> <ls>BHĀG. P. 3, 23, 40. 5, 16, 15.</ls> {#°द्रुमाः#} 
 <ls>KUMĀRAS. 2, 41.</ls> {#°वन#} 
 <ls>R. 1, 14, 33.</ls> Vgl. {#नान्दन#}. 
 <div n="2">— b) N. pr. eines Schwertes ({#असिरत्न#}) 
 <ls>R. 1, 29, 14</ls>; vgl. {#नन्दक#} 2,b. 
-<div n="2">— c) N. eines Metrums ({%4 Mal%}  ˘ ˘ ˘ ˘ ¯ ˘ ¯ ˘ ˘ ˘ ¯ , ˘ ¯ ˘ ¯ ¯ ˘ ¯) 
+<div n="2">— c) N. eines Metrums ({%4 Mal%} ˘ ˘ ˘ ˘ ¯ ˘ ¯ ˘ ˘ ˘ ¯ , ˘ ¯ ˘ ¯ ¯ ˘ ¯) 
 <ls>COLEBR.</ls> Misc. Ess. 
 <ls>II, 162 (XIII, 11).</ls> 
 <div n="2">— d) nom. act. {%das Erfreuen%} oder {%Freude%} (vom simpl.): {#दुर्हृदामप्रहर्षाय सुहृदां नन्दनाय च#} 

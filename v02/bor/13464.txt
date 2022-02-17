@@ -1,4 +1,4 @@
 <L>13464<pc>414<k1>lethargic<k2>lethargic
-<div n="lb"/>{@LETHARGIC,@}¦ {@-AL:@} <div n="1">(1) {#जडः#} ({#डा, डं#}) (= dull);</div>
-<div n="lb"/><div n="1">(2) {#निद्रालसः#} ({#सा, सं#}) (= sleepy).</div>
+{@LETHARGIC,@}¦ {@-AL:@} <div n="1">(1) {#जडः#} ({#डा, डं#}) (= dull);</div>
+<div n="1">(2) {#निद्रालसः#} ({#सा, सं#}) (= sleepy).</div>
 <LEND>

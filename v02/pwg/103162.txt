@@ -11,8 +11,8 @@
 <ls>15757. 7, 3800</ls> ({#कर्णो हस्तसंस्थया#} mit der ed. Bomb. zu lesen). {#द्रौपदीतल्प°#} 
 <ls>8, 3505.</ls> <ls>R. 4, 45, 9.</ls> {#अरि°#} 
 <ls>5, 33, 37. 54, 14. 6, 14, 22.</ls> {#स्वोच्चसंस्थेषु ग्रहेषु#} 
-<ls>R. ed. Bomb. 1,18,9.</ls> <ls>RAGH.6,29.</ls> <ls>KUMĀRAS.6,60.</ls> <ls>MĀLAV. 15.</ls> <ls>VARĀH. BṚH. S.5,35. 11,40. 17,2. 28,3. 40,3. 45,10. 50,12. 52,10. 54,1.</ls> <ls>Spr. (II) 1307. 2094. 2249. 2953. 3138. 4529. 6185. 6598.</ls> <ls>KATHĀS. 14,19. 25,113. 80,53.</ls> <ls>MĀRK. P. 18,50. 51,16. 75,8.</ls> <ls>BHĀG. P. 11,12,21.</ls> <ls>Verz. d. Oxf. H. 16,a,6. 156,a,2.</ls> <ls>VET.</ls> in <ls>LA. (III) 4,14.</ls> {#ऋक्संस्थं साम#} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP.</ls> <ls>S. 44.</ls> {#अन्तर्यामी जीवसंस्थः#} 
+<ls>R. ed. Bomb. 1,18,9.</ls> <ls>RAGH.6,29.</ls> <ls>KUMĀRAS.6,60.</ls> <ls>MĀLAV. 15.</ls> <ls>VARĀH. BṚH. S.5,35. 11,40. 17,2. 28,3. 40,3. 45,10. 50,12. 52,10. 54,1.</ls> <ls>Spr. (II) 1307.</ls> <ls n="Spr. (II)">2094.</ls> <ls n="Spr. (II)">2249.</ls> <ls n="Spr. (II)">2953.</ls> <ls n="Spr. (II)">3138.</ls> <ls n="Spr. (II)">4529.</ls> <ls n="Spr. (II)">6185.</ls> <ls n="Spr. (II)">6598.</ls> <ls>KATHĀS. 14,19. 25,113. 80,53.</ls> <ls>MĀRK. P. 18,50. 51,16. 75,8.</ls> <ls>BHĀG. P. 11,12,21.</ls> <ls>Verz. d. Oxf. H. 16,a,6. 156,a,2.</ls> <ls>VET. in LA. (III) 4,14.</ls> {#ऋक्संस्थं साम#} 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 44.</ls> {#अन्तर्यामी जीवसंस्थः#} 
 <ls>SARVADARŚANAS. 55, 12.</ls> {#तस्याश्चरुमथाज्ञानादात्मसंस्थं चकार ह#} so v. a. {%nahm zu sich, verzehrte%} 
 <ls>HARIV. 1439.</ls> 
 <div n="2">— b) {%befindlich in, bei%} so v. a. {%eigen, gehörig%}: {#जवेनात्मनि संस्थेन#} 
@@ -35,7 +35,7 @@
 <ls>PAÑCAT. 94, 2.</ls> 
 <div n="2">— e) {%bestehend, dauernd%}: {#कतिपयदिनसंस्थं#} (was 
 <ls>GILDEMEISTER</ls> aus metrischen Rücksichten in {#दिनैः कतिपयैः संस्थं#} verändert hat) {#यौवनम्#} 
-<ls>VET.</ls> in <ls>LA. (III) 35, 22.</ls> 
+<ls>VET. in LA. (III) 35, 22.</ls> 
 <div n="2">— f) {%todt%} (vgl. {#संस्थित#}) 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%Späher, Kundschafter%} 
@@ -72,8 +72,8 @@
 <ls>CARAKA 3, 1.</ls> {#संस्थां कर्#} oder {#स्थापय्#} {%eine Verhaltungsregel%} (für sich) {%aufstellen, eine Verpflichtung eingehen%}: {#संस्थां व्यतिक्रम्#} oder {#परिभिद्#} 
 (v. l. {#प्रतिभिद्#}) {%einer aufgestellten Verhaltungsregel —, seiner Verpflichtung untreu werden%} 
 <ls>MBH. 13, 7543.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 62, 26. 4, 35, 29. 57, 23. 5, 32, 23.</ls> {#°कृत#} {%festgesetzt, bestimmt%} 
+
+<ls>R. GORR. 1, 62, 26. 4, 35, 29. 57, 23. 5, 32, 23.</ls> {#°कृत#} {%festgesetzt, bestimmt%} 
 <ls>HARIV. 11113.</ls> {#संस्था = मर्यादा, स्थिति#} 
 <ls>AK. 2, 8, 1, 26.</ls> 
 <ls>TRIK. 3, 3, 200. fg.</ls> 
@@ -113,7 +113,7 @@ zu <ls>AIT. BR.</ls> und zu <ls>3, 49. 4, 12.</ls> Ueber die Differenzen vgl.
 <ls>ĀŚV. ŚR. 6, 7, 7. 11, 1</ls> ({#सर्वे सोमयागाः संस्थया सप्तविधाः#} Comm.). {#स्तोमपृष्ठ°#} 
 <ls>9, 1, 12.</ls> {#इममेवैकाहं पृथक्संस्थाभिरुपेयुः#} 
 <ls>10, 5, 9.</ls> <ls>KĀTY. ŚR. 25, 14, 10.</ls> <ls>ŚĀṄKH. ŚR. 7, 21, 4. 15, 5, 17.</ls> {#°विकृत#} 
-<ls>?26, 9, 4. Bei LĀṬY. 5, 5, 22. fgg.</ls> werden neben den sieben {%Formen%} des <is>Soma</is>-Opfers (s. oben) noch die sieben {%Formen%} des <is>Haviryajña</is> aufgezählt: <is>Agnyādheya</is>, <is>Agnihotra</is>, <is>Darśapūrṇamāsau</is>, die <is>Cāturmāsya</is>, <is>Paśubandha</is>, <is>Sautrāmaṇī</is> und <is>Pākayajña</is>; 
+<ls>26, 9, 4.</ls> bei <ls>LĀṬY. 5, 5, 22. fgg.</ls> werden neben den sieben {%Formen%} des <is>Soma</is>-Opfers (s. oben) noch die sieben {%Formen%} des <is>Haviryajña</is> aufgezählt: <is>Agnyādheya</is>, <is>Agnihotra</is>, <is>Darśapūrṇamāsau</is>, die <is>Cāturmāsya</is>, <is>Paśubandha</is>, <is>Sautrāmaṇī</is> und <is>Pākayajña</is>; 
 <ls>GAUTAMA</ls> hat <is>Agrāyaṇeṣṭi</is> (an 5ter Stelle) st. <is>Pākayajña</is>, die bei ihm gleichfalls in sieben {%Formen%} zerfallen: <is>Aṣṭakā</is>, <is>Pārvaṇa</is>, <is>Śrāddha</is>, <is>Śrāvaṇī</is>, <is>Āgrahāyaṇī</is>, <is>Caitrī</is> und <is>Āśvayujī</is>. — 
 <ls>LĀṬY. 10, 20, 10.</ls> 
 <ls>ŚĀṄKH. GṚHY. 1, 1.</ls> 
@@ -121,7 +121,7 @@ zu <ls>AIT. BR.</ls> und zu <ls>3, 49. 4, 12.</ls> Ueber die Differenzen vgl.
 <ls>BHĀG. P. 3, 13, 37.</ls> {#सुषाव च बहून्सोमान्सोमसंस्थास्ततान च#} 
 <ls>MBH. 1, 4695.</ls> {#सोमसंस्थासु सप्तसु#} 
 <ls>12, 930.</ls> {#सोमसंस्था हविःसंस्थाः पाकसंस्थाश्च सप्त याः#} 
-<ls>MĀRK. P. 23, 38.</ls> <ls>Verz. d. Oxf. H. 266</ls>, {%b%}, 
+<ls>MĀRK. P. 23, 38.</ls> <ls>Verz. d. Oxf. H. 266,b,</ls> 
 <ls>36. fgg.</ls> {#पशु°#} so v. a. {%das Schlachten des Opferthiers%} 
 <ls>BHĀG. P. 10, 23, 8.</ls> {#प्रेत°#} so v. a. {%die Cerimonie der Verbrennung des Leichnams%} 
 <ls>7, 14, 26.</ls> ohne {#प्रेत#} dass.: {#कृत्वा संस्थाविधिं पितुः#} 
@@ -131,10 +131,10 @@ zu <ls>AIT. BR.</ls> und zu <ls>3, 49. 4, 12.</ls> Ueber die Differenzen vgl.
 <ls>TRIK.</ls> = {#क्रतुभेद#} 
 <ls>H. an.</ls> 
 <div n="2">— h) {%ein Späher —, Kundschafter im eigenen Lande%} (vgl. 2) 
-<ls>H. an.</ls> <ls>?(WILSON und ŚKDR.</ls> fassen {#चरे च निजराष्ट्रके#} als
+<ls>H. an.</ls> (<ls>WILSON und</ls> <ls>ŚKDR.</ls> fassen {#चरे च निजराष्ट्रके#} als
 [Page7-0495]
 zwei Bedd. und machen das Wort zum masc.) 
-<ls>VAIJ. a. a. O.</ls> (=  {#प्रणिधि#}). 
+<ls>VAIJ. a. a. O.</ls> (= {#प्रणिधि#}). 
 <ls>KĀM. NĪTIS. 12, 35. fg.</ls> 
 <div n="v">— Vgl. {#चित्र°, दूर°, पाक°#} (in den Nachträgen), {#पार्श्व°, बहिः°, ब्रह्म°, यज्ञ°, यथासंस्थम्#} .
 <LEND>

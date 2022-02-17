@@ -1,8 +1,8 @@
 <L>2935<pc>062-b<k1>breach<k2>breach
-<div n="lb"/>BREACH¦, {%s.%} {#भङ्गः, भेदः, छेदः, खण्डं, रन्ध्रं, छिद्रं#}. — (The act of break-
-<div n="lb"/>ing) {#भञ्जनं, भेदनं, खण्डनं#}. — (A gap in a wall) {#सन्धिः#} {%m.,%} {#गृहरन्ध्रं,#}
-<div n="lb"/>{#खानिकं, सुरुङ्गा, कुड्यच्छेदः#}. — (Violation) {#अतिक्रमः, लङ्घनं, उल्लङ्घनं#}.
-<div n="lb"/> — (Violation of a law) {#व्यवस्थातिक्रमः, व्यवस्थालङ्घनं#}. — (Breach
-<div n="lb"/>of promise) {#प्रतिज्ञाभङ्गः#}. — (Breach of confidence) {#विश्वासभङ्गः#}.
-<div n="lb"/> — (Separation of friendship) {#सुहृद्भेदः, विरोधः, विच्छेदः#}.
+BREACH¦, {%s.%} {#भङ्गः, भेदः, छेदः, खण्डं, रन्ध्रं, छिद्रं#}. — (The act of break-
+ing) {#भञ्जनं, भेदनं, खण्डनं#}. — (A gap in a wall) {#सन्धिः#} {%m.,%} {#गृहरन्ध्रं,#}
+{#खानिकं, सुरुङ्गा, कुड्यच्छेदः#}. — (Violation) {#अतिक्रमः, लङ्घनं, उल्लङ्घनं#}.
+ — (Violation of a law) {#व्यवस्थातिक्रमः, व्यवस्थालङ्घनं#}. — (Breach
+of promise) {#प्रतिज्ञाभङ्गः#}. — (Breach of confidence) {#विश्वासभङ्गः#}.
+ — (Separation of friendship) {#सुहृद्भेदः, विरोधः, विच्छेदः#}.
 <LEND>

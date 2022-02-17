@@ -1,10 +1,10 @@
 <L>5179<pc>166<k1>crush<k2>crush
-<div n="lb"/>{@CRUSH@}¦ (v. t.); <div n="1">(1) {#मृद्राति#} <div n="xe">{%or%}</div> <div n="xs">{#मर्दयति, -ते, आ-, परि-#}</div>,
-<div n="lb"/>{#वि-, सं-,#} ({#मृद्,#} c. 9. {%or%} 10.), {%c. ed the forces of%}
-<div n="lb"/><div n="xe">{%his enemies:%}</div> <div n="xs">{#परेषां बलान्यमृद्रात्,#}</div> R.; </div><div n="1">(2) {#दलति#}
-<div n="lb"/><div n="xe">{%or%}</div> <div n="xs">{#दलयति#}</div> ({#दल्,#} c. l. and 10.), {%c. ing forts%}
-<div n="lb"/>{#दलयन्दुर्गाणि,#} K.; </div><div n="1">(3) {#मथ्नाति, प्र-,#} ({#मन्थ्,#} c. 9.),
-<div n="lb"/><div n="xe">{%shall I not c. the hundred Kauravas:%}</div> <div n="xs">{#मथ्नामि#}</div>
-<div n="lb"/>{#कौरवशतं न,#} Ve.: v. To grind, overwhelm,
-<div n="lb"/>put down.</div>
+{@CRUSH@}¦ (v. t.); <div n="1">(1) {#मृद्राति#} <div n="xe">{%or%}</div> <div n="xs">{#मर्दयति, -ते, आ-, परि-#}</div>,
+{#वि-, सं-,#} ({#मृद्,#} c. 9. {%or%} 10.), {%c. ed the forces of%}
+<div n="xe">{%his enemies:%}</div> <div n="xs">{#परेषां बलान्यमृद्रात्,#}</div> R.; </div><div n="1">(2) {#दलति#}
+<div n="xe">{%or%}</div> <div n="xs">{#दलयति#}</div> ({#दल्,#} c. l. and 10.), {%c. ing forts%}
+{#दलयन्दुर्गाणि,#} K.; </div><div n="1">(3) {#मथ्नाति, प्र-,#} ({#मन्थ्,#} c. 9.),
+<div n="xe">{%shall I not c. the hundred Kauravas:%}</div> <div n="xs">{#मथ्नामि#}</div>
+{#कौरवशतं न,#} Ve.: v. To grind, overwhelm,
+put down.</div>
 <LEND>

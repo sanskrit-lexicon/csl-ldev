@@ -1,5 +1,5 @@
 <L>634<pc>023<k1>alternate<k2>alternate
-<div n="lb"/>{@ALTERNATE@}¦ (v. i.): Ph. <div n="xe">{%the flood and ebb%}
-<div n="lb"/>{%tides a. with each other%}</div> <div n="xs">{#*पर्यायेण वेलानां वृद्धिक्षयौ #}
-<div n="lb"/>{# भवतः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#वेलानां पर्यायवृद्धिक्षयौ।#}</div>
+{@ALTERNATE@}¦ (v. i.): Ph. <div n="xe">{%the flood and ebb%}
+{%tides a. with each other%}</div> <div n="xs">{#*पर्यायेण वेलानां वृद्धिक्षयौ #}
+{# भवतः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#वेलानां पर्यायवृद्धिक्षयौ।#}</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>600<pc>022<k1>allude<k2>allude
-<div n="lb"/>{@ALLUDE:@}¦ <div n="1">(1) {#उद्दिश्य#} <div n="xe">{%or%}</div> <div n="xs">{#लक्षीकृत्य वदति, अभिधत्ते,#}</div>
-<div n="lb"/>etc. (in speaking); </div><div n="1">(2) {#लक्षीकरोति#} (=to
-<div n="lb"/>point, refer); {%what ! this alludes to me%}
-<div n="lb"/>{#कथमियं कथा मामेव लक्षीकरोति,#} Sa. vii. Ph. {%this%}
-<div n="lb"/>{%mythological story is here a. d to%} (?) — {#इति #}
-<div n="lb"/>{# पौराणिकी कथात्रानुसन्धेया,#} M. n.</div>
+{@ALLUDE:@}¦ <div n="1">(1) {#उद्दिश्य#} <div n="xe">{%or%}</div> <div n="xs">{#लक्षीकृत्य वदति, अभिधत्ते,#}</div>
+etc. (in speaking); </div><div n="1">(2) {#लक्षीकरोति#} (=to
+point, refer); {%what ! this alludes to me%}
+{#कथमियं कथा मामेव लक्षीकरोति,#} Sa. vii. Ph. {%this%}
+{%mythological story is here a. d to%} (?) — {#इति #}
+{# पौराणिकी कथात्रानुसन्धेया,#} M. n.</div>
 <LEND>

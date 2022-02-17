@@ -1,10 +1,10 @@
 <L>20285<pc>633<k1>shake<k2>shake
-<div n="lb"/>{@SHAKE@}¦ (v. t.): <div n="1">(1) {#कम्पयति, प्र-,#} (c. of {#कम्प्#}),
-<div n="lb"/><div n="xe">{%s. ing the earth:%}</div> <div n="xs">{#प्रकम्पयन् गाम्,#}</div> Ki. xiv. 29.;
-<div n="lb"/><div n="xe">{%as it cannot be s. n by others:%}</div> <div n="xs">{#अप्रकम्प्यतयान्येषाम्,#}</div>
-<div n="lb"/>Ki. xi. 39.; </div><div n="1">(2) {#धूनोति#} <div n="xe">{%or%}</div> <div n="xs">{#धूनोयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#धुवति#}</div> {%or%}
-<div n="lb"/>{#धुनाति#} <div n="xe">{%or%}</div> <div n="xs">{#धूनीते, वि-, अव-#}</div> ({#धू,#} c. 5., 10., 6., 9.),
-<div n="lb"/><div n="xe">{%he shook his body not once:%}</div> <div n="xs">{#अधूनीत तनं स नैकधा,#}</div>
-<div n="lb"/>N. ii. 2.; {%Arjuna s.ing%} ({%his%}) <div n="xe">{%bow:%}</div> <div n="xs">{#विधुवति #}
-<div n="lb"/>{# धनुः॥॥॥पाण्डुसूनौ,#}</div> Ki. xvi. 65.</div>
+{@SHAKE@}¦ (v. t.): <div n="1">(1) {#कम्पयति, प्र-,#} (c. of {#कम्प्#}),
+<div n="xe">{%s. ing the earth:%}</div> <div n="xs">{#प्रकम्पयन् गाम्,#}</div> Ki. xiv. 29.;
+<div n="xe">{%as it cannot be s. n by others:%}</div> <div n="xs">{#अप्रकम्प्यतयान्येषाम्,#}</div>
+Ki. xi. 39.; </div><div n="1">(2) {#धूनोति#} <div n="xe">{%or%}</div> <div n="xs">{#धूनोयति#}</div> <div n="xe">{%or%}</div> <div n="xs">{#धुवति#}</div> {%or%}
+{#धुनाति#} <div n="xe">{%or%}</div> <div n="xs">{#धूनीते, वि-, अव-#}</div> ({#धू,#} c. 5., 10., 6., 9.),
+<div n="xe">{%he shook his body not once:%}</div> <div n="xs">{#अधूनीत तनं स नैकधा,#}</div>
+N. ii. 2.; {%Arjuna s.ing%} ({%his%}) <div n="xe">{%bow:%}</div> <div n="xs">{#विधुवति #}
+{# धनुः॥॥॥पाण्डुसूनौ,#}</div> Ki. xvi. 65.</div>
 <LEND>

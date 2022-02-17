@@ -1,8 +1,8 @@
 <L>6132<pc>197<k1>different<k2>different
-<div n="lb"/>{@DIFFERENT:@}¦ <div n="1">(1) {#मिन्नः#} ({#न्ना, न्नं#}), {#वि-, प्र-,#} <div n="xe">{%men have%}
-<div n="lb"/>{%d. tastes:%}</div> <div n="xs">{#भिन्नरुचिर्हि लोकः,#}</div> R.; <div n="xe">{%not d. from%}
-<div n="lb"/>{%me:%}</div> <div n="xs">{#मत्तोऽविभिन्नः,#}</div> V. p.; </div><div n="1">(2) by subs., <div n="xe">{%made%}
-<div n="lb"/>{%many d. statements:%}</div> <div n="xs">{#वाक्यभेदान् बहुनकथयत्,#}</div> Mu.
-<div n="lb"/>ii.; </div><div n="1">(3) by {#अन्तरम्#} affixed, <div n="xe">{%d. tastes:%}</div> <div n="xs">{#रसान्तराणि,#}</div>
-<div n="lb"/>R. x. 17.: v. Other: v. Unlike, various.</div>
+{@DIFFERENT:@}¦ <div n="1">(1) {#मिन्नः#} ({#न्ना, न्नं#}), {#वि-, प्र-,#} <div n="xe">{%men have%}
+{%d. tastes:%}</div> <div n="xs">{#भिन्नरुचिर्हि लोकः,#}</div> R.; <div n="xe">{%not d. from%}
+{%me:%}</div> <div n="xs">{#मत्तोऽविभिन्नः,#}</div> V. p.; </div><div n="1">(2) by subs., <div n="xe">{%made%}
+{%many d. statements:%}</div> <div n="xs">{#वाक्यभेदान् बहुनकथयत्,#}</div> Mu.
+ii.; </div><div n="1">(3) by {#अन्तरम्#} affixed, <div n="xe">{%d. tastes:%}</div> <div n="xs">{#रसान्तराणि,#}</div>
+R. x. 17.: v. Other: v. Unlike, various.</div>
 <LEND>

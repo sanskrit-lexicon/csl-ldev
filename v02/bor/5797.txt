@@ -1,4 +1,4 @@
 <L>5797<pc>186<k1>demonstration<k2>demonstration
-<div n="lb"/>{@DEMONSTRATION:@}¦ <div n="I">I Proof: q. v.: {#साधनम्।#}</div>
-<div n="lb"/><div n="I">II Exhibiton: {#प्रदर्शनम्।#}</div>
+{@DEMONSTRATION:@}¦ <div n="I">I Proof: q. v.: {#साधनम्।#}</div>
+<div n="I">II Exhibiton: {#प्रदर्शनम्।#}</div>
 <LEND>

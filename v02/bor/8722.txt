@@ -1,10 +1,10 @@
 <L>8722<pc>276<k1>figure<k2>figure
-<div n="lb"/>{@FIGURE@}¦ (v.): <div n="I">I Lit.: v. To form. </div><div n="I">II To
-<div n="lb"/>depict: q.v.: {#रूपयति#} ({#रूप्,#} c. 10.). </div><div n="I">III To
-<div n="lb"/>calculate: q.v.: {#गणयति#} ({#गण्,#} c. 10.). </div><div n="I">IV
-<div n="lb"/>To indicate: q.v.: {#सूचयति#} ({#सूच्,#} c. 10.).</div>
-<div n="lb"/><div n="I">V To image: {#कल्पयति#} ({#कॢप्,#} c. 10.). {%F.d.:%}
-<div n="lb"/>i.e. adorned with f. s: {#चित्रः#} ({#त्रा, त्रं#}). {%F. out:%}
-<div n="lb"/>{#गणयति।#} <div n="xe">{%F. up:%}</div> <div n="xs">{#संकलयति#}</div> ({#कल्,#} c. 10.): v. To
-<div n="lb"/>add.</div>
+{@FIGURE@}¦ (v.): <div n="I">I Lit.: v. To form. </div><div n="I">II To
+depict: q.v.: {#रूपयति#} ({#रूप्,#} c. 10.). </div><div n="I">III To
+calculate: q.v.: {#गणयति#} ({#गण्,#} c. 10.). </div><div n="I">IV
+To indicate: q.v.: {#सूचयति#} ({#सूच्,#} c. 10.).</div>
+<div n="I">V To image: {#कल्पयति#} ({#कॢप्,#} c. 10.). {%F.d.:%}
+i.e. adorned with f. s: {#चित्रः#} ({#त्रा, त्रं#}). {%F. out:%}
+{#गणयति।#} <div n="xe">{%F. up:%}</div> <div n="xs">{#संकलयति#}</div> ({#कल्,#} c. 10.): v. To
+add.</div>
 <LEND>

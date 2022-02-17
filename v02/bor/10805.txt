@@ -1,5 +1,5 @@
 <L>10805<pc>341<k1>heaviness<k2>heaviness
-<div n="lb"/>{@HEAVINESS:@}¦ <div n="I">I Weight: {#गुरुत्वभ्, -ता।#} </div><div n="I">II Sadness:
-<div n="lb"/>{#विषादः।#} </div><div n="I">III Sluggishness: {#मान्द्यम्।#} </div><div n="I">IV Oppres-
-<div n="lb"/>-sion: q.v.</div>
+{@HEAVINESS:@}¦ <div n="I">I Weight: {#गुरुत्वभ्, -ता।#} </div><div n="I">II Sadness:
+{#विषादः।#} </div><div n="I">III Sluggishness: {#मान्द्यम्।#} </div><div n="I">IV Oppres-
+-sion: q.v.</div>
 <LEND>

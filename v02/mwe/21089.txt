@@ -1,39 +1,39 @@
 <L>21089<pc>555-b<k1>order<k2>order
-<div n="lb"/>ORDER¦, {%s.%} (Regular disposition, arrangement) {#क्रमः, अनुक्रमः,#}
-<div n="lb"/>{#पर्य्यायः, आनुपूर्व्यं, आनुपूर्वी, परिपाटी -टिः#} {%f.,%} {#पारिपाट्यं, विन्यासः,#}
-<div n="lb"/>{#व्यूहनं, व्यूढिः#} {%f.,%} {#आवृत्#} {%f.,%} {#पारम्पर्य्यं, परम्परा, व्यवस्था, व्यवस्थापनं,#}
-<div n="lb"/>{#क्रमेण स्थापनं, प्रतिविधानं, संविधानं, विरचनं -ना;#} ‘inverted order,’
-<div n="lb"/>{#व्यतिक्रमः, व्युत्क्रमः;#} ‘natural order of words,’ {#अन्वयः#}. — (Esta-
-<div n="lb"/>blished mode of proceeding) {#क्रमः, मार्गः, रीतिः#} {%f.,%} {#निय्नमः,#}
-<div n="lb"/>{#पद्धतिः#} {%f.;%} ‘direct order,’ {#आनुलोम्यं;#} ‘in direct order,’
-<div n="lb"/>{#अनुलोमः -मा -मं;#} ‘inverse order,’ {#प्रातिलोम्यं;#} ‘in inverse
-<div n="lb"/>order,’ {#प्रतिलोमः -मा -मं, विलोमः#} &c. — (Command) {#आज्ञा,#}
-<div n="lb"/>[Page556-a+ 51]
-<div n="lb"/>{#आदेशः, निदेशः, निर्देशः, शासनं, शिष्टिः#} {%f.,%} {#शास्तिः#} {%f.,%} {#नियोगः, प्रेरणा,#}
-<div n="lb"/>{#अववादः, प्रयुक्तिः#} {%f.%} — (Precept, rule) {#नियमः, चोदनं -ना, विधिः#} {%m.,%}
-<div n="lb"/>{#विधानं, वचनं;#} ‘written order,’ {#आज्ञापत्रं, शासनपत्रं;#} ‘general
-<div n="lb"/>order,’ {#सामान्यशासनं, साधारणाज्ञा#}. — (Class, grade) {#गणः, वर्गः,#}
-<div n="lb"/>{#वर्णः, जातिः#} {%f.;%} ‘the lower orders,’ {#अवरवर्णाः#} {%m. pl.,%} {#अधमवर्णाः,#}
-<div n="lb"/>{#प्राकृतवर्गः, अन्त्यवर्गः, अन्त्यजातीयाः#} {%m. pl.,%} {#अधमजातीयाः#} {%m. pl.;%} ‘the
-<div n="lb"/>middle or common order,’ {#सामान्यवर्गः, सामान्यपक्षः, साधारणपक्षः#}.
-<div n="lb"/> — (Religious order) {#आश्रमः#}. There are four Āśramas,
-<div n="lb"/>corresponding to the four stages of the Brahman's life.
-<div n="lb"/>Every Brahman who has passed through these four
-<div n="lb"/>stages is supposed to have passed through the four
-<div n="lb"/>orders in succession. When, in the first, he is called
-<div n="lb"/>{#ब्रह्मचारी#} {%m.;%} in the 2d, {#गृहस्थः;#} in the 3d, {#वानप्रस्थः#} or {#वैखानसः#}
-<div n="lb"/>or {#यती;#} in the 4th, {#भिक्षुः#} {%m.,%} {#सन्न्यासी#} {%m.%} The first order,
-<div n="lb"/>or that of the religious student, is also called {#लिङ्गं#}.
-<div n="lb"/>Other terms, expressive of religious orders, are {#परायणं,#}
-<div n="lb"/>{#मार्गः, सम्प्रदायः, पन्थाः#} {%m.%} ({#पथिन्#}); ‘head of a religious
-<div n="lb"/>order,’ {#आश्रमगुरुः#} {%m.%} — (In good order, in proper state) {#सुस्थः#}
-<div n="lb"/>{#-स्था -स्थं, सुस्थितः -ता -तं, सुरक्षितः -ता -तं#}. — (In order, properly
-<div n="lb"/>arranged) {#सुविन्यस्तः -स्ता -स्तं, सुरचितः -ता -तं, सुव्यवस्थितः -ता -तं,#}
-<div n="lb"/>{#क्रमेण स्थापितः -ता -तं;#} ‘in regular order,’ {#यथाक्रमं, क्रमेण -मात्,#}
-<div n="lb"/>{#क्रमशस्, अनुपूर्व्वशस्, अनुक्रमशस्, सुपरिपाठ्या#}. — (In order to, for
-<div n="lb"/>the purpose) {#अर्थं#} or {#अर्थे#} affixed; as, ‘in order to read,’
-<div n="lb"/>{#अध्ययनार्थं,#} or expressed by the dat. c.; as, ‘in order to
-<div n="lb"/>find a fourth quantity,’ {#चतुर्थराशेर् अवगमाय#}. — (Out of order)
-<div n="lb"/>{#अव्यवस्थितः -ता -तं, अनवस्थितः#} &c., {#भग्नक्रमः -मा -मं, असुस्थः -स्था#}
-<div n="lb"/>{#-स्थं, अस्वस्थः#} &c.
+ORDER¦, {%s.%} (Regular disposition, arrangement) {#क्रमः, अनुक्रमः,#}
+{#पर्य्यायः, आनुपूर्व्यं, आनुपूर्वी, परिपाटी -टिः#} {%f.,%} {#पारिपाट्यं, विन्यासः,#}
+{#व्यूहनं, व्यूढिः#} {%f.,%} {#आवृत्#} {%f.,%} {#पारम्पर्य्यं, परम्परा, व्यवस्था, व्यवस्थापनं,#}
+{#क्रमेण स्थापनं, प्रतिविधानं, संविधानं, विरचनं -ना;#} ‘inverted order,’
+{#व्यतिक्रमः, व्युत्क्रमः;#} ‘natural order of words,’ {#अन्वयः#}. — (Esta-
+blished mode of proceeding) {#क्रमः, मार्गः, रीतिः#} {%f.,%} {#निय्नमः,#}
+{#पद्धतिः#} {%f.;%} ‘direct order,’ {#आनुलोम्यं;#} ‘in direct order,’
+{#अनुलोमः -मा -मं;#} ‘inverse order,’ {#प्रातिलोम्यं;#} ‘in inverse
+order,’ {#प्रतिलोमः -मा -मं, विलोमः#} &c. — (Command) {#आज्ञा,#}
+[Page556-a+ 51]
+{#आदेशः, निदेशः, निर्देशः, शासनं, शिष्टिः#} {%f.,%} {#शास्तिः#} {%f.,%} {#नियोगः, प्रेरणा,#}
+{#अववादः, प्रयुक्तिः#} {%f.%} — (Precept, rule) {#नियमः, चोदनं -ना, विधिः#} {%m.,%}
+{#विधानं, वचनं;#} ‘written order,’ {#आज्ञापत्रं, शासनपत्रं;#} ‘general
+order,’ {#सामान्यशासनं, साधारणाज्ञा#}. — (Class, grade) {#गणः, वर्गः,#}
+{#वर्णः, जातिः#} {%f.;%} ‘the lower orders,’ {#अवरवर्णाः#} {%m. pl.,%} {#अधमवर्णाः,#}
+{#प्राकृतवर्गः, अन्त्यवर्गः, अन्त्यजातीयाः#} {%m. pl.,%} {#अधमजातीयाः#} {%m. pl.;%} ‘the
+middle or common order,’ {#सामान्यवर्गः, सामान्यपक्षः, साधारणपक्षः#}.
+ — (Religious order) {#आश्रमः#}. There are four Āśramas,
+corresponding to the four stages of the Brahman's life.
+Every Brahman who has passed through these four
+stages is supposed to have passed through the four
+orders in succession. When, in the first, he is called
+{#ब्रह्मचारी#} {%m.;%} in the 2d, {#गृहस्थः;#} in the 3d, {#वानप्रस्थः#} or {#वैखानसः#}
+or {#यती;#} in the 4th, {#भिक्षुः#} {%m.,%} {#सन्न्यासी#} {%m.%} The first order,
+or that of the religious student, is also called {#लिङ्गं#}.
+Other terms, expressive of religious orders, are {#परायणं,#}
+{#मार्गः, सम्प्रदायः, पन्थाः#} {%m.%} ({#पथिन्#}); ‘head of a religious
+order,’ {#आश्रमगुरुः#} {%m.%} — (In good order, in proper state) {#सुस्थः#}
+{#-स्था -स्थं, सुस्थितः -ता -तं, सुरक्षितः -ता -तं#}. — (In order, properly
+arranged) {#सुविन्यस्तः -स्ता -स्तं, सुरचितः -ता -तं, सुव्यवस्थितः -ता -तं,#}
+{#क्रमेण स्थापितः -ता -तं;#} ‘in regular order,’ {#यथाक्रमं, क्रमेण -मात्,#}
+{#क्रमशस्, अनुपूर्व्वशस्, अनुक्रमशस्, सुपरिपाठ्या#}. — (In order to, for
+the purpose) {#अर्थं#} or {#अर्थे#} affixed; as, ‘in order to read,’
+{#अध्ययनार्थं,#} or expressed by the dat. c.; as, ‘in order to
+find a fourth quantity,’ {#चतुर्थराशेर् अवगमाय#}. — (Out of order)
+{#अव्यवस्थितः -ता -तं, अनवस्थितः#} &c., {#भग्नक्रमः -मा -मं, असुस्थः -स्था#}
+{#-स्थं, अस्वस्थः#} &c.
 <LEND>

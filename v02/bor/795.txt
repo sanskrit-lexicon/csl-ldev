@@ -1,5 +1,5 @@
 <L>795<pc>028<k1>annex<k2>annex
-<div n="lb"/>{@ANNEX:@}¦ <div n="I">I To subjoin: Ph. <div n="xe">{%I. a. a list of%}
-<div n="lb"/>{%articles for sale%}</div> <div n="xs">{#*लेखान्ते विक्रेयद्रव्याणि निर्दिष्टानि।#}</div></div>
-<div n="lb"/><div n="I">II To unite: {#सं-योजयति#} (c. of {#युज्#}).</div>
+{@ANNEX:@}¦ <div n="I">I To subjoin: Ph. <div n="xe">{%I. a. a list of%}
+{%articles for sale%}</div> <div n="xs">{#*लेखान्ते विक्रेयद्रव्याणि निर्दिष्टानि।#}</div></div>
+<div n="I">II To unite: {#सं-योजयति#} (c. of {#युज्#}).</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>99700.1<pc>509,3<k1>ध्मा<k2>ध्मा<h>a<e>1
 <s>धम्</s> ¦ or <s>ध्मा</s> <ab>cl.</ab> 1. <ab>P.</ab> <s>ध/मति</s> (<ab>Ā.</ab> <s>°ते</s>, <ls>Up.</ls>; <ls>MBh.</ls>; <ab>p.</ab> <s>ध्मान्तस्</s> = <s>धमन्तस्</s>, <ls>BhP. x, 12, 7</ls>; <ab>perf.</ab> <s>दध्मौ</s>, 3. <ab>pl.</ab> <ab>Ā.</ab> <s>°मिरे</s>, <ls>MBh.</ls>; <ab>aor.</ab> <s>अध्मासीत्</s>, <ls>Kāv.</ls>; <ab>Prec.</ab> <s>ध्मायात्</s> or <s>ध्मेयात्</s> <ab>Gr.</ab>; <ab>fut.</ab> <s>धमिष्यति</s>, <ls>MBh.</ls>; <s>ध्मास्यति</s>, <s>ध्माता</s> <ab>Gr.</ab>; <ab>ind.p.</ab> <s>-ध्मा/य</s>, <ls>Br.</ls>) 
-<div n="to"/>to blow (either intrans. as wind [applied also to the bubbling <s1 slp1="soma">Soma</s1>, <ls>RV. ix, 73</ls>] or trans. as, to blow a conch-shell or any wind instrument), <ls>RV.</ls> &c. &c.;
+<div n="to"/>to blow (either <ab>intrans.</ab> as wind [applied also to the bubbling <s1 slp1="soma">Soma</s1>, <ls>RV. ix, 73</ls>] or <ab>trans.</ab> as, to blow a conch-shell or any wind instrument), <ls>RV.</ls> &c. &c.;
 <div n="to"/>to blow into (<ab>loc.</ab>), <ls>MBh. l, 813</ls>;
 <div n="to"/>to breathe out, exhale, <ls>RV. ii, 34, 1</ls>; <ls>MBh. xiv, 1732</ls>;
 <div n="to"/>to kindle a fire by blowing, <ls>RV. ii, 24, 7</ls>; <ls>MBh. ii, 2483</ls>;
@@ -11,6 +11,6 @@
 <div n="to"/>to cause to blow or melt;
 <div n="to"/>to consume by fire, reduce to cinder, <ls>MBh.</ls>; <ls>Suśr.</ls> :
 <div n="vp"/><ab>Desid.</ab> <s>दिध्नासति</s> <ab>Gr.</ab>:
-<div n="vp"/><ab>Intens.</ab> <s>देध्मीयते</s>, <ls>Pāṇ. 7-4, 31</ls>;
+<div n="vp"/><ab>Intens.</ab> <s>देध्मीयते</s>, <ls>Pāṇ. vii, 4, 31</ls>;
 <div n="vp"/> <s>दाध्मायते</s>, <ab>p.</ab> <s>°यमान</s> being violently blown (conch-shell), <ls>BhP. i, 11, 2.</ls> <info or="99700,Dam;99700.1,DmA"/><info whitneyroots="Dam,81"/><info verb="genuineroot" cp="1P,1Ā"/>
 <LEND>

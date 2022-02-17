@@ -1,8 +1,8 @@
 <L>20487<pc>641<k1>shut out<k2>shut out
-<div n="lb"/>{@SHUT OUT:@}¦ <div n="I">I In gen.: {#नि-रुणद्धि, सं-, अव-,#}
-<div n="lb"/><div n="xe">{%thus s. in a cage:%}</div> <div n="xs">{#तथा पञ्जरे संरुद्धः,#}</div> K. ii.: v.
-<div n="lb"/>To confine, block up, close. </div><div n="I">II To
-<div n="lb"/>terminate: {#निवर्तते#} ({#वृत्,#} c. 1.). </div><div n="I">III To
-<div n="lb"/>cause to be silent: prob.: {#मुखं बघ्नाति#} ({#बन्ध्,#}
-<div n="lb"/>c. 9.: with gen.).</div>
+{@SHUT OUT:@}¦ <div n="I">I In gen.: {#नि-रुणद्धि, सं-, अव-,#}
+<div n="xe">{%thus s. in a cage:%}</div> <div n="xs">{#तथा पञ्जरे संरुद्धः,#}</div> K. ii.: v.
+To confine, block up, close. </div><div n="I">II To
+terminate: {#निवर्तते#} ({#वृत्,#} c. 1.). </div><div n="I">III To
+cause to be silent: prob.: {#मुखं बघ्नाति#} ({#बन्ध्,#}
+c. 9.: with gen.).</div>
 <LEND>

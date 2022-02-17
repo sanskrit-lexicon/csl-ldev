@@ -1,8 +1,8 @@
 <L>15908<pc>489<k1>opinion<k2>opinion
-<div n="lb"/>{@OPINION:@}¦ <div n="I">I In gen.: {#मतम्,#} <div n="xe">{%in my o. the Vaiśe-%}
-<div n="lb"/>{%ṣika doctrine is good:%}</div> <div n="xs">{#वैशेषिकं चारू मतं मतं मे,#}</div>
-<div n="lb"/>N. xxii. 36. </div><div n="I">II Estimation: expr. with {#मतः#}
-<div n="lb"/>({#ता, तं#}), {#अभि-,#} {%win good o. of your husband:%}
-<div n="lb"/>{#भतर्बहुमता भव,#} Sa. iv. </div><div n="I">III Honour, fame:
-<div n="lb"/>q.v.: {#मानः।#}</div>
+{@OPINION:@}¦ <div n="I">I In gen.: {#मतम्,#} <div n="xe">{%in my o. the Vaiśe-%}
+{%ṣika doctrine is good:%}</div> <div n="xs">{#वैशेषिकं चारू मतं मतं मे,#}</div>
+N. xxii. 36. </div><div n="I">II Estimation: expr. with {#मतः#}
+({#ता, तं#}), {#अभि-,#} {%win good o. of your husband:%}
+{#भतर्बहुमता भव,#} Sa. iv. </div><div n="I">III Honour, fame:
+q.v.: {#मानः।#}</div>
 <LEND>

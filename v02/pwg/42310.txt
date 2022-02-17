@@ -17,7 +17,7 @@
 <ls>H. 1079.</ls> 
 <ls>HALĀY. 3, 45.</ls> {#सरय्वाश्च परे तीरे#} 
 <ls>R. GORR. 1, 11, 19.</ls> {#नद्याः परे पारे#} 
-<ls>R.</ls> <ls>SCHL. 2, 55, 6.</ls> {#नादृश्यत परः पारो नापरस्तत्र#} 
+<ls>R. SCHL. 2, 55, 6.</ls> {#नादृश्यत परः पारो नापरस्तत्र#} 
 <ls>MBH. 2, 1807.</ls> {#यो ऽस्माकमविद्यायाः परं पारं तारयसि#} 
 <ls>PRAŚNOP. 6, 8.</ls> 
 <ls>P. 3, 4, 20.</ls> {#क्व^ स्विद\स्य रज^सो म\हस्पर\ं क्वाव^रम्#} 
@@ -98,7 +98,7 @@
 <ls>2, 10.</ls> {#तपर#} {%worauf ein%} {#त#} {%folgt%} 
 <ls>P. 1, 1, 70. 2, 40. 4, 62. Schol.</ls> zu <ls>P. 1, 1, 51.</ls> {#तपरकरणम्#} 
 <ls>Schol.</ls> zu <ls>P. 6, 1, 4.</ls> Ausnahmsweise verbindet sich {#पर#} als <lex>adj.</lex> mit seiner Ergänzung zum comp.: {#षष्ठकपरास्ततो वर्णाः पञ्च#} {%fünf auf die 6te Silbe folgende Silben%} 
-<ls>ŚRUT.</ls> <ls>?(BR.) 40.</ls> {#प्रौष्ठभद्रपरः पदः#} 
+<ls>ŚRUT.</ls> (<ls>BR.) 40.</ls> {#प्रौष्ठभद्रपरः पदः#} 
 <ls>H. 154.</ls> 
 <div n="2">— d) {%der vorzüglichere, bessere, trefflichere, der vorzüglichste, beste, trefflichste, äusserste, ärgste, summus%}; = {#उत्तम, श्रेष्ठ, मुख्य#} 
 <ls>AK. 3, 4, 25, 193.</ls> 
@@ -118,7 +118,7 @@
 <ls>BHAG. 3, 42.</ls> 
 <ls>ŚĀK. 186.</ls> {#नाहं वेद परं ह्यस्मिन्नापरं न समम्#} 
 <ls>BHĀG. P. 2, 5, 6.</ls> {#अपरेषां परेषां च परेभ्यश्चापि ये परे#} 
-<ls>MBH. 13,</ls> <ls>?3037; vgl. 2134</ls>, wo st. {#परे ऽपरे#} gedruckt ist. {#वेत्थ धर्मं सत्यवति परं चापरमेव च#} 
+<ls>MBH. 13, 3037</ls>; vgl. <ls n="MBH. 13,">2134</ls>, wo st. {#परे ऽपरे#} gedruckt ist. {#वेत्थ धर्मं सत्यवति परं चापरमेव च#} 
 <ls>MBH. 1, 4258.</ls> {#ब्रह्मन्#} 
 <ls>BHĀG. P. 2, 4, 10.</ls> 
 <ls>PRAB. 2, 9.</ls> {#स्थान#} 
@@ -139,7 +139,7 @@
 <ls>M. 9, 313.</ls> {#परः संनिकर्षः संहिता#} 
 <ls>P. 1, 4, 109.</ls> {#किं नु दुःखमतः परम्#} 
 <ls>Spr. 935.</ls> compar.: {#अन्नमेव विशिष्टं हि यस्मात्परतरं न च#} 
-<ls>MBH.3,13386. 15534. 13,602. 3797. 14,2783.</ls> <ls>BHAG.7,7.</ls> <ls>YĀJÑ.1,322.</ls> <ls>KĀM. NĪTIS.5,47.</ls> <ls>Verz. d. Oxf. H. 91,a,18.</ls> {#ब्रह्मन्#} <lex>n.</lex> Spr. {#नन्वात्मन्यव°#}.{# पर#} <lex>m.</lex> oder <lex>n.</lex> {%der höchste Geist, die Weltseele, das Absolutum%}; {#परः = परमात्मन्#} 
+<ls>MBH. 3, 13386.</ls> <ls n="MBH. 3,">15534.</ls> <ls n="MBH.">13, 602.</ls> <ls n="MBH. 13,">3797.</ls> <ls n="MBH.">14, 2783.</ls> <ls>BHAG. 7,7.</ls> <ls>YĀJÑ. 1,322.</ls> <ls>KĀM. NĪTIS. 5,47.</ls> <ls>Verz. d. Oxf. H. 91,a,18.</ls> {#ब्रह्मन्#} <lex>n.</lex> <ls>Spr.</ls> {#नन्वात्मन्यव°#}.{# पर#} <lex>m.</lex> oder <lex>n.</lex> {%der höchste Geist, die Weltseele, das Absolutum%}; {#परः = परमात्मन्#} 
 <ls>VAIJ. a. a. O.</ls> {#परम् = कैवल्यम् = अमृतम्#} 
 <ls>RATNĀV.</ls> im <ls>ŚKDR.</ls> {#ब्रह्मविदाप्नोति परम्#} 
 <ls>TAITT. UP. 2, 1.</ls> <ls>BHAG. 3, 19.</ls> {#यान्ति ते परम्#} 
@@ -171,11 +171,11 @@
 <ls>463, v. l.</ls> {#याच्ञा°#} 
 <ls>H. 860.</ls> {#सुख°#} {%überaus glücklich, - froh%} 
 <ls>ŚĀK. 162, v. l.</ls> {#उपभोगपरानर्थान्#} {%vor Allem zum Genuss bestimmt%} 
-<ls>HAEB. Anth. 223,</ls> <ls>Śl. 73.</ls> nom. abstr.: {#विपथावपा तपरता#} 
+<ls>HAEB. Anth. 223, Śl. 73.</ls> nom. abstr.: {#विपथावपा तपरता#} 
 <ls>RĀJA-TAR. 5, 377.</ls> 
 <div n="2">— e) {%fremd, ein Fremder, ein Anderer%} (im Gegens. zum {%eigenen Selbst); feindlich, Feind%} (Gegens. {#अवर, अन्तर, आत्मन्, स्वयम्, स्व, निज); = अनात्मन्#} 
 <ls>AK. 3, 4, 25, 193.</ls> = {#अन्य#} 
-<ls>H. an.</ls><ls>MED.</ls> <ls>VAIJ. a. a. O.</ls>
+<ls>H. an.</ls> <ls>MED.</ls> <ls>VAIJ.</ls> a. a. O.
 [Page4-0481]
 = {#अरि, शत्रु#} u. s. w. 
 <ls>AK. 2, 8, 1, 11.</ls> 
@@ -236,7 +236,7 @@
 <div n="2"> a) {%eine best. Pflanze%} ({#बन्ध्याकर्कोटकी#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) N. pr. eines Flusses 
-<ls>MBH. 6, 327</ls> <ls>?(VP. 182</ls>; {#पारा#} v. l.). 
+<ls>MBH. 6, 327</ls> (<ls>VP. 182</ls>; {#पारा#} v. l.). 
 <div n="2">— c) {#नाभिरूपमूलाधारात्प्रथमोदितनादस्वरूपवर्णः । यथा । मूलाधारात्प्रथममुदितो यस्तु भावः पराख्यः#} (warum fem.?) {#। इत्यलंकारकौस्तुभे १ किरणः ॥#} 
 <ls>ŚKDR.</ls> 
 <div n="1">— 4) <lex>n.</lex> 

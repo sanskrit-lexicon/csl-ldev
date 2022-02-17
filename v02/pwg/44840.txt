@@ -21,7 +21,7 @@
 <ls>ŚAT. BR. 3, 8, 3, 17. 12, 5, 2, 7.</ls> 
 <ls>ĀŚV. GṚHY. 4, 3.</ls> {#संविशन्ति दक्षिणैः पार्श्वैः#} 
 <ls>GOBH. 3, 9, 17.</ls> {#सुष्वापैकेन पार्श्वेन दिवसानेकविंशतिम्#} 
-<ls>MBH. 13, 2749. 3, 2787. 14, 2692. 2802.</ls> {#पार्श्वानि चान्ये शकलानि तत्र ददुः पशूनां घृतम्रक्षितानि#} 
+<ls>MBH. 13, 2749.</ls> <ls n="MBH.">3, 2787.</ls> <ls n="MBH.">14, 2692.</ls> <ls n="MBH. 14,">2802.</ls> {#पार्श्वानि चान्ये शकलानि तत्र ददुः पशूनां घृतम्रक्षितानि#} 
 <ls>HARIV. 8442.</ls> 
 <ls>SUŚR. 1, 124, 10. 156, 10. 2, 59, 4.</ls> 
 <ls>VARĀH. BṚH. S. 50, 9.</ls> {#दक्षिण°#} 
@@ -48,7 +48,7 @@
 <ls>MBH. 1, 6451.</ls> 
 <ls>R. 1, 35, 10 (36, 10 GORR.). 55, 12.</ls> {#धवलगृहपार्श्वे रात्रा^ववलम्बितवरत्रां दृष्ट्वा#} {%am Hause%} 
 <ls>PAÑCAT. 128, 18.</ls> {#दक्षिणाधिपतिपार्श्वे (°पार्श्वं?) पिता प्रहितः#} {%zu%} 
-<ls>VET.</ls> in <ls>LA. 35, 10.</ls> <ls>ŚUK. ebend. 41, 6.</ls> {#पार्श्वम्#} {%hin zu%}: {#नृपतेः पार्श्वमास्थिता#} 
+<ls>VET. in LA. 35, 10.</ls> <ls>ŚUK. ebend. 41, 6.</ls> {#पार्श्वम्#} {%hin zu%}: {#नृपतेः पार्श्वमास्थिता#} 
 <ls>SĀV. 1, 27.</ls> {#केनाप्युत्क्षिपतेव भुवनं मत्पार्श्वमानीयते#} 
 <ls>ŚĀK. 167.</ls> {#त्वत्पितुः पार्श्वमस्माकं प्रतिगच्छताम्#} 
 <ls>KATHĀS. 10, 58. 28, 107. 32, 13. 39, 40. 111.</ls> 
@@ -66,11 +66,11 @@
 <ls>H. an.</ls> <ls>MED.</ls> Es sind damit wohl {%die dem Rade zunächst stehenden äussersten Enden der Vorderachse%} gemeint, an welchen die Seitenpferde eines mit 4 Pferden bespannten Wagens ziehen; = {#पार्ष्णि#}, mit dem das Wort 
 <ls>MBH. 3, 13308. fg.</ls> wechselt. 
 <div n="1">— 4) <lex>m.</lex> du. so v. a. {%Himmel und Erde%} 
-<ls>NAIGH. 3, 30 </ls> (v. l. {#पार्श्व्यौ#}). 
+<ls>NAIGH. 3, 30</ls> (v. l. {#पार्श्व्यौ#}). 
 <div n="1">— 5) <lex>n.</lex> {%Seitenwege, unredliche Mittel%} 
 <ls>P. 5, 2, 75</ls>; vgl. {#पार्श्वक#} . 
 <div n="1">— 6) <lex>m.</lex> N. pr. eines alten buddhistischen Lehrers 
-<ls>WASSILJEW 48 u.s.w.</ls> <ls>SCHIEFNER,</ls> <ls>Lebensb. 310 (80).</ls> N. pr. des 23ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is> (bei den <is>Gaina</is>) 
+<ls>WASSILJEW 48</ls> u.s.w. <ls>SCHIEFNER, Lebensb. 310 (80).</ls> N. pr. des 23ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is> (bei den <is>Gaina</is>) 
 <ls>H. 28. 49.</ls> 
 <ls>ŚATR. 1, 4. 14, 1.</ls> Sein Diener führt denselben Namen nach 
 <ls>H. 43.</ls> 

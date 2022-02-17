@@ -1,4 +1,4 @@
 <L>3383<pc>112<k1>chafing-dish<k2>chafing-dish
-<div n="lb"/>{@CHAFING-DISH:@}¦ <div n="1">(1) {#अङ्गारधानिका;#} </div><div n="1">(2) {#अङ्गार-#}
-<div n="lb"/>{#शकटी।#}</div>
+{@CHAFING-DISH:@}¦ <div n="1">(1) {#अङ्गारधानिका;#} </div><div n="1">(2) {#अङ्गार-#}
+{#शकटी।#}</div>
 <LEND>

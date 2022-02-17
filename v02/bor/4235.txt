@@ -1,5 +1,5 @@
 <L>4235<pc>137<k1>comply<k2>comply
-<div n="lb"/>{@COMPLY@}¦ (v.): <div n="1">(1) {#अनुविधत्ते#} ({#धा,#} c. 3.): v. To
-<div n="lb"/>obey; </div><div n="1">(2) {#अनुमन्यते#} ({#मन्,#} c. 4): v. To assent;</div>
-<div n="lb"/><div n="1">(3) {#पूरयति#} ({#पूर,#} c. 10.): v. To satisfy.</div>
+{@COMPLY@}¦ (v.): <div n="1">(1) {#अनुविधत्ते#} ({#धा,#} c. 3.): v. To
+obey; </div><div n="1">(2) {#अनुमन्यते#} ({#मन्,#} c. 4): v. To assent;</div>
+<div n="1">(3) {#पूरयति#} ({#पूर,#} c. 10.): v. To satisfy.</div>
 <LEND>

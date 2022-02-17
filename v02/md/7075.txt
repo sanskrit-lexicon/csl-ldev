@@ -1,32 +1,32 @@
 <L>7075<pc>086-1<k1>गृहकपोत<k2>गृहकपोत
 {#गृहकपोत#}¦gṛha-kapota, {%m.%} domestic pigeon; 
-<>{@-karma-kara,@} {%m.%} domestic; {@-karma-dāsa,@} 
-<>{%m.%} domestic slave; {@-karman,@} {%n.%} household 
-<>affair; {@-kāraka,@} {%m.%} carpenter; {@-kārin,@} {%m. %}
-<>{%kind of%} wasp; {@-kārya,@} {%n.%} household affair; 
-<>{@-kṛtya@}, {%n. id.%}; {%kind of%} tax; {@-gupta,@} ({%pp.%}) 
-<>{%m. N.%}; {@-cchidra@}, {%n.%} hold {%or%} weak point in 
-<>the house; {@-ja@}, {%a.%} born in the house; {@-jana@}, 
-<>{%m.%} family; {@-jāta@}, {%pp.%} born in the house; 
-<>{@-dāru,@} {%n.%} beam of a house; {@-dāha,@} {%m.%} conflagration; <lbinfo n="3"/>
-<> {@-dīpti,@} {%f.%} light (= ornament) of 
-<>the house; {@-devatā,@} {%f. pl.%} domestic deities; 
-<>{@-dvāra,@} {%n.%} house-door; {@-nadikā,@} {%f.%} drain of 
-<>a house; {@-nirvāha,@} {%m.%} house keeping; {@-pá,@} 
-<>{%m.%} guardian of the house; ({@á@}) {@-pati,@} {%m.%} master 
-<>of the house, paterfamilias; {%ep. of%} Agni; one 
-<>who has precedence at a Satra; village 
-<>magistrate; {@-pāta,@} {%m.%} collapse of a house; 
-<>{@-pāla,@} {%m.%} guardian of the house; {@-poṣaṇa@}, 
-<>{%n.%} maintenance of the household; {@-bali,@} {%m.%} 
-<>domestic offering: {@-bhuj@}, {%m.%} bird that feeds 
-<>on the domestic offering ({%sparrows, crows, %}
-<>{%and other birds%}); {@-bhartṛ@}, {%m.%} master of the 
-<>house; {@-bhojin@}, {%m.%} member of the household; <lbinfo n="5"/>
-<> {@-medhá,@} ¤1.¤ {%m.%} domestic sacrifice; ¤2.¤ 
-<>{%a.%} performing {%or%} taking part in the domestic 
-<>sacrifices; {%m.%} householder, paterfamilias; 
-<>{@-medhin,@} {%a. id.%}; {%m. married Brāhman%} householder <lbinfo n="5"/>
-<> ({%second stage in his religious life%}): 
-<>{@-ī,@} {%f. Brāhman%} housewife.
+{@-karma-kara,@} {%m.%} domestic; {@-karma-dāsa,@} 
+{%m.%} domestic slave; {@-karman,@} {%n.%} household 
+affair; {@-kāraka,@} {%m.%} carpenter; {@-kārin,@} {%m. %}
+{%kind of%} wasp; {@-kārya,@} {%n.%} household affair; 
+{@-kṛtya@}, {%n. id.%}; {%kind of%} tax; {@-gupta,@} ({%pp.%}) 
+{%m. N.%}; {@-cchidra@}, {%n.%} hold {%or%} weak point in 
+the house; {@-ja@}, {%a.%} born in the house; {@-jana@}, 
+{%m.%} family; {@-jāta@}, {%pp.%} born in the house; 
+{@-dāru,@} {%n.%} beam of a house; {@-dāha,@} {%m.%} conflagration; <lbinfo n="3"/>
+ {@-dīpti,@} {%f.%} light (= ornament) of 
+the house; {@-devatā,@} {%f. pl.%} domestic deities; 
+{@-dvāra,@} {%n.%} house-door; {@-nadikā,@} {%f.%} drain of 
+a house; {@-nirvāha,@} {%m.%} house keeping; {@-pá,@} 
+{%m.%} guardian of the house; ({@á@}) {@-pati,@} {%m.%} master 
+of the house, paterfamilias; {%ep. of%} Agni; one 
+who has precedence at a Satra; village 
+magistrate; {@-pāta,@} {%m.%} collapse of a house; 
+{@-pāla,@} {%m.%} guardian of the house; {@-poṣaṇa@}, 
+{%n.%} maintenance of the household; {@-bali,@} {%m.%} 
+domestic offering: {@-bhuj@}, {%m.%} bird that feeds 
+on the domestic offering ({%sparrows, crows, %}
+{%and other birds%}); {@-bhartṛ@}, {%m.%} master of the 
+house; {@-bhojin@}, {%m.%} member of the household; <lbinfo n="5"/>
+ {@-medhá,@} ¤1.¤ {%m.%} domestic sacrifice; ¤2.¤ 
+{%a.%} performing {%or%} taking part in the domestic 
+sacrifices; {%m.%} householder, paterfamilias; 
+{@-medhin,@} {%a. id.%}; {%m. married Brāhman%} householder <lbinfo n="5"/>
+ ({%second stage in his religious life%}): 
+{@-ī,@} {%f. Brāhman%} housewife.
 <LEND>

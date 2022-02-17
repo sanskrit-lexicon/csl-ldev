@@ -1,8 +1,8 @@
 <L>5149<pc>166<k1>crowd<k2>crowd
-<div n="lb"/>{@CROWD@}¦ (v. t.): <div n="I">I Lit.: Ph.: <div n="xe">{%the place was%}
-<div n="lb"/>{%very c. ed:%}</div> <div n="xs">{#तत्र महान् जनसंमर्द आसीत्;#}</div> <div n="xe">{%c. ed with%}
-<div n="lb"/>{%cars and horses:%}</div> <div n="xs">{#रथाश्वसङ्कुलः#}</div> ({#ला, लं#}), Ki. i. 16.,
-<div n="lb"/><div n="xe">{%a. c. ed house:%}</div> <div n="xs">{#जनाकीर्णं गृहम्#}</div> (i. e. full of men),
-<div n="lb"/>Sa.: <div n="xe">{%the theatre is c. ed today:%}</div> <div n="xs">{#अद्य प्रेक्षकपूर्णा रङ्ग-#}
-<div n="lb"/>{#शाला#}</div> (?). </div><div n="I">II To urge: q. v.</div>
+{@CROWD@}¦ (v. t.): <div n="I">I Lit.: Ph.: <div n="xe">{%the place was%}
+{%very c. ed:%}</div> <div n="xs">{#तत्र महान् जनसंमर्द आसीत्;#}</div> <div n="xe">{%c. ed with%}
+{%cars and horses:%}</div> <div n="xs">{#रथाश्वसङ्कुलः#}</div> ({#ला, लं#}), Ki. i. 16.,
+<div n="xe">{%a. c. ed house:%}</div> <div n="xs">{#जनाकीर्णं गृहम्#}</div> (i. e. full of men),
+Sa.: <div n="xe">{%the theatre is c. ed today:%}</div> <div n="xs">{#अद्य प्रेक्षकपूर्णा रङ्ग-#}
+{#शाला#}</div> (?). </div><div n="I">II To urge: q. v.</div>
 <LEND>

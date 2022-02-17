@@ -1,8 +1,8 @@
 <L>6005<pc>193<k1>detail<k2>detail
-<div n="lb"/>{@DETAIL@}¦ (v. t.): {#विस्तरेण#} <div n="xe">{%or%}</div> <div n="xs">{#विस्तरतः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#कार्त्स्येन कथयति#}</div>
-<div n="lb"/>({#कथ्,#} c. 10.) (=to tell: q. v.) <div n="xe">{%or%}</div> <div n="xs">{#वर्णयति#}</div>
-<div n="lb"/>(=to describe), {%d. to us the birth of Kārtika:%}
-<div n="lb"/>{#अस्माकं गुहजन्म कात्स्येन ब्रूहि,#} Mat.; <div n="xe">{%I want to%}
-<div n="lb"/>{%hear a d. ed account of it:%}</div> <div n="xs">{#विस्तरेण श्रोतुमिच्छामि,#}</div>
-<div n="lb"/>Mu. iv.
+{@DETAIL@}¦ (v. t.): {#विस्तरेण#} <div n="xe">{%or%}</div> <div n="xs">{#विस्तरतः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#कार्त्स्येन कथयति#}</div>
+({#कथ्,#} c. 10.) (=to tell: q. v.) <div n="xe">{%or%}</div> <div n="xs">{#वर्णयति#}</div>
+(=to describe), {%d. to us the birth of Kārtika:%}
+{#अस्माकं गुहजन्म कात्स्येन ब्रूहि,#} Mat.; <div n="xe">{%I want to%}
+{%hear a d. ed account of it:%}</div> <div n="xs">{#विस्तरेण श्रोतुमिच्छामि,#}</div>
+Mu. iv.
 <LEND>

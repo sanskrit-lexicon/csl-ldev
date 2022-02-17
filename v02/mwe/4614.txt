@@ -1,5 +1,5 @@
 <L>4614<pc>098-b<k1>clause<k2>clause
-<div n="lb"/>CLAUSE¦, {%s.%} (Division of a subject) {#पदं, स्थानं, मार्गः, अधिकरणं,#}
-<div n="lb"/>{#अङ्गं, शाखा#}. — (Sentence) {#वाक्यं#}. — (Particular stipulation)
-<div n="lb"/>{#नियमपत्राङ्गं, नियमः#}.
+CLAUSE¦, {%s.%} (Division of a subject) {#पदं, स्थानं, मार्गः, अधिकरणं,#}
+{#अङ्गं, शाखा#}. — (Sentence) {#वाक्यं#}. — (Particular stipulation)
+{#नियमपत्राङ्गं, नियमः#}.
 <LEND>

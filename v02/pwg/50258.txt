@@ -9,7 +9,7 @@
 <ls>MBH. 1, 8041.</ls> {#याने प्रहरणे चैव#} 
 <ls>4, 89. 7, 100.</ls> 
 <div n="1">— 2) {%das Fortschlagen, Entfernen, Vertreiben%}: {#अविद्याकृतानेकभ्रम°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 231.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 231.</ls> 
 <div n="1">— 3) {%Waffe%} 
 <ls>AK. 2, 8, 2, 50. 3, 6, 1, 5.</ls> 
 <ls>H. 773.</ls> 
@@ -18,7 +18,7 @@
 <ls>MBH. 12, 6121.</ls> 
 <ls>ARJ. 7, 22.</ls> {#नानाशस्त्र°#} <lex>adj.</lex> 
 <ls>BHAG. 1, 9.</ls> {#(यमः) मृत्युप्रहरणो#} (so ist zu lesen) {#रणे#} 
-<ls>HARIV. 2694. 13183.</ls> 
+<ls>HARIV. 2694.</ls> <ls n="HARIV.">13183.</ls> 
 <ls>R. 3, 35, 77.</ls> 
 <ls>Spr. 756. 1643.</ls> 
 <ls>RAGH. 13, 73.</ls> 
@@ -27,7 +27,7 @@
 <ls>BHĀG. P. 5, 20, 19.</ls> 
 <ls>PAÑCAT. ed. orn. 3, 6.</ls> <ls>HIT. 72, 12.</ls> {#कृत°#} {%der sich%} (vgl. {#कृतास्त्र#}) {%im Gebrauch der Waffen geübt hat%} 
 <ls>MBH. 5, 5733.</ls> masc. <ls>HARIV. 180.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
-<ls>MBH. 6, 799. 9, 2665.</ls> 
+<ls>MBH. 6, 799.</ls> <ls n="MBH.">9, 2665.</ls> 
 <ls>R. 5, 24, 30. 6, 29, 14.</ls> 
 <div n="1">— 4) {%Wagenkasten%} 
 <ls>BHĀG. P. 4, 26, 2.</ls> 

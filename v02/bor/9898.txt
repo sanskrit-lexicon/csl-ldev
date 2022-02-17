@@ -1,29 +1,29 @@
 <L>9898<pc>312<k1>give<k2>give
-<div n="lb"/>{@GIVE@}¦ (v.t.): <div n="I">I To bestow: </div><div n="1">(1) {#ददाति, दत्ते#} {%or%}
-<div n="lb"/>{#यच्छति, प्र-, सम्प्र-, सं-,#} ({#दा,#} c. 3. and 1), <div n="xe">{%the king%}
-<div n="lb"/>{%g.s him his daughter and lieutenancy:%}</div> <div n="xs">{#तस्मै राजा #}
-<div n="lb"/>{# ददाति तनयां च यौवराज्यं च,#}</div> K.s. xxiv. 53.; <div n="xe">{%to g.%}
-<div n="lb"/>{%knowledge:%}</div> <div n="xs">{#विद्यां दातुम्,#}</div> Ki. iii. 23.; </div><div n="1">(2) {#वितरति#}
-<div n="lb"/>({#तॄ,#} c. 1.) (= to g. freely), {%I will g. you eyes:%}
-<div n="lb"/>{#चक्षुस्ते वितराम्यहम्,#} Mah.; </div><div n="1">(3) {#वि-सर्जयति, अति-#}
-<div n="lb"/>({#सृज्,#} c. 10.) (= to g. lavishly), <div n="xe">{%for taking is%}
-<div n="lb"/>{%to g.:%}</div> <div n="xs">{#आदानं हि विसर्गाय,#}</div> R. iv. 86.; </div><div n="1">(4) {#प्रति-#}
-<div n="lb"/>{#पादयति#} (c. of {#पद्#}) (rare) (= to make over),
-<div n="lb"/><div n="xe">{%g. ing of things with faith:%}</div> <div n="xs">{#अर्थानां श्रद्धया प्रतिपादनम्,#}</div>
-<div n="lb"/>H.s.; </div><div n="1">(5) {#स्पर्शयति#} (c. of {#स्पृश्#}) (rare) (= to
-<div n="lb"/>cause to reach), <div n="xe">{%g. ing millions of kine:%}</div> <div n="xs">{#गाः #}
-<div n="lb"/>{# कोटिशः स्पर्शयत,#}</div> R. iii. 49. </div><div n="I">II To deliver: [Page313]</div>
-<div n="lb"/><div n="1">(1) {#ददाति#} {%there are six ways of g. ing and taking:%}
-<div n="lb"/>{#षड्विधो दानादानविधिः,#} N.s.; </div><div n="1">(2) {#अर्पयति, सम्-,#}
-<div n="lb"/>{%gave%} ({%the child%}) <div n="xe">{%to the queen to bring up:%}</div> <div n="xs">{#देव्यै #}
-<div n="lb"/>{# वर्धयेति समर्पितवान्,#}</div> D. </div><div n="I">III To produce: {#जायते #}
-<div n="lb"/>{# सं-,#} ({#जन्,#} c. 4.), {%striking off twenty, it g.s interest:%}
-<div n="lb"/>..... {#विंशत्यापवर्त्य जातं कलान्तरम्,#} Li. </div><div n="I">IV To
-<div n="lb"/>admit: q.v.: {#परिगृह्वाति#} ({#ग्रह्,#} c. 9.). V. To
-<div n="lb"/>devote: q.v.: {#आत्मानं ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#समर्पयति,#}</div>
-<div n="lb"/>Miscel., <div n="xe">{%to g. ear:%}</div> <div n="xs">{#कर्णं ददाति,#}</div> Sa. i.; {%to g. advice:%}
-<div n="lb"/>{#उपदेशं ददाति,#} P.; {%to g. way%} (in the street, etc.):
-<div n="lb"/>{#वर्त्म ददाति,#} Ki. xiv. 14. <div n="xe">{%or%}</div> <div n="xs">{#अन्तरं ददाति,#}</div> Mr.
-<div n="lb"/>x.; <div n="xe">{%to g. order:%}</div> <div n="xs">{#आज्ञां ददाति,#}</div> V.p.; {%to give time:%}
-<div n="lb"/>{#कालं ददाति,#} Mat.; <div n="xe">{%to g. thanks:%}</div> <div n="xs">{#धन्यवादं करोति#}</div> (?),</div>
+{@GIVE@}¦ (v.t.): <div n="I">I To bestow: </div><div n="1">(1) {#ददाति, दत्ते#} {%or%}
+{#यच्छति, प्र-, सम्प्र-, सं-,#} ({#दा,#} c. 3. and 1), <div n="xe">{%the king%}
+{%g.s him his daughter and lieutenancy:%}</div> <div n="xs">{#तस्मै राजा #}
+{# ददाति तनयां च यौवराज्यं च,#}</div> K.s. xxiv. 53.; <div n="xe">{%to g.%}
+{%knowledge:%}</div> <div n="xs">{#विद्यां दातुम्,#}</div> Ki. iii. 23.; </div><div n="1">(2) {#वितरति#}
+({#तॄ,#} c. 1.) (= to g. freely), {%I will g. you eyes:%}
+{#चक्षुस्ते वितराम्यहम्,#} Mah.; </div><div n="1">(3) {#वि-सर्जयति, अति-#}
+({#सृज्,#} c. 10.) (= to g. lavishly), <div n="xe">{%for taking is%}
+{%to g.:%}</div> <div n="xs">{#आदानं हि विसर्गाय,#}</div> R. iv. 86.; </div><div n="1">(4) {#प्रति-#}
+{#पादयति#} (c. of {#पद्#}) (rare) (= to make over),
+<div n="xe">{%g. ing of things with faith:%}</div> <div n="xs">{#अर्थानां श्रद्धया प्रतिपादनम्,#}</div>
+H.s.; </div><div n="1">(5) {#स्पर्शयति#} (c. of {#स्पृश्#}) (rare) (= to
+cause to reach), <div n="xe">{%g. ing millions of kine:%}</div> <div n="xs">{#गाः #}
+{# कोटिशः स्पर्शयत,#}</div> R. iii. 49. </div><div n="I">II To deliver: [Page313]</div>
+<div n="1">(1) {#ददाति#} {%there are six ways of g. ing and taking:%}
+{#षड्विधो दानादानविधिः,#} N.s.; </div><div n="1">(2) {#अर्पयति, सम्-,#}
+{%gave%} ({%the child%}) <div n="xe">{%to the queen to bring up:%}</div> <div n="xs">{#देव्यै #}
+{# वर्धयेति समर्पितवान्,#}</div> D. </div><div n="I">III To produce: {#जायते #}
+{# सं-,#} ({#जन्,#} c. 4.), {%striking off twenty, it g.s interest:%}
+..... {#विंशत्यापवर्त्य जातं कलान्तरम्,#} Li. </div><div n="I">IV To
+admit: q.v.: {#परिगृह्वाति#} ({#ग्रह्,#} c. 9.). V. To
+devote: q.v.: {#आत्मानं ददाति#} <div n="xe">{%or%}</div> <div n="xs">{#समर्पयति,#}</div>
+Miscel., <div n="xe">{%to g. ear:%}</div> <div n="xs">{#कर्णं ददाति,#}</div> Sa. i.; {%to g. advice:%}
+{#उपदेशं ददाति,#} P.; {%to g. way%} (in the street, etc.):
+{#वर्त्म ददाति,#} Ki. xiv. 14. <div n="xe">{%or%}</div> <div n="xs">{#अन्तरं ददाति,#}</div> Mr.
+x.; <div n="xe">{%to g. order:%}</div> <div n="xs">{#आज्ञां ददाति,#}</div> V.p.; {%to give time:%}
+{#कालं ददाति,#} Mat.; <div n="xe">{%to g. thanks:%}</div> <div n="xs">{#धन्यवादं करोति#}</div> (?),</div>
 <LEND>

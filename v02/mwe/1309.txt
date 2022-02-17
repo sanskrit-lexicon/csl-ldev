@@ -1,6 +1,6 @@
 <L>1309<pc>027-b<k1>aspect<k2>aspect
-<div n="lb"/>ASPECT¦, {%s.%} (Appearance, look) {#रूपं, आकारः, आकृतिः#} {%f.,%} {#आभा,#}
-<div n="lb"/>{#मूर्त्तिः#} {%f.%} — (Countenance) {#वदन्रं#}. — (State) {#अवस्था, दशा#}. — (Act
-<div n="lb"/>of beholding) {#आलोकनं, दर्शनं, निरीक्षणं#}. — (Relation) {#सम्पर्कः,#}
-<div n="lb"/>{#सम्बन्धः#}. — (Situation) {#अवस्थानं#}. — (Disposition of a planet) {#दशा#}.
+ASPECT¦, {%s.%} (Appearance, look) {#रूपं, आकारः, आकृतिः#} {%f.,%} {#आभा,#}
+{#मूर्त्तिः#} {%f.%} — (Countenance) {#वदन्रं#}. — (State) {#अवस्था, दशा#}. — (Act
+of beholding) {#आलोकनं, दर्शनं, निरीक्षणं#}. — (Relation) {#सम्पर्कः,#}
+{#सम्बन्धः#}. — (Situation) {#अवस्थानं#}. — (Disposition of a planet) {#दशा#}.
 <LEND>

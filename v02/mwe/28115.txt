@@ -1,6 +1,6 @@
 <L>28115<pc>771-a<k1>standing<k2>standing
-<div n="lb"/>STANDING¦, {%s.%} (Continuance) {#स्थायित्वं, स्थितिः#} {%f.,%} {#अवस्थितिः#} {%f.,%} {#संस्थि-#}
-<div n="lb"/>{#तिः#} {%f.;%} ‘of long standing,’ {#चिरस्थायी#} &c., {%see%} LASTING. — 
-<div n="lb"/>(Station) {#स्थानं, पदं, पदवी, आस्पदं;#} ‘high standing,’ {#उच्चपदं,#}
-<div n="lb"/>{%see%} RANK.
+STANDING¦, {%s.%} (Continuance) {#स्थायित्वं, स्थितिः#} {%f.,%} {#अवस्थितिः#} {%f.,%} {#संस्थि-#}
+{#तिः#} {%f.;%} ‘of long standing,’ {#चिरस्थायी#} &c., {%see%} LASTING. — 
+(Station) {#स्थानं, पदं, पदवी, आस्पदं;#} ‘high standing,’ {#उच्चपदं,#}
+{%see%} RANK.
 <LEND>

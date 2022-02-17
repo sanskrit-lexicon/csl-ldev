@@ -1,7 +1,7 @@
 <L>13371<pc>412<k1>leave<k2>leave
-<div n="lb"/>{@LEAVE@}¦ (subs.): <div n="I">I Permission: q. v.: {#अनुज्ञा।#}
-<div n="lb"/>Ph.: <div n="xe">{%by your l.:%}</div> <div n="xs">{#तवानुमते,#}</div> Mah. </div><div n="I">II Depar-
-<div n="lb"/>-ture: {#विदायः,#} {%give me l.%} ({%to depart%}): {#विदायो #}
-<div n="lb"/>{# दीयतामिति,#} Ma. n. v. 99. {%L.%} ({%of absence%}): {#विदायः#}
-<div n="lb"/>(used in Bengali); <div n="xe">{%privilege l.:%}</div> <div n="xs">{#*देयविदायः।#}</div></div>
+{@LEAVE@}¦ (subs.): <div n="I">I Permission: q. v.: {#अनुज्ञा।#}
+Ph.: <div n="xe">{%by your l.:%}</div> <div n="xs">{#तवानुमते,#}</div> Mah. </div><div n="I">II Depar-
+-ture: {#विदायः,#} {%give me l.%} ({%to depart%}): {#विदायो #}
+{# दीयतामिति,#} Ma. n. v. 99. {%L.%} ({%of absence%}): {#विदायः#}
+(used in Bengali); <div n="xe">{%privilege l.:%}</div> <div n="xs">{#*देयविदायः।#}</div></div>
 <LEND>

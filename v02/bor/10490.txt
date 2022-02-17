@@ -1,4 +1,4 @@
 <L>10490<pc>330<k1>habitude<k2>habitude
-<div n="lb"/>{@HABITUDE:@}¦ <div n="I">I Familiarity: q.v. </div><div n="I">II Mode:
-<div n="lb"/>{#प्रकारः#} (?)</div>
+{@HABITUDE:@}¦ <div n="I">I Familiarity: q.v. </div><div n="I">II Mode:
+{#प्रकारः#} (?)</div>
 <LEND>

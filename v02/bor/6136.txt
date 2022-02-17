@@ -1,11 +1,11 @@
 <L>6136<pc>197<k1>difficult<k2>difficult
-<div n="lb"/>{@DIFFICULT:@}¦ <div n="1">(1) Often by a comp. with {#दुर्,#}
-<div n="lb"/><div n="xe">{%d. to understand:%}</div> <div n="xs">{#दुर्बोधः#}</div> ({#धा, धं#}); {%d. to climb:%}
-<div n="lb"/>{#दुरारोहः#} ({#हा, हं#}); <div n="xe">{%d. to pass:%}</div> <div n="xs">{#दुर्गमः#}</div> ({#मा, मं#});</div>
-<div n="lb"/><div n="1">(2) {#दुःख-, कष्ट-,#} <div n="xe">{%or%}</div> <div n="xs">{#कृच्छ्र-,#}</div> in comp. (of
-<div n="lb"/>physical d. ies), {%very d. to procure food here:%}
-<div n="lb"/>{#कष्टतरलभ्याहारमिदं स्थानम्,#} H.; </div><div n="1">(3) {#विषमः#} ({#मा, मं#}),
-<div n="lb"/><div n="xe">{%although d. political science is dived into:%}</div> <div n="xs">{#विषमोऽपि #}
-<div n="lb"/>{# विगाह्यते नयः,#}</div> Ki.; </div><div n="1">(4) {#कठिनः#} ({#ना, नं#})
-<div n="lb"/>(=hard); </div><div n="1">(5) {#दुरूहः#} ({#हा, हं#}) (= obscure).</div>
+{@DIFFICULT:@}¦ <div n="1">(1) Often by a comp. with {#दुर्,#}
+<div n="xe">{%d. to understand:%}</div> <div n="xs">{#दुर्बोधः#}</div> ({#धा, धं#}); {%d. to climb:%}
+{#दुरारोहः#} ({#हा, हं#}); <div n="xe">{%d. to pass:%}</div> <div n="xs">{#दुर्गमः#}</div> ({#मा, मं#});</div>
+<div n="1">(2) {#दुःख-, कष्ट-,#} <div n="xe">{%or%}</div> <div n="xs">{#कृच्छ्र-,#}</div> in comp. (of
+physical d. ies), {%very d. to procure food here:%}
+{#कष्टतरलभ्याहारमिदं स्थानम्,#} H.; </div><div n="1">(3) {#विषमः#} ({#मा, मं#}),
+<div n="xe">{%although d. political science is dived into:%}</div> <div n="xs">{#विषमोऽपि #}
+{# विगाह्यते नयः,#}</div> Ki.; </div><div n="1">(4) {#कठिनः#} ({#ना, नं#})
+(=hard); </div><div n="1">(5) {#दुरूहः#} ({#हा, हं#}) (= obscure).</div>
 <LEND>

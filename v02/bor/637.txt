@@ -1,4 +1,4 @@
 <L>637<pc>023<k1>alternation<k2>alternation
-<div n="lb"/>{@ALTERNATION:@}¦ <div n="1">(1) {#पर्यायक्रमः;#} </div><div n="1">(2) {#पर्यायवृत्तिः;#}</div>
-<div n="lb"/><div n="1">(3) {#परिवृत्तिः।#} (=change: q. v.)</div>
+{@ALTERNATION:@}¦ <div n="1">(1) {#पर्यायक्रमः;#} </div><div n="1">(2) {#पर्यायवृत्तिः;#}</div>
+<div n="1">(3) {#परिवृत्तिः।#} (=change: q. v.)</div>
 <LEND>

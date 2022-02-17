@@ -1,5 +1,5 @@
 <L>11217<pc>352<k1>horse-whip<k2>horse-whip
-<div n="lb"/>{@HORSE-WHIP:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#कशा,#} Si. v. 10:;</div>
-<div n="lb"/><div n="1">(2) {#अश्वताड(डि)नी,#} A. </div><div n="I">II Verb: {#कशाघातं #}
-<div n="lb"/>{# करोति:#} v. To strike.</div>
+{@HORSE-WHIP:@}¦ <div n="I">I Subs.: </div><div n="1">(1) {#कशा,#} Si. v. 10:;</div>
+<div n="1">(2) {#अश्वताड(डि)नी,#} A. </div><div n="I">II Verb: {#कशाघातं #}
+{# करोति:#} v. To strike.</div>
 <LEND>

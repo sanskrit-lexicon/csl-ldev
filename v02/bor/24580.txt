@@ -1,5 +1,5 @@
 <L>24580<pc>771<k1>you<k2>you
-<div n="lb"/>{@YOU:@}¦ {#त्वद्,#} <div n="xe">{%therefore you:%}</div> <div n="xs">{#स त्वम्,#}</div> R. ii. 45.; <div n="xe">{%y.%}
-<div n="lb"/>{%yourself:%}</div> <div n="xs">{#त्वमेव,#}</div> Ku. v. 67. {%y. alone know%}
-<div n="lb"/>{#यूयमेव जानीथ,#} Sa. v. 25.
+{@YOU:@}¦ {#त्वद्,#} <div n="xe">{%therefore you:%}</div> <div n="xs">{#स त्वम्,#}</div> R. ii. 45.; <div n="xe">{%y.%}
+{%yourself:%}</div> <div n="xs">{#त्वमेव,#}</div> Ku. v. 67. {%y. alone know%}
+{#यूयमेव जानीथ,#} Sa. v. 25.
 <LEND>

@@ -12,19 +12,19 @@
 <ls>M. 3, 256. 272. 5, 132.</ls> 
 <ls>YĀJÑ. 3, 296.</ls> 
 <ls>BHAG. 1, 18.</ls> 
-<ls>MBH. 3, 2125. 2322. 2767. 12001.</ls> 
+<ls>MBH. 3, 2125.</ls> <ls n="MBH. 3,">2322.</ls> <ls n="MBH. 3,">2767.</ls> <ls n="MBH. 3,">12001.</ls> 
 <ls>R. 1, 9, 47. 60, 28. fg. 2, 91, 14.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 69, 20. 2, 21, 10.</ls> 
+
+<ls>R. GORR. 1, 69, 20. 2, 21, 10.</ls> 
 <ls>Spr. (II) 6532.</ls> auf ein Collectivum im nom. sg. 
 <ls>R. 2, 78, 13.</ls> auf einen acc. pl. 
 <ls>M. 5, 14. 16. 6, 58. 9, 330. 10, 88.</ls> 
-<ls>MBH. 3, 2408. 2485.</ls> 
+<ls>MBH. 3, 2408.</ls> <ls n="MBH. 3,">2485.</ls> 
 <ls>R. 1, 9, 60. 29, 4. 2, 71, 23. 91, 16.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 29, 2.</ls> auf einen gen. pl. 
+
+<ls>R. GORR. 2, 29, 2.</ls> auf einen gen. pl. 
 <ls>M. 4, 217. 11, 143.</ls> 
-<ls>MBH. 1, 7707. 5, 7248.</ls> 
+<ls>MBH. 1, 7707.</ls> <ls n="MBH.">5, 7248.</ls> 
 <ls>R. 1, 2, 36.</ls> auf ein Collectivum im gen. sg.: {#वृद्धबालस्य स°#} 
 <ls>MBH. 5, 5428.</ls> auf einen instr. 
 <ls>R. 1, 18, 8.</ls> auf einem abl. pl. 

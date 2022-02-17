@@ -1,15 +1,15 @@
 <L>58698<pc>5-0639<k1>महाबहु<k2>महाबहु
-{#महाबहु#}¦ {#(म° + बाहु)#} 
+{#महाबहु#}¦ ({#म° + बाहु#}) 
 <div n="1"> 1) <lex>adj.</lex> {%langarmig%} (vgl. {#दीर्घबाहु#}) 
 <ls>INDR. 1, 9.</ls> 
 <ls>HIḌ. 1, 48. 2, 19. 3, 2.</ls> 
 <ls>N. 2, 11. 4, 30. 12, 8. 14, 11.</ls> 
-<ls>MBH. 1, 5577. 5, 5943. 7260.</ls> 
+<ls>MBH. 1, 5577.</ls> <ls n="MBH.">5, 5943.</ls> <ls n="MBH. 5,">7260.</ls> 
 <ls>R. 1, 1, 11. 3, 55, 36. 38. 51.</ls> Beiw. <is>Viṣṇu's</is>: {#बाहुभ्यां रोदसी बिभ्रन्महाबाहुरिति स्मृतः#} 
 <ls>MBH. 5, 2567.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. 
 <div n="2"> a) eines der Söhne <is>Dhṛtarāṣṭra's</is> 
-<ls>MBH. 1, 2733. 2740. 4545. 4553.</ls> 
+<ls>MBH. 1, 2733.</ls> <ls n="MBH. 1,">2740.</ls> <ls n="MBH. 1,">4545.</ls> <ls n="MBH. 1,">4553.</ls> 
 <div n="2">— b) eines <is>Dānava</is> 
 <ls>HARIV. 200.</ls> 
 <div n="2">— c) eines <is>Rākṣasa</is> 

@@ -1,7 +1,7 @@
 <L>9069<pc>212-b<k1>due<k2>due
-<div n="lb"/>DUE¦, {%s.%} (That which ought to be paid or received) {#देयं, प्रतिदेयं,#}
-<div n="lb"/>{#दानीयं, शोधनीयं, ग्राह्यं, प्राप्यं, प्राप्तव्यं#}. — (Debt) {#ऋणं#}. — (That which
-<div n="lb"/>ought to be done) {#कर्त्तव्यं;#} ‘respect is due to parents,’
-<div n="lb"/>{#मातापितरौ पूजनीयौ#}. — (Tribute) {#शुल्कः -ल्कं, करः, तारिकं, तार्य्यं,#}
-<div n="lb"/>{#राजग्राह्यभागः#}. — (Right) {#अधिकारः, स्वाधिकारः#}.
+DUE¦, {%s.%} (That which ought to be paid or received) {#देयं, प्रतिदेयं,#}
+{#दानीयं, शोधनीयं, ग्राह्यं, प्राप्यं, प्राप्तव्यं#}. — (Debt) {#ऋणं#}. — (That which
+ought to be done) {#कर्त्तव्यं;#} ‘respect is due to parents,’
+{#मातापितरौ पूजनीयौ#}. — (Tribute) {#शुल्कः -ल्कं, करः, तारिकं, तार्य्यं,#}
+{#राजग्राह्यभागः#}. — (Right) {#अधिकारः, स्वाधिकारः#}.
 <LEND>

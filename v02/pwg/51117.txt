@@ -4,7 +4,7 @@
 <div n="1"> 1) {%das Sehen, Anschauen%} 
 <ls>H. an. 2, 566.</ls> 
 <ls>BHĀG. P. 3, 16, 7.</ls> {#मुखप्रेक्ष#} <lex>adj.</lex> {%dessen Blick auf Jmdes Gesicht gerichtet ist%} so v. a. {%auf Jmdes Blicke achtend, Alles Jmd an den Augen absehend%} 
-<ls>MBH. 3, 14654. 15, 477.</ls> {#धर्मप्रेक्ष#} {%den Blick auf das Rechte richtend%} (=  {#धर्मदृष्टि#} 
+<ls>MBH. 3, 14654.</ls> <ls n="MBH.">15, 477.</ls> {#धर्मप्रेक्ष#} {%den Blick auf das Rechte richtend%} (= {#धर्मदृष्टि#} 
 <ls>Schol.</ls>) <ls>R. 2, 85, 16.</ls> {%das Zuschauen bei einer Aufführung%} 
 <ls>HALĀY. 1, 95.</ls> = {#नृत्येक्षण#} 
 <ls>AK. 3, 4, 29, 226.</ls> 
@@ -15,7 +15,7 @@
 <ls>H. an.</ls> {#(या) प्रेक्षासमाजं#} (vgl. {#समाजाः प्रेक्षणानि च#} 
 <ls>M. 9, 264</ls>) {#गच्छेद्वा#} 
 <ls>M. 9, 84.</ls> {#प्रेक्षासु तु सुबह्वीषु#} 
-<ls>HARIV. 8702. 8685.</ls> 
+<ls>HARIV. 8702.</ls> <ls n="HARIV.">8685.</ls> 
 <div n="1">— 4) {%das Auffassen%}: {#पञ्चम्यर्थप्रेक्षा वा षष्ठ्यर्थप्रेक्षा वाकारान्तम्#} (das Wort {#निरृत्या#} in der Stelle {#दूतो निरृत्या इदमा जगाम#}) {%das auf%} {#आ#} {%ausgehende Wort kann als Ablativ oder Genetiv aufgefasst werden%} 
 <ls>NIR. 1, 17.</ls> 
 <div n="1">— 5) {%Umsicht, Ueberlegung, Bedacht, Verstand%} 
@@ -26,7 +26,7 @@
 <ls>HALĀY. 2, 179.</ls> {#तत्कालप्रबलप्रेक्षबौद्धवादिसमूहजित्#} 
 <ls>RĀJA-TAR. 1, 112.</ls> {#प्रेक्षापूर्वं च कृष्णो ऽपि निश्चक्राम#} {%mit Bedacht%} 
 <ls>HARIV. 6462.</ls> 
-<ls>MBH. 2, 2445. 3, 10758.</ls> {#प्रेक्षापूर्वनिर्मितानां शयनासनादीनाम्#} Comm. zu 
+<ls>MBH. 2, 2445.</ls> <ls n="MBH.">3, 10758.</ls> {#प्रेक्षापूर्वनिर्मितानां शयनासनादीनाम्#} Comm. zu 
 <ls>VEDĀNTASŪTRA 2, 2, 1</ls> bei <ls>BANERJEA 130.</ls> {#धिगेतेषामप्रेक्षापूर्वकारिताम्#} 
 <ls>RĀJA-TAR. 4, 58. 610.</ls> 
 <div n="1">— 6) {%Ast%} 

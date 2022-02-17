@@ -1,5 +1,5 @@
 <L>14063<pc>432<k1>malcontent<k2>malcontent
-<div n="lb"/>{@MALCONTENT,@}¦ {@-ED:@} <div n="1">(1) {#असन्तुष्टः#} ({#ष्टा, ष्टं#}): v.
-<div n="lb"/>Discontented; </div><div n="1">(2) {#विरक्तः#} ({#क्ता, क्तं#}): v.
-<div n="lb"/>Seditious.</div>
+{@MALCONTENT,@}¦ {@-ED:@} <div n="1">(1) {#असन्तुष्टः#} ({#ष्टा, ष्टं#}): v.
+Discontented; </div><div n="1">(2) {#विरक्तः#} ({#क्ता, क्तं#}): v.
+Seditious.</div>
 <LEND>

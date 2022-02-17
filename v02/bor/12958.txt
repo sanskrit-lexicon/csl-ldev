@@ -1,5 +1,5 @@
 <L>12958<pc>399<k1>justification<k2>justification
-<div n="lb"/>{@JUSTIFICATION:@}¦ <div n="I">I Excuse: ({#मर्षणीयं#} ?) {#कारणम्,#}
-<div n="lb"/><div n="xe">{%admitting pleads j.:%}</div> <div n="xs">{#प्रपद्य कारणं ब्रूते,#}</div> Mit. </div><div n="I">II
-<div n="lb"/>Absolution: {#शोधनम्#} <div n="xe">{%or%}</div> <div n="xs">{#शुद्धिः।#}</div></div>
+{@JUSTIFICATION:@}¦ <div n="I">I Excuse: ({#मर्षणीयं#} ?) {#कारणम्,#}
+<div n="xe">{%admitting pleads j.:%}</div> <div n="xs">{#प्रपद्य कारणं ब्रूते,#}</div> Mit. </div><div n="I">II
+Absolution: {#शोधनम्#} <div n="xe">{%or%}</div> <div n="xs">{#शुद्धिः।#}</div></div>
 <LEND>

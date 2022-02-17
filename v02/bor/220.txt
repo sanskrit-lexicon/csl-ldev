@@ -1,13 +1,13 @@
 <L>220<pc>009<k1>act<k2>act
-<div n="lb"/>{@ACT@}¦ (v. i.): <div n="I">I To be in action: {#करोति#} ({#कृ,#}
-<div n="lb"/>c. 8): <div n="xe">{%this is not possible that one a. s and%}
-<div n="lb"/>{%another enjoys%}</div> <div n="xs">{#न ह्ये तत् सम्भविष्यत्यन्यः करोत्यन्यः #}
-<div n="lb"/>{# भुङ्क्त इति,#}</div> <ls>D.</ls> s. </div><div n="I">II To conduct oneself: </div><div n="1">(1)
-<div n="lb"/>{#आचरति#} ({#चर्,#} c. 1): <div n="xe">{%the king has a. ed very%}
-<div n="lb"/>{%ungentlemanly towards Sakuntala%}</div> <div n="xs">{#तेन राज्ञा शकु-#}
-<div n="lb"/>{#न्तलायामनार्यमाचरितम्,#}</div> Sa. iv. v. To behave;</div>
-<div n="lb"/><div n="1">(2) by nominal verbs: {%to a. as. a step-mother%}
-<div n="lb"/>{#सपत्नायते;#} <div n="xe">{%to a. as a tutor%}</div> <div n="xs">{#गुरूयते;#}</div> <div n="xe">{%to a. like%}
-<div n="lb"/>{%yourself%}</div> <div n="xs">{#त्वद्यते।#}</div> </div><div n="I">III On the stage: {#अभिनयति#}
-<div n="lb"/>({#नी,#} c. 1) v. Act (v. t.) (II).</div>
+{@ACT@}¦ (v. i.): <div n="I">I To be in action: {#करोति#} ({#कृ,#}
+c. 8): <div n="xe">{%this is not possible that one a. s and%}
+{%another enjoys%}</div> <div n="xs">{#न ह्ये तत् सम्भविष्यत्यन्यः करोत्यन्यः #}
+{# भुङ्क्त इति,#}</div> <ls>D.</ls> s. </div><div n="I">II To conduct oneself: </div><div n="1">(1)
+{#आचरति#} ({#चर्,#} c. 1): <div n="xe">{%the king has a. ed very%}
+{%ungentlemanly towards Sakuntala%}</div> <div n="xs">{#तेन राज्ञा शकु-#}
+{#न्तलायामनार्यमाचरितम्,#}</div> Sa. iv. v. To behave;</div>
+<div n="1">(2) by nominal verbs: {%to a. as. a step-mother%}
+{#सपत्नायते;#} <div n="xe">{%to a. as a tutor%}</div> <div n="xs">{#गुरूयते;#}</div> <div n="xe">{%to a. like%}
+{%yourself%}</div> <div n="xs">{#त्वद्यते।#}</div> </div><div n="I">III On the stage: {#अभिनयति#}
+({#नी,#} c. 1) v. Act (v. t.) (II).</div>
 <LEND>

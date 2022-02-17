@@ -1,6 +1,6 @@
 <L>15746<pc>483<k1>occupation<k2>occupation
-<div n="lb"/>{@OCCUPATION:@}¦ <div n="I">I The act: {#अधिष्ठानम्।#} </div><div n="I">II
-<div n="lb"/>Possession: q.v.: {#भोगः।#} </div><div n="I">III Employment,
-<div n="lb"/>calling: {#वृत्तिः:#} v. Livelihood. </div><div n="I">IV Busi-
-<div n="lb"/>-ness: q.v.: {#व्यापारः।#}</div>
+{@OCCUPATION:@}¦ <div n="I">I The act: {#अधिष्ठानम्।#} </div><div n="I">II
+Possession: q.v.: {#भोगः।#} </div><div n="I">III Employment,
+calling: {#वृत्तिः:#} v. Livelihood. </div><div n="I">IV Busi-
+-ness: q.v.: {#व्यापारः।#}</div>
 <LEND>

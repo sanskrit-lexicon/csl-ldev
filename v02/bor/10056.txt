@@ -1,4 +1,4 @@
 <L>10056<pc>317<k1>goblin<k2>goblin
-<div n="lb"/>{@GOBLIN:@}¦ <div n="1">(1) {#भूतः,#} <div n="xe">{%possessed by g.s:%}</div> <div n="xs">{#भूताविष्टः#}</div> ({#ष्टा, #}
-<div n="lb"/>{# ष्टं#}); </div><div n="1">(2) {#प्रेतः;#} </div><div n="1">(3) {#पिशाचः।#}</div>
+{@GOBLIN:@}¦ <div n="1">(1) {#भूतः,#} <div n="xe">{%possessed by g.s:%}</div> <div n="xs">{#भूताविष्टः#}</div> ({#ष्टा, #}
+{# ष्टं#}); </div><div n="1">(2) {#प्रेतः;#} </div><div n="1">(3) {#पिशाचः।#}</div>
 <LEND>

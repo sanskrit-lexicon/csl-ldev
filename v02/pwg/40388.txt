@@ -18,7 +18,7 @@
 <ls>SUŚR. 2, 244, 13.</ls> {#नीचनखरोमन्#} 
 <ls>1, 7, 6. 30, 1. 70, 21. 2, 143, 20.</ls> 
 <div n="2">— b) {%niedrig, gesenkt%} vom Tone 
-<ls>VS. PRĀT. 1, 32. 113. 146. <is>Kār</is>. 9</ls> <ls>?aus der KĀŚ. zu P. 7, 2, 10. NIR. Einl. LXVII.</ls> {#नीचस्वरित#} 
+<ls>VS. PRĀT. 1, 32. 113. 146.</ls> <is>Kār</is>. 9 aus der <ls>KĀŚ.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>NIR. Einl. LXVII.</ls> {#नीचस्वरित#} 
 <ls>ŚIKṢĀ</ls> in <ls>Ind. St. 4, 366. fg.</ls> {#नीचीकर्#} {%herabstimmen, tonlos aussprechen%} 
 <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3, 12.</ls> 
 <div n="2">— c) {%zu unterst stehend, der geringste%}: {#फलं वरमध्यनीचम्#} 
@@ -30,9 +30,9 @@
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 191.</ls> {#सुबाहूनि नृशंसानि पुत्रैस्तव जनेश्वर । निकृतानीह पाण्डूनां नीचैरिव यथा नरैः ॥#} 
 <ls>MBH. 6, 2918.</ls> 
-<ls>HARIV. 4554. 4619.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 68, 6. 3, 35, 35.</ls> 
+<ls>HARIV. 4554.</ls> <ls n="HARIV.">4619.</ls> 
+
+<ls>R. GORR. 2, 68, 6. 3, 35, 35.</ls> 
 <ls>Spr. 466.</ls> 
 <ls>BHARTṚ. 2, 73.</ls> 
 <ls>PAÑCAT. 60, 19. V, 55.</ls> <ls>DHŪRTAS. 77, 4.</ls> <ls>VARĀH. BṚH. S. 106, 2.</ls> {#कर्मकर#} 
@@ -45,7 +45,7 @@
 <ls>BHĀG. P. 3, 17, 27. 7, 12, 1.</ls> 
 <ls>SĀH. D. 90.</ls> {#शार्दूलस्य गुहां शून्यां नीचः क्रोष्टाभिमर्दति#} 
 <ls>MBH. 1, 7750</ls> {%niedrig, gemein%} von Beschäftigungen, Handlungen, Gesinnungen u. s. w.: {#नीचकर्मा दासः#} 
-<ls>VET.</ls> in <ls>LA. 19, 3.</ls> {#नीचेन #}
+<ls>VET. in LA. 19, 3.</ls> {#नीचेन #}
 [Page4-0282]
 {# कर्मणा#} 
 <ls>HARIV. 4619.</ls> 
@@ -61,6 +61,6 @@
 <ls>VARĀH. BṚH. S. 69, 6. 104, 54.</ls> 
 <ls>LAGHUJ. 1, 22. 6, 4.</ls> 
 <ls>BṚH. 1, 13. 5, 17.</ls> {#नीचगत#} {%im Tiefpunkt stehend%} 
-<ls>LAGHUJ. 9, 27.</ls> <ls>Schol.</ls> zu <ls>SŪRYAS. 7, 13. 14 u.s.w.</ls> 
+<ls>LAGHUJ. 9, 27.</ls> <ls>Schol.</ls> zu <ls>SŪRYAS. 7, 13. 14</ls> u.s.w. 
 <div n="v">— Vgl. {#नीचात्, नीचैस्, उच्चनीच, न्यञ्च्#} .
 <LEND>

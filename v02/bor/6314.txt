@@ -1,4 +1,4 @@
 <L>6314<pc>202<k1>discontent<k2>discontent
-<div n="lb"/>{@DISCONTENT,@}¦ {@DISCONTENTED@} (adj.): <div n="1">(1) {#असन्तुष्टः#}
-<div n="lb"/>({#ष्टा, ष्टं#}); </div><div n="1">(2) {#अनिर्वृतः#} ({#ता, तं#}): v. Content.</div>
+{@DISCONTENT,@}¦ {@DISCONTENTED@} (adj.): <div n="1">(1) {#असन्तुष्टः#}
+({#ष्टा, ष्टं#}); </div><div n="1">(2) {#अनिर्वृतः#} ({#ता, तं#}): v. Content.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>23597<pc>740<k1>upward<k2>upward
-<div n="lb"/>{@UPWARD,-S:@}¦ <div n="I">I Of direction: </div><div n="1">(1) {#ऊर्ध्वभ्;#} </div><div n="1">(2)
-<div n="lb"/>{#उपरि;#} </div><div n="1">(3) {#उच्चैः#} (= high). </div><div n="I">II Of number:
-<div n="lb"/>{#अधि-#} <div n="xe">{%or%}</div> <div n="xs">{#अधिक-#}</div> in comp., <div n="xe">{%u. of twenty:%}</div> <div n="xs">{#अधिकविंश#}</div>
-<div n="lb"/>(f. {#शा#}), An.</div>
+{@UPWARD,-S:@}¦ <div n="I">I Of direction: </div><div n="1">(1) {#ऊर्ध्वभ्;#} </div><div n="1">(2)
+{#उपरि;#} </div><div n="1">(3) {#उच्चैः#} (= high). </div><div n="I">II Of number:
+{#अधि-#} <div n="xe">{%or%}</div> <div n="xs">{#अधिक-#}</div> in comp., <div n="xe">{%u. of twenty:%}</div> <div n="xs">{#अधिकविंश#}</div>
+(f. {#शा#}), An.</div>
 <LEND>

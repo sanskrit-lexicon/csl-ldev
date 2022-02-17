@@ -1,11 +1,11 @@
 <L>19034<pc>589<k1>reply<k2>reply
-<div n="lb"/>{@REPLY@}¦ (subs.): <div n="1">(1) {#उत्तरम्,#} <div n="xe">{%should give a true%}
-<div n="lb"/>{%r.:%}</div> <div n="xs">{#यथार्थमुत्तरं दद्यात्,#}</div> Mit.; {%r. is of four kinds:%}
-<div n="lb"/>{#उत्तरं स्याच्चतुर्विधम्,#} Kat.; </div><div n="1">(2) {#प्रतिवाक्यम्#} and
-<div n="lb"/>sim. comp. s (to questions), <div n="xe">{%that I return no%}
-<div n="lb"/>{%r. even to you:%}</div> <div n="xs">{#येन भवतोऽपि नास्ति प्रतिवचनम्,#}</div> V.
-<div n="lb"/>ii.; <div n="xe">{%gave no r.:%}</div> <div n="xs">{#प्रतिवाचमदत्त न,#}</div> Si. xvi. 21;</div>
-<div n="lb"/><div n="1">(3) {#प्रत्युत्तरम्#} (prop. to a r.), M. n. Ph.: {%to%}
-<div n="lb"/>{%leave no ground for r.%} (i. e. to shut the
-<div n="lb"/>mouth): {#निरुत्तरीकरोति।#}</div>
+{@REPLY@}¦ (subs.): <div n="1">(1) {#उत्तरम्,#} <div n="xe">{%should give a true%}
+{%r.:%}</div> <div n="xs">{#यथार्थमुत्तरं दद्यात्,#}</div> Mit.; {%r. is of four kinds:%}
+{#उत्तरं स्याच्चतुर्विधम्,#} Kat.; </div><div n="1">(2) {#प्रतिवाक्यम्#} and
+sim. comp. s (to questions), <div n="xe">{%that I return no%}
+{%r. even to you:%}</div> <div n="xs">{#येन भवतोऽपि नास्ति प्रतिवचनम्,#}</div> V.
+ii.; <div n="xe">{%gave no r.:%}</div> <div n="xs">{#प्रतिवाचमदत्त न,#}</div> Si. xvi. 21;</div>
+<div n="1">(3) {#प्रत्युत्तरम्#} (prop. to a r.), M. n. Ph.: {%to%}
+{%leave no ground for r.%} (i. e. to shut the
+mouth): {#निरुत्तरीकरोति।#}</div>
 <LEND>

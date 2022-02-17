@@ -1,6 +1,6 @@
 <L>13028<pc>402<k1>kindred<k2>kindred
-<div n="lb"/>{@KINDRED@}¦ (subs.): <div n="I">I Relationship: </div><div n="1">(1)
-<div n="lb"/>{#बन्धुता;#} </div><div n="1">(2) {#ज्ञातेयम्#} <div n="xe">{%or%}</div> <div n="xs">{#ज्ञातिभावः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ज्ञातित्वम्।#}</div> </div><div n="I">II
-<div n="lb"/>Relatives: </div><div n="1">(1) {#बन्धुता#} (rare), Ki. i. 10.; </div><div n="1">(2)
-<div n="lb"/>{#बन्धवः#} (m. pl.): v. Relative.</div>
+{@KINDRED@}¦ (subs.): <div n="I">I Relationship: </div><div n="1">(1)
+{#बन्धुता;#} </div><div n="1">(2) {#ज्ञातेयम्#} <div n="xe">{%or%}</div> <div n="xs">{#ज्ञातिभावः#}</div> <div n="xe">{%or%}</div> <div n="xs">{#ज्ञातित्वम्।#}</div> </div><div n="I">II
+Relatives: </div><div n="1">(1) {#बन्धुता#} (rare), Ki. i. 10.; </div><div n="1">(2)
+{#बन्धवः#} (m. pl.): v. Relative.</div>
 <LEND>

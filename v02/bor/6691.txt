@@ -1,5 +1,5 @@
 <L>6691<pc>214<k1>divulge<k2>divulge
-<div n="lb"/>{@DIVULGE:@}¦ <div n="I">I To reveal: q. v.: {#विवृणोति,#} <div n="xe">{%to d.%}
-<div n="lb"/>{%a secret:%}</div> <div n="xs">{#गुह्यं विवृणोति,#}</div> D. </div><div n="I">II To impart:
-<div n="lb"/>q. v.</div>
+{@DIVULGE:@}¦ <div n="I">I To reveal: q. v.: {#विवृणोति,#} <div n="xe">{%to d.%}
+{%a secret:%}</div> <div n="xs">{#गुह्यं विवृणोति,#}</div> D. </div><div n="I">II To impart:
+q. v.</div>
 <LEND>

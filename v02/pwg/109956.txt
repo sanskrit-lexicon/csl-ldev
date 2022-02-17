@@ -4,12 +4,12 @@
 <div n="1"> 1) {%Wohlbehagen empfindend, sich wohl befindend, wohl gedeihend, froh, glücklich%} 
 <ls>SUŚR. 2, 411, 12. 425, 15.</ls> 
 <ls>BHAG. 1, 37. 5, 23.</ls> 
-<ls>MBH. 3, 1792. 3057.</ls> 
+<ls>MBH. 3, 1792.</ls> <ls n="MBH. 3,">3057.</ls> 
 <ls>R. 1, 23, 3. 2, 53, 11. 68, 2. 4, 40, 71.</ls> 
 <ls>KAP. 4, 11. fg.</ls> 
 <ls>MEGH. 3.</ls> 
 <ls>ŚĀK. 61, 17.</ls> 
-<ls>Spr. (II) 252. 2123. 2455. 5595. 6171. 6467. 6751. 7032. 7150.</ls> 
+<ls>Spr. (II) 252.</ls> <ls n="Spr. (II)">2123.</ls> <ls n="Spr. (II)">2455.</ls> <ls n="Spr. (II)">5595.</ls> <ls n="Spr. (II)">6171.</ls> <ls n="Spr. (II)">6467.</ls> <ls n="Spr. (II)">6751.</ls> <ls n="Spr. (II)">7032.</ls> <ls n="Spr. (II)">7150.</ls> 
 <ls>VARĀH. BṚH. S. 68, 7. 10</ls> (Gegens. {#निःस्व#}). 
 <ls>21. 59.</ls> <ls>BṚH. 4, 10</ls> ({#गर्भ#}). 
 <ls>13, 1.</ls> <ls>KATHĀS. 14, 90. 21, 3. 27, 58. 28, 162. 44, 188</ls> (vom Vorhergehenden zu trennen). 

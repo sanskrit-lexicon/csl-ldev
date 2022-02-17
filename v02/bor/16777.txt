@@ -1,6 +1,6 @@
 <L>16777<pc>514<k1>perform<k2>perform
-<div n="lb"/>{@PERFORM:@}¦ <div n="I">I To do: q. v.: {#करोति।#} </div><div n="I">II To
-<div n="lb"/>accomplish: q. v.: {#साधयति#} (c. of {#सिघ्#}).</div>
-<div n="lb"/><div n="I">III To fulfil: q. v.: {#पूरयति#} ({#पूर्,#} c. 10.).</div>
-<div n="lb"/><div n="I">IV To keep: q. v.: {#रक्षति#} ({#रक्ष्,#} c. 1.).</div>
+{@PERFORM:@}¦ <div n="I">I To do: q. v.: {#करोति।#} </div><div n="I">II To
+accomplish: q. v.: {#साधयति#} (c. of {#सिघ्#}).</div>
+<div n="I">III To fulfil: q. v.: {#पूरयति#} ({#पूर्,#} c. 10.).</div>
+<div n="I">IV To keep: q. v.: {#रक्षति#} ({#रक्ष्,#} c. 1.).</div>
 <LEND>

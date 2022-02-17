@@ -28,8 +28,8 @@
 <ls>KĀṬH. 32, 1.</ls> 
 <ls>KAUṢ. UP. 2, 8.</ls> 
 <ls>HARIV. 3574.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 65, 16. 3, 73, 39.</ls> 
+
+<ls>R. GORR. 2, 65, 16. 3, 73, 39.</ls> 
 <ls>KIR. 5, 38.</ls> 
 <ls>AK. 2, 1, 10. 9, 16.</ls> 
 <ls>TRIK. 3, 3, 297.</ls> 
@@ -37,7 +37,7 @@
 <ls>HALĀY. 2, 4.</ls> 
 <ls>BHĀG. P. 3, 22, 30.</ls> Bohne 
 <ls>SUŚR. 1, 197, 18.</ls> {#कमलिनीहरितैः सरोभिः#} 
-<ls>ŚĀK. 86. -</ls> <ls>ŚAT. BR. 14, 7, 1, 20.</ls> <ls>ŚVETĀŚV. UP. 4, 4.</ls> <ls>VARĀH. BṚH. S. 5, 54. 8, 17. 9, 44. 30, 12. fg. 54, 30. 34. 67, 5. 68, 91.</ls> <ls>BṚH. 2, 5.</ls> <ls>LAGHUJ. 1, 6.</ls> <ls>WEBER, KṚṢṆAJ. 270.</ls> {#°पुष्प#} 
+<ls>ŚĀK. 86.</ls> - <ls>ŚAT. BR. 14, 7, 1, 20.</ls> <ls>ŚVETĀŚV. UP. 4, 4.</ls> <ls>VARĀH. BṚH. S. 5, 54. 8, 17. 9, 44. 30, 12. fg. 54, 30. 34. 67, 5. 68, 91.</ls> <ls>BṚH. 2, 5.</ls> <ls>LAGHUJ. 1, 6.</ls> <ls>WEBER, KṚṢṆAJ. 270.</ls> {#°पुष्प#} 
 <ls>KAUŚ.10. 26. 116.</ls>
 [Page7-1550]
 {#वैडूर्यमणिरत्नाभः प्रासादो हरितप्रभः#} 
@@ -64,7 +64,7 @@
 <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> 
 <div n="2">— c) pl. Bez. eines Abschnittes des 
 <ls>AV. 19, 22, 5.</ls> hierher vielleicht {#हरिता मन्त्राः#} (so trennen wir) 
-<ls>Verz. d. Oxf. H. 93,a,1 v. u.</ls> 
+<ls>Verz. d. Oxf. H. 93,a,1</ls> v. u. 
 <div n="2">— d) N. pr. 
 <div n="3"> α) pl. einer Klasse von Göttern im 12ten <is>Manvantara</is> 
 <ls>MĀRK. P. 94, 23.</ls> 
@@ -75,7 +75,7 @@
 <ls>ĀŚV. ŚR. 12, 12, 3</ls>). <is>Kaśyapa</is> 
 <ls>ŚAT. BR. 14, 9, 4, 33.</ls> ein Sohn <is>Yadu's</is> 
 <ls>HARIV. 4206.</ls> <is>Rohita's</is> 
-<ls>758.</ls> <ls>BHĀG. P. 9, 8, 1.</ls> <is>Rohitāśva's</is> 
+<ls n="HARIV.">758.</ls> <ls>BHĀG. P. 9, 8, 1.</ls> <is>Rohitāśva's</is> 
 <ls>VP. 373.</ls> <is>Yuvanāśva's</is> 
 <ls>369.</ls> <is>Parāvṛt's</is> (vgl. {#हरि#}) 
 <ls>420. 421, N. 13.</ls> <is>Vapuṣmant's</is> 

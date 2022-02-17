@@ -1,8 +1,8 @@
 <L>7306<pc>231<k1>either<k2>either
-<div n="lb"/>{@EITHER@}¦ (conj.): <div n="1">(1) {#वा #} {#॥॥॥॥॥वा#} (never at
-<div n="lb"/>the beginning of a clause), <div n="xe">{%e. I dissolve on the%}
-<div n="lb"/>{%summit of this mountain:%}</div> <div n="xs">{#नगमूर्द्धनि विलीये वा,#}</div>
-<div n="lb"/>Ki.; </div><div n="1">(2) {#॥॥॥॥।किंवा,#} <div n="xe">{%will touch e. his nails%}
-<div n="lb"/>{%or his arrow-heads:%}</div> <div n="xs">{#तन्नखं किंवा तदिषुमुखं स्प्रष्टारः,#}</div>
-<div n="lb"/>Vi.: v. Or.</div>
+{@EITHER@}¦ (conj.): <div n="1">(1) {#वा #} {#॥॥॥॥॥वा#} (never at
+the beginning of a clause), <div n="xe">{%e. I dissolve on the%}
+{%summit of this mountain:%}</div> <div n="xs">{#नगमूर्द्धनि विलीये वा,#}</div>
+Ki.; </div><div n="1">(2) {#॥॥॥॥।किंवा,#} <div n="xe">{%will touch e. his nails%}
+{%or his arrow-heads:%}</div> <div n="xs">{#तन्नखं किंवा तदिषुमुखं स्प्रष्टारः,#}</div>
+Vi.: v. Or.</div>
 <LEND>

@@ -1,6 +1,6 @@
 <L>2137<pc>074<k1>blandishment<k2>blandishment
-<div n="lb"/>{@BLANDISHMENT:@}¦ <div n="I">I Of love: </div><div n="1">(1) {#हावः;#} </div><div n="1">(2)
-<div n="lb"/>{#विलासः;#} </div><div n="1">(3) {#विभ्रमः।#} N. B. Applied only to
-<div n="lb"/>women. </div><div n="I">II Sweet words: </div><div n="1">(1) {#प्रियवाक्यम्;#}</div>
-<div n="lb"/><div n="1">(2) {#मधुरभाषितम्।#}</div>
+{@BLANDISHMENT:@}¦ <div n="I">I Of love: </div><div n="1">(1) {#हावः;#} </div><div n="1">(2)
+{#विलासः;#} </div><div n="1">(3) {#विभ्रमः।#} N. B. Applied only to
+women. </div><div n="I">II Sweet words: </div><div n="1">(1) {#प्रियवाक्यम्;#}</div>
+<div n="1">(2) {#मधुरभाषितम्।#}</div>
 <LEND>

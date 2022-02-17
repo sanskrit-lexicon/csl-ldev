@@ -1,4 +1,4 @@
 <L>5823<pc>186<k1>denouncement<k2>denouncement
-<div n="lb"/>{@DENOUNCEMENT:@}¦ <div n="I">I Announcement: q. v.</div>
-<div n="lb"/><div n="I">II Accusation: {#अभिशंसनम्।#}</div>
+{@DENOUNCEMENT:@}¦ <div n="I">I Announcement: q. v.</div>
+<div n="I">II Accusation: {#अभिशंसनम्।#}</div>
 <LEND>

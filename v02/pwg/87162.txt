@@ -1,8 +1,8 @@
 <L>87162<pc>6-0610<k1>वक्तर्<k2>वक्त/र्
 {#वक्त/र्#}¦ (von {#वच्#}) nom. ag. 
-<ls>AK. 3, 1, 35</ls> (=  {#वावदूक#}). 
-<ls>H. 346</ls> (=  {#वदावद#}). 
-<ls>MED. t. 53</ls> (=  {#वाग्मिन्#} und {#पण्डित#}). {%sprechend, aussagend; Sprecher, Verkünder%}: {#अस^तः#} 
+<ls>AK. 3, 1, 35</ls> (= {#वावदूक#}). 
+<ls>H. 346</ls> (= {#वदावद#}). 
+<ls>MED. t. 53</ls> (= {#वाग्मिन्#} und {#पण्डित#}). {%sprechend, aussagend; Sprecher, Verkünder%}: {#अस^तः#} 
 <ls>ṚV. 7, 104, 8.</ls> {#नकि^र्व\क्ता न दा\दिति^#} {%Niemand darf sagen, er solle nicht geben%}, 
 <ls n="ṚV.">8, 32, 15.</ls> <ls n="ṚV.">9, 75, 2.</ls> {#इति^ ब्रवीति व\क्तरी\ (°रि#} <is>Padap</is>.) {#ररा^णः#} 
 <ls n="ṚV.">10, 61, 12.</ls> <ls>AV. 2, 1, 4.</ls> <ls>ŚAT. BR. 14, 7, 1, 26.</ls> <ls>TAITT. ĀR. 7, 11.</ls> <ls>TAITT. UP. 1, 1.</ls> <ls>KAUṢ. UP. 3, 8.</ls> <ls>MAITRYUP. 6, 11</ls> (auch {#अ°#}). 
@@ -16,7 +16,7 @@
 <ls>Spr. 1625.</ls> {#वेदानाम्#} {%Verkünder%} 
 <ls>MBH. 13, 1339.</ls> 
 <ls>KAṬHOP. 1, 22.</ls> 
-<ls>VARĀH. BṚH. S. 2, S. 4, Z. 2 v. u. 101, 14.</ls> <ls>SARVADARŚANAS. 158, 17. 160, 3.</ls> {#हितस्य#} 
+<ls>VARĀH. BṚH. S. 2, S. 4, Z. 2</ls> v. u. <ls>101, 14.</ls> <ls>SARVADARŚANAS. 158, 17. 160, 3.</ls> {#हितस्य#} 
 <ls>R. 4, 29, 28.</ls> {#अप्रियस्यापि वचसः#} 
 <ls>Spr. 175. 3283.</ls> {#प्रियम्#} 
 <ls>2319.</ls> {#धर्मम्#} 
@@ -28,7 +28,7 @@
 <ls>Verz. d. Oxf. H.9,b,12.</ls> {#तद्वक्तर्#} 
 <ls>M. 12, 115.</ls> 
 <ls>BHĀG. P. 2, 9, 7.</ls> {%Redner%} so v. a. {%ein beredter Mann%} 
-<ls>MBH. 2, 138. 1908. 3, 1811. 15711.</ls> 
+<ls>MBH. 2, 138.</ls> <ls n="MBH. 2,">1908.</ls> <ls n="MBH.">3, 1811.</ls> <ls n="MBH. 3,">15711.</ls> 
 <ls>R. 3, 75, 41.</ls> 
 <ls>MṚCCH. 137, 23.</ls> 
 <ls>Spr. 954. 2447.</ls> 

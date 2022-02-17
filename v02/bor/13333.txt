@@ -1,13 +1,13 @@
 <L>13333<pc>411<k1>leaf<k2>leaf
-<div n="lb"/>{@LEAF@}¦ (subs.): <div n="I">I Lit.: {#पत्रम्,#} <div n="xe">{%in a small basin%}
-<div n="lb"/>{%of l. ves:%}</div> <div n="xs">{#पत्रपुटे,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#पर्णम्,#} <div n="xe">{%knows even the l. ves%}
-<div n="lb"/>{%of the whole of this forest:%}</div> <div n="xs">{#सकलस्यास्य कान्तारस्य #}
-<div n="lb"/>{# पर्णानामप्यभिज्ञः,#}</div> C. viii.; <div n="xe">{%living on tree-l. ves natura-%}
-<div n="lb"/>{%lly withered:%}</div> <div n="xs">{#स्वयंविशीर्णर्द्रुमपर्णवृत्तिता,#}</div> Ku. </div><div n="I">II Of
-<div n="lb"/>metal: {#पत्रम्,#} {%of gold, that is, of%} ({%its%}) <div n="xe">{%l. ves made%}
-<div n="lb"/>{%very thin:%}</div> <div n="xs">{#स्वर्णस्य अतितनूकृतपत्रस्य,#}</div> Bha. </div><div n="I">III Of a
-<div n="lb"/>book: {#पत्रम्।#} Ph.: {%you should turn over a new l.:%}
-<div n="lb"/>{#*त्वया मिन्नवृत्तिर्निषेवनीया।#} </div><div n="I">IV Of a door:
-<div n="lb"/>{#कपा#} ({#वा#}) {#ट#} (mn.), <div n="xe">{%with folded l. ves:%}</div> <div n="xs">{#दत्तकपाटः,#}</div>
-<div n="lb"/>Va.; {%l. -breaker%} (i. e. {%thief%}): {#कपाटघ्नः।#}</div>
+{@LEAF@}¦ (subs.): <div n="I">I Lit.: {#पत्रम्,#} <div n="xe">{%in a small basin%}
+{%of l. ves:%}</div> <div n="xs">{#पत्रपुटे,#}</div> <ls>R.</ls> ; </div><div n="1">(2) {#पर्णम्,#} <div n="xe">{%knows even the l. ves%}
+{%of the whole of this forest:%}</div> <div n="xs">{#सकलस्यास्य कान्तारस्य #}
+{# पर्णानामप्यभिज्ञः,#}</div> C. viii.; <div n="xe">{%living on tree-l. ves natura-%}
+{%lly withered:%}</div> <div n="xs">{#स्वयंविशीर्णर्द्रुमपर्णवृत्तिता,#}</div> Ku. </div><div n="I">II Of
+metal: {#पत्रम्,#} {%of gold, that is, of%} ({%its%}) <div n="xe">{%l. ves made%}
+{%very thin:%}</div> <div n="xs">{#स्वर्णस्य अतितनूकृतपत्रस्य,#}</div> Bha. </div><div n="I">III Of a
+book: {#पत्रम्।#} Ph.: {%you should turn over a new l.:%}
+{#*त्वया मिन्नवृत्तिर्निषेवनीया।#} </div><div n="I">IV Of a door:
+{#कपा#} ({#वा#}) {#ट#} (mn.), <div n="xe">{%with folded l. ves:%}</div> <div n="xs">{#दत्तकपाटः,#}</div>
+Va.; {%l. -breaker%} (i. e. {%thief%}): {#कपाटघ्नः।#}</div>
 <LEND>

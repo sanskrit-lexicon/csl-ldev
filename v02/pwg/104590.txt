@@ -11,17 +11,17 @@
 <ls>P. 3, 2, 110, <is>Vārtt</is>. 2.</ls> {#यज्ञ°#} 
 <ls>BHĀG. P. 1, 4, 19. 4, 7, 17.</ls> {#संसार°#} 
 <ls>Spr. (II) 2673.</ls> {#ज्ञान°#} 
-<ls>MĀṆḌ. UP. 10</ls> <ls>?(NṚS. TĀP. UP. in Ind. St. 9, 133).</ls> {#अर्थ°#} 
+<ls>MĀṆḌ. UP. 10</ls> (<ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 133).</ls> {#अर्थ°#} 
 <ls>SUŚR. 1, 9, 1.</ls> {#धर्मकामार्थ°#} 
 <ls>MĀRK. P. 21, 76.</ls> {#संतोष°#} 
-<ls>HAEB. Anth. 410,</ls> <ls>Śl. 3.</ls> {#संताप°#} 
+<ls>HAEB. Anth. 410, Śl. 3.</ls> {#संताप°#} 
 <ls>MĀLATĪM. 14, 17.</ls> {#विघ्न°#} 
 <ls>ŚATR. 14, 220.</ls> {#वाक्यजनितात्मज्ञानस्मृति°#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP.</ls> <ls>S. 180.</ls> {#रस°#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 180.</ls> {#रस°#} 
 <ls>SĀH. D. 23, 21.</ls> 
 <div n="2">— b) {%Zusammenhang der Dinge, Causalnexus%} 
-<ls>MBH. 1, 251</ls> (=  {#ब्रह्मादिः#} 
-<ls>NĪLAK.</ls><ls>?). Spr. (II) 3664.</ls> 
+<ls>MBH. 1, 251</ls> (= {#ब्रह्मादिः#} <ls>NĪLAK.</ls>).
+<ls>Spr. (II) 3664.</ls> 
 <div n="2">— c) {%eine ununterbrochene Reihe, Menge%} 
 <ls>Spr. (II) 3898.</ls> {#मुक्ता°#} 
 <ls>KATHĀS. 18, 47.</ls> {#पथिक°#} 
@@ -29,7 +29,7 @@
 <ls>KATHĀS. 27, 11.</ls> {#जलसंततिम् । मुमुचुः#} {%einen ununterbrochenen Wasserstrom%} 
 <ls>MBH. 1, 8154.</ls> {#अश्रु°#} 
 <ls>KATHĀS. 11, 51.</ls> {#अपचितस्नायु°#} <lex>adj.</lex> so v. a. {%Netz%} 
-<ls>PAÑCAT. 182, 17</ls> <ls>?(MĀRK. P. 74, 14</ls> ist wohl {#धमनिसंततं#} st. {#°संततौ#} zu lesen). {#ध्वान्त°#} {%eine dichte Finsterniss%} 
+<ls>PAÑCAT. 182, 17</ls> (<ls>MĀRK. P. 74, 14</ls> ist wohl {#धमनिसंततं#} st. {#°संततौ#} zu lesen). {#ध्वान्त°#} {%eine dichte Finsterniss%} 
 <ls>RĀJA-TAR. 1, 259.</ls> {#अंहसाम्#} {%eine Menge von Sünden%} 
 <ls>KIR. 5, 17.</ls> = {#परंपराभाव#} und {#विस्तार#} 
 <ls>H. an. 3, 310.</ls> = {#पङ्क्ति#} 
@@ -39,7 +39,7 @@
 <ls>H. 503,</ls> <ls>Schol.</ls> <ls>H. ś. 114.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 342.</ls> <ls>WEBER, JYOT. 110.</ls> <ls>M. 3, 259. 11, 5.</ls> {#पशुस्त्रीणाम्#} 
 <ls>YĀJÑ. 2, 39.</ls> {#एतेषां प्रसवो यश्च प्रसवस्य च संतातिः#} 
 <ls>MBH. 1, 2161.</ls> 
-<ls>RAGH. 1, 69. 3, 50. 10, 3. ed. Calc. 1, 35.</ls> <ls>ŚĀK. 91, 7. 12.</ls> <ls>Spr. (II) 921. 5709.</ls> <ls>UTTARAR. 123, 8 (166, 8).</ls> <ls>MĀRK. P. 109, 35</ls> (pl.). {#न लेभे तासु संततिम्#} 
+<ls>RAGH. 1, 69. 3, 50. 10, 3. ed. Calc. 1, 35.</ls> <ls>ŚĀK. 91, 7. 12.</ls> <ls>Spr. (II) 921.</ls> <ls n="Spr. (II)">5709.</ls> <ls>UTTARAR. 123, 8 (166, 8).</ls> <ls>MĀRK. P. 109, 35</ls> (pl.). {#न लेभे तासु संततिम्#} 
 <ls>BHĀG. P. 6, 4, 11.</ls> {#एक°#} {%das einzige Kind%} 
 <ls>14, 51.</ls> {#तयोर्गच्छता कालेन संततिरभवत्#} 
 <ls>PAÑCAT. 80, 6.</ls> 
@@ -52,7 +52,7 @@
 <ls>RĀJA-TAR. 3, 527.</ls> 
 <div n="2">— e) {%fortgesetztes Nachdenken%} 
 <ls>H. 84.</ls> 
-<ls>SARVADARŚANAS. 178, 5.</ls> <ls>PRAB. 50, 11</ls> (=  {#चैत्तधारा#} [so ist zu lesen] Comm.). {#धी°#} dass. 
+<ls>SARVADARŚANAS. 178, 5.</ls> <ls>PRAB. 50, 11</ls> (= {#चैत्तधारा#} [so ist zu lesen] Comm.). {#धी°#} dass. 
 <ls>48, 13.</ls> 
 <div n="2">— f) = {#संततिहोम#} 
 <ls>ŚAT. BR. 9, 4, 2, 18.</ls> 

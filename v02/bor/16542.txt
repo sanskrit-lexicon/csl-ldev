@@ -1,6 +1,6 @@
 <L>16542<pc>508<k1>pasturage<k2>pasturage
-<div n="lb"/>{@PASTURAGE:@}¦ <div n="I">I Grazing ground: {#प्रचारभूमिः,#}
-<div n="lb"/>V. p. com. and sim. comp.s. </div><div n="I">II Grazing
-<div n="lb"/>for cattle: perh. {#चारः#} (comp. Beng. {#चारा#});
-<div n="lb"/>{#यवस#} (mn.).</div>
+{@PASTURAGE:@}¦ <div n="I">I Grazing ground: {#प्रचारभूमिः,#}
+V. p. com. and sim. comp.s. </div><div n="I">II Grazing
+for cattle: perh. {#चारः#} (comp. Beng. {#चारा#});
+{#यवस#} (mn.).</div>
 <LEND>

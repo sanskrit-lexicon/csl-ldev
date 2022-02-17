@@ -23,7 +23,7 @@
 <ls>PAÑCAR. 1, 7, 2. 83.</ls> {#हेमन्#} 
 <ls>Verz. d. Oxf. H. 31,b, No. 3.</ls> <ls>VARĀH. BṚH. S. 49,4. 73,2.</ls> {#वर्ण#} 
 <ls>68, 102.</ls> {#जाम्बूनदशुद्धगौर#} 
-<ls>MBH. 3, 15701. 4, 2302.</ls> {#ब्रह्मन्#} 
+<ls>MBH. 3, 15701.</ls> <ls n="MBH.">4, 2302.</ls> {#ब्रह्मन्#} 
 <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 163. fg.</ls> <ls>SARVADARŚANAS. 46, 6. 94, 10.</ls> {#वाङ्मनसी#} 
 <ls>M. 2, 160.</ls> {#°स्वभावा#} 
 <ls>R. 2, 74, 9.</ls> {#शुद्धाभिजनकर्मन्#} <lex>adj.</lex> 
@@ -39,12 +39,12 @@
 <ls>R. 2, 39, 32.</ls> {#अन्तरात्मन्#} 
 <ls>5, 35, 15.</ls> {#अत्यन्तशुद्धहृदय#} 
 <ls>Spr. 2655.</ls> {#हृदयमशुद्धम्#} 
-<ls>(II) 5231.</ls> {%rein%} in rituellem Sinne 
+(<ls>II) 5231.</ls> {%rein%} in rituellem Sinne 
 <ls>WEBER, JYOT. 104.</ls> {#ब्राह्मणजीविका#} 
 <ls>M. 4, 11. 5, 77.</ls> 
-<ls>Spr. (II) 966. fg. 3285.</ls> 
+<ls>Spr. (II) 966. fg.</ls> <ls n="Spr. (II)">3285.</ls> 
 <ls>RAGH. 14, 14.</ls> {#°संगमा#} 
-<ls>ŚRUT.</ls> <ls>?(BR.) 33.</ls> {#कर्मन्#} 
+<ls>ŚRUT.</ls> (<ls>BR.) 33.</ls> {#कर्मन्#} 
 <ls>H. 811.</ls> {#अ°#} 
 <ls>M. 4, 127. 5, 58.</ls> 
 <div n="2">— b) {%fehlerfrei, normal, richtig beschaffen, woran Nichts auszusetzen ist%}: {#असृज्#} 
@@ -72,14 +72,14 @@
 <div n="2">— e) {%einfach, bloss%}: {#°स्नान#} {%einfaches Waschen%} (ohne Salbung u. s. w.) 
 <ls>MEGH. 88.</ls> {#°वध#} {%einfache (nicht qualificirte) Todesstrafe%} 
 <ls>M. 9, 279.</ls> {#लक्षणा#} {%eine einfache Ellipse%} 
-<ls>SARVADARŚANAS. 173,10.  fgg.</ls>
+<ls>SARVADARŚANAS. 173,10. fgg.</ls>
 [Page7-0252]
 {#कृति#} im Gegens. zu {#वि°, सं°#} 
 u.s.w. <ls>Ind. St. 8, 467.</ls> Hierher vielleicht 
 <ls>KATHĀS. 17, 122</ls>, wenn {#खे शुद्धे#} st. {#अशुद्धो#} gelesen wird. 
 <div n="2">— f) {%ganz, vollständig, abgeschlossen%}: {#°श्लोक#} 
 <ls>RĀJA-TAR. 4, 46.</ls> {#श्री#} 49. {#स्वभावशुद्धाः सर्वधर्माः स्वभावशुद्धो ऽहम्#} 
-<ls>BURNOUF,</ls> <ls>Intr. 633.</ls> 
+<ls>BURNOUF, Intr. 633.</ls> 
 <div n="2">— g) {%geprüft, untersucht%}: {#तदात्वायतिशुद्धानि सर्वकर्माणि चिन्तयेत्#} 
 <ls>KĀM. NĪTIS. 10, 23.</ls> 
 <div n="1">— 2) <lex>m.</lex> 

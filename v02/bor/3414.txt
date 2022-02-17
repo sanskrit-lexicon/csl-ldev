@@ -1,9 +1,9 @@
 <L>3414<pc>113<k1>chance<k2>chance
-<div n="lb"/>{@CHANCE@}¦ (subs.): <div n="I">I An accident: {#दैवम्#} (=fate:
-<div n="lb"/>q. v.), <div n="xe">{%disregarding c.%}</div> <div n="xs">{#दैवं निहत्य,#}</div> H. Ph.: <div n="xe">{%by%}
-<div n="lb"/>{%c.%}</div> <div n="xs">{#दैवात्।#}</div> v. Accidentally; <div n="xe">{%game of c.%}</div> <div n="xs">{#अक्षादि-#}
-<div n="lb"/>{#क्रीडा।#}</div> </div><div n="I">II Any thing of c.: expr. by {#दैवायत्तः#}
-<div n="lb"/>({#त्ता, त्तं#}) <div n="xe">{%or%}</div> <div n="xs">{#दैवाधीनः#}</div> ({#ना, नं#}), {%high birth is c.%}
-<div n="lb"/>{#दैवायत्तं कुले जन्म,#} Ve. </div><div n="I">III Possibility of an
-<div n="lb"/>occurrence {#सम्भवः#} (?), <div n="xe">{%theory of c. s%}</div> <div n="xs">{#*सम्भवविज्ञानम्।#}</div></div>
+{@CHANCE@}¦ (subs.): <div n="I">I An accident: {#दैवम्#} (=fate:
+q. v.), <div n="xe">{%disregarding c.%}</div> <div n="xs">{#दैवं निहत्य,#}</div> H. Ph.: <div n="xe">{%by%}
+{%c.%}</div> <div n="xs">{#दैवात्।#}</div> v. Accidentally; <div n="xe">{%game of c.%}</div> <div n="xs">{#अक्षादि-#}
+{#क्रीडा।#}</div> </div><div n="I">II Any thing of c.: expr. by {#दैवायत्तः#}
+({#त्ता, त्तं#}) <div n="xe">{%or%}</div> <div n="xs">{#दैवाधीनः#}</div> ({#ना, नं#}), {%high birth is c.%}
+{#दैवायत्तं कुले जन्म,#} Ve. </div><div n="I">III Possibility of an
+occurrence {#सम्भवः#} (?), <div n="xe">{%theory of c. s%}</div> <div n="xs">{#*सम्भवविज्ञानम्।#}</div></div>
 <LEND>

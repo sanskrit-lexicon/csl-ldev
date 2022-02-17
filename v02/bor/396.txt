@@ -1,5 +1,5 @@
 <L>396<pc>015<k1>affidavit<k2>affidavit
-<div n="lb"/>{@AFFIDAVIT:@}¦ {#*शपथपूर्वा विञ्जप्तिः:#} Ph. <div n="xe">{%he made an a.%}
-<div n="lb"/>{%that he is a bachelor%}</div> <div n="xs">{#*अकृतोद्वाहोऽस्मीति शपथपूर्वकं #}
-<div n="lb"/>{# विज्ञापयामास।#}</div>
+{@AFFIDAVIT:@}¦ {#*शपथपूर्वा विञ्जप्तिः:#} Ph. <div n="xe">{%he made an a.%}
+{%that he is a bachelor%}</div> <div n="xs">{#*अकृतोद्वाहोऽस्मीति शपथपूर्वकं #}
+{# विज्ञापयामास।#}</div>
 <LEND>

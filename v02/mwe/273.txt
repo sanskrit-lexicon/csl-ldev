@@ -1,8 +1,8 @@
 <L>273<pc>007-a<k1>administration<k2>administration
-<div n="lb"/>ADMINISTRATION¦, {%s.%} (The act of administering an office) {#प्रणयनं,#}
-<div n="lb"/>{#कर्म्मनिर्वाहः, राज्यधुरा#}. — (Those to whom the care of public
-<div n="lb"/>affairs is committed) {#सचिवाः#} {%pl.;%} ‘ministers of action,’
-<div n="lb"/>{#कर्म्मसचिवाः#} {%pl.;%} ‘ministers of counsel,’ {#धीसचिवाः#} {%pl.%} — 
-<div n="lb"/>(The ministerial office) {#साचिव्यं, मन्त्रित्वं#}. — (Act of admini-
-<div n="lb"/>stering medicine, &c.) {#भेषजप्रयोगः#}.
+ADMINISTRATION¦, {%s.%} (The act of administering an office) {#प्रणयनं,#}
+{#कर्म्मनिर्वाहः, राज्यधुरा#}. — (Those to whom the care of public
+affairs is committed) {#सचिवाः#} {%pl.;%} ‘ministers of action,’
+{#कर्म्मसचिवाः#} {%pl.;%} ‘ministers of counsel,’ {#धीसचिवाः#} {%pl.%} — 
+(The ministerial office) {#साचिव्यं, मन्त्रित्वं#}. — (Act of admini-
+stering medicine, &c.) {#भेषजप्रयोगः#}.
 <LEND>

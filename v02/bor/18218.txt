@@ -1,5 +1,5 @@
 <L>18218<pc>558<k1>purgation<k2>purgation
-<div n="lb"/>{@PURGATION:@}¦ <div n="1">(1) {#शोधनम्#} (in every sense), <div n="xe">{%to%}
-<div n="lb"/>{%practise p.;%}</div> <div n="xs">{#शोधनं शीलयति,#}</div> Bha.; </div><div n="1">(2) {#रेचनम्#}
-<div n="lb"/>(in medical sense).</div>
+{@PURGATION:@}¦ <div n="1">(1) {#शोधनम्#} (in every sense), <div n="xe">{%to%}
+{%practise p.;%}</div> <div n="xs">{#शोधनं शीलयति,#}</div> Bha.; </div><div n="1">(2) {#रेचनम्#}
+(in medical sense).</div>
 <LEND>

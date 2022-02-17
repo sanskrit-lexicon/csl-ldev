@@ -1,7 +1,7 @@
 <L>199006<pc>981,3<k1>वियु<k2>वि-यु<e>1
-<s>वि-√ यु</s> ¦ <ab>P.</ab> <s>-युयोति</s>, <s>-यौति</s>, to separate, part (intr.), <ls>RV.</ls>; <ls>AV.</ls>;
+<s>वि-√ यु</s> ¦ <ab>P.</ab> <s>-युयोति</s>, <s>-यौति</s>, to separate, part (<ab>intr.</ab>), <ls>RV.</ls>; <ls>AV.</ls>;
 <div n="to"/>to be separated from or deprived of (<ab>instr.</ab>), <ls>RV.</ls>; <ls>VS.</ls>;
-<div n="to"/>to separate (trans.), divide, detach or exclude from, deprive of (<ab>instr.</ab>), <ls>RV.</ls>;
+<div n="to"/>to separate (<ab>trans.</ab>), divide, detach or exclude from, deprive of (<ab>instr.</ab>), <ls>RV.</ls>;
 <div n="to"/>to keep off, avert, <ls>Śiś.</ls>;
 <div n="to"/>to spread, scatter, <ls>TS.</ls>;
 <div n="to"/>to open, <ls>RV.</ls><info verb="pre" cp="P" parse="vi+yu"/>

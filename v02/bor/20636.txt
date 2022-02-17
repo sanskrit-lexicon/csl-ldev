@@ -1,7 +1,7 @@
 <L>20636<pc>647<k1>sixth<k2>sixth
-<div n="lb"/>{@SIXTH:@}¦ <div n="1">(1) {#षष्ठ,#} (f. {#ष्ठी#}), <div n="xe">{%with a third, one-fifth,%}
-<div n="lb"/>{%and a s.:%}</div> <div n="xs">{#त्र्यंशपञ्चांशषष्ठैः,#}</div> Li. 23.: <div n="xe">{%he was s. in%}
-<div n="lb"/>{%descent from the moon:%}</div> <div n="xs">{#सोमाद्बभूव षष्ठोऽयम्,#}</div>
-<div n="lb"/>Mah. v. 139. 3.; </div><div n="1">(2) {#षाष्ठ#} (f. {#ष्ठी#}) (rare).
-<div n="lb"/><div n="xe">{%S. -ly:%}</div> <div n="xs">{#षष्ठतः।#}</div></div>
+{@SIXTH:@}¦ <div n="1">(1) {#षष्ठ,#} (f. {#ष्ठी#}), <div n="xe">{%with a third, one-fifth,%}
+{%and a s.:%}</div> <div n="xs">{#त्र्यंशपञ्चांशषष्ठैः,#}</div> Li. 23.: <div n="xe">{%he was s. in%}
+{%descent from the moon:%}</div> <div n="xs">{#सोमाद्बभूव षष्ठोऽयम्,#}</div>
+Mah. v. 139. 3.; </div><div n="1">(2) {#षाष्ठ#} (f. {#ष्ठी#}) (rare).
+<div n="xe">{%S. -ly:%}</div> <div n="xs">{#षष्ठतः।#}</div></div>
 <LEND>

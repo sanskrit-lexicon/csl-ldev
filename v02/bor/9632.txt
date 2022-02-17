@@ -1,5 +1,5 @@
 <L>9632<pc>305<k1>galaxy<k2>galaxy
-<div n="lb"/>{@GALAXY:@}¦ <div n="I">I The milky-way: {#सुरनदी।#} </div><div n="I">II A
-<div n="lb"/>splendid assemblage <div n="xe">{%“of g. poets”:%}</div> <div n="xs">{#महाकवीनां #}
-<div n="lb"/>{# समागमः।#}</div></div>
+{@GALAXY:@}¦ <div n="I">I The milky-way: {#सुरनदी।#} </div><div n="I">II A
+splendid assemblage <div n="xe">{%“of g. poets”:%}</div> <div n="xs">{#महाकवीनां #}
+{# समागमः।#}</div></div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>848<pc>030<k1>anthem<k2>anthem
-<div n="lb"/>{@ANTHEM:@}¦ <div n="1">(1) {#सूक्तम्;#} </div><div n="1">(2) {#स्तोत्रम्:#} v. Hymn,
-<div n="lb"/>song.</div>
+{@ANTHEM:@}¦ <div n="1">(1) {#सूक्तम्;#} </div><div n="1">(2) {#स्तोत्रम्:#} v. Hymn,
+song.</div>
 <LEND>

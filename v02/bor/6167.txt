@@ -1,5 +1,5 @@
 <L>6167<pc>198<k1>dilapidated<k2>dilapidated
-<div n="lb"/>{@DILAPIDATED:@}¦ <div n="1">(1) {#विशीर्णः#} ({#र्णा, र्णं#}), <div n="xe">{%with%}
-<div n="lb"/>{%hundreds of d. edifices and turrets:%}</div> <div n="xs">{#विशीर्णतल्पाट्टशतः#}</div>
-<div n="lb"/>({#ता, तं#}), R.; </div><div n="1">(2) {#जीर्णः#} ({#र्णा, र्णं#}) (=decayed).</div>
+{@DILAPIDATED:@}¦ <div n="1">(1) {#विशीर्णः#} ({#र्णा, र्णं#}), <div n="xe">{%with%}
+{%hundreds of d. edifices and turrets:%}</div> <div n="xs">{#विशीर्णतल्पाट्टशतः#}</div>
+({#ता, तं#}), R.; </div><div n="1">(2) {#जीर्णः#} ({#र्णा, र्णं#}) (=decayed).</div>
 <LEND>

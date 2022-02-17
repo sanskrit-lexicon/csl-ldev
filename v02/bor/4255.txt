@@ -1,6 +1,6 @@
 <L>4255<pc>138<k1>comprehension<k2>comprehension
-<div n="lb"/>{@COMPREHENSION:@}¦ <div n="I">I The act of comprehend-
-<div n="lb"/>-ing: </div><div n="1">(1) {#बोधः,#} <div n="xe">{%beyond c.:%}</div> <div n="xs">{#बोधातीतः#}</div> ({#ता, तं#});</div>
-<div n="lb"/><div n="1">(2) {#अनुभवः#} </div><div n="I">II A summary: q. v. </div><div n="I">III
-<div n="lb"/>Understanding: q. v. {#धीः।#}</div>
+{@COMPREHENSION:@}¦ <div n="I">I The act of comprehend-
+-ing: </div><div n="1">(1) {#बोधः,#} <div n="xe">{%beyond c.:%}</div> <div n="xs">{#बोधातीतः#}</div> ({#ता, तं#});</div>
+<div n="1">(2) {#अनुभवः#} </div><div n="I">II A summary: q. v. </div><div n="I">III
+Understanding: q. v. {#धीः।#}</div>
 <LEND>

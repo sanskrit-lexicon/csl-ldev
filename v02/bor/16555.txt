@@ -1,7 +1,7 @@
 <L>16555<pc>508<k1>paternal<k2>paternal
-<div n="lb"/>{@PATERNAL:@}¦ <div n="I">I Pertaining to or derived from
-<div n="lb"/>a father: </div><div n="1">(1) {#पितृ-#} in comp.; </div><div n="1">(2) {#पैतृकः#} ({#की, #}
-<div n="lb"/>{# कं#}), <div n="xe">{%p. debt:%}</div> <div n="xs">{#पैतृकमृणम्,#}</div> Da.; </div><div n="1">(3) {#पित्र्य#} (f. {#त्र्या#}),
-<div n="lb"/><div n="xe">{%p. share:%}</div> <div n="xs">{#पित्र्योऽशः,#}</div> R. xi. 64. </div><div n="I">II Like
-<div n="lb"/>a father: v. Fatherly.</div>
+{@PATERNAL:@}¦ <div n="I">I Pertaining to or derived from
+a father: </div><div n="1">(1) {#पितृ-#} in comp.; </div><div n="1">(2) {#पैतृकः#} ({#की, #}
+{# कं#}), <div n="xe">{%p. debt:%}</div> <div n="xs">{#पैतृकमृणम्,#}</div> Da.; </div><div n="1">(3) {#पित्र्य#} (f. {#त्र्या#}),
+<div n="xe">{%p. share:%}</div> <div n="xs">{#पित्र्योऽशः,#}</div> R. xi. 64. </div><div n="I">II Like
+a father: v. Fatherly.</div>
 <LEND>

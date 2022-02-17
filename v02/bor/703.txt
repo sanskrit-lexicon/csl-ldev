@@ -1,7 +1,7 @@
 <L>703<pc>025<k1>amount<k2>amount
-<div n="lb"/>{@AMOUNT@}¦ (v. i.) Ph. <div n="xe">{%a. ing to a lac%}</div> <div n="xs">{#लक्ष्यसंख्यकः#}</div> ({#का, #}
-<div n="lb"/>{# कं#}); <div n="xe">{%these races together a. to fourteen%}</div> <div n="xs">{#एतान्येकत्र #}
-<div n="lb"/>{# चतुर्दशकुलानि,#}</div> K.; <div n="xe">{%ascertain what the balance a. s%}
-<div n="lb"/>{%to%}</div> <div n="xs">{#*कियदवशिष्टमिति परिज्ञायताम्;#}</div> <div n="xe">{%your argument a. s%}
-<div n="lb"/>{%to this%}</div> <div n="xs">{#*एतदभिप्रायकस्ते तर्कः।#}</div>
+{@AMOUNT@}¦ (v. i.) Ph. <div n="xe">{%a. ing to a lac%}</div> <div n="xs">{#लक्ष्यसंख्यकः#}</div> ({#का, #}
+{# कं#}); <div n="xe">{%these races together a. to fourteen%}</div> <div n="xs">{#एतान्येकत्र #}
+{# चतुर्दशकुलानि,#}</div> K.; <div n="xe">{%ascertain what the balance a. s%}
+{%to%}</div> <div n="xs">{#*कियदवशिष्टमिति परिज्ञायताम्;#}</div> <div n="xe">{%your argument a. s%}
+{%to this%}</div> <div n="xs">{#*एतदभिप्रायकस्ते तर्कः।#}</div>
 <LEND>

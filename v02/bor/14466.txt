@@ -1,8 +1,8 @@
 <L>14466<pc>444<k1>mention<k2>mention
-<div n="lb"/>{@MENTION@}¦ (v.): <div n="1">(1) {#आ-ख्याति#} ({#ख्या,#} c. 2.),
-<div n="lb"/>{%having m. ed the way to the abode of Vālmīki:%}
-<div n="lb"/>{#आख्यातवाल्मीकिनिकेतमार्गः,#} R. xiv. 58.; </div><div n="1">(2)
-<div n="lb"/>{#कथयति#} ({#कथ्,#} c. 10.): v. To speak.; </div><div n="1">(3)
-<div n="lb"/>{#वक्ति#} ({#वच्,#} c. 2.): v. To say; </div><div n="1">(4) {#अभि-दधाति#}
-<div n="lb"/>({#धा,#} c. 3.): v. To announce.</div>
+{@MENTION@}¦ (v.): <div n="1">(1) {#आ-ख्याति#} ({#ख्या,#} c. 2.),
+{%having m. ed the way to the abode of Vālmīki:%}
+{#आख्यातवाल्मीकिनिकेतमार्गः,#} R. xiv. 58.; </div><div n="1">(2)
+{#कथयति#} ({#कथ्,#} c. 10.): v. To speak.; </div><div n="1">(3)
+{#वक्ति#} ({#वच्,#} c. 2.): v. To say; </div><div n="1">(4) {#अभि-दधाति#}
+({#धा,#} c. 3.): v. To announce.</div>
 <LEND>

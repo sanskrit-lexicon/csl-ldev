@@ -1,14 +1,14 @@
 <L>24125<pc>754<k1>water<k2>water
-<div n="lb"/>{@WATER@}¦ (subs.): Lit.: <div n="1">(1) {#जलम्,#} <div n="xe">{%cool w.-drink-%}
-<div n="lb"/>{%ing:%}</div> <div n="xs">{#शीतलजलपानम्;#}</div> <div n="xe">{%rain-w.:%}</div> <div n="xs">{#वृष्टिजलम्;#}</div> {%sea-w.:%}
-<div n="lb"/>{#सामुद्रं जलम्;#} <div n="xe">{%how to purify bad w.:%}</div> <div n="xs">{#दुष्टजलस्य #}
-<div n="lb"/>{# निर्दोषीकरणोपायः,#}</div> Bha.; </div><div n="1">(2) {#वारि#} (n.); </div><div n="1">(3) {#अम्बु#}
-<div n="lb"/>(n.); </div><div n="1">(4) {#सलिलम्;#} </div><div n="1">(5) {#आपः#} (f. pl.); </div><div n="1">(6) {#उदकम्;#}</div>
-<div n="lb"/><div n="1">(7) {#अम्भस्#} (n.); </div><div n="1">(8) {#पयस्#} (n.); </div><div n="1">(9) {#तोयम्;#}</div>
-<div n="lb"/><div n="1">(10) {#नीरम्;#} </div><div n="1">(11) {#पानीयम्।#} Ph.: {%by land and%} [Page755]
-<div n="lb"/><div n="xe">{%w.:%}</div> <div n="xs">{#स्थलेन च जलेन च;#}</div> {%it will not hold w.:%}
-<div n="lb"/>{#तदपि प्रमाणकोटिं प्रवेष्टुमिष्टे,#} D. s. l.; {%first w.:%}
-<div n="lb"/>{#अनर्घेयो मणिः#} (?), V. m. 82. 5. </div><div n="I">II Urine:
-<div n="lb"/>q. v.: {#प्रस्रावः,#} <div n="xe">{%to make w.:%}</div> <div n="xs">{#प्रस्रावं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मूत्रं करोति,#}</div>
-<div n="lb"/>An.</div>
+{@WATER@}¦ (subs.): Lit.: <div n="1">(1) {#जलम्,#} <div n="xe">{%cool w.-drink-%}
+{%ing:%}</div> <div n="xs">{#शीतलजलपानम्;#}</div> <div n="xe">{%rain-w.:%}</div> <div n="xs">{#वृष्टिजलम्;#}</div> {%sea-w.:%}
+{#सामुद्रं जलम्;#} <div n="xe">{%how to purify bad w.:%}</div> <div n="xs">{#दुष्टजलस्य #}
+{# निर्दोषीकरणोपायः,#}</div> Bha.; </div><div n="1">(2) {#वारि#} (n.); </div><div n="1">(3) {#अम्बु#}
+(n.); </div><div n="1">(4) {#सलिलम्;#} </div><div n="1">(5) {#आपः#} (f. pl.); </div><div n="1">(6) {#उदकम्;#}</div>
+<div n="1">(7) {#अम्भस्#} (n.); </div><div n="1">(8) {#पयस्#} (n.); </div><div n="1">(9) {#तोयम्;#}</div>
+<div n="1">(10) {#नीरम्;#} </div><div n="1">(11) {#पानीयम्।#} Ph.: {%by land and%} [Page755]
+<div n="xe">{%w.:%}</div> <div n="xs">{#स्थलेन च जलेन च;#}</div> {%it will not hold w.:%}
+{#तदपि प्रमाणकोटिं प्रवेष्टुमिष्टे,#} D. s. l.; {%first w.:%}
+{#अनर्घेयो मणिः#} (?), V. m. 82. 5. </div><div n="I">II Urine:
+q. v.: {#प्रस्रावः,#} <div n="xe">{%to make w.:%}</div> <div n="xs">{#प्रस्रावं#}</div> <div n="xe">{%or%}</div> <div n="xs">{#मूत्रं करोति,#}</div>
+An.</div>
 <LEND>

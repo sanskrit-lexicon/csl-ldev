@@ -1,28 +1,28 @@
 <L>5282<pc>380-1<k1>काम्यक<k2>काम्यक<h>1
-{@Kāmyaka@}<sup>1</sup>,¦ name of a forest. § 11 (Parvasaṅgr.): I, {@2,@}
-<div n="lb">432, 464 {%(°āgamanaṃ),%} 472 {%(kānanaśreṣṭhe).%}—§ 310
-<div n="lb">(Āraṇyakap.): III, {@3,@} 218 {%(vanaṃ).%}—§ 312 (do.): III, {@5,@}
-<div n="lb">242 {%(°ṃ nāma vanaṃ),%} 244 {%(vanaṃ),%} †245).—§ 313 (do.):
-<div n="lb">III, {@6,@} 272.—§ 316 (Kirmīravadhap.): III, {@11,@} 387 {%(°ṃ%}
-<div n="lb">{%nāma tad vanaṃ),%} 407.—§ 321 (Saubhavadhop.): III, {@22,@}
-<div n="lb">901.—§ 329 (Kāmyakavanapraveśa): III, {@36,@} 1451 {%(°ṃ%}
-<div n="lb">{%nāma tad vanaṃ),%} 1453.—§ 399 (Indralokābhigamanap.):
-<div n="lb">III, {@47,@} 1902, 1912 {%(vanaṃ).%}—§ 341 (do.): III, {@50,@}
-<div n="lb">†1966.—§ 342 (do.): III, {@51,@} †1982.—§ 343 (Nalopā-
-<div n="lb">khyānap.): III, {@52,@} 2014.—§ 356 (Tīrthayātrāp.): III,
-<div n="lb">{@80,@} 3090, 3093, 4004, 4011, 4016.—§ 377 (Dhaumyatīrthak.):
-<div n="lb">III, {@86,@} 8293, †8296 {%(vane).%}—§ 378 (Tīrthayātrāp.): III,
-<div n="lb">{@92,@} 8457; {@93,@} 8476.—§ 424 (Bhīmakadalīkhaṇḍapr.): III,
-<div n="lb">{@146,@} 11074 {%(āśrame),%} 11075 {%(āśramaṃ).%}—§ 440 (Yakṣa-
-<div n="lb">yuddhap.): III, {@164,@} †11897.—§ 441 (Nivātakavaca-
-<div n="lb">yuddhap.): III, {@166,@} 11930 {%(āśramaṃ).%}—§ 442 (do.): III,
-<div n="lb">{@167,@} 11945.—§ 451 (Mārkāṇḍeyas.): III, {@182,@} 12556
-<div n="lb">{%(vanaṃ);%} {@183,@} 12557.—§ 518 (Mṛgasvapnodbhavap.): III,
-<div n="lb">{@258,@} 15365 {%(kānanottamaṃ),%} 15368.—§ 522 (Draupadī-
-<div n="lb">haraṇap.): III, {@264,@} 15571, 15577; {@268,@} †15660; {@269,@}
-<div n="lb">15671.—§ 524 (Jayadrathavimokṣaṇap.): III, {@272,@} 15858.
-<div n="lb">—§ 545 (Pativratāmāhātmyap.): III, {@299,@} 16917.—§ 547
-<div n="lb">(Karṇa): III, {@310,@} 17219 {%(āśramāt).%}—§ 548 (Āraṇeyap.):
-<div n="lb">III, {@311,@} 17222.—§ 600 (Ghaṭotkacavadhap.): VII, {@183,@}
-<div n="lb">8323.
+{@Kāmyaka@}<sup>1</sup>,¦ name of a forest. § 11 (Parvasaṅgr.): I, {@2@},
+432, 464 ({%°āgamanaṃ%}), 472 ({%kānanaśreṣṭhe%}).—§ 310
+(Āraṇyakap.): III, {@3@}, 218 ({%vanaṃ%}).—§ 312 (do.): III, {@5@},
+242 ({%°ṃ nāma vanaṃ%}), 244 ({%vanaṃ%}), †245).—§ 313 (do.):
+III, {@6@}, 272.—§ 316 (Kirmīravadhap.): III, {@11@}, 387 ({%°ṃ%}
+{%nāma tad vanaṃ%}), 407.—§ 321 (Saubhavadhop.): III, {@22@},
+901.—§ 329 (Kāmyakavanapraveśa): III, {@36@}, 1451 ({%°ṃ%}
+{%nāma tad vanaṃ%}), 1453.—§ 399 (Indralokābhigamanap.):
+III, {@47@}, 1902, 1912 ({%vanaṃ%}).—§ 341 (do.): III, {@50@},
+†1966.—§ 342 (do.): III, {@51@}, †1982.—§ 343 (Nalopā-
+khyānap.): III, {@52@}, 2014.—§ 356 (Tīrthayātrāp.): III,
+{@80@}, 3090, 3093, 4004, 4011, 4016.—§ 377 (Dhaumyatīrthak.):
+III, {@86@}, 8293, †8296 ({%vane%}).—§ 378 (Tīrthayātrāp.): III,
+{@92@}, 8457; {@93@}, 8476.—§ 424 (Bhīmakadalīkhaṇḍapr.): III,
+{@146@}, 11074 ({%āśrame%}), 11075 ({%āśramaṃ%}).—§ 440 (Yakṣa-
+yuddhap.): III, {@164@}, †11897.—§ 441 (Nivātakavaca-
+yuddhap.): III, {@166@}, 11930 ({%āśramaṃ%}).—§ 442 (do.): III,
+{@167@}, 11945.—§ 451 (Mārkāṇḍeyas.): III, {@182@}, 12556
+({%vanaṃ%}); {@183@}, 12557.—§ 518 (Mṛgasvapnodbhavap.): III,
+{@258@}, 15365 ({%kānanottamaṃ%}), 15368.—§ 522 (Draupadī-
+haraṇap.): III, {@264@}, 15571, 15577; {@268@}, †15660; {@269@},
+15671.—§ 524 (Jayadrathavimokṣaṇap.): III, {@272@}, 15858.
+—§ 545 (Pativratāmāhātmyap.): III, {@299@}, 16917.—§ 547
+(Karṇa): III, {@310@}, 17219 ({%āśramāt%}).—§ 548 (Āraṇeyap.):
+III, {@311@}, 17222.—§ 600 (Ghaṭotkacavadhap.): VII, {@183@},
+8323.
 <LEND>

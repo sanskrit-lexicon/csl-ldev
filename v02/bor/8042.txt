@@ -1,7 +1,7 @@
 <L>8042<pc>254<k1>executive<k2>executive
-<div n="lb"/>{@EXECUTIVE@}¦ (adj.): <div n="I">I Pertaining to execu-
-<div n="lb"/>-tion: expr. by comp., <div n="xe">{%e. duty:%}</div> <div n="xs">{#अनुष्ठाननियोगः,#}</div>
-<div n="lb"/><div n="xe">{%e. power:%}</div> <div n="xs">{#*अनुष्ठानक्षमता।#}</div> </div><div n="I">II Fitted for execution:</div>
-<div n="lb"/><div n="1">(1) {#कार्यक्षमः#} ({#मा, मं#}); </div><div n="1">(2) {#कार्यकुशलः#} ({#ला, लं#}),
-<div n="lb"/>and sim. comp. s.</div>
+{@EXECUTIVE@}¦ (adj.): <div n="I">I Pertaining to execu-
+-tion: expr. by comp., <div n="xe">{%e. duty:%}</div> <div n="xs">{#अनुष्ठाननियोगः,#}</div>
+<div n="xe">{%e. power:%}</div> <div n="xs">{#*अनुष्ठानक्षमता।#}</div> </div><div n="I">II Fitted for execution:</div>
+<div n="1">(1) {#कार्यक्षमः#} ({#मा, मं#}); </div><div n="1">(2) {#कार्यकुशलः#} ({#ला, लं#}),
+and sim. comp. s.</div>
 <LEND>

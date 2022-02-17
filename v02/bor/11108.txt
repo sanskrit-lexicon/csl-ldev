@@ -1,8 +1,8 @@
 <L>11108<pc>349<k1>homage<k2>homage
-<div n="lb"/>{@HOMAGE@}¦ (subs.): <div n="I">I In gen. </div><div n="1">(1) {#नमस्कारः;#}</div>
-<div n="lb"/><div n="1">(2) {#नमस्या,#} N.: v. Also respect. <div n="xe">{%To do,%}
-<div n="lb"/>{%pay h.:%}</div> <div n="xs">{#नमति, प्र-,#}</div> ({#नम्,#} c. 1.), <div n="xe">{%men do not pay%}
-<div n="lb"/>{%h. to a man until he pays h. to you:%}</div> <div n="xs">{#न नमन्ति पुरुषं #}
-<div n="lb"/>{# पुरुषास्तव यावदीश न नतिः क्रियते,#}</div> Ki. </div><div n="I">II Feudal:
-<div n="lb"/>{%to do h.%} ({%to a lord%}): perh. {#प्रभुत्वं स्वीकरोति।#}</div>
+{@HOMAGE@}¦ (subs.): <div n="I">I In gen. </div><div n="1">(1) {#नमस्कारः;#}</div>
+<div n="1">(2) {#नमस्या,#} N.: v. Also respect. <div n="xe">{%To do,%}
+{%pay h.:%}</div> <div n="xs">{#नमति, प्र-,#}</div> ({#नम्,#} c. 1.), <div n="xe">{%men do not pay%}
+{%h. to a man until he pays h. to you:%}</div> <div n="xs">{#न नमन्ति पुरुषं #}
+{# पुरुषास्तव यावदीश न नतिः क्रियते,#}</div> Ki. </div><div n="I">II Feudal:
+{%to do h.%} ({%to a lord%}): perh. {#प्रभुत्वं स्वीकरोति।#}</div>
 <LEND>

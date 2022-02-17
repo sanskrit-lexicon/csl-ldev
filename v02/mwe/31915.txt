@@ -1,8 +1,8 @@
 <L>31915<pc>852-b<k1>attribute<k2>attribute
-<div n="lb"/>ATTRIBUTE¦, {%s.%} {#उपाधिः#} {%m.,%} {#धर्म्मः#}. The eight divine attributes,
-<div n="lb"/>or the attributes of Śiva as the deity, are: 1. Minuteness,
-<div n="lb"/>{#अणिमा#} {%m.;%} 2. Greatness, {#महिमा#} {%m.;%} 3. Heaviness, {#गरिमा#} {%m.;%}
-<div n="lb"/>4. Lightness, {#लघिमा#} {%m.;%} 5. The power of reaching every
-<div n="lb"/>thing, {#प्राप्तिः#} {%f.;%} 6. Supremacy, {#ईशिता;#} 7. Holding in sub-
-<div n="lb"/>jection, {#वशिता;#} 8. Irresistible will, {#प्राकाम्यं#}.
+ATTRIBUTE¦, {%s.%} {#उपाधिः#} {%m.,%} {#धर्म्मः#}. The eight divine attributes,
+or the attributes of Śiva as the deity, are: 1. Minuteness,
+{#अणिमा#} {%m.;%} 2. Greatness, {#महिमा#} {%m.;%} 3. Heaviness, {#गरिमा#} {%m.;%}
+4. Lightness, {#लघिमा#} {%m.;%} 5. The power of reaching every
+thing, {#प्राप्तिः#} {%f.;%} 6. Supremacy, {#ईशिता;#} 7. Holding in sub-
+jection, {#वशिता;#} 8. Irresistible will, {#प्राकाम्यं#}.
 <LEND>

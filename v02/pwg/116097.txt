@@ -30,7 +30,7 @@
 <div n="2">— c) {%das Entziehen, Entwenden, Rauben, Entführen%}: {#रस^स्य#} 
 <ls>AV. 1, 28, 3.</ls> {#प्रसह्य कन्याहरणम्#} 
 <ls>M. 3, 33.</ls> {#रत्नानाम्#} 
-<ls>323. fgg. 327. 11, 163.</ls> <ls>YĀJÑ. 2, 155. 3, 230.</ls> <ls>MBH. 1, 316. 363. 5, 6013.</ls> <ls>R. 1, 3, 20. 3, 7, 31. 40, 32. 52, 52. 6, 8, 28.</ls> <ls>RAGH. 11, 74.</ls> <ls>Spr. (II) 466. 747. 2099. 4310. 5784. 5981,</ls> <ls>v. l. 6940. 7325. 7367.</ls> <ls>VARĀH. BṚH. S. 15, 7. 99, 8.</ls> <ls>WEBER, RĀMAT. UP. 356, 1.</ls> <ls>KATHĀS. 64, 84. fg. 121, 241.</ls> <ls>MĀRK. P. 15, 40.</ls> <ls>RĀJA-TAR. 4, 72. 638. 6, 197.</ls> <ls>SARVADARŚANAS. 9, 7.</ls> <ls>HALĀY. 5, 57.</ls> {#ममासूनाम्#} 
+<ls>323. fgg. 327. 11, 163.</ls> <ls>YĀJÑ. 2, 155. 3, 230.</ls> <ls>MBH. 1, 316.</ls> <ls n="MBH. 1,">363.</ls> <ls n="MBH.">5, 6013.</ls> <ls>R. 1, 3, 20. 3, 7, 31. 40, 32. 52, 52. 6, 8, 28.</ls> <ls>RAGH. 11, 74.</ls> <ls>Spr. (II) 466.</ls> <ls n="Spr. (II)">747.</ls> <ls n="Spr. (II)">2099.</ls> <ls n="Spr. (II)">4310.</ls> <ls n="Spr. (II)">5784.</ls> <ls n="Spr. (II)">5981, v. l.</ls> <ls n="Spr. (II)">6940.</ls> <ls n="Spr. (II)">7325.</ls> <ls n="Spr. (II)">7367.</ls> <ls>VARĀH. BṚH. S. 15, 7. 99, 8.</ls> <ls>WEBER, RĀMAT. UP. 356, 1.</ls> <ls>KATHĀS. 64, 84. fg. 121, 241.</ls> <ls>MĀRK. P. 15, 40.</ls> <ls>RĀJA-TAR. 4, 72. 638. 6, 197.</ls> <ls>SARVADARŚANAS. 9, 7.</ls> <ls>HALĀY. 5, 57.</ls> {#ममासूनाम्#} 
 <ls>Spr. (II) 3375.</ls> {#मत्प्राण°#} 
 <ls>KATHĀS. 34, 22.</ls> 
 <ls>BHĀG. P. 2, 7, 27.</ls> am Ende eines <lex>adj.</lex> comp.: {#कृतसर्व°#} 
@@ -52,9 +52,9 @@
 <ls>H. 520.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>MBH. 1, 401. 7993. 8004</ls> ({#हरणं#} ed. Bomb.). 
+<ls>MBH. 1, 401.</ls> <ls n="MBH. 1,">7993.</ls> <ls n="MBH. 1,">8004</ls> ({#हरणं#} ed. Bomb.). 
 <div n="2">— h) {%das einem Beschäler gereichte Futter%} 
-<ls>?(Comm.) P. 6, 2, 65.</ls> 
+(Comm.) <ls>P. 6, 2, 65.</ls> 
 <div n="2">— i) {%Arm%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="v">— Vgl. {#उद°, काल°, प्रसह्य°, प्राशित्र°, बलि°, वाडव°, शुक्र°, सर्व°#} .

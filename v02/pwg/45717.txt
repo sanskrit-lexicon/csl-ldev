@@ -56,7 +56,7 @@
 <ls>INDR. 1, 33.</ls> {#अल्प°#} <lex>adj.</lex> <lex>f.</lex> ({#आ#}) 
 <ls>N. 15, 16.</ls> 
 <ls>R. 6, 95, 20.</ls> {#स्वानि पुण्यानि भुञ्जानाः#} 
-<ls>R.</ls> <ls>SCHL. 2, 27, 4.</ls> <ls>RAGH. 1, 69.</ls> <ls>ŚĀK. 43. 137.</ls> <ls>Spr. 53</ls> (Gegens. {#दुष्कृत#}). 
+<ls>R. SCHL. 2, 27, 4.</ls> <ls>RAGH. 1, 69.</ls> <ls>ŚĀK. 43. 137.</ls> <ls>Spr. 53</ls> (Gegens. {#दुष्कृत#}). 
 <ls>1016. 1784.</ls> <ls>VID. 207.</ls> <ls>PAÑCAT. 187, 9.</ls> {#दग्ध°#} 
 <ls>MĀRK. P. 18, 54.</ls> {#कृत°#} so v. a. {#पुण्यवन्त्#} {%glücklich (in Folge der guten Werke, die man in einer früheren Geburt vollbracht hat)%}: {#कृतपुण्यो ऽस्मि - मुनिर्यन्मानुकम्पते#} 
 <ls>R. GORR. 2, 55, 10. 68, 3.</ls> <ls>MĀRK. P. 61, 41.</ls> {#आपगाः कृतपुण्यास्ताः पद्मिन्यश्च सरांसि च । येषु यास्यति काकुत्स्थो विगाह्य सलिलं शुचि ॥#} 
@@ -68,7 +68,7 @@
 <ls>BHĀG. P. 1, 2, 16.</ls> 
 <ls>Spr. 1783.</ls> {#ग्राम#} 
 <ls>1785.</ls> {#अरण्य#} 
-<ls>?309. BRAHMA-P. in LA. 52, 9.</ls> {#आश्रम#} 
+<ls>309.</ls> <ls>BRAHMA-P. in LA. 52, 9.</ls> {#आश्रम#} 
 <ls>R. 1, 61, 10.</ls> {#ब्राह्मणाः#} 
 <ls>BHAG. 9, 33.</ls> Auf einen Zusammenhang mit {#पू#} spielen folgende Stellen an: {#पुनाति भुवनं पुण्या रामायणमहानदी#} 
 <ls>R.</ls> Einl. {#पुण्याश्रमदर्शनेन तावदात्मानं पुनीमहे#} 
@@ -83,7 +83,7 @@
 <div n="2">— b) N. pr. eines Flusses
 [Page4-0759]
 
-<ls>MBH. 6, 344</ls> <ls>?(VP. 184).</ls> 
+<ls>MBH. 6, 344</ls> (<ls>VP. 184).</ls> 
 <div n="2">— c) N. pr. einer Tochter <is>Kratu's</is> von der <is>Saṃnati</is> 
 <ls>VP. 83,</ls> 
 <ls>N. 7.</ls> 
@@ -94,8 +94,8 @@
 <div n="2">— b) {%eine religiöse Cerimonie%}; insbes. {%eine solche, die eine Frau veranstaltet, um sich die Liebe des Mannes zu erhalten und einen Sohn zu bekommen%}: {#बहुष्वपि निमित्तेषु पुण्यमाश्रित्य दीयते#} 
 <ls>MBH. 13, 4603.</ls> {#दानोपवासपुण्यानि#} 
 <ls>HARIV. 7754.</ls> {#°विधि#} 
-<ls>7751.</ls> {#पुण्यार्थम्#} 
-<ls>7243.</ls> Vgl. {#पुण्यक#} . 
+<ls n="HARIV.">7751.</ls> {#पुण्यार्थम्#} 
+<ls n="HARIV.">7243.</ls> Vgl. {#पुण्यक#} . 
 <div n="2">— c) {%ein Trog zum Tränken des Viehes%} 
 <ls>WILS.</ls>
 <LEND>

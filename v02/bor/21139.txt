@@ -1,7 +1,7 @@
 <L>21139<pc>666<k1>speech<k2>speech
-<div n="lb"/>{@SPEECH:@}¦ <div n="I">I The faculty: </div><div n="1">(1) {#वाच्#} (f.);</div>
-<div n="lb"/><div n="1">(2) {#वाक्शक्तिः।#} </div><div n="I">II Language: q. v.: {#वाच्।#}</div>
-<div n="lb"/><div n="I">III Utterance, address: </div><div n="1">(1) {#वाच्#} (f.) {%or%}
-<div n="lb"/>{#वचस्#} (n.); </div><div n="1">(2) {#गिर्#} (f.); </div><div n="1">(3) {#वाणी;#} </div><div n="1">(4)
-<div n="lb"/>{#सरस्वती;#} </div><div n="1">(5) {#भारती:#} v. Also saying.</div>
+{@SPEECH:@}¦ <div n="I">I The faculty: </div><div n="1">(1) {#वाच्#} (f.);</div>
+<div n="1">(2) {#वाक्शक्तिः।#} </div><div n="I">II Language: q. v.: {#वाच्।#}</div>
+<div n="I">III Utterance, address: </div><div n="1">(1) {#वाच्#} (f.) {%or%}
+{#वचस्#} (n.); </div><div n="1">(2) {#गिर्#} (f.); </div><div n="1">(3) {#वाणी;#} </div><div n="1">(4)
+{#सरस्वती;#} </div><div n="1">(5) {#भारती:#} v. Also saying.</div>
 <LEND>

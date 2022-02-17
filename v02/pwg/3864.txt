@@ -7,7 +7,7 @@
 <ls>ṚV. 5, 25, 6.</ls> <ls n="ṚV.">1, 11, 2.</ls> <ls n="ṚV.">3, 12, 4.</ls> <ls n="ṚV.">8, 38, 2.</ls> <ls n="ṚV.">10, 48, 11.</ls> 
 <ls>VS. 28, 2.</ls> {#अ\यं लो\कः प्रिय^तमो दे\वाना\मप^राजितः#} 
 <ls>AV. 5, 30, 17. 8, 5, 22. 10, 2, 33. 4, 15.</ls> {#°ता सेना#} 
-<ls>ŚAT. BR. 14, 5, 1, 6.</ls> <ls>?= BṚH. ĀR. UP. 2, 1, 6.</ls> {#°ता पूर्ब्रह्मणः#} 
+<ls>ŚAT. BR. 14, 5, 1, 6.</ls> = <ls>BṚH. ĀR. UP. 2, 1, 6.</ls> {#°ता पूर्ब्रह्मणः#} 
 <ls>CHĀND. UP. 8, 5, 3.</ls> {#अपराजितमायतनम्#} (des <is>Brahman</is>) 
 <ls>KAUṢ. UP.</ls> in <ls>Ind. St. I, 397. 401.</ls> <ls>HIḌ. 2, 17.</ls> {#संयुगेष्वपराजितः#} 
 <ls>R. 4, 9, 96. 5, 32, 14.</ls> {#अन्योऽन्यमपराजितौ#} 
@@ -19,12 +19,12 @@
 <div n="2"> a) {%ein bes. giftiges Insect%} 
 <ls>SUŚR. 2, 289, 14.</ls> 
 <div n="2">— b) <is>Viṣṇu</is> 
-<ls>H. ś. 66.</ls> <ls>an. 5, 18.</ls> <ls>MED. t. 230.</ls> 
+<ls>H. ś. 66. an. 5, 18.</ls> <ls>MED. t. 230.</ls> 
 <div n="2">— c) <is>Śiva</is> 
 <ls>H. ś. 40.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— d) einer der 
 <ls>11</ls> <is>Rudra</is> 
-<ls>HARIV. 166. 11532. 14169.</ls> 
+<ls>HARIV. 166.</ls> <ls n="HARIV.">11532.</ls> <ls n="HARIV.">14169.</ls> 
 <ls>VP. 121.</ls> 
 <div n="2">— e) eine Klasse von Göttern, die eine Unterabtheilung der <is>Anuttara</is> bilden, 
 <ls>H. 94,</ls> 
@@ -45,6 +45,6 @@
 <ls>AK. 2, 4, 5, 15.</ls> 
 <div n="3">— γ) {%Sesbania aegyptiaca Pers.%}, ein kleiner Baum, 
 <ls>H. an.</ls> <ls>MED. S.</ls> {#जयन्ती#}. 
-<div n="2">— c) N. eines Metrums (4 Mal  ˘ ˘ ˘ ˘ ˘ ˘ ¯, ˘ ¯ ˘ ˘ ¯ ˘ ¯ oder  ˘ ˘ ¯ ˘ ˘ ˘ ¯,  ˘ ¯ ˘ ˘ ¯ ˘ ¯) 
-<ls>COLEBR. Misc. Ess. II, 161.</ls> <ls>(IX, 2.)</ls>
+<div n="2">— c) N. eines Metrums (4 Mal ˘ ˘ ˘ ˘ ˘ ˘ ¯, ˘ ¯ ˘ ˘ ¯ ˘ ¯ oder ˘ ˘ ¯ ˘ ˘ ˘ ¯, ˘ ¯ ˘ ˘ ¯ ˘ ¯) 
+<ls>COLEBR. Misc. Ess. II, 161.</ls> (<ls>IX, 2.</ls>)
 <LEND>

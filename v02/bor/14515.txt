@@ -1,4 +1,4 @@
 <L>14515<pc>445<k1>mesh<k2>mesh
-<div n="lb"/>{@MESH:@}¦ <div n="I">I Net: {#पाशः।#} </div><div n="I">II Its interstice:
-<div n="lb"/>{#छिद्रम्।#}</div>
+{@MESH:@}¦ <div n="I">I Net: {#पाशः।#} </div><div n="I">II Its interstice:
+{#छिद्रम्।#}</div>
 <LEND>

@@ -1,5 +1,5 @@
 <L>16097<pc>395-a<k1>inquisition<k2>inquisition
-<div n="lb"/>INQUISITION¦, {%s.%} (Examination) {#परीक्षा -क्षणं, अनुसन्धानं, जिज्ञासा,#}
-<div n="lb"/>{#अनुयोगः, समीक्षणं, संवीक्षणं#}. — (Judicial) {#विचारः -रणा#}. — (Court
-<div n="lb"/>for religious inquiry) {#धर्म्मपरीक्षणसभा, धर्म्मविचारणसभा#}.
+INQUISITION¦, {%s.%} (Examination) {#परीक्षा -क्षणं, अनुसन्धानं, जिज्ञासा,#}
+{#अनुयोगः, समीक्षणं, संवीक्षणं#}. — (Judicial) {#विचारः -रणा#}. — (Court
+for religious inquiry) {#धर्म्मपरीक्षणसभा, धर्म्मविचारणसभा#}.
 <LEND>

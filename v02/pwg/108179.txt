@@ -11,7 +11,7 @@
 <ls n="ṚV.">6, 70, 3.</ls> {#यस्मै\ त्वमा\यज^से\ स सा^धति#} 
 <ls n="ṚV.">1, 94, 2.</ls> med.: {#साध^न्तां नो\ धिय^ः#} 
 <ls n="ṚV.">6, 53, 4.</ls> <ls n="ṚV.">8, 19, 10.</ls> <ls n="ṚV.">9, 71, 3.</ls> <ls n="ṚV.">1, 141, 1.</ls> {%zu Stande kommen%}: {#साध्यति घटः#} 
-<ls>DURGA</ls><ls>?10DĀSA</ls> im <ls>ŚKDR.</ls> 
+<ls>DURGĀDĀSA</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 2) {%gerade lenken, schlichten, in Ordnung bringen; zum Ziel führen%}: {#धिय^म्#} 
 <ls>ṚV. 1, 2, 7.</ls> <ls n="ṚV.">10, 74, 3.</ls> med. <ls n="ṚV.">8, 40, 9.</ls> — {#अ\क्तुनाह्ना^ं व\युना^नि साधत्#} 
 <ls n="ṚV.">2, 19, 3.</ls> <ls n="ṚV.">3, 38, 9.</ls> <ls n="ṚV.">4, 56, 7.</ls> <ls n="ṚV.">1, 96, 1.</ls> {#वि\दथा^नि#} 
@@ -19,7 +19,7 @@
 <ls n="ṚV.">3, 5, 3.</ls> <ls n="ṚV.">7, 34, 8.</ls> {#स\निं गोर्हव^मानाय साध#} 
 <ls n="ṚV.">3, 1, 23.</ls> {#साधा^ दि\वः#} 
 <ls n="ṚV.">4, 3, 8.</ls> {%zu Stande bringen%}: {#साध्नोति साध्यति घटं कुलालः#} 
-<ls>DURGA</ls><ls>?10DĀSA</ls> im <ls>ŚKDR.</ls> 
+<ls>DURGĀDĀSA</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 3) {%sich fügen; gehorchen%}: {#वि पर्व^तो\ जिही^त\ साध^त\ द्यौः#} 
 <ls>ṚV. 5, 45, 3.</ls> {#स क्षे^त्यस्य\ दुर्या^सु\ साध^न्#} 
 <ls n="ṚV.">4, 1, 9.</ls>
@@ -34,8 +34,8 @@
 <ls n="ṚV.">6, 56, 4.</ls> {#ग\वेष^णं सा\तये^ सीषधो ग\णम्#} 5. 
 <div n="1">— 3) {%zur Ordnung bringen, Jmd sich dienstbar machen, in seine Gewalt bringen, für sich zu gewinnen suchen%}: {#इ\मा नु क\ं भुव^ना सीषधाम#} 
 <ls>ṚV. 10, 157, 1.</ls> {#नहि साम्ना न दानेन न भेदेन च पाण्डवाः । शक्याः साधयितुम्#} 
-<ls>MBH. 1, 7435. 2, 647. 6, 5048</ls> <ls>?(med.). 5049. KĀM. NĪTIS. 9, 70.</ls> {#पापान्दण्डेन#} 
-<ls>?12, 39. 17, 44. 46. 49. fg. VARĀH. YOGAYĀTRĀ 1, 11 in Ind. St. 10, 165. Spr. 4928, v. l. 7020, v. l.</ls> ({#साधितुम् = साधयितुम्#}). 
+<ls>MBH. 1, 7435.</ls> <ls n="MBH.">2, 647.</ls> <ls n="MBH.">6, 5048</ls> (med.). <ls>5049.</ls> <ls>KĀM. NĪTIS. 9, 70.</ls> {#पापान्दण्डेन#} 
+<ls>12, 39. 17, 44. 46. 49. fg.</ls> <ls>VARĀH.</ls> <ls>YOGAYĀTRĀ 1, 11</ls> in <ls>Ind. St. 10, 165.</ls> <ls>Spr. 4928, v. l. 7020, v. l.</ls> ({#साधितुम् = साधयितुम्#}). 
 <ls>KATHĀS. 107, 71. 121, 7.</ls> 
 <ls>PAÑCAT. 156, 19. fg. 211, 12.</ls> 
 <ls>HIT. 59, 21.</ls> 
@@ -69,10 +69,10 @@
 <ls>M. 7, 173. 9, 297.</ls> 
 <ls>MBH. 1, 7514.</ls> 
 <ls>HARIV. 3978.</ls> 
-<ls>Spr. (II) 772. 1681. 6950.</ls> 
+<ls>Spr. (II) 772.</ls> <ls n="Spr. (II)">1681.</ls> <ls n="Spr. (II)">6950.</ls> 
 <ls>VOP. 26, 20.</ls> {#कर्म#} 
-<ls>MBH. 3, 12256. 13, 4946.</ls> 
-<ls>Spr. (II) 1684. 3215, v. l.</ls> 
+<ls>MBH. 3, 12256.</ls> <ls n="MBH.">13, 4946.</ls> 
+<ls>Spr. (II) 1684.</ls> <ls n="Spr. (II)">3215, v. l.</ls> 
 <ls>DAŚAK. 89, 5.</ls> {#कृत्यम्#} 
 <ls>R. 5, 9, 34.</ls> 
 <ls>PAÑCAT. 201, 8.</ls> {#परार्थम्, स्वार्थम्#} 
@@ -95,9 +95,9 @@
 <ls>KATHĀS. 13, 65. 114.</ls>
 [Page7-0907]
 {#साधयामो ऽस्य मेदिनीम्#} 
-<ls>?15, 18. 26. 21, 66. 32, 131. 44, 100. 109, 14. 22. 24. 46, 190. BHĀG. P. 1, 8, 5. 7, 3, 10. 8, 5, 10. 8, 37. 10, 2. 9, 1, 20 (med.). 10, 53, 18</ls> ({#साधितुम्#}). {#कं ते कामं मनसा साधयामि#} 
+<ls>15, 18. 26. 21, 66. 32, 131. 44, 100. 109, 14. 22. 24. 46, 190.</ls> <ls>BHĀG. P. 1, 8, 5. 7, 3, 10. 8, 5, 10. 8, 37. 10, 2. 9, 1, 20</ls> (med.). <ls>10, 53, 18</ls> ({#साधितुम्#}). {#कं ते कामं मनसा साधयामि#} 
 <ls>MBH. 14, 272.</ls> {#ये साधयन्ति सत्त्रिणे निजवाञ्छितम्#} 
-<ls>Verz. d. Oxf. H. 106</ls>, {%a%}, 
+<ls>Verz. d. Oxf. H. 106,a,</ls> 
 <ls>39.</ls> <ls>KATHĀS. 13, 89. 17, 100. 25, 68. 26, 196.</ls> <ls>BHĀG. P. 6, 7, 37.</ls> <ls>SARVADARŚANAS. 33, 12.</ls> 
 <div n="1">— 7) {%Etwas für sich zu Wege bringen, erlangen, gewinnen, theilhaftig werden%}: {#अर्थान्#} 
 <ls>ŚAT. BR. 11, 5, 7, 1.</ls> (med.). {#तत्पदम्#} 
@@ -108,7 +108,7 @@
 <ls>KATHĀS. 26, 201.</ls> {#बद्धमूलताम्#} 
 <ls>34, 197. 38, 151. 40, 21. 35. 46, 118. 157. 107, 72. 113, 76.</ls> <ls>RĀJA-TAR. 3, 466.</ls> <ls>DAŚAK. 76, 5.</ls> {#आत्मोत्कर्षम्#} 
 <ls>HIT. 91, 19.</ls> {#आधिक्यम्#} (so 
-v. l.) <ls>92, 2.</ls> <ls>VET.</ls> in <ls>LA. (III) 3, 11.</ls> ohne obj. {%zu seinem Ziel gelangen, seines Wunsches theilhaftig werden%} 
+v. l.) <ls>92, 2.</ls> <ls>VET. in LA. (III) 3, 11.</ls> ohne obj. {%zu seinem Ziel gelangen, seines Wunsches theilhaftig werden%} 
 <ls>MBH. 3, 1441.</ls> 
 <div n="1">— 8) {%eintreiben%} (Geld): {#अर्थम्#} 
 <ls>M. 8, 49. fg. 176.</ls> 
@@ -126,7 +126,7 @@ v. l.) <ls>92, 2.</ls> <ls>VET.</ls> in <ls>LA. (III) 3, 11.</ls> ohne obj. {%zu
 <ls>13, 32. 9, 6, 42</ls> (med.). {#मे । गर्भे त्वं साधयात्मानम्#} so v. a. {%bringe es dahin, dass du in meinen Mutterleib gelangst%} 
 <ls>4, 8, 13.</ls> 
 <div n="1">— 11) {%aufbrechen, sich auf den Weg machen%}: {#साधयामस्तावत्#} 
-<ls>MBH. 1, 789. 3, 16689.</ls> {#साध्यतां तत्र गम्यताम्#} 
+<ls>MBH. 1, 789.</ls> <ls n="MBH.">3, 16689.</ls> {#साध्यतां तत्र गम्यताम्#} 
 <ls>13, 1405.</ls> {#साधयिष्यामि तत्र यास्यामि#} 
 <ls>1406.</ls> <ls>R. 2, 34, 34.</ls> <ls>ŚĀK. 7, 19. 70, 21. 101, 13.</ls> <ls>VIKR. 60, 13.</ls> <ls>MĀLATĪM. 126, 5.</ls> <ls>Spr. (II) 978.</ls> <ls>RĀJA-TAR. 1, 145.</ls> im Drama {#प्रायेण ण्यन्तकः साधिर्गमेः स्थाने प्रयुज्यते#} 
 <ls>SĀH. D. 430.</ls> 
@@ -173,17 +173,17 @@ v. l.) <ls>92, 2.</ls> <ls>VET.</ls> in <ls>LA. (III) 3, 11.</ls> ohne obj. {%zu
 <ls>KATHĀS. 50, 134. 94, 49. 95, 67</ls> ({#सुप्रसाधित#}). 
 <ls>117, 130. 124, 116.</ls> <ls>DAŚAK. 61, 2.</ls> <ls>AK. 2, 6, 3, 2.</ls> 
 <div n="1">— 3) {%zu Stande bringen, vollbringen%}: {#कृत्यानि#} 
-<ls>Spr. (II) 1702. 3249. 3660.</ls> 
+<ls>Spr. (II) 1702.</ls> <ls n="Spr. (II)">3249.</ls> <ls n="Spr. (II)">3660.</ls> 
 <ls>SĀH. D. 293.</ls> {#मनोरथम्#} 
 <ls>R. 3, 25, 23.</ls> {#योगक्षेमम्#} 
 <ls>KATHĀS. 34, 200.</ls> —
 [Page7-0908]
 
 <div n="1">— 4) {%erwerben, gewinnen%}: {#अर्थमेकम्#} 
-<ls>Spr. (II) 3262. 3514.</ls> 
+<ls>Spr. (II) 3262.</ls> <ls n="Spr. (II)">3514.</ls> 
 <div n="1">— 5) {%ausmitteln, durch Berechnung finden%} 
 <ls>GAṆIT.</ls> 
-<ls>PĀTĀDH. 16.</ls> <ls>GOLĀDHY.</ls> <ls>BHUVANAK. 60.</ls> {%beweisen%} 
+<ls>PĀTĀDH. 16.</ls> <ls>GOLĀDHY. BHUVANAK. 60.</ls> {%beweisen%} 
 <ls>NĪLAK. 256.</ls> 
 <div n="v">— Vgl. {#प्रसाधक#} fgg. — desid. {%ausführen wollen%}: {#धिय^ं धियं सीषधाति\ प्र पू\षा#} 
 <ls>ṚV. 6, 49, 8.</ls>

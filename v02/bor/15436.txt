@@ -1,6 +1,6 @@
 <L>15436<pc>473<k1>nine<k2>nine
-<div n="lb"/>{@NINE:@}¦ {#नवन्#} (mfn.), <div n="xe">{%n. or ten:%}</div> <div n="xs">{#नवदशाः#}</div> (n. {#-नि#});
-<div n="lb"/><div n="xe">{%n. times:%}</div> <div n="xs">{#नववारान्;#}</div> <div n="xe">{%in n. ways:%}</div> <div n="xs">{#नवधा;#}</div> <div n="xe">{%of n.%}
-<div n="lb"/>{%kinds:%}</div> <div n="xs">{#नवविधः#}</div> ({#धा, धं#}); <div n="xe">{%n. gems of Vikramā-%}
-<div n="lb"/>{%ditya:%}</div> <div n="xs">{#विक्रमस्य नव रत्नानि,#}</div> Ja.
+{@NINE:@}¦ {#नवन्#} (mfn.), <div n="xe">{%n. or ten:%}</div> <div n="xs">{#नवदशाः#}</div> (n. {#-नि#});
+<div n="xe">{%n. times:%}</div> <div n="xs">{#नववारान्;#}</div> <div n="xe">{%in n. ways:%}</div> <div n="xs">{#नवधा;#}</div> <div n="xe">{%of n.%}
+{%kinds:%}</div> <div n="xs">{#नवविधः#}</div> ({#धा, धं#}); <div n="xe">{%n. gems of Vikramā-%}
+{%ditya:%}</div> <div n="xs">{#विक्रमस्य नव रत्नानि,#}</div> Ja.
 <LEND>

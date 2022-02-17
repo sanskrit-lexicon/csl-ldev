@@ -1,4 +1,4 @@
 <L>5036<pc>162<k1>creative<k2>creative
-<div n="lb"/>{@CREATIVE:@}¦ Ph.: <div n="xe">{%c. power:%}</div> <div n="xs">{#सृजनशक्तिः; निर्माण-#}
-<div n="lb"/>{#शक्तिः।#}</div>
+{@CREATIVE:@}¦ Ph.: <div n="xe">{%c. power:%}</div> <div n="xs">{#सृजनशक्तिः; निर्माण-#}
+{#शक्तिः।#}</div>
 <LEND>

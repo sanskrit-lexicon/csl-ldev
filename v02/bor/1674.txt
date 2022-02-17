@@ -1,8 +1,8 @@
 <L>1674<pc>058<k1>basin<k2>basin
-<div n="lb"/>{@BASIN:@}¦ <div n="I">I A vessel for washing etc.: </div><div n="1">(1)
-<div n="lb"/>{#द्रोणी;#} </div><div n="1">(2) {#भाण्डम्#} (any vessel) <div n="xe">{%in a. b. of%}
-<div n="lb"/>{%indigo%}</div> <div n="xs">{#नीलीभाण्डे,#}</div> <ls>H.</ls> iii. </div><div n="I">II A reservoir: </div><div n="1">(1)
-<div n="lb"/>{#जलाशयः;#} </div><div n="1">(2) {#तडागः;#} </div><div n="1">(3) {#कासारः।#} </div><div n="I">III A b.
-<div n="lb"/>round the root of a tree: {#आलवालम्।#} </div><div n="I">IV
-<div n="lb"/>dock: q. v. V. Geog. t. t.: {#*जलाघारः।#}</div>
+{@BASIN:@}¦ <div n="I">I A vessel for washing etc.: </div><div n="1">(1)
+{#द्रोणी;#} </div><div n="1">(2) {#भाण्डम्#} (any vessel) <div n="xe">{%in a. b. of%}
+{%indigo%}</div> <div n="xs">{#नीलीभाण्डे,#}</div> <ls>H.</ls> iii. </div><div n="I">II A reservoir: </div><div n="1">(1)
+{#जलाशयः;#} </div><div n="1">(2) {#तडागः;#} </div><div n="1">(3) {#कासारः।#} </div><div n="I">III A b.
+round the root of a tree: {#आलवालम्।#} </div><div n="I">IV
+dock: q. v. V. Geog. t. t.: {#*जलाघारः।#}</div>
 <LEND>

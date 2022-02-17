@@ -1,12 +1,12 @@
 <L>22284<pc>702<k1>tell<k2>tell
-<div n="lb"/>{@TELL@}¦ (v.t.): <div n="1">(1) {#कथयति#} ({#कथ्,#} c. 10.), <div n="xe">{%learnt%}
-<div n="lb"/>{%without being told:%}</div> <div n="xs">{#अकथितशिक्षित#}</div> (f. {#ता#}),
-<div n="lb"/>K.; <div n="xe">{%when I tell the history of (his) former%}
-<div n="lb"/>{%life:%}</div> <div n="xs">{#जन्मान्तरवृत्तन्तं मयि कथयति,#}</div> K.; <div n="xe">{%that (my)%}
-<div n="lb"/>{%internal wish is told by the eyes:%}</div> <div n="xs">{#यच्चक्षुषैव #}
-<div n="lb"/>{# हृदयाभिलाष कथ्यते,#}</div> K.; <div n="xe">{%whom should I tell:%}</div> <div n="xs">{#कस्य #}
-<div n="lb"/>{# कथयामि,#}</div> K.; </div><div n="1">(2) {#आवेदयति#} (c. of {#विद्#} = inform,
-<div n="lb"/>narrate), <div n="xe">{%I will t. (you) everything from the%}
-<div n="lb"/>{%beginning:%}</div> <div n="xs">{#आदितः प्रभृति सर्वं निवेदयिष्यामः,#}</div> K.:
-<div n="lb"/>v. To say, relate.</div>
+{@TELL@}¦ (v.t.): <div n="1">(1) {#कथयति#} ({#कथ्,#} c. 10.), <div n="xe">{%learnt%}
+{%without being told:%}</div> <div n="xs">{#अकथितशिक्षित#}</div> (f. {#ता#}),
+K.; <div n="xe">{%when I tell the history of (his) former%}
+{%life:%}</div> <div n="xs">{#जन्मान्तरवृत्तन्तं मयि कथयति,#}</div> K.; <div n="xe">{%that (my)%}
+{%internal wish is told by the eyes:%}</div> <div n="xs">{#यच्चक्षुषैव #}
+{# हृदयाभिलाष कथ्यते,#}</div> K.; <div n="xe">{%whom should I tell:%}</div> <div n="xs">{#कस्य #}
+{# कथयामि,#}</div> K.; </div><div n="1">(2) {#आवेदयति#} (c. of {#विद्#} = inform,
+narrate), <div n="xe">{%I will t. (you) everything from the%}
+{%beginning:%}</div> <div n="xs">{#आदितः प्रभृति सर्वं निवेदयिष्यामः,#}</div> K.:
+v. To say, relate.</div>
 <LEND>

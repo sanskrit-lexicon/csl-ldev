@@ -1,23 +1,23 @@
 <L>8376<pc>265<k1>fall<k2>fall
-<div n="lb"/>{@FALL@}¦ (subs.): <div n="I">I The act of f. ing: </div><div n="1">(1) {#पातः, #}
-<div n="lb"/>{# नि-,#} <div n="xe">{%f. of a mountain:%}</div> <div n="xs">{#गिरिपातः,#}</div> V. p.; </div><div n="1">(2)
-<div n="lb"/>{#पतनम्, नि-, प्र-,#} <div n="xe">{%f. from a mountain:%}</div> <div n="xs">{#गिरेः पतनम्,#}</div>
-<div n="lb"/>H. i.; </div><div n="1">(3) {#अवपतनं#} <div n="xe">{%or%}</div> <div n="xs">{#अवपातः#}</div> (= f. ing down);</div>
-<div n="lb"/><div n="1">(4) {#भ्रंशः, प्र-,#} (rare); </div><div n="1">(5) {#च्युतिः, परि-, वि-,#}
-<div n="lb"/>(rare). Ph.: {%coming out had a f. in front:%}
-<div n="lb"/>{#निष्क्रम्याग्रे पपात ह,#} Mah.: v. To fall. </div><div n="I">II
-<div n="lb"/>Death, destruction: q.v.: {#पातः#} <div n="xe">{%or%}</div> <div n="xs">{#पतनम्, #}
-<div n="lb"/>{# नि-, विनि-,#}</div> <div n="xe">{%how will Rāvaṇa brook the repeated%}
-<div n="lb"/>{%f. of his men:%}</div> <div n="xs">{#कथमिव दशमुखः भूयोभूयः स्वजनविनि-#}
-<div n="lb"/>{#पातं सहेत,#}</div> Vi. </div><div n="I">III Downfall, degradation:
-<div n="lb"/>{#पातः#} <div n="xe">{%or%}</div> <div n="xs">{#पतनम्, अव-, नि-, विनि-,#}</div> <div n="xe">{%rise and f. of%}
-<div n="lb"/>{%men:%}</div> <div n="xs">{#पातोत्पाता मनुष्याणाम्,#}</div> H.; <div n="xe">{%even f.....is%}
-<div n="lb"/>{%equivalent to rise:%}</div> <div n="xs">{#विनिपातोऽपि समं समुन्नतेः,#}</div> Ki.</div>
-<div n="lb"/><div n="I">IV Decrease: q.v.: {#ह्रासः,#} <div n="xe">{%rise and f. of%}
-<div n="lb"/>{%prices:%}</div> <div n="xs">{#अर्घस्य वृद्धिह्रासः,#}</div> Vy. V. Cadence: q.v.:
-<div n="lb"/>{#पातः।#} </div><div n="I">VI Declivity, slope: q.v. {#पातः।#} </div><div n="I">VII
-<div n="lb"/>Waterfall: {#प्रपातः,#} {%the f. s of the great Koshi:%}
-<div n="lb"/>{#महाकोशीप्रपातः,#} Ku. </div><div n="I">VIII A falling: {#पातः,#}
-<div n="lb"/><div n="xe">{%heavy f. of hail:%}</div> <div n="xs">{#तुमुलकरकावृष्टिपातः,#}</div> Me. </div><div n="I">IX
-<div n="lb"/>Felling: {#पातः, -नम्।#}</div>
+{@FALL@}¦ (subs.): <div n="I">I The act of f. ing: </div><div n="1">(1) {#पातः, #}
+{# नि-,#} <div n="xe">{%f. of a mountain:%}</div> <div n="xs">{#गिरिपातः,#}</div> V. p.; </div><div n="1">(2)
+{#पतनम्, नि-, प्र-,#} <div n="xe">{%f. from a mountain:%}</div> <div n="xs">{#गिरेः पतनम्,#}</div>
+H. i.; </div><div n="1">(3) {#अवपतनं#} <div n="xe">{%or%}</div> <div n="xs">{#अवपातः#}</div> (= f. ing down);</div>
+<div n="1">(4) {#भ्रंशः, प्र-,#} (rare); </div><div n="1">(5) {#च्युतिः, परि-, वि-,#}
+(rare). Ph.: {%coming out had a f. in front:%}
+{#निष्क्रम्याग्रे पपात ह,#} Mah.: v. To fall. </div><div n="I">II
+Death, destruction: q.v.: {#पातः#} <div n="xe">{%or%}</div> <div n="xs">{#पतनम्, #}
+{# नि-, विनि-,#}</div> <div n="xe">{%how will Rāvaṇa brook the repeated%}
+{%f. of his men:%}</div> <div n="xs">{#कथमिव दशमुखः भूयोभूयः स्वजनविनि-#}
+{#पातं सहेत,#}</div> Vi. </div><div n="I">III Downfall, degradation:
+{#पातः#} <div n="xe">{%or%}</div> <div n="xs">{#पतनम्, अव-, नि-, विनि-,#}</div> <div n="xe">{%rise and f. of%}
+{%men:%}</div> <div n="xs">{#पातोत्पाता मनुष्याणाम्,#}</div> H.; <div n="xe">{%even f.....is%}
+{%equivalent to rise:%}</div> <div n="xs">{#विनिपातोऽपि समं समुन्नतेः,#}</div> Ki.</div>
+<div n="I">IV Decrease: q.v.: {#ह्रासः,#} <div n="xe">{%rise and f. of%}
+{%prices:%}</div> <div n="xs">{#अर्घस्य वृद्धिह्रासः,#}</div> Vy. V. Cadence: q.v.:
+{#पातः।#} </div><div n="I">VI Declivity, slope: q.v. {#पातः।#} </div><div n="I">VII
+Waterfall: {#प्रपातः,#} {%the f. s of the great Koshi:%}
+{#महाकोशीप्रपातः,#} Ku. </div><div n="I">VIII A falling: {#पातः,#}
+<div n="xe">{%heavy f. of hail:%}</div> <div n="xs">{#तुमुलकरकावृष्टिपातः,#}</div> Me. </div><div n="I">IX
+Felling: {#पातः, -नम्।#}</div>
 <LEND>

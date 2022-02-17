@@ -1,6 +1,6 @@
 <L>13552<pc>417<k1>lifeless<k2>lifeless
-<div n="lb"/>{@LIFELESS:@}¦ <div n="I">I Dead: q. v.: {#गतासु#} (mfn.);
-<div n="lb"/>{#विगतजीवितः#} ({#ता, तं#}); and sim. comp.s. </div><div n="I">II
-<div n="lb"/>Inanimate: q. v.: {#निर्जीवः#} ({#वा, वं#}). </div><div n="I">III
-<div n="lb"/>Flat, dull: q. v.: {#निस्तेजस्#} (mfn.).</div>
+{@LIFELESS:@}¦ <div n="I">I Dead: q. v.: {#गतासु#} (mfn.);
+{#विगतजीवितः#} ({#ता, तं#}); and sim. comp.s. </div><div n="I">II
+Inanimate: q. v.: {#निर्जीवः#} ({#वा, वं#}). </div><div n="I">III
+Flat, dull: q. v.: {#निस्तेजस्#} (mfn.).</div>
 <LEND>

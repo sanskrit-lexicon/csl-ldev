@@ -1,9 +1,9 @@
 <L>18650<pc>574<k1>real<k2>real
-<div n="lb"/>{@REAL:@}¦ <div n="I">I True, genuine: q. v.: </div><div n="1">(1) {#सत्यः#}
-<div n="lb"/>({#ता, तं#}), <div n="xe">{%a r. elephant:%}</div> <div n="xs">{#सत्यगजः,#}</div> K. s. xii. 16.;</div>
-<div n="lb"/><div n="1">(2) {#ऋत#} (f. {#ता#}: rare), {%coupling the r. and the%}
-<div n="lb"/><div n="xe">{%unreal:%}</div> <div n="xs">{#सत्यानृते मिथुनीकृत्य;#}</div> </div><div n="1">(3) {#प्रकृत#} (f. {#ता#})</div>
-<div n="lb"/><div n="1">(4) {#वास्तव#} (f. {#वा#}) <div n="xe">{%or%}</div> <div n="xs">{#वास्तविक#}</div> (f. {#की#}). </div><div n="I">II In
-<div n="lb"/>law: </div><div n="1">(1) {#स्थावर#} (f. {#रा#}); </div><div n="1">(2) {#जङ्गमेतर#} (f. {#रा#}):
-<div n="lb"/>v. Property.</div>
+{@REAL:@}¦ <div n="I">I True, genuine: q. v.: </div><div n="1">(1) {#सत्यः#}
+({#ता, तं#}), <div n="xe">{%a r. elephant:%}</div> <div n="xs">{#सत्यगजः,#}</div> K. s. xii. 16.;</div>
+<div n="1">(2) {#ऋत#} (f. {#ता#}: rare), {%coupling the r. and the%}
+<div n="xe">{%unreal:%}</div> <div n="xs">{#सत्यानृते मिथुनीकृत्य;#}</div> </div><div n="1">(3) {#प्रकृत#} (f. {#ता#})</div>
+<div n="1">(4) {#वास्तव#} (f. {#वा#}) <div n="xe">{%or%}</div> <div n="xs">{#वास्तविक#}</div> (f. {#की#}). </div><div n="I">II In
+law: </div><div n="1">(1) {#स्थावर#} (f. {#रा#}); </div><div n="1">(2) {#जङ्गमेतर#} (f. {#रा#}):
+v. Property.</div>
 <LEND>

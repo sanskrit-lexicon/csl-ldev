@@ -1,29 +1,29 @@
 <L>8065<pc>537-2<k1>पन्नग<k2>पन्नग
-{@Pannaga,@}¦ sg. (“serpent-demon”): I, 1703, 1706 {%(śava-%}
-<div n="lb">{%pannagaṃ);%} II, 2182 {%(iva),%} 2551 (do.); III, 2615, 8647
-<div n="lb">{%(°endravadhūr iva),%} 11734 {%(iva);%} IV, 1519 (do.); V, 4326
-<div n="lb">(do.); VI, 3612 (do.), 4097 (do.), 4323 {%(yathā);%} VII, 1294
-<div n="lb">{%(iva),%} 1613 (do.), 1687 (do.), 4124 {%(yathā),%} 4640 {%(iva),%} 5952
-<div n="lb">{%(iva),%} 7516 (do.); VIII, 911 (do.), 966 (do.), 2477 (do.), 2955
-<div n="lb">{%(iva P°ottamaṃ),%} 3882 {%(yathā),%} 4468 (do.); IX, 676 (do.); XI,
-<div n="lb">814 {%(iva);%} XII, 10972 {%(yathā),%} 13918; XIII, 16, 19 {%(°ādhamaḥ),%}
-<div n="lb">†26, †27, †31, 34, 37, 38, 39, 44, 47 {%(°ādhama),%} 49, 50, 56,
-<div n="lb">66, 69, 70, 79, 80, 849; XIV, 2160 {%(iva),%} 2323 {%(iva).%}
+{@Pannaga@},¦ sg. (“serpent-demon”): I, 1703, 1706 ({%śava-%}
+{%pannagaṃ%}); II, 2182 ({%iva%}), 2551 (do.); III, 2615, 8647
+({%°endravadhūr iva%}), 11734 ({%iva%}); IV, 1519 (do.); V, 4326
+(do.); VI, 3612 (do.), 4097 (do.), 4323 ({%yathā%}); VII, 1294
+({%iva%}), 1613 (do.), 1687 (do.), 4124 ({%yathā%}), 4640 ({%iva%}), 5952
+({%iva%}), 7516 (do.); VIII, 911 (do.), 966 (do.), 2477 (do.), 2955
+({%iva P°ottamaṃ%}), 3882 ({%yathā%}), 4468 (do.); IX, 676 (do.); XI,
+814 ({%iva%}); XII, 10972 ({%yathā%}), 13918; XIII, 16, 19 ({%°ādhamaḥ%}),
+†26, †27, †31, 34, 37, 38, 39, 44, 47 ({%°ādhama%}), 49, 50, 56,
+66, 69, 70, 79, 80, 849; XIV, 2160 ({%iva%}), 2323 ({%iva%}).
 <div n="P">Names of single Pannagas:—
-<div n="P">{@Arbuda:@} II, 806.
-<div n="P">{@Śakravāpin:@} II, 806.
-<div n="P">{@Śeṣa:@} I, 1579 {%(°ottama);%} VII, 3456 {%(°śreṣṭhaḥ).%}
-<div n="P">{@Śrīvaha:@} I, 1558.
-<div n="P">{@Kauravya:@} I, 7793.
-<div n="P">{@Nahuṣa:@}¦ III, 12397, 12400 {%(°sattama),%} 12451
-<div n="lb">{%(°ottamaḥ),%} 12505 {%(°sattama).%}
-<div n="P">{@Padma:@}¦ XII, 13828 {%(°āśramaṃ),%} 13845, 13849.
-<div n="P">{@Sumukha:@}¦ V, 8662, 3671.
-<div n="P">{@Takṣaka:@}¦ 1, 840, 848 {%(°ādhamaḥ),%} 1709 {%(°ottamaḥ),%}
-<div n="lb">1758 {%(°śreṣṭhaḥ),%} 1762 (do.), 1769 {%(°ottamaḥ),%} 1770, 1804
-<div n="lb">{%(°śreṣṭhaṃ),%} 1978 {%(°ottamāt),%} 1995 {%(°ādhamaḥ),%} 2001, 2018,
-<div n="lb">2020, 2126, 2170 {%(°ottamaṃ),%} 8089, 8202.
-<div n="P">{@Vāsuki:@} I, 1059 {%(°ottamaḥ),%} 1589 (do.), 1617 {%(°ottamaṃ),%}
-<div n="lb">1865, 1925 {%(°ottamaḥ),%} 2060 {%(°ottamaṃ),%} 2080 {%(°ottamaḥ),%}
-<div n="lb">2084 {%(°ottama),%} 2090 (do.); IX, 2150 {%(°ottamaṃ).%}
+<div n="P">{@Arbuda@}: II, 806.
+<div n="P">{@Śakravāpin@}: II, 806.
+<div n="P">{@Śeṣa@}: I, 1579 ({%°ottama%}); VII, 3456 ({%°śreṣṭhaḥ%}).
+<div n="P">{@Śrīvaha@}: I, 1558.
+<div n="P">{@Kauravya@}: I, 7793.
+<div n="P">{@Nahuṣa@}:¦ III, 12397, 12400 ({%°sattama%}), 12451
+({%°ottamaḥ%}), 12505 ({%°sattama%}).
+<div n="P">{@Padma@}:¦ XII, 13828 ({%°āśramaṃ%}), 13845, 13849.
+<div n="P">{@Sumukha@}:¦ V, 8662, 3671.
+<div n="P">{@Takṣaka@}:¦ 1, 840, 848 ({%°ādhamaḥ%}), 1709 ({%°ottamaḥ%}),
+1758 ({%°śreṣṭhaḥ%}), 1762 (do.), 1769 ({%°ottamaḥ%}), 1770, 1804
+({%°śreṣṭhaṃ%}), 1978 ({%°ottamāt%}), 1995 ({%°ādhamaḥ%}), 2001, 2018,
+2020, 2126, 2170 ({%°ottamaṃ%}), 8089, 8202.
+<div n="P">{@Vāsuki@}: I, 1059 ({%°ottamaḥ%}), 1589 (do.), 1617 ({%°ottamaṃ%}),
+1865, 1925 ({%°ottamaḥ%}), 2060 ({%°ottamaṃ%}), 2080 ({%°ottamaḥ%}),
+2084 ({%°ottama%}), 2090 (do.); IX, 2150 ({%°ottamaṃ%}).
 <LEND>

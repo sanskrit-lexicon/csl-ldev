@@ -1,33 +1,33 @@
 <L>675<pc>023,1<k1>अनायूह<k2>अन्-आयूह
 {@an-āyūha@}¦, adj. (Pali id.; see also {@anāvyūha@}), {%effort-%}
-<div n="lb">{%less; free from exertion or striving%}; usually cpd. with {@a-@}
-<div n="lb">{@niryūha@}, {%without abandonment, riddance, giving up%}; the
-<div n="lb">two terms together seem clearly to be opposites, and to
-<div n="lb">mean about the same as a-pravṛtti, a-nivṛtti, {%without%}
-<div n="lb">{%activity or abstention from it%} (so Suzuki, ‘neither taking
-<div n="lb">birth nor…going out’, on Laṅk 115.11--12; 196.3).
-<div n="lb">However, Tib. (e.g. on LV 423.4 and on Laṅk) renders
-<div n="lb">an-āyūha by blaṅ ba med pa, or the like, and aniryūha
-<div n="lb">by dor ba med pa, which seem most naturally to mean
-<div n="lb">{%without%} (intellectual) {%acceptance%} or {%rejection%} respectively;
-<div n="lb">La Vallée Poussin, note on MadhK 517.20, see {@āvyūhati@},
-<div n="lb">gives his Tib. versions as mi len and mi ḥdor (which are
-<div n="lb">equivalent to the above), and equates ā(v)yūha and
-<div n="lb">nir(v)yūha with Skt. samāropa and apavāda. I find no
-<div n="lb">support in BHS texts for this interpretation; whether the
-<div n="lb">Tib. terms must necessarily be so understood I do not
-<div n="lb">venture to say. Without aniryūha the word occurs Gv
-<div n="lb">17.13 anāyūha-sarvajñatā-bhūmi-gagana-vīryāḥ (of Bo-
-<div n="lb">dhisattvas); anāyūhān 25.19 (id.), {%effortless, unstriving%} (in
-<div n="lb">complimentary sense, like {@anābhoga@}; substantially {%un-%}
-<div n="lb">{%participating, impassive%}); anāyūhaviyūho (read with 2d ed.
-<div n="lb">°viyūha-, cpd. with next, if not niryūha-)-gatir bodhi-
-<div n="lb">sattvānāṃ kāyacittāsaṃpravaṇatayā (see {@asaṃpravaṇa@})
-<div n="lb">525.11, {%the course of B.'s is free from effort and striving,%}
-<div n="lb">{%because they are not interested in%} (their own) {%bodies or%}
-<div n="lb">{%minds%}; anāyūhāniryūha- LV 423.4 (-cakram); °ham ani-
-<div n="lb">ryūham (dharmacakram) LV 436.13; apratiṣṭhānāyūhāni-
-<div n="lb">ryūha(ḥ) LV 424.7--8 (tathāgataḥ); anāyūhāniryūhāḥ
-<div n="lb">(sarvadharmāḥ) Laṅk 115.11--12; °hāniryūha-tā (sc. sarva-
-<div n="lb">dharmāṇām) ŚsP 283.3 (text by error °niyūhatā).
+{%less; free from exertion or striving%}; usually cpd. with {@a-@}
+{@niryūha@}, {%without abandonment, riddance, giving up%}; the
+two terms together seem clearly to be opposites, and to
+mean about the same as a-pravṛtti, a-nivṛtti, {%without%}
+{%activity or abstention from it%} (so Suzuki, ‘neither taking
+birth nor…going out’, on Laṅk 115.11--12; 196.3).
+However, Tib. (e.g. on LV 423.4 and on Laṅk) renders
+an-āyūha by blaṅ ba med pa, or the like, and aniryūha
+by dor ba med pa, which seem most naturally to mean
+{%without%} (intellectual) {%acceptance%} or {%rejection%} respectively;
+La Vallée Poussin, note on MadhK 517.20, see {@āvyūhati@},
+gives his Tib. versions as mi len and mi ḥdor (which are
+equivalent to the above), and equates ā(v)yūha and
+nir(v)yūha with Skt. samāropa and apavāda. I find no
+support in BHS texts for this interpretation; whether the
+Tib. terms must necessarily be so understood I do not
+venture to say. Without aniryūha the word occurs Gv
+17.13 anāyūha-sarvajñatā-bhūmi-gagana-vīryāḥ (of Bo-
+dhisattvas); anāyūhān 25.19 (id.), {%effortless, unstriving%} (in
+complimentary sense, like {@anābhoga@}; substantially {%un-%}
+{%participating, impassive%}); anāyūhaviyūho (read with 2d ed.
+°viyūha-, cpd. with next, if not niryūha-)-gatir bodhi-
+sattvānāṃ kāyacittāsaṃpravaṇatayā (see {@asaṃpravaṇa@})
+525.11, {%the course of B.'s is free from effort and striving,%}
+{%because they are not interested in%} (their own) {%bodies or%}
+{%minds%}; anāyūhāniryūha- LV 423.4 (-cakram); °ham ani-
+ryūham (dharmacakram) LV 436.13; apratiṣṭhānāyūhāni-
+ryūha(ḥ) LV 424.7--8 (tathāgataḥ); anāyūhāniryūhāḥ
+(sarvadharmāḥ) Laṅk 115.11--12; °hāniryūha-tā (sc. sarva-
+dharmāṇām) ŚsP 283.3 (text by error °niyūhatā).
 <LEND>

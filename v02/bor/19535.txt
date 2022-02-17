@@ -1,11 +1,11 @@
 <L>19535<pc>607<k1>ruin<k2>ruin
-<div n="lb"/>{@RUIN@}¦ (subs.): <div n="I">I Destruction: q. v.: </div><div n="1">(1) {#नाशः, #}
-<div n="lb"/>{# वि-, प्र-,#} <div n="xe">{%not going to r.:%}</div> <div n="xs">{#अविनाशिन्#}</div> (f. {#नी#}), M.
-<div n="lb"/>n.; </div><div n="1">(2) {#ध्वंसः, वि-, प्र-,#} {%my heart would go to r.:%}
-<div n="lb"/>{#ध्वंसेत मे हृदयम्,#} Ki. xi. 57.: v. Defeat, over-
-<div n="lb"/>-throw. Ph.: {%in r. s:%} </div><div n="1">(1) {#जीर्ण#} (f. {#र्णा#}), <div n="xe">{%a%}
-<div n="lb"/>{%garden in r. s:%}</div> <div n="xs">{#जीर्णोद्यानम्,#}</div> Mu. ii.; </div><div n="1">(2) {#विशीर्ण#}
-<div n="lb"/>(f. {#र्णा#}), <div n="xe">{%with hundreds of buildings almost in%}
-<div n="lb"/>{%r. s:%}</div> <div n="xs">{#विशीर्णकल्पाट्टशत#}</div> (f. {#ता#}), R. xvi. 11. </div><div n="I">II
-<div n="lb"/>Defilement: q. v.: {#नाशः।#}</div>
+{@RUIN@}¦ (subs.): <div n="I">I Destruction: q. v.: </div><div n="1">(1) {#नाशः, #}
+{# वि-, प्र-,#} <div n="xe">{%not going to r.:%}</div> <div n="xs">{#अविनाशिन्#}</div> (f. {#नी#}), M.
+n.; </div><div n="1">(2) {#ध्वंसः, वि-, प्र-,#} {%my heart would go to r.:%}
+{#ध्वंसेत मे हृदयम्,#} Ki. xi. 57.: v. Defeat, over-
+-throw. Ph.: {%in r. s:%} </div><div n="1">(1) {#जीर्ण#} (f. {#र्णा#}), <div n="xe">{%a%}
+{%garden in r. s:%}</div> <div n="xs">{#जीर्णोद्यानम्,#}</div> Mu. ii.; </div><div n="1">(2) {#विशीर्ण#}
+(f. {#र्णा#}), <div n="xe">{%with hundreds of buildings almost in%}
+{%r. s:%}</div> <div n="xs">{#विशीर्णकल्पाट्टशत#}</div> (f. {#ता#}), R. xvi. 11. </div><div n="I">II
+Defilement: q. v.: {#नाशः।#}</div>
 <LEND>

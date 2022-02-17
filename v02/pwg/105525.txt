@@ -8,12 +8,12 @@ m. <ls>Schol.</ls> zu <ls>P. 2, 4, 56. 3, 3, 69. 7, 3, 60.</ls> <ls>VOP. 26, 170
 <ls>ĀPAST. 1, 32, 19. fg.</ls> 
 <ls>M. 9, 264.</ls> 
 <ls>YĀJÑ. 1, 84.</ls> 
-<ls>MBH. 1, 5321. 5698. 6972. fg. 4, 34. 7, 5445. 12, 2606.</ls> 
+<ls>MBH. 1, 5321.</ls> <ls n="MBH. 1,">5698.</ls> <ls n="MBH. 1,">6972. fg.</ls> <ls n="MBH.">4, 34.</ls> <ls n="MBH.">7, 5445.</ls> <ls n="MBH.">12, 2606.</ls> 
 <ls>R. 1, 5, 14 (16 GORR.). 2, 57, 13.</ls> <ls>R. GORR. 2, 48, 21. 94, 21. 3, 42, 47.</ls> <ls>Spr. (II) 3626.</ls> <ls>CARAKA 2, 6.</ls> <ls>KĀM. NĪTIS. 7, 40.</ls> <ls>BHĀG. P. 10, 44, 9.</ls> <ls>PAÑCAT. 158, 7.</ls> {#ब्रह्मणः, पशुपतेः#} {%bei%} 
 <ls>MBH. 4, 339.</ls> {#राज्ञाम्#} {%von%} 
 <ls>R. 1, 4, 24. 5, 27, 19.</ls> 
-<ls>HARIV. 2912. 4434.</ls> 
-<ls>Spr. (II) 7352.</ls> <ls>Verz. d. Oxf. H. 79</ls>, {%b%}, 
+<ls>HARIV. 2912.</ls> <ls n="HARIV.">4434.</ls> 
+<ls>Spr. (II) 7352.</ls> <ls>Verz. d. Oxf. H. 79,b,</ls> 
 <ls>No. 136, Z. 10.</ls> <ls>BHĀG. P. 4, 21, 13.</ls> {#क्षितिप°#} 
 <ls>RAGH. 5, 76.</ls> {#सुर°#} 
 <ls>9, 18.</ls> {#जन°#} 
@@ -23,7 +23,7 @@ m. <ls>Schol.</ls> zu <ls>P. 2, 4, 56. 3, 3, 69. 7, 3, 60.</ls> <ls>VOP. 26, 170
 <ls>KATHĀS. 50, 113.</ls> {#समाजं कर्#} {%eine Versammlung veranstalten%} 
 <ls>HARIV. 8189.</ls> <ls>Verz. d. Oxf. H.9,b,2.</ls> {#°मञ्चवाटाः#} (so die neuere Ausg.) 
 <ls>HARIV. 4537.</ls> {#°वाट#} 
-<ls>4538.</ls> <ls>MBH. 1, 6960.</ls> 
+<ls n="HARIV.">4538.</ls> <ls>MBH. 1, 6960.</ls> 
 <div n="1">— 2) {%das Zusammentreffen mit Jmd%} (gen. oder im comp. vorangehend) 
 <ls>BHĀG. P. 10, 60, 38.</ls> 
 <ls>VARĀH. BṚH. S. 87, 17. 104, 34.</ls> 

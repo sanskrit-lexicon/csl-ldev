@@ -1,3 +1,3 @@
 <L>21409<pc>674<k1>statutory<k2>statutory
-<div n="lb"/>{@STATUTORY:@}¦ <div n="xe">{%s. provision:%}</div> <div n="xs">{#व्यवस्थाविधिः।#}</div>
+{@STATUTORY:@}¦ <div n="xe">{%s. provision:%}</div> <div n="xs">{#व्यवस्थाविधिः।#}</div>
 <LEND>

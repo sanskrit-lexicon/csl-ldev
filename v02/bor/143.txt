@@ -1,8 +1,8 @@
 <L>143<pc>006<k1>accompanied by<k2>accompanied by
-<div n="lb"/>{@ACCOMPANIED BY:@}¦ Often expr. by any comp.
-<div n="lb"/>with {#स-:#} <div n="xe">{%as if a. by attendants%}</div> <div n="xs">{#ससचिव इव,#}</div> Ki.
-<div n="lb"/>x. 14. N. B. Note the fol. exx. {%a. by Sachi%}
-<div n="lb"/>{#शचीसखः,#} R. viii. 32; <div n="xe">{%a. by Rati%}</div> <div n="xs">{#रतिद्धितीयः#}</div>
-<div n="lb"/>Ku. iii. 35; <div n="xe">{%a. by his mistress%}</div> <div n="xs">{#गृहिणीसहायः#}</div>
-<div n="lb"/>R. ii. 24.
+{@ACCOMPANIED BY:@}¦ Often expr. by any comp.
+with {#स-:#} <div n="xe">{%as if a. by attendants%}</div> <div n="xs">{#ससचिव इव,#}</div> Ki.
+x. 14. N. B. Note the fol. exx. {%a. by Sachi%}
+{#शचीसखः,#} R. viii. 32; <div n="xe">{%a. by Rati%}</div> <div n="xs">{#रतिद्धितीयः#}</div>
+Ku. iii. 35; <div n="xe">{%a. by his mistress%}</div> <div n="xs">{#गृहिणीसहायः#}</div>
+R. ii. 24.
 <LEND>

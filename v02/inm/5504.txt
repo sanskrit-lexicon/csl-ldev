@@ -1,13 +1,13 @@
 <L>5504<pc>398-2<k1>कौबेर<k2>कौबेर
-{@Kaubera,@}¦ adj. (“relating to or belonging to Kubera”).
-<div n="lb">§ 305 (Anudyūtap.): II, {@78,@} 2578 {%(visarge).%}—§ 334
-<div n="lb">(Kairātap.): III, {@41,@} 1705 ({%astraṃ,%} obtained by Arjuna).—
-<div n="lb">§ 552 (Goharaṇap.): V, {@64,@} 2058 ({%°ṃ,%} sc. {%astraṃ%}).—§ 572
-<div n="lb">(Rathātirathasaṅkhyānap.): V, {@169,@} 5870 ({%astragrāmaḥ,%}
-<div n="lb">sc. Arjuna's).—§ 615{%u%} (Skanda): IX, {@46<lang n="greek"></lang>,@} 2654 ({%°yaḥ,%}
-<div n="lb">sc. {%mātaraḥ%}).—§ 615{%x%} (Kubera): IX, {@47,@} 2752 {%(tīrthaṃ),%}
-<div n="lb">2755 {%(kānanottame).%}—§ 731{%b%} (Aṣṭāvakra-Diksaṃv.): XIII,
-<div n="lb">{@19,@} 1421 {%(°ā Yakṣa-Gandharva-Kinnarāḥ).%}—§ 746 (Ānuśā-
-<div n="lb">sanik.): XIII, {@79<lang n="greek"></lang>,@} 3773 {%(lokaṃ).%}—§ 789 (Putradarśanap.):
-<div n="lb">XV, {@33<lang n="greek"></lang>,@} 903 (do.).
+{@Kaubera@},¦ adj. (“relating to or belonging to Kubera”).
+§ 305 (Anudyūtap.): II, {@78@}, 2578 ({%visarge%}).—§ 334
+(Kairātap.): III, {@41@}, 1705 ({%astraṃ%}, obtained by Arjuna).—
+§ 552 (Goharaṇap.): V, {@64@}, 2058 ({%°ṃ%}, sc. {%astraṃ%}).—§ 572
+(Rathātirathasaṅkhyānap.): V, {@169@}, 5870 ({%astragrāmaḥ%},
+sc. Arjuna's).—§ 615{%u%} (Skanda): IX, {@46@}<lang n="greek">ι</lang>, 2654 ({%°yaḥ%},
+sc. {%mātaraḥ%}).—§ 615{%x%} (Kubera): IX, {@47@}, 2752 ({%tīrthaṃ%}),
+2755 ({%kānanottame%}).—§ 731{%b%} (Aṣṭāvakra-Diksaṃv.): XIII,
+{@19@}, 1421 ({%°ā Yakṣa-Gandharva-Kinnarāḥ%}).—§ 746 (Ānuśā-
+sanik.): XIII, {@79@}<lang n="greek">κ</lang>, 3773 ({%lokaṃ%}).—§ 789 (Putradarśanap.):
+XV, {@33@}<lang n="greek">κ</lang>, 903 (do.).
 <LEND>

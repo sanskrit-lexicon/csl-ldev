@@ -1,6 +1,6 @@
 <L>18318<pc>562<k1>quadrant<k2>quadrant
-<div n="lb"/>{@QUADRANT:@}¦ <div n="I">I A quarter: q. v.: {#पादः।#} </div><div n="I">II
-<div n="lb"/>Of a circle: </div><div n="1">(1) {#वृत्तपादः;#} </div><div n="1">(2) {#पदम्#} (rare),
-<div n="lb"/>Su. ii. 30. </div><div n="I">III An instrument: {#वृत्तपाद-#}
-<div n="lb"/>{#यन्त्रम्।#}</div>
+{@QUADRANT:@}¦ <div n="I">I A quarter: q. v.: {#पादः।#} </div><div n="I">II
+Of a circle: </div><div n="1">(1) {#वृत्तपादः;#} </div><div n="1">(2) {#पदम्#} (rare),
+Su. ii. 30. </div><div n="I">III An instrument: {#वृत्तपाद-#}
+{#यन्त्रम्।#}</div>
 <LEND>

@@ -1,9 +1,9 @@
 <L>3265<pc>108<k1>causeless<k2>causeless
-<div n="lb"/>{@CAUSELESS:@}¦ <div n="I">I Uncaused: </div><div n="1">(1) expr.
-<div n="lb"/>circumlo., <div n="xe">{%you are c.%}</div> <div n="xs">{#न ते किञ्चित् कारणम#}</div>
-<div n="lb"/>M. n.; </div><div n="1">(2) {#अकारणः#} (f. {#णा#}) (rare), M.</div>
-<div n="lb"/><div n="1">(3) {#अयोनि#} (mfn.), <div n="xe">{%you are the cause of%}
-<div n="lb"/>{%world, but yourself c.%}</div> <div n="xs">{#जगद्योनिरयोनिस्त्वम्,#}</div> </div><div n="I">I [Page109]
-<div n="lb"/>ii. 9. </div><div n="I">II Groundless: q. v.: {#निष्कारणः#}
-<div n="lb"/>({#णा, णं#}).</div>
+{@CAUSELESS:@}¦ <div n="I">I Uncaused: </div><div n="1">(1) expr.
+circumlo., <div n="xe">{%you are c.%}</div> <div n="xs">{#न ते किञ्चित् कारणम#}</div>
+M. n.; </div><div n="1">(2) {#अकारणः#} (f. {#णा#}) (rare), M.</div>
+<div n="1">(3) {#अयोनि#} (mfn.), <div n="xe">{%you are the cause of%}
+{%world, but yourself c.%}</div> <div n="xs">{#जगद्योनिरयोनिस्त्वम्,#}</div> </div><div n="I">I [Page109]
+ii. 9. </div><div n="I">II Groundless: q. v.: {#निष्कारणः#}
+({#णा, णं#}).</div>
 <LEND>

@@ -1,8 +1,8 @@
 <L>18665<pc>575<k1>rear<k2>rear
-<div n="lb"/>{@REAR@}¦ (v.): <div n="I">I To bring up, nourish: q. v.:
-<div n="lb"/>{#वर्धयति#} (c. of {#वृध्#}). </div><div n="I">II To raise, lift up:
-<div n="lb"/>q. v.: {#उत्थापयति#} (c. of {#स्था#}). </div><div n="I">III To rise on
-<div n="lb"/>hind legs: {%shall strike on the eyes when%} ({%a%}
-<div n="lb"/>{%horse%}) <div n="xe">{%r. s.:%}</div> <div n="xs">{#हन्यान्नेत्रमार्गे दुरुत्थितम्,#}</div> M. n. on Si. v.
-<div n="lb"/>10.; <div n="xe">{%r. ing;%}</div> <div n="xs">{#पुरुष कम्,#}</div> Williams.</div>
+{@REAR@}¦ (v.): <div n="I">I To bring up, nourish: q. v.:
+{#वर्धयति#} (c. of {#वृध्#}). </div><div n="I">II To raise, lift up:
+q. v.: {#उत्थापयति#} (c. of {#स्था#}). </div><div n="I">III To rise on
+hind legs: {%shall strike on the eyes when%} ({%a%}
+{%horse%}) <div n="xe">{%r. s.:%}</div> <div n="xs">{#हन्यान्नेत्रमार्गे दुरुत्थितम्,#}</div> M. n. on Si. v.
+10.; <div n="xe">{%r. ing;%}</div> <div n="xs">{#पुरुष कम्,#}</div> Williams.</div>
 <LEND>

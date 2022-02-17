@@ -1,3 +1,3 @@
 <L>18833<pc>581<k1>refraction<k2>refraction
-<div n="lb"/>{@REFRACTION:@}¦ perh. {#परावर्तः#} <div n="xe">{%or%}</div> <div n="xs">{#परावृत्तिः।#}</div>
+{@REFRACTION:@}¦ perh. {#परावर्तः#} <div n="xe">{%or%}</div> <div n="xs">{#परावृत्तिः।#}</div>
 <LEND>

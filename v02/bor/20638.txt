@@ -1,6 +1,6 @@
 <L>20638<pc>647<k1>sixty<k2>sixty
-<div n="lb"/>{@SIXTY:@}¦ {#षष्टिः,#} <div n="xe">{%of s. -two and half:%}</div> <div n="xs">{#सार्धद्विषष्टेः,#}</div>
-<div n="lb"/>Li.; <div n="xe">{%s. -first:%}</div> <div n="xs">{#एकषष्टितमः#}</div> ({#मी, मं#}) <div n="xe">{%or, rarely%}</div> <div n="xs">{#एक-#}
-<div n="lb"/>{#षष्ट#}</div> (f. {#ष्टी#}), S. k.; <div n="xe">{%s.-nine:%}</div> <div n="xs">{#ऊनसप्ततिः, एकोन-#}
-<div n="lb"/>{#सप्ततिः,#}</div> {%or%} rarely {#नवषष्टिः, एकान्नसप्ततिः।#}
+{@SIXTY:@}¦ {#षष्टिः,#} <div n="xe">{%of s. -two and half:%}</div> <div n="xs">{#सार्धद्विषष्टेः,#}</div>
+Li.; <div n="xe">{%s. -first:%}</div> <div n="xs">{#एकषष्टितमः#}</div> ({#मी, मं#}) <div n="xe">{%or, rarely%}</div> <div n="xs">{#एक-#}
+{#षष्ट#}</div> (f. {#ष्टी#}), S. k.; <div n="xe">{%s.-nine:%}</div> <div n="xs">{#ऊनसप्ततिः, एकोन-#}
+{#सप्ततिः,#}</div> {%or%} rarely {#नवषष्टिः, एकान्नसप्ततिः।#}
 <LEND>

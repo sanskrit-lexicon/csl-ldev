@@ -1,11 +1,11 @@
 <L>20433<pc>639<k1>should<k2>should
-<div n="lb"/>{@SHOULD:@}¦ <div n="I">I Denoting obligation: by the
-<div n="lb"/>{#कृत्य#} (G. § 366-9.): (you) {%s. look at%} ({%her%}) <div n="xe">{%as%}
-<div n="lb"/>{%a pupil:%}</div> <div n="xs">{#शिष्येव द्रष्टव्या,#}</div> <ls>K.</ls> </div><div n="I">II. In the condi-
-<div n="lb"/>-tional: by {#विधिलिङ्#} (§ 347: {%s. have%} will be
-<div n="lb"/>expressed by {#ऌङ्,#} § 345), <div n="xe">{%even if I s. give up%}
-<div n="lb"/>{%what I have stolen all my life:%}</div> <div n="xs">{#यद्यपि दद्यामाजन्मनो #}
-<div n="lb"/>{# मुषितं धनम्,#}</div> D. ii. </div><div n="I">III As a softened form of
-<div n="lb"/>expression: by {#लट्#} <div n="xe">{%in the Atmanepada, if%}
-<div n="lb"/>{%possible, I s. think:%}</div> <div n="xs">{#मन्ये,#}</div> Sa.</div>
+{@SHOULD:@}¦ <div n="I">I Denoting obligation: by the
+{#कृत्य#} (G. § 366-9.): (you) {%s. look at%} ({%her%}) <div n="xe">{%as%}
+{%a pupil:%}</div> <div n="xs">{#शिष्येव द्रष्टव्या,#}</div> <ls>K.</ls> </div><div n="I">II. In the condi-
+-tional: by {#विधिलिङ्#} (§ 347: {%s. have%} will be
+expressed by {#ऌङ्,#} § 345), <div n="xe">{%even if I s. give up%}
+{%what I have stolen all my life:%}</div> <div n="xs">{#यद्यपि दद्यामाजन्मनो #}
+{# मुषितं धनम्,#}</div> D. ii. </div><div n="I">III As a softened form of
+expression: by {#लट्#} <div n="xe">{%in the Atmanepada, if%}
+{%possible, I s. think:%}</div> <div n="xs">{#मन्ये,#}</div> Sa.</div>
 <LEND>

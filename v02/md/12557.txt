@@ -1,10 +1,10 @@
 <L>12557<pc>188-3<k1>प्रेष्य<k2>प्रेष्य
 {#प्रेष्य#}¦pra‡iṣya, {%fp.%} to be sent {%or%} despatched; 
-<>{%m.%} servant, menial; {%n.%} servitude; behest, 
-<>command: {@-kara,@} {%a.%} performing the behests 
-<>of ({%g.%}); {@-jana@}, {%m.%} domestics, household; servant; <lbinfo n="3"/>
-<> {@-tā,@} {%f.%} {@-tva,@} {%n.%} servitude, bondage to 
-<>(-°); {@-bhāva,@} {%m.%} condition of a servant, servitude, <lbinfo n="3"/>
-<> bondage; {@-vadhū,@} {%f.%} handmaid; {@-var-@}
-<>{@-ga,@} {%m.%} body of servants, retinue.
+{%m.%} servant, menial; {%n.%} servitude; behest, 
+command: {@-kara,@} {%a.%} performing the behests 
+of ({%g.%}); {@-jana@}, {%m.%} domestics, household; servant; <lbinfo n="3"/>
+ {@-tā,@} {%f.%} {@-tva,@} {%n.%} servitude, bondage to 
+(-°); {@-bhāva,@} {%m.%} condition of a servant, servitude, <lbinfo n="3"/>
+ bondage; {@-vadhū,@} {%f.%} handmaid; {@-var-@}
+{@-ga,@} {%m.%} body of servants, retinue.
 <LEND>

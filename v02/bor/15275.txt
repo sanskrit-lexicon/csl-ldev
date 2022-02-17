@@ -1,5 +1,5 @@
 <L>15275<pc>467<k1>naval<k2>naval
-<div n="lb"/>{@NAVAL:@}¦ <div n="1">(1) {#समुद्र-#} in comp., <div n="xe">{%n. fight:%}</div> <div n="xs">{#*समुद्र-#}
-<div n="lb"/>{#युद्धम्;#}</div> </div><div n="1">(2) {#सामुद्रिकः#} ({#की, कं#}): v. Also D. vi.,
-<div n="lb"/>R. iv. 36.</div>
+{@NAVAL:@}¦ <div n="1">(1) {#समुद्र-#} in comp., <div n="xe">{%n. fight:%}</div> <div n="xs">{#*समुद्र-#}
+{#युद्धम्;#}</div> </div><div n="1">(2) {#सामुद्रिकः#} ({#की, कं#}): v. Also D. vi.,
+R. iv. 36.</div>
 <LEND>

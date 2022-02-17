@@ -3,7 +3,7 @@
 [Page4-0971]
 {%—, gewachsener Gegner%} 
 <ls>SUND. 4, 3.</ls> 
-<ls>MBH. 1, 3290. 6083. 4, 1297. 6, 4251. 7, 4260. 9245. 9, 353.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 1, 23, 4. 21. 5, 58, 12.</ls>
+<ls>MBH. 1, 3290.</ls> <ls n="MBH. 1,">6083.</ls> <ls n="MBH.">4, 1297.</ls> <ls n="MBH.">6, 4251.</ls> <ls n="MBH.">7, 4260.</ls> <ls n="MBH. 7,">9245.</ls> <ls n="MBH.">9, 353.</ls> 
+
+<ls>R. GORR. 1, 23, 4. 21. 5, 58, 12.</ls>
 <LEND>

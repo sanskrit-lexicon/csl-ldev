@@ -1,19 +1,17 @@
 <L>92231<pc>478,2<k1>दिव्<k2>दि/व्<h>3<e>2
 <hom>3.</hom> <s>दि/व्</s> ¦, <s>द्यु/</s> (<ab>nom.</ab> <s>द्यौ/स्</s>;
-<ab>voc.</ab> <s>द्यौस्</s> [<ls>RV. vi, 51, 5</ls>;
-<ls>AV. vi, 4, 3</ls>];
+<ab>voc.</ab> <s>द्यौस्</s> [<ls>RV. vi, 51, 5</ls>; <ls>AV. vi, 4, 3</ls>];
 <ab>acc.</ab> <s>द्या/म्</s>, <s>दि/वम्</s>;
 <ab>instr.</ab> <s>दिवा/</s> or <s>दी/वा</s> [see below];
 <ab>dat.</ab> <s>दिवे</s> [<s>द्यवे</s>, <ls>MBh. i, 3934</ls>];
-<ab>abl.</ab> <ab>gen.</ab> <s>दिव/स्</s> [rarely <s>द्यो/स्</s> <ab>e.g.</ab> <ls>RV. iv, 27, 3;
-i, 115, 5</ls>] <pb n="478,3"/>;
+<ab>abl.</ab> <ab>gen.</ab> <s>दिव/स्</s> [rarely <s>द्यो/स्</s> <ab>e.g.</ab> <ls>RV. iv, 27, 3; i, 115, 5</ls>]
+<pb n="478,3"/>;
 <ab>loc.</ab> <s>दिवि/</s>, <s>द्य/वि</s>;
 <ab>du.</ab> <s>द्यावा</s> <ab>s.v.</ab> [<s>द्य/वी</s> as <ab>voc.</ab> only, <ls>iv, 56, 5</ls>];
 <ab>pl.</ab> <ab>nom.</ab> <s>द्या/वस्</s> [<s>दिवस्</s> only, <ls>ix, 118, 11</ls>];
-<ab>acc.</ab> <s>द्यू/न्</s> [rare, <s>दि/वस्</s>, <s>दिव/स्</s> <ab>e.g.</ab> <ls>i, 194, 2;
-iv, 3, 8</ls>];
+<ab>acc.</ab> <s>द्यू/न्</s> [rare, <s>दि/वस्</s>, <s>दिव/स्</s> <ab>e.g.</ab> <ls>i, 194, 2; iv, 3, 8</ls>];
 <ab>instr.</ab> <s>द्यु/भिस्</s>;
 native grammarians give as stems <s>दिव्</s> and <s>द्यो</s>;
-the latter is declined through all cases like <s>गो</s>, but really does not occur except in forms mentioned above and in <s>द्यो-सलिल</s>, <ls>MBh. viii, 4658</ls>, while <s>दिव्</s> and <s>द्यु</s> regularly alternate before <ab>vow.</ab> and <ab>cons.</ab>) <lex>m.</lex> (rarely <lex>f.</lex>) in <ab>Ved.</ab>, <lex>f.</lex> in later Skr. heaven, the sky (regarded in <ab>Ved.</ab> as rising in three tiers [<s>अवम</s>, <s>मध्यम</s>, <s>उत्तम</s> or <s>तृतीय</s>, <ls>RV. v, 60, 6</ls> &c.], and generally as the father (<s>द्यौ/ष् पिता/</s>, while the earth is the mother [<ab>cf.</ab> <s>द्यावा-पृथिवी</s>], and <s1 slp1="uzas">Uṣas</s1> the daughter), rarely as a goddess, daughter of <s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>AitBr. iii, 33</ls>;
+the latter is declined through all cases like <s>गो</s>, but really does not occur except in forms mentioned above and in <s>द्यो-सलिल</s>, <ls>MBh. viii, 4658</ls>, while <s>दिव्</s> and <s>द्यु</s> regularly alternate before <ab>vow.</ab> and <ab>cons.</ab>) <lex>m.</lex> (rarely <lex>f.</lex>) in <ab>Ved.</ab>, <lex>f.</lex> in later <ab>Skr.</ab> heaven, the sky (regarded in <ab>Ved.</ab> as rising in three tiers [<s>अवम</s>, <s>मध्यम</s>, <s>उत्तम</s> or <s>तृतीय</s>, <ls>RV. v, 60, 6</ls> &c.], and generally as the father (<s>द्यौ/ष् पिता/</s>, while the earth is the mother [<ab>cf.</ab> <s>द्यावा-पृथिवी</s>], and <s1 slp1="uzas">Uṣas</s1> the daughter), rarely as a goddess, daughter of <s1 slp1="prajA-pati">Prajā-pati</s1>, <ls>AitBr. iii, 33</ls>;
 <ls>ŚBr. i, 7, 4,</ls>)<info lex="m:f"/>
 <LEND>

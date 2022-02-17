@@ -1,29 +1,29 @@
 <L>19805<pc>615<k1>say<k2>say
-<div n="lb"/>{@SAY:@}¦ <div n="1">(1) {#वक्ति#} ({#वच्,#} c. 2.), {%we s.%} (= reply),
-<div n="lb"/><div n="xe">{%there is omniscient God:%}</div> <div n="xs">{#उच्यते, अस्ति सर्वज्ञं ब्रह्म,#}</div>
-<div n="lb"/>S.; {%in the first chapter, we have said%} (= shewn)
-<div n="lb"/><div n="xe">{%that God is the cause of the whole world:%}</div> <div n="xs">{#प्रथमे #}
-<div n="lb"/>{# पादे समस्तस्य जगतः कारणं ब्रह्मेत्युक्तम्,#}</div> S.; </div><div n="1">(2)
-<div n="lb"/>{#ब्रवीति#} <div n="xe">{%or%}</div> <div n="xs">{#ब्रूते#}</div> ({#ब्रू,#} c. 2.), <div n="xe">{%you better s. whether%}
-<div n="lb"/>{%you can call him a man:%}</div> <div n="xs">{#पुरुषोक्तिः कथं तस्मिन् #}
-<div n="lb"/>{# ब्रूहि,#}</div> Ki. xi. 71.; {%they s.%} (= it is said): {#आहुः,#}
-<div n="lb"/>M. ix. 84.; </div><div n="1">(3) {#वदति#} ({#वद्,#} c. 1.), {%s. what%} [Page616]
-<div n="lb"/><div n="xe">{%has not been taken away:%}</div> <div n="xs">{#वद किं न मे हृतम्,#}</div> R.
-<div n="lb"/>viii. 67.; <div n="xe">{%I do not say anything to you:%}</div> <div n="xs">{#त्वां न #}
-<div n="lb"/>{# किञ्चिद्वदामि,#}</div> N. iii. 134.; </div><div n="1">(4) {#गदति, नि-,#} ({#गद्,#}
-<div n="lb"/>c. 1.), {%said again to the fine-toothed%} ({%lady%}):
-<div n="lb"/>{#भूयः सुदतीं जगाद,#} R. vi. 37.; </div><div n="1">(5) {#भाषते#} ({#भाष्,#}
-<div n="lb"/>c. 1.), <div n="xe">{%again said fearlessly to Indra:%}</div> <div n="xs">{#पुनर्बभाषेऽप-#}
-<div n="lb"/>{#भयः पुरन्दरम्,#}</div> R. iii. 51.; </div><div n="1">(6) {#भणति#} ({#भण्,#} c.
-<div n="lb"/>1.), <div n="xe">{%the daughter of Bhīma said pleased but at%}
-<div n="lb"/>{%the same time ashamed;%}</div> <div n="xs">{#ह्रीणा च हृष्टा च बभाण #}
-<div n="lb"/>{# भैमी,#}</div> N. iii. 67.; </div><div n="1">(7) {#कथयति#} ({#कथ्,#} c. 10.
-<div n="lb"/>= to tell), <div n="xe">{%s. what for:%}</div> <div n="xs">{#कथय कस्मिन्निमित्ते,#}</div> Mu.
-<div n="lb"/>i.; </div><div n="1">(8) {#आचष्टे#} ({#चक्ष्,#} c. 1. = 7.), <div n="xe">{%who s. you%}
-<div n="lb"/>{%are:%}</div> <div n="xs">{#का त्वमाचक्ष,#}</div> R. xvi. 8.; </div><div n="1">(9) {#शंसति, आ-,#}
-<div n="lb"/>({#शंस्,#} c. 1. = 7.), <div n="xe">{%swan, say what she told%}
-<div n="lb"/>{%me:%}</div> <div n="xs">{#किं मामाह सा शंस हंस,#}</div> N. ii. 134.; </div><div n="1">(10)
-<div n="lb"/>{#अभिदधाति#} <div n="xe">{%or%}</div> <div n="xs">{#-धत्ते#}</div> ({#धा,#} c. 3.: prop. = to
-<div n="lb"/>address), <div n="xe">{%s. what I shall do for you:%}</div> <div n="xs">{#तवेप्सितं #}
-<div n="lb"/>{# किं विदधेऽभिधेहि,#}</div> N. iii. 52.</div>
+{@SAY:@}¦ <div n="1">(1) {#वक्ति#} ({#वच्,#} c. 2.), {%we s.%} (= reply),
+<div n="xe">{%there is omniscient God:%}</div> <div n="xs">{#उच्यते, अस्ति सर्वज्ञं ब्रह्म,#}</div>
+S.; {%in the first chapter, we have said%} (= shewn)
+<div n="xe">{%that God is the cause of the whole world:%}</div> <div n="xs">{#प्रथमे #}
+{# पादे समस्तस्य जगतः कारणं ब्रह्मेत्युक्तम्,#}</div> S.; </div><div n="1">(2)
+{#ब्रवीति#} <div n="xe">{%or%}</div> <div n="xs">{#ब्रूते#}</div> ({#ब्रू,#} c. 2.), <div n="xe">{%you better s. whether%}
+{%you can call him a man:%}</div> <div n="xs">{#पुरुषोक्तिः कथं तस्मिन् #}
+{# ब्रूहि,#}</div> Ki. xi. 71.; {%they s.%} (= it is said): {#आहुः,#}
+M. ix. 84.; </div><div n="1">(3) {#वदति#} ({#वद्,#} c. 1.), {%s. what%} [Page616]
+<div n="xe">{%has not been taken away:%}</div> <div n="xs">{#वद किं न मे हृतम्,#}</div> R.
+viii. 67.; <div n="xe">{%I do not say anything to you:%}</div> <div n="xs">{#त्वां न #}
+{# किञ्चिद्वदामि,#}</div> N. iii. 134.; </div><div n="1">(4) {#गदति, नि-,#} ({#गद्,#}
+c. 1.), {%said again to the fine-toothed%} ({%lady%}):
+{#भूयः सुदतीं जगाद,#} R. vi. 37.; </div><div n="1">(5) {#भाषते#} ({#भाष्,#}
+c. 1.), <div n="xe">{%again said fearlessly to Indra:%}</div> <div n="xs">{#पुनर्बभाषेऽप-#}
+{#भयः पुरन्दरम्,#}</div> R. iii. 51.; </div><div n="1">(6) {#भणति#} ({#भण्,#} c.
+1.), <div n="xe">{%the daughter of Bhīma said pleased but at%}
+{%the same time ashamed;%}</div> <div n="xs">{#ह्रीणा च हृष्टा च बभाण #}
+{# भैमी,#}</div> N. iii. 67.; </div><div n="1">(7) {#कथयति#} ({#कथ्,#} c. 10.
+= to tell), <div n="xe">{%s. what for:%}</div> <div n="xs">{#कथय कस्मिन्निमित्ते,#}</div> Mu.
+i.; </div><div n="1">(8) {#आचष्टे#} ({#चक्ष्,#} c. 1. = 7.), <div n="xe">{%who s. you%}
+{%are:%}</div> <div n="xs">{#का त्वमाचक्ष,#}</div> R. xvi. 8.; </div><div n="1">(9) {#शंसति, आ-,#}
+({#शंस्,#} c. 1. = 7.), <div n="xe">{%swan, say what she told%}
+{%me:%}</div> <div n="xs">{#किं मामाह सा शंस हंस,#}</div> N. ii. 134.; </div><div n="1">(10)
+{#अभिदधाति#} <div n="xe">{%or%}</div> <div n="xs">{#-धत्ते#}</div> ({#धा,#} c. 3.: prop. = to
+address), <div n="xe">{%s. what I shall do for you:%}</div> <div n="xs">{#तवेप्सितं #}
+{# किं विदधेऽभिधेहि,#}</div> N. iii. 52.</div>
 <LEND>

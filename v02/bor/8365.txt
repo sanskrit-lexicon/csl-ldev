@@ -1,34 +1,34 @@
 <L>8365<pc>264<k1>fall<k2>fall
-<div n="lb"/>{@FALL@}¦ (v.i.): <div n="I">I In gen.: </div><div n="1">(1) {#पतति, नि-,#} (rarely
-<div n="lb"/>{#प्र-, परि-, विनि-, आ-, सं-,#}) ({#पत्,#} c. l.,) <div n="xe">{%Putanā%}
-<div n="lb"/>{%fell on the ground:%}</div> <div n="xs">{#पपात पूतना भूमौ,#}</div> v. p.; <div n="xe">{%with%}
-<div n="lb"/>{%the dress fell into the water:%}</div> <div n="xs">{#सवासाः प्रापतज्जले,#}</div>
-<div n="lb"/>Mah.; <div n="xe">{%to fall on the knees:%}</div> <div n="xs">{#जानुभ्यां#}</div> (ins.)
-<div n="lb"/>{#पतति,#} Mah.; <div n="xe">{%the glittering scimitar fell from%}
-<div n="lb"/>{%his hand:%}</div> <div n="xs">{#ज्वलन्नसिस्तस्य पपात पाणेः;#}</div> Ki. xvii. 58.;
-<div n="lb"/><div n="xe">{%rivers f. ing into the ocean:%}</div> <div n="xs">{#अभ्बुराशिं पतन्तीर्नदीः,#}</div>
-<div n="lb"/>Si. iii. 75. (This use of {#पत्#} is rare. Gen.
-<div n="lb"/>expr. by {#प्रविशति,#} M. n. <div n="xe">{%or%}</div> <div n="xs">{#उपैति,#}</div> Mah. {%or%}
-<div n="lb"/>{#प्रयाति,#} Ri., etc.); {%flower-rain fell from the sky:%}
-<div n="lb"/>{#वियतः पुष्पवर्षं पपात,#} Vi.: v. Rain; <div n="xe">{%we suddenly%}
-<div n="lb"/>{%fell on Vindhyaketu:%}</div> <div n="xs">{#अतर्किता एव विन्ध्यकेतोरुपरि #}
-<div n="lb"/>{# निपतिताः स्म,#}</div> Pri.: v. To assail, {%some rise and%} [Page265] {%%}
-<div n="lb"/>{%f.:%} {#कोऽप्युत्थितः पतति,#} Mr.: v. To decline, <div n="xe">{%the%}
-<div n="lb"/>{%refuge of the f. en:%}</div> <div n="xs">{#पतितशरण्या,#}</div> J.; <div n="xe">{%something else%}
-<div n="lb"/>{%has f. en there:%}</div> <div n="xs">{#अन्यत् किमप्यर्थान्तरं तत्र पतितम्,#}</div> Ana.
-<div n="lb"/>iv. v.: To happen; <div n="xe">{%this kingdom had f. en%}
-<div n="lb"/>{%into the hands of Vasantabhānu:%}</div> <div n="xs">{#वसन्तभानोर्हस्ते #}
-<div n="lb"/>{# राज्यमिदं पतितम्,#}</div> D.; </div><div n="1">(2) {#भ्रश्यति, -ते#} <div n="xe">{%or%}</div> <div n="xs">{#भ्रंशते, परि-,#}</div>
-<div n="lb"/>({#भ्रंश्,#} c. 4. and 1.) (gen. in fig. senses), <div n="xe">{%f.%}
-<div n="lb"/>{%en on the ground:%}</div> <div n="xs">{#उर्व्यां भ्रष्टः#}</div> ({#ष्टा, ष्टं#}), R.; <div n="xe">{%did%}
-<div n="lb"/>{%not f. from truth:%}</div> <div n="xs">{#सत्यान्नाभ्रश्यत,#}</div> R.; </div><div n="1">(3) {#च्यवते, #}
-<div n="lb"/>{# वि-, प्र-, परि-,#} ({#च्यु,#} c. 1.) (gen. fig.), <div n="xe">{%has%}
-<div n="lb"/>{%f. en from the top of the tree:%}</div> <div n="xs">{#तरुशिखरादस्मात्परि-#}
-<div n="lb"/>{#च्युतः,#}</div> K.; <div n="xe">{%f. en from the path:%}</div> <div n="xs">{#पथश्च्युतः#}</div> ({#ता, #}
-<div n="lb"/>{# तं#}), Ki. </div><div n="I">II To cease: q.v.: {#शाम्यति#} ({#शम्,#}
-<div n="lb"/>c. 4.), <div n="xe">{%when the wind fell:%}</div> <div n="xs">{#वाते शमतां गते,#}</div> Mah.</div>
-<div n="lb"/><div n="I">III To decrease: q.v.: {#ह्नासमुपैति#} ({#इ,#} c. 2.).
-<div n="lb"/>Ph.: {%to f. asleep:%} v. Asleep; {%to fall calm,%} i.e.
-<div n="lb"/>to become calm.: v. Calm; {%to f. foul:%} v. To
-<div n="lb"/>attack; <div n="xe">{%to f. short:%}</div> <div n="xs">{#न्यूनीभवतिः#}</div> v. Deficient.</div>
+{@FALL@}¦ (v.i.): <div n="I">I In gen.: </div><div n="1">(1) {#पतति, नि-,#} (rarely
+{#प्र-, परि-, विनि-, आ-, सं-,#}) ({#पत्,#} c. l.,) <div n="xe">{%Putanā%}
+{%fell on the ground:%}</div> <div n="xs">{#पपात पूतना भूमौ,#}</div> v. p.; <div n="xe">{%with%}
+{%the dress fell into the water:%}</div> <div n="xs">{#सवासाः प्रापतज्जले,#}</div>
+Mah.; <div n="xe">{%to fall on the knees:%}</div> <div n="xs">{#जानुभ्यां#}</div> (ins.)
+{#पतति,#} Mah.; <div n="xe">{%the glittering scimitar fell from%}
+{%his hand:%}</div> <div n="xs">{#ज्वलन्नसिस्तस्य पपात पाणेः;#}</div> Ki. xvii. 58.;
+<div n="xe">{%rivers f. ing into the ocean:%}</div> <div n="xs">{#अभ्बुराशिं पतन्तीर्नदीः,#}</div>
+Si. iii. 75. (This use of {#पत्#} is rare. Gen.
+expr. by {#प्रविशति,#} M. n. <div n="xe">{%or%}</div> <div n="xs">{#उपैति,#}</div> Mah. {%or%}
+{#प्रयाति,#} Ri., etc.); {%flower-rain fell from the sky:%}
+{#वियतः पुष्पवर्षं पपात,#} Vi.: v. Rain; <div n="xe">{%we suddenly%}
+{%fell on Vindhyaketu:%}</div> <div n="xs">{#अतर्किता एव विन्ध्यकेतोरुपरि #}
+{# निपतिताः स्म,#}</div> Pri.: v. To assail, {%some rise and%} [Page265] {%%}
+{%f.:%} {#कोऽप्युत्थितः पतति,#} Mr.: v. To decline, <div n="xe">{%the%}
+{%refuge of the f. en:%}</div> <div n="xs">{#पतितशरण्या,#}</div> J.; <div n="xe">{%something else%}
+{%has f. en there:%}</div> <div n="xs">{#अन्यत् किमप्यर्थान्तरं तत्र पतितम्,#}</div> Ana.
+iv. v.: To happen; <div n="xe">{%this kingdom had f. en%}
+{%into the hands of Vasantabhānu:%}</div> <div n="xs">{#वसन्तभानोर्हस्ते #}
+{# राज्यमिदं पतितम्,#}</div> D.; </div><div n="1">(2) {#भ्रश्यति, -ते#} <div n="xe">{%or%}</div> <div n="xs">{#भ्रंशते, परि-,#}</div>
+({#भ्रंश्,#} c. 4. and 1.) (gen. in fig. senses), <div n="xe">{%f.%}
+{%en on the ground:%}</div> <div n="xs">{#उर्व्यां भ्रष्टः#}</div> ({#ष्टा, ष्टं#}), R.; <div n="xe">{%did%}
+{%not f. from truth:%}</div> <div n="xs">{#सत्यान्नाभ्रश्यत,#}</div> R.; </div><div n="1">(3) {#च्यवते, #}
+{# वि-, प्र-, परि-,#} ({#च्यु,#} c. 1.) (gen. fig.), <div n="xe">{%has%}
+{%f. en from the top of the tree:%}</div> <div n="xs">{#तरुशिखरादस्मात्परि-#}
+{#च्युतः,#}</div> K.; <div n="xe">{%f. en from the path:%}</div> <div n="xs">{#पथश्च्युतः#}</div> ({#ता, #}
+{# तं#}), Ki. </div><div n="I">II To cease: q.v.: {#शाम्यति#} ({#शम्,#}
+c. 4.), <div n="xe">{%when the wind fell:%}</div> <div n="xs">{#वाते शमतां गते,#}</div> Mah.</div>
+<div n="I">III To decrease: q.v.: {#ह्नासमुपैति#} ({#इ,#} c. 2.).
+Ph.: {%to f. asleep:%} v. Asleep; {%to fall calm,%} i.e.
+to become calm.: v. Calm; {%to f. foul:%} v. To
+attack; <div n="xe">{%to f. short:%}</div> <div n="xs">{#न्यूनीभवतिः#}</div> v. Deficient.</div>
 <LEND>

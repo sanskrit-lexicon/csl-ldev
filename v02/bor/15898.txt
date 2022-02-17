@@ -1,8 +1,8 @@
 <L>15898<pc>489<k1>operate<k2>operate
-<div n="lb"/>{@OPERATE:@}¦ <div n="I">I To act, influence: </div><div n="I">II In sur-
-<div n="lb"/>-gery: </div><div n="1">(1) {#शस्त्रम् अवचारयति#} (c. of {#चर्#}), Sr.;</div>
-<div n="lb"/><div n="1">(2) {#कर्म करोति#} (when the sense is clear),
-<div n="lb"/>{#मूढगर्मोदरार्शोऽश्मरीभगन्दरमुखरोगेष्वभुक्तवतः कर्म कुर्वीत,#}
-<div n="lb"/>Sr. </div><div n="I">III In medicine: expr. with {#गुणः:#}
-<div n="lb"/>Efficacious.</div>
+{@OPERATE:@}¦ <div n="I">I To act, influence: </div><div n="I">II In sur-
+-gery: </div><div n="1">(1) {#शस्त्रम् अवचारयति#} (c. of {#चर्#}), Sr.;</div>
+<div n="1">(2) {#कर्म करोति#} (when the sense is clear),
+{#मूढगर्मोदरार्शोऽश्मरीभगन्दरमुखरोगेष्वभुक्तवतः कर्म कुर्वीत,#}
+Sr. </div><div n="I">III In medicine: expr. with {#गुणः:#}
+Efficacious.</div>
 <LEND>

@@ -1,4 +1,4 @@
 <L>2902<pc>098<k1>calculation<k2>calculation
-<div n="lb"/>{@CALCULATION:@}¦ <div n="1">(1) {#गणना;#} </div><div n="1">(2) {#निरूपणम्#} (=ascer-
-<div n="lb"/>-tainment), <div n="xe">{%c. of time%}</div> <div n="xs">{#कालनिरूपणम्,#}</div> Su.</div>
+{@CALCULATION:@}¦ <div n="1">(1) {#गणना;#} </div><div n="1">(2) {#निरूपणम्#} (=ascer-
+-tainment), <div n="xe">{%c. of time%}</div> <div n="xs">{#कालनिरूपणम्,#}</div> Su.</div>
 <LEND>

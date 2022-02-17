@@ -1,6 +1,6 @@
 <L>17510<pc>535<k1>powdery<k2>powdery
-<div n="lb"/>{@POWDERY:@}¦ <div n="I">I Dusty: q. v.: {#पांशुल#} (f. {#ला#}).</div>
-<div n="lb"/><div n="I">II Powder-like: </div><div n="1">(1) {#चूर्णाम#} (f. {#भा#});</div>
-<div n="lb"/><div n="1">(2) {#क्षोदद्युत्#} (mfn.: rare); and sim.
-<div n="lb"/>comp.s.</div>
+{@POWDERY:@}¦ <div n="I">I Dusty: q. v.: {#पांशुल#} (f. {#ला#}).</div>
+<div n="I">II Powder-like: </div><div n="1">(1) {#चूर्णाम#} (f. {#भा#});</div>
+<div n="1">(2) {#क्षोदद्युत्#} (mfn.: rare); and sim.
+comp.s.</div>
 <LEND>

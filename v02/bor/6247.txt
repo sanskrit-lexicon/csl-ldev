@@ -1,7 +1,7 @@
 <L>6247<pc>200<k1>disagree<k2>disagree
-<div n="lb"/>{@DISAGREE:@}¦ <div n="I">I Not to agree, differ: q. v.:
-<div n="lb"/>{#विसंवदति#} ({#वद्,#} c. l.). </div><div n="I">II In opinion: </div><div n="1">(1)
-<div n="lb"/>{#विप्रतिपद्यते#} ({#पद्,#} c. 4.); </div><div n="1">(2) {#विवदते#} ({#वद्,#} c. 1.)
-<div n="lb"/>(=to dispute). </div><div n="I">III To be unsuited: {#न #}
-<div n="lb"/>{# रोचयति#} (c. of {#रुच्#}) (with acc.) (?).</div>
+{@DISAGREE:@}¦ <div n="I">I Not to agree, differ: q. v.:
+{#विसंवदति#} ({#वद्,#} c. l.). </div><div n="I">II In opinion: </div><div n="1">(1)
+{#विप्रतिपद्यते#} ({#पद्,#} c. 4.); </div><div n="1">(2) {#विवदते#} ({#वद्,#} c. 1.)
+(=to dispute). </div><div n="I">III To be unsuited: {#न #}
+{# रोचयति#} (c. of {#रुच्#}) (with acc.) (?).</div>
 <LEND>

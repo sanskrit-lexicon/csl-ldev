@@ -1,23 +1,23 @@
 <L>17673<pc>310-2<k1>शस्त्रकर्मन्<k2>शस्त्रकर्मन्
 {#शस्त्रकर्मन्#}¦śastra-karman, {%n.%} surgical operation; <lbinfo n="5"/>
-<> {@-kali,@} {%m.%} duel with swords; {@-kopa,@} {%m.%} 
-<>raging of the sword {%or%} war; {@-graha,@} {%m.%} 
-<>taking to the sword, combat; {@-grāhaka,@} {%a.%} 
-<>bearing arms, armed; {@-ghāta,@} {%m.%} stroke of 
-<>the sword; {@-devatā,@} {%f.%} goddess of war ({%only %}
-<>{%pl.%}); {@-dhāraṇa@}, {%n.%} bearing of the sword; 
-<>{@-nidhana,@} {%a.%} dying by the sword; {@-nir-@}
-<>{@-yāṇa@}, {%a. id.%}; {@-nyāsa,@} {%m.%} laying down of 
-<>arms, abstention, from war; {@-pāṇi@}, {%a.%} holding <lbinfo n="4"/>
-<> a sword in {%one's%} hand; {@-pāṇin@}, {%a. id.%} 
-<>({%metr.%}); {@-pāta,@} {%m.%} cut with a knife; {@-pra-@}
-<>{@-hāra,@} {%m.%} sword-cut; {@-bhṛt@}, {%a.%} bearing arms, 
-<>armed; {%m.%} warrior; {@-vat,@} {%a.%} armed with a 
-<>sword; {@-vihita,@} {%pp.%} inflicted with a weapon; 
-<>{@-vṛtti@}, {%a.%} living by the sword, following the 
-<>profession of arms; {@-vraṇa-maya@}, {%a.%} consisting <lbinfo n="7"/>
-<> in wounds {%caused%} by weapons; {@-śikṣā@}, 
-<>{%f.%} skill with the sword; {@-saṃpāta@}, {%m.%} discharge <lbinfo n="3"/>
-<> of missiles, conflict; {@-hata,@} {%pp.%} slain 
-<>with the sword.
+ {@-kali,@} {%m.%} duel with swords; {@-kopa,@} {%m.%} 
+raging of the sword {%or%} war; {@-graha,@} {%m.%} 
+taking to the sword, combat; {@-grāhaka,@} {%a.%} 
+bearing arms, armed; {@-ghāta,@} {%m.%} stroke of 
+the sword; {@-devatā,@} {%f.%} goddess of war ({%only %}
+{%pl.%}); {@-dhāraṇa@}, {%n.%} bearing of the sword; 
+{@-nidhana,@} {%a.%} dying by the sword; {@-nir-@}
+{@-yāṇa@}, {%a. id.%}; {@-nyāsa,@} {%m.%} laying down of 
+arms, abstention, from war; {@-pāṇi@}, {%a.%} holding <lbinfo n="4"/>
+ a sword in {%one's%} hand; {@-pāṇin@}, {%a. id.%} 
+({%metr.%}); {@-pāta,@} {%m.%} cut with a knife; {@-pra-@}
+{@-hāra,@} {%m.%} sword-cut; {@-bhṛt@}, {%a.%} bearing arms, 
+armed; {%m.%} warrior; {@-vat,@} {%a.%} armed with a 
+sword; {@-vihita,@} {%pp.%} inflicted with a weapon; 
+{@-vṛtti@}, {%a.%} living by the sword, following the 
+profession of arms; {@-vraṇa-maya@}, {%a.%} consisting <lbinfo n="7"/>
+ in wounds {%caused%} by weapons; {@-śikṣā@}, 
+{%f.%} skill with the sword; {@-saṃpāta@}, {%m.%} discharge <lbinfo n="3"/>
+ of missiles, conflict; {@-hata,@} {%pp.%} slain 
+with the sword.
 <LEND>

@@ -1,9 +1,9 @@
 <L>21117<pc>665<k1>special<k2>special
-<div n="lb"/>{@SPECIAL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) by comp.; </div><div n="1">(2) {#जातीय#}
-<div n="lb"/>(f. {#या#}) and sim. deriv. s. </div><div n="I">II Opposed to
-<div n="lb"/>common: </div><div n="1">(1) {#विशेष#} in comp., <div n="xe">{%by s. injunc-%}
-<div n="lb"/>{%tions:%}</div> <div n="xs">{#विशेषशास्त्रै:,#}</div> M. n. on Ku. v. 27.; </div><div n="1">(2)
-<div n="lb"/>{#वैशेषिक#} (f. {#की#}: rare), <div n="xe">{%s. attribute:%}</div> <div n="xs">{#वैशेषिको #}
-<div n="lb"/>{# गुणः,#}</div> Par.; </div><div n="1">(3) {#विशिष्ट#} (f. {#ष्टा#}), <div n="xe">{%s. jury:%}</div> <div n="xs">{#विशिष्ट-#}
-<div n="lb"/>{#सभ्याः#}</div> (?).</div>
+{@SPECIAL:@}¦ <div n="I">I Lit.: </div><div n="1">(1) by comp.; </div><div n="1">(2) {#जातीय#}
+(f. {#या#}) and sim. deriv. s. </div><div n="I">II Opposed to
+common: </div><div n="1">(1) {#विशेष#} in comp., <div n="xe">{%by s. injunc-%}
+{%tions:%}</div> <div n="xs">{#विशेषशास्त्रै:,#}</div> M. n. on Ku. v. 27.; </div><div n="1">(2)
+{#वैशेषिक#} (f. {#की#}: rare), <div n="xe">{%s. attribute:%}</div> <div n="xs">{#वैशेषिको #}
+{# गुणः,#}</div> Par.; </div><div n="1">(3) {#विशिष्ट#} (f. {#ष्टा#}), <div n="xe">{%s. jury:%}</div> <div n="xs">{#विशिष्ट-#}
+{#सभ्याः#}</div> (?).</div>
 <LEND>

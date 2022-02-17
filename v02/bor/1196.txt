@@ -1,5 +1,5 @@
 <L>1196<pc>042<k1>aspirate<k2>aspirate
-<div n="lb"/>{@ASPIRATE@}¦ (subs.): <div n="I">I An aspirated sound:
-<div n="lb"/>{#महाप्राणः#} ({#णा, णं#}) <div n="xe">{%or%}</div> <div n="xs">{#महाप्राणवर्णः।#}</div> </div><div n="I">II The mark,
-<div n="lb"/>{#महाप्राणसूचकं चिह्रम्।#}</div>
+{@ASPIRATE@}¦ (subs.): <div n="I">I An aspirated sound:
+{#महाप्राणः#} ({#णा, णं#}) <div n="xe">{%or%}</div> <div n="xs">{#महाप्राणवर्णः।#}</div> </div><div n="I">II The mark,
+{#महाप्राणसूचकं चिह्रम्।#}</div>
 <LEND>

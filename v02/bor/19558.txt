@@ -1,4 +1,4 @@
 <L>19558<pc>608<k1>run after<k2>run after
-<div n="lb"/>{@RUN AFTER:@}¦ <div n="1">(1) {#अनु-धावति,#} <div n="xe">{%ran a. deer:%}</div> <div n="xs">{#मृगमन्व-#}
-<div n="lb"/>{#धावत्,#}</div> Mah.: </div><div n="1">(2) {#अनुद्रवति:#} v. To pursue.</div>
+{@RUN AFTER:@}¦ <div n="1">(1) {#अनु-धावति,#} <div n="xe">{%ran a. deer:%}</div> <div n="xs">{#मृगमन्व-#}
+{#धावत्,#}</div> Mah.: </div><div n="1">(2) {#अनुद्रवति:#} v. To pursue.</div>
 <LEND>

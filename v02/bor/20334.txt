@@ -1,8 +1,8 @@
 <L>20334<pc>635<k1>shaving<k2>shaving
-<div n="lb"/>{@SHAVING@}¦ (subs.): <div n="I">I The act.: </div><div n="1">(1) {#मुण्डनम्#} {%or%}
-<div n="lb"/>{#मौण्ड्यम्#} (of the entire head), {#मौण्ड्ये प्राणान्तिको #}
-<div n="lb"/>{# दण्डः,#} M. viii. 379.; </div><div n="1">(2) {#क्षौरम्,#} <div n="xe">{%for s.:%}</div> <div n="xs">{#क्षौर-#}
-<div n="lb"/>{#करणाय,#}</div> H. ii.; </div><div n="1">(3) {#वापः, -नम्#} (rare), <div n="xe">{%s. of the%}
-<div n="lb"/>{%head:%}</div> <div n="xs">{#शिरोवापनम्,#}</div> Vas. </div><div n="I">II A thin slice:
-<div n="lb"/>{#शकलम्।#}</div>
+{@SHAVING@}¦ (subs.): <div n="I">I The act.: </div><div n="1">(1) {#मुण्डनम्#} {%or%}
+{#मौण्ड्यम्#} (of the entire head), {#मौण्ड्ये प्राणान्तिको #}
+{# दण्डः,#} M. viii. 379.; </div><div n="1">(2) {#क्षौरम्,#} <div n="xe">{%for s.:%}</div> <div n="xs">{#क्षौर-#}
+{#करणाय,#}</div> H. ii.; </div><div n="1">(3) {#वापः, -नम्#} (rare), <div n="xe">{%s. of the%}
+{%head:%}</div> <div n="xs">{#शिरोवापनम्,#}</div> Vas. </div><div n="I">II A thin slice:
+{#शकलम्।#}</div>
 <LEND>

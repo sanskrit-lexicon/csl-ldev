@@ -1,5 +1,5 @@
 <L>5492<pc>176<k1>dealer<k2>dealer
-<div n="lb"/>{@DEALER:@}¦ <div n="I">I A Trader, merchant: q. v.:
-<div n="lb"/>{#विक्रेतृ#} (m.), <div n="xe">{%horse d.:%}</div> <div n="xs">{#अश्वविक्रेता।#}</div> </div><div n="I">II Of cards:
-<div n="lb"/>{#*वण्टकः।#}</div>
+{@DEALER:@}¦ <div n="I">I A Trader, merchant: q. v.:
+{#विक्रेतृ#} (m.), <div n="xe">{%horse d.:%}</div> <div n="xs">{#अश्वविक्रेता।#}</div> </div><div n="I">II Of cards:
+{#*वण्टकः।#}</div>
 <LEND>

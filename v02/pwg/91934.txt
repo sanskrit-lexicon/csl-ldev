@@ -18,9 +18,9 @@
 <ls>5080.</ls> {#आदौ न वाप्रणयिनां #}
 [Page6-1082]
 {# प्रणयो विधेयः#} {%an den Tag zu legen%} 
-<ls>(II) 941.</ls> {#कुतो हि भीतिः सततं विधेया#} 
+(<ls>II) 941.</ls> {#कुतो हि भीतिः सततं विधेया#} 
 <ls>1792.</ls> {#विश्वासलेश इह नैव बुधैर्विधेयः#} 
-<ls>(I) 5102.</ls> {#कोपः#} 
+(<ls>I) 5102.</ls> {#कोपः#} 
 <ls>RĀJA-TAR. 6, 225.</ls> {#अस्मिन्नात्मसंदेहे प्रवृत्तिर्न विधेया#} 
 <ls>HIT. 10, 11.</ls> {#वासो न सङ्गः सह कैर्विधेयः#} {%mit wem soll man nicht wohnen und Umgang haben?%} 
 <ls>PRAŚNOTTARAM. 17.</ls> {#विधेय#} <lex>n.</lex> {%das zu Thuende, Obliegenheit%}: {#याताद्य कुर्यां प्रातर्वो विधेयम्#} 
@@ -31,7 +31,7 @@
 <div n="1">— 6) {%fügsam, lenksam, sich in Jmdes%} (gen.) {%Willen fügend, abhängig von%} 
 <ls>AK. 3, 1, 24.</ls> 
 <ls>H. 432.</ls> 
-<ls>MBH. 5, 697. 878. 5051.</ls> 
+<ls>MBH. 5, 697.</ls> <ls n="MBH. 5,">878.</ls> <ls n="MBH. 5,">5051.</ls> 
 <ls>HARIV. 8731.</ls> 
 <ls>R. 2, 30, 9. 55, 25. 4, 14, 23. 6, 98, 28.</ls> 
 <ls>Spr. (II) 2141.</ls> 
@@ -39,7 +39,7 @@
 <ls>DAŚAK. 3, 6.</ls> {#विधेयात्मन्#} 
 <ls>BHAG. 2, 64.</ls> {#अ°#} 
 <ls>R. 4, 14, 23.</ls> {#हयाः, इन्द्रियाणि#} 
-<ls>MBH. 5, 4336. 1154.</ls> 
+<ls>MBH. 5, 4336.</ls> <ls n="MBH. 5,">1154.</ls> 
 <ls>KIR. 11, 33.</ls> {#स्त्री°#} {%in der Gewalt des Weibes stehend, von ihr abhängig%} 
 <ls>R. GORR. 2, 22, 8. 50, 9. 6, 82, 118.</ls> <ls>UTPALA</ls> zu <ls>VARĀH. BṚH. 18 (16), 5.</ls> {#स्त्रीविधेयनवयौवन#} 
 <ls>RAGH. 19, 4.</ls> {#भृत्यविधेयधी#} 

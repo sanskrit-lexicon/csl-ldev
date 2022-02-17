@@ -1,10 +1,10 @@
 <L>24281<pc>760<k1>whether<k2>whether
-<div n="lb"/>{@WHETHER@}¦ (conj.): <div n="xe">{%they w. tigers or lions:%}</div> <div n="xs">{#ते #}
-<div n="lb"/>{# व्याघ्रो वा सिंहो वा,#}</div> S. iii. 2. 9.; <div n="xe">{%it is doubtful%}
-<div n="lb"/>{%w. the word%}</div> <div n="xs">{#प्राण#}</div> <div n="xe">{%here refers to only air, or%}
-<div n="lb"/>{%soul, or the supreme spirit:%}</div> <div n="xs">{#तत्र संशयः किमिह #}
-<div n="lb"/>{# प्राणशब्देन वायुमात्रममिधीयते, उत जीवः, अथवा परं #}
-<div n="lb"/>{# ब्रह्मे ति,#}</div> S. 28.; <div n="xe">{%w. it is the supreme spirit or%}
-<div n="lb"/>{%something else:%}</div> <div n="xs">{#तत् किं परं ब्रह्म स्यादाहोस्विदर्थान्तरम्,#}</div>
-<div n="lb"/>S. iii. 1.: v. Or.
+{@WHETHER@}¦ (conj.): <div n="xe">{%they w. tigers or lions:%}</div> <div n="xs">{#ते #}
+{# व्याघ्रो वा सिंहो वा,#}</div> S. iii. 2. 9.; <div n="xe">{%it is doubtful%}
+{%w. the word%}</div> <div n="xs">{#प्राण#}</div> <div n="xe">{%here refers to only air, or%}
+{%soul, or the supreme spirit:%}</div> <div n="xs">{#तत्र संशयः किमिह #}
+{# प्राणशब्देन वायुमात्रममिधीयते, उत जीवः, अथवा परं #}
+{# ब्रह्मे ति,#}</div> S. 28.; <div n="xe">{%w. it is the supreme spirit or%}
+{%something else:%}</div> <div n="xs">{#तत् किं परं ब्रह्म स्यादाहोस्विदर्थान्तरम्,#}</div>
+S. iii. 1.: v. Or.
 <LEND>

@@ -1,7 +1,7 @@
 <L>225<pc>010<k1>activity<k2>activity
-<div n="lb"/>{@ACTIVITY@}¦ (subs.): <div n="I">I Agility,: </div><div n="1">(1) {#क्षिप्रकारिता;#}</div>
-<div n="lb"/><div n="1">(2) {#उत्साहः#} v. Zeal. </div><div n="I">II Industry and
-<div n="lb"/>energy: </div><div n="1">(1) {#उद्योगः;#} </div><div n="1">(2) {#व्यवसायः;#} </div><div n="1">(3)
-<div n="lb"/>{#अव्यवसायः;#} </div><div n="1">(4) {#कर्माभिनिवेशः;#} </div><div n="1">(5) {#उत्थानशीलता।#}
-<div n="lb"/>Ph. <div n="xe">{%with great a.%}</div> <div n="xs">{#महता यत्नेन।#}</div></div>
+{@ACTIVITY@}¦ (subs.): <div n="I">I Agility,: </div><div n="1">(1) {#क्षिप्रकारिता;#}</div>
+<div n="1">(2) {#उत्साहः#} v. Zeal. </div><div n="I">II Industry and
+energy: </div><div n="1">(1) {#उद्योगः;#} </div><div n="1">(2) {#व्यवसायः;#} </div><div n="1">(3)
+{#अव्यवसायः;#} </div><div n="1">(4) {#कर्माभिनिवेशः;#} </div><div n="1">(5) {#उत्थानशीलता।#}
+Ph. <div n="xe">{%with great a.%}</div> <div n="xs">{#महता यत्नेन।#}</div></div>
 <LEND>

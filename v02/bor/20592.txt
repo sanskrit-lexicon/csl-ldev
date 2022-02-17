@@ -1,8 +1,8 @@
 <L>20592<pc>646<k1>singing<k2>singing
-<div n="lb"/>{@SINGING@}¦ (subs.): <div n="I">I Of men: </div><div n="1">(1) {#गीतिः, -तम्,#}
-<div n="lb"/><div n="xe">{%adapted to s.:%}</div> <div n="xs">{#गीतिक्षम#}</div> (f. {#मा#}), Sa. vii. 5.;
-<div n="lb"/><div n="xe">{%time for s.:%}</div> <div n="xs">{#गीतसमयः,#}</div> Mr. iii. 5.; </div><div n="1">(2) {#गानम्;#}</div>
-<div n="lb"/><div n="1">(3) {#गेयम्,#} <div n="xe">{%who taught you s.:%}</div> <div n="xs">{#गेये को नु विनेता वाम्,#}</div>
-<div n="lb"/>R. xv. 69. </div><div n="I">II Of birds: </div><div n="1">(1) {#कूजितम्#} {%or%}
-<div n="lb"/>{#कूजनम्;#} </div><div n="1">(2) {#रुतम्#} (= sound), Ki.</div>
+{@SINGING@}¦ (subs.): <div n="I">I Of men: </div><div n="1">(1) {#गीतिः, -तम्,#}
+<div n="xe">{%adapted to s.:%}</div> <div n="xs">{#गीतिक्षम#}</div> (f. {#मा#}), Sa. vii. 5.;
+<div n="xe">{%time for s.:%}</div> <div n="xs">{#गीतसमयः,#}</div> Mr. iii. 5.; </div><div n="1">(2) {#गानम्;#}</div>
+<div n="1">(3) {#गेयम्,#} <div n="xe">{%who taught you s.:%}</div> <div n="xs">{#गेये को नु विनेता वाम्,#}</div>
+R. xv. 69. </div><div n="I">II Of birds: </div><div n="1">(1) {#कूजितम्#} {%or%}
+{#कूजनम्;#} </div><div n="1">(2) {#रुतम्#} (= sound), Ki.</div>
 <LEND>

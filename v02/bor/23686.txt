@@ -1,5 +1,5 @@
 <L>23686<pc>742<k1>vampire<k2>vampire
-<div n="lb"/>{@VAMPIRE:@}¦ <div n="I">I A ghost: </div><div n="1">(1) {#भूतः;#} </div><div n="1">(2) {#प्रेतः।#}</div>
-<div n="lb"/><div n="I">II An extortioner: </div><div n="1">(1) {#निष्कर्षक#} (f. {#र्षिका#});</div>
-<div n="lb"/><div n="1">(2) {#चूषक#} (f. {#षिका#}). </div><div n="I">III A bat: {#मङ्गारी।#}</div>
+{@VAMPIRE:@}¦ <div n="I">I A ghost: </div><div n="1">(1) {#भूतः;#} </div><div n="1">(2) {#प्रेतः।#}</div>
+<div n="I">II An extortioner: </div><div n="1">(1) {#निष्कर्षक#} (f. {#र्षिका#});</div>
+<div n="1">(2) {#चूषक#} (f. {#षिका#}). </div><div n="I">III A bat: {#मङ्गारी।#}</div>
 <LEND>

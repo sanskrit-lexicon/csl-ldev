@@ -1,9 +1,9 @@
 <L>89231<pc>464,3<k1>दंश्<k2>दंश्<h>2<e>1
-<hom>2.</hom> <s>दंश्</s> ¦ <ab>cl.</ab> 1. (originally <ab>cl.</ab> 6.) <s>द/शति</s> (<ls>Pāṇ. 6-4, 25</ls>; <ab>Ā.</ab> <ls>MBh. i, 1798</ls> & <ls>Hariv. 4302</ls>; <ab>p.</ab> <s>द/शत्</s>, <ls>RV.</ls> &c.; <ab>pf.</ab> <s>ददंश</s>; <ab>pl.</ab> <s>°शुर्</s>, <ls>R. i, 45, 20</ls>; <ab>p.</ab> <s>ददश्व/स्</s>, <ls>RV. iv, 38, 6</ls>; <ab>fut.</ab> <s>दङ्क्ष्यति</s>, <ls>Bhaṭṭ.</ls>; <s>दंष्टा</s>, <ls>Pāṇ. 7-2, 10</ls>; <ls>Kār.</ls>; 1. <ab>pl.</ab> <s>दशिष्यामस्</s>, <ls>MBh. i, 1605</ls>; <ab>aor.</ab> <s>अदाङ्क्षीत्</s>, <ls>Vop.</ls>; <ab>pl.</ab> <s>°षुर्</s>, <ls>Bhaṭṭ.</ls>; <ab>ind.p.</ab> <s>दंष्ट्वा</s>, <ls>TāṇḍyaBr.</ls>; <ab>cl.</ab> 1. <s>दंशति</s>, <ls>Cāṇ.</ls>) 
+<hom>2.</hom> <s>दंश्</s> ¦ <ab>cl.</ab> 1. (originally <ab>cl.</ab> 6.) <s>द/शति</s> (<ls>Pāṇ. vi, 4, 25</ls>; <ab>Ā.</ab> <ls>MBh. i, 1798</ls> & <ls>Hariv. 4302</ls>; <ab>p.</ab> <s>द/शत्</s>, <ls>RV.</ls> &c.; <ab>pf.</ab> <s>ददंश</s>; <ab>pl.</ab> <s>°शुर्</s>, <ls>R. i, 45, 20</ls>; <ab>p.</ab> <s>ददश्व/स्</s>, <ls>RV. iv, 38, 6</ls>; <ab>fut.</ab> <s>दङ्क्ष्यति</s>, <ls>Bhaṭṭ.</ls>; <s>दंष्टा</s>, <ls>Pāṇ. vii, 2, 10</ls>; <ls>Kār.</ls>; 1. <ab>pl.</ab> <s>दशिष्यामस्</s>, <ls>MBh. i, 1605</ls>; <ab>aor.</ab> <s>अदाङ्क्षीत्</s>, <ls>Vop.</ls>; <ab>pl.</ab> <s>°षुर्</s>, <ls>Bhaṭṭ.</ls>; <ab>ind.p.</ab> <s>दंष्ट्वा</s>, <ls>TāṇḍyaBr.</ls>; <ab>cl.</ab> 1. <s>दंशति</s>, <ls>Cāṇ.</ls>) 
 <div n="to"/>to bite, <ls>RV.</ls>; <ls>AV.</ls>; <ls>ŚBr.</ls> &c.:
 <div n="vp"/><ab>Caus.</ab> to cause to bite, <ls>Kauś.</ls>;
 <div n="to"/>to cause to be bitten by (<ab>instr.</ab>), <ls>MBh. i, 2243; iii, 544</ls>; <ls>Suśr. iv, 14, 6 and 12</ls> :
-<div n="vp"/><ab>Intens.</ab> <s>दन्दश्यते</s>, <s>°शीति</s>, <ls>Pāṇ. 3-1, 24; 7-4, 86</ls>;
+<div n="vp"/><ab>Intens.</ab> <s>दन्दश्यते</s>, <s>°शीति</s>, <ls>Pāṇ. iii, 1, 24</ls>; <ls n="Pāṇ.">vii, 4, 86</ls>;
 <div n="vp"/> <s>दन्दष्टि</s>, <s>°दंष्टि</s>, <ls>Vop. xx, 19</ls>;
 <div n="vp"/> <ab>p.</ab> <s>द/न्दशान</s> (<ab>cf.</ab> <s>°शू/क</s>) repeatedly biting, <ls>RV. x, 95, 9</ls>:
 <div n="vp"/><ab>Caus.</ab> of <ab>Intens.</ab> (<ab>ind.p.</ab> <s>दन्दशयित्वा</s>) causing to be bitten by (<ab>instr.</ab>), <ls>Daś. i, 142</ls>;

@@ -1,5 +1,5 @@
 <L>15240<pc>466<k1>narrowly<k2>narrowly
-<div n="lb"/>{@NARROWLY:@}¦ <div n="I">I With difficulty: {#कथं कथमपि।#}</div>
-<div n="lb"/><div n="I">II Closely, minutely: {#सूक्ष्मम्।#} </div><div n="I">III Con-
-<div n="lb"/>-tractedly: {#संक्षेपेण।#}</div>
+{@NARROWLY:@}¦ <div n="I">I With difficulty: {#कथं कथमपि।#}</div>
+<div n="I">II Closely, minutely: {#सूक्ष्मम्।#} </div><div n="I">III Con-
+-tractedly: {#संक्षेपेण।#}</div>
 <LEND>

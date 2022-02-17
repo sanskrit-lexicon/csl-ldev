@@ -1,4 +1,4 @@
 <L>19306<pc>598<k1>rhythm<k2>rhythm
-<div n="lb"/>{@RHYTHM:@}¦ <div n="1">(1) {#तालः;#} </div><div n="1">(2) {#लयः#} (= musical
-<div n="lb"/>time).</div>
+{@RHYTHM:@}¦ <div n="1">(1) {#तालः;#} </div><div n="1">(2) {#लयः#} (= musical
+time).</div>
 <LEND>

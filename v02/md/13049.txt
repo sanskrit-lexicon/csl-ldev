@@ -1,21 +1,21 @@
 <L>13049<pc>202-1<k1>भयकर<k2>भयकर
 {#भयकर#}¦bhaya-kara, {%a.%} terrifying; endangering <lbinfo n="5"/>
-<> ({%g.%}); {@-kartṛ, kṛt@}, {%m.%} one who terrifies <lbinfo n="5"/>
-<> {%or%} endangers; {@-ṃ kara@}, {%a.%} ({@ī@}) fear-inspiring, <lbinfo n="7"/>
-<> terrifying, formidable (to, -°); {%m. %}
-<>{%N.%}; {@-ḍiṇḍima@}, {%m.%} battle-drum; {@-trātṛ@}, {%m.%} 
-<>rescuer from danger; {@-da,@} {%a.%} terrifying {%or%} 
-<>bringing danger to ({%g. or%} -°); {@-dāna,@} {%n.%} gift 
-<>{%given%} through fear; {@-dāyin,@} {%a.%} fear-inspiring; <lbinfo n="11"/>
-<> {@-dhana,@} {%a.%} abounding in dread, terrible; 
-<>{@-pratīkāra,@} {%m.%} removal of danger; {@-prada,@} 
-<>{%a.%} fear-inspiring; {@-pradāyin,@} {%a.%} bringing into 
-<>danger {%consisting%} of (-°); {@-vihvala,@} {%a.%} agitated <lbinfo n="3"/>
-<> with fear; {@-vyūha,@} {%m.%} {%kind of%} military <lbinfo n="4"/>
-<> array in view of danger {%on all sides%}; 
-<>{@-śoka-samāviṣṭa@}, {%pp.%} filled with fear and 
-<>sorrow; {@-saṃtrasta-mānasa@}, {%a.%} having a 
-<>mind scared with fear; {@-sthāna,@} {%n.%} occasion 
-<>of danger; {@-hāraka,@} {%a.%} freeing from fear {%or%} 
-<>danger; {@-hetu,@} {%m.%} cause of alarm.
+ ({%g.%}); {@-kartṛ, kṛt@}, {%m.%} one who terrifies <lbinfo n="5"/>
+ {%or%} endangers; {@-ṃ kara@}, {%a.%} ({@ī@}) fear-inspiring, <lbinfo n="7"/>
+ terrifying, formidable (to, -°); {%m. %}
+{%N.%}; {@-ḍiṇḍima@}, {%m.%} battle-drum; {@-trātṛ@}, {%m.%} 
+rescuer from danger; {@-da,@} {%a.%} terrifying {%or%} 
+bringing danger to ({%g. or%} -°); {@-dāna,@} {%n.%} gift 
+{%given%} through fear; {@-dāyin,@} {%a.%} fear-inspiring; <lbinfo n="11"/>
+ {@-dhana,@} {%a.%} abounding in dread, terrible; 
+{@-pratīkāra,@} {%m.%} removal of danger; {@-prada,@} 
+{%a.%} fear-inspiring; {@-pradāyin,@} {%a.%} bringing into 
+danger {%consisting%} of (-°); {@-vihvala,@} {%a.%} agitated <lbinfo n="3"/>
+ with fear; {@-vyūha,@} {%m.%} {%kind of%} military <lbinfo n="4"/>
+ array in view of danger {%on all sides%}; 
+{@-śoka-samāviṣṭa@}, {%pp.%} filled with fear and 
+sorrow; {@-saṃtrasta-mānasa@}, {%a.%} having a 
+mind scared with fear; {@-sthāna,@} {%n.%} occasion 
+of danger; {@-hāraka,@} {%a.%} freeing from fear {%or%} 
+danger; {@-hetu,@} {%m.%} cause of alarm.
 <LEND>

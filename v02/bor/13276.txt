@@ -1,3 +1,3 @@
 <L>13276<pc>409<k1>lavender<k2>lavender
-<div n="lb"/>{@LAVENDER:@}¦ <div n="xe">{%l. water:%}</div> <div n="xs">{#*लावन्दरजलम्।#}</div>
+{@LAVENDER:@}¦ <div n="xe">{%l. water:%}</div> <div n="xs">{#*लावन्दरजलम्।#}</div>
 <LEND>

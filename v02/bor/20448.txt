@@ -1,5 +1,5 @@
 <L>20448<pc>640<k1>shower-bath<k2>shower-bath
-<div n="lb"/>{@SHOWER-BATH:@}¦ <div n="I">I The place: {#धारागृहम्#} {%or%}
-<div n="lb"/>{#यन्त्र-#} (?), R. xvi. 49. </div><div n="I">II The act: {#धारास्नानम्#}
-<div n="lb"/>and sim. comp. s. (?).</div>
+{@SHOWER-BATH:@}¦ <div n="I">I The place: {#धारागृहम्#} {%or%}
+{#यन्त्र-#} (?), R. xvi. 49. </div><div n="I">II The act: {#धारास्नानम्#}
+and sim. comp. s. (?).</div>
 <LEND>

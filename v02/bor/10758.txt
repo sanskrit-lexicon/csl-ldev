@@ -1,4 +1,4 @@
 <L>10758<pc>339<k1>health-officer<k2>health-officer
-<div n="lb"/>{@HEALTH-OFFICER:@}¦ {#स्वास्थ्याधिकृतः#} (?) and sim.
-<div n="lb"/>comp.s.
+{@HEALTH-OFFICER:@}¦ {#स्वास्थ्याधिकृतः#} (?) and sim.
+comp.s.
 <LEND>

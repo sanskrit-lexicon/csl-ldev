@@ -1,13 +1,13 @@
 <L>20345<pc>636<k1>shed<k2>shed
-<div n="lb"/>{@SHED@}¦ (v.): <div n="1">(1) {#पातयति#} (c. of {#पत्#} = to let fall),
-<div n="lb"/><div n="xe">{%shall never s. blood:%}</div> <div n="xs">{#नास्रमापातयेज्जातु,#}</div> M. iii. 229.;</div>
-<div n="lb"/><div n="1">(2) {#मुञ्चति, वि-, परि-#} ({#मुच्,#} c. 6. = to discharge,
-<div n="lb"/>let go), <div n="xe">{%s. tears:%}</div> <div n="xs">{#मुमोचाश्रूणि,#}</div> Ram. ii. 58.
-<div n="lb"/>25.; </div><div n="1">(3) {#सृजति#} ({#सृज्,#} c. 6. = 2.), {%s. tears:%}
-<div n="lb"/>{#अम्नाक्षरस्रम्,#} B. iii. 17.; </div><div n="1">(4) {#त्यजति, परि-#} ({#त्यज्,#}
-<div n="lb"/>c. 1. = 1.), <div n="xe">{%to s. feathers:%}</div> <div n="xs">{#पिच्छं परित्यजति,#}</div> P. iii.
-<div n="lb"/>6.; </div><div n="1">(5) {#स्रावयति#} (c. of {#स्रु,#} = let flow), {%what%}
-<div n="lb"/>({%blood%}) <div n="xe">{%was s.:%}</div> <div n="xs">{#यत् प्रसुस्राव,#}</div> Mah. iv. 63. 50.;</div>
-<div n="lb"/><div n="1">(6) {#क्षिपति#} ({#क्षिप्,#} c. 6. = to cast: q. v.: as
-<div n="lb"/>lustre).</div>
+{@SHED@}¦ (v.): <div n="1">(1) {#पातयति#} (c. of {#पत्#} = to let fall),
+<div n="xe">{%shall never s. blood:%}</div> <div n="xs">{#नास्रमापातयेज्जातु,#}</div> M. iii. 229.;</div>
+<div n="1">(2) {#मुञ्चति, वि-, परि-#} ({#मुच्,#} c. 6. = to discharge,
+let go), <div n="xe">{%s. tears:%}</div> <div n="xs">{#मुमोचाश्रूणि,#}</div> Ram. ii. 58.
+25.; </div><div n="1">(3) {#सृजति#} ({#सृज्,#} c. 6. = 2.), {%s. tears:%}
+{#अम्नाक्षरस्रम्,#} B. iii. 17.; </div><div n="1">(4) {#त्यजति, परि-#} ({#त्यज्,#}
+c. 1. = 1.), <div n="xe">{%to s. feathers:%}</div> <div n="xs">{#पिच्छं परित्यजति,#}</div> P. iii.
+6.; </div><div n="1">(5) {#स्रावयति#} (c. of {#स्रु,#} = let flow), {%what%}
+({%blood%}) <div n="xe">{%was s.:%}</div> <div n="xs">{#यत् प्रसुस्राव,#}</div> Mah. iv. 63. 50.;</div>
+<div n="1">(6) {#क्षिपति#} ({#क्षिप्,#} c. 6. = to cast: q. v.: as
+lustre).</div>
 <LEND>

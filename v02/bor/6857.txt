@@ -1,4 +1,4 @@
 <L>6857<pc>218<k1>downy<k2>downy
-<div n="lb"/>{@DOWNY:@}¦ <div n="I">I Lit.: {#कोमललोममयः#} ({#यी, यं#}) (?).</div>
-<div n="lb"/><div n="I">II Fig., soft, calm: {#कोमलः#} ({#ला, लं#}).</div>
+{@DOWNY:@}¦ <div n="I">I Lit.: {#कोमललोममयः#} ({#यी, यं#}) (?).</div>
+<div n="I">II Fig., soft, calm: {#कोमलः#} ({#ला, लं#}).</div>
 <LEND>

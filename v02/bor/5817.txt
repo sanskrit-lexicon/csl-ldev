@@ -1,4 +1,4 @@
 <L>5817<pc>186<k1>denomination<k2>denomination
-<div n="lb"/>{@DENOMINATION:@}¦ <div n="I">I Name, epithet: q. v.:
-<div n="lb"/>{#अभिधेयम्।#} </div><div n="I">II Sect: q. v.: {#गणः।#}</div>
+{@DENOMINATION:@}¦ <div n="I">I Name, epithet: q. v.:
+{#अभिधेयम्।#} </div><div n="I">II Sect: q. v.: {#गणः।#}</div>
 <LEND>

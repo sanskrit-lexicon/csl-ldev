@@ -7,7 +7,7 @@
 <ls>7, 56, 3. 11, 3, 5.</ls> <ls>VS. 24, 29. 25, 3.</ls> <ls>ŚAT. BR. 14, 4, 1, 24.</ls> <ls>CHĀND. UP. 6, 9, 3.</ls> <ls>KAUŚ. 30.</ls> <ls>M. 1, 40. 45.</ls> <ls>MBH. 7, 4944.</ls> <ls>R. 2, 25, 16. 28, 21.</ls> <ls>SUŚR. 1, 67, 5. 2, 290, 20.</ls> <ls>Spr. 1521. 1808.</ls> {#सर्वं खलस्य चरितं मशकः करोति#} 
 <ls>1884.</ls> {#तुदन्त्यामत्वचं दंशा मशका मत्कुणादयः#} 
 <ls>BHĀG. P. 3, 31, 27.</ls> {#मशकोदुम्बरौ#} (so die ed. Bomb.) {#वापि संप्रयुक्तौ यथा सदा । अन्योऽन्यमेतौ स्यातां च संप्रयोगस्तथा तयोः ॥#} 
-<ls>MBH. 12, 7104. 9022.</ls> {#मशकोदुम्बरे यद्वदन्यत्वं तद्वदेतयोः#} 
+<ls>MBH. 12, 7104.</ls> <ls n="MBH. 12,">9022.</ls> {#मशकोदुम्बरे यद्वदन्यत्वं तद्वदेतयोः#} 
 <ls>11488.</ls> {#अन्यच्च मशकं विद्यादन्यच्चोदुम्बरं तथा#} (so die ed. Bomb.) 
 <ls>11667.</ls> {#मशकोदुम्बरे#} (so die ed. Bomb.) {#चैक्यं पृथक्त्वमपि दृश्यते#} 
 <ls>14, 1345.</ls> {#ब्रह्माण्डोदुम्बरान्तर्मशकवदपरे जन्तवो जातनष्टाः#}
@@ -16,10 +16,10 @@
 <ls>Spr. 956.</ls> {#उ/दुम्बरमशकः#} <is>gaṇa</is> {#पात्रेसमितादि#} zu 
 <ls>P. 2, 1, 48</ls> und {#युक्तारोह्यादि#} zu 
 <ls>6, 2, 81.</ls> 
-<div n="1">— 2) {%eine best. Hautkrankheit: schwärzliche, einer Bohne%} {#(माष)#} {%ähnliche Knoten%} 
+<div n="1">— 2) {%eine best. Hautkrankheit: schwärzliche, einer Bohne%} ({#माष#}) {%ähnliche Knoten%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>SUŚR. 1, 31, 18. 90, 13. 292, 11. 296, 4. 326, 6. 2, 120, 9.</ls> <ls>ŚĀRṄG. SAṂH. 1, 7, 56.</ls> <ls>VARĀH. BṚH. S. 52, 10.</ls> 
 <div n="1">— 3) {%Schlauch%} 
-<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 875, 3 v. u.</ls> 
+<ls>Schol.</ls> zu <ls>KĀTY. ŚR. 875, 3</ls> v. u. 
 <div n="1">— 4) N. pr. eines Lehrers mit dem patron. <is>Gārgya</is>, Verfassers eines <is>Kalpasūtra</is>, 
 <ls>LĀṬY. 7, 9, 14.</ls> <ls>ANUPADA 9, 9.</ls> <ls>Ind. St. 4, 373.</ls> <ls>Verz. d. B. H. No. 297. 324.</ls> <ls>WEBER, Lit. 73.</ls> — <ls>COLEBR. Misc. Ess. I, 298.</ls> 
 <div n="1">— 5) pl. N. pr. des von <is>Kṣatriya</is> bewohnten Gebietes in <is>Śākadvīpa</is> (vgl. {#मगस)#} 

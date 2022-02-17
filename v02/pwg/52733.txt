@@ -1,5 +1,5 @@
 <L>52733<pc>5-0090<k1>बिलेशय<k2>बिलेशय
-{#बिलेशय#}¦ {#(बिले + शय)#} 
+{#बिलेशय#}¦ ({#बिले + शय#}) 
 <div n="1"> 1) <lex>adj.</lex> {%in Löchern wohnend%}, <lex>m.</lex> {%ein höhlenbewohnendes Thier%} (z. B. Stachelschwein, Igel, Hase, Schlange, Maus) 
 <ls>MBH. 1, 1816.</ls> 
 <ls>SUŚR. 1, 200, 7. 203, 7. 238, 6. 2, 448, 10.</ls> 
@@ -10,6 +10,6 @@
 <ls>MED. y. 127.</ls> {%Maus%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Lehrers (der {#हठविद्या)#} 
-<ls>Verz. d. Oxf. H. 223.</ls> {%b%}, 
-<ls>?39 (Verz. d. B. H. 196, 6. HALL 16).</ls>
+<ls>Verz. d. Oxf. H. 223,b,39</ls> 
+(<ls>Verz. d. B. H. 196, 6.</ls> <ls>HALL 16</ls>).
 <LEND>

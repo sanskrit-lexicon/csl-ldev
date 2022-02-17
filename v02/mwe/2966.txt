@@ -1,6 +1,6 @@
 <L>2966<pc>064-a<k1>breed<k2>breed
-<div n="lb"/>BREED¦, {%s.%} (Race, family) {#वंशः, कुलं, जातिः#} {%f.,%} {#सन्तानः, सन्ततिः#} {%f.,%}
-<div n="lb"/>{#अन्वयः#}. — (Offspring) {#अपत्यं, प्रजा;#} ‘a horse of a good breed,’
-<div n="lb"/>{#आजानेयः, भूमिपक्षः, भूमिरक्षकः#}. — (Number of animals born
-<div n="lb"/>at once) {#शावकगणः, यः शावकगण एककाले डिम्बाद् उत्पद्यते#} or {#प्रसूयते#}.
+BREED¦, {%s.%} (Race, family) {#वंशः, कुलं, जातिः#} {%f.,%} {#सन्तानः, सन्ततिः#} {%f.,%}
+{#अन्वयः#}. — (Offspring) {#अपत्यं, प्रजा;#} ‘a horse of a good breed,’
+{#आजानेयः, भूमिपक्षः, भूमिरक्षकः#}. — (Number of animals born
+at once) {#शावकगणः, यः शावकगण एककाले डिम्बाद् उत्पद्यते#} or {#प्रसूयते#}.
 <LEND>

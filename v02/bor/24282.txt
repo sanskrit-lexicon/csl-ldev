@@ -1,6 +1,6 @@
 <L>24282<pc>760<k1>whetstone<k2>whetstone
-<div n="lb"/>{@WHETSTONE:@}¦ <div n="1">(1) {#शाणः#} (also -{#अश्मन्#} etc.: v.
-<div n="lb"/>Stone), ({%my%}) <div n="xe">{%axe which has been whetted on%}
-<div n="lb"/>{%the w. of enemies' heads:%}</div> <div n="xs">{#रिपुशिरःशाणशातः कुठारः,#}</div>
-<div n="lb"/>Vi. iii. 28.</div>
+{@WHETSTONE:@}¦ <div n="1">(1) {#शाणः#} (also -{#अश्मन्#} etc.: v.
+Stone), ({%my%}) <div n="xe">{%axe which has been whetted on%}
+{%the w. of enemies' heads:%}</div> <div n="xs">{#रिपुशिरःशाणशातः कुठारः,#}</div>
+Vi. iii. 28.</div>
 <LEND>

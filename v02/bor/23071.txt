@@ -1,6 +1,6 @@
 <L>23071<pc>726<k1>ultra<k2>ultra
-<div n="lb"/>{@ULTRA:@}¦ <div n="I">I = excessive: {#अति-#} in comp., <div n="xe">{%u.-%}
-<div n="lb"/>{%democrat:%}</div> <div n="xs">{#अतिप्रजातन्त्रिन्#}</div> (f. {#णी#}). </div><div n="I">II Beyond:
-<div n="lb"/>{#पार-#} in comp., <div n="xe">{%u. marine:%}</div> <div n="xs">{#समुद्रपारीण#}</div> (f. {#णा#});
-<div n="lb"/><div n="xe">{%u. montane:%}</div> <div n="xs">{#पर्वतपारीण#}</div> (f. {#णा#}); etc.</div>
+{@ULTRA:@}¦ <div n="I">I = excessive: {#अति-#} in comp., <div n="xe">{%u.-%}
+{%democrat:%}</div> <div n="xs">{#अतिप्रजातन्त्रिन्#}</div> (f. {#णी#}). </div><div n="I">II Beyond:
+{#पार-#} in comp., <div n="xe">{%u. marine:%}</div> <div n="xs">{#समुद्रपारीण#}</div> (f. {#णा#});
+<div n="xe">{%u. montane:%}</div> <div n="xs">{#पर्वतपारीण#}</div> (f. {#णा#}); etc.</div>
 <LEND>

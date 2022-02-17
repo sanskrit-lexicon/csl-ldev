@@ -1,5 +1,5 @@
 <L>29394<pc>800-b<k1>thickness<k2>thickness
-<div n="lb"/>THICKNESS¦, {%s.%} {#घनता -त्वं, स्थूलता, स्थौल्यं, सान्द्रता, नैविड्यं, श्यानता,#}
-<div n="lb"/>{#पीवरत्वं, संहतत्वं,#} {%see%} DENSITY. ‘Thickness,’ as a property
-<div n="lb"/>of matter, is expressed by {#पिण्डत्वं#}.
+THICKNESS¦, {%s.%} {#घनता -त्वं, स्थूलता, स्थौल्यं, सान्द्रता, नैविड्यं, श्यानता,#}
+{#पीवरत्वं, संहतत्वं,#} {%see%} DENSITY. ‘Thickness,’ as a property
+of matter, is expressed by {#पिण्डत्वं#}.
 <LEND>

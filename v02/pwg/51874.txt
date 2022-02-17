@@ -3,11 +3,11 @@
 <div n="1"> 1) <lex>m.</lex> {%Pfau%} 
 <ls>AK. 2, 5, 30.</ls> 
 <ls>DRAUP. 8, 11.</ls> 
-<ls>MBH. 12, 4366. 13, 6385.</ls> {#बर्हिपत्त्र#} 
+<ls>MBH. 12, 4366.</ls> <ls n="MBH.">13, 6385.</ls> {#बर्हिपत्त्र#} 
 <ls>HARIV. 3601.</ls> 
 <ls>R. 2, 63, 15. 93, 16.</ls> 
-<ls>R.</ls> 
-<ls>GORR. 2, 49, 3. 5, 52, 13.</ls> 
+
+<ls>R. GORR. 2, 49, 3. 5, 52, 13.</ls> 
 <ls>MṚCCH. 13, 19.</ls> 
 <ls>RAGH. 16, 64.</ls> 
 <ls>ṚT. 2, 6.</ls> 
@@ -18,7 +18,7 @@
 <div n="1">— 2)
 [Page5-0029]
 <lex>m.</lex> N. pr. eines der von der <is>Prādhā</is> stammenden <is>Devagandharva</is> 
-<ls>MBH. 1, 2554.</ls> N. pr. eines Heiligen (=  {#बर्हिषद)#} 
+<ls>MBH. 1, 2554.</ls> N. pr. eines Heiligen (= {#बर्हिषद)#} 
 <ls>13, 7664.</ls> 
 <div n="1">— 3) <lex>n.</lex> = {#बर्हिपुष्प#} {%ein best. Parfum%} 
 <ls>COLEBR.</ls> und <ls>LOIS.</ls> zu <ls>AK. 2, 4, 4, 20.</ls>

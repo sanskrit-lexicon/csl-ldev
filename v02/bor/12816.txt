@@ -1,5 +1,5 @@
 <L>12816<pc>396<k1>jaunt<k2>jaunt
-<div n="lb"/>{@JAUNT:@}¦ <div n="I">I Sub.: </div><div n="1">(1) {#भ्रमणम्#} (= rambling); </div><div n="1">(2)
-<div n="lb"/>{#विहारः#} <div n="xe">{%or%}</div> <div n="xs">{#विहरणम्#}</div> (for pleasure), {%j. in a wood:%}
-<div n="lb"/>{#वनविहरणम्,#} Si. </div><div n="I">II Verb: v. To ramble.</div>
+{@JAUNT:@}¦ <div n="I">I Sub.: </div><div n="1">(1) {#भ्रमणम्#} (= rambling); </div><div n="1">(2)
+{#विहारः#} <div n="xe">{%or%}</div> <div n="xs">{#विहरणम्#}</div> (for pleasure), {%j. in a wood:%}
+{#वनविहरणम्,#} Si. </div><div n="I">II Verb: v. To ramble.</div>
 <LEND>

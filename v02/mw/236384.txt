@@ -1,5 +1,5 @@
 <L>236384<pc>1174,3<k1>सम्प्रती<k2>सम्-प्रती<e>1
-<s>सम्-प्रती<srs/></s> ¦ (<s>-प्रति-</s> <hom>5</hom> <s>√ इ</s>) <ab>P.</ab> <s>-प्रत्येति</s>, to go towards, arrive at, come to a firm conviction, believe firmly in, trust in (<ab>gen.</ab>), <ls>R.</ls>; <ls>Bhaṭṭ.</ls>;
-<div n="to"/> <ab>Pass.</ab> <s>-प्रती<srs/>यते</s>, to be meant or understood, <ls>Pat.</ls> :
+<s>सम्-प्रती<स्र्स्/></s> ¦ (<s>-प्रति-</s> <hom>5</hom> <s>√ इ</s>) <ab>P.</ab> <s>-प्रत्येति</s>, to go towards, arrive at, come to a firm conviction, believe firmly in, trust in (<ab>gen.</ab>), <ls>R.</ls>; <ls>Bhaṭṭ.</ls>;
+<div n="to"/> <ab>Pass.</ab> <s>-प्रती<स्र्स्/>यते</s>, to be meant or understood, <ls>Pat.</ls> :
 <div n="to"/><ab>Caus.</ab> <s>-प्रत्याययति</s>, to cause to be meant or understood by, <ls>ib.</ls><info verb="pre" cp="P" parse="sam+prati+i"/>
 <LEND>

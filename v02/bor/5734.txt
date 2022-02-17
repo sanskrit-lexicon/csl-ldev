@@ -1,8 +1,8 @@
 <L>5734<pc>184<k1>deliberate<k2>deliberate
-<div n="lb"/>{@DELIBERATE@}¦ (adj.): <div n="I">I Circumspect: q. v.:
-<div n="lb"/>{#धीरः#} ({#रा, रं#}). {%D-ly resolved:%} </div><div n="1">(1) {#निश्चितः#} ({#ता, #}
-<div n="lb"/>{# तं#}): v. Certain; </div><div n="1">(2) {#स्थिरः#} ({#रा, रं#}): v. Con-
-<div n="lb"/>-stant. Ph.: <div n="xe">{%of d. intention:%}</div> <div n="xs">{#ध्रु वेच्छः#}</div> ({#च्छा, च्छं#}),
-<div n="lb"/>Ku.; <div n="xe">{%to commit d. crimes:%}</div> <div n="xs">{#कामतः पापानि करोति,#}</div>
-<div n="lb"/>Pa. </div><div n="I">III Slow: q. v.</div>
+{@DELIBERATE@}¦ (adj.): <div n="I">I Circumspect: q. v.:
+{#धीरः#} ({#रा, रं#}). {%D-ly resolved:%} </div><div n="1">(1) {#निश्चितः#} ({#ता, #}
+{# तं#}): v. Certain; </div><div n="1">(2) {#स्थिरः#} ({#रा, रं#}): v. Con-
+-stant. Ph.: <div n="xe">{%of d. intention:%}</div> <div n="xs">{#ध्रु वेच्छः#}</div> ({#च्छा, च्छं#}),
+Ku.; <div n="xe">{%to commit d. crimes:%}</div> <div n="xs">{#कामतः पापानि करोति,#}</div>
+Pa. </div><div n="I">III Slow: q. v.</div>
 <LEND>

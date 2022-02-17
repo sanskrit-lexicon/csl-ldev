@@ -1,5 +1,5 @@
 <L>28592<pc>782-b<k1>subscriber<k2>subscriber
-<div n="lb"/>SUBSCRIBER¦, {%s.%} (One who enters his name) {#नामाभिलेखकः, हस्ता-#}
-<div n="lb"/>{#क्षराभिलेखकः#}. — (Contributor) {#अंशदाता#} {%m.%} {#(तृ), अंशदायी#} {%m.,%}
-<div n="lb"/>{#अंशदित्सुः#} {%m.%}
+SUBSCRIBER¦, {%s.%} (One who enters his name) {#नामाभिलेखकः, हस्ता-#}
+{#क्षराभिलेखकः#}. — (Contributor) {#अंशदाता#} {%m.%} {#(तृ), अंशदायी#} {%m.,%}
+{#अंशदित्सुः#} {%m.%}
 <LEND>

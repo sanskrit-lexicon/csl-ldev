@@ -1,10 +1,10 @@
 <L>9384<pc>297<k1>freely<k2>freely
-<div n="lb"/>{@FREELY:@}¦ <div n="I">I Of one's own will: </div><div n="1">(1) {#स्वेच्छया:#}</div>
-<div n="lb"/><div n="1">(2) {#स्वच्छन्दतः;#} </div><div n="1">(4) {#स्वैरम्,#} <div n="xe">{%as moving f.:%}</div> <div n="xs">{#यथा स्वैरं #}
-<div n="lb"/>{# भ्राम्यन्,#}</div> Vi. </div><div n="I">II Gratuitously: {#विनामूल्येन।#} </div><div n="I">III
-<div n="lb"/>Liberally, amply: {#मुक्तहस्तम्।#} </div><div n="I">IV Without
-<div n="lb"/>restraint: </div><div n="1">(1) {#निर्यन्त्रणम्;#} </div><div n="1">(2) {#अनियन्त्रितम्;#}</div>
-<div n="lb"/><div n="1">(3) {#यथेच्छम्,#} {%this wood is f. enjoyable by you:%}
-<div n="lb"/>{#यथेच्छं भोग्यं वो वनमिदम्,#} U. i. </div><div n="I">V Without
-<div n="lb"/>scruple: {#असङ्गोचेन।#}</div>
+{@FREELY:@}¦ <div n="I">I Of one's own will: </div><div n="1">(1) {#स्वेच्छया:#}</div>
+<div n="1">(2) {#स्वच्छन्दतः;#} </div><div n="1">(4) {#स्वैरम्,#} <div n="xe">{%as moving f.:%}</div> <div n="xs">{#यथा स्वैरं #}
+{# भ्राम्यन्,#}</div> Vi. </div><div n="I">II Gratuitously: {#विनामूल्येन।#} </div><div n="I">III
+Liberally, amply: {#मुक्तहस्तम्।#} </div><div n="I">IV Without
+restraint: </div><div n="1">(1) {#निर्यन्त्रणम्;#} </div><div n="1">(2) {#अनियन्त्रितम्;#}</div>
+<div n="1">(3) {#यथेच्छम्,#} {%this wood is f. enjoyable by you:%}
+{#यथेच्छं भोग्यं वो वनमिदम्,#} U. i. </div><div n="I">V Without
+scruple: {#असङ्गोचेन।#}</div>
 <LEND>

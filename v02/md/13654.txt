@@ -1,10 +1,10 @@
 <L>13654<pc>215-3<k1>मध्यकौमुदी<k2>मध्यकौमुदी
 {#मध्यकौमुदी#}¦madhya-kaumudī, {%f. T. of a %}
-<>{%grammar%} = madhya-siddhānta-kaumudī; 
-<>{@-ga,@} {%a.%} moving in the midst of, being in, on, 
-<>{%or%} among, contained in, abiding among, being <lbinfo n="2"/>
-<> common to ({%g. or%} -°); {@-gata,@} {%pp.%} being 
-<>in the midst of, between, {%or%} among ({%g. or%} 
-<>-°); {@-cārin@}, {%a.%} moving in the midst of {%or%} 
-<>among ({%g.%}).
+{%grammar%} = madhya-siddhānta-kaumudī; 
+{@-ga,@} {%a.%} moving in the midst of, being in, on, 
+{%or%} among, contained in, abiding among, being <lbinfo n="2"/>
+ common to ({%g. or%} -°); {@-gata,@} {%pp.%} being 
+in the midst of, between, {%or%} among ({%g. or%} 
+-°); {@-cārin@}, {%a.%} moving in the midst of {%or%} 
+among ({%g.%}).
 <LEND>

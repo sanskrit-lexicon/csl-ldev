@@ -1,7 +1,7 @@
 <L>23044<pc>726<k1>two<k2>two
-<div n="lb"/>{@TWO:@}¦ {#द्वि,#} <div n="xe">{%t. -year old:%}</div> <div n="xs">{#द्विवर्ष#}</div> (f. {#र्षा#}): <div n="xe">{%in t.%}
-<div n="lb"/>{%ways or parts:%}</div> <div n="xs">{#द्विधा#}</div> <div n="xe">{%or%}</div> <div n="xs">{#द्वेधा;#}</div> {%of t. months:%}
-<div n="lb"/>{#द्विमास्य#} (f. {#स्या#}); {%two-hundred and fifth:%}
-<div n="lb"/>{#पञ्चाधिकद्विशततमः#} ({#मी, मं#}), Mah.; <div n="xe">{%t. or three%}
-<div n="lb"/>{%days:%}</div> <div n="xs">{#द्वित्राण्यहानि,#}</div> R. v. 25.: v. Also both.
+{@TWO:@}¦ {#द्वि,#} <div n="xe">{%t. -year old:%}</div> <div n="xs">{#द्विवर्ष#}</div> (f. {#र्षा#}): <div n="xe">{%in t.%}
+{%ways or parts:%}</div> <div n="xs">{#द्विधा#}</div> <div n="xe">{%or%}</div> <div n="xs">{#द्वेधा;#}</div> {%of t. months:%}
+{#द्विमास्य#} (f. {#स्या#}); {%two-hundred and fifth:%}
+{#पञ्चाधिकद्विशततमः#} ({#मी, मं#}), Mah.; <div n="xe">{%t. or three%}
+{%days:%}</div> <div n="xs">{#द्वित्राण्यहानि,#}</div> R. v. 25.: v. Also both.
 <LEND>
