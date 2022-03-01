@@ -1,7 +1,7 @@
 <L>61308<pc>5-0859<k1>मूल<k2>मू꣡ल
 {#मू꣡ल#}¦ {#(मूल꣡#} 
 <ls>UṆĀDIS. 4, 108</ls>) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 250,a,8.</ls> <ls>MED. l. 45.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} (in übertragener Bedeutung, wie es scheint, stets {#आ)#} und {#ई꣡#} 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 250,a,8.</ls> <ls>MED. l. 45.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} (in übertragener Bedeutung, wie es scheint, stets {#आ)#} und {#ई꣡#} 
 <ls>P. 4, 1, 64.</ls> 
 <ls>VOP. 4, 15.</ls> Am Ende eines adv. comp. {#°मू꣡लम्#} 
 <ls>P. 6, 2, 121.</ls> 
@@ -13,7 +13,7 @@
 <ls>AK. 3, 4, 31, 239</ls>), {%Ausgangspunkt, Anfang%} 
 (<ls>AK. 3, 4, 26, 202.</ls> <ls>MED.</ls> <ls>H. an.</ls>, wo {#पार्श्वाद्ययोरुडौ#} zu lesen ist), {#त्रे\धा मूल^ं यातु\धान^स्य वृश्च#} 
 <ls>ṚV. 10, 87, 10.</ls> 
-<ls>AV. 6, 13, 3. 14, 2. 7, 74, 1. 19, 32, 3.</ls> {#ओष^ध्यास्ते\ मूल\ं मा हि^ंसिषम्#} 
+<ls>AV. 6, 13, 3.</ls> <ls n="AV. 6,">14, 2.</ls> <ls n="AV.">7, 74, 1.</ls> <ls n="AV.">19, 32, 3.</ls> {#ओष^ध्यास्ते\ मूल\ं मा हि^ंसिषम्#} 
 <ls>VS. 1, 25. 22, 28.</ls> 
 <ls>ŚAT. BR. 1, 2, 5, 8. 14, 6, 9, 33.</ls> 
 <ls>KĀTY. ŚR. 7, 1, 19. 2, 6, 9. 46.</ls> {#पाप्मनः#} 
@@ -55,8 +55,8 @@
 <ls>M. 2, 6. 11.</ls> {#धर्मस्य ब्राह्मणो मूलमग्रं राजन्य उच्यते#} 
 <ls>11, 83.</ls> {#छिन्नं मूलमनर्थानाम्#} 
 <ls>MBH. 1, 1615.</ls> {#दुःख°#} 
-<ls>6122. 7876.</ls> {#धर्मं शुभं वाप्यशुभं राजमूलात् (राजमूलं#} <lex>adj.</lex> ed. Bomb. 
-<ls>50, 10</ls>) {#प्रवर्तते#} 
+<ls n="MBH. 1,">6122.</ls> <ls n="MBH. 1,">7876.</ls> {#धर्मं शुभं वाप्यशुभं राजमूलात् (राजमूलं#} <lex>adj.</lex> ed. Bomb. 
+<ls n="MBH.">50, 10</ls>) {#प्रवर्तते#} 
 <ls>R. 3, 56, 19.</ls> {#हेतुमात्रं तु #}
 [Page5-0860]
 {# रामो वै जयमूलं विभीषणः#} 
@@ -70,7 +70,7 @@
 <ls>KATHĀS. 22, 98. 25, 195. 27, 3. 32, 130. 68, 61. 71, 58. 228.</ls> {#मूलात्#} {%von Grund aus%} (Jmd kennen lernen) 
 <ls>Schol.</ls> zu <ls>ŚĀK. 11, 16.</ls> {#आमूलमीक्षितम्#} {%bis auf den Grund, ganz genau%} 
 <ls>KATHĀS. 32, 83.</ls> {#तत्र मूलं मृग्यम्#} {%das Ursprüngliche, Richtige%} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,2,6.</ls> 
+<ls>SIDDH. K.</ls> zu <ls>P. 1, 2, 6.</ls> 
 <div n="1">— 2) <lex>n.</lex> überh. {%dasjenige Ende eines Dinges, mit dem es an Etwas befestigt ist; Wurzel%} (in uneigentlicher Bed.), {%Fuss, Basis; der untere Theil%} überh. (Gegens. {#अग्र): मूर्धजानाम्#} 
 <ls>VARĀH. BṚH. S. 68, 82.</ls> {#वेणी°#} 
 <ls>51, 40.</ls> {#दन्तस्य#} 

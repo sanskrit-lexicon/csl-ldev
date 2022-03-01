@@ -3,8 +3,8 @@
 <div n="1"> 1) {%Wärme, Hitze, Gluth%} 
 <ls>NAIGH. 1, 17.</ls> {#(अग्ने) येभि\स्तपो^भि\रद^हो\ जरू^थम्#} 
 <ls>ṚV. 7, 1, 7.</ls> {#तपा^ तपिष्ठ\ तप^सा\ तप^स्वान्#} 
-<ls n="ṚV.">6, 5, 4.</ls> <ls n="ṚV. 6, 5,">8.</ls> <ls n="ṚV. 6,">49, 16.</ls> <ls n="ṚV.">10, 16, 4.</ls> <ls>AV. 7, 77, 2. 11, 1, 16.</ls> {#विष्णु^र्युनक्तु बहु\धा तपा^ंसि#} 
-<ls>5, 26, 7.</ls> <ls>VS. 37, 11. 15. 12, 15.</ls> <ls>ŚĀṄKH. ŚR. 3, 19, 16. 4, 13, 3.</ls> {%die fünf Feuer%}, denen sich der Asket in der heissen Jahreszeit aussetzt, sind {%vier nach den vier Weltgegenden angezündete Feuer und die von oben brennende Sonne%} (vgl. 
+<ls n="ṚV.">6, 5, 4.</ls> <ls n="ṚV. 6, 5,">8.</ls> <ls n="ṚV. 6,">49, 16.</ls> <ls n="ṚV.">10, 16, 4.</ls> <ls>AV. 7, 77, 2.</ls> <ls n="AV.">11, 1, 16.</ls> {#विष्णु^र्युनक्तु बहु\धा तपा^ंसि#} 
+<ls n="AV.">5, 26, 7.</ls> <ls>VS. 37, 11. 15. 12, 15.</ls> <ls>ŚĀṄKH. ŚR. 3, 19, 16. 4, 13, 3.</ls> {%die fünf Feuer%}, denen sich der Asket in der heissen Jahreszeit aussetzt, sind {%vier nach den vier Weltgegenden angezündete Feuer und die von oben brennende Sonne%} (vgl. 
 <ls>RAGH. 13, 41</ls>): {#पञ्चतपो ऽन्विताः#} 
 <ls>R. 3, 10, 5.</ls> {#ग्रीष्मे पञ्चतपास्तु स्याद्वर्षास्वभ्रावकाशिकः#} 
 <ls>M. 6, 23.</ls> 
@@ -28,18 +28,18 @@
 <ls>ṚV. 10, 109, 4.</ls> {#तप^स\स्तन्म^हि\नाजा^य\तैक^म्#} 
 <ls n="ṚV. 10,">129, 3.</ls> <ls n="ṚV. 10,">183, 1.</ls> {#ऋ\तं च^ स\त्यं चा\भी^द्धा\त्तप\सो ऽध्य^जायत#} (mit Anspielung auf die Grundbedeutung des Wortes; vgl. 
 <ls>VS. 1, 18</ls> und {#दीप्ततपस्#} 
-<ls>BRAHMA-P. in LA. 52, 7) 190, 1.</ls> <ls>AV. 4, 34, 1. 11, 1, 26.</ls> <ls>ŚAT. BR. 12, 1, 3, 23.</ls> {#ऋ\त\वा\केन^ स\त्येन^ श्र\द्धया\ तप^सा सु\तः#} 
+<ls>BRAHMA-P. in LA. 52, 7) 190, 1.</ls> <ls>AV. 4, 34, 1.</ls> <ls n="AV.">11, 1, 26.</ls> <ls>ŚAT. BR. 12, 1, 3, 23.</ls> {#ऋ\त\वा\केन^ स\त्येन^ श्र\द्धया\ तप^सा सु\तः#} 
 <ls>ṚV. 9, 113, 2.</ls> {#म\तिमा धे^हि मे\धामथो^ नो धेहि\ तप^ इन्द्रि\यं च^#} 
 <ls>AV. 6, 133, 4.</ls> {#ब्र\ह्म\चर्ये^ण\ तप^सा\ राजा^ रा\ष्ट्रं वि र^क्षति#} 
-<ls>11, 5, 17.</ls> {#दी\क्षा, तप^ः#} 
+<ls n="AV.">11, 5, 17.</ls> {#दी\क्षा, तप^ः#} 
 <ls>VS. 4, 7. 5, 6.</ls> 
-<ls>AV. 12, 1, 1. 19, 40, 3. 41, 1.</ls> 
+<ls>AV. 12, 1, 1.</ls> <ls n="AV.">19, 40, 3.</ls> <ls n="AV. 19,">41, 1.</ls> 
 <ls>ŚAT. BR. 3, 6, 2,9.</ls>
 [Page3-0246]
 {#तप^ः, कर्म^#} 
 <ls>AV. 11, 8, 6.</ls> {#ब्रह्म^, तप^ः#} 
-<ls>5, 6, 9. 8, 10, 25.</ls> {#तप^ः, श्रम^ः#} 
-<ls>4, 35, 2. 6, 133, 3.</ls> <ls>ŚAT. BR. 9, 5, 1, 2.</ls> {#म\न्युः, तप^ः#} personif. 
+<ls n="AV.">5, 6, 9.</ls> <ls n="AV.">8, 10, 25.</ls> {#तप^ः, श्रम^ः#} 
+<ls n="AV.">4, 35, 2.</ls> <ls n="AV.">6, 133, 3.</ls> <ls>ŚAT. BR. 9, 5, 1, 2.</ls> {#म\न्युः, तप^ः#} personif. 
 <ls>ṚV. 10, 83, 2.</ls> <ls n="ṚV. 10, 83,">3</ls>; vgl. 
 <ls>AV. 5, 18, 9.</ls> <is>Manyu</is> heisst ein Sohn des <is>Tapas</is> 
 <ls>ṚV. ANUKR.</ls> — {#किं नु मलं किमजिनं किमु श्मश्रूणि किं तपः#} 
@@ -76,7 +76,7 @@
 <ls>7, 30. 22, 31.</ls> <ls>ŚAT. BR. 4, 3, 1, 19.</ls> {#तपस्तपस्यौ शिशिरः#} 
 <ls>SUŚR. 1, 19, 8.</ls> 
 <ls>P. 4, 4, 128</ls>, <is>Vārtt</is>. 
-<ls>2, Sch.</ls> <ls>COLEBR. Misc. Ess. I, 108.</ls> <ls>VP. 225.</ls> {#तपसि#} (so ist zu lesen) {#मन्दगभस्तिरभीषुमान्#} 
+<ls n="P. 4, 4,">2</ls>, Sch. <ls>COLEBR. Misc. Ess. I, 108.</ls> <ls>VP. 225.</ls> {#तपसि#} (so ist zu lesen) {#मन्दगभस्तिरभीषुमान्#} 
 <ls>ŚIŚ. 6, 63.</ls> Nach den Lexicographen <lex>m.</lex> 
 <ls>AK. 1, 1, 3, 15.</ls> 
 <ls>H. 153</ls> (nach dem <ls>Schol.</ls> auch n.). 

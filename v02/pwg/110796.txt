@@ -1,7 +1,7 @@
 <L>110796<pc>7-1086<k1>सुबाहु<k2>सुबाहु꣡
 {#सुबाहु꣡#}¦ 
 <div n="1"> 1) <lex>adj.</lex> 
-<ls>P. 6, 2, 119, Schol.</ls> {%schönarmig%} 
+<ls>P. 6, 2, 119</ls>, Schol. {%schönarmig%} 
 <ls>ṚV. 2, 32, 7.</ls> <ls n="ṚV.">8, 17, 8.</ls> <ls n="ṚV.">10, 86, 8.</ls> 
 <ls>VS. 11, 63.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. 
@@ -10,7 +10,7 @@
 <ls>KATHĀS. 56, 328. 58, 5.</ls> 
 <ls>LALIT. ed. Calc. 23, 21.</ls> <ls>WASSILJEW 40. 46.</ls> <ls>TĀRAN. 2. 10. fg.</ls> von <is>Kāśi</is> 
 <ls>MBH. 2, 1080.</ls> der <is>Cedi</is> 
-<ls>3, 2531.</ls> von <is>Videhā</is> 
+<ls n="MBH.">3, 2531.</ls> von <is>Videhā</is> 
 <ls>SCHIEFNER, Lebensb. 235 (5).</ls> ein Sohn <is>Dhṛtarāṣṭra's</is> 
 <ls>MBH. 1, 2729.</ls> <ls n="MBH. 1,">4542.</ls> <ls n="MBH. 1,">5461.</ls> <ls n="MBH.">6, 4349.</ls> <is>Matināra's</is> 
 <ls>HARIV. 1716.</ls> <is>Citraka's</is> 

@@ -4,7 +4,7 @@
 
 <div n="p">— {#आ#}, partic. {#आपृत#} {%beschäftigt%}: {#(गोकुलम्) अह्न्यापृतं निशि शयानमतिश्रमेण#} 
 (<ls>BURNOUF</ls>None; {%le jour enveloppés par le fils de Maya%}; nach unserer Meinung ist {#मयसूनुना#} mit {#पिहितान्#} zu verbinden) 
-<ls>BHĀG. P. 2, 7, 31.</ls> {#अह्न्यापृतार्तकरणा निशि निःशयानाः#} (BURNOUF: {%fatigués et tourmentés pendant le jours dans leurs organes%}) 
+<ls>BHĀG. P. 2, 7, 31.</ls> {#अह्न्यापृतार्तकरणा निशि निःशयानाः#} (<ls>BURNOUF</ls>: {%fatigués et tourmentés pendant le jours dans leurs organes%}) 
 <ls>3, 9, 10</ls>; vgl. {#आप्र#} . Die Form {#आपृणोति#} haben wir in der folgenden Stelle: {#नूनं प्रमत्तः कुरुते विकर्म यदिन्द्रियप्रीतय आपृणोति#} {%sich beschäftigen mit, nachgehen%} 
 <ls>BHĀG. P. 5, 5, 4.</ls> <ls>BURNOUF</ls> : {%lorsqu'il trouve du plaisir aux jouissances des sens%}; vgl. {#पर् (पृ), पृणोति प्रीतौ#} 
 <ls>DHĀTUP. 27, 12.</ls>
@@ -13,7 +13,7 @@
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 38.</ls> {#व्यापृत#} {%beschäftigt mit, bei%} (vorübergehend und zufällig oder von Amtswegen), = {#कर्मसचिव#} 
 <ls>H. 719.</ls> - <ls>BHĀG. P. 3, 12, 50.</ls> {#मा व्यापृतः परकार्येषु भूस्त्वम्#} {%kümmere dich nicht um fremde Angelegenheiten%} 
 <ls>MBH. 2, 2126.</ls> {#गोषु#} 
-<ls>4. 597.</ls> {#वित्तसंचये#} 
+<ls n="MBH. 2,">4.</ls> <ls n="MBH. 2,">597.</ls> {#वित्तसंचये#} 
 <ls>R. 2, 39, 14.</ls> {#तत्र#} 
 <ls>23, 30.</ls> {#इदमन्यस्मिन्कर्मणि व्यापृतं धनुः#} 
 <ls>ŚĀK. 159.</ls> 
@@ -31,6 +31,6 @@
 <ls>SĀH. D. 53, 9.</ls> {#यदस्यामाकृतौ शस्त्रं व्यापारयितुमिच्छसि#} 
 <ls>VID. 105.</ls> {#वनद्विपानां त्रासार्थम् - व्यापारितः शूलभृता#} 
 <ls>RAGH. 2, 38.</ls> {#आयुक्त = व्यापारित#} 
-<ls>P. 2, 3, 40,</ls> 
-<ls>Sch.</ls> Vgl. {#व्यापारण#} .
+<ls>P. 2, 3, 40</ls>, <ls>Sch.</ls>
+Vgl. {#व्यापारण#} .
 <LEND>

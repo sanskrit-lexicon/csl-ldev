@@ -1,7 +1,7 @@
 <L>42719<pc>4-0518<k1>परिघ<k2>परिघ꣡
 {#परिघ꣡#}¦ (von {#हन्#} mit {#परि#}) <lex>m.</lex> 
 <ls>P. 3, 3, 84</ls> ({#करणे#}).{# = पलिघ#} 
-<ls>8, 2, 22.</ls> 
+<ls n="P.">8, 2, 22.</ls> 
 <div n="1"> 1) {%ein eiserner Querbalken zum Verschliessen eines Thors%}; = {#अर्गल, अर्गला#} 
 <ls>H. 1004.</ls> 
 <ls>an. 3, 136.</ls> 
@@ -11,7 +11,7 @@
 <ls>SUŚR. 1, 278, 2. 2, 92, 12.</ls> Mit {#अर्गल#} verbunden: {#दत्तो विरूषकेणैव सुदीर्घः परिघार्गलः#} 
 <ls>VID. 218.</ls> Mit einem {#परिघ#} werden {%Arme%} und {%Lenden%} verglichen: {#°बाहवः#} 
 <ls>MBH. 1, 7072.</ls> {#बाहुभिः - आयसैः परिघैरिव#} 
-<ls>4, 358.</ls> <ls>N. 5, 5.</ls> {#भुजं °संकाशम्#} 
+<ls n="MBH.">4, 358.</ls> <ls>N. 5, 5.</ls> {#भुजं °संकाशम्#} 
 <ls>R. 2, 61, 7.</ls> {#°गुरुभिर्दोर्भिः#} 
 <ls>MĀLAV. 77.</ls> {#नगरपरिघप्रांशुबाहु#} (diese Stelle allein hat uns bewogen die Beispiele hierher und nicht zu 2 zu stellen) 
 <ls>ŚĀK. 48.</ls> {#ऊरू °संकाशौ#} 
@@ -38,8 +38,8 @@
 <ls>VARĀH. BṚH. S. 21, 26. 29, 2. 25. 30.</ls> {#परिघ इति मेघरेखा या तिर्यग्भास्करोदये ऽस्ते वा#} 
 <ls>46, 19 (20).</ls> {#कृष्णश्च परिघस्तत्र भानुमावृत्य तिष्ठति#} 
 <ls>MBH. 5, 4855.</ls> {#त्रिवर्णाः परिघाः संधौ भानुमन्तमावरयन्#} 
-<ls>6, 55.</ls> {#सकबन्धश्च परिघो भानुमावृत्य तिष्ठति#} 
-<ls>5206. 7, 2708.</ls> {#प्राक्संध्या परिघग्रस्ता#} 
+<ls n="MBH.">6, 55.</ls> {#सकबन्धश्च परिघो भानुमावृत्य तिष्ठति#} 
+<ls n="MBH. 6,">5206.</ls> <ls n="MBH.">7, 2708.</ls> {#प्राक्संध्या परिघग्रस्ता#} 
 <ls>HARIV. 4260.</ls> {#स्वर्भानुग्रस्त आदित्यः परिघैः परिवेष्टितः#} 
 <ls n="HARIV.">9297.</ls> {#सांध्य इव मेघपरिघः#} 
 <ls>ŚĀK. 99, 16.</ls> 
@@ -62,7 +62,7 @@
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 10) N. pr. eines Wesens im Gefolge des <is>Skanda</is> 
 <ls>MBH. 9, 2536.</ls> N. pr. eines <is>Cāṇḍāla</is> 
-<ls>12, 5028.</ls> eines frommen Mannes 
+<ls n="MBH.">12, 5028.</ls> eines frommen Mannes 
 <ls>Verz. d. B. H. 193, 17</ls> v. u. 
 <div n="v">— Vgl. {#पलिघ#} .
 <LEND>

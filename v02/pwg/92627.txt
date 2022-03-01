@@ -3,13 +3,13 @@
 <div n="1"> 1) <lex>adj.</lex> (f. {#ई#}) {%durchmessend, durchziehend, von einem Ende zum andern reichend%}; gewöhnlich in Verbindung mit {#रजसस्#}.{# रज^सो वि\मान^ं स\प्तच^क्र\ं रथ^म्#} 
 <ls>ṚV. 2, 40, 3.</ls> <ls n="ṚV.">3, 26, 7.</ls> <ls n="ṚV.">7, 87, 6.</ls> <ls n="ṚV.">10, 95, 17.</ls> <ls n="ṚV. 10,">121, 5.</ls> 
 <ls>AV. 9, 3, 15.</ls> {#पन्था^ः#} 
-<ls>4, 2, 3. <is>Soma</is></ls> <ls>ṚV. 9, 62, 14. <is>Gandharva</is> 10, 139, 5.</ls> {#अह्ना^म्#} 
-<ls>9, 86, 45.</ls> {#वि\मान^ ए\ष दि\वो मध्य^ आस्त आपप्रि\वान्रोद^सी अ\न्तरि^क्षम्#} 
+<ls n="ṚV.">4, 2, 3.</ls> <is>Soma</is> <ls>ṚV. 9, 62, 14.</ls> <is>Gandharva</is> <ls n="ṚV.">10, 139, 5.</ls> {#अह्ना^म्#} 
+<ls n="ṚV.">9, 86, 45.</ls> {#वि\मान^ ए\ष दि\वो मध्य^ आस्त आपप्रि\वान्रोद^सी अ\न्तरि^क्षम्#} 
 <ls>VS. 17, 59.</ls> die <is>Aśvin</is> 
 <ls>MBH. 1, 722</ls> ({#विगतं मानं प्रमासाधनं यतस्तौ#} 
 <ls>NĪLAK.</ls>). 
 <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>Verz. d. Oxf. H. 191,b,4.</ls> <ls>SIDDH. K. 249,a,10.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>Verz. d. Oxf. H. 191,b,4.</ls> <ls>SIDDH. K. 249,a,10.</ls> 
 <div n="2"> a) {%ein durch die Luft fliegender palastähnlicher Wagen der Götter%} (in den Märchen überh. {%ein durch die Luft fahrender Wagen%}) 
 <ls>AK. 1, 1, 1, 43. 66.</ls> 
 <ls>H. 89. 190.</ls> 
@@ -18,7 +18,7 @@
 <ls>RĀJA-TAR.4,72.</ls> <ls>BHĀG. P.2,9,12.3,15,20. 16,31. 23,12. 37. fg. 4,3,6.9,10. 56.5,1,8. 17,4.6,8,37.</ls> <ls>MĀRK. P. 15,67.</ls> <ls>PAÑCAR.1,7,46.</ls> <ls>Verz. d. Oxf. H. 78,b,26.</ls> {#नौ°#} {%schiffförmig%} 
 <ls>RAGH. 16, 68.</ls> {#विमानप्रतिमां तत्र मयेन सुकृतां सभाम्#} 
 <ls>MBH. 1, 132.</ls> <ls n="MBH.">2, 13.</ls> {#°प्रतिमः प्रासादः#} 
-<ls>13, 2832.</ls> {#°प्रतिमं गृहम्#} 
+<ls n="MBH.">13, 2832.</ls> {#°प्रतिमं गृहम्#} 
 <ls>Verz. d. Oxf. H. 32,a,5.</ls> {#तारा°#} 
 <ls>Ind. St. 10, 312.fg.</ls> 
 <div n="2">— b) {%ein kaiserlicher Palast%}, = {#सार्वभौमगृह#} 

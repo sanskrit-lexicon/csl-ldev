@@ -4,7 +4,7 @@
 <ls>P. 7, 2, 68.</ls> 
 <ls>VOP. 26, 134.</ls> {#अविक्षत्, अविक्षत, अविक्ष्महि; वेक्ष्यति#} (vgl. <is>Kār</is>. 
 <ls>5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>), {#वेष्टा, वेष्टुम्#} 
-<ls>P. 8, 2, 36, Schol.</ls> 
+<ls>P. 8, 2, 36</ls>, Schol. 
 <div n="1"> 1) {%sich niederlassen, hineintreten in, eingehen in, - bei, sich hineinbegeben in%} (loc. und acc.) 
 <ls>ŚAT. BR. 8, 6, 2, 5. 19. 14, 8, 13, 3.</ls> {#सोम^श्च\म्वो^ः#} 
 <ls>ṚV. 9, 103, 4.</ls> {#विविशुर्जाह्नवीतीरे#} {%liessen sich nieder%} 
@@ -41,7 +41,7 @@
 <ls>RĀJA-TAR. 5, 33.</ls> {#अविक्षत्सदः#} 
 <ls>BHAṬṬ. 11, 45.</ls> {#रङ्गम्#} 
 <ls>MBH. 3, 2193.</ls> {#आश्रमपदम्, आश्रमम्#} 
-<ls>2466.</ls> <ls>R. 1, 58, 9. 4, 13, 20.</ls> {#पुरीम्#} 
+<ls n="MBH. 3,">2466.</ls> <ls>R. 1, 58, 9. 4, 13, 20.</ls> {#पुरीम्#} 
 <ls>RAGH. 12, 18.</ls> 
 <ls>VARĀH. BṚH. S. 46, 66.</ls> 
 <ls>KATHĀS. 12, 23. 18, 118.</ls> 
@@ -185,7 +185,7 @@ u.s.w.) <ls>HARIV. 3471.</ls> <ls n="HARIV.">4540</ls> ({%auf dem Schauplatze au
 u.s.w. <ls>R. 1, 18, 22.</ls> <ls>KĀM. NĪTIS. 14, 39.</ls> <ls>BHĀG. P. 10, 64, 16</ls> (so v. a. {%heimkehren%} im Gegens. zu {#व्रज्)#}.{# नगरम्#} 
 <ls>DAŚAK. 69, 10.</ls> 
 <ls>BHAṬṬ. 3, 18.</ls> {#बिलम्#} 
-<ls>MBH. 1, 8379</ls> (med.). <ls>7294.</ls> {#गह्वरम्#} 
+<ls>MBH. 1, 8379</ls> (med.). <ls n="MBH. 1,">7294.</ls> {#गह्वरम्#} 
 <ls>RAGH. 2, 26.</ls> {#वनम्#} 
 <ls>R. 2, 43, 6</ls> (med.). <ls>BHĀG. P. 2, 7, 23.</ls> {#पातालम्#} 
 <ls>Spr. 1756.</ls> {#जलम्#} 
@@ -213,7 +213,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>MBH. 12, 2903.</ls> {#आविवेशांशभागेन मन आनकदुन्दुभेः#} 
 <ls>BHĀG. P. 10, 2, 16.</ls> {#आविशन्ति च यं यक्षाः#} {%fahren in, sich Jmdes bemächtigen%} 
 <ls>MBH. 3, 14507.</ls> <ls n="MBH. 3,">2256.</ls> {#मामकान्तरमाविशः#} 
-<ls>12, 2890. fgg.</ls> <ls>HARIV. 9478.</ls> {#संज्ञप्तमश्वमाविश्य तया मिश्रीबभूव सः#} 
+<ls n="MBH.">12, 2890. fgg.</ls> <ls>HARIV. 9478.</ls> {#संज्ञप्तमश्वमाविश्य तया मिश्रीबभूव सः#} 
 <ls n="HARIV.">11237.</ls> {#कन्दर्पः - आवेष्टुमभ्ययात्तूर्णं कृतोद्वाहमुमापतिम्#} 
 <ls>R. 1, 25, 10 (26, 11 GORR.).</ls> <ls>MĀRK. P. 51, 80. 101.</ls> {#सत्त्वमाविश्य भाषते#} 
 <ls>R. 2, 33, 10.</ls> {#आविशत्यप्रमत्तो ऽसौ प्रमत्तं जनमन्तकृत्#} 
@@ -228,7 +228,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 
 <ls>R. GORR. 1, 24, 4.</ls> {#मोहः#} 
 <ls>MBH. 1, 216.</ls> {#कश्मलम्#} 
-<ls>4, 1052.</ls> {#चिन्ता#} 
+<ls n="MBH.">4, 1052.</ls> {#चिन्ता#} 
 <ls>R. 2, 63, 44.</ls> {#वेपथुः#} 
 <ls>MBH. 5, 7279.</ls> {#आविवेशोपसर्गस्तं तमः सूर्यमिवासुरम्#} 
 <ls>R. 2, 63, 2.</ls> {#तस्मात्त्वां नाविशत्वाशु ब्रह्महत्या#} 
@@ -252,7 +252,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls n="ṚV.">9, 20, 5.</ls> {#रू\पाणि^#} {%Farben annehmen%} 
 <ls n="ṚV.">9, 25, 4.</ls> <ls>KAUŚ. 43.</ls> {#सुखम्#} 
 <ls>MBH. 5, 29.</ls> {#मन्युम्#} 
-<ls>13, 475.</ls> {#भयम्#} 
+<ls n="MBH.">13, 475.</ls> {#भयम्#} 
 <ls>R. 7, 22, 11.</ls> {#शोकम्#} 
 <ls>KATHĀS. 9, 20.</ls> {#उपशमम्#} 
 <ls>BHĀG. P. 6, 15, 26.</ls> {#मुख्यताम्#} 
@@ -318,7 +318,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>HIT. 126, 17.</ls> {#चिन्तया#} 
 <ls>R. 1, 55, 8.</ls> {#भयेन महता#} 
 <ls>MBH. 5, 7446.</ls> {#कश्मलाविष्ट#} 
-<ls>7177.</ls> {#तमसा#} 
+<ls n="MBH. 5,">7177.</ls> {#तमसा#} 
 <ls>HARIV. 2518.</ls> 
 <ls>BHĀG. P. 4, 28, 25.</ls> {#तपसा#} 
 <ls>HARIV. 2522.</ls> {#अधर्मेण#} 
@@ -326,7 +326,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>R. GORR. 2, 109, 66.</ls> {#विस्मयाविष्ट#} 
 <ls>BHAG. 11, 14.</ls> 
 <ls>MBH. 3, 2831.</ls> {#कृपया#} 
-<ls>5, 7159.</ls> {#करुणाविष्ट#} 
+<ls n="MBH.">5, 7159.</ls> {#करुणाविष्ट#} 
 <ls>RĀJA-TAR. 2, 43.</ls> {#हर्षेण महता#} 
 <ls>R. 5, 14, 33.</ls> {#जवेन महता#} {%von grosser Eile ergriffen%} 
 <ls>3, 60, 1.</ls> {#त्वराविष्ट#} 
@@ -337,7 +337,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>KATHĀS. 45, 60</ls> fehlerhaft für {#आवेश्य#} . 
 <div n="v">— Vgl. {#आवेश#} fg. — caus. {%eingehen machen, hineinbringen, hineinlassen; Jmd Etwas übergeben, mittheilen u.s.w.%} 
 <ls>AV. 4, 30, 2</ls> ?(vgl. <ls>ṚV. 10, 125, 3</ls>). {#मे\धाम्#} 
-<ls>6, 108, 3. 18, 4, 48.</ls> {#राष्ट्रि श्रियम्#} 
+<ls n="ṚV.">6, 108, 3.</ls> <ls n="ṚV.">18, 4, 48.</ls> {#राष्ट्रि श्रियम्#} 
 <ls>AIT. BR. 8, 27.</ls> {#स्वस्त्यावेशितं पसः#} {%ist glücklich hineingeschoben%} 
 <ls>ŚĀṄKH. ŚR. 12, 24, 6.</ls> {#ऊर्जे^ पु\ष्टं वसु^#} 
 <ls>AV. 7, 79, 3.</ls> {#तस्मि\न्ना वे^शया\ गिर^ः#} 
@@ -365,15 +365,15 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <div n="1"> 1) {%eingehen, fahren in, sich Jmdes bemächtigen%}: {#आत्मसृष्टमिदं विश्वमन्वाविश्य स्वशक्तिभिः#} 
 <ls>BHĀG. P. 10, 48, 19.</ls> {#ह्रीश्च क्रोधश्च बीभत्सुं क्षणेनान्वाविवेश ह#} 
 <ls>MBH. 1, 5389.</ls> {#मोहः#} 
-<ls>7, 1405.</ls> 
+<ls n="MBH.">7, 1405.</ls> 
 <div n="1">— 2) {%nachgehen, folgen, sich nach Etwas richten%}: {#यथा ह्येवेह प्रजा अन्वाविशन्ति यथानुशासनम्#} 
 <ls>CHĀND. UP. 8, 1, 5.</ls> {#तं धर्ममसुराः - नामृष्यन्त - विवर्धमानाः क्रमशस्तत्र ते ऽन्वाविशन्प्रजाः#} 
 <ls>MBH. 12, 10800.</ls>
 
 <div n="p">— {#अभ्या#} {%eingehen, eindringen —, fahren in%}: {#अनीकम्#} 
 <ls>MBH. 7, 5812.</ls> {#खं वायुमन्गिं सलिलं तथोर्वीं समं ततो ऽभ्याविशते शरीरी#} 
-<ls>12, 7412.</ls> {#भयं नाभ्याविशेत्तत्र#} {%Eingang finden%} 
-<ls>4, 933.</ls>
+<ls n="MBH.">12, 7412.</ls> {#भयं नाभ्याविशेत्तत्र#} {%Eingang finden%} 
+<ls n="MBH.">4, 933.</ls>
 
 <div n="p">— {#उपा#} 
 <div n="1"> 1) {%eingehen, eintreten in%}: {#पर्णशालाम्#} 
@@ -414,12 +414,12 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>MBH. 3, 4082.</ls> {#योगपथम्#} 
 <ls>BHĀG. P. 4, 4, 24.</ls> {#प्रपाश्च विपणांश्च यथोद्देशं समाविशेत्#} (so ed. Bomb. st. {#समादिशेत्#} der ed. Calc.) {%sich begeben zu%} 
 <ls>MBH. 12, 2648.</ls> {#तान्बाणाः समाविशन्#} {%drangen in%} 
-<ls>3, 12176.</ls> {#यदाणुमात्रिको भूत्वा बीजं स्थास्नु चरिष्णु च । समाविशति#} 
+<ls n="MBH.">3, 12176.</ls> {#यदाणुमात्रिको भूत्वा बीजं स्थास्नु चरिष्णु च । समाविशति#} 
 <ls>M. 1, 56.</ls> {#सर्वलोकम्#} {%durchdringen%} 
 <ls>HARIV. 9746.</ls> {#शब्दः स्पर्शश्च रूपं च रसमात्रं#} (acc.) {#समाविशत्#} 
 <ls>MĀRK. P. 45, 54.fg.</ls> {#अक्षान्#} {%fahren in%} (von einem bösen Geiste) 
 <ls>MBH. 3, 2253.</ls> {#नलम्#} 
-<ls>2257.</ls> {#नाहमद्य समावेष्टुं शक्यः काम पुनस्त्वया#} 
+<ls n="MBH. 3,">2257.</ls> {#नाहमद्य समावेष्टुं शक्यः काम पुनस्त्वया#} 
 <ls>Spr. 4524.</ls> {#कुब्जाः केन कृता यूयं समाविश्य दुरात्मना#} 
 <ls>R. GORR. 1, 35, 23.</ls> {#नन्ददेहान्तरिन्द्रदत्तः समाविशत्#} 
 <ls>KATHĀS. 4, 101.</ls> 
@@ -427,11 +427,11 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>BHĀG. P. 4, 7, 51.</ls> {#चक्षुरपि प्रजानामीषत्तमश्चापि समाविवेश#} {%Finsterniss kam über%} 
 <ls>HARIV. 16032.</ls> {#ग्लानिश्चैनं समाविशत्#} 
 <ls>MBH. 1, 8142.</ls> {#दर्पः#} 
-<ls>3, 8493.</ls> {#कोपः#} 
-<ls>11092 (S. 572).</ls> {#मोहः#} 
+<ls n="MBH.">3, 8493.</ls> {#कोपः#} 
+<ls n="MBH. 3,">11092</ls> (S. 572). {#मोहः#} 
 <ls>R. 4, 60, 15.</ls> {#रजस्तमश्चैव#} 
 <ls>MBH. 12, 13280.</ls> {#प्रमत्तमर्था हि नरं समन्तात्त्यजन्त्यनर्थाश्च समाविशन्ति#} 
-<ls>10, 561.</ls> {#लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम्#} {%einkehren%} 
+<ls n="MBH.">10, 561.</ls> {#लक्ष्मीः समाविशतु गच्छतु वा यथेष्टम्#} {%einkehren%} 
 <ls>Spr. 1581.</ls> 
 <div n="1">— 2) {%sich niederlassen an einem Orte%}: {#तस्मिन्देशे#} 
 <ls>MBH. 13, 1971.</ls> {%Platz nehmen auf, sich setzen%}: {#शय्यासने#} (loc.). 
@@ -440,7 +440,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>Spr. (II) 1478, v. l.</ls> 
 <div n="1">— 3) {%in einen Zustand eingehen, gerathen in%}: {#कोपम्#} 
 <ls>MBH. 13, 2778.</ls> {#अहंकारम्#} 
-<ls>4752.</ls> 
+<ls n="MBH. 13,">4752.</ls> 
 <div n="1">— 4) {%gehen an, obliegen%}: {#तांस्तान्धर्मविधीन्#} 
 <ls>R. 7, 10, 2.</ls> 
 <div n="1">— 5) {#समाविष्ट#} {%ergriffen —, überwältigt von%}: {#रुजाश्वास°#} 
@@ -449,15 +449,15 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>Spr. 4748.</ls> {#जराशोक°#} 
 <ls>M. 6, 77.</ls> {#भयशोक°#} 
 <ls>MBH. 3, 2273.</ls> {#तीव्रशोक°#} 
-<ls>2958.</ls> <ls>R. 2, 66, 8.</ls> {#मन्यु°#} 
+<ls n="MBH. 3,">2958.</ls> <ls>R. 2, 66, 8.</ls> {#मन्यु°#} 
 <ls>R. GORR. 1, 60, 7.</ls> {#कोपेन#} 
 <ls>KĀM. NĪTIS. 14, 18.</ls> {#कोप°#} 
 <ls>R. 1, 60, 11.</ls> {#क्रोध°#} 
 <ls>64, 11.</ls> <ls>MBH. 1, 5920.</ls> {#तीव्ररोष°#} 
-<ls>3, 2397.</ls> {#रोषामर्ष°#} 
+<ls n="MBH.">3, 2397.</ls> {#रोषामर्ष°#} 
 <ls>R. GORR. 1, 76, 21.</ls> {#मदकाम°#} 
 <ls>MBH. 1, 7725.</ls> {#मन्मथ°#} 
-<ls>4, 418.</ls> {#कामभार°#} 
+<ls n="MBH.">4, 418.</ls> {#कामभार°#} 
 <ls>R. 3, 23, 18.</ls> {#बाष्प°#} 
 <ls>2, 93, 1.</ls> {#कौतूहल°#} 
 <ls>Verz. d. Oxf. H. 13,b,42.fg.</ls> {#सत्त्व°#} {%erfüllt von%} 
@@ -469,7 +469,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <div n="v">— Vgl. {#समावेश#} . — — caus. 
 <div n="1"> 1) {%hineingehen lassen%}: das Glied 
 <ls>KAUŚ. 79.</ls> {#प्रस्थं स्वस्मिन्समावेशयति कटाहः#} {%nimmt in sich auf, enthält%} 
-<ls>P. 5, 1, 52, Schol.</ls> {%an einen Ort bringen, - führen%}: {#स्त्रीबालवृद्धानादाय - इन्द्रप्रस्थं समावेश्य#} 
+<ls>P. 5, 1, 52</ls>, Schol. {%an einen Ort bringen, - führen%}: {#स्त्रीबालवृद्धानादाय - इन्द्रप्रस्थं समावेश्य#} 
 <ls>BHĀG. P. 11, 31, 25.</ls> {%eingehen lassen in%} so v. a. {%richten auf%}: {#आत्मानमात्मनि#} 
 <ls>MBH. 12, 1590.</ls> {#तस्मिन्समावेंशितचित्तवृत्तिः#} 
 <ls>RAGH. 6, 70.</ls> {#भगवति मनः#} 
@@ -479,7 +479,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>R. 7, 94, 9.</ls> 
 <div n="1">— 3) {%aufbürden, übertragen%}: {#कथं दुरात्मनि समावेशयसे सर्वम्#} 
 <ls>MBH. 2, 1544.</ls> {#पौत्रे भारम्#} 
-<ls>3, 9913.</ls> <ls>R. 1, 71, 14.</ls> {#तस्मिन्राज्यम्#} 
+<ls n="MBH.">3, 9913.</ls> <ls>R. 1, 71, 14.</ls> {#तस्मिन्राज्यम्#} 
 <ls>R. GORR. 1, 44, 3.</ls> <ls>MĀRK. P. 53, 42.</ls> {#यस्मिन्कृत्यम्#} 
 <ls>Spr. 2421.</ls>
 
@@ -592,7 +592,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>GOBH. 3, 4, 24.</ls> 
 <ls>CHĀND. UP. 1, 10, 8. 4, 1, 8. 6, 1.</ls> 
 <ls>MBH. 1, 2222.</ls> <ls n="MBH. 1,">4914.</ls> <ls n="MBH.">3, 12321.</ls> <ls n="MBH. 3,">11777.</ls> {#उपोपविष्ट#} mit act. Bed. 
-<ls>1, 6959.</ls> <ls>R. 2, 1, 35. 104, 27. fg.</ls> mit pass. Bed. <ls>MBH. 5, 4644.</ls> <ls>R. 1, 4, 26. 5, 45, 11.</ls>
+<ls n="MBH.">1, 6959.</ls> <ls>R. 2, 1, 35. 104, 27. fg.</ls> mit pass. Bed. <ls>MBH. 5, 4644.</ls> <ls>R. 1, 4, 26. 5, 45, 11.</ls>
 [Page6-1194]
 
 <div n="p">— {#समुपोप#} {%sich setzen%}: {#°विष्टा शयने#} 
@@ -623,9 +623,9 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>ŚĀṄKH. ŚR. 10, 21, 14.</ls> 
 <ls>CHĀND. UP. 1, 8, 2.</ls> {#मञ्चेषु#} 
 <ls>MBH. 1, 6970.</ls> {#नदीकूले#} 
-<ls>8479. 2, 2289. 3, 16884.</ls> <ls>R. 4, 31, 29.</ls> <ls>KATHĀS. 50, 107.</ls> {#पद्भ्यामनुचिता गन्तुं द्रौपदी समुपाविशत्#} 
+<ls n="MBH. 1,">8479.</ls> <ls n="MBH.">2, 2289.</ls> <ls n="MBH.">3, 16884.</ls> <ls>R. 4, 31, 29.</ls> <ls>KATHĀS. 50, 107.</ls> {#पद्भ्यामनुचिता गन्तुं द्रौपदी समुपाविशत्#} 
 <ls>MBH. 3, 10986.</ls> <ls n="MBH.">1, 6242.</ls> {#आस्रवृक्षस्य च्छायायाम्#} 
-<ls>2, 703. 3, 11990.</ls> {#आसने#} 
+<ls n="MBH.">2, 703.</ls> <ls n="MBH.">3, 11990.</ls> {#आसने#} 
 <ls>VIKR. 81, 14.</ls> {#चर्मणामुपरि#} 
 <ls>VARĀH. BṚH. S. 48, 75.</ls> 
 <ls>KATHĀS. 12, 141.</ls> 
@@ -656,7 +656,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>SARVADARŚANAS. 150, 20.</ls> {#शिलीमुखाः - न्यविशन्त रसातलम्#} {%drangen in%} 
 <ls>R. 3, 31, 20.</ls> {#महीं निविशते रविः#} {%die Sonne dringt%} (mit ihren Strahlen) {%in die Erde%} 
 <ls>MBH. 3, 136.</ls> {#तौ चापि केशौ निविशेतां यदूनां कुले स्त्रियौ देवकीं रोहिणीं च#} {%gingen ein in%} 
-<ls>1, 7308.</ls> <ls>WILSON, SĀṂKHYAK. S. 62.</ls> {#ज्ञेयपदे#} {%in den Bereich des Erkennbaren treten%} 
+<ls n="MBH.">1, 7308.</ls> <ls>WILSON, SĀṂKHYAK. S. 62.</ls> {#ज्ञेयपदे#} {%in den Bereich des Erkennbaren treten%} 
 <ls>SARVADARŚANAS. 101, 7. 8.</ls> {#देहस्यापचयो मतौ निविशते#} {%dringt in den Geist%} so v. a. {%kommt zum Bewusstsein%} 
 <ls>Spr. 1973.</ls> 
 <div n="1">— 2) {%sich flüchten zu%} (acc.) 
@@ -670,7 +670,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>ṚV. 10, 44, 6.</ls> 
 <div n="1">— 5) {%sich niederlassen%} so v. a. {%ein Haus gründen, heirathen%} (vom Manne) 
 <ls>MBH. 1, 1852.</ls> <ls n="MBH. 1,">1860.</ls> {#निवेष्टुकाम#} 
-<ls>13, 1391</ls>; vgl. unter {#निस्#} 2). 
+<ls n="MBH.">13, 1391</ls>; vgl. unter {#निस्#} 2). 
 <div n="1">— 6) {%gegründet werden%}: {#द्वारवत्यां निविशन्त्याम्#} 
 <ls>MBH. 13, 3544.</ls> <ls n="MBH. 13,">3453</ls> ({#निर्विश°#} ed. Calc. {#निवि°#} ed. Bomb.). 
 <ls>HARIV. 2043</ls> ({#निवसन्त्याम्#} die neuere Ausg., welches 
@@ -681,7 +681,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>Spr. (II) 894.</ls> {%obliegen%}: {#स्वधर्मे#} 
 <ls>M. 2, 8.</ls> {#अर्थे#} 
 <ls>MBH. 7, 3073.</ls> {#तदा वर्णा यथाधर्मं निविशेयुः कथंचन#} 
-<ls>12, 2933.</ls> 
+<ls n="MBH.">12, 2933.</ls> 
 <div n="1">— 8) {%zukommen%} (Gegens. {%abgehen)%}: {#(गुणः) सत्त्वे निविशते ऽपैति#} Cit. bei 
 <ls>VOP.</ls> zu <ls>4, 16.</ls> so v. a. {%zur Anwendung kommen%} 
 <ls>KĀTY. ŚR. Comm. 56, 3</ls> (act.). <ls>57, 24. 58, 2.</ls> 
@@ -741,8 +741,8 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <div n="2">— i) {%obliegend, bedacht auf%}: {#स्वे स्वे धर्मे#} 
 <ls>M. 7, 35.</ls> {#पाण्डवार्थे#} 
 <ls>MBH. 1, 171.</ls> {#सर्वभूतप्रशमे#} 
-<ls>5, 1090.</ls> {#शमे#} 
-<ls>13, 3401.</ls> {#सत्ये#} 
+<ls n="MBH.">5, 1090.</ls> {#शमे#} 
+<ls n="MBH.">13, 3401.</ls> {#सत्ये#} 
 <ls>HARIV. 9635.</ls> {#मन्त्रहिते#} 
 <ls>R. 1, 7, 18.</ls> {#गुणे#} 
 <ls>20, 24</ls> ({#गुणैः#} {%versehen mit%} 
@@ -778,7 +778,7 @@ so v. a. {%geschlechtlichen Umgang haben%}
 <ls>DAŚAK. 76, 10. fgg.</ls> {%anlegen, gründen%} (eine Stadt 
 u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.</ls> <ls n="HARIV.">6392.</ls> <ls>R. 1, 5, 9.</ls> <ls>R. GORR. 2, 73, 16. 7, 11, 48. fg. 70, 17. 79, 17.</ls> <ls>MĀRK. P. 66, 10.</ls> {#न्यवेशयन्नामभिः स्वैस्ते देशांश्च पुराणि च#} 
 <ls>MBH. 1, 2365.</ls> {#वीरेण ह्रदाः पञ्च निवेशिताः#} 
-<ls>3, 5097.</ls> {#आश्रमम्#} 
+<ls n="MBH.">3, 5097.</ls> {#आश्रमम्#} 
 <ls>R. 3, 16, 35.</ls> {%bevölkern, bewohnt machen%}: {#पुरीम्#} 
 <ls>HARIV. 1542.</ls> <ls n="HARIV.">1546.</ls> <ls n="HARIV.">1591.</ls> 
 <ls>R. 7, 72, 10.</ls> 
@@ -887,7 +887,7 @@ u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.
 <ls>BHĀG. P. 1, 15, 33.</ls> {#ध्येये ध्यानम्#} 
 <ls>Spr. 3313.</ls> 
 <div n="v">— Vgl. {#निवेशन, निवेश्य#} . — desid. {#निविविक्षते#} 
-<ls>P. 1, 3, 62, Schol.</ls>
+<ls>P. 1, 3, 62</ls>, Schol.
 
 <div n="p">— {#अधिनि#} caus. 
 <div n="1"> 1) {%setzen über%}: {#चतसृष्वाशास्वात्मयोनिना - अधिनिवेशिता ये द्विरदपतयः#} 
@@ -899,7 +899,7 @@ u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.
 <ls>P. 1, 4, 47.</ls> 
 <ls>VOP. 5, 2.</ls> 
 <div n="1"> 1) {%eintreten in%}: {#ग्राममभिनिविशते#} 
-<ls>P. 1, 4, 47, Schol.</ls> {#(नदी) नदनदीपतिमभिनिविशति#} {%ergiesst sich in%} 
+<ls>P. 1, 4, 47</ls>, Schol. {#(नदी) नदनदीपतिमभिनिविशति#} {%ergiesst sich in%} 
 <ls>BHĀG. P. 5, 17, 5.</ls> {#अभिन्यविक्षथास्त्वं मे यथैवाव्याहता मनः#} {%eindringen in%} so v. a. {%sich bemeistern%} 
 <ls>BHAṬṬ. 8, 80.</ls> 
 <div n="1">— 2) {%sich in Etwas%} (acc.) {%versenken, sich ganz hingeben%}: {#धर्मानभिनिविश्य#} 
@@ -963,7 +963,7 @@ u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.
 <ls>ŚAT. BR. 4, 3, 4, 11. 14, 1, 1, 7. 4, 1, 19.</ls>
 
 <div n="p">— {#प्रणि#} 
-<ls>P. 8, 4, 18, Schol.</ls>
+<ls>P. 8, 4, 18</ls>, Schol.
 
 <div n="p">— {#प्रतिनि#}, partic. {#°विष्ट#} {%ganz mit Etwas beschäftigt, nur für Eines Sinn habend%}: {#सीतायाम्#} 
 <ls>R. 6, 11, 35.</ls> ohne Ergänzung so v. a. {%auf seinem Kopfe bestehend, verstockt%}: {#दैव#} 
@@ -1009,7 +1009,7 @@ u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.
 <div n="1">— 8) {%bringen —, versetzen auf%}: {#पथि विनिवेशितात्मनाम्#} 
 <ls>KĀM. NĪTIS. 3, 38.</ls> {%Jmd anstellen%}: {#सारथ्ये#} 
 <ls>MBH. 5, 5253.</ls> {#करे#} so v. a. {%tributpflichtig machen%} 
-<ls>2, 1035.</ls> 
+<ls n="MBH.">2, 1035.</ls> 
 <div n="1">— 9) {#हृदये#} {%in's Herz prägen%}: {#हृदये कुशलैर्विनिवेशिता । शिक्षा#} 
 <ls>Spr. 2605.</ls> 
 <div n="1">— 10) {%richten%} (Blick, Gedanken) {%auf Etwas%}: {#गोविन्दे विनिवेशितां दृष्टिम्#} 
@@ -1032,7 +1032,7 @@ u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 160.</ls> <ls>SUŚR.1, 97, 13. 342, 8. 347, 15.</ls> <ls>RAGH. 6, 47.</ls>
 [Page6-1199]
 {#पङ्क्त्यादिसूत्र°#} 
-<ls>P. 5, 3, 56, Schol.</ls> {#अ°#} 
+<ls>P. 5, 3, 56</ls>, Schol. {#अ°#} 
 <ls>R. 2, 21, 57.</ls> 
 <div n="2">— c) {%sitzend%} 
 <ls>MBH. 2, 2000.</ls> 
@@ -1057,7 +1057,7 @@ u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.
 <ls>1, 38, 17.</ls> 
 <div n="1">— 3) {%aufstellen%}: Truppen 
 <ls>MBH. 6, 2407.</ls> {%sich lagern lassen%}: {#बलं द्वारकायाम्#} 
-<ls>3, 665.</ls> <ls>R. 2, 85, 15 (92, 24 GORR.).</ls> <ls>KATHĀS. 46, 48. 103, 103.</ls> 
+<ls n="MBH.">3, 665.</ls> <ls>R. 2, 85, 15 (92, 24 GORR.).</ls> <ls>KATHĀS. 46, 48. 103, 103.</ls> 
 <div n="1">— 4) {%einbringen, hineinstecken, thun in%}: {#अप्सु शरीरम्#} 
 <ls>M. 11, 202</ls> ({#संनिवेश्य#} bei 
 <ls>LOIS.</ls> zu lesen). <ls>MBH. 13, 237.</ls> <ls>SUŚR. 2, 55, 16.</ls> {#तेषां त्ववयवान् - संनिवेश्यात्ममात्रासु#} 
@@ -1101,7 +1101,7 @@ u.s.w.) <ls>HARIV. 1846. fg.</ls> <ls n="HARIV.">5169.</ls> <ls n="HARIV.">5211.
 <div n="1">— 2) {%ein Haus beziehen, heirathen%} (vom Manne): {#निर्विषन्#} (lies {#निर्विशन्#}) {%heirathend%} und {#अनिर्विष्ट#} {%nicht verheirathet%} s. u. {#परिविण#} . 
 <div n="1">— 3) {%abtragen, bezahlen%}: {#निर्वेष्टुं भर्तृपिण्डम्#} 
 <ls>MBH. 8, 637.</ls> {#अस्ति नूनं कर्म कृतं पुरस्तादनिर्विष्टं पापकं धार्तराष्ट्रैः#} 
-<ls>5, 1816.</ls> 
+<ls n="MBH.">5, 1816.</ls> 
 <div n="1">— 4) {%geniessen, Genuss —, Freude an Etwas haben%}; act. mit acc.: {#प्रदोषान्#} 
 <ls>RAGH. 6, 34.</ls> {#मधुम्#} 
 <ls>9, 35.</ls> {#इन्द्रियसुखानि#} 
@@ -1273,8 +1273,8 @@ u.s.w.) <ls>ĀŚV. GṚHY. 4, 4, 11.</ls> <ls>MBH. 3, 2145.</ls> <ls n="MBH. 3,"
 <ls>3, 33, 29.</ls> {#प्रविष्टाः स्मः पारमेश्वरं सिद्धान्तम्#} so v. a. {%eingeführt —, eingeweiht in%} 
 <ls>PRAB. 57, 14.</ls> {#कर्मोदये बुद्धिमतिप्रविष्टाम्#} 
 <ls>MBH. 3, 12735.</ls> {#विदुषां मते#} so v. a. {%übereinstimmend mit%} 
-<ls>12, 6677.</ls> Ohne Ergänzung {%eingetreten%} (sc. in's Haus u. s. w.) von Personen 
-<ls>3, 2158. 4, 1000.</ls> <ls>KATHĀS. 18, 83. 193. 52, 32.</ls> <ls>RĀJA-TAR. 5, 58.</ls> {%aufgetreten%} (auf der Bühne) 
+<ls n="MBH.">12, 6677.</ls> Ohne Ergänzung {%eingetreten%} (sc. in's Haus u. s. w.) von Personen 
+<ls n="MBH.">3, 2158.</ls> <ls n="MBH.">4, 1000.</ls> <ls>KATHĀS. 18, 83. 193. 52, 32.</ls> <ls>RĀJA-TAR. 5, 58.</ls> {%aufgetreten%} (auf der Bühne) 
 <ls>VIKR. 71, 11.</ls> {#कालपाश#} so v. a. {%durchgezogen%} 
 <ls>RĀJA-TAR. 5, 13.</ls> {#अम्बु#} {%eingedrungen%} 
 <ls>271.</ls> {#तमस्#} 
@@ -1325,9 +1325,9 @@ u.s.w.) <ls>ĀŚV. GṚHY. 4, 4, 11.</ls> <ls>MBH. 3, 2145.</ls> <ls n="MBH. 3,"
 <ls>HARIV. 7664</ls> (med.). {#यष्टिं पुरं पौरैः#} ({%bringen lassen%}) 
 <ls>VARĀH. BṚH. S. 43, 24.</ls> {#अप्सु दण्डम्#} 
 <ls>M. 9, 244.</ls> {#सपत्त्रशरमस्य शरीरे#} 
-<ls>P. 5, 4, 61, Schol.</ls> {#पतंगिकानां पुच्छेषु त्वयेषीका प्रवेशिता#} 
+<ls>P. 5, 4, 61</ls>, Schol. {#पतंगिकानां पुच्छेषु त्वयेषीका प्रवेशिता#} 
 <ls>MBH. 1, 4332.</ls> {#तस्य पादौ च पाणी च शिरो ग्रीवां च सर्वशः । काये प्रवेशयामास पशोरिव पिनाकधृक् ॥#} 
-<ls>4, 779.</ls> {#बृहद्वक्षस्तां सत्रपां प्रवेशयन्निव#} 
+<ls n="MBH.">4, 779.</ls> {#बृहद्वक्षस्तां सत्रपां प्रवेशयन्निव#} 
 <ls>RĀJA-TAR. 4, 435.</ls> {#अर्धं (निधेः) कोशे#} 
 <ls>M. 8, 38.</ls> {#प्रवेशितश्च तैः सर्पैः स कृष्णो भोगबन्धनम्#} 
 <ls>HARIV. 3664.</ls> {#रामेषुभिर्दीर्घनिद्रां प्रवेशितः#} {%versetzt in%} 
@@ -1355,8 +1355,8 @@ u.s.w.) <ls>MBH. 3, 2954.</ls> <ls n="MBH. 3,">2956.</ls> <ls>R. GORR. 1, 75, 11
 <ls>VARĀH. BṚH. S. 43, 28.</ls> 
 <div n="v">— Vgl. {#प्रवेशन, प्रवेशयितव्य, प्रवेश्य#} . — desid. {#प्रविविक्षति#} {%hineinzugehen —, einzudringen beabsichtigen%}: {#शैलान्#} 
 <ls>MBH. 3, 10836.</ls> {#सेनाम्#} 
-<ls>7, 4359.</ls> mit Ergänzung von {#सेनाम्#} 
-<ls>6, 139 = 12, 3767</ls> (in der Calc. Ausg. fälschlich {#विवक्षतः)#}.{# हुताशनम्#} 
+<ls n="MBH.">7, 4359.</ls> mit Ergänzung von {#सेनाम्#} 
+<ls n="MBH.">6, 139</ls> = <ls n="MBH.">12, 3767</ls> (in der Calc. Ausg. fälschlich {#विवक्षतः)#}.{# हुताशनम्#} 
 <ls>R. GORR. 2, 18, 17.</ls> 
 <div n="v">— Vgl. {#प्रविविक्षु#} .
 
@@ -1372,7 +1372,7 @@ u.s.w.) <ls>MBH. 3, 2954.</ls> <ls n="MBH. 3,">2956.</ls> <ls>R. GORR. 1, 75, 11
 <ls>DAŚAK. 71, 5.</ls> 
 <ls>PAÑCAT. ed. orn. I, 89.</ls> {#तान्बाणाः#} 
 <ls>MBH. 3, 12178.</ls> {#बाणैर्महारथानीकम्#} 
-<ls>9, 1337.</ls> {#स्नेहस्त्वगादीन्#} 
+<ls n="MBH.">9, 1337.</ls> {#स्नेहस्त्वगादीन्#} 
 <ls>SUŚR. 1, 36, 20.</ls> {#यतो न वेदा मनसा सहैनमनुप्रविशन्ति#} 
 <ls>MBH. 5, 1622.</ls> 
 <ls>HARIV. 3140.</ls> {#अप्सु#} 
@@ -1430,11 +1430,11 @@ u.s.w.) <ls>MBH. 3, 2954.</ls> <ls n="MBH. 3,">2956.</ls> <ls>R. GORR. 1, 75, 11
 <ls>4, 514.</ls> {#सरस्वती । देवस्य वदने साक्षात्संप्रविष्टा#} 
 <ls>KATHĀS. 6, 140.</ls> {#समुद्रम्#} 
 <ls>MBH. 1, 3339.</ls> {#जलम्#} 
-<ls>13, 2646.</ls> {#ज्वलितं जातवेदसम्#} 
-<ls>7, 2606.</ls> {#यदस्य वारिजं किंचिदपस्तत्संप्रवेक्ष्यति#} 
-<ls>14, 796.</ls> {#अदितिं देवाः सर्वे#} 
+<ls n="MBH.">13, 2646.</ls> {#ज्वलितं जातवेदसम्#} 
+<ls n="MBH.">7, 2606.</ls> {#यदस्य वारिजं किंचिदपस्तत्संप्रवेक्ष्यति#} 
+<ls n="MBH.">14, 796.</ls> {#अदितिं देवाः सर्वे#} 
 <ls>HARIV. 173</ls> = <ls>VP.</ls> bei <ls>MUIR, ST. 4, 104.</ls> <ls>MBH. 13, 2291.</ls> {#गात्राणि#} (so die ed. Bomb.) {#गात्रैरस्याहं संप्रवेक्ष्ये हि रक्षितुम्#} 
-<ls>2293.</ls> {#छिन्नाभ्राणीव संपेतुः संप्रविश्य परस्परम् (मातङ्गाः)#} 
+<ls n="MBH. 13,">2293.</ls> {#छिन्नाभ्राणीव संपेतुः संप्रविश्य परस्परम् (मातङ्गाः)#} 
 <ls>MBH. 7, 838.</ls> {#मानसम्#} {%in Jmdes Herz sich Eingang verschaffen%} 
 <ls>RĀJA-TAR. 8, 1614.</ls> {#ध्यानम्#} {%in Gedanken gerathen%} 
 <ls>R. 7, 26, 52.</ls> 
@@ -1474,8 +1474,8 @@ u.s.w.) <ls>MBH. 3, 2954.</ls> <ls n="MBH. 3,">2956.</ls> <ls>R. GORR. 1, 75, 11
 [Page6-1204]
 {#गन्धर्वाश्चापि यं दिव्याः संविशन्ति नरम्#} 
 <ls>MBH. 3, 14505.</ls> {#बह्वीर्योनीः#} 
-<ls>13, 1923.</ls> {#ब्राह्मीं तनुम्#} 
-<ls>12, 7171</ls> (med.). {#यस्मिन्प्राणः पञ्चधा संविवेश#} 
+<ls n="MBH.">13, 1923.</ls> {#ब्राह्मीं तनुम्#} 
+<ls n="MBH.">12, 7171</ls> (med.). {#यस्मिन्प्राणः पञ्चधा संविवेश#} 
 <ls>MUṆḌ. UP. 3, 1, 9.</ls> {#आत्मैव संविशत्यात्मनात्मानम्#} 
 <ls>MĀṆḌ. UP. 12.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 134.</ls> {#विधिं ह्याद्यं विधयो संविशन्ति#} {%gehen auf in%} 
 <ls>MBH. 13, 3539.</ls> 
@@ -1490,8 +1490,8 @@ u.s.w.) <ls>MBH. 3, 2954.</ls> <ls n="MBH. 3,">2956.</ls> <ls>R. GORR. 1, 75, 11
 <ls>M. 2, 194. 4, 55. 76. 7, 225.</ls> 
 <ls>YĀJÑ. 1, 114. 330.</ls> 
 <ls>MBH. 1, 688.</ls> <ls n="MBH. 1,">4299.</ls> {#शयनीये मया सह#} 
-<ls>4712</ls> (med.). {#चरमं संविशति या प्रथमं प्रतिबुध्यते#} 
-<ls>2, 2177. 3, 13149. 13, 1456. 2745.</ls> <ls>R. 2, 53, 5.</ls> <ls>R. GORR. 2, 8, 56. 53, 7. 4, 34, 3. 55, 16. 20. fg. 5, 92, 19.</ls> <ls>SUŚR. 2, 165, 11.</ls> <ls>KATHĀS. 56, 316.</ls> <ls>BHĀG. P. 4, 26, 11. 7, 13, 26. 10, 15, 46.</ls> {#शाद्वलोपरि#} 
+<ls n="MBH. 1,">4712</ls> (med.). {#चरमं संविशति या प्रथमं प्रतिबुध्यते#} 
+<ls n="MBH.">2, 2177.</ls> <ls n="MBH.">3, 13149.</ls> <ls n="MBH.">13, 1456.</ls> <ls n="MBH. 13,">2745.</ls> <ls>R. 2, 53, 5.</ls> <ls>R. GORR. 2, 8, 56. 53, 7. 4, 34, 3. 55, 16. 20. fg. 5, 92, 19.</ls> <ls>SUŚR. 2, 165, 11.</ls> <ls>KATHĀS. 56, 316.</ls> <ls>BHĀG. P. 4, 26, 11. 7, 13, 26. 10, 15, 46.</ls> {#शाद्वलोपरि#} 
 <ls>20, 30.</ls> {#व्याधितैर्न संविशेत्#} {%er schlafe nicht mit Kranken%} 
 <ls>YĀJÑ. 1, 138.</ls> {#शय्याम्#} {%sich auf's Bett legen%} 
 <ls>R. 2, 46, 14 (44, 14 GORR.).</ls> {#संविष्ट#} {%zur Ruhe gegangen, schlafend, ruhend%} 
@@ -1535,7 +1535,7 @@ u.s.w.) <ls>MBH. 3, 2954.</ls> <ls n="MBH. 3,">2956.</ls> <ls>R. GORR. 1, 75, 11
 
 <div n="p">— {#अभिसम्#} {%sich vereinigen um —, bei%} 
 <ls>AV. 3, 3, 4.</ls> {#इ\मां मे\थिम^भि\संवि^शध्वम्#} 
-<ls>8, 5, 20.fg.</ls> {#आ\त्मना\त्मान^म्#} 
+<ls n="AV.">8, 5, 20. fg.</ls> {#आ\त्मना\त्मान^म्#} 
 <ls>VS. 32, 11.</ls> {#इन्द्र^ं दे\वाः#} 
 <ls>13, 25.</ls> <ls>ŚAT. BR. 14, 4, 1, 19.</ls> <ls>TBR. 2, 7, 16, 3. 3, 1, 2, 7.</ls> <ls>CHĀND. UP. 1, 11, 5. 3, 6, 2.</ls> {#यत्प्रयन्त्यभिसंविशन्ति#} {%aufgehen in%} 
 <ls>TAITT. UP. 3, 1. fgg.</ls> <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 72. 100.</ls>

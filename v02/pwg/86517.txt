@@ -25,7 +25,7 @@
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="1">— 4) {%unterdrücken, beseitigen, verschwinden machen%}: {#लु꣡प्यते#} und {#लुप्य꣡ते#} {%unterdrückt werden, verschwinden, verlorengehen, abfallen, ausfallen%} (von Worten, Silben, Buchstaben): {#नवाहं लुम्पेत्#} 
 <ls>WEBER, Nakṣ. 2, 285.</ls> {#ह्रस्वम् लुम्पन्ति#} 
-<ls>ṚV. PRĀT. 14, 13. 15. 19. fg. <is>Kār</is>.</ls> zu <ls>P. 6, 1, 144.</ls> {#उदात्तस्तावत्सर्वान्स्वराँल्लुम्पति#} 
+<ls>ṚV. PRĀT. 14, 13. 15. 19. fg.</ls> <is>Kār</is>. zu <ls>P. 6, 1, 144.</ls> {#उदात्तस्तावत्सर्वान्स्वराँल्लुम्पति#} 
 <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3, 6.</ls> {#बुद्धिं लुम्पति यद्द्रव्यम्#} 
 <ls>ŚĀRṄG. SAṂH. 1, 4, 21.</ls> {#अस्मत्संवत्सरं लुप्त्वा स्वं तमाविष्करिष्यति#} 
 <ls>ŚATR. 14, 103.</ls> {#इदं सृजत्यवति लुम्पति#} 
@@ -58,7 +58,7 @@
 <ls>KATHĀS. 86, 116.</ls> {#घर्मलुप्ताम्बुसंपद्#} 
 <ls>87, 31. 90, 165.</ls> {#प्रकृति#} 
 <ls>MBH. 5, 797.</ls> {#°स्मृति#} 
-<ls>14, 37.</ls> {#°धर्मक्रिया#} 
+<ls n="MBH.">14, 37.</ls> {#°धर्मक्रिया#} 
 <ls>M. 8, 226.</ls> 
 <ls>BHAG. 1, 42.</ls> 
 <ls>R. 5, 51, 14.</ls> 
@@ -72,19 +72,19 @@
 <ls>BHĀG. P. 3, 23, 38.</ls> {#अलुप्तधर्म#} 
 <ls>MBH. 16, 204.</ls> 
 <ls>KATHĀS. 74, 124. 78, 7. 84, 58.</ls> <ls>Schol.</ls> zu <ls>KAP. 1, 19.</ls> {#शशलुप्त꣡#} <lex>n.</lex> wohl {%das Verschwinden nach Hasenart%} 
-<ls>P. 6, 2, 145,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 2, 145</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 5) {#लु꣡प्यति#} ({#विमोहने#}) 
 <ls>DHĀTUP. 26, 126.</ls> erhält den Bindevocal 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10.</ls> {#लुप्यमान#} {%sich verwirrend%} 
+<ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {#लुप्यमान#} {%sich verwirrend%} 
 <ls>MAITRYUP. 3, 2. 6, 30</ls>; vgl. {#लुभ्#} . 
 <div n="v">— Vgl. {#अनर्थलुप्त, इन्द्रलुप्त#} .
 
 <div n="p">— caus. {#लोपयति#}, aor. {#अलूलुपत्#} und {#अलुलोपत्#} 
-<ls>SIDDH. K.</ls> zu <ls>P.7,4,3.</ls> <ls>VOP.18,3.</ls> 
+<ls>SIDDH. K.</ls> zu <ls>P. 7, 4, 3.</ls> <ls>VOP.18,3.</ls> 
 <div n="1"> 1) {%Etwas unterlassen, versäumen; zuwiderhandeln, verletzen%}; mit acc. der Sache: {#कुतो दायाँल्लोपयेद्ब्राह्मणानाम्#} ({#दायाल्लो°#} ed. Calc.) 
 <ls>MBH. 5, 714.</ls> {#प्रत्युत्थानं च कृष्णस्य - न लोपयति#} 
-<ls>7, 2822.</ls> {#यथावयो हि राज्यानि प्राप्नुवन्ति नृपक्षये । इक्ष्वाकुकुलनाथे ऽस्मिंस्तल्लोपयितुमिच्छसि (तं लो°#} ed. Bomb., der Comm. ergänzt {#आचारम्#}) 
+<ls n="MBH.">7, 2822.</ls> {#यथावयो हि राज्यानि प्राप्नुवन्ति नृपक्षये । इक्ष्वाकुकुलनाथे ऽस्मिंस्तल्लोपयितुमिच्छसि (तं लो°#} ed. Bomb., der Comm. ergänzt {#आचारम्#}) 
 <ls>R. 2, 35, 9.</ls> {#विक्रीतमाहितं क्रीतं यत्पित्रा जीवता मम । न तल्लोपयितुं शक्यं मया#} 
 <ls>111, 28.</ls> {#धर्मम्#} 
 <ls>M. 8, 16.</ls> 
@@ -118,8 +118,8 @@
 <div n="1">— 2) {%Jmd packen, über Jmd herfallen%}: {#वृकवच्चावलुम्पेत#} 
 <ls>Spr. 2695.</ls> {#द्वेष्टारमवलुम्पेद्यथा वृकः#} 
 <ls>3615. 478.</ls> {#वृकावलुप्त꣡#} <lex>n.</lex> {%das Packen nach Wolfsart%} 
-<ls>P. 6, 2, 145,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 2, 145</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 3) {%entreissen%}: {#अन्योऽन्यस्यावलुम्पन्ति सारमेया यथामिषम् । राजन्या भरतश्रेष्ठ भोक्तुकामा वसुंधराम् ॥#} 
 <ls>MBH. 6, 381.</ls> 
 <div n="1">— 4) {%unterdrücken, verschwinden machen%}: {#सृजतीदमव्ययो य एव रक्षत्यवलुम्पते च यः#} 
@@ -186,7 +186,7 @@
 <div n="1"> 1) {%entreissen, rauben%}: {#उभयोर्हस्तयोर्मुक्तं यदन्नमुपनीयते । तद्विप्रलुम्पन्त्यसुराः सहसा#} 
 <ls>M. 3, 225.</ls> 
 <ls>MBH. 13, 4292.</ls> {#विप्रलुप्तं च वो राज्यं नृशंसेन#} 
-<ls>5, 2834.</ls> 
+<ls n="MBH.">5, 2834.</ls> 
 <div n="1">— 2) {%heimsuchen%}: {#प्रजा यस्य - अनर्थैर्विप्रलुप्यन्ते#} 
 <ls>MBH. 12, 5242.</ls> 
 <div n="1">— 3) {%stören, unterbrechen%}: {#तपः - तद्विप्रलुप्तम्#} 
@@ -201,7 +201,7 @@
 <ls>1166.</ls> {%ausreissen%}: {#मूढस्याङ्गे ऽङ्गे लोम लोम मे । नखैर्व्यलुम्पन्दन्तैश्च#} 
 <ls>KATHĀS. 37, 127.</ls> {#विलुम्पन्तश्च केशांश्च मज्जाश्च बहुधा#} 
 <ls>MBH. 7, 3586.</ls> {#वपाम्#} 
-<ls>1976.</ls> 
+<ls n="MBH. 7,">1976.</ls> 
 <div n="1">— 2) {%entreissen, wegnehmen, fortnehmen, rauben%}: {#यजमानस्य रेतः#} 
 <ls>AIT. BR. 6, 9.</ls> {#दूर्शम्#} 
 <ls>KAUŚ. 85.</ls> {#परस्परं विलुम्पन्ति सारमेया यथामिषम्#} 
@@ -245,8 +245,8 @@
 <div n="v">— Vgl. {#विलोप#} fgg. — caus. {%es fehlen lassen an%} (acc.), {%vorenthalten, entziehen%}: {#काले स्थाने च पात्रे च नहि वृत्तिं विलोपयेत्#} ({#राजा#}) 
 <ls>KĀM. NĪTIS. 5, 65.</ls> {%verschwinden —, zu Nichte machen, unterdrücken%}: {#तेन (वातेन) तत्र प्रदीपः स दीप्यमानो विलोपितः#} so v. a. {%ausgelöscht%} 
 <ls>MBH. 1, 5233.</ls> {#न च धर्मं विलोपये#} 
-<ls>12, 5627.</ls> {#धर्मार्थे च विलोपिते#} 
-<ls>1, 7752.</ls>
+<ls n="MBH.">12, 5627.</ls> {#धर्मार्थे च विलोपिते#} 
+<ls n="MBH.">1, 7752.</ls>
 
 <div n="p">— {#प्रवि#}, partic. {#°लुप्त#} {%verschwunden, entfernt, zu Nichte geworden%} 
 <ls>KUMĀRAS. 5, 8.</ls> 

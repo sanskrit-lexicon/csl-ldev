@@ -2,7 +2,7 @@
 {#शत्#}¦, {#शात꣡यति#} und {#°ते#} 
 <div n="1"> 1) {%in Abschnitte zertrennen, ablösen, abfallen machen, abhauen%}: {#स्क\न्धान\मुष्य^ शा\तय^न्वृ\त्रस्ये^व\ शची\पति^ः#} 
 <ls>AV. 6, 135, 1.</ls> {#मा\ंसान्य^स्य शातय#} 
-<ls>12, 5, 69.</ls> <ls>KĀTY. ŚR. 18, 1, 1.</ls> {#अस्थानि#} 
+<ls n="AV.">12, 5, 69.</ls> <ls>KĀTY. ŚR. 18, 1, 1.</ls> {#अस्थानि#} 
 <ls>TS. 6, 2, 8, 5. 6</ls> (med.). {#शातितास्तेजसो भागा ये त्वष्ट्रा दश पञ्च च#} 
 <ls>MĀRK. P. 78, 17.</ls> {#तत्तेजः पञ्चदशधा शातितम्#} 
 <ls>20. 108, 2. 3.</ls> {#शिरांसि#} 
@@ -14,8 +14,8 @@
 <ls>R. 2, 96, 52 (105, 51 GORR.). 5, 36, 45.</ls> {#जङ्घे चाशीशतद्बाणैः#} 
 <ls>BHAṬṬ. 15, 68.</ls> {#विभीतकम्#} 
 <ls>MBH. 3, 2820.</ls> <ls n="MBH. 3,">2821</ls> (med.). 
-<ls>2830.</ls> {#पुष्पाणि#} {%abbrechen, pflücken%} 
-<ls>P. 7, 3, 42, Schol.</ls> {%aushauen, ausschiessen%}: {#नेत्रम्#} 
+<ls n="MBH. 3,">2830.</ls> {#पुष्पाणि#} {%abbrechen, pflücken%} 
+<ls>P. 7, 3, 42</ls>, Schol. {%aushauen, ausschiessen%}: {#नेत्रम्#} 
 <ls>R. GORR. 2, 105, 55. 5, 68, 16.</ls> {%niederhauen, zusammenhauen%}: {#अक्षौहिणीं शरैः#} 
 <ls>MBH. 7, 6898.</ls> <ls n="MBH. 7,">3384.</ls> 
 <ls>HARIV. 3015.</ls> {%niederwerfen, zu Boden schleudern%} 
@@ -43,10 +43,10 @@
 
 <div n="p">— {#वि#} caus. {%zerhauen, zerschmettern%}: {#अस्त्रम्#} 
 <ls>MBH. 3, 11971.</ls> {#विशातितैः कुम्भकराग्रहस्तैः#} 
-<ls>8, 3502.</ls> {#बन्धनानि#} 
+<ls n="MBH.">8, 3502.</ls> {#बन्धनानि#} 
 <ls>R. 5, 49, 31.</ls> {%aushauen, ausschiessen%}: {#नयनम्#} 
 <ls>36, 46.</ls> <ls>MBH. 13, 7475.</ls> {#दशनान्#} 
-<ls>7476.</ls> {%auseinanderwerfen, auseinanderjagen%}: {#प्रकीर्णपर्णानि यथा वसन्ते विशातयित्वा पवनो ऽम्बुदांश्च#} 
+<ls n="MBH. 13,">7476.</ls> {%auseinanderwerfen, auseinanderjagen%}: {#प्रकीर्णपर्णानि यथा वसन्ते विशातयित्वा पवनो ऽम्बुदांश्च#} 
 <ls>MBH. 4, 1676.</ls> {%verscheuchen%}: {#लोकस्य पापानि#} 
 <ls>R. 5, 11, 4.</ls>
 

@@ -4,7 +4,7 @@
 <ls>P. 4, 2, 80.</ls> {%an der Wurzel befindlich%} 
 <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 1010, 16</ls> (vgl. {#मौल्य)#} . parox. {%zum Ausreissen mit der Wurzel geeignet%} 
 <ls>P. 4, 4, 88.</ls> = {#मूलेनानाम्यम्#} und {#मूलेन समः#} 
-<ls>91.</ls> 
+<ls n="P. 4, 4,">91.</ls> 
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) {%Preis, Werth einer Sache%} (am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ)#} 
 <ls>AK. 2, 9, 80. 3, 4, 4, 28.</ls> 
@@ -22,8 +22,8 @@
 <ls>PAÑCAT. 127, 12.</ls> <ls>Schol.</ls> zu <ls>NAIṢ. 22, 52.</ls> {#हीन°#} {%ein niedriger Preis%} 
 <ls>YĀJÑ. 2, 168.</ls> {#क्रय°#} {%Einkaufspreis%} 
 <ls>RĀJA-TAR. 5, 167.</ls> das einfache {#मूल्य#} in ders. Bed. 
-<ls>P. 5, 1, 47,</ls> 
-<ls>Sch.</ls> {#बहुस्वर्णलक्ष°#} <lex>adj.</lex> 
+<ls>P. 5, 1, 47</ls>, <ls>Sch.</ls>
+{#बहुस्वर्णलक्ष°#} <lex>adj.</lex> 
 <ls>KATHĀS. 22, 97.</ls> {#°विवर्जितः#} {%keinen Preis habend, unschätzbar%} 
 <ls>Spr. 3564.</ls> {#अल्प°#} {%einen geringen Werth habend%} 
 <ls>SĀH. D. 60, 9.</ls> {#कृत°#} {%dessen Werth bestimmt ist, geschätzt%} 

@@ -9,12 +9,12 @@
 <div n="2">— b) {%südwestlich%}: {#मारुत#} 
 <ls>SUŚR. 1, 22, 12.</ls> {#कृत्वा तु नैरृतान्दर्भान्#} (entweder {%mit den Spitzen nach Südwest gerichtet%} oder {%der%} <is>Nirṛti</is> {%geweiht%}) 
 <ls>MBH. 2, 2641.</ls> {#कोण, °ती दिक्#} oder <lex>f.</lex> mit Ergänzung von {#दिश्#} {%Südwest%} 
-<ls>H. 169,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 169</ls>, <ls>Sch.</ls> 
+
 <ls>RĀJAN.</ls> und <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> <ls>M. 11, 104.</ls> <ls>YĀJÑ. 3, 259.</ls> <ls>MBH. 12, 6090.</ls> <ls>VARĀH. BṚH. S. 5, 86. 14, 17. 24, 33. 52, 48. 118. 53, 100. 94, 4. 22.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 48.</ls> 
 <div n="2">— c) (adj. von {#नैरृत#} {%ein%} <is>Rākṣasa</is>) {%den%} <is>Rākṣasa</is> {%gehörig%}: {#अक्षौहिणी#} 
 <ls>MBH. 7, 6864.</ls> {#आकाशमसृजच्चोर्ध्वमधो भूमिं च नैरृतीम्#} (viell. auch zu a) 
-<ls>12, 6132.</ls> {#अस्त्र#} 
+<ls n="MBH.">12, 6132.</ls> {#अस्त्र#} 
 <ls>ARJ. 4, 30.</ls> 
 <div n="2">— d) wohl {%auf die Mondstation%} {#नैरृत (मूल)#} {%bezüglich%}: {#कर्मन्#} 
 <ls>Verz. d. B. H. No. 363.</ls> 
@@ -28,7 +28,7 @@
 <ls>H. 188.</ls> 
 <ls>HALĀY. 1, 73.</ls> {#(अधर्मस्य) तस्यापि निरृतिर्भार्या नैरृता येन राक्षसाः#} 
 <ls>MBH. 1, 2618.</ls> <ls n="MBH.">3, 16437.</ls> <ls n="MBH.">5, 3571.</ls> {#नैरृतैश्वर्यम् (कुवेरस्य)#} 
-<ls>9, 2759. 12, 2521.</ls> <ls>ARJ. 10, 50.</ls> <ls>HARIV. 6789.</ls> <ls>R. 1, 24, 13. 3, 16, 21. 40, 2. 5, 73, 57. 6, 37, 28. 84.</ls> {#°भागत्व#} 
+<ls n="MBH.">9, 2759.</ls> <ls n="MBH.">12, 2521.</ls> <ls>ARJ. 10, 50.</ls> <ls>HARIV. 6789.</ls> <ls>R. 1, 24, 13. 3, 16, 21. 40, 2. 5, 73, 57. 6, 37, 28. 84.</ls> {#°भागत्व#} 
 <ls>SUŚR. 1, 323, 21.</ls> 
 <ls>RAGH. 10, 35. 11, 21. 12, 43. 14, 4. 15, 20.</ls> 
 <ls>RĀJA-TAR. 4, 338.</ls> 

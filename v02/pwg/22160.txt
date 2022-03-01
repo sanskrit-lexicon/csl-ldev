@@ -47,7 +47,7 @@
 <ls>GĪT. 7, 4.</ls> {#नक्षत्रतारा°#} {%Dickicht, eine dichte Menge%} 
 <ls>R. 1, 35, 16.</ls> {#धर्म°#} 
 <ls>MBH. 11, 125.</ls> {#मंसार°#} 
-<ls>126. 153. 1, 583.</ls> Nach den Lexicographen: {%Wald%} 
+<ls n="MBH. 11,">126.</ls> <ls n="MBH. 11,">153.</ls> <ls n="MBH.">1, 583.</ls> Nach den Lexicographen: {%Wald%} 
 <ls>AK. 2, 4, 1, 1.</ls> 
 <ls>TRIK. 3, 3, 237.</ls> 
 <ls>H. 1110.</ls> 

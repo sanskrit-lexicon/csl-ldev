@@ -5,7 +5,7 @@
 <div n="2"> a) parox. gew. pl. {%Gebiss%}: {#अ\ग्निर्जम्भै^स्तिगि\तैर^त्ति#} 
 <ls>ṚV. 1, 143, 5.</ls> <ls n="ṚV. 1,">148, 4.</ls> <ls n="ṚV.">7, 3, 4.</ls> <ls n="ṚV.">4, 7, 10.</ls> {#जम्भे^भि\र्विश्व^मु\शध\ग्वना^नि#} 
 <ls n="ṚV.">7, 7, 2.</ls> {#न\हि ते^ प्रति\धृषे\ जम्भा^सो\ यद्वि\तिष्ठ^से#} 
-<ls>8, 49, 14. 10. 87, 3. 113, 8.</ls> du. <ls>VS. 11, 79.</ls> sg. {%Rachen%} 
+<ls n="ṚV.">8, 49, 14.</ls> <ls n="ṚV. 8, 49,">10.</ls> <ls n="ṚV. 8,">87, 3.</ls> <ls n="ṚV. 8,">113, 8.</ls> du. <ls>VS. 11, 79.</ls> sg. {%Rachen%} 
 <ls>AV. 3, 27, 1.</ls> 
 <ls>VS. 15, 15.</ls> Dunkel ist die Stelle 
 <ls>ṚV. 1, 37, 5.</ls> {%Augenzahn, Fangzahn%} 
@@ -17,7 +17,7 @@
 <ls>H. an.</ls> 
 <div n="2">— b) oxyt. {%der Zermalmer, Verschlinger%}, von Unholden 
 <ls>AV. 2, 4, 2.</ls> {#मा त्वा^ ज\म्भः संह^नु\र्मा तमो^ विदत्#} 
-<ls>8, 1, 16.</ls> {#°गृहीत#} 
+<ls n="AV.">8, 1, 16.</ls> {#°गृहीत#} 
 <ls>KAUŚ. 32. 35.</ls> 
 <div n="2">— c) N. pr. <is>gaṇa</is> {#शिवादि#} zu 
 <ls>P. 4, 1, 112.</ls> verschiedener Unholde 
@@ -28,7 +28,7 @@
 <ls>HARIV. 13227.</ls> 
 <ls>BHĀG. P. 8, 10, 21.</ls> von <is>Viṣṇu</is> oder <is>Kṛṣṇa</is> besiegt 
 <ls>MBH. 3, 8760.</ls> <ls n="MBH.">5, 1884.</ls> <ls n="MBH. 5,">1931</ls> (Feind <is>Indra's</is>). 
-<ls>7, 386.</ls> <ls>HARIV. 9156.</ls> von <is>Indra</is> 
+<ls n="MBH.">7, 386.</ls> <ls>HARIV. 9156.</ls> von <is>Indra</is> 
 <ls>ARJ. 8, 20.</ls> 
 <ls>MBH. 12, 3660.</ls> Anführer der <is>Daitya</is> im Kriege gegen die <is>Deva</is> unter <is>Indra</is> 
 <ls>MĀRK. P. 18, 16.</ls> 

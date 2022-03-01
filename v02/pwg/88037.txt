@@ -1,7 +1,7 @@
 <L>88037<pc>6-0689<k1>वप्र<k2>व꣡प्र
 {#व꣡प्र#}¦ (von 2. {#वप्#}) 
 <ls>UṆĀDIS. 2, 27.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} 
-zu <ls>P.2,4,31.</ls> n. <ls>SIDDH. K. 249,b,7.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} . 
+zu <ls>P. 2, 4, 31.</ls> n. <ls>SIDDH. K. 249,b,7.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} . 
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> {%Aufwurf von Erde, ein aufgeschütteter Erdwall%} (zur Vertheidigung von Städten und Häusern); = {#चय#} 
 <ls>AK. 2, 2, 2.</ls> 
 <ls>TRIK. 3, 3, 369.</ls> 
@@ -16,7 +16,7 @@ zu <ls>P.2,4,31.</ls> n. <ls>SIDDH. K. 249,b,7.</ls> am Ende eines <lex>adj.</le
 <ls>KIR. 5, 42.</ls> {#वप्राणि विषाणाग्रेण चोद्धरन्#} 
 <ls>BHĀG. P. 10, 36, 2.</ls> {#प्राकारवप्रसंबाधा#} ({#पुरी#}) 
 <ls>MBH. 3, 16056.</ls> <ls n="MBH.">4, 296.</ls> <ls n="MBH.">7, 6904.</ls> <ls n="MBH.">8, 2035.</ls> <ls n="MBH.">9, 1795</ls> ({#क्षीणवृत्तिः#} st. {#क्षीणवप्राम्#} ed. Bomb.). 
-<ls>13, 1671.</ls> <ls>R. 5, 9, 15. 6, 12, 22. 37, 13.</ls> <ls>RAGH. 1, 30.</ls> <ls>KUMĀRAS. 6, 38.</ls> <ls>ŚIŚ. 3, 37.</ls> {#शिलावप्र#} 
+<ls n="MBH.">13, 1671.</ls> <ls>R. 5, 9, 15. 6, 12, 22. 37, 13.</ls> <ls>RAGH. 1, 30.</ls> <ls>KUMĀRAS. 6, 38.</ls> <ls>ŚIŚ. 3, 37.</ls> {#शिलावप्र#} 
 <ls>RĀJA-TAR. 6, 307.</ls> {#सोत्सेधवप्रप्राकारं#} (so ist st. {#सोत्सेधवप्रकारं च#} zu lesen) 
 <ls>MĀRK. P. 49, 43.</ls> {#प्रोत्तुङ्गवप्रप्राकारमालिनी#} ({#पुरी#}) 
 <ls>66, 9.</ls> <ls>H. 62.</ls> {#उदपान°#} 
@@ -40,7 +40,7 @@ zu <ls>P.2,4,31.</ls> n. <ls>SIDDH. K. 249,b,7.</ls> am Ende eines <lex>adj.</le
 <ls>H. 965.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>HALĀY. 2, 419.</ls> <ls>DHARAṆI,</ls> <ls>RANTIDEVA</ls> und <ls>VAIJ. a. a. O.</ls> 
+<ls>HALĀY. 2, 419.</ls> <ls>DHARAṆI</ls>, <ls>RANTIDEVA</ls> und <ls>VAIJ. a. a. O.</ls> 
 <div n="1">— 7) <lex>m.</lex> <lex>n.</lex> {%Staub%} 
 <ls>TRIK. 3, 2, 9. 3, 369.</ls> 
 <ls>H. an.</ls> 
@@ -53,7 +53,7 @@ zu <ls>P.2,4,31.</ls> n. <ls>SIDDH. K. 249,b,7.</ls> am Ende eines <lex>adj.</le
 <div n="1">— 10) <lex>m.</lex> {%Vater%} (vgl. 2. {#वप्तर्#}) 
 <ls>TRIK. 3, 3, 369.</ls> 
 <ls>H. an.</ls> 
-<ls>MED.</ls> <ls>DHARAṆI,</ls> <ls>RANTIDEVA</ls> und <ls>VAIJ. a. a. O.</ls> 
+<ls>MED.</ls> <ls>DHARAṆI</ls>, <ls>RANTIDEVA</ls> und <ls>VAIJ. a. a. O.</ls> 
 <div n="1">— 11) <lex>m.</lex> = {#प्रजापति#} 
 <ls>UṆĀDIVṚ.</ls> im <ls>SAṂKṢIPTAS.</ls> nach <ls>ŚKDR.</ls> 
 <div n="1">— 12) <lex>m.</lex> N. pr. 

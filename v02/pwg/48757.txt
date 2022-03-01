@@ -4,8 +4,8 @@
 <ls>MBH. 5, 7203.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%Abwehr, Zurückweisung, Zurückhaltung, Behinderung, das Wehren, Hemmniss, Hinderniss, Widerstand%} 
 <ls>MBH. 7, 6015. fg.</ls> {#के च स्मृताः प्रतीघाता येन मर्त्यान्न हिंसथ#} 
-<ls>13, 6143. 6148.</ls> {#नह्यस्य सदृशं किंचित्प्रतीघाताय यद्भवेत्#} 
-<ls>5, 290.</ls> <ls>KATHĀS. 37, 161.</ls> {#क्षुत्°#} 
+<ls n="MBH.">13, 6143.</ls> <ls n="MBH. 13,">6148.</ls> {#नह्यस्य सदृशं किंचित्प्रतीघाताय यद्भवेत्#} 
+<ls n="MBH.">5, 290.</ls> <ls>KATHĀS. 37, 161.</ls> {#क्षुत्°#} 
 <ls>MBH. 13, 4469.</ls> {#श्रद्धा°#} 
 <ls>P. 1, 4, 66.</ls> {#वातादीनाम्#} 
 <ls>SUŚR. 2, 304, 14.</ls> {#देवनसमाह्वयोः#} {%das Wehren, Verbieten%} 

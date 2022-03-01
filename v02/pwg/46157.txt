@@ -3,7 +3,7 @@
 <ls>UṆĀDIS. 4, 74.</ls> Häufig metrisch gedehnt {#पूरुष#}; s. 
 <ls>ṚV. PRĀT. 9, 19.</ls> <ls n="ṚV. PRĀT. 9,">28.</ls> <ls n="ṚV. PRĀT. 9,">29.</ls> 
 
-<ls>VS. PRĀT. 3, 118.</ls> <ls>WHITNEY</ls> zu <ls>AV. PRĀT. 3, 21.</ls> <ls>P. 6, 3, 137, Sch. 6, 1, 7, <is>Vārtt</is>. 3</ls>, <ls>Sch.</ls> <ls>AK. 2, 6, 1, 1.</ls> <ls>H. 337.</ls> <ls>MED. ṣ. 41.</ls> <ls>HALĀY. 2, 176.</ls> 
+<ls>VS. PRĀT. 3, 118.</ls> <ls>WHITNEY</ls> zu <ls>AV. PRĀT. 3, 21.</ls> <ls>P. 6, 3, 137</ls>, Sch. <ls n="P.">6, 1, 7</ls>, <is>Vārtt</is>. 3, <ls>Sch.</ls> <ls>AK. 2, 6, 1, 1.</ls> <ls>H. 337.</ls> <ls>MED. ṣ. 41.</ls> <ls>HALĀY. 2, 176.</ls> 
 <div n="1"> 1) <lex>m.</lex> {%Mann, Mensch; Person%}; pl. {%Leute%}; auch so v. a. {%Diener, Dienstmann%} 
 <ls>AK. 2, 6, 1, 1. 3, 4, 29, 220.</ls> 
 <ls>TRIK. 3, 3, 438.</ls> 
@@ -13,10 +13,10 @@
 <ls>ṚV. 7, 104, 15.</ls> <ls n="ṚV.">10, 97, 4.</ls> <ls n="ṚV. 10, 97,">5.</ls> <ls n="ṚV. 10, 97,">8.</ls> {#शं नो\ गोभ्य^श्च\ पुरु^षेभ्यश्चास्तु#} 
 <ls n="ṚV. 10,">165, 3.</ls> {#गौरश्व\ः पुरु^षः प\शुः#} 
 <ls>AV. 8, 2, 25.</ls> {#त्राय^न्तामि\मं पुरु^षम्#} 
-<ls>7, 2. 12, 4, 25. 13, 4, 42.</ls> {#सर्व^ं स\ंसिच्य\ मर्त्य^ं दे\वाः पुरु^ष\मावि^शन्#} 
-<ls>11, 8, 13. 18.</ls> {#यथा^ मृ\गाः स^ंवि\जन्त^ आर\ण्याः पुरु^षा\दधि^#} 
-<ls>5, 21, 4. 3, 21, 1.</ls> {#ए\षा त्व\चां पुरु^षे\ सं ब^भू\वान^ग्ना\ः सर्वे^ प\शवो\ ये अ\न्ये#} 
-<ls>12, 3, 51</ls> (vgl. <ls>ŚAT. BR. 3, 1, 2, 13. fgg.).</ls> {#देवकृता, पुरुषैः कृता#} 
+<ls n="AV. 8,">7, 2.</ls> <ls n="AV.">12, 4, 25.</ls> <ls n="AV.">13, 4, 42.</ls> {#सर्व^ं स\ंसिच्य\ मर्त्य^ं दे\वाः पुरु^ष\मावि^शन्#} 
+<ls n="AV.">11, 8, 13.</ls> <ls n="AV. 11, 8,">18.</ls> {#यथा^ मृ\गाः स^ंवि\जन्त^ आर\ण्याः पुरु^षा\दधि^#} 
+<ls n="AV.">5, 21, 4.</ls> <ls n="AV.">3, 21, 1.</ls> {#ए\षा त्व\चां पुरु^षे\ सं ब^भू\वान^ग्ना\ः सर्वे^ प\शवो\ ये अ\न्ये#} 
+<ls n="AV.">12, 3, 51</ls> (vgl. <ls>ŚAT. BR. 3, 1, 2, 13. fgg.).</ls> {#देवकृता, पुरुषैः कृता#} 
 <ls>5, 14, 7. 4, 18, 5.</ls> {#यथे\ह पुरु\षो ऽस^त्#} 
 <ls>VS. 2, 33. 16, 3.</ls> {#नमो\ ऽग्नये^ प्र\चर^ते\ पुरु^षाय च ते\ नम^ः#} 
 <ls>AV. 9, 3, 12.</ls> {#पुरुषस्य वा एषो ऽश्नाति यो ऽग्नीषोमीयस्य पशोरश्नाति#} 
@@ -85,8 +85,8 @@
 <ls>HALĀY. 1, 134.</ls> 
 <ls>VS. 23, 51. 52.</ls> {#प्राण^ति\ पुरु^षो\ गर्भे^ अन्त\रा#} 
 <ls>AV. 11, 4, 14.</ls> {#तस्मा\द्वै वि\द्वान्पुरु^षमि\दं ब्रह्मेति^ मन्यते#} 
-<ls>8, 32.</ls> {#पुर\ं यो ब्रह्म^णो\ वेद\ यस्या\ः पुरु^ष उ\च्यते^#} 
-<ls>10, 2, 28.</ls> {#वेदा\हमे\तं पुरु^षं म\हान्त^मादि\त्यव^र्ण\ं तम^सः प\रस्ता^त्#} {%den lichten grossen Geist%} 
+<ls n="AV. 11,">8, 32.</ls> {#पुर\ं यो ब्रह्म^णो\ वेद\ यस्या\ः पुरु^ष उ\च्यते^#} 
+<ls n="AV.">10, 2, 28.</ls> {#वेदा\हमे\तं पुरु^षं म\हान्त^मादि\त्यव^र्ण\ं तम^सः प\रस्ता^त्#} {%den lichten grossen Geist%} 
 <ls>VS. 31, 18. 32, 2</ls>; vgl. {#स एव पुरुषः प्रजापतिरभवत्#} 
 <ls>ŚAT. BR. 6, 1, 1, 5. 8.</ls> {#स वै पुरुषः प्रजापतिः पूर्वो ऽस्य सर्वस्य#} 
 <ls>ŚĀṄKH. BR. 23, 4.</ls> {#वेद वा अहं तं पुरुषं सर्वस्यात्मनः परायणम्#} 
@@ -125,8 +125,8 @@
 <ls>KĀTY. ŚR. 7, 1, 5.</ls> Vgl. {#त्रि°, दश°#} . 
 <div n="2">— e) {%Person des Verbi%}: {#प्रथम#} (unsere {%3te Person%}), {#मध्यम, उत्तम#} 
 <ls>NIR. 7, 1. 2.</ls> 
-<ls>P. 1, 4, 105,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 1, 4, 105</ls>, <ls>Sch.</ls> 
+
 <div n="2">— f) {%Männchen im Auge, Pupille%}: {#यो ऽयं दक्षिणे ऽक्षन्पुरुषः#} 
 <ls>ŚAT. BR. 10, 5, 2, 7. 8. 12, 9, 1, 12. 14, 5, 3, 9.</ls> 
 <div n="2">— g) {%Geist%} so v. a. {%Riechstoff der Pflanzen%}: {#घृ\तं चा\पां पुरु^ष\ं चौष^धीनाम्#} 
@@ -141,16 +141,16 @@
 <div n="2">— i) personif. <is>Puruṣa</is> <is>Nārāyaṇa</is>, {%der Mensch des Mannes Sohn%} (vgl. u. {#नारायण#}) 
 <ls>ŚAT. BR. 13, 6, 1, 1. 2, 1, 3.</ls> angeblicher Verfasser von 
 <ls>VS. 30. 31.</ls> <is>Sattra</is> des 
-<ls>P.</ls> <ls>N.</ls> <ls>KĀTY. ŚR. 24, 7, 36.</ls> <ls>ŚĀṄKH. ŚR. 16, 13, 1.</ls> <is>Ayana</is> des 
-<ls>P.</ls> <ls>N.</ls> <ls>LĀṬY. 10, 13, 4.</ls> {%das Urindividuum, aus welchem der Makrokosmus sich entwickelt%}, geschildert im sog. <is>Puruṣa</is>-Liede 
+P. N. <ls>KĀTY. ŚR. 24, 7, 36.</ls> <ls>ŚĀṄKH. ŚR. 16, 13, 1.</ls> <is>Ayana</is> des 
+P. N. <ls>LĀṬY. 10, 13, 4.</ls> {%das Urindividuum, aus welchem der Makrokosmus sich entwickelt%}, geschildert im sog. <is>Puruṣa</is>-Liede 
 <ls>ṚV. 10, 90.</ls> {#विराजमसृजद्विष्णुः सो ऽसृजत्पुरुषं विराट् । पुरुषं तं मनुं विद्धि#} 
 <ls>HARIV. 51. fgg.</ls> <ls n="HARIV.">11604.</ls> <ls n="HARIV.">11606.</ls> 
 <div n="2">— k) N. pr. eines der Söhne des <is>Manu</is> <is>Cākṣuṣa</is> 
 <ls>BHĀG. P. 8, 5, 7</ls> ({#पू°#}). pl. Bez. der den Brahmanen entsprechenden Bewohner von <is>Krauñca-Dvipa</is> 
 <ls>5, 20, 22.</ls> 
 <div n="2">— l) N. einer der 18 Diener des Sonnengottes 
-<ls>H. 103,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 103</ls>, <ls>Sch.</ls> 
+
 <div n="2">— m) N. eines <is>Pāda</is> in den <is>Mahānāmnī</is>-Versen 
 <ls>LĀṬY. 7, 5, 9.</ls> 
 <div n="2">— n) Bez. {%des 1ten, 5ten, 5ten, 7ten, 9ten und 11ten Zodiakalbildes%} 

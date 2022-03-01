@@ -11,10 +11,10 @@
 <ls>69, 7.</ls> {#लोकानाम्#} {%Vermehrung%} 
 <ls>M. 1, 31.</ls> {#स्ववंशस्य#} 
 <ls>9, 128.</ls> <ls>MBH. 1, 6812.</ls> <ls n="MBH. 1,">7278.</ls> {#यमराष्ट्र°#} 
-<ls>7, 2711.</ls> {#प्रजा°#} 
+<ls n="MBH.">7, 2711.</ls> {#प्रजा°#} 
 <ls>BHĀG. P. 6, 5, 5.</ls> {#धान्यार्घक्षय°#} {%Fallen und Steigen des Preises%} 
 <ls>VARĀH. BṚH. S. 7, 1. 4.</ls> {#ऐचोरुभयविवृद्धिप्रसङ्गादिदुतोः प्लुतवचनम्#} {%das Längerwerden eines Vocals%} 
-<ls>P. 8, 2, 106, <is>Vārtt</is>.</ls> {#लोकानाम्#} {%Gedeihen%} 
+<ls>P. 8, 2, 106</ls>, <is>Vārtt</is>. {#लोकानाम्#} {%Gedeihen%} 
 <ls>M. 3, 263.</ls> 
 <ls>VARĀH. BṚH. S. 30, 15. 44, 21. 49, 8.</ls> 
 <ls>BHĀG. P. 9, 22, 15.</ls> 

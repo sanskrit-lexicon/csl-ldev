@@ -1,11 +1,11 @@
 <L>43507<pc>4-0576<k1>पर्यन्त<k2>पर्यन्त꣡<h>1
 1. {#पर्यन्त꣡#}¦ ({#परि + अन्त#}) <lex>m.</lex> 
-<ls>P. 6, 2, 180,</ls> 
-<ls>Sch.</ls> {%Umgrenzung, Grenze, Umkreis, Umgebung, Saum, Rand; Ende%} 
+<ls>P. 6, 2, 180</ls>, <ls>Sch.</ls>
+{%Umgrenzung, Grenze, Umkreis, Umgebung, Saum, Rand; Ende%} 
 <ls>HALĀY. 2, 104.</ls> {#नान्तो\ न प^र्य\न्तो^ ऽस्ति#} 
 <ls>TBR. 2, 1, 11, 1.</ls> {#नदीविषयपर्यन्ते#} 
 <ls>MBH. 1, 3730.</ls> {#सागरस्य च पर्यन्ते#} 
-<ls>13, 5225.</ls> <ls>SUŚR. 1, 56, 4.</ls> {#ओष्ठ°#} 
+<ls n="MBH.">13, 5225.</ls> <ls>SUŚR. 1, 56, 4.</ls> {#ओष्ठ°#} 
 <ls>HALĀY. 2, 365.</ls> {#रक्तपर्यन्ते नेत्रे#} 
 <ls>R. 3, 55, 11.</ls> {#°रक्ताक्ष#} 
 <ls>6, 20, 11.</ls> {#कुसुमलवच्छुरितपर्यन्तं पर्यङ्कतले#} 
@@ -51,7 +51,7 @@
 <ls>SUŚR. 1, 19, 20.</ls> 
 <ls>SĀṂKHYAK. 40. 54. 56.</ls> 
 <ls>BHĀṢĀP. 43.</ls> 
-<ls>PAÑCAT. I, 422.</ls> <ls>Schol.</ls> zu <ls>P. 4, 1, 18. 7, 2, 91.</ls> {#तसिलादयस्तद्धिता एधाच्पर्यन्ताः#} <is>gaṇa</is> {#स्वरादि#} zu 
+<ls>PAÑCAT. I, 422.</ls> <ls>Schol.</ls> zu <ls>P. 4, 1, 18.</ls> <ls n="P.">7, 2, 91.</ls> {#तसिलादयस्तद्धिता एधाच्पर्यन्ताः#} <is>gaṇa</is> {#स्वरादि#} zu 
 <ls>P. 1, 1, 37.</ls> {#भवत्संवादपर्यन्तः शापो ऽयमभवच्च मे#} 
 <ls>KATHĀS. 14, 86.</ls> {#अनेकगुण° (विमानवर)#} so v. a. {%mit einer Menge von guten Eigenschaften versehen%} 
 <ls>MBH. 13, 5305.</ls> {#°पर्यन्तम्#} {%bis an's Ende von, bis auf%} 

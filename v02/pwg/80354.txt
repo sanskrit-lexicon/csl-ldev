@@ -8,7 +8,7 @@
 <ls>AV. 6, 111, 3.</ls> {#बलं#} ({%Heer%}) {#तदुन्मत्ततरं बभूव#} 
 <ls>R. 7, 7, 50.</ls> — caus. 
 <ls>AV. 6, 130, 4.</ls> {#उन्मदित#} 
-<ls>111, 3.</ls>
+<ls n="AV. 6,">111, 3.</ls>
 
 <div n="p">— {#प्र#} 
 <div n="1"> 2) {#अप्रमत्त#} <lex>n.</lex> Bez. der 7ten unter den 14 Stufen, welche nach dem Glauben der <is>Jaina</is> zur Erlösung führen, 
@@ -21,8 +21,8 @@
 
 <div n="p">— {#सम्#} 
 <div n="1"> 1) med. 
-<ls>AV. 4, 34, 3. 18, 3, 8.</ls> 
+<ls>AV. 4, 34, 3.</ls> <ls n="AV.">18, 3, 8.</ls> 
 <div n="1">— 2) 
-<ls>AV. 7, 80, 1. 20, 49, 1.</ls> — caus. {%ergötzen, erheitern%}: {#मनः संमदयन्#} 
+<ls>AV. 7, 80, 1.</ls> <ls n="AV.">20, 49, 1.</ls> — caus. {%ergötzen, erheitern%}: {#मनः संमदयन्#} 
 <ls>SĀH. D. 346, 17.</ls>
 <LEND>

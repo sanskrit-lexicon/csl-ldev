@@ -1,8 +1,8 @@
 <L>50508<pc>4-1126<k1>प्राजापत्य<k2>प्राजापत्य꣡
 {#प्राजापत्य꣡#}¦ (von {#प्रजापति#}) 
 <div n="1"> 1) <lex>adj.</lex> 
-<ls>P. 4, 1, 85,</ls> 
-<ls>Sch.</ls> <lex>f.</lex> {#°पत्या#} 
+<ls>P. 4, 1, 85</ls>, <ls>Sch.</ls>
+<lex>f.</lex> {#°पत्या#} 
 (<ls>TBR. 2, 1, 2, 2</ls> und sonst) und {#°पती#} (
 <ls>KĀTY. ŚR. 25, 14, 19.</ls> 
 <ls>KAUŚ. 79</ls>); {%von%} <is>Prajāpati</is> {%stammend, ihm gehörig, - geweiht, ihn betreffend u.s.w.%}: {#पृथ\क्सर्वे^ प्राजाप\त्याः प्रा\णाना\त्मसु^ बिभ्रति#} 
@@ -15,7 +15,7 @@
 <ls>PRAB. 11, 8.</ls> <is>Parameṣṭhin</is> (s. u. d. W.) 
 <ls>AIT. BR. 8, 14.</ls> {#आरुणिः सुपर्णेयः#} 
 <ls>TAITT. ĀR. 10, 79.</ls> {#यज्ञ#} 
-<ls>AV. 9, 6, 28. 19, 23, 26.</ls> {#इष्टि#} 
+<ls>AV. 9, 6, 28.</ls> <ls n="AV.">19, 23, 26.</ls> {#इष्टि#} 
 <ls>M. 6, 38.</ls> 
 <ls>YĀJÑ. 3, 56.</ls> 
 <ls>BHĀG. P. 1, 15, 39.</ls> {#मन्त्र#} 

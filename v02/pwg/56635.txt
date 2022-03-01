@@ -16,8 +16,8 @@
 <ls>362, 11.</ls> {#मत्स्यो मत्स्यं समादत्ते#} 
 <ls>Spr. 2094. 2329. 2922.</ls> {#°गुणाः#} 
 <ls>Verz. d. B. H. No. 986.</ls> <ls>Verz. d. Oxf. H. 86,a,18. 281,b,21.</ls> <ls>VET. in LA. (II) 5,5.</ls> <ls>DHŪRTAS. 79,15.</ls> {#बहुमत्स्या#} <lex>adj.</lex> 
-<ls>P. 4, 1, 28,</ls> 
-<ls>Sch.</ls> {#मत्स्यावतार#} 
+<ls>P. 4, 1, 28</ls>, <ls>Sch.</ls>
+{#मत्स्यावतार#} 
 <ls>Verz. d. Oxf. H. 14,a,4. 129,a,17.</ls> <ls>WEBER, RĀMAT. UP. 351.</ls> {#°प्रादुर्भाव#} 
 <ls>Verz. d. Oxf. H. 83,a,23.</ls> {#मात्स्यं (पुराणं) मत्स्येन यत्प्रोक्तं मनवे#} 
 <ls>65,b,2.</ls> {%Fischfigur%} 
@@ -29,7 +29,7 @@
 <ls>ŚĀṄKH. ŚR. 16, 2, 23.</ls> 
 <ls>ĀŚV. ŚR. 10, 7.</ls> <lex>f.</lex> {#मत्सी꣡#} 
 <ls>P. 6, 4, 149.</ls> <is>gaṇa</is> {#गौरादि#} zu 
-<ls>4, 1, 41.</ls> <is>Vārtt</is>. 2 zu 63. <ls>VOP. 4, 12.</ls> <ls>MBH. 1, 2390.</ls> <ls n="MBH. 1,">2392.</ls> <ls>Spr. 4166.</ls> {#मत्स्या#} 
+<ls n="P.">4, 1, 41.</ls> <is>Vārtt</is>. 2 zu 63. <ls>VOP. 4, 12.</ls> <ls>MBH. 1, 2390.</ls> <ls n="MBH. 1,">2392.</ls> <ls>Spr. 4166.</ls> {#मत्स्या#} 
 <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 104.</ls> 
 <div n="1">— 2) {%ein best. Fisch%} 
 <ls>H. an.</ls> 
@@ -40,10 +40,10 @@
 <div n="1">— 4) {%eine best. Lichterscheinung%} 
 <ls>VARĀH. BṚH. S. 30, 8.</ls> 
 <div n="1">— 5) pl. N. pr. eines Volkes 
-<ls>P. 4, 2, 81,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 4, 2, 81</ls>, <ls>Sch.</ls> 
+
 <ls>MED.</ls> 
-<ls>LIA. (II) I, 158,</ls> <ls>N.</ls> <ls>ṚV. 7, 18, 6.</ls> <ls>KAUṢ. UP. 4, 1.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. No. 366.</ls> {#कुरुक्षेत्रं च मत्स्याश्च पञ्चालाः शूरसेनकाः । एष ब्रह्मर्षिदेशो वै#} 
+<ls>LIA. (II) I, 158</ls>, <ls>N.</ls> <ls>ṚV. 7, 18, 6.</ls> <ls>KAUṢ. UP. 4, 1.</ls> <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. No. 366.</ls> {#कुरुक्षेत्रं च मत्स्याश्च पञ्चालाः शूरसेनकाः । एष ब्रह्मर्षिदेशो वै#} 
 <ls>M. 2, 19.</ls> {#कुरुक्षेत्रांश्च मत्स्यांश्च पञ्चालान् शूरसेनकान् । दीर्घाल्लँघूंश्चैव नरानग्रानीकेषु योधयेत् ॥#} 
 <ls>7, 193.</ls> <ls>MBH. 1, 6085.</ls> <ls n="MBH.">4, 11.</ls> <ls n="MBH.">8, 2098.</ls> <ls n="MBH.">14, 2023</ls> ({#°पति#}) . 
 <ls>WEBER, Nakṣ.</ls> <ls>II,392.</ls> <ls>VARĀH. BṚH. S.4,24.5,37. 38. 14,2. 16,22. 32,11.</ls> <ls>BHĀG. P.1,10,34.</ls> <ls>MĀRK. P. 58,7. 16.</ls> <ls>Verz. d. Oxf. H. 26,a,36.</ls>

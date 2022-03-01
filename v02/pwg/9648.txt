@@ -6,8 +6,8 @@
 <ls>RAGH. 9, 60.</ls> {#निषण्णमाजानुसमे पीठे स्थानाश्रये#} ({%der Platz, auf dem die Bank steht%}) {#समे#} 
 <ls>SUŚR. 2, 215, 19.</ls> {#चित्रं यथाश्रयमृते#} ({%wie ein Bild ohne Unterlage%}) — {#तद्वद्विना विशेषैर्न तिष्ठति निराश्रयं लिङ्गम्#} 
 <ls>SĀṂKHYAK. 41.</ls> {#अस्य (विसर्गस्य) आश्रयस्थानानि#} {%seine Organe (die Organe, mit denen er ausgesprochen wird) sind die der Consonanten, an welche er sich lehnt%}, 
-<ls>P. 1, 1, 9,</ls> 
-<ls>Sch.</ls> {#गुणाश्रय#} {%das woran die Eigenschaften haften, das Substrat der Eigenschaften%}, als Erklärung von {#द्रव्य#} {%Stoff%} 
+<ls>P. 1, 1, 9</ls>, <ls>Sch.</ls>
+{#गुणाश्रय#} {%das woran die Eigenschaften haften, das Substrat der Eigenschaften%}, als Erklärung von {#द्रव्य#} {%Stoff%} 
 <ls>AK. 3, 4, 156</ls>; vgl. {#आश्रयत्व#} und {#आश्रयिन्#}.{# लब्धाश्रया#} ({#प्रार्थना#}) {%einen festen Halt gewonnen habend%}, als Erkl. von {#लब्धावकाशा#} 
 <ls>Sch.</ls> zu <ls>ŚĀK. 17, 4.</ls> {#उपघ्न#} durch {#आश्रय#} erklärt 
 <ls>P. 3, 3, 85.</ls> = {#सामीप्य#} {%Nähe%} 
@@ -74,7 +74,7 @@
 <ls>16.</ls> {#नानाश्रया प्रकृतिः#} 
 <ls>62.</ls> {#स्थान्याश्रयं कार्यम्#} {%eine grammat. Operation, welche von der primitiven Form%} (Gegens. {#आदेश#} {%Substitut) abhängt%} 
 <ls>KĀŚ.</ls> zu <ls>P. 1, 1, 56.</ls> {#तदाश्रया पदसंज्ञा#} {%die davon abhängige Benennung%} {#पद#} 
-<ls>62</ls>, <ls>Sch.</ls> {#नपुंसकाश्रयं ह्रस्वत्वम्#} 
+<ls n="P. 1, 1,">62</ls>, <ls>Sch.</ls> {#नपुंसकाश्रयं ह्रस्वत्वम्#} 
 <ls>7, 3, 31</ls>, <ls>Sch.</ls> {#सर्वाश्रयां वेदनाम्#} {%die Empfindung, die allen gemein ist%}, 
 <ls>YĀJÑ. 3, 143.</ls> {#प्रेम परस्पराश्रयम्#} {%eine gegenseitige Liebe%} 
 <ls>RAGH. 3, 24.</ls> 

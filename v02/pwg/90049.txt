@@ -13,7 +13,7 @@
 <ls>ĀŚV. GṚHY. 4, 9, 6.</ls> {#पशु#} 
 <ls>YĀJÑ. 3, 287.</ls> {#गुण#} 
 <ls>MBH. 12, 6855.</ls> {#स्पर्श#} 
-<ls>14, 1201.</ls> <ls>SUŚR. 1, 151, 4. 313, 3.</ls> <ls>VARĀH. BṚH. S. 32, 8.</ls> {#भूकम्प#} 
+<ls n="MBH.">14, 1201.</ls> <ls>SUŚR. 1, 151, 4. 313, 3.</ls> <ls>VARĀH. BṚH. S. 32, 8.</ls> {#भूकम्प#} 
 <ls>10. 27. 80, 10. 46, 64</ls> ({%in der Luft seiend).%} {#अस्त्र#} 
 <ls>MBH. 1, 5365.</ls> <ls n="MBH.">3, 11964.</ls> <ls n="MBH.">4, 1876.</ls> <ls n="MBH.">5, 7173.</ls> 
 <ls>R. 1, 29, 11. 56, 10. 5, 58, 6.</ls> 
@@ -28,7 +28,7 @@
 <ls>87, 12. 95, 4.</ls> <ls>MĀRK. P. 58, 78.</ls> <ls>WEBER, RĀMAT. UP. 308.</ls> {#वायव्यात्#} 
 <ls>VARĀH. BṚH. S. 87, 13.</ls> {#वायव्योत्थैरब्दैः#} 
 <ls>24, 24.</ls> {#वायव्या#} <lex>f.</lex> dass. 
-<ls>28.</ls> <ls>MĀRK. P. 34, 101.</ls> <ls>H. 169, Schol.</ls> 
+<ls>28.</ls> <ls>MĀRK. P. 34, 101.</ls> <ls>H. 169</ls>, Schol. 
 <div n="1">— 2) <lex>n.</lex> {%das unter dem Gotte des Windes stehende%} <is>Nakṣatra</is> <is>Svāti</is> 
 <ls>VARĀH. BṚH. S. 7, 9. 107, 4.</ls>
 <LEND>

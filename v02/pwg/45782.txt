@@ -8,13 +8,13 @@
 <ls>H. 542.</ls> 
 <ls>HALĀY. 2, 342.</ls> Etym. <ls>NIR. 2, 11.</ls> <ls>M. 9, 138.</ls> <ls>MBH. 1, 3026.</ls> <ls n="MBH. 1,">8344.</ls> <ls n="MBH.">14, 2752.</ls> <ls n="MBH. 14,">2760.</ls> <ls>BRĀHMAṆ. 3, 5.</ls> <ls>HARIV. 317.</ls> <ls n="HARIV.">4252.</ls> <ls n="HARIV.">14420. fg.</ls> <ls>R. 2, 107, 12.</ls> Euphonisches Verhalten eines vorangehenden gen. im <is>Veda</is> 
 <ls>P. 8, 3, 53. fg.</ls> Veränderung eines im comp. vorangehenden patron. fem. 
-<ls>6, 1, 13.</ls> mit einem gen. comp. 
-<ls>3, 22.</ls> Accent eines auf {#पुत्र#} ausgehenden comp. 
-<ls>6,2, 132. 133.</ls>
+<ls n="P.">6, 1, 13.</ls> mit einem gen. comp. 
+<ls n="P. 8,">3, 22.</ls> Accent eines auf {#पुत्र#} ausgehenden comp. 
+<ls n="P.">6, 2, 132.</ls> <ls n="P. 6, 2,">133.</ls>
 [Page4-0763]
 Ableitungen von compp. auf {#पुत्र#} 
-<ls>4, 1, 159.</ls> wann nur {#पुत्र#} (nicht {#पुत्त्र#}) zu schreiben ist 
-<ls>8, 4, 48</ls> und <is>Vārtt</is>. {#वस्त्रा^ पु\त्राय^ मा\तरो^ वयन्ति#} 
+<ls n="P.">4, 1, 159.</ls> wann nur {#पुत्र#} (nicht {#पुत्त्र#}) zu schreiben ist 
+<ls n="P.">8, 4, 48</ls> und <is>Vārtt</is>. {#वस्त्रा^ पु\त्राय^ मा\तरो^ वयन्ति#} 
 <ls>ṚV. 5, 47, 6.</ls> <ls n="ṚV.">6, 9, 2.</ls> {#रु\द्रस्य\ ये सन्ति^ पु\त्राः#} 
 <ls n="ṚV. 6,">66, 3.</ls> {#ब\ह्वी\नां पि\ता ब\हुर^स्य पु\त्रः#} 
 <ls n="ṚV. 6,">75, 5.</ls> {#मा माधि^ पु\त्रे विमि^व अभीष्ट#} 
@@ -25,7 +25,7 @@ Ableitungen von compp. auf {#पुत्र#}
 <ls n="ṚV.">8, 79, 2.</ls> {#दिवः#} 
 <ls n="ṚV.">4, 2, 15.</ls> <ls n="ṚV.">7, 102, 1.</ls> <ls>AV. 8, 7, 20.</ls> {#अमृतस्य#} 
 <ls>ṚV. 10, 13, 1.</ls> {#पृश्नेः#} 
-<ls n="ṚV.">5, 58, 5.</ls> <ls>AV. 3, 30, 2. 6, 116, 3. 16, 7, 8.</ls> {#पुत्रस्य नाम गृह्णाति#} 
+<ls n="ṚV.">5, 58, 5.</ls> <ls>AV. 3, 30, 2.</ls> <ls n="AV.">6, 116, 3.</ls> <ls n="AV.">16, 7, 8.</ls> {#पुत्रस्य नाम गृह्णाति#} 
 <ls>ŚAT. BR. 1, 9, 3, 21. 6, 1, 3, 9. 14, 4, 3, 24. fgg. 5, 4, 5. 6, 10, 5.</ls> 
 <ls>AIT. BR. 7, 13. fgg.</ls> {#पुत्रनप्तारः#} 
 <ls>3, 48.</ls> {#पुत्रपशून्#} <is>gaṇa</is> {#राजदन्तादि#} zu 
@@ -36,8 +36,8 @@ Ableitungen von compp. auf {#पुत्र#}
 <ls>M. 4, 239. 8, 114. 10, 99.</ls> 
 <ls>BRĀHMAṆ. 1, 19.</ls> {#पुत्रपती#} <is>gaṇa</is> {#राजदन्तादि#} zu 
 <ls>P. 2, 2, 31.</ls> {#माता पुत्रेण मिथुनं गच्छति#} (bei den Thieren) 
-<ls>P. 8, 1, 15,</ls> 
-<ls>Sch.</ls> {#व्याघ्री यथा हरेत्पुत्रान्दंष्ट्राभ्यां न च पीडयेत्#} {%ihre Jungen%} 
+<ls>P. 8, 1, 15</ls>, <ls>Sch.</ls>
+{#व्याघ्री यथा हरेत्पुत्रान्दंष्ट्राभ्यां न च पीडयेत्#} {%ihre Jungen%} 
 <ls>ŚIKṢĀ 25.</ls> <ls>MBH. 12, 3306.</ls> {#व्याघ्र्यास्तरुणपुत्रायाः#} 
 <ls>R. 3, 53, 51.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>M. 5, 160. 8, 28.</ls> 
@@ -71,7 +71,7 @@ Ableitungen von compp. auf {#पुत्र#}
 <ls>R. 1, 17, 28.</ls> 
 <ls>PAÑCAT. 190, 1.</ls> 
 <ls>HIT. 28, 3.</ls> Als Suffix betrachtet 
-<ls>P. 6, 3, 70, <is>Vārtt</is>. 10.</ls> 
+<ls>P. 6, 3, 70</ls>, <is>Vārtt</is>. 10. 
 <div n="2">— b) {%Puppe%}; s. {#दारुपुत्री#}. 
 <div n="2">— c) in comp. mit leblosen Dingen zur Bildung von Deminutiven; s. {#असिपुत्री#} und vgl. {#पुत्रिका#}. 
 <div n="2">— d) Bein. der <is>Pārvatī</is> 

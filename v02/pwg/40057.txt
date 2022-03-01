@@ -1,13 +1,13 @@
 <L>40057<pc>4-0241<k1>निष्क<k2>निष्क꣡
 {#निष्क꣡#}¦ 
 <ls>UṆĀDIS. 3, 45.</ls> <lex>m.</lex> <lex>n.</lex> (das letztere selten) <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,a,1.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 249,a,1.</ls> 
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> {%ein goldener Hals%}- oder {%Brustschmuck%} 
 <ls>AK. 3, 4, 1, 14.</ls> 
 <ls>H. an. 2, 11.</ls> 
 <ls>MED. k. 27.</ls> {#बिभर्षि निष्कम्#} 
 <ls>ṚV. 2, 33, 10.</ls> <ls n="ṚV.">8, 47, 15.</ls> {#नि\ष्कमि^व\ प्रति^ मुञ्चत#} 
-<ls>AV. 5, 14, 3. 7, 99, 1. 20, 131, 8.</ls> 
+<ls>AV. 5, 14, 3.</ls> <ls n="AV.">7, 99, 1.</ls> <ls n="AV.">20, 131, 8.</ls> 
 <ls>ŚAT. BR. 11, 4, 1, 1. 8. 13, 4, 1, 7. 11.</ls> 
 <ls>LĀTY. 8, 10, 3.</ls> <ls>CHĀND. UP. 4, 2, 1. 2. 5, 13, 2.</ls> <ls>MBH. 1, 2957.</ls> <ls n="MBH. 1,">4628.</ls> <ls n="MBH.">2, 2150.</ls> <ls n="MBH.">6, 670.</ls> <ls n="MBH. 6,">3967.</ls> <ls>BHĀG. P. 2, 9, 11.</ls> {#कण्ठस्थेन निष्केण#} 
 <ls>HARIV. 13892.</ls> 
@@ -17,7 +17,7 @@
 <ls>Schol.</ls> zu <ls>P. 6, 2, 55.</ls> Auch {#राजतो निष्कः#} 
 <ls>PAÑCAV. BR. 17, 1, 14.</ls> 
 <ls>KĀTY. ŚR. 22, 4. 16.</ls> Am Fusse getragen: {#पन्निष्क, पाद°#} 
-<ls>P. 6, 3, 56, <is>Vārtt</is>.</ls> 
+<ls>P. 6, 3, 56</ls>, <is>Vārtt</is>. 
 <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%ein goldener Halsschmuck von bestimmtem Gewicht%} (das mit der Zeit variirt) {%und die Stelle von Geld vertritt%} (vgl.
 <lang n="russian">гривна</lang>):
 [Page4-0242]
@@ -25,13 +25,13 @@
 <ls>ṚV. 1, 126, 2.</ls> 
 <ls>AV. 20, 127, 3.</ls> 
 <ls>LĀṬY. 9, 9, 20.</ls> 
-<ls>ITIH.</ls> bei <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> <ls>MBH. 1, 8029.</ls> <ls n="MBH.">2, 2061.</ls> <ls n="MBH.">3, 1474.</ls> <ls n="MBH.">14, 2651.</ls> <ls>P. 5, 1, 30. 2, 119.</ls> <ls>R. 2, 32, 10.</ls> <ls>HIT. III, 121.</ls> {#निष्कसमाः स्त्रियः#} 
+<ls>ITIH.</ls> bei <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> <ls>MBH. 1, 8029.</ls> <ls n="MBH.">2, 2061.</ls> <ls n="MBH.">3, 1474.</ls> <ls n="MBH.">14, 2651.</ls> <ls>P. 5, 1, 30.</ls> <ls n="P. 5,">2, 119.</ls> <ls>R. 2, 32, 10.</ls> <ls>HIT. III, 121.</ls> {#निष्कसमाः स्त्रियः#} 
 <ls>VARĀH. BṚH. S. 73, 7.</ls> {#ब्राह्मणेभ्यो ऽददन्निष्कं#} (lies {#निष्कान्) सौवर्णस्य प्रभावतः#} 
 <ls>MBH. 7, 2361. fgg.</ls> {#हिरण्यनिष्कान्#} 
-<ls>3, 904.</ls> {#रुक्मनिष्कसहस्रे#} 
+<ls n="MBH.">3, 904.</ls> {#रुक्मनिष्कसहस्रे#} 
 <ls>R. 2, 70, 20.</ls> 
 <ls>MBH. 13, 4853.</ls> {#दास्यः सनिष्काः#} 
-<ls>4854.</ls> {#निष्कत्रयसुवर्णकम्#} 
+<ls n="MBH. 13,">4854.</ls> {#निष्कत्रयसुवर्णकम्#} 
 <ls>HARIV. 16364.</ls> {#शतेन निष्कं गणितं सहस्रेण च संमितम्#} 
 <ls>MBH. 13, 4439.</ls> {#चतुःसौवर्णिको निष्को विज्ञेयस्तु प्रमाणतः#} 
 <ls>M. 8, 137. 220. 284.</ls> 

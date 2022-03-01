@@ -30,8 +30,8 @@
 <ls n="ṚV. 5,">51, 13.</ls> {#वसु\र्वसु^पति\र्हि क\मस्य^ग्ने#} 
 <ls n="ṚV.">8, 44, 24.</ls> {#युगान्ते सर्वभूतानि दग्ध्वेव वसुरुल्बणः#} 
 <ls>MBH. 7, 6865.</ls> die <is>Marut</is> 
-<ls>ṚV. 5, 55, 8. 6, 50, 4. 7, 56, 17. <is>Indra</is> 1, 110, 7. 4, 32, 14. 7, 31, 3. 4.</ls> 
-<ls>AV. 7, 98, 1. <is>Uṣas</is></ls> 
+<ls>ṚV. 5, 55, 8.</ls> <ls n="ṚV.">6, 50, 4.</ls> <ls n="ṚV.">7, 56, 17.</ls> <is>Indra</is> <ls n="ṚV.">1, 110, 7.</ls> <ls n="ṚV.">4, 32, 14.</ls> <ls n="ṚV.">7, 31, 3.</ls> <ls n="ṚV. 7, 31,">4.</ls> 
+<ls>AV. 7, 98, 1.</ls>  <is>Uṣas</is>
 <ls>ṚV. 6, 64, 1.</ls> die <is>Aśvin</is> 
 <ls n="ṚV.">1, 158, 1.</ls> <is>Rudra</is>: {#श्रेष्ठो^ दे\वाना\ं वसु^ः#} 
 <ls n="ṚV. 1,">43, 5.</ls> {#वसु^रन्तरिक्ष\सत्#} (nach dem Comm. <is>Vāyu</is>; wohl collectiv zu verstehen) 
@@ -44,15 +44,15 @@
 <ls>VARĀH. BṚH. S. 98, 5.</ls> unter den <is>Viśvadevatā</is> 
 <ls>Verz. d. Oxf. H. 190,a,32.</ls> 
 <div n="2">— b) eine Klasse von Göttern, gewöhnlich neben den <is>Āditya</is> und <is>Rudra</is>, auch mit den <is>Viśve</is> <is>devāḥ</is> 
-? (<ls>ṚV. 2, 3, 4.</ls> <ls n="ṚV.">10, 125, 1.</ls> <ls>AV. 1, 9, 1. 30</ls>, 
+? (<ls>ṚV. 2, 3, 4.</ls> <ls n="ṚV.">10, 125, 1.</ls> <ls>AV. 1, 9, 1.</ls> <ls n="AV. 1, 9,">30</ls>, 
 <div n="1"> 1) und den <is>Aṅgiras</is> (
 <ls>ṚV. 7, 44, 4.</ls> 
 <ls>AV. 2, 12, 4</ls>) genannt: unter die Götter des obersten Gebiets gezählt 
 <ls>NAIGH. 5, 6.</ls> 
 <ls>NIR. 12, 41.</ls> ihr Haupt ist nach der ältesten Ansicht <is>Indra</is>, nach der späteren <is>Agni</is>; <is>gaṇa</is> {#पर्श्वादि#} zu 
-<ls>P. 5, 3, 117. <is>Vārtt</is>. 2</ls> zu <ls>4, 1, 177.</ls> <ls>AK. 1, 1, 1, 5. 3, 4, 30, 230.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5, 64.</ls> <ls>ṚV. 1, 45, 1.</ls> <ls n="ṚV. 1,">58, 3.</ls> <ls n="ṚV.">2, 31, 1.</ls> <ls n="ṚV.">3, 8, 8.</ls> <ls n="ṚV.">6, 62, 8.</ls> <ls n="ṚV.">7, 10, 4.</ls> <ls n="ṚV. 7,">35, 6.</ls> <ls n="ṚV. 7, 10,">14.</ls> <ls n="ṚV.">8, 35, 1.</ls> <ls n="ṚV. 8,">90, 15.</ls> <ls n="ṚV.">9, 67, 27.</ls> <ls n="ṚV.">10, 48, 11.</ls> <ls n="ṚV. 10,">66, 3.</ls> <ls>VĀLAKH. 6, 3.</ls> <ls>VS. 2, 5. 22. 5, 11. 11, 55. 58.</ls> <ls>AV. 10, 7, 22. 9, 8. 10, 30. fg. 11, 6, 13. 19, 9, 11.</ls> <ls>AIT. BR. 3, 42. 8, 12.</ls> <is>Bṛhaspati</is> mit den <is>Vasu</is> 
+<ls>P. 5, 3, 117.</ls> <is>Vārtt</is>. 2 zu <ls n="P.">4, 1, 177.</ls> <ls>AK. 1, 1, 1, 5. 3, 4, 30, 230.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5, 64.</ls> <ls>ṚV. 1, 45, 1.</ls> <ls n="ṚV. 1,">58, 3.</ls> <ls n="ṚV.">2, 31, 1.</ls> <ls n="ṚV.">3, 8, 8.</ls> <ls n="ṚV.">6, 62, 8.</ls> <ls n="ṚV.">7, 10, 4.</ls> <ls n="ṚV. 7,">35, 6.</ls> <ls n="ṚV. 7, 10,">14.</ls> <ls n="ṚV.">8, 35, 1.</ls> <ls n="ṚV. 8,">90, 15.</ls> <ls n="ṚV.">9, 67, 27.</ls> <ls n="ṚV.">10, 48, 11.</ls> <ls n="ṚV. 10,">66, 3.</ls> <ls>VĀLAKH. 6, 3.</ls> <ls>VS. 2, 5. 22. 5, 11. 11, 55. 58.</ls> <ls>AV. 10, 7, 22.</ls> <ls n="AV. 10,">9, 8.</ls> <ls n="AV. 10,">10, 30. fg.</ls> <ls n="AV.">11, 6, 13.</ls> <ls n="AV.">19, 9, 11.</ls> <ls>AIT. BR. 3, 42. 8, 12.</ls> <is>Bṛhaspati</is> mit den <is>Vasu</is> 
 <ls>AV. 6, 73, 1.</ls> - <ls>TBR. 1, 5, 11, 2. 2, 1, 10, 1.</ls> <ls>CHĀND. UP. 3, 16, 1.</ls> <ls>M. 11, 221.</ls> <ls>BHAG. 11, 6. 22.</ls> <ls>MBH. 3, 1840.</ls> <ls n="MBH. 3,">2356.</ls> <ls n="MBH.">13, 7774</ls> ({#वसूनेष#} mit der ed. Bomb. zu lesen). 
-<ls>14, 2414. fgg.</ls> <ls>HARIV. 441.</ls> <ls n="HARIV.">3007. fgg.</ls> <ls n="HARIV.">11849.</ls> <ls>R. 3, 52, 42.</ls> <ls>VARĀH. BṚH. S. 48, 56.</ls> <ls>PAÑCAR. 1, 11, 32.</ls> {#वसून्वदन्ति तु (वसु = पितृविशेष#} 
+<ls n="MBH.">14, 2414. fgg.</ls> <ls>HARIV. 441.</ls> <ls n="HARIV.">3007. fgg.</ls> <ls n="HARIV.">11849.</ls> <ls>R. 3, 52, 42.</ls> <ls>VARĀH. BṚH. S. 48, 56.</ls> <ls>PAÑCAR. 1, 11, 32.</ls> {#वसून्वदन्ति तु (वसु = पितृविशेष#} 
 <ls>MĀDH.</ls> im <ls>KĀLANIRṆAYA</ls>) {#पितॄन्रुद्रांश्चैव पितामहान् । प्रपितामहांस्तथादित्यान्#} 
 <ls>M. 3, 284.</ls> <is>Agni</is> mit den <is>Vasu</is> 
 <ls>AV. 19, 17, 1.</ls> 
@@ -148,8 +148,8 @@
 <ls n="ṚV. 1,">176, 3.</ls> {#इन्द्र\मुत्स\ं न वसु^नः सिचामहे#} 
 <ls n="ṚV.">2, 16, 7.</ls> {#वसु\ रत्ना\ दय^मानो\ वि दा\शुषे^#} 
 <ls n="ṚV.">3, 2, 4.</ls> {#वसू^नां च\ वसु^नश्च दा\वने^#} {%Güter und Gut%} 
-<ls n="ṚV.">10, 50, 7.</ls> <ls>AV. 7, 115, 2. 9, 4, 3. 10, 8, 20.</ls> {#अ\न्येषा^ं वि\न्दते\ वसु^#} 
-<ls>14, 2, 8.</ls> <ls>VS. 4, 16. 6, 7. 8. 18, 15.</ls> {#आ द्विषतो वसु दत्ते#} 
+<ls n="ṚV.">10, 50, 7.</ls> <ls>AV. 7, 115, 2.</ls> <ls n="AV.">9, 4, 3.</ls> <ls n="AV.">10, 8, 20.</ls> {#अ\न्येषा^ं वि\न्दते\ वसु^#} 
+<ls n="AV.">14, 2, 8.</ls> <ls>VS. 4, 16. 6, 7. 8. 18, 15.</ls> {#आ द्विषतो वसु दत्ते#} 
 <ls>AIT. BR. 4, 6.</ls> 
 <ls>ŚAT. BR. 1, 6, 4, 5. 9, 3, 2, 4. 14, 7, 2, 29.</ls> {#संगमनो वसूनाम्#} 
 <ls>ŚĀṄKH. GṚHY. 1, 7. 3, 2. 4.</ls> {#कोश इव वसुना#} ({#संपूर्णः#}) 
@@ -158,7 +158,7 @@
 {#पित्र्यस्य वसुनः#} 
 <ls>M. 9, 163. 196.</ls> {#यच्चान्यन्ममास्ति वसु किंचन#} 
 <ls>MBH. 3, 2161.</ls> <ls n="MBH. 3,">2276.</ls> <ls n="MBH. 3,">2297.</ls> <ls n="MBH. 3,">2309.</ls> <ls n="MBH. 3,">3036.</ls> {#वसु दत्त्वा च पुष्कलम्#} 
-<ls>2655. 13472.</ls> {#खण्डिते च वसुनि#} 
+<ls n="MBH. 3,">2655.</ls> <ls n="MBH. 3,">13472.</ls> {#खण्डिते च वसुनि#} 
 <ls>Spr. 2183.</ls> 
 <ls>KATHĀS. 23, 26.</ls> 
 <ls>RĀJA-TAR. 4, 682.</ls> 
@@ -167,7 +167,7 @@
 <ls>PAÑCAR. 1, 11, 36.</ls> {#वसुना नातिपुष्टो ऽभवत्#} 
 <ls>DAŚAK. 67, 15.</ls> {#जितो राज्यं वसूनि च#} 
 <ls>MBH. 3, 2483.</ls> {#वसुंधरा तस्य भवेत्सुतुष्टा धारां वसूनां प्रमुञ्चतीव#} 
-<ls>13390.</ls> {#वसूनां विमोक्षः#} 
+<ls n="MBH. 3,">13390.</ls> {#वसूनां विमोक्षः#} 
 <ls>R. 2, 23, 39.</ls> {#धनं धान्यं वसूनि च#} 
 <ls>4, 35, 16.</ls> <ls>KIR. 1, 13. 18.</ls> <ls>BHĀG. P. 2, 7, 9. 3, 30, 3. 9, 24, 52.</ls> <ls>VET. in LA. (III) 9, 18.</ls> {#वसुसंपूर्णा वसुधा#} 
 <ls>MBH. 3, 2238.</ls> {#वसतिं वसुसंपदाम्#} 
@@ -197,7 +197,7 @@
 <ls>BHĀG. P. 6, 6, 13.</ls> als Bez. {%der himmlischen%} <is>Gangā</is>: {#प्रासादा यत्र सौब्रर्णा वसोर्धारा (= मन्दाकिनी#} 
 <ls>NĪKAK.</ls>) {#च यत्र सा । गन्धर्वाप्सरसो यत्र तत्र यान्ति सहस्रदाः ॥#} 
 <ls>MBH. 13, 3789.</ls> N. pr. eines <is>Tīrtha</is> 
-<ls>3, 5018.</ls> 
+<ls n="MBH.">3, 5018.</ls> 
 <div n="2">— b) {%Gold%} 
 <ls>H. 1043.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> {#°वर्मधर#} 
 <ls>MBH. 3, 17165.</ls> 

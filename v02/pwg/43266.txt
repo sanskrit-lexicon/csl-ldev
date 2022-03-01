@@ -3,13 +3,13 @@
 <div n="1"> 1) {%Bewegung%}: {#सूर्य°#} 
 <ls>BHĀṢĀP. 122.</ls> {#नायं प्रतिबलः - मम । सोढुं युधि परिस्पन्दम्#} so v. a. {%Andrang%} 
 <ls>MBH. 1, 5969.</ls> {#गुरोर्वक्त्रपरिस्पन्दः#} so v. a. {%das Sprechen, Reden%} 
-<ls>2233.</ls> {#वायुरजायत परिस्पन्दाय कर्मणे#} 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 294. 321. fg. Schol.</ls> bei <ls>WILSON, SĀṂKHYAK. S. 42</ls> ({%transition%} 
+<ls n="MBH. 1,">2233.</ls> {#वायुरजायत परिस्पन्दाय कर्मणे#} 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 294. 321. fg.</ls> Schol. bei <ls>WILSON, SĀṂKHYAK. S. 42</ls> ({%transition%} 
 <ls>WILS.</ls>). {#मम बुद्धिपरिस्पन्दाद्वधस्तस्य भविष्यति#} so v. a. {%dadurch, dass in mir der Gedanke kommt%}, 
 <ls>MBH. 12, 12961.</ls> 
 <div n="1">— 2) {%Unterhaltung, Pflege%}: {#अग्निहोत्र°#} 
 <ls>MBH. 13, 6438.</ls> <ls n="MBH. 13,">6443.</ls> {#अग्नि°#} 
-<ls>6496.</ls> 
+<ls n="MBH. 13,">6496.</ls> 
 <div n="1">— 3) {%Gefolge%} 
 <ls>H. 715.</ls> 
 <ls>HALĀY. 2, 151.</ls> {#°स्यन्द#} v.l. 

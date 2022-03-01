@@ -7,7 +7,7 @@
 <ls>144, 18.</ls> {#प्रचण्डघोण#} 
 <ls>DRAUP. 7, 7.</ls> 
 <ls>MBH. 4, 2301.</ls> <ls n="MBH.">15, 660.</ls> {#प्रलम्बोज्ज्वलचारुघोण#} 
-<ls>1, 7082.</ls> {%Schnauze%} (eines Pferdes) 
+<ls n="MBH.">1, 7082.</ls> {%Schnauze%} (eines Pferdes) 
 <ls>AK. 2, 8, 2, 17.</ls> 
 <ls>MBH. 6, 3390.</ls> {%Schnabel%} (einer Eule) 
 <ls>MBH. 10, 38.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} <is>gaṇa</is> {#क्रोडादि#} zu 

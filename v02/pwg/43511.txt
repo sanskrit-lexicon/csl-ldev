@@ -4,12 +4,12 @@
 <ls>Schol.</ls> zu <ls>P. 3, 3, 38.</ls> <ls>AK. 2, 7, 36. 3, 3, 33.</ls> <ls>H. 1504.</ls> {#अब्दपर्यये#} 
 <ls>M. 11, 27.</ls> {#मुहूर्ताश्च निमेषाश्च तथैव युगपर्ययाः#} 
 <ls>MBH. 13, 989.</ls> {#सहस्रयुगपर्यये#} 
-<ls>2, 72.</ls> {#द्वापरे समनुप्राप्ते तृतीययुगपर्यये#} 
+<ls n="MBH.">2, 72.</ls> {#द्वापरे समनुप्राप्ते तृतीययुगपर्यये#} 
 <ls>BHĀG. P. 1, 4, 14.</ls> {#सा च रात्रिरपक्रान्ता सहस्रयुगपर्यया#} 
 <ls>HARIV. 533.</ls> {#कालपर्ययात्#} {%nach Ablauf einer bestimmten Zeit%} 
 <ls>YĀJÑ. 3, 217.</ls> 
 <ls>MBH. 1, 4502.</ls> {#कस्माच्चित्कालपर्ययात्#} dass. 
-<ls>3, 12414. 5, 7384.</ls> {#कालपर्यायेण#} (es ist wohl {#°पर्ययेण#} zu lesen) dass. 
+<ls n="MBH.">3, 12414.</ls> <ls n="MBH.">5, 7384.</ls> {#कालपर्यायेण#} (es ist wohl {#°पर्ययेण#} zu lesen) dass. 
 <ls>VET. in LA. 21, 18.</ls> {#मा भूत्कालस्य पर्ययः#} so v. a. {%möge die Zeit nicht unnütz verstreichen%} 
 <ls>R. 1, 24, 11. 26, 3.</ls> 
 <div n="1">— 2) {%Wechsel, Veränderung%}: {#ऋतु°#} 
@@ -17,8 +17,8 @@
 <ls>SUŚR. 2, 428, 3.</ls> 
 <ls>MBH. 1, 39.</ls> {#एतेन कर्मदोषेण पुरोधास्त्वमजायथाः । अहं राजा च विप्रेन्द्र पश्य कालस्य पर्ययम् ॥#} 
 <ls>MBH. 13, 489.</ls> {#यस्त्रिभिर्नित्यसंपन्नो रूपेणास्त्रेण मेधया । सो ऽश्वबन्धो विराटस्य पश्य कालस्य पर्ययम् ॥#} 
-<ls>4, 598.</ls> {#क्रियतां वासपर्ययः#} {%Wechsel des Wohnorts%} 
-<ls>3, 15357.</ls> <ls>VARĀH. BṚH. S. 42 (43), 17.</ls> {#पक्ष्मणो ऽपि निपातेन येषां स्यात्स्कन्धपर्ययः#} {%welche, wenn ein Wimperhaar zu Boden fällt, dasselbe mit einem%} (fallenden) {%Baumstamme verwechseln%}, 
+<ls n="MBH.">4, 598.</ls> {#क्रियतां वासपर्ययः#} {%Wechsel des Wohnorts%} 
+<ls n="MBH.">3, 15357.</ls> <ls>VARĀH. BṚH. S. 42 (43), 17.</ls> {#पक्ष्मणो ऽपि निपातेन येषां स्यात्स्कन्धपर्ययः#} {%welche, wenn ein Wimperhaar zu Boden fällt, dasselbe mit einem%} (fallenden) {%Baumstamme verwechseln%}, 
 <ls>MBH. 12, 449.</ls> {#मारुत°#} {%unregelmässiger Wechsel, Verkehrung%} 
 <ls>SUŚR. 2, 305, 5.</ls> {#नक्षत्राणाम्#} {%Verrückung%} 
 <ls>MBH. 12, 11134.</ls> 

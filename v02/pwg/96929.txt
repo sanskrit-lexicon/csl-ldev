@@ -5,10 +5,10 @@
 <ls>P. 6, 1, 16.</ls> 
 <ls>VOP. 13, 1.</ls> {#वव्रश्च, वव्रश्चिथ#} 
 <ls>8, 124. 135. 13, 1.</ls> <ls>P. 6, 1, 17.</ls> {#व्रक्ष्यति; व्रष्टा#} 
-<ls>P. 8, 2, 36, Schol.</ls> {#अव्रश्चीत्#} und {#अव्राक्षीत्#} 
+<ls>P. 8, 2, 36</ls>, Schol. {#अव्रश्चीत्#} und {#अव्राक्षीत्#} 
 <ls>VOP. 13, 1.</ls> {#व्रश्चित्वा#} 
 <ls>26, 219.</ls> <ls>P. 7, 2, 55.</ls> {#वृक्त्वी꣡; व्रष्टुम्#} 
-<ls>P. 8, 2, 36, Schol.</ls> pass. {#वृश्च्य꣡ते, वृक्षि#}; partic. {#वृक्ण꣡#} (hier und da fälschlich {#वृक्न#} geschrieben) 
+<ls>P. 8, 2, 36</ls>, Schol. pass. {#वृश्च्य꣡ते, वृक्षि#}; partic. {#वृक्ण꣡#} (hier und da fälschlich {#वृक्न#} geschrieben) 
 <ls>P. 6, 1, 16.</ls> 
 <ls>VOP. 26, 97.</ls> {%abhauen, zerschneiden, spalten; fällen%} (einen Baum): {#वना^#} 
 <ls>ṚV. 6, 2, 9.</ls> <ls n="ṚV.">10, 28, 8.</ls> {#प\र\शुं येन^ वृ\श्चात्#} 
@@ -17,9 +17,9 @@
 <ls n="ṚV. 10, 87,">10.</ls> <ls>AV. 13, 1, 56.</ls> <ls>ṚV. 3, 30, 16.</ls> <ls n="ṚV.">9, 91, 4.</ls> <ls n="ṚV.">10, 116, 5.</ls> {#अद्रि^म्#} 
 <ls n="ṚV. 10,">113, 4.</ls> {#कुलि^शेन#} 
 <ls>AV. 2, 12, 3.</ls> {#शिरो^ वृश्चामि श\कुने^रिव#} 
-<ls>25, 2.</ls> {#बा\हून्#} 
-<ls>3, 19, 2. 6, 65, 2.</ls> {#आयु^ः#} 
-<ls>12, 4, 28. 50. 5, 42.</ls> <ls>TS. 6, 3, 3, 4.</ls> {#यूपम्#} 
+<ls n="AV. 2,">25, 2.</ls> {#बा\हून्#} 
+<ls n="AV.">3, 19, 2.</ls> <ls n="AV.">6, 65, 2.</ls> {#आयु^ः#} 
+<ls n="AV.">12, 4, 28.</ls> <ls n="AV. 12, 4,">50.</ls> <ls n="AV. 12,">5, 42.</ls> <ls>TS. 6, 3, 3, 4.</ls> {#यूपम्#} 
 <ls>ŚAT. BR. 3, 6, 4, 1. 6. 11.</ls> {#दण्डम्#} 
 <ls>KAUŚ. 47.</ls> {#पाशान्#} 
 <ls>49.</ls> <ls>TBR. 3, 2, 10, 1.</ls> med.: {#समू^लो\ यश्च^ (केशः) वृ\श्चते^ (वृश्च्यते?)#} 
@@ -41,11 +41,11 @@
 [Page6-1501]
 
 <div n="p">— intens. {#वरीवृश्च्यते#} 
-<ls>PAT.</ls> zu <ls>P. 7, 4, 90.</ls> Schol. zu <ls>6, 1, 16.</ls>
+<ls>PAT.</ls> zu <ls>P. 7, 4, 90.</ls> Schol. zu <ls n="P.">6, 1, 16.</ls>
 
 <div n="p">— {#अपि#} {%abhauen, zerhauen%} 
 <ls>ṚV. 8, 40, 6.</ls> {#शी\र्षाणि\ हर\सापि^ वृश्च#} 
-<ls n="ṚV.">10, 87, 16.</ls> <ls>AV. 1, 7, 7. 2, 32, 2. 10, 6, 1.</ls> {#व\नु\ष्य\तामपि^ शी\र्षा व^वृक्तम्#} 
+<ls n="ṚV.">10, 87, 16.</ls> <ls>AV. 1, 7, 7.</ls> <ls n="AV.">2, 32, 2.</ls> <ls n="AV.">10, 6, 1.</ls> {#व\नु\ष्य\तामपि^ शी\र्षा व^वृक्तम्#} 
 <ls>ṚV. 6, 62, 10</ls> stellen wir hierher, weil {#वर्ज्#}, auf welches die Form wiese, sonst nicht mit {#अपि#} vorkommt; vielleicht wäre {#अप#} richtig.
 
 <div n="p">— {#अव#} {%abschneiden, abtrennen%}: {#वृष्ण्या^#} 
@@ -62,8 +62,8 @@
 <ls>AV. 15, 2, 1.</ls> 
 <ls>TBR. 1, 1, 4, 8.</ls> {#पि\तृभ्य^ः#} 
 <ls>3, 10, 7</ls>, wo statt {#वृश्चेत्#} des Textes und {#वृश्चेत#} des Comm. {#वृश्च्येत#} zu lesen sein wird, wie auch 
-<ls>AV. 12, 2, 50. 15, 2, 1. 12, 6</ls> und anderwärts in den <ls>BRĀHMAṆA</ls> die passive Form, welche die sorgfältigen Texte stets zeigen, wieder herzustellen ist. Mit loc.: {#दे\वेषु^#} 
-<ls>AV. 12, 4, 6. 15, 12, 6.</ls> Hierher ziehen wir auch wegen der Construction {#यत्ते\ तप\स्तस्मै^ ते\ मा वृ^क्षि#} 
+<ls>AV. 12, 2, 50.</ls> <ls n="AV.">15, 2, 1.</ls> <ls n="AV. 15,">12, 6</ls> und anderwärts in den <ls>BRĀHMAṆA</ls> die passive Form, welche die sorgfältigen Texte stets zeigen, wieder herzustellen ist. Mit loc.: {#दे\वेषु^#} 
+<ls>AV. 12, 4, 6.</ls> <ls n="AV.">15, 12, 6.</ls> Hierher ziehen wir auch wegen der Construction {#यत्ते\ तप\स्तस्मै^ ते\ मा वृ^क्षि#} 
 <ls>TS. 1, 6, 6, 1.</ls> 
 <ls>ŚĀṄKH. ŚR. 4, 13, 3.</ls> 
 <div n="v">— Vgl. {#आव्रश्चन#} fg.

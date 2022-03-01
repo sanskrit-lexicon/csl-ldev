@@ -1,14 +1,14 @@
 <L>36241<pc>3-0882<k1>धर्म<k2>ध꣡र्म
 {#ध꣡र्म#}¦ (von {#धर्#}) 
 <ls>UṆĀDIS. 1, 139.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P. 2, 4. 31.</ls> 
+<ls>P. 2, 4, 31.</ls> 
 <ls>AK. 1, 1, 4, 2.</ls> 
 <ls>TRIK. 3, 5, 11.</ls> 
 <ls>H. an. 2, 327.</ls> 
 <ls>MED. m. 16.</ls> Das <lex>n.</lex> selten. z. 
 <ls>B.</ls> <ls>MBH. 12, 2260.</ls> <ls n="MBH. 12,">9232</ls> ({#धर्माणि#} von {#धर्मन्?#}). 
-<ls>13, 1370.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
-<ls>12, 7850.</ls> <ls>R. 2, 42, 7.</ls> Der 
+<ls n="MBH.">13, 1370.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
+<ls n="MBH.">12, 7850.</ls> <ls>R. 2, 42, 7.</ls> Der 
 <ls>ṚV.</ls> kennt das Wort noch nich (vgl. 2. {#धर्मन्#}). 
 <div n="1"> 1) {%Satzung, Ordnung%}; 
 <div n="2"> a) {%Sitte, Recht, Pflicht, Tugend%}; 
@@ -26,8 +26,8 @@
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> = {#दानादिक#} 
 <ls>H. an.</ls> {#धर्म^ं पुरा\णम^नुपा\लय^न्ती#} {%die alte Sitte%} 
 <ls>AV. 18, 3, 1.</ls> {#श्रमो\ धर्म^श्च\ कर्म^ च#} 
-<ls>11, 7, 17.</ls> {#श्रीश्च\ धर्म^श्च#} 
-<ls>12, 5, 7.</ls> <ls>VS. 20, 9. 15, 6. 30, 6.</ls> <ls>TS. 3, 5, 2, 2.</ls> {#धर्मस्य गोप्ता#} 
+<ls n="AV.">11, 7, 17.</ls> {#श्रीश्च\ धर्म^श्च#} 
+<ls n="AV.">12, 5, 7.</ls> <ls>VS. 20, 9. 15, 6. 30, 6.</ls> <ls>TS. 3, 5, 2, 2.</ls> {#धर्मस्य गोप्ता#} 
 <ls>AIT. BR. 8, 12.</ls> {#तदेतत्क्षत्रस्य क्षत्रं यद्धर्मस्तस्माद्धर्मात्परं नास्त्यथो अबलीयान्बलीयांसमाशंसते धर्मेण यथा राज्ञैवं यो वै स धर्मः सत्यं वै तत्तस्मात्सत्यं वदन्तमाहुर्धर्मं वदतीति#} 
 <ls>ŚAT. BR. 14, 4, 2, 26.</ls> 
 <ls>TAITT. ĀR. 4, 42, 30.</ls> {#यो हि परमतां गच्छति तं हि धर्म उपयन्ति#} {%in Rechtssachen%} 
@@ -133,8 +133,8 @@
 <ls>MED.</ls> 
 <ls>HIḌ. 1, 34.</ls> 
 <ls>MBH. 1, 4759. fgg.</ls> {#धर्मतीर्थमनुत्तमम् । यत्र धर्मो महाभागस्तप्तवानुत्तमं तपः ॥#} 
-<ls>3, 7079.</ls> {#तत्र (धर्मप्रस्थे) धर्मः - नित्यमास्ते#} 
-<ls>8077.</ls> <ls>VARĀH. BṚH. S. 45, 10. 99, 1.</ls> <ls>LALIT. 26.</ls> im Gefolge des Sonnengottes 
+<ls n="MBH.">3, 7079.</ls> {#तत्र (धर्मप्रस्थे) धर्मः - नित्यमास्ते#} 
+<ls n="MBH. 3,">8077.</ls> <ls>VARĀH. BṚH. S. 45, 10. 99, 1.</ls> <ls>LALIT. 26.</ls> im Gefolge des Sonnengottes 
 <ls>VYĀḌI</ls> zu <ls>H. 103.</ls> mit <is>Viṣṇu</is> identif. 
 <ls>H. ś. 67.</ls> <ls>HARIV. 2382.</ls> <is>Dharma</is> als <is>Prajāpati</is> und Schwiegersohn <is>Dakṣa's</is> 
 <ls n="HARIV.">143.</ls> <ls n="HARIV.">11526.</ls> <ls n="HARIV.">11837.</ls> <ls n="HARIV.">12455.</ls> <ls>M. 9, 129.</ls> <ls>KUMĀRAS. 4, 43.</ls> <ls>VP. 54. 55. 115. 119.</ls> <ls>KŪRMA-P.</ls> in <ls>VP. 49, N. 2.</ls> <ls>BHĀG. P. 4, 1, 48.</ls> 

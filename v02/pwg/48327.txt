@@ -20,7 +20,7 @@
 <ls>VĀSAVAD. 8.</ls> {#सूपाय°#} 
 <ls>Spr. 1747.</ls> {#अर्थ°#} 
 <ls>Schol.</ls> zu <ls>JAIM. 1, 18.</ls> <ls>RAGH. 1, 1.</ls> {#विशेष°#} 
-<ls>PAT.</ls> bei <ls>GOLD. MĀN. 50.</ls> <ls>Schol.</ls> zu <ls>P. 3, 1, 92. 6, 2, 16. 3, 67. 8, 1, 24. 3, 2.</ls> {#शिबूनां प्रतिपत्तये#} 
+<ls>PAT.</ls> bei <ls>GOLD. MĀN. 50.</ls> <ls>Schol.</ls> zu <ls>P. 3, 1, 92.</ls> <ls n="P.">6, 2, 16.</ls> <ls n="P. 6,">3, 67.</ls> <ls n="P.">8, 1, 24.</ls> <ls n="P. 8,">3, 2.</ls> {#शिबूनां प्रतिपत्तये#} 
 <ls>Verz. d. Oxf. H. 182,a,17.</ls> {#तथापि ते व्यवसायः प्रतिपत्तिनिष्ठुरः#} 
 (Schol.: {#ज्ञानेन निष्ठुरः कठोरो ज्ञातुमशक्यः#}) 
 <ls>RAGH. 8, 64.</ls> {#विषादलुप्त°#} 
@@ -46,13 +46,13 @@
 (<ls>Schol. Calc.</ls> = {#ज्ञान#}) 
 <ls>RAGH. 15, 75.</ls> {#सौभद्रे प्रतिपत्तिं कां प्रत्यपद्यन्त मामकाः#} so v. a. {%was fingen sie mit ihm an?%} 
 <ls>MBH. 7, 1835.</ls> {#दुष्टानाम् (अश्वानाम्)#} {%das Verfahren mit bösen Pferden%} 
-<ls>4, 318.</ls> {#का तर्हि दण्डधनस्य प्रतिपत्तिः#} {%was fängt man mit den Strafgeldern an?%} 
+<ls n="MBH.">4, 318.</ls> {#का तर्हि दण्डधनस्य प्रतिपत्तिः#} {%was fängt man mit den Strafgeldern an?%} 
 <ls>KULL.</ls> zu <ls>M. 9, 244.</ls> {#भवत्यनिष्टादपि नाम दुःसहान्मनस्विनीनां प्रतिपत्तिरीदृशी#} {%ein solches Beginnen%} 
 <ls>KUMĀRAS. 5, 42.</ls> 
 <ls>R. 2, 22, 16. 23, 16.</ls> {#तस्मान्न प्रतिपत्तिस्तु कार्या युक्ता मता मम#} 
 <ls>MBH. 2, 663.</ls> {#प्रतिपत्तिं च कृच्छ्रेषु#} 
-<ls>1, 4151.</ls> {#°विशारद#} {%wissend was zu thun ist%} 
-<ls>8248. 7, 4848.</ls> {#°दक्ष#} 
+<ls n="MBH.">1, 4151.</ls> {#°विशारद#} {%wissend was zu thun ist%} 
+<ls n="MBH. 1,">8248.</ls> <ls n="MBH.">7, 4848.</ls> {#°दक्ष#} 
 <ls>Spr. 1340.</ls> {#°दर्शिन्#} {%zeigend, was zu thun ist%} 
 <ls>SADDH. P.4,51,a.</ls> {#अ°#} {%das Zögern an's Werk zu gehen, Unentschlossenheit%} 
 <ls>SĀH. D. 175. 33, 21.</ls> 

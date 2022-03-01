@@ -2,7 +2,7 @@
 {#संप्रदान#}¦ (wie eben) <lex>n.</lex> 
 <div n="1"> 1) {%das Geben, Schenken, Zukommenlassen%}: {#उक्ष्णाम्#} 
 <ls>MBH. 13, 3685.</ls> {#उपानह°#} 
-<ls>2960.</ls> (<ls>Spr. (II) 1542.</ls>) {#श्राद्धस्य#} 
+<ls n="MBH. 13,">2960.</ls> (<ls>Spr. (II) 1542.</ls>) {#श्राद्धस्य#} 
 <ls>PAÑCAR. 1, 13, 21.</ls> {%das Ueberliefern, Lehren%}: {#वेदस्य#} 
 <ls>VS. PRĀT. 8, 41.</ls> fg. {%das Uebergeben%}: {#स्वात्मव्यापार°#} 
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 304.</ls> {%Hingabe%}: {#आत्मनः#} 
@@ -15,9 +15,9 @@
 <ls>KAUṢ. UP. 2, 15</ls> (vgl. {#संप्रत्ति#}, welches durch {#संप्रदान#} erklärt wird). {#अ°#} {%das Nichtherausgeben, das Zurückhalten einer%} (versprochenen) {%Gabe%} 
 <ls>Journ. of the Am. Or. S. 7, 44.</ls> 
 <div n="1">— 2) {%die Person, für die man Etwas thut, der Begriff des Dativs%}: {#कर्मणा यमभिप्रैति स संप्रदानम्#} 
-<ls>P. 1, 4, 32. 44.</ls> {#चतुर्थी संप्रदाने#} 
-<ls>2, 3, 13. 3, 4, 73.</ls> {#देवतासंप्रदाने#} {%wenn die Person, für die Etwas gethan wird, eine Gottheit ist%} 
-<ls>2, 3, 61.</ls> {#यागसंप्रदानं देवता#} {%die Person, für welche ein Opfer geschieht, heisst%} <is>Devatā</is> 
+<ls>P. 1, 4, 32.</ls> <ls n="P. 1, 4,">44.</ls> {#चतुर्थी संप्रदाने#} 
+<ls n="P.">2, 3, 13.</ls> <ls n="P.">3, 4, 73.</ls> {#देवतासंप्रदाने#} {%wenn die Person, für die Etwas gethan wird, eine Gottheit ist%} 
+<ls n="P.">2, 3, 61.</ls> {#यागसंप्रदानं देवता#} {%die Person, für welche ein Opfer geschieht, heisst%} <is>Devatā</is> 
 <ls>KĀŚ.</ls> zu <ls>P. 4, 2, 24.</ls> 
 <div n="1">— 3) 
 <ls>MBH. 12, 13204</ls> wohl fehlerhaft für {#संप्रयाण#} . 

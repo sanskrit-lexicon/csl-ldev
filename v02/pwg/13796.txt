@@ -8,14 +8,14 @@
 <ls>AK. 2, 9, 48.</ls> 
 <ls>H. 395. 832.</ls> 
 <ls>MED. n. 43.</ls> <ls>ṚV. 8, 58, 14.</ls> {#क्षी\र\पा\कमो^द\नम्#} 
-<ls n="ṚV. 8,">66, 10.</ls> <ls n="ṚV. 8, 66,">6.</ls> <ls>AV. 4, 14, 7. 34, 3. 4. 8. 11, 3, 22. fgg.</ls> {#यां ते^ धे\नुं नि^पृ\णामि\ यमु^ ते क्षी\र ओ^द\नम्#} 
-<ls>18, 2, 30.</ls> <ls>ŚAT. BR. 1, 6, 4, 3. 4, 4, 2, 1.</ls> <ls>KĀTY. ŚR. 10, 2, 12. 19, 1, 20.</ls> {#उभे भवत ओदनम्#} 
+<ls n="ṚV. 8,">66, 10.</ls> <ls n="ṚV. 8, 66,">6.</ls> <ls>AV. 4, 14, 7.</ls> <ls n="AV. 4,">34, 3.</ls> <ls n="AV. 4, 34,">4.</ls> <ls n="AV. 4, 34,">8.</ls> <ls n="AV.">11, 3, 22. fgg.</ls> {#यां ते^ धे\नुं नि^पृ\णामि\ यमु^ ते क्षी\र ओ^द\नम्#} 
+<ls n="AV.">18, 2, 30.</ls> <ls>ŚAT. BR. 1, 6, 4, 3. 4, 4, 2, 1.</ls> <ls>KĀTY. ŚR. 10, 2, 12. 19, 1, 20.</ls> {#उभे भवत ओदनम्#} 
 <ls>KAṬHOP. 2, 25.</ls> 
 <ls>M. 8, 329.</ls> 
 <ls>VIŚV. 3, 3.</ls> 
 <ls>SUŚR. 1, 229, 19. 2, 76, 12.</ls> 
-<ls>P. 1, 2, 21,</ls> 
-<ls>Sch.</ls> {#ओदनभोजन꣡#} 
+<ls>P. 1, 2, 21</ls>, <ls>Sch.</ls>
+{#ओदनभोजन꣡#} 
 <ls>6, 2, 150</ls>, <ls>Sch.</ls> Besondere Arten von {%Muss%} sind: {#क्षीरौदन꣡#} 
 <ls>KAUŚ. 138.</ls> 
 <ls>ŚAT. BR. 2, 5, 3, 4. 11, 5, 7, 5. 14, 9, 4, 13.</ls> 
@@ -36,8 +36,8 @@
 <ls>P. 6, 3, 60.</ls> {#गुडोदन#} (sic) 
 <ls>MBH. 13, 6162.</ls> {#ओदन#} am Anf. eines comp. vor einem
 <lang n="greek">διδαςκαλωνυμικόν</lang> in dem Sinne, dass es dem Schüler nicht um den Unterricht, sondern bloss um den {%Brei%} des Lehrers zu thun sei: {#ओ꣡दनपाणिनीयाः#} 
-<ls>P. 6, 2, 69,</ls> 
-<ls>Sch. 1, 1, 73</ls>, <is>Vārtt</is>. 
+<ls>P. 6, 2, 69</ls>, <ls>Sch. 1, 1, 73</ls>, 
+<is>Vārtt</is>. 
 <ls>2, Sch. -</ls> <ls>NAIGH. 1, 10</ls> erscheint {#ओदन#} <lex>m.</lex> unter den Namen für {%Wolke.%} 
 <div n="v">— Vgl. {#अमृतोदन, पञ्चौदन, ब्रह्मौदन, व्योदन, शतौदन#} . 
 <div n="1">— 2) <lex>f.</lex> {#°नी#} N. einer Pflanze, {%Sida cordifolia%} ({#बला#}), 

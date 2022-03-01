@@ -9,13 +9,13 @@
 <ls>AV. 5, 21, 8.</ls> {#सा बिभ्यती त्रसति#} 
 <ls>ŚAT. BR. 3, 1, 2, 17.</ls> {#शब्दादन्यो ऽत्रसद्भृशम्#} 
 <ls>MBH. 7, 1402.</ls> {#यथा सिंहस्य नदतः स्वनं श्रुत्वेतरे मृगाः । त्रसेयुः#} 
-<ls>6, 20.</ls> {#यस्मात्त्रसन्ति ह्युद्विग्ना दस्यवः#} 
+<ls n="MBH.">6, 20.</ls> {#यस्मात्त्रसन्ति ह्युद्विग्ना दस्यवः#} 
 <ls>BHĀG. P. 9, 6, 33. 4, 10, 6. 3, 17, 13.</ls> {#त्रसन्ति इव चेतांसि तावकानां महाहवे । दृष्ट्वा#} 
 <ls>MBH. 6, 4859.</ls> 
 <ls>DHŪRTAS. 66, 14.</ls> {#मा त्रसस्व#} 
 <ls>MBH. 13, 2050.</ls> {#भयात्त्रस्यसि#} 
-<ls>3, 3080.</ls> {#यस्मात्त्रस्यन्ति भूतानि#} 
-<ls>5, 1119.</ls> <ls>R. 5, 45, 18.</ls> <ls>RĀJA-TAR. 6, 275.</ls> {#त्रस्यन्त्#} partic. 
+<ls n="MBH.">3, 3080.</ls> {#यस्मात्त्रस्यन्ति भूतानि#} 
+<ls n="MBH.">5, 1119.</ls> <ls>R. 5, 45, 18.</ls> <ls>RĀJA-TAR. 6, 275.</ls> {#त्रस्यन्त्#} partic. 
 <ls>5, 141.</ls> <ls>ŚIŚ. 8, 24.</ls> <ls>BHAṬṬ. 5, 75.</ls> {#(हयः) त्रस्यन्नेष्टो राज्ञः#} 
 <ls>VARĀH. BṚH. S. 43 (34), 19.</ls> {#यस्य राष्ट्रे प्रजाः सर्वास्त्रस्यन्ते साध्व्यसाधुभिः#} 
 <ls>BHĀG. P. 1, 17, 10.</ls> {#त्रसिष्यसि#} 
@@ -30,7 +30,7 @@
 <ls>VARĀH. BṚH. S. 93, 12.</ls> {#रासभ°#} 
 <ls>BHĀG. P. 3, 17, 12.</ls> {#भय°#} 
 <ls>MBH. 4, 841.</ls> {#विमनास्त्रस्तः#} 
-<ls>3, 1431.</ls> <ls>R. 3, 51, 14.</ls> <ls>DAŚ. 1, 35. 2, 59.</ls> <ls>RĀJA-TAR. 5, 345.</ls> {%feig%} 
+<ls n="MBH.">3, 1431.</ls> <ls>R. 3, 51, 14.</ls> <ls>DAŚ. 1, 35. 2, 59.</ls> <ls>RĀJA-TAR. 5, 345.</ls> {%feig%} 
 <ls>H. ś. 93.</ls> {#अत्रस्त#} {%unerschrocken%} 
 <ls>RAGH. 1, 21.</ls> In der Tonkunst bezeichnet {#त्रस्त#} {%das schnelle Tempo%} 
 <ls>SAM̃GĪTADĀM.</ls> im <ls>ŚKDR.</ls> — caus. {#त्रासयति#} 
@@ -44,9 +44,9 @@
 <ls>PAÑCAT. 193, 23.</ls> 
 <ls>BHĀG. P. 3, 21, 52. 4, 10, 23.</ls> {#त्रासयेताम्#} imperf. med. 
 <ls>MBH. 6, 1696.</ls> {#त्रासयान#} 
-<ls>2141. 2265. 7, 1442. 14, 2694.</ls> <ls>R. 2, 110, 25.</ls> {#त्रास्यमान#} 
+<ls n="MBH. 6,">2141.</ls> <ls n="MBH. 6,">2265.</ls> <ls n="MBH.">7, 1442.</ls> <ls n="MBH.">14, 2694.</ls> <ls>R. 2, 110, 25.</ls> {#त्रास्यमान#} 
 <ls>MBH. 3, 8731.</ls> {#त्रासित#} 
-<ls>4, 840. 14, 266.</ls> <ls>ARJ. 9, 24.</ls> <ls>R. 4, 1, 14.</ls> <ls>PAÑCAT. 140. 23.</ls> <ls>HIT. 38, 9. 14. 39, 3.</ls> — <is>Aristarch</is> hält hei
+<ls n="MBH.">4, 840.</ls> <ls n="MBH.">14, 266.</ls> <ls>ARJ. 9, 24.</ls> <ls>R. 4, 1, 14.</ls> <ls>PAÑCAT. 140. 23.</ls> <ls>HIT. 38, 9. 14. 39, 3.</ls> — <is>Aristarch</is> hält hei
 <lang n="greek">τρέω</lang> die Bedeutung {%fliehen%} für die ursprüngliche und die Stellen aus <is>Veda</is> und 
 <ls>ŚAT. BR.</ls> könnten auch für diese Bed. von {#त्रस्#} geltend gemacht werden; auf der auderen Seite aber steht die Bed. {%in Bewegung gerathen, erzittern%} auch von leblosen Dingen fest und stellt sich durch Vergleichung des Slawischen sogar als alt heraus; der Uebergang von {%zittern%} zu {%fliehen%} erscheint uns aber natürlicher als der umgekehrte.
 
@@ -91,7 +91,7 @@
 <ls>MBH. 3, 8668.</ls> {#वित्रस्यन्ति#} 
 <ls>R. 3, 13, 14.</ls> {#वितत्रास#} 
 <ls>5, 28, 1.</ls> <ls>MBH. 3, 16128.</ls> {#वितत्रसुः#} 
-<ls>6, 1648. 7, 3145.</ls> <ls>BHĀG. P. 7, 8, 17.</ls> {#वित्रेसुः#} 
+<ls n="MBH.">6, 1648.</ls> <ls n="MBH.">7, 3145.</ls> <ls>BHĀG. P. 7, 8, 17.</ls> {#वित्रेसुः#} 
 <ls>MBH. 1, 8316.</ls> <ls n="MBH.">3, 12091.</ls> <ls n="MBH.">4, 817.</ls> <ls n="MBH.">7, 3143</ls> ({#वित्रेषुः#}). 
 <ls>R. 2, 103, 41. 4, 13, 47.</ls> {#वित्रस्त#} {%erschrocken, in Angst seiend%} 
 <ls>MBH. 1, 5964.</ls> <ls n="MBH. 1,">7632.</ls> 
@@ -101,14 +101,14 @@
 <ls>VID. 328.</ls> 
 <ls>BHĀG. P. 5, 14, 29.</ls> {#अवित्रस्त#} 
 <ls>MBH. 1, 5496.</ls> so ist auch st. {#अन्वत्रस्त#} 
-<ls>5, 181</ls> zulesen. — caus. {%erschrecken, in Angst setzen%} 
+<ls n="MBH.">5, 181</ls> zulesen. — caus. {%erschrecken, in Angst setzen%} 
 <ls>M. 7, 196.</ls> 
 <ls>MBH. 3, 698.</ls> <ls n="MBH.">7, 1177.</ls> 
 <ls>R. 6, 15, 17. 37, 29.</ls> {#वित्रासयेताम्#} imperf. med. 
 <ls>MBH. 3, 13566.</ls> {#वित्रासयितुकाम#} 
 <ls>R. 3, 68, 8.</ls> {#वित्रासयित्वा#} 
 <ls>MBH. 4, 1177.</ls> <ls n="MBH. 4,">2013.</ls> {#वित्रास्यमान#} 
-<ls>3, 13566.</ls> <ls>RĀJA-TAR. 6, 3.</ls> {#वित्रासित#} 
+<ls n="MBH.">3, 13566.</ls> <ls>RĀJA-TAR. 6, 3.</ls> {#वित्रासित#} 
 <ls>MBH. 3, 2668.</ls> <ls n="MBH.">6, 2588.</ls> 
 <ls>R. 2, 93, 16. 97, 9. 4, 18, 6. 5, 95, 28.</ls>
 

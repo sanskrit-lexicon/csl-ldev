@@ -20,9 +20,9 @@
 <ls>Spr. (II) 5898.</ls> 
 <ls>KATHĀS. 35, 81.</ls> act. (des Metrums wegen): {#स्मयति#} 
 <ls>MBH. 3, 951.</ls> {#स्मयामि#} 
-<ls>952.</ls> {#अस्मयत्#} 
-<ls>12, 921.</ls> {#स्मयन्त्#} 
-<ls>2, 273. 3, 1781. 2878. 3046. 5, 5980. 7124. 7145. 7294.</ls> <ls>Spr. (II) 7249, v. l.</ls> <ls>BHĀG. P. 1, 5, 1. 3, 17, 27. 6, 17, 25. 8, 12, 3. 9, 23, 36. 10, 9, 17.</ls> 
+<ls n="MBH. 3,">952.</ls> {#अस्मयत्#} 
+<ls n="MBH.">12, 921.</ls> {#स्मयन्त्#} 
+<ls n="MBH.">2, 273.</ls> <ls n="MBH.">3, 1781.</ls> <ls n="MBH. 3,">2878.</ls> <ls n="MBH. 3,">3046.</ls> <ls n="MBH.">5, 5980.</ls> <ls n="MBH. 5,">7124.</ls> <ls n="MBH. 5,">7145.</ls> <ls n="MBH. 5,">7294.</ls> <ls>Spr. (II) 7249, v. l.</ls> <ls>BHĀG. P. 1, 5, 1. 3, 17, 27. 6, 17, 25. 8, 12, 3. 9, 23, 36. 10, 9, 17.</ls> 
 <div n="1">— 2) {%Hochmuth an den Tag legen%} (nach dem Comm.; vgl. {#स्मय#}): {#स्मयन्निव गतस्मयः#} 
 <ls>BHĀG. P. 3, 7, 8.</ls> 
 <div n="1">— 3) partic. {#स्मित#} 
@@ -126,7 +126,7 @@ acc. <ls>MBH. 2, 2391.</ls> <ls>HARIV. 3827.</ls> {%lächelnd%}
 <ls>HARIV. 13448.</ls> ({#विसिस्मयुस्#} die neuere Ausg.). {#विसिस्म्युस्#} 
 <ls>BHĀG. P. 4, 24, 23. 10, 84, 1.</ls> {#विस्मयामास#} 
 <ls>MBH. 13, 1356.</ls> {#विस्मित्य#} 
-<ls>3, 2132.</ls> 
+<ls n="MBH.">3, 2132.</ls> 
 <div n="1">— 2) {%stolz sein auf, grossthun mit%} (instr.): {#न विस्मयेत तपसा#} 
 <ls>M. 4, 236.</ls> 
 <div n="1">— 3) partic. {#विस्मित#} 
@@ -162,7 +162,7 @@ acc. <ls>MBH. 8, 625.</ls> {#जगत्सर्वम्#}
 <ls>KATHĀS. 61, 256.</ls> 
 <ls>RĀGHAV. 11, 7.</ls> <ls>BHĀG. P. 9, 20, 27.</ls> {#विस्मापित#} 
 <ls>1, 15, 12.</ls> <ls>PRAB. 81, 9.</ls> {#देवान्नृत्येन विस्माययति (°स्मापयति#} die neuere Ausg.). Nach 
-<ls>P. 1, 3, 68. 6, 1, 57</ls> und <ls>VOP. 18, 18</ls> {#विस्मापयते#}, wenn der Agens unmittelbar das Staunen erregt, und {#विस्माययति (विस्मापयति#} 
+<ls>P. 1, 3, 68.</ls> <ls n="P.">6, 1, 57</ls> und <ls>VOP. 18, 18</ls> {#विस्मापयते#}, wenn der Agens unmittelbar das Staunen erregt, und {#विस्माययति (विस्मापयति#} 
 <ls>SIDDH. K.153,b</ls>, 4), wenn eine nähere Angabe, wodurch dieses geschieht, im instr. dabeisteht: {#मुण्डो विस्मापयते#} (vgl. 
 <ls>BHAṬṬ. 5, 58. 8, 42. 17, 84</ls>), {#रूपेण विस्माययति#} . 
 <div n="v">— Vgl. {#विस्मापक#} fgg. — desid. vom caus. s. {#विसिस्मापयिषु#} .

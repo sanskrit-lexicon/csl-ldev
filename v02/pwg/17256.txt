@@ -1,6 +1,6 @@
 <L>17256<pc>2-0289<k1>कियन्त्<k2>कि꣡यन्त्
 {#कि꣡यन्त्#}¦ (von 1. {#कि#}) 
-<ls>P. 5, 2, 40. 6, 3, 90.</ls> 
+<ls>P. 5, 2, 40.</ls> <ls n="P.">6, 3, 90.</ls> 
 <ls>VOP. 7, 94.</ls> am Ende eines adv. comp. {#कियत꣡म्#} <is>gaṇa</is> {#शरदादि#} zu 
 <ls>P. 5, 4, 107.</ls> 
 <div n="1"> 1) pron. <lex>adj.</lex> interr. {%wie gross, wie weit, wie viel, von welchem Umfange, wie mannigfaltig, von welcher Beschaffenheit%}: {#कि꣡यत्#} adv. {%wie weit, wie viel, wie (quam)%}: {#इ\दं मे^ अग्ने\ किय^ते पाव\कामि^नते गु\रुं भा\रं न मन्म^#} 
@@ -9,7 +9,7 @@
 <ls n="ṚV.">4, 17, 12.</ls> {#कियद्यूयमश्वमेधस्य वित्थ#} 
 <ls>ŚAT. BR. 13, 4, 2, 17.</ls> {#किय^दासु\ स्वप^तिश्छन्दयाते#} 
 <ls>ṚV. 10, 27, 8.</ls> {#किय^ता स्क\म्भः प्र वि^वेश भू\तं किय^द्भवि\ष्यद\न्वाश^ये ऽस्य#} 
-<ls>AV. 10, 7, 9. 8.</ls> 
+<ls>AV. 10, 7, 9.</ls> <ls n="AV. 10, 7,">8.</ls> 
 <ls>NIR. 6, 20.</ls> {#किया\त्या (कियति + आ)#} {%wie lange her%}: {#किया\त्या यत्स\मया\ भवा^ति#} 
 <ls>ṚV. 1, 113, 10.</ls> {#किया\त्या प्र^थ\मः सर्ग^ आसाम्#} 
 <ls n="ṚV.">2, 30, 1.</ls> — {#कियत्यध्वनि तद्वनम्#} {%in wie grosser Entfernung ist dieser Wald%} 

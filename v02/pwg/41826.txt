@@ -12,9 +12,9 @@
 <ls>MBH. 1, 5639.</ls> 
 <ls>R. 2, 89, 12 (97, 17 GORR.). 17.</ls> {#धनंजय#} 
 <ls>MBH. 4, 1639.</ls> {#बल#} 
-<ls>1, 4423.</ls> {#पताकिनो मण्डलिनः फणवन्तश्च (सर्पाः)#} 
-<ls>2, 363.</ls> {#हयैश्च सपताकिभिः#} 
-<ls>3, 646.</ls> 
+<ls n="MBH.">1, 4423.</ls> {#पताकिनो मण्डलिनः फणवन्तश्च (सर्पाः)#} 
+<ls n="MBH.">2, 363.</ls> {#हयैश्च सपताकिभिः#} 
+<ls n="MBH.">3, 646.</ls> 
 <div n="2">— b) Bez. {%einer best. zum Wahrsagen dienenden Figur%} ({#रिष्टारिष्टबोधकचक्रविशेष#}) 
 <ls>ŚKDR.</ls> <lex>m.</lex> {%a scheme for casting a nativity%} 
 <ls>WILS.</ls> 

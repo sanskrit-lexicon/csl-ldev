@@ -1,8 +1,8 @@
 <L>59737<pc>5-0714<k1>माधव<k2>माधव
 {#माधव#}¦ (von {#मधु)#} 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} (aber {#माधवा [= मधव्या, मधु] तनूः#} 
-<ls>P. 4, 4, 129,</ls> 
-<ls>Sch.</ls>) 
+<ls>P. 4, 4, 129</ls>, <ls>Sch.</ls>) 
+
 <div n="2"> a) {%zum Frühling in Beziehung stehend%}: {#अहनि#} {%an einem Frühlingstage%} 
 <ls>HARIV. 12013.</ls> {#लक्ष्मी#} {%Frühlingspracht%} 
 <ls>VIKR. 23.</ls> {#मञ्जरी#} 
@@ -27,8 +27,8 @@
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— d) {%ein Sohn%} oder {%Nachkomme%} <is>Madhu's</is>, {%ein Mann aus%} <is>Yadu's</is> {%Geschlecht%} (ein Sohn <is>Yadu's</is> heisst <is>Mādhava</is> 
 <ls>HARIV. 5206.</ls> <ls n="HARIV.">5215.</ls> {#मागध#} die neuere Ausg.) 
-<ls>P. 4, 1, 106,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 4, 1, 106</ls>, <ls>Sch.</ls> 
+
 <ls>MED.</ls> {#माधवाः = यादवाः = वृष्णयः#} 
 <ls>HARIV. 1898.</ls> 
 <ls>VP. 418.</ls> 
@@ -45,7 +45,7 @@
 <ls>BHĀG. P. 6, 8, 19.</ls> 
 <ls>PAÑCAR. 4, 3, 30.</ls> <is>Paraśurāma</is> (als <is>Viṣṇu's</is> Incarnation) so genannt 
 <ls>MBH. 9, 2725.</ls> {#माधवोत्तम#} 
-<ls>2726.</ls> auf <is>Śiva</is> übertragen 
+<ls n="MBH. 9,">2726.</ls> auf <is>Śiva</is> übertragen 
 <ls>ŚIV.</ls> 
 <div n="2">— e) als Bein. <is>Indra's</is> wohl nur eine Verwechselung mit {#वासव#} 
 <ls>Spr. 2367. 3637, v. l.</ls> 
@@ -53,7 +53,7 @@
 <ls>HARIV. 424.</ls> eines der sieben Weisen unter <is>Manu</is> <is>Bhautya</is> 
 <ls>MĀRK. P. 100, 31.</ls> eines andern alten Weisen 
 <ls>Verz. d. Oxf. H. 268,a,35.</ls> N. pr. verschiedener anderer Männer 
-<ls>HIOUEN-THSANG I,442. fg.</ls> <ls>KATHĀS. 24,81. fg. 27,88.</ls> <ls>HIT. 128,3.</ls> <ls>MĀLATĪM. 11,12.</ls> <ls>Verz. d. Oxf. H. 162,b,20. 219,a, No. 523. 248,a,29. 264,a,8. 295,a, No. 713. 312,a, No. 745. 332,b, No. 784. 357,b, No. 851. 379,a, No. 388.</ls> <ls>Ind. St.4,174.</ls> <ls>MED. Anh. 4.</ls> <ls>SIDDH. K.</ls> zu <ls>P.1,2,6.3,1,82.5,1,126.7,2,18.</ls> <ls>Sch.</ls> zu <ls>5,2,139.</ls> <ls>HALL 119. 173.</ls> <ls>HAEB. Anth. 373.</ls> 
+<ls>HIOUEN-THSANG I,442. fg.</ls> <ls>KATHĀS. 24, 81. fg. 27, 88.</ls> <ls>HIT. 128, 3.</ls> <ls>MĀLATĪM. 11, 12.</ls> <ls>Verz. d. Oxf. H. 162,b,20. 219,a, No. 523. 248,a,29. 264,a,8. 295,a, No. 713. 312,a, No. 745. 332,b, No. 784. 357,b, No. 851. 379,a, No. 388.</ls> <ls>Ind. St.4,174.</ls> <ls>MED. Anh. 4.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 1, 2, 6.</ls> <ls n="P.">3, 1, 82.</ls> <ls n="P.">5, 1, 126.</ls> <ls n="P.">7, 2, 18.</ls> <ls>Sch.</ls> zu <ls>5, 2, 139.</ls> <ls>HALL 119. 173.</ls> <ls>HAEB. Anth. 373.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#ई#} 
 <div n="2"> a) {%Honigzucker%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
@@ -80,8 +80,8 @@
 <ls>MED.</ls> 
 <div n="2">— f) {%ein Frauenzimmer aus%} <is>Madhu's</is> oder <is>Yadu's</is> {%Geschlecht%}: <is>Anantā</is> (Gattin <is>Janamejaya's</is>) 
 <ls>MBH. 1, 3765.</ls> <is>Saṃpriyā</is> (Gattin <is>Vidūratha's</is>) 
-<ls>3793.</ls> <is>Kuntī</is> 
-<ls>5824.</ls> 
+<ls n="MBH. 1,">3793.</ls> <is>Kuntī</is> 
+<ls n="MBH. 1,">5824.</ls> 
 <div n="2">— g) N. der <is>Dākṣāyaṇī</is> in <is>Śrīśaila</is> 
 <ls>Verz. d. Oxf. H. 39,b,3.</ls> = <is>Durgā</is> 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 

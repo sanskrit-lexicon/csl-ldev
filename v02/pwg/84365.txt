@@ -8,13 +8,13 @@
 <ls>R. 7, 64, 10. 4, 26, 24.</ls> {#वर्षारात्र#} <lex>m.</lex> 
 <ls>VOP. 6, 46. 51.</ls> {#द्वादशरात्रे#} 
 <ls>MBH. 1, 6614.</ls> {#अष्टाविंशतिरात्रं#} (acc.) {#वा मासं वा#} 
-<ls>4, 1173.</ls> {#त्रिरात्रम्#} acc. {%drei Tage hindurch%} 
-<ls>14, 2195.</ls> <ls>PAÑCAT. 8, 19.</ls> {#त्रिरात्राणि#} 
+<ls n="MBH.">4, 1173.</ls> {#त्रिरात्रम्#} acc. {%drei Tage hindurch%} 
+<ls n="MBH.">14, 2195.</ls> <ls>PAÑCAT. 8, 19.</ls> {#त्रिरात्राणि#} 
 <ls>MBH. 3, 4060.</ls> {#दशरात्रेण#} {%zehn Nächte hindurch%} 
 <ls>R. 1, 21, 18.</ls> {#कतिपयरात्रम्#} acc. {%einige Nächte hindurch%} 
 <ls>ŚĀK. 28, 14.</ls> {#पञ्चदशरात्रः#} 
-<ls>P. 3, 3, 137,</ls> 
-<ls>Sch.</ls> {#ततो नाज्ञायत तदा दिवारात्रं तथा दिशः#} {%nicht Tag noch Nacht%} 
+<ls>P. 3, 3, 137</ls>, <ls>Sch.</ls>
+{#ततो नाज्ञायत तदा दिवारात्रं तथा दिशः#} {%nicht Tag noch Nacht%} 
 <ls>MBH. 3, 816.</ls> {#दिवारात्रम्#} adv. {%am Tage und in der Nacht%} 
 <ls>M. 5, 80.</ls> 
 <ls>MBH. 3, 2647.</ls> <ls n="MBH. 3,">12540.</ls> <ls n="MBH.">16, 38.</ls> 

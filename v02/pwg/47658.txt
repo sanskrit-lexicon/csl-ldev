@@ -1,7 +1,7 @@
 <L>47658<pc>4-0901<k1>प्रकार<k2>प्रकार
 {#प्रकार#}¦ (von 1. {#कर्#} mit {#प्र#}) <lex>m.</lex> 
-<ls>P. 6, 3, 122, <is>Vārtt</is>. 2,</ls> 
-<ls>Sch.</ls> {%Art, Weise%}; = {#भेद#} und {#सादृश्य (सदृश, तुल्य)#} 
+<ls>P. 6, 3, 122</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls>
+{%Art, Weise%}; = {#भेद#} und {#सादृश्य (सदृश, तुल्य)#} 
 <ls>AK. 3, 4, 25, 164.</ls> 
 <ls>H. an. 3, 573.</ls> 
 <ls>MED. r. 181.</ls> <ls>HALĀY. 4, 9.</ls> = {#वृत्तान्त#} 
@@ -10,7 +10,7 @@
 <ls>N. 13, 13.</ls> {#तैस्तैः प्रकारैः#} 
 <ls>MBH. 1, 7412.</ls> {#केन प्रकारेण#} 
 <ls>PAÑCAT. 199, 20.</ls> {#प्रकारान्तरेण#} 
-<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 70.</ls> <ls>P. 5, 3, 69. 8, 1, 12.</ls> <ls>VOP. 7, 44. 73.</ls> <ls>HALĀY. 5, 101.</ls> {#चतुर्भिः प्रकारैः#} 
+<ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 70.</ls> <ls>P. 5, 3, 69.</ls> <ls n="P.">8, 1, 12.</ls> <ls>VOP. 7, 44. 73.</ls> <ls>HALĀY. 5, 101.</ls> {#चतुर्भिः प्रकारैः#} 
 <ls>VET. in LA. 11, 3.</ls> {#प्रकारोत्करः#} {%eine Menge Arten%} (von Speisen) 
 <ls>DHŪRTAS. 79, 15.</ls> {#अस्वाधीनं कथं दैवं प्रकारैरभिराध्यते#} {%durch dieses oder jenes Mittel%} 
 <ls>R. 2, 30, 33.</ls> {#मांसप्रकारैर्विविधैः#} {%mannichfache Arten von Fleisch%} 

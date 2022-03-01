@@ -10,7 +10,7 @@
 <ls>MED. t. 69.</ls> <ls>HALĀY. 2, 231.</ls> <ls>M. 2, 196. 8, 2. 10. 4, 47.</ls> <ls>MBH. 3, 2427.</ls> <ls>RAGH. 1, 89. 2, 6.</ls> <ls>Spr. (II) 913.</ls> <ls>ŚĀK. 45. 136, v. l.</ls> <ls>KATHĀS. 18, 97.</ls> <ls>BHĀG. P. 3, 28, 37.</ls> {#परस्परस्थितौ#} {%sich%} (feindlich) {%gegenüberstehend%} 
 <ls>RAGH. 11, 82.</ls> {#°लिङ्ग#} <lex>adj.</lex> {%ein stehendes Glied habend%} 
 <ls>MBH. 7, 9625.</ls> {#स्थिर°#} st. dessen 
-<ls>13, 7512.</ls> 
+<ls n="MBH.">13, 7512.</ls> 
 <div n="2">— b) {%stehend%} so v. a. {%Stand haltend, nicht weichend%}: {#युद्धे#} 
 <ls>HARIV. 10584.</ls> 
 <ls>Spr. (II) 3461.</ls> 
@@ -84,7 +84,7 @@ ad <ls>ŚĀK. 135</ls> (zeitlich so v. a. {%bevorstehend%}).
 <div n="3">— ε) ein in demselben Casus stehendes Nomen: {#स्थितास्मि तावत्कन्यैव#} 
 <ls>KATHĀS. 24, 201.</ls> {#तान्समीक्ष्य ततः सर्वान्निर्विशेषाकृतीन्स्थितान्#} 
 <ls>MBH. 3, 2201.</ls> {#विनयावनता#} 
-<ls>2467.</ls> {#विप्रा धर्मपराः#} 
+<ls n="MBH. 3,">2467.</ls> {#विप्रा धर्मपराः#} 
 <ls>HARIV. 11306.</ls> 
 <ls>R. 1, 63, 13.</ls> {#स्थितं मनः शत्रुवधे सुनिश्चितम्#} 
 <ls>3, 28, 10.</ls> {#विस्मितं कुमारसैन्यं सपदि स्थितं च तत्#} 
@@ -123,7 +123,7 @@ ad <ls>ŚĀK. 135</ls> (zeitlich so v. a. {%bevorstehend%}).
 <ls>M. 8, 380.</ls> {#प्रतिकूलेषु#} 
 <ls>9, 275.</ls> {#साहाय्ये#} 
 <ls>MBH. 1, 6025.</ls> {#भोजनाच्छादने चैषाम्#} 
-<ls>3, 14736.</ls> {#धनार्जने#} 
+<ls n="MBH.">3, 14736.</ls> {#धनार्जने#} 
 <ls>KATHĀS. 26, 129.</ls> {#राजवृत्ते#} 
 <ls>HARIV. 11306.</ls> {#स्वकर्मसु#} 
 <ls>MBH. 3, 15640.</ls> {#अर्थकृत्येषु#} 
@@ -145,7 +145,7 @@ ad <ls>ŚĀK. 135</ls> (zeitlich so v. a. {%bevorstehend%}).
 <div n="2">— f) {%verbleibend in%} so v. a. {%sich richtend nach, nachkommend, befolgend%}: {#व्यवहारविधौ#} 
 <ls>M. 8, 45.</ls> {#शासने भ्रातुः#} 
 <ls>MBH. 2, 1970.</ls> {#निदेशे#} 
-<ls>3, 959.</ls> <ls>RAGH. 14, 44.</ls> {#वचने#} 
+<ls n="MBH.">3, 959.</ls> <ls>RAGH. 14, 44.</ls> {#वचने#} 
 <ls>H. 432.</ls> {#वैखानसमते#} 
 <ls>M. 6, 21.</ls> 
 <ls>R. 1, 68, 12.</ls> {#समये#} 
@@ -185,7 +185,7 @@ ad <ls>ŚĀK. 135</ls> (zeitlich so v. a. {%bevorstehend%}).
 <ls>MED.</ls> 
 <div n="2">— m) {%dastehend, daseiend, vorhanden, anwesend, gegenwärtig%}: {#को जातु परभार्यां हि नारी व्यालीमिव स्थिताम् । वासयेत्स्वगृहे#} 
 <ls>MBH. 5, 7071.</ls> {#निवेद्यतां नैषधाय सर्वाः प्रकृतयः स्थिताः#} 
-<ls>3, 2266.</ls> {#न चिन्तयति नः स्थितान्#} 
+<ls n="MBH.">3, 2266.</ls> {#न चिन्तयति नः स्थितान्#} 
 <ls>HARIV. 10215.</ls> {#स्थितो ह्येषः#} {%da stehe ich, da bin ich%} 
 <ls>R. GORR. 1, 56, 3.</ls> <ls>RĀJA-TAR. 4, 22.</ls> {#नौ#} so v. a. {%bereit stehend%} 
 <ls>R. 2, 12, 69.</ls> {#स्थितं स्थितं हन्ति गर्भम्#} {%jeden vorhandenen%} 

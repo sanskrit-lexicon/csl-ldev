@@ -1,6 +1,6 @@
 <L>14175<pc>2-0008<k1>ककुद्<k2>ककु꣡द्
 {#ककु꣡द्#}¦ <lex>f.</lex> am Ende eines <lex>adj.</lex> comp. angeblich für {#ककुद#} 
-<ls>P. 5, 4, 146. 147.</ls> 
+<ls>P. 5, 4, 146.</ls> <ls n="P. 5, 4,">147.</ls> 
 <div n="1"> 1) {%culmen, Kuppe, Gipfel%}; übertr. {%Oberstes, Haupt%} 
 <ls>H. an. 2, 223.</ls> 
 <ls>MED. d. 22</ls> (bei den Lexicogrr. nur die übertr. Bed. = {#वर, श्रेष्ठ)#}.{# अ\ग्निर्मू\र्धा दि\वः क\कुत्पति^ः पृथि\व्या अ\यम्#} 
@@ -13,10 +13,10 @@
 <div n="1">— 2) {%jede hervortretende Spitze%}, z. B. beim Pfluge: {#हलककुदि कृतसुभगसुन्दरभुजः#} 
 <ls>BHĀG. P. 5, 25, 7.</ls> auf dem Rücken des <is>Śiśumāra</is> 
 <ls>23, 7.</ls> insbes. {%der Höcker des indischen Büffels%} 
-<ls>H. 1264,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 1264</ls>, <ls>Sch.</ls> 
+
 <ls>MED.</ls> 
-<ls>AV. 9, 4, 8. 7, 5. 10, 9, 19.</ls> 
+<ls>AV. 9, 4, 8.</ls> <ls n="AV. 9,">7, 5.</ls> <ls n="AV.">10, 9, 19.</ls> 
 <ls>HARIV. 668.</ls> 
 <ls>BHĀG. P. 9, 6, 15.</ls> {#शि꣡तिककुद्#} 
 <ls>TS. 5, 6, 17, 1.</ls> {#ककुद् = विपाण#} {%Horn%} 

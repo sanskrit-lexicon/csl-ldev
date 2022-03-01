@@ -5,7 +5,7 @@
 <ls>HARIV. 14740.</ls> <lex>m.</lex> {%rundliche Hervorragung, Knöpfchen%} 
 <ls>SUŚR. 1, 322, 9.</ls> {#मस्तक°#} {%die Ballen auf der Stirn eines brünstigen Elephanten%}: {#(गज) भिन्नमस्तकपिण्डक#} 
 <ls>MBH. 1, 5471.</ls> {#भिन्नमस्तकपिण्डिक#} (von {#°पिण्डिका#}) 
-<ls>7, 4564. 4850.</ls> 
+<ls n="MBH.">7, 4564.</ls> <ls n="MBH. 7,">4850.</ls> 
 <div n="1">— 2) {%Wade%}; s. u. 7,a. 
 <div n="1">— 3) <lex>m.</lex> {%Weihrauch%} 
 <ls>AK. 2, 6, 3, 30.</ls> 
@@ -30,9 +30,9 @@
 <ls>VARĀH. BṚH. S. 50, 9.</ls> {#उद्बद्धाभ्यां पिण्डिकाभ्याम्#} 
 <ls>68, 17.</ls> {#विकटोद्बद्धपिण्डिक#} 
 <ls>MBH. 1, 6074.</ls> {#°पिण्डक#} 
-<ls>7, 7897.</ls> {#बृहच्छेफाण्डपिण्डक#} 
-<ls>10, 289.</ls> {#स्थूलपिण्डक#} 
-<ls>12, 3748.</ls> Vgl. u. 1 am Ende. 
+<ls n="MBH.">7, 7897.</ls> {#बृहच्छेफाण्डपिण्डक#} 
+<ls n="MBH.">10, 289.</ls> {#स्थूलपिण्डक#} 
+<ls n="MBH.">12, 3748.</ls> Vgl. u. 1 am Ende. 
 <div n="2">— b) {%Nabe%} 
 <ls>AK. 2, 8, 2, 24.</ls> 
 <ls>H. 756.</ls> 

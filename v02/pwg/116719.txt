@@ -17,7 +17,7 @@
 <ls>BHĀG. P. 10, 65, 11.</ls> {#जहु꣡स्; अहासीत्, अहास्#} 
 2. und 3. sg. <ls>AV. PRĀT. 2, 46</ls> (die Beispiele des Comm. gehören zu 1. {#हर्#}). {#हास्; अहात्#}
 <ls>BHĀG. P. 7, 5, 36.</ls> {#हासिष्ट, हासिषुस्; हास्यति#}, ep. auch {#जहिष्यति; अहास्यत्; हेयात्#} 
-<ls>P. 6, 4, 67. 118.</ls> 
+<ls>P. 6, 4, 67.</ls> <ls n="P. 6, 4,">118.</ls> 
 <ls>VOP. 8, 85. 10, 7.</ls> {#हातुम्; हित्वा#} 
 <ls>P. 7, 4, 43.</ls> 
 <ls>VOP. 26, 211.</ls> auch {#हीत्वा#} . ved. 
@@ -46,9 +46,9 @@
 <ls>ṚV. 9, 14, 4.</ls> <ls n="ṚV.">10, 17, 2.</ls> {#से\दिम्#} 
 <ls>VS. 12, 105.</ls> {#सोम^ ऋजी\षेणा^जहान्मृ\त्युम्#} {%von sich wegbringen%} 
 <ls>19, 72.</ls> {#शरी^रम्#} 
-<ls>AV. 4, 11, 6. 6, 26, 2. 41, 3. 47, 2. 9, 4, 24. 10, 1, 32. 2, 30. 11, 3, 28.</ls> {#पु\रैन^ं ज\रस^ः प्रा\णो ज^हाति#} 
-<ls>56. 13, 1, 12.</ls> {#द्वेषा^ंसि#} 
-<ls>18, 2, 47.</ls> <ls>TS. 3, 2, 8, 4.</ls> <ls>ŚAT. BR. 6, 1, 2, 12. 6, 3, 2. 9, 1, 2, 12.</ls> {#नैनं वाग्जहाति#} 
+<ls>AV. 4, 11, 6.</ls> <ls n="AV.">6, 26, 2.</ls> <ls n="AV. 6,">41, 3.</ls> <ls n="AV. 6,">47, 2.</ls> <ls n="AV.">9, 4, 24.</ls> <ls n="AV.">10, 1, 32.</ls> <ls n="AV. 10,">2, 30.</ls> <ls n="AV.">11, 3, 28.</ls> {#पु\रैन^ं ज\रस^ः प्रा\णो ज^हाति#} 
+<ls n="AV. 4, 11,">56.</ls> <ls n="AV.">13, 1, 12.</ls> {#द्वेषा^ंसि#} 
+<ls n="AV.">18, 2, 47.</ls> <ls>TS. 3, 2, 8, 4.</ls> <ls>ŚAT. BR. 6, 1, 2, 12. 6, 3, 2. 9, 1, 2, 12.</ls> {#नैनं वाग्जहाति#} 
 <ls>10, 3, 3, 1.</ls> {#बन्धनम्#} 
 <ls>13, 1, 6, 2.</ls> — (einen Ort) {%verlassen%} 
 <ls>MBH. 3, 12339.</ls> 
@@ -84,7 +84,7 @@
 <ls>MBH. 4, 649.</ls> <ls n="MBH.">14, 857.</ls> 
 <ls>RĀJA-TAR. 4, 324.</ls> {#प्राणान्#} 
 <ls>MBH. 5, 7221</ls> ({#अजहात्#} mit der ed. Bomb. zu lesen). 
-<ls>7, 274.</ls> <ls>R. 2, 63, 50.</ls> {#असून्#} 
+<ls n="MBH.">7, 274.</ls> <ls>R. 2, 63, 50.</ls> {#असून्#} 
 <ls>SUŚR. 1, 255, 3.</ls> 
 <ls>KATHĀS. 33, 15.</ls> 
 <ls>RĀJA-TAR. 6, 54.</ls> 
@@ -94,8 +94,8 @@
 <ls>1, 65.</ls> {%Etwas fahren lassen, aufgeben, entsagen%}: {#प्रियाप्रिये#} 
 <ls>M. 8, 173.</ls> {#मा हासीः सांपराये त्वं बुद्धिं तामृषिपूजिताम्#} 
 <ls>MBH. 2, 2576.</ls> {#कामान्सर्वान्#} 
-<ls>4, 655.</ls> {#स्वार्थान्#} 
-<ls>5, 4389.</ls> {#निद्रां सहजाम्#} 
+<ls n="MBH.">4, 655.</ls> {#स्वार्थान्#} 
+<ls n="MBH.">5, 4389.</ls> {#निद्रां सहजाम्#} 
 <ls>HARIV. 2857.</ls> {#राज्यं च कोशं च#} 
 <ls>R. 2, 61, 11.</ls> {#शशी ज्योत्स्नाम्#} 
 <ls>82, 5</ls> ({#लक्ष्मीं शीतांशुमान्#} 
@@ -207,7 +207,7 @@
 <ls>M. 9, 188.</ls> {#भूतमप्यनुपन्यस्तं हीयते व्यवहारतः#} 
 <ls>YĀJÑ. 2, 19.</ls> {#पूजा पूजार्हेषु#} 
 <ls>MBH. 1, 6424.</ls> {#प्राणः#} 
-<ls>3, 11951.</ls> {#भर्तुरर्थः#} 
+<ls n="MBH.">3, 11951.</ls> {#भर्तुरर्थः#} 
 <ls>R. 5, 9, 43.</ls> {#बुद्धिः#} 
 <ls>Spr. (II) 4473.</ls> <ls n="Spr. (II)">6318.</ls> <ls n="Spr. (II)">6856.</ls> {#मतिः#} 
 <ls>7405.</ls> {#घैर्यम्#} 
@@ -215,7 +215,7 @@
 <ls>VARĀH. BṚH. S. 7, 2.</ls> {%den Kürzern ziehen, unterliegen, zu Schaden kommen%} (von Personen) 
 <ls>M. 6, 42.</ls> 
 <ls>MBH. 1, 6291.</ls> <ls n="MBH.">4, 768.</ls> {#हीयन्ति संयुगे#} 
-<ls>6, 2917.</ls> <ls>R. 2, 21, 36.</ls> <ls>Spr. (II) 3133.</ls> {#नरो हीयते वर्धते च#} 
+<ls n="MBH.">6, 2917.</ls> <ls>R. 2, 21, 36.</ls> <ls>Spr. (II) 3133.</ls> {#नरो हीयते वर्धते च#} 
 <ls>4125. 5556. 7517.</ls> <ls>KATHĀS. 50, 44</ls> (beim Kampfe). beim Gottesurtheil mit der Wagschale so v. a. {%weniger wiegen%} 
 <ls>MIT. 145, 12. fg.</ls> {#यो धावता न हातव्यस्तिष्ठन्नपि न हीयते#} so v. a. {%wird nicht ereilt%} 
 <ls>MBH. 12, 8138.</ls> {#हीयमान, सम, वर्धमान#} {%ein Schwächerer%} 
@@ -228,7 +228,7 @@
 <ls>74.</ls> {#स्वर्गात्#} 
 <ls>75.</ls> {#बलात्#} 
 <ls>MBH. 4, 767.</ls> {#तपसः#} 
-<ls>15, 997.</ls> <ls>Spr. (II) 1936.</ls> <ls n="Spr. (II)">1978.</ls> <ls n="Spr. (II)">5088.</ls> <ls>KATHĀS. 46, 118.</ls> <ls>MĀRK. P. 113, 33.</ls> mit {#°तस्#} 
+<ls n="MBH.">15, 997.</ls> <ls>Spr. (II) 1936.</ls> <ls n="Spr. (II)">1978.</ls> <ls n="Spr. (II)">5088.</ls> <ls>KATHĀS. 46, 118.</ls> <ls>MĀRK. P. 113, 33.</ls> mit {#°तस्#} 
 dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस्#} 
 <ls>M. 9, 211.</ls> mit instr. dass. <ls>P. 5, 4, 47.</ls> {#वृत्तेन#} 
 <ls>Schol.</ls> {#अङ्गसर्वस्वैः, सर्वेण#} 
@@ -282,7 +282,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <div n="v">— Vgl. {#जिहासा#} fg.
 
 <div n="p">— intens. {#जेहीयते#} 
-<ls>P. 6, 4, 66. 116.</ls> 
+<ls>P. 6, 4, 66.</ls> <ls n="P. 6, 4,">116.</ls> 
 <ls>VOP. 20, 4.</ls> {#जहाति, जहेति#} 
 <ls>20, 18.</ls>
 
@@ -325,7 +325,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 
 <div n="p">— {#अपा#}, absol. {#°हाय#} {%Jmd verlassend%} 
 <ls>MBH. 1, 4946.</ls> {%mit Hintansetzung von%} 
-<ls>3, 2963.</ls> <ls>HARIV. 570.</ls> {%mit Ausnahme von%} 
+<ls n="MBH.">3, 2963.</ls> <ls>HARIV. 570.</ls> {%mit Ausnahme von%} 
 <ls>MBH. 3, 11982.</ls> <ls n="MBH.">4, 1484.</ls> <ls n="MBH.">14, 2832.</ls> eine durch das Metrum bedingte Verlängerung von {#अप#}, nicht {#अप + आ#} .
 
 <div n="p">— {#समुद्#}, {#समुज्जहुः#} 
@@ -353,7 +353,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <ls>HARIV. 14317.</ls> 
 <div n="1">— 2) fehlerhaft oder ungenau für pass. in der Bed. {%eine Einbusse erleiden, Schaden nehmen, zu Schanden werden%}: {#यदि तान्योधयिष्यामः किं वै नः परिहास्यति#} (= {#नङ्क्ष्यति#} 
 <ls>NĪLAK.</ls>) <ls>MBH. 2, 2460.</ls> {#व्याजेन सद्भिर्विहितो धर्मस्ते परिहास्यति#} 
-<ls>12, 5436.</ls> {%kommen um%} (abl.), {%verlustig gehen%}: {#न रागात्परिहास्यथः#} 
+<ls n="MBH.">12, 5436.</ls> {%kommen um%} (abl.), {%verlustig gehen%}: {#न रागात्परिहास्यथः#} 
 <ls>R. 7, 93, 8.</ls> 
 <div n="1">— 3) pass. 
 <div n="2"> a) {%gemieden —, unterlassen werden%}: {#कैरजीर्णभयाद्भ्रातर्भोजनं परिहीयते#} 
@@ -391,7 +391,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <ls>BHĀG. P. 5, 24, 26.</ls> 
 <div n="3">— β) {%sich enthaltend, es fehlen lassend an%}: {#बलिकर्मतः#} 
 <ls>MBH. 13, 4784.</ls> {%ermangelnd, ohne - seiend%}: {#प्रमाणात्#} 
-<ls>3, 2803.</ls> {#साहसात्#} 
+<ls n="MBH.">3, 2803.</ls> {#साहसात्#} 
 <ls>Spr. (II) 706.</ls> {#पुत्रैरपत्यैर्दारैश्च#} 
 <ls>R. 3, 73, 32.</ls> {#अर्थेन#} 
 <ls>Spr. (II) 617, v. l.</ls> {#किरणैः#} 
@@ -409,7 +409,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <ls>VARĀH. BṚH. S. 69, 36.</ls> {#प्रजहत्यग्नीन्#} 
 <ls>ŚAT. BR. 4, 6, 8, 6.</ls> {#जीवितम्#} 
 <ls>MBH. 1, 4620.</ls> {#प्राणान्प्रहासिषम्#} 
-<ls>4, 432.</ls> {#धनं पुरुषः#} 
+<ls n="MBH.">4, 432.</ls> {#धनं पुरुषः#} 
 <ls>Spr. (II) 3039.</ls> Jmd : {#मा त्वां दीर्णाः प्रहासिषुः#} 
 <ls>MBH. 2, 2846.</ls> <ls n="MBH.">6, 2789.</ls> <ls n="MBH.">8, 4844.</ls> 
 <ls>R. 2, 42, 30.</ls> 
@@ -417,7 +417,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <ls>TBR. 1, 2, 1, 27.</ls> 
 <ls>TS. 7, 3, 13, 1.</ls> {#प्राणा हि प्रजहन्ति#} (des Metrums wegen st. {#प्रजहति#}) {#माम्#} 
 <ls>MBH. 1, 6566.</ls> {#(तान्) क्षमा लक्ष्मीश्च धर्मश्च नचिरात्प्रजहुस्ततः#} 
-<ls>3, 8495.</ls> {#पुरुषं धनम्#} (nom.) 
+<ls n="MBH.">3, 8495.</ls> {#पुरुषं धनम्#} (nom.) 
 <ls>Spr. (II) 3039.</ls> {#तमात्मवन्तं प्रजहत्यनर्थाः#} 
 <ls>4849.</ls> {%Etwas fahren lassen, aufgeben, entsagen%}: {#अयोध्यां देवलोकं वा#} 
 <ls>R. 2, 52, 49.</ls> {#कर्मबन्धम्#} 
@@ -439,7 +439,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <ls>BHAṬṬ. 14, 23.</ls> 
 <div n="1">— 3) ungenau für pass. {%weichen, schwinden%}: {#सौहार्दं चापि मे त्वत्तो न कदाचित्प्रहास्यति#} ({#प्रहास्यते#} wäre nicht gegen das Metrum) 
 <ls>MBH. 3, 3054.</ls> {#बलं मे प्रजहातीव#} 
-<ls>12, 1869.</ls> 
+<ls n="MBH.">12, 1869.</ls> 
 <div n="1">— 4) pass. 
 <div n="2"> a) {%aufgegeben werden, weichen von%} (instr.): {#प्रहीयतामत्र नृपेण मानिता#} 
 <ls>KIR. 14, 13.</ls> {%unterbleiben, versäumt werden%} 
@@ -466,10 +466,10 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <div n="p">— {#विप्र#} {%verlassen, aufgeben, entsagen%}: {#धर्मम्#} 
 <ls>MBH. 5, 4157.</ls> — partic. {#°हीण#} (gewöhnlich {#°हीन#}) {%geschwunden, dahin%}: {#°रथ#} 
 <ls>MBH. 8, 4868.</ls> {%ermangelnd, ohne - seiend%}: {#ब्राह्मणैः क्षत्रम्#} 
-<ls>3, 978.</ls> {#बन्धुभिः#} 
-<ls>5, 6002.</ls> <ls>R. 2, 31, 17.</ls> {#तेजसा#} 
+<ls n="MBH.">3, 978.</ls> {#बन्धुभिः#} 
+<ls n="MBH.">5, 6002.</ls> <ls>R. 2, 31, 17.</ls> {#तेजसा#} 
 <ls>MBH. 1, 8142.</ls> {%ausgeschlossen von%}: {#गगनात्#} 
-<ls>3651.</ls> 
+<ls n="MBH. 1,">3651.</ls> 
 <div n="v">— Vgl. {#विप्रहाण#} .
 
 <div n="p">— {#संप्र#} {%verlassen%}: {#संप्रहाय शयनम्#} 
@@ -505,7 +505,7 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <ls>BHĀG. P. 1, 5, 19. 3, 14, 47. 4, 24, 67.</ls> {#रथम्#} 
 <ls>R. 2, 52, 13.</ls> {%Jmd verlassen%} 
 <ls>MBH. 2, 2604</ls> ({#विहास्ये#} des Metrums wegen). 
-<ls>3, 2328. 4, 268. 7, 301</ls> ({#कच्चिच्चैनं#} mit der ed. Bomb. zu lesen). 
+<ls n="MBH.">3, 2328.</ls> <ls n="MBH.">4, 268.</ls> <ls n="MBH.">7, 301</ls> ({#कच्चिच्चैनं#} mit der ed. Bomb. zu lesen). 
 <ls>R. 2, 21, 22. 51. 30, 29. 35, 30. 66, 4 (68, 30 GORR.). 18.</ls> <ls>R. GORR. 2, 83, 42. 3, 64, 18.</ls> <ls>RAGH. 14, 51.</ls> <ls>KATHĀS. 18, 289.</ls> <ls>RĀJA-TAR. 3, 126.</ls> <ls>BHĀG. P. 3, 16, 7. 4, 4, 3. 7, 9, 44. 9, 3, 20.</ls> <ls>PAÑCAT. 44, 22.</ls> {%Jmd verlassen%} 
 <ls>MĀRK. P. 127, 17.</ls> (den Leib) {%verlassen%} so v. a. {%sterben%} 
 <ls>BHĀG. P. 6, 10, 33. 7, 15, 45.</ls> {#प्राणान्#} 
@@ -564,12 +564,12 @@ dass. <ls>P. 5, 4, 47</ls> (vgl. jedoch 45). {#अंशप्रदानतस
 <ls>VARĀH. BṚH. S. 16, 32.</ls> 
 <div n="3">— β) {%niedrig stehend, gemein%}: Personen 
 <ls>MBH. 3, 578</ls> (nach der Lesart der ed. Bomb.). 
-<ls>15649.</ls> {#°योनि#} 
-<ls>15674.</ls> 
+<ls n="MBH. 3,">15649.</ls> {#°योनि#} 
+<ls n="MBH. 3,">15674.</ls> 
 <div n="3">— γ) {%ermangelnd, ohne - seiend, beraubt —, frei von%}; die Ergänzung im instr.: {#दर्शनेन#} 
 <ls>M. 6, 74.</ls> {#त्वया#} 
 <ls>MBH. 1, 6163.</ls> <ls n="MBH. 1,">6192.</ls> <ls n="MBH.">3, 2713.</ls> {#श्रिया#} 
-<ls>15634.</ls> <ls>R. 2, 24, 8. 27, 20. 38, 15. 66, 18.</ls> <ls>R. GORR. 1, 23, 8.</ls> {#अनर्थैर्व्यसनैः#} 
+<ls n="MBH. 3,">15634.</ls> <ls>R. 2, 24, 8. 27, 20. 38, 15. 66, 18.</ls> <ls>R. GORR. 1, 23, 8.</ls> {#अनर्थैर्व्यसनैः#} 
 <ls>RAGH. 18, 13.</ls> 
 <ls>Spr. (II) 6302.</ls> <ls n="Spr. (II)">6882.</ls> 
 <ls>VARĀH. BṚH. S. 15, 27. 68, 7. 33.</ls> im abl. : {#पतिलोकात्#} 

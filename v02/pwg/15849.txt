@@ -29,15 +29,15 @@
 <ls>AV. 9, 3, 19.</ls> {#एते वै कवयो यदृषयः#} 
 <ls>ŚAT. BR. 1, 4, 2, 8.</ls> {#कवयो वदन्ति#} 
 <ls>KAṬHOP. 3, 14.</ls> So heissen die {%kunstfertigen%} <is>Ṛbhu</is>: {#इ\दं तृ\तीय\ं सव^नं कवी\नामृ\तेन\ ये च^म\समैर^यन्त#} 
-<ls>AV. 6, 47. 3.</ls> 
+<ls>AV. 6, 47, 3.</ls> 
 <ls>ṚV. 4, 36, 7.</ls> {%die weisen Väter der Vorzeit%}, welche jetzt als Geister die Sonne umschweben 
 u.s.w. : {#स\हस्र^णीथाः क\वयो\ ये गो^पा\यन्ति\ सूर्यम्#} 
-<ls n="ṚV. 4, 36,">10.</ls> <ls n="ṚV. 4,">151, 5.</ls> <ls n="ṚV.">1, 163, 12.</ls> <ls n="ṚV.">7, 53, 1.</ls> <ls>AV. 13, 1, 23. 18, 3, 19. 47.</ls>
+<ls n="ṚV. 4, 36,">10.</ls> <ls n="ṚV. 4,">151, 5.</ls> <ls n="ṚV.">1, 163, 12.</ls> <ls n="ṚV.">7, 53, 1.</ls> <ls>AV. 13, 1, 23.</ls> <ls n="AV.">18, 3, 19.</ls> <ls n="AV. 18, 3,">47.</ls>
 [Page2-0183]
 die verschiedensten Götter, vornämlich <is>Agni</is>: {#क\विः क^वी\नाम्#} 
 <ls>ṚV. 2, 23, 1.</ls> {#वि\शां क\विः#} 
 <ls n="ṚV. 2, 23,">10.</ls> <ls n="ṚV.">5, 4, 3.</ls> {#प\द\वीः क^वी\नाम्#} 
-<ls>3, 5, 1. 1, 31, 2. 76, 5.</ls> <is>Indra</is> <ls>1, 130, 9. 175, 4. 3, 42, 6.</ls> die <is>Marut</is> <ls>1, 31, 1. 5, 52, 13. 57, 8. 6, 49, 11.</ls> <ls>AV. 4, 27, 3.</ls> <is>Varuṇa</is> und die <is>Āditya</is> 
+<ls n="ṚV.">3, 5, 1.</ls> <ls n="ṚV.">1, 31, 2.</ls> <ls n="ṚV. 1,">76, 5.</ls> <is>Indra</is> <ls n="ṚV.">1, 130, 9.</ls> <ls n="ṚV. 1,">175, 4.</ls> <ls n="ṚV.">3, 42, 6.</ls> die <is>Marut</is> <ls n="ṚV.">1, 31, 1.</ls> <ls n="ṚV.">5, 52, 13.</ls> <ls n="ṚV. 5,">57, 8.</ls> <ls n="ṚV.">6, 49, 11.</ls> <ls>AV. 4, 27, 3.</ls> <is>Varuṇa</is> und die <is>Āditya</is> 
 <ls n="ṚV.">2, 28, 1.</ls> <ls n="ṚV.">1, 2, 9.</ls> <ls n="ṚV.">3, 54, 10.</ls> die <is>Aśvin</is> 
 <ls n="ṚV.">1, 117, 23.</ls> <ls n="ṚV.">8, 8, 2.</ls> <ls n="ṚV. 8, 8,">5.</ls> <ls n="ṚV. 8, 8,">23.</ls> <ls n="ṚV.">10, 40, 6.</ls> andere Götter 
 <ls n="ṚV.">3, 54, 17.</ls> <ls n="ṚV.">4, 2, 12.</ls> <ls n="ṚV.">10, 88, 13.</ls> der <is>Soma</is> 
@@ -67,9 +67,9 @@ die verschiedensten Götter, vornämlich <is>Agni</is>: {#क\विः क^व�
 <div n="1">— 3) als N. pr. könnte <is>Kavi</is> verstanden werden in Stellen wie 
 <ls>ṚV. 10, 49, 3.</ls> <ls n="ṚV. 10,">99, 9</ls>; vgl. 
 ?<ls n="ṚV.">6, 26, 3.</ls> Nach <ls>MBH. 13, 4123.</ls> <ls n="MBH. 13,">4142.</ls> fg.
-<ls>4150</ls> ist <is>Kavi</is> wie <is>Bhṛgu</is> ein Sohn <is>Brahman's</is>; nach 
-<ls>1, 2606</ls> ein Sohn <is>Bhṛgu's</is> und Vater <is>Śukra's</is>; vgl. 
-<ls>3204.</ls> <ls>BHĀG. P. 4, 1, 45</ls> und {#काव्य#}.{# सोमपास्तु कवेः#} 
+<ls n="MBH. 13,">4150</ls> ist <is>Kavi</is> wie <is>Bhṛgu</is> ein Sohn <is>Brahman's</is>; nach 
+<ls n="MBH.">1, 2606</ls> ein Sohn <is>Bhṛgu's</is> und Vater <is>Śukra's</is>; vgl. 
+<ls n="MBH. 1,">3204.</ls> <ls>BHĀG. P. 4, 1, 45</ls> und {#काव्य#}.{# सोमपास्तु कवेः#} 
 (<ls>KULL.</ls>: = {#भृगोः) पुत्राः#} 
 <ls>M. 3, 198.</ls> <is>Śukra</is> ({%Venus%}) selbst führt auch den Namen <is>Kavi</is> 
 <ls>AK. 1, 1, 2, 26.</ls> 

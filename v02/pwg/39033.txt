@@ -3,7 +3,7 @@
 <div n="1"> 1) {%Ziel%} (nach dem geschossen wird) 
 <ls>HALĀY. 2, 313.</ls> {#चलं निमित्तं विप्रर्षे सदा सूर्यस्य गच्छतः#} 
 <ls>MBH. 13, 4632.</ls> {#°वेधिन्#} {%das Ziel treffend%} 
-<ls>5, 3480. 6, 1658.</ls> 
+<ls n="MBH.">5, 3480.</ls> <ls n="MBH.">6, 1658.</ls> 
 <div n="1">— 2) {%Zeichen, Anzeichen, Vorzeichen, Omen%} 
 <ls>AK.3,4,14,79.</ls> <ls>TRIK.3,3,163.</ls> <ls>H. an.3,270.</ls> <ls>MED. t. 118.</ls> <ls>Verz. d. Oxf. H. 184,b,6.</ls> {#निमित्तं यत्त्वया दृष्टं बाहुके दैवमानुषम्#} 
 <ls>MBH. 3, 2925.</ls> <ls n="MBH. 3,">2928.</ls> {#न चोत्पातनिमित्ताभ्याम् (भिक्षां लिप्सेत)#} 
@@ -40,12 +40,12 @@
 <ls>KĀŚ.</ls> zu <ls>P. 1, 1, 57.</ls> {#धात्वंशलोपनिमित्त आर्धधातुके परे#} 
 <ls>Schol.</ls> zu <ls>P. 1, 1, 4.</ls> {#नामर्त्यो विद्यते मर्त्यो निमित्तायुर्भविष्यति#} so v. a. {%sein Leben soll so lange dauern als dasjenige besteht, wonach es bestimmt wird%}, 
 <ls>MBH. 3, 10738.</ls> {#यथेमे पर्वताः शश्वत्तिष्ठन्ति सुरसत्तमाः । अक्षयास्तन्निमित्तं#} ({%so lange dauernd als die Berge%}) {#मे सुतस्यायुर्भविष्यति#} 
-<ls>10739.</ls> {#निमित्तमस्य#} (d. i. die Berge) {#महिषैर्भेदयामास#} 
-<ls>17043. fg.</ls> {#निमित्त#} {%causa efficiens%} neben {#उपादान#} {%causa materialis%} 
+<ls n="MBH. 3,">10739.</ls> {#निमित्तमस्य#} (d. i. die Berge) {#महिषैर्भेदयामास#} 
+<ls n="MBH. 3,">17043. fg.</ls> {#निमित्त#} {%causa efficiens%} neben {#उपादान#} {%causa materialis%} 
 <ls>VEDĀNTAS. (Allah.) No. 40.</ls> {#मयैव ते निहताः पूर्वमेव निमित्तमात्रं#} ({%blosses Werkzeug%}) {#भव#} 
 <ls>BHAG. 11, 33.</ls> {#द्रवत्वं स्यन्दने हेतुर्निमित्तं संग्रहे तु तत्#} 
 <ls>BHĀṢĀP. 155.</ls> Alle obliquen Casus adverbialisch in der Bed. {%wegen%} gebraucht 
-<ls>P. 2, 3, 23, <is>Vārtt</is>.</ls> {#कन्यानिमित्तं विप्रर्षे तत्रासीदुत्सवो महान्#} 
+<ls>P. 2, 3, 23</ls>, <is>Vārtt</is>. {#कन्यानिमित्तं विप्रर्षे तत्रासीदुत्सवो महान्#} 
 <ls>MBH. 5, 6069.</ls> 
 <ls>R. 2, 48, 28. 58, 24.</ls> 
 <ls>SUŚR. 1, 2, 10.</ls> 

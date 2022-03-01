@@ -4,9 +4,9 @@
 <ls>ŚAT. BR. 2, 3, 1, 10.</ls> {#वायु#} 
 <ls>ARJ. 4, 51.</ls> {#विद्या#} 
 <ls>MBH. 1, 3241.</ls> {#वापीं तां मृतानां जीवनीम्#} 
-<ls>8, 1420.</ls> von der Sonne 
-<ls>3, 152.</ls> von <is>Śiva</is> 
-<ls>13, 1236.</ls> <ls>VOP. 5, 1.</ls> 
+<ls n="MBH.">8, 1420.</ls> von der Sonne 
+<ls n="MBH.">3, 152.</ls> von <is>Śiva</is> 
+<ls n="MBH.">13, 1236.</ls> <ls>VOP. 5, 1.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%ein lebendes Wesen%} 
 <ls>WILS.</ls> 
@@ -52,7 +52,7 @@
 <ls>HIT. I, 85.</ls> Häufig am Ende eines <lex>adj.</lex> comp. in Verbindung mit dem was Jmd den {%Lebensunterhalt%} gewährt: {#मृग°#} 
 <ls>N. 11, 26. 36.</ls> {#भाण्ड°#} 
 <ls>MBH. 12, 9322.</ls> {#वाक्य°#} 
-<ls>13, 2573.</ls> {#धर्म°#} 
+<ls n="MBH.">13, 2573.</ls> {#धर्म°#} 
 <ls>M. 9, 273.</ls> {#देशो नद्यम्बुजीबनः, वृष्टिजीवनः#} {%eine Gegend, die durch Flusswasser, durch Regen Subsistenzmittel gewährt%}, 
 <ls>H. 955.</ls> 
 <div n="2">— c) {%das Beleben, Lebendigmachen%}: {#वानर°#} 

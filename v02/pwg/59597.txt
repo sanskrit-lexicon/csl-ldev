@@ -1,6 +1,6 @@
 <L>59597<pc>5-0699<k1>मातर्<k2>मात꣡र्<h>1
 1. {#मात꣡र्#}¦ (von 3. {#मा)#} <lex>f.</lex> 
-<ls>UṆĀDIS. 2, 96.</ls> <ls>ŚĀNT. 1, 2,</ls> <ls>Sch.</ls> Decl. <ls>P. 6, 4, 11.</ls> <ls>VOP. 3, 65.</ls> {%(Bildnerin%} d. i. {%des Kindes im Mutterleibe) Mutter%}
+<ls>UṆĀDIS. 2, 96.</ls> <ls>ŚĀNT. 1, 2</ls>, <ls>Sch.</ls> Decl. <ls>P. 6, 4, 11.</ls> <ls>VOP. 3, 65.</ls> {%(Bildnerin%} d. i. {%des Kindes im Mutterleibe) Mutter%}
 <F>* {#पितर्#} und {#मातर्#} sind zwar urindogermanisch, aber schwerlich die ältesten Namen für {%Vater%} und {%Mutter.%} Diese werden {#प#} und {#मा#} oder ähnlich (vgl. {#तत#} und {#नना)#} gelautet haben, und diese Naturlaute mögen in einer späteren, schon reflectirenden Periode der Sprache bei der Bildung von {#पितर्#} und {#मातर्#} massgebend gewesen sein.</F> (
 <ls>AK. 2, 6, 1, 29.</ls> 
 <ls>TRIK. 3, 3, 177.</ls> 
@@ -16,18 +16,18 @@
 <ls>VS. 6, 20.</ls> {#गावो घृतस्य मातरः#} 
 <ls>KĀTY. ŚR. 13, 3, 21.</ls> {#पशवो मातर्यपि मिथुनं चरन्ति#} 
 <ls>ŚĀṄKH. ŚR. 15, 17, 16. 17.</ls> 
-<ls>P. 8, 1, 15,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 1, 15</ls>, <ls>Sch.</ls> 
+
 <ls>Spr. 357.</ls> - <ls>M. 2, 50. 133. 144.</ls> <ls>MBH. 1, 5874.</ls> <ls>N. 16, 31.</ls> {#राज°#} 
 <ls>13, 24.</ls> {#सहस्रं तु पितॄन्माता गौरवेणातिरिच्यते#} 
 <ls>Spr. 3804. 1120. fg.</ls> {#तत्र यद्ब्रह्मजन्मास्य मौञ्जीबन्धनचिह्नितम् । तत्रास्य माता सावित्री पिता त्वाचार्य उच्यते ॥#} 
 <ls>M. 2, 170.</ls> {#पिता वै गार्हपत्यो ऽग्निर्माताग्निर्दक्षिणः स्मृतः#} 
 <ls>231.</ls> <ls>RAGH. 2, 36.</ls> Am Ende eines <lex>adj.</lex> comp.: {#कुन्ती°#} {%die%} <is>Kuntī</is> {%zur Mutter habend%} d. i. {%ein Sohn der%} <is>Kuntī</is> 
 <ls>MBH. 1, 8065.</ls> {#देवकी°#} 
-<ls>7, 726. 14, 411.</ls> {#कैकेयी°#} 
+<ls n="MBH.">7, 726.</ls> <ls n="MBH.">14, 411.</ls> {#कैकेयी°#} 
 <ls>R. 6, 82, 131.</ls> {#कारीषगन्ध्या°#} oder {#कारीषगन्धी°#} 
 <ls>PAT.</ls> zu <ls>P. 6, 1, 14.</ls> {#मा\तरा^ पि\तरा^#} {%Mutter und Vater%} 
-<ls>SIDDH. K.</ls> zu <ls>P.6,3,33.</ls> <ls>ṚV. 4, 6, 7.</ls> <ls>VS.9,19.</ls> {#पि\तरा^ मा\तरा^#} ved. 
+<ls>SIDDH. K.</ls> zu <ls>P. 6, 3, 33.</ls> <ls>ṚV. 4, 6, 7.</ls> <ls>VS.9,19.</ls> {#पि\तरा^ मा\तरा^#} ved. 
 <ls>P. 6, 3, 33.</ls> {#मातरा#} {%beide Eltern%}: {#व\त्समि^व मा\तरा^ संरिहा\णे#} 
 <ls>ṚV. 3, 33, 3.</ls> <ls n="ṚV.">7, 2, 5.</ls> Im Besondern ist zu erwähnen: 
 <div n="2"> a) {%Mutter Erde%} {#(मातर् = पृथिवी#} 
@@ -67,7 +67,7 @@ u.s.w. <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>) <ls>ṚV. 1, 89, 4.</ls> <l
 [Page5-0700]
 {#सर्वभूतगणाश्चैव मातरो विविधास्तथा#} 
 <ls>MBH. 13, 874.</ls> {#सप्तमातृगणाः#} 
-<ls>9, 2478.</ls> {#त्वमपि गच्छ चतुष्पथे मातृभ्यो बलिमुपहर#} 
+<ls n="MBH.">9, 2478.</ls> {#त्वमपि गच्छ चतुष्पथे मातृभ्यो बलिमुपहर#} 
 <ls>MṚCCH. 8, 22. fg. 9, 6.</ls> {#मातॄणां गणमानर्चुः पराशरकुलोद्भवाः#} 
 <ls>Verz. d. Oxf. H. 19,a,21. 58,a,12.</ls> <ls>LALIT. ed. Calc. 313,9.</ls> <ls>VARĀH. BṚH. S. 60,19.</ls> {#ब्राह्मीत्याद्यास्तु मातरः#} 
 <ls>AK. 1, 1, 1, 31.</ls> 
@@ -78,8 +78,8 @@ u.s.w. <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls>) <ls>ṚV. 1, 89, 4.</ls> <l
 <ls>HALĀY. 1, 17.</ls> Diese {%sieben Mütter%} sind: <is>Brāhmī</is> (<is>Brahmāṇī</is>), <is>Māheśvarī</is>, <is>Kaumārī</is>, <is>Vaiṣṇavī</is>, <is>Vārāhī</is>, <is>Indrāṇī</is> (<is>Aindrī</is>, <is>Māhendrī</is>) und <is>Cāmuṇḍā</is> 
 <ls>SAṂSK. K. 30,b,5.</ls> Comm. zu 
 <ls>BHUVANEŚVARĪSTOTRA</ls> bei <ls>AUFRECHT, HALĀY. 308.</ls> <ls>MIT. 142,9. fgg.</ls> <ls>Verz. d. Oxf. H. 184,a,4. 5. 191,a,15. 16</ls> (<is>Raudrī</is> und <is>Kauverī</is> st. <is>Māheśvarī</is> und <is>Cāmuṇḍā</is>). 
-<ls>H. 201,</ls> 
-<ls>Sch.</ls> (<is>Siddhī</is> st. <is>Indrāṇī</is>). {%acht Mütter%}: <is>Brāhmī</is>, <is>Māheśvarī</is>, <is>Raudrī</is>, <is>Vārāhī</is>, <is>Vaiṣṇavī</is>, <is>Kaumārī</is>, <is>Carmamuṇḍā</is> und <is>Kālasaṃkarṣiṇī</is> 
+<ls>H. 201</ls>, <ls>Sch.</ls>
+(<is>Siddhī</is> st. <is>Indrāṇī</is>). {%acht Mütter%}: <is>Brāhmī</is>, <is>Māheśvarī</is>, <is>Raudrī</is>, <is>Vārāhī</is>, <is>Vaiṣṇavī</is>, <is>Kaumārī</is>, <is>Carmamuṇḍā</is> und <is>Kālasaṃkarṣiṇī</is> 
 <ls>Verz. d. Oxf. H. 184,a,9. 10.</ls> <ls>BHAR.</ls> zu <ls>AK.</ls> (<is>Aindrī</is>, <is>Cāmuṇḍā</is> und <is>Carcikā</is> st. <is>Raudrī</is>, <is>Carmamuṇḍā</is> und <is>Kālasaṃkarṣiṇī</is>). {%neun Mütter%}: <is>Brahmāṇī</is>, <is>Vaiṣṇavī</is>, <is>Raudrī</is>, <is>Vārāhī</is>, <is>Nārasiṃhikā</is>, <is>Kaumārī</is>, <is>Māhendrī</is>, <is>Cāmuṇḍā</is> und <is>Caṇḍikā</is> 
 <ls>KĀŚĪKH. 83, 33</ls> bei <ls>AUFRECHT, HALĀY. 308.</ls> {#मातरश्चण्डिकाद्याः#} 
 <ls>PAÑCAT. Pr. 1.</ls> {#गौर्याद्याः#} 
@@ -113,7 +113,7 @@ im <ls>ŚKDR.</ls>
 <ls>Spr. 630.</ls> 
 <ls>VID. 187.</ls> 
 <ls>VET. in LA. 9, 3.</ls> <ls>CAURAP. 96</ls> in <ls>Journ. asiat. IVe s. XI, 485.</ls> {#मातरित्येव शब्देन यां च संभाषते (संभाष्यते#} gedr.) {#नरः । सा मातृतुल्या सत्येन धर्मः साक्षी सतामपि ॥#} 
-<ls>BRAHMAVAIV. P.,</ls> <ls>BRAHMAKH. 10</ls> im <ls>ŚKDR.</ls> — Die Lexicographen kennen noch folgende Bedeutungen: {#विभूति#} 
+<ls>BRAHMAVAIV. P.</ls>, <ls>BRAHMAKH. 10</ls> im <ls>ŚKDR.</ls> — Die Lexicographen kennen noch folgende Bedeutungen: {#विभूति#} 
 <ls>ŚABDAR.</ls>, {#रेवती#} 
 <ls>AJAYAP.</ls>, {#आखुकर्णी, इन्द्रवारुणी, महाश्रावणी, जटामांसी#} (lauter Pflanzennamen) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> Die Bed. {%a female of the Brahman tribe, or the wife of a Brahman%} bei 

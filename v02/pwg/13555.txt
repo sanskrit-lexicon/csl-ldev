@@ -7,7 +7,7 @@
 <ls>ṚV. 4, 33, 6.</ls> {#यथा^ ज\घन्थ^ धृष\ता पु\रा चि^दे\वा ज^हि\ शत्रु^म्#} 
 <ls n="ṚV.">2, 30, 4.</ls> <ls n="ṚV. 2,">33, 15.</ls> <ls n="ṚV.">4, 12, 6.</ls> {#यथा^ यथा प\तय^न्तो वियोमि\र एवैव त^स्थुः सवितः स\वाय^ ते#} 
 <ls n="ṚV. 4,">54, 5.</ls> {#य ए\वेद\मिति\ ब्रव^त्#} {%der sagen kann: so ist das%} 
-<ls n="ṚV.">6, 54, 1.</ls> <ls>AV. 1, 2, 4. 11, 6.</ls> {#नकि^रे\वा यथा\ त्वम्#} 
+<ls n="ṚV.">6, 54, 1.</ls> <ls>AV. 1, 2, 4.</ls> <ls n="AV. 1,">11, 6.</ls> {#नकि^रे\वा यथा\ त्वम्#} 
 <ls>ṚV. 4, 30, 1.</ls> In der Bed. von {#इव#} {%gleichwie%}: {#त्वमेव यन्ता नान्यो ऽस्ति पृथिव्यामपि#} 
 <ls>N. 20, 13, v. l.</ls> für {#इव#}, welches das Metrum stört. 
 <div n="1">— 2) {%allerdings, ja wohl, wirklich%}; im <is>Veda</is> häufig am Anfange von Versen und meist verbunden mit einem andern Bekräftigungsworte, namentlich {#इद्#} und {#हि#}.{# ए\वेन्नु क\ं सिन्धु^भेभिस्ततार#} 
@@ -21,7 +21,7 @@
 <ls n="ṚV. 2,">24, 4.</ls> {#भग^ ए\व भग^वाँ अस्तु#} 
 <ls n="ṚV.">7, 41, 5.</ls> {#य ए\वास्मि\ सो^ ऽस्मि#} 
 <ls>VS. 2, 28.</ls> {#मय्ये\वास्तु\ मयि^ श्रु\तम्#} 
-<ls>AV. 1, 1, 2. 13, 3. 15, 2. 31, 4.</ls> {#उ\त यदी\तासु\र्भव^ति\ जीव^त्ये\व#} 
+<ls>AV. 1, 1, 2.</ls> <ls n="AV. 1,">13, 3.</ls> <ls n="AV. 1,">15, 2.</ls> <ls n="AV. 1,">31, 4.</ls> {#उ\त यदी\तासु\र्भव^ति\ जीव^त्ये\व#} 
 <ls>TS. 2, 1, 1, 4.</ls> {#तासा^ं रोहि\णीमे\वोपै^त्#} {%unter ihnen nahte er sich derselben%}
 [Page1-1100]
 <is>Rohiṇī</is> 
@@ -75,11 +75,11 @@
 <ls>1, 15. 25. 35.</ls> — {#एव वा#} 
 <ls>2, 43. 191. 4, 7.</ls> Die drei letzten Verbindungen sind überaus beliebt, vor Allem {#एव च#} und {#एव वा#} als erwünschte Ausgänge eines Halb-<is>Śloka</is>. {#हैव#} 
 <ls>M. 2, 167.</ls> {#क्वेव#} {%wo wohl?%} d. i. {%nirgends%} zerlegen die Grammatiker (
-<ls>P. 6, 1, 94, <is>Vārtt</is>. 4</ls> und <ls>Sch.</ls> zu <ls>8, 1, 62</ls>) in {#क्व + एव#}; wir haben u. {#इव#} 3. diese Partikel in der Verbindung zu erkennen geglaubt. Vgl. 
+<ls>P. 6, 1, 94</ls>, <is>Vārtt</is>. 4 und <ls>Sch.</ls> zu <ls>8, 1, 62</ls>) in {#क्व + एव#}; wir haben u. {#इव#} 3. diese Partikel in der Verbindung zu erkennen geglaubt. Vgl. 
 <ls>VOP. 2, 6.</ls> Noch ist zu erwähnen, dass nach 
 <ls>P. 8, 1, 24</ls> und 
 <ls>VOP. 3, 143</ls> vor {#एव#} nur die volleren betonten, nicht aber die enklitischen Formen der pronomm. erscheinen. Ueber den Einfluss von {#एव#} auf den Ton eines vorangehenden verb. fin. s. 
-<ls>P. 8, 1, 58. 62.</ls> Die Lexicographen geben folgende Bedd. von {#एव#} an: {#अवधारणे#} 
+<ls>P. 8, 1, 58.</ls> <ls n="P. 8, 1,">62.</ls> Die Lexicographen geben folgende Bedd. von {#एव#} an: {#अवधारणे#} 
 <ls>H. an. 7, 48.</ls> 
 <ls>MED. avy. 77.</ls> {#परिभवे#} und {#ईषदर्थे#} 
 <ls>H. an.</ls> {#नियोगे, चारनियोगे, विनिग्रहे#} und {#वाक्यपूरणे#} 

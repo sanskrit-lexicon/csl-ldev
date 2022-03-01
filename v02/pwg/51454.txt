@@ -14,7 +14,7 @@
 <ls>Spr. 1529.</ls> {#व्यवसायं विना कर्म#} ({%das Schicksal%}) {#न फलति#} 
 <ls>PAÑCAT. 133, 17.</ls> {#फलिष्यति न ते विद्या#} 
 <ls>MBH. 1, 3275.</ls> <ls n="MBH.">12, 12359.</ls> {#स्वकृतं कर्म#} 
-<ls>3, 12635. 13, 304.</ls> <ls>Spr. 1932.</ls> <ls>VOP. 2, 47.</ls> {#एवं कुकर्म सर्वस्य फलत्मात्मनि सर्वदा#} 
+<ls n="MBH.">3, 12635.</ls> <ls n="MBH.">13, 304.</ls> <ls>Spr. 1932.</ls> <ls>VOP. 2, 47.</ls> {#एवं कुकर्म सर्वस्य फलत्मात्मनि सर्वदा#} 
 <ls>KATHĀS. 17, 148.</ls> 
 <ls>MBH. 5, 1700.</ls> 
 <ls>HARIV. 965.</ls> <ls>ad.</ls> <ls>MEGH. 18.</ls> {#धातुः फलति लावण्यनिर्माणं तदिदं त्वयि#} 
@@ -39,7 +39,7 @@
 <ls>P. 5, 2, 36.</ls> 
 <ls>VOP. 7, 80.</ls> {%Früchte tragend, mit Früchten versehen%}: {#वनस्पति#} 
 <ls>MBH. 1, 5884.</ls> {#लता#} 
-<ls>3, 10042. 5, 1117</ls> (st. dessen {#फलवन्त्#} <ls>1, 5608. 12, 5277</ls>).
+<ls n="MBH.">3, 10042.</ls> <ls n="MBH.">5, 1117</ls> (st. dessen {#फलवन्त्#} <ls n="MBH.">1, 5608.</ls> <ls n="MBH.">12, 5277</ls>).
 <ls>Spr. 3706.</ls> <ls>RAGH. 13, 53.</ls> <ls>KATHĀS. 42, 5.</ls> {%was Früchte gebracht hat, Erfolg gehabt hat%}: {#व्रत#} 
 <ls>3, 23. 21, 101.</ls> {#श्वश्रूकृता व्यापदिहापि फलिता मम#} 
 <ls>29, 109.</ls> {#कार्य#} 
@@ -49,8 +49,8 @@
 <ls>KATHĀS. 42, 71.</ls> {#शांभवं वाक्यम्#} 
 <ls>46, 84.</ls> {#एवं च सूत्रं न कार्यमिति फलितम्#} so v. a. {%dieses ergiebt sich als Folge davon%} 
 <ls>PAT.</ls> zu <ls>P. 4, 3, 133.</ls> {#एवं चात्र शास्त्रे समासादिसंज्ञारहितत्वं गुणवचनत्वं फलितम्#} 
-<ls>P. 1, 4, 1, <is>Vārtt</is>. 6,</ls> 
-<ls>Sch.</ls> {#फलितम्#} impers.: {#फलितं वृक्षैस्तत्क्षणरोपितैः#} {%die Bäume trugen Früchte%} 
+<ls>P. 1, 4, 1</ls>, <is>Vārtt</is>. 6, <ls>Sch.</ls>
+{#फलितम्#} impers.: {#फलितं वृक्षैस्तत्क्षणरोपितैः#} {%die Bäume trugen Früchte%} 
 <ls>RĀJA-TAR. 2, 15.</ls> {#फलितं ता वदस्माकं कपटप्रबन्धेन#} 
 <ls>HIT. 21, 13.</ls> 
 <ls>KULL.</ls> zu <ls>M. 1, 4.</ls> {#फलिता#} <lex>adj.</lex> <lex>f.</lex> {%menstruirend%} 

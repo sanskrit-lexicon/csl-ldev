@@ -1,7 +1,7 @@
 <L>56572<pc>5-0454<k1>मति<k2>मति
 {#मति#}¦ (von {#मन्)#} 
 <div n="1"> 1) <lex>f.</lex> oxyt. im <is>Mantra</is>, sonst parox. nach 
-<ls>P. 3, 3, 94. 96.</ls> oxyt. und parox. im 
+<ls>P. 3, 3, 94.</ls> <ls n="P. 3, 3,">96.</ls> oxyt. und parox. im 
 <ls>ŚAT. BR.</ls> Am Ende von Personennamen 
 <ls>WASSILJEW 267.</ls> 
 <div n="2"> a) {%Andacht, Gebet, Verehrung; andächtiges Lied%} oder {%Spruch%} 
@@ -51,7 +51,7 @@
 <ls>DHŪRTAS.</ls> in <ls>LA. 83, 10.</ls> {#ब्राह्मणः स्यामिति मतिं समाधाय#} 
 <ls>R. GORR. 1, 58, 4.</ls> {#मतिं धर्#} {%sich mit einem Gedanken tragen%}: {#दध्रे मतिं विनाशाय राज्ञः#} 
 <ls>MBH. 6, 4100.</ls> {#युद्धे मतिमधारयम् । वधाय शाल्वराजस्य सौभस्य च निपातने#} 
-<ls>3, 875.</ls> {#मतिमास्थाय सुदृढाम्#} {%einen festen Entschluss fassend%} 
+<ls n="MBH.">3, 875.</ls> {#मतिमास्थाय सुदृढाम्#} {%einen festen Entschluss fassend%} 
 <ls>Spr. 3516.</ls> {#क्रूरां मतिं समास्थाय#} 
 <ls>MBH. 1, 7663.</ls> {#निवर्तय मतिं नीच परदाराभिमर्शनात्#} {%gieb den Gedanken auf%} 
 <ls>R. 3, 56, 15.</ls> {#विनिर्वृत्तमतिर्युद्धाद्वभूव#} 
@@ -111,7 +111,7 @@ u.s.w. <ls>AK. 1, 1, 4, 10.</ls> <ls>H. 308.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— g) {%die Meinung%} person. 
 <ls>HARIV. 7740.</ls> <ls n="HARIV.">14035.</ls> mit einer der Mütter der 5 <is>Pāṇḍu</is>-Söhne identificirt als {#सुबलात्मजा#} 
 <ls>MBH. 1, 2794.</ls> eine Tochter <is>Dakṣa's</is> und Gattin <is>Soma's</is> 
-<ls>2579.</ls> <ls>HARIV. 12452.</ls> Gattin des <is>Viveka</is>, {%des Verstandes%}, 
+<ls n="MBH. 1,">2579.</ls> <ls>HARIV. 12452.</ls> Gattin des <is>Viveka</is>, {%des Verstandes%}, 
 <ls>PRAB. 13, 9. 12.</ls> 
 <div n="2">— h) concret {%sinnig, verständig, aufmerksam%} 
 <ls>NAIGH. 3, 15.</ls> {#अ\ग्निं होता^रं परि\भूत^मं म\तिम्#} 

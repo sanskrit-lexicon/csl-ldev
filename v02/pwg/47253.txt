@@ -7,8 +7,8 @@
 <ls>ṢAḌV. BR. 5, 8.</ls> 
 <ls>GOBH. 4, 2, 9.</ls> 
 <ls>MBH. 1, 4494.</ls> <ls n="MBH.">3, 13293.</ls> {#मांसमयी#} 
-<ls>4495.</ls> ohne allen Beisatz 
-<ls>3, 13299.</ls> 
+<ls n="MBH. 3,">4495.</ls> ohne allen Beisatz 
+<ls n="MBH.">3, 13299.</ls> 
 <div n="1">— 2) {%ein Klümpchen, - Flöckchen Fleisch%}, Bez. {%des Fötus in der Zeit bald nach der Empfängniss%}: {#कलल, बुद्बुद, पेशी#} 
 <ls>NIR. 14, 6.</ls> 
 <ls>MBH. 12, 11968. fg.</ls> 
@@ -30,8 +30,8 @@
 <ls>H. ś. 154.</ls> 
 <div n="1">— 8) {%Vogelei%} 
 <ls>AK. 2, 5, 37</ls> (nach Einigen ist {#पेशीकोष#} als ein Wort aufzufassen). 
-<ls>H. 1319,</ls> 
-<ls>Sch.</ls> = {#अण्डभेद#} 
+<ls>H. 1319</ls>, <ls>Sch.</ls>
+= {#अण्डभेद#} 
 <ls>MED.</ls> st. dessen {#मण्डभेद#} 
 <ls>H. an.</ls> {#पेशि#} 
 <ls>SAṂKṢIPTAS.</ls> im <ls>ŚKDR.</ls> 

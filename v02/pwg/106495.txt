@@ -14,7 +14,7 @@
 <ls>NAIGH. 5, 4.</ls> 
 <ls>NIR. 10, 24.</ls> {#वृ\ष्टिभि^स्त\र्पय^न्त\ं सर^स्वन्त\मव^से जोहवीमि#} 
 <ls>ṚV. 1, 164, 52.</ls> <ls n="ṚV.">7, 96, 4.</ls> fgg. <ls n="ṚV.">10, 66, 5.</ls> 
-<ls>AV. 7, 40, 1. 2. 9, 4, 9.</ls> 
+<ls>AV. 7, 40, 1.</ls> <ls n="AV. 7, 40,">2.</ls> <ls n="AV.">9, 4, 9.</ls> 
 <ls>TS. 2, 5, 4, 2.</ls> 
 <ls>PAÑCAV. BR. 16, 5, 15.</ls> 
 <ls>Ind. St. 3, 242</ls>,b. 
@@ -44,13 +44,13 @@
 <ls>NAIGH. 5, 5.</ls> 
 <ls>NIR. 2, 23. 9, 26. 11, 25.</ls> 
 <ls>ṚV. 1, 89, 3.</ls> <ls n="ṚV. 1,">164, 19.</ls> {#अम्बि^तमे\ नदी^तमे\ देवि^तमे\ सर^स्वति#} 
-<ls n="ṚV.">2, 41, 16. fgg. 30, 8. 32, 8. 3, 54, 13. 5, 42, 12.</ls> {#आ नो^ दि\वः पर्व^ता\दा सर^स्वती गन्तु#} 
+<ls n="ṚV.">2, 41, 16. fgg.</ls> <ls n="ṚV. 2,">30, 8.</ls> <ls n="ṚV. 2,">32, 8.</ls> <ls n="ṚV.">3, 54, 13.</ls> <ls n="ṚV.">5, 42, 12.</ls> {#आ नो^ दि\वः पर्व^ता\दा सर^स्वती गन्तु#} 
 <ls n="ṚV. 2,">43, 11.</ls> <ls n="ṚV. 2,">46, 2.</ls> <ls n="ṚV.">6, 49, 7.</ls> <ls n="ṚV. 6,">50, 12.</ls> {#सर^स्वती\ सिन्धु^भि\ः पिन्व^माना#} 
 <ls n="ṚV. 6,">52, 6.</ls> <ls n="ṚV.">7, 9, 5.</ls> {#स° स\प्तथी\ सिन्धु^माता#} 
 <ls n="ṚV. 7,">36, 6.</ls> <ls n="ṚV. 7,">39, 5.</ls> <ls n="ṚV. 7,">40, 3.</ls> <ls n="ṚV.">8, 21, 17.</ls> fg. <ls n="ṚV.">10, 17, 7.</ls> <ls n="ṚV. 10,">30, 12.</ls> <ls n="ṚV. 10,">131, 5.</ls> <ls n="ṚV. 10,">184, 2.</ls> {#सर^स्व\त्यव^न्तु स\प्त सिन्ध^वः#} 
 <ls>VĀLAKH. 6, 4.</ls> 
 <ls>VS. 19, 93. fg.</ls> {#पञ्च^ न\द्य^ः सर^स्वती\मपि^ यन्ति\ सस्रो^तसः#} 
-<ls>34, 11.</ls> <ls>AV. 4, 4, 6. 5, 23, 1. 6, 3, 2. 89, 3. 7, 68, 1. 14, 2, 15. 20. 16, 4, 4. 19, 31, 9. fg.</ls> <ls>TS. 1, 8, 13, 3.</ls> <ls>ŚAT. BR. 1, 6, 2, 4. 11, 4, 3, 3. 12, 7, 1, 12. 2, 5. 14, 9, 3, 8.</ls> <ls>KĀTY. ŚR. 9, 1, 18. 8, 5.</ls> <ls>LĀṬY. 5, 3, 2.</ls> <ls>ŚĀṄKH. GṚHY. 1, 13.</ls> <ls>KAUŚ. 45. 81.</ls> 
+<ls>34, 11.</ls> <ls>AV. 4, 4, 6.</ls> <ls n="AV.">5, 23, 1.</ls> <ls n="AV.">6, 3, 2.</ls> <ls n="AV. 6,">89, 3.</ls> <ls n="AV.">7, 68, 1.</ls> <ls n="AV.">14, 2, 15.</ls> <ls n="AV. 14, 2,">20.</ls> <ls n="AV.">16, 4, 4.</ls> <ls n="AV.">19, 31, 9. fg.</ls> <ls>TS. 1, 8, 13, 3.</ls> <ls>ŚAT. BR. 1, 6, 2, 4. 11, 4, 3, 3. 12, 7, 1, 12. 2, 5. 14, 9, 3, 8.</ls> <ls>KĀTY. ŚR. 9, 1, 18. 8, 5.</ls> <ls>LĀṬY. 5, 3, 2.</ls> <ls>ŚĀṄKH. GṚHY. 1, 13.</ls> <ls>KAUŚ. 45. 81.</ls> 
 <div n="2">— c) N. pr. eines kleinen heilig geachteten Flusses, der mit der <is>Dṛṣadvatī</is> die Grenzen von <is>Brahmāvarta</is> bildet, im Sande verläuft, schliesslich aber nach der Vorstellung der Inder, unter der Erde fortfliessend, sich mit der <is>Gaṅgā</is> und <is>Yamunā</is> vereinigt (vgl. {#विनशन#}). Sie erhält öfters den Beinamen {#पूर्वा#} oder {#प्राची#} . 
 <ls>AK. 1, 2, 3, 33.</ls> 
 <ls>H. 1085.</ls> 
@@ -102,7 +102,7 @@ z. B. <ls>ṚV. 1, 142, 9.</ls> <ls n="ṚV. 1,">188, 8.</ls> <ls n="ṚV.">3, 4
 <ls>MED.</ls> 
 <ls>HALĀY. 1, 8.</ls> {#शं सर^स्वती स\ह धी\भिर^स्तु#} 
 <ls>ṚV. 7, 35, 11.</ls> 
-<ls>AV. 5, 7, 4. 5. 10, 8. 6, 41, 2. 7, 57, 1.</ls> 
+<ls>AV. 5, 7, 4.</ls> <ls n="AV. 5, 7,">5.</ls> <ls n="AV. 5,">10, 8.</ls> <ls n="AV.">6, 41, 2.</ls> <ls n="AV.">7, 57, 1.</ls> 
 <ls>VS. 2, 20. 9, 30. 10, 30. 18, 37. 19, 12.</ls> 
 <ls>AIT. BR. 3, 1. 6, 7.</ls> {#वाग्वै सरस्वती#} 
 <ls>ŚAT. BR. 3, 9, 1, 7. 7, 5, 1, 31.</ls> 
@@ -137,7 +137,7 @@ ein Hass zwischen der <is>Śrī</is> (<is>Lakṣmī</is>) und der <is>Sarasvatī
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#ब्रुवंश्चित्रां सरस्वतीम्#} 
 <ls>MBH. 12, 2764.</ls> {#सरस्वतीं बहुविधां यूयमुच्चारयिष्यथ#} (Frösche) 
-<ls>13, 4045.</ls> {#स्वच्छन्दादेव ते - प्रवृत्तेयं सरस्वती#} 
+<ls n="MBH.">13, 4045.</ls> {#स्वच्छन्दादेव ते - प्रवृत्तेयं सरस्वती#} 
 <ls>R. 1, 2, 34.</ls> {#लघुसंदेशपदा#} 
 <ls>RAGH. 8, 76.</ls> {#उदीरयामास सीता सत्यां सरस्वतीम्#} 
 <ls>15, 80.</ls> <ls>RĀJA-TAR. 5, 415.</ls> <ls>BHĀG. P. 3, 16, 13.</ls> {%Gabe der Rede, Beredsamkeit%} 
@@ -154,7 +154,7 @@ ein Hass zwischen der <is>Śrī</is> (<is>Lakṣmī</is>) und der <is>Sarasvatī
 <div n="2">— l) Bez. verschiedener Pflanzen: = {#ज्योतिष्मती#} und {#ब्राह्मी#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> = {#सोमलता#} 
 <ls>ŚABDAC.</ls> im <ls>ŚKDR.</ls> = {#बिल्व#} (wegen {#सारस्वत#}) 
-<ls>H. 815, Schol.</ls> 
+<ls>H. 815</ls>, Schol. 
 <div n="2">— l) Bez. {%eines zweijährigen Mädchens, das bei der%} <is>Durgā</is>-{%Feier diese Göttin darstellt%}, 
 <ls>ANNADĀKALPA</ls> im <ls>ŚKDR.</ls> unter {#कुमारी#} . 
 <div n="2">— m) N. eines der zehn auf Schüler <is>Śaṃkarākarya's</is> zurückgeführten Bettelorden, dessen Mitglieder das Wort {#सरस्वती#} ihrem Namen beifügen, 

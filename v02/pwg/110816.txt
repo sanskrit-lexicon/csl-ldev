@@ -12,7 +12,7 @@ zu <ls>P. 6, 3, 34.</ls> <ls>VOP. 6, 13.</ls>
 <ls n="ṚV.">5, 37, 4.</ls> <ls n="ṚV.">7, 30, 3.</ls> <ls n="ṚV.">8, 19, 14.</ls> {#सु\पु\त्रा सु\भगा^#} 
 <ls n="ṚV.">10, 85, 25.</ls> {#गृ\हाः#} 
 <ls>AV. 7, 60, 6.</ls> {#सु\भगां पत्ये^ कृणोतु#} 
-<ls>14, 1, 49.</ls> {#कल्याणी रूपसंपन्ना दुर्भगा शक्र दृश्यते । अलक्षणा विरूपा च सुभगा दृश्यते ऽपरा ॥#} 
+<ls n="AV.">14, 1, 49.</ls> {#कल्याणी रूपसंपन्ना दुर्भगा शक्र दृश्यते । अलक्षणा विरूपा च सुभगा दृश्यते ऽपरा ॥#} 
 <ls>MBH. 12, 8121.</ls> 
 <ls>R. 2, 43, 3 (42, 3 GORR.).</ls> {#सुभगातनय#} 
 <ls>3, 40, 15.</ls> {#सुभगासुत#} 
@@ -29,16 +29,16 @@ zu <ls>P. 6, 3, 34.</ls> <ls>VOP. 6, 13.</ls>
 <div n="2">— b) {%beglückend, erfreuend; lieblich, liebenswürdig; reizend, schön%} 
 <ls>H. 448.</ls> 
 <ls>HALĀY. 2, 212. <is>Agni</is></ls> 
-<ls>ṚV. 1, 36, 6. 3, 1, 4. <is>Uṣas</is> 1, 48, 7. 2, 31, 5.</ls> <is>Sarasvatī</is> 
-<ls>1, 89, 3. 181, 4. 185, 7. 2, 32, 4. 3, 33, 7. 4, 57, 6.</ls> <is>Marut</is> 
-<ls>5, 60, 6.</ls> <is>Sūrya</is> 
-<ls>7, 63, 1.</ls> <is>Sindhu</is> 
-<ls>10, 75, 8.</ls> {#राजन्#} 
-<ls>8, 4, 19.</ls> <is>Indrāṇī</is> 
-<ls>10, 86, 11.</ls> Pflanzen 
-<ls>145, 2.</ls> {#नारी#} 
+<ls>ṚV. 1, 36, 6.</ls> <ls n="ṚV.">3, 1, 4.</ls> <is>Uṣas</is> <ls n="ṚV.">1, 48, 7.</ls> <ls n="ṚV.">2, 31, 5.</ls> <is>Sarasvatī</is> 
+<ls n="ṚV.">1, 89, 3.</ls> <ls n="ṚV. 1,">181, 4.</ls> <ls n="ṚV. 1,">185, 7.</ls> <ls n="ṚV.">2, 32, 4.</ls> <ls n="ṚV.">3, 33, 7.</ls> <ls n="ṚV.">4, 57, 6.</ls> <is>Marut</is> 
+<ls n="ṚV.">5, 60, 6.</ls> <is>Sūrya</is> 
+<ls n="ṚV.">7, 63, 1.</ls> <is>Sindhu</is> 
+<ls n="ṚV.">10, 75, 8.</ls> {#राजन्#} 
+<ls n="ṚV.">8, 4, 19.</ls> <is>Indrāṇī</is> 
+<ls n="ṚV.">10, 86, 11.</ls> Pflanzen 
+<ls n="ṚV. 10,">145, 2.</ls> {#नारी#} 
 <ls>AV. 2, 36, 2.</ls> {#देवी#} 
-<ls>6, 38, 1.</ls> <ls>VS. 29, 5.</ls> <ls>TBR. 3, 1, 1, 9.</ls> <ls>ŚĀṄKH. GṚHY. 1, 12.</ls> {#राय^ः#} 
+<ls n="AV.">6, 38, 1.</ls> <ls>VS. 29, 5.</ls> <ls>TBR. 3, 1, 1, 9.</ls> <ls>ŚĀṄKH. GṚHY. 1, 12.</ls> {#राय^ः#} 
 <ls>ṚV. 5, 42, 8.</ls> {#राति#} 
 <ls n="ṚV.">10, 140, 5.</ls> — Männer und Frauen 
 <ls>MBH. 1, 6398.</ls> 
@@ -51,12 +51,12 @@ zu <ls>P. 6, 3, 34.</ls> <ls>VOP. 6, 13.</ls>
 <ls>44, 138</ls> ({#अति°#}). 
 <ls>52, 223. 56, 100.</ls> <ls>BHĀG. P. 8, 8, 33. 22, 13.</ls> <ls>DHŪRTAS. 92, 14.</ls> {#सुभगे#} häufige Anrede an Frauen oder weiblich personificirte Dinge: {#अ\न्यमि^च्छस्व सुभगे\ पति\ं मत्#} 
 <ls>ṚV. 10, 10, 10.</ls> <ls n="ṚV. 10, 10,">12.</ls> <ls n="ṚV. 10,">108, 5.</ls> 
-<ls>AV. 5, 5, 6. 6, 30, 3. 7, 79, 1. 19, 49, 3.</ls> 
+<ls>AV. 5, 5, 6.</ls> <ls n="AV.">6, 30, 3.</ls> <ls n="AV.">7, 79, 1.</ls> <ls n="AV.">19, 49, 3.</ls> 
 <ls>TS. 7, 4, 19, 1.</ls> 
 <ls>KAUŚ. 106.</ls> 
 <ls>M. 2, 129.</ls> 
 <ls>MBH. 3, 1853</ls> ({#शुभगे#} ed. Calc.). 
-<ls>15599.</ls> <ls>R. 2, 52, 79 (19 GORR.</ls>, beide {#शुभगे#}). 
+<ls n="MBH. 3,">15599.</ls> <ls>R. 2, 52, 79 (19 GORR.</ls>, beide {#शुभगे#}). 
 <ls>R. GORR. 2, 30, 38.</ls> <ls>Spr. (II) 3882.</ls> <ls>BRAHMA-P. in LA. (III) 53, 9.</ls> <ls>PAÑCAT. 45, 1. 225, 25. 262, 12.</ls> {#जघनाभोगसुभगे#} 
 <ls>ŚRUT. 40.</ls> {#सुभग#} in der Anrede an Männer 
 <ls>Spr. (II) 978.</ls> 

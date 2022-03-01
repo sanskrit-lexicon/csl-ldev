@@ -3,7 +3,7 @@
 <div n="1"> 1) {%Ausfluss, das Ausströmen, Fortströmen; Strom%}: {#नदीं प्रस्रवनिर्भेदाम् (विष्णुश्चकार)#} 
 <ls>HARIV. 12017.</ls> {#वारिप्रस्रवौ गैरिकाचलौ#} 
 <ls>MBH. 7, 7919.</ls> {#गैरिकप्रस्रवा इव#} 
-<ls>8, 2533.</ls> {#निर्झरः प्रस्रवो ऽम्भसाम्#} 
+<ls n="MBH.">8, 2533.</ls> {#निर्झरः प्रस्रवो ऽम्भसाम्#} 
 <ls>HALĀY. 2, 11.</ls> {#प्रस्रवे#} ({%wenn die Milch aus dem Euter strömt%}) {#च शुचिर्वत्सः#} 
 <ls>M. 5, 130.</ls> 
 <ls>SUŚR. 1, 286, 4.</ls> {#प्रस्रवसंयुक्तैरस्रै#} . so v. a. {%in Strömen fliessend%} 
@@ -20,7 +20,7 @@
 <ls>HARIV. 4776.</ls> 
 <div n="2">— c) {%Urin%} 
 <ls>H. 633, v. l.</ls> 
-<ls>MBH. 13, 3533</ls> = <ls>3683.</ls> 
+<ls>MBH. 13, 3533</ls> = <ls n="MBH. 13,">3683.</ls> 
 <div n="2">— d) {%der überfliessende Schaum bei kochendem Reise%} 
 <ls>H. ś. 94.</ls> — Hier und da fälschlich {#प्रस्नव#} gedruckt. Vgl. {#प्रस्राव#} .
 <LEND>

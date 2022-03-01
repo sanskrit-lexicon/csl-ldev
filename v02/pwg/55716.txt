@@ -56,8 +56,8 @@
 <ls>SĀH. D. 67, 12. fg.</ls> {#गति°#} (v. l. für {#गतिभङ्ग)#} 
 <ls>ŚĀK. 54, 6.</ls> {#धर्म°#} 
 <ls>KĀTY. ŚR. 26, 7, 46.</ls> {#आचार°#} so v. a. {%Verstoss gegen die gute Sitte%} 
-<ls>P. 8, 1, 60,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 1, 60</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 7) {%Bruch%} (eines Geheimnisses), {%Verrath%}: {#रहस्य°#} 
 <ls>KĀM. NĪTIS. 14, 56.</ls> <ls>Spr. 2592.</ls> {#मन्त्र°#} 
 <ls>2114. 2120.</ls> <ls>MBH. 15, 194. fg.</ls> <ls>HARIV. 7402.</ls> <ls>KATHĀS. 7, 74. 42, 107.</ls> <ls>HIT. 71, 17.</ls> 
@@ -71,7 +71,7 @@
 <ls>HALĀY. 4, 95.</ls> Gegens. {#संपत्ति#} 
 <ls>ĀŚV. ŚR. 2, 11.</ls> 
 <ls>MBH. 1, 1360.</ls> <ls n="MBH. 1,">2225.</ls> {#पुत्रैर्भेदो यथा न स्यात्#} 
-<ls>2, 1779.</ls> <ls>KĀM. NĪTIS. 11, 53.</ls> <ls>VARĀH. BṚH. S. 15, 4.</ls> {#बल°#} {%Uneinigkeit im Heere%} 
+<ls n="MBH.">2, 1779.</ls> <ls>KĀM. NĪTIS. 11, 53.</ls> <ls>VARĀH. BṚH. S. 15, 4.</ls> {#बल°#} {%Uneinigkeit im Heere%} 
 <ls>43, 22.</ls> <ls>MBH. 4, 1595.</ls> <ls>GĪT. 9, 7.</ls> <ls>RĀJA-TAR. 2, 7.</ls> {#विभजस्व यथान्यायं नैव भेदो यथा स्यात्#} 
 <ls>BHĀG. P. 8, 9, 7.</ls> {#निष्पन्नो ऽयमन्योऽन्यभेदः#} 
 <ls>HIT. 76, 12.</ls> {#भेदमुपगताच्च राज्ञः सदैव भेतव्यम्#} {%der mit Einem gebrochen hat%} 
@@ -126,7 +126,7 @@ Am Ende eines <lex>adj.</lex> comp. (f. {#आ)#}
 <div n="1">— 12) N. pr. eines Volkes, sg. 
 <ls>ṚV. 7, 18, 18.</ls> <ls n="ṚV. 7, 18,">19.</ls> <ls n="ṚV. 7,">33, 3.</ls> <ls n="ṚV. 7,">83, 4.</ls> 
 <div n="1">— 13) N. pr. eines Mannes, der dem <is>Indra</is> eine Kuh verweigert, 
-<ls>AV. 12, 4, 49. 50.</ls> 
+<ls>AV. 12, 4, 49.</ls> <ls n="AV. 12, 4,">50.</ls> 
 <div n="v">— Vgl. {#अ°, अंहु°, अङ्ग°#} (auch 
 <ls>KATHĀS. 39, 156</ls>, aber in einer anderen, uns nicht klaren Bed.), {#अश्म°, कृष्णभेदी, ग्रन्थिभेद, ज्ञाति°, दुर्भेद, नैक°, पायु°, पाषाण°, पुट°, भ्रू°, मित्र°, शकृद्भेद, सुहृद्भेद, स्वर°, भैदिक#} .
 <LEND>

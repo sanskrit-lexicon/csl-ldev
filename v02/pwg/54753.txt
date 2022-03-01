@@ -4,7 +4,7 @@
 <ls>P. 3, 1, 123.</ls> 
 <div n="2"> a) {%was geschehen muss%}: {#नहि भवति यन्न भाव्यं भवति च भाव्यम्#} 
 <ls>Spr. 1509. 2085.</ls> {%gegenwärtig%} (vgl. {#भव्य)#} oder {%zukünftig%} 
-<ls>AV. 13, 1, 54. 19, 6, 4.</ls> {%zukünftig%} 
+<ls>AV. 13, 1, 54.</ls> <ls n="AV.">19, 6, 4.</ls> {%zukünftig%} 
 <ls>HARIV. 485.</ls> 
 <ls>KUVALAY. 153,a.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 122,2.</ls> die Stelle des fut. von {#भू#} vertretend 
 <ls>HARIV. 478.</ls> 
@@ -22,8 +22,8 @@
 <ls>KUSUM. 7, 10.</ls> <ls>VOP. 26, 6.</ls> {#तत्र तात न तेषां हि राज्ञां भाव्यमसांप्रतम्#} 
 <ls>MBH. 4, 926.</ls> {#अतो ऽन्यथा न भाव्यं ते सखि मत्संगतं प्रति#} 
 <ls>KATHĀS. 28, 186.</ls> {#ज्ञानार्थस्य (विदः) - तु विद्वानित्येव भाव्यम्#} 
-<ls>P. 7, 2, 68,</ls> 
-<ls>Sch.</ls> {#किं तैर्भाव्यं मम सुदिवसैः#} {%werden die schönen Tage für mich kommen?%} 
+<ls>P. 7, 2, 68</ls>, <ls>Sch.</ls>
+{#किं तैर्भाव्यं मम सुदिवसैः#} {%werden die schönen Tage für mich kommen?%} 
 <ls>Spr. 808.</ls> 
 <div n="2">— b) {%zu Stande zu bringen, zu bewerkstelligen, zu bewirken, zu thun%}: {#अर्थो ऽयमर्थान्तरभाव्य एव#} 
 <ls>KUMĀRAS. 3, 18.</ls> 

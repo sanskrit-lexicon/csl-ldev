@@ -4,19 +4,19 @@ zu <ls>P. 4, 4, 62.</ls>
 <div n="1"> 1) {%Kenntniss, Kunst, Fertigkeit, Geschicklichkeit%} 
 <ls>BHĀG. P. 2, 7, 46.</ls> {#न दर्शयेयुः स्वां शिक्षाम्#} 
 <ls>MBH. 1, 5314.</ls> {#असियुद्धे#} 
-u.s.w. <ls>5520.</ls> {#नानाशिक्षासु बोधिताः#} 
-<ls>4356. 3, 12585.</ls> <ls>HARIV. 7507.</ls> <ls n="HARIV.">12154.</ls> {#शिक्षया#} {%kunstgerecht%} 
+u.s.w. <ls n="MBH. 1,">5520.</ls> {#नानाशिक्षासु बोधिताः#} 
+<ls n="MBH. 1,">4356.</ls> <ls n="MBH.">3, 12585.</ls> <ls>HARIV. 7507.</ls> <ls n="HARIV.">12154.</ls> {#शिक्षया#} {%kunstgerecht%} 
 <ls n="HARIV.">5096.</ls> <ls n="HARIV.">5111.</ls> <ls n="HARIV.">5624.</ls> <ls n="HARIV.">6869.</ls> <ls>R. 6, 76, 40.</ls> instr. pl. dass. 
 <ls>MBH. 6, 1765.</ls> {#स्नानशिक्षाज्ञ#} (so ed. Bomb) 
 <ls>R. 2, 65, 8.</ls> {#अभूच्च नम्रः प्रणिपातशिक्षया#} 
 <ls>RAGH. 3, 25. 9, 63.</ls> {#अश्व°#} {%die Kunst mit Pferden umzugehen%} 
 <ls>MBH. 4, 63.</ls> {#गज°#} 
-<ls>1, 4355.</ls> {#नाग°#} 
-<ls>5, 5209.</ls> {#हय°#} 
-<ls>14, 2319.</ls> {#हस्ति°#} 
+<ls n="MBH.">1, 4355.</ls> {#नाग°#} 
+<ls n="MBH.">5, 5209.</ls> {#हय°#} 
+<ls n="MBH.">14, 2319.</ls> {#हस्ति°#} 
 <ls>MṚCCH. 1, 15.</ls> {#क्रम°#} 
 <ls>MBH. 1, 2885.</ls> {#न्याय°#} 
-<ls>67.</ls> <ls>Spr. (II) 5815.</ls> 
+<ls n="MBH. 1,">67.</ls> <ls>Spr. (II) 5815.</ls> 
 <div n="1">— 2) {%Unterricht, Unterweisung, Vorschrift, Lehre%}; = {#क्रिया#} 
 <ls>AK. 3, 4, 24, 158.</ls> = {#उपदेशन#} 
 <ls>SĀH. D. 503.</ls> — 
@@ -40,7 +40,7 @@ u.s.w. <ls>5520.</ls> {#नानाशिक्षासु बोधिता�
 <div n="1">— 3) {%die Lehre von den grammatischen Elementen%}, eine Hilfswissenschaft zum <is>Veda</is> und Titel besonderer Schriften, Einleitung 
 zu <ls>NIR. S. XVI.</ls> <ls>TS. PRĀT. S. 435.</ls> <ls>AK. 1, 1, 5, 4.</ls> <ls>H. 250.</ls> <ls>VS. PRĀT. 1, 29.</ls> <ls>MUṆḌ. UP. 1, 1, 5.</ls> <is>gaṇa</is> {#क्रमादि#} 
 zu <ls>P. 4, 2, 61.</ls> {#ऋगयनादि#} 
-zu <ls>3, 73.</ls> <ls>Ind. St. 1, 13. 16. 2, 211.</ls> fg. <ls n="Ind. St.">3, 260.</ls> fg. <ls n="Ind. St.">4, 118. 125. 345.</ls> fgg. <ls n="Ind. St.">8, 192. 10, 433.</ls> <ls>HARIV. 1049.</ls> <ls n="HARIV.">1304.</ls> <ls>VP. 284.</ls> Comm. zu <ls>TS. PRĀT. 1, 1</ls> u.s.w. <ls>LALIT. ed. Calc. 179, 4.</ls> <ls>Verz. d. B. H. 376.</ls> fgg. <ls>Verz. d. Oxf. H. 386,a,</ls> 
+zu <ls n="P. 4,">3, 73.</ls> <ls>Ind. St. 1, 13. 16. 2, 211.</ls> fg. <ls n="Ind. St.">3, 260.</ls> fg. <ls n="Ind. St.">4, 118. 125. 345.</ls> fgg. <ls n="Ind. St.">8, 192. 10, 433.</ls> <ls>HARIV. 1049.</ls> <ls n="HARIV.">1304.</ls> <ls>VP. 284.</ls> Comm. zu <ls>TS. PRĀT. 1, 1</ls> u.s.w. <ls>LALIT. ed. Calc. 179, 4.</ls> <ls>Verz. d. B. H. 376.</ls> fgg. <ls>Verz. d. Oxf. H. 386,a,</ls> 
 <ls>No. 502. fg.</ls> {#°सूत्र#} 
 <ls>169,a,</ls> 
 <ls>14.</ls> 

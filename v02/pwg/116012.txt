@@ -1,7 +1,7 @@
 <L>116012<pc>7-1514<k1>हन्त<k2>ह꣡न्त
 {#ह꣡न्त#}¦ interj. Einfluss auf den Ton des verbi finiti 
 <ls>Ind. St. 10, 413.</ls> 
-<ls>P. 8, 1, 30. 54.</ls> Ausruf der Aufforderung zu einer That ({%wohlan, allons%}), zu einer Entgegennahme {%(da nimm, voila%}), zum Aufmerken: {#हन्तो\ नु किमा^ससे#} {%auf! was sitzest du müssig?%} 
+<ls>P. 8, 1, 30.</ls> <ls n="P. 8, 1,">54.</ls> Ausruf der Aufforderung zu einer That ({%wohlan, allons%}), zu einer Entgegennahme {%(da nimm, voila%}), zum Aufmerken: {#हन्तो\ नु किमा^ससे#} {%auf! was sitzest du müssig?%} 
 <ls>ṚV. 8, 69, 5.</ls> {#हन्ता\हं पृ^थि\वीं नि द^धानि#} 
 <ls n="ṚV.">10, 119, 9.</ls> <ls n="ṚV. 10,">53, 2.</ls> {#हन्तेमं यज्ञं संभराम#} 
 <ls>AIT. BR. 1, 18. 24.</ls> {#हन्ताजिमयाम#} 
@@ -18,10 +18,10 @@
 <ls>KATHĀS. 33, 120.</ls> {#यश्च\ हन्तेति\ नेति^ च#} so v. a. {%da hast du, nimm hin%} 
 <ls>AV. 11, 8, 22.</ls> {#हन्तानुपानम्#} 
 <ls>CHĀND. UP. 1, 10, 3.</ls> {#गां मे देहि भोः । हन्त ते ददामी ३#} 
-<ls>P. 8, 2, 99, Schol.</ls> {#हन्त ते धानकाः । हन्त ते गुडकाः#} 
-<ls>5, 3, 77, Schol.</ls> {#ददामि ते हन्त वरम्#} 
+<ls>P. 8, 2, 99</ls>, Schol. {#हन्त ते धानकाः । हन्त ते गुडकाः#} 
+<ls n="P.">5, 3, 77</ls>, Schol. {#ददामि ते हन्त वरम्#} 
 <ls>MBH. 4, 307.</ls> {#शृणु हन्त#} 
-<ls>3, 11943.</ls> {#श्रूयतां हन्त#} 
+<ls n="MBH.">3, 11943.</ls> {#श्रूयतां हन्त#} 
 <ls>R. 4, 61, 32.</ls> {#हन्त लक्ष्मण पश्येह सुमित्रा सुप्रजास्त्वया#} 
 <ls>R. SCHL. 2, 97, 8.</ls> {#हन्त प्रसीदानय तम्#} 
 <ls>KATHĀS. 24, 143.</ls> {#हन्तायं विहितस्तस्य वधोपायो दुरात्मनः#} so v. a. {%sieh da!%} 

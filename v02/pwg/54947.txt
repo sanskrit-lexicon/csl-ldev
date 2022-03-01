@@ -15,7 +15,7 @@
 <ls n="ṚV.">6, 18, 10.</ls> {#रथ#} 
 <ls n="ṚV. 6,">31, 5.</ls> {#इषु#} 
 <ls>AV. 3, 25, 1.</ls> {#मैतं पन्था\नमनु^ गा भी\म ए\षः#} 
-<ls>8, 1, 10. 12, 4, 41.</ls> <ls>AIT. BR. 7, 17.</ls> <ls>TS. 4, 4, 11, 2.</ls> <ls>ARJ. 2, 2.</ls> <ls>INDR. 1, 14.</ls> <ls>SUND. 4, 17.</ls> <ls>MBH. 1, 1167.</ls> <ls n="MBH.">5, 7364.</ls> <ls>DAŚ. 1, 14.</ls> <ls>RAGH. 1, 16. 3, 54. 12, 72.</ls> <ls>Spr. 2051. 2475. 2776.</ls> <ls>DHŪRTAS.</ls> in <ls>LA. 66, 15.</ls> {#°कर्मन्#} 
+<ls n="AV.">8, 1, 10.</ls> <ls n="AV.">12, 4, 41.</ls> <ls>AIT. BR. 7, 17.</ls> <ls>TS. 4, 4, 11, 2.</ls> <ls>ARJ. 2, 2.</ls> <ls>INDR. 1, 14.</ls> <ls>SUND. 4, 17.</ls> <ls>MBH. 1, 1167.</ls> <ls n="MBH.">5, 7364.</ls> <ls>DAŚ. 1, 14.</ls> <ls>RAGH. 1, 16. 3, 54. 12, 72.</ls> <ls>Spr. 2051. 2475. 2776.</ls> <ls>DHŪRTAS.</ls> in <ls>LA. 66, 15.</ls> {#°कर्मन्#} 
 <ls>BHAG. 1, 15.</ls> {#°दर्शन#} 
 <ls>MBH. 12, 4259.</ls> 
 <ls>RAGH. 3, 57.</ls> {#प्रमथ्यमानार्णवभीमनादिनाम्#} 
@@ -36,8 +36,8 @@
 <ls>11 <is>Rudra</is></ls> <ls>VP. 121, N. 17.</ls> <ls>BHĀG. P. 6, 6, 17.</ls> 
 <div n="2">— c) N. pr. eines <is>Devagandharva</is> 
 <ls>MBH. 1, 2551.</ls> eines der <is>Deva</is> <is>Yajñamuṣ</is> 
-<ls>3, 14166.</ls> eines <is>Dānava</is> 
-<ls>12, 8261.</ls> <ls>KATHĀS. 47, 16.</ls> eines <is>Vidyādhara</is> 
+<ls n="MBH.">3, 14166.</ls> eines <is>Dānava</is> 
+<ls n="MBH.">12, 8261.</ls> <ls>KATHĀS. 47, 16.</ls> eines <is>Vidyādhara</is> 
 <ls>46, 60.</ls> eines Sohnes des <is>Rākṣasa</is> <is>Kumbhakarṇa</is> 
 <ls>Verz. d. Oxf. H. 64,a,36.</ls> {#°राक्षस#} 
 <ls>78,b,15.</ls> 

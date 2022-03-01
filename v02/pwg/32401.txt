@@ -25,9 +25,9 @@
 <ls>ŚAT. BR. 2, 4, 2, 17.</ls> {#स्व\य\ंदि\नं ब\र्हिः#} 
 <ls>TS. 1, 8, 9, 3.</ls> {#लोमानि केशा दीयन्ते#} 
 <ls>Schol.</ls> zu <ls>RAGH. 3, 33.</ls> {#दातं बर्हिः#} 
-<ls>P. 7, 4, 46,</ls> 
-<ls>Sch. 1, 1, 20,</ls> 
-<ls>Sch.</ls> {#सोमः कला लेभे क्षये दिताः#} {%sich ablösend%} 
+<ls>P. 7, 4, 46</ls>, <ls>Sch. 1, 1, 20,</ls>
+<ls>Sch.</ls>
+{#सोमः कला लेभे क्षये दिताः#} {%sich ablösend%} 
 <ls>BHĀG. P. 6, 6, 23.</ls> Das partic. {#दात#} hat 
 <ls>LASSEN</ls> in <ls>DHŪRTAS. 67, 3</ls> zu finden geglaubt, aber daselbst ist aufzulösen: {#दाता#} (nom. von 1. {#दातर्) अव°#} . — desid. {#दित्सति#} 
 <ls>P. 7, 4, 54.</ls> — intens. {#देदीयते#} 
@@ -77,21 +77,21 @@
 
 <div n="p">— {#आ#} {%zerstücken, zerkleinern, zermalmen%}: {#अ\मित्रा\ना द्या^मसि#} 
 <ls>AV. 6, 104, 1.</ls> {#°द्य#} 2. {#°द्यताम्#} 3. {#अधा^ स\पत्ना^न्माम\कान\ग्नेस्तेजो^भि\रादि^षि#} (besser wohl {#आ दिषि#} 2. conj.) 
-<ls>13, 1, 30.</ls>
+<ls n="AV.">13, 1, 30.</ls>
 
 <div n="p">— {#परिणि#}, {#°द्यति#} 
-<ls>P. 8, 4, 17,</ls> 
-<ls>Sch.</ls>
+<ls>P. 8, 4, 17</ls>, <ls>Sch.</ls>
+
 
 <div n="p">— {#प्रणि#}, {#°द्यति#} 
-<ls>P. 8, 4, 17,</ls> 
-<ls>Sch. 1, 1, 20,</ls> 
-<ls>Sch.</ls> {#प्रण्यदात्#} 
+<ls>P. 8, 4, 17</ls>, <ls>Sch. 1, 1, 20,</ls>
+<ls>Sch.</ls>
+{#प्रण्यदात्#} 
 <ls>VOP. 11, 3.</ls>
 
 <div n="p">— {#निस्#}, partic. {#निर्दित#} 
-<ls>P. 7, 4, 40,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 7, 4, 40</ls>, <ls>Sch.</ls> 
+
 <div n="v">— Vgl. {#निर्दातर्#} .
 
 <div n="p">— {#परि#} {%ringsum beschneiden%}; {#परीत्त#} {%beschnitten, unvollständig, begrenzt%}, im Gegens. zu {#अप्रमाण#} 

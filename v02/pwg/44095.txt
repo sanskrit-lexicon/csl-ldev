@@ -13,7 +13,7 @@
 <div n="1">— 3) {%Text%} 
 <ls>KĀTY. ŚR. 1, 2, 14.</ls> {#ऋग्वेदपाठपठितं व्रतम्#} 
 <ls>MBH. 12, 13568.</ls> {#यथापाठम्#} 
-<ls>2373.</ls> {#वेद°#} 
+<ls n="MBH. 12,">2373.</ls> {#वेद°#} 
 <ls>Ind. St. 3, 400.</ls> {#°क्रम#} ebend. {#सूत्र°#} P. in den Unterschriften. — 
 <ls>SĀH. D. 18, 5.</ls> <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 1, 5, 3 - 9. 9, 6, 28.</ls> {#°दोष#} {%Fehler des Textes, falsche Lesart%} 
 <ls>WEBER</ls>, <is>Nakṣatra</is> 375. Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 

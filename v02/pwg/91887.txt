@@ -1,6 +1,6 @@
 <L>91887<pc>6-1076<k1>विधि<k2>विधि<h>1
 1. {#विधि#}¦ (von 1. {#धा#} mit {#वि#}) 
-<ls>P. 3, 3, 92, Schol.</ls> 
+<ls>P. 3, 3, 92</ls>, Schol. 
 <div n="1"> 1) <lex>m.</lex> 
 <div n="2"> a) {%Anordnung, Anweisung, positive Vorschrift; gesetzliches Verfahren; Regel, Methode%}; = {#नियोग#} 
 <ls>H. 1520.</ls> = {#विधिवाक्य#} 
@@ -56,10 +56,10 @@
 <ls>ŚĀK. 189, v. l.</ls> {%eine grammatische Vorschrift,%}
 [Page6-1077]
 {%- Regel%} 
-<ls>P. 1, 1, 57. 72.</ls> {#विधिं कर्#} 
-<ls>57, Schol.</ls> {#स्थान°#} 
+<ls>P. 1, 1, 57.</ls> <ls n="P. 1, 1,">72.</ls> {#विधिं कर्#} 
+<ls n="P. 1, 1,">57</ls>, Schol. {#स्थान°#} 
 <ls>AV. PRĀT. 1, 41.</ls> 
-<ls>P. 1, 1, 56. 6, 13. 2, 1, 1. 8, 2, 2.</ls> {#गणित°#} {%mathematische Regel%} 
+<ls>P. 1, 1, 56.</ls> <ls n="P. 1,">6, 13.</ls> <ls n="P.">2, 1, 1.</ls> <ls n="P.">8, 2, 2.</ls> {#गणित°#} {%mathematische Regel%} 
 <ls>VARĀH. BṚH. S. 11, 2.</ls> — {#विधयस्त्रयः#} (nach 
 <ls>NĪLAK.</ls> der {#अपूर्वविधि, नियम°#} und {#परिसंख्या°#} der <is>Mīmāṃsaka</is>) 
 <ls>HARIV. 9490.</ls> 
@@ -74,7 +74,7 @@
 <ls>HARIV. 1857.</ls> {#क्रीडारतिविधिज्ञ#} 
 <ls>R. 3, 42, 47.</ls> {#विधिना येन#} 
 <ls>MBH. 3, 11943.</ls> {#एतेन विधिना#} 
-<ls>4, 59.</ls> <ls>VARĀH. BṚH. S. 40, 12.</ls> <ls>PAÑCAT. 121, 18.</ls> {#भवद्विधिना#} 
+<ls n="MBH.">4, 59.</ls> <ls>VARĀH. BṚH. S. 40, 12.</ls> <ls>PAÑCAT. 121, 18.</ls> {#भवद्विधिना#} 
 <ls>215, 8.</ls> {#यथोचितेन विधिना#} 
 <ls>HIT. 42, 3.</ls> {#वृथा निरर्थकाविध्योः#} {%nicht die rechte Weise%} 
 <ls>AK. 3, 4, 32 (28), 9.</ls> {#अद्भुतविधि#} <lex>adj.</lex> {%auf eine wunderbare Weise verfahrend%} 

@@ -8,7 +8,7 @@
 <ls>ŚAT. BR. 14, 4, 3, 4.</ls> {#षण्मास्या वा अन्तमा गर्भा जाता जीवन्ति#} 
 <ls>9, 5, 1, 63.</ls> {#जा\तो जा^यते सुदिन\त्वे अह्ना^म्#} 
 <ls>ṚV. 3, 8, 5.</ls> 
-<ls>AV. 8, 6, 18. 19.</ls> {#किं स्विज्जातं न चोपति, अण्डं जातं न चोपति#} 
+<ls>AV. 8, 6, 18.</ls> <ls n="AV. 8, 6,">19.</ls> {#किं स्विज्जातं न चोपति, अण्डं जातं न चोपति#} 
 <ls>MBH. 3, 10648. fg.</ls> {#त्वं तु जाता#} ({%eben geboren%}) {#मया दृष्टा दशार्णेषु पितुर्गृहे#} 
 <ls>N. 17, 14.</ls> 
 <ls>PAÑCAT. III, 144.</ls> {#वरं जातः प्रेतः#} ad 
@@ -26,8 +26,8 @@
 <ls>R. 2, 63, 48.</ls> 
 <ls>H. 899.</ls> {#न त्वं केकयराजेन जाता#} 
 <ls>R. GORR. 2, 75, 21.</ls> {#मासजात#} {%vor einem Monat geboren, einen Monat alt%} 
-<ls>Sch.</ls> zu <ls>P. 2, 2, 5. 6, 2, 170</ls> und 
-<ls>2, 2, 36</ls>, <is>Vārtt</is>. 1. {#सप्ताहजात#} 
+<ls>Sch.</ls> zu <ls>P. 2, 2, 5.</ls> <ls n="P.">6, 2, 170</ls> und 
+<ls n="P.">2, 2, 36</ls>, <is>Vārtt</is>. 1. {#सप्ताहजात#} 
 <ls>MBH. 8, 3389.</ls> {#पुत्रो जातः#} {%ein schlechtweg nur geborener Sohn%} = {#पुत्रो मातृतुल्यगुणः#} 
 <ls>PAÑCAT. I, 441. 442.</ls> {#अ\ग्निमि^व जा\तम\भि सं ध^मामि#} 
 <ls>AV. 8, 2, 4.</ls> {#तस्य हम्भारवाज्जाताः काम्बोजाः#} 
@@ -41,8 +41,8 @@
 <ls>R. 1, 9, 27. 2, 44.</ls> {#तस्य कान्त्या महानुद्द्योतो जातः#} 
 <ls>VET. 2, 11.</ls> {#संप्रति संदेहनिर्णयो जातः#} {%ist entstanden, ist da%} 
 <ls>ŚĀK. 27.</ls> {#य व र ल एषां स्थाने क्रमेण जाता#} ({%an die Stelle getreten%}) {#भाविनो वा इ उ ऋ ऌ#} 
-<ls>P. 1, 1, 45,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 1, 1, 45</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 4, 8.</ls> {#अद्य प्रातरेवानिष्टदर्शनं जातम्#} {%hat sich zugetragen%} 
 <ls>HIT. 9, 7.</ls> {#राज्ञा सह दर्शनं जातम्#} 
 <ls>VET. 28, 15.</ls> 
@@ -69,7 +69,7 @@
 <ls>AK. 2, 6, 1, 16.</ls> 
 <ls>H. 539.</ls> {#जातपक्ष#} {%dem die Flügel schon gewachsen sind, schon Flügel habend%} 
 <ls>MBH. 12, 9305.</ls> {#अजातरोम#} {%unbehaart%} 
-<ls>3, 10053.</ls> {#अजातलोमन्#} dass.: {#नाजातलोम्न्योपहासमिच्छेत्#} {%deren Scham noch nicht behaart ist%} 
+<ls n="MBH.">3, 10053.</ls> {#अजातलोमन्#} dass.: {#नाजातलोम्न्योपहासमिच्छेत्#} {%deren Scham noch nicht behaart ist%} 
 <ls>GOBH. 3, 5, 3.</ls> 
 <ls>PĀR. GṚHY. 2, 7.</ls> {#जातदन्त#} {%schon Zähne habend%} 
 <ls>M. 5, 70.</ls> <is>gaṇa</is> {#आहिताग्न्यादि#} zu 
@@ -93,14 +93,14 @@
 <ls>RAGH. 2, 30.</ls> {#जातब्राह्मणशब्द#} {%der das Wort Br. im Munde führt, der stets an die Br. denkt%} 
 (<ls>KULL.</ls>: {#जातो ब्राह्मणाश्रितो ऽयमिति शब्दो यस्य#}) 
 <ls>M. 10, 122.</ls> Nicht selten sind die beiden Glieder des comp. verstellt 
-<ls>P. 6, 2, 170. 171. 2, 2, 36</ls>, <is>Vārtt</is>. 1. {#पुत्रजात#} {%einen Sohn habend%}
+<ls>P. 6, 2, 170.</ls> <ls n="P. 6, 2,">171.</ls> <ls n="P.">2, 2, 36</ls>, <is>Vārtt</is>. 1. {#पुत्रजात#} {%einen Sohn habend%}
 [Page3-0076]
 
-<ls>P. 6, 2, 170,</ls> 
-<ls>Sch.</ls> <is>gaṇa</is> {#आहिताग्न्यादि#} zu 
+<ls>P. 6, 2, 170</ls>, <ls>Sch.</ls>
+<is>gaṇa</is> {#आहिताग्न्यादि#} zu 
 <ls>P. 2, 2, 37.</ls> {#श्मश्रुजात#} ebend. {#दन्तजात#} {%schon Zähne habend%} ebend. 
-<ls>P. 6, 2, 171,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 2, 171</ls>, <ls>Sch.</ls> 
+
 <ls>M. 5, 58.</ls> {#अदन्तजात#} 
 <ls>ĀŚV. GṚHY. 4, 4.</ls> {#किणजात#} {%mit Schwielen versehen%} 
 <ls>MBH. 3, 11005.</ls> {#प्रीतिसौमनस्यजात#} 
@@ -131,10 +131,10 @@
 <ls n="ṚV. 1,">156, 2.</ls> {#म\ःआन्गर्भो\ मह्या जा\तमे^षाम्#} 
 <ls n="ṚV.">3, 31, 3.</ls> {#अ\ग्निर्जा\ता#} (hierher oder zu c) {#दे\वाना^म\ग्निर्वे^द\ मर्ता^नामपी\च्य^म्#} 
 <ls n="ṚV.">8, 39, 6.</ls> {#केन\ जाते^नासि जा\तवे^दाः#} 
-<ls>AV. 5, 11, 2. 3.</ls> 
+<ls>AV. 5, 11, 2.</ls> <ls n="AV. 5, 11,">3.</ls> 
 <div n="2">— c) {%Geschlecht, Art, genus; eine Gesammtheit zusammengehöriger Dinge%}: {#पि\शा\च्याः#} 
 <ls>AV. 1, 16, 3.</ls> {#स\र्पाणा^म्#} 
-<ls>10, 4, 23.</ls> {#रुद्राणाम्#} 
+<ls n="AV.">10, 4, 23.</ls> {#रुद्राणाम्#} 
 <ls>ŚAT. BR. 9, 1, 1, 19.</ls> {#ब्राह्मणजात#} 
 <ls>13, 4, 2, 17.</ls> {#देवजातानि#} 
 <ls>14, 4, 2, 24.</ls> {#सप्तदशैकैकस्य जातस्य#} 
@@ -146,11 +146,11 @@
 <ls>SĀY.</ls> bei <ls>BURN.</ls> in der Einl. zu 
 <ls>BHĀG. P. I, x.</ls> {#किमन्नजातमिष्टं ते#} 
 <ls>MBH. 13, 2741.</ls> {#विध्यन्तो मृगजातानि#} {%alle Arten von Thieren%} 
-<ls>4, 143.</ls> {#आयुधजातानि#} 
+<ls n="MBH.">4, 143.</ls> {#आयुधजातानि#} 
 <ls>R. GORR. 2, 39, 19.</ls> {#इदमलंकारजातम्#} {%hier ist eine besondere Art Schmuck%} 
 <ls>ŚĀK. 50, 2, v. l.</ls> (<ls>Sch.</ls>: {#जात = समूह)#}.{# हरन्ति दोषजातानि नरं जातं यथेच्छकम्#} 
 <ls>MBH. 12, 1500.</ls> {#यदि वा दोषजातं त्वं परदारेषु पश्यसि#} {%für eine Art Sünde, für etwas Sündhaftes%} 
-<ls>1502.</ls> {#सर्वेषां धनजातानामाददीताग्र्यमग्रजः#} {%von Allem was Besitz heisst%} 
+<ls n="MBH. 12,">1502.</ls> {#सर्वेषां धनजातानामाददीताग्र्यमग्रजः#} {%von Allem was Besitz heisst%} 
 <ls>M. 9, 114.</ls> {#सर्वं वा रिक्थजातम्#} 
 <ls>152.</ls> {#तत्र यद्रिक्थजातं स्यात्#} 
 <ls>190.</ls> {#सर्वं शास्त्रजातम्#} 
@@ -165,8 +165,8 @@
 <ls>3.</ls> {#जाते#} {%im Allgemeinen%} 
 <ls>Ind. St. 4, 140.</ls> = {#जाति#} 
 <ls>AK. 1, 1, 4, 9.</ls> 
-<ls>H. 1515,</ls> 
-<ls>Sch.</ls> = {#ओघ#} 
+<ls>H. 1515</ls>, <ls>Sch.</ls>
+= {#ओघ#} 
 <ls>TRIK. 3, 3, 156.</ls> 
 <ls>H. 1412.</ls> 
 <ls>an. 2, 168</ls> (lies: {#जात्योघजनिषु#}). 

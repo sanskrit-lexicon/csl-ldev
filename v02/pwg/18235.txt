@@ -25,7 +25,7 @@
 <ls>R. 5, 92, 19. 93, 1.</ls> 
 <ls>SUŚR. 1, 137, 19. 143, 17. 144, 16. 2, 28, 8. 29, 20. 98, 2.</ls> 
 <ls>MBH. 3, 16078.</ls> {#कुशसंस्तर#} 
-<ls>1, 4708.</ls> {#°शयन#} 
+<ls n="MBH.">1, 4708.</ls> {#°शयन#} 
 <ls>RAGH. 1, 95.</ls> {#कृतकुशपरिग्रह#} 
 <ls>PAÑCAT. 165, 15.</ls> {#कुशवारि#} {%mit%} <is>Kuśa</is> {%aufgekochtes Wasser%} 
 <ls>M. 11, 148.</ls> {#कुशोदक#} 
@@ -50,7 +50,7 @@
 <ls>RAGH. 15, 32).</ls> <ls>RAGH. 16, 72.</ls> <ls>Verz. d. B. H. No. 434.</ls> <ls>VP. 385. fg.</ls> 
 <ls>BHĀG. P. 9, 11, 11.</ls> N. pr. eines Sohnes von <is>Lava</is> (auch ein Sohn <is>Rāma's</is>), eines Königs von <is>Kaśmīra</is> 
 <ls>RĀJA-TAR. 1, 88.</ls> 
-<ls>LIA. I, 476,</ls> <ls>N.</ls> 
+<ls>LIA. I, 476</ls>, <ls>N.</ls> 
 <div n="2">— e) N. pr. eines der 7 grossen <is>Dvīpa</is>, umgeben von dem Meere aus geschmolzener Butter ({#घृत#}), 
 <ls>TRIK. 2, 1, 4.</ls> 
 <ls>MED.</ls> <ls>VIŚVA a. a. O.</ls> (lies {#द्वीप#} statt {#धीप#}). 
@@ -58,13 +58,13 @@
 <ls>BHĀG. P. 5, 1, 32.</ls> eine dort gebräuchliche Schrift 
 <ls>LALIT. 122.</ls> Vgl. {#कुशद्वीप#} . 
 <div n="1">— 2) <lex>f.</lex> {#कुशा#} 
-<ls>P. 4, 1, 42,</ls> 
-<ls>Sch.</ls> ein im comp. vorang. Wort auf {#अस्#} bewahrt vor {#कुशा#} das {#स#} nach 
+<ls>P. 4, 1, 42</ls>, <ls>Sch.</ls>
+ein im comp. vorang. Wort auf {#अस्#} bewahrt vor {#कुशा#} das {#स#} nach 
 <ls>P. 8, 3, 46.</ls> 
 <div n="2"> a) {%Deckbrett%} 
 <ls>LĀṬY. 2, 6, 1. 4.</ls> 
 <div n="2">— b) {%Holz%} ({#दारु#}); diese Bed. soll das Wort auch 
-<ls>P.8,3,46</ls> nach <ls>SIDDH. K. 251,b,3. fg.</ls> haben. {#अयस्कुशा, पयस्कुशा(!)#} 
+<ls>P. 8, 3, 46</ls> nach <ls>SIDDH. K. 251,b,3. fg.</ls> haben. {#अयस्कुशा, पयस्कुशा(!)#} 
 <ls>P.</ls>, <ls>Sch.</ls> 
 <div n="2">— c) {%Strick%} 
 <ls>MED.</ls> {%Zügel%} 

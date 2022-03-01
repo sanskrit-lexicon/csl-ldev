@@ -8,13 +8,13 @@ m. n. <ls>251,b,1.</ls> am Ende einer <lex>adj.</lex> Zusammens. <lex>f.</lex> {
 <ls>KATHĀS. 3, 77.</ls> mit angefügtem {#क (°अन्तक)#} 
 <ls>TRIK. 2, 1, 5. 3, 5, 21.</ls> 
 <ls>H. 242.</ls> Accent im comp. nach einer Präposition 
-<ls>P. 6, 2, 180. 181.</ls> 
+<ls>P. 6, 2, 180.</ls> <ls n="P. 6, 2,">181.</ls> 
 <div n="1"> 1) <lex>m.</lex> {%Rand, Saum, Grenze, Endpunkt, Ende im Raume%} 
 <ls>H. 962.</ls> 
 <ls>an. 2, 157.</ls> {#दि\वो ऽन्ते^भ्यस्परि#} 
 <ls>ṚV. 1, 49, 3.</ls> <ls n="ṚV. 1,">92, 11.</ls> <ls n="ṚV.">10, 8, 1.</ls> {#पृच्छामि त्वा परमन्तं पृथिव्याः - इयं वेदिः परो ऽन्तः पृथिव्याः#} 
 <ls>VS. 23, 61. 62.</ls> {#उ\भावन्तौ^#} {%die beiden entgegengesetzten Horizonte%} 
-<ls>AV. 6, 89, 3. 13, 2, 6. 13.</ls> {#अन्तान्वः प्रजा भक्षीष्ट#} {%der Grenzen (des Landes%} d. h. {%des werthlosesten Theils) sollen eure Nachkommen theilhaftig werden%} 
+<ls>AV. 6, 89, 3.</ls> <ls n="AV.">13, 2, 6.</ls> <ls n="AV. 13, 2,">13.</ls> {#अन्तान्वः प्रजा भक्षीष्ट#} {%der Grenzen (des Landes%} d. h. {%des werthlosesten Theils) sollen eure Nachkommen theilhaftig werden%} 
 <ls>AIT. BR. 7, 18.</ls> {#यं यमन्तमभिकामा#} ({%nach welcher Grenze, nach welcher Gegend immer%}) {#भवन्ति यं जनपदं च यं क्षेत्रभागं तं तमेवोपजीवन्ति#} 
 <ls>CHĀND. UP. 8, 1, 5. 2, 10.</ls> {#लङ्कायां विषयान्तेषु#} 
 <ls>R. 3, 61, 24.</ls> {#गहनेष्वाश्रमान्तेषु#} {%in an Einsiedeleien grenzenden Wäldern%} 
@@ -46,7 +46,7 @@ m. n. <ls>251,b,1.</ls> am Ende einer <lex>adj.</lex> Zusammens. <lex>f.</lex> {
 <div n="1">— 2) <lex>m.</lex> {%Ende eines Gewebes, Zeltelende, Leiste, Saum%}: {#को वो\ वर्षि^ष्ठ\ आ न^रो दि\वश्च\ ग्मश्च^ धूतयः । यत्सी\मन्त\ं न धू^नुथ ॥#} 
 <ls>ṚV. 1, 37, 6.</ls> {#या अकृ^न्त\न्नव^य\न्याश्च^ तत्नि\रे या दे\वीरन्ता^ँ अभितो ऽददन्त#} 
 <ls>AV. 14, 1, 45.</ls> {#ये अन्ता\ याव^ती\ः सिचो\ य ओत^वो\ ये च\ तन्त^वः#} 
-<ls>2, 51.</ls> 
+<ls n="AV. 14,">2, 51.</ls> 
 <div n="1">— 3) <lex>m.</lex> {%Nähe%} 
 <ls>H. an. 2, 157.</ls> 
 <ls>VAIJ.</ls> beim <ls>Sch.</ls> zu <ls>ŚIŚ. 20, 22.</ls> und <ls>KIR. 6, 17.</ls> {#आन्ता\दा प^रा\कात्#} 
@@ -133,7 +133,7 @@ m. n. <ls>251,b,1.</ls> am Ende einer <lex>adj.</lex> Zusammens. <lex>f.</lex> {
 <div n="1">— 7) {%Inbegriff, Gesammtheit%}: {#कामान्त#} 
 <ls>VET. 21, 2.</ls> Hierher gehört vielleicht auch {#केशान्त#} und {#वृत्तान्त#} . 
 <div n="1">— 8) {%Endsilbe, Endung, Auslaut%} 
-<ls>P. 6, 2, 92. 143. 8, 4, 20.</ls> {#गोत्रान्त#} {%ein Patronymicum%} 
+<ls>P. 6, 2, 92.</ls> <ls n="P. 6, 2,">143.</ls> <ls n="P.">8, 4, 20.</ls> {#गोत्रान्त#} {%ein Patronymicum%} 
 <ls>AK. 3, 3, 40.</ls> (<ls>COLEBR. 39.</ls>) {#अदन्त#} {%auf ein kurzes a auslautend%} 
 <ls>3, 6, 3.</ls> {#स्त्याद्यन्तकं पदम्#} 
 <ls>H. 242.</ls> {#आबन्तकाः#} 

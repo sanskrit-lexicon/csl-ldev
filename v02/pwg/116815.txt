@@ -1,10 +1,10 @@
 <L>116815<pc>7-1601<k1>हार्द<k2>हार्द꣡
 {#हार्द꣡#}¦ (von {#हृद्#}) 
 <div n="1"> 1) <lex>adj.</lex> {%im Herzen befindlich%}: {#तमस्#} 
-<ls>BENFEY,</ls> <ls>SV. X</ls> ({#तमो हार्दं#} zu trennen). {#ब्रह्मन्#} 
+<ls>BENFEY</ls>, <ls>SV. X</ls> ({#तमो हार्दं#} zu trennen). {#ब्रह्मन्#} 
 <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. 8, 13.</ls> <ls>BHĀG. P. 11, 13, 33.</ls> 
 <div n="1">— 2) <lex>n.</lex> <is>gaṇa</is> {#युवादि#} 
-zu <ls>P. 5, 1, 130</ls> ; vgl. <ls>6, 3, 50.</ls> 
+zu <ls>P. 5, 1, 130</ls> ; vgl. <ls n="P.">6, 3, 50.</ls> 
 <div n="2"> a) {%Zuneigung, Liebe%} 
 <ls>AK. 1, 1, 7, 27</ls> 
 <ls>H. 1377.</ls> 
@@ -13,7 +13,7 @@ zu <ls>P. 5, 1, 130</ls> ; vgl. <ls>6, 3, 50.</ls>
 <ls>R. 4, 4, 15.</ls> {#हार्दं चैवाकरोत्तस्य#} 
 <ls>7, 59, 3, 58.</ls> {#यस्तज्जानन्न गवां हार्दमेति#} 
 <ls>MBH. 13, 3536.</ls> {#पुत्र°#} {%zu%} 
-<ls>1, 1330. 2, 2479.</ls> <ls>MĀRK. P. 81, 24.</ls> {#अति°#} 
+<ls n="MBH.">1, 1330.</ls> <ls n="MBH.">2, 2479.</ls> <ls>MĀRK. P. 81, 24.</ls> {#अति°#} 
 <ls>72, 18.</ls> {#त्वयि मे#} 
 <ls>100, 24.</ls> am Ende eines <lex>adj.</lex> comp. (f. {#आ): मयि संजातहार्दानाम्#} 
 <ls>MBH. 3, 12418.</ls> {#उदितं प्रियां प्रति सहार्दम्#} 

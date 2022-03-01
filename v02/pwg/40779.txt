@@ -1,19 +1,19 @@
 <L>40779<pc>4-0313<k1>नेत्र<k2>नेत्र
 {#नेत्र#}¦ (von 1. {#नी#}) 
-<ls>VOP. 26,68.</ls> oxyt. <ls>AV.</ls> parox. <ls>P. 3,2,182.</ls> n. <ls>SIDDH. K. 249,b. 3.</ls> m. n. <ls>250,b,6.</ls> 
+<ls>VOP. 26,68.</ls> oxyt. <ls>AV.</ls> parox. <ls>P. 3, 2, 182.</ls> n. <ls>SIDDH. K. 249,b. 3.</ls> m. n. <ls>250,b,6.</ls> 
 <div n="1"> 1) nom. ag. {%Leiter, Führer, Lenker%} 
 <ls>TRIK. 3, 3, 358.</ls> 
 <ls>H. an. 2, 435.</ls> 
 <ls>MED. r. 55.</ls> Erscheint in dieser Bedeutung nur am Ende eines <lex>adj.</lex> comp. und ist hier gleichhedeutend mit {#नेतर्#}, so dass die indischen Grammatiker es in diesem Falle als blossen Stellvertreter von {#नेतर्#} betrachten. Nach 
-<ls>P. 5. 4, 116, <is>Vārtt</is>. 2, 3</ls> am Ende eines <lex>adj.</lex> comp. nur im <is>Veda</is> ({#बृहस्पतिनेत्राः, सोमनेत्राः#} 
+<ls>P. 5, 4, 116</ls>, <is>Vārtt</is>. 2, 3 am Ende eines <lex>adj.</lex> comp. nur im <is>Veda</is> ({#बृहस्पतिनेत्राः, सोमनेत्राः#} 
 <ls>Sch.</ls>; vgl. {#अग्नि°, यम°#}) und in Verbindung mit Sternbildnamen ({#पुष्यनेत्राः, मृगनेत्राः#} 
 <ls>Sch.</ls> {#मृगनेत्रा रात्रिः#} 
 <ls>VOP. 6, 30.</ls>) Für den Gebrauch von {#नेत्र#} am Ende eines <lex>adj.</lex> comp. in der oben angegebenen Bed. können wir folgende Belege geben: {#सर्वं तत्प्रज्ञानेत्रम्#} 
 <ls>AIT. UP. 5, 3.</ls> {#त्वन्नेत्राः सन्तु ते पुत्राः#} 
 <ls>MBH. 2, 2486.</ls> {#भवन्नेत्रा रणे शत्रून्विजेष्यन्तीह पाण्डवाः#} 
-<ls>7, 3702.</ls> {#ध्वजिन्यां हतनेत्रायाम्#} 
-<ls>9, 222.</ls> {#नावं समुद्र इव बालनेत्रामारुह्य घोरे व्यसने निमज्जेत्#} 
-<ls>2, 2114.</ls> {#कर्मणा दैवनेत्रेण#} 
+<ls n="MBH.">7, 3702.</ls> {#ध्वजिन्यां हतनेत्रायाम्#} 
+<ls n="MBH.">9, 222.</ls> {#नावं समुद्र इव बालनेत्रामारुह्य घोरे व्यसने निमज्जेत्#} 
+<ls n="MBH.">2, 2114.</ls> {#कर्मणा दैवनेत्रेण#} 
 <ls>BHĀG. P. 3, 31, 1.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Sohnes des <is>Dharma</is> und Vaters des <is>Kunti</is> 
 <ls>BHĀG. P. 9, 23, 21</ls> : vgl. {#धर्मनेत्र#} . eines Sohnes des <is>Sumati</is> 
@@ -46,7 +46,7 @@
 <ls>SŪRYAS. 2, 19. 21.</ls> 
 <div n="2">— c) {%der Strick, durch den der Butterstössel in Bewegung gesetzt wird%}, 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>VIŚVA</ls> beim Schol. zu <ls>VĀSAV. S. 19</ls> (wo {#नेत्रं मथिगुणे#} zu lesen ist). {#मन्थानं मन्दरं कृत्वा तथा नेत्रं च वासुकिम्#} 
-<ls>MBH.</ls> <ls>1, 1124.</ls> <ls>HARIV. 12184.</ls> <ls>R. GORR. 1, 46, 21.</ls> <ls>BHĀG. P. 8, 7, 1. Schol.</ls> zu <ls>KĀTY. ŚR. 356, 10. 363, 3. fgg.</ls> 
+<ls>MBH.</ls> <ls>1, 1124.</ls> <ls>HARIV. 12184.</ls> <ls>R. GORR. 1, 46, 21.</ls> <ls>BHĀG. P. 8, 7, 1.</ls> Schol. zu <ls>KĀTY. ŚR. 356, 10. 363, 3. fgg.</ls> 
 <div n="2">— d) {%das Rohr an einer Klystirspritze%} 
 <ls>SUŚR. 2, 24, 1. 197, 1. 9. 200, 19. fgg. 215. 2.</ls> 
 <div n="2">— e) {%Wurzel%} 

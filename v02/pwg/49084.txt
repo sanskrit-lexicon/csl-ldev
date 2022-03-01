@@ -7,9 +7,9 @@
 <ls>VOP. 3, 12.</ls> 
 <ls>PAÑCAV. BR. 25, 18, 5.</ls> 
 <ls>R. 4, 37, 11.</ls> verdoppelt 
-<ls>P. 8, 1, 12, <is>Vārtt</is>. 7.</ls> mit seinem nom. comp. 
+<ls>P. 8, 1, 12</ls>, <is>Vārtt</is>. 7. mit seinem nom. comp. 
 <ls>P. 2, 1, 58.</ls> Accent eines mit {#प्रथम#} anlautenden comp. 
-<ls>6, 2, 56.</ls> 
+<ls n="P.">6, 2, 56.</ls> 
 <div n="2"> a) {%der vorderste, erste in einer Reihe%}; = {#आदि, पूर्व, पौरस्त्य#} 
 <ls>AK. 3, 2, 30. 3, 4, 23, 146.</ls> 
 <ls>H. 1459.</ls> 
@@ -44,8 +44,8 @@
 <ls>94, 3.</ls> {#प्रथम꣡वैयाकरण#} und
 [Page4-1014]
 {#प्रथमवैयाकरण꣡#} {%ein Anfänger in der Grammatik%} 
-<ls>P. 6, 2, 56,</ls> 
-<ls>Sch.</ls> {#सर्वमिदानीं स्मरामि शकुन्तलायाः प्रथमवृत्तान्तम्#} {%früher%} 
+<ls>P. 6, 2, 56</ls>, <ls>Sch.</ls>
+{#सर्वमिदानीं स्मरामि शकुन्तलायाः प्रथमवृत्तान्तम्#} {%früher%} 
 <ls>ŚĀK. 82, 7.</ls> {#भार्या#} {%die erste, frühere Gattin%} 
 <ls>VID. 332.</ls> Oft mit advv. {%erst, alsbald, sogleich%} zu übersetzen: {#यो जा\त ए\व प्र^थ\मो मन^स्वान्दे\वो दे\वान्क्रतु^ना प\र्यभू^षत्#} {%eben geboren%} 
 <ls>ṚV. 2, 12, 1.</ls> {#अन्ना\ यदिन्द्र^ः प्रथ\मा व्याश^ वृ\त्रं ज^घ\न्वाँ अ^वृणीत\ सोम^म्#} {%sobald als%} 
@@ -70,8 +70,8 @@
 <ls>MBH. 4, 410.</ls> {#प्रथमं भूपते रक्तम्#} 
 <ls>PAÑCAT. 62, 1.</ls> {#°मङ्गल#} 
 <ls>RAGH. 10, 68.</ls> {#°वैयाकरण꣡#} {%ein ausgezeichneter Grammatiker%} 
-<ls>P. 6, 2, 56,</ls> 
-<ls>Sch.</ls> {#प्रथमतरः सेवावकाशः#} 
+<ls>P. 6, 2, 56</ls>, <ls>Sch.</ls>
+{#प्रथमतरः सेवावकाशः#} 
 <ls>MĀLAV. 48.</ls> 
 <div n="1">— 2) {#प्रथमम्#} adv. {%zuerst. am frühesten; erst, eben, alsbald, sogleich%}: {#यस्ताकृ^णोः प्रथ\मं सास्यु\क्थ्य^ः#} 
 <ls>ṚV. 2, 13, 2.</ls> <ls n="ṚV.">1, 77, 3.</ls> 
@@ -103,7 +103,7 @@
 <ls>VIKR. 132.</ls> 
 <ls>Spr. 699. 1855.</ls> 
 <ls>KATHĀS. 22, 212. 38, 66.</ls> 
-<ls>ŚRUT. 44.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 41. 3, 4, 24. 4, 3, 83.</ls> {#प्रथमोदित#} {%zuerst ausgesprochen%} 
+<ls>ŚRUT. 44.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 41.</ls> <ls n="P.">3, 4, 24.</ls> <ls n="P.">4, 3, 83.</ls> {#प्रथमोदित#} {%zuerst ausgesprochen%} 
 <ls>RAGH. 3, 25.</ls> {#प्रथमाभितप्त#} 
 <ls>19, 56.</ls> {#प्रथममुक्त#} 
 <ls>KATHĀS. 36, 127.</ls> {#प्रथमपिशुन#} 
@@ -131,7 +131,7 @@
 <ls>VS. PRĀT. 1, 85.</ls> <ls n="VS. PRĀT.">4, 106.</ls> <ls n="VS. PRĀT. 4,">118.</ls> 
 <div n="2">— b) (sc. {#पुरुष#}) {%die erste%} (d. h. {%dritte) Person, die Personalendungen der ersten Person%} 
 <ls>NIR. 7, 1.</ls> 
-<ls>P. 1, 4, 101. 108. 2, 4, 85.</ls> {#°पुरुष#} 
+<ls>P. 1, 4, 101.</ls> <ls n="P. 1, 4,">108.</ls> <ls n="P.">2, 4, 85.</ls> {#°पुरुष#} 
 <ls>VYUTP. 115.</ls> 
 <div n="2">— c) (sc. {#स्वर#}) {%der erste Ton%} 
 <ls>Ind. St. 1, 48. 8, 261. fgg.</ls> 
@@ -142,8 +142,8 @@ N.
 <div n="1">— 5) <lex>f.</lex> {#आ#} (sc. {#विभक्ति#}) {%der erste Casus, die Endungen des 1ten Casus%} 
 <ls>NIR. 6, 1.</ls> 
 <ls>ĀŚV. ŚR. 1, 9.</ls> 
-<ls>P. 2, 3, 46. 7, 2, 88.</ls> du. {%die beiden ersten Casus, die Endungen der beiden ersten Casus%} 
-<ls>6, 1, 102. 7, 1, 28.</ls> 
+<ls>P. 2, 3, 46.</ls> <ls n="P.">7, 2, 88.</ls> du. {%die beiden ersten Casus, die Endungen der beiden ersten Casus%} 
+<ls n="P.">6, 1, 102.</ls> <ls n="P.">7, 1, 28.</ls> 
 <div n="1">— 6) <lex>n.</lex> collect. {%die Ersten%}: {#प्रथमं (= अग्रेसराः#} 
 <ls>Schol.</ls>) {#मानभृताम्#} (so ist zu lesen) 
 <ls>KIRĀT. 2, 44.</ls> 

@@ -40,8 +40,8 @@
 <ls>2, 4, 21.</ls> {#अ°#} {%unrein%} 
 <ls>SUŚR. 1, 297, 12.</ls> {%blank gemacht, polirt; glänzend%}: {#पृषत्कैः । कर्मारधौतैर्निशितैः#} 
 <ls>MBH. 9, 1079.</ls> {#तैल° (वाण)#} 
-<ls>6, 3183.</ls> {#शिला° (वाण)#} 
-<ls>4, 1853.</ls> <ls>SUŚR. 1, 84, 11.</ls> {#सुधाधौतैः प्रासादैः#} 
+<ls n="MBH.">6, 3183.</ls> {#शिला° (वाण)#} 
+<ls n="MBH.">4, 1853.</ls> <ls>SUŚR. 1, 84, 11.</ls> {#सुधाधौतैः प्रासादैः#} 
 <ls>KATHĀS. 11, 31.</ls> {#अश्रु#} 
 <ls>ŚĀK. 152.</ls> {#हरिशिरश्चन्द्रिकाधौतहर्म्या#} ({#अलका#}) 
 <ls>MEGH. 7.</ls> {#धौतापाङ्गं हरशशिरुचा#} 
@@ -63,7 +63,7 @@
 <ls>MBH. 3, 15340.</ls> <ls n="MBH.">8, 304.</ls>
 
 <div n="p">— {#अनु#} {%reinigen%}; s. {#अनुधावन#} 
-<ls>2.</ls>
+<ls n="MBH. 8,">2.</ls>
 
 <div n="p">— {#आ#} {%kneten, ausdrücken, abspülen.%} Die gepressten <is>Soma</is> - Stengel werden in ein Gefäss mit Wasser geworfen, in diesem abgespült und ausgewunden um nachher wieder auf die Presse zu kommen und nochmals in jenem Gefass ({#आधवनीय#}) behandelt zu werden. {#ताव^श्विना सुपाणी\ आ धा^वत\ं मधु^ना पृ\क्तम\प्सु#} 
 <ls>ṚV. 1, 109, 4.</ls> <ls n="ṚV.">8, 1, 17.</ls> {#सु\तं सोम\ं न ह\स्तिभि\रा प\ड्भिर्धा^वतं नरा#} 

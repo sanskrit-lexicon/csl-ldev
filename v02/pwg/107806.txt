@@ -1,6 +1,6 @@
 <L>107806<pc>7-0878<k1>सहित<k2>सहित
 {#सहित#}¦ <lex>adj.</lex> = {#संहित#} 
-<ls>P. 6, 1, 144, <is>Vārtt</is>. 1.</ls> 
+<ls>P. 6, 1, 144</ls>, <is>Vārtt</is>. 1. 
 <ls>VOP. 6, 72.</ls> 
 <div n="1"> 1) {%anhaftend, anklebend%} (= {#संलग्न#} Comm.) 
 <ls>KĀTY. ŚR. 5, 3, 28. 4, 12. 6, 24. 7, 3, 10. 20.</ls> 
@@ -25,7 +25,7 @@
 [Page7-0879]
 {#सहिताः सर्वे#} 
 <ls>MBH. 3, 2179.</ls> <ls n="MBH. 3,">12103.</ls> <ls n="MBH.">5, 5430.</ls> <ls n="MBH. 5,">5443.</ls> <ls n="MBH. 5,">7538.</ls> {#सहितम्#} adv. {%zusammen%} 
-<ls>3, 11388</ls> (nach der Lesart der ed. Bomb.). Die Ergänzung 
+<ls n="MBH.">3, 11388</ls> (nach der Lesart der ed. Bomb.). Die Ergänzung 
 <div n="2"> a) im instr. {%verbunden, versehen mit%}: {#स्तनौ सहितौ लक्ष्म्या#} 
 <ls>MBH. 4, 392.</ls> {#सहितं ब्रह्म यदस्त्रतेजसा#} 
 <ls>RAGH. 8, 4.</ls> 

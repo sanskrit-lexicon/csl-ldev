@@ -1,6 +1,6 @@
 <L>54690<pc>5-0257<k1>भाव<k2>भाव꣡
 {#भाव꣡#}¦ (von 1. {#भू)#} <lex>m.</lex> 
-<ls>P. 3, 3, 24. 6, 1, 159.</ls> 
+<ls>P. 3, 3, 24.</ls> <ls n="P.">6, 1, 159.</ls> 
 <ls>VOP. 26, 36.</ls> 
 <div n="1"> 1) {%das Werden. Sein, Stattfinden%}; = {#सत्त्व (सत्ता), जन्मन्#} 
 <ls>AK. 3, 4, 27, 209.</ls> 
@@ -17,19 +17,19 @@
 <ls>M. 2, 124.</ls> {#नतिर्दन्त्यमूर्धन्यभावः#}
 [Page5-0258]
 {%der Uebergang eines Dentalen in einen Cerebralen%} 
-<ls>ṚV. PRĀT. 5, 28.</ls> <ls n="ṚV. PRĀT.">1, 14.</ls> <ls n="ṚV. PRĀT.">2, 4.</ls> <ls n="ṚV. PRĀT.">4, 35.</ls> <ls n="ṚV. PRĀT.">11, 19.</ls> <ls n="ṚV. PRĀT. 11,">24.</ls> <ls n="ṚV. PRĀT.">13, 14.</ls> <ls n="ṚV. PRĀT.">15, 7.</ls> <ls>Schol.</ls> zu <ls>P. 3, 1, 40. 5, 1, 59. 8, 2, 3.</ls> {#अङ्गाश्रया इनदीर्घत्वैस्भावा भवन्ति#} 
+<ls>ṚV. PRĀT. 5, 28.</ls> <ls n="ṚV. PRĀT.">1, 14.</ls> <ls n="ṚV. PRĀT.">2, 4.</ls> <ls n="ṚV. PRĀT.">4, 35.</ls> <ls n="ṚV. PRĀT.">11, 19.</ls> <ls n="ṚV. PRĀT. 11,">24.</ls> <ls n="ṚV. PRĀT.">13, 14.</ls> <ls n="ṚV. PRĀT.">15, 7.</ls> <ls>Schol.</ls> zu <ls>P. 3, 1, 40.</ls> <ls n="P.">5, 1, 59.</ls> <ls n="P.">8, 2, 3.</ls> {#अङ्गाश्रया इनदीर्घत्वैस्भावा भवन्ति#} 
 <ls>KĀŚ.</ls> zu <ls>P. 1, 1, 56.</ls> das Zeitwort bezeichnet einen {#भाव#} {%ein Sein, ein Werden%}: {#भावप्रधानमाख्यातम्#} 
 <ls>NIR. 1, 1.</ls> {#षड्भावविकारा भवन्ति जायते ऽस्ति परिणमते वर्धते ऽपक्षीयते विनश्यतीति#} 
 <ls>2. 12. 13.</ls> <ls>ṚV. PRĀT. 12, 5.</ls> {#यस्य च भावेन भावलक्षणम्#} (z. B. {#गोषु दुह्यमानेषु गतः#} 
 <ls>Schol.</ls>) <ls>P. 2, 3, 37.</ls> {#°गर्हायाम्#} 
-<ls>3, 1, 24.</ls> = {#क्रिया#} 
+<ls n="P.">3, 1, 24.</ls> = {#क्रिया#} 
 <ls>H. an.</ls> <ls>MED.</ls> In engerer Bed. bezeichnet nur das objectlose Zeitwort (die Intransitiva und Impersonalia) den {#भाव#} 
-<ls>P. 3, 1, 66. 4, 69.</ls> 
+<ls>P. 3, 1, 66.</ls> <ls n="P. 3,">4, 69.</ls> 
 <ls>VOP. 24, 1. 6. 8, 33.</ls> das Nomen actionis als Ausdruck des {#भाव#} 
-<ls>P. 3, 1, 107. 2, 45. 3, 18.</ls> 
+<ls>P. 3, 1, 107.</ls> <ls n="P. 3,">2, 45.</ls> <ls n="P. 3,">3, 18.</ls> 
 <ls>VOP. 26, 1.</ls> 
 <ls>AK. 3, 6, 2, 15.</ls> das Nomen abstractum 
-<ls>P. 5, 1, 119. 4, 4, 144.</ls> = {#शब्दप्रवृत्तिहेतु#} <ls>H. an.</ls> ein angefügtes {#भाव#} bildet Nomina abstracta und ist oft ganz gleichbedeutend mit den Suffixen {#त्व#} und {#ता#} . z. B. {#व्रात्य°#} 
+<ls>P. 5, 1, 119.</ls> <ls n="P.">4, 4, 144.</ls> = {#शब्दप्रवृत्तिहेतु#} <ls>H. an.</ls> ein angefügtes {#भाव#} bildet Nomina abstracta und ist oft ganz gleichbedeutend mit den Suffixen {#त्व#} und {#ता#} . z. B. {#व्रात्य°#} 
 <ls>KĀTY. ŚR. 22, 4, 27.</ls> {#शेष°#} 
 <ls>1, 6, 5.</ls> {#समानोदक°#} 
 <ls>M. 5, 60.</ls> {#वैश्य°#} 
@@ -141,10 +141,10 @@ dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भाव
 <ls>6.</ls>) <ls>Spr. 4045.</ls> <ls>Verz. d. Oxf. H. 243,b,4.</ls> {#भारतभावप्रदीप#} (s. bes.) und {#भावदीप#} (s. bes.). {#इति भावः#} am Schlusse einer Erklärung in Commentaren unzählige Male. 
 <div n="1">— 9) {%das Gefühl der Liebe, Zuneigung%}: {#स्नेहाद्भावो ऽनुरागश्च प्रजज्ञे विषये तथा#} 
 <ls>MBH. 3, 75.</ls> {#त्वद्भावभक्ताः#} 
-<ls>196. 12, 4268.</ls> {#इति मत्वा भजन्ते मां बुधा भावसमन्विताः#} {%(contemplandi facultate praediti%} 
+<ls n="MBH. 3,">196.</ls> <ls n="MBH.">12, 4268.</ls> {#इति मत्वा भजन्ते मां बुधा भावसमन्विताः#} {%(contemplandi facultate praediti%} 
 <ls>SCHL.</ls>) <ls>BHAG. 10, 8.</ls> {#माद्रीं स्वलंकृतां दृष्ट्वा पाण्डुर्भावं चक्रे#} {%fasste Liebe zu ihr%} 
 <ls>MBH. 1, 3817.</ls> {#पितेव पुत्रेषु स तेषु भावं चक्रे#} 
-<ls>3, 909.</ls> <ls>MATSYOP. 11.</ls> {#तस्मिन् - बबन्ध सा न - कुमुद्वती भानुमतीव भावम्#} 
+<ls n="MBH.">3, 909.</ls> <ls>MATSYOP. 11.</ls> {#तस्मिन् - बबन्ध सा न - कुमुद्वती भानुमतीव भावम्#} 
 <ls>RAGH. 6, 36.</ls> {#अनुदिनाधिकबद्धभावा#}
 [Page5-0260]
 
@@ -167,7 +167,7 @@ dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भाव
 <ls>HALĀY. 5, 64.</ls> {#°ग्राह्य#} 
 <ls>ŚVETĀŚV. UP. 5, 14.</ls> {#सर्वभूतानां भावे विचरता - मन्मथेन#} 
 <ls>MBH. 1, 6014.</ls> {#(तस्य) गतो भावम्#} 
-<ls>12, 4263.</ls> {#°स्थिराणि जन्मान्तरसौहृदानि#} 
+<ls n="MBH.">12, 4263.</ls> {#°स्थिराणि जन्मान्तरसौहृदानि#} 
 <ls>Spr. 4930.</ls> {#परितुष्टेन भावेन#} 
 <ls>M. 4, 227.</ls> {#°समाहित#} 
 <ls>6, 43.</ls> {#यदा भावेन भवति सर्वभावेषु निःस्पृहः#} 
@@ -190,7 +190,7 @@ dass. <ls>560.</ls> {#आदेशस्य स्थानिवद्भाव
 <ls>M. 6, 80. 12, 24.</ls> 
 <ls>BHAG. 7, 12.</ls> 
 <ls>MBH. 1, 39.</ls> {#अचिन्त्यानद्भुतान्भावान्ददर्श सुबहून्#} 
-<ls>3, 9969. 13, 2850.</ls> <ls>R. 2, 94, 18.</ls> {#अतिजिघ्रतो भावान्कटून्#} 
+<ls n="MBH.">3, 9969.</ls> <ls n="MBH.">13, 2850.</ls> <ls>R. 2, 94, 18.</ls> {#अतिजिघ्रतो भावान्कटून्#} 
 <ls>SUŚR. 2, 370, 1.</ls> 
 <ls>AṢṬĀV. 7, 4. 14, 1.</ls> <ls>VARĀH. BṚH. S. 42, 14.</ls> {#लघूनुन्नमयन्भावान्गुरूनप्यवपातयन् । वातुं विधिरिवारेभे प्रचण्डश्च प्रभञ्जनः ॥#} 
 <ls>KATHĀS. 25, 42.</ls> 

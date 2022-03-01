@@ -32,7 +32,7 @@
 <ls>99.</ls> {#त्रयः शब्दाः#} 
 <ls>MĀRK. P. 23, 36.</ls> sieben 
 <ls>MBH. 12, 6858. fgg.</ls> zehn 
-<ls>14, 1418. fgg.</ls> {#शब्दो जले कुम्भस्य पूर्यतः#} 
+<ls n="MBH.">14, 1418. fgg.</ls> {#शब्दो जले कुम्भस्य पूर्यतः#} 
 <ls>R. 2, 64, 14.</ls> {#मृदङ्गवेणुवीणानाम्#} 
 <ls>1, 5, 19.</ls> {#तुमुल#} 
 <ls>BHAG. 1, 13.</ls> {#बाण°#} 
@@ -58,7 +58,7 @@ u.s.w. <ls>Verz. d. Oxf. H. 92,b,</ls>
 <ls>MBH. 1, 7649.</ls> 
 <ls>R. 1, 13, 13.</ls> {#हा हेति सहसा मुक्तः शब्दः#} 
 <ls>MBH. 3, 2219.</ls> <ls n="MBH. 3,">2609.</ls> {#मा शब्दः सुखसुप्तानां भ्रातॄणां मे भवेत्#} {%Lärm%} 
-<ls>1, 6003.</ls> {#मा शब्द इति सर्वत्र प्रचक्रामाथ तां सभाम्#} 
+<ls n="MBH.">1, 6003.</ls> {#मा शब्द इति सर्वत्र प्रचक्रामाथ तां सभाम्#} 
 <ls>HARIV. 2911.</ls> {#मा शब्द इत्येवं ब्रुवन्तः#} 
 <ls n="HARIV.">5004.</ls> {#शब्दं कर्#} {%einen Laut von sich geben, seine Stimme erheben, laut rufen%} 
 <ls>P. 4, 4, 34.</ls> 
@@ -89,7 +89,7 @@ u.s.w. <ls>Verz. d. Oxf. H. 92,b,</ls>
 <ls>WILSON, Sel. Works 1, 76. 78. 180. 353.</ls>
  {%das heilige Wort%} {#ओम्#} 
 <ls>AMṚTAN. UP.</ls> in <ls>Ind. St. 9, 30.</ls> Bisweilen werden auch {%Wortendungen%}, insbes. {%Suffixe%}, {#शब्द#} genannt, 
-z. B. Schol. zu <ls>P. 1, 1, 64. 3, 1, 62.</ls> <ls>VOP. 1, 13.</ls> <ls>AK. 3, 4, 24, 150.</ls> <ls>GOLD. MĀN. 39.</ls> 
+z. B. Schol. zu <ls>P. 1, 1, 64.</ls> <ls n="P.">3, 1, 62.</ls> <ls>VOP. 1, 13.</ls> <ls>AK. 3, 4, 24, 150.</ls> <ls>GOLD. MĀN. 39.</ls> 
 <div n="1">— 1) 
 <div n="1"> 2) in der Streitfrage ob {#शब्द नित्य#} oder {#अनित्य#} sei, ist das Wort bald als {%Laut%}, bald als {%Wort%} zu fassen. 
 <ls>JAIM. 1, 9.</ls> 
@@ -100,7 +100,7 @@ z. B. Schol. zu <ls>P. 1, 1, 64. 3, 1, 62.</ls> <ls>VOP. 1, 13.</ls> <ls>AK. 3, 
 <ls>ĀPAST. 2, 16, 1.</ls> {#जातब्राह्मण°#} 
 <ls>M. 10, 122.</ls> {#मान्धातृ°#} 
 <ls>MBH. 3, 10425.</ls> {#भीमेति शब्दो ऽस्य गतः पृथिव्याम्#} 
-<ls>15704.</ls> {#प्राप्ताः स्मो विधवाशब्दं#} (so die neuere Ausg.) {#त्वयि नाथे निपातिते#} (vgl. {#वैधव्यशब्दं भोक्ष्यामि#} 
+<ls n="MBH. 3,">15704.</ls> {#प्राप्ताः स्मो विधवाशब्दं#} (so die neuere Ausg.) {#त्वयि नाथे निपातिते#} (vgl. {#वैधव्यशब्दं भोक्ष्यामि#} 
 <ls>R. 7, 24, 30</ls>) <ls>HARIV. 4812.</ls> {#महर्षिशब्दं लभताम्#} 
 <ls>R. 1, 63, 17. 21 (65, 20. 25 GORR.).</ls> <ls>Spr. (II) 30.</ls> <ls>RAGH. 2, 53. 64. 3, 35. 49. 5, 22. 18, 41.</ls> <ls>ŚĀK. 47. 64, 21.</ls> <ls>VIKR. 1.</ls> <ls>KATHĀS. 34, 36. 58.</ls> <ls>BHĀG. P. 2, 8, 12.</ls> {#तच्छब्दात्#} {%weil es so heisst%} 
 <ls>KĀTY. ŚR. 14, 1, 24.</ls> {#राज°#} {%Königsname%} 

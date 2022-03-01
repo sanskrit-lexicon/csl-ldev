@@ -44,10 +44,10 @@
 <ls>KUMĀRAS. 6, 17.</ls> {#या विषये स्थिताः#} so v. a. {%dazwischenliegend%} 
 <ls>ṚV. PRĀT. 17, 2.</ls> {#गन्धस्य विषयः#} ist die Erde 
 <ls>MBH. 14, 299.</ls> {#रसस्य#} das Wasser 
-<ls>392.</ls> {#रूपस्य#} das Licht 
-<ls>304.</ls> {#स्पर्शस्य#} die Luft 
-<ls>306.</ls> {#शब्दस्य#} der Aether 
-<ls>308.</ls> {#जीवितव्य°#} so v. a. {%Lebensdauer%} 
+<ls n="MBH. 14,">392.</ls> {#रूपस्य#} das Licht 
+<ls n="MBH. 14,">304.</ls> {#स्पर्शस्य#} die Luft 
+<ls n="MBH. 14,">306.</ls> {#शब्दस्य#} der Aether 
+<ls n="MBH. 14,">308.</ls> {#जीवितव्य°#} so v. a. {%Lebensdauer%} 
 <ls>PAÑCAT. 4, 16.fg.</ls> {#जीव°#} dass. ed. orn. 
 <ls>1, 19.</ls> {#विषये#} {%im Bereich von%} so v. a. {%in Bezug auf%}: {#अत्र विषये#} {%in Bezug darauf%} 
 <ls>MBH. 13, 5682</ls> nach der Lesart der ed. Bomb. 
@@ -70,7 +70,7 @@
 <ls>37, 191.</ls> {#नात्रास्माकं गतिविषयः#} 
 <ls>PAÑCAT. ed. orn. 53, 20.</ls> {#विषये सति वक्ष्यामि#} so v. a. {%wenn ich es weiss%} 
 <ls>MBH. 13, 2206.</ls> {#न त्वामविषये नियोक्ष्यामि कथं च न#} 
-<ls>2207.</ls> {#न खलु धीमतां कश्चिदविषयो नाम#} 
+<ls n="MBH. 13,">2207.</ls> {#न खलु धीमतां कश्चिदविषयो नाम#} 
 <ls>ŚĀK. 55, 20.</ls> 
 <div n="1">— 4) {%Wirkungskreis, Erscheinungsgebiet%}: {#रवेरविषये#} so v. a. {%wenn die Sonne nicht scheint%} 
 <ls>Spr. 1964. 2491.</ls> {#गुणसमुदायावाप्तिविषयां द्युतिम्#} so v. a. {%sich in der Erlangung vieler trefflicher Eigenschaften manifestirend%} 
@@ -152,7 +152,7 @@ u.s.w.) <ls>AK. 1, 1, 4, 16. 3, 4, 24, 154.</ls> <ls>H. 1384.</ls> <ls>H. an.</l
 <ls>BHĀG. P. 1, 6, 4. 2, 9, 27. 6, 2, 10.</ls> 
 <ls>RĀJA-TAR. 5, 185.</ls> {#मम तावदेकैव बुद्धिः पलायनविषया#} {%nur auf Flucht gerichtet%} 
 <ls>PAÑCAT. 247, 6.</ls> {#अनुकरणमित्यादित्रिसूत्री स्वभावात्कृञ्विषया#} {%bezieht sich auf%} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,4,62.</ls> {#वयं तु तत्सर्गसर्गविषयाः#} so v. a. {%beschäftigt mit%} 
+<ls>SIDDH. K.</ls> zu <ls>P. 1, 4, 62.</ls> {#वयं तु तत्सर्गसर्गविषयाः#} so v. a. {%beschäftigt mit%} 
 <ls>BHĀG. P. 8, 7, 34.</ls> 
 <div n="1">— 11) {%ein sich zu Etwas%} (gen. dat.) {%eignendes Object%}: {#(सा) पुंसामिष्टश्च विषयो मैथुनाय#} 
 <ls>MBH. 4, 832.</ls> <ls n="MBH. 4,">858.</ls> {#(गजः) नैव विषयो वाहस्य दोहस्य वा#} 

@@ -19,7 +19,7 @@
 <ls>VOP. 20, 4.</ls>
 
 <div n="p">— {#अभि#}, {#°ष्यति, °ष्यत्#} 
-<ls>Schol.</ls> zu <ls>P. 8, 3, 65. 63.</ls> 
+<ls>Schol.</ls> zu <ls>P. 8, 3, 65.</ls> <ls n="P. 8, 3,">63.</ls> 
 <div n="1"> 1) {%fesseln%}: {#तैष्ट्वा\ सर्वै^र\भि ष्या^मि\ पाशै^ः#} 
 <ls>AV. 4, 16, 9.</ls> 
 <div n="1">— 2) {%zu Grunde richten%}: {#अभिष्यन्तः - आत्मनः#} 
@@ -124,8 +124,8 @@
 <ls>R. 7, 9, 47.</ls> {#एवमध्यवसाय#} 
 <ls>BHĀG. P. 4, 14, 13.</ls> die Ergänzung ein acc.: {#नाध्यवास्यद्यदा कश्चित्सागरस्य लङ्घनम्#} 
 <ls>MBH. 3, 16254.</ls> {#°सेत्#} 
-<ls>7, 9140.</ls> {#°सायीत#} ({#°सीयीत#} ed. Bomb.) 
-<ls>12, 7772.</ls> {#अध्यवास्यत#} med. 
+<ls n="MBH.">7, 9140.</ls> {#°सायीत#} ({#°सीयीत#} ed. Bomb.) 
+<ls n="MBH.">12, 7772.</ls> {#अध्यवास्यत#} med. 
 <ls>R. GORR. 2, 15, 36.</ls> {#°स्यति#} 
 <ls>3, 7, 18.</ls> {#मा स्म नाथ मत्कृते ऽध्यवस्यः साहसम्#} 
 <ls>DAŚAK. 143, 6.</ls> {#वक्तुं सुकरमिदमध्यवसितुं दुष्करम्#} 
@@ -139,7 +139,7 @@
 <ls>MBH. 9, 854.</ls> {#भूतमेवाध्यवस्यन्तो न स्म प्रव्याहरन्भयात्#} {%voraussetzend%} so v. a. {%haltend%}
 [Page7-0884]
 {%für%} 
-<ls>10, 344.</ls> {%fälschlich voraussetzen%} 
+<ls n="MBH.">10, 344.</ls> {%fälschlich voraussetzen%} 
 <ls>SĀH. D. 286, 7.</ls> 
 <div n="1">— 5) pass. {%sich mit Gewissheit ergeben%} 
 <ls>BHĀG. P. 2, 10, 7.</ls> Comm. zu <ls>TS. PRĀT. 2, 7.</ls> <ls>PRATĀPAR. 9,b,3.</ls> act. dass.: {#इयं निष्ठा बहुविधा प्रज्ञया त्वध्यवस्यति#} 
@@ -229,7 +229,7 @@
 <ls>NĪLAK.</ls> 
 <div n="1">— 2) {%gegessen%} 
 <ls>AK. 3, 2, 60.</ls> (einen Tadel enthaltend) etwa {%der sich voll gegessen hat%} 
-<ls>P. 6, 2, 195, Schol.</ls> Vgl. {#प्रत्यवसान#} .
+<ls>P. 6, 2, 195</ls>, Schol. Vgl. {#प्रत्यवसान#} .
 
 <div n="p">— {#व्यव#} 
 <div n="1"> 1) {%sich trennen, in Zwist gerathen%}: {#व्यव^स्येतां पितापु\त्रौ#} 
@@ -241,12 +241,12 @@
 <ls>TBR. 1, 8, 4, 2.</ls> 
 <ls>ŚĀṄKH. ŚR. 1, 4, 22.</ls> {#यो विचिन्त्य धिया धीरो व्यवस्यति स बुद्धिमान्#} 
 <ls>MBH. 1, 4242.</ls> {#विदित्वा °सिष्यामि#} 
-<ls>6118.</ls> <ls>Verz. d. Oxf. H. 262,a,</ls> 
+<ls n="MBH. 1,">6118.</ls> <ls>Verz. d. Oxf. H. 262,a,</ls> 
 <ls>3</ls> v. u. {#°स्यते#} so v. a. {#°सीयते#} pass. impers. 
 <ls>MBH. 14, 726.</ls> die Ergänzung im acc. 
 <ls>MBH. 4, 1270.</ls> {#कस्त्वेतद्व्यवसेत्#} 
-<ls>7, 9140</ls> (nach der Lesart der ed. Bomb.). {#मनसा चिन्तितानर्थान्बुद्ध्या चेह व्यवस्यति#} 
-<ls>14, 1193.</ls> {#अर्थं वा यदि वा कामं पापम्#} 
+<ls n="MBH.">7, 9140</ls> (nach der Lesart der ed. Bomb.). {#मनसा चिन्तितानर्थान्बुद्ध्या चेह व्यवस्यति#} 
+<ls n="MBH.">14, 1193.</ls> {#अर्थं वा यदि वा कामं पापम्#} 
 <ls>R. 3, 56, 18.</ls> {#किं °स्यति#} so v. a. {%vorhaben%} 
 <ls>SĀH. D. 70, 18.</ls> 
 <ls>BHĀG. P. 4, 26, 17.</ls> {#आत्मेच्छा °सीयताम्#} 
@@ -260,7 +260,7 @@
 <ls>ŚĀK. 17. 84.</ls> 
 <ls>MĀRK. P. 61, 17.</ls> {#°सेयम्#} 
 <ls>MBH. 1, 4163.</ls> {#°सामि#} 
-<ls>3, 16800.</ls> 
+<ls n="MBH.">3, 16800.</ls> 
 <div n="1">— 4) {%eine entschiedene Meinung gewinnen%} oder {%haben, sich überzeugen, überzeugt sein, erkennen%}: {#व्यवस्य सर्वमस्तीति नास्तिक्यं भावमुत्सृज्य#} 
 <ls>MBH. 3, 1200.</ls> <ls n="MBH.">5, 6024.</ls> <ls n="MBH.">13, 1386.</ls> {#अव्यवस्यन्#} 
 <ls>ŚĀK. 105, v. l.</ls> {#यथा मे गौतमः प्राह ततो न व्यवसाम्यहम्#} 
@@ -271,9 +271,9 @@
 <ls>M. 12, 113.</ls> 
 <ls>BHĀG. P. 4, 12, 32.</ls> {#भारं हि रथकारस्य न °सन्ति (°स्यन्ति#} ed. Bomb.) {#पण्डिताः#} so v. a. {%haben keine richtige Vorstellung von%} 
 <ls>MBH. 4, 1534.</ls> {#नास्तीत्येवं व्यवस्यन्ति सत्यं संशयमेव च ॥ तदयुक्तं व्यवस्यन्ति#} {%von der Wahrheit und dem Zweifel haben sie die Ansicht u.s.w.%} 
-<ls>13, 7536. fg.</ls> {#अथैनां दुष्कृतां पूजां शिशुपालो °स्यति#} so v. a. {%halten für%} 
-<ls>2, 1400.</ls> {#केचिदेनं °स्यन्ति पितामहसुतम्#} 
-<ls>9, 2716. 14, 604.</ls> <ls>R. 2, 12, 71.</ls> <ls>SUŚR. 1, 95, 7. 2, 275, 1. 312, 9. 369, 16. 466, 19.</ls> <ls>BHĀG. P. 1, 9, 17.</ls> 
+<ls n="MBH.">13, 7536. fg.</ls> {#अथैनां दुष्कृतां पूजां शिशुपालो °स्यति#} so v. a. {%halten für%} 
+<ls n="MBH.">2, 1400.</ls> {#केचिदेनं °स्यन्ति पितामहसुतम्#} 
+<ls n="MBH.">9, 2716.</ls> <ls n="MBH.">14, 604.</ls> <ls>R. 2, 12, 71.</ls> <ls>SUŚR. 1, 95, 7. 2, 275, 1. 312, 9. 369, 16. 466, 19.</ls> <ls>BHĀG. P. 1, 9, 17.</ls> 
 <div n="1">— 5) {%Betrachtungen bei sich anstellen, hin und her überlegen%}: {#इति °स्य#} 
 <ls>MBH. 1, 5926.</ls> {#इदं रूपं प्रथमपरिगृहीतं स्यान्न वेति °स्यन्#} 
 <ls>ŚĀK. 115.</ls> 
@@ -342,13 +342,13 @@ dat.: {#राज्ञः प्रजातये#}
 <ls>P. 8, 3, 70.</ls>
 
 <div n="p">— {#परिणि#}, {#°ष्यति#} 
-<ls>P. 8, 4, 17, Schol.</ls>
+<ls>P. 8, 4, 17</ls>, Schol.
 
 <div n="p">— {#प्रणि#}, {#°ष्यति#} 
-<ls>P. 8, 4, 17, Schol.</ls> <ls>VOP. 8, 22. 45. 11, 3.</ls>
+<ls>P. 8, 4, 17</ls>, Schol. <ls>VOP. 8, 22. 45. 11, 3.</ls>
 
 <div n="p">— {#परि#}, {#°ष्यति#} 
-<ls>P. 8, 3, 65, Schol.</ls> partic. {#°षित#} 
+<ls>P. 8, 3, 65</ls>, Schol. partic. {#°षित#} 
 <ls>P. 8, 3, 70.</ls> 
 <div n="v">— Vgl. {#परिषय#} .
 
@@ -356,7 +356,7 @@ dat.: {#राज्ञः प्रजातये#}
 <div n="1"> 1) {%huldigend, hingegeben, obliegend, besorgt um%} 
 <ls>AK. 3, 1, 9.</ls> 
 <ls>H. 385. v. l.</ls> zu <ls>HALĀY. 2, 198. 209.</ls> mit instr. oder loc. 
-<ls>P. 2, 3, 44. 5, 2, 66.</ls> {#केशैः#} oder {#केशेषु#} Schol. {#उदयापवर्गयोः#} 
+<ls>P. 2, 3, 44.</ls> <ls n="P.">5, 2, 66.</ls> {#केशैः#} oder {#केशेषु#} Schol. {#उदयापवर्गयोः#} 
 <ls>RAGH. 8, 23.</ls> 
 <div n="1">— 2) {%anhaltend, beständig%}: {#हसित#} 
 <ls>BHAṬṬ. 10, 6.</ls> 
@@ -379,9 +379,9 @@ dat.: {#राज्ञः प्रजातये#}
 <ls n="ṚV.">8, 5, 9.</ls> {#अद्रि^म्#} 
 <ls n="ṚV.">5, 45, 1.</ls> {#दृति^ं कर्ष\ विषि^त\ं#} (vgl. 
 <ls>P. 8, 3, 70</ls>) {#न्य^ञ्चम्#} 
-<ls>83, 7.</ls> {#ऊध^ः#} 
-<ls>10, 30, 11.</ls> <ls>AV. 7, 18, 1.</ls> {%geöffnete%} d. i. {%zum Fang gelegte Schlinge%} 
-<ls>4, 16, 6.</ls> 
+<ls n="P. 8,">83, 7.</ls> {#ऊध^ः#} 
+<ls n="P.">10, 30, 11.</ls> <ls>AV. 7, 18, 1.</ls> {%geöffnete%} d. i. {%zum Fang gelegte Schlinge%} 
+<ls n="AV.">4, 16, 6.</ls> 
 <div n="1">— 2) {%abzäumen, auszäumen%}: {#शिप्रे^#} 
 <ls>ṚV. 1, 101, 10.</ls> partic. pass. Rosse 
 <ls>ṚV. 3, 33, 1.</ls> <ls n="ṚV.">6, 6, 4.</ls> <ls n="ṚV. 6,">12, 5.</ls> {#विषि^तो अत्ति\ गर्भ^ः#} 
@@ -391,5 +391,5 @@ dat.: {#राज्ञः प्रजातये#}
 <div n="v">— Vgl. 1. {#विषाण#} (wo zu setzen ist: {%das Ablassen%} sc. einer Flüssigkeit) und {#°षायिन्#} .
 
 <div n="p">— {#सं#}, {#सं स्यामि#} 
-<ls>AV. 3, 19, 2. 5</ls> fehlerhaft fur {#सं श्यामि#} .
+<ls>AV. 3, 19, 2.</ls> <ls n="AV. 3, 19,">5</ls> fehlerhaft fur {#सं श्यामि#} .
 <LEND>

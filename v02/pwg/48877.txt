@@ -1,10 +1,10 @@
 <L>48877<pc>4-0998<k1>प्रत्यञ्च्<k2>प्रत्य꣡ञ्च्
 {#प्रत्य꣡ञ्च्#}¦ ({#अञ्च्#} mit {#प्रति#}) 
 <div n="1"> 1) <lex>adj.</lex> 
-<ls>P. 3, 2, 59,</ls> 
-<ls>Sch. 6, 4, 30,</ls> 
-<ls>Sch. 2, 52,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 2, 59</ls>, <ls>Sch. 6, 4, 30,</ls>
+
+<ls>Sch. 2, 52</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 26, 69. 3, 147</ls> (Declin.). <lex>f.</lex> {#प्रतीची꣡#} und {#प्रती꣡ची#} (auch {#प्रत्यञ्ची#} nach 
 <ls>VOP. 4, 12</ls>). 
 <div n="2"> a) {%zugewandt, zugekehrt, adversus%} (mit acc.): {#प्र\त्यङ्देवाना\ं विश^ः प्र\त्यङ्ङुदे^षि\ मानु^षान्#} 
@@ -12,7 +12,7 @@
 <ls n="ṚV. 1,">92, 9.</ls> <ls n="ṚV.">2, 3, 1.</ls> {#आ वि\श्वत^ः प्र\त्यञ्च^ं जिघर्मि#} {%welcher%} (das Feuer) {%überallhin seine Vorderseite bietet%} 
 <ls n="ṚV. 2,">10, 5.</ls> <ls n="ṚV.">1, 144, 7.</ls> <ls n="ṚV.">10, 79, 5.</ls> <ls>VS. 32, 4</ls> (wo die Schwierigkeit dadurch zu heben ist, dass man {#प्र\त्यङ्जना^ंस्तिष्ठति#} verbessert). {#गिर^ं भरे वृष\भाय^ प्रती\चीम्#} {%ich bringe entgegen%} 
 <ls>5, 12, 1. 7, 39, 1. 9, 66, 2.</ls> {#योष^णा प्र\तीची वश\ं वि नी^यते#} 
-<ls>8, 46, 33.</ls> <ls>AV. 7. 40, 2.</ls> {#यः प्र\त्यङ्सूर्य\ं मेह^ति#}
+<ls>8, 46, 33.</ls> <ls>AV. 7, 40, 2.</ls> {#यः प्र\त्यङ्सूर्य\ं मेह^ति#}
 <lang n="greek">(πρός ἥλιον τετραμμένον μὴ ὀμιχεὶν</lang> 
 <ls>PYTHAG.</ls>) 
 <ls>13, 1, 56.</ls> <ls>ŚAT. BR. 2, 1, 4, 19. 4, 3, 4, 21.</ls> {#न प्रत्यङ्ङग्निमाचामेन्न निष्ठीवेत्#} 
@@ -26,9 +26,9 @@
 <ls n="ṚV. 10,">128, 6.</ls> {#प्र\ती\चो बा\हून्प्रति^ भङ्ध्येषाम्#} {%knicke gegen das Gelenk%} 
 <ls n="ṚV. 10,">87, 4.</ls> {#अपामार्ग#} 
 <ls>AV. 4, 19, 7.</ls> {#प्र\तीच\ः पुन\रा कृ^धि#} 
-<ls>5, 8, 7.</ls> {#अ\र्चिषा\त्रिणो^ नुदतं प्र\तीच^ः#} {%stosset zurück%} 
-<ls>6, 32, 3. 7, 108, 2. 8, 5, 5.</ls> {#उ\त्ता\नास्त्वा^ प्र\तीची\ं यत्पृ\ष्टीभि^रधि\शेम^हे#} {%hinter —, unter unserm Rücken befindlich%} 
-<ls>12, 1, 34.</ls> <ls>AIT. BR. 1, 14. 2, 27.</ls> {#अश्वः प्रत्यङ्पदा हिनस्ति#} {%trifft nach hinten ausschlagend%} 
+<ls n="AV.">5, 8, 7.</ls> {#अ\र्चिषा\त्रिणो^ नुदतं प्र\तीच^ः#} {%stosset zurück%} 
+<ls n="AV.">6, 32, 3.</ls> <ls n="AV.">7, 108, 2.</ls> <ls n="AV.">8, 5, 5.</ls> {#उ\त्ता\नास्त्वा^ प्र\तीची\ं यत्पृ\ष्टीभि^रधि\शेम^हे#} {%hinter —, unter unserm Rücken befindlich%} 
+<ls n="AV.">12, 1, 34.</ls> <ls>AIT. BR. 1, 14. 2, 27.</ls> {#अश्वः प्रत्यङ्पदा हिनस्ति#} {%trifft nach hinten ausschlagend%} 
 <ls>5, 1.</ls> {#प्र\तीच्ये^षा\ं श्रीर^गात्#} {%ihr Glück wandte sich von ihnen%} 
 <ls>TBR. 1, 1, 4, 4.</ls> {#प्र\तीची^ः प्र\जा जा^यन्ते#} 
 <ls>TS. 2, 5, 7, 3.</ls> {#हि\नस्ति\ तं प\शुर्य ए^नं पु\रस्ता^त्प्र\त्यञ्च^मुप\चर^ति#} 
@@ -43,7 +43,7 @@
 <ls>H. 168.</ls> 
 <ls>MED. k. 16.</ls> <ls>HALĀY. 1, 103.</ls> <ls>AV. 9, 7, 21.</ls> {#दिश्#} (auch subst. mit Ergänzung von {#दिश्#}) 
 <ls>AK. 1, 1, 2, 3. 3, 4, 32, 4.</ls> 
-<ls>II. 167.</ls> <ls>HALĀY. 1, 101.</ls> <ls>AV. 3, 26, 3. 4, 14, 8. 12, 3, 9.</ls> <ls>VS. 10, 12.</ls> <ls>AIT. BR. 1, 7. 14.</ls> <ls>DRAUP. 3, 7.</ls> <ls>MBH. 2, 578.</ls> <ls n="MBH.">3, 10255.</ls> <ls n="MBH.">9, 2173.</ls> <ls n="MBH.">13, 4661.</ls> <ls>HARIV. 12412.</ls> <ls>R. GORR. 1, 13, 40. 3, 76, 2.</ls> <ls>SŪRYAS. 1, 61.</ls> <ls>KATHĀS. 19, 106.</ls> <ls>BHĀG. P. 4, 24, 2.</ls> <ls>MĀRK. P. 29, 18.</ls> {#भूमि#} 
+<ls>II. 167.</ls> <ls>HALĀY. 1, 101.</ls> <ls>AV. 3, 26, 3.</ls> <ls n="AV.">4, 14, 8.</ls> <ls n="AV.">12, 3, 9.</ls> <ls>VS. 10, 12.</ls> <ls>AIT. BR. 1, 7. 14.</ls> <ls>DRAUP. 3, 7.</ls> <ls>MBH. 2, 578.</ls> <ls n="MBH.">3, 10255.</ls> <ls n="MBH.">9, 2173.</ls> <ls n="MBH.">13, 4661.</ls> <ls>HARIV. 12412.</ls> <ls>R. GORR. 1, 13, 40. 3, 76, 2.</ls> <ls>SŪRYAS. 1, 61.</ls> <ls>KATHĀS. 19, 106.</ls> <ls>BHĀG. P. 4, 24, 2.</ls> <ls>MĀRK. P. 29, 18.</ls> {#भूमि#} 
 <ls>Verz. d. B. H. 288, 4.</ls> {#इदं प्रत्यञ्चि दीर्घारण्यानि भवन्ति#} 
 <ls>AIT. BR. 3, 44.</ls> 
 <ls>TBR. 1, 4, 4, 5.</ls> 
@@ -65,20 +65,20 @@
 <ls>100, 14.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 19, 16.</ls> 
 <div n="2">— e) {%gewachsen, gleichkommend, par%}: {#प्र\तीची\ सोम^मसि प्र\तीच्यु\त सूर्य^म्#} 
 <ls>AV. 7, 38, 3.</ls> {#या वि\श्पत्नीन्द्र\मसि^ प्र\तीची^#} 
-<ls>46, 3.</ls> 
+<ls n="AV. 7,">46, 3.</ls> 
 <div n="2">— f) {%vergangen%} (von der Zeit) 
 <ls>MED.</ls> 
 <div n="1">— 2) {#प्रत्यक्#} adv. 
-<ls>P. 5, 3, 30,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 3, 30</ls>, <ls>Sch.</ls> 
+
 <ls>AK. 3, 5, 23.</ls> 
 <ls>MED.</ls> 
 <div n="2"> a) {%rückwärts, rückläufig, in entgegengesetzter Richtung; hinter%}: {#प्र\त्यगे^नं श\पथा^ यन्तु#} 
 <ls>ṚV. 10, 87, 15.</ls> {#प्र\त्यगे^नमभिचा\र स्तृ^णुते#} so v. a. {%fällt auf den Urheber zurück%} 
 <ls>TBR. 1, 7, 7, 5.</ls> 
-<ls>AV. 4, 18, 2. 19, 5. 6.</ls> {#प्र\त्यक्प्र^ति\प्रहि^ण्मः#} 
-<ls>10, 1, 5.</ls> {#प्र\त्यक्से^वस्व भेष\जम्#} {%dagegen%} 
-<ls>5, 30, 5.</ls> <ls>ŚAT. BR. 5, 2, 4, 20. 7, 5, 2, 7.</ls> {#प्रत्यगक्षात्#} 
+<ls>AV. 4, 18, 2.</ls> <ls n="AV. 4,">19, 5.</ls> <ls n="AV. 4, 19,">6.</ls> {#प्र\त्यक्प्र^ति\प्रहि^ण्मः#} 
+<ls n="AV.">10, 1, 5.</ls> {#प्र\त्यक्से^वस्व भेष\जम्#} {%dagegen%} 
+<ls n="AV.">5, 30, 5.</ls> <ls>ŚAT. BR. 5, 2, 4, 20. 7, 5, 2, 7.</ls> {#प्रत्यगक्षात्#} 
 <ls>KĀTY. ŚR. 9, 2, 23.</ls> {#प्रत्यग्ग्रन्थीनवगूहति#} {%nach hinten (unten%}) 
 <ls>KĀTY. ŚR. 1, 3, 17.</ls> {#ऊर्ध्वम् - प्रत्यक्#} 
 <ls>KAṬHOP. 5, 3.</ls> 

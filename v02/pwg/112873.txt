@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>adj.</lex> <is>Soma</is> {%trinkend, zum%} <is>Soma</is> - {%Trunk zugelassen%} 
 <ls>AK. 2, 7, 8. 3, 4, 23, 141.</ls> 
 <ls>H. 818.</ls> 
-<ls>AV. 2, 12, 3. 35, 3. 5, 25, 9.</ls> 
+<ls>AV. 2, 12, 3.</ls> <ls n="AV. 2,">35, 3.</ls> <ls n="AV.">5, 25, 9.</ls> 
 <ls>AIT. BR. 2, 18.</ls> 
 <ls>TBR. 2, 2, 11, 3.</ls> 
 <ls>KĀṬH. 13, 6.</ls> 
@@ -11,7 +11,7 @@
 <ls>M. 11, 149.</ls> 
 <ls>BHAG. 9, 20.</ls> 
 <ls>MBH. 1, 4615.</ls> <ls n="MBH.">3, 2450.</ls> {#गणा देवानामूष्मपाः सोमपाश्च#} 
-<ls>13, 1371. 6495. 7306. fg. 14, 288.</ls> <ls>VARĀH. BṚH. S. 16, 7.</ls> <ls>RĀJA-TAR. 5, 392.</ls> <ls>BHĀG. P. 4, 7, 56. 6, 18, 66.</ls> {#°सत्तमाः#} 
+<ls n="MBH.">13, 1371.</ls> <ls n="MBH. 13,">6495.</ls> <ls n="MBH. 13,">7306. fg.</ls> <ls n="MBH.">14, 288.</ls> <ls>VARĀH. BṚH. S. 16, 7.</ls> <ls>RĀJA-TAR. 5, 392.</ls> <ls>BHĀG. P. 4, 7, 56. 6, 18, 66.</ls> {#°सत्तमाः#} 
 <ls>MBH. 14, 2624.</ls> {#°पा#} <lex>f.</lex> <is>Durgā</is> 
 <ls>HARIV. 10248.</ls> {#अ°#} 
 <ls>AIT. BR. 2, 18.</ls> 

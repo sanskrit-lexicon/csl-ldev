@@ -1,6 +1,6 @@
 <L>97972<pc>7-0082<k1>शंभु<k2>शंभु꣡
 {#शंभु꣡#}¦ (5. {#शम् + भु#}) <is>gaṇa</is> {#मितद्र्वादि#} 
-zu <ls>P. 3, 2, 180, <is>Vārtt</is>. 1.</ls> <ls>VOP. 26, 168.</ls> 
+zu <ls>P. 3, 2, 180</ls>, <is>Vārtt</is>. 1. <ls>VOP. 26, 168.</ls> 
 <div n="1"> 1) <lex>adj.</lex> (f. {#°भू), °भुवम्, °भुवस्#}, du. {#°भुवा#} und {#°भू#}, pl. {#°भुवस्#}; {%heilbringend, wohlthätig, hilfreich%}: {#मन्त्र#} 
 <ls>ṚV. 1, 40, 6.</ls> <ls n="ṚV. 1,">46, 13.</ls> <ls n="ṚV. 1,">65, 3.</ls> {#सोम्य#} 
 <ls n="ṚV. 1,">105, 3.</ls> <ls n="ṚV. 1,">106, 2.</ls>
@@ -9,8 +9,8 @@ zu <ls>P. 3, 2, 180, <is>Vārtt</is>. 1.</ls> <ls>VOP. 26, 168.</ls>
 <ls n="ṚV.">2, 41, 19.</ls> <ls n="ṚV.">3, 17, 5.</ls> {#पि\तरा^#} 
 <ls n="ṚV.">4, 41, 7.</ls> <ls n="ṚV.">6, 70, 7.</ls> <ls n="ṚV. 6, 70,">14.</ls> die <is>Aśvin</is> 
 <ls n="ṚV.">8, 8, 19.</ls> <ls>AV. 10, 1, 9.</ls> {#मणि#} 
-<ls>6, 15.</ls> {#सु\शेवा\ पत्ये\ श्वशु^राय श\ंभूः#} 
-<ls>14, 2, 26. 19, 46, 6.</ls> <ls>VS. 15, 4.</ls> <ls>ŚAT. BR. 2, 9, 1, 7.</ls> <ls>ŚĀṄKH. ŚR. 8, 19, 6.</ls> <is>Śiva-Rudra</is> 
+<ls n="AV. 10,">6, 15.</ls> {#सु\शेवा\ पत्ये\ श्वशु^राय श\ंभूः#} 
+<ls n="AV.">14, 2, 26.</ls> <ls n="AV.">19, 46, 6.</ls> <ls>VS. 15, 4.</ls> <ls>ŚAT. BR. 2, 9, 1, 7.</ls> <ls>ŚĀṄKH. ŚR. 8, 19, 6.</ls> <is>Śiva-Rudra</is> 
 <ls>MAITRYUP. 6, 8.</ls> <ls>Ind. St. 2, 40.</ls> {#प्रभाकर°#} <is>Mahāpuruṣa</is> 
 <ls>HARIV. 14120.</ls> {#शंभुमयोभू#} Verse, {%welche die beiden Wörter enthalten%}, 
 <ls>KAUŚ. 9. 18. fg. 43.</ls> superl. {#शं꣡भविष्ठ#} 

@@ -7,8 +7,8 @@ zu <ls>P. 6, 2, 146.</ls>
 <ls>ṚV. 1, 168, 6.</ls> {#वि संहि^त\ं विष्व\ग्वि बृ^हता\ रप^ः#} 
 <ls n="ṚV.">8, 56, 21.</ls> <ls n="ṚV. 8,">85, 2.</ls> {#बिदलसंहित इव पुरुषः#} {%aus zwei gleichen Stücken zusammengefügt%} 
 <ls>AIT. BR. 4, 22.</ls> 
-<ls>AV. 11, 8, 16. 3, 31, 6.</ls> {#वात\ः प्रा\णेन\ संहि^तः#} 
-<ls>19, 27. 7.</ls> {#पर्वाणि#} (Gegens. {#विस्रस्त#}) 
+<ls>AV. 11, 8, 16.</ls> <ls n="AV.">3, 31, 6.</ls> {#वात\ः प्रा\णेन\ संहि^तः#} 
+<ls n="AV. 11,">19, 27.</ls> <ls n="AV. 11, 19,">7.</ls> {#पर्वाणि#} (Gegens. {#विस्रस्त#}) 
 <ls>ŚAT. BR. 1, 6, 3, 37. 4, 2, 1, 19.</ls> {#पुरीष°#} 
 <ls>6, 7. 1, 10.</ls> {#मांसेन#} 
 <ls>8, 6, 2, 14. 7, 1, 6.</ls> {#मूर्ध°#} 
@@ -38,14 +38,14 @@ zu <ls>P. 6, 2, 146.</ls>
 <ls>ṚV. PRĀT. 2, 1.</ls> <ls n="ṚV. PRĀT. 2,">14.</ls> <ls n="ṚV. PRĀT. 2,">43.</ls> <ls n="ṚV. PRĀT.">6, 5.</ls> ({#कृतसंहित#} adj.). {#°विधि#} Comm. zu 
 <ls n="ṚV. PRĀT.">11, 34.</ls> {#°काल#} 
 <ls n="ṚV. PRĀT.">8, 21.</ls> <ls>VS. PRĀT. 1, 148.</ls> <ls n="VS. PRĀT.">3, 1.</ls> <ls n="VS. PRĀT.">4, 18.</ls> <ls n="VS. PRĀT. 4,">175.</ls> <ls>AV. PRĀT. 2, 1.</ls> <ls n="AV. PRĀT.">4, 108.</ls> fg. <ls n="AV. PRĀT. 4,">124.</ls> <ls>TS. PRĀT. 5, 1.</ls> <ls n="TS. PRĀT.">21, 10.</ls> <ls n="TS. PRĀT.">24, 1</ls> (vier angebliche Texte).
-<ls>P. 1, 2, 39. 6, 1, 72. 3, 114. 8, 2, 108.</ls> {#संहिताध्ययन#} 
+<ls>P. 1, 2, 39.</ls> <ls n="P.">6, 1, 72.</ls> <ls n="P. 6,">3, 114.</ls> <ls n="P.">8, 2, 108.</ls> {#संहिताध्ययन#} 
 <ls>MBH. 1, 6363.</ls> {#संहिताध्यायिन्#} 
-<ls>13, 6620.</ls> {#°जप#} 
+<ls n="MBH.">13, 6620.</ls> {#°जप#} 
 <ls>M. 11, 200.</ls> {#वेदस्य#} 
 <ls>77.</ls> <ls>YĀJÑ. 3, 249.</ls> {#ऋक्संहिता, यजुषाम्, साम्नाम्#} 
 <ls>M. 11,262.</ls> 
 <ls>VP.3,4,19. fgg.</ls> <ls>Verz. d. Oxf. H. 54,b,20. fgg.</ls> <ls>BHĀG. P.9,21,29.</ls> im Gegensatz zu {#ब्राह्मण#} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,2,36.</ls> {#°पाठ#} 
+<ls>SIDDH. K.</ls> zu <ls>P. 1, 2, 36.</ls> {#°पाठ#} 
 <ls>KAIYY.</ls> zu <ls>P. 8, 4, 28.</ls> {#कपिष्ठल°#} 
 <ls>Ind. St. 1, 469.</ls> 
 <div n="2">— d) überh. {%ein grösseres Sammelwerk%} (wie das <is>Rāmāyaṇa</is>, die verschiedenen Gesetzbücher, die medicinischen Werke von <is>Caraka</is> und

@@ -24,7 +24,7 @@
 <ls>Spr. 4588.</ls> 
 <ls>PRAB. 5, 2.</ls> {#नासापुट°#} {%Scheidewand%} 
 <ls>SUŚR. 1, 126, 7. 326, 14.</ls> {#आङ् मर्यादाभिविध्योः#} d. i. {%in der Bedeutung von bis mit Ausschluss des Grenzpunktes und mit Einschluss des Gr.%} 
-<ls>P. 1, 4, 89. 2, 1, 13. 8, 1, 15. <is>Kār</is>.</ls> zu <ls>P. 1, 1, 14.</ls> {#षण्मासमर्यादया#} {%innerhalb von sechs Monaten%} 
+<ls>P. 1, 4, 89.</ls> <ls n="P.">2, 1, 13.</ls> <ls n="P.">8, 1, 15.</ls> <is>Kār</is>. zu <ls>P. 1, 1, 14.</ls> {#षण्मासमर्यादया#} {%innerhalb von sechs Monaten%} 
 <ls>VARĀH. BṚH. S. 4, 24.</ls> {#मर्यादायां स्थितो धर्मः#} 
 <ls>MBH. 13, 1555.</ls> {#धर्ममर्यादां रक्षन्#} {%die Schranken des Gesetzes beobachtend%} 
 <ls>KATHĀS. 52, 316.</ls> {#न ध्वस्ता लोक°#} 
@@ -53,8 +53,8 @@
 <ls>UTTARARĀMAC. 88, 6.</ls> {#सुकृता स्थापिता तेन सरसि व्याप्तदिक्तटे । आसंसारं स्थिरा मारमर्यादा झषपक्षिणाम्#} {%eine genau bestimmte Verordnung über das Tödten von Fischen und Vögeln%} 
 <ls>RĀJA-TAR. 5, 119.</ls> {#चकार चैव मर्यादामिमां स्त्रीपुंसयोर्भुवि#} so v. a. {%er setzte diese genau bestimmte Ordnung in dem Verhältniss zwischen Mann und Weib auf Erden fest%} 
 <ls>MBH. 1, 4730.</ls> <ls n="MBH. 1,">4725.</ls> {#मर्यादा स्थापिता#} 
-<ls>4723.</ls> {#स्थिता#} 
-<ls>4731.</ls> {#नैगमीं कुरु मर्यादाम्#} 
+<ls n="MBH. 1,">4723.</ls> {#स्थिता#} 
+<ls n="MBH. 1,">4731.</ls> {#नैगमीं कुरु मर्यादाम्#} 
 <ls>LA. (II) 88, 21.</ls> {#इति शास्त्र°#} {%so lautet die Bestimmung des Gesetzbuchs%} 
 <ls>KULL.</ls> zu <ls>M. 5, 129. 8, 200. 9, 283.</ls> {#लङ्घितशास्त्रमर्याद#} ders. zu 
 <ls>8, 309.</ls> {#यदि ते रोचते सख्यं बाहुरेष प्रसारितः । गृह्यतां पाणिना पाणिर्मर्यादा बध्यतां स्थिरा ॥#} so v. a. {%es werde ein festes Bündniss geschlossen%} 
@@ -64,5 +64,5 @@
 <ls>AV. 5, 1, 8.</ls> Vgl. {#अमर्याद, निर्मर्याद#} . 
 <div n="1">— 2) N. pr. der Gattin <is>Avācīna's</is>, einer Tochter eines Fürsten von <is>Vidarbha</is>, 
 <ls>MBH. 1, 3771.</ls> der Gattin <is>Devātithi's</is>, einer Tochter eines Tochter eines Fürsten von <is>Videha</is>, 
-<ls>3776.</ls>
+<ls n="MBH. 1,">3776.</ls>
 <LEND>

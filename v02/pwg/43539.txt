@@ -1,6 +1,6 @@
 <L>43539<pc>4-0579<k1>पर्याय<k2>पर्याय꣡
 {#पर्याय꣡#}¦ (von 3. {#इ#} mit {#परि#}) <lex>m.</lex> 
-<ls>P. 3, 3, 38. 6, 2, 144.</ls> 
+<ls>P. 3, 3, 38.</ls> <ls n="P.">6, 2, 144.</ls> 
 <div n="1"> 1) {%Umgang, Umlauf%} 
 <ls>KĀTY. ŚR. 13, 3, 19.</ls> {%Umdrehung, Windung%}: {#जालं त्रिपर्यायम्#} 
 <ls>7, 4, 7.</ls> 
@@ -28,14 +28,14 @@
 <ls>Spr. 1424.</ls> {#ययौ च तत्प्रवहणं क्षणमूर्ध्वमधः क्षणम् । उच्छ्रायपातपर्यायं धनिनां दर्शयन्निव ॥#} 
 <ls>KATHĀS. 25, 44.</ls> {#अथ पर्यायशः सर्वान्वाहनायोपचक्रमे । पर्यायश्चाप्यगस्त्यस्य समपद्यत#} {%die Reihe kam an%} 
 <ls>MBH. 13, 4755.</ls> 
-<ls>P. 3, 3, 38,</ls> 
-<ls>Sch.</ls> {#पितृपर्यायागतं वनम्#} 
+<ls>P. 3, 3, 38</ls>, <ls>Sch.</ls>
+{#पितृपर्यायागतं वनम्#} 
 <ls>PAÑCAT. 21, 5. 247, 4.</ls> {#पर्यायेण#} {%der Reihe nach, abwechselnd%} (Gegens. {#युगपद्#} {%auf ein Mal, zugleich%}) 
 <ls>M. 4, 87.</ls> 
 <ls>MBH. 13, 2201.</ls> 
 <ls>HARIV. 10828.</ls> 
 <ls>SŪRYAS. 13, 25.</ls> 
-<ls>P. 7, 3, 31. Schol.</ls> zu <ls>P. 2, 3, 9.</ls> <ls>RĀJA-TAR. 5, 284.</ls> {#युगपदिति पर्यायनिवृत्त्यर्थम्#} 
+<ls>P. 7, 3, 31.</ls> Schol. zu <ls>P. 2, 3, 9.</ls> <ls>RĀJA-TAR. 5, 284.</ls> {#युगपदिति पर्यायनिवृत्त्यर्थम्#} 
 <ls>Schol.</ls> zu <ls>P. 6, 1, 200.</ls> {#एष पर्यायवासो मे वसूनां संनिधौ कृतः#} 
 <ls>MBH. 1, 3919.</ls> {#°सेवा#} 
 <ls>KUMĀRAS. 2, 36.</ls> {#उपशायो विशायश्च पर्यायशयनार्थकौ#} 
@@ -55,7 +55,7 @@
 <ls>SĀY.</ls> zu <ls>AIT. BR. 2, 8.</ls> 
 <div n="1">— 6) {%Wechselbegriff, Synonym%} 
 <ls>VIJAYARAKṢITA</ls> im <ls>ŚKDR.</ls> <ls>SUŚR. 1, 10, 9.</ls> {#पर्यायो मरणस्यायं निर्धनत्वं शरीरिणाम्#} 
-<ls>PAÑCAT. II, 107.</ls> <ls>AK. 3, 4, 1. 3, 6, 2, 11. 16.</ls> <ls>H. 10. 18. 961.</ls> <ls>Schol.</ls> zu <ls>P. 2, 2, 16. 3, 73. 3, 2, 112. 7, 3, 18.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4, 4, 35.</ls> <ls>SĀH.</ls> <ls>D. 23, 14.</ls> 
+<ls>PAÑCAT. II, 107.</ls> <ls>AK. 3, 4, 1. 3, 6, 2, 11. 16.</ls> <ls>H. 10. 18. 961.</ls> <ls>Schol.</ls> zu <ls>P. 2, 2, 16.</ls> <ls n="P. 2,">3, 73.</ls> <ls n="P.">3, 2, 112.</ls> <ls n="P.">7, 3, 18.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4, 4, 35.</ls> <ls>SĀH.</ls> <ls>D. 23, 14.</ls> 
 <div n="1">— 7) {%eine best. rhetorische Figur%} 
 <ls>SĀH. D. 733.</ls> 
 <ls>PRATĀPAR. 102,a.</ls> 

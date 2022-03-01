@@ -15,12 +15,12 @@
 <ls>TS. 6, 2, 4, 1.</ls>
 
 <div n="p">— {#प्र#}, partic. {#प्रस्तीत#} und {#प्रस्तीम#} 
-<ls>P. 6, 1, 23. 8, 2, 54.</ls> 
+<ls>P. 6, 1, 23.</ls> <ls n="P.">8, 2, 54.</ls> 
 <ls>VOP. 26, 100.</ls>
 
 
 <div n="p">— {#सम्#}, partic. {#संस्त्यान#} 
-<ls>P. 6, 1, 23, Schol.</ls> <ls>VOP. 26, 100.</ls> {%geronnen, festgeworden%} 
+<ls>P. 6, 1, 23</ls>, Schol. <ls>VOP. 26, 100.</ls> {%geronnen, festgeworden%} 
 <ls>NIR. 3, 19. 4, 24.</ls> 
 <div n="v">— Vgl. {#संस्त्याय#} .
 <LEND>

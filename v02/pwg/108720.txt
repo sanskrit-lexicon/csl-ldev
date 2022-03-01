@@ -15,9 +15,9 @@
 <ls>KĀTY. ŚR. 13, 4, 5. 24, 4, 27. 6, 14. 25, 5, 25.</ls> 
 <ls>LĀṬY. 1, 4, 25. 10, 5, 10. 15, 1.</ls> <ls>MAŚAKA 11, 8</ls> in <ls>Verz. d. B. H. 74.</ls> <ls>Ind. St. 1, 50.</ls> {#तीर्थ#} 
 <ls>MBH. 9, 2365.</ls> {#अवभृथ#} 
-<ls>3, 8375.</ls> {#पर्वन्#} 
-<ls>1, 347.</ls> {#लोक#} 
-<ls>3, 7004. 8044. 9, 2244.</ls> {#स्रोतस्#} 
+<ls n="MBH.">3, 8375.</ls> {#पर्वन्#} 
+<ls n="MBH.">1, 347.</ls> {#लोक#} 
+<ls n="MBH.">3, 7004.</ls> <ls n="MBH. 3,">8044.</ls> <ls n="MBH.">9, 2244.</ls> {#स्रोतस्#} 
 <ls>Verz. d. Oxf. H. 120,a,16.</ls> {#°व्रत#} 
 <ls>41,a,5.</ls> {#°कल्प#} 
 <ls>94,a,4.</ls> {#सारस्वतामृत#} 
@@ -34,7 +34,7 @@
 <div n="2"> a) pl. {%die Anwohner der%} <is>Sar</is>., N. pr. eines Volkes in <is>Madhyadeśa</is>, 
 <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93 (56).</ls> <ls>VARĀH. BṚH. S. 14, 2. 16, 22.</ls> <ls>MĀRK. P. 57, 51. 58, 7.</ls> <ls>BHĀG. P. 1, 10, 34.</ls> {#सारस्वता गणाः#} (vgl. {#सारस्वत्यो गणः#} <ls>12, 2232</ls>) 
 dass <ls>MBH. 5, 2254.</ls> Brahmanen von der <is>Sar</is>.
-<ls>BHĀG. P. 10, 89, 20.</ls> <ls>WEBER,</ls> <ls>VAJRAS. 256.</ls> <ls>HALL 120.</ls> <ls>COLEBR. Misc. Ess. 2, 179. 188. 213.</ls> {#सारस्वताः = कश्मीराः#} 
+<ls>BHĀG. P. 10, 89, 20.</ls> <ls>WEBER</ls>, <ls>VAJRAS. 256.</ls> <ls>HALL 120.</ls> <ls>COLEBR. Misc. Ess. 2, 179. 188. 213.</ls> {#सारस्वताः = कश्मीराः#} 
 <ls>H. 958.</ls> 
 <div n="2">— b) N. pr. eines <is>Ṛṣi</is>, eines {%Sohnes der%} <is>Sar</is>. 
 <ls>Ind. St. 3,398. fgg. 459.</ls> <ls>MBH. 3, 7058.</ls> <ls n="MBH. 3,">8189.</ls> <ls n="MBH.">9, 2926. fgg.</ls> <ls n="MBH.">12, 7597.</ls> <ls n="MBH. 12,">13675.</ls> <ls n="MBH.">13, 7115.</ls> <ls>HARIV. 9571.</ls> <ls>Verz. d. Oxf. H. 52,a,44.b,5. 74,b,2. 80,a,11.</ls> <ls>VP. 9. 272.</ls> <ls>BHĀG. P. 2,7,45.</ls> {#सारस्वतेन मुनिना दगार्गलं यत्कृतम्#} 

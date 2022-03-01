@@ -5,7 +5,7 @@
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ (ई꣡#} <is>gaṇa</is> {#गौरादि#} zu 
 <ls>P. 4, 1, 41</ls>); geht im comp. voran oder hinterdrein, <is>gaṇa</is> {#कडारादि#} zu 
 <ls>P. 2, 2, 38.</ls> Accent eines auf {#पिङ्गल#} (v. l. {#पिगली#}) ausgehenden comp. <is>gaṇa</is> {#घोषादि#} zu 
-<ls>6, 2, 85.</ls> {%röthlich braun%} 
+<ls n="P.">6, 2, 85.</ls> {%röthlich braun%} 
 <ls>AK. 1, 1, 4, 25. 3, 4, 25, 172.</ls> 
 <ls>H. 1396.</ls> 
 <ls>an. 3, 667.</ls> 
@@ -29,7 +29,7 @@
 <ls>HARIV. 14577.</ls> {#वापीः कमलपिङ्गलाः#} 
 <ls>R. 3, 61, 17.</ls> {#°ज्य (आजगव)#} 
 <ls>MBH. 7, 6148.</ls> {#विद्युत्संपात°#} 
-<ls>3, 11145.</ls> {#हेम°#} 
+<ls n="MBH.">3, 11145.</ls> {#हेम°#} 
 <ls>R. 1, 1, 66. 4, 3, 27.</ls> {#मधु°#} 
 <ls>MBH. 3, 11151.</ls> <ls n="MBH.">13, 832.</ls> 
 <ls>R. 5, 74, 10.</ls> 
@@ -55,15 +55,15 @@
 <ls>H. 1199.</ls> 
 <div n="2">— g) N. eines Schatzes 
 <ls>H. an.</ls> <ls>MED.</ls> bei den <is>Jaina</is> 
-<ls>H. 193,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 193</ls>, <ls>Sch.</ls> 
+
 <div n="2">— h) N. pr. eines Trabanten des Sonnengottes 
 <ls>AK.1,1,2,33.</ls> <ls>VYĀḌI</ls> beim Schol. zu <ls>H. 103.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. 70,a, N. 1.</ls> Bei <ls>WILSON</ls> sind daraus zwei Bedeutungen entstanden: die angegebene und {%die Sonne.%} 
 <div n="2">— i) Bein. des <is>Śiva</is> oder eines verwandten Dämons 
 <ls>ŚĀṄKH. GṚHY. 4, 16.</ls> N. pr. eines <is>Rudra</is> 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>MATSYA-P.</ls> in <ls>VP. 121, N. 17.</ls> Bei <ls>WILSON</ls> <is>Śiva</is>. 
 <div n="2">— k) N. pr. eines <is>Yakṣa</is> 
-<ls>MBH. 3, 14565.</ls> <ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 42,a,</ls> <ls>Kap. 167.</ls> 
+<ls>MBH. 3, 14565.</ls> <ls>MATSYA-P.</ls> in <ls>Verz. d. Oxf. H. 42,a</ls>, <ls>Kap. 167.</ls> 
 <div n="2">— l) N. pr. eines Wesens im Gefolge des <is>Śiva</is> 
 <ls>KATHĀS. 45, 352.</ls> 
 <div n="2">— m) N. pr. eines <is>Dānava</is> 
@@ -105,7 +105,7 @@
 <ls>MED.</ls> 
 <ls>HĀR. 147.</ls> 
 <div n="2">— g) N. pr. einer später fromm gewordenen Buhldirne 
-<ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 263.</ls> <ls>MBH. 12, 6513. fgg.</ls> <ls n="MBH. 12,">6646.</ls> <ls>KAP. 4,11.</ls> <ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 74,b,</ls> <ls>Kap. 22.</ls> <ls>MADHUS.</ls> in <ls>Ind. St.1,22.</ls> 
+<ls>H. an.</ls> <ls>MED.</ls> <ls>HĀR. 263.</ls> <ls>MBH. 12, 6513. fgg.</ls> <ls n="MBH. 12,">6646.</ls> <ls>KAP. 4,11.</ls> <ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 74,b</ls>, <ls>Kap. 22.</ls> <ls>MADHUS.</ls> in <ls>Ind. St.1,22.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%ein best. Metall%} ({#रीति#}) 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 

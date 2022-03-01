@@ -5,13 +5,13 @@
 <ls>TAITT. UP. 1, 4, 2.</ls> <ls>MBH. 4, 1506.</ls> <ls>R. 2, 32, 38</ls>), {#गो꣡भिस्, गो꣡भ्यस्, ग꣡वाम्#} und {#गो꣡नाम्#} (dieses nur am Ende eines <is>Pāda</is> im <is>Veda</is> 
 <ls>P. 7, 1, 57</ls>; {#गवाम्#} am <is>Pāda</is>- Ende 
 <ls>ṚV. 4, 1, 19</ls>), {#गो꣡षु#} 
-<ls>P. 6, 1, 93. 7, 1, 90.</ls> 
+<ls>P. 6, 1, 93.</ls> <ls n="P.">7, 1, 90.</ls> 
 <ls>VOP. 3, 68. 69.</ls> Verhalten des {#ओ#} vor Vocalen im comp. 
 <ls>P. 6, 1, 122. fgg.</ls> 
 <ls>VOP. 2, 18.</ls> Am Ende eines comp. zu {#गु#} (vgl. 1. {#गु#}) geschwächt. 
 <div n="1"> 1) {%Rind, Stier, Kuh%}; pl. {%Rinder, Kühe, Rinderheerden%} (f. 
-<ls>P. 1, 2, 73,</ls> 
-<ls>Sch.</ls>) <ls>AK. 2, 9, 60. 66. 3, 4, 3, 26. 25, 167.</ls> <ls>TRIK. 3, 3, 59.</ls> <ls>H. 1257. 1265. an. 1, 6.</ls> <ls>MED. g. 1.</ls> <ls>HĀR. 79.</ls> <ls>Uṇ. 2, 66</ls>, <ls>Sch.</ls> {#गवा^ं गो\त्रम्#} 
+<ls>P. 1, 2, 73</ls>, <ls>Sch.</ls>) <ls>AK. 2, 9, 60. 66. 3, 4, 3, 26. 25, 167.</ls>
+<ls>TRIK. 3, 3, 59.</ls> <ls>H. 1257. 1265. an. 1, 6.</ls> <ls>MED. g. 1.</ls> <ls>HĀR. 79.</ls> <ls>Uṇ. 2, 66</ls>, <ls>Sch.</ls> {#गवा^ं गो\त्रम्#} 
 <ls>ṚV. 2, 23, 18.</ls> {#सा\कं गाव\ः सुव^ते\ पच्य^ते\ यव^ः#} 
 <ls n="ṚV.">1, 135, 8.</ls> {#यदि^ नो\ गां हंसि\ यद्यश्व\ं यदि\ पूरु^षम्#} 
 <ls>AV. 1, 16, 4.</ls> {#स्थि\रौ गावौ^ भवता\म्#} 
@@ -33,7 +33,7 @@
 <ls>M. 3, 141.</ls> {#यथा गौर्गवि चाफला#} 
 <ls>2, 158.</ls> {#गोहिरण्य#} <lex>n.</lex> sg. {%Kühe und Gold%} 
 <ls>MBH. 2, 1833.</ls> {#गोब्राह्मण#} <lex>n.</lex> sg. {%eine Kuh und ein Brahman%} 
-<ls>13, 3350.</ls> <ls>HARIV. 3157. fg.</ls> 
+<ls n="MBH.">13, 3350.</ls> <ls>HARIV. 3157. fg.</ls> 
 <ls>M. 5, 95. 11, 79.</ls> {#हस्तिगोऽश्वोष्ट्रदमक#} 
 <ls>3, 162.</ls> {#गवामयः#} (
 <ls>MBH. 3, 8176.</ls> <ls n="MBH.">13, 5177.</ls> <ls n="MBH. 13,">7128</ls>) und {#गवामयनम्#} (
@@ -69,7 +69,7 @@
 {#गो = गोमेधयज्ञ#} 
 <ls>BHĀNUD.</ls> bei einem 
 <ls>Sch.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> <lex>m.</lex> = {#क्रतुभेद#} 
-<ls>Uṇ.,</ls> <ls>Sch.</ls> 
+<ls>Uṇ.</ls>, <ls>Sch.</ls> 
 <div n="1">— 5) pl. {%die Heerde am Himmel, die Gestirne%}: {#ता वां वास्तू^न्युश्मसि\ गम^ध्यै\ यत्र\ गावो\ भूरि^शृङ्गा अ\यास^ः#} 
 <ls>ṚV. 1, 154, 6.</ls> {#वि र\श्मिभि^ः ससृजे\ सूर्यो\ गाः#} {%mit ihren Strahlen hat die Sonne die Gestirne verscheucht%} 
 <ls n="ṚV.">7, 36, 1.</ls> 
@@ -78,7 +78,7 @@
 <ls>AK. 3, 4, 3, 26.</ls> 
 <ls>H. 87.</ls> 
 <ls>H. an.</ls> masc. <ls>TRIK.</ls> <ls>MED.</ls> (lies: {#स्वर्ग#} st. {#सर्ग#}). <lex>m.</lex> <lex>f.</lex> 
-<ls>Uṇ.,</ls> <ls>Sch.</ls> Diese Bed. wurde. wenn sie nur sonst nachzuweisen wäre, recht gut passen zur folgenden Stelle: {#इन्द्र^ः पृथि\व्यै वर्षी^या\न्गोस्तु मात्रा\ न वि^द्यते#} 
+<ls>Uṇ.</ls>, <ls>Sch.</ls> Diese Bed. wurde. wenn sie nur sonst nachzuweisen wäre, recht gut passen zur folgenden Stelle: {#इन्द्र^ः पृथि\व्यै वर्षी^या\न्गोस्तु मात्रा\ न वि^द्यते#} 
 <ls>VS. 23, 48.</ls> 
 <div n="1">— 7) {%die Sonne%} 
 <ls>NIR. 2, 6. 14.</ls> masc. <ls>Uṇ.</ls>, <ls>Sch.</ls> <ls>BHĀNUD.</ls> bei einem <ls>Sch.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> Vgl. {#गोपुत्र#} . 
@@ -90,9 +90,9 @@
 <ls>AK. 3, 4, 3, 26.</ls> 
 <ls>H. 99.</ls> 
 <ls>H. an.</ls> masc. <ls>TRIK.</ls> <ls>MED.</ls> <lex>m.</lex> = {#किरण#}, <lex>m.</lex> <lex>f.</lex> = {#रश्मि#} 
-<ls>Uṇ.,</ls> <ls>Sch.</ls> {#गोभिर्भासयसे महीम्#} 
+<ls>Uṇ.</ls>, <ls>Sch.</ls> {#गोभिर्भासयसे महीम्#} 
 <ls>MBH. 3, 182.</ls> {#त्वमेवैकस्तपसे जातवेदो नान्यस्तप्ता विद्यते गोषु देव#} 
-<ls>1, 8414.</ls> {#गवां सूर्यो गुरुः स्मृतः#} 
+<ls n="MBH.">1, 8414.</ls> {#गवां सूर्यो गुरुः स्मृतः#} 
 <ls>HARIV. 2943.</ls> {#तेजोमयैर्गोभिरिवोदितो ऽर्कः (दीप्तिमवाप)#} 
 <ls>R. 1, 7, 18. 4, 40, 64.</ls> 
 <ls>BHĀG. P. 2, 6, 21.</ls> {#गोगणैः#} 
@@ -110,7 +110,7 @@
 <ls>M. 4, 172.</ls> {#खं संनिवेशयेत्खेषु चेष्टनस्पर्शने ऽनिलम् । पक्तिदृष्ट्योः परं तेजः स्नेहे ऽपो गां च मूर्तिषु ॥#} 
 <ls>12. 120.</ls> {#इमां सागरापाङ्गीं गाम्#} 
 <ls>MBH. 1, 2468.</ls> <ls n="MBH.">3, 1281.</ls> <ls n="MBH. 3,">15828.</ls> {#तं जनाः कथयन्तीह यावद्भवति गौरियम्#} 
-<ls>13, 3168.</ls> <ls>BHAG. 15, 13.</ls> <ls>R. 1, 41, 18. 44, 19.</ls> <ls>MṚCCH. 173, 17.</ls> <ls>MEGH. 31.</ls> {#(राजा) दुदोह गां स यज्ञाय शस्याय मघवा दिवम्#} 
+<ls n="MBH.">13, 3168.</ls> <ls>BHAG. 15, 13.</ls> <ls>R. 1, 41, 18. 44, 19.</ls> <ls>MṚCCH. 173, 17.</ls> <ls>MEGH. 31.</ls> {#(राजा) दुदोह गां स यज्ञाय शस्याय मघवा दिवम्#} 
 <ls>RAGH. 1, 26</ls>; vgl. {#पयोधरीभूतचतुःसमुद्रां जुगोप गोरूपधरामिवोर्वीम्#} 
 <ls>2, 3</ls> und {#कस्माद्दधार गोरूपं धरित्री बहुरूपिणी । यां दुदोह पृथुस्तत्र को वत्सो दोहनं च किम् ॥#} 
 <ls>BHĀG. P. 4, 17, 3. - 1, 10, 3. 4, 17, 7.</ls> Vgl. auch {#धेनु#} . 
@@ -123,7 +123,7 @@
 <div n="1">— 15) {%Auge%} 
 <ls>AK.</ls> <ls>H. an.</ls> fem. <ls>TRIK.</ls> <ls>MED.</ls> m. f.<ls>Uṇ.</ls>, <ls>Sch.</ls> 
 <div n="1">— 16) {%das Haar auf dem Körper%}, <lex>m.</lex> <lex>f.</lex> 
-<ls>Uṇ.,</ls> <ls>Sch.</ls> <lex>m.</lex> <lex>n.</lex> (also {#गु#}) 
+<ls>Uṇ.</ls>, <ls>Sch.</ls> <lex>m.</lex> <lex>n.</lex> (also {#गु#}) 
 <ls>BHĀNUD.</ls> Vgl. 
 <ls>2.</ls> {#गोदान#} . 
 <div n="1">— 17) <lex>f.</lex> {%Mutter%} 
@@ -138,8 +138,8 @@
 <ls>H. 241.</ls> 
 <ls>H. an.</ls> fem. <ls>TRIK.</ls> <ls>MED.</ls> <ls>Uṇ.</ls>, <ls>Sch.</ls> {#जन्मप्रभृति मत्यां ते वेद्मि गां ब्रह्मवादिनीम्#} 
 <ls>MBH. 1, 72.</ls> {#तस्यार्ध्यमासनं चैव गां चावेद्य#} 
-<ls>3, 16696.</ls> {#यो ऽसत्सेवी वृथाचारो च श्रोता सुहृदां सताम् । परान्वृणीते स्वान्द्वेष्टि तं गौस्त्यजति भारत ॥#} 
-<ls>5, 4149.</ls> {#तथेति गामुक्तवते#} 
+<ls n="MBH.">3, 16696.</ls> {#यो ऽसत्सेवी वृथाचारो च श्रोता सुहृदां सताम् । परान्वृणीते स्वान्द्वेष्टि तं गौस्त्यजति भारत ॥#} 
+<ls n="MBH.">5, 4149.</ls> {#तथेति गामुक्तवते#} 
 <ls>RAGH. 2, 59.</ls> {#रघोरुदारामपि गां निशम्य#} 
 <ls>5, 12.</ls> Diese und die folgende Bed. hat man wohl in Folge der Herleitung von {#गा#} {%singen%} angenommen. 
 <div n="1">— 20) {%Lobsänger%} 

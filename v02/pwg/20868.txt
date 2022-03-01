@@ -5,17 +5,17 @@
 <div n="2"> a) {%lückig, angebrochen; zerbrochen, zertheilt%}: {#शस्त्र#} 
 <ls>SUŚR. 1, 27, 15.</ls> {#चक्र#} 
 <ls>98, 2.</ls> {#खण्डचन्द्राकार#} 
-<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 2, 4, 37.</ls> <ls>Ind. St. 2, 262,</ls> <ls>N.</ls> Hierher gehört wohl auch: {#शङ्कुलाखण्डम् = शङ्कुलया खण्डम्#} 
-<ls>P. 2, 1, 30,</ls> 
-<ls>Sch.</ls> 
+<ls>Sch.</ls> zu <ls>KĀTY. ŚR. 2, 4, 37.</ls> <ls>Ind. St. 2, 262</ls>, <ls>N.</ls> Hierher gehört wohl auch: {#शङ्कुलाखण्डम् = शङ्कुलया खण्डम्#} 
+<ls>P. 2, 1, 30</ls>, <ls>Sch.</ls> 
+
 <div n="2">— b) {%mangelhaft, krüppelhaft%} 
-<ls>Schol.</ls> zu <ls>ŚĀṄKH. ŚR. 16, 18, 18.</ls> <ls>Z. d. d. m. G. 9,</ls> <ls>LXXI.</ls> Vgl. {#षण्ड#} . 
+<ls>Schol.</ls> zu <ls>ŚĀṄKH. ŚR. 16, 18, 18.</ls> <ls>Z. d. d. m. G. 9</ls>, <ls>LXXI.</ls> Vgl. {#षण्ड#} . 
 <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 251,b,1.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 251,b,1.</ls> 
 <div n="2"> a) {%Lücke, Bruch%}: {#केदारखण्ड#} {%ein Bruch in einem eingedämmten, unter Wasser stehendem Felde%} (anders u. d. W. nach 
 <ls>WILSON</ls>): {#°खण्डं बधान#} 
 <ls>MBH. 1, 685. fgg.</ls> {#अत्र केदारखण्डे निःसरमाणमुदकमवारणीयं संरोद्धुं संविष्टो भगवच्छब्दं श्रुत्वैव सहसा विदार्य केदारखण्डं भवन्तमुपस्थितः#} 
-<ls>693.</ls> {#महतेवाम्बुवेगेन भिन्नः सेतुर्जलागमे । दुरावारं त्वदन्येन राज्यखण्डमिदं महत् ॥#} 
+<ls n="MBH. 1,">693.</ls> {#महतेवाम्बुवेगेन भिन्नः सेतुर्जलागमे । दुरावारं त्वदन्येन राज्यखण्डमिदं महत् ॥#} 
 <ls>R. 2, 105, 3.</ls> 
 <div n="2">— b) {%Stück, Theil%} 
 <ls>AK. 1, 1, 2, 17.</ls> 
@@ -40,13 +40,13 @@
 <ls>MBH. 13, 7414.</ls> {#खण्डीकर्#} {%zerstückeln, zerschneiden%} 
 <ls>PAÑCAT. 262, 16.</ls> 
 <ls>RAGH. 16, 51.</ls> 
-<ls>H. 132,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 132</ls>, <ls>Sch.</ls> 
+
 <div n="2">— c) {%Abschnitt eines Werkes, Theil, Abtheilung%}; z. B. im 
-<ls>AIT.</ls> <ls>ĀRAṆYAKA,</ls> <ls>KENOP.</ls> 
+<ls>AIT.</ls> <ls>ĀRAṆYAKA</ls>, <ls>KENOP.</ls> 
 <div n="2">— d) {%Partie, Anzahl, Menge, Gruppe%}: {#नीलं गहनं वनखण्डमपश्यत्#} 
 <ls>MBH. 3, 13147. fg.</ls> {#रक्तोत्पलवने चैव मणिखण्डैर्हिरण्मयैः । तरुणादित्यसंकाशैर्भान्ति तत्र जलाशयाः ॥#} 
-<ls>13, 3823.</ls> {#वृक्षख꣡ण्डः, तरु°, पादप°#} 
+<ls n="MBH.">13, 3823.</ls> {#वृक्षख꣡ण्डः, तरु°, पादप°#} 
 <ls>KĀŚ.</ls> zu <ls>P. 4, 2, 38.</ls> {#कमलख꣡ण्डम्, अम्भोज°#} u. s. w. <is>gaṇa</is> {#कमलादि#} 
 <ls>KĀŚ.</ls> zu <ls>P. 4, 2, 51.</ls> {#कदली°#} 
 <ls>MBH. 3, 11120.</ls>

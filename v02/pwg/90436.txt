@@ -1,11 +1,11 @@
 <L>90436<pc>6-0952<k1>वार्षिक<k2>वा꣡र्षिक
 {#वा꣡र्षिक#}¦ ved. und {#वार्षिक꣡#} in der klass. Spr. (von {#वर्षा, वर्ष#}) 
-<ls>P. 4, 3, 18.fg.</ls> 
+<ls>P. 4, 3, 18. fg.</ls> 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> ({#ई#}) {%pluvialis, zur Regenzeit gehörig u.s.w.%} 
 <ls>H. an. 3, 96.</ls> 
 <ls>MED. k. 156.</ls> {#आप^ः#} {%Regenwasser%} 
 <ls>AV. 1, 6, 4.</ls> {#तक्मन्#} 
-<ls>5, 22, 13.</ls> {#ऋतु#} 
+<ls n="AV.">5, 22, 13.</ls> {#ऋतु#} 
 <ls>VS. 14, 15.</ls> 
 <ls>ŚAT. BR. 10, 2, 5, 11.</ls> {#मासौ#} 
 <ls>AIT. BR. 4, 26.</ls> 
@@ -29,20 +29,20 @@
 <ls>HARIV. 2844.</ls> {#त्वमिवाज्ञातवसतिं चन्द्रो वसति वार्षिकीम्#} 
 <ls n="HARIV.">3571.</ls> {#लिङ्ग#} 
 <ls>SUŚR. 1, 21. 6.</ls> {#वासस्#} 
-<ls>P. 4, 3, 18, Schol.</ls> {#वार्षिकी#} und {#वार्षिकोदका नदी#} {%ein Fluss. der nur während der Regenzeit Wasser hat%}, 
+<ls>P. 4, 3, 18</ls>, Schol. {#वार्षिकी#} und {#वार्षिकोदका नदी#} {%ein Fluss. der nur während der Regenzeit Wasser hat%}, 
 <ls>MBH. 5, 7363.</ls> <ls n="MBH. 5,">7368.</ls> {%sich auf die Regenzeit verstehend, sich mit der Bestimmung derselben abgebend%} <is>gaṇa</is> {#वमन्तादि#} zu 
 <ls>P. 4, 2, 63.</ls> 
 <div n="2">— b) {%auf ein Jahr ausreichend%}: {#अन्न#} 
 <ls>YĀJÑ. 1, 124.</ls> {#भिक्षा#} 
 <ls>MBH. 12, 6296.</ls> {#संचय#} 
-<ls>8892. 13, 4464.</ls> {%ein Jahr während%} 
+<ls n="MBH. 12,">8892.</ls> <ls n="MBH.">13, 4464.</ls> {%ein Jahr während%} 
 <ls>MĀRK. P. 69, 58.</ls> {%jährlich%}: {#कर#} {%Abgabe. Tribut%} 
 <ls>HARIV. 4209.</ls> 
 <ls>BHĀG. P. 10, 5, 31.</ls> {#यात्रा#} 
 <ls>Verz. d. Oxf. H. 70,b,13.</ls> {#महापूजा#} 
 <ls>103,a,14.</ls> <ls>MĀRK. P. 92,11.</ls> {#सर्ववार्षिकपर्वसु#} 
 <ls>BHĀG. P. 11, 11, 37.</ls> Häufig in comp. mit einem Zahlworte, {%so und so viele Jahre während, - alt, - ausreichend, - jährig%} 
-<ls>P. 5, 1, 88. 7, 3, 16.</ls> {#त्रि°#} 
+<ls>P. 5, 1, 88.</ls> <ls n="P.">7, 3, 16.</ls> {#त्रि°#} 
 <ls>PAÑCAT. 167, 2.</ls> {#पञ्च°#} 
 <ls>ĀPAST.</ls> beim Schol. zu <ls>KĀTY. ŚR. 541, 6.</ls> <ls>MBH. 13, 3587.</ls> {#सप्त°#} 
 <ls>PAÑCAT. 167, 2.</ls> {#दश°#} 

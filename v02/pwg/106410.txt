@@ -7,7 +7,7 @@
 <ls>DHĀTUP. 25, 17.</ls> {#सिस्रति#} 
 (v. l. {#सस्रति#}) 
 <ls>NAIGH. 2, 14.</ls> {#सि꣡स्रते#} 3. pl. {#असरत्#} aor. 
-<ls>P. 3, 1, 56. 7, 4, 16.</ls> 
+<ls>P. 3, 1, 56.</ls> <ls n="P.">7, 4, 16.</ls> 
 <ls>VOP. 8, 91. fg.</ls> {#स꣡रत्, सरन्; असार्षीत्#} 
 <ls>VOP. 8, 91. fg.</ls> {#सर्षत्#} 
 <ls>AV. 4, 11, 3.</ls> {#ससा꣡र, ससृम#} 
@@ -38,8 +38,8 @@
 <ls>MEGH. 54.</ls> {#सस्रुस्तत्र#} {%sie begaben sich dahin%} 
 <ls>BHĀG. P. 10, 75, 21.</ls> {%sich hinbegeben zu%} (acc.): {#दमयन्तीं सृत्वा#} 
 <ls>MBH. 3, 2728.</ls> {%losgehen auf%}: {#(तम्) ससाराभिमुखः शूरः शार्दूल इव कुञ्जरम्#} 
-<ls>7, 561. 8, 2729.</ls> {%verfolgen%}: {#ससार मृगमेकाकी#} 
-<ls>1, 1696. 14, 2299.</ls> {%sich entfernen%}: {#सरति सहसा बाह्वोर्मध्यं गताप्यबला सती#} 
+<ls n="MBH.">7, 561.</ls> <ls n="MBH.">8, 2729.</ls> {%verfolgen%}: {#ससार मृगमेकाकी#} 
+<ls n="MBH.">1, 1696.</ls> <ls n="MBH.">14, 2299.</ls> {%sich entfernen%}: {#सरति सहसा बाह्वोर्मध्यं गताप्यबला सती#} 
 <ls>MĀLAV. 69.</ls> 
 <ls>BHĀG. P. 4, 31, 20.</ls> {%hinübergehen über%}: {#निष्पाद्य हरयः सेतुं प्रतीताः सस्रुरर्णवम्#} 
 <ls>R. 5, 95, 44.</ls> — med. {%in's Fliessen gerathen%} (vom {%Abgehen%}
@@ -93,7 +93,7 @@ des Fruchtwassers vor der Geburt): {#सिस्र^ता\ं#} (für {#सि
 <ls>ŚĀK. CH. 4, 2.</ls> {%entlang gehen%}: {#सरस्वतीम्#} 
 <ls>M. 11, 77.</ls> 
 <ls>MBH. 1, 3989.</ls> {#पन्थानम्#} 
-<ls>3, 11556.</ls> {#पदवीम्#} 
+<ls n="MBH.">3, 11556.</ls> {#पदवीम्#} 
 <ls>BHĀG. P. 5, 1, 39.</ls> {#मूषकमार्गम्#} 
 <ls>PAÑCAT. 137, 12.</ls> {#तद्रक्तधाराम्#} 
 <ls>KATHĀS. 22, 228. 39, 76.</ls> {#ब्रह्मवर्त्मनि#} 
@@ -140,7 +140,7 @@ des Fruchtwassers vor der Geburt): {#सिस्र^ता\ं#} (für {#सि
 <ls>R. 3, 78, 8.</ls> 
 <div n="1">— 2) {%verfolgen%}: {#(दस्यवः) अनुसार्यमाणा बहुभी रक्षिभिः#} 
 <ls>MBH. 1, 4309.</ls> <ls n="MBH.">8, 2977.</ls> {%einer Sache nachgehen%}: {#विद्या कर्म च#} u. s. w. {#अर्थार्थमनुसार्यन्ते#} 
-<ls>12, 12457.</ls>
+<ls n="MBH.">12, 12457.</ls>
 
 <div n="p">— {#अत्यनु#} caus. {%zu sehr verfolgen%}: {#भग्नान्#} 
 <ls>MBH. 12, 3675.</ls>
@@ -204,7 +204,7 @@ des Fruchtwassers vor der Geburt): {#सिस्र^ता\ं#} (für {#सि
 <div n="p">— {#अभि#} {%herbeilaufen, - fliessen zu%} (acc.) 
 <ls>ṚV. 1, 52, 5.</ls> <ls n="ṚV.">9, 82, 3.</ls> {%hinzutreten, sich Jmd%} (acc.) {%nähern, losgehen auf%} (auch in feindlicher Absicht) 
 <ls>MBH. 1, 1175.</ls> <ls n="MBH. 1,">3002.</ls> <ls n="MBH.">2, 2225.</ls> <ls n="MBH.">3, 2388.</ls> <ls n="MBH. 3,">15676.</ls> <ls n="MBH. 3,">16863.</ls> <ls n="MBH.">6, 2585</ls> (nach der Lesart der ed. Bomb.). 
-<ls>2672. 14, 2168.</ls> <ls>R. 2, 87, 7 (95, 8 GORR.). 7, 37, 5, 4.</ls> <ls>GĪT. 9, 2. 11, 7.</ls> <ls>BHĀG. P. 1, 9, 38. 9, 10, 21. 10, 3, 22. 23, 19.</ls> {%sich irgendwohin begeben%}: {#लङ्कां युद्धाय#} 
+<ls n="MBH. 6,">2672.</ls> <ls n="MBH.">14, 2168.</ls> <ls>R. 2, 87, 7 (95, 8 GORR.). 7, 37, 5, 4.</ls> <ls>GĪT. 9, 2. 11, 7.</ls> <ls>BHĀG. P. 1, 9, 38. 9, 10, 21. 10, 3, 22. 23, 19.</ls> {%sich irgendwohin begeben%}: {#लङ्कां युद्धाय#} 
 <ls>R. 6, 16, 24.</ls> {#कर्णिकाकमलम्#} eine Biene 
 <ls>Spr. (II) 4891.</ls> {#कैलासहाससुभगामाशाम्#} 
 <ls>KATHĀS. 19, 107.</ls> {#तत्र#} 
@@ -301,7 +301,7 @@ v. l. für {#उत्प्लुत्य#} {%in die Höhe springend%}
 <ls>SARVADARŚANAS. 1, 14. fg.</ls> (in Güte) {%Jmd entlassen%} 
 <ls>RĀJA-TAR. 2, 165.</ls> {%hinaustreten lassen%} so v. a. {%hinführen zu%}: {#एकान्तम्#} 
 <ls>MBH. 3, 7430.</ls> {%herausfordern%} (zum Kampf) 
-<ls>3, 14872.</ls> {%ausstreuen%}: {#वधूत्सारितहेमलाजाः#} 
+<ls n="MBH.">3, 14872.</ls> {%ausstreuen%}: {#वधूत्सारितहेमलाजाः#} 
 <ls>KATHĀS. 34, 257.</ls> 
 <div n="v">— Vgl. {#उत्सारक#} fgg. (auch in den Nachträgen).
 
@@ -367,7 +367,7 @@ v. l. für {#उत्प्लुत्य#} {%in die Höhe springend%}
 <div n="p">— {#निस्#} {%herausgehen, herauskommen, hervorkommen, hervortreten, zum Vorschein kommen%}: {#ग्रामादरण्यम्#} 
 <ls>M. 6, 4.</ls> {#पुरोत्तमात्#} 
 <ls>MBH. 4, 811.</ls> {#खङ्गः कोशात्#} 
-<ls>5, 1910.</ls> <ls>Spr. (II) 2310.</ls> {#नभसः सरस्वती#} {%eine Stimme%} 
+<ls n="MBH.">5, 1910.</ls> <ls>Spr. (II) 2310.</ls> {#नभसः सरस्वती#} {%eine Stimme%} 
 <ls>KATHĀS. 23, 59.</ls> 
 <ls>BHĀG. P. 3, 13, 39. 18, 7.</ls> {#यतो यतो निःसरति मनः#} 
 <ls>7, 15, 33.</ls> <ls>SARVADARŚANAS. 150, 20.</ls> <ls>PAÑCAT. 195, 8. 260, 16. ed. orn. 34, 7.</ls> <ls>HIT. 20, 14. 43, 13.</ls> <ls>Z. d. d. m. G. 14, 575, 21.</ls> {#बहिः#} 
@@ -430,7 +430,7 @@ med.
 <ls>NĀṬYAŚ. 18, 4.</ls> <ls>VARĀH. BṚH. S. 54, 4.</ls> <ls>BHĀG. P. 2, 8, 26. 3, 13, 21. 4, 11, 3. 5, 16, 23.</ls> {#वाग्वि°#} 
 <ls>Spr. (II) 6027.</ls> {#क्रोध° (अग्नि)#} 
 <ls>MBH. 3, 187.</ls> {#त्वच्छरीर°#} 
-<ls>1739.</ls> <ls>R. 3, 79, 29.</ls> <ls>VIKR. 43.</ls> <ls>VARĀH. BṚH. S. 1, 5. 33, 13.</ls> <ls>MĀRK. P. 56, 21</ls> (fälschlich {#°विनिसृताः#} gedr.). 
+<ls n="MBH. 3,">1739.</ls> <ls>R. 3, 79, 29.</ls> <ls>VIKR. 43.</ls> <ls>VARĀH. BṚH. S. 1, 5. 33, 13.</ls> <ls>MĀRK. P. 56, 21</ls> (fälschlich {#°विनिसृताः#} gedr.). 
 <ls>BHĀG. P. 4, 21, 30.</ls>
 
 <div n="p">— {#अनुविनिस्#} {%der Reihe nach herauskommen%}: {#पुराणमेतद्वेदाश्च मुखेभ्यो (ब्रह्मणः) ऽनुविनिःसृताः#} 
@@ -447,7 +447,7 @@ med.
 <ls n="ṚV. 9,">87, 6.</ls> {#यदेनं सरस्वती समन्तं परिससार#} 
 <ls>AIT. BR. 2, 20.</ls> 
 <ls>AV. 2, 14, 6.</ls> {#वर्त्मा^नि#} 
-<ls>6, 67, 1.</ls> {#परिसस्रुरापः#} {%flossen hier und da, - allerwärts%} 
+<ls n="AV.">6, 67, 1.</ls> {#परिसस्रुरापः#} {%flossen hier und da, - allerwärts%} 
 <ls>MBH. 3, 10983.</ls> {#परिसरति (परिपतति#} ed. Bomb.) {#शिखी भ्रान्तिमद्वारियन्त्रम्#} {%umschreitet%} 
 <ls>MĀLAV. 33.</ls> {#प्रदक्षिणं तं परिसृत्य#} 
 <ls>BHĀG. P. 11, 29, 45.</ls> ohne acc. {%umherlaufen, umhergehen%} 
@@ -496,7 +496,7 @@ med.
 <ls>KATHĀS. 18, 2.</ls> {#दिशः प्रसस्रुस्ते वीराः#} 
 <ls>HARIV. 8120.</ls> {#कृष्णः प्रससार भीष्मम्#} {%losgehen auf%} 
 <ls>MBH. 6, 2597.</ls> <ls n="MBH.">12, 6592.</ls> {#येन येन प्रसरतो वाय्वग्नी सहितौ वने#} 
-<ls>7, 106.</ls> {#प्रसरति दावाग्निः#} 
+<ls n="MBH.">7, 106.</ls> {#प्रसरति दावाग्निः#} 
 <ls>ṚT. 1, 25.</ls> {#कथं च प्रसरत्वेतच्छस्त्रं कृपणयोर्द्वयोः#} 
 <ls>KATHĀS. 21, 78.</ls> {#प्रसरति मनः कार्यारम्भे#} 
 <ls>Spr. (II) 4282.</ls> {%verfliessen, verstreichen%} 241. {%in Gang kommen, beginnen%}: {#प्रसरति मधौ#} ({%Frühling%}) 
@@ -558,9 +558,9 @@ in <ls>Ind. St. 10, 89.</ls> {#°च्छन्दस्#}
 <ls>MBH. 13, 3257.</ls> 
 <ls>PAÑCAR. 3, 14, 17.</ls> {#ब्राह्मणः प्रसृताग्रभुक्#} 
 <ls>MBH. 5, 2887.</ls> <ls n="MBH.">13, 2142</ls> ({#अतिथिः#} wie in der folgenden Stelle mit der ed. Bomb. zu lesen). 
-<ls>3221.</ls> {#प्रसृताग्रप्रदायिन्#} 
-<ls>4740</ls>; vgl. {#अग्रभोज्याः प्रसूतीनाम्#} 
-<ls>2150.</ls> 
+<ls n="MBH. 13,">3221.</ls> {#प्रसृताग्रप्रदायिन्#} 
+<ls n="MBH. 13,">4740</ls>; vgl. {#अग्रभोज्याः प्रसूतीनाम्#} 
+<ls n="MBH. 13,">2150.</ls> 
 <div n="2">— h) fehlerhaft für {#प्रश्रित#} (s. auch u. {#श्रि#} mit {#प्र#}) {%anspruchlos, bescheiden%}: Personen 
 <ls>MBH. 5, 3445</ls> ({#अति°#}). 
 <ls>R. 2, 108, 14.</ls> 
@@ -628,7 +628,7 @@ in <ls>Ind. St. 10, 89.</ls> {#°च्छन्दस्#}
 <ls>54, 113.</ls> {#सूत्रम्#} (des Baumeisters) 
 <ls>VARĀH. BṚH. S. 53, 108.</ls> {#वाहिनीः सुप्रसारिताः (= सुप्रसारितापणाः#} Comm.) 
 <ls>R. 2, 36, 3.</ls> Waaren {%ausbreiten%} so v. a. {%zum Verkauf ausstellen%} 
-<ls>P. 6, 1, 82, Schol.</ls> <ls>VOP. 26, 16.</ls> <ls>AK. 2, 9, 82.</ls> <ls>M. 5, 129.</ls> {#वणिजो न प्रसारयन्#} 
+<ls>P. 6, 1, 82</ls>, Schol. <ls>VOP. 26, 16.</ls> <ls>AK. 2, 9, 82.</ls> <ls>M. 5, 129.</ls> {#वणिजो न प्रसारयन्#} 
 <ls>R. 2, 48, 13</ls> ({#नाप्रसारयन्!#} 
 <ls>45, 6</ls> <ls>GORR.</ls>). 
 <div n="1">— 3) {%ausbreiten%} so v. a. {%weit aufreissen, - öffnen%}: {#चक्षुषी#} 
@@ -767,9 +767,9 @@ in <ls>Ind. St. 10, 89.</ls> {#°च्छन्दस्#}
 <ls>KATHĀS. 69, 4.</ls> {#स्वेन संसरते पथा#} 
 <ls>Spr. (II) 5324.</ls> 
 <ls>BHĀG. P. 3, 9, 10. 6, 5, 15.</ls> insbes. {%aus einem Leben in's andere wandern und die damit verbundenen Leiden empfinden%} 
-<ls>MAITRYUP. 6, 30.</ls> <ls>YĀJÑ. 3, 169.</ls> <ls>MBH. 12, 1009</ls> (med.). <ls>14, 455.</ls> <ls>SĀṂKHYAK. 40. 62.</ls> <ls>Spr. (II) 6061.</ls> <ls>BHĀG. P. 3, 32, 14. 4, 2, 24. 8, 22, 25. 10. 70, 39. 73, 15. 11, 9, 20.</ls> {#जातीषु#} 
+<ls>MAITRYUP. 6, 30.</ls> <ls>YĀJÑ. 3, 169.</ls> <ls>MBH. 12, 1009</ls> (med.). <ls n="MBH.">14, 455.</ls> <ls>SĀṂKHYAK. 40. 62.</ls> <ls>Spr. (II) 6061.</ls> <ls>BHĀG. P. 3, 32, 14. 4, 2, 24. 8, 22, 25. 10. 70, 39. 73, 15. 11, 9, 20.</ls> {#जातीषु#} 
 <ls>MBH. 14, 1266.</ls> {#बह्वीर्योनीः#} 
-<ls>13, 1871. 14, 1575</ls> (med.). {#पापान्संसारान्#} 
+<ls n="MBH.">13, 1871.</ls> <ls n="MBH.">14, 1575</ls> (med.). {#पापान्संसारान्#} 
 <ls>M. 12, 70.</ls> 
 <div n="1">— 3) {%sich verbreiten in%} (acc.): {#संसरन्ति दिशः सर्वा यशसो ऽस्य इवांशवः#} 
 <ls>MBH. 4, 2276.</ls> 

@@ -6,7 +6,7 @@
 <ls>R. GORR. 1, 8, 14.</ls> {#शशाम, अशमत्#}; im Epos aus metrischen Rücksichten auch med.; {#शमित्वा#} und {#शान्त्वा#} 
 <ls>P. 7, 2, 56.</ls> 
 <ls>VOP. 26, 208.</ls> absol. {#शमम्#} und {#शामम्#} (angeblich vom caus.) 
-<ls>P. 6, 4, 93, Schol.</ls> pass. impers. {#शम्यते, अशमि#} 
+<ls>P. 6, 4, 93</ls>, Schol. pass. impers. {#शम्यते, अशमि#} 
 <ls>P. 7, 3, 34.</ls> 
 <ls>VOP. 24, 6.</ls> partic. {#शान्त#} s. bes. {%ruhig —, still werden, befriedigt sein; aufhören, sich legen, erlöschen%}: {#भू\तान्यशा^म्यन्#} 
 <ls>VS. 14, 31.</ls> {#इ\मौ लो\कावशा^म्यताम्#} 
@@ -19,7 +19,7 @@
 <ls>MBH. 1, 6362.</ls> <ls n="MBH.">4, 651.</ls> 
 <ls>R. 4, 44, 45.</ls> {#शाम्यते#} 
 <ls>MBH. 5, 3864.</ls> {#नहि ते जातु शाम्येरन्नृते राज्येन#} 
-<ls>4678.</ls> {#यदा शाम्यन्ति विप्रुषः#} 
+<ls n="MBH. 5,">4678.</ls> {#यदा शाम्यन्ति विप्रुषः#} 
 <ls>ŚAT. BR. 14, 2, 2, 28.</ls> 
 <ls>ṢAḌV. BR. 5, 10.</ls> 
 <ls>ŚĀṄKH. GṚHY. 6, 6.</ls> 
@@ -55,14 +55,14 @@
 <ls>DHĀTUP. 19, 70.</ls> 
 <ls>P. 6, 4, 92.</ls> 
 <ls>VOP. 18, 24.</ls> {#अशीशमत्#}; Bildung des pass. 
-<ls>P. 6, 4, 62. 93.</ls> 
+<ls>P. 6, 4, 62.</ls> <ls n="P. 6, 4,">93.</ls> 
 <ls>VOP. 24, 5.</ls> partic. {#शमित#} (nach 
 <ls>P. 7, 2, 27.</ls> 
 <ls>VOP. 26, 114</ls> und den Lexicographen angeblich auch {#शान्त#}). 
 <div n="2"> a) {%beruhigen, stillen, beschwichtigen; zurechtbringen%} überh.; {%einen Fehler gut machen, placare%}: {#रोग^म्#} 
 <ls>AV. 2, 3, 4.</ls> {#अ\ग्निम्#} 
-<ls>3, 21, 8.</ls> {#म\न्युम्#} 
-<ls>7, 74, 3.</ls> <ls>VS. S.</ls> {#५८#}.{# शुच^म्#} 
+<ls n="AV.">3, 21, 8.</ls> {#म\न्युम्#} 
+<ls n="AV.">7, 74, 3.</ls> <ls>VS. S.</ls> {#५८#}.{# शुच^म्#} 
 <ls>TS. 5, 1, 5, 1.</ls> 
 <ls>AIT. BR. 1, 13. 3, 36. 6, 21.</ls> das Feuer {#श\म्या^शमयत्#} 
 <ls>TBR. 1, 1, 3, 11. 6, 7.</ls> {#हे\तिम्#} 
@@ -78,14 +78,14 @@
 <ls>R. GORR. 1, 76, 11.</ls> {#अथर्वा सजते घोरमद्भुतं शमयेत्तथा#} 
 <ls>AV. PARIŚ.</ls> in <ls>Ind. St. 1, 296.</ls> {#पापकृत्याम्#} 
 <ls>MBH. 1, 672.</ls> {#ब्रह्मास्त्रेणैव सर्वमशीशमत्#} 
-<ls>7, 8624.</ls> {#उपद्रवम्#} 
+<ls n="MBH.">7, 8624.</ls> {#उपद्रवम्#} 
 <ls>KATHĀS. 115, 112.</ls> {#दैवं प्रतिकूलम्#} 
 <ls>ŚĀK. 7, 16.</ls> {#शान्तिभिः#} 
 <ls>VARĀH. BṚH. S. 43, 61.</ls> {#दुरितानि#} 
 <ls>103, 13. 104, 48.</ls> {#तपः#} 
 <ls>KUMĀRAS. 2, 56.</ls> {#तद्वचः#} 
 <ls>MBH. 1, 576.</ls> {#अस्त्रमस्त्रेण#} ebend. und 
-<ls>4, 398.</ls> <ls>HARIV. 14005.</ls> {#अश्मवर्षं वायुं च#} 
+<ls n="MBH.">4, 398.</ls> <ls>HARIV. 14005.</ls> {#अश्मवर्षं वायुं च#} 
 <ls>MBH. 5, 2394.</ls> {#यज्ञविप्लवम्#} 
 <ls>RĀJA-TAR. 1, 184.</ls> {#विकृतीः#} 
 <ls>PAÑCAR. 3, 13, 22.</ls> {#पापम्#} 
@@ -123,8 +123,8 @@
 <ls>9, 78.</ls> {#यथा वह्निं मन्युम्#} 
 <ls>BHĀG. P. 10, 89, 4.</ls> {#अग्निम्#} 
 <ls>MBH. 1, 1136.</ls> {#दावम्#} 
-<ls>8297. 4, 397</ls> (med.). 
-<ls>5, 1880.</ls> <ls>R. 5, 87, 10.</ls> <ls>ṚT. 1, 4.</ls> <ls>RAGH. 7, 45.</ls> <ls>MEGH. 54. ad 18.</ls> <ls>Spr. (II) 2723.</ls> <ls n="Spr.">(I) 2940.</ls> <ls>RĀJA-TAR. 4, 125.</ls> <ls>BHĀG. P. 7, 9, 25.</ls>Inschr. in <ls>Journ. of the Am. Or. S. 7, 25, Śl. 3.</ls> {#अशमितनख#} so v. a. {%nicht in Ordnung gehalten, vernachlässigt%} 
+<ls n="MBH. 1,">8297.</ls> <ls n="MBH.">4, 397</ls> (med.). 
+<ls n="MBH.">5, 1880.</ls> <ls>R. 5, 87, 10.</ls> <ls>ṚT. 1, 4.</ls> <ls>RAGH. 7, 45.</ls> <ls>MEGH. 54. ad 18.</ls> <ls>Spr. (II) 2723.</ls> <ls n="Spr.">(I) 2940.</ls> <ls>RĀJA-TAR. 4, 125.</ls> <ls>BHĀG. P. 7, 9, 25.</ls>Inschr. in <ls>Journ. of the Am. Or. S. 7, 25, Śl. 3.</ls> {#अशमितनख#} so v. a. {%nicht in Ordnung gehalten, vernachlässigt%} 
 <ls>MEGH. 89, v. l.</ls> für {#अनियमितनख#} . 
 <div n="2">— b) euphemistisch so v. a. {%zum Tode bringen; Jmd aus dem Wege räumen, unschädlich machen, vernichten%}: {#प्र\जां प\शून्#} 
 <ls>TS. 3, 1, 3, 2.</ls> {#वैनतेयशमितस्य भोगिनः#} 
@@ -144,12 +144,12 @@
 <div n="1">— 2) {#शामयति#} (
 <ls>VOP. 18, 24</ls>) aus metrischen Rücksichten: {#द्रोणास्त्रम् - अशामयत्#} (am Ende eines <is>Śloka</is>) 
 <ls>MBH. 7, 4000.</ls> {#तस्मिंस्तमसि शामिते#} ({#नाशिते#} ed. Bomb.) 
-<ls>9, 633.</ls> pass. {#शाम्यताम्#} 
+<ls n="MBH.">9, 633.</ls> pass. {#शाम्यताम्#} 
 <ls>R. 5, 41, 4.</ls> 
 <ls>MĀRK. P. 114, 33</ls> in der Bed. {%werde aus dem Wege geräumt, - unschädlich gemacht%} vielleicht fehlerhaft für {#शम्यताम्#} .
 
 <div n="p">— intens. {#शंशन्ति, शंशान्तस्#} 
-<ls>P. 6, 4, 15, Schol.</ls> {%vollständig erlöschen%}: {#तेजांसि शंशमां चक्रुः#} 
+<ls>P. 6, 4, 15</ls>, Schol. {%vollständig erlöschen%}: {#तेजांसि शंशमां चक्रुः#} 
 <ls>BHAṬṬ. 14, 67.</ls>
 
 <div n="p">— {#अनु#} {%hinterher ruhig werden, - aufhören, - sich legen%}: {#°शाम्यत#} med. 
@@ -173,9 +173,9 @@
 <ls>MBH. 3, 1008.</ls> {#उपशाम्यतु ते बुद्धिः#} 
 <ls>BHAṬṬ. 20, 5.</ls> {#दुःखं शारीरम्#} 
 <ls>MBH. 3, 72.</ls> {#शब्दः#} 
-<ls>16, 38.</ls> {#रजो भौमम्#} 
-<ls>4, 1051</ls> ({#उपा°#} ed. Bomb.) 
-<ls>1775. 6, 78.</ls> {#अग्निः#} 
+<ls n="MBH.">16, 38.</ls> {#रजो भौमम्#} 
+<ls n="MBH.">4, 1051</ls> ({#उपा°#} ed. Bomb.) 
+<ls n="MBH. 4,">1775.</ls> <ls n="MBH.">6, 78.</ls> {#अग्निः#} 
 <ls>ĀŚV. GṚHY. 1, 9, 3.</ls> 
 <ls>AIT. BR. 7, 5.</ls> 
 <ls>NIR. 4, 14.</ls> 
@@ -183,7 +183,7 @@
 <ls>CHĀND. UP. 2, 12, 1.</ls> 
 <ls>Spr. 2975.</ls> {#कोपाग्निः#} 
 <ls>MBH. 13, 7178.</ls> med. : {#त्यक्त्वा मन्युमुपशाम्यस्व (व्युप°#} ed. Bomb.) 
-<ls>6, 5812.</ls> {#उपशाम्येरन् (अग्नयः)#} 
+<ls n="MBH.">6, 5812.</ls> {#उपशाम्येरन् (अग्नयः)#} 
 <ls>AIT. BR. 7, 8.</ls> {#यथा निरिन्धनो वह्निः स्वयोना उपशाम्यते । तथा वृत्तिक्षयाच्चित्तं स्वयोना उपशाम्यते ॥#} 
 <ls>MAITRYUP. 6, 34.</ls> {#उपशान्त#} {%beruhigt%}, von Personen 
 <ls>KATHĀS. 72, 100.</ls> 
@@ -195,7 +195,7 @@
 <ls>VARĀH. BṚH. S. 97,17.</ls> 
 <ls>DAŚAK. 67,18.</ls> <ls>Verz. d. Oxf. H. 145,b, No. 306, Z. 13.</ls> mit verlängertem Wurzelvocal (aus metrischen Rücksichten): {#पुष्पायुधम् - उपशामय#} 
 <ls>MBH. 1, 6577.</ls> {#अगस्त्येनापि वातापिः किंमर्थमुपशामितः#} so v. a. {%zur ewigen Ruhe gebracht%} 
-<ls>3, 8541. 8645.</ls> {#मुखवातोपशामित#} {%durch Blasen abgekühlt%} (Speise) 
+<ls n="MBH.">3, 8541.</ls> <ls n="MBH. 3,">8645.</ls> {#मुखवातोपशामित#} {%durch Blasen abgekühlt%} (Speise) 
 <ls>MĀRK. P. 50, 45.</ls> 
 <div n="v">— Vgl. {#उपशमन#} fg.
 
@@ -204,8 +204,8 @@
 
 <div n="p">— {#व्युप#} {%sich beruhigen, aufhören, sich legen%}: {#त्यक्त्वा मन्युं व्युपशाम्यस्व#} (so ed. Bomb.) 
 <ls>MBH. 6, 5812.</ls> {#इयं चिन्ता मे शश्वन्न व्युपशाम्यति#} 
-<ls>5, 2363.</ls> {#तत्तमो व्युपशशाम#} 
-<ls>7, 9427.</ls> {#न चापि वैरं वैरेण व्युपशाम्यति#} 
+<ls n="MBH.">5, 2363.</ls> {#तत्तमो व्युपशशाम#} 
+<ls n="MBH.">7, 9427.</ls> {#न चापि वैरं वैरेण व्युपशाम्यति#} 
 <ls>Spr. (II) 3233.</ls> Vgl. {#व्युपशम#} .
 
 <div n="p">— {#समुप#} dass.: {#शब्दः समुपशाम्यति#} 
@@ -213,7 +213,7 @@
 
 <div n="p">— {#नि#} caus. {%zur Ruhe —, zurecht bringen%} 
 <ls>AV. 6, 52, 3.</ls> {#मन\ उद्यु^तम्#} 
-<ls>111, 2.</ls>
+<ls n="AV. 6,">111, 2.</ls>
 
 <div n="p">— {#प्रणि#} 
 <ls>P. 8, 4, 17.</ls> 
@@ -318,7 +318,7 @@
 
 <div n="p">— {#प्रति#}, partic. {#°शान्त#} dass.: {#°शोक#} 
 <ls>MBH. 12, 891.</ls> absol. {#°शाम्य#} {%erloschen seiend%} 
-<ls>454.</ls> Vgl. {#प्रतिशम#} .
+<ls n="MBH. 12,">454.</ls> Vgl. {#प्रतिशम#} .
 
 <div n="p">— {#सम्#} 
 <div n="1"> 1) {%vollständig zur Ruhe gelangen%}: {#संशाम्य मा शुचः#} 
@@ -347,5 +347,5 @@
 <ls>Spr. (II) 1682.</ls> {#अग्निम्#} {%auslöschen%} 
 <ls>R. 2, 97, 15.</ls> {#त्वामपि कालः संशमयिष्यति#} so v. a. {%zur ewigen Ruhe bringen%} 
 <ls>MBH. 12, 8143.</ls> {#भारतयुद्धपृष्ठम्#} {%den Garaus machen%} 
-<ls>5, 5780.</ls> Vgl. {#संशमन#} fg.
+<ls n="MBH.">5, 5780.</ls> Vgl. {#संशमन#} fg.
 <LEND>

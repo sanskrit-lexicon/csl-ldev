@@ -2,8 +2,8 @@
 2. {#कल्#}¦, {#कल꣡यति#} 
 <ls>DHĀTUP. 35, 13</ls> ({%gehen, zählen%}). 
 <div n="1"> 1) {%treiben, antreiben%}: {#दण्डोपघातं गाः कलयति#} 
-<ls>P. 3, 4, 48,</ls> 
-<ls>Sch.</ls> {#जवस्य मम पर्यन्तः किं नु स्यादिति मेदिनीम् । कलयन्तमिव#} (von einem Pferde in schnellem Laufe) 
+<ls>P. 3, 4, 48</ls>, <ls>Sch.</ls>
+{#जवस्य मम पर्यन्तः किं नु स्यादिति मेदिनीम् । कलयन्तमिव#} (von einem Pferde in schnellem Laufe) 
 <ls>KATHĀS. 18, 90.</ls> {#आपाने पानकलिता दैवेनाभिप्रचोदिताः । एरकारूपिभिर्वज्रैर्निजघ्नुरितरेतरम् ॥#} 
 <ls>MBH. 1, 620.</ls> {#राक्षसा हि सुयुद्धेन भवन्त्वद्य रणाजिरे । आहारकलिताः सर्वे युगपत्कपिभोजनाः ॥#} 
 <ls>R. 5, 83, 10.</ls> {#कालः कलयतामहम् (कृष्णः)#} 
@@ -50,7 +50,7 @@
 <div n="1">— 7) denom. von {#कलि#} ({%ein best. Würfel) den%} <is>Kali</is> {%ergreifen%} (vgl. {#कृतय्#}) 
 <ls>P. 3, 1, 21.</ls> 
 <ls>VOP. 21, 17.</ls> {#अचकलत्#} 
-<ls>P., <is>Vārtt</is>.</ls> <ls>VOP. 8, 112. 21, 17.</ls> 
+<ls>P.</ls>, <is>Vārtt</is>. <ls>VOP. 8, 112. 21, 17.</ls> 
 <div n="1">— 8) vom partic. {#कलित#} kennen die Lexicographen noch folgg. Bedd.: = {#आप्त#} {%erlangt%} 
 <ls>TRIK. 3, 3, 154.</ls> 
 <ls>H. an. 3, 257.</ls> 
@@ -70,7 +70,7 @@
 <div n="p">— {#आ#} 
 <div n="1"> 1) {%schütteln%}: {#मारुताकलितास्तत्र द्रुमाः#} 
 <ls>MBH. 1, 2853.</ls> {#ईषदाकलितं#} ({%sich schüttelnd, zitternd%}) {#चापि क्रोधाद्द्रुतपदं स्थितम्#} 
-<ls>4, 762.</ls> {#केशानाकलयन् (मरुत्)#} 
+<ls n="MBH.">4, 762.</ls> {#केशानाकलयन् (मरुत्)#} 
 <ls>BHARTṚ. 1, 50</ls> (die var. l. hat {#आकुलयन्#}, welches auch wegen des grössern Gleichklangs mit dem folgenden {#मुकुलयन्#} vorzuziehen
 [Page2-0151]
 ist). {%werfen, schleudern%} 

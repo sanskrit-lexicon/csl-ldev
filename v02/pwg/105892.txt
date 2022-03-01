@@ -24,9 +24,9 @@ wirkliches Adjectiv gebraucht.
 <ls n="ṚV.">6, 72, 3.</ls> {#तस्या^ः समु\द्रा अधि\ वि क्ष^रन्ति#} {%entströmen Wasserfluthen%} 
 <ls n="ṚV.">1, 164, 42.</ls> {#विश्वव्यचस्#} 
 <ls>VS. 5, 33. 6, 28. 11, 20.</ls> 
-<ls>AV. 4, 10, 5. 27, 4.</ls> {#द\र्भो भू\रिमू^लः समु\द्रमव^ तिष्ठति#} {%im Wasser, im See%} 
-<ls>6, 43, 2.</ls> {#स\मु\द्र ई^शे स्र\वता^म्#} 
-<ls>86, 2. 10, 5, 23.</ls> {#न समुद्रः क्षीयते#} 
+<ls>AV. 4, 10, 5.</ls> <ls n="AV. 4,">27, 4.</ls> {#द\र्भो भू\रिमू^लः समु\द्रमव^ तिष्ठति#} {%im Wasser, im See%} 
+<ls n="AV.">6, 43, 2.</ls> {#स\मु\द्र ई^शे स्र\वता^म्#} 
+<ls n="AV. 4,">86, 2.</ls> <ls n="AV.">10, 5, 23.</ls> {#न समुद्रः क्षीयते#} 
 <ls>AIT. BR. 3, 39. 5, 16.</ls> {#यथा समुद्रं प्रप्लवेरन्#} 
 <ls>6, 21.</ls> {#राजानं परिगृह्य तिष्ठति समुद्र इव भूमिम्#} 
 <ls>8, 25.</ls> <ls>ŚAT. BR. 7, 1, 1, 13.</ls> {#ऊर्ध्व एव समुद्रो विजते#} 14. {#अनन्त#} 
@@ -55,7 +55,7 @@ wirkliches Adjectiv gebraucht.
 <ls>VET. in LA. (III) 1, 15.</ls> {#°मध्ये#} 
 <ls>KATHĀS. 18, 294.</ls> {#°कुक्षि#} 
 <ls>MBH. 1, 1282.</ls> <ls n="MBH.">2, 1198.</ls> <ls n="MBH.">3, 12063.</ls> {#°नाभि#} 
-<ls>793.</ls> {#°तीर#} 
+<ls n="MBH. 3,">793.</ls> {#°तीर#} 
 <ls>Verz. d. Oxf. H. 344,b,7. 8.</ls> {#°पारं गतः#} 
 <ls>VET. in LA. (III) 18, 22.</ls> {#°लहरी#} 
 <ls>Spr. (II) 6860.</ls> {#°वीची#} 
@@ -84,7 +84,7 @@ wirkliches Adjectiv gebraucht.
 <div n="1"> 1) gezogen werden. 
 <div n="1">— 4) <lex>m.</lex> Bez. {%der Zahl%} 
 100, 000, 000, 000, 000 (vgl. {#वार्धि#}) 
-<ls>H. 874,</ls> <ls>Schol.</ls> <ls>TS. 7, 2, 20, 1.</ls> <ls>ŚĀṄKH. ŚR. 15, 11, 7.</ls> <ls>MBH. 13, 5267.</ls> 
+<ls>H. 874</ls>, <ls>Schol.</ls> <ls>TS. 7, 2, 20, 1.</ls> <ls>ŚĀṄKH. ŚR. 15, 11, 7.</ls> <ls>MBH. 13, 5267.</ls> 
 <div n="1">— 5) <lex>m.</lex> <lex>n.</lex> {%ein best. Metrum%} 
 <ls>TS. 5, 2, 6, 1.</ls> {%von 104 Silben%} 
 <ls>Ind. St. 8, 107. fgg.</ls> {%ein%} <is>Daṇḍaka</is>-{%Metrum%} 

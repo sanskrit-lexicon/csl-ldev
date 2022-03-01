@@ -2,7 +2,7 @@
 {#सेव्#}¦, {#से꣡वति#} und {#से꣡वते (सेवने)#} 
 <ls>DHĀTUP. 14, 30.</ls> {#सिषेवे, असेविष्ट#} 
 <ls>VOP. 8, 118.</ls> {#सेविष्यते, सेवितुम्; सेवित्वा#} 
-<ls>P. 1, 2, 18, Schol.</ls>; act. nur hier und da des Metrums wegen. Der Gegensatz von {#सेव्#} ist {#त्यज्#} . 
+<ls>P. 1, 2, 18</ls>, Schol.; act. nur hier und da des Metrums wegen. Der Gegensatz von {#सेव्#} ist {#त्यज्#} . 
 <div n="1"> 1) mit loc. {%sich aufhalten bei%}: {#अश्वः श्वेतः स्थाणौ सेवते#} 
 <ls>ŚAT. BR. 3, 6, 2, 4. 5.</ls> 
 <div n="1">— 2)
@@ -27,7 +27,7 @@ mit acc. {%sich aufhalten —, verweilen bei, besuchen, bewohnen, zum Aufenthalt
 <ls>Spr. (II) 788.</ls> {#सरो देवगणैः सेवितम्#} 
 <ls>ŚUK.</ls> in <ls>LA. (III) 33, 3.</ls> {#देवगन्धर्व°#} 
 <ls>MBH. 1, 1104.</ls> <ls n="MBH. 1,">5950.</ls> <ls n="MBH.">3, 1756.</ls> <ls n="MBH. 3,">1758.</ls> <ls n="MBH. 3,">2402.</ls> {#शार्दूलमृग°#} 
-<ls>2488. 5, 7095. 7351.</ls> <ls>R. 1, 51, 23. 2, 27, 11. 54, 27. 68, 15. 95, 3. 104, 2.</ls> <ls>R. GORR. 1, 34, 22. 37, 8.</ls> {#अगस्त्यसेवितामाशाम्#} 
+<ls n="MBH. 3,">2488.</ls> <ls n="MBH.">5, 7095.</ls> <ls n="MBH. 5,">7351.</ls> <ls>R. 1, 51, 23. 2, 27, 11. 54, 27. 68, 15. 95, 3. 104, 2.</ls> <ls>R. GORR. 1, 34, 22. 37, 8.</ls> {#अगस्त्यसेवितामाशाम्#} 
 <ls>3, 22, 8. 66, 2. 78, 3.</ls> <ls>Spr. (II) 5949.</ls> <ls>BHĀG. P. 1, 6, 12. 3, 33, 32. 4, 10, 5.</ls> {#पदव्यो ऽवधूतसेविताः#} 
 <ls>4, 4, 21.</ls> 
 <div n="1">— 3) mit acc. {%bei Jmd verweilen%} so v. a. {%Jmd Dienste leisten, aufwarten, seine Achtung, - Unterthänigkeit%} u. s. w. {%bezeigen, es mit Jmd halten%}: {#वृद्धान्#} 
@@ -67,7 +67,7 @@ mit acc. {%sich aufhalten —, verweilen bei, besuchen, bewohnen, zum Aufenthalt
 <ls>11, 210.</ls> {#निवृत्तं कर्म#} 
 <ls>12, 90.</ls> {#अध्यात्मयोगनिद्राम्#} 
 <ls>MBH. 1, 1218</ls> (act.). {#धर्मकामार्थान्#} 
-<ls>8052.</ls> {#कामं प्रकामं सेव त्वं मया सह विलासिनि#} 
+<ls n="MBH. 1,">8052.</ls> {#कामं प्रकामं सेव त्वं मया सह विलासिनि#} 
 <ls n="MBH.">4, 401.</ls> <ls>HARIV. 7269</ls> (act.). <ls>R. 2, 109, 20.</ls> <ls>R. GORR. 1, 80, 15. 2, 46, 17.</ls>
 [Page7-1191]
 {#मधूनि#} 
@@ -169,8 +169,8 @@ mit acc. {%sich aufhalten —, verweilen bei, besuchen, bewohnen, zum Aufenthalt
 <ls>CHĀND. UP. 2, 22, 1.</ls> {#विषयान्#} 
 <ls>BHAG. 15, 9.</ls> {#संधिम्, विग्रहम्#} 
 <ls>MBH. 2, 159.</ls> <ls n="MBH.">5, 822.</ls> {#वृत्तिमन्याम्#} 
-<ls>12, 6726.</ls> {#सर्गं मूत्रपुरीषयोः#} (so v. a. {%vollbringen%}) 
-<ls>13,7567.</ls>
+<ls n="MBH.">12, 6726.</ls> {#सर्गं मूत्रपुरीषयोः#} (so v. a. {%vollbringen%}) 
+<ls n="MBH.">13, 7567.</ls>
 [Page7-1192]
 {#पानम्#} 
 <ls>R. 5, 14, 35.</ls> 
@@ -189,7 +189,7 @@ mit acc. {%sich aufhalten —, verweilen bei, besuchen, bewohnen, zum Aufenthalt
 <ls>R. 1, 35, 23.</ls>
 
 <div n="p">— {#नि#}, {#°षेवते, न्यषेवत, निषिषेवे#} 
-<ls>P. 8, 3, 63. fg. 70.</ls> 
+<ls>P. 8, 3, 63. fg.</ls> <ls n="P. 8, 3,">70.</ls> 
 <ls>VOP. 8, 45. 118.</ls> 
 <div n="1"> 1) mit loc. 
 <div n="2"> a) {%wohnen bleiben%}: {#इ\हैके^न\ नि षे^वते#} 
@@ -211,7 +211,7 @@ mit acc. {%sich aufhalten —, verweilen bei, besuchen, bewohnen, zum Aufenthalt
 <ls>HARIV. 15879</ls> ({#निसे°#} die ältere Ausg.). 
 <ls>R. GORR. 2, 47, 3.</ls> {#मृगव्याल°#} 
 <ls>MBH. 3, 2355.</ls> <ls n="MBH. 3,">2427.</ls> <ls n="MBH. 3,">2498.</ls> <ls n="MBH. 3,">2528.</ls> <ls n="MBH. 3,">2534.</ls> <ls n="MBH. 3,">2566.</ls> {#पितृ°#} 
-<ls>16896. 12, 4256.</ls> <ls>R. 2, 26, 28. 50, 11. 54, 28. 74, 27. 92, 11. 99, 11. 5, 13, 15</ls> (zu lesen {#°पनिषे°#}). 
+<ls n="MBH. 3,">16896.</ls> <ls n="MBH.">12, 4256.</ls> <ls>R. 2, 26, 28. 50, 11. 54, 28. 74, 27. 92, 11. 99, 11. 5, 13, 15</ls> (zu lesen {#°पनिषे°#}). 
 <ls>Spr. (II) 503.</ls> <ls n="Spr. (II)">3112.</ls> 
 <ls>PAÑCAT. 31, 1.</ls> 
 <ls>BHAṬṬ. 8, 3.</ls> 
@@ -237,8 +237,8 @@ mit acc. {%sich aufhalten —, verweilen bei, besuchen, bewohnen, zum Aufenthalt
 <ls>9, 228.</ls> {#विषयान्#} 
 <ls>12, 73.</ls> {#कर्म#} 
 <ls>81.</ls> <ls>MBH. 1, 6124.</ls> {#स्वप्नम्#} 
-<ls>3, 11877. 13798.</ls> {#वारि पम्पायाः#} 
-<ls>16100. 4, 509.</ls> <ls>R. GORR. 2, 35, 47. 3, 61, 40. 7, 78, 16.</ls> <ls>SUŚR. 1, 69, 20. 130, 8. 254, 6. 2, 373, 16.</ls> <ls>KĀM. NĪTIS. 1, 49. 63. 18, 38.</ls> <ls>KUMĀRAS. 1, 6. 5, 76.</ls> <ls>ŚIŚ. 4, 66. 9, 68</ls> ({#निषेवितम्#} zu lesen). 
+<ls n="MBH.">3, 11877.</ls> <ls n="MBH. 3,">13798.</ls> {#वारि पम्पायाः#} 
+<ls n="MBH. 3,">16100.</ls> <ls n="MBH.">4, 509.</ls> <ls>R. GORR. 2, 35, 47. 3, 61, 40. 7, 78, 16.</ls> <ls>SUŚR. 1, 69, 20. 130, 8. 254, 6. 2, 373, 16.</ls> <ls>KĀM. NĪTIS. 1, 49. 63. 18, 38.</ls> <ls>KUMĀRAS. 1, 6. 5, 76.</ls> <ls>ŚIŚ. 4, 66. 9, 68</ls> ({#निषेवितम्#} zu lesen). 
 <ls>WEBER, RĀMAT. UP. 329.</ls> {#द्वावनर्थौ#} {%geniessen%} so v. a. {%theilhaftig werden%} 
 <ls>Spr. (II) 723.</ls> {#कर्मणा मनसा वाचा यदभीक्ष्णं निषेवते#} {%üben, treiben%} 
 <ls>1560. 3779. 4095. 4597. 5308. 5597. 5600, v. l.</ls> <ls>VARĀH. BṚH. S. 76, 6. 77, 4. 78, 21.</ls> <ls>KATHĀS. 27, 18.</ls> <ls>RĀJA-TAR. 3, 257</ls> ({#न्यषेवत#} zu lesen). 
@@ -263,7 +263,7 @@ mit acc. {%sich aufhalten —, verweilen bei, besuchen, bewohnen, zum Aufenthalt
 <div n="v">— Vgl. {#संनिषेव्य#} .
 
 <div n="p">— {#परि#}, {#°षेवते, पर्यषेवत, °षिषेव#} 
-<ls>P. 8, 3, 63. fg. 70.</ls> 
+<ls>P. 8, 3, 63. fg.</ls> <ls n="P. 8, 3,">70.</ls> 
 <ls>VOP. 8, 45. 118.</ls>
 [Page7-1193]
 die Texte haben {#स#} (auch ed. Bomb.) und {#ष#} . 
@@ -281,7 +281,7 @@ die Texte haben {#स#} (auch ed. Bomb.) und {#ष#} .
 <ls>VOP. 8, 118.</ls>
 
 <div n="p">— {#वि#}, {#°षेवते, व्यषेवत, °षिषेव#} 
-<ls>P. 8, 3, 63. fg. 70.</ls> 
+<ls>P. 8, 3, 63. fg.</ls> <ls n="P. 8, 3,">70.</ls> 
 <ls>VOP. 8, 45. 118.</ls>
 
 <div n="p">— {#सम्#} 

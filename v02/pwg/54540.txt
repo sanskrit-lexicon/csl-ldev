@@ -12,9 +12,9 @@
 <ls n="ṚV. 2,">8, 4.</ls> <ls n="ṚV. 2,">16, 4.</ls> <ls n="ṚV.">3, 21, 4.</ls> <ls n="ṚV. 3,">61, 7.</ls> <ls n="ṚV.">4, 1, 17.</ls> {#ऊ\र्ध्वं भा\नुं स^विता\ दे\वो अ^श्रेत्#} 
 <ls n="ṚV. 4,">13, 2.</ls> <ls n="ṚV. 4,">45, 1.</ls> {#सूर्यस्य#} 
 <ls n="ṚV.">5, 37, 1.</ls> {#(सिन्धुः) अ\न\न्तं शुष्ममु\दि^यर्ति भा\नुना^#} 
-<ls>10, 75, 3.</ls> pl. <ls>1, 36, 3. 87, 6. 92, 2.</ls> {#अग्नेः#} 
+<ls n="ṚV.">10, 75, 3.</ls> pl. <ls n="ṚV.">1, 36, 3.</ls> <ls n="ṚV. 1,">87, 6.</ls> <ls n="ṚV. 1,">92, 2.</ls> {#अग्नेः#} 
 <ls n="ṚV. 5,">97, 5.</ls> <ls n="ṚV. 5,">143, 3.</ls> {#उत्ते^ शो\चिर्भा\नवो\ द्याम^पप्तन्#} 
-<ls>6, 64, 2.</ls> - <ls>AV. 18, 3. 29. 19, 7, 2.</ls> <ls>VS. 11, 54. 12, 32.</ls> {#जालान्तरगते भानौ यत्सूक्ष्मं दृश्यते रजः#} 
+<ls n="ṚV.">6, 64, 2.</ls> - <ls>AV. 18, 3, 29.</ls> <ls n="AV.">19, 7, 2.</ls> <ls>VS. 11, 54. 12, 32.</ls> {#जालान्तरगते भानौ यत्सूक्ष्मं दृश्यते रजः#} 
 <ls>M. 8, 132.</ls> {#निर्दग्धा भानुभानुभिः#} 
 <ls>LIṄGA-P.</ls> bei <ls>MUIR, ST. IV, 325.</ls> {#सहस्रभानुना - भानुना#} 
 <ls>ŚIŚ. 1, 27.</ls> 
@@ -41,7 +41,7 @@
 <ls>VAIJ. a. a. O.</ls> 
 <div n="2">— g) N. pr. eines <is>Devagandharva</is> 
 <ls>MBH. 1, 2555.</ls> eines Sohnes des <is>Kṛṣṇa</is> 
-<ls>2, 56.</ls> <ls>HARIV. 9183.</ls> <ls>VP. 591.</ls> N. pr. eines <is>Yādava</is> 
+<ls n="MBH.">2, 56.</ls> <ls>HARIV. 9183.</ls> <ls>VP. 591.</ls> N. pr. eines <is>Yādava</is> 
 <ls>HARIV. 8472.</ls> des Vaters des 15ten <is>Arhant's</is> der gegenwärtigen <is>Avasarpiṇī</is> 
 <ls>H. 37.</ls> N. pr. eines Fürsten, eines Sohnes des <is>Prativyoma</is>. 
 <ls>BHĀG. P. 9. 12, 10.</ls> N. pr. eines Sohnes des <is>Viśvadhara</is> und Bruders des <is>Harinātha</is> 

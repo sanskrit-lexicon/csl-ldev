@@ -1,13 +1,13 @@
 <L>33552<pc>3-0676<k1>दुर्ग<k2>दुर्ग꣡
 {#दुर्ग꣡#}¦ (2. {#दुष्#} + 1. {#ग#} als nom. act.) 
-<ls>P. 3, 2, 48, <is>Vārtt</is>. 3.</ls> 
+<ls>P. 3, 2, 48</ls>, <is>Vārtt</is>. 3. 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} {%wo schwer zu gehen ist, wohin schwer zu gelangen ist, schwer zu passiren, unwegsam, unzugänglich%} 
 <ls>H. an. 2, 33.</ls> 
 <ls>MED. g. 7.</ls> {#दु\र्गा तस्मा^ अधि\ष्ठाने^ पृथि\वी#} 
 <ls>AV. 12, 4, 23.</ls> {#दु\र्गाः स्रो\त्याः#} 
-<ls>10, 1, 16.</ls> {#गिरौ रम्ये दुर्गान्देशान्#} 
+<ls n="AV.">10, 1, 16.</ls> {#गिरौ रम्ये दुर्गान्देशान्#} 
 <ls>MBH. 1, 4648.</ls> {#देशो ऽत्ययं दुर्गतमः#} 
-<ls>3, 10837.</ls> <ls>KATHĀS. 11, 81.</ls> {#नदी#} 
+<ls n="MBH.">3, 10837.</ls> <ls>KATHĀS. 11, 81.</ls> {#नदी#} 
 <ls>R. 4, 41, 10.</ls> {#°गम्भीरपरिखा#} 
 <ls>1, 5, 10.</ls> {#वन#} 
 <ls>26, 13. 2, 27, 7. 3, 5, 21.</ls> <ls>N. 12, 63.</ls> {#विधमन्ति स्म दुर्गाणि स्थलानि च#} 
@@ -28,7 +28,7 @@
 <div n="2"> a) {%Bdellion%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) N. pr. eines <is>Asura</is>, den die Göttin <is>Durgā</is> erschlagen und nach dem sie benannt worden sein soll, 
-<ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 71,b,</ls> <ls>KAP. 71.</ls> {#दुर्गघ्ना#} 
+<ls>SKANDA-P.</ls> in <ls>Verz. d. Oxf. H. 71,b</ls>, <ls>KAP. 71.</ls> {#दुर्गघ्ना#} 
 <ls>HARIV. 9426</ls> als Beiw. der <is>Durgā</is> eher {%Entfernerin der Widerwärtigkeiten%} als {%Tödterin des%} <is>Durga</is>. 
 <div n="2">— c) N. pr. eines Mannes <is>gaṇa</is> {#नडादि#} zu 
 <ls>P. 4, 1, 99.</ls> Grammatiker und Lexicograph (auch Commentator des <is>Nirukta</is>) 
@@ -43,7 +43,7 @@
 <ls>MED.</ls> {#दुर्गा देवी#} 
 <ls>TAITT. ĀR. 10, 2, 3.</ls> 
 <ls>MBH. 4, 178.</ls> {#दुर्गात्तारयसे दुर्गे तत्त्वं दुर्गा स्मृता जनैः#} 
-<ls>198.</ls> <ls>VP. 499.</ls> {#दुर्गास्तव#} 
+<ls n="MBH. 4,">198.</ls> <ls>VP. 499.</ls> {#दुर्गास्तव#} 
 <ls>Ind. St. 2, 206.</ls> 
 <div n="2">— c) N. pr. einer Fürstin 
 <ls>RĀJA-TAR. 4, 659.</ls> 
@@ -70,7 +70,7 @@
 <ls>BHĀG. P. 7, 9, 18.</ls> {#दुर्गसह#} 
 <ls>HARIV. 5018.</ls> {#न च दुर्गाण्यवाप्नोति#} 
 <ls>MBH. 13, 3271.</ls> <ls n="MBH. 13,">4545.</ls> {#अर्थकृच्छ्रेषु दुर्गेषु व्यापत्सु स्वजनस्य च#} 
-<ls>3, 65.</ls> m.: {#दरीर्दुर्गांश्च शैलांश्च कृत्स्नान्#} 
+<ls n="MBH.">3, 65.</ls> m.: {#दरीर्दुर्गांश्च शैलांश्च कृत्स्नान्#} 
 <ls>R. 4, 47, 3.</ls> {#न स दुर्गानवाप्नोतीत्येवमाह पराशरः#} 
 <ls>MBH. 13, 3369.</ls> 
 <div n="2">— b) {%Unebenheit, Höhe%}: {#दुर्गं पथः#} 

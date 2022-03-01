@@ -24,7 +24,7 @@
 <ls>HARIV. 3745.</ls> <ls n="HARIV.">3747.</ls> {#द्वंद्वमन्ये युयुत्सवः#} 
 <ls n="HARIV.">2671.</ls> Hierher gehören auch mehrere der beim 
 <ls>Schol.</ls> zu <ls>P. 8, 1, 15</ls> (vgl. 
-<ls>3, 1, 64</ls>) aufgeführten, künstlich gedeuteten Beispiele. — 
+<ls n="P.">3, 1, 64</ls>) aufgeführten, künstlich gedeuteten Beispiele. — 
 <div n="1">— 2) <lex>n.</lex> {%ein Paar entgegengesetzter Zustände, Gegensätze%} (Hitze und Kälte, Freude und Leid u. s. w.) 
 <ls>VAIJ.</ls> {#तितिक्षा शीतोष्णादिद्वंद्वसहिष्णुता#} 
 <ls>VEDĀNTAS. (Allah.) No. 12.</ls> <ls>KAUṢ. UP.</ls> in <ls>Ind. St. 1, 401, 3.</ls> {#द्वंद्वैरयोजयच्चेमाः सुखदुःखादिभिः प्रजाः#} 
@@ -43,8 +43,8 @@
 <ls>HIT. III, 32.</ls> 
 <div n="1">— 4) <lex>n.</lex> {%ein Kampf zu Zweien, Zweikampf%}: {#योत्स्ये विप्र त्वया सह । द्वंद्वे#} 
 <ls>MBH. 5, 7083.</ls> {#एवं द्वंद्वसहस्राणि रथवारणवाजिनाम्#} 
-<ls>6, 1749.</ls> {#एवं द्वंद्वशतान्यासंस्त्वदीयानां परैः सह । घोररूपाणि#} 
-<ls>9, 568.</ls> {#द्वंद्वं दास्यामि ते तदा#} 
+<ls n="MBH.">6, 1749.</ls> {#एवं द्वंद्वशतान्यासंस्त्वदीयानां परैः सह । घोररूपाणि#} 
+<ls n="MBH.">9, 568.</ls> {#द्वंद्वं दास्यामि ते तदा#} 
 <ls>R. 1, 75, 29. 3, 54, 4.</ls> {#द्वंद्वे यस्य न तिष्ठन्ति देवगन्धर्वदानवाः#} 
 <ls>6, 12, 10.</ls> {#द्वंद्वं समीयुः#} 
 <ls>18, 22. 52.</ls> Vgl. {#द्वंद्वयुद्ध#} . 
@@ -57,13 +57,13 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>VAIJ.</ls> {#द्वंद्वं#} (adv.?) {#मन्त्रयते#} 
-<ls>P. 8, 1, 15,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 1, 15</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 8) <lex>m.</lex> (sc. {#समास#}) und <lex>n.</lex> (
 <ls>VS. PRĀT.</ls>) in der Gramm. {%eine Zusammensetzung zweier%} (dieses das Ursprüngliche) {%oder mehrerer einander coordinirter, durch `und´ verbunden gedachter Begriffe%} 
-<ls>H. an.</ls> <ls>VS. PRĀT. 2, 55.</ls> <ls n="VS. PRĀT.">3, 126.</ls> <ls n="VS. PRĀT.">5, 28.</ls> <ls>P. 2, 2, 29. 4, 2.</ls> {#नक्षत्र°#} 
-<ls>1, 2, 63.</ls> {#देवता°#} 
-<ls>6, 2, 141. 7, 3, 21.</ls> {#अक्षराणामकारो ऽस्मि द्वंद्वः सामासिकस्य च#} 
+<ls>H. an.</ls> <ls>VS. PRĀT. 2, 55.</ls> <ls n="VS. PRĀT.">3, 126.</ls> <ls n="VS. PRĀT.">5, 28.</ls> <ls>P. 2, 2, 29.</ls> <ls n="P. 2,">4, 2.</ls> {#नक्षत्र°#} 
+<ls n="P.">1, 2, 63.</ls> {#देवता°#} 
+<ls n="P.">6, 2, 141.</ls> <ls n="P.">7, 3, 21.</ls> {#अक्षराणामकारो ऽस्मि द्वंद्वः सामासिकस्य च#} 
 <ls>BHAG. 10, 33.</ls> 
 <div n="1">— 9) <lex>m.</lex> N. mehrerer <is>Ekāha</is> 
 <ls>KĀTY. ŚR. 22, 10, 7.</ls> 

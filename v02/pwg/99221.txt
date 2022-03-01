@@ -3,9 +3,9 @@
 <ls>P. 7, 4, 54.</ls> 
 <div n="1"> 1) act. {%versuchen, unternehmen%}: {#श\क्नोत्ये\व यच्छिक्ष^ति#} 
 <ls>TS. 2, 6, 2, 6.</ls> 
-<ls>AV. 6, 114, 2. 3.</ls> 
+<ls>AV. 6, 114, 2.</ls> <ls n="AV. 6, 114,">3.</ls> 
 <div n="1">— 2) med. (act. nur aus metrischen Rücksichten) 
-<ls>P. 1, 3, 21, <is>Vārtt</is>. 3.</ls> 
+<ls>P. 1, 3, 21</ls>, <is>Vārtt</is>. 3. 
 <ls>VOP. 19, 9. 12.</ls> 
 <ls>DHĀTUP. 16, 4</ls> ({#विद्योपादाने#}). {%lernen, einüben%}; mit acc. der Sache und abl. der Person (st. dessen auch {#सकाशात्#} mit gen. der Person): {#यत्र\ नार्यु^पच्य\वं शिक्ष^ते#} 
 <ls>ṚV. 1, 28, 3.</ls> {#शाक्त, शिक्षमाण#} {%Lehrer, Schüler%} 
@@ -13,7 +13,7 @@
 <ls n="ṚV.">8, 42, 3.</ls> {#सकाशादग्रजन्मनः । स्वं स्वं चरित्रं शिक्षेरन्#} 
 <ls>M. 2, 20.</ls> {#कथं द्रोणात् - सर्वाण्यस्त्राण्यशिक्षत#} 
 <ls>MBH. 1, 6326.</ls> <ls n="MBH.">2, 128.</ls> {#शिक्षस्व बुद्धिं स्थविराणां सकाशात्#} 
-<ls>2126. 4, 1537.</ls> <ls>RAGH. 3, 31.</ls> <ls>ŚĀK. 23.</ls> <ls>Spr. (II) 694.</ls> <ls n="Spr. (II)">2183.</ls> <ls n="Spr.">(I) 2494. 5006.</ls> <ls>KATHĀS. 25, 119. 113, 23.</ls> <ls>MĀRK. P. 27, 17.</ls> {#अशिक्षिष्ट#} 
+<ls n="MBH. 2,">2126.</ls> <ls n="MBH.">4, 1537.</ls> <ls>RAGH. 3, 31.</ls> <ls>ŚĀK. 23.</ls> <ls>Spr. (II) 694.</ls> <ls n="Spr. (II)">2183.</ls> <ls n="Spr.">(I) 2494. 5006.</ls> <ls>KATHĀS. 25, 119. 113, 23.</ls> <ls>MĀRK. P. 27, 17.</ls> {#अशिक्षिष्ट#} 
 <ls>BHAṬṬ. 15, 87.</ls> {#शिक्षमाण#} 
 <ls>R. GORR. 1, 80, 10.</ls> {#शिक्षाण#} 
 <ls>MBH. 3, 12048.</ls> {#शिक्षितुम्#} 
@@ -22,7 +22,7 @@
 <ls>ŚAT. BR. 14, 8, 2, 4</ls> (ohne Noth). 
 <ls>MBH. 1, 5520.</ls> <ls n="MBH.">3, 12020.</ls> 
 <ls>Spr. (II) 4654.</ls> <ls n="Spr.">(I) 3252.</ls> <ls>BHĀG. P. 7, 5, 22. 11, 3, 22. 33.</ls> mit einem loc. {%sich üben in%}: {#विद्यासु शिक्षते#} 
-<ls>P. 1, 3, 21, <is>Vārtt</is>. 3, Schol.</ls> {#वीणासु शिक्षन्ते#} 
+<ls>P. 1, 3, 21</ls>, <is>Vārtt</is>. 3, Schol. {#वीणासु शिक्षन्ते#} 
 <ls>KATHĀS. 106, 13.</ls> pass. {%erlernt werden%}: {#लोकयात्रा शिक्ष्यताम्#} 
 <ls>KAṬHĀS. 6, 52.</ls> {#शिक्षित#} {%erlernt%}: {#अशिक्षितनयः#} (so ist zu lesen) {#सिंहः#} 
 <ls>KĀM. NĪTIS. 11, 30.</ls> {#मया सुतीर्थादभिनयविद्या सुशिक्षिता#} 
@@ -100,13 +100,13 @@ Pferd). {#सु°#}
 <ls>ŚĀṄKH. BR. 23, 5.</ls> 
 <div n="1">— 2) {%lernen, erlernen, erforschen%}: {#शेषं कृष्णादुपशिक्षस्व#} 
 <ls>MBH. 13, 7358.</ls> {#उपशिक्षन्महास्त्राणि#} 
-<ls>3, 1790.</ls> {#उपशिक्षाम ते वृत्तं सदैव न च शक्नुमः#} 
-<ls>12, 483.</ls> {#समाधिनोपशिक्षन्तो ब्रह्मलोकं सनातनम्#} 
-<ls>13, 4418.</ls> {#इतिकृत्यमुपशिक्ष#} {%erforsche, erfahre%} 
+<ls n="MBH.">3, 1790.</ls> {#उपशिक्षाम ते वृत्तं सदैव न च शक्नुमः#} 
+<ls n="MBH.">12, 483.</ls> {#समाधिनोपशिक्षन्तो ब्रह्मलोकं सनातनम्#} 
+<ls n="MBH.">13, 4418.</ls> {#इतिकृत्यमुपशिक्ष#} {%erforsche, erfahre%} 
 <ls>BHĀG. P. 3, 23, 11.</ls> {#उपशिक्ष्य#} 
 <ls>5, 6, 10.</ls> {#उपशिक्षितुम्#} 
 <ls>MBH. 12, 9706.</ls> {#एवं मयास्त्राण्युपशिक्षितानि शक्रात्#} {%erlernt von%} 
-<ls>3, 11914.</ls> {#स्वात्मोपशिक्षित#} {%durch sich selbst%} 
+<ls n="MBH.">3, 11914.</ls> {#स्वात्मोपशिक्षित#} {%durch sich selbst%} 
 <ls>BHĀG. P. 11, 9, 24.</ls> 
 <div n="1">— 3) med. {%lehren%}, mit acc. der Sache und gen. der Person 
 <ls>BHĀG. P. 5, 5, 28.</ls> 

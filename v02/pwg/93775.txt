@@ -3,11 +3,11 @@
 <ls>P. 8, 3, 88.</ls> = {#स्थपुट#} 
 <ls>TRIK. 3, 1, 2.</ls> 
 <ls>HĀR. 124.</ls> {#विष꣡मम्#} adv. 
-<ls>P. 6, 2, 121, Schol.</ls> <is>gaṇa</is> {#तिष्ठद्ग्वादि#} zu 
-<ls>2, 1, 17.</ls> 
+<ls>P. 6, 2, 121</ls>, Schol. <is>gaṇa</is> {#तिष्ठद्ग्वादि#} zu 
+<ls n="P.">2, 1, 17.</ls> 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}) {%uneben%}: {#कालः समविषमकरः#} 
 <ls>Spr. (II) 1693.</ls> {#समं च विषमं चैव न प्राज्ञायत#} (so ed. Bomb.) {#किं च न#} 
-<ls>MBH. 6, 5644.</ls> Boden <ls>3, 651. fg. 7, 1954.</ls> <ls>HARIV. 360.</ls> <ls n="HARIV.">362.</ls> <ls>KĀM. NĪTIS. 15, 6. 19, 14.</ls> <ls>VARĀH. BṚH. S. 51, 4.</ls> {#अध्वन्#} 
+<ls>MBH. 6, 5644.</ls> Boden <ls n="MBH.">3, 651. fg.</ls> <ls n="MBH.">7, 1954.</ls> <ls>HARIV. 360.</ls> <ls n="HARIV.">362.</ls> <ls>KĀM. NĪTIS. 15, 6. 19, 14.</ls> <ls>VARĀH. BṚH. S. 51, 4.</ls> {#अध्वन्#} 
 <ls>SUŚR. 1, 198, 3.</ls> 
 
 <ls>R. GORR. 2, 86, 17.</ls> {#कापथ#} 
@@ -76,7 +76,7 @@
 <ls>BHĀG. P. 5. 1, 22. 38.</ls> {#°लक्ष्मी#} so v. a. {%Unglück%} 
 <ls>VARĀH. BṚH. S. 81, 27.</ls> {#कठिनविषमामेकवेणीम्#} {%unbequem%} 
 <ls>MEGH. 89.</ls> {%schwer zu verstehen%}: {#विषमोक्तयः#} 
-<ls>GOLĀDHY. Anf.</ls> <ls>H. 256, Schol.</ls> {#नयने#} {%grässlich, fürchterlich%} 
+<ls>GOLĀDHY. Anf.</ls> <ls>H. 256</ls>, Schol. {#नयने#} {%grässlich, fürchterlich%} 
 <ls>R. 5, 24, 18.</ls> von {%bösen, gefährlichen%} Thieren und Menschen: {#योषित्सर्प#} 
 <ls>Spr. (II) 410.</ls> {#हयाः#} 
 <ls>1357.</ls> {#जिह्मगाः#} und {#खलाः#} 

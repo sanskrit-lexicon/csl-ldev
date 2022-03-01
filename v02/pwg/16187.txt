@@ -6,9 +6,9 @@
 <ls>NIR. 6, 30.</ls> 
 <ls>H. 453.</ls> 
 <ls>MED. ṇ. 5.</ls> <ls>ṚV. 10, 155, 1.</ls> <ls>AV. 12, 4, 3.</ls> <ls>TS. 2, 5, 1, 7.</ls> <ls>M. 3, 155. 177. 242. 8, 274. 11, 118.</ls> <ls>MBH. 13, 4287.</ls> <ls>BHARTṚ. 1, 63.</ls> <ls>KATHĀS. 16, 11. 23. 25.</ls> <ls>VID. 65.</ls> {#अक्ष्णा काणः#} {%auf einem Auge blind%} 
-<ls>P. 2, 1, 30,</ls> 
-<ls>Sch. 3, 20,</ls> 
+<ls>P. 2, 1, 30</ls>, <ls>Sch. 3, 20,</ls>
 <ls>Sch.</ls> 
+
 <ls>Ind. St. 1, 52, 9.</ls> {#वामाक्षिकाणः#} 
 <ls>DHŪRTAS. 94, 9.</ls> {#अ꣡काण#} 
 <ls>TS. 6, 1, 6, 7.</ls> 
@@ -16,8 +16,8 @@
 <ls>KĀTY. ŚR. 22, 3, 19.</ls> 
 <div n="2">— b) {%ausgestochen, durchlöchert (perforated: as a cowrie broken or perforated by insects%} 
 <ls>HAUGHTON</ls>): {#अक्षि काणमस्य#} 
-<ls>P. 2, 3, 20,</ls> 
-<ls>Sch.</ls> {#काणेन चक्षुषा किं वा चक्षुः पीडैव केवलम्#} 
+<ls>P. 2, 3, 20</ls>, <ls>Sch.</ls>
+{#काणेन चक्षुषा किं वा चक्षुः पीडैव केवलम्#} 
 <ls>HIT. Pr. 11.</ls> {#पुनः कुब्जापि काणापि दानादुपरि (याति) कार्कटी#} ({%das gekrümmte Ende des Wagebalkens, an welches der Strick mit dem Wagebalken befestigt wird%}) 
 <ls>PAÑCAT. II, 74.</ls> {#प्राप्तः काणवराटको ऽपि न मया#} 
 <ls>BHARTṚ. 3, 5.</ls> 

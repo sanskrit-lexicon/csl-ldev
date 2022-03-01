@@ -8,20 +8,20 @@
 <ls>MBH. 13, 4564.</ls> {%handeln, feilschen%} 
 <ls>TS. 6, 1, 10, 1.</ls> 
 <div n="1">— 2) {%wetten%}: {#शतस्य#} (gen. des Einsazzes) {#पणते#} (könnte auch heissen {%ersteht es für hundert%}) 
-<ls>P. 2, 3, 57,</ls> 
-<ls>Sch. 3, 1, 28,</ls> 
-<ls>Sch.</ls> {#सपत्न्यौ पणिते तदा#} {%wetteten%} 
+<ls>P. 2, 3, 57</ls>, <ls>Sch. 3, 1, 28,</ls>
+<ls>Sch.</ls>
+{#सपत्न्यौ पणिते तदा#} {%wetteten%} 
 <ls>MBH. 1, 1225.</ls> {#ततस्ते पणितं कृत्वा#} {%Wette%} 
-<ls>1226.</ls> {#ततः सा विनता तस्मिन्पणितेन पराजिता#} 
-<ls>1238.</ls> {%spielen, spielen um%} (gen.): {#पणावः#} 
-<ls>3, 3047.</ls> {#पणेनैकेन भद्रं ते प्राणयोश्च पणावहे#} 
-<ls>3035.</ls> {#प्राणानामपणिष्टासौ रावणस्त्वामिहानयन्#} {%setzte sein Leben auf's Spiel%} 
+<ls n="MBH. 1,">1226.</ls> {#ततः सा विनता तस्मिन्पणितेन पराजिता#} 
+<ls n="MBH. 1,">1238.</ls> {%spielen, spielen um%} (gen.): {#पणावः#} 
+<ls n="MBH.">3, 3047.</ls> {#पणेनैकेन भद्रं ते प्राणयोश्च पणावहे#} 
+<ls n="MBH. 3,">3035.</ls> {#प्राणानामपणिष्टासौ रावणस्त्वामिहानयन्#} {%setzte sein Leben auf's Spiel%} 
 <ls>BHAṬṬ. 8, 121.</ls> {%Etwas%} (acc.) {%einsetzen beim Spiel%}: {#अयुतं प्रयुतं चैव#} u. s. w. {#पण्यताम्#} 
 <ls>MBH. 2, 2144.</ls> {#पणस्व कृष्णां पाञ्चालीम्#} 
-<ls>2172.</ls> {#द्रौपदी यत्र पण्यते#} 
-<ls>2254.</ls> {#अबुद्धिरेषा महती धर्मराजस्य पाण्डव । यदेकविजये युद्धं पणितं घोरमीदृशम् ॥#} so v. a. {%einen Kampf wagen, sich in einen Kampf wie in ein gefährliches Spiel einlassen%} 
-<ls>9, 3258.</ls> {%Jmd%} (acc.) {%im Spiel um Etwas%} (instr.) {%bringen%}: {#स रत्नकोषनिचयैः प्राणेन पणितो ऽपि च#} 
-<ls>3, 3048.</ls>
+<ls n="MBH. 2,">2172.</ls> {#द्रौपदी यत्र पण्यते#} 
+<ls n="MBH. 2,">2254.</ls> {#अबुद्धिरेषा महती धर्मराजस्य पाण्डव । यदेकविजये युद्धं पणितं घोरमीदृशम् ॥#} so v. a. {%einen Kampf wagen, sich in einen Kampf wie in ein gefährliches Spiel einlassen%} 
+<ls n="MBH.">9, 3258.</ls> {%Jmd%} (acc.) {%im Spiel um Etwas%} (instr.) {%bringen%}: {#स रत्नकोषनिचयैः प्राणेन पणितो ऽपि च#} 
+<ls n="MBH.">3, 3048.</ls>
 
 <div n="p">— {#आ#} s. {#आपण#} .
 
@@ -31,6 +31,6 @@
 <ls>PAÑCAT. I, 88.</ls> 
 <div n="1">— 2) {%wetten%}: {#श्वेत एवाश्वराजो ऽयं किं वा त्वं मन्यसे शुभे । ब्रूहि वर्णं त्वमप्यस्य ततो ऽत्र विपणावहे ॥#} 
 <ls>MBH. 1, 1191.</ls> {#न मे सुधन्वना सख्यं प्राणयोर्विपणावहे#} 
-<ls>5, 1206.</ls> 
+<ls n="MBH.">5, 1206.</ls> 
 <div n="v">— Vgl. {#विपण#} fgg.
 <LEND>

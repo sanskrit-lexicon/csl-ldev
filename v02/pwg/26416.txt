@@ -13,7 +13,7 @@
 <ls>an. 2, 90.</ls> 
 <ls>MED. ṭ. 14.</ls> <ls>PĀR.</ls> <ls>GṚHY. 2, 6.</ls> {#नीलाः प्रसन्नाश्च जटाः सुगन्धा हिरण्यरज्जुग्रथिताः सुदीर्घाः ।#} 
 <ls>MBH. 3, 10052.</ls> {#जटाः कृत्वात्मनः#} 
-<ls>1, 6086.</ls> <ls>R. 2, 52, 62. 63. 86, 21.</ls> {#जटाश्च बिभृयान्नित्यम्#} 
+<ls n="MBH.">1, 6086.</ls> <ls>R. 2, 52, 62. 63. 86, 21.</ls> {#जटाश्च बिभृयान्नित्यम्#} 
 <ls>M. 6, 6.</ls> {#°धरण#} 
 <ls>MBH. 3, 13455.</ls> {#°बन्धन#} 
 <ls>R. 1, 4, 20.</ls> {#जटाभार#} 
@@ -31,7 +31,7 @@
 <ls>BHĀG. P. 9, 10, 47.</ls> {#जटां छित्त्वा#} 
 <ls>R. 1, 1, 86.</ls> {#त्रिजटा#} <lex>adj.</lex> ({#राक्षसी#}) 
 <ls>MBH. 3, 16137.</ls> {#जटाजिनिन्#} d. i. {#जटिन्#} und {#अजिनिन्#} 
-<ls>1, 4917.</ls> 
+<ls n="MBH.">1, 4917.</ls> 
 <div n="2">— b) {%eine faserige Wurzel%} 
 <ls>AK. 2, 4, 1, 11.</ls> 
 <ls>H. 1120.</ls> {%Wurzel%} überh. 
@@ -49,7 +49,7 @@
 <div n="3">— ε) = {#रुद्रजटा#} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> - <ls>SUŚR. 2, 279, 15. 285, 13. 536, 12.</ls> 
 <div n="2">— d) N. eines <is>Pāṭha</is> des <is>Veda</is>, benannt nach der {%Verschlingung der Wörter%}, 
-<ls>ROTH,</ls> <ls>Zur L. u. G. d. W. 84.</ls> <ls>CARAṆAVYŪHA</ls> in <ls>Ind. St. 3, 269.</ls> {#जटापटल#} 
+<ls>ROTH</ls>, <ls>Zur L. u. G. d. W. 84.</ls> <ls>CARAṆAVYŪHA</ls> in <ls>Ind. St. 3, 269.</ls> {#जटापटल#} 
 <ls>Verz. d. B. H. No. 369</ls>; vgl. {#क्रमजट#} 
 <ls>Ind. St. 3, 252.</ls> 
 <div n="v">— Vgl. {#कृष्णजटा, विजट#} .

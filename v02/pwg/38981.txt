@@ -5,7 +5,7 @@
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) = {#अवनाय#} 
 <ls>AK. 3, 3, 27.</ls> {%das Niederfallenlassen, Sinkenlassen%}: {#स्रुगुद्यमननिपातनयोः#} 
-<ls>P. 3, 3, 36, <is>Vārtt</is>.</ls> {%das Niederfallenlassen%} (des Stockes) so v. a. {%Schlagen%} 
+<ls>P. 3, 3, 36</ls>, <is>Vārtt</is>. {%das Niederfallenlassen%} (des Stockes) so v. a. {%Schlagen%} 
 <ls>YĀJÑ. 3, 293.</ls> 
 <ls>M. 11, 208</ls>; vgl. {#दण्ड°#}.{# संतताश्रु°#} so v. a. {%ununterbrochenes Weinen%} 
 <ls>R. 6, 74, 24.</ls> {#शस्त्र°#} {%das Ansetzen des Messers%} 
@@ -16,8 +16,8 @@
 <ls>MBH. 12, 6098.</ls> {#चललक्ष्य°#} 
 <ls>RAGH. 9, 49.</ls> {#सौभद्रस्य#} 
 <ls>MBH. 7, 1479.</ls> {#त्रिपुरस्य#} 
-<ls>1, 543.</ls> {#सौभस्य#} 
-<ls>3, 875.</ls> 
+<ls n="MBH.">1, 543.</ls> {#सौभस्य#} 
+<ls n="MBH.">3, 875.</ls> 
 <div n="2">— c) in der Gramm. {%gelegentliches Erwähnen, Gebrauchen eines Wortes; eine Form, durch welche eine seltene Erscheinung, eine Unregelmässigkeit constatirt wird%}, 
 <ls>ṚV. PRĀT. 12, 9.</ls> {#°सूत्र#} 
 <ls>Schol.</ls> zu <ls>VS. PRĀT. 3, 71</ls> und <ls>73.</ls> Schol. zu <ls>P. 2, 3, 56</ls> und <ls n="P.">3, 2, 59.</ls> <ls>VOP. 6, 8.</ls> 

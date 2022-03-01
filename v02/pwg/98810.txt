@@ -11,8 +11,8 @@
 <ls>Ind. St. 1, 427. 2, 98.</ls> 
 <ls>BHAG. 2, 66.</ls> {#द्वैरथेनास्तु वै शान्तिस्तव वा मम वा#} 
 <ls>MBH. 3, 3037.</ls> {#शान्तिं न च गच्छति#} 
-<ls>15705.</ls> {#°गत#} 
-<ls>12, 6563.</ls> {#न लेभे शान्तिमात्मनः#} 
+<ls n="MBH. 3,">15705.</ls> {#°गत#} 
+<ls n="MBH.">12, 6563.</ls> {#न लेभे शान्तिमात्मनः#} 
 <ls>R. 1, 64, 16.</ls> {#न मे शान्तिर्भविष्यति#} 
 <ls>2, 99, 5. fgg.</ls> {#°परायण#} 
 <ls>R. GORR. 1, 76, 22. 4, 23, 7.</ls> <ls>KUMĀRAS. 4, 17.</ls> <ls>RAGH. 7, 68.</ls> <ls>ŚĀK. 95, v. l.</ls> <ls>VIKR. 24.</ls> <ls>MĀLATĪM. 87, 6.</ls> <ls>Spr. (II) 1287.</ls> <ls n="Spr. (II)">1705.</ls> <ls n="Spr. (II)">2753.</ls> <ls n="Spr. (II)">2977.</ls> {#°खङ्गः करे यस्य#} 
@@ -115,7 +115,7 @@
 <ls>BHĀG. P. 10, 61, 14.</ls> 
 <div n="2">— e) eines <is>Ṛṣi</is> 
 <ls>MBH. 12, 12759.</ls> eines Sohnes des <is>Aṅgiras</is> 
-<ls>13, 4147.</ls> eines Schülers des <is>Bhūti</is> 
+<ls n="MBH.">13, 4147.</ls> eines Schülers des <is>Bhūti</is> 
 <ls>MĀRK. P. 99, 11.</ls> 
 <div n="2">— f) eines Sohnes des <is>Nīla</is> und Vaters des <is>Suśānti</is> 
 <ls>VP. 453.</ls> 

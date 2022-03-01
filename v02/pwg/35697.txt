@@ -1,11 +1,11 @@
 <L>35697<pc>3-0832<k1>द्वितीय<k2>द्विती꣡य<h>1
 1. {#द्विती꣡य#}¦ (von {#द्वि#}) 
 <ls>P. 5, 2, 54.</ls> 
-<ls>VOP. 7, 43.</ls> Decl. <ls>P. 1, 1, 36, <is>Vārtt</is>. 2.</ls> <ls>P. 7, 3, 115.</ls> 
+<ls>VOP. 7, 43.</ls> Decl. <ls>P. 1, 1, 36</ls>, <is>Vārtt</is>. 2. <ls>P. 7, 3, 115.</ls> 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} {%der zweite%} 
 <ls>H. an. 3, 490.</ls> 
-<ls>MED. y. 84.</ls> <ls>ṚV. 8, 49, 9.</ls> <ls>AV. 11, 5, 4. 19, 22, 9.</ls> {#सवन#} 
-<ls>6, 47, 2. 9, 1, 12.</ls> {#द्वि\तीय^स्यां पृथि\व्याम्#} 
+<ls>MED. y. 84.</ls> <ls>ṚV. 8, 49, 9.</ls> <ls>AV. 11, 5, 4.</ls> <ls n="AV.">19, 22, 9.</ls> {#सवन#} 
+<ls n="AV.">6, 47, 2.</ls> <ls n="AV.">9, 1, 12.</ls> {#द्वि\तीय^स्यां पृथि\व्याम्#} 
 <ls>VS. 5, 9.</ls> {#नामानि#} 
 <ls>ŚAT. BR. 3, 6, 2, 24. 14, 8, 15, 9.</ls> 
 <ls>KĀTY. ŚR. 4, 10, 7. 11, 12. 24, 7, 14.</ls> 
@@ -42,7 +42,7 @@
 <ls>H. ś. 113.</ls> 
 <div n="2">— c) (sc. {#वर्ण#}) {%der zweite Laut%} (in einem <is>Varga</is>), {%die dumpfe Adspirata%} 
 <ls>ṚV. PRĀT. 6, 15.</ls> 
-<ls>VS. PRĀT. 1, 54. 4, 106. 119. <is>Vārtt</is>. 3</ls> zu <ls>P. 8, 4, 48.</ls> <ls>KĀŚ.</ls> zu <ls>P. 1, 1, 50.</ls> 
+<ls>VS. PRĀT. 1, 54. 4, 106. 119.</ls> <is>Vārtt</is>. 3 zu <ls>P. 8, 4, 48.</ls> <ls>KĀŚ.</ls> zu <ls>P. 1, 1, 50.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%die Gefährtin, Ehefrau%} 
 <ls>AK. 2, 6, 1, 5.</ls> 
@@ -55,5 +55,5 @@
 <div n="2">— c) (sc. {#विभक्ति#}) {%die Endungen des 2ten Casus (des Accusativs), der Accusativ,%}
 [Page3-0833]
 {%ein im Accusativ stehendes Wort%} 
-<ls>P. 2, 1, 24. 2, 4. 3, 2. 8. 4, 34. 6, 2, 2. 47. 7, 2, 87. 8, 1, 20.</ls>
+<ls>P. 2, 1, 24.</ls> <ls n="P. 2,">2, 4.</ls> <ls n="P. 2,">3, 2.</ls> <ls n="P. 2, 3,">8.</ls> <ls n="P. 2,">4, 34.</ls> <ls n="P.">6, 2, 2.</ls> <ls n="P. 6, 2,">47.</ls> <ls n="P.">7, 2, 87.</ls> <ls n="P.">8, 1, 20.</ls>
 <LEND>

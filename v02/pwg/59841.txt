@@ -9,7 +9,7 @@
 <ls>ṚV. 8, 30, 3.</ls> {#वि यो रत्ना\ भज^ति मान\वेभ्य^ः#} 
 <ls n="ṚV.">4, 54, 1.</ls> {#पर्शु^र्मान\वी#} 
 <ls n="ṚV.">10, 86, 23.</ls> <ls>AV. 12, 1, 2.</ls> {#मा\न\वीः पञ्च^ कृ\ष्टय^ः#} 
-<ls>3, 24, 3.</ls> {#पञ्च मानवाः#} 
+<ls n="AV.">3, 24, 3.</ls> {#पञ्च मानवाः#} 
 <ls>AIT. BR. 8, 23.</ls> 
 <ls>ŚAT. BR. 13, 5, 4, 14.</ls> {#सप्त#} 
 <ls>23.</ls> {#मानु^षीभ्य\स्त्वम^ङ्गिर\ इत्या^ह मान\व्यो^ हि प्र\जाः#} 
@@ -31,11 +31,11 @@
 <ls>Ind. St. 1, 69. 470. 5, 9. fgg. 14. fgg.</ls> 
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 257.</ls> {#शास्त्र#} 
 <ls>M. 12, 107. 126.</ls> {#धर्व#} 
-<ls>PARĀŚ. 1, 24</ls> bei <ls>STENZLER,</ls> <ls>YĀJÑ. S. VII.</ls> {#उपपुराण#} 
+<ls>PARĀŚ. 1, 24</ls> bei <ls>STENZLER</ls>, <ls>YĀJÑ. S. VII.</ls> {#उपपुराण#} 
 <ls>MADHUS.</ls> in <ls>Ind. St.1,18,15.</ls> <ls>Verz. d. Oxf. H. 65,b,12. 80,a,4.</ls> {#°शुल्वभाष्य#} 
 <ls>Ind. St. 1, 470.</ls> — {#क्रिया नासीच्च मानवी#} {%menschlich%} 
 <ls>MBH. 3, 11237.</ls> {#मनोर्वंशो मानवानां ततो ऽयं प्रथितो ऽभवत् । ब्रह्मक्षत्रादयस्तस्मान्मनोर्जातास्तु मानवाः ॥#} {%Menschenkinder%} 
-<ls>1, 3138. fg.</ls> {#धर्ममनुतिष्ठन्हि मानवः#} {%Mensch%} 
+<ls n="MBH.">1, 3138. fg.</ls> {#धर्ममनुतिष्ठन्हि मानवः#} {%Mensch%} 
 <ls>M. 2, 9. 20. 3, 140. 5, 35.</ls> 
 <ls>MBH. 5, 6008.</ls> 
 <ls>R. 1, 8, 8.</ls> 
@@ -52,7 +52,7 @@
 <div n="1">— 2) <lex>m.</lex> patron. 
 <ls>Verz. d. B. H. 60, 6.</ls> <is>Nābhānediṣṭtha</is> 
 <ls>AIT. BR. 5, 14</ls> ?(vgl. <ls>ṚV. 10, 62, 1</ls>). <is>Śāryāta</is> 
-<ls>4, 32.</ls> <ls>ŚAT. BR. 4, 1, 5, 2.</ls> <is>Śaryāti</is> 
+<ls n="ṚV. 10,">4, 32.</ls> <ls>ŚAT. BR. 4, 1, 5, 2.</ls> <is>Śaryāti</is> 
 <ls>BHĀG. P. 9, 3, 1.</ls> <is>Cakṣus</is> und <is>Nahuṣa</is> 
 <ls>ṚV. ANUKR.</ls> <is>Bhṛgu</is> 
 <ls>M. 5, 3. 12, 2.</ls> <is>Sudyumna</is> 

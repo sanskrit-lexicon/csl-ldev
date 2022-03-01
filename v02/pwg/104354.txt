@@ -1,6 +1,6 @@
 <L>104354<pc>7-0610<k1>सदृश<k2>सदृ꣡श
 {#सदृ꣡श#}¦ (2. {#स + दृश#}) <lex>adj.</lex> (f. {#ई#}) dass. 
-<ls>P. 6, 3, 89. 3, 2, 60, <is>Vārtt</is>.</ls> 
+<ls>P. 6, 3, 89.</ls> <ls n="P.">3, 2, 60</ls>, <is>Vārtt</is>. 
 <ls>VOP. 26, 83. 85.</ls> 
 <ls>AK. 2, 10, 37.</ls> 
 <ls>TRIK. 3, 3, 433</ls> (= {#सम#} und {#उचित#}). 
@@ -42,7 +42,7 @@
 <ls>28, 10.</ls> {#परस्परस्य प्रमाणेङ्गितचेष्टितैः#} 
 <ls>R. SCHL. 1, 48, 5.</ls> mit loc.: {#नहि पश्यामि तत्सौम्य पृथिव्यामपि किंचित् । सदृशं त्वत्प्रियाख्याने#} 
 <ls>R. 6, 98, 15.</ls> mit der Ergänzung componirt (das vorangehende Wort behält seinen Ton) 
-<ls>P. 2, 1, 31. 6, 2, 11.</ls> {#ख्याति°#} 
+<ls>P. 2, 1, 31.</ls> <ls n="P.">6, 2, 11.</ls> {#ख्याति°#} 
 <ls>ṚV. PRĀT. 6, 15.</ls> {#पिशङ्ग°#} 
 <ls>ŚĀṄKH. ŚR. 18, 3, 2.</ls> {#दावाग्निधूम°#} 
 <ls>MBH. 1, 6021.</ls> <ls n="MBH.">3, 2308.</ls> 
@@ -64,9 +64,9 @@
 <ls>VIKR. 36, 10.</ls> 
 <ls>VOP. 6, 61.</ls> {#अवस्थासदृशं परिक्रम्य#} 
 <ls>MĀLAV. 34, 13.</ls> am Anfange eines comp.: {#सदृशश्वेत#} {%gleich weiss%} 
-<ls>Schol.</ls> zu <ls>P. 2, 1, 68. 6, 2, 2.</ls> superl. {#सदृशतम#} 
-zu <ls>1, 1, 50.</ls> {#परमसदृश#} {%überaus ähnlich u.s.w.%} 
-zu <ls>6, 2, 11.</ls> {#अति°#} 
+<ls>Schol.</ls> zu <ls>P. 2, 1, 68.</ls> <ls n="P.">6, 2, 2.</ls> superl. {#सदृशतम#} 
+zu <ls n="P.">1, 1, 50.</ls> {#परमसदृश#} {%überaus ähnlich u.s.w.%} 
+zu <ls n="P.">6, 2, 11.</ls> {#अति°#} 
 <ls>KATHĀS. 101, 81.</ls> {#अर्ध°#} mit gen. {%halbgleich%} 
 <ls>TS. PRĀT. 11, 19.</ls> {#असदृश꣡#} <is>gaṇa</is> {#चार्वादि#} 
 zu <ls>P. 6, 2, 160.</ls> {%unähnlich, ungleich, unangemessen%} 

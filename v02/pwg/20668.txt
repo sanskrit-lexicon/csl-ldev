@@ -1,6 +1,6 @@
 <L>20668<pc>2-0579<k1>क्षेम्य<k2>क्षेम्य꣡
 {#क्षेम्य꣡#}¦ (von {#क्षेम) = क्षेम#} 
-<ls>P. 5, 4, 36, <is>Vārtt</is>. 9.</ls> 
+<ls>P. 5, 4, 36</ls>, <is>Vārtt</is>. 9. 
 <ls>KĀŚ.</ls> zu <ls>30.</ls> 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%rastend, ruhend%}: {#सायं मनुष्याश्च पशवश्च क्षेम्या भवन्ति#} 
@@ -15,7 +15,7 @@
 <ls>KULL.</ls> : = {#अनामयादिकल्याणक्षमाम्#} . 
 <div n="2">— c) {%Ruhe und Friede verleihend%}: {#न चैवैषा गतिः क्षेम्या#} 
 <ls>MBH. 14, 1691.</ls> als Beiwort von <is>Śiva</is> 
-<ls>194.</ls> 
+<ls n="MBH. 14,">194.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. verschiedener Fürsten: eines Sohnes von <is>Sunītha</is> und Vaters von <is>Ketumant</is> 
 <ls>HARIV. 1592. fg.</ls> 
 <ls n="HARIV.">1750.</ls> eines Sohnes von <is>Ugrāyudha</is> und Vaters von <is>Suvīra</is> 

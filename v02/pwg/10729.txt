@@ -11,7 +11,7 @@
 <ls>363, 15. 2, 235, 13.</ls> {#तथैव मौनमकरोदनुच्छ्वासम्#} 
 <ls>VIŚV. 15, 7.</ls> {#एकोच्छ्वासात्ततः कुण्डं पिबति स्म#} 
 <ls>MBH. 1, 5032.</ls> {#निरुच्छ्वास#} <lex>adj.</lex> 
-<ls>3, 1613.</ls> <lex>f.</lex> {#आ#} 
+<ls n="MBH.">3, 1613.</ls> <lex>f.</lex> {#आ#} 
 <ls>R. 5, 25, 48.</ls> {#सोच्छ्वास#} 
 <ls>SUŚR. 1, 66, 13.</ls> {#सोच्छ्वासम्#} adv. {%aufathmend%} (nach geschwundener Unruhe) 
 <ls>ŚĀK. CH. 163, 10.</ls> 
@@ -30,8 +30,8 @@
 <ls>KĀTY. ŚR. 14, 5, 20. 17, 3, 7.</ls> 
 <div n="1">— 4) {%Abschnitt in einer Erzählung (zum Athemholen%}) 
 <ls>TRIK. 3, 2, 24.</ls> 
-<ls>H. 257,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 257</ls>, <ls>Sch.</ls> 
+
 <ls>an. 3, 746.</ls> 
 <ls>MED. s. 17.</ls> <ls>Verz. d. B. H. No. 539.</ls>
 <LEND>

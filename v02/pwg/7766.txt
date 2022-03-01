@@ -5,8 +5,8 @@
 <ls>ṚV. 1, 10, 11.</ls> {#अ\नु\का\मं त^र्पयेथा\मिन्द्रा^वरुण रा\य आ#} 
 <ls n="ṚV. 1,">17, 3.</ls> {#आ प्र द्र^व#} 
 <ls>AV. 3, 4, 5.</ls> {#आ प्र या^तु परा\वत^ः#} 
-<ls>6, 35, 1.</ls> {#आ प्र च्य^वेथाम्#} 
-<ls>18, 4, 49.</ls> In dieser Bedeutung überaus häufig in Verbindung mit Verben {%der Bewegung.%} 
+<ls n="AV.">6, 35, 1.</ls> {#आ प्र च्य^वेथाम्#} 
+<ls n="AV.">18, 4, 49.</ls> In dieser Bedeutung überaus häufig in Verbindung mit Verben {%der Bewegung.%} 
 <div n="2">— b) anreihend: {%dazu, ferner, auch, und%}: {#सर्व^ं प\णेः सम^विन्दन्त\ भोज^न\मश्वा^वन्त\ं गोम^न्त\मा प\शुं नर^ः#} 
 <ls>ṚV. 1, 83, 4.</ls> {#(तन्मह्यमाहुः) तद\यं केतो^ हृ\द आ वि च꣡ष्टे#} 
 <ls n="ṚV. 1,">24, 12.</ls> {#म\हान्गर्भो\ मह्या जा\तमे^षाम्#} 
@@ -23,7 +23,7 @@
 <ls n="ṚV.">2, 12, 15.</ls> {#मुहु\रा#} 
 <ls n="ṚV. 2,">4, 7.</ls> <ls n="ṚV.">7, 20, 2.</ls> {#प्र बो^धया\ पुर^ंधिं जा\र आ स^स\तीमि^व#} 
 <ls n="ṚV.">1, 134, 3.</ls> {#उदी^रय पि\तरा^ जा\र आ भग^म्#} 
-<ls n="ṚV.">10, 11, 6.</ls> <ls n="ṚV. 10,">22, 3.</ls> <ls>AV. 6, 33, 1. 7, 22, 1.</ls> {#तद्देवा ज्योतिषां ज्योतिरायुर्ह्योपासते ऽमृतम्#} 
+<ls n="ṚV.">10, 11, 6.</ls> <ls n="ṚV. 10,">22, 3.</ls> <ls>AV. 6, 33, 1.</ls> <ls n="AV.">7, 22, 1.</ls> {#तद्देवा ज्योतिषां ज्योतिरायुर्ह्योपासते ऽमृतम्#} 
 <ls>ŚAT. BR. 14, 7, 2, 20</ls> (= <ls>BṚH. ĀR. UP. 4, 4, 16). 9, 2, 3, 44.</ls> {#तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा इतीति न्यमीमिषदा#} 
 <ls>KENOP. 29.</ls> Aus Stellen wie ein Theil der hier angeführten wurde die Bedeutung {%wie%} abgeleitet, welche aber nicht unmittelbar im Worte liegt. 
 <ls>NIR. 3, 13.</ls> 
@@ -32,7 +32,7 @@
 <ls>ṚV. 9, 67, 23.</ls> {#अधि#} 
 <ls n="ṚV. 9,">73, 5.</ls> <ls n="ṚV. 9, 73,">6.</ls> {#अनु#} 
 <ls n="ṚV.">2, 38, 7.</ls> {#सचा#} 
-<ls>1, 9, 3. S. u. d. Ww.</ls> 
+<ls n="ṚV.">1, 9, 3.</ls>  S. u. d. Ww.
 <div n="1">— 2) praep. 
 <div n="2"> a) {%zu - hin, bis an, bis zu, bis auf, bevor%}: 
 <div n="3"> α) mit vorang. acc.: {#ताँ आ #}
@@ -47,11 +47,11 @@
 <ls>1, 6, 2, 3.</ls> {#पुनरेम इति देवा एदग्निं तिरोभूतम्#} 
 <ls>2, 2, 3, 3. 4, 12. 3, 4, 2. 4, 1, 3, 4. 11, 5, 1, 4. 11.</ls> 
 <div n="3">— γ) mit folg. abl. 
-<ls>P. 2, 1, 13. 3, 10.</ls> {#स्व\स्त्या गृ\हेभ्य\ आव\सा आ वि\मोचना^त्#} 
+<ls>P. 2, 1, 13.</ls> <ls n="P. 2,">3, 10.</ls> {#स्व\स्त्या गृ\हेभ्य\ आव\सा आ वि\मोचना^त्#} 
 <ls>ṚV. 3, 53, 20.</ls> {#आस्या य\ज्ञस्यो\दृच^ः#} 
 <ls>VS. 4, 9.</ls> {#आ मूला^त्#} 
-<ls>AV. 7, 59, 1. 12, 4, 16.</ls> {#आ ज^रि\म्णः#} 
-<ls>18, 3, 62. 1, 14, 3.</ls> {#शीर्ष्ण आ पुच्छात्#} 
+<ls>AV. 7, 59, 1.</ls> <ls n="AV.">12, 4, 16.</ls> {#आ ज^रि\म्णः#} 
+<ls n="AV.">18, 3, 62.</ls> <ls n="AV.">1, 14, 3.</ls> {#शीर्ष्ण आ पुच्छात्#} 
 <ls>ŚAT. BR. 10, 2, 1, 9. 3, 1, 3, 9. 12, 8, 3, 17.</ls> {#ऐतस्मात्कालात्#} 
 <ls>4, 2, 4, 5. 1, 5, 2, 9. 2, 4, 2, 21. 3, 2, 1, 7.</ls> {#यदिदं किं च मिथुनमा पिपीलिकाभ्यः#} 
 <ls>14, 4, 2, 9</ls> (= <ls>BṚH. ĀR. UP. 1, 4, 4).</ls> {#यत्तपस्तप्यत आ मैथुनात्#} 
@@ -71,8 +71,8 @@
 <ls>AK. 2, 6, 2, 32.</ls> {#आवत्सरान्तम्#} 
 <ls>KATHĀS. 23, 20. 10, 208.</ls> 
 <ls>VID. 54.</ls> {#आकुमारं यशः पाणिनेः#} 
-<ls>P. 2, 1, 13,</ls> 
-<ls>Sch.</ls> {#आदृष्टिप्रसरम्#} (so ist zu lesen) 
+<ls>P. 2, 1, 13</ls>, <ls>Sch.</ls>
+{#आदृष्टिप्रसरम्#} (so ist zu lesen) 
 <ls>AMAR. 74.</ls> Statt {#आसमुद्रान्ते#} 
 <ls>R. 4, 37, 3</ls> ist wohl {#°न्तम्#} zu lesen. Am Anf. eines comp. ohne Flexionszeichen: {#आयोजनसुगन्धिन्#} 
 <ls>MBH. 1, 6965.</ls> {#आजानुबाहु#} {%dessen Arme bis an die Knie reichen%} 
@@ -129,27 +129,27 @@
 <ls n="ṚV.">9, 110, 4.</ls> <ls n="ṚV. 9,">73, 7.</ls> {#मर्य\ं न योषा^ कृणुते स\धस्थ\ आ#} 
 <ls n="ṚV.">10, 40, 2.</ls> {#स\मु\द्र आ गू\|अम्#} 
 <ls n="ṚV. 10,">72, 7.</ls> {#वर\ आ पृ^थि\व्याः#} 
-<ls>AV. 7, 8, 1. 16, 4, 2.</ls> 
+<ls>AV. 7, 8, 1.</ls> <ls n="AV.">16, 4, 2.</ls> 
 <div n="2">— e) im comp. mit einem <lex>adj.</lex> oder partic. {%etwas, ein wenig, kaum%} 
-<ls>P. 2, 2, 18,</ls> 
-<ls>SAUN. <is>Vārtt</is>. 3.</ls> Scheinbar adv., aber ursprünglich gewiss praep. und zwar in der unter {%a.%} aufgeführten Bedeutung: {#आपीत#} {%bis zum Gelben angelangt, gelblich%} 
+<ls>P. 2, 2, 18</ls>, <ls>SAUN.</ls> <is>Vārtt</is>. 3. 
+Scheinbar adv., aber ursprünglich gewiss praep. und zwar in der unter {%a.%} aufgeführten Bedeutung: {#आपीत#} {%bis zum Gelben angelangt, gelblich%} 
 <ls>R. 2, 76, 4.</ls> {#आलोहित#} 
 v. l. zu <ls>ŚĀK. 69, 2.</ls> {#आनील#} {%bläulich%} 
 <ls>H. 1239.</ls> 
 <ls>RAGH. 3, 8.</ls> {#आपिञ्चर#} 
 <ls>16, 51.</ls> {#आपाण्डुर#} 
 <ls>AMAR. 89.</ls> {#ओष्ण (आ + उष्ण)#} 
-<ls>P. 1, 1, 14,</ls> 
-<ls>Sch.</ls> {#आकुटिल#} {%etwas gebogen%} 
+<ls>P. 1, 1, 14</ls>, <ls>Sch.</ls>
+{#आकुटिल#} {%etwas gebogen%} 
 <ls>ŚĀK. 184.</ls> {#आतिरश्चीन#} {%etwas in die Quere gehend%} 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 198, 23.</ls> {#आपक्व#} (s. d.) 
 <ls>AK. 2, 9, 47.</ls> {#आलोल#} 
 <ls>BHARTṚ. 3, 48</ls> ({#आलोलायतलोचनाः#}).{# आलक्ष्य#} {%kaum, eben sichtbar%} 
 <ls>ŚĀK. 176.</ls> {#आभुग्न#} {%ein wenig gebogen%} 
 <ls>RAGH. 1, 83.</ls> — Um diese Partikel von der interj. {#आ#} zu unterscheiden, versehen die indischen Grammatiker und Lexicographen dieselbe mit einem {#ङ्#} am Ende ({#आङ्#}). 
-<ls>P. 1, 1, 14. 4, 89. 2, 1, 13. 3, 10.</ls> 
+<ls>P. 1, 1, 14.</ls> <ls n="P. 1,">4, 89.</ls> <ls n="P.">2, 1, 13.</ls> <ls n="P. 2,">3, 10.</ls> 
 <ls>VOP. 1, 8. 2, 19.</ls> 
 <ls>AK. 3, 4, 32,</ls> (<ls>COL. 28,) 1.</ls> <ls>H. an. 7, 2.</ls> <ls>MED. avy. 13.</ls> Euphonische Regeln in Betreff dieses {#आ#} 
-<ls>P. 6, 1, 74. 95. 126</ls> ({#आँ#}). 
+<ls>P. 6, 1, 74.</ls> <ls n="P. 6, 1,">95.</ls> <ls n="P. 6, 1,">126</ls> ({#आँ#}). 
 <ls>VOP. 2, 5. 19.</ls> In vielen in Europa gedruckten Werken, in denen sonst die Trennung der Wörter beobachtet wird, findet man {#आ#} mit einem folgenden abl. fälschlich zu einem comp. verbunden.
 <LEND>

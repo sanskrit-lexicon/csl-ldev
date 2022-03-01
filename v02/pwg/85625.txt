@@ -63,8 +63,8 @@ z. B. <ls>. 6, 44. 8, 261.</ls> <ls>VARĀH. BṚH. S. 56, 31. 61, 1. 65, 1. 68, 
 <ls>AK. 2, 6, 1, 15.</ls> 
 <ls>H. 532.</ls> {#पुरुष°#} 
 <ls>MBH. 5, 7527.</ls> {#स्त्रीणाम्#} 
-<ls>7528.</ls> {#लक्षणं लक्षणेनैव वदनं वदनेन च#} {%Geschlechtstheile%} 
-<ls>13, 2303.</ls> {#शरा बर्हिणलक्षणाः#} {%gekennzeichnet%} so v. a. {%versehen mit%} 
+<ls n="MBH. 5,">7528.</ls> {#लक्षणं लक्षणेनैव वदनं वदनेन च#} {%Geschlechtstheile%} 
+<ls n="MBH.">13, 2303.</ls> {#शरा बर्हिणलक्षणाः#} {%gekennzeichnet%} so v. a. {%versehen mit%} 
 <ls>R. 3,26, 22. 6, 80, 30.</ls>
 [Page6-0464]
 {#अशनीश्च मेघबर्हिणलक्षणाः#} 
@@ -75,7 +75,7 @@ z. B. <ls>. 6, 44. 8, 261.</ls> <ls>VARĀH. BṚH. S. 56, 31. 61, 1. 65, 1. 68, 
 <ls>ŚĀṄKH. GṚHY. 1, 5.</ls> 
 <ls>M. 3, 4. 4, 68. 158. 7, 77.</ls> 
 <ls>MBH. 1, 5905.</ls> <ls n="MBH.">4, 70</ls> (sg. st. pl.). <ls>R. 1, 1, 27.</ls> <ls>RĀJA-TAR. 3, 485.</ls> <ls>AK. 3, 4, 14, 84.</ls> <ls>BRAHMA-P. in LA. (III) 50, 6.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 197, 11. 13.</ls> {#द्वात्रिंशल्लक्षणोपेत#} 
-<ls>HIT. 99, 7.</ls> ad <ls>VET. 3, 16 (LA. III).</ls> <ls>Lot. de la b. l. 616.</ls> {#°भ्रष्ट#} {%seiner guten Zeichen verlustig gegangen, in's Unglück gerathen, unglücklich%} 
+<ls>HIT. 99, 7.</ls> ad <ls>VET. 3, 16</ls> (<ls>LA. III</ls>). <ls>Lot. de la b. l. 616.</ls> {#°भ्रष्ट#} {%seiner guten Zeichen verlustig gegangen, in's Unglück gerathen, unglücklich%} 
 <ls>YĀJÑ. 3, 217.</ls> {#विगत°#} dass. 
 <ls>KATHĀS. 25, 142.</ls> {#हत°#} dass. 
 <ls>MĀRK. P. 50, 95.</ls> {%Symptom einer Krankheit%} 
@@ -108,11 +108,11 @@ z. B. <ls>. 6, 44. 8, 261.</ls> <ls>VARĀH. BṚH. S. 56, 31. 61, 1. 65, 1. 68, 
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 303.</ls> <ls>BHĀG. P. 5, 15, 6.</ls> {#भक्तिर्नवलक्षणा#} {%sich auf neunfache Weise äussernd%} 
 <ls>7, 5, 24.</ls> 
 <div n="2">— e) {%Ziel, Richtung, Hindeutung auf%} 
-<ls>P. 1, 4, 84. 90. 2, 1, 14. 3, 3, 8.</ls> 
+<ls>P. 1, 4, 84.</ls> <ls n="P. 1, 4,">90.</ls> <ls n="P.">2, 1, 14.</ls> <ls n="P.">3, 3, 8.</ls> 
 <ls>AK. 3, 4, 32 (28), 6.</ls> {#इग्लक्षणे गुणवृद्धी#} so v. a. {%betreffend, sich beziehend auf%} 
-<ls>P. 1, 1, 5,</ls> 
-<ls>Sch.</ls> {#मनुष्यलक्षणे लुबर्थे#} 
-<ls n="P.">1, 2, 52,</ls> <is>Vārtt</is>. 3, Sch. Schol. zu <ls>AV. PRĀT. 4, 122.</ls> {#पुराणं दशलक्षणम्#} so v. a. {%behandelt Zehnerlei%} 
+<ls>P. 1, 1, 5</ls>, <ls>Sch.</ls>
+{#मनुष्यलक्षणे लुबर्थे#} 
+<ls n="P.">1, 2, 52</ls>, <is>Vārtt</is>. 3, Sch. Schol. zu <ls>AV. PRĀT. 4, 122.</ls> {#पुराणं दशलक्षणम्#} so v. a. {%behandelt Zehnerlei%} 
 <ls>BHĀG. P. 2, 9, 43.</ls> {#द्वादशलक्षणी मीमांसा#} 
 <ls>Verz. d. Oxf. H. 220,a, No. 527.</ls> {#वृद्धो यूना तल्लक्षणश्चेदेव विशेषः#} {%nur diese betreffend%} 
 <ls>P. 1, 2, 65.</ls> {#तत्सकलं धर्मलक्षणम्#} so v. a. {%fällt unter den Begriff des Rechts%} 
@@ -120,8 +120,8 @@ z. B. <ls>. 6, 44. 8, 261.</ls> <ls>VARĀH. BṚH. S. 56, 31. 61, 1. 65, 1. 68, 
 <div n="2">— f) {%Wirkung, Einfluss%}: {#प्रत्ययलोपे प्रत्ययलक्षणम्#} 
 <ls>P. 1, 1, 62.</ls> 
 <ls>VOP. 3, 45.</ls> {#नायं स्वरः प्रत्ययलक्षणेन भवति#} 
-<ls>P. 6, 1, 197,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 1, 197</ls>, <ls>Sch.</ls> 
+
 <div n="2">— g) {%Veranlassung, Gelegenheit%}: {#सर्वथा सर्वभूतानां नास्ति मृत्युरलक्षणः । तव त्वयं रणे मैथिलीकृतलक्षणः ॥#} 
 <ls>R. 6, 95, 19.</ls> {#यात्रा°#} 
 <ls>Spr. 4231.</ls> {#पुनरपीममर्थं लब्धलक्षणो यथोपपन्नैरुपायैः साधयिष्यति#} 

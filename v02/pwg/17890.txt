@@ -10,7 +10,7 @@
 <ls>ṚV. 1, 116, 7.</ls> <ls n="ṚV. 1,">117, 6.</ls> <ls n="ṚV.">7, 33, 13.</ls> 
 <ls>VS. 19, 87.</ls> {#बि\भेद^ गि\रिं नव\मिन्न कु\म्भम्#} 
 <ls>ṚV. 10, 89, 7.</ls> 
-<ls>AV. 1, 6, 4. 3, 12, 7. 8. 4, 34, 7. 10, 8, 14.</ls> {#यस्मिन्कुम्भ ऋजीषं भवति#} 
+<ls>AV. 1, 6, 4.</ls> <ls n="AV.">3, 12, 7.</ls> <ls n="AV. 3, 12,">8.</ls> <ls n="AV.">4, 34, 7.</ls> <ls n="AV.">10, 8, 14.</ls> {#यस्मिन्कुम्भ ऋजीषं भवति#} 
 <ls>ŚAT. BR. 4, 4, 5, 20. 5, 5, 4, 27. 11, 5, 5, 13.</ls> 
 <ls>KAUŚ. 136.</ls> {#पूर्णकुम्भमपां नवम् (प्रास्येयुः)#} 
 <ls>M. 11, 186.</ls> {#तस्य (मांसस्य) प्रक्षालनार्थाय कुम्भास्तत्रोपकल्पिताः#} 
@@ -23,8 +23,8 @@
 <ls>PAÑCAT. III, 13.</ls> {#हेम°#} {%aus Gold%} 
 <ls>RAGH. 2, 36.</ls> 
 <ls>AMAR. 95.</ls> {#अयस्°#} 
-<ls>P. 8, 3, 46,</ls> 
-<ls>Sch.</ls> {#जल°#} {%Wasserkrug%} 
+<ls>P. 8, 3, 46</ls>, <ls>Sch.</ls>
+{#जल°#} {%Wasserkrug%} 
 <ls>PAÑCAT. 238, 16</ls> (vgl. {#उदकुम्भ)#}.{# घृत°#} 
 <ls>M. 11, 134.</ls> {#घृतकुम्भसमा नारी तप्ताङ्गारसमः पुमान्#} 
 <ls>HIT. I, 112.</ls> {#वर्जयेत्तादृशं मित्रं विषकुम्भं पयोमुखम्#} 
@@ -33,11 +33,11 @@
 <ls>ŚṚṄGĀRAT. 14. 9, v. l.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आः प्राग्द्वारवेदिविनिवेशितपूर्णकुम्भाम् - नवोपकार्याम्#} 
 <ls>RAGH. 5, 63.</ls> 
 <ls>VID. 289.</ls> {#कुम्भ#} hat auch die Bed. von {%Aschenkrug, Gefäss, in welches die Todtengebeine gesammelt werden%} (vgl. 
-<ls>ŚAT. BR. 13, 8, 3, 4.),</ls> <ls>ĀŚV. GṚHY. 4, 5.</ls> <ls>KĀTY. ŚR. 25, 8, 7.</ls> <ls>ŚĀṄKH. ŚR. 4, 15, 14. 13, 11, 3. 11.</ls> 
+<ls>ŚAT. BR. 13, 8, 3, 4.)</ls>, <ls>ĀŚV. GṚHY. 4, 5.</ls> <ls>KĀTY. ŚR. 25, 8, 7.</ls> <ls>ŚĀṄKH. ŚR. 4, 15, 14. 13, 11, 3. 11.</ls> 
 <div n="2">— b) {%der Wassermann im Thierkreise%} 
 <ls>TRIK. 3, 3, 285.</ls> 
-<ls>H. 116,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 116</ls>, <ls>Sch.</ls> 
+
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>COLEBR. Misc. Ess. II, 369.</ls> {#कुम्भः स्कन्धे नरो रिक्तघटं दधानः#} 
@@ -88,12 +88,12 @@ in Verbindung mit <is>Nikumbha</is> und <is>Kumbhakarṇa</is>
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>VS. 19, 16. 27. 87.</ls> {#कु\म्भीमध्य\ग्नौ श्र^यामि#} 
-<ls>AV. 9, 5, 5. 6, 17. 11, 3, 11. 12, 2, 51. 3, 23.</ls> 
+<ls>AV. 9, 5, 5.</ls> <ls n="AV. 9,">6, 17.</ls> <ls n="AV.">11, 3, 11.</ls> <ls n="AV.">12, 2, 51.</ls> <ls n="AV. 12,">3, 23.</ls> 
 <ls>TS. 3, 2, 8, 4. 5.</ls> 
 <ls>ŚAT. BR. 1, 1, 2, 7. 8, 1, 3. 2, 5, 3, 16.</ls> <ls>Z. d. d. m. G. 9, LXXV.</ls> <ls>ĀŚV. GṚHY. 4, 5.</ls> <ls>KAUŚ. 6. 61.</ls> <ls>LĀṬY. 5, 4. 14.</ls> <ls>KĀTY. ŚR. 19, 3, 20.</ls> <ls>SUŚR. 2, 397, 21.</ls> {#लोहकुम्भ्यः#} 
 <ls>MBH. 18, 85.</ls> {#अयस्कुम्भी#} 
-<ls>P. 8, 3, 46,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 3, 46</ls>, <ls>Sch.</ls> 
+
 <div n="2">— b) {%ein Gefäss zum Aufbewahren des Getraides%} oder {%ein best. Hohlmaass%}: {#कुशूलधान्यको वा स्यात्कुम्भीधान्यक एव वा#} 
 <ls>M. 4, 7.</ls> {#कुशूलकुम्भीधान्यो वा#} 
 <ls>YĀJÑ. 1, 128.</ls> {#सप्तकुम्भीनिधान#} 

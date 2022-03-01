@@ -19,9 +19,9 @@
 <ls>7, 53.</ls> {#दास°#} so v. a. {%die Sclaven, Dienerschaft%} 
 <ls>M. 3, 246. 4, 180. 185.</ls> {#बन्धुवर्गाः#} 
 <ls>MBH. 3, 2683.</ls> {#नृशंस°#} 
-<ls>5, 1639.</ls> {#मित्र°#} 
-<ls>13, 309.</ls> {#भृत्य°#} 
-<ls>2186.</ls> {#पौर°#} 
+<ls n="MBH.">5, 1639.</ls> {#मित्र°#} 
+<ls n="MBH.">13, 309.</ls> {#भृत्य°#} 
+<ls n="MBH. 13,">2186.</ls> {#पौर°#} 
 <ls n="MBH.">15, 439.</ls> <ls n="MBH. 15,">446.</ls> <ls>HARIV. 11015</ls> (S. 790). <ls>R. 2, 30, 45. 45, 2.</ls> <ls>KĀM. NĪTIS. 3, 39.</ls> <ls>RAGH. 2, 4. 11, 7.</ls> <ls>VIKR. 3, 9.</ls> <ls>MĀLAV. 67, 11.</ls> <ls>Spr. 1940. 2542. 4645.</ls> <ls>AK. 2, 6, 1, 30. 8, 1, 6.</ls> <ls>H. 514.</ls> <ls>HALĀY. 2, 353.</ls> <ls>KATHĀS. 4, 20. 18, 83. 26, 145.</ls> <ls>RĀJA-TAR. 1, 308.</ls> <ls>PRAB. 36, 9.</ls> <ls>BHĀG. P. 4, 25, 42. 7, 6, 12.</ls> <ls>PAÑCAT. 33, 14.</ls> <ls>VET. in LA. (III) 1, 13.</ls> <ls>SARVADARŚANAS. 57, 11. 100, 22.</ls> {#आत्म°, पर°#} {%die eigene —, die fremde Partei%} 
 <ls>VṚDDHA-CĀṆ. 11, 2.</ls> {#स्व°#} 
 <ls>PAÑCAT. 192, 22. fg.</ls> {#नक्षत्रत्रय°#} 
@@ -44,7 +44,7 @@
 <ls>KĀTY. ŚR. 9, 4, 20.</ls> {%eine Reihe nach irgend einem Eintheilungsgrunde zusammengehöriger Wörter%} 
 <ls>AK. 2, 1, 1. 3, 4, 1, 1.</ls> 
 <ls>TRIK. 1, 1, 3.</ls> {%Consonantenreihe im Alphabet%} (es werden deren 7 angenommen; s. 
-<ls>BÖHTLINGK,</ls> <ls>P. II, S. 525</ls>) <ls>ṚV. PRĀT. 1, 3.</ls> {#चकार°#} 
+<ls>BÖHTLINGK</ls>, <ls>P. II, S. 525</ls>) <ls>ṚV. PRĀT. 1, 3.</ls> {#चकार°#} 
 <ls>4, 4. 5, 3.</ls> {#स्पर्श°#} 
 <ls>6, 8. 14, 7.</ls> <ls>VS. PRĀT. 1, 64.</ls> <ls n="VS. PRĀT.">3, 92.</ls> <ls n="VS. PRĀT. 3,">94.</ls> <ls n="VS. PRĀT.">4, 92.</ls> <ls>AV. PRĀT. 2, 14.</ls> <ls n="AV. PRĀT. 2,">38.</ls> <ls>VOP. 2, 25. fg.</ls> {#काद्या वर्गाः#} 
 <ls>VARĀH. BṚH. S. 96, 15.</ls> {#वर्गाष्टक#} (nach dem Comm. {#कचटतपयशलवर्गाणामष्टकम्#}) 

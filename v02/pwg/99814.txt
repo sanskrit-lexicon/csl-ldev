@@ -1,23 +1,23 @@
 <L>99814<pc>7-0215<k1>शिष्ट<k2>शिष्ट꣡<h>1
 1. {#शिष्ट꣡#}¦ (partic. von 1. {#शास्#}) 
-<ls>P. 6, 4, 34. 8, 3, 60.</ls> 
+<ls>P. 6, 4, 34.</ls> <ls n="P.">8, 3, 60.</ls> 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%angewiesen, befohlen, gefordert%} 
-<ls>AV. 2, 29, 4. 5, 26, 4.</ls> {#उत्पत्ति°#} und {#उत्पन्न°#} {%von vorn herein gefordert%} 
+<ls>AV. 2, 29, 4.</ls> <ls n="AV.">5, 26, 4.</ls> {#उत्पत्ति°#} und {#उत्पन्न°#} {%von vorn herein gefordert%} 
 <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 1, 4, 16. 3, 3, 8. 5, 16. 5, 2, 7. 9, 10.</ls> 
 <div n="2">— b) {%gelehrt, traditus%}: {#शिष्टं नाधीयीत#} 
 <ls>KAUŚ. 141.</ls> {#आचार्यशिष्टा या जातिः#} 
 <ls>MBH. 12, 4008</ls> ({#आचार्यशास्ता#} 
-<ls>5, 1691).</ls> <ls>AK. 3, 6, 3, 25.</ls> 
+<ls n="MBH.">5, 1691</ls>). <ls>AK. 3, 6, 3, 25.</ls> 
 <div n="2">— c) {%angewiesen%}: {#अपि चापि मया शिष्टैः (= मत्तो ऽधिकैः#} Comm.) {#कार्यं वो भर्तृशासनम्#} 
 <ls>R. 2, 45, 9.</ls> 
 <div n="2">— d) {%unterrichtet, gebildet, wohlgesittet%}; <lex>m.</lex> {%ein gebildeter Mann, ein geistig und sittlich hoch stehender Mann%} 
 <ls>ŚAT. BR. 13, 1, 6, 1.</ls> {#°संमत#} 
 <ls>M. 3, 39.</ls> {#ब्राह्मण#} 
 <ls>12, 108. fg.</ls> <ls>YĀJÑ. 1, 113. 150.</ls> <ls>MBH. 1, 35.</ls> {#अशिष्टानां नियन्ता हि शिष्टानां परिरक्षिता#} 
-<ls>6485. 3, 13763. fg. 5, 7103.</ls> {#शिष्टाकृति#} <lex>adj.</lex> 
-<ls>12, 4262. 13, 2408. 6299.</ls> {#शिष्टाचीर्ण (धर्म)#} 
-<ls>6454.</ls> <ls>R. 2, 31, 37. 44, 4.</ls> <ls>Spr. (II) 1169.</ls> <ls n="Spr. (II)">3034</ls> (= <ls>RAGH. 1, 28</ls>). <ls n="Spr. (II)">3040.</ls> <ls n="Spr.">(I) 2985.</ls> <ls>VARĀH. BṚH. S. 19, 17.</ls> <ls>KATHĀS. 61, 188.</ls>
+<ls n="MBH. 1,">6485.</ls> <ls n="MBH.">3, 13763. fg.</ls> <ls n="MBH.">5, 7103.</ls> {#शिष्टाकृति#} <lex>adj.</lex> 
+<ls n="MBH.">12, 4262.</ls> <ls n="MBH.">13, 2408.</ls> <ls n="MBH. 13,">6299.</ls> {#शिष्टाचीर्ण (धर्म)#} 
+<ls n="MBH. 1,">6454.</ls> <ls>R. 2, 31, 37. 44, 4.</ls> <ls>Spr. (II) 1169.</ls> <ls n="Spr. (II)">3034</ls> (= <ls>RAGH. 1, 28</ls>). <ls n="Spr. (II)">3040.</ls> <ls n="Spr.">(I) 2985.</ls> <ls>VARĀH. BṚH. S. 19, 17.</ls> <ls>KATHĀS. 61, 188.</ls>
 [Page7-0216]
 {#शेषं तु ज्ञेयं शिष्टप्रयोगात्#} 
 <ls>AK. 3, 6, 8, 46.</ls> {#मित्राणि तुल्यशिष्टानि#} {%von gleicher Bildung%} 
@@ -26,7 +26,7 @@
 <ls>HIT. 93, 21, v. l.</ls> {#°सभां कृत्वा#} 
 <ls>100, 15.</ls> Comm. zu <ls>TS. PRĀT. 1, 1.</ls> {#शिष्टाचार#} <lex>m.</lex> und <lex>adj.</lex> 
 <ls>MBH. 3, 13759. fgg.</ls> <ls n="MBH.">13, 2028.</ls> <ls>Ind. St.5,307, N. 3. 10,98, N.</ls> <ls>Verz. d. Oxf. H. 208,a,1. 265,b,34.</ls> <ls>MÜLLER, SL. 108.</ls> <ls>SARVADARŚANAS. 157,14. fg.</ls> {#अशिष्टव्यवहार#} 
-<ls>SIDDH. K.</ls> zu <ls>P.2,3,27.</ls> 
+<ls>SIDDH. K.</ls> zu <ls>P. 2, 3, 27.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%Vorschrift über%}: {#ध्रुवशिष्टे ऽपरेषाम्#} 
 <ls>ṚV. PRĀT. 6, 12.</ls> {%Belehrung%}: {#शिष्टार्थम्#} (besser {#शिक्षार्थम्#} ed. Bomb.; {#शिष्ट्यर्थम्#} 
 <ls>M. 4, 164</ls>) <ls>MBH. 13, 4991.</ls> 

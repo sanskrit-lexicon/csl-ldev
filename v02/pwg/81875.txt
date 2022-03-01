@@ -8,11 +8,11 @@
 <ls>M. 3, 148. 4, 33. 8, 317. 388.</ls> 
 <ls>YĀJÑ. 1, 130.</ls> 
 <ls>MBH. 1, 747.</ls> <ls n="MBH. 1,">6386</ls> {#याज्यस्ते#} 
-<ls>6774.</ls> {#रैभ्य°#} 
-<ls>3, 10791.</ls> {#राजयाजक°#} 
-<ls>8, 1846. 2096.</ls> {#भृगूणां क्षत्रिया याज्याः#} 
-<ls>13, 2905. 4422. 14, 99</ls> (wo mit der ed. Bomb. {#पूर्वम्#} st. {#पुत्रम्#} zu lesen ist). 
-<ls>124. 162. 178.</ls> <ls>HARIV. 3880</ls> ({#चेज्यो#} st. {#याज्यो#} die neuere Ausg.). 
+<ls n="MBH. 1,">6774.</ls> {#रैभ्य°#} 
+<ls n="MBH.">3, 10791.</ls> {#राजयाजक°#} 
+<ls n="MBH.">8, 1846.</ls> <ls n="MBH. 8,">2096.</ls> {#भृगूणां क्षत्रिया याज्याः#} 
+<ls n="MBH.">13, 2905.</ls> <ls n="MBH. 13,">4422.</ls> <ls n="MBH.">14, 99</ls> (wo mit der ed. Bomb. {#पूर्वम्#} st. {#पुत्रम्#} zu lesen ist). 
+<ls n="MBH. 13,">124.</ls> <ls n="MBH. 13,">162.</ls> <ls n="MBH. 13,">178.</ls> <ls>HARIV. 3880</ls> ({#चेज्यो#} st. {#याज्यो#} die neuere Ausg.). 
 <ls>R. 7, 23, 1, 81.</ls> 
 <ls>RAGH. 1, 86.</ls> {#बहु°#} {%der viele Opferherren hat, für Viele opfert%} 
 <ls>VAS.</ls> bei <ls>KULL.</ls> zu <ls>M. 3, 151.</ls> {#अ°#} {%für den man nicht opfern darf%} 
@@ -21,8 +21,8 @@
 <ls>M. 11, 59.</ls> 
 <ls>YĀJÑ. 3, 237.</ls> 
 <ls>MBH. 13, 4527.</ls> 
-<ls>P. 2, 1, 53,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 2, 1, 53</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 2) <lex>f.</lex> {#याज्या^#} 
 <ls>VOP. 26, 11.</ls> (sc. {#ऋच्#}) {%die Worte. welche im Augenblick der Hingabe des Opfers gesprochen werden, Begleitspruch%} 
 <ls>Z. d. d. m. G. IX, LIII. LXII.</ls> <ls>VS. 19, 20. 20, 12.</ls> <ls>AIT. BR. 1, 4. 11. 2, 13. 26.</ls> {#याज्यया यजति प्रत्तिर्वै याज्या#} 
@@ -34,8 +34,8 @@
 <ls>ŚĀṄKH. ŚR. 1, 17, 1. fgg. 7, 3, 4. 7, 6.</ls> 
 <ls>P. 8, 2, 90.</ls> {#याज्या^नुवाक्ये#} <is>gaṇa</is> {#कार्तकौजपादि#} zu 
 <ls>P. 6, 2, 37.</ls> {#त्रिवती याज्यानुवाक्या भवति#} 
-<ls>P. 6, 1, 176, <is>Vārtt</is>. 2,</ls> 
-<ls>Sch.</ls> {#याज्यानुवाक्याः#} 
+<ls>P. 6, 1, 176</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls>
+{#याज्यानुवाक्याः#} 
 <ls>Ind. St. 1, 69. 72</ls> (hier auch {#°वाक्यकाः)#}.{# प्रयाजयाज्याः#} 
 <ls>73.</ls>
 <LEND>

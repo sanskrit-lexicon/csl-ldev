@@ -3,7 +3,7 @@
 <ls>VYUTP. 155.</ls> 
 <ls>N. 5, 10.</ls> {#निर्विशेषा वयं त्वयि#} 
 <ls>MBH. 1, 5806.</ls> <ls n="MBH.">3, 13081.</ls> <ls n="MBH.">6, 56.</ls> <ls n="MBH.">8, 3895.</ls> {#कालो हि कार्यं प्रति निर्विशेषः#} 
-<ls>12, 737. 15, 111.</ls> {#अम्बरं सागरं चोभौ निर्विशेषमपश्यत#} 
+<ls n="MBH.">12, 737.</ls> <ls n="MBH.">15, 111.</ls> {#अम्बरं सागरं चोभौ निर्विशेषमपश्यत#} 
 <ls>R. 5, 74, 34.</ls> 
 <ls>VP.</ls> bei <ls>MUIR, Sanskrit Texts I, 29, N. 49, 1.</ls> <ls>BHĀG. P. 3, 10, 11</ls> ({%ohne unterscheidende Merkmale%}). 
 <ls>26, 17.</ls> <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 34.</ls> {#सम इह परितोषो निर्विशेषो विशेपः#} so v. a. {%nicht der geringste Unterschied%} 
@@ -15,7 +15,7 @@
 <ls>MBH. 1, 4892.</ls> <ls n="MBH.">6, 2166.</ls> <ls>PAÑCAT. I, 90.</ls> <ls>RĀJA-TAR. 1, 357.</ls> am Ende eines comp.: {#सुतनिर्विशेषम्#} {%nicht verschieden vom Sohne%} 
 <ls>RAGH. 5, 6.</ls> 
 <ls>RĀJA-TAR. 3, 95.</ls> {#°पेण = °षम्#} 
-<ls>P. 3, 3, 87,</ls> 
-<ls>Sch.</ls> {#तदत्र स्वगृहनिर्विशेषेण स्थीयताम्#} so v. a. {%als wenn es dein eigenes Haus wäre%} 
+<ls>P. 3, 3, 87</ls>, <ls>Sch.</ls>
+{#तदत्र स्वगृहनिर्विशेषेण स्थीयताम्#} so v. a. {%als wenn es dein eigenes Haus wäre%} 
 <ls>HIT. 38, 21.</ls>
 <LEND>

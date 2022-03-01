@@ -2,10 +2,10 @@
 {#वह#}¦ (von 1. {#वह्#}) 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}) {%fahrend, führend, ziehend%} u. s. w.: {#प्रतिस्रोतोवहा नदी#} {%gegen den Strom fliessend%} 
 <ls>MBH. 9, 3304.</ls> {#सर्वलोक°, परलोक°, पर°#} {%hinfliessend in, nach%} 
-<ls>8, 3324. fg. 9, 441.</ls> {#रणभूमि°#} {%durchfliessend%} 
-<ls>7, 895.</ls> {#वसामेदोवहाः कुल्याः#} {%strömend, mit sich führend%} 
-<ls>1, 2052. 8466. 3, 8397.</ls> {#पुण्यवहा नद्यः#} 
-<ls>16744. 13, 3166.</ls> <ls>R. 4, 13, 5. 44, 95.</ls> <ls>VARĀH. BṚH. S. 46, 48.</ls> {#सर्वगन्ध° (वायु)#} {%führend, verbreitend%} 
+<ls n="MBH.">8, 3324. fg.</ls> <ls n="MBH.">9, 441.</ls> {#रणभूमि°#} {%durchfliessend%} 
+<ls n="MBH.">7, 895.</ls> {#वसामेदोवहाः कुल्याः#} {%strömend, mit sich führend%} 
+<ls n="MBH.">1, 2052.</ls> <ls n="MBH. 1,">8466.</ls> <ls n="MBH.">3, 8397.</ls> {#पुण्यवहा नद्यः#} 
+<ls n="MBH. 1,">16744.</ls> <ls n="MBH.">13, 3166.</ls> <ls>R. 4, 13, 5. 44, 95.</ls> <ls>VARĀH. BṚH. S. 46, 48.</ls> {#सर्वगन्ध° (वायु)#} {%führend, verbreitend%} 
 <ls>M. 1, 76.</ls> 
 <ls>MBH. 3, 1764.</ls> 
 <ls>R. 3, 78, 13.</ls> {#योगक्षेम°#} {%bringend%} 
@@ -21,8 +21,8 @@
 <ls>MBH. 13, 6546.</ls> <ls n="MBH. 13,">6548.</ls> 
 <div n="1">— 2) subst. {#व꣡ह#} 
 <ls>P. 3, 3, 119.</ls> <is>gaṇa</is> {#भीमादि#} zu 
-<ls>4, 74.</ls> {#वृषादि#} zu 
-<ls>6, 1, 203.</ls> 
+<ls n="P. 3,">4, 74.</ls> {#वृषादि#} zu 
+<ls n="P.">6, 1, 203.</ls> 
 <div n="2"> a) <lex>m.</lex> <lex>n.</lex> {%Schulter des Joch- oder Zugthiers%} 
 <ls>AK. 2,9,63.</ls> <ls>TRIK. 3,3,459.</ls> <ls>H. 1264. an.2,602.</ls> <ls>MED. h. 8.</ls> <ls>HALĀY.2 ,112.</ls> <ls>AV. 4, 11, 7</ls> (oder zu b). <ls n="AV.">9, 7, 3.</ls> <ls>VS. 25,3.</ls> <ls>TS. 7,3,16,1.</ls> <ls>ŚAT. BR.1,1,2,9.2,3,28.4,5,1,15.</ls> {#ऊहुषो वहं प्रत्यनक्ति#} 
 <ls>PAÑCAV. BR. 13, 12, 15.</ls> 

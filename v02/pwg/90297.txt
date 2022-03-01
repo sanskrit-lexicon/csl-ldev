@@ -3,7 +3,7 @@
 <ls>P. 4, 2, 75</ls>) 
 <div n="1"> 1) <lex>adj.</lex> (f. {#ई#}) 
 <div n="2"> a) <is>Varuṇa</is> {%gehörig, an ihn gerichtet, ihm geweiht, zu ihm in Beziehung stehend%}: {#पाश#} 
-<ls>AV. 6, 121, 1. 7, 83, 4.</ls> 
+<ls>AV. 6, 121, 1.</ls> <ls n="AV.">7, 83, 4.</ls> 
 <ls>M. 8, 82.</ls> 
 <ls>MBH. 2, 2323.</ls> 
 <ls>R. 1, 29, 9 (30, 10 GORR.). 56, 9 (57, 10 GORR.).</ls> <ls>BHĀG. P. 8, 21, 26.</ls> {#मै\त्रं वा अह^र्वारु\णी रात्रि^ः#} 
@@ -17,11 +17,11 @@
 <ls>MAITRYUP. 6, 14.</ls> <ls>AV. PARIŚ.</ls> in <ls>Ind. St. 10, 320.</ls> <ls>VARĀH. BṚH. S. 5, 22. 32, 20.</ls> {#कम्प#} 
 <ls>27. 80, 9. 81, 7.</ls> {#शङ्ख#} 
 <ls>MBH. 2, 65.</ls> {#अस्त्र#} 
-<ls>5, 7174.</ls> <ls>R. 1, 56, 6 (57, 5 GORR.). 5, 58, 6.</ls> <ls>UTTARAR. 105, 4 (142, 10).</ls> <ls>KATHĀS. 14, 29.</ls> {#छत्त्र#} 
+<ls n="MBH.">5, 7174.</ls> <ls>R. 1, 56, 6 (57, 5 GORR.). 5, 58, 6.</ls> <ls>UTTARAR. 105, 4 (142, 10).</ls> <ls>KATHĀS. 14, 29.</ls> {#छत्त्र#} 
 <ls>RĀJA-TAR. 2, 148.</ls> {#व्रत#} 
 <ls>Spr. 2751.fg.</ls> {#लोक#} 
 <ls>MBH. 15, 903.</ls> {#वारुण्यो मातरः स्कन्दस्य#} 
-<ls>9, 2655.</ls> {#गणाः#} 
+<ls n="MBH.">9, 2655.</ls> {#गणाः#} 
 <ls>HARIV. 10923.</ls> {#सैन्य#} 
 <ls n="HARIV.">10924.</ls> <ls n="HARIV.">10929.</ls> <ls n="HARIV.">13924.</ls> {#युद्ध#} ({#प्रयुद्ध#} die ältere Ausg.) 
 <ls n="HARIV.">10928.</ls> {#तनु#} 
@@ -39,7 +39,7 @@
 u.s.w.) <ls>VAHNI-P.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) {%westlich (unter%} <is>Varuṇa</is> {%stehend%}), in Verbindung mit {#दिश्#} und {#वारुणी#} <lex>f.</lex> {%Westen%} 
 <ls>AK. 3, 4, 13, 54.</ls> 
-<ls>H. 169,</ls> <ls>Schol.</ls> <ls>H. an. 3, 225.</ls> <ls>MED. ṇ. 68.</ls> <ls>HALĀY. 1, 101.</ls> <ls>ADBH. BR.</ls> in <ls>Ind. St. 1, 37, 1.</ls> {#दिशं पश्चिमां वारुणीम्#} 
+<ls>H. 169</ls>, <ls>Schol.</ls> <ls>H. an. 3, 225.</ls> <ls>MED. ṇ. 68.</ls> <ls>HALĀY. 1, 101.</ls> <ls>ADBH. BR.</ls> in <ls>Ind. St. 1, 37, 1.</ls> {#दिशं पश्चिमां वारुणीम्#} 
 <ls>R. 4, 43, 4.</ls> {#सिरा#} 
 <ls>VARĀH. BṚH. S. 54, 46. 86, 22.</ls> {#वारुण्याम्#} 
 <ls>11, 43. 54, 37.</ls> {#नैरृतीवारुणीमध्ये#} 

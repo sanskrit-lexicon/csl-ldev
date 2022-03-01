@@ -54,8 +54,8 @@
 <ls>M. 2, 209.</ls> {#दंपत्योः शेषभोजनम्#} 
 <ls>YĀJÑ. 1, 105.</ls> {#क्षीर°#} 
 <ls>Spr. 3149.</ls> {#ओदन°#} 
-<ls>P. 6, 2, 150,</ls> 
-<ls>Sch.</ls> {#विप्रदारान्न°#} 
+<ls>P. 6, 2, 150</ls>, <ls>Sch.</ls>
+{#विप्रदारान्न°#} 
 <ls>PAÑCAR. 1, 11, 7.</ls> {#ग्राम्याभोजन#} 
 <ls>KĀTY. ŚR. 22, 1, 30.</ls> {#भोजनं मधुरं स्निग्धम्#} 
 <ls>VS. PRĀT. 1, 25.</ls> {#चैलभाजनभोजनम्#} 
@@ -86,14 +86,14 @@
 <ls>MBH. 8, 4147.</ls> {#त्रिद्व्येक°#} {%jeden dritten Tag, jeden zweiten und täglich Speise zu sich nehmend%} 
 <ls>H. 132.</ls> {#शालितण्डुलभोजना (पुरी)#} {%zur Speise darbietend%} 
 <ls>R. 1, 5, 15 (17 GORR.).</ls> {#राजभोजनाः शालयः#} {%von Fürsten genossen%} 
-<ls>P. 3, 3, 113,</ls> 
-<ls>Sch.</ls> {#सेनामद्य करिष्यामि क्रव्यादखगभोजनाम्#} so v. a. {%ich werde heute das Heer zur Speise der fleischfressenden Thiere und Vögel machen%} 
+<ls>P. 3, 3, 113</ls>, <ls>Sch.</ls>
+{#सेनामद्य करिष्यामि क्रव्यादखगभोजनाम्#} so v. a. {%ich werde heute das Heer zur Speise der fleischfressenden Thiere und Vögel machen%} 
 <ls>R. GORR. 2, 91, 16.</ls> 
 <div n="2">— c) {%was zum Genuss%} oder {%Benutzung dient, Habe, Besitz%} 
 <ls>NAIGH. 2, 10.</ls> {#यज्वेदय^ज्यो\र्वि भ^जाति\ भोज^नम्#} 
 <ls>ṚV. 2, 26, 1.</ls> <ls n="ṚV. 2,">13, 4.</ls> {#प\णेः#} 
 <ls n="ṚV.">1, 83, 4.</ls> <ls n="ṚV.">5, 34, 7.</ls> <ls n="ṚV.">7, 5, 3.</ls> <ls n="ṚV. 7,">18, 15.</ls> <ls n="ṚV. 7, 18,">17.</ls> <ls>AV. 4, 22, 6.</ls> {#विश्वा\ नर्या^णि\ भोज^ना#} 
-<ls>4, 36, 8. 10, 48, 1. 131, 2.</ls> 
+<ls n="AV.">4, 36, 8.</ls> <ls n="AV.">10, 48, 1.</ls> <ls n="AV. 10,">131, 2.</ls> 
 <div n="2">— d) {%Genuss%}, sowohl {%was man geniesst%} als {%die daraus entspringende Befriedigung, delectatio%}: {#वि\श्वप्स्न्या^य\ प्र भ^रन्त\ भोज^नम्#} 
 <ls>ṚV. 2, 13, 2.</ls> <ls n="ṚV. 2, 13,">6.</ls> {#सना\ ता त^ इन्द्र\ भोज^नानि रा\तह^व्याय दा\शुषे^ सु\दासे^#} 
 <ls n="ṚV.">7, 19, 6.</ls> <ls n="ṚV. 7,">68, 5.</ls> <ls n="ṚV. 7,">74, 2.</ls> {#सुभ^द्रमर्य\ भोज^नं बिभर्षि#} 

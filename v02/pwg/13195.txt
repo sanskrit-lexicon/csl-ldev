@@ -4,7 +4,7 @@
 <ls>P. 1, 1, 27.</ls> 
 <ls>VOP. 3, 9</ls> (Pronominaldeclination). Kann mit seinem nom. compon. werden 
 <ls>P. 2, 1, 49.</ls> erscheint im comp. und in Ableitungen nie im fem. 
-<ls>6, 3, 62.</ls> {#एकस्या क्षीरम् = एकक्षीरम्, एकस्या आगतम् = एकरूप्यम्#} <ls>Sch.</ls> Ableitungen von compp. mit {#एक#} im ersten Gliede 
+<ls n="P.">6, 3, 62.</ls> {#एकस्या क्षीरम् = एकक्षीरम्, एकस्या आगतम् = एकरूप्यम्#} <ls>Sch.</ls> Ableitungen von compp. mit {#एक#} im ersten Gliede 
 <ls>5, 2, 118.</ls> 
 <div n="1"> 1) <lex>adj.</lex> num. <lex>f.</lex> {#आ#} {%einer; einzig, alleinig, einmalig; ein und derselbe%} 
 <ls>AK. 3, 2, 31. 4, 16. 130.</ls> 
@@ -16,7 +16,7 @@
 <ls>ṚV. 1, 164, 46.</ls> {#वेषीदेको^ यु\धये\ भूय^सश्चित्#} 
 <ls n="ṚV.">5, 30, 4.</ls> {#य एको\ वस्वो\ वरु^णो\ न राज^ति#} 
 <ls n="ṚV.">1, 143, 4.</ls> {#तत्स\ंभूय^ भव\त्येक^मे\व#} 
-<ls>AV. 10, 8, 11. 18, 4, 11.</ls> {#मनुरेवैकः परिशिशिषे#} 
+<ls>AV. 10, 8, 11.</ls> <ls n="AV.">18, 4, 11.</ls> {#मनुरेवैकः परिशिशिषे#} 
 <ls>ŚAT. BR. 1, 8, 1, 6. 2, 5, 1, 1. 14, 4, 2, 22.</ls> {#त्वमेको ह्यस्य सर्वस्य विधानस्य - कार्यतत्त्वार्थवित्#} 
 <ls>M. 1, 3. 86. 105. 2, 180. 4, 240.</ls> 
 <ls>P. 1, 1, 21.</ls> 
@@ -53,8 +53,8 @@ davor: {#एकया न त्रिंशत्#}
 <ls>9, 2, 3, 47. 6, 2, 2, 37.</ls> {#एकांनविंशतिधा꣡#} 
 <ls>10, 4, 3, 18.</ls> {#एकांनपञ्चाशद्रात्र#} 
 <ls>KĀTY. ŚR. 24, 2, 38. 3, 36.</ls> {#एकेन न विंशतिः, एकान्नविंशति#} (compon.) oder {#एकाद्भविंशति#} 
-<ls>P. 6, 3, 76,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 3, 76</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 6, 36.</ls> In nicht-accentuirtern Texten 
 (z. B. <ls>TAITT. UP. 3, 11</ls> {#एकान्नविंशतिः#}) muss es dahingestellt bleiben, ob {#एकान्न#} in {#एकां न#} oder in {#एकात् + न#} zu zerlegen sei. Ueber eine noch andere Bezeichnungsweise s. u. {#ऊन#} . 
 <div n="1">— 2) {%einzig in seiner Art, vorzüglich%} 
@@ -81,7 +81,7 @@ davor: {#एकया न त्रिंशत्#}
 <ls>N. 1, 18. 5, 14.</ls> {#तदेकमपि#} ({%irgend eines von diesen%}) {#दूषणं त्वयि न लक्ष्यते#} 
 <ls>HIT. 25, 10.</ls> {#त्रीणि\ जाना\ परि^ भूषन्त्यस्य समु\द्र एक^ं दि\व्येक^म\प्सु#} 
 <ls>ṚV. 1, 95, 3.</ls> {#गोमा^यु\रेको^ अ\जमा^यु\रेक\ः पृश्नि\रेको\ हरि^त\ एक^ एषाम्#} 
-<ls n="ṚV.">7, 103, 6.</ls> <ls n="ṚV.">1, 161, 9.</ls> <ls>AV. 4, 37, 11. 5, 28, 6.</ls> {#चलत्येकेन पादेन तिष्ठत्येकेन बुद्धिमान्#} 
+<ls n="ṚV.">7, 103, 6.</ls> <ls n="ṚV.">1, 161, 9.</ls> <ls>AV. 4, 37, 11.</ls> <ls n="AV.">5, 28, 6.</ls> {#चलत्येकेन पादेन तिष्ठत्येकेन बुद्धिमान्#} 
 <ls>HIT. I, 97.</ls> {#एक - अन्य#} 
 <ls>ŚVETĀŚV. UP. 4, 5.</ls> 
 <ls>HIT. I, 60.</ls> <ls>MEGH. 76.</ls> <ls>SĀṂKHYAK. 66.</ls> {#एक - अपर#} 
@@ -100,8 +100,8 @@ davor: {#एकया न त्रिंशत्#}
 <ls>H. 619.</ls> {#एके - एके#} {%Einige - Andere%} 
 <ls>AV. 6, 122, 2.</ls> 
 <ls>BṚH. ĀR. UP. 5, 12.</ls> {#एके - अपरे#} 
-<ls>P. 7, 2, 45,</ls> 
-<ls>Sch.</ls> {#एके - अन्ये - तथान्ये#} 
+<ls>P. 7, 2, 45</ls>, <ls>Sch.</ls>
+{#एके - अन्ये - तथान्ये#} 
 <ls>M. 10, 70.</ls> {#एके - एके#}
 [Page1-1071]
 — {#अपरे#} 

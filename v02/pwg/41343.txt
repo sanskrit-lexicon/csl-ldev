@@ -1,8 +1,8 @@
 <L>41343<pc>4-0358<k1>पञ्चक<k2>प꣡ञ्चक
 {#प꣡ञ्चक#}¦ (von {#पञ्चन्#}) 
 <div n="1"> 1) <lex>adj.</lex> {%aus Fünfen bestehend%}, = {#पञ्च परिमाणमस्य#} 
-<ls>P. 5, 1, 58,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 1, 58</ls>, <ls>Sch.</ls> 
+
 <ls>ṚV. PRĀT. 16, 10.</ls> {#गण#} 
 <ls>M. 2, 92.</ls> 
 <ls>SĀṂKHYAK. 24.</ls> {#वर्ग#} 
@@ -10,14 +10,14 @@
 <ls>SUŚR. 1, 143, 21. 158, 2.</ls> 
 <ls>KĀM. NĪTIS. 8, 37. 38.</ls> <ls>BHĀG. P. 8, 16, 50.</ls> <ls>Ind. St. 1, 88.</ls> {#दासास्त्रिपञ्चकाः#} {%von fünfzehnerlei Art%} 
 <ls>MIT. 267, 7.</ls> = {#पञ्चांशो वस्नं भृतिर्वास्य#} 
-<ls>P. 5, 1, 56,</ls> 
-<ls>Sch.</ls> {#°मासिक#} {%der im Monat fünf erhält%} 
-<ls>P. 5, 4, 116, <is>Vārtt</is>. 4,</ls> 
-<ls>Sch.</ls> {#देवदत्तः#} {%fünf Procent nehmend%} 
-<ls>P. 5, 1, 47, <is>Vārtt</is>.,</ls> 
-<ls>Sch.</ls> {%für fünf gekauft%} 
-<ls>P. 5, 1, 22,</ls> 
-<ls>Sch.</ls> {#पञ्चकं शतम्#} {%fünf vom Hundert%} 
+<ls>P. 5, 1, 56</ls>, <ls>Sch.</ls>
+{#°मासिक#} {%der im Monat fünf erhält%} 
+<ls>P. 5, 4, 116</ls>, <is>Vārtt</is>. 4, <ls>Sch.</ls>
+{#देवदत्तः#} {%fünf Procent nehmend%} 
+<ls>P. 5, 1, 47</ls>, <is>Vārtt</is>., <ls>Sch.</ls>
+{%für fünf gekauft%} 
+<ls>P. 5, 1, 22</ls>, <ls>Sch.</ls>
+{#पञ्चकं शतम्#} {%fünf vom Hundert%} 
 <ls>M.8, 139. 142. 152.</ls> <ls>YĀJÑ. 2, 37. 42.</ls>
 [Page4-0359]
 {#वयसाशीतिपञ्चकः#} {%85 jährig%} 
@@ -25,8 +25,8 @@
 <ls>P. 2, 4, 31.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {#पञ्चकाः = शकुनयः#} 
-<ls>P. 5, 1, 58,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 1, 58</ls>, <ls>Sch.</ls> 
+
 <div n="2">— b) N. pr. eines Wesens im Gefolge des <is>Skanda</is> 
 <ls>MBH. 9, 2537.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#पञ्चिका#} 
@@ -42,8 +42,8 @@
 <ls>HARIV. 15356.</ls> 
 <ls>AK. 2, 8, 2, 53.</ls> 
 <ls>VARĀH. BṚH. S. 9, 14. 53, 85. 67, 89.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 100.</ls> <ls>PAÑCAT. 134, 16.</ls> <ls>BHĀG. P. 3, 11, 15.</ls> <ls>MĀRK. P. 37, 33. Schol.</ls> zu <ls>KĀTY. ŚR. 467, 19. 550, 3.</ls> <ls>VEDĀNTAS. (Allah.) No. 45. Schol.</ls> bei <ls>WILSON, SĀṂKHYAK. S. 126.</ls> <ls>VOP. 5, 12. 25, 17.</ls> {#पञ्चकेन#} <is>gaṇa</is> {#प्रकृत्यादि#} zu 
-<ls>P. 2, 3, 18, <is>Vārtt</is>.</ls> {#पञ्चपञ्चकतत्त्वज्ञ#} {%die 25%} <is>Tattva</is> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 100.</ls> <ls>PAÑCAT. 134, 16.</ls> <ls>BHĀG. P. 3, 11, 15.</ls> <ls>MĀRK. P. 37, 33.</ls> Schol. zu <ls>KĀTY. ŚR. 467, 19. 550, 3.</ls> <ls>VEDĀNTAS. (Allah.) No. 45.</ls> Schol. bei <ls>WILSON, SĀṂKHYAK. S. 126.</ls> <ls>VOP. 5, 12. 25, 17.</ls> {#पञ्चकेन#} <is>gaṇa</is> {#प्रकृत्यादि#} zu 
+<ls>P. 2, 3, 18</ls>, <is>Vārtt</is>. {#पञ्चपञ्चकतत्त्वज्ञ#} {%die 25%} <is>Tattva</is> 
 <ls>R. 3, 53, 42</ls>; man hätte eher {#पञ्चतत्त्वपञ्चक#} erwartet. 
 <div n="2">— b) {%Schlachtfeld%} 
 <ls>ŚABDĀRTHAK.</ls> bei <ls>WILS.</ls>; viell. aus {#समन्तपञ्चक#} geschlossen.

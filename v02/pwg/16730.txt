@@ -6,7 +6,7 @@
 <ls>H. 126.</ls> 
 <ls>an. 2, 478.</ls> 
 <ls>MED. l. 7.</ls> Im <ls>ṚV.</ls> nur an einer Stelle: {#उ\त प्र\हाम^ति\दीव्या^ जयाति कृ\तं यच्छ्व\घ्नी वि^चि\नोति^ का\ले#} 
-<ls n="ṚV.">10, 42, 9.</ls> <ls>AV. 19, 53 und 54</ls> sind Lieder, welche von Macht und Wesen der Zeit handeln, deren Begriff an den der {%Weltordnung%} oder des {%Schicksals%} streift (vgl. unter 2.). Einigermaassen gebräuchlich wird das Wort (st. des alten {#ऋतु#}) erst in den 
+<ls n="ṚV.">10, 42, 9.</ls> <ls>AV. 19, 53</ls> und <ls>54</ls> sind Lieder, welche von Macht und Wesen der Zeit handeln, deren Begriff an den der {%Weltordnung%} oder des {%Schicksals%} streift (vgl. unter 2.). Einigermaassen gebräuchlich wird das Wort (st. des alten {#ऋतु#}) erst in den 
 <ls>BRĀHMAṆA</ls> : {#स एष स्विष्टकृतः कालः#} 
 <ls>ŚAT. BR. 1, 7, 3, 3. 3, 8, 3, 36.</ls> {#यदि काले यद्यनाकाले ऽथैवाश्नन्ति#} 
 <ls>2, 4, 2, 4.</ls> {#जुहोति काल एव#} 
@@ -26,7 +26,7 @@
 <ls>PAÑCAT. 182, 24.</ls> {#कालविद्#} 
 <ls>R. 4, 32, 13.</ls> {#कालं गच्छति#} {%er gelangt zum Endpunkt%} (beim coitus) 
 <ls>CHĀND. UP. 2, 13, 1.</ls> {%die zu Etwas bestimmte —, geeignete Zeit%}; die Ergänz. im gen., dat., loc., im comp. vorang., im inf. oder im potent. mit {#यद्#} 
-(<ls>P. 3, 3, 167. 168</ls>): {#संप्रतिष्ठामहे कालः प्रस्थानस्य#} 
+(<ls>P. 3, 3, 167.</ls> <ls n="P. 3, 3,">168</ls>): {#संप्रतिष्ठामहे कालः प्रस्थानस्य#} 
 <ls>R. 2, 56, 2.</ls> {#तस्य कालो ऽयमागतः#} {%dazu ist jetzt die Zeit gekommen%} 
 <ls>VIŚV. 12, 9.</ls> {#एष द्वैधीभावस्य कालः#} 
 <ls>PAÑCAT. 155, 9. 143, 12.</ls> 
@@ -43,8 +43,8 @@
 <ls>N. 20, 11.</ls> 
 <ls>DRAUP. 3, 7.</ls> 
 <ls>R. 6, 93, 23.</ls> {#कालो यद्भुञ्जीत भवान्#} 
-<ls>P. 3, 3, 168,</ls> 
-<ls>Sch.</ls> — {#कालमासाद्य#} {%in Berücksichtigung der Zeitumstände%}: {#कालमासाद्य #}
+<ls>P. 3, 3, 168</ls>, <ls>Sch.</ls>
+— {#कालमासाद्य#} {%in Berücksichtigung der Zeitumstände%}: {#कालमासाद्य #}
 [Page2-0249]
 {# कार्यं च दण्डं राजा प्रकल्पयेत्#} 
 <ls>M. 8, 324. 9, 293.</ls> {#स्कन्धेनापि वहेच्छत्रुं कालमासाद्य बुद्धिमान्#} 
@@ -69,12 +69,12 @@
 <ls>R. 6, 38, 29.</ls> Eine andere Bed. von {#कालं कर्#} wird u. 3 besprochen werden. {#त्रिकालज्ञ#} 
 <ls>R. 1, 1, 8.</ls> {#इष्टपञ्चकालज्ञ#} 
 <ls>MBH. 12, 12797.</ls> {#अग्नौ जुह्वदुभौ कालावुभौ कालावुपस्पृशन्#} {%bei Sonnenauf - und Niedergang%} 
-<ls>1, 4623.</ls> {#षष्ठे काले ऽह्नः#} {%zur 6ten Stunde am Tage%} d. i. {%um Mittagszeit%} 
+<ls n="MBH.">1, 4623.</ls> {#षष्ठे काले ऽह्नः#} {%zur 6ten Stunde am Tage%} d. i. {%um Mittagszeit%} 
 <ls>VIKR. 20.</ls> {#षष्ठान्नकाल#} {%der nur die sechste Esszeit hat%} d. i. {%der 5 Mahlzeiten vorübergehen lässt und erst am Abend des 3ten Tages seine Mahlzeit hält%}; davon nom. abstr. {#षष्ठान्नकालता#} 
 <ls>M. 11, 200.</ls> Gewöhnlich mit Weglassung von {#अन्न#} {%Speise%}: {#चतुर्थकालम्#} {%zur vierten Esszeit%} d. i. {%am Abend des zweiten Tages%} 
 <ls>109.</ls> {#षष्ठे काले#} {%am Abend des dritten Tages%} 
 <ls>MBH. 13, 5175.</ls> <ls n="MBH.">14, 1663.</ls> <ls n="MBH. 14,">1665.</ls> {#कदाचिद्द्वादशे काले कदाचिदपि षोडशे । आहारमकरोद्राजा मूलानि च फलानि च ॥#} 
-<ls>1, 8118.</ls> Vgl. {#चतुर्थकालिक#} und {#अष्टमकालिक#} adjj. {%der erst am Abend des zweiten%} und {%vierten Tages seine Mahlzeit hält%} 
+<ls n="MBH.">1, 8118.</ls> Vgl. {#चतुर्थकालिक#} und {#अष्टमकालिक#} adjj. {%der erst am Abend des zweiten%} und {%vierten Tages seine Mahlzeit hält%} 
 <ls>M. 6, 19.</ls> {#ऋतुकाल#} {%die Zeit der monatlichen Reinigung%} 
 <ls>NIR. 1, 19.</ls> 
 <ls>ŚĀṄKH. ŚR. 3, 13, 47.</ls> 
@@ -133,7 +133,7 @@
 <ls>BHARTṚ. 3, 43.</ls> 
 <ls>Verz. d. B. H. No. 948.</ls> {#सर्वे कालेन सृज्यन्ते ह्रियन्ते च पुनः पुनः#} 
 <ls>MBH. 13, 56.</ls> {#कालस्याहं वशानुगः#} 
-<ls>51.</ls> <ls>R. 6, 12, 1.</ls> {#प्रचोदितो ऽहं कालेन पन्नग त्वामचूचुदम्#} 
+<ls n="MBH. 13,">51.</ls> <ls>R. 6, 12, 1.</ls> {#प्रचोदितो ऽहं कालेन पन्नग त्वामचूचुदम्#} 
 <ls>MBH. 13, 50.</ls> {#अयं रामस्त्वयं राम इति कालेन चोदिताः । अन्यो ऽन्यं समरे जघ्नुः#} 
 <ls>R. 3, 31, 47.</ls> {#कालचोदित#} 
 <ls>1, 1, 50. 3, 8, 8.</ls> <ls>ARJ. 10, 31.</ls> <ls>DRAUP. 8, 4.</ls> 
@@ -149,7 +149,7 @@
 <ls>R. 2, 64, 52</ls>; vgl. {#कालकर्मन्#} und {#कालक्रिया#}.{# कालसमायुक्त#} {%gestorben%} 
 <ls>6, 93, 23.</ls> {#कालस्य नयने युक्ता यमस्य पुरुषाश्च ये#} 
 <ls>MBH. 2, 343.</ls> {#सो ऽयं व्यक्तं भवतां कालहेतुः#} 
-<ls>2096.</ls> {#स हि मेघाचलप्रख्यः कालः पुरुषविग्रहः । वरायुधधरः श्रीमानुत्पपात विहायसा ॥#} 
+<ls n="MBH. 2,">2096.</ls> {#स हि मेघाचलप्रख्यः कालः पुरुषविग्रहः । वरायुधधरः श्रीमानुत्पपात विहायसा ॥#} 
 <ls>R. 5, 89, 45.</ls> {#कालो हि व्यसनप्रसारितभुजो गृह्णाति दूरादपि#} 
 <ls>PAÑCAT. II, 21.</ls> {#उपेत्य मुनिवेषो ऽथ कालः प्रोवाच राघवम्#} 
 <ls>RAGH. 15, 92.</ls> {#पितॄणां (पतिं) सर्वनिधनं कालं वैश्वानरं प्रभुम्#} 
@@ -175,7 +175,7 @@
 <ls>11.</ls> {#कालमुद्गर#} 
 <ls>R. 3, 54, 10.</ls> {#कालजिह्व#} 
 <ls>MBH. 1, 2932.</ls> {#कालविष#} 
-<ls>3, 10884.</ls> {#कालाग्निना यथा पूर्वं त्रैलोक्यं दह्यते ऽखिलम्#} 
+<ls n="MBH.">3, 10884.</ls> {#कालाग्निना यथा पूर्वं त्रैलोक्यं दह्यते ऽखिलम्#} 
 <ls>VIŚV. 15, 16. 6, 19.</ls> 
 <ls>MBH. 3, 10393.</ls> {#कालाग्निसदृशः क्रोधे#} 
 <ls>R. 1, 1, 19.</ls> {#कालाग्निमिव दुःसहम्#} 
@@ -188,14 +188,14 @@
 <ls>MBH. 2, 340.</ls> <is>Kāla</is> (kann hier wie im Folgenden auch als Personif. der {%Zeit%} oder des {%Schicksals%} aufgefasst werden) als
 [Page2-0251]
 <is>Devarṣi</is> in <is>Indra's</is> {#सभा#} 
-<ls>295.</ls> <is>Kāla</is> ein Sohn <is>Dhruva's</is>, {%des Polarsterns%}: {#ध्रुवस्य पुत्रो भगवान्कालो लोकप्रकालनः#} (vgl. oben 
+<ls n="MBH. 2,">295.</ls> <is>Kāla</is> ein Sohn <is>Dhruva's</is>, {%des Polarsterns%}: {#ध्रुवस्य पुत्रो भगवान्कालो लोकप्रकालनः#} (vgl. oben 
 <ls>HARIV. 374</ls>) <ls n="MBH.">1, 2585.</ls> <ls>HARIV. 154.</ls> <ls>VP. 120.</ls> {#काल = माठर#} im Gefolge des Sonnengottes 
 <ls>VYĀḌI</ls> zu <ls>H. 103.</ls> 
 <div n="1">— 4) {%Zeitalter, Weltalter%} (= {#युग): तूर्ये काले#} 
 <ls>RĀJA-TAR. 5, 73.</ls> 
 <div n="1">— 5) {%Zeit%} so v. a. {%Zeitmaass; Prosodie%}: {#एकादशिद्वादशिनोर्लघावष्टममक्षरम् (प्लबते) । उदये संहिताकाले#} 
 <ls>ṚV. PRĀT. 8, 21.</ls> {#ह्रस्वो दीर्घः प्लुत इति कालतो नियमा ऋचि#} 
-<ls>ŚIKṢĀ 11.</ls> <ls>AV. PRĀT. 2, 39.</ls> <ls>P. 1, 1, 70. 2, 27.</ls> 
+<ls>ŚIKṢĀ 11.</ls> <ls>AV. PRĀT. 2, 39.</ls> <ls>P. 1, 1, 70.</ls> <ls n="P. 1,">2, 27.</ls> 
 <div n="1">— 6) {%Abtheilung, Abschnitt%} 
 <ls>VS. PRĀT. 3, 4.</ls> <ls n="VS. PRĀT. 3,">5.</ls> 
 <div n="v">— Vgl. {#अकाल, आकाल, एककालम्, यथाकालम्#} .

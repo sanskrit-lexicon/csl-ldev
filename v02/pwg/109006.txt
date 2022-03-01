@@ -13,12 +13,12 @@
 <ls>ṚV. 1, 64, 8.</ls> <ls n="ṚV.">10, 67, 9.</ls> <ls n="ṚV.">1, 95, 5.</ls> <ls n="ṚV. 1,">174, 3.</ls> {#नानद#} 
 <ls n="ṚV.">3, 2, 11.</ls> <ls n="ṚV. 3,">9, 4.</ls> <ls n="ṚV. 3,">26, 5.</ls> {#सि\ंहस्य^ स्त\नथा^ः#} 
 <ls n="ṚV.">5, 83, 3.</ls> <ls n="ṚV. 5,">74, 4.</ls> <ls n="ṚV.">9, 89, 3.</ls> <ls n="ṚV.">10, 28, 10.</ls> {#भीम#} 
-?<ls n="ṚV.">4, 16, 14.</ls> <ls n="ṚV.">9, 97, 28.</ls> <ls>VS. 14, 9.</ls> <ls>AV. 4, 36, 6. 5, 20, 1. 2. 21, 6. 8, 7, 15.</ls> <ls>KĀṬH. 12, 10</ls> in <ls>Ind. St. 3, 464.</ls> <ls>ŚAT. BR. 5, 5, 4, 10.</ls> {#°लोम꣡न्#} 
+?<ls n="ṚV.">4, 16, 14.</ls> <ls n="ṚV.">9, 97, 28.</ls> <ls>VS. 14, 9.</ls> <ls>AV. 4, 36, 6.</ls> <ls n="AV.">5, 20, 1.</ls> <ls n="AV. 5, 20,">2.</ls> <ls n="AV. 5,">21, 6.</ls> <ls n="AV.">8, 7, 15.</ls> <ls>KĀṬH. 12, 10</ls> in <ls>Ind. St. 3, 464.</ls> <ls>ŚAT. BR. 5, 5, 4, 10.</ls> {#°लोम꣡न्#} 
 <ls>18. 12, 7, 1, 8. 2, 8. 9, 1, 6.</ls> <ls>KAUŚ. 13.</ls> <ls>KĀTY. ŚR. 19, 2, 22.</ls> <ls>TS. 5, 5, 21, 1.</ls> wird zu den {#गुहाशय#} gerechnet 
 <ls>SUŚR. 1, 202, 9.</ls> 
 <ls>RĀJAN. 19, 1.</ls> zu der {#मध्यमा तामसी गतिः#} 
 <ls>M. 12, 43.</ls> - <ls>MBH. 3, 2402.</ls> {#स प्रविश्याश्रमं पुण्यं सिंहगोष्ठं वृको यथा#} 
-<ls>15618. 12, 4285.</ls> <ls>R. 3, 53, 46.</ls> <ls>RAGH. 2, 27.</ls> {#सिंहवत्पराक्रमेत्#} 
+<ls n="MBH. 3,">15618.</ls> <ls n="MBH.">12, 4285.</ls> <ls>R. 3, 53, 46.</ls> <ls>RAGH. 2, 27.</ls> {#सिंहवत्पराक्रमेत्#} 
 <ls>Spr. (II) 4378.</ls> {#अपमाने त्रयो यान्ति सिंहाः सत्पुरुषा गजाः#} 
 <ls>2638. 7224.</ls> der Donner erschreckt ihn 
 <ls>5563.</ls> {#सिंहव्याघ्रभुजंगानामन्येषां पापकर्मणाम् । मनोरथा न सिध्यन्ति तेन जीवन्ति मानवाः ॥#} 
@@ -36,7 +36,7 @@
 <ls>BHĀG. P. 7, 10, 9.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>MBH. 7, 28.</ls> 
 <div n="2">— b) {%der Löwe im Thierkreise%} 
-<ls>TRIK.3,3,462.</ls> <ls>H. 116,</ls> <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. 184,b, No. 419. 339,b,33.</ls> <ls>VARĀH. BṚH. S.5,39. 40,3. 41,4.</ls> <ls>LAGHUJ.1,12. 22.</ls> <ls>MĀRK. P. 58,76.</ls> 
+<ls>TRIK.3,3,462.</ls> <ls>H. 116</ls>, <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. 184,b, No. 419. 339,b,33.</ls> <ls>VARĀH. BṚH. S.5,39. 40,3. 41,4.</ls> <ls>LAGHUJ.1,12. 22.</ls> <ls>MĀRK. P. 58,76.</ls> 
 <div n="2">— c) am Ende eines comp. so v. a. {%der Beste unter%} <is>gaṇa</is> {#व्याघ्रादि#} 
 zu <ls>P. 2, 1, 56.</ls> <ls>AK. 3, 2, 9.</ls> <ls>TRIK.</ls> <ls>H. 1440.</ls> <ls>H. an.</ls> <ls>MED.</ls> das vorangehende Wort hat den Acut auf der ersten Silbe 
 <ls>P. 6, 2, 72.</ls> {#भरत°#} 
@@ -50,7 +50,7 @@ zu <ls>P. 2, 1, 56.</ls> <ls>AK. 3, 2, 9.</ls> <ls>TRIK.</ls> <ls>H. 1440.</ls> 
 <ls>RĀJA-TAR. 1, 318.</ls> {#मुनि°#} R. Einl. {#कपि°#} 
 <ls>MBH. 4, 752.</ls> 
 <ls>R. 4, 18, 18. 47, 2.</ls> {#तृण°#} 
-<ls>P. 6, 2, 72, Schol.</ls> {#नागपुर°#} so v. a. {%Fürst, Beherrscher von%} 
+<ls>P. 6, 2, 72</ls>, Schol. {#नागपुर°#} so v. a. {%Fürst, Beherrscher von%} 
 <ls>N.</ls> <ls>MBH. 1, 4462.</ls> die Bed. {%Fürst, König%} hat das Wort auch am Anfange mehrerer compp. (z. B. {#सिंहद्वार्, सिंहासन#}). 
 <div n="2">— d) {%eine best. Tempelform%} 
 <ls>VARĀH. BṚH. S. 56, 18.</ls> {#सिंहः सिंहाक्रान्तो द्वादशकोणो ऽष्टहस्तविस्तीर्णः#} 28. {%ein zum Aufbau eines Hauses besonders zugerichteter Platz%}; s. u. {#गज#} 4). 
@@ -58,7 +58,7 @@ zu <ls>P. 2, 1, 56.</ls> <ls>AK. 3, 2, 9.</ls> <ls>TRIK.</ls> <ls>H. 1440.</ls> 
 <ls>SUŚR. 2, 67, 16.</ls> = {#रक्तशिग्रु#} 
 <ls>RĀJAN. 7, 32.</ls> 
 <div n="2">— f) N. pr. verschiedener Personen 
-<ls>P. 5, 3, 81, Schol.</ls> ein Sohn <is>Kṛṣṇa's</is> 
+<ls>P. 5, 3, 81</ls>, Schol. ein Sohn <is>Kṛṣṇa's</is> 
 <ls>BHĀG. P. 10, 61, 15.</ls> ein Fürst der <is>Vidyādhara</is> 
 <ls>KATHĀS. 106, 37.</ls> ein Kaufmann 
 <ls>BURNOUF, Intr. 223.</ls> <ls>HIOUEN-THSANG 2, 132.</ls> - <ls>Lot. de la b. l. 2.</ls> <ls>SCHIEFNER, Lebensb. 268 (38).</ls> <ls>WASSILYEW 52. fg. 208.</ls> <ls>TĀRAN. 3. 58. 146. 158. 299. 306. fg.</ls> <ls>RĀJA-TAR. 8, 959. 1008. 1047.</ls> {#°भूभृत्#} 

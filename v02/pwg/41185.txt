@@ -6,7 +6,7 @@
 <ls>H. 1318.</ls> 
 <ls>MED. ṣ. 18. 19.</ls> <ls>HALĀY. 2, 84. 5, 63.</ls> <ls>VAIJ.</ls> in den Scholl. zu <ls>KIR. 14, 31</ls> und <ls>ŚIŚ. 2, 117. 11, 7. 20, 11.</ls> {#श्येनस्य#} 
 <ls>ṚV. 1, 163, 1.</ls> <ls n="ṚV.">8, 34, 9.</ls> {#प\क्षो वयो\ यथो\परि\ व्य१^\स्मे शर्म^ यच्छत#} 
-<ls>47, 2. 3. 1, 166, 10.</ls> <ls>AV. 6, 8, 2. 10, 8, 18.</ls> <ls>ŚAT. BR. 4, 1, 2, 26. 10, 2, 1, 1. 5.</ls> <ls>M. 3, 241.</ls> <ls>R. 1, 55, 10.</ls> <ls>DAŚ. 1, 16.</ls> <ls>MṚCCH. 146, 21.</ls> <ls>VARĀH. BṚH. S. 44 (43), 10. 94, 9. 11. 45.</ls> <ls>RĀJA-TAR. 4, 52</ls> (zugleich {%Partei%}). einer Biene 
+<ls n="ṚV. 8,">47, 2.</ls> <ls n="ṚV. 8, 47,">3.</ls> <ls n="ṚV.">1, 166, 10.</ls> <ls>AV. 6, 8, 2.</ls> <ls n="AV.">10, 8, 18.</ls> <ls>ŚAT. BR. 4, 1, 2, 26. 10, 2, 1, 1. 5.</ls> <ls>M. 3, 241.</ls> <ls>R. 1, 55, 10.</ls> <ls>DAŚ. 1, 16.</ls> <ls>MṚCCH. 146, 21.</ls> <ls>VARĀH. BṚH. S. 44 (43), 10. 94, 9. 11. 45.</ls> <ls>RĀJA-TAR. 4, 52</ls> (zugleich {%Partei%}). einer Biene 
 <ls>RAGH. 12, 102.</ls> 
 <ls>Spr. 822.</ls> {#पर्वतानामिन्द्रः पक्षानच्छिनत्#} 
 <ls>KĀTH. 36, 7.</ls> <ls>HARIV. 12599. fg.</ls> <ls>BHARTṚ. 2, 29.</ls> <ls>VIKR. 44.</ls> <ls>RAGH. 3, 42. 60. 4, 40. 9, 12.</ls> <ls>BHĀG. P. 8, 11, 34.</ls> neutr.: {#विधूय पक्षाणि#} 
@@ -29,10 +29,10 @@
 <ls>KAUŚ. 36.</ls> 
 <ls>ĀŚV. GṚHY. 4, 6.</ls> {%Seitenpfosten%} eines Gebäudes 
 <ls>AV. 9, 3, 4.</ls> {#द्वि°, चतुष्पक्ष, षट्पक्ष#} 
-u.s.w. <ls>21.</ls> {#दश°#} 
+u.s.w. <ls n="AV. 9, 3,">21.</ls> {#दश°#} 
 <ls>KAUŚ. 135.</ls> {#उलूकपक्षी꣡ शाला#} 
-<ls>P. 4, 1, 55, <is>Vārtt</is>. 3,</ls> 
-<ls>Sch.</ls> = {#पार्श्वगृह#} {%Flügel eines Gebäudes, Seitenhaus%} 
+<ls>P. 4, 1, 55</ls>, <is>Vārtt</is>. 3, <ls>Sch.</ls>
+= {#पार्श्वगृह#} {%Flügel eines Gebäudes, Seitenhaus%} 
 <ls>MED.</ls> {%Flügel, Flanke%} eines Heeres: {#वामं पार्श्वम्, दक्षिणं पक्षम्#} 
 <ls>MBH. 6, 2107. fg.</ls> {#पूर्व, दक्षिण, पश्चिम, उत्तर#} 
 <ls>HARIV. 2470.</ls> {#व्यूहस्य पक्षं सव्यम्#} 
@@ -83,10 +83,10 @@ u.s.w. <ls>21.</ls> {#दश°#}
 <ls>R. 2, 53, 16.</ls> {#भरतस्यापि वा पक्षं यो गृह्णीयात्#} 
 <ls>R. GORR. 2, 18, 13.</ls> {#अहमपि भवदर्थे गृहीतपक्षा#} 
 <ls>PRAB. 70, 6.</ls> {#तत्पक्षाश्रित#} 
-<ls>P. 3, 1, 119,</ls> 
-<ls>Sch.</ls> {#पक्षयोरुभयोर्हितम्#} 
+<ls>P. 3, 1, 119</ls>, <ls>Sch.</ls>
+{#पक्षयोरुभयोर्हितम्#} 
 <ls>MBH. 1, 507.</ls> {#पितृपक्षे च ते पार्था मातृपक्षे च वृष्णयः । द्वौ पक्षावभिजानीहि त्वमेतौ ॥#} 
-<ls>5, 4735.</ls> {#तुल्यो मित्रारिपक्षयोः#} 
+<ls n="MBH.">5, 4735.</ls> {#तुल्यो मित्रारिपक्षयोः#} 
 <ls>BHAG. 14, 25.</ls> {#शत्रुपक्ष#} <lex>m.</lex> und <lex>adj.</lex> {%die Partei des Feindes, zur Partei des Feindes sich haltend%} 
 <ls>MBH. 1, 2709.</ls> 
 <ls>R. 2, 40, 9. 6, 1, 30.</ls> 
@@ -116,8 +116,8 @@ u.s.w. <ls>21.</ls> {#दश°#}
 <ls>M. 8, 179.</ls> 
 <ls>KĀM. NĪTIS. 4, 68.</ls> {#अ°, °संस्थित#} 
 <ls>MBH. 1, 5793.</ls> {#अजात°, जात°#} 
-<ls>7418. fg.</ls> {#देवपक्षवराः#} {%die ausgezeichnetsten Anhänger der Götter%} 
-<ls>13, 4158.</ls> {#समस्ताः पूज्यपक्षा वै देवाद्या मम#} {%Bundesgenossen%} 
+<ls n="MBH. 1,">7418. fg.</ls> {#देवपक्षवराः#} {%die ausgezeichnetsten Anhänger der Götter%} 
+<ls n="MBH.">13, 4158.</ls> {#समस्ताः पूज्यपक्षा वै देवाद्या मम#} {%Bundesgenossen%} 
 <ls>MĀRK. P. 21, 53.</ls> {#विजयन्ते द्विषतो यदस्य पक्षाः#} 
 <ls>VIKR. 16.</ls> {#भरतस्याथ पक्षो वा यो वास्य हितमिच्छति#} 
 <ls>R. 2, 21, 11.</ls> {#रामस्य पक्षाः पतिताः समुद्रे#} 
@@ -126,14 +126,14 @@ u.s.w. <ls>21.</ls> {#दश°#}
 <ls>HARIV. 3013.</ls> 
 <ls>RĀJA-TAR. 6, 220 fg.</ls> {#बन्धुपक्ष#} so v. a. {#बन्धवः#} 
 <ls>MBH. 1, 2774.</ls> <ls n="MBH. 1,">4396.</ls> {#तिलदानेन वै तस्मात्पितृपक्षः प्रमोदते#} 
-<ls>13, 3315. 5, 3780.</ls> {#ज्ञाति°#} 
+<ls n="MBH.">13, 3315.</ls> <ls n="MBH.">5, 3780.</ls> {#ज्ञाति°#} 
 <ls>R. GORR. 2, 7, 28.</ls> {#पितृपक्षाः#} so v. a. {%Väter%} 
 <ls>HARIV. 3374.</ls> {#नास्तिक°#} 
 <ls>PRAB. 87, 1.</ls> {#सन्ति वै पुरुषाः शूराः सन्ति कापुरुषास्तथा । उभाविमौ दृढौ पक्षौ दृश्येते पुरुषान्प्रति ॥#} 
 <ls>MBH. 5, 42.</ls> {#असृजद्भगवान्पक्षौ द्वावेव हि पितामहः । सुराणामसुराणां च धर्माधर्मौ च ॥ धर्मो हि ग्रसते पक्षमसुराणां दुरात्मनाम् । तथैव रक्षसां पक्षं सुराणामेष निर्णयः ॥#} 
 <ls>R. 6, 11, 15. fg.</ls> {#तेषामहं संप्रवक्ष्यामि पक्षैश्च कुलतो गणान्#} 
 <ls>MBH. 1, 2601.</ls> {#रुद्राणामपरः पक्षः साध्यानां मरुतां तथा#} 
-<ls>2602.</ls> {#तत्पक्ष#} d. i. {#धूर्तपक्ष#} und {#चौरपक्ष#} {%zu dieser Bande gehörig%} 
+<ls n="MBH. 1,">2602.</ls> {#तत्पक्ष#} d. i. {#धूर्तपक्ष#} und {#चौरपक्ष#} {%zu dieser Bande gehörig%} 
 <ls>HARIV. 7124 fg.</ls> {#°संमत#} {%von Einigen gutgeheissen%} 
 <ls>MBH. 13, 4445.</ls> {#पक्ष = सहाय#} 
 <ls>AK. 3, 4, 29, 222.</ls> 
@@ -155,7 +155,7 @@ u.s.w. <ls>21.</ls> {#दश°#}
 <div n="1">— 7) {%der eine von zwei Fällen, Fall%} überh.: {#पक्ष एकश्रुतिः#} {%im andern Falle%} 
 <ls>Schol.</ls> zu <ls>P. 1, 2, 35.</ls> <ls>VOP. 9, 55. 26, 58.</ls> {#चत्वारो ऽत्र पक्षाः संभवन्ति#} {%es sind hier vier Fälle möglich%} 
 <ls>KAIYY.</ls> zu <ls>P. 7, 1, 30.</ls> {#कित्त्वपक्षे#} und {#अस्मिन्नपि पक्षे#} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,2,6.</ls> {#पक्षान्तरे चेद्यदि च#} <is>ced</is> {%und%} <is>yadi</is> {%haben die Bedeutung falls%} 
+<ls>SIDDH. K.</ls> zu <ls>P. 1, 2, 6.</ls> {#पक्षान्तरे चेद्यदि च#} <is>ced</is> {%und%} <is>yadi</is> {%haben die Bedeutung falls%} 
 <ls>AK. 3, 5, 12.</ls> 
 <ls>TRIK. 3, 3, 465.</ls> 
 <ls>H. 1542.</ls> {#पक्षान्तरे#} {%im andern Falle%} 
@@ -166,8 +166,8 @@ u.s.w. <ls>21.</ls> {#दश°#}
 <ls>BURN.</ls> 
 <div n="1">— 8) {%Ansicht. Idee, Meinung%}: {#कस्य कः पक्षः#} 
 <ls>MBH. 2, 2266.</ls> {#धान्यैर्यष्टव्यमिति पक्षो ऽस्माकं नराधिप । देवानां तु पशुः पक्षो मतः#} 
-<ls>12, 12830. fg.</ls> {#उत्तरः सिध्यते पक्षः#} 
-<ls>3, 12708. fg.</ls> {#इत्येकपक्षाश्रयविक्लवत्वात्#} 
+<ls n="MBH.">12, 12830. fg.</ls> {#उत्तरः सिध्यते पक्षः#} 
+<ls n="MBH.">3, 12708. fg.</ls> {#इत्येकपक्षाश्रयविक्लवत्वात्#} 
 <ls>RAGH. 14, 34.</ls> {#प्राहुर्यवनाः स्वतुङ्गगैः क्रूरैः क्रूरमतिं महीपतिम् । क्रूरैस्तु न जीवशर्मणः पक्षे क्षित्यधिपः प्रजायते ॥#} 
 <ls>VARĀH. BṚH. 11, 1.</ls> {#उभयपक्षसमानक्षेमत्वात्#} 
 <ls>KAP. 1, 46.</ls> {#उक्त°#} 
@@ -182,7 +182,7 @@ u.s.w. <ls>21.</ls> {#दश°#}
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 185.</ls> <ls>RÖER</ls> übersetzt {#पक्षे#} durch {%in our text. in the text%} und {%in the course of discussion.%} 
 <div n="1">— 10) in der Logik {%das Subject eines Schlusses%}: {#संदिग्धसाध्यवान्पक्षः#} 
 <ls>TARKAS. 39.</ls> {#°धर्मता#} 
-<ls>29.</ls> <ls>Z. d. d. m. G. 7, 294,</ls> <ls>N. 1.</ls> <ls>BHĀṢĀP. 67. 69.</ls> {#पक्ष = साध्य#} 
+<ls>29.</ls> <ls>Z. d. d. m. G. 7, 294</ls>, <ls>N. 1.</ls> <ls>BHĀṢĀP. 67. 69.</ls> {#पक्ष = साध्य#} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>VAIJ.</ls> <ls>VIŚVA.</ls> 
 <div n="1">— 11) {#प्रजापतेर्व्रतपक्षौ#} (d. i. {#व्रतम्#} und {#पक्षः#}) N. zweier <is>Sāman</is> 
 <ls>Ind. St. 3, 224.</ls> — Die Lexicographen kennen noch folg. Bedd., die wir nicht zu belegen vermögen: {#गृहभित्ति#} {%Hauswand%} 

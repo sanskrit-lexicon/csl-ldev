@@ -11,10 +11,10 @@
 <ls n="ṚV.">7, 82, 3.</ls> {#नि मा\यिन\स्तपु^षा र\क्षसो^ दह#} 
 <ls n="ṚV.">8, 23, 14.</ls> <ls n="ṚV.">1, 11, 7.</ls> {#स चि\न्नु त्वज्जनो^ मा\यी बि^भाय#} 
 <ls>AV. 5, 11, 4.</ls> die <is>Marut</is> 
-<ls>5, 58, 2.</ls> die <is>Aśvin</is> 
-<ls>6, 63, 5.</ls> <is>Varuṇa</is> 
-<ls>6, 48, 14. 7, 28, 4. 10, 99, 10.</ls> <is>Indra</is> 
-<ls>8, 65, 1.</ls> {#मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम्#} 
+<ls n="AV.">5, 58, 2.</ls> die <is>Aśvin</is> 
+<ls n="AV.">6, 63, 5.</ls> <is>Varuṇa</is> 
+<ls n="AV.">6, 48, 14.</ls> <ls n="AV.">7, 28, 4.</ls> <ls n="AV.">10, 99, 10.</ls> <is>Indra</is> 
+<ls n="AV.">8, 65, 1.</ls> {#मायां तु प्रकृतिं विद्यान्मायिनं तु महेश्वरम्#} 
 <ls>ŚVETĀŚV. UP.4,10. 9.</ls> <ls>Verz. d. Oxf. H. 222,a,34. fg.</ls> <is>Kṛṣṇa</is> 
 <ls>PAÑCAR. 4, 1, 28.</ls> - <ls>KUMĀRAS. 2, 46.</ls> <ls>Spr. 1556, v. l.</ls> <ls>KIR. 1, 30.</ls> <ls>KATHĀS. 71, 149.</ls> <ls>PAÑCAR. 2, 1, 47.</ls> {#अ°#} 
 <ls>MBH. 3, 1357.</ls> {%in der Gewalt der%} <is>Māyā</is> {%stehend%}: {#पुरुष#} ({%die Seele%}) 

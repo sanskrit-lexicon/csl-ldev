@@ -1,7 +1,7 @@
 <L>116088<pc>7-1541<k1>हर<k2>हर
 {#हर#}¦ (von 1. {#हर्#}) 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}, seltener {#ई#}) am Ende eines comp. 
-<ls>P. 3, 2, 9. 10.</ls> 
+<ls>P. 3, 2, 9.</ls> <ls n="P. 3, 2,">10.</ls> 
 <div n="2"> a) {%tragend%}; s. {#कवच°#} . 
 <div n="2">— b) {%treibend, führend%}: {#ऊर्ध्वभाग°#} {%aufwärts%} 
 <ls>SUŚR. 1, 144, 14.</ls> {#अधोभाग°#} 
@@ -37,7 +37,7 @@
 <ls>MBH. 12, 10465.</ls> 
 <ls>R. 1, 40, 26.</ls> {#अरि°#} 
 <ls>MBH. 1, 2659.</ls> {#पृथु°#} (so ed. Bomb.) 
-<ls>14, 210.</ls> {#त्रुपर°#} 
+<ls n="MBH.">14, 210.</ls> {#त्रुपर°#} 
 <ls>HARIV. 10565.</ls> 
 <ls>Spr. (II) 1525.</ls> {#सर्वभूत°#} 
 <ls>SUŚR. 1, 181, 20.</ls> 

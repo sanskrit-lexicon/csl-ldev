@@ -10,14 +10,14 @@
 <ls>ṚV. 3, 31, 10.</ls> <ls n="ṚV.">8, 52, 7.</ls> {#स्वर^न्ति\ घोष\ं वित^तमृता\यव^ः#} 
 <ls n="ṚV.">5, 54, 12.</ls> <ls>ŚĀṄKH. ŚR. 17, 14, 12.</ls> <ls>LĀTY. 4, 3, 21.</ls> {%Kampf-, Sieges-, Wehgeschrei%}: {#दि\वि घोष\ आरु^हत्#} 
 <ls>ṚV. 7, 83, 3.</ls> {#द्यु\मन्त\ं घोष^ं विज\याय^ कृण्महे#} 
-<ls n="ṚV.">10, 84, 4.</ls> <ls n="ṚV. 10,">103, 9.</ls> <ls>AV. 3. 19, 6. 7, 52, 2. 11, 9, 11.</ls> {%das Schreien, Brüllen der Thiere%} 
+<ls n="ṚV.">10, 84, 4.</ls> <ls n="ṚV. 10,">103, 9.</ls> <ls>AV. 3, 19, 6.</ls> <ls n="AV.">7, 52, 2.</ls> <ls n="AV.">11, 9, 11.</ls> {%das Schreien, Brüllen der Thiere%} 
 <ls>ṚV. 6, 75, 7.</ls> <ls n="ṚV.">1, 181, 5.</ls> <ls n="ṚV.">10, 123, 4.</ls> {#गोमायुरनल्पघोषः#} 
 <ls>DRAUP. 6, 7.</ls> {#भीमघोषाणाम् - मृगपक्षिणाम्#} 
 <ls>R. 2, 66, 10.</ls> {#न च वृन्दावने कार्यो गवां घोषः कदा च न#} 
 <ls>HARIV. 3381.</ls> 
 <ls>SUŚR. 1, 334, 3.</ls> {#कुम्भस्य पूर्यतः - घोषो वारणस्येव नर्दतः#} 
 <ls>DAŚ. 1, 21.</ls> {%das Tönen der Trommel, der Muschel, der%} <is>Soma</is>- {%Steine, Wagen u.s.w.%} 
-<ls>AV. 5, 20, 7. 3, 10, 5.</ls> 
+<ls>AV. 5, 20, 7.</ls> <ls n="AV.">3, 10, 5.</ls> 
 <ls>ṚV. 8, 34, 2.</ls> <ls n="ṚV.">10, 94, 1.</ls> <ls n="ṚV. 10,">103, 10.</ls> 
 <ls>LĀṬY. 4, 2, 3.</ls> {#तूर्यघोषैः#} 
 <ls>M. 7, 225.</ls> 
@@ -36,7 +36,7 @@
 <ls>H. 65.</ls> {%dumpfes. fernes Reden%} 
 <ls>ŚAT. BR. 9, 5, 1, 2. 8.</ls> {%das Getön der hergesprochenen Gebete u.s.w.%}: {#पुण्याह°#} 
 <ls>MBH. 2, 101.</ls> {#सुखपुण्याह°#} 
-<ls>1, 5333.</ls> {#ब्रह्म°#} 
+<ls n="MBH.">1, 5333.</ls> {#ब्रह्म°#} 
 <ls>INDR. 1, 28.</ls> 
 <ls>R. 1, 5, 19. 3, 6, 7. 52, 20. 5, 12, 22.</ls> 
 <ls>MṚCCH. 159, 3.</ls> {%Gerücht, rumor%}: {#दु\ःशासु\रागा\दिति\ घोष^ आसीत्#} 
@@ -44,8 +44,8 @@
 <ls>SADDH. P.4,26.a.</ls> {%Laut%} 
 <ls>SUŚR. 1, 363, 19.</ls> {#साधवो घोषाः#} 
 <ls>CHĀND. UP. 3, 19, 3.</ls> In der Gramm. {%die bei der Aussprache der tönenden Laute gehörte Stimme%} 
-<ls>P. 1, 1, 9,</ls> 
-<ls>Sch.</ls> so v. a. {%Vocal%} 
+<ls>P. 1, 1, 9</ls>, <ls>Sch.</ls>
+so v. a. {%Vocal%} 
 <ls>SARVAS. UP.</ls> in <ls>Ind. St. 1, 390.</ls> 
 <div n="2">— b) {%Hirtenstation%} 
 <ls>AK. 2, 2, 20.</ls> 
@@ -56,15 +56,15 @@
 <ls>P. 6, 2, 85.</ls> {#दा꣡क्षिघोष#} 
 <ls>Sch.</ls> {#कच्चिन्नगरगुप्त्यर्थं ग्रामा नगरवत्कृताः । ग्रामवच्च कृता घोषाः#} 
 <ls>MBH. 2, 215.</ls> <ls n="MBH.">3, 10085.</ls> <ls n="MBH. 3,">10089.</ls> <ls n="MBH. 3,">14814.</ls> {#घोषान्विद्राव्य#} ({%die Bewohner einer solchen Station%}) 
-<ls>4, 1152. 1154. 12, 2558.</ls> {#घोषान्न्यसेत्तु मार्गेषु ग्रामानुत्पादयेदपि#} 
-<ls>2630.</ls> {#ग्रामान् - पल्लीघोषांश्च#} 
-<ls>12234.</ls> <ls>N. 17, 45.</ls> <ls>HARIV. 3464.</ls> <ls>R. 1, 18, 8.</ls> <ls>MṚCCH. 66, 25.</ls> {#घोषे ऽरण्ये च#} 
+<ls n="MBH.">4, 1152.</ls> <ls n="MBH. 4,">1154.</ls> <ls n="MBH.">12, 2558.</ls> {#घोषान्न्यसेत्तु मार्गेषु ग्रामानुत्पादयेदपि#} 
+<ls n="MBH. 3,">2630.</ls> {#ग्रामान् - पल्लीघोषांश्च#} 
+<ls n="MBH. 3,">12234.</ls> <ls>N. 17, 45.</ls> <ls>HARIV. 3464.</ls> <ls>R. 1, 18, 8.</ls> <ls>MṚCCH. 66, 25.</ls> {#घोषे ऽरण्ये च#} 
 <ls>BHĀG. P. 3, 17, 12. 4, 18, 31.</ls> {#ग्रामघोषमहत्तराः#} 
 <ls>R. 2, 83, 15.</ls> {#घोषवृद्धाः#} 
 <ls>RAGH. 1, 45.</ls> {#घोषयात्रा#} 
 <ls>MBH. 1, 470.</ls> <ls n="MBH.">5, 710.</ls> {#घोषयात्रापर्वन्#} 
-<ls>3, ADHY. 235 - 257.</ls> {#भूः सुघोषघोषा#} 
-<ls>12, 8424.</ls> {%Hirt%} 
+<ls n="MBH.">3, ADHY. 235 - 257.</ls> {#भूः सुघोषघोषा#} 
+<ls n="MBH.">12, 8424.</ls> {%Hirt%} 
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— c) {%Mücke%} 
 <ls>TRIK. 2, 5, 36.</ls> 
@@ -86,7 +86,7 @@
 <ls>ŚKDR.</ls> <ls>WILS.</ls> 
 <div n="2">— g) N. pr. eines Landes 
 <ls>VARĀH. BṚH. S. 14, 2.</ls> Vgl. <is>gaṇa</is> {#धूमादि#} zu 
-<ls>P. 4, 2,127,</ls>
+<ls>P. 4, 2, 127</ls>,
 [Page2-0899]
 wo aber auch {%eine Hirtenstation%} schlechtweg gemeint sein kann. 
 <div n="1">— 2) <lex>f.</lex> {#आ#} 

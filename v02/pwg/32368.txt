@@ -4,8 +4,8 @@
 <div n="1"> 1) Bez. {%einer Klasse übermenschlicher Wesen, welche Göttern und Menschen gleicherweise missgünstig gegenüberstehen und vorzüglich von%} <is>Indra</is> {%und%} <is>Agni</is> {%überwunden werden.%} {#ह\न्ता दस्यो^ः#} heisst <is>Indra</is> 
 <ls>ṚV. 2, 12, 10.</ls> <ls n="ṚV.">9, 88, 4.</ls> 
 <ls>AV. 3, 10, 12.</ls> <is>Agni</is> 
-<ls>1, 7, 1.</ls> <is>Soma</is> 
-<ls>9, 88, 4</ls>; vgl. {#दस्युहन्#} . Viele der von <is>Indra</is> bezwungenen mit besonderen Namen bezeichneten Dämonen führen die allgemeine Bezeichnung <is>Dasyu</is>, z. B. <is>Śambara</is>, <is>Śuṣṇa</is>, <is>Cumuri</is> u. s. w. Sie sind nicht bloss Geister des Dunkels wie die <is>Rakṣas</is>, sondern über die verschiedensten Gebiete verbreitet. {#येन^ दे\वासो\ अस^हन्त\ दस्यू^न्#} 
+<ls n="AV.">1, 7, 1.</ls> <is>Soma</is> 
+<ls n="AV.">9, 88, 4</ls>; vgl. {#दस्युहन्#} . Viele der von <is>Indra</is> bezwungenen mit besonderen Namen bezeichneten Dämonen führen die allgemeine Bezeichnung <is>Dasyu</is>, z. B. <is>Śambara</is>, <is>Śuṣṇa</is>, <is>Cumuri</is> u. s. w. Sie sind nicht bloss Geister des Dunkels wie die <is>Rakṣas</is>, sondern über die verschiedensten Gebiete verbreitet. {#येन^ दे\वासो\ अस^हन्त\ दस्यू^न्#} 
 <ls>ṚV. 3, 29, 9.</ls> 
 <ls>AV. 11, 1, 2.</ls> {#अवा^दहो दि\व आ दस्यु^मु\च्चा#} 
 <ls>ṚV. 1, 34, 7.</ls> <ls n="ṚV. 1,">100, 18.</ls> {#अ\र\ज्जौ दस्यू\न्समु^नप्#} 
@@ -15,7 +15,7 @@
 <ls n="ṚV.">4, 28, 4.</ls> {#पु\रू च^ वृ\त्रा ह^नति\ नि दस्यू^न्#} 
 <ls n="ṚV.">6, 29, 6.</ls> <ls n="ṚV.">1, 59, 6.</ls> <ls n="ṚV.">5, 4, 6.</ls> <ls n="ṚV.">6, 31, 4.</ls> <ls n="ṚV.">7, 19, 4.</ls> <ls n="ṚV.">8, 6, 4.</ls> <ls n="ṚV.">9, 41, 2.</ls> u. s. w. {#ये दस्य^वः पि\तृषु\ प्रवि^ष्टा ज्ञा\तिमु^खा\श्चर^न्ति#} {%Damonen in Gestalt der Verstorbenen%} 
 (<ls>VS.</ls> setzt {#असुराः#}) 
-<ls>AV. 18, 2, 28. - 2, 14, 5. 9, 2, 17. 10, 3, 11. 6, 20. 12, 1, 30. 19, 46, 2.</ls> <ls>ŚAT. BR. 1, 6, 3, 13.</ls> <ls>LĀṬY. 7, 10, 12.</ls> <ls>PĀR. GṚHY. 3, 3.</ls> Oefters
+<ls>AV. 18, 2, 28.</ls> - <ls n="AV.">2, 14, 5.</ls> <ls n="AV.">9, 2, 17.</ls> <ls n="AV.">10, 3, 11.</ls> <ls n="AV. 10,">6, 20.</ls> <ls n="AV.">12, 1, 30.</ls> <ls n="AV.">19, 46, 2.</ls> <ls>ŚAT. BR. 1, 6, 3, 13.</ls> <ls>LĀṬY. 7, 10, 12.</ls> <ls>PĀR. GṚHY. 3, 3.</ls> Oefters
 [Page3-0558]
 findet sich 
 <div n="2"> a) der allgemeine Gegensatz zwischen {%dem Menschen%} ({#मनु, आयु, नर्#}) und {%dem Dämon%} ({#दस्यु#}), welcher {#अमानुष#} (
@@ -40,8 +40,8 @@ findet sich
 <ls>M. 7, 143.</ls> {#दस्युनिष्क्रिययोस्तु स्वमजीवन्हर्तुमर्हति (क्षत्रियः)#} 
 <ls>11, 18.</ls> kann nicht als Zeuge auftreten 
 <ls>8, 66.</ls> <ls>MBH. 1, 4308. fg.</ls> {#°जीविन्#} 
-<ls>12, 2433.</ls> {#निर्दस्युं पृथिवीं कृत्वा शिष्टेष्टजनसंकुलाम्#} 
-<ls>7, 2443.</ls> <ls>HARIV. 2349.</ls> {#व्यपगतानलदस्यु (वन)#} 
+<ls n="MBH.">12, 2433.</ls> {#निर्दस्युं पृथिवीं कृत्वा शिष्टेष्टजनसंकुलाम्#} 
+<ls n="MBH.">7, 2443.</ls> <ls>HARIV. 2349.</ls> {#व्यपगतानलदस्यु (वन)#} 
 <ls>RAGH. 9, 53.</ls> 
 <ls>ŚĀK. 116.</ls> 
 <ls>VARĀH. BṚH. S. 6, 5. 19, 7. 36, 2. 52, 81.</ls> 
@@ -52,9 +52,9 @@ findet sich
 <ls>5, 131.</ls> {#प्रसाधनोपचारज्ञमदासं दासजीवनम् । सैरिंध्रं वागुरावृत्तिं सूते दस्युरयोगवे ॥#} 
 <ls>10, 32.</ls> {#दस्यून्पर्वतवासिनः गणानुत्सवसं केतानजयत्सप्त पाण्डवः#} 
 <ls>MBH. 2, 1025.</ls> <ls n="MBH.">1, 3153.</ls> {#मातापित्रोर्हि शुश्रूषा कर्तव्या सर्वदस्युभिः#} 
-<ls>12, 2433.</ls> {#भूमिपानां च शुश्रूषा कर्तव्या सर्वदस्युभिः#} 
-<ls>2434.</ls> {#दृश्यन्ते मानुषे लोके सर्ववर्णेषु दस्यवः । लिङ्गान्तरे वर्तमाना आश्रमेषु चतुर्ष्वपि ॥#} 
-<ls>2439.</ls> Nach den Lexicogrr. {%Feind%} und {%Räuber%} 
+<ls n="MBH.">12, 2433.</ls> {#भूमिपानां च शुश्रूषा कर्तव्या सर्वदस्युभिः#} 
+<ls n="MBH. 12,">2434.</ls> {#दृश्यन्ते मानुषे लोके सर्ववर्णेषु दस्यवः । लिङ्गान्तरे वर्तमाना आश्रमेषु चतुर्ष्वपि ॥#} 
+<ls n="MBH. 12,">2439.</ls> Nach den Lexicogrr. {%Feind%} und {%Räuber%} 
 <ls>AK. 2, 8, 1, 11. 10, 25.</ls> 
 <ls>TRIK. 3, 3, 313.</ls> 
 <ls>H. 729. 381.</ls> 

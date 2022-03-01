@@ -11,8 +11,8 @@
 <ls>Spr. 481.</ls> 
 <div n="2">— d) {%worauf man sein Augenmerk richtet, was man im Auge hat%} 
 <ls>AK. 3, 4, 3, 26. 6, 3, 25.</ls> 
-<ls>P. 1, 1, 57,</ls> 
-<ls>Sch.</ls> {%worauf man sein Augenmerk zu richten hat, zu beobachten%} 
+<ls>P. 1, 1, 57</ls>, <ls>Sch.</ls>
+{%worauf man sein Augenmerk zu richten hat, zu beobachten%} 
 <ls>VARĀH. BṚH. S. 68, 89. 101.</ls> 
 <ls>KATHĀS. 32, 31.</ls> 
 <div n="2">— e) {%zu erkennen, erkennbar an%} (instr. oder im comp. vorangehend) 
@@ -43,7 +43,7 @@
 <ls>MBH. 1, 4979.</ls> {#इह चेल्लभ्यते लक्ष्यं कृत्स्नाञ्जेष्यामहे परान्#} {%wenn wir hier den Preis davontragen%} so v. a. {%wenn wir hier Erfolg haben%}
 [Page6-0475]
 
-<ls>7, 7662.</ls> {#लब्ध° = लब्धलक्ष#} 
+<ls n="MBH.">7, 7662.</ls> {#लब्ध° = लब्धलक्ष#} 
 <ls>R. GORR. 2, 65, 9. 3, 40, 8. 10. 4, 14, 15. 6, 36, 60.</ls> <ls>KĀM. NĪTIS. 19, 32.</ls> 
 <div n="2">— b) = {#लक्ष#} {%Ziel%} 
 <ls>AK. 2, 8, 2, 54.</ls> 
@@ -57,7 +57,7 @@
 <ls>MBH. 12, 1244</ls>) {#शस्त्रभृतां वा स्यात्#} 
 <ls>M. 11, 73.</ls> {#लक्ष्यं भित्त्वा#} 
 <ls>MBH. 1, 388.</ls> {#वेद्धुं लक्ष्यम्#} 
-<ls>5286.</ls> <ls>Ind. St. 1, 302, N.</ls> <ls>P. 2, 3, 7</ls>, <ls>Sch.</ls> {#लक्ष्यं पातयितुम्#} 
+<ls n="MBH. 1,">5286.</ls> <ls>Ind. St. 1, 302, N.</ls> <ls>P. 2, 3, 7</ls>, <ls>Sch.</ls> {#लक्ष्यं पातयितुम्#} 
 <ls>MBH. 1, 7200.</ls> {#लक्ष्यमुद्दिश्य राक्षसान्#} 
 <ls>R. 3, 26, 20.</ls> {#दृष्टलक्ष्यभिदः शराः#} 
 <ls>RAGH. ed. Calc. 1, 62.</ls> <ls>ŚĀK. 38.</ls> <ls>MEGH. 72.</ls> {#°भूत#} 
@@ -66,8 +66,8 @@
 <ls>14, 27.</ls> {#एषां परिदेवितानाम्#} 
 <ls>MĀLAV. 45.</ls> {#नेत्रशतैक°#} 
 <ls>RAGH. 6, 11.</ls> 
-<ls>P. 3, 2, 114,</ls> 
-<ls>Sch.</ls> {#एकसंघात°#} <lex>adj.</lex> 
+<ls>P. 3, 2, 114</ls>, <ls>Sch.</ls>
+{#एकसंघात°#} <lex>adj.</lex> 
 <ls>VP.</ls> bei <ls>MUIR, ST. 4, 34.</ls> {#लक्ष्यं बन्ध्#} {%sein Ziel richten auf%}: {#हरबद्धलक्ष्य#} 
 <ls>KUMĀRAS. 3, 64.</ls> {#मयि#} (so auch in der älteren Ausg. zu lesen) {#बद्धलक्ष्यः#} 
 <ls>UTTARAR. 95, 9 (124, 8).</ls> {#आकाशे लक्ष्यं बद्ध्वा#} {%sein Ziel auf den Luftraum richtend%} so v. a. {%ohne bestimmtes Ziel in's Blaue sehend%} 

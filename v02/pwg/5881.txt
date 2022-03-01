@@ -31,10 +31,10 @@
 <ls>P. 6, 2, 44.</ls> {#यज्ञार्थात्कर्मणो ऽन्यत्र#} {%mit Ausnahme eines Werkes, das ein Opfer zum Ziel hat, zu einem Opfer dient%} 
 <ls>BHAG. 3, 9.</ls> {#पित्रर्थे#} ({%für die Manen bestimmt%}) {#पाञ्चयज्ञिके#} 
 <ls>M. 3, 83.</ls> {#योगविभाग उत्तरार्थः#} {%findet des Folgenden wegen statt%} 
-<ls>P. 1, 4, 60,</ls> 
-<ls>Sch. 1, 23, <is>Vārtt</is>. 2, 62,</ls> 
-<ls>Sch. 2, 6,</ls> 
-<ls>Sch.</ls> {#संतानार्थाय विधये#} 
+<ls>P. 1, 4, 60</ls>, <ls>Sch. 1, 23, <is>Vārtt</is>. 2, 62,</ls>
+
+<ls>Sch. 2, 6</ls>, <ls>Sch.</ls>
+{#संतानार्थाय विधये#} 
 <ls>RAGH. 1, 34. 2, 16.</ls> 
 <ls>AK. 2, 8, 2, 19.</ls> 
 <ls>H. 752.</ls> — {#अर्थम्#} acc., {#अर्थाय#} dat. und {#अर्थे#} loc. {%zum Behuf von, wegen, für.%} Am häufigsten (im 
@@ -100,13 +100,13 @@
 <ls>R. 1, 5, 4.</ls> {#कामार्थौ#} 
 <ls>M. 2, 224.</ls> 
 <ls>R. 1, 7, 12.</ls> = {#अर्थकामौ#} 
-<ls>P. 2, 2, 34, <is>Vārtt</is>. 8</ls> (vgl. <is>gaṇa</is> {#राजदन्तादि#}). 
+<ls>P. 2, 2, 34</ls>, <is>Vārtt</is>. 8 (vgl. <is>gaṇa</is> {#राजदन्तादि#}). 
 <ls>M. 4, 176.</ls> 
 <ls>KUMĀRAS. 5, 38.</ls> {#अर्थकामेष्वसक्तानाम्#} 
 <ls>M. 2, 13.</ls> {#धर्मावाप्तिं च विपुलामर्थकामं च केवलम्#} 
 <ls>R. 2, 86, 6.</ls> {#धर्मार्थौ#} 
 <ls>M. 2, 112. 224. 4, 92. 8, 74.</ls> = {#अर्थधर्मौ#} 
-<ls>P. 2, 2, 34, <is>Vārtt</is>. 8</ls> (vgl. <is>gaṇa</is> {#राजदन्तादि#}). 
+<ls>P. 2, 2, 34</ls>, <is>Vārtt</is>. 8 (vgl. <is>gaṇa</is> {#राजदन्तादि#}). 
 <ls>M. 7, 46.</ls> Dazu gesellt sich bisweilen noch {#मोक्ष#} {%die letzte Befreiung%} 
 <ls>AK. 2, 7, 57.</ls> 
 <ls>H. 1382.</ls> 
@@ -116,8 +116,8 @@
 <div n="1">— 4) {%Sache, Gegenstand, Ding, Object%} 
 <ls>AK. 3, 4, 88.</ls> 
 <ls>TRIK. 3, 3, 195.</ls> 
-<ls>H. 1384,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 1384</ls>, <ls>Sch.</ls> 
+
 <ls>an. 2, 211.</ls> 
 <ls>MED. th. 2.</ls> {#अध\ च्यवा^न\ उत्त^वी\त्यर्थ^म्#} {%vermag Etwas%} 
 <ls>ṚV. 10, 59, 1.</ls> {#न निर्बद्धा उपसर्गा अर्थान्निराहुः#} 
@@ -196,10 +196,10 @@
 <ls>N. 12, 65.</ls> 
 <ls>BHAG. 3, 18.</ls> 
 <ls>HIT. Pr. 11.</ls> {#अचेतनग्रहणेन नार्थः#} 
-<ls>PAT.</ls> zu <ls>P. 3, 1, 7, <is>Vārtt</is>. 1.</ls> {#सतामर्थः शिवार्चया#} 
+<ls>PAT.</ls> zu <ls>P. 3, 1, 7</ls>, <is>Vārtt</is>. 1. {#सतामर्थः शिवार्चया#} 
 <ls>VOP. 5, 10.</ls> Es findet mit diesem instr. auch comp. statt 
-<ls>P. 2, 1, 30,</ls> 
-<ls>Sch.</ls> Accent eines solchen comp. 
+<ls>P. 2, 1, 30</ls>, <ls>Sch.</ls>
+Accent eines solchen comp. 
 <ls>6, 2, 153</ls>, <ls>Sch.</ls> Vgl. {#अर्थिन्#} 1. 
 <div n="1">— 7) {%Begehr, Verlangen, Bedarf%} 
 <ls>MED. th. 2.</ls> {#यावदर्थ#} {%soviel als nöthig ist%} 
@@ -221,7 +221,7 @@
 <ls>HIT. Pr. 9.</ls> {#श्रुतेरिवार्थं स्मृतिरन्वगच्छत्#} 
 <ls>RAGH. 2, 2.</ls> 
 <ls>P. 1, 2, 56.</ls> {#ईषदर्थे#} {%in der Bedeutung von%} {#ई°#} 
-<ls>1, 1, 14, <is>Kār</is>.</ls> <ls>RAGH. 3, 21.</ls> In Verbindung mit {#तत्त्व#} vorang. oder folg.: {#वेदशास्त्रार्थतत्त्वज्ञ#} 
+<ls n="P.">1, 1, 14</ls>, <is>Kār</is>. <ls>RAGH. 3, 21.</ls> In Verbindung mit {#तत्त्व#} vorang. oder folg.: {#वेदशास्त्रार्थतत्त्वज्ञ#} 
 <ls>M. 12, 102.</ls> 
 <ls>R. 1, 1, 16.</ls> {#अर्थार्थतत्त्वज्ञ#} 
 <ls>3, 76, 1.</ls> {#वेदतत्त्वार्थविद्#} 

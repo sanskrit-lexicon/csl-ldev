@@ -1,13 +1,13 @@
 <L>53632<pc>5-0153<k1>ब्राह्मण<k2>ब्राह्मण
 {#ब्राह्मण#}¦ (von 1. u. 2. {#ब्रह्मन्)#} 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ब्रा꣡ह्मणी#} {%einem Brahmanen gehörend, brahmanisch%}: {#प्र\जां हि^ंसि\त्वा ब्राह्म^णीम्#} 
-<ls>AV. 5, 18, 12. 19, 11.</ls> 
+<ls>AV. 5, 18, 12.</ls> <ls n="AV. 5,">19, 11.</ls> 
 <ls>TBR. 1, 1, 4, 8.</ls> {#मूर्ति#} {%die Gestalt eines Brahmanen%} 
 <ls>MBH. 14, 2890.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) oxyt. {%Gottesgelehrter, Theolog, Priester, Brahmane%} 
-<ls>P. 6, 4, 171,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 4, 171</ls>, <ls>Sch.</ls> 
+
 <ls>AK. 2, 7, 4.</ls> 
 <ls>TRIK. 3, 3, 135.</ls> 
 <ls>H. 811.</ls> 
@@ -17,8 +17,8 @@
 <ls n="ṚV.">7, 103, 1.</ls> <ls n="ṚV. 7, 103,">7.</ls> <ls n="ṚV. 7, 103,">8.</ls> <ls n="ṚV.">10, 16, 6.</ls> <ls n="ṚV. 10,">71, 9.</ls> <ls n="ṚV. 10,">88, 19.</ls> {#ब्रा°, राजन्य, वैश्य, शूद्र#} 
 <ls n="ṚV. 10,">90, 12.</ls> {#यस्मै^ कृ\णोति^ ब्राह्म\णस्तं रा^जन्पारयामसि#} 
 <ls n="ṚV. 10,">97, 22.</ls> <ls n="ṚV. 10,">109, 4.</ls> <ls>VĀLAKH. 10, 1.</ls> <ls>AV. 2, 6, 3.</ls> {#ब्रा\ह्म\णो ज^ज्ञे प्रथ\मो दश^शीर्षो\ दशा^स्यः । स सोम^ं प्रथ\मः प^पौ\ स च^कारार\सं वि\षम्#} 
-<ls>4, 6, 1.</ls> {#ब्रा\ह्म\ण ए\व पति\र्न रा^ज\न्यो\३^\ न वैश्य^ः#}
-<ls>5, 17, 9. 18, 1. fgg. 19, 2. fgg. 11, 1, 28. 19, 34, 6. 35, 2.</ls> <ls>VS. 7, 46.</ls> {#सोमो\ ऽस्माक^ं ब्राह्म\णाना\ं राजा^#} 
+<ls n="AV.">4, 6, 1.</ls> {#ब्रा\ह्म\ण ए\व पति\र्न रा^ज\न्यो\३^\ न वैश्य^ः#}
+<ls n="AV.">5, 17, 9.</ls> <ls n="AV. 5,">18, 1. fgg.</ls> <ls n="AV. 5,">19, 2. fgg.</ls> <ls n="AV.">11, 1, 28.</ls> <ls n="AV.">19, 34, 6.</ls> <ls n="AV. 19,">35, 2.</ls> <ls>VS. 7, 46.</ls> {#सोमो\ ऽस्माक^ं ब्राह्म\णाना\ं राजा^#} 
 <ls>9, 40. 18, 48. 22, 22. 27, 3. 30, 5.</ls> <ls>AIT. BR. 1, 28.</ls> {#यो ब्राह्मणो बह्वृचो वीर्यवान्स्यात्#} 
 <ls>2, 36. 5, 14. 23.</ls> {#एता वै प्रजा हुतादो यद्ब्राह्मणा अथैता अहुतादो यद्राजन्यो वैश्यः शूद्रः#} 
 <ls>7, 19. 29. 8, 22. fg.</ls> {#ब्रा\ह्म\णो वै सर्वा^ दे\वता^ः#} 
@@ -41,8 +41,8 @@
 <ls>P. 2, 1, 59.</ls> am Ende eines comp. nach einem einen Tadel ausdrückenden Worte 
 <ls>P. 6, 2, 69.</ls> {#भ꣡य°#} {%ein furchtsamer Brahmane%} 
 <ls>Sch.</ls> {#ब्राह्मणात्#} angeblich acc. pl. im <is>Veda</is> 
-<ls>P. 7, 1, 39,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 7, 1, 39</ls>, <ls>Sch.</ls> 
+
 <div n="2">— b) Bez. des 
 28ten <is>Nakṣatra</is> <ls>WEBER, Nakṣ. II, 306. 311.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#ई#} 
@@ -79,12 +79,12 @@
 <div n="1">— 4) <lex>n.</lex> proparox. 
 <div n="2"> a) so v. a. {%das%} <is>Brahman</is>, {%das Göttliche%}: {#ज्ये\ष्ठं ये ब्राह्म^णं वि\दुः#} 
 <ls>AV. 10, 7, 17.</ls> {#महत्#} 
-<ls>8, 20. 23. 37.</ls> {#तस्मा^ज्जा\तं ब्राह्म^ण\ं ब्रह्म^ ज्ये\ष्ठम्#} 
-<ls>11, 5, 5. 10. 23.</ls> {#त्रयो^ लो\काः संमि^ता\ ब्राह्म^णेन#} 
-<ls>12, 3, 20.</ls> 
+<ls n="AV. 10,">8, 20.</ls> <ls n="AV. 10, 8,">23.</ls> <ls n="AV. 10, 8,">37.</ls> {#तस्मा^ज्जा\तं ब्राह्म^ण\ं ब्रह्म^ ज्ये\ष्ठम्#} 
+<ls n="AV.">11, 5, 5.</ls> <ls n="AV. 11, 5,">10.</ls> <ls n="AV. 11, 5,">23.</ls> {#त्रयो^ लो\काः संमि^ता\ ब्राह्म^णेन#} 
+<ls n="AV.">12, 3, 20.</ls> 
 <div n="2">— b) {%heilige —, göttliche Kraft%} 
 <ls>AV. 7, 66, 1.</ls> {#पुन\र्मैत्वि^न्द्रि\यं पुन^रा\त्मा द्रवि^ण\ं ब्राह्म^णं च#} 
-<ls>67, 1.</ls> <ls>ĀŚV. GṚHY. 3, 6, 8.</ls> 
+<ls n="AV. 7,">67, 1.</ls> <ls>ĀŚV. GṚHY. 3, 6, 8.</ls> 
 <div n="2">— c) {%das%} <is>Brāhmaṇa</is> d. i. {%religiöse Erläuterung, Ausspruch eines Theologen über Gegenstände des Glaubens und Cultus, durch welche Gehalt und Bedeutung desselben bestimmt werden soll%}, 
 <ls>TBR. 1, 3, 10, 3.</ls> 
 <ls>AIT. BR. 3, 45.</ls> {#तदु ह स्माहोपाविर्जानश्रुतेय उपसदां किल वै ब्राह्मणे#} 
@@ -92,8 +92,8 @@
 <ls>6, 25. 7, 12. 8, 2. 17.</ls> <ls>TS. 3, 1, 9, 5. 5, 2, 1.</ls> <ls>ŚAT. BR. 3, 2, 4, 1. 4, 1. 5, 15. 6. 2. 1, 39. 13, 4, 1, 5. 6. 2, 8.</ls> Daher Bez. {%einer bekannten Klasse vedischer Schriften, welche diese Erläuterungen enthalten%}, z. B. <is>Aitareya-</is>, <is>Taittirīya-</is>, <is>Śatapatha-Brāhmaṇa</is> 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>NIR. 13, 7.</ls> {#°वाद#} 
 <ls>2, 16.</ls> <ls>KĀTY. ŚR. 18, 6, 7.</ls> <ls>LĀṬY. 1, 10, 7. 3, 5, 11. 8, 9, 5. 9, 2, 16.</ls> <ls>ĀŚV. GṚHY. 3, 3. 1.</ls> <ls>KAUŚ. 1, 58. 80.</ls> <ls>P. 2, 3, 60</ls> (beim Schol. fälschlich m.). {#छन्दोब्राह्मणानि#} 
-<ls>4, 2, 66.</ls> Gegens. {#संहिता#} 
-<ls>SIDDH. K.</ls> zu <ls>P.1,2,36.</ls> {#मन्त्रब्राह्मणकर्तारः#} 
+<ls n="P.">4, 2, 66.</ls> Gegens. {#संहिता#} 
+<ls>SIDDH. K.</ls> zu <ls>P. 1, 2, 36.</ls> {#मन्त्रब्राह्मणकर्तारः#} 
 <ls>HARIV. 462.</ls> <ls>Verz. d. Oxf. H. 56,a,11.</ls> 
 <div n="2">— b) {%das%} <is>Soma</is>- {%Gefäss des%} <is>Brahman</is> (vgl. {#पोत्र#}.{# होत्र): ब्राह्म^णादिन्द्र\ राध^स\ः पिबा\ सोम^म्#} 
 <ls>ṚV. 1, 15, 5.</ls> {#त्वम^स्य\ ब्राह्म^णा\दा तृ\पत्पि^ब#} 

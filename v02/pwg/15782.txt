@@ -1,8 +1,8 @@
 <L>15782<pc>2-0177<k1>कल्माष<k2>कल्मा꣡ष
 {#कल्मा꣡ष#}¦ 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#कल्माषी꣡#} 
-<ls>P. 4, 1, 40,</ls> 
-<ls>Sch.</ls> <is>gaṇa</is> {#गौरादि#} zu 
+<ls>P. 4, 1, 40</ls>, <ls>Sch.</ls>
+<is>gaṇa</is> {#गौरादि#} zu 
 <ls>41.</ls> {%bunt, gesprenkelt%} (als <lex>m.</lex> {%die Farbe selbst%}) 
 <ls>AK. 1, 1, 4, 26.</ls> 
 <ls>H. 1398.</ls> 
@@ -15,8 +15,8 @@
 <ls>KAUŚ. 10.</ls> {#काण्ड#} 
 <ls>86.</ls> {#तित्तिरिकल्माषाः (अश्वाः)#} 
 <ls>MBH. 2, 1043.</ls> <ls n="MBH. 2,">1824.</ls> <ls n="MBH. 2,">2083.</ls> <ls n="MBH.">3, 4015.</ls> {#कल्माषगोयुग#} 
-<ls>13, 4389.</ls> {#°कुण्डलाः (नागाः)#} 
-<ls>1, 798.</ls> {#धेनुं कल्माषीम्#} 
+<ls n="MBH.">13, 4389.</ls> {#°कुण्डलाः (नागाः)#} 
+<ls n="MBH.">1, 798.</ls> {#धेनुं कल्माषीम्#} 
 <ls>VIŚV. 2, 20.</ls> {%schwarz%} 
 <ls>H. an.</ls> <ls>MED. ṣ. 33.</ls> {%schwarz-weiss%} 
 <ls>MED.</ls> 

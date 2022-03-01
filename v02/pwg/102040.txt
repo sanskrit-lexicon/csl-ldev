@@ -36,7 +36,7 @@
 <ls>Spr. (II) 2823.</ls> {#श्लिष्टं दुःखेन भिद्यते । भिन्नश्लिष्टा तु या प्रीतिः न सा (स#} Druckfehler) {#स्नेहेन वर्तते ॥#} 
 <ls>2832.</ls> {#मण्डलं सर्वतः श्लिष्टं रथिनाम्#} 
 <ls>MBH. 7, 1168.</ls> {#श्लिष्टं च सर्वतश्चक्रू रथमण्डलमाशु ते#} 
-<ls>6110.</ls> {#सुश्लिष्टयन्त्रार्गल#} 
+<ls n="MBH. 7,">6110.</ls> {#सुश्लिष्टयन्त्रार्गल#} 
 <ls>VARĀH. BṚH. S. 43, 58.</ls> {#श्लिष्टाङ्गुली चरणौ#} 
 <ls>68, 2. 70, 1.</ls> {#सुश्लिष्टाङ्गुलिपादा प्रमदा#} 
 <ls>105, 12.</ls> {#सुश्लिष्टांसौ#} 
@@ -59,7 +59,7 @@
 <div n="1">— 3) {%umfasst —, umfangen haltend%}, mit acc. 
 <ls>P. 3, 4, 72.</ls> {#अस्या वामं भुजं श्लिष्टा (श्लिष्ट्वा?) यैषा तिष्ठति#} 
 <ls>R. 2, 92, 22 (101, 24 GORR.).</ls> {#श्लिष्टो गुरुं भवान्#} 
-<ls>P. 3, 4, 72, Schol.</ls> 
+<ls>P. 3, 4, 72</ls>, Schol. 
 <div n="1">— 4) {%umfasst, umfangen%} 
 <ls>P. 3, 4, 72.</ls> {#श्लिष्टो गुरुर्भवता#} 
 <ls>Schol.</ls> {#श्लिष्टः कण्ठे किमिति न मया मूढया प्राणनाथः#} 
@@ -149,12 +149,12 @@
 <ls>MBH. 4, 515.</ls> {#°श्लिष्य#} 
 <ls>MĀLAV. 45, 9.</ls> {#एनमुरसोपश्लिष्य#} 
 <ls>DAŚAK. 74, 5. 86, 5. 6.</ls> {#गङ्गा यमुनामुपश्लिष्यति#} {%nähert sich%} 
-<ls>P. 1, 3, 25, <is>Vārtt</is>. 1, Schol.</ls> — partic. {#°श्लिष्ट#} 
+<ls>P. 1, 3, 25</ls>, <is>Vārtt</is>. 1, Schol. — partic. {#°श्लिष्ट#} 
 <div n="1"> 1) {%befestigt an%}: {#अङ्गे^ अङ्गे\ वै पुरु^षस्य पा\प्मोप^श्लिष्टः#} 
 <ls>TBR. 3, 8, 17, 4.</ls> 
 <div n="1">— 2) {%dicht herangetreten%}: {#समीपम्#} 
 <ls>PAÑCAT. ed. orn. 18, 12.</ls> impers.: {#उपश्लिष्टं भवता#} 
-<ls>P. 3, 4, 72, Schol.</ls> 
+<ls>P. 3, 4, 72</ls>, Schol. 
 <div n="v">— Vgl. {#उपश्लेष, उपश्लेषण#} . — caus. {%näher bringen%}: {#शरम्#} 
 <ls>VIKRAM. 78, 11.</ls> {#रथम्#} {%dicht heranfahren%} 
 <ls>10, 16. 13, 16.</ls>
@@ -199,7 +199,7 @@
 <div n="1"> 1) {%sich anschmiegen, Jmd nahe rücken%}: {#तावन्याऽन्याञ्जलि कृत्वा स्नेहात्संश्लिष्य चोरसा#} 
 <ls>R. 1, 10, 28.</ls> 
 <ls>KĀM. NĪTIS. 12, 12.</ls> {#समश्लिषज्जतु काष्ठम्#} {%hat sich geklebt an%} 
-<ls>P. 3, 1, 46, Schol.</ls> 
+<ls>P. 3, 1, 46</ls>, Schol. 
 <div n="1">— 2) {%umfangen, umarmen%}: {#समुपाघ्राय मूर्धानं संश्लिष्य च पुनः पुनः । युधिष्ठिरं च भीमं च#} 
 <ls>MBH. 4, 2319.</ls> 
 <ls>R. 5, 91, 17.</ls> 
@@ -222,12 +222,12 @@
 <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 59.</ls> <ls>KULL.</ls> zu <ls>M. 2, 125.</ls> Comm. zu <ls>TS. PRĀT. 2, 12</ls> ({#अति°#}). 
 <ls>17, 4.</ls> {#वनौकसां °शरीरकारिणाम्#} wohl so v. a. {%sich zusammenthuend, zusammen wohnend%} ({#संश्लिष्टमस्थिचर्ममात्रसंश्लेषवत् तच्च तच्छरीरं च तस्य कारिणां शरीरशोषकाणामित्यर्थः#} 
 <ls>NĪLAK.</ls>) <ls>MBH. 12, 8883.</ls> mit {#सह#} verbunden: {#(असित्सरुः) पाणिना सह संश्लिष्ट एकीभूत इव#} 
-<ls>10, 462.</ls> mit einem blossen instr.: {#पात्रं संश्लिष्टं वेदतृणैः#} 
+<ls n="MBH.">10, 462.</ls> mit einem blossen instr.: {#पात्रं संश्लिष्टं वेदतृणैः#} 
 <ls>ĀŚV. ŚR. 1, 11, 5.</ls> {#महद्भ्यामिव संश्लिष्टौ ग्रहाभ्यां चन्द्रभास्करौ#} 
 <ls>R. 5, 73, 48.</ls> {#किंचिज्जीविताशया#} so v. a. {%ein wenig Hoffnung schöpfend%} 
 <ls>PAÑCAT. 143, 8.</ls> mit acc.: {#पृथगात्मान आत्मानं संश्लिष्टा जतु काष्ठवत्#} 
 <ls>MBH. 12, 11949.</ls> häufig in comp. mit der Ergänzung: {#नदीं चाश्रमसंश्लिष्टाम्#} 
-<ls>1, 2867. 4, 2071.</ls> <ls>R. 5, 5, 12.</ls> <ls>HARIV. 2501.</ls> <ls n="HARIV.">6551</ls> ({#संसृष्ट#} die neuere Ausg.). 
+<ls n="MBH.">1, 2867.</ls> <ls n="MBH.">4, 2071.</ls> <ls>R. 5, 5, 12.</ls> <ls>HARIV. 2501.</ls> <ls n="HARIV.">6551</ls> ({#संसृष्ट#} die neuere Ausg.). 
 <ls>KATHĀS. 38, 44.</ls> 
 <ls>VET. in LA. (III) 22, 13, v. l.</ls> {#सर्व° (स हि#} st. {#सर्व#} ed. Calc.) so v. a. {%in Allem enthalten%} 
 <ls>MBH. 13, 6812.</ls> 
@@ -237,9 +237,9 @@
 <div n="1">— 2) {%verschwommen, in einander fliessend, so dass die einzelnen Theile nicht gesondert hervortreten%} 
 <ls>VS. PRĀT. 4, 145.</ls> {#इषुरासीन्न संश्लिष्टः#} 
 <ls>MBH. 7, 8639.</ls> {#नह्यस्य नृपते किंचित्संश्लिष्टमुपलक्षये । ऋते पुरुषसिंहस्य पिण्डिके ऽस्याधिके यतः#} 
-<ls>14, 2581. fg.</ls> von einer Handlung, {%bei der man nicht zwischen gut und schlecht unterscheidet%}: {#अभिप्रेतामसंश्लिष्टां कृत्वा चात्महितां क्रियाम्#} 
-<ls>12, 13875.</ls> {#°कर्मन्#} <lex>adj.</lex> {%für den es gleichviel gilt, ob eine That gut oder böse ist%}: {#व्रात्याः#} 
-<ls>7, 5965.</ls> <ls>Spr. (II) 5412</ls> (die Uebersetzung hiernach zu verbessern); vgl. 
+<ls n="MBH.">14, 2581. fg.</ls> von einer Handlung, {%bei der man nicht zwischen gut und schlecht unterscheidet%}: {#अभिप्रेतामसंश्लिष्टां कृत्वा चात्महितां क्रियाम्#} 
+<ls n="MBH.">12, 13875.</ls> {#°कर्मन्#} <lex>adj.</lex> {%für den es gleichviel gilt, ob eine That gut oder böse ist%}: {#व्रात्याः#} 
+<ls n="MBH.">7, 5965.</ls> <ls>Spr. (II) 5412</ls> (die Uebersetzung hiernach zu verbessern); vgl. 
 <ls>6664.</ls> 
 <div n="v">— Vgl. {#संश्लिष्#} u. s. w. — caus. 
 <div n="1"> 1) {%zusammenhängen%} (trans.) 
@@ -249,7 +249,7 @@
 <ls>HARIV. 7050.</ls> {#संश्लेषय शिरः स्वं स्वं भर्तृभ्रातृकबन्धयोः#} 
 <ls>KATHĀS. 80, 45.</ls> {#संश्लेषित#} {%vereinigt, verbunden%} 
 <ls>MBH. 2, 735.</ls> {#मया संश्लेषिता भूमिरद्भिर्व्योम च वायुना । वायुश्च तेजसा सार्धम्#} 
-<ls>12, 13238. fg.</ls> 
+<ls n="MBH.">12, 13238. fg.</ls> 
 <div n="1">— 2) {%übertragen auf%}: {#भर्तरि पापं संश्लेषयति#} 
 <ls>KULL.</ls> zu <ls>M. 8, 317.</ls> 
 <div n="1">— 3) {%an sich heranziehen%}: {#आटविकान्तपालान्संश्लेषयेद्दानवता च साम्ना#} 

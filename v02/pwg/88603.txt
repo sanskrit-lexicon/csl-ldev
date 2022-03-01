@@ -3,7 +3,7 @@
 <ls>P. 3, 1, 101.</ls> 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) <lex>f.</lex> {%wählbar, um die man freien kann%}: {#शतेन वर्या कन्या#} 
-<ls>P. 3, 1, 101, Schol.</ls> <ls>VOP. 26, 16.</ls> 
+<ls>P. 3, 1, 101</ls>, Schol. <ls>VOP. 26, 16.</ls> 
 <div n="2">— b) {%vortrefflich, ausgezeichnet, der beste%} 
 <ls>VOP. 26, 16.</ls> 
 <ls>AK. 3, 2, 7.</ls> 
@@ -11,8 +11,8 @@
 <ls>MED. y. 39.</ls> <ls>HALĀY. 4, 4.</ls> <ls>TBR. 3, 9, 21, 1.</ls> {#देवानां वर्यस्य#} {%des besten unter den Göttern%} 
 <ls>VOP. 5, 23.</ls> gewöhnlich am Ende eines comp.: {#नर°#} {%der beste unter den Männern, ein vorzüglicher Mann%} 
 <ls>MBH. 3, 957.</ls> {#नरदेव°#} 
-<ls>12330.</ls> {#कुरुवृद्ध°#} 
-<ls>15, 673.</ls> {#विप्र°#} 
+<ls n="MBH. 3,">12330.</ls> {#कुरुवृद्ध°#} 
+<ls n="MBH.">15, 673.</ls> {#विप्र°#} 
 <ls>HARIV. 14399.</ls> <ls n="HARIV.">15074.</ls> 
 <ls>R. 2, 67, 23. 4, 29, 28.</ls> 
 <ls>Spr. 4540.</ls> 

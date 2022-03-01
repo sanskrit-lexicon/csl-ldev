@@ -3,12 +3,12 @@
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%jeden dritten Tag wiederkehrend, tertianus%} (Fieber u. s. w.) 
 <ls>P. 5, 2, 81.</ls> {#अन्येद्यु, उभयद्यु, तृतीयक (तक्मन्)#} 
-<ls>AV. 1, 25, 4. 5, 22, 13. 19, 39, 10.</ls> {#ज्वर#} 
+<ls>AV. 1, 25, 4.</ls> <ls n="AV.">5, 22, 13.</ls> <ls n="AV.">19, 39, 10.</ls> {#ज्वर#} 
 <ls>SUŚR. 2, 404, 7.</ls> {#तृतीयकस्तृतीये ऽह्नि (प्रवर्तते)#} 
 <ls>405, 14.</ls> 
 <div n="2">— b) {%zum dritten Mal erfolgend%}: {#ग्रहणम्#} 
-<ls>P. 5, 2, 77,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 2, 77</ls>, <ls>Sch.</ls> 
+
 <div n="2">— c) {%der dritte%} 
 <ls>ŚRUT. 28.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#तृतीयिका = तृतीया#} {%der dritte Tag im Halbmonat%} 

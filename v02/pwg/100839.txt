@@ -13,7 +13,7 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>M. 4, 106.</ls> {#शेषे#} {%im Uebrigen, in allen andern Fällen%} 
 <ls>8, 290. 320. 322.</ls> {#शेषे प्रमाणं तु भवन्तः#} 
 <ls>MBH. 3, 2190.</ls> {#षष्ठी शेषे#} 
-<ls>P. 2, 3, 50. 4, 2, 92.</ls> mit einem abl.: {#ऋणात्#} 
+<ls>P. 2, 3, 50.</ls> <ls n="P.">4, 2, 92.</ls> mit einem abl.: {#ऋणात्#} 
 <ls>YĀJÑ. 2, 117.</ls> 
 <ls>Spr. 2945.</ls> gen. : {#सूक्तस्य#} 
 <ls>ṚV. PRĀT. 15, 15.</ls> <ls n="ṚV. PRĀT.">18, 31.</ls> {#यच्छेषं दशरात्रस्य#} 
@@ -80,12 +80,12 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>R. 4, 28, 10.</ls> {#शेषं#} (oder adj.) {#दुर्गविनाशनम्#} 
 <ls>5, 50, 3.</ls> {#अपि शेषं भवेदद्य पुत्राणां मम#} so v. a. {%ach wenn doch heute nicht alle meine Söhne zu Grunde gingen%} 
 <ls>MBH. 2, 2689.</ls> {#त्वयि प्रकृतिमापन्ने शेषः स्यात्#} so v. a. {%könnten noch Einige gerettet werden%} 
-<ls>5, 3416.</ls> {#न वः शेषः कश्चिदिहास्ति युद्धे#} so v. a. {%keiner von euch kommt mit dem Leben davon%} 
-<ls>3, 15698.</ls> {#नूनं त्विदानीं मम शेषमस्ति#} so v. a. {%mir steht jetzt noch sicher Etwas bevor, ich habe noch nicht Alles erduldet%} 
+<ls n="MBH.">5, 3416.</ls> {#न वः शेषः कश्चिदिहास्ति युद्धे#} so v. a. {%keiner von euch kommt mit dem Leben davon%} 
+<ls n="MBH.">3, 15698.</ls> {#नूनं त्विदानीं मम शेषमस्ति#} so v. a. {%mir steht jetzt noch sicher Etwas bevor, ich habe noch nicht Alles erduldet%} 
 <ls>R. 5, 28, 5.</ls> {#कुर्युरेते क्वचिच्छेषं न तु क्रुद्धो धनंजयः#} so v. a. {%die könnten noch Etwas (Jmd) verschonen%} 
 <ls>MBH. 4, 1580.</ls> <ls n="MBH.">3, 10251. fg.</ls> {#सिंहः पाशविनिर्मुक्तः न नः शेषं करिष्यति#} 
-<ls>4, 1548.</ls> {#नास्यापराद्धाः शेषमवाप्नुवन्ति#} so v. a. {%bleiben verschont%} 
-<ls>3, 15705.</ls> so v. a. {%Ende, Ausgang, Schluss%}: {#न चैकमत्यं शेषो ऽस्ति#} 
+<ls n="MBH.">4, 1548.</ls> {#नास्यापराद्धाः शेषमवाप्नुवन्ति#} so v. a. {%bleiben verschont%} 
+<ls n="MBH.">3, 15705.</ls> so v. a. {%Ende, Ausgang, Schluss%}: {#न चैकमत्यं शेषो ऽस्ति#} 
 <ls>Spr. (II) 1481.</ls> so v. a. {%Ergänzung, Nachtrag%}: {#तस्माच्छन्दस्सु शेषा उपेक्षितव्याः#} 
 <ls>NIR. 13, 13.</ls> <ls>WEBER, Nakṣ. 2, 302. 304.</ls> {#प्रेषित इति शेषः#} Comm. zu 
 <ls>R. 7, 104, 13.</ls> <ls>KULL.</ls> zu <ls>M. 9, 107.</ls> {#इति ते वाक्यशेषः#} 
@@ -122,7 +122,7 @@ m. n. <ls>AK. 3, 6, 4, 32.</ls>
 <ls>MBH. 13, 1454.</ls> {#उत्तरं कर्म यच्छेषम्#} 
 <ls>R. 5, 47, 22.</ls> {#आपः शेषाः#} 
 <ls>MBH. 5, 479.</ls> {#सप्त पाण्डवतः शेषा धार्तराष्ट्रास्तथा त्रयः#} so v. a. {%sind noch am Leben%} 
-<ls>9, 35.</ls> {#तस्य सर्वस्य सैन्यस्य खरः शेषो महाबलः#} 
+<ls n="MBH.">9, 35.</ls> {#तस्य सर्वस्य सैन्यस्य खरः शेषो महाबलः#} 
 <ls>R. 3, 32, 35. 33, 23.</ls> am Anfange eines comp.: {#°व्रतानि#} 
 <ls>YĀJÑ. 3, 282.</ls> {#शेषाहोभिः#} 
 <ls>20.</ls> {#शेषान्न#} 
@@ -177,7 +177,7 @@ in <ls>Ind. St. 3, 458.</ls> <ls>MBH. 1, 1550.</ls> <ls n="MBH. 1,">1566. fgg.</
 <div n="1">— 5) <lex>f.</lex> {#आ#} pl. {%von einer heiligen Handlung übrig gebliebene, Segen bringende Blumen%}; sg. {%ein solcher Kranz%} 
 <ls>H. an.</ls> <ls>MED.</ls> {#ततः सुमनसः शेषाः प्रतिगृह्य#} 
 <ls>MBH. 3, 16644.</ls> {#शेषाः पूर्वं निवेद्य च#} 
-<ls>16645.</ls> {#इति पुत्रस्य शेषाश्च कृत्वा शिरसि#} 
+<ls n="MBH. 3,">16645.</ls> {#इति पुत्रस्य शेषाश्च कृत्वा शिरसि#} 
 <ls>R. 2, 25, 35.</ls> {#शेषामिव भर्तुराज्ञामादाय मूर्ध्ना#} 
 <ls>KUMĀRAS. 3, 22.</ls> 
 <ls>BHĀG. P. 8, 16, 43. 11, 3, 54. 27, 47.</ls> auch <lex>m.</lex> oder n.: {#तस्याज्ञां शिरसि निधाय शेषभूताम्#} 

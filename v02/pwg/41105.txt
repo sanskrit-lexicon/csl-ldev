@@ -1,6 +1,6 @@
 <L>41105<pc>4-0334<k1>न्याय<k2>न्याय꣡
 {#न्याय꣡#}¦ (von 3. {#इ#} mit {#नि#}) <lex>m.</lex> 
-<ls>P. 3, 3, 37. 122.</ls>
+<ls>P. 3, 3, 37.</ls> <ls n="P. 3, 3,">122.</ls>
 
 <F>*Hier ist in den Scholien der Calc. und Bonner Ausg. {#णीञ्#} zu streichen und statt {#नीयन्ते#} zu lesen {#नीयते#} (von 3. {#इ#} mit {#नि)#}; vgl. 
 <ls>GOLD.</ls> in <ls>MĀN. 152.</ls> Vom Schol. zu <ls>PRAB. 111, Śl. 21</ls> wird übrigens {#न्याय#} auch auf {#नी#} zurückgeführt, da das danebenstehende {#प्राप्यते#} doch wohl eine Erklärung davon, aber nicht von {#इ#} mit {#नि#} ist; vgl. {#नीति = प्रापण#} 
@@ -29,7 +29,7 @@
 <ls>ŚĀṄKH. ŚR. 1, 1, 13. fgg.</ls> {#उच्चैर्न्यायश्चग्र्वेदः#} 28. {#°सहित#} 
 <ls>VS. PRĀT. 5, 8.</ls> {#अन्यायसमास#} 
 <ls>5, 39.</ls> {#समासान्यायभाज्#} 
-<ls>Schol.</ls> zu <ls>5, 45.</ls> Das zu <ls>P. 6, 3, 68. 7, 2, 63. 8, 3, 37. 112. 4, 22</ls> vorkommende {#न्याय#} bezeichnet {%eine allgemeine Regel, ein Axiom, das bei der Erklärung der speciellen Regeln im Auge zu halten ist%}; vgl. auch 
+<ls>Schol.</ls> zu <ls>5, 45.</ls> Das zu <ls>P. 6, 3, 68.</ls> <ls n="P.">7, 2, 63.</ls> <ls n="P.">8, 3, 37.</ls> <ls n="P. 8, 3,">112.</ls> <ls n="P. 8,">4, 22</ls> vorkommende {#न्याय#} bezeichnet {%eine allgemeine Regel, ein Axiom, das bei der Erklärung der speciellen Regeln im Auge zu halten ist%}; vgl. auch 
 <ls>GOLD. MĀN. 108. fgg. 118.</ls> {#त्रिभिर्न्यायैः#} {%auf drei Arten%} 
 <ls>M. 8, 310.</ls> 
 <ls>KUMĀRAS. 2, 12.</ls> {#अधिकरणं त्वेकन्यायोपपादनम्#}
@@ -52,7 +52,7 @@
 <ls>R. 3, 75, 47.</ls> {#न्यायार्जित, अन्यायापहृत#} {%auf rechtmässige, —, auf unrechtmässige Weise%} 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 189, 15. 16.</ls> {#न्यायागतस्य द्रव्यस्य#} 
 <ls>MBH. 5, 1029.</ls> {#°निर्वपण#} unter den Beiww. von <is>Śiva</is> 
-<ls>13, 1239.</ls> {#न्यायेन#} {%auf gehörige Weise, wie es sich gebührt%} 
+<ls n="MBH.">13, 1239.</ls> {#न्यायेन#} {%auf gehörige Weise, wie es sich gebührt%} 
 <ls>YĀJÑ. 1, 334. 2, 306.</ls> {#न्यायतस्#} dass. 
 <ls>1, 354.</ls> <ls>M. 7, 30. 8, 201.</ls> <ls>R. 1, 18, 19. 3, 4, 6.</ls> {#न्यायतो ऽन्यायतः#} 
 <ls>BHĀG. P. 6, 1, 66.</ls> {#यथान्यायम्#} dass. 
@@ -83,6 +83,6 @@
 <ls>18, 6</ls> v. u. <ls>MUṆḌ. UP.</ls> in <ls>Ind. St. 1, 301. N.</ls> <ls>ĀTMOP. ebend. 2, 56.</ls> <ls>CARAṆAVYŪHA ebend. 3, 260. fg.</ls> <ls>VP. 284.</ls> {#°सूत्र#} 
 <ls>GILD. Bibl. 416.</ls> 
 <div n="1">— 5) {#न्यायम्#} enklitisch nach einem verb. fin. als Ausdruck des Tadels oder der Wiederholung <is>gaṇa</is> {#गोत्रादि#} zu 
-<ls>P. 8. 1, 27. 57.</ls> 
+<ls>P. 8, 1, 27.</ls> <ls n="P. 8, 1,">57.</ls> 
 <div n="v">— Vgl. {#अ°, प्रतिन्यायम्, धातुन्यायमञ्जूषा#} .
 <LEND>

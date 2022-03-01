@@ -3,8 +3,8 @@
 <ls>P. 3, 2, 180.</ls> 
 <ls>VOP. 26, 168.</ls> 
 <div n="1"> 1) <lex>adj.</lex> (in der älteren Sprache auch {#प्रभू꣡#} <lex>f.</lex> {#प्रभ्वी꣡#} 
-<ls>P. 4, 1, 47,</ls> 
-<ls>Sch.</ls>) {%hervorragend, übertreffend; vermögend, mächtig; (mehr als) ausreichend, reichlich%}; <lex>m.</lex> {%Herr, Gebieter%}; = {#शक्त#} 
+<ls>P. 4, 1, 47</ls>, <ls>Sch.</ls>) 
+{%hervorragend, übertreffend; vermögend, mächtig; (mehr als) ausreichend, reichlich%}; <lex>m.</lex> {%Herr, Gebieter%}; = {#शक्त#} 
 <ls>NĀNĀRTHARATNAM.</ls> im <ls>ŚKDR.</ls> = {#स्वामिन्#} 
 <ls>AK. 3, 1, 11. 3, 4, 1, 17. 18, 114.</ls> 
 <ls>H. 359.</ls> 
@@ -12,14 +12,14 @@
 <ls>ṚV. 1, 9, 5.</ls> 
 <ls>AV. 20, 135, 9.</ls> {#त्वष्टा^ रू\पाणि\ हि प्र\भुः प\शून्विश्वा^न्समान\जे#} 
 <ls>ṚV. 1, 188, 9.</ls> <ls n="ṚV. 1, 188,">5.</ls> <ls n="ṚV.">2, 24, 10.</ls> {#सूर्य#} 
-<ls>7, 82, 3. <is>Agni</is> 8, 11, 8. 9. 83, 1. 86, 5.</ls> {#(धानाः) तास्ते^ सन्तु वि\भ्वीः प्र\भ्वीः#} 
+<ls n="ṚV.">7, 82, 3.</ls> <is>Agni</is> <ls n="ṚV.">8, 11, 8.</ls> <ls n="ṚV. 8, 11,">9.</ls> <ls n="ṚV. 8,">83, 1.</ls> <ls n="ṚV. 8,">86, 5.</ls> {#(धानाः) तास्ते^ सन्तु वि\भ्वीः प्र\भ्वीः#} 
 <ls>AV. 18, 3, 69.</ls> {#प्र\भूः सर्व^स्मै पृथि\वीव^ दे\वी#} 
-<ls>9, 4, 2. 12, 3, 27. 13, 4, 47.</ls> <ls>VS. 18, 10. 22, 19.</ls> <ls>TBR. 1, 1, 7, 3.</ls> <ls>TS. 4, 4, 8, 1.</ls> <ls>ŚAT. BR. 13, 3, 7, 1. 14, 9, 3, 9.</ls> {#दैव#} 
+<ls n="AV.">9, 4, 2.</ls> <ls n="AV.">12, 3, 27.</ls> <ls n="AV.">13, 4, 47.</ls> <ls>VS. 18, 10. 22, 19.</ls> <ls>TBR. 1, 1, 7, 3.</ls> <ls>TS. 4, 4, 8, 1.</ls> <ls>ŚAT. BR. 13, 3, 7, 1. 14, 9, 3, 9.</ls> {#दैव#} 
 <ls>Spr. 1255.</ls> {#प्रभवो ऽपि हि#} {%obgleich sie vermöchten%} 
 <ls>BHĀG. P. 1, 18, 48. 9, 13, 8.</ls> 
 <ls>N. 21. 13.</ls> {#रुद्रादपि प्रभुः#} {%mächtiger als%} 
 <ls>MBH. 13, 4031.</ls> {#प्रभुर्मल्लो मल्लाय#} {%gewachsen%} 
-<ls>P. 2, 3, 16,</ls> <ls>Vārtt. 2,</ls> <ls>Sch.</ls> {#प्रहर्तुम्#} {%im Stande seiend%} 
+<ls>P. 2, 3, 16</ls>, <ls>Vārtt. 2</ls>, <ls>Sch.</ls> {#प्रहर्तुम्#} {%im Stande seiend%} 
 <ls>RAGH. 2, 62.</ls> {#निग्रहानुग्रहे प्रभोः#} 
 <ls>R. 6, 5, 5.</ls> {#आत्मेश्वराणां नहि जातु विघ्नाः समाधिभेदप्रभवो भवन्ति#} 
 <ls>SĀH. D. 39, 4.</ls> {#प्राणिनाम्#} {%Herr der Geschöpfe%} 

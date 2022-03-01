@@ -2,7 +2,7 @@
 {#क्षीर꣡#}¦ 
 <ls>Uṇ. 4, 34</ls> ({#क्षी꣡र?#}) 
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,b,4.</ls> Zu belegen nur das von den Lexicographen anerkannte neutr. 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 249,b,4.</ls> Zu belegen nur das von den Lexicographen anerkannte neutr. 
 <div n="2"> a) {%Milch%} 
 <ls>NAIGH. 1, 12.</ls> 
 <ls>AK. 2, 9, 51.</ls> 
@@ -13,8 +13,8 @@
 <ls>ṚV. 1, 104, 3.</ls> {#क्षी\रं दु^ह्रते#} 
 <ls n="ṚV. 1,">164, 7.</ls> <ls n="ṚV.">8, 2, 9.</ls> <ls n="ṚV.">10, 87, 16.</ls> <ls>VS. 19, 73.</ls> {#क्षी\रं यद^स्याः पी\यते^#} 
 <ls>AV. 5, 19, 5.</ls> {#गवा^म्#} 
-<ls>2, 26, 4. 5.</ls> {#क्षी\रं स\र्पिरथो\ मधु^#} 
-<ls>10, 9, 12.</ls> <ls>ŚAT. BR. 2, 3, 1, 16. 9, 3, 2, 4.</ls> <ls>TS. 3, 4, 8, 7.</ls> <ls>M. 5, 8. 8, 326. 10, 88. 92. 11, 212. 214.</ls> <ls>R. 5, 11, 2.</ls> <ls>SUŚR. 1, 128, 17.</ls> die verschiedenen Arten von Milch 
+<ls n="AV.">2, 26, 4.</ls> <ls n="AV. 2, 26,">5.</ls> {#क्षी\रं स\र्पिरथो\ मधु^#} 
+<ls n="AV.">10, 9, 12.</ls> <ls>ŚAT. BR. 2, 3, 1, 16. 9, 3, 2, 4.</ls> <ls>TS. 3, 4, 8, 7.</ls> <ls>M. 5, 8. 8, 326. 10, 88. 92. 11, 212. 214.</ls> <ls>R. 5, 11, 2.</ls> <ls>SUŚR. 1, 128, 17.</ls> die verschiedenen Arten von Milch 
 <ls>175. fgg.</ls> {#हंसो हि क्षीरमादत्ते तन्मिश्रा वर्जयत्यपः#} 
 <ls>ŚĀK. 155.</ls> {#अजाक्षीर꣡#} 
 <ls>ŚAT. BR. 14, 1, 2, 13.</ls> {#गोक्षीर꣡#} 
@@ -23,11 +23,11 @@
 <ls>M. 5, 9.</ls> {#क्षीरोदके#} 
 <ls>KĀTY. ŚR. 18. 5, 8. 21, 4, 19.</ls> {#क्षीरयाजि꣡न्#} 
 <ls>ŚAT. BR. 1, 6, 4, 14.</ls> {#क्षीर꣡होतर् (क्षी꣡°#} <is>gaṇa</is> {#युक्तारोह्यादि#} zu 
-<ls>P. 6, 2, 81) 2, 3, 3, 15.</ls> <ls>KĀTY. ŚR. 4, 14, 31.</ls> {#क्षीरहोमिन्#} 
+<ls>P. 6, 2, 81</ls>) <ls n="ŚAT. BR.">2, 3, 3, 15.</ls> <ls>KĀTY. ŚR. 4, 14, 31.</ls> {#क्षीरहोमिन्#} 
 <ls>10, 16.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>MBH. 13, 3700.</ls> 
-<ls>P. 2, 3, 41,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 2, 3, 41</ls>, <ls>Sch.</ls> 
+
 <div n="2">— b) {%Milchsaft von Pflanzen%}: {#न्यग्रोधक्षीर#} 
 <ls>R. 2, 52, 62. 63.</ls> {#सक्षीराणां च वृक्षाणाम्#} 
 <ls>4, 25, 23.</ls> <ls>SUŚR. 1, 167, 20. 327, 4.</ls> {#क्षीरविष#} 

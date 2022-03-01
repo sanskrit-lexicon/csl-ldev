@@ -19,7 +19,7 @@
 <ls n="ṚV.">1, 85, 5.</ls> des <is>Soma</is>: {#सोम^स्य ते पवत इन्द्र\ धारा^#} 
 <ls n="ṚV.">9, 87, 8.</ls> <ls n="ṚV. 9,">1, 1.</ls> <ls n="ṚV. 9,">2, 3.</ls> <ls n="ṚV. 9, 2,">9</ls> und oft. 
 <ls>VS. 12, 9.</ls> {#प\र्जन्यो\ धारा^ म\रुतो\ ऊधो^ अस्य#} 
-<ls>AV. 4, 11, 4. 34, 5. 7, 107, 1.</ls> 
+<ls>AV. 4, 11, 4.</ls> <ls n="AV. 4,">34, 5.</ls> <ls n="AV.">7, 107, 1.</ls> 
 <ls>PAÑCAV. BR. 13, 12, 12. 20, 14, 2.</ls> 
 <ls>ŚAT. BR. 4, 3, 5, 22.</ls> <ls>Z. d. d. m. G. 9, LII.</ls> {#उदक°#} 
 <ls>AIT. BR. 7, 12.</ls> 
@@ -68,7 +68,7 @@
 <ls>ṚV. 6, 55, 3.</ls> {#ऋ\तस्य^#} 
 <ls n="ṚV.">1, 67, 7.</ls> (4). <ls n="ṚV.">5, 12, 2.</ls> <ls n="ṚV.">8, 6, 8.</ls> {#वसूनाम्#} 
 <ls>MBH. 3, 13390.</ls> {#वसु°#} 
-<ls>15, 420.</ls> {#वसोर्धारा#} {%Strom%} oder {%Quelle des Gutes (der Güter%}) heisst 
+<ls n="MBH.">15, 420.</ls> {#वसोर्धारा#} {%Strom%} oder {%Quelle des Gutes (der Güter%}) heisst 
 <div n="2"> a) {%eine best. Libation an%} <is>Agni</is> 
 <ls>AV. 12, 3, 41.</ls> 
 <ls>ŚAT. BR. 9, 3, 2, 1. 3, 15.</ls> 
@@ -103,7 +103,7 @@
 <ls>ŚIŚ. 5, 60.</ls> 
 <div n="1">— 4) N. pr. eines heiligen Badeplatzes 
 <ls>MBH. 3, 8003.</ls> {#माहेश्वरी#} 
-<ls>8095.</ls> - <ls>Verz. d. Oxf. H. 449,a,28.</ls> {#ततः स सप्तधाराख्यं तीर्थं परमपावनम् । जगाम मुनिशार्दूलो यत्र गङ्गास सप्तधा ॥#} ebend. 
+<ls n="MBH. 3,">8095.</ls> - <ls>Verz. d. Oxf. H. 449,a,28.</ls> {#ततः स सप्तधाराख्यं तीर्थं परमपावनम् । जगाम मुनिशार्दूलो यत्र गङ्गास सप्तधा ॥#} ebend. 
 <ls>34.</ls> 
 <div n="1">— 5) N. pr. einer Stadt (der Residenz <is>Bhoja's</is>) 
 <ls>COLEBR. Misc. Ess. I,236. II,298. 303. 462. 485.</ls> <ls>Journ. of the Am. Or. S.7,24.</ls> <ls>Verz. d. Oxf. H. 148,a,4. No. 212, Z. 12. No. 320, Z. 5.</ls>

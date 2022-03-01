@@ -9,7 +9,7 @@
 <ls>8.</ls> {%Fell%} 
 <ls>AK. 2, 7, 46.</ls> 
 <ls>H. 630.</ls> {#ह\रि\णस्य^#} 
-<ls>AV. 5, 21, 7. 6, 63, 7.</ls> 
+<ls>AV. 5, 21, 7.</ls> <ls n="AV.">6, 63, 7.</ls> 
 <ls>ŚAT. BR. 5, 2, 1, 21. 24.</ls> {#ऐणेयेनाजिनेन ब्राह्मणं रौरवेण क्षत्रियमाजेन वैश्यम्#} 
 <ls>ĀŚV. GṚHY. 1, 19.</ls> 
 <ls>M. 2, 64.</ls> {#वसित्वा गर्दभाजिनम्#} 
@@ -20,7 +20,7 @@
 <ls>BHAG. 6, 11.</ls> Am Ende von
 [Page1-0073]
 Zusammensetzungen, die Personennamen sind, 
-<ls>P. 5, 3, 82. 6, 2, 165.</ls> — Vielleicht von {#अज#} {%Bock, Ziege%}, wie
+<ls>P. 5, 3, 82.</ls> <ls n="P.">6, 2, 165.</ls> — Vielleicht von {#अज#} {%Bock, Ziege%}, wie
 <lang n="greek">αἴγις</lang> von
 <lang n="greek">αἴξ</lang>, 
 <ls>BOPP.</ls>

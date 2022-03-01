@@ -19,7 +19,7 @@
 <ls>68, 94.</ls> {#°कृत्#} 
 <ls>47, 2.</ls> {#विस्तरैश्च समासैश्च#} 
 <ls>MBH. 1, 27.</ls> {#व्याससमासाभ्याम्#} 
-<ls>3, 67.</ls> {#समासेन#} {%in Kürze, mit kurzen Worten%} 
+<ls n="MBH.">3, 67.</ls> {#समासेन#} {%in Kürze, mit kurzen Worten%} 
 <ls>KAUṢ. UP.2,15.</ls> <ls>M.2,25.3,20.9,101. 12,39.</ls> <ls>Spr. (II) 5272.</ls> <ls>BHAG. 13,3. 18,50.</ls> <ls>BHAR.</ls> <ls>NĀṬYAŚ. 18,40.</ls> <ls>SUŚR.1,112,13.2,146,6.</ls> <ls>BRAHMA-P. in LA. (III) 49,6.</ls> <ls>Verz. d. Oxf. H. 50,a,12.</ls> <ls>BHĀG. P.2,7,50.</ls> <ls>PAÑCAR.2,3,46.</ls> <ls>Ind. St.1,13,3.</ls> {#समासात्#} dass. 
 <ls>HARIV. 8367.</ls> 
 <ls>VARĀH. BṚH. S. 12, Anf. 56, 31.</ls> {#समासतस्#} dass. 
@@ -32,17 +32,17 @@
 <ls>TATTVAS. 52.</ls> 
 <div n="1">— 3) in der Gramm. 
 <div n="2"> a) {%Compositum%} 
-<ls>H. an.</ls> <ls>ṚV. PRĀT. 10, 10.</ls> <ls n="ṚV. PRĀT.">11, 13.</ls> <ls n="ṚV. PRĀT.">15, 9.</ls> <ls>VS. PRĀT. 1, 27.</ls> <ls n="VS. PRĀT.">5, 1.</ls> <ls>AV. PRĀT. 2, 62.</ls> fg. <ls n="AV. PRĀT.">4, 9.</ls> <ls n="AV. PRĀT. 4,">27.</ls> <ls n="AV. PRĀT. 4,">43.</ls> <ls>Ind. St. 10, 408.</ls> <ls>P. 1, 2, 46. 2, 1, 3. 5, 3, 106. 6, 1, 223.</ls> <ls>Verz. d. Oxf. H. 162,a,</ls> 
+<ls>H. an.</ls> <ls>ṚV. PRĀT. 10, 10.</ls> <ls n="ṚV. PRĀT.">11, 13.</ls> <ls n="ṚV. PRĀT.">15, 9.</ls> <ls>VS. PRĀT. 1, 27.</ls> <ls n="VS. PRĀT.">5, 1.</ls> <ls>AV. PRĀT. 2, 62.</ls> fg. <ls n="AV. PRĀT.">4, 9.</ls> <ls n="AV. PRĀT. 4,">27.</ls> <ls n="AV. PRĀT. 4,">43.</ls> <ls>Ind. St. 10, 408.</ls> <ls>P. 1, 2, 46.</ls> <ls n="P.">2, 1, 3.</ls> <ls n="P.">5, 3, 106.</ls> <ls n="P.">6, 1, 223.</ls> <ls>Verz. d. Oxf. H. 162,a,</ls> 
 <ls>15</ls> u.s.w. <ls>SĀH. D. 566.</ls> <ls>PRATĀPAR. 11,a,9</ls> ({#नातिदीर्घ°#} adj.). {#नित्य#} und {#अनित्य#} 
-<ls>P. 2, 1, 3, Schol.</ls> {#समासाङ्ग#} 
+<ls>P. 2, 1, 3</ls>, Schol. {#समासाङ्ग#} 
 <ls>ṚV. PRĀT. 1, 22.</ls> {#°प्राय#} 
 <ls>TRIK. 3, 3, 25.</ls> 
 <ls>HALĀY. 1, 143.</ls> {#तद्धित°#} 
 <ls>NIR. 2, 2.</ls> {#दिक्°#} 
 <ls>P. 1, 1, 28.</ls> {#तृतीया°#} 30. {#षष्ठी°#} 
-<ls>7, 4, 60, <is>Vārtt</is>. 1.</ls> <ls>SARVADARŚANAS. 92, 10.</ls> {#सप्तमी°#} 
+<ls n="P.">7, 4, 60</ls>, <is>Vārtt</is>. 1. <ls>SARVADARŚANAS. 92, 10.</ls> {#सप्तमी°#} 
 <ls>KAIYY.</ls> zu <ls>P. 8, 4, 35.</ls> {#बहुव्रीहि°#} 
-<ls>P. 1, 1, 28, Schol.</ls> 
+<ls>P. 1, 1, 28</ls>, Schol. 
 <div n="2">— b) = {#संधि#} 
 <ls>VS. PRĀT. 5, 39.</ls> Cit. im Comm. zu <ls>45.</ls> 
 <div n="1">— 4) in der Astr. Bez. {%eines best. Kreises%} 

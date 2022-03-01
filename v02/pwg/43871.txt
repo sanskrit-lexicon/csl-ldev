@@ -14,7 +14,7 @@
 <ls n="ṚV.">6, 75, 6.</ls> {#पश्चाद्वरीयसी#} 
 <ls>ŚAT. BR. 3, 5, 1, 11.</ls> {#प°, पुरस्#} 
 <ls>ṚV. 10, 90, 5.</ls> 
-<ls>AV. 7, 80, 1. 8, 6, 15.</ls> 
+<ls>AV. 7, 80, 1.</ls> <ls n="AV.">8, 6, 15.</ls> 
 <ls>ŚAT. BR. 1, 6, 1, 11.</ls> 
 <ls>KĀTY. ŚR. 1, 8, 28. 9, 4. 2, 5, 4.</ls> {#धावन्#} 
 <ls>M. 2, 196.</ls> 
@@ -60,7 +60,7 @@
 <ls>SĀH. D. 80, 3.</ls> {#अग्रे, प°#} 
 <ls>Spr. 770.</ls> 
 <div n="2">— c) {%von Westen, westwärts, im Westen%} 
-<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>AV. 12, 1, 31. 18, 4, 9. 11.</ls> <ls>ŚAT. BR. 13, 8, 1, 13.</ls> <ls>CHĀND. UP. 3, 6, 4. 7, 25, 1.</ls> <ls>MUṆḌ. UP. 2, 2, 11.</ls> <ls>MBH. 7, 2349.</ls> <ls>MEGH. 16.</ls> <ls>VARĀH. BṚH. S. 4, 3. 5, 34. 87. 11, 46. 21, 13.</ls> <ls>SŪRYAS. 1, 25.</ls> <ls>BHĀG. P. 4, 25, 52. fg.</ls> {#उत्तरतःपश्चात्#} {%von Nordwest%}: {#तस्मादुत्तरतः पश्चादयं भूयिष्ठं पवमानः पवते#} 
+<ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>AV. 12, 1, 31.</ls> <ls n="AV.">18, 4, 9.</ls> <ls n="AV. 18, 4,">11.</ls> <ls>ŚAT. BR. 13, 8, 1, 13.</ls> <ls>CHĀND. UP. 3, 6, 4. 7, 25, 1.</ls> <ls>MUṆḌ. UP. 2, 2, 11.</ls> <ls>MBH. 7, 2349.</ls> <ls>MEGH. 16.</ls> <ls>VARĀH. BṚH. S. 4, 3. 5, 34. 87. 11, 46. 21, 13.</ls> <ls>SŪRYAS. 1, 25.</ls> <ls>BHĀG. P. 4, 25, 52. fg.</ls> {#उत्तरतःपश्चात्#} {%von Nordwest%}: {#तस्मादुत्तरतः पश्चादयं भूयिष्ठं पवमानः पवते#} 
 <ls>AIT. BR. 1, 7.</ls> 
 <div n="1">— 2) praep. mit dem gen. (
 <ls>VOP. 5, 23</ls>) und abl. 

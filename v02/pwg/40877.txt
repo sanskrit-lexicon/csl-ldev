@@ -11,7 +11,7 @@
 <ls>NIR. 2, 2.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%ein Erklärer der heiligen Schriften%}: {#इति नैगमाः#} 
-<ls>P. 5, 4, 118, <is>Vārtt</is>. 2.</ls> 
+<ls>P. 5, 4, 118</ls>, <is>Vārtt</is>. 2. 
 <div n="2">— b) {%eine%} <is>Upaniṣad</is> 
 <ls>H. an. 3, 468.</ls> 
 <ls>MED. m. 46</ls> (wo {#नैगमः#} zu lesen ist). 
@@ -30,7 +30,7 @@
 <ls>HALĀY. 2, 416.</ls> 
 <ls>YĀJÑ. 2, 192.</ls> 
 <ls>MBH. 2, 529.</ls> <ls n="MBH.">4, 674.</ls> {#द्विजेभ्यो बलमुख्येभ्यो नैगमेभ्यश्च#} 
-<ls>13, 7709.</ls> {#विप्राः, कुलनैगमाः#} 
+<ls n="MBH.">13, 7709.</ls> {#विप्राः, कुलनैगमाः#} 
 <ls>HARIV. 10982.</ls> {#ब्राह्मणाः, नैगमाः#} 
 <ls>R. 1, 77, 24. 2, 59, 21. 83, 11. 106, 33.</ls> 
 

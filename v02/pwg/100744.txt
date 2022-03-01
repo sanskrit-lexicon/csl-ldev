@@ -5,7 +5,7 @@
 <ls>R. 6, 95, 24.</ls> {#शृङ्गारैः सुप्रहारैश्च कैलासो मदनायते#} 
 <ls>HARIV. 12007.</ls> {#°वेषाभरण#} <lex>adj.</lex> 
 <ls>MBH. 4, 2295.</ls> {#°वेष#} <lex>adj.</lex> 
-<ls>5, 237.</ls> 
+<ls n="MBH.">5, 237.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Putz, Staat, schmucke Kleider%} 
 <ls>Spr. (II) 1649.</ls> {#वसन्तः संततोज्जृम्भितानङ्गशृङ्गार एव#} 
@@ -52,7 +52,7 @@
 <ls>2427.</ls> 
 <div n="1">— 3) <lex>n.</lex> 
 <div n="2"> a) {%Mennig%} 
-<ls>H. 1061,</ls> <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
+<ls>H. 1061</ls>, <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— b) {%Gewürznelke.%} 
 <div n="2">— c) {%Mehl, Pulver%} 
 <ls>H. an.</ls> <ls>MED.</ls> 

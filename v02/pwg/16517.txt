@@ -2,7 +2,7 @@
 {#काम्बोज꣡#}¦ 
 <div n="1"> 1) <lex>adj.</lex> {%aus%} <is>Kamboja</is> {%gebürtig, daher kommend%} <is>gaṇa</is> {#सिन्ध्वादि#} zu 
 <ls>P. 4, 3, 93</ls> und <is>gaṇa</is> {#कच्छादि#} zu 
-<ls>4, 2, 133.</ls> von Pferden 
+<ls n="P.">4, 2, 133.</ls> von Pferden 
 <ls>AK. 2, 8, 2, 13.</ls> 
 <ls>H. 1235.</ls> 
 <ls>an. 3, 143.</ls> 
@@ -12,7 +12,7 @@
 <div n="2"> a) pl. = {#कम्बोज#} N. pr. eines Volkes und des von ihm bewohnten Landes 
 <ls>Z. f. d. K. d. M. II, 55. fgg.</ls> 
 <ls>MBH. 1, 2668.</ls> <ls n="MBH.">2, 1031.</ls> <ls n="MBH.">3, 12840.</ls> {#शका यवनकाम्बोजास्तास्ताः क्षत्त्रियजातयः । वृषलत्वं परिगता ब्राह्मणानामदर्शनात् ॥#} 
-<ls>13, 2103.</ls> <ls>M. 10, 44.</ls> {#अर्धं शकानां शिरसो मुण्डयित्वा व्यसर्जयत् । यवनानां शिरः सर्वं काम्बोजानां तथैव च#} (vgl. {#कम्बोजमुण्ड) ॥#} 
+<ls n="MBH.">13, 2103.</ls> <ls>M. 10, 44.</ls> {#अर्धं शकानां शिरसो मुण्डयित्वा व्यसर्जयत् । यवनानां शिरः सर्वं काम्बोजानां तथैव च#} (vgl. {#कम्बोजमुण्ड) ॥#} 
 <ls>HARIV. 780.</ls> <ls n="HARIV.">760.</ls> <ls n="HARIV.">768.</ls> <ls n="HARIV.">776.</ls> <ls n="HARIV.">782.</ls> 
 <ls>R. 4, 44, 14.</ls> 
 <ls>VIŚV. 5, 2.</ls> 
@@ -23,7 +23,7 @@
 <ls>BHĀG. P. 2, 7, 35.</ls> {#काम्बोजदेशजैश्चापि हयैः#} 
 <ls>R. 1, 6, 21.</ls> {#काम्बोजजैर्हयैः#} 
 <ls>MBH. 2, 1912.</ls> {#परमकाम्बोजान्#} 
-<ls>1033.</ls> 
+<ls n="MBH. 2,">1033.</ls> 
 <div n="2">— b) N. zweier Pflanzen: 
 <div n="3"> α) {%Rottleria tinctoria Roxb.%} 
 <ls>H. an.</ls> <ls>MED.</ls> 

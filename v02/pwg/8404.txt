@@ -1,13 +1,13 @@
 <L>8404<pc>1-0629<k1>आदि<k2>आदि꣡
 {#आदि꣡#}¦ <lex>m.</lex> 
-<ls>P. 3, 3, 108, <is>Vārtt</is>. 6,</ls> 
-<ls>Sch.</ls> {%Anfang, Beginn; Erstling%} 
+<ls>P. 3, 3, 108</ls>, <is>Vārtt</is>. 6, <ls>Sch.</ls>
+{%Anfang, Beginn; Erstling%} 
 <ls>AK. 3, 2, 30.</ls> 
 <ls>H. 1459.</ls> {#आद्यन्तयोः#} 
 <ls>KĀTY. ŚR. 1, 9, 8. 24, 5, 18. 26, 7, 58.</ls> {#आद्यन्ते#} ({%am Anfange und am Ende%}) {#द्युनिशोः#} 
 <ls>M. 4, 25.</ls> {#आद्यन्तौ = अन्तादी#} <is>gaṇa</is> {#राजदन्तादि#} zu 
 <ls>P. 2, 2, 31.</ls> {#आद्यवसाने#} <is>gaṇa</is> {#दधिपयआदि#} zu 
-<ls>2, 4, 14.</ls> {#मन्त्रान्तैः कर्मादिः#} 
+<ls n="P.">2, 4, 14.</ls> {#मन्त्रान्तैः कर्मादिः#} 
 <ls>KĀTY. ŚR. 1, 3, 5. fgg.</ls> {#पर्यायादिषु#} 
 <ls>13, 3, 18.</ls> {#सुत्यादौ#} 
 <ls>14, 1, 23.</ls> {#आदिसामर्थ्यात्#} 
@@ -33,8 +33,8 @@
 <ls>8, 407.</ls> {#एवमादीन्#} {%solche, deren Anfang der Art ist%}, d. i. {%diese und ähnliche%} 
 <ls>9, 260. 8, 329.</ls> {#एवमादि वचनम्#} 
 <ls>R. 4, 12, 38.</ls> {#शय्या खट्वादिः#} <is>śayyā</is> {%bedeutet%} <is>khaṭvā</is> {%u.s.w.%} 
-<ls>P. 3, 3, 99,</ls> 
-<ls>Sch.</ls> {#अन्नादिदायिन्#} {%der Speise und Anderes giebt%} 
+<ls>P. 3, 3, 99</ls>, <ls>Sch.</ls>
+{#अन्नादिदायिन्#} {%der Speise und Anderes giebt%} 
 <ls>M. 3, 104.</ls> Sehr oft wie beim letzten Beispiel mit Weglassung des subst., auf welches das <lex>adj.</lex> zu beziehen ist und welches zum ersten Gliede des comp. sich wie ein Genus zur Species oder eine Species zum Individuum verhält. In einem solchen Falle pflegt das <lex>adj.</lex> sich im Geschlecht zu richten nach dem im comp. unmittelbar vorangehenden Worte oder nach einem ganz nahe liegenden Ergänzungsworte: {#अन्नपानेन्धनादीनि#} {%Speisen, Getränke, Feuerung u.s.w.%} 
 <ls>M. 7, 118.</ls> {#स्तम्बो गुच्छस्तृणादिनः#} 
 <ls>AK. 2, 9, 21.</ls> {#गणिकादेः#} 

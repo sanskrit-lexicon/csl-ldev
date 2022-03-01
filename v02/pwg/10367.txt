@@ -6,7 +6,7 @@
 <ls>ṚV. 1, 124, 8.</ls> <ls n="ṚV. 1,">2, 39</ls> (das ganze Lied). {#व\त्समि^व मा\तरा^ संरिहा\णे#} 
 <ls n="ṚV.">3, 33, 3.</ls> {#ग\म्भी\राँ उ^द\धींरि^व\ क्रतु^ं पुष्यसि\ गा इ^व#} 
 <ls n="ṚV. 3,">45, 4.</ls> {#व\धू\युरि^व\ योष^णाम्#} 
-<ls n="ṚV. 3,">52, 3.</ls> <ls>AV. 3, 7, 3. 6, 12, 1. 121, 4. 137, 2. 10, 4, 3.</ls> <ls>AIT. BR. 4, 7. 8, 25.</ls> <ls>ŚAT. BR. 11, 5, 1, 3. 13, 5, 4, 14. 23.</ls> <ls>KĀTY. ŚR. 13, 3, 20.</ls> {#गूहेत्कूर्म इवाङ्गानि#} 
+<ls n="ṚV. 3,">52, 3.</ls> <ls>AV. 3, 7, 3.</ls> <ls n="AV.">6, 12, 1.</ls> <ls n="AV. 6,">121, 4.</ls> <ls n="AV. 6,">137, 2.</ls> <ls n="AV.">10, 4, 3.</ls> <ls>AIT. BR. 4, 7. 8, 25.</ls> <ls>ŚAT. BR. 11, 5, 1, 3. 13, 5, 4, 14. 23.</ls> <ls>KĀTY. ŚR. 13, 3, 20.</ls> {#गूहेत्कूर्म इवाङ्गानि#} 
 <ls>M. 7, 105.</ls> {#नाधर्मश्चरितो लोके सद्यः फलति गौरिव#} 
 <ls>4, 172.</ls> {#तेनाद्य रथनिर्घोषो नलस्येव महानभून्#} 
 <ls>N. 21, 30.</ls> {#श्रुत्वा तु समहृष्यन्त पुरेव नलसंनिधौ#} 3. {#किं नु खलु बाले ऽस्मिन्नौरस इव पुत्रे स्निह्यति मे मनः#} 
@@ -92,7 +92,7 @@
 <ls>19. 71, 23, v. l.</ls> {#कथमिव#} {%wie so?%} 
 <ls>8, 2. 21, 22. 83, 13. 104, 2.</ls> {%woher wohl?%} 
 <ls>106, 3.</ls> {#क्वेव#} {%wo wohl?%} zerlegen die Gramm. in {#क्व + एव#} 
-<ls>P. 6, 1, 94, <is>Vārtt</is>. 4.</ls> 
+<ls>P. 6, 1, 94</ls>, <is>Vārtt</is>. 4. 
 <div n="1">— 4) {%so, gerade so, so und nicht anders%}; besonders nach Ausdrücken, die selbst schon eine Einschränkung enthalten, und bei der Negation: {#शनै^रिव शन\कैरि\वेन्द्रा^येन्दो\ परि^ स्रव#} {%nur sachte, sachte rinn%} <is>Indu</is> {%dem%} <is>Indra</is> 
 <ls>ṚV. 8, 80, 3.</ls> {#प्रहसन् शनकैरिव#} 
 <ls>HIḌ. 4, 41.</ls> {#यावन्मात्रमिवैवापक्रम्य बिभेति#} 
@@ -110,10 +110,10 @@
 <div n="v">— Vgl. {#अतीव#} und {#इतीव#} u. {#इति#} 4. — Im <is>Veda</is> zeigt {#इव#} eigenthümliche, durch den Rhythmus erkennbare Lautaffectionen: 
 <div n="2"> a) das anlautende {#इ#} vereinigt sich häufig (durch Synizesis) mit einem vorangehenden Vocal, zu welchem es in einem nicht mehr durch <is>Saṃdhi</is> aufzuhebenden (secundären) Hiatus steht; so mit {#अ#} (für {#अः): पर्व^त इ\वावि^चाच\लिः#} (lies {#पर्वतैव°#}) 
 <ls>ṚV. 10, 173, 2.</ls> mit {#आ#} (für {#आः): योन्या^ इव\ प्रच्यु^तो\ गर्भ^ः#} 
-<ls>AV. 6,121, 4.</ls>
+<ls>AV. 6, 121, 4.</ls>
 [Page1-0820]
 mit {#आँ#} (für {#आन्): अ\क्षानि^व श्व\घ्नी नि मि^नोति\ तानि^#} 
-<ls>4, 16, 5.</ls> 
+<ls n="AV.">4, 16, 5.</ls> 
 <div n="2">— b) vor {#इव#} findet Elision statt bei vorangehendem {#अम्: रथ^मि\वाश्वा^ वा\जिन\ आ व^हन्तु#} 
 <ls>ṚV. 7, 41, 6.</ls> bei {#इम्: अ\ग्निमि^व जा\तम\भि सं ध^मामि#} 
 <ls>AV. 8, 2, 4.</ls> bei {#उम्: स न\ः सिन्धु^मिव ना\वया^#} 
@@ -121,9 +121,9 @@ mit {#आँ#} (für {#आन्): अ\क्षानि^व श्व\घ्�
 <div n="2">— c) unter die Form der Synizesis sowohl als der Elision dürfte der Fall gerechnet werden, wenn eine mit einem starken <is>Visarga</is> ({#रिफित#}) schliessende Silbe sich mit dem {#इ#} vereinigt, dabei also ein {#र#} als ausgefallen erscheint; so {#इर्#} ({#इः#}): {#अ\ग्निरि^व#} ({#अग्नि - इव#}) {#मन्यो त्विषि\तः स^हस्व#} 
 <ls>ṚV. 10, 84, 2.</ls> {#उर्#} ({#उः#}): {#धनु^रि\वा#} ({#धनु - इव#}) {#ता^नया\ पस^ः#} 
 <ls>AV. 4, 4, 6.</ls> {#एर् (एः): अ\ग्नेरि^वास्य\ दह^त एति शु\ष्मिण^ः#} 
-<ls>6, 20, 1.</ls> In Schreibungen wie {#उ\र्विव^#} (statt {#उरुरिव#}) {#गा\तुः सु\यमो\ न वो|आ^#} 
+<ls n="AV.">6, 20, 1.</ls> In Schreibungen wie {#उ\र्विव^#} (statt {#उरुरिव#}) {#गा\तुः सु\यमो\ न वो|आ^#} 
 <ls>ṚV. 9, 96, 15</ls> ist dieses Lautverhältniss sogar in den Text gekommen; vgl. 
-<ls>5, 7, 8.</ls> Herr W. D. <ls>WHITNEY</ls> hat die Beobachtung gemacht, dass im 
+<ls n="ṚV.">5, 7, 8.</ls> Herr W. D. <ls>WHITNEY</ls> hat die Beobachtung gemacht, dass im 
 <ls>AV.</ls> diese verschiedenen Formen der Zusammenziehung Regel, der Hiatus Ausnahme ist. Es stehen z. 
 <ls>B. 47</ls> Fälle von Vereinigung eines {#अ (अः)#} mit {#इव#} gegen 7 Fälle von Hiatus. Im 
 <ls>ṚV.</ls> ist das Verhältniss umgekehrt. Der Hiatus stellt sich also auch auf diesem Wege als eine von der ältesten Dichtung keinesweges gemiedene Lautform dar. — Im <is>Padapāṭha</is> des 
@@ -131,6 +131,6 @@ mit {#आँ#} (für {#आन्): अ\क्षानि^व श्व\घ्�
 <ls>VS.</ls> und des 
 <ls>AV.</ls> (<ls>AV. PRĀT. 4, 41</ls>), während der des 
 <ls>SV.</ls> {#इव#} als abgesondertes Wort behandelt. Auch in der klass. Sprache wird Composition angenommen 
-<ls>P. 2, 1, 4, <is>Vārtt</is>. 2. 18, <is>Vārtt</is>. 10.</ls> Ein verb. fin. ist vor {#इव#} angeblich orthotonirt 
+<ls>P. 2, 1, 4</ls>, <is>Vārtt</is>. 2. 18, <is>Vārtt</is>. 10. Ein verb. fin. ist vor {#इव#} angeblich orthotonirt 
 <ls>P. 8, 1, 57.</ls>
 <LEND>

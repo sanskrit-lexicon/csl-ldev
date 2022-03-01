@@ -26,7 +26,7 @@
 <ls>RĀJA-TAR. 3, 357.</ls> {%sich verbreiten%}, vom Ruhme, einem Namen, einem Gerücht, einer Rede: {#तथा यशो ऽस्य प्रथते#} 
 <ls>M. 11, 15.</ls> 
 <ls>MBH. 5, 1956.</ls> {#पप्रथे नाम#} 
-<ls>12, 1112.</ls> {#ख्यातिः#} 
+<ls n="MBH.">12, 1112.</ls> {#ख्यातिः#} 
 <ls>RĀJA-TAR. 1, 325.</ls> {#सरस्वती#} 
 <ls>2, 72.</ls> {#तन्मूला धनमित्रस्य कीर्तिरप्रथत#} 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 193, 19.</ls> {#प्रथित#} {%ausgebreitet, verbreitet%}: {#ततः सहस्रशस्तासु प्रजासु प्रथितासु#} {%nachdem sie sich zu Tausenden verbreitet, vermehrt hatten%} 
@@ -40,8 +40,8 @@
 <ls>MĀLAV. 3, 12.</ls> 
 <div n="2">— b) {%sich verbreiten%} so v. a. {%bekannt —, berühmt werden%} 
 <ls>DHĀTUP.</ls> {#मङ्गलादीनि हि शास्त्राणि प्रथन्ते मङ्गलमध्यानि मङ्गलान्तानि च#} 
-<ls>P. 8, 4, 67,</ls> 
-<ls>Sch.</ls> {#उन्मादिनीति नाम्ना च कन्यका सापि पप्रथे#} 
+<ls>P. 8, 4, 67</ls>, <ls>Sch.</ls>
+{#उन्मादिनीति नाम्ना च कन्यका सापि पप्रथे#} 
 <ls>KATHĀS. 15, 65.</ls> 
 <ls>MBH. 9, 3009.</ls> <ls n="MBH.">13, 4679.</ls> 
 <ls>RAGH. 15, 101.</ls> 
@@ -115,7 +115,7 @@
 <div n="1">— 2) med. {%sich ausbreiten, - strecken, - dehnen; zunehmen%}: {#इ\र\ज्यन्न^ग्ने प्रथयस्व ज\न्तुभि^ः#} 
 <ls>ṚV. 10, 140, 4.</ls> {#अग्ने^ शु\क्रेण^ शो\चिषो\रु प्र^थयसे बृ\हत्#} 
 <ls n="ṚV. 10,">21, 8.</ls> {#यथा^सि\तः प्र\थय^ते\ वशा\ँ अनु^#} 
-<ls>AV. 6, 72, 1. 101, 1.</ls>
+<ls>AV. 6, 72, 1.</ls> <ls n="AV. 6,">101, 1.</ls>
 
 <div n="p">— {#अनु#} med. {%sich ausbreiten entlang von%} 
 <ls>TS. 3, 3, 10, 2.</ls> 

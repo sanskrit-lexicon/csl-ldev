@@ -20,8 +20,8 @@
 <ls>Verz. d. Oxf. H. 47,a, No. 103, Z. 12.</ls> <ls>Schol.</ls> zu <ls>JAIM.1,2,12.</ls> {#कः पुनरेषां वरिष्ठः#} 
 <ls>PRAŚNOP. 2, 1.</ls> {#पुण्यकृताम्#} 
 <ls>MBH. 1, 2096.</ls> {#ब्राह्मणो द्विपदां श्रेष्ठो गौर्वरिष्ठा चतुष्पदाम्#} 
-<ls>3044. 3, 10599. 5, 511. 12, 5163.</ls> {#सर्वयज्ञानाम्#} 
-<ls>13, 3809.</ls> <ls>HARIV. 1032.</ls> <ls n="HARIV.">8812.</ls> <ls>R. 3, 3, 11. 5, 44, 13. 48, 15. 6, 6, 32.</ls> <ls>BHĀG. P. 1, 10, 1. 3, 25, 11. 5, 11, 1.</ls> {#आख्यान°#} {%die vorzüglichste unter allen Erzählungen%} 
+<ls n="MBH. 1,">3044.</ls> <ls n="MBH.">3, 10599.</ls> <ls n="MBH.">5, 511.</ls> <ls n="MBH.">12, 5163.</ls> {#सर्वयज्ञानाम्#} 
+<ls n="MBH.">13, 3809.</ls> <ls>HARIV. 1032.</ls> <ls n="HARIV.">8812.</ls> <ls>R. 3, 3, 11. 5, 44, 13. 48, 15. 6, 6, 32.</ls> <ls>BHĀG. P. 1, 10, 1. 3, 25, 11. 5, 11, 1.</ls> {#आख्यान°#} {%die vorzüglichste unter allen Erzählungen%} 
 <ls>MBH. 1, 18.</ls> <ls n="MBH. 1,">55.</ls> {#लोक°#} 
 <ls>R. GORR. 2, 108, 15.</ls> {#देव°#} 
 <ls>5, 7, 34.</ls> {#नृप°#} (so ist zu verbinden) 
@@ -29,7 +29,7 @@
 <ls>M. 7, 84.</ls> 
 <ls>BHĀG. P. 7, 9, 10.</ls> {%unter Schlechten vornan stehend, der schlimmste, ärgste%}: {#दोष#} 
 <ls>MBH. 14, 879</ls> (unter {#उरु#} zu streichen). {#पापकृताम्#} 
-<ls>3, 12590.</ls> 
+<ls n="MBH.">3, 12590.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Rebhuhn%} 
 <ls>H. an.</ls> <ls>MED.</ls> 

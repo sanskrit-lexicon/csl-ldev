@@ -1,7 +1,7 @@
 <L>86000<pc>6-0504<k1>लभ्य<k2>ल꣡भ्य
 {#ल꣡भ्य#}¦ (von {#लभ्#}) <lex>adj.</lex> 
-<ls>P. 3, 1, 98,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 1, 98</ls>, <ls>Sch.</ls> 
+
 <div n="1"> 1) {%zu finden, anzutreffen%}: {#वक्ता चास्य त्वादृगन्यो न लभ्यः#} 
 <ls>KAṬHOP. 1, 22.</ls> {#नह्यन्तरेण च्छन्दो ऽर्तेः श्लुर्लभ्यः#} 
 <ls>PAT.</ls> zu <ls>P. 7, 4, 77.</ls> {#मृणालसूत्रान्तरमप्यलभ्यम्#} 
@@ -17,7 +17,7 @@
 <ls>BHĀG. P. 4, 24, 54.</ls> 
 <ls>PAÑCAR. 4, 8, 37.</ls> {#गङ्गातटे घोष इति प्रतिपादनादलभ्यस्य शीतत्वपावनत्वातिशयस्व#} 
 <ls>SĀH. D. 11,8.</ls> 
-<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 111.</ls> <ls>KUSUM. 57,10.</ls> <ls>Verz. d. Oxf. H. 162,a, N. 1. Schol.</ls> zu <ls>NAIṢ. 22,55.</ls> 
+<ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 111.</ls> <ls>KUSUM. 57,10.</ls> <ls>Verz. d. Oxf. H. 162,a, N. 1.</ls> Schol. zu <ls>NAIṢ. 22,55.</ls> 
 <div n="1">— 4) {%entsprechend, angemessen, passend%} 
 <ls>AK. 2, 8, 1, 24.</ls> 
 <ls>TRIK. 3, 3, 320.</ls> 

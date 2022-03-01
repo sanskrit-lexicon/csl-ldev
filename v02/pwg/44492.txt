@@ -6,7 +6,7 @@ z. B. <ls>6, 2, 14. 7, 1, 17. 22. 40. 2, 6</ls>)
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} in der älteren, {#आ#} in der späteren Sprache, 
 <ls>P. 4, 1, 30</ls>; wird mit seinem Nomen componirt 
 <ls>P. 2, 1, 54.</ls> Accent eines comp., wenn das letzte Glied einen Handwerker oder Künstler bezeichnet, (
-<ls>6, 2, 68</ls>) {%schlimm, übel, bös%}; subst. {%böser Mensch%} 
+<ls n="P.">6, 2, 68</ls>) {%schlimm, übel, bös%}; subst. {%böser Mensch%} 
 <ls>NIR. 5, 2.</ls> 
 <ls>AK. 3, 1, 47.</ls> 
 <ls>TRIK. 3, 1, 21.</ls> 
@@ -18,13 +18,13 @@ z. B. <ls>6, 2, 14. 7, 1, 17. 22. 40. 2, 6</ls>)
 <ls n="ṚV. 10,">108, 6.</ls> {#स\ंक\ल्पः#} 
 <ls n="ṚV. 10,">164, 5.</ls> Gegens. {#भद्र#} 
 <ls n="ṚV.">1, 190, 5.</ls> <ls>AV. 13, 4, 42.</ls> {#यैः स\ंचर^न्त्यु\भये^ भद्रपा\पाः#} 
-<ls>12, 1, 47. 48. - 5, 18, 2.</ls> {#स्वप्न#} {%ein böser Traum%} 
-<ls>10, 3, 6. 7, 100, 1.</ls> {#श्लोक#} 
+<ls n="AV.">12, 1, 47.</ls> <ls n="AV. 12, 1,">48.</ls> - <ls n="AV.">5, 18, 2.</ls> {#स्वप्न#} {%ein böser Traum%} 
+<ls n="AV.">10, 3, 6.</ls> <ls n="AV.">7, 100, 1.</ls> {#श्लोक#} 
 <ls>TS. 3, 5, 7,2.</ls>
 [Page4-0659]
 {#रम^न्ता\ं पुण्या^ ल\क्ष्मीर्याः पा\पीस्ता अ^नीनशम्#} 
-<ls>AV. 7, 115, 4. 1.</ls> {#धि^यः#} 
-<ls>9, 2, 25.</ls> {#पापो हि सोमविक्रयी#} 
+<ls>AV. 7, 115, 4.</ls> <ls n="AV. 7, 115,">1.</ls> {#धि^यः#} 
+<ls n="AV.">9, 2, 25.</ls> {#पापो हि सोमविक्रयी#} 
 <ls>AIT. BR. 1, 12.</ls> {#पुरुष#} 
 <ls>4, 25.</ls> {#कर्मन्#} 
 <ls>7, 17. 27.</ls> <ls>M. 4, 197. 12, 74.</ls> {#एनस्#} 
@@ -32,7 +32,7 @@ z. B. <ls>6, 2, 14. 7, 1, 17. 22. 40. 2, 6</ls>)
 <ls>ŚAT. BR. 3, 1, 2, 4. 5, 1, 25.</ls> {#वाच्#} 
 <ls>PAÑCAV. BR. 12, 6, 8.</ls> {#पुण्यां योनिं पुण्यकृतो व्रजन्ति पापां योनिं पापकृतो व्रजन्ति#} 
 <ls>MBH. 1, 3618.</ls> {#कीर्ति#} 
-<ls>6, 5813.</ls> {#पापान्संयाति संसारान्#} 
+<ls n="MBH.">6, 5813.</ls> {#पापान्संयाति संसारान्#} 
 <ls>M. 12, 52. 70.</ls> {#दुष्टचेतना#} 
 <ls>MĀRK. P. 51, 41.</ls> {#पापेन तिरश्चीनेन चक्षुषा#} 
 <ls>BHĀG. P. 7, 8, 4.</ls> {#°चक्षुस्#} <lex>adj.</lex> 
@@ -51,7 +51,7 @@ z. B. <ls>6, 2, 14. 7, 1, 17. 22. 40. 2, 6</ls>)
 <ls>32, 9.</ls> — adv. {#पाप꣡म्#} {%übel, schlecht, elend%}: {#पा\पं जी^वन्ति सर्व\दा#} 
 <ls>AV. 12, 2, 50.</ls> instr. {#पाप꣡या#} {%auf üble Weise, schlecht, unrecht%}: {#विजा^नि\र्यत्र^ ब्राह्म\णो रात्रि\ं वस^ति पा\पया^#} 
 <ls>AV. 5, 17, 8.</ls> {#यच्चे^रि\म पा\पया^#} 
-<ls>7, 65, 2.</ls> <ls>ṚV. 8, 19, 26.</ls> <ls n="ṚV.">10, 71, 9.</ls> {#पा° अमुया#} {%so übel, so hässlich%}: {#ग\र्द\भं न\वन्त^ं पा\पया^मु\या#} 
+<ls n="AV.">7, 65, 2.</ls> <ls>ṚV. 8, 19, 26.</ls> <ls n="ṚV.">10, 71, 9.</ls> {#पा° अमुया#} {%so übel, so hässlich%}: {#ग\र्द\भं न\वन्त^ं पा\पया^मु\या#} 
 <ls n="ṚV.">1, 29, 5.</ls> <ls n="ṚV.">10, 85, 30.</ls> {#चर^न्तं पा\पया^मु\या#} 
 <ls n="ṚV. 10,">135, 2.</ls> {#अथ\ किं पा\पया^मु\या पुच्छे^ बिभर्ष्यर्भ\कम्#} 
 <ls>AV. 7, 56, 6.</ls> 
@@ -59,8 +59,8 @@ z. B. <ls>6, 2, 14. 7, 1, 17. 22. 40. 2, 6</ls>)
 <ls>SIDDH. K. 249,a,6</ls> v. u. Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} 
 <ls>R. GORR. 1, 29, 11.</ls> <ls>MĀRK. P. 21, 65</ls>; vgl. u. {#धूतपाप#} und {#विपापा#} . 
 <div n="2"> a) {%Uebel, schlimmer Zustand, schlechtes Ergehen, Missgeschick, Unheil%}: {#पा\पमार्छ^त्वपका\मस्य^ क\र्ता#} 
-<ls>AV. 2, 12, 5. 4, 36, 8.</ls> {#अपै^तु\ सर्व\ं मत्पा\पं द्रवि^ण\ं मोप^ तिष्ठतु#} 
-<ls>10, 1, 10. 3, 4.</ls> <ls>ĀŚV. GṚHY. 2, 4.</ls> {#पापभद्रम्#} {%gutes und schlimmes Ergehen%} 
+<ls>AV. 2, 12, 5.</ls> <ls n="AV.">4, 36, 8.</ls> {#अपै^तु\ सर्व\ं मत्पा\पं द्रवि^ण\ं मोप^ तिष्ठतु#} 
+<ls n="AV.">10, 1, 10.</ls> <ls n="AV. 10,">3, 4.</ls> <ls>ĀŚV. GṚHY. 2, 4.</ls> {#पापभद्रम्#} {%gutes und schlimmes Ergehen%} 
 <ls>AIT. BR. 3, 3. 7.</ls> {#नाशयन्त्याशु पापानि महापातकजान्यपि#} 
 <ls>M. 11, 245.</ls> {#सा शङ्कमाना तत्पापम्#} {%dass ihn ein Uebel treffen werde%} 
 <ls>N. 8, 3.</ls> 
@@ -110,8 +110,8 @@ z. B. <ls>6, 2, 14. 7, 1, 17. 22. 40. 2, 6</ls>)
 <ls>VP. 207.</ls> 
 <div n="1">— 4) compar. 
 <div n="2"> a) {#पा꣡पीयंस्#} (in comp. mit einem vorangebenden nom. act., das seinen Ton bewahrt, 
-<ls>P. 6, 2, 25,</ls> 
-<ls>Sch.</ls>) {%übler daran, elender; geringer, ärmer; der recht übel daran ist, sehr schlimm%} (Gegens. {#श्रेयंस्, वसीयंस्#}) 
+<ls>P. 6, 2, 25</ls>, <ls>Sch.</ls>) 
+{%übler daran, elender; geringer, ärmer; der recht übel daran ist, sehr schlimm%} (Gegens. {#श्रेयंस्, वसीयंस्#}) 
 <ls>AIT. BR. 3, 7. 11. 7, 26.</ls> {#यथा\ पापी^या\ं छ्रेय^सा\हृत्य^ नम\स्यति^#} 
 <ls>TS. 1, 5, 7, 4. 9, 5.</ls> {#श्रेयान्भ्रातृव्यः, सदृङ्, पापीयान्#} 
 <ls>2, 4, 1, 4. 5, 1, 2, 2. 5, 2, 4.</ls> {#पापी^यस्या\त्मन^ः प्र\जा स्या^त्#} 
@@ -138,23 +138,23 @@ z. B. <ls>6, 2, 14. 7, 1, 17. 22. 40. 2, 6</ls>)
 <ls>404, 5</ls> u.s.w. 
 <div n="2">— b) {#पापतर#} {%schlimmer, schlechter%}: {#तेभ्यः पापतरो नु कः#} 
 <ls>MBH. 3, 10788.</ls> {#ततः पापतरं नु किम्#} 
-<ls>7, 9154.</ls> {#पापात्पापतरे ऽमुष्मिन्दोषे#} 
+<ls n="MBH.">7, 9154.</ls> {#पापात्पापतरे ऽमुष्मिन्दोषे#} 
 <ls>RĀJA-TAR. 4, 85.</ls> {#पापात्पापतरो नृपः#} 
 <ls>5, 414.</ls> {#विश्वासघातादन्यन्नास्ति पापतरं कर्म#} 
 <ls>PAÑCAT. 102, 1.</ls> {#एतच्च पापतरं कर्म कृतम्#} {%sehr schlecht%} 5. 
 <div n="2">— c) {#पापीयस्तर#} dass.: {#न स्त्रीभ्यः किंचिदन्यद्वै पापीयस्तरमस्ति वै#} 
 <ls>MBH. 13, 2213.</ls> 
 <div n="1">— 4) superl. {#पा꣡पिष्ठ#} (in comp. mit einem vorangehenden nom. act., das seinen Ton bewahrt, 
-<ls>P. 6, 2, 25,</ls> 
-<ls>Sch.</ls>) {%der geringste, schlechteste, überaus schlecht, - schlimm%}: {#लक्ष्मी#} 
+<ls>P. 6, 2, 25</ls>, <ls>Sch.</ls>) 
+{%der geringste, schlechteste, überaus schlecht, - schlimm%}: {#लक्ष्मी#} 
 <ls>AV. 7, 115, 3.</ls> {#भागधेय#} 
 <ls>ŚAT. BR. 1, 9, 2, 35.</ls> {#त्वं न्वेव देवानां पापिष्ठो ऽसि#} 
 <ls>AIT. BR. 3, 13. 6, 33.</ls> {#स पापिष्ठो विवाहानाम्#} 
 <ls>M. 3, 34.</ls> {#सर्वकण्टकपापिष्ठं हेमकारम्#} 
 <ls>9, 292.</ls> {#परोपसेवा#} 
 <ls>MBH. 1, 5191.</ls> {#गति#} 
-<ls>13, 4439.</ls> {#°दिवस#} 
-<ls>1, 4969.</ls> {#आसुरीं योनिम्#} 
+<ls n="MBH.">13, 4439.</ls> {#°दिवस#} 
+<ls n="MBH.">1, 4969.</ls> {#आसुरीं योनिम्#} 
 <ls>BHĀG. P. 7, 1, 37.</ls> {#तस्मादसाधून्पापिष्ठान्निघ्नन्पापैर्न लिप्यते#} 
 <ls>KĀM. NĪTIS. 6, 5.</ls> {#पुरुषाः पापिष्ठाः स्त्रीघातका भवन्ति#} 
 <ls>VET. in LA. 21, 6. 26, 13.</ls> {#चिरं दुःखस्य पापिष्ठम्#} {%das Lange ist das Schlimmste beim Leiden%} 

@@ -4,7 +4,7 @@
 <ls>TBR. 2, 1, 10, 2.</ls> {#सर्वमाप्नोति सर्वशः#} 
 <ls>CHĀND. UP. 7, 26, 2.</ls> {#(अग्निम्) शमयामास स°#} 
 <ls>MBH. 1, 1136.</ls> {#शरैर्नानाविधैस्तूर्णं पार्थं संछाद्य स°#} 
-<ls>5476.</ls> {#हृतसाराणि#} 
+<ls n="MBH. 1,">5476.</ls> {#हृतसाराणि#} 
 <ls>R. 2, 33, 18.</ls> {#तच्छृणुष्व मम संदेशं स°#} 
 <ls>5, 47, 15.</ls> {#सर्वशश्च वर्जयेयुर्ग्रामचर्याम्#} 
 <ls>ŚĀṄKH. ŚR. 12, 8, 3.</ls> {%im Ganzen, als Ganzes%} 
@@ -30,7 +30,7 @@
 <ls>R. 1, 18, 8.</ls> auf einem abl. pl. 
 <ls>Spr. (II) 714.</ls> auf einen loc. pl. 
 <ls>MBH. 1, 1109.</ls> auf ein im pl. gedachtes Wort am Anfange eines comp.: {#सुहृत्त्यागं स°#} 
-<ls>3, 2341.</ls> 
+<ls n="MBH.">3, 2341.</ls> 
 <div n="1">— 2) {%auf jede Weise%} 
 <ls>M. 2, 54.</ls> 
 <ls>R. 2, 32, 22.</ls> {%auf irgend eine Weise%} 

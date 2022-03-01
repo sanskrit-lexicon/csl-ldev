@@ -4,11 +4,11 @@
 <ls>ṚV. 8, 23, 3.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%Belästigung, Störung, Unterbrechung, Schaden%} 
 <ls>AK. 1, 2, 2, 3.</ls> 
-<ls>P. 6, 2, 21. 8, 1, 10.</ls> 
+<ls>P. 6, 2, 21.</ls> <ls n="P.">8, 1, 10.</ls> 
 <ls>MBH. 3, 12640.</ls> 
 <ls>SUŚR. 2, 135, 14.</ls> {#शारीर#} und {#मानस#} 
 <ls>MBH. 2, 223.</ls> {#वीतशोकभयाबाध#} 
-<ls>1, 3975.</ls> {#आबाधकर#} 
+<ls n="MBH.">1, 3975.</ls> {#आबाधकर#} 
 <ls>SUŚR. 1, 66, 8.</ls> {#°जनन#} 
 <ls>239, 9.</ls> {#निराबाध#} <lex>adj.</lex> <lex>f.</lex> {#आ#} 
 <ls>MBH. 3, 16289.</ls> 
@@ -18,8 +18,8 @@
 <ls>1, 23, 14.</ls> {#प्राणाबाधभयेषु#} 
 <ls>M. 4, 51.</ls> {#न प्राणाबाधमाचरेत्#} 
 <ls>54.</ls> {#गमनाबाधम्, वचनाबाधम्#} (das erste Wort behält seinen Accent) 
-<ls>P. 6, 2, 21,</ls> 
-<ls>Sch.</ls> Auch <lex>f.</lex> {#आबाधा#} 
+<ls>P. 6, 2, 21</ls>, <ls>Sch.</ls>
+Auch <lex>f.</lex> {#आबाधा#} 
 <ls>SUŚR. 1, 70, 15. 91, 18.</ls> Vgl. {#अनाबाध#} . 
 <div n="1">— 3) <lex>f.</lex> {#°धा#} {%Segment einer Basis%} 
 <ls>COLEBR. Alg. 70.</ls> Vgl. {#अबधा, अवबधा#} .

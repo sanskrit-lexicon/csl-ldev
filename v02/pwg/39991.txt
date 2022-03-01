@@ -1,8 +1,8 @@
 <L>39991<pc>4-0236<k1>निःशेष<k2>निःशेष
 {#निःशेष#}¦ ({#निस् + शेष#}) <lex>adj.</lex> <lex>f.</lex> {#आ#} {%wovon kein Rest übrig ist, alles bis auf das Letzte, alle bis auf den Letzten%} 
 <ls>AK. 3, 2, 14.</ls> 
-<ls>H. 1433,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 1433</ls>, <ls>Sch.</ls> 
+
 <ls>HALĀY. 4, 85.</ls> {#अशिश्रियंस्तं निःशेषा दन्तिनः#} 
 <ls>RĀJA-TAR. 4, 148. 2, 165.</ls> 
 <ls>KATHĀS. 1, 3.</ls> {#यो न निर्गत्य निःशेषामालोकयति मेदिनीम्#} 
@@ -10,7 +10,7 @@
 <ls>HARIV. 522.</ls> <ls n="HARIV.">528.</ls> <ls n="HARIV.">12298.</ls> {#कृत#} 
 <ls>VĀYU-P.</ls> bei <ls>MUIR, Sanskrit Texts I, 30, N. 51.</ls> {#निःशेषं कर्#} {%bis auf den letzten Rest vernichten%}: {#संशप्तकावशेषं च कृतं निःशेषमाहवे#} 
 <ls>MBH. 1, 535.</ls> {#इमां वसुमतीं कुर्यान्निःशेषाम्#} 
-<ls>2, 1531. 7, 2057. 8511. 9, 1586. 13, 2090. 16, 102.</ls> <ls>HARIV. 776.</ls> <ls>Spr. 508.</ls> {#निःशेषान्नः करिष्यति#} 
+<ls n="MBH.">2, 1531.</ls> <ls n="MBH.">7, 2057.</ls> <ls n="MBH. 7,">8511.</ls> <ls n="MBH.">9, 1586.</ls> <ls n="MBH.">13, 2090.</ls> <ls n="MBH.">16, 102.</ls> <ls>HARIV. 776.</ls> <ls>Spr. 508.</ls> {#निःशेषान्नः करिष्यति#} 
 <ls>R. GORR. 2, 77, 15.</ls> {#निःशेषं#} (sic) {#नः करिष्यति#} 
 <ls>R. SCHL. 2, 78, 14.</ls> <ls>MBH. 2, 2462.</ls> {#जीवकृतं सर्वं निःशेषं नावतिष्ठते#} so v. a. {%geht vollständig zu Grunde%} 
 <ls>HARIV. 12299.</ls> Am Anfange eines comp. vor einem partic. als adv. {%bis auf den letzten Rest, ganz und gar, vollständig%}: {#°भग्ना (वाहिनी)#} 

@@ -12,8 +12,8 @@
 <ls>M. 3, 8.</ls> {#राक्षसी#} 
 <ls>R. 5, 17, 27.</ls> {#हेमकपिलाः केशाः#} 
 <ls>6, 3, 2.</ls> {#वाताय कपिला विद्युत्#} {%der röthliche Blitz deutet auf Wind%} 
-<ls>P. 2, 3, 13, <is>Vārtt</is>. 3,</ls> 
-<ls>Sch.</ls> {#व्रण#} 
+<ls>P. 2, 3, 13</ls>, <is>Vārtt</is>. 3, <ls>Sch.</ls>
+{#व्रण#} 
 <ls>SUŚR. 1, 85, 20.</ls> von verschiedenen Thieren 
 <ls>40, 20</ls> (von einem ungiftigen Blutegel; daher wohl bei 
 <ls>WILS.</ls> {#कपिला#} {%the common leech%}). 
@@ -36,7 +36,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>COLEBR. Misc. Ess. I, 103. 111. 229. fgg. 252. 349.</ls> <ls>LIA. I, 830. fgg.</ls> <ls>WEBER, Lit. 93</ls> u.s.w. <ls>Ind. St. 1, 24</ls> u.s.w. <ls>ŚVETĀŚV. UP. 5, 2.</ls> <ls>MBH. 3, 1896.</ls> <ls n="MBH. 3,">8877. fgg.</ls> 
-<ls>13608. 12, 12932. 13, 255. 916. 7045.</ls> {#सिद्धानां कपिलो मुनिः#} 
+<ls n="MBH. 3,">13608.</ls> <ls n="MBH.">12, 12932.</ls> <ls n="MBH.">13, 255.</ls> <ls n="MBH. 13,">916.</ls> <ls n="MBH. 13,">7045.</ls> {#सिद्धानां कपिलो मुनिः#} 
 <ls>BHAG. 10, 26.</ls> 
 <ls>HARIV. 788.</ls> <ls n="HARIV.">2219.</ls> <ls n="HARIV.">7595.</ls> <ls n="HARIV.">11495.</ls> <ls n="HARIV.">12439.</ls> <ls n="HARIV.">S. 927, Z. 5</ls> v. u. <ls>R. 1, 41, 25.</ls> <ls>RAGH. 3, 50.</ls> <ls>BHĀG. P. 1, 3, 10. 3, 24, 19.</ls> <ls>VP. 378. fg.</ls> ein Sohn <is>Vitatha's</is> 
 <ls>HARIV. 1733.</ls> <is>Vasudeva's</is> von der <is>Narāci</is> 

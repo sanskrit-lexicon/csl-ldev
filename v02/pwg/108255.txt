@@ -12,7 +12,7 @@
 <ls>PAÑCAR. 1, 8, 33.</ls> {#अयत्न°#} 
 <ls>Spr. (II) 5526.</ls> {#उपाय°#} 
 <ls>MBH. 1, 7419.</ls> {#मार्दव°#} 
-<ls>5, 67.</ls> {#भेद°#} 
+<ls n="MBH.">5, 67.</ls> {#भेद°#} 
 <ls>R. 5, 37, 30.</ls> 
 <ls>KUMĀRAS. 3, 15.</ls> 
 <ls>Spr. (II) 2229.</ls> <ls n="Spr. (II)">3017.</ls> <ls n="Spr. (II)">4635.</ls> 
@@ -77,7 +77,7 @@
 <div n="2"> a) pl. etwa {%die zu Gewinnenden%}, Bez. {%einer best. Götterklasse%} (neben den <is>Vasu</is>, <is>Rudra</is> 
 u.s.w.) <ls>NAIGH. 5, 6.</ls> <ls>NIR. 12, 40.</ls> <ls>AK. 1, 1, 1, 5.</ls> <ls>TRIK. 3, 3, 322.</ls> <ls>H. ś. 2. 6</ls> (zwölf). <ls>H. an.</ls> <ls>MED.</ls> <ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf. H. 190,a, 28</ls> (zwölf). {#यत्र\ -पूर्वे^ सा\ध्याः सन्ति^ दे\वाः#} 
 <ls>ṚV. 1, 164, 50.</ls> <ls n="ṚV.">10, 90, 7.</ls> {#मयि^ दे\वा उ\भये^ सा\ध्याश्चेन्द्र^ज्येष्ठा\ः सम^गच्छन्त#} 
-<ls>AV. 7, 79, 2. 8, 8, 12. 9, 10, 24. 10, 10, 30. fg.</ls> 
+<ls>AV. 7, 79, 2.</ls> <ls n="AV.">8, 8, 12.</ls> <ls n="AV.">9, 10, 24.</ls> <ls n="AV.">10, 10, 30. fg.</ls> 
 <ls>VS. 24, 27. 29, 11. 30, 15. 39, 5.</ls> 
 <ls>TBR. 1, 1, 9, 1.</ls> 
 <ls>TS. 5, 6, 17, 1. 7, 17, 1. 6, 3, 4, 8. 5, 1. 5, 6, 1. 7, 2, 1, 1.</ls> neben den <is>Āptya</is> 

@@ -1,13 +1,13 @@
 <L>56888<pc>5-0483<k1>मधु<k2>म꣡धु
 {#म꣡धु#}¦ (von 1. {#मद्)#} 
 <ls>UṆĀDIS. 1, 19.</ls> gen. <lex>n.</lex> in der älteren Sprache {#म꣡ध्वस्, म꣡धोस्#} (
-<ls>P. 7, 1, 77, <is>Vārtt</is>.,</ls> 
-<ls>Sch. 3, 1, 85, <is>Kār</is>.,</ls> 
+<ls>P. 7, 1, 77</ls>, <is>Vārtt</is>., <ls>Sch. 3, 1, 85, <is>Kār</is>.,</ls>
+
 <ls>Sch.</ls>) und {#म꣡धुनस्#}, instr. {#म꣡ध्वा#}, dat. {#म꣡धुने#} 
 <ls>ṚV. 4, 45, 3.</ls> loc. {#म꣡धौ#} . <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 248,b,12.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 248,b,12.</ls> 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#म꣡ध्वी#} und {#मधू꣡#} (
-<ls>P. 4, 1, 71, <is>Vārtt</is>.</ls> 
+<ls>P. 4, 1, 71</ls>, <is>Vārtt</is>. 
 <ls>AV. 7, 56, 2</ls>) {%süss, lieblich, schmeckend; lieblich, angenehm%} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#घृत#} 
 <ls>ṚV. 3, 1, 8.</ls> <ls n="ṚV.">4, 42, 3.</ls> {#अन्धस्#} 
@@ -16,15 +16,15 @@
 <ls n="ṚV. 1,">90, 6.</ls> <ls n="ṚV. 1, 90,">8.</ls> {#धर्म#} 
 <ls>VS. 38, 10.</ls> {#छन्दस्#} 
 <ls>ṚV. 6, 11, 3.</ls> {#वचन#} 
-<ls>39, 1</ls>; vgl. <ls>TS. 3, 3, 2, 2.</ls> {#मधुस्तनूः#} 
-<ls>P. 4, 4, 129,</ls> 
-<ls>Sch.</ls> unter den Beiww. <is>Śiva's</is> 
+<ls n="ṚV. 6,">39, 1</ls>; vgl. <ls>TS. 3, 3, 2, 2.</ls> {#मधुस्तनूः#} 
+<ls>P. 4, 4, 129</ls>, <ls>Sch.</ls>
+unter den Beiww. <is>Śiva's</is> 
 <ls>MBH. 13, 1187</ls> (= {#वसन्त#} Schol.). 
 <div n="1">— 2) <lex>n.</lex> {%Süssigkeit, süsser Trank und Speise, Meth u.s.w.%} 
 <ls>ṚV. 1, 154, 4.</ls> <ls n="ṚV.">2, 37, 5.</ls> {#मधु\ संभृ^तमु\स्रिया^याम्#} 
 <ls n="ṚV.">3, 39, 6.</ls> <ls n="ṚV.">5, 43, 1.</ls> {#पृ\णक्तु\ मध्वा\ समि\मा वचा^ंसि#} 
 <ls n="ṚV.">4, 38, 10.</ls> {#मधु^ नो\ द्यावा^पृथि\वी मि^मिक्षताम्#} 
-<ls n="ṚV.">6, 70, 5.</ls> <ls n="ṚV.">10, 12, 4.</ls> <ls n="ṚV. 10,">40, 6.</ls> <ls>AV. 6, 69, 1. 9, 1, 22.</ls> {#यासामाषाढा मधु भक्षयन्ति ता न आपः शं स्योना भवन्तु#} 
+<ls n="ṚV.">6, 70, 5.</ls> <ls n="ṚV.">10, 12, 4.</ls> <ls n="ṚV. 10,">40, 6.</ls> <ls>AV. 6, 69, 1.</ls> <ls n="AV.">9, 1, 22.</ls> {#यासामाषाढा मधु भक्षयन्ति ता न आपः शं स्योना भवन्तु#} 
 <ls>TBR. 3, 1, 2, 4. 13</ls> in <ls>Z. f. d. K. d. M. 7, 271. 274.</ls> Insbesondere: 
 <div n="2"> a) <is>Soma</is>: {#सो\म्यं मधु^#} 
 <ls>ṚV. 1, 19, 9.</ls> <ls n="ṚV.">2, 36, 4.</ls> <ls n="ṚV.">4, 26, 5.</ls> <ls n="ṚV.">10, 94, 9.</ls> {#अ\स्य म^न्दा\नो मध्व^ः#} 
@@ -47,7 +47,7 @@
 <ls>AK.2,9,108.3,4,17,105.</ls> <ls>H. 1214.</ls> <ls>H. an.</ls> <ls>MED. dh. 11.</ls> <ls>HALĀY.2,466.</ls> <ls>Verz. d. Oxf. H. 182,a,30. fg.</ls> In der alten Sprache selten sicher nachzuweisen, da Erwähnungen wie 
 <ls>ṚV. 4, 45, 4.</ls> <ls n="ṚV.">7, 32, 2</ls> (vgl. <ls>HOMER'S ILIAS 16, 641. fgg.) und 8, 24, 20</ls> ebensowohl auf {%Milch%} wie auf jede andere {%Süssigkeit%} zu beziehen sind. {#मधु^ सार\धम्#} 
 <ls>ṚV. 8, 4, 8.</ls> 
-<ls>AV. 9, 1, 17. 19.</ls> etwa auch 
+<ls>AV. 9, 1, 17.</ls> <ls n="AV. 9, 1,">19.</ls> etwa auch 
 <ls>TS. 7, 5, 10, 1.</ls> {#यथा मधु मधुकृतो निर्धयेयुः#} 
 <ls>ŚAT. BR. 1, 6, 2, 1. 2. 11, 5, 4, 18. 14, 5, 5, 1.</ls> {#चरन्वै मधु विन्दति#} 
 <ls>AIT. BR. 7, 15. 8, 5. 20.</ls> 
@@ -60,20 +60,20 @@
 <ls>M. 2, 29.</ls> {#पयो दधि घृतं मधु#} 
 <ls>107. 3, 226. 2, 177. 3, 272. fgg. 4, 39. 247. 8, 328.</ls> <ls>YĀJÑ. 1, 33.</ls> {#मधुसर्पिषी = सर्पिर्मधुनी#} <is>gaṇa</is> {#दधिपयआदि#} zu 
 <ls>P. 2, 4, 14.</ls> <is>gaṇa</is> {#राजदन्तादि#} zu 
-<ls>2, 2, 31.</ls> {#मधूनां भक्षणम्#} 
+<ls n="P.">2, 2, 31.</ls> {#मधूनां भक्षणम्#} 
 <ls>R. 1, 3, 31. 53, 2.</ls> {#मधूनि मधुकरीभिः#} (so die ed. Bomb.) {#संभृतानि नगे नगे#} 
 <ls>2, 56, 8.</ls> {#बिन्दुर्मध्वाभो रुचिरप्रभः#} 
 <ls>MBH. 12, 13474.</ls> {#°पिङ्ग#} 
-<ls>3, 17002.</ls> {#°पीतक#} 
-<ls>5, 2472.</ls> {#°पिङ्गल#} 
+<ls n="MBH.">3, 17002.</ls> {#°पीतक#} 
+<ls n="MBH.">5, 2472.</ls> {#°पिङ्गल#} 
 <ls>R. 5, 60, 14.</ls> {#°निभेक्षण#} 
 <ls>HARIV. 11951.</ls> {#°निभनयन#} 
 <ls>VARĀH. LAGH. 2, 17</ls> in <ls>Ind. St. 2, 287.</ls> {#मधु वै माध्विको लब्ध्वा प्रपातं नैव बुध्यते#} 
 <ls>MBH. 2, 2098.</ls> <ls n="MBH.">3, 14761.</ls> <ls n="MBH.">5, 2044.</ls> <ls n="MBH. 5,">2476.</ls> <ls n="MBH.">7, 1992.</ls> <ls n="MBH. 7,">5464.</ls> <ls n="MBH.">11, 38.</ls> <ls n="MBH.">12, 11524.</ls>
 [Page5-0484]
 {#°प्रपात#} 
-<ls>3100.</ls> {#यथारुह्य महावृक्षमपहृत्य ततो मधु । अप्राश्य च निधनं गच्छेत्कर्मेदं नस्तथोपमम्#} 
-<ls>286.</ls> <ls>SUŚR. 1, 184, 15.</ls> acht Arten Honig 
+<ls n="MBH. 12,">3100.</ls> {#यथारुह्य महावृक्षमपहृत्य ततो मधु । अप्राश्य च निधनं गच्छेत्कर्मेदं नस्तथोपमम्#} 
+<ls n="MBH. 12,">286.</ls> <ls>SUŚR. 1, 184, 15.</ls> acht Arten Honig 
 <ls>185, 1. 2.</ls> <ls>VĀCASP.</ls> zu <ls>H. 1214.</ls> {#°वर्ग#} 
 <ls>Verz. d. B. H. No. 941. 953. 986.</ls> <ls>Verz. d. Oxf. H. 311,b,14.</ls> berauschend: {#भक्षयन्तः सुगन्धीनि मधूनि रसवन्ति च । जग्मुः प्रहर्षं ते सर्वे बभूवुश्च मदोत्कटाः ॥#} 
 <ls>R. 5, 60, 9.</ls> — {#मधु तिष्ठति जिह्वाग्रे हृदये तु हलाहलम्#} 
@@ -111,7 +111,7 @@
 <ls>H. an.</ls> 
 <div n="1">— 3) <lex>m.</lex> 
 <div n="2"> a) N. {%des ersten (Frühlings-)Monats des Jahres%} 
-<ls>P. 4, 4, 128, <is>Vārtt</is>. 2.</ls> 
+<ls>P. 4, 4, 128</ls>, <is>Vārtt</is>. 2. 
 <ls>AK. 1, 1, 3, 15.</ls> 
 <ls>TRIK. 3, 3, 220.</ls> 
 <ls>H. 153.</ls> 
@@ -161,7 +161,7 @@
 [Page5-0485]
 {%des%} <is>Madhu</is>: = {#यादवाः#} 
 <ls>MBH. 2, 888.</ls> {#°प्रवीर#} 
-<ls>5, 40.</ls> = {#माथुराः#} 
+<ls n="MBH.">5, 40.</ls> = {#माथुराः#} 
 (Schol.) <ls n="MBH.">3, 12589.</ls> <ls>HARIV. 1996.</ls> <ls>BHĀG. P. 1, 11, 12</ls> (beherrschen <is>Dvārakā</is>). {#अपससार कुरून्मधून् (= मथुराम्#} 
 <ls>Schol.</ls>) <ls>9.</ls> Vgl. {#मधुपति, माधव#} . 
 <div n="3">— ε) eines Sohnes des <is>Bhaṭṭanārāyaṇa</is> 

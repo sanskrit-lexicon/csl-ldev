@@ -6,14 +6,14 @@
 <div n="2"> a) {%Kuhstall, Stall%}: {#त्वं गो\त्रमङ्गि^रोभ्यो ऽवृणो\रप^#} 
 <ls>ṚV. 1, 51, 3.</ls> {#उद्गो\त्राणि^ ससृजे#} 
 <ls n="ṚV.">3, 39, 4.</ls> <ls n="ṚV. 3,">43, 7.</ls> {#गो\त्रा गवा^म्#} 
-<ls>6, 65, 5. 2, 23, 18. 10, 48, 2.</ls> m. nur <ls>NAIGH. 1, 10</ls>, wo das Wort {#मेघ#} gleichgesetzt wird, und wohl auch in der Stelle: {#गो\त्रं ह^रि\श्रिय^म्#} 
+<ls n="ṚV.">6, 65, 5.</ls> <ls n="ṚV.">2, 23, 18.</ls> <ls n="ṚV.">10, 48, 2.</ls> m. nur <ls>NAIGH. 1, 10</ls>, wo das Wort {#मेघ#} gleichgesetzt wird, und wohl auch in der Stelle: {#गो\त्रं ह^रि\श्रिय^म्#} 
 <ls>VĀLAKH. 2, 10.</ls> 
 <div n="2">— b) {%Geschlecht, Familie, Abkunft; Geschlechtsname%} 
 <ls>AK. 2, 7, 1.</ls> 
 <ls>TRIK. 3, 3, 346.</ls> 
 <ls>H. 503.</ls> 
 <ls>an. 2, 412.</ls> 
-<ls>MED. r. 26.</ls> <ls>Uṇ. 4, 168,</ls> <ls>Sch.</ls> {#द्विगोत्र#} 
+<ls>MED. r. 26.</ls> <ls>Uṇ. 4, 168</ls>, <ls>Sch.</ls> {#द्विगोत्र#} 
 <ls>ŚĀṄKH. ŚR. 1, 4, 16.</ls> {#किंगोत्र#} 
 <ls>KAUŚ. 55.</ls> 
 <ls>CHĀND. UP. 4, 4, 1.</ls> {#यद्गोत्र#} ebend. {#अगोत्र#} {%keinen Stammbaum habend%} 
@@ -26,7 +26,7 @@
 <ls>ĀŚV. GṚHY. 4, 4.</ls> 
 <ls>ŚĀṄKH. GṚHY. 1, 6.</ls> {#नामगोत्राणि चाभाष्य दाराणां मन्त्रिणां तथा#} 
 <ls>MBH. 13, 548.</ls> {#गोत्रेण#} {%nach dem Geschlechtsnamen%} <is>gaṇa</is> {#प्रकृत्यादि#} zu 
-<ls>P. 2, 3, 18, <is>Vārtt</is>.</ls> {#गुरुं गोत्रेणाभिवादयते#} 
+<ls>P. 2, 3, 18</ls>, <is>Vārtt</is>. {#गुरुं गोत्रेणाभिवादयते#} 
 <ls>GOBH. 2, 3, 11.</ls> Bei <is>Pāṇini</is> heisst {#गोत्र#}, mit Bezug auf die dafür geltenden Patronymica, {%der Enkel%} (doch wohl auch der Sohn) {%und seine Nachkommen, wenn kein älterer Sprössling desselben Stammvaters am Leben ist%}; im entgegengesetzten Falle führt der Enkel u. s. w. den Namen {#युवन्#} . Das Patronymicum für den <is>Yuvan</is> wird aus dem des <is>Gotra</is> gebildet. 
 <ls>4, 1, 162. fgg.</ls> 
 <ls>93. 94. 2, 4, 63. 4, 1, 89. 2, 111. 3, 80. 126.</ls> {#गोत्र = गोत्रप्रत्यय#} {%ein zur Bildung der Patronymica dienendes Suffix%} 
@@ -37,8 +37,8 @@
 <ls>H. 260.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>Uṇ.,</ls> 
-<ls>Sch.</ls> {#गोत्रेषु स्खलितस्तदा भवति#} 
+<ls>Uṇ.</ls>, <ls>Sch.</ls>
+{#गोत्रेषु स्खलितस्तदा भवति#} 
 <ls>ŚĀK. 132.</ls> {#गोत्रविस्खलितमूचुः#} 
 <ls>RAGH. 19, 24.</ls> {#गोत्रस्खलितेषु#} 
 <ls>KUMĀRAS. 4, 8.</ls> 
@@ -78,11 +78,11 @@
 <ls>H. 936.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
-<ls>Uṇ.,</ls> 
-<ls>Sch.</ls> Vgl. {#गात्रा#} . 
+<ls>Uṇ.</ls>, <ls>Sch.</ls>
+Vgl. {#गात्रा#} . 
 <div n="1">— 4) vor {#गोत्र#} verkürzt im comp. ein mehr als zweisilbiges fem. auf {#ई#} seinen Endvocal 
 <ls>P. 6, 3, 43. fgg.</ls> Solche compp. sollen nach dem 
 <ls>Sch.</ls> einen {%Tadel%} ausdrücken: {#ब्राह्मणिगोत्रा#} viell. so v. a. {%eine Brahmanin nur der Abkunft%} oder {%dem Namen nach.%} Ein tonloses {#गोत्रम्#} nach einem in Folge dessen den Ton bewahrenden Verbum finitum drückt gleichfalls einen {%Tadel%} oder eine {%beständige Wiederholung%} aus, 
-<ls>P. 8, 1, 27. 57.</ls> 
+<ls>P. 8, 1, 27.</ls> <ls n="P. 8, 1,">57.</ls> 
 <div n="v">— Vgl. {#विश्वगोत्र, सगोत्र#} und {#कुल#} .
 <LEND>

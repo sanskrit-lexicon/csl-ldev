@@ -11,9 +11,9 @@
 <div n="1">— 3) {%Sturz, Fall%} 
 <ls>Spr. 1921.</ls> 
 <ls>MBH. 1, 3652</ls> ({#मा प्रपत प्रपातम्#} 
-<ls>3653</ls>; hier ist {#प्रपातम्#} wohl absolut.). {#वृक्ष°#} 
-<ls>11, 146.</ls> {#विषमग्निं#} (so ist zu lesen) {#प्रपातं च पर्वताग्रादहं वृणे#} 
-<ls>8, 248.</ls> {#गङ्गा°#} 
+<ls n="MBH. 1,">3653</ls>; hier ist {#प्रपातम्#} wohl absolut.). {#वृक्ष°#} 
+<ls n="MBH.">11, 146.</ls> {#विषमग्निं#} (so ist zu lesen) {#प्रपातं च पर्वताग्रादहं वृणे#} 
+<ls n="MBH.">8, 248.</ls> {#गङ्गा°#} 
 <ls>HARIV. 5330.</ls> 
 <ls>RAGH. 2, 26.</ls> 
 <ls>KUMĀRAS. 6, 57.</ls> {#जल°#} 
@@ -40,8 +40,8 @@
 <ls>HARIV. 6956</ls> {#प्रपाताम्बुभिः#} 
 <ls>RĀJA-TAR. 2, 167.</ls> {#प्रपातस्तु न तर्कितः#} 
 <ls>MBH. 1, 3946.</ls> <ls n="MBH.">2, 2098. fg.</ls> <ls n="MBH.">3, 11808.</ls> {#मधु प्रपश्यन्ति न तु प्रपातम्#} 
-<ls>14761. 5, 2044. 7, 1992. 5464. 11, 38. 12, 11524.</ls> {#मधु°#} {%der Abgrund beim Honigsuchen%} 
-<ls>3100.</ls> {%ein (steil abfallendes) Ufer%} 
+<ls n="MBH. 3,">14761.</ls> <ls n="MBH.">5, 2044.</ls> <ls n="MBH.">7, 1992.</ls> <ls n="MBH. 7,">5464.</ls> <ls n="MBH.">11, 38.</ls> <ls n="MBH.">12, 11524.</ls> {#मधु°#} {%der Abgrund beim Honigsuchen%} 
+<ls n="MBH. 3,">3100.</ls> {%ein (steil abfallendes) Ufer%} 
 <ls>H. 1077.</ls> 
 <ls>HALĀY. 3, 45.</ls> {%Wasserfall%} 
 <ls>TRIK.</ls> <ls>MED.</ls> Vgl. {#गिरि°#} .

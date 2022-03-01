@@ -9,10 +9,10 @@
 <ls>HARIV. 4302</ls>; {#ददंश; दङ्क्ष्यति#} 
 (<ls>BHAṬṬ. 16, 19.</ls> {#दशिष्यामस्#} 
 <ls>MBH. 1, 1605</ls>), {#दंष्टा#} <is>Kār</is>. 5 aus 
-<ls>SIDDH. K.</ls> zu <ls>P.7,2,10</ls>; {#अदाङ्क्षीत्#} 
+<ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10</ls>; {#अदाङ्क्षीत्#} 
 <ls>VOP. 8, 102.</ls> {#अदाङ्क्षुस्#} 
 <ls>BHAṬṬ. 15, 4</ls>; {#दंष्ट्वा; दष्ट꣡#}; {%beissen%} 
-<ls>DHĀTUP.</ls> <ls>AV. 5, 14, 10. 7, 56, 3.</ls> {#दन्तैर्दंष्ट्वा#} 
+<ls>DHĀTUP.</ls> <ls>AV. 5, 14, 10.</ls> <ls n="AV.">7, 56, 3.</ls> {#दन्तैर्दंष्ट्वा#} 
 <ls>PAÑCAV. BR. 8, 4.</ls> {#मा द\त्वते\ दश^ते\ मादते^ न\ः परा^ दाः#} 
 <ls>ṚV. 1, 189, 5.</ls> {#रे\णुं रेरि^हत्कि\रण^ं दद\श्वान्#} 
 <ls n="ṚV.">4, 38, 6.</ls> {#दश^#} (nach 
@@ -48,7 +48,7 @@
 <ls>MBH. 1, 2243.</ls> <ls n="MBH.">3, 544.</ls> 
 <ls>SUŚR. 2, 87, 8. 90, 9.</ls> Nach <ls>DHĀTUP. 33, 2</ls> soll {#दंशयते#} auch die Bed. des simpl. {%beissen%} und nach 
 <ls>VOP.</ls> auch die von {%sehen%} haben. — intens. {#(भावगर्हायाम्) दन्दश्यते#} und {#दन्दशीति#} 
-<ls>P. 3, 1, 24. 7, 4, 86.</ls> 
+<ls>P. 3, 1, 24.</ls> <ls n="P.">7, 4, 86.</ls> 
 <ls>VOP. 20, 19.</ls> {#दन्दष्टि, दन्दंष्टि#} 
 <ls>VOP.</ls>; vgl. {#दन्दशूक#} . — caus. vom intens. {%gehörig beissen lassen%}: {#दन्दशयित्वा#} 
 <ls>DAŚAK. 11, 14.</ls>
@@ -64,13 +64,13 @@
 
 <div n="p">— {#उप#} . absol. in Verbindung mit einem instr. 
 <ls>P. 3, 4, 47.</ls> {%als Zukost, Reizmittel hinzubeissen%}: {#मूलकेनोपदंशम् मूलकोपदंशम्#} oder {#मूलकेनोपदश्य भुङ्क्ते#} 
-<ls>Sch. 2, 2, 21,</ls> 
-<ls>Sch.</ls> 
+<ls>Sch. 2, 2, 21</ls>, <ls>Sch.</ls> 
+
 <div n="v">— Vgl. {#उपदंश#} .
 
 <div n="p">— {#निस्#} {%zerbeissen%}: {#निर्दश्य दशनैश्चापि क्रोधात्स्वरदनच्छदम्#} 
 <ls>MBH. 6, 1798.</ls> {#निर्दशन्नधरोष्ठं च क्रुद्धः#} 
-<ls>12, 6576.</ls> {#दन्तान्निर्दशमानः#} {%die Zähne aneinanderschlagend%} 
+<ls n="MBH.">12, 6576.</ls> {#दन्तान्निर्दशमानः#} {%die Zähne aneinanderschlagend%} 
 <ls>HARIV. 4302.</ls>
 
 <div n="p">— {#परि#} {%zerbeissen%}: {#परिदष्टदच्छद#} 
@@ -81,8 +81,8 @@
 <ls>PĀR. GṚHY. 3, 10.</ls> 
 <ls>YĀJÑ. 3, 12.</ls> {#फलानि#} 
 <ls>MBH. 1, 3362.</ls> {#(भुजगः) विदश्यास्येन वल्मीकं विवेश#} 
-<ls>14, 1715.</ls> {#आशीविषविदष्टानां सर्पाणाम्#} 
-<ls>7, 3627.</ls> <ls>BHĀG. P. 5, 12, 2.</ls> <ls>SUŚR. 1, 182, 8.</ls> {#उन्नामितविदष्टजिह्वाग्र#} 
+<ls n="MBH.">14, 1715.</ls> {#आशीविषविदष्टानां सर्पाणाम्#} 
+<ls n="MBH.">7, 3627.</ls> <ls>BHĀG. P. 5, 12, 2.</ls> <ls>SUŚR. 1, 182, 8.</ls> {#उन्नामितविदष्टजिह्वाग्र#} 
 <ls>359, 10.</ls> {#ओष्टौ च विदशन्निव#} 
 <ls>MBH. 5, 2750.</ls> 
 <div n="1">— 2) {%auseinanderquetschen%}:

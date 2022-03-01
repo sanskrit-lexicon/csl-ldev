@@ -2,8 +2,8 @@
 {#ऊन꣡#}¦ 
 <ls>Uṇ. 3, 2.</ls> <lex>adj.</lex> {%woran Etwas fehlt, unter dem Maasse bleibend, unzureichend, zu klein, zu wenig, nachstehend%} (Gegens. {#पूर्ण, अतिरिक्त, अधिक#}) 
 <ls>AK. 3, 4, 18, 130.</ls> {#दू\रे पू\र्णेन^ वसति दू\र ऊ\नेन^ हीयते#} 
-<ls>AV. 10, 8, 15. 44.</ls> {#यत्त^ ऊ\नं तत्त\ आ पू^रयाति#} 
-<ls>12, 1, 61.</ls> <ls>ŚAT. BR. 11, 5, 3, 7.</ls> {#यदिहोनकर्म यदत्यरीरिचाम#} 
+<ls>AV. 10, 8, 15.</ls> <ls n="AV. 10, 8,">44.</ls> {#यत्त^ ऊ\नं तत्त\ आ पू^रयाति#} 
+<ls n="AV.">12, 1, 61.</ls> <ls>ŚAT. BR. 11, 5, 3, 7.</ls> {#यदिहोनकर्म यदत्यरीरिचाम#} 
 <ls>AIT. BR. 5, 24.</ls> 
 <ls>ŚAT. BR. 11, 2, 3, 7.</ls> {#ऊनं मे पूर्यतां पूर्णं मे मा विगात्#} 
 <ls>PĀR. GṚHY. 2, 16. 4.</ls> 
@@ -17,7 +17,7 @@
 <ls>R. 1, 22, 2. 3, 42, 23.</ls> {#ऊनं न सत्त्वेष्वधिको वबाधे#} 
 <ls>RAGH. 2, 14.</ls> {#ऊनानां स्वमातृतः#} 
 <ls>M. 9, 123.</ls> Die Ergänzung im instr. oder im comp. (oxytonon) vorangehend 
-<ls>P. 2, 1, 31. 6, 2, 153.</ls> {#द्वाभ्यामूनम्#} 
+<ls>P. 2, 1, 31.</ls> <ls n="P.">6, 2, 153.</ls> {#द्वाभ्यामूनम्#} 
 <ls>ŚAT. BR. 11, 1, 2, 9.</ls> Citat bei 
 <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 2.</ls> {#पञ्चाशदून#} 
 <ls>KĀTY. ŚR. 17, 7, 21.</ls> {#अल्पोन#} 
@@ -30,8 +30,8 @@
 <ls>R. 1, 46, 12. 5, 1, 56.</ls> 
 <ls>MBH. 2, 762.</ls> 
 <ls>N. (BOPP) 20, 11.</ls> {#एकोनचत्वारिंश#} 
-<ls>MBH. I</ls>, <is>Adhy</is>. 39 in der Unterschr. Gewöhnlich mit Weglassung von {#एक#}, z. B. {#ऊनविंश#} {%der 19te%}, {#ऊनत्रिशं#} {%der 29ste%} 
-<ls>MBH. III</ls>, <is>Adhy</is>. 
+<ls>MBH. I, <is>Adhy</is>. 39</ls> in der Unterschr. Gewöhnlich mit Weglassung von {#एक#}, z. B. {#ऊनविंश#} {%der 19te%}, {#ऊनत्रिशं#} {%der 29ste%} 
+<ls>MBH. III, <is>Adhy</is>.</ls> 
 <ls>19. 29</ls> in der Unterschr. Mit einem abl. {%weniger, geringer als%}: {#कान्तोदन्तः सुहृदुपनतः संगमात्किंचिदूनः#} 
 <ls>MEGH. 98.</ls> 
 <div n="v">— Vgl. {#अनून, न्यून#} .

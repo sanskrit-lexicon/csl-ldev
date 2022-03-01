@@ -4,7 +4,7 @@
 <ls>P. 4, 3, 8.</ls> 
 <ls>VOP. 7, 111.</ls> am Anf. eines comp. 
 <ls>P. 2, 1, 58.</ls> <lex>f.</lex> {#आ#} <is>gaṇa</is> {#अजादि#} zu 
-<ls>4, 1, 4.</ls> 
+<ls n="P.">4, 1, 4.</ls> 
 <div n="2"> a) {%medius%} (in der Bed. wie {#मध्य#} 2, {%a.)%}: {#मध्यमे गुल्मे#} {%in der (die) Mitte des Soldatentrupps%} 
 <ls>R. 6, 9, 18. 12, 20.</ls> {#इलावृत#} {%die Mitte von%} 
 <ls>II.</ls> <ls>MĀRK. P. 60, 7.</ls> {#°कक्ष्या#} 
@@ -36,7 +36,7 @@
 <ls>MBH. 5, 5952.</ls> {#भ्रातर्#} 
 <ls>M. 9, 112.</ls> {#ज्येष्ठ, अनुज, मध्यम, कनीयंस्#} 
 <ls>MBH. 1, 8450.</ls> {#पाण्डव#} 
-<ls>5, 2038.</ls> {#पूर्व, म°, उत्तर#} 
+<ls n="MBH.">5, 2038.</ls> {#पूर्व, म°, उत्तर#} 
 <ls>Verz. d. Oxf. H. 315,a, No. 748.</ls> <ls>LA. (II) 88,13.</ls> {#प्रथम, म°, अन्त्य#} 
 <ls>Verz. d. B. H. 100, 14.</ls> {#देश#} (vgl. {#मध्यदेश)#} 
 <ls>VARĀH. BṚH. S. 18, 4.</ls> {%zum Meridian gehörig%} 
@@ -105,7 +105,7 @@
 <ls>DHAR.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— c) {#मध्यम#} oder vollständig {#°पुरुष#} {%die 2te Person%} 
 <ls>NIR. 7, 2.</ls> 
-<ls>P. 1, 4, 101. 105.</ls> 
+<ls>P. 1, 4, 101.</ls> <ls n="P. 1, 4,">105.</ls> 
 <div n="2">— d) {%Gouverneur einer Provinz%} 
 <ls>H. 690.</ls> 
 <ls>HALĀY. 2, 267.</ls> 

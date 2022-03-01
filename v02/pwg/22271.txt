@@ -9,7 +9,7 @@
 <ls>ŚAT. BR. 8, 1, 4, 10.</ls> {#गान्धारकन्या#} 
 <ls>HARIV. 8395.</ls> {#गान्धारी#} <lex>f.</lex> {%Fürstentochter der%} <is>Gāndhāri</is> (so wird insbes. die Gemahlin <is>Dhṛtarāṣṭra's</is> genannt) 
 <ls>MBH. 1, 3790.</ls> <ls n="MBH.">2, 1725.</ls> <ls n="MBH. 2,">2018.</ls> <ls n="MBH.">3, 324.</ls> <ls n="MBH.">6, 1993. fg.</ls> 
-<ls>14, 1509. fgg.</ls> 
+<ls n="MBH.">14, 1509. fgg.</ls> 
 <ls>DRAUP. 8, 43.</ls> 
 <ls>HARIV. 1827.</ls> <ls n="HARIV.">1906.</ls> <ls n="HARIV.">2040.</ls> <ls n="HARIV.">8983.</ls> <ls n="HARIV.">9148.</ls> 
 <ls>BHĀG. P. 1, 8, 3. 9, 22, 25.</ls> {#गौरी विद्याथ गान्धारी#} (N. pr. einer <is>Vidyādevī</is> 
@@ -22,8 +22,8 @@
 <ls>MBH. 6, 361.</ls> <ls n="MBH.">12, 7560.</ls> 
 <ls>R. 4, 44, 13.</ls> 
 <ls>VARĀH. BṚH. S. 4, 23. 77. 78. 9, 21. 10, 7. 14, 28. 16, 26. 17, 19. 69. 26.</ls> {#कषायपाणा गान्धाराः#} 
-<ls>P. 8, 4, 9,</ls> 
-<ls>Sch.</ls> {#उपसिन्धुगान्धाराः#} 
+<ls>P. 8, 4, 9</ls>, <ls>Sch.</ls>
+{#उपसिन्धुगान्धाराः#} 
 <ls>RĀJA-TAR. 1, 66.</ls> {#गान्धारब्राह्मणाः#} 
 <ls>307.</ls> {#गान्धारविषय#} 
 <ls>MBH. 14, 2484.</ls> 

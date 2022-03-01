@@ -2,15 +2,15 @@
 {#उद꣡र#}¦ <lex>n.</lex> 
 <ls>Uṇ. 5, 19</ls> ({#उद꣡र#} und {#उदर꣡#}). 
 <ls>SIDDH. K.249,b,1.</ls> ein <lex>adj.</lex> comp. auf {#उदर#} hat den Acut auf der ersten Silbe 
-<ls>P. 6, 2, 107. 108</ls> und im <lex>f.</lex> {#आ#} und {#ई#} 
-<ls>4, 1, 55.</ls> 
+<ls>P. 6, 2, 107.</ls> <ls n="P. 6, 2,">108</ls> und im <lex>f.</lex> {#आ#} und {#ई#} 
+<ls n="P.">4, 1, 55.</ls> 
 <div n="1"> 1) {%der hohle Leib, Bauch%}; metaphorisch für {%Höhlung, Inneres%} 
 <ls>AK. 2, 6, 2, 28.</ls> 
 <ls>H. 604</ls> (nach Einigen <lex>m.</lex> <lex>f.</lex> <lex>n.</lex> 
 <ls>Sch.</ls>). <ls n="H.">an. 3, 524.</ls> <ls>MED. r. 117.</ls> {#यदूव^ध्यमु\दर^स्याप\वाति^#} 
 <ls>ṚV. 1, 162, 10.</ls> {#सरो\ न प्रा^स्यु\दर^म्#} 
 <ls n="ṚV.">8, 1, 23.</ls> <ls n="ṚV. 8,">2, 1.</ls> <ls n="ṚV. 8,">67, 7.</ls> <ls n="ṚV. 8,">80, 5.</ls> {#यस्या^ उ\दर\माम^यत्#} 
-<ls n="ṚV.">10, 86, 23.</ls> <ls n="ṚV.">1, 25, 15.</ls> <ls n="ṚV. 1,">30, 3.</ls> <ls n="ṚV. 1,">40, 9.</ls> <ls>AV. 4, 16, 7. 34, 1. 10, 7, 32. 10, 22.</ls> {#उदरे हि वा अन्नमत्ति#} 
+<ls n="ṚV.">10, 86, 23.</ls> <ls n="ṚV.">1, 25, 15.</ls> <ls n="ṚV. 1,">30, 3.</ls> <ls n="ṚV. 1,">40, 9.</ls> <ls>AV. 4, 16, 7.</ls> <ls n="AV. 4,">34, 1.</ls> <ls n="AV.">10, 7, 32.</ls> <ls n="AV. 10,">10, 22.</ls> {#उदरे हि वा अन्नमत्ति#} 
 <ls>ŚAT. BR. 8, 6, 2, 13. 1, 6, 3, 17. 7, 5, 1, 38.</ls> {#उदरतो निरूहन्ति#} 
 <ls>4, 5, 2, 3.</ls> {#उदरसर्पि꣡न्#} {%auf dem Bauche kriechend%} 
 <ls>7, 1, 1, 2.</ls> {#वाग्बाहूदरसंयतः#} 
@@ -23,8 +23,8 @@
 <ls>AK. 3, 1, 21.</ls> {#दग्धोदर#} {%ein hungriger Magen%} 
 <ls>HIT. I, 62.</ls> {#अनूदर#} (die Länge durch das Versmaass gesichert) {%ohne Bauch%} 
 <ls>MBH. 14, 1305.</ls> {#कुण्डोदर#} ({#क्षेपे#}) 
-<ls>P. 6, 2, 108,</ls> 
-<ls>Sch.</ls> {#पाटितोदरा#} 
+<ls>P. 6, 2, 108</ls>, <ls>Sch.</ls>
+{#पाटितोदरा#} 
 <ls>KATHĀS. 26, 223.</ls> {#महोदरी#} 
 <ls>R. 3, 23, 15.</ls> {#कृशोदरी#} 
 <ls>5, 13, 48.</ls> <ls>VIKR. 154.</ls> <ls>KATHĀS. 26, 157.</ls> <ls>ŚRUT. 31.</ls> {#निर्नतोदरी#} 

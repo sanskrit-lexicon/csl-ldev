@@ -3,29 +3,29 @@
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%lebenskräftig, gesund, dem ein langes Leben bevorsteht%} 
 <ls>AK. 3, 1, 6.</ls> 
-<ls>H. 479,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 479</ls>, <ls>Sch.</ls> 
+
 <ls>MED. t. 186.</ls> {#आयु^ष्मां ज\रद^ष्टि\र्यथास^म्#} 
 <ls>VS. 34, 52. 35, 17.</ls> {#आयु^ष्मतीं प्र\जाम्#} 
-<ls>AV. 3, 9, 3. 6, 47, 1. 2. 14, 1, 45. 19, 27, 8.</ls> 
+<ls>AV. 3, 9, 3.</ls> <ls n="AV.">6, 47, 1.</ls> <ls n="AV. 6, 47,">2.</ls> <ls n="AV.">14, 1, 45.</ls> <ls n="AV.">19, 27, 8.</ls> 
 <ls>SUŚR. 1, 123, 19.</ls> {#आयुष्मन्तं सुतं सूते#} 
 <ls>M. 3, 263.</ls> 
 <ls>MBH. 1, 2472.</ls> 
 <ls>N. 16, 25.</ls> von <is>Agni</is>, {%dem Leben besitzenden%}, und von andern Göttern 
 <ls>TS. 2, 2, 3, 2.</ls> 
 <ls>ŚAT. BR. 13, 8, 4, 8. 9.</ls> 
-<ls>AV. 3, 31, 8. 8, 2, 13.</ls> {#आयुष्मान्भव#} oder {#एधि#} als Gruss 
+<ls>AV. 3, 31, 8.</ls> <ls n="AV.">8, 2, 13.</ls> {#आयुष्मान्भव#} oder {#एधि#} als Gruss 
 <ls>M. 2, 125.</ls> 
 <ls>R. 4, 22, 30.</ls> 
-<ls>P. 8, 2, 83,</ls> 
-<ls>Sch.</ls> in der Anrede 
+<ls>P. 8, 2, 83</ls>, <ls>Sch.</ls>
+in der Anrede 
 <ls>ŚAT. BR. 12, 2, 1, 9.</ls> mit {#आयुष्मन्#} redet der Wagenlenker den Gebieter an 
 <ls>BHARATA</ls> zu <ls>ŚĀK. 5, 2.</ls> <ls>MBH. 3, 725.</ls> <ls n="MBH. 3,">752.</ls> <ls>N. (BOPP) 15, 12.</ls> <ls>ŚĀK. 5, 2. 95, 1. 96, 2. 97, 4. 15.</ls> Auch in anderer Verbindung wird dieser einen Wunsch {%für ein langes Leben%} enthaltende Ausdruck gebraucht: {#आयुष्मानास्तामयम्#} 
 <ls>VIKR. 86, 14.</ls> {#इदमलंकारजातमलंक्रियतामायुष्मती#} 
 <ls>ŚĀK. 50, 2, v. l.</ls> (für {#अत्रभवती#}). 
 <ls>MEGH. 99.</ls> 
 <ls>DHŪRTAS. 76, 12.</ls> sehr beliebt ist der Ausdruck bei den Buddhisten. {#आयुष्मन्त्#} in Verbindung mit einem adv. pronom. <is>gaṇa</is> {#भवदादि#} zu 
-<ls>P. 5, 3, 14, <is>Vārtt</is>.</ls> 
+<ls>P. 5, 3, 14</ls>, <is>Vārtt</is>. 
 <div n="2">— b) {%dauernd%}: {#क्ष\त्रम्#} 
 <ls>AV. 6, 98, 2.</ls> 
 <div n="2">— c) {%alt%}: {#आयुष्मतां कथाः कीर्तयन्तः#} 

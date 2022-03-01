@@ -1,11 +1,11 @@
 <L>92802<pc>6-1153<k1>विराज्<k2>विरा꣡ज्<h>1
 1. {#विरा꣡ज्#}¦ (1. {#राज्#} mit {#वि#}) 
-<ls>P. 3, 2, 61, Schol.</ls> 
+<ls>P. 3, 2, 61</ls>, Schol. 
 <div n="1"> 1) <lex>adj.</lex> {%herrschend, an der Spitze befindlich; ausgezeichnet, prangend%}; <lex>m.</lex> <lex>f.</lex> {%Herrscher, Herrscherin%} u. s. w.: {#वि\राज\ं गोप^ति\ं गवा^म्#} 
 <ls>ṚV. 10, 166, 1.</ls> {#मम^ पु\त्राः श^त्रु\हणो ऽथो^ मे दुहि\ता वि\राट्#} 
 <ls n="ṚV. 10,">159, 3.</ls> {#सोमो^ वि\राज\मनु^ राजति#} 
 <ls n="ṚV.">9, 96, 18.</ls> {#विराट् सम्राट्#} 
-<ls n="ṚV.">1, 188, 5.</ls> <ls>AV. 12, 3, 11. 14, 2, 15.</ls> <ls>VS. 20, 5. 55.</ls> {#ज्योतिस्#} 
+<ls n="ṚV.">1, 188, 5.</ls> <ls>AV. 12, 3, 11.</ls> <ls n="AV.">14, 2, 15.</ls> <ls>VS. 20, 5. 55.</ls> {#ज्योतिस्#} 
 <ls>38, 27.</ls> <ls>AIT. BR. 8, 14.</ls> eine der Wesenheiten <is>Agni's</is> 
 <ls>TBR. 1, 1, 7, 2.</ls> 
 <ls>ŚAT. BR. 10, 4, 3, 11.</ls> Beiw. der <is>Sarasvatī</is> 
@@ -23,8 +23,8 @@
 <div n="1">— 3) <lex>f.</lex> und später <lex>m.</lex> N. eines der Speculation angehörigen göttlichen Wesens: Tochter (Sohn) des <is>Puruṣa</is> (auch <is>Puruṣa</is> selbst) oder <is>Prajāpati</is>, oder dessen Gattin; als Kuh bezeichnet, die durch ihre Schritte die Opferfeuer vertheilt u. s. w. In der Folge Tochter (Sohn) <is>Brahman's</is>, Mutter (Vater) des <is>Manu</is> <is>Svāyaṃbhuva</is> oder des <is>Brahman</is> selbst. In den 
 <ls>BRĀHMAṆA</ls> zu phantastischen Allegorien gebraucht, unter Vermengung aller Bedeutungen des Wortes. 
 <ls>ṚV. 10, 90, 5.</ls> 
-<ls>AV. 8, 5, 10. 11. 9, 1. 10, 1.</ls> Die Sonne heisst {#व\त्सो वि\राज^ः#} 
-<ls>13, 1, 31.</ls> <ls>TBR. 1, 2, 1, 27.</ls> <ls>ŚAT. BR. 14, 6, 11, 3.</ls> <ls>KĀṬH. 36, 2.</ls> {#गां मा हि^ंसी\रदि^तिं वि\राज^म्#} 
+<ls>AV. 8, 5, 10.</ls> <ls n="AV. 8, 5,">11.</ls> <ls n="AV. 8,">9, 1.</ls> <ls n="AV. 8,">10, 1.</ls> Die Sonne heisst {#व\त्सो वि\राज^ः#} 
+<ls n="AV.">13, 1, 31.</ls> <ls>TBR. 1, 2, 1, 27.</ls> <ls>ŚAT. BR. 14, 6, 11, 3.</ls> <ls>KĀṬH. 36, 2.</ls> {#गां मा हि^ंसी\रदि^तिं वि\राज^म्#} 
 <ls>VS. 13, 43</ls>; vgl. <ls>17, 3.</ls> {#विराजो दोहो ऽसि#} 
 <ls>ĀŚV. GṚHY. 1, 24, 20. fgg.</ls> 
 <ls>ŚAT. BR. 1, 5, 2, 20.</ls> <is>Vāc</is> <is>Virāj</is>, Tochter des <is>Kāma</is>, 

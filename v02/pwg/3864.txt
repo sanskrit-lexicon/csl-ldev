@@ -6,7 +6,7 @@
 <ls>MED. t. 230.</ls> {#जेता^र\मप^राजितम्#} 
 <ls>ṚV. 5, 25, 6.</ls> <ls n="ṚV.">1, 11, 2.</ls> <ls n="ṚV.">3, 12, 4.</ls> <ls n="ṚV.">8, 38, 2.</ls> <ls n="ṚV.">10, 48, 11.</ls> 
 <ls>VS. 28, 2.</ls> {#अ\यं लो\कः प्रिय^तमो दे\वाना\मप^राजितः#} 
-<ls>AV. 5, 30, 17. 8, 5, 22. 10, 2, 33. 4, 15.</ls> {#°ता सेना#} 
+<ls>AV. 5, 30, 17.</ls> <ls n="AV.">8, 5, 22.</ls> <ls n="AV.">10, 2, 33.</ls> <ls n="AV. 10,">4, 15.</ls> {#°ता सेना#} 
 <ls>ŚAT. BR. 14, 5, 1, 6.</ls> = <ls>BṚH. ĀR. UP. 2, 1, 6.</ls> {#°ता पूर्ब्रह्मणः#} 
 <ls>CHĀND. UP. 8, 5, 3.</ls> {#अपराजितमायतनम्#} (des <is>Brahman</is>) 
 <ls>KAUṢ. UP.</ls> in <ls>Ind. St. I, 397. 401.</ls> <ls>HIḌ. 2, 17.</ls> {#संयुगेष्वपराजितः#} 
@@ -27,8 +27,8 @@
 <ls>HARIV. 166.</ls> <ls n="HARIV.">11532.</ls> <ls n="HARIV.">14169.</ls> 
 <ls>VP. 121.</ls> 
 <div n="2">— e) eine Klasse von Göttern, die eine Unterabtheilung der <is>Anuttara</is> bilden, 
-<ls>H. 94,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 94</ls>, <ls>Sch.</ls> 
+
 <div n="2">— f) N. pr. eines Weisen 
 <ls>MED.</ls> (es ist wohl {#ईशाजर्ष्यन्तरे#} zu lesen). 
 <div n="1">— 3) <lex>f.</lex> 
@@ -40,7 +40,7 @@
 <ls>AK. 2, 4, 3, 22.</ls> 
 <ls>H. 1156.</ls> 
 <ls>an. 5, 18.</ls> 
-<ls>MED.</ls> <ls>AINSLIE,</ls> <ls>Mat. ind. II, 139.</ls> 
+<ls>MED.</ls> <ls>AINSLIE</ls>, <ls>Mat. ind. II, 139.</ls> 
 <div n="3">— β) {%Marsilea quadrifolia Lin.%}, ein Wasserfarn, 
 <ls>AK. 2, 4, 5, 15.</ls> 
 <div n="3">— γ) {%Sesbania aegyptiaca Pers.%}, ein kleiner Baum, 

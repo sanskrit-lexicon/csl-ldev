@@ -7,7 +7,7 @@
 <ls>M. 10, 27.</ls> {#सौवीरवीराः प्रवरा युवानः#} 
 <ls>DRAUP. 2, 13.</ls> {#वंश#} 
 <ls>MBH. 1, 868.</ls> <ls n="MBH. 1,">8199.</ls> <ls n="MBH.">2, 78.</ls> <ls n="MBH.">4, 1825.</ls> {#कन्यां प्रवररूपाम्#} 
-<ls>5, 7402. 7, 1323. 13, 1117.</ls> <ls>HARIV. 6534.</ls> {#देशे प्रवरकल्याणे#} 
+<ls n="MBH.">5, 7402.</ls> <ls n="MBH.">7, 1323.</ls> <ls n="MBH.">13, 1117.</ls> <ls>HARIV. 6534.</ls> {#देशे प्रवरकल्याणे#} 
 <ls n="HARIV.">8048.</ls> <ls n="HARIV.">8186.</ls> <ls n="HARIV.">8977.</ls> <ls n="HARIV.">14063.</ls> <ls>R. GORR. 1, 44, 18. 2, 103, 12 (94, 12</ls> <ls>SCHL.).</ls> <ls>SUŚR. 1, 185, 7.</ls> <ls>MṚCCH. 43, 17.</ls> <ls>RĀJA-TAR. 4, 311. 640.</ls> <ls>KATHĀS. 21, 38.</ls> <ls>BHĀG. P. 9, 17, 3.</ls> <ls>VARĀH. BṚH. S. 5, 37. 73.</ls> {#शेषाः प्रवरसमन्यूनपरिमाणाः#} {%grösser, gleich und kleiner%} 
 <ls n="VARĀH. BṚH. S.">58, 30.</ls> {#ततः सचित्ताः प्रवराः#} {%vorzüglicher als%} 
 <ls>BHĀG. P. 3, 29, 28.</ls> {#सोमः सप्रवरः#} {%mit den Vornehmsten%} (seines Gefolges) 
@@ -24,8 +24,8 @@
 <ls>HARIV.</ls> <ls n="HARIV.">12435.</ls> <ls n="HARIV.">14228.</ls> <ls>R. 1, 44, 50. 2, 31, 37.</ls> <ls>SUŚR. 1, 195, 19.</ls> <ls>BHĀG. P. 3, 33, 32.</ls> <ls>GHAṬ. 16.</ls> {#शङ्ख°#} {%die beste der Muscheln%} 
 <ls>ARJ. 5, 23.</ls> 
 <ls>MBH. 5, 7109.</ls> {#आश्रम°#} 
-<ls>1, 2861. 2870.</ls> {#विप्र°#} 
-<ls>13, 2038. 2833.</ls> <ls>M. 3, 167. 9, 67.</ls> <ls>HARIV. 6193.</ls> <ls n="HARIV.">6418.</ls> <ls>R. 1, 10, 1, 44, 40. 2, 114, 11.</ls> <ls>BHĀG. P. 5, 7, 9. 24, 6.</ls> <ls>MĀRK. P. 61, 5.</ls> {#त्रैलोक्यप्रवराः स्त्रियः#} 
+<ls n="MBH.">1, 2861.</ls> <ls n="MBH. 1,">2870.</ls> {#विप्र°#} 
+<ls n="MBH.">13, 2038.</ls> <ls n="MBH. 13,">2833.</ls> <ls>M. 3, 167. 9, 67.</ls> <ls>HARIV. 6193.</ls> <ls n="HARIV.">6418.</ls> <ls>R. 1, 10, 1, 44, 40. 2, 114, 11.</ls> <ls>BHĀG. P. 5, 7, 9. 24, 6.</ls> <ls>MĀRK. P. 61, 5.</ls> {#त्रैलोक्यप्रवराः स्त्रियः#} 
 <ls>R. 5, 22, 32.</ls> {#सा दीप्तशस्त्रप्रवरा दैत्यानां रुरुचे चमूः#} {%ausgezeichnet durch%} 
 <ls>HARIV. 2659.</ls> {#पुत्र°#} so v. a. {%der älteste Sohn%} 
 <ls>MBH. 13, 663.</ls> 

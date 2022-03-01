@@ -11,10 +11,10 @@
 <ls>ŚĀK. 139.</ls> 
 <ls>BHĀG. P. 5, 26, 7.</ls> 
 <ls>GĪT. 2, 10.</ls> 
-<ls>P. 1, 3, 67,</ls> 
-<ls>Sch.</ls> {#गणयस्व#} 
+<ls>P. 1, 3, 67</ls>, <ls>Sch.</ls>
+{#गणयस्व#} 
 <ls>MBH. 3, 2829. fg.</ls> {#गणयित्वा#} 
-<ls>2831.</ls> <ls>VET. 2, 19.</ls> {#तथा गणयितुं शक्या गययज्ञे न दक्षिणाः#} 
+<ls n="MBH. 3,">2831.</ls> <ls>VET. 2, 19.</ls> {#तथा गणयितुं शक्या गययज्ञे न दक्षिणाः#} 
 <ls>MBH. 3, 8539.</ls> {#पृथग्गणयितुम्#} {%besonders aufzählen%} 
 <ls>MADHUS.</ls> in <ls>Ind. St. 1, 13.</ls> {#वनवासाय रामस्य पञ्चरात्रो ऽद्य गण्यते#} 
 <ls>R. 2, 62, 17.</ls> {%berechnen%} so v. a. {%im Werthe gleich halten für%} (instr.): {#सो ऽहं न गणयाम्येनांस्तृणेनापि#} 
@@ -22,7 +22,7 @@
 <div n="2"> a) <lex>adj.</lex> {%zusammengezählt, berechnet, angeschlagen auf%} 
 <ls>AK. 3, 2, 14.</ls> {#तथा च गणितः कालः श्वोभूते स भविष्यति#} 
 <ls>MBH. 3, 2768.</ls> {#शतेन निष्कं गणितं सहस्रेण च संमितम्#} 
-<ls>13, 4439.</ls> {#पञ्चाशत्कोटिगणितस्य भूगोलस्य#} 
+<ls n="MBH.">13, 4439.</ls> {#पञ्चाशत्कोटिगणितस्य भूगोलस्य#} 
 <ls>BHĀG. P. 5, 20, 38.</ls> {#तेन कठिनीमादाय गणितमुक्तं च#} (astrol.) 
 <ls>VET. 37, 8.</ls> 
 <div n="2">— b) <lex>n.</lex> 
@@ -59,15 +59,15 @@
 <ls>BHĀG. P. 5, 8, 30.</ls> 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 181, 24.</ls> Sehr häufig mit einer Neg. {%auf Jmd%} oder {%Etwas keinen Werth legen, keine Rücksicht nehmen, Etwas unbeachtet lassen%}: {#न हि त्वां गणयाम्यहम्#} 
 <ls>MBH. 1, 3290.</ls> {#देवान्न गणयन्त्येते#} 
-<ls>3, 1894.</ls> <ls>R. 3, 28, 3.</ls> <ls>ŚĀNTIŚ. 1, 10.</ls> <ls>VID. 61.</ls> {#पितामहवरोत्सिक्तो ऽगणयन्न हि किं च न#} 
+<ls n="MBH.">3, 1894.</ls> <ls>R. 3, 28, 3.</ls> <ls>ŚĀNTIŚ. 1, 10.</ls> <ls>VID. 61.</ls> {#पितामहवरोत्सिक्तो ऽगणयन्न हि किं च न#} 
 <ls>R. 4, 10, 4.</ls> {#मृत्युं न गणयन्ति च#} 
 <ls>6, 105, 6.</ls> <ls>SUŚR. 1, 109, 1.</ls> <ls>MṚCCH. 75, 7.</ls> <ls>BHARTṚ. 2, 9. 79.</ls> <ls>ŚĀK. 94. 160.</ls> <ls>PAÑCAT. I, 443.</ls> <ls>HIT. II, 135.</ls> <ls>SĀH. D. 18, 13. 34, 22.</ls> <ls>BHAṬṬ. 2, 53. 15, 5. 45.</ls> {#प्रणयमगणयित्वा मम#} 
 <ls>VIKR. 90.</ls> {#न गणये तत्#} 
 <ls>BHĀG. P. 4, 7, 29.</ls> {#अगणय्य तत्#} 
 <ls>15.</ls> {#हेलनं न गणय्य नः#} 
 <ls>3, 24, 29.</ls> — caus. {#गणयति गणः स्वयमेव#} {%die Schaar zählt sich selbst%} 
-<ls>P. 1, 3, 67,</ls> 
-<ls>Sch.</ls>
+<ls>P. 1, 3, 67</ls>, <ls>Sch.</ls>
+
 
 <div n="p">— {#अधि#} {%hoch anschlagen, hoch erheben, hoch preisen%}: {#को वीर्याण्यधिगणयेत्सहस्रजिह्वः#} 
 <ls>BHĀG. P. 5, 25, 12</ls> (<ls>BURNOUF</ls>: {%énumérer%}). {#तन्महानुभावाभ्युदयो ऽधिगण्यताम्#} 
@@ -82,7 +82,7 @@
 <ls>H. 1479.</ls> 
 <div n="v">— Vgl. {#अवगणन#} und {#अवगण#} 
 <ls>MBH. 3, 4057</ls>, wofür aber in derselben Verbindung 
-<ls>13, 5207</ls> {#अवगुण#} gelesen wird.
+<ls n="MBH.">13, 5207</ls> {#अवगुण#} gelesen wird.
 
 <div n="p">— {#परि#} 
 <div n="1"> 1) {%überzählen, durchzählen%}: {#परिगण्य#} (gegen 
@@ -94,8 +94,8 @@
 
 <div n="p">— {#प्र#} {%berechnen%}: {#ततः प्रगणयामासुः कस्य वारो ऽद्य भोजने#} 
 <ls>MBH. 1, 6808.</ls> {#प्रगणय्य गतः#} 
-<ls>P. 6, 4, 56,</ls> 
-<ls>Sch.</ls>
+<ls>P. 6, 4, 56</ls>, <ls>Sch.</ls>
+
 
 <div n="p">— {#वि#} 
 <div n="1"> 1) {%ausrechnen, berechnen%}: {#रोम्णां कोट्यस्तु पञ्चाशच्चतस्रः कोट्य एव च#} u. s. w. {#विगण्यन्ते#} 
@@ -103,7 +103,7 @@
 <ls>R. 3, 53, 11.</ls> 
 <div n="1">— 2) {%erwägen, bedenken, in Betrachtung ziehen%}: {#तत्तद्विगणयन्#} 
 <ls>MBH. 3, 2361.</ls> {#विगणयन्राजा मनसा#} 
-<ls>2877.</ls> {#तांस्तान्विगणयन्नर्थान्#} 
+<ls n="MBH. 3,">2877.</ls> {#तांस्तान्विगणयन्नर्थान्#} 
 <ls>SĀV. 6, 20</ls> (<ls>MBH. 3, 16878</ls>: {#सर्वान्#} st. {#अर्थान्#}, woher {%magni aestimare%} bei 
 <ls>WEST.</ls>). {#एवं यथावद्विगणय्य बुद्ध्या#} 
 <ls>R. 3, 44, 31.</ls> 

@@ -7,9 +7,9 @@
 <ls>H. 1513.</ls> 
 <ls>HALĀY. 2, 457.</ls> 
 <ls>ṚV. PRĀT. 11, 12.</ls> <ls n="ṚV. PRĀT. 11,">23.</ls> 
-<ls>P. 2, 3, 23. 3, 3, 156.</ls> 
+<ls>P. 2, 3, 23.</ls> <ls n="P.">3, 3, 156.</ls> 
 <ls>MBH. 1, 67.</ls> <ls n="MBH.">2, 564</ls> (pl.). {#हेत्वहेतुभिः#} 
-<ls>12, 10511.</ls> <ls>R. 2, 21, 14.</ls> <ls>SĀṂKHYAK. 1. 31.</ls> {#कालो हेतुं विकुरुते#} 
+<ls n="MBH.">12, 10511.</ls> <ls>R. 2, 21, 14.</ls> <ls>SĀṂKHYAK. 1. 31.</ls> {#कालो हेतुं विकुरुते#} 
 <ls>Spr. (II) 1709.</ls> {#°विगम#} 
 <ls>5888.</ls> {#विना हेतुमपि द्वंद्वम्#} 
 <ls>6360.</ls> {#न हेतुं कंचिदीक्षन्ते#} 
@@ -96,7 +96,7 @@ zu <ls>P. 1, 1, 37.</ls> {#कस्मिन्हेतौ वसति#}
 <ls>101.</ls> {#देशदृष्टैश्च शास्त्रदृष्टैश्च हेतुभिः#} 
 <ls>M. 8, 3.</ls> {#हेतुभिर्मोक्षदर्शिभिः#} 
 <ls>MBH. 1, 522.</ls> <ls n="MBH. 1,">583.</ls> <ls n="MBH.">3, 3018.</ls> {#वाक्यमर्थवद्धेतुभूषितम्#} 
-<ls>13, 298.</ls> {#वाक्यं हेत्वर्थसंहितम्#} 
+<ls n="MBH.">13, 298.</ls> {#वाक्यं हेत्वर्थसंहितम्#} 
 <ls>R. 2, 85, 1. 3, 56, 31. 71, 4. 5, 33, 15. 6, 79, 28. 7, 94, 8.</ls> {#तिष्ठेत्तु मतिमानागमे न तु हेतुषु#} 
 <ls>SUŚR. 1, 150, 20.</ls> 
 <ls>Spr. (II) 7413.</ls> 
@@ -126,7 +126,7 @@ zu <ls>P. 1, 1, 37.</ls> {#कस्मिन्हेतौ वसति#}
 <ls>MBH. 13, 19.</ls> {#द्वावाहरणहेतू भवतः प्रतिलोमो ऽनुलोमश्च#} 
 <ls>SUŚR. 1, 100, 11.</ls> 
 <div n="1">— 6) in der Grammatik {%der Agens des causativen Verbums%} 
-<ls>P. 1, 4, 55. 3, 68. 7, 3, 40.</ls> 
+<ls>P. 1, 4, 55.</ls> <ls n="P. 1,">3, 68.</ls> <ls n="P.">7, 3, 40.</ls> 
 <div n="1">— 7) bei den Buddhisten {%Grundursache, Hauptursache%} (im Gegensatz zu den {#प्रत्ययाः#} {%den hinzukommenden Ursachen%}) 
 <ls>SARVADARŚANAS. 7, 19. 14, 19. 19, 12. 20, 22. fgg.</ls> 
 <div n="1">— 8) bei den <is>Pāśupata</is> {%dasjenige was das Gebundensein der Seele bewirkt, die Natur, die%}

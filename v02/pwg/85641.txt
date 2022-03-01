@@ -4,7 +4,7 @@
 <ls>33, 23</ls> ({#आलोचने#}). 
 <div n="1"> 1) {%bezeichnen, kennzeichnen%}: {#अङ्कैर्लक्षैश्च ताः सर्वा (गाः) लक्षयामास#} 
 <ls>MBH. 3, 14852.</ls> {#लक्षित#} {%bezeichnet, gekennzeichnet, erkennbar an%}: {#सर्वलक्षणलक्षित#} 
-<ls>1, 5434.</ls> <ls>R. 1, 45, 41. 7, 37, 3, 24.</ls> <ls>MĀRK. P. 34, 77. 66, 25.</ls> {#शुभलक्षणलक्षित#} 
+<ls n="MBH.">1, 5434.</ls> <ls>R. 1, 45, 41. 7, 37, 3, 24.</ls> <ls>MĀRK. P. 34, 77. 66, 25.</ls> {#शुभलक्षणलक्षित#} 
 <ls>R. GORR. 2, 26, 18.</ls> {#राजलक्षणलक्षित#} 
 <ls>3, 36, 6.</ls> {#राजतैर्धातुभिश्चित्रैर्देशे च लक्षितः#} ({#गिरिः#}) 
 <ls>21, 14.</ls> {#वक्षसि लक्षितं श्रिया#} 
@@ -33,7 +33,7 @@
 <ls>ŚRUT. 35.</ls> 
 <div n="1">— 6) {%bezeichnen als%} so v. a. {%halten —, ansehen für%}: {#तुल्यं हि लक्षये ज्ञानं बाहुकस्य नलस्य च#} 
 <ls>MBH. 3, 2800.</ls> {#न ते ऽस्त्यविदितं किंचिदिति त्वां लक्षयाम्यहम्#} 
-<ls>10575.</ls> {#तस्य वाक्यस्य पर्यायं पर्याप्तमिव लक्षये#} 
+<ls n="MBH. 3,">10575.</ls> {#तस्य वाक्यस्य पर्यायं पर्याप्तमिव लक्षये#} 
 <ls>HARIV. 9652.</ls> {#अन्यत्र क्षेत्रज्ञः पुत्रो लक्ष्यते#} 
 <ls>MBH. 13, 2629. fgg.</ls> {#जडान्धबधिरोन्मत्तमूकाकृतिः - लक्षितः पथि बालानाम्#} 
 <ls>BHĀG. P. 4, 13, 10.</ls>
@@ -109,7 +109,7 @@
 <ls>Spr. 3807.</ls> 
 <ls>KATHĀS. 42, 208. 49, 45.</ls> mit {#इव#} nach dem appositionellen acc. (nom. bei pass. Constr.): {#अस्वस्थमिव चात्मानं लक्षये#} 
 <ls>MBH. 3, 16750.</ls> {#नातिस्वस्थेव लक्ष्यते#} {%aussehen, zu sein scheinen%} 
-<ls>2110. 16721. 8, 1813.</ls> <ls>R. 2, 91, 43. 93,16. 5, 4, 13. 5, 28. 54, 12.</ls> <ls>RAGH. 3, 2. 8, 57. 11, 59. 17, 15.</ls> <ls>KUMĀRAS. 2, 20. 7, 42.</ls> <ls>ŚĀK. 69, 3.</ls> <ls>VIKR. 8.</ls> <ls>VARĀH. BṚH. S. 9, 36. 27, 4.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 283.</ls> <ls>BHĀG. P. 5, 25, 2.</ls> <ls>PAÑCAR. 4, 3, 200.</ls> <ls>PAÑCAT. 231, 25.</ls> <ls>HIT. 69, 4, v. l.</ls> <ls>PRAB. 33, 10.</ls> <ls>SARVADARŚANAS. 16, 21.</ls>
+<ls n="MBH. 3,">2110.</ls> <ls n="MBH. 3,">16721.</ls> <ls n="MBH.">8, 1813.</ls> <ls>R. 2, 91, 43. 93,16. 5, 4, 13. 5, 28. 54, 12.</ls> <ls>RAGH. 3, 2. 8, 57. 11, 59. 17, 15.</ls> <ls>KUMĀRAS. 2, 20. 7, 42.</ls> <ls>ŚĀK. 69, 3.</ls> <ls>VIKR. 8.</ls> <ls>VARĀH. BṚH. S. 9, 36. 27, 4.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 283.</ls> <ls>BHĀG. P. 5, 25, 2.</ls> <ls>PAÑCAR. 4, 3, 200.</ls> <ls>PAÑCAT. 231, 25.</ls> <ls>HIT. 69, 4, v. l.</ls> <ls>PRAB. 33, 10.</ls> <ls>SARVADARŚANAS. 16, 21.</ls>
 [Page6-0467]
 {#स#} ({#ग्रीष्मः#}) {#च वृन्दावनगुणैर्वसन्त इव लक्षितः#} 
 <ls>BHĀG. P. 10, 18, 3.</ls> {#अयं रथनिर्घोषो नैषधस्येव लक्ष्यते#} so v. a. {%dieses Wagengerassel hört sich wie das des%} <is>Nala</is> {%an%} 
@@ -138,7 +138,7 @@
 
 <div n="p">— {#आ#} {%erblicken, gewahr werden, sehen%}; med. 
 <ls>MBH. 4, 1568.</ls> {#°लक्ष्य#} 
-<ls>1, 787. 2, 2403. 3, 12215.</ls> <ls>R. GORR. 2, 71, 3. 3, 1, 4. 4, 10, 8. 5, 29, 17. 7, 34, 15.</ls> <ls>RĀJA-TAR. 4, 422. 5, 365.</ls> <ls>BHĀG. P. 1, 7, 32. 12, 34. 6, 9, 4. 10, 16, 13.</ls> <ls>PAÑCAR. 4, 2, 30</ls> (fälschlich {#अलक्ष्य#} gedr.). 
+<ls n="MBH.">1, 787.</ls> <ls n="MBH.">2, 2403.</ls> <ls n="MBH.">3, 12215.</ls> <ls>R. GORR. 2, 71, 3. 3, 1, 4. 4, 10, 8. 5, 29, 17. 7, 34, 15.</ls> <ls>RĀJA-TAR. 4, 422. 5, 365.</ls> <ls>BHĀG. P. 1, 7, 32. 12, 34. 6, 9, 4. 10, 16, 13.</ls> <ls>PAÑCAR. 4, 2, 30</ls> (fälschlich {#अलक्ष्य#} gedr.). 
 <ls>PAÑCAT. ed. orn. 53, 16.</ls> {#एतदालक्ष्यते राम मधूकानां महद्वनम्#} 
 <ls>R. 3, 19, 22.</ls> 
 <ls>BHĀG. P. 10, 39, 36.</ls> {#आलक्षित#} 
@@ -158,13 +158,13 @@
 
 <div n="p">— {#समा#}¦ dass.: {#नैषादिं श्वा समालक्ष्य भषंस्तस्थौ तदन्तिके#} 
 <ls>MBH. 1, 5249.</ls> {#वितथांस्तान्समालक्ष्य पतितांश्च महीतले#} 
-<ls>8, 1062.</ls> <ls>HARIV. 6427.</ls> <ls n="HARIV.">13262.</ls> <ls>R. 4, 18, 25. 38, 12. 7, 14, 20.</ls> {#दैवं समालक्ष्य#} {%auf das Schicksal sehend%} so v. a. {%auf die Erfüllung des Schicksals wartend%} 
+<ls n="MBH.">8, 1062.</ls> <ls>HARIV. 6427.</ls> <ls n="HARIV.">13262.</ls> <ls>R. 4, 18, 25. 38, 12. 7, 14, 20.</ls> {#दैवं समालक्ष्य#} {%auf das Schicksal sehend%} so v. a. {%auf die Erfüllung des Schicksals wartend%} 
 <ls>MBH. 13, 313.</ls>
 
 <div n="p">— {#उप#} 
 <div n="1"> 1) {%bezeichnen, kennzeichnen%}: {#°लक्षित#} {%bezeichnet, gekennzeichnet, erkennbar an%} 
 <ls>YĀJÑ. 1, 30. 2, 151.</ls> 
-<ls>KĀM. NĪTIS. 7, 47.</ls> <ls>KATHĀS. 10, 131. 31, 41. 56, 338.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 29.</ls> <ls>RĀJA-TAR. 4, 417.</ls> <ls>BHĀG. P. 3, 11, 32. 4, 29, 20. 5, 3, 3. 7, 7. 22, 2. 7, 9, 36. 11, 5, 27.</ls> <ls>MĀRK. P. 74, 58. 97, 20.</ls> <ls>WEBER, RĀMAT. UP. 332.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 84. 2, 1, 16.</ls> <ls>KUSUM. 58, 16. fg.</ls> <ls>KULL.</ls> zu <ls>M. 2, 170. 3, 45. 9, 35. Schol.</ls> zu <ls>NAIṢ. 22, 42.</ls> {#अङ्गाश्चम्पोपलक्षताः (वङ्गाः)#} so v. a. {%mit Einschluss von%} <is>Campā</is> 
+<ls>KĀM. NĪTIS. 7, 47.</ls> <ls>KATHĀS. 10, 131. 31, 41. 56, 338.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 29.</ls> <ls>RĀJA-TAR. 4, 417.</ls> <ls>BHĀG. P. 3, 11, 32. 4, 29, 20. 5, 3, 3. 7, 7. 22, 2. 7, 9, 36. 11, 5, 27.</ls> <ls>MĀRK. P. 74, 58. 97, 20.</ls> <ls>WEBER, RĀMAT. UP. 332.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 84.</ls> <ls n="P.">2, 1, 16.</ls> <ls>KUSUM. 58, 16. fg.</ls> <ls>KULL.</ls> zu <ls>M. 2, 170. 3, 45. 9, 35.</ls> Schol. zu <ls>NAIṢ. 22, 42.</ls> {#अङ्गाश्चम्पोपलक्षताः (वङ्गाः)#} so v. a. {%mit Einschluss von%} <is>Campā</is> 
 <ls>H. 957.</ls> 
 <div n="1">— 2) {%näher bestimmen, definiren%}; act. 
 <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 3, 1.</ls> {#°लक्षित#} 
@@ -184,7 +184,7 @@
 <ls>266,a,17.</ls> 
 <div n="1">— 5) {%betrachten als, halten für%}: {#एतत्कृत्यतमं राज्ञो नित्यमेवोपलक्षयेत्#} 
 <ls>MBH. 13, 2087.</ls> {#पुरंदरपुराद्धीदं विशिष्टमुपलक्षये#} 
-<ls>3, 12188.</ls> {#लोकप्रवादः सत्यो ऽयं पण्डिंतैरुपलक्षितः#} 
+<ls n="MBH.">3, 12188.</ls> {#लोकप्रवादः सत्यो ऽयं पण्डिंतैरुपलक्षितः#} 
 <ls>R. 5, 26, 6.</ls> 
 <div n="1">— 6) {%erblicken, bemerken, wahrnehmen, sehen%}; act. 
 <ls>R. 5, 27, 31. 6, 88, 9.</ls> 
@@ -241,7 +241,7 @@ v. l. zu lesen) {#भवत्या#}
 <ls>KĀM. NĪTIS. 16, 35.</ls> 
 <div n="1">— 2) {%erblicken, wahrnehmen%}: {#उक्तस्योक्तस्य नेहान्तमहं समुपलक्षये#} 
 <ls>MBH. 2, 1557.</ls> {#येन लिङ्गेन यो देशो युक्तः समुपलक्ष्यते#} 
-<ls>1, 281.</ls>
+<ls n="MBH.">1, 281.</ls>
 
 <div n="p">— {#संप्रति#} {%erblicken, wahrnehmen%}: {#अस्वामिकस्य स्वामित्वं यस्मिन्संप्रतिलक्ष्यते#} (so die ed. Bomb.) 
 <ls>MBH. 13, 2633.</ls>

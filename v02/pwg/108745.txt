@@ -7,8 +7,8 @@
 <ls>MBH. 14, 2122.</ls> <ls n="MBH. 14,">2282.</ls> {#अश्व°#} 
 <ls>R. GORR. 1, 41, 29.</ls> {#धनंजय°#} 
 <ls>MBH. 14, 2516.</ls> {#आराव°#} 
-<ls>12, 3750.</ls> {#आम्नाय°#} {%befolgend, sich richtend nach%} 
-<ls>3, 2459.</ls> in Etymologien: {#अग्र°#} 
+<ls n="MBH.">12, 3750.</ls> {#आम्नाय°#} {%befolgend, sich richtend nach%} 
+<ls n="MBH.">3, 2459.</ls> in Etymologien: {#अग्र°#} 
 <ls>NIR. 3, 8.</ls> {#स्वयं°#} 
 <ls>5, 4.</ls> {#घृत°#} 
 <ls>12, 36.</ls> 
@@ -16,7 +16,7 @@
 <ls>KĀM. NĪTIS. 13, 12.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%aus verdicktem Safte gewonnenes Räucherwerk%}: {#निर्यासाः सारिणश्चैव कृत्रिमाश्चैव ते त्रयः#} 
 <ls>MBH. 13, 4715.</ls> {#अगुरुः सारिणां श्रेष्ठः#} 
-<ls>4717.</ls> = {#काष्ठाग्निसंयोगान्निःसरन्तः#} 
+<ls n="MBH. 13,">4717.</ls> = {#काष्ठाग्निसंयोगान्निःसरन्तः#} 
 <ls>NĪLAK.</ls> Vgl. 2. {#सार#} 1) {%n%}). 
 <div n="1">— 3) <lex>f.</lex> {#सारिणी#} 
 <div n="2"> a) (von {#सर्#}) {%Kanal, Graben%} 

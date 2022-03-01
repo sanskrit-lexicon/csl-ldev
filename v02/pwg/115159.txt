@@ -2,16 +2,16 @@
 1. {#स्वर्#}¦, {#स्व꣡रति#} 
 <ls>NAIGH. 3, 14</ls> ({#अर्चतिकर्मन्#}). 
 <ls>DHĀTUP. 22, 34</ls> ({#शब्दोपतापयोः#}).{# सस्वार, सस्वरुस्#} 
-<ls>P. 7, 4, 10, Schol.</ls> {#सस्वरिथ#} und {#सस्वर्थ#} 
+<ls>P. 7, 4, 10</ls>, Schol. {#सस्वरिथ#} und {#सस्वर्थ#} 
 <ls>VOP. 8, 46. 90.</ls> {#अस्वारीत्#} und {#अस्वार्षीत्#} ebend. ved. {#अस्वार्, अस्वार्ष्टाम्; स्वरिष्यति#} 
 <ls>P. 7, 2, 70</ls>, <is>Vārtt</is>. 
 <ls>KĀŚ.</ls> zu <ls>44.</ls> {#स्वरिता#} und {#स्वर्ता#} 
-<ls>7, 2, 44, Schol.</ls> {#स्वृत्वा#} 
+<ls>7, 2, 44</ls>, Schol. {#स्वृत्वा#} 
 <ls>KĀŚ.</ls> zu <ls>7, 2, 44.</ls> der Anlaut wird nicht in {#ष#} verwandelt 
 <ls>AV. PRĀT. 2, 102.</ls> 
 <div n="1"> 1) {%einen Laut von sich geben, erschallen, tönen%}: {#आप^ः#} 
 <ls>ṚV. 5, 54, 2.</ls> Opfergesang 
-<ls>8, 12, 32.</ls> Wind <ls>5, 54, 8.</ls> {#ओमिति ह्येष (आदित्यः) स्वरन्नेति#} (zugleich {%leuchtend%} von 2. {#स्वर्#}) 
+<ls n="ṚV.">8, 12, 32.</ls> Wind <ls n="ṚV.">5, 54, 8.</ls> {#ओमिति ह्येष (आदित्यः) स्वरन्नेति#} (zugleich {%leuchtend%} von 2. {#स्वर्#}) 
 <ls>CHĀND. UP. 1, 5, 1.</ls> 
 <div n="1">— 2) {%erschallen lassen%}, mit acc.: {#स्वर^न्ति\ घोष\ं वित^तम्#} 
 <ls>ṚV. 5, 54, 12.</ls> {#घृ\त\श्चुत^ं स्वा\रम्#} 
@@ -32,7 +32,7 @@
 <ls>VOP. 8, 46. 19, 8.</ls>
 
 <div n="p">— intens. {#सास्वर्यते#} 
-<ls>P. 7, 4, 30, Schol.</ls>
+<ls>P. 7, 4, 30</ls>, Schol.
 
 <div n="p">— {#अति#} {%den Ton ausklingen lassen%} 
 <ls>PAÑCAV. BR. 13, 12, 11</ls> ({#अतिमन्द्रम्#} Comm.). {#यदा वा ऋचमाप्नोत्योमित्येवातिस्वरति#} 
@@ -87,7 +87,7 @@
 [Page7-1441]
 {%(in demselben Tone%}) 
 <ls>LĀṬY. 6, 10, 19.</ls> {#संस्वारम्#} absol. 
-<ls>ŚĀṄKH. ŚR. 1, 1, 30.</ls> Nach <ls>P. 1, 3, 29, <is>Vārtt</is>. 1</ls> und <ls>VOP. 13, 14</ls> med. {#संस्वरिषीष्ठास् (= उपतापय#} Comm.) 
+<ls>ŚĀṄKH. ŚR. 1, 1, 30.</ls> Nach <ls>P. 1, 3, 29</ls>, <is>Vārtt</is>. 1 und <ls>VOP. 13, 14</ls> med. {#संस्वरिषीष्ठास् (= उपतापय#} Comm.) 
 <ls>BHAṬṬ. 9, 28.</ls>
 
 <div n="p">— {#अभिसम्#} {%einstimmig besingen, - begrüssen, - einladen%}: {#अ\भि त्वा^ पू\र्वपी^तये\ स्तोमे^भिः । स\मी\ची\नास\ः सम^स्वरन्#} 

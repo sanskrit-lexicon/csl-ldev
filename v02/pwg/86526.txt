@@ -45,7 +45,7 @@
 <ls>ŚAT. BR. 4, 1, 1, 8.</ls> 
 <div n="1">— 2) {%Jmdes Verlangen erregen, locken, anlocken, an sich ziehen%}: {#रूपयौवनमाधुर्यचेष्टितस्मितभाषितैः । लोभयित्वा वरारोहे तपसस्तं निवर्तय ॥#} 
 <ls>MBH. 1, 2920.</ls> {#लोभयामास या चेतो मृगभूतस्य तस्य वै#} 
-<ls>3, 9997.</ls> <ls>R. 1, 8, 23 (24 GORR.). 9, 4. 64, 8. 65, 10.</ls> <ls>R. GORR. 1, 65, 16.</ls> {#लोभयिष्यन्ति काकुत्स्थमटव्यश्चित्रकाननाः#} 
+<ls n="MBH.">3, 9997.</ls> <ls>R. 1, 8, 23 (24 GORR.). 9, 4. 64, 8. 65, 10.</ls> <ls>R. GORR. 1, 65, 16.</ls> {#लोभयिष्यन्ति काकुत्स्थमटव्यश्चित्रकाननाः#} 
 <ls>2, 45, 15. 3, 15, 15. 49, 36. 50, 6.</ls> {#नाहं लोभयितुं शक्या ऐश्वर्येण धनेन वा#} 
 <ls>5, 23, 12.</ls> <ls>KATHĀS. 11, 24. 45, 90. 72, 228.</ls> <ls>PAÑCAT. 256, 1.</ls> <ls>BHAṬṬ. 5, 48.</ls> {#लोभ्यमाननयन श्लथांशुकैर्मेखलागुणपदैर्नितम्बिभिः#} ({#योषिताम्#}) 
 <ls>RAGH. 19, 26.</ls> {#सुखलेशेन लोभितः#} 
@@ -86,7 +86,7 @@
 <ls>PAÑCAT. 262, 8.</ls> 
 <div n="1">— 2) {%Jmdes Verlangen erregen, locken, verführen%}: {#यद्वयं संशितात्मानं प्रलोब्धुं त्वामिहागताः#} 
 <ls>MBH. 1, 7863.</ls> {#प्रलुब्ध#} {%verleitet, verführt, fortgerissen%} 
-<ls>7, 6506.</ls> 
+<ls n="MBH.">7, 6506.</ls> 
 <div n="v">— Vgl. {#प्रलोभ#} . — caus. {%Jmdes Verlangen erregen, locken, heranlocken, zu verführen suchen%} 
 <ls>MBH. 1, 2919.</ls> <ls n="MBH. 1,">7400.</ls> <ls n="MBH. 1,">7630.</ls> <ls n="MBH.">3, 10044.</ls> <ls n="MBH. 3,">16011.</ls> 
 
@@ -114,8 +114,8 @@
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 118.</ls>
 
 <div n="p">— {#वि#} {%in Verwirrung —, in Unordnung gerathen%}: {#विलुभिता केशाः#} 
-<ls>P. 7, 2, 54,</ls> 
-<ls>Sch.</ls> {#विलुभितं वातैः केसरम्#} 
+<ls>P. 7, 2, 54</ls>, <ls>Sch.</ls>
+{#विलुभितं वातैः केसरम्#} 
 <ls>BHAṬṬ. 9, 40.</ls> {#विलुभितप्लव#} 
 <ls>5, 52.</ls> — caus. 
 <div n="1"> 1) {%irre führen%} 

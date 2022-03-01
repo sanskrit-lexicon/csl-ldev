@@ -20,7 +20,7 @@
 <ls>HIT. IV, 16.</ls> {#रथ°#} 
 <ls>R. 6, 88, 36.</ls> {#दोषाणाम्#} 
 <ls>SUŚR. 1, 249, 15.</ls> {#नेताश्वस्य स्रुघ्नम्#} und {#स्रुघ्नस्य#} {%nach%} <ab n="?">Sr.</ab> 
-<ls>P. 2, 3, 65, <is>Vārtt</is>.</ls>, <ls>Sch.</ls> {#तावत्प्रिये मदवरोधगृहप्रवेशं नेता#} ({%der dich führen wird%}) {#जनस्तव समीपमुपैष्यति#} 
+<ls>P. 2, 3, 65</ls>, <is>Vārtt</is>., <ls>Sch.</ls> {#तावत्प्रिये मदवरोधगृहप्रवेशं नेता#} ({%der dich führen wird%}) {#जनस्तव समीपमुपैष्यति#} 
 <ls>ŚĀK. 139.</ls> {#योगशास्त्र°#} 
 <ls>HARIV. 14496.</ls> {#यमस्य#} wohl so v. a. {%der dem%} <is>Yama</is> {%viele Erschlagene zuführt%} 
 <ls>MBH. 3, 954.</ls> {#दण्डस्य#} {%der den Stock führt, Strafen verhängt%} 
@@ -35,7 +35,7 @@
 <ls>TS. 4, 3, 11, 5.</ls> 
 <ls>GOBH. 3, 4, 21.</ls> {#यस्य मे भवती नेत्री#} 
 <ls>MBH. 5, 4634.</ls> {#गावो यज्ञस्य नेत्र्यः#} 
-<ls>13, 2696.</ls> {#(नदी) अम्बुनेत्री#} 
+<ls n="MBH.">13, 2696.</ls> {#(नदी) अम्बुनेत्री#} 
 <ls>BHĀG. P. 1, 19, 6.</ls> Vgl. {#नेत्र#} 1. 
 <div n="1">— 2) <lex>m.</lex> = {#नायक#} {%der Held eines Stückes%} 
 <ls>DAŚAR. 1, 11. 2, 1.</ls> 

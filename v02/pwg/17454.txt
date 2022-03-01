@@ -3,13 +3,13 @@
 <ls>TRIK.3,5,3.</ls> <ls>SIDDH. K. 250,a,4.</ls> 
 <div n="1"> 1) {%Bauch, Unterleib%} 
 <ls>Uṇ. 3. 153.</ls> 
-<ls>P. 7, 2, 9,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 7, 2, 9</ls>, <ls>Sch.</ls> 
+
 <ls>AK. 2, 6, 2, 28. 3, 4, 22, 138.</ls> 
 <ls>H. 604</ls> (nach 
 <ls>GAUḌA</ls> beim <ls>Sch.</ls> auch f.). {#यः कु\क्षिः सो^म\पात^मः#} 
 <ls>ṚV. 1, 8, 7.</ls> <ls n="ṚV.">8, 21, 24.</ls> <ls n="ṚV.">9, 80, 3.</ls> <ls n="ṚV. 9,">109, 18.</ls> 
-<ls>AV. 7, 111, 1. 9, 7, 12.</ls> 
+<ls>AV. 7, 111, 1.</ls> <ls n="AV.">9, 7, 12.</ls> 
 <ls>ŚAT. BR. 7, 5, 1, 38.</ls> 
 <ls>MBH. 3, 13496.</ls> 
 <ls>SUŚR. 1, 49, 9. 189, 7.</ls> 
@@ -18,7 +18,7 @@
 <ls>MṚCCH. 143, 22.</ls> In der älteren Sprache gewöhnlich im du. 
 <ls>ṚV. 2, 11, 11.</ls> <ls n="ṚV.">3, 51, 12.</ls> {#आ ते^ सिञ्चामि कु\क्ष्योरनु\ गात्रा\ वि धा^वतु#} 
 <ls n="ṚV.">8, 17, 5.</ls> <ls n="ṚV.">10, 28, 2.</ls> {#उ\भा कु\क्षी पृ^णन्ति मे#} 
-<ls n="ṚV. 10,">86, 14.</ls> <ls>VS. 25, 8.</ls> <ls>AV. 2, 5, 4. 33, 4. 4, 16, 3. 9, 5, 20. 10, 9, 17.</ls> pl.: {#ह्र\दा इ^व कु\क्षय^ः सोम\धाना^ः#} 
+<ls n="ṚV. 10,">86, 14.</ls> <ls>VS. 25, 8.</ls> <ls>AV. 2, 5, 4.</ls> <ls n="AV. 2,">33, 4.</ls> <ls n="AV.">4, 16, 3.</ls> <ls n="AV.">9, 5, 20.</ls> <ls n="AV.">10, 9, 17.</ls> pl.: {#ह्र\दा इ^व कु\क्षय^ः सोम\धाना^ः#} 
 <ls>ṚV. 3, 36, 8.</ls> Vom {%weiblichen Leibe, als dem Behälter der Leibesfrucht%}: {#तव कुक्षौ महाभागे अचिरात्संजनिष्यति । ग्रहेण सहितः श्रीमान्#} 
 <ls>R. 1. 70. 34.</ls> 
 <ls>RAGH. 10, 66.</ls> {#(मासैः) षड्भिर्जरायुनावीतः कुक्षौ भ्राम्यति दक्षिणे#} (der Fötus) 
@@ -28,8 +28,8 @@
 <ls>67.</ls> {#स्वातौ सागरशुक्तिकुक्षिपतितं (पयः) तज्जायते मौक्तिकम्#} (v. l. {#मध्य#} st. {#कुक्षि#}) 
 <ls>PAÑCAT. I, 280.</ls> Mit {%dem Bauche des Meeres%} ist {%der Meerbusen%} gemeint: {#ततः सागरमासाद्य कुक्षौ तस्य महोर्मिणः । समुद्रनाभ्यां शाल्वो ऽभूत्सौभमास्थाय#} 
 <ls>MBH. 3, 793.</ls> {#सागरकुक्षिस्थान्म्लेच्छान्#} 
-<ls>2, 1198.</ls> {#समुद्रकुक्षौ#} 
-<ls>1, 1282.</ls> <ls>ARJ. 5, 11.</ls> 
+<ls n="MBH.">2, 1198.</ls> {#समुद्रकुक्षौ#} 
+<ls n="MBH.">1, 1282.</ls> <ls>ARJ. 5, 11.</ls> 
 <div n="1">— 2) N. pr. eines Sohnes (nach 
 <ls>VP. 161</ls> einer Tochter) von <is>Priyavrata</is> und der <is>Kāmyā</is> 
 <ls>HARIV. 59.</ls> von <is>Bali</is> 191. eines Königs 

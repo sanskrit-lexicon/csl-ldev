@@ -3,8 +3,8 @@
 <ls>Uṇ. 1, 110.</ls> 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}) mit {#कृतादि#} compon. <is>gaṇa</is> {#श्रेण्यादि#} zu 
 <ls>P. 2, 1, 59.</ls> mit einem im loc. gedachten nom. compon. <is>gaṇa</is> {#गौण्डादि#} zu 
-<ls>40.</ls> Das adv. behält im comp. vor einem <lex>adj.</lex> seinen Ton <is>gaṇa</is> {#विस्पष्टादि#} zu 
-<ls>6, 2, 24.</ls> {%sich hinundherbewegend, beweglich, schwankend; rasch zu Werke gehend; leichtfertig, leichtsinnig, unbesonnen; unbeständig%}, = {#चल, तरल, अनवस्थित, शीघ्र, चिकुर, दुर्विनीत#} 
+<ls n="P. 2, 1,">40.</ls> Das adv. behält im comp. vor einem <lex>adj.</lex> seinen Ton <is>gaṇa</is> {#विस्पष्टादि#} zu 
+<ls n="P.">6, 2, 24.</ls> {%sich hinundherbewegend, beweglich, schwankend; rasch zu Werke gehend; leichtfertig, leichtsinnig, unbesonnen; unbeständig%}, = {#चल, तरल, अनवस्थित, शीघ्र, चिकुर, दुर्विनीत#} 
 <ls>AK. 1, 1, 1, 60. 3, 1, 46.</ls> 
 <ls>H. 1455. 1470. 476.</ls> 
 <ls>an. 3, 646.</ls> 
@@ -40,8 +40,8 @@
 <div n="2">— d) {%Quecksilber%} 
 <ls>AK. 2, 9, 100.</ls> 
 <ls>TRIK.</ls> 
-<ls>H. 1050,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 1050</ls>, <ls>Sch.</ls> 
+
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>VAIJ.</ls> 

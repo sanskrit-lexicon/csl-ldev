@@ -2,7 +2,7 @@
 {#अ꣡पर#}¦ (von 1. {#अप#}) 
 <div n="1"> 1) pron. <lex>adj.</lex> <lex>f.</lex> {#आ#} <is>gaṇa</is> {#सर्वादि#}; 
 <ls>VOP. 3, 9.</ls> Declin. 
-<ls>P. 1, 1, 34. 7, 1, 16.</ls> 
+<ls>P. 1, 1, 34.</ls> <ls n="P.">7, 1, 16.</ls> 
 <ls>VOP. 3, 12. 37.</ls> 
 <div n="2"> a) {%der hintere, der spätere%} (Gegens. {#पूर्व): अ\न्त\रा पूर्व\मप^रं च के\तुम्#} 
 <ls>ṚV. 10, 139, 2.</ls> {#परा\ पूर्वे^षां स\ख्या वृ^णक्ति वि\तर्तु^राणो\ अप^रेभिरेति#} 
@@ -17,7 +17,7 @@
 <ls>M. 4, 93.</ls> {#रात्रेरपरः कालः#} 
 <ls>NIR. 2, 18.</ls> Gegens. {#पर#} 
 <ls>BHAG. 4, 4</ls> : {#अपरं भवतो जन्म परं जन्म विवस्वतः#} . Häufig am Anfange eines comp. 
-<ls>P. 2, 1, 58. 2, 1.</ls> Vgl. {#पूर्वापर#} . 
+<ls>P. 2, 1, 58.</ls> <ls n="P. 2,">2, 1.</ls> Vgl. {#पूर्वापर#} . 
 <div n="2">— b) {%der folgende%}: {#अपरे ऽह्नि#} {%am folgenden Tage%} 
 <ls>R. 2, 65, 1.</ls> 
 <div n="2">— c) {%westlich%} (Gegens. {#पूर्व#} {%östlich)%}: {#पूर्वे समुद्रे - अपरे समुद्रे#} 
@@ -63,8 +63,8 @@
 <ls>R. 1, 39, 8.</ls> 
 <ls>AMAR. 16.</ls> 
 <ls>ŚUKAS. 39, 15.</ls> <ls>H. 1230</ls> {#एके - अपरे#} {%Einige - Andere%} 
-<ls>P. 7, 2, 45,</ls> 
-<ls>Sch.</ls> = {#केचित् - अपरे#} 
+<ls>P. 7, 2, 45</ls>, <ls>Sch.</ls>
+= {#केचित् - अपरे#} 
 <ls>M. 9, 32.</ls> = {#केचित् - केचिदपरे#} ({%einige Andere%}) 
 <ls>BRĀHMAṆ. 1, 31.</ls> Bei mehrfacher Gliederung: {#एके - एके - अपरे#} 
 <ls>M. 4, 22-24.</ls> {#केचित् - तथापरे - च - तथापरे#} 
@@ -94,6 +94,6 @@
 <div n="2"> a) {%Zukunft%}: {#नू\नं न^ इन्द्राप\राय^ च स्याः#} 
 <ls>ṚV. 6, 33, 5.</ls> Vgl. {#अपरी#} und {#अपरम्#} . 
 <div n="2">— b) {%Hintertheil des Elephanten%} 
-<ls>MED. r. 105.</ls> <ls>H. 1228,</ls> <ls>Sch.</ls>; vgl. {#अपरा#} . {%b.%} 
+<ls>MED. r. 105.</ls> <ls>H. 1228</ls>, <ls>Sch.</ls>; vgl. {#अपरा#} . {%b.%} 
 <div n="v">— Vgl. {#अवर#} .
 <LEND>

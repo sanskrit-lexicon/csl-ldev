@@ -6,12 +6,12 @@
 <ls>ŚABDĀRTHAK.</ls> bei <ls>WILSON.</ls> {#मेद^सो घृ\तस्य^#} 
 <ls>ṚV. 3, 21, 1.</ls> <ls n="ṚV. 3, 21,">4.</ls> <ls n="ṚV.">10, 95, 16.</ls> {#बहुल#} 
 <ls>AV. 4, 38, 6.</ls> {#अ\पाम्#} 
-<ls>6, 124, 1. 12, 3, 28.</ls> <ls>VS. 20, 46.</ls> {#आज्य^स्य#} 
+<ls n="AV.">6, 124, 1.</ls> <ls n="AV.">12, 3, 28.</ls> <ls>VS. 20, 46.</ls> {#आज्य^स्य#} 
 <ls>21, 40.</ls> {#स्तोकाः श्चोतन्ति#} 
 <ls>AIT. BR. 2, 12.</ls> {#अवा^पद्यन्त#} 
 <ls>TBR. 2, 1, 1, 1.</ls> {#वर्षन्ति#} 
 <ls>ŚAT. BR. 12, 3, 2, 5.</ls> {#उद°#} (vgl. 
-<ls>P. 2, 1, 65) 1, 7, 1, 18. 3, 6, 3, 8. 8, 2, 21.</ls> {#मधु°#} 
+<ls>P. 2, 1, 65</ls>) <ls n="ŚAT. BR.">1, 7, 1, 18. 3, 6, 3, 8. 8, 2, 21.</ls> {#मधु°#} 
 <ls>1, 6, 3. 5.</ls> {#यो वै स्तोकः स्कन्दति स द्रप्सः#} 
 <ls>4, 2, 5, 2.</ls> {#ग्रहात्स्तोकमासिच्य#} 
 <ls>KĀTY. ŚR. 25, 12, 11.</ls> 
@@ -19,7 +19,7 @@
 <ls>MĀRK. P. 49, 58.</ls> {#आज्य°#} 
 <ls>BHĀG. P. 9, 6, 48.</ls> {#अग्नि°#} 
 so v. a. {%Funken%} (vgl. {#कण#}) 
-<ls>P. 2, 1, 65, Schol.</ls> 
+<ls>P. 2, 1, 65</ls>, Schol. 
 <div n="2">— b) Bez. {%des Vogels%} <is>Cātaka</is> (vgl. {#स्तोकक#}) 
 <ls>H. an. 2, 21.</ls> 
 <ls>MED. k. 38.</ls> 
@@ -64,6 +64,6 @@ so v. a. {%Funken%} (vgl. {#कण#})
 <ls>HALĀY. 4, 52.</ls> 
 <ls>BHĀG. P. 10, 22, 31.</ls> {%allmählich%} 
 <ls>Spr. (II) 6456.</ls> {#स्तोकेन#} und {#स्तोकात्#} (dieses bildet mit dem folg. Worte ein comp.) vor einem partic. auf {#त#} so v. a. {%kaum, mit genauer Noth%} 
-<ls>P. 2, 1, 39. 3, 33. 6, 3, 2</ls> (vgl. <ls>SIDDH. K.</ls> zu <ls>P. 6, 2, 49).</ls> 
+<ls>P. 2, 1, 39.</ls> <ls n="P. 2,">3, 33.</ls> <ls n="P.">6, 3, 2</ls> (vgl. <ls>SIDDH. K.</ls> zu <ls>P. 6, 2, 49</ls>).
 <div n="v">— Vgl. {#प्र°#} .
 <LEND>

@@ -6,7 +6,7 @@
 <ls>NAIGH. 3, 4.</ls> = {#धन#} 
 <ls>2, 10.</ls> = {#अपत्य#} 2. {#इन्द्रो\ वसु^भि\ः परि^ पातु नो\ गय^म्#} 
 <ls>ṚV. 10, 66, 3.</ls> <ls n="ṚV.">1, 74, 2.</ls> <ls n="ṚV.">5, 44, 7.</ls> <ls n="ṚV.">6, 2, 8.</ls> <ls n="ṚV. 6,">71, 7.</ls> <ls n="ṚV.">8, 45, 3.</ls> 
-<ls>AV. 6, 3, 3. 7, 84, 1.</ls> {#स्वे गये^ जागृ\ह्यप्र^युच्छन्#} 
+<ls>AV. 6, 3, 3.</ls> <ls n="AV.">7, 84, 1.</ls> {#स्वे गये^ जागृ\ह्यप्र^युच्छन्#} 
 <ls>VS. 27, 3.</ls> {#हि\त्वी गय^मा\रेअ^वद्य\ आगा^त्#} 
 <ls>ṚV. 10, 99, 5.</ls> {#गय^ं पु\ष्टिं च^ वर्धय#} 
 <ls n="ṚV.">5, 10, 3.</ls> {#यः शश्व^तो\ अदा^शुषो गय^स्य प्रय\न्तासि\ सुष्वि^तराय\ वेद^ः#} 
@@ -34,10 +34,10 @@
 <ls>MBH. 1, 2100.</ls> <ls n="MBH.">3, 8518.</ls> <ls n="MBH.">4, 1768.</ls> <ls n="MBH.">9, 2205.</ls> <ls n="MBH.">13, 5661.</ls> 
 <ls>R. 2, 107, 11.</ls> von <is>Māndhātar</is> besiegt 
 <ls>MBH. 7, 2281.</ls> Sohn des <is>Amūrtarayas</is> 
-<ls>3, 8527. fgg.</ls> 
-<ls>7, 2334. fgg.</ls> 
-<ls>12, 1004. fgg.</ls> des <is>Āyus</is> 
-<ls>1, 3150.</ls> eines <is>Manu</is> 
+<ls n="MBH.">3, 8527. fgg.</ls> 
+<ls n="MBH.">7, 2334. fgg.</ls> 
+<ls n="MBH.">12, 1004. fgg.</ls> des <is>Āyus</is> 
+<ls n="MBH.">1, 3150.</ls> eines <is>Manu</is> 
 <ls>HARIV. 870.</ls> 
 <ls>BHĀG. P. 2, 7, 44.</ls> des <is>Havirdhāna</is> und der <is>Dhiṣaṇā</is> (<is>Havirdhānī</is>) 
 <ls>HARIV. 83.</ls> 
@@ -49,7 +49,7 @@
 <ls>5, 15, 5.</ls> <ls>VP. 165.</ls> 
 <div n="3">— β) pl. des um <is>Gayā</is> wohnenden Volksstammes und des von ihm eingenommenen Gebietes 
 <ls>MBH. 2, 1872.</ls> {#गयस्य यजमानस्म गयेष्वेव महाक्रतुम्#} 
-<ls>9, 2205.</ls> <ls>R. 2, 107, 11.</ls> 
+<ls n="MBH.">9, 2205.</ls> <ls>R. 2, 107, 11.</ls> 
 <div n="3">— γ) eines <is>Asura</is>, der, wie der <is>Rājarṣi</is> gleiches Namens, zu der Stadt <is>Gayā</is> in Beziehung gesetzt wird, 
 <ls>VĀYUP.</ls> im <ls>ŚKDR.</ls> 
 <div n="3">— δ) eines Affen im Gefolge von <is>Rāma</is> 

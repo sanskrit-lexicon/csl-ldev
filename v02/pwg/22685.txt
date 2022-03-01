@@ -26,7 +26,7 @@
 <ls>RAGH. 1, 34. 3, 35.</ls> {#त्वयेयमुह्यते वीर रणधूर्नो गरीयसी#} {%überaus schwer%} 
 <ls>R. 6, 82, 43.</ls> {#गुरुतर#} 
 <ls>MBH. 3, 13293.</ls> {#(स्पर्शः) लघुर्गुरुतरो ( = गुरु) ऽपि च#} 
-<ls>12, 6856.</ls> {%schwer im Magen liegend, schwer verdaulich%}, = {#दुर्जर#} 
+<ls n="MBH.">12, 6856.</ls> {%schwer im Magen liegend, schwer verdaulich%}, = {#दुर्जर#} 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>SUŚR. 1, 20, 12. 149, 16. 17. 172, 5. 206, 8. 19. 207, 13</ls> u.s.w. {#गुरूदरत्व#} 
 <ls>2, 408, 21.</ls> 
 <div n="2">— b) {%gross, ausgedehnt%} (dem äussern Umfange nach), = {#महन्त्#} 
@@ -44,7 +44,7 @@
 <ls>GĪT. 1, 6.</ls> 
 <div n="2">— c) in der Pros. {%von Natur oder positione lang%} 
 <ls>ṚV. PRĀT. 1, 4.</ls> <ls n="ṚV. PRĀT.">18, 19.</ls> 
-<ls>P. 1, 4, 11. 12.</ls> 
+<ls>P. 1, 4, 11.</ls> <ls n="P. 1, 4,">12.</ls> 
 <ls>ŚRUT. 7</ls> u.s.w. compar. {%ein langer Vocal in geschlossener Silbe%} 
 <ls>ṚV. PRĀT. 18, 20.</ls> 
 <div n="2">— d) {%gross%} (dem Grade nach), {%heftig%}: {#मन्त्रो^ गु\रुः पुन^रस्तु\ सो अ^स्मै#} {%sein harter Spruch (Fluch) falle auf ihn zurück%} 
@@ -67,7 +67,7 @@
 <ls>M. 7, 52. 9, 295.</ls> {#एनस्#} 
 <ls>11, 256.</ls> {#पाप#} 
 <ls>MBH. 12, 6083.</ls> {#यत्न#} 
-<ls>3, 16449.</ls> <ls>R. 6, 37, 38.</ls> {#शब्द#} 
+<ls n="MBH.">3, 16449.</ls> <ls>R. 6, 37, 38.</ls> {#शब्द#} 
 <ls>VET. 26, 9.</ls> {#गरीयस्तरं भयम्#} {%Gefahr%} 
 <ls>MBH. 7, 5324.</ls> 
 <div n="2">— e) {%wichtig, gewichtig, eine grosse Bedeutung habend, viel geltend%}: {#धर्म#} 
@@ -82,8 +82,8 @@
 <ls>28.</ls> {#वीजाद्योनिर्गरीयसी#} 
 <ls>M. 9, 52. 2, 136.</ls> {#धर्मलोपो गरीयान्वै#} 
 <ls>MBH. 1, 1886.</ls> {#(वचः) उभयं मे गरीयस्तु#} 
-<ls>8426.</ls> {#किं राज्ञः सर्वकृत्यानां गरीयः स्यात्#} 
-<ls>13, 2083.</ls> {#कार्यं गरीयः#} 
+<ls n="MBH. 1,">8426.</ls> {#किं राज्ञः सर्वकृत्यानां गरीयः स्यात्#} 
+<ls n="MBH.">13, 2083.</ls> {#कार्यं गरीयः#} 
 <ls>R. 5, 84, 3.</ls> {#काम एवार्थधर्माभ्यां गरीयान्#} 
 <ls>2, 53, 9.</ls> {#गुरुतरं प्रयोजनम्#} 
 <ls>PAÑCAT. 107, 10.</ls> {#गुणग्राम#} 
@@ -92,7 +92,7 @@
 <div n="2">— f) {%lieb%}: {#न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः#} 
 <ls>BHAG. 2, 6.</ls> {#गरीयः किमतो मम#} 
 <ls>MBH. 13, 146.</ls> {#पुत्रं मम प्राणैर्गरीयसम्#} 
-<ls>1, 2749.</ls> <ls>DRAUP. 7, 14.</ls> {#धनाशा जीविताशा च गुर्वी प्राणभृतां सदा । वृद्धस्य तरुणी भार्या प्राणेभ्यो ऽपि गरीयसी ॥#} 
+<ls n="MBH.">1, 2749.</ls> <ls>DRAUP. 7, 14.</ls> {#धनाशा जीविताशा च गुर्वी प्राणभृतां सदा । वृद्धस्य तरुणी भार्या प्राणेभ्यो ऽपि गरीयसी ॥#} 
 <ls>HIT. I, 105.</ls> <ls>R. 3, 55, 51.</ls> {#महद्भिः स्पर्धमानस्य विपदेव गरीयसी#} 
 <ls>PAÑCAT. I, 418.</ls> <ls>RAGH. 14, 35.</ls> 
 <div n="2">— g) {%ehrwürdig, in grossem Ansehen stehend%}: {#माता ताभ्यो गरीयसी#} 
@@ -121,7 +121,7 @@
 <ls>VIKR. 148.</ls> 
 <ls>KATHĀS. 4, 14. 15. 71.</ls> {#आत्मानं गुरुं कर्#} {%sich selbst vor Allen achten, sich selbst für die höchste Autorität ansehen%} 
 <ls>MBH. 13, 21</ls>; vgl. 
-<ls>24.</ls> {#गुरु = पित्रादि#} 
+<ls n="MBH. 13,">24.</ls> {#गुरु = पित्रादि#} 
 <ls>AK. 3, 4, 25, 164.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> 

@@ -1,6 +1,6 @@
 <L>117710<pc>7-1663<k1>होतर्<k2>हो꣡तर्
 {#हो꣡तर्#}¦ nom. ag. 
-<ls>UṆĀDIS. 2, 96.</ls> <ls>P. 3, 2, 135, <is>Vārtt</is>. 1.</ls> Declination 
+<ls>UṆĀDIS. 2, 96.</ls> <ls>P. 3, 2, 135</ls>, <is>Vārtt</is>. 1. Declination 
 <ls>P. 6, 4, 11.</ls> 
 <ls>VOP. 3, 65.</ls> 
 <div n="1"> 1) {%Priester, der Hauptpriester%}, neben welchem in der frühesten Zeit nur der <is>Adhvaryu</is> thätig ist. {#यजति#} 
@@ -24,7 +24,7 @@
 <ls n="ṚV.">7, 14, 2.</ls> <ls n="ṚV. 7,">16, 12.</ls> {#विश्वभरस्#} 
 <ls n="ṚV.">4, 1, 19.</ls> {#सत्ययज्#} 
 <ls n="ṚV. 4,">3, 1.</ls> <ls n="ṚV. 4,">6, 5.</ls> <ls n="ṚV.">6, 16, 1.</ls> <ls n="ṚV.">10, 2, 1.</ls> <ls>AV. 2, 28, 2.</ls> {#अ\ग्निस्तद्धोता\ सुहु^तं कृणोतु#} 
-<ls>6, 17, 1. 18, 4, 15.</ls> — {#ऋतचित्#} 
+<ls n="AV.">6, 17, 1.</ls> <ls n="AV.">18, 4, 15.</ls> — {#ऋतचित्#} 
 <ls>ṚV. 7, 85, 4.</ls> {#मन्मसाधन#} 
 <ls n="ṚV. 7,">151, 7.</ls> {#वेदिषद्#} 
 <ls n="ṚV.">4, 40, 5.</ls> {#विश्ववेदस्#} 
@@ -73,7 +73,7 @@ z. B. {#यदन्यो जुहोति#} (nämlich der <is>Adhvaryu</is>)
 <ls>KĀTY. ŚR. 9, 13, 16.</ls> 
 <ls>LĀṬY. 7, 13, 12.</ls> {#ऋग्विद्#} 
 <ls>VAITĀN. 11. 22. 25.</ls> {#होत्रे ऽनुगृणाति, होत्रे प्रतिगृणाति, होता प्रथमं शंसति तमध्वर्युः प्रोत्साहयति#} 
-<ls>P. 1, 4, 41, Schol.</ls> <ls>M. 8, 209.</ls> <ls>HARIV. 1334.</ls> <ls n="MBH.">11360</ls> (<ls n="MBH.">11362</ls> in der älteren Ausg. fehlerhaft für {#पोतर्#}). 
+<ls>P. 1, 4, 41</ls>, Schol. <ls>M. 8, 209.</ls> <ls>HARIV. 1334.</ls> <ls n="HARIV.">11360</ls> (<ls n="HARIV.">11362</ls> in der älteren Ausg. fehlerhaft für {#पोतर्#}). 
 <ls>VP. 276.</ls> 
 <ls>BHĀG. P. 9, 11, 2.</ls> {#होतापोतारौ#} 
 <ls>Schol.</ls> zu <ls>P. 6, 3, 25.</ls> <ls>VOP. 6, 5.</ls> {#होतृधिष्ण्य#} 

@@ -9,12 +9,12 @@
 <ls n="ṚV.">4, 6, 7.</ls> <ls n="ṚV.">5, 3, 2.</ls> {#शेव#} 
 <ls n="ṚV.">1, 58, 6.</ls> <ls n="ṚV. 1,">156, 1.</ls> <ls n="ṚV. 1,">170, 5.</ls> <ls n="ṚV.">2, 4, 1.</ls> <ls n="ṚV. 2, 4,">3.</ls> {#रासि\ क्षय\ं रासि^ मि\त्रम\स्मे#} 
 <ls n="ṚV. 2,">11, 14.</ls> <ls n="ṚV.">8, 31, 14.</ls> <ls n="ṚV.">5, 52, 14.</ls> <ls n="ṚV.">10, 12, 5.</ls> <ls n="ṚV. 10,">89, 8.</ls> {#न मि\त्रं न^यते\ वश^म्#} 
-<ls>AV. 5, 19, 15. 11, 9, 2.</ls> 
+<ls>AV. 5, 19, 15.</ls> <ls n="AV.">11, 9, 2.</ls> 
 <ls>TAITT. ĀR. 10, 80</ls> (anschliessend an 
 <ls>ṚV. 5, 52, 14</ls>). <ls>KĀṬH. 27, 4.</ls> <ls>Spr. 2272.</ls> An den beiden letzten Stellen masc. wegen Wortspiels. 
 <div n="2">— b) N. eines <is>Āditya</is>, welcher gewöhnlich mit <is>Varuṇa</is> zusammen angerufen wird, zu denen häufig als dritter <is>Aryaman</is> kommt. Ueber Wesen und Attribute des Gottes vgl. 
 <ls>ROTH</ls> in <ls>Z. d. d. m. G. 6, 70</ls> und <ls>Y. MUIR, Y. A. S. n. s. I, 77. fgg.</ls> und die Lieder 
-<ls>ṚV. 3, 59.</ls> <ls n="ṚV.">5, 64-72.</ls> <ls n="ṚV.">6, 67.</ls> <ls n="ṚV.">7, 60.</ls> fgg. <ls n="ṚV.">8, 25.</ls> - <ls>NAIGH. 5, 4.</ls> <ls>NIR. 10, 21.</ls> <is>Aditi</is> heisst seine Mutter 
+<ls>ṚV. 3, 59.</ls> <ls n="ṚV.">5, 64</ls>-72. <ls n="ṚV.">6, 67.</ls> <ls n="ṚV.">7, 60.</ls> fgg. <ls n="ṚV.">8, 25.</ls> - <ls>NAIGH. 5, 4.</ls> <ls>NIR. 10, 21.</ls> <is>Aditi</is> heisst seine Mutter 
 <ls>ṚV. 8, 47, 9.</ls> {#अहर्वै मित्रो रात्रिर्वरुणः#} 
 <ls>AIT. BR. 4, 10.</ls> 
 <ls>TBR. 1, 7, 10, 1.</ls> 
@@ -92,8 +92,8 @@
 <ls>ŚAT. BR. 1, 5, 3, 17. 4, 1, 4, 8. 5, 3, 5, 13. 11, 4, 3, 20.</ls> 
 <ls>PĀR. GṚHY. 2, 7.</ls> 
 <ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1, 40.</ls> <ls>M. 3, 138. 144. 4, 253.</ls> <ls>MBH. 1, 5916.</ls> {#नास्ति भार्यासमं मित्रं नरस्यार्तस्य भेषजम्#} 
-<ls>3, 2326. 2629.</ls> {#मित्रं मिन्देर्नन्दतेः प्रीयतेर्वा संत्रायतेर्मिनुतेर्मोदतेर्वा#} 
-<ls>8, 1992.</ls> <ls>R. 1, 52, 9. 2, 68, 1.</ls> {#अमित्रो मित्ररूपेण भ्रातुस्त्वमसि#} 
+<ls n="MBH.">3, 2326.</ls> <ls n="MBH. 3,">2629.</ls> {#मित्रं मिन्देर्नन्दतेः प्रीयतेर्वा संत्रायतेर्मिनुतेर्मोदतेर्वा#} 
+<ls n="MBH.">8, 1992.</ls> <ls>R. 1, 52, 9. 2, 68, 1.</ls> {#अमित्रो मित्ररूपेण भ्रातुस्त्वमसि#} 
 <ls>3, 51, 9.</ls> <ls>MEGH. 17. 97.</ls> <ls>KĀM. NĪTIS. 4, 68.</ls> <ls>VARĀH. BṚH. S. 78, 6. 87, 13. 89, 11.</ls> {#°वरण#} {%das Wählen von Freunden%} 
 <ls>99, 6.</ls> {#औरसं कृतसंबन्धं तथा वंशक्रमागतम् । रक्षितं व्यसनेभ्यश्च मित्रं ज्ञेयं चतुर्विधम् ॥#} 
 <ls>Spr. 583.</ls> {#कर्तव्यानि च मित्राणि दुर्बलानि बलीनि च#} 
@@ -103,7 +103,7 @@
 <ls>2166. 5116.</ls> {#स्वभावजं तु यन्मित्रम्#} 
 <ls>5349.</ls> <ls>KATHĀS. 4, 55.</ls> <ls>VET. in LA. (II) 6, 3. 9, 5.</ls> <ls>HIT. 17, 17.</ls> {#सुहृन्मित्रं न लभते#} 
 <ls>MBH. 5, 1005.</ls> {#स°#} 
-<ls>7449.</ls> In der Politik heisst {%der unmittelbar an den benachbarten Fürsten gränzende Fürst - der Freund%} 
+<ls n="MBH. 5,">7449.</ls> In der Politik heisst {%der unmittelbar an den benachbarten Fürsten gränzende Fürst - der Freund%} 
 <ls>AK. 2, 8, 1, 9.</ls> 
 <ls>H. 732.</ls> 
 <ls>M. 7, 158. 164. fgg. 177. 180. 186. 206. fgg.</ls> Die Reihenfolge ist: {#अरि, मित्र, अरिमित्र, मित्रमित्र, अरिमित्रमित्र#} 

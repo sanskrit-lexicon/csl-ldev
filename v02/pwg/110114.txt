@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>adj.</lex> {%wohl geboren%} d. i. {%gut geartet, wohlgebildet; ächt%},
 <lang n="greek">γενναἶος:</lang> {#गर्भे\ सुजा^तम्#} 
 <ls>ṚV. 1, 65, 4.</ls> ({#भ्रातरः) अनु^ जायन्तां ब\हव\ः सुजा^तम् (अग्निम्#}) 
-<ls>AV. 2, 13, 5. 4, 23, 4.</ls> 
+<ls>AV. 2, 13, 5.</ls> <ls n="AV.">4, 23, 4.</ls> 
 <ls>VS. 11, 53.</ls> {#त\न्व^ः#} 
 <ls>ṚV. 1, 72, 3.</ls> {#नर्य#} 
 <ls n="ṚV.">10, 95, 10.</ls> {#शिशु#} 
@@ -40,6 +40,6 @@
 <ls>MBH. 3, 10605. fgg.</ls> - <ls>MĀRK. P. 75, 45.</ls> <ls>LALIT. ed. Calc. 331, 19. fgg.</ls> 
 <div n="1">— 4) <lex>n.</lex> {%ein schönes Geborensein%} so v. a. {%ein Geborensein unter einem glücklichen Gestirn%}: {#धन्यः कुन्तीसुतो राजा सुजातं चास्य धीमतः#} 
 <ls>MBH. 7, 445.</ls> {#सुजातं पश्य मे#} 
-<ls>8, 1828.</ls> <ls>R. 5, 13, 70.</ls> 
+<ls n="MBH.">8, 1828.</ls> <ls>R. 5, 13, 70.</ls> 
 <div n="v">— Vgl. {#सनत्°, साधुजात#} und {#सुकृत#} zur Verschiedenheit der Betonung der zwei {#सुजात#} .
 <LEND>

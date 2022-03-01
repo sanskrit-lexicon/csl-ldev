@@ -2,8 +2,8 @@
 {#सुप्रभ#}¦ 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}) {%wohl aussehend, schmuck, hübsch%}: Frauen 
 <ls>HARIV. 5255. fg.</ls> {#पद्मकिञ्जल्क°#} {%wie%} 
-<ls>MBH. 1, 981.</ls> Kuh <ls>3, 12723.</ls> Elephant 
-<ls>6, 2866.</ls> Gesicht 
+<ls>MBH. 1, 981.</ls> Kuh <ls n="MBH.">3, 12723.</ls> Elephant 
+<ls n="MBH.">6, 2866.</ls> Gesicht 
 <ls>R. 3, 30, 8.</ls> Wange 
 <ls>52, 28.</ls> {#शूल#} 
 <ls>8, 5.</ls> Schmucksachen 
@@ -21,7 +21,7 @@
 <ls>HALĀY. 1, 68.</ls> <ls>TANTRASĀRA</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— c) N. pr. einer der Mütter im Gefolge <is>Skanda's</is> 
 <ls>MBH. 9, 2628.</ls> der Gattin <is>Aṣṭāvakra's</is> 
-<ls>13, 1392.</ls> einer Fürstin 
+<ls n="MBH.">13, 1392.</ls> einer Fürstin 
 <ls>MĀRK. P. 114, 24.</ls> einer Tochter <is>Svarbhānu's</is> und Gattin <is>Namuci's</is> 
 <ls>BHĀG. P. 6, 6, 31.</ls> einer Gattin <is>Daśaratha's</is> und Mutter <is>Śatrughna's</is> 
 <ls>ŚATR. 9, 96.</ls> der Mörderin von <is>Mahāsena</is> 

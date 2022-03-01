@@ -14,7 +14,7 @@
 <ls>MED.</ls> {#ऽम्बरे#} 
 <ls>H. an.</ls> kann Druckfehler für {#ऽसुरे#} sein. 
 <div n="1">— 3) <lex>f.</lex> {#माया꣡#} 
-<ls>UṆĀDIS. 4, 109.</ls> <ls>ŚĀNT. 1, 5,</ls> <ls>Sch.</ls> 
+<ls>UṆĀDIS. 4, 109.</ls> <ls>ŚĀNT. 1, 5</ls>, <ls>Sch.</ls> 
 <div n="2"> a) {%Kunst, ausserordentliches Vermögen, Wunderkraft%} (diese Bedeutungen nur in der älteren Sprache); {%Kunstgriff, List, Anschlag, Trug, Gaukelei; ein künstliches Gebilde, Trugbild, Blendwerk, Täuschung%}; = {#प्रज्ञा, प्रज्ञान#} 
 <ls>NAIGH. 3, 9.</ls> 
 <ls>NIR. 7, 27. 12, 17.</ls> = {#बुद्धि#} 
@@ -40,7 +40,7 @@
 <ls n="ṚV. 5,">63, 3.</ls> <ls n="ṚV. 5,">78, 6.</ls> <ls n="ṚV. 5,">85, 5.</ls> <ls n="ṚV. 5, 85,">6.</ls> {#न तस्य^ मा\यया^ च\न रि\पुरी^शीत\ मर्त्य^ः#} 
 <ls n="ṚV.">8, 23, 15.</ls> {#त्वष्टा^ मा\या वे^द\पसा^म\ पस्त^मः#} 
 <ls n="ṚV.">10, 53, 9.</ls> {#यां मा\याभि^र\न्वच^रन्मनी\षिण^ः#} 
-<ls>AV. 12, 1, 8. 13, 2, 3. 8, 10, 22.</ls> 
+<ls>AV. 12, 1, 8.</ls> <ls n="AV.">13, 2, 3.</ls> <ls n="AV.">8, 10, 22.</ls> 
 <ls>VS. 13, 44. 23, 52. 30, 7.</ls> {#देवा असुरानुपासचन्तोतेव युद्धेनोतेव मायया#} 
 <ls>AIT. BR. 6, 36. 8, 23.</ls> {#यज्ञस्य#} 
 <ls>TBR. 3, 10, 8, 2.</ls> 
@@ -67,7 +67,7 @@
 <ls>15.</ls> {#भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया#} 
 <ls>18, 61.</ls> {#पुरा विकुरुते मायाम्#} 
 <ls>MBH. 1, 6029.</ls> <ls n="MBH. 1,">7631.</ls> <ls n="MBH.">3, 2557.</ls> {#अग्निर्हि प्रमदा दीप्तो मायाश्च मयजा विभो#} 
-<ls>13, 2250.</ls> <ls>R. 5, 78, 11</ls> (pl.). {#येन (मयपुत्रेण बलेन) ह वा इह सृष्टाः षण्णवतिर्माया याः काश्चनाद्यापि मायाविनो धारयन्ति#} 
+<ls n="MBH.">13, 2250.</ls> <ls>R. 5, 78, 11</ls> (pl.). {#येन (मयपुत्रेण बलेन) ह वा इह सृष्टाः षण्णवतिर्माया याः काश्चनाद्यापि मायाविनो धारयन्ति#} 
 <ls>BHĀG. P. 5, 24, 16.</ls> 
 <ls>ŚĀK. 137.</ls> 
 <ls>RAGH. 2, 62.</ls> {#निदधे रावणः सीतां मयो मायामिवासुरः#} 
@@ -75,7 +75,7 @@
 <ls>HARIV. 6614.</ls> {#°दर्शन#} 
 <ls>Verz. d. Oxf. H. 34,a,17.</ls> {#मायां मोहिनीं समुपाश्रितः#} 
 <ls>MBH. 1, 1156.</ls> {#अप्सरा देवकन्या वा माया#} 
-<ls>3, 15580.</ls> {#तामापतन्तीं मायाम्#} 
+<ls n="MBH.">3, 15580.</ls> {#तामापतन्तीं मायाम्#} 
 <ls>HARIV. 9377.</ls> {#सैंही, सिंह°#} {%ein Trugbild in der Gestalt eines Löwen%} 
 <ls n="HARIV.">9378. fgg.</ls> <ls>Verz. d. Oxf. H. 59,b,19. fgg.</ls> {#°मृग#} {%ein Trugbild von einer Gazelle, keine wirkliche Gazelle%} 
 <ls>R. 3, 49, 21. 50, 9. 6, 82, 105.</ls> {#°गज#} 
@@ -100,8 +100,8 @@
 <ls>VP. 56.</ls> als Tochter <is>Adharma's</is> 
 <ls>BHĀG. P.</ls> in <ls>VP. 55, N. 14.</ls> Nach <ls>H. an.</ls> soll {#माया#} auch = {#कृपा#} {%Mitleid%} sein. 
 <div n="2">— b) angeblicher Name der Mutter <is>Śākyamuni's</is> 
-<ls>H. 237,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 237</ls>, <ls>Sch.</ls> 
+
 <ls>HIOUEN-THSANG 1, 325. 343.</ls> Vie de 
 <ls>HIOUEN-THSANG 110. 127.</ls> <ls>SCHIEFNER, Lebensb. 234 (4.).</ls> Vgl. {#°देवी#} . 
 <div n="2">— c) mystische Bezeichnung bestimmter Buchstaben 

@@ -20,11 +20,11 @@
 <ls n="ṚV.">1, 110, 7.</ls> {#धामानि#} 
 <ls n="ṚV.">3, 55, 10.</ls> <ls n="ṚV.">4, 5, 4.</ls> {#नामन्#} 
 <ls n="ṚV.">7, 56, 10.</ls> <ls>AV. 4, 22, 4.</ls> {#ब\र्हिः प्रि\यं हृदः#} 
-<ls>12, 3, 32.</ls> {#अ\स्मे भ\द्राणि^ सश्चत प्रि\याणि^#} 
+<ls n="AV.">12, 3, 32.</ls> {#अ\स्मे भ\द्राणि^ सश्चत प्रि\याणि^#} 
 <ls>ṚV. 7, 26, 4.</ls> {#यस्मि^न्ना\जा भव^ति\ किं च\न प्रि\यम्#} 
 <ls n="ṚV. 7,">83, 2.</ls> <ls n="ṚV.">8, 24, 4.</ls> {#तृ\तीये^ चक्रे\ रज^सि प्रि\याणि^#} 
 <ls>AV. 13, 1, 11.</ls> {#प्रि\यं प्रि\याणा^ं कृणवाम#} 
-<ls>12, 3, 49.</ls> <ls>VS. 23, 19.</ls> {#नामधेय#} 
+<ls n="AV.">12, 3, 49.</ls> <ls>VS. 23, 19.</ls> {#नामधेय#} 
 <ls>ŚAT. BR. 13, 1, 6, 1.</ls> {#स्त्रीणां प्रियो भावुकः#} 
 <ls>13, 1, 9, 8. 14, 7, 1, 21. 5, 4, 5. 9, 1, 1, 22. 2, 3, 50.</ls> <ls>ĀŚV. GṚHY. 2, 10.</ls> <ls>TS. 2, 2, 11, 5.</ls> {#अप^ प्रि\यम^र्शसा\नस्य\ शिरो^ भरद्दा\सस्य^#} 
 <ls>ṚV. 2, 20, 6.</ls> {#रथ#} 
@@ -79,14 +79,14 @@
 <ls>Spr. 1496. 1923 - 1925.</ls> <ls>VID. 12.</ls> mit einem ablat. {%lieber als%}: {#ननु ते - प्रियाहं प्राणेभ्यो ऽपि#} 
 <ls>R. GORR. 2, 66, 29.</ls> <ls>KATHĀS. 4, 125.</ls> In comp. mit seinem subst.: {#°सुहृद्#} {%ein lieber Freund%} 
 <ls>HIT. 14, 21. 26, 13. 27, 13.</ls> am Anf. eines <lex>adj.</lex> comp. 
-<ls>P. 2, 2, 35, <is>Vārtt</is>. 2.</ls> {#°गुड#} {%dem Zucker lieb ist, ein Freund von Zucker%} 
+<ls>P. 2, 2, 35</ls>, <is>Vārtt</is>. 2. {#°गुड#} {%dem Zucker lieb ist, ein Freund von Zucker%} 
 <ls>Sch.</ls> {#°देवन#} {%ein Freund vom Spiel%} 
 <ls>MBH. 4, 23.</ls> {#°मण्डना#} 
 <ls>ŚĀK. 84.</ls> 
 <ls>RAGH. 12, 81.</ls> 
 <ls>VARĀH. BṚH. S. 69, 20. 74, 8. 101, 1</ls> (= <ls>BṚH. 16, 1</ls>). <ls>LAGHUJ. 2, 14.</ls> <ls>BṚH. 12, 17. 17, 11.</ls> <ls>VID. 255.</ls> {#°विश्व#} 
-<ls>P. 1, 1, 29,</ls> 
-<ls>Sch.</ls> am Ende eines comp.: {#सर्वलोक°#} {%Jedermann lieb, ein Liebling Aller%} 
+<ls>P. 1, 1, 29</ls>, <ls>Sch.</ls>
+am Ende eines comp.: {#सर्वलोक°#} {%Jedermann lieb, ein Liebling Aller%} 
 <ls>R. 1, 1, 16. 6, 1. 2, 42, 4.</ls> 
 <ls>DAŚ. 2, 70.</ls> 
 <ls>SĀV. 5, 95.</ls> 
@@ -156,8 +156,8 @@
 <div n="3">— β) {#प्रिय꣡तम#} 
 <ls>ṚV. 7, 62, 4.</ls> <ls n="ṚV. 7,">95, 5.</ls> <ls n="ṚV.">10, 17, 6.</ls> 
 <ls>AV. 5, 28, 6.</ls> {#अ\यं लो\कः प्रि\यत^मो दे\वाना\मप^राजितः#} 
-<ls>30, 17.</ls> {#तनूः#} 
-<ls>14, 2, 50.</ls> <ls>ŚAT. BR. 5, 4, 2, 8. 12, 4, 3, 8.</ls> {#प्रियात्प्रियतमं (°तरं?) लब्धं मया#} 
+<ls n="AV. 5,">30, 17.</ls> {#तनूः#} 
+<ls n="AV.">14, 2, 50.</ls> <ls>ŚAT. BR. 5, 4, 2, 8. 12, 4, 3, 8.</ls> {#प्रियात्प्रियतमं (°तरं?) लब्धं मया#} 
 <ls>R. 6, 107, 21.</ls> <lex>m.</lex> {%der Liebste, Geliebte, Gatte%} 
 <ls>MEGH. 32. 71.</ls> 
 <ls>Spr. 405. 3178.</ls> {#प्रियतमा#} {%die Liebste, Geliebte, Gattin%} 
@@ -174,7 +174,7 @@
 <ls n="ṚV.">3, 23, 3.</ls> {#होता^र\ं सद्म^सु प्रि\यम्#} 
 <ls n="ṚV.">5, 23, 3.</ls> {#यः प्रि\यं त्वा^ कृ\णव^ते ह\विष्मा^न्#} {%wer deine Liebe zu gewinnen weiss als Opferbringer%} 
 <ls n="ṚV.">4, 2, 8.</ls> In comp. mit dem obj. 
-<ls>P. 2, 2, 35, <is>Vārtt</is>. 2.</ls> {#गुड°#} 
+<ls>P. 2, 2, 35</ls>, <is>Vārtt</is>. 2. {#गुड°#} 
 <ls>Schol.</ls> {#परोक्षप्रिया #}
 [Page4-1162]
 {# इव हि देवाः प्रत्यक्षद्विषः#} 

@@ -151,7 +151,7 @@
 <div n="1"> 1) {%hinschauen%} 
 <ls>R. 5, 55, 17.</ls> {%hinschauen auf, - nach, anblicken, anschauen%} 
 <ls>MBH. 2, 775.</ls> {#सर्वा दिशः#} 
-<ls>3, 16850.</ls> <ls>R. 3, 79, 1.</ls> {%vor Augen haben, in Betracht ziehen%} 
+<ls n="MBH.">3, 16850.</ls> <ls>R. 3, 79, 1.</ls> {%vor Augen haben, in Betracht ziehen%} 
 <ls>MBH. 8, 2153.</ls> 
 <ls>HARIV. 6338.</ls> 
 <ls>SĀH. D. 45, 19.</ls> 

@@ -1,6 +1,6 @@
 <L>101935<pc>7-0395<k1>श्रैष्ठ्य<k2>श्रै꣡ष्ठ्य
 {#श्रै꣡ष्ठ्य#}¦ (von {#श्रेष्ठ#}) <lex>n.</lex> {%Vorrang, die erste Stelle%}: {#स\जा\ताना^म्#} 
-<ls>AV. 1, 9, 3. 10, 6, 31.</ls> 
+<ls>AV. 1, 9, 3.</ls> <ls n="AV.">10, 6, 31.</ls> 
 <ls>AIT. BR. 4, 25. 7, 18.</ls> 
 <ls>TS. 2, 4, 5, 2. 5, 6, 7, 3.</ls> 
 <ls>TBR. 3, 8, 9, 1.</ls> {#भूतानां श्रैष्ठ्यं पर्यैत्#} 
@@ -17,7 +17,7 @@
 <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> {#प्रकृति°#} 
 <ls>M. 10, 3.</ls> {#वर्ण°#} 
 <ls>MBH. 7, 156.</ls> {#कारण°#} (so ed. Bomb.) 
-<ls>12, 11039.</ls> {#ज्ञाति°#} {%unter den Blutsverwandten%} 
+<ls n="MBH.">12, 11039.</ls> {#ज्ञाति°#} {%unter den Blutsverwandten%} 
 <ls>YĀJÑ. 1, 262.</ls> 
 <ls>MBH. 13, 5057.</ls> {#स्वजन°#} 
 <ls>MĀRK. P. 33, 10.</ls>

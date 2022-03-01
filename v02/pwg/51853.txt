@@ -1,8 +1,8 @@
 <L>51853<pc>5-0024<k1>बर्ह्<k2>बर्ह्<h>1
 1. {#बर्ह्#}¦ {#(वर्ह), बृह꣡ति#} 
 <ls>DHĀTUP. 28, 57.</ls> {#ववर्ह, बर्हीत्, अवृक्षाम#}; partic. {#बृढ#} 
-<ls>P. 6, 3, 111,</ls> 
-<ls>Sch.</ls> Die Schreibung schwankt zwischen {#ब#} und {#व#} und zwar nicht bloss zwischen verschiedenen Büchern, sondern auch innerhalb desselben Buchs; so hat 
+<ls>P. 6, 3, 111</ls>, <ls>Sch.</ls>
+Die Schreibung schwankt zwischen {#ब#} und {#व#} und zwar nicht bloss zwischen verschiedenen Büchern, sondern auch innerhalb desselben Buchs; so hat 
 <ls>ṚV.</ls> {#ब#} bei den Formen mit {#नि, व#} bei den Verbindungen mit {#आ, उद्, प्र#}, während 
 <ls>TS.</ls> und <ls>ŚAT. BR.</ls> bei {#आ#} stets {#ब#}, bei {#उद्#} stets {#व#} zeigen. Es ist nicht unwahrscheinlich, dass die ältere Form der Wurzel die mit {#व#} ist; vgl. {%vellere.%} Ohne Präp. nur in der Verbindung mit {#मूल#} gebraucht: {%ausreissen%}: {#वृहति मूलानि#} (zur etym. Erkl. von {#वराह)#} 
 <ls>NIR. 5, 4.</ls> {#मूल^मेषामवृक्षा\मेति^ । तन्मू^ल\वर्हणी#} 
@@ -33,14 +33,14 @@
 <ls>3, 3, 4, 25.</ls> <ls>KĀTY. ŚR. 7, 9, 26.</ls> {#उद्वृढः प्रस्तरः#} 
 <ls>22, 10, 24.</ls> {#स चापि केशौ हरिरुद्ववर्ह शुक्लमेकमपरं चापि कृष्णम्#} 
 <ls>MBH. 1, 7307.</ls> {#उद्ववर्ह रथाच्चापि पन्नगं गरुडो यथा#} 
-<ls>7, 4124.</ls> {#निस्त्रिंशम्#} {%aus der Scheide ziehen%} 
-<ls>6, 2261. 7, 550.</ls> <ls>BHAṬṬ. 14, 8.</ls> {#शक्तिम्#} 
+<ls n="MBH.">7, 4124.</ls> {#निस्त्रिंशम्#} {%aus der Scheide ziehen%} 
+<ls n="MBH.">6, 2261.</ls> <ls n="MBH.">7, 550.</ls> <ls>BHAṬṬ. 14, 8.</ls> {#शक्तिम्#} 
 <ls>17, 90.</ls> {#उद्ववर्हात्मनश्चैव मनः सदसदात्मकम्#} 
 <ls>M. 1, 14.</ls>
 
 <div n="p">— {#समुद्#} {%herausziehen%}: {#शरान्दशाष्टौ च समुद्ववर्ह#} 
 <ls>MBH. 8, 4586.</ls> {#(खड्गम्) कोशात्समुद्ववर्हाशु विलाद्दीप्तमिवोरगम्#} 
-<ls>10, 230.</ls>
+<ls n="MBH.">10, 230.</ls>
 
 <div n="p">— {#नि#} {%niederschleudern, hinstürzen%} (trans.). {%zu Boden schmettern%} 
 <ls>NAIGH. 2, 19.</ls> {#दस्यू^न्पृथि\व्यां शर्वा\ नि ब^र्हीत्#} 

@@ -5,8 +5,8 @@
 <ls>LIA. I, 115. fgg.</ls> {#मालवाः#} 
 <ls>TRIK. 2, 1, 9.</ls> 
 <ls>H. 956.</ls> 
-<ls>P. 5, 3, 114, 114,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 3, 114</ls>, <ls n="P. 5, 3,">114</ls>, <ls>Sch.</ls> 
+
 <ls>AV. PARIŚ.</ls> in <ls>Verz. d. B. H. 93.</ls> <ls>MBH. 2, 1189.</ls> <ls n="MBH. 2,">1871.</ls> <ls n="MBH.">3, 1991.</ls> <ls n="MBH.">6, 370</ls> (<ls>VP. 193</ls>). <ls>3853. 4808.</ls> <ls>HARIV. 8019.</ls> <ls n="HARIV.">8099.</ls> <ls n="HARIV.">12832.</ls> <ls>VARĀH. BṚH. S. 14, 27. 16, 26. 32, 19. 69, 11.</ls> <ls>VP. 177.</ls> <ls>MĀRK. P. 58, 45.</ls> <ls>PRAB. 88, 1.</ls> <ls>HALL</ls> in der Einl. zu <ls>VĀSAVAD. 51.</ls> von der <is>Mālavī</is>, Gemahlin <is>Aśvapati's</is>, abgeleitet 
 <ls>MBH. 3, 16807.</ls> sg. <ls>KATHĀS. 10, 6. 21, 106. 58, 81. fg. 62, 172. 65, 65.</ls> <ls>WASSILJEW 44. 45. 52. 54. 56.</ls> {#मालवस्यार्ध#} 
 <ls>Verz. d. Oxf. H. 339,b,2.</ls> {#°स्त्री#} 
@@ -20,8 +20,8 @@
 <ls>Verz. d. B. H. No. 822.</ls> <ls>Verz. d. Oxf. H. 211,a,25.</ls> 
 <div n="1">— 2) <lex>adj.</lex> {%zu den%} <is>Mālava</is> {%in Beziehung stehend%}: {#नृपति#} {%Fürst der%} <is>Mālava</is> 
 <ls>VARĀH. BṚH. S. 4, 24.</ls> m. dass. <ls>MBH. 7, 8708.</ls> <ls n="MBH. 7,">9400.</ls> <ls>HARIV. 5016.</ls> <ls n="HARIV.">5496.</ls> <ls n="HARIV.">5498.</ls> <ls>DAŚAK. 96, 3.</ls> {#मालवी#} <lex>f.</lex> {%eine Prinzessin der%} <is>Mālava</is> 
-<ls>P. 5, 3, 114,</ls> 
-<ls>Sch.</ls> Gattin <is>Aśvapati's</is> und Ahnfrau der <is>Mālava</is> 
+<ls>P. 5, 3, 114</ls>, <ls>Sch.</ls>
+Gattin <is>Aśvapati's</is> und Ahnfrau der <is>Mālava</is> 
 <ls>SĀV. 1, 19</ls> (fälschlich {#मानवी#} 
 <ls>MBH. 3, 16637</ls>). <ls>MBH. 3, 16807.</ls> 
 <div n="1">— 3) <lex>m.</lex> N. eines <is>Rāga</is> (musik.) 
@@ -33,6 +33,6 @@
 <div n="1">— 6) <lex>f.</lex> {#ई#} 
 <div n="2"> a) {%eine Prinzessin der%} <is>Mālava</is>; s. u. 2. 
 <div n="2">— b) {%ein best. <is>Prākrit</is>-Metrum%}: 
-<ls>16+12+16+12</ls> {%Moren%} 
+16+12+16+12 {%Moren%} 
 <ls>COLEBR. Misc. Ess. II,157(b,49).</ls>
 <LEND>

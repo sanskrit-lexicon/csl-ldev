@@ -2,7 +2,7 @@
 {#अ꣡पि#}¦
 <lang n="greek">ἐπί</lang> <is>Upasarga</is> (
 <ls>NIR. 1, 3.</ls>) und <is>Gati</is> <is>gaṇa</is> {#प्रादि#} (vgl. 
-<ls>P. 1, 4, 59. 60.</ls>) <ls>VOP. 1, 8.</ls> <is>Karmapravacaniya</is> 
+<ls>P. 1, 4, 59.</ls> <ls n="P. 1, 4,">60.</ls>) <ls>VOP. 1, 8.</ls> <is>Karmapravacaniya</is> 
 <ls>P. 1, 4, 96.</ls> 
 <div n="1"> 1) ein an Verbalwurzeln u. nomm. antret. adv. (praep.), {%Erlangung, Verbindung%} und {%Anschliessung%} bezeichnend, 
 <ls>NIR. 1, 3.</ls> So ausgedehnt der Gebrauch des sogleich zu besprechenden selbständigen {#अपि#} ist, so beschränkt der des angelehnten. Schon früh scheint dieses durch {#अभि#} verdrängt worden zu sein. Vgl. u. d. Wurzeln {#अस्, इ, गम्, गर्, ग्रह्, जू, धा, नह्, बन्ध्, या, वत्, शस्#} u. s. w. und die mit {#अपि#} anlautenden Zusammenss. Der Anlaut dieses {#अपि#} fällt nicht selten ab, 
@@ -11,7 +11,7 @@
 <ls>ṚV. 5, 46, 7.</ls> {#तेषा^ं व\यं सु^म\तौ य\ज्ञिया^ना\मपि^ भ\द्रे सौ^मन\से स्याम#} 
 <ls n="ṚV.">10, 14, 6.</ls> {#सं ते^ मा\ंसस्य\ विस्र^स्त\ं समस्थ्यपि^ रोहतु#} 
 <ls>AV. 4, 12, 3.</ls> {#ऋ\तं ह्य^स्या\मर्पि^त\सपि ब्रह्माथो\ तप^ः#} 
-<ls>10, 10, 33.</ls> {#साक्षिप्रश्नविधानं च धर्मं स्त्रीपुंसयोरपि । विभागधर्मं द्यूतं च कण्टकानां च शोधनम् ॥#} 
+<ls n="AV.">10, 10, 33.</ls> {#साक्षिप्रश्नविधानं च धर्मं स्त्रीपुंसयोरपि । विभागधर्मं द्यूतं च कण्टकानां च शोधनम् ॥#} 
 <ls>M. 1, 115.</ls> {#क्षेम्यां सस्यप्रदां नित्यं पशुवृद्धिकरीमपि#} 
 <ls>7, 212.</ls> {#पित्र्ये स्वदितमित्येव वाच्यं गोष्ठे तु सुश्रुतम् । संपन्नमित्यभ्युदये दैवे रुचितमित्यपि ॥#} 
 <ls>3, 254.</ls> {#हिमवद्विन्ध्ययोर्मध्यं यत्प्राग्विनशनादपि । प्रत्यगेव प्रयागाच्च#} 
@@ -21,8 +21,8 @@
 <ls>M. 12, 4.</ls> 
 <ls>H. 11.</ls> {#अपि - अपि#} {%sowohl - als auch%} 
 <ls>HIT. I, 159.</ls> {#अपि स्तुहि अपि सिञ्ज#} 
-<ls>P. 1, 4,96,</ls> 
-<ls>Sch.</ls>
+<ls>P. 1, 4, 96</ls>, <ls>Sch.</ls>
+
 [Page1-0304]
 {#अपि - च#} dass. 
 <ls>M. 5, 23.</ls> {#न - नापि - न चैव#} u. s. w. 
@@ -75,7 +75,7 @@
 <ls>AK. 3, 4, 32,</ls> (<ls>COL. 28,) 10.</ls> <ls>H. an. 7, 33.</ls> <ls>MED. avy. 47.</ls> 
 <div n="1">— 3) {%auch%}, mit einigem Nachdruck das vorangehende Wort hervorhebend: {#न तस्य^ वा\च्यपि^ भा\गो अ^स्ति#} 
 <ls>ṚV. 10, 71, 6.</ls> {#तेना\स्माँ अपि\ सं सृ^ज#} 
-<ls>AV. 12, 1, 25. 4.</ls> {#देवलोके मे\ ऽप्यसदि\ति वै\ यजते यो य\जते#} 
+<ls>AV. 12, 1, 25.</ls> <ls n="AV. 12, 1,">4.</ls> {#देवलोके मे\ ऽप्यसदि\ति वै\ यजते यो य\जते#} 
 <ls>ŚAT. BR. 1. 9, 1, 16. 2, 3, 2. 5, 4. 9. 9, 2, 17.</ls> {#त\दिदम\प्येत\र्हि#} 
 <ls>1, 1, 4, 13. 2, 3, 7. 4, 13.</ls> u. s. w. {#वैश्वदेवे तु निर्वृत्ते यद्यन्यो ऽतिथिराव्रजेत् । तस्याप्यन्नं यथाशक्ति प्रदद्यात्#} 
 <ls>M. 3, 108.</ls> {#य एते तु गुणा मुख्याः पितॄणां परिकीर्तिताः । तेषामपीह विज्ञेयं पुत्रपौत्रमनन्तकम् ॥#} 
@@ -132,17 +132,17 @@
 <ls>N. 13, 34.</ls> {#अप्यर्कमपि पर्जन्यमपि वैवस्वतं यमम् । रणे योधयितुं शक्तः#} 
 <ls>R. 5, 37, 17.</ls> {#सीतामपि मृत्युमुखागताम्#} 
 <ls>4, 45, 9.</ls> <ls>DAŚ. 2, 22.</ls> <ls>HIT. I, 125.</ls> {#अपि स्तुयाद्राजानम्#} 
-<ls>P. 1, 4, 96,</ls> 
-<ls>Sch.</ls> {#अपि गिरिं शिरसा भिन्द्यात्#} 
+<ls>P. 1, 4, 96</ls>, <ls>Sch.</ls>
+{#अपि गिरिं शिरसा भिन्द्यात्#} 
 <ls>3, 3, 154</ls>, <ls>Sch.</ls> (dieses {#अपि#} mit dem potent. ist das {#अपि संभावने#} oder {#संभावनायाम्#} 
-<ls>P. 1, 4, 96. 3, 3, 154.</ls> 
+<ls>P. 1, 4, 96.</ls> <ls n="P.">3, 3, 154.</ls> 
 <ls>VOP. 25, 17.</ls> 
-<ls>AK. 3, 4, 32,</ls> <ls>[COL. 28,] 10.</ls> <ls>H. an. 7, 33.</ls> <ls>MED. avy. 47.</ls> Hierher gehört wohl auch das {#अपि अर्हे#} 
+<ls>AK. 3, 4, 32</ls>, <ls>[COL. 28,] 10.</ls> <ls>H. an. 7, 33.</ls> <ls>MED. avy. 47.</ls> Hierher gehört wohl auch das {#अपि अर्हे#} 
 <ls>H. an. 7, 33.</ls>) {#अपि जायां त्यजति#} 
-<ls>P. 3, 3, 142,</ls> 
-<ls>Sch.</ls> {#अपि सिञ्जेत्पलाण्डुं धिग्देवदत्तम्#} 
+<ls>P. 3, 3, 142</ls>, <ls>Sch.</ls>
+{#अपि सिञ्जेत्पलाण्डुं धिग्देवदत्तम्#} 
 <ls>1, 4, 96</ls>, <ls>Sch.</ls> ({#अपि गर्हायाम्#} 
-<ls>P. 1, 4, 96. 3, 3, 142.</ls> 
+<ls>P. 1, 4, 96.</ls> <ls n="P.">3, 3, 142.</ls> 
 <ls>AK.</ls> 
 <ls>H. an.</ls> 
 <ls>MED. avy.</ls> {#अपि निन्दसि शंकरम्#} 
@@ -197,7 +197,7 @@
 <ls>RAGH. 12, 93.</ls> 
 <ls>AK. 2, 1, 5.</ls> 
 <ls>KĀŚ.</ls> beim <is>gaṇa</is> {#सर्वादि#}.{# द्वयमपि#} {%Beides%} 
-<ls>SIDDH. K.</ls> zu <ls>P.3,3,19.</ls> <ls>H.18.</ls> {#त्रीणामपि समुद्राणां#} ({%aller drei Meere%}) {#युगान्तेषु समागमः#} ved. 
+<ls>SIDDH. K.</ls> zu <ls>P. 3, 3, 19.</ls> <ls>H. 18.</ls> {#त्रीणामपि समुद्राणां#} ({%aller drei Meere%}) {#युगान्तेषु समागमः#} ved. 
 <ls>KĀŚ.</ls> zu <ls>P. 7, 1, 53.</ls> {#त्रयाणामप्युपायानां पूर्वोक्तानामसंभवे#} 
 <ls>M. 7, 200.</ls> {#त्रयाणामपि लोकानाम्#} 
 <ls>R. 1, 21, 11. 3, 18, 46.</ls> (vgl. im <is>Pāli</is>: {#तिसूपि लोकधातुसु#}, was 
@@ -222,8 +222,8 @@
 <ls>M. 10, 82.</ls> 
 <ls>DAŚ. 2, 36.</ls> 
 <ls>ŚĀK. 109, 16.</ls> 
-<ls>P. 1, 1, 57,</ls> 
-<ls>Sch.</ls> {#उभावपि हि तौ धर्मौ#} 
+<ls>P. 1, 1, 57</ls>, <ls>Sch.</ls>
+{#उभावपि हि तौ धर्मौ#} 
 <ls>M. 2, 14. 8, 377. 10, 68.</ls> 
 <ls>VET. 27, 16.</ls> {#उभयमपि#} 
 <ls>ŚĀK. 97, 4.</ls> {#सर्वेष्वेव चतुर्ष्वपि#} 
@@ -233,7 +233,7 @@
 <ls>VID. 70.</ls> Dieselbe Kraft hat {#अपि#} auch nach {#अशेषतः#} 
 <ls>M. 8, 37.</ls> Vielleicht ist auch hierher zu ziehen: {#अन्ये ऽपि#} {%alle andern, die übrigen%} 
 <ls>VID. 196.</ls> {#अन्येषामपि#} {%der übrigen%} 
-<ls>SIDDH. K.</ls> zu <ls>P. 1,2,36.</ls> {#परे ऽपि#} {%die übrigen%} 
+<ls>SIDDH. K.</ls> zu <ls>P. 1, 2, 36.</ls> {#परे ऽपि#} {%die übrigen%} 
 <ls>H. 131.</ls> und sogar 
 <ls>N. 20, 13</ls> : {#त्वमिव यन्ता नान्यो ऽस्ति पृथिव्यामपि#} ({%auf der ganzen Erde%}). Im letzten Beispiel können wir uns allenfalls auch mit {#अपि#} {%sogar%} zufriedenstellen. 
 <div n="1">— 10) Fragepartikel am Anfange eines Satzes: {#अपि मां व्यसनादस्मात्सुघोरादुद्धरिष्यति#} 

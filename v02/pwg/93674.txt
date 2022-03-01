@@ -3,13 +3,13 @@
 <div n="1"> 1) <lex>m.</lex> 
 <ls>VS. PRĀT. 3, 101.</ls> <ls n="VS. PRĀT.">5, 37.</ls> 
 <ls>AV. PRĀT. 3, 9.</ls> 
-<ls>P. 6, 3, 130. 2, 106, <is>Vārtt</is>. 1. 165, <is>Vārtt</is>.</ls> N. pr. eines berühmten <is>Ṛṣi</is>, mit dem patron. <is>Gāthina</is> (<is>Gādheya</is>), öfters zusammen mit <is>Jamadagni</is> genannt, Hauptverfasser von 
+<ls>P. 6, 3, 130.</ls> <ls n="P. 6,">2, 106</ls>, <is>Vārtt</is>. 1. <ls n="P. 6, 2,">165</ls>, <is>Vārtt</is>. N. pr. eines berühmten <is>Ṛṣi</is>, mit dem patron. <is>Gāthina</is> (<is>Gādheya</is>), öfters zusammen mit <is>Jamadagni</is> genannt, Hauptverfasser von 
 <ls>ṚV. 3.</ls> 
 <ls>NIR. 2, 24.</ls> 
 <ls>TRIK. 2, 7, 20.</ls> 
 <ls>H. 850.</ls> 
 <ls>ṚV. 3, 53, 7.</ls> <ls n="ṚV. 3, 53,">12.</ls> <ls n="ṚV.">10, 167, 4.</ls> 
-<ls>AV. 4, 29, 5. 18, 3, 15. fg.</ls> 
+<ls>AV. 4, 29, 5.</ls> <ls n="AV.">18, 3, 15. fg.</ls> 
 <ls>AIT. BR. 6, 18. 20. 7, 16. fg.</ls> 
 <ls>ŚAT. BR. 14, 5, 2, 6.</ls> 
 <ls>TS. 3, 1, 7, 3.5, 2, 3, 4.</ls> 
@@ -41,7 +41,7 @@
 <ls>PAT.</ls> zu <ls>P. 4, 3, 133.</ls> {#विश्वामित्रस्याज्यदोहम्#} und {#विश्वामित्रस्यात्यर्धः#} Namen von <is>Sāman</is> 
 <ls>Ind. St. 3,237,a.</ls> pl. <is>Viśvāmitra's</is> {%Geschlecht%} 
 <ls>ṚV. 3, 1, 21.</ls> <ls n="ṚV. 3,">18, 4.</ls> <ls n="ṚV. 3,">53, 13.</ls> <ls n="ṚV.">10, 89, 17.</ls> 
-<ls>AV. 18, 3, 6. 4, 54.</ls> 
+<ls>AV. 18, 3, 6.</ls> <ls n="AV. 18,">4, 54.</ls> 
 <ls>PRAVARĀDHY.</ls> in <ls>Verz. d. B. H. 56, 34. fgg.</ls> Etymologie des Namens 
 <ls>MBH. 13, 4493.</ls> 
 <ls>MĀRK. P. 8, 234.fg.</ls> 

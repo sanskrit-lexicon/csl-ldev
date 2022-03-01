@@ -1,8 +1,8 @@
 <L>12279<pc>1-0987<k1>उपाध्याय<k2>उपाध्याय
 {#उपाध्याय#}¦ (von 3. {#इ#} mit {#उप + अधि#}) 
 <div n="1"> 1) <lex>m.</lex> {%Lehrer%} 
-<ls>P. 3, 3, 21,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 21</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 26, 170.</ls> 
 <ls>AK. 2, 7, 6.</ls> 
 <ls>H. 78.</ls> {#उपाध्यायाय भैक्षं प्रयच्छति#} 
@@ -15,11 +15,11 @@
 <ls>ŚĀK. 61, 11. 64, 12.</ls> {#अश्वः सोपाध्यायः#} {%mit einem Bereiter%} 
 <ls>R. 1, 11, 13.</ls> 
 <div n="1">— 2) <lex>f.</lex> {#°या#} {%Lehrerin%} 
-<ls>P. 3, 3, 21, <is>Vārtt</is>. 1. 4, 1, 49, <is>Vārtt</is>. 4.</ls> 
+<ls>P. 3, 3, 21</ls>, <is>Vārtt</is>. 1. <ls n="P.">4, 1, 49</ls>, <is>Vārtt</is>. 4. 
 <ls>AK. 2, 6, 1, 14.</ls> 
 <ls>H. 524.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#°यी꣡#} {%Lehrerin%} und {%Frau eines Lehrers%} 
-<ls>P. 3, 3, 21, <is>Vārtt</is>. 1.</ls> 
+<ls>P. 3, 3, 21</ls>, <is>Vārtt</is>. 1. 
 <ls>VOP. 4, 24.</ls> 
 <ls>AK. 2, 6, 1, 14. 15.</ls> 
 <ls>H. 523. 524.</ls> Vgl. {#उपाध्यायानी#} .

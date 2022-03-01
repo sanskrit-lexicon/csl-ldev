@@ -1,11 +1,11 @@
 <L>53743<pc>5-0167<k1>भक्ष<k2>भक्ष꣡
 {#भक्ष꣡#}¦ (von {#भक्ष्)#} <lex>m.</lex> <is>gaṇa</is> {#उञ्छादि#} zu 
-<ls>P.6,1,160.</ls> <ls>SIDDH. K. 229,a,11.</ls> {%Genuss (Trinken%} oder {%Essen); Trank, Speise%} (die letztere Bed. in jüngeren Büchern): {#अत्रा^ चिन्नो मधो पि\तो ऽरं भ\क्षाय^ गम्याः#} 
+<ls>P. 6, 1, 160.</ls> <ls>SIDDH. K. 229,a,11.</ls> {%Genuss (Trinken%} oder {%Essen); Trank, Speise%} (die letztere Bed. in jüngeren Büchern): {#अत्रा^ चिन्नो मधो पि\तो ऽरं भ\क्षाय^ गम्याः#} 
 <ls>ṚV. 1, 187, 7.</ls> {#सोमस्य#} 
-<ls>8, 21, 23.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4, 4, 110.</ls> {#मधु^नः#} 
+<ls n="ṚV.">8, 21, 23.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 4, 4, 110.</ls> {#मधु^नः#} 
 <ls>ṚV. 8, 89, 2.</ls> <ls n="ṚV.">10, 34, 1.</ls> <ls n="ṚV. 10,">148, 3.</ls> <ls n="ṚV. 10,">167, 4.</ls> {#यासा^ं#} ({#अपां#}) {#दे\वा दि\वि कृ\ण्वन्ति^भ\क्षम्#} 
-<ls>AV. 1, 33, 3. 8, 7, 12. 9, 4, 5.</ls> {#अ\मृत^स्य#} 
-<ls>13, 2, 15. 18, 3, 54.</ls> <ls>VS. 8, 12.</ls> {#तयो^र\हमनु^ भ\क्षं भ^क्षयामि#} 
+<ls>AV. 1, 33, 3.</ls> <ls n="AV.">8, 7, 12.</ls> <ls n="AV.">9, 4, 5.</ls> {#अ\मृत^स्य#} 
+<ls n="AV.">13, 2, 15.</ls> <ls n="AV.">18, 3, 54.</ls> <ls>VS. 8, 12.</ls> {#तयो^र\हमनु^ भ\क्षं भ^क्षयामि#} 
 <ls>37. 19, 29.</ls> <ls>AIT. BR. 1, 22. 3, 32.</ls> {#त्रयाणां भक्षाणामेकमाहरिष्यन्ति सोमं वा दधि वापो वा#} 
 <ls>7, 29.</ls> <ls>TS. 2, 6, 7, 3.</ls> <ls>TBR. 3, 10, 8, 2.</ls> <ls>ŚAT. BR. 1, 8, 1, 23.</ls> {#आहरति भक्षम्#} 
 <ls>4, 3, 1, 10. 4, 3, 9. 10. 5, 4, 12. 12, 7, 1, 9. 3, 1.</ls> {#द्वादश भक्षा भवन्ति#} 
@@ -21,20 +21,20 @@
 <ls>BHĀG. P. 9. 9, 32.</ls> {#एको भक्षार्थं समेष्यति#} {%um als Speise zu dienen%} 
 <ls>PAÑCAT. 53, 23. 117, 2. 131, 3.</ls> {#द्रुतमेहि मे । भक्षाय#} 
 <ls>MĀRK. P. 63, 31.</ls> Häufig am Ende eines <lex>adj.</lex> comp. (f. {#आ)#}, mit dem ursprünglichen Tone des ersten Wortes (darum ist {#भक्ष#} nicht als <lex>adj.</lex> zu fassen), 
-<ls>P. 3, 2, 1, <is>Vārtt</is>. 6.</ls> {%das und das zum Trank%} oder {%zur Speise habend, - geniessend, sich nährend von, lebend von%}: {#क्षीर°#} 
+<ls>P. 3, 2, 1</ls>, <is>Vārtt</is>. 6. {%das und das zum Trank%} oder {%zur Speise habend, - geniessend, sich nährend von, lebend von%}: {#क्षीर°#} 
 <ls>KAUŚ. 22.</ls> {#हविष्य°#} 
 <ls>67.</ls> {#कृष्ण°#} 
 <ls>GOBH. 3, 2, 10.</ls> {#पयो°#} 
 <ls>MBH. 13, 2937.</ls> {#दधि°#} 
 <ls>PAÑCAR. 4, 8, 41.</ls> {#मांस°#} 
 <ls>Spr. 4706.</ls> 
-<ls>P. 3, 2, 1, <is>Vārtt</is>. 6,</ls> 
-<ls>Sch.</ls> {#अमांस°#} 
+<ls>P. 3, 2, 1</ls>, <is>Vārtt</is>. 6, <ls>Sch.</ls>
+{#अमांस°#} 
 <ls>KATHĀS. 7, 37.</ls> {#रिपूणामसुदेहभक्षाम्#} 
 <ls>MBH. 9, 908.</ls> {#शरीर°#} 
-<ls>11, 615.</ls> {#अन्योऽन्य°#} 
-<ls>14, 616.</ls> {#मूलफल°#} 
-<ls>4, 5445.</ls> {#शस्य°#} 
+<ls n="MBH.">11, 615.</ls> {#अन्योऽन्य°#} 
+<ls n="MBH.">14, 616.</ls> {#मूलफल°#} 
+<ls n="MBH.">4, 5445.</ls> {#शस्य°#} 
 <ls>HIT. 62, 20.</ls> {#अब्भक्ष#} 
 <ls>YĀJÑ. 3, 286.</ls> 
 <ls>MBH. 1, 3548.</ls> <ls n="MBH.">3, 2463.</ls> 

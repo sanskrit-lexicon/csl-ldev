@@ -15,13 +15,13 @@
 <ls n="ṚV.">6, 23, 3.</ls> {#दाश्वंस्#} 
 <ls n="ṚV. 6,">65, 4.</ls> {#विदथ्य#} 
 <ls n="ṚV.">7, 36, 8.</ls> {#रेवन्त्#} 
-<ls n="ṚV.">7, 42, 4.</ls> <ls>AV. 2, 26, 4. 3, 5, 8.</ls> <ls>ŚAT. BR. 11, 4, 1, 2. 14, 8, 14, 1.</ls> <ls>PAÑCAV. BR. 19, 1, 4.</ls> {#अस्मि वो वीरः#} so v. a. {%ich bin euer Anführer%} 
+<ls n="ṚV.">7, 42, 4.</ls> <ls>AV. 2, 26, 4.</ls> <ls n="AV.">3, 5, 8.</ls> <ls>ŚAT. BR. 11, 4, 1, 2. 14, 8, 14, 1.</ls> <ls>PAÑCAV. BR. 19, 1, 4.</ls> {#अस्मि वो वीरः#} so v. a. {%ich bin euer Anführer%} 
 <ls>AIT. BR. 7, 27.</ls> {#त्वया^ वी\रेण^ वीरवो\ ऽभि ष्या^म पृतन्य\तः#} 
 <ls>ṚV. 9, 35, 3.</ls> collect.: {#अ\र्धं वी\रस्य^#} 
 <ls n="ṚV.">7, 18, 16.</ls> — {#मृगराजो वृकश्चैव वुद्धिमानपि मूषिकः । निर्जिता यत्त्वया वीरास्तस्माद्वीरतरो भवान् ॥#} 
 <ls>MBH. 1, 5589.</ls> <ls n="MBH.">3, 2153. fg.</ls> {#पशुपांश्च वीरान्#} 
-<ls>10081.</ls> {#वीरा रणे वीरतरेण भग्नाः#} 
-<ls>4, 1673. 8, 448.</ls> <ls>HARIV. 1945.</ls> <ls n="HARIV.">8402.</ls> <ls>R. 1, 1, 24. 2, 27, 3.</ls> <ls>VARĀH. BṚH. S. 101, 11.</ls> {#अश्व, द्विप, वीर#} 
+<ls n="MBH. 3,">10081.</ls> {#वीरा रणे वीरतरेण भग्नाः#} 
+<ls n="MBH.">4, 1673.</ls> <ls n="MBH.">8, 448.</ls> <ls>HARIV. 1945.</ls> <ls n="HARIV.">8402.</ls> <ls>R. 1, 1, 24. 2, 27, 3.</ls> <ls>VARĀH. BṚH. S. 101, 11.</ls> {#अश्व, द्विप, वीर#} 
 <ls>RAGH. 7, 39.</ls> 
 <ls>Spr. (II) 1282.</ls> <ls n="Spr. (II)">1833.</ls> <ls n="Spr. (II)">1947.</ls> 
 <ls>KATHĀS. 10, 29. 47, 93.</ls> 
@@ -55,7 +55,7 @@
 <ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 82. 93. 143. 146.</ls> 
 <div n="2">— d) {%Mann%} so v. a. {%Gatte%}: {#योषेव हतवीरा#} 
 <ls>MBH. 6, 560.</ls> {#हतवीरासु क्षत्रियासु#} 
-<ls>44, 833.</ls> <ls>R. GORR. 2, 85, 12.</ls> {#अवीरा#} {%Wittwe%} 
+<ls n="MBH.">44, 833.</ls> <ls>R. GORR. 2, 85, 12.</ls> {#अवीरा#} {%Wittwe%} 
 <ls>BHĀG. P. 6, 19, 25.</ls> {#°हीना स्त्री#} 
 <ls>MĀRK. P. 35, 31.</ls> 
 <div n="2">— e) {%männliches Kind, Sohn%}; collect. {%männliche Nachkommenschaft%} 
@@ -82,8 +82,8 @@
 <div n="3">— λ) N. pr. 
 <div n="3"> α) ein <is>Asura</is> 
 <ls>MBH. 1, 2541.</ls> <ls n="MBH. 1,">2659.</ls> ein Sohn <is>Dhṛtarāṣṭra's</is> 
-<ls>2738.</ls> <is>Bharadvāja's</is> 
-<ls>3, 14138.</ls> ein Sohn des <is>Puruṣa</is> <is>Vairāja</is> und Vater des <is>Priyavrata</is> und <is>Uttānapāda</is> 
+<ls n="MBH. 1,">2738.</ls> <is>Bharadvāja's</is> 
+<ls n="MBH.">3, 14138.</ls> ein Sohn des <is>Puruṣa</is> <is>Vairāja</is> und Vater des <is>Priyavrata</is> und <is>Uttānapāda</is> 
 <ls>HARIV. 58.</ls> ein Sohn des <is>Gṛñjima</is> 
 <ls n="HARIV.">1943.</ls> zwei Söhne <is>Kṛṣṇa's</is> 
 <ls>BHĀG. P. 10, 61, 13.fg.</ls> der letzte <is>Arhant</is> der gegenwärtigen <is>Avasarpiṇī</is> 

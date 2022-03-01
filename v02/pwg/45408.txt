@@ -1,8 +1,8 @@
 <L>45408<pc>4-0729<k1>पिशाच<k2>पिशाच꣡
 {#पिशाच꣡#}¦ <is>gaṇa</is> {#पृषोदरादि#} zu 
 <ls>P. 6, 3, 109.</ls> {#आकर्षादि#} zu 
-<ls>5, 2, 64.</ls> {#पर्श्वादि#} 
-zu <ls>5, 3, 117.</ls> 
+<ls n="P.">5, 2, 64.</ls> {#पर्श्वादि#} 
+zu <ls n="P.">5, 3, 117.</ls> 
 <div n="1"> 1) <lex>m.</lex> eine Klasse dämonischer Wesen, zu deren Aufstellung die Irrlichter Veranlassung gegeben haben mögen, 
 <ls>AK. 1, 1, 1, 6.</ls> 
 <ls>TRIK. 1, 1, 75.</ls> 
@@ -10,7 +10,7 @@ zu <ls>5, 3, 117.</ls>
 <ls>HALĀY. 1, 87.</ls> 
 <ls>VYUTP. 116.</ls> {#अशुचिमरुदेशनिवासिनः#} 
 <ls>KULL.</ls> zu <ls>M. 1, 37.</ls> {#(उपादित्सति) अग्निकामकातर इवोल्मुकपिशाचम्#} 
-<ls>BHĀG. P. 5, 14, 7.</ls> - <ls>VS. 30, 8. 34, 51.</ls> <ls>AV. 4, 20, 6. 9. 36, 4. 37, 10. 5, 29, 4. 5. 6, 32, 2. 8, 2, 12. 12, 1, 50.</ls> {%Götter, Menschen, Väter%} — <is>Asura</is>, <is>Rakṣas</is>, <is>Piśāka</is> 
+<ls>BHĀG. P. 5, 14, 7.</ls> - <ls>VS. 30, 8. 34, 51.</ls> <ls>AV. 4, 20, 6.</ls> <ls n="AV. 4, 20,">9.</ls> <ls n="AV. 4,">36, 4.</ls> <ls n="AV. 4,">37, 10.</ls> <ls n="AV.">5, 29, 4.</ls> <ls n="AV. 5, 29,">5.</ls> <ls n="AV.">6, 32, 2.</ls> <ls n="AV.">8, 2, 12.</ls> <ls n="AV.">12, 1, 50.</ls> {%Götter, Menschen, Väter%} — <is>Asura</is>, <is>Rakṣas</is>, <is>Piśāka</is> 
 <ls>TS. 2, 4, 1, 1.</ls> 
 <ls>KĀTH. 37, 14.</ls> <ls>M. 1, 37. 43. 12, 44.</ls> {#हिंस्राणां च पिशाचानाम्#} 57. {#न भक्षयति यो मांसं विधिं हित्वा पिशाचवत्#} 
 <ls>5, 50.</ls> {#यक्षरक्षः- पिशाचान्नं मद्यं मांसं सुरासवम्#} 
@@ -30,16 +30,16 @@ zu <ls>5, 3, 117.</ls>
 <ls>BHĀG. P. 3, 14, 26. 28.</ls> {#°दक्षिणा#} 
 <ls>MBH. 13, 4316.</ls> {#°क्ष꣡यण#} 
 <ls>AV. 2, 18, 4.</ls> {#°चा꣡तन#} ebend. {#°ज꣡म्भन#} 
-<ls>5, 29, 14.</ls> {#°हन्#}
+<ls n="AV.">5, 29, 14.</ls> {#°हन्#}
 [Page4-0730]
 ({#वज्र#}) 
 <ls>KĀṬH. 39, 5.</ls> {#°सभ#} <lex>n.</lex> 
 <ls>BHAR.</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> {#दौःशील्यपिशाचावेशवैकृत#} 
 <ls>RĀJA-TAR. 3, 505.</ls> {#°देश#} 
 <ls>MUIR, Sanskrit Texts II, 59.</ls> {#°वाच्#} 61. {#सपिशाचा वात्या#} 
-<ls>P. 6, 3, 80,</ls> 
-<ls>Sch.</ls> <lex>f.</lex> {#ई꣡#} <is>gaṇa</is> {#पर्श्वादि#} zu 
-<ls>P. 4, 1, 177, <is>Vārtt</is>. 2.</ls> 
+<ls>P. 6, 3, 80</ls>, <ls>Sch.</ls>
+<lex>f.</lex> {#ई꣡#} <is>gaṇa</is> {#पर्श्वादि#} zu 
+<ls>P. 4, 1, 177</ls>, <is>Vārtt</is>. 2. 
 <ls>ŚABDAM.</ls> im <ls>ŚKDR.</ls> <ls>AV. 1, 16, 3.</ls> <ls>MBH. 3, 2558.</ls> <ls n="MBH. 3,">10520.</ls> <ls n="MBH. 3,">16139.</ls> <ls>HARIV. 14572.</ls> <ls>R. 3, 60, 22.</ls> <ls>PRAB. 36, 8.</ls> <ls>LALIT. ed. Calc. 384, 15.</ls> {#स्त्री°#} {%ein teuflisches Weib%} 
 <ls>PRAB. 15, 12.</ls> {#आशा°#} (vgl. {#आशापिशाचिका#}) 
 <ls>76, 18.</ls> nach <ls>VP. 122, N. 19 und 150, N. 18</ls> ist {#पिशाचा#} (sic) eine Tochter <is>Dakṣa's</is> und Mutter der <is>Piśāka</is>. Vgl. {#अभ्रपिशाच, उदर°, धनपिशाची#} (unter {#धनपिशाचिका), पिशाचि#} und {#पैशाच#} . 

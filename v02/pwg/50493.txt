@@ -1,6 +1,6 @@
 <L>50493<pc>4-1125<k1>प्राच्य<k2>प्राच्य
 {#प्राच्य#}¦ (von {#प्राञ्च्#}) perisp. 
-<ls>AV.</ls> oxyt. <ls>ŚAT. BR.</ls> parox. <ls>P. 4, 2, 101</ls> (vgl. <ls>6, 1, 213</ls>). Schol. zu <ls>6, 2, 10. 12.</ls> 
+<ls>AV.</ls> oxyt. <ls>ŚAT. BR.</ls> parox. <ls>P. 4, 2, 101</ls> (vgl. <ls n="P.">6, 1, 213</ls>). Schol. zu <ls n="P.">6, 2, 10.</ls> <ls n="P. 6, 2,">12.</ls> 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%vorn —, im Osten befindlich, - gelegen, - wohnend%}: {#लघवः पञ्च प्राच्याः#} {%die fünf vorangehenden%} 
 <ls>ŚRUT. 39. 40</ls> ?(<ls>BR.</ls>). Schol. zu <ls>ṚV. PRĀT. 10, 11</ls> (<is>Sūtra</is> 19). <ls>AV. 4, 7, 2.</ls> {#शरावत्यास्तु यो ऽवधेः ॥ देशः प्राग्दक्षिणः प्राच्यः#} 
@@ -20,7 +20,7 @@
 <ls>ŚAT. BR. 1, 7, 3, 8. 13, 8, 1, 5. 2, 1.</ls> {#प्राच्येषु हस्तिनः (दद्यात्)#} 
 <ls>KĀTY. ŚR. 22, 2, 24.</ls> {#प्राच्यरथो ऽनास्तीर्णो विपथः#} 
 <ls>LĀṬY. 8, 6, 9.</ls> 
-<ls>MBH. 8, 2098</ls> (<ls>VP. 192</ls>). <ls>P. 2, 4, 66. 4, 1, 178.</ls> <ls>VARĀH. BṚH. S. 5, 69. 94, 1. 27.</ls> Schol. zu <ls>H. 87. 961.</ls> {#प्राच्या भाषा#} {%die im Osten gesprochene Sprache%} 
+<ls>MBH. 8, 2098</ls> (<ls>VP. 192</ls>). <ls>P. 2, 4, 66.</ls> <ls n="P.">4, 1, 178.</ls> <ls>VARĀH. BṚH. S. 5, 69. 94, 1. 27.</ls> Schol. zu <ls>H. 87. 961.</ls> {#प्राच्या भाषा#} {%die im Osten gesprochene Sprache%} 
 <ls>SĀH. D. 173,4.</ls> <ls>Verz. d. Oxf. H. 181,a,23.</ls> <ls>STENZLER</ls> in der Einl. zu <ls>MṚCCH. V.</ls> 
 <div n="2">— b) {%vorangehend, der frühere, ehemalig, alt%} (Gegens. {#आधुनिक#}) 
 <ls>SĀH. D. 223, 3.</ls> 

@@ -4,7 +4,7 @@
 <div n="2"> a) {%schönfarbig, schön aussehend%}, insbes. {%von schimmernder Farbe, goldig%} (Gegens. {#दुर्वर्ण#}) 
 <ls>ṚV. 10, 68, 3.</ls> Wasser 
 <ls>AV. 1, 33, 1.</ls> {#स्तो\काः#} 
-<ls>12, 3, 28. 13, 1, 22. 3, 16.</ls> <ls>TBR. 3, 7, 6, 1.</ls> {#दर्भ#} 
+<ls n="AV.">12, 3, 28.</ls> <ls n="AV.">13, 1, 22.</ls> <ls n="AV. 13,">3, 16.</ls> <ls>TBR. 3, 7, 6, 1.</ls> {#दर्भ#} 
 <ls>KĀṬH. 31, 14.</ls> 
 <ls>ṢAḌV. BR. 4, 7.</ls> 
 <ls>ṚV. PRĀT. 17, 9.</ls> 
@@ -55,8 +55,8 @@
 <ls>MBH. 3, 483.</ls> 
 <ls>RĀJA-TAR. 6, 102.</ls> {#साष्टे शते सुवर्णानाम्#} 
 <ls>AK.3,4,1,13.</ls> <ls>MṚCCH. 34,13. 18.</ls> <ls>Verz. d. Oxf. H. 151,a,10.</ls> <ls>PAÑCAT. 134,3. fgg.</ls> <ls>HIT. 98,11, v. l.</ls> {#द्विसुवर्णधनम्#} 
-<ls>P. 6, 2, 55, Schol.</ls> {#अध्यर्ध°, द्वि°#} <lex>adj.</lex> 
-<ls>5, 1, 29, <is>Vārtt</is>., Schol.</ls> <ls>VET. in LA. (III) 23, 18. 28, 4.</ls> {#टङ्कसहस्रसुवर्ण#} 
+<ls>P. 6, 2, 55</ls>, Schol. {#अध्यर्ध°, द्वि°#} <lex>adj.</lex> 
+<ls n="P.">5, 1, 29</ls>, <is>Vārtt</is>., Schol. <ls>VET. in LA. (III) 23, 18. 28, 4.</ls> {#टङ्कसहस्रसुवर्ण#} 
 <ls>24, 4</ls> schwerlich richtig ({#सुवर्ण#} wohl zu streichen). 
 <ls>BURNOUF, Intr. 238.</ls> <ls>HIOUEN-THSANG 2, 29.</ls> 
 <div n="1">— 4) <lex>n.</lex> {%Geld, Reichthum%} 
@@ -107,5 +107,5 @@ n. <ls>H. an.</ls> m. <ls>MED.</ls>
 <ls>MBH. 3, 7096.</ls> 
 <div n="3">— β) einer Erde: {#सवुर्णाख्यं जगत्#} 
 <ls>MBH. 5, 3551.</ls> — Nach <is>gaṇa</is> {#अर्धर्चादि#} 
-zu <ls>P.2,4,31.</ls> <ls>TRIK.3,5,10</ls> und <ls>SIDDH. K. 249,a,5</ls> ist {#सुवर्ण#} <lex>m.</lex> <lex>n.</lex> Vgl. {#सौवर्ण#} u. s. w. und {#स्वर्ण#} .
+zu <ls>P. 2, 4, 31.</ls> <ls>TRIK.3,5,10</ls> und <ls>SIDDH. K. 249,a,5</ls> ist {#सुवर्ण#} <lex>m.</lex> <lex>n.</lex> Vgl. {#सौवर्ण#} u. s. w. und {#स्वर्ण#} .
 <LEND>

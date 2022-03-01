@@ -24,7 +24,7 @@
 <ls>KATHĀS. 11, 44.</ls> {#कटिश्च तस्यातिकृतप्रमाणा#} 
 <ls>MBH. 3, 10054.</ls> {#केशान्तिको ब्राह्मणस्य दण्डः कार्यः प्रमाणतः#} 
 <ls>M. 2, 46.</ls> 
-<ls>P. 5, 2, 37, <is>Vārtt</is>. 7.</ls> {#प्रमाणरूपसंपन्न (निस्त्रिंश)#} 
+<ls>P. 5, 2, 37</ls>, <is>Vārtt</is>. 7. {#प्रमाणरूपसंपन्न (निस्त्रिंश)#} 
 <ls>MBH. 4, 1339.</ls> {#सरो नल्वप्रमाणतः#} 
 <ls>R. 6, 82, 71.</ls> 
 <ls>SUŚR. 1, 24, 6. 125, 11. 2, 49, 2.</ls> {#शय्याप्रमाणाधिक (गात्र)#} 
@@ -40,8 +40,8 @@
 <ls>MBH. 3, 2804.</ls> {#बहून्यहःप्रमाणानि#} 
 <ls>MĀRK. P. 16, 32. 46, 41. 53, 2. 3.</ls> {#एवंकॢप्तप्रमाणानि च्छन्दांसि#} 
 <ls>ṚV. PRĀT. 17, 1.</ls> {%die prosodische Länge eines Vocals%} 
-<ls>P. 1, 1, 50,</ls> 
-<ls>Sch.</ls> {#प्रमाणे ऽथ लयस्थाने किंनराः कृतनिश्रमाः#} 
+<ls>P. 1, 1, 50</ls>, <ls>Sch.</ls>
+{#प्रमाणे ऽथ लयस्थाने किंनराः कृतनिश्रमाः#} 
 <ls>MBH. 2, 132.</ls> <ls n="MBH. 2,">138</ls> (wo {#°निश्रमः#} st. {#°निश्चयः#} zu lesen ist). {#पाठे गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम् (= द्रुत, मध्य, विलम्बित#} 
 <ls>Schol.</ls>) <ls>R. 1, 4, 6 (3, 44 GORR.).</ls> {#नहि कश्चित्प्रमाणं ते रत्नानां वेत्स्यते नरः#} {%Menge%} 
 <ls>HARIV. 9733.</ls> 
@@ -80,19 +80,19 @@
 <ls>HIT. 8, 13.</ls> {#प्रमाणदृष्टो धर्मो ऽयम्#} {%von Autoritäten anerkannt%} 
 <ls>MBH. 1, 4722.</ls> <ls n="MBH. 1,">4572.</ls> {#पाशैस्त्वमेव मोक्तुं च प्रमाणम्#} so v. a. {%du bist berechtigt%} 
 <ls>HARIV. 8109.</ls> {#स्त्रीप्रमाणाः कुटुम्बिनः#} {%nach den Weibern sich richtend%} 
-<ls>P. 5, 4, 116,</ls> 
-<ls>Sch.</ls> {#प्रमाणभूत#} Beiw. <is>Śiva's</is> 
+<ls>P. 5, 4, 116</ls>, <ls>Sch.</ls>
+{#प्रमाणभूत#} Beiw. <is>Śiva's</is> 
 <ls>ŚIV.</ls> Selten im pl.: {#प्रमाणानि च कुर्वीत तेषां धर्मान्#} 
 <ls>M. 7, 203.</ls> {#प्रमाणानि प्रमाणज्ञैः परिपाल्यानि यत्नतः । प्रमाणैः स्थापितां संस्थां नातिक्रमितुमर्हसि ॥#} 
 <ls>R. GORR. 1, 62. 26.</ls> Richtet sich bisweilen nach dem Geschlecht des subst., auf das es bezogen wird: {#यदि वेदाः प्रमाणास्ते#} 
 <ls>MBH. 3, 2037.</ls> {#प्रमाणा यदि ते वयम्#} 
-<ls>15793. 14, 1675.</ls> {#प्रमाणी#} 
+<ls n="MBH. 3,">15793.</ls> <ls n="MBH.">14, 1675.</ls> {#प्रमाणी#} 
 <ls>P. 5, 4, 116.</ls> {#स्त्री प्रमाणी येषां ते स्त्रीप्रमाणाः कुटुम्बिनः#} 
 <ls>Sch.</ls> <ls>VOP. 6, 15. 16.</ls> 
 <div n="1">— 3) <lex>n.</lex> {%Mittel zu richtigem Wissen, Erkenntnissmittel, Beweismittel%}; = {#शास्त्र#} und {#हेतु#} 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>COLEBR. Misc. Ess. I, 266. 302.</ls> <ls>YOGAS. 1, 6. 7.</ls> <ls>KAP. 1, 89. 103.</ls> <ls>JAIM. 1, 5.</ls> <ls>SĀṂKHYAK. 4.</ls> <ls>TATTVAS. 48.</ls> <ls>TARKAS. 27. 48.</ls> {#°कुशल#} 
 <ls>KAP. 1, 4.</ls> {#°दृष्ट#} 
-<ls>2, 25.</ls> <ls>YĀJÑ. 2, 22.</ls> <ls>Spr. 2182. 2389.</ls> <ls>MBH. 3, 2803.</ls> <ls>PRAB. 27, 19.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 6</ls> v. u. <ls>SĀH. D. 35. 57.</ls> <ls>P. 8, 2, 97, Sch.</ls> <ls>WASSILYEW 330</ls> ({%Logik%}). 
+<ls>2, 25.</ls> <ls>YĀJÑ. 2, 22.</ls> <ls>Spr. 2182. 2389.</ls> <ls>MBH. 3, 2803.</ls> <ls>PRAB. 27, 19.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 18, 6</ls> v. u. <ls>SĀH. D. 35. 57.</ls> <ls>P. 8, 2, 97</ls>, Sch. <ls>WASSILYEW 330</ls> ({%Logik%}). 
 <div n="1">— 4) <lex>n.</lex> {%richtiger Begriff%}, = {#प्रमा#} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> {#अग्निना सिञ्चेदिति न प्रमाणं योग्यताविरहात्#} 
 <ls>TARKAS. 51.</ls> 

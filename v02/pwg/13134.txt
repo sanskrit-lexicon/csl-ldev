@@ -13,7 +13,7 @@
 <ls n="ṚV.">7, 70, 5.</ls> <ls n="ṚV.">1, 189, 8.</ls> <ls n="ṚV.">4, 50, 1.</ls> <ls n="ṚV.">5, 75, 1.</ls> <ls n="ṚV.">6, 34, 1.</ls> {#इन्द्रा^ वरुणा\ यदृ\षिभ्यो^ मनी\षां वा\चो म\तिं श्रु\तम^दत्त\मग्रे^#} 
 <ls>VĀLAKH. 9, 6.</ls> {#यत्र\ ऋष^यो ज\ग्मुः प्र^थम\जाः पु^रा\णाः#} 
 <ls>VS. 18, 52. 15, 10.</ls> {#ऋषि^मार्षे\यम्#} 
-<ls>7, 46.</ls> <ls>AV. 4, 6, 12. 23, 5. 10, 8, 3.</ls> So heissen z. B. <is>Kutsa</is> 
+<ls>7, 46.</ls> <ls>AV. 4, 6, 12.</ls> <ls n="AV. 4,">23, 5.</ls> <ls n="AV.">10, 8, 3.</ls> So heissen z. B. <is>Kutsa</is> 
 <ls>ṚV. 1, 106, 6.</ls> <is>Atri</is> 
 <ls n="ṚV. 1,">117, 3.</ls> <is>Rebha</is> 
 <ls n="ṚV. 1,">117, 4.</ls> <is>Agastya</is> 
@@ -43,27 +43,27 @@ z. B. <ls>AV. 10, 10, 26</ls> werden aufgezählt: {%Götter, Menschen%}, <is>Asu
 <ls>SUŚR. 1, 148, 1.</ls> {#तथैव वेदानृषयस्तपसा प्रतिपेदिरे#} 
 <ls>M. 11, 243.</ls> {#ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक्#} 
 <ls>BHAG. 13, 4.</ls> {#ऋषयो मन्त्रद्रष्टारो वसिष्ठादयः#} 
-<ls>P. 4, 1, 114,</ls> 
-<ls>Sch.</ls> Daher = {#वेद#} 
+<ls>P. 4, 1, 114</ls>, <ls>Sch.</ls>
+Daher = {#वेद#} 
 <ls>TRIK. 3, 3, 435.</ls> 
 <ls>H. an. 2, 558.</ls> 
 <ls>MED. ṣ. 6.</ls> Geradezu für {#मन्त्र#} steht das Wort 
-<ls>P. 3, 2, 186. 4, 4, 96.</ls> {#ऋषिमुख#} {%der Anfang eines%} <is>Ṛṣi</is> d. i. {%des von ihm verfassten%} <is>Maṇḍala</is> {%im%} 
+<ls>P. 3, 2, 186.</ls> <ls n="P.">4, 4, 96.</ls> {#ऋषिमुख#} {%der Anfang eines%} <is>Ṛṣi</is> d. i. {%des von ihm verfassten%} <is>Maṇḍala</is> {%im%} 
 <ls>ṚV.</ls> <ls>PĀR. GṚHY. 2, 10</ls> in <ls>Z. d. d. m. G. VII, 538.</ls> 
 <div n="2">— c) {#स\प्त ऋष^यः, स\प्त\ऋ\षय^ः#} oder {#सप्तर्षयः#} (
-<ls>P. 2, 1, 50,</ls> 
-<ls>Sch.</ls>) {%sieben%} <is>Ṛṣi</is> — eine unbestimmte Vielheit — sind die
+<ls>P. 2, 1, 50</ls>, <ls>Sch.</ls>) 
+{%sieben%} <is>Ṛṣi</is> — eine unbestimmte Vielheit — sind die
 [Page1-1063]
 Repräsentanten jener heiligen Vorzeit: {#ऋष^यः स\प्त दैव्या^ः#} 
 <ls>ṚV. 10, 130, 7.</ls> {#अस्माक\मत्र^ पि\तर\स्त आ^सन्स\प्त ऋष^यो दौर्ग\हे ब\ध्यमा^ने#} 
 <ls n="ṚV.">4, 42, 8.</ls> (vgl. 
 <ls>ŚAT. BR. 13, 5, 4, 5</ls>). {#स\प्त\ऋ\षय\स्तप^से\ ये नि^षे\दुः#} 
-<ls>10, 109, 4.</ls> <ls>VS. 14, 28.</ls> <ls>AV. 11, 1, 1. 24. 12, 1, 39.</ls> <ls>ŚAT. BR. 14, 5, 2, 4. 5.</ls> {#सप्तऋषीणां सुकृतां यत्र लोकस्तत्रेमं यज्ञं यजमानं च धेहि#} 
+<ls>10, 109, 4.</ls> <ls>VS. 14, 28.</ls> <ls>AV. 11, 1, 1.</ls> <ls n="AV. 11, 1,">24.</ls> <ls n="AV.">12, 1, 39.</ls> <ls>ŚAT. BR. 14, 5, 2, 4. 5.</ls> {#सप्तऋषीणां सुकृतां यत्र लोकस्तत्रेमं यज्ञं यजमानं च धेहि#} 
 <ls>KĀTY. ŚR. 2, 2, 8</ls> (vgl. <ls>VS. 18, 52</ls>). Eine namentliche Aufzählung derselben wird nachmals versucht, 
 z. B. <ls>ŚAT. BR. 14, 5, 2, 6</ls> : <is>Gotama</is>, <is>Bharadvāja</is>, <is>Viśvāmitra</is>, <is>Jamadagni</is>, <is>Vasiṣṭha</is>, <is>Kaśyapa</is>, <is>Atri</is>; ebenso in einem <is>Pariśiṣṭa</is> zu 
 <ls>ĀŚV. ŚR. 12, 15.</ls> 
 <ls>MBH. 1, 4807.</ls> <ls n="MBH.">13, 4461. fgg.</ls> <is>Marīci</is>, <is>Atri</is>, <is>Aṅgiras</is>, <is>Pulaha</is>, <is>Kratu</is>, <is>Pulastya</is>, <is>Vasiṣṭha</is> (Söhne <is>Brahman's</is> und zugleich die 
-<ls>7</ls> <is>Prajāpati</is>) 
+<ls n="MBH. 13,">7</ls> <is>Prajāpati</is>) 
 <ls>MBH. 12, 12724. fg.</ls> sind die {%sieben%} <is>Ṛṣi</is> im 1sten <is>Manvantara</is> 
 <ls>HARIV. 413.</ls> 
 <ls>VP. 49,</ls> 
@@ -71,7 +71,7 @@ z. B. <ls>ŚAT. BR. 14, 5, 2, 6</ls> : <is>Gotama</is>, <is>Bharadvāja</is>, <i
 <ls>HARIV. 417. fgg.</ls> 
 <ls>VP. 260. fgg.</ls> {#सप्तर्षि#} sg. {%einer der sieben%} <is>Ṛṣi</is> 
 <ls>MBH. 13, 1339.</ls> {#सप्तर्षिकुण्ड#} pl. {%den sieben%} <is>Ṛṣi</is> {%geheiligte Badeplätze%} 
-<ls>3, 6042.</ls> {#सप्तर्षिक#} 
+<ls n="MBH.">3, 6042.</ls> {#सप्तर्षिक#} 
 <ls>HARIV. 464.</ls> Am Himmel sind die {%sieben%} <is>Ṛṣi</is> {%die sieben Sterne des grossen Bären%} 
 <ls>NAIGH. 1, 5.</ls> 
 <ls>NIR. 10, 26.</ls> 

@@ -5,7 +5,7 @@
 <ls>KATHĀS. 76, 28.</ls> {#गृह°#} 
 <ls>KĀTY. ŚR. 2, 1, 14.</ls> {#सेयं भूमौ परिश्रान्ता शेते प्रासादशायिनी#} 
 <ls>MBH. 1, 5908.</ls> {#गुहाकन्दर°#} 
-<ls>3, 8705.</ls> {#महीविवर°#} 
+<ls n="MBH.">3, 8705.</ls> {#महीविवर°#} 
 <ls>R. GORR. 2, 28, 14.</ls> {#शिबिकालय°#} 
 <ls>4, 24, 32.</ls> <ls>Spr. 2046.</ls> <ls>PAÑCAR. 2, 3, 62.</ls> {#सलिल°#} 
 <ls>MBH. 9, 1763.</ls> <ls n="MBH.">13, 648.</ls> 
@@ -31,8 +31,8 @@
 <ls>MĀRK. P. 107, 3.</ls> {#उपरि°#} 
 <ls>GOP. BR. 2, 7.</ls> {#अभ्युदित°#} {%bei Sonnenaufgang%} 
 <ls>MBH. 13, 4997.</ls> {#जघन्य°#} {%sich zuletzt (später als alle Andern) schlafen legend%} 
-<ls>12, 8840.</ls> {#मण्डूक°#} {%wie ein Frosch%} 
-<ls>11271.</ls> {#सुख°#} {%behaglich%} 
+<ls n="MBH.">12, 8840.</ls> {#मण्डूक°#} {%wie ein Frosch%} 
+<ls n="MBH. 12,">11271.</ls> {#सुख°#} {%behaglich%} 
 <ls>Verz. d. Oxf. H. 268,a,34. fgg.</ls> {#अप्रतिबोध°#} {%ohne zu erwachen%} 
 <ls>RAGH. 8, 57.</ls> 
 <div n="v">— Vgl. {#अधः°#} (auch 

@@ -3,7 +3,7 @@
 <ls>DHĀTUP. 26, 76.</ls> erhalt keinen Bindevocal <is>Kār</is>. 
 <ls>6</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> {%verderben, schlecht werden, zu Grunde gehen, Schaden nehmen; verunreinigt werden, sich verunreinigen, einen Fehltritt —, eine Sünde begehen%}: {#मेदं प्रजापते रेतो दुषत्#} 
 <ls>AIT. BR. 3, 33.</ls> {#यस्य सायंदुग्धं सांनाय्यं दुष्येत्#} 
-<ls>7, 4. Schol.</ls> zu <ls>KĀTY. ŚR.25, 4, 15.</ls> <ls>NIDĀNA. 1, 6.</ls>
+<ls>7, 4.</ls> Schol. zu <ls>KĀTY. ŚR.25, 4, 15.</ls> <ls>NIDĀNA. 1, 6.</ls>
 [Page3-0700]
 {#ग्रहणी#} 
 <ls>SUŚR. 2, 443, 7.</ls> {#त्वत्संयोगाच्च दुष्येत कन्याभावो मम#} 
@@ -86,8 +86,8 @@
 {# दू^दुषत्#} 
 <ls>ṚV. 3, 3, 1.</ls> {#ये भ\द्रं दू\षय^न्ति स्व\धाभि^ः#} 
 <ls n="ṚV.">7, 104, 9.</ls> {#इ\दं दू^षयता वि\षम्#} 
-<ls>AV. 6, 100, 2. 4, 29, 7.</ls> {#कृ\त्याः#} 
-<ls>8, 5, 2. 3, 9, 5. 4, 18, 5.</ls> — {#नाग्निदूषिताः - दण्डाः#} 
+<ls>AV. 6, 100, 2.</ls> <ls n="AV.">4, 29, 7.</ls> {#कृ\त्याः#} 
+<ls n="AV.">8, 5, 2.</ls> <ls n="AV.">3, 9, 5.</ls> <ls n="AV.">4, 18, 5.</ls> — {#नाग्निदूषिताः - दण्डाः#} 
 <ls>M. 2, 47</ls> {#मध्यमकं तद्यावदिदानीं चतुःशालकमपि दूषयामि#} 
 <ls>MṚCCH. 46. 20.</ls> {#दूषयेच्चास्य#} ({#अरेः#}) {#सततं यवसान्नोदकेन्धनम्#} 
 <ls>M. 7, 195.</ls> 
@@ -150,7 +150,7 @@
 <div n="1">— 4) {%Jmd%} (gen) {%zu nahe treten%}: {#किं नु ते ऽदूषयद्राजा#} 
 <ls>R. 2, 74, 3.</ls> {#न दूषयामि ते#} 
 <ls>MBH. 4, 2228.</ls> {#न कुप्ये तव धर्मज्ञ न त्वं दूषयसे मम#} 
-<ls>12, 688.</ls> 
+<ls n="MBH.">12, 688.</ls> 
 <div n="1">— 5) neben {#दूषयति#} soll nach 
 <ls>P. 6, 4, 91</ls> auch {#दोषयति#} gebraucht werden, wenn von einer {%Befleckung%}
 [Page3-0702]
@@ -178,8 +178,8 @@
 <ls>BHAG. 1, 41.</ls> {%schlecht werden gegen%} ({#प्रति#}), {%sich vergehen an%}: {#अथ चेत्सर्वतः क्षत्रं प्रदुष्येद्ब्राह्मणं प्रति#} 
 <ls>MBH. 12, 2935.</ls> — partic. {#प्रदुष्ट#} {%schlecht, böse%}: {#यश्च पन्था#} (in übertr. Bed.) {#प्रदुष्टः#} 
 <ls>MBH. 5, 1224.</ls> {#दुराचारान्यदा राजा प्रदुष्टान्न नियच्छति#} 
-<ls>12, 4540.</ls> {#स्त्री#} {%ausschweifend, liederlich%} 
-<ls>2, 2134.</ls> <ls>ṚT. 2, 7.</ls> {#अप्रदुष्टा#} 
+<ls n="MBH.">12, 4540.</ls> {#स्त्री#} {%ausschweifend, liederlich%} 
+<ls n="MBH.">2, 2134.</ls> <ls>ṚT. 2, 7.</ls> {#अप्रदुष्टा#} 
 <ls>YĀJÑ. 3, 269.</ls> {#क्रीणीष्वैतांस्तृणकेनापि राजन्प्रतिग्रहस्ते यदि धीमन्प्रदुष्टः#} {%wenn dir die Annahme eines Geschenkes als sündhaft erscheint%} 
 <ls>MBH. 1, 3666.</ls> — caus. 
 <div n="1"> 1) {%verderben, angreifen, verunreinigen%}: {#(दोषाः) गुदमागम्य प्रदूष्य बलीर्मांसप्ररोहान् जनयन्ति#} 

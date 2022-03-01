@@ -2,7 +2,7 @@
 {#चेद्#}¦ aus {#च + इद्#} (<is>Padap</is>.: {#च । इत् ।#}) zusammengesetzte Part., welche niemals am Anfange eines Satzes oder Halbverses steht. 
 <div n="1"> 1) wie {#च#} aneinanderreihend: {#सं चेन्नया^थो अश्विना का\मिना\ सं च\ वक्ष^थः#} 
 <ls>AV. 2, 30, 2.</ls> {#ददा^म्यस्मा अव\सान^मे\तद्य ए\ष आग\न्मम\ चेद^भूदि\ह#} 
-<ls>18, 2, 37.</ls> 
+<ls n="AV.">18, 2, 37.</ls> 
 <div n="1">— 2) {%auch, sogar%}: {#प्राणिनां धर्मबुद्धीनामपि चेन्नीचयोनिनाम्#} 
 <ls>HARIV. 11308.</ls> {#यद्यस्ति चेद्धनं सर्वं वृथाभोगा भवन्तु ताः#} 
 <ls>MBH. 1, 2403.</ls> 
@@ -29,31 +29,31 @@ des verbi fin.: {#धुरि निदधात्यनसि चेद्ग
 <ls>8, 230.</ls> <ls>DRAUP. 8, 45.</ls> <ls>BHAG. 3, 1.</ls> <ls>R. 2, 8, 34.</ls> <ls>BHARTṚ. 2, 18</ls> (mit {#यदि#} abwechselnd). 
 <ls>PAÑCAT. II, 66.</ls> <ls>HIT. I, 178.</ls> <ls>ŚĀK. 71, 11.</ls> <ls>RAGH. 2, 48. 57.</ls> <ls>SĀH. D. 3, 5. 15. 4, 8.</ls> mit dem perf.: {#स चेन्ममार#} 
 <ls>MBH. 12, 986.</ls> <ls n="MBH. 12,">992</ls> u. s. w. mit dem potent. 
-<ls>P. 3, 3, 156,</ls> 
-<ls>Sch. 134,</ls> 
+<ls>P. 3, 3, 156</ls>, <ls>Sch. 134,</ls>
 <ls>Sch.</ls> 
+
 <ls>VOP. 25, 19.</ls> {#एतं चेदन्यस्मा अनुब्रूयास्तत एव ते शिरश्छिन्द्याम्#} 
 <ls>ŚAT. BR. 14, 1, 1, 19.</ls> 
 <ls>M. 2, 220. 5, 79. 8, 162. 236</ls> u.s.w. <ls>BHAG. 3, 24.</ls> <ls>BRĀHMAṆ. 2, 17.</ls> <ls>MBH. 14, 145.</ls> <ls>PAÑCAT. I, 165. II, 12.</ls> <ls>MEGH. 52. 54.</ls> <ls>RĀJA-TAR. 5, 478</ls> (in der Bed. des condit.). mit dem fut. 
-<ls>P. 3, 3, 156,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 156</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 25, 19.</ls> {#देवश्चेत्क्षिप्रं (शीघ्रम् आशु) वर्षिष्यति । शीघ्रं वप्स्यामः#} 
-<ls>P. 3, 3, 133,</ls> 
-<ls>Sch.</ls> {#तौ चेन्मे विवक्ष्यति#} 
+<ls>P. 3, 3, 133</ls>, <ls>Sch.</ls>
+{#तौ चेन्मे विवक्ष्यति#} 
 <ls>ŚAT. BR. 14, 6, 8, 1. 1, 8, 1, 9.</ls> 
 <ls>MBH.</ls> in <ls>BENF. Chr. 12, 27. 17, 33.</ls> <ls>R. 3, 45, 21. 69, 14. 23.</ls> <ls>ŚĀK. 71, 12.</ls> {#उपाध्यायश्चेदागच्छति । आगमिष्यति । आगन्ता वा । अथ त्वं छन्दो ऽधीष्व#} 
-<ls>P. 3, 3, 8,</ls> 
-<ls>Sch.</ls> {#मुहूर्तादुपर्युपाध्यायश्चेदागच्छेत् आगच्छति । आगमिष्यति । आगन्ता वा । अथ°#} 
+<ls>P. 3, 3, 8</ls>, <ls>Sch.</ls>
+{#मुहूर्तादुपर्युपाध्यायश्चेदागच्छेत् आगच्छति । आगमिष्यति । आगन्ता वा । अथ°#} 
 <ls>9</ls>, <ls>Sch.</ls> {#देवश्चेदवर्षीत् वर्षति । वर्षिष्यति । तर्हि धान्यमवाप्स्म, वपामः । वप्स्यामः#} 
 <ls>132</ls>, <ls>Sch.</ls>; vgl. 
 <ls>VOP. 25, 7.</ls> mit dem condit.: {#सुवृष्टिश्चेदभविष्यत् तदा सुभिक्षमभविष्यत्#} 
-<ls>P. 3, 3, 139,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 139</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 25, 31.</ls> 
 <ls>MBH. 7, 3423.</ls> {#किं वाभविष्यदरुणस्तमसां विभेत्ता तं चेत्सहस्रकिरणो धुरि नाकरिष्यत्#} 
 <ls>ŚĀK. 163.</ls> {#चेद्#} mit dem potent., aber im Nachsatz condit. 
 <ls>MBH. 5, 960.</ls> mit vorang. {#अथ#} {%wenn aber%} 
-<ls>2775.</ls> <ls>BHAG. 2, 33. 18, 58.</ls> Am Anf. des Satzes steht {#चेद्#} 
+<ls n="MBH. 5,">2775.</ls> <ls>BHAG. 2, 33. 18, 58.</ls> Am Anf. des Satzes steht {#चेद्#} 
 <ls>PAÑCAT. 46, 6</ls>, aber daselbst ist wohl zu lesen: {#साक्षान्नारायणः प्रत्यहं गरुडारूढो निशि समायातीति चेदसत्यं मम वाक्यम्#} . Wenn der Nachsatz vorangeht, wird derselbe durch keine besondere Partikel kenntlich gemacht; folgt er, so wird er durch {#तद्, ततस्, तदा, तर्हि#} oder {#अथ#} hervorgehoben, aber eben so häufig auch nicht. Die Neg. {#न#} steht entweder unmittelbar vor {#चेद् (नचेत्#} <is>gaṇa</is> {#चादि#} zu 
 <ls>P. 1, 4, 57</ls>) oder vor dem verbum fin., welches vorangehen oder folgen kann; im letzten Falle ist es von {#चेद्#} durch ein oder mehrere Wörter ausser {#न#} getrennt: {#न चेदन्यो ऽर्थसंयोगः#} 
 <ls>ŚĀṄKH. ŚR. 1, 17, 1.</ls> {#न चेत्तस्मिन्गृहे वसेत्#} 
@@ -69,8 +69,8 @@ des verbi fin.: {#धुरि निदधात्यनसि चेद्ग
 <ls>ŚRUT.</ls> (<ls>BR.) 32</ls>, wo aber die var. l. die Regel bestätigt. {#नो चेत्#} (vgl. <is>gaṇa</is> {#चादि#} zu 
 <ls>P. 1, 4, 57</ls>) = {#न चेत्#} {%wenn nicht%}: {#नो चेत्सर्वपवित्रेभ्यो दानमेव परं भवेत् । यानीमान्युत्तमानीह वेदोक्तानि प्रशंससि । तेषां श्रेष्ठतरं दानमिति मे नात्र संशयः ॥#} 
 <ls>MBH. 13, 5809.</ls> An den folgenden Stellen scheint es ganz die Bed. von {#अपि न#} {%ach wenn doch nicht%} zu haben: {#दुर्योधनेन निकृतो मनस्वी नो चेत्क्रुद्धः प्रदहेद्धार्तराष्ट्रान्#} 
-<ls>5, 678. 676. 966.</ls> Auf dieselbe Weise könnte auch {#न चेत्#} 
-<ls>676</ls> aufgefasst werden. In der späteren Sprache bildet {#नो चेत्#} {%wenn nicht%} stets einen verkürzten Satz für sich, auf den unmittelbar der Nachsatz folgt: {#भवता मौनव्रतेन स्थातव्यम् नो चेत् तव काष्ठात्पातो भविष्यति#} 
+<ls n="MBH.">5, 678.</ls> <ls n="MBH. 5,">676.</ls> <ls n="MBH. 5,">966.</ls> Auf dieselbe Weise könnte auch {#न चेत्#} 
+<ls n="MBH. 13,">676</ls> aufgefasst werden. In der späteren Sprache bildet {#नो चेत्#} {%wenn nicht%} stets einen verkürzten Satz für sich, auf den unmittelbar der Nachsatz folgt: {#भवता मौनव्रतेन स्थातव्यम् नो चेत् तव काष्ठात्पातो भविष्यति#} 
 <ls>PAÑCAT. 76, 20. 162, 24. I, 201.</ls> <ls>HIT. 18, 18. 24, 12. 58, 17. 65, 15. 76, 10. 93, 6. 103, 9. 127, 11.</ls> <ls>KATHĀS. 4, 78.</ls> <ls>VET. 7, 13.</ls> Ebenso gebraucht wird {#न चेत्#} 
 <ls>ŚAT. BR. 14, 7, 2, 15.</ls> {#न चेत्#} und {#नो चेत्#} haben auch die Bed. {%damit nicht%}:
 [Page2-1054]

@@ -2,10 +2,10 @@
 {#मर्दन#}¦ (wie eben) 
 <div n="1"> 1) nom. ag. (f. {#ई)#} dass.: {#दितिजसंघानाम्#} 
 <ls>MBH. 13, 971.</ls> {#अरि°#} 
-<ls>1, 2487. 3, 11944. 12039. 15679. 13, 796. 798.</ls> <ls>N. 12, 77.</ls> {#शत्रु°#} 
+<ls n="MBH.">1, 2487.</ls> <ls n="MBH.">3, 11944.</ls> <ls n="MBH. 3,">12039.</ls> <ls n="MBH. 3,">15679.</ls> <ls n="MBH.">13, 796.</ls> <ls n="MBH. 13,">798.</ls> <ls>N. 12, 77.</ls> {#शत्रु°#} 
 <ls>KATHĀS. 42, 125.</ls> {#सर्वक्षत्रिय°#} 
 <ls>MBH. 1, 5125.</ls> {#क्षत्रिय°#} 
-<ls>7, 3652. 5060.</ls> {#अमित्रबल°#} 
+<ls n="MBH.">7, 3652.</ls> <ls n="MBH. 7,">5060.</ls> {#अमित्रबल°#} 
 <ls>R. 2, 93, 23 (102, 25 GORR.).</ls> {#देवदानव°#} 
 <ls>4, 61, 46.</ls> {#दैत्यदानव°#} 
 <ls>N. 4, 11.</ls> {#वीर°#} 
@@ -14,15 +14,15 @@
 <ls>PAÑCAR. 3, 14, 35.</ls> {#कुल°#} 
 <ls>KATHĀS. 70, 104.</ls> {#राहुं चन्द्रार्कमर्दनम्#} {%angreifend, plagend, quälend%} 
 <ls>MBH. 1, 2539.</ls> {#(ग्रहम्) अर्केन्दुमर्दनम्#} 
-<ls>2676.</ls> {#समिति°#} {%im Kampfe die Feinde hart mitnehmend%} 
-<ls>9, 3063.</ls> {#समर°#} 
-<ls>13, 1195.</ls> 
+<ls n="MBH. 1,">2676.</ls> {#समिति°#} {%im Kampfe die Feinde hart mitnehmend%} 
+<ls n="MBH.">9, 3063.</ls> {#समर°#} 
+<ls n="MBH.">13, 1195.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Fürsten der <is>Vidyādhara</is> 
 <ls>KATHĀS. 48, 78.</ls> 
 <div n="1">— 3) <lex>n.</lex> {%das Zerdrücken, Zerreiben, Vernichten; Drücken, Reiben%}: = {#प्रैष#} 
 <ls>AK. 3, 4, 29, 221.</ls> {#कण्टकानाम्#} 
-<ls>P. 3, 3, 116,</ls> 
-<ls>Sch.</ls> {#दुर्गकण्टकमर्दनैः#} (so ist zu lesen) 
+<ls>P. 3, 3, 116</ls>, <ls>Sch.</ls>
+{#दुर्गकण्टकमर्दनैः#} (so ist zu lesen) 
 <ls>Spr. 4463, v. l.</ls> {#इक्षुदण्डास्तिलाः शूद्राः कान्ता काञ्चनमेदिनी । चन्दनं ताम्बूलं मर्दनं गुणवर्धनम् ॥#} 
 <ls>VṚDDHA-CĀṆ. 9, 13.</ls> {#खल = धान्यादिमर्दनस्थान#} 
 <ls>KULL.</ls> zu <ls>M. 11, 17.</ls> {#यवखल = यवमर्दन#} 

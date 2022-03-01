@@ -2,7 +2,7 @@
 {#गोष्ठ꣡#}¦ ({#गो + स्थ#}) 
 <ls>P. 8, 3, 97.</ls> 
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> (dieses nur in der späteren Sprache) {%Standort von Kühen, Kuhstall, Kuhhürde; Stall, Sammelplatz, Aufenthaltsort von Thieren%} 
-<ls>P. 5, 2, 29, <is>Vārtt</is>. 3.</ls> 
+<ls>P. 5, 2, 29</ls>, <is>Vārtt</is>. 3. 
 <ls>VOP. 7, 76.</ls> 
 <ls>AK. 2, 1, 13. 3, 4, 7, 22.</ls> 
 <ls>H. 964.</ls> 
@@ -10,8 +10,8 @@
 <ls>MED. ṭh. 4.</ls> {#नि गावो^ गो\ष्ठे अ^सदन्#} 
 <ls>ṚV. 1, 191, 4.</ls> <ls n="ṚV.">6, 28, 1.</ls> <ls n="ṚV.">8, 43, 17.</ls> 
 <ls>VS. 3, 21. 5, 17.</ls> 
-<ls>AV. 3, 14, 1. 5. 6.</ls> {#इ\मं गो\ष्ठं प\शव\ः सं स्र^वन्तु#} 
-<ls>2, 26, 2.</ls> {#पशवः सायंगोष्ठाः#} 
+<ls>AV. 3, 14, 1.</ls> <ls n="AV. 3, 14,">5.</ls> <ls n="AV. 3, 14,">6.</ls> {#इ\मं गो\ष्ठं प\शव\ः सं स्र^वन्तु#} 
+<ls n="AV.">2, 26, 2.</ls> {#पशवः सायंगोष्ठाः#} 
 <ls>AIT. BR. 3, 18.</ls> 
 <ls>ŚAT. BR. 11, 8, 3, 2.</ls> 
 <ls>KAUŚ. 89.</ls> 
@@ -24,8 +24,8 @@
 <ls>VARĀH. BṚH. S. 32, 22. 44 (43), 5. 47, 11. 88, 12.</ls> 
 <ls>BHĀG. P. 9, 2, 4.</ls> {#गवां गोष्ठे#} 
 <ls>M. 4, 58.</ls> {#गोगोष्ठ, महिषी°, अश्व°#} 
-<ls>P. 5, 2, 29, <is>Vārtt</is>. 3,</ls> 
-<ls>Sch.</ls> {#गोष्ठान्हरीणाम्#} 
+<ls>P. 5, 2, 29</ls>, <is>Vārtt</is>. 3, <ls>Sch.</ls>
+{#गोष्ठान्हरीणाम्#} 
 <ls>MBH. 3, 12341.</ls> {#सिंह°#} 
 <ls>DRAUP. 4, 9.</ls> 
 <div n="1">— 2) als Bein. von <is>Śiva</is> 

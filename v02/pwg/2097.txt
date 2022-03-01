@@ -1,11 +1,11 @@
 <L>2097<pc>1-0157<k1>अध्ययन<k2>अध्ययन
 {#अध्ययन#}¦ (von {#इ#} mit {#अधि#}) <lex>n.</lex> {%das Lesen, Studium%} 
-<ls>P. 2, 4, 5. 4, 4, 63. 5, 1, 58.</ls> {#वेदानध्ययनेन#} 
+<ls>P. 2, 4, 5.</ls> <ls n="P.">4, 4, 63.</ls> <ls n="P.">5, 1, 58.</ls> {#वेदानध्ययनेन#} 
 <ls>M. 3, 63.</ls> {#वेदाध्य°#} 
 <ls>R. 1, 50, 3.</ls> 
 <ls>HIT. I, 15.</ls> {#व्याकरणाध्य°#} 
-<ls>P. 1, 3, 38,</ls> 
-<ls>Sch.</ls> insbes. {%das Studium der heiligen Schriften%} 
+<ls>P. 1, 3, 38</ls>, <ls>Sch.</ls>
+insbes. {%das Studium der heiligen Schriften%} 
 <ls>H. 821</ls> (als das dem <is>Brahman</is> darzubringende Opfer). {#त्रयो धर्मस्कन्धा यज्ञो ऽध्ययनं दानमिति#} 
 <ls>CHĀND. UP. 2, 23, 1.</ls> {#अध्ययने ऽभिक्रान्तितमः#} 
 <ls>LĀṬY. 8, 6.</ls> in <ls>Ind. St. I, 52, 15.</ls> {#अध्ययनतपसी#} <is>gaṇa</is> {#दधिपयआदि#} . 

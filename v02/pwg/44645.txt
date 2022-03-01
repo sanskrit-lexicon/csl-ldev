@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>adj.</lex> {%zum Oberhaupt —, zum höchsten Gott%} (<is>Brahman</is>) {%in Beziehung stehend, ihnen gehörig, ihnen zukommend, von ihnen kommend u.s.w.%}: {#चामरव्यजनादिभिः#} 
 <ls>BHĀG. P. 6, 7, 6.</ls> {#ऋषयः = ब्रह्मर्षयः#} 
 <ls>MBH. 1, 7682.</ls> {#अस्त्र#} 
-<ls>3, 11900. 6, 5802.</ls> {#स्थान#} 
+<ls n="MBH.">3, 11900.</ls> <ls n="MBH.">6, 5802.</ls> {#स्थान#} 
 <ls>HARIV. 2703.</ls> {#कर्मन्#} 
 <ls n="HARIV.">2162.</ls> <ls n="HARIV.">12311.</ls> {#वाक्य#} 
 <ls n="HARIV.">9660.</ls> {#धिषण#} 

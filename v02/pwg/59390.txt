@@ -8,7 +8,7 @@
 <ls>MED. avy. 49</ls> ({#वारणे विकल्पे च#}) . Ein folgendes {#छ#} wird nach {#मा#} verdoppelt ({#मा च्छिदत्#}) 
 <ls>P. 6, 1, 74.</ls> 
 <div n="1"> 1) mit conj. (aor. ohne Augment in der späteren Sprache) 
-<ls>P. 3, 3, 175. 6, 4, 74.</ls> 
+<ls>P. 3, 3, 175.</ls> <ls n="P.">6, 4, 74.</ls> 
 <ls>VOP. 25, 27.</ls> {#मा नो^ वधीरिन्द्र\ मा परा^ दाः#} 
 <ls>ṚV. 1, 104, 8.</ls> <ls n="ṚV.">7, 1, 11.</ls> <ls n="ṚV. 7, 1,">19.</ls> <ls n="ṚV. 7, 1,">21.</ls> <ls n="ṚV. 7, 1,">22.</ls> <ls n="ṚV. 7,">4, 6.</ls> {#मा ते^ भूम परा\दै#} 
 <ls n="ṚV. 7,">19, 7.</ls> <ls n="ṚV. 7,">21, 5.</ls> {#मा तत्क^र्म\ यच्चय^ध्वे#} 
@@ -18,7 +18,7 @@
 <ls>ŚĀṄKH. ŚR. 10, 18, 5.</ls> {#मा दाः#} 
 <ls>M. 2, 114. 4, 225. 8, 15</ls> {#(वधीत्#} zu lesen). ad 
 <ls n="M.">3, 259</ls> (vgl. ad <ls>YĀJÑ. 1, 245</ls>). <ls>N. 12, 52. 14, 3.</ls> <ls>HIḌ. 3, 7. 10.</ls> <ls>MBH. 3, 15681.</ls> <ls n="MBH. 3,">15797.</ls> <ls n="MBH.">5, 6032</ls> {#(न#} ed. Calc., {#मा#} ed. Bomb.). 
-<ls>7290. 12, 6732.</ls> <ls>DAŚ. 1, 48. 2, 35</ls> ({#मा मा गमः#}) . 
+<ls n="MBH. 5,">7290.</ls> <ls n="MBH.">12, 6732.</ls> <ls>DAŚ. 1, 48. 2, 35</ls> ({#मा मा गमः#}) . 
 <ls>R. 1, 64, 5. 2, 25, 15.</ls> 
 <ls>Spr. 2176. 2406. 3702. 3966.</ls> 
 <ls>RAGH. 1, 37. 3, 50.</ls> 
@@ -30,8 +30,8 @@
 <ls>LA. (II) 92, 4.</ls> {#मा न सावीः#} 
 <ls>BHAṬṬ. 9, 50. 15, 12.</ls> {%damit nicht%}: {#मा वनं छिन्द्धि सव्याघ्रं मा व्याघ्रा नीनशन्वनात्#} 
 <ls>Spr. 4716.</ls> {#उत्तरत्र गतिसंज्ञैव यथा स्यात् उपसर्गसंज्ञा मा भूत्#} 
-<ls>P. 1, 4, 60,</ls> 
-<ls>Sch.</ls> {#यथा मा#} dass.: {#यथा मा वो मृत्युः परिव्यथा इति#} 
+<ls>P. 1, 4, 60</ls>, <ls>Sch.</ls>
+{#यथा मा#} dass.: {#यथा मा वो मृत्युः परिव्यथा इति#} 
 <ls>PRAŚNOP. 6, 6.</ls> {#कथं मा भूत् = कथं न स्यात्#} 
 <ls>KATHĀS. 42, 114.</ls> {#कथं कमलनालस्य मा भूवन्भङ्गुरा गुणाः#} 
 <ls>Spr. 121</ls> {#(नाभूवन्#} schlechtere Lesart). {#मापगाः शौद्रान्न्यायात्#} 
@@ -43,18 +43,18 @@
 <ls>M. 3, 259</ls> {#(विगमत्#} v. l.) = 
 <ls>YĀJÑ. 1, 245.</ls> {#मा त्वां कालो ऽत्यगादयम्#} 
 <ls>MBH. 1, 6196.</ls> <ls n="MBH.">3, 15689.</ls> <ls n="MBH.">5, 5984.</ls> {#मास्मत्सकाशे परुषाण्यवोचः#} 
-<ls>3, 15689.</ls> {#मा निषाद प्रतिष्ठां त्वमगमः#} 
+<ls n="MBH.">3, 15689.</ls> {#मा निषाद प्रतिष्ठां त्वमगमः#} 
 <ls>R. 1,2, 18 (17 GORR.)</ls> = <ls>UTTARARĀMAC. 27, 16.</ls>
 [Page5-0680]
 In Verbindung mit {#अर्हसि#} st. {#न#} aus metrischen Rücksichten: {#क्लैव्यं मा गन्तुमर्हसि#} 
 <ls>R. GORR. 2, 116, 5.</ls> 
 <div n="1">— 2) mit imperat. 
-<ls>P. 3, 3, 175,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 175</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 25, 27.</ls> {#न वो^चाम\ मा सु^नो\तेति\ सोम^म्#} 
 <ls>ṚV. 2, 30, 7.</ls> {#मा स्रे^धत सोमिनः#} 
 <ls n="ṚV.">7, 32, 9.</ls> <ls n="ṚV. 7,">59, 10.</ls> <ls n="ṚV.">4, 5, 2.</ls> <ls n="ṚV.">8, 1, 1.</ls> <ls>MBH. 1, 6029.</ls> {#मा पितः क्रन्द मा मार्तर्मा स्वसः#} 
-<ls>6201. 5, 7115</ls> ({#मा मा#}) . 
+<ls n="MBH. 1,">6201.</ls> <ls n="MBH.">5, 7115</ls> ({#मा मा#}) . 
 <ls n="MBH. 5,">7292.</ls> <ls>HARIV. 7909.</ls> <ls>Spr. 990. 1112. 4707. 4716.</ls> <ls>VET. in LA. (II) 18, 7.</ls> <ls>ŚUK. ebend. 36, 5.</ls> {#रिपुरयं मा कस्यचिज्जायताम्#} {%möge dieser Feind Niemand erstehen%} 
 <ls>Spr. 1789.</ls> {#यु\ष्माक^मस्तु\ तवि^षी\ पनी^यसी\ मा मर्त्य^स्य मा\यिन^ः#} 
 <ls>ṚV. 1, 39, 2.</ls> {#गच्छ वा मा वा निवृत्तो ऽस्म्यद्य याजनात्#} {%du magst gehen oder nicht%} d. i. {%gleichviel, ob du gehst oder nicht%}, 
@@ -77,10 +77,10 @@ In Verbindung mit {#अर्हसि#} st. {#न#} aus metrischen Rücksichten
 <div n="1">— 5) mit fut. 
 <ls>VOP. 25, 27.</ls> {%damit nicht%}: {#समं वर्तस्व भार्यासु मा त्वां शप्स्ये#} 
 <ls>MBH. 9, 2025.</ls> <ls n="MBH.">8, 2353.</ls> <ls n="MBH.">13, 493.</ls> {#मा स्मैव त्वं पुनरागाः कथंचिद्बृहस्पतिं परिदातुं मरुत्ते । मा त्वां धक्ष्ये चक्षुषा#} 
-<ls>14, 237.</ls> <ls>R. GORR. 2, 65, 39.</ls> <ls>PAÑCAT. 257, 24</ls> (wo {#यद्#} st. {#यदि#} mit der v.l. zu lesen ist, wie schon 
+<ls n="MBH.">14, 237.</ls> <ls>R. GORR. 2, 65, 39.</ls> <ls>PAÑCAT. 257, 24</ls> (wo {#यद्#} st. {#यदि#} mit der v.l. zu lesen ist, wie schon 
 <ls>BENFEY</ls> bemerkt hat). 
 <div n="1">— 6) mit einem partic. praes. 
-<ls>P. 3, 2, 120, <is>Vārtt</is>. 6.</ls> {#मा जीवन्यः#} u. s. w. {%derjenige soll (verdient) nicht zu leben, der u.s.w.%} 
+<ls>P. 3, 2, 120</ls>, <is>Vārtt</is>. 6. {#मा जीवन्यः#} u. s. w. {%derjenige soll (verdient) nicht zu leben, der u.s.w.%} 
 <ls>Spr. 2161.</ls> 
 <div n="1">— 7) elliptisch ohne Verbum: {#मा प्रातृद#} {%nicht so, o%} <is>Prātṛda</is>! 
 <ls>ŚAT. BR. 14, 8, 13, 2.</ls> {#मैवम्#} 

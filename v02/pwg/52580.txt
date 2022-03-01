@@ -15,7 +15,7 @@
 <ls n="ṚV.">4, 22, 3.</ls> {#प्र बा\हू अ^स्राक्#} 
 <ls n="ṚV.">4, 53, 3.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71,">5.</ls> ({#हस्तघ्नः#}) {#अहि^रिव भो\गैः पर्ये^ति बा\हुम्#} 
 <ls n="ṚV.">6, 75, 14.</ls> {#साक्षा^म\ तान्बा\हुभि\ः शाश^दानान्#} 
-<ls n="ṚV.">7, 98, 4.</ls> <ls n="ṚV.">8, 20, 11.</ls> <ls>AV. 10, 2, 5. 11, 9, 1. 13. 10, 16.</ls> <ls>VS. 11, 57.</ls> {#स पतित्वा बाहुमपिशश्रे#} 
+<ls n="ṚV.">7, 98, 4.</ls> <ls n="ṚV.">8, 20, 11.</ls> <ls>AV. 10, 2, 5.</ls> <ls n="AV.">11, 9, 1.</ls> <ls n="AV. 11, 9,">13.</ls> <ls n="AV. 11,">10, 16.</ls> <ls>VS. 11, 57.</ls> {#स पतित्वा बाहुमपिशश्रे#} 
 <ls>ŚAT. BR. 1, 7, 3, 19.</ls> {#दिवं बाहुभ्यां नोदापुः#} 
 <ls>13, 5, 4, 14.</ls> {#बाहुर्वा अरत्निः#} 
 <ls>14, 1, 2, 6. 5, 4, 1, 15. 7, 4, 1, 36.</ls> <ls>ĀŚV. GṚHY. 4, 2, 8.</ls> {#न बाहुभ्यां नदीं तरेत्#} 
@@ -40,7 +40,7 @@
 <ls>MĀRK. P. 69, 30.</ls> 
 <ls>P. 4, 1, 67.</ls> Ist das <lex>f.</lex> des <lex>adj.</lex> comp. ein N. pr., so geht dieses auf {#ऊ#} aus, ebend. 
 <div n="2">— b) beim Thier {%Vorderfuss%}; besonders, nach den Comm., {%der obere Theil desselben.%} Bei der Regelmässigkeit der Aufeinanderfolge von {#अंसौ, दोषणी, बाहू#} dürfte es jedoch richtiger sein in Uebereinstimmung mit der Bedeutung des Wortes beim menschlichen Arm {%den untern Theil des Vorderfusses%} zu verstehen und {#दोषन्#} die andere Bed. beizulegen. 
-<ls>AV. 9, 7, 7. 10, 9, 19.</ls> 
+<ls>AV. 9, 7, 7.</ls> <ls n="AV.">10, 9, 19.</ls> 
 <ls>AIT. BR. 2, 6. 7, 1.</ls> 
 <ls>ṚV. 10, 102, 4.</ls> 
 <ls>ĀŚV. GṚHY. 1, 11, 4. 4, 2, 8.</ls> 
@@ -64,8 +64,8 @@
 <ls>P. 4, 1, 96.</ls> 
 <ls>VOP. 7, 1.</ls> eines <is>Daitya</is> 
 <ls>MBH. 12, 8263.</ls> eines Fürsten 
-<ls>5, 85.</ls> durch ungesetzliches Verfahren schändet er sein Geschlecht: {#बाहुः सुन्दरवंशानाम् (कलिरजायत)#} 
-<ls>2731.</ls> ein Sohn <is>Vṛka's</is> 
+<ls n="MBH.">5, 85.</ls> durch ungesetzliches Verfahren schändet er sein Geschlecht: {#बाहुः सुन्दरवंशानाम् (कलिरजायत)#} 
+<ls n="MBH. 5,">2731.</ls> ein Sohn <is>Vṛka's</is> 
 <ls>HARIV. 760. fgg.</ls> 
 <ls>VP. 373.</ls> ein Sohn <is>Vajra's</is> 
 <ls>440.</ls> 

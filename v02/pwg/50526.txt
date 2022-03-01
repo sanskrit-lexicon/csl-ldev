@@ -11,7 +11,7 @@
 <ls>ṚV. 10, 18, 3.</ls> <ls n="ṚV. 10,">155, 4.</ls> {#प्राञ्चो^ मदन्त्यु\क्षण^ः#} 
 <ls n="ṚV.">3, 7, 7.</ls> {#मनस्#} 
 <ls n="ṚV. 3,">31, 5.</ls> {#अमित्राः#} 
-<ls n="ṚV.">10, 131, 1.</ls> <ls>AV. 11, 8, 18. 13, 2, 3. 4, 7.</ls> {#रथ^ं वि\श्वत\ः #}
+<ls n="ṚV.">10, 131, 1.</ls> <ls>AV. 11, 8, 18.</ls> <ls n="AV.">13, 2, 3.</ls> <ls n="AV. 13,">4, 7.</ls> {#रथ^ं वि\श्वत\ः #}
 [Page4-1128]
 {# प्राञ्च^म्#} 
 <ls>ṚV. 10, 135, 3.</ls> {#दा\धर्थ\ प्राची\ं ककु^भं पृथि\व्याः#} {%pronus%} 
@@ -33,7 +33,7 @@
 <ls>AK. 1, 1, 2, 3. 3, 4, 32, 7.</ls> 
 <ls>HALĀY. 1, 101.</ls> {#प्राची देवानां दिक्#} 
 <ls>ŚAT. BR. 1, 7, 1, 12.</ls> 
-<ls>AV. 3, 26, 1. 4, 14, 7. 5, 4, 8.</ls> 
+<ls>AV. 3, 26, 1.</ls> <ls n="AV.">4, 14, 7.</ls> <ls n="AV.">5, 4, 8.</ls> 
 <ls>ŚAT. BR. 9, 5, 1, 64.</ls> 
 <ls>KĀTY. ŚR. 15, 2, 4.</ls> 
 <ls>MBH. 3, 11860.</ls> 
@@ -60,8 +60,8 @@
 <ls>KĀTY. ŚR. 2, 6, 4. 5, 3, 13.</ls> daher auch {#प्राची#} für {%Länge%}: {#°प्रमाण#} (Gegens. {#तिर्यक्प्रमाण#}) 
 <ls>Schol.</ls> zu <ls>KĀTY. ŚR. 209. 9. 13. 15. 446, 16.</ls> {#षट्त्रिंशत्प्रक्रम°#} 
 <ls>SĀY.</ls> zu <ls>ṚV. 2, 15, 3.</ls> — {#प्राचां देशे#} {%im Lande der Oestlichen%} 
-<ls>P. 1, 1, 75. 2, 4, 60. 4, 2, 139. 6, 2, 74. 7, 3, 14. 24.</ls> {%die Oestlichen%} so v. a. {%die Lehrer im Ostlande%} 
-<ls>3,4,18.4,1,17. 43. 160.5,3,80. 94.4,101.8,2,86. <is>Vārtt</is>. 9 zu 7,3,45.</ls> <ls>PRATĀPAR. 82,a,9.1,4.</ls> {#तदुक्तं प्राचा भामहेन#} 
+<ls>P. 1, 1, 75.</ls> <ls n="P.">2, 4, 60.</ls> <ls n="P.">4, 2, 139.</ls> <ls n="P.">6, 2, 74.</ls> <ls n="P.">7, 3, 14.</ls> <ls n="P. 7, 3,">24.</ls> {%die Oestlichen%} so v. a. {%die Lehrer im Ostlande%} 
+<ls n="P.">3, 4, 18.</ls> <ls n="P.">4, 1, 17.</ls> <ls n="P. 4, 1,">43.</ls> <ls n="P. 4, 1,">160.</ls> <ls n="P.">5, 3, 80.</ls> <ls n="P. 5, 3,">94.</ls> <ls n="P. 5,">4, 101.</ls> <ls n="P.">8, 2, 86.</ls> <is>Vārtt</is>. 9 zu <ls n="P.">7, 3, 45.</ls> <ls>PRATĀPAR. 82,a,9.1,4.</ls> {#तदुक्तं प्राचा भामहेन#} 
 <ls>2,b,1.</ls> <ls>Verz. d. B. H. 300,28.</ls> <ls>Ind. St. 4,172. fg. 176.</ls> 
 <div n="2">— c) {%vormalig, der frühere%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>ṚV. 1, 110, 2.</ls> Diese Bed. hat das Wort am Anfange vieler besonders aufgeführter Composita. 
@@ -85,7 +85,7 @@
 [Page4-1129]
 {%weit eher, noch mehr%} (also = {#किमुत): इयं च महाप्रतिज्ञा शक्रब्रह्मादीनामपि दुष्करा प्रागेव मनुष्यभूतानाम्#} {%wie viel mehr für die Menschen%}; {#यत्रामनुष्याः प्रलयं गच्छन्ति प्रागेव मनुष्याः#} 
 <ls>BURNOUF</ls> in <ls>Lot. de la b. l. 382.</ls> Nach <ls>H. an.</ls> und <ls>MED.</ls> bedeutet {#प्राक्#} auch {%dazwischen%} ({#अवान्तरे#}) und {%am frühen Morgen%} ({#प्रभाते#}). {%vor%} mit dem ablat. 
-<ls>P. 2, 1, 12. 3, 29.</ls> {#सिन्धोः#} 
+<ls>P. 2, 1, 12.</ls> <ls n="P. 2,">3, 29.</ls> {#सिन्धोः#} 
 <ls>MBH. 2, 2146.</ls> 
 <ls>R. 2, 98, 6.</ls> 
 <ls>AK. 2, 7, 15.</ls> 
@@ -95,10 +95,10 @@
 <ls>KAṬHOP. 6, 4.</ls> 
 <ls>CHĀND. UP. 2, 9, 7. 5, 3, 7.</ls> 
 <ls>NIR. 12, 13.</ls> 
-<ls>M. 2, 29</ls> (<ls>MBH. 3, 12484).</ls> <ls>BHAG. 5, 23.</ls> <ls>RAGH. 14, 78.</ls> <ls>KUMĀRAS. 2, 4.</ls> <ls>ŚĀK. 118.</ls> <ls>KATHĀS. 11, 80.</ls> <ls>RĀJA-TAR. 5, 45.</ls> {#प्रागेकादशभ्यः#} {%vor eilf%} 
+<ls>M. 2, 29</ls> (<ls>MBH. 3, 12484</ls>). <ls>BHAG. 5, 23.</ls> <ls>RAGH. 14, 78.</ls> <ls>KUMĀRAS. 2, 4.</ls> <ls>ŚĀK. 118.</ls> <ls>KATHĀS. 11, 80.</ls> <ls>RĀJA-TAR. 5, 45.</ls> {#प्रागेकादशभ्यः#} {%vor eilf%} 
 <ls>P. 5, 3, 49.</ls> 
 <ls>VOP. 3, 131.</ls> {%vor%} (in einem Buche) 
-<ls>P. 1, 4, 56. 2, 1, 3. 4, 1, 83. 4, 1. 75. 5, 1, 1. 18. 3, 1, 70. 8, 3, 63.</ls> 
+<ls>P. 1, 4, 56.</ls> <ls n="P.">2, 1, 3.</ls> <ls n="P.">4, 1, 83.</ls> <ls n="P. 4,">4, 1.</ls> <ls n="P. 4, 4,">75.</ls> <ls n="P.">5, 1, 1.</ls> <ls n="P. 5, 1,">18.</ls> <ls n="P.">3, 1, 70.</ls> <ls n="P.">8, 3, 63.</ls> 
 <ls>PAT.</ls> zu <ls>P. 1, 1, 38.</ls> Mit dem gen: {#प्राग्भक्तं नाम यत्तु प्राग्भक्तस्योपयुज्यते#} 
 <ls>SUŚR. 2, 554, 14.</ls> Kann mit seinem subst. auch zu einem adverb. comp. verbunden werden 
 <ls>P. 2, 1, 12.</ls> {#प्राग्ग्रामम्#} 

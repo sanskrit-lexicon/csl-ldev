@@ -1,13 +1,13 @@
 <L>42207<pc>4-0463<k1>पद्य<k2>प꣡द्य
 {#प꣡द्य#}¦ (von 2. {#पद्#} und {#पद#}) 
-<ls>P. 6, 3, 53. 4, 2, 104, <is>Vārtt</is>. 17,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 3, 53.</ls> <ls n="P.">4, 2, 104</ls>, <is>Vārtt</is>. 17, <ls>Sch.</ls> 
+
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%auf den Fuss bezüglich, dem Fuss zugehörig%}: {#पद्ये^न\ रप^सा#} 
 <ls>ṚV. 7, 50, 1.</ls> {#अङ्गुलि#} 
 <ls>KĀṬH. 33, 8. 36, 7.</ls> 
 <div n="2">— b) {%den Füssen Schmerz verursachend%}: {#शर्कराः#} 
-<ls>Schol.</ls> zu <ls>P. 4, 4, 83. 6, 3, 53.</ls> 
+<ls>Schol.</ls> zu <ls>P. 4, 4, 83.</ls> <ls n="P.">6, 3, 53.</ls> 
 <div n="2">— c) {%Fusstritte zeigend, mit Fussspuren versehen%} 
 <ls>P. 4, 4, 87.</ls> {#कर्दम#} 
 <ls>Sch.</ls> 
@@ -45,7 +45,7 @@
 <ls>MED.</ls> 
 <ls>HALĀY. 2, 105.</ls> 
 <div n="2">— c) = {#पद#} 
-<ls>4. Schol.</ls> zu <ls>KĀTY. ŚR. 5, 3, 33. 16, 7, 31. 17, 4, 20. 5, 3.</ls> 
+4. Schol. zu <ls>KĀTY. ŚR. 5, 3, 33. 16, 7, 31. 17, 4, 20. 5, 3.</ls> 
 <div n="1">— 3) <lex>n.</lex> {%Vers%} 
 <ls>AK. 3, 4, 1, 2. 14, 81. 30, 234. 6, 3, 31.</ls> 
 <ls>H. an.</ls> 

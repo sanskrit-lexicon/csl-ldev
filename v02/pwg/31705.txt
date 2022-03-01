@@ -1,14 +1,14 @@
 <L>31705<pc>3-0494<k1>दण्डक<k2>दण्डक
 {#दण्डक#}¦ (von {#दण्ड#}) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,a,1.</ls> <ls>AK.3,6,4,33, v. l.</ls> {#द꣡ण्डक = ह्रस्वो दण्डः (संज्ञायाम्)#} 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 249,a,1.</ls> <ls>AK.3,6,4,33, v. l.</ls> {#द꣡ण्डक = ह्रस्वो दण्डः (संज्ञायाम्)#} 
 <ls>P. 5, 3, 78.</ls> {#दण्डक꣡#} ({#चतुर्ष्वर्थेषु#}) <is>gaṇa</is> {#ऋश्यादि#} zu 
 <ls>P. 4, 2, 80.</ls> 
 <div n="1"> 1) {%Stock, Stiel u.s.w.%}: {#छत्त्रं कनकदण्डकम्#} 
 <ls>TRIK. 2, 8, 32.</ls> {#लाङ्गलदण्डक#} {%Deichsel am Pfluge%} 
 <ls>TRIK. 3, 3, 426.</ls> In den folgenden Stellen wohl {%Fahnenstock%} (auf einem Wagen): {#न्यस्तदण्डकबन्धुरान्#} 
 <ls>MBH. 7, 1569.</ls> {#ईषादण्डकबन्धुरैः#} 
-<ls>7, 1731.</ls> {#त्रिवेणुदण्डकावृता#} ({#नदी#}) 
-<ls>9, 443.</ls> Vgl. {#त्रि°#} . 
+<ls n="MBH.">7, 1731.</ls> {#त्रिवेणुदण्डकावृता#} ({#नदी#}) 
+<ls n="MBH.">9, 443.</ls> Vgl. {#त्रि°#} . 
 <div n="1">— 2) {%eine best. Pflanze%} (mahr.: {#थोरतिरकांडें#}) 
 <ls>NIGH. PR.</ls> <ls>SUŚR. 2, 284, 8.</ls> 
 <div n="1">— 3) {%eine ununterbrochen fortlaufende Reihe, Zeile%}: {#तत्र केचिद्द्वौ श्लोकौ पठन्ति - अन्ये तु दण्डकं पठन्ति सो ऽप्युच्यते#}
@@ -35,7 +35,7 @@
 <ls>RAGH. 12, 9.</ls> 
 <ls>HIT. 26, 12.</ls> Auch <lex>m.</lex> pl. sowohl zur Bezeichnung der {%Gegend%} als auch {%ihrer Bewohner%} 
 <ls>MBH. 2, 69.</ls> <ls n="MBH. 2,">11</ls> {#दण्डकानां महद्राज्यं ब्राह्मणेन विनाशितम्#} 
-<ls>13, 7223.</ls> {#जिगमिषुरेव दण्डकान्#} 
+<ls n="MBH.">13, 7223.</ls> {#जिगमिषुरेव दण्डकान्#} 
 <ls>R. 2, 21, 63. 53, 17. 3, 23, 44.</ls> 
 <ls>RAGH. 14, 25.</ls> 
 <ls>VARĀH. BṚH. S. 16, 11.</ls> 

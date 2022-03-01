@@ -1,6 +1,6 @@
 <L>38853<pc>4-0145<k1>नित्य<k2>नि꣡त्य
 {#नि꣡त्य#}¦ (von 1. {#नि#}) 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 3.</ls> 
+<ls>P. 4, 2, 104</ls>, <is>Vārtt</is>. 3. 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%eigen%} (Gegens. {#अरण#}) 
 <ls>NIR. 3, 2.</ls> {#सूनु#} 
@@ -11,7 +11,7 @@
 <ls n="ṚV.">3, 53, 24.</ls> <ls n="ṚV.">5, 85, 7.</ls> {#नित्य^स्य रा\यः पत^यः स्याम#} 
 <ls n="ṚV.">7, 4, 7.</ls> 
 <div n="2">— b) {%stätig, immerwährend, ununterbrochen; durchgängig, ewig%} 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 3.</ls> 
+<ls>P. 4, 2, 104</ls>, <is>Vārtt</is>. 3. 
 <ls>AK. 1, 1, 1, 61. 3, 2, 22. 3, 4, 7, 34.</ls> 
 <ls>TRIK. 3, 3, 314.</ls> 
 <ls>H. 1453. 1471.</ls> 
@@ -31,17 +31,17 @@
 <ls>BHĀG. P. 1, 16, 30.</ls> {#अनित्ये नित्यबुद्धयः#} 
 <ls>9, 18, 41.</ls> {#यस्मिन्नित्ये तते तन्तौ दृढे स्रागिव तिष्ठति#} 
 <ls>MBH. 12, 1610.</ls> {#तस्मिन्सदसि नित्यास्तु व्यासशिष्याः#} 
-<ls>14, 2640.</ls> {#नित्योत्सवसमाजाढ्या#} 
+<ls n="MBH.">14, 2640.</ls> {#नित्योत्सवसमाजाढ्या#} 
 <ls>R. 1, 5, 14.</ls> 
 <ls>BHARTṚ. 2, 39.</ls> {#यदि नित्यमनित्येन - लभ्येत#} 
 <ls>HIT. I, 42.</ls> <ls>ŚVETĀŚV. UP. 6, 13.</ls> <ls>M. 1, 11.</ls> <ls>KAP. 1, 12.</ls> <ls>JAIM. 1, 18.</ls> <ls>SUŚR. 1, 312, 9. 11.</ls> Häufig als letztes Glied eines comp. {%ununterbrochen sich an einem Ort aufhaltend, - in Etwas verharrend%}: {#अरण्य°#} 
 <ls>MBH. 1, 4475.</ls> {#वन°#} 
-<ls>3, 10430. 14, 1274.</ls> {#जाह्नवीतीर°#} 
-<ls>13, 4915.</ls> {#धर्म°#} 
-<ls>1, 2334. 4148. 14, 74.</ls> <ls>HARIV. 7176.</ls> <ls>R. 2, 37, 19. 58, 15.</ls> {#ध्यान°#} 
+<ls n="MBH.">3, 10430.</ls> <ls n="MBH.">14, 1274.</ls> {#जाह्नवीतीर°#} 
+<ls n="MBH.">13, 4915.</ls> {#धर्म°#} 
+<ls n="MBH.">1, 2334.</ls> <ls n="MBH. 1,">4148.</ls> <ls n="MBH.">14, 74.</ls> <ls>HARIV. 7176.</ls> <ls>R. 2, 37, 19. 58, 15.</ls> {#ध्यान°#} 
 <ls>MBH. 3, 15486.</ls> {#सत्य°#} 
-<ls>13, 1563.</ls> {#शस्त्र°#} 
-<ls>1, 4029.</ls> {#अध्यात्म°#} 
+<ls n="MBH.">13, 1563.</ls> {#शस्त्र°#} 
+<ls n="MBH.">1, 4029.</ls> {#अध्यात्म°#} 
 <ls>BHAG. 15, 5.</ls> {#यज्ञाध्ययन°#} 
 <ls>R. 1, 6, 14.</ls> {#आदान°#} 
 <ls>M. 11, 15.</ls> {#धर्मनित्या पाण्डव ते विचेष्टा#}
@@ -89,7 +89,7 @@
 <ls>MACK. Coll. I, 32.</ls> {#नित्याभिषेकविधि#} 
 <ls>159.</ls> {#द्वयोर्विभाषयोर्मध्ये विधिर्नित्यः#} 
 <ls>VOP. 2, 5.</ls> {#समास#} {%ein nothwendiges Compositum, ein Compositum, welches nicht aufgelöst werden kann, ohne dass die Bedeutung zerfiele%}, 
-<ls>P. 6, 1, 169. Schol.</ls> zu <ls>P. 2, 1, 3.</ls> {#प्रत्यय#} . {%Suffix%} 
+<ls>P. 6, 1, 169.</ls> Schol. zu <ls>P. 2, 1, 3.</ls> {#प्रत्यय#} . {%Suffix%} 
 <ls>PAT.</ls> zu <ls>P. 5, 4, 7.</ls> vom {#स्वरित#} so v. a. {#जात्य#} {%der primäre%} im Gegens. zum {%begleitenden, secundären%} 
 <ls>TS. PRĀT. 2, 8.</ls> Einl. zu <ls>NIR. LXIII.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%das Meer%} 

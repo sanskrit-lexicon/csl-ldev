@@ -1,7 +1,7 @@
 <L>87343<pc>6-0630<k1>वज्र<k2>व꣡ज्र
 {#व꣡ज्र#}¦ (wohl desselben Ursprungs wie {#उग्र, ओजस्, ओज्मन्#}) 
 <ls>UṆĀDIS. 2, 28.</ls> <lex>m.</lex> <lex>n.</lex> (in der älteren Sprache nur m.) <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,b,4.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 249,b,4.</ls> 
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> <is>Indra's</is> {%Donnerkeil%} 
 <ls>NAIGH.2,20.</ls> <ls>AK.1,1,1,42.3,4,18,115. 15,186.</ls> <ls>TRIK.1,1,62.</ls> <ls>H. 180. an.2,453.</ls> <ls>MED. r. 82. fg.</ls> <ls>HALĀY.1,56.5,68.</ls> <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> zu <ls>UṆĀDIS.2,28.</ls> <ls>JAṬĀDH.</ls> in <ls>Verz. d. Oxf. H. 191,a,42.</ls> {#बिभ्र\द्वज्र^ं बा\ह्वोरि^न्द्र यासि#} 
 <ls>ṚV. 6, 23, 1.</ls> {#त्वष्टा^स्मै\ वज्र^ं स्व\र्य^ं ततक्ष#} 
@@ -12,7 +12,7 @@
 <ls n="ṚV.">6, 17, 10.</ls> {#शतपर्वन्#} 
 <ls n="ṚV.">8, 6, 6.</ls> <ls>R. 1, 46, 19.</ls> <ls>BHĀG. P. 6, 12, 3.</ls> {#अष्टाश्रि#} 
 <ls>AIT. BR. 2, 1.</ls> {#त्रिषंधि#} 
-<ls>AV. 11, 10, 27. 2, 3, 6. 4, 24, 6.</ls> 
+<ls>AV. 11, 10, 27.</ls> <ls n="AV.">2, 3, 6.</ls> <ls n="AV.">4, 24, 6.</ls> 
 <ls>AIT. BR. 4, 1.</ls> 
 <ls>ŚAT. BR. 8, 5, 1, 10.</ls> {#पुरोगुरु#} 
 <ls>PAÑCAV. BR. 8, 5, 2.</ls> 
@@ -33,12 +33,12 @@
 <ls>6, 77, 16.</ls> {#सवज्रामिव पौलोमीम्#} 
 <ls>4, 39, 6.</ls> {#बाहु सवज्रं शक्रस्य क्रुद्धस्यास्तम्भयत्प्रभुः#} 
 <ls>MBH.</ls> bei <ls>MALLIN.</ls> zu <ls>RAGH. 2, 42.</ls> Auch andern Göttern und verderblichen Gewalten wird eine solche Waffe zugeschrieben 
-<ls>AV. 4, 28, 6. 6, 6, 2.</ls> dem <is>Takman</is> 
-<ls>5, 22, 6. 11, 10, 3. 12, 2, 9.</ls> einem <is>Rākṣasa</is> 
+<ls>AV. 4, 28, 6.</ls> <ls n="AV.">6, 6, 2.</ls> dem <is>Takman</is> 
+<ls n="AV.">5, 22, 6.</ls> <ls n="AV.">11, 10, 3.</ls> <ls n="AV.">12, 2, 9.</ls> einem <is>Rākṣasa</is> 
 <ls>MBH. 7, 4083.</ls> dem <is>Viśvāmitra</is> 
 <ls>R. 1, 56, 8.</ls> dem <is>Viṣṇu</is> 
 <ls>BHĀG. P. 10, 59, 20.</ls> Magische Waffen, verderbliche Sprüche und dgl. werden auch {#वज्र#} genannt 
-<ls>AV. 6, 134, 1. fgg. 135, 1. 11, 10, 12. fg.</ls> 
+<ls>AV. 6, 134, 1.</ls> fgg. <ls n="AV. 6,">135, 1.</ls> <ls n="AV.">11, 10, 12. fg.</ls> 
 <ls>ŚAT. BR. 13, 7, 1, 10. 14, 1, 2, 3.</ls> {#आहुति°#} 
 <ls>LĀṬY. 2, 1, 10.</ls> {#साम°#} 
 <ls>ṢAḌV. BR. 3, 8.</ls> 
@@ -87,8 +87,8 @@
 <ls>MED.</ls> <ls>Journ. of the Am. Or. S. 6, 236. 432.</ls> 
 <div n="1">— 10) <lex>m.</lex> Bez. {%einer best.%} <is>Soma</is>-{%Feier%} 
 <ls>ṢAḌV. BR.</ls> in <ls>Ind. St. 1, 36.</ls> {#इषुवज्रौ#} 
-<ls>P. 2, 4, 4,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 2, 4, 4</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 11) <lex>m.</lex> Bez. {%einer best. Busse%}: {#गोमूत्रयावकपान एको वज्राख्यः कृच्छ्रः#} 
 <ls>PRĀYAŚCITTEND.9,a,8.</ls> 
 <div n="1">— 12) <lex>m.</lex> <lex>n.</lex> {%Diamant%} ({%hart wie der Donnerkeil%}) 

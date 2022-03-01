@@ -2,13 +2,13 @@
 {#सावित्र꣡#}¦ 
 <div n="1"> 1) <lex>adj.</lex> (f. {#ई#}) 
 <div n="2"> a) {%dem%} <is>Savitar</is> {%gehörig, - geweiht; von%} <is>Sav</is>. {%stammend%} 
-<ls>P. 4, 3, 78, Schol.</ls> <ls>VS. 8, 7. 18, 20.</ls> <ls>TS. 2, 1, 6, 3.</ls> {#इष्टि#} 
+<ls>P. 4, 3, 78</ls>, Schol. <ls>VS. 8, 7. 18, 20.</ls> <ls>TS. 2, 1, 6, 3.</ls> {#इष्टि#} 
 <ls>ŚAT. BR. 13, 1, 3, 7. 4, 3, 6.</ls> {#पुरोडाश#} 
 <ls>2, 5, 1, 10.</ls> {#पशु#} 
 <ls>12, 3, 5, 1.</ls> {#सूक्त#} 
 <ls>13, 5, 1, 11.</ls> <ls>KĀTY. ŚR. 8, 1, 5.</ls> {#मेरोः शृङ्गम्#} 
 <ls>MBH. 12, 10212.</ls> {#अस्त्र#} 
-<ls>7, 6954.</ls> <ls>HARIV. 6854.</ls> <ls n="HARIV.">10617.</ls> {#नियम#} 
+<ls n="MBH.">7, 6954.</ls> <ls>HARIV. 6854.</ls> <ls n="HARIV.">10617.</ls> {#नियम#} 
 <ls n="HARIV.">5658.</ls> 
 <div n="2">— b) <is>Sāvitra</is> d. i. <is>Karṇa</is> {%betreffend%}: {#उपाख्यान#} 
 <ls>MBH. 1, 332.</ls> 
@@ -38,7 +38,7 @@
 <ls>UTTARAR. 20, 13 (27, 13).</ls> {#चन्द्रकेतु#} 
 <ls>99, 18 (132, 3).</ls> patron. <is>Karṇa's</is> 
 <ls>MBH. 1, 5386.</ls> <ls n="MBH.">13, 6253</ls> (vgl. 
-<ls>12, 8598</ls>). ein N. <is>Śiva's</is> 
+<ls n="MBH.">12, 8598</ls>). ein N. <is>Śiva's</is> 
 <ls>H. an. 3, 618.</ls> 
 <ls>MED. r. 236.</ls> ein <is>Vasu</is> 
 <ls>MED.</ls> <ls>MBH. 12, 7586.</ls> <ls n="MBH.">13, 7094.</ls> <ls>R. 7, 27, 34.</ls> ein <is>Marut</is> 
@@ -71,7 +71,7 @@
 <div n="2">— e) {%Ringfinger%} 
 <ls>H. 593.</ls> 
 <div n="2">— f) {%eine Tochter%} <is>Savitar's</is>: <is>Sūryā</is> 
-<ls>AV. 6, 82, 2. 14, 2, 30.</ls> 
+<ls>AV. 6, 82, 2.</ls> <ls n="AV.">14, 2, 30.</ls> 
 <ls>AIT. BR. 4, 7.</ls> <is>Sītā</is> 
 <ls>TBR. 2, 3, 10, 1.</ls> = {#देवताभेद#} 
 <ls>H. an.</ls> <ls>MBH. 1, 6522.</ls> <ls n="MBH.">3, 8071.</ls> <ls n="MBH. 3,">9994.</ls> <ls n="MBH. 3,">16624. fgg.</ls> <ls n="MBH.">12, 9449</ls> ({#सा अवित्री#} nach 

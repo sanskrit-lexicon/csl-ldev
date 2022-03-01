@@ -6,7 +6,7 @@
 <ls>77, 21.</ls> 
 <div n="1">— 2) {%das Setzen, Beifügen, Hinzufügen%} 
 <ls>VS. PRĀT. 6, 23.</ls> 
-<ls>P. 2, 1, 56. 3, 26.</ls> 
+<ls>P. 2, 1, 56.</ls> <ls n="P. 2,">3, 26.</ls> 
 <div n="1">— 3) {%das Werfen, Abschiessen%} (eines Geschosses) 
 <ls>ARJ. 5, 6.</ls> 
 <ls>MBH. 1, 5131.</ls> <ls n="MBH. 1,">5224.</ls> <ls n="MBH. 1,">5306.</ls> <ls n="MBH.">3, 12310.</ls> 
@@ -33,7 +33,7 @@
 <ls>2, 10, 47.</ls> {#अल्प°#} 
 <ls>NIR. 1, 14. 2, 13.</ls> 
 <ls>JAIM. 1, 14.</ls> 
-<ls>KAṆ. 10, 2, 8.</ls> <ls>MBH. 1, 5342.</ls> <ls n="MBH.">3, 10295.</ls> <ls>HARIV. 14211.</ls> <ls>P. 8, 1, 15.</ls> <ls>Spr. 2027.</ls> <ls>SŪRYAS. 13, 22.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> <ls>BHĀG. P. 7, 7, 36.</ls> <ls>AK. 3, 4, 32 (28), 6. 6, 8, 46.</ls> <ls>SĀH. D. 3, 15. 9.</ls> <ls>Schol.</ls> zu <ls>P. 1, 1, 9. 3, 1, 82.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 6, 1, 150.</ls> <ls>TRIK.</ls> am Schluss. <ls>HALĀY. 4, 9. 5, 79. 80.</ls> <ls>VOP. 26, 219.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 16, 7. 18, 1. fgg. 21, 14.</ls> <ls>Verz. d. B. H. No. 966.</ls> {#एषो ऽस्मि भोः कार्यवशात्प्रयोगवशाच्च प्राकृतभाषी संवृत्तः#} 
+<ls>KAṆ. 10, 2, 8.</ls> <ls>MBH. 1, 5342.</ls> <ls n="MBH.">3, 10295.</ls> <ls>HARIV. 14211.</ls> <ls>P. 8, 1, 15.</ls> <ls>Spr. 2027.</ls> <ls>SŪRYAS. 13, 22.</ls> <ls>ŚAṂK.</ls> zu <ls>CHĀND. UP. S. 10.</ls> <ls>BHĀG. P. 7, 7, 36.</ls> <ls>AK. 3, 4, 32 (28), 6. 6, 8, 46.</ls> <ls>SĀH. D. 3, 15. 9.</ls> <ls>Schol.</ls> zu <ls>P. 1, 1, 9.</ls> <ls n="P.">3, 1, 82.</ls> <ls>SIDDH. K.</ls> zu <ls>P. 6, 1, 150.</ls> <ls>TRIK.</ls> am Schluss. <ls>HALĀY. 4, 9. 5, 79. 80.</ls> <ls>VOP. 26, 219.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 16, 7. 18, 1. fgg. 21, 14.</ls> <ls>Verz. d. B. H. No. 966.</ls> {#एषो ऽस्मि भोः कार्यवशात्प्रयोगवशाच्च प्राकृतभाषी संवृत्तः#} 
 <ls>MṚCCH. 2, 14.</ls> {#°निपुण#} 
 <ls>Spr. 440.</ls> {#°ज्ञ#} 
 <ls>SUŚR. 1, 28, 16.</ls> {#वैनतेयप्रयोगेण#} so v. a. {%vermittelst%} 
@@ -51,7 +51,7 @@
 <ls>647.</ls> {#विद्या°#} 
 <ls>VID. 150.</ls> {#अदर्शन°#} 
 <ls>KATHĀS. 12, 42. 32, 126. 132. 37, 74. 110. 240. 43, 26. 230. 44, 151. 48, 86. 49, 147.</ls> Concret {%eine zur Anwendung kommende, gebräuchliche, vorkommende Form%}: {#समीयादिति प्रयोगस्तु भौवादिकस्य#} 
-<ls>SIDDH. K.</ls> zu <ls>P.7,4,24.</ls> {#बभूवे बुभूवे इति प्रयोगौ#} 
+<ls>SIDDH. K.</ls> zu <ls>P. 7, 4, 24.</ls> {#बभूवे बुभूवे इति प्रयोगौ#} 
 <ls>VOP. 8, 33.</ls> 
 <div n="1">— 7) {%Aufführung eines Tanzes, eines Stückes, Vortrag, Recitation%}: {#नृत्य°#} 
 <ls>MṚCCH. 9, 19.</ls> 
@@ -62,8 +62,8 @@
 <ls>MĀRK. P. 106, 58.</ls> {#उपांशु प्रयोगः श्रुतेः#} {%Vortrag, Recitation%} 
 <ls>KĀTY. ŚR. 1, 3, 10.</ls> 
 <ls>LĀṬY. 6, 5, 12. 6, 8.</ls> {#जप उपांशुप्रयोगः#} 
-<ls>P. 1, 2, 34,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 1, 2, 34</ls>, <ls>Sch.</ls> 
+
 <ls>ṚV. PRĀT. 13, 19.</ls> {#सकरप्रयोगचतुरं वचः#} 
 <ls>ŚIŚ. 9, 79.</ls> {#सम्यग्वर्णप्रयोगेण#} 
 <ls>ŚIKṢĀ 21. 22</ls> in <ls>Ind. St. 4, 269.</ls> {%ein Stück zum Aufführen%}: {#तत्कतमं प्रयोगमाश्रित्यैनमाराधयामः#} 
@@ -79,7 +79,7 @@
 [Page4-1061]
 
 <ls>Spr. 1287.</ls> {#आयोगप्रयोगकृषिबाणिज्यप्रभूत#} 
-<ls>SIDDH.</ls> <ls>P.4,9,a.</ls> {#प्रयोगं प्रयोजयन्ति#} {%sie leihen Geld auf Zinsen aus%} 
+<ls>SADDH. P. 4,9,a.</ls> {#प्रयोगं प्रयोजयन्ति#} {%sie leihen Geld auf Zinsen aus%} 
 <ls>35,b.</ls> 
 <div n="1">— 9) = {#निदर्शन#} {%Beispiel%} 
 <ls>H. an.</ls> <ls>MED.</ls> 

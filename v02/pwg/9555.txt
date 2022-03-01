@@ -7,7 +7,7 @@
 <ls>an. 2, 543.</ls> 
 <ls>MED. ś. 1.</ls> {#यत्स^ंग\रम^भि\धावा^म्या\शाम्#} 
 <ls>AV. 6, 119, 3.</ls> {#यामा\शामेमि\ केव^ली\ सा मे^ अस्तु#} 
-<ls>19, 4, 2.</ls> {#स एतेषां त्रयाणामाशां नेयात्#} {%diese drei Dinge lasse er sich nicht beigehen%} 
+<ls n="AV.">19, 4, 2.</ls> {#स एतेषां त्रयाणामाशां नेयात्#} {%diese drei Dinge lasse er sich nicht beigehen%} 
 <ls>AIT. BR. 3, 46. 7, 26. 30.</ls> {#रोहिण्यै ह त्वेव श्येताक्ष्या आशां नेयात्#} 
 <ls>ŚAT. BR. 3, 3, 1, 15. 12, 4, 3, 9.</ls> {#नामृतत्वस्याशास्ति सर्वमायुरेति#} {%zwar ist auf Unsterblichkeit keine Aussicht, aber er erreicht volle Lebensdauer%} 
 <ls>2, 1, 3, 4. 4, 9</ls>; vgl. <ls>14, 4, 1, 33. 5, 4, 2. 7, 3, 3</ls> (= <ls>BṚH. ĀR. UP. 1, 3, 28. 2, 4, 2. 4, 5, 3</ls>). {#आगतं चाशा चाद्य च श्वश्च#} 
@@ -35,7 +35,7 @@ u.s.w. <ls>7, 14, 1.</ls> {#आशाप्रतीक्षे#} du.
 <ls>ŚĀK. 104, 17.</ls> {#न चाहमाशाः कुर्यां ते#} 
 <ls>R. 3, 66, 18.</ls> {#कृताशाश्च व्रताशाश्च#} 
 <ls>MBH. 3, 1196.</ls> {#आशां कालवतीं दद्यात्कालं विघ्नेन योजयेत्#} {%er setze seine Hoffnung auf die Zeit%} 
-<ls>1, 5629.</ls> {#शिशावस्मिन्नेताः - दधत्याशामेषो ऽस्मान् जीवयेदिति#} 
+<ls n="MBH.">1, 5629.</ls> {#शिशावस्मिन्नेताः - दधत्याशामेषो ऽस्मान् जीवयेदिति#} 
 <ls>KATHĀS. 3, 17.</ls> {#जग्राह - आशां च प्रियसंगमे#} 
 <ls>9, 67.</ls> {#पूरयित्वार्थनामाशाम्#} 
 <ls>ŚĀNTIŚ. 2, 21.</ls> {#पूरिताश#} {%der Jmdes Hoffnung erfüllt hat%} 
@@ -54,7 +54,7 @@ u.s.w. <ls>7, 14, 1.</ls> {#आशाप्रतीक्षे#} du.
 <ls>VID. 160.</ls> 
 <ls>KATHĀS. 26, 22.</ls> mit dem dat.: {#पुत्रलाभाय#} 
 <ls>MBH. 2, 721.</ls> loc.: {#जीविते#} 
-<ls>3, 16240.</ls> mit der Ergänzung comp.: {#मनो बभूवेन्दुमतीनिराशम्#} 
+<ls n="MBH.">3, 16240.</ls> mit der Ergänzung comp.: {#मनो बभूवेन्दुमतीनिराशम्#} 
 <ls>RAGH. 6, 2.</ls> {#दुराश#} <lex>adj.</lex> <lex>f.</lex> {#आ#} {%mit dessen Aussichten es schlimm bestellt ist%} 
 <ls>PRAB. 48, 5.</ls> Die {%Hoffnung%} personif. ist Gemahlin eines <is>Vasu</is> 
 <ls>HARIV. 7740.</ls> die Schwiegertochter des <is>Manas</is> 

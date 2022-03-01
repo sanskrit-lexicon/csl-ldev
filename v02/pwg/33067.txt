@@ -3,7 +3,7 @@
 <div n="1"> 1) = 2. {#दिश्#} {%Richtung, Himmelsrichtung%} 
 <ls>VOP. 4, 2.</ls> {#दिशया#} 
 <ls>MBH. 13, 1390.</ls> {#दिशासु#} 
-<ls>4, 1716. 12, 10454.</ls> {#दिशाभिर्विदिशाभिश्च#} 
+<ls n="MBH.">4, 1716.</ls> <ls n="MBH.">12, 10454.</ls> {#दिशाभिर्विदिशाभिश्च#} 
 <ls>HARIV. 2243.</ls> Vgl. {#अन्तर°, अवान्तर°#} . 
 <div n="1">— 2) N. pr. der Gemahlin des <is>Rudra</is> <is>Bhīma</is> 
 <ls>VP. 59.</ls>

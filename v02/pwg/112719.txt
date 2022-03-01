@@ -5,8 +5,8 @@
 <ls>Verz. d. Oxf. H. 129,a,10.</ls> {%vom Meere stammend, daselbst wohnend%}: {#श्रावकाः#} 
 <ls>TĀRAN. 221. 230. 241. 255. 274. 303.</ls> 
 <div n="2">— b) {%zum Indus gehörig, vom Indus und Indusland kommend%} u. s. w. 
-<ls>P. 4, 3, 33. 93.</ls> <is>gaṇa</is> {#कच्छादि#} 
-zu <ls>2, 133.</ls> <ls>H. an. 3, 715.</ls> <ls>MED. v. 55.</ls> {#गुग्गुलु#} 
+<ls>P. 4, 3, 33.</ls> <ls n="P. 4, 3,">93.</ls> <is>gaṇa</is> {#कच्छादि#} 
+zu <ls n="P. 4,">2, 133.</ls> <ls>H. an. 3, 715.</ls> <ls>MED. v. 55.</ls> {#गुग्गुलु#} 
 <ls>AV. 19, 38, 2.</ls> Wasser 
 <ls>TS. 7, 4, 13, 1.</ls> Pferde (auch <lex>m.</lex> mit Ergänzung eines Wortes für Pferd) 
 <ls>AK. 2, 8, 2, 12.</ls> 
@@ -19,7 +19,7 @@ zu <ls>2, 133.</ls> <ls>H. an. 3, 715.</ls> <ls>MED. v. 55.</ls> {#गुग्�
 <ls>ŚAT. BR. 11, 5, 5, 12. 14, 9, 2, 13.</ls> 
 <ls>MBH. 3, 15672.</ls> <ls n="MBH.">7, 276.</ls> <ls n="MBH. 7,">3898.</ls> 
 <ls>BHĀG. P. 9, 1, 23. 10, 69, 35.</ls> 
-<ls>P. 1, 3, 35, Schol.</ls> 
+<ls>P. 1, 3, 35</ls>, Schol. 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) pl. {%die Anwohner des Indus%} (vgl. {#सिन्धु#}) 
 <ls>AV. PARIŚ.</ls> in <ls>Ind. St. 10,317.</ls> <ls>MBH. 3, 1991.</ls> <ls n="MBH.">14, 2221.</ls> <ls>VARĀH. BṚH. S. 5,71.</ls> <ls>VP. 2,3,17.</ls> <ls>Verz. d. Oxf. H. 217,b,24.</ls>
@@ -37,7 +37,7 @@ wohl sg. Bez. des Landes
 <div n="2">— e) pl. N. einer auf <is>Saindhavāyana</is> zurückgehenden Schule 
 <ls>VP. 3, 6, 12.</ls> 
 <div n="1">— 3) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} 
-zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 251,b,1.</ls> {%Steinsalz.%} das sich im Induslande in grossen Lagern findet, 
+zu <ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 251,b,1.</ls> {%Steinsalz.%} das sich im Induslande in grossen Lagern findet, 
 <ls>AK. 2, 9, 42.</ls> 
 <ls>TRIK.</ls> 
 <ls>H. 941.</ls> 

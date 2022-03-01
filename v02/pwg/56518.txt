@@ -6,7 +6,7 @@
 <ls>VARĀH. BṚH. S. 4, 15. 33, 27.</ls> 
 <div n="1">— 2) subst. <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
 <ls>P. 2, 4, 31.</ls> <lex>m.</lex> <lex>f.</lex> {#(ई꣡#} <is>gaṇa</is> {#गौरादि#} zu 
-<ls>P. 4, 1, 41)</ls> und n. <ls>TRIK. 3, 5, 24.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} . 
+<ls>P. 4, 1, 41</ls>) und n. <ls>TRIK. 3, 5, 24.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} . 
 <div n="2"> a) <lex>n.</lex> {%Scheibe%}, insbes. {%die Sonnenscheibe; jedes Rund, Kreis, Umkreis, Ring%}; = {#बिम्ब#} 
 <ls>AK. 1, 1, 2, 17</ls> (m. f. n.). <ls>TRIK. 3, 3, 405. fg.</ls> <ls>H. 107. an. 3, 674.</ls> <ls>MED. l. 120. fg.</ls> (m. <lex>f.</lex> n.). 
 <ls>HALĀY. 1, 44.</ls> <ls>VIŚVA</ls> bei <ls>UJJVAL.</ls> = {#चक्रबाल#} 
@@ -62,8 +62,8 @@
 <ls>KĀM. NĪTIS. 16, 7.</ls> <ls>MEGH. 37.</ls> <ls>H. 281.</ls> {#चेरतुश्चरितं चित्रं मण्डलैः सव्यदक्षिणैः#} 
 <ls>R. 6, 79, 54.</ls> {#मण्डलान्याचरल्लघु#} (so die ed. Bomb.) 
 <ls>MBH. 6, 2567.</ls> {#तथैव चरतो मार्गान्मण्डलानि च सर्वशः#} (so die ed. Bomb.) 
-<ls>7, 595.</ls> {#तौ वृषाविव नर्दन्तौ मण्डलानि विचेरतुः#} 
-<ls>596. fg. 608. 9, 3267. fg. 3272.</ls> <ls>BHĀG. P. 5, 23, 2.</ls> {#दक्षिणं मण्डलं राजन्धार्तराष्ट्रो ऽभ्यवर्तत#} 
+<ls n="MBH.">7, 595.</ls> {#तौ वृषाविव नर्दन्तौ मण्डलानि विचेरतुः#} 
+<ls n="MBH. 7,">596. fg.</ls> <ls n="MBH. 7,">608.</ls> <ls n="MBH.">9, 3267. fg.</ls> <ls n="MBH. 9,">3272.</ls> <ls>BHĀG. P. 5, 23, 2.</ls> {#दक्षिणं मण्डलं राजन्धार्तराष्ट्रो ऽभ्यवर्तत#} 
 <ls>MBH. 9, 3199. fg.</ls> {#ततः सव्यं दक्षिणं च मण्डलं स (मण्डलानि#} ed. Calc.) {#परिभ्रमन्#} 
 <ls>HARIV. 4297.</ls> {#सव्यं मण्डलमाश्रित्य बलदेवस्तु दक्षिणम् । प्राहरेतां ततो ऽन्योऽन्यम्#} 
 <ls n="HARIV.">5107.</ls> {#सव्यं मण्डलमागमत्#} 
@@ -100,8 +100,8 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> <ls>VIŚVA a. a. O.</ls> <ls>SUŚR. 1, 31, 17. 92, 15. 267, 15. 2, 62, 17. 65, 16.</ls> 
 <div n="2">— e) <lex>m.</lex> {%eine kreisförmige Aufstellung der Truppen%} 
-<ls>H. 747,</ls> 
-<ls>Sch.</ls> {#मण्डलः स महाव्यूहो दुर्भेद्यो ऽमित्रघातिनाम्#} 
+<ls>H. 747</ls>, <ls>Sch.</ls>
+{#मण्डलः स महाव्यूहो दुर्भेद्यो ऽमित्रघातिनाम्#} 
 <ls>MBH. 6, 3554. fg.</ls> 
 <ls>KĀM. NĪTIS. 19, 41. 53.</ls> {#°व्यूह#} 
 <ls>50.</ls> neutr.: {#तिर्यग्वृत्तिश्च दण्डः स्याद्भोगो ऽन्वावृत्तिरेव च । मण्डलं सर्वतोवृत्तिः पृथग्वृत्तिरसंहतः ॥#} 

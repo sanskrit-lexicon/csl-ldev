@@ -1,19 +1,19 @@
 <L>41828<pc>4-0410<k1>पति<k2>प꣡ति
 {#प꣡ति#}¦ (von 3. {#पत्#}) 
 <ls>UṆĀDIS. 4, 57.</ls> instr. {#प꣡त्या#}, dat. {#प꣡त्ये#}, gen. abl. {#पत्युस्#}, loc. {#पत्यौ#}; am Ende eines comp. wie die andern Masculina auf {#इ#} 
-<ls>P. 1, 4, 8. 7, 3, 118.</ls> 
+<ls>P. 1, 4, 8.</ls> <ls n="P.">7, 3, 118.</ls> 
 <ls>VOP. 3, 53.</ls> Im Veda auch in Verbindung mit einem gen. (vgl. {#वा\चस्पति^ना, उ\षस्पति^ना#} 
 <ls>AV. 16, 6, 6.</ls> {#क्षेत्र^स्य\ पत^ये#} 
-<ls>2, 8, 5.</ls> {#भू\तस्य\ पत^ये#} 
-<ls>3, 10, 9. 10</ls>) regelmässig declinirt nach 
+<ls n="AV.">2, 8, 5.</ls> {#भू\तस्य\ पत^ये#} 
+<ls n="AV.">3, 10, 9.</ls> <ls n="AV. 3, 10,">10</ls>) regelmässig declinirt nach 
 <ls>P. 1, 4, 9.</ls> {#कुलुञ्चानां पतये#} <ls>Sch.</ls> Die regelmässigen Formen kommen aber auch in der nachvedischen Sprache vor und auch ohne vorangehenden Genitiv: {#पतिना#} 
 <ls>R. 1, 2, 15. 4, 16, 35.</ls> 
 <ls>MĀRK. P. 21, 68. 74, 40.</ls> {#पतौ#} 
 <ls>KATHĀS. 42, 207.</ls> Lautliches Verhalten eines vorangehenden gen. 
 <ls>ṚV. PRĀT. 4, 15.</ls> 
 <ls>VS. PRĀT. 3, 34.</ls> 
-<ls>P. 8, 3, 53. 54.</ls> Ableitungen von Compositis auf {#पति#} 
-<ls>P. 4, 1, 84. 85.</ls> 
+<ls>P. 8, 3, 53.</ls> <ls n="P. 8, 3,">54.</ls> Ableitungen von Compositis auf {#पति#} 
+<ls>P. 4, 1, 84.</ls> <ls n="P. 4, 1,">85.</ls> 
 <div n="1"> 1) <lex>m.</lex> {%Inhaber, Besitzer; Herr, Gebieter%} 
 <ls>AK. 3, 1, 10.</ls> 
 <ls>H. 359.</ls> 
@@ -55,10 +55,10 @@ zahlreichen Verbindungen zur Bezeichnung von Genien oder ähnlichen Personificat
 <ls>RAGH. 3, 27.</ls> {#दिशाम्#} 
 <ls>AK. 1, 1, 2, 4.</ls> 
 <ls>H. 169.</ls> Accent eines auf {#पति (= ईश्वर)#} ausgehenden comp. 
-<ls>P. 6, 2, 18-20. 140.</ls> 
+<ls>P. 6, 2, 18</ls>-<ls n="P. 6, 2,">20</ls>. <ls n="P. 6, 2,">140.</ls> 
 <div n="1">— 2) <lex>f.</lex> {%Besitzerin, Herrin%} 
 <ls>MED.</ls> {#ग्रामस्य पतिरियम्#} 
-<ls>Schol.</ls> zu <ls>P. 4, 1, 33. 34.</ls> {#कारीषगन्ध्या पतिर्यस्य कारीषगन्ध्यापतिर्ग्रामः#} 
+<ls>Schol.</ls> zu <ls>P. 4, 1, 33.</ls> <ls n="P. 4, 1,">34.</ls> {#कारीषगन्ध्या पतिर्यस्य कारीषगन्ध्यापतिर्ग्रामः#} 
 <ls>Schol.</ls> zu <ls>P. 6, 1, 13.</ls> Vgl. {#पत्नी#} . 
 <div n="1">— 3) <lex>m.</lex> {%Gemahl, Gatte%} 
 <ls>AK. 2, 6, 1, 35.</ls> 
@@ -87,11 +87,11 @@ zahlreichen Verbindungen zur Bezeichnung von Genien oder ähnlichen Personificat
 <ls>Sch.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> gleichlautend: {#जीवत्पत्या त्वया#} 
 <ls>R. GORR. 2, 24, 8.</ls> {#हतपत्यः (भार्याः)#} 
 <ls>MBH. 2, 2639.</ls> {#अपति#} 
-<ls>8, 314.</ls> {#वृद्धपति#} 
-<ls>P. 4, 1, 34, <is>Vārtt</is>.,</ls> 
-<ls>Sch.</ls> 
-<ls>P. 4, 2, 13,</ls> 
-<ls>Sch.</ls>; vgl. {#जीवत्पति#} . Auch {#पतिका#}, z. B. {#प्रमीतपतिका#} 
+<ls n="MBH.">8, 314.</ls> {#वृद्धपति#} 
+<ls>P. 4, 1, 34</ls>, <is>Vārtt</is>., <ls>Sch.</ls> 
+
+<ls>P. 4, 2, 13</ls>, <ls>Sch.</ls>; 
+vgl. {#जीवत्पति#} . Auch {#पतिका#}, z. B. {#प्रमीतपतिका#} 
 <ls>M. 9, 68.</ls> {#जीवत्पतिका#} 
 <ls>KULL.</ls> zu <ls>M. 3, 174.</ls> {#एकपतिका#} ders. zu 
 <ls>9, 183.</ls> Vgl. auch {#पत्नी#} . 

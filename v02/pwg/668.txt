@@ -3,7 +3,7 @@
 <div n="1"> 1) eine Partikel mit versichernder Bedeutung, welche den Nachdruck auf das ihr vorangehende Wort lenkt,
 [Page1-0050]
 {%doch, ja, gewiss%}: {#गाम\ङ्गैष आ ह्व^यति\ दार्व\ङ्गैषो अपा^वधीत्#} 
-<ls>ṚV. 10, 146, 4.</ls> <ls n="ṚV.">1, 84, 7-9.</ls> Häufig nach flüchtigen Conjunctionen und andern kurzen Wörtern am Anfange eines Satzes, um denselben Halt zu geben, ähnlich wie {#इत्#}, z. B. {#यद\ङ्ग#} 
+<ls>ṚV. 10, 146, 4.</ls> <ls n="ṚV.">1, 84, 7</ls>-9. Häufig nach flüchtigen Conjunctionen und andern kurzen Wörtern am Anfange eines Satzes, um denselben Halt zu geben, ähnlich wie {#इत्#}, z. B. {#यद\ङ्ग#} 
 <ls>ṚV. 3, 33, 11.</ls> <ls n="ṚV.">8, 6, 26.</ls> <ls n="ṚV. 8,">7, 2.</ls> {#किम\ङ्ग#} 
 <ls n="ṚV.">1, 118, 3.</ls> <ls n="ṚV.">10, 42, 3.</ls> {#त्वम\ङ्ग#} 
 <ls n="ṚV.">1, 84, 19.</ls> <ls n="ṚV.">5, 3, 11.</ls> {#त्व\ं ह्य१^\ङ्ग#} 
@@ -16,12 +16,12 @@
 <ls>CHĀND. UP. 4, 1, 5.</ls> {#आसामङ्गैकां भिन्धि (भिन्द्धि)#} 
 <ls>6, 12, 1.</ls> {#अङ्गावेक्षस्व सौमित्रे कस्येमां मन्यसे चमूम्#} 
 <ls>R. 2, 97, 16.</ls> {#अङ्ग कुरु । अङ्ग पच#} 
-<ls>P. 8, 1, 33,</ls> 
-<ls>Sch.</ls> {#अङ्ग कूजा३ इदानीं ज्ञास्यसि जाल्म । अङ्गाधीष्व भक्तं ते दास्यामि#} 
+<ls>P. 8, 1, 33</ls>, <ls>Sch.</ls>
+{#अङ्ग कूजा३ इदानीं ज्ञास्यसि जाल्म । अङ्गाधीष्व भक्तं ते दास्यामि#} 
 <ls>8, 2, 96</ls>, <ls>Sch.</ls> {#मम तावन्मतमिदं श्रूयतामङ्ग वामपि#} 
 <ls>ŚIŚ. 2, 12.</ls> {#समनद्ध किमङ्ग भूपतिर्यदि संधित्सुरसौ सहामुना#} 
 <ls>16, 34.</ls> Ueber die Betonung und Dehnung des Verbi finiti nach {#अङ्ग#} s. 
-<ls>P. 8, 1, 33. 8, 2, 96.</ls> — Die indischen Lexicographen führen folgende Bedeutungen von {#अङ्ग#} auf: 
+<ls>P. 8, 1, 33.</ls> <ls n="P.">8, 2, 96.</ls> — Die indischen Lexicographen führen folgende Bedeutungen von {#अङ्ग#} auf: 
 <div n="1"> 1) = {#क्षिप्रम्#} 
 <ls>NIR. 5, 17.</ls> 
 <div n="1">— 2) {#संबोधने#} 

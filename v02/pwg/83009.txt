@@ -1,7 +1,7 @@
 <L>83009<pc>6-0234<k1>रजक<k2>र꣡जक
 {#र꣡जक#}¦ (von {#रज्#}) <lex>m.</lex> 
 <div n="1"> 1) {%Wäscher%} (der sich auch mit dem {%Färben%} der Kleider beschäftigt) 
-<ls>P. 3, 1, 145, <is>Vārtt</is>. 6, 4, 24, <is>Vārtt</is>. 5.</ls> 
+<ls>P. 3, 1, 145</ls>, <is>Vārtt</is>. <ls n="P.">6, 4, 24</ls>, <is>Vārtt</is>. 5. 
 <ls>VOP. 26, 38.</ls> 
 <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 2, 32.</ls> <ls>AK. 2, 10, 10.</ls> <ls>TRIK. 2, 10, 4.</ls> <ls>H. 914. an. 3, 86.</ls> <ls>HALĀY. 2, 438.</ls> {#रजकं रङ्गकारकम्#} 
 <ls>HARIV. 4470. fgg.</ls> 
@@ -15,12 +15,12 @@
 <ls>KATHĀS. 63,132. fg.</ls> 
 <ls>PAÑCAT. 214,25.</ls> 
 <ls>HIT. 50,1. 17. 81,12. fg.</ls> <ls>Verz. d. Oxf. H. 13,b,29. 281,b,28. 282,b,48.</ls> {#रजकतन्तुवायम्#} 
-<ls>P. 2, 4, 10,</ls> 
-<ls>Sch.</ls> eine verachtete Klasse von Menschen 
+<ls>P. 2, 4, 10</ls>, <ls>Sch.</ls>
+eine verachtete Klasse von Menschen 
 <ls>COLEBR. Misc. Ess. II, 184. fg.</ls> {#तीवर्यां धीवरात्पुत्रो बभूव रजकः स्मृतः#} 
 <ls>Verz. d. Oxf. H. 22,a,12.</ls> {#रजकी꣡#} {%Wäscherin%} (nach 
 <ls>PAT.</ls> zu <ls>P. 3, 1, 145</ls> {%die Frau eines Wäschers%}) 
-<ls>P. 3, 1, 145, <is>Vārtt</is>.</ls> 
+<ls>P. 3, 1, 145</ls>, <is>Vārtt</is>. 
 <ls>VOP. 26, 38.</ls> 
 <ls>SĀH. D. 61, 3.</ls> {#रजक्यां तीवराच्चैव कपालीति बभूव ह#} 
 <ls>Verz. d. Oxf. H. 22,a,12.</ls> Bez. {%eines Frauenzimmers am 3ten Tage der Menses%} 

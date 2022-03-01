@@ -15,8 +15,8 @@
 <ls>AV. 5, 7, 5.</ls> {#सुरा#} 
 <ls>VS. 20, 28.</ls> der Würfel (Nüsse) 
 <ls>ṚV. 10, 34, 5.</ls> <ls n="ṚV. 10, 34,">11.</ls> <ls n="ṚV. 10, 34,">14.</ls> 
-<ls>AV. 7, 110, 1. 7.</ls> Pflanzen 
-<ls>1, 140, 6.</ls> {#स्वज#} 
+<ls>AV. 7, 110, 1.</ls> <ls n="AV. 7, 110,">7.</ls> Pflanzen 
+<ls n="AV.">1, 140, 6.</ls> {#स्वज#} 
 <ls>AV. 6, 56, 2.</ls> 
 <ls>SUŚR. 2, 265, 14.</ls> {#°पिपीलिकाः#} 
 <ls>KAUŚ. 116.</ls> {#बभ्रुष्णः शरद्यर्कः#} 
@@ -58,7 +58,7 @@ Bein. <is>Kṛṣṇa's</is> oder <is>Viṣṇu's</is>
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="2">— e) N. pr. verschiedener Männer 
 <ls>DHAR.</ls> <ls>P. 4, 1, 106.</ls> <is>gaṇa</is> {#गर्गादि#} zu 
-<ls>105.</ls> eines Liedverfassers aus <is>Atris'</is> Geschlecht 
+<ls n="P. 4, 1,">105.</ls> eines Liedverfassers aus <is>Atris'</is> Geschlecht 
 <ls>ṚV. 5, 30, 14.</ls> <ls n="ṚV.">8, 22, 10.</ls> 
 <ls>AV. 4, 29, 2.</ls> <is>Daivāvṛdha</is> 
 <ls>AIT. BR. 7, 34.</ls> 

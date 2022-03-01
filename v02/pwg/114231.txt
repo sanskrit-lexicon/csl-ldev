@@ -18,7 +18,7 @@ ved. absol. <ls>P. 7, 1, 49.</ls> {%sich baden, ein Reinigungsbad nehmen%} (insb
 <ls>M. 4, 82. 201. 6, 6.</ls> 
 <ls>VARĀH. BṚH. S. 78. 21.</ls> {#वेदमधीत्य स्नायादिति स्मृतिः#} 
 <ls>SARVADARŚANAS. 124, 1.</ls> <ls>MĀRK. P. 35, 32.</ls> {#सस्नौ#} 
-<ls>P. 7, 4, 61, Schol.</ls> {#चन्दनसंयुक्तैः पानीयैः#} 
+<ls>P. 7, 4, 61</ls>, Schol. {#चन्दनसंयुक्तैः पानीयैः#} 
 <ls>MBH. 7, 2919.</ls> <ls n="MBH.">15, 947.</ls>
 [Page7-1345]
 {#अवभृथम्#} 
@@ -33,7 +33,7 @@ ved. absol. <ls>P. 7, 1, 49.</ls> {%sich baden, ein Reinigungsbad nehmen%} (insb
 <ls>MĀRK. P. 34, 34. 35, 28. 32.</ls> {#भस्मना त्रिषवणम्#} so v. a. {%sich einschmieren%} 
 <ls>SARVADARŚANAS. 77, 20.</ls> {#स्नायमान#} 
 <ls>MBH. 7, 2598.</ls> {#स्नास्ये#} 
-<ls>13, 2762.</ls> {#अस्नायि#} 
+<ls n="MBH.">13, 2762.</ls> {#अस्नायि#} 
 pass. impers. <ls>RĀJA-TAR. 3, 286.</ls> {#स्नातुम्#} 
 <ls>R. 1, 63, 4.</ls> 
 <ls>Spr. (II) 4983.</ls> 
@@ -64,7 +64,7 @@ pass. impers. <ls>RĀJA-TAR. 3, 286.</ls> {#स्नातुम्#}
 <ls>MAHĀVĪRAC. 77, 2.</ls> {#मया स्नातं ह्यत्र#} 
 <ls>VOP. 5, 28.</ls> {#स्नातोपवृत्तैस्तुरगैः#} 
 <ls>MBH. 5, 7164.</ls> {#स्नातानुलिप्त#} 
-<ls>P. 2, 1, 49, Schol.</ls> <ls>SUŚR. 1, 113, 6.</ls> <ls>RĀJA-TAR. 3, 241.</ls> <ls>DAŚAK. 65, 16.</ls> <ls>HIT. 42, 1.</ls> {#सु°#} 
+<ls>P. 2, 1, 49</ls>, Schol. <ls>SUŚR. 1, 113, 6.</ls> <ls>RĀJA-TAR. 3, 241.</ls> <ls>DAŚAK. 65, 16.</ls> <ls>HIT. 42, 1.</ls> {#सु°#} 
 <ls>Spr. (II) 7144.</ls> 
 <ls>RĀJA-TAR. 3, 490.</ls> {#अ°#} 
 <ls>BHĀG. P. 4, 28, 19.</ls> {#पद°#} 
@@ -131,7 +131,7 @@ pass. impers. <ls>RĀJA-TAR. 3, 286.</ls> {#स्नातुम्#}
 <ls>ṚV. 2, 15, 5.</ls> {#तीर्थेनोत्स्नायुः#} 
 <ls>ŚAT. BR. 12, 2, 1, 5.</ls> {#शृ\त उत्स्ना^ति#} {%macht sich heraus aus dem Feuer%} 
 (<ls>Comm.</ls>) <ls>TBR. 3, 7, 5, 3.</ls> — partic. {#उत्स्नात#} 
-<ls>P. 8, 4, 61, Schol.</ls> in einer Etymologie 
+<ls>P. 8, 4, 61</ls>, Schol. in einer Etymologie 
 <ls>NIR. 7, 12.</ls> {%aus der%} <is>Gāyatrī</is> {%herausgetreten%} (mit drei Silben) nach 
 <ls>DURGA.</ls>
 
@@ -144,13 +144,13 @@ pass. impers. <ls>RĀJA-TAR. 3, 286.</ls> {#स्नातुम्#}
 <ls>YĀJÑ. 1, 321.</ls> {#शब्दब्रह्मणि#} 
 <ls>MAITRYUP. 6, 22.</ls> (= <ls>MBH. 12, 8541</ls>). {#सर्वास्त्रेषु#} 
 <ls>MBH. 1, 3988.</ls> <ls n="MBH.">2, 175.</ls> {#सर्वत्र#} 
-<ls>3, 10020.</ls> {#सर्वासु विद्यासु#} 
+<ls n="MBH.">3, 10020.</ls> {#सर्वासु विद्यासु#} 
 <ls>HARIV. 674.</ls> 
 
 <ls>R. GORR. 1, 80, 28.</ls> {#कर्मसु#} 
 <ls>SUŚR. 1, 12, 12.</ls> 
 <ls>MĀRK. P. 129, 15.</ls> {#रज्जुवर्तने#} 
-<ls>P. 8, 3, 89, Schol.</ls> <ls>BHĀG. P. 2, 4, 10. 3, 22, 34. 4, 24, 9. 5, 24, 24. 11, 11, 18.</ls> {#यजुषाम्#} 
+<ls>P. 8, 3, 89</ls>, Schol. <ls>BHĀG. P. 2, 4, 10. 3, 22, 34. 4, 24, 9. 5, 24, 24. 11, 11, 18.</ls> {#यजुषाम्#} 
 <ls>1, 4, 21.</ls> {#लोकवृत्तान्त°#} 
 <ls>ŚĀK. 65, 17. fg.</ls> {#कुटिलनय°#} 
 <ls>MĀLATĪM. 37, 3.</ls> {#अति°#} 

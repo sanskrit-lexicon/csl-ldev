@@ -15,7 +15,7 @@
 <ls>N. 11, 30.</ls> {#अधमार्गे#} 
 <ls>RAGH. 7, 42.</ls> {#अर्धह्रस्व#} {%eine halbe Mora%} 
 <ls>P. 1, 2, 32.</ls> <lex>adj.</lex> von compp. mit {#अर्ध#} und einem Maasse 
-<ls>7, 3, 26. 27.</ls> {#अर्धाम्बु#} {%halb mit Wasser%} 
+<ls n="P.">7, 3, 26.</ls> <ls n="P. 7, 3,">27.</ls> {#अर्धाम्बु#} {%halb mit Wasser%} 
 <ls>AK. 2, 9, 53.</ls> 
 <ls>H. 409.</ls> {#अर्धेन्द्र꣡#} {%halb dem%} 
 <ls>I.</ls> {%gehörig%} 
@@ -39,14 +39,14 @@
 <ls>YĀJÑ. 2, 165. 204.</ls> {#अर्धसप्तशत#} {%750%} 
 <ls>R. 2, 34, 13. 39, 36</ls> (<ls>GORR.</ls>: {%350%}). Dagegen {#अर्धपञ्चाशत्#} {%25%} 
 <ls>M. 8, 268.</ls> vor einem nom. ordin. 
-<ls>P. 1, 1, 23, <is>Vārtt</is>. 3.</ls> {#अर्धतृतीय#} {%drittehalb%} 
+<ls>P. 1, 1, 23</ls>, <is>Vārtt</is>. 3. {#अर्धतृतीय#} {%drittehalb%} 
 <ls>ĀŚV. ŚR. 12, 5.</ls> 
 <ls>R. 2, 92, 10.</ls> 
 <ls>SUŚR. 2, 167, 11.</ls> {#अर्धचतुर्थ#} {%viertehalb%} 
 <ls>196, 16.</ls> {#अर्धपञ्चम#} 
 <ls>M. 4, 95.</ls> {#अर्धपञ्चमक#} {%für 4(1/2) gekauft u.s.w.%} 
-<ls>P. 1, 1, 23, <is>Vārtt</is>. 3,</ls> 
-<ls>Sch.</ls> {#अर्धसप्तदश#} 16(1/2) 
+<ls>P. 1, 1, 23</ls>, <is>Vārtt</is>. 3, <ls>Sch.</ls>
+{#अर्धसप्तदश#} 16(1/2) 
 <ls>KĀTY. ŚR. 8, 3, 10.</ls> nach einem card.: {#दशार्धानाम्#} {%der fünf%} 
 <ls>M. 1, 27.</ls> 
 <div n="1">— 2) {%Hälfte%}, m.: {#यश्चासावर्धो य उ चायमर्धः#} 

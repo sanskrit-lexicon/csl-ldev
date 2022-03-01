@@ -8,7 +8,7 @@
 <ls n="ṚV.">9, 105, 3.</ls> <ls n="ṚV. 9,">62, 9.</ls> 
 <div n="2">— b) {%zu Wege bringend, hervorbringend, bewirkend%}: {#शब्दरूपस्य#} 
 <ls>MBH. 3, 14195.</ls> {#देवदानवयक्षाणां मानवानां च#} 
-<ls>7, 2864.</ls> <ls>MĀRK. P. 99, 27.</ls> {#संकल्प°#} 
+<ls n="MBH.">7, 2864.</ls> <ls>MĀRK. P. 99, 27.</ls> {#संकल्प°#} 
 <ls>HARIV. 1361</ls> (nach der Lesart der neueren Ausg.). {#सत्य°#} so v. a. {%wahrmachend%} 
 <ls n="HARIV.">12044.</ls> {#विक्रम°#} 
 <ls>R. 3, 33, 15.</ls> {#तत्साधनं कर्म#} 
@@ -114,10 +114,10 @@ zu <ls>P. 3, 1, 134.</ls> N. pr. eines Mannes mit dem patron. <is>Bhauvana</is>,
 <ls>SĀH. D. 213, 1.</ls> 
 <div n="2">— m) in der Gramm. 
 <div n="3"> α) {%Nominalbegriff%} (im Gegens. zur {%Thätigkeit%}), insbes. als {%Subject%} oder {%Instrumental%} Schol. zu 
-<ls>P. 3, 1, 24.</ls> <ls>PAT.</ls> in <ls>SIDDH. K.</ls> zu <ls>P. 8, 3, 74. <is>Vārtt</is>. 2</ls> zu <ls>P. 2, 1, 33. <is>Vārtt</is>. 5</ls> zu <ls>5, 3, 55.</ls> das {%Object%} ist gemeint 
-<ls>P. 8, 1, 44, Schol.</ls> 
+<ls>P. 3, 1, 24.</ls> <ls>PAT.</ls> in <ls>SIDDH. K.</ls> zu <ls>P. 8, 3, 74.</ls> <is>Vārtt</is>. 2 zu <ls>P. 2, 1, 33.</ls> <is>Vārtt</is>. 5 zu <ls n="P.">5, 3, 55.</ls> das {%Object%} ist gemeint 
+<ls>P. 8, 1, 44</ls>, Schol. 
 <div n="3">— β) = {#विकरण#} {%ein zwischen Wurzel und Personalendung tretendes stammbildendes Suffix%} 
-<ls>P. 8, 4, 30, <is>Vārtt</is>. 1.</ls> 
+<ls>P. 8, 4, 30</ls>, <is>Vārtt</is>. 1. 
 <div n="2">— n) {%Berechnung, Ausmittelung durch Berechnung%} 
 <ls>GAṆIT.</ls> 
 <ls>PĀTĀDH. 1.</ls> {%das Beweisen, Darthun%} 

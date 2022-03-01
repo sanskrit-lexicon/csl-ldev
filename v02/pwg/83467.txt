@@ -4,9 +4,9 @@
 <div n="2"> a) {%einen Wagen besitzend, im Wagen fahrend; Besitzer eines Wagens, Kämpfer zu Wagen%} 
 <ls>AK. 2, 8, 2, 28. 44.</ls> 
 <ls>H. 761</ls> ?(bis). <ls>HALĀY. 2, 235.</ls> <ls>ṚV. 5, 83, 3.</ls> {#अ\स्माक^मिन्द्र र\थिनो^ जयन्तु#} 
-<ls>6, 47, 31.</ls> {#अ\श्वी र\थी सु^रू\प इद्गोमा\ँ इदि^न्द्र ते\ सखा^#} 
-<ls>8, 4, 9. 10, 40, 5. 51, 6. 1, 122, 8.</ls> <ls>AV. 4, 34, 4. 7, 62, 1. 73, 1.</ls> {#ये र\थिनो\ ये अ^र\थाः#} 
-<ls>11, 10, 24.</ls> <ls>VS. 16, 26.</ls> {#अतिथि#} 
+<ls n="ṚV.">6, 47, 31.</ls> {#अ\श्वी र\थी सु^रू\प इद्गोमा\ँ इदि^न्द्र ते\ सखा^#} 
+<ls n="ṚV.">8, 4, 9.</ls> <ls n="ṚV.">10, 40, 5.</ls> <ls n="ṚV. 10,">51, 6.</ls> <ls n="ṚV.">1, 122, 8.</ls> <ls>AV. 4, 34, 4.</ls> <ls n="AV.">7, 62, 1.</ls> <ls n="AV. 7,">73, 1.</ls> {#ये र\थिनो\ ये अ^र\थाः#} 
+<ls n="AV.">11, 10, 24.</ls> <ls>VS. 16, 26.</ls> {#अतिथि#} 
 <ls>TS. 5, 2, 2, 3.</ls> 
 <ls>ŚAT. BR. 8, 7, 3, 7</ls> (superl.). <ls>KAṬHOP. 3, 3.</ls> <ls>MBH. 1, 4084.</ls> <ls n="MBH.">2, 2079.</ls> <ls n="MBH.">3, 724. fg.</ls> <ls n="MBH. 3,">2794.</ls> <ls n="MBH. 3,">15598.</ls> <ls n="MBH.">4, 674.</ls> <ls n="MBH. 4,">1639.</ls> <ls n="MBH.">8, 1620. fg.</ls> <ls n="MBH.">16, 210.</ls> <ls>HARIV. 1954.</ls> <ls n="HARIV.">9733.</ls> <ls>Spr. 2587.</ls> <ls>R. 2, 46, 27. 63, 19.</ls> <ls>R. GORR. 2, 73, 17. 3, 49, 18. 5, 83, 2.</ls> {#(वदेत्) आयुष्मान्रथिनं सूतः#} 
 <ls>BHARATA</ls> beim Schol. zu <ls>ŚĀK. 5, 2.</ls> <ls>KĀM. NĪTIS. 8, 2.</ls> <ls>RAGH. 7, 34. 49. 15, 8.</ls> <ls>VIKR. 100.</ls> <ls>UTTARAR. 98, 10 (130, 4).</ls> <ls>BHĀG. P. 1, 15, 17. 3, 1, 30.</ls> {#नारथी रथिनः सखा#} 
@@ -17,5 +17,5 @@
 <div n="2">— c) {%zum Wagen gehörig, - geübt%}: Rosse 
 <ls>ṚV. 6, 27, 8.</ls> <ls n="ṚV.">9, 97, 50.</ls> 
 <div n="1">— 2) {#रथि꣡नी#} <lex>f.</lex> {%eine Menge von Wagen%} <is>gaṇa</is> {#खलादि#} zu 
-<ls>P. 4, 2, 51, <is>Vārtt</is>.</ls>
+<ls>P. 4, 2, 51</ls>, <is>Vārtt</is>.
 <LEND>

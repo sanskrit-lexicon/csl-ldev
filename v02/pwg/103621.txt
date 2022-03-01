@@ -30,7 +30,7 @@
 <div n="1">— 5) {%Zusammenstellung, vollständige Aufzählung%}: {#अस्थि°#} 
 <ls>YĀJÑ. 3, 90.</ls> {#पर्व°#} 
 <ls>MBH. 1, 311.</ls> {#नाम°#} 
-<ls>13, 1114.</ls> <ls>SUŚR. 1, 150, 3.</ls> <ls>DAŚAR. 1, 39.</ls> <ls>SĀH. D. 389.</ls> <ls>Spr. (II) 2913, v. l.</ls> {#°पाद#} im {#धनुर्वेद#} 
+<ls n="MBH.">13, 1114.</ls> <ls>SUŚR. 1, 150, 3.</ls> <ls>DAŚAR. 1, 39.</ls> <ls>SĀH. D. 389.</ls> <ls>Spr. (II) 2913, v. l.</ls> {#°पाद#} im {#धनुर्वेद#} 
 <ls>Ind. St. 1, 21, 13.</ls> 
 <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 63.</ls> {#उक्तानामप्यनुक्तानां शब्दानामिह संग्रहः#} 
 <ls>HALĀY. 5, 61.</ls> {#नानार्थसंग्रहं कर्#} 
@@ -51,7 +51,7 @@ zu <ls>P. 4, 4, 102.</ls> {#सर्वे वेदाः - सोपवेद
 <ls>Ind. St. 1, 59. 5, 42. 127. 159. fgg.</ls> {#सर्वशाकुन°#} 
 <ls>VARĀH. BṚH. S. 86, 4.</ls> {#वृत्त°#} 
 <ls>104, 64.</ls> {#ससंग्रहं व्याकरणमधीते#} 
-<ls>P.6,3,79, Schol.</ls> <ls>Verz. d. Oxf. H. 279,b,34. 292,a,12</ls> ({#गृह्य°#}). {#°कार#} 
+<ls>P. 6, 3, 79</ls>, Schol. <ls>Verz. d. Oxf. H. 279,b,34. 292,a,12</ls> ({#गृह्य°#}). {#°कार#} 
 <ls>271,a,9. 10. 274,a, No. 649.</ls> <ls>Notices of Skt Mss.2,57.</ls> <ls>COLEBR. Misc. Ess.1,234. 300.</ls>
 [Page7-0538]
 Vgl. 11). 
@@ -98,8 +98,8 @@ Vgl. 11).
 <ls>8, 311</ls> (Gegens. {#निग्रह)#}.{# मित्र°#} 
 <ls>Spr. (II) 1959.</ls> <ls n="Spr. (II)">2261.</ls> <ls n="Spr. (II)">2916.</ls> 
 <ls>MBH. 1, 5620</ls> (Gegens. {#विग्रह#}). 
-<ls>5, 968</ls> (Gegens. {#निग्रह#}). 
-<ls>13, 4313.</ls> <ls>R. 2, 98, 6.</ls> <ls>R. GORR. 1, 4, 69. 4, 28, 10. 5, 90, 12. fg.</ls> <ls>KĀM. NĪTIS. 3, 39. 13, 74. 19, 2.</ls> <ls>Spr. (II) 1447.</ls> <ls n="Spr. (II)">3204.</ls> <ls>RĀJA-TAR. 5, 295.</ls> <ls>HIT. 92, 17, v. l.</ls> <ls>BHĀG. P. 10, 84, 15.</ls> 
+<ls n="MBH.">5, 968</ls> (Gegens. {#निग्रह#}). 
+<ls n="MBH.">13, 4313.</ls> <ls>R. 2, 98, 6.</ls> <ls>R. GORR. 1, 4, 69. 4, 28, 10. 5, 90, 12. fg.</ls> <ls>KĀM. NĪTIS. 3, 39. 13, 74. 19, 2.</ls> <ls>Spr. (II) 1447.</ls> <ls n="Spr. (II)">3204.</ls> <ls>RĀJA-TAR. 5, 295.</ls> <ls>HIT. 92, 17, v. l.</ls> <ls>BHĀG. P. 10, 84, 15.</ls> 
 <div n="1">— 15) {%das zur Ehe Nehmen, Heirathen%}: {#चित्राङ्गदा°#} 
 <ls>MBH. 1, 125</ls> in der Unterschr. des <is>Adhyāya</is>. 
 <div n="1">— 16) {%Auffassung, Wahrnehmung%}: {#स्पर्शस्य#} 

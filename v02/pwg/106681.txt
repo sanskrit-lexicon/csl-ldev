@@ -2,9 +2,9 @@
 {#स꣡र्व#}¦ 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}) 
 <ls>UṆĀDIS. 1, 153.</ls> <ls>VS. PRĀT. 2, 39.</ls> <ls>P. 6, 1, 191.</ls> mit pronominaler Decl. 
-<ls>1, 1, 27.</ls> <ls>VOP. 3, 9.</ls> {#गृहकर्मसु सर्वसु#} (wohl {#सर्वशः#} zu lesen) 
+<ls n="P.">1, 1, 27.</ls> <ls>VOP. 3, 9.</ls> {#गृहकर्मसु सर्वसु#} (wohl {#सर्वशः#} zu lesen) 
 <ls>GṚHYAS. 1, 58.</ls> Accent eines damit anlautenden comp. 
-<ls>P. 6, 2, 93. 105.</ls> 
+<ls>P. 6, 2, 93.</ls> <ls n="P. 6, 2,">105.</ls> 
 <div n="2"> a) {%ganz, all, jeder%}; <lex>m.</lex> sg. {%Jedermann%}, pl. {%Alle%}, <lex>n.</lex> sg. {%Alles%} 
 <ls>AK. 3, 2, 14.</ls> 
 <ls>H. 1433.</ls> 
@@ -15,8 +15,8 @@
 <ls n="ṚV.">7, 26, 3.</ls> {#तं त्वा^ भग\ सर्व\ इज्जो^हवीति#} 
 <ls n="ṚV. 7,">41, 5.</ls> <ls n="ṚV.">5, 85, 8.</ls> {#दे\वाः#} 
 <ls n="ṚV.">6, 75, 19.</ls> {#शि\वास्मै सर्व^स्मै\ क्षेत्रा^य#} 
-<ls>AV. 3, 28, 3. 5, 23, 13.</ls> {#विश्वे^षु दे\वेषु^ व\यं सर्वे^षु य\शस^ः स्याम#} {%allen und jedem%} 
-<ls>6, 58, 2.</ls> {#यस्ये\मा विश्वा\ भुव^नानि\ सर्वा^#} 
+<ls>AV. 3, 28, 3.</ls> <ls n="AV.">5, 23, 13.</ls> {#विश्वे^षु दे\वेषु^ व\यं सर्वे^षु य\शस^ः स्याम#} {%allen und jedem%} 
+<ls n="AV.">6, 58, 2.</ls> {#यस्ये\मा विश्वा\ भुव^नानि\ सर्वा^#} 
 <ls>TBR. 3, 1, 1, 1.</ls> {#ए\ष वै प्र\जांप^ति\ं सर्व^ं करोति\ यो^ ऽश्वमे\धेन\ यज^ते\ सर्व^ ए\व भ^वति\ सर्व^स्य\ वा ए\षा प्राय^श्चित्तिः#} 
 u.s.w. <ls>TS. 5, 3, 12, 1.</ls> <ls>AIT. BR. 1, 6.</ls> {#सर्वस्यै वाचः सर्वस्य ब्रह्मणः परिगृहीत्यै#} 
 <ls>2, 15.</ls> {#अद्भ्यो हीदं सर्वं जायते#} 
@@ -42,7 +42,7 @@ u.s.w. <ls>TS. 5, 3, 12, 1.</ls> <ls>AIT. BR. 1, 6.</ls> {#सर्वस्य
 <ls>MBH. 3, 2247.</ls> {#सर्वेष्वेव चतुर्ष्वपि#} 
 <ls>M. 3, 135.</ls> {#सर्वं निखिलम्#} 
 <ls>R. 1, 5, 4.</ls> mit einer Negation: {#यस्मात्सर्वा विभक्तिर्नोत्पद्यते#} {%nicht alle Casusendungen%} 
-<ls>P. 1, 1, 38, Schol.</ls> {#सर्वं च तिलसंबद्धं नाद्यात्#} {%er esse Nichts was u.s.w.%} 
+<ls>P. 1, 1, 38</ls>, Schol. {#सर्वं च तिलसंबद्धं नाद्यात्#} {%er esse Nichts was u.s.w.%} 
 <ls>M. 4, 75.</ls> {#न भक्षयेत् - सर्वान्पञ्चनखांस्तथा#} {%auch esse er kein fünfkralliges Thier%} 
 <ls>5, 17. 11, 94.</ls> {#न ताः स्म प्रतिगृह्णन्ति सर्वे ते देवदानवाः#} 
 <ls>R. 1, 45, 35. 74, 14.</ls> {#इन्द्रियार्थेषु सर्वेषु न प्रसज्येत#} 
@@ -59,7 +59,7 @@ u.s.w. <ls>TS. 5, 3, 12, 1.</ls> <ls>AIT. BR. 1, 6.</ls> {#सर्वस्य
 <ls>Spr. (II) 3096.</ls> {#°श्रेष्ठ#} {%unter Allen der beste%} 
 <ls>MĀRK. P. 16, 18.</ls> {#°महन्त्#} {%der allergrösste%} 
 <ls>KATHĀS. 23, 40.</ls> {#°श्वेत = सर्वेषां श्वेततरः#} 
-<ls>P. 6, 2, 93, Schol.</ls> 
+<ls>P. 6, 2, 93</ls>, Schol. 
 <div n="2">— b) {%allerlei, allerhand, von aller Art, von welcher Art es auch sei%}: {#आपदः#}
 [Page7-0813]
 
@@ -78,7 +78,7 @@ u.s.w. <ls>TS. 5, 3, 12, 1.</ls> <ls>AIT. BR. 1, 6.</ls> {#सर्वस्य
 <ls>P. 6, 2, 93</ls> (Accent solcher compp.). {#°श्वेत, °कृष्ण, °सौवर्ण#} Schol. Vgl. {#यः सर्वः श्रीपर्ण्या पर्यङ्को निर्मितः#} {%ganz aus - verfertigt%} 
 <ls>VARĀH. BṚH. S. 79, 11.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. (nicht pronominal decl.) 
-<ls>P. 1, 1, 27, <is>Vārtt</is>., Schol.</ls> Bein. <is>Kṛṣṇa's</is>: {#सर्वं समाप्नोषि ततो ऽसि सर्वः#} 
+<ls>P. 1, 1, 27</ls>, <is>Vārtt</is>., Schol. Bein. <is>Kṛṣṇa's</is>: {#सर्वं समाप्नोषि ततो ऽसि सर्वः#} 
 <ls>BHAG. 11, 40.</ls> {#सर्वाय सर्वेश्वराय सर्वपतये सर्वसंभवाय गोविन्दाय#} 
 <ls>WEBER, KṚṢṆAJ. 308.</ls> <ls>PAÑCAR. 4, 3, 14.</ls> Bein. <is>Śiva's</is> (vgl. {#शर्व#}) 
 <ls>AK. 1, 1, 1, 26.</ls> 

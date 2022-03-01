@@ -15,8 +15,8 @@
 <ls>AK. 2, 8, 1, 1.</ls> 
 <ls>TRIK. 2, 8, 1.</ls> 
 <ls>H. 863.</ls> Diese Benennung der Kaste ist, wie man sieht, nicht davon hergenommen, dass die Mitglieder derselben {%Krieger%} sind, sondern vielmehr davon, dass sie {%herrschenden, fürstlichen Geschlechtern%} angehören; vgl. {#राजन्य#} . 
-<ls>AV. 6, 76, 3. 4. 12, 5, 5. 44.</ls> {#य ए\वं वि\दुषो^ ब्राह्म\णस्य^ क्ष\त्रियो\ गामा^द\त्ते#} 
-<ls>46.</ls> {#विशः क्षत्रियाय वलिं हरन्ति#} 
+<ls>AV. 6, 76, 3.</ls> <ls n="AV. 6, 76,">4.</ls> <ls n="AV.">12, 5, 5.</ls> <ls n="AV. 12, 5,">44.</ls> {#य ए\वं वि\दुषो^ ब्राह्म\णस्य^ क्ष\त्रियो\ गामा^द\त्ते#} 
+<ls n="AV. 6, 76,">46.</ls> {#विशः क्षत्रियाय वलिं हरन्ति#} 
 <ls>ŚAT. BR. 1, 3, 2, 15. 14, 5, 1, 15.</ls> {#न ब्राह्मणः सर्वस्येव क्षत्रियस्य पुरोधां कामयेत#} 
 <ls>4, 1, 4, 5. 6. 11, 8, 4, 5.</ls> <ls>KĀTY. ŚR. 3, 2, 10. 4, 7, 4. 6. 9, 2.</ls> {#क्षत्रं प्रपद्ये क्षत्रियो भवामि#} 
 <ls>AIT. BR. 7, 24. fgg.</ls> {#लोकानां तु विवृद्ध्यर्थं मुखबाहूरुपादतः । ब्राह्मणं क्षत्रियं वैश्यं शूद्रं च निरवर्तयत् ॥#} 
@@ -32,7 +32,7 @@
 {# पृथिवी निःक्षत्रिया#} 
 <ls>MBH. 1, 2459.</ls> <ls n="MBH. 1,">4175.</ls> <ls n="MBH.">3, 1696.</ls> <ls n="MBH. 3,">10204.</ls> <ls n="MBH.">13, 866.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} {%eine Angehörige des Fürstenstandes, - der zweiten Kaste%} 
-<ls>P. 4, 1, 49, <is>Vārtt</is>. 7.</ls> 
+<ls>P. 4, 1, 49</ls>, <is>Vārtt</is>. 7. 
 <ls>AK. 2, 6, 1, 14. 10, 2. 3, 4, 14, 65.</ls> 
 <ls>H. 524. 895.</ls> 
 <ls>SIDDH. K.</ls> zu <ls>P. 4, 1, 49.</ls> <ls>M. 3, 44. 8, 382. 384. 385. 9, 151. 153.</ls> <ls>YĀJÑ. 1, 62. 94.</ls> <ls>MBH. 1, 759.</ls> <ls n="MBH. 1,">2463.</ls> <ls n="MBH.">14, 833.</ls> {#निद्रा च सर्वभूतानां मोहनी क्षत्रिया तथा (दुर्गा)#} 

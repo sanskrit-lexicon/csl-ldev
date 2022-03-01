@@ -15,7 +15,7 @@
 <ls>ŚAT. BR. 12, 3, 4, 2.</ls> 
 <ls>TS. 7, 3, 14, 1.</ls> 
 <ls>AIT. BR. 4, 6.</ls> {#अभीवर्तो मणिः#} 
-<ls>AV. 1, 29, 1. 2, 4, 1. 2. 8, 5, 1. fgg. 10, 6, 2. 4.</ls> {#सौवर्ण#} {%Goldperle%} 
+<ls>AV. 1, 29, 1.</ls> <ls n="AV.">2, 4, 1.</ls> <ls n="AV. 2, 4,">2.</ls> <ls n="AV.">8, 5, 1. fgg.</ls> <ls n="AV.">10, 6, 2.</ls> <ls n="AV. 10, 6,">4.</ls> {#सौवर्ण#} {%Goldperle%} 
 <ls>KĀTY. ŚR. 20, 5, 16. 7, 1.</ls> {#जातुष#} 
 <ls>GOBH. 3, 8, 6.</ls> 
 <ls>ĀŚV. GṚHY. 3, 8, 1. 21.</ls> 
@@ -76,7 +76,7 @@
 <ls>H. an.</ls> <ls>MED.</ls> {#मन्दा मणिरलिञ्जरः#} 
 <ls>HĀR. 192.</ls> Hierher vielleicht: {#मणीवोष्ट्रस्य#} (oder {#मणी वो°#}; so der Schol.) {#लम्बेते प्रियौ वत्सतरौ मम#} 
 <ls>MBH. 12, 6597</ls>; vgl. <ls>KĀŚ.</ls> und <ls>SIDDH. K.</ls> zu <ls>P. 1, 1, 11.</ls> Vgl. {#मणिक#} 
-<ls>1.</ls> 
+<ls n="P. 1, 1,">1.</ls> 
 <div n="1">— 8) N. pr. eines <is>Nāga</is> 
 <ls>MBH. 1, 2160</ls> {#(मणिः स्कन्धः#} ed. Bomb.). 
 <ls n="MBH.">5, 3626.</ls> <ls>HARIV. 230.</ls> <ls>VP. 149, N. 16.</ls> Cit. beim Schol. zu <ls>H. 1311.</ls> Vgl. {#मणिनाग#} . 

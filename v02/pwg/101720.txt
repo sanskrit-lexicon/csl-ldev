@@ -11,7 +11,7 @@
 <ls>R. 2, 72, 22.</ls> {#नितम्ब#} 
 <ls>Spr. (II) 2102.</ls> {#शार्दूल#} 
 <ls>MBH. 3, 2431.</ls> Kühe 
-<ls>4, 996.</ls> {#गज#} 
+<ls n="MBH.">4, 996.</ls> {#गज#} 
 <ls>R. GORR. 2, 12, 11.</ls> {#हंस#} 
 <ls>Spr. (II) 2502.</ls> Bäume 
 <ls>MBH. 3, 2502.</ls> 
@@ -34,7 +34,7 @@
 <ls>RĀJA-TAR. 4, 210.</ls> Sitz 
 <ls>R. GORR. 2, 2, 20.</ls> Wagen 
 <ls>MBH. 5, 7129.</ls> {#धनुस्#} 
-<ls>3, 1553.</ls> {#विभूषा#} 
+<ls n="MBH.">3, 1553.</ls> {#विभूषा#} 
 <ls>KĀM. NĪTIS. 15, 46.</ls> <ls>MBH. 1, 1147.</ls> {#फल#} {%Frucht, Lohn%} 
 <ls>KĀM. NĪTIS. 13, 2.</ls> {#वाक्य#} 
 <ls>R. 2, 79, 14.</ls> 
@@ -44,7 +44,7 @@
 <ls>AK. 3, 1, 14.</ls> 
 <ls>TRIK. 3, 3, 187</ls> ({#ईश्वर#} geben 
 <ls>WILSON</ls> und <ls>ŚKDR.</ls> fälschlich durch <is>Śiva</is> wieder). 
-<ls>H. 357,</ls> <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>CHĀND. UP. 3, 13, 2.</ls> <ls>MBH. 3, 1724</ls> (voc.). <ls>2629. 2716.</ls> <ls>R. 2, 33, 3. 35, 29. 40, 30. fg. 46, 29. 49, 13. 70, 26. 5, 79, 10.</ls> <ls>Spr. 2901, v. l. 3256. 5022. 5086. (II) 2881. 3079. 4340. 5549.</ls> <ls>KATHĀS. 18, 319. 26, 194.</ls> <ls>RĀJA-TAR. 3, 127. 7, 149.</ls> <ls>PRAB. 2, 8.</ls> {#श्रीमद्भिः किं ज्ञातम्#} 
+<ls>H. 357</ls>, <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>CHĀND. UP. 3, 13, 2.</ls> <ls>MBH. 3, 1724</ls> (voc.). <ls n="MBH. 3,">2629.</ls> <ls n="MBH. 3,">2716.</ls> <ls>R. 2, 33, 3. 35, 29. 40, 30. fg. 46, 29. 49, 13. 70, 26. 5, 79, 10.</ls> <ls>Spr. 2901, v. l. 3256. 5022. 5086. (II) 2881. 3079. 4340. 5549.</ls> <ls>KATHĀS. 18, 319. 26, 194.</ls> <ls>RĀJA-TAR. 3, 127. 7, 149.</ls> <ls>PRAB. 2, 8.</ls> {#श्रीमद्भिः किं ज्ञातम्#} 
 <ls>VET. in LA. (III) 6, 7.</ls> <ls>Z. d. d. m. G. 14, 574, 23.</ls> {#श्रीमद्देवपादानाम्#} 
 <ls>HIT. 54, 20.</ls> 
 <ls>Spr. (II) 5567.</ls> {#श्रीमत्पदैर्भगवतः#} 

@@ -3,8 +3,8 @@
 <ls>DHĀTUP. 23, 15</ls> ({#उपरमे#}). 
 <ls>P. 7, 3, 77. fg.</ls> 
 <ls>VOP. 8, 70.</ls> {#य꣡च्छते#}, ved. {#य꣡मति, यमते, यमत्, यंसि, यमुस्; यन्धि#} (
-<ls>P. 6, 4, 103,</ls> 
-<ls>Sch.</ls>), {#यन्त, यन्तम्#} 
+<ls>P. 6, 4, 103</ls>, <ls>Sch.</ls>), 
+{#यन्त, यन्तम्#} 
 2. du.; {#यम्यास्#} 3. sg.; {#ययाम, येमु꣡स्, येमे, येमिरे, येमान꣡#}; aor. {#अयंसीत्#} 
 <ls>P. 7, 2, 73.</ls> ved. {#यंसत्, यंसन् अयांसम्, अयान्#} 3. sg., {#अयांसि, अयंस्त, यंसि#} 
 1. sg., {#यंसते, अयंसत; यंस्यति#} (vgl. 
@@ -87,7 +87,7 @@ u.s.w.): {#शर्म^#}
 <ls n="ṚV.">2, 41, 2.</ls> {#य\ज्ञं दे\वेषु^#} 
 <ls n="ṚV. 2, 41,">20.</ls> {#सु\म्नम्#} 
 <ls n="ṚV.">5, 67, 2.</ls> {#बृह\स्पति\र्वाच^मस्मा अयच्छत्#} 
-<ls n="ṚV.">10, 98, 7.</ls> <ls>AV. 7, 54, 1. 10, 5, 37.</ls> <ls>TBR. 1, 4, 7, 1.</ls> {#वर्णं मे यच्छ#} 
+<ls n="ṚV.">10, 98, 7.</ls> <ls>AV. 7, 54, 1.</ls> <ls n="AV.">10, 5, 37.</ls> <ls>TBR. 1, 4, 7, 1.</ls> {#वर्णं मे यच्छ#} 
 <ls>ŚĀṄKH. ŚR. 7, 10, 15.</ls> {#सोमा^ अध्व\र्युभि\र्भर^माणा अयंसत#} (pass.) 
 <ls>ṚV. 1, 135, 6.</ls> {#सर्वं हास्मा इदं श्रैष्ठ्याय यम्यते#} 
 <ls>KAUṢ. UP. 4, 15.</ls> {#जात्यन्धाय - यच्छन्तीषु मनोहरं निजवपुः - पण्यस्त्रीषु#} 
@@ -119,13 +119,13 @@ u.s.w.): {#अया^मि\ घोष^ः#}
 <ls>RĀJA-TAR. 4, 670.</ls> {%in Ordnung bringen%}: {#परिवृत्तं किरीटं तद्यमयन्#} (so die ed. Bomb.) 
 <ls>MBH. 7, 1269.</ls> {#मूर्धजान्यमयस्व#} 
 <ls>MBH. 9, 1876.</ls> {#यमयन्मूर्धजान्#} 
-<ls>3585.</ls> {#बन्धे स्रंसिनि चैकहस्तयमिताः पर्याकुला मूर्धजाः#} 
+<ls n="MBH. 9,">3585.</ls> {#बन्धे स्रंसिनि चैकहस्तयमिताः पर्याकुला मूर्धजाः#} 
 <ls>ŚĀK. 29.</ls> {#अयमितनख#} {%nicht in Ordnung gehalten, vernachlässigt%} 
 <ls>MEGH. 89.</ls> {%einhalten%} (die Stimme) 
 <ls>LĀṬY. 5, 5, 5. 12, 5.</ls>
 
 <div n="p">— intens. {#यंयम्यते, यंयमीति#} 
-<ls>P. 7, 4, 85, <is>Vārtt</is>.</ls> Schol. zu <ls>83.</ls>
+<ls>P. 7, 4, 85</ls>, <is>Vārtt</is>. Schol. zu <ls n="P. 7, 4,">83.</ls>
 
 <div n="p">— {#अधि#} 
 <div n="1"> 1) {%aufrichten, ausbreiten über%}: {#या व\ः शर्म\ सन्ति^ दा\शुषे^ यच्छ\ताधि^#} 
@@ -153,15 +153,15 @@ u.s.w.): {#अया^मि\ घोष^ः#}
 u.s.w.), {%verlängern%} 
 <ls>ṚV. 10, 130, 1.</ls> {#दु\न्दु\भिम्#} 
 <ls>AV. 6, 38, 4.</ls> {#बा\हू#} 
-<ls>65, 1. 137, 3. 9, 3, 3.</ls> {#मेखलाम्#} 
+<ls n="AV. 6,">65, 1.</ls> <ls n="AV. 6,">137, 3.</ls> <ls n="AV.">9, 3, 3.</ls> {#मेखलाम्#} 
 <ls>KĀṬH. 24, 9.</ls> die Zügel 
 <ls>LĀṬY. 2, 8, 12.</ls> 
 <ls>KĀTY. ŚR. 8, 3, 12. 16, 8, 7. fgg.</ls> - <ls>SUŚR. 1, 286, 19.</ls> {#परशिर आयच्छति#} {%ausstrecken%} 
 <ls>VOP. 23, 19.</ls> {#आयच्छति कूपाद्रज्जुम्#} {%hinaufziehen%} 
-<ls>P. 1, 3, 28,</ls> 
-<ls>Sch.</ls> (Bogen und Pfeil) {%spannen und anlegen, zielen%}: {#आ\यच्छ^न्तः#} 
+<ls>P. 1, 3, 28</ls>, <ls>Sch.</ls>
+(Bogen und Pfeil) {%spannen und anlegen, zielen%}: {#आ\यच्छ^न्तः#} 
 <ls>AV. 6, 66, 2.</ls> {#प्रति^हिता\माय^ताम्#} ({#इषुम्#}) 
-<ls>11, 1, 1.</ls> <ls>KĀṬH. 34, 18.</ls> {#यथेषुरायतानस्ता#} 
+<ls n="AV.">11, 1, 1.</ls> <ls>KĀṬH. 34, 18.</ls> {#यथेषुरायतानस्ता#} 
 <ls>ŚAT. BR. 3, 7, 2, 2.</ls> 
 <ls>MUṆḌ. UP. 2, 2, 3.</ls> {#धनुरायम्य#} 
 <ls>MBH. 1, 148.</ls> <ls n="MBH. 1,">6460.</ls> <ls n="MBH. 1,">7040.</ls> <ls n="MBH.">3, 8665.</ls> 
@@ -181,13 +181,13 @@ u.s.w.), {%verlängern%}
 <ls>P. 1, 3, 28.</ls> 
 <ls>VOP. 23, 17.</ls> 
 <ls>Spr. 3759.</ls> {%ausstrecken%} (ein Glied des eigenen Körpers) 
-<ls>P. 1, 3, 28, <is>Vārtt</is>.</ls> 
+<ls>P. 1, 3, 28</ls>, <is>Vārtt</is>. 
 <ls>VOP. 23, 17.</ls> {#आयच्छते पाणिम्#} 
 <ls>P.</ls>, <ls>Sch.</ls> {#पश्चादुच्चैर्भवति हरिणः स्वाङ्गमायच्छमानः#} ad 
 <ls>ŚĀK. 78.</ls> {#पदान्यायच्छते#} {%macht grosse Schritte%} 
 <ls>Spr. 3762.</ls> {#वस्त्रमायच्छते#} wohl {%lang herabhängen lassen%} 
-<ls>P. 1, 3, 75,</ls> 
-<ls>Sch.</ls> {%ausbreiten, an den Tag legen%} ({#सूचने#}) 
+<ls>P. 1, 3, 75</ls>, <ls>Sch.</ls>
+{%ausbreiten, an den Tag legen%} ({#सूचने#}) 
 <ls>VOP. 23, 19.</ls> {#दिव्यनारीभिः - श्रियमायच्छमानाभिः - अनुत्तमाम्#} 
 <ls>BHAṬṬ. 8, 46.</ls> = {#स्वीकुर्वाणाभिः#} Comm. {#दक्षिणपूर्वायतां कर्षूं खात्वा#} {%nach Südost gezogen, - sich ausdehnend%} 
 <ls>KĀTY. ŚR. 25, 8, 3.</ls> {#वेदिं विदध्यात्षट्शमीं प्राङायताम्#} 
@@ -261,8 +261,8 @@ v. l. für {#आयति#} {%Zukunft%}
 <div n="1"> 1) {%herausheben, - holen%}: {#सूर्य^स्त्वा मृ\त्पोरु\दाय^च्छतु र\श्मिभि^ः#} 
 <ls>AV. 5, 30, 15.</ls> 
 <div n="1">— 2) med. in der Bed. von {#गन्धन#} 
-<ls>P. 1, 2, 15,</ls> 
-<ls>Sch.</ls>
+<ls>P. 1, 2, 15</ls>, <ls>Sch.</ls>
+
 
 <div n="p">— {#उपा#} {%zeigen, an den Tag legen%}: {#नोपायध्वं#} (oder zu {#उप) भयम्#} 
 <ls>BHAṬṬ. 7, 101.</ls>
@@ -283,9 +283,9 @@ v. l. für {#आयति#} {%Zukunft%}
 <ls>TBR. 1, 2, 6, 6.</ls> {#च\र्म\कर्ते\ व्याय^च्छेते#} 
 <ls>7, 5, 6, 3. 2, 1, 6, 2.</ls> <ls>TS. 3, 1, 7, 2.</ls> {#रा\ष्ट्रे व्याय^च्छन्ते\ ये स^ंग्रा\मं स\ंयन्ति^#} 
 <ls>4, 8, 3. 7, 5, 9, 3. 1, 5, 5.</ls> <ls>ŚAT. BR. 13, 1, 6, 3.</ls> <ls>KĀTY. ŚR. 13, 3, 7.</ls> <ls>MBH. 1, 7015.</ls> {#इदं श्रेयः परमं महामाना व्यायच्छन्ते मुनयः#} 
-<ls>3, 12740. 5, 825.</ls> {#अन्यो ऽन्यस्पर्धया - व्यायच्छन्त महारथाः#} 
-<ls>6, 1661.</ls> {#व्यायच्छमानं गदया दिक्षु सर्वासु#} 
-<ls>6, 2773. 16, 90.</ls> <ls>R. 6, 91, 23.</ls> <ls>Spr. 3058.</ls> <ls>BHAṬṬ. 6. 119.</ls> <ls>SADDH. P. 4, 27</ls>, {%a. b%} ({#°यमित्वा#}). auch act. 
+<ls n="MBH.">3, 12740.</ls> <ls n="MBH.">5, 825.</ls> {#अन्यो ऽन्यस्पर्धया - व्यायच्छन्त महारथाः#} 
+<ls n="MBH.">6, 1661.</ls> {#व्यायच्छमानं गदया दिक्षु सर्वासु#} 
+<ls n="MBH.">6, 2773.</ls> <ls n="MBH.">16, 90.</ls> <ls>R. 6, 91, 23.</ls> <ls>Spr. 3058.</ls> <ls>BHAṬṬ. 6. 119.</ls> <ls>SADDH. P. 4, 27</ls>, {%a. b%} ({#°यमित्वा#}). auch act. 
 <ls>MBH. 4, 1960</ls> (wo mit der ed. Bomb. {#व्यायच्छतस्तव#} zu lesen ist). 
 <ls>HARIV. 5112.</ls> {#वरं व्यायच्छतो मृत्युर्न गृहीतस्य बन्धनम्#} (so ist zu lesen) 
 <ls>MṚCCH. 102, 7.</ls> {#स्रीषु व्यायच्छतः#} {%schäkern%} 
@@ -328,7 +328,7 @@ v. l. für {#आयति#} {%Zukunft%}
 
 <div n="p">— {#उद्#} 
 <div n="1"> 1) {%erheben, in die Höhe strecken%} (die Arme, Waffen 
-u.s.w.) <ls>ṚV. 5, 32, 7.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71,">5.</ls> <ls>AV. 4, 24, 6. 12, 3, 18.</ls> {#वज्रमसुरेभ्य उदयच्छत्#} 
+u.s.w.) <ls>ṚV. 5, 32, 7.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71,">5.</ls> <ls>AV. 4, 24, 6.</ls> <ls n="AV.">12, 3, 18.</ls> {#वज्रमसुरेभ्य उदयच्छत्#} 
 <ls>AIT. BR. 2, 31. 4, 2. 18. 2, 1.</ls> {#वज्र\मुद्य^न्तु\ं नाश^क्नोत्#} 
 <ls>TS. 2, 4, 12, 2.</ls> 
 <ls>KĀṬH. 36, 8.</ls> 
@@ -396,7 +396,7 @@ u.s.w.) <ls>ṚV. 5, 32, 7.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71
 <ls>PAÑCAT. 226, 20.</ls> 
 <div n="1">— 2) {%aufrichten, aufstellen; erhöhen, höherlegen; hinaufbringen%}: {#छ\र्दिः#} 
 <ls>ṚV. 4, 53, 1.</ls> {#जा\ल\द\ण्डम्#} 
-<ls>AV.8, 8, 12.</ls>
+<ls>AV. 8, 8, 12.</ls>
 [Page6-0068]
 {#स प्र यजु\रव्ली^ना\त्प्र साम\ तमृगुद^यच्छत्#} 
 <ls>TS. 6, 1, 2, 4.</ls> {#रथमाग्नीध्रमुद्यच्छति#} 
@@ -427,8 +427,8 @@ u.s.w.) <ls>ṚV. 5, 32, 7.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71
 <ls>R. 1, 12, 4 (13, 4 ed. Bomb. ). 2, 22, 4.</ls> {#अभिषेके नृपोद्यते#} 
 <ls>26, 22.</ls> {#कार्यं हि महदुद्यतम्#} 
 <ls>R. GORR. 1, 10, 22.</ls> {#उद्यच्छति वेदम्#} {%er macht sich an das Studium des%} <is>Veda</is> 
-<ls>P. 1, 3, 75,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 1, 3, 75</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 23, 58.</ls> med. intrans. {%sich anschicken, sich rüsten, an Etwas gehen%}: {#उद्यच्छमाना गमनाय#} 
 <ls>RAGH. 16, 29.</ls> {#नित्यमुद्यच्छमानाभिः स्मरसंभोगकर्मसु#} 
 <ls>BHAṬṬ. 8, 47.</ls> auch act.: {#स्वर्गार्थं नोद्यमिष्यन्ति दृष्ट्वा स्वर्गफलं क्षितौ#} {%werden sich nicht bemühen um%} 
@@ -485,7 +485,7 @@ u.s.w.) <ls>ṚV. 5, 32, 7.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71
 <ls n="ṚV. 1,">56, 1.</ls> <ls>AV. 14, 1, 59.</ls> 
 <div n="1">— 8) {%zügeln, lenken%}: {#उद्यम्य हयान्#} 
 <ls>MBH. 5, 7235.</ls> {#उद्यम्यात्मानमात्मना#} 
-<ls>3, 302.</ls> = {#उत्क्षिप्य देहम्#} 
+<ls n="MBH.">3, 302.</ls> = {#उत्क्षिप्य देहम्#} 
 <ls>NĪLAK.</ls> 
 <div n="1">— 9) {%droben halten, aufhalten%}: {#वृष्टिम्#} 
 <ls>TBR. 3, 3, 1, 3.</ls> 
@@ -587,8 +587,8 @@ u.s.w.) <ls>ṚV. 5, 32, 7.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71
 <ls>ŚAT. BR. 14, 4, 3, 31.</ls> 
 <ls>ŚĀṄKH. ŚR. 16, 17, 10.</ls> {#उप^ यच्छ\ शूर्प^म्#} 
 <ls>AV. 12, 3, 19.</ls> {#परस्य भार्यामुपयच्छति#} 
-<ls>P. 1, 3, 56,</ls> 
-<ls>Sch.</ls> med.: {#उपायंस्त महास्त्राणि#} 
+<ls>P. 1, 3, 56</ls>, <ls>Sch.</ls>
+med.: {#उपायंस्त महास्त्राणि#} 
 <ls>BHAṬṬ. 15, 21.</ls> {%annehmen%}: {#कोपात्काश्चित्प्रियैः प्रत्तमुपायंसत नासवम्#} 
 <ls>8, 33.</ls> {%sich aneignen, sich vertraut machen mit%}: {#शस्त्राण्युपायंसत#} (pass.) 
 <ls>1, 16.</ls> 
@@ -598,7 +598,7 @@ u.s.w.) <ls>ṚV. 5, 32, 7.</ls> <ls n="ṚV.">6, 71, 1.</ls> <ls n="ṚV. 6, 71
 <ls>KAUŚ. 14. 42. fg.</ls> 
 <div n="1">— 4) {%zum Weibe nehmen, heirathen%}; med. 
 <ls>P. 1, 3, 56.</ls> {#उपायत#} oder {#उपायंस्त#} 
-<ls>2, 16.</ls> <ls>VOP. 23, 19. 48.</ls> {#नाभ्रात्रीमुपयच्छेत#} 
+<ls n="P. 1,">2, 16.</ls> <ls>VOP. 23, 19. 48.</ls> {#नाभ्रात्रीमुपयच्छेत#} 
 <ls>NIR. 3, 5.</ls> 
 <ls>ĀŚV. GṚHY. 1, 5, 3. 6, 4. fgg.</ls> 
 <ls>M. 3, 11.</ls> 
@@ -628,7 +628,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls n="ṚV.">3, 45, 1.</ls> <ls n="ṚV.">7, 69, 6.</ls> {#अ\ह्यर्षू^णा\ं न्य^याँ अवि\ष्याम्#} 
 <ls n="ṚV.">2, 38, 3.</ls> {#वा\चस्पति\र्नि य^च्छतु\ मयि^#} 
 <ls>AV. 1, 1, 3.</ls> {#गो\ष्ठे#} 
-<ls>2, 26, 1. 2.</ls> {#क री\ं नि ये^मे#} {%wer hat sie bei sich festgehalten%} 
+<ls n="AV.">2, 26, 1.</ls> <ls n="AV. 2, 26,">2.</ls> {#क री\ं नि ये^मे#} {%wer hat sie bei sich festgehalten%} 
 <ls>ṚV. 10, 40, 14.</ls> med. {%sich aufhalten%} 
 <ls>ṚV. 8, 2, 26.</ls> {%bleiben%}: {#त\नूषु\ विश्वा\ भुव^ना\ नि ये^मिरे#} 
 <ls n="ṚV.">10, 56, 5.</ls> In der klassischen Sprache {%zurückhalten, zügeln, bändigen, lenken%}: {#हयोत्तमान्#} 
@@ -671,10 +671,10 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>BHĀG. P. 2, 2, 15.</ls> {#वाचम्#} 
 <ls>M. 2, 185. 4, 49.</ls> 
 <ls>MBH. 3, 15689.</ls> 
-<ls>P. 1, 4, 76,</ls> 
-<ls>Sch.</ls> {#नियच्छ क्रोधमात्मनः#} 
+<ls>P. 1, 4, 76</ls>, <ls>Sch.</ls>
+{#नियच्छ क्रोधमात्मनः#} 
 <ls>MBH. 1, 6833.</ls> {#न्ययच्छत्कोपमात्मनः#} 
-<ls>3, 2845.</ls> {#नियच्छ मन्युम्#} 
+<ls n="MBH.">3, 2845.</ls> {#नियच्छ मन्युम्#} 
 <ls>BHĀG. P. 7, 5, 28.</ls> {#तद्दर्शनक्षोभं नियम्य#} 
 <ls>KATHĀS. 33, 60.</ls> 
 <ls>KAṬHOP. 3, 13.</ls> {#न कथं च न दुर्योनिः प्रकृतिं स्वां नियच्छति#} {%unterdrücken%} so v. a. {%verläugnen%} 
@@ -718,9 +718,9 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>MEGH. 44.</ls> 
 <ls>Spr. 1297. 1372.</ls> 
 <ls>VARĀH. BṚH. S. 5, 4.</ls> 
-<ls>UTTARARĀMAC. 38, 19 (52, 12).</ls> <ls>KAP. 1, 57.</ls> <ls>SĀṂKHYAK. 39. fg.</ls> <ls>KUMĀRILA</ls> bei <ls>MÜLLER, SL. 227.</ls> <ls>BHĀṢĀP. 15.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 35.</ls> <ls>BHĀG. P. 2, 2, 6. 4, 26, 7.</ls> <ls>MATSYA-P.</ls> bei <ls>MUIR, ST. 1, 55, N. 49. Schol.</ls> zu <ls>P. 1, 2, 44. 4, 44. 3, 21, <is>Vārtt</is>. 5</ls> und zu <ls>KAP. 1, 25.</ls> {#आचार°#} 
-<ls>P. 6, 2, 65,</ls> 
-<ls>Sch.</ls> {#निसर्ग°#} 
+<ls>UTTARARĀMAC. 38, 19 (52, 12).</ls> <ls>KAP. 1, 57.</ls> <ls>SĀṂKHYAK. 39. fg.</ls> <ls>KUMĀRILA</ls> bei <ls>MÜLLER, SL. 227.</ls> <ls>BHĀṢĀP. 15.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 35.</ls> <ls>BHĀG. P. 2, 2, 6. 4, 26, 7.</ls> <ls>MATSYA-P.</ls> bei <ls>MUIR, ST. 1, 55, N. 49.</ls> Schol. zu <ls>P. 1, 2, 44.</ls> <ls n="P. 1,">4, 44.</ls> <ls n="P. 1,">3, 21</ls>, <is>Vārtt</is>. 5 und zu <ls>KAP. 1, 25.</ls> {#आचार°#} 
+<ls>P. 6, 2, 65</ls>, <ls>Sch.</ls>
+{#निसर्ग°#} 
 <ls>KATHĀS. 19, 28.</ls> {#स्वभाव°#} 
 <ls>Spr. 5093.</ls> {#अष्टपष्टुत्तमस्थाननियतैर्नामभिः#} ({#हरस्य#}) 
 <ls>KATHĀS. 54, 215. 55, 166.</ls> {#युगान्तनियते काले#} so v. a. {%zur Zeit des Weltendes%} 
@@ -740,7 +740,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>ṚT. 6, 20.</ls> 
 <ls>Spr. 1801. 2032. 2386, v. l. 5173.</ls> 
 <ls>VARĀH. BṚH. S. 103, 2.</ls> 
-<ls>PAÑCAT. II, 199.</ls> <ls>KĀM. NĪTIS. 3, 37. 10, 28. 14, 68. 15, 35. 18, 69.</ls> <ls>KATHĀS. 25, 32.</ls> <ls>RĀJA-TAR. 1, 109. 4, 270. 5, 200.</ls> <ls>PRAB. 8, 10. 84, 4.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 189, 20. 193, 3.</ls> <ls>Z. d. d. m. G. 14, 574, 4. 575, 7.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 7, 6, Śl. 17. Schol.</ls> zu <ls>P. 4, 4, 66.</ls> 
+<ls>PAÑCAT. II, 199.</ls> <ls>KĀM. NĪTIS. 3, 37. 10, 28. 14, 68. 15, 35. 18, 69.</ls> <ls>KATHĀS. 25, 32.</ls> <ls>RĀJA-TAR. 1, 109. 4, 270. 5, 200.</ls> <ls>PRAB. 8, 10. 84, 4.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 189, 20. 193, 3.</ls> <ls>Z. d. d. m. G. 14, 574, 4. 575, 7.</ls> Inschr. in <ls>Journ. of the Am. Or. S. 7, 6, Śl. 17.</ls> Schol. zu <ls>P. 4, 4, 66.</ls> 
 <div n="1">— 5) {%festhalten, herbeiziehen; dauernd verleihen, einpflanzen%}: {#वृष्टिम्#} 
 <ls>ŚAT. BR. 1, 8, 3, 14.</ls> 
 <ls>TBR. 3, 3, 1, 3.</ls> 
@@ -748,12 +748,12 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>AIT. BR. 5, 24.</ls> {#अ\स्मे र\यिं नि य^च्छतम्#} 
 <ls>ṚV. 4, 50, 10.</ls> <ls n="ṚV.">7, 82, 8.</ls> {#न्य^श्विना हृ\त्सु कामा^ अयंसत#} 
 <ls n="ṚV.">10, 40, 12.</ls> {#मि\मि\क्ष इन्द्रे\ न्य^यामि\ सोम^ः#} 
-<ls n="ṚV.">6, 34, 4.</ls> <ls>VS. 9, 24.</ls> <ls>AV. 3, 20, 8. 4, 25, 6. 7, 24, 1.</ls> {#स\ंज्ञान^मि\हास्मासु\ नि य^च्छतम्#} 
-<ls>52, 1. 115, 3. 10, 3, 17.</ls> <ls>ŚAT. BR. 4, 6, 9, 2.</ls> {#स ए\वास्मै^ प्र\जा न^स्यो\ता निय^च्छति#} 
+<ls n="ṚV.">6, 34, 4.</ls> <ls>VS. 9, 24.</ls> <ls>AV. 3, 20, 8.</ls> <ls n="AV.">4, 25, 6.</ls> <ls n="AV.">7, 24, 1.</ls> {#स\ंज्ञान^मि\हास्मासु\ नि य^च्छतम्#} 
+<ls n="AV. 3,">52, 1.</ls> <ls n="AV. 3,">115, 3.</ls> <ls n="AV.">10, 3, 17.</ls> <ls>ŚAT. BR. 4, 6, 9, 2.</ls> {#स ए\वास्मै^ प्र\जा न^स्यो\ता निय^च्छति#} 
 <ls>TS. 2, 1, 1, 2. 4, 3, 11, 5.</ls> {#को नः कुले निवपनानि नियच्छति#} {%regelmässig darbringen%} 
 <ls>ŚĀK. 152.</ls> 
 <div n="1">— 6) {%über Jmd halten%} (vgl. u. simpl. 3): {#शर्म#} 
-<ls>AV. 7, 6, 4. 12, 3, 8.</ls> 
+<ls>AV. 7, 6, 4.</ls> <ls n="AV.">12, 3, 8.</ls> 
 <div n="1">— 7) {%nach unten kehren%} (die Hand) 
 <ls>TS. 2, 6, 5, 4.</ls> 
 <div n="1">— 8) in der Gramm. {%niedrig halten im Ton%} so v. a. {%mit dem%} <is>Anudātta</is> {%sprechen%} 
@@ -788,8 +788,8 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>KULL.</ls> zu <ls>M. 2, 5.</ls>
 
 <div n="p">— {#परिणि#} 
-<ls>P. 8, 4, 17,</ls> 
-<ls>Sch.</ls> — {#प्रणि#} ebend. und 
+<ls>P. 8, 4, 17</ls>, <ls>Sch.</ls>
+— {#प्रणि#} ebend. und 
 <ls>1, 1, 20</ls>, <ls>Sch.</ls>
 
 <div n="p">— {#प्रतिनि#}, partic. {#°यत#} {%für jeden einzelnen Fall besonders bestimmt, je anders bestimmt, je ein anderer%} 
@@ -809,7 +809,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>MBH. 12, 8987.</ls> 
 <div n="1">— 3) {%hemmen, unterdrücken, von sich fern halten%}: {#प्रमोहं विनियच्छति#} 
 <ls>MBH. 13, 1012</ls>; vgl. jedoch 
-<ls>14, 1086.</ls> 
+<ls n="MBH.">14, 1086.</ls> 
 <div n="1">— 4) {%beschränken%}: {#विनियताहार#} {%mässige Nahrung zu sich nehmend%} 
 <ls>R. 3, 6, 7.</ls> 
 <div n="1">— 5) {#विनियतम्#} 
@@ -818,7 +818,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 
 <div n="p">— {#संनि#} {%festhalten, anziehen%}: {#अभीषून्#} {%die Zügel%} 
 <ls>MBH. 7, 8180.</ls> {%Jmd zurückhalten%} 
-<ls>14, 225.</ls> {%zügeln, bändigen, im Zaum halten%}: {#इन्द्रियाणि#} 
+<ls n="MBH.">14, 225.</ls> {%zügeln, bändigen, im Zaum halten%}: {#इन्द्रियाणि#} 
 <ls>Spr. 3748.</ls> 
 <ls>M. 2, 96. 175.</ls> 
 <ls>BHAG. 12, 4.</ls> 
@@ -845,7 +845,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>AIT. BR. 5, 31.</ls> {#प्रयताञ्जलि#} 
 <ls>R. 3, 68, 23.</ls> {#प्रयत#} {%langgestreckt%}: {#इ\दं दी\र्घं प्रय^तं स\धस्थ^म्#} 
 <ls>ṚV. 1, 154, 3.</ls> {%weitreichend%}: {#दु\न्दु\भेर्वाक्#} 
-<ls>AV. 5, 20, 5. 13, 2, 31.</ls> 
+<ls>AV. 5, 20, 5.</ls> <ls n="AV.">13, 2, 31.</ls> 
 <div n="1">— 2) {%über Jmd halten%}: {#प्र नो^ यच्छतादवृ\कं छ\र्दिः#} 
 <ls>ṚV. 1, 48, 15.</ls> <ls n="ṚV.">8, 9, 1</ls>; vgl. u. simpl. (3) 
 <div n="1">— 3) {%darreichen, anbieten; darbringen, geben, übergeben, dahingeben, verleihen%}; mit acc. der Sache und dat., gen. oder loc. der Person. {#श\ग्धि पू\र्धि प्र य^ंसि च#} 
@@ -856,7 +856,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>ṚV. 3, 36, 2.</ls> <ls n="ṚV. 3, 36,">9.</ls> <ls n="ṚV. 3, 36,">10.</ls> {#रायः#} 
 <ls n="ṚV.">4, 2, 20.</ls> {#म\घानि^#} 
 <ls n="ṚV.">5, 30, 12.</ls> <ls n="ṚV. 5,">36, 4.</ls> <ls n="ṚV.">8, 17, 10.</ls> {#अ\त्ता ह\वींषि\ प्रय^तानि ब\र्हिषि^#} {%auf die Streu gesetzt%} 
-<ls n="ṚV.">10, 15, 11.</ls> <ls>AV. 8, 8, 10. 12, 3, 31. 5, 57.</ls> <ls>AIT. BR. 1, 4.</ls> {#व्रतम्#} 
+<ls n="ṚV.">10, 15, 11.</ls> <ls>AV. 8, 8, 10.</ls> <ls n="AV.">12, 3, 31.</ls> <ls n="AV. 12,">5, 57.</ls> <ls>AIT. BR. 1, 4.</ls> {#व्रतम्#} 
 <ls>3, 40.</ls> <ls>ŚAT. BR. 1, 3, 3, 3.</ls> {#स्तनम्#} 
 <ls>14, 9, 4, 28.</ls> {#इन्द्रो यतीन्सालावृकेभ्यः प्रायच्छत्#} 
 <ls>ŚĀṄKH. ŚR. 14, 50, 2.</ls> 
@@ -867,7 +867,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>MAITRYUP. 6, 33.</ls> <ls>P. 4, 4, 30. fg.</ls> 
 <ls>M. 3, 249. 4, 192. 234. 11, 15. 25.</ls> 
 <ls>MBH. 1, 5704.</ls> <ls n="MBH.">2, 1356</ls> ({#करान्#} {%Tribut darbringen%}) 
-<ls>3, 8544. 12018. 12277. 5, 623. 13, 6699</ls> (mit der ed. Bomb. {#आसनार्हस्य#} zu lesen). 
+<ls n="MBH.">3, 8544.</ls> <ls n="MBH. 3,">12018.</ls> <ls n="MBH. 3,">12277.</ls> <ls n="MBH.">5, 623.</ls> <ls n="MBH.">13, 6699</ls> (mit der ed. Bomb. {#आसनार्हस्य#} zu lesen). 
 <ls>BHAG. 9, 26.</ls> 
 <ls>R. 2, 20, 29. 30, 43. 32, 8. 39, 16. 55, 27. 98, 18. 112, 22.</ls> 
 
@@ -894,7 +894,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>VARĀH. BṚH. S. 42, 9.</ls> {#निद्राम्#} 
 <ls>SĀH. D. 57, 7.</ls> {#कामान्#} 
 <ls>MBH. 1, 6657.</ls> {#तृप्तिम्#} 
-<ls>8084.</ls> <ls>R. 1, 62, 11.</ls> {#भोगं मोक्षं चैव#} 
+<ls n="MBH. 1,">8084.</ls> <ls>R. 1, 62, 11.</ls> {#भोगं मोक्षं चैव#} 
 <ls>KATHĀS. 52, 16.</ls> {#पीडाम्#} 
 <ls>VARĀH. BṚH. S. 53, 58.</ls> {#भयम्#} 
 <ls>Spr. 892.</ls> 
@@ -931,10 +931,10 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>VS. PRĀT. 1, 20.</ls> 
 <ls>M. 2, 183. 185. 222. 3, 216. 226. 228. 4, 49. 5, 86. 145. 8, 258. 11, 258.</ls> 
 <ls>MBH. 3, 3010.</ls> <ls n="MBH. 3,">11931.</ls> <ls n="MBH.">5, 426</ls> ({#प्रयता च#} mit der ed. Bomb. zu lesen). 
-<ls>12, 9058. 13, 382</ls> ({#प्रयताः#} mit der ed. Bomb. zu lesen). 
-<ls>2669. 7101.</ls> <ls>R. 1, 2, 27. 50, 16. 2, 31, 19. 52, 83. 104, 28.</ls> <ls>R. GORR. 1, 12, 27. 27, 9. 35, 39. 2, 17, 6. 98, 21. 4, 27, 11. 5, 93, 2. 7, 83, 8.</ls> <ls>KUMĀRAS. 1, 59. 3, 16.</ls> <ls>RAGH. 1, 35. 90. 95. 5, 28. 8, 11. 13, 70.</ls> <ls>VARĀH. BṚH. S. 46, 64. 48, 19. 88, 40.</ls> <ls>BHĀG. P. 1, 3, 29. 2, 2, 14. 5, 7. 4, 7, 25. 8, 71. 12, 47. 5, 23, 8. 6, 15, 27. 8, 4, 24. 16, 62.</ls> <ls>MĀRK. P. 51, 51. 96, 12.</ls> {#सर्वकर्मसु#} 
+<ls n="MBH.">12, 9058.</ls> <ls n="MBH.">13, 382</ls> ({#प्रयताः#} mit der ed. Bomb. zu lesen). 
+<ls n="MBH. 12,">2669.</ls> <ls n="MBH. 12,">7101.</ls> <ls>R. 1, 2, 27. 50, 16. 2, 31, 19. 52, 83. 104, 28.</ls> <ls>R. GORR. 1, 12, 27. 27, 9. 35, 39. 2, 17, 6. 98, 21. 4, 27, 11. 5, 93, 2. 7, 83, 8.</ls> <ls>KUMĀRAS. 1, 59. 3, 16.</ls> <ls>RAGH. 1, 35. 90. 95. 5, 28. 8, 11. 13, 70.</ls> <ls>VARĀH. BṚH. S. 46, 64. 48, 19. 88, 40.</ls> <ls>BHĀG. P. 1, 3, 29. 2, 2, 14. 5, 7. 4, 7, 25. 8, 71. 12, 47. 5, 23, 8. 6, 15, 27. 8, 4, 24. 16, 62.</ls> <ls>MĀRK. P. 51, 51. 96, 12.</ls> {#सर्वकर्मसु#} 
 <ls>MBH. 13, 7100.</ls> {#रणे#} 
-<ls>3, 12237.</ls> {#अजस्रदीक्षा°#} 
+<ls n="MBH.">3, 12237.</ls> {#अजस्रदीक्षा°#} 
 <ls>RAGH. 3, 44. 65.</ls> {#अवभृथ°#} 
 <ls>9, 18.</ls> {#अभिषेक°#} 
 <ls>14, 82.</ls> {#आचार°#} 
@@ -986,9 +986,9 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>YĀJÑ. 1, 266.</ls> {#यो ऽसाधुभ्यो ऽर्थमादाय साधुभ्यः संप्रयच्छति#} 
 <ls>M. 11, 29.</ls> 
 <ls>MBH. 1, 8087.</ls> <ls n="MBH.">3, 14024.</ls> <ls n="MBH.">4, 132.</ls> <ls n="MBH.">12, 4010.</ls> ({#अमृतं#} st. {#अनृतं#} mit der ed. Bomb. zu lesen). 
-<ls>13, 676.</ls> <ls>R. 2, 7, 7.</ls> <ls>R. GORR. 2, 109, 33.</ls> <ls>Spr. 4895.</ls> <ls>VARĀH. BṚH. S. 90, 11.</ls> <ls>MĀRK. P. 18, 49.</ls> {#अर्बुदेन गवां ब्रह्मन्मम राज्येन वा पुनः । नन्दिनीं संप्रयच्छस्व#} {%abtreten für%} 
+<ls n="MBH.">13, 676.</ls> <ls>R. 2, 7, 7.</ls> <ls>R. GORR. 2, 109, 33.</ls> <ls>Spr. 4895.</ls> <ls>VARĀH. BṚH. S. 90, 11.</ls> <ls>MĀRK. P. 18, 49.</ls> {#अर्बुदेन गवां ब्रह्मन्मम राज्येन वा पुनः । नन्दिनीं संप्रयच्छस्व#} {%abtreten für%} 
 <ls>MBH. 1, 6664.</ls> (eine Tochter) {%in die Ehe geben%} 
-<ls>3, 16661</ls> (= <ls>SĀV. 2, 4</ls> mit falscher Lesart). 
+<ls n="MBH.">3, 16661</ls> (= <ls>SĀV. 2, 4</ls> mit falscher Lesart). 
 <ls>R. GORR. 1, 74, 6.</ls> {%wiedergeben%} 
 <ls>6, 6, 13.</ls> med. {%sich gegenseitig darreichen%} 
 <ls>ŚAT. BR. 5, 4, 4, 19.</ls> {#कुमारं मातापितरौ त्रिः संप्रयच्छेते#} 
@@ -1013,7 +1013,7 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls n="ṚV. 5, 61,">9.</ls> {%auseinanderhalten%}: {#यत्स\ंयमो\ न वि य^मः#} 
 <ls>AV. 4, 3, 7.</ls> {#यथा^ यथा प\तयन्तो वियेमि\रे#} 
 <ls>ṚV. 4, 54, 5.</ls> {#वियत#} {%ausgestreckt, ausgebreitet%}: {#स\ह\स्रा\ह्न्यं विय^तावस्य प\क्षौ#} 
-<ls>AV. 10, 8, 18, 13, 3, 14.</ls> 
+<ls>AV. 10, 8, 18.</ls> <ls n="AV.">13, 3, 14.</ls> 
 <ls>ṚV. 4, 19, 3.</ls> 
 <ls>TS. 4, 4, 5, 1.</ls> {#वियतम्#} adv. {%auseinandergehalten, in Absätzen%}: {#वियतं पच्छो निविदः शंसति#} 
 <ls>ŚĀṄKH. ŚR. 7, 19, 23. 8, 7, 19.</ls> 
@@ -1029,8 +1029,8 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>R. 2, 40, 22.</ls> {#संयतप्रग्रहं रथं कृत्वा#} 
 <ls>ŚĀK. 100, 15.</ls> {#संयच्छ मामकानश्वान्#} {%lenken%} 
 <ls>MBH. 4, 1212.</ls> {#यस्तान्संयमते#} (so beide Ausgg.) 
-<ls>11, 177.</ls> {#हयाः सुसंयता मातलिना#} 
-<ls>3, 12110.</ls> {#संयच्छ वाजिनः सूत शनैर्याहि#} 
+<ls n="MBH.">11, 177.</ls> {#हयाः सुसंयता मातलिना#} 
+<ls n="MBH.">3, 12110.</ls> {#संयच्छ वाजिनः सूत शनैर्याहि#} 
 <ls>R. GORR. 2, 39, 26. 44, 12 (46, 11</ls> <ls>SCHL.</ls>). {#यमः संयमतामहम्#} 
 <ls>BHAG. 10, 29.</ls> 
 <ls>BHĀG. P. 11, 16, 18.</ls> {#सर्वेन्द्रियाणि संयम्य#} 
@@ -1101,11 +1101,11 @@ u.s.w.) {%bei Jmd%} (loc.), {%festhalten; zum Stehen bringen%}: {#रथ^म्#
 <ls>MBH. 3, 1694.</ls> <ls n="MBH. 3,">12786.</ls> 
 <ls>HARIV. 9390.</ls> <ls n="HARIV.">10868.</ls> <ls n="HARIV.">14370.</ls> 
 <ls>R. 1, 1, 23 (26 GORR.).</ls> <ls>RAGH. 3, 20. 42.</ls> <ls>MĀLAV. 7.</ls> <ls>KATHĀS. 14, 4. 51, 5. 56, 25. 61, 126. 65, 51. 118, 146. 149.</ls> {%zusammenthun, aufhäufen%}; med. {%für sich%}: {#व्रीहीन्संयच्छते#} 
-<ls>P. 1, 3, 75,</ls> 
-<ls>Sch.</ls> {%schliessen%}: {#सर्वद्वाराणि संयम्य#} 
+<ls>P. 1, 3, 75</ls>, <ls>Sch.</ls>
+{%schliessen%}: {#सर्वद्वाराणि संयम्य#} 
 <ls>BHAG. 8, 12.</ls> {#असंयतकवाट#} 
 <ls>R. 2, 71, 34.</ls> {#संयत#} im Gegens. zu {#व्यात्त#} 
-<ls>AV. 6, 56, 1. 10, 4, 8.</ls> {#वस्तिं संयम्य धारयेत्#} {%andrückend%} 
+<ls>AV. 6, 56, 1.</ls> <ls n="AV.">10, 4, 8.</ls> {#वस्तिं संयम्य धारयेत्#} {%andrückend%} 
 <ls>SUŚR. 2, 352, 6.</ls> 
 <div n="1">— 2) {%zusammenhalten%} so v. a. {%in Ordnung halten%}: {#संयतोपस्करा#} 
 <ls>YĀJÑ. 1, 83.</ls> 

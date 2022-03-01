@@ -53,7 +53,7 @@
 <ls>MBH. 3, 13449.</ls> {#तनू#} 
 <ls>BHĀG. P. 5, 3, 20.</ls> {#शुक्लाभिजातीय#} 
 <ls>MBH. 12, 1196.</ls> {#°वृत्त#} 
-<ls>14, 2713.</ls> {#कर्मन्#} 
+<ls n="MBH.">14, 2713.</ls> {#कर्मन्#} 
 <ls>Spr. (II) 4905.</ls> 
 <ls>BHĀG. P. 4, 29, 27. fg.</ls> {#°लोहितकृष्णवर्णेन कर्मणा#} 
 <ls>5, 19, 19.</ls> {#धन#} 
@@ -83,12 +83,12 @@
 <div n="2">— b) {%der Monat%} <is>Vaiśākha</is> (Comm.) 
 <ls>BHĀG. P. 7, 14, 21.</ls> 
 <div n="2">— c) {%die weisse Farbe, Weisse%}: {#घटस्य शुक्लः#} 
-<ls>P. 2, 2, 11,</ls> 
-<ls>Sch.</ls> {#°कृष्णौ#} <is>gaṇa</is> {#दधिपयआदि#} 
+<ls>P. 2, 2, 11</ls>, <ls>Sch.</ls>
+{#°कृष्णौ#} <is>gaṇa</is> {#दधिपयआदि#} 
 zu <ls>P. 2, 4, 14.</ls> 
 <div n="2">— d) {%Auswurf, Schleim, Rotz%}: {#ये ब्रा^ह्म\णं प्र\त्यष्ठी^व\न्ये वा^स्मिं छु\क्लमी^षि\रे#} 
 <ls>AV. 5, 19, 3.</ls> {#यत्र^ शु\क्लो न क्रि\यते^ अब\लन\ बली^यस#} {%wo man sich nicht vom Schwächeren muss anspeien lassen%} 
-<ls>3, 39, 3.</ls> 
+<ls n="AV.">3, 39, 3.</ls> 
 <div n="2">— e) {%Ricinus%} 
 <ls>AUSH. 86.</ls> {%weisser Ricinus%} 
 <ls>RĀJAN.</ls> im <ls>ŚKDR.</ls> 

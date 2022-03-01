@@ -14,7 +14,7 @@
 <ls n="ṚV.">4, 24, 1.</ls> {#सोम\ं जन^स्य\ गोप^तिम्#} 
 <ls n="ṚV.">9, 35, 3.</ls> <ls n="ṚV.">10, 19, 3.</ls> {#मया^ गावो\ गोप^तिना सचध्वम्#} 
 <ls>AV. 3, 14, 6.</ls> {#त्वां मृ\त्योर्गोप^ते\रुद्भ^रामि#} 
-<ls>8, 2, 23. 12, 4, 27. 37. 39.</ls> <ls>VS. 1, 1.</ls> 
+<ls n="AV.">8, 2, 23.</ls> <ls n="AV.">12, 4, 27.</ls> <ls n="AV. 12, 4,">37.</ls> <ls n="AV. 12, 4,">39.</ls> <ls>VS. 1, 1.</ls> 
 <div n="1">— 3) {%der Hirt%}
 <lang n="greek">κατ᾽ ἐξοχήν,</lang> <is>Kṛṣṇa</is> oder <is>Viṣṇu</is> 
 <ls>MBH. 13, 7002.</ls> <ls n="MBH. 13,">7012.</ls> 
@@ -22,7 +22,7 @@
 <div n="1">— 4) {%der Herr der Heerde am Himmel, der Herr der Gestirne%} oder {%der Strahlen%}: 
 <div n="2"> a) {%die Sonne%} 
 <ls>TRIK.</ls> <ls>H. 97.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 1, 6615.</ls> <ls n="MBH.">2, 425.</ls> <ls n="MBH.">3, 16941.</ls> <ls n="MBH. 3,">16977. fg.</ls> 
-<ls>17119.</ls> <ls>HARIV. 573.</ls> <ls n="HARIV.">586.</ls> <ls>BHĀG. P. 1, 12, 10.</ls> 
+<ls n="MBH. 3,">17119.</ls> <ls>HARIV. 573.</ls> <ls n="HARIV.">586.</ls> <ls>BHĀG. P. 1, 12, 10.</ls> 
 <div n="2">— b) <is>Indra</is> 
 <ls>H. an.</ls> 
 <div n="1">— 5) {%der Herr der Erde, König%} 

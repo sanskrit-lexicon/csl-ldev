@@ -21,8 +21,8 @@
 <ls>HALĀY. 4, 48. 2, 282. 3, 58.</ls> {#°कृष्ण#} 
 <ls>ŚĀṄKH. GṚHY. 1, 12.</ls> {#कूटानि धातुरक्तानि#} 
 <ls>MBH. 1, 1172.</ls> {#°श्मश्रुशिरोरुह#} 
-<ls>5929.</ls> {#अशोक इव रक्तः#} 
-<ls>5, 7154.</ls> {#कुरुवकाः#}
+<ls n="MBH. 1,">5929.</ls> {#अशोक इव रक्तः#} 
+<ls n="MBH.">5, 7154.</ls> {#कुरुवकाः#}
 [Page6-0207]
 
 <ls>R. 3, 79, 36.</ls> {#°माल्यानुलेपन#} 
@@ -44,7 +44,7 @@
 <ls>BHĀG. P. 3, 15, 28. 28, 21.</ls> 
 <ls>MĀRK. P. 109, 65.</ls> fünf (sieben) Körpertheile müssen roth sein: {#रक्ता पञ्चसु रक्तेषु#} 
 <ls>MBH. 4, 253.</ls> {#रक्ता च#} (so die ed. Bomb.) {#पञ्चसु#} 
-<ls>5, 3939.</ls> {#सप्तसु रक्तः#} 
+<ls n="MBH.">5, 3939.</ls> {#सप्तसु रक्तः#} 
 <ls>VARĀH. BṚH. S. 68, 84.</ls> {#नेत्रान्तपदकरताल्वधरोष्ठजिह्वा रक्ता नखाश्च खलु सुखावहानि#} 
 <ls>87.</ls> {%roth%} und zugleich {%zugethan, liebend, verliebt%} 
 <ls>Spr. 231. 2579. 2581. 3650.</ls> {#आरक्त#} (s. auch bes.) {%röthlich%} 
@@ -90,8 +90,8 @@
 <div n="2">— d) = {#उष्ट्रकाण्डी#} 
 <ls>RĀJAN.</ls> 
 <div n="2">— e) Bez. einer der sieben Zungen des Feuers 
-<ls>H. 1099,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 1099</ls>, <ls>Sch.</ls> 
+
 <ls>HALĀY. 1, 68.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Blut%} 

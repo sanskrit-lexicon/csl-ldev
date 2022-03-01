@@ -13,9 +13,9 @@
 <ls>Spr. 294 (II).</ls> {#संदिग्धो विजयो युधि#} 
 <ls>3166. 2438.</ls> <ls>M. 10, 119.</ls> {#विजयमवाप्य#} 
 <ls>MBH. 1, 1187.</ls> {#विजयायाभिषेचितः#} 
-<ls>1989.</ls> {#विजयाभिषेक#} 
+<ls n="MBH. 1,">1989.</ls> {#विजयाभिषेक#} 
 <ls>Verz. d. Oxf. H. 45,a,23.</ls> <ls>MBH. 1, 7655.</ls> {#तद्युद्धे विजयं चात्मनो महत्#} (s. u. {#महन्त्#}) 
-<ls>7, 5650.</ls> <ls>R. 2, 40, 9.</ls> {#विजयमुक्तस्तैः (विजयं पृष्टस्तैः#} ed. Bomb.) 
+<ls n="MBH.">7, 5650.</ls> <ls>R. 2, 40, 9.</ls> {#विजयमुक्तस्तैः (विजयं पृष्टस्तैः#} ed. Bomb.) 
 <ls>71, 30.</ls> <ls>KUMĀRAS. 3, 19.</ls> <ls>RAGH. 12, 44.</ls> <ls>ŚĀK. 48.</ls> {#स भवान्विजयाय प्रतिष्ठताम्#} 
 <ls>95, 11.</ls> <ls>VARĀH. BṚH. S. 4, 31. 18, 5. 73, 3.</ls> {#नृपति°#} 
 <ls>36, 2.</ls> <ls>BHĀG. P. 2, 10, 4. 6, 11, 20.</ls> {#धर्म°#} {%der Sieg des Rechts%} 
@@ -36,7 +36,7 @@
 <ls>KĀTY. ŚR. 20, 4, 27.</ls> 
 <div n="2">— c) bildliche Bez. {%des Schwertes%} 
 <ls>H. ś. 143.</ls> <ls>MBH. 12, 6204.</ls> {%der Strafe%} 
-<ls>4428.</ls> 
+<ls n="MBH. 12,">4428.</ls> 
 <div n="2">— d) {%Götterwagen%} ({#विमान#}) 
 <ls>H. an.</ls> 
 <div n="2">— e) Bez. {%einer best. Stunde des Tages%} ({#मुहूर्त#}) 
@@ -60,8 +60,8 @@
 <ls>MĀRK. P. 66, 5. 6.</ls> ein <is>Muni</is> 
 <ls>HARIV. 9573.</ls> ein Fürst 
 <ls>MBH. 1, 226.</ls> ein Sohn <is>Dhrtarāṣṭra's</is> (?) 
-<ls>7, 6851.</ls> ein Krieger auf Seiten der <is>Pāṇḍava</is> 
-<ls>7012.</ls> einer der acht Rathgeber <is>Daśaratha's</is> 
+<ls n="MBH.">7, 6851.</ls> ein Krieger auf Seiten der <is>Pāṇḍava</is> 
+<ls n="MBH. 7,">7012.</ls> einer der acht Rathgeber <is>Daśaratha's</is> 
 <ls>R. 1, 7, 3. 7, 59, 3, 26.</ls> <ls>WEBER, RĀMAT. UP. 302.</ls> Bein. <is>Arjuna's</is> <ls>TRIK. 2, 8, 16.</ls> <ls>H. ś. 137.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>MBH. 4, 176.</ls> <ls n="MBH. 4,">804.</ls> <ls n="MBH. 4,">1376.</ls> <ls n="MBH. 4,">1381.</ls> <ls n="MBH.">12, 896.</ls> <ls n="MBH.">14, 2423.</ls> <ls n="MBH. 14,">2477.</ls> <ls>BHĀG. P. 1, 9, 33. 39.</ls> ein Sohn <is>Jaya's</is> 
 <ls>HARIV. 1514. fg.</ls> 
 <ls>VP. 390.</ls> 
@@ -135,7 +135,7 @@
 <div n="1">— 4) <lex>adj.</lex> {%siegreich%} 
 <ls>H. ś. 151.</ls> {%zum Siege führend, Sieg verkündend%}: {#चापं विजयं महत्#} 
 <ls>MBH. 8, 2326.</ls> {#निमित्तानि विजयानि (विजयाय#} ed. Bomb.) {#बहूनि#} 
-<ls>7, 2998.</ls> 
+<ls n="MBH.">7, 2998.</ls> 
 <div n="v">— Vgl. {#त्रैलोक्यविजया, दिग्विजय#} (auch 
 <ls>BHĀG. P. 9, 11, 25</ls>), {#पवन°, प्र°, मध्वाचार्य°, विशाल°#} .
 <LEND>

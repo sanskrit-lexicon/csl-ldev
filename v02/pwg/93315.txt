@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>m.</lex> (n. 
 <ls>PAÑCAT. 117, 2</ls>) mit {#कृत#} u. s. w. componirt <is>gaṇa</is> {#श्रेण्यादि#} zu 
 <ls>P. 2, 1, 59.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#}, z. 
-<ls>B.</ls> <ls>P. 1, 1, 49, Schol.</ls> 
+<ls>B.</ls> <ls>P. 1, 1, 49</ls>, Schol. 
 <div n="2"> a) {%Unterschied, Verschiedenheit; Besonderheit, Eigenthümlichkeit; Art, Species, Individuum%}; = {#अन्तर#} 
 <ls>HALĀY. 5, 85.</ls> = {#व्यक्ति#} 
 <ls>H. 1515.</ls> {#यथा जानपदीषु विद्यातः पुरुषविशेषो भवति#} 
@@ -21,7 +21,7 @@
 <ls>R. 2, 59, 17.</ls> 
 <ls>ŚĀK. 100, 7.</ls> 
 <ls>Spr. 1482.</ls> 
-<ls>P. 4, 4, 38, Schol.</ls> {#को विशेषस्तदा तस्य वन्यैरन्यमहीरुहैः#} 
+<ls>P. 4, 4, 38</ls>, Schol. {#को विशेषस्तदा तस्य वन्यैरन्यमहीरुहैः#} 
 <ls>Spr. (II) 1580.</ls> {#पल्लवतः कल्पतरोरेष विशेषः करस्य ते#} 
 <ls>KUVALAY. 74,b.</ls> {#न मे विशेषः पुत्रेषु स्वेषु पाण्डुसुतेषु वा#} 
 <ls>MBH. 1, 142.</ls> 
@@ -45,7 +45,7 @@
 <ls>M. 2, 165.</ls> {#दण्डविशेषाः#} 
 <ls>8, 119.</ls> <ls>BHAG. 11, 15.</ls> <ls>KUMĀRAS. 1, 36.</ls> <ls>PAÑCAT. 113, 9. 114, 25. 247, 11.</ls> <ls>HIT. 25, 16. 26, 16.</ls> {#प्लक्ष#} ist ein {#विशेष#} von {#वृक्ष; रै, धन, विद्या, अश्व, गो#} von {#स्व#} {%Besitz%}; {#पुष्पमित्र#} (N. pr. eines Fürsten) von {#राजन्#} {%Fürst%} <is>Vārtt</is>. zu 
 <ls>P. 1, 1, 68</ls> nebst Scholl. {#स्वरूपम्, पर्यायाः, विशेषाः#} {%das Wort selbst, seine Synonyme und seine Species%} 
-<ls>SIDDH. K.</ls> zu <ls>P. 4,4,35.</ls> Schol. zu <ls>2,4,23.</ls> {#क्षण#} ist ein {#काल°#} {%ein best. Zeittheil%} 
+<ls>SIDDH. K.</ls> zu <ls>P. 4, 4, 35.</ls> Schol. zu <ls n="P.">2, 4, 23.</ls> {#क्षण#} ist ein {#काल°#} {%ein best. Zeittheil%} 
 <ls>AK. 3, 4, 13, 50.</ls> {#अहोरात्रान्तान्कालविशेषान्#} 
 <ls>BHĀG. P. 4, 29, 54.</ls> {#अवस्था#} ist ein {#विशेषः कालिकः#} 
 <ls>AK. 1, 1, 4, 7.</ls> {#और्वाभिधस्य हव्याशविशेषस्य#} {%eine Art von Feuer%} 
@@ -61,7 +61,7 @@
 <ls>SUŚR. 1, 67, 6.</ls> {#येन येन विशेषेण#} {%auf jede beliebige Weise%} 
 <ls>Spr. 4893.</ls> Nicht selten steht {#विशेष#} im comp. voran: {#°मण्डन#} {%ein besonderer Schmuck%} 
 <ls>ŚĀK. 133.</ls> {#विशेषार्थ#} {%eine specielle Bedeutung%} 
-<ls>P. 1, 4, 93, Schol.</ls> {#°नियम#} 
+<ls>P. 1, 4, 93</ls>, Schol. {#°नियम#} 
 <ls>MBH. 2, 849.</ls> {#°गुण#} 
 <ls>NĪLAK. 52.</ls> {#°वृत्ति#} 
 <ls>TATTVAS. 43.</ls> {#°लिङ्ग#} 
@@ -80,8 +80,8 @@
 <ls>Spr. 4319.</ls> {#ज्ञानात्#} 
 <ls>NĪLAK. 31.</ls> {#विशेषार्थिन्#} (vgl. {#विशेषार्थिता#} {%das Bedürfniss nach etwas Besserem%} 
 <ls>PAÑCAT. ed. orn. 6, 12. fg.</ls>) <ls>MBH. 1, 5094.</ls> {#विशेषोपचये#} 
-<ls>5229.</ls> {#अशक्नुवन्विशेषाय#} 
-<ls>14, 108.</ls> {#शोभाविशेषाय#} {%zur Erhöhung der Schönheit%} 
+<ls n="MBH. 1,">5229.</ls> {#अशक्नुवन्विशेषाय#} 
+<ls n="MBH.">14, 108.</ls> {#शोभाविशेषाय#} {%zur Erhöhung der Schönheit%} 
 <ls>RĀJA-TAR. 8, 2123.</ls> {#विशेषं चैव कर्तास्मि#} so v. a. {%etwas Ausserordentliches, Ungewöhnliches%} 
 <ls>MBH. 14, 2869.</ls> {#°करण#} {%das Bessermachen%} 
 <ls>MĀLAV. 5.</ls> {#प्रायः क्रियासु महतामपि दुष्करासु सोत्साहता#} (ein Wort) {#कथयति प्रकृतेर्विशेषम्#} 

@@ -1,7 +1,7 @@
 <L>39565<pc>4-0201<k1>निर्माण<k2>निर्माण
 {#निर्माण#}¦ (von {#मा#} mit {#निस्#}) <lex>n.</lex> 
 <div n="1"> 1) {%Messung, Maass%}: {#यतश्चाध्वकालनिर्माणम्#} 
-<ls>P. 2, 3, 28, <is>Vārtt</is>. 4.</ls> {#एतौ युद्धविदौ रङ्गे कालनिर्माणयोधिनौ#} wohl so v. a. {%dass man die Zeit darnach messen könnte, regelmässig%} 
+<ls>P. 2, 3, 28</ls>, <is>Vārtt</is>. 4. {#एतौ युद्धविदौ रङ्गे कालनिर्माणयोधिनौ#} wohl so v. a. {%dass man die Zeit darnach messen könnte, regelmässig%} 
 <ls>HARIV. 4211.</ls> {#एकनिर्माणौ#} {%von einerlei Maass%} 
 <ls n="HARIV.">4949</ls> = <ls n="HARIV.">5738</ls>; vgl. {#एकनिर्माणनिर्युक्तौ#} 
 <ls n="HARIV.">3438.</ls> {#ककुदोदग्रनिर्माण#} {%so hoch wie ein Berggipfel%} 
@@ -14,7 +14,7 @@
 <ls>MED. ṇ. 58.</ls> {#अहो निर्माणवैदग्धी विधातुः#} 
 <ls>DHŪRTAS. 91, 13.</ls> {#शरीरस्य#} 
 <ls>MBH. 3, 15159.</ls> {#त्रैलोक्यनिर्माणकर#} 
-<ls>5, 2580.</ls> {#(जनपदौ) देवनिर्माणनिर्मितौ#} 
+<ls n="MBH.">5, 2580.</ls> {#(जनपदौ) देवनिर्माणनिर्मितौ#} 
 <ls>R. 1, 26, 17.</ls> {#निर्विघ्नविश्वनिर्माणसिद्धये#} 
 <ls>KATHĀS. 15, 1.</ls> {#आयतन°#} 
 <ls>BHĀG. P. 2, 5, 32.</ls> {#प्रपञ्च°#} 
@@ -32,7 +32,7 @@
 <ls>BURN. Intr. 606. fg.</ls> {#°काय#} Vie de 
 <ls>HIOUEN-THSANG 231,</ls> 
 <ls>N.</ls> 
-<ls>HIOUEN-THSANG I, 241, N. 2.</ls> <ls>WASSILJEW 127.</ls> <ls>H. 234,</ls> <ls>Sch.</ls> 
+<ls>HIOUEN-THSANG I, 241, N. 2.</ls> <ls>WASSILJEW 127.</ls> <ls>H. 234</ls>, <ls>Sch.</ls> 
 <div n="1">— 4) {%das Beste von Etwas%} ({#सार#}). 
 <div n="1">— 5) <lex>f.</lex> {%Schicklichkeit%} ({#समञ्जस#}) 
 <ls>H. an.</ls> <ls>MED.</ls>

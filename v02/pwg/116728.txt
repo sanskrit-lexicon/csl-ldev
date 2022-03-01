@@ -2,7 +2,7 @@
 {#हाटक#}¦ 
 <div n="1"> 1) <lex>m.</lex> pl. N. pr. eines Volkes 
 <ls>MBH. 2, 1042.</ls> sg. N. des von ihm bewohnten Landes 
-<ls>1040.</ls> 
+<ls n="MBH. 2,">1040.</ls> 
 <div n="1">— 2) <lex>n.</lex> ({%aus%} <is>Hāṭaka</is> {%gewonnenes) Gold%} 
 <ls>AK. 2, 9, 94.</ls> 
 <ls>H. 1043.</ls> 
@@ -13,7 +13,7 @@
 <ls>45, 42. 3, 49, 8. 50, 2. 79, 8. 4, 2, 15. 6, 19, 44. 7, 23, 5, 37.</ls> <ls>ŚIŚ. 13, 63.</ls> <ls>VARĀH. BṚH. 27 (25), 27.</ls> <ls>RĀJA-TAR. 1, 110. 3, 529.</ls> <ls>BHĀG. P. 4, 22, 6. 5, 24, 17</ls> (mythische Erklärung). 
 <ls>PAÑCAR.3,15,6.</ls> <ls>PAÑCAT. 184,16. 236,6.</ls> <ls>Verz. d. Oxf. H. 82,a, No. 138, Śl. 2. 234,b,22.</ls> 
 <div n="1">— 3) <lex>adj.</lex> oxyt. {%golden%} 
-<ls>P. 4, 3, 153, Schol.</ls> 
+<ls>P. 4, 3, 153</ls>, Schol. 
 <div n="1">— 4) <lex>m.</lex> {%ein best. Zaubertrank%} 
 <ls>BHĀG. P. 5, 24, 16.</ls> 
 <div n="1">— 5) <lex>f.</lex> {#ई#} N. pr. eines mythischen Flusses in der Unterwelt 

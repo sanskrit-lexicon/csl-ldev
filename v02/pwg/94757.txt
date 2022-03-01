@@ -21,7 +21,7 @@
 <ls>6, 23, 11.</ls> {#वृत्तानुपूर्वे जङ्घे#} 
 <ls>KUMĀRAS. 1, 35.</ls> {#चारुवृत्तपयोधरा#} 
 <ls>MBH. 3, 2664.</ls> {#स्तनौ#} 
-<ls>4, 392.</ls> <ls>R. 3, 52, 25.</ls> {#स्तनौ समवृत्तौ#} 
+<ls n="MBH.">4, 392.</ls> <ls>R. 3, 52, 25.</ls> {#स्तनौ समवृत्तौ#} 
 <ls>BHĀG. P. 4, 25, 24.</ls> {#°पार्श्व#} 
 <ls>R. 3, 23, 15.</ls> {#तनुवृत्तमध्य#} 
 <ls>RAGH.6,32.</ls> <ls>VARĀH. BṚH. S. 34,4. 56,23. 26. 58,53. 67,7.</ls> <ls>Verz. d. Oxf. H. 97,b,9. 12. 151,a,9.</ls> 
@@ -46,7 +46,7 @@
 <ls>TRIK.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#व्याकरण#} 
-<ls>P., Schol.</ls> {#वृत्तो गुणश्छात्त्रेण#} so v. a. {%sich zu eigen gemacht%} 
+<ls>P.</ls>, Schol. {#वृत्तो गुणश्छात्त्रेण#} so v. a. {%sich zu eigen gemacht%} 
 <ls>VOP. 26, 111.</ls> 
 <div n="2">— e) {%vorhanden, da seiend%}: {#वृत्तौजम्#} <lex>adj.</lex> = {#ओजस्वन्त् (वृत्त = अप्रतिहत#} 
 <ls>KULL.</ls>) <ls>M. 1, 6.</ls> 
@@ -88,7 +88,7 @@
 <ls>VARĀH. BṚH. S. 56, 18.</ls> 
 <div n="2">— d) N. pr. eines Schlangendämons 
 <ls>MBH. 1, 1555</ls> ({#वृत्तसंवर्तकौ#} mit der ed. Bomb. zu lesen). 
-<ls>5, 3630.</ls> 
+<ls n="MBH.">5, 3630.</ls> 
 <div n="2">— e) fehlerhaft für {#वृत्र#} (so ed. Bomb.) 
 <ls>MBH. 12, 3660.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} 
@@ -113,7 +113,7 @@
 <ls>Spr.</ls> (<ls>II)2051.</ls>
 [Page6-1316]
 {#किं°#} {%eine Form von%} {#किम्#} 
-<ls>P. 3, 3, 6. 144. 8, 1, 48</ls>; vgl. {#यद्वृत्त#}. 
+<ls>P. 3, 3, 6.</ls> <ls n="P. 3, 3,">144.</ls> <ls n="P.">8, 1, 48</ls>; vgl. {#यद्वृत्त#}. 
 <div n="2">— d) {%Ereigniss, Begebenheit%} 
 <ls>SĀH. D. 559.</ls> 
 <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 59.</ls> {#चितान्तर्दृश्यते वृत्तं किमेतत्#} so v. a. {%was sieht man dort vorgehen?%} 
@@ -140,7 +140,7 @@
 <ls>109, 8.</ls> <ls>KĀM. NĪTIS. 3, 36. 13, 58.</ls> {#शत्रौ#} 
 <ls>8, 57.</ls> <ls>Spr. (II) 930.</ls> <ls n="Spr. (II)">1820.</ls> <ls>KUMĀRAS. 6, 12.</ls> {#बाल्यवृत्तानि#} (so ed. Bomb.) 
 <ls>MBH. 3, 16865.</ls> {#रजनी°#} 
-<ls>1868.</ls> {#उदार#} 
+<ls n="MBH. 3,">1868.</ls> {#उदार#} 
 <ls>R. 1, 2, 45.</ls> {#शुभैर्वृत्तैः#} 
 <ls>Spr. 4256.</ls> {#महदद्भुतम्#} 
 <ls>4859.</ls> {#पर्वता इव निष्कम्पा वृत्ते महति तस्थुषः (तस्थिवांसो महावृत्ते निष्कम्पा इव पर्वताः#} die neuere Ausg.) 

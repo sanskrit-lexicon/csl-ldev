@@ -3,8 +3,8 @@
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} am Ende eines comp. {%gewinnend, besiegend%}; s. {#कृतंजय, धनं°, पुरं°, शतंजया, शत्रुं°#} . 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) oxyt. {%Sieg, Besiegung, Gewinn, das Gewinnen%} (im Kampf, Spiel, Streit, Process) 
-<ls>P. 3, 3, 56,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 56</ls>, <ls>Sch.</ls> 
+
 <ls>AK. 2, 8, 2, 78. 3, 3, 12.</ls> 
 <ls>H. 803.</ls> 
 <ls>an. 2, 360.</ls> 
@@ -56,10 +56,10 @@
 <ls>MBH. 2, 326.</ls> des 11 ten <is>Cakravartin</is> in <is>Bhārata</is> 
 <ls>H. 694.</ls> eines Helden auf Seiten der <is>Pāṇḍu</is> 
 <ls>MBH. 7, 6911.</ls> ein angenommener Name des <is>Yudhiṣṭhira</is> 
-<ls>4, 176 (?).</ls> <ls>MED.</ls> = {#धनंजय#} = {#अर्जुन#} 
+<ls n="MBH.">4, 176</ls> (?). <ls>MED.</ls> = {#धनंजय#} = {#अर्जुन#} 
 <ls>DRAUP. 3, 7.</ls> 
 <ls>MBH. 14, 2376.</ls> <ls n="MBH. 14,">2424.</ls> N. pr. eines Sohnes <is>Dhṛtarāṣṭra's</is> 
-<ls>1, 2448. 7, 5564. 6851.</ls> <is>Sṛñjaya's</is> 
+<ls n="MBH.">1, 2448.</ls> <ls n="MBH.">7, 5564.</ls> <ls n="MBH. 7,">6851.</ls> <is>Sṛñjaya's</is> 
 <ls>HARIV. 1514.</ls> <is>Suśruta's</is> 
 <ls>VP. 390.</ls> <is>Śruta's</is> 
 <ls>BHĀG. P. 9, 13, 25.</ls> <is>Saṃjaya's</is> 

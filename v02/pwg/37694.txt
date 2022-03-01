@@ -5,13 +5,13 @@
 <ls>VOP. 24, 12</ls>); {#ननाम, नाना꣡म#} (<is>Padap</is>. {#ननाम#}) ved., {#नेमिथ#} und {#ननन्थ#} 
 <ls>VOP. 8, 71.</ls> {#नेमे, अवननामिरे#} 
 <ls>MBH. 1, 5336</ls>; {#नन्ता, नंस्यति#} <is>Kār</is>. 
-<ls>5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>BHAṬṬ. 16, 39.</ls> {#नमिष्यति#} 
+<ls n="MBH. 1,">5</ls> aus <ls>SIDDH. K.</ls> zu <ls>P. 7, 2, 10.</ls> <ls>BHAṬṬ. 16, 39.</ls> {#नमिष्यति#} 
 <ls>HARIV. 2719.</ls> <ls n="HARIV.">4021</ls>; {#अनंसीत्#} 
 <ls>P. 7, 2, 73.</ls> 
 <ls>VOP. 8, 71.</ls> 
 <ls>DAŚAK.</ls> in <ls>BENF. Chr. 183, 12.</ls> {#अनंस्त#} 
 <ls>P.</ls>, <ls>Sch.</ls> <ls>VOP. 24, 12.</ls> {#नंसै#} (1. sg.) und {#अनान्#} ved.; {#नत्वा, °नम्य#} und {#°नत्य#} 
-<ls>P. 6, 4, 37. 38.</ls> 
+<ls>P. 6, 4, 37.</ls> <ls n="P. 6, 4,">38.</ls> 
 <ls>VOP. 26, 202. 213.</ls> 
 <div n="1"> 1) {%sich beugen, sich verneigen vor%} (dat. gen. acc.); {%sich unterwerfen,%}
 [Page4-0041]
@@ -194,8 +194,8 @@
 <ls>SUŚR. 1, 359, 10.</ls> {#श्वपुच्छमवनामितम्#} 
 <ls>PAÑCAT. ed. orn. I, 255.</ls> <ls>VARĀH. BṚH. S. 50, 28.</ls> {#वृक्षान् - अवनाम्य#} 
 <ls>MBH. 3, 10043.</ls> {#फलभारावनामित (वृक्ष)#} 
-<ls>1, 7586.</ls> {#धनुर्ज्यामवनाम्य#} so v. a. {%spannen%} 
-<ls>8, 4606.</ls>
+<ls n="MBH.">1, 7586.</ls> {#धनुर्ज्यामवनाम्य#} so v. a. {%spannen%} 
+<ls n="MBH.">8, 4606.</ls>
 
 <div n="p">— {#अभ्यव#} caus. {%herabbeugen%}: {#अभ्यवनाम्य वक्त्रम्#} 
 <ls>MBH. 3, 10062.</ls>
@@ -359,7 +359,7 @@
 <ls>KĀM. NĪTIS. 1, 64.</ls> — caus. {%emporrichten, aufheben, in die Höhe heben, auftreiben%}: {#मुखमस्याः समुन्नमयितुमिच्छति#} 
 <ls>ŚĀK. 40, 16.</ls> {#मुखं किंचित्समुन्नाम्य#} 
 <ls>MBH. 7, 8859.</ls> {#समुन्नाम्य च पुत्रकम्#} 
-<ls>15, 645.</ls> {#व्रणं समुन्नम्य#} 
+<ls n="MBH.">15, 645.</ls> {#व्रणं समुन्नम्य#} 
 <ls>SUŚR. 1, 93, 14.</ls> {#त्वचः समुन्नम्य शनैः समन्ताद्विवर्धमानो जठरं करोति#} 
 <ls>275, 11.</ls>
 
@@ -471,7 +471,7 @@
 <ls>HARIV. 4196.</ls> 
 <ls>SĀH. D. 2, 4.</ls> {#परिणतप्रज्ञ#} 
 <ls>MBH. 2, 1949.</ls> {#सूर्ये परिणते सति#} {%als die Sonne im Untergehen war%} 
-<ls>4, 1036.</ls> {#परिणतारुण#} {%die untergehende Sonne%} 
+<ls n="MBH.">4, 1036.</ls> {#परिणतारुण#} {%die untergehende Sonne%} 
 <ls>ŚĀK. 31.</ls> {#°शरद्#} {%Spätherbst%} 
 <ls>MEGH. 109.</ls> 
 <ls>BHARTṚ. 3, 86, v. l.</ls> {#परिणते काले#} {%nachdem eine geraume Zeit verflossen war%} 
@@ -587,8 +587,8 @@
 <ls>VARĀH. BṚH. S. 58, 51.</ls> {%gebückt%} so v. a. {%gedemüthigt, demüthig%}; = {#शिक्षित#} 
 <ls>MED.</ls> <ls>SOM. NAL. 180.</ls> <ls>BHAṬṬ. 7, 52.</ls> {#तरुवर विनतास्मि ते सदाहम्#} 
 <ls>GHAṬ. 18.</ls> in der Gramm. = {#नत#} {%in einen cerebralen Laut umgewandelt%} 
-<ls>P. 8, 3, 61,</ls> 
-<ls>Sch.</ls> {#विनता पिडका#} Bez. eines bei der Krankheit {#प्रमेह#} erscheinenden {%Ausschlags%} (der viell. {%vertieft%} ist) 
+<ls>P. 8, 3, 61</ls>, <ls>Sch.</ls>
+{#विनता पिडका#} Bez. eines bei der Krankheit {#प्रमेह#} erscheinenden {%Ausschlags%} (der viell. {%vertieft%} ist) 
 <ls>SUŚR. 1, 273, 12. 18.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> — {#विनत#} 
@@ -606,10 +606,10 @@
 <div n="1"> 1) {%sich beugen, sich verbeugen vor%}: {#उपजिघ्रेद्धि मां मूर्ध्नि तातः संनम्य सत्वरम्#} 
 <ls>R. 2, 72, 30.</ls> {#धीरः संनमेत बलीयसे#} 
 <ls>MBH. 5, 1130.</ls> {#अस्मै शत्रवः संनमन्ते#} 
-<ls>3, 1374.</ls> {#संनमतामरीणाम्#} {%sich demüthig unterwerfend%} 
+<ls n="MBH.">3, 1374.</ls> {#संनमतामरीणाम्#} {%sich demüthig unterwerfend%} 
 <ls>RAGH. 18, 33.</ls> {#यस्यास्तव ब्रह्म#} (sic) {#च ब्राह्मणाश्च - उपस्थाने संनमन्ति#} 
 <ls>MBH. 1, 3230.</ls> {#ते ऽपि त्वां संनमन्तीव#} 
-<ls>4,267.</ls> <ls>Verz. d. Oxf. H. 148,b,26.</ls> partic. {#संनत#} {%gebeugt, gebogen, gekrümmt%}: {#संनताः फलभारेण पुष्पभारेण च द्रुमाः#} 
+<ls n="MBH.">4, 267.</ls> <ls>Verz. d. Oxf. H. 148,b,26.</ls> partic. {#संनत#} {%gebeugt, gebogen, gekrümmt%}: {#संनताः फलभारेण पुष्पभारेण च द्रुमाः#} 
 <ls>R. 3, 16, 5</ls> {#त्वं पद्म इव वातेन संनतः#} 
 <ls>R. GORR. 2, 8, 40.</ls> {#संनताङ्गी#} 
 <ls>KUMĀRAS. 1, 34.</ls>
@@ -635,9 +635,9 @@
 <div n="1">— 4) {%gerade biegen —, richten%}; daher {%in die rechte Ordnung bringen, zurecht machen; zuwegebringen%}; act. med.: {#इषू^ः स\ंनम^मानः#} 
 <ls>ṚV. 10, 87, 4.</ls> {#इषीकाम्#} 
 <ls>AV. 7, 56, 4.</ls> {#सं वो\ मना^ंसि\ सं व्र\ता समाकू^तीर्नमामसि#} 
-<ls>3, 8, 5.</ls> {#आ^कूते\ समि\दं नम^ः#} 
-<ls>6, 131, 2.</ls> {#इम ऐ\न्द्रा अ^तिस\रा आकू^ति\ं सं न^मन्तु मे#} 
-<ls>5, 8, 2.</ls> {#कामान्#} 
+<ls n="AV.">3, 8, 5.</ls> {#आ^कूते\ समि\दं नम^ः#} 
+<ls n="AV.">6, 131, 2.</ls> {#इम ऐ\न्द्रा अ^तिस\रा आकू^ति\ं सं न^मन्तु मे#} 
+<ls n="AV.">5, 8, 2.</ls> {#कामान्#} 
 <ls>ŚAT. BR. 2, 3, 4, 16.</ls> {#ते मे\ सं न^मताम\दः#} 
 <ls>VS. 26, 1.</ls> {%richten nach%}: {#यूपं प्राची संनमति#} 
 <ls>ṢAḌV. BR. 4, 4.</ls> — caus. 

@@ -1,7 +1,7 @@
 <L>87192<pc>6-0612<k1>वक्र<k2>वक्र꣡
 {#वक्र꣡#}¦ (von 2. {#वक्#}) 
 <ls>UṆĀDIS. 2, 13.</ls> <is>gaṇa</is> {#न्यङ्क्वादि#} zu 
-<ls>P.7,3,53.</ls> n. <ls>SIDDH. K. 249,b,1.</ls> 
+<ls>P. 7, 3, 53.</ls> n. <ls>SIDDH. K. 249,b,1.</ls> 
 <div n="1"> 1) <lex>adj.</lex> (f. {#आ#}) 
 <div n="2"> a) {%gebogen, krumm, schief%} (Gegens. {#ऋजु#}) 
 <ls>AK. 3, 2, 21.</ls> 
@@ -9,7 +9,7 @@
 <ls>H. 1456.</ls> 
 <ls>an. 2, 452.</ls> 
 <ls>MED. r. 66.</ls> <ls>HALĀY. 4, 11.</ls> {#धन्वन्#} 
-<ls>AV. 4, 6, 4. 7, 56, 4.</ls> {#वयसः पक्षौ#} 
+<ls>AV. 4, 6, 4.</ls> <ls n="AV.">7, 56, 4.</ls> {#वयसः पक्षौ#} 
 <ls>ŚAT. BR. 10, 2, 1, 7. 10. 11, 7, 3, 2.</ls> 
 <ls>KĀTY. ŚR. 17, 1, 16. 7, 24.</ls> 
 <ls>MBH. 3, 10608.</ls> {#यन्त्र#} 
@@ -63,7 +63,7 @@
 <ls>Ind. St. 8, 215.</ls> 
 <div n="2">— d) {%krumm%} so v. a. {%unredlich, hinterlistig, zweideutig%}: {#°मति#} 
 <ls>MBH. 3, 8442.</ls> {#उभे प्रज्ञे वेदितव्ये ऋज्वी वक्रा च#} 
-<ls>12, 3686.</ls> {#°धी#} <lex>f.</lex> und <lex>adj.</lex> 
+<ls n="MBH.">12, 3686.</ls> {#°धी#} <lex>f.</lex> und <lex>adj.</lex> 
 <ls>BHĀG. P. 4, 3, 18. fg.</ls> {#°वाक्य#} 
 <ls>ŚIŚ. 10, 12</ls> (vgl. 
 <ls>SĀH. D. 66, 1</ls>). {#वचस्#} 

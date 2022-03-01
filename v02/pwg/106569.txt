@@ -6,14 +6,14 @@
 <ls>VOP. 8, 62. 77. 13, 4.</ls> {#(अव) ससृज्यात्; ससृजे꣡, ससृज्म꣡हे#}, ({#आ#}) {#ससृज्रिरे#} 
 <ls>ṚV. 8, 58, 6.</ls> {#अससृग्रम्#} 
 <ls n="ṚV.">9, 97, 30.</ls> <ls n="ṚV.">10, 31, 3.</ls> {#ससृजान꣡; अस्राक्षीत्#} 
-<ls>P. 6, 1, 58. 1, 2, 11, Schol.</ls> <ls>VOP. 8, 77. 13, 4.</ls> {#स्राक्षीस्, अस्रक्षत्, अस्राग्, अस्राष्टम्, असृक्षि, असृक्ष्महि, सृक्षाथाम्, असृष्ट, असृक्षत#} 3. pl. {#असृग्रन्#} 
+<ls>P. 6, 1, 58.</ls> <ls n="P.">1, 2, 11</ls>, Schol. <ls>VOP. 8, 77. 13, 4.</ls> {#स्राक्षीस्, अस्रक्षत्, अस्राग्, अस्राष्टम्, असृक्षि, असृक्ष्महि, सृक्षाथाम्, असृष्ट, असृक्षत#} 3. pl. {#असृग्रन्#} 
 ? 3. pl. <ls>ṚV. 9, 66, 11.</ls> <ls n="ṚV. 9,">87, 5.</ls> <ls n="ṚV. 9,">88, 6.</ls> {#असृग्रम्#} 
-<ls>1, 9, 4. 9, 62, 1.</ls> {#असर्जि, स्रक्ष्यति, स्रक्ष्यते; स्रष्टुम्, सृष्ट्वा#}; pass. {#सृज्यते, सृष्ट#} . 
+<ls n="ṚV.">1, 9, 4.</ls> <ls n="ṚV.">9, 62, 1.</ls> {#असर्जि, स्रक्ष्यति, स्रक्ष्यते; स्रष्टुम्, सृष्ट्वा#}; pass. {#सृज्यते, सृष्ट#} . 
 <div n="1"> 1) (aus der Hand u. s. w.) {%entlassen, schnellen, schleudern%}: ein Geschoss 
 <ls>ṚV. 1, 39, 10.</ls> <ls n="ṚV. 1,">66, 7.</ls> <ls n="ṚV. 1,">71, 5.</ls> 
-<ls>AV. 1, 13, 4. 8, 3, 14.</ls> 
+<ls>AV. 1, 13, 4.</ls> <ls n="AV.">8, 3, 14.</ls> 
 <ls>MBH. 3, 16461.</ls> <ls n="MBH. 3,">16519.</ls> {#जामदग्न्याय#} 
-<ls>5, 7185. 7290.</ls> <ls>R. 2, 96, 44 (105, 43 GORR.). 5, 80, 25.</ls> <ls>RAGH. 11, 44.</ls> <ls>KATHĀS. 18, 14.</ls> <ls>BHAṬṬ. 9, 48.</ls> {#इन्द्रजितः शालस्कन्धम्#} 
+<ls n="MBH.">5, 7185.</ls> <ls n="MBH. 5,">7290.</ls> <ls>R. 2, 96, 44 (105, 43 GORR.). 5, 80, 25.</ls> <ls>RAGH. 11, 44.</ls> <ls>KATHĀS. 18, 14.</ls> <ls>BHAṬṬ. 9, 48.</ls> {#इन्द्रजितः शालस्कन्धम्#} 
 <ls>MBH. 3, 16455.</ls> {#पदा#} 
 <ls>R. 3, 56, 50.</ls> {#सृष्ट#} 
 <ls>7, 63, 20. fg.</ls> {#वज्रो देवसृष्टः#} 
@@ -58,7 +58,7 @@ u.s.w. : {#गिर^ः#}
 <div n="1">— 3) {%rennen lassen%}: Rosse u. s. w. (vgl. {%lancer%}) 
 <ls>ṚV. 4, 26, 5.</ls> <ls n="ṚV.">6, 32, 5.</ls> <ls n="ṚV.">9, 13, 6.</ls> <ls n="ṚV. 9,">64, 10.</ls> {#सृ\जा\नो अत्यो\ न सत्व^भिः#} 
 <ls n="ṚV. 9,">76, 1.</ls> {#आ\जौ#} 
-<ls>97, 20.</ls> Wagen <ls>92, 1.</ls> {%nach —, auf Etwas%}: {#प\थ्या^मृ\तस्य^#} 
+<ls n="ṚV. 9,">97, 20.</ls> Wagen <ls n="ṚV. 9,">92, 1.</ls> {%nach —, auf Etwas%}: {#प\थ्या^मृ\तस्य^#} 
 <ls n="ṚV. 9,">95, 2.</ls> med. {%zulaufen, zueilen auf, s'élancer%}: {#यानि\ स्थाना^न्यसृजन्त\ धीरा^ः#} 
 <ls>VĀLAKH. 11, 6.</ls> 
 <div n="1">— 4) {%loslassen, befreien%}: {#गव्य^म्#} 
@@ -77,11 +77,11 @@ u.s.w.): {#रज्जू^म्#}
 <ls>13, 8, 1, 20.</ls> <ls>ŚĀṄKH. ŚR. 17, 2, 10.</ls> <ls>KAUŚ. 107.</ls> {%Zauber spinnen%}: {#यत्ते^ जा\मिर्भ्राता^ च\ सर्ज^तः#} 
 <ls>AV. 5, 30, 5.</ls> {#सृजति मालां मालिकः#} {%windet einen Kranz%}, aber {#सृ꣡ज्यते (असर्जि) स्रजं भक्तः#} {%für sich zu einem frommen Zweck%} 
 <ls>VOP. 23, 22.</ls> 
-<ls>P. 3, 1, 87, <is>Vārtt</is>. 5. 6.</ls> 
+<ls>P. 3, 1, 87</ls>, <is>Vārtt</is>. 5. 6. 
 <ls>DHĀTUP. 26, 69.</ls> 
 <div n="1">— 7) ({%aus sich entlassen%}; vgl. {#सम्-हर्#}) {%erschaffen, erzeugen, hervorbringen%}; med.: {#सृष्टी^ः#} 
-<ls>AV. 13, 1, 25. 2, 29, 7. 3, 28, 1. 8, 5, 14. 11, 3, 53. 19, 53, 6. 10, 7, 8.</ls> {#ययै\व स^सृ\जे घो\रम्#} 
-<ls>19, 9, 3.</ls> <ls>AIT. BR. 4, 28.</ls> {#प्र\जाः#} 
+<ls>AV. 13, 1, 25.</ls> <ls n="AV.">2, 29, 7.</ls> <ls n="AV.">3, 28, 1.</ls> <ls n="AV.">8, 5, 14.</ls> <ls n="AV.">11, 3, 53.</ls> <ls n="AV.">19, 53, 6.</ls> <ls n="AV.">10, 7, 8.</ls> {#ययै\व स^सृ\जे घो\रम्#} 
+<ls n="AV.">19, 9, 3.</ls> <ls>AIT. BR. 4, 28.</ls> {#प्र\जाः#} 
 <ls>TS. 2, 5, 7, 1.</ls> 
 <ls>AIT. BR. 3, 36.</ls> {#यज्ञम्#} 
 <ls>ŚAT. BR. 1, 6, 2, 4. 2, 2, 4, 11. 5, 1, 11.</ls> {#लोकान्#} 
@@ -146,7 +146,7 @@ u.s.w.): {#रज्जू^म्#}
 <div n="v">— Vgl. {#देवसृष्ट, प्रजापति°, शक्र°#} .
 
 <div n="p">— desid. {#सिसृक्षति#} 
-<ls>P. 7, 2, 75, Schol.</ls> 
+<ls>P. 7, 2, 75</ls>, Schol. 
 <div n="1"> 1) {%zu schleudern beabsichtigen%}: {#नाराचान्#} 
 <ls>HARIV. 5066.</ls> 
 <div n="1">— 2) {%zu schaffen beabsichtigen%}; med.: {#प्रजाः#} 
@@ -161,7 +161,7 @@ u.s.w.): {#रज्जू^म्#}
 <ls>ĀŚV. ŚR. 2, 3, 9. fgg.</ls> {#°सृष्ट#} {%fortgeschleudert%} 
 <ls>KAUŚ. 90.</ls> 
 <div n="1">— 3) {%vorübergehen lassen, loslassen; beurlauben, erlauben%}; act., seltener med. 
-<ls>AV. 4, 16, 6. 10, 5, 15. 15, 12, 2. fgg.</ls> (vgl. 
+<ls>AV. 4, 16, 6.</ls> <ls n="AV.">10, 5, 15.</ls> <ls n="AV.">15, 12, 2. fgg.</ls> (vgl. 
 <ls>ĀPAST. 2, 7, 15). 16, 1, 1. fgg.</ls> <ls>AIT. BR. 3, 42.</ls> {#ॐ प्रणयेत्यतिसृजेत्#} 
 <ls>ĀŚV. ŚR. 1, 12, 12. 5, 11, 1.</ls> 
 <ls>GṚHY. 3, 10, 8.</ls> {#अति तं सृजेते यो ऽतिसृज्यः#} 
@@ -171,7 +171,7 @@ u.s.w.): {#रज्जू^म्#}
 <ls>2, 3.</ls> 
 <div n="1">— 4) {%zukommen lassen, verleihen, gewähren, schenken%} 
 <ls>MBH. 4, 331.</ls> {#वृत्तिं द्विजायातिसृजेत#} 
-<ls>13, 3450.</ls> {#अतिसृज्य#} (= {#प्रतिज्ञाय#} Comm.) {#ददानीति#} 
+<ls n="MBH.">13, 3450.</ls> {#अतिसृज्य#} (= {#प्रतिज्ञाय#} Comm.) {#ददानीति#} 
 <ls>R. 2, 18, 23.</ls> 
 <ls>MṚCCH. 175, 4.</ls> {#राघवाय तनयाम्#} 
 <ls>RAGH. 11, 48. 12, 27</ls> (s. Corrigg.). 
@@ -183,7 +183,7 @@ u.s.w.): {#रज्जू^म्#}
 <ls>ĀŚV. ŚR. 1, 12, 11. 2, 3, 10.</ls>
 
 <div n="p">— {#अभ्यति#} {%vorbeilassen%} 
-<ls>AV. 10, 5, 15. 16, 1, 5.</ls>
+<ls>AV. 10, 5, 15.</ls> <ls n="AV.">16, 1, 5.</ls>
 
 <div n="p">— {#समति#} {%Jmd entlassen, verabschieden%} 
 <ls>CHĀND. UP. 1, 11, 3.</ls>
@@ -215,7 +215,7 @@ u.s.w.): {#रज्जू^म्#}
 
 <div n="p">— {#व्यप#} {%schleudern%}: {#नाराचान्#} 
 <ls>MBH. 8, 2717.</ls> {%abwerfen%}: {#वासः#} 
-<ls>3, 16104.</ls>
+<ls n="MBH.">3, 16104.</ls>
 
 <div n="p">— {#अपि#} {%darauf werfen, hinzufügen%}: einen <is>Soma</is>-Stengel 
 <ls>TS. 3, 2, 2, 1. 6, 4, 4, 4. 6, 9, 1.</ls> {#पवित्रे प्रस्तरे#} 
@@ -252,7 +252,7 @@ u.s.w.): {#रज्जू^म्#}
 <div n="p">— {#अव#} 
 <div n="1"> 1) {%schleudern, abschiessen%} (Pfeile, Blitze u. s. w.); {%ausschütten%} 
 <ls>ṚV. 4, 27, 3.</ls> <ls n="ṚV.">6, 75, 16.</ls> <ls n="ṚV.">7, 46, 3.</ls> 
-<ls>AV. 1, 3, 9. 4, 6, 7.</ls> 
+<ls>AV. 1, 3, 9.</ls> <ls n="AV.">4, 6, 7.</ls> 
 <ls>TS. 6, 2, 3, 2.</ls> {#वाक्सायकान्#} 
 <ls>Spr. (II) 6018.</ls> {#वृ\ष्टिम्#} 
 <ls>ṚV. 5, 62, 3.</ls> 
@@ -274,8 +274,8 @@ u.s.w.): {#रज्जू^म्#}
 <ls>ṚV. 1, 189, 5.</ls> <ls n="ṚV.">2, 3, 10.</ls> {#ह\विः#} 
 <ls n="ṚV.">1, 13, 11.</ls> <ls>AV. 6, 26, 1.</ls> <ls>KĀTY. ŚR. 6, 3, 5.</ls> <ls>LĀṬY. 4, 3, 14.</ls> <ls>GOBH. 3, 10, 25.</ls> <ls>KAUŚ. 14.</ls> <ls>AIT. BR. 4, 13.</ls> {#प्राणान्#} {%seinen Geist aufgeben%} 
 <ls>MBH. 12, 88.</ls> {#क्रोधम्#} 
-<ls>5, 1822.</ls> {#वैरम्#} 
-<ls>6, 5848.</ls> {%schenken, gewähren%}: {#प्राणानवसृजामि ते#} 
+<ls n="MBH.">5, 1822.</ls> {#वैरम्#} 
+<ls n="MBH.">6, 5848.</ls> {%schenken, gewähren%}: {#प्राणानवसृजामि ते#} 
 <ls>MBH. 3, 3052.</ls> 
 <div n="1">— 3) {%entsenden, entlassen%}: {#सु\पेश^स\ं माव^ सृज\न्त्यस्त^म्#} 
 <ls>ṚV. 5, 30, 13.</ls> {#व\ह\तुम्#} 
@@ -289,7 +289,7 @@ u.s.w.): {#रज्जू^म्#}
 <ls>BHĀG. P. 3, 20, 14.</ls> 
 <div n="1">— 6) {%hängen —, befestigen an%}: {#गुरौ यो मे मृतसर्पमवासृजत्#} 
 <ls>MBH. 1, 1973.</ls> wohl fehlerhaft für {#अवासजत्#}; vgl. {#सर्ज्#} 
-<ls>10</ls>), {#व्यव-, समव#}- und {#समा-सर्ज्#} . 
+<ls n="MBH. 1,">10</ls>), {#व्यव-, समव#}- und {#समा-सर्ज्#} . 
 <div n="v">— Vgl. {#अवसर्ग#} fg. und {#रुद्रावसृष्ट#} . — caus. partic. {#अवसर्जिता#} nach dem Comm. = {#विसृष्टवती#} (sc. {#माम्#}) {%verlassen —, im Stich gelassen habend%} 
 <ls>R. 7, 56, 23.</ls>
 
@@ -351,7 +351,7 @@ u.s.w.): {#रज्जू^म्#}
 <ls>MBH. 3, 1586.</ls> 
 <div n="1">— 2) {%loslassen, seinem Schicksal überlassen%}: ({#नदी#}) {#स्थलस्थं तमृषिं कृत्वा विपाशं समवासृजत्#} 
 <ls>MBH. 1, 6749.</ls> {#(तम्) बद्ध्वोडुपे परिक्षिप्य गङ्गायां समवासृजन्#} 
-<ls>4205.</ls> 
+<ls n="MBH. 1,">4205.</ls> 
 <div n="1">— 3) {%weglassen%} 
 <ls>AIT. BR. 4, 13.</ls> 
 <div n="1">— 4) {%aufbürden%}: {#गुरुं भारं सौभद्रे समवासृजत्#} (wohl {#°सजत्#} zu lesen; vgl. {#सर्ज्#} 10), {#अव-, व्यव#}- und {#समा-सर्ज्#}) 
@@ -424,16 +424,16 @@ u.s.w. <ls>MBH. 5, 7045.</ls> <ls n="MBH.">7, 8853.</ls> <ls n="MBH.">14, 2208</
 <ls>R. 2, 8, 1.</ls> 
 <ls>RAGH. 4, 54.</ls> {#वासांस्याभरणानि च#} 
 <ls>MBH. 3, 8577.</ls> {#धनुः#} 
-<ls>5, 7237. 7, 9238.</ls> {#शस्त्रं दूरतः#} 
+<ls n="MBH.">5, 7237.</ls> <ls n="MBH.">7, 9238.</ls> {#शस्त्रं दूरतः#} 
 <ls>R. GORR. 1, 57, 24.</ls> <ls>MṚCCH. 18, 21.</ls> <ls>RAGH. 3, 60.</ls> {#मूलमुत्सृज्य कस्मात्त्वं शाखास्विच्छसि लम्बितुम्#} 
 <ls>R. GORR. 1, 60, 3. 2, 74, 10.</ls> <ls>VIKR. 70, 8. 94.</ls> {#राक्षसं व्यसुम्#} 
 <ls>MBH. 3, 452.</ls> {#उत्सृज्य फलपत्त्राणि पादपः#} 
-<ls>13, 268.</ls> {%abnehmen%}: {#वैदेह्या भारम्#} 
+<ls n="MBH.">13, 268.</ls> {%abnehmen%}: {#वैदेह्या भारम्#} 
 <ls>R. GORR. 2, 116, 8.</ls> {%absetzen —, niederlegen —, hinwerfen —, aussetzen in, auf%} (loc.): {#अक्षेत्रे बीजम्#} 
 <ls>M. 10, 71.</ls> {#जले कुमारम्#} 
 <ls>MBH. 1, 2774. fg.</ls> {#आमिषं भूमौ#} 
-<ls>6154.</ls> {#त्वमेवाकाशगा देवि#} ({#सरस्वति#}) {#मेघेषूत्सृजसे पयः#} 
-<ls>9, 2388.</ls> {#गहने ऽग्निम्#} 
+<ls n="MBH. 1,">6154.</ls> {#त्वमेवाकाशगा देवि#} ({#सरस्वति#}) {#मेघेषूत्सृजसे पयः#} 
+<ls n="MBH.">9, 2388.</ls> {#गहने ऽग्निम्#} 
 <ls>Spr. (II) 2537.</ls> {#श्मशाने मृतम्#} 
 <ls>Verz. d. Oxf. H. 53,b,30.</ls> <ls>Spr. (II) 4938.</ls> {#भूमौ भूषणम्#} 
 <ls>R. 4, 5, 19.</ls> 
@@ -445,7 +445,7 @@ u.s.w. <ls>MBH. 5, 7045.</ls> <ls n="MBH.">7, 8853.</ls> <ls n="MBH.">14, 2208</
 u.s.w. <ls>AK. 3, 4, 13, 49.</ls> 
 <div n="1">— 4) {%ausstrecken, ausbreiten%}: {#अङ्गुष्टौ#} 
 <ls>KĀTY. ŚR. 7, 3, 10.</ls> {#एकैकामङ्गुलिम्#} 
-<ls>WEBER,</ls> <ls>PRATIJÑĀS. 92.</ls> {#उत्सृष्टदीर्घोर्मिभुजैः#} 
+<ls>WEBER</ls>, <ls>PRATIJÑĀS. 92.</ls> {#उत्सृष्टदीर्घोर्मिभुजैः#} 
 <ls>BHĀG. P. 3, 13, 29.</ls> {#वेलानिलस्पर्शोत्सृष्टध्वजपटाश्चमूः#} 
 <ls>RĀJA-TAR. 4, 535.</ls> 
 <div n="1">— 5) {%herauslassen%} (z. B. aus dem Stalle), {%freilassen, freigeben, öffnen%}: {#ग^वां गो\त्रम्#} 
@@ -463,7 +463,7 @@ u.s.w. <ls>AK. 3, 4, 13, 49.</ls>
 <ls>SUŚR. 2, 412, 12.</ls> 
 <div n="1">— 6) {%Jmd entsenden%}: {#कुमारीपुरं ताम्#} 
 <ls>MBH. 4, 309.</ls> {%Jmd entlassen, verabschieden%} 
-<ls>13, 1874.</ls> <ls>Spr. (II) 4888.</ls> {#यजमानमेव तद्बन्धुताया नोत्सृजति#} {%nicht entlassen aus%} so v. a. {%festhalten in%} 
+<ls n="MBH.">13, 1874.</ls> <ls>Spr. (II) 4888.</ls> {#यजमानमेव तद्बन्धुताया नोत्सृजति#} {%nicht entlassen aus%} so v. a. {%festhalten in%} 
 <ls>AIT. BR. 2, 4.</ls> pass. {%entlassen —, entbunden werden von%} 
 <ls>ŚĀṄKH. ŚR. 1, 15, 18. 2, 15, 8. 3, 14, 14.</ls> 
 <div n="1">— 7) {%Jmd verlassen, im Stich lassen%} 
@@ -498,7 +498,7 @@ u.s.w. <ls>AK. 3, 4, 13, 49.</ls>
 <ls>M. 8, 144.</ls> {#शास्त्रविधिम्#} 
 <ls>BHAG. 16, 23.</ls> {#सत्यम्#} 
 <ls>MBH. 1, 4163.</ls> {#धर्मम्#} 
-<ls>3, 11957.</ls> <ls>R. 2, 81, 7. 106, 19.</ls> <ls>Spr. (II) 3707.</ls> {#त्रासम्#} 
+<ls n="MBH.">3, 11957.</ls> <ls>R. 2, 81, 7. 106, 19.</ls> <ls>Spr. (II) 3707.</ls> {#त्रासम्#} 
 <ls>HARIV. 11034</ls> (<ls>S. 790).</ls> {#यशो दूरतः#} 
 <ls>11035 (S. 791).</ls> {#शोकम्#} 
 <ls>R. 2, 34, 24.</ls> 
@@ -507,7 +507,7 @@ u.s.w. <ls>AK. 3, 4, 13, 49.</ls>
 <ls>KĀM. NĪTIS. 5, 29.</ls> <ls>RAGH. 5, 51. 6, 46. 7, 7</ls> (= <ls>KUMĀRAS. 7, 58</ls>). <ls>KUMĀRAS. 2, 36. 5, 86.</ls> <ls>VIKR. 37, 8.</ls> <ls>Spr. (II) 2033.</ls> <ls n="Spr. (II)">4329.</ls> <ls>VARĀH. BṚH. S. 3, 13.</ls> <ls>MĀRK. P. 24, 3.</ls> <ls>PRAB. 57, 14. 85, 2.</ls> <ls>BHĀG. P. 1, 18, 3.</ls> {#अङ्गीकृतम्#} 
 <ls>Spr. (II) 1737.</ls> {#धर्मिष्ठं वाक्यम्#} so v. a. {%nicht beachtend%} 
 <ls>R. 5, 86, 2.</ls> {%weglassen, fortlassen%}: {#उत्सृष्टानुबन्ध#} 
-<ls>H. 242, Schol.</ls> {%als unbrauchbar bei Seite liegen lassen, für unnütz erachten%} 
+<ls>H. 242</ls>, Schol. {%als unbrauchbar bei Seite liegen lassen, für unnütz erachten%} 
 <ls>VARĀH. BṚH. S. 106, 2.</ls> so v. a. {%hinter sich lassen, übertreffen%} 
 <ls>MṚCCH. 10, 10.</ls> {#उत्सृष्ट = त्यक्त#} 
 <ls>AK. 3, 2, 56.</ls> 
@@ -573,14 +573,14 @@ u.s.w. <ls>AK. 3, 4, 13, 49.</ls>
 <div n="1">— 3) {%Etwas abwerfen, fortwerfen, ablegen, fahren lassen%} 
 <ls>YĀJÑ. 1, 154.</ls> 
 <ls>MBH. 3, 8844.</ls> {#वसनानि#} 
-<ls>8578.</ls> <ls>HARIV. 7039.</ls> {#धनुः#} 
+<ls n="MBH. 3,">8578.</ls> <ls>HARIV. 7039.</ls> {#धनुः#} 
 <ls>MBH. 5, 7166.</ls> <ls n="MBH.">7, 9237.</ls> <ls n="MBH.">14, 2278.</ls> 
 <ls>KATHĀS. 25, 253.</ls> {#पापं जीर्णां त्वचमिव#} 
 <ls>MBH. 13, 3171.</ls> {#मांसपिण्डम्#} 
 <ls>PAÑCAT. 226, 23.</ls> {%niederlegen —, hinwerfen in%} (loc.) 
 <ls>M. 4, 56.</ls> {#आश्रमे वा वने वापि ग्रामे वा यदि वा पुरे । अग्निम्#} 
 <ls>MBH. 13, 1687.</ls> {#अग्नीनप्सु#} 
-<ls>17, 22.</ls> {#अन्नाद्यं भुक्तवतामग्रतः#} 
+<ls n="MBH.">17, 22.</ls> {#अन्नाद्यं भुक्तवतामग्रतः#} 
 <ls>M. 3, 244.</ls> 
 <div n="1">— 4) {%freilassen,%}
 [Page7-0798]
@@ -594,8 +594,8 @@ u.s.w. <ls>AK. 3, 4, 13, 49.</ls>
 <ls>MBH. 3, 8698.</ls> 
 <ls>PRAB. 80, 15.</ls> {#प्राणान्#} 
 <ls>MBH. 3, 8750.</ls> {#प्रभां समुत्सृजेदर्को धूमकेतुस्तथोष्मताम्#} 
-<ls>1, 4162.</ls> {#कामक्रोधौ#} 
-<ls>2, 2265.</ls> {#ईर्षादोषं पीतशेषमिवोदकम्#} 
+<ls n="MBH.">1, 4162.</ls> {#कामक्रोधौ#} 
+<ls n="MBH.">2, 2265.</ls> {#ईर्षादोषं पीतशेषमिवोदकम्#} 
 <ls>R. GORR. 2, 27, 9.</ls> {#सुखम्#} 
 <ls>35, 40.</ls> {#शोकम्#} 
 <ls>KATHĀS. 6, 22.</ls> 
@@ -777,12 +777,12 @@ u.s.w. <ls>AK. 3, 4, 13, 49.</ls>
 <div n="1"> 1) {%abschnellen, schiessen, schleudern%} 
 <ls>VS. 16, 23.</ls> Pfeile 
 <ls>AIT. BR. 1, 24.</ls> 
-<ls>AV. 2, 3, 6. 6, 90, 3.</ls> {#मा वि स्रा^ष्टम्#} 
-<ls>11, 21.</ls> {#मा वि स्राक्षीः (स्रक्षीः#} Druckfehler) 
+<ls>AV. 2, 3, 6.</ls> <ls n="AV.">6, 90, 3.</ls> {#मा वि स्रा^ष्टम्#} 
+<ls n="AV. 2,">11, 21.</ls> {#मा वि स्राक्षीः (स्रक्षीः#} Druckfehler) 
 <ls>ŚAT. BR. 1, 7, 3, 4.</ls> 
 <ls>KĀṬH. 25, 1.</ls> 
 <ls>ṢAḌV. 3, 2</ls> (med.). <ls>MBH. 3, 15655.</ls> <ls n="MBH.">4, 1856.</ls> {#पाण्डवं प्रति#} 
-<ls>7, 3731.</ls> {#अश्मवर्षम्#} 
+<ls n="MBH.">7, 3731.</ls> {#अश्मवर्षम्#} 
 <ls>HARIV. 12767.</ls> {#शस्त्रं मुनौ#} 
 <ls>R. 2, 64, 23.</ls> {#अम्भसि #}
 [Page7-0800]
@@ -1030,13 +1030,13 @@ u.s.w. <ls>ĀŚV. GṚHY. 3, 12, 18.</ls> <ls>MBH. 3, 12249.</ls> <ls>R. 3, 34, 
 <ls>R. 4, 38, 2.</ls>
 
 <div n="p">— {#सम्#}, ved. {#°सृजतात्#} angeblich = {#°सृजत#} 
-<ls>P. 7, 1, 44, Schol.</ls> 
+<ls>P. 7, 1, 44</ls>, Schol. 
 <div n="1"> 1) {%treffen mit%}: {#सं वज्रे^णासृजद्वृ\त्रमिन्द्र^ः#} 
 <ls>ṚV. 1, 33, 13.</ls> 
 <div n="1">— 2) {%zusammenbringen, vereinigen%}: das Kalb mit der Mutter 
 <ls>ṚV. 1, 110, 8.</ls> <ls n="ṚV.">5, 30, 10.</ls> <ls n="ṚV.">9, 104, 2.</ls> <ls n="ṚV.">10, 27, 10.</ls> {#जा\यां पत्या^#} 
 <ls n="ṚV. 10,">85, 22.</ls> <ls n="ṚV. 10, 85,">27.</ls> <ls>AIT. BR. 5, 1.</ls> {#यः पु\ष्टानि^ संसृ\जति^ द्व\यानि^#} {%in eine Hand bringt%} 
-<ls>AV. 4, 24, 7. 12, 3, 39.</ls> 
+<ls>AV. 4, 24, 7.</ls> <ls n="AV.">12, 3, 39.</ls> 
 <ls>VS. 11, 53. fg.</ls> {#हृद^यानि#} 
 <ls>TBR. 1, 2, 1, 17.</ls> {#संसृजावहै#} {%wir wollen uns verbinden%} 
 <ls>ŚAT. BR. 4, 1, 4, 4.</ls> 
@@ -1052,7 +1052,7 @@ u.s.w. <ls>ĀŚV. GṚHY. 3, 12, 18.</ls> <ls>MBH. 3, 12249.</ls> <ls>R. 3, 34, 
 <ls n="ṚV.">2, 15, 4.</ls> {#रा\या#} 
 <ls n="ṚV.">10, 42, 9.</ls> {#प्र\जया^#} 
 <ls n="ṚV. 10,">80, 3.</ls> {#बले^न#} 
-<ls>AV. 4, 25, 4. 3, 14, 1. 12, 1, 25. 2, 32.</ls> {#पाप्मना#} 
+<ls>AV. 4, 25, 4.</ls> <ls n="AV.">3, 14, 1.</ls> <ls n="AV.">12, 1, 25.</ls> <ls n="AV. 12,">2, 32.</ls> {#पाप्मना#} 
 <ls>AIT. BR. 1, 16.</ls> 
 <ls>ŚAT. BR. 4, 3, 3, 15. 14, 7, 1, 8.</ls> {#भि\यामित्रा^न्#} 
 <ls>AV. 11, 9, 12.</ls> 
@@ -1124,8 +1124,8 @@ u.s.w. <ls>ĀŚV. GṚHY. 3, 12, 18.</ls> <ls>MBH. 3, 12249.</ls> <ls>R. 3, 34, 
 <div n="2">— c) {%vollzogen, verübt%}: {#°मैथुना#} 
 <ls>YĀJÑ. 1, 135.</ls> — {#संसृष्टान्#} 
 <ls>MBH. 12, 7107</ls> wohl fehlerhaft für {#संस्रष्टा#} (vgl. 
-<ls>9019. 10520</ls>). {#सुसंसृष्टनिवेशन#} 
-<ls>13, 5876. 6460</ls> fehlerhaft für {#सुसंमृष्ट°#} (so ed. Bomb. an der ersten Stelle). Vgl. {#संसर्ग, संसर्गिन्#} fg., {#संसृष्टजित्#} fgg. und {#संस्रष्टर्#} . — caus. {%an sich heranziehen, für sich gewinnen%}: {#प्राधान्येन हि सर्वत्र सर्वाः संसर्जयेत्प्रजाः (राजा)#} 
+<ls n="MBH. 12,">9019.</ls> <ls n="MBH. 12,">10520</ls>). {#सुसंसृष्टनिवेशन#} 
+<ls n="MBH.">13, 5876.</ls> <ls n="MBH. 13,">6460</ls> fehlerhaft für {#सुसंमृष्ट°#} (so ed. Bomb. an der ersten Stelle). Vgl. {#संसर्ग, संसर्गिन्#} fg., {#संसृष्टजित्#} fgg. und {#संस्रष्टर्#} . — caus. {%an sich heranziehen, für sich gewinnen%}: {#प्राधान्येन हि सर्वत्र सर्वाः संसर्जयेत्प्रजाः (राजा)#} 
 <ls>KĀM. NĪTIS. 8, 53.</ls> — desid. {%an der Schöpfung Theil zu nehmen wünschen%} 
 <ls>BHĀG. P. 4, 24, 72.</ls>
 

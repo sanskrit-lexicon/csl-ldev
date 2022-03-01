@@ -4,7 +4,7 @@
 <div n="1"> 1) {%brennbar, flammend, leuchtend%}: {#पीतुदारु#} 
 <ls>ŚAT. BR. 13, 4, 4, 7.</ls> {#अर्कज्वलनमूर्धज#} 
 <ls>MBH. 3, 12239.</ls> {#अशीविषाग्निज्वलनप्रकाश#} 
-<ls>769.</ls> 
+<ls n="MBH. 3,">769.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Feuer%} 
 <ls>AK. 1, 1, 1, 49.</ls> 

@@ -2,7 +2,7 @@
 {#नाथ꣡#}¦ (von {#नाथ्#}) 
 <div n="1"> 1) <lex>n.</lex> {%Zuflucht, Hülfe%} 
 <ls>AV. 4, 20, 9.</ls> {#विश्वे^ दे\वा मम^ ना\थं भ^वन्तु#} 
-<ls>9, 2, 7. 18, 1, 13.</ls> {#प्र\जाप^ति\मुपा^धावन्ना\थमि\च्छमा^नः#} 
+<ls n="AV.">9, 2, 7.</ls> <ls n="AV.">18, 1, 13.</ls> {#प्र\जाप^ति\मुपा^धावन्ना\थमि\च्छमा^नः#} 
 <ls>TBR. 1, 6, 4, 1.</ls> 
 <div n="1">— 2) <lex>m.</lex> 
 <div n="2"> a) {%Schutzherr, Beschützer, Gebieter, Herrscher%} 
@@ -31,7 +31,7 @@
 <ls>AMAR. 53.</ls> 
 <ls>VID. 139.</ls> Am Ende eines <lex>adj.</lex> comp.: {#पर्जन्यनाथाः पशवः#} {%das Vieh hat%} <is>Parjanya</is> ({%den Regen) zum Schutzherrn, hängt ganz von ihm ab%} 
 <ls>MBH. 5, 1131.</ls> {#मृतनाथामिव स्त्रियम्#} 
-<ls>16, 136.</ls> {#गृहं नारीनाथम्#} {%im Besitz%} oder {%bewohnt von%} 
+<ls n="MBH.">16, 136.</ls> {#गृहं नारीनाथम्#} {%im Besitz%} oder {%bewohnt von%} 
 <ls>MṚCCH. 59, 3.</ls> = {#सनाथ#} {%versehen mit%}: {#मध्यं स्त्रियास्त्रिवलिनाथम्#} 
 <ls>VARĀH. BṚH. S. 68, 5.</ls> 
 <div n="2">— b) N. pr. eines Autors 

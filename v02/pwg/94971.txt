@@ -11,7 +11,7 @@
 <ls>TRIK. 1, 1, 49. 2, 9, 19.</ls> 
 <ls>H. 1256. 47.</ls> 
 <ls>an. 2, 571.</ls> 
-<ls>MED. ṣ. 25.</ls> <ls>HALĀY. 2, 108.</ls> <ls>M. 8, 242. 11, 136.</ls> <ls>MBH. 13, 3694.</ls> <ls>R. 3, 22, 18. 5, 11, 3.</ls> <ls>RAGH. 2, 35.</ls> <ls>KUMĀRAS. 5, 80.</ls> <ls>VARĀH.</ls> <ls>BṚH. S. 24, 35. 48, 44. 76.</ls> <ls>RĀJA-TAR. 4, 347.</ls> <ls>BHĀG.</ls> <ls>P. 3, 14, 23. 5, 9, 11.</ls> <ls>HIT. 58, 16.</ls> {#ज्येष्ठवृषाः#} 
+<ls>MED. ṣ. 25.</ls> <ls>HALĀY. 2, 108.</ls> <ls>M. 8, 242. 11, 136.</ls> <ls>MBH. 13, 3694.</ls> <ls>R. 3, 22, 18. 5, 11, 3.</ls> <ls>RAGH. 2, 35.</ls> <ls>KUMĀRAS. 5, 80.</ls> <ls>VARĀH.</ls> <ls>BṚH. S. 24, 35. 48, 44. 76.</ls> <ls>RĀJA-TAR. 4, 347.</ls> <ls>BHĀG. P. 3, 14, 23.</ls> <ls n="P.">5, 9, 11.</ls> <ls>HIT. 58, 16.</ls> {#ज्येष्ठवृषाः#} 
 <ls>M. 9, 123.</ls> {#व्रजवृषाः#} 
 <ls>BHĀG. P. 10, 35, 5.</ls> {#त्रिणयनवृषोत्खात#} 
 <ls>MEGH. 53.</ls> <ls>ad 112.</ls> {#°हंससुपर्णस्थाः#} 
@@ -21,7 +21,7 @@
 <ls>9.</ls> {#अज°#} {%Bock%} 
 <ls>BHĀG. P. 9, 19, 6.</ls> 
 <div n="2">— c) {%der Stier im Thierkreise%} 
-<ls>AK.1,1,2,29.</ls> <ls>H. 116,</ls> <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>WEBER, Nakṣ.2,358, N. 1.</ls> <ls>VARĀH. BṚH. S.5,36. 40,1. 12. 42,3.</ls> <ls>BṚH.1,11. 14.3,3.5,5.</ls> <ls>LAGHUJ.1,12. 20</ls> in <ls>Ind. St.2,280. 282.</ls> <ls>Verz. d. Oxf. H. 40,a, N. 1.</ls> {#°राशि#} 
+<ls>AK.1,1,2,29.</ls> <ls>H. 116</ls>, <ls>Schol.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>WEBER, Nakṣ.2,358, N. 1.</ls> <ls>VARĀH. BṚH. S.5,36. 40,1. 12. 42,3.</ls> <ls>BṚH.1,11. 14.3,3.5,5.</ls> <ls>LAGHUJ.1,12. 20</ls> in <ls>Ind. St.2,280. 282.</ls> <ls>Verz. d. Oxf. H. 40,a, N. 1.</ls> {#°राशि#} 
 <ls>339,b,30.</ls> <ls>WEBER, KṚṢṆAJ. 224.</ls> {#°भवन#} 
 <ls>VARĀH. BṚH. 27 (25), 6.</ls> 
 <div n="2">— d) {%ein geiler Mensch (— Bock%}), = {#शुक्रल#} 
@@ -49,7 +49,7 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#कुरुचेदिवृषौ#} 
 <ls>MBH. 2, 1071.</ls> {#राज°#} 
-<ls>13, 3694.</ls> {#यदु°#} 
+<ls n="MBH.">13, 3694.</ls> {#यदु°#} 
 <ls>HARIV. 8088.</ls> {#दैत्य°#} 
 <ls n="HARIV.">12948.</ls> {#रक्षो°#} 
 <ls n="HARIV.">13131.</ls> {#दानव°#} 
@@ -62,19 +62,19 @@
 <ls>8, 259, N. 1.</ls> {#हरिन्मणि°#} 
 <ls>BHĀG. P. 3, 28, 25.</ls> {#कलिश्चैव वृषो भूत्वा गवाम्#} so v. a. {%sich in den Hauptwürfel verwandelnd%} 
 <ls>MBH. 3, 2259.</ls> {#दीव्याव वृषेण#} 
-<ls>2260.</ls> 
+<ls n="MBH. 3,">2260.</ls> 
 <div n="2">— g) = {#वृष्य#} {%Aphrodisiacum%} 
 <ls>Verz. d. Oxf. H. 303,b,3.</ls> 
 <div n="2">— h) Bez. verschiedener göttlicher Wesen: <is>Viṣṇu's</is> oder <is>Kṛṣṇa's</is> 
 <ls>TRIK. 1, 1, 31.</ls> 
 <ls>H. ś. 70.</ls> <ls>VOP. 5, 27.</ls> <ls>MBH. 12, 1507.</ls> <ls>BHĀG. P. 3, 16, 23.</ls> <is>Śiva's</is> 
 <ls>MBH. 2, 1642.</ls> <ls n="MBH.">12, 10372</ls> (zwei Mal neben {#गोवृष!)#} . 
-<ls>14, 199.</ls> <is>Indra's</is> 
+<ls n="MBH.">14, 199.</ls> <is>Indra's</is> 
 <ls>MĀRK. P. 79, 6</ls> (pl.). der Sonne 107, 4. des Liebesgottes 
 <ls>ANEKĀRTHAK.</ls> im <ls>ŚKDR.</ls> des Regenten des <is>Karaṇa</is> <is>Catuṣpada</is> 
 <ls>VARĀH. BṚH. S. 99, 5.</ls> 
 <div n="2">— i) N. pr. 
-<ls>P. 4, 1, 155, <is>Vārtt</is>.</ls> 
+<ls>P. 4, 1, 155</ls>, <is>Vārtt</is>. 
 <div n="3"> α) des <is>Indra</is> im 
 11ten <is>Manvantara</is> 
 <ls>VP. 268.</ls> 

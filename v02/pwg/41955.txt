@@ -8,8 +8,8 @@
 <ls n="ṚV.">10, 30, 12.</ls> {#ऋ\तस्य^#} 
 <ls>VS. 21, 5.</ls> {#क्षेत्र^स्य#} 
 <ls>AV. 2, 12, 1.</ls> {#स\ंव\त्स\रस्य^#} 
-<ls>3, 10, 2.</ls> {#मान^स्य#} 
-<ls>12, 5. 9, 3, 5. 21.</ls> {#अन्न°#} 
+<ls n="AV.">3, 10, 2.</ls> {#मान^स्य#} 
+<ls n="AV. 2,">12, 5.</ls> <ls n="AV.">9, 3, 5.</ls> <ls n="AV. 9, 3,">21.</ls> {#अन्न°#} 
 <ls>ŚĀṄKH. ŚR. 10, 19, 3.</ls> 
 <div n="1">— 2) {%Gattin%} 
 <ls>P. 4, 1, 33.</ls> 
@@ -30,8 +30,8 @@
 Auch von Thieren: {#वृषे^व\ पत्नी^र\भ्ये^ति\ रोरु^वत्#} 
 <ls>ṚV. 1, 140, 6.</ls> <ls n="ṚV.">4, 24, 8.</ls> Weil 
 <ls>P. 4, 1, 33</ls> {#पत्नी#} {%Gattin%} als {%die an den Opfern des Mannes Theilnehmende%} erklärt wird, machen Verbindungen wie {#वृषलस्य पत्नी#} den spätern Grammatikern Kopfbrechen und verführen sie zu allerhand Spitzfindigkeiten, so dass sie sogar darauf verfallen sind, {#पत्नी#} in dieser Verbindung für eine Ableitung eines denomin. von {#पत्नी#} anzusehen und demzufolge die Formen {#पत्नियौ#} und {#पत्नियस्#} aufzustellen; vgl. 
-<ls>SIDDH. K.</ls> zu <ls>P.4,1,32.</ls> — <lex>adj.</lex> compp. auf {#पति#} bleiben im fem. unverändert oder substituiren gleichfalls {#पत्नी#} 
-<ls>P. 4, 1, 34, <is>Vārtt</is>.</ls> <lex>adj.</lex> compp. auf {#पत्नी#} erhalten das suff. {#क#}, z. B. {#सपत्नीक#} {%mit der Gattin verbunden, in der Gesellschaft der Gattin seiend%} 
+<ls>SIDDH. K.</ls> zu <ls>P. 4, 1, 32.</ls> — <lex>adj.</lex> compp. auf {#पति#} bleiben im fem. unverändert oder substituiren gleichfalls {#पत्नी#} 
+<ls>P. 4, 1, 34</ls>, <is>Vārtt</is>. <lex>adj.</lex> compp. auf {#पत्नी#} erhalten das suff. {#क#}, z. B. {#सपत्नीक#} {%mit der Gattin verbunden, in der Gesellschaft der Gattin seiend%} 
 <ls>MBH. 13, 659.</ls> 
 <ls>RAGH. 1, 81.</ls> 
 <ls>RĀJA-TAR. 2, 28.</ls> 

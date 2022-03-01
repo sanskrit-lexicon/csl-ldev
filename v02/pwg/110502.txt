@@ -1,6 +1,6 @@
 <L>110502<pc>7-1072<k1>सुनीथ<k2>सुनीथ꣡
 {#सुनीथ꣡#}¦ 
-<ls>P. 6, 2, 144, Schol.</ls> 
+<ls>P. 6, 2, 144</ls>, Schol. 
 <div n="1"> 1) <lex>adj.</lex> 
 <div n="2"> a) {%gute Leitung gewährend%}: <is>Āditya</is> 
 <ls>ṚV. 3, 8, 8.</ls> <ls n="ṚV.">5, 67, 4.</ls> {#द\दा\शुषे^#} 
@@ -16,7 +16,7 @@
 <div n="2">— b) N. pr. verschiedener Personen 
 <ls>ṚV. 5, 79, 2.</ls> 
 <ls>MBH. 1, 2188</ls> (schützt vor Schlangen). 
-<ls>2, 297.</ls> <ls>HARIV. 1750</ls> (verdorben). <is>Kāpaṭava</is> 
+<ls n="MBH.">2, 297.</ls> <ls>HARIV. 1750</ls> (verdorben). <is>Kāpaṭava</is> 
 <ls>Ind. St. 4, 372.</ls> ein Sohn <is>Kṛṣṇa's</is> 
 <ls>HARIV. 9186.</ls> = <is>Śiśupāla</is> 
 <ls n="HARIV.">5888. fg.</ls> <ls>MBH. 1, 7019.</ls> <ls n="MBH. 1,">7051.</ls> <ls n="MBH.">2, 1410.</ls> ein Sohn <is>Saṃnati's</is> (<is>Saṃtati's</is>) 

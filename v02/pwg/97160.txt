@@ -4,14 +4,14 @@
 <ls>VOP. 26, 12.</ls> {%möglich, thunlich, ausführbar%} 
 <ls>KAPILA 118</ls> (<ls>SĀṂKHYAK. 9).</ls> {#शक्ये सति#} {%wenn es sich thun lässt%} 
 <ls>MBH. 6, 123.</ls> {#यच्छक्यं तत्करिष्ये#} 
-<ls>5, 7082.</ls> {#उपायेन हि यच्छक्यं न तच्छक्यं पराक्रमैः#} 
+<ls n="MBH.">5, 7082.</ls> {#उपायेन हि यच्छक्यं न तच्छक्यं पराक्रमैः#} 
 <ls>Spr. (II) 1306.</ls> <ls n="Spr.">(I) 2345.</ls> <ls>HIT. 40, 12.</ls> {#तपसा हि सुतप्तेन शक्यो मोक्षः#} 
 <ls>MBH. 13, 2852.</ls> {#वस्तु#} 
 <ls>KĀM. NĪTIS. 15, 25.</ls> {#अनुनयो महर्षेः#} 
 <ls>RAGH. 2, 54.</ls> {#°शङ्क#} <lex>adj.</lex> 
 <ls>SARVADARŚANAS. 65, 22. 120, 15.</ls> {%bezwingbar%}, von Personen 
 <ls>MBH. 3, 8773.</ls> <ls n="MBH. 3,">12231.</ls> {#न वाक्यमात्रेण वयं हि शक्याः#} 
-<ls>15650.</ls> <ls>Spr. 2151.</ls> <ls>RAGH. 17, 56.</ls> so v. a. {%ausdrücklich gemeint, im Worte selbst liegend%}: {#शक्यो ऽर्थो ऽभिधाया ज्ञेयो लक्ष्यो लक्षणया मतः । व्यङ्ग्यो व्यञ्जनया ज्ञेयस्तिस्रः शब्दस्य वृत्तयः ॥#} 
+<ls n="MBH. 3,">15650.</ls> <ls>Spr. 2151.</ls> <ls>RAGH. 17, 56.</ls> so v. a. {%ausdrücklich gemeint, im Worte selbst liegend%}: {#शक्यो ऽर्थो ऽभिधाया ज्ञेयो लक्ष्यो लक्षणया मतः । व्यङ्ग्यो व्यञ्जनया ज्ञेयस्तिस्रः शब्दस्य वृत्तयः ॥#} 
 <ls>ALAṂKĀRAŚĀSTRA</ls> im <ls>ŚKDR.</ls> <ls>BHĀṢĀP. 81. 132.</ls> {#अ°#} {%unmöglich, unthunlich%}: {#अशक्ये#} 
 <ls>KĀTY. ŚR. 5, 10, 20. 7, 5, 4.</ls> 
 <ls>MBH. 5, 7480.</ls> 
@@ -32,7 +32,7 @@
 <ls>R. 6, 17, 8.</ls> Ueberaus häufig steht bei {#शक्य#} ein infin. (vgl. das pass. von {#शक्#}), wobei folgende Constructionen zu bemerken sind: 
 <div n="1"> 1) {#शक्यम्#} wird unpersönlich gebraucht: {#गन्तव्ये न चिरं स्थातुमिह शक्यम्#} 
 <ls>MBH. 1, 6027.</ls> {#न च शक्यं पुनर्गन्तुं मया वारणसाह्वयम्#} 
-<ls>5, 6002. 6033. 13, 4806.</ls> <ls>R. 2, 26, 25. 34, 48. 3, 53, 23.</ls> {#स्थातुं नियोक्तुर्यदशक्यमग्रे#} 
+<ls n="MBH.">5, 6002.</ls> <ls n="MBH. 5,">6033.</ls> <ls n="MBH.">13, 4806.</ls> <ls>R. 2, 26, 25. 34, 48. 3, 53, 23.</ls> {#स्थातुं नियोक्तुर्यदशक्यमग्रे#} 
 <ls>RAGH. 2, 56.</ls> {#न शक्यं रक्षितुं प्राणान्#} 
 <ls>R. 3, 41, 21.</ls> {#अन्वेष्टुं पदवीं चास्य न शक्यं गरुडादृते#} 
 <ls>4, 10, 7.</ls> 

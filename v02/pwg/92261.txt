@@ -17,7 +17,7 @@ u.s.w. <ls>AK. 3, 2, 10.</ls> <ls>H. 1430. an. 3, 683.</ls> <ls>MED. 1. 131.</ls
 <ls>R. GORR. 2, 57, 5.</ls> {#वल्ली#} 
 <ls>Spr. (II) 494.</ls> {#छाया#} 
 <ls>MBH. 1, 5896.</ls> {#सभा#} 
-<ls>2, 83.</ls> {#ओकस्#} 
+<ls n="MBH.">2, 83.</ls> {#ओकस्#} 
 <ls>BHĀG. P. 8, 24, 18.</ls> {#पताका#} 
 <ls>R. 2, 64, 9.</ls> {#प्रास#} 
 <ls>MBH. 1, 1169.</ls> {#रथ्याः#} {%gross, breit%} 
@@ -128,7 +128,7 @@ u.s.w. <ls>AK. 3, 2, 10.</ls> <ls>H. 1430. an. 3, 683.</ls> <ls>MED. 1. 131.</ls
 <div n="1">— 2) <lex>m.</lex> N. pr. 
 <div n="2"> a) eines Fürsten der <is>Sauvīra</is> 
 <ls>MBH. 1, 5536</ls> (nach der Lesart der ed. Bomb., {#वितुल#} ed. Calc.). eines Schülers des <is>Devaśarman</is> 
-<ls>13, 2248. 2262. fgg. 7671.</ls> eines Sohnes des <is>Vasudeva</is> 
+<ls n="MBH.">13, 2248.</ls> <ls n="MBH. 13,">2262. fgg.</ls> <ls n="MBH. 13,">7671.</ls> eines Sohnes des <is>Vasudeva</is> 
 <ls>BHĀG. P. 9, 24, 45.</ls> 
 <div n="2">— b) eines Berges 
 <ls>Verz. d. Oxf. H. 39,b,10.</ls> <ls>HIOUEN-THSANG II,23.</ls> im Westen (Osten <ls>VP.</ls>) des <is>Meru</is> 

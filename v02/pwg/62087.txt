@@ -8,11 +8,11 @@
 <ls>M. 2, 87. 6, 8. 11, 35.</ls> 
 <ls>BHAG. 12, 13.</ls> 
 <ls>MBH. 1, 3840. fg.</ls> <ls n="MBH. 1,">7865.</ls> <ls n="MBH.">3, 10420.</ls> <ls n="MBH.">5, 2449.</ls> <ls n="MBH.">13, 1564.</ls> {#ब्राह्मणे दारुणं नास्ति मैत्रो ब्राह्मण उच्यते#} 
-<ls>1877. 6657. 14, 1253.</ls> <ls>KĀM. NĪTIS. 4, 29. 15, 28.</ls> <ls>BHĀG. P. 3, 27, 8.</ls> <ls>MĀRK. P. 20, 20.</ls> {#मैत्रेणेक्षस्व चक्षुषा#} 
+<ls n="MBH. 13,">1877.</ls> <ls n="MBH. 13,">6657.</ls> <ls n="MBH.">14, 1253.</ls> <ls>KĀM. NĪTIS. 4, 29. 15, 28.</ls> <ls>BHĀG. P. 3, 27, 8.</ls> <ls>MĀRK. P. 20, 20.</ls> {#मैत्रेणेक्षस्व चक्षुषा#} 
 <ls>R. 1, 52, 17 (53, 17 GORR.). 2, 92, 7.</ls> {#कथा#} 
 <ls>R. GORR. 2, 1, 6.</ls> {#मैत्रीं बुद्धिं समास्थाय#} 
 <ls>MBH. 3, 8480.</ls> {#ऋतं मैत्रं तु भाषन्ते ये नराः स्वर्गगामिनः#} 
-<ls>13, 6646.</ls> 
+<ls n="MBH.">13, 6646.</ls> 
 <div n="2">— c) {%dem%} <is>Mitra</is> {%gehörig u.s.w.%} 
 <ls>VS. 24, 8.</ls> 
 <ls>AIT. BR. 5, 26.</ls> {#मै\त्रं व अह^ः । वा\रु\णी रात्रि^ः#} 
@@ -34,9 +34,9 @@
 <div n="2">— e) {%After%} (vgl. 3,d.) 
 <ls>KULL.</ls> zu <ls>M. 12,72.</ls> 
 <div n="2">— f) N. pr. eines gangbaren Mannsnamens, der wie {#चैत्र#} dem lateinischen <is>Cayus</is> entspricht: {#चैत्रो मैत्रात्पूर्वदेशे#} 
-<ls>P. 2, 3, 29,</ls> 
-<ls>Sch. 1, 3, 27, <is>Vārtt</is>.,</ls> 
+<ls>P. 2, 3, 29</ls>, <ls>Sch. 1, 3, 27, <is>Vārtt</is>.,</ls>
 <ls>Sch.</ls> 
+
 <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 7.</ls> <ls>KUSUM. 15, 11.</ls> 
 <div n="2">— g) N. pr. eines Lehrers {#(मौद्ग#} 
 <ls>VP.</ls>) <ls>Verz. d. Oxf. H. 55,b, N. 1.</ls> 
@@ -50,7 +50,7 @@
 <ls>KĀM. NĪTIS.1,22.3,22.4,38.</ls> <ls>YOGAS.1,33.3,24</ls> (<ls>Verz. d. Oxf. H. 230,b).</ls> <ls>Lot. de la b. l. 300.</ls> {#अ°#} 
 <ls>MBH. 14, 1000.</ls> {#नैषां दारेषु कुर्वीत मैत्रीम्#} 
 <ls>MBH. 4, 100.</ls> {#अवलिप्तेषु मूर्खेषु#} u. s. w. {#न मैत्रीमाचरेद्बुधः#} 
-<ls>5, 1495.</ls> <ls>MĀRK. P. 50, 65</ls> (wo {#मैत्री गृहे#} zu schreiben ist). {#यदि मैत्री स्थिता त्वयि#} {%wenn du freundschaftliche Gesinnung hegst%} 
+<ls n="MBH.">5, 1495.</ls> <ls>MĀRK. P. 50, 65</ls> (wo {#मैत्री गृहे#} zu schreiben ist). {#यदि मैत्री स्थिता त्वयि#} {%wenn du freundschaftliche Gesinnung hegst%} 
 <ls>R. 6, 10, 8.</ls> {#खलसज्जनानाम्#} 
 <ls>Spr. 382.790. 1260. 2409. 3143. 4451. 5147.</ls> 
 <ls>VARĀH. BṚH. S. 78, 7.</ls> 
@@ -95,7 +95,7 @@
 <div n="2">— e) = {#मैत्रसूत्र#} 
 <ls>Ind. St. 1, 69.</ls> 
 <div n="2">— f) im <is>Veda</is> angeblich = {#मित्र#} {%Freund%} 
-<ls>P. 5, 4, 36, <is>Vārtt</is>. 4,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 4, 36</ls>, <is>Vārtt</is>. 4, <ls>Sch.</ls> 
+
 <div n="v">— Vgl. {#दुर्मैत्र, महामैत्र#} und {#°मैत्री#} .
 <LEND>

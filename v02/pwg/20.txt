@@ -3,7 +3,7 @@
 <div n="1"> 1) {%Faser, Schoss, Stengel (der Somapflanze%}) 
 <ls>ṚV. 1, 46, 10.</ls> <ls n="ṚV. 1,">91, 17.</ls> <ls n="ṚV. 1,">125, 3.</ls> <ls n="ṚV.">7, 98, 1.</ls> <ls n="ṚV.">8, 61, 2.</ls> <ls n="ṚV.">9, 62, 4.</ls> <ls n="ṚV. 9,">67, 28.</ls> <ls n="ṚV. 9,">68, 4.</ls> <ls n="ṚV. 9,">74, 5.</ls> 
 <ls>VS. 5, 7. 20, 27.</ls> 
-<ls>AV. 6, 49, 2. 11, 1, 9.</ls> 
+<ls>AV. 6, 49, 2.</ls> <ls n="AV.">11, 1, 9.</ls> 
 <div n="1">— 2) {%Strahl%} 
 <ls>AK. 1, 1, 2, 34.</ls> 
 <ls>H. 99.</ls> 

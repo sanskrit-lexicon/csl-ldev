@@ -2,9 +2,9 @@
 {#मु꣡ख#}¦ 
 <ls>UṆĀDIS. 5, 20.</ls> <ls>ŚĀNT. 1, 6.</ls> <lex>m.</lex> (dieses nicht zu belegen) und <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
 <ls>P. 2, 4, 31.</ls> n. <ls>AK. 3, 6, 3, 22.</ls> Am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} und {#ई꣡#}, in gewissen Fällen aber nur {#आ#} 
-<ls>P. 4, 1, 54. 58.</ls> 
+<ls>P. 4, 1, 54.</ls> <ls n="P. 4, 1,">58.</ls> 
 <ls>VOP. 4, 17.</ls> Accent eines auf {#मुख#} ausgehenden <lex>adj.</lex> comp. 
-<ls>P. 6, 2, 167. fgg. 177</ls>, <is>Vārtt</is>. in der ed. Calc. 
+<ls>P. 6, 2, 167. fgg.</ls> <ls n="P. 6, 2,">177</ls>, <is>Vārtt</is>. in der ed. Calc. 
 <div n="1"> 1) {%Mund, Maul, Rachen%} 
 <ls>AK. 2, 6, 2, 40.</ls> 
 <ls>H. 572.</ls> 
@@ -115,8 +115,8 @@
 <ls>MBH. 5, 4341.</ls> {#नरकपुर°#} 
 <ls>Spr. 392.</ls> {#नदी°#} {%Mündung eines Flusses%} 
 <ls>RAGH. 3, 28.</ls> Am Ende eines <lex>adj.</lex> comp.: {#दीर्घमुखा शाला#} 
-<ls>P. 6, 2, 167,</ls> 
-<ls>Sch.</ls> {#सहस्र° (बिल)#} {%tausend Aus- oder Eingänge habend%} 
+<ls>P. 6, 2, 167</ls>, <ls>Sch.</ls>
+{#सहस्र° (बिल)#} {%tausend Aus- oder Eingänge habend%} 
 <ls>PAÑCAT. 107, 2.</ls> {#शत° (बिल)#} 
 <ls>Spr. 89.</ls> 
 <ls>KATHĀS. 61, 69.</ls> 
@@ -195,7 +195,7 @@
 <ls>MBH. 1, 532.</ls> <ls n="MBH.">3, 1997.</ls> <ls n="MBH.">4, 85.</ls> {#गङ्गामुखीभिः (°मुखाभिः#} die neuere Ausg.) {#सरिद्भिः#} 
 <ls>HARIV. 2967.</ls> 
 <ls>R. 4, 48, 1.</ls> 
-<ls>RAGH. 8,</ls> <ls>21.KATHĀS. 44, 130. 72, 396.</ls>
+<ls>RAGH. 8</ls>, <ls>21.KATHĀS. 44, 130. 72, 396.</ls>
 [Page5-0804]
 {#ग्रामाः - जयस्थलमुखाः (जयस्थल#} N. pr. eines <is>Grāma</is>) 
 <ls>RĀJA-TAR. 5, 121.</ls> {#इष्टिपशुसोममुखैर्मखैः#} 
@@ -207,9 +207,9 @@
 <ls>COLEBR. Alg. 52.</ls> 
 <div n="1">— 9) {%Anfang%} so v. a. {%Anlass, Veranlassung%}: {#विनाश°#} 
 <ls>MBH. 3, 16008.</ls> {#अनयस्यास्य तु मुखं भीष्मः शान्तनवो मम#} 
-<ls>5, 6008.</ls> {#धैर्यं च विशते योधान्विजयस्य मुखं च तत्#} 
-<ls>12, 3766.</ls> {#तावुभौ वृष्णिनाशस्य मुखमास्ताम्#} 
-<ls>16, 156.</ls> In der Dramatik {%der erste Anlass der Handlung%} 
+<ls n="MBH.">5, 6008.</ls> {#धैर्यं च विशते योधान्विजयस्य मुखं च तत्#} 
+<ls n="MBH.">12, 3766.</ls> {#तावुभौ वृष्णिनाशस्य मुखमास्ताम्#} 
+<ls n="MBH.">16, 156.</ls> In der Dramatik {%der erste Anlass der Handlung%} 
 <ls>DAŚAR.1,23.</ls> <ls>PRATĀPAR. 21,a,1.</ls> Hierher vielleicht die Bed. {#संध्यन्तर#} und {#नाटकादेः शब्दः#} (woraus 
 <ls>ŚABDAR.</ls> nach <ls>ŚKDR.</ls> zwei Bedeutungen: {#नाटक#} und {#शब्द#} macht) 
 <ls>MED.</ls> 

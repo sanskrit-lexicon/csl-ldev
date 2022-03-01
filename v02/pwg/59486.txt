@@ -30,7 +30,7 @@ ed. Bomb. des
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>VS. 30, 5. 22.</ls> 
-<ls>AV. 15, 2, 1. 2.</ls> 
+<ls>AV. 15, 2, 1.</ls> <ls n="AV. 15, 2,">2.</ls> 
 <ls>M. 10, 11. 17. 26.</ls> 
 <ls>YĀJÑ. 1, 94.</ls> 
 <ls>MBH. 13, 2573.</ls> <ls n="MBH. 13,">2622.</ls> 
@@ -54,7 +54,7 @@ ed. Bomb. des
 <ls>H. an.</ls> <ls>MED.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%eine Princessin der%} <is>Magadha</is>: {#तासां तु मागधा देवी तप्तचामीकरप्रभा । वृन्दावनेश्वरी राधा नाम्ना धात्वर्थकारणात् ॥#} 
-<ls>PĀDMA-P.,</ls> <ls>PĀTĀLAKH. 9</ls> im <ls>ŚKDR.</ls> 
+<ls>PĀDMA-P.</ls>, <ls>PĀTĀLAKH. 9</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— b) {%langer Pfeffer%} 
 <ls>RATNAM. 46.</ls> 
 <div n="1">— 4) <lex>f.</lex> {#ई#} 

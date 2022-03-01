@@ -1,6 +1,6 @@
 <L>59811<pc>5-0719<k1>मान<k2>मा꣡न<h>1
 1. {#मा꣡न#}¦ (von {#मन्)#} <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,a,9.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 249,a,9.</ls> 
 <div n="1"> 1) {%Meinung, Vorstellung%}: {#मानोत्पत्तेराधारवर्जितानुत्पन्नान्दृष्ट्वा#} 
 <ls>TATTVAS. 45.</ls> {#आत्ममाने#} {%die Meinung über sich selbst, das Sichhalten für Etwas%} 
 <ls>P. 3, 2, 83.</ls> {#अहं°#} <lex>adj.</lex> {%ein Bewusstsein von seinem Ich habend%} 
@@ -24,10 +24,10 @@
 <ls>Spr. 892.</ls> 
 <div n="1">— 3) <lex>m.</lex> und ausnahmsweise <lex>n.</lex> {%Ansehen, die Achtung —, die Ehre, die man bei seinen Mitbürgern geniesst%}: {#आत्मनश्चैव भद्रं ते कुरु मानं कुलस्य च#} 
 <ls>MBH. 4, 723.</ls> {#यशोमानौ वर्धयन्पाण्डवानाम्#} 
-<ls>5, 671.</ls> {#°वर्धन#} 
+<ls n="MBH.">5, 671.</ls> {#°वर्धन#} 
 <ls>M. 9, 115.</ls> {#स्थानमानप्रभावतः#} 
 <ls>MBH. 3, 1842.</ls> {#न वै मानं च मौनं च सहितौ वसतः सदा । अयं हि लोको मानस्य असौ मौनस्य तद्विदुः#} (so die ed. Bomb.) || 
-<ls>5, 1618.</ls> {#मानापमानयोः#} 
+<ls n="MBH.">5, 1618.</ls> {#मानापमानयोः#} 
 <ls>BHAG. 6, 7.</ls> 
 <ls>Spr. 2414.</ls> {#मानो हि महतां धनम्#} (vgl. {#मानधन)#} 
 <ls>VṚDDHA-CĀṆ. 8, 1.</ls> {#°स्वरूपाभिज्ञ#} 
@@ -54,7 +54,7 @@
 <ls>RĀJA-TAR. 5, 132.</ls> 
 <ls>ŚUK.</ls> in <ls>LA. (II) 37, 4.</ls> <ls>KĀM. NĪTIS. 10, 3. 10.</ls> <ls>VARĀH. BṚH. S. 74, 4.</ls> {#न मानमान्यो मुदमाददीत न संतापं प्राप्नुयाच्चावमानात्#} 
 <ls>MBH. 1, 3624.</ls> {#मानं कुरुष्व - ब्राह्मणस्य#} 
-<ls>5, 7306.</ls> {#प्रभुकृतान्मानात्#} 
+<ls n="MBH.">5, 7306.</ls> {#प्रभुकृतान्मानात्#} 
 <ls>Spr. 4786.</ls> {#सर्वेषां मानमादधे#} 
 <ls>BHĀG. P. 1, 11, 22.</ls> {#मानापमाननिपुण#} 
 <ls>VIKR. 88.</ls> {#नश्यति नापि मानः#} 

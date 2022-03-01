@@ -34,8 +34,8 @@
 <ls>MĀLAV. 13, 22.</ls> {#यत्प्रधानो ऽयमारम्भः#} 
 <ls>KATHĀS. 39, 14.</ls> 
 <ls>AK. 3, 6, 8, 42.</ls> 
-<ls>P. 1, 2, 47,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 1, 2, 47</ls>, <ls>Sch.</ls> 
+
 <ls>VEDĀNTAS. (Allah.) No. 25. 31. 41.</ls> {#महामोह° (कुल)#} 
 <ls>PRAB. 9, 14.</ls> 
 <ls>HALĀY. 5, 8.</ls> {#धर्म°#} {%dem das Recht über Alles geht, dem Recht ganz ergeben%} 
@@ -45,7 +45,7 @@
 <ls>R. 1, 22, 10.</ls> {#वादयुद्ध°#} 
 <ls>M. 12, 46.</ls> {#मृगया°#} 
 <ls>MBH. 3, 12355.</ls> {#बल°#} 
-<ls>5, 32.</ls> <ls>R. GORR. 2, 79, 39. 112, 31.</ls> {#स्त्री°#} 7. {#निगम°#} 
+<ls n="MBH.">5, 32.</ls> <ls>R. GORR. 2, 79, 39. 112, 31.</ls> {#स्त्री°#} 7. {#निगम°#} 
 <ls>MBH. 5, 32.</ls> {#दानगुण°#} 
 <ls>R. 2, 109, 35.</ls> {#शम°#} 
 <ls>ŚĀK. 40.</ls> {#गीयमानमङ्गलगीत°#} 
@@ -54,11 +54,11 @@
 <ls>ŚĀṄKH. GṚHY. 6, 3.</ls> 
 <ls>KUMĀRAS. 7, 46.</ls> Häufig auch als <lex>adj.</lex> (f. {#आ#}) gebraucht: {%der vorzüglichste, beste, obenan stehend%}: {#ये ये लोकाः पार्थिवेन्द्र प्रधानास्त्वया भुक्ताः#} 
 <ls>MBH. 1, 3590.</ls> {#तेषां धृतराष्ट्रस्य पुत्राणां चत्वारः प्रधाना बभूवुः#} 
-<ls>3810.</ls> {#स भवान्कृतबुद्धीनां प्रधान इति मे मतिः#} 
-<ls>5, 111. 695. 1085. 6, 87. 4082.</ls> <ls>R. 1, 16, 27. 2, 1, 30.</ls> <ls>R. GORR. 2, 12, 1. 82, 11.</ls> {#न तत्र काचित्प्रमदा प्रधाना रूपेण वीर्येण च या न लब्धा#} {%ausgezeichnet durch%} 
+<ls n="MBH. 1,">3810.</ls> {#स भवान्कृतबुद्धीनां प्रधान इति मे मतिः#} 
+<ls n="MBH.">5, 111.</ls> <ls n="MBH. 5,">695.</ls> <ls n="MBH. 5,">1085.</ls> <ls n="MBH.">6, 87.</ls> <ls n="MBH. 6,">4082.</ls> <ls>R. 1, 16, 27. 2, 1, 30.</ls> <ls>R. GORR. 2, 12, 1. 82, 11.</ls> {#न तत्र काचित्प्रमदा प्रधाना रूपेण वीर्येण च या न लब्धा#} {%ausgezeichnet durch%} 
 <ls>5, 13, 68. 89, 6. 6, 2, 12.</ls> <ls>KĀM. NĪTIS. 8, 39.</ls> <ls>MĀRK. P. 81. 12. 104, 11. 128, 28. 38. 132, 48.</ls> {#अप्रधानः प्रधानः स्यात्सेवते यदि पार्थिवः#} 
 <ls>Spr. 172. 2420.</ls> 
-<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 55,a,11.</ls> <ls>BRAHMAVAIV.</ls> <ls>P. ebend. 25,b, N. 5.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 98.</ls> <ls>VĀMANA-P. 12</ls> und <ls>PK.4,124</ls> bei <ls>AUFR.</ls> <ls>HALĀY.</ls> Ind. {#अमानुषेभ्यो मानुषाश्च प्रधाना विद्वांस्तथैवाविदुषः प्रधानः#} {%vorzüglicher, besser%} 
+<ls>VĀYU-P.</ls> in <ls>Verz. d. Oxf. H. 55,a,11.</ls> <ls>BRAHMAVAIV. P. ebend. 25,b, N. 5.</ls> <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 98.</ls> <ls>VĀMANA-P. 12</ls> und <ls>PK.4,124</ls> bei <ls>AUFR.</ls> <ls>HALĀY.</ls> Ind. {#अमानुषेभ्यो मानुषाश्च प्रधाना विद्वांस्तथैवाविदुषः प्रधानः#} {%vorzüglicher, besser%} 
 <ls>MBH. 1, 3556.</ls> {#अन्यस्य प्रधानस्य कस्यचित्#} {%irgend einem andern Vorzüglichern%} 
 <ls>PAÑCAT. 190, 8.</ls> {#प्रधानं क्षत्रिये कर्म#} {%die Hauptbeschäftigung%} 
 <ls>YĀJÑ. 1, 119.</ls> {#पुरं प्रधानम्#} {%Hauptstadt%} 
@@ -74,7 +74,7 @@
 <ls>PAÑCAT. 11, 17.</ls> 
 <ls>HIT. 51, 22.</ls> {#भरतप्रधानान्#} {%die Vornehmsten unter%} 
 <ls>MBH. 3, 10245.</ls> {#अवनिप्रधान#} {%der beste auf der Erde%} 
-<ls>10246. 5, 7482.</ls> <ls>HARIV. 8402.</ls> {#जगत्प्रधान#} 
+<ls n="MBH. 3,">10246.</ls> <ls n="MBH.">5, 7482.</ls> <ls>HARIV. 8402.</ls> {#जगत्प्रधान#} 
 <ls n="HARIV.">8410.</ls> <ls>R. 2, 82, 30 (89, 12 GORR.). 104, 27.</ls> <ls>R. GORR. 2, 89, 13.</ls> {#मन्त्रि°#} {%der erste Minister%} 
 <ls>KATHĀS. 42, 84.</ls> {#सार्थ°#} 
 <ls>VARĀH. BṚH. S. 85, 11.</ls> 

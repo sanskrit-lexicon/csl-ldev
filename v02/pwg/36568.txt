@@ -11,7 +11,7 @@
 <ls>an. 2, 368.</ls> 
 <ls>MED. y. 32.</ls> {#ध\त्ते धा\न्यं१^\ पत्य^ते वस\व्यै^ः#} 
 <ls>ṚV. 6, 13, 4.</ls> 
-<ls>AV. 3, 24, 2. 4. 5, 29, 7. 6, 50, 1.</ls> {#दश ग्राम्या, णे धान्यानि#} 
+<ls>AV. 3, 24, 2.</ls> <ls n="AV. 3, 24,">4.</ls> <ls n="AV.">5, 29, 7.</ls> <ls n="AV.">6, 50, 1.</ls> {#दश ग्राम्या, णे धान्यानि#} 
 <ls>ŚAT. BR. 14, 9, 3, 22.</ls> 
 <ls>ŚĀṄKH. BR. 11, 8.</ls> 
 <ls>ṢAḌV. BR. 5, 5.</ls> 
@@ -36,7 +36,7 @@
 <ls>VARĀH. BṚH. S. 44 (43), 6.</ls> {#धान्यार्घ#} {%Kornpreis%} 
 <ls>7, 1. 8, 5. fgg.</ls> {#धान्यान्#} (m.!) 
 <ls>MBH. 13, 5468.</ls> {#गुप्तधान्या#} <lex>adj.</lex> <lex>f.</lex> 
-<ls>3, 14674.</ls> nach <ls>SUŚR. 1, 195. fgg.</ls> sind zu den {#धान्य#} die drei Ordnungen {#शालयः, षष्टिकाः#} und {#व्रीहयः#} zu zählen, die übrigen essbaren Körnerfrüchte werden unter der Bezeichnung {#कुधान्य#} zusammengefasst. Als {%Gewicht%} so v. a. {%vier Sesamkörner%} 
+<ls n="MBH.">3, 14674.</ls> nach <ls>SUŚR. 1, 195. fgg.</ls> sind zu den {#धान्य#} die drei Ordnungen {#शालयः, षष्टिकाः#} und {#व्रीहयः#} zu zählen, die übrigen essbaren Körnerfrüchte werden unter der Bezeichnung {#कुधान्य#} zusammengefasst. Als {%Gewicht%} so v. a. {%vier Sesamkörner%} 
 <ls>ŚUBHAṂKARA</ls> im <ls>ŚKDR.</ls> Vgl. {#कौशी°, ग्रीष्म°, तृण°, धन°#} . 
 <div n="2">— b) {%Koriander%} 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>RATNAM. 48.</ls> 

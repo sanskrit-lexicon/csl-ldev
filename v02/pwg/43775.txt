@@ -1,15 +1,15 @@
 <L>43775<pc>4-0598<k1>पवित्र<k2>पवि꣡त्र
 {#पवि꣡त्र#}¦ (von {#पू#}) 
-<ls>P. 3, 2, 185. 186.</ls> 
+<ls>P. 3, 2, 185.</ls> <ls n="P. 3, 2,">186.</ls> 
 <ls>VOP. 26, 169.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 251,a,3.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 251,a,3.</ls> 
 <div n="1"> 1) <lex>n.</lex> {%Reinigungsmittel, Läuterungsmittel%} überh.; im Bes. {%Seihe, Sieb, Seigetuch, Durchschlag, colum (aus Fäden, Haaren, Halmen u.s.w. geflochten oder gewoben), womit Flüssigkeiten, vornämlich der%} <is>Soma</is>, {%geläutert werden.%} Der Begriff, der im alten Opfer sehr geläufig ist, wird im eigentlichen und übertragenen Sinne auf die verschiedensten Dinge angewandt. 
 <ls>NIR. 5, 6.</ls> {#प\वित्रे^ण पृथिवि\ मोत्पु^नामि#} 
-<ls>AV. 12, 1, 30. 3, 3. 14. 25.</ls> {#पू\तं प\वित्रे^णे\वाज्य^म्#} 
+<ls>AV. 12, 1, 30.</ls> <ls n="AV. 12,">3, 3.</ls> <ls n="AV. 12, 3,">14.</ls> <ls n="AV. 12, 3,">25.</ls> {#पू\तं प\वित्रे^णे\वाज्य^म्#} 
 <ls>VS. 20, 20.</ls> {#सोम^ं प\वित्र\ आ सृ^ज#} 
 <ls>ṚV. 1, 28, 9.</ls> <ls n="ṚV.">3, 36, 7.</ls> <ls n="ṚV.">8, 33, 1.</ls> <ls n="ṚV. 8,">90, 9.</ls> <ls n="ṚV.">9, 2, 1.</ls> {#व्य१^\व्ययं प\वित्र^ं धाव\ धार^या#} 
 <ls n="ṚV. 9,">49, 4.</ls> {#प\वित्र^ं ते\ वित^तम्#} 
-<ls n="ṚV. 9,">83, 1.</ls> <ls n="ṚV. 9,">97, 55.</ls> <ls n="ṚV.">10, 31, 8.</ls> <ls>AV. 9, 6, 16. 6, 124, 3.</ls> <ls>VS. 1, 2. 12.</ls> {#दे\वो मा^ सवि\ता पु^ना\त्वच्छि^द्रेण प\वित्रे^ण\ सूर्य^स्य र\श्मिभि^ः#} 
+<ls n="ṚV. 9,">83, 1.</ls> <ls n="ṚV. 9,">97, 55.</ls> <ls n="ṚV.">10, 31, 8.</ls> <ls>AV. 9, 6, 16.</ls> <ls n="AV.">6, 124, 3.</ls> <ls>VS. 1, 2. 12.</ls> {#दे\वो मा^ सवि\ता पु^ना\त्वच्छि^द्रेण प\वित्रे^ण\ सूर्य^स्य र\श्मिभि^ः#} 
 <ls>4, 4. 19, 3. 37. 40. 41.</ls> <ls>TBR. 1, 4, 1, 1.</ls> {#वा\युर्वै दे\वाना^ं प°#} 
 <ls>TS. 2, 1, 10, 2.</ls> {#प° वै हिर^ण्यम्#} 
 <ls>2, 5, 1.</ls> {#प° वा आपः#} 
@@ -19,9 +19,9 @@
 <ls>LĀṬY. 5, 4, 14.</ls> {#पवित्रं विदुषां हि वाक्#} 
 <ls>M. 11, 85.</ls> {#स (वासुदेवः) हि सत्यमनृतं चैव पवित्रं पुण्यमेव च#} 
 <ls>MBH. 1, 249.</ls> {#पवित्राणां हि गोविन्दः पवित्रं परमुच्यते#} 
-<ls>3, 8351. 13759. 13762.</ls> <ls>BHAG. 4, 38. 9, 17.</ls> <ls>R. 2, 39, 24.</ls> <ls>SĀṂKHYAK. 70.</ls> <ls>VARĀH. BṚH. S. 47, 3. 73, 9. 82, 23.</ls> Einige Grashalme heissen schon so; {#पवित्र = कुश#} 
-<ls>P. 3, 2, 185,</ls> 
-<ls>Sch.</ls> 
+<ls n="MBH.">3, 8351.</ls> <ls n="MBH. 3,">13759.</ls> <ls n="MBH. 3,">13762.</ls> <ls>BHAG. 4, 38. 9, 17.</ls> <ls>R. 2, 39, 24.</ls> <ls>SĀṂKHYAK. 70.</ls> <ls>VARĀH. BṚH. S. 47, 3. 73, 9. 82, 23.</ls> Einige Grashalme heissen schon so; {#पवित्र = कुश#} 
+<ls>P. 3, 2, 185</ls>, <ls>Sch.</ls> 
+
 <ls>AK. 2, 4, 5, 31.</ls> 
 <ls>TRIK. 3, 3, 362.</ls> 
 <ls>H. 1192.</ls> 
@@ -42,7 +42,7 @@
 <ls>M. 11, 225. 3, 256.</ls> 
 <ls>YĀJÑ. 1, 239. 3, 326.</ls> 
 <ls>MBH. 13, 4402.</ls> {#°पठनात्#} 
-<ls>MĀRK. P. 51,</ls> <ls>26</ls>; vgl. <ls>SIDDH. K.</ls> zu <ls>P. 3, 2, 186.</ls> {#आदित्यानां#} oder {#देवानां पवित्रम्#} N. eines <is>Sāman</is> 
+<ls>MĀRK. P. 51</ls>, <ls>26</ls>; vgl. <ls>SIDDH. K.</ls> zu <ls>P. 3, 2, 186.</ls> {#आदित्यानां#} oder {#देवानां पवित्रम्#} N. eines <is>Sāman</is> 
 <ls>Ind. St.3,205,b. 219,b.</ls> Die Lexicographen führen noch folgende besondere Bedd. an: {%Wasser%} 
 <ls>H. an.</ls> <ls>MED.</ls> {%Regen%} ({#वर्षण#}) 
 <ls>MED.</ls> {%das Reiben%} ({#घर्षण#}) 

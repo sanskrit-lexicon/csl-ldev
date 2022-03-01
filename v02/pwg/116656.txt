@@ -16,7 +16,7 @@
 <ls>AK. 2, 8, 2, 2.</ls> 
 <ls>TRIK. 2, 8, 33.</ls> 
 <ls>H. 1217.</ls> 
-<ls>AV. 3, 22, 3. 4, 36, 9. 6, 38, 2. 70, 2. 9, 1, 32.</ls> 
+<ls>AV. 3, 22, 3.</ls> <ls n="AV.">4, 36, 9.</ls> <ls n="AV.">6, 38, 2.</ls> <ls n="AV. 6,">70, 2.</ls> <ls n="AV.">9, 1, 32.</ls> 
 <ls>VS. 24, 29.</ls> 
 <ls>AIT. BR. 4, 1. 5, 31. 6, 27.</ls> 
 <ls>ŚAT. BR. 3, 1, 3, 4. 14, 7, 1, 20. 8, 15, 11.</ls> 
@@ -27,7 +27,7 @@
 <ls>PAÑCAV. BR. 6, 8, 8. 23, 13, 2.</ls> {#हस्तिनमारूढः#} 
 <ls>M. 4, 120. 7, 96. 12, 43.</ls> 
 <ls>MBH. 3, 2114.</ls> <ls n="MBH. 3,">2510.</ls> <ls n="MBH. 3,">2546.</ls> {#दुष्ट°#} 
-<ls>8, 2579. 12, 4281.</ls> <ls>R. 1, 5, 16.</ls> {#हस्तिभिर्गीताः श्लोकाः#} 
+<ls n="MBH.">8, 2579.</ls> <ls n="MBH.">12, 4281.</ls> <ls>R. 1, 5, 16.</ls> {#हस्तिभिर्गीताः श्लोकाः#} 
 <ls>5, 88, 6.</ls> <ls>Spr. (II) 1306.</ls> {#काष्ठमय#} 
 <ls>5094. 7378. fgg.</ls> <ls>VARĀH. BṚH. S. 16, 23. 19, 3. 45, 5. 51, 19.</ls> <ls>LA. (III) 92, 17.</ls> <ls>Verz. d. B. H. No. 897. 945.</ls> <is>Śākyamuni</is> als {%El.%} 
 <ls>VYĀḌI</ls> beim Schol. zu <ls>H. 233.</ls> {#हस्तिकाय#} 
@@ -56,7 +56,7 @@ zu <ls>P. 2, 1, 56.</ls>
 <ls>RĀJAN. 6, 110.</ls> 
 <div n="2">— d) N. pr. eines Sohnes des <is>Dhṛtarāṣṭra</is> 
 <ls>MBH. 1, 3747.</ls> des <is>Suhotra</is> und Gründers von <is>Hastināpura</is> 
-<ls>3787.</ls> <ls>HARIV. 1053. fg.</ls> <ls>VP. 451.</ls> des <is>Bṛhatkṣatra</is> 
+<ls n="MBH. 1,">3787.</ls> <ls>HARIV. 1053. fg.</ls> <ls>VP. 451.</ls> des <is>Bṛhatkṣatra</is> 
 <ls>BHĀG. P. 9, 21, 20. fg.</ls> des <is>Kuru</is> 
 <ls>ŚATR. 10, 400.</ls> 
 <div n="1">— 3) <lex>f.</lex> {#°नी#} 

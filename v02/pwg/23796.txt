@@ -5,8 +5,8 @@
 <div n="1"> 1) <lex>adj.</lex> subst. = {#ग्रामीण#} 
 <ls>TRIK. 3, 1, 4.</ls> 
 <ls>H. 501.</ls> = {#ग्रामे जातः#} 
-<ls>P. 4, 3, 25,</ls> 
-<ls>Sch.</ls> = {#ग्रामभवो जनः#} 
+<ls>P. 4, 3, 25</ls>, <ls>Sch.</ls>
+= {#ग्रामभवो जनः#} 
 <ls>H. an. 2, 354.</ls> 
 <div n="2"> a) {%im Dorfe u.s.w. im Gebrauch seiend, dort entstanden, dort bereitet%}: {#पात्रा^णि#} 
 <ls>TS. 5, 1, 6, 2.</ls> {#अग्नि#} 
@@ -24,7 +24,7 @@
 <ls>9, 11, 17.</ls> {#प्रियं प्रभुर्ग्राम्य इव प्रियाया विधित्सुः#} {%wie ein Dorfbewohner, der den rohen Sinnesgenüssen nachgehen darf%}, 
 <ls>3, 3, 5.</ls> 
 <div n="2">— c) {%in Dörfern —, unter Menschen lebend, von Menschen gezogen, zahm, cultivirt%}; von Thieren und Pflanzen: {#पशवः#} 
-<ls>AV. 2, 34, 4. 3, 31, 3.</ls> 
+<ls>AV. 2, 34, 4.</ls> <ls n="AV.">3, 31, 3.</ls> 
 <ls>ṚV. 10, 90, 8.</ls> 
 <ls>M. 11, 199.</ls> 
 <ls>PAÑCAT. 68, 14. 215, 6.</ls> deren giebt es sieben 

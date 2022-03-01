@@ -4,7 +4,7 @@
 <ls>P. 7, 4, 50.</ls> 
 <ls>VOP. 9, 22.</ls> {#स्म꣡सि#} 
 <ls>ṚV. 1, 29, 1.</ls> <ls n="ṚV. 1,">37, 15.</ls> {#स्थन#} 
-<ls n="ṚV. 1,">105, 5.</ls> <ls>AV. 1, 31, 2. 3, 8, 5.</ls> {#स्व#} und {#स्म#} ep.); conj. {#सतस्#} 
+<ls n="ṚV. 1,">105, 5.</ls> <ls>AV. 1, 31, 2.</ls> <ls n="AV.">3, 8, 5.</ls> {#स्व#} und {#स्म#} ep.); conj. {#सतस्#} 
 <ls>ŚAT. BR. 3, 8, 2, 28</ls>; potent. {#स्याम् (स्या꣡तन#} 
 <ls>ṚV. 1, 38, 4</ls>); imperat. {#असानि, एधि#} (
 <ls>P. 6, 4, 119.</ls> 
@@ -14,12 +14,12 @@
 <ls>P. 7, 3, 97.</ls> 
 <ls>ṚV. 10, 85, 7.</ls> <ls n="ṚV. 10,">129, 3.</ls> <ls n="ṚV. 10,">149, 2</ls>); conj. {#अ꣡सम्#} 
 <ls>ṚV. 10, 27, 4.</ls> {#अ꣡सस्#} 
-<ls>AV. 1, 16, 4. 6, 8, 1.</ls> {#अ꣡ससि#} 
+<ls>AV. 1, 16, 4.</ls> <ls n="AV.">6, 8, 1.</ls> {#अ꣡ससि#} 
 <ls>ṚV. 2, 26, 2.</ls> <ls n="ṚV.">10, 174, 3.</ls> {#असत्#} 
 <ls n="ṚV.">1, 9, 5.</ls> <ls n="ṚV. 1,">89, 5.</ls> {#असति#} 
 <ls n="ṚV.">4, 53, 15.</ls> <ls n="ṚV.">6, 45, 14.</ls> {#असाम#} 
 <ls n="ṚV.">1, 53, 15.</ls> <ls n="ṚV.">4, 2, 10.</ls> {#असाथ#} 
-<ls>AV. 3, 8, 4. 14, 1, 32.</ls> {#असथ#} 
+<ls>AV. 3, 8, 4.</ls> <ls n="AV.">14, 1, 32.</ls> {#असथ#} 
 <ls>ṚV. 8, 30, 2.</ls> {#असन्#} 
 <ls n="ṚV.">1, 38, 15.</ls> <ls n="ṚV. 1,">89, 1.</ls> <ls>ŚAT. BR. 1, 1, 4, 23</ls>; perf. {#आस#}; part. praes. {#सन्त्#} . Die übrigen Formen fehlen und werden durch {#भू#} ersetzt 
 <ls>P. 2, 4, 52.</ls> 
@@ -58,11 +58,11 @@
 <ls>TRIK. 3, 4, 5</ls>) aufgeführt; die Lexicographen (
 <ls>AK. 3, 5, 18.</ls> 
 <ls>H. 1541</ls>) geben {%vorhanden%} als Bedeutung an und so ist das Wort aufzufassen im comp. {#अस्तिक्षीरा#} {%Milch habend%} 
-<ls>P. 2, 2, 24, <is>Vārtt</is>. 9</ls> (vgl. 
+<ls>P. 2, 2, 24</ls>, <is>Vārtt</is>. 9 (vgl. 
 <ls>N. 10</ls> zum gaṇa {#चादि#}). {#गौः#} 
 <ls>SIDDH. K.</ls> {#ब्राह्मणी#} 
-<ls>H. 1541,</ls> 
-<ls>Sch.</ls> Vgl. {#अस्तित्व, अस्तिमन्त्, अस्तिप्रवाद, आस्तिक#} . Bemerkenswerth ist das mit dem Folgenden in keiner grammat. Verbindung stehende {#अस्ति#}, mit dem eine Erzählung eingeleitet wird: {#अस्ति कस्मिंश्चिदधिष्ठाने सोमिलिको नाम कौलिकः प्रतिवसति स्म#} {%so Etwas hat sich mal begeben: an einem Orte u.s.w.%} 
+<ls>H. 1541</ls>, <ls>Sch.</ls>
+Vgl. {#अस्तित्व, अस्तिमन्त्, अस्तिप्रवाद, आस्तिक#} . Bemerkenswerth ist das mit dem Folgenden in keiner grammat. Verbindung stehende {#अस्ति#}, mit dem eine Erzählung eingeleitet wird: {#अस्ति कस्मिंश्चिदधिष्ठाने सोमिलिको नाम कौलिकः प्रतिवसति स्म#} {%so Etwas hat sich mal begeben: an einem Orte u.s.w.%} 
 <ls>PAÑCAT. 132, 22. 169, 5. 209, 22.</ls> {#अस्ति कस्मिंश्चिद्वनोद्देशे महान्यग्रोधवृक्षे पुरा स्वयमहमवसम्#} 
 <ls>163, 18.</ls> {#अस्ति मामीक्षितुं पूर्वं ब्रह्मा नारायणस्तथा । महीं भ्रमन्तौ हिमवत्पादमूलमवापतुः ॥#} 
 <ls>KATHĀS. 1, 27.</ls> {#अस्ति पूर्वमहं व्योमचारी विद्याधरो ऽभवम्#} 
@@ -70,8 +70,8 @@
 <ls>MṚCCH. 49, 17</ls> : {#अथवा ज्वलति प्रदीपः । अस्ति च मया प्रदीपनिर्वापणार्थमाग्नेयः कीटो धार्यते#}; hier weist {#अस्ति च#} auf Etwas hin, welches das durch {#अथवा#} eingeleitete Bedenken wieder entfernt: {%es brennt aber die Lampe! Thut nichts zur Sache (zugleich ist dieses): ich trage ja bei mir%} u. s. w. In Verbindung mit einem fut. ist. {#अस्ति#} als Frage der Verwunderung aufzufassen: {#अस्ति तत्रभवान्वृषलं याजयिष्यति#} {%findet es wirklich Statt,%}
 [Page1-0536]
 {%dass u.s.w.?%} 
-<ls>P. 3, 3, 146,</ls> 
-<ls>Sch.</ls> {#त्वं न मंस्यसे महादेवमस्ति नाम#} 
+<ls>P. 3, 3, 146</ls>, <ls>Sch.</ls>
+{#त्वं न मंस्यसे महादेवमस्ति नाम#} 
 <ls>VOP. 25, 12.</ls> 
 <div n="1">— 2) {%Jemandes sein, Jmd gehören, Jmd eigen sein, bei Jmd angetroffen werden, Jmd zu Theil geworden sein, Jmd zu Theil werden, Jmd geschehen%}; mit dem gen.: {#न\हि मे\ अस्त्यध्न्या^#} 
 <ls>ṚV. 8, 91, 19.</ls> {#स\हस्र\ं यस्य^ रा\तय^ उ\त वा\ सन्ति\ भूय^सीः#} 
@@ -169,7 +169,7 @@
 <ls>HIT. 17, 20. 21, 7. 39, 9.</ls> 
 <ls>KATHĀS. 22, 69.</ls> {#अस्त्वेवम्#} {#(अस्त्येवम्#}?) {#तथापि#} {%mag sein, dessenungeachtet%} 
 <ls>HIT. 15, 12.</ls> Hierher gehört auch das periphr. perf., das durch die Verbindung eines adverb. aufzufassenden nom. act. auf {#आ#} im acc. mit dem perf. von {#अस्#} (oder {#भू#}) gebildet wird. In der Regel geht das nom. act. dem verb. unmittelbar voran, es können jedoch die beiden Worte auch getrennt werden, wie z. 
-<ls>B.</ls> <ls>RAGH. 9, 61 (16,</ls> <ls>86</ls>): {#तं पातयां प्रथममास पपात पश्चात्#} . 
+<ls>B.</ls> <ls>RAGH. 9, 61 (16</ls>, <ls>86</ls>): {#तं पातयां प्रथममास पपात पश्चात्#} . 
 <div n="1">— 7) {%werden%}: {#तद्रेत आसीत्#} 
 <ls>BṚH. ĀR. UP. 1, 2, 4.</ls> {#तां दृष्ट्वा दशविस्तारामासं विंशतियोजनः#} 
 <ls>R. 5, 56, 18.</ls> {#तमसा संवृते लोके घोरेण परुषेण च । हरयो विमुखाश्चासन्प्रास्खलच्चापि मातलिः ॥#} 
@@ -177,7 +177,7 @@
 <ls>N. 17, 30.</ls> {#नहुषः परकलत्रदोहदी महाभुजंग आसीत्#} 
 <ls>VĀSAV.</ls> in <ls>Z. d. d. m. G. 8, 538.</ls> {#तिरो ऽसानि#} {%ich will mich verbergen%} 
 <ls>BṚH. ĀR. UP. 1, 4, 4.</ls> Dieselbe Bedeutung hat {#अस्#} in folgenden Verbindungen: {#शुक्लीस्यात्#} {%er werde weiss%}, {#अग्निसात्स्यात्, राजसात्स्यात्, ब्राह्मणत्रा स्यात्#} 
-<ls>P. 5, 4, 51 - 55.</ls> 
+<ls>P. 5, 4, 51</ls> - <ls n="P. 5, 4,">55.</ls> 
 <div n="1">— 8) {#अस्तु#} {%es geschehe.%} Die Lexicographen führen folgende Bedeutungen dieser Form an: {#असूयोपगमे#} 
 <ls>AK. 3, 5, 13.</ls> {%genug davon%} ({#कृतम्, अलम्#}) 
 <ls>H. 1528</ls>; vgl. u. 5. {#आनन्दे#} 
@@ -190,7 +190,7 @@
 <ls>AV. 11, 1, 12.</ls>
 
 <div n="p">— {#व्यति#} med. 2. sg. {#व्यतिसे#}, 1. sg. {#व्यतिहे#} 
-<ls>Sch.</ls> zu <ls>P. 7, 4, 50. 52.</ls> <ls>VOP. 23, 55. 56.</ls> {%überwiegen%}: {#अन्यो व्यतिस्ते तु ममापि धर्मः#} 
+<ls>Sch.</ls> zu <ls>P. 7, 4, 50.</ls> <ls n="P. 7, 4,">52.</ls> <ls>VOP. 23, 55. 56.</ls> {%überwiegen%}: {#अन्यो व्यतिस्ते तु ममापि धर्मः#} 
 <ls>BHAṬṬ. 2, 35.</ls>
 
 <div n="p">— {#अनु#} 
@@ -218,8 +218,8 @@
 [Page1-0538]
 
 <div n="p">— {#अभि#}, {#अभिस्तस्, अभिषन्ति, अभिष्यात्#} 
-<ls>P. 8, 3, 87,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 3, 87</ls>, <ls>Sch.</ls> 
+
 <div n="1"> 1) {%zufallen, auf Jmdes Theil kommen%} 
 <ls>P. 1, 4, 91.</ls> {#यदत्र ममाभिष्यात् तद्दीयताम्#} 
 <ls>Sch.</ls> 
@@ -228,8 +228,8 @@
 <ls n="ṚV.">6, 25, 5.</ls> {#पृ\णन्ना\पिरपृ^णन्तम\भि ष्या^त्#} 
 <ls n="ṚV.">10, 117, 7.</ls> {#येनासु^राँ अ\भि दे\वा असा^म#} 
 <ls n="ṚV. 10,">53, 4.</ls> <ls n="ṚV. 10,">48, 7.</ls> <ls n="ṚV.">1, 94, 8.</ls> <ls n="ṚV. 1,">105, 19.</ls> <ls n="ṚV.">4, 6, 1.</ls> <ls n="ṚV. 4,">12, 1.</ls> <ls n="ṚV.">7, 1, 10.</ls> <ls n="ṚV. 7, 1,">13.</ls> <ls n="ṚV. 7,">48, 2.</ls> {#अग्ने\ सह^स्वानभि\भूर\भीद^सि#} 
-<ls>AV. 11, 1, 6. 6, 97, 1. 7, 93, 1. 13, 1, 22.</ls> Die Texte zeigen Ungleichförmigkeit in der Auffassung, indem sie durch die Betonung die praep. häufig vom verb. trennen, 
-z. B. <ls>7, 39, 4. 48, 3</ls> und sonst. 
+<ls>AV. 11, 1, 6.</ls> <ls n="AV.">6, 97, 1.</ls> <ls n="AV.">7, 93, 1.</ls> <ls n="AV.">13, 1, 22.</ls> Die Texte zeigen Ungleichförmigkeit in der Auffassung, indem sie durch die Betonung die praep. häufig vom verb. trennen, 
+z. B. <ls n="AV.">7, 39, 4.</ls> <ls n="AV. 7,">48, 3</ls> und sonst. 
 <div n="v">— Vgl. {#अभिष्टि#} .
 
 <div n="p">— {#आविस्#} s. u. d. W.
@@ -238,8 +238,8 @@ z. B. <ls>7, 39, 4. 48, 3</ls> und sonst.
 <ls>ṚV. 2, 27, 7.</ls>
 
 <div n="p">— {#नि#}, {#निस्तस्, निषन्ति, निष्यात्#} 
-<ls>P. 8, 3, 87,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 3, 87</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 9, 24.</ls>
 
 <div n="p">— {#परि#} 
@@ -263,6 +263,6 @@ z. B. <ls>7, 39, 4. 48, 3</ls> und sonst.
 <div n="p">— {#प्रादुस्#} s. u. d. W.
 
 <div n="p">— {#वि#}, {#विस्तस्, विष्यन्ति, विष्यात्#} 
-<ls>P. 8, 3, 87,</ls> 
-<ls>Sch.</ls>
+<ls>P. 8, 3, 87</ls>, <ls>Sch.</ls>
+
 <LEND>

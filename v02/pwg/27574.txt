@@ -4,15 +4,15 @@
 <div n="2"> a) {%lebend%}, s. {#चिर°#} . 
 <div n="2">— b) {%lebend von%}: {#पक्षि°#} 
 <ls>MBH. 12, 5576.</ls> {#अध्ययन°#} 
-<ls>13, 6455.</ls> {#वृद्धि°#} 
-<ls>5741.</ls> {#माल्य°#} 
+<ls n="MBH.">13, 6455.</ls> {#वृद्धि°#} 
+<ls n="MBH. 13,">5741.</ls> {#माल्य°#} 
 <ls>HARIV. 4484</ls> (wo {#जीवक#} st. {#जीवज#} zu lesen ist). {#पर°#} 
 <ls>ŚATR. 10, 144.</ls> Vgl. {#अक्षर°#} . 
 <div n="2">— c) {%leben machend, erzeugend%}; s. {#पुत्रंजीवक#} . 
 <div n="1">— 2) <lex>adj.</lex> proparox. (f. {#जीवका#}) {%der lange lebt, dem ein langes Leben gewünscht wird%} (vgl. {#आयुष्मन्त्#}) 
-<ls>P. 3, 1, 150,</ls> 
-<ls>Sch. 7, 3, 54</ls>, <is>Vārtt</is>. 
-<ls>4, Sch.</ls> <ls>VOP. 26, 42. 4, 6.</ls> 
+<ls>P. 3, 1, 150</ls>, <ls>Sch. 7, 3, 54</ls>, 
+<is>Vārtt</is>. 
+<ls>4</ls>, Sch. <ls>VOP. 26, 42. 4, 6.</ls> 
 <div n="1">— 3) <lex>m.</lex> 
 <div n="2"> a) {%ein lebendes Wesen.%} 
 <div n="2">— b) {%Diener, Untergebener (von Anderen lebend%}) 
@@ -46,7 +46,7 @@
 <div n="2">— b) {%das Leben, die Art und Weise zu leben%}: {#वरं वृणीष्व वित्तं चिरजीविकां च#} 
 <ls>KAṬHOP. 1, 24.</ls> {#जीवेयुः पशुजीविकाम्#} 
 <ls>MBH. 3, 1185.</ls> {#आपन्नः क्लीवजीविकाम्#} 
-<ls>1276.</ls> {#(जीवामि) पापजीविकाम्#} 
+<ls n="MBH. 3,">1276.</ls> {#(जीवामि) पापजीविकाम्#} 
 <ls>R. 5, 26, 25.</ls> {#जीवत्वसुखजीविकाम्#} 
 <ls>N. 11, 17.</ls> {#अजिह्मामशठां शुद्धां जीवेद्ब्राह्मणजीविकाम्#} 
 <ls>M. 4, 11.</ls> {#जीवेद्वैश्यस्य जीविकाम्#} 
@@ -63,14 +63,14 @@
 <ls>MĀRK. P. 28, 4. fgg.</ls> {#नोपजीवेत जीविकाम्#} 
 <ls>BHĀG. P. 7, 13, 7.</ls> {#लब्ध°#} 
 <ls>PAÑCAT. 198, 5.</ls> {#आपन्नजीविक, प्राप्त°#} 
-<ls>P. 1, 2, 44,</ls> 
-<ls>Sch.</ls> {#दत्तजीविका#} <lex>adj.</lex> 
+<ls>P. 1, 2, 44</ls>, <ls>Sch.</ls>
+{#दत्तजीविका#} <lex>adj.</lex> 
 <ls>RĀJA-TAR. 6, 22.</ls> {#क्षत्रियाणां विशेषेण येन युद्धेन जीविका#} 
 <ls>MBH. 7, 2544.</ls> <ls n="MBH.">14, 35.</ls>
 [Page3-0116]
 {#मृगयायां च जीविका#} 
-<ls>3, 15869.</ls> {#वैश्यो (करोति) विपणिजीविकाम्#} 
-<ls>5, 2627.</ls> {#जीविकाकर्#} {%zum Lebensunterhalt erwählen%} 
+<ls n="MBH.">3, 15869.</ls> {#वैश्यो (करोति) विपणिजीविकाम्#} 
+<ls n="MBH.">5, 2627.</ls> {#जीविकाकर्#} {%zum Lebensunterhalt erwählen%} 
 <ls>P. 1, 4, 79.</ls> 
 <ls>VOP. 15, 5.</ls> 
 <div n="2">— d) N. einer Pflanze ({#जीवन्ती#}) 

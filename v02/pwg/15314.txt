@@ -36,9 +36,9 @@
 <ls>R. 3, 24, 22.</ls> {#षट्कर्णो#} ({%woran sechs Ohren Theil genommen haben%}) {#भिद्यते मन्त्रश्चतुष्कर्णः स्थिरो भवेत् । द्विकर्णस्य तु मन्त्रस्य ब्रह्माप्यन्तं न गच्छति ॥#} 
 <ls>VET. 3, 10. 11.</ls> Adj. compp. auf {#कर्ण#} sind paroxytona, wenn das vorangehende Wort eine Farbe oder ein am Ohr angebrachtes Merkmal (beim Viehe; der Auslaut eines solchen Wortes häufig verlängert 
 <ls>P. 6, 3, 115</ls>) ist; so auch bei Vergleichungen und wenn das comp. ein nomen appell. oder propr. ist 
-<ls>P. 6, 2, 112. 113.</ls> {#शुक्लक꣡र्ण, शङ्कुक꣡र्ण, गोक꣡र्ण, मणिक꣡र्ण#} 
+<ls>P. 6, 2, 112.</ls> <ls n="P. 6, 2,">113.</ls> {#शुक्लक꣡र्ण, शङ्कुक꣡र्ण, गोक꣡र्ण, मणिक꣡र्ण#} 
 <ls>Sch.</ls> Das <lex>f.</lex> der <lex>adj.</lex> compp. geht bald auf {#आ#}, bald auf {#ई꣡#} aus 
-<ls>P. 4, 1, 55, 64.</ls> {#शङ्कुकर्णा (गो)#} 
+<ls>P. 4, 1, 55</ls>, <ls n="P. 4, 1,">64.</ls> {#शङ्कुकर्णा (गो)#} 
 <ls>MBH. 1, 6662.</ls> {#(राक्षसीः) त्रिकर्णीः शङ्कुकर्णीश्च लम्बकर्णीः - एककर्णीश्च#} 
 <ls>R. 5, 17, 24.</ls> Vgl. {#आविद्धकर्णा, °कर्णी, आखुकर्णी, पूतिकर्ण, प्लीहाकर्ण, विकर्ण, हिरण्यकर्ण#} . 
 <div n="1">— 2) Irrig scheint die Trennung {#अपि कर्णे#} zu sein statt {#अ\पि\क\र्णे#} {%hinter den Ohren%} d. i. {%im Rücken, von hinten, hinterher%} in den Stellen: {#श्वा न्व^स्य जम्भिष\दपि\ कर्णे^ वराह\युः#} 
@@ -48,7 +48,7 @@
 <ls n="ṚV.">6, 48, 16.</ls> zu verbessern ist). 
 <div n="1">— 3) {%Handhabe%} oder {%eine andere Hervorragung auf beiden Seiten eines Gefässes u.s.w.%}: {#उ\भा कर्णा^ हिर\ण्यया^#} 
 <ls>ṚV. 8, 61, 12.</ls> {#कर्णसहिताः (इष्टकाः)#} 
-<ls>KĀTY. ŚR. 17, 6,</ls> <ls>3</ls>; vgl. <ls>MAHĪDH.</ls> zu <ls>VS. 13, 54.</ls> 
+<ls>KĀTY. ŚR. 17, 6</ls>, <ls>3</ls>; vgl. <ls>MAHĪDH.</ls> zu <ls>VS. 13, 54.</ls> 
 <div n="1">— 4) {%Steuerruder%}: {#हतकर्णेव नौर्जले#} 
 <ls>R. 6, 23, 30.</ls> Vgl. {#कर्णग्राह, कर्णधार#} . 
 <div n="1">— 5) N. einer Pflanze, = {#सुवर्णालि#} 
@@ -64,11 +64,11 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> 
 <ls>MBH. 1, 2427.</ls> <ls n="MBH. 1,">2764. fgg.</ls> 
-<ls>4411. fgg.</ls> 
-<ls>5379. fgg.</ls> 
-<ls>3, 16098. fgg.</ls> 
-<ls>5, 5301. fgg.</ls> 
-<ls>15, 826. fgg.</ls> 
+<ls n="MBH. 1,">4411. fgg.</ls> 
+<ls n="MBH. 1,">5379. fgg.</ls> 
+<ls n="MBH.">3, 16098. fgg.</ls> 
+<ls n="MBH.">5, 5301. fgg.</ls> 
+<ls n="MBH.">15, 826. fgg.</ls> 
 <ls>BHAG. 11, 26.</ls> 
 <ls>HARIV. 1709.</ls> <ls n="HARIV.">4058.</ls> 
 <ls>BHĀG. P. 9, 23, 13.</ls> 

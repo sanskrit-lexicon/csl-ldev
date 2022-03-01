@@ -10,10 +10,10 @@
 <ls>MBH. 3, 11395.</ls> {#पद्म#} 
 <ls>HARIV. 11441.</ls> {#देश#} 
 <ls>MBH. 3, 11856.</ls> {#लोकाः#} 
-<ls>13, 4874.</ls> {#ब्रह्मसदन#} 
-<ls>14, 2794.</ls> von Personen 
-<ls>1, 2876. 5, 6099.</ls> {#यथा त्वमेनसा मुक्ता#} (so ed. Bomb.) {#विरजाः (विरजा#} ed. Calc.) {#ख्यातिमेष्यसि#} 
-<ls>7, 2108. 13, 3185. 14, 1152.</ls> <ls>HARIV. 7160.</ls> <ls>RĀJA-TAR. 2, 120. 4, 200.</ls> <ls>BHĀG. P. 3, 20, 4. 10, 10, 28.</ls> 
+<ls n="MBH.">13, 4874.</ls> {#ब्रह्मसदन#} 
+<ls n="MBH.">14, 2794.</ls> von Personen 
+<ls n="MBH.">1, 2876.</ls> <ls n="MBH.">5, 6099.</ls> {#यथा त्वमेनसा मुक्ता#} (so ed. Bomb.) {#विरजाः (विरजा#} ed. Calc.) {#ख्यातिमेष्यसि#} 
+<ls n="MBH.">7, 2108.</ls> <ls n="MBH.">13, 3185.</ls> <ls n="MBH.">14, 1152.</ls> <ls>HARIV. 7160.</ls> <ls>RĀJA-TAR. 2, 120. 4, 200.</ls> <ls>BHĀG. P. 3, 20, 4. 10, 10, 28.</ls> 
 <div n="1">— 2) <lex>m.</lex> N. pr. 
 <div n="2"> a) eines Schlangendämons 
 <ls>MBH. 1, 1559.</ls> <ls n="MBH.">5, 3632.</ls> 
@@ -23,7 +23,7 @@
 <ls>MĀRK. P. 76, 54.</ls> ein Sohn des <is>Manu</is> <is>Sāvarṇa</is> 
 <ls>80, 11.</ls> <is>Nārāyaṇa's</is> 
 <ls>MBH. 12, 2209. fg.</ls> <is>Kavi's</is> 
-<ls>13, 4150.</ls> <is>Vasiṣṭha's</is> 
+<ls n="MBH.">13, 4150.</ls> <is>Vasiṣṭha's</is> 
 <ls>BHĀG. P. 4, 1, 41.</ls> <is>Paurṇamāsa's</is> 
 <ls>VP. 82.</ls> 
 <ls>MĀRK. P. 52, 19.</ls> 

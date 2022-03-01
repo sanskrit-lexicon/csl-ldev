@@ -23,13 +23,13 @@ Bez. eines best. Fluges der Vögel
 <ls>TRIK. 3, 3, 73.</ls> 
 <ls>H. 1470.</ls> 
 <ls>an. 2, 55.</ls> 
-<ls>MED. gh. 5.</ls> <ls>HALĀY. 4, 12.</ls> <ls>R. 2, 46, 21 (44, 21</ls> <ls>GORR.). 58, 23. 7, 95, 5.</ls> <ls>KATHĀS. 27, 156. 29, 136. 37, 224. 121, 110. 122, 24. 124, 10.</ls> <ls>MĀRK.</ls> <ls>P. 109, 57. 134, 55.</ls> {#लघूत्थित#} 
+<ls>MED. gh. 5.</ls> <ls>HALĀY. 4, 12.</ls> <ls>R. 2, 46, 21 (44, 21</ls> <ls>GORR.). 58, 23. 7, 95, 5.</ls> <ls>KATHĀS. 27, 156. 29, 136. 37, 224. 121, 110. 122, 24. 124, 10.</ls> <ls>MĀRK. P. 109, 57. 134, 55.</ls> {#लघूत्थित#} 
 <ls>KĀM. NĪTIS. 18, 66.</ls> {#लघुद्राविन्#} {%schnell (leicht) in Fluss gerathend%} (Quecksilber) 
 <ls>SARVADARŚANAS. 99, 18.</ls> 
 <div n="2">— b) {%leicht%} d. i. {%nicht schwer%} 
 <ls>H. an.</ls> <ls>MED.</ls> {#गु\रुर्भा\रो ल\घुर्भ^व#} 
 <ls>AV. 9, 3, 24.</ls> {#प\र्णाल्लघी^यसी भव#} 
-<ls>10, 1, 29.</ls> <ls>MBH. 3, 2615.</ls> <ls n="MBH. 3,">10943.</ls> <ls n="MBH.">12, 6856.</ls> <ls>R. GORR. 2, 31, 25. 4, 9, 95.</ls> <ls>SUŚR. 1, 20, 16. 116, 16.</ls> <ls>RAGH. 9, 62.</ls> <ls>MEGH. 20</ls> (zugleich {%gering geachtet%}). 
+<ls n="AV.">10, 1, 29.</ls> <ls>MBH. 3, 2615.</ls> <ls n="MBH. 3,">10943.</ls> <ls n="MBH.">12, 6856.</ls> <ls>R. GORR. 2, 31, 25. 4, 9, 95.</ls> <ls>SUŚR. 1, 20, 16. 116, 16.</ls> <ls>RAGH. 9, 62.</ls> <ls>MEGH. 20</ls> (zugleich {%gering geachtet%}). 
 <ls>VṚDDHA-CĀṆ. 15,19.</ls> <ls>VARĀH. BṚH. S. 81,5. 6.</ls> <ls>RĀJA-TAR.3,128.</ls> <ls>Verz. d. Oxf. H. 231,a,44.</ls> <ls>BHĀG. P.2,10,23.8,12,23.</ls> <ls>PAÑCAT. 76,17. fg. 253,13.</ls> {#°कोष्ठ#} <lex>adj.</lex> {%einen leichten Unterleib —, nicht viel im Magen habend%} 
 <ls>KĀM. NĪTIS. 7, 36.</ls> {%leicht zu verdauen, nicht schwer im Magen liegend%} 
 <ls>SUŚR. 1, 149, 16. 18.</ls> {#उदक#} 
@@ -39,7 +39,7 @@ Bez. eines best. Fluges der Vögel
 <ls>MĀLAV. 65, 15.</ls> {#लघ्वन्तरात्मना#} 
 <ls>KATHĀS. 67, 108.</ls> {%leicht%} so v. a. {%ohne Gefolge%}: {#लघुर्भव महाराज लघुः स्वैरं गमिष्यसि#} 
 <ls>MBH. 3, 8449.</ls> {%leicht zu vollbringen%} 
-<ls>5, 739.</ls> {#धर्म#} 
+<ls n="MBH.">5, 739.</ls> {#धर्म#} 
 <ls>Spr. 580.</ls> {%leicht von Statten gehend%}: {#संहारविक्षेपलघुक्रियेण हस्तेन#} 
 <ls>RAGH. 5, 45.</ls> so v. a. {%leicht articulirt%} (neben {#मध्यम#} und {#गुरु#} von der Aussprache des {#व#}) 
 <ls>Ind. St. 10, 438.</ls> {%leicht%} so v. a. {%leicht machend%}: {#सत्त्व#} 
@@ -48,7 +48,7 @@ Bez. eines best. Fluges der Vögel
 <ls>ṚV. PRĀT. 2, 14.</ls> <ls n="ṚV. PRĀT.">17, 22.</ls> <ls n="ṚV. PRĀT.">18, 20.</ls> <ls n="ṚV. PRĀT. 18,">33.</ls> 
 <ls>AV. PRĀT. 1, 51.</ls> 
 <ls>TAITT. PRĀT. 2, 10.</ls> 
-<ls>P. 1, 4, 10. 7, 3, 86.</ls> 
+<ls>P. 1, 4, 10.</ls> <ls n="P.">7, 3, 86.</ls> 
 <ls>ŚĀNT. 2, 19. 21. 3, 14.</ls> 
 <ls>Ind. St. 8, 84. 89. 211. 426. 453. 467.</ls> 
 <ls>ŚRUT. 9. fgg. 22.</ls> 

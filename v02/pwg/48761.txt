@@ -1,7 +1,7 @@
 <L>48761<pc>4-0989<k1>प्रतीचीन<k2>प्रतीची꣡न<h>2
 2. {#प्रतीची꣡न#}¦ (wie eben) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
-<ls>P. 5, 4, 8,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 4, 8</ls>, <ls>Sch.</ls> 
+
 <div n="1"> 1) {%abgewandt, den Rücken bietend, aversus; nach hinten gewandt%}: {#शूर^स्येव\ युध्य^तो अन्त\मस्य^ प्रती\चीन^ं ददृशे\ विश्व^मा\यत्#} 
 <ls>ṚV. 3, 55, 8.</ls> {#पु\रस्ता^त्प्रती\चीन\मन्न^मद्यते#} {%von vorn nach hinten%} (Comm.: {#स्वाभिमुखम्#}) 
 <ls>TBR. 1, 3, 7, 7.</ls> {#°प्रजनन#} 
@@ -14,7 +14,7 @@
 <ls>3, 3, 8.</ls> 
 <div n="1">— 2) {%hinten befindlich, von hinten kommend%}: {#प्र\तीची^ं त्वा प्र\तीचीन\ः शाले\ प्रैमि^#} 
 <ls>AV. 9, 3, 22.</ls> {#प्र\ती\चीन^ः प्र\तीची^ः कृ\त्या आ\कृत्या\मून्कृ^त्या\कृतो^ जहि#} 
-<ls>10, 1, 6.</ls> {#°नम्#} adv. {%hinten, hinter%} 
+<ls n="AV.">10, 1, 6.</ls> {#°नम्#} adv. {%hinten, hinter%} 
 <ls>KĀṬH. 11, 5.</ls> 
 <ls>TS. 3, 5, 1, 3.</ls> 
 <div n="1">— 3) {%nachfolgend, zukünftig%}: {#प्र\ती\चीने\ मामह\नीष्वा^ः प\र्णमि\वा द^धुः#} 

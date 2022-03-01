@@ -1,6 +1,6 @@
 <L>51638<pc>4-1212<k1>फुल्ल<k2>फुल्ल
 {#फुल्ल#}¦ (partic. von 1. {#फल्#}) 
-<ls>P. 7, 4, 89. 8, 2, 55.</ls> 
+<ls>P. 7, 4, 89.</ls> <ls n="P.">8, 2, 55.</ls> 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} ({%gespalten, aufgebrochen) aufgeblüht, blühend, mit Blumen besetzt%} 
 <ls>VOP. 26, 101.</ls> 
 <ls>AK. 2, 4, 1, 8.</ls> 
@@ -16,8 +16,8 @@
 <ls>CAURAP. 1.</ls> {#कानन#} 
 <ls>MĀRK. P. 63, 1.</ls> {#अशोकानां वनानीव फुल्लानि कुसुमैः शुभैः#} 
 <ls>MBH. 4, 1704.</ls> {#फुल्लासु च पद्मिनीषु#} 
-<ls>13, 521.</ls> {#सरस्#} 
-<ls>1, 1811.</ls> {#सरांसि च सुफुल्लानि#} 
+<ls n="MBH.">13, 521.</ls> {#सरस्#} 
+<ls n="MBH.">1, 1811.</ls> {#सरांसि च सुफुल्लानि#} 
 <ls>R. 2, 68, 14.</ls> {%weit geöffnet%} (von Augen): {#स्फुटत्कुमुदिनीफुल्लोल्लसल्लोचना#} 
 <ls>Spr. 546.</ls> von einem {%lachenden%} Gesicht und einer {%aufgeblühten%} Wasserrose 
 <ls>KĀVYĀD. 2, 193.</ls> 

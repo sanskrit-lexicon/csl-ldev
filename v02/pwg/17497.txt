@@ -1,7 +1,7 @@
 <L>17497<pc>2-0310<k1>कुञ्ज<k2>कुञ्ज
 {#कुञ्ज#}¦ 
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 251,a, ult.</ls> <ls>TRIK.3,5,13.</ls> 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 251,a, ult.</ls> <ls>TRIK.3,5,13.</ls> 
 <div n="2"> a) {%ein von Pflanzen eingeschlossener Platz, Laube%} 
 <ls>AK. 2, 3, 8.</ls> 
 <ls>H. 1115.</ls> 
@@ -11,8 +11,8 @@
 <ls>INDR. 1. 25.</ls> 
 <ls>MEGH. 19.</ls> {#हिमवद्गिरिकुञ्जेषु#} 
 <ls>MBH. 1, 6067.</ls> {#नदीकुञ्जेषु#} 
-<ls>4, 894.</ls> {#नदीकुञ्जनितम्बैश्च प्रासादैरुपशोभितम् (हिमवन्तम्)#} 
-<ls>3, 9925.</ls> {#ऋक्षा वृक्षान्समारूढा वानराः कुञ्जमाश्रिताः#} 
+<ls n="MBH.">4, 894.</ls> {#नदीकुञ्जनितम्बैश्च प्रासादैरुपशोभितम् (हिमवन्तम्)#} 
+<ls n="MBH.">3, 9925.</ls> {#ऋक्षा वृक्षान्समारूढा वानराः कुञ्जमाश्रिताः#} 
 <ls>R. 6, 7, 37.</ls> {#बभुनिम्ने दरीकुञ्जे#} 
 <ls>4, 26, 6.</ls> {#पूतग्रावगिरीन्द्रकन्दरदरीकुञ्जे निवासः#} 
 (v. l. {#°कुञ्जेषु वासः#}) 
@@ -28,8 +28,8 @@
 <ls>MBH. 3, 6078. fgg.</ls> Nirgends entschiedenes neutr. Vgl. {#निकुञ्ज#} . 
 <div n="2">— b) {%Kinnlade%} 
 <ls>H. an.</ls> <ls>MED.</ls> {%Kinnlade des Elephanten%} 
-<ls>P. 5, 2, 107, <is>Vārtt</is>. 1,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 5, 2, 107</ls>, <is>Vārtt</is>. 1, <ls>Sch.</ls> 
+
 <div n="2">— c) {%Zahn%} 
 <ls>AK. 3, 4, 7, 33.</ls> {%Elephantenzahn%} 
 <ls>H. an.</ls> <ls>MED.</ls> 

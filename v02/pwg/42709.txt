@@ -1,12 +1,12 @@
 <L>42709<pc>4-0515<k1>परिग्रह<k2>परिग्रह꣡
 {#परिग्रह꣡#}¦ (wie eben) <lex>m.</lex> 
-<ls>P. 3, 3, 47,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 47</ls>, <ls>Sch.</ls> 
+
 <div n="1"> 1) {%das Umfassen, Umspannen%}: {#कण्ठाश्लेषपरिग्रहे#} 
 <ls>PAÑCAT. IV, 7.</ls> {#(यूपौ) वाहुभ्यामपरिग्रहौ#} 
 <ls>R. 1, 13, 25.</ls> {#परिग्रहार्थीय#} 
 <ls>NIR. 1, 7. 5, 22.</ls> {%das Umfassen, Einschliessen%} in übertr. Bed.: {#बहुवचनमनुक्ततद्धितपरिग्रहार्थम्#} 
-<ls>Sch.</ls> zu <ls>P. 4, 1, 76. 2, 2, 26. 3, 2, 112. 4, 3, 68. 5, 1, 95. 6, 1, 170</ls> (<ls>Bd. II).</ls> {#अन्त इति परिग्रहापेक्षया समाप्तिरुच्यते#} 
+<ls>Sch.</ls> zu <ls>P. 4, 1, 76.</ls> <ls n="P.">2, 2, 26.</ls> <ls n="P.">3, 2, 112.</ls> <ls n="P.">4, 3, 68.</ls> <ls n="P.">5, 1, 95.</ls> <ls n="P.">6, 1, 170</ls> (<ls>Bd. II).</ls> {#अन्त इति परिग्रहापेक्षया समाप्तिरुच्यते#} 
 <ls>2, 1, 6.</ls> concr. {%Einfassung%} (der <is>Vedi</is>, {#पूर्व#} und {#उत्तर#}, durch je drei gezogene Linien oder Furchen) 
 <ls>ŚAT. BR. 1, 2, 5, 11. fgg. 2, 6, 1, 12.</ls> 
 <ls>KĀTY. ŚR. 2, 6, 25. 6, 2, 5. 8, 6, 25.</ls> 
@@ -70,7 +70,7 @@
 <ls>HARIV. 4390.</ls> {#परिग्रहाश्च विपया दोपप्राप्ताः, परिग्रहं शुभं धर्मम्#} 
 <ls n="HARIV.">11893. fg.</ls> {#बहुशस्त्र° (सैन्य)#} {%im Besitz seiend von, versehen mit%} 
 <ls>MBH. 6, 3317.</ls> {#सर्वातोद्य°#} 
-<ls>13, 1174.</ls> {#चिन्तितोपस्थिताग्नेयकृपाणैक°#} 
+<ls n="MBH.">13, 1174.</ls> {#चिन्तितोपस्थिताग्नेयकृपाणैक°#} 
 <ls>VID. 78.</ls> {#प्रमदा°#} 
 <ls>BHĀG. P. 4, 27, 3.</ls> {#शरीरमात्र°#} 
 <ls>5, 5, 28.</ls> {#मृगशृङ्गपरिग्रहा (तनु)#} 
@@ -108,7 +108,7 @@
 <ls>HARIV. 6503.</ls> {#भौमो मुनेः स्थानपरिग्रहो ऽयम्#} 
 <ls>RAGH. 13, 36.</ls> 
 <div n="1">— 10) {%das Auffassen, Verstehen%}: {#स्त्रीलिङ्गनिर्देश आकारस्य स्त्रीबोधकस्य परिग्रहार्थः#} {%dient dazu dass man darunter das das weibliche Geschlecht bezeichnende%} {#आ#} {%verstehe%}, 
-<ls>Schol.</ls> zu <ls>P. 7, 3, 46. 1, 2, 47.</ls> 
+<ls>Schol.</ls> zu <ls>P. 7, 3, 46.</ls> <ls n="P.">1, 2, 47.</ls> 
 <div n="1">— 11) {%das Unternehmen, sich-Hingeben, sich-Unterziehen, Treiben%}: {#असत्कार्य°#} 
 <ls>M. 12, 32.</ls> {#कर्म°#} 
 <ls>R. 5, 81, 13.</ls> {#वैर°#} 
@@ -141,7 +141,7 @@
 <ls>MBH. 13, 3344.</ls> {#स्वं नास्त्यराजके राष्ट्रे पुंसां न च परिग्रहः#} 
 <ls>R. GORR. 2, 69, 11.</ls> {#वराहो मत्परिग्रहः#} {%auf den ich Ansprüche mache%} 
 <ls>MBH. 3, 1569.</ls> {#मम पूर्वपरिग्रहः#} {%ich habe frühere Ansprüche darauf%} 
-<ls>11957. 17253. 17259. 17327. fg.</ls> 
+<ls n="MBH. 3,">11957.</ls> <ls n="MBH. 3,">17253.</ls> <ls n="MBH. 3,">17259.</ls> <ls n="MBH. 3,">17327. fg.</ls> 
 <div n="1">— 16) {%Beziehung zu%}: {#नहि शूद्रस्य यज्ञेषु कश्चिदस्ति परिग्रहः#} 
 <ls>M. 11, 113.</ls> {#धिगस्तु खलु मानुष्यं मानुषेषु परिग्रहम्#} 
 <ls>MBH. 11, 198.</ls> {#मनसि तत्त्वविदां तु विवेचके क्व विषयाः क्व सुखं क्व परिग्रहः#} {%Beziehungen zur Aussenwelt, Gebundenheit%} 
@@ -170,7 +170,7 @@
 <ls>H. an.</ls> ({#मूल्य#}). 
 <ls>MED.</ls> {#सर्वथा धर्ममूलो ऽर्थो धर्मश्चार्थपरिग्रहः#} 
 <ls>MBH. 3, 1292.</ls> {#अर्थो द्रव्यपरिग्रहः#} 
-<ls>1298.</ls> 
+<ls n="MBH. 3,">1298.</ls> 
 <div n="1">— 20) in der <is>Veda</is>-Grammatik {%doppelte Aufführung eines Wortes, vor und nach%} {#इति#} 
 <ls>ṚV. PRĀT. 3, 14.</ls> <ls n="ṚV. PRĀT.">10, 13.</ls> <ls n="ṚV. PRĀT.">11, 16.</ls> <ls n="ṚV. PRĀT. 11,">19.</ls> <ls n="ṚV. PRĀT. 11,">22.</ls> {#संहितावत्पूर्ववचनं पदवदुत्तरम् तयोरितिकरणमाद्युदात्तं मध्ये । स परिग्रहः#} 
 <ls>UPALEKHA 4, 12.</ls> {%die dem%} {#इति#} {%vorangehende Form%} ebend. 

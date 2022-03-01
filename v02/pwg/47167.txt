@@ -3,7 +3,7 @@
 <ls>UṆĀDIS.2,12.</ls> <ls>ŚĀNT.1,16.</ls> n. <ls>TRIK.3,5,7.</ls> <ls>SIDDH. K. 249,a,6.</ls> euphonisches Verhalten eines vorangehenden gen. 
 <ls>AV. PRĀT. 2, 69.</ls> 
 <ls>P. 8, 3, 53. fg.</ls> wann ein auf {#पृष्ठ#} ausgehendes <lex>adj.</lex> comp. paroxytonirt ist, 
-<ls>6, 2, 114.</ls> 
+<ls n="P.">6, 2, 114.</ls> 
 <div n="1"> 1) {%der hervorragende Rücken der Thiere, Rücken%} überh. 
 <ls>NIR. 4, 3.</ls> 
 <ls>AK. 2, 6, 2, 29.</ls> 
@@ -11,8 +11,8 @@
 <ls>an. 2, 108.</ls> 
 <ls>MED. ṭh. 7.</ls> <ls>HALĀY. 2, 373.</ls> {#पृष्ठे सद^ः#} 
 <ls>ṚV. 5, 61, 2.</ls> <ls n="ṚV.">6, 75, 5.</ls> {#पृ\ष्ठेव^ वी\ता वृ^जि\ना च^#} 
-<ls>4, 2, 11</ls> (vgl. <ls>10, 89, 3</ls>). <ls>5, 6.</ls> {#र\यिमि^व पृ\ष्ठं प्र\भव^न्तम्#} {%mehr als der Rücken fassen kann%} 
-<ls>2, 13, 4. - 9, 14, 7.</ls> <ls>AV. 9, 5, 20.</ls> <ls>VS. 11, 10.</ls> <ls>TBR. 1, 5, 6, 1.</ls> {#अन्यो ऽन्यस्य पृष्ठे प्रधावतः#} 
+<ls n="ṚV.">4, 2, 11</ls> (vgl. <ls n="ṚV.">10, 89, 3</ls>). <ls n="ṚV. 10,">5, 6.</ls> {#र\यिमि^व पृ\ष्ठं प्र\भव^न्तम्#} {%mehr als der Rücken fassen kann%} 
+<ls n="ṚV.">2, 13, 4.</ls> - <ls n="ṚV.">9, 14, 7.</ls> <ls>AV. 9, 5, 20.</ls> <ls>VS. 11, 10.</ls> <ls>TBR. 1, 5, 6, 1.</ls> {#अन्यो ऽन्यस्य पृष्ठे प्रधावतः#} 
 <ls>ŚAT. BR. 4, 4, 5, 23. 11, 2, 2, 6.</ls> 
 <ls>KĀTY. ŚR. 16, 2, 18.</ls> 
 <ls>KAUŚ. 27.</ls> 
@@ -36,10 +36,10 @@
 <lang n="greek">νῶτος,</lang> {%tergum%} u. s. w.): des Himmels 
 <ls>ṚV. 1, 115, 3.</ls> <ls n="ṚV. 1,">166, 5.</ls> <ls n="ṚV.">3, 2, 12.</ls> <ls n="ṚV.">9, 86, 27.</ls> {#रोदसोः#} 
 <ls n="ṚV. 9,">22, 5.</ls> <ls>TBR. 1, 2, 1, 24. 2, 4, 2, 6.</ls> <ls>VS. 17, 65. 23, 50.</ls> {#नाक^स्य पृ\ष्ठाद्दिव^मुत्पति\ष्यन्#} 
-<ls>AV. 18, 4, 14. 2, 47.</ls> 
+<ls>AV. 18, 4, 14.</ls> <ls n="AV. 18,">2, 47.</ls> 
 <ls>MUṆḌ. UP. 1, 2, 10.</ls> 
 <ls>MBH. 13, 4882.</ls> {#दि\वस्पृ\ष्ठानि^#} 
-<ls>AV. 12, 2, 12. 18, 1, 61.</ls> eines Berges 
+<ls>AV. 12, 2, 12.</ls> <ls n="AV.">18, 1, 61.</ls> eines Berges 
 <ls>ṚV. 5, 36, 2.</ls> <ls n="ṚV.">6, 24, 6.</ls> 
 <ls>TAITT. UP. 1, 10.</ls> <ls>M. 7, 147.</ls> <ls>R. 6, 4, 40.</ls> <ls>KATHĀS. 44, 5.</ls> <ls>MĀRK. P. 57, 55.</ls> eines Baumes 
 <ls>KATHĀS. 5, 19. 42, 47.</ls> {#स्तम्भ°#} 
@@ -72,7 +72,7 @@ Backsteins
 <ls>H. 59.</ls> - <ls>ṚV. 1, 58, 2.</ls> {#अ\भीमह\ स्वजे^न्य\ं भूमा^ पृ\ष्ठेव^ रुरुहुः#} 
 <ls n="ṚV.">5, 7, 5.</ls> {#पृ\ष्ठं स^मा\नाना^ं स्याम्#} 
 <ls>TS. 2, 1, 6, 1.</ls> {#सह꣡स्र°#} {%tausendflächig%}: {#ब्रह्मौदन#} 
-<ls>AV. 11, 1, 19. 20.</ls> {#रुक्म°, सुवर्ण°#} so v. a. {%von Aussen mit Gold belegt, vergoldet%}: {#धनुस्#} 
+<ls>AV. 11, 1, 19.</ls> <ls n="AV. 11, 1,">20.</ls> {#रुक्म°, सुवर्ण°#} so v. a. {%von Aussen mit Gold belegt, vergoldet%}: {#धनुस्#} 
 <ls>MBH. 3, 11079.</ls> 
 <ls>HARIV. 6846.</ls> 
 <ls>R. 2, 100, 19.</ls> 

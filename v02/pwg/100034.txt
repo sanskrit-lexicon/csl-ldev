@@ -1,7 +1,7 @@
 <L>100034<pc>7-0231<k1>शील<k2>शी꣡ल<h>1
 1. {#शी꣡ल#}¦ 
 <ls>UṆĀDIS. 4, 38</ls> (oxyt.) <lex>m.</lex> (dieses nicht zu belegen) und <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} 
-zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 250,b,8.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex>
+zu <ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 250,b,8.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex>
 [Page7-0232]
 {#आ#} . 
 <div n="1"> 1) {%Gewohnheit, angeborene%} oder {%anerzogene Art und Weise zu sein, Charakter%} 
@@ -14,7 +14,7 @@ zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 250,b,8.</ls> am Ende eines <lex>adj.</lex> 
 <ls>2, 6.</ls> {#श्रुतशीले#} 
 <ls>11, 22.</ls> <ls>YĀJÑ. 3, 44.</ls> {#कौमारिकाणां शीलेन वक्ष्याम्यहम्#} 
 <ls>MBH. 1, 4054.</ls> {#तुल्यशीलवयोयुक्ता#} 
-<ls>3, 2677. 13, 6626.</ls> {#शरीरशीलयोर्यस्य प्रकृतेर्विकृतिर्भवेत्#} 
+<ls n="MBH.">3, 2677.</ls> <ls n="MBH.">13, 6626.</ls> {#शरीरशीलयोर्यस्य प्रकृतेर्विकृतिर्भवेत्#} 
 <ls>SUŚR. 1, 112, 12.</ls> {#मनुजाकृतिशीलयुक्त#} 
 <ls>VARĀH. BṚH. 24, 2.</ls> {#अज्ञातकुल°#} <lex>adj.</lex> 
 <ls>Spr. (II) 106. fg.</ls> <ls n="Spr. (II)">3532.</ls> {#एकोदरसमुद्भूताः - न भवन्ति समाः शीले#} 
@@ -37,7 +37,7 @@ zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 250,b,8.</ls> am Ende eines <lex>adj.</lex> 
 <ls>R. 2, 54, 36.</ls> {#असत्य°#} <lex>adj.</lex> 
 <ls>Spr. (II) 751.</ls> {#स्पृहणीय°#} <lex>adj.</lex> 
 <ls>BHĀG. P. 3, 15, 25.</ls> {#भगवत्प्रतिकूल°#} <lex>adj.</lex> 30. Ueberaus häufig in comp. mit dem, was Einem zur {%Gewohnheit%} geworden ist, wozu man eine besondere Neigung oder Fähigkeit besitzt 
-<ls>P. 3, 2, 1, <is>Vārtt</is>. 6</ls> (mit dem ursprünglichen Tone des ersten Wortes). {#स्नानशीलादिगुणभूषित#} 
+<ls>P. 3, 2, 1</ls>, <is>Vārtt</is>. 6 (mit dem ursprünglichen Tone des ersten Wortes). {#स्नानशीलादिगुणभूषित#} 
 <ls>RĀJA-TAR. 5, 469.</ls> meistens am Ende eines <lex>adj.</lex> comp.: {#ऋतसत्य°#} 
 <ls>ĀŚV. ŚR. 2, 1, 5.</ls> {#अध्व°, अक्ष°#} {%Läufer, Spieler%} 
 <ls>ĀPAST. 2, 16, 13.</ls> {#क्रोध°#} 
@@ -47,7 +47,7 @@ zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 250,b,8.</ls> am Ende eines <lex>adj.</lex> 
 <ls>PAÑCAR. 2, 3, 29.</ls> <ls>SARVADARŚANAS. 44, 4.</ls> {#विप्रसारण°#} 
 <ls>SUŚR. 1, 115, 16.</ls> {#नियुद्ध°#} 
 <ls>MBH. 4, 240.</ls> {#गायनाख्यान°#} 
-<ls>2364.</ls> {#स्तुति°#} 
+<ls n="MBH. 4,">2364.</ls> {#स्तुति°#} 
 <ls>R. 2, 65, 2.</ls> {#जेतुमेषण°#} 
 <ls>KĀM. NĪTIS. 8, 6.</ls> {#नियमव्रत°#} 
 <ls>R. GORR. 2, 28, 28.</ls> {#परिहास°#} 
@@ -83,7 +83,7 @@ zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 250,b,8.</ls> am Ende eines <lex>adj.</lex> 
 <ls>MBH. 3, 2992.</ls> 
 <ls>BHĀG. P. 4, 13, 21.</ls> {#°ज्ञाननिधि#} 
 <ls>MBH. 1, 5358.</ls> {#°वृद्ध#} 
-<ls>3, 16677.</ls> {#संपन्ना चैव शीलतः#} 
+<ls n="MBH.">3, 16677.</ls> {#संपन्ना चैव शीलतः#} 
 <ls>M. 9, 82.</ls> {#°संपन्न#} 
 <ls>MBH. 1, 6135.</ls> 
 <ls>Spr. (II) 2284.</ls> <ls n="Spr. (II)">4116.</ls> 
@@ -94,7 +94,7 @@ zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 250,b,8.</ls> am Ende eines <lex>adj.</lex> 
 <ls>ĀŚV. GṚHY. 1, 5, 3. 4, 7, 2.</ls> {#शीलोपसंपन्न#} 
 <ls>Spr. 3115.</ls> 
 <ls>MBH. 3, 2426.</ls> {#कुलशीलसमन्वित#} 
-<ls>2783. 2790.</ls> {#प्रतिलब्ध°#} <lex>adj.</lex> 
+<ls n="MBH. 3,">2783.</ls> <ls n="MBH. 3,">2790.</ls> {#प्रतिलब्ध°#} <lex>adj.</lex> 
 <ls>BHĀG. P. 3, 16, 7.</ls> {#साध्वीनां तु स्थितानां तु शीले सत्ये श्रुते #}
 [Page7-0233]
 {# स्थिते#} 

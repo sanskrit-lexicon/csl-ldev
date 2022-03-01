@@ -30,7 +30,7 @@
 <ls>H. an. 2, 173. fg.</ls> 
 <ls>MED. t. 26.</ls> {#य एते धातवः पञ्च ब्रह्मा यानसृजत्पुरा । आवृता यैरिमे लोका महाभूताभिसंज्ञितः#} (sic) {#॥#} 
 <ls>MBH. 12, 6821.</ls> {#तदव्यक्तमनुद्रिक्तं सर्वव्यापि ध्रुवं स्थिरम् । नवद्वारं पुरं विद्यात्त्रिगुणं पञ्चधातुकम् ॥#} 
-<ls>14, 987. 991.</ls> {#वायुं पूर्वमथो सृष्ट्वा यो धातुर्धातृसत्तमः#} (sic) {#। धारणाद्धातुशब्दं च लभते लोकसंज्ञितम् ॥#} 
+<ls n="MBH.">14, 987.</ls> <ls n="MBH. 14,">991.</ls> {#वायुं पूर्वमथो सृष्ट्वा यो धातुर्धातृसत्तमः#} (sic) {#। धारणाद्धातुशब्दं च लभते लोकसंज्ञितम् ॥#} 
 <ls>HARIV. 11591.</ls> {#स्त्रीपुंसयोस्तु संयोगे विशुद्धे शुक्रशोणिते । पञ्चधातु स्वयं षष्ठ आदत्ते युगपत्प्रभुः ॥#} 
 <ls>YĀJÑ. 3, 72.</ls> {#ब्रह्म#} (diesem entspricht bei den Buddhisten {#विज्ञान, धर्म#}; s. weiter u.) {#खानिलतेजांसि जलं भूश्चेति धातवः#} 
 <ls>145.</ls> {#तृष्णानिरोधादब्धातौ क्षीणे तेजः समुत्थितम्#} 
@@ -63,14 +63,14 @@ den
 <ls>TAITT. ĀR. 10, 12</ls> (vgl. 
 <ls>Ind. St. 2, 88. 401</ls>). {#विमुच्यारण्ये स्वशरीरधातून्#} 
 <ls>MBH. 1, 3633.</ls> {#शरीरधातवो ह्यस्य मांसं रुधिरमेव च । नेशुर्ब्रह्मास्त्रनिर्दग्धा न च भस्माप्यदृश्यत ॥#} 
-<ls>3, 16530.</ls> {#धातुक्षयप्रशान्तात्मा निंर्द्वद्वः स विमुच्यते#} 
-<ls>14, 538.</ls> {#धातुषु क्षीयमाणेषु शमः कस्य न जायते#} 
+<ls n="MBH.">3, 16530.</ls> {#धातुक्षयप्रशान्तात्मा निंर्द्वद्वः स विमुच्यते#} 
+<ls n="MBH.">14, 538.</ls> {#धातुषु क्षीयमाणेषु शमः कस्य न जायते#} 
 <ls>PAÑCAT. I, 181.</ls> {#देहे स्वधातुविगमे#} 
 <ls>BHĀG. P. 2, 7, 49. 8, 7.</ls> 
 <ls>VARĀH. BṚH. S. 104, 16.</ls> 
 <ls>MBH. 12, 6842</ls> werden {#श्रोत्र, घ्राण, आस्य, हृदय#} und {#कोष्ठ#} als die aus dem Aether hervorgegangenen 
-<ls>5</ls> <is>Dhātu</is> im Körper der Menschen aufgeführt; hier ist {#धातु#} so v. a. {%Organ.%} 
-<ls>14, 1203</ls> wird das <is>Manas</is> ein {#हृदिस्थश्चेतनाधातुः#} genannt. Nach den Lexicogrr. bezeichnet {#धातु#} auch die {%fünf Sinnesorgane%} ({#इन्द्रिय#}) und die von ihnen wahrgenommenen {%fünf Eigenschaften der Urstoffe%} ({#गन्ध, रस, रूप, स्पर्श, शब्द#}), 
+<ls n="MBH. 12,">5</ls> <is>Dhātu</is> im Körper der Menschen aufgeführt; hier ist {#धातु#} so v. a. {%Organ.%} 
+<ls n="MBH.">14, 1203</ls> wird das <is>Manas</is> ein {#हृदिस्थश्चेतनाधातुः#} genannt. Nach den Lexicogrr. bezeichnet {#धातु#} auch die {%fünf Sinnesorgane%} ({#इन्द्रिय#}) und die von ihnen wahrgenommenen {%fünf Eigenschaften der Urstoffe%} ({#गन्ध, रस, रूप, स्पर्श, शब्द#}), 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls>; vgl. u. 6. 
 <div n="1">— 4) {%ein Grundbestandtheil der Erde, - der Gebirge, Mineral, Metall%}; = {#अश्मविकृति, ग्रावविकार#} 
 <ls>AK.</ls> <ls>H. an.</ls> = {#गैरिक#} (in dieser Bed. <lex>m.</lex> <lex>n.</lex> nach 
@@ -91,7 +91,7 @@ den
 <ls>83 (80,c),2. 4.7,5.</ls> <ls>RAGH.4,71.</ls> {#महामेरोर्यथा रूपं पञ्चभिर्धातुभिर्वृतम्#} 
 <ls>HARIV. 12025.</ls> Häufig wird unter {#धातु#} {%ein in flüssiger Gestalt hervorquellendes rothes Mineral%} (vgl. {#गैरिक#}) verstanden: {#रुधिरेणानुलिप्ताङ्गा निहताश्च महासुराः । अद्रीणामिव कूटानि धातुरक्तानि शेरते ॥#} 
 <ls>MBH. 1, 1172.</ls> {#क्षतजोक्षितसर्वाङ्गः क्षरन्स रुधिरं रणे । बभौ रामस्तदा राजन्मेरुर्धातुमिवोत्सृजन् ॥#} 
-<ls>5, 7153.</ls> {#अञ्जनाद्रिदृषत्खण्डा धातुस्यन्दोज्ज्वला इव#} 
+<ls n="MBH.">5, 7153.</ls> {#अञ्जनाद्रिदृषत्खण्डा धातुस्यन्दोज्ज्वला इव#} 
 <ls>RĀJA-TAR. 4, 329.</ls> {#धातुताम्राधर#} 
 <ls>KUMĀRAS. 6, 51.</ls> {#त्वामालिख्य प्रणयकुपितां धातुरागैः शिलायाम्#} 
 <ls>MEGH. 103.</ls> {#न्यस्ताक्षरा धातुरसेन यत्र भूर्जत्वचः#} 
@@ -101,7 +101,7 @@ den
 <ls>SUŚR. 2, 84, 7.</ls> 
 <div n="1">— 5) {%der Urstoff der Wörter, Verbalwurzel%} 
 <ls>AK.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>NIR. 1, 20. 3, 13. 19.</ls> <ls>ṚV. PRĀT. 6, 6.</ls> {#तदाख्यातं येन भावं#} ({#अभिदधाति#}) {#स धातुः#} 
-<ls>12, 5. 13, 14.</ls> <ls>P. 1, 3, 1. 3, 1, 32</ls> (auch {%abgeleitete Verbalstämme%} so genannt). 
+<ls>12, 5. 13, 14.</ls> <ls>P. 1, 3, 1.</ls> <ls n="P.">3, 1, 32</ls> (auch {%abgeleitete Verbalstämme%} so genannt). 
 <ls>MBH. 3, 17110.</ls> <ls n="MBH.">13, 4499.</ls> 
 <ls>SUŚR. 1, 77, 9.</ls> 
 <ls>RAGH. 3, 21. 12, 58.</ls> 

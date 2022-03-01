@@ -16,7 +16,7 @@
 <ls n="ṚV.">5, 11, 1.</ls> <ls n="ṚV.">3, 43, 5.</ls> {#कमा जन^ं चरति\ कासु^ वि\क्षु#} 
 <ls n="ṚV.">6, 21, 4.</ls> <ls n="ṚV.">1, 93, 8.</ls> {#द्वा जना^ या\तय^न्न\न्तरी^यते#} 
 <ls n="ṚV.">9, 86, 42.</ls> {#प्र नू स मर्त\ः शव^सा\ जना\ँ अति^ तस्थौ#} 
-<ls n="ṚV.">1, 64, 13.</ls> <ls n="ṚV. 1,">74, 5.</ls> <ls n="ṚV. 1,">75, 3.</ls> <ls n="ṚV. 1, 75,">4.</ls> <ls n="ṚV. 1,">81, 9.</ls> <ls n="ṚV. 1,">102, 5.</ls> <ls>AV. 4, 5, 7. 5, 11, 4. 30, 2. 14, 2, 59.</ls> <ls>ŚAT. BR. 11, 4, 1, 4. 13, 5, 4, 15.</ls> <ls>KĀTY. ŚR. 22, 1, 27.</ls> <ls>ŚĀṄKH. ŚR. 15, 19, 1.</ls> — {#अकर्माणो हि जीवन्ति स्थावरा नेतरे जनाः#} {%die anderen%} d. i. {%die lebenden Geschöpfe%} 
+<ls n="ṚV.">1, 64, 13.</ls> <ls n="ṚV. 1,">74, 5.</ls> <ls n="ṚV. 1,">75, 3.</ls> <ls n="ṚV. 1, 75,">4.</ls> <ls n="ṚV. 1,">81, 9.</ls> <ls n="ṚV. 1,">102, 5.</ls> <ls>AV. 4, 5, 7.</ls> <ls n="AV.">5, 11, 4.</ls> <ls n="AV. 5,">30, 2.</ls> <ls n="AV.">14, 2, 59.</ls> <ls>ŚAT. BR. 11, 4, 1, 4. 13, 5, 4, 15.</ls> <ls>KĀTY. ŚR. 22, 1, 27.</ls> <ls>ŚĀṄKH. ŚR. 15, 19, 1.</ls> — {#अकर्माणो हि जीवन्ति स्थावरा नेतरे जनाः#} {%die anderen%} d. i. {%die lebenden Geschöpfe%} 
 <ls>MBH. 3, 1204.</ls> {#नाल्पसंनिचयः कश्चिदासीत्तस्मिन् जनः पुरे#} 
 <ls>R. 1, 6, 7.</ls> {#जनत्रयम्#} {%drei Personen%} 
 <ls>3, 4, 46.</ls> {#साहं वृणे पञ्च जनान्पतित्वे#} 
@@ -80,7 +80,7 @@
 <ls>ṚV. 7, 89, 5.</ls> <ls n="ṚV.">4, 54, 3.</ls> {#स#} ({#अग्निः#}) {#य^क्ष\द्दैव्य\ं जन^म्#} 
 <ls n="ṚV.">5, 13, 3.</ls> <ls n="ṚV.">1, 31, 17.</ls> <ls n="ṚV. 1,">44, 6.</ls> <ls n="ṚV. 1,">45, 9.</ls> <ls n="ṚV. 1, 45,">10.</ls> <ls n="ṚV.">2, 30, 11.</ls> <ls n="ṚV.">6, 16, 6.</ls> <ls n="ṚV. 6,">52, 12.</ls> {#अस्ता^वि\ जनो^ दि\व्यो गये^न#} 
 <ls n="ṚV.">10, 63, 17.</ls> {#भुवो\ जन^स्य दि\व्यस्य\ राजा\ पार्थि^वस्य\ जग^तः#} 
-<ls>6, 22, 9. 9, 91, 2.</ls> Nach <ls>M. MüLLER</ls> in <ls>Z. d. d. m. G. 9, XXII</ls> soll der Ausdruck auch {%göttlicher Mensch%} so v. a. {%der himmlische%} <is>Agni</is> bedeuten. 
+<ls n="ṚV.">6, 22, 9.</ls> <ls n="ṚV.">9, 91, 2.</ls> Nach <ls>M. MüLLER</ls> in <ls>Z. d. d. m. G. 9, XXII</ls> soll der Ausdruck auch {%göttlicher Mensch%} so v. a. {%der himmlische%} <is>Agni</is> bedeuten. 
 <div n="3">— γ) bisweilen, ohne nähere Bezeichnung durch ein Pronomen, so v. a. {%die im Augenblick Jmd zunächst stehende Person, diese Person hier, dieser —, diese hier%}: {#किं नु मे मरणं श्रेयः परित्यागो जनस्य वा#} (hier versteht <is>Nala</is> u. {#जन#} {%seine Gattin%}) 
 <ls>N. 10, 10.</ls> {#क्व वयं क्व परोक्षमन्मथो मृगशावैः सममेधितो जनः#} 
 <ls>ŚĀK. 51.</ls> {#पृष्टा जनेन#} ({%von ihren beiden Freundinnen%}) {#समदुःखसुखेन बाला नेयं न वक्ष्यति मनोगतमाधिहेतुम्#} 

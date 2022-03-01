@@ -1,12 +1,12 @@
 <L>108632<pc>7-0945<k1>सार<k2>सा꣡र<h>2
 2. {#सा꣡र#}¦ ({#सार꣡#} 
 <ls>P. 3, 3, 17</ls>; vgl. 
-<ls>6, 1, 159</ls>) 
+<ls n="P.">6, 1, 159</ls>) 
 <div n="1"> 1) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} 
-zu <ls>P.2,4,31.</ls> <ls>SIDDH. K. 249,b,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} . 
+zu <ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 249,b,4.</ls> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} . 
 <div n="2"> a) {%die inneren festen Bestandtheile eines Körpers%}: {#ख\दि\रस्य^#} {%Kernholz%} 
 <ls>ṚV. 3, 53, 19.</ls> {#खदिर°, शाल°#} 
-<ls>P. 3, 3, 17, Schol.</ls> {#तिन्दुकसारेण निर्मितः पर्यङ्कः#} 
+<ls>P. 3, 3, 17</ls>, Schol. {#तिन्दुकसारेण निर्मितः पर्यङ्कः#} 
 <ls>VARĀH. BṚH. S. 79, 11.</ls> {#अभ्यन्तरगतैः सारैर्यथा तिष्ठन्ति भूरुहाः । अस्थिसारैस्तथा देहाः#} 
 <ls>SUŚR. 1, 339, 18.</ls> 
 <ls>ŚĀRṄG. SAṂH. 1, 5, 4.</ls> {#अस्थीनि न विनश्यन्ति साराण्येतानि देहिनाम्#} 
@@ -105,9 +105,9 @@ am Ende eines <lex>adj.</lex> comp.: {#वज्रसमान°#} ein Mann
 <ls>R. 3, 72, 1.</ls> {#°दर्शिन्#} 
 <ls>5, 84, 7.</ls> {#सारार्थिन्#} 
 <ls>MBH. 4, 1567.</ls> {#समुद्र°#} 
-<ls>2, 1893.</ls> {#कथासारो हि सा (कथा) मता#} 
-<ls>12, 12711.</ls> {#लोक°#} 
-<ls>14, 597.</ls> {#त्रिवर्ग°#} ({#धर्म#}) 
+<ls n="MBH.">2, 1893.</ls> {#कथासारो हि सा (कथा) मता#} 
+<ls n="MBH.">12, 12711.</ls> {#लोक°#} 
+<ls n="MBH.">14, 597.</ls> {#त्रिवर्ग°#} ({#धर्म#}) 
 <ls>KUMĀRAS. 5, 31.</ls> {#मुक्ता°#} 
 <ls>RAGH. 4, 50.</ls> 
 <ls>PAÑCAR. 1, 4, 54. 7, 49. 11, 13.</ls> {#वेद°, यज्ञ°, साम°#} 
@@ -131,7 +131,7 @@ am Ende eines <lex>adj.</lex> comp.: {#वज्रसमान°#} ein Mann
 <ls>R. GORR. 2, 109, 61.</ls> {#क्षमा°#} 
 <ls>HARIV. 15624. fg.</ls> {#धर्म°#} 
 <ls>R. 2, 33, 15.</ls> 
-<ls>Spr. (II) 3113.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>ŚRUT. 20.</ls> <ls>Spr. (II) 2789.</ls> <ls n="Spr. (II)">3738.</ls> <ls n="Spr. (II)">4253.</ls> <ls n="Spr. (II)">6233.</ls> <ls n="Spr. (II)">6985.</ls> <ls>GĪT. 5, 8.</ls> <ls>KATHĀS. 40, 48.</ls> <ls>VP. 1, 9, 22.</ls> <ls>BHĀG. P. 1, 19, 19. 3, 5, 45. 6, 9, 50. 8, 16,</ls> <ls>60.CAURAP. 5. 33.</ls>
+<ls>Spr. (II) 3113.</ls> <ls>WEBER, RĀMAT. UP. 338.</ls> <ls>ŚRUT. 20.</ls> <ls>Spr. (II) 2789.</ls> <ls n="Spr. (II)">3738.</ls> <ls n="Spr. (II)">4253.</ls> <ls n="Spr. (II)">6233.</ls> <ls n="Spr. (II)">6985.</ls> <ls>GĪT. 5, 8.</ls> <ls>KATHĀS. 40, 48.</ls> <ls>VP. 1, 9, 22.</ls> <ls>BHĀG. P. 1, 19, 19. 3, 5, 45. 6, 9, 50. 8, 16</ls>, <ls>60.CAURAP. 5. 33.</ls>
 [Page7-0947]
 
 <div n="2">— g) {%ein dem Temperamente eines Menschen zu Grunde liegender Hauptbestandtheil des Körpers%}: es werden deren acht oder auch nur sieben angenommen: {#सत्त्व#} (fehlt bei 
@@ -179,7 +179,7 @@ zu <ls>1, 21.</ls>
 <ls>HALĀY. 2, 28. 5, 67.</ls> = {#अस्थि#} 
 <ls>H. 626</ls> (neutr. 
 v. l.). = {#त्वचिसार#} 
-<ls>1153, Schol.</ls> = {#वज्रक्षार#} 
+<ls>1153</ls>, Schol. = {#वज्रक्षार#} 
 <ls>RĀJAN. 6, 256.</ls> = {#वायु#} (vgl. {#शार#}) 
 <ls>JAṬĀDH.</ls> im <ls>ŚKDR.</ls> = {#रोग#} 
 <ls>DHAR.</ls> ebend. = {#पाशक#} (vgl. {#शार#}) 

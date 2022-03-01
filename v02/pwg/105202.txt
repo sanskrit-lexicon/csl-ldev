@@ -3,7 +3,7 @@
 <ls>P. 4, 4, 105</ls> (oxyt.). 
 <ls>AK. 2, 7, 16. 3, 4, 22, 140.</ls> 
 <ls>H. 480.</ls> <is>Agni</is> 
-<ls>AV. 8, 10, 5. 19, 55, 6.</ls> 
+<ls>AV. 8, 10, 5.</ls> <ls n="AV.">19, 55, 6.</ls> 
 <ls>KĀTY. ŚR. 4, 9, 20. 15, 33.</ls> <ls>Schol. 356, 20.</ls> <ls>GṚHYAS. 1, 4.</ls> <ls>BHĀG. P. 3, 13, 36.</ls> <ls>TBR. 1, 2, 1, 26. 3, 7, 4, 6.</ls> {#एनस्#} 
 <ls>ŚAT. BR. 12, 9, 2, 3.</ls> {#वृद्धानां सभ्यानाम्#} {%der versammelten Alten%} 
 <ls>MBH. 2, 2180.</ls> <ls n="MBH.">4, 487.</ls> 

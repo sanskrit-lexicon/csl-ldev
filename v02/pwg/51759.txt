@@ -6,8 +6,8 @@
 <ls>PĀR. GṚHY. 1, 16.</ls> {#बन्धनस्त्वमसुराणां युधि शत्रुविनाशनः#} 
 <ls>MBH. 13, 1176.</ls> <ls n="MBH. 13,">1214.</ls> {#भाव° (प्रेमन्)#} {%die Herzen fesselnd%} 
 <ls>RAGH. 3, 24.</ls> {#हृदयस्य बन्धनः (मन्त्र)#} 
-<ls>P. 4, 4, 96,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 4, 4, 96</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) {%das Binden, Fesseln, Anbinden, Umbinden, Verbinden; Verband%} 
 <ls>AK. 2, 8, 1, 26.</ls> 
@@ -50,14 +50,14 @@
 <ls>37, 48.</ls> {#समय°#} <lex>adj.</lex> 
 <ls>MĀRK. P. 80, 11.</ls> {#तीर्णो बन्धनात्#} (in philos. Sinne) 
 <ls>MBH. 14, 532.</ls> {#(तम्) प्रसह्य बन्धने बद्ध्वा#} 
-<ls>1, 4993.</ls> <ls>R. 5, 12, 3.</ls> {#(तम्) राजा क्रोधनो बन्धने व्यधात्#} 
+<ls n="MBH.">1, 4993.</ls> <ls>R. 5, 12, 3.</ls> {#(तम्) राजा क्रोधनो बन्धने व्यधात्#} 
 <ls>RĀJA-TAR. 3, 104.</ls> {#बन्धनानि च सर्वाणि राजा मार्गे निवेशयेत्#} {%Gefängnisse%} 
 <ls>M. 9, 288.</ls> {#निजग्राह (तम्) चौरवद्राढबन्धने#} (so ist wohl st. {#°बन्धनं#} zu lesen) 
 <ls>HARIV. 9109.</ls> {#निर्गत्य बन्धनात्#} 
 <ls>KATHĀS. 49, 107.</ls> {#तन्मुच्यतां पञ्जरबन्धनादयं पक्षी#} 
 <ls>PAÑCAT. 192, 15.</ls> {#गृह्यकाः शुकाः पञ्जरादिबन्धनेन परतन्त्रीकृताः#} {%durch das Gefangenhalten in Käfigen%} 
-<ls>P. 3, 1, 119,</ls> 
-<ls>Sch.</ls> {%das Binden%} so v. a. {%Hemmen%}: {#प्रकरोति दाडिमफलव्याजेन वाग्बन्धनम्#} (beim Papageien) 
+<ls>P. 3, 1, 119</ls>, <ls>Sch.</ls>
+{%das Binden%} so v. a. {%Hemmen%}: {#प्रकरोति दाडिमफलव्याजेन वाग्बन्धनम्#} (beim Papageien) 
 <ls>Spr. 1109.</ls> = {#वध#} {%Tödtung%} 
 <ls>MED. n. 97.</ls> = {#हिंसा#} {%Leidzufügung%} 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 
@@ -81,7 +81,7 @@
 <ls>HALĀY. 2, 122.</ls>
 [Page5-0018]
 {#छि\न्ना नौरि^व\ बन्ध^नात्#} 
-<ls>AV. 3, 6, 7. 6. 14, 2.</ls> {#अश्वस्य#} 
+<ls>AV. 3, 6, 7.</ls> <ls n="AV. 3, 6,">6.</ls> <ls n="AV. 3,">14, 2.</ls> {#अश्वस्य#} 
 <ls>ŚAT. BR. 13, 1, 6, 2.</ls> 
 <ls>TBR. 3, 8, 9, 4.</ls> 
 <ls>CHĀND. UP. 6, 8, 2.</ls> {#ऊर्ध्व°#} 

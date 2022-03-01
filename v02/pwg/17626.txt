@@ -2,7 +2,7 @@
 {#कुण्ड꣡#}¦ 
 <ls>Uṇ. 1, 114.</ls> 
 <div n="1"> 1) <lex>m.</lex> (
-<ls>H.,</ls> <ls>Sch.</ls> <ls>H. an.</ls>) <lex>f.</lex> ({#ई#}) <lex>n.</lex> {%ein rundes Gefäss, Topf, Krug%} 
+<ls>H.</ls>, <ls>Sch.</ls> <ls>H. an.</ls>) <lex>f.</lex> ({#ई#}) <lex>n.</lex> {%ein rundes Gefäss, Topf, Krug%} 
 <ls>AK. 2, 9, 31. 7, 45.</ls> 
 <ls>TRIK. 3, 3, 111.</ls> 
 <ls>H. 1019.</ls> 
@@ -11,10 +11,10 @@
 <ls>KĀTY. ŚR. 24, 4, 40.</ls> {#दृतिकुण्डतापश्चितामयनानि#} 
 <ls>MAŚ.</ls> in <ls>Verz. d. B. H. 74.</ls> {#प्राक्षिपत्काञ्चने कुण्डे शुक्रं सा#} 
 <ls>MBH. 3, 14311.</ls> <ls n="MBH. 3,">14314.</ls> {#एवमष्टौ स कुण्डानि ह्यपिबत्#} 
-<ls>1, 5033. 5030. 5032. 4500. 4504.</ls> {#कुण्डोध्नी#} (vgl. {#घ्दोध्नी#} unter {#घट#}) 
+<ls n="MBH.">1, 5033.</ls> <ls n="MBH. 1,">5030.</ls> <ls n="MBH. 1,">5032.</ls> <ls n="MBH. 1,">4500.</ls> <ls n="MBH. 1,">4504.</ls> {#कुण्डोध्नी#} (vgl. {#घ्दोध्नी#} unter {#घट#}) 
 <ls>RAGH. 1, 84.</ls> {#मृत्कुण्डम्#} 
-<ls>P. 6, 2, 136,</ls> 
-<ls>Sch.</ls> {#कुण्डी꣡#} = {#अमत्र#} 
+<ls>P. 6, 2, 136</ls>, <ls>Sch.</ls>
+{#कुण्डी꣡#} = {#अमत्र#} 
 <ls>P. 4, 1, 42.</ls> 
 <ls>VOP. 4, 26.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%ein best. Maass%} 
@@ -30,8 +30,8 @@
 <ls>R. 4, 26, 4.</ls> {#आरूढास्तत्र पश्यन्ति पर्वते गन्धमादने । ऋषिकुण्डानि दिव्यानि फलानि विविधानि च ॥ स्नान्ति स्म गिरिकुण्डेषु#} 
 <ls>6, 84, 4. 5.</ls> {#सप्तर्षिकुण्ड#} (
 <ls>MBH. 3, 6042</ls>), {#स्तनकुण्ड#} (sc. {#गौर्याः#} 
-<ls>8130</ls>), {#श्रीकुण्ड#} (
-<ls>5028</ls>) Namen von <is>Tirtha</is>. {#शतसहस्रयोजने कृमिकुण्डे#} {%in einer mit Würmern angefüllten Grube%} 
+<ls n="MBH. 3,">8130</ls>), {#श्रीकुण्ड#} (
+<ls n="MBH. 3,">5028</ls>) Namen von <is>Tirtha</is>. {#शतसहस्रयोजने कृमिकुण्डे#} {%in einer mit Würmern angefüllten Grube%} 
 <ls>BHĀG. P. 5, 26, 18.</ls> {#अग्निकुण्ड#} {%eine Grube, in der heiliges Feuer gehalten wird%}: {#तत्र (तीर्थे) त्रीण्यग्निकुण्डानि#} 
 <ls>MBH. 3, 8216</ls> (<ls>R. 5, 10, 16</ls> dagegen: {%Kohlentopf%}). 
 <ls>KATHĀS. 8, 18. 20, 86.</ls> Auch ohne {#अग्नि#} 
@@ -54,12 +54,12 @@
 <ls>YĀJÑ. 1, 222.</ls> Vgl. {#कुण्डकीट, कुण्डाशिन्#} . 
 <div n="1">— 6) <lex>m.</lex> N. pr. eines <is>Nāga</is> 
 <ls>MBH. 1, 4828.</ls> eines Sohnes des <is>Dhṛtarāṣṭra</is> (vgl. {#कुण्डक, कुण्डज, कुण्डधार, कुण्डभेदिन्, कुण्डशायिन्, कुण्डाशिन्, कुण्डिक, कुण्डिन#}) 
-<ls>4550.</ls> ein Bein. <is>Śiva's</is> 
-<ls>12, 10358.</ls> 
+<ls n="MBH. 1,">4550.</ls> ein Bein. <is>Śiva's</is> 
+<ls n="MBH.">12, 10358.</ls> 
 <div n="1">— 7) <lex>f.</lex> {#आ#} ein Bein. der <is>Durgā</is> 
 <ls>H. ś. 55. 59.</ls> 
 <div n="1">— 8) <lex>f.</lex> {#कुण्डा꣡#} nom. act. von {#कुण्ड्#} 
-<ls>P. 3, 3, 103,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 103</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 9) <lex>f.</lex> {#कुण्डी#} s. u. 1.
 <LEND>

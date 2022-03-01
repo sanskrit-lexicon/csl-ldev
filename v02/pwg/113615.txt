@@ -21,7 +21,7 @@
 <ls>R. GORR. 2, 120, 15.</ls> {%bestreuen, bedecken%}: {#वेदिम्#} 
 <ls>KĀTY. ŚR. 2, 7, 22.</ls> {#यत्र वेदीं पुण्डरीकैः स्तृणोति#} 
 <ls>MBH. 13, 4896.</ls> {#उत्तमाङ्गैर्नृसिंहानां नृसिंहास्तस्तरुर्महीम्#} 
-<ls>8, 443.</ls> {#शिरोभिर्महीं तस्तार#} 
+<ls n="MBH.">8, 443.</ls> {#शिरोभिर्महीं तस्तार#} 
 <ls>RAGH. 4, 63. 7, 55.</ls> 
 <ls>KATHĀS. 27, 155.</ls> 
 <ls>RĀJA-TAR. 1, 102.</ls> 
@@ -29,7 +29,7 @@
 <ls>ṚV. 1, 129, 4.</ls> {#मा न^ः स्तर\भिमा^तये#} 
 <ls n="ṚV.">8, 3, 2.</ls> {#प\णिं गोषु स्तरामहे#} 
 <ls n="ṚV. 8,">64, 7.</ls> {#व\धैः#} 
-<ls>AV. 10, 5, 42. 15. 2, 27, 3.</ls> {#प्र\त्यगे^नमभिचा\रः स्तृ^णुते#} 
+<ls>AV. 10, 5, 42.</ls> <ls n="AV. 10, 5,">15.</ls> <ls n="AV.">2, 27, 3.</ls> {#प्र\त्यगे^नमभिचा\रः स्तृ^णुते#} 
 <ls>TBR. 1, 7, 7, 5.</ls> 
 <ls>ŚAT. BR. 1, 2, 5, 22. 2, 2, 2, 14.</ls> 
 <ls>AIT. BR. 2, 1. 35. 3, 15. fg. 4, 1. 7, 28. 8, 28.</ls> 
@@ -75,9 +75,9 @@
 
 <div n="p">— {#समव#} dass.: {#शरैः पुरुषवरं समवास्तृणोत्#} 
 <ls>MBH. 8, 1214.</ls> partic. {#°स्तीर्ण#} {%überzogen, bedeckt, erfüllt%}: {#रजसा तमसा चैव °चेतसः#} 
-<ls>13, 7560.</ls> {#°स्तृत#} dass.: {#अम्भसा#} 
-<ls>3, 12543.</ls> {#पतत्रिभिरन्तरिक्षं भूमिश्च सर्वतः#} 
-<ls>6, 2021.</ls>
+<ls n="MBH.">13, 7560.</ls> {#°स्तृत#} dass.: {#अम्भसा#} 
+<ls n="MBH.">3, 12543.</ls> {#पतत्रिभिरन्तरिक्षं भूमिश्च सर्वतः#} 
+<ls n="MBH.">6, 2021.</ls>
 
 <div n="p">— {#आ#} {%hinstreuen, ausbreiten, auseinanderlegen%}: {#कृष्णाजिनम्#} 
 <ls>ŚAT. BR. 3, 3, 4, 1. 5, 2, 1, 24.</ls> {#वसनम्#} 
@@ -146,7 +146,7 @@
 <ls>MBH. 6, 577.</ls> {#म\नु\ष्या^ इन्न्वा उप^स्तीर्णमि\च्छन्ति^#} {%etwas gut Belegtes%} oder {%Bedecktes%} 
 <ls>TS. 1, 6, 7, 3.</ls> {#अनुपस्तीर्णशायिन्#} {%auf unbelegtem Boden, auf der blossen Erde%} 
 <ls>MBH. 12, 6574.</ls> {#उपस्तीर्णा सभा#} {%belegt%} nämlich mit dem zum Würfelspiel erforderlichen Tuche oder dgl. 
-<ls>2, 2033.</ls> 
+<ls n="MBH.">2, 2033.</ls> 
 <div n="1">— 3) {%hinstreuen, hin legen als Decke%} u. s. w., {%ausbreiten, unterbreiten%} 
 <ls>ṚV. 6, 44, 6</ls> ({#उपस्तृणीष꣡णि#} infin.). {#चर्म^#} 
 <ls>AV. 14, 2, 22.</ls> 
@@ -175,7 +175,7 @@ zu <ls>AV. 7, 82, 3</ls>; vgl. <ls>AV. PRĀT. 2, 86.</ls> - <ls>TS. 4, 1, 7, 2</
 <ls>GṚHYAS. 2, 17.</ls>
 
 <div n="p">— {#परि#}, °{#स्तरितवै#} 
-<ls>P. 6, 2, 51, Schol.</ls> {%rings bestreuen, umlegen%}: das Feuer mit Gras 
+<ls>P. 6, 2, 51</ls>, Schol. {%rings bestreuen, umlegen%}: das Feuer mit Gras 
 <ls>ŚAT. BR. 1, 1, 1, 22. 7, 3, 28. 2, 6, 1, 15.</ls> 
 <ls>BṚH. ĀR. UP. 6, 3, 1.</ls> 
 <ls>KAUṢ. UP. 2, 3.</ls> 
@@ -319,9 +319,9 @@ zu <ls>AV. 7, 82, 3</ls>; vgl. <ls>AV. PRĀT. 2, 86.</ls> - <ls>TS. 4, 1, 7, 2</
 <ls>KAUṢ. UP. 2, 15.</ls> 
 <ls>SUŚR. 1, 6, 15.</ls> {#रत्नैः सभाम्#} 
 <ls>MBH. 2, 1774.</ls> {#तेषां शरीरैः संतस्तार भूमिम्#} 
-<ls>7, 1560.</ls> {#शय्यां दर्भैः#} 
-<ls>2776.</ls> {#मानवैः संस्तरन्महीम्#} 
-<ls>3395.</ls> 
+<ls n="MBH.">7, 1560.</ls> {#शय्यां दर्भैः#} 
+<ls n="MBH. 7,">2776.</ls> {#मानवैः संस्तरन्महीम्#} 
+<ls n="MBH. 7,">3395.</ls> 
 <div n="1">— 2) {%ausbreiten%} so v. a. {%einebnen%}: {#आयतनम्#} 
 <ls>KAUŚ. 16.</ls> {#आदेवनम्#} 41. — partic. 
 <div n="1"> 1) {#संस्तीर्ण#} {%hingestreut%} 

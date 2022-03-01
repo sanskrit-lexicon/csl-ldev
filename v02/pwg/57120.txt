@@ -42,19 +42,19 @@
 <ls>587.</ls> {#मध्यं नभसो गतमादित्यम्#} 
 <ls>M. 4, 37.</ls> 
 <ls>MBH. 13, 4971.</ls> mit Auslassung von {#नभसस्ः मध्यं गतमिवादित्यं प्रतपन्तम्#} 
-<ls>6, 4880.</ls> {#प्राप्ते मध्यं दिनेश्वरे#} 
+<ls n="MBH.">6, 4880.</ls> {#प्राप्ते मध्यं दिनेश्वरे#} 
 <ls>R. 1, 46, 16.</ls> {#मध्यं जगामेव मनसा दैन्यहर्षयोः#} {%ein Zustand zwischen Traurigkeit und Freude%} 
 <ls>2, 23, 1.</ls> {#बिल्व°#} {%das Innere%} 
 <ls>SUŚR. 2, 220, 12.</ls> {#आम्रास्थि°#} 
 <ls>434, 8. 439, 14. 476, 2.</ls> {#मध्यम्#} acc. {%mitten in, hinein in%}: {#मध्यमग्नेः प्रविश्य#} 
 <ls>MBH. 3, 2610.</ls> {#मध्यमामिषगृध्राणां कुरूणाम् - नेष्यामि त्वाम्#} 
-<ls>4, 1251.</ls> {#नगरमध्यं गच्छति#} {%in die Stadt%} 
+<ls n="MBH.">4, 1251.</ls> {#नगरमध्यं गच्छति#} {%in die Stadt%} 
 <ls>PAÑCAT. 10, 5.</ls> {#जनमध्यं विवेश#} {%mitten unter die Leute%} 
 <ls>MBH. 3, 2513.</ls> {#मध्येन#} {%dazwischen%} 
 <ls>VARĀH. BṚH. S. 8, 15.</ls> {%innerhalb, mitten durch%}: {#मध्येनान्तरक्षिस्य वायुर्भवति#} 
 <ls>ŚAT. BR. 9, 3, 1, 5.</ls> {#प्रागात्पुनर्महाबाहुराचार्यस्य रथं प्रति । पश्यतां सर्वसैन्यानां मध्येन#} 
 <ls>MBH. 6, 1578.</ls> {#येषां (देशानां) भागीरथी गङ्गा मध्येनैति#} 
-<ls>13, 1784.</ls> {#प्रावर्तत ततो घोरा शोणितौघतरंगिणी । नदी मध्येन सैन्यानाम्#} 
+<ls n="MBH.">13, 1784.</ls> {#प्रावर्तत ततो घोरा शोणितौघतरंगिणी । नदी मध्येन सैन्यानाम्#} 
 <ls>HARIV. 13471.</ls> {#तन्मध्येन ययुः#} {%durch den Fluss%} 
 <ls>MĀRK. P. 23, 92.</ls> die Ergänzung im acc.: {#जग्मुर्नदीं मध्येन#} 
 <ls>R. 2, 68, 12.</ls> {#मध्येन कुरुजाङ्गलम्#} 
@@ -78,7 +78,7 @@
 <ls>PAÑCAT. 10, 4.</ls> 
 <ls>MEGH. 77.</ls> {#सभा°#} {%in einer Hütte%} 
 <ls>MBH. 3, 2353.</ls> {%im Hause%} 
-<ls>16658.</ls> {#नगरस्य#} {%in der Stadt%} 
+<ls n="MBH. 3,">16658.</ls> {#नगरस्य#} {%in der Stadt%} 
 <ls>PAÑCAT. 127, 21.</ls> {#गङ्गा° वाह्यते#} 
 <ls>Z. d. d. m. G. 14, 571, 7.</ls> {#काष्ठमञ्जूषा° #}
 [Page5-0499]
@@ -105,7 +105,7 @@
 <ls>RAGH. 12, 29.</ls> {#सामादीनामुपायानां मध्ये कस्यात्र विषयः#} {%unter%} 
 <ls>PAÑCAT. 227, 22.</ls> {#तासां मध्य एकः#} 
 <ls>VET. in LA. (II) 11, 1. 14, 1. 29, 1.</ls> {#अचाम्#} 
-<ls>Schol.</ls> zu <ls>P. 1, 1, 47. 73.</ls> {#मध्ये विन्ध्यान्तः#} {%mitten im%} <is>Vindhya</is> 
+<ls>Schol.</ls> zu <ls>P. 1, 1, 47.</ls> <ls n="P. 1, 1,">73.</ls> {#मध्ये विन्ध्यान्तः#} {%mitten im%} <is>Vindhya</is> 
 <ls>KATHĀS. 4, 1.</ls> In Verbindung mit {#कर्ः मध्ये कृत्वा#} oder {#°कृत्य#} 
 <ls>P. 1, 4, 76.</ls> 
 <ls>VOP. 15, 5.</ls> {%in die Mitte thun%} so v. a. {%zum Vermittler machen%}: {#व्रतं चास्य (शूद्रस्य) प्रायश्चित्तरूपं साक्षान्नोपदिशेत् । किं तु ब्राह्मणं मध्ये कृत्वा तदुपदेशव्यवधानात्#} 
@@ -137,7 +137,7 @@
 <ls>CAURAP. 46.</ls> {#वेदिविलग्न°#} 
 <ls>KUMĀRAS. 1, 39.</ls> {#वेदी°#} 
 <ls>MBH. 2, 2178.</ls> {#तनु°#} 
-<ls>3, 2147.</ls> {#निमग्न°#} 
+<ls n="MBH.">3, 2147.</ls> {#निमग्न°#} 
 <ls>VIKR. 129.</ls> {#सु°#} 
 <ls>MĀRK. P. 22, 5.</ls> 
 <ls>BRAHMA-P. in LA. (II) 50, 5.</ls> {%Rumpf%} 
@@ -148,7 +148,7 @@
 <ls>H. 874.</ls> 
 <ls>COLEBR. Alg. 4.</ls> zwischen {#कोटि#} und {#परार्ध#} 
 <ls>MBH. 2, 2144.</ls> {#अर्बुदैरर्बुदशतैर्मध्यैरन्तैश्च#} 
-<ls>R. 4, 38, 55. Schol.</ls> : {#मध्यैः = मध्यदेशस्थैः, अन्तैः = देशप्रान्तस्थैः#} . 
+<ls>R. 4, 38, 55.</ls> Schol. : {#मध्यैः = मध्यदेशस्थैः, अन्तैः = देशप्रान्तस्थैः#} . 
 <div n="2">— e) {%Ende, Pause%} 
 <ls>TRIK. 3, 2, 29.</ls> 
 <div n="1">— 2) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
@@ -165,7 +165,7 @@
 <ls>VARĀH. BṚH. S. 17, 19.</ls> {#मुक्तागुणमिव भुवः स्थूलमध्येन्द्रनीलम्#} 
 <ls>MEGH. 47.</ls> 
 <div n="2">— c) {%in der Mitte befindlich%} so v. a. {%mittlerer Art, mittelmässig%}; = {#संप्रतिक#} 
-<ls>P. 4,3, 9.</ls>
+<ls>P. 4, 3, 9.</ls>
 [Page5-0500]
 = {#न्याय्य#} 
 <ls>AK. 3, 4, 24, 163.</ls> 
@@ -190,15 +190,15 @@
 <ls>PRATĀPAR.6,a,9.</ls> {#यव#} {%von mittlerer Grösse%} 
 <ls>M. 8, 134.</ls> 
 <ls>YĀJÑ. 1, 362.</ls> {#दारु#} 
-<ls>SIDDH. K.</ls> zu <ls>P.4,3,9.</ls> {#मध्यवेगेन या गतिः#} 
+<ls>SIDDH. K.</ls> zu <ls>P. 4, 3, 9.</ls> {#मध्यवेगेन या गतिः#} 
 <ls>H. 1248.</ls> 
 <ls>SŪRYAS. 1, 53. 70. 2, 44. 47.</ls> 
 <ls>SIDDHĀNTAŚIR. 4.</ls> <ls>WEBER, Nakṣ. 1, 310.</ls> {#सस्यानि#} 
 <ls>VARĀH. BṚH. S. 5, 85. 8, 15. 16. 24, 33.</ls> 
 <ls>MĀRK. P. 21, 100.</ls> {#मध्या वृत्तिः#} {%die Mittelstrasse%} 
 <ls>Spr. 2252.</ls> {#मीमांसक#} {%gemässigt%} 
-<ls>P. 4, 3, 9,</ls> 
-<ls>Sch.</ls> Nach <ls>P. 4, 3, 9</ls> ist {#मध्य#} in dieser Bed. oxyt. 
+<ls>P. 4, 3, 9</ls>, <ls>Sch.</ls>
+Nach <ls>P. 4, 3, 9</ls> ist {#मध्य#} in dieser Bed. oxyt. 
 <div n="2">— d) {%zwischen zwei feindlichen Parteien stehend, unbetheiligt, neutral%}: {#मध्योदासीनचरितज्ञान#} 
 <ls>KĀM. NĪTIS. 13, 49.</ls> 
 <div n="2">— e) {%der niedrigste, schlechteste%} ({#अधम#}) 

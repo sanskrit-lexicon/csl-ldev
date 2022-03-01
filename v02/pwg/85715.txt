@@ -27,8 +27,8 @@
 <ls>H. an. 2, 282.</ls> 
 <ls>MED. n. 18.</ls> {#कथं चास्य शिरो लग्नम्#} 
 <ls>MBH. 9, 2254.</ls> {#महोदरस्य तल्लग्नं जङ्घायाम्#} 
-<ls>2257. fg.</ls> {#लग्नैः शङ्खनखैर्गात्रे#} (so die ed. Bomb.) 
-<ls>13, 2660.</ls> {#लग्नगर्भा विमुच्येत#} 
+<ls n="MBH. 9,">2257. fg.</ls> {#लग्नैः शङ्खनखैर्गात्रे#} (so die ed. Bomb.) 
+<ls n="MBH.">13, 2660.</ls> {#लग्नगर्भा विमुच्येत#} 
 <ls n="MBH.">12, 13126</ls> = <ls>HARIV. 14383</ls> ({#प्रमुच्येत#}). {#कण्ठे लग्ना#} {%am Halse hängend%} (eine Geliebte) 
 <ls>KATHĀS. 12, 88. 37, 227.</ls> {#कण्ठलग्ना#} 
 <ls>MEGH. 110.</ls> 
@@ -151,8 +151,8 @@ u.s.w. : {#लग्नो वां शोभनो राजन्नस्त
 <ls>43.</ls> 
 <div n="v">— Vgl. {#भूलग्ना, भूरि°, मधुलग्न, मध्य°#} . 
 <div n="1">— 2) {#लगित#} 
-<ls>P. 7, 2, 18,</ls> 
-<ls>Sch.</ls> {#गृध्रो महामन्त्री दुर्गाभ्यन्तरं लगितः#} 
+<ls>P. 7, 2, 18</ls>, <ls>Sch.</ls>
+{#गृध्रो महामन्त्री दुर्गाभ्यन्तरं लगितः#} 
 (v. l. {#चलितः, प्रचलितः#}) vielleicht {%schlüpfte in%} 
 <ls>HIT. 129, 14.</ls>
 
@@ -196,8 +196,8 @@ wohl (nicht zum simpl.) {#अवलगित#}
 <ls>H. an. 3, 415.</ls> 
 <ls>MED. n. 133.</ls> {%hängen —, stecken geblieben, festsitzend, hängend an, steckend auf%}: {#रथे विलग्नाविव चन्द्रसूर्यौ#} 
 <ls>MBH. 4, 1690.</ls> {#विलग्नश्चाभवत्तस्मिँल्लतासंतानसंकुले#} ({#सलिलाशये#}) 
-<ls>11, 135.</ls> {#दंष्ट्राविलग्नांस्त्रीन्पिण्डान्#} 
-<ls>12, 13412.</ls> <ls>BHĀG. P. 3, 13, 30</ls> ({#निमग्नां#} ed. Bomb.) {#केचिद्विलग्ना दशनान्तरेषु#} 
+<ls n="MBH.">11, 135.</ls> {#दंष्ट्राविलग्नांस्त्रीन्पिण्डान्#} 
+<ls n="MBH.">12, 13412.</ls> <ls>BHĀG. P. 3, 13, 30</ls> ({#निमग्नां#} ed. Bomb.) {#केचिद्विलग्ना दशनान्तरेषु#} 
 <ls>BHAG. 11, 27.</ls> {#पुच्छे#} 
 <ls>Verz. d. Oxf. H. 155,b,42.</ls> {#तरौ#} 
 <ls>VARĀH. BṚH. S. 43, 20.</ls> {#लतागुल्म°#} 
@@ -218,7 +218,7 @@ wohl (nicht zum simpl.) {#अवलगित#}
 <ls>PAÑCAT. 207, 22.</ls> 
 <div n="2">— c) {%dünn, schmal%} (von der Taille; vgl. 2, {%b)%} {#विलग्नमध्या#} 
 <ls>MBH. 1, 6426.</ls> <ls n="MBH.">3, 10054.</ls> {#वेदिविलग्नमध्या#} 
-<ls>4, 1195.</ls> <ls>KUMĀRAS. 1, 39.</ls> 
+<ls n="MBH.">4, 1195.</ls> <ls>KUMĀRAS. 1, 39.</ls> 
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) = {#लग्न#} {%Aufgang eines Gestirns, Horoskop u.s.w.%} 
 <ls>VARĀH. BṚH. S. S. 6, Z. 5.</ls> <ls>BṚH. 4, 12. 15. 19. 5, 10. fg. 6, 2.</ls> {#शुभराशिविलग्ने#} 
@@ -226,11 +226,11 @@ wohl (nicht zum simpl.) {#अवलगित#}
 <ls>ŚKDR.</ls> 
 <div n="2">— b) {%Taille%} (wo Ober- und Unterkörper {%sich berühren%}; vgl. {#अवलग्न#} 1, {%c)%} 
 <ls>TRIK.</ls> <ls>H. 607.</ls> <ls>H. an.</ls> <ls>MED.</ls> (m. n.). <ls>HALĀY. 2, 362.</ls> — {#विलगित#} ({#उपतापे#}) wird 
-<ls>P. 6, 4, 24. <is>Vārtt</is>. 1</ls> auf {#लङ्ग्#} zurückgeführt.
+<ls>P. 6, 4, 24.</ls> <is>Vārtt</is>. 1 auf {#लङ्ग्#} zurückgeführt.
 
 <div n="p">— {#सम्#}, partic. {#संलग्न#} {%stecken geblieben, steckend in%}: {#रजस्तमसि संलग्नं#} ({#संमग्नं#} ed. Bomb.) {#पङ्के द्विपमिवावशम्#} 
 <ls>MBH. 12, 11157.</ls> {%in unmittelbare Berührung gekommen, handgemein geworden%}: {#तयोः संलग्नयोर्युद्धे#} 
-<ls>13278.</ls> {%sich berührend mit%}: {#कनिष्ठा पार्श्वसंलग्ना#} 
+<ls n="MBH. 12,">13278.</ls> {%sich berührend mit%}: {#कनिष्ठा पार्श्वसंलग्ना#} 
 <ls>Verz. d. Oxf. H. 202,b,22.</ls> = {#संहित#} 
 <ls>Schol.</ls> zu <ls>ṚV. PRĀT. 5, 22.</ls> {#रोधसि तद्द्वीपसंलग्ने#} so v. a. {%am Ufer dieser Insel%} 
 <ls>KATHĀS. 123, 111.</ls> {#रत्नभूधरसंलग्नरत्नासन#} so v. a. {%herkommend aus%} 

@@ -32,9 +32,9 @@
 <div n="1">— 5) {%Stern%} (vgl. {#तारा#}, 
 <ls>2.</ls> {#तर् स्तर्#}), <lex>f.</lex> {#तारका#} 
 <ls>P. 7, 3, 45</ls>, <is>Vārtt</is>. 
-<ls>7.</ls> <ls>AK. 1, 1, 2, 22.</ls> <ls>H. 107. f. n.</ls> <ls>TRIK. 3, 3, 27. 5, 21.</ls> <ls>MED. n.</ls> <ls>H. an.</ls> {#ता꣡रका#} 
-<ls>AV. 2, 8, 1. 3, 7, 4. 6, 121, 3.</ls> {#प्रति\ त्वं दि\व्यास्ता\रका^ अमुक्थाः#} 
-<ls>19, 49, 8.</ls> {#यदत^र\ंस्तत्तार^काणां तारक\त्वम्#} 
+<ls n="P. 7, 3,">7.</ls> <ls>AK. 1, 1, 2, 22.</ls> <ls>H. 107. f. n.</ls> <ls>TRIK. 3, 3, 27. 5, 21.</ls> <ls>MED. n.</ls> <ls>H. an.</ls> {#ता꣡रका#} 
+<ls>AV. 2, 8, 1.</ls> <ls n="AV.">3, 7, 4.</ls> <ls n="AV.">6, 121, 3.</ls> {#प्रति\ त्वं दि\व्यास्ता\रका^ अमुक्थाः#} 
+<ls n="AV.">19, 49, 8.</ls> {#यदत^र\ंस्तत्तार^काणां तारक\त्वम्#} 
 <ls>TBR. 1, 5, 2, 5.</ls> {#राहुतारकाः#} 
 <ls>YĀJÑ. 1, 135.</ls> {#आ तारकोदयात्#} 
 <ls>24.</ls> <ls>MBH. 5, 1710.</ls> <ls>PAÑCAT. II, 62.</ls> <ls>MĀRK. P. 15, 71.</ls> <ls>VARĀH. BṚH. S. 46, 10 (11). 21 (22). 97, 3.</ls> <ls>SŪRYAS. 7, 18. 8, 19.</ls>
@@ -58,8 +58,8 @@
 <ls>AV. 5, 17, 4.</ls> Bei den <is>Jaina</is> bilden die <is>Tārakā</is> eine der 5 Abtheilungen der <is>Jyotiṣka</is> 
 <ls>H. 92.</ls> 
 <div n="1">— 6) {%Augenstern%}, <lex>f.</lex> {#तारका#} 
-<ls>P. 7, 3, 45, <is>Vārtt</is>. 7,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 7, 3, 45</ls>, <is>Vārtt</is>. 7, <ls>Sch.</ls> 
+
 <ls>AK. 2, 6, 2, 43.</ls> f. n. <ls>MED. n.</ls> <ls>H. an.</ls> <lex>f.</lex> <ls>SUŚR. 1, 126, 8.</ls> Im comp., wo das Geschlecht nicht zu erkennen ist, 
 <ls>MBH. 1, 2932.</ls> 
 <ls>R. 3, 52, 34.</ls> 

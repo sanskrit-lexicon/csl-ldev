@@ -11,8 +11,8 @@
 <ls>R. 3, 29, 14. 30, 23. 4, 8, 38.</ls> 
 <ls>BHAṬṬ. 14, 50. 15, 28. 17, 40.</ls> {#दुःशासनस्य रुधिरं यदा पास्यति पाण्डवः । आनंर्द नर्दतः#} 
 <ls>MBH. 5, 4802.</ls> {#उदपानाश्च नर्दन्ति यथा गोवृषभास्तथा#} 
-<ls>4853.</ls> {#नर्दतः सागरस्येव#} 
-<ls>14, 2528.</ls> {#नर्दन्ति धरणीधराः#} 
+<ls n="MBH. 5,">4853.</ls> {#नर्दतः सागरस्येव#} 
+<ls n="MBH.">14, 2528.</ls> {#नर्दन्ति धरणीधराः#} 
 <ls>R. 6, 16, 4.</ls> med. : {#नर्दमाना वृषा इव#} 
 <ls>HARIV. 11936.</ls> {#सेन्द्राशनिरिवाम्भोदो नर्दमानो महावृषः#} 
 <ls n="HARIV.">4110.</ls> {#मृगो भूत्वा नर्दमानः#} 
@@ -37,7 +37,7 @@
 
 <div n="p">— {#अभि#} {%anbrüllen%}: {#अन्यो ऽन्यमभिनर्दन्तः#} 
 <ls>MBH. 6, 2738.</ls> {#एनमभिनर्दन्तः#} 
-<ls>7, 6111. 9, 912.</ls> med. <ls>8, 1806.</ls>
+<ls n="MBH.">7, 6111.</ls> <ls n="MBH.">9, 912.</ls> med. <ls n="MBH.">8, 1806.</ls>
 
 <div n="p">— {#अव#} technischer Ausdruck aus dem Singsang der Litaneien, welcher den Uebergang des Tones aus der Höhe zur Tiefe und umgekehrt auf einer und derselben Silbe oder auch auf mehreren Silben zu bezeichnen scheint, etwa {%schleifen%} oder {%trillern%}: {#द्विरवनर्देद्धिंकुर्यात्तृतीयम्#} 
 <ls>PAÑCAV. BR. 7, 1, 2. 3.</ls>
@@ -53,8 +53,8 @@
 <ls>ĀŚV. ŚR. 8, 3.</ls>
 
 <div n="p">— {#प्र#}, {#प्रनर्दति#} 
-<ls>P. 8, 4, 14,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 4, 14</ls>, <ls>Sch.</ls> 
+
 <ls>VOP. 8, 43.</ls>
 
 <div n="p">— {#प्रति#} {%entgegenbrüllen%}: {#महामेघं महाघोरं दर्दुरः प्रतिनर्दति#} 
@@ -66,7 +66,7 @@
 <ls>MBH. 8, 2468.</ls> {#विनर्दन्ति च पाञ्चालाः#}
 [Page4-0064]
 
-<ls>10, 62. 354.</ls> <ls>R. 6, 27, 23.</ls> <ls>BHAṬṬ. 9, 18.</ls> {#(घनाः) औत्पातिका विनर्दन्तः#} 
+<ls n="MBH.">10, 62.</ls> <ls n="MBH. 10,">354.</ls> <ls>R. 6, 27, 23.</ls> <ls>BHAṬṬ. 9, 18.</ls> {#(घनाः) औत्पातिका विनर्दन्तः#} 
 <ls>R. 6, 87, 3.</ls> 
 <ls>HARIV. 13084.</ls> {#विनर्दमानाः शरदीव मेघाः#} 
 <ls n="HARIV.">12949.</ls> <ls>MBH. 3, 11108.</ls>

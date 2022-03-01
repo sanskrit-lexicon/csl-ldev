@@ -1,13 +1,13 @@
 <L>46350<pc>4-0810<k1>पुष्कर<k2>पु꣡ष्कर
 {#पु꣡ष्कर#}¦ 
 <ls>UṆĀDIS. 4, 4.</ls> <is>gaṇa</is> {#वरणादि#} zu 
-<ls>P.4,2,82.</ls> n. <ls>SIDDH. K. 249,b,2.</ls> 
+<ls>P. 4, 2, 82.</ls> n. <ls>SIDDH. K. 249,b,2.</ls> 
 <div n="1"> 1) <lex>n.</lex> {%blaue Lotusblüthe%} 
 <ls>AK. 1, 2, 3, 40. 3, 4, 25, 188.</ls> 
 <ls>H. 1161.</ls> 
 <ls>an. 3, 579. fg.</ls> 
 <ls>MED. r. 187.</ls> <ls>HALĀY. 3, 57. 5, 72.</ls> {#यस्ते^ ग\न्धः पुष्क^रमावि\वेश^#} 
-<ls>AV. 12, 1, 24. 11, 3. 8.</ls> 
+<ls>AV. 12, 1, 24.</ls> <ls n="AV. 12,">11, 3.</ls> <ls n="AV. 12, 11,">8.</ls> 
 <ls>VS. 11, 29.</ls> 
 <ls>TBR. 1, 2, 1, 4.</ls> 
 <ls>ŚAT. BR. 4, 1, 5, 16.</ls> {#स्रजं च यां बिभृथः पुष्करस्य#} 
@@ -74,7 +74,7 @@
 <ls>ŚABDĀRTHAK.</ls> bei <ls>WILS.</ls> 
 <div n="1">— 13) <lex>n.</lex> {%Luft, Luftraum%} 
 <ls>NAIGH. 1, 3.</ls> 
-<ls>NIR. 5, 14.</ls> <ls>AK. 1, 1, 2, 1. 3, 4, 25, 188.</ls> <ls>H. 163.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 137. 5, 72.</ls> <ls>Spr. 1770 (PRAB.).</ls>
+<ls>NIR. 5, 14.</ls> <ls>AK. 1, 1, 2, 1. 3, 4, 25, 188.</ls> <ls>H. 163.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 1, 137. 5, 72.</ls> <ls>Spr. 1770</ls> (<ls>PRAB.</ls>).
 [Page4-0811]
 
 <div n="1">— 14) <lex>n.</lex> {%Wasser%} 
@@ -110,15 +110,15 @@
 <div n="1">— 25) <lex>n.</lex> sg. und pl. N. pr. eines im Rufe grosser Heiligkeit stehenden Badeplatzes, der heut zu Tage nach {%Adschmir%} verlegt wird, 
 <ls>LIA. I, 587, N. 1.</ls> <ls>AK. 3, 4, 25, 188.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 5, 72.</ls> {#किं तस्य पुष्करजलैरभिषेचनेन#} 
 <ls>MBH. 1, 655.</ls> <ls n="MBH. 1,">7976.</ls> <ls n="MBH.">3, 4062. fgg.</ls> {#पुष्करारण्य#} 
-<ls>4070.</ls> {#पितामहसरः पुण्यं पुष्करं नाम नामतः#} 
+<ls n="MBH. 3,">4070.</ls> {#पितामहसरः पुण्यं पुष्करं नाम नामतः#} 
 <ls n="MBH. 3,">8369.</ls> <ls n="MBH. 3,">8371.</ls> <ls n="MBH.">13, 1696.</ls> <ls n="MBH. 13,">4887.</ls> <ls n="MBH. 13,">6130.</ls> <ls>HARIV. 12018.</ls> <ls n="HARIV.">12022.</ls> <ls n="HARIV.">12273</ls> (vgl. <ls n="HARIV.">11558</ls>, wo wohl eben so zu lesen ist). 
 <ls n="HARIV.">15910.</ls> <ls n="HARIV.">15912.</ls> <ls>R. 1,61,4. 62,1. 28. 63,4 (64,1. 28. 65,5. 17 GORR.)</ls>. <ls>VARĀH. BṚH. S. 5,68. 11,35. 16,31.</ls> <ls>KATHĀS. 45,83.</ls> <ls>BHĀG. P.7 ,14,30.</ls> <ls>VĀRĀHA-P.</ls> in <ls>Verz. d. Oxf. H. 57,b,28.</ls> <ls>SKANDAP. ebend. 73,b,19.</ls> {#पुष्करं च महद्वनम्#} 
 <ls>HARIV. 8953.</ls> {#पुष्करारण्य#} 
 <ls>MBH. 1, 1567.</ls> <ls n="MBH.">2, 1190.</ls> <ls>R. 1,61,3</ls> (<ls>63,3. 4 GORR.</ls>). <ls>NARASIṂHA-P.</ls> in <ls>Verz. d. Oxf. H. 82,a,18.</ls> 
 <div n="1">— 26) <lex>m.</lex> <lex>n.</lex> N. eines <is>Dvīpa</is> 
 <ls>TRIK.2,1,4.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <ls>MBH. 6, 465.</ls> <ls>SIDDH. ŚIR. 3,25.</ls> <ls>VP. 166. 200.</ls> <ls>BHĀG. P. 5,1,32. 20,30.</ls> <ls>MĀRK. P. 53,19. 54,6.</ls> <ls>BHAVIṢYA-P.</ls> in <ls>Verz. d. Oxf. H. 33,a,25.</ls> <ls>MATSYA-P.</ls> ebend. <ls>41,a,37.</ls> N. eines der 5 <is>Bharata</is> bei den <is>Jaina</is> 
-<ls>H. 946,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 946</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 27) <lex>m.</lex> {%der Beherrscher von%} <is>Puṣkaradvīpa</is> 
 <ls>MĀRK. P. 53, 19.</ls> — Bein. <is>Kṛṣṇa's</is> 
 <ls>MBH. 12, 1512.</ls> <is>Śiva's</is>

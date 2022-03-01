@@ -3,16 +3,16 @@
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} {%von%} <is>Atharvan</is> oder {%von den%} <is>Atharvan</is> {%herrührend, ihnen gehörig u.s.w.%} 
 <ls>P. 4, 3, 133</ls> (vgl. <ls>PAT.).</ls> {#आ\थ\र्व\णम^सि व्याघ्र\जम्भ^नम्#} 
 <ls>AV. 4, 3, 7.</ls> {#आ\थ\र्व\णीरा^ङ्गिर\सीर्दैवी^र्मनुष्य\जा उ\त । ओष^धयः#} 
-<ls>11, 4, 16.</ls> {#आथर्वणो धर्म आम्नायो वा#} 
-<ls>P. 4, 3, 133,</ls> 
-<ls>Sch.</ls> {#आथर्वणा मन्त्राः#} 
+<ls n="AV.">11, 4, 16.</ls> {#आथर्वणो धर्म आम्नायो वा#} 
+<ls>P. 4, 3, 133</ls>, <ls>Sch.</ls>
+{#आथर्वणा मन्त्राः#} 
 <ls>Verz. d. B. H. No. 366.</ls> <ls>Ind. St. 1, 297. 2, 396.</ls> {#आथर्वणेन विधिना#} (eine Hochzeit vollzogen) 
 <ls>1, 297.</ls> 
 <div n="1">— 2) <lex>m.</lex> {%ein Abkömmling%} <is>Atharvan's</is> oder {%der%} <is>Atharvan</is>, z. B. <is>Dadhyañc</is> 
 <ls>ṚV. 1, 116, 12.</ls> <ls n="ṚV. 1,">117, 22.</ls> 
 <ls>TS. 5, 1, 4, 4.</ls> 
 <ls>AV. 6, 1, 1.</ls> {#अथ^र्वाणो अबध्नताथर्व\णा अ^बध्नत । तैर्मे\दिनो\ अङ्गि^रसः#} 
-<ls>10, 6, 20. 16, 8, 12. 19, 23, 1.</ls> <ls>ŚAT. BR. 4, 1, 5, 18. 6, 4, 2, 3. 14, 1, 1, 8. 6, 7, 1</ls> = <ls>BṚH. ĀR. UP. 2, 5, 16. 3, 7, 1.</ls> <ls>Ind. St. 1, 84. 87. 217. 291. 295. 384.</ls> 
+<ls n="AV.">10, 6, 20.</ls> <ls n="AV.">16, 8, 12.</ls> <ls n="AV.">19, 23, 1.</ls> <ls>ŚAT. BR. 4, 1, 5, 18. 6, 4, 2, 3. 14, 1, 1, 8. 6, 7, 1</ls> = <ls>BṚH. ĀR. UP. 2, 5, 16. 3, 7, 1.</ls> <ls>Ind. St. 1, 84. 87. 217. 291. 295. 384.</ls> 
 <div n="1">— 3) <lex>m.</lex> Bezeichnung eines bes. Priesters, dessen Ritual der 
 <ls>AV.</ls> bildet, 
 <ls>Ind. St. 1, 296. 446.</ls> {%ein mit dem%} 
@@ -23,8 +23,8 @@
 <div n="1">— 5) <lex>m.</lex> {%der%} <is>Atharva-Veda</is> 
 <ls>CHĀND. UP. 7, 1, 2. 4.</ls> 
 <ls>Ind. St. 1, 146. 266.</ls> {#अथर्वा । आथर्वणः । अथर्वणा प्रोक्त एव आथर्वणिकानां धर्म आम्नायो वा न त्वन्यः ।#} 
-<ls>P. 4, 3, 133,</ls> 
-<ls>PAT.,</ls> <ls>Sch.</ls> <lex>n.</lex> = {#अथर्वणां समूहः#} <is>gaṇa</is> {#भिक्षादि#} zu 
+<ls>P. 4, 3, 133</ls>, <ls>PAT.</ls>, <ls>Sch.</ls> 
+<lex>n.</lex> = {#अथर्वणां समूहः#} <is>gaṇa</is> {#भिक्षादि#} zu 
 <ls>P. 4, 2, 38.</ls> 
 <ls>AK. 3, 3, 43.</ls> 
 <div n="1">— 6) <lex>n.</lex> {%ein Gemach, in welchem der Opferpriester dem Veranstalter eines Opfers das Gelingen desselben meldet%}, 

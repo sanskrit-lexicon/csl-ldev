@@ -34,8 +34,8 @@
 
 <ls>Spr. 5283.</ls> {#मोदन्ति#} 
 <ls>MBH. 3, 7000.</ls> {#मोदेत्#} 
-<ls>8042. 5, 28.</ls> {#मोदसि#} 
-<ls>12, 11.</ls> {#मोदति#} Inschr. in Journ. of the Am. Or. 
+<ls n="MBH. 3,">8042.</ls> <ls n="MBH.">5, 28.</ls> {#मोदसि#} 
+<ls n="MBH.">12, 11.</ls> {#मोदति#} Inschr. in Journ. of the Am. Or. 
 <ls>S. 6, 540, Śl. 3.</ls> {#अमोदन्#} 
 <ls>R. 2, 48, 3.</ls> {#मुमोद#} 
 <ls>1, 46, 17.</ls> <ls>R. GORR. 1, 46, 34.</ls> {#मुदित#} {%erfreut, froh%} 
@@ -51,7 +51,7 @@
 <ls>MATHUREŚA</ls> zu <ls>AK.</ls> <ls>ŚKDR.</ls> <ls>YOGAS.1,33.3,24</ls> (<ls>Verz. d. Oxf. H. 230,b,23. 25).</ls> <ls>PRAB. 68,11.</ls> {#मुदित#} <lex>n.</lex> Bez. {%einer Art von Umarmung%} oder {%Verschlingung der Geliebten%} 
 <ls>ŚKDR.</ls> nach dem <ls>KĀMAŚĀSTRA.</ls> {#मुदित#} fehlerhaft für {#नुदित#} (so die ed. Bomb.) 
 <ls>MBH. 3, 12225.</ls> für {#सूदित#} (so die ed. Bomb.) 
-<ls>5, 7184.</ls>
+<ls n="MBH.">5, 7184.</ls>
 
 <div n="p">— caus. {%Jmd erfreuen%}: {#शोभयेयुः पुरवरं मोदयेयुश्च सर्वशः#} 
 <ls>MBH. 12, 2655.</ls> {#मोदयध्वं रघूत्तमम्#} 
@@ -63,12 +63,12 @@
 <ls>ṚV. 8, 1, 14.</ls> {%Jmd zujubeln%}: {#तं मण्डूका अन्वमोदन्त#} 
 <ls>NIR. 9, 6.</ls> {%Jmd seinen Beifall bezeugen, Jmd aufmuntern%}: {#के चैनमन्वमोदन्त के चैनं प्रत्यषेधयन्#} 
 <ls>MBH. 2, 1787.</ls> {%sich freuen über Jmd%} oder {%Etwas%} (acc.): {#यं प्रजा अन्वमोदन्त पिता पुत्रानिवौरसान्#} 
-<ls>7, 2224.</ls> {#संपदमनुनन्दन्ति विपदं नानुमोदन्ति#} 
+<ls n="MBH.">7, 2224.</ls> {#संपदमनुनन्दन्ति विपदं नानुमोदन्ति#} 
 <ls>GAUḌAP.</ls> zu <ls>SĀṂKHYAK. 48.</ls> {#ब्राह्मणास्ते ऽन्वमोदन्त शिवेन कुशलेन च#} 
 <ls>MBH. 3, 11535.</ls> {%sich über Etwas freuen%} so v. a. {%sich mit Etwas einverstanden erklären, Etwas gutheissen%}: {#विवादांश्चान्वमोदत#} 
-<ls>1, 137.</ls> {#वाचं ताम्#} 
-<ls>1198.</ls> {#सैरिन्ध्र्याः सूतपुत्रेण सह दाहम्#} 
-<ls>4, 800.</ls> <ls>KATHĀS. 43, 72.</ls> <ls>BHĀG. P. 1, 19, 19. 3, 19, 37.</ls> {#यूयं तदनुमोदध्वम् - कर्तुः शास्तुरनुज्ञातुस्तुल्यं यत्प्रेत्य तत्फलम्#} 
+<ls n="MBH.">1, 137.</ls> {#वाचं ताम्#} 
+<ls n="MBH. 1,">1198.</ls> {#सैरिन्ध्र्याः सूतपुत्रेण सह दाहम्#} 
+<ls n="MBH.">4, 800.</ls> <ls>KATHĀS. 43, 72.</ls> <ls>BHĀG. P. 1, 19, 19. 3, 19, 37.</ls> {#यूयं तदनुमोदध्वम् - कर्तुः शास्तुरनुज्ञातुस्तुल्यं यत्प्रेत्य तत्फलम्#} 
 <ls>4, 21, 25. 7, 14, 6. 8, 6, 24. 7, 41. 9, 23, 37.</ls> {#अखादन्ननुमोदंश्च#} 
 <ls>MBH. 13, 5634.</ls> {#यो ऽनुमोदति हन्तव्यं (हन्यन्तम्#} ed. Bomb.) {#सो ऽपि दोषेण लिप्यते#} {%wer es gut heisst, dass%} (ein lebendes Wesen) {%getödtet wird%}, ebend. 
 <ls>BHĀG. P. 2, 7, 53.</ls> {#ये चान्वमोदंस्तदवाच्यतां द्विजाः#} 

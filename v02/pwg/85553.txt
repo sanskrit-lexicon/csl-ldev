@@ -26,13 +26,13 @@
 <ls>Verz. d. Oxf. H. 65,a,2.</ls> {#शक्ति#} 
 <ls>25,a, N. 5. 81,a,41. 104,b,12. 184,a,9.</ls> {#अरण्यराज्#} {%furchtbar%} 
 <ls>MBH. 3, 2420.</ls> {#शूर्पणखा#} 
-<ls>15900. 16139. 5, 1495. 12, 10308. 14, 210.</ls> <ls>R. 1, 14, 33. 35, 18. 2, 25, 15. 3, 50, 28. 73, 1. 36. 4, 5, 20. 6, 8, 16. 108, 35.</ls> <ls>Spr. 168.</ls> <ls>KATHĀS. 18, 96. 61, 59.</ls> <ls>MĀRK. P. 45, 19.</ls> <ls>PAÑCAR. 1, 14, 29.</ls> <ls>PAÑCAT. 216, 9.</ls> {#कर्मन्#} 
+<ls n="MBH. 3,">15900.</ls> <ls n="MBH. 3,">16139.</ls> <ls n="MBH.">5, 1495.</ls> <ls n="MBH.">12, 10308.</ls> <ls n="MBH.">14, 210.</ls> <ls>R. 1, 14, 33. 35, 18. 2, 25, 15. 3, 50, 28. 73, 1. 36. 4, 5, 20. 6, 8, 16. 108, 35.</ls> <ls>Spr. 168.</ls> <ls>KATHĀS. 18, 96. 61, 59.</ls> <ls>MĀRK. P. 45, 19.</ls> <ls>PAÑCAR. 1, 14, 29.</ls> <ls>PAÑCAT. 216, 9.</ls> {#कर्मन्#} 
 <ls>MBH. 10, 305.</ls> <ls n="MBH.">13, 3067.</ls> 
 <ls>Spr. 2769.</ls> 
 <ls>PAÑCAT. III, 141.</ls> <ls>MBH. 3, 14271. fg.</ls> <ls n="MBH. 3,">14275.</ls> {#क्षत्रियधर्म#} 
-<ls>4, 1850.</ls> {#संध्या#} 
-<ls>5, 326.</ls> {#नदी#} 
-<ls>7, 502.</ls> <ls>HARIV. 9336.</ls> {#यातना#} 
+<ls n="MBH.">4, 1850.</ls> {#संध्या#} 
+<ls n="MBH.">5, 326.</ls> {#नदी#} 
+<ls n="MBH.">7, 502.</ls> <ls>HARIV. 9336.</ls> {#यातना#} 
 <ls>MBH. 13, 6675.</ls> {#रूप#} 
 <ls>R. 1, 56, 17.</ls> 
 
@@ -55,7 +55,7 @@
 <div n="1">— 3) <lex>m.</lex> {%Verehrer des%} <is>Rudra</is> 
 <ls>Verz. d. Oxf. H. 248,a,7.</ls> <ls>WILSON, Sel. Works I,17.</ls> 
 <div n="1">— 4) <lex>adj.</lex> in Verbindung mit {#गण#} oder subst. <lex>m.</lex> pl. Bez. {%best. böser Geister%} 
-<ls>HARIV. 12869.</ls> <ls>Verz. d. Oxf. H. 59,a,4.</ls> <ls>H. 1362,</ls> <ls>Sch.</ls> 
+<ls>HARIV. 12869.</ls> <ls>Verz. d. Oxf. H. 59,a,4.</ls> <ls>H. 1362</ls>, <ls>Sch.</ls> 
 <div n="1">— 5) {%Hitze%}, <lex>m.</lex> 
 <ls>MED. n.</ls> <ls>HALĀY. 1, 40.</ls> {#रौद्रेणाकुलितः#} 
 <ls>HIT. 115, 1, v. l.</ls> 

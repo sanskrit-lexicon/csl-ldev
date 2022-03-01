@@ -7,7 +7,7 @@
 <ls>AK. 1,1, 1, 54.</ls> 
 <ls>HALĀY. 1, 71.</ls> 
 <ls>ṚV. 9, 113, 8.</ls> <ls n="ṚV.">10, 14, 1.</ls> <ls n="ṚV. 10,">57, 7.</ls> <ls n="ṚV. 10,">60, 10.</ls> <ls n="ṚV. 10,">164, 2.</ls> 
-<ls>AV. 6, 116, 1. 2. 8, 2, 11. 18, 3, 13.</ls> 
+<ls>AV. 6, 116, 1.</ls> <ls n="AV. 6, 116,">2.</ls> <ls n="AV.">8, 2, 11.</ls> <ls n="AV.">18, 3, 13.</ls> 
 <ls>ĀŚV. ŚR. 10, 7, 2.</ls> 
 <ls>GṚHY., ed.</ls> <ls>STENZLER S. 47.</ls> <ls>KAṬHOP. 1, 7.</ls> <ls>Spr. 2404</ls> (<ls>M.</ls>). <ls>MBH. 3, 11996.</ls> <ls n="MBH.">5, 519.</ls> <ls n="MBH.">13, 3500.</ls> <ls>HARIV. 1003.</ls> <ls n="HARIV.">4921.</ls> <ls n="HARIV.">4923.</ls> <ls n="HARIV.">13133.</ls> <ls>R. 2, 64, 37.</ls> <ls>R. GORR. 2, 66, 38. 4, 16, 39. 41, 67. 6, 5, 11.</ls> <ls>RAGH. 15, 45. 57.</ls> <ls>Spr. (II) 1974.</ls> <ls>VARĀH. BṚH. S. 43, 52.</ls> <ls>RĀJA-TAR. 4, 150.</ls> <ls>BHĀG. P. 5, 26, 6.</ls>
 [Page6-1414]
@@ -40,13 +40,13 @@
 <div n="2">— b) {%eine Tochter des Sonnengottes%} 
 <ls>VYUTP. 107.</ls> {#तपती#} 
 <ls>MBH. 1, 3791.</ls> <ls n="MBH. 1,">6632.</ls> {#श्रद्धा वैवस्वती सेयं सूर्यस्य दुहिता#} 
-<ls>12, 9449</ls>; vgl. <ls>ŚAT. BR. 12, 7, 3, 11.</ls> 
+<ls n="MBH.">12, 9449</ls>; vgl. <ls>ŚAT. BR. 12, 7, 3, 11.</ls> 
 <div n="1">— 4) <lex>adj.</lex> (f. {#ई#}) 
 <div n="2"> a) <is>Yama</is> <is>Vaivasvata</is> {%gehörig, zu ihm in Beziehung stehend%} 
 <ls>KAUŚ. 82. 86.</ls> 
 <ls>MBH. 6, 5802.</ls> {#सभा#} 
-<ls>13, 3499.</ls> {#लोक#} 
-<ls>15, 903.</ls> 
+<ls n="MBH.">13, 3499.</ls> {#लोक#} 
+<ls n="MBH.">15, 903.</ls> 
 <div n="2">— b) {%zu%} <is>Manu</is> <is>Vaivasvata</is> {%in Beziehung stehend%}: {#अन्तर, मन्वन्तर#} 
 <ls>MBH. 12, 12808.</ls> 
 <ls>HARIV. 171.</ls> <ls n="HARIV.">177.</ls> 

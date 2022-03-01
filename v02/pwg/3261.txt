@@ -1,7 +1,7 @@
 <L>3261<pc>1-0240<k1>अन्तर<k2>अ꣡न्तर
 {#अ꣡न्तर#}¦ (von {#अन्तर्#}) wird mit einem loc. componirt <is>gaṇa</is> {#शौण्डादि#} . 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} <is>gaṇa</is> {#सर्वादि#}; Declin. 
-<ls>P. 1, 1, 36. 7, 1, 76.</ls> 
+<ls>P. 1, 1, 36.</ls> <ls n="P.">7, 1, 76.</ls> 
 <ls>VOP. 3, 9. 12. 37.</ls> 
 <div n="2">— a) {%im Innern befindlich, der innere%} (Gegens. {#बाह्य): नि हि षत्स\दन्त^र\ः पूर्वो^ अ\स्मत्#} 
 <ls>ṚV. 10, 53, 1.</ls> {#इ\दं वच^ः प\र्जन्या^य स्व\राजे^ हृ\दो अ\स्त्वन्त^र\ं तज्जु^जोषत्#} 
@@ -32,8 +32,8 @@
 <ls>VOP. 3, 37.</ls> Von Lauten und Wörtern: {#स्थाने ऽन्तरतमः#} 
 <ls>P. 1, 1, 50.</ls> {#हकारस्य घकारो ऽन्तरतमः#} 
 <ls>ŚKDR.</ls> {#सर्वस्य पदस्य स्थाने शब्दतो ऽर्थतश्चान्तरतमे द्वे शब्दस्वरूपे भवतः#} 
-<ls>P. 8, 1, 1,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 8, 1, 1</ls>, <ls>Sch.</ls> 
+
 <div n="2">— c) {%angrenzend, anliegend%} (?), mit dem abl.: {#अन्तरं वा उल्बं जरायुणो भवति तस्मादेषान्तरा#} (sc. {#मेखला) वाससो भवति#} 
 <ls>ŚAT. BR. 3, 2, 1, 11.</ls> {#कौशं वासः परिधापयति कौशं वा चण्डातकमन्तरं दीक्षितवसनात्#} 
 (<ls>SĀY.</ls>: {#तस्माद्बहिःप्रदेशे । अन्तरशब्दो बहिर्योगे वर्तते#}; vgl. f.) 
@@ -47,8 +47,8 @@
 (<ls>ŚAṂK.</ls>: = {#अभ्यन्तरः#}, mit dem abl.!) 
 <ls>ŚAT. BR. 14, 6, 7, 7.</ls> (= <ls>BṚH. ĀR. UP. 3, 7, 3.)</ls> {#यो ऽप्सु तिष्ठन्नद्भ्यो ऽन्तरः#} u. s. w. 
 <ls>8 - 31.</ls> (= <ls>BṚH. ĀR. UP. 4 - 23.)</ls> {#आत्मा स्वभावो ऽन्तरो ऽन्यो यस्य स आत्मान्तरः#} 
-<ls>P. 6, 2, 166,</ls> 
-<ls>Sch.</ls> {%der andere%}: {#उदधेरन्तरं पारं काङ्क्षमाणः#} 
+<ls>P. 6, 2, 166</ls>, <ls>Sch.</ls>
+{%der andere%}: {#उदधेरन्तरं पारं काङ्क्षमाणः#} 
 <ls>R. 5, 56, 57.</ls> Vgl. {#अन्तर#} 2,m. 
 <div n="2">— f) ({%auf der Grenze, auf der Aussenseite befindlich,) der äussere%} 
 <ls>P. 1, 1, 36.</ls> 
@@ -157,8 +157,8 @@
 <ls>RAGH. 2, 20.</ls> 
 <ls>H. 574. 1109.</ls> {#नभोनभस्ययोः - इवान्तरे#} 
 <ls>RAGH. 12, 29.</ls> {%unter%}: {#आवयोरन्तरे जातः#} 
-<ls>H. 1538,</ls> 
-<ls>Sch.</ls> Vgl. {#अन्तरेण#} . 
+<ls>H. 1538</ls>, <ls>Sch.</ls>
+Vgl. {#अन्तरेण#} . 
 <div n="2">— f) {%Periode%} 
 <ls>AK. 3, 4, 189.</ls> 
 <ls>H. an. 3, 514.</ls> 
@@ -205,8 +205,8 @@
 <ls>HIT. 25, 19.</ls> {#जननान्तर#} {%eine andere, frühere Geburt%} 
 <ls>ŚĀK. 99.</ls> {#जन्मान्तराणि#} {%frühere Geburten%}, {#दशान्तराणि#} {%frühere Zustände%} 
 <ls>HIT. I, 201.</ls> {#प्रत्ययान्तरम्#} {%ein anderes Suffix%} 
-<ls>P. 4, 1, 93,</ls> 
-<ls>Sch.</ls> {#पक्षान्तरे#} {%im andern Falle, sonst%} 
+<ls>P. 4, 1, 93</ls>, <ls>Sch.</ls>
+{#पक्षान्तरे#} {%im andern Falle, sonst%} 
 <ls>KĀŚ.</ls> zu <ls>P. 1, 2, 36.</ls> {#भवान्तरे#} {%im andern, zukünftigen Leben%} 
 <ls>AK. 3, 5, 8.</ls> {#नानादिग्देशान्तरादागत्य#} 
 <ls>HIT. 9, 4, v. l.</ls> für {#नानादिग्देशादागत्य#} . Pleonastisch auch mit dem gleichbedeutenden {#अन्य#} verbunden: {#अन्यत्स्थानान्तरं गत्वा#} 

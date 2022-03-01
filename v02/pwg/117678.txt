@@ -7,7 +7,7 @@
 <ls>MBH. 1, 7006.</ls> <ls n="MBH.">4, 1675.</ls> 
 <ls>R. 1, 6, 22 (25 GORR.). 3, 32, 20.</ls> {#गिरि#} 
 <ls>MBH. 1, 4864.</ls> {#उपत्यका#} 
-<ls>3, 15643.</ls> {#पाद#} 
+<ls n="MBH.">3, 15643.</ls> {#पाद#} 
 <ls>R. 1, 38, 17.</ls> {#वन#} 
 <ls>2, 96, 29.</ls> {#कुक्षि#} 
 <ls>RAGH. 2, 67.</ls> {#स्थाण्वाश्रम#} 
@@ -56,7 +56,7 @@
 <ls>HARIV. 709.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) {%Perle%} 
-<ls>RĀJAN. 13,</ls> <ls>155</ls>; vgl. <ls>VARĀH. BṚH. S. 81, 2. 5.</ls> 
+<ls>RĀJAN. 13</ls>, <ls>155</ls>; vgl. <ls>VARĀH. BṚH. S. 81, 2. 5.</ls> 
 <div n="2">— b) N. pr. eines <is>Varṣa</is> 
 <ls>TRIK. 2, 1, 2.</ls> <ls>Schol.</ls> zu <ls>H. 946.</ls> <ls>MBH. 6, 201.</ls> <ls>ŚATR. 1, 292.</ls>
 <LEND>

@@ -10,7 +10,7 @@
 <ls>R. 1, 59, 18.</ls> {#जातिषु#} {%bei den Wiedergeburten%} 
 <ls>62, 17.</ls> Auch {#जातीः जातीमरणभीरु#} 
 <ls>MBH. 13, 1051.</ls> <ls n="MBH.">14, 427.</ls> <ls n="MBH. 14,">471.</ls> {#न संसरति जातीषु परमं स्थानमाश्रितः#} 
-<ls>1266.</ls> 
+<ls n="MBH. 14,">1266.</ls> 
 <div n="1">— 2) {%die durch die Geburt bestimmte Daseinsform%} (als Mensch, Thier u. s. w.): {#जात्यायुर्भोगः#} 
 <ls>YOGAS. 2, 13.</ls> {#वेदाभ्यासेन सततं शौचेन तपसैव च । अद्रोहेण च भूतानां जातिं स्मरति पौर्विकीम् ॥#} 
 <ls>M. 4, 148. 149</ls>; vgl. {#जातिस्मर#} fgg. {#अश्वजातिज्ञ#} {%kennend die eigentliche%} oder {%frühere Daseinsform des Pferdes%} 
@@ -50,9 +50,9 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#समानप्रसवात्मिका जातिः#} 
 <ls>NYĀYA-S. 2, 134.</ls> {#आकृतिग्रहणा जातिर्लिङ्गानां च न सर्वभाक् । सकृदाख्यातनिर्ग्राह्या गोत्रं च चरणैः सह ॥#} <is>Kār</is>. zu 
-<ls>P.</ls> (<ls>Bd. II, S. 462).</ls> {#प्रादुर्भावविनाशाभ्यां सत्त्वस्य युगपद्गुणैः । असर्वलिङ्गां बह्वर्थां तां जातिं कवयो विदुः ॥ गोत्रं च चरणानि च#} eine andere <is>Kār</is>. ebend. {#जातिपरत्व#} 
+<ls>P.</ls> (Bd. II, S. 462). {#प्रादुर्भावविनाशाभ्यां सत्त्वस्य युगपद्गुणैः । असर्वलिङ्गां बह्वर्थां तां जातिं कवयो विदुः ॥ गोत्रं च चरणानि च#} eine andere <is>Kār</is>. ebend. {#जातिपरत्व#} 
 <ls>KAP. 1, 155.</ls> 
-<ls>P. 1, 2, 52. 58. 2, 1, 63. 65. 4, 6. 3, 2, 98. 4, 1, 63.</ls> {#सर्वमेव क्षीरं प्राणिनामप्रतिषिद्धं जांतिसात्म्यात्#} 
+<ls>P. 1, 2, 52.</ls> <ls n="P. 1, 2,">58.</ls> <ls n="P.">2, 1, 63.</ls> <ls n="P. 2, 1,">65.</ls> <ls n="P. 2,">4, 6.</ls> <ls n="P.">3, 2, 98.</ls> <ls n="P.">4, 1, 63.</ls> {#सर्वमेव क्षीरं प्राणिनामप्रतिषिद्धं जांतिसात्म्यात्#} 
 <ls>SUŚR. 1, 175, 4.</ls> {#यथाजाति मृगान्#} 
 <ls>LĀṬY. 2, 7, 15. 6, 5, 25.</ls> 
 <ls>KĀTY. ŚR. 1, 4, 10. 14, 2, 31.</ls> {#यथैतानि विशिष्टानि जात्यां जात्याम्#} 
@@ -64,12 +64,12 @@
 <ls>SUND. 2, 8.</ls> {#पश्यैनं मूषिकं स्वजातितां गतम्#} 
 <ls>HIT. I, 116.</ls> <ls>PAÑCAT. 203, 3.</ls> <ls>BHĀG. P. 2, 6, 4. 4, 6, 16.</ls> {#वाक्यजातिविशेषाः#} 
 <ls>MBH. 1, 69.</ls> {#म्लेच्छजात्यः#} (von {#°जाती#}) 
-<ls>6, 456.</ls> 
+<ls n="MBH.">6, 456.</ls> 
 <div n="1">— 6) {%der Charakter der Gattung, die Aechtheit, die normale Beschaffenheit eines Dinges%}: {#मृच्चर्ममणिसूत्रायःकाष्ठवल्कलवाससाम् । अजातौ जातिकरणे विक्रेयाष्टगुणो दमः ॥#} 
 <ls>YĀJÑ. 2, 246.</ls> 
 <ls>ST.</ls> : {%wer bei Erde u.s.w. schlechter Waare das Ansehen von guter giebt.%} {#नावश्यायो ऽपि तत्राभूत्कुत्र एवाभ्रजातयः#} {%wie viel weniger wirkliche Wolken%} 
 <ls>MBH. 12, 5334.</ls> Vgl. {#जात्य#} 
-<ls>4.</ls> 
+<ls n="MBH. 12,">4.</ls> 
 <div n="1">— 7) {%Zurückführung von Brüchen auf einen gemeinschaftlichen Nenner%} 
 <ls>COLEBR. Alg. 13. 283.</ls> 
 <div n="1">— 8) {%falsche Verallgemeinerung%} 

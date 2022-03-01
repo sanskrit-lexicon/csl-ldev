@@ -18,7 +18,7 @@ u.s.w. wie 1. {#चि#} und mit diesem bis jetzt als identisch betrachtet. Mit 
 <ls>BHARTṚ. 3, 82.</ls> {#पुरराष्ट्राणि चिन्वन्तो नैषधम्#} {%in Städten und Reichen%} N. {%suchend%} 
 <ls>MBH. 3, 2659.</ls> 
 <div n="v">— Vgl. 
-<ls>4.</ls> {#चित्#} .
+<ls n="MBH. 3,">4.</ls> {#चित्#} .
 
 <div n="p">— {#अनु#} {%gedenken, sich erinnern%}: {#अनु^ स्व\धा चि^किता\ं सोमो^ अ\ग्निः#} 
 <ls>AV. 6, 53, 1.</ls>
@@ -26,7 +26,7 @@ u.s.w. wie 1. {#चि#} und mit diesem bis jetzt als identisch betrachtet. Mit 
 <div n="p">— {#अप#} 
 <div n="1"> 1) {%Rücksicht nehmen auf, respectiren%}: {#ब्रह्म\ चाप^ चिकीहि नः#} 
 <ls>AV. 1, 10, 4.</ls> {#अ꣡पचित#} (vgl. 
-<ls>4.</ls> {#चि#} mit {#अप#}) <lex>adj.</lex> {%geehrt, geachtet%} 
+<ls n="AV. 1, 10,">4.</ls> {#चि#} mit {#अप#}) <lex>adj.</lex> {%geehrt, geachtet%} 
 <ls>P. 7, 2, 30.</ls> 
 <ls>AK. 3, 2, 51.</ls> 
 <ls>H. 447.</ls> 
@@ -43,7 +43,7 @@ u.s.w. wie 1. {#चि#} und mit diesem bis jetzt als identisch betrachtet. Mit 
 <div n="p">— {#अव#} {%verehren, hochachten%} 
 (<ls>WEST.</ls>: {%comprehendere)%}: {#यथा वाचमवचिन्वन्ति सन्तः#} 
 <ls>MBH. 3, 10676.</ls> Dafür fälschlich {#अविचि°#} 
-<ls>10677.</ls>
+<ls n="MBH. 3,">10677.</ls>
 
 <div n="p">— {#उप#} dass., vgl. {#उपचायिन्#} {%ehrend%} in {#ज्येष्ठोप°#} 
 <ls>MBH. 4, 595.</ls> <ls n="MBH.">14, 2198.</ls>
@@ -51,9 +51,9 @@ u.s.w. wie 1. {#चि#} und mit diesem bis jetzt als identisch betrachtet. Mit 
 <div n="p">— {#नि#} {%wahrnehmen, bemerken%}: {#हरी\ इन्द्र^स्य\ नि चि^काय\ कः स्वि^त्#} 
 <ls>ṚV. 10, 114, 9.</ls> <ls n="ṚV. 10, 114,">2.</ls> <ls n="ṚV. 10,">124, 9.</ls> <ls n="ṚV.">1, 164, 38</ls> (vgl. 
 <ls>P. 6, 1, 35</ls>). {#यः सो^म\पा नि^चि\तो वज्र^बाहुः#} 
-<ls>2, 12, 13.</ls> {#वि\द\था नि\चिक्य^त्#} 
-<ls>4, 38, 4.</ls> <ls>AV. 5, 20, 12.</ls> {#विश्व\ं ह्यु^ग्र निचि\केषि^ द्रु\ग्धम्#} 
-<ls>1, 10, 2.</ls> {#वि चि^न्मि\षन्ता^ निचि\रा नि चि^क्यतुः#} 
+<ls n="P.">2, 12, 13.</ls> {#वि\द\था नि\चिक्य^त्#} 
+<ls n="P.">4, 38, 4.</ls> <ls>AV. 5, 20, 12.</ls> {#विश्व\ं ह्यु^ग्र निचि\केषि^ द्रु\ग्धम्#} 
+<ls n="AV.">1, 10, 2.</ls> {#वि चि^न्मि\षन्ता^ निचि\रा नि चि^क्यतुः#} 
 <ls>ṚV. 8, 25, 9.</ls> {#नि के\तुना\ जना^नां चि\केथे^#} 
 <ls n="ṚV.">5, 66, 4.</ls> {#ते निचिक्युर्ब्रह्म पुराणमग्र्यम्#} {%bemerken, erkennen%} 
 <ls>ŚAT. BR. 14, 7, 2, 21.</ls> — desid. {%beobachten, überwachen%}: {#स म\न्युं मर्त्या^ना\मद^ब्धो\ नि चि^कीषते । पु\रा नि\दश्चि^कीषते#} 
@@ -68,7 +68,7 @@ u.s.w. wie 1. {#चि#} und mit diesem bis jetzt als identisch betrachtet. Mit 
 <ls>PAÑCAT. 33, 11.</ls> {#एवं निश्चित्य मनसा#} 
 <ls>R. 1, 57, 9.</ls> 
 <ls>MBH. 3, 2779.</ls> {#निश्चित्यार्थविनिश्चयम्#} 
-<ls>5, 7013.</ls> {#निश्चित्य मन्त्रिभिर्मन्त्रनिश्चयम्#} 
+<ls n="MBH.">5, 7013.</ls> {#निश्चित्य मन्त्रिभिर्मन्त्रनिश्चयम्#} 
 <ls>R. 1, 8, 22.</ls> {#इदं निश्चिनु विप्रेन्द्र एक एव भवाम्यहम् । वासुदेवो जगत्यस्मिन्#} 
 <ls>HARIV. 15061.</ls> {#गुणदोषावनिश्चित्य#} 
 <ls>HIT. II, 137.</ls> {#आत्मनस्तत्र निश्चित्य विपत्तिम्#} 
@@ -135,11 +135,11 @@ u.s.w. wie 1. {#चि#} und mit diesem bis jetzt als identisch betrachtet. Mit 
 <div n="1"> 1) {%erwägen%}: {#तेन सार्धं विनिश्चित्य ततः कर्म समारभेत्#} 
 <ls>M. 7, 59.</ls> {#विनिश्चित्य - ब्राह्मणैः#} 
 <ls>MBH. 1, 4136.</ls> <ls n="MBH.">3, 2293.</ls> {#विनिश्चित्य बहुधा विचार्य च पुनः पुनः#} 
-<ls>2205. 2345.</ls> <ls>R. 5, 87, 12.</ls> <ls>PAÑCAT. III, 219.</ls> {#अर्थानर्थौ विनिश्चित्य#} 
+<ls n="MBH. 3,">2205.</ls> <ls n="MBH. 3,">2345.</ls> <ls>R. 5, 87, 12.</ls> <ls>PAÑCAT. III, 219.</ls> {#अर्थानर्थौ विनिश्चित्य#} 
 <ls>R. 5, 90, 12.</ls> 
 <ls>MBH. 5, 7019.</ls> {#एतद्बुद्ध्या विनिश्चित्य मनसा#} 
-<ls>5973.</ls> {#एतां बुद्धिं विनिश्चित्य#} 
-<ls>14, 330.</ls> 
+<ls n="MBH. 5,">5973.</ls> {#एतां बुद्धिं विनिश्चित्य#} 
+<ls n="MBH.">14, 330.</ls> 
 <div n="1">— 2) {%für ausgemacht ansehen, für gewiss halten%}: {#अर्थाभावं विनिश्चित्य#} 
 <ls>BHĀG. P. 3, 7, 18.</ls> — {#विनिश्चित#} 
 <div n="2"> a) {%fest entschlossen zu%}: {#देहत्याग°#} 
@@ -182,8 +182,8 @@ u.s.w. wie 1. {#चि#} und mit diesem bis jetzt als identisch betrachtet. Mit 
 <ls>MBH. 5, 6088.</ls> {#कोपप्रसादवस्तूनि ये विचिन्वन्ति सेवकाः#} 
 <ls>PAÑCAT. I, 42.</ls> {%durchsuchen%}: {#चेदिपुरीम् - विचिन्वानः#} 
 <ls>MBH. 3, 2660.</ls> {#महीं विचेतुम्#} 
-<ls>8870.</ls> {#मही - अस्माभिर्विचिता#} 
-<ls>8866. 5, 3517. 13, 4034.</ls> <ls>R. 2, 93, 19. 3, 68, 9. 12. 19. 70,17. 4, 41, 10. 14. 15. 71. 43, 69</ls>
+<ls n="MBH. 3,">8870.</ls> {#मही - अस्माभिर्विचिता#} 
+<ls n="MBH. 3,">8866.</ls> <ls n="MBH.">5, 3517.</ls> <ls n="MBH.">13, 4034.</ls> <ls>R. 2, 93, 19. 3, 68, 9. 12. 19. 70,17. 4, 41, 10. 14. 15. 71. 43, 69</ls>
 [Page2-1005]
 (lies: {#विचेतुम्#} st. {#विचितुम्#}). 
 <ls>PAÑCAT. I, 51.</ls> {#देवदानवयक्षांश्च विचेष्यामः#} {%nachsuchen bei%} 

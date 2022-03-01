@@ -17,7 +17,7 @@
 <ls>INDR. 2, 22. 3, 5.</ls> 
 <ls>HIḌ. 4, 5.</ls> 
 <ls>MBH. 1, 1044.</ls> {#नियोगात्#} {%nach Anweisung, auf Befehl%} 
-<ls>2, 2100.</ls> {#मन्नियोगेन#} 
+<ls n="MBH.">2, 2100.</ls> {#मन्नियोगेन#} 
 <ls>R. 3, 40, 9.</ls> 
 <ls>INDR. 4, 17.</ls> {#त्वया मया च - पितुर्नियोगे स्थातव्यम्#} 
 <ls>R. 2, 21, 48.</ls> {#मम - नियोगस्थाः (हयोत्तमाः)#} 
@@ -30,14 +30,14 @@
 <ls>HARIV. 12588.</ls> <ls n="HARIV.">12587.</ls> {#एष ते प्रथमः कृष्ण नियोगो गोषु यः कृतः#} 
 <ls n="HARIV.">4031.</ls> {#अनियोज्ये नियोगे मां नियुनक्षि#} 
 <ls>MBH. 1, 3267.</ls> {#न नियोज्याश्च वः शिष्या अनियोगे महाभये#} {%ein unangemessener Auftrag%} 
-<ls>12, 12358.</ls> {#अनियोगे नियुक्तेन त्वया राज्ञा#} 
+<ls n="MBH.">12, 12358.</ls> {#अनियोगे नियुक्तेन त्वया राज्ञा#} 
 <ls>R. GORR. 2, 68, 17.</ls> {#स्वस्वनियोगव्यापृतपरिजन#} 
 <ls>KATHĀS. 26, 272.</ls> {#नियोगार्थ#} {%der Gegenstand einer Anweisung, das aufgetragene Geschäft%} 
 <ls>M. 9, 61. 62.</ls> {#नियोगकरण#} als Erkl. von {#निमन्त्रण#} 
-<ls>P. 3, 3, 161,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 3, 3, 161</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 4) {%Bestimmtheit, Nothwendigkeit%} 
-<ls>P. 2, 1, 43, <is>Vārtt</is>.</ls> {#नियोगेन#} {%nothwendig, bestimmt, gewiss%} 
+<ls>P. 2, 1, 43</ls>, <is>Vārtt</is>. {#नियोगेन#} {%nothwendig, bestimmt, gewiss%} 
 <ls>RAGH. 17, 49</ls> (<ls>Schol. in der Calc.</ls> Ausg. = {#निश्चयेन#}). 
 <ls>KĀŚ.</ls> zu <ls>P. 4, 4, 66.</ls>
 <LEND>

@@ -24,7 +24,7 @@
 <div n="1">— 2) {%Zeit der Kraft, jugendliches Alter; Altersstufe%} überh., {%Lebensjahre%} 
 <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 4, 188.</ls> <ls>AK. 3, 4, 30, 232.</ls> <ls>H. 565. an. 2, 590.</ls> <ls>MED. s. 34.</ls> {#याव^न्ता\वग्रे^ प्रथ\मं स^मे\यथु\स्तद्वा\ं वयो^ यम\राज्ये^ समा\नम्#} 
 <ls>AV. 12, 3, 1.</ls> {#अ\न्वार^भेथा\ं वय^ उत्त\राव^त्#} 
-<ls>47.</ls> {#पष्ठौहीमन्तर्वतीं दद्यात्सा हि सर्वाणि वयांसि यद्वत्सं बिभर्ति तेन वत्सा यद्वत्सतरी तेन वयो यत्परं वय आप्त तेन स्थविरा#} {%er gebe eine trächtige Kalbin, denn sie repräsentirt sämmtliche Altersstufen: indem sie ein Kalb trägt, das Kalb; sofern sie eine Kalbin ist, die Jugend; weil sie selbst auf einer höheren Altersstufe steht, kann sie für alt gelten%}, 
+<ls n="AV. 12, 3,">47.</ls> {#पष्ठौहीमन्तर्वतीं दद्यात्सा हि सर्वाणि वयांसि यद्वत्सं बिभर्ति तेन वत्सा यद्वत्सतरी तेन वयो यत्परं वय आप्त तेन स्थविरा#} {%er gebe eine trächtige Kalbin, denn sie repräsentirt sämmtliche Altersstufen: indem sie ein Kalb trägt, das Kalb; sofern sie eine Kalbin ist, die Jugend; weil sie selbst auf einer höheren Altersstufe steht, kann sie für alt gelten%}, 
 <ls>KĀṬY. 11, 2</ls>; vgl. 
 <ls>TBR. 3, 12, 5, 9</ls>, wozu aus 
 <ls>ĀPASTAMBA</ls> angeführt wird: {#एकहायनप्रभृत्या पञ्चहायनेभ्यो वयांसि#} d. h. {%von einem Jahre an bis zu fünfen vertheilen sich die Altersstufen%} (der Thiere). {#सर्वाणि वयांसि दद्यात्#} {%Thiere jeden Alters%} 
@@ -35,7 +35,7 @@
 <ls>ŚAT. BR. 11, 2, 7, 28. 12, 9, 1, 11.</ls> {#त्रेधा विहितं पुरुषस्य वयः#} 
 <ls>8.</ls> — {#बालमप्राप्तवयसमजातव्यञ्जनाकृतिम्#} {%unerwachsen%} 
 <ls>MBH. 1, 6136.</ls> {#वयसि प्राप्ते#} 
-<ls>3, 2082.</ls> {#ऊढवयस्#} 
+<ls n="MBH.">3, 2082.</ls> {#ऊढवयस्#} 
 <ls>BHĀG. P. 4, 9, 66.</ls> {#रूपेण संपन्ना वयसा च#} 
 <ls>MBH. 3, 10026.</ls> 
 <ls>Spr. 703. 2724.</ls> 
@@ -119,7 +119,7 @@ v. l.) <ls>Spr. 2723.</ls> {#वयसः स्थापनं#} (vgl. {#वय
 <ls>347.</ls> <ls>BHĀG. P. 1, 6, 2.</ls> {#कैशोर#} 
 <ls>3, 28, 17.</ls> {#अल्प#} 
 <ls>SUBHĀṢ. 215.</ls> {#द्वितीय#} 
-<ls>P. 4, 1, 20, <is>Vārtt</is>., Schol.</ls> <ls>HALĀY. 2, 329.</ls> {#मध्यम#} 
+<ls>P. 4, 1, 20</ls>, <is>Vārtt</is>., Schol. <ls>HALĀY. 2, 329.</ls> {#मध्यम#} 
 <ls>ŚAT. BR. 11, 4, 1, 7.</ls> 
 <ls>KATHĀS. 104, 20.</ls> {#मध्य#} 
 <ls>MBH. 3, 1304.</ls> 
@@ -128,8 +128,8 @@ v. l.) <ls>Spr. 2723.</ls> {#वयसः स्थापनं#} (vgl. {#वय
 <ls>KĀTY. ŚR. 4, 1, 18.</ls> {#उत्तम#} 
 <ls>ŚAT. BR. 11, 4, 1, 5. fgg.</ls> {#जघन्य#} 
 <ls>MBH. 3, 1304.</ls> {#पश्चिम#} 
-<ls>5, 3062.</ls> <ls>RAGH. 19, 1.</ls> <ls>HIT. 28, 2.</ls> {#अचरम#} 
-<ls>P. 4, 1, 20, <is>Vārtt</is>.</ls> {#अन्त्य#} 
+<ls n="MBH.">5, 3062.</ls> <ls>RAGH. 19, 1.</ls> <ls>HIT. 28, 2.</ls> {#अचरम#} 
+<ls>P. 4, 1, 20</ls>, <is>Vārtt</is>. {#अन्त्य#} 
 <ls>VARĀH. BṚH. 8, 1.</ls> {#अन्त#} 
 <ls>RAGH. 9, 79. 18, 25.</ls> 
 <div n="v">— Vgl. {#अभि°, उद्वयस्, नीचा°, पूर्व°, प्र°, बृहद्वयस्, मध्य°, वृद्ध°, स°#} .

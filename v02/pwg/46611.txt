@@ -5,7 +5,7 @@
 <ls>AV. 8, 8, 2.</ls> 
 <ls>ŚAT. BR. 1, 1, 3, 5.</ls> {#ते पूतयो वान्ति#} {%stinken%} 
 <ls>3, 2, 1, 11. 6, 6, 1, 24. 4, 1, 3, 6.</ls> <ls>KĀṬH. 10, 5.</ls> <ls>MBH. 12, 3606.</ls> {#इपुरासीन्न संश्लिष्टो न पूतिर्न (?) च जिह्मगः#} 
-<ls>7, 8639.</ls> {#पूति पर्युषितं (पूतिप°#} 
+<ls n="MBH.">7, 8639.</ls> {#पूति पर्युषितं (पूतिप°#} 
 <ls>SCHLEGEL</ls>) {#च (भोजनम्)#} 
 <ls>BHAG. 17, 10.</ls> 
 <ls>MĀRK. P. 32, 26.</ls> {#पित्त#} 
@@ -15,10 +15,10 @@
 <ls>243, 2.</ls> {#°मांस#} 
 <ls>2, 9, 1. 60, 8. 274, 19. 369, 14.</ls> <ls>VARĀH. BṚH. S. 54, 23.</ls> {#करम्भपूतिसौरभ्यशान्तोग्राम्लादिभिः पृथक् । द्रव्यावयववैषम्याद्गन्ध एको विभिद्यते ॥#} 
 <ls>BHĀG. P. 3, 26, 45.</ls> {#पचति पूतिर्देवदत्तः#} 
-<ls>P. 8, 1, 69, <is>Vārtt</is>. 1,</ls> 
-<ls>Sch.</ls> {#पूति#} nach einem verbum finitum als Ausdruck des Tadels: {#प\च\ति\ पूति^#} 
-<ls>P. 8, 1, 69,</ls> 
-<ls>Sch.</ls>; vgl. <ls>SIDDH. K.</ls> zu diesem <is>Sūtra</is>. 
+<ls>P. 8, 1, 69</ls>, <is>Vārtt</is>. 1, <ls>Sch.</ls>
+{#पूति#} nach einem verbum finitum als Ausdruck des Tadels: {#प\च\ति\ पूति^#} 
+<ls>P. 8, 1, 69</ls>, <ls>Sch.</ls>; vgl. <ls>SIDDH. K.</ls>
+zu diesem <is>Sūtra</is>. 
 <div n="1">— 2) <lex>n.</lex> 
 <div n="2"> a) {%Jauche, Eiter%}: {#स पूतिना#} (so ist zu trennen) {#विस्रवता वेदनार्तो महामुनिः#} 
 <ls>MBH. 9, 2259.</ls> 

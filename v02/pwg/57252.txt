@@ -41,7 +41,7 @@
 <ls>R. 1, 57, 8.</ls> 
 <ls>Spr. 30. 294. 783. 1823. 2959. 3189. 4237.</ls> 
 <ls>VID. 272.</ls> 
-<ls>DHŪRTAS.</ls> in <ls>LA. 72, 13. 83, 10. 92, 1.</ls> ironisch <ls>P. 1, 4, 106. 8, 1, 46</ls> (Einfluss auf den Ton des nachfolgenden fut.). {#एहि मन्ये ओदनं भोक्ष्यसे भुक्तः सो ऽतिथिभिः#} Schol. {#अहं तव प्रिया मन्ये येनैवं त्वं प्रभाषसे#} 
+<ls>DHŪRTAS.</ls> in <ls>LA. 72, 13. 83, 10. 92, 1.</ls> ironisch <ls>P. 1, 4, 106.</ls> <ls n="P.">8, 1, 46</ls> (Einfluss auf den Ton des nachfolgenden fut.). {#एहि मन्ये ओदनं भोक्ष्यसे भुक्तः सो ऽतिथिभिः#} Schol. {#अहं तव प्रिया मन्ये येनैवं त्वं प्रभाषसे#} 
 <ls>R. 3, 51, 25.</ls> — {#हतो चेन्मन्यते हन्तुम्#} 
 <ls>KAṬHOP. 2, 19.</ls> {#प्राप्तकालममन्यत#} {%er glaubte, dass die Zeit gekommen sei%}, 
 <ls>MBH. 3, 2206.</ls> <ls n="MBH. 3,">2261.</ls> {#संतानं मेनिरे#} {%glaubten an, erwarteten%} 
@@ -52,7 +52,7 @@
 <ls>BHĀG. P. 1, 7, 31.</ls> {#प्रायोपासनया शान्तिं मन्वानः#} 
 <ls>BHAṬṬ. 7, 73.</ls> {#किं बहु मन्यसे#} so v. a. {%wozu stellst du grosse Betrachtungen an?%} 
 <ls>MBH. 13, 44</ls>; vgl. {#भाषसे किं बहु#} 
-<ls>47.</ls> 
+<ls n="MBH. 13,">47.</ls> 
 <div n="1">— 2) {%halten für Etwas%} (acc.): {#अ\व\द्यमि^व\ मन्य^माना#} 
 <ls>ṚV. 4, 18, 5.</ls> <ls n="ṚV. 4,">2, 3.</ls> {#ये त्वा^ देवोस्रि\कं मन्य^मानाः#} 
 <ls n="ṚV.">1, 190, 5.</ls> <ls n="ṚV.">6, 18, 4.</ls> {#अधा^ मन्ये बृ\हद^सु\र्य^मस्य#} 
@@ -61,8 +61,8 @@
 <ls>12, 5, 2, 1.</ls> {#चिरं तन्मेने यद्वासः पर्यधास्यत#} {%es schien ihm zu lange das Gewand zuvor umzunehmen%} 
 <ls>11, 5, 1, 4.</ls> <ls>AIT. BR. 3, 27. 36. 48.</ls> {#न ते कुशलं मेनिरे#} 
 <ls>7, 18.</ls> <ls>KAṬHOP. 2, 13.</ls> <ls>M. 4, 248. 7, 170. 171. 173. 9, 61.</ls> <ls>BHAG. 2, 26.</ls> <ls>MBH. 1, 5971.</ls> <ls n="MBH. 1,">5996.</ls> <ls n="MBH. 1,">6034.</ls> <ls n="MBH. 1,">6040.</ls> <ls n="MBH.">2, 1987.</ls> <ls n="MBH.">3, 2345.</ls> <ls n="MBH. 3,">2789.</ls> <ls n="MBH.">5, 5425.</ls> {#अस्य दुःखस्य चोत्पत्तिं#} (so die ed. Bomb.) {#भीष्ममेवेह मन्यते#} 
-<ls>6079.</ls> {#तमेकं द्विरदं संख्ये मेनिरे शतशो द्विपान्#} 
-<ls>7, 1173.</ls> {#नहि तुल्यं बलं मन्ये मम राज्ञा#} 
+<ls n="MBH. 5,">6079.</ls> {#तमेकं द्विरदं संख्ये मेनिरे शतशो द्विपान्#} 
+<ls n="MBH.">7, 1173.</ls> {#नहि तुल्यं बलं मन्ये मम राज्ञा#} 
 <ls>R. 1, 54, 11. 55, 20. 61, 20.</ls> 
 <ls>Spr. 69. 1995. 2125. 2820. 4385. 5382.</ls> 
 <ls>ŚĀK. 104, 9.</ls> 
@@ -73,7 +73,7 @@
 <ls>BHĀG. P. 3, 23, 30.</ls> <ls>BRAHMA-P. in LA. (II) 56, 13.</ls> {#न#} (sc. {#किंचित्) सुतान्मन्यते परम्#} 
 <ls>R. 2, 74, 22.</ls> {#क्षेत्रज्ञं त्वां तात मन्याम सर्वे#} 
 <ls>MBH. 1, 3612.</ls> {#मन्यन्ति#} 
-<ls>3, 13444.</ls> <ls>Spr. 2932.</ls> {#मन्यामः#} 
+<ls n="MBH.">3, 13444.</ls> <ls>Spr. 2932.</ls> {#मन्यामः#} 
 <ls>MĀRK. P. 69, 55.</ls> {#अमन्यत्#} 
 <ls>21, 99.</ls> {#मनुते#} 
 <ls>BHĀG. P. 1, 7, 5. 4, 27, 4.</ls> 
@@ -153,8 +153,8 @@
 <ls>ŚĀK. 56, 3.</ls> {#यथा भवान्मन्यते#} 
 <ls>101, 19.</ls> <ls>VIKR. 12, 9.</ls> {#यदि मन्यसे#} 
 <ls>MBH. 3, 2299.</ls> <ls n="MBH. 3,">2331.</ls> <ls n="MBH. 3,">2688.</ls> {#मन्यसे यदि#} 
-<ls>2772. 3025.</ls> {#किं वा मन्यत पुत्रकाः#} (die ed. Bomb. {#मन्यध्वम्#} bei einer auch sonst abweichenden Lesart) 
-<ls>1, 8370.</ls> {#तथेति तदमन्यत#} 
+<ls n="MBH. 3,">2772.</ls> <ls n="MBH. 3,">3025.</ls> {#किं वा मन्यत पुत्रकाः#} (die ed. Bomb. {#मन्यध्वम्#} bei einer auch sonst abweichenden Lesart) 
+<ls n="MBH.">1, 8370.</ls> {#तथेति तदमन्यत#} 
 <ls>KATHĀS. 27, 149. 28, 34.</ls> 
 <ls>SĀH. D. 11, 14.</ls> {%Jmd%} (acc.) {%beistimmen%} 
 <ls>MBH. 14, 799.</ls> 
@@ -169,7 +169,7 @@
 {# दे\वम^मंसत#} 
 <ls n="ṚV.">10, 86, 1.</ls> {#यथा त्वदन्यं पुरुषं न सा मंस्यति कर्हिचित्#} 
 <ls>MBH. 3, 2092.</ls> {#मंस्यन्ते मां यथा नृपम्#} 
-<ls>4, 32.</ls> {#तं मन्महे महेशानम्#} 
+<ls n="MBH.">4, 32.</ls> {#तं मन्महे महेशानम्#} 
 <ls>Verz. d. Oxf. H. 69,a,1.</ls> {#न मंस्यते जनार्दनम्#} 
 <ls>VOP. 25, 12.</ls> {#निकटस्थं गरीयांसमपि लोको न मन्यते#} 
 <ls>Spr. 1571.</ls> {#मन्यामहे मलयमेव#} 
@@ -225,11 +225,11 @@
 <ls>VOP. 5, 7. 8, 103.</ls> {#यदि सौधपतिर्भद्रे नियोक्तव्यो मतस्तव#} {%dir erscheint%} 
 <ls>MBH. 5, 6084.</ls> {#यज्ञगोप्ता स मे मतः#} 
 <ls>R. 1, 70, 4.</ls> {#अहिंस्यस्तव चेन्मतो ऽहम्#} 
-<ls>RAGH. 2, 57. 14, 40. <is>Kār</is>.</ls> zu <ls>P. 5, 2, 45.</ls> {#तस्मान्मे नैव दोषो मतस्तव#} 
+<ls>RAGH. 2, 57. 14, 40.</ls> <is>Kār</is>. zu <ls>P. 5, 2, 45.</ls> {#तस्मान्मे नैव दोषो मतस्तव#} 
 <ls>MBH. 13, 40.</ls> {#न चान्यदत्रौषधमस्ति मे मतम्#} so v. a. {%nach meiner Meinung giebt es nicht%} 
-<ls>4, 380.</ls> mit {#श्रेणि#} u. s. w. (als praed.) componirt <is>gaṇa</is> {#कृतादि#} zu 
+<ls n="MBH.">4, 380.</ls> mit {#श्रेणि#} u. s. w. (als praed.) componirt <is>gaṇa</is> {#कृतादि#} zu 
 <ls>P. 2, 1, 59.</ls> davor ein fem.-suff. verkürzt 
-<ls>6, 3, 43. fgg.</ls> {#ब्राह्मणिमता#} Schol. {#बहु°#} {%hoch gehalten, geachtet%}; s. u. {#बहु#} Belege.
+<ls n="P.">6, 3, 43. fgg.</ls> {#ब्राह्मणिमता#} Schol. {#बहु°#} {%hoch gehalten, geachtet%}; s. u. {#बहु#} Belege.
 [Page5-0512]
 
 <div n="2">— b) {%gut befunden, gebilligt%}: {#मतं मे ऽमुकपुत्रस्य यदत्रोपरि लेखितम्#} 
@@ -238,7 +238,7 @@
 <ls>KĀM. NĪTIS. 4, 67.</ls> <ls>Spr. 1984.</ls> 
 <div n="2">— c) {%geachtet, geehrt, gern gesehen von%} (gen.) 
 <ls>P. 3, 2, 188.</ls> {#राज्ञाम्#} 
-<ls>Schol. 2, 2, 12,</ls> <ls>Sch. 3, 67,</ls> <ls>Sch.</ls> <ls>RAGH. 2, 16. 8, 8.</ls> <ls>KĀM. NĪTIS. 14, 39.</ls> <ls>KIR. 5, 27.</ls> {#भुवनाधिपत्यभोगादयः कृपणलोकमता भवन्ति#} {%hoch angeschlagen%} 
+<ls>Schol. 2, 2, 12</ls>, <ls>Sch. 3, 67</ls>, <ls>Sch.</ls> <ls>RAGH. 2, 16. 8, 8.</ls> <ls>KĀM. NĪTIS. 14, 39.</ls> <ls>KIR. 5, 27.</ls> {#भुवनाधिपत्यभोगादयः कृपणलोकमता भवन्ति#} {%hoch angeschlagen%} 
 <ls>Spr. 1012.</ls> = {#संमत#} 
 <ls>MED. t. 43.</ls> = {#संमित#} (wohl {#संमत)#} und {#अर्चित#} 
 <ls>H. an. 2, 185.</ls> 
@@ -274,7 +274,7 @@
 <div n="1">— 11) partic. {#मनित#} {%gekannt, verstanden%} 
 <ls>AK. 3, 2, 57.</ls> 
 <ls>H. 1496.</ls> Was bedeutet aber diese Form 
-<ls>PAÑCAR. 3, 12,</ls> <ls>10</ls>? 
+<ls>PAÑCAR. 3, 12</ls>, <ls>10</ls>? 
 <div n="v">— Vgl. {#म्ना#} .
 
 <div n="p">— caus. {#मान꣡यति#} (wohl denom. von {#मान#} {%Ehre) ehren, Ehre erzeigen%} (mit acc.) 
@@ -290,18 +290,18 @@
 <ls>S. 6, 539, 6.</ls> {#वस्त्रैराभरणैर्भूपं महार्हैस्तममानयत्#} 
 <ls>KATHĀS. 38, 31. 49, 204. 66, 133.</ls> {#मानयान#} 
 <ls>MBH. 3, 13111.</ls> {#मानयस्व#} 
-<ls>5, 7313.</ls> {#मानयन्तश्च ते वाक्यम्#} 
+<ls n="MBH.">5, 7313.</ls> {#मानयन्तश्च ते वाक्यम्#} 
 <ls>R. 1, 14, 15.</ls> {#मायाम् - उरु मानयानः#} 
 <ls>BHĀG. P. 3, 1, 16.</ls> {#बहु मानयन्#} 
 <ls>5, 17. 15, 19.</ls> {#बहु मानयेथाः#} 
 <ls>MĀRK. P. 25, 15.</ls> {#साधु मानयेत्#} 
 <ls>BHĀG. P. 7, 7, 32.</ls> {#मान्यमान#} 
 <ls>MBH. 13, 2034.</ls> {#मानित#} 
-<ls>4, 94. 13, 4712.</ls> <ls>R. 1, 17, 17. 5, 7, 55. 6, 107, 5.</ls> <ls>RAGH. 2, 64.</ls> <ls>BHĀG. P. 1, 4, 28.</ls> <ls>MĀRK. P. 70, 17.</ls> {#अ°#} 
+<ls n="MBH.">4, 94.</ls> <ls n="MBH.">13, 4712.</ls> <ls>R. 1, 17, 17. 5, 7, 55. 6, 107, 5.</ls> <ls>RAGH. 2, 64.</ls> <ls>BHĀG. P. 1, 4, 28.</ls> <ls>MĀRK. P. 70, 17.</ls> {#अ°#} 
 <ls>MBH. 4, 94.</ls> 
 <ls>KĀM. NĪTIS. 13, 67. 74.</ls> {#आचार्यता मानिता#} 
 <ls>MBH. 5, 7146.</ls> {#वाक्य#} 
-<ls>1, 3526.</ls> {#मनागमानितगुण#} 
+<ls n="MBH.">1, 3526.</ls> {#मनागमानितगुण#} 
 <ls>Spr. 1885.</ls> {#मानित#} <lex>n.</lex> {%Ehrenerweisung%}: {#मानिते तव राजेन्द्र सर्वेषां मानितं भवेत्#} 
 <ls>HARIV. 6210</ls> (fehlt in der neueren Ausg.) — {#मानयते स्तम्भे#} 
 <ls>DHĀTUP. 33, 35.</ls> {#गर्वके#} 
@@ -314,7 +314,7 @@
 <ls>VOP. 8, 103. 119.</ls> 
 <ls>SIDDH. K.</ls> zu <ls>P. 3, 1, 6.</ls> {#पश्य^न्त्यस्याश्चरि\तं पृ^थि\व्यां पृथ\ङ्नरो^ बहु\धा मीमा^ंसमानाः#} 
 <ls>AV. 9, 1, 3.</ls> {#तां दे\वा अ^मीमांसन्त व\शोया३मव\शेति^#} 
-<ls>12, 4, 42.</ls> <ls>TS. 7, 5, 7, 1.</ls> <ls>KĀṬH. 36, 14. 37, 1.</ls> {#गव्यं मीमांसमानाः पृच्छन्ति सन्ति तत्रोषा३ इति#} 
+<ls n="AV.">12, 4, 42.</ls> <ls>TS. 7, 5, 7, 1.</ls> <ls>KĀṬH. 36, 14. 37, 1.</ls> {#गव्यं मीमांसमानाः पृच्छन्ति सन्ति तत्रोषा३ इति#} 
 <ls>AIT. BR. 4, 27.</ls> {#मीमांसां चक्रुः को न आत्मा किं ब्रह्मेति#} 
 <ls>CHĀND. UP. 5, 11, 1.</ls> {#मीमांसित्वोभयम्#} 
 <ls>M. 4, 224</ls> (= <ls>MBH. 12, 9453</ls>). <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 319.</ls> <ls>BHĀG. P. 7, 8, 20.</ls> act.: {#इति मीमांसतस्तस्य ब्रह्मणः सह सूनुभिः#} 
@@ -334,9 +334,9 @@
 <div n="v">— Vgl. {#मीमांसा, मीमांस्य#} .
 
 <div n="p">— desid. vom desid. {#मीमांसिषते#} 
-<ls>P. 3, 1, 7, <is>Vārtt</is>. 3,</ls> 
-<ls>Sch. 1, 3, 62,</ls> 
+<ls>P. 3, 1, 7</ls>, <is>Vārtt</is>. 3, <ls>Sch. 1, 3, 62,</ls>
 <ls>Sch.</ls>
+
 
 <div n="p">— {#अति#} 
 <div n="1"> 1) {%geringschätzen, verschmähen%}: {#न\हि त्वा^ पूषन्नति\मन्य^ आघृणे\ न ते^ स\ख्यम^पह्नु\वे#} 
@@ -365,7 +365,7 @@
 <ls>ĀŚV. GṚHY. 4, 7, 28.</ls> {#यदि कन्यानुमन्यते#} {%wenn sie einwilligt%} 
 <ls>M. 9, 97.</ls> 
 <ls>MBH. 2, 1714.</ls> <ls n="MBH.">13, 3609.</ls> {#एवमेवानुमंस्येरन्#} 
-<ls>14, 800.</ls> <ls>HARIV. 6985.</ls> {#राजाङ्गुल्यानुमन्यते#} 
+<ls n="MBH.">14, 800.</ls> <ls>HARIV. 6985.</ls> {#राजाङ्गुल्यानुमन्यते#} 
 <ls>MĀLAV. 69, 22.</ls> {#अनुमन्य#} 
 <ls>KATHĀS. 30, 78.</ls> {#अनुमन्य स तस्याश्च स्वयंवरकृते#} {%in Betreff%} 
 <ls>SOM. NALA 21.</ls> <ls>DAŚAK.</ls> in <ls>BENF. Chr. 191, 11.</ls> {#यथा वाप्यनुमन्यसे#} {%wie du beliebst%} 
@@ -436,7 +436,7 @@
 <div n="v">— Vgl. {#अनुमत#} (wo fernere Belege für 1. u. 2. zu finden sind), {#°मति, °मनन, °मन्तर्#} . — caus. 
 <div n="1"> 1) {%Jmd%} (acc.) {%um Erlaubniss bitten%} 
 <ls>MBH. 6, 1549. fg.</ls> <ls n="MBH. 6,">1595.</ls> <ls n="MBH. 6,">1597</ls> {#(अनुमानये त्वाम्#} st. {#अनुमानयित्वा#} ed. Bomb.). 
-<ls>14, 2109.</ls> <ls>R. 1, 1, 67</ls> (wo {#अनुमान्य#} st. {#अवमान्य#} zu lesen ist; vgl. 
+<ls n="MBH.">14, 2109.</ls> <ls>R. 1, 1, 67</ls> (wo {#अनुमान्य#} st. {#अवमान्य#} zu lesen ist; vgl. 
 <ls>SCHLEGEL</ls>'s Uebers.). <ls>2, 2, 8. 110, 23. 4, 61, 38.</ls> insbes. {%Jmd um Erlaubniss bitten fortzugehen, sich verabschieden bei%} (acc.) 
 <ls>MBH. 3, 278.</ls> 
 <ls>HARIV. 6564.</ls> <ls n="HARIV.">6568.</ls> 
@@ -516,8 +516,8 @@
 <div n="1">— 2) {%böse Absichten gegen Jmd%} oder {%Etwas%} (acc.) {%haben, Jmd Etwas anzuthun suchen, nachstellen, bedrohen%}; auch geradezu für {%tödten%}: {#परि^ वृङ्धि\ हर^सा\ माभि म^ंस्थाः#} 
 <ls>VS. 11, 41.</ls> {#यो ब्रा^ह्म\णस्य\ तद्धन^म\भि ना^रद\ मन्य^ते#} {%der dem Brahmanen diesen Besitz zu beschädigen sucht%} 
 <ls>AV. 5, 19, 9.</ls> {#मा त्वा^ क्र\व्यादभि^ मंस्त#} 
-<ls>8, 1, 12.</ls> {#अ\सिना\ माभि म^ंस्थाः#} {%beschädige nicht%} 
-<ls>9, 5, 4.</ls> {#नास्य^ रु\द्रः प्र\जां प\शून\भिम^न्यते#} 
+<ls n="AV.">8, 1, 12.</ls> {#अ\सिना\ माभि म^ंस्थाः#} {%beschädige nicht%} 
+<ls n="AV.">9, 5, 4.</ls> {#नास्य^ रु\द्रः प्र\जां प\शून\भिम^न्यते#} 
 <ls>TBR. 1, 5, 6, 7.</ls> 
 <ls>TS. 1, 6, 7, 4. 3, 1, 9, 6.</ls> 
 <ls>ŚAT. BR. 3, 6, 2, 20. 10, 6, 5, 5.</ls> {#स हैनमीश्वरः सपुत्रं सपशुमभिमन्तोः#} 
@@ -530,7 +530,7 @@
 <div n="1">— 3) {%zugeben, freistellen%}: {#अभिमते ऽनुमते वा#} {%(wenn sie es angenommen oder ihm überlassen haben%} 
 <ls>STENZ.</ls>) <ls>ĀŚV. GṚHY. 4, 7, 28.</ls> {#लोकवृद्धतमे कृष्णे यो ऽर्हणां नाभिमन्यते#} {%nicht zulässt%} 
 <ls>MBH. 2, 1374.</ls> {#विवास्यमानानस्थाने नगरे यो ऽभिमन्यते#} {%der es zugiebt, dass sie verbannt werden%}, 
-<ls>1, 5743.</ls> {#साभिमता तस्य रिपौ वृत्तिः सनातनी#} 
+<ls n="MBH.">1, 5743.</ls> {#साभिमता तस्य रिपौ वृत्तिः सनातनी#} 
 <ls>Spr. 3433.</ls> {#आत्मानमङ्ग शिरसा हरये ऽभिमेने (= अङ्गीकृतवान्#} Schol.) {%zur Verfügung stellen%} 
 <ls>BHĀG. P. 2, 7, 18.</ls> 
 <div n="1">— 4) {%dafür halten, meinen, sich einbilden%}: {#वयं कृतार्था इत्यभिमन्यन्ति बालाः#} 
@@ -545,8 +545,8 @@
 <ls>SĀH. D. 4, 5.</ls> 
 <ls>ŚAṂK.</ls> zu <ls>BṚH. ĀR. UP. S. 289.</ls> 
 <div n="v">— Vgl. {#अभिमन्तर्#} fgg., {#अभिमाति, अभिमातिन्, अभिमान#} fgg. — caus. {#अभिमानयति#} 
-<ls>P. 3, 1, 6,</ls> 
-<ls>Sch.</ls>
+<ls>P. 3, 1, 6</ls>, <ls>Sch.</ls>
+
 
 <div n="p">— {#अव#} 
 <div n="1"> 1) {%Jmd missachten, gering achten, seine Geringachtung gegen Jmd an den Tag legen%}: {#नावमन्येत वै भूष्णुः कृशानपि कदा च न#} 
@@ -555,7 +555,7 @@
 [Page5-0516]
 
 <ls>4385.</ls> <ls>MBH. 1, 5971. fg.</ls> <ls n="MBH. 1,">6544.</ls> <ls n="MBH. 1,">8443.</ls> <ls n="MBH.">3, 1068.</ls> <ls n="MBH.">4, 99.</ls> <ls n="MBH. 4,">113.</ls> <ls n="MBH. 4,">445.</ls> <ls n="MBH.">5, 7431.</ls> <ls>R. 1, 34, 18. 2, 35, 8</ls> {#(मावमंस्थाः#} ed. Bomb.). 
-<ls>3, 49, 53.</ls> <ls>VIKR. 30.</ls> <ls>MĀRK. P. 61, 37.</ls> <ls>PAÑCAT. ed. orn. 8, 22 (HIT. 53, 11).</ls> <ls>BHAṬṬ. 8, 81.</ls> {#मावमध्वम् (मावमन्ध्वंम्#} ein 
+<ls>3, 49, 53.</ls> <ls>VIKR. 30.</ls> <ls>MĀRK. P. 61, 37.</ls> <ls>PAÑCAT. ed. orn. 8, 22</ls> (<ls>HIT. 53, 11</ls>). <ls>BHAṬṬ. 8, 81.</ls> {#मावमध्वम् (मावमन्ध्वंम्#} ein 
 <ls>Schol.</ls>) <ls>12, 25. 15, 66.</ls> act. <ls>MBH. 3, 14503.</ls> <ls n="MBH.">4, 444.</ls> <ls n="MBH.">8, 1356.</ls> <ls>R. 2, 39, 31.</ls> <ls>Spr. 1557. 2523.</ls> {#अवमत्य#} 
 <ls>KUMĀRAS. 5, 53.</ls> 
 <ls>BHĀG. P. 3, 30, 16.</ls> {#अवमन्य#} 
@@ -567,7 +567,7 @@
 <ls>KĀM. NĪTIS. 11, 75.</ls> <ls>BHAṬṬ. 15, 14.</ls> {#यो ऽवमन्येत ते मूले#} 
 <ls>M. 2, 11.</ls> {#तां (महीं) भुङ्क्ष्व कुन्तीसुत मावमंस्थाः#} 
 <ls>MBH. 12, 892.</ls> {#यो न कामयते किंचिन्न किंचिदवमन्यते#} 
-<ls>14, 1324.</ls> <ls>R. 2, 61, 15.</ls> <ls>Spr. 4793.</ls> {#अवमेने स्रजं दत्तां शुभान्याभरणानि च#} 
+<ls n="MBH.">14, 1324.</ls> <ls>R. 2, 61, 15.</ls> <ls>Spr. 4793.</ls> {#अवमेने स्रजं दत्तां शुभान्याभरणानि च#} 
 <ls>MĀRK. P. 69, 11.</ls> {#सज्जनावमतं दुःखमिदं प्राप्तं स्वकर्मजम्#} {%verabscheut%} 
 <ls>DAŚ. 2, 12.</ls> 
 <div n="1">— 2) pass. {%gering geachtet werden%}: {#नृपेणावमतो यस्तु स सर्वैरवमन्यते#} 
@@ -578,7 +578,7 @@
 <ls>H. 1479.</ls> 
 <ls>M. 4, 136.</ls> {#(त्वया) देवाश्चाप्यवमानिताः#} 
 <ls>MBH. 3, 16335.</ls> {#न व्यथेद्यो ऽवमानितः#} 
-<ls>4, 120.</ls> <ls>KĀM. NĪTIS. 17, 23.</ls> <ls>KATHĀS. 6, 132. 25, 1. 49, 57.</ls> {#निद्रा क्वाप्यवमानितेव दयिता संत्यज्य दूरं गता#} 
+<ls n="MBH.">4, 120.</ls> <ls>KĀM. NĪTIS. 17, 23.</ls> <ls>KATHĀS. 6, 132. 25, 1. 49, 57.</ls> {#निद्रा क्वाप्यवमानितेव दयिता संत्यज्य दूरं गता#} 
 <ls>RĀJA-TAR. 3, 181.</ls> 
 <ls>SĀH. D. 118.</ls> {%nicht beachtet%}: {#दौहृद#} 
 <ls>SUŚR. 1, 319, 13.</ls> 
@@ -636,8 +636,8 @@
 <div n="p">— {#सम्#} 
 <div n="1"> 1) {%meinen, wähnen%}: {#प्राप्तेयं देवकन्येति दृष्ट्वा संमेनिरे जनाः#} 
 <ls>MBH. 3, 16642.</ls> <ls n="MBH.">7, 3514.</ls> {#संमत#} <lex>n.</lex> {%Meinung%} 
-<ls>12, 5048.</ls> {#संमते सार्थवाहस्य#} {%nach dem Dafürhalten von%} 
-<ls>3, 2536. 7, 1455.</ls> {#मम संमतेन#} dass. 
+<ls n="MBH.">12, 5048.</ls> {#संमते सार्थवाहस्य#} {%nach dem Dafürhalten von%} 
+<ls n="MBH.">3, 2536.</ls> <ls n="MBH.">7, 1455.</ls> {#मम संमतेन#} dass. 
 <ls>HIT. 48, 1. 132, 21.</ls> 
 <div n="1">— 2) {%halten für%} (acc.): {#शताद्विशिष्टं यं युद्धे सममन्यत#} 
 <ls>MBH. 7, 359.</ls> 
@@ -677,7 +677,7 @@
 <ls>KĀM. NĪTIS. 10, 40. 19, 24.</ls> <ls>HIT. 15, 13. 115, 17.</ls> {#युष्माकं यदि संमतम्#} {%wenn es euch recht ist%} 
 <ls>Spr. 974.</ls> <ls>Schol.</ls> zu <ls>JAIM. 1, 5.</ls> {#विदितेयं च ते शल्य मर्यादा साधुसंमता#} 
 <ls>MBH. 1, 4437.</ls> {#प्राप्ते मुहूर्ते साधुसंमते#} 
-<ls>4442. 6167. 13, 4445.</ls> <ls>R. 1, 42, 17. 44, 54. 69, 12. 2, 49, 15.</ls> <ls>KĀM. NĪTIS. 4, 63. 10, 14. 16, 1.</ls> <ls>NĪLAK. 39.</ls> {#बहुयोगग्रन्थ°#} so v. a. {%übereinstimmend mit%} 
+<ls n="MBH. 1,">4442.</ls> <ls n="MBH. 1,">6167.</ls> <ls n="MBH.">13, 4445.</ls> <ls>R. 1, 42, 17. 44, 54. 69, 12. 2, 49, 15.</ls> <ls>KĀM. NĪTIS. 4, 63. 10, 14. 16, 1.</ls> <ls>NĪLAK. 39.</ls> {#बहुयोगग्रन्थ°#} so v. a. {%übereinstimmend mit%} 
 <ls>BHĀG. P. 5, 10, 16.</ls> 
 <ls>PAÑCAR. 1, 1, 16.</ls> {#असंमतादायिन्#} {%ohne Einwilligung%} (des Besitzers) {%nehmend%} 
 <ls>MBH. 12, 5969.</ls> 

@@ -1,6 +1,6 @@
 <L>45681<pc>4-0754<k1>पुट<k2>पुट
 {#पुट#}¦ <lex>m.</lex> <lex>f.</lex> ({#ई#}; oxyt. <is>gaṇa</is> {#गौरादि#} zu 
-<ls>P. 4, 1, 41)</ls> und n. <ls>AK. 3, 6, 7, 42.</ls> 
+<ls>P. 4, 1, 41</ls>) und n. <ls>AK. 3, 6, 7, 42.</ls> 
 <div n="1"> 1) {%Falte, Tasche, trichterförmiger, ausgebauchter, hohler Raum%} 
 <ls>SŪRYAS. 12, 33.</ls> {#(मयूरसंघाः) पतन्तो वडवीपुटेषु#} 
 <ls>HARIV. 8788.</ls> {#करपुटः#} 
@@ -16,7 +16,7 @@
 <ls>RĀJA-TAR. 4, 427.</ls> {#श्रोत्रशुक्तिपुटैः#} 
 <ls>1, 24.</ls> {#ओष्ठ°#} 
 <ls>MBH. 1, 655.</ls> {#संदष्टौष्ठ°#} 
-<ls>3, 427. 4, 778.</ls> <ls>HARIV. 3597.</ls> <ls>ŚĀK. 182.</ls> {#चारुपुटोष्ठ#} 
+<ls n="MBH.">3, 427.</ls> <ls n="MBH.">4, 778.</ls> <ls>HARIV. 3597.</ls> <ls>ŚĀK. 182.</ls> {#चारुपुटोष्ठ#} 
 <ls>MBH. 2, 1132.</ls> {#अधर°#} 
 <ls>Spr. 622.</ls> 
 <ls>GĪT. 12, 11.</ls> 
@@ -36,7 +36,7 @@
 <ls>68, 7.</ls> {#स्फुरदधरनासापुटतया#} 
 <ls>UTTARARĀMAC. 13, 11.</ls> — {#पिपीलिक°#} (?): {#ऋते सेनाप्रणेतारं पृतना सुमहत्यपि । दीर्यते युद्धमासाद्य पिपीलिकपुटं यथा ॥#} 
 <ls>MBH. 5, 5279.</ls> {#पिपीलिकपुटं राजन्यथा मृद्भन्नरो रुषा । तथा सा कौरवी सेना मृदिता तेन ॥#} 
-<ls>8, 914.</ls> 
+<ls n="MBH.">8, 914.</ls> 
 <div n="1">— 2) {#पलाश°, पर्ण°, पत्त्र°#} und auch einfach {#पुट#} {%eine aus einem Blatt gebildete Vertiefung, - Tüte%}: {#पलाश°#} 
 <ls>KĀTY. ŚR. 16, 6, 26.</ls> 
 <ls>KAUŚ. 28.</ls> {#पर्ण°#} 
@@ -51,8 +51,8 @@
 <ls>TBR. 1, 3, 7, 6.</ls> {#शूर्प°#} {%Tüte in Form einer Wanne%} 
 <ls>ĀŚV. GṚHY. 1, 7.</ls> 
 <div n="1">— 3) <lex>m.</lex> = {#संपुट#} {%Schmuckkästchen%} 
-<ls>H. 1015,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 1015</ls>, <ls>Sch.</ls> 
+
 <div n="1">— 4) {%Pferdehuf%}, <lex>m.</lex> 
 <ls>TRIK. 2, 8, 46.</ls> <lex>m.</lex> <lex>n.</lex> 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> 

@@ -7,8 +7,8 @@
 <ls n="ṚV.">9, 70, 9.</ls> 
 <div n="1">— 2) {%Pein, Schmerz, Beschwerde, Leiden%}; <lex>m.</lex> 
 <ls>TRIK. 3, 3, 219.</ls> 
-<ls>H. 1371,</ls> 
-<ls>Sch.</ls> {#हिमान्यां वौद्धबाधाय पतन्त्यां प्रतिवत्सरम्#} {%zum Leidwesen%} 
+<ls>H. 1371</ls>, <ls>Sch.</ls>
+{#हिमान्यां वौद्धबाधाय पतन्त्यां प्रतिवत्सरम्#} {%zum Leidwesen%} 
 <ls>RĀJA-TAR. 1, 180.</ls> {#अबाधकर#} 
 <ls>SUŚR. 1, 130, 7.</ls> {#बाधा#} <lex>f.</lex> dass. 
 <ls>AK. 1, 2, 2, 3.</ls> 
@@ -24,7 +24,7 @@
 <ls>MĀRK. P. 22, 3.</ls> {#अबाधा द्विजमुख्यानामन्वेष्टव्या मदैव हि#} {%dass ihnen kein Leid widerfahre%} 
 <ls>2. 92, 1.</ls> {#अल्पबाध#} <lex>adj.</lex> {%der wenig Leiden hat%} 
 <ls>MBH. 3, 12623.</ls> <ls n="MBH.">13, 6723.</ls> {%Schaden, Nachtheil%}: {#यस्य कोपो महाबाधः प्रसादश्च महाफलः#} 
-<ls>4, 116.</ls> {#अल्पबाध#} {%geringen Schaden bringend%} 
+<ls n="MBH.">4, 116.</ls> {#अल्पबाध#} {%geringen Schaden bringend%} 
 <ls>YĀJN. 2, 156.</ls> {#सबाध#} {%mit Nachtheil verbunden für%} (gen.) 
 <ls>249.</ls> {#स्वार्थस्य बाधेन#} 
 s. zu <ls>Spr. 576</ls> am Ende des 3ten Theiles. {#धर्मबाध#} {%Beeinträchtigung%} 
@@ -33,7 +33,7 @@ s. zu <ls>Spr. 576</ls> am Ende des 3ten Theiles. {#धर्मबाध#} {%Be
 <div n="1">— 3) {%Aufhebung, Beseitigung, Nichtigmachung; Widerspruch, Absurdität%}; <lex>m.</lex> 
 <ls>TRIK.</ls> <ls>H. an.</ls> <ls>MED.</ls> {#येन मे परलोकबाधो#} (v. l. {#°बाधा) न भवति#} so v. a. {%wodurch ich nicht um den Himmel komme%} 
 <ls>PAÑCAT. 167, 8.</ls> 
-<ls>KAP. 1, 35. 148.</ls> Schol. zu <ls>1, 80.</ls> <ls>Verz. d. Oxf. H. No. 593. fgg.</ls> <ls>NĪLAK. 171. 232. 242.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 19, 8.</ls> <ls>VEDĀNTAS. (Allah.) No. 90.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 93. 3, 3, 11.</ls> <ls>SĀH. D. 8, 18. 10, 21.</ls> {#साध्यशून्यो यत्र पक्षस्त्वसौ बाध उदाहृतः#} 
+<ls>KAP. 1, 35. 148.</ls> Schol. zu <ls>1, 80.</ls> <ls>Verz. d. Oxf. H. No. 593. fgg.</ls> <ls>NĪLAK. 171. 232. 242.</ls> <ls>MADHUS.</ls> in <ls>Ind. St. 1, 19, 8.</ls> <ls>VEDĀNTAS. (Allah.) No. 90.</ls> <ls>Schol.</ls> zu <ls>P. 1, 4, 93.</ls> <ls n="P.">3, 3, 11.</ls> <ls>SĀH. D. 8, 18. 10, 21.</ls> {#साध्यशून्यो यत्र पक्षस्त्वसौ बाध उदाहृतः#} 
 <ls>BHĀṢĀP. 77.</ls> {#बाधा#} <lex>f.</lex> 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY.</ls> <ls>Schol.</ls> zu <ls>YOGAS. 2, 33.</ls> 
 <div n="v">— Vgl. {#अ°, तुवि°#} {%stark drängend%} und {#प्राण°, बाहु°#} .

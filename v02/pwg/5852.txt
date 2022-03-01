@@ -17,9 +17,9 @@
 <ls>SV. v. l.</ls> vom <is>Soma</is>) 
 <ls>9, 107, 13.</ls> {#वार^म\व्यय^म्#} 
 <ls>69, 4.</ls> von Insecten 
-<ls>AV. 2, 32, 2. 5, 23, 9.</ls> so heisst {%die Erde%} 
-<ls>5, 84, 2.</ls> {%die Morgenröthe%} 
-<ls>1, 49, 3.</ls> <ls>NAIGH. 1, 8.</ls> {#न हि राजत्ययोध्येयं सासारेवार्जुनी क्षपा#} 
+<ls>AV. 2, 32, 2.</ls> <ls n="AV.">5, 23, 9.</ls> so heisst {%die Erde%} 
+<ls n="AV.">5, 84, 2.</ls> {%die Morgenröthe%} 
+<ls n="AV.">1, 49, 3.</ls> <ls>NAIGH. 1, 8.</ls> {#न हि राजत्ययोध्येयं सासारेवार्जुनी क्षपा#} 
 <ls>R. 2, 114, 14.</ls> 
 <div n="2">— b) {%silbern%}: {#प्रे\ङ्खा हरि^ता\ अर्जु^ना उ\त#} 
 <ls>AV. 4, 37, 5.</ls> 
@@ -45,7 +45,7 @@
 <ls>H. 708.</ls> 
 <ls>an. 3, 353.</ls> 
 <ls>MED. n. 30.</ls> <ls>INDR. 1, 10. fgg.</ls> <ls>DRAUP. 3, 6.</ls> <ls>MBH. 1, 3814</ls> (vgl. 
-<ls>4785. fgg.). 4, 1375.</ls> <ls>VP. 437. 459. 613. 615. fg.</ls> <ls>KATHĀS. 9, 7.</ls> <ls>LALIT. 26.</ls> <ls>LIA. I, 638. 614. Anh. XXV.</ls> <ls>Ind. St. 1, 184. 189. fg. 206. 415. fg.</ls> <ls>WEBER, Lit. 36. 49. 110. fg. 113. fg. 176. fg.</ls> <ls>Verz. d. B. H. No. 434.</ls> {#अर्जुनपरिचय#} 
+<ls n="MBH. 1,">4785. fgg.</ls>). <ls n="MBH.">4, 1375.</ls> <ls>VP. 437. 459. 613. 615. fg.</ls> <ls>KATHĀS. 9, 7.</ls> <ls>LALIT. 26.</ls> <ls>LIA. I, 638. 614. Anh. XXV.</ls> <ls>Ind. St. 1, 184. 189. fg. 206. 415. fg.</ls> <ls>WEBER, Lit. 36. 49. 110. fg. 113. fg. 176. fg.</ls> <ls>Verz. d. B. H. No. 434.</ls> {#अर्जुनपरिचय#} 
 <ls>GILD. Bibl. 179.</ls> {#°समागम#} 
 <ls>166.</ls> {#अर्जुनाः#} {%die Nachkommen des%} <is>A.</is> 
 <ls>P. 2, 4, 66</ls>, <ls>Sch.</ls> 
@@ -90,7 +90,7 @@
 <ls>MED.</ls> 
 <div n="1">— 4) <lex>n.</lex> 
 <div n="2"> a) = {#रजत#} {%Silber%}: {#दि\वस्त्वा^ पातु\ हरि^त\ं मध्या^त्त्वा पा\त्वर्जु^नम् । भूम्या^ अय\स्मय^ं पातु#} 
-<ls>AV. 5, 28, 9. 5</ls> (vgl. ebend. 1: {#हरि^ते\ त्रीणि^ रज\ते त्रीण्यय^सि\ त्रीणि^#}). Nach 
+<ls>AV. 5, 28, 9.</ls> <ls n="AV. 5, 28,">5</ls> (vgl. ebend. 1: {#हरि^ते\ त्रीणि^ रज\ते त्रीण्यय^सि\ त्रीणि^#}). Nach 
 <ls>NAIGH. 3, 7</ls> ein {#रूपनामन्#} 
 <div n="2">— b) {%Gold%} 
 <ls>H. 1044.</ls> 

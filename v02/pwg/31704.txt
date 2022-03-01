@@ -1,15 +1,15 @@
 <L>31704<pc>3-0491<k1>दण्ड<k2>दण्ड꣡
 {#दण्ड꣡#}¦ 
 <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 1, 113.</ls> <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>SIDDH. K. 251,b,1.</ls> <ls>VAIJ.</ls> beim Schol. zu <ls>KIR.2,12.</ls> Das <lex>n.</lex> nicht zu belegen. 
+<ls>P. 2, 4, 31.</ls> <ls>SIDDH. K. 251,b,1.</ls> <ls>VAIJ.</ls> beim Schol. zu <ls>KIR.2,12.</ls> Das <lex>n.</lex> nicht zu belegen. 
 <div n="1"> 1) {%Stock, Stab; Prügel, Keule%}; <lex>m.</lex> <lex>n.</lex> 
 <ls>AK. 3, 4, 11, 44.</ls> 
 <ls>MED. ḍ. 15.</ls> m. <ls>H. 785. an. 2, 121.</ls> {#द\ण्डा गो\अज^नासः#} 
 <ls>ṚV. 7, 33, 6.</ls> {#यद्द\ण्डेन\ यदिष्वा\ यद्वारु\र्हर^सा #}
 [Page3-0492]
 {# कृ\तम्#} 
-<ls>AV. 5, 5, 4. 10, 4, 9. 18, 2, 59.</ls> {#त्वं जी\र्णो द\ण्डेन^ वञ्चसि#} 
-<ls>10, 8, 27.</ls> <ls>ŚVETĀŚV. UP. 4, 3.</ls> {#आरम्भणतो वै वज्रस्याणिमाथो दण्डस्याथो परशोः#} 
+<ls>AV. 5, 5, 4.</ls> <ls n="AV.">10, 4, 9.</ls> <ls n="AV.">18, 2, 59.</ls> {#त्वं जी\र्णो द\ण्डेन^ वञ्चसि#} 
+<ls n="AV.">10, 8, 27.</ls> <ls>ŚVETĀŚV. UP. 4, 3.</ls> {#आरम्भणतो वै वज्रस्याणिमाथो दण्डस्याथो परशोः#} 
 <ls>AIT. BR. 2, 35.</ls> {#ते दण्डैर्धनुर्भिर्न व्यजयन्त#} 
 <ls>ŚAT. BR. 1, 5, 4, 6. 12, 7, 3, 1.</ls> {#यथेषुरस्ता यथा दण्डः प्रहृतः#} {%ein Schlag mit dem Stocke%} 
 <ls>3, 7, 2, 2. 1, 26.</ls> {#काल°#} 
@@ -65,9 +65,9 @@
 <ls>KUMĀRAS. 7, 89.</ls> 
 <ls>VARĀH. BṚH. S. 71, 3. fgg.</ls> {#शक्तिम् - रुक्मदण्डाम्#} 
 <ls>MBH. 3, 11728.</ls> <ls n="MBH.">6, 2688.</ls> {%Fahnenstock%} auf einem Wagen: {#पताकादण्डेषु#} 
-<ls>14, 2447.</ls> {#रथास्तावन्त एवेमे हेमदण्डाः पताकिनः#} 
-<ls>2, 2079.</ls> {#हेमदण्डप्रतिच्छन्नं रथम्#} 
-<ls>4, 1276.</ls> {%Deichsel%} (am Pfluge) 
+<ls n="MBH.">14, 2447.</ls> {#रथास्तावन्त एवेमे हेमदण्डाः पताकिनः#} 
+<ls n="MBH.">2, 2079.</ls> {#हेमदण्डप्रतिच्छन्नं रथम्#} 
+<ls n="MBH.">4, 1276.</ls> {%Deichsel%} (am Pfluge) 
 <ls>H. 891.</ls> {%Stab an dem Saiteninstrument%} ({#वीणा#}), {%durch welchen die Saiten durchgelassen sind%}, 
 <ls>AK. 1, 1, 7, 7.</ls> 
 <ls>H. 291.</ls> {#तस्यै मूले दण्डं दशधातिविध्यन्ति तद्दश दश रज्जूः प्रवयन्ति#} 
@@ -98,7 +98,7 @@
 [Page3-0493]
 russischen Volksausdruck
 <lang n="russian">столбы</lang> für {%Nordlicht und andere Himmelserscheinungen.%} Ist dieses etwa das {#दण्ड प्रतिकृतौ संज्ञायाम्#} im <is>gaṇa</is> {#देवपथादि#} zu 
-<ls>P. 5, 3,</ls> <ls>100?</ls> nach <ls>H. an.</ls> = {#ग्रहभेद#} {%ein best. Planet.%} 
+<ls>P. 5, 3, 100</ls> ? nach <ls>H. an.</ls> = {#ग्रहभेद#} {%ein best. Planet.%} 
 <div n="1">— 9) <lex>m.</lex> {%eine best. Constellation%} 
 <ls>VARĀH. BṚH. S. 20, 2.</ls> 
 <ls>LAGHUJ. 10, 6.</ls> 
@@ -143,7 +143,7 @@ russischen Volksausdruck
 <ls>RAGH. 17, 62.</ls> {#कोषदण्डौ#} {%Schatz und Heer%} 
 <ls>M. 9, 294.</ls> 
 <ls>MBH. 4, 2317</ls> (vgl. 
-<ls>2373).</ls> <ls>KIR. 2, 12.</ls> <ls>AK. 2, 8, 1, 20.</ls> <ls>H. 740.</ls> 
+<ls n="MBH. 4,">2373</ls>). <ls>KIR. 2, 12.</ls> <ls>AK. 2, 8, 1, 20.</ls> <ls>H. 740.</ls> 
 <div n="1">— 14) <lex>m.</lex> {%der Stock als Symbol der richterlichen Gewalt und Strafe; Strafe%} überh., sowohl {%körperliche%} als auch {%Zurechtweisung und Geldbusse%}, = {#दम#} 
 <ls>AK. 2, 8, 1, 21.</ls> 
 <ls>H. 736.</ls> 

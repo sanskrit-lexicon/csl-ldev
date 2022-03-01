@@ -3,7 +3,7 @@
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई꣡#} (<is>gaṇa</is> {#गौरादि#} zu 
 <ls>P. 4, 1, 41</ls>) {%fällend, niedermachend%}: {#शत्रुसंघानाम्#} 
 <ls>MBH. 1, 6560.</ls> {#भीष्मस्य#} 
-<ls>7, 94.</ls> <ls>MĀRK. P. 24, 40.</ls> {#शत्रुसेनाङ्ग°#} 
+<ls n="MBH.">7, 94.</ls> <ls>MĀRK. P. 24, 40.</ls> {#शत्रुसेनाङ्ग°#} 
 <ls>MBH. 1, 7368.</ls> {#अस्त्र#} 
 <ls>HARIV. 12735.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%das Fallenlassen, Hinabwerfen, Hinabschleudern, Stürzen, Niedermachen%}: {#शकुनिः फलपातने (शुचिः)#} 
@@ -15,9 +15,9 @@
 <ls>BHĀG. P. 3, 30, 28.</ls> {#सौभस्य#} 
 <ls>MBH. 3, 835.</ls> {#वज्र°#} 
 <ls>MBH. 1, 1219.</ls> <ls n="MBH. 1,">7201.</ls> {#पातनं भास्करस्येव न मृष्ये द्रोणपातनम्#} 
-<ls>7, 273. 6, 5356. 10, 592. 13, 4788.</ls> {#अक्ष°#} {%das Werfen der Würfel%} 
-<ls>P. 8, 2, 49,</ls> 
-<ls>Sch.</ls> {#दण्डस्य#} {%das Fallenlassen des Stockes%} so v. a. {%Strafen%} 
+<ls n="MBH.">7, 273.</ls> <ls n="MBH.">6, 5356.</ls> <ls n="MBH.">10, 592.</ls> <ls n="MBH.">13, 4788.</ls> {#अक्ष°#} {%das Werfen der Würfel%} 
+<ls>P. 8, 2, 49</ls>, <ls>Sch.</ls>
+{#दण्डस्य#} {%das Fallenlassen des Stockes%} so v. a. {%Strafen%} 
 <ls>M. 7, 51.</ls> {#अक्ष्णोः समन्ततः कार्यं पातनं जलौकसाम्#} {%das Ansetzen von Blutegeln%} 
 <ls>SUŚR. 2, 327, 7.</ls> {#गर्भस्य#} {%das Abtreiben der Leibesfrucht%} 
 <ls>YĀJÑ. 2, 277. 3, 298.</ls> 

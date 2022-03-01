@@ -1,7 +1,7 @@
 <L>22149<pc>2-0717<k1>गव्य<k2>ग꣡व्य<h>1
 1. {#ग꣡व्य#}¦ (von {#गो#}) 
 <div n="1"> 1) <lex>adj.</lex> {%aus Rindern, Kühen bestehend; aus Milch bestehend%} 
-<ls>P. 5, 1, 2. 39.</ls> {#ऊर्व#} 
+<ls>P. 5, 1, 2.</ls> <ls n="P. 5, 1,">39.</ls> {#ऊर्व#} 
 <ls>ṚV. 1, 72, 8.</ls> <ls n="ṚV.">3, 32, 16.</ls> {#पशु#} 
 <ls n="ṚV.">5, 61, 5.</ls> {#व्रज#} 
 <ls n="ṚV.">1, 131, 3.</ls> {#राधस्#} 
@@ -20,8 +20,8 @@
 <ls>VS. 35, 17. 23, 8.</ls> {#अजिन#} 
 <ls>PĀR. GṚHY. 2, 4.</ls> {#कोश#} 
 <ls>MBH. 4, 1337.</ls> {#विषाणकोष#} 
-<ls>1, 5370.</ls> {#पयस्#} 
-<ls>13, 707.</ls> <ls>M. 3, 271.</ls> <ls>SUŚR. 1, 174, 20.</ls> {#दधि#} 
+<ls n="MBH.">1, 5370.</ls> {#पयस्#} 
+<ls n="MBH.">13, 707.</ls> <ls>M. 3, 271.</ls> <ls>SUŚR. 1, 174, 20.</ls> {#दधि#} 
 <ls>178, 3.</ls> {#सर्पिस्#} 
 <ls>180, 15.</ls> {#मांस#} 
 <ls>204, 2.</ls> <ls>MBH. 8, 2050.</ls> <ls n="MBH.">13, 4247. fg.</ls> {#पेयूष#} 
@@ -31,8 +31,8 @@
 <ls>TRIK. 3, 3, 309.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> {%der Kuh geheiligt, die Kuh verehrend%} 
-<ls>P. 4, 1, 85, <is>Vārtt</is>. 9,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 4, 1, 85</ls>, <is>Vārtt</is>. 9, <ls>Sch.</ls> 
+
 <div n="1">— 2) <lex>m.</lex> N. pr. eines Volkes im Norden von <is>Madhyadeśa</is> 
 <ls>VARĀH. BṚH. S. 14, 28.</ls> 
 <div n="1">— 3) <lex>n.</lex> 

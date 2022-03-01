@@ -14,11 +14,11 @@
 <ls>18.</ls> {#प्रायमुपास्महे#} 
 <ls>53, 11. 5, 32, 23.</ls> {#प्रायमुपासीना#} 
 <ls>MBH. 14, 2358.</ls> {#उपाशिष्ये#} fehlerhaft für {#उपासिष्ये#} 
-<ls>3, 15080.</ls> {#उपविष्टास्तु ते सर्वे तस्मिन्प्रायं धराधरे#} 
+<ls n="MBH.">3, 15080.</ls> {#उपविष्टास्तु ते सर्वे तस्मिन्प्रायं धराधरे#} 
 <ls>R. 4, 56, 1. 20.</ls> {#पुनः प्रायमुपैष्यन्ति#} 
 <ls>5, 15, 4.</ls> {#प्रायमास्थाय#} 
 <ls>MBH. 12, 4172.</ls> {#त्वयि प्रायं समास्थिते#} 
-<ls>3, 15110.</ls> {#प्रायं विग्रहराजेन ब्राह्मणाः कारिताः पुनः#} {%wurden dahin gebracht, dass sie sich vornahmen Hungers zu sterben%}, 
+<ls n="MBH.">3, 15110.</ls> {#प्रायं विग्रहराजेन ब्राह्मणाः कारिताः पुनः#} {%wurden dahin gebracht, dass sie sich vornahmen Hungers zu sterben%}, 
 <ls>RĀJA-TAR. 6, 344.</ls> Vgl. {#प्रायगत, °विधायिन्, प्रायोपगमन, प्रायोपविष्ट, प्रायोपवेश, प्रायोपवेशन, प्रायोपवेशिन्, प्रायोपेत#} . 
 <div n="1">— 3) {%Mehrheit, Hauptbestand; Regel%} 
 <ls>AK. 3, 4, 24, 155.</ls> 
@@ -40,10 +40,10 @@
 <ls>NIR. 3, 6.</ls> {#संस्तुत°#} {%meistens zusammen gepriesen%} 
 <ls>12, 2.</ls> {#पराङ्मुख° (बल)#} {%zum grössten Theil auf der Flucht begriffen%} 
 <ls>MBH. 8, 4158.</ls> {#गौर°#} 
-<ls>6, 457.</ls> {#श्वेत°#} 
-<ls>13, 4704.</ls> {#भीमहतप्राया (वाहिनी)#} {%zum grössten Theil von%} Bh. {%erschlagen%} 
+<ls n="MBH.">6, 457.</ls> {#श्वेत°#} 
+<ls n="MBH.">13, 4704.</ls> {#भीमहतप्राया (वाहिनी)#} {%zum grössten Theil von%} Bh. {%erschlagen%} 
 <ls>MBH. 5, 2135.</ls> {#गत°#} {%beinahe dahingegangen, - verflossen%} 
-<ls>4, 376.</ls> <ls>Spr. 1901.</ls> <ls>KATHĀS. 2, 27. 33, 125.</ls> {#सिद्ध°#} {%beinahe vollendet%} 
+<ls n="MBH.">4, 376.</ls> <ls>Spr. 1901.</ls> <ls>KATHĀS. 2, 27. 33, 125.</ls> {#सिद्ध°#} {%beinahe vollendet%} 
 <ls>41, 27.</ls> {#क्षीण°#} 
 <ls>MĀRK. P. 127, 35.</ls> 
 <ls>RĀJA-TAR. 4, 227.</ls> {#जित°#} {%beinahe vollständig besiegt%} 
@@ -61,7 +61,7 @@
 <ls>ŚAT. BR. 12, 3, 1, 5.</ls> {#ज्योतिष्टोम°#} 
 <ls>LĀṬY. 10, 1, 17. 2, 5.</ls> {#दुर्भगाभरण°#} 
 <ls>Spr. 242. 965. 3661.</ls> 
-<ls>KATHĀS. 6, 51. 39, 108</ls> (vgl. <ls>168</ls>). <ls>RĀJA-TAR. 5, 420. 6, 356.</ls> <ls>BHĀG. P. 1, 3, 25.</ls> <ls>PAÑCAT. 194, 21.</ls> <ls>Z. d. d. m. G. 14, 570, 16.</ls> <ls>DHŪRTAS. 74, 2. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 7, 6, Śl. 15.</ls> <ls>KĀVYĀD. 3, 165. Schol.</ls> zu <ls>ŚĀK. 41.</ls> {#ज्ञाति°#} so v. a. {%eigentlich für die Blutsverwandten%}
+<ls>KATHĀS. 6, 51. 39, 108</ls> (vgl. <ls>168</ls>). <ls>RĀJA-TAR. 5, 420. 6, 356.</ls> <ls>BHĀG. P. 1, 3, 25.</ls> <ls>PAÑCAT. 194, 21.</ls> <ls>Z. d. d. m. G. 14, 570, 16.</ls> <ls>DHŪRTAS. 74, 2. Inschr.</ls> in <ls>Journ. of the Am. Or. S. 7, 6, Śl. 15.</ls> <ls>KĀVYĀD. 3, 165.</ls> Schol. zu <ls>ŚĀK. 41.</ls> {#ज्ञाति°#} so v. a. {%eigentlich für die Blutsverwandten%}
 [Page4-1149]
 {%bestimmt%} ({#अन्न#}) 
 <ls>M. 3, 264.</ls> 
@@ -70,7 +70,7 @@
 <ls>H. 565.</ls> 
 <ls>H. an.</ls> 
 <div n="1">— 5) enklitisch nach einem Verbum finitum <is>gaṇa</is> {#गोत्रादि#} zu 
-<ls>P. 8, 1, 27. 57.</ls> 
+<ls>P. 8, 1, 27.</ls> <ls n="P. 8, 1,">57.</ls> 
 <div n="v">— Vgl. {#प्रायेण, प्रायशस्, प्रायस्, एवंप्राय#} (auch 
 <ls>SĀV. 5, 35</ls>, wo so zu schreiben ist), {#जालप्राया, नडप्राय, सप्राय#} und {#प्लाय#} .
 <LEND>

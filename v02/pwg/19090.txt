@@ -2,7 +2,7 @@
 {#के꣡वल#}¦ 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#ई#} ved., {#आ#} klass. 
 <ls>P. 4, 1, 30.</ls> mit seinem subst. compon. 
-<ls>2, 1, 49.</ls> nom. pl. masc. {#केवले#} 
+<ls n="P.">2, 1, 49.</ls> nom. pl. masc. {#केवले#} 
 <ls>ṚV. 10, 51, 9.</ls> 
 <div n="2"> a) {%ausschliesslich eigen, nicht mit Andern gemein, eigenthümlich; allein, alles Andere ausschliessend, merus, pur, lauter; ausser aller Beziehung zu etwas Anderm stehend, absolut%}; = {#एक#} 
 <ls>AK. 3, 4, 26, 205. 1, 16.</ls> 
@@ -13,10 +13,10 @@
 <ls>ṚV. 1, 7, 10.</ls> <ls n="ṚV. 1,">13, 10.</ls> {#माध्य^ंदिन\ं सव^न\ं केव^लं ते#} 
 <ls n="ṚV.">4, 35, 7.</ls> <ls n="ṚV.">7, 98, 5.</ls> <ls n="ṚV.">10, 54, 5.</ls> <ls n="ṚV. 10,">138, 6.</ls> {#पति^ं मे\ केव^लं कुरु#} {%gieb mir zu eigen%} 
 <ls n="ṚV. 10,">145, 2.</ls> <ls n="ṚV. 10,">173, 6.</ls> {#सोम\ं यश्च\क्रे केव^लम्#} {%sich zugeeignet hat%} 
-<ls>AV. 11, 7, 36. 5, 10. 7, 37, 1. 9, 4, 12. 10, 8, 4.</ls> {#स\त्रा विश्व^ं दधिषे\ केव^ल\ं सह^ः#} 
+<ls>AV. 11, 7, 36.</ls> <ls n="AV. 11,">5, 10.</ls> <ls n="AV.">7, 37, 1.</ls> <ls n="AV.">9, 4, 12.</ls> <ls n="AV.">10, 8, 4.</ls> {#स\त्रा विश्व^ं दधिषे\ केव^ल\ं सह^ः#} 
 <ls>ṚV. 1, 57, 6.</ls> {#सुष्वे^ः प\क्तिं कृ^णुते\ केव\लेन्द्र^ः#} (der <is>Padap</is>. {#केवला#} mit einer falschen Auflösung des <is>Saṃdhi</is>: es sollte nach dem gewöhnlichen Gebrauch {#केवलाम्#} in <is>Saṃhitā</is> und <is>Padap</is>. geschrieben sein, da die Elisionen aufgelöst zu werden pflegen. Bemerkenswerth ist aber das fem. auf {#आ#} im <is>Veda</is>) 
 <ls n="ṚV.">4, 25, 6.</ls> <ls>AV. 3, 25, 4.</ls> {#के\व\लीन्द्रा^य दुदु\हे हि गृ\ष्टिः#} 
-<ls>8, 9, 24.</ls> {#केवलेन नः पशुनेष्टमसत्#} 
+<ls n="AV.">8, 9, 24.</ls> {#केवलेन नः पशुनेष्टमसत्#} 
 <ls>AIT. BR. 2, 8.</ls> {#केवलसूक्तानि#} 
 <ls>6, 9.</ls> <ls>TS. 1, 5, 1, 2.</ls> {#क\था पु\त्रस्य\ केव^लं क\था साधा^रणं पि\तुः#} 
 <ls>2, 6, 1, 7.</ls> {#केवलीरोषधीरश्नन्ति केवलीरपः पिबन्ति#} {%sie essen die Kräuter für sich allein und trinken das Wasser lauter%} 
@@ -36,9 +36,9 @@
 <ls>R. 2, 42, 7.</ls> 
 <ls>DAŚ. 1, 28.</ls> {#जगत्केवलकाम्यया#} 
 <ls>MBH. 2, 1544.</ls> {#केवलेप्सया#} 
-<ls>559. 548.</ls> {#केवलनैयायिक#} {%ein purer Logiker%} 
-<ls>P. 2, 1, 49,</ls> 
-<ls>Sch.</ls> {#एवं तत्त्वाभ्यासान्नास्ति न मे नाहमित्यपरिशेषम् । अविपर्ययाद्विशुद्धं केवलमुत्पद्यते ज्ञानम् ॥#} 
+<ls n="MBH. 2,">559.</ls> <ls n="MBH. 2,">548.</ls> {#केवलनैयायिक#} {%ein purer Logiker%} 
+<ls>P. 2, 1, 49</ls>, <ls>Sch.</ls>
+{#एवं तत्त्वाभ्यासान्नास्ति न मे नाहमित्यपरिशेषम् । अविपर्ययाद्विशुद्धं केवलमुत्पद्यते ज्ञानम् ॥#} 
 <ls>SĀṂKHYAK. 64.</ls> 
 <ls>PAÑCAT. V, 12.</ls> <ls>BHĀG. P. 2, 6, 39.</ls> 
 <div n="2">— b) {%missgünstig, neidisch%} ({#कुहन#}) 
@@ -48,9 +48,9 @@
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#हन्याद्धि भगवान्क्रुद्धस्त्रैलोक्यमपि केवलम्#} 
 <ls>MBH. 13, 2686.</ls> {#व्योम संछाद्य केवलम्#} 
-<ls>3, 15168.</ls> {#केवलां रात्रिम्#} 
-<ls>4, 1485.</ls> {#अवोचः परुषा वाचो धर्ममुत्सृज्य केवलम्#} 
-<ls>1925. 13, 172.</ls> {#यश्चैतान् (कामान्) प्राप्नुयात्सर्वान्यश्चैतान्केवलांस्त्यजेत्#} 
+<ls n="MBH.">3, 15168.</ls> {#केवलां रात्रिम्#} 
+<ls n="MBH.">4, 1485.</ls> {#अवोचः परुषा वाचो धर्ममुत्सृज्य केवलम्#} 
+<ls n="MBH. 4,">1925.</ls> <ls n="MBH.">13, 172.</ls> {#यश्चैतान् (कामान्) प्राप्नुयात्सर्वान्यश्चैतान्केवलांस्त्यजेत्#} 
 <ls>M. 2, 95.</ls> 
 <div n="1">— 2) {#केवलम्#} adv. 
 <div n="2"> a) {%nur%}: {#दुष्कुलीना दुरासेवा केवलं स्त्री तु सा स्मृता#} 

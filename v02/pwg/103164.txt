@@ -2,7 +2,7 @@
 {#संस्थान#}¦ (von {#स्था#} mit {#सम्#}) 
 <div n="1"> 1) <lex>adj.</lex> als Beiw. <is>Viṣṇu's</is> 
 <ls>MBH. 13, 6691.</ls> als v.l. für {#सस्थान#} 
-<ls>SIDDH. K.</ls> zu <ls>P.5,4,10.</ls> 
+<ls>SIDDH. K.</ls> zu <ls>P. 5, 4, 10.</ls> 
 <div n="1">— 2) <lex>m.</lex> pl. N. pr. eines Volkes 
 <ls>MBH. 6, 2097.</ls> 
 <div n="1">— 3) <lex>n.</lex> am Ende eines <lex>adj.</lex> comp. <lex>f.</lex> {#आ#} . 
@@ -19,8 +19,8 @@
 <ls>NIR. 7, 5.</ls> {#ब्रह्मणः#} 
 <ls>KAUṢ. UP. 1, 3. 5.</ls> {#वध्यघातिनाम्#} 
 <ls>MBH. 1, 6727.</ls> {#गतदैवतसंस्थाना (वसुधा)#} 
-<ls>12, 5340.</ls> {#पुरंदरस्य#} 
-<ls>15, 545.</ls> {#रुद्रस्य#} 
+<ls n="MBH.">12, 5340.</ls> {#पुरंदरस्य#} 
+<ls n="MBH.">15, 545.</ls> {#रुद्रस्य#} 
 <ls>R. 4, 44, 52.</ls> 
 <ls>VP. 1, 2, 53</ls> (= {#आकृति#} Comm.). 
 <div n="2">— e) {%ein öffentlicher Platz in einer Stadt%} 
@@ -41,7 +41,7 @@
 <ls>31, 29. 32, 3. 5.</ls> <ls>Spr. (II) 1834.</ls> <ls>CARAKA 2, 1. 3, 7. 8, 5.</ls> <ls>SUŚR. 1, 259, 7. 299, 4.</ls> <ls>ŚĀK. 126.</ls> <ls>VARĀH. BṚH. S. 2, S. 4, Z. 16. S. 6, Z. 16. 3, 17. 4, 8. 18. 11, 26. fg. 26, 2. 33, 4. 35, 1. 50, 7. 66, 1. 82, 3</ls> ({#सु°#} adj.). 
 <ls>MĀRK. P. 23, 34. 54, 8. 58, 2. 61, 1. 91, 13. 119, 9.</ls> 
 <ls>BHĀG. P. 2, 8, 8. 3, 9, 28. 5, 1, 41. 5, 30. 10, 6. 20, 1. 23, 4. 6, 1, 5. 12, 12, 16.</ls> <ls>Verz. d. Oxf. H. 202,a,</ls> 
-<ls>43.</ls> <ls>LALIT. ed. Calc. 122, 21.</ls> <ls>WEBER,</ls> <ls>VAJRASŪCI 224, 4</ls> v. u. <ls>SĀH. D. 4, 15. 8, 5.</ls> <ls>SARVADARŚANAS. 51, 14. 130, 12.</ls> <ls>VEDĀNTAS. (Allah.) No. 130.</ls> <ls>KUSUM. 16, 21.</ls> <ls>Ind. St. 10, 280.</ls> {#चारैश्चानेकसंस्थानैः#} 
+<ls>43.</ls> <ls>LALIT. ed. Calc. 122, 21.</ls> <ls>WEBER</ls>, <ls>VAJRASŪCI 224, 4</ls> v. u. <ls>SĀH. D. 4, 15. 8, 5.</ls> <ls>SARVADARŚANAS. 51, 14. 130, 12.</ls> <ls>VEDĀNTAS. (Allah.) No. 130.</ls> <ls>KUSUM. 16, 21.</ls> <ls>Ind. St. 10, 280.</ls> {#चारैश्चानेकसंस्थानैः#} 
 <ls>M. 9, 261</ls> (vgl. 
 <ls>KĀM. NĪTIS. 12, 35</ls>). {#भारतं वर्षं चतुःसंस्थानसंस्थितम्#} {%in vierfacher Form%} 
 <ls>MĀRK. P. 57, 58.</ls> {#संस्थान = रूप#} 

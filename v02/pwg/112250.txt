@@ -1,7 +1,7 @@
 <L>112250<pc>7-1167<k1>सून<k2>सून
 {#सून#}¦ 
 <div n="1"> 1) <lex>adj.</lex> (von {#सू#} = 4. {#सु#}) {%erzeugt, geboren%} 
-<ls>P. 8, 2, 45, Schol.</ls> <ls>VOP. 26, 88. fg.</ls> m. {%Sohn%} 
+<ls>P. 8, 2, 45</ls>, Schol. <ls>VOP. 26, 88. fg.</ls> m. {%Sohn%} 
 <ls>PAÑCAT. 198, 2</ls> (fehlerhaft für {#सुत#}). <lex>f.</lex> {#आ#} {%Tochter%} 
 <ls>H. an. 2, 291.</ls> 
 <ls>MED. n. 24.</ls> 
@@ -20,7 +20,7 @@
 <ls>HALĀY. 2, 440.</ls> {#°चक्रध्वजवताम्#} (das Suffix gehört zu jedem der drei Worte) 
 <ls>M. 4, 84.</ls> {#दशसूनासमं चक्रम्#} 
 <ls>85</ls> (<ls>MBH. 13, 5927</ls>). fg. {#°स्थ#} 
-<ls>11, 155.</ls> <ls>MBH. 3, 13710.</ls> {#पञ्च सूना गृहस्थस्य चुल्ली पेषण्युपस्करः । कण्डनी चोदकुम्भश्च#} so v. a. {%diese fünf Gegenstände können den Tod eines lebenden Wesens bewirken%} 
+<ls n="MBH.">11, 155.</ls> <ls>MBH. 3, 13710.</ls> {#पञ्च सूना गृहस्थस्य चुल्ली पेषण्युपस्करः । कण्डनी चोदकुम्भश्च#} so v. a. {%diese fünf Gegenstände können den Tod eines lebenden Wesens bewirken%} 
 <ls>M. 3, 68. 71.</ls> {#द्यूतं पानं स्त्रियः सूना#} so v. a. {%das Tödten eines lebenden Wesens%} 
 <ls>BHĀG. P. 1, 17, 38.</ls> {#एकादशेन्द्रियचमूः पञ्चसूनाविनोदकृत्#} (das Frohnen der {%fünf%} Sinne wird mit der {%Lust am Schlachten%} verglichen) 
 <ls>4, 29, 20.</ls> {#सूनायामपि#} so v. a. {%sogar wenn Einem das Messer an der Kehle steht, sogar im äussersten Nothfalle%} 

@@ -2,11 +2,11 @@
 {#चाण्डाल꣡#}¦ 
 <ls>Uṇ. 1, 116.</ls> 
 <div n="1"> 1) <lex>m.</lex> = {#चण्डाल#} 
-<ls>P. 5, 4, 36, <is>Vārtt</is>. 1</ls> (angeblich ved.), 
+<ls>P. 5, 4, 36</ls>, <is>Vārtt</is>. 1 (angeblich ved.), 
 <ls>AK. 2, 10, 4. 20.</ls> 
 <ls>TRIK. 2, 10, 5.</ls> 
-<ls>H. 933,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 933</ls>, <ls>Sch.</ls> 
+
 <ls>VS. 30, 21.</ls> 
 <ls>ŚAT. BR. 14, 7, 1, 22.</ls> {#ग्रामे चाण्डालसंयुते#} 
 <ls>KAUŚ. 141.</ls> 
@@ -15,8 +15,8 @@
 <ls>R. 3, 62, 24.</ls> 
 <ls>MṚCCH. 155, 24. 157, 1.</ls> 
 <ls>PAÑCAT. I, 183. III, 194.</ls> <ls>HIT. I, 55.</ls> {#चाण्डालमृतपाः#} 
-<ls>P. 2, 4, 10,</ls> 
-<ls>Sch.</ls> {#चाण्डाली#} <lex>f.</lex> 
+<ls>P. 2, 4, 10</ls>, <ls>Sch.</ls>
+{#चाण्डाली#} <lex>f.</lex> 
 <ls>M. 8, 373.</ls> 
 <ls>BHĀG. P. 6, 3, 12.</ls> 
 <ls>VET. 10, 8.</ls> {#ब्राह्मणचाण्डाल#} {%ein%} <is>Cāṇḍāla</is> {%unter den%} <is>Brāhmaṇa</is>, {%ein über Alles verächtlicher Brahmane%} 

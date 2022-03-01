@@ -7,8 +7,8 @@
 <ls>3, 71, 3.</ls> {#भयेन#} 
 <ls>RĀJA-TAR. 4, 445.</ls> {#लताजाल°#} 
 <ls>MBH. 1, 1112.</ls> <ls n="MBH.">3, 2404.</ls> {#शस्त्रवर्ष° (विमर्द)#} 
-<ls>4075. 5891</ls> (st. {#द्रुम#} ist vielleicht {#द्विज#} zu lesen). 
-<ls>8246. 3, 11333. 12106. 4, 692. 13, 2843.</ls> {#गावो वत्ससमाकुलाः#} 
+<ls n="MBH. 3,">4075.</ls> <ls n="MBH. 3,">5891</ls> (st. {#द्रुम#} ist vielleicht {#द्विज#} zu lesen). 
+<ls n="MBH. 3,">8246.</ls> <ls n="MBH.">3, 11333.</ls> <ls n="MBH. 3,">12106.</ls> <ls n="MBH.">4, 692.</ls> <ls n="MBH.">13, 2843.</ls> {#गावो वत्ससमाकुलाः#} 
 <ls>HARIV. 3883.</ls> <ls n="HARIV.">8263.</ls> <ls n="HARIV.">13908.</ls> 
 <ls>R. 1, 5, 16 (9 GORR.). 2, 34, 41. 57, 17. 75, 25 (97, 7 GORR.). 81, 10. 94, 7.</ls> <ls>R. GORR. 2, 28, 15. 18. 58, 6. 73, 15. 101, 40. 107, 18. 3, 17, 24. 61, 17. 4, 40, 47.</ls> <ls>RAGH. 7, 24.</ls> <ls>Spr. (II) 3997.</ls> <ls n="Spr. (II)">7589.</ls> <ls>KATHĀS. 13, 16. 102, 60.</ls> <ls>RĀJA-TAR. 3, 238.</ls> <ls>PAÑCAT. 8, 21.</ls> {#क्रोध°#} 
 <ls>R. GORR. 1, 61, 13.</ls> {#शोक°#} 
@@ -27,7 +27,7 @@
 <ls>KATHĀS. 51, 30.</ls> {#मनस्#} 
 <ls>PAÑCAT. 45, 16.</ls> {#धर्माः#} 
 <ls>MBH. 3, 13011.</ls> {#महाभय#} {%wobei es drunter und drüber geht%} 
-<ls>6, 3235.</ls> in comp. mit dem, was die Verwirrung u. s. w. bereitet: {#श्वासामोद°#} 
+<ls n="MBH.">6, 3235.</ls> in comp. mit dem, was die Verwirrung u. s. w. bereitet: {#श्वासामोद°#} 
 <ls>Spr. (II) 2488.</ls> {#वृष्टिवात°#} {%geplagt von%} 
 <ls>2821.</ls> {#आयास°#} 
 <ls>1897.</ls> 

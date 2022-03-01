@@ -4,7 +4,7 @@
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} 
 <div n="2"> a) {%am Ort verharrend, feststehend; bleibend, dauernd; beständig, unveränderlich%}; mit einem loc. {%bei Jmd bleibend%} (Gegens. {#एजन्त्, चरन्त्#} u. s. w.); = {#स्थिर#} 
 <ls>H. an. 2, 526. fg.</ls> = {#नित्य, शाश्वत#} 
-<ls>P. 4, 2, 104, <is>Vārtt</is>. 3.</ls> 
+<ls>P. 4, 2, 104</ls>, <is>Vārtt</is>. 3. 
 <ls>AK. 3, 2, 2. 4, 27, 213.</ls> 
 <ls>H. 1453.</ls> 
 <ls>H. an.</ls> 
@@ -19,7 +19,7 @@
 <ls n="ṚV.">8, 17, 14.</ls> {#ध्रुवमपाये ऽपादानम्#} 
 <ls>P. 1, 4, 24.</ls> {#चक्र#} 
 <ls>MBH. 1, 808.</ls> {#वसुमती#} 
-<ls>3, 10929.</ls> {#नक्षत्राणि#} 
+<ls n="MBH.">3, 10929.</ls> {#नक्षत्राणि#} 
 <ls>R. 1, 60, 27.</ls> {#स्वाङ्ग#} {%ein Glied, ein Theil des Körpers, der feststeht, unbeweglich ist%} (vgl. dagegen {#अध्रुव#}) 
 <ls>P. 6, 2, 177.</ls> {#व्रत#} 
 <ls>ṚV. 1, 36, 5.</ls> <ls n="ṚV.">2, 5, 8</ls> und oft. {#ऋ\तुभि^र्ध्रु\वेभि^ः#} 
@@ -30,10 +30,10 @@
 <ls>ṚV. 1, 59, 3.</ls> {#ध्रु\वं ज्योति\र्निहि^तं दृ\शये\ कम्#} 
 <ls n="ṚV.">6, 9, 5.</ls> {#ध्रु\वासो^ अस्य की\रयो\ जना^सः#} 
 <ls n="ṚV.">7, 100, 4.</ls> <ls n="ṚV.">10, 173, 1. fgg.</ls> {#इ\हैव^ ध्रु\वा प्रति^ तिष्ठ शाले#} 
-<ls>AV. 3, 12, 2. 14, 1, 47.</ls> 
+<ls>AV. 3, 12, 2.</ls> <ls n="AV.">14, 1, 47.</ls> 
 <ls>VS. 9, 22. 13, 16.</ls> {#धेनु#} {%eine beim Melken stillhaltende Kuh%} 
 <ls>AV. 12, 1, 45.</ls> - <ls>ŚAT. BR. 11, 8, 1, 2. 14, 4, 3, 22. 7, 2, 23.</ls> {#ध्रुवा दिक्#} heisst in der Reihe der Himmelsrichtungen {%der Fusspunkt%} 
-<ls>AV. 3, 27, 5. 15, 6, 1. 12, 3, 59.</ls> 
+<ls>AV. 3, 27, 5.</ls> <ls n="AV.">15, 6, 1.</ls> <ls n="AV.">12, 3, 59.</ls> 
 <ls>AIT. BR. 8, 14.</ls> 
 <ls>ŚAT. BR. 14, 6, 9, 25.</ls> {#°ग्रह#} {%der bleibende%} d. h. {%aufbewahrte%} <is>Graha</is>, welcher Morgens geschöpft erst Abends geopfert wird, 
 <ls>4, 2, 3, 3. 4, 1. 5, 1, 2, 19.</ls> <ls>KĀTY. ŚR. 9, 5, 17.</ls> <ls>LĀṬY. 1, 11, 1.</ls> ähnlich ist vielleicht zu verstehen {#ध्रुवं हविः#} 
@@ -149,7 +149,7 @@
 <ls>H. 212.</ls> 
 <ls>ŚABDAR.</ls> im <ls>ŚKDR.</ls> <is>Viṣṇu's</is> 
 <ls>MED.</ls> <ls>MBH. 12, 1510</ls> (vgl. {#ध्रुवाक्षर#} 
-<ls>1, 2430</ls>). <is>Śiva's</is> 
+<ls n="MBH.">1, 2430</ls>). <is>Śiva's</is> 
 <ls>H. an.</ls> <ls>MED.</ls> <ls>Verz. d. Oxf. H. a. a. O.</ls> <ls>ŚIV.</ls> 
 <div n="2">— o) N. einer die Erde tragenden Schlange 
 <ls>ĀŚV. GṚHY. 2, 1.</ls> 
@@ -178,7 +178,7 @@ ist.
 <ls>H. 829.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> <ls>Verz. d. Oxf. H. No. 414, Śl. 4</ls> (wo {#स्रु#} st. {#वा#} zu ergänzen ist). {#जुहू, उपभृत्, ध्रुवा#} 
-<ls>AV. 18, 4, 5. 6.</ls> 
+<ls>AV. 18, 4, 5.</ls> <ls n="AV. 18, 4,">6.</ls> 
 <ls>VS. 2, 6.</ls> {#ध्रुवां वै रिच्य^मानां य\ज्ञो ऽनु^रिच्यते#} 
 <ls>TS. 1, 7, 5, 1.</ls> 
 <ls>ŚAT. BR. 1, 3, 2, 2. 8, 3, 13.</ls> 

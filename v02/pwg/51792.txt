@@ -21,15 +21,15 @@
 <ls>AK. 2, 4, 1, 7.</ls> 
 <ls>MED.</ls> 
 <ls>RAGH. 1, 70.</ls> 
-<ls>P. 4, 2, 36, <is>Vārtt</is>. 6,</ls> 
-<ls>Sch.</ls> überh. {%fruchtlos, unnütz, vergeblich%} 
+<ls>P. 4, 2, 36</ls>, <is>Vārtt</is>. 6, <ls>Sch.</ls>
+überh. {%fruchtlos, unnütz, vergeblich%} 
 <ls>H. 1516.</ls> 
 <ls>MED.</ls> 
 <ls>HALĀY. 4, 75.</ls> {#यथायमृतुर्बन्ध्यो न भवति#} (beim Weibe) 
 <ls>MBH. 1, 750.</ls> 
 <ls>MĀRK. P. 14, 3.</ls> {#दिवस#} 
 <ls>MBH. 12, 6533.</ls> {#अबन्ध्यं दिवसं कुर्यादन्नदानेन मानवः#} 
-<ls>13, 5559.</ls> <ls>Spr. 44.</ls> <ls>VṚDDHA-CĀṆ. 2, 13.</ls> {#अबन्ध्यकाल#} {%dem die Zeit nicht unnütz verstreicht%} 
+<ls n="MBH.">13, 5559.</ls> <ls>Spr. 44.</ls> <ls>VṚDDHA-CĀṆ. 2, 13.</ls> {#अबन्ध्यकाल#} {%dem die Zeit nicht unnütz verstreicht%} 
 <ls>MBH. 5, 994.</ls> {#राजवधूमबन्ध्यशयनां व्यधुः#} 
 <ls>RĀJA-TAR. 6, 189.</ls> {#बन्ध्यं कर्म#} 
 <ls>MBH. 5, 1902.</ls> {#श्रम#} 

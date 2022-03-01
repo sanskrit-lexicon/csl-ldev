@@ -14,13 +14,13 @@
 <ls>VS. 1, 15.</ls> 
 <ls>ŚAT. BR. 1, 1, 4, 8.</ls> 
 <ls>KĀTY. ŚR. 4, 10, 6. 7, 4, 15.</ls> 
-<ls>P. 8, 3, 110, Schol.</ls> 
+<ls>P. 8, 3, 110</ls>, Schol. 
 <div n="2">— c) {%das Entleeren%}: {#अ\व\तस्य^#} 
 <ls>ṚV. 8, 61, 11.</ls> 
 <div n="2">— d) {%das Verlassen, Aufgeben, Fahrenlassen%}; = {#परित्याग#} 
 <ls>MED. n. 206.</ls> {#रथस्य, शस्त्राणाम्#} 
 <ls>MBH. 7, 9014.</ls> {#अनिष्टानां च#} (so ed. Bomb.) {#संसर्गादिष्टानां च विसर्जनात्#} 
-<ls>11, 85.</ls> {#देह°#} 
+<ls n="MBH.">11, 85.</ls> {#देह°#} 
 <ls>RAGH. 8, 25.</ls> 
 <div n="2">— e) {%das Entlassen, Vonsichgeben%}: {#वसुवृष्टि°#} 
 <ls>RAGH. 9, 6.</ls> {#विण्मूत्रस्य#} 

@@ -13,7 +13,7 @@
 <ls n="ṚV.">1, 56, 3.</ls> <ls n="ṚV. 1,">61, 14.</ls> <ls n="ṚV. 1,">63, 1.</ls> {#शुचि^र्य\ती गि\रिभ्य\ आ स^मु\द्रात्#} 
 <ls n="ṚV.">7, 95, 2.</ls> <ls n="ṚV.">8, 32, 4.</ls> <ls n="ṚV. 8,">66, 6.</ls> Häufig verbunden mit dem <lex>adj.</lex> gebrauchten {#पर्वतः वध्रि\ः स पर्व^तो गि\रिः#} 
 <ls>AV. 4, 7, 8.</ls> {#गि\रय^स्ते\ पर्व^ता हि\मव^न्तः#} 
-<ls>12, 1, 11. 6, 12, 3. 17, 3. 9, 1, 18.</ls> {#पर्व^तं गि\रिं प्र च्या^वयन्ति\ याम^भिः#} 
+<ls n="AV.">12, 1, 11.</ls> <ls n="AV.">6, 12, 3.</ls> <ls n="AV. 6,">17, 3.</ls> <ls n="AV.">9, 1, 18.</ls> {#पर्व^तं गि\रिं प्र च्या^वयन्ति\ याम^भिः#} 
 <ls>ṚV. 1, 56, 4.</ls> {#(नि) जिही^त\ पर्व^तो गि\रिः#} 
 <ls n="ṚV. 1,">37, 7.</ls> <ls n="ṚV.">8, 53, 5.</ls> {#गिरिमात्र꣡#} <lex>adj.</lex> {%Bergesumfang habend%} 
 <ls>ŚAT. BR. 1, 9, 1, 10.</ls> Nach 
@@ -36,10 +36,10 @@
 <ls>MED.</ls> <ls>VIŚVA</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— d) {%eine best. Augenkrankheit(?)%} 
 <ls>H. an.</ls> <ls>MED.</ls> {#गिरिणा काणः, गिरि꣡काणः#} 
-<ls>P. 6, 2, 2,</ls> 
-<ls>Sch.</ls> 
-<ls>Uṇ. 4, 144,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 6, 2, 2</ls>, <ls>Sch.</ls> 
+
+<ls>Uṇ. 4, 144</ls>, <ls>Sch.</ls> 
+
 <div n="2">— e) {%eine best. schlechte Eigenschaft des Quecksilbers%}: {#नागो वङ्गो मलो वह्निश्चाञ्चल्यं च विषं गिरिः । असह्याग्निर्महादोषा निसर्गात्पारदे स्थिताः ॥#} 
 <ls>RATNĀV.</ls> im <ls>ŚKDR.</ls> 
 <div n="2">— f) = {#गैरीयक(?)#} 
@@ -53,7 +53,7 @@
 <ls>VP. 435.</ls> 
 <div n="1">— 2) <lex>f.</lex> 
 <div n="2"> a) (von 2. {#गर्#}) {%das Verschlingen%} <is>gaṇa</is> {#कृष्यादि#} zu 
-<ls>P. 3, 3, 108, <is>Vārtt</is>. 8.</ls> 
+<ls>P. 3, 3, 108</ls>, <is>Vārtt</is>. 8. 
 <ls>AK. 3, 3, 11.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls>

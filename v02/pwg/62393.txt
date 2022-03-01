@@ -5,9 +5,9 @@
 <div n="2"> a) {%Wälscher, Barbar%} 
 <ls>H. an. 2, 65.</ls> 
 <ls>MED. ch. 5.</ls> <ls>HALĀY. 2, 444.</ls> <ls>ŚAT.</ls> <ls>BR. 3, 2, 1, 24.</ls> <ls>M. 7, 149. 12, 43.</ls> <ls>MBH. 1, 3480.</ls> {#ससर्ज फेनतः सा गौर्म्लेच्छान्बहुविधानपि#} 
-<ls>6685. 3, 2402.</ls> {#उत्तराश्चापंरे म्लेच्छाः क्रूराः#} 
-<ls>6, 372.</ls> {#गोयोनिप्रभवाः#} 
-<ls>7,3379. 12, 6293.</ls> <ls>HARIV. 6441.</ls>
+<ls n="MBH. 1,">6685.</ls> <ls n="MBH.">3, 2402.</ls> {#उत्तराश्चापंरे म्लेच्छाः क्रूराः#} 
+<ls n="MBH.">6, 372.</ls> {#गोयोनिप्रभवाः#} 
+<ls n="MBH.">7, 3379.</ls> <ls n="MBH.">12, 6293.</ls> <ls>HARIV. 6441.</ls>
 [Page5-0935]
 {#(कामदुहः) रोमकूपेषु म्लेच्छाः (संभूताः)#} 
 <ls>R.1,55,3.</ls> <ls>Spr. 1209.</ls> <ls>DAŚAR.2,42.</ls> <ls>VARĀH.</ls> bei <ls>COLEBR. Misc. Ess. II, 411.</ls> <ls>RĀJA-TAR.1,107. 308.</ls> <ls>VP. 375. 443. 477, N. 65. 482.</ls> <ls>Verz. d. B. H. 288,4.</ls> <ls>Verz. d. Oxf. H. 22,a,23.</ls> <ls>Ind. St.1,13,26.</ls> <ls>PRAB. 85,11. 87,19.</ls> <ls>HIOUEN-THSANG.1,88.</ls> <ls>Vie de HIOUEN-THSANG 75. 230.</ls> <ls>WASSILJEW 50,52.</ls> {#°जातयः#} 
@@ -17,13 +17,13 @@
 <ls>HARIV. 11453.</ls> {#°वाच्#} 
 <ls>M. 10, 45.</ls> 
 <ls>MBH. 1, 5803.</ls> {#°भाषा#} 
-<ls>378.</ls> {#°रक्त#} 
+<ls n="MBH. 1,">378.</ls> {#°रक्त#} 
 <ls>Verz. d. B. H. No. 824.</ls> {#म्लेच्छ = पापरक्त#} {%ein Mann, der Hang zum Bösen hat%}, 
 <ls>MED.</ls> 
 <div n="2">— b) {%das Wälschen, Unkenutniss der Sprache des Landes%}; = {#अपभाषण#} 
 <ls>MED.</ls> = {#अभाषण#} 
 <ls>H. an.</ls> 
 <div n="1">— 2) <lex>n.</lex> {%Kupfer%} 
-<ls>H. 1040,</ls> 
-<ls>Sch.</ls>; vgl. {#म्लेच्छमुख, म्लेच्छाख्य, म्लेच्छास्य#} .
+<ls>H. 1040</ls>, <ls>Sch.</ls>; 
+vgl. {#म्लेच्छमुख, म्लेच्छाख्य, म्लेच्छास्य#} .
 <LEND>

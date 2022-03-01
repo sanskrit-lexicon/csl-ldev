@@ -11,11 +11,11 @@
 <ls>KATHĀS. 25, 203.</ls> {#माया°#} 
 <ls>VID. 172.</ls> 
 <ls>PAÑCAT. 42, 10. 11.</ls> {#वाक्°#} 
-<ls>256, 1.</ls> <ls>ŚAṂK.</ls> bei <ls>WIND. <is>Sancara</is> 173. Schol.</ls> bei <ls>WILSON, SĀṂKHYAK. S. 31.</ls> <ls>BHĀG. P. 3, 24, 33.</ls> {#स°#} {%mit Allem was daran hängt%} 
+<ls>256, 1.</ls> <ls>ŚAṂK.</ls> bei <ls>WIND. <is>Sancara</is> 173.</ls> Schol. bei <ls>WILSON, SĀṂKHYAK. S. 31.</ls> <ls>BHĀG. P. 3, 24, 33.</ls> {#स°#} {%mit Allem was daran hängt%} 
 <ls>28, 38.</ls> {#बहुप्रपञ्चवचन#} so v. a. {%weitschweifiges Reden%} 
 <ls>HIT. 130, 5.</ls> {#शोको ऽयमज्ञानस्यैव प्रपञ्चः#} so v. a. {%eine von den aus der Unwissenheit hervorgehenden Erscheinungen%} 
 <ls>125, 17.</ls> <ls>BHĀṢĀP. 126.</ls> {#पूर्वस्यैवायं प्रपञ्चः#} {%eine weitere Ausführung des vorangehenden%} (<is>Sūtra</is>) 
-<ls>Schol.</ls> zu <ls>P. 2, 1, 33. 58. 3, 73. 4, 28. 3, 2, 177. 4, 3, 36. 5, 3, 98. 6, 3, 15.</ls> zu <ls>ṚV. PRĀT. 1, 18 (<is>Sūtra</is> 70).</ls> {#प्रपञ्चेन#} {%ausführlich%} 
+<ls>Schol.</ls> zu <ls>P. 2, 1, 33.</ls> <ls n="P. 2, 1,">58.</ls> <ls n="P. 2,">3, 73.</ls> <ls n="P. 2,">4, 28.</ls> <ls n="P.">3, 2, 177.</ls> <ls n="P.">4, 3, 36.</ls> <ls n="P.">5, 3, 98.</ls> <ls n="P.">6, 3, 15.</ls> zu <ls>ṚV. PRĀT. 1, 18</ls> (<is>Sūtra</is> 70). {#प्रपञ्चेन#} {%ausführlich%} 
 <ls>HARIV. 16347.</ls> {#प्रपञ्चतस्#} dass. 
 <ls n="HARIV.">16333.</ls> 
 <div n="1">— 2) in der Philos. {%die Mannichfaltigkeit der Welt, die sichtbare Welt%} 
@@ -28,7 +28,7 @@
 <ls>H. an.</ls> <ls>MED.</ls> {%gegenseitige unwahre Lobsprüche%}: {#असद्भूतं मिथःस्तोत्रं प्रपञ्चः#} 
 <ls>PRATĀPAR. 23,b,2. 27,a,4.</ls> 
 <div n="1">— 4) enklytisch nach einem Verbum finitum <is>gaṇa</is> {#गोत्रादि#} zu 
-<ls>P. 8, 1, 27. 57.</ls> 
+<ls>P. 8, 1, 27.</ls> <ls n="P. 8, 1,">57.</ls> 
 <div n="1">— 5) = {#विपर्यास (= वैपरीत्य, भ्रम, माया#} 
 <ls>SVĀMIN</ls>; vgl. <ls>BHĀṢĀP. 126</ls>) <ls>AK.</ls> = {#आडम्बर#} 
 <ls>HALĀY. 5, 55.</ls> 

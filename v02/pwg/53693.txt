@@ -4,9 +4,9 @@
 <div n="2"> a) {%zugetheilt%}; s. {#देव°, भग°#} . 
 <div n="2">— b) {%getheilt, dividirt%}; s. u. {#भज्#} . 
 <div n="2">— c) {%einen Theil von Etwas bildend, zu Etwas gehörig%}: {#अकारमात्रभक्तो ऽयं मुगागमः#} 
-<ls>P. 7, 2, 82,</ls> 
-<ls>Sch.</ls> {#धातुभक्तत्वात्#} {%weil es zur Wurzel gehört%} 
-<ls>7, 4, 30, <is>Vārtt</is>. 2</ls>, <ls>Sch.</ls> {#सुटो ऽभक्तत्वात्#} {%weil das eingeschobene%} {#स#} {%nicht dazu gehört%} 
+<ls>P. 7, 2, 82</ls>, <ls>Sch.</ls>
+{#धातुभक्तत्वात्#} {%weil es zur Wurzel gehört%} 
+<ls>7, 4, 30</ls>, <is>Vārtt</is>. 2, <ls>Sch.</ls> {#सुटो ऽभक्तत्वात्#} {%weil das eingeschobene%} {#स#} {%nicht dazu gehört%} 
 <ls>7, 2, 43</ls>, <ls>Sch.</ls> 
 <div n="2">— d) {%geliebt, was man%}
 [Page5-0162]
@@ -15,8 +15,8 @@
 <div n="2">— e) {%zugethan, zugeneigt, ergeben, treu anhängend, Verehrer%} 
 <ls>H. an. 2, 181.</ls> {#मां भक्तां भजितुमर्हसि#} 
 <ls>MBH. 1, 3260.</ls> {#भक्तं मां भज भाविनि#} 
-<ls>6573. 3, 1860.</ls> {#भक्तं च भजमानं च#} 
-<ls>5, 1037. 12, 4262.</ls> <ls>R. 1, 54, 4.</ls> <ls>Spr. 2002. fgg. 3849. 3363. 4647</ls> (an den beiden letzten Stellen zugleich {%Speise).%} 
+<ls n="MBH. 1,">6573.</ls> <ls n="MBH.">3, 1860.</ls> {#भक्तं च भजमानं च#} 
+<ls n="MBH.">5, 1037.</ls> <ls n="MBH.">12, 4262.</ls> <ls>R. 1, 54, 4.</ls> <ls>Spr. 2002. fgg. 3849. 3363. 4647</ls> (an den beiden letzten Stellen zugleich {%Speise).%} 
 <ls>KATHĀS. 49, 78.</ls> 
 <ls>BHAG. 7, 21. 9, 33.</ls> 
 <ls>PRAB. 81, 17.</ls> Die Ergänzung im loc.: {#गोषु#} 
@@ -65,8 +65,8 @@
 <ls>HARIV. 7882.</ls> {#सप्तमे भक्ते, भक्तानि षट्#} 
 <ls>M. 11, 16.</ls> {#पक्षे पक्षे गते यस्तु भक्तमश्नाति#} 
 <ls>MBH. 13, 5163.</ls> {#यस्तु संवत्सरं पूर्णं चतुर्थं भक्तमश्नुते#} {%die vierte Mahlzeit%} (so dass drei Mahlzeiten übersprungen wer- den) 
-<ls>5173.</ls> {#षष्ठभक्त#} <lex>adj.</lex> {%der%} (5 Mahlzeiten übersprungt und nur) {%die sechste Mahlzeit geniesst%} 
-<ls>12, 8889.</ls> {%eine ordentliche Mahlzeit%} im Gegens. zu {#कदशन#} 
+<ls n="MBH. 13,">5173.</ls> {#षष्ठभक्त#} <lex>adj.</lex> {%der%} (5 Mahlzeiten übersprungt und nur) {%die sechste Mahlzeit geniesst%} 
+<ls n="MBH.">12, 8889.</ls> {%eine ordentliche Mahlzeit%} im Gegens. zu {#कदशन#} 
 <ls>Spr. 4079.</ls> {#अन्तराभक्त#} {%Medicin, welche zwischen zwei Mahlzeiten genommen wird%}, 
 <ls>SUŚR. 2, 555, 4.</ls> 
 <div n="v">— Vgl. {#अधो°, एक°, चतुर्थ°#}, 2. {#निर्भक्त, #}

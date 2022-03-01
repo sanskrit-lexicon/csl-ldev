@@ -42,8 +42,8 @@ u.s.w. <ls>AK. 1, 1, 4, 9.</ls> <ls>TRIK. 1, 1, 114.</ls> <ls>H. 1369.</ls> <ls>
 <ls>MBH. 3, 2165.</ls> {#मरुतां मनो नातिविशश्वास#} 
 <ls>RAGH. 12, 101.</ls> {#न मे सीदन्ति मज्जानो न ममोद्वेपते मनः#} 
 <ls>MBH. 5, 2779.</ls> {#ममापि व्यथते मनः#} 
-<ls>3, 2675.</ls> {#व्यदीर्यत मनो दुःखात्#} 
-<ls>2773.</ls> {#मनसश्च महाज्वरः#} 
+<ls n="MBH.">3, 2675.</ls> {#व्यदीर्यत मनो दुःखात्#} 
+<ls n="MBH. 3,">2773.</ls> {#मनसश्च महाज्वरः#} 
 <ls>VID. 52.</ls> {#बाले ऽस्मिन्नौरस इव पुत्रे स्निह्यति मे मनः#} 
 <ls>ŚĀK. 102, 7. 15, 11. 34.</ls> {#यदार्यमस्यामभिलाषि मे मनः#} 
 <ls>Spr. 273.</ls> {#मनो हि मम तां गतम्#} 
@@ -80,11 +80,11 @@ u.s.w. <ls>AK. 1, 1, 4, 9.</ls> <ls>TRIK. 1, 1, 114.</ls> <ls>H. 1369.</ls> <ls>
 <ls>R. 1, 4, 30.</ls> {#तपत्यादित्यवच्चैष (राजा) चक्षूंषि च मनांसि च#} {%Augen und Herzen%} 
 <ls>M. 7, 6.</ls> {#जहार सर्वभूतानां चक्षूंषि च मनांसि च#} 
 <ls>MBH. 1, 7695.</ls> {#मुष्णन्ती प्रभया राज्ञां चक्षूंषि च मनांसि च#} 
-<ls>3, 2198.</ls> {#मनोनयननन्दन#} 
-<ls>9920.</ls> {%das geistige Vermögen, das mit dem Tode aus dem Körper entflieht: Geist, Seele%} (das Thier hat nicht {#मनस्#}, sondern {#असु#} 
+<ls n="MBH.">3, 2198.</ls> {#मनोनयननन्दन#} 
+<ls n="MBH. 3,">9920.</ls> {%das geistige Vermögen, das mit dem Tode aus dem Körper entflieht: Geist, Seele%} (das Thier hat nicht {#मनस्#}, sondern {#असु#} 
 <ls>AIT. BR. 2, 6).</ls> <ls>ṚV. 10, 57, 3.</ls> {#आ त^ एतु\ मन\ः पुन\ः क्रत्वे\ दक्षा^य जी\वसे^#} 
 <ls n="ṚV. 10, 57,">4.</ls> <ls n="ṚV. 10,">59, 5.</ls> <ls>VS. 4, 15.</ls> {#पुन\रेहि^ वाचस्पते दे\वेन\ मन^सा स\ह#} 
-<ls>AV.1, 1, 2.</ls> <ls>TS. 6, 6, 7, 2.</ls>
+<ls>AV. 1, 1, 2.</ls> <ls>TS. 6, 6, 7, 2.</ls>
 [Page5-0520]
 {#मनस्, शरीर#} 
 <ls>AIT. BR. 3, 8.</ls> 
@@ -119,9 +119,9 @@ u.s.w. <ls>AK. 1, 1, 4, 9.</ls> <ls>TRIK. 1, 1, 114.</ls> <ls>H. 1369.</ls> <ls>
 <ls>ĀŚV. GṚHY. 2, 3, 6.</ls> {#एवं संचिन्त्य मनसा#} 
 <ls>M. 11, 231.</ls> {#मनसा समचिन्तयत्#} 
 <ls>MBH. 3, 2878.</ls> {#इति निश्चित्य मनसा#} 
-<ls>2779.</ls> <ls>R. 1, 57, 9.</ls> {#विगणयन्राजा मनसा#} 
+<ls n="MBH. 3,">2779.</ls> <ls>R. 1, 57, 9.</ls> {#विगणयन्राजा मनसा#} 
 <ls>MBH. 3, 2877.</ls> {#कार्यं प्रतिपेदे तन्मनसा#} 
-<ls>5, 6044.</ls> <ls>R. 4, 28, 15.</ls> {#येन तमसा प्रावृतो मन्येत तन्मनसा गच्छेत्#} {%das stelle er sich vor%} 
+<ls n="MBH.">5, 6044.</ls> <ls>R. 4, 28, 15.</ls> {#येन तमसा प्रावृतो मन्येत तन्मनसा गच्छेत्#} {%das stelle er sich vor%} 
 <ls>AIT. BR. 3, 19.</ls> {#यदि\ त्वमत्र\ मन^सा ज\गन्थ^#} 
 <ls>VS. 23, 49.</ls> {#यन्मन^सा प\तय^ते#} 
 <ls>TS. 6, 1, 7, 3.</ls> {#मनस्, चक्षुस्#} 
@@ -200,12 +200,12 @@ u.s.w. <ls>AK. 1, 1, 4, 9.</ls> <ls>TRIK. 1, 1, 114.</ls> <ls>H. 1369.</ls> <ls>
 <ls n="ṚV.">10, 53, 1.</ls> {#तदस^दे\व सन्मनो^ ऽकुरुत\ स्यामिति^#} {%beschloss%} 
 <ls>TBR. 2, 2, 9, 1.</ls> {#मनसा यदि मन्यसे#} so v. a. {%wenn du Willens bist%} 
 <ls>MBH. 3, 2171.</ls> {#मनोरमेति विख्याता सा हि तैर्मनसा कृता#} 
-<ls>9, 2210.</ls> {#मनसा विहिते (रथे)#} 
-<ls>5, 7130.</ls> {#(ह्रदम्, नदीम्) मनसात्येति#} {%vermöge des blossem Willens%} 
+<ls n="MBH.">9, 2210.</ls> {#मनसा विहिते (रथे)#} 
+<ls n="MBH.">5, 7130.</ls> {#(ह्रदम्, नदीम्) मनसात्येति#} {%vermöge des blossem Willens%} 
 <ls>KAUṢ. UP. 1, 4.</ls> {#मनश्चक्रे भरद्वाजो भरतस्य#} so v. a. {%wurde ihm geneigt, fühlte sich zu ihm hingezogen%} 
 <ls>R. GORR. 2, 99, 31.</ls> Am Ende eines <lex>adj.</lex> comp. nach einem nom. act. {%den Wunsch habend, beabsichtigend%}: {#स्वकन्याप्रदान°#} 
 <ls>ITIH.</ls> bei <ls>SĀY.</ls> zu <ls>ṚV. 1, 125, 1.</ls> nach einem infin. mit abgeworfener Flexionsendung 
-<ls>P. 6. 1, 144, <is>Vārtt</is>. 3.</ls> 
+<ls>P. 6, 1, 144</ls>, <is>Vārtt</is>. 3. 
 <ls>VOP. 6, 72.</ls> {#द्रष्टु°#} 
 <ls>VIKR. 36.</ls> 
 <ls>KĀM. NĪTIS. 15, 61.</ls> <ls>PAÑCAT. 12, 19. 77, 2.</ls> 
@@ -220,8 +220,8 @@ u.s.w. <ls>AK. 1, 1, 4, 9.</ls> <ls>TRIK. 1, 1, 114.</ls> <ls>H. 1369.</ls> <ls>
 <ls>RĀJA-TAR. 5, 251.</ls> {#न परिहार्ये वस्तुनि पौरवाणां मनः प्रवर्तते#} 
 <ls>ŚĀK. 25, 8.</ls> {#यदेषां सर्वकृत्येषु मनो न प्रतिहन्यते#} 
 <ls>R. 2, 52, 24.</ls> {#मनोहत्य पयो पिबति#} {%bis das Verlangen gestillt ist%} 
-<ls>P. 1, 4, 66,</ls> 
-<ls>Sch.</ls>; vgl. 
+<ls>P. 1, 4, 66</ls>, <ls>Sch.</ls>; 
+vgl. 
 <ls>VOP. 8, 21.</ls> 
 <div n="2">— e) {%Gesinnung, Stimmung%}: {#अ\र\क्षसा\ मन^सा\ तज्जु^षेत#} 
 <ls>ṚV. 2, 10, 5.</ls> {#अदेव#} 

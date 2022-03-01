@@ -20,7 +20,7 @@
 <ls>MĀRK. P. 39, 52.</ls> {#विष्वग्लोप#} {%allgemeine Störung%} 
 <ls>MBH. 12, 461.</ls> <ls n="MBH. 12,">2550.</ls> {#अर्थ°#} {%Verlust%} 
 <ls>MBH. 3, 17241.</ls> {#स्मृति°#} 
-<ls>12, 10140.</ls> <ls>ŚĀK. 191, v. l.</ls> <ls>MĀRK. P. 10, 40.</ls> {#क्रिया°#} {%Unterlassung, Verletzung%} 
+<ls n="MBH.">12, 10140.</ls> <ls>ŚĀK. 191, v. l.</ls> <ls>MĀRK. P. 10, 40.</ls> {#क्रिया°#} {%Unterlassung, Verletzung%} 
 <ls>M. 3, 63. 9, 180. 10, 43.</ls> 
 <ls>MĀRK. P. 62, 24.</ls> 
 <ls>BRAHMA-P. in LA. (III) 55, 16.</ls> {#धर्म°#} 
@@ -33,7 +33,7 @@
 <ls>YĀJÑ.3,236.</ls> <ls>M. 11,203.</ls> <ls>PRĀYAŚCITTEND. 15,b,6.</ls> {#श्रौतस्मार्तकर्म°#} 
 <ls>4.</ls> {#विधि°#} 
 <ls>MBH. 3, 17105.</ls> {#व्यवहार°#} {%Unterbrechung, Störung%} 
-<ls>12, 2627.</ls> {#भवसंभवलोपहेतु#} {%Untergang%} 
+<ls n="MBH.">12, 2627.</ls> {#भवसंभवलोपहेतु#} {%Untergang%} 
 <ls>BHĀG. P. 7, 9, 42.</ls> 
 <div n="2">— b) {%das Entwenden%}: {#न्यास°#} 
 <ls>MBH. 13, 4517.</ls> 

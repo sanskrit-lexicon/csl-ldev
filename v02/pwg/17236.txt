@@ -28,14 +28,14 @@
 <ls>PAÑCAT. 100, 21.</ls> {#जातिमात्रेण किं कश्चिद्धन्यते पूज्यते क्वचित्#} 
 <ls>HIT. I, 51. 167.</ls> {#अस्मिन्निर्जने वने कदाचित्किं व्याधाः संचरन्ति#} 
 <ls>39, 4.</ls> <ls>ŚĀK. 8, 3. 23, 11. 29, 12. 61, 9.</ls> <ls>HIT. I, 72.</ls> <ls>VID. 296.</ls> <ls>BRAHMA-P. in LA. 57, 2.</ls> <ls>ŚṚṄGĀRAT. 14. 19. 21.</ls> {#कटमकार्षीः किम् । न करोमि#} oder {#नाकार्षम्#} 
-<ls>P. 3, 2, 121,</ls> 
-<ls>Sch.</ls> {#किं मयापकृतं तस्य यत्#} {%habe ich ihm Etwas zu Leide gethan, dass%} 
+<ls>P. 3, 2, 121</ls>, <ls>Sch.</ls>
+{#किं मयापकृतं तस्य यत्#} {%habe ich ihm Etwas zu Leide gethan, dass%} 
 <ls>VIŚV. 4, 4.</ls> {#परित्यक्ता वसिष्ठेन किमहम् - याहं राजभटैर्दीना ह्रियेय#} {%hat mich%} <is>Vas</is>. {%in Stich gelassen, das ich u.s.w.%} 3. {#परित्यक्ता त्वयाहम् - यस्माद्राजभटा मां हि नयन्ति त्वत्सकाशतः#} 
 <ls>8.</ls> Wenn die Handlung in Frage gestellt wird, behält das verbum fin., wenn es von keiner praep. begleitet ist, seinen Ton nach 
 <ls>P. 8, 1, 44.</ls> {#किं देवदत्तः पचति । आहो स्विद्भुङ्क्ते#} {%kocht%} <is>Dev</is>. {%oder isst er?%} 
 <ls>Sch.</ls> In den folgenden Beispielen dagegen ist das verbum fin. unbetont: {#किं देवदत्त ओदनं पचति । आहो स्विच्छाकम् ॥ किं देवदत्तः प्रपचति । उत प्रकरोति ।#} ebend. — {#किं रज्जुः किं सर्पः#} {%ist es ein Strick oder eine Schlange?%} 
-<ls>H. 1536,</ls> 
-<ls>Sch.</ls> {#किम् - उत#} 
+<ls>H. 1536</ls>, <ls>Sch.</ls>
+{#किम् - उत#} 
 <ls>ŚĀK. 69. 33, 12.</ls> {#तन्न जाने किं पद्भ्यां गता उत प्रवहणेनेति#} 
 <ls>MṚCCH. 147, 22. 48, 20. 49, 3.</ls> 
 <ls>KUMĀRAS. 6, 23.</ls> 
@@ -51,13 +51,13 @@
 <ls>ŚṚṄGĀRAT. 7.</ls> {#किम् - किं वा - किं वा#} 
 <ls>PAÑCAT. 34, 15. 16.</ls> {#किम् - किम् - वा - अथ#} 
 <ls>MṚCCH. 171, 24.</ls> Das einen {%Mangel%}, einen {%Tadel%} ausdrückende {#किम्#} am Anf. eines comp. gehört auch hierher: {#किंराजन्#} {%ist das ein König?%} d. i. {%ein schlechter König%} 
-<ls>P. 2, 1, 64. 5, 4, 70.</ls> Auch mit einem verb. fin. verbunden: {#किमधीते#} {%er liest schlecht (liest er wirklich?%}) 
-<ls>P. 8, 1, 44,</ls> 
-<ls>Sch.</ls> 
+<ls>P. 2, 1, 64.</ls> <ls n="P.">5, 4, 70.</ls> Auch mit einem verb. fin. verbunden: {#किमधीते#} {%er liest schlecht (liest er wirklich?%}) 
+<ls>P. 8, 1, 44</ls>, <ls>Sch.</ls> 
+
 <div n="2">— c) in Verbindung mit andern Partikeln: 
 <div n="3"> α) mit {#अङ्ग#} {%wie doch, warum doch%}: {#किम\ङ्ग वा\ं प्रत्यव^र्ति\ं गमि^ष्ठा\हुः#} 
 <ls>ṚV. 3, 58, 3.</ls> <ls n="ṚV.">6, 44, 10.</ls> <ls n="ṚV. 6,">52, 3.</ls> <ls n="ṚV.">10, 42, 3.</ls> 
-<ls>AV. 6, 45, 1. 10, 7, 37.</ls> 
+<ls>AV. 6, 45, 1.</ls> <ls n="AV.">10, 7, 37.</ls> 
 <div n="3">— β) mit vorang.
 [Page2-0286]
 {#अथ#} s. unter {#अथ#} 7,c. 
@@ -80,10 +80,10 @@
 <ls n="ṚV.">10, 38, 5.</ls> <ls>ŚAT. BR. 1, 1, 1, 8.</ls> {#किमुत त्वरेरन्#} 
 <ls>13, 5, 3, 5.</ls> {#किम्वेतावन्मात्रमुपजानीत#} 
 <ls>1, 6, 1, 4.</ls> {#किमुत#} — {#किमुत#} {%utrum - an%} 
-<ls>H. 1536,</ls> 
-<ls>Sch.</ls> 
+<ls>H. 1536</ls>, <ls>Sch.</ls> 
+
 <div n="3">— ζ) mit {#किल#} als Ausdruck des {%Unwillens%} (nach 
-<ls>SIDDH. K.</ls>) <ls>P.3,3,151.</ls> {#न संभावयामि न मर्षयामि तत्रभवान्किं किल वृषलं याजयिष्यति#} 
+<ls>SIDDH. K.</ls>) <ls>P. 3, 3, 151.</ls> {#न संभावयामि न मर्षयामि तत्रभवान्किं किल वृषलं याजयिष्यति#} 
 <ls>Sch.</ls> <ls>VOP. 25, 12.</ls> 
 <div n="3">— η) mit {#च#} {%und noch, ferner, weiter%}: {#नाम्ना वररुचिः किं च कात्यायन इति श्रुतः#} 
 <ls>KATHĀS. 2, 1.</ls> {#भजस्व मे सुतां किं च गृहाणापरनूपुरम्#} 

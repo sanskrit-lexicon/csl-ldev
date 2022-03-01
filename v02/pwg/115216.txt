@@ -11,7 +11,7 @@
 <ls>AV. PRĀT. 1, 16.</ls> fg. <ls n="AV. PRĀT.">3, 57.</ls>
 
 <ls>TS. PRĀT. 18, 5.</ls> 
-<ls>P. 1, 3, 72. 6, 1, 185. 8, 2, 4. 6. 4, 66.</ls> 
+<ls>P. 1, 3, 72.</ls> <ls n="P.">6, 1, 185.</ls> <ls n="P.">8, 2, 4.</ls> <ls n="P. 8, 2,">6.</ls> <ls n="P. 8,">4, 66.</ls> 
 <ls>ŚĀNT. 1, 24. 4, 6.</ls> 
 <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> {%der sogenannte%} <is>Svarita</is> 
 <ls>ĀŚV. ŚR. 1, 2, 9.</ls> 
@@ -19,7 +19,7 @@
 
 <ls>TS. PRĀT. 1, 40.</ls> <ls n="TS. PRĀT.">10, 12.</ls> <ls n="TS. PRĀT. 10,">16.</ls> <ls n="TS. PRĀT.">12, 9.</ls> <ls n="TS. PRĀT.">14, 29.</ls> 
 <ls>VS. PRĀT. 1, 110.</ls> fgg.
-<ls>P. 1, 2, 31. 37. 3, 11.</ls> 
+<ls>P. 1, 2, 31.</ls> <ls n="P. 1, 2,">37.</ls> <ls n="P. 1,">3, 11.</ls> 
 <div n="v">— Vgl. {#मध्य°, सर्व°#} und 
 <ls>ROTH,</ls> Einl. zu <ls>NIR. LVII. fgg.</ls>
 <LEND>

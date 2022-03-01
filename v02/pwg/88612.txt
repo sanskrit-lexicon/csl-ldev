@@ -5,7 +5,7 @@
 <ls>Spr. 1183.</ls> {#काम°#} 
 <ls>BHĀG. P. 3, 21, 21.</ls> 
 <div n="1">— 2) <lex>m.</lex> <lex>n.</lex> <is>gaṇa</is> {#अर्धर्चादि#} zu 
-<ls>P.2,4,31.</ls> <ls>TRIK.3,5,11.</ls> <ls>SIDDH. K. 249,b,6.</ls> <lex>n.</lex> (nur dieses in der älteren Sprache) 
+<ls>P. 2, 4, 31.</ls> <ls>TRIK.3,5,11.</ls> <ls>SIDDH. K. 249,b,6.</ls> <lex>n.</lex> (nur dieses in der älteren Sprache) 
 <ls>PAT.</ls> zu <ls>P. 3, 3, 56.</ls> 
 <div n="2"> a) {%Regen%} 
 <ls>AK. 1, 1, 2, 12. 3, 4, 29, 226.</ls> 
@@ -14,8 +14,8 @@
 <ls>MED. ṣ. 24.</ls> {#व\र्षं स्वेद^ं चक्रिरे रु\द्रिया^सः#} 
 <ls>ṚV. 5, 58, 7.</ls> <ls n="ṚV. 5,">83, 10.</ls> 
 <ls>AV. 3, 27, 6.</ls> {#व\र्षस्य\ सर्गा^ः#} 
-<ls>4, 15, 2. 6. fgg.</ls> 
-<ls>5, 19, 15. 11, 4, 5. 5, 13. 12, 1, 52.</ls> <ls>TS. 2, 4, 9, 1.</ls> <ls>VS. 16, 64.</ls> {#यदा वर्षस्य तृप्तः स्यात्#} 
+<ls n="AV.">4, 15, 2.</ls> <ls n="AV. 4, 15,">6. fgg.</ls> 
+<ls n="AV.">5, 19, 15.</ls> <ls n="AV.">11, 4, 5.</ls> <ls n="AV. 11,">5, 13.</ls> <ls n="AV.">12, 1, 52.</ls> <ls>TS. 2, 4, 9, 1.</ls> <ls>VS. 16, 64.</ls> {#यदा वर्षस्य तृप्तः स्यात्#} 
 <ls>ĀŚV. ŚR. 2, 9, 3.</ls> 
 <ls>NIR. 2, 22.</ls> 
 <ls>ŚAT. BR. 1, 5, 2, 19. 8, 3, 12.</ls> 
@@ -30,7 +30,7 @@
 <ls>46, 40.</ls> <ls>KATHĀS. 104, 39.</ls> <ls>RĀJA-TAR. 5, 275.</ls> {#°पूगाः#} 
 <ls>BHĀG. P. 3, 17, 26. 4, 28, 37.</ls> {#बाणमय#} 
 <ls>MBH. 5, 7269.</ls> {#अस्त्राणाम्, अग्नेः, वायोः, अश्मनाम्#} 
-<ls>3, 12143.</ls> {#महाजलौघ°#} 
+<ls n="MBH.">3, 12143.</ls> {#महाजलौघ°#} 
 <ls>R. 1, 9, 66.</ls> {#गन्धाम्बु°#} 
 <ls>H. 63.</ls> {#अङ्गारपांसु°#} 
 <ls>VARĀH. BṚH. S. 46, 41.</ls> {#पांसु°#} 
@@ -46,7 +46,7 @@
 <ls>RAGH. 14, 10.</ls> 
 <ls>RĀJA-TAR. 2, 119.</ls> 
 <div n="2">— b) <lex>n.</lex> pl. {%Regenzeit%} 
-<ls>AV. 8, 2, 22. 12, 1, 36.</ls> 
+<ls>AV. 8, 2, 22.</ls> <ls n="AV.">12, 1, 36.</ls> 
 <div n="2">— c) {%Wolke%} 
 <ls>H. an.</ls> <ls>UJJVAL.</ls> zu <ls>UṆĀDIS. 3, 62.</ls> 
 <div n="2">— d) {%Jahr%} 
@@ -78,7 +78,7 @@
 <ls>97, 1.</ls> masc. <ls>R. GORR. 1, 1, 99.</ls> <ls>RĀJA-TAR. 1, 50. 193. 3, 322.</ls> {#वर्षार्ध#} {%Halbjahr%} 
 <ls>VARĀH. BṚH. S. 42, 10.</ls> {#वर्षार्धात्#} {%nach einem halben Jahre%} 
 <ls>97, 5.</ls> Am Ende eines <lex>adj.</lex> comp. (f. {#आ#}) 
-<ls>P. 5, 1, 88. fg. 4, 1, 22, Schol.</ls> {#युगस्य पञ्चवर्षस्य#} 
+<ls>P. 5, 1, 88. fg.</ls> <ls n="P.">4, 1, 22</ls>, Schol. {#युगस्य पञ्चवर्षस्य#} 
 <ls>WEBER, JYOT. 23. 36.</ls> {#अद्विवर्ष#} {%nicht zweijährig%} 
 <ls>PĀR. GṚHY. 3, 10.</ls> {#त्रि°#} 
 <ls>ĀŚV. ŚR. 9, 4, 20.</ls> {#पञ्च°#} 
@@ -123,7 +123,7 @@ u.s.w. <ls>MBH. 6, 201.</ls> <ls n="MBH. 6,">288. fgg.</ls> <ls>VP. 167. fgg.</l
 <ls>VARĀH. BṚH. S. 24, 10.</ls> {#°प्रश्न#} 
 <ls>28, 1.</ls> {#अ°#} {%Dürre%} (?) 
 <ls>MBH. 13, 4579</ls>; vgl. 
-<ls>4527.</ls> 
+<ls n="MBH. 13,">4527.</ls> 
 <div n="2">— c) = {#कोटिवर्षा#} Comm. zu 
 <ls>AK. 2, 4, 4, 21.</ls> 
 <div n="1">— 4) <lex>m.</lex> N. pr. eines Grammatikers 

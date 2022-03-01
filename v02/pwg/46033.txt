@@ -2,7 +2,7 @@
 {#पुराण꣡#}¦ (von {#पुरा#}) 
 <div n="1"> 1) <lex>adj.</lex> <lex>f.</lex> {#आ#} (dieses nicht zu belegen) und {#ई#} <is>gaṇa</is> {#बह्वादि#} zu 
 <ls>P. 4, 1, 45.</ls> kann mit seinem subst. componirt werden 
-<ls>2, 1, 49.</ls> {%früher dagewesen, vormalig; längst bestehend. alt%}; auch so v. a. {%abgelegen, gebraucht%} (Gegens. {#नूतन, नव#}) 
+<ls n="P.">2, 1, 49.</ls> {%früher dagewesen, vormalig; längst bestehend. alt%}; auch so v. a. {%abgelegen, gebraucht%} (Gegens. {#नूतन, नव#}) 
 <ls>NAIGH. 3, 27.</ls> 
 <ls>NIR. 8, 19. 9, 43.</ls> 
 <ls>AK. 3, 2, 26.</ls> 
@@ -18,7 +18,7 @@
 <ls n="ṚV.">10, 39, 5.</ls> <ls n="ṚV. 10,">43, 5.</ls> <ls n="ṚV. 10,">130, 6.</ls> {#अत्रा^ नो वि\श्पति^ः पि\ता पु^रा\णाँ अनु^ वेनति#} 
 <ls n="ṚV. 10,">135, 1.</ls> <ls n="ṚV. 10, 135,">2.</ls> <ls>VS. 18, 52.</ls> {#धर्म#} 
 <ls>AV. 18, 3, 1.</ls> {#स\रित^ः#} 
-<ls>12, 2, 41.</ls> {#पुराणाचार्य#} 
+<ls n="AV.">12, 2, 41.</ls> {#पुराणाचार्य#} 
 <ls>PĀR. GṚHY. 2, 12.</ls> {#प्रज्ञा#} 
 <ls>ŚVETĀŚV. UP. 4, 18.</ls> {#यज्ञ#} 
 <ls>M. 5, 23.</ls> {#निधि#} 
@@ -40,14 +40,14 @@
 <ls>SUŚR. 1, 136, 14</ls> {#सर्पिस्#} 
 <ls>181, 11. 2, 40, 18.</ls> {#अन्नाद्य#} 
 <ls>BHĀG. P. 7, 12, 19.</ls> 
-<ls>P. 2, 1, 49,</ls> 
-<ls>Sch.</ls> {#पत्त्र#} 
+<ls>P. 2, 1, 49</ls>, <ls>Sch.</ls>
+{#पत्त्र#} 
 <ls>RAGH. 3, 7.</ls> Vgl. {#निष्पुराण#} . 
 <div n="1">— 2) <lex>n.</lex> {%Dinge der Vorzeit, Erzählung aus der Vergangenheit, alte Geschichte%}
 (<lang n="greek">λόγος</lang> und
 <lang n="greek">μῦθος</lang>): {#ऋच\ः सामा^नि\ च्छन्दा^ंसि पुरा\णं यजु^षा स\ह#} 
 <ls>AV. 11, 7, 24.</ls> {#इतिहास, पुराण, गाथाः, नाराशंसीः#} 
-<ls>15, 6, 4.</ls> <ls>ĀŚV. GṚHY. 3, 3.</ls> <ls>ŚAT. BR. 11, 5, 6, 8. 7, 9. 13, 4, 3, 13.</ls> <ls>TAITT. ĀR. 2, 9. fgg.</ls> {#आयुष्मतां कथाः कीर्तयन्तो माङ्गल्यानीतिहासपुराणानीत्याख्यापयमानाः#} 
+<ls n="AV.">15, 6, 4.</ls> <ls>ĀŚV. GṚHY. 3, 3.</ls> <ls>ŚAT. BR. 11, 5, 6, 8. 7, 9. 13, 4, 3, 13.</ls> <ls>TAITT. ĀR. 2, 9. fgg.</ls> {#आयुष्मतां कथाः कीर्तयन्तो माङ्गल्यानीतिहासपुराणानीत्याख्यापयमानाः#} 
 <ls>ĀŚV. GṚHY. 4, 6.</ls> {#इतिहासः पुराणं विद्या उपनिषदः#} 
 <ls>ŚAT. BR. 14, 5, 4, 10. 7, 3, 11.</ls> 
 <ls>M. 3, 232.</ls> 

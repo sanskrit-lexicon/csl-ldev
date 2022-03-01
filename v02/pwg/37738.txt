@@ -1,7 +1,7 @@
 <L>37738<pc>4-0052<k1>नय<k2>न꣡य
 {#न꣡य#}¦ (von {#नी#}) <lex>m.</lex> 
-<ls>P. 3, 3, 24,</ls> 
-<ls>Sch.</ls> <is>gaṇa</is> {#वषादि#} zu 
+<ls>P. 3, 3, 24</ls>, <ls>Sch.</ls>
+<is>gaṇa</is> {#वषादि#} zu 
 <ls>P. 6, 1, 203.</ls> 
 <ls>VOP. 26, 36.</ls> = {#नाय#} 
 <ls>AK. 3, 3, 9.</ls> = {#नीति#} 
@@ -17,7 +17,7 @@
 <ls>RĀJA-TAR. 3, 284.</ls> 
 <div n="1">— 3) {%kluge Aufführung, kluges und angemessenes Benehmen, Lebensklugheit, Staatsklugheit, Politik%}: {#कृष्णे नयो मयि बलं जयः पार्थे धनंजये#} 
 <ls>MBH. 2, 647.</ls> {#बृहस्पतिसमो नये#} 
-<ls>4, 1829.</ls> {#नयो नृपजने#} {%kluges Benehmen gegen%} 
+<ls n="MBH.">4, 1829.</ls> {#नयो नृपजने#} {%kluges Benehmen gegen%} 
 <ls>BHARTṚ. 2, 19.</ls> {#पौरुषेण नयेन च#} 
 <ls>M. 7, 159. 180.</ls> {#शमयामास पुत्रान्बर्हिष्मतो नयैः#} 
 <ls>BHĀG. P. 4, 30, 46.</ls> {#नयेन च संपन्नो धर्मेण विनयेन#} 
@@ -26,8 +26,8 @@
 <ls>1, 16, 3.</ls> <ls>PAÑCAT. III, 125.</ls> {#°विशारद#} 
 <ls>R. 5, 41, 3.</ls> {#°विद्#} 
 <ls>MBH. 5, 1347.</ls> {#नयेषु कुशलः#} 
-<ls>5286.</ls> {#°ग#} 
-<ls>878.</ls> {#°कोविद#} 
+<ls n="MBH. 5,">5286.</ls> {#°ग#} 
+<ls n="MBH. 5,">878.</ls> {#°कोविद#} 
 <ls>BHĀG. P. 6, 2, 1. 7, 5, 2.</ls> {#°शालिन्#} 
 <ls>KIR. 5, 24.</ls> {#अधिगत°#} 
 <ls>PRAB. 14, 14.</ls> {#नयापनयकोविद#} 

@@ -9,8 +9,8 @@
 <ls>an. 2, 234.</ls> 
 <ls>MED. d. 10. fg.</ls> <ls>HALĀY. 3, 55</ls>); {%Kügelchen, Punkt, Tüpfel%}: {#ऊ\र्ध्वो बि\न्दुरुद^चर\द्बह्म^ण\ः ककु^दा\धि^#} 
 <ls>AV. 10, 10, 19.</ls> {#हिरण्यय#} 
-<ls>9, 1, 21. 19, 30, 5.</ls> {#फेन^मस्यन्ति बहु\लांश्च^ बि\न्दून्#} 
-<ls>12, 3, 29.</ls> {#यद्वि^न्दू\नां भ\क्षये^त्#} 
+<ls n="AV.">9, 1, 21.</ls> <ls n="AV.">19, 30, 5.</ls> {#फेन^मस्यन्ति बहु\लांश्च^ बि\न्दून्#} 
+<ls n="AV.">12, 3, 29.</ls> {#यद्वि^न्दू\नां भ\क्षये^त्#} 
 <ls>TS. 6, 6, 3, 5.</ls> 
 <ls>KAUŚ. 13. 46.</ls> {#आज्य°#} 
 <ls>ĀPAST.</ls> beim Schol. zu <ls>KĀTY. ŚR. 3, 7, 13.</ls> <ls>SUŚR. 1, 317, 12.</ls> <ls>M. 5, 142.</ls> <ls>R. 2, 74, 14.</ls> {#विस्तीर्यते यशो लोके तैलविन्दुरिवाम्भसि#} 
@@ -47,7 +47,7 @@
 <ls>MED.</ls> 
 <div n="1">— 4) N. pr. eines Mannes <is>gaṇa</is> {#गोपवनादि#} zu 
 <ls>P. 2, 4, 67.</ls> <is>gaṇa</is> {#विदादि#} zu 
-<ls>4, 1, 104.</ls> eines <is>Āṅgirasa</is>, Liedverfassers von 
+<ls n="P.">4, 1, 104.</ls> eines <is>Āṅgirasa</is>, Liedverfassers von 
 <ls>ṚV. 8, 83.</ls> <ls n="ṚV.">9, 30.</ls> Verfassers einer <is>Rasapaddhati</is> 
 <ls>Verz. d. B. H. No. 970.</ls> pl. N. eines Kriegerstammes <is>gaṇa</is> {#दामन्यादि#} zu 
 <ls>P. 5, 3, 116.</ls> 

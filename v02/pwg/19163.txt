@@ -37,7 +37,7 @@
 <ls>BHAG. 18, 1.</ls> {#केशिसूदन#} 
 <ls>TRIK. 1, 1, 33.</ls> 
 <ls>MBH. 2, 1214.</ls> {#केशिहन्#} 
-<ls>13, 7018. 14, 1984.</ls> <ls>HARIV. 10409.</ls> {#केशिहन्तर्#} 
+<ls n="MBH.">13, 7018.</ls> <ls n="MBH.">14, 1984.</ls> <ls>HARIV. 10409.</ls> {#केशिहन्तर्#} 
 <ls>MBH. 2, 1402.</ls> 
 <div n="2">— c) ein Bein. <is>Viṣṇu's</is> (vgl. {#केशव#}) 
 <ls>TRIK. 1, 1, 31.</ls> N. pr. eines Sohnes <is>Vasudeva's</is> von der <is>Kauśalyā</is> 
@@ -51,7 +51,7 @@
 <ls>Ind. St. 2, 206.</ls> N. pr. <is>gaṇa</is> {#कुर्वादि#} zu 
 <ls>P. 4, 1, 151.</ls> einer <is>Apsaras</is> 
 <ls>MBH. 1, 2558.</ls> {#गौरी विद्याथ गान्धारी केशिनी#} (adj.?) {#मित्रसाह्वया । सावित्र्या सह सर्वास्ताः पार्वत्या यान्ति पृष्ठतः ॥#} 
-<ls>3, 14562.</ls> einer Tochter des Königs von <is>Vidarbha</is>, Gemahlin <is>Sagara's</is> und Mutter von <is>Asamañjas</is> 
+<ls n="MBH.">3, 14562.</ls> einer Tochter des Königs von <is>Vidarbha</is>, Gemahlin <is>Sagara's</is> und Mutter von <is>Asamañjas</is> 
 <ls>HARIV. 797. fgg.</ls> 
 <ls>R. 1, 39, 3. 13. 16.</ls> 
 <ls>VP. 377.</ls> der Gemahlin <is>Ājamīḍha's</is> (<is>Suhotra's</is>) und Mutter <is>Jahnu's</is> 

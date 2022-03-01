@@ -50,7 +50,7 @@
 <ls>HĀR. 193</ls> : {#अङ्गिष्वेवाङ्कमङ्गानि#} . 
 <div n="1">— 4) {%Haken, Klammer%}: {#अ\य\स्मये^ना\ङ्केन^ द्विष\ते त्वा स^जामसि#} {%wir heften dich mit eiserner Klammer an den Feind%} 
 <ls>AV. 7, 116, 1.</ls> {#अ\ङ्कान्त्स^म\ङ्कान्ह\विषा^ विधेम\ यो ऽग्र^भी\त्पर्वा^स्य\ ग्रभी^ता#} 
-<ls>1, 12, 1.</ls> {#ऊ\ष्म\ण्या^पि\धाना^ चरू\णाम\ङ्काः सू\नाः परि^ भू\ष\न्त्यश्व^म्#} {%die Deckel der Tiegel, Haken%} (entweder {%Schürhaken%} oder {%ein gekrümmtes Instrument zum Schneiden, Hippe), Schlachtmesser umgeben das%} (geschlachtete) {%Pferd%} 
+<ls n="AV.">1, 12, 1.</ls> {#ऊ\ष्म\ण्या^पि\धाना^ चरू\णाम\ङ्काः सू\नाः परि^ भू\ष\न्त्यश्व^म्#} {%die Deckel der Tiegel, Haken%} (entweder {%Schürhaken%} oder {%ein gekrümmtes Instrument zum Schneiden, Hippe), Schlachtmesser umgeben das%} (geschlachtete) {%Pferd%} 
 <ls>ṚV. 1, 162, 13</ls>; vgl. {#अङ्कुश, बाह्वङ्क, समङ्क#},
 <lang n="greek">ὄγκος</lang> und lat. {%uncus.%} 
 <div n="1">— 5)
@@ -65,7 +65,7 @@
 <ls>R. 6, 94, 5.</ls> 
 <ls>ŚĀK. 161.</ls> 
 <ls>VIKR. 79.</ls> {%Brandmahl%}: {#कट्यां कृताङ्कः#} 
-<ls>M. 8,</ls> <ls>281</ls>; vgl. <ls>MIT. 47.</ls> {#शुनः पादेन दत्त्वाङ्कं ललाटे#} 
+<ls>M. 8</ls>, <ls>281</ls>; vgl. <ls>MIT. 47.</ls> {#शुनः पादेन दत्त्वाङ्कं ललाटे#} 
 <ls>KATHĀS. 13, 148.</ls> 
 <div n="1">— 6) {%Zahlzeichen, Ziffer%} 
 <ls>COLEBR. Alg. 4,</ls> 
@@ -73,8 +73,8 @@
 <ls>299.</ls>
 <lang n="arabic">انك</lang> 
 <div n="1">— 7) {%Anzahl%}: {#तदङ्काः#} 
-<ls>P. 1, 1, 9,</ls> 
-<ls>Sch.</ls> (als Ueberschrift). 
+<ls>P. 1, 1, 9</ls>, <ls>Sch.</ls>
+(als Ueberschrift). 
 <div n="1">— 8) {%Coefficient%} 
 <ls>COLEBR. Alg. 170,</ls> 
 <ls>N. 3. 246,</ls> 

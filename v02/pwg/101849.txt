@@ -1,6 +1,6 @@
 <L>101849<pc>7-0387<k1>श्रुति<k2>श्रु꣡ति<h>1
 1. {#श्रु꣡ति#}¦ (von 1. {#श्रु#}) 
-f. <ls>P. 3, 3, 95, <is>Vārtt</is>. 1</ls> ({#करणे#}). 
+f. <ls>P. 3, 3, 95</ls>, <is>Vārtt</is>. 1 ({#करणे#}). 
 <ls>VOP. 26, 183.</ls> 
 <div n="1"> 1) {%das Hören, Vernehmen, Zuhören%} 
 <ls>H. an. 2, 203.</ls> 
@@ -14,7 +14,7 @@ f. <ls>P. 3, 3, 95, <is>Vārtt</is>. 1</ls> ({#करणे#}).
 <ls>ŚĀK. 31, 8.</ls> {#अश्रुतिमभिनीय#} 
 <ls>UTTARAR. 54, 4 (69, 11).</ls> {#ब्रूहि यद्यस्ति ते श्रुतिः#} {%sprich, wenn du es gehört hast%}, 
 <ls>MBH. 13, 823.</ls> {#श्रुतिं वचो ऽनुगां#} (so zu lesen) {#कत्वा#} so v. a. {%auf die Rede hinhorchend%} 
-<ls>WEBER,</ls> <ls>PRATIJÑĀS. 111.</ls> 
+<ls>WEBER</ls>, <ls>PRATIJÑĀS. 111.</ls> 
 <div n="1">— 2) {%Ohr (Gehör%}) 
 <ls>AK. 2, 6, 2, 45. 3, 4, 14, 76.</ls> 
 <ls>TRIK. 3, 3, 188.</ls> 
@@ -54,7 +54,7 @@ f. <ls>P. 3, 3, 95, <is>Vārtt</is>. 1</ls> ({#करणे#}).
 <ls>TS. PRĀT. 21, 10.</ls> <ls n="TS. PRĀT. 21,">15.</ls> Comm. {#प्रोच्यमानश्रुतिभिः#} 
 <ls>BHĀG. P. 5, 2, 4.</ls> {#गीत°#} 
 <ls>KATHĀS. 12, 32.</ls> {#समान°#} <lex>adj.</lex> {%gleichlautend%} 
-<ls>P. 4, 3, 100, Schol.</ls> 
+<ls>P. 4, 3, 100</ls>, Schol. 
 <div n="1">— 5) in der Musik {%ein Viertelton%} oder {%Intervall%} (deren 22 angenommen werden) 
 <ls>H. an.</ls> <ls>As. Res. 3, 69. 9, 461</ls> (nach <ls>HAUGHTON).</ls> <ls>Verz. d. Oxf. H. 200,b,</ls> 
 <ls>5. 6. 10.</ls> {#°जातिविशारद#} 
@@ -80,7 +80,7 @@ f. <ls>P. 3, 3, 95, <is>Vārtt</is>. 1</ls> ({#करणे#}).
 <ls>HARIV. 4345.</ls> 
 <div n="1">— 8) {%Ausspruch%}: {#इतीयं प्रथिता श्रुतिः#} 
 <ls>MBH. 1, 7067.</ls> <ls n="MBH. 1,">8344</ls> ({#इति#} zu ergänzen). {#पौर्विकी#} 
-<ls>14, 524.</ls> {#श्रुतिर्हि श्रूयते पुण्या ब्राह्मणानां यशस्विनाम्#} 
+<ls n="MBH.">14, 524.</ls> {#श्रुतिर्हि श्रूयते पुण्या ब्राह्मणानां यशस्विनाम्#} 
 <ls>R. 2, 29, 17.</ls> {#अन्तकाले हि भूतानि मुह्यन्तीति पुरा श्रुतिः । राज्ञैवं कुर्वता लोके प्रत्यक्षा सा श्रुतिः कता#} 
 <ls>106, 12 (113, 7</ls> <ls>GORR.). 107, 11.</ls> {#लौकिकी#} 
 <ls>Spr. 3039.</ls> {#लोके हि प्रथिता ननु श्रुतिरियं नार्यो ऽपि गायन्ति याम्#} 
@@ -156,5 +156,5 @@ f. <ls>P. 3, 3, 95, <is>Vārtt</is>. 1</ls> ({#करणे#}).
 <div n="v">— Vgl. {#अ°#} ({#अश्रुतीपथं या#} {%in Vergessenheit gerathen%} 
 <ls>MBH. 12, 321</ls>), {#चक्षुः°, जन°, बहु°, मन्त्र°, महा°, यथा°, लोक°, वेद°#} (in der 2ten Bed. auch 
 <ls>MBH. 1, 6158.</ls> <ls n="MBH.">3, 1760.</ls> <ls n="MBH.">12, 12969.</ls> {#°श्रुती#} 
-<ls>2, 1574</ls>), {#शूर्प°, श्रौत#} .
+<ls n="MBH.">2, 1574</ls>), {#शूर्प°, श्रौत#} .
 <LEND>

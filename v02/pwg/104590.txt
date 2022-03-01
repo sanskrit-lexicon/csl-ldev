@@ -8,7 +8,7 @@
 <ls>7, 10.</ls> {#इक्ष्वाकुकुलस्य#} 
 <ls>RAGH. 3, 1.</ls> {#प्रजा°#} 
 <ls>14, 82.</ls> {#जागरण°#} 
-<ls>P. 3, 2, 110, <is>Vārtt</is>. 2.</ls> {#यज्ञ°#} 
+<ls>P. 3, 2, 110</ls>, <is>Vārtt</is>. 2. {#यज्ञ°#} 
 <ls>BHĀG. P. 1, 4, 19. 4, 7, 17.</ls> {#संसार°#} 
 <ls>Spr. (II) 2673.</ls> {#ज्ञान°#} 
 <ls>MĀṆḌ. UP. 10</ls> (<ls>NṚS. TĀP. UP.</ls> in <ls>Ind. St. 9, 133).</ls> {#अर्थ°#} 
@@ -36,7 +36,7 @@
 <ls>H. an.</ls> <ls>MED. t. 168.</ls> 
 <div n="2">— d) {%Fortsetzung des Geschlechts, Nachkommenschaft%} 
 <ls>AK. 2, 7, 1. 3, 4, 7, 34.</ls> 
-<ls>H. 503,</ls> <ls>Schol.</ls> <ls>H. ś. 114.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 342.</ls> <ls>WEBER, JYOT. 110.</ls> <ls>M. 3, 259. 11, 5.</ls> {#पशुस्त्रीणाम्#} 
+<ls>H. 503</ls>, <ls>Schol.</ls> <ls>H. ś. 114.</ls> <ls>H. an.</ls> <ls>MED.</ls> <ls>HALĀY. 2, 342.</ls> <ls>WEBER, JYOT. 110.</ls> <ls>M. 3, 259. 11, 5.</ls> {#पशुस्त्रीणाम्#} 
 <ls>YĀJÑ. 2, 39.</ls> {#एतेषां प्रसवो यश्च प्रसवस्य च संतातिः#} 
 <ls>MBH. 1, 2161.</ls> 
 <ls>RAGH. 1, 69. 3, 50. 10, 3. ed. Calc. 1, 35.</ls> <ls>ŚĀK. 91, 7. 12.</ls> <ls>Spr. (II) 921.</ls> <ls n="Spr. (II)">5709.</ls> <ls>UTTARAR. 123, 8 (166, 8).</ls> <ls>MĀRK. P. 109, 35</ls> (pl.). {#न लेभे तासु संततिम्#} 

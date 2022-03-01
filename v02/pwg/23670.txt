@@ -1,9 +1,9 @@
 <L>23670<pc>2-0850<k1>ग्रह<k2>ग्र꣡ह
 {#ग्र꣡ह#}¦ (von {#ग्रह्#}) 
 <ls>P. 3, 3, 58.</ls> <is>gaṇa</is> {#वृषादि#} zu 
-<ls>6, 1, 203.</ls> 
+<ls n="P.">6, 1, 203.</ls> 
 <div n="1"> 1) <lex>adj.</lex> am Ende eines comp. 
-<ls>P. 3, 2, 9, <is>Vārtt</is>.</ls> 
+<ls>P. 3, 2, 9</ls>, <is>Vārtt</is>. 
 <div n="2"> a) {%ergreifend, anfassend, haltend%}: {#तत्पदग्रहावपतताम्#} 
 <ls>BHĀG. P. 3, 15, 35.</ls> Vgl. {#अङ्कुशग्रह, धनुर्ग्रह#} u. s. w. 
 <div n="2">— b) {%einsammelnd, zusammenscharrend%}: {#यूयं फलग्रहाः#} 
@@ -29,12 +29,12 @@
 <ls>R. 3, 5, 4. 10.</ls> 
 <ls>SUŚR. 1, 21, 16. 118, 21.</ls> {#ग्रहा न विपरीतास्तु#} 
 <ls>MBH. 3, 2555.</ls> {#शुक्रो ग्रहः#} 
-<ls>1, 2606.</ls> {#श्वेतो ग्रहः#} 
-<ls>5, 1376. 6, 79. 83.</ls> <ls>HARIV. 11123.</ls> {#लोहिताङ्ग इव ग्रहः#} 
+<ls n="MBH.">1, 2606.</ls> {#श्वेतो ग्रहः#} 
+<ls n="MBH.">5, 1376.</ls> <ls n="MBH.">6, 79.</ls> <ls n="MBH. 6,">83.</ls> <ls>HARIV. 11123.</ls> {#लोहिताङ्ग इव ग्रहः#} 
 <ls>R. 3, 31, 5.</ls> {#क्षीणपुण्य इव ग्रहः#} 
 <ls>MBH. 3, 842.</ls> Bald werden {%fünf%} (Mars, Mercur, Jupiter, Venus u. Saturn), bald {%sieben%} (die vorigen nebst <is>Rāhu</is> u. <is>Ketu</is>, dem {%auf%}- und {%niedersteigenden Knoten%}), bald {%neun Planeten%} (die vorigen nebst Sonne und Mond) erwähnt. {#राक्षसं दुद्रुवुः संख्ये ग्रहाः पञ्च रविं यथा#} 
 <ls>MBH. 6, 4566.</ls> {#(पीडितः) यथा युगक्षये घोरे चन्द्रमाः पञ्चभिर्ग्रहैः#} 
-<ls>4567.</ls> {#ग्रहैस्ततः पञ्चभिरुच्चसंश्रयैरसूर्यगैः सूचितभाग्यसंपदम् (पुत्रम्)#} 
+<ls n="MBH. 6,">4567.</ls> {#ग्रहैस्ततः पञ्चभिरुच्चसंश्रयैरसूर्यगैः सूचितभाग्यसंपदम् (पुत्रम्)#} 
 <ls>RAGH. 3, 13.</ls> 
 <ls>R. 1, 19, 2.</ls> 
 <ls>VARĀH. BṚH. S. 1, 10. 17, 2. 8. fgg.</ls>
@@ -46,10 +46,10 @@
 <ls>VID. 62.</ls> {%neun Planeten%} 
 <ls>YĀJÑ. 1, 295.</ls> 
 <ls>MBH. 4, 48.</ls> 
-<ls>VARĀH. BṚH. S. 24, 6. 46,</ls> <ls>6(7). 47, 6. 29.</ls> Daher zur Bezeichnung der {%Zahl neun%} gebraucht 
+<ls>VARĀH. BṚH. S. 24, 6. 46</ls>, <ls>6(7). 47, 6. 29.</ls> Daher zur Bezeichnung der {%Zahl neun%} gebraucht 
 <ls>ŚRUT. 35. 41.</ls> {#ग्रहाणां सूर्य उच्यते#} 
 <ls>MBH. 13, 913.</ls> {#सूर्यो ग्रहाणामधिपः#} 
-<ls>14, 1175.</ls> Schon 
+<ls n="MBH.">14, 1175.</ls> Schon 
 <ls>ŚAT. BR. 4, 6, 5, 1. 5</ls> wird die {%Sonne%} {#ग्रह#} genannt, aber wohl nicht als {%Planet%}, sondern als {%ein Wesen, welches dämonischen Einfluss auf andere Wesen ausübt%}; vgl.
 <lang n="greek">β.</lang> Die {%Planeten%} werden in {%günstige%} (☿ , ♃ , ♀ , ☾), {#शुभग्रहाः#} oder {#सद्ग्रहाः#}, und in {%ungünstige%} (♂ , ♄ , ☉ , ☊ , ☋), {#क्रूरग्रहाः#} oder {#पापग्रहाः#} eingetheilt, 
 <ls>VARĀH. BṚH. S. 16,40.</ls> <ls>39(38),2. 27,c,21. 21,31. 27,a,11. 39(38),8.</ls> Im System der <is>Jaina</is> bilden die {%Planeten%} eine der 5 Arten der <is>Jyotiṣka</is> 
@@ -64,8 +64,8 @@
 <ls>1, 11, 6. 9.</ls> {#दुष्टग्रह#} 
 <ls>88, 9. 181, 15. 375, 4.</ls> {#असंख्येया ग्रहगणा ग्रहाधिपतयस्तु ये#} 
 <ls>2, 531. 19.</ls> <ls>MBH. 3, 14479. fgg.</ls> {#ऊर्ध्वं तु षोडशाद्वर्षाद्ये भवन्ति ग्रहा नृणाम् । तानहं संप्रवक्ष्यामि#} 
-<ls>14500. fgg.</ls> {#कश्चित्क्रीडितुकामो वै भोक्तुकामस्तथापरः । अभिकामस्तथैवान्य इत्येष त्रिविधो ग्रहः ॥#} 
-<ls>14510.</ls> Vgl. {#गन्धर्व°, देव°, पितृ°, बाल°, यक्ष°, राक्षस°, सिद्ध°, स्कन्ध°#}. 
+<ls n="MBH. 3,">14500. fgg.</ls> {#कश्चित्क्रीडितुकामो वै भोक्तुकामस्तथापरः । अभिकामस्तथैवान्य इत्येष त्रिविधो ग्रहः ॥#} 
+<ls n="MBH. 3,">14510.</ls> Vgl. {#गन्धर्व°, देव°, पितृ°, बाल°, यक्ष°, राक्षस°, सिद्ध°, स्कन्ध°#}. 
 <ls>LALIT. 206.</ls> {#दुष्टग्रहगृहीत#} 
 <ls>PAÑCAT. 43, 7.</ls> {#ग्रह इवार्थमभिरक्षति#} 
 <ls>BHĀG. P. 5, 26, 36.</ls> {#दिग्वासा ग्रहवत्#} 
@@ -108,7 +108,7 @@
 <ls>YĀJÑ. 1, 182.</ls> 
 <div n="3">— γ) {%die Griffstelle —, die Mitte des Bogens%}: {#जातरूपग्रहं धनुः#} 
 <ls>MBH. 4, 1351.</ls> {#सुग्रह#} 
-<ls>1326.</ls> 
+<ls n="MBH. 4,">1326.</ls> 
 <div n="2">— c) nom. act. 
 <div n="3"> α) {%Griff, das Ergreifen, Packen%} 
 <ls>AK. 3, 3, 8.</ls> 
@@ -129,7 +129,7 @@
 <ls>H. 125.</ls> 
 <ls>H. an.</ls> 
 <ls>MED.</ls> {#शं नो\ ग्रहा^श्चान्द्रम\साः शमा^दि\त्याश्च^ रा\हुणा^#} 
-<ls>AV. 19, 9, 10. 7.</ls> 
+<ls>AV. 19, 9, 10.</ls> <ls n="AV. 19, 9,">7.</ls> 
 <ls>VARĀH. BṚH. S. 5, 8. 49. 63. 97. 45, 84 (82).</ls> {#राहु°#} 
 <ls>ŚṚṄGĀRAT. 2.</ls> 
 <div n="3">— β) {%Diebstahl, Raub%}: {#अङ्गुली ग्रन्थिभेदस्य छेदयेत्प्रथमे ग्रहे#} 
