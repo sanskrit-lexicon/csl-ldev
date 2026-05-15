@@ -4,38 +4,43 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**csl-ldev** provides per-entry Devanagari text files for every dictionary entry across the CDSL, enabling direct correction links from StarDict and other offline dictionary applications. Each file URL like `https://github.com/sanskrit-lexicon/csl-ldev/blob/main/v02/<dict>/<lnum>.txt` links to the exact dictionary entry, where users can submit pull requests or issues.
+**csl-ldev** is a Sanskrit Lexicon **converter** repository — part of the Cologne Digital Sanskrit Lexicon (CDSL) infrastructure.
 
-This is derived from `csl-devanagari`: each large per-dictionary Devanagari file is split into individual entry files (one file per L-number).
+## Repo Category
 
-## Architecture
+`converter` — see the [tooling runbook](https://github.com/sanskrit-lexicon/csl-observatory/blob/main/runbook/cologne-tooling-runbook.md) for category-specific conventions.
 
-| Directory/File | Purpose |
-|---|---|
-| `v02/` | Per-dictionary subdirectories; each contains one `.txt` file per dictionary entry (named by L-number) |
-| `scripts/` | Generation scripts |
-| `scripts/txt_to_ldev.py` | Splits a full dictionary Devanagari file into per-entry files |
-| `scripts/ldev_to_csldevanagari.py` | Reverse: reconstructs the full file from per-entry files |
-| `scripts/redo_all.sh` | Regenerates all per-entry files for all dictionaries |
+## GitHub Issue Conventions
 
-### File format
+This repository uses the **Cologne tooling-repo taxonomy**. All issues must have:
+- **Exactly one type label** (9 options)
+- **Exactly one severity label** (4 levels)
+- **One milestone** (5 options)
 
-Each per-entry file (e.g., `v02/snp/35.txt`) contains the raw Devanagari CDSL-format entry:
-```
-<L>35<pc>532<k1>ओष्ठोपमफला<k2>ओष्ठोपमफला
-{%oṣṭhopamaphalā%}¦
-...
-<LEND>
-```
+### Type Labels
+- `bug` — Code defect (wrong output, broken contract)
+- `feature` — Net-new capability
+- `enhancement` — Improvement to existing capability
+- `performance` — Speed, memory, throughput optimization
+- `tech-debt` — Refactoring, cleanup, dependency updates
+- `security` — CVE, auth issue, credential exposure
+- `documentation` — Prose docs, API docs, comments
+- `infrastructure` — CI/CD, deploy, data pipelines, build tooling
+- `question` — Research, proposals, open discussions
 
-### Regeneration workflow
+### Severity Labels
+- `trivial` — Cosmetic, < 1 hour
+- `minor` — Single function/component
+- `major` — Multiple files, design decision
+- `critical` — Blocks users, data loss/security CVE
 
-```bash
-cd scripts
-bash redo_all.sh    # regenerates v02/<dict>/ for all dictionaries
-```
+### Milestones
+- **API Stability** — performance, security, regressions
+- **User Experience** — bugs, features, enhancements
+- **Data Quality** — data-pipeline issues, integrity
+- **Developer Experience** — tech-debt, infrastructure, docs
+- **Community** — questions, proposals, discussions
 
-## Dependencies
+## Cross-Repo Coordination
 
-- **Python 3**
-- **csl-devanagari** sibling repo — source of full-dictionary Devanagari files
+The org-level project [Tooling Roadmap](https://github.com/orgs/sanskrit-lexicon/projects/9) tracks tool work across all repositories.
