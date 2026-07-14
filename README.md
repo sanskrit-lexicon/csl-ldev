@@ -25,7 +25,7 @@ finds an error in one entry can then edit or open a pull request against just th
   is entry `L=35` of the `snp` dictionary.
 - Each file is the verbatim `<L>…<LEND>` section copied from the corresponding
   csl-devanagari source (e.g.
-  [snp.txt](https://github.com/sanskrit-lexicon/csl-devanagari/blob/master/v02/snp/snp.txt)).
+  [snp.txt](https://github.com/sanskrit-lexicon/csl-devanagari/blob/main/v02/snp/snp.txt)).
   A typical entry:
 
   ```
