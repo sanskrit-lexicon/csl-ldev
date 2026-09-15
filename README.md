@@ -1,6 +1,6 @@
 # csl-ldev
 
-_Created: 15-05-2026 · Last updated: 11-07-2026_
+_Created: 15-05-2026 · Last updated: 15-09-2026_
 
 Per-entry (`lnum`-wise) data store for the Cologne Digital Sanskrit Lexicon
 (CDSL). Every dictionary entry from [csl-devanagari](https://github.com/sanskrit-lexicon/csl-devanagari)
@@ -50,6 +50,11 @@ See [scripts/](https://github.com/sanskrit-lexicon/csl-ldev/tree/main/scripts):
   source, e.g. `python3 txt_to_ldev.py mw` populates `v02/mw/`.
 - [redo_all.sh](https://github.com/sanskrit-lexicon/csl-ldev/blob/main/scripts/redo_all.sh)
   — regenerate every dictionary from the latest csl-devanagari data: `bash redo_all.sh`.
+  It first runs csl-devanagari's own `redo_all.sh`, which pulls csl-orig. Since 15-09-2026
+  ([#26](https://github.com/sanskrit-lexicon/csl-ldev/pull/26),
+  [csl-devanagari#66](https://github.com/sanskrit-lexicon/csl-devanagari/pull/66)) the chain stops if a
+  sibling folder is missing or that pull fails, instead of converting stale data — fix the folder it
+  names or pull csl-orig by hand, then rerun.
 - [ldev_to_csldevanagari.py](https://github.com/sanskrit-lexicon/csl-ldev/blob/main/scripts/ldev_to_csldevanagari.py)
   — carry a correction made here back into csl-devanagari, taking `dictId` and `lnum`,
   e.g. `python3 ldev_to_csldevanagari.py skd 15140` integrates `v02/skd/15140.txt` into
